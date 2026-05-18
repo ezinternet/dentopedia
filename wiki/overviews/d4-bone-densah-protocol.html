@@ -1,0 +1,583 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>D4 골질 Densah Bur 사용 프로토콜</title>
+<style>
+  :root {
+    --red:    #e74c3c;
+    --orange: #e67e22;
+    --yellow: #f1c40f;
+    --green:  #27ae60;
+    --blue:   #2980b9;
+    --purple: #8e44ad;
+    --dark:   #1a1a2e;
+    --card:   #16213e;
+    --border: #0f3460;
+    --text:   #e0e0e0;
+    --sub:    #94a3b8;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    font-family: 'Segoe UI', -apple-system, sans-serif;
+    background: var(--dark);
+    color: var(--text);
+    line-height: 1.6;
+    padding: 24px;
+  }
+
+  h1 {
+    text-align: center;
+    font-size: 1.6rem;
+    color: #fff;
+    margin-bottom: 4px;
+  }
+  .subtitle {
+    text-align: center;
+    color: var(--sub);
+    font-size: 0.85rem;
+    margin-bottom: 28px;
+  }
+
+  /* ── Bone density row ── */
+  .density-row {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+    margin-bottom: 28px;
+  }
+  .density-card {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 14px;
+    border-top: 4px solid;
+    text-align: center;
+  }
+  .density-card.d1 { border-color: #c0392b; }
+  .density-card.d2 { border-color: var(--orange); }
+  .density-card.d3 { border-color: var(--yellow); }
+  .density-card.d4 { border-color: var(--green);  }
+  .density-card .type { font-size: 1.8rem; font-weight: 700; }
+  .density-card.d1 .type { color: #c0392b; }
+  .density-card.d2 .type { color: var(--orange); }
+  .density-card.d3 .type { color: var(--yellow); }
+  .density-card.d4 .type { color: #2ecc71; }
+  .density-card .hu  { font-size: 0.75rem; color: var(--sub); margin: 2px 0 6px; }
+  .density-card .desc { font-size: 0.78rem; }
+  .d4-badge {
+    display: inline-block;
+    background: #2ecc71;
+    color: #000;
+    border-radius: 4px;
+    font-size: 0.65rem;
+    font-weight: 700;
+    padding: 1px 6px;
+    margin-top: 6px;
+  }
+
+  /* ── Section title ── */
+  .section-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #fff;
+    margin: 20px 0 10px;
+    padding-left: 10px;
+    border-left: 4px solid #2ecc71;
+  }
+
+  /* ── Step timeline ── */
+  .timeline {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .step {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    position: relative;
+    padding-bottom: 18px;
+  }
+  .step:not(:last-child)::before {
+    content: '';
+    position: absolute;
+    left: 19px;
+    top: 40px;
+    width: 2px;
+    bottom: 0;
+    background: var(--border);
+  }
+  .step-num {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 800;
+    font-size: 0.95rem;
+    flex-shrink: 0;
+    border: 2px solid;
+  }
+  .step-body { flex: 1; }
+  .step-title { font-weight: 700; font-size: 0.95rem; color: #fff; margin-bottom: 4px; }
+  .step-desc  { font-size: 0.82rem; color: var(--sub); }
+  .tag-row    { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .tag {
+    font-size: 0.72rem;
+    padding: 2px 8px;
+    border-radius: 20px;
+    font-weight: 600;
+  }
+  .tag.green  { background: rgba(46,204,113,.15); color: #2ecc71; border: 1px solid rgba(46,204,113,.4); }
+  .tag.orange { background: rgba(230,126,34,.15);  color: var(--orange); border: 1px solid rgba(230,126,34,.4); }
+  .tag.red    { background: rgba(231,76,60,.15);   color: var(--red);    border: 1px solid rgba(231,76,60,.4); }
+  .tag.blue   { background: rgba(41,128,185,.15);  color: #5dade2; border: 1px solid rgba(41,128,185,.4); }
+  .tag.purple { background: rgba(142,68,173,.15);  color: #bb8fce; border: 1px solid rgba(142,68,173,.4); }
+
+  /* ── Two-column layout ── */
+  .two-col {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+  .card {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 16px;
+    border: 1px solid var(--border);
+  }
+  .card-title {
+    font-size: 0.85rem;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  .card-title .icon { font-size: 1.1rem; }
+
+  /* ── Table ── */
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.8rem;
+  }
+  th {
+    background: var(--border);
+    color: #fff;
+    padding: 7px 10px;
+    text-align: left;
+    font-weight: 600;
+  }
+  td { padding: 7px 10px; border-bottom: 1px solid var(--border); color: var(--sub); }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(255,255,255,.03); color: var(--text); }
+  td.green { color: #2ecc71; font-weight: 600; }
+  td.orange { color: var(--orange); font-weight: 600; }
+  td.red    { color: var(--red); font-weight: 600; }
+
+  /* ── Comparison bar ── */
+  .compare-row { margin-bottom: 10px; }
+  .compare-label { font-size: 0.78rem; color: var(--sub); margin-bottom: 3px; display: flex; justify-content: space-between; }
+  .bar-track { background: var(--border); border-radius: 20px; height: 10px; overflow: hidden; }
+  .bar-fill  { height: 100%; border-radius: 20px; }
+
+  /* ── Alert box ── */
+  .alert {
+    border-radius: 8px;
+    padding: 12px 14px;
+    font-size: 0.82rem;
+    margin-bottom: 14px;
+    display: flex;
+    gap: 10px;
+    align-items: flex-start;
+  }
+  .alert.warn   { background: rgba(231,76,60,.12);  border-left: 4px solid var(--red); }
+  .alert.info   { background: rgba(41,128,185,.12); border-left: 4px solid var(--blue); }
+  .alert.tip    { background: rgba(46,204,113,.12); border-left: 4px solid #2ecc71; }
+  .alert .icon  { font-size: 1.1rem; flex-shrink: 0; margin-top: 1px; }
+  .alert strong { color: #fff; }
+
+  /* ── Bur sequence visual ── */
+  .bur-seq {
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+  .bur {
+    background: var(--border);
+    border-radius: 8px;
+    padding: 8px 12px;
+    text-align: center;
+    font-size: 0.8rem;
+  }
+  .bur .size { font-weight: 800; font-size: 1rem; color: #2ecc71; }
+  .bur .label{ font-size: 0.65rem; color: var(--sub); }
+  .arrow { color: var(--sub); font-size: 1.2rem; }
+  .bur.final { border: 1px solid #2ecc71; }
+  .bur.final .size { color: #f1c40f; }
+
+  /* ── ISQ zone ── */
+  .isq-bar {
+    position: relative;
+    height: 28px;
+    background: linear-gradient(to right, #e74c3c 0%, #e67e22 30%, #f1c40f 50%, #2ecc71 70%, #27ae60 100%);
+    border-radius: 6px;
+    margin: 10px 0 6px;
+  }
+  .isq-marker {
+    position: absolute;
+    top: -5px;
+    transform: translateX(-50%);
+    font-size: 0.65rem;
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+  }
+  .isq-marker::after {
+    content: '';
+    display: block;
+    width: 2px;
+    height: 38px;
+    background: #fff;
+    margin: 0 auto;
+  }
+  .isq-labels {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.65rem;
+    color: var(--sub);
+    margin-bottom: 10px;
+  }
+
+  /* ── Evidence footer ── */
+  .evidence {
+    margin-top: 28px;
+    border-top: 1px solid var(--border);
+    padding-top: 14px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+  }
+  .ref-card {
+    background: var(--card);
+    border-radius: 8px;
+    padding: 10px 12px;
+    font-size: 0.74rem;
+  }
+  .ref-card .ref-title { color: #fff; font-weight: 600; margin-bottom: 3px; }
+  .ref-card .ref-type  { display: inline-block; background: var(--border); border-radius: 3px; padding: 1px 5px; font-size: 0.65rem; margin-bottom: 4px; }
+  .ref-card .ref-key   { color: var(--sub); }
+
+  @media (max-width: 700px) {
+    .density-row  { grid-template-columns: 1fr 1fr; }
+    .two-col      { grid-template-columns: 1fr; }
+    .evidence     { grid-template-columns: 1fr; }
+  }
+</style>
+</head>
+<body>
+
+<h1>D4 골질 — Densah Bur 사용 프로토콜</h1>
+<p class="subtitle">Misch 분류 D4 (HU 150–350) · 연조직형 골수 · 피질골 거의 없음 · 최대 도전 환경</p>
+
+<!-- ── Bone Density Overview ── -->
+<div class="section-title">Misch 골질 분류</div>
+<div class="density-row">
+  <div class="density-card d1">
+    <div class="type">D1</div>
+    <div class="hu">HU &gt; 1,250</div>
+    <div class="desc">치밀 피질골<br>전하악 전치부</div>
+  </div>
+  <div class="density-card d2">
+    <div class="type">D2</div>
+    <div class="hu">HU 850–1,250</div>
+    <div class="desc">두꺼운 피질골<br>+ 조대 해면골</div>
+  </div>
+  <div class="density-card d3">
+    <div class="type">D3</div>
+    <div class="hu">HU 350–850</div>
+    <div class="desc">얇은 피질골<br>+ 세밀한 해면골</div>
+  </div>
+  <div class="density-card d4">
+    <div class="type">D4</div>
+    <div class="hu">HU 150–350</div>
+    <div class="desc">해면골만 존재<br>피질골 거의 없음</div>
+    <div class="d4-badge">⚠ Densah 최적 적응증</div>
+  </div>
+</div>
+
+<!-- ── D4 특성 & 문제점 ── -->
+<div class="two-col">
+  <div class="card">
+    <div class="card-title"><span class="icon">⚠️</span> D4 골의 임상적 문제점</div>
+    <div class="compare-row">
+      <div class="compare-label"><span>1차 안정성</span><span style="color:#e74c3c">매우 낮음</span></div>
+      <div class="bar-track"><div class="bar-fill" style="width:15%;background:#e74c3c"></div></div>
+    </div>
+    <div class="compare-row">
+      <div class="compare-label"><span>드릴 후 골-임플란트 접촉률</span><span style="color:#e67e22">낮음</span></div>
+      <div class="bar-track"><div class="bar-fill" style="width:25%;background:#e67e22"></div></div>
+    </div>
+    <div class="compare-row">
+      <div class="compare-label"><span>삽입 토크</span><span style="color:#e74c3c">15–25 Ncm</span></div>
+      <div class="bar-track"><div class="bar-fill" style="width:20%;background:#e74c3c"></div></div>
+    </div>
+    <div class="compare-row" style="margin-top:4px">
+      <div class="compare-label"><span>초기 ISQ</span><span style="color:#f1c40f">45–60</span></div>
+      <div class="bar-track"><div class="bar-fill" style="width:50%;background:#f1c40f"></div></div>
+    </div>
+  </div>
+
+  <div class="card">
+    <div class="card-title"><span class="icon">💡</span> 왜 Densah Bur가 유리한가</div>
+    <table>
+      <tr><th>기전</th><th>효과</th></tr>
+      <tr><td>역회전 (CCW) 압축</td><td class="green">골 제거 없이 측벽 압축</td></tr>
+      <tr><td>점탄성 spring-back</td><td class="green">골공 직경 &lt; 임플란트 직경</td></tr>
+      <tr><td>압축 골 층 형성</td><td class="green">BIC ×3 (vs 표준드릴)</td></tr>
+      <tr><td>골기질·세포 보존</td><td class="green">생물학적 치유 촉진</td></tr>
+      <tr><td>삽입 토크 ↑</td><td class="green">D4에서 효과 최대</td></tr>
+    </table>
+  </div>
+</div>
+
+<!-- ── Step-by-step Protocol ── -->
+<div class="section-title">D4 골 Densah Bur 단계별 프로토콜</div>
+<div class="timeline">
+
+  <div class="step">
+    <div class="step-num" style="background:rgba(41,128,185,.2);border-color:#5dade2;color:#5dade2">1</div>
+    <div class="step-body">
+      <div class="step-title">술전 CBCT — 골질·골량 확인</div>
+      <div class="step-desc">HU 150–350 확인 → D4 분류. 잔존골 높이(RBH), 골 폭경, 상악동 위치 파악.</div>
+      <div class="tag-row">
+        <span class="tag blue">HU 측정</span>
+        <span class="tag blue">RBH 계측</span>
+        <span class="tag blue">임플란트 직경 선택</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num" style="background:rgba(46,204,113,.2);border-color:#2ecc71;color:#2ecc71">2</div>
+    <div class="step-body">
+      <div class="step-title">임플란트 설계 선택</div>
+      <div class="step-desc">D4 골: <strong style="color:#2ecc71">스퀘어 나사산(방형나사)</strong> 설계 권장 — V형 나사 대비 전단력 10배 감소 (Munjal 2015). 직경은 1단계 넓게 선택.</div>
+      <div class="tag-row">
+        <span class="tag green">방형 나사산</span>
+        <span class="tag green">4.0 → 4.5 mm 업사이징</span>
+        <span class="tag orange">테이퍼 바디 유리</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num" style="background:rgba(241,196,15,.2);border-color:#f1c40f;color:#f1c40f">3</div>
+    <div class="step-body">
+      <div class="step-title">파일럿 드릴 — 표준 드릴로 시작</div>
+      <div class="step-desc">2.0 mm 파일럿 드릴로 방향·깊이 설정. 이후 <strong style="color:#f1c40f">표준 드릴링 중단</strong> → Densah 시퀀스로 전환.</div>
+      <div class="tag-row">
+        <span class="tag orange">2.0 mm 파일럿만 사용</span>
+        <span class="tag red">이후 표준드릴 사용 금지</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num" style="background:rgba(142,68,173,.2);border-color:#bb8fce;color:#bb8fce">4</div>
+    <div class="step-body">
+      <div class="step-title">Densah Bur 시퀀스 — 역회전 압축</div>
+      <div class="step-desc">
+        <strong style="color:#fff">핵심: 역회전(CCW) + 관개수 + 펌핑 동작</strong><br>
+        D4 골에서는 임플란트 직경보다 <strong style="color:#2ecc71">0.5–1.0 mm 작은 최종 버</strong> 까지만 사용.
+      </div>
+      <div class="bur-seq">
+        <div class="bur">
+          <div class="size">VT1525</div>
+          <div class="label">2.0 mm / CW</div>
+        </div>
+        <span class="arrow">→</span>
+        <div class="bur">
+          <div class="size">VT2535</div>
+          <div class="label">2.5 mm / CCW ★</div>
+        </div>
+        <span class="arrow">→</span>
+        <div class="bur">
+          <div class="size">VT3545</div>
+          <div class="label">3.0 mm / CCW ★</div>
+        </div>
+        <span class="arrow">→</span>
+        <div class="bur final">
+          <div class="size">VT4555</div>
+          <div class="label">3.5 mm / CCW ★</div>
+        </div>
+        <span class="arrow" style="color:#f1c40f">→ 식립</span>
+      </div>
+      <div class="tag-row" style="margin-top:10px">
+        <span class="tag purple">CCW 800–1,500 RPM</span>
+        <span class="tag purple">펌핑 동작 (5–6회)</span>
+        <span class="tag purple">생리식염수 관개</span>
+        <span class="tag green">최종버 = 임플란트 직경 −0.5 mm</span>
+      </div>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num" style="background:rgba(231,76,60,.2);border-color:#e74c3c;color:#e74c3c">5</div>
+    <div class="step-body">
+      <div class="step-title">임플란트 식립 — 토크 목표</div>
+      <div class="step-desc">D4 + Densah 후 목표 삽입 토크: <strong style="color:#2ecc71">≥ 25–35 Ncm</strong>. 기존 표준드릴링 대비 유의하게 높음.</div>
+      <table style="margin-top:8px">
+        <tr><th>방법</th><th>D4 예상 삽입토크</th><th>ISQ</th></tr>
+        <tr><td>표준 드릴링</td><td class="red">10–20 Ncm</td><td class="red">40–55</td></tr>
+        <tr><td>Densah OD</td><td class="green">25–40 Ncm</td><td class="green">55–70</td></tr>
+      </table>
+    </div>
+  </div>
+
+  <div class="step">
+    <div class="step-num" style="background:rgba(39,174,96,.2);border-color:#27ae60;color:#27ae60">6</div>
+    <div class="step-body">
+      <div class="step-title">ISQ 측정 → 부하 프로토콜 결정</div>
+      <div class="step-desc">Osstell ISQ 측정 후 아래 기준 적용 (D4 → 생체활성 표면 임플란트 사용 시 ISQ 안정성 더 우수).</div>
+
+      <!-- ISQ bar -->
+      <div style="margin-top:12px">
+        <div class="isq-bar">
+          <div class="isq-marker" style="left:30%">60<br></div>
+          <div class="isq-marker" style="left:60%">70<br></div>
+        </div>
+        <div class="isq-labels">
+          <span>ISQ 40</span><span>50</span><span>60</span><span>70</span><span>80</span>
+        </div>
+      </div>
+
+      <table>
+        <tr><th>ISQ 범위</th><th>부하 시기</th><th>비고</th></tr>
+        <tr><td class="red">ISQ &lt; 60</td><td class="red">지연부하 (3–6개월)</td><td>D4 가장 흔한 구간</td></tr>
+        <tr><td class="orange">ISQ 60–70</td><td class="orange">조기부하 (6–8주)</td><td>추적 ISQ 측정 필수</td></tr>
+        <tr><td class="green">ISQ ≥ 70</td><td class="green">즉시/조기부하 가능</td><td>드물지만 Densah 후 달성 가능</td></tr>
+      </table>
+    </div>
+  </div>
+
+</div>
+
+<!-- ── 주의사항 ── -->
+<div class="section-title">임상 주의사항</div>
+<div class="alert warn">
+  <span class="icon">🚫</span>
+  <div><strong>Densah 역회전 시 절대 금지:</strong> 시계방향(CW) 회전으로 압축 — 의미 없음. CCW + 펌핑 동작이 핵심. 회전수는 800–1,500 RPM 유지 (고속 시 발열 위험).</div>
+</div>
+<div class="alert warn">
+  <span class="icon">⚠️</span>
+  <div><strong>과도한 확공 금지:</strong> D4 골에서 임플란트 직경과 동일하거나 큰 버 사용 시 압축 효과 소실 → 표준 드릴링과 동일한 결과. 반드시 임플란트 직경 −0.5 mm 이하 최종 버 사용.</div>
+</div>
+<div class="alert info">
+  <span class="icon">💧</span>
+  <div><strong>관개수 필수:</strong> Densah 압축 시 마찰열 발생 → 57°C 이상 시 골세포 사멸. 생리식염수 지속 관개 + 펌핑 동작으로 열 분산.</div>
+</div>
+<div class="alert tip">
+  <span class="icon">✅</span>
+  <div><strong>생체활성 표면 임플란트 조합 권장 (Canullo 2024):</strong> D3/D4 골 + 나노수퍼친수성 생체활성 표면 → ISQ 안정 딥 없음, 지연부하 필요 임플란트 수 감소. 1차 안정성 확보(Densah) + 2차 안정성 촉진(생체활성 표면) 상호보완.</div>
+</div>
+
+<!-- ── OD vs 표준드릴 비교 ── -->
+<div class="section-title">Densah OD vs 표준 드릴링 — 근거 기반 비교</div>
+<div class="card" style="margin-bottom:20px">
+  <table>
+    <tr>
+      <th>평가항목</th>
+      <th>표준 드릴링 (D4)</th>
+      <th>Densah OD (D4)</th>
+      <th>근거</th>
+    </tr>
+    <tr>
+      <td>삽입 토크</td>
+      <td class="red">낮음</td>
+      <td class="green">일관되게 높음</td>
+      <td>Fontes Pereira 2023 SR</td>
+    </tr>
+    <tr>
+      <td>초기 ISQ</td>
+      <td class="orange">가변적</td>
+      <td class="green">대부분 높음</td>
+      <td>Ortiz 2025 리뷰</td>
+    </tr>
+    <tr>
+      <td>BIC (인체)</td>
+      <td>—</td>
+      <td class="orange">데이터 제한적</td>
+      <td>Huwais 2016 (동물)</td>
+    </tr>
+    <tr>
+      <td>생존율</td>
+      <td>표준</td>
+      <td class="green">유의한 차이 없음</td>
+      <td>Fontes Pereira 2023</td>
+    </tr>
+    <tr>
+      <td>ISQ 안정 딥</td>
+      <td class="red">D4에서 뚜렷</td>
+      <td class="orange">부분 감소</td>
+      <td>Canullo 2024 (표면 병용 시 소실)</td>
+    </tr>
+    <tr>
+      <td>응력 분포</td>
+      <td class="orange">치조정 집중</td>
+      <td class="green">압축층으로 분산</td>
+      <td>Premnath 2012 FEA</td>
+    </tr>
+  </table>
+</div>
+
+<!-- ── Evidence ── -->
+<div class="section-title">근거 논문</div>
+<div class="evidence">
+  <div class="ref-card">
+    <div class="ref-title">Huwais & Meyer 2016</div>
+    <div><span class="ref-type">In vitro</span></div>
+    <div class="ref-key">OD 원조 논문. CCW 다날 버 → BIC ×3, 삽입·제거토크 유의 증가. ISQ 차이 없음.</div>
+  </div>
+  <div class="ref-card">
+    <div class="ref-title">Fontes Pereira et al. 2023</div>
+    <div><span class="ref-type">SR</span></div>
+    <div class="ref-key">OD vs 표준드릴 SR. 삽입토크 일관 향상, 저밀도 골 효과 최대, 생존율 차이 없음.</div>
+  </div>
+  <div class="ref-card">
+    <div class="ref-title">Ortiz et al. 2025</div>
+    <div><span class="ref-type">Critical Review</span></div>
+    <div class="ref-key">D3/D4 및 경치조골 상악동에서 OD 효과 가장 큼. 장기 RCT 부족 한계 지적.</div>
+  </div>
+  <div class="ref-card">
+    <div class="ref-title">Munjal et al. 2015</div>
+    <div><span class="ref-type">Prospective</span></div>
+    <div class="ref-key">D3/D4 골, 방형나사 임플란트, 12개월 생존율 92.3%. 저밀도 골 임플란트 가능.</div>
+  </div>
+  <div class="ref-card">
+    <div class="ref-title">Canullo et al. 2024</div>
+    <div><span class="ref-type">Prospective</span></div>
+    <div class="ref-key">D3/D4 + 생체활성 나노표면 → ISQ 안정 딥 소실. 지연부하 필요 임플란트 감소.</div>
+  </div>
+  <div class="ref-card">
+    <div class="ref-title">Premnath et al. 2012</div>
+    <div><span class="ref-type">FEA</span></div>
+    <div class="ref-key">D1–D4 응력분포. D4 치조정 응력집중 최대. 원통형 설계 D3/D4 유리.</div>
+  </div>
+</div>
+
+<p style="text-align:center;color:var(--sub);font-size:0.72rem;margin-top:20px">
+  LLM Wiki — Dentistry · 근거: wiki/implants/ · wiki/sinus-lift/transcrestal/ · wiki/implants/isq/
+</p>
+
+</body>
+</html>

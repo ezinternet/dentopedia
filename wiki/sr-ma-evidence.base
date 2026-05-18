@@ -1,0 +1,72 @@
+summaries:
+  year: Earliest
+filters:
+  and:
+    - file.inFolder("wiki")
+    - file.ext == "md"
+    - or:
+        - confidence == "sr+ma"
+        - confidence == "sr"
+formulas:
+  evidence_badge: if(confidence == "sr+ma", "SR+MA ⭐", "SR")
+  category_label: if(category, category.join(" · "), "")
+  decade: if(year, if(year >= 2020, "2020s", if(year >= 2010, "2010s", "2000s")), "")
+properties:
+  title:
+    displayName: Title
+  year:
+    displayName: Year
+  confidence:
+    displayName: Study Type
+  journal:
+    displayName: Journal
+  authors:
+    displayName: Authors
+  formula.evidence_badge:
+    displayName: Evidence
+  formula.category_label:
+    displayName: Category
+  formula.decade:
+    displayName: Decade
+views:
+  - type: table
+    name: SR+MA Only (최고 근거)
+    filters: confidence == "sr+ma"
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - file.name
+      - formula.evidence_badge
+      - year
+      - formula.category_label
+      - journal
+    sort: []
+  - type: table
+    name: SR+MA + SR (카테고리별)
+    groupBy:
+      property: formula.category_label
+      direction: ASC
+    order:
+      - file.name
+      - formula.evidence_badge
+      - year
+      - formula.category_label
+      - journal
+  - type: table
+    name: 연도별 (All Systematic Reviews)
+    groupBy:
+      property: formula.decade
+      direction: DESC
+    order:
+      - file.name
+      - formula.evidence_badge
+      - formula.category_label
+      - journal
+  - type: cards
+    name: Card View
+    order:
+      - file.name
+      - formula.evidence_badge
+      - year
+      - formula.category_label

@@ -1,0 +1,217 @@
+---
+title: "상악동거상술 (Sinus Lift) 술식 선택 — 잔존골 높이별 알고리듬과 위험인자 매트릭스"
+date: 2026-05-18
+type: overview
+category: [overviews]
+tags: [sinus-lift, lateral-window, transcrestal, RBH, residual-bone-height, osseodensification, membrane-perforation, schneiderian, graft-material]
+source_papers:
+  - sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
+  - sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk
+  - sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus
+  - sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window
+  - sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
+  - sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus
+  - sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach
+  - sinus-lift/transcrestal/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation
+  - sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review
+  - sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus
+  - sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation
+  - sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift
+  - sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus
+  - sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique
+  - sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities
+  - sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation
+  - sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review
+  - sinus-lift/lateral/scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation
+  - sinus-lift/transcrestal/gaspar-osseodensification-crestal-sinus-narrative-review
+  - sinus-lift/lateral/lim-2026-reentry-sinus-elevation-membrane-perforation
+  - sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus
+  - sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign
+---
+
+## 한줄요약
+RBH (Residual Bone Height) ≥5mm = 경치조골 거상 (TSFE) 1순위, <5mm = 측방창 (LSA) 1순위; 모든 술식 생존율 97–99% 동등; **격벽 존재·측벽 두께 >2mm가 천공 위험인자 (OR >2)**; 적절히 봉합된 천공은 생존율에 영향 없음 (97.68% vs 무손상 98.88%); 잔존골 충분 시 이식재 선택적.
+
+---
+
+## Summary
+
+LLM-Wiki 22편(측방창 12 + 경치조골 10) 횡단 합성. 임상에서 가장 자주 마주치는 4개 결정 축을 매트릭스화:
+1. **RBH별 술식 선택** — 측방창 vs 경치조골
+2. **경치조골 내부 선택** — 골밀도화 (Osseodensification, OD) vs 오스테오톰 vs 풍선·수압
+3. **천공 위험과 대응** — CBCT 사전평가, 봉합 후 결과
+4. **이식재·차폐막의 진짜 필요성** — 동등성 근거 vs 권장 근거
+
+근거 등급: SR+MA 6편 · SR 3편 · RCT 2편 · Prospective 3편 + 보조 8편.
+
+---
+
+## 1. RBH별 술식 선택 알고리듬
+
+```
+CBCT RBH 측정
+├─ RBH ≥8mm: 일반 식립 (상악동거상 불필요)
+├─ RBH 5–8mm: 경치조골 거상 (TSFE) + 동시식립
+│   ├─ 술기 선택: OD ≫ 오스테오톰 (ISQ·합병증 양면 우위)
+│   └─ 이식재: PRF·DBBM 선택적; 비이식도 가능
+├─ RBH 4–5mm: TSFE + OD + 동시식립 (Shalash 2023 평균 거상 4.42mm)
+│   └─ 경계선 — 1차 안정성 미달 시 측방창으로 전환
+├─ RBH 3–4mm: 측방창 거상 + 2단계 (식립 지연)
+│   └─ 동시식립 시도 가능하나 위험 증가
+├─ RBH <3mm: 측방창 거상 + 2단계 protocol 표준
+└─ 단임플란트(≤6mm) 옵션: 상악동거상 회피, RBH 5–7mm에서 동등 생존
+```
+
+### 1.1 RBH 기준 결정 근거
+
+| Confidence | 출처 | RBH 권고 | n |
+|---|---|---|---|
+| **narrative-review (foundational)** | [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] | LSA <5mm, VSA/osteotome 5–8mm | — |
+| **sr (n=36 studies)** | [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] | ≥5mm = VSA, <5mm = LSA | 2,732 MSFA |
+| **sr (25-year scoping)** | [[sinus-lift/transcrestal/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation]] | TSFE 4 modalities, 5년 추적 | 37 papers |
+| **prospective(n=16)** | [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] | RBH 4–7mm에서 OD-TSFE 가능; 거상 4.42mm | 1년 100% |
+| **case-report** | [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]] | RBH 3.5mm에서도 내시경 보조 TSFE 가능 (특수기법) | 식립 ISQ 72.6 |
+| **sr+ma (n=14 RCTs)** | [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] | 단임플란트(≤6mm) = 표준+거상 동등; MBL 더 적음 | 901 implants |
+
+[근거강함] **5mm가 critical threshold**. 단, OD 도입 시 4mm까지 TSFE 가능 영역 확장.
+
+---
+
+## 2. 경치조골 내부 술기 비교 (TSFE 4 modalities)
+
+### 2.1 OD vs 오스테오톰 — 가장 강한 근거
+
+| Confidence | 출처 | 결론 | 핵심 수치 |
+|---|---|---|---|
+| **sr+ma (6 RCTs)** | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] | **OD 식립시·지대주연결시 ISQ 유의하게 높음**; 생존율 동등; 수술시간·합병증·진통제 모두 감소 | GRADE low |
+| **rct(n=11)** | [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] | OD 식립 시 ISQ 66.17 vs 오스테오톰 54.83 (p=0.043); 시간 단축 (p=0.002) | RBH 5–8mm |
+| **prospective(n=16)** | [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] | OD로 경사 동저 RBH 4–7mm에서도 1년 100% | 천공 1/16 (6.25%) |
+| **narrative-review** | [[sinus-lift/transcrestal/gaspar-osseodensification-crestal-sinus-narrative-review]] | OD 기전: 골을 측방으로 압축 → 자가골 효과·천공 위험↓ | — |
+
+**결론** [근거강함]: TSFE에서 OD가 ISQ·합병증·수술시간 양면 우위. 다만 SR+MA GRADE = low.
+
+### 2.2 비이식 TSFE (No Graft)
+
+| Confidence | 결론 |
+|---|---|
+| **sr+ma (18 studies)** [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] | TSFE 1년 생존율: **비이식 97% vs 혈소판농축물 99%, 유의차 없음** |
+
+[근거강함] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생.
+
+### 2.3 동반 합병증 — tSFE vs LSA
+
+| Confidence | 출처 | 시점 | tSFE | LSA |
+|---|---|---|---|---|
+| **rct(n=57)** | [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] | 수술 당일 통증 | 높음 | 낮음 |
+| | | 1–14일 부종·타박·비출혈 | **낮음 (유의)** | 높음 |
+
+[근거강함] **수술 당일 1일만 tSFE가 불리, 이후 2주는 LSA가 불리.** 환자 설명 시 명시.
+
+---
+
+## 3. 천공 위험·관리 — 결정적 위험인자
+
+### 3.1 천공률과 결과
+
+| Confidence | 출처 | 결론 |
+|---|---|---|
+| **sr+ma** | [[sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] | **천공률 30.6%; 봉합 후 생존 97.68% vs 무손상 98.88% — 유의차 없음** |
+| **sr+ma** | [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] | 격벽 존재 → 천공 OR >2; **측벽 두께 >2mm → 천공 위험 증가** |
+| **animal** | [[sinus-lift/lateral/lim-2026-reentry-sinus-elevation-membrane-perforation]] | 대천공(≥10mm) 후 8주 재시도 시 신생골 면적 유의 감소 (5.8 vs 10.5 mm², p<0.05) |
+| **narrative-review** | [[sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review]] | 상악동 저형성 (MSH) 3가지 변형 — CBCT 3D 진단 필수 |
+
+**결론** [근거강함]:
+- 천공 자체는 결과를 결정하지 않는다. **봉합 가능 여부**가 결정.
+- 격벽·측벽 두께 >2mm는 사전 CBCT로 식별 필요한 핵심 위험 신호.
+- 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 골형성 50% 감소 — **2단계로 전환 권장** [claude해석].
+- MSH 의심 시 CBCT 3D 재구성 필수.
+
+### 3.2 사전 CBCT 체크리스트 [합의수준]
+
+CBCT에서 반드시 확인할 5항목:
+
+1. **RBH (잔존골 높이)** — 5mm 기준
+2. **격벽 (Septa) 유무·위치** — 천공 위험 OR >2
+3. **측벽 두께** — >2mm 천공 위험 신호
+4. **막 두께·점막부종·낭종** — 부비동염 의심 시 ENT 의뢰
+5. **저형성 (Hypoplasia) 변형** — 만성 무기폐·하비도 함기화·사골상악동
+
+---
+
+## 4. 이식재·차폐막 — 진짜 필요한가
+
+### 4.1 이식재 선택
+
+| Confidence | 출처 | 결론 |
+|---|---|---|
+| **sr (49 RCTs)** | [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] | DBBM·자가골·합성 HA/β-TCP 단기 생존 동등 (84.6–100%); 장기 안정성 데이터 부족 |
+| **prospective(n=170)** | [[sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift]] | β-TCP vs HA+β-TCP — 4mo ISQ 동등 (p=0.789); 자연골과도 동등 |
+| **prospective(n=60, split-mouth)** | [[sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus]] | BBM(우골) vs PBM(돈골) — 6mo ISQ 동등 (74.65 vs 72.9); 결정화도↑ → 3mo ISQ 더 빠름 |
+
+[근거강함] **이식재 종류는 생존율·최종 ISQ에 영향 없음.** 결정화도 (Crystallinity) 가 높으면 ISQ 회복이 빨라짐. 임상 선택은 흡수 프로파일과 비용 기준.
+
+### 4.2 차폐막 사용
+
+| Confidence | 출처 | 결론 |
+|---|---|---|
+| **sr+ma (6 RCTs)** | [[sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window]] | **차폐막 사용 vs 미사용 — 생존·골형성·합병증 모두 유의차 없음** |
+
+[근거강함] **루틴 차폐막 사용은 근거 부족.** 천공 봉합용·연조직 차단용으로 선택적 사용.
+
+---
+
+## 5. Confidence 등급별 합성 매트릭스
+
+| 임상 결정 | 강한 결론 (sr+ma·sr·rct) | 보조 근거 (prospective·narrative) | 미해결 영역 |
+|---|---|---|---|
+| RBH 기준 술식 선택 | 5mm = 결정 임계값 (Sirinirund 2025 SR n=2,732) | OD로 4mm까지 TSFE 가능 (Shalash 2023) | 3–4mm 회색지대 RCT |
+| TSFE 술기 선택 | **OD > 오스테오톰** (Starch-Jensen 2025 SR+MA) | 풍선·수압·내시경 = 모두 유효 (Sirinirund 2025) | OD vs 풍선 직접 비교 |
+| 이식재 종류 | **모두 동등** (Del Fabbro 2025 SR; Jelusic 2014) | 결정화도↑ → ISQ 회복 빠름 | 장기(>5년) 데이터 |
+| 차폐막 사용 | **루틴 사용 근거 없음** (Starch-Jensen 2019 SR+MA) | 천공 봉합·연조직 차단 시 선택 사용 | — |
+| 천공 관리 | **봉합 가능 시 결과 동등** (Diaz-Olivares 2021 SR+MA) | 격벽·측벽 두께 사전 평가 (Yang 2024 SR+MA) | 대천공 재시도 timing |
+| 비이식 TSFE | **잔존골 충분 시 99% 생존** (Guo 2020 SR+MA) | PRF 단독 + 동시 식립 가능 (Liu 2018 case) | RBH 컷오프 정량화 |
+| 동반 합병증 | tSFE 당일↑, 이후 2주 ↓ (Farina 2018 RCT) | 환자 설명 시 분리해 안내 | — |
+| 단임플란트 대안 | 단(≤6mm) = 표준+거상 동등 (Toledano 2022 SR+MA) | MBL 더 적음 | 5년 이상 격차 |
+
+---
+
+## 6. ISQ 트라젝토리 (참조)
+
+상악동 케이스 ISQ 변화는 별도 overview 참조 — [[overviews/sinus-lift-isq-loading-timing]].
+
+핵심 수치 요약:
+- **2단계 LSA**: T0=63.8 → T2(3mo)=73.5 → T3(6mo)=74.65 (BBM)
+- **TSFE+OD**: 식립시 66.17 (vs 오스테오톰 54.83)
+- **TSFE+OD+PRF, RBH 3.5mm**: 식립시 72.6 (특수기법)
+- **4개월에 native bone과 동등**: Jelusic 2014
+
+부하 결정 임계값은 [[overviews/isq-loading-threshold]] 참조.
+
+---
+
+## 7. 임상 적용 한 페이지 요약
+
+**상악동거상술 7대 원칙** [합의수준]:
+
+1. **CBCT 사전 평가 5항목** — RBH, 격벽, 측벽 두께, 막 상태, 저형성 변형
+2. **RBH ≥5mm**: TSFE+OD 1순위 (ISQ·합병증 양면 우위)
+3. **RBH <5mm**: 측방창 거상 + 2단계 protocol
+4. **이식재**: 종류는 결과에 영향 없음 — 비용·흡수 프로파일로 선택
+5. **차폐막**: 루틴 사용 근거 없음, 천공 봉합용으로 선택 사용
+6. **천공**: 봉합 가능하면 결과 동등 — 격벽·측벽 두께 사전 식별이 핵심
+7. **단임플란트 대안**: RBH 5–7mm에서 거상 회피 옵션 (Toledano 2022)
+
+---
+
+## Related Overviews
+
+- [[overviews/sinus-lift-isq-loading-timing]] — 술식별 ISQ 궤적·부하 시기
+- [[overviews/isq-loading-threshold]] — ISQ 임계값 종합 매트릭스
+
+## Wiki Coverage Caveat
+
+추가 PDF 사냥 권장 영역:
+- 대천공 (≥10mm) 재시도 timing prospective
+- OD vs 풍선·수압 직접 비교 RCT
+- 5–10년 장기 결과 prospective
+- 만성 부비동염 환자 거상술 결과

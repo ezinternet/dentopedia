@@ -1,0 +1,158 @@
+---
+title: "Sinus Lift ISQ Trajectory and Loading Timing: Evidence Synthesis"
+date: 2026-05-13
+type: overview
+category: [overviews]
+tags: [ISQ, sinus-lift, loading-timing, RBH, two-stage, TSFE, stability-dip, osseodensification]
+source_papers:
+  - sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus
+  - sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift
+  - sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign
+  - sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus
+  - sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
+  - implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis
+  - implants/isq/oh-2008-comparison-of-initial-implant-stability
+  - sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities
+---
+
+## 한줄요약
+상악동거상술 후 ISQ 기반 부하 시기: 2단계 측창법은 식립 후 3–6개월(ISQ 70+ 도달), 경유돌 동시식립은 초기 ISQ≥70 확인 시 12주 조기부하 가능; RBH·술기·거시디자인이 ISQ 궤적 결정
+
+## Summary
+
+이 overview는 위키 보유 7편의 논문에서 ISQ 수치와 부하 시기 데이터를 추출해 "상악동 수술 후 언제 부하할 수 있는가"라는 임상 질문에 답한다.
+
+---
+
+## 1. ISQ 부하 결정 기준 (범위별)
+
+| ISQ | 임상 권고 | 출처 |
+|---|---|---|
+| < 60 | 지연 부하 (4–6개월 추가 관찰) | Oh 2008, Sennerby 2008 |
+| 60–70 | 조기 부하 가능 + 면밀한 모니터링 | Oh 2008 |
+| > 70 | 즉시/조기 부하 고려 가능 | Oh 2008, Liu 2018 |
+
+> **주의**: 단일 ISQ 값보다 **경시적 추적(serial ISQ)** 이 중요. 상승 추세 = 골유착 진행, 하강 = 조기 경보 (Sennerby 2008)
+
+---
+
+## 2. Stability Dip — 상악동 케이스에서도 발생
+
+```
+ISQ
+  │  ╭── 1차 안정성 (식립 직후)
+  │ ╭╯
+  │╭╯   ← dip 구간 (2–4주): 기존골 흡수 > 신생골 형성
+  │╰────────── 2차 안정성 (골유착 완성)
+  └──────────────────────────→ 시간
+```
+
+- 상악동 증대부는 Type IV 골 → 1차 안정성 자체가 낮을 수 있음
+- Dip 구간에 부하 금지 → **3–4주 후 ISQ 재측정** 권고
+
+---
+
+## 3. 술식별 ISQ 궤적
+
+### 3-1. 2단계 측창법 (LSA, two-stage) — 가장 많은 데이터
+
+**순서**: 상악동거상 → **6개월 이식재 치유** → 임플란트 식립 → ISQ 측정
+
+| 시점 | ISQ (BBM 기준) | ISQ (PBM/β-TCP) | 부하 가능 여부 |
+|---|---|---|---|
+| **식립 직후 (T0)** | **63.8 ± 3.0** | **62.6 ± 2.1** | ❌ (60대, 요주의) |
+| **식립 3개월 (T2)** | **73.5 ± 4.2** | **67.0 ± 5.0** | ✅ BBM / ⚠️ PBM |
+| **식립 6개월 (T3)** | **74.65 ± 2.9** | **72.9 ± 2.6** | ✅ 모두 안전 |
+
+출처: Ramirez-Fernandez 2017 (split-mouth, 10명)
+
+**핵심**: 2단계 측창 후 식립 직후 ISQ는 60 초반 — 즉시부하 불가. **3개월** 후 BBM군은 73 (부하 가능), PBM/β-TCP군은 6개월 기다려야 안정적.
+
+> Jelusic 2014: 식립 **4개월** 시점 ISQ = 비증대 자연골과 통계적 동등 (p=0.789)  
+> → 이식재 종류(β-TCP vs HA+β-TCP) 관계없이 **4개월이면 자연골 수준**에 도달
+
+---
+
+### 3-2. 경유돌 동시식립 (TSFE + simultaneous implant)
+
+**순서**: TSFE + 임플란트 식립 동시 진행 → 식립 즉시 ISQ 측정
+
+| 술식 | 식립 ISQ | 부하 시기 | 조건 |
+|---|---|---|---|
+| TSFE + PRF (내시경) | **72.6** (Liu 2018, RBH 3.5mm) | **12주** | ISQ >70 확인 필수 |
+| TSMEOD (osseodensification) | **>70 유의하게 높음** | 12주 목표 가능 | Starch-Jensen 2025 SR+MA |
+| Osteotome TSFE | ISQ ↑ but < TSMEOD | 12–16주 | TSMEOD보다 낮음 |
+
+**핵심**: 경유돌은 동시식립이므로 식립 즉시 ISQ가 70 이상이면 12주(3개월) 조기부하 가능. ISQ 60대이면 2단계와 마찬가지로 추가 대기.
+
+---
+
+### 3-3. RBH별 초기 ISQ 예측 (Allurkar 2025, in vitro)
+
+| RBH | 기대 ISQ 수준 | 권장 거시디자인 | 비고 |
+|---|---|---|---|
+| 3 mm | 낮음 | 거시디자인 효과 제한적 | 초기 안정성 불확실 |
+| 6 mm | 중간–높음 | **Tapered Effect (TE) 최고** | p<0.01 |
+| 9 mm | 높음 | **TE 최고** | p<0.01 |
+| 15 mm | 높음 | 디자인 간 차이 감소 | 충분한 피질골 |
+
+> RBH 6–9mm에서 Tapered Effect 설계 임플란트가 가장 높은 초기 ISQ 제공
+
+---
+
+## 4. ISQ에 영향을 주는 변수 요약
+
+| 변수 | 효과 | 출처 |
+|---|---|---|
+| **RBH ↑** | ISQ ↑ | Allurkar 2025 |
+| **Tapered 거시디자인** | ISQ ↑ (RBH 6–9mm) | Allurkar 2025 |
+| **Osseodensification 술식** | ISQ ↑ (vs osteotome/lateral) | Starch-Jensen 2025 |
+| **이식재 결정화도 ↑ (BBM)** | 3개월 ISQ 더 빨리 상승 | Ramirez-Fernandez 2017 |
+| **이식재 종류 (β-TCP vs HA)** | 4개월 이후 ISQ 차이 없음 | Jelusic 2014 |
+| **PRF (무이식)** | 동시식립 시 ISQ 72.6 가능 | Liu 2018 (n=1) |
+| **피질골 두께 ↑** | ISQ ↑ | di-Stefano 2021 |
+
+---
+
+## 5. 임상 의사결정 요약
+
+```
+RBH 확인
+ ├─ <5mm → 측창법(LSA) 적용
+ │    두 단계: 6mo 이식재 치유 후 식립
+ │    식립 후 3mo → ISQ 재측정
+ │    ISQ >70 → 부하 / ISQ 60–70 → 6mo 대기
+ │
+ └─ 5–9mm → TSFE 동시식립 가능
+      Osseodensification(TSMEOD) 선택 시 ISQ 최대화
+      Tapered 거시디자인 선택 권고
+      식립 ISQ >70 → 12주 후 조기부하
+      식립 ISQ 60–70 → 12–16주 + 재측정 후 결정
+      식립 ISQ <60 → 지연부하(4–6mo)
+```
+
+---
+
+## 6. Evidence Caveat
+
+| 논문 | 설계 | 한계 |
+|---|---|---|
+| Ramirez-Fernandez 2017 | Prospective split-mouth | n=10, HA만 비교 |
+| Jelusic 2014 | Prospective | T0 ISQ 없음, 단일 시점(4mo) |
+| Allurkar 2025 | In vitro | bovine rib ≠ 임상 상악동 |
+| Liu 2018 | Case report | n=1 |
+| Starch-Jensen 2025 | SR+MA | Low GRADE, 6 RCTs |
+
+→ 전체 근거 수준: **중등도 이하**. 개별 환자 골질·RBH·술기에 따라 ISQ를 직접 측정하고 판단하는 것이 원칙.
+
+---
+
+## 관련 페이지
+- [[sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus]]
+- [[sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift]]
+- [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]]
+- [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]]
+- [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]
+- [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]]
+- [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]]
+- [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]

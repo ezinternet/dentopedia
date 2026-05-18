@@ -1,0 +1,56 @@
+filters:
+  and:
+    - file.inFolder("wiki/implants/surface")
+    - file.ext == "md"
+formulas:
+  evidence_rank: if(confidence == "sr+ma", 6, if(confidence == "sr", 5, if(confidence == "rct", 4, if(confidence == "prospective", 3, if(confidence == "retrospective", 2, 1)))))
+  evidence_icon: if(confidence == "sr+ma", "⭐⭐⭐", if(confidence == "sr", "⭐⭐", if(confidence == "rct", "⭐⭐", if(confidence == "prospective", "⭐", if(confidence == "retrospective", "⭐", "◎")))))
+  age_days: (now() - file.ctime).days.round(0)
+properties:
+  title:
+    displayName: Title
+  year:
+    displayName: Year
+  confidence:
+    displayName: Study Type
+  journal:
+    displayName: Journal
+  authors:
+    displayName: Authors
+  formula.evidence_rank:
+    displayName: Evidence Rank
+  formula.evidence_icon:
+    displayName: ★
+  formula.age_days:
+    displayName: Days in Wiki
+views:
+  - type: table
+    name: "임플란트·표면처리 — 근거 수준 (High → Low)"
+    groupBy:
+      property: confidence
+      direction: DESC
+    order:
+      - file.name
+      - formula.evidence_icon
+      - confidence
+      - year
+      - journal
+  - type: table
+    name: "임플란트·표면처리 — 최신순"
+    groupBy:
+      property: year
+      direction: DESC
+    order:
+      - file.name
+      - year
+      - formula.evidence_icon
+      - confidence
+      - journal
+  - type: cards
+    name: "Card View"
+    order:
+      - file.name
+      - year
+      - confidence
+      - formula.evidence_icon
+      - journal

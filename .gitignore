@@ -16,6 +16,5 @@ __pycache__/
 # Claude local settings
 .claude/settings.local.json
 
-# Large binary files — PDFs are tracked intentionally
-# (remove this comment if you want to exclude PDFs)
-# papers/*.pdf
+# PDFs — stored locally only (too large for GitHub)
+papers/*.pdf
