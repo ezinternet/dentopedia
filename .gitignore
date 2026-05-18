@@ -1,0 +1,21 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Obsidian workspace (local state, not content)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+
+# Claude local settings
+.claude/settings.local.json
+
+# Large binary files — PDFs are tracked intentionally
+# (remove this comment if you want to exclude PDFs)
+# papers/*.pdf
