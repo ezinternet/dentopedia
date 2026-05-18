@@ -1,0 +1,19 @@
+
+TY  - JOUR
+AU  - Gross, MD
+TI  - Occlusion in implant dentistry. A review of the literature of prosthetic determinants and current concepts
+JO  - Australian Dental Journal
+VL  - 53
+IS  - s1
+SN  - 0045-0421
+UR  - https://doi.org/10.1111/j.1834-7819.2008.00043.x
+DO  - https://doi.org/10.1111/j.1834-7819.2008.00043.x
+SP  - S60
+EP  - S68
+KW  - Implant occlusion
+KW  - implants
+KW  - dental occlusion
+KW  - treatment planning
+PY  - 2008
+AB  - Abstract Today the clinician is faced with widely varying concepts regarding the number, location, distribution and inclination of implants required to support the functional and parafunctional demands of occlusal loading. Primary clinical dilemmas of planning for maximal or minimal numbers of implants, their axial inclination, lengths and required volume and quality of supporting bone remain largely unanswered by adequate clinical outcome research. Planning and executing optimal occlusion schemes is an integral part of implant supported restorations. In its wider sense this includes considerations of multiple inter-relating factors of ensuring adequate bone support, implant location number, length, distribution and inclination, splinting, vertical dimension aesthetics, static and dynamic occlusal schemes and more. Current concepts and research on occlusal loading and overloading are reviewed together with clinical outcome and biomechanical studies and their clinical relevance discussed. A comparison between teeth and implants regarding their proprioceptive properties and mechanisms of supporting functional and parafunctional loading is made and clinical applications made regarding current concepts in restoring the partially edentulous dentition. The relevance of occlusal traumatism and fatigue microdamage alone or in combination with periodontal or peri-implant inflammation is reviewed and applied to clinical considerations regarding splinting of adjacent implants and teeth, posterior support and eccentric guidance schemes. Occlusal restoration of the natural dentition has classically been divided into considerations of planning for sufficient posterior support, occlusal vertical dimension and eccentric guidance to provide comfort and aesthetics. Mutual protection and anterior disclusion have come to be considered as acceptable therapeutic modalities. These concepts have been transferred to the restoration of implant-supported restoration largely by default. However, in light of differences in the supporting mechanisms of implants and teeth many questions remain unanswered regarding the suitability of these modalities for implant supported restorations. These will be discussed and an attempt made to provide some current clinical axioms based where possible on the best available evidence.
+ER  - 

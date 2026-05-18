@@ -205,6 +205,9 @@ Format: `category/stem` — one-line description
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
 - [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane]] — SPT 효과 코크란 리뷰 — 순응군 치아 상실 RR 0.47, CAL 안정, 3–6개월 간격 권고.
 - [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
+- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR: SPT 관련 RCT 증거 극히 제한적; 항균제 보조 일부 유익, 광치료 결론 불충분; 전반적 저질 증거.
+- [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
+- [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
@@ -218,6 +221,9 @@ Format: `category/stem` — one-line description
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — 구치부 임플란트 단관 단일층 지르코니아 vs 금속도재 SR+MA — 기술적 합병증 OR 0.31(지르코니아 우위).
 - [[prosthetic-materials/gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct]] — 디지털 워크플로우 반투명 지르코니아 vs 금속도재 구치부 전관 5년 RCT — 생존율 동등, 지르코니아 칩핑 없음.
 - [[prosthetic-materials/pjetursson-2026-metal-ceramic-allceramic-crowns-sr-ma]] — 치아 지지 단관 SR+MA — 5년 생존율 금속도재 96.2%, veneer형 94.7%, 단일층 지르코니아 97.1%; 지르코니아 칩핑 최소.
+- [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA (64편, 11,560개): 단일체 리튬 디실리케이트 5년 생존율 98.5% 최고; 금속도재 97.1%; 단일체 디자인이 치핑 유의하게 감소.
+- [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — SR 개요 (38편, ~10,000 수복물): 지르코니아 치아·임플란트 지지 단관·FDP 5년 생존율 양호; 베니어 도재 치핑 가장 흔한 합병증.
+- [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — DGI/DGZMK S3 가이드라인: 단관 리튬 디실리케이트·지르코니아 권장(3년 96–97%); FDP·전악 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기.
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — 후향적 빅데이터(이스라엘 Maccabi, 650k명, 2014–2021): 아말감 연간실패율 3.5% vs 레진 4.5%; HR 1.29; 다면 수복에서만 유의한 차이
@@ -300,6 +306,9 @@ Format: `category/stem` — one-line description
 - [[orthodontics/feller-2015-periodontal-ligament-bone-orthodontic-forces]] — 교정력 적용 시 PDL·치조골 생물학적 사건 — 혈류 변화·세포 활성·사이토카인 신호.
 - [[orthodontics/feller-2015-periodontal-cytoskeleton-ecm-orthodontic]] — 교정적 치아이동 시 PDL 세포골격(actin)·ECM(fibronectin·collagen) 생체역학 — integrin 기계신호 전달.
 - [[orthodontics/nanda-2012-orthodontic-force-biological-response-review]] — 교정력에 대한 PDL·치조골 반응 요약 — 신경전달물질·사이토카인·cathepsin K·MMP 역할.
+- [[orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] — SR+MA (46편, n=3,250): 교정용 미니스크류 전체 실패율 13.5%; 각화치은·흡연만 유의한 위험인자, 직경·나이·악골 위치 비유의.
+- [[orthodontics/mohammed-2018-miniscrew-anatomical-site-failure-sr-ma]] — SR+MA (61편): 부위별 실패율 — 정중구개 1.3% (최저) ~ 광대뼈지지부 16.4% (최고); 치근 접촉 시 실패 위험비 8.7배.
+- [[orthodontics/jahanbin-2025-reused-miniscrew-stability-sr-ma]] — SR+MA (18편): 재사용 미니스크류 체외 토크 유의차 없음; 임상 실패율 유의하게 높음 (RR 0.46); 멸균·술기·해부 영향.
 
 ## 재생근관치료 (Endodontics: Regenerative)
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — Narrative review (Front Dent Med 2022): REP in traumatized IPT — apexification vs REP goal distinction; partial pulpotomy/revascularization approaches; heterogeneous evidence from case reports
@@ -316,6 +325,9 @@ Format: `category/stem` — one-line description
 - [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] — RCT (24mo, 234 NCCLs): universal adhesive SE mode unacceptable (6 lost); SLE and E&R modes acceptable
 - [[resin-bonding/tavangar-2022-calcium-silicate-cement-caries-dentin]] — in-vitro(Clin Exp Dent Res 2022): 칼슘실리케이트 시멘트 vs 전통 자가접착형 우식 상아질 — CaSi 즉시 SBS 낮지만 6개월 재광화 유도
 - [[resin-bonding/li-2025-curing-modes-dual-cure-dentin]] — in-vitro(Front Bioeng Biotechnol 2025): 이중경화형 시멘트 6종 × 광중합 vs 자가중합 — 광중합이 µTBS·내구성 유의 향상; N3 최우수
+- [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] — SR+MA(13개 RCT): 유니버설 접착제 산부식-세척법(E&R)이 자가산부식법(SE)보다 유지율·변연적합도·변연착색 모두 유의하게 우수(OR 0.35–0.49); 이차우식·과민증은 차이 없음.
+- [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] — SR+MA(17개 RCT, NCCL): 유니버설 접착제 전부산부식(TE) vs 자가산부식(SE) — 5개 임상 지표 모두 유의한 차이 없음(p>0.05, I²=0%).
+- [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] — SR+MA(20개 RCT, NCCL): E&R이 중기(12–36개월) 유지율·변연적합도·변연착색·이차우식 우수; SE는 술후 과민증 낮음.
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
@@ -347,6 +359,11 @@ Format: `category/stem` — one-line description
 - [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 컨센서스: MRONJ 정의·병기 2014 동일; romosozumab 추가; drug holiday 권고 없이 논쟁 중; CTX 더 이상 권장 안 함; denosumab 중단 timing 가이드
 - [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 후향적코호트(n=324, 유방암 골전이): MRONJ 31.2%; ROC 누적 32회 임계치(AUC 0.83); 발치력 OR 4.40; 매 추가 투여당 MRONJ 오즈 4.7% 증가
 - [[drug/li-2024-antiresorptive-implants-mronj-sr]] — SR(8편, 445 임플란트): 항흡수제 시작 후 임플란트 실패율 23%; 실패의 83%가 MRONJ; 평균 잠복기 34개월; 하악 구치부 65%
+- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — 약동학 교차시험 (건강 지원자): 이부프로펜을 아스피린 앞에 복용 시 혈소판 COX-1 아세틸화 차단; 아스피린 先복용·로페콕시브·디클로페낙·아세트아미노펜은 무간섭 (NEJM 2001)
+- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 인비트로: 메타미졸(디피론) 활성대사체 MAA가 COX-1 Ser-530 수소결합 → 아스피린 아세틸화 차단; 피라졸리논 계열 전체 동일 기전 (J Thromb Haemost 2008)
+- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — RCT (OA+IHD 환자, n=24): 이부프로펜 600mg TID → 아스피린 혈소판 COX-1 억제 유의 차단(TXB2 19ng/mL); 셀레콕시브 200mg BID → 간섭 없음 (Clin Pharmacol Ther 2006)
+- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — 인비트로 9종 NSAIDs: 이부프로펜(-48.1%)·메페남산(-22.7%)만 아스피린 앞 복용 시 항혈소판 효과 감소; 나프록센·플루르비프로펜은 자체 항혈소판 효과 (J Clin Pharm Ther 2013)
+- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 코크란 SR (CD003811.pub3): 발치 후 항생제 → 감염 합병증·건성와·통증·부종·개구장애 감소; 건강 환자 루틴 사용은 부작용·내성 고려 (Cochrane 2021)
 - [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — 원발성 쇼그렌증후군(pSS) 2016 ACR-EULAR 분류기준 — 항-SSA/Ro 항체 가중치 최고, 민감도 96%.
 - [[drug/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — 2016 ACR/EULAR pSS 기준 변경 해설 — 침샘 생검 유지, 안구건조 증상 단독 항목 삭제, 바이오마커 중심 전환.
 - [[drug/legoff-2017-sjogren-classification-criteria-comparison]] — pSS 의심 환자 AECG vs ACR/EULAR 기준 비교(κ=0.73) + 침샘 초음파(SGUS) 항체 음성 환자 진단 부가가치.
@@ -360,9 +377,29 @@ Format: `category/stem` — one-line description
 - [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR+MA (12 studies): coronectomy → significantly less IAN sensory loss + fewer dry sockets vs complete extraction; root migrates ~2mm/2yr; pain/infection equivalent
 - [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR (16 papers, 2,176 coronectomies): IAN injury 0.59%, lingual nerve 0.22%, infection 3.95%, root re-extraction 5.28%; low-risk alternative to third molar extraction
 - [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — Narrative review (51 studies): oxidized cellulose/gelatin >85% standard cases; TXA mouthwash 50–60% bleeding reduction; fibrin sealants 70–90% high-risk patients
+- [[oral-surgery/hajibagheri-2025-prf-alveolar-osteitis-post-extraction-sr]] — SR (BMC Oral Health 2025): PRF 발치 소켓 적용 → 건성치조염 발생 유의하게 감소, 통증·부종·개구제한 모두 대조군 대비 유의한 개선
+- [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] — SR+MA (JOMS 2024;82:73-92): 하악 IAN 고위험 제3대구치에서 치관절제술은 완전 발치 대비 IAN 손상 위험 유의하게 감소; 재수술률 5–12%; 잔존근 이동 ~2–3 mm/2년
+- [[oral-surgery/gonzalez-2025-low-level-laser-third-molar-complications-sr-ma]] — SR+MA (JADA 2025;156:211-224): 저출력 다이오드 레이저(LLLT) 제3대구치 발치 후 통증·부종·개구제한 유의하게 감소; 파장 800–940 nm 효과 최적; 부작용 없음
+- [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] — SR (Int J OMS 2017;46:46-53, 124증례): 발치 후 지연성 하악 골절 피크 1–3주; 하악각 부위; 수평매복·Pell-Gregory III/C·얇은 설측판이 주요 위험인자
+- [[oral-surgery/van-der-merwe-2023-aminoglycosides-ludwigs-angina-63-cases]] — 후향적(n=63, 남아공): 루드비히 앙기나 균배양 = 연쇄구균 우세(아미노글리코사이드 내성); 경험적 아미노글리코사이드 사용 미생물학적 근거 부족; β-lactam 기반 요법 권장
+- [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — 전향적(n=150, 인도): 심경부 감염 치성 42.66%, 루드비히 앙기나 24.66%, 연쇄구균 31.33%; 절개배농 38%, 응급기관절개술 일부
+- [[oral-surgery/al-maawi-2021-prf-extraction-socket-healing-sr]] — SR (20 RCTs): PRF reduces pain (66.6%), improves soft tissue healing at 1 wk (75%), reduces bone loss at 8–15 wk but NOT at 6 mo, improves socket fill (85%); benefit limited to early 2–3 months
+- [[oral-surgery/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] — SR: 하악 제3대구치 발치 후 의인성 골절 발생률 0.0033%–0.075%; 술후 골절 > 술중; 40–60세 남성·깊은 매복·mesioangular·좌측 위험↑
+- [[oral-surgery/ferrer-valdivia-2022-complications-simple-exodontia-sr]] — SR (3 studies): 단순 발치 후 합병증(trismus·alveolitis·retained root 가장 흔); 술자 경험·수술 시간·조직 손상이 주요 위험인자
+- [[oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr]] — Cochrane SR: 하악 사랑니 발치 수술기법(피판·설신경 보호·골삭제법) 비교; 건조치조염·감염·신경손상·통증·부종·개구제한 결과 평가; 대부분 낮은 수준의 증거
+- [[oral-surgery/pattnayak-2024-prf-prp-third-molar-extraction-sr]] — SR (6 studies): 하악 제3대구치 발치 후 PRF vs PRP 비교; 4/6 연구에서 PRF가 연조직 치유·골밀도 개선에 유리; PRF는 준비 용이·완전 자가 유래 장점
+- [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — SR+NMA (16 RCTs, 2158명): 항생제 예방투여가 건조치조염(NNT=25)·SSI(NNT=18) 통계적 감소; 높은 NNT → 건강 환자 일상 처방 비권장
+- [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — SR+MA (3 studies): LLLT는 건조치조염 치료 시 Alvogyl 대비 유효(유의성 낮음); 단일 세션·최소침습·통증 감소; 기존 소독드레싱의 대안
 
 ## 레진 (Resin)
-<!-- entries go here -->
+- [[resin/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma]] — SR+MA(9 RCT, 632개 수복물): 벌크필 vs 적층충전 실패율 RR=0.82(p=0.67), 단기~장기 동등; 변연적합·탈색·술후민감도 비교 가능
+- [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] — SR+NMA(12 RCT, Class II): 6·12·24개월 전 아형(ormocer·overlay·flowable·sculptable)과 적층충전 간 변연적합·파절·유지율 유의차 없음; ormocer 비통계적 최고 순위
+- [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] — 우산형 리뷰(AMSTAR 2, 낮음~보통): 전체 메타분석 기존 레진 ~5배 유리(비유의); 마모·미세누출·탄성계수·중합수축 유사 거동
+- [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] — SR+MA(103편, lab+RCT): 벌크필 수축·응력·교두편향 감소, 유동성 벌크필 2mm 초과 전환율 우수; 2mm 이하 미세경도 낮음; 임상(1–10yr) 동등
+- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — SR(53개 in vitro): 유동성 BF-RBC DC 19–94%, 수축 1.3–10.5%, 수축응력 2–3 MPa, 굴곡강도 대부분 >80 MPa; 제품 간 편차 큼, 임상연구 부재
+- [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — SR+MA(21 RCT, 최장 60개월): 실로란·오르모서·벌크필 포함 저수축 레진 vs 메타크릴레이트 — 12개월 변연적합만 메타크릴레이트 유의 우수; 나머지 동등
+- [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — SR+MA(11 RCT, J Adhes Dent): 실로란 기반 레진(SBC) vs 메타크릴레이트(MBC) — 전 지표 동등, I² 비유의; "저중합수축=임상 우월" 부정
+- [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — SR+MA(58개 in vitro, 7 DB): 레진 기질 개질이 중합수축응력 감소 최대 기여; 대체 광개시제 단독 효과 없음(p=0.29); SDR™ 기술 유망
 
 ## 인레이 (Inlay)
 - [[inlay/malament-2021-lithium-disilicate-partial-coverage-109year]] — 후향적(n=551, 최대 10.9년): 프레스 LD 인레이/온레이 10년 생존율 95.6%; 온레이 98.3% > 인레이 93.9%; 대구치 위험↑; 유일 실패 = 파절
@@ -417,3 +454,5 @@ Format: `category/stem` — one-line description
 - [[oral-medicine/manfredini-2021-recurrent-aphthous-stomatitis-treatment]] — 재발성 아프타 구내염(RAS) 치료 고찰 — 국소 스테로이드 1차, 콜히친·탈리도마이드 중증 적응증.
 - [[oral-medicine/belenguer-guallar-2014-recurrent-aphthous-stomatitis-review]] — RAS 치료 문헌 고찰 — 국소 스테로이드·항균제·NSAIDs·LLLT 효과 비교.
 - [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS 임상양상·병인론(면역·유전·영양·스트레스)·치료 단계적 접근 고찰.
+- [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 서술 고찰 (그리스 ENT+치과): 단측 상악동염 약 30%가 치성 원인; 발치·치성감염·OAF 주 원인; 치과 수술 + ESS 병행 표준; ENT-치과 다학제팀 필수 (J Dent Sci 2021)
+- [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)

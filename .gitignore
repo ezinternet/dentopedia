@@ -9,9 +9,14 @@ __pycache__/
 *.pyo
 .pytest_cache/
 
-# Obsidian workspace (local state, not content)
+# Obsidian — exclude plugins/themes (too large), keep only core config
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/themes/
+
+# Claudian plugin
+.claudian/
 
 # Claude local settings
 .claude/settings.local.json
