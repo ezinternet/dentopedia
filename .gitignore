@@ -23,3 +23,5 @@ __pycache__/
 
 # PDFs — stored locally only (too large for GitHub)
 papers/*.pdf
+.ingest-queue
+.ingest-watcher.log

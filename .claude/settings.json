@@ -1,5 +1,15 @@
 {
   "hooks": {
+    "SessionStart": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "cd /Users/oracleneo/llm-wiki && COUNT=$(python3 scripts/queue-watcher.py --check 2>/dev/null || echo 0); if [ \"$COUNT\" -gt 0 ] 2>/dev/null; then echo \"{\\\"hookSpecificOutput\\\":{\\\"hookEventName\\\":\\\"SessionStart\\\",\\\"additionalContext\\\":\\\"📋 ingest-queue: ${COUNT}편 대기 중. 사용자가 근관치료/임플란트 등 치과 관련 대화를 시작하기 전에 먼저 알려주세요: '.ingest-queue 에 ${COUNT}편 새 논문이 대기 중입니다. 지금 인제스트할까요?'\\\"}}\"; fi"
+          }
+        ]
+      }
+    ],
     "PreToolUse": [
       {
         "matcher": "Bash",
