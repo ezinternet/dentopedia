@@ -400,6 +400,11 @@ Format: `category/stem` — one-line description
 - [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — SR+MA(21 RCT, 최장 60개월): 실로란·오르모서·벌크필 포함 저수축 레진 vs 메타크릴레이트 — 12개월 변연적합만 메타크릴레이트 유의 우수; 나머지 동등
 - [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — SR+MA(11 RCT, J Adhes Dent): 실로란 기반 레진(SBC) vs 메타크릴레이트(MBC) — 전 지표 동등, I² 비유의; "저중합수축=임상 우월" 부정
 - [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — SR+MA(58개 in vitro, 7 DB): 레진 기질 개질이 중합수축응력 감소 최대 기여; 대체 광개시제 단독 효과 없음(p=0.29); SDR™ 기술 유망
+- [[resin/josic-2023-direct-indirect-resin-longevity-sr-ma]] — SR+MA(23편, Dental Materials 2023): 구치부 직접 vs 간접 복합레진 수명 — 단기·중기·장기 모두 유의차 없음(근거 very low)
+- [[resin/tennert-2024-direct-vs-indirect-composite-longevity-sr-ma]] — SR+MA(5 RCT, 627수복, Dental Materials 2024): 직접 수복 실패 위험 유의하게 낮음(RR=0.61), 모든 연구 high risk of bias
+- [[resin/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]] — SR(8편, J Dent 2015): 구치부 복합레진 전체 실패율 1.55/100 수복-년; 이차우식 주요 실패 원인
+- [[resin/van-de-sande-2019-composite-repair-anterior-15year]] — 후향적 15년(634수복): 전방부 복합레진 수리 vs 교체 — 수리는 유효한 대안; Class III/IV 15년 생존 69%, AFR 2.4%
+- [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] — Cochrane SR(2021): 구치부 복합레진 vs 아말감 — 5년 생존 유사, 복합레진 이차우식 위험 불확실
 
 ## 인레이 (Inlay)
 - [[inlay/malament-2021-lithium-disilicate-partial-coverage-109year]] — 후향적(n=551, 최대 10.9년): 프레스 LD 인레이/온레이 10년 생존율 95.6%; 온레이 98.3% > 인레이 93.9%; 대구치 위험↑; 유일 실패 = 파절
@@ -416,6 +421,8 @@ Format: `category/stem` — one-line description
 - [[inlay/lim-2023-milled-vs-3d-printed-inlays-accuracy]] — 인비트로(n=52): 전통·밀링 하이브리드·밀링 지르코니아·3D프린팅 인레이 변연/내부 적합도 — 모든 CAD/CAM 허용 범위 내
 - [[inlay/wang-2022-onlays-vs-full-crowns-posterior-sr-ma]] — 구치부 온레이/부분관 vs 완전관 비교 SR+MA — 5년 생존율 93.5% vs 94.2%(동등), 치질 보존 이점.
 - [[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]] — 구치부 부분 피개 수복물(인레이·온레이·엔도크라운) 생존율 스코핑 리뷰 — 세라믹 93–96%, 엔도크라운 92–95%.
+- [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] — SR+MA(RCT 3편, J Dent 2016): 직접 vs 간접 레진 인레이/온레이 — 5년·11년 모두 실패율 유의차 없음; 온레이 5년 생존 87%
+- [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] — SR+MA(13편, Oper Dent 2021): 레진 5년 생존 91%, 세라믹 10년 85%; 이차우식/파절 주요 실패 원인
 
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
@@ -456,3 +463,17 @@ Format: `category/stem` — one-line description
 - [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS 임상양상·병인론(면역·유전·영양·스트레스)·치료 단계적 접근 고찰.
 - [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 서술 고찰 (그리스 ENT+치과): 단측 상악동염 약 30%가 치성 원인; 발치·치성감염·OAF 주 원인; 치과 수술 + ESS 병행 표준; ENT-치과 다학제팀 필수 (J Dent Sci 2021)
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)
+
+## 악관절·구강안면통증 (TMJ)
+- [[tmj/valesan-2021-tmd-prevalence-sr-ma]] — SR+MA: 악관절증(TMD) 유병률 ~31%, 통증성 TMD ~11–13%; 여성 1.5–2배, 20–45세 호발
+- [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] — RCT SR: 교합안정장치(Occlusal Splint)가 무처치 대비 통증 감소; 플라시보 장치 대비 우월성 근거 낮음 (Acta Odontol Scand 2020)
+- [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] — SR+MA: 운동치료가 교합안정장치와 동등한 통증 감소; MMO 개선 일부 우위 (Ann Palliat Med 2021)
+- [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] — Cochrane SR: 교합 중재 전반 근거 매우 낮음; 비가역적 교합처치 강력 반대 (Cochrane 2024)
+- [[tmj/ijoms-2023-arthrocentesis-conservative-tmd-sr-ma]] — SR+MA(7 RCT, 448명): 관절천자(Arthrocentesis) MMO +1.12mm 유의 개선(p=0.001); 임상적 차이는 제한적 (IJOMS 2023)
+- [[tmj/zhang-2024-arthrocentesis-injectable-agent-tmd-sr]] — SR: 관절천자 + 히알루론산(HA) 가장 근거 충분; PRP 신흥 옵션; 스테로이드 반복 주의 (BMC Oral Health 2024)
+- [[tmj/zhu-2024-exercise-therapy-tmj-derangement-sr]] — SR: 악관절 내장증(TMJ Internal Derangement) 수술 후 조기 운동치료가 MMO·통증 유의 개선 (J Oral Rehabil 2024)
+- [[tmj/zhu-2020-btx-painful-tmd-sr-ma]] — SR+MA(20 RCT): 보툴리눔독소(BTX-A)가 근막통 위약 대비 유의 통증 감소; MMO 개선 없음
+- [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]] — SR+MA: BTX가 TMD 여러 아형에서 유의한 통증 감소 확인; Zhu 2020 업데이트 (PLoS ONE 2024)
+- [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — 서술 고찰: 구강안면 BTX 임상 적용 전반; 교근 25–75U, 측두근 15–50U 프로토콜 (Toxins 2020)
+- [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — SR: 수면이갈이(Sleep Bruxism) 관리 — 교합안정장치는 치아 보호만, 바이오피드백이 이갈이 빈도 감소 최고 근거 (Jpn Dent Sci Rev 2022)
+- [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — BMJ 2023 임상진료지침: 만성 TMD 통증 보존적 치료 우선; BTX 불응성 근막통 조건부 권고; 비가역 교합처치 강력 반대
