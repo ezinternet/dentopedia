@@ -25,3 +25,10 @@ __pycache__/
 papers/*.pdf
 .ingest-queue
 .ingest-watcher.log
+
+# Quartz build artifacts
+quartz/node_modules/
+quartz/public/
+quartz/.quartz-cache/
+quartz/content
+
