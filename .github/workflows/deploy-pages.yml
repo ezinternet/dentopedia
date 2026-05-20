@@ -50,9 +50,15 @@ jobs:
         working-directory: ./quartz
         run: npm ci || npm install
 
-      - name: Build Quartz
+      - name: Build Quartz (verbose)
         working-directory: ./quartz
-        run: npx quartz build
+        run: npx quartz build --verbose 2>&1 | tee /tmp/quartz-build.log
+        continue-on-error: true
+
+      - name: Build log tail
+        run: |
+          echo "=== Quartz build log (last 80 lines) ==="
+          tail -80 /tmp/quartz-build.log || echo "no log"
 
       - name: Inspect build output
         run: |

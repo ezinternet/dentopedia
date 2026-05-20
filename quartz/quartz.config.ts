@@ -15,7 +15,7 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "ko-KR",
     baseUrl: "ezinternet.github.io/llm-wiki",
-    ignorePatterns: ["private", "templates", ".obsidian", "_lint", "**/*.base"],
+    ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
