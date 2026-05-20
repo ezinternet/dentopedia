@@ -34,63 +34,19 @@ jobs:
         with:
           node-version: 22
 
-      - name: Copy wiki/ into quartz/content/ (cp instead of symlink for reliability)
+      - name: Copy wiki/ into quartz/content/
         run: |
           rm -rf quartz/content
           mkdir -p quartz/content
           cp -r wiki/. quartz/content/
-          echo "=== content/ root listing ==="
-          ls -la quartz/content/ | head -25
-          echo "=== content/index.md exists? ==="
-          ls -la quartz/content/index.md
-          echo "=== content/index.md first 10 lines ==="
-          head -10 quartz/content/index.md
-
-      - name: Pre-install content check
-        run: |
-          echo "=== content/ state BEFORE npm install ==="
-          ls quartz/content/ | wc -l
-          find quartz/content -type f | wc -l
 
       - name: Install Quartz dependencies
         working-directory: ./quartz
         run: npm ci || npm install
 
-      - name: Pre-build content check
-        run: |
-          echo "=== content/ state AFTER npm install, BEFORE build ==="
-          ls quartz/content/ 2>&1 | head -5
-          find quartz/content -type f 2>&1 | wc -l
-
-      - name: Build Quartz (verbose) — re-copy content first as safety
+      - name: Build Quartz
         working-directory: ./quartz
-        run: |
-          echo "=== Re-copy wiki to content/ just in case ==="
-          rm -rf content
-          mkdir -p content
-          cp -r ../wiki/. content/
-          echo "=== content/ AFTER re-copy, just before build ==="
-          ls content/ | head -10
-          find content -type f | wc -l
-          echo "=== running build ==="
-          npx quartz build --verbose 2>&1 | tee /tmp/quartz-build.log
-        continue-on-error: true
-
-      - name: Build log tail
-        run: |
-          echo "=== Quartz build log (last 80 lines) ==="
-          tail -80 /tmp/quartz-build.log || echo "no log"
-
-      - name: Inspect build output
-        run: |
-          echo "=== public/ root listing ==="
-          ls -la quartz/public/ | head -30
-          echo "=== public/index.html exists? ==="
-          ls -la quartz/public/index.html 2>&1 || echo "MISSING"
-          echo "=== public/implants/ exists? ==="
-          ls -la quartz/public/implants/ 2>&1 | head -5 || echo "MISSING"
-          echo "=== total files in public/ ==="
-          find quartz/public -type f | wc -l
+        run: npx quartz build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
