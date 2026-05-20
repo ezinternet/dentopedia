@@ -1,3 +1,7 @@
+---
+title: "LLM Wiki — Dentistry"
+---
+
 # LLM Wiki — Dentistry Index
 
 Personal knowledge base for dental research papers.
