@@ -46,13 +46,34 @@ jobs:
           echo "=== content/index.md first 10 lines ==="
           head -10 quartz/content/index.md
 
+      - name: Pre-install content check
+        run: |
+          echo "=== content/ state BEFORE npm install ==="
+          ls quartz/content/ | wc -l
+          find quartz/content -type f | wc -l
+
       - name: Install Quartz dependencies
         working-directory: ./quartz
         run: npm ci || npm install
 
-      - name: Build Quartz (verbose)
+      - name: Pre-build content check
+        run: |
+          echo "=== content/ state AFTER npm install, BEFORE build ==="
+          ls quartz/content/ 2>&1 | head -5
+          find quartz/content -type f 2>&1 | wc -l
+
+      - name: Build Quartz (verbose) — re-copy content first as safety
         working-directory: ./quartz
-        run: npx quartz build --verbose 2>&1 | tee /tmp/quartz-build.log
+        run: |
+          echo "=== Re-copy wiki to content/ just in case ==="
+          rm -rf content
+          mkdir -p content
+          cp -r ../wiki/. content/
+          echo "=== content/ AFTER re-copy, just before build ==="
+          ls content/ | head -10
+          find content -type f | wc -l
+          echo "=== running build ==="
+          npx quartz build --verbose 2>&1 | tee /tmp/quartz-build.log
         continue-on-error: true
 
       - name: Build log tail
