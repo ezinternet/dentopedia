@@ -16,6 +16,7 @@ import argparse
 
 WIKI_DIR = "wiki"
 SKIP_DIRS = {"_lint", "overviews"}
+SKIP_FILES = {"index.md"}  # Quartz homepage, not a paper page
 
 REQUIRED_FIELDS = [
     "title",
@@ -98,6 +99,8 @@ def main():
         dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
         for fn in sorted(files):
             if not fn.endswith(".md"):
+                continue
+            if fn in SKIP_FILES:
                 continue
             path = os.path.join(root, fn)
             errors = lint_file(path)
