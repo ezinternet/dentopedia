@@ -25,7 +25,7 @@ properties:
     displayName: Days in Wiki
 views:
   - type: table
-    name: "전신질환·약물 — 근거 수준 (High → Low)"
+    name: 전신질환·약물 — 근거 수준 (High → Low)
     groupBy:
       property: confidence
       direction: DESC
@@ -36,7 +36,7 @@ views:
       - year
       - journal
   - type: table
-    name: "전신질환·약물 — 최신순"
+    name: 전신질환·약물 — 최신순
     groupBy:
       property: year
       direction: DESC
@@ -47,7 +47,7 @@ views:
       - confidence
       - journal
   - type: cards
-    name: "Card View"
+    name: Card View
     order:
       - file.name
       - year

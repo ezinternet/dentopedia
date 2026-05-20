@@ -51,4 +51,4 @@ The non-significance of the overall meta-analysis finding means the clinical int
 - [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] — earlier SR+MA included in or comparable to the underlying SRs of this umbrella review
 - [[resin/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma]] — post-umbrella-review SR+MA confirming equivalence with updated RCT data
 - [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] — NMA approach for Class II restorations; highest-resolution evidence for that indication
-- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr.md]] — in vitro SR on property heterogeneity among flowable BF-RBCs
+- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — in vitro SR on property heterogeneity among flowable BF-RBCs

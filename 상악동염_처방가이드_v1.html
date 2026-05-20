@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>치성 상악동염 (OMS) 처방·치료 가이드</title>
+<style>
+  :root {
+    --primary: #1e3a5f;
+    --secondary: #2c7a7b;
+    --accent: #c05621;
+    --bg: #f7f7f5;
+    --card: #ffffff;
+    --border: #e2e8f0;
+    --text: #1a202c;
+    --text-muted: #4a5568;
+    --strong-evidence: #2f855a;
+    --consensus: #2b6cb0;
+    --claude-interp: #6b46c1;
+    --unverified: #718096;
+    --warning: #c53030;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.65;
+    padding: 32px 20px;
+    max-width: 1080px;
+    margin: 0 auto;
+  }
+  header {
+    background: linear-gradient(135deg, var(--primary) 0%, var(--secondary) 100%);
+    color: white;
+    padding: 32px 36px;
+    border-radius: 12px;
+    margin-bottom: 28px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+  }
+  header h1 { font-size: 26px; margin-bottom: 12px; letter-spacing: -0.3px; }
+  header .subtitle { font-size: 14px; opacity: 0.85; margin-bottom: 14px; }
+  header .one-liner {
+    background: rgba(255,255,255,0.12);
+    padding: 14px 16px;
+    border-left: 3px solid #fff;
+    border-radius: 4px;
+    font-size: 14.5px;
+  }
+  section {
+    background: var(--card);
+    border-radius: 10px;
+    padding: 24px 28px;
+    margin-bottom: 20px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.04);
+    border: 1px solid var(--border);
+  }
+  section h2 {
+    font-size: 19px;
+    color: var(--primary);
+    border-bottom: 2px solid var(--secondary);
+    padding-bottom: 8px;
+    margin-bottom: 18px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+  }
+  section h2 .num {
+    background: var(--secondary);
+    color: white;
+    width: 26px; height: 26px;
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center; justify-content: center;
+    font-size: 14px;
+  }
+  section h3 {
+    font-size: 15.5px;
+    color: var(--text);
+    margin: 16px 0 10px;
+    padding-left: 10px;
+    border-left: 3px solid var(--accent);
+  }
+  p { margin-bottom: 10px; font-size: 14.5px; }
+  ul { margin: 8px 0 12px 20px; }
+  ul li { margin-bottom: 6px; font-size: 14.5px; }
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 12px 0;
+    font-size: 14px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  th {
+    background: #edf2f7;
+    color: var(--primary);
+    font-weight: 600;
+    font-size: 13px;
+  }
+  tbody tr:hover { background: #f7fafc; }
+  code {
+    background: #edf2f7;
+    padding: 2px 6px;
+    border-radius: 3px;
+    font-family: "SF Mono", Menlo, monospace;
+    font-size: 13px;
+    color: var(--accent);
+  }
+  .tag {
+    display: inline-block;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 2px 7px;
+    border-radius: 3px;
+    margin-right: 6px;
+    vertical-align: middle;
+    letter-spacing: 0.3px;
+  }
+  .tag-strong { background: #c6f6d5; color: var(--strong-evidence); }
+  .tag-consensus { background: #bee3f8; color: var(--consensus); }
+  .tag-claude { background: #e9d8fd; color: var(--claude-interp); }
+  .tag-unverified { background: #e2e8f0; color: var(--unverified); }
+  .tag-estimate { background: #fed7d7; color: var(--warning); }
+  .warning-box {
+    background: #fffaf0;
+    border-left: 4px solid var(--accent);
+    padding: 12px 16px;
+    margin: 12px 0;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  .info-box {
+    background: #ebf8ff;
+    border-left: 4px solid var(--consensus);
+    padding: 12px 16px;
+    margin: 12px 0;
+    border-radius: 4px;
+    font-size: 14px;
+  }
+  .flow-step {
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    margin-bottom: 14px;
+    padding: 14px;
+    background: #f7fafc;
+    border-radius: 8px;
+    border-left: 4px solid var(--secondary);
+  }
+  .flow-step .step-num {
+    background: var(--primary);
+    color: white;
+    min-width: 32px; height: 32px;
+    border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-weight: bold;
+    font-size: 15px;
+  }
+  .flow-step .step-body { flex: 1; }
+  .flow-step .step-title { font-weight: 600; margin-bottom: 4px; color: var(--primary); font-size: 14.5px; }
+  .flow-step .step-detail { font-size: 13.5px; color: var(--text-muted); }
+  .paper-card {
+    background: linear-gradient(to right, #f7fafc, #ffffff);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    padding: 18px 20px;
+    margin-bottom: 14px;
+  }
+  .paper-card h4 { font-size: 15px; color: var(--primary); margin-bottom: 8px; }
+  .paper-card .meta { font-size: 13px; color: var(--text-muted); margin-bottom: 8px; }
+  .paper-card .links { font-size: 13px; }
+  .paper-card .links a {
+    display: inline-block;
+    color: var(--secondary);
+    text-decoration: none;
+    margin-right: 14px;
+    border-bottom: 1px solid var(--secondary);
+    padding-bottom: 1px;
+  }
+  .paper-card .links a:hover { color: var(--accent); border-color: var(--accent); }
+  .checklist { list-style: none; margin-left: 0; }
+  .checklist li {
+    padding-left: 28px;
+    position: relative;
+    margin-bottom: 8px;
+    font-size: 14px;
+  }
+  .checklist li::before {
+    content: "☐";
+    position: absolute;
+    left: 0;
+    color: var(--secondary);
+    font-size: 18px;
+    line-height: 1;
+  }
+  .compare-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin: 12px 0;
+  }
+  .compare-col {
+    padding: 14px 16px;
+    border-radius: 6px;
+    font-size: 13.5px;
+  }
+  .compare-col.left { background: #e6fffa; border-left: 4px solid var(--secondary); }
+  .compare-col.right { background: #fef5e7; border-left: 4px solid var(--accent); }
+  .compare-col h5 { font-size: 13.5px; margin-bottom: 8px; color: var(--primary); }
+  footer {
+    text-align: center;
+    font-size: 12px;
+    color: var(--text-muted);
+    margin-top: 28px;
+    padding: 16px;
+  }
+  @media (max-width: 720px) {
+    body { padding: 16px 12px; }
+    section { padding: 18px 16px; }
+    .compare-grid { grid-template-columns: 1fr; }
+  }
+  @media print {
+    body { background: white; padding: 0; }
+    section { box-shadow: none; page-break-inside: avoid; }
+    header { background: var(--primary); }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>치성 상악동염 처방·치료 가이드</h1>
+  <div class="subtitle">Odontogenic Maxillary Sinusitis (OMS) · 임상 참고용 · v1 · 2026-05-20</div>
+  <div class="one-liner">
+    <strong>한 줄 결론:</strong> 치성 원인 제거 + 부비동 배농 회복의 다학제 접근. 1차 처방은 <code>amoxicillin + β-lactamase inhibitor ± metronidazole</code> 2~4주 + 비강 corticosteroid/세척, 실패 시 ESS 결합.
+  </div>
+</header>
+
+<section>
+  <h2><span class="num">1</span> 처방 — 1차 약물요법</h2>
+  <p><span class="tag tag-consensus">합의수준</span>Lin 2024 expert consensus 본문 기준. 비치성 상악동염과 균총이 달라 (다균성, 구강 유래 혐기성균 포함) 표준 비부비동염 처방으로는 부족.</p>
+
+  <table>
+    <thead>
+      <tr><th style="width: 22%;">항목</th><th>내용</th></tr>
+    </thead>
+    <tbody>
+      <tr><td>1차 항생제</td><td>Penicillin 계열 (amoxicillin) <strong>+ β-lactamase inhibitor</strong> (e.g. Augmentin)</td></tr>
+      <tr><td>혐기성균 보강</td><td>Metronidazole 병용</td></tr>
+      <tr><td>기간</td><td>2~4주 (비수술 단계)</td></tr>
+      <tr><td>보조</td><td>비강 corticosteroid + 비강 세척 (nasal irrigation)</td></tr>
+      <tr><td>주의 (Zirk et al.)</td><td>amoxicillin 단독 내성률 높음 → 가능하면 배양검사 기반 처방</td></tr>
+    </tbody>
+  </table>
+
+  <h3>한국 실무 처방 (참고용)</h3>
+  <p><span class="tag tag-claude">claude해석</span>구체 mg는 Lin 2024 본문에 미기재. 일반 ENT 표준에서 차용한 참고값.</p>
+  <ul>
+    <li><strong>Augmentin</strong> (amoxicillin 875mg / clavulanate 125mg) bid × 7~14일</li>
+    <li>페니실린 알레르기: <strong>Clindamycin</strong> 300mg qid 또는 <strong>Moxifloxacin</strong> 400mg qd</li>
+    <li>혐기성균 강하게 의심 시: 위 처방에 <strong>Metronidazole</strong> 500mg tid 추가</li>
+  </ul>
+
+  <div class="warning-box">
+    <strong>⚠ 처방 전 확인:</strong> 환자 페니실린 알레르기 / 신기능 / 임신 여부 / 와파린·DOAC 등 항응고제 복용 / 메트로니다졸의 알코올 금기. 식약처 허가 용량은 변동 가능 — 처방 직전 약물 정보 재확인.
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">2</span> 치료 알고리즘 — Lin 2024 표준 시퀀스</h2>
+  <p><span class="tag tag-strong">근거강함</span>Wang et al. 21명 회복 환자 분석: ESS+dental 33%, 순차적 ESS→dental 57%, dental 단독 10%. 단독 ESS는 29% 불응 (Longhini & Ferguson). 다학제 협업이 가장 우세.</p>
+
+  <div class="flow-step">
+    <div class="step-num">1</div>
+    <div class="step-body">
+      <div class="step-title">비강 비수술 치료 2~4주</div>
+      <div class="step-detail">항생제 + 비강 corticosteroid + 비강 세척. Acute 증상 통제 단계.</div>
+    </div>
+  </div>
+
+  <div class="flow-step">
+    <div class="step-num">2</div>
+    <div class="step-body">
+      <div class="step-title">치성 원인 평가 및 치료</div>
+      <div class="step-detail">근관치료 / 치주치료 / 발치 / 임플란트 제거 / OAF (Oroantral Fistula, 구강상악동누공) 봉합. 원인에 따라 선택.</div>
+    </div>
+  </div>
+
+  <div class="flow-step">
+    <div class="step-num">3</div>
+    <div class="step-body">
+      <div class="step-title">치료 분기 판단</div>
+      <div class="step-detail">
+        <strong>증상 호전 + CT 부담 낮음</strong> → 치과 단독으로 충분<br>
+        <strong>증상 잔존 + OMC (Ostiomeatal Complex) 폐쇄</strong> → 치과 + ESS 결합 (동시 또는 순차)<br>
+        <strong>단독 ESS</strong> → 29% 불응, <em>권장 안 함</em>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">3</span> 술식 옵션 — Trade-off</h2>
+  <p><span class="tag tag-consensus">합의수준</span></p>
+
+  <h3>부비동 수술</h3>
+  <table>
+    <thead>
+      <tr><th>술식</th><th>장점</th><th>단점</th><th>현재 위치</th></tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>ESS / FESS</strong><br>중비도 antrostomy</td>
+        <td>보존적, 재발률 낮음, 안면 흉터 없음</td>
+        <td>술자 경험 필요, 장비 의존</td>
+        <td>현재 표준</td>
+      </tr>
+      <tr>
+        <td><strong>Caldwell-Luc</strong><br>anterior maxillary wall osteotomy</td>
+        <td>직접 시야 확보, 넓은 접근</td>
+        <td>안면 감각 이상, 재발 보고, 침습 큼</td>
+        <td>ESS 실패 case에 제한적 사용</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <h3>OAF 봉합</h3>
+  <table>
+    <thead>
+      <tr><th>술식</th><th>장점</th><th>단점</th></tr>
+    </thead>
+    <tbody>
+      <tr><td><strong>Buccal advancement flap</strong></td><td>단순, 접근 쉬움</td><td>Vestibular depth 감소</td></tr>
+      <tr><td><strong>Palatal rotation flap</strong></td><td>큰 결손 가능, 두꺼운 조직</td><td>공여부 통증, 노출된 골</td></tr>
+      <tr><td><strong>Bichat fat pad</strong></td><td>생체적합성 우수, 혈관화 양호</td><td>술자 경험 필요</td></tr>
+    </tbody>
+  </table>
+</section>
+
+<section>
+  <h2><span class="num">4</span> 치성 vs 비치성 상악동염</h2>
+  <p><span class="tag tag-strong">근거강함</span>Psillas 2020 기준.</p>
+
+  <div class="compare-grid">
+    <div class="compare-col left">
+      <h5>치성 (OMS)</h5>
+      <ul>
+        <li>주로 편측 (unilateral)</li>
+        <li>다균성 + 혐기성균 포함</li>
+        <li>구강 유래 streptococci, anaerobes, gram-negative rods</li>
+        <li>악취 동반 비루 빈발</li>
+        <li>치과 처치 이력 / 치근단 병소</li>
+        <li>1차: Augmentin ± metronidazole</li>
+      </ul>
+    </div>
+    <div class="compare-col right">
+      <h5>비치성 (rhinogenic)</h5>
+      <ul>
+        <li>양측 가능</li>
+        <li>주로 단일 호기성 균</li>
+        <li>S. pneumoniae, H. influenzae</li>
+        <li>전신 감기 증상 동반 빈발</li>
+        <li>치과 이력 없음</li>
+        <li>1차: amoxicillin 단독 가능</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="info-box">
+    <strong>왜 구분이 중요한가:</strong> OMS는 일반 비부비동염 항생제 (amoxicillin 단독)에 저항적. Lin 2024는 "OMS is resistant to conventional rhinosinusitis therapy"를 명시 — 진단 단계에서 치성 여부 감별이 처방 정확도를 결정.
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">5</span> 핵심 논문 — 무료 링크</h2>
+  <p><span class="tag tag-strong">근거강함</span>둘 다 Open Access. <span class="tag tag-unverified">미검증</span>링크 동작은 사용자가 클릭으로 확인 필요.</p>
+
+  <div class="paper-card">
+    <h4>Lin et al. 2024 — Expert Consensus (다학제 치료 표준)</h4>
+    <div class="meta">
+      Lin J et al. <em>Expert consensus on odontogenic maxillary sinusitis multi-disciplinary treatment.</em><br>
+      <strong>International Journal of Oral Science</strong> 2024;16:11 · Nature Springer · Open Access<br>
+      DOI: 10.1038/s41368-024-00278-z · Beijing TongRen Hospital 등 15개 중국 의대 다기관
+    </div>
+    <div class="links">
+      <a href="https://doi.org/10.1038/s41368-024-00278-z" target="_blank">DOI 링크</a>
+      <a href="https://www.nature.com/articles/s41368-024-00278-z" target="_blank">Nature 페이지</a>
+      <a href="https://www.nature.com/articles/s41368-024-00278-z.pdf" target="_blank">PDF 직접</a>
+    </div>
+  </div>
+
+  <div class="paper-card">
+    <h4>Psillas et al. 2020 — 종합 Review (해부·역학·세균학)</h4>
+    <div class="meta">
+      Psillas G et al. <em>Odontogenic maxillary sinusitis: A comprehensive review.</em><br>
+      <strong>Journal of Dental Sciences</strong> 2021;16:474–481 · Elsevier-KeAi · Open Access<br>
+      DOI: 10.1016/j.jds.2020.08.001 · Aristotle University of Thessaloniki
+    </div>
+    <div class="links">
+      <a href="https://doi.org/10.1016/j.jds.2020.08.001" target="_blank">DOI 링크</a>
+      <a href="https://www.sciencedirect.com/science/article/pii/S199179022030177X" target="_blank">ScienceDirect 페이지</a>
+    </div>
+  </div>
+</section>
+
+<section>
+  <h2><span class="num">6</span> 임상 의사결정 포인트</h2>
+  <p><span class="tag tag-claude">claude해석</span>실무 적용 시 자주 놓치는 항목.</p>
+
+  <ul class="checklist">
+    <li>환자 치과 처치 이력 (임플란트·근관치료·발치) 직후 → <strong>iatrogenic OMS</strong> 우선 의심</li>
+    <li>Zinc oxide 함유 sealer overfill → <strong>fungal ball</strong> 유발 인자 (Lin 2024)</li>
+    <li>상악 구치부 치근 sinus 근접 (2nd molar > 1st molar > 3rd molar > 2nd premolar > 1st premolar) → 근관충전 시 과충전 주의</li>
+    <li>편측 비폐색 + 화농성 비루 + 후비루 + 안면통 → 2~4주 약물 무효 시 ENT 조기 의뢰</li>
+    <li>CBCT가 일반 CT보다 치아-부비동 관계 평가 우수 — ENT 의뢰 전 활용</li>
+    <li>Schneiderian membrane은 5mm 이상 비후 시 sinus 부담 큼 — 약물 단독 한계</li>
+    <li>치성 원인 명확 + sinus 부담 가벼움 → 치과 단독으로 충분 가능 (multi-D 비용·시간 절약)</li>
+  </ul>
+</section>
+
+<section>
+  <h2><span class="num">7</span> 재확인 / 한계</h2>
+  <ul>
+    <li><span class="tag tag-unverified">미검증</span> 한국 식약처 허가 항생제 용량은 변동 가능 — 처방 직전 식약처 / 약물 정보 검색 필수</li>
+    <li><span class="tag tag-claude">claude해석</span> 본 가이드는 OMS 한정. 비치성 부비동염 처방은 IDSA·EPOS 가이드라인 별도 참조</li>
+    <li><span class="tag tag-consensus">합의수준</span> 최종 임상 판단은 술자 책임 — 가이드는 참고용, 환자별 위험요인 평가 우선</li>
+    <li><span class="tag tag-strong">근거강함</span> Lin 2024 합의문은 SR / RCT 아님 — 근거 레벨은 expert consensus</li>
+  </ul>
+</section>
+
+<footer>
+  생성일: 2026-05-20 · llm-wiki/oral-medicine 기반 · 환자 식별정보 없음
+</footer>
+
+</body>
+</html>

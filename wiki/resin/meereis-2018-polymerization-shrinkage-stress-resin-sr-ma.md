@@ -52,7 +52,7 @@ SDR chemistry: combines optimized urethane-dimethacrylate matrix + filler → re
 Low-shrinkage materials (silorane, ormocer) and bulk-fill materials primarily act through resin matrix modification mechanism — consistent with this SR+MA's main finding.
 
 ## Related Papers
-- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr.md]] — in vitro SR on flowable BF-RBC properties; shrinkage stress 2–3 MPa across most materials
+- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — in vitro SR on flowable BF-RBC properties; shrinkage stress 2–3 MPa across most materials
 - [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] — SR+MA confirming in vitro shrinkage/stress advantages of bulk-fill translate to equivalent (not superior) clinical performance
 - [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — clinical SR+MA on silorane; confirms reduced shrinkage does not equal clinical superiority
 - [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — clinical SR+MA on low-shrinkage composites broadly; same conclusion

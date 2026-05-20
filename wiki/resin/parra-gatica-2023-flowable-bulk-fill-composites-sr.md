@@ -4,7 +4,7 @@ authors: Elizabeth Parra Gatica, Gerardo Duran Ojeda, Michael Wendler
 year: 2023
 date: 2023-01-01
 doi: 10.1080/26415275.2023.2175685
-source: parra-gatica-2023-flowable-bulk-fill-composites-sr.md
+source: parra-gatica-2023-flowable-bulk-fill-composites-sr
 category: [resin]
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/parra-gatica-2023-flowable-bulk-fill-composites-sr.pdf

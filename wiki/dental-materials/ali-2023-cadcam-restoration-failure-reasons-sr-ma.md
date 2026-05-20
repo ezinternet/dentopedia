@@ -31,4 +31,4 @@ PubMed/Embase systematic review + meta-analysis.
 Fracture dominant failure mode. Adequate thickness (≥1.5mm occlusal) and strict adhesive protocol reduce failure risk significantly.
 
 ## Related Papers
-- [[dental-materials/worthington-2021-composite-vs-amalgam-permanent-cochrane]] — related
+- [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] — related

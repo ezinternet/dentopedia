@@ -51,6 +51,6 @@ Note: An internal discrepancy exists in the publication — the abstract states 
 
 ## Related Papers
 - [[resin/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma]] — more recent SR+MA confirming clinical equivalence with updated RCT evidence
-- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr.md]] — in vitro SR specifically on flowable BF-RBC properties
+- [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — in vitro SR specifically on flowable BF-RBC properties
 - [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — focused in vitro SR+MA on shrinkage stress composition strategies
 - [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] — NMA on Class II restorations confirming equivalence at 6–24 months
