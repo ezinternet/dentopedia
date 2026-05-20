@@ -34,11 +34,17 @@ jobs:
         with:
           node-version: 22
 
-      - name: Link wiki/ into quartz/content/
+      - name: Copy wiki/ into quartz/content/ (cp instead of symlink for reliability)
         run: |
           rm -rf quartz/content
-          ln -s ../wiki quartz/content
-          # NOTE: wiki/index.md already exists with frontmatter — do NOT overwrite from root index.md
+          mkdir -p quartz/content
+          cp -r wiki/. quartz/content/
+          echo "=== content/ root listing ==="
+          ls -la quartz/content/ | head -25
+          echo "=== content/index.md exists? ==="
+          ls -la quartz/content/index.md
+          echo "=== content/index.md first 10 lines ==="
+          head -10 quartz/content/index.md
 
       - name: Install Quartz dependencies
         working-directory: ./quartz
@@ -47,6 +53,17 @@ jobs:
       - name: Build Quartz
         working-directory: ./quartz
         run: npx quartz build
+
+      - name: Inspect build output
+        run: |
+          echo "=== public/ root listing ==="
+          ls -la quartz/public/ | head -30
+          echo "=== public/index.html exists? ==="
+          ls -la quartz/public/index.html 2>&1 || echo "MISSING"
+          echo "=== public/implants/ exists? ==="
+          ls -la quartz/public/implants/ 2>&1 | head -5 || echo "MISSING"
+          echo "=== total files in public/ ==="
+          find quartz/public -type f | wc -l
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
