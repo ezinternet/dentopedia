@@ -30,5 +30,8 @@ papers/*.pdf
 quartz/node_modules/
 quartz/public/
 quartz/.quartz-cache/
-quartz/content
+# NOTE: quartz/content is NOT gitignored — Quartz uses globby with
+# gitignore:true, which would cause it to skip all files in content/
+# and emit 0 pages. The directory is recreated by the deploy workflow
+# from wiki/ on each build.
 
