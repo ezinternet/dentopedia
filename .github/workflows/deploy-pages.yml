@@ -38,7 +38,7 @@ jobs:
         run: |
           rm -rf quartz/content
           ln -s ../wiki quartz/content
-          cp index.md quartz/content/index.md
+          # NOTE: wiki/index.md already exists with frontmatter — do NOT overwrite from root index.md
 
       - name: Install Quartz dependencies
         working-directory: ./quartz
