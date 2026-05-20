@@ -1,6 +1,6 @@
 ---
 title: "Arthrocentesis with injectable agents for temporomandibular disorders"
-authors: Zhang et al., Chengdu University of Traditional Chinese Medicine (correspondence: Jie Yun)
+authors: "Zhang et al., Chengdu University of Traditional Chinese Medicine (correspondence: Jie Yun)"
 year: 2024
 date: 2024-01-01
 doi: 10.1186/s12903-024-04858-7
