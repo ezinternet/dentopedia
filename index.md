@@ -549,6 +549,7 @@ Format: `category/stem` — one-line description
 - [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] — 임상 강의 (부산 2026, 장 원장, 69슬라이드): 바이탈 근관치료 (Vital Pulpectomy) 단계별 프로토콜 — 엔도셈 ≥3mm 배리어, 작업장 길이 근단 2–3mm 단축, NaOCl+초음파 세정, 크랙치아·고령환자 적응증
 
 ## 종합 (Overviews)
+- [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — 크라운 prep 기하 9편 클러스터 종합 (2026-05-21): 권장 TOC 변천(6°→10-22°·임상 25-32°), 치아별 민감도(견치·대구치 vs 소구치 NS), 보조형 retention-fit trade-off(Roudsari/Yang), 임시 크라운 3D 프린팅 우위(6.6-7.65 vs 2.35-3.52 MPa), 지르코니아 핫애시드 임상 회피
 - [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] — 2024–2025 ingest AI 리뷰 9편 클러스터 종합: 정량 anchor(Zhang 2025 LLM 정확도 81.87%·임상수용 69.9%), 메타-품질 anchor(Iqbal 2025 AMSTAR-2 12/17 low), 다전공 매핑 3편·도메인 특화 2편·의료 일반 3편; 즉시 도입 영역(영상 진단)/신중 활용(LLM)/회피 영역(자율 술식) 분리
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — 측방창 (Lateral Window) 상악동거상술 슈나이더 막 천공 (SMP) 위험·수복 종합 (2026-05-20 신규 20편): Soares 2024 SR+MA 수복 시 임플란트 소실률 4%·무손상과 동등, septa OR 4.03 (Yang 2024), PRF/e-PRF 단독 막 100% 생존 (Estrin 2025), >10 mm tack-collagen 술식 (Tian 2026)
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 ISQ 궤적 및 부하 시기: 술식별(2단계LSA/TSFE동시) × RBH × 이식재별 ISQ 수치와 부하 가능 시점 총정리 (7편 합성)
