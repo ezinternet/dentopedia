@@ -1,4 +1,5 @@
 # LLM Wiki — 운영 SOP
+**Standard Operating Procedure** — 표준작업절차서
 
 논문 1편 추가부터 사이트 반영까지의 표준 작업 절차. 본인 참고용.
 

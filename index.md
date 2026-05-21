@@ -83,6 +83,24 @@ Format: `category/stem` — one-line description
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): Osstell ISQ vs Periotest 직접 비교; 상관 -0.64; ICC ISQ 0.99 vs Periotest 0.88 — Osstell이 더 정밀; 직경 유의, 길이 무관
 - [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 공학·인비트로 2-DOF 모델+FEA: 5–15 kHz 입력 → 공진주파수·미세변위 추출; 전자기 RFA의 이론적 기반 검증
 
+## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
+- [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
+- [[implants/marenzi-2018-micromorphological-structure-implant-drills]] — 인비트로(BioMed Res Int 2018, 5개 제조사 Ø2.0mm): 백색광 간섭계로 측정한 미세표면 거칠기가 제조사별 유의차 — 발열·마모·내구성 예측 가능
+- [[implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration]] — 미니피그 in vivo(COIR 2021, n=36): 신형 drill+축약 시퀀스 → 골내 최고온도 35.4 vs 46.5°C(p=.0021), BIC 2주 44.9 vs 31.3%(p<.0001) — drill 발열 감소 → 골유착 향상 직접 증거
+- [[implants/saxena-2024-guided-implant-drilling-bone-temperature]] — SR(Cureus 2024, 11편): 가이드 드릴링이 비가이드 대비 골내 온도 유의 상승(슬리브가 saline 차단); 대부분 47°C 미만이나 1500–2000 RPM 가이드선 괴사역치 초과; 10°C saline이 가장 일관된 완화책
+- [[implants/sorgato-2025-drill-bit-wear-temperature]] — 인비트로(PLOS ONE 2025, CNC, 150 hole/set): drill 마모(SEM, TiN 코팅 손실)와 온도 상승 직접 정비례 — 제조사 권장 25–30회 이전에 이미 발열 진행
+- [[implants/bernabeu-mira-2020-bone-heating-drilling-implant]] — 인비트로(Materials 2020, 800 rpm, irrigation 없음): drill **design**(twisted < straight, p<0.01)이 **material**(SS≈DLC, NS)보다 발열에 큰 영향; initial·pilot > progressive·final
+- [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — 인비트로(J Maxillofac Oral Surg 2023, 315 prep, IR): 초기 osteotomy에서 piezo insert ΔT 53–65°C vs 회전 drill <2°C(p<0.001); 단 9.8 N 과부하 + 비회전 적용이 piezo 과대평가; 차가운 saline 효과적
+- [[implants/bento-2023-steel-versus-zirconia-drills-heat]] — SR+MA(Saudi Dent J 2024, 10편 in vitro): 지르코니아 drill이 SS drill보다 골내 온도 변화 유의하게 낮음(IV pooling) — 특정 material pair에 대한 정량적 신호
+- [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — SR(Indian J Dent Res 2018, 34편, 1992-2015): osteotomy 발열은 multifactorial — drill 디자인·재질·마모, drilling method, irrigation, 골질 모두 작용; canonical factor framework
+- [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — SR(Cureus 2024, 9편): piezo가 술후 통증 유의 감소시키나 술중 골내 온도는 회전 drill보다 높음 — pain-vs-heat trade-off 명시
+- [[implants/jung-2021-heat-development-medical-drilling-influencing]] — mini-review(in vivo 2021): medical drilling 발열을 internal(drill 속성)·external(irrigation·골질) 분류; ex vivo 표준 측정법 제안
+- [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — SR(J Clin Med 2025, 29편): 5개 bed prep 방법 조직학 비교 — 전통 drilling이 microcracks·thermal injury 최다, %BIC 최저; 적정 parameter 시 동등 가능
+- [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — 인비트로(Bioengineering 2024, IR, **irrigation 없음**): pilot drill >100°C, 70°C 발열이 측방 10mm 확산 — 후속 enlarging drill(~4.2mm) 절제 반경(~2mm) 초과; ※ 정상 임상(irrigation + vital bone 혈류)에선 후속 drilling이 thermal-damaged 영역 대부분 절제 — 적용은 D1 + irrigation 부족 + 마모 drill 3중 조건 한정
+- [[implants/stubinger-2015-piezosurgery-implant-dentistry]] — 서술적 고찰(CCIDE 2015): piezo 임상 overview — 정밀·선택적 cutting, 연조직 보존, IAN lateralization·sinus elevation 적용; "열손상 회피" 주장은 aquilanti·jain SR이 반박
+- [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — 서술적 고찰(Cureus 2019, 정형외과): thermal osteonecrosis 50°C critical; external irrigation이 단일 가장 중요 mitigation 변수; cross-specialty 검증
+- [[implants/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo dog tibia(Iowa Orthop J 2022, Level II, 5 device): saline irrigation + sharp drill bit가 발열·급성 osteonecrosis 유의 감소; trocar-tip K-wire 최악
+
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
 - [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — Minimally invasive vs. standard implants show biocompatibility equivalence despite surface property differences; consider minimally invasive for space-limited anatomy
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — 후향적(258개 Osstem CA, 62mo): 생존율 97.3%, 성공률 94.2%, MBL 0.074mm — 초친수성 칼슘 표면 장기 우수 예후
@@ -283,6 +301,9 @@ Format: `category/stem` — one-line description
 - [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]] — SR+MA(RCT/크로스오버 6편, 저비뚤림): 하악 임플란트 오버덴쳐에서 볼이 로케이터·자석보다 보철 합병증 유의하게 적음(RR 0.55, p=0.03); 변연골소실·탐침깊이 NS
 - [[prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — SR+MA(15편, 1–10년 추적): 상악 오버덴쳐 4 vs 6 스플린트 임플란트 — 임플란트·보철 생존율, 합병증, 만족도 모두 NS; 4개 스플린트가 보수적 선택
 - [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — SR+MA(RCT 6편, 101명·234 MDI): 미니임플란트 오버덴쳐 — 볼·바·ERA MBL 동등, 텔레스코픽이 유의하게 MBL 큼(p<0.05); 볼이 1년 합병증 최저
+- [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — narrative SR(Clin Exp Dent Res 2023, 68편): 부분피개 수복물(PCR) 레진 시멘트 선택 가이드 — 금속/PFM=self/dual-cure, 얇고 투명한 세라믹=light-cure conventional, 라미네이트 베니어=self-etch/self-adhesive dual-cure 금기
+- [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] — SR(JABFM 2024, 14편): 풀세라믹 RBFDP — 3–10년 생존율 76–100%, cantilever 단일 abutment 디자인 우세, IPS e.max ZirCAD·In-Ceram zirconia 주류, debonding이 최다 실패; 보조 유지장치(box·groove·pinhole) 권장
+- [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — narrative review(Medicina 2023): 지르코니아 강화 리튬실리케이트(ZLS — Vita Suprinity, Celtra Duo/Press) — 리튬디실리케이트보다 강도↑·투명도↓; 본딩에 HF etching·샌드블라스팅·레이저 etching 표준
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — 후향적 빅데이터(이스라엘 Maccabi, 650k명, 2014–2021): 아말감 연간실패율 3.5% vs 레진 4.5%; HR 1.29; 다면 수복에서만 유의한 차이
@@ -355,6 +376,15 @@ Format: `category/stem` — one-line description
 - [[digital-workflow/buhl-2025-intraoral-scanner-full-arch-accuracy-invitro]] — 최신 IOS 전악 정확도 in vitro 직접 비교 — trueness 50–200μm, 기기 간 유의 차이, 구치부 연장 시 오차 증가.
 - [[digital-workflow/jamil-2020-surgeon-reliability-implant-high-risk-panoramic]] — 전향 임상 (n=148 implants/73 patients): 파노라마만 사용 시 93.2% 가 ABH 과소평가, 5건 IAN paresthesia (모두 overestimated mandible). 후방 임플란트에서 CBCT planning 필요성 근거.
 - [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석 (64명, 128 상악동): 임플란트 계획 소프트웨어(SMOP)로 3D 부피·표면적을 산출했고, 골성 상악동 평균 부피 17.1 cm³, 폐색 상악동 비율 42.2% (평균 폐색 부피 5.1 cm³), 폐색 부피는 상악동 병변과 연관, 남성에서 골성 상악동 부피가 유의하게 컸다.
+- [[digital-workflow/gao-2025-ai-dentistry-narrative-review]] — narrative-review (Med Sci Monit 2025;31:e946676, Zhejiang): AI(ML·ANN·DL)의 치과 6대 전공 진단·치료 적용 총론 — 예방·스크리닝부터 예후까지; 데이터 라벨링·일반화·편향·법적 위험 한계
+- [[digital-workflow/aminoshariae-2024-ai-endodontic-education-scoping]] — scoping-review (J Endod 2024;50(5):562, 251→35편): 근관치료 교육 AI 10영역 — 방사선해석·감별진단·치료계획·사례 난이도·시뮬레이션·실시간 가이드·로봇·진도 평가·캘리브레이션
+- [[digital-workflow/lee-2025-ai-dentistry-emerging-applications-narrative]] — narrative-review (J Dent 2025;155:105648, 120편): AI 치과 3축 — 교육(적응학습·VR)·환자 진료(진단·결정 지원)·진료실 관리(운영 효율); 데이터 프라이버시 핵심 과제
+- [[digital-workflow/zhang-2025-llm-patient-instructions-dentistry-sr-ma]] — sr+ma (J Prosthodont 2025 Early View, 25편): 치과 환자 응답 LLM 풀링 정확도 81.87% (95% CI 77.24–86.51%), 임상 수용 가능 69.9%; ChatGPT-3.5 > Bing 유의, GPT-4.0/Bard와 차이 없음
+- [[digital-workflow/faiyazuddin-2025-ai-healthcare-comprehensive-review]] — narrative-review (Health Sci Rep 2025;8(1):e70312): 의료 AI 광역 — WoS(2014–2024) 출판물 158편→731편 (4.5배 증가); 데이터 보안·예산 1차 장벽; 치과 특화 아님
+- [[digital-workflow/mallineni-2024-ai-dentistry-descriptive-review]] — descriptive-review (Bioengineering 2024;11:1267): AI 전 치과 분야(법의치과학 포함) — 대다수 방사선/광학 영상 진단; 데이터 가용성·균일성·연산력이 비-영상 작업 병목; 근거기반치의학 보완
+- [[digital-workflow/najeeb-2025-ai-restorative-dentistry-review]] — PRISMA literature review (BMC Oral Health 2025;25:592, 63편): 수복치의학 AI — 우식 검출 최대 95%, 진료 의자 시간 단축; 데이터 프라이버시·편향·블랙박스·표준 교육 과제; 향후 3D 프린팅 통합
+- [[digital-workflow/iqbal-2025-chatgpt-healthcare-umbrella-review]] — umbrella-review (J Biomed Sci 2025;32:45, PRISMA, 17편=SR15+MA2): ChatGPT 의료 메타-증거 — AMSTAR-2 중간 5/낮음 12; 진단·결정 지원 주제; 41.2% 분야 특화(공중보건치과학 포함)
+- [[digital-workflow/mizna-2025-ai-healthcare-practice-review]] — narrative-review (Eur J Med Res 2025;30:382): 의료 AI 실무 — 로봇 보조 수술·재활·영상·가상 케어·신약·환자 참여·행정; AR·VR·IoT·웨어러블 통합; 치과 특화 아님
 
 ## 교정치료 (Orthodontics)
 - [[orthodontics/wise-2008-tooth-eruption-orthodontic-movement-mechanisms]] — Narrative review (J Dent Res 2008): tooth eruption vs OTM mechanisms — dental follicle essential for eruption; PDL for OTM; shared RANKL/OPG/CSF-1 pathway; eruption physiological, OTM pathological+physiological
@@ -392,6 +422,12 @@ Format: `category/stem` — one-line description
 - [[resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma]] — SR+MA(13개 RCT): 유니버설 접착제 산부식-세척법(E&R)이 자가산부식법(SE)보다 유지율·변연적합도·변연착색 모두 유의하게 우수(OR 0.35–0.49); 이차우식·과민증은 차이 없음.
 - [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] — SR+MA(17개 RCT, NCCL): 유니버설 접착제 전부산부식(TE) vs 자가산부식(SE) — 5개 임상 지표 모두 유의한 차이 없음(p>0.05, I²=0%).
 - [[resin-bonding/assis-2023-acid-etching-universal-adhesive-nccl-sr-ma]] — SR+MA(20개 RCT, NCCL): E&R이 중기(12–36개월) 유지율·변연적합도·변연착색·이차우식 우수; SE는 술후 과민증 낮음.
+- [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — narrative review(Dent Mater 2025, Breschi/Bologna): 산부식-세척부터 유니버설 접착제까지 70년 진화; 하이브리드 층(HL) 분해 메커니즘(MMP·hydrolysis) + 안정화 전략(CHX·EDC·ethanol-wet bonding·cross-linker) 종합
+- [[resin-bonding/hardan-2021-universal-adhesive-dentin-bond-sr-ma]] — SR+MA(Polymers 2021, 61편 in vitro): 유니버설 접착제 상아질 결합강도 — 10가지 향상 전략(MMP 억제·scrubbing·선택적 산부식·플라즈마·에탄올 습윤본딩·다층 도포·hydrophobic overlay), 2가지 저해 전략(짧게 도포·상아질 desensitizer)
+- [[resin-bonding/hardan-2022-immediate-dentin-sealing-sr-ma]] — SR+MA(Gels 2022, 21편 in vitro): IDS vs DDS — 즉시·노화 모두 IDS 우세; 효과는 3-step EAR + flowable resin overlay 조합에서 최대; 1-step SE·2-step EAR 단독은 NS
+- [[resin-bonding/samartzi-2021-immediate-dentin-sealing-review]] — narrative review(CCID 2021, 88편): 즉시상아질봉쇄(IDS) 종합 — 결합강도·미세누출·과민증 유리; 인상재 상호작용·임시수복 단계·최종접착 전 조건화 미해결; 임상 금기 없음
+- [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — in-vitro µTBS(J Adhes Dent 2025, KU Leuven Van Meerbeek): Clearfil SE Bond 2(2-step SE)는 타액 오염 후 추가처치 없이도 결합력 유지; Clearfil Universal Bond Quick(1-step SE)는 Katana Cleaner 또는 CSE2 primer 필수
+- [[resin-bonding/kagaoan-2024-additively-manufactured-crown-bond-sr]] — SR(J Dent 2024, 6편 in vitro): 3D 프린팅(주로 광경화 레진) 크라운 결합강도 = 밀링 크라운 동등; 알루미나 샌드블라스팅 가장 권장; 임상연구 부재가 한계
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
@@ -504,6 +540,7 @@ Format: `category/stem` — one-line description
 - [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] — 임상 강의 (부산 2026, 장 원장, 69슬라이드): 바이탈 근관치료 (Vital Pulpectomy) 단계별 프로토콜 — 엔도셈 ≥3mm 배리어, 작업장 길이 근단 2–3mm 단축, NaOCl+초음파 세정, 크랙치아·고령환자 적응증
 
 ## 종합 (Overviews)
+- [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] — 2024–2025 ingest AI 리뷰 9편 클러스터 종합: 정량 anchor(Zhang 2025 LLM 정확도 81.87%·임상수용 69.9%), 메타-품질 anchor(Iqbal 2025 AMSTAR-2 12/17 low), 다전공 매핑 3편·도메인 특화 2편·의료 일반 3편; 즉시 도입 영역(영상 진단)/신중 활용(LLM)/회피 영역(자율 술식) 분리
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — 측방창 (Lateral Window) 상악동거상술 슈나이더 막 천공 (SMP) 위험·수복 종합 (2026-05-20 신규 20편): Soares 2024 SR+MA 수복 시 임플란트 소실률 4%·무손상과 동등, septa OR 4.03 (Yang 2024), PRF/e-PRF 단독 막 100% 생존 (Estrin 2025), >10 mm tack-collagen 술식 (Tian 2026)
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 ISQ 궤적 및 부하 시기: 술식별(2단계LSA/TSFE동시) × RBH × 이식재별 ISQ 수치와 부하 가능 시점 총정리 (7편 합성)
 - [[overviews/eal-working-length-protocol]] — EAL 근관장 측정 프로토콜 총정리: 치종별 WL 종지점(전치−0.85mm·구치−0.70mm), 기기별 정확도, 발산형·광근첨공·NaOCl 특수상황 대응 (6편 합성)
@@ -516,6 +553,7 @@ Format: `category/stem` — one-line description
 - [[overviews/mb2-detection-strategy]] — MB2 탐지 전략 지도: PMFM 60–79%(인종 무관), 방사선 15%→탐침 79%→DOM 82%→DOM+초음파 86%→CBCT gold std; 탐지 프로토콜 4단계 (5편 합성)
 - [[overviews/anticoagulant-antiplatelet-dental-protocol]] — 항응고제·항혈소판제 치과 프로토콜: 루틴 발치 중단 불필요; INR≤3.5 VKA 지속, DOAC 단순발치 지속, 항혈소판 절대 중단 금지; TXA 양치액 1차 지혈 (4편 합성)
 - [[overviews/endodontic-access-cavity-decision-tree]] — 근관 접근와동 결정 트리: 정상 해부→TEC 표준, MIA 근거 불충분, PCO·석회화→유도 근관치료(정적/동적), 술중 CBCT 백업 (4편 합성)
+- [[overviews/reis-2024-biomimetic-restorative-myths-narrative]] — 비판적 narrative review(J Appl Oral Sci 2024, Reis/Loguercio): BRD(Biomimetic Restorative Dentistry) 9개 프로토콜 검증 — deep margin elevation만 임상 근거 있음, 나머지(caries dye·posterior bevel·CHX MMP 억제·IDS·decoupling·fiber inserts 등) RCT/SR 수준 우월 근거 부족
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
@@ -558,3 +596,5 @@ Format: `category/stem` — one-line description
 - [[caries/ekstrand-2018-icdas-coronal-caries-sr-ma]] — SR (Caries Res 2018): ICDAS 재현성 κ>0.65; D3 이상 SROC AUC 0.90; D1 병소 탐지 가장 어렵고 임상적 적용 가변성 큼
 - [[caries/malcangi-2023-enamel-remineralization-techniques-sr]] — SR (Bioengineering 2023): 에나멜 재광화 기법 — CPP-ACP·불소·레진침투 비교; RI가 초기 병소 표면하 광화 회복 최고; fluoride varnish 단독 예방 효과
 - [[caries/ancira-gonzalez-2018-white-spot-remineralisation-primary-sr]] — SR (Oral Health Prev Dent 2018): 유치 WSL 재광화 — 불소(바니시·젤) 중등도 효과; CPP-ACP 보조 근거 제한적; 식이 상담 병행 필수
+- [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — SR+MA(Dent Mater 2023, 64 RCT/8,310 GIC vs 5,857 amalgam/composite): GIC 이차우식 예방 — 아말감 대비 유의 우세(영구치 RR 0.20·유치 RR 0.55), 레진 컴포지트와는 동등; cGIC=RMGIC
+- [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — SR+NMA(J Dent 2024, 9 RCT/1,263 lesion): 치근우식 수복 — 24개월 2-3ER/CC 또는 RMGIC가 GIC 대비 경향 우세(OR 2.05–2.65) but NS, CINeMA 신뢰도 낮음; 근거기반 우선순위 결정 불가

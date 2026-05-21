@@ -10,3 +10,23 @@
 [2026-05-16 01:23:12] === llm-wiki ingest watcher started ===
 [2026-05-16 01:23:13] Watching: /Users/oracleneo/llm-wiki
 [2026-05-16 01:23:13] Watching: /Users/oracleneo/llm-wiki
+[2026-05-20 10:14:33] New PDF detected: 2026 0412 부산 VPT.pdf
+[2026-05-20 10:14:33] New PDF detected: 2026 0412 부산 VPT.pdf
+[2026-05-20 10:14:34] Starting ingest for: 2026 0412 부산 VPT.pdf
+[2026-05-20 10:14:34] Starting ingest for: 2026 0412 부산 VPT.pdf
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CbCwBmwKKD5vttVe5WC9Y"}
+[2026-05-20 10:14:42] Ingest failed (exit 1): 2026 0412 부산 VPT.pdf
+[2026-05-20 10:14:42] Ingest failed (exit 1): 2026 0412 부산 VPT.pdf
+[2026-05-20 11:01:28] New PDF detected: 구강스캐너_5종비교_ElitePoham.pdf
+[2026-05-20 11:01:28] New PDF detected: 구강스캐너_5종비교_ElitePoham.pdf
+[2026-05-20 11:01:29] Starting ingest for: 구강스캐너_5종비교_ElitePoham.pdf
+[2026-05-20 11:01:29] Starting ingest for: 구강스캐너_5종비교_ElitePoham.pdf
+[2026-05-21 14:07:39] === llm-wiki ingest watcher started ===
+[2026-05-21 14:07:39] === llm-wiki ingest watcher started ===
+[2026-05-21 14:07:39] Watching: /Users/oracleneo/llm-wiki
+[2026-05-21 14:07:39] Watching: /Users/oracleneo/llm-wiki
+[2026-05-21 16:12:57] New PDF detected: journal.pone.0319492.pdf
+[2026-05-21 16:12:57] New PDF detected: journal.pone.0319492.pdf
+[2026-05-21 16:12:58] Starting ingest for: journal.pone.0319492.pdf
+[2026-05-21 16:12:58] Starting ingest for: journal.pone.0319492.pdf
