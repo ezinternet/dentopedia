@@ -9,6 +9,7 @@ on:
       - "index.md"
       - "scripts/lint.py"
       - "scripts/orphan-check.py"
+      - "scripts/find-no-wiki.py"
   pull_request:
     paths:
       - "wiki/**/*.md"
