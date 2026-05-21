@@ -9,6 +9,14 @@ Rules:
   - Orphan PDFs (no source) should be deleted
   - Orphan sources (no PDF) are a warning — PDF may have been lost
 
+CI behaviour:
+  papers/*.pdf is gitignored, so a CI checkout has 0 PDFs while sources/
+  has all .md files. The 1:1 check is therefore impossible in CI and
+  used to fail every Wiki Lint run. When $CI is set we short-circuit
+  with an informational message and exit 0. The local invariant still
+  matters — run `python3 scripts/orphan-check.py` on the host before
+  pushing.
+
 Usage:
     python3 scripts/orphan-check.py
 """
@@ -31,6 +39,16 @@ def main():
         for f in os.listdir(SOURCES_DIR)
         if f.endswith(".md")
     }
+
+    # CI short-circuit: PDFs are gitignored, so papers/ is empty in CI
+    # checkouts. Refuse to flag every source file as orphaned in that case.
+    if os.getenv("CI") and not pdfs:
+        print(
+            f"ℹ️   CI environment detected — papers/ is empty (gitignored). "
+            f"Skipping 1:1 check. ({len(srcs)} sources present.) "
+            f"Run locally to verify papers↔sources match."
+        )
+        return
 
     orphan_pdfs = sorted(pdfs - srcs)   # PDF exists, no source → delete
     orphan_srcs = sorted(srcs - pdfs)   # Source exists, no PDF → warn
