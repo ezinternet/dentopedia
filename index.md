@@ -45,6 +45,16 @@ Format: `category/stem` — one-line description
 - [[implants/gehrke-2024-implant-dentistry-review-2024]] — 현대 임플란트 치의학 서술적 고찰 — 표면 처리(SLA·SLActive·UV), 지르코니아 임플란트, 디지털 가이드 수술.
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — CBCT 후향 분석 (349개 무치악 부위, 250명): 상악 구치부 절반 이상이 폭 < 6 mm·높이 < 8 mm이며 54.14%가 경사진 상악동 저부 → 표준 임플란트 식립 전 증대술이 빈번 필요
 - [[implants/zhang-2024-short-vs-long-implants-sinus]] — Network meta-analysis (17 studies, 1,076 patients, 1,751 implants): SFE에서 short implant(4–8 mm) vs long(≥8 mm) 생존율 동등·MBL 단축형이 유의하게 적음.
+- [[implants/bonsmann-2025-risk-factors-early-implant-failure-sinus-nested]] — JCP 2025 다기관 nested case-control (8 독일 센터, 2016-2021, n=129 case + 273 control): sinus augmentation 후 조기 임플란트 실패 (≤12 month) — multivariable logistic regression으로 위험인자 OR 산출.
+- [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]] — SR (Salerno, Dent J 2022): 흡연 중단의 치주·peri-implant 건강 효과 — cessation은 치주 임상 지표·임플란트 결과 모두 개선; 회복 정도와 시간경과 의존.
+- [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]] — JCP 2023 EFP/AAP Workshop SR+MA (Univ Paris, Carra): peri-implant 질환 — primordial (식립 전 위험인자 통제) + primary (식립 후 health 유지) 예방 효과; 흡연 중단·치주염 사전 관리·구강위생 강화가 peri-implant mucositis·peri-implantitis 예방 효과 입증.
+- [[implants/fan-2024-smoking-early-implant-failure-sr-ma]] — SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
+- [[implants/mustapha-2022-smoking-dental-implants-sr-ma]] — SR+MA (Malmö Univ, Medicina 2022): 흡연 + 임플란트 — 실패율과 MBL 모두 흡연자에서 유의하게 높음; 흡연이 implant 결과에 부정적 영향 확정.
+- [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
+- [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
+- [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
+- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
+- [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] — in-vitro · 탄화수소(C/Ti) 농도 의존적 골아세포 억제 — BIC 정체 직접 원인 최초 실증 (J Dent Res 2014)
@@ -58,6 +68,21 @@ Format: `category/stem` — one-line description
 - [[implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography]] — 서술적 고찰: 골유착 3D 이론 — 재료(D1)·표면형상(D2)·시간/노화(D3); UV 광기능화로 D3 완전 역전; D2 차세대 개선 과제
 - [[implants/surface/smeets-2016-implant-surface-modifications-osseointegration]] — 서술적 고찰(BioMed Res Int 2016): SLA·SLActive·DCD·레이저·단백질·성장인자 코팅 등 표면처리 종합; 취약 골 환자 전략
 - [[implants/surface/abu-alfaraj-2023-osseointegration-strategies-implantology-review]] — 다학제 서술고찰(Cureus 2023): 설계·표면·PRF·BMP-2·디지털 워크플로우 포함 골유착 최적화 전략
+- [[implants/surface/abu-alfaraj-2023-osseointegration-strategies-implantology-review]] — 다학제 서술적 고찰(Cureus 2023): 골유착 최적화 전략 — 임플란트 설계·표면처리(SLA/나노)·전신인자·생물학적 보조제(PRF·BMP-2)·디지털 워크플로우 종합.
+- [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — 최소침습 vs 표준 임플란트 생체적합성 동등; 공간 제한 해부학 부위에서 최소침습 임플란트 고려 가능  # Biological Behavior of Minimally Invasive vs. Standard Implants (In Vitro Study)  **Source**: [[implants/surface/attik-2022-comparison-of-biological-behavior-and]]   **Year**: 2022 | **Study Type**: In Vitro Cell Culture | **Comparison**: MagiCore® vs. NobelParallel™
+- [[implants/surface/dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm]] — 인비트로(Biomaterials 2015): UV 광기능화 (Photofunctionalization) Ti → 초친수성 표면 → 구강 다균종 세균 부착 및 생물막 (Biofilm) 형성 유의 감소; 살균 효과 없음; 액체 보관 후에도 항균 부착 기능 유지.
+- [[implants/surface/hasegawa-2020-meso-micro-nano-rough-titanium-surface]] — 인비보+인비트로(Int J Mol Sci 2020): H2SO4 140°C 산부식으로 메조+마이크로+나노 계층형 거칠기 표면 제작 — 골아세포 (osteoblast) 분화 유의 향상, 부착 손상 없음, 골유착 (osseointegration) 강도 마이크로 단독 대비 최대 향상.
+- [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] — 인비트로(J Dent Res 2014): 탄소/티타늄 (C/Ti) 비율이 높을수록 골아세포 (Osteoblast) 부착·증식·분화 농도 의존적 감소; C/Ti=1.0에서 알칼리인산분해효소 (ALP)·칼슘 무기화 >40% 감소 — 탄화수소 오염이 골-임플란트 접촉률 (BIC) 정체의 직접 원인임을 최초 실증.
+- [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] — 전향적 임상연구(JCM 2020, n=70 임플란트, 7년): UV 광기능화 (Photofunctionalization) 15분 전처리 — 일반·복잡증례 100% 성공; 암절제 증례 22.2%; 복잡증례 임플란트 안정성 지수 (ISQ) +21.9 상승; 골질·부위·암절제가 실패 독립 예측인자.
+- [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] — 인비트로(IJN 2011): TiO2 나노결절(300 nm) + 마이크로피트 하이브리드 표면 → UV 광기능화 (Photofunctionalization) 후 7일까지 생체활성 유지 (마이크로 단독 대비 30–50% 감소 방지); 기전은 친수성이 아닌 양전하 (Electropositivity) 지속.
+- [[implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading]] — RCT(30명, 상악 41개): 친수성 테이퍼 임플란트 6주 부하 vs 12주 부하 — 성공률 97.56%, MBL 동등; 6주 군에서 골질만 안정성 상관; 골질 주의 시 6주 부하 가능
+- [[implants/surface/kim-2020-sa-implant-acid-etched-alumina-long-term]] — 후향적 연구(96개 Osstem SA 임플란트, 45명, 8년 이상): 생존율 94.8%; 합병증 발생 및 보철 완료 1년 내 MBL >1mm 모두 유의한 실패 예측인자
+- [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — 후향적 연구(258개 Osstem CA 임플란트, 120명, 평균 62개월): 생존율 97.3%, 성공률 94.2%, 평균 MBL 0.074mm — 초친수성 칼슘 처리 표면의 우수한 장기 예후
+- [[implants/surface/minamikawa-2016-long-term-degradation-titanium-biological]] — 인비트로(Materials 2016): 티타늄 생물학적 노화 (Biological aging)는 4주가 아닌 6개월까지 지속; 세포 부착·증식·분화 지속 감소; 친수성보다 탄화수소 (Hydrocarbon) 오염이 주된 노화 구동자.
+- [[implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography]] — 서술적 고찰: 골유착 3차원 이론 — 재료(D1)·표면형상(D2)·시간/노화(D3)의 상호의존성; UV 광기능화로 티타늄 생물학적 노화 완전 역전.
+- [[implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue]] — 서술적 고찰(J Prosthodont Res 2025): UV 광기능화 (Photofunctionalization) — 골유착·연조직·세균 3개 계면 종합 리뷰; VUV(1분) 차세대 방법 소개; 탄화수소 제거 → 초친수성 → 세포·조직 반응 개선.
+- [[implants/surface/smeets-2016-implant-surface-modifications-osseointegration]] — 서술적 고찰: SLA·SLActive·DCD·레이저·단백질·성장인자 코팅 등 임플란트 표면처리 종합 리뷰; 정상 및 전신 취약 골에서의 골유착 최적화 전략.
+- [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] — 동물실험(쥐, IJN 2012): 나노다형성 결정질 수산화인회석 (Hydroxyapatite, HA) 코팅(Ca/P=1.66, 55% 결정화도) → 골-임플란트 접촉률 (BIC) 및 강도 조기·후기 모두 향상, 연조직 침투 감소; 효과는 임플란트 표면 50 µm 이내로 한정.
 
 ## 임플란트 — ISQ·안정성 (Implant Stability / ISQ)
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ resonance frequency analysis thresholds: ISQ < 60 requires delayed loading; ISQ 60–70 allows early loading with monitoring; ISQ > 70 permits immediate/early loading
@@ -82,6 +107,28 @@ Format: `category/stem` — one-line description
 - [[implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison]] — Prospective (50 pts, 80 implants): Osstell ISQ ≡ Osseo 100 (r>0.95); ISQ increases gradually; D1-D2 >> D3-D4 at all timepoints
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): Osstell ISQ vs Periotest 직접 비교; 상관 -0.64; ICC ISQ 0.99 vs Periotest 0.88 — Osstell이 더 정밀; 직경 유의, 길이 무관
 - [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 공학·인비트로 2-DOF 모델+FEA: 5–15 kHz 입력 → 공진주파수·미세변위 추출; 전자기 RFA의 이론적 기반 검증
+- [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR (Cureus 2023, PubMed/Scopus/EMBASE/Cochrane, 검색 Jan 2013–Dec 2022): 다수 연구에서 골밀도화(OD) 드릴링이 기존 방식 대비 ISQ·골밀도 유의하게 높음; 단, 포함 RCT들의 비뚤림위험(RoB 2) 전반적으로 높아 강한 결론 주의 요망.
+- [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — 후향적 다변량 분석(745 Neoss 임플란트, 5년 CSR 97.3%): 식립 시 ISQ<70이 통계적으로 유의한 실패 예측인자; ISQ<75도 유의한 위험 임계치
+- [[implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year]] — 전향적 연구(48 Neoss ProActive 테이퍼 임플란트): IT>40Ncm 96%에서 달성; 6–8주 조기 부하; ISQ 안정적 유지(dip 없음); MBL −0.47mm; 0 실패
+- [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — 후향적 연구(41 임플란트): 신선 발치와 초기 ISQ 57.6 vs 치유골 72.9(p<0.001); 4개월에 수렴; 발치와 즉시 부하 결정은 ITV(≥35Ncm) 우선, ISQ 단독 기준 불충분
+- [[implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison]] — 전향적 연구(50명, 80 임플란트): Osstell ISQ vs Osseo 100 기기 동등(r>0.95); ISQ 시간에 따라 점진 상승; D1-D2 군이 D3-D4보다 모든 시점에서 유의하게 높은 ISQ
+- [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 공학·인비트로 수학적 모델(2 자유도+FEA): 5–15 kHz 입력 주파수 범위에서 임플란트 공진주파수 및 미세변위를 MATLAB·FFT로 추출 — 전자기 공진주파수분석(RFA)의 원리·정확도를 이론적으로 검증; ISQ의 공학적 기반 제공.
+- [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] — 전향적 임상시험(n=36, D3/D4, 60개 임플란트): 생체활성 나노표면 = ISQ 안정 유지(딥 없음) vs 전통표면 ISQ 30·45일 유의하게 감소; 생체활성군 조기 부하 가능성 증가.
+- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — 전향적 연구(19 Conelog 임플란트, CBCT 상관): 치조정 피질골 두께가 가장 강한 ISQ 예측인자(p<0.001); 협설측 3mm 피질골 유의; 심부 6–9mm 비유의 — ISQ는 변연부 골의 지표
+- [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] — 횡단면 연구(85 임플란트, 23명): Osstell ISQ ICC=0.97(탁월); 단회 측정으로 충분; SmartPeg I·II 동등; 평균 ISQ 72.4
+- [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] — 서술적 문헌고찰: 17개 ISQ 영향인자 확인; 임상 예측력 있는 인자 6개; 근거 충분한 인자 2개(국소 골질·거시디자인); ISQ는 단독보다 골 타입과 함께 해석
+- [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] — In vitro PU foam: 수동 스마트팩 조임(2–11 Ncm)과 기계 조임(2–6 Ncm) 간 ISQ 차이 없음(p=0.343/0.890); 임상에서 수동 조임 신뢰 가능
+- [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — RCT (n=100, 5개 골형성 프로토콜, 3개월 추적): 중속 드릴링(300rpm)이 T4 최고 ISQ; 고속(800rpm)이 고밀도골에서 최고 삽입토크; 골밀도화(OD)는 중간 치유기 일시적 ISQ 상승(유지 안됨); 골농축(bone condensation)은 ISQ 점진적 하락 (CIDRE 2026).
+- [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] — SR (12편, PRISMA): 삽입토크와 ISQ 간 유의한 상관관계 없음(r=0.366, p=0.079); 두 측정법은 독립적·비교 불가 — 임상 결정 시 한 가지 방법만 사용할 것 권고; 근거 확실도 낮음 (CIDRE 2018).
+- [[implants/isq/lee-2011-isq-loading-protocol-prediction]] — 전향적 연구(5개월, 아산의료원): ISQ와 삽입토크·골밀도 상관관계 확인; 식립 시 ISQ≥65 → 조기/즉시부하 예측 가능.
+- [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]] — 분구강 in vivo 연구(30쌍): 테이퍼 임플란트가 모든 시점에서 원통형보다 유의하게 높은 ISQ; 통증 VAS 및 치주 지표도 테이퍼 우세; 두 군 생존율 100%
+- [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ 임계값 실용 가이드: <60 지연부하, 60–70 조기부하+모니터링, >70 즉시/조기부하 가능  # Comparison of Initial Implant Stability Across Systems (RFA Analysis)  **Source**: [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]   **Year**: 2008 | **Method**: Resonance Frequency Analysis (RFA) | **Key Measure**: ISQ Values
+- [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — RFA 원리 리뷰: ISQ 결정 3인자(골질·BIC·유효노출길이); stability dip 원리; ISQ<60 지연, >70 즉시부하 기준
+- [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — 증례보고: UV 광기능화(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1–4주 조기부하 성공
+- [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]] — 후향적 연구(n=200 NobelReplace Tapered, UCLA): 구강 내 위치(하악>상악)가 ISQ의 가장 유의한 결정 인자; 임플란트 길이는 임상적으로 유의미한 경향(p=0.08/0.09); 직경·성별·나이는 ISQ에 영향 없음; 생존율 98% (OOOO 2016).
+- [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] — In vitro PU foam(4밀도): 직경>길이로 ISQ 결정; 테이퍼 거시디자인이 모든 밀도에서 평행형보다 우세; 골밀도별 드릴링 프로토콜 적응 필수
+- [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — ISQ–삽입토크 상관관계 SR+MA (48편): 중등도 유의 상관(r=0.44, p<0.001)이나 I²>90% — ISQ는 1차 안정성의 보조 지표로 유효하지만 MBL·생존율의 독립 예측인자로 쓰기엔 근거 불충분 (CIDRE 2026).
+- [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): **Osstell ISQ vs Periotest PTV** 직접 비교 — ISQ 57.66±8.19, PTV -5.08±2.02; 상관 -0.64; ICC Osstell 0.99 vs Periotest 0.88 — **Osstell이 더 정밀**; 임플란트 직경은 두 기법 모두 유의, 길이는 무관.
 
 ## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
@@ -98,6 +145,7 @@ Format: `category/stem` — one-line description
 - [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — SR(J Clin Med 2025, 29편): 5개 bed prep 방법 조직학 비교 — 전통 drilling이 microcracks·thermal injury 최다, %BIC 최저; 적정 parameter 시 동등 가능
 - [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — 인비트로(Bioengineering 2024, IR, **irrigation 없음**): pilot drill >100°C, 70°C 발열이 측방 10mm 확산 — 후속 enlarging drill(~4.2mm) 절제 반경(~2mm) 초과; ※ 정상 임상(irrigation + vital bone 혈류)에선 후속 drilling이 thermal-damaged 영역 대부분 절제 — 적용은 D1 + irrigation 부족 + 마모 drill 3중 조건 한정
 - [[implants/stubinger-2015-piezosurgery-implant-dentistry]] — 서술적 고찰(CCIDE 2015): piezo 임상 overview — 정밀·선택적 cutting, 연조직 보존, IAN lateralization·sinus elevation 적용; "열손상 회피" 주장은 aquilanti·jain SR이 반박
+- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Consensus SR+MA (COIR 2023 Suppl 26, Hamilton, 3,118 screened/68 included, 37.2 implants/study, 2.8y follow-up): 상악 심미부위 single tooth Type 1A (즉시식립+즉시부하) selection criteria — 엄격한 환자·부위 선정 시 high survival; facial gap >2 mm (+3.1 PP, p=0.04), 근관 감염 부재 (+2.6 PP, p=0.004), post-2012 술기 (+1.9 PP, p=0.02) 유의한 우호 인자
 - [[implants/timon-2019-thermal-osteonecrosis-bone-drilling-orthopedic]] — 서술적 고찰(Cureus 2019, 정형외과): thermal osteonecrosis 50°C critical; external irrigation이 단일 가장 중요 mitigation 변수; cross-specialty 검증
 - [[implants/woods-2022-does-irrigating-while-drilling-decrease]] — in vivo dog tibia(Iowa Orthop J 2022, Level II, 5 device): saline irrigation + sharp drill bit가 발열·급성 osteonecrosis 유의 감소; trocar-tip K-wire 최악
 
@@ -106,6 +154,7 @@ Format: `category/stem` — one-line description
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — 후향적(258개 Osstem CA, 62mo): 생존율 97.3%, 성공률 94.2%, MBL 0.074mm — 초친수성 칼슘 표면 장기 우수 예후
 - [[implants/surface/kim-2020-sa-implant-acid-etched-alumina-long-term]] — 후향적(96개 Osstem SA, ≥8yr): 생존율 94.8%; 합병증·MBL>1mm/1yr 모두 유의한 장기 실패 예측인자
 - [[implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading]] — RCT(30명, 상악 41개): 친수성 테이퍼 6주 부하 vs 12주 동등(97.56%, MBL<1mm); 6주군 골질만 안정성 상관
+- [[implants/surface/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants]] — 단일맹검 RCT (n=40, 서울대 SNU): 상악 구치부 즉시식립 시 HA 나노코팅 SLA vs 무코팅 SLA — ISQ·volumetric·PROMs; 디지털 가이드 적용; HA 나노코팅이 osseointegration·implant stability dip 완화 잠재성.
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
 - [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — Dog histology landmark paper: buccal > lingual resorption; Phase 1 bundle bone loss + Phase 2 external surface resorption; immediate implant cannot prevent buccal collapse
@@ -171,6 +220,28 @@ Format: `category/stem` — one-line description
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — 원뿔형 빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향연구 (n=427 부위): 상악 1대구치 61.7%, 2대구치 34%만 직경 ≥5 mm 즉시 대구치 임플란트 (Immediate Molar Implant, IMI) 가능한 치근간 격벽 (Inter-Radicular Septum, IRS) 크기 보유; 평균 함기화후 잔존골 (Furcation...
 - [[immediate-implant/ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal]] — 후향적 케이스 시리즈(상악구치부 즉시식립 22개): 즉시식립 + 동시 경치조골 상악동거상술(BAOSFE) + 조기 부하에서 평균 33.12개월 추적 시 생존율 100%, 성공률 95.45%, 변연골 흡수 평균 −0.054 mm.
 - [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]] — 1년 RCT: 즉시식립 + 경치조골 상악동거상술군이 지연식립군 대비 협측 수평/수직 흡수를 약 0.6 mm 더 보존(P<.0001), 양 군 생존율 100%.
+- [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — Heidelberg Univ RCT (Int J Implant Dent 2026, n=46/48 implants): 즉시 임플란트 open vs closed healing — Pink Esthetic Score (PES) open group이 closed보다 유의하게 우수 (MD -1.49, 95% CI -2.36 to -0.62, p=0.0014). 12개월 결과.
+- [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — Turkey 후향 연구 (BMC Oral Health 2023, Çolak n=69 환자/124 implants): 만성 근첨병변 (chronic periapical pathology) 발치 소켓에 즉시 식립 — 3 그룹 (G1 즉시 식립, G2 즉시+GBR, G3 sinus lift+즉시) 생존율 비교. 만성 근첨병변 즉시 식립의 contributing 임상 근거.
+- [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — Jinan Univ 후향 연구 (FCIMB 2025, n=95/234 implants, 평균 58.6세, 2018 AAP/EFP 분류 사용): 치주염 환자 systematic 치주 치료 없이 즉시 식립 + Bio-Oss/Bio-Gide — 1년 생존율 97.86%; Stage IV·Grade C에서 유의하게 낮은 생존 (Kaplan-Meier).
+- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — EBD 2025 Commentary (Nassani) — Meijer JPeriodontol 2025 10년 RCT (UMCG, n=40, 협측골 결손 ≥5mm 심미부위): immediate + GBR + 지연 provisionalization vs 능선 보존 후 지연 식립 — 10년 결과 양 군 acceptable; "intact buccal wall 필수" dogma 약화.
+- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — SR + Bayesian NMA (21 RCT, BMC Oral Health 2025;25:183): 즉시식립 연조직 이식재 비교 — CTG만 STT 유의 증가; SUCRA: CTG MIBL/KTW/STT/PH/MGML 우위, 단층 이종 콜라겐 매트릭스 PES 우위; 그래프 종류 간 차이 대부분 없음.
+- [[immediate-implant/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] — RCT (n=40, 12개월, Nagpur): 상악 심미부 IIPP jump space에 CGF 강화 골이식재 vs 비사용 — RW/VD-distal/JS/RA/Testori 심미점수 시험군 유의 우위. Dent Med Probl 2025;62(3):449.
+- [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]] — RCT (n=27/30, Cairo): 구치부 즉시식립 + atraumatic flapless + 가이드 수술 6주(G1) vs 3개월(G2) 부하 — 생존 100%·ISQ 차이 없음; 6주 조기부하 가능. Int J Implant Dent 2025;11:39.
+- [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]] — RCT (n=31, Brazil/UPF, Braz Oral Res 2025;39:e084): 즉시식립 시 customized healing abutment (CHA) vs PTFE 차폐막+우골이식 — 유두 변화 대조군 유의하게 더 큼 (CHA가 유두 보존 우수).
+- [[immediate-implant/elgendi-2025-peri-implant-soft-tissue-conditioning]] — RCT (Cairo Univ, BMC Oral Health 2025;25:83): 구치부 즉시식립 CAD-CAM socket sealing abutment (SSA) — 무피판 sealing 어려운 큰 발치와에 anatomical healing abutment; emergence profile·연조직 conditioning 우수.
+- [[immediate-implant/fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma]] — SR+MA (11 RCT, n=701, Medicine 2025;104:e46832, PROSPERO): IIP vs ARP — IIP MBL 유의 더 큰 감소 (non-molar MD −0.36 mm, molar −0.41 mm); PES·failure·HW·만족도 동등; IIP 합병증 더 많음.
+- [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]] — SR+MA (J Prosthodont Res 2022): socket shield technique (SST) — 협측 root membrane 일부 잔존으로 BBW 보존 시도; case-report·RCT 혼재; complication (membrane mobility/infection/exposure/migration, apical resorption) 보고; 장기 high-quality 근거 부족.
+- [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — SR+MA (CRE 2025;11:e70182, Tehran): flapless 즉시식립 peri-implant gap에 골이식 vs 비사용 — RCT only, hard/soft tissue 평가; 골이식 군 hard tissue 보존 경향.
+- [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]] — SR (12 연구, Adv Clin Exp Med 2024;33(9):979): 상악 전치부 IIP+IR 시 facial bone plate 두께/결손이 심미 위험 결정 — thinner facial plate → higher alveolus 흡수·recession; CBCT BBT 측정 필수.
+- [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] — 10년 RCT (n=40, UMCG Groningen, JPER 2025;96:151): 협측 결손 ≥5 mm 심미부 — 즉시식립 vs ARP 후 지연식립 — 10년 MBL/BBT/심미/만족도; '협측 골판 intact 필수' dogma 약화.
+- [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — SR+MA (Cosyn 그룹, JCP 2023;50:755): 단일 IIP flap vs flapless — flapless 군 horizontal buccal change·연조직 보존 약간 우위; clinical/esthetic 차이는 작음.
+- [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] — SR+MA (Medicina 2024;60:893, Lithuania): 발치와 periapical 병변 즉시식립 vs 비감염 즉시식립 — debridement+항생제 동반 시 동등; 만성 근첨병변 IIP 적응증 확장 근거.
+- [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — SR+NMA (Semmelweis, JPD 2024): 상악 전치부 단일 임플란트 type 1–4 × immediate/early/conventional loading 모든 조합 — type 1A는 ITI Hamilton 2023 selection criteria 충족 시 적용; type 2/3 + conventional 일반적 안전.
+- [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — SR+MA (RCT only, IJOMI 2023, jomi.10112): 상악 심미부 IIP 즉시 부하 vs 지연부하 — midfacial mucosa level 보존 약간 우위; PES·MBL·생존율 차이 작음.
+- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — SR+MA (Cosyn 그룹, 5 RCT+3 NRS, n=409, JCP 2021;48:284): IIP+CTG vs IIP — CTG 군 vertical midfacial 연조직 변화 유의 적음 (recession ~0.4-0.7 mm 보존). thin biotype 권장 근거.
+- [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — SR+MA (Cosyn, 15 RCT, n=577/604, CIDRR 2022;24:339): IIP+SG vs IIP — socket grafting 군 horizontal hard tissue loss 유의 감소; BBT 보존; 생존 동등. jump space ≥2 mm 시 골이식 standard.
+- [[immediate-implant/slagter-2021-immediate-single-implant-provisionalization-5year]] — 5년 prospective (Groningen, JCP 2021;48:272): 상악 심미부 단일 IIP + 즉시임시치관 vs 지연임시치관 — 즉시임시 군 BBT·midfacial mucosa 보존 약간 우위; 양 군 생존 높음.
+- [[immediate-implant/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] — SR+MA (JIPS 2022;22:142): 즉시식립 IP 유무에 따른 PES·BoP·PD·plaque·papilla recession·midfacial recession; IP 군 PES 약간 우위·midfacial recession 감소 경향. Pitman 2022·Qin 2023과 일관.
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — Meta-analysis (14 RCTs, 901 implants): short implants (≤6mm) equal survival vs. standard+sinus lift; significantly less MBL at ≤1yr (0.11mm) and >1yr (0.23mm); supports short implants as first-line in atrophic posterior maxilla
@@ -205,6 +276,38 @@ Format: `category/stem` — one-line description
 - [[sinus-lift/lateral/malzoni-2021-lprf-schneiderian-membrane-large-perforations]] — 9건 대형 슈나이더리안 막 천공 사례에서 L-PRF 막 + Bio-Oss + 콜라겐 막 조합으로 봉합 → 8개월 후 임플란트 13개 식립, 3–5년 추적 전부 골유착·감염 없음
 - [[sinus-lift/lateral/turker-2026-maxillary-sinus-septa-perforation-risk]] — CBCT 후향 분석 (300명): 상악동 격벽 91.7% 내외측, 40.0%가 소구치 영역; 변형 7급 위험 분류상 1급 33.0%·3급 32.7% 가장 흔하며, 격벽 위치가 위험과 유의 연관 (p<0.001)
 - [[sinus-lift/lateral/zenobio-2019-blood-clot-stability-sinus-immediate]] — Human pilot(n=10): LSFE+즉시 식립 graftless — 6개월간 혈병 부피 16.52±8.60% 수축, 골 높이 35–43% 수축; 무이식 신생골 형성 확인.
+- [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] — In vitro (160 bovine rib, 4종 RBH × 4 macro-design): ISQ ∝ RBH↑; RBH 6–9mm에서 Tapered Effect 디자인 ISQ 유의하게 최고(p<0.01)
+- [[sinus-lift/lateral/altayar-2023-cbct-maxillary-sinus-septa-yemeni]] — 예멘 인구 440명 880개 상악동의 콘빔CT (Cone-Beam CT, CBCT) 단면 연구. 환자 63.9%, 상악동 47%에서 격벽 (Septa)이 존재하며 평균 높이 5.2 mm, 대부분 바닥에서 기시 (54.5%)·중간부 (43%)·관상방향 (66%)·완전형 (58.2%)으로, 측방 상악동거상술 전 CBCT 평가의 필요성을 뒷받침.
+- [[sinus-lift/lateral/ananda-2015-anatomical-considerations-first-maxillary-molar]] — 횡단연구 (Cross-sectional, n=60 East Asian CBCT): 상악 제1대구치 발치와 (Extraction Socket)의 평균 골 높이 약 7 mm, 95%에서 상악동저가 제1대구치보다 전방으로 확장, 약 50%에서 치근첨이 상악동저로 돌출 — 7 mm 이상 임플란트는 추가 술식 (상악동거상술 (Sinus Lift, SL), 골밀도화 (Osseodensification, OD)) 없이 식립 시 상악동 천공 (Sinus Perforation) 위험.
+- [[sinus-lift/lateral/aricioglu-2017-prf-sinus-membrane-perforation-animal]] — 가토 동물실험 (n=42, 84 부비동): 슈나이더 막 (Schneiderian membrane) 천공 시 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF) 막과 콜라겐막 (Collagen Membrane, CM) 조직학적 치유 결과 동등 — PRF가 CM의 대안 가능.
+- [[sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach]] — SR (49 RCTs, 1,722 MSFA): DBBM·자가골·합성 HA/β-TCP 단기 생존 동등(84.6–100%); 장기 안정성 데이터 부족
+- [[sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] — SR+MA: 천공률 30.6%; 봉합 후 생존율 97.68% vs 무손상 98.88% — 유의차 없음; 적절히 봉합하면 천공이 위험인자 아님
+- [[sinus-lift/lateral/estrin-2025-extended-prf-lateral-window-sinus]] — 다기관 케이스 시리즈(22 명/22 측방창 거상술/31 임플란트)에서 확장형 혈소판 풍부 피브린(extended Platelet-Rich Fibrin, e-PRF) 단독 차폐막을 측방창 위에 사용한 결과 6개월 시 합병증 없이 평균 부비동 높이 12.3 mm, 부비동 내 골 증대량 평균 8.0 mm 달성.
+- [[sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift]] — 전향연구 (92명, 170 Astra Tech): 상악동거상(β-TCP/HA+β-TCP) 후 4mo ISQ = 비증대 자연골과 동등(p=0.789); 이식재 종류 무관
+- [[sinus-lift/lateral/koleilat-2023-prf-collagen-sinus-membrane-repair]] — 증례 보고 (70세 남성, 비복원성 상악 대구치, 측방창 (Lateral Window) 접근, 우연히 발견된 상악동 가성낭종 (Antral Pseudocyst)): 가성낭종 제거 중 발생한 슈나이더 막 (Schneiderian Membrane) 천공을 혈소판 풍부 피브린 (Platelet-Rich Fibrin, PRF) + 흡수성 콜라겐 막 조합으로 봉합하여 재진입 시 두꺼워진 섬유성 막이 유지되었고, 상악동 거상술 (Sinus Lift) 및 임플란트 식립 성공.
+- [[sinus-lift/lateral/lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation]] — 한국인 20대 60명 (남30/여30) 원뿔형 빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 3차원 분석: 비강저 (Nasal Cavity Floor, NCF) 기준 상악동 하부 부피·높이·폭 모두 남성이 유의하게 크며, 협골 폭 (Bizygomatic Breadth)과 상관 — 임플란트 수술 전 해부학적 평가 시 성차 고려 필요.
+- [[sinus-lift/lateral/lim-2026-reentry-sinus-elevation-membrane-perforation]] — animal(JPIS 2026;56:161-171, 토끼 n=6): 완전 상악동막 천공(≥10mm) 후 8주 뒤 재시도 거상 — 신생골 면적 유의하게 감소(5.8 vs 10.5 mm², P<0.05); 대천공 후 재거상 시 골형성 손상.
+- [[sinus-lift/lateral/malzoni-2021-lprf-schneiderian-membrane-large-perforations]] — 9건의 대형 슈나이더리안 막 (Schneiderian Membrane, SM) 천공 사례에서 백혈구·혈소판풍부피브린 (Leukocyte- and Platelet-Rich Fibrin, L-PRF) 막 + 탈단백우골미네랄 (Deproteinized Bovine Bone Mineral, DBBM, Bio-Oss) + 콜라겐 막 조합으로 봉합 → 8개월 후 임플란트 13개 식립, 3–5년 추적에서 전부 골유착·감염 없음.
+- [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] — 후향적 환자-대조 (Retrospective case-control, n=39 CBCT): 측방 접근 (Lateral Window) 상악동 거상술 (Maxillary Sinus Augmentation, MSA) 시 슈나이더 막 (Schneiderian Membrane, SM) 천공의 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT) 예측 인자 — 얇은 상악동저, 잔류 가성낭종 (Retention Pseudocyst), 격벽 (Septae), 오목한 sinus floor, 삼각형 sinus shape; 통계적 유의성은 **MS floor width** 만 도달 (p<0.05).
+- [[sinus-lift/lateral/monje-2016-sinus-membrane-perforation-reamer-drilling]] — 이중센터 후향 케이스시리즈: 리머 드릴 (Reamer Drill) 기반 측방 접근 (Lateral Window Approach, LWA) 슈나이더 막 (Schneiderian membrane) 천공률 12.5% — 측벽 두께 ≥1.25 mm일 때 안전하고 효과적인 대체 술식.
+- [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]] — 무치악 상악 구치부 35명 (40 상악동) 콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석: 상악동점막두께 (Sinus Mucosal Thickness, SMT) 평균 1.09 ± 1.30 mm, 천공 위험 임계치인 2 mm 초과가 25%·0.8 mm 미만이 50%였으며 성별, 발치 후 경과 시간, 발치 사유, 상악동 격벽 (sinus septa), 비중격 편위 (nasal septum deviation)가 유의한 영향 인자였다.
+- [[sinus-lift/lateral/park-2023-bone-height-change-sinus-elevation]] — 후향적 종단 코호트 (Retrospective longitudinal, n=103 Korean patients, 3-year follow-up): 측방 접근 (Lateral Window) 12.00 mm vs 치조정 접근 (Crestal Approach, Summers) 8.07 mm 의 graft height gain — 그러나 3년간 흡수 (Resorption) 는 거의 동일 (0.95 vs 0.98 mm), 대부분 1년차에 발생. 잔존 골 높이 (Residual Bone Height, RBH) 에 따른 술식 선택이 장기 안정성에는 차이를 주지 않는다.
+- [[sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review]] — narrative-review(JPIS 2025;55:425-435): 상악동 저형성(MSH) 3가지 임상 변형(만성 무기폐·하비도 함기화·사골상악동) — 각 변형이 상악동거상술 계획에 미치는 영향; CBCT 3D 진단 필수.
+- [[sinus-lift/lateral/pinto-2018-leukocyte-platelet-rich-fibrin-sinus-membrane]] — 측방창 (Lateral window) 상악동거상술 중 발생한 대형 슈나이더리안 막 (Schneiderian membrane) 천공을 백혈구 혈소판풍부피브린 (Leukocyte Platelet-Rich Fibrin, L-PRF)과 콜라겐 막으로 봉합하고, 8개월 후 외육각형 (External hexagon) 임플란트 2개를 식립한 케이스 리포트.
+- [[sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus]] — 분할구강 전향 (10명, 60임플란트): ISQ 실측 — T0(식립)=63.8 → T2(3mo)=73.5 → T3(6mo)=74.65(BBM); 결정화도↑→ 초기 안정성 빠른 증가
+- [[sinus-lift/lateral/scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation]] — 내러티브 리뷰: 전신상태(흡연·당뇨·항흡수제)·디지털 가이드·피에조 vs 회전기·수술후 관리 — 측방창 상악동거상 최신 현황
+- [[sinus-lift/lateral/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss]] — 후향적 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT) 체적 분석 (유치악 50명 vs 무치악 50명 후방 상악): 상악동 부피·표면·최대 직경에서 유의차 없음 → 발치 후 후방 상악의 수직 골량 감소는 상악동 함기화 (Pneumatisation)가 아닌 치조정 흡수 (Alveolar Crest Resorption)에 기인함을 시사. 남성이 여성보다 상악동이 유의하게 큼.
+- [[sinus-lift/lateral/soares-2024-sinus-membrane-perforation-repair-review]] — 체계적 문헌고찰·메타분석 (Systematic Review + Meta-Analysis, SR+MA, 130개 연구 / 1,972 부비동): 슈나이더 막 천공 (Sinus Membrane Perforation, SMP) 적절 수복 시 임플란트 소실률 4% (95% 신뢰구간 2–8%) — 무손상 대비 차이 없음; 천공 크기와 임플란트 소실 간 관련성 없음 (P=0.86).
+- [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — 리뷰: LSA(<5mm), VSA/osteotome(5–8mm), 단임플란트(≥5mm); 모두 높은 생존율; 잔존골높이가 술식 선택 기준
+- [[sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window]] — SR+MA (6 RCTs): 측창 차폐막 사용 vs 미사용 — 생존율·골형성·합병증 모두 유의차 없음; 루틴 사용 근거 부족
+- [[sinus-lift/lateral/tian-2026-large-sinus-membrane-perforations-collagen]] — 대형 (>10 mm) 슈나이더리안 막 (Schneiderian membrane) 천공 시 콜라겐 막을 상악동 내측·외측벽에 택 (tack)으로 고정해 동시 골이식을 가능하게 하는 측방창 (Lateral window) 술기 노트.
+- [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — MA (14 RCTs, 901임플란트): 단임플란트(≤6mm) = 표준+상악동거상 생존 동등; MBL ≤1년 0.11mm, >1년 0.23mm 더 적음
+- [[sinus-lift/lateral/turker-2026-maxillary-sinus-septa-perforation-risk]] — 콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 후향 분석 (300명): 상악동 격벽은 91.7%가 내외측 (mediolateral) 방향이고 40.0%가 소구치 영역에 위치, 변형 7급 방사선학적 위험 분류 상 슈나이더리안 막 (Schneiderian Membrane, SM) 천공 위험 1급 33.0%·3급 32.7%가 가장 흔함. 격벽 위치는 위험과 유의한 연관 (p < 0.001), 잔존 치아 수 및 격벽 방향은 무관.
+- [[sinus-lift/lateral/wen-2023-lateral-sinus-floor-defects-retrospective]] — 후향적 cohort (Retrospective, n=35 patients/36 sinuses, 1–9년 추적): 기존 상악동저 결손 (Sinus Floor Defect) 환자에서 측방 상악동 거상술 (Lateral Sinus Floor Elevation, LSFE) + 흡수성 콜라겐막 (Resorbable Collagen Membrane) 으로 결손 봉합 후 골이식 — 1차 완성률 97.2%, 슈나이더 막 (Schneiderian Membrane, SM) 천공 27.8%, 임플란트 누적 생존율 (Cumulative Survival Rate, CSR) 1/3/5/7년 96.5%, 8년 64.3%. 결손이 있어도 적절히 관...
+- [[sinus-lift/lateral/xin-2020-advanced-platelet-rich-fibrin-schneiderian]] — 동물 실험 (Animal Study, n=24, 1:1 무작위) — 상악동거상술 시 슈나이더 막 (Schneiderian Membrane, SM) 인위적 천공 후 진보된 혈소판 풍부 피브린 (Advanced Platelet-Rich Fibrin, A-PRF)이 흡수성 콜라겐 막 (Collagen Membrane, CM)보다 1주 시 막을 완전히 재형성하고, 1주·4주 모두 신생 골양조직 (Osteoid)이 유의하게 더 많이 형성되었다 (p<0.0001).
+- [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] — SR+MA: 상악동 격벽 존재 → 천공 OR >2배; 측벽 두께 >2mm → 천공 위험 증가; 수술 전 CBCT 평가 필수
+- [[sinus-lift/lateral/yue-2022-sinus-floor-elevation-before-extraction]] — 3년 추적 케이스 리포트: 치주적 예후 불량 상악 #16에 발치 전 변형 측방 상악동거상술(Modified Sinus Floor Elevation, MSFE)을 시행해 잔존골 1–2 mm를 12–14 mm로 증대시킨 뒤 13개월 후 발치 + 즉시식립; 조직학적으로 신생골 우세, 3년 부하 후 골흡수 2 mm 미만, 치주염성 임플란트(peri-implantitis) 없음.
+- [[sinus-lift/lateral/zenobio-2019-blood-clot-stability-sinus-immediate]] — 인간 임상 파일럿 (n=10): 측방창 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립으로 무이식재 (graftless) 신생골 형성 확인. 6개월간 혈병 (Blood Clot) 부피 평균 16.52% ± 8.60% 수축, 골 높이 35–43% 수축.
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — SR (36 studies, 2732 MSFA): VSA (≥5mm) vs LSA (<5mm); stopper bur/balloon/hydraulic/endoscope/microscope techniques; all achieve sufficient augmentation with reduced morbidity
@@ -222,6 +325,21 @@ Format: `category/stem` — one-line description
 - [[sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation]] — 증례 시리즈 (Case Series, n=10) — 상악 발치와의 치근단 병소 잔존 골 5 mm 이상에서, 발치와를 통한 경치조 상악동거상술·골이식 없이 골절·천공으로 슈나이더 막을 거상하고 임플란트 첨단을 동피질 고정한 새로운 술식을 제시.
 - [[sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant]] — 잔존골 3.5 mm 케이스: PRF + 내시경 + 즉시식립 + 거상술(PESS)로 12 mm 거상, ISQ 3개월 67.4 → 6개월 71.0, 치료 기간 12개월 → 3개월 단축.
 - [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]] — 체계적 문헌고찰 (19편): 경치조골 상악동거상술 (transcrestal Sinus Floor Elevation, tSFE)에서 회전 동력 기구 + 스톱 장치 + 표준화된 드릴 시퀀스(트레핀 포함)는 임상 효과를 유지하면서 침습성을 유의하게 낮추며, 잔존골 (Residual Bone Height, RBH) 4 mm 이상의 대구치 발치공 격벽이 있으면 즉시식립까지 함께 시행할 수 있다.
+- [[sinus-lift/transcrestal/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation]] — TSFE 25년 scoping review (37논문): 4가지 transcrestal 술식 분류; 5년 이상 방사선적 골소실·실패율·ISQ·합병증 종합
+- [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] — RCT(n=11, 12개 임플란트, RBH 5–8mm, 6개월): Densah OD vs 오스테오톰 경치조골 거상 — OD 1차 안정성 ISQ 유의하게 높음(66.17 vs 54.83); 수술 시간도 단축.
+- [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — RCT (29 tSFE vs 28 lSFE, RBH 3–6mm): 수술 당일 lSFE 통증 낮음; 이후 14일간 tSFE 부종·타박·비출혈 유의하게 적음
+- [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]] — 체계적 문헌고찰 (19편): 경치조골 상악동거상술 (transcrestal Sinus Floor Elevation, tSFE)에서 회전 동력 기구 + 스톱 장치 + 표준화된 드릴 시퀀스(트레핀 포함)는 임상 효과를 유지하면서 침습성을 유의하게 낮추며, 잔존골 (Residual Bone Height, RBH) 4 mm 이상의 대구치 발치공 격벽이 있으면 즉시식립까지 함께 시행할 수 있다.
+- [[sinus-lift/transcrestal/felix-2022-subantral-sinus-augmentation-hydraulic-lift-system]] — 위축된 우측 상악 구치부 (Atrophic Posterior Maxilla)에서 유압식 거상 시스템 (Hydraulic Lift System)과 인산규소염 퍼티 (Phosphosilicate Putty) 골이식, 동시 임플란트 식립을 보고한 경치조 접근 (Transcrestal Approach) 케이스 리포트.
+- [[sinus-lift/transcrestal/gaspar-osseodensification-crestal-sinus-narrative-review]] — 서술적 고찰: 경치조골 상악동 거상에서 골밀도화(OD) 기법 — 기전·임상근거·오스테오톰 대비 장점(높은 1차안정성·낮은 천공위험) 종합.
+- [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] — SR+MA (18연구): TSFE 1년 생존율 — 비이식 97% vs 혈소판농축물 99%, 유의차 없음; 잔존골 충분하면 이식재 선택적
+- [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]] — 증례보고 (RBH 3.5mm): 내시경 무피판 TSFE + PRF + 동시 12mm 임플란트 식립; 식립 ISQ=72.6; 12주에 최종 보철 완료
+- [[sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation]] — 증례 시리즈 (Case Series, n=10) — 상악 발치와의 치근단 병소 (Periapical Radiolucency) 잔존 골 5 mm 이상에서, 발치와를 통한 경치조 상악동거상술 (Trans-socket Transcrestal Sinus Floor Elevation, TSFE)·골이식 없이 골절·천공으로 슈나이더 막 (Schneiderian Membrane, SM)을 거상하고 임플란트 첨단을 동피질 (bicortical) 고정한 새로운 술식을 제시.
+- [[sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant]] — 잔존골 높이(Residual Bone Height, RBH) 3.5 mm 케이스 리포트: 혈소판 풍부 피브린(Platelet-Rich Fibrin, PRF) + 내시경 + 즉시식립 + 상악동거상술(PESS) 조합으로 12 mm 거상, 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 3개월 67.4 → 6개월 71.0로 상승, 치료 기간을 12개월에서 3개월로 단축.
+- [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] — 전향적 연구(n=16, RBH 4–7mm, 경사진 동저): Densah bur 골밀도화 경치조골 거상 — 평균 거상 4.42mm·삽입토크 35.5Ncm·천공 1례·1년 100% 성공.
+- [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — SR (36연구, 2,732 MSFA): 잔존골 ≥5mm = VSA, <5mm = LSA; 스토퍼·풍선·수압·내시경·현미경 — 모든 최소침습기법에서 충분한 골증량
+- [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA (6 RCTs, low GRADE): TSMEOD(osseodensification)가 osteotome·측방창 대비 식립시·지대주 연결시 ISQ 유의하게 높음; 생존율 동등
+- [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — Periodontology 2000 내러티브 리뷰: TSFE 장기 안정성 결정 인자(환자선택·술기·술후 관리) 종합; 표준화 임상·결과보고 체크리스트 제안
+- [[sinus-lift/transcrestal/wu-2023-dynamic-navigation-transcrestal-sinus-floor]] — 후향적 파일럿 연구 (28명, 28개 임플란트, 베이징대학교 구강병원, 후방 상악 경치조골 상악동거상술 (Transcrestal Sinus Floor Elevation, TSFE)): 동적 네비게이션 (Dynamic Computer-Aided Implant Surgery, dCAIS) + 압전 (Piezoelectric) 기구 사용 시 각도 편차 3.66 ± 1.67°, 진입점 수평 편차 1.07 ± 0.69 mm, 첨단 수평 편차 1.09 ± 0.67 mm로, 비-TSFE dCAIS 정확도와 동등하며 술 직후 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT)에서 명백한 슈나이더 막...
 
 ## 근관치료 — 근관장 측정 (Endodontics: EAL / Working Length)
 - [[endodontics/eal/ahn-2016-survey-working-length-determination]] — Korean dental school survey: EAL preferred 89% for working length; apical limit 0.5–1.0 mm short of radiographic apex (78%)
@@ -233,6 +351,15 @@ Format: `category/stem` — one-line description
 - [[endodontics/eal/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] — SR+MA (11 RCTs): pain identical (SMD 0.00); radiograph more accurate WLD (SMD 0.55); EAL 10% better treatment adequacy (RR 1.10); very low certainty evidence
 - [[endodontics/eal/nasiri-2021-apex-locator-generations-accuracy-sr-ma]] — SR+MA (31 studies): 5세대 EAL 정확도 0.5mm 기준 83%; 세대 간 유의차 없음; 근관 상태(건조·출혈·Ca(OH)₂)가 기기 선택보다 정확도에 더 큰 영향
 - [[endodontics/eal/goncalves-2024-canal-taper-apex-locator-influence]] — In vitro (90 canals): 테이퍼 증가 시 EAL 짧게 읽음(over-estimation of WL); .06 taper 이상 1mm 이상 오차 가능; 성형 전 WL 확정 권고
+- [[endodontics/eal/ahn-2016-survey-working-length-determination]] — 설문조사(치과대학): EAL 89%가 근관장 측정 우선; 방사선적 근단 0.5–1.0mm 단에서 근관장 설정(78%)
+- [[endodontics/eal/furlan-2024-apical-foramen-morphology-efl-accuracy]] — In vitro 30개 소구치: 4종 EFL 모두 정상 근첨에서 정확; 발산형(divergent) 근첨공에서 Raypex 6·CanalPro 정확도 저하(p<0.05); RootZX II·EPex Pro는 영향 없음
+- [[endodontics/eal/goncalves-2024-canal-taper-apex-locator-influence]] — 근관 테이퍼가 두 EAL 측정값에 미치는 영향(in vitro): 테이퍼 증가 시 EAL 정확도 저하 경향 — 대테이퍼 성형 시 신뢰도 주의.
+- [[endodontics/eal/kaur-2024-eal-vs-radiograph-working-length-sr-ma]] — SR+MA (11개 RCT): EAL은 방사선보다 근관치료 적합성 10% 향상, 그러나 정확도는 방사선이 우세하며 통증 차이는 없음 — 전반적 근거 수준 매우 낮음.
+- [[endodontics/eal/mousavi-2018-apical-constriction-position-incisor-molar]] — In vitro 90개 치아(이란 인구): AC–AF 거리 전치 0.847mm vs 구치 0.709mm(p=0.035 유의차); 근관치료 종지점은 전치 0.85mm, 구치 0.70mm 단(근첨공 기준)으로 치종별 다르게 적용 권장
+- [[endodontics/eal/nasiri-2021-apex-locator-generations-accuracy-sr-ma]] — EAL 4세대 정확도 SR+MA(15개 연구): 4세대(multi-frequency) 최고 정확도, 세대 진보에 따라 점진적 개선.
+- [[endodontics/eal/pisano-2024-eal-accuracy-modern-endodontics-umbrella]] — 우산 리뷰(SR 7편): EAL과 방사선 근관장 측정은 전반적으로 동등; EAL 3–6세대 간 유의차 없음; 유치에서도 허용 가능(낮은 근거); NaOCl 존재 시 EAL 수치 영향받음
+- [[endodontics/eal/shacham-2020-eal-wide-apical-foramen-ex-vivo]] — Ex vivo 10개 치아(근첨공 0.6–0.8mm): 파일 직경이 근첨공 직경에 근접할수록 EAL 정확도·안정성 모두 향상; SAF도 유효; 광근첨공 시 파일 매칭이 핵심
+- [[endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy]] — In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% 정확도(±0.5mm); 유의차 없음(p=0.61); 임상적 동등
 
 ## 근관치료 — 세정·활성화 (Endodontics: Irrigation)
 - [[endodontics/irrigation/kumar-2023-irrigant-activation-working-length-sr-meta-analysis]] — SR+MA: irrigant WL delivery ranking ANP > PUI > sonic > MDA > CNI; all IATs superior to conventional needle
@@ -247,6 +374,18 @@ Format: `category/stem` — one-line description
 - [[endodontics/irrigation/shalavi-2021-qmix-root-canal-irrigation-overview]] — Narrative overview: QMix composition (2% CHX+EDTA+Brij-35); single-step final rinse; mandatory water flush before use (NaOCl–CHX precipitate)
 - [[endodontics/irrigation/padmakumar-2022-irrigating-solutions-dentin-structure-ftir]] — In vitro FTIR+SEM (n=48): silver citrate least dentin chemical alteration; NaOCl 5.25%+EDTA best smear removal but most microhardness loss
 - [[endodontics/irrigation/do-2020-eryag-laser-pips-endodontic-irrigation-review]] — Literature review (59 studies): Er:YAG LAI/PIPS superior in 33/59 studies; strong bench evidence for smear layer removal; no in vivo studies available; large protocol variability
+- [[endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review]] — 서술적 리뷰(홍콩대): 소닉·초음파(PUI)·ANP(EndoVac)·레이저 등 관개액 활성화 기법 비교; 모든 활성화 기법이 기존 주사기 관개보다 세정력 우수, 레이저는 임상 근거 부족
+- [[endodontics/irrigation/do-2020-eryag-laser-pips-endodontic-irrigation-review]] — 문헌고찰 (59편): Er:YAG 레이저 활성 관개(LAI)/광유도 광음향 스트리밍(PIPS)이 33/59 연구에서 기존 방법보다 우수 — 체내 연구 없음, 표준화 프로토콜 부재.
+- [[endodontics/irrigation/kumar-2023-irrigant-activation-working-length-sr-meta-analysis]] — SR+MA: 관개액 근첨부 도달 효율 비교 — ANP(EndoVac) > PUI > 소닉 > MDA > 일반 주사기; 모든 활성화 기법이 conventional needle보다 유의하게 우수
+- [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — QMix 항균효과 SR(14개 in vitro 연구): 장구균(E. faecalis)에 대해 NaOCl·EDTA·CHX·MTAD·Cetrimide 모두 대비 우수; NaOCl 대비 우위는 접촉 시간 <10분 또는 용량 <3mL 조건에서만.
+- [[endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review]] — 도말층(Smear Layer) 제거 능력 내러티브 리뷰: MTAD > EDTA (속도); QMix ≈ EDTA; 말레산 ≈ EDTA; HEBP 최약; NaOCl 단독은 무기질 성분 제거 불가.
+- [[endodontics/irrigation/orozco-gallego-2025-irrigation-protocols-endodontic-umbrella]] — 우산 리뷰(SR 4편+MA 9편): PUI가 미생물 감소(RD −0.15, p=0.03) 및 근첨 치유(RD −0.09, p=0.01) 모두에서 가장 강한 근거; 관개 프로토콜 간 높은 이질성
+- [[endodontics/irrigation/padmakumar-2022-irrigating-solutions-dentin-structure-ftir]] — 세정제-상아질(Dentin) 화학구조 영향 in vitro(n=48, FTIR+SEM): 질산은·오존올리브오일이 NaOCl 5.25%보다 상아질 화학변성 최소; 질산은(Silver Citrate)은 도말층 제거 SEM 확인; 전 세정제 대조군 대비 미세경도 감소.
+- [[endodontics/irrigation/paixao-2022-sonic-ultrasonic-activation-sr-ma]] — 음파 vs 초음파 활성화 SR+MA(in vitro): 음파는 치근단 도말층(Smear Layer) 제거 우수(SMD −0.48, p=.03), 초음파는 중간·치근단 1/3 push-out 결합강도 우수; 치관부는 유의차 없음.
+- [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — 치근단 치주염(Apical Periodontitis) 임상 SR+MA: 단회 치료(Single-visit Treatment)가 Ca(OH)₂ 다회 방문보다 방사선학적 치유율 유의 우수(RR 1.10, 1.03–1.19); NaOCl 농도 차이·CHX vs NaOCl 간 7일 통증 유의차 없음.
+- [[endodontics/irrigation/shalavi-2021-qmix-root-canal-irrigation-overview]] — QMix 근관세정제(Root Canal Irrigant) 종합 개요: 2% CHX + EDTA + Brij-35 단일 최종 세정(Final Rinse)으로 도말층 제거 + 항균 동시 수행; NaOCl과 직접 혼합 금지(PCA 침전 위험).
+- [[endodontics/irrigation/tonini-2022-irrigating-solutions-activation-methods-sr]] — SR (RCT 7편): 활성화 기법(PUI, XP-endo, EndoVac)이 기존 주사기 관개 대비 유의하게 우수; NaOCl+HEDP/MTAD 병용은 항균력 추가 이점 없음
+- [[endodontics/irrigation/zhou-2021-xpf-pui-medicament-removal-sr-ma]] — 수산화칼슘(Ca(OH)₂) 잔류 세정 SR+MA(in vitro): 수동초음파세정(PUI) > XP-Endo Finisher 전반적 우세(OR 3.09), 단 NaOCl+EDTA 병용 시 유의차 소실(OR 1.51); PUI 우위는 2주 기간 calcium hydroxide에서 유의.
 
 ## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)
 - [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] — C-shaped canal morphology 30–50% prevalence in Asian populations; buccal concavity minimum dentin thickness creates high perforation risk; conservative instrumentation essential
@@ -261,6 +400,18 @@ Format: `category/stem` — one-line description
 - [[endodontics/anatomy/ribeiro-2022-guided-endodontics-static-dynamic-review]] — Literature review (63 studies): static (3D guide) vs dynamic (real-time) guided endodontics; both accurate for PCO; each suited to different clinical scenarios
 - [[endodontics/anatomy/kapetanaki-2021-access-cavity-designs-endodontic-review]] — Literature review: MIA not supported by evidence vs TEC; traditional straight-line access safer; guided endodontics promising for PCO but no cost-benefit data
 - [[endodontics/anatomy/giri-2025-calcified-canal-management-sr]] — SR (34 studies, PeerJ 2025): 석회화 근관 (Pulp Canal Obliteration, PCO) 관리 — CBCT+DOM+초음파 복합 전략 1차; 천공률 8.2%; 유도근관치료 성공률 94%
+- [[endodontics/anatomy/camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar]] — In vivo 84명(CBCT 기준): MB2 유병률 79%; 탐침 민감도 79% → DOM 82% → DOM+초음파 86%; 특이도 모든 단계 100%; CBCT를 gold standard로 사용한 엄격한 타당도 연구
+- [[endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping]] — Scoping review (3,697건 → 10연구): conservative access cavity(ConsAC) → 잔류 debris 증가 경향; traditional/guided access(TradAC) → 근관구 위치 정확도 우위
+- [[endodontics/anatomy/floratos-2017-intraoperative-cbct-calcified-canals]] — 3증례 보고: 임상적으로 찾기 어려운 석회화 근관에 대해 GP point 기준 삽입 후 술중 CBCT 촬영으로 3D 거리 계산 → 정밀 근관 위치 확인 프로토콜 제시
+- [[endodontics/anatomy/giri-2025-calcified-canal-management-sr]] — 석회화 근관 관리 SR(증례 34개, 41명, PeerJ 2025): 비외과적 접근 + CBCT + 현미경 + EDTA가 핵심; 의사결정 알고리즘 제시.
+- [[endodontics/anatomy/hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr]] — SR+MA (29개 이란인 연구): MB2 유병률 상악 제1대구치 60%, 제2대구치 33% — 현미경으로 최고 (78%/61%), 치근단 방사선으로 최저 (15%/4%); I²=97% 매우 높음.
+- [[endodontics/anatomy/jo-2017-fundamentals-and-clinical-applications]] — 16년 경험 임상관점: 해부학적 다양성이 근관치료 난제의 핵심; 술자 기술이 아닌 해부학이 제약요인; 현실적 기대치 설정  # Root Canal Treatment: Fundamental Challenges from Anatomical Variation  **Source**: [[endodontics/anatomy/jo-2017-fundamentals-and-clinical-applications]]   **Year**: 2017 | **Author Perspective**: 16+ years clinical practice, 13+ years specialized training | **Type**: Clinical ...
+- [[endodontics/anatomy/kapetanaki-2021-access-cavity-designs-endodontic-review]] — 문헌고찰: 최소침습 접근와동(MIA)은 근거 불충분 — 전통적 직선 접근와동이 기구 조작·의원성 합병증 예방에 더 안전한 표준.
+- [[endodontics/anatomy/mohammadi-2016-methods-decrease-missed-root-canals]] — 서술적 리뷰: 놓친 근관 감소를 위한 5가지 전략(술전 CBCT, 접근와동 디자인, 초음파, DOM 확대, 투과조명) 종합 정리
+- [[endodontics/anatomy/ribeiro-2022-guided-endodontics-static-dynamic-review]] — 문헌고찰 (63편): 정적·동적 컴퓨터 유도 근관치료 모두 석회화 및 복잡 해부 구조에서 정확한 최소침습 접근 제공 — 임상 상황에 따라 각 방법의 적응증이 다름.
+- [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] — C형 근관 아시아인 30–50% 유병률; 협측 오목부 최소 상아질 두께 → 천공 고위험; 보존적 기구조작 필수  # C-Shaped Canal Anatomy: Morphology and Safety Margins  **Source**: [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]]   **Year**: 2008 | **Study Type**: Anatomical morphological analysis | **Tooth Type**: Mandibular molars
+- [[endodontics/anatomy/sujith-2014-microscope-ultrasonic-mb2-detection-vivo]] — In vivo 60명(상악 제1대구치): MB2 발견율 — 육안 20% → DOM 55% → DOM+초음파 70%; 단계적 프로토콜 통계적 유의(p<0.001)
+- [[endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr]] — SR+MA (14개 CBCT 연구, 35,929치): 한족 상악 제1대구치 MB2 유병률 63.7%, 제2대구치 23.3% — 남성이 유의하게 높은 오즈비 (OR 1.53–1.79), 이분산성 매우 높음.
 
 ## 치주치료 (Periodontics)
 - [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — Evidence-based hierarchy: non-surgical therapy primary, surgery adjunctive only; mandatory re-evaluation 4–6 weeks post-SRP before surgical consideration; SPT required indefinitely
@@ -280,6 +431,7 @@ Format: `category/stem` — one-line description
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
+- [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
@@ -394,6 +546,7 @@ Format: `category/stem` — one-line description
 - [[digital-workflow/najeeb-2025-ai-restorative-dentistry-review]] — PRISMA literature review (BMC Oral Health 2025;25:592, 63편): 수복치의학 AI — 우식 검출 최대 95%, 진료 의자 시간 단축; 데이터 프라이버시·편향·블랙박스·표준 교육 과제; 향후 3D 프린팅 통합
 - [[digital-workflow/iqbal-2025-chatgpt-healthcare-umbrella-review]] — umbrella-review (J Biomed Sci 2025;32:45, PRISMA, 17편=SR15+MA2): ChatGPT 의료 메타-증거 — AMSTAR-2 중간 5/낮음 12; 진단·결정 지원 주제; 41.2% 분야 특화(공중보건치과학 포함)
 - [[digital-workflow/mizna-2025-ai-healthcare-practice-review]] — narrative-review (Eur J Med Res 2025;30:382): 의료 AI 실무 — 로봇 보조 수술·재활·영상·가상 케어·신약·환자 참여·행정; AR·VR·IoT·웨어러블 통합; 치과 특화 아님
+- [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] — SR+NMA (7 RCT, 338 임플란트/291명, Univ Zurich, J Periodontal Res 2025;60:1067): 즉시식립 CAIS (dynamic/full static/partial static) vs freehand 정확도 — CAIS 모든 subtype이 freehand 대비 angular/coronal/apical deviation 일관 우수.
 
 ## 교정치료 (Orthodontics)
 - [[orthodontics/wise-2008-tooth-eruption-orthodontic-movement-mechanisms]] — Narrative review (J Dent Res 2008): tooth eruption vs OTM mechanisms — dental follicle essential for eruption; PDL for OTM; shared RANKL/OPG/CSF-1 pathway; eruption physiological, OTM pathological+physiological
@@ -418,6 +571,12 @@ Format: `category/stem` — one-line description
 - [[endodontics/regenerative/meschi-2023-revitalization-apical-periodontitis-sr-ma]] — SR+MA (IEJ 2023): 미성숙·성숙치 모두 포함; 치근첨 주위염 동반 재생치료 성공률 85%; 미성숙치 치근 성숙 68%; 성숙치 치근첨 병소 치유 RCT 근거 부족
 - [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — SR+MA (J Clin Med 2022, 22편): RET vs 수산화칼슘 근단형성술 — 치근 길이·두께 증가는 RET 유의 우위; 성공률·치유율 유사; MTA 근단폐쇄 대안
 - [[endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — SR+MA (Cureus 2024): 미성숙 영구치 재생 vs 근단형성술 — 재생치료 치근 성숙 달성률 66–76%; 근단형성술(MTA/Ca(OH)₂) 기능적 치유 동등; RCT 부족
+- [[endodontics/regenerative/meschi-2023-revitalization-apical-periodontitis-sr-ma]] — 치수괴사+치근단 치주염에서 revitalization SR+MA(IEJ 2023): 임상 증상 소실 및 치근단 치유 양호, 성숙치 적용 증거 제한적.
+- [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — 미성숙 영구치 비활력 RET vs apexification SR+MA(J Clin Med 2022): 생존·성공율 유사, 치근 길이/벽 두께는 RET 유의 우위.
+- [[endodontics/regenerative/sellami-2023-regenerative-endodontic-microbiology-outcome]] — 미성숙 영구치 치수괴사 REP 미생물 감소와 임상·방사선 결과 (Front Dent Med 2023): 14명 qPCR 4시점; 1.5% NaOCl 1회 세션에서 총 세균 부하 유의 감소; F. nucleatum·T. denticola·E. faecalis 100% 검출; LPRF 군 재치료 발생 → LPRF 비권장.
+- [[endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — 미성숙 비활력치 revitalization vs apexification SR+MA(Cureus 2024): 치근 길이·상아질 벽 두께 모두 revitalization 유의 우위.
+- [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — 미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율(RET 97.8%/MAP 97.1%), 성공율(RET 91.3%/MAP 94.6%) — 유의차 없음, 근거 수준 낮음.
+- [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — 외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
 
 ## 레진접착 (Resin Bonding)
 - [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]] — Saliva exposure >1 second significantly reduces ceramic-resin bond strength (p < 0.05); pre-try-in silane application or post-contamination reapplication under rubber dam isolation essential; moisture control non-negotiable
@@ -477,6 +636,35 @@ Format: `category/stem` — one-line description
 - [[drug/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — 2016 ACR/EULAR pSS 기준 변경 해설 — 침샘 생검 유지, 안구건조 증상 단독 항목 삭제, 바이오마커 중심 전환.
 - [[drug/legoff-2017-sjogren-classification-criteria-comparison]] — pSS 의심 환자 AECG vs ACR/EULAR 기준 비교(κ=0.73) + 침샘 초음파(SGUS) 항체 음성 환자 진단 부가가치.
 - [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — AML allo-HSCT 환자 구강 합병증 분석 — 구강 GVHD 30–50%, 점막염 중증도와 이식 후 생존 상관.
+- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 다기관 RCT crossover (NCT02696369, n=65/51, KDA Journal 56(1) 2017): 매복 하악 제3대구치 발치 2% 리도카인 + 1:80,000 vs 1:200,000 에피네프린 — 진통 효과 동등, ΔSBP·ΔHR은 1:200,000군에서 유의하게 작음 (p ≤ 0.01); 심혈관 위험군 1:200,000 권장
+- [[drug/kim-2000-dental-patients-systemic-disease-general-hospital]] — 후향적 차트 리뷰 (분당제생병원 OMFS 1999, n=3,506): 12.2%가 전신질환 보유, 1순위 고혈압 > 당뇨 > 심장 > 간; 치과 진단은 치주염 최다(n=130); 내과 협진 114건; 중대 합병증 4건 (간질환 노인 GA 발치 후 독성간염 사망 1, warfarin 환자 SRP 후 지속 출혈 1, 술후 감염 2); warfarin 권고는 outdated, 술전 병력청취·응고검사 원칙은 현재도 유효
+- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 스웨덴 Karolinska (BMC Oral Health 2023): 제한적 (restrictive) 치과 항생제 가이드라인 adherence + safety 평가 — 제한적 처방 안전성 확인, adherence 변동성 존재, 타겟 intervention 필요성.
+- [[drug/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — 부산대 신경과 narrative review (Brain NeuroRehabil 2014): 허혈성 뇌졸중 이차예방 — 비심인성 → 항혈소판제 (aspirin/clopidogrel/aspirin+dipyridamole), 심인성 → 항응고제 (warfarin/DOAC) 원칙. 치과에서 만나는 뇌졸중 후 환자의 약물 indication 한국어 기본 reference.
+- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Anesth Prog 2015 메타분석 (4 RCT 정량분석, n=298): 제3대구치 외과 발치 시 preemptive 경구 NSAID — 술후 통증 감소 **유의하지 않음** (P=0.2227, NS); pre-emptive 처방 routine 정당화 근거 부족 (단, 후속 SR이 부분적 benefit을 제안하므로 wiki-living-document로 갱신 필요).
+- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Univ Genoa SR (Dent J 2025): 제3대구치 발치 항생제 예방 — 단순 발치에 효과 미미, 매복·외과적 발치에 한정 적응. Camps-Font 2024 NMA의 NNT=25 결론과 일치.
+- [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — JCP 2025 SR+MA (Gousias, 18 RCT 포함, 1,995 titles screened): 치주 + 임플란트 수술 (OFD, gingival augmentation, implant site development, implant placement) — preemptive 진통제 vs 위약 다중 timepoint 평가; preemptive analgesia가 통증 유의 감소 — Costa 2015 (제3대구치 부정적)의 specialty-specific 양성 update.
+- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — Within-person 단일맹검 RCT (J Evid Based Dent Pract 2023): DAPT 환자 발치 시 chitosan-기반 국소 지혈제가 cellulose oxidized gauze보다 출혈시간 단축 + 치유 개선 — DAPT 지속 발치의 지혈 옵션으로 chitosan 우위.
+- [[drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 일본 4기관 후향 비교 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방 amoxicillin (AMPC) — 술전 단일 500mg vs 3일 코스 — MRONJ 발생률 **동등** → AMR 회피 목적 단일 술전 dose로 충분.
+- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — 인도 Amrita Vishwa Vidyapeetham 비교연구 (Ann Maxillofac Surg 2024): 단일/이중 항혈소판제 지속하 단순 발치 — DAPT가 출혈 시간 다소 길지만 모두 국소 지혈로 통제; DAPT 발치 전 중단 불필요라는 umbrella review 권고와 일치.
+- [[drug/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — 한국 12개 종합병원 다학제 합의 임상진료지침 (KJG 2020): 내시경 시술 전후 warfarin/DOAC/aspirin/clopidogrel/DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 중단/지속 결정. 치과에 직접 적용은 불가하지만 동일 약물 클래스 한국어 reference.
+- [[drug/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — Blood 기초·중개 연구 (Columbia/LMU/MGH/Broad): JAK2V617F clonal hematopoiesis of indeterminate potential (CHIP) — 골수 클론 변이가 platelet 활성화와 cross-talk을 통해 동맥혈전증 위험을 증가시키는 기전 규명. 치과 직접 적용보다 노인 환자 CHIP-driven 혈전 배경 지식으로 보유.
+- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — 대규모 단일기관 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331/1,816 extractions, 2018): warfarin 지속군 (INR<4.0) 발치 후 출혈률 9.1%; warfarin 중단+heparin bridging, 단일/이중 항혈소판 (DAPT) 지속 모두 국소 지혈로 통제 가능 — 발치 위해 항혈전제 중단 불필요라는 현대적 입장의 대만 임상 근거.
+- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA (Univ Sevilla, Antibiotics 2024): 근첨치주염 (AP) 치료에서 치과의사 항생제 과잉처방 실태 정량화 — 근관치료가 1차 indication임에도 비적응 케이스에 항생제 처방 광범위; ESE/AAE 가이드라인과 임상 행태 괴리.
+- [[drug/moore-2015-otc-oral-analgesics-cochrane-overview]] — Cochrane OTC analgesic overview (Moore 2015): 처방전 없는 진통제 단일-dose — Ibuprofen 400 NNT ~2.5 (OTC 한도 최고); APAP 1g ~3.5-4; aspirin 1g ~4; ibuprofen 200 ~3. CD008659 회사 overview의 OTC 한정 companion.
+- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Oxford Cochrane overview of Cochrane SRs (Moore 2015): 급성 술후 통증 단일-dose 경구 진통제 — Ibuprofen 200/400 + APAP 500/1000 병용 NNT ~1.5 (최저); Ibuprofen 400 단독 ~2.5; APAP+codeine ~2.2; codeine 60 단독 NNT 12+ (사실상 효과 없음); tramadol 75 NNT ~9 — NSAID + APAP 병용이 표준 1차.
+- [[drug/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — Inflammopharmacology 2009 종합 review (68pp, Rainsford, 571+ 인용): ibuprofen 약리·임상효과·안전성 — OTC 용량 (800-1,200mg/day)에서 paracetamol 비견 가능한 안전; 처방 용량 (1,800-2,400mg/day) 만성 류마틱 indication; COX-1/COX-2 매개 prostanoid 감소 기전.
+- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 다전공 review (Bucharest 감염내과+치과·Lund; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation 통합 가이드. Stewardship 구현 단계별 권고.
+- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — 이탈리아 Padova/Naples 치과의사 설문 (Antibiotics 2024): 치과 항생제 처방 행태 — 과잉처방, 가이드라인 이탈, AMR 인식↔행동 괴리 — 스튜어드십 intervention 근거 자료.
+- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP CHEST 가이드라인 지지 SR+MA (Shah/Murad 2022): 장기 항혈소판제 (APT) 환자 비심장 수술 — 단기/장기 중단 간 주요 출혈 차이 NS (low COE); aspirin 지속 시 위약 대비 주요 출혈 RR 1.31 (high COE) + 혈전색전증 RR 0.74 — trade-off 정량화.
+- [[drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — JAMA Cardiology 2024 SR+MA (n=1,152,345 IE 사례): 침습적 치과시술 후 항생제 예방 — **고위험군에서만** IE 위험 유의 감소; 중간/저위험/불명 위험군에서는 효과 없음 → 2007/2017 AHA·NICE의 고위험군 한정 권고 입장 empirical 지지.
+- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb): 치과 항생제 처방 추세 — 전체 처방량·광범위 항생제 비율 변동, AMR 정책 baseline 제공; 단일국가 데이터지만 EU 비교가능 framework.
+- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — 국제 Delphi 합의 (Manchester/FDI/Melbourne/Lorraine): 치과 항생제 스튜어드십 핵심 outcome set 합의 (≥30 dentist+academic+patient contributors, >70% critical) — 향후 stewardship intervention 평가의 표준 outcome 정의.
+- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — SR+MA (Wolverhampton, Medicina 2023): 임플란트 식립 (DIP) 항생제 예방 — 술전 단일 amoxicillin 2g 권고; 술후 연장은 incremental benefit 없음. PRISMA-P/PROSPERO 등록.
+- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF 2022 권고 (JAMA): 저용량 aspirin 1차예방 — 40-59세 ≥10% 10년 CVD 위험 성인은 C등급 개별 결정; ≥60세 신규 시작 권고 안 함 (D등급) — 2016년 권고에서 후퇴, 출혈 위험 (GI·뇌출혈) > 이득.
+- [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
+- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — Univ Zagreb 다전공 narrative review (Dent J 2024): 치과 시술 전 항생제 예방 — IE 고위험군, 인공관절, 임플란트, 면역억제 환자 시나리오별 indication·regimen·AMR 고려사항. 2007/2017 AHA + 2014 ADA 입장 정리.
+- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
+- [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
@@ -547,6 +735,14 @@ Format: `category/stem` — one-line description
 - [[endodontics/vpt/chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct]] — RCT (IEJ 2014, n=36): Ca(OH)₂ vs MTA 부분 치수절단 — 1년 성공률 Ca(OH)₂ 61% vs MTA 89%; 석회화 교량 MTA 우위
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — 전향적 micro-CT (J Endod 2015, n=40): Biodentine vs MTA DPC — 석회화 교량 두께·연속성 동등; Biodentine 수분 존재 하 취급 용이
 - [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] — 임상 강의 (부산 2026, 장 원장, 69슬라이드): 바이탈 근관치료 (Vital Pulpectomy) 단계별 프로토콜 — 엔도셈 ≥3mm 배리어, 작업장 길이 근단 2–3mm 단축, NaOCl+초음파 세정, 크랙치아·고령환자 적응증
+- [[endodontics/vpt/chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct]] — 소아(7–10세) 영구 구치 우식 노출 partial pulpotomy RCT(84개 치아): Ca(OH)₂ vs MTA — MTA 방향성 우위, 소아 VPT 기초 데이터.
+- [[endodontics/vpt/duncan-2019-ese-deep-caries-exposed-pulp-position]] — ESE 2019 position statement: 치수 보존 우선, Biodentine·MTA 1차 재료 권고, Ca(OH)₂ 대체 권고.
+- [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — 우식 치수 노출 DPC/pulpotomy 재료 SR+MA(Ghent Univ): Biodentine·MTA가 Ca(OH)₂ 대비 유의 우위 — Clin Exp Dent Res 2023.
+- [[endodontics/vpt/hatipoglu-2025-direct-pulp-capping-nmr-rct]] — DPC 6종 재료 Bayesian NMR(RCT 21개, 1733명): Biodentine OR 4.41, MTA OR 3.02로 Ca(OH)₂ 대비 유의 우위; 추적 기간 보정 후에도 일관.
+- [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] — 바이탈 근관치료 (Vital Pulpectomy, VPT) 임상 강의 (부산 2026, 장 원장): 감염 근관 상부 치수만 제거하고 근단 치수를 보존하는 술식 — 엔도셈 (Endoseem) ≥3mm 배리어, 작업장 길이 근단에서 2–3mm 단축, 초음파+NaOCl 세정 프로토콜.
+- [[endodontics/vpt/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct]] — 성인 구치 우식 노출 DPC: MTA vs Ca(OH)₂ 다기관 RCT(70명, 3년) — MTA 군 생존율 우위.
+- [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — DPC 4재료 micro-CT 비교(44개 인간 치아, 6주): Biodentine > MTA > Ca(OH)₂ 수복상아질 교형성; Single Bond Universal는 독성.
+- [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — 성인(11–51세) 영구 구치 우식 노출 MTA full pulpotomy(52개): 단기 성공률 ~80%, 성숙치에서 VPT 가능성 제시.
 
 ## 종합 (Overviews)
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — 크라운 prep 기하 9편 클러스터 종합 (2026-05-21): 권장 TOC 변천(6°→10-22°·임상 25-32°), 치아별 민감도(견치·대구치 vs 소구치 NS), 보조형 retention-fit trade-off(Roudsari/Yang), 임시 크라운 3D 프린팅 우위(6.6-7.65 vs 2.35-3.52 MPa), 지르코니아 핫애시드 임상 회피
@@ -564,6 +760,9 @@ Format: `category/stem` — one-line description
 - [[overviews/anticoagulant-antiplatelet-dental-protocol]] — 항응고제·항혈소판제 치과 프로토콜: 루틴 발치 중단 불필요; INR≤3.5 VKA 지속, DOAC 단순발치 지속, 항혈소판 절대 중단 금지; TXA 양치액 1차 지혈 (4편 합성)
 - [[overviews/endodontic-access-cavity-decision-tree]] — 근관 접근와동 결정 트리: 정상 해부→TEC 표준, MIA 근거 불충분, PCO·석회화→유도 근관치료(정적/동적), 술중 CBCT 백업 (4편 합성)
 - [[overviews/reis-2024-biomimetic-restorative-myths-narrative]] — 비판적 narrative review(J Appl Oral Sci 2024, Reis/Loguercio): BRD(Biomimetic Restorative Dentistry) 9개 프로토콜 검증 — deep margin elevation만 임상 근거 있음, 나머지(caries dye·posterior bevel·CHX MMP 억제·IDS·decoupling·fiber inserts 등) RCT/SR 수준 우월 근거 부족
+- [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A (즉시식립+즉시부하) 의사결정 알고리즘 (12편 합성, 2026-05-22): Hamilton 2023 ITI consensus anchor — facial gap ≥2 mm (+3.1 PP)·근관 감염 부재 (+2.6 PP) 정량 selection; Wittneben 5yr 97.1%·Zhou 상악 전치 97.5–99.6%·Botros 2025 구치부 6주 부하 RCT·Meijer 2024 협측 결손 ≥5 mm 10yr RCT; 6조건 bundle (BBT≥1 mm + intact wall + thick biotype + 감염 부재 + ISQ≥70 + atraumatic) 충족 시 Type 1A, 1개라도 누락 시 Type 1B/2A downgrade
+- [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 즉시식립 4변수 술식 의사결정 (11편 합성, 2026-05-22): Cosyn 그룹 SR+MA 4편 (Pitman 2022/2023 + Seyssens 2021/2022) anchor — Flap/IP/CTG/SG 각 effect size 정량 (CTG midfacial 보존 ~0.5 mm, SG 협측 흡수 ~0.4 mm 감소); Azadi 2025 NMA로 collagen matrix가 CTG 대체 가능성; 5개 case category별 권장 술식 매트릭스
+- [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — Peri-implant 연조직 dehiscence (PSTD) 예방·관리 (11편 합성, 2026-05-22): Tavelli 2025 AO/AAP SR+meta-regression (221편) anchor — *질환 없음* 코호트에서도 PSTD prevalence 46.2%·MREC 23.1%; 위험인자 6개 (thin biotype·KT<2 mm·협측 위치·즉시식립·흡연·CTG 미시행) vs 보호인자 5개; 식립 전 risk assessment → KT 증대 → CTG → SPT 3단계 알고리즘
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
@@ -598,6 +797,7 @@ Format: `category/stem` — one-line description
 - [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — 서술 고찰: 구강안면 BTX 임상 적용 전반; 교근 25–75U, 측두근 15–50U 프로토콜 (Toxins 2020)
 - [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — SR: 수면이갈이(Sleep Bruxism) 관리 — 교합안정장치는 치아 보호만, 바이오피드백이 이갈이 빈도 감소 최고 근거 (Jpn Dent Sci Rev 2022)
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — BMJ 2023 임상진료지침: 만성 TMD 통증 보존적 치료 우선; BTX 불응성 근막통 조건부 권고; 비가역 교합처치 강력 반대
+- [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] — Narrative review (KDA Journal 50(5) 2012, Dong-A OMFS 김철훈): 측두하악장애 (TMD) 임상가용 진단·치료 가이드 — "정상기능+자극>생리적 내성" 공식, 근육 vs 관절 감별(end-feel·deviation/deflection·하중검사·진단마취), 가역적 술식 우선(NSAID·교합안정장치·관절천자세정술); 2014 DC/TMD 이전 narrative
 
 ## 우식 (Caries)
 - [[caries/xie-2023-white-spot-lesion-therapies-sr-nma]] — SR+NMA (BMC Oral Health 2023, 28 RCTs): 백색 반점 병소(WSL) 치료 효과 순위 — 레진 침투(Resin Infiltration, RI) + 불소 복합이 심미 회복 1순위; 재광화 단독은 표면하 병소에 한계
