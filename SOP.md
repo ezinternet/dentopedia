@@ -104,6 +104,70 @@ push 후 1~2분, 다음 확인:
 
 ---
 
+## 2-bis. OPERATIONS 폴더 사용법 (2026-05-23 추가)
+
+KNOWLEDGE(papers/sources/wiki)는 지식 substrate, OPERATIONS는 그 지식을 산출물로 회수하는 7폴더.
+
+### 폴더 역할 한 줄씩
+
+| 폴더 | 무엇을 넣나 |
+|---|---|
+| `agenda/` | 모든 작업의 명세 (Goal·Input·Output·Done). 새 작업은 여기서 시작. |
+| `interactives/` | HTML 계산기·시각화·의사결정 트리 |
+| `slides/` | 강의·발표 자료 (위키가 1차 입력) |
+| `peer-review/` | 외부 paper 리뷰 (저널 reviewer 의뢰) |
+| `note-meeting/` | 미팅 기록 (1 미팅 = 1 파일) |
+| `scripts/` | 자동화 코드 |
+| `logs/` | audit 산출 |
+
+### 새 작업 시작 — agenda 파일 1개
+
+```bash
+cd ~/llm-wiki
+cp agenda/_template.md agenda/$(date +%Y-%m-%d)_<topic>.md
+```
+
+agenda 채우고 Cowork 세션 열어서 "이 agenda 진행해줘"라고 하면 Claude가 frontmatter cross-link 다 박아서 산출물 만든다.
+
+### Hard rule: slides/interactives/peer-review는 agenda 선행
+
+agenda 없이 슬라이드부터 만들지 말 것. 출처 추적이 끊긴다. Lint(`operations-lint.py`)가 잡아낸다.
+
+### Lint 4종 한 번에
+
+```bash
+cd ~/llm-wiki
+python3 scripts/lint.py && \
+python3 scripts/orphan-check.py && \
+python3 scripts/find-no-wiki.py && \
+python3 scripts/operations-lint.py
+```
+
+`operations-lint.py`가 검사하는 것:
+- OPERATIONS 파일 frontmatter `type` / `date` / `status` 필수
+- `source_wiki` / `agenda` / `output_wiki` 셋 다 비면 **orphan** (경고)
+- slides·interactives·peer-review에 `agenda:` 없으면 **MISSING agenda** (hard rule 위반)
+
+### 환자정보·민감정보 마스킹 — OPERATIONS 폴더 정책
+
+**원칙**: 사이트(GitHub Pages)로 노출되는 건 `wiki/` 디렉토리만이다. deploy workflow가 `wiki/` → `quartz/content/`만 복사한다. OPERATIONS 폴더(agenda·note-meeting·peer-review 등)는 GitHub repo엔 올라가지만 **사이트엔 안 올라간다**.
+
+그럼에도 마스킹 원칙:
+
+1. **환자 식별정보**(이름·연락처·차트번호·생년월일)는 OPERATIONS 폴더 어디에도 평문으로 쓰지 않는다. `환자 A`, `case_001` 같은 익명 식별자만.
+2. **직원 개인정보** 동일 기준.
+3. **note-meeting**에 진료 사례 토론 들어가면 익명화 후 작성.
+4. 외부 공유용 산출물(slides·peer-review)은 git push 전 한 번 더 확인.
+
+**3중 방어**:
+- 1차: deploy workflow trigger paths가 `wiki/**`로 한정 — agenda 수정해도 사이트 빌드 안 됨
+- 2차: deploy workflow가 `wiki/`만 복사 — OPERATIONS 폴더는 content/에 안 들어감
+- 3차: `quartz/quartz.config.ts` `ignorePatterns`에 OPERATIONS 폴더 이름 등록 — 실수로 wiki/agenda/ 같이 옮겨도 빌드 제외
+
+그래도 git repo는 public이라면 OPERATIONS 폴더 내용이 GitHub에 보인다. 진짜 민감한 건 별도 `private/` 폴더(이미 `.gitignore`·`quartz` ignore 모두 등록됨) 또는 wiki/ 밖 별도 vault로.
+
+---
+
 ## 3. 실패 시 대처
 
 ### Lint workflow 실패
@@ -256,9 +320,16 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 | `quartz/` | Quartz 정적 사이트 생성기 + config |
 | `.github/workflows/lint.yml` | frontmatter / 1:1 / no-wiki 검사 |
 | `.github/workflows/deploy-pages.yml` | Quartz 빌드 + GitHub Pages 게시 |
-| `scripts/lint.py` | frontmatter 9 필드 검사 |
+| `scripts/lint.py` | frontmatter 9 필드 검사 (wiki/) |
 | `scripts/orphan-check.py` | PDF ↔ sources 1:1 매칭 |
 | `scripts/find-no-wiki.py` | paper마다 wiki 페이지 존재 검사 |
+| `scripts/operations-lint.py` | OPERATIONS frontmatter cross-link 검사 |
+| `agenda/` | 작업 명세서 (Goal·Input·Output·Done) |
+| `interactives/` | HTML 시각화·계산기 |
+| `slides/` | 강의·발표 자료 |
+| `peer-review/` | 외부 paper 리뷰 |
+| `note-meeting/` | 미팅 기록 |
+| `logs/` | audit 산출 로그 |
 
 ---
 
@@ -279,8 +350,8 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 # wiki 폴더로 이동
 cd ~/llm-wiki
 
-# lint 3종 한 번에
-python3 scripts/lint.py && python3 scripts/orphan-check.py && python3 scripts/find-no-wiki.py
+# lint 4종 한 번에
+python3 scripts/lint.py && python3 scripts/orphan-check.py && python3 scripts/find-no-wiki.py && python3 scripts/operations-lint.py
 
 # 변경 확인
 git status -s

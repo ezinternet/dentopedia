@@ -27,26 +27,40 @@ These rules apply to **every** response, including overview pages.
 
 ## Repository Structure
 
+The repo has two layers: **KNOWLEDGE** (papers/sources/wiki — the substrate, reusable knowledge atoms) and **OPERATIONS** (agenda/slides/interactives/peer-review/note-meeting/scripts/logs — where knowledge is converted into outputs).
+
 ```
 llm-wiki/
-├── CLAUDE.md                   # This file
+├── CLAUDE.md                   # This file — agent行動 rules
+├── SOP.md                      # Human-facing operating procedure
 ├── index.md                    # Page catalog
+│
+│ ── KNOWLEDGE (the substrate) ──
 ├── papers/                     # Original PDFs (cp, never symlink)
 │   └── {author}-{year}-{title-5-words}.pdf
 ├── sources/                    # PDF summaries (English)
 │   └── {author}-{year}-{title-5-words}.md
-└── wiki/                       # Wiki pages (English)
-    ├── implants/               # 임플란트
-    ├── endodontics/            # 근관치료
-    ├── periodontics/           # 치주치료
-    ├── dental-materials/       # 치과재료 (general)
-    ├── resin/                  # 레진
-    ├── resin-bonding/          # 레진접착
-    ├── sinus-lift/             # 상악동거상술
-    ├── immediate-implant/      # 즉시식립
-    ├── prosthetic-materials/   # 보철재료
-    ├── inlay/                  # 인레이
-    └── overviews/              # Synthesis pages (cross-category)
+├── wiki/                       # Wiki pages (English)
+│   ├── implants/               # 임플란트
+│   ├── endodontics/            # 근관치료
+│   ├── periodontics/           # 치주치료
+│   ├── dental-materials/       # 치과재료 (general)
+│   ├── resin/                  # 레진
+│   ├── resin-bonding/          # 레진접착
+│   ├── sinus-lift/             # 상악동거상술
+│   ├── immediate-implant/      # 즉시식립
+│   ├── prosthetic-materials/   # 보철재료
+│   ├── inlay/                  # 인레이
+│   └── overviews/              # Synthesis pages (cross-category)
+│
+│ ── OPERATIONS (knowledge → output) ──
+├── agenda/                     # 작업 명세서 (Goal·Input·Output·Done)
+├── interactives/               # HTML 시각화·계산기·의사결정 도구
+├── slides/                     # 강의·발표 자료 (wiki가 1차 입력)
+├── peer-review/                # 외부 paper 리뷰 (저널 reviewer 의뢰)
+├── note-meeting/               # 미팅 기록 (1 미팅 = 1 파일)
+├── scripts/                    # 자동화 (ingest watcher, lint)
+└── logs/                       # audit 산출 로그
 ```
 
 ## File Naming Convention
@@ -84,6 +98,7 @@ All three tiers share the same stem:
 | `drug` | 전신질환·약물 | Systemic disease management, drug interactions, MRONJ, anticoagulants |
 | `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
 | `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
+| `evidence-appraisal` | 근거평가·통계방법론 | EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
@@ -184,6 +199,7 @@ Pick the **single best label** for the study type. Ordered roughly from highest 
 | `in-vitro` | Bench / laboratory study |
 | `narrative-review` | Narrative review, perspective, expert commentary |
 | `consensus` | Consensus statement / position paper |
+| `synthesis` | Multi-paper synthesis page (wiki overviews); not external study type |
 
 ### `date:` field
 
@@ -210,6 +226,75 @@ Add a one-line entry under the correct category.
   orphan_srcs = srcs - pdfs   # → warn (missing PDF)
   ```
   Delete all `orphan_pdfs` immediately. Pre-rename originals and duplicate `(1)` copies count as orphans and must be deleted.
+
+## OPERATIONS — Routing & Cross-link Rules
+
+KNOWLEDGE is the substrate; OPERATIONS is where it gets converted into outputs (slides, calculators, review reports, meeting decisions). Without these rules every output drifts away from its source wiki page.
+
+### 1. Routing — 어디에 만드는가
+
+When creating any new artifact, ask in order:
+
+1. **재사용되는 지식인가?** → `wiki/{category}/` (단일 paper) or `wiki/overviews/` (cross-paper synthesis)
+2. **시간·이벤트 기록인가?** → `note-meeting/`
+3. **외부 deliverable인가? (슬라이드·인터랙티브·peer review)** → 해당 OPERATIONS 폴더
+4. **외부 deliverable의 작업 명세인가?** → `agenda/`
+
+**Hard rule**: `slides/`, `interactives/`, `peer-review/` 산출물은 반드시 `agenda/` 파일이 선행되어야 한다. agenda 없는 산출물은 출처·done 기준 추적이 끊긴다.
+
+### 2. File Naming — OPERATIONS
+
+```
+agenda/YYYY-MM-DD_<kebab-case-topic>.md
+interactives/YYYY-MM-DD_<kebab-case-topic>.html
+slides/YYYY-MM-DD_<event-or-audience>_<topic>.md
+peer-review/YYYY-MM_<journal-code>_<topic>.md
+note-meeting/YYYY-MM-DD_<meeting-type>.md
+```
+
+날짜 prefix는 정렬·검색을 위함. `_template.md` 같은 시스템 파일은 날짜 prefix 면제.
+
+### 3. Frontmatter Cross-link — OPERATIONS 파일 전 필수
+
+```yaml
+---
+title: "..."
+type: agenda | interactive | slides | peer-review | meeting
+date: YYYY-MM-DD
+status: draft | in-progress | review | done | archived
+# 아래 3개 중 최소 하나는 비어있지 않아야 함
+source_wiki:                              # 이 산출물의 근거가 된 wiki 페이지들
+  - wiki/<category>/<stem>.md
+agenda: agenda/<date>_<topic>.md          # slides/interactives/peer-review 필수
+output_wiki:                              # 이 산출물이 갱신·생성한 wiki 페이지 (meeting에서 자주 발생)
+  - wiki/<category>/<stem>.md
+---
+```
+
+`source_wiki` · `agenda` · `output_wiki` 세 필드가 모두 비어있는 OPERATIONS 파일은 **orphan**으로 간주하고 lint에서 경고한다.
+
+### 4. agenda Workflow
+
+새 작업은 agenda 파일 1개로 시작:
+
+```bash
+cp agenda/_template.md agenda/$(date +%Y-%m-%d)_<topic>.md
+```
+
+agenda는 Goal·Input·Output·Done이 박힌 단일 명세서. 진행되며 status 갱신 (`draft` → `in-progress` → `review` → `done` → `archived`).
+
+agenda에서 파생된 산출물(slides·interactive·overview)은 자신의 frontmatter에 `agenda:` 백링크를, 그리고 agenda 파일의 `# Output` 섹션에 산출물 경로를 양쪽으로 박는다.
+
+### 5. note-meeting Workflow
+
+미팅 1회 = 파일 1개. 결정 사항(decisions)이 wiki SOP나 임상 프로토콜에 반영되어야 하는 경우:
+
+- meeting note frontmatter의 `output_wiki:` 에 갱신될 wiki 페이지 경로
+- followup이 필요하면 `followup_agenda:` 에 신설할 agenda 파일 경로 (그리고 실제로 agenda 신설)
+
+미팅 → agenda → 산출물의 chain이 끊기면 미팅은 메모로만 남고 클리닉 SOP에 반영이 안 된다.
+
+---
 
 ## Knowledge Compounding
 

@@ -15,7 +15,21 @@ const config: QuartzConfig = {
     analytics: null,
     locale: "ko-KR",
     baseUrl: "ezinternet.github.io/llm-wiki",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    // Defense-in-depth: deploy workflow only copies wiki/ → content/, so
+    // OPERATIONS folders are not normally seen here. These patterns prevent
+    // accidental publication if someone moves an OPERATIONS file into wiki/.
+    ignorePatterns: [
+      "private",
+      "templates",
+      ".obsidian",
+      "agenda",
+      "interactives",
+      "slides",
+      "peer-review",
+      "note-meeting",
+      "logs",
+      "scripts",
+    ],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
