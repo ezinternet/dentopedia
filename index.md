@@ -425,9 +425,8 @@ Format: `category/stem` — one-line description
 - [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — SR+MA(Dent J 2024, 5개 DB, 10,775편): 치주염 기왕력 → 치주위임플란트염 ~4.8배↑; 임플란트 생존율↓; 골소실·포켓깊이↑
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — 2017 치주 세계 워크샵 치주염 새 분류 — Staging I–IV(중증도) + Grading A–C(진행속도/반응성).
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
-- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane]] — SPT 효과 코크란 리뷰 — 순응군 치아 상실 RR 0.47, CAL 안정, 3–6개월 간격 권고.
+- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR (CD009376.pub2): SPT 관련 RCT 증거 극히 제한적; 전문의 vs 비전문의·항균제 보조·광치료 모두 high-quality 근거 부족; 다만 순응군 치아 상실 RR 0.47, CAL 안정, 3–6개월 간격 임상 권고 (heterogeneity로 MA 미수행)
 - [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — 만성 치주염 비수술 치료(SRP ± 보조) 근거기반 가이드라인 — SRP 강력 권고, 전신 독시사이클린 추가 PPD 0.2–0.4mm 감소.
-- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — Cochrane SR: SPT 관련 RCT 증거 극히 제한적; 항균제 보조 일부 유익, 광치료 결론 불충분; 전반적 저질 증거.
 - [[periodontics/nibali-2016-tooth-loss-furcation-involvement-sr-ma]] — SR+MA(21편): 치근분지부 침범 대구치 치아 소실 위험 10–15년 RR 2.21(p<0.0001); 3도 포함 대부분 치주치료로 보존 가능.
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — SR+NMA(30개 RCT, 3–20년): 골내결손 재생/재건술이 OFD보다 PD·CAL에서 유의하게 우수; 병용요법이 단독요법보다 더 효과적; 치아소실 0.4% vs OFD 2.8%.
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
@@ -444,8 +443,7 @@ Format: `category/stem` — one-line description
 - [[prosthetic-materials/hosseini-2022-zirconia-metal-implant-premolar-5year-rct]] — 소구치 임플란트 단관 지르코니아 기반 vs 금속 기반 5년 RCT — 생존율·MBL 동등, 지르코니아 칩핑 없음.
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — 구치부 임플란트 단관 단일층 지르코니아 vs 금속도재 SR+MA — 기술적 합병증 OR 0.31(지르코니아 우위).
 - [[prosthetic-materials/gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct]] — 디지털 워크플로우 반투명 지르코니아 vs 금속도재 구치부 전관 5년 RCT — 생존율 동등, 지르코니아 칩핑 없음.
-- [[prosthetic-materials/pjetursson-2026-metal-ceramic-allceramic-crowns-sr-ma]] — 치아 지지 단관 SR+MA — 5년 생존율 금속도재 96.2%, veneer형 94.7%, 단일층 지르코니아 97.1%; 지르코니아 칩핑 최소.
-- [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA (64편, 11,560개): 단일체 리튬 디실리케이트 5년 생존율 98.5% 최고; 금속도재 97.1%; 단일체 디자인이 치핑 유의하게 감소.
+- [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA (64편, 11,560개): 5년 생존율 단일체 리튬 디실리케이트 98.5% 최고·금속도재 97.1%(혹은 96.2%)·veneer형 94.7%·단일체 지르코니아 97.1%; 단일체 디자인이 치핑 유의하게 감소
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — SR 개요 (38편, ~10,000 수복물): 지르코니아 치아·임플란트 지지 단관·FDP 5년 생존율 양호; 베니어 도재 치핑 가장 흔한 합병증.
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — DGI/DGZMK S3 가이드라인: 단관 리튬 디실리케이트·지르코니아 권장(3년 96–97%); FDP·전악 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기.
 - [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — SR+MA(RCT/크로스오버 14편, 2010–2020, 모두 저비뚤림): 임플란트 오버덴쳐 어태치먼트 — 바=유지력 최고·텔레스코픽=만족도 최고·로케이터=협소 악간공간·자석=열위; 임플란트 생존율은 어태치먼트와 무관
@@ -606,6 +604,9 @@ Format: `category/stem` — one-line description
 - [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — 서술적 고찰: NSAIDs WHO 1차 진통제; 전 치과분야 적용; COX 외 NF-kB·iNOS 기전; 국소 NSAIDs 금기·대체약 정리
 - [[drug/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
 - [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
+- [[drug/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
+- [[drug/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — 서술적 고찰(Ann Lab Med 2013): HbA1c 5측정법(IEC·CE·AC·면역·효소) 강약·표준화(NGSP/IFCC)·Hb 변이체 간섭·POC 한계 종합; chairside HbA1c 검사 적용 근거
+- [[drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — 서술적 고찰(Exp Ther Med 2022): HbA1c 3축 간섭 프레임(측정법×생화학×혈액학); 빈혈·CKD·HbS/C/D/E·임신·약물(아스피린·비타민C·dapsone)별 위양성/위음성 방향 카탈로그 + 대안 마커(fructosamine·glycated albumin·1,5-AG·CGM-TIR)
 - [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 과학성명: 2007 IE 예방 가이드라인 유지; 4개 최고위험 심장 상태에만 Amoxicillin 2g; 나머지 금기 해제
 - [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 서술적 고찰(2024): 항생제 내성으로 예방 적응증 대폭 축소; 인공관절 루틴 불필요; IE고위험·면역저하·IV BP·방사선 조사만 해당
 - [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — 서술적 고찰: BP 종류별 BRONJ 위험(IV>경구); AAOMS 0–3 병기; 국소 BP = 골유착 촉진; 투약 전 치과 처치 예방의 핵심
@@ -617,7 +618,6 @@ Format: `category/stem` — one-line description
 - [[drug/di-spirito-2022-endodontic-pain-management-overview]] — Overview of SRs: NSAIDs 1차·코르티코스테로이드 보조 유효; 술전 예방투여 우월; 기술적 요소(근관장 초과·세정·교합감소)도 영향
 - [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — Network MA(16 RCT, n=2021): NSAIDs·코르티코스테로이드 8~72h 전 시점 유효; 효과 시간 경과에 따라 감소; I²=100% 주의
 - [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — Network MA(82 RCT, n=9,095): 발치 후 통증 — ibuprofen+APAP 최고 효과(중-고 확실성); 오피오이드 5mg·코데인·트라마돌 위약 수준 — 2022 ADA CPG 근거
-- [[drug/watson-2022-ibuprofen-codeine-third-molar-sr-ma]] — SR+MA(20 RCT): 3번째 대구치 발치 후 이부프로펜 400mg TOTPAR6 SMD=3.009(대효과) vs APAP+코데인 SMD=0.796(중간효과)
 - [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — RCT(n=1,815, 다기관): 이부프로펜+APAP이 히드로코돈+APAP보다 1–2일 통증 유의 낮고 전체 기간 비열등; 오피오이드 어떤 시점도 우위 없음
 - [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT(n=56): 이부프로펜+파라세타몰 교대투여(4h) vs 동시투여(8h) — 교대투여군 구제약 필요 15% vs 53%(p=0.002)
 - [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — 서술적 고찰: NSAIDs 치주 치유 상충 결과; COX-2 억제제는 임플란트 골유착 저해 가능; 인체 근거 부족 (Compend 2019)
@@ -662,7 +662,6 @@ Format: `category/stem` — one-line description
 - [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — SR+MA (Wolverhampton, Medicina 2023): 임플란트 식립 (DIP) 항생제 예방 — 술전 단일 amoxicillin 2g 권고; 술후 연장은 incremental benefit 없음. PRISMA-P/PROSPERO 등록.
 - [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF 2022 권고 (JAMA): 저용량 aspirin 1차예방 — 40-59세 ≥10% 10년 CVD 위험 성인은 C등급 개별 결정; ≥60세 신규 시작 권고 안 함 (D등급) — 2016년 권고에서 후퇴, 출혈 위험 (GI·뇌출혈) > 이득.
 - [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — Univ Zagreb 다전공 narrative review (Dent J 2024): 치과 시술 전 항생제 예방 — IE 고위험군, 인공관절, 임플란트, 면역억제 환자 시나리오별 indication·regimen·AMR 고려사항. 2007/2017 AHA + 2014 ADA 입장 정리.
 - [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
 - [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
 
@@ -744,7 +743,20 @@ Format: `category/stem` — one-line description
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — DPC 4재료 micro-CT 비교(44개 인간 치아, 6주): Biodentine > MTA > Ca(OH)₂ 수복상아질 교형성; Single Bond Universal는 독성.
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — 성인(11–51세) 영구 구치 우식 노출 MTA full pulpotomy(52개): 단기 성공률 ~80%, 성숙치에서 VPT 가능성 제시.
 
+## 근거 평가·통계방법론 (Evidence Appraisal / Biostatistics Methodology)
+- [[evidence-appraisal/kiriakou-2014-evidence-based-dentistry-skills-interpret]] — Progress Orthod 2014, narrative review: 치과의사용 EBD 5단계 + RCT/SR critical appraisal 입문 (DOI 10.1186/s40510-014-0058-5)
+- [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]] — Hanyang Med Rev 2015, 한국어: SR/MA full pipeline — 검색·선정·질평가·effect size·I²·고정/랜덤·funnel/Egger (DOI 10.7599/hmr.2015.35.1.9)
+- [[evidence-appraisal/shin-ih-2009-meta-analysis-critical-interpretation]] — 2009 대한간학회 추계학술대회 강의(한국어): MA 개념·전제·heterogeneity·publication bias 입문
+- [[evidence-appraisal/nam-2012-statistical-methods-medical-studies]] — JKMA 2012, 한국어 (연세의대 예방의학·의학통계): 검정 선택 flowchart — t-test/ANOVA/비모수/카이제곱/log-rank/회귀 (DOI 10.5124/jkma.2012.55.6.573)
+- [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — Indian J Urol 2011, narrative tutorial: p-value, 95% CI, NNT 임상 시나리오 (DOI 10.4103/0970-1591.91446)
+- [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — IJERPH 2021, OA 튜토리얼: OR/RR/AR/NNT 4종 + OR-RR divergence rule (DOI 10.3390/ijerph18115669)
+- [[evidence-appraisal/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer]] — J Thorac Oncol 2011, biostatistics primer: HR, KM curve, proportional hazards 가정 위반 시 해석 무력화 (DOI 10.1097/JTO.0b013e31821b10ab)
+- [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — Clin Kidney J 2024, narrative review: 10대 biostatistics 오류 정리 — p값·CI·HR 오해, subgroup 사냥, confounder vs mediator, immortal time bias 등 (DOI 10.1093/ckj/sfae197)
+- [[evidence-appraisal/anonymous-nd-systematic-review-critical-appraisal-worksheet]] — 4쪽 SR 비판적 평가 worksheet (CASP/PHRU 양식 추정, 익명·날짜 미상; 학습용으로만 사용, 인용 불가)
+- [[evidence-appraisal/statistical-abbreviations-cheatsheet]] — 통계 약자 치트시트 (synthesis, 2026-05-23): descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set 9개 카테고리 + 5대 오용 패턴 (OR↔RR, p<0.05=임상유의, CI 폭, SD↔SE, ITT↔PP)
+
 ## 종합 (Overviews)
+- [[overviews/evidence-appraisal-toolkit]] — 근거 평가·통계방법론 10편 합성 (2026-05-22 신설 카테고리, 2026-05-23 cheatsheet 추가): 5축 (SR/MA 방법론 4편 + 효과측정치 3편 + 검정 선택 1편 + 빠른 참조 1편 + 흔한 오류 1편); 치과 RCT/SR 읽을 때 체크리스트; CLAUDE.md "method/procedure" 분류 원칙 적용
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — 크라운 prep 기하 9편 클러스터 종합 (2026-05-21): 권장 TOC 변천(6°→10-22°·임상 25-32°), 치아별 민감도(견치·대구치 vs 소구치 NS), 보조형 retention-fit trade-off(Roudsari/Yang), 임시 크라운 3D 프린팅 우위(6.6-7.65 vs 2.35-3.52 MPa), 지르코니아 핫애시드 임상 회피
 - [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] — 2024–2025 ingest AI 리뷰 9편 클러스터 종합: 정량 anchor(Zhang 2025 LLM 정확도 81.87%·임상수용 69.9%), 메타-품질 anchor(Iqbal 2025 AMSTAR-2 12/17 low), 다전공 매핑 3편·도메인 특화 2편·의료 일반 3편; 즉시 도입 영역(영상 진단)/신중 활용(LLM)/회피 영역(자율 술식) 분리
 - [[overviews/sinus-lift-lateral-2026-synthesis]] — 측방창 (Lateral Window) 상악동거상술 슈나이더 막 천공 (SMP) 위험·수복 종합 (2026-05-20 신규 20편): Soares 2024 SR+MA 수복 시 임플란트 소실률 4%·무손상과 동등, septa OR 4.03 (Yang 2024), PRF/e-PRF 단독 막 100% 생존 (Estrin 2025), >10 mm tack-collagen 술식 (Tian 2026)
@@ -763,6 +775,7 @@ Format: `category/stem` — one-line description
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A (즉시식립+즉시부하) 의사결정 알고리즘 (12편 합성, 2026-05-22): Hamilton 2023 ITI consensus anchor — facial gap ≥2 mm (+3.1 PP)·근관 감염 부재 (+2.6 PP) 정량 selection; Wittneben 5yr 97.1%·Zhou 상악 전치 97.5–99.6%·Botros 2025 구치부 6주 부하 RCT·Meijer 2024 협측 결손 ≥5 mm 10yr RCT; 6조건 bundle (BBT≥1 mm + intact wall + thick biotype + 감염 부재 + ISQ≥70 + atraumatic) 충족 시 Type 1A, 1개라도 누락 시 Type 1B/2A downgrade
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 즉시식립 4변수 술식 의사결정 (11편 합성, 2026-05-22): Cosyn 그룹 SR+MA 4편 (Pitman 2022/2023 + Seyssens 2021/2022) anchor — Flap/IP/CTG/SG 각 effect size 정량 (CTG midfacial 보존 ~0.5 mm, SG 협측 흡수 ~0.4 mm 감소); Azadi 2025 NMA로 collagen matrix가 CTG 대체 가능성; 5개 case category별 권장 술식 매트릭스
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — Peri-implant 연조직 dehiscence (PSTD) 예방·관리 (11편 합성, 2026-05-22): Tavelli 2025 AO/AAP SR+meta-regression (221편) anchor — *질환 없음* 코호트에서도 PSTD prevalence 46.2%·MREC 23.1%; 위험인자 6개 (thin biotype·KT<2 mm·협측 위치·즉시식립·흡연·CTG 미시행) vs 보호인자 5개; 식립 전 risk assessment → KT 증대 → CTG → SPT 3단계 알고리즘
+- [[overviews/direct-resin-restoration-adhesion-placement-overview]] — 직접 레진 수복 접착·충전 종합 (28편 합성, 2026-05-23): 접착 — 유니버설 SE 단독 NCCL 24mo 임상 부적합(Oza 2022), E&R/선택적 법랑질 산부식 우세(Hong 2021 OR 0.35/0.49/0.49), 3-step EAR gold standard, CHX 2% MMP 억제 in vitro 일관 (Hardan 2021); 충전 — BF vs incremental 임상 동등(Zailai 2025 RR 0.82, Chaple-Gil 2026 NMA 6/12/24mo 모두 NS, Silva 2023 umbrella), "저수축 = 임상 우월" 부정(Kruly 2018 21RCT), 수리(repair)가 교체보다 강력(van de Sande 2019 15yr 69%), 직접 vs 간접 동등~직접 우세(Tennert 2024 RR 0.61 vs Josic 2023 NS)
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
