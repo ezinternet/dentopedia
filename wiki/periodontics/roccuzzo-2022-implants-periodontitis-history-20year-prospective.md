@@ -32,4 +32,4 @@ Periodontitis history is significant implant risk factor — hazard ratio approx
 
 ## Related Papers
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — related
-- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane]] — related
+- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — related

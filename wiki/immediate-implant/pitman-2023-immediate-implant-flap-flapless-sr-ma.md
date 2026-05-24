@@ -39,5 +39,5 @@ PRISMA. Two reviewers. RoB Cochrane. Random-effects meta-analysis.
 - [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
 
 ## Sources
-- Source: [[sources/pitman-2023-immediate-implant-flap-flapless-sr-ma]]
+- Source: 
 - PDF: `pitman-2023-immediate-implant-flap-flapless-sr-ma.pdf`

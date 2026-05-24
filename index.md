@@ -55,6 +55,7 @@ Format: `category/stem` — one-line description
 - [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
 - [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
+- [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] — in-vitro · 탄화수소(C/Ti) 농도 의존적 골아세포 억제 — BIC 정체 직접 원인 최초 실증 (J Dent Res 2014)
@@ -664,6 +665,10 @@ Format: `category/stem` — one-line description
 - [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
 - [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
 - [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
+- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 다기관 RCT (BMC Oral Health 2019, n=100, 8주): SRP 보조 CELC (vitamin C/E + lysozyme + carbazochrome, IGATAN F) 위약 대비 GI 4주 -0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI NS — 임상적 효능 한계 명확
+- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 비글견 RCT (BMC Vet Res 2024, n=10, 8주): Magnoliae cortex 40mg + Zea mays L. 20mg 경구 → GI·PPD·CAL·BoP 위약 대비 유의 개선, tissue TNF-α 감소 — Insadol 계열 in vivo 항염 확인
+- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — SNU 치주과 in vitro (JPIS 2018, RAW 264.7 + P. gingivalis): Magnoliae Cortex 60 µg + 옥수수 불검화 추출물 300 µg 병용 → NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 synergy
+- [[drug/pyo-2026-drug-interactions-prescription-safety-elderly]] — Narrative review (KDA 2026 64(4) Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7%; clindamycin ADR 15.7×↑(vs amoxicillin); β-blocker/TCA 환자 epinephrine ≤2 cartridges; GFR/LFT 기반 용량조절 표
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
@@ -754,6 +759,7 @@ Format: `category/stem` — one-line description
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — Clin Kidney J 2024, narrative review: 10대 biostatistics 오류 정리 — p값·CI·HR 오해, subgroup 사냥, confounder vs mediator, immortal time bias 등 (DOI 10.1093/ckj/sfae197)
 - [[evidence-appraisal/anonymous-nd-systematic-review-critical-appraisal-worksheet]] — 4쪽 SR 비판적 평가 worksheet (CASP/PHRU 양식 추정, 익명·날짜 미상; 학습용으로만 사용, 인용 불가)
 - [[evidence-appraisal/statistical-abbreviations-cheatsheet]] — 통계 약자 치트시트 (synthesis, 2026-05-23): descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set 9개 카테고리 + 5대 오용 패턴 (OR↔RR, p<0.05=임상유의, CI 폭, SD↔SE, ITT↔PP)
+- [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — 고려대·Mayo Clinic 비판분석 (대한치과의사협회지 2015, 53권 7호): 인사돌 (옥수수 불검화 정량추출물, Zea mays L. unsaponifiable) 임상효능 근거 4건 시험 (1982·1988·1991·1994) — 무작위배정 실패·표본수 근거 부재·부적절 통계검정·맹검 불명확 등 통계적 타당성 결여; 1994 이후 20년 추가 시험 부재 — Insadol 마케팅 근거 비판
 
 ## 종합 (Overviews)
 - [[overviews/evidence-appraisal-toolkit]] — 근거 평가·통계방법론 10편 합성 (2026-05-22 신설 카테고리, 2026-05-23 cheatsheet 추가): 5축 (SR/MA 방법론 4편 + 효과측정치 3편 + 검정 선택 1편 + 빠른 참조 1편 + 흔한 오류 1편); 치과 RCT/SR 읽을 때 체크리스트; CLAUDE.md "method/procedure" 분류 원칙 적용
@@ -811,6 +817,25 @@ Format: `category/stem` — one-line description
 - [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — SR: 수면이갈이(Sleep Bruxism) 관리 — 교합안정장치는 치아 보호만, 바이오피드백이 이갈이 빈도 감소 최고 근거 (Jpn Dent Sci Rev 2022)
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — BMJ 2023 임상진료지침: 만성 TMD 통증 보존적 치료 우선; BTX 불응성 근막통 조건부 권고; 비가역 교합처치 강력 반대
 - [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] — Narrative review (KDA Journal 50(5) 2012, Dong-A OMFS 김철훈): 측두하악장애 (TMD) 임상가용 진단·치료 가이드 — "정상기능+자극>생리적 내성" 공식, 근육 vs 관절 감별(end-feel·deviation/deflection·하중검사·진단마취), 가역적 술식 우선(NSAID·교합안정장치·관절천자세정술); 2014 DC/TMD 이전 narrative
+
+## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
+- [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
+- [[botulinum-toxin/coelho-2025-botulinum-toxin-bruxism-overview]] — Overview (Toxins 2025, 14 SR): BoNT-A bruxism — 통증·이갈이 빈도·교합력 감소 보고 多, 13/14가 AMSTAR-2 "critically low", CCA 10.11% 중복 — 단정 불가
+- [[botulinum-toxin/sahin-2024-comparison-effectiveness-botulinum-toxin-dry]] — 4-arm RCT (JOFPH 2024, n=80, 12주, NCT06583551): bruxism myalgia BoNT-A·DN·PT·MT 모두 VAS/MMO/OHIP-14 군간 차이 없음
+- [[botulinum-toxin/minston-2025-effect-pain-following-botulinum-toxin]] — Swedish double-blind pilot RCT (JOR 2025, n=45/6센터): 100U Botox 단회 jaw myalgia — day 14→10.5(BTX) vs 14→14(saline), p=0.585 — 효과 없음
+- [[botulinum-toxin/gonzalez-perez-2023-botulinum-toxin-percutaneous-needle-electrolysis]] — RCT (Toxins 2023, n=52) chronic masticatory myalgia: BTA 100U vs PNE 0.5mA/3s×3 — VAS 6.5→2.6·MIO+4mm·90일 유지, 두 치료 동등
+- [[botulinum-toxin/kim-sr-2023-effect-botulinum-toxin-masticatory-muscle]] — 연세대 pilot RCT (Toxins 2023, n=21): BoNT/A 12주 orofacial VAS·tender point·headache 군내 유의 감소(p<0.005); tender point만 saline 대비 군간 유의차
+- [[botulinum-toxin/ali-2021-botulinum-toxin-occlusal-splints-management]] — 3-arm RCT (Saudi Dent J 2021, n=42, 12개월) implant overdenture bruxer: BTX·splint 모두 PSQI·환자만족도 유의 개선, BTX가 9-12개월 시점 가장 우수
+- [[botulinum-toxin/de-souza-nobre-2024-temporalis-muscle-changes-following]] — RCT triple-blind (Aesthetic Plast Surg 2024, n=26): 교근비대 BTX 반복 주사 시 측두근(temporalis) 보상성 비대 + EMG·통증 증가
+- [[botulinum-toxin/nobre-2024-exploring-botulinum-toxin-impact-masseter]] — RCT triple-blind (Sci Rep 2024, n=26, 동일 코호트): 교근비대 BoNT-A 효과적이나 반복 시 교근 두께·EMG·저작효율 지속 저하
+- [[botulinum-toxin/raafa-2025-novel-fully-guided-technique-botulinum]] — RCT (BMC Oral Health 2025, n=20): TMJ 정복성 disc 변위 — 3D 가이드 LPM BoNT 주사 vs EMG 유도; 동등하나 LPM 압통 감소 3·6개월 더 큼
+- [[botulinum-toxin/bae-2025-ultrasonographic-assessment-lateral-pterygoid-muscle]] — Cross-sectional anatomy (Clin Anat 2025, 60명/120 hemiface, Yonsei): LPM 피부-근육 깊이 ~31 mm, 하악절흔 접근점 이주 전방 39.6mm·하방 7.8mm 정량
+- [[botulinum-toxin/soris-2021-botulinum-toxin-a-treatment-excessive-gingival]] — Prospective (J Maxillofac Oral Surg 2021, n=15): Yonsei triangle BTX-A 4U/side, gingival display 3.5±1 mm↓, 1-2개월 peak(-4mm), 4개월 유지·6개월 반전, 만족도 94%
+- [[botulinum-toxin/mate-2021-clinical-electromyographic-evaluation-botulinum-toxin]] — Prospective (JODDD 2021, n=10): 1.25 U/site BTX-A → gingival display 6.20→3.30mm(p<0.001), C-MAP 254.7→114.8 µV — EMG로 muscle blockade 객관확인 최초
+- [[botulinum-toxin/rojo-sanchis-2023-non-surgical-management-gingival-smile]] — SR+MA (J Clin Med 2023, 15 prospective + 1 retrospective, 11편 meta): BTX-A 2주 -3.22mm, 3개월 -2.70mm; 1.25-7.5 U/side dose-response NS(p=0.78)
+- [[botulinum-toxin/fatani-2023-approach-gummy-smile-treatment-botulinum]] — Narrative review (Cureus 2023, 28편): muscular gummy smile BTX-A 2.0-2.5 IU/region, onset 1-2주, 지속 4-6개월; Yonsei point + 4-point 기법 표준
+- [[botulinum-toxin/adel-2023-longevity-efficacy-neurotoxin-injection-lip]] — Experimental (PRS GO 2023, n=10): IncoBoNT-A + lip repositioning + 반복 BTX 2/4/8개월 — gingival display 5.12→0mm 유지, 12개월 0.78mm minimal relapse
+- [[botulinum-toxin/deng-2023-osseointegration-titanium-implants-botox-induced]] — Animal (Biomimetics 2023, rat femur): botox 유발 근마비 → trabecular/cortical bone 손상 + smooth PT 임플란트 osseointegration 망가짐; SLAnano + sema3A 국소 hydrogel BIC 회복
 
 ## 우식 (Caries)
 - [[caries/xie-2023-white-spot-lesion-therapies-sr-nma]] — SR+NMA (BMC Oral Health 2023, 28 RCTs): 백색 반점 병소(WSL) 치료 효과 순위 — 레진 침투(Resin Infiltration, RI) + 불소 복합이 심미 회복 1순위; 재광화 단독은 표면하 병소에 한계

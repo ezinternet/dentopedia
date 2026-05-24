@@ -3,7 +3,7 @@ title: "Treatment of recurrent aphthous stomatitis: a literature review"
 authors: Irene Belenguer-Guallar, Yolanda Jiménez-Soriano, Ana Claramunt-Lozano
 year: 2014
 date: 2014-01-01
-doi: 10.4317/jced
+doi: null
 source: belenguer-guallar-2014-recurrent-aphthous-stomatitis-review.md
 category: [oral-medicine]
 confidence: narrative-review

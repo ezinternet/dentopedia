@@ -37,8 +37,8 @@ PRISMA-NMA. Bayesian/frequentist NMA. Outcomes: angular deviation, coronal devia
 
 ## Related Papers
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — anterior maxillary IIP timing NMA
-- [[digital-workflow]] — 디지털 워크플로우 일반
+-  — 디지털 워크플로우 일반
 
 ## Sources
-- Source: [[sources/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]]
+- Source: 
 - PDF: `schiavon-2025-computer-assisted-immediate-implant-accuracy-nma.pdf`

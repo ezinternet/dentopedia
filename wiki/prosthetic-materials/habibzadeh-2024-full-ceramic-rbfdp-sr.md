@@ -53,6 +53,6 @@ SR of 14 studies (2010–2020 English) on full-ceramic resin-bonded fixed dental
 
 ## Related Papers
 - [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — resin cement selection criteria (relevant for RBFDP cementation)
-- [[prosthetic-materials/pjetursson-2026-metal-ceramic-allceramic-crowns-sr-ma]] — metal-ceramic vs all-ceramic crown survival
+- [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — metal-ceramic vs all-ceramic crown survival
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — ZLS ceramic properties
 - [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] — FRC vs zirconia cantilever IRFDP

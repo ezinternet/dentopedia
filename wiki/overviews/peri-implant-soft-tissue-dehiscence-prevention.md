@@ -4,9 +4,10 @@ authors: synthesis page (compiled by Claude from 11 wiki entries, ingested throu
 year: 2026
 date: 2026-05-22
 category: overviews
-confidence: claude-synthesis
+confidence: synthesis
 source_collection: internal
 tags: [overview, peri-implant, soft-tissue-dehiscence, PSTD, mucosal-recession, keratinized-tissue, CTG, ao-aap, claude-synthesis]
+source: synthesis
 ---
 
 ## 한줄요약

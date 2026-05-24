@@ -40,5 +40,5 @@ Thin biotype 또는 협측 골 결손 risk가 있는 IIP에서 CTG 동반이 mid
 - [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
 
 ## Sources
-- Source: [[sources/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
+- Source: 
 - PDF: `seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf`

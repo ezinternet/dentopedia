@@ -1,13 +1,13 @@
 ---
 title: "근관 접근와동 설계 결정 트리 — TEC vs MIA vs 유도 근관치료"
+authors: synthesis (llm-wiki)
+year: 2026
 category: [overviews]
 date: 2026-05-18
 tags: [access-cavity, TEC, MIA, guided-endodontics, PCO, static-navigation, dynamic-navigation, CBCT, overview]
-source_papers:
-  - endodontics/anatomy/kapetanaki-2021-access-cavity-designs-endodontic-review
-  - endodontics/anatomy/ribeiro-2022-guided-endodontics-static-dynamic-review
-  - endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping
-  - endodontics/anatomy/floratos-2017-intraoperative-cbct-calcified-canals
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

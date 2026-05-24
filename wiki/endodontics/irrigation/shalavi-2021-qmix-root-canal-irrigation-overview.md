@@ -3,7 +3,7 @@ title: "QMix as a Root Canal Irrigant: An Overview"
 authors: Sousan Shalavi, Saeed Asgary
 year: 2021
 date: 2021-01-01
-doi: IEJ-16-2-71
+doi: null
 source: shalavi-2021-qmix-root-canal-irrigation-overview.md
 category: [endodontics/irrigation]
 confidence: narrative-review

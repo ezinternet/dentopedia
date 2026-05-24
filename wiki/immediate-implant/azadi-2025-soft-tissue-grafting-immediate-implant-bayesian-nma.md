@@ -41,5 +41,5 @@ PubMed/Scopus/WoS search; only RCTs; Bayesian random-effect NMA; SUCRA ranking. 
 - [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A 심미부위 선택기준
 
 ## Sources
-- Source: [[sources/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
+- Source: 
 - PDF: `azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf`

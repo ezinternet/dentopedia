@@ -59,6 +59,6 @@ The German S3 clinical guideline (highest evidence level in the German AWMF syst
 - Highly translucent zirconia (4Y, 5Y-TZP): increased esthetics but reduced strength; long-term implant data lacking — use with caution
 
 ## Related Papers
-- [[prosthetic-materials/pjetursson-2026-metal-ceramic-allceramic-crowns-sr-ma]] — SR+MA on tooth-supported crown survival rates, material comparisons
+- [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA on tooth-supported crown survival rates, material comparisons
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — overview SR on zirconia restorations including implant-supported
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — monolithic zirconia vs metal-ceramic for implant crowns SR+MA

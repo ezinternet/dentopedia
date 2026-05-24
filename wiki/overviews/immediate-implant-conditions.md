@@ -1,34 +1,14 @@
 ---
 title: "즉시식립 (Immediate Implant Placement, Type-1) — 가능 조건·실패 위험인자·심미 결과 매트릭스"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-18
 type: overview
 category: [overviews]
 tags: [immediate-implant, type-1, immediate-placement, immediate-loading, buccal-bone, gap-filling, socket-shield, biotype, esthetic, PES, bundle-bone]
-source_papers:
-  - immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr
-  - immediate-implant/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma
-  - immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma
-  - immediate-implant/rondone-2024-tissue-grafts-immediate-implant-sr-ma
-  - immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma
-  - immediate-implant/ogawa-2022-socket-shield-technique-systematic-review
-  - immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct
-  - immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct
-  - immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct
-  - immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct
-  - immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic
-  - immediate-implant/kan-2003-immediate-placement-provisionalization-anterior
-  - immediate-implant/covani-2010-alveolar-ridge-remodelling-single-tooth
-  - immediate-implant/chen-2009-clinical-esthetic-outcomes-implants-postextraction
-  - immediate-implant/evans-2008-esthetic-outcomes-immediate-implant
-  - immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic
-  - immediate-implant/chappuis-2017-dimensional-bone-soft-tissue-post-extraction
-  - immediate-implant/thoma-2026-timing-dental-implant-placement-past
-  - immediate-implant/heimes-2025-immediate-implant-full-arch-rehabilitation
-  - immediate-implant/peitsinis-2025-implant-placement-timing-loading-protocols
-  - immediate-implant/lee-2021-immediate-implant-placement-in-fresh
-  - immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog
-  - immediate-implant/botticelli-2004-immediate-implant-hard-tissue
-  - immediate-implant/kim-2016-immediately-placed-implant-without-primary
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

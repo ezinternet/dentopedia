@@ -3,7 +3,7 @@ title: "Malignant transformation of oral lichen planus"
 authors: Chiang, et al.
 year: 2021
 date: 2021-07-01
-doi: 10.4317/jced
+doi: null
 source: chiang-2021-lichen-planus-malignant-transformation-review.md
 category: [oral-medicine]
 confidence: narrative-review

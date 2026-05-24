@@ -42,4 +42,4 @@ Systematic review of 16 studies covering 2,176 관상절제술 (coronectomy, int
 ## Related Papers
 - [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — SR+MA: root migrates ~2mm/2yr, less IAN injury vs extraction
 - [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN injury risk factors review
-- [[oral-surgery/li-2022-inferior-alveolar-nerve-position-injury-sr-ma]] — IAC lingual position OR 4.96 for IAN injury
+- ~~(미ingest) li-2022-inferior-alveolar-nerve-position-injury-sr-ma~~ — IAC lingual position OR 4.96 for IAN injury

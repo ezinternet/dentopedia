@@ -47,6 +47,6 @@ SR of 6 in vitro studies on bond strength of additively manufactured (AM) crown 
 - Avoid skipping pretreatment — bond is not "automatic" with AM materials
 
 ## Related Papers
-- [[prosthetic-materials/lim-2023-milled-vs-3d-printed-inlays-accuracy]] — milled vs 3D-printed inlay accuracy
-- [[resin-bonding/el-shazly-2026-3d-printed-hybrid-plasma-bonding]] — 3D-printed hybrid plasma bonding
+- [[inlay/lim-2023-milled-vs-3d-printed-inlays-accuracy]] — milled vs 3D-printed inlay accuracy
+- [[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]] — 3D-printed hybrid plasma bonding
 - [[resin-bonding/hardan-2021-universal-adhesive-dentin-bond-sr-ma]] — universal adhesive bond strength MA

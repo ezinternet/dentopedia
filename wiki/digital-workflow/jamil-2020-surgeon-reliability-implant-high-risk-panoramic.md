@@ -50,5 +50,5 @@ tags: [panoramic, cbct, implant-planning, IAN, paresthesia, posterior-mandible]
 
 ## Related Papers
 - [[sinus-lift/lateral/ananda-2015-anatomical-considerations-first-maxillary-molar]] — 동일한 후방 상악 region 의 anatomic constraints
-- [[sinus-lift/lateral/padhye-2020-quantitative-edentulous-posterior-maxilla]] — 후방 상악 quantitative anatomy
+- [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — 후방 상악 quantitative anatomy
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — 후방 상악 immediate implant CBCT planning

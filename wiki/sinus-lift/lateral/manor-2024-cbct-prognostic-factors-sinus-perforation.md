@@ -47,4 +47,4 @@ Tel Aviv University 의 후향적 CBCT case-control 연구. 측방창 접근 sin
 - [[sinus-lift/lateral/turker-2026-maxillary-sinus-septa-perforation-risk]] — septa-perforation risk modeling
 - [[sinus-lift/lateral/monje-2016-sinus-membrane-perforation-reamer-drilling]] — drilling 방식과 perforation 률
 - [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]] — SM thickness CBCT 측정
-- [[sinus-lift/lateral/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — sinus 3D CBCT 평가
+- [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — sinus 3D CBCT 평가

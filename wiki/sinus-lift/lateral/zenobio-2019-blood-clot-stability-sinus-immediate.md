@@ -45,6 +45,6 @@ A controlled clinical pilot study in 10 patients tested whether the "tent-pole" 
 - Sample is small; long-term prosthetic data not provided.
 
 ## Related Papers
-- [[sinus-lift/lateral/lundgren-2004-graftless-lateral-sinus-lift]] — original graftless concept
+- ~~(미ingest) lundgren-2004-graftless-lateral-sinus-lift~~ — original graftless concept
 - [[sinus-lift/lateral/wen-2023-lateral-sinus-floor-defects-retrospective]] — long-term LSFE outcomes
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — immediate implant biology

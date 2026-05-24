@@ -42,5 +42,5 @@ Systematic search per AO/AAP standards. 221 eligible studies included. Mixed-eff
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline
 
 ## Sources
-- Source: [[sources/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
+- Source: 
 - PDF: `tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf`

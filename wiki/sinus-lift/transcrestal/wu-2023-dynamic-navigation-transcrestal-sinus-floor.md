@@ -38,6 +38,6 @@ This **retrospective pilot accuracy study** from Peking University Hospital of S
 
 ## Related Papers
 - [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]] — context on minimal-invasiveness rationale of TSFE.
-- [[sinus-lift/transcrestal/liu-2019-immediate-implant-transalveolar-sinus-elevation]] — combined immediate implant + transalveolar sinus elevation.
+- [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]] — combined immediate implant + transalveolar sinus elevation.
 - [[sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation]] — transcrestal/trans-socket sinus elevation method paper.
 - [[sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant]] — endoscopic confirmation approach to membrane integrity.

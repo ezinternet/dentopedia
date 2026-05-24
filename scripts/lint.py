@@ -34,6 +34,7 @@ VALID_CONFIDENCE = {
     "sr+ma", "sr", "rct", "prospective", "retrospective",
     "cross-sectional", "case-report", "in-vivo", "animal",
     "in-vitro", "narrative-review", "consensus",
+    "synthesis",  # internal multi-paper synthesis pages (no source PDF)
 }
 
 
@@ -71,18 +72,26 @@ def lint_file(path: str) -> list[str]:
         if conf not in VALID_CONFIDENCE:
             errors.append(f"INVALID confidence '{conf}': {path}")
 
-    # Check pdf_path contains the right base dir
-    if "pdf_path" in fields:
-        if not fields["pdf_path"].startswith("/Users/oracleneo/llm-wiki/papers/"):
+    # synthesis pages (internal, no source PDF) skip pdf_path/pdf_filename checks
+    is_synthesis = fields.get("confidence", "").strip("\"'") == "synthesis"
+
+    # Check pdf_path contains the right base dir (synthesis pages may have null)
+    if "pdf_path" in fields and not is_synthesis:
+        if fields["pdf_path"] in ("null", "None", ""):
+            errors.append(f"EMPTY pdf_path (only allowed for confidence=synthesis): {path}")
+        elif not fields["pdf_path"].startswith("/Users/oracleneo/llm-wiki/papers/"):
             errors.append(f"BAD pdf_path (must be inside /papers/): {path}")
 
     # Check pdf_filename matches basename of pdf_path
-    if "pdf_path" in fields and "pdf_filename" in fields:
-        expected_basename = os.path.basename(fields["pdf_path"])
-        if fields["pdf_filename"] != expected_basename:
-            errors.append(
-                f"pdf_filename mismatch (path={expected_basename}, filename={fields['pdf_filename']}): {path}"
-            )
+    if "pdf_path" in fields and "pdf_filename" in fields and not is_synthesis:
+        if fields["pdf_path"] in ("null", "None", ""):
+            pass  # already errored above (or allowed for synthesis)
+        else:
+            expected_basename = os.path.basename(fields["pdf_path"])
+            if fields["pdf_filename"] != expected_basename:
+                errors.append(
+                    f"pdf_filename mismatch (path={expected_basename}, filename={fields['pdf_filename']}): {path}"
+                )
 
     return errors
 

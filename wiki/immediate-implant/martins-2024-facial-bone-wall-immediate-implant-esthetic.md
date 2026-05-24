@@ -40,5 +40,5 @@ PRISMA. 12 included. ROBINS-I/Modified Cochrane RoB assessment. Qualitative synt
 - [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG로 facial wall risk 보완
 
 ## Sources
-- Source: [[sources/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
+- Source: 
 - PDF: `martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf`

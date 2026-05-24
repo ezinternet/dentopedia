@@ -38,5 +38,5 @@ RCT (n=31): 즉시식립 시 customized healing abutment (CHA) vs PTFE 차폐막
 - [[immediate-implant/elgendi-2025-peri-implant-soft-tissue-conditioning]] — 구치부 CAD-CAM SSA RCT — 같은 컨셉
 
 ## Sources
-- Source: [[sources/dutra-2025-customized-healing-abutments-immediate-implants]]
+- Source: 
 - PDF: `dutra-2025-customized-healing-abutments-immediate-implants.pdf`

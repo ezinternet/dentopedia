@@ -37,5 +37,5 @@ PRISMA. RCT only inclusion. Random-effects MA on midfacial mucosal level, second
 - [[immediate-implant/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] — soft tissue PES SR+MA
 
 ## Sources
-- Source: [[sources/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]]
+- Source: 
 - PDF: `qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma.pdf`

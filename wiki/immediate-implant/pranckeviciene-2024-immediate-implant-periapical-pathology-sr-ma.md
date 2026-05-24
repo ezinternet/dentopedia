@@ -37,5 +37,5 @@ PRISMA. PubMed/Cochrane/Embase etc. Risk of bias assessed. Random-effects meta-a
 - [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — endodontic infection이 selection criteria에 미치는 영향
 
 ## Sources
-- Source: [[sources/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
+- Source: 
 - PDF: `pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma.pdf`

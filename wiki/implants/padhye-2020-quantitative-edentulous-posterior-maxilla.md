@@ -45,7 +45,7 @@ Retrospective CBCT analysis quantifying the residual alveolar ridge in 349 edent
 - **Conclusion**: a high fraction of edentulous posterior maxillary sites require augmentative procedures (sinus elevation, GBR, or both) for standard implant placement. Pre-implant CBCT should be considered the default, not optional.
 
 ## Related Papers
-- [[sinus-lift/lateral/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 3D CBCT evaluation of maxillary sinus.
+- [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 3D CBCT evaluation of maxillary sinus.
 - [[sinus-lift/lateral/lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation]] — inferior maxillary sinus 3D CBCT evaluation.
 - [[sinus-lift/lateral/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss]] — sinus pneumatization following tooth loss.
 - [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]] — sinus membrane thickness in edentulous regions.

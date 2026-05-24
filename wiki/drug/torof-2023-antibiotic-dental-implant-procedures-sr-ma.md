@@ -39,7 +39,7 @@ PRISMA-P-compliant SR+MA; PROSPERO registered; RCTs of antibiotic use in dental 
 For Korean dental practice — single preoperative amoxicillin 2g 1 hour before implant placement is the well-supported default. Routine postoperative 5-7 day antibiotic courses are not evidence-based and should be reserved for specific indications (complex grafting, immunocompromised, infected site management).
 
 ## Related Papers
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — prophylaxis review.
+- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis review.
 - [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
 - [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship.
 - [[drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — Japanese MRONJ prevention amoxicillin minimization.

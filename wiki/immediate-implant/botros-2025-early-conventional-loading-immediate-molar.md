@@ -36,8 +36,8 @@ Non-invasive quantitative ISQ (RFA, DCA) at multiple time points. 6-week (G1, n=
 
 ## Related Papers
 - [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate loading evidence
-- [[immediate-implant/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific loading protocols SR
+- [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific loading protocols SR
 
 ## Sources
-- Source: [[sources/botros-2025-early-conventional-loading-immediate-molar]]
+- Source: 
 - PDF: `botros-2025-early-conventional-loading-immediate-molar.pdf`

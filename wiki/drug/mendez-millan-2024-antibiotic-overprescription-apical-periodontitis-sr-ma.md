@@ -40,8 +40,8 @@ SR+MA of cross-sectional/prescribing studies of dentists' antibiotic choice in A
 For Korean dental practice: when treating symptomatic AP (or chronic AP requiring retreatment), the first-line intervention is *endodontic management* — pulp removal, irrigation, intra-canal medication, root canal obturation, or apical surgery as appropriate. Antibiotics indicated only for systemic involvement (fever, cellulitis, lymphadenopathy, swelling threatening airway, immunocompromised host) per ESE 2018 / AAE 2017 positions.
 
 ## Related Papers
-- [[endodontics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
+- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
 - [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — Italian prescribing patterns.
 - [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — implementation best practices.
 - [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcomes.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — prophylaxis review.
+- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis review.

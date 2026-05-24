@@ -40,4 +40,4 @@ National prescription claims data 2014-2023; class breakdown, prescriber demogra
 - [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — Italian survey.
 - [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcome set.
 - [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — Croatian companion review on prophylaxis.
+- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — Croatian companion review on prophylaxis.

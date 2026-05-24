@@ -1,28 +1,14 @@
 ---
 title: "임플란트 표면처리 비교 — SLA·CA·UV 광기능화·골밀도화 매트릭스"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-18
 type: overview
 category: [overviews]
 tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapatite, hydrophilic, biological-aging, osseointegration, bone-to-implant-contact, BIC, surface-topography]
-source_papers:
-  - implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading
-  - implants/surface/kim-2020-sa-implant-acid-etched-alumina-long-term
-  - implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term
-  - implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year
-  - implants/surface/park-2025-uv-photofunctionalization-osseointegration-soft-tissue
-  - implants/surface/ogawa-2025-3d-theory-osseointegration-material-topography
-  - implants/surface/smeets-2016-implant-surface-modifications-osseointegration
-  - implants/surface/abu-alfaraj-2023-osseointegration-strategies-implantology-review
-  - implants/surface/dorigatti-de-avila-2015-uv-photofunctionalization-bacterial-biofilm
-  - implants/surface/hasegawa-2020-meso-micro-nano-rough-titanium-surface
-  - implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium
-  - implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging
-  - implants/surface/minamikawa-2016-long-term-degradation-titanium-biological
-  - implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant
-  - implants/surface/attik-2022-comparison-of-biological-behavior-and
-  - implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability
-  - implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading
-  - implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

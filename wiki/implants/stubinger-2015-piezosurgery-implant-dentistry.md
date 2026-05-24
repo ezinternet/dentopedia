@@ -44,4 +44,4 @@ The reference clinical narrative for piezo in implant dentistry. Its claims of "
 - [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — piezo vs 전통 drilling SR (pain ↓, heat ↑)
 - [[implants/aquilanti-2023-heat-generation-initial-osteotomy]] — piezo 발열 in vitro 정량
 - [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — 5 방법 histological 비교
-- [[sinus-lift/lateral|sinus-lift/lateral]] — sinus elevation 카테고리
+- ~~(미ingest) sinus-lift/lateral~~ — sinus elevation 카테고리

@@ -1,32 +1,14 @@
 ---
 title: "상악동거상술 (Sinus Lift) 술식 선택 — 잔존골 높이별 알고리듬과 위험인자 매트릭스"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-18
 type: overview
 category: [overviews]
 tags: [sinus-lift, lateral-window, transcrestal, RBH, residual-bone-height, osseodensification, membrane-perforation, schneiderian, graft-material]
-source_papers:
-  - sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift
-  - sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk
-  - sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus
-  - sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window
-  - sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
-  - sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus
-  - sinus-lift/lateral/del-fabbro-2025-sinus-augmentation-materials-lateral-approach
-  - sinus-lift/transcrestal/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation
-  - sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review
-  - sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus
-  - sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation
-  - sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift
-  - sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus
-  - sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique
-  - sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities
-  - sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation
-  - sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review
-  - sinus-lift/lateral/scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation
-  - sinus-lift/transcrestal/gaspar-osseodensification-crestal-sinus-narrative-review
-  - sinus-lift/lateral/lim-2026-reentry-sinus-elevation-membrane-perforation
-  - sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus
-  - sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

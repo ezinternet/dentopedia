@@ -37,7 +37,7 @@ Narrative review combining ID and dental stewardship literature with implementat
 
 ## Related Papers
 - [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — outcome set.
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — prophylaxis.
+- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — prophylaxis.
 - [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — habits baseline.
 - [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — trends.
 - [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — Swedish adherence.

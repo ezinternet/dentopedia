@@ -79,7 +79,7 @@ Narrative clinical review — no systematic search, no quantitative synthesis. A
 - **Zhu 2020 / Saini 2024 BTX-A meta-analyses** — quantify BTX-A effect on myofascial pain (pain reduction yes, MMO improvement minimal).
 - **IJOMS 2023 SR+MA on arthrocentesis** — quantifies arthrocentesis MMO improvement at +1.12 mm.
 
-Where this paper is most useful today: the *bedside exam protocol* (end-feel, opening path, loading test, palpation of cervical referred pain sources) and the *trigger point injection technique*. Where it should be cross-checked: any specific treatment recommendation should be re-validated against the post-2014 evidence base ([[overviews/tmd-clinical-pathway-2025]] if/when written).
+Where this paper is most useful today: the *bedside exam protocol* (end-feel, opening path, loading test, palpation of cervical referred pain sources) and the *trigger point injection technique*. Where it should be cross-checked: any specific treatment recommendation should be re-validated against the post-2014 evidence base (~~(미ingest) tmd-clinical-pathway-2025~~ if/when written).
 
 ## Related Papers
 

@@ -46,5 +46,5 @@ Retrospective CBCT review of 427 maxillary molar sites (223 patients). Measured 
 
 ## Related Papers
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — socket healing biology underpinning IMI.
-- [[implants/jamil-2020-surgeon-reliability-implant-high-risk-panoramic]] — radiographic risk assessment for posterior implants.
+- [[digital-workflow/jamil-2020-surgeon-reliability-implant-high-risk-panoramic]] — radiographic risk assessment for posterior implants.
 - [[sinus-lift/transcrestal/wu-2023-dynamic-navigation-transcrestal-sinus-floor]] — transcrestal sinus elevation when FSD limited.

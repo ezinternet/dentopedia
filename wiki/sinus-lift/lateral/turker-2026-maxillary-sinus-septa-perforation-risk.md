@@ -52,7 +52,7 @@ Retrospective CBCT study of 300 individuals characterizing maxillary sinus septa
 - [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] — meta-analysis of sinus septa and lateral wall thickness as perforation risk factors.
 - [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] — CBCT prognostic factors for sinus perforation.
 - [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]] — membrane thickness in edentulous regions (related risk axis).
-- [[sinus-lift/lateral/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 3D CBCT evaluation of maxillary sinus.
+- [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — 3D CBCT evaluation of maxillary sinus.
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — quantifies lateral SES as the highest-OR intraoperative complication driver.
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — population-level CBCT context (high augmentation need in posterior maxilla).
 - [[sinus-lift/lateral/malzoni-2021-lprf-schneiderian-membrane-large-perforations]] — repair strategy when predicted-high-risk cases actually perforate.

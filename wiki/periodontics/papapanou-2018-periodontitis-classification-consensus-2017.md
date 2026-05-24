@@ -32,4 +32,4 @@ New classification replaces 1999 system. Stage IV: tooth loss attributable to pe
 
 ## Related Papers
 - [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — related
-- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane]] — related
+- [[periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr]] — related

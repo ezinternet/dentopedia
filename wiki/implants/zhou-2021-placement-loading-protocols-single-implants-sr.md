@@ -42,5 +42,5 @@ ITI Group 2 (Hamilton/Gallucci/Buser/Chen)의 site-specific placement·loading �
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — anterior maxillary NMA
 
 ## Sources
-- Source: [[sources/zhou-2021-placement-loading-protocols-single-implants-sr]]
+- Source: 
 - PDF: `zhou-2021-placement-loading-protocols-single-implants-sr.pdf`

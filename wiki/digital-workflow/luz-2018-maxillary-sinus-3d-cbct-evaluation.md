@@ -45,4 +45,4 @@ This 2018 University of Zurich CBCT study used the SMOP implant-planning softwar
 - [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]] — Companion question: what predicts mucosal thickness on CBCT.
 - [[sinus-lift/lateral/lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation]] — Inferior sinus floor 3D evaluation by CBCT.
 - [[sinus-lift/lateral/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss]] — Pneumatization after tooth loss.
-- [[sinus-lift/lateral/padhye-2020-quantitative-edentulous-posterior-maxilla]] — Quantitative CBCT of edentulous posterior maxilla.
+- [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — Quantitative CBCT of edentulous posterior maxilla.

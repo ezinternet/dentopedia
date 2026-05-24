@@ -2,7 +2,7 @@
 title: "Smear Layer Removing Ability of Root Canal Irrigants: A Literature Review"
 authors: Zahed Mohammadi, Sousan Shalavi, Latif Barghi, Hamid Jafarzadeh
 year: 2019
-doi: PMID:31204334
+doi: null
 category: [endodontics/irrigation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-2019-smear-layer-irrigants-review.pdf
 pdf_filename: mohammadi-2019-smear-layer-irrigants-review.pdf

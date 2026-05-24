@@ -3,7 +3,7 @@ title: "Does Irrigating While Drilling Decrease Bone Damage?"
 authors: Justin C. Woods, James L. Cook, Chantelle C. Bozynski, Jason D. Tegethoff, Keiichi Kuroki, Brett D. Crist
 year: 2022
 date: 2022-07-01
-doi: PMID:35821907
+doi: null
 source: woods-2022-does-irrigating-while-drilling-decrease.md
 category: [implants, oral-surgery]
 confidence: in-vivo

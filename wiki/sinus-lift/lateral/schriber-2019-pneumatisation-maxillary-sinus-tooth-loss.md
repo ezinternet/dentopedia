@@ -38,7 +38,7 @@ A retrospective CBCT volumetric study of **100 posterior maxillae (50 dentate + 
 - Clinical reframing: posterior vertical bone loss = crestal resorption, not sinus expansion.
 
 ## Related Papers
-- [[sinus-lift/lateral/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — companion CBCT volumetric analysis of maxillary sinus.
+- [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — companion CBCT volumetric analysis of maxillary sinus.
 - [[sinus-lift/lateral/lee-2020-cbct-inferior-maxillary-sinus-3d-evaluation]] — 3D CBCT analysis of inferior sinus region.
-- [[sinus-lift/lateral/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative anatomy of the edentulous posterior maxilla.
+- [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative anatomy of the edentulous posterior maxilla.
 - [[sinus-lift/lateral/munakata-2021-sinus-membrane-thickness-edentulous-cbct]] — sinus membrane thickness in edentulous regions.

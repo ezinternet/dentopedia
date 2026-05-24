@@ -34,4 +34,4 @@ Literature review of 59 in vitro/ex vivo studies evaluating Er:YAG 레이저 활
 - No in vivo studies available; protocols highly variable across studies
 
 ## Related Papers
-- [[endodontics/irrigation]] — broader irrigation activation literature (PUI, ANP, sonic)
+-  — broader irrigation activation literature (PUI, ANP, sonic)

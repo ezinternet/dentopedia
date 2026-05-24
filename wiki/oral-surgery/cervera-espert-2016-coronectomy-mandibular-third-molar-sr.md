@@ -39,4 +39,4 @@ Systematic review and meta-analysis of 12 studies evaluating 관상절제술 (co
 ## Related Papers
 - [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — SR 2176 coronectomies, IAN 0.59%
 - [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — IAN injury risk factors
-- [[oral-surgery/li-2022-inferior-alveolar-nerve-position-injury-sr-ma]] — IAC lingual position OR 4.96
+- ~~(미ingest) li-2022-inferior-alveolar-nerve-position-injury-sr-ma~~ — IAC lingual position OR 4.96

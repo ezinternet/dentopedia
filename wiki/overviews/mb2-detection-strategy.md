@@ -1,14 +1,13 @@
 ---
 title: "상악 대구치 MB2 탐지 전략 지도 — 인구집단별 유병률 × 탐지 기법 매트릭스"
+authors: synthesis (llm-wiki)
+year: 2026
 category: [overviews]
 date: 2026-05-18
 tags: [MB2, maxillary-molar, CBCT, DOM, ultrasonic, prevalence, canal-detection, overview]
-source_papers:
-  - endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr
-  - endodontics/anatomy/hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr
-  - endodontics/anatomy/sujith-2014-microscope-ultrasonic-mb2-detection-vivo
-  - endodontics/anatomy/camacho-aparicio-2022-dom-ultrasonic-mb2-maxillary-molar
-  - endodontics/anatomy/mohammadi-2016-methods-decrease-missed-root-canals
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

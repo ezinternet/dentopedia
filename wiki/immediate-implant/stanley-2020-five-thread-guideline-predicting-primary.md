@@ -41,7 +41,7 @@ This case letter introduces the Five Thread Guideline (5-TG), recommending that 
 - No complications reported in any case
 
 ## Related Papers
-- [[implants/allurkar-2025-implant-stability-residual-bone-macrodesign]] — implant macrodesign and primary stability factors
-- [[implants/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — ISQ and insertion torque in extraction sockets
+- [[sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign]] — implant macrodesign and primary stability factors
+- [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — ISQ and insertion torque in extraction sockets
 - [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — immediate implant outcomes systematic review
 - [[immediate-implant/lee-2021-immediate-implant-placement-in-fresh]] — immediate implant in fresh sockets

@@ -38,5 +38,5 @@ SST는 이론상 협측 골 보존에 유리하나 합병증과 술자 의존도
 - [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — SST + xenograft RCT
 
 ## Sources
-- Source: [[sources/lin-2022-socket-shield-technique-systematic-review-meta]]
+- Source: 
 - PDF: `lin-2022-socket-shield-technique-systematic-review-meta.pdf`

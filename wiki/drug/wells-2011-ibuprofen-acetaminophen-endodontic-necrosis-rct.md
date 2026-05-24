@@ -42,6 +42,6 @@ For Korean endodontic emergency practice: combination ibuprofen + APAP is the pr
 ## Related Papers
 - [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — NNT framework.
 - [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — ibuprofen vs diclofenac.
-- [[endodontics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
+- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain.
 - [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — endodontic NMA.
 - [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — dosing pattern RCT.

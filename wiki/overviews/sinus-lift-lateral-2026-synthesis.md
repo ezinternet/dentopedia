@@ -4,9 +4,10 @@ authors: synthesis page (compiled by Claude from 20 wiki entries ingested 2026-0
 year: 2026
 date: 2026-05-20
 category: overviews
-confidence: claude-synthesis
+confidence: synthesis
 source_collection: internal
 tags: [overview, sinus-lift, lateral-window, schneiderian-membrane, perforation, prf, cbct, septa]
+source: synthesis
 ---
 
 ## 한줄요약

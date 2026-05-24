@@ -44,6 +44,6 @@ Korean retrospective 3-D CBCT study (n=60, ages 20s, healthy non-missing dentiti
 - PNR angle measurement helps anticipate medial wall geometry during lateral window approach.
 
 ## Related Papers
-- [[sinus-lift/lateral/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — comparable 3-D CBCT anatomy.
-- [[sinus-lift/lateral/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative CBCT in edentulous maxilla.
+- [[digital-workflow/luz-2018-maxillary-sinus-3d-cbct-evaluation]] — comparable 3-D CBCT anatomy.
+- [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative CBCT in edentulous maxilla.
 - [[sinus-lift/lateral/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss]] — post-extraction pneumatization.

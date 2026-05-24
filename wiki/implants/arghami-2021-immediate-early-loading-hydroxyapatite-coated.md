@@ -40,5 +40,5 @@ Postgraduate Periodontics Clinic, LSU. Randomization to immediate vs early (3-we
 - [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate placement+loading evidence
 
 ## Sources
-- Source: [[sources/arghami-2021-immediate-early-loading-hydroxyapatite-coated]]
+- Source: 
 - PDF: `arghami-2021-immediate-early-loading-hydroxyapatite-coated.pdf`

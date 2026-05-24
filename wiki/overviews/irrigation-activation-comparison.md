@@ -1,21 +1,14 @@
 ---
 title: "근관세정 (Root Canal Irrigation) 활성화법 비교 — 수동·초음파·음파·음압 매트릭스"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-18
 type: overview
 category: [overviews]
 tags: [irrigation, activation, PUI, sonic, ANP, EndoVac, XPF, NaOCl, EDTA, QMix, smear-layer, working-length, root-canal]
-source_papers:
-  - endodontics/irrigation/kumar-2023-irrigant-activation-working-length-sr-meta-analysis
-  - endodontics/irrigation/orozco-gallego-2025-irrigation-protocols-endodontic-umbrella
-  - endodontics/irrigation/paixao-2022-sonic-ultrasonic-activation-sr-ma
-  - endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma
-  - endodontics/irrigation/zhou-2021-xpf-pui-medicament-removal-sr-ma
-  - endodontics/irrigation/tonini-2022-irrigating-solutions-activation-methods-sr
-  - endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr
-  - endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review
-  - endodontics/irrigation/mohammadi-2019-smear-layer-irrigants-review
-  - endodontics/irrigation/shalavi-2021-qmix-root-canal-irrigation-overview
-  - endodontics/irrigation/padmakumar-2022-irrigating-solutions-dentin-structure-ftir
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

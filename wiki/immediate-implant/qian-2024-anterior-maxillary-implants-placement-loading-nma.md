@@ -35,8 +35,8 @@ PRISMA-NMA. Bayesian/frequentist NMA framework. SUCRA ranking. Risk of bias.
 ## Related Papers
 - [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A selection criteria
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — Type 1A clinical performance
-- [[immediate-implant/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific timing SR
+- [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific timing SR
 
 ## Sources
-- Source: [[sources/qian-2024-anterior-maxillary-implants-placement-loading-nma]]
+- Source: 
 - PDF: `qian-2024-anterior-maxillary-implants-placement-loading-nma.pdf`

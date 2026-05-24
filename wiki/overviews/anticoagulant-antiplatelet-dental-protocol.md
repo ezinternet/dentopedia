@@ -1,13 +1,13 @@
 ---
 title: "항응고제·항혈소판제 복용 환자 치과 처치 프로토콜"
+authors: synthesis (llm-wiki)
+year: 2026
 category: [overviews]
 date: 2026-05-18
 tags: [anticoagulant, antiplatelet, VKA, DOAC, warfarin, tranexamic-acid, oral-surgery, dental-extraction, overview]
-source_papers:
-  - drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr
-  - drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr
-  - oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review
-  - drug/ufcd-2019-medically-complex-patients-management-guidelines
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

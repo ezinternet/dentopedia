@@ -37,5 +37,5 @@ Univ Med Center Groningen. Block randomization. CBCT for BBT at multiple time po
 - [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]] — facial bone wall esthetic risk SR
 
 ## Sources
-- Source: [[sources/meijer-2024-immediate-implant-bony-defect-10year-rct]]
+- Source: 
 - PDF: `meijer-2024-immediate-implant-bony-defect-10year-rct.pdf`

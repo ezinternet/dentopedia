@@ -43,6 +43,6 @@ This canine animal study compared peri-implant mucosal vascularity following fla
 - Clinical inflammation at 3 months: 0/12 flapless vs 5/12 flap implants
 
 ## Related Papers
-- [[implants/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — flapless immediate implant placement RCT, clinical outcomes
+- [[immediate-implant/paknejad-2017-flapless-immediate-implant-buccal-gap-rct]] — flapless immediate implant placement RCT, clinical outcomes
 - [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — immediate implant clinical evidence
 - [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — peri-implant tissue biology consensus

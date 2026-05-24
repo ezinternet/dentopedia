@@ -48,5 +48,5 @@ Ananda 2015는 말레이시아 단일 센터에서 동아시아인 (말레이 30
 ## Related Papers
 - [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]] — same anatomical region, decision tree for immediate molar implant
 - [[sinus-lift/lateral/manor-2024-cbct-prognostic-factors-sinus-perforation]] — CBCT predictors of SM perforation, complements anatomic risk profile
-- [[sinus-lift/lateral/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative posterior maxilla bone in edentulous sites
+- [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — quantitative posterior maxilla bone in edentulous sites
 - [[sinus-lift/lateral/schriber-2019-pneumatisation-maxillary-sinus-tooth-loss]] — pneumatization progression after tooth loss

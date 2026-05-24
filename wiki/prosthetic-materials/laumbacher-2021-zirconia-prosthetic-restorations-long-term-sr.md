@@ -58,5 +58,5 @@ An overview (summary) of 38 systematic reviews encompassing approximately 10,000
 **Masticatory system:** Impact of hard/wear-resistant zirconia on stomatognathic system unclear; bruxism patients understudied
 
 ## Related Papers
-- [[prosthetic-materials/pjetursson-2026-metal-ceramic-allceramic-crowns-sr-ma]] — SR+MA with material-specific survival data including monolithic designs
+- [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA with material-specific survival data including monolithic designs
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — clinical guideline on all-ceramic implant restorations

@@ -1,14 +1,13 @@
 ---
 title: "하악 제3대구치 발치 전 IAN 위험 평가 & 술식 선택 프로토콜"
+authors: synthesis (llm-wiki)
+year: 2026
 category: [overviews]
 date: 2026-05-18
 tags: [third-molar, IAN, coronectomy, CBCT, OPG, oral-surgery, overview]
-source_papers:
-  - oral-surgery/sarikov-2014-ian-injury-third-molar-review
-  - oral-surgery/li-2022-ian-position-nerve-injury-sr-ma
-  - oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr
-  - oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr
-  - oral-surgery/damico-2025-third-molar-surgical-indications-guidelines
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

@@ -38,5 +38,5 @@ Double-blind, randomized, stratified noninferiority trial. Two arms: (A) hydroco
 
 ## Related Papers
 - [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — NMA (82 RCTs) confirming ibuprofen±APAP as most effective for extraction pain
-- [[drug/watson-2022-ibuprofen-codeine-third-molar-sr-ma]] — SR+MA showing ibuprofen >> codeine combination for 3rd molar pain
+- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA showing ibuprofen >> codeine combination for 3rd molar pain
 - [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT comparing concurrent vs alternate ibuprofen+APAP dosing schedules

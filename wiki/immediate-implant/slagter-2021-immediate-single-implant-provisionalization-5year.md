@@ -38,5 +38,5 @@ Univ Med Center Groningen. Prospective comparison. CBCT for BBT at multiple time
 - [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — midfacial mucosa 중심 SR+MA
 
 ## Sources
-- Source: [[sources/slagter-2021-immediate-single-implant-provisionalization-5year]]
+- Source: 
 - PDF: `slagter-2021-immediate-single-implant-provisionalization-5year.pdf`

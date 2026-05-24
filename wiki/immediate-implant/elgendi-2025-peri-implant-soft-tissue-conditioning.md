@@ -37,5 +37,5 @@ Cairo Univ. RCT, CAD-CAM SSA designed pre-surgery from CBCT + scan and milled ch
 - [[digital-workflow/schiavon-2025-computer-assisted-immediate-implant-accuracy-nma]] — computer-assisted IIP accuracy NMA
 
 ## Sources
-- Source: [[sources/elgendi-2025-peri-implant-soft-tissue-conditioning]]
+- Source: 
 - PDF: `elgendi-2025-peri-implant-soft-tissue-conditioning.pdf`

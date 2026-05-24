@@ -1,18 +1,14 @@
 ---
 title: "Sinus Lift ISQ Trajectory and Loading Timing: Evidence Synthesis"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-13
 type: overview
 category: [overviews]
 tags: [ISQ, sinus-lift, loading-timing, RBH, two-stage, TSFE, stability-dip, osseodensification]
-source_papers:
-  - sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus
-  - sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift
-  - sinus-lift/lateral/allurkar-2025-implant-stability-residual-bone-macrodesign
-  - sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus
-  - sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
-  - implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis
-  - implants/isq/oh-2008-comparison-of-initial-implant-stability
-  - sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

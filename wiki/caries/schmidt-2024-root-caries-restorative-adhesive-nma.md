@@ -57,6 +57,6 @@ PDF is the ScienceDirect web export (abstract + intro, 7 pages). Full text is pa
 
 ## Related Papers
 - [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — GIC vs amalgam vs composite for secondary caries (broader)
-- [[dental-materials/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]] — posterior composite longevity SR
-- [[dental-materials/worthington-2021-composite-vs-amalgam-cochrane-sr]] — composite vs amalgam Cochrane
+- [[resin/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]] — posterior composite longevity SR
+- [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] — composite vs amalgam Cochrane
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — amalgam vs composite big data

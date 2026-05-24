@@ -49,7 +49,7 @@ SR+MA stratified by patient IE risk category; includes observational studies giv
 For Korean dental practice: continue prophylaxis only in patients with the AHA high-risk categories (prosthetic valve including TAVI/TAVR, prior IE, congenital cyanotic heart disease, residual defects after CHD repair, valvulopathy after heart transplant). For all other cardiac patients — including mitral valve prolapse without regurgitation, repaired CHD without residual, prior CABG — no routine prophylaxis indicated.
 
 ## Related Papers
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures-review]] — dental antibiotic prophylaxis review.
+- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — dental antibiotic prophylaxis review.
 - [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship core outcomes.
 - [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — best practices implementation.
 - [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — extraction-specific.

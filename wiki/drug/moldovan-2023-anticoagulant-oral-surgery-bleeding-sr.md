@@ -35,4 +35,4 @@ Systematic review of 7 studies evaluating 항응고제 (anticoagulant) managemen
 | Continuous vs bridging | None significant | None significant |
 
 ## Related Papers
-- [[drug/dinkova-2025-local-hemostasis-oral-surgery-review]] — local hemostatic agents for bleeding control
+- [[oral-surgery/dinkova-2025-local-hemostasis-oral-surgery-review]] — local hemostatic agents for bleeding control

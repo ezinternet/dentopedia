@@ -48,6 +48,6 @@ For Korean endodontic practice: as alternative NSAID for ibuprofen-inadequate re
 ## Related Papers
 - [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — necrosis pain (ibuprofen ± APAP) RCT.
 - [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — dental NMA.
-- [[endodontics/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain overview.
+- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — endodontic pain overview.
 - [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — NSAIDs endodontic postoperative NMA.
 - [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Cochrane overview.

@@ -38,6 +38,6 @@ PRISMA-NMA-compliant search of Cochrane Library, PubMed, Embase, Scopus, and Web
 For the posterior maxilla with reduced residual ridge height, short implants (4–8 mm) are a defensible alternative to long implants with sinus elevation. Survival is comparable; MBL favors short implants; complication trends also favor short implants but did not reach significance.
 
 ## Related Papers
-- [[implants/esposito-2014-short-vs-long-implants]] — earlier Cochrane comparison
-- [[sinus-lift/lateral/pjetursson-2008-sinus-elevation-survival]] — sinus elevation survival baseline
+- ~~(미ingest) esposito-2014-short-vs-long-implants~~ — earlier Cochrane comparison
+- ~~(미ingest) pjetursson-2008-sinus-elevation-survival~~ — sinus elevation survival baseline
 - [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]] — alternative to lateral SFE

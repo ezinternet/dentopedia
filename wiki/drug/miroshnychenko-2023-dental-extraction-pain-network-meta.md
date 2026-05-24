@@ -42,5 +42,5 @@ Systematic review + frequentist NMA. Search: Medline, EMBASE, CENTRAL, US Clinic
 
 ## Related Papers
 - [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — largest confirmatory RCT (n=1,815) for NMA's top finding
-- [[drug/watson-2022-ibuprofen-codeine-third-molar-sr-ma]] — SR+MA: ibuprofen large effect vs A/C moderate effect
+- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA: ibuprofen large effect vs A/C moderate effect
 - [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — parallel NMA for endodontic (non-extraction) pain

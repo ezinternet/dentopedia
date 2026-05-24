@@ -41,5 +41,5 @@ IIPP 시 jump space CGF 강화 골이식재 사용 시 12개월 시점 hard-tiss
 - [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA
 
 ## Sources
-- Source: [[sources/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]]
+- Source: 
 - PDF: `bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf`

@@ -37,5 +37,5 @@ Flapless 즉시식립은 연조직 보존에 유리하지만 jump space ≥2 mm 
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] — flap vs flapless SR+MA — 동일 cosyn 그룹
 
 ## Sources
-- Source: [[sources/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]]
+- Source: 
 - PDF: `mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma.pdf`

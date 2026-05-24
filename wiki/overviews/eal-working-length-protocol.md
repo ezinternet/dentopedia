@@ -1,16 +1,14 @@
 ---
 title: "EAL 근관장 측정 프로토콜: 근거 기반 총정리"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-13
 type: overview
 category: [overviews]
 tags: [EAL, working-length, apex-locator, apical-constriction, RootZX, protocol]
-source_papers:
-  - endodontics/eal/ahn-2016-survey-working-length-determination
-  - endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy
-  - endodontics/eal/pisano-2024-eal-accuracy-modern-endodontics-umbrella
-  - endodontics/eal/mousavi-2018-apical-constriction-position-incisor-molar
-  - endodontics/eal/furlan-2024-apical-foramen-morphology-efl-accuracy
-  - endodontics/eal/shacham-2020-eal-wide-apical-foramen-ex-vivo
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약

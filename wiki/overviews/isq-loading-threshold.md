@@ -1,38 +1,14 @@
 ---
 title: "임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 부하 결정 임계값 — Confidence 등급별 매트릭스"
+authors: synthesis (llm-wiki)
+year: 2026
 date: 2026-05-18
 type: overview
 category: [overviews]
 tags: [ISQ, RFA, loading-threshold, primary-stability, secondary-stability, stability-dip, bone-quality, immediate-loading, early-loading]
-source_papers:
-  - implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma
-  - implants/rosa-2024-do-dental-implants-bone-types
-  - immediate-implant/rondone-2024-tissue-grafts-immediate-implant-sr-ma
-  - sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
-  - implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct
-  - implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading
-  - sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus
-  - implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year
-  - implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison
-  - implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability
-  - implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct
-  - implants/isq/lee-2011-isq-loading-protocol-prediction
-  - implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year
-  - sinus-lift/lateral/jelusic-2014-assessment-implant-stability-sinus-lift
-  - sinus-lift/lateral/ramirez-fernandez-2017-implant-stability-biological-hydroxyapatites-sinus
-  - sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique
-  - implants/isq/lages-2018-isq-insertion-torque-correlation-sr
-  - implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr
-  - implants/di-stefano-2021-stability-dental-implants-cortical-bone
-  - implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr
-  - immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr
-  - sinus-lift/transcrestal/decker-2024-clinical-radiographic-transcrestal-sinus-augmentation
-  - implants/isq/andersson-2019-rfa-factors-5year-neoss-survival
-  - implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket
-  - implants/isq/herrero-climent-2013-osstell-isq-reliability-icc
-  - implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis
-  - implants/isq/huang-2020-isq-clinical-significance-literature-review
-  - implants/isq/oh-2008-comparison-of-initial-implant-stability
+source_papers: 
+confidence: synthesis
+source: synthesis
 ---
 
 ## 한줄요약
