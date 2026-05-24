@@ -4,7 +4,7 @@ authors: Sung-woon Pyo
 year: 2026
 date: 2026-01-01
 doi: 10.22974/jkda.2026.64.4.004
-journal: J Korean Dent Assoc 2026; 64(4): 138-142
+journal: "J Korean Dent Assoc 2026; 64(4): 138-142"
 source: pyo-2026-drug-interactions-prescription-safety-elderly.md
 confidence: narrative-review
 category: drug
