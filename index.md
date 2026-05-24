@@ -922,3 +922,30 @@ Format: `category/stem` — one-line description
 ### oral-surgery (added 2026-05-24, batch b)
 
 - [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] — José-Luis Cebrian-Carretero 2014 · narrative-review · Predictable dental rehabilitation in maxillomandibular reconstruction with free flaps. The role of implant guided surgery
+
+
+<!-- BATCH INGEST 2026-05-24c: peri-implantitis + KDA implant policy + cracked tooth + stamp + insurance -->
+
+### endodontics (added 2026-05-24, batch c)
+
+- [[endodontics/kwak-2024-endodontic-treatment-cracked-tooth-management]] — Kwak Youngjun 2024 · narrative-review · Endodontic treatment in the management of cracked tooth
+
+### implants (added 2026-05-24, batch c)
+
+- [[implants/park-2024-dental-implant-utilization-nhis-korea]] — Hyang-Ah Park 2024 · retrospective · Analysis of the utilization rate of claimed dental implants and related factors
+- [[implants/yook-2025-single-implant-effects-antagonistic-adjacent-teeth]] — Young-Jin Yook 2025 · retrospective · Retrospective study on pathological effects of single implant-supported fixed prosthesis on antagonistic and adjacent teeth
+
+### periodontics (added 2026-05-24, batch c)
+
+- [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] — Maria Gabriella Grusovin 2022 · sr+ma · Antibiotics as Adjunctive Therapy in the Non-Surgical Treatment of Peri-Implantitis: A Systematic Review and Meta-Analysis
+- [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]] — Jae-Kook Cha et al. 2024 · narrative-review · Up-to-date treatment options for peri-implantitis and a treatment protocol with flowchart based on current evidence
+- [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — Yun-Jeong Kim 2024 · consensus · Current understanding of the etiology, diagnosis, treatment, and management of peri-implant diseases: a narrative review for the consensus report of the Korean Academy of Periodontology
+- [[periodontics/kim-2025-management-peri-implantitis-perspectives]] — Sangmin Kim 2025 · narrative-review · Current perspectives on the management of peri-implantitis (임플란트 주위염 치료의 최신 지견)
+
+### practice-management (added 2026-05-24, batch c)
+
+- [[practice-management/kim-2026-key-points-private-dental-insurance]] — Eui-Dong Kim 2026 · narrative-review · Key points on private dental insurance (치과 민간보험 핵심 정리)
+
+### resin (added 2026-05-24, batch c)
+
+- [[resin/kim-2026-stamp-technique-posterior-composite-resin]] — Min-Hae Kim 2026 · case-report · Stamp technique for posterior teeth composite resin restoration: Report of 2 cases
