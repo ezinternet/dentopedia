@@ -14,6 +14,11 @@ import re
 import sys
 import argparse
 
+try:
+    import yaml
+except ImportError:
+    yaml = None  # YAML parse check skipped if PyYAML not installed
+
 WIKI_DIR = "wiki"
 SKIP_DIRS = {"_lint", "overviews"}
 SKIP_FILES = {"index.md"}  # Quartz homepage, not a paper page
@@ -60,6 +65,17 @@ def lint_file(path: str) -> list[str]:
     fields = parse_frontmatter(content)
     if fields is None:
         return [f"NO FRONTMATTER: {path}"]
+
+    # YAML parse check — catches issues that break Quartz build
+    # (e.g., unquoted values with embedded ":" or other YAML specials)
+    if yaml is not None:
+        m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+        if m:
+            try:
+                yaml.safe_load(m.group(1))
+            except yaml.YAMLError as e:
+                first_line = str(e).splitlines()[0]
+                errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
 
     # Check required fields exist
     missing = [f for f in REQUIRED_FIELDS if f not in fields]
