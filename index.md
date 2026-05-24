@@ -899,3 +899,26 @@ Format: `category/stem` — one-line description
 
 - [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] — Ahmed Ziada 2025 · in-vitro · Influence of different customized abutment materials on stress distribution of different internal implant-abutment connections: finite element analysis
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]] — Wan Wan Chan 2026 · in-vitro · Comparative finite element analysis of stress distribution of different implant-supported crown and abutment materials
+
+
+<!-- BATCH INGEST 2026-05-24b: short implants + ARP + BMS + free-flap -->
+
+### bone-regeneration (added 2026-05-24, batch b)
+
+- [[bone-regeneration/che-2024-alveolar-ridge-preservation-review]] — Sung-Ah Che 2024 · narrative-review · Navigating Alveolar Ridge Preservation: Techniques, Materials, and Clinical Implications
+
+### drug (added 2026-05-24, batch b)
+
+- [[drug/lee-2024-burning-mouth-syndrome-clinical-treatment]] — Eunjin Lee 2024 · retrospective · A retrospective study on the clinical characteristics and treatment outcomes of patients with burning mouth syndrome
+
+### implants (added 2026-05-24, batch b)
+
+- [[implants/yu-2021-extra-short-vs-longer-implants-ma]] — Xiaoran Yu 2021 · sr+ma · A meta-analysis indicating extra-short implants (≤ 6 mm) as an alternative to longer implants (≥ 8 mm) with bone augmentation
+- [[implants/anitua-2022-short-vs-longer-implants-single-crown]] — Eduardo Anitua 2022 · retrospective · Single-crown restorations in premolar–molar regions: short (≤ 6.5) vs longer implants: retrospective cohort study
+- [[implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year]] — Carlo Barausse 2024 · retrospective · Four-mm-short implants in the rehabilitation of posterior atrophic jaws: A retrospective study on 212 patients with a mean follow-up of 8.02 years
+- [[implants/hockova-2025-short-implants-microvascular-free-flaps]] — Barbora Hocková 2025 · prospective · Quality of life of patients receiving short dental implants in microvascular free flaps: a five year prospective study
+- [[implants/sivolella-2025-extra-short-5-6mm-implants-5year]] — Stefano Sivolella et al. 2025 · retrospective · Extra-short (5–6 mm) implants under immediate loading: 5-year survival, MBL, and the impact of intermediate abutment use
+
+### oral-surgery (added 2026-05-24, batch b)
+
+- [[oral-surgery/cebrian-carretero-2014-free-flap-implant-guided-surgery]] — José-Luis Cebrian-Carretero 2014 · narrative-review · Predictable dental rehabilitation in maxillomandibular reconstruction with free flaps. The role of implant guided surgery
