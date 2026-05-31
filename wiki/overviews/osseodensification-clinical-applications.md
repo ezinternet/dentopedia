@@ -15,13 +15,24 @@ source_papers:
   - wiki/sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus.md
   - wiki/sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review.md
   - wiki/sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique.md
+  - wiki/implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.md
+  - wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary.md
+  - wiki/implants/neiva-2018-effects-osseodensification-astra-tx-ev.md
+  - wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
+  - wiki/implants/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.md
+  - wiki/implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation.md
+  - wiki/implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit.md
+  - wiki/implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw.md
+  - wiki/sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification.md
+  - wiki/sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation.md
+  - wiki/sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus.md
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 ---
 
 ## 한줄요약
-골밀도화 (Osseodensification, OD)는 반시계회전 (Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하여 4개 임상 시나리오 (상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다 — 삽입토크 (Insertion Torque, IT) 일관되게 상승 [근거강함], 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 가변적 상승 [합의수준], 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) in vitro 3배 상승 [근거강함]; 전반적 임상 근거 수준은 낮음–중등 (Fontes Pereira 2023 결론).
+골밀도화 (Osseodensification, OD)는 반시계회전 (Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하여 4개 임상 시나리오 (상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다 — 삽입토크 (Insertion Torque, IT) 일관되게 상승 [근거강함], 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 **저밀도골 인체 SR+MA(mohammadi 2025)에서 유의차 없음 — 논쟁적** [합의수준, 하향], 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) in vitro 3배 상승 [근거강함]; 전반적 임상 근거 수준은 낮음–중등 (Fontes Pereira 2023 결론). 발열 안전: 버 재사용 ≥23회 + 고RPM 시 골괴사 임계(47°C) 초과 (soldatos 2024).
 
 ---
 
@@ -50,6 +61,8 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 
 이 메커니즘이 4개 적용 시나리오의 공통 분모다. ISQ가 항상 오르는 건 아니라는 점은 Huwais 2016에서도 이미 명시 — OD의 차별점은 IT와 BIC, ISQ는 부수효과 [근거강함].
 
+**발열·버 재사용 안전** [[wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw|Soldatos et al. 2024 (cadaver tibiae, 360 osteotomy)]] [합의수준]: CCW(densification) 모드에서 **3.0/4.0 버를 23회 이상 재사용 + 800/1200 RPM 조합 시 ΔT가 골괴사 임계 47°C 초과**. **1000 RPM이 두 모드 모두 최저 발열**. → 임상 규칙: ① 버는 ~23회에서 교체, ② 저밀도골이라도 RPM을 무작정 높이지 말 것(1000 rpm 부근 권장), ③ 관수 보조. 무관수 고RPM + 마모 버 조합이 가장 위험.
+
 ---
 
 ## 2. Outcome Matrix — Fontes Pereira 2023 spine
@@ -58,9 +71,10 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 
 | Outcome | OD vs Conventional | Consistency | Confidence | 비고 |
 |---------|--------------------|-------------|------------|------|
-| Insertion Torque (IT) | OD ↑ 유의 | High | [근거강함] | 모든 included studies에서 일관 |
-| ISQ | OD ↑ 대부분 / 일부 동등 | Moderate | [합의수준] | D3/D4에서 ↑ 뚜렷, D1/D2에서 차이 ↓ |
-| BIC | OD ↑ (인비트로 ×3, 인비보 제한적) | Low–Moderate | [근거강함, in-vitro] / [합의수준, in vivo] | 인비보 휴먼 데이터 부족 |
+| Insertion Torque (IT) | OD ↑ 유의 | High | [근거강함] | 모든 included studies에서 일관; bergamo 2021 multicenter CCT도 재확인 |
+| ISQ (식립 시점, 1차) | OD ↑ 대부분 / **저밀도골 SR+MA에서는 NS** | **Low–Moderate ↓ (하향)** | [합의수준, 논쟁적] | althobaiti 2023 SR·bergamo 2021은 ↑; **mohammadi 2025 SR+MA (7편) 1차 MD=4.13 p=0.13 NS**, al-ahmari 2022 split-mouth도 NS |
+| ISQ (2차/치유 후) | OD ↑ (동물 RCT·CCT) | Moderate | [합의수준] | arpudaswamy 2025 (rabbit, 3mo ISQ↑), bergamo 2021 (전 기간 ISQ≥68) — **이득은 1차보다 2차 안정성에 있을 가능성** |
+| BIC | OD ↑ (인비트로 ×3, 인비보 제한적) | Low–Moderate | [근거강함, in-vitro] / [합의수준, in vivo] | 인비보 휴먼 데이터 부족; 척추 모델 lopez 2017·torroni 2021이 OD BIC·pullout 우위 보강(외삽 주의) |
 | Survival rate | OD = Conventional | High | [근거강함] | 단기 follow-up |
 | 술기 시간 | OD ↓ (특히 sub-antral) | Moderate | [합의수준] | Starch-Jensen 2025 |
 | MBL (marginal bone loss) | 차이 없음 / 데이터 부족 | Low | [미검증] | 장기 RCT 필요 |
@@ -98,8 +112,13 @@ graph LR
 **최강 근거**:
 - [[wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis|Starch-Jensen et al. 2025 SR+MA (6 RCTs, low GRADE)]] [근거강함, 그러나 GRADE low] — TSMEOD가 osteotome·측방창 대비 식립시·지대주 연결시 ISQ 유의하게 높음. 생존율 동등.
 - [[wiki/sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] [합의수준, RCT] — RCT, OD가 osteotome 대비 ISQ ↑.
+- [[wiki/sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification|Mazor et al. 2024 multicenter cross-sectional (6센터·670 sites)]] [합의수준] — OD 기반 TSFE **슈나이더막 천공률 7.31%** (기존 7–58% 하단). **RBH ≤3 mm가 천공 독립 위험인자**; 부위·socket 상태(healed/fresh)는 무관.
+- [[wiki/sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation|Samir 2024 RCT (OD vs 피에조)]] [합의수준, RCT] — OD가 골량·골밀도·수술시간·만족도 우위, 피에조는 당일 1차 안정성 우위 — 둘 다 유효, 강점이 다름.
 
-**주의**: ESBG (Endo-Sinus Bone Gain)는 측방창 대비 OD에서 적음. 수직 골증대가 1차 목표면 측방창 우선 [근거강함, Starch-Jensen 2025].
+**주의**:
+- ESBG (Endo-Sinus Bone Gain)는 측방창 대비 OD에서 적음. 수직 골증대가 1차 목표면 측방창 우선 [근거강함, Starch-Jensen 2025].
+- **RBH ≤3 mm에서는 OD-TSFE 천공 위험 ↑** (Mazor 2024) → 이 영역은 측방창 고려.
+- **CBCT가 RBH를 ~1.86 mm 과소평가** ([[wiki/sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus|Ragher 2026]], n=50) → borderline RBH 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
 
 **진입점**: [[wiki/overviews/sinus-lift-technique-selection|sinus-lift-technique-selection overview]].
 
@@ -119,12 +138,19 @@ graph LR
 
 **원리**: trabecular bone 압축으로 walls에 미세 cortical layer 형성 → IT·ISQ 즉시 상승.
 
-**최강 근거**:
+**최강 근거 (지지)**:
 - [[wiki/implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr|Althobaiti et al. 2023 SR (ISQ-focused)]] [근거강함] — D3/D4에서 OD ISQ ↑ 효과 가장 큼.
 - [[wiki/implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct|Konuklu et al. 2026 RCT (5 protocols)]] [근거강함, RCT] — 5개 osteotomy protocol 직접 비교.
+- [[wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary|Bergamo et al. 2021 multicenter CCT (56명·150 임플란트)]] [합의수준] — OD가 IT·ISQ 모두 유의 우위, ISQ 3주 dip 후 6주 회복하나 OD는 전 기간 ISQ≥68 유지. **단 short 임플란트는 예외(차이 없음)**.
+- [[wiki/implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit|Arpudaswamy 2025 (토끼 D4 split-body RCT)]] [animal] — 식립 시점 ISQ는 차이 없으나 **3개월 ISQ·IT 유의 ↑ → 이득은 2차 안정성**.
+- [[wiki/implants/neiva-2018-effects-osseodensification-astra-tx-ev|Neiva 2018 (sheep e-poster)]] [animal] — IT/RFA OD 압도적 우위, EV 시스템에서 BIC/BAFO도 ↑.
 - [[wiki/overviews/d4-bone-densah-protocol|d4-bone-densah-protocol]] — **D4 전용 chairside 인터랙티브**.
 
-**임상**: Fontes Pereira 2023이 "greatest OD benefit" 시나리오로 명시 [근거강함].
+**반례 (논쟁) — living-document 갱신 핵심**:
+- [[wiki/implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma|Mohammadi et al. 2025 SR+MA (7편)]] [근거강함, 반례] — 저밀도골 OD vs CD에서 **1차 ISQ MD=4.13 (p=0.13)·2차 MD=1.78 (p=0.11) 모두 NS**, MBL·PI도 NS. 12개월 PD·구개측 CBL만 OD 유리. 결론: "장기 우월성 입증 부족".
+- [[wiki/implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw|Al-Ahmari 2022 split-mouth (20명·40 임플란트)]] [합의수준, 반례] — **골밀도만 OD↑, 1차·2차 안정성·PI·BOP·PD·MBL은 NS**.
+
+**임상 종합**: Fontes Pereira 2023은 D3–D4를 "greatest OD benefit" 시나리오로 명시했으나, **2025 인체 SR+MA(mohammadi)는 ISQ 이득을 재현하지 못함**. 현재 합의: IT(1차 기계적 고정)는 일관되게 ↑, 그러나 **RFA로 측정되는 ISQ 이득은 인체에서 불확실**하고 이득이 있다면 2차 안정성(동물 RCT)에 가까움. 환자 설명 시 "삽입 토크는 확실히 개선, 안정성 수치(ISQ) 이득은 근거 혼재"로 분리 권장.
 
 ### 3-4. 즉시식립 (post-extraction immediate placement)
 
@@ -142,9 +168,9 @@ graph LR
 
 | 시나리오 | 최강 근거 | spoke 페이지 |
 |---------|-----------|---------------|
-| 상악동저 보강 | SR+MA (low GRADE) | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] + [[overviews/sinus-lift-technique-selection]] |
+| 상악동저 보강 | SR+MA (low GRADE) + 천공 데이터 | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] + [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] + [[overviews/sinus-lift-technique-selection]] |
 | 좁은 치조골릉 | SR included only | (spoke pending — narrow-ridge 단독 SR 추가 필요) |
-| 저밀도골 D3–D4 | SR + RCT | [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] + [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] + [[overviews/d4-bone-densah-protocol]] |
+| 저밀도골 D3–D4 | SR + RCT (**SR+MA 반례 존재**) | 지지: [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] + [[implants/bergamo-2021-osseodensification-effect-implants-primary-secondary]] ↔ 반례: [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] + [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] + [[overviews/d4-bone-densah-protocol]] |
 | 즉시식립 | SR included only | (spoke pending) |
 | 메커니즘 원위 | in-vitro 원위논문 | [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] |
 | ISQ 부하 결정 | overview | [[overviews/isq-loading-threshold]] |
@@ -156,6 +182,8 @@ graph LR
 [[feedback_wiki-living-document]] 원칙으로 명시:
 
 - **Search cutoff 2023**: 2024–2026 추가 RCT·SR (예: [[konuklu-2026-five-osteotomy-protocols-isq-rct]], [[starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]) 반영 필요 — 본 overview는 이미 반영, Fontes Pereira 2023 페이지 자체는 그대로.
+- **저밀도골 ISQ 명제 하향 (2026-06-01 갱신)**: [[mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] SR+MA가 저밀도골 1차·2차 ISQ 모두 NS로 보고 — Fontes Pereira 2023의 "greatest benefit" 프레이밍과 충돌. Outcome matrix ISQ 행을 1차/2차로 분리하고 confidence를 하향. [[al-ahmari-2022-osseodensification-conventional-low-density-jaw]] split-mouth도 반례. **이득은 IT(기계적)에 확실, ISQ(RFA)는 인체 근거 혼재**로 재정식화.
+- **발열 안전 변수 추가**: [[soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — 버 재사용 횟수·RPM이 골괴사 위험의 결정 변수. 향후 인체 thermal RCT 들어오면 갱신.
 - **Included studies 이질성**: protocol·bur 사이즈·rpm·골질 정의가 일관되지 않음 — RCT가 들어올 때마다 outcome matrix의 confidence 재평가.
 - **Conventional drilling 정의 모호**: 일부 included studies가 "standard"를 명확히 정의하지 않음 — 본 overview는 OD vs. CW + irrigation으로 가정 [추정].
 - **저자 conflict of interest**: Versah Inc. 후원 연구 다수 included — independent RCT 추가 시 갱신.
@@ -180,6 +208,17 @@ graph LR
 - [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — 최근 RCT
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — sub-antral SR+MA
 - [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] — sub-antral RCT
+- [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — 저밀도골 SR+MA (ISQ NS 반례)
+- [[implants/bergamo-2021-osseodensification-effect-implants-primary-secondary]] — multicenter CCT (IT·ISQ 우위, ISQ≥68 유지)
+- [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] — split-mouth 반례 (안정성 NS)
+- [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit]] — 토끼 D4 RCT (2차 안정성↑)
+- [[implants/neiva-2018-effects-osseodensification-astra-tx-ev]] — sheep (IT/RFA·BIC 우위)
+- [[implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — 발열·버 재사용 안전 (47°C 임계)
+- [[implants/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw]] — 척추 pedicle screw pullout (외삽 주의)
+- [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 척추 hardware pullout·BIC (외삽 주의)
+- [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] — TSFE 천공률 7.31%, RBH≤3mm 위험
+- [[sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation]] — OD vs 피에조 RCT
+- [[sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus]] — CBCT가 RBH 1.86mm 과소평가
 - [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
