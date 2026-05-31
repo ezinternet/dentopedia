@@ -56,7 +56,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 |---|---|---|
 | [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]] | sr (50편) | Type 1 — 1-3y midfacial recession ≥1mm가 9-41% (median 26%). 협측 plate < 1mm에서 위험↑ |
 | [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] | sr+nma | 상악 전치부 Type 1-4 × immediate/early/conventional loading — 다각 비교 |
-| [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-m]] | sr+ma (ITI consensus, 68편) | 심미부 single tooth IIPP — 평균 follow-up 2.8y, 37.2 implants/study |
+| [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] | sr+ma (ITI consensus, 68편) | 심미부 single tooth IIPP — 평균 follow-up 2.8y, 37.2 implants/study |
 | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | sr | 5y 생존 97.1%, 1y MBL −0.32mm, 전치부 PES 7.2 |
 | [[immediate-implant/fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma]] | sr+ma (11 RCT n=701) | IIP vs ARP+지연식립 — IIP가 MBL 더 큰 감소 (non-molar MD −0.36 mm, molar MD −0.40 mm) |
 
@@ -155,7 +155,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-m]] | sr+ma (ITI) | T1A IIPP 심미부 single-tooth — 5y 생존 97.1% |
+| [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] | sr+ma (ITI) | T1A IIPP 심미부 single-tooth — 5y 생존 97.1% |
 | [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]] | rct (실용주의 multi-center) | 전치부 immediate loading vs 4mo healing → 1y 실패율·심미 동등. ≥35 Ncm 전제 |
 | [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]] | rct (n=27, 30 imp) | 구치부 IIP + 무피판 가이드 → 6w vs 3mo 부하 양군 100%. ISQ NS |
 | [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]] | rct (1y) | 상악 구치부 IIP + 경치조골 sinus elevation + 비매몰 — 즉시 식립 양 군 100% 생존 |
@@ -194,7 +194,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 - [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]]
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-m]]
+- [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]]
 - [[immediate-implant/fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma]]
 - [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]

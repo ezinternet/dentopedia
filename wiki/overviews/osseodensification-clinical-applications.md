@@ -82,10 +82,10 @@ graph LR
     S2 --> O
     S3 --> O
     S4 --> O
-    M -.-> Mech["[[huwais-2016]]"]
-    S1 -.-> P1["[[starch-jensen-2025]]<br/>[[el-ghobashy-...]]"]
+    M -.-> Mech["[[huwais-2017-novel-osseous-densification-osteotomy-primary-stability]]"]
+    S1 -.-> P1["[[starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]<br/>[[el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]]"]
     S2 -.-> P2["narrow-ridge<br/>(spoke pending)"]
-    S3 -.-> P3["[[overviews/d4-bone-densah-protocol]]<br/>[[konuklu-2026]]"]
+    S3 -.-> P3["[[overviews/d4-bone-densah-protocol]]<br/>[[konuklu-2026-five-osteotomy-protocols-isq-rct]]"]
     S4 -.-> P4["immediate spoke<br/>(pending)"]
 ```
 
@@ -155,7 +155,7 @@ graph LR
 
 [[feedback_wiki-living-document]] 원칙으로 명시:
 
-- **Search cutoff 2023**: 2024–2026 추가 RCT·SR (예: [[konuklu-2026]], [[starch-jensen-2025]]) 반영 필요 — 본 overview는 이미 반영, Fontes Pereira 2023 페이지 자체는 그대로.
+- **Search cutoff 2023**: 2024–2026 추가 RCT·SR (예: [[konuklu-2026-five-osteotomy-protocols-isq-rct]], [[starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]) 반영 필요 — 본 overview는 이미 반영, Fontes Pereira 2023 페이지 자체는 그대로.
 - **Included studies 이질성**: protocol·bur 사이즈·rpm·골질 정의가 일관되지 않음 — RCT가 들어올 때마다 outcome matrix의 confidence 재평가.
 - **Conventional drilling 정의 모호**: 일부 included studies가 "standard"를 명확히 정의하지 않음 — 본 overview는 OD vs. CW + irrigation으로 가정 [추정].
 - **저자 conflict of interest**: Versah Inc. 후원 연구 다수 included — independent RCT 추가 시 갱신.

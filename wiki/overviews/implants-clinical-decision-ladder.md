@@ -184,7 +184,7 @@ Risk Tier 결정
 | [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] | in vitro | bone heat 변수 |
 | [[implants/marenzi-2018-micromorphological-structure-implant-drills]] | in vitro | drill 표면 morphology |
 | [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] | animal | osteotomy technique 비교 |
-| [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparatio]] | in vitro/animal | implant bed preparation histology |
+| [[kosior-2025-histological-histomorphometric-implant-bed-preparation]] | in vitro/animal | implant bed preparation histology |
 | [[implants/stubinger-2015-piezosurgery-implant-dentistry]] | narrative | piezosurgery 적용 |
 
 ### 3-B. Osseodensification (OD) — Drill thermal 우회

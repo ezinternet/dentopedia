@@ -48,7 +48,7 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 |---|---|---|
 | [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] | sr (20편) | 6mo — 수평 −3.79 mm, 수직 협측 −1.24 mm. 수평 29-63% / 수직 11-22% |
 | [[bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes]] | sr (12편) | 가중평균 폭 −3.87 mm, 중앙 협측 높이 −1.67 mm |
-| [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systemati]] | sr+ma (28편 / 20 pooled) | 비대구치 수평 2.5-2.7 mm, 협측 수직 1.7 mm. 시간별 흡수 곡선 정량화 |
+| [[couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] | sr+ma (28편 / 20 pooled) | 비대구치 수평 2.5-2.7 mm, 협측 수직 1.7 mm. 시간별 흡수 곡선 정량화 |
 | [[bone-regeneration/trombelli-2008-modeling-remodeling-human-extraction-sockets]] | in-vivo (27 biopsy) | 발치 2-4w 육아조직 → 6w 잠정 기질 + 직조골 |
 
 **임상 함의**: 발치 후 임플란트 계획이 있다면 — 자연 치유만으로는 가장 흔히 수평 폭이 부족해진다. 협측 thin (BBT < 1mm) 부위에서 손실 더 큼. [근거강함]
@@ -142,7 +142,7 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 
 - [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — 자연치유 dimensions SR
 - [[bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes]] — dimensions SR (12편)
-- [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systemati]] — 시간별 흡수 곡선
+- [[couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 시간별 흡수 곡선
 - [[bone-regeneration/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — 6mo histology
 - [[bone-regeneration/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — ARP SR+MA 2014
 - [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — EFP consensus 22 RCT

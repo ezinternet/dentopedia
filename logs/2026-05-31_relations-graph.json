@@ -1,0 +1,27 @@
+[
+  {
+    "source": "lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic",
+    "type": "extends",
+    "target": "manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing"
+  },
+  {
+    "source": "lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic",
+    "type": "reinforces",
+    "target": "ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review"
+  },
+  {
+    "source": "betancourt-2016-mb2-prevalence-location-cbct",
+    "type": "reinforces",
+    "target": "hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr"
+  },
+  {
+    "source": "betancourt-2016-mb2-prevalence-location-cbct",
+    "type": "reinforces",
+    "target": "wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr"
+  },
+  {
+    "source": "fu-2025-antral-pseudocyst-management-lsfe",
+    "type": "extends",
+    "target": "fu-2022-pseudocyst-removal-retainment-msfa-cohort"
+  }
+]

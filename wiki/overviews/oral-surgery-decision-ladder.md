@@ -41,7 +41,7 @@ tags: [oral-surgery, third-molar, coronectomy, ian-injury, prf, dry-socket, hemo
 | [[oral-surgery/li-2022-ian-position-nerve-injury-sr-ma]] | sr+ma (11편) | 설측 canal 위치 → IAN 손상 위험↑. 사전 영상평가 |
 | [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] | case-report | IAN 노출 → dexamethasone 국소 + prednisolone tapering → 36d 회복 |
 | [[oral-surgery/pires-2017-late-mandibular-fracture-third-molar-sr]] | sr (124례) | 지연 골절 1-3주 내 하악각. 깊은 매복·수평·얇은 설측판 위험 |
-| [[oral-surgery/guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar]] | sr | 의인성 골절 0.0033-0.075%. 40-60세 남성·깊은 매복 |
+| [[guillaumet-claure-2022-iatrogenic-mandibular-fracture-third-molar-sr]] | sr | 의인성 골절 0.0033-0.075%. 40-60세 남성·깊은 매복 |
 | [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] | sr+ma (12편) | Coronectomy — IAN·dry socket 유의 감소. 치근편 2y 2mm 이동 |
 | [[oral-surgery/peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma]] | sr+ma | IAN 고위험 — coronectomy IAN 손상↓. 재수술 5-12% |
 | [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] | sr (16편 2,176례) | Coronectomy IAN 손상 0.59%. 안전·실행 가능 대안 |

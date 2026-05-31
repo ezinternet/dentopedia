@@ -32,7 +32,7 @@ Key risk factors identified: periodontitis history, smoking, uncontrolled diabet
 Consensus-based — does not generate new primary data. Reflects expert weighting where evidence is mixed. Treatment algorithms still acknowledge low predictability for advanced peri-implantitis surgical outcomes. Some protocol recommendations remain industry-influenced.
 
 ## Related Papers
-- [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
+- [[hong-2024-peri-implantitis-treatment-protocol-flowchart]]
 - [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
 - [[periodontics/kim-2025-management-peri-implantitis-perspectives]]
 - [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]

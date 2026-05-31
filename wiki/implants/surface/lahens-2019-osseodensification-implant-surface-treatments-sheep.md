@@ -46,4 +46,4 @@ Twelve adult sheep had six implants per animal placed bilaterally in the ilium. 
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of the OD/Densah bur technique that this study tests in vivo.
 - [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — porcine bench histomorphometry of OD vs osteotome vs standard drilling.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — translates the OD-in-soft-bone hypothesis into a human RCT.
-- [[implants/fontes-pereira-2023-osseodensification-alternative-conventional-osteotomy-sr]] — SR including this paper in the evidence base.
+- [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR including this paper in the evidence base.

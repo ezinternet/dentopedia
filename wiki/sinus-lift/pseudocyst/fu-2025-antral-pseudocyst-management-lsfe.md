@@ -12,6 +12,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/fu-2025-antral-pseudocyst-management-
 pdf_filename: fu-2025-antral-pseudocyst-management-lsfe.pdf
 source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, sinus-augmentation, lateral-window, 3-arm-comparison, aspiration, removal, untreated, BMC]
+relations:
+  - type: extends
+    target: fu-2022-pseudocyst-removal-retainment-msfa-cohort
 ---
 
 ## 한줄요약

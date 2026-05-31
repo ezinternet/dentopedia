@@ -1,58 +1,58 @@
 # Synthesis Backlog — 2026-05-31
-TOTAL sources           : 876
-LINKED to ≥1 overview   : 816  (93.2%)
-UNSYNTHESIZED           : 60
+TOTAL sources           : 883
+LINKED to ≥1 overview   : 831  (94.1%)
+UNSYNTHESIZED           : 52
 STALE (≥30d unsynthesized): 0
 
 === unsynthesized (oldest first, top 50) ===
-         5.7d  torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw
-         5.4d  lopez-2017-osseodensification-spinal-surgical-hardware-fixation
-         4.0d  jkda-2021-60-1-003
-         4.0d  jkda-2021-60-1-004
-         4.0d  jkda-2025-63-2-005
-         4.0d  jkda-2025-63-5-003
-         4.0d  jkda-2025-63-9-001
-         4.0d  jkda-2022-60-4-001
-         4.0d  jkda-2023-61-6-003
-         4.0d  jkda-2025-63-8-006
-         4.0d  jkda-2025-63-9-004
-         4.0d  zhang-2026-socket-shield-orthodontic-premolar-rct
-         4.0d  blaschke-2020-socket-shield-technique-critical-review
-         4.0d  sharma-2022-socket-shield-technique-review-njms
-         4.0d  durrani-2020-socket-shield-esthetic-success-jisp
-         4.0d  velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma
-         4.0d  simuntis-2025-socket-shield-lower-molar-case
-         4.0d  oliva-2023-socket-shield-buccal-bone-preservation-sr
-         4.0d  ji-2025-socket-shield-conventional-network-ma
-         3.2d  betancourt-2016-mb2-prevalence-location-cbct
-         3.2d  alnowailaty-2022-mb2-prevalence-saudi-cbct
-         3.2d  bello-2018-mb2-detection-loupe-microscope-cbct
-         3.2d  betancourt-2015-mb2-second-maxillary-molar-cbct
-         3.2d  zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr
-         3.2d  mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review
-         3.2d  shahi-2026-implant-outcomes-diabetes-mellitus-sr
-         3.2d  lee-2024-dental-dose-monitoring-system-establishment
-         3.1d  kang-2024-national-dental-radiological-dose-management
-         3.1d  karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
-         3.1d  hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
-         3.1d  bergamo-2021-osseodensification-effect-implants-primary-secondary
-         3.1d  mazor-2024-maxillary-sinus-membrane-perforation-osseodensification
-         3.1d  mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma
-         3.1d  neiva-2018-effects-osseodensification-astra-tx-ev
-         3.1d  soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw
-         3.1d  versah-combined-molar-septum-expansion-sinus-lift-protocol
-         3.1d  versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum
-         3.1d  versah-densah-sinus-lift-ii-protocol-rbh-4-5mm
-         3.1d  versah-idr-ii-immediate-dentoalveolar-restoration-protocol
-         3.1d  versah-immediate-implant-placement-protocol
-         3.1d  wang-2025-ao-aap-consensus-peri-implant-diseases-conditions
-         2.9d  alghauli-2025-clinical-benefits-immediate-dentin-sealing
-         2.9d  magne-2005-immediate-dentin-sealing-fundamental-procedure
-         2.9d  magne-2005-ids-improves-bond-strength-indirect
-         2.9d  magne-2007-ids-supports-delayed-restoration-placement
-         2.9d  josic-2022-ids-postoperative-sensitivity-sr-ma
-         2.9d  abo-alazm-2022-ids-universal-adhesive-pulp-pressure
-         2.2d  jkda-2024-62-6-001
-         2.1d  kim-2023-treatment-tmj-osteoarthritis
-         2.1d  song-2023-understanding-tmj-osteoarthritis-pathophysiology
-  ... (10 more)
+         6.0d  torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw
+         5.6d  lopez-2017-osseodensification-spinal-surgical-hardware-fixation
+         4.2d  jkda-2021-60-1-003
+         4.2d  jkda-2021-60-1-004
+         4.2d  jkda-2025-63-2-005
+         4.2d  jkda-2025-63-5-003
+         4.2d  jkda-2025-63-9-001
+         4.2d  jkda-2022-60-4-001
+         4.2d  jkda-2023-61-6-003
+         4.2d  jkda-2025-63-8-006
+         4.2d  jkda-2025-63-9-004
+         3.4d  betancourt-2016-mb2-prevalence-location-cbct
+         3.4d  alnowailaty-2022-mb2-prevalence-saudi-cbct
+         3.4d  bello-2018-mb2-detection-loupe-microscope-cbct
+         3.4d  betancourt-2015-mb2-second-maxillary-molar-cbct
+         3.4d  zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr
+         3.4d  mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review
+         3.4d  shahi-2026-implant-outcomes-diabetes-mellitus-sr
+         3.4d  lee-2024-dental-dose-monitoring-system-establishment
+         3.4d  kang-2024-national-dental-radiological-dose-management
+         3.3d  karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
+         3.3d  hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
+         3.3d  bergamo-2021-osseodensification-effect-implants-primary-secondary
+         3.3d  mazor-2024-maxillary-sinus-membrane-perforation-osseodensification
+         3.3d  mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma
+         3.3d  neiva-2018-effects-osseodensification-astra-tx-ev
+         3.3d  soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw
+         3.3d  versah-combined-molar-septum-expansion-sinus-lift-protocol
+         3.3d  versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum
+         3.3d  versah-densah-sinus-lift-ii-protocol-rbh-4-5mm
+         3.3d  versah-idr-ii-immediate-dentoalveolar-restoration-protocol
+         3.3d  versah-immediate-implant-placement-protocol
+         3.3d  wang-2025-ao-aap-consensus-peri-implant-diseases-conditions
+         3.1d  alghauli-2025-clinical-benefits-immediate-dentin-sealing
+         3.1d  magne-2005-immediate-dentin-sealing-fundamental-procedure
+         3.1d  magne-2005-ids-improves-bond-strength-indirect
+         3.1d  magne-2007-ids-supports-delayed-restoration-placement
+         3.1d  josic-2022-ids-postoperative-sensitivity-sr-ma
+         3.1d  abo-alazm-2022-ids-universal-adhesive-pulp-pressure
+         2.4d  jkda-2024-62-6-001
+         2.3d  kim-2023-treatment-tmj-osteoarthritis
+         2.3d  song-2023-understanding-tmj-osteoarthritis-pathophysiology
+         2.3d  kwon-2023-mronj-position-papers-what-changed
+         2.3d  lee-2023-alkasite-glass-ionomer-fluoride-antibacterial
+         2.3d  ha-2023-dentist-issues-constitutional-court-decisions
+         2.3d  yoo-2023-implant-surveyed-crown-rpd-disabled-patients
+         2.0d  arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit
+         2.0d  samir-2024-osseodensification-piezoelectric-internal-sinus-elevation
+         2.0d  ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus
+         2.0d  al-ahmari-2022-osseodensification-conventional-low-density-jaw
+  ... (2 more)

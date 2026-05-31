@@ -11,7 +11,12 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/padhye-2020-osseodensification-system
 pdf_filename: padhye-2020-osseodensification-systematic-review-qualitative-analysis.pdf
 source_collection: external
 tags: [osseodensification, primary-stability, systematic-review, densah, BIC, BAF, insertion-torque]
+superseded_by: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma
+superseded_scope: full
 ---
+
+> [!warning] Superseded (full) → [[inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
+> This earlier qualitative SR (no pooled effect sizes) is superseded quantitatively by Inchingolo 2021 (SR+MA). Prefer the meta-analytic estimates there. (set 2026-05-31)
 
 ## 한줄요약
 체계적 문헌고찰 (Systematic Review, SR), n=12편 (2010~2018.11) — 골밀도화 (Osseodensification, OD)는 통상적 드릴링 대비 삽입 토크, 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골면적분율 (Bone Area Fraction Occupancy, BAFO) 모두 평균적으로 증가시킴. 다만 12편 중 8편이 동물 조직학 연구, 인간 임상은 2편뿐이라 장기 임상 결과로의 외삽은 어렵다.

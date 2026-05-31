@@ -11,6 +11,11 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-impact-polydeoxyribonucleoti
 pdf_filename: lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.pdf
 source_collection: external
 tags: [pdrn, in-vitro, stem-cell, mechanism, dose-response]
+relations:
+  - type: extends
+    target: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing
+  - type: reinforces
+    target: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review
 ---
 
 ## 한줄요약

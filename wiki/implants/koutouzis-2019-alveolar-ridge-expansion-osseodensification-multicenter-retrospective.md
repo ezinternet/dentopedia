@@ -50,5 +50,5 @@ Retrospective chart review across multiple centers. Inclusion: patients who unde
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — origin of OD; mechanistic basis cited.
 - [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — same expansion mechanism applied to molar septa.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — RCT extension of OD into low-density bone.
-- [[implants/fontes-pereira-2023-osseodensification-alternative-conventional-osteotomy-sr]] — SR that includes this paper among the evidence on OD ridge expansion.
+- [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR that includes this paper among the evidence on OD ridge expansion.
 - [[implants/slete-2018-histomorphometric-comparison-three-osteotomy-techniques]] — bench histomorphometry showing compacted trabecular bone around OD osteotomies.

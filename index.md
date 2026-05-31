@@ -228,7 +228,7 @@ Format: `category/stem` — one-line description
 - [[bone-regeneration/araujo-2009-ridge-alterations-flap-vs-flapless]] — Animal(개 5, split-mouth, 6mo): 판막 거상 vs flapless 발치 후 ridge resorption 차이 없음; "flapless = ridge 보존" 가설 반박; 본 PDF는 PubMed abstract only.
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
-- [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (10편 종합): 기전(A2A 수용체+salvage pathway) 탄탄하나 근거 피라미드 바닥(human RCT 1편=술후 통증, 나머지 animal·in vitro); 효과는 반복적 zone-specific/outcome-specific — 초기 신생골·apical zone·KT height는 ↑, 1차 골유착(BIC/BAFO)·연조직 volume은 무차이; dose 비선형(4≠우월); autograft 대체 미입증; 저위험 adjunct로만 합리적.
+- [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
 - [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]] — Narrative review (Tissue Eng Regen Med 2026, SNUBH): PDRN(50-1500 kDa salmon DNA fragment) 기전(A2A receptor + salvage pathway)·치과 indication(GBR·TMJ·peri-implantitis·MRONJ) 정리. PDRN 카테고리 anchor paper.
 - [[pdrn/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing]] — Scoping review (Dent J MDPI 2023, Univ Milan): PDRN 골치유 preclinical evidence in vitro(osteoblast proliferation·ALP·mineralization 향상) + animal(new bone·BIC 향상) 정리; dose/vehicle/timing 표준화 부재.
 - [[pdrn/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation]] — Animal in vivo (Sci Rep 2023, SNU, beagle n=6): 즉시식립 + 5mm buccal dehiscence에서 CBCP+PDRN soaking이 2주·6주 new bone area·proportion 유의 증가; BIC·BAFO는 무차이.
@@ -238,6 +238,13 @@ Format: `category/stem` — one-line description
 - [[pdrn/kim-2025-preclinical-investigation-collagen-matrix-polydeoxyribonucleotide]] — Animal in vivo (CIDRR 2025, Kyung Hee, canine n=5): Buccally positioned implant에서 FGG vs XCM vs PDRN 2/4mg/mL 비교; PDRN2가 FGG와 유사한 histometric KT 형성, PDRN4 추가 이득 없음 → 농도-효과 비선형.
 - [[pdrn/lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic]] — In vitro (Medicina 2024, Catholic Univ): GMSC spheroid PDRN 처리 → D14, 75µg/mL에서 calcium deposition 유의 증가; RUNX2 peak @ 25µg/mL, COL1A1 @ 75µg/mL — marker별 dose 다름; cytotoxicity 없음.
 - [[pdrn/kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted]] — Split-mouth RCT (YMJ 2026, Wonju Severance, OMS): 매복 하악 제3대구치 발치 후 submucosal PDRN injection — POD3·POD7 통증 유의 감소 (P<0.05); pain duration 양측 차이 없음(split-mouth 한계). PDRN oral surgery 첫 human RCT.
+- [[pdrn/ko-2024-adjunctive-effect-polydeoxyribonucleotide-bone-formation]] — Animal in vivo (J Clin Periodontol 2024, SNU Koo, beagle n=8): 발치와보존술(ARP)에서 graft+막 PDRN soaking이 2주 신생골(coronal·middle·total)·2~4주 신생혈관 증가 → 초기 골·혈관신생 가속 패턴.
+- [[pdrn/lim-2025-effects-polydeoxyribonucleotide-pdrn-endosinus]] — Animal in vivo (Clin Oral Implants Res 2025, Kyung Hee, rabbit n=18): Endosinus 상악동거상술에서 PDRN 2.0mg/mL soaking graft가 2/4/8주 신생골 면적 증가하나 유의는 4주에서만, 8주 양군 수렴 → 시간 전엽 효과.
+- [[pdrn/ku-2025-prolotherapy-temporomandibular-joint-disorders]] — Narrative review (J Korean Assoc Oral Maxillofac Surg 2025, SNUBH Ku): TMJ prolotherapy(dextrose vs PDRN) 기전·프로토콜; PDRN = dextrose 동등 효능 + 불편 적음·간격 짧음; 통증↓·개구↑ 일관, RCT 부재.
+- [[pdrn/choi-2026-efficacy-prolotherapy-temporomandibular-joint-disorders]] — Retrospective (J Oral Facial Pain Headache 2026, SNUBH, n=66): 보존치료 불응 TMD prolotherapy(dextrose/PDRN) → VAS 4.34→1.00·MMO 31.0→40.8mm (p<0.001), PDRN ≈ dextrose; 무대조·두 약제 미분리 한계. TMJ 적응증 첫 human cohort.
+- [[pdrn/pachhapure-2025-mitigating-effect-mechanism-polydeoxyribonucleotide]] — In vitro (Int J Mol Sci 2025): PDRN 100µg/mL이 zoledronic acid 치은섬유아세포(HGF-1) 독성을 TBK1 인산화 억제·p-PKB 회복·ROS 감쇠로 예방·역전; 지연 투여도 효과 → MRONJ 세포보호 기전 근거.
+- [[pdrn/gwak-2021-does-polydeoxyribonucleotide-effect-tendon]] — SR/MA, **비치과 cross-domain** (Medicine 2021): 건/인대 통증 PDRN 주사 SMD −1.43 (P<0.00001), 통증↓하나 기능·근력 무변화; 치과 진통 적응증 외삽 근거(직접 적용은 해석 수준).
+- [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — SR/MA (RCT 5편), **비치과 cross-domain** (Medicine 2019): 슬관절 OA 관절강내 PDRN, HA 대비 1·2개월 통증 우위(4개월 소멸)·기능·안전 동등; PDRN 진통·안전 최고 등급 근거(비치과).
 
 ## 즉시식립 (Immediate Implant)
 - [[immediate-implant/botticelli-2004-immediate-implant-hard-tissue]] — in-vivo (18 subjects, 21 implants, 4mo re-entry): buccal bone resorbed 56%, lingual/palatal 30%; no membrane/graft; immediate implant does NOT preserve ridge
@@ -416,6 +423,7 @@ Format: `category/stem` — one-line description
 - [[sinus-lift/pseudocyst/testori-2024-mucosal-cyst-aspiration-sinus-cohort]] — Cohort (Testori·Del Fabbro·Wang 그룹, CIDRR 2024, n=15/18 sinuses): needle aspiration + 즉시 sinus elevation — 중간 옵션 (aspiration)의 prospective 임상 표준화
 - [[sinus-lift/pseudocyst/jadach-2024-croco-eye-mrc-sinus-lift-cohort]] — Retrospective cohort (Wrocław Poland, JCM 2024): 대형 MRC enucleation + 동시 open sinus lift "Croco Eye" technique 표준화 — enucleation 분기의 surgical anchor
 - [[sinus-lift/pseudocyst/lee-2024-pseudocyst-mrc-sinus-augmentation-cases]] — Case series (서울대 OMFS, JCFS 2024, n=3): sinus pathology를 type 1 (PsC) / type 2 (MRC <20mm) / type 3 (MRC >20mm)로 분류 → spontaneous drainage·aspiration·enucleation 차등 적용. **결정 트리 framework 직접 시각화**
+- [[overviews/sinus-lift-pseudocyst-mrc-overview]] — Synthesis (15편, 2026): AP·MRC 동반 상악동거상술+임플란트 4단계 결정 트리 — 위험 자체평가(Anitua 2021 미입증)→처치(제거·흡인·미처치, subtype·크기 기반)→장기 trajectory(1·6·15년 anchor)
 - [[sinus-lift/pseudocyst/jkaoms-48-2-101]] — Case series + review (원광대 OMFS, JKAOMS 2022, n=6): PsC·MRC·mucocele 병리·해부 구분 + 측방창 sinus lift 6 case. 한국어 임상 참조
 - [[sinus-lift/pseudocyst/jkda-2022-60-4-002]] — Case report (전북대 치주과 윤정호 그룹, JKDA 2022): MRC 동반 sinus floor augmentation + implant — 한국 치주과 임상 narrative
 - [[sinus-lift/pseudocyst/berberi-2023-mucous-retention-cyst-sinus-lift]] — Case report (Lebanese Univ, Case Rep Dent 2023, 1yr): MRC + lateral sinus lift + 즉시 implant 1년 생존
@@ -1094,6 +1102,7 @@ Format: `category/stem` — one-line description
 - [[dentin-hypersensitivity/jkda-2022-60-4-003]] — Review (강남세브란스+서울대 보존과, JKDA 2022): DH prevalence(8-57%)·진단·치료(at-home+in-office+restorative)·미래 — JKDA DH 특집 1번
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — Clinical management (경희대 보존과 장지현, JKDA 2022): DH 외래 의사결정 ladder — 1차 at-home → 2차 in-office sealing → 3차 restorative
 - [[dentin-hypersensitivity/jkda-2022-60-4-005]] — Clinical strategy (연세대 보존과 김도현, JKDA 2022): Class II direct composite 수복 후 postop hypersensitivity 예방 — adhesive technique·incremental·slow curing·sectional matrix·pre-wedging
+- [[overviews/dentin-hypersensitivity-overview]] — Synthesis (JKDA 2022 특집 3편+NCCL 통합, 2026): hydrodynamic 메커니즘→외래 ladder(at-home→in-office sealing→restorative)→iatrogenic DH 예방. 한국 외래 의사결정 framework
 
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — Umbrella review (Manipal CDS, JCDE 2026, PROSPERO, AMSTAR-2): 4 SR(30 primary)/CCA 17% — **endo therapy + full cuspal coverage가 최고 prognosis**. 분야 최고 evidence-level
@@ -1103,6 +1112,7 @@ Format: `category/stem` — one-line description
 - [[cracked-tooth/raj-2025-cracked-tooth-syndrome-diagnostic-dilemma]] — Mini review (DAPMRV+Manipal, FROH 2025): CTS = longitudinal fracture 5 type 중 incomplete fracture — 진단 dilemma·multi-modal diagnostic 강조
 - [[cracked-tooth/jkda-2024-62-1-003]] — Review (연세대+강남세브란스 보존과, JKDA 2024): 균열치 진단 — 단일 도구 한계·다중 검사 종합 framework. JKDA 균열치 특집 1번
 - [[cracked-tooth/jkda-2024-62-1-004]] — Clinical review (부산대 보존과 손성애, JKDA 2024): QLF (Quantitative Light-Induced Fluorescence) 균열치 진단 적용 — 비침습 시각화·기존 도구 보완
+- [[overviews/cracked-tooth-syndrome-overview]] — Synthesis (8편, 2026): longitudinal fracture 5-type 분류·multi-modal 진단(bite·transillumination·CBCT·QLF)·치료 tension(Kaur 2026 endo+full coverage vs 보존적 입장). 한국 적용 framework
 
 ## 치과 역사 (Dental History)
 - [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과 변웅래, JKDA 2025): 함석태(1889-?) — 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립(일본 단체 대항). 일제강점기 한국 치과 자주성 anchor

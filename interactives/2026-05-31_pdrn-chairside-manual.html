@@ -1,0 +1,361 @@
+<!--
+---
+title: "PDRN Chairside 의사결정 매뉴얼 (원장용)"
+type: interactive
+date: 2026-05-31
+status: review
+agenda: agenda/2026-05-31_pdrn-chairside-manual.md
+source_wiki:
+  - wiki/pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review.md
+  - wiki/pdrn/manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing.md
+  - wiki/pdrn/bitto-2013-adenosine-receptor-polynucleotides-pdrn-periodontitis.md
+  - wiki/pdrn/kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted.md
+  - wiki/pdrn/lee-2023-impact-polydeoxyribonucleotide-lateral-sinus-elevation.md
+  - wiki/pdrn/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation.md
+  - wiki/pdrn/lee-2024-impact-polydeoxyribonucleotides-morphology-viability-osteogenic.md
+  - wiki/pdrn/lim-2023-xenogeneic-collagen-matrix-polydeoxyribonucleotide-gingival-phenotype.md
+  - wiki/pdrn/lee-2024-soft-tissue-augmentation-immediate-implant-pdrn.md
+  - wiki/pdrn/kim-2025-preclinical-investigation-collagen-matrix-polydeoxyribonucleotide.md
+---
+-->
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PDRN Chairside 의사결정 매뉴얼 — 원장용</title>
+<style>
+  :root{
+    --ink:#1a1d21; --sub:#5b6470; --line:#d9dde2; --bg:#fbfcfd; --card:#ffffff;
+    --strong:#0b6b3a;   /* RCT/SR — 근거강함 녹색 */
+    --mid:#b8860b;      /* animal — 중간 황 */
+    --weak:#9aa0a8;     /* in-vitro/narrative — 약함 회색 */
+    --warn-bg:#fff4e5; --warn-bd:#e0a96d; --warn-ink:#7a4b12;
+    --alt:#eef3f8; --altb:#b9cbe0;
+    --acc:#0b5cab;
+  }
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,"Apple SD Gothic Neo","Pretendard","Noto Sans KR",sans-serif;
+    color:var(--ink); background:var(--bg); margin:0; line-height:1.55; font-size:15px;}
+  .wrap{max-width:980px; margin:0 auto; padding:28px 22px 80px;}
+  header.top{border-bottom:2px solid var(--ink); padding-bottom:14px; margin-bottom:6px;}
+  h1{font-size:24px; margin:0 0 4px;}
+  .meta{color:var(--sub); font-size:13px;}
+  .warnbar{background:var(--warn-bg); border:1px solid var(--warn-bd); color:var(--warn-ink);
+    border-radius:8px; padding:12px 14px; margin:16px 0; font-size:13.5px;}
+  .warnbar b{color:#8a3a00;}
+  h2{font-size:18px; margin:30px 0 10px; padding-bottom:5px; border-bottom:1px solid var(--line);}
+  h3{font-size:15.5px; margin:18px 0 6px;}
+  p{margin:7px 0;}
+  .lede{color:var(--sub); font-size:13.5px; margin-top:2px;}
+  /* badges */
+  .badge{display:inline-block; font-size:11px; font-weight:700; padding:2px 8px; border-radius:11px;
+    color:#fff; vertical-align:middle; letter-spacing:.2px;}
+  .b-rct{background:var(--strong);} .b-sr{background:#1f7a4d;}
+  .b-animal{background:var(--mid);} .b-vitro{background:var(--weak);} .b-narr{background:#7d8590;}
+  .tag{display:inline-block; font-size:10.5px; font-weight:700; padding:1px 6px; border-radius:4px;
+    border:1px solid currentColor; margin-right:3px;}
+  .t-strong{color:#0b6b3a;} .t-consensus{color:#8a5a00;} .t-claude{color:#0b5cab;}
+  .t-unver{color:#9a2b2b;} .t-assume{color:#6a4ba0;}
+  /* legend */
+  .legend{display:grid; grid-template-columns:repeat(auto-fit,minmax(150px,1fr)); gap:8px;
+    background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px; font-size:12.5px;}
+  .legend div span{margin-right:6px;}
+  /* mechanism */
+  .mech{display:grid; grid-template-columns:1fr 1fr; gap:12px;}
+  .mech .box{background:var(--card); border:1px solid var(--line); border-left:4px solid var(--acc);
+    border-radius:8px; padding:12px 14px;}
+  .mech .box h4{margin:0 0 4px; font-size:14px; color:var(--acc);}
+  .mech .box p{font-size:13px; margin:4px 0; color:var(--ink);}
+  /* indication cards */
+  .card{background:var(--card); border:1px solid var(--line); border-radius:12px; padding:0; margin:16px 0;
+    overflow:hidden; box-shadow:0 1px 2px rgba(0,0,0,.04);}
+  .card .head{padding:12px 16px; border-bottom:1px solid var(--line); display:flex; align-items:center;
+    justify-content:space-between; gap:10px; flex-wrap:wrap;}
+  .card .head .name{font-weight:700; font-size:15.5px;}
+  .card .body{padding:6px 16px 14px;}
+  .verdict{font-weight:700; font-size:13px; padding:4px 0 8px;}
+  .v-try{color:#0b6b3a;} .v-cond{color:#8a5a00;} .v-hold{color:#9a2b2b;}
+  table{border-collapse:collapse; width:100%; font-size:12.8px; margin:6px 0 4px;}
+  .card table td{vertical-align:top; padding:6px 8px; border-bottom:1px solid #eef0f3;}
+  .card table td:first-child{width:108px; color:var(--sub); font-weight:600; white-space:nowrap;}
+  .src{font-size:11.5px; color:var(--sub); margin-top:6px;}
+  .src b{color:var(--ink);}
+  /* synthesis table */
+  table.grid{border:1px solid var(--line);}
+  table.grid th,table.grid td{border:1px solid var(--line); padding:7px 9px; font-size:12.5px; text-align:left; vertical-align:top;}
+  table.grid th{background:var(--alt); font-weight:700;}
+  table.grid tr:nth-child(even) td{background:#fafcfe;}
+  /* checklist */
+  .check{background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 18px;}
+  .check label{display:block; padding:5px 0; font-size:13.5px; cursor:pointer;}
+  .check input{margin-right:9px; transform:scale(1.15);}
+  ol.refs{font-size:12.3px; color:var(--ink); padding-left:22px;}
+  ol.refs li{margin:5px 0;}
+  ol.refs .st{color:var(--sub);}
+  .foot{margin-top:34px; padding-top:12px; border-top:1px solid var(--line); font-size:11.5px; color:var(--sub);}
+  .printbtn{position:fixed; right:18px; bottom:18px; background:var(--acc); color:#fff; border:none;
+    border-radius:24px; padding:11px 18px; font-size:13px; font-weight:700; cursor:pointer; box-shadow:0 2px 8px rgba(0,0,0,.2);}
+  @media print{
+    body{background:#fff; font-size:11.5pt;} .wrap{max-width:none; padding:0;}
+    .printbtn{display:none;} .card,.check,.legend,.mech .box{box-shadow:none;}
+    .card{break-inside:avoid;} h2{break-after:avoid;} a{color:inherit; text-decoration:none;}
+  }
+  @media(max-width:680px){ .mech{grid-template-columns:1fr;} }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+<header class="top">
+  <h1>PDRN Chairside 의사결정 매뉴얼</h1>
+  <div class="meta">원장 임상 의사결정용 · 근거 기준일 2026-05-31 · 근거 출처: 내부 위키 PDRN 논문 17편 (외부 검색 미사용)</div>
+</header>
+
+<div class="warnbar">
+  <b>핵심 경고 — 먼저 읽을 것.</b> 근거가 <b>두 갈래로 갈린다.</b> ①<b>진통·항염</b>은 human 근거가 비교적 탄탄하다 — 발치 후 통증 RCT 1편 + TMJ prolotherapy 후향코호트 1편 + 비치과(건/인대·슬관절) SR/MA 2편이 같은 방향. ②<b>재생(골·연조직)</b>은 <b>전부 동물·in vitro</b>이고 human RCT 0편이며, 효과가 zone·outcome 한정 + 초기에 몰렸다 종점에서 수렴한다(시간 전엽).
+  즉 <b>"통증·염증을 줄이는 보조"로는 쓸 만하나, "재생을 일으키는 치료"로 청구하거나 표준 graft·autograft를 대체할 근거는 아직 없다.</b>
+  본 문서는 표준 프로토콜이 아니라 적응증별 근거 경계·시도 조건·대안 정리다. 골·연조직·TMJ·MRONJ 적응증 대부분은 허가 외(off-label) 사용이므로 동의·기록·비용 고지를 별도 관리할 것.
+</div>
+
+<!-- ===================== 기전 ===================== -->
+<h2>1. 무엇인가 · 기전</h2>
+<p>PDRN(Polydeoxyribonucleotide, 폴리뉴클레오티드)은 연어/송어 정자(salmon/trout sperm) 유래 <b>50–1500 kDa DNA fragment 혼합물</b>이다.
+경계 정의상 <b>&lt;1500 kDa = PDRN</b>(단·중쇄), <b>&gt;1500 kDa = PN(polynucleotide)</b>(장쇄)로 구분한다. <span class="tag t-strong">근거강함</span> (Ku 2025)</p>
+
+<div class="mech">
+  <div class="box">
+    <h4>① A2A 아데노신 수용체 작용</h4>
+    <p>분해 산물인 아데노신이 A2A 수용체를 자극 → 항염·혈관신생(angiogenesis)·혈관확장. 작용의 "기능적" 축.</p>
+    <p class="src">원전: rat 치주염 모델에서 PDRN이 TNF-α·IL-6·HMGB-1·BAX 억제, Bcl-2 보존. A2A 길항제 <b>DMPX 투여 시 효과 소거</b> → 수용체 매개 입증. <span class="badge b-animal">ANIMAL</span> (Bitto 2013)</p>
+  </div>
+  <div class="box">
+    <h4>② Salvage pathway (뉴클레오티드 공급)</h4>
+    <p>DNA fragment가 salvage 경로로 뉴클레오티드를 공급 → 증식 세포의 DNA 합성 기질 제공. 작용의 "기질" 축.</p>
+    <p class="src">in vitro: GMSC spheroid에서 비세포독성 확인, D14·75 µg/mL에서 calcium deposition 유의 증가. 단 marker별 최적 농도 상이(RUNX2 25 / COL1A1 75 µg/mL). <span class="badge b-vitro">IN-VITRO</span> (Lee 2024)</p>
+  </div>
+</div>
+<p class="lede" style="margin-top:10px">실무 함의: "기전은 일관되고 그럴듯하다"가 곧 "임상 효과가 입증됐다"가 아니다. 아래 적응증별 근거 등급으로 판단할 것.</p>
+
+<!-- ===================== 근거 범례 ===================== -->
+<h2>2. 근거 등급 · 확신도 표기 범례</h2>
+<div class="legend">
+  <div><span class="badge b-rct">RCT</span> 무작위대조시험 (human)</div>
+  <div><span class="badge b-sr">SR</span> 체계적/스코핑 리뷰</div>
+  <div><span class="badge b-animal">ANIMAL</span> 동물실험 (beagle/dog)</div>
+  <div><span class="badge b-vitro">IN-VITRO</span> 세포·벤치 실험</div>
+  <div><span class="badge b-narr">NARRATIVE</span> 서술적 리뷰·전문가 견해</div>
+  <div><span class="tag t-strong">근거강함</span> RCT/SR·원전 직접</div>
+  <div><span class="tag t-consensus">합의수준</span> 다수 preclinical 일관</div>
+  <div><span class="tag t-claude">claude해석</span> 추론·확장 적용</div>
+  <div><span class="tag t-unver">미검증</span> 위키에 수치 미기재</div>
+</div>
+
+<!-- ===================== 적응증 카드 ===================== -->
+<h2>3. 적응증별 의사결정 카드</h2>
+<p class="lede">근거 강도 순 정렬. 각 카드의 판정: <span class="v-try">시도 합리적</span> / <span class="v-cond">조건부·고지 필수</span> / <span class="v-hold">근거 부족·보류</span></p>
+
+<!-- CARD 1 -->
+<div class="card">
+  <div class="head">
+    <span class="name">3-1. 발치 후 통증·치유 (제3대구치)</span>
+    <span><span class="badge b-rct">RCT</span> <span class="badge b-sr">SR×2</span></span>
+  </div>
+  <div class="body">
+    <div class="verdict v-try">판정: 시도 합리적 — 진통 축에서 가장 근거 있는 적응증 (human RCT + 비치과 SR/MA 보강)</div>
+    <table>
+      <tr><td>말할 수 있는 것</td><td>매복 하악 제3대구치 양측 발치 후 <b>submucosal PDRN 주입 측이 POD3·POD7 통증 유의 감소</b> (split-mouth RCT, P&lt;0.05). 중대 이상반응 없음. <span class="tag t-strong">근거강함</span></td></tr>
+      <tr><td>cross-domain 보강</td><td>비치과지만 RCT를 합성한 SR/MA가 PDRN 진통 효과를 뒷받침: 건/인대 통증 <b>SMD −1.43</b>(P&lt;0.00001), 슬관절 OA에서 HA 대비 1·2개월 통증 우위. 공통 패턴 — <b>통증은 줄지만 기능 지표는 안 움직이고, 진통 우위는 단기(≤2개월)</b>. <span class="tag t-strong">근거강함(비치과)</span> <span class="tag t-claude">치과 외삽은 해석</span></td></tr>
+      <tr><td>말할 수 없는 것</td><td>pain <b>duration</b>은 유의차 없음 (split-mouth 귀속 한계). 부종(Laskin)·치유속도의 결정적 우위는 미확정. <span class="tag t-claude">claude해석</span></td></tr>
+      <tr><td>시도 조건</td><td>vehicle = <b>submucosal injection</b> (발치와 주변). 주입 농도·용량은 <b>위키 페이지에 미기재</b> → 제품 라벨/원 PDF 재확인 후 결정. <span class="tag t-unver">미검증</span></td></tr>
+      <tr><td>Trade-off / 대안</td><td>대안 ① 표준 진통·소염(NSAIDs) 단독 — 비용 0, 근거 충분. ② PDRN 추가 = 비용·주입 1단계 ↑ 대비 POD3·7 통증 감소. 통증 민감·복잡 발치 환자에 선택적 적용이 합리적.</td></tr>
+    </table>
+    <p class="src">출처: <b>Kim 2026</b> (Yonsei Med J, <i>split-mouth RCT</i>, 10.3349/ymj.2024.0549) · 보강: <b>Gwak 2021</b> (건/인대 통증 <i>SR/MA</i>, Medicine), <b>Kim 2019</b> (슬관절 OA <i>SR/MA</i>, RCT 5편, Medicine) — 비치과 cross-domain.</p>
+  </div>
+</div>
+
+<!-- CARD 2: TMJ -->
+<div class="card">
+  <div class="head">
+    <span class="name">3-2. TMJ 통증·기능장애 (prolotherapy)</span>
+    <span><span class="badge b-narr">RETRO</span> <span class="badge b-narr">NARRATIVE</span></span>
+  </div>
+  <div class="body">
+    <div class="verdict v-cond">판정: 조건부 — 보존치료 불응 TMD에 시도 가능. human 코호트 있으나 무대조·후향.</div>
+    <table>
+      <tr><td>말할 수 있는 것</td><td>보존치료 불응 TMD 66명 prolotherapy(dextrose 또는 PDRN) 후향 코호트: <b>VAS 4.34→1.00, 최대개구 31.0→40.8 mm</b>(둘 다 p&lt;0.001), 관절음·하악편위 유의 개선. <span class="tag t-consensus">합의수준</span></td></tr>
+      <tr><td>PDRN vs dextrose</td><td>두 약제 효능 <b>유의차 없음</b> → PDRN을 dextrose 대체 가능 proliferant로. PDRN은 주입 불편 적고 간격 짧음(narrative). 진통·항염 축이라 카드 3-1과 정합. <span class="tag t-claude">claude해석</span></td></tr>
+      <tr><td>말할 수 없는 것</td><td>RCT 없음. 코호트가 <b>무대조·PDRN과 dextrose 미분리</b> → PDRN 단독 효과 분리 불가. 장기·구조적 결과 미확정. <span class="tag t-unver">미검증(단독효과)</span></td></tr>
+      <tr><td>시도 조건</td><td>vehicle = TMJ 관내·관주위 injection. 적응 = 보존치료(splint·물리치료·NSAID) 불응 case. 횟수 평균 2.3회.</td></tr>
+      <tr><td>Trade-off / 대안</td><td>대안 ① dextrose prolotherapy — 더 validated, 저비용. ② PDRN — 동등 효능·불편 적음, 단 근거 후향. ③ 표준 보존치료 — 1차. 침습 단계 진입 전 보존치료 소진 우선.</td></tr>
+    </table>
+    <p class="src">출처: <b>Choi 2026</b> (TMD 66명 <i>retrospective</i>, J Oral Facial Pain Headache, 10.22514/jofph.2025.062), <b>Ku 2025</b> (TMJ prolotherapy <i>narrative</i>, J Korean Assoc Oral Maxillofac Surg).</p>
+  </div>
+</div>
+
+<!-- CARD 3 -->
+<div class="card">
+  <div class="head">
+    <span class="name">3-3. 연조직 · 각화치은(KT) augmentation</span>
+    <span><span class="badge b-animal">ANIMAL</span> <span class="badge b-animal">×3</span></span>
+  </div>
+  <div class="body">
+    <div class="verdict v-cond">판정: 조건부 — KT height엔 신호, volume gain엔 효과 없음(상충). 동물 단계.</div>
+    <table>
+      <tr><td>말할 수 있는 것</td><td>① box-type gingival defect: <b>XCM+PDRN(2.0 mg/mL) ≈ SCTG</b> (thickness·KT 유의차 없음). ② buccal implant: PDRN 2 mg/mL이 FGG에 근접한 조직학적 KT. <span class="tag t-consensus">합의수준(동물)</span></td></tr>
+      <tr><td>핵심 상충</td><td>즉시식립(IIP) 연조직: PDRN이 <b>soft-tissue volume gain엔 효과 없음</b>("appears not to have a positive effect"), KT height에서만 우위. → "부피"가 아니라 "각화"에 한정된 신호로 해석. <span class="tag t-claude">claude해석</span></td></tr>
+      <tr><td>용량 비선형</td><td>PDRN <b>2 mg/mL ≈ 4 mg/mL</b> (KT 지표에서 4 mg/mL 추가 이득 없음). 고농도 = 더 좋다 아님. <span class="tag t-strong">근거강함(동물)</span></td></tr>
+      <tr><td>시도 조건</td><td>vehicle = XCM/VCMX collagen matrix soaking, 농도 <b>2 mg/mL</b>로 충분. 과량 graft는 <b>wound dehiscence&gt;50%</b> 유발(IIP) → graft volume 절제할 것.</td></tr>
+      <tr><td>Trade-off / 대안</td><td>대안 ① <b>SCTG/FGG 자가이식</b> — 임상 KT height는 여전히 최고, 단 공여부 morbidity. ② XCM+PDRN — 공여부 회피·SCTG comparable(동물), 단 human 근거 없음. donor morbidity 회피가 우선인 케이스에 조건부.</td></tr>
+    </table>
+    <p class="src">출처: <b>Lim 2023</b> (box defect, dog), <b>Lee 2024</b> (IIP soft-tissue, dog, 상충 결과), <b>Kim 2025</b> (buccal implant, dose-response, dog). 모두 <i>animal</i>. 주의: Lim 2023은 XCM-only 대조군 부재 → PDRN 단독 기여 귀속 제한.</p>
+  </div>
+</div>
+
+<!-- CARD 4: 골재생 -->
+<div class="card">
+  <div class="head">
+    <span class="name">3-4. 골재생 — GBR · sinus · ARP · 즉시식립</span>
+    <span><span class="badge b-sr">SR</span> <span class="badge b-animal">ANIMAL×4</span> <span class="badge b-vitro">IN-VITRO</span></span>
+  </div>
+  <div class="body">
+    <div class="verdict v-cond">판정: 조건부 — graft soaking adjunct로 일관된 동물 신호. 단 효과가 zone·지표 한정 + 초기에 몰림(시간 전엽).</div>
+    <table>
+      <tr><td>말할 수 있는 것</td><td>PDRN-soaked graft가 동물에서 <b>new bone area·proportion·vascularization 증가</b>. lateral sinus <b>apical zone BIC 76.7% vs 55.6% (P=0.038)</b>. ARP socket에선 2주 신생골·신생혈관 증가(Ko 2024). <span class="tag t-consensus">합의수준(동물)</span></td></tr>
+      <tr><td>시간 전엽 (신규)</td><td>효과가 <b>초기에 몰리고 종점에서 수렴</b>한다 — rabbit endosinus: 신생골 전 시점 우세하나 <b>유의는 4주에서만, 8주엔 양군 수렴</b>(Lim 2025); ARP: 우위가 <b>2주</b>에 집중(Ko 2024). → PDRN은 최종 골량을 늘리기보다 <b>초기 turnover·혈관신생을 가속</b>하는 modifier. <span class="tag t-strong">근거강함(동물)</span></td></tr>
+      <tr><td>말할 수 없는 것</td><td>효과 불균일: sinus <b>coronal/middle zone 무효</b>. IIP dehiscence에선 new bone fraction은 ↑하나 <b>BIC·BAFO(계면 통합) 무효</b>. → "골량 분율"은 개선, "골유착"은 미입증. <span class="tag t-strong">근거강함(동물)</span></td></tr>
+      <tr><td>시도 조건</td><td>vehicle = synthetic graft(CBCP 등) 또는 collagen 막 <b>PDRN soaking</b>(Ko 2024는 막까지 10분 soaking). 골 soaking 농도는 동물 연작 공통 <b>2.0 mg/mL</b>(Lim 2023·2025). soaking 시간 표준화는 부재. <span class="tag t-unver">미검증(timing)</span></td></tr>
+      <tr><td>Trade-off / 대안</td><td>대안 ① graft 단독(BCP+막) — 근거 충분, 비용↓. ② PDRN soaking 추가 — 초기 골형성·apical zone·혈관신생에 동물 신호, 비용·술식 1단계↑, human 효과 미입증. 어려운 부위(sinus apical, dehiscence, 발치와) 한정 시도가 논리적.</td></tr>
+    </table>
+    <p class="src">출처: <b>Lee 2023a</b> (lateral sinus, beagle), <b>Lee 2023b</b> (IIP dehiscence, beagle), <b>Ko 2024</b> (ARP socket, beagle, J Clin Periodontol), <b>Lim 2025</b> (rabbit endosinus, Clin Oral Implants Res), <b>Lee 2024</b> (GMSC in vitro), <b>Manfredini 2023</b> (<i>scoping review</i>). 모두 <i>preclinical</i>.</p>
+  </div>
+</div>
+
+<!-- CARD 5: MRONJ -->
+<div class="card">
+  <div class="head">
+    <span class="name">3-5. MRONJ 점막 치유 보조</span>
+    <span><span class="badge b-vitro">IN-VITRO</span></span>
+  </div>
+  <div class="body">
+    <div class="verdict v-hold">판정: 보조 가설 — 기전 근거 격상(in vitro), 단 표준치료 대체 불가.</div>
+    <table>
+      <tr><td>말할 수 있는 것 (신규)</td><td>in vitro에서 PDRN 100 µg/mL이 <b>zoledronic acid의 치은섬유아세포(HGF-1) 독성을 예방·역전</b> — TBK1 인산화 억제·p-PKB 회복·ROS 감쇠. <b>지연 투여도 효과</b> → 예방뿐 아니라 치료 가설. <span class="tag t-claude">claude해석(기전)</span></td></tr>
+      <tr><td>말할 수 없는 것</td><td>단일 세포주 in vitro뿐 — 동물·human MRONJ 검증 0. 골세포·면역 맥락 미포함. 임상 효과 주장 불가. <span class="tag t-claude">claude해석</span></td></tr>
+      <tr><td>시도 조건</td><td>chairside 프로토콜 도출 불가. <b>확립된 단계별 MRONJ 치료를 대체하지 말 것</b>. 보조 가설로만 인지.</td></tr>
+      <tr><td>Trade-off / 대안</td><td>표준 MRONJ 프로토콜(단계별 외과·약물·항생)이 1차. PDRN은 점막 치유 보조 가능성의 전임상 신호 단계.</td></tr>
+    </table>
+    <p class="src">출처: <b>Pachhapure 2025</b> (HGF-1 + zoledronic acid, <i>in vitro</i>, Int J Mol Sci, 10.3390/ijms262311367).</p>
+  </div>
+</div>
+
+<!-- CARD 6: 치주·peri-implantitis -->
+<div class="card">
+  <div class="head">
+    <span class="name">3-6. 치주염 · peri-implantitis</span>
+    <span><span class="badge b-animal">ANIMAL</span> <span class="badge b-narr">NARRATIVE</span></span>
+  </div>
+  <div class="body">
+    <div class="verdict v-hold">판정: 근거 부족 — 기전적 타당성뿐. 단독 근거로 권장 불가.</div>
+    <table>
+      <tr><td>말할 수 있는 것</td><td>치주염: rat 모델에서 PDRN 젤이 A2A 경유 <b>염증·세포자멸 억제</b>(DMPX로 소거). 기전 원전으로 견고. <span class="tag t-strong">근거강함(기전, 동물)</span></td></tr>
+      <tr><td>말할 수 없는 것</td><td>peri-implantitis는 <b>narrative review 카탈로그 언급</b> 수준. 용량·vehicle·timing 정의한 임상연구 전무. human 권고 불가. <span class="tag t-claude">claude해석</span></td></tr>
+      <tr><td>시도 조건</td><td>chairside 프로토콜 도출 불가. 적용 시 실험적 시도임을 명시, 표준치료 대체 금지.</td></tr>
+      <tr><td>Trade-off / 대안</td><td>표준 프로토콜(치주: SRP·재생술 / peri-implantitis: decontamination±GBR)이 우선. PDRN은 항염 보조 가설.</td></tr>
+    </table>
+    <p class="src">출처: <b>Bitto 2013</b> (rat 치주염, A2A 기전, <i>animal</i>), <b>Ku 2025</b> (<i>narrative review</i> — 카탈로그 + RCT gap).</p>
+  </div>
+</div>
+
+<!-- ===================== 종합표 ===================== -->
+<h2>4. Dose · Vehicle · Timing 종합표</h2>
+<p class="lede">위키 논문에 <b>실제 보고된 값만</b> 기재. 미기재 항목은 임의 생성하지 않고 '미검증'으로 표기.</p>
+<table class="grid">
+  <tr><th>적응증</th><th>Vehicle</th><th>농도 (보고값)</th><th>모델</th><th>핵심 정량</th></tr>
+  <tr>
+    <td>발치 후 통증</td><td>Submucosal injection</td>
+    <td><span class="tag t-unver">미검증</span> 위키 미기재</td><td>Human RCT</td>
+    <td>POD3·7 통증 ↓ (P&lt;0.05), duration n.s.</td>
+  </tr>
+  <tr>
+    <td>진통(비치과 보강)</td><td>Injection</td>
+    <td>—</td><td>SR/MA (RCT 합성)</td>
+    <td>건/인대 SMD −1.43; 슬관절 OA 1·2개월 통증&gt;HA; 기능 무변화</td>
+  </tr>
+  <tr>
+    <td>TMJ prolotherapy</td><td>관내·관주위 injection</td>
+    <td>—</td><td>Human retrospective</td>
+    <td>VAS 4.34→1.00; MMO 31.0→40.8mm; PDRN ≈ dextrose</td>
+  </tr>
+  <tr>
+    <td>연조직 / KT</td><td>Collagen matrix(XCM/VCMX) soaking</td>
+    <td><b>2.0 mg/mL</b> (2≈4, 비선형)</td><td>Dog</td>
+    <td>KT height ↑; volume gain n.s.(IIP); dehiscence&gt;50%</td>
+  </tr>
+  <tr>
+    <td>골재생(sinus/GBR/ARP/IIP)</td><td>Synthetic graft·막 soaking</td>
+    <td><b>2.0 mg/mL</b>(골); timing <span class="tag t-unver">미검증</span></td><td>Dog·Rabbit</td>
+    <td>sinus apical BIC 76.7 vs 55.6%; 효과 초기집중(4주/2주), BIC/BAFO n.s.</td>
+  </tr>
+  <tr>
+    <td>MRONJ(점막)</td><td>배양 첨가</td>
+    <td>100 µg/mL</td><td>In vitro (HGF-1)</td>
+    <td>zoledronic acid 독성 역전; TBK1↓·ROS↓</td>
+  </tr>
+  <tr>
+    <td>in vitro 골 기준점</td><td>배양 첨가</td>
+    <td>25–100 µg/mL (marker별 상이)</td><td>GMSC spheroid</td>
+    <td>D14·75 µg/mL Ca↑; RUNX2 peak 25 / COL1A1 peak 75</td>
+  </tr>
+  <tr>
+    <td>치주(기전)</td><td>Topical gel</td>
+    <td><span class="tag t-unver">미검증</span></td><td>Rat</td>
+    <td>염증·apoptosis 단백 ↓, DMPX로 소거</td>
+  </tr>
+</table>
+<p class="lede" style="margin-top:8px"><span class="tag t-claude">claude해석</span> 농도 단위가 µg/mL(in vitro)와 mg/mL(연조직 soaking) 사이 1000배 차이 — 동물 soaking 농도(2 mg/mL)를 in vitro 최적치와 직접 비교 불가. human injection 농도는 별도 확인 필수.</p>
+
+<!-- ===================== 체크리스트 ===================== -->
+<h2>5. 원장 메모 — 적용 전 체크리스트</h2>
+<div class="check">
+  <label><input type="checkbox"> 이 적응증이 <b>진통 축</b>(발치 통증·TMJ — human 근거 있음)인가, <b>재생 축</b>(골·연조직 — 전부 동물/in vitro)인가를 구분했는가?</label>
+  <label><input type="checkbox"> 환자에게 <b>off-label·실험적 보조</b>임을 고지하고 표준치료를 대체하지 않음을 확인했는가?</label>
+  <label><input type="checkbox"> 사용 제품의 <b>실제 농도·용량·허가범위</b>를 라벨에서 확인했는가? (위키 미기재 항목)</label>
+  <label><input type="checkbox"> 연조직 적용 시 <b>graft volume 과량</b>으로 인한 dehiscence 위험을 관리했는가? (2 mg/mL, 과충전 회피)</label>
+  <label><input type="checkbox"> 골재생 적용 시 <b>효과가 어려운 부위(apical/dehiscence)에 한정</b>됨을 이해하고 적응을 선택했는가?</label>
+  <label><input type="checkbox"> 비용·동의·진료기록에 <b>PDRN 보조 사용</b>을 별도 기재했는가?</label>
+  <label><input type="checkbox"> 대안(표준치료 단독)과의 trade-off를 환자와 공유했는가?</label>
+</div>
+
+<!-- ===================== 레퍼런스 ===================== -->
+<h2>6. 레퍼런스 (위키 PDRN 17편)</h2>
+<ol class="refs">
+  <li>Kim HJ et al. (2026). Submucosal PDRN injection after impacted mandibular third molar extraction. <span class="st">RCT (human, split-mouth) · Yonsei Med J · 10.3349/ymj.2024.0549</span></li>
+  <li>Choi JW et al. (2026). Efficacy of prolotherapy in TMD with hypertonic dextrose and PDRN. <span class="st">Retrospective (human, n=66) · J Oral Facial Pain Headache · 10.22514/jofph.2025.062</span></li>
+  <li>Ku JK (2025). Prolotherapy for temporomandibular joint disorders. <span class="st">Narrative review · J Korean Assoc Oral Maxillofac Surg · 10.5125/jkaoms.2025.51.6.354</span></li>
+  <li>Ku JK, Yun PY, Jeong YK (2025). PDRN in Dentistry: mechanisms and emerging applications. <span class="st">Narrative review · Tissue Eng Regen Med · 10.1007/s13770-025-00776-z</span></li>
+  <li>Manfredini M et al. (2023). PDRN Pre-Clinical Findings in Bone Healing. <span class="st">Scoping review · Dent J · 10.3390/dj11120280</span></li>
+  <li>Bitto A et al. (2013). A2A receptor stimulation by polynucleotides reduces inflammation in experimental periodontitis. <span class="st">Animal (rat) · J Clin Periodontol · 10.1111/jcpe.12010</span></li>
+  <li>Lee D et al. (2023a). PDRN on histologic outcomes of lateral sinus floor elevation. <span class="st">Animal (beagle) · J Periodontal Implant Sci · 10.5051/jpis.2202760138</span></li>
+  <li>Lee D et al. (2023b). PDRN on early bone formation in lateral augmentation with immediate implant. <span class="st">Animal (beagle) · Sci Rep · 10.1038/s41598-023-43213-8</span></li>
+  <li>Ko YC et al. (2024). Adjunctive effect of PDRN on bone formation in alveolar ridge preservation. <span class="st">Animal (beagle) · J Clin Periodontol · 10.1111/jcpe.13988</span></li>
+  <li>Lim H et al. (2025). Effects of PDRN on endosinus bone regeneration following sinus floor elevation. <span class="st">Animal (rabbit) · Clin Oral Implants Res · 10.1111/clr.14378</span></li>
+  <li>Lee H et al. (2024). PDRN on morphology/viability/osteogenic differentiation of GMSC spheroids. <span class="st">In vitro · Medicina · 10.3390/medicina60101610</span></li>
+  <li>Pachhapure S et al. (2025). PDRN against zoledronic acid-induced growth suppression of human gingival fibroblasts. <span class="st">In vitro · Int J Mol Sci · 10.3390/ijms262311367</span></li>
+  <li>Lim HC et al. (2023). XCM soaked with PDRN on gingival phenotype modification. <span class="st">Animal (dog) · J Periodontal Implant Sci · 10.5051/jpis.2301920096</span></li>
+  <li>Lee HK et al. (2024). Soft-tissue augmentation in IIP: SCTG vs VCMX vs VCMX+PDRN. <span class="st">Animal (dog) · J Periodontal Implant Sci · 10.5051/jpis.2400240012</span></li>
+  <li>Kim CH et al. (2025). Collagen matrix with PDRN at buccally positioned implants. <span class="st">Animal (canine, dose-response) · Clin Implant Dent Relat Res · 10.1111/cid.13411</span></li>
+  <li>Gwak DW et al. (2021). Does PDRN have an effect on tendon or ligament pain? <span class="st">SR/MA (non-dental) · Medicine · 10.1097/MD.0000000000025792</span></li>
+  <li>Kim MS, Cho RK, In Y (2019). Efficacy and safety of PDRN for knee osteoarthritis. <span class="st">SR/MA, 5 RCTs (non-dental) · Medicine · 10.1097/MD.0000000000017386</span></li>
+</ol>
+
+<div class="foot">
+  생성: 2026-05-31 · 근거: 내부 위키 PDRN 17편 (치과 15 + 비치과 cross-domain 2; 외부 웹검색 미사용, llm-wiki Rule #1 준수) ·
+  agenda: agenda/2026-05-31_pdrn-chairside-manual.md ·
+  본 문서는 임상 의사결정 보조이며 최종 판단·책임은 진료의에게 있음. 적응증 대부분 off-label·preclinical 단계.
+</div>
+
+</div>
+<button class="printbtn" onclick="window.print()">🖨 인쇄 / PDF 저장</button>
+</body>
+</html>

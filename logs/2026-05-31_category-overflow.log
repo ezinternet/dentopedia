@@ -1,11 +1,10 @@
 # Category Overflow — 2026-05-31
 CANDIDATE_THRESHOLD: ≥5 unsynthesized papers in a category
 CATEGORIES total       : 42
-CATEGORIES candidates  : 5
+CATEGORIES candidates  : 4
 
 === overview candidates (most unsynthesized first) ===
   category                                 total  synth  unsynth
-  immediate-implant                           99     91        8
   implants                                    95     89        6
   resin-bonding                               23     17        6
   drug                                        80     75        5
@@ -32,7 +31,7 @@ CATEGORIES candidates  : 5
   endodontics/shaping                          7      7        0
   endodontics/vpt                              8      8        0
   evidence-appraisal                          10     10        0
-  immediate-implant                           99     91        8 ◄
+  immediate-implant                           99     99        0
   implants                                    95     89        6 ◄
   implants/isq                                25     23        2
   implants/peri-implantitis                    1      0        1
@@ -43,7 +42,7 @@ CATEGORIES candidates  : 5
   oral-medicine                               20     18        2
   oral-surgery                                22     22        0
   orthodontics                                13     12        1
-  pdrn                                        10     10        0
+  pdrn                                        17     17        0
   periodontics                                23     21        2
   practice-management                          2      0        2
   professional-wellbeing                       7      7        0

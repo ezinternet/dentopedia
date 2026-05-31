@@ -11,7 +11,12 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/gaspar-2022-implant-stability-osseode
 pdf_filename: gaspar-2022-implant-stability-osseodensification-conventional-sr-ma.pdf
 source_collection: external
 tags: [osseodensification, sr+ma, isq, human, nrsi, primary-stability, secondary-stability]
+superseded_by: lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma, kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
+superseded_scope: partial
 ---
+
+> [!note] Partially superseded → [[lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]], [[kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma]]
+> 현재 1차 근거(primary evidence base)는 위 두 SR+MA. 단 본 논문은 최초 human-only OD ISQ 합성(only 3 NRSIs, no RCTs at search date)으로서 역사적 가치 유지. (set 2026-05-31)
 
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 인체 비무작위 중재연구 (Non-Randomised Study of Interventions, NRSI) 3편 — 골밀도화 (Osseodensification, OD)는 초기 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)에서 평균차 (Mean Difference, MD) 13.1 (95% 신뢰구간 (Confidence Interval, CI) 10.0–16.1, P<.0001, I²=0%)로 매우 일관된 우위, 4–6개월 추적 ISQ에서도 MD 5.99 (95% CI 1.3–10.6, P<.0001, I²=73%)로 우위였으나 이질성 (heterogeneity) 큼. 임상 적용 한계: 연구 단 3편·모두 비무작위로 무작위대조시험 (Randomized Controlled Trial, RCT) 부재이므로 추가 RCT 필요.

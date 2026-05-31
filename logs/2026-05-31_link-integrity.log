@@ -1,0 +1,22 @@
+# Link & Index Integrity — 2026-05-31
+wiki pages              : 939
+body wikilinks scanned  : 4541
+  BROKEN body wikilinks : 0
+  (info) category-folder refs : 4
+  (info) memory-system refs   : 4
+index entries           : 945
+  pages MISSING from index    : 0
+  index entries → nonexistent : 0
+
+=== (info) category-folder refs (no landing page — not counted as broken) ===
+  lu-2021-digital-stackable-osteotomy-template-precision  →  [[digital-workflow]]
+  kim-2026-efficacy-submucosal-polydeoxyribonucleotide-injection-impacted  →  [[oral-surgery]]
+  singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial  →  [[irrigation]]
+  open-healing-arp-technique-variables-overview  →  [[immediate-implant]]
+
+=== (info) memory-system refs (cross-system — not counted as broken) ===
+  osseodensification-clinical-applications  →  [[feedback_wiki-living-document]]
+  osseodensification-clinical-applications  →  [[feedback_wiki-living-document]]
+  dentist-burnout-mental-health-overview  →  [[feedback_wiki-living-document]]
+  josic-2022-ids-postoperative-sensitivity-sr-ma  →  [[feedback_wiki-living-document]]
+

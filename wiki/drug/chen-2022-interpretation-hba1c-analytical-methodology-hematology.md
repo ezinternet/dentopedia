@@ -74,7 +74,7 @@ The Chen 2022 review proposes a **three-axis interference framework** for HbA1c 
   - Pregnancy — HbA1c falsely low in 3rd trimester; use 1,5-AG or self-monitoring.
 - **Population context**: for Southeast Asian patients (HbE common), African descent (HbS/C), Mediterranean/Indian (HbS) — note that IEC and IA methods may produce variant-induced bias; if testing chairside, prefer enzymatic POC device.
 - **Discordance protocol**: when HbA1c contradicts fingerstick or clinical impression, treat HbA1c as suspect; do not delay urgent extraction in clearly symptomatic infection based on isolated high HbA1c.
-- **Compounds with diabetic patients receiving anticoagulants/antiplatelets**: chronic high-dose aspirin may elevate HbA1c on some assays — see [[overviews/anticoagulant-antiplatelet-dental-protocol]] for parallel medication context.
+- **Compounds with diabetic patients receiving anticoagulants/antiplatelets**: chronic high-dose aspirin may elevate HbA1c on some assays — see [[overviews/drug-anticoagulant-antiplatelet-perioperative-overview]] for parallel medication context.
 
 ## Related Papers
 - [[weykamp-2013-hba1c-review-analytical-clinical-aspects]] — earlier analytical methodology foundation; this paper extends it to hematology axis.

@@ -44,4 +44,4 @@ Lateral 접근 중심의 sinus pseudocyst literature에서 드문 transcrestal (
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — lateral 중심 SR
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — transcrestal 기본
 - [[sinus-lift/pseudocyst/grun-2023-antral-pseudocyst-15year-sinus-implant-case]] — untreated 장기 안정
-- [[sinus-lift/pseudocyst/jcm-13-00332]] → [[sinus-lift/pseudocyst/nosaka-2024-sinus-elevation-radiopaque-lesions-review]] — sinus lesion 일반론
+- [[sinus-lift/pseudocyst/nosaka-2024-sinus-elevation-radiopaque-lesions-review]] — sinus lesion 일반론

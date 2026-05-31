@@ -241,6 +241,64 @@ Pick the **single best label** for the study type. Ordered roughly from highest 
 - `YYYY-01-01` when only year is known.
 - If neither is recoverable from the paper, fall back to ingestion date (`YYYY-MM-DD` of when added to wiki).
 
+### `superseded_by:` — living-document supersession (optional field)
+
+The wiki is a living document: a paper page is not an ingest-time snapshot, it gets updated by later evidence. When a newer paper we hold **overturns the clinical bottom line** of an older page we hold, mark the *older* page. This converts the manual prose-update habit into a machine-checkable signal (`scripts/supersession-audit.py`).
+
+**This is a clinical judgment, not a mechanical year comparison.** Newer ≠ superior — a 2026 narrative-review does NOT supersede a 2022 SR+MA. Set the field only when the newer page genuinely beats the older one on evidence weight or currency, and only between pages we actually hold.
+
+**Forward-only trigger (no backfill needed).** At ingest of a new page, ask: *"does this overturn an existing page's bottom line?"* If yes, edit the *older* page — add the field + banner. Pre-existing pages are never bulk-scanned (same grandfather logic as `## Why Ingested`).
+
+Two frontmatter fields on the **superseded (older)** page:
+
+```yaml
+superseded_by: tisci-2026-isq-it-mbl-survival-sr-ma   # newer stem(s); comma-separated if >1; must exist in wiki/
+superseded_scope: full                                # full | partial
+```
+
+- `full` — the older page's conclusion is replaced; prefer the newer page for all current decisions.
+- `partial` — only part of the page is outdated, or the page retains standalone value (e.g. first-of-kind synthesis, historical anchor). Use this rather than overstating `full`.
+
+Plus a banner callout at the **top of the body** (right after frontmatter, before `## One-line Summary` / `## 한줄요약`). Obsidian and Quartz both render `[!warning]`/`[!note]` callouts natively — no build change:
+
+```markdown
+> [!warning] Superseded (full) → [[tisci-2026-isq-it-mbl-survival-sr-ma]]
+> 48-study SR+MA (r=0.44, p<0.001) overturns this 12-study NS result. (set 2026-05-31)
+```
+
+For `partial`, use `> [!note] Partially superseded → [[newer-stem]]` and state what the page still offers.
+
+**Decay is computed, never stored.** Do NOT add a decay/staleness field — a stored decay value rots (the same reason `overview-thesis-staleness.py` exists). `supersession-audit.py` computes it each run: high-evidence pages (`sr+ma`/`sr`/`rct`) older than 5y and not superseded are flagged as "verify still current" candidates.
+
+Design: `agenda/2026-05-31_supersession-decay-setup.md`.
+
+### `relations:` — typed entity edges (optional field)
+
+`[[wikilinks]]` encode *that* two pages relate; they don't encode *how*. The `## Why Ingested` section already states the relationship in prose ("X를 보강", "Y로 확장", "Z와 대비"). Lifting that into a structured frontmatter block turns overview synthesis from a cold start (re-read every page to infer relationships) into a warm assembly (the typed graph is already there). `superseded_by` is intentionally NOT part of this — it has its own audited field and banner.
+
+Optional block on the **citing (newer) page**, pointing out to the pages it relates to:
+
+```yaml
+relations:
+  - type: extends
+    target: manfredini-2023-polydeoxyribonucleotides-pre-clinical-findings-bone-healing
+  - type: reinforces
+    target: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review
+```
+
+Relation vocabulary (5 types; pick the single best per edge):
+
+| `type` | meaning | Why-Ingested 표현 예 |
+|---|---|---|
+| `extends` | builds on / expands target's scope or depth | "확장", "deep-dive", "적응증 확장" |
+| `reinforces` | independently confirms / strengthens target | "보강", "재확인", "일관", "짝을 이룸" |
+| `contradicts` | findings conflict with target | "반박", "상충", "대비되는 결과" |
+| `refines` | narrows / qualifies target's conclusion | "한정 시나리오 강화", "조건부", "scope 제한" |
+| `applies-to` | clinical/methodological application of target | "프로토콜 적용", "한국 임상 contextualization" |
+
+- `target` must be an existing wiki stem (validated by `scripts/relations-audit.py`).
+- Forward-only / grandfather: structure relations for **new** pages at ingest; old pages are not bulk-scanned. The audit reports a machine-readable typed-edge export (`logs/{date}_relations-graph.json`) for Quartz/custom rendering — Obsidian's graph view can't distinguish edge types, so the JSON export is where typed-edge value is harvested.
+
 ### Step 4 — Update `index.md`
 
 Add a one-line entry under the correct category.
@@ -353,13 +411,13 @@ Each session should produce 5–15 new or updated wiki pages.
 
 ## Daily Audit
 
-A single entry-point runs all 9 audits and writes their logs to `logs/`:
+A single entry-point runs all 12 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
 ```
 
-The 9 audits — 3 classic + 1 rationale (errors block) + 5 signals:
+The 12 audits — 3 classic + 1 rationale (errors block) + 8 signals:
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -372,6 +430,9 @@ The 9 audits — 3 classic + 1 rationale (errors block) + 5 signals:
 | `overview-thesis-staleness.py` | signal | overview의 git log를 wikilink-only vs thesis edit으로 분류해 진짜 stale overview 식별 (mtime은 wikilink-only ingest로 갱신돼 부정확) |
 | `overview-coverage-lint.py` | signal | overview 본문 cov% (linked paper 중 본문 author·year로 인용된 비율) — 낮으면 thesis 분기·표·결정 트리에 paper 반영 안 됨 |
 | `doi-duplicate-check.py` | signal | 동일 DOI·다른 stem 검출 + 제목 정규화 fallback(한쪽 DOI 비거나 불일치라 DOI로 못 잡는 동일논문) — orphan-check가 못 잡는 cross-stem 중복 가시화 |
+| `supersession-audit.py` | signal | `superseded_by` 깨진 링크 + 필드↔본문 배너 sync + decay 후보(sr+ma/sr/rct 중 5년↑ 미대체, 카테고리·중심성 집계) — living-document 갱신을 신호화 |
+| `relations-audit.py` | signal | `relations:` typed edge target 실존·vocab 검증 + 타입 분포 + typed-edge JSON export(Quartz/custom 렌더용) |
+| `link-integrity.py` | signal | 본문 `[[wikilink]]` 깨짐 + index.md 양방향 커버리지 (Astro-Han lint 개념 차용) |
 
 Signals never block. They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows).
 

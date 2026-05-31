@@ -11,6 +11,11 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/betancourt-2016-mb2-prevalence-locati
 pdf_filename: betancourt-2016-mb2-prevalence-location-cbct.pdf
 source_collection: external
 tags: [mb2, cbct, maxillary-molar, anatomy]
+relations:
+  - type: reinforces
+    target: hasheminia-2025-mb2-prevalence-maxillary-molar-iranian-sr
+  - type: reinforces
+    target: wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr
 ---
 
 ## 한줄요약

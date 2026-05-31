@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 9 audits and writes their logs to logs/.
+One entry-point that runs all 12 audits and writes their logs to logs/.
 
 Three classic audits (errors):
   - lint.py                  → wiki frontmatter sanity
@@ -16,6 +16,13 @@ Three synthesis-enforcement audits (signals, errors only on rationale lint):
 
 One thesis-staleness signal (git-diff based, non-blocking):
   - overview-thesis-staleness.py → overview thesis edit (non-wikilink) staleness
+
+One supersession + decay signal (non-blocking):
+  - supersession-audit.py → dangling superseded_by, field↔banner sync, decay candidates
+
+Two graph/integrity signals (non-blocking):
+  - relations-audit.py    → typed relation targets, vocab, typed-edge JSON export
+  - link-integrity.py     → broken body wikilinks, index.md two-way coverage
 
 Exit code:
     0 if all classic audits + ingest-rationale pass.
@@ -45,6 +52,9 @@ AUDITS = [
     ("overview-thesis-staleness.py", [],       False),
     ("overview-coverage-lint.py",    [],       False),
     ("doi-duplicate-check.py",       [],       False),
+    ("supersession-audit.py",        [],       False),
+    ("relations-audit.py",           [],       False),
+    ("link-integrity.py",            [],       False),
 ]
 
 
@@ -84,7 +94,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)

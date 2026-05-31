@@ -96,7 +96,7 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodont]] | consensus (KDA) | KDA peri-implant disease 합의안. Mucositis 43%, peri-implantitis 22% |
+| [[kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] | consensus (KDA) | KDA peri-implant disease 합의안. Mucositis 43%, peri-implantitis 22% |
 | [[periodontics/kim-2025-management-peri-implantitis-perspectives]] | narrative-review | 2017 World Workshop + 2024 KDA 합의 기반 분류·치료 종설 |
 | [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]] | sr+ma (6 RCT) | 비외과 peri-implantitis 항생제 adjunct — 국소 PPD −0.6 mm, BOP −0.15, 전신 PPD −1.15 mm |
 

@@ -51,4 +51,4 @@ Fresh porcine tibial plateau substrate. Three osteotomy groups (n = 6 each): SD 
 - [[implants/lahens-2019-osseodensification-implant-surface-treatments-sheep]] — sheep in vivo extension, BIC advantage of OD persists with longer healing.
 - [[implants/mello-machado-2021-osseodensification-low-quality-bone-rct]] — patient RCT in D3/D4 bone.
 - [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]] — clinical retrospective on OD ridge expansion.
-- [[implants/fontes-pereira-2023-osseodensification-alternative-conventional-osteotomy-sr]] — SR including Slete (Ref 2).
+- [[fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — SR including Slete (Ref 2).

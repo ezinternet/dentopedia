@@ -1,0 +1,99 @@
+# Supersession + Decay Audit — 2026-05-31
+wiki pages scanned        : 939
+superseded (field set)    : 3
+  DANGLING links          : 0
+  banner MISSING          : 0
+  banner ORPHAN (no field): 0
+  field/banner MISMATCH   : 0
+decay candidates (≥5y, rct/sr/sr+ma, not superseded): 112
+
+=== SUPERSEDED pages (field set) ===
+  [partial] gaspar-2022-implant-stability-osseodensification-conventional-sr-ma  →  lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma, kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
+  [full] lages-2018-isq-insertion-torque-correlation-sr  →  tisci-2026-isq-it-mbl-survival-sr-ma
+  [full] padhye-2020-osseodensification-systematic-review-qualitative-analysis  →  inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma
+
+=== DECAY by category (count / median age / max inbound) ===
+   19  implants               median   6.4y   maxInbound 12
+   18  bone-regeneration      median   8.5y   maxInbound 17
+   11  drug                   median  10.7y   maxInbound 9
+    9  immediate-implant      median   7.1y   maxInbound 14
+    7  periodontics           median  10.4y   maxInbound 5
+    6  sinus-lift             median   6.2y   maxInbound 14
+    6  resin                  median   8.3y   maxInbound 8
+    5  endodontics            median   8.6y   maxInbound 5
+    4  oral-surgery           median   9.4y   maxInbound 8
+    4  inlay                  median   5.6y   maxInbound 6
+    3  prosthetic-materials   median   6.4y   maxInbound 8
+    3  tmj                    median   6.4y   maxInbound 6
+    3  resin-bonding          median   5.2y   maxInbound 6
+    3  caries                 median   7.5y   maxInbound 2
+    2  oral-medicine          median   5.5y   maxInbound 6
+    2  behavioral-dentistry   median  12.6y   maxInbound 5
+    2  orthodontics           median   8.4y   maxInbound 3
+    2  pdrn                   median   6.7y   maxInbound 2
+    1  digital-workflow       median   5.1y   maxInbound 9
+    1  dental-materials       median   5.0y   maxInbound 6
+    1  professional-wellbeing median   7.7y   maxInbound 2
+
+=== DECAY candidates — verify still current (by centrality, top 60) ===
+  ib=17   12.0y  [sr+ma]  bone-regeneration/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review  (2014-06-03)
+  ib=14    5.2y  [   sr]  immediate-implant/ogawa-2022-socket-shield-technique-systematic-review  (2021-03-09)
+  ib=14    5.1y  [   sr]  sinus-lift/anitua-2021-mucous-cysts-pseudocysts-implants-sr  (2021-05-01)
+  ib=12   11.1y  [sr+ma]  bone-regeneration/atieh-2015-alveolar-ridge-preservation-cochrane-review  (2015-05-01)
+  ib=12    7.7y  [sr+ma]  bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis  (2018-10-04)
+  ib=12    5.3y  [sr+ma]  implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma  (2021-02-28)
+  ib=11   11.4y  [sr+ma]  implants/derks-2015-peri-implant-health-disease-epidemiology  (2015-01-01)
+  ib=11    5.4y  [sr+ma]  sinus-lift/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift  (2021-01-01)
+  ib=10    5.4y  [   sr]  implants/di-stefano-2021-stability-dental-implants-cortical-bone  (2021-01-01)
+  ib= 9   10.7y  [sr+ma]  drug/moore-2015-single-dose-oral-analgesics-cochrane-overview  (2015-09-01)
+  ib= 9    5.6y  [sr+ma]  bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic  (2020-10-17)
+  ib= 9    5.6y  [sr+ma]  immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma  (2020-10-30)
+  ib= 9    5.1y  [   sr]  digital-workflow/revilla-leon-2021-artificial-intelligence-implant-dentistry-sr  (2021-05-01)
+  ib= 8   14.4y  [   sr]  bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes  (2011-12-28)
+  ib= 8   11.2y  [   sr]  prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr  (2015-03-01)
+  ib= 8    6.7y  [sr+ma]  resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma  (2019-10-01)
+  ib= 8    5.9y  [   sr]  oral-surgery/bailey-2020-surgical-techniques-mandibular-wisdom-teeth-sr  (2020-07-01)
+  ib= 8    5.4y  [  rct]  implants/mello-machado-2021-osseodensification-low-quality-bone-rct  (2021-01-11)
+  ib= 8    5.4y  [   sr]  implants/mortazavi-2021-bone-loss-tissue-bone-level-implants  (2021-01-01)
+  ib= 7   11.4y  [sr+ma]  implants/strietzel-2015-platform-switching-mbl-sr-ma  (2015-01-01)
+  ib= 7   10.4y  [  rct]  implants/rocha-2016-platform-switching-crestal-bone-3year-rct  (2016-01-01)
+  ib= 7    8.4y  [sr+ma]  bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation  (2018-01-13)
+  ib= 7    8.4y  [   sr]  implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy  (2018-01-01)
+  ib= 7    7.4y  [sr+ma]  bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions  (2019-01-09)
+  ib= 7    5.7y  [sr+ma]  implants/pesce-2020-photo-plasma-activation-titanium-sr-ma  (2020-09-02)
+  ib= 7    5.4y  [  rct]  sinus-lift/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus  (2021-01-01)
+  ib= 7    5.4y  [  rct]  immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct  (2021-01-01)
+  ib= 7    5.1y  [sr+ma]  bone-regeneration/atieh-2021-interventions-replacing-missing-teeth  (2021-04-26)
+  ib= 6    7.4y  [  rct]  implants/messias-2019-platform-switching-mbl-5year-rct  (2019-01-01)
+  ib= 6    6.4y  [sr+ma]  tmj/zhu-2020-btx-painful-tmd-sr-ma  (2020-01-01)
+  ib= 6    6.4y  [   sr]  tmj/zhang-2020-occlusal-splint-tmd-rct-sr  (2020-01-01)
+  ib= 6    5.6y  [sr+ma]  inlay/bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma  (2020-10-19)
+  ib= 6    5.5y  [   sr]  oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr  (2020-12-03)
+  ib= 6    5.4y  [sr+ma]  resin/worthington-2021-composite-vs-amalgam-cochrane-sr  (2021-01-01)
+  ib= 6    5.3y  [   sr]  implants/jungbauer-2021-cold-atmospheric-plasma-antimicrobial-sr  (2021-02-19)
+  ib= 6    5.2y  [sr+ma]  resin-bonding/hardan-2021-universal-adhesive-dentin-bond-sr-ma  (2021-03-07)
+  ib= 6    5.1y  [sr+ma]  implants/yu-2021-extra-short-vs-longer-implants-ma  (2021-04-15)
+  ib= 6    5.0y  [sr+ma]  dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma  (2021-05-20)
+  ib= 5   24.4y  [  rct]  drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm  (2001-12-20)
+  ib= 5   19.7y  [  rct]  drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet  (2006-09-02)
+  ib= 5   16.5y  [   sr]  bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes  (2009-11-19)
+  ib= 5   15.4y  [sr+ma]  drug/pak-2011-root-canal-pain-prevalence-severity  (2011-01-01)
+  ib= 5   14.4y  [  rct]  resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial  (2012-01-01)
+  ib= 5   12.6y  [sr+ma]  behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings  (2013-11-01)
+  ib= 5   10.7y  [   sr]  periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr  (2015-10-01)
+  ib= 5   10.4y  [sr+ma]  implants/di-girolamo-2016-platform-switching-matching-sr-ma  (2016-01-01)
+  ib= 5   10.0y  [  rct]  immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct  (2016-06-07)
+  ib= 5    9.5y  [  rct]  bone-regeneration/park-2016-hidden-x-suture-ridge-preservation  (2016-12-01)
+  ib= 5    8.4y  [   sr]  periodontics/manresa-2018-supportive-periodontal-therapy-cochrane-sr  (2018-01-01)
+  ib= 5    8.3y  [sr+ma]  resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma  (2018-02-21)
+  ib= 5    8.0y  [sr+ma]  resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma  (2018-06-01)
+  ib= 5    7.4y  [   sr]  behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication  (2019-01-01)
+  ib= 5    7.3y  [  rct]  drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter  (2019-02-26)
+  ib= 5    7.1y  [  rct]  immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation  (2019-05-01)
+  ib= 5    6.7y  [   sr]  bone-regeneration/majzoub-2019-influence-different-grafting-materials  (2019-09-30)
+  ib= 5    6.4y  [   sr]  endodontics/lim-2020-qmix-antibacterial-e-faecalis-sr  (2020-01-01)
+  ib= 5    6.4y  [sr+ma]  implants/naseri-2020-smoking-levels-implant-failure-sr-ma  (2020-01-19)
+  ib= 5    5.7y  [sr+ma]  immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets  (2020-09-21)
+  ib= 5    5.1y  [sr+ma]  prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma  (2021-05-12)
+  ib= 5    5.1y  [sr+ma]  resin-bonding/hong-2021-universal-adhesive-etching-modes-sr-ma  (2021-05-01)
+
