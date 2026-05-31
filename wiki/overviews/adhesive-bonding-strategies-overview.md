@@ -90,6 +90,7 @@ tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, c
 ## Related overviews
 
 - [[overviews/direct-resin-restoration-adhesion-placement-overview]] — 직접 레진 접착 통합
+- [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (간접수복 전처리 deep-dive)
 - [[overviews/lithium-disilicate-inlay-onlay-evidence]] — 간접 LiDiSi 접착
 - [[overviews/zirconia-types-clinical-selection]] — 지르코니아 본딩
 
