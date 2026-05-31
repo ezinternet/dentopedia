@@ -9,6 +9,22 @@ allowed-tools: Bash, Read, Write, Edit
 
 Full pipeline to add a dental research PDF into the LLM Wiki knowledge base.
 
+## Step 0 — Model & batch check (ask first, before any work)
+
+Before starting, ask the user **once** (use the AskUserQuestion tool) and wait for the answer:
+
+> **"논문 ingest 모델을 무엇으로 할까요?"**
+> - **Sonnet 최고등급 (권장)** — ingest는 정형 작업이라 Sonnet이면 충분하고 비용이 Opus의 약 1/5. 최고 effort로 품질 확보.
+> - **현재 모델 유지** — 지금 세션 모델 그대로 사용.
+
+How to honor the answer:
+- If the user picks **Sonnet 최고등급**, tell them to run `/model sonnet` (and raise effort to high/max) before continuing, OR — if invoked as a subagent — set the agent's `model: sonnet` + `effort: high`. The skill itself cannot switch the main-session model mid-run, so surface this clearly rather than silently ignoring it.
+- If multiple PDFs are being ingested in one go, this is a **batch** — note the count; it changes Step 10 (embed once at the very end, not per paper).
+
+Skip Step 0 only if the user already specified the model in their request.
+
+---
+
 ## Workflow
 
 ### Step 1 — Receive and validate input
@@ -204,14 +220,20 @@ if not orphan_pdfs and not orphan_srcs: print('OK: 1:1 match')
 ### Step 10 — Refresh search index (qmd)
 
 A new wiki page is invisible to semantic search until qmd re-indexes and embeds it.
-Run this **after** the wiki/sources files are written and lint passes:
+
+**Batch rule (important).** `qmd embed` re-embeds *every* changed doc in the repo each run, so calling it once per paper during a multi-paper batch wastes huge amounts of time (the wiki is edited daily by lints/audits, so each run re-embeds hundreds of unrelated docs). Therefore:
+
+- **Single paper** → run the block below after Steps 1–9.
+- **Batch (2+ papers, see Step 0)** → do Steps 1–9 for *every* paper first, and run this index-refresh block **exactly once, after the last paper**. Do NOT run `qmd update`/`qmd embed` between papers.
+
+Run after the wiki/sources files are written and lint passes:
 
 ```bash
 # brew node(v25+)를 강제 — PATH에 구 node v18이 앞설 경우 ABI 불일치로 qmd가 깨짐.
 export PATH="/opt/homebrew/bin:$PATH"
 cd /Users/oracleneo/llm-wiki
 qmd update      # 파일시스템 재스캔 — 신규 wiki/sources md 등록
-qmd embed       # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초)
+qmd embed       # 변경분만 임베딩 (incremental). batch면 마지막에 1회만.
 ```
 
 Then confirm the new page is searchable (should return the new stem):
