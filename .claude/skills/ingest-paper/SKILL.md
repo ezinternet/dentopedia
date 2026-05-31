@@ -201,7 +201,34 @@ if not orphan_pdfs and not orphan_srcs: print('OK: 1:1 match')
 
 ---
 
-### Step 10 — Report completion
+### Step 10 — Refresh search index (qmd)
+
+A new wiki page is invisible to semantic search until qmd re-indexes and embeds it.
+Run this **after** the wiki/sources files are written and lint passes:
+
+```bash
+# brew node(v25+)를 강제 — PATH에 구 node v18이 앞설 경우 ABI 불일치로 qmd가 깨짐.
+export PATH="/opt/homebrew/bin:$PATH"
+cd /Users/oracleneo/llm-wiki
+qmd update      # 파일시스템 재스캔 — 신규 wiki/sources md 등록
+qmd embed       # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초)
+```
+
+Then confirm the new page is searchable (should return the new stem):
+
+```bash
+export PATH="/opt/homebrew/bin:$PATH"
+qmd query "{paper topic in a few words}" -c wiki 2>/dev/null | grep -i "{stem}" | head -1
+```
+
+Notes:
+- `qmd embed` is **incremental** — it only embeds documents whose content changed, so a single new paper finishes in seconds. Never use `-f` here (that forces a full re-embed of all ~1,800 docs, ~2.5 h).
+- If `qmd` errors with `NODE_MODULE_VERSION` / `ERR_UNKNOWN_FILE_EXTENSION`, the wrong Node is on PATH. The `export PATH=...` line above fixes it; if it persists, run `cd /opt/homebrew/lib/node_modules/@tobilu/qmd && npm rebuild better-sqlite3`.
+- The qmd MCP daemon picks up the new vectors automatically — no restart needed.
+
+---
+
+### Step 11 — Report completion
 
 Tell the user:
 ```
@@ -210,6 +237,7 @@ Tell the user:
    Confidence: {confidence}
    Lint      : OK {n} files, 0 errors
    Index     : added to {section heading}
+   Search    : qmd re-indexed + embedded (searchable now)
 ```
 
 ---
