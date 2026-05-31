@@ -6,7 +6,7 @@ A personal knowledge base of dental research papers, following [Karpathy's LLM W
 Original PDF → sources/*.md (LLM summary) → wiki/{category}/*.md (final page)
 ```
 
-**Language policy**: Wiki body content is in English (RAG-friendly, preserves technical terms). Each wiki page includes a `## 한줄요약` section (Korean one-line summary) immediately above `## Summary`. Conversation can be in any language (including Korean).
+**Language policy**: Wiki body content is in English (RAG-friendly, preserves technical terms). Every wiki page AND every source page carries a **bilingual one-line summary** as two separate sections, in this order: `## One-line Summary` (English) immediately followed by `## 한줄요약` (Korean). On wiki pages this pair sits immediately above `## Summary`; on source pages it sits immediately above `## 1. Document Information`. Both languages are mandatory for new pages. Conversation can be in any language (including Korean).
 
 **Term notation rule**: When using technical/medical terms in conversation, ALWAYS write them as **한국어 (English, 약어)** format. Example: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
 
@@ -96,9 +96,11 @@ All three tiers share the same stem:
 | `resin-bonding` | 레진접착 | Adhesive systems, bonding mechanisms, dentin adhesion |
 | `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
 | `drug` | 전신질환·약물 | Systemic disease management, drug interactions, MRONJ, anticoagulants |
+| `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
 | `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
 | `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
 | `evidence-appraisal` | 근거평가·통계방법론 | EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes |
+| `bone-biology` | 골생물학 | Molecular/cellular bone biology — osteoclast/osteoblast signaling (SIK, PTHrP, RANKL), residual ridge resorption pathology, basic socket healing biology |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
@@ -110,6 +112,18 @@ Classify by **method/procedure**, not by disease or anatomy.
 Say: *"Add this paper to the wiki: /path/to/paper.pdf"*
 
 The agent will do all four steps automatically.
+
+### Step 0 — Pre-ingest gate (dedup + retraction)
+
+Before copying anything, run two checks. Skipping these is how the wiki accumulates duplicate and discredited pages.
+
+1. **DOI / cross-stem duplicate check.** Extract the paper's DOI, then grep `sources/` for it. `orphan-check.py` only enforces stem-level 1:1 — it does NOT catch the same paper ingested under a different stem (e.g. `gaspar-2022-...` vs `gaspar-2025-...`, `materials-14-...` vs `inchingolo-...-sr-ma`). If the DOI already exists, do NOT create a second page — update the existing one instead. `scripts/doi-duplicate-check.py` (daily-audit signal) reports same-DOI/different-stem groups after the fact.
+
+   ```bash
+   grep -rl "10.xxxx/the-doi" sources/    # 결과 있으면 중복 → 기존 페이지 갱신, 신규 ingest 금지
+   ```
+
+2. **Retraction check.** Do NOT ingest a retracted article, retraction notice, erratum-only page, or a bare PubMed/publisher listing page as a knowledge page — it propagates discredited claims and violates the living-document/critical-appraisal principle. If a retracted paper must be recorded, make a single explicit "RETRACTED — do not cite" stub, never a normal wiki page. Delete retraction/erratum notice PDFs (they are not ingestable papers).
 
 ### Step 1 — Copy PDF to `papers/` and extract text
 
@@ -142,7 +156,9 @@ pdf_filename: {stem}.pdf
 source_collection: external
 ---
 
+## Why Ingested
 ## One-line Summary
+## 한줄요약
 ## 1. Document Information
 ## 2. Key Contributions
 ## 3. Methodology and Architecture
@@ -151,6 +167,21 @@ source_collection: external
 ## 6. Related Work
 ## 7. Glossary
 ```
+
+**`## Why Ingested` is MANDATORY for sources ingested on/after 2026-05-27** (enforced by `scripts/ingest-rationale-lint.py`). Pre-cutoff sources are grandfathered (no backfill).
+
+Required content of the section:
+- 1–2 sentences explaining *why* this paper was ingested now (gap, conflict, new evidence, requested by user, related to current clinical case, etc.)
+- At least one `[[wiki/category/stem]]` wikilink to an existing wiki page that this paper reinforces, contradicts, or extends.
+
+Example:
+```
+## Why Ingested
+
+기존 [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]]의 ISQ ≥65 threshold가 5Y-PSZ implant에 적용되는지 의문. 본 RCT (Konuklu 2026)는 5개 osteotomy protocol을 직접 비교해 임계값 보강 근거로 활용.
+```
+
+Rationale: a 2-minute cost at ingest turns later overview synthesis from a cold start into a warm assembly. See `agenda/2026-05-26_synthesis-enforcement-setup.md` for the design.
 
 ### Step 3 — Write `wiki/{category}/{stem}.md`
 
@@ -169,6 +200,9 @@ pdf_filename: {stem}.pdf
 source_collection: external
 tags: []
 ---
+
+## One-line Summary
+(English one-liner: study type, n, key finding)
 
 ## 한줄요약
 (Korean one-liner: study type, n, key finding in plain Korean)
@@ -210,6 +244,19 @@ Pick the **single best label** for the study type. Ordered roughly from highest 
 ### Step 4 — Update `index.md`
 
 Add a one-line entry under the correct category.
+
+### Step 5 — Refresh search index (qmd)
+
+A new page is invisible to semantic search until qmd re-indexes and embeds it. Run after the wiki/sources files are written:
+
+```bash
+export PATH="/opt/homebrew/bin:$PATH"   # brew node(v25+) 강제 — 구 node v18이 앞서면 ABI 불일치로 qmd 깨짐
+cd /Users/oracleneo/llm-wiki
+qmd update   # 파일시스템 재스캔 (신규/변경/삭제 반영)
+qmd embed    # 신규 문서만 임베딩 (incremental — 1~2편이면 수 초). 전체 재임베딩(-f)은 ~2.5h이므로 금지
+```
+
+The MCP daemon picks up new vectors automatically — no restart needed.
 
 ---
 
@@ -304,9 +351,64 @@ The most valuable pages are `wiki/overviews/` pages that synthesize across paper
 
 Each session should produce 5–15 new or updated wiki pages.
 
+## Daily Audit
+
+A single entry-point runs all 9 audits and writes their logs to `logs/`:
+
+```bash
+python3 scripts/daily-audit.py
+```
+
+The 9 audits — 3 classic + 1 rationale (errors block) + 5 signals:
+
+| Audit | Type | Purpose |
+|---|---|---|
+| `lint.py` | error | wiki frontmatter required fields |
+| `operations-lint.py` | error | OPS files (agenda/slides/interactives) cross-link chain |
+| `orphan-check.py` | error | PDFs ↔ sources 1:1 matching |
+| `synthesis-backlog.py` | signal | sources/ not referenced by any overview, stale ≥30d |
+| `ingest-rationale-lint.py` | error (post-cutoff only) | `## Why Ingested` on sources ingested ≥ 2026-05-27 |
+| `category-overflow.py` | signal | wiki categories with ≥5 unsynthesized papers → overview candidates |
+| `overview-thesis-staleness.py` | signal | overview의 git log를 wikilink-only vs thesis edit으로 분류해 진짜 stale overview 식별 (mtime은 wikilink-only ingest로 갱신돼 부정확) |
+| `overview-coverage-lint.py` | signal | overview 본문 cov% (linked paper 중 본문 author·year로 인용된 비율) — 낮으면 thesis 분기·표·결정 트리에 paper 반영 안 됨 |
+| `doi-duplicate-check.py` | signal | 동일 DOI·다른 stem 검출 + 제목 정규화 fallback(한쪽 DOI 비거나 불일치라 DOI로 못 잡는 동일논문) — orphan-check가 못 잡는 cross-stem 중복 가시화 |
+
+Signals never block. They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows).
+
+Run daily (manual or cron). The three key compounding metrics over time:
+- **synthesis-backlog %**: should trend up (more sources getting linked from overviews).
+- **category-overflow count**: should trend down as overviews get written.
+- **thesis-staleness warn/info**: should stay low — overview 본문이 정기적으로 refresh되는지 보는 signal.
+
+Design rationale: see `agenda/2026-05-26_synthesis-enforcement-setup.md`.
+
+## Searching the Wiki (QMD)
+
+At ~900 pages plain `grep` starts missing cross-category overview matches, so the wiki uses **QMD** ([tobi/qmd](https://github.com/tobi/qmd)) — an on-device hybrid search engine (BM25 + vector + LLM re-ranking), all local, no cloud.
+
+**QMD does NOT violate Rule #1.** It is local-first: it indexes and searches only the markdown files in this repo (`~/.cache/qmd/index.sqlite`), never the web. It *reinforces* Rule #1 by making local retrieval strong enough that web search is never tempting. QMD is a better `grep`, not a `WebSearch`.
+
+Setup (one-time, run on the Mac): `bash scripts/setup-qmd.sh`. Embedding model is Qwen3 multilingual (CJK/Korean queries supported). MCP runs as an HTTP daemon at `localhost:8181`, exposed to Claude Code as the `qmd` MCP server.
+
+Collections indexed: `wiki/`, `sources/`, `agenda/`, `note-meeting/` (markdown only; `papers/` PDFs are not indexed by QMD).
+
+Search precedence when answering:
+
+1. **QMD `query`** (hybrid, best quality) for concept/synthesis questions — e.g. "ISQ loading threshold across osteotomy protocols".
+2. **QMD `search`** (BM25) for exact terms — author names, device names, specific values.
+3. Fall back to `grep` / `index.md` only if the QMD daemon is down.
+
+After every ingest (or daily), refresh the index so new pages are searchable:
+
+```bash
+qmd update && qmd embed     # re-scan + embed new docs only
+```
+
+This pairs cleanly with the daily audit — run it alongside `scripts/daily-audit.py`.
+
 ## Browsing with Obsidian
 
-Install [Obsidian](https://obsidian.md/) (free) and open `/Users/oracleneo/llm-wiki` as a Vault. You get graph view, `[[wikilinks]]` navigation, and full-text search. Obsidian only reads files — it does not interfere with agent edits.
+Install [Obsidian](https://obsidian.md/) (free) and open `/Users/oracleneo/llm-wiki` as a Vault. You get graph view, `[[wikilinks]]` navigation, and full-text search. Obsidian only reads files — it does not interfere with agent edits. QMD (search) and Obsidian (browse) layer cleanly: both only read files.
 
 ---
 
@@ -318,13 +420,3 @@ Install [Obsidian](https://obsidian.md/) (free) and open `/Users/oracleneo/llm-w
 - **No web search**: rule #1 above
 
 When in doubt, follow rule #1.
-
-## graphify
-
-This project has a knowledge graph at graphify-out/ with god nodes, community structure, and cross-file relationships.
-
-Rules:
-- ALWAYS read graphify-out/GRAPH_REPORT.md before reading any source files, running grep/glob searches, or answering codebase questions. The graph is your primary map of the codebase.
-- IF graphify-out/wiki/index.md EXISTS, navigate it instead of reading raw files
-- For cross-module "how does X relate to Y" questions, prefer `graphify query "<question>"`, `graphify path "<A>" "<B>"`, or `graphify explain "<concept>"` over grep — these traverse the graph's EXTRACTED + INFERRED edges instead of scanning files
-- After modifying code, run `graphify update .` to keep the graph current (AST-only, no API cost).
