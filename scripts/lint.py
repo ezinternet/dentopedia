@@ -13,6 +13,7 @@ import os
 import re
 import sys
 import argparse
+from typing import Optional
 
 try:
     import yaml
@@ -40,10 +41,14 @@ VALID_CONFIDENCE = {
     "cross-sectional", "case-report", "in-vivo", "animal",
     "in-vitro", "narrative-review", "consensus",
     "synthesis",  # internal multi-paper synthesis pages (no source PDF)
+    # Korean health-insurance administrative documents (non-research):
+    "regulation",  # MOHW notice / decree / amendment
+    "official-qa", # official Q&A from MOHW / HIRA
+    "manual",      # practical guidebook / 실무편람 / 청구길라잡이
 }
 
 
-def parse_frontmatter(content: str) -> dict | None:
+def parse_frontmatter(content: str) -> Optional[dict]:
     """Return frontmatter as raw string dict, or None if missing."""
     m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
     if not m:
