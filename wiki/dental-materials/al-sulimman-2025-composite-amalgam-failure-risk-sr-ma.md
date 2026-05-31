@@ -13,6 +13,9 @@ source_collection: external
 tags: [amalgam, composite-resin, failure-risk, rr, meta-analysis, prisma, cochrane, newcastle-ottawa, posterior-teeth, restoration-failure]
 ---
 
+## One-line Summary
+SR+MA of composite resin vs amalgam failure risk (Int Dent J 2025, 13 studies): RR 0.96 (95% CI 0.68–1.34), no statistically significant difference; failure proportions ranged 0–50% for amalgam and 0–62.7% for composite; heterogeneity in failure definitions is the key limitation.
+
 ## 한줄요약
 복합레진 vs 아말감 실패위험 SR+MA (Int Dent J 2025): 13편; RR 0.96 (95% CI 0.68–1.34), 통계적으로 유의한 차이 없음; 실패비율 아말감 0–50%, 레진 0–62.7%; 연구 간 실패 정의 이질성이 핵심 제한점.
 

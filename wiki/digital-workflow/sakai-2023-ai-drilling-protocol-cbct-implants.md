@@ -13,6 +13,9 @@ source_collection: external
 tags: [artificial-intelligence, AI, CBCT, drilling-protocol, bone-quality, primary-stability, LeNet-5, deep-learning]
 ---
 
+## One-line Summary
+Retrospective (J Prosthodont Res 2023;67:360–365, Osaka Univ.): LeNet-5 AI model predicts implant drilling protocol (A/B/C) from CBCT images — overall accuracy 93.8%, AUC 98.6–99.4%; potential as decision-support tool for improving primary stability.
+
 ## 한줄요약
 retrospective(J Prosthodont Res 2023;67:360-365, Osaka U): LeNet-5 AI 모델 CBCT 이미지로 임플란트 드릴링 프로토콜(A/B/C) 예측 — 정확도 93.8%, AUC 98.6–99.4%; 1차 안정성 향상을 위한 의사결정 지원 가능성.
 

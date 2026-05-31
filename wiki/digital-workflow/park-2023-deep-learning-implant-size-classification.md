@@ -13,6 +13,9 @@ source_collection: external
 tags: [deep-learning, AI, implant-identification, periapical-radiograph, VGG16, k-means, implant-size, classification]
 ---
 
+## One-line Summary
+Retrospective (Sci Rep 2023;13:16856): VGG16 DL + k-means++ clustering for classifying implant diameter and length from periapical radiographs (9 groups) — DL accuracy >0.994, AUC >0.975; clustering accuracy >0.983; clinical potential for identifying implants without records.
+
 ## 한줄요약
 retrospective(Sci Rep 2023;13:16856): VGG16 DL + k-means++ 클러스터링으로 치근단 방사선 임플란트 직경·길이 분류(9그룹) — DL 정확도 >0.994·AUC >0.975; 클러스터링 정확도 >0.983; 기록 없는 임플란트 식별 임상 잠재성.
 

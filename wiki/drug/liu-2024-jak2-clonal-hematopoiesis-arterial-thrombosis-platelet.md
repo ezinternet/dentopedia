@@ -14,6 +14,9 @@ source_collection: external
 tags: [JAK2, CHIP, clonal-hematopoiesis, platelet, arterial-thrombosis, cardiovascular, basic-science, mechanism]
 ---
 
+## One-line Summary
+Translational study (Blood, Columbia/LMU/MGH/Broad): JAK2V617F CHIP clonal mutation increases arterial thrombosis risk via platelet activation and platelet-leukocyte cross-talk — background knowledge for CHIP-driven thrombosis in elderly patients rather than direct dental application.
+
 ## 한줄요약
 Blood 기초·중개 연구 (Columbia/LMU/MGH/Broad): JAK2V617F clonal hematopoiesis of indeterminate potential (CHIP) — 골수 클론 변이가 platelet 활성화와 cross-talk을 통해 동맥혈전증 위험을 증가시키는 기전 규명. 치과 직접 적용보다 노인 환자 CHIP-driven 혈전 배경 지식으로 보유.
 

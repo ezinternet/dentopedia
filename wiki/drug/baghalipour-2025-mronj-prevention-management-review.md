@@ -14,6 +14,9 @@ source_collection: external
 tags: [MRONJ, bisphosphonate, denosumab, antiangiogenic, osteonecrosis, prevention, quaternary-prevention, drug-holiday, CHX]
 ---
 
+## One-line Summary
+Comprehensive review (2025): 4-level MRONJ prevention framework (primary = pre-medication dental treatment, secondary = intraoperative, tertiary = established MRONJ management, quaternary = preventing over-medicalization); primary prevention most effective; IV bisphosphonates and denosumab are highest risk.
+
 ## 한줄요약
 포괄적 고찰(2025): MRONJ 4단계 예방 체계(1차=투약 전 치과 처치, 2차=술중, 3차=확립된 MRONJ 관리, 4차=과잉의료화 방지); 1차 예방이 가장 효과적; IV 비스포스포네이트·데노수맙 고위험
 

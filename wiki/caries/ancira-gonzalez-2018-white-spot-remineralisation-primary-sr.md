@@ -13,6 +13,9 @@ source_collection: external
 tags: [WSL, primary-teeth, remineralization, fluoride, CPP-ACP, pediatric]
 ---
 
+## One-line Summary
+SR of WSL remineralization in primary teeth (9 RCTs): fluoride and CPP-ACP are both effective, with no clear superiority between methods.
+
 ## 한줄요약
 유치 WSL 재광화 SR(9개 RCT): 불소·CPP-ACP 모두 효과적, 방법 간 명확한 우위 없음.
 

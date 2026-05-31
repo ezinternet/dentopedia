@@ -13,6 +13,9 @@ source_collection: external
 tags: [arp, esthetic-zone, ridge-preservation, buccal-plate, implant-timing]
 ---
 
+## One-line Summary
+Periodontology 2000 narrative review (2018) presenting three ARP timing windows for the esthetic zone — soft-tissue preservation at 6–8 weeks, hard+soft preservation at 4–6 months, and hard-tissue preservation beyond 6 months — classified according to buccal plate status and implant placement timing.
+
 ## 한줄요약
 서술적 리뷰 (Periodontology 2000, 2018): 심미영역에서 발치 후 폐포융선 보존술 (Alveolar Ridge Preservation, ARP)의 세 가지 시기 (6–8주 연조직 / 4–6개월 경+연조직 / 6개월+ 경조직)를 협측 골판 (buccal plate) 상태와 임플란트 식립 시점에 맞춰 분류 제시.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, APA, cleaning, Ivoclean, surface-free-energy, SFE, 150-day, long-term, TBS]
 ---
 
+## One-line Summary
+In vitro (J Prosthodont Res 2025): cleaning method after airborne-particle abrasion with a 72-hour delay — no short-term TBS differences; at 150 days/37,500 thermocycles, Ivoclean and alcohol showed best durability; Katana Cleaner reduced SFE and is contraindicated.
+
 ## 한줄요약
 in-vitro(J Prosthodont Res 2025): 에어어브레이전 72시간 후 세정법별 TBS — 단기 차이 없음; 150일(37,500 열순환) 후 Ivoclean·알코올 내구성 우수; Katana Cleaner SFE 저하 — 사용 금기.
 

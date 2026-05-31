@@ -13,6 +13,9 @@ source_collection: external
 tags: [digital-impression, IOS, intraoral-scanner, edentulous, full-arch, conventional-impression, trueness, precision, RMS, SR+MA]
 ---
 
+## One-line Summary
+SR+MA (MDPI Dentistry 2026, Semmelweis, 34 in vitro studies, PROSPERO): digital vs conventional full-arch implant impressions in edentulous patients — no significant difference by RMS; full-arch edentulous IOS accuracy remains debated; conventional impressions remain valid.
+
 ## 한줄요약
 sr+ma(MDPI Dentistry 2026, Semmelweis, 34편 in-vitro, PROSPERO): 무치악 전악 임플란트 인상 디지털 vs 전통 — RMS 기준 유의차 없음; IOS 전악 무치악 정확도 여전히 논쟁; 전통 인상도 유효.
 

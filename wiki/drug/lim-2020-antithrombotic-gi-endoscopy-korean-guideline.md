@@ -14,6 +14,9 @@ source_collection: external
 tags: [antithrombotic, warfarin, DOAC, aspirin, clopidogrel, DAPT, Korean-guideline, GI-endoscopy, perioperative, multidisciplinary]
 ---
 
+## One-line Summary
+Korean multidisciplinary CPG from 12 tertiary hospitals (KJG 2020): management of warfarin/DOAC/aspirin/clopidogrel/DAPT around GI endoscopy — continuation/interruption decisions based on procedural bleeding risk × patient thrombotic risk matrix; not directly applicable to dentistry but the best Korean-language reference for these drug classes.
+
 ## 한줄요약
 한국 12개 종합병원 다학제 합의 임상진료지침 (KJG 2020): 내시경 시술 전후 warfarin/DOAC/aspirin/clopidogrel/DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 중단/지속 결정. 치과에 직접 적용은 불가하지만 동일 약물 클래스 한국어 reference.
 

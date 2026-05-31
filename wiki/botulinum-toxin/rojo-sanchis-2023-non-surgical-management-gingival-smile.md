@@ -14,6 +14,9 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, systematic-review, meta-analysis, prisma, robins-i, meta-regression, yonsei-point]
 ---
 
+## One-line Summary
+SR+MA (15 prospective + 1 retrospective studies, 11 in meta-analysis): BTX-A reduces gingival exposure by -3.22 mm at 2 weeks (95% CI -4.43 to -2.01) and -2.70 mm at 3 months — no significant difference between timepoints; dose 1.25–7.5 U/side was not associated with effect (meta-regression p=0.78).
+
 ## 한줄요약
 SR+MA (15 prospective + 1 retrospective studies, 11편 meta-analysis): BTX-A 2주차 잇몸노출 -3.22 mm (95% CI -4.43 ~ -2.01), 3개월차 -2.70 mm — 2주-3개월 차이 NS; 1.25-7.5 U/side dose는 효과와 무관 (meta-regression p=0.78).
 

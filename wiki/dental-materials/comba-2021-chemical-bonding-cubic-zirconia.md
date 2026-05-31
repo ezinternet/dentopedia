@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, cubic-zirconia, 5Y-PSZ, MDP, CoJet, tribochemical, bond-strength, aging]
 ---
 
+## One-line Summary
+In vitro (Materials 2021): chemical bonding to cubic (5Y) zirconia — CoJet + silane + MDP primer showed best 6-month bond stability; MDP alone also significantly improved bond; cubic zirconia responds similarly to 4Y/3Y for adhesion.
+
 ## 한줄요약
 in-vitro(Materials 2021): 큐빅(5Y) 지르코니아 화학 결합 — CoJet+실란+MDP 프라이머: 6개월 최고 안정성; MDP 단독도 유의한 향상; 큐빅 지르코니아도 4Y/3Y와 유사한 접착 반응.
 

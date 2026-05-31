@@ -13,6 +13,9 @@ source_collection: external
 tags: [amalgam, composite-resin, survival-rate, big-data, real-world, maccabi, multi-surface, single-surface, failure-rate, cox-regression]
 ---
 
+## One-line Summary
+Big-data retrospective cohort (Israel Maccabi, 58 clinics, 650,000+ patients, 2014–2021): amalgam annual failure rate 3.5% vs composite 4.5%; HR 1.29; significant difference only in multi-surface composite restorations.
+
 ## 한줄요약
 Big-data 후향적 코호트 (이스라엘 Maccabi, 58개소, 650,000명 이상, 2014–2021): 아말감(Amalgam) 연간 실패율 3.5% vs 복합레진(Composite Resin) 4.5%; HR 1.29; 다면(Multi-surface) 레진에서만 유의한 차이.
 

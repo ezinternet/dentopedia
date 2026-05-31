@@ -14,6 +14,9 @@ source_collection: external
 tags: [periodontitis, host-modulation, vitamin-c, vitamin-e, lysozyme, carbazochrome, celc, igatan-f, rct, korea, adjunct-therapy]
 ---
 
+## One-line Summary
+Multicenter RCT (n=100, 8 weeks): adjunctive vitamin C/E + lysozyme + carbazochrome (CELC, IGATAN F) to SRP — gingival index (GI) significantly lower than placebo at 4 weeks (Δ −0.18 vs +0.01, p=0.015), GEE OR=2.46 (p=0.022); no significant difference in PD, CAL, or PI — clear clinical efficacy limitations.
+
 ## 한줄요약
 다기관 RCT(n=100, 8주): SRP에 비타민C/E + 라이소자임 + 카르바조크롬(CELC, IGATAN F) 보조투여 시 위약 대비 치은지수(GI) 4주 시점 0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI 유의차 없음 — 임상적 효능 한계 명확.
 

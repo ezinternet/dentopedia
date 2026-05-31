@@ -13,6 +13,9 @@ source_collection: external
 tags: [ios, intraoral-scanner, accuracy, trueness, precision, in-vitro, comparison, full-arch, anterior-posterior]
 ---
 
+## One-line Summary
+In vitro comparison of 4 intraoral scanner (IOS) types for accuracy (Diagnostics 2024): statistically significant differences in trueness and precision among devices; anterior vs posterior performance rankings differ; all devices within clinically acceptable range for single-unit restorations.
+
 ## 한줄요약
 4종 구강내 스캐너(IOS) 정확도 in vitro 비교 (Diagnostics 2024): 진정도(Trueness)·정밀도(Precision) 평가; 스캐너 간 통계적 유의차 있음; 전치부 vs 구치부 성능 순위 상이; 단일 수복 범위는 모두 임상 허용 범위 내.
 

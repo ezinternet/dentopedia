@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, healthcare-general, robot-assisted-surgery, rehabilitation, AR, VR, IoT, wearable, medical-imaging, drug-discovery]
 ---
 
+## One-line Summary
+Narrative review (Eur J Med Res 2025;30:382): AI in healthcare practice — robot-assisted surgery (pre/intra/post-operative phases), rehabilitation, medical imaging, virtual patient care, drug discovery, patient engagement, administration; emphasizes cross-disciplinary integration with AR, VR, IoT, and wearables; data quality, bias, ethics, regulation, and cost are barriers; not dental-specific.
+
 ## 한줄요약
 narrative-review (Eur J Med Res 2025;30:382): 의료 AI 실무 활용 — 로봇 보조 수술(전·중·후 단계), 재활, 영상진단, 가상 환자 케어, 신약 개발, 환자 참여, 행정; AR·VR·IoT·웨어러블과의 교차 통합 강조; 데이터 품질·편향·윤리·규제·비용 장벽; 치과 특화 아님.
 

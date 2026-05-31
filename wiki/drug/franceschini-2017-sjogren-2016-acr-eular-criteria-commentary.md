@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Commentary on 2016 ACR/EULAR primary Sjögren syndrome criteria changes — salivary gland biopsy retained, ocular dryness symptom-only item removed, shift to biomarker-centered criteria.
+
 ## 한줄요약
 2016 ACR/EULAR pSS 기준 변경 해설 — 침샘 생검 유지, 안구건조 증상 단독 항목 삭제, 바이오마커 중심 전환.
 

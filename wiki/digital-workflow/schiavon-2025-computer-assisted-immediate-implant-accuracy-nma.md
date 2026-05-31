@@ -13,6 +13,9 @@ source_collection: external
 tags: ['CAIS', 'guided surgery', 'immediate implant', 'accuracy', 'network meta-analysis']
 ---
 
+## One-line Summary
+SR+NMA (7 RCTs, 338 implants, 291 patients, Univ. Zurich): computer-assisted implant surgery (CAIS) — dynamic/full static/partial static — vs freehand accuracy comparison for immediate implant placement; CAIS consistently superior to freehand for angular, coronal, and apical deviation.
+
 ## 한줄요약
 SR+NMA (7 RCT, 338 임플란트, 291명, Univ Zurich): 즉시식립에서 Computer-Assisted Implant Surgery (CAIS) — dynamic/full static/partial static — vs freehand 정확도 비교; CAIS가 freehand 대비 angular/coronal/apical deviation 일관되게 우수.
 

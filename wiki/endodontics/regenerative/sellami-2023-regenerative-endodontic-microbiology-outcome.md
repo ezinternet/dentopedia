@@ -13,6 +13,9 @@ source_collection: external
 tags: [regenerative-endodontics, rep, microbiology, qpcr, naocl, edta, lprf, e-faecalis, fusobacterium, bacterial-load, disinfection, immature-permanent-tooth]
 ---
 
+## One-line Summary
+Prospective study of microbial reduction and clinical/radiographic outcomes in REP for necrotic immature permanent teeth (Front Dent Med 2023): n=14, qPCR at 4 time points; 1.5% NaOCl single session significantly reduced total bacterial load; F. nucleatum, T. denticola, E. faecalis detected in 100% of cases; LPRF group had retreatment failures → LPRF not recommended.
+
 ## 한줄요약
 미성숙 영구치 치수괴사 REP 미생물 감소와 임상·방사선 결과 (Front Dent Med 2023): 14명 qPCR 4시점; 1.5% NaOCl 1회 세션에서 총 세균 부하 유의 감소; F. nucleatum·T. denticola·E. faecalis 100% 검출; LPRF 군 재치료 발생 → LPRF 비권장.
 

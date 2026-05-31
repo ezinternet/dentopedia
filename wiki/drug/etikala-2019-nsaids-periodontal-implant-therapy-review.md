@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, COX-2, osseointegration, periodontal-healing, implant-therapy, wound-healing, drug-interaction]
 ---
 
+## One-line Summary
+Narrative review (9 periodontal studies, 6 implant studies): NSAIDs produce conflicting results for periodontal wound healing; selective COX-2 inhibitors may inhibit peri-implant bone formation; very limited human clinical evidence — clinicians prescribing NSAIDs after dental surgery should be aware of potential impact on osseous healing (Compend 2019).
+
 ## 한줄요약
 서술적 고찰(치주 9편·임플란트 6편): NSAIDs가 치주 상처 치유에 상충된 결과; 선택적 COX-2 억제제는 임플란트 주위 골형성 억제 가능; 인체 임상 근거 매우 부족 — 치과 외과술 후 NSAID 처방 시 골유착 영향 인지 필요 (Compend 2019).
 

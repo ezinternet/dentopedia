@@ -13,6 +13,9 @@ source_collection: external
 tags: [mronj, bisphosphonate, denosumab, romosozumab, drug-holiday, staging, prevention, consensus]
 ---
 
+## One-line Summary
+AAOMS 2022 MRONJ position paper: diagnostic criteria and staging unchanged from 2014, romosozumab added, drug holiday remains controversial with no consensus, CTX no longer recommended, denosumab holiday timing proposed at 6 weeks–3 months.
+
 ## 한줄요약
 AAOMS 2022 MRONJ 포지션 페이퍼: 진단기준·스테이징 2014년 동일, romosozumab 추가, 약물 중단(drug holiday) 권고 없이 논쟁 중, CTX 더 이상 권장 안 함, denosumab 중단 시 6주~3개월 timing 제안.
 

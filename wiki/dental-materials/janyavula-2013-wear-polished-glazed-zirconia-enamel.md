@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, polishing, glazing, enamel-wear, surface-roughness, Y-TZP, wear-testing, UAB]
 ---
 
+## One-line Summary
+In vitro (J Prosthet Dent 2013): polished, glazed, and polished+reglazed zirconia vs porcelain and enamel wear — polished Zr caused zero ceramic wear and least antagonist enamel wear; glazed Zr caused significant ceramic and antagonist wear; surface roughness predicts antagonist wear.
+
 ## 한줄요약
 in-vitro(J Prosthet Dent 2013): 연마·유약·연마+재유약 지르코니아 vs 도재·에나멜 마모 — 연마 Zr: 세라믹 마모 없음, 최소 대합치 마모; 유약 Zr: 세라믹+대합치 마모 유의; 표면조도가 대합치 마모 예측.
 

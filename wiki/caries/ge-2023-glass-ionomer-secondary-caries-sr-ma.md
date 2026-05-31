@@ -13,6 +13,9 @@ source_collection: external
 tags: [gic, rmgic, secondary-caries, amalgam, composite, restorative-material]
 ---
 
+## One-line Summary
+GIC restorations caused significantly less secondary caries than amalgam (permanent teeth RR=0.20, primary teeth RR=0.55) and were equivalent to resin composite for caries prevention (meta-analysis of 64 RCTs, 2023).
+
 ## 한줄요약
 GIC 수복은 아말감 대비 이차 우식을 유의하게 적게 발생시키고(영구치 RR=0.20, 유치 RR=0.55), 레진 컴포지트와는 동등한 예방 효과를 보였다 (64 RCT 메타분석, 2023).
 

@@ -14,6 +14,9 @@ source_collection: external
 tags: [impression-material, polyether, pvs, vxse, flowability, tear-strength, hydrophilicity, elastomer]
 ---
 
+## One-line Summary
+In vitro (14 elastomeric impression materials): polyether (PE) showed highest flowability, PVS highest tear strength, and VXSE highest hydrophilicity; no single material excels in all properties — selection should be guided by clinical conditions.
+
 ## 한줄요약
 In vitro (14종 탄성인상재): PE 최고 흐름성, PVS 최고 인열강도, VXSE 최고 친수성; 단일 우수재료 없음 — 임상조건에 따라 선택
 

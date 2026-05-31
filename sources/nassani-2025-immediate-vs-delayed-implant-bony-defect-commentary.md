@@ -2,7 +2,7 @@
 title: "Immediate versus delayed single-tooth implant placement in bony defect sockets in the aesthetic zone: Is an intact buccal wall necessary?"
 authors: Nassani MZ
 year: 2025
-doi: ""
+doi: 10.1038/s41432-025-01152-5
 journal: "Evidence-Based Dentistry 26:80-82"
 category: [immediate-implant]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf

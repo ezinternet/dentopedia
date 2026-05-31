@@ -13,6 +13,9 @@ source_collection: external
 tags: [ICDAS, caries-detection, reproducibility, accuracy, SROC, DOR]
 ---
 
+## One-line Summary
+SR of ICDAS (54 studies): pooled reproducibility >0.65, SROC at D1 threshold >0.75 and D3 >0.90 — overall good diagnostic performance.
+
 ## 한줄요약
 ICDAS SR(54개 연구): 재현성 pooled >0.65, SROC D1 >0.75·D3 >0.90 — 전반적 양호한 진단 성능.
 

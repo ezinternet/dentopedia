@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-overprescription, apical-periodontitis, endodontics, AMR, stewardship, ESE, AAE, SR-MA]
 ---
 
+## One-line Summary
+SR+MA (Univ Sevilla, Antibiotics 2024): quantifies antibiotic overprescription by dentists for apical periodontitis — widespread prescribing in non-indicated cases despite root canal treatment being the primary intervention; large gap between ESE/AAE guidelines and clinical practice.
+
 ## 한줄요약
 SR+MA (Univ Sevilla, Antibiotics 2024): 근첨치주염 (AP) 치료에서 치과의사 항생제 과잉처방 실태 정량화 — 근관치료가 1차 indication임에도 비적응 케이스에 항생제 처방 광범위; ESE/AAE 가이드라인과 임상 행태 괴리.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [ios, intraoral-scanner, edentulous, laboratory-scanner, accuracy, denture, impression, scoping-review]
 ---
 
+## One-line Summary
+Scoping review of IOS vs laboratory scanner impression accuracy in edentulous arches (BDJ Open 2025, PRISMA-ScR, 312 articles → 8 included): IOS is useful for edentulous arches but flat mucosal surfaces limit accuracy; laboratory scanners generally superior for fully edentulous cases.
+
 ## 한줄요약
 무치악 악궁 IOS vs 기공실 스캐너 인상 정확도 scoping review (BDJ Open 2025): PRISMA-ScR; 312건 → 8편; IOS는 무치악에도 유용하나 평탄한 점막 표면이 정확도 한계; 기공실 스캐너가 무치악에서 대체로 우위.
 

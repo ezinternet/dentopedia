@@ -13,6 +13,9 @@ source_collection: external
 tags: [partial-pulpotomy, MTA, calcium-hydroxide, RCT, pediatric, permanent-molar]
 ---
 
+## One-line Summary
+RCT of partial pulpotomy in carious permanent molars of children (7–10 years, 84 teeth): Ca(OH)₂ vs MTA — MTA showed a directional advantage; foundational pediatric VPT data.
+
 ## 한줄요약
 소아(7–10세) 영구 구치 우식 노출 partial pulpotomy RCT(84개 치아): Ca(OH)₂ vs MTA — MTA 방향성 우위, 소아 VPT 기초 데이터.
 

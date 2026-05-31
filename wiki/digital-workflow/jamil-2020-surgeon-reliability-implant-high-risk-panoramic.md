@@ -13,6 +13,9 @@ source_collection: external
 tags: [panoramic, cbct, implant-planning, IAN, paresthesia, posterior-mandible]
 ---
 
+## One-line Summary
+Prospective clinical study (n=148 implants in 73 patients): implant lengths chosen from panoramic radiograph alone were verified by post-operative CBCT — 93.2% underestimated available bone height, of which 73.9% had residual bone <2 mm; 5 cases of transient paresthesia in the posterior mandible — conclusion is that panoramic-only safety depends on surgeons conservatively selecting short implants.
+
 ## 한줄요약
 전향적 임상 (Prospective, n=148 implants in 73 patients): 파노라마 (Panoramic Radiograph) 만으로 술자가 선택한 임플란트 길이를 술후 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT) 으로 검증한 결과, 93.2% 가 가용 골 높이 (Available Bone Height, ABH) 를 과소평가했고 그 중 73.9% 는 잔여 골 (Remaining Bone) <2 mm — 후방 하악 (Posterior Mandible) 에서는 5건의 일과성 감각이상 (Transient Paresthesia) 보고. 파노라마만 사용 시 "안전한 이유는 술자가 보수적으로 짧게 선택하기 때문" 이라는 결론.
 

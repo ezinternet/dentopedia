@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-prophylaxis, infective-endocarditis, IE, AHA, NICE, dental-procedure, SR-MA, JAMA-Cardiol, risk-stratification]
 ---
 
+## One-line Summary
+JAMA Cardiology 2024 SR+MA (n=1,152,345 IE cases): antibiotic prophylaxis after invasive dental procedures significantly reduces IE risk only in high-risk patients; no significant effect in moderate-, low-, or unknown-risk groups — empirically supports the AHA/NICE high-risk-only recommendation.
+
 ## 한줄요약
 JAMA Cardiology 2024 SR+MA (n=1,152,345 IE 사례): 침습적 치과시술 후 항생제 예방 — **고위험군에서만** IE 위험 유의 감소; 중간/저위험/불명 위험군에서는 효과 없음 → 2007/2017 AHA·NICE의 고위험군 한정 권고 입장 empirical 지지.
 

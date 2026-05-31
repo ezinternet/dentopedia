@@ -23,19 +23,30 @@ Usage:
 
 import os
 import sys
+import unicodedata
 
 PAPERS_DIR = "papers"
 SOURCES_DIR = "sources"
 
 
+def _stem_nfc(fname: str) -> str:
+    """파일명 stem을 NFC 정규화로 반환.
+
+    macOS HFS+/APFS는 한글 파일명을 NFD(자모 분리)로 저장,
+    Linux는 NFC(완성형)가 기본. 두 플랫폼에서 동일 set 비교가
+    되도록 정규화 후 stem 추출.
+    """
+    return unicodedata.normalize("NFC", os.path.splitext(fname)[0])
+
+
 def main():
     pdfs = {
-        os.path.splitext(f)[0]
+        _stem_nfc(f)
         for f in os.listdir(PAPERS_DIR)
         if f.endswith(".pdf")
     }
     srcs = {
-        os.path.splitext(f)[0]
+        _stem_nfc(f)
         for f in os.listdir(SOURCES_DIR)
         if f.endswith(".md")
     }

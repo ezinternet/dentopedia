@@ -14,6 +14,9 @@ source_collection: external
 tags: [EAL, apex-locator, working-length, umbrella-review, radiography, primary-teeth, sr+ma]
 ---
 
+## One-line Summary
+Umbrella review (7 SRs): EAL and radiographic WL determination are broadly equivalent; no significant difference among EAL generations 3–6; acceptable in primary teeth (low evidence); NaOCl presence affects EAL readings.
+
 ## 한줄요약
 우산 리뷰(SR 7편): EAL과 방사선 근관장 측정은 전반적으로 동등; EAL 3–6세대 간 유의차 없음; 유치에서도 허용 가능(낮은 근거); NaOCl 존재 시 EAL 수치 영향받음
 

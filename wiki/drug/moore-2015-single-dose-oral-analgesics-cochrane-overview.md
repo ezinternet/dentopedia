@@ -14,6 +14,9 @@ source_collection: external
 tags: [Cochrane, single-dose, postoperative-pain, NNT, ibuprofen, acetaminophen, APAP, codeine, tramadol, opioid, overview-of-reviews]
 ---
 
+## One-line Summary
+Cochrane overview of Cochrane SRs (Moore 2015): single-dose oral analgesics for acute postoperative pain — ibuprofen 200/400mg + APAP 500/1000mg combination NNT ~1.5 (lowest); ibuprofen 400mg alone ~2.5; APAP+codeine ~2.2; codeine 60mg alone NNT ~12 (essentially placebo); tramadol 75mg ~9 — NSAID+APAP combination is the standard first-line.
+
 ## 한줄요약
 Oxford Cochrane overview of Cochrane SRs (Moore 2015): 급성 술후 통증 단일-dose 경구 진통제 — Ibuprofen 200/400 + APAP 500/1000 병용 NNT ~1.5 (최저); Ibuprofen 400 단독 ~2.5; APAP+codeine ~2.2; codeine 60 단독 NNT 12+ (사실상 효과 없음); tramadol 75 NNT ~9 — NSAID + APAP 병용이 표준 1차.
 

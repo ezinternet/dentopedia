@@ -13,6 +13,9 @@ source_collection: external
 tags: [socket-healing, histology, dog-model, extraction-socket, ridge-preservation, landmark]
 ---
 
+## One-line Summary
+Animal study (n=9 mongrel dogs): histomorphometric analysis at 9 time points establishes the extraction socket healing sequence — blood clot (days 1–3) → provisional connective tissue (day 7) → woven bone (day 14) → mineralized bone peak 88% (day 30) → bone marrow 85% (day 180) — the landmark timeline reference for GBR and ARP literature.
+
 ## 한줄요약
 동물실험 (Animal study, n=9 mongrel dogs): 발치와 (Extraction Socket) 치유 9개 시점 조직형태계측 — 혈병 (Day 1–3) → 잠정 결합조직 (Provisional Connective Tissue, PCT, Day 7) → 신생골 (Woven Bone, Day 14) → 광화골 정점 88% (Day 30) → 골수 (Bone Marrow, BM) 85% (Day 180) 의 치유 시퀀스를 확립. 골유도재생술 (Guided Bone Regeneration, GBR) 및 치조제 보존술 (Alveolar Ridge Preservation, ARP) 문헌의 기준이 되는 랜드마크 논문.
 

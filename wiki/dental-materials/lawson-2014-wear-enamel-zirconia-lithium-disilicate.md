@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, lithium-disilicate, enamel-wear, polishing, glazing, occlusal-adjustment, Y-TZP]
 ---
 
+## One-line Summary
+In vitro (J Dent 2014): zirconia and lithium disilicate across adjusted/polished/glazed states at 400,000 cycles — polished Zr showed least enamel antagonist wear (0.33 mm³); feldspathic porcelain most (2.15 mm³); polishing after adjustment reduced wear for both materials; Zr showed less material wear than lithium disilicate.
+
 ## 한줄요약
 in-vitro(J Dent 2014): Zr·LD × 조정/연마/유약, 400,000사이클 — 연마 Zr: 최소 대합치마모(0.33mm³); 장석도재: 최대(2.15mm³); 조정 후 연마로 Zr·LD 모두 마모 감소; Zr < LD 재료마모.
 

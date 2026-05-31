@@ -13,6 +13,9 @@ source_collection: external
 tags: [qmix, enterococcus-faecalis, antibacterial, chx, edta, nacl, mtad, cetrimide, irrigant-comparison]
 ---
 
+## One-line Summary
+SR of QMix antibacterial efficacy (14 in vitro studies): superior to NaOCl, EDTA, CHX, MTAD, and Cetrimide against E. faecalis; advantage over NaOCl only when contact time <10 min or volume <3 mL.
+
 ## 한줄요약
 QMix 항균효과 SR(14개 in vitro 연구): 장구균(E. faecalis)에 대해 NaOCl·EDTA·CHX·MTAD·Cetrimide 모두 대비 우수; NaOCl 대비 우위는 접촉 시간 <10분 또는 용량 <3mL 조건에서만.
 

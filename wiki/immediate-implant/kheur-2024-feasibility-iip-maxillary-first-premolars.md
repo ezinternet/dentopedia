@@ -33,4 +33,4 @@ Anatomy-only; no outcome data; single population.
 
 ## Related Papers
 - [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
+- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]

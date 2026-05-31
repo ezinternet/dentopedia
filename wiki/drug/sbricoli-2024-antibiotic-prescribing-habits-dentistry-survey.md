@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-prescribing, stewardship, AMR, questionnaire, dental-survey, Italy, overprescription]
 ---
 
+## One-line Summary
+Questionnaire survey of Italian dentists (Padova/Naples, Antibiotics 2024): antibiotic prescribing habits — overprescription, guideline deviation, and a persistent gap between AMR awareness and actual prescribing behavior — baseline data for stewardship interventions.
+
 ## 한줄요약
 이탈리아 Padova/Naples 치과의사 설문 (Antibiotics 2024): 치과 항생제 처방 행태 — 과잉처방, 가이드라인 이탈, AMR 인식↔행동 괴리 — 스튜어드십 intervention 근거 자료.
 

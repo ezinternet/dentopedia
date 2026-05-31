@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, socket-grafting, ARP, ridge-preservation, xenograft, allograft, membrane, RCT-SR]
 ---
 
+## One-line Summary
+SR+MA (J Dent Res 2014): RCT meta-analysis showing ARP vs. natural healing preserves buccolingual width by +1.89 mm and midbuccal height by +2.07 mm; flap elevation + membrane + xenograft/allograft combination is the optimal protocol.
+
 ## 한줄요약
 sr+ma(J Dent Res 2014): RCT 메타분석; 발치와보존(ARP) vs 자연치유 — 협설폭 +1.89mm·협측높이 +2.07mm 유의하게 보존; 판막거상+막+이종/동종골이식 조합이 최우수.
 

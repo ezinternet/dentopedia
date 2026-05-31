@@ -13,6 +13,9 @@ source_collection: external
 tags: [lithium-disilicate, lds, emax, survival-rate, fixed-prosthesis, crown, fpd, pfm, comparison, ceramic]
 ---
 
+## One-line Summary
+SR of complete-coverage fixed lithium disilicate (LDS) prosthesis survival (Medicina 2023, 2006–2022): LDS single crown survival comparable to PFM; fracture risk higher for long-span FDPs.
+
 ## 한줄요약
 리튬 디실리케이트(LDS) 전부피개 고정성 보철물 생존율 SR (Medicina 2023): 2006–2022 PubMed+EMBASE+Google Scholar; LDS 단관 생존율 PFM 대등; 장경간 FPD에서 파절 위험 높음.
 

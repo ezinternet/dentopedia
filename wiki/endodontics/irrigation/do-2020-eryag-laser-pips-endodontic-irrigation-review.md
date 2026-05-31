@@ -13,6 +13,9 @@ source_collection: external
 tags: [Er:YAG, PIPS, laser, irrigation, LAI, endodontics, smear-layer]
 ---
 
+## One-line Summary
+Literature review (59 studies): Er:YAG laser-activated irrigation (LAI)/photon-induced photoacoustic streaming (PIPS) outperformed conventional methods in 33/59 studies — no in vivo studies, no standardized protocol.
+
 ## 한줄요약
 문헌고찰 (59편): Er:YAG 레이저 활성 관개(LAI)/광유도 광음향 스트리밍(PIPS)이 33/59 연구에서 기존 방법보다 우수 — 체내 연구 없음, 표준화 프로토콜 부재.
 

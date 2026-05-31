@@ -1,0 +1,60 @@
+# Category Overflow — 2026-05-28
+CANDIDATE_THRESHOLD: ≥5 unsynthesized papers in a category
+CATEGORIES total       : 45
+CATEGORIES candidates  : 5
+
+=== overview candidates (most unsynthesized first) ===
+  category                                 total  synth  unsynth
+  pdrn                                         9      0        9
+  immediate-implant                          100     92        8
+  implants                                    98     90        8
+  endodontics/shaping                          7      0        7
+  implants/versah-protocols                    5      0        5
+
+=== all categories ===
+  category                                 total  synth  unsynth
+  behavioral-dentistry                         6      5        1
+  bone-biology                                 2      2        0
+  bone-regeneration                           44     44        0
+  botulinum-toxin                             18     18        0
+  caries                                       9      9        0
+  cracked-tooth                                8      8        0
+  dental-history                               1      0        1
+  dental-materials                            51     51        0
+  dentin-hypersensitivity                      3      3        0
+  digital-workflow                            29     28        1
+  drug                                        79     75        4
+  endodontics                                  8      7        1
+  endodontics/anatomy                         16     12        4
+  endodontics/eal                              9      9        0
+  endodontics/irrigation                      13     12        1
+  endodontics/regenerative                     6      6        0
+  endodontics/shaping                          7      0        7 ◄
+  endodontics/vpt                              8      8        0
+  evidence-appraisal                          10     10        0
+  immediate-implant                          100     92        8 ◄
+  implants                                    98     90        8 ◄
+  implants/isq                                24     23        1
+  implants/peri-implantitis                    1      0        1
+  implants/surface                            21     19        2
+  implants/versah-protocols                    5      0        5 ◄
+  inlay                                       16     16        0
+  korean-health-insurance/claim-practice       1      0        1
+  korean-health-insurance/dental-specific      3      0        3
+  korean-health-insurance/fee-schedule         3      0        3
+  korean-health-insurance/selective-coverage     2      0        2
+  oral-medicine                               20     18        2
+  oral-surgery                                22     22        0
+  orthodontics                                13     12        1
+  pdrn                                         9      0        9 ◄
+  periodontics                                22     20        2
+  practice-management                          3      1        2
+  professional-wellbeing                       7      7        0
+  prosthetic-materials                        32     32        0
+  radiology                                    2      0        2
+  resin                                       15     14        1
+  resin-bonding                               17     17        0
+  sinus-lift/lateral                          35     35        0
+  sinus-lift/pseudocyst                       15     15        0
+  sinus-lift/transcrestal                     20     18        2
+  tmj                                         13     13        0

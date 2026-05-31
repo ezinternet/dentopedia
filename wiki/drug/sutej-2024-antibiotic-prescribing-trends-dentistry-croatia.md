@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-prescribing-trends, dentistry, Croatia, national-data, 10-year, AMR, stewardship-baseline]
 ---
 
+## One-line Summary
+Croatian national prescription data 10-year analysis (2014–2023, Univ Zagreb): dental antibiotic prescribing trends — changes in total prescription volume and broad-spectrum antibiotic share; AMR policy baseline with an EU-comparable framework.
+
 ## 한줄요약
 크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb): 치과 항생제 처방 추세 — 전체 처방량·광범위 항생제 비율 변동, AMR 정책 baseline 제공; 단일국가 데이터지만 EU 비교가능 framework.
 

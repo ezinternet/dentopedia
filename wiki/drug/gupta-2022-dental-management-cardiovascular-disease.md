@@ -14,6 +14,9 @@ source_collection: external
 tags: [cardiovascular, hypertension, ischemic-heart-disease, MI, arrhythmia, infective-endocarditis, anticoagulant, vasoconstrictor, drug-interaction]
 ---
 
+## One-line Summary
+Narrative review: dental management protocols for hypertension, IHD, MI (elective treatment permissible after 30 days), arrhythmia, infective endocarditis, heart failure, stroke, and pacemaker patients, plus a drug interaction summary.
+
 ## 한줄요약
 서술적 고찰: 고혈압·IHD·MI(30일 이후 선택적 치료)·부정맥·감염성 심내막염·심부전·뇌졸중·박동기 환자의 치과 치료 지침 및 약물 상호작용 정리
 

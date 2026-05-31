@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, opioids, ibuprofen, acetaminophen, hydrocodone, third-molar, extraction-pain, postoperative-pain, RCT]
 ---
 
+## One-line Summary
+Multisite RCT (n=1,815, JADA 2025): after impacted mandibular third-molar extraction, non-opioid (ibuprofen 400 mg + APAP 500 mg) produced significantly less pain on days 1–2 (MD −0.70, p<0.001) than opioid (hydrocodone 5 mg + APAP 300 mg) and was noninferior over the full period; opioids showed no advantage at any time point.
+
 ## 한줄요약
 하악 매복 3번째 대구치 발치 후 비오피오이드(이부프로펜 400mg+APAP 500mg)가 오피오이드(히드로코돈 5mg+APAP 300mg)보다 1–2일 통증 유의하게 낮고(MD −0.70, p<0.001) 전체 기간 비열등; 오피오이드가 어떤 시점에서도 우위 없음 (RCT n=1,815, JADA 2025).
 

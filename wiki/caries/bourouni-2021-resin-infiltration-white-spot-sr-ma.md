@@ -13,6 +13,9 @@ source_collection: external
 tags: [resin-infiltration, WSL, fluorosis, orthodontic, meta-analysis]
 ---
 
+## One-line Summary
+Resin infiltration improves appearance of post-orthodontic/non-orthodontic WSL and fluorosis with SMD 1.24 vs untreated and MD 4.76 vs fluoride varnish (SR+MA, 11 studies, 1,834 teeth).
+
 ## 한줄요약
 Resin infiltration이 교정 후/비-교정 WSL·불소증 외관 개선에 무처치 대비 SMD 1.24, 불소 바니시 대비 MD 4.76 우위 (SR+MA, 11개 연구, 1834개 치아).
 

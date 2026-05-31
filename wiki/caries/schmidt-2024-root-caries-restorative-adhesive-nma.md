@@ -13,6 +13,9 @@ source_collection: external
 tags: [root-caries, network-meta-analysis, gic, rmgic, composite, adhesive, geriatric-dentistry]
 ---
 
+## One-line Summary
+NMA of root caries restorative strategies (9 RCTs, 1,263 lesions): at 24 months, 2–3-step etch-and-rinse + composite or RMGIC showed a tendency toward better survival than GIC, but results were not statistically significant; CINeMA confidence low — no evidence-based hierarchy can currently be established.
+
 ## 한줄요약
 치근 우식 수복법 NMA (9 RCT, 1,263 lesion): 24개월 시점에서 2-3단계 EAR + 컴포지트 또는 RMGIC가 GIC보다 생존율 경향 우세하나 통계적으로 NS, CINeMA 신뢰도 낮음. 근거 기반 우선 선택은 불가능.
 

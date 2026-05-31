@@ -13,6 +13,9 @@ source_collection: external
 tags: [mronj, antiresorptive, bisphosphonate, denosumab, dental-implant, osseointegration, peri-implantitis, implant-failure]
 ---
 
+## One-line Summary
+SR of 8 studies (445 implants) on osseointegrated implants after antiresorptive drug initiation: overall failure rate 23%, 83% of failures attributed to MRONJ, mean ARD-to-MRONJ latency 34 months, mandibular posterior 65%.
+
 ## 한줄요약
 항흡수제 투여 후 골유착 임플란트 8개 연구 체계적 고찰(445개 임플란트): 실패율 23%, 실패의 83%는 MRONJ 원인, 항흡수제 투여 시작부터 MRONJ 진단까지 평균 34개월, 하악 구치부 65%.
 

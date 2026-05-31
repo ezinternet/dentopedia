@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, endodontic-pain, ibuprofen, acetaminophen, postoperative-pain]
 ---
 
+## One-line Summary
+SR+MA (15 RCTs) in endodontic patients with preoperative pain: ibuprofen 600mg effective vs placebo at 6 hours; ibuprofen+acetaminophen combination superior to placebo but not significantly better than ibuprofen alone at 6 hours.
+
 ## 한줄요약
 술전 통증 동반 근관치료 환자: ibuprofen 600mg이 6시간 시점 위약 대비 유효; ibuprofen+acetaminophen 병용이 위약 대비 우세하나 ibuprofen 단독 대비 유의차 없음 (15 RCT, SR+MA).
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [DPC, pulp-capping, Biodentine, MTA, calcium-hydroxide, NMR, Bayesian]
 ---
 
+## One-line Summary
+Bayesian network meta-regression of 6 DPC materials (21 RCTs, 1,733 patients): Biodentine OR 4.41, MTA OR 3.02 vs Ca(OH)₂ — significantly superior; consistent after adjusting for follow-up duration.
+
 ## 한줄요약
 DPC 6종 재료 Bayesian NMR(RCT 21개, 1733명): Biodentine OR 4.41, MTA OR 3.02로 Ca(OH)₂ 대비 유의 우위; 추적 기간 보정 후에도 일관.
 

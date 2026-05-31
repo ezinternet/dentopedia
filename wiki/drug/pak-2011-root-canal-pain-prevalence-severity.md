@@ -13,6 +13,9 @@ source_collection: external
 tags: [endodontic-pain, root-canal, pain-prevalence, meta-analysis]
 ---
 
+## One-line Summary
+SR+MA of 72 studies: root canal treatment pain prevalence drops from 81% pre-treatment to 40% at 24 hours and 11% at 1 week; severity falls from 54 to 24 to 5 out of 100; supplemental anesthesia required in 60% of cases.
+
 ## 한줄요약
 근관치료 전 통증 유병률 81%, 24시간 후 40%, 1주 후 11%로 급감; 통증 강도도 54→24→5점으로 감소; 보조마취 필요율 60% (72편 SR+MA).
 

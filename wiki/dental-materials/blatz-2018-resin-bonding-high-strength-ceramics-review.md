@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Critical review (JDR 2018): effect of resin bonding on long-term success of high-strength ceramics (alumina and zirconia) — pretreatment protocols (sandblasting, silane, Rocatec) and cement selection guidelines by restoration type.
+
 ## 한줄요약
 JDR 비평적 리뷰(2018): 고강도 세라믹(알루미나·지르코니아) 레진본딩이 장기 성공에 미치는 영향 — 전처리(샌드블라스팅·실란·Rocatec), 수복물 유형별 시멘트 선택 지침
 

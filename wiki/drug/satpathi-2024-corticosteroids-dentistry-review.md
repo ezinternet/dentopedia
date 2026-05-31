@@ -14,6 +14,9 @@ source_collection: external
 tags: [corticosteroid, dexamethasone, triamcinolone, prednisolone, OLP, aphthous, adrenal-insufficiency, steroid-protocol, post-op-edema]
 ---
 
+## One-line Summary
+Narrative review: dental corticosteroid applications — dexamethasone for post-extraction edema, triamcinolone for aphthous ulcers and OLP (topical), prednisolone for systemic OLP and pemphigus; adrenal insufficiency protocol for long-term steroid users.
+
 ## 한줄요약
 서술적 고찰: 덱사메타손(발치 후 부종)·트리암시놀론(아프타·OLP 국소)·프레드니솔론(전신 OLP·천포창) 치과 코르티코스테로이드 적용 정리; 장기 스테로이드 복용 환자 부신부전 프로토콜
 

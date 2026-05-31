@@ -13,6 +13,9 @@ source_collection: external
 tags: [ridge-preservation, flapless, flap-management, keratinized-gingiva, sr-ma]
 ---
 
+## One-line Summary
+SR+MA (11 studies: 9 RCTs, 2 CCTs): flap elevation vs. flapless ARP shows no significant difference in bone width or height preservation, but flap elevation reduces keratinized gingiva width by a mean of 3.21 mm more than flapless — favoring a flapless or socket-seal approach for soft-tissue preservation.
+
 ## 한줄요약
 체계적 문헌고찰·메타분석 (Systematic Review with Meta-Analysis, SR+MA, 11편: RCT 9, CCT 2) — 치조제 보존술 (Alveolar Ridge Preservation, ARP)에서 판막 거상 (flap)과 무판막 (flapless)의 골 폭·높이 차이는 유의하지 않으나, 판막 거상은 각화치은 폭 (Keratinized Gingiva Width, KGW)을 평균 3.21 mm 더 감소시켜 무판막 접근이 연조직 보존에 유리하다.
 

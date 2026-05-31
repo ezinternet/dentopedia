@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cochrane review of pulp treatment for extensive caries in primary teeth — MTA pulpotomy success ~93%, FC pulpotomy 85–92%, IPC effective.
+
 ## 한줄요약
 유치 광범위 우식 치수 치료 코크란 리뷰 — MTA 치수절단 성공률 ~93%, FC 85–92%, IPC 유효.
 

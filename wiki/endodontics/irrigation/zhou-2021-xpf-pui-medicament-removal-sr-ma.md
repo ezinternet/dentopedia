@@ -13,6 +13,9 @@ source_collection: external
 tags: [xp-endo-finisher, pui, passive-ultrasonic-irrigation, calcium-hydroxide, medicament-removal, intracanal-dressing, irrigation-activation]
 ---
 
+## One-line Summary
+SR+MA of Ca(OH)₂ removal (in vitro): PUI overall superior to XP-Endo Finisher (OR 3.09), but difference disappears when both use NaOCl+EDTA (OR 1.51); PUI advantage significant for 2-week Ca(OH)₂ dressings.
+
 ## 한줄요약
 수산화칼슘(Ca(OH)₂) 잔류 세정 SR+MA(in vitro): 수동초음파세정(PUI) > XP-Endo Finisher 전반적 우세(OR 3.09), 단 NaOCl+EDTA 병용 시 유의차 소실(OR 1.51); PUI 우위는 2주 기간 calcium hydroxide에서 유의.
 

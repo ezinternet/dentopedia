@@ -1,0 +1,350 @@
+<!--
+---
+title: "Short Implant vs Augmentation — 결정 도구"
+type: interactive
+date: 2026-05-27
+status: draft
+agenda: agenda/2026-05-27_chairside-interactives-batch.md
+source_wiki:
+  - wiki/overviews/implants-clinical-decision-ladder.md
+  - wiki/implants/yu-2021-extra-short-vs-longer-implants-ma.md
+  - wiki/implants/saenz-ravello-2023-short-implants-compared-to-regular.md
+  - wiki/implants/zhang-2024-short-vs-long-implants-sinus.md
+  - wiki/implants/sivolella-2025-extra-short-5-6mm-implants-5year.md
+  - wiki/implants/barausse-2024-4mm-short-implants-posterior-atrophic-8year.md
+  - wiki/implants/anitua-2022-short-vs-longer-implants-single-crown.md
+  - wiki/implants/hockova-2025-short-implants-microvascular-free-flaps.md
+tags: [implants, short-implants, augmentation, sinus-lift, chairside-calculator, decision-tree]
+notes: |
+  단일 HTML, 외부 CDN 없음. 위축부 임플란트 결정.
+  잔존골 + 부위 + morbidity 입력 → short implant vs augmentation 권고.
+  로직 출처: implants-clinical-decision-ladder 축 2 + 5y·8y long-term RCT.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>Short Implant vs Augmentation 결정</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+         max-width: 840px; margin: 16px auto; padding: 12px; color: #1f2933;
+         background: #fafbfc; line-height: 1.5; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .subtitle { color: #5c6773; font-size: 13px; margin-bottom: 18px; }
+  .card { background: #fff; border: 1px solid #e1e5ea; border-radius: 8px;
+          padding: 14px 16px; margin-bottom: 12px; }
+  h2 { font-size: 15px; margin: 0 0 10px; color: #2c3e50; }
+  label { display: block; font-size: 13px; color: #4a5568; margin-bottom: 4px; }
+  input, select { width: 100%; padding: 7px 9px; border: 1px solid #cbd2d9;
+          border-radius: 5px; font-size: 14px; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .row3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+  .checkrow { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 6px; font-size: 13px; }
+  .checkrow label { display: inline-flex; align-items: center; gap: 5px; margin: 0; }
+  .checkrow input { width: auto; }
+  button { background: #2563eb; color: #fff; border: none; padding: 10px 22px;
+           border-radius: 6px; font-size: 15px; cursor: pointer; }
+  button:hover { background: #1d4ed8; }
+  .meta { font-size: 12px; color: #718096; margin-top: 6px; }
+  .result-card { border-left: 6px solid; padding: 14px 18px; margin-top: 12px;
+                 border-radius: 0 8px 8px 0; background: #fff; }
+  .result-card.short { border-color: #16a34a; background: #f0fdf4; }
+  .result-card.either { border-color: #ca8a04; background: #fefce8; }
+  .result-card.augment { border-color: #2563eb; background: #eff6ff; }
+  .result-card.delay { border-color: #dc2626; background: #fef2f2; }
+  .result-card h3 { font-size: 17px; margin: 0 0 6px; }
+  .result-card .rationale { font-size: 13.5px; color: #2c3e50; margin-bottom: 8px; }
+  .result-card .protocol { background: rgba(255,255,255,0.7); padding: 8px 12px;
+                           border-radius: 5px; font-size: 13px; margin: 6px 0; }
+  .result-card .refs { font-size: 11.5px; color: #5c6773; font-style: italic; margin-top: 4px; }
+  .recommendation-badge { display: inline-block; padding: 2px 8px; border-radius: 12px;
+                          font-size: 11.5px; background: #1f2937; color: #f3f4f6; margin-right: 6px; }
+  .footer { font-size: 11.5px; color: #94a3b8; margin-top: 20px; text-align: center; }
+  .flag-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .flag { display: inline-block; padding: 2px 8px; border-radius: 10px;
+          font-size: 11.5px; background: #e2e8f0; color: #334155; }
+</style>
+</head>
+<body>
+
+<h1>Short Implant vs Augmentation 결정</h1>
+<div class="subtitle">잔존골·부위·환자 조건 → short implant 가능 여부 + augmentation 필요성. 최종 결정은 원장.</div>
+
+<form id="calcForm" onsubmit="calculate(event)">
+
+  <div class="card">
+    <h2>1. 부위·해부</h2>
+    <div class="row3">
+      <div>
+        <label>부위</label>
+        <select id="site">
+          <option value="post_max">상악 후방 (구치부)</option>
+          <option value="post_man">하악 후방 (구치부)</option>
+          <option value="ant_max">상악 전방</option>
+          <option value="ant_man">하악 전방</option>
+        </select>
+      </div>
+      <div>
+        <label>잔존골 높이 RBH (mm)</label>
+        <input type="number" id="rbh" min="0" max="25" step="0.5" value="6" required>
+      </div>
+      <div>
+        <label>잔존골 폭 RBW (mm)</label>
+        <input type="number" id="rbw" min="0" max="15" step="0.5" value="6" required>
+      </div>
+    </div>
+    <div class="row2" style="margin-top:8px;">
+      <div>
+        <label>Bone type (Lekholm-Zarb)</label>
+        <select id="bonetype">
+          <option value="1">I (dense cortical)</option>
+          <option value="2">II</option>
+          <option value="3" selected>III</option>
+          <option value="4">IV (저밀도)</option>
+        </select>
+      </div>
+      <div>
+        <label>중요 해부 구조와의 거리 (mm)</label>
+        <input type="number" id="dist" min="0" max="20" step="0.5" value="3"
+               placeholder="IAN·상악동·신경관">
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>2. 환자 조건</h2>
+    <div class="row3">
+      <div>
+        <label>연령</label>
+        <input type="number" id="age" min="0" max="120" value="65" required>
+      </div>
+      <div>
+        <label>ASA 분류</label>
+        <select id="asa">
+          <option value="1">I</option>
+          <option value="2" selected>II</option>
+          <option value="3">III</option>
+          <option value="4">IV</option>
+        </select>
+      </div>
+      <div>
+        <label>술식 견딤도</label>
+        <select id="morbid">
+          <option value="high">높음 (augment 가능)</option>
+          <option value="mod" selected>보통</option>
+          <option value="low">낮음 (긴 수술 회피)</option>
+        </select>
+      </div>
+    </div>
+    <div class="checkrow">
+      <label><input type="checkbox" id="smoker"> 흡연 중</label>
+      <label><input type="checkbox" id="diabetes"> 비조절 DM</label>
+      <label><input type="checkbox" id="periodontitis"> 치주염력 (stage III–IV)</label>
+      <label><input type="checkbox" id="antires"> 항흡수제 복용</label>
+      <label><input type="checkbox" id="costSensitive"> 비용 sensitive</label>
+      <label><input type="checkbox" id="timeline"> 빠른 보철 진행 필요</label>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>3. 시술자·인프라</h2>
+    <div class="row2">
+      <div>
+        <label>SFE 술자 경험</label>
+        <select id="sfeExp">
+          <option value="experienced">숙련 (LSA·TSFE 모두 가능)</option>
+          <option value="moderate" selected>중급 (TSFE 가능, LSA 제한적)</option>
+          <option value="limited">초급 (augment 회피 선호)</option>
+        </select>
+      </div>
+      <div>
+        <label>임플란트 시스템</label>
+        <select id="system">
+          <option value="short_avail" selected>Short (4–8mm) 가능</option>
+          <option value="standard_only">표준 길이만 가능</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <button type="submit">권고 생성</button>
+</form>
+
+<div id="result"></div>
+
+<div class="footer">
+  agenda: 2026-05-27_chairside-interactives-batch · v1 draft · 최종 결정은 원장
+</div>
+
+<script>
+function calculate(e){
+  e.preventDefault();
+  const site = document.getElementById('site').value;
+  const rbh = +document.getElementById('rbh').value;
+  const rbw = +document.getElementById('rbw').value;
+  const bt = +document.getElementById('bonetype').value;
+  const dist = +document.getElementById('dist').value;
+  const age = +document.getElementById('age').value;
+  const asa = +document.getElementById('asa').value;
+  const morbid = document.getElementById('morbid').value;
+  const smoker = document.getElementById('smoker').checked;
+  const dm = document.getElementById('diabetes').checked;
+  const perio = document.getElementById('periodontitis').checked;
+  const antires = document.getElementById('antires').checked;
+  const costSens = document.getElementById('costSensitive').checked;
+  const timeline = document.getElementById('timeline').checked;
+  const sfeExp = document.getElementById('sfeExp').value;
+  const system = document.getElementById('system').value;
+
+  let flags = [];
+  let decision, headline, rationale, protocol = [], refs = [];
+
+  // 안전 길이 추정 (해부 거리 1mm 안전 여유)
+  const safeLength = Math.max(0, rbh - 1);
+
+  // 폭 제약
+  const widthOK = rbw >= 5.5;
+  if (!widthOK) flags.push(`<span class="flag">폭 ${rbw}mm — ridge expansion·GBR 검토</span>`);
+
+  // 부위·RBH 기반 1차 분기
+  const isMaxPost = site === 'post_max';
+  const isManPost = site === 'post_man';
+
+  // 절대 contraindication 또는 강한 위험인자
+  const highRiskBlock = (smoker && perio) || (dm && asa >= 3);
+
+  if (rbh < 4) {
+    decision = 'delay';
+    headline = '식립 보류 — augmentation 또는 대안 검토';
+    rationale = `RBH ${rbh}mm — 단독 short implant 부적합. 4mm short 가능 시스템도 5mm 미만에서는 안전 여유 부족.`;
+    protocol = [
+      '대안 1 — Lateral Window (LSA) sinus lift 후 단계적 식립 (상악) 또는 vertical GBR (하악)',
+      '대안 2 — 부위 변경 또는 RPD·short-span FPD 보존',
+      '환자에게 trade-off 설명: augmentation 부담 vs 보철 옵션 변경'
+    ];
+    refs = ['Zhang 2024 sr-nma — RBH 5mm 이상이 short implant 안전선', 'sinus-lift-technique-selection'];
+  } else if (rbh >= 4 && rbh < 6) {
+    // Short 4–5mm 가능 시스템 + Type II–III 골에서만 권장. 위축 한계.
+    if (!flags.some(f=>f.includes('폭'))) {
+      // ok width
+    }
+    if (system === 'standard_only') {
+      decision = 'augment';
+      headline = 'Augmentation 후 표준 길이 식립';
+      rationale = `RBH ${rbh}mm + 표준 길이만 가능 → augmentation 필수.`;
+      protocol = [
+        isMaxPost ? 'LSA + 이식재 + 6–9개월 healing → 표준 임플란트' : 'Vertical GBR 또는 onlay graft + 4–6개월 healing → 표준 임플란트',
+        '술자 경험·환자 morbid 견딤도 점검'
+      ];
+      refs = ['implants-clinical-decision-ladder 축 2', 'sinus-lift-lateral-2026-synthesis'];
+    } else if (bt === 1 && morbid !== 'low') {
+      decision = 'short';
+      headline = '4–5mm Short implant 가능 (경계선)';
+      rationale = `RBH ${rbh}mm + Type I — 4mm short 8y RCT 근거 (Barausse 2024). 단, 경계선이므로 ISQ ≥70 primary 확보 필수.`;
+      protocol = [
+        '4–5mm short, wide diameter (Ø ≥4.5mm) 우선',
+        '술전 CBCT로 정확한 해부 측정',
+        'ISQ ≥70 확보 안 되면 즉시 augmentation으로 전환',
+        '대합치 occlusion 조절, cantilever 회피'
+      ];
+      refs = ['Barausse 2024 8y RCT', 'Sivolella 2025 5y prospective', 'implants-clinical-decision-ladder 축 2-A'];
+    } else {
+      decision = 'either';
+      headline = '경계선 — Short 또는 Augmentation, 환자·술자 조건 의존';
+      rationale = `RBH ${rbh}mm + bone type ${['','I','II','III','IV'][bt]} — 임상 판단.`;
+      protocol = [
+        morbid === 'low' ? '환자 morbidity 낮음 → short 4–5mm 우선' : 'morbidity 견딤 가능 + 술자 숙련 → augment 가능',
+        bt === 4 ? 'Type IV → OD + bicortical 또는 augment 선호' : 'OD + tapered design 검토'
+      ];
+      refs = ['Yu 2021 SR-MA', 'osseodensification-clinical-applications'];
+    }
+  } else if (rbh >= 6 && rbh < 8) {
+    decision = 'short';
+    headline = 'Short implant 1차 권고 (≤8mm)';
+    rationale = `RBH ${rbh}mm — Yu 2021 SR-MA·Sivolella 2025 5y RCT·Barausse 2024 8y RCT 모두 5–8mm short가 augment+long과 비열등 또는 우세 (위축 후방부).`;
+    protocol = [
+      `${Math.min(safeLength, 8).toFixed(1)}mm short + Ø ≥4.5mm wide diameter`,
+      isMaxPost ? '상악 후방 — Zhang 2024 NMA: short 4–8mm가 단순 protocol (LSA 우회)' : '하악 후방 — Saenz-Ravello 2023 umbrella: 합병증 ↓, MBL ↓, 실패 ↓',
+      '대합치 occlusion 조정, cantilever 회피',
+      'Hockova 2025: free flap 재건부에서도 short implant 적응 확장'
+    ];
+    refs = ['Yu 2021 SR-MA (21 RCT)', 'Sivolella 2025 5y', 'Barausse 2024 8y', 'Zhang 2024 SR-NMA', 'Saenz-Ravello 2023 umbrella'];
+  } else if (rbh >= 8 && rbh < 10) {
+    decision = 'short';
+    headline = 'Short 또는 표준 모두 가능 — Short 1차 권고';
+    rationale = `RBH ${rbh}mm — 8–9mm short 가능. Anitua 2022 retrospective: 단일 crown short도 안전.`;
+    protocol = [
+      '8mm short 우선 (augment 회피 ROI 높음)',
+      '술자가 표준 length 선호 시 10mm 가능 — 해부 거리 ≥1mm 확보 시'
+    ];
+    refs = ['Anitua 2022', 'Yu 2021 SR-MA', 'implants-clinical-decision-ladder 축 2-A'];
+  } else {
+    decision = 'either';
+    headline = '표준 길이 가능 — augmentation 불필요';
+    rationale = `RBH ${rbh}mm ≥ 10mm — 충분.`;
+    protocol = [
+      `표준 길이 ${Math.min(safeLength, 13).toFixed(1)}mm까지 가능`,
+      'Platform switching + Morse taper/internal hex 우선',
+      'Short implant 선호도가 있으면 8mm도 가능 (Yu 2021)'
+    ];
+    refs = ['implants-clinical-decision-ladder 축 2'];
+  }
+
+  // Modifier — bone type IV
+  if (bt === 4 && decision !== 'delay') {
+    flags.push('<span class="flag">Type IV — OD + bicortical anchorage</span>');
+    if (decision === 'short') {
+      protocol.push('Type IV — Osseodensification (Densah Bur) + bicortical anchorage + tapered design');
+    }
+  }
+
+  // SFE 경험·system 조정
+  if (decision === 'augment' && sfeExp === 'limited') {
+    flags.push('<span class="flag">술자 SFE 경험 제한 — referral 검토 또는 short 시스템 도입</span>');
+  }
+  if (system === 'standard_only' && decision === 'short') {
+    flags.push('<span class="flag">현 시스템에 short 없음 — 시스템 도입 필요</span>');
+  }
+
+  // 위험인자 조정
+  if (highRiskBlock) {
+    flags.push('<span class="flag">고위험 환자 (흡연+치주염 또는 비조절 DM+ASA III) — 위험 명시·동의</span>');
+  }
+  if (antires) {
+    flags.push('<span class="flag">항흡수제 복용 — Li 2024 SR: 임플란트 실패 23% (83% MRONJ)</span>');
+  }
+  if (smoker) flags.push('<span class="flag">흡연 — Fan 2024 SR-MA OR 2.59 조기 실패</span>');
+  if (perio) flags.push('<span class="flag">치주염력 — 강화 SPT 3개월</span>');
+
+  // 환자 선호 modifier
+  if (decision === 'augment' && (costSens || timeline || morbid === 'low')) {
+    flags.push('<span class="flag">비용·시간·morbidity 고려 — short implant 재고 권고</span>');
+  }
+
+  const html = `
+    <div class="result-card ${decision}">
+      <h3><span class="recommendation-badge">${decisionLabel(decision)}</span>${headline}</h3>
+      <div class="rationale">${rationale}</div>
+      <div class="protocol">
+        <b>Protocol:</b>
+        <ul style="margin: 4px 0 0 18px; padding: 0;">${protocol.map(p=>'<li>'+p+'</li>').join('')}</ul>
+      </div>
+      <div class="flag-row">${flags.join('')}</div>
+      <div class="refs">근거: ${refs.join(' · ')}</div>
+    </div>
+  `;
+  document.getElementById('result').innerHTML = html;
+  document.getElementById('result').scrollIntoView({behavior:'smooth', block:'start'});
+}
+
+function decisionLabel(d){
+  return {
+    short:'SHORT 권고', either:'양자택일', augment:'AUGMENT 권고', delay:'보류'
+  }[d] || d;
+}
+</script>
+
+</body>
+</html>

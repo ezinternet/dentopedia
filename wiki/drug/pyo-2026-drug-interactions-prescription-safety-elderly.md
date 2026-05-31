@@ -14,6 +14,9 @@ source_collection: external
 tags: [drug-drug-interaction, elderly, polypharmacy, prescription-safety, geriatric-dentistry, nsaids, epinephrine, antibiotics, warfarin, cyp450]
 ---
 
+## One-line Summary
+Narrative review (KDA 2026 Special Issue): dental DDI prevalence 40.7%, prescriber recognition rate 42.7% — antibiotic/NSAID/vasoconstrictor-specific safety strategies for elderly patients with a GFR/LFT-based dose-adjustment table.
+
 ## 한줄요약
 서술적 고찰(KDA 2026 Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7% — 항생제·NSAIDs·혈관수축제별 고령환자 처방 안전 전략과 GFR/LFT 기반 용량조절 표 제시.
 

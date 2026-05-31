@@ -33,5 +33,5 @@ Small n; 1-year follow-up; no comparator group.
 
 ## Related Papers
 - [[immediate-implant/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]]
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-bony-defect-commentary]]
+- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
 - [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]

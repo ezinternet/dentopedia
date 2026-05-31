@@ -13,6 +13,9 @@ source_collection: external
 tags: [regenerative-endodontics, rep, immature-permanent-tooth, ipt, dental-trauma, pulp-necrosis, apexification, apexogenesis, pulp-revascularization, mta, biodentine, partial-pulpotomy]
 ---
 
+## One-line Summary
+Review comparing REP approaches in traumatized immature permanent teeth (Front Dent Med 2022): compares pulp preservation, Ca(OH)₂ apexification, MTA apical plug, and revascularization; distinguishes apical closure vs resumed root development as goals; high procedural heterogeneity, no standard protocol established.
+
 ## 한줄요약
 외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
 

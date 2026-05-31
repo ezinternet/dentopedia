@@ -14,6 +14,9 @@ source_collection: external
 tags: [periodontitis, host-modulation, magnoliae-cortex, honokiol, magnolol, zea-mays, insadol, canine-model, animal-rct, tnf-alpha, korean-veterinary]
 ---
 
+## One-line Summary
+Beagle dog model (10 dogs, MZ 5 vs placebo 5, 8-week study): oral Magnoliae Cortex 40 mg + Zea mays L. 20 mg daily significantly improved GI, PPD, CAL, and BoP vs placebo; tissue TNF-α expression significantly reduced; CBC and serum chemistry normal — confirms in vivo anti-inflammatory effect of the Korean herbal gingival supplement combination (Insadol class).
+
 ## 한줄요약
 비글견 10마리(MZ 5 vs 위약 5) 8주 모델: Magnoliae cortex 40 mg + Zea mays L. 20 mg 경구 투여가 GI, PPD, CAL, BoP를 위약 대비 유의 개선; tissue TNF-α 발현 유의 감소; CBC·serum chemistry 정상 — Insadol 계열 한방 잇몸약의 in vivo 항염효과 확인.
 

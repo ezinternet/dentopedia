@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-prophylaxis, dental-implant, DIP, amoxicillin, preoperative, SR-MA, PRISMA]
 ---
 
+## One-line Summary
+SR+MA (Wolverhampton, Medicina 2023): antibiotic prophylaxis for dental implant placement (DIP) — single preoperative amoxicillin 2g recommended; postoperative continuation provides no incremental benefit; PRISMA-P/PROSPERO registered.
+
 ## 한줄요약
 SR+MA (Wolverhampton, Medicina 2023): 임플란트 식립 (DIP) 항생제 예방 — 술전 단일 amoxicillin 2g 권고; 술후 연장은 incremental benefit 없음. PRISMA-P/PROSPERO 등록.
 

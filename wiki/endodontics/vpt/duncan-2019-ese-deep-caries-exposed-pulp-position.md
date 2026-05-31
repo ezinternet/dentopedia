@@ -13,6 +13,9 @@ source_collection: external
 tags: [VPT, deep-caries, pulp-capping, pulpotomy, ESE, guidelines, Biodentine, MTA]
 ---
 
+## One-line Summary
+ESE 2019 position statement: pulp preservation first; Biodentine and MTA recommended as first-line materials; Ca(OH)₂ replacement recommended.
+
 ## 한줄요약
 ESE 2019 position statement: 치수 보존 우선, Biodentine·MTA 1차 재료 권고, Ca(OH)₂ 대체 권고.
 

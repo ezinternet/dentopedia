@@ -13,6 +13,9 @@ source_collection: external
 tags: [cadcam, zirconia, lithium-disilicate, metal-ceramic, crown, fpd, esthetic-complications, biological-complications, technical-complications, survival-rate, or]
 ---
 
+## One-line Summary
+SR+MA of CAD/CAM (zirconia and lithium disilicate) vs conventional PFM crowns and FDPs (Cureus 2023, 13 studies, 1,598 restorations): esthetic complications OR 16.88 significantly higher for CAD/CAM; biological and technical complications not significantly different.
+
 ## 한줄요약
 CAD/CAM(지르코니아·리튬 디실리케이트) vs 전통 도재-금속관(Porcelain-Fused-to-Metal, PFM) SR+MA (Cureus 2023): 13편 1,598수복물; 심미합병증 OR 16.88로 CAD/CAM 유의하게 높음; 생물학적·기술적 합병증은 비유의.
 

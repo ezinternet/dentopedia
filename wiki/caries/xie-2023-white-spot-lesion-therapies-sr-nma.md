@@ -13,6 +13,9 @@ source_collection: external
 tags: [WSL, resin-infiltration, remineralization, NMA, fluoride, CPP-ACP]
 ---
 
+## One-line Summary
+NMA of WSL therapies: resin infiltration ranked first for optical improvement, significantly superior to fluoride and CPP-ACP alone.
+
 ## 한줄요약
 WSL 치료법 NMA: resin infiltration이 광학적 개선 1위, 불소·CPP-ACP 단독 대비 유의 우위.
 

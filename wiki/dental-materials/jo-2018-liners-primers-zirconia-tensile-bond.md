@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, liner, glass-ceramic, MDP, primer, tensile-bond, self-adhesive-cement]
 ---
 
+## One-line Summary
+In vitro (J Adv Prosthodont 2018): silica glass-ceramic liner vs MDP primer — phosphate-containing liner achieved tensile bond strength equivalent to MDP primers; all pretreated groups significantly outperformed the untreated control.
+
 ## 한줄요약
 in-vitro(J Adv Prosthodont 2018): 실리카 글라스세라믹 라이너 vs MDP 프라이머 — 인산기 함유 라이너 = MDP 프라이머 수준의 인장결합강도; 전처리 전군이 무처리보다 유의하게 우수.
 

@@ -1,0 +1,6 @@
+# Ingest Rationale Lint — 2026-05-31
+CUTOFF: 2026-05-27 (sources mtime ≥ this date are checked)
+GRANDFATHERED (skipped): 741
+CHECKED               : 135
+ERRORS                : 0
+

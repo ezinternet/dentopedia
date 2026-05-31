@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, universal-adhesive, Single-Bond-Universal, Z-prime-plus, long-term, 12-month, water-degradation, bond-strength]
 ---
 
+## One-line Summary
+In vitro (CCD 2023): 4 universal adhesives vs Z-Prime Plus for long-term zirconia bonding — 24-hour values similar (SBU ≈ Z-Prime); all groups showed significant bond strength reduction after 12-month water storage; no material resisted hydrolytic degradation.
+
 ## 한줄요약
 in-vitro(CCD 2023): 범용 접착제 4종 vs Z-Prime Plus 지르코니아 장기 결합 — 24시간은 SBU≈ZP; 12개월 수중보관 후 전군 유의하게 감소; 어떤 재료도 수분 열화 저항 못함.
 

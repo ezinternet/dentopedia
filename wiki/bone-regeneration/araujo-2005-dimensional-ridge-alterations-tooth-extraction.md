@@ -14,6 +14,9 @@ source_collection: external
 tags: [bundle-bone, buccal-resorption, tooth-extraction, animal-study, histology, landmark-paper]
 ---
 
+## One-line Summary
+Dog histology landmark paper: buccal resorption exceeds lingual after extraction; Phase 1 bundle-bone loss + Phase 2 external-surface resorption; immediate implant placement does not prevent buccal collapse.
+
 ## 한줄요약
 犬 조직학 기준논문: 발치 후 협측>설측 흡수; Phase1 bundle bone 소실 + Phase2 외표면 흡수; 즉시임플란트도 협측 붕괴 예방 불가
 

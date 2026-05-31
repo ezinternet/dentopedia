@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, endodontics, dental-education, scoping-review, simulation, robotics, clinical-decision-support, calibration]
 ---
 
+## One-line Summary
+Scoping review (J Endod 2024;50(5):562–578; 251 records → 35 included): 10 domains of AI use in endodontic education — radiographic interpretation, differential diagnosis, treatment planning, case difficulty assessment, preclinical training, simulation, real-time guidance, autonomous systems/robotics, progress evaluation, calibration/standardization.
+
 ## 한줄요약
 scoping-review (J Endod 2024;50(5):562-578; 251 records → 35 포함): 근관치료 교육에서 AI 활용 10영역 — 방사선 해석, 감별진단, 치료계획, 사례 난이도, 술기 전 실습, 시뮬레이션, 실시간 가이드, 자율 시스템·로봇, 진도 평가, 캘리브레이션·표준화.
 

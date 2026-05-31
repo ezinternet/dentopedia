@@ -13,6 +13,9 @@ source_collection: external
 tags: [ChatGPT, LLM, umbrella-review, healthcare, AMSTAR-2, clinical-decision-support, medical-education, evidence-quality]
 ---
 
+## One-line Summary
+Umbrella review (J Biomed Sci 2025;32:45, PRISMA, 17 reviews = 15 SRs + 2 MAs): meta-evidence synthesis of ChatGPT in healthcare — AMSTAR-2 quality moderate 5/low 12; most frequent topics are diagnosis and clinical decision support; 41.2% specialty-specific (including public health dentistry); ethical, legal, and accuracy concerns require cautious integration.
+
 ## 한줄요약
 umbrella-review (J Biomed Sci 2025;32:45, PRISMA, 17편 = SR 15 + MA 2): ChatGPT 의료 활용 메타-증거 합성 — AMSTAR-2 품질 등급 중간 5/낮음 12; 가장 빈도 높은 주제는 진단·임상 결정 지원; 41.2%는 특정 분야(공중보건치과학 포함); 윤리·법·정확성 우려로 신중한 통합 필요.
 

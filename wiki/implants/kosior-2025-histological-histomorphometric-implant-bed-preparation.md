@@ -43,7 +43,7 @@ First SR to compare all five preparation families on histological/histomorphomet
 - piezo의 thermal 이슈는 aquilanti·jain SR과 일치 — 적절 protocol 준수가 전제.
 
 ## Related Papers
-- [[implants/huwais-2016-osseous-densification-novel-osteotomy-approach]] — OD 원리
+- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — OD 원리
 - [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — OD SR
 - [[implants/ortiz-2025-osseodensification-implant-dentistry-critical-review]] — OD 비판적 고찰
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — drill 재질-발열 SR

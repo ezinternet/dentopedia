@@ -14,6 +14,9 @@ source_collection: external
 tags: [preemptive-analgesia, NSAIDs, third-molar, postoperative-pain, meta-analysis, negative-result]
 ---
 
+## One-line Summary
+Anesth Prog 2015 meta-analysis (4 RCTs pooled, n=298): preemptive oral NSAIDs for surgical third-molar extraction — postoperative pain reduction not significant (P=0.2227, NS); insufficient evidence to justify routine preemptive prescribing (note: subsequent SRs partially suggest benefit in other dental surgical contexts).
+
 ## 한줄요약
 Anesth Prog 2015 메타분석 (4 RCT 정량분석, n=298): 제3대구치 외과 발치 시 preemptive 경구 NSAID — 술후 통증 감소 **유의하지 않음** (P=0.2227, NS); pre-emptive 처방 routine 정당화 근거 부족 (단, 후속 SR이 부분적 benefit을 제안하므로 wiki-living-document로 갱신 필요).
 

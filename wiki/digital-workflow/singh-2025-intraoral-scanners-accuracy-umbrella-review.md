@@ -14,6 +14,9 @@ source_collection: external
 tags: [intraoral-scanner, ios, digital-impression, accuracy, trueness, precision, trios, primescan, umbrella-review]
 ---
 
+## One-line Summary
+Umbrella review (10 SRs, 30+ IOS devices): TRIOS 3 and Primescan have the highest full-arch accuracy; IOS improves time efficiency and patient comfort; accuracy limited in edentulous arches.
+
 ## 한줄요약
 우산형 리뷰 (10 SRs, 30+ IOS): TRIOS 3·Primescan 전체악궁 정확도 최상; IOS 시간절약·편의성↑; 무치악 정확도 제한
 

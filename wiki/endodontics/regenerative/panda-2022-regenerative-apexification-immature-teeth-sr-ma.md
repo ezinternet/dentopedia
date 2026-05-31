@@ -13,6 +13,9 @@ source_collection: external
 tags: [RET, apexification, immature-teeth, necrotic-pulp, root-development, SR+MA]
 ---
 
+## One-line Summary
+SR+MA of RET vs apexification in necrotic immature permanent teeth (J Clin Med 2022): survival and success rates similar, but RET significantly superior for root length increase and dentin wall thickness.
+
 ## 한줄요약
 미성숙 영구치 비활력 RET vs apexification SR+MA(J Clin Med 2022): 생존·성공율 유사, 치근 길이/벽 두께는 RET 유의 우위.
 

@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-stewardship, core-outcome-set, Delphi, consensus, AMR, dentistry, FDI, international]
 ---
 
+## One-line Summary
+International Delphi consensus (Manchester/FDI/Melbourne/Lorraine): first core outcome set for dental antibiotic stewardship (≥30 clinician/academic/patient contributors, >70% "critical" threshold) — defines standard outcomes for future stewardship intervention research.
+
 ## 한줄요약
 국제 Delphi 합의 (Manchester/FDI/Melbourne/Lorraine): 치과 항생제 스튜어드십 핵심 outcome set 합의 (≥30 dentist+academic+patient contributors, >70% critical) — 향후 stewardship intervention 평가의 표준 outcome 정의.
 

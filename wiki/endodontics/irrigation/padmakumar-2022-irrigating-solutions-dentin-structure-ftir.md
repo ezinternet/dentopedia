@@ -13,6 +13,9 @@ source_collection: external
 tags: [dentin, ftir, smear-layer, sem, nacl, edta, silver-citrate, ozonated-olive-oil, microhardness, irrigant-dentin-interaction]
 ---
 
+## One-line Summary
+In vitro study (n=48, FTIR+SEM): silver citrate and ozonated olive oil cause minimal dentin chemical alteration compared to NaOCl 5.25%; silver citrate removes smear layer confirmed by SEM; all irrigants reduce microhardness vs control.
+
 ## 한줄요약
 세정제-상아질(Dentin) 화학구조 영향 in vitro(n=48, FTIR+SEM): 질산은·오존올리브오일이 NaOCl 5.25%보다 상아질 화학변성 최소; 질산은(Silver Citrate)은 도말층 제거 SEM 확인; 전 세정제 대조군 대비 미세경도 감소.
 

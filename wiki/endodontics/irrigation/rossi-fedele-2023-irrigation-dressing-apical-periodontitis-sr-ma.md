@@ -13,6 +13,9 @@ source_collection: external
 tags: [apical-periodontitis, calcium-hydroxide, single-visit, multi-visit, nacl, nacl-concentration, chx, healing, clinical-outcome]
 ---
 
+## One-line Summary
+Clinical SR+MA for apical periodontitis: single-visit treatment achieves significantly higher radiographic healing than multi-visit Ca(OH)₂ dressing (RR 1.10, 1.03–1.19); no significant difference in 7-day pain between NaOCl concentrations or CHX vs NaOCl.
+
 ## 한줄요약
 치근단 치주염(Apical Periodontitis) 임상 SR+MA: 단회 치료(Single-visit Treatment)가 Ca(OH)₂ 다회 방문보다 방사선학적 치유율 유의 우수(RR 1.10, 1.03–1.19); NaOCl 농도 차이·CHX vs NaOCl 간 7일 통증 유의차 없음.
 

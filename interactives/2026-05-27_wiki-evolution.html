@@ -1,0 +1,240 @@
+<!--
+---
+title: "llm-wiki Evolution — 2026-05-09 ~ 2026-05-27 성장 곡선"
+type: interactive
+date: 2026-05-27
+status: done
+agenda: agenda/2026-05-26_wiki-growth-visualization.md
+source_wiki:
+  - index.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>llm-wiki Evolution — 2026-05-09 ~ 2026-05-27</title>
+<style>
+  :root {
+    --bg: #f5ecd9;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --grid: #c9bfa8;
+    --c1: #d97d52;  /* Papers · sources       — terracotta */
+    --c2: #7fa177;  /* 구조 · overviews        — olive green */
+    --c3: #c89e3a;  /* CLAUDE.md 룰            — mustard */
+    --c4: #9b6e8b;  /* 일일 운영 루프          — dusty purple */
+    --c5: #3d7b7d;  /* 분석 스펙               — dark teal */
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    padding: 32px;
+    background: var(--bg);
+    font-family: -apple-system, BlinkMacSystemFont, "Pretendard", "Apple SD Gothic Neo",
+                 "Helvetica Neue", Arial, sans-serif;
+    color: var(--ink);
+  }
+  .card {
+    background: #fbf4e2;
+    border-radius: 18px;
+    padding: 28px 36px 24px 36px;
+    max-width: 1280px;
+    margin: 0 auto;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.04);
+  }
+  h1 {
+    font-size: 18px;
+    font-weight: 600;
+    margin: 0 0 4px 0;
+    letter-spacing: -0.01em;
+  }
+  .subtitle {
+    color: var(--muted);
+    font-size: 12px;
+    margin-bottom: 18px;
+    font-feature-settings: "tnum";
+  }
+  svg { display: block; width: 100%; height: auto; }
+  .legend {
+    display: flex;
+    gap: 28px;
+    flex-wrap: wrap;
+    padding-top: 18px;
+    border-top: 1px solid var(--grid);
+    margin-top: 8px;
+    font-size: 13px;
+  }
+  .legend .item { display: inline-flex; align-items: center; gap: 8px; }
+  .legend .sw {
+    width: 14px; height: 14px; border-radius: 3px; display: inline-block;
+  }
+  .legend .name { font-weight: 600; }
+  .axis text { font-size: 11px; fill: var(--muted); font-feature-settings: "tnum"; }
+  .axis line { stroke: var(--grid); }
+  .grid line { stroke: var(--grid); stroke-dasharray: 2 3; opacity: 0.6; }
+  .milestone-line { stroke: var(--ink); stroke-dasharray: 2 3; stroke-width: 1; opacity: 0.55; }
+  .milestone-dot { fill: var(--ink); }
+  .milestone-label { font-size: 10.5px; fill: var(--ink); font-feature-settings: "tnum"; }
+  .milestone-last text { font-weight: 700; }
+  .x-tick-active { font-weight: 700; fill: var(--ink); }
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>llm-wiki — Knowledge Compounding Timeline</h1>
+  <div class="subtitle" id="subtitle">2026-05-09 ~ 2026-05-27 · cumulative file count by layer</div>
+  <svg id="chart" viewBox="0 0 1200 540" preserveAspectRatio="xMidYMid meet" aria-label="llm-wiki evolution stacked area chart"></svg>
+  <div class="legend" id="legend"></div>
+</div>
+
+<script>
+/* ---- 데이터 (FS mtime 기반 일별 누적, 2026-05-09 ~ 2026-05-27) ---- */
+const DATA = {
+  "dates": ["2026-05-09","2026-05-10","2026-05-11","2026-05-12","2026-05-13","2026-05-14","2026-05-15","2026-05-16","2026-05-17","2026-05-18","2026-05-19","2026-05-20","2026-05-21","2026-05-22","2026-05-23","2026-05-24","2026-05-25","2026-05-26","2026-05-27"],
+  "cats": ["Papers · sources","구조 · overviews","CLAUDE.md 룰","일일 운영 루프","분석 스펙"],
+  "data": {
+    "Papers · sources":  [3,15,34,60,213,307,459,511,663,763,847,962,1143,1207,1212,1370,1474,1528,1529],
+    "구조 · overviews":   [0,0,0,4,96,148,219,251,318,367,406,456,529,540,627,697,765,823,823],
+    "CLAUDE.md 룰":      [0,0,0,0,9,9,9,9,9,11,11,11,11,11,12,12,12,15,15],
+    "일일 운영 루프":     [0,0,0,0,0,0,0,0,0,0,1,1,3,3,3,4,5,13,13],
+    "분석 스펙":          [0,0,0,0,0,0,0,0,0,0,0,0,0,0,6,6,12,26,26]
+  }
+};
+
+const COLORS = {
+  "Papers · sources":  "var(--c1)",
+  "구조 · overviews":  "var(--c2)",
+  "CLAUDE.md 룰":      "var(--c3)",
+  "일일 운영 루프":     "var(--c4)",
+  "분석 스펙":          "var(--c5)"
+};
+
+/* commit log 기반 마일스톤 — 위쪽 callout dots */
+const MILESTONES = [
+  { date: "2026-05-12", label: "wiki 카테고리 첫 등장" },
+  { date: "2026-05-13", label: "대량 ingest 시작 (+150)" },
+  { date: "2026-05-18", label: "repo init · CLAUDE.md" },
+  { date: "2026-05-19", label: "ingest watcher" },
+  { date: "2026-05-20", label: "Quartz 정적 사이트" },
+  { date: "2026-05-23", label: "OPERATIONS 폴더 신설" },
+  { date: "2026-05-24", label: "73 papers ingest" },
+  { date: "2026-05-26", label: "audit·overview 폭발" },
+  { date: "2026-05-27", label: "오늘", last: true }
+];
+
+/* ---- 차트 그리기 ---- */
+const W = 1200, H = 540;
+const M = { top: 110, right: 50, bottom: 60, left: 56 };
+const innerW = W - M.left - M.right;
+const innerH = H - M.top - M.bottom;
+
+const svg = document.getElementById("chart");
+const NS = "http://www.w3.org/2000/svg";
+const el = (tag, attrs={}, parent=svg) => {
+  const n = document.createElementNS(NS, tag);
+  for (const k in attrs) n.setAttribute(k, attrs[k]);
+  parent.appendChild(n);
+  return n;
+};
+
+const N = DATA.dates.length;
+const xScale = i => M.left + (i / (N - 1)) * innerW;
+
+/* stacked y */
+const stacked = [];
+for (let i = 0; i < N; i++) {
+  let acc = 0;
+  const row = {};
+  for (const c of DATA.cats) {
+    row[c] = { y0: acc, y1: acc + DATA.data[c][i] };
+    acc += DATA.data[c][i];
+  }
+  row.total = acc;
+  stacked.push(row);
+}
+const yMax = Math.max(...stacked.map(r => r.total)) * 1.05;
+const yScale = v => M.top + innerH - (v / yMax) * innerH;
+
+/* y grid */
+const yTicks = 4;
+for (let t = 0; t <= yTicks; t++) {
+  const yv = (yMax / yTicks) * t;
+  const yy = yScale(yv);
+  const g = el("g", { class: "grid" });
+  el("line", { x1: M.left, x2: M.left + innerW, y1: yy, y2: yy }, g);
+}
+
+/* areas (bottom-up: c1 가장 아래) */
+const cats = DATA.cats;
+for (const c of cats) {
+  let d = "";
+  // top edge left→right
+  for (let i = 0; i < N; i++) {
+    const x = xScale(i), y = yScale(stacked[i][c].y1);
+    d += (i === 0 ? `M ${x} ${y}` : ` L ${x} ${y}`);
+  }
+  // bottom edge right→left
+  for (let i = N - 1; i >= 0; i--) {
+    const x = xScale(i), y = yScale(stacked[i][c].y0);
+    d += ` L ${x} ${y}`;
+  }
+  d += " Z";
+  el("path", { d, fill: COLORS[c], "fill-opacity": "0.92" });
+}
+
+/* x-axis baseline */
+el("line", { x1: M.left, x2: M.left + innerW, y1: M.top + innerH, y2: M.top + innerH,
+             stroke: "var(--ink)", "stroke-width": "1" });
+
+/* x-ticks: 매 7일 간격 + 마지막 */
+const xTickDates = ["2026-05-08","2026-05-15","2026-05-22","2026-05-27"];
+const xTickIdx = xTickDates.map(d => {
+  const i = DATA.dates.indexOf(d);
+  return i >= 0 ? { i, d } : null;
+}).filter(Boolean);
+// 시작 라벨 강제 표시 (05-08 가상)
+const labelAxis = el("g", { class: "axis" });
+xTickIdx.forEach(t => {
+  const x = xScale(t.i);
+  el("text", { x, y: M.top + innerH + 22, "text-anchor": "middle",
+               class: t.d === "2026-05-27" ? "x-tick-active" : "" }, labelAxis).textContent = t.d.slice(5);
+});
+
+/* y-axis label optional skip */
+
+/* 상단 마일스톤 callouts */
+const mg = el("g", { class: "milestones" });
+const callY = 18;
+MILESTONES.forEach(ms => {
+  const i = DATA.dates.indexOf(ms.date);
+  if (i < 0) return;
+  const x = xScale(i);
+  // 점선
+  el("line", { x1: x, x2: x, y1: callY + 6, y2: M.top + innerH, class: "milestone-line" }, mg);
+  // 점
+  el("circle", { cx: x, cy: callY + 6, r: 3, class: "milestone-dot" }, mg);
+  // 날짜 라벨
+  const g2 = el("g", { class: ms.last ? "milestone-last" : "" }, mg);
+  el("text", { x, y: callY, "text-anchor": "middle", class: "milestone-label" }, g2)
+    .textContent = ms.date.slice(5);
+});
+
+/* legend */
+const lg = document.getElementById("legend");
+cats.forEach(c => {
+  const item = document.createElement("span");
+  item.className = "item";
+  item.innerHTML = `<span class="sw" style="background:${COLORS[c]}"></span>
+                    <span class="name">${c}</span>
+                    <span style="color:var(--muted)">${DATA.data[c][N-1]}</span>`;
+  lg.appendChild(item);
+});
+
+/* subtitle 갱신: total */
+const total = stacked[N-1].total;
+document.getElementById("subtitle").textContent =
+  `2026-05-09 ~ 2026-05-27 · 총 ${total.toLocaleString()} files · ${N}일간 누적 추이`;
+</script>
+</body>
+</html>

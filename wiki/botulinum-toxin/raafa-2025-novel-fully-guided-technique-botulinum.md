@@ -14,6 +14,9 @@ source_collection: external
 tags: [lateral-pterygoid, TMJ, DDWR, guided-injection, 3D-printed-guide, muscle-segmentation, emg, CAD-CAM, digital-workflow]
 ---
 
+## One-line Summary
+In TMJ disc displacement with reduction patients, CT-segmentation-based 3D-printed-guide LPM botulinum injection was non-inferior to EMG guidance for all outcomes, with significantly greater LPM tenderness reduction at 3 and 6 months (n=20 RCT).
+
 ## 한줄요약
 TMJ 정복성 관절원판변위 환자에서 CT 분할로 만든 3D 프린팅 가이드를 이용한 외측익돌근 보툴리눔 주사는 EMG 유도 방식과 동등하며, 3·6개월 시점에서 LPM 압통 감소는 유의하게 더 컸음 (n=20 RCT).
 

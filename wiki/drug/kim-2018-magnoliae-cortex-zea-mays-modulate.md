@@ -14,6 +14,9 @@ source_collection: external
 tags: [periodontitis, host-modulation, magnoliae-cortex, honokiol, magnolol, zea-mays, insadol, in-vitro, raw-2647, nf-kb, mapk, p-gingivalis, snu]
 ---
 
+## One-line Summary
+SNU Periodontology + DongKook Pharm-funded in vitro: combined Magnoliae Cortex 60 µg/mL + maize unsaponifiable extract (Insadol active ingredient) 300 µg/mL on P. gingivalis-stimulated RAW 264.7 macrophages — NF-κB, ERK1/2, iNOS suppression; reduced NO, PGE₂, IL-1β, IL-6; combination more effective than either alone (synergy).
+
 ## 한줄요약
 SNU 치주과 + DongKook Pharm 자금 in vitro: P. gingivalis 자극 RAW 264.7 대식세포에 Magnoliae Cortex 60 µg/mL + 옥수수 불검화 추출물(인사돌 활성성분) 300 µg/mL 병용 시 NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 더 큰 효과(synergy).
 

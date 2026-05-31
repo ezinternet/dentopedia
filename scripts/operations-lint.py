@@ -54,7 +54,10 @@ def parse_frontmatter(content: str) -> dict | None:
     """Minimal YAML frontmatter parser: returns dict of raw string values.
     Lists are returned as the raw block of indented lines (good enough
     to detect "empty" vs "has at least one item")."""
-    m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
+    # HTML comment-wrapped frontmatter (interactives/.html files)
+    m = re.match(r"^<!--\s*\n---\n(.*?)\n---\s*\n-->", content, re.DOTALL)
+    if not m:
+        m = re.match(r"^---\n(.*?)\n---", content, re.DOTALL)
     if not m:
         return None
 

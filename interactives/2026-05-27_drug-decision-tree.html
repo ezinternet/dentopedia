@@ -1,0 +1,408 @@
+<!--
+---
+title: "약물 결정 트리 — Chairside (drug 5축 통합)"
+type: interactive
+date: 2026-05-27
+status: draft
+agenda: agenda/2026-05-27_chairside-interactives-batch.md
+source_wiki:
+  - wiki/overviews/drug-clinical-decision-ladder.md
+  - wiki/overviews/drug-anticoagulant-antiplatelet-perioperative-overview.md
+  - wiki/overviews/drug-mronj-antiresorptive-overview.md
+  - wiki/overviews/drug-antibiotic-stewardship-overview.md
+  - wiki/overviews/drug-analgesics-postop-pain-overview.md
+  - wiki/overviews/drug-systemic-disease-dental-management-overview.md
+tags: [drug, chairside-calculator, decision-tree, perioperative, prophylaxis, analgesia, mronj]
+notes: |
+  단일 HTML, 외부 CDN 없음. iPad chairside 가정.
+  환자 case 입력 → 5축 (항응고·MRONJ·항생제·진통제·LA) 권고 한 화면 출력.
+  로직 출처: drug 5개 sub-overview thesis (2026-05-27 분할).
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>약물 결정 트리 — Chairside</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+         max-width: 880px; margin: 16px auto; padding: 12px; color: #1f2933;
+         background: #fafbfc; line-height: 1.5; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .subtitle { color: #5c6773; font-size: 13px; margin-bottom: 18px; }
+  .card { background: #fff; border: 1px solid #e1e5ea; border-radius: 8px;
+          padding: 14px 16px; margin-bottom: 12px; box-shadow: 0 1px 2px rgba(0,0,0,0.03); }
+  h2 { font-size: 15px; margin: 0 0 10px; color: #2c3e50; }
+  label { display: block; font-size: 13px; color: #4a5568; margin-bottom: 4px; }
+  input[type=number], select { width: 100%; padding: 7px 9px; border: 1px solid #cbd2d9;
+          border-radius: 5px; font-size: 14px; background: #fff; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .row3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+  .checkrow { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 6px; font-size: 13px; }
+  .checkrow label { display: inline-flex; align-items: center; gap: 5px; margin: 0; cursor: pointer; }
+  .checkrow input[type=checkbox] { width: auto; margin: 0; }
+  button { background: #2563eb; color: #fff; border: none; padding: 10px 22px;
+           border-radius: 6px; font-size: 15px; cursor: pointer; }
+  button:hover { background: #1d4ed8; }
+  .meta { font-size: 12px; color: #718096; margin-top: 6px; }
+  .axis { background: #fff; border-left: 4px solid #cbd5e0; padding: 10px 14px;
+          margin-bottom: 8px; border-radius: 0 6px 6px 0; }
+  .axis.green { border-color: #16a34a; background: #f0fdf4; }
+  .axis.yellow { border-color: #ca8a04; background: #fefce8; }
+  .axis.red { border-color: #dc2626; background: #fef2f2; }
+  .axis h3 { font-size: 14px; margin: 0 0 6px; color: #2c3e50; }
+  .axis .rec { font-weight: 600; margin-bottom: 6px; }
+  .axis .why { font-size: 12.5px; color: #4a5568; }
+  .axis .ref { font-size: 11.5px; color: #718096; margin-top: 4px; font-style: italic; }
+  .footer { font-size: 11.5px; color: #94a3b8; margin-top: 20px; text-align: center; }
+  #result { margin-top: 10px; }
+  .summary { background: #1e293b; color: #f1f5f9; padding: 10px 14px; border-radius: 6px;
+             margin-bottom: 10px; font-size: 13px; }
+</style>
+</head>
+<body>
+
+<h1>약물 결정 트리 — Chairside</h1>
+<div class="subtitle">환자 case 입력 → 항응고·MRONJ·항생제·진통제·LA 5축 권고. 최종 결정은 원장.</div>
+
+<form id="calcForm" onsubmit="calculate(event)">
+
+  <div class="card">
+    <h2>1. 환자 정보</h2>
+    <div class="row3">
+      <div>
+        <label>연령</label>
+        <input type="number" id="age" min="0" max="120" value="60" required>
+      </div>
+      <div>
+        <label>임신·수유</label>
+        <select id="pregnancy">
+          <option value="no">아니오</option>
+          <option value="pregnant">임신 중</option>
+          <option value="lactating">수유 중</option>
+        </select>
+      </div>
+      <div>
+        <label>eGFR (mL/min, 모르면 비움)</label>
+        <input type="number" id="egfr" min="0" max="200" placeholder="60+">
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>2. 항응고·항혈소판</h2>
+    <div class="row3">
+      <div>
+        <label>복용 약물</label>
+        <select id="anticoag">
+          <option value="none">없음</option>
+          <option value="aspirin">Aspirin 단독</option>
+          <option value="clopidogrel">Clopidogrel 단독</option>
+          <option value="dapt">DAPT (Aspirin+Clopidogrel)</option>
+          <option value="warfarin">Warfarin (VKA)</option>
+          <option value="doac">DOAC (Rivaroxaban·Apixaban·Edoxaban·Dabigatran)</option>
+        </select>
+      </div>
+      <div id="inrWrap" style="display:none;">
+        <label>INR (Warfarin)</label>
+        <input type="number" id="inr" min="0" max="10" step="0.1" placeholder="2.5">
+      </div>
+      <div>
+        <label>IE 고위험군?</label>
+        <select id="ie">
+          <option value="no">아니오</option>
+          <option value="yes">예 (인공판막·과거 IE·청색심·이식판막)</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>3. 항흡수제·전신질환·동반약</h2>
+    <div class="row3">
+      <div>
+        <label>항흡수제</label>
+        <select id="antires">
+          <option value="none">없음</option>
+          <option value="oral_bp">경구 BP (Alendronate·Risedronate)</option>
+          <option value="iv_bp">IV BP (Zoledronate·Pamidronate)</option>
+          <option value="denosumab_op">Denosumab 60mg q6m (Prolia·골다공증)</option>
+          <option value="denosumab_ca">Denosumab 120mg q4w (Xgeva·암)</option>
+          <option value="romosozumab">Romosozumab</option>
+        </select>
+      </div>
+      <div>
+        <label>Denosumab 누적 dose</label>
+        <input type="number" id="denDose" min="0" max="200" placeholder="0">
+      </div>
+      <div>
+        <label>당뇨 (DM)</label>
+        <select id="dm">
+          <option value="none">없음</option>
+          <option value="t2_ctrl">T2DM 조절 (HbA1c &lt;7)</option>
+          <option value="t2_mod">T2DM 중간 (HbA1c 7–9)</option>
+          <option value="t2_unctrl">T2DM 비조절 (HbA1c ≥9)</option>
+          <option value="t1">T1DM</option>
+        </select>
+      </div>
+    </div>
+    <div class="checkrow">
+      <label><input type="checkbox" id="cv"> CVD (β-blocker 복용 가능성)</label>
+      <label><input type="checkbox" id="rapa"> 류마티스관절염 (RA)</label>
+      <label><input type="checkbox" id="ssri"> SSRI 복용</label>
+      <label><input type="checkbox" id="immuno"> 면역저하·이식</label>
+      <label><input type="checkbox" id="penAllergy"> 페니실린 알레르기</label>
+      <label><input type="checkbox" id="ulcer"> 위궤양·GI 출혈력</label>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>4. 시술 유형</h2>
+    <div class="row2">
+      <div>
+        <label>시술</label>
+        <select id="procedure">
+          <option value="simple_ext">단순 발치 (intact dentition)</option>
+          <option value="impacted_third">매복 third molar 외과적 발치</option>
+          <option value="implant">임플란트 식립</option>
+          <option value="multi_ext">다수 발치·골수술</option>
+          <option value="endo">근관치료</option>
+          <option value="endo_acute">응급 비가역 치수염</option>
+          <option value="perio_surg">치주 수술</option>
+          <option value="ap_no_systemic">치근단치주염 (전신증상 없음)</option>
+          <option value="ap_systemic">치근단농양 + 발열·림프절</option>
+        </select>
+      </div>
+      <div>
+        <label>술후 통증 prevalence</label>
+        <select id="painExp">
+          <option value="moderate">중간 (대부분)</option>
+          <option value="high">강함 (third molar·치수염)</option>
+          <option value="low">낮음 (단순 발치)</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <button type="submit">권고 생성</button>
+</form>
+
+<div id="result"></div>
+
+<div class="footer">
+  agenda: 2026-05-27_chairside-interactives-batch · 단일 HTML · v1 draft · 최종 결정은 원장
+</div>
+
+<script>
+// INR 입력 토글
+document.getElementById('anticoag').addEventListener('change', function(e){
+  document.getElementById('inrWrap').style.display = e.target.value === 'warfarin' ? 'block' : 'none';
+});
+
+function axis(level, title, rec, why, ref){
+  return `<div class="axis ${level}">
+    <h3>${title}</h3>
+    <div class="rec">${rec}</div>
+    <div class="why">${why}</div>
+    <div class="ref">${ref}</div>
+  </div>`;
+}
+
+function calculate(e){
+  e.preventDefault();
+  const age = +document.getElementById('age').value;
+  const preg = document.getElementById('pregnancy').value;
+  const egfr = document.getElementById('egfr').value ? +document.getElementById('egfr').value : null;
+  const ac = document.getElementById('anticoag').value;
+  const inr = document.getElementById('inr').value ? +document.getElementById('inr').value : null;
+  const ie = document.getElementById('ie').value === 'yes';
+  const antires = document.getElementById('antires').value;
+  const denDose = +document.getElementById('denDose').value || 0;
+  const dm = document.getElementById('dm').value;
+  const cv = document.getElementById('cv').checked;
+  const ra = document.getElementById('rapa').checked;
+  const ssri = document.getElementById('ssri').checked;
+  const immuno = document.getElementById('immuno').checked;
+  const penAllergy = document.getElementById('penAllergy').checked;
+  const ulcer = document.getElementById('ulcer').checked;
+  const proc = document.getElementById('procedure').value;
+  const painExp = document.getElementById('painExp').value;
+
+  let blocks = [];
+
+  // ===== 축 1 — 항응고·항혈소판 =====
+  {
+    let lvl='green', title='항응고·항혈소판', rec='', why='', ref='Inchingolo 2024 SR · Moldovan 2023 SR · Shah 2022 SR-MA';
+    if (ac === 'none') {
+      rec = '해당 없음 — 표준 발치 진행';
+      why = '항응고·항혈소판 미복용.';
+    } else if (ac === 'warfarin') {
+      if (inr === null) { lvl='yellow'; rec='INR 확인 후 결정'; why='INR 24–72h 이내 확인 필요.'; }
+      else if (inr <= 3.5) { lvl='green'; rec='Warfarin 지속 + TXA 4.8% 양치액 처방'; why=`INR ${inr} ≤ 3.5 — 중단 불필요. 국소 지혈로 충분.`; }
+      else if (inr <= 4.0) { lvl='yellow'; rec='선택적 처치 연기 + 처방의 상담'; why=`INR ${inr} 3.5–4.0 — 경계. 처방의와 INR 조정.`; }
+      else { lvl='red'; rec='모든 선택적 처치 연기'; why=`INR ${inr} > 4.0 — INR 정상화 우선.`; }
+    } else if (ac === 'doac') {
+      if (proc === 'simple_ext' || proc === 'endo' || proc === 'ap_no_systemic') {
+        lvl='green'; rec='DOAC 지속 + TXA 양치액'; why='단순 발치·근관에서 DOAC 중단 불필요.';
+      } else { lvl='yellow'; rec='당일 아침 dose 생략 → 지혈 확인 후 저녁 재복용'; why='임플란트·다수 발치·골수술 — 처방의 협진 권고.'; }
+    } else if (ac === 'aspirin' || ac === 'clopidogrel') {
+      lvl='green'; rec=`${ac === 'aspirin' ? 'Aspirin' : 'Clopidogrel'} 절대 중단 금지 + TXA 양치액`;
+      why='국소 지혈로 충분. 중단 시 혈전 위험 > 출혈 위험.';
+    } else if (ac === 'dapt') {
+      lvl='yellow'; rec='DAPT 지속 + 심장내과 협진 + TXA 양치액';
+      why='스텐트 혈전증 위험. 임의 중단 금지.';
+    }
+    if (ssri && (ac !== 'none')) {
+      why += ' SSRI 동시 복용 — NSAID 보조 시 상부 GI 출혈 위험.';
+    }
+    blocks.push(axis(lvl, '축 1 — 항응고·항혈소판', rec, why, ref));
+  }
+
+  // ===== 축 2 — MRONJ·항흡수제 =====
+  {
+    let lvl='green', title='MRONJ', rec='', why='', ref='Ruggiero AAOMS 2022 · Yokoo 2025 · Li 2024 SR · Iwata 2025';
+    const highRiskAntires = ['iv_bp','denosumab_ca','romosozumab'].includes(antires);
+    const lowRiskAntires = ['oral_bp','denosumab_op'].includes(antires);
+    if (antires === 'none') { rec='해당 없음 — 표준 protocol'; why='항흡수제 미복용.'; }
+    else if (highRiskAntires) {
+      lvl='red'; rec='고위험 — 처방의 협진 + 대안 술식 우선';
+      why=`${antires} 고위험. 발치 불가피 시 비외상적·1차폐쇄·단일 Amoxicillin 2g 술전(단, 본 처방은 IV BP·암 적응엔 보강 필요).`;
+      if (antires === 'denosumab_ca' && denDose >= 32) {
+        why += ` Yokoo 2025: 누적 ≥32 dose에서 MRONJ 31.2% — 발치력 OR 4.40. 현재 ${denDose} dose.`;
+      } else if (antires === 'denosumab_ca' && denDose > 0) {
+        why += ` 현재 ${denDose} dose — Yokoo 2025 ROC threshold ≥32에 도달 시 위험 급증.`;
+      }
+    } else if (lowRiskAntires) {
+      lvl='yellow'; rec='저위험 — 비외상적 발치 + 단일 술전 Amoxicillin 2g';
+      why=`${antires} 저위험. Iwata 2025: 단일 dose vs 3일 코스 MRONJ 발생률 동등 → 단일 AMPC 2g 술전으로 충분.`;
+      if (proc === 'implant') { why += ' 임플란트는 신중 — Li 2024 SR: 항흡수제 후 임플란트 23% 실패 (83% MRONJ).'; }
+    }
+    if (ra) why += ' RA 동반 — Jung 2022: RA가 MRONJ 독립 위험인자.';
+    blocks.push(axis(lvl, '축 2 — MRONJ·항흡수제', rec, why, ref));
+  }
+
+  // ===== 축 3 — 항생제 =====
+  {
+    let lvl='green', title='항생제', rec='', why='', ref='Wilson AHA 2021 · Sperotto 2024 SR-MA · Lodi 2021 Cochrane · Thornhill 2019';
+    const drug = penAllergy ? 'Cephalexin 2g 또는 Azithromycin 500mg' : 'Amoxicillin';
+    if (ie) {
+      lvl='green'; rec=`${drug} 2g 술전 1h prophylaxis`;
+      why='IE 고위험군 — 침습적 치과시술 전 prophylaxis 적응.';
+    } else if (proc === 'simple_ext') {
+      rec='항생제 불필요'; why='단순 발치 — Lodi 2021 Cochrane: prophylaxis 무효.';
+    } else if (proc === 'ap_no_systemic') {
+      rec='항생제 불필요 — 근관치료 우선';
+      why='Mendez-Millan 2024: AP 항생제 과잉처방. 근관치료가 1차.';
+    } else if (proc === 'ap_systemic') {
+      lvl='yellow'; rec=`${drug} 500mg q8h × 5일`;
+      why='전신증상 동반 농양 — 항생제 적응. 근관·배농 병행.';
+    } else if (proc === 'implant') {
+      lvl='yellow'; rec=`${drug} 2g 술전 단일 dose`;
+      why='Torof 2023 SR-MA: 임플란트 단일 술전 Amoxicillin 2g가 표준.';
+    } else if (proc === 'impacted_third') {
+      lvl='yellow'; rec='case-by-case (외과적 발치 침습도 의존)';
+      why='De Angelis 2025 SR: 매복·외과적 발치에 한정 적응.';
+    } else {
+      rec='기본 prophylaxis 불필요'; why='현 시술에 prophylaxis 적응 약함.';
+    }
+    if (immuno && !(ac === 'simple_ext')) {
+      lvl=(lvl==='red'?'red':'yellow'); why += ' 면역저하 — 개별화 항생제 prophylaxis 고려.';
+    }
+    if (highRiskAntires_check(antires) && proc !== 'simple_ext') {
+      lvl=(lvl==='red'?'red':'yellow'); why += ' IV BP·Denosumab(암)·Antiangiogenic — 침습적 처치 전 prophylaxis 적응.';
+    }
+    if (penAllergy) { why += ' 페니실린 알레르기 — Clindamycin 회피 (Thornhill 2019 치명률 2.9/M).'; }
+    blocks.push(axis(lvl, '축 3 — 항생제', rec, why, ref));
+  }
+
+  // ===== 축 4 — 진통제 =====
+  {
+    let lvl='green', rec='', why='', ref='Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025';
+    let firstLine = 'Ibuprofen 400mg / Acetaminophen 1000mg alternate q4h × 48h';
+    let avoidNSAID = false, reasonAvoid = [];
+
+    // NSAID 회피 조건
+    if (preg === 'pregnant' && age >= 0) { avoidNSAID = true; reasonAvoid.push('임신 (특히 30주 이상)'); }
+    if (egfr !== null && egfr < 60) { avoidNSAID = true; reasonAvoid.push(`eGFR ${egfr} < 60 — Gomes 2025 NSAID AKI OR 1.98`); }
+    if (age >= 75) { avoidNSAID = true; reasonAvoid.push('고령 ≥75'); }
+    if (ulcer) { avoidNSAID = true; reasonAvoid.push('위궤양·GI 출혈력'); }
+    if (ac === 'warfarin' || ac === 'doac' || ac === 'dapt') { reasonAvoid.push('항응고·DAPT 동시 — NSAID 회피 또는 PPI 동반'); avoidNSAID = true; }
+
+    // Aspirin 상호작용
+    let aspirinInteract = (ac === 'aspirin' || ac === 'dapt');
+
+    if (avoidNSAID) {
+      lvl='yellow';
+      firstLine = 'Acetaminophen 1000mg q6h (NSAID 회피)';
+      rec=firstLine; why=`NSAID 회피 — ${reasonAvoid.join(', ')}.`;
+    } else if (aspirinInteract) {
+      lvl='yellow';
+      firstLine = 'Acetaminophen 1차 → Celecoxib 또는 Ibuprofen 복용 타이밍 조절 (Aspirin 8h 전 또는 30min 후)';
+      rec=firstLine;
+      why='Aspirin 항혈소판 효과 보호 — Catella-Lawson 2001, Renda 2006, Yokoyama 2013.';
+    } else if (proc === 'implant' || proc === 'perio_surg') {
+      rec=firstLine + ' + 술전 30–60min Ibuprofen 400mg';
+      why='Gousias 2025 SR-MA: 치주·임플란트 preemptive analgesia 효과 있음. COX-2 selective는 골유착 우려 (Etikala 2019) — 회피.';
+    } else if (proc === 'endo' || proc === 'endo_acute') {
+      rec='Ibuprofen 600mg / Acetaminophen 1000mg alternate × 2–3일' + (proc === 'endo_acute' ? ' + Diclofenac potassium 50mg 고려' : '');
+      why='Smith 2017 SR-MA: 술전 통증 동반 endo에 Ibuprofen 600mg 유효. ' + (proc === 'endo_acute' ? 'Vatankhah 2023: 비가역 치수염에 Diclofenac K 우월.' : '');
+    } else if (painExp === 'low') {
+      rec=firstLine; why='Miroshnychenko 2023: NNT ~1.5. Opioid 처방 금지.';
+    } else {
+      rec=firstLine; why='Miroshnychenko 2023 Network MA (82 RCT, n=9,095): Ibuprofen+APAP 병용이 최저 NNT. Opioid·Tramadol은 placebo 동등.';
+    }
+    blocks.push(axis(lvl, '축 4 — 진통제', rec, why, ref));
+  }
+
+  // ===== 축 5 — 국소마취·동반약 점검 =====
+  {
+    let lvl='green', rec='', why='', ref='Karm 2017 RCT · Uritu 2025 SR · Colibasanu 2025 DDI · Pyo 2026';
+    if (preg === 'pregnant') {
+      lvl='yellow';
+      rec='Lidocaine 2% + Epinephrine 1:200,000. Felypressin 금기.';
+      why='Uritu 2025 SR: 임신 시 felypressin (옥시토신 작용) 절대 금기. 1:100,000–200,000 epinephrine만 안전.';
+    } else if (cv) {
+      lvl='yellow';
+      rec='Lidocaine 2% + Epinephrine 1:200,000 (1:80,000 회피)';
+      why='Karm 2017 RCT: 1:200,000이 1:80,000과 진통 동등하면서 SBP·HR 안정. CVD·β-blocker 환자에 우선.';
+    } else if (age >= 65) {
+      lvl='yellow';
+      rec='Lidocaine 2% + Epinephrine 1:200,000, 용량 minimize';
+      why='Pyo 2026: 고령자 DDI prevalence 40.7%. Polypharmacy + 약동학 변화 고려.';
+    } else {
+      rec='Lidocaine 2% + Epinephrine 1:200,000 (chairside 기본)';
+      why='Karm 2017 RCT: 일반 환자에 1:200,000 epinephrine이 합리적 1차 선택.';
+    }
+    if (cv) why += ' Colibasanu 2025: Epinephrine + 비선택적 β-blocker가 major DDI 대표 — 추가 1:200,000 희석 + 용량 minimize + BP·HR 모니터.';
+    blocks.push(axis(lvl, '축 5 — 국소마취·DDI', rec, why, ref));
+  }
+
+  // ===== Summary header =====
+  const tier = computeRiskTier(ac, antires, dm, immuno, ie, preg);
+  const summary = `<div class="summary">환자 요약: ${age}세${preg!=='no'?', '+preg:''} · 위험 tier ${tier} · 시술: ${procedureLabel(proc)}</div>`;
+
+  document.getElementById('result').innerHTML = summary + blocks.join('');
+  document.getElementById('result').scrollIntoView({behavior:'smooth', block:'start'});
+}
+
+function highRiskAntires_check(a){ return ['iv_bp','denosumab_ca','romosozumab'].includes(a); }
+
+function computeRiskTier(ac, antires, dm, immuno, ie, preg){
+  if (ie || highRiskAntires_check(antires) || dm === 't2_unctrl' || immuno || preg === 'pregnant') return 'HIGH';
+  if (ac !== 'none' || ['oral_bp','denosumab_op'].includes(antires) || dm === 't2_mod' || dm === 't1') return 'MODERATE';
+  return 'LOW';
+}
+
+function procedureLabel(p){
+  return {
+    simple_ext:'단순 발치', impacted_third:'매복 third molar 발치',
+    implant:'임플란트 식립', multi_ext:'다수 발치·골수술',
+    endo:'근관치료', endo_acute:'응급 비가역 치수염', perio_surg:'치주 수술',
+    ap_no_systemic:'AP 무전신증상', ap_systemic:'AP + 전신증상'
+  }[p] || p;
+}
+</script>
+
+</body>
+</html>

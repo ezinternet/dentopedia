@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective study at SNU oral medicine (n=248, mean age 64.7y): NRS significantly reduced with parafunctional habit control + saliva substitutes + counseling alone at visit 1; further reduced with clonazepam and zinc supplements at visits 2–4; 19.35% had serum zinc ≤70 μg/dL.
+
 ## 한줄요약
 SNU 구강내과 후향(n=248, 여 217·남 31, 평균 64.7세): BMS 1차 방문 시 parafunctional habit control + 타액대체 + 심리 안정 상담만으로 NRS 유의 감소; 2~4차 방문에서 clonazepam·zinc 보충제 추가로 추가 감소. 19.35%가 혈청 zinc ≤70 μg/dL — zinc 결핍 동반 비율이 무시못함.
 

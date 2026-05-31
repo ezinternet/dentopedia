@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, machine-learning, deep-learning, ANN, diagnostic-imaging, multi-specialty, data-privacy, legal-risk, china]
 ---
 
+## One-line Summary
+Narrative review (Med Sci Monit 2025;31:e946676, Zhejiang): overview of AI (ML/ANN/DL) applications across 6 dental specialties (endodontics, periodontics, implantology, orthodontics, prosthodontics, OMFS) from prevention to prognosis — limitations include inaccurate data labeling, absence of generalizable models, algorithmic bias, and legal/privacy risks.
+
 ## 한줄요약
 narrative-review (Med Sci Monit 2025;31:e946676, Zhejiang): AI(ML/ANN/DL)의 치과 6대 전공(근관, 치주, 임플란트, 교정, 보철, OMFS) 진단·치료 적용 총론 — 예방·조기 스크리닝부터 예후 평가까지; 데이터 라벨링 부정확, 일반화 모델 부재, 알고리즘 편향, 의료과실·개인정보 법적 위험 한계.
 

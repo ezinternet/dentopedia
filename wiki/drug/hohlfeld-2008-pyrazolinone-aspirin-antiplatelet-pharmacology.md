@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+In vitro with human platelets: metamizole (dipyrone) active metabolite MAA forms a hydrogen bond with COX-1 serine-530 → blocks aspirin acetylation → antiplatelet effect lost; same mechanism as ibuprofen and naproxen.
+
 ## 한줄요약
 인체 혈소판 인비트로: 메타미졸(디피론)의 활성 대사체 MAA가 COX-1 세린-530과 수소결합 형성 → 아스피린 아세틸화 차단 → 항혈소판 효과 소실; 이부프로펜·나프록센과 동일 기전.
 

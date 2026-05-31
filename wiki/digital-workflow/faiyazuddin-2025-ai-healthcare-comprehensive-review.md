@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, healthcare-general, ML, DL, NLP, robotics, predictive-analytics, remote-monitoring, IBM-Watson, Google-Health]
 ---
 
+## One-line Summary
+Narrative review (Health Sci Rep 2025;8(1):e70312): broad healthcare AI review — AI medical publications in Web of Science grew 4.5-fold over 10 years (158 [3.54%] in 2014 → 731 [16.33%] in 2024); diagnostics, treatment, and operational efficiency all improved, but data security and budget constraints are primary barriers; not dental-specific.
+
 ## 한줄요약
 narrative-review (Health Sci Rep 2025;8(1):e70312): 의료 AI 광역 리뷰 — Web of Science(2014–2024)에서 AI 의료 출판물 158편(3.54%) → 731편(16.33%)로 10년간 4.5배 증가; 진단·치료·운영 효율 모두 향상되나 데이터 보안·예산 제약이 1차 장벽; 치과 특화 아님.
 

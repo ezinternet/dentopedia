@@ -13,6 +13,9 @@ source_collection: external
 tags: [ARP, peri-implantitis, ISQ, bone-regeneration, animal-study, marginal-bone-loss]
 ---
 
+## One-line Summary
+Beagle study (n=6): ARP and tooth infection status had no significant effect on implant ISQ, radiographic bone loss, or histological bone composition; no correlation between newly formed bone and ISQ — ARP does not improve initial implant stability or retard peri-implantitis progression in this model (JPIS 2025).
+
 ## 한줄요약
 Beagle 6마리: ARP 유무 및 치아 감염 여부가 임플란트 ISQ·골흡수에 유의한 영향 없음; 신생골과 ISQ 간 상관관계 없음 — ARP가 초기 안정성이나 치주염 진행을 억제하지 못함 (JPIS 2025).
 

@@ -44,4 +44,5 @@ This retrospective study (J Stomatol Oral Maxillofac Surg 2023) analyzed 63 cons
 
 ## Related Papers
 - [[oral-surgery/gargava-2022-deep-neck-space-infection-150-cases]] — complementary DNSI epidemiology and management study (150 cases)
-- [[drug/]] — relevant to antibiotic stewardship and systemic disease management
+- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — antibiotic ADR rates 비교(amoxicillin vs clindamycin); antibiotic stewardship 근거.
+- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 치과 항생제 제한적 사용 권고 adherence.

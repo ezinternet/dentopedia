@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of dental zirconia development (Ban 2023): from 3Y-HA in 1998 to UHTZ in 2021; increasing yttria content raises translucency but reduces strength — the trade-off explained with crystalline phase and stabilizer mechanisms.
+
 ## 한줄요약
 치과용 지르코니아 발전사 리뷰(Ban 2023): 1998년 3Y-HA부터 2021년 UHTZ까지; 이트리아 함량 증가→투명도↑/강도↓ 트레이드오프; 결정상·안정화제 메커니즘 해설
 

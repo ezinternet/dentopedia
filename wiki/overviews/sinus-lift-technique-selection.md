@@ -68,7 +68,7 @@ CBCT RBH 측정
 | **sr+ma (6 RCTs)** | [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] | **OD 식립시·지대주연결시 ISQ 유의하게 높음**; 생존율 동등; 수술시간·합병증·진통제 모두 감소 | GRADE low |
 | **rct(n=11)** | [[sinus-lift/transcrestal/el-ghobashy-osseodensification-vs-osteotome-transcrestal-sinus]] | OD 식립 시 ISQ 66.17 vs 오스테오톰 54.83 (p=0.043); 시간 단축 (p=0.002) | RBH 5–8mm |
 | **prospective(n=16)** | [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] | OD로 경사 동저 RBH 4–7mm에서도 1년 100% | 천공 1/16 (6.25%) |
-| **narrative-review** | [[sinus-lift/transcrestal/gaspar-osseodensification-crestal-sinus-narrative-review]] | OD 기전: 골을 측방으로 압축 → 자가골 효과·천공 위험↓ | — |
+| **narrative-review** | [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] | OD 기전: 골을 측방으로 압축 → 자가골 효과·천공 위험↓ | — |
 
 **결론** [근거강함]: TSFE에서 OD가 ISQ·합병증·수술시간 양면 우위. 다만 SR+MA GRADE = low.
 
@@ -185,10 +185,32 @@ CBCT에서 반드시 확인할 5항목:
 
 ---
 
+## Additional Spokes (2026-05-26 추가)
+
+**Lateral (DPBB·장기 데이터 + recent narrative)**:
+- [[sinus-lift/lateral/mordenfeld-2010-msfa-dpbb-biopsies-11year]] — 11y human biopsy, DPBB 17.3% 잔존 + 골 86.7%
+- [[sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year]] — 10y DPBB + 자가골 임플란트 cohort
+- [[sinus-lift/lateral/sartori-2003-msfa-bio-oss-10year-case-report]] — Bio-Oss 10y case report (역사적)
+- [[sinus-lift/lateral/scaini-2025-lateral-sinus-floor-elevation-ridge-augmentation]] — Recent narrative (전신상태·디지털·피에조)
+- [[sinus-lift/lateral/zenobio-2019-blood-clot-stability-sinus-immediate]] — 무이식재 (graftless) 즉시식립 pilot
+
+**Transcrestal (OD·navigation·long-term·hybrid)**:
+- [[sinus-lift/transcrestal/cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensification]] — Osteotome vs OD SR+MA 13편
+- [[sinus-lift/transcrestal/farina-2023-minimal-invasiveness-transcrestal-sinus-elevation]] — 회전 동력+stop 최소침습 SR 19편
+- [[sinus-lift/transcrestal/huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-multicenter]] — OD 다기관 retrospective 261 implant
+- [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — Periodontology 2000 장기 안정성 narrative
+- [[sinus-lift/transcrestal/wu-2023-dynamic-navigation-transcrestal-sinus-floor]] — Dynamic navigation TSFE pilot
+- [[sinus-lift/transcrestal/salgar-2021-osseodensified-crestal-sinus-window-alternative-lateral]] — 극도 위축 (RBH 0.4-1.5mm) OD crestal
+- [[sinus-lift/transcrestal/felix-2022-subantral-sinus-augmentation-hydraulic-lift-system]] — Hydraulic lift + phosphosilicate
+- [[sinus-lift/transcrestal/mudalal-2019-endoscopic-sinus-lifting-immediate-implant]] — Endoscopic + PRF case
+- [[sinus-lift/transcrestal/mccrea-2012-trans-socket-sinus-floor-elevation]] — Trans-socket TSFE case series
+
 ## Related Overviews
 
 - [[overviews/sinus-lift-isq-loading-timing]] — 술식별 ISQ 궤적·부하 시기
 - [[overviews/isq-loading-threshold]] — ISQ 임계값 종합 매트릭스
+- [[overviews/osseodensification-clinical-applications]] — OD 4 시나리오 (sub-antral 포함)
+- [[overviews/bone-regeneration-protocol-ladder]] — ARP·GBR 인접
 
 ## Wiki Coverage Caveat
 

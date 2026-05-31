@@ -14,6 +14,9 @@ source_collection: external
 tags: [EAL, wide-apical-foramen, stability, file-size, working-length, SAF, in-vitro]
 ---
 
+## One-line Summary
+Ex vivo study (10 teeth, apical foramen 0.6–0.8 mm): EAL accuracy and stability both improve as file diameter approaches foramen diameter; SAF is also effective; file matching is key for wide foramina.
+
 ## 한줄요약
 Ex vivo 10개 치아(근첨공 0.6–0.8mm): 파일 직경이 근첨공 직경에 근접할수록 EAL 정확도·안정성 모두 향상; SAF도 유효; 광근첨공 시 파일 매칭이 핵심
 

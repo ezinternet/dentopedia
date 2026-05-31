@@ -13,6 +13,9 @@ source_collection: external
 tags: [artificial-intelligence, AI, machine-learning, deep-learning, implant-recognition, osseointegration-prediction, implant-design, SR]
 ---
 
+## One-line Summary
+SR (J Prosthet Dent 2023;129:293–300, ePub 2021, 17 studies): AI in implantology across 3 domains — type recognition (93.8–98% accuracy), success prediction (62.4–80.5%), and design optimization; insufficient clinical validation across all domains; developmental stage.
+
 ## 한줄요약
 sr(J Prosthet Dent 2023;129:293-300, ePub 2021, 17편): AI 임플란트 적용 3영역 — 종류인식(93.8–98% 정확도)·성공예측(62.4–80.5%)·설계최적화; 전 분야 임상검증 부족; 개발 단계.
 

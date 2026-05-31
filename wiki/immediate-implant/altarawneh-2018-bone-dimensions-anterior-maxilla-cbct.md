@@ -33,4 +33,4 @@ Cross-sectional; single-center; CBCT voxel size limits sub-millimeter precision.
 
 ## Related Papers
 - [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
-- [[immediate-implant/jung-2018-anterior-implant-cbct]]
+- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]]

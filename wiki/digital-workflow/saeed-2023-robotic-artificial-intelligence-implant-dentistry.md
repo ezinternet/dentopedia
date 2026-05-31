@@ -13,6 +13,9 @@ source_collection: external
 tags: [robotics, AI, artificial-intelligence, implant-placement, digital-workflow, diagnosis, treatment-planning, automation]
 ---
 
+## One-line Summary
+Narrative review (Cureus 2023, Saudi Arabia): robotics + AI in implant dentistry — robots improve placement precision and reduce human error; AI optimizes diagnosis, planning, and design; case-based evidence of improved success rates and satisfaction; ethical, cost, and accountability challenges remain.
+
 ## 한줄요약
 narrative-review(Cureus 2023, 사우디): 로보틱스+AI 임플란트 적용 — 로봇: 식립 정밀도↑·인적오류↓; AI: 진단·계획·설계 최적화; 성공률·만족도↑ 증례; 윤리·비용·책임 과제 상존.
 

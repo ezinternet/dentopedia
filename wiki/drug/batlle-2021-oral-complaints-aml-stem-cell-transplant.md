@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Analysis of oral complications in AML patients treated with allogeneic hematopoietic stem cell transplantation — oral GVHD incidence 30–50%, mucositis severity correlates with post-transplant survival.
+
 ## 한줄요약
 AML allo-HSCT 환자 구강 합병증 분석 — 구강 GVHD 30–50%, 점막염 중증도와 이식 후 생존 상관.
 

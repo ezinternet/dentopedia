@@ -14,6 +14,9 @@ source_collection: external
 tags: [bisphosphonate, BRONJ, MRONJ, osteonecrosis, zoledronic-acid, alendronate, dental-implant, osteoporosis, oncology]
 ---
 
+## One-line Summary
+Narrative review: bisphosphonate mechanism and BRONJ risk by type/route; IV > oral; topical promotes osseointegration (beneficial); BRONJ staging (AAOMS 0–3); prevention = complete dental treatment before starting therapy.
+
 ## 한줄요약
 서술적 고찰: 비스포스포네이트 기전·종류별 BRONJ 위험도; IV > 경구; 국소도포는 골유착 촉진(긍정적); BRONJ 병기(AAOMS 0–3); 예방 = 투약 전 치과 처치 완료
 

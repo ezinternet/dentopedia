@@ -13,6 +13,9 @@ source_collection: external
 tags: [deep-learning, AI, osseointegration, radiograph, panoramic, periapical, bone-integration, loading-timing]
 ---
 
+## One-line Summary
+Retrospective study (BMC Oral Health 2023;23:208, Gachon/Wonkwang): DL classification of osseointegration status before/after from panoramic and periapical radiographs of 580 patients and 1,206 implants using 7 models — all showed reliable performance; multicenter prospective validation required.
+
 ## 한줄요약
 retrospective(BMC Oral Health 2023;23:208, Gachon/Wonkwang): 580명 1206개 임플란트 파노라마+치근단 방사선으로 골유착 전/후 DL 분류 — 7개 모델 신뢰할 만한 성능; 다기관 전향적 검증 필요.
 

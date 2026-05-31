@@ -92,7 +92,6 @@ log "Watching: $WIKI_DIR"
   --exclude ".*/papers/.*" \
   --exclude ".*/wiki/.*" \
   --exclude ".*/sources/.*" \
-  --exclude ".*/graphify-out/.*" \
   --exclude ".*/\..*" \
   --include ".*\.pdf$" \
   --recursive \

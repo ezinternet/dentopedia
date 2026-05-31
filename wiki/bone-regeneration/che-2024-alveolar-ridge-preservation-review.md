@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+ARP narrative review (Hallym University OMFS): reviews techniques, graft materials, and socket sealing to minimize post-extraction alveolar bone resorption — granulation removal → appropriate graft → socket sealing is the ideal protocol, but clear guidelines on graft material choice and implant-placement timing are still lacking.
+
 ## 한줄요약
 ARP 종설(한림대 OMFS): 발치 후 alveolar bone 흡수를 최소화하기 위한 ARP의 술기·이식재·socket sealing 검토 — granulation 제거 → 적절 이식재 → socket sealing이 ideal protocol, 그러나 이식재·임플란트 식립 timing에 대한 명확 가이드라인은 아직 부재.
 

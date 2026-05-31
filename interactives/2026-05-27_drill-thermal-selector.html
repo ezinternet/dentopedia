@@ -1,0 +1,312 @@
+<!--
+---
+title: "Drill Thermal Protocol Selector — Chairside"
+type: interactive
+date: 2026-05-27
+status: draft
+agenda: agenda/2026-05-27_chairside-interactives-batch.md
+source_wiki:
+  - wiki/overviews/implants-clinical-decision-ladder.md
+  - wiki/overviews/osseodensification-clinical-applications.md
+  - wiki/implants/bento-2023-steel-versus-zirconia-drills-heat.md
+  - wiki/implants/sorgato-2025-drill-bit-wear-temperature.md
+  - wiki/implants/saxena-2024-guided-implant-drilling-bone-temperature.md
+  - wiki/implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
+  - wiki/implants/woods-2022-does-irrigating-while-drilling-decrease.md
+  - wiki/implants/rugova-2024-thermal-evaluation-bone-drilling-sequential.md
+  - wiki/implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
+  - wiki/implants/jain-2024-heat-generation-pain-piezosurgery-drilling.md
+tags: [implants, drilling, thermal, osseointegration, osseodensification, chairside-calculator, hygienist-tool]
+notes: |
+  단일 HTML. drill thermal stress 위험 평가 + OD 전환 권고.
+  47°C 1min · 50°C bone osteonecrosis 임계 (Eriksson 1983, Heuzeroth 2021 등).
+  로직 출처: implants-clinical-decision-ladder 축 3 (신설).
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<title>Drill Thermal Selector</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", system-ui, sans-serif;
+         max-width: 820px; margin: 16px auto; padding: 12px; color: #1f2933;
+         background: #fafbfc; line-height: 1.5; }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  .subtitle { color: #5c6773; font-size: 13px; margin-bottom: 18px; }
+  .card { background: #fff; border: 1px solid #e1e5ea; border-radius: 8px;
+          padding: 14px 16px; margin-bottom: 12px; }
+  h2 { font-size: 15px; margin: 0 0 10px; color: #2c3e50; }
+  label { display: block; font-size: 13px; color: #4a5568; margin-bottom: 4px; }
+  input, select { width: 100%; padding: 7px 9px; border: 1px solid #cbd2d9;
+          border-radius: 5px; font-size: 14px; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+  .row3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; }
+  .checkrow { display: flex; flex-wrap: wrap; gap: 14px; margin-top: 6px; font-size: 13px; }
+  .checkrow label { display: inline-flex; align-items: center; gap: 5px; margin: 0; }
+  .checkrow input { width: auto; }
+  button { background: #2563eb; color: #fff; border: none; padding: 10px 22px;
+           border-radius: 6px; font-size: 15px; cursor: pointer; }
+  button:hover { background: #1d4ed8; }
+  .meta { font-size: 12px; color: #718096; margin-top: 6px; }
+  .gauge { background: #f3f4f6; border-radius: 8px; padding: 12px 14px; margin: 10px 0; }
+  .gauge .bar { height: 14px; background: linear-gradient(to right, #16a34a 0%, #ca8a04 60%, #dc2626 100%);
+                border-radius: 7px; position: relative; }
+  .gauge .marker { position: absolute; top: -3px; width: 4px; height: 20px;
+                   background: #1f2937; border-radius: 2px; }
+  .gauge .scale { display: flex; justify-content: space-between; font-size: 11.5px;
+                  color: #5c6773; margin-top: 4px; }
+  .gauge h3 { font-size: 14px; margin: 0 0 6px; }
+  .result-card { border-left: 6px solid; padding: 14px 18px; margin-top: 12px;
+                 border-radius: 0 8px 8px 0; background: #fff; }
+  .result-card.safe { border-color: #16a34a; background: #f0fdf4; }
+  .result-card.caution { border-color: #ca8a04; background: #fefce8; }
+  .result-card.danger { border-color: #dc2626; background: #fef2f2; }
+  .result-card h3 { font-size: 17px; margin: 0 0 6px; }
+  .protocol { background: rgba(255,255,255,0.75); padding: 8px 12px;
+              border-radius: 5px; font-size: 13px; margin: 6px 0; }
+  .refs { font-size: 11.5px; color: #5c6773; font-style: italic; margin-top: 4px; }
+  .footer { font-size: 11.5px; color: #94a3b8; margin-top: 20px; text-align: center; }
+  .flag-row { display: flex; flex-wrap: wrap; gap: 6px; margin-top: 6px; }
+  .flag { display: inline-block; padding: 2px 8px; border-radius: 10px;
+          font-size: 11.5px; background: #e2e8f0; color: #334155; }
+</style>
+</head>
+<body>
+
+<h1>Drill Thermal Protocol Selector</h1>
+<div class="subtitle">Bone type · drill 종류 · 누적 사용 · irrigation → 47°C 초과 위험 + OD 전환 권고. 최종 결정은 원장.</div>
+
+<form id="calcForm" onsubmit="calculate(event)">
+
+  <div class="card">
+    <h2>1. 골 조건</h2>
+    <div class="row3">
+      <div>
+        <label>Bone type (Lekholm-Zarb)</label>
+        <select id="bonetype">
+          <option value="1">I (dense cortical)</option>
+          <option value="2">II</option>
+          <option value="3" selected>III</option>
+          <option value="4">IV (저밀도)</option>
+        </select>
+      </div>
+      <div>
+        <label>부위</label>
+        <select id="site">
+          <option value="ant_man">하악 전방 (cortical 두꺼움)</option>
+          <option value="post_man" selected>하악 후방</option>
+          <option value="post_max">상악 후방</option>
+          <option value="ant_max">상악 전방</option>
+        </select>
+      </div>
+      <div>
+        <label>CBCT HU (모르면 비움)</label>
+        <input type="number" id="hu" min="-200" max="2500" placeholder="예: 700">
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>2. Drill 시스템·상태</h2>
+    <div class="row3">
+      <div>
+        <label>Drill 재질</label>
+        <select id="drillMat">
+          <option value="steel" selected>Steel (표준)</option>
+          <option value="zirconia">Zirconia (낮은 heat)</option>
+          <option value="dlc">DLC-coated</option>
+        </select>
+      </div>
+      <div>
+        <label>누적 사용 횟수</label>
+        <input type="number" id="drillUse" min="0" max="500" value="10">
+      </div>
+      <div>
+        <label>제조사 권장 한도</label>
+        <input type="number" id="drillMax" min="5" max="500" value="30">
+      </div>
+    </div>
+    <div class="row2" style="margin-top:8px;">
+      <div>
+        <label>Drilling 방식</label>
+        <select id="method">
+          <option value="conventional" selected>표준 sequential drilling</option>
+          <option value="od">Osseodensification (Densah Bur)</option>
+          <option value="guided">Guided drilling (sleeve)</option>
+          <option value="piezo">Piezosurgery</option>
+        </select>
+      </div>
+      <div>
+        <label>RPM</label>
+        <select id="rpm">
+          <option value="low">≤800 (slow, OD·하악 cortical)</option>
+          <option value="mid" selected>800–1500 (표준)</option>
+          <option value="high">≥1500 (빠름)</option>
+        </select>
+      </div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>3. Irrigation·환경</h2>
+    <div class="checkrow">
+      <label><input type="checkbox" id="externalIrr" checked> External irrigation (saline)</label>
+      <label><input type="checkbox" id="internalIrr"> Internal irrigation (drill 내부)</label>
+      <label><input type="checkbox" id="precooled"> Pre-cooled saline (4°C)</label>
+      <label><input type="checkbox" id="skipStep"> Drill step skip (한 단계 생략)</label>
+      <label><input type="checkbox" id="sequentialOK" checked> Sequential 준수 (단계별)</label>
+    </div>
+  </div>
+
+  <button type="submit">위험 평가 + 권고</button>
+</form>
+
+<div id="result"></div>
+
+<div class="footer">
+  agenda: 2026-05-27_chairside-interactives-batch · v1 draft · 47°C/1min·50°C bone osteonecrosis 임계 (Eriksson 1983)
+</div>
+
+<script>
+function calculate(e){
+  e.preventDefault();
+  const bt = +document.getElementById('bonetype').value;
+  const site = document.getElementById('site').value;
+  const hu = document.getElementById('hu').value ? +document.getElementById('hu').value : null;
+  const mat = document.getElementById('drillMat').value;
+  const use = +document.getElementById('drillUse').value;
+  const max = +document.getElementById('drillMax').value;
+  const method = document.getElementById('method').value;
+  const rpm = document.getElementById('rpm').value;
+  const extIrr = document.getElementById('externalIrr').checked;
+  const intIrr = document.getElementById('internalIrr').checked;
+  const preCool = document.getElementById('precooled').checked;
+  const skip = document.getElementById('skipStep').checked;
+  const seqOK = document.getElementById('sequentialOK').checked;
+
+  // 위험 점수 (0–100). 단순 가중합 — 임상 thumb rule, 정량 검증 X.
+  let score = 0;
+  let flags = [];
+  let refs = [];
+
+  // 골 밀도 기여
+  if (bt === 1) { score += 35; flags.push('<span class="flag">Type I 고밀도 — heat 위험 ↑</span>'); }
+  else if (bt === 2) score += 20;
+  else if (bt === 3) score += 10;
+  else if (bt === 4) score += 5;
+
+  // 부위 cortical 두께
+  if (site === 'ant_man') { score += 10; flags.push('<span class="flag">하악 전방 cortical 두꺼움</span>'); }
+
+  // HU 보정
+  if (hu !== null) {
+    if (hu >= 1000) { score += 10; flags.push(`<span class="flag">HU ${hu} ≥1000 — Type I 수준</span>`); }
+    else if (hu >= 600) score += 5;
+  }
+
+  // Drill 재질
+  if (mat === 'steel') score += 5;
+  else if (mat === 'zirconia') { score -= 5; refs.push('Bento 2023 SR-MA: zirconia drill heat 유의 낮음'); }
+  else if (mat === 'dlc') score -= 3;
+
+  // Drill 누적 사용
+  const useRatio = max > 0 ? use / max : 1;
+  if (useRatio >= 1.0) { score += 25; flags.push(`<span class="flag">Drill 사용 한도 초과 (${use}/${max}) — 교체 권고</span>`); refs.push('Sorgato 2025: wear 누적 → temperature 상승'); }
+  else if (useRatio >= 0.7) { score += 12; flags.push(`<span class="flag">Drill 한도 70%+ — 교체 임박</span>`); }
+  else if (useRatio >= 0.4) score += 5;
+
+  // Method
+  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); }
+  else if (method === 'guided') { score += 8; flags.push('<span class="flag">Guided sleeve가 irrigation 방해 — Saxena 2024</span>'); refs.push('Saxena 2024: guided + sleeve heat dispersion 방해'); }
+  else if (method === 'piezo') { score -= 5; refs.push('Jain 2024: piezo 통증·heat 저감'); }
+
+  // RPM
+  if (rpm === 'high') { score += 12; flags.push('<span class="flag">≥1500 RPM — 고속 heat 증가</span>'); }
+  else if (rpm === 'low') score -= 3;
+
+  // Irrigation
+  if (!extIrr && !intIrr) { score += 20; flags.push('<span class="flag">Irrigation 없음 — 임상 금기</span>'); refs.push('Woods 2022 SR: irrigation의 heat reduction 효과'); }
+  else if (extIrr && !intIrr) score += 2;
+  else if (extIrr && intIrr) score -= 5;
+  if (preCool) score -= 5;
+
+  // Sequential 위반
+  if (skip || !seqOK) { score += 15; flags.push('<span class="flag">Sequential drill 위반 — thermal spike</span>'); refs.push('Rugova 2024: sequential drilling thermal profile'); }
+
+  // Clamp
+  score = Math.max(0, Math.min(100, score));
+
+  let level, headline, rationale, protocol = [];
+  if (score < 35) {
+    level = 'safe';
+    headline = `안전 — 47°C 초과 위험 낮음 (score ${score.toFixed(0)}/100)`;
+    rationale = '현재 protocol에서 thermal osteonecrosis 위험 작음.';
+    protocol = [
+      '표준 sequential drilling 진행',
+      'External irrigation 유지 (cool saline)',
+      '술중 drill bit visible debris 확인'
+    ];
+  } else if (score < 65) {
+    level = 'caution';
+    headline = `주의 — heat 위험 중간 (score ${score.toFixed(0)}/100)`;
+    rationale = 'Thermal stress 누적 가능성. Protocol 강화 권고.';
+    protocol = [];
+    if (mat === 'steel' && bt <= 2) protocol.push('Zirconia drill 고려 (Bento 2023 — heat 유의 낮음)');
+    if (useRatio >= 0.4) protocol.push(`Drill bit 교체 검토 — 현 ${use}/${max} 사용`);
+    if (rpm === 'high') protocol.push('RPM 800–1200으로 낮춤');
+    if (!intIrr) protocol.push('Internal + external 이중 irrigation 권고');
+    if (preCool === false) protocol.push('Pre-cooled saline (4°C) 사용');
+    if (method !== 'od' && bt === 4) protocol.push('Type IV — OD (Densah Bur) 전환 검토');
+    if (method === 'guided') protocol.push('Guided drilling — sleeve 외부에 추가 saline irrigation 보강');
+    if (skip || !seqOK) protocol.push('Sequential drill 단계 준수 — skip 금지');
+  } else {
+    level = 'danger';
+    headline = `위험 — 47°C/1min 초과 가능 (score ${score.toFixed(0)}/100)`;
+    rationale = 'Thermal osteonecrosis 위험 — 현 protocol에서 진행 금지 권고. 즉시 수정.';
+    protocol = [
+      'Protocol 즉시 수정 또는 procedure 일시 중단',
+      `Drill 즉시 교체 (현 ${use}/${max})`,
+      'External + internal + pre-cooled saline 이중 irrigation',
+      'RPM 600–1000으로 낮춤',
+      bt <= 2 ? 'Bone type ' + ['','I','II','III','IV'][bt] + ' + 고밀도 — OD 전환 또는 staged 분할 osteotomy 검토' : '',
+      'Sequential drill 단계 엄격 준수',
+      method === 'guided' ? 'Guided drilling 시 sleeve 외부 추가 irrigation 필수' : '',
+      method !== 'od' && bt >= 3 ? 'OD (Densah Bur) 전환 — Marzorati 2026 SR-MA: thermal 유리 + ISQ 우세' : ''
+    ].filter(x => x);
+  }
+
+  // 일반 refs append
+  refs.push('Heuzeroth 2021: thermal exposure → osseointegration 직접 영향');
+  refs.push('implants-clinical-decision-ladder 축 3');
+
+  // Gauge render
+  const markerPos = score; // 0-100 → 0-100%
+  const gaugeHtml = `
+    <div class="gauge">
+      <h3>Heat 위험 score: ${score.toFixed(0)} / 100</h3>
+      <div class="bar"><div class="marker" style="left: calc(${markerPos}% - 2px);"></div></div>
+      <div class="scale"><span>0 안전</span><span>35</span><span>65</span><span>100 위험</span></div>
+    </div>
+  `;
+
+  const html = gaugeHtml + `
+    <div class="result-card ${level}">
+      <h3>${headline}</h3>
+      <div class="rationale">${rationale}</div>
+      <div class="protocol">
+        <b>권고:</b>
+        <ul style="margin: 4px 0 0 18px; padding: 0;">${protocol.map(p=>'<li>'+p+'</li>').join('')}</ul>
+      </div>
+      <div class="flag-row">${flags.join('')}</div>
+      <div class="refs">근거: ${refs.join(' · ')}</div>
+    </div>
+  `;
+  document.getElementById('result').innerHTML = html;
+  document.getElementById('result').scrollIntoView({behavior:'smooth', block:'start'});
+}
+</script>
+
+</body>
+</html>

@@ -14,6 +14,9 @@ source_collection: external
 tags: [irrigation, PUI, ANP, sonic, working-length, irrigant-activation, sr+ma, endovac]
 ---
 
+## One-line Summary
+SR+MA: irrigant delivery to working length ranked — ANP (EndoVac) > PUI > sonic > MDA > conventional needle irrigation; all activation techniques significantly superior to conventional needle irrigation.
+
 ## 한줄요약
 SR+MA: 관개액 근첨부 도달 효율 비교 — ANP(EndoVac) > PUI > 소닉 > MDA > 일반 주사기; 모든 활성화 기법이 conventional needle보다 유의하게 우수
 

@@ -30,3 +30,7 @@ Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authenti
 [2026-05-21 16:12:57] New PDF detected: journal.pone.0319492.pdf
 [2026-05-21 16:12:58] Starting ingest for: journal.pone.0319492.pdf
 [2026-05-21 16:12:58] Starting ingest for: journal.pone.0319492.pdf
+[2026-05-30 12:21:25] === llm-wiki ingest watcher started ===
+[2026-05-30 12:21:25] === llm-wiki ingest watcher started ===
+[2026-05-30 12:21:26] Watching: /Users/oracleneo/llm-wiki
+[2026-05-30 12:21:26] Watching: /Users/oracleneo/llm-wiki

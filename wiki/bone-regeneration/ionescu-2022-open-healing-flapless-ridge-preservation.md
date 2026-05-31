@@ -13,6 +13,9 @@ source_collection: external
 tags: [open-healing, flapless, ridge-preservation, DBBM, collagen-membrane, immediate-implant, minimally-invasive, CBCT]
 ---
 
+## One-line Summary
+Prospective study (Biology 2022): n=104 patients, 135 extractions, open-healing flapless ARP (DBBM + intentionally exposed collagen membrane) — 5-year implant survival 98.5%, success 94.8%; CBCT confirms 3D ridge preservation with minimally invasive technique.
+
 ## 한줄요약
 prospective(Biology 2022): n=104명 135발치, 판막거상 없이 개방치유(DBBM+콜라겐막 노출) — 5년 임플란트 생존율 98.5%·성공률 94.8%; CBCT 3D 치조제 보존 확인; 최소침습.
 

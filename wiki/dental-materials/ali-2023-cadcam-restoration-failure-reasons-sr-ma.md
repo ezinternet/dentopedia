@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of CAD/CAM restoration clinical failure reasons — fracture accounted for 55% and debonding for 20% of failures; thickness <1 mm significantly increases fracture risk.
+
 ## 한줄요약
 CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 

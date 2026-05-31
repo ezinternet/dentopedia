@@ -13,6 +13,9 @@ source_collection: external
 tags: [deep-learning, AI, periapical-radiograph, image-quality, ResNet50, quality-control, radiation-reduction]
 ---
 
+## One-line Summary
+Retrospective (Sci Rep 2026, 3,594 periapical radiographs): ResNet50 deep learning classification of 6 image quality defects and 10 tooth positions — AUC 0.924–1.000; potential for automated quality assessment, reduced retakes, and minimized radiation exposure.
+
 ## 한줄요약
 retrospective(Sci Rep 2026, 3594 PA): ResNet50 DL로 치근단 방사선 6가지 품질결함·10치위 분류 — AUC 0.924–1.000; 자동 품질평가·재촬영 감소·방사선 피폭 최소화 잠재성.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [hba1c, glycemic-control, diabetes-monitoring, eag, adag, dental-systemic-evaluation]
 ---
 
+## One-line Summary
+International multicenter prospective cohort (n=507, T1DM 268/T2DM 159/normal 80): established the linear regression eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84), independent of age, sex, race, diabetes type, or smoking — enables conversion from A1C % to eAG for patient communication.
+
 ## 한줄요약
 국제 다기관 전향 코호트(n=507, T1DM 268·T2DM 159·정상 80) — HbA1c와 평균혈당의 선형회귀식 eAG (mg/dL) = 28.7 × A1C − 46.7 (R²=0.84) 확립; 연령·성별·인종·당뇨형·흡연 무관 → 환자 설명 시 % 대신 eAG로 환산 가능.
 

@@ -14,6 +14,9 @@ source_collection: external
 tags: [preemptive-analgesia, periodontal-surgery, implant-surgery, SR-MA, NSAIDs, JCP, gingival-augmentation, OFD]
 ---
 
+## One-line Summary
+JCP 2025 SR+MA (Gousias, 18 RCTs included, 1,995 titles screened): preemptive analgesia vs placebo in periodontal and implant surgery (OFD, gingival augmentation, implant site development, implant placement) evaluated at multiple timepoints — preemptive analgesia significantly reduces pain; positive update specific to this specialty context, in contrast to Costa 2015's negative finding for third-molar surgery.
+
 ## 한줄요약
 JCP 2025 SR+MA (Gousias, 18 RCT 포함, 1,995 titles screened): 치주 + 임플란트 수술 (OFD, gingival augmentation, implant site development, implant placement) — preemptive 진통제 vs 위약 다중 timepoint 평가; preemptive analgesia가 통증 유의 감소 — Costa 2015 (제3대구치 부정적)의 specialty-specific 양성 update.
 

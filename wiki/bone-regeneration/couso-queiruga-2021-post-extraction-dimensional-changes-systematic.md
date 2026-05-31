@@ -13,6 +13,9 @@ source_collection: external
 tags: [ridge-resorption, post-extraction, systematic-review, meta-analysis, benchmark]
 ---
 
+## One-line Summary
+SR+MA (28 studies, 20 pooled): unassisted post-extraction healing yields horizontal loss of 2.5–2.7 mm and buccal vertical loss of 1.7 mm at non-molar sites, and 3.6 mm horizontal loss at molar sites — providing the benchmark figures against which ARP interventions are compared.
+
 ## 한줄요약
 체계적 문헌고찰·메타분석 (Systematic Review with Meta-Analysis, SR+MA, n=28 연구·20 풀링) — 발치 후 자연치유 시 비대구치는 수평 2.5–2.7 mm, 수직 협측 1.7 mm 흡수되고, 대구치는 수평 3.6 mm 흡수되어 치조제보존술 (Alveolar Ridge Preservation, ARP) 시행 여부 비교의 기준 수치를 제공한다.
 

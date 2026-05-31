@@ -13,6 +13,9 @@ source_collection: external
 tags: [ios, intraoral-scanner, accuracy, trueness, precision, full-arch, edentulous, operator, powder, technology]
 ---
 
+## One-line Summary
+Comprehensive narrative review of intraoral scanner (IOS) accuracy factors (Diagnostics 2023): multi-factor analysis including scanner technology, arch size, operator experience, temperature, and powder; full-arch scanning accumulates greater error than smaller arches; error greatest in edentulous arches.
+
 ## 한줄요약
 구강내 스캐너(Intraoral Scanner, IOS) 정확도 영향 인자 종합 리뷰 (Diagnostics 2023): 스캐너 기술·악궁 크기·술자 경험·온도·분말 등 다인자 분석; 전악 스캔은 소악궁 대비 오차 누적 큼; 교합면 포함 무치악에서 IOS 오차 최대.
 

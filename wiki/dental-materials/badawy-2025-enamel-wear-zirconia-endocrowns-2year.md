@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, endocrown, enamel-wear, polishing, glazing, clinical-study, CAD-CAM, 2-year]
 ---
 
+## One-line Summary
+Prospective (J Esthet Restor Dent 2025): 20 zirconia endocrowns (glazed vs polished) on mandibular first molars at 2 years — enamel wear 0.422 mm (polished) vs 0.491 mm (glazed), NS (p=0.108); 100% survival; both finishing methods clinically acceptable.
+
 ## 한줄요약
 prospective(J Esthet Restor Dent 2025): 지르코니아 엔도크라운 20개(유약 vs 연마), 하악 제1대구치, 2년 임상 — 연마 0.422mm vs 유약 0.491mm (NS, p=0.108); 100% 생존; 두 방법 모두 임상적으로 수용 가능.
 

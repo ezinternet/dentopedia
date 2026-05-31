@@ -13,6 +13,9 @@ source_collection: external
 tags: [LLM, ChatGPT, GPT-4, Bard, Bing, patient-instructions, patient-education, prosthodontics, accuracy, QUADAS-2, sr-ma]
 ---
 
+## One-line Summary
+SR+MA (J Prosthodont 2025, 25 studies): pooled LLM accuracy for dental patient questions 81.87% (95% CI 77.24–86.51%), clinically acceptable responses 69.9% (95% CI 57.3–82.6%); ChatGPT-3.5 significantly outperformed Bing, no significant difference vs GPT-4.0/Bard — promising for simple instructions, limited for complex clinical scenarios.
+
 ## 한줄요약
 sr+ma (J Prosthodont 2025 Early View, 25편): 치과 환자 질문 응답에서 LLM 정확도 풀링 81.87% (95% CI 77.24–86.51%), 임상적 수용 가능 응답 69.9% (95% CI 57.3–82.6%); ChatGPT-3.5 > Bing 유의, GPT-4.0/Bard와는 차이 없음 — 단순 안내에는 유망, 복잡 임상에는 한계.
 

@@ -14,6 +14,9 @@ source_collection: external
 tags: [BoNT-A, dry-needling, manual-therapy, pharmacological-therapy, bruxism, myalgia, head-to-head-RCT, OHIP-14]
 ---
 
+## One-line Summary
+4-arm RCT (n=80, 12 weeks, NCT06583551) — BoNT-A, dry needling, pharmacological therapy, and manual therapy showed no between-group differences on VAS/MMO/OHIP-14; only the BoNT-A group showed a worsening trend in OHIP-14.
+
 ## 한줄요약
 4-arm RCT (n=80, 12주, NCT06583551) — BoNT-A·DN·PT·MT 네 치료 모두 VAS/MMO/OHIP-14에서 그룹 간 차이 없음, BoNT-A의 OHIP-14만 오히려 악화 추세.
 

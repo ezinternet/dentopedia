@@ -13,6 +13,9 @@ source_collection: external
 tags: [remineralization, fluoride, CPP-ACP, hydroxyapatite, SDF, resin-infiltration, enamel]
 ---
 
+## One-line Summary
+SR of enamel remineralization techniques: fluoride + CPP-ACP combination is most effective; SDF is the strongest for caries arrest; hydroxyapatite is emerging as an alternative.
+
 ## 한줄요약
 법랑질 재광화 기술 SR: 불소+CPP-ACP 병용 최효, SDF 진행 억제 강력, hydroxyapatite 대안 부상.
 

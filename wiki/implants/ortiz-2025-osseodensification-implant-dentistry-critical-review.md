@@ -30,6 +30,6 @@ Critical narrative review evaluating the evidence base for osseodensification (O
 | Long-term survival | No long-term RCT data | Very low |
 
 ## Related Papers
-- [[implants/huwais-2016-osseous-densification-novel-osteotomy-approach]] — foundational OD in-vitro study
+- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — foundational OD in-vitro study
 - [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — systematic review of OD evidence
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA: OD for CSFE

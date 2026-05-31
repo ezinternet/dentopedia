@@ -34,4 +34,4 @@ Cross-sectional anatomy-only; single population.
 ## Related Papers
 - [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
 - [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
+- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]

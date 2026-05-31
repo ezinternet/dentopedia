@@ -13,6 +13,9 @@ source_collection: external
 tags: [mronj, denosumab, osteoporosis, tooth-extraction, drug-holiday]
 ---
 
+## One-line Summary
+Retrospective cohort of 98 osteoporosis patients on denosumab who underwent extraction: MRONJ incidence 4.1%, no significant difference between denosumab-only vs BP+denosumab groups, rheumatoid arthritis was the only significant risk factor (OR 35.4), and MRONJ can arise from chronic periodontitis without extraction.
+
 ## 한줄요약
 골다공증 환자 denosumab 투여 후 발치 98명 후향 코호트: MRONJ 발생률 4.1%, denosumab 단독 vs BP+denosumab 간 유의차 없음, 류마티스관절염이 유일한 유의 위험인자(OR 35.4), 발치 없이도 만성 치주염에서 MRONJ 발생 가능.
 

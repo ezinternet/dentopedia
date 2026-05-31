@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, zro2, single-crown, fpd, fixed-dental-prosthesis, 5-year, retrospective, chipping, marginal-adaptation, survival-rate]
 ---
 
+## One-line Summary
+5-year retrospective comparison of zirconia single crowns vs FDPs (Medicina 2025, Romania): both showed high survival rates; veneering ceramic chipping was more frequent in FDPs; marginal adaptation remained acceptable for both groups over 5 years.
+
 ## 한줄요약
 지르코니아(Zirconia, ZrO₂) 단관 vs FPD 5년 후향적 비교 (Medicina 2025, 루마니아): 단관과 FPD 생존율 모두 높음; FPD에서 베니어 칩핑(Chipping) 빈도 더 높음; 변연 적합성 양 군 5년간 양호.
 

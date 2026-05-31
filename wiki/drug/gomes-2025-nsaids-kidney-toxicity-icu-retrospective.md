@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, AKI, kidney-toxicity, ICU, adverse-effects, renal-function, drug-safety]
 ---
 
+## One-line Summary
+ICU retrospective cohort (n=1,157, Portugal, 2015–2023): NSAID use is an independent risk factor for AKI (OR 1.98); severe AKI (stage 3) worsens 2-year survival (aHR 1.42); renal function recovery does not significantly change long-term survival — evidence for caution when prescribing NSAIDs to patients with impaired renal function (J Crit Care 2025).
+
 ## 한줄요약
 ICU 후향적 코호트(n=1,157, 포르투갈, 2015–2023): NSAIDs 사용이 AKI 독립 위험인자(OR 1.98); 중증 AKI(stage 3)는 2년 생존율 악화(aHR 1.42); 신기능 회복해도 장기 생존 유의한 차이 없음 — 신기능 저하 환자 NSAID 처방 주의 근거 (J Crit Care 2025).
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [qmix, chx, edta, brij-35, smear-layer, antibacterial, final-rinse, irrigant-protocol, pca-precipitate]
 ---
 
+## One-line Summary
+Overview of QMix as a root canal irrigant: 2% CHX + EDTA + Brij-35 in a single final rinse simultaneously removes smear layer and disinfects; direct mixing with NaOCl is contraindicated (PCA precipitate risk).
+
 ## 한줄요약
 QMix 근관세정제(Root Canal Irrigant) 종합 개요: 2% CHX + EDTA + Brij-35 단일 최종 세정(Final Rinse)으로 도말층 제거 + 항균 동시 수행; NaOCl과 직접 혼합 금지(PCA 침전 위험).
 

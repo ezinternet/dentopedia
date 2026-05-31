@@ -13,6 +13,9 @@ source_collection: external
 tags: [smear-layer, edta, mtad, qmix, maleic-acid, hebp, nacl, chx, chelation, dentin]
 ---
 
+## One-line Summary
+Narrative review of smear layer removal: MTAD > EDTA (speed); QMix ≈ EDTA; maleic acid ≈ EDTA; HEBP weakest; NaOCl alone cannot remove the inorganic smear component.
+
 ## 한줄요약
 도말층(Smear Layer) 제거 능력 내러티브 리뷰: MTAD > EDTA (속도); QMix ≈ EDTA; 말레산 ≈ EDTA; HEBP 최약; NaOCl 단독은 무기질 성분 제거 불가.
 

@@ -41,5 +41,5 @@ Prospective clinical study evaluating osseodensification crestal sinus floor ele
 
 ## Related Papers
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — SR+MA showing OD higher ISQ vs OMSFE
-- [[implants/huwais-2016-osseous-densification-novel-osteotomy-approach]] — original OD paper
-- [[sinus-lift/transcrestal/gaspar-osseodensification-crestal-sinus-narrative-review]] — narrative review of OD for sinus
+- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — original OD paper
+- [[sinus-lift/transcrestal/gaspar-2025-osseodensification-crestal-maxillary-sinus-elevation-narrative-review]] — narrative review of OD for sinus

@@ -13,6 +13,9 @@ source_collection: external
 tags: [RET, MTA-apical-plug, open-apex, necrotic-pulp, immature-teeth, survival, success]
 ---
 
+## One-line Summary
+SR+MA of RET vs MTA apical plug for necrotic immature teeth: survival (RET 97.8% / MAP 97.1%) and success (RET 91.3% / MAP 94.6%) — no significant difference; low evidence level.
+
 ## 한줄요약
 미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율(RET 97.8%/MAP 97.1%), 성공율(RET 91.3%/MAP 94.6%) — 유의차 없음, 근거 수준 낮음.
 

@@ -14,6 +14,9 @@ source_collection: external
 tags: [antiplatelet, aspirin, perioperative, SR-MA, bleeding, thromboembolism, ACCP, guideline-supporting, GRADE]
 ---
 
+## One-line Summary
+SR+MA supporting the ACCP CHEST guideline (Shah/Murad 2022): in non-cardiac surgery patients on long-term antiplatelet therapy, short vs long interruption showed no significant bleeding difference (low COE); continuing aspirin vs placebo: major bleeding RR 1.31 (high COE) and thromboembolism RR 0.74 — quantifying the trade-off.
+
 ## 한줄요약
 ACCP CHEST 가이드라인 지지 SR+MA (Shah/Murad 2022): 장기 항혈소판제 (APT) 환자 비심장 수술 — 단기/장기 중단 간 주요 출혈 차이 NS (low COE); aspirin 지속 시 위약 대비 주요 출혈 RR 1.31 (high COE) + 혈전색전증 RR 0.74 — trade-off 정량화.
 

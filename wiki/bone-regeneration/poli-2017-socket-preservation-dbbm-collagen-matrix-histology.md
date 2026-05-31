@@ -13,6 +13,9 @@ source_collection: external
 tags: [socket-preservation, DBBM, collagen-matrix, histology, histomorphometry, ARP]
 ---
 
+## One-line Summary
+In vivo study (J Periodontal Implant Sci 2017): n=7, DBBM + porcine collagen matrix socket preservation, 6-month histology — width resorption 1.21 mm, height resorption 0.46 mm; new bone 16%, residual xenograft 32%; uneventful healing throughout.
+
 ## 한줄요약
 in-vivo(J Periodontal Implant Sci 2017): n=7, DBBM+돼지유래 콜라겐막 소켓보존, 6개월 조직학 — 폭 1.21mm·높이 0.46mm 흡수; 신생골 16%, 잔류이종골 32%; 이벤트 없는 치유.
 

@@ -14,6 +14,9 @@ source_collection: external
 tags: [ischemic-stroke, secondary-prevention, antiplatelet, anticoagulant, aspirin, clopidogrel, warfarin, DOAC, Korean, neurology-review]
 ---
 
+## One-line Summary
+Pusan Nat'l Univ. Neurology narrative review (Brain NeuroRehabil 2014): secondary prevention of ischemic stroke — non-cardioembolic → antiplatelet agents (aspirin/clopidogrel/aspirin+dipyridamole), cardioembolic → anticoagulants (warfarin/DOAC); Korean-language fundamental reference for drug indications in post-stroke dental patients.
+
 ## 한줄요약
 부산대 신경과 narrative review (Brain NeuroRehabil 2014): 허혈성 뇌졸중 이차예방 — 비심인성 → 항혈소판제 (aspirin/clopidogrel/aspirin+dipyridamole), 심인성 → 항응고제 (warfarin/DOAC) 원칙. 치과에서 만나는 뇌졸중 후 환자의 약물 indication 한국어 기본 reference.
 

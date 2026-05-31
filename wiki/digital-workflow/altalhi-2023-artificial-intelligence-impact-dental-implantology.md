@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, machine-learning, deep-learning, implant-planning, diagnosis, digital-workflow, personalized-treatment]
 ---
 
+## One-line Summary
+Narrative review (Cureus 2023, Saudi Arabia): AI (ML, DL, ANN) in implantology — image analysis, placement precision, patient-specific treatment strategy data analysis; personalized and efficient oral healthcare projected; limited standardization warrants clinical caution.
+
 ## 한줄요약
 narrative-review(Cureus 2023, 사우디): AI(ML·DL·ANN) 임플란트 — 이미지 분석·식립 정밀도·환자별 치료전략 데이터 분석; 개인화·효율적 구강의료 전망; 표준화 부재로 임상 주의.
 

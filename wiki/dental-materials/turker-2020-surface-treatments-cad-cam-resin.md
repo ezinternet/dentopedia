@@ -13,6 +13,9 @@ source_collection: external
 tags: [CAD-CAM, Lava-Ultimate, Vita-Enamic, CoJet, surface-treatment, dual-cure-cement, HF, laser, bond-strength]
 ---
 
+## One-line Summary
+In vitro (J Adv Prosthodont 2020): CAD/CAM restorative materials (Lava Ultimate, Vita Enamic) × 5 surface treatments × 2 dual-cure cements — CoJet+Z-Prime highest bond strength; HF etching effective only for Vita Enamic; laser inconsistent.
+
 ## 한줄요약
 in-vitro(J Adv Prosthodont 2020): CAD/CAM 수복재(Lava Ultimate·Vita Enamic) × 5가지 표면처리 × 2종 이중경화 시멘트 — CoJet+Z-Prime 최고; HF는 Vita Enamic에만 효과적; 레이저는 가변.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, opioids, ibuprofen, acetaminophen, network-meta-analysis, extraction-pain, postoperative-pain, ADA-guideline]
 ---
 
+## One-line Summary
+Network MA (82 RCTs, n=9,095) on dental extraction pain: ibuprofen+APAP combination most effective (moderate–high certainty); oxycodone 5mg, codeine 60mg, and tramadol+APAP no better than placebo — evidence base for the 2022 ADA guideline (J Dent Res 2023).
+
 ## 한줄요약
 치아 발치 후 통증에 대한 네트워크 MA (82 RCT, n=9,095): 이부프로펜+APAP 병용이 가장 효과적(중-고 확실성); 옥시코돈 5mg·코데인 60mg·트라마돌+APAP는 위약 대비 효과 없음 — 2022 ADA 가이드라인 근거 연구 (J Dent Res 2023).
 

@@ -3,7 +3,7 @@ title: "Immediate versus delayed single-tooth implant placement in bony defect s
 authors: Nassani MZ
 year: 2025
 date: 2025-05-13
-doi: ""
+doi: 10.1038/s41432-025-01152-5
 journal: Evid Based Dent 26:80-82
 source: nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.md
 category: [immediate-implant]

@@ -1,0 +1,118 @@
+---
+title: "Socket Shield Technique (SST) — Evidence Synthesis & Decision Framework"
+authors: Synthesis (Damian Lee)
+year: 2026
+date: 2026-05-31
+doi: N/A
+source: synthesis
+category: overviews
+confidence: synthesis
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: synthesis
+tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bone, pink-esthetic-score, complications, decision-framework]
+---
+
+## One-line Summary
+
+Synthesis of 13 wiki pages on the Socket Shield Technique (SST): pooled SR/MA + 2 RCTs converge on superior buccal-bone and pink-esthetic preservation (BBPR ~0.32 vs ~1.05 mm, MBL ~0.39 vs ~1.00 mm, PES +1.3), but evidence is dominated by case reports, long-term (≥5y) data are thin, and a 4–17% shield-related complication rate restricts SST to experienced operators in selected esthetic-zone cases.
+
+## 한줄요약
+
+소켓실드 기법(Socket Shield Technique, SST) 13개 페이지 종합. SR/MA + RCT 2편이 협측 골판·핑크 심미 보존 우월로 수렴(협측 골판 흡수 BBPR 약 0.32 vs 1.05 mm, 변연골 소실 MBL 약 0.39 vs 1.00 mm, 핑크 심미 점수 PES +1.3). 단 근거 다수가 증례보고이고 장기(≥5년) 데이터 부족, 실드 관련 합병증 4–17%로 숙련자·선별 심미부 증례에 한정.
+
+## Summary
+
+SST leaves a buccal fragment of the retained root (the "shield") in place at immediate implant placement to preserve the bundle bone and its blood supply, countering the near-universal buccal plate resorption that follows extraction (mean buccal bone width loss <1 mm, ~50% of sites losing >0.5 mm — [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]]). The technique originates from Hürzeler's 2010 proof-of-concept.
+
+The 13 SST pages in this wiki form a clear evidence gradient: from cautious narrative reviews (Blaschke, Durrani, Sharma) → multiple SR/MA quantifying buccal bone, MBL, PES, and failure (Velasco 2021, Lin 2022, Gharpure 2022, Oliva 2023) → a 2025 network meta-analysis (Ji) at the top of the evidence pyramid → and two RCTs (Atef 2021 esthetic zone; Zhang 2026 orthodontic premolar) plus indication-expansion case work (Simuntis 2025 lower molar). The consistent signal across all of them is **esthetic and buccal-bone superiority over conventional immediate placement**, tempered by **low underlying study quality and a non-trivial shield-specific complication burden**.
+
+This page synthesizes those 13 entries into one decision framework. It supersedes the brief socket-shield treatment in [[overviews/immediate-implant-decision-ladder]] (axis 4 cited only 4 SST papers; the topic has grown to 13 dedicated pages warranting its own page).
+
+## Scope
+
+Covers all dedicated SST wiki pages under `wiki/immediate-implant/`. Buccal-plate biology context lives in [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]; general immediate-placement timing in [[overviews/immediate-implant-decision-ladder]].
+
+## Evidence Map
+
+| Study | Type | n / scope | Core contribution |
+|---|---|---|---|
+| [[immediate-implant/ji-2025-socket-shield-conventional-network-ma]] | network MA | esthetic zone, multi-arm | Highest evidence level; SST ranks favorably for PES/MBL vs immediate/early/delayed. Transitivity caveat; ahead-of-print. |
+| [[immediate-implant/oliva-2023-socket-shield-buccal-bone-preservation-sr]] | sr | 17 studies / 656 implants | Strongest quantitative anchor: survival 98.6%, BBPR 0.32 vs 1.05 mm, MBL 0.39 vs 1.00 mm, PES 12.08 vs 10.77. |
+| [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]] | sr+ma | mixed (mostly case series) | Rationale (buccal loss <1 mm, 50% >0.5 mm); complication taxonomy; low quality. |
+| [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] | sr+ma | SST vs conventional IIP | Buccal bone MD −0.5 mm favoring SST; shield exposure/fracture 5–17%. |
+| [[immediate-implant/velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma]] | sr+ma | esthetic zone | Baseline triad: failure rate, MBL, PES all favor SST. |
+| [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]] | sr | 20 studies / 288 pts, 3–60 mo | Complication 9.5%, complication-free survival 90.5%; 1 RCT / 2 cohort / 14 case reports / 3 retrospective. |
+| [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]] | rct | esthetic zone, single implants | SST vs xenograft: buccal bone −0.28 vs −0.94 mm; recession 0.18 vs 0.52 mm. |
+| [[immediate-implant/zhang-2026-socket-shield-orthodontic-premolar-rct]] | rct (paired) | n=26, ortho premolars | Indication expansion: ridge preservation in orthodontic extraction; within-patient design. |
+| [[immediate-implant/simuntis-2025-socket-shield-lower-molar-case]] | case-report | lower molar | Proof of principle posterior to the esthetic zone. |
+| [[immediate-implant/sharma-2022-socket-shield-technique-review-njms]] | narrative-review | 19 eligible studies | Direct SST-vs-conventional framing; esthetic/bone superiority + shield-specific complications. |
+| [[immediate-implant/blaschke-2020-socket-shield-technique-critical-review]] | narrative-review | 12 studies | Cautious anchor: insufficient long-term, complication-pattern, and routine-use evidence. |
+| [[immediate-implant/durrani-2020-socket-shield-esthetic-success-jisp]] | narrative-review | — | Critical appraisal of esthetic claims. |
+| [[immediate-implant/samet-2023-immediate-placement-loading-esthetic-zone]] | (immediate placement, peripheral) | esthetic zone | Context for immediate placement/loading; SST referenced. |
+
+## Quantitative Anchors
+
+Patient-consent–ready numbers, strongest source first:
+
+| Outcome | SST | Conventional | Δ | Source |
+|---|---|---|---|---|
+| Buccal bone plate resorption (BBPR) | 0.32 ± 0.10 mm | 1.05 ± 0.18 mm | **−70%** | Oliva 2023 (sr) |
+| Marginal bone loss (MBL) | 0.39 ± 0.28 mm | 1.00 ± 0.55 mm | **−61%** | Oliva 2023 (sr) |
+| Pink Esthetic Score (PES) | 12.08 ± 1.18 | 10.77 ± 0.74 | **+1.31** | Oliva 2023 (sr) |
+| Implant survival | 98.6% (647/656) | — | — | Oliva 2023 (sr) |
+| Buccal bone change (RCT) | −0.28 mm | −0.94 mm (xenograft) | −0.66 mm | Atef 2021 (rct) |
+| Buccal mucosal recession (RCT) | 0.18 mm | 0.52 mm (xenograft) | −0.34 mm | Atef 2021 (rct) |
+| Buccal bone mean diff (MA) | — | — | −0.5 mm favoring SST | Gharpure 2022 (sr+ma) |
+
+[근거강함] BBPR·MBL·PES 우월 방향은 Oliva 2023·Velasco 2021·Gharpure 2022·Atef 2021에서 일관 — direction of effect is robust.
+[claude해석] 환자 설명용: "협측 골판 흡수가 약 1 mm에서 0.3 mm로, 3배가량 줄어듭니다." 단, point estimate는 case-series 비중이 커 절대값보다 방향성으로 전달.
+
+## Complication Profile
+
+The headline trade-off. Reported complication rates diverge by review scope and definition:
+
+- **Overall complication rate**: 3.81% (Oliva 2023 sr) — 9.5% (Ogawa 2022 sr).
+- **Shield-specific** (exposure / fracture / migration): **5–17%** (Gharpure 2022 sr+ma).
+- **Complication taxonomy** (Lin 2022): shield mobility, infection, internal/external exposure, coronal/apical migration, apical resorption.
+- **Complication-free survival**: 90.5% (Ogawa 2022).
+
+[합의수준] 실드 노출·이동이 SST 특유의 주 합병증이며 술자 숙련도 의존적. 합병증이 발생해도 implant survival 자체는 높게 유지(98.6% Oliva)되나, 미용 실패·재수술 위험이 본질적 비용.
+
+## Decision Framework
+
+**1차 권고** — esthetic-zone single immediate implant에서 협측 골판 보존이 critical하고 다른 옵션(CTG·이종골)으로 부족할 때, **숙련 술자에 한해** SST 고려. [근거강함: 방향성] / [미검증: 장기 예측성]
+
+When SST is reasonable:
+- Anterior maxilla, high esthetic demand, thin/intact buccal plate at risk of resorption.
+- Root free of vertical fracture, active endo-perio lesion, or extensive caries below the planned shield.
+- Operator experienced with the preparation (shield thickness ~1.5–2 mm, no mobility, apical seal of implant).
+
+When to prefer alternatives:
+- Buccal plate already lost/dehiscent → SST has no plate to shield; use GBR / [[overviews/bone-regeneration-protocol-ladder]].
+- Vertically fractured or infected root.
+- Novice operator or no salvage plan for shield exposure → conventional immediate placement + CTG ([[overviews/immediate-implant-decision-ladder]] axis 4) carries more predictable evidence.
+
+Alternatives and trade-offs:
+- **Conventional IIP + xenograft**: more graft-dependent buccal loss (−0.94 vs −0.28 mm, Atef 2021) but no shield-exposure risk.
+- **CTG + immediate provisional**: standard esthetic-zone soft-tissue play; well-evidenced, no retained root.
+- **SST**: best buccal/PES numbers, worst complication-pattern uncertainty.
+
+## Indication Expansion (frontier, low evidence)
+
+- **Posterior / lower molar**: feasible as proof of principle ([[immediate-implant/simuntis-2025-socket-shield-lower-molar-case]]) — single case, no cohort confirmation. [미검증]
+- **Orthodontic extraction sites**: paired RCT (n=26) suggests ridge preservation when an orthodontically-moved tooth's buccal root is retained ([[immediate-implant/zhang-2026-socket-shield-orthodontic-premolar-rct]]); shield-removal timing depends on tooth-movement rate. [근거강함 within-design / 추정 generalizability]
+
+## Open Questions
+
+- **Long-term (≥5y) survival and shield behavior** — every SR flags this as thin (Blaschke 2020, Oliva 2023, Velasco 2021).
+- **Standardized shield geometry / preparation protocol** — heterogeneity in thickness, height, and apical seal drives complication variance.
+- **Ji 2025 NMA** is ahead-of-print; recheck transitivity and final estimates on publication.
+- **Absolute effect sizes** are inflated by case-report dominance; await more RCTs (only Atef 2021 + Zhang 2026 here).
+
+## Related Papers
+
+- [[overviews/immediate-implant-decision-ladder]] — parent decision ladder; SST is axis 4 there, expanded here.
+- [[overviews/bone-regeneration-protocol-ladder]] — fallback when buccal plate is already lost.
+- [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
+- All 13 SST pages — see Evidence Map above.

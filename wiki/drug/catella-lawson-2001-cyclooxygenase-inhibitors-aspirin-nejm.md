@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Crossover trial (healthy volunteers): ibuprofen taken BEFORE aspirin blocks platelet COX-1 acetylation → antiplatelet effect lost; taken after has no impact; rofecoxib, diclofenac, and acetaminophen do not interfere.
+
 ## 한줄요약
 교차시험 (건강 지원자): 이부프로펜을 아스피린 **앞에** 복용 시 혈소판 COX-1 아세틸화 차단 → 항혈소판 효과 소실; 아스피린 후 복용 시 영향 없음; 로페콕시브·디클로페낙·아세트아미노펜은 무간섭.
 

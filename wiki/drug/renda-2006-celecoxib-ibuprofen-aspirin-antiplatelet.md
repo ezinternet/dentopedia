@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+RCT in OA + stable IHD patients (n=24): ibuprofen 600mg TID significantly blocked aspirin 100mg's platelet COX-1 inhibition (TXB2 rose to 19 ng/mL); celecoxib 200mg BID achieved equivalent COX-2 inhibition without interfering with aspirin's antiplatelet effect.
+
 ## 한줄요약
 RCT (OA + 안정형 IHD 환자, n=24): 이부프로펜 600mg TID는 아스피린 100mg의 혈소판 COX-1 억제를 유의하게 차단(TXB2 19ng/mL↑); 셀레콕시브 200mg BID는 COX-2 억제 동등하나 혈소판 간섭 없음.
 

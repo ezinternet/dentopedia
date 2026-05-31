@@ -14,6 +14,9 @@ source_collection: external
 tags: [intact-socket, non-intact-socket, buccal-bone-thickness, pes, systematic-review, immediate-implant, ghent]
 ---
 
+## One-line Summary
+SR (20 studies, 525 implants): BBT at immediate implant placement in intact sockets 1.10–3.18 mm vs. non-intact sockets 1.18–3.00 mm; survival >90–100% in both; evidence for non-intact sockets is of very low quality.
+
 ## 한줄요약
 SR (20연구, 525임플란트): BBT 온전소켓 1.10–3.18mm vs 비온전소켓 1.18–3.00mm; 생존율 >90–100% 모두; 비온전소켓 근거수준 낮음
 

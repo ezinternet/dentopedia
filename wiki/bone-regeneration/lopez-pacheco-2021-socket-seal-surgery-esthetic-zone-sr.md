@@ -13,6 +13,9 @@ source_collection: external
 tags: [socket-seal-surgery, SSS, FGG, collagen-matrix, ridge-preservation, esthetic-zone, RCT-SR, TSA]
 ---
 
+## One-line Summary
+SR+MA (Int J Implant Dent 2021): 6 RCTs, 135 sockets in the esthetic zone for socket seal surgery — FGG (without bone fill) shows the best buccal/lingual height preservation; CM vs. FGG has no clinically significant difference; TSA indicates evidence is still insufficient and additional RCTs are needed.
+
 ## 한줄요약
 sr+ma(Int J Implant Dent 2021): 6 RCT, 135소켓 심미부위 SSS; FGG(무이식) 협/설측 높이 보존 최우수; CM vs FGG 임상적 차이 없음; TSA: 근거 불충분, 추가 RCT 필요.
 

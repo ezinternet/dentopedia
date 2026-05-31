@@ -1,0 +1,284 @@
+<!--
+---
+title: "ISQ-Loading Calculator v3.1 (evidence-reinforced, standalone)"
+type: interactive
+date: 2026-05-29
+status: review
+supersedes: interactives/2026-05-29_isq-loading-calculator-v3.html
+evidence:
+  - morton-gallucci-2018: ITI Group 2 Consensus 부하분류. DOI 10.1111/clr.13298 [합의수준]
+  - schrott-gallucci-2014: SR/MA 부하분류(즉시<1주/조기1주~2개월/지연>2개월)+확장무치악 생존동등. DOI 10.11607/jomi.2014suppl.g4.2 [근거강함]
+  - andersson-2019: 식립 ISQ<70 집단수준 5yr 실패위험. DOI 10.1155/2019/3209872 [합의수준]
+  - becker-2018: RFA는 개별 실패 예측 못함 → 단일 컷오프 부적절, 범위+추세. DOI 10.1111/cid.12598 [합의수준]
+  - andreatta-2020: IT>=40Ncm 6-8주 조기부하(tapered). DOI 10.1155/2020/8832500 [합의수준]
+  - bavetta-2019: 발치와 ITV>=35 > ISQ단독. DOI 10.1155/2019/9720419 [합의수준]
+  - bizzi-2025: 발치와 ISQ -5.66, wide implant 보완(근거확실성 낮음). PMID 40047361 [합의수준]
+  - bavetta-2024: Osstell~=Osseo 동등. DOI 10.3390/prosthesis6020027 [합의수준]
+  - antequera-2022: Osstell 신뢰도 intra>0.9, 술자간 substantial → 동일술자 추세. DOI 10.1007/s00784-022-04601-y [합의수준]
+  - bergamo-2021: ISQ dip 3주 최저 6주 회복. DOI 10.1111/cid.13007 [합의수준]
+  - arghami-2021: 즉시vs조기 7년 동등(단일치). DOI 10.1186/s40729-021-00299-x [근거강함]
+  - aljuboori-2024: 피질골 두께가 1차 안정성 좌우; ISQ-ITV는 식립시만 상관. DOI 10.5037/jomr.2024.15402 [합의수준]
+  - allurkar-2025: RBH/macro-design->ISQ (in vitro). DOI 10.6026/973206300210040 [claude해석]
+changes_from_v3:
+  - 근거 패널에 SR/MA 5편 추가(Schrott·Becker·Bizzi·Al-Juboori·Antequera)
+  - ISQ 60 하한: 절대 컷오프 아님 명시(Becker) — 범위+추세 정당화
+  - 발치와 즉시식립: wide implant 보완 경고(Bizzi)
+  - 측정: 동일 술자 추세 권고(Antequera)
+limitations:
+  - 토크 35/40 Ncm 절대값은 tapered 단일 시스템 정량 근거 [claude해석]; 단 즉시부하에서 토크가 modifier라는 점은 SR 지지(Schrott 2014)
+  - ISQ 절대 컷오프는 개별 실패 예측 못함이 합의(Becker 2018) → 단일 컷오프 아닌 범위+ΔISQ 추세로 해소 [합의수준]
+  - RBH 정량 미반영(경고); 피질골 두께가 더 직접적(Al-Juboori 2024) [합의수준]
+  - splinted/full-arch 개별 ISQ 완화는 확장무치악 생존동등(Schrott 2014)에 근거하나 개별 임플란트는 보수적 판단 [claude해석]
+tags: [isq, itv, loading-protocol, delta-isq, full-arch, evidence-reinforced, standalone, 2026-q2]
+notes: 단일 HTML, 외부 CDN 없음 (chairside iPad 오프라인). 인라인 CSS/JS.
+agenda: agenda/2026-05-25_q2-clinic-sop-dbbm-isq.md
+source_wiki:
+  - wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival.md
+  - wiki/implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year.md
+  - wiki/implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket.md
+  - wiki/implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison.md
+
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ISQ-Loading Calculator v3.1</title>
+<style>
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif; max-width: 780px; margin: 16px auto; padding: 12px; background: #fafafa; color: #222; line-height: 1.5; }
+  h1 { font-size: 1.4em; margin: 0 0 4px; }
+  .subtitle { color: #666; font-size: 0.85em; margin-bottom: 16px; }
+  .card { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 14px 16px; margin-bottom: 12px; }
+  .card h2 { font-size: 1.02em; margin: 0 0 10px; color: #333; }
+  label { display: block; margin: 6px 0 2px; font-size: 0.88em; color: #444; }
+  input[type=number], select { width: 100%; padding: 8px; font-size: 1em; border: 1px solid #bbb; border-radius: 4px; background: #fff; }
+  .row2 { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+  .row3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 8px; }
+  details { margin-top: 8px; } summary { cursor: pointer; font-size: 0.9em; color: #2563eb; }
+  button { width: 100%; padding: 12px; font-size: 1.05em; font-weight: 600; background: #2563eb; color: #fff; border: none; border-radius: 6px; cursor: pointer; margin-top: 8px; }
+  button:active { background: #1d4ed8; }
+  .result { margin-top: 12px; padding: 14px; border-radius: 6px; border-left: 5px solid #ccc; background: #f7f7f7; }
+  .result.green { border-color: #16a34a; background: #f0fdf4; }
+  .result.yellow { border-color: #ca8a04; background: #fefce8; }
+  .result.red { border-color: #dc2626; background: #fef2f2; }
+  .result h3 { margin: 0 0 6px; font-size: 1.12em; }
+  .result .recommendation { font-weight: 600; margin: 6px 0; }
+  .result ul { margin: 6px 0 0; padding-left: 20px; font-size: 0.9em; }
+  .evidence { margin-top: 8px; font-size: 0.8em; color: #555; background: #fff; border: 1px solid #eee; border-radius: 4px; padding: 8px; }
+  .evidence b { color: #333; } .evidence a { color: #2563eb; text-decoration: none; }
+  .meta { font-size: 0.78em; color: #666; margin-top: 10px; padding-top: 8px; border-top: 1px dashed #ddd; }
+  .flag-row { display: flex; gap: 6px; flex-wrap: wrap; margin: 4px 0; }
+  .flag { display: inline-block; padding: 2px 8px; font-size: 0.8em; background: #e5e7eb; border-radius: 3px; color: #374151; }
+  .flag.warn { background: #fef3c7; color: #92400e; }
+  .flag.bad { background: #fee2e2; color: #991b1b; }
+  .footer { margin-top: 18px; font-size: 0.75em; color: #888; text-align: center; }
+</style>
+</head>
+<body>
+
+<h1>ISQ-Loading Calculator <span style="font-size:0.55em;color:#888;">v3.1 · evidence-reinforced</span></h1>
+<div class="subtitle">부하 프로토콜·토크·ΔISQ 통합 의사결정 보조. 모든 임계값 근거 추적 가능. 최종 결정은 임상의.</div>
+
+<form id="calcForm" onsubmit="calc(event)">
+
+  <div class="card">
+    <h2>1. ISQ 측정값 (협측·설측)</h2>
+    <div class="row2">
+      <div><label>협측 B</label><input type="number" id="b" min="20" max="100" required></div>
+      <div><label>설측 L</label><input type="number" id="l" min="20" max="100" required></div>
+    </div>
+    <div class="meta">B·L 2방향이 chairside 표준. 편차 &ge;10이면 재측정. 기기(Osstell/Osseo)는 동등하여 보정 불필요 (Bavetta 2024). 측정자간 편차가 있으므로 <b>동일 술자</b>가 추세를 추적 (Antequera-Diaz 2022).</div>
+  </div>
+
+  <div class="card">
+    <h2>2. 식립토크 ITV (Ncm)</h2>
+    <input type="number" id="itv" min="0" max="100" step="1" placeholder="예: 35 (즉시·조기부하 시 권장)">
+    <div class="meta">발치와 즉시식립은 ITV가 ISQ보다 나은 기준(&ge;35, Bavetta 2019). 조기부하는 IT&ge;40(Andreatta 2020). <b>주의:</b> 토크 절대 임계는 tapered 단일 시스템 근거 — 타 매크로디자인엔 보수적 적용(토크를 보는 것 자체는 SR 지지, Schrott 2014).</div>
+  </div>
+
+  <div class="card">
+    <h2>3. 시점 · 부하 프로토콜 · 술식</h2>
+    <div class="row2">
+      <div>
+        <label>측정 시점</label>
+        <select id="tp">
+          <option value="placement">식립 직후</option>
+          <option value="healing">치유기 (재측정)</option>
+          <option value="loading">보철 전 최종</option>
+        </select>
+      </div>
+      <div>
+        <label>의도 부하 프로토콜</label>
+        <select id="load">
+          <option value="immediate">즉시 (&lt;1주)</option>
+          <option value="early">조기 (1주~2개월)</option>
+          <option value="conventional" selected>지연 (&gt;2개월)</option>
+        </select>
+      </div>
+    </div>
+    <div class="row2" style="margin-top:8px;">
+      <div>
+        <label>술식</label>
+        <select id="proc">
+          <option value="standard">표준 (pristine bone)</option>
+          <option value="msfa">MSFA (상악동 거상)</option>
+          <option value="immediate">즉시식립 (발치와)</option>
+          <option value="gbr">GBR 동반</option>
+        </select>
+      </div>
+      <div>
+        <label>보철 단위</label>
+        <select id="unit">
+          <option value="single">단일치</option>
+          <option value="splinted">연결 (splinted)</option>
+          <option value="fullarch">Full-arch (cross-arch)</option>
+        </select>
+      </div>
+    </div>
+
+    <details>
+      <summary>고급 입력 (ΔISQ 추세 · 골질 · RBH)</summary>
+      <div class="row3" style="margin-top:8px;">
+        <div><label>식립 시 ISQ (T0)</label><input type="number" id="isq0" min="20" max="100" placeholder="선택"></div>
+        <div><label>식립 후 경과(주)</label><input type="number" id="weeks" min="0" max="104" step="1" placeholder="선택"></div>
+        <div><label>RBH (mm)</label><input type="number" id="rbh" min="0" max="20" step="0.5" placeholder="선택"></div>
+      </div>
+      <div style="margin-top:8px;">
+        <label>Bone type (Lekholm-Zarb)</label>
+        <select id="bone"><option value="1">I</option><option value="2" selected>II</option><option value="3">III</option><option value="4">IV</option></select>
+      </div>
+    </details>
+  </div>
+
+  <button type="submit">계산</button>
+</form>
+
+<div id="result"></div>
+
+<div class="footer">evidence-reinforced v3.1 · 2026-05-29 · 단일 HTML / 오프라인 · 비의료기기 교육 보조 도구</div>
+
+<script>
+function v(id){ return document.getElementById(id).value; }
+function numOrNull(id){ var x = v(id); return x === '' ? null : +x; }
+
+var REF = {
+  ander:   ['Andersson 2019 (집단수준 ISQ<70 위험)', '10.1155/2019/3209872', '합의수준'],
+  andre:   ['Andreatta 2020 (IT>=40 조기부하)', '10.1155/2020/8832500', '합의수준'],
+  bav19:   ['Bavetta 2019 (발치와 ITV>=35)', '10.1155/2019/9720419', '합의수준'],
+  bav24:   ['Bavetta 2024 (Osstell~=Osseo)', '10.3390/prosthesis6020027', '합의수준'],
+  berg:    ['Bergamo 2021 (dip 3주/6주)', '10.1111/cid.13007', '합의수준'],
+  argh:    ['Arghami 2021 (즉시·조기 7년 동등)', '10.1186/s40729-021-00299-x', '근거강함'],
+  iti:     ['ITI Consensus (Morton/Gallucci 2018)', '10.1111/clr.13298', '합의수준'],
+  schrott: ['Schrott/Gallucci 2014 SR/MA (부하분류·생존동등)', '10.11607/jomi.2014suppl.g4.2', '근거강함'],
+  becker:  ['Becker 2018 (RFA는 개별 실패 예측 못함)', '10.1111/cid.12598', '합의수준'],
+  bizzi:   ['Bizzi 2025 SR/MA (발치와 ISQ -5.66, wide implant 보완)', '', '합의수준'],
+  aljub:   ['Al-Juboori 2024 SR (피질골 두께 중요)', '10.5037/jomr.2024.15402', '합의수준'],
+  allur:   ['Allurkar 2025 (RBH, in vitro)', '10.6026/973206300210040', 'claude해석']
+};
+
+function calc(e){
+  e.preventDefault();
+  var b = +v('b'), l = +v('l');
+  var itv = numOrNull('itv');
+  var tp = v('tp'), load = v('load'), proc = v('proc'), unit = v('unit');
+  var isq0 = numOrNull('isq0'), weeks = numOrNull('weeks'), rbh = numOrNull('rbh');
+  var bone = +v('bone');
+
+  var mean = (b + l) / 2;
+  var dev = Math.abs(b - l);
+
+  var notes = [], ev = [], flags = [];
+  notes.push('ISQ 평균 ' + mean.toFixed(1) + ' (B ' + b + ' / L ' + l + ')');
+  if (itv !== null) notes.push('식립토크 ITV ' + itv + ' Ncm');
+
+  if (dev >= 10) flags.push(['bad', 'B·L 편차 ' + dev + ' (≥10) → 재측정 권고']);
+  else if (dev >= 7) flags.push(['warn', 'B·L 편차 ' + dev + ' 주의']);
+
+  // ΔISQ dip (Bergamo 2021): 3주경 하강 정상, 6주 회복
+  if (isq0 !== null) {
+    var d = mean - isq0;
+    notes.push('ΔISQ ' + (d >= 0 ? '+' : '') + d.toFixed(1) + ' (T0 ' + isq0 + ' → ' + mean.toFixed(1) + ')');
+    if (weeks !== null && weeks <= 4 && d < 0 && d >= -5) {
+      flags.push(['warn', '식립 ' + weeks + '주차 경미한 ISQ 하강 — 1·2차 안정성 전환기 정상 소견 (Bergamo 2021)']);
+    } else if (weeks !== null && weeks >= 6 && d < 0) {
+      flags.push(['bad', '6주 이후에도 T0 대비 하강 — 골유착 부진 의심 (Bergamo 2021)']);
+      ev.push(REF.berg);
+    } else if (d <= -8) {
+      flags.push(['bad', 'ΔISQ 큰 폭 하강(≤-8) — 골유착 부진 의심']);
+    }
+  }
+
+  if (bone === 4 || (rbh !== null && rbh < 5)) {
+    flags.push(['warn', '저밀도골(IV)/낮은 RBH — 1차 안정성 저하 가능. 피질골 두께가 더 직접적 인자 (Al-Juboori 2024); 토크·ISQ 병행']);
+    ev.push(REF.aljub);
+  }
+  if (proc === 'msfa' || proc === 'gbr') {
+    flags.push(['warn', '증강·거상 동반 — 골성숙 지연 고려, 보수적 healing']);
+  }
+  if (unit === 'fullarch' || unit === 'splinted') {
+    flags.push(['warn', (unit === 'fullarch' ? 'Full-arch' : 'Splinted') + ' — cross-arch 안정화로 개별 ISQ 기준 다소 완화 가능(확장무치악 생존 동등, Schrott 2014)하나, 최저 ISQ 임플란트 기준으로 보수적 판단']);
+    ev.push(REF.schrott);
+  }
+
+  var level, head, rec;
+
+  if (tp === 'placement') {
+    if (load === 'immediate') {
+      ev.push(REF.bav19); ev.push(REF.iti); ev.push(REF.schrott);
+      if (proc === 'immediate') {
+        ev.push(REF.bizzi);
+        if (itv !== null && itv >= 35) { level='green'; head='즉시부하 후보 (발치와, 토크 충족)'; rec='ITV '+itv+'≥35 Ncm — 즉시부하 검토 가능. 발치와 초기 ISQ는 치유부위보다 평균 ~5.7 낮은 게 정상(Bizzi 2025)이므로 ISQ 단독 보류 금지. 안정성 낮으면 wide implant 고려.'; }
+        else if (itv !== null) { level='yellow'; head='즉시부하 보류 (토크 부족)'; rec='ITV '+itv+'<35 Ncm — 즉시부하 보류. wide implant로 1차 안정성 보완 또는 조기/지연 전환.'; }
+        else { level='yellow'; head='식립토크 입력 필요'; rec='발치와 즉시부하 판단엔 ITV가 ISQ보다 우선. 토크 입력 권장.'; }
+      } else {
+        if (itv !== null && itv >= 35 && mean >= 70) { level='green'; head='즉시부하 후보'; rec='ISQ≥70 + ITV≥35 Ncm — 즉시부하 검토 가능.'; ev.push(REF.ander); }
+        else { level='yellow'; head='즉시부하 신중'; rec='ISQ '+mean.toFixed(1)+' / ITV '+(itv!==null?itv:'미입력')+' — 즉시부하 기준(ISQ≥70 & ITV≥35) 미충족 시 조기/지연 권장.'; ev.push(REF.ander); }
+      }
+    } else if (load === 'early') {
+      ev.push(REF.andre); ev.push(REF.ander); ev.push(REF.argh); ev.push(REF.schrott);
+      if ((itv !== null && itv >= 40) || mean >= 70) { level='green'; head='조기부하 후보'; rec='IT≥40 Ncm 또는 ISQ≥70 — 6~8주 조기부하 검토 가능 (즉시·조기 7년 동등, Arghami 2021).'; }
+      else if (mean >= 60) { level='yellow'; head='조기부하 경계'; rec='ISQ '+mean.toFixed(1)+' (60–69) / IT 미충족 — 표준 healing 후 재측정 권장.'; }
+      else { level='red'; head='조기부하 부적합'; rec='ISQ '+mean.toFixed(1)+' <60 — 지연 부하, CBCT·임상 재평가.'; ev.push(REF.becker); }
+    } else {
+      ev.push(REF.ander);
+      if (mean >= 70) { level='green'; head='양호 — 표준 healing'; rec='ISQ≥70 — 표준 healing 진행, 치유기 재측정으로 부하 시점 결정.'; }
+      else if (mean >= 60) { level='yellow'; head='표준 healing (경계)'; rec='ISQ '+mean.toFixed(1)+' (60–69)는 안전권 아님 — 표준 healing 후 재측정(목표 ≥70).'; }
+      else { level='red'; head='1차 안정성 부족'; rec='ISQ '+mean.toFixed(1)+' <60 — 보류, CBCT·임상 재평가.'; ev.push(REF.becker); }
+    }
+  } else if (tp === 'healing') {
+    ev.push(REF.ander); ev.push(REF.berg);
+    if (mean >= 70) { level='green'; head='보철 진행 가능'; rec='ISQ≥70 — 최종 보철 진입, 보철 전 1회 추가 측정.'; }
+    else if (mean >= 60) { level='yellow'; head='4–6주 추가 healing'; rec='ISQ '+mean.toFixed(1)+' — dip 가능성 고려해 4–6주 후 재측정(추세 확인).'; }
+    else { level='red'; head='CBCT 재평가'; rec='ISQ '+mean.toFixed(1)+' <60 — 골유착 부진 가능, CBCT+임상 평가.'; ev.push(REF.becker); }
+  } else {
+    ev.push(REF.ander);
+    if (mean >= 70) { level='green'; head='부하 OK'; rec='ISQ≥70 — 예정 보철 부하 진행.'; }
+    else if (mean >= 60) { level='yellow'; head='조건부 부하'; rec='ISQ '+mean.toFixed(1)+' — 보철 디자인 검토(cantilever 회피, 교합 조정), 임상의 결정.'; }
+    else { level='red'; head='부하 금지'; rec='ISQ '+mean.toFixed(1)+' — 부하 금지, 추가 healing 또는 제거 검토.'; ev.push(REF.becker); }
+  }
+
+  var seen = {}, evU = [];
+  ev.forEach(function(r){ if(!seen[r[1]+r[0]]){ seen[r[1]+r[0]]=1; evU.push(r); } });
+
+  var flagHtml = flags.map(function(f){ return '<span class="flag '+f[0]+'">'+f[1]+'</span>'; }).join('');
+  var evHtml = evU.map(function(r){
+    var link = r[1] ? ' — <a href="https://doi.org/'+r[1]+'" target="_blank">'+r[1]+'</a>' : '';
+    return '<div>• '+r[0]+' ['+r[2]+']'+link+'</div>';
+  }).join('');
+
+  document.getElementById('result').innerHTML =
+    '<div class="result '+level+'">' +
+      '<h3>'+head+'</h3>' +
+      (flagHtml ? '<div class="flag-row">'+flagHtml+'</div>' : '') +
+      '<div class="recommendation">'+rec+'</div>' +
+      '<ul>'+notes.map(function(n){return '<li>'+n+'</li>';}).join('')+'</ul>' +
+      '<div class="evidence"><b>근거</b>'+evHtml+'</div>' +
+      '<div class="meta">의사결정 보조용 교육 자료이며 의료기기 아님. ISQ·ITV 외 PD·BoP·동요도·CBCT를 병행해 임상의가 최종 판단.<br>• ISQ 절대값은 개별 실패를 예측하지 못하므로(Becker 2018) 단일 컷오프가 아닌 범위+ΔISQ 추세로 해석.<br>• 측정은 동일 술자 반복이 신뢰도 높음(Antequera-Diaz 2022).<br>• 부하 분류는 ITI 2018·Schrott 2014 기준.</div>' +
+    '</div>';
+}
+</script>
+</body>
+</html>

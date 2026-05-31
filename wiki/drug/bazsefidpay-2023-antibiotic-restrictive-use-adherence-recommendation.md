@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-restrictive-use, adherence, safety, stewardship, Sweden, Karolinska, dentistry]
 ---
 
+## One-line Summary
+Swedish Karolinska cross-sectional study (BMC Oral Health 2023): adherence to restrictive dental antibiotic guidelines and safety evaluation — restrictive prescribing confirmed safe, adherence variability present, targeted intervention needed.
+
 ## 한줄요약
 스웨덴 Karolinska (BMC Oral Health 2023): 제한적 (restrictive) 치과 항생제 가이드라인 adherence + safety 평가 — 제한적 처방 안전성 확인, adherence 변동성 존재, 타겟 intervention 필요성.
 

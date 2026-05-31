@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR + network meta-analysis of IOS complete-arch scanning accuracy — device-specific trueness and precision rankings provided; error increases with arch extension and when scanning beyond natural teeth.
+
 ## 한줄요약
 IOS 전악 스캔 정확도 SR + 네트워크 MA — 기기별 trueness·precision 순위 제시, 스캔 전략·악궁 연장 시 오차 증가.
 

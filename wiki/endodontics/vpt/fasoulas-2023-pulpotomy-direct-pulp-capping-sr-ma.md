@@ -13,6 +13,9 @@ source_collection: external
 tags: [pulpotomy, DPC, Biodentine, MTA, calcium-hydroxide, RCT, meta-analysis]
 ---
 
+## One-line Summary
+SR+MA of materials for DPC/pulpotomy in carious pulp exposures (Ghent University, Clin Exp Dent Res 2023): Biodentine and MTA significantly superior to Ca(OH)₂.
+
 ## 한줄요약
 우식 치수 노출 DPC/pulpotomy 재료 SR+MA(Ghent Univ): Biodentine·MTA가 Ca(OH)₂ 대비 유의 우위 — Clin Exp Dent Res 2023.
 

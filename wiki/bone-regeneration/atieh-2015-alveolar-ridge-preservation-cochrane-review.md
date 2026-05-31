@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, ARP, socket-grafting, xenograft, allograft, Cochrane, RCT-SR]
 ---
 
+## One-line Summary
+SR+MA (Cochrane 2015/2017): 8 RCTs, 233 sockets — xenograft ARP vs. extraction alone reduces height loss by 2.60 mm and width loss by 1.97 mm (moderate evidence); no significant differences between graft materials; overall evidence low to moderate.
+
 ## 한줄요약
 sr+ma(Cochrane 2015/2017): 8 RCT, 233소켓 — 이종골 ARP vs 발치단독: 높이 -2.60mm·폭 -1.97mm 소실 감소(중등도 근거); 이식재 간 유의차 없음; 전반적 근거 낮음-중등도.
 

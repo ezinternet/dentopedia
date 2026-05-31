@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+2016 ACR-EULAR classification criteria for primary Sjögren syndrome — anti-SSA/Ro antibody carries the highest weight; sensitivity 96.1%, specificity 95.2% at threshold ≥4.
+
 ## 한줄요약
 원발성 쇼그렌증후군(pSS) 2016 ACR-EULAR 분류기준 — 항-SSA/Ro 항체 가중치 최고, 민감도 96%.
 

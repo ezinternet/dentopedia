@@ -13,6 +13,9 @@ source_collection: external
 tags: [amalgam, composite-resin, longevity, survival, posterior-teeth, secondary-caries, fracture, high-caries-risk, single-surface]
 ---
 
+## One-line Summary
+SR of amalgam vs composite resin longevity in posterior teeth (Cureus 2025, 1990–2024): amalgam median survival >16 years vs composite ~11 years; gap narrowing in recent studies; secondary caries is the primary composite failure mode.
+
 ## 한줄요약
 후방부 아말감 vs 복합레진 수명 SR (Cureus 2025, PubMed+Cochrane+Google Scholar 1990–2024): 아말감 중앙생존기간 >16년 vs 레진 ~11년; 최신 연구에서 격차 축소; 재이차우식(Secondary Caries)이 레진 주요 실패 원인.
 

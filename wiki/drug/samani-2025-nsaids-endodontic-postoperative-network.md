@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, corticosteroids, endodontic-pain, network-meta-analysis, postoperative-pain]
 ---
 
+## One-line Summary
+Network MA (16 RCTs, n=2,021, IJPPP 2025): NSAIDs and corticosteroids significantly reduce pain at all timepoints from 8 to 72 hours after non-surgical root canal treatment; effect sizes diminish over time.
+
 ## 한줄요약
 비외과적 근관치료 후 NSAIDs·코르티코스테로이드가 8~72시간 전 시점에서 통증 유의 감소; 효과는 시간 경과에 따라 감소 (16 RCT, n=2,021, network MA, IJPPP 2025).
 

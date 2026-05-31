@@ -35,6 +35,3 @@ quartz/.quartz-cache/
 # and emit 0 pages. The directory is recreated by the deploy workflow
 # from wiki/ on each build.
 
-# graphify output — regenerable artifact (graphify update .)
-graphify-out/
-

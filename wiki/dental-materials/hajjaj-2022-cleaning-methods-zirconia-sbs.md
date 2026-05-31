@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, cleaning, contamination, SBS, resin-cement, bond-strength]
 ---
 
+## One-line Summary
+In vitro (Materials 2022): SBS of 5 cleaning methods on contaminated zirconia — all cleaned groups significantly higher than contaminated untreated control; confirms cleaning is mandatory before cementation.
+
 ## 한줄요약
 in-vitro(Materials 2022): 오염 지르코니아 5가지 세정법 SBS — 세정 전군이 오염 대조군보다 유의하게 높음; 접착 전 세정 필수 확인.
 

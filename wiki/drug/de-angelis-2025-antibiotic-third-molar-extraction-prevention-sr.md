@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-prophylaxis, third-molar, dry-socket, SSI, extraction, SR, Genoa]
 ---
 
+## One-line Summary
+Univ. Genoa SR (Dent J 2025): antibiotic prophylaxis for third-molar extraction — marginal benefit for simple extractions, limited indication for impacted/surgical extractions; consistent with Camps-Font 2024 NMA conclusion of NNT=25.
+
 ## 한줄요약
 Univ Genoa SR (Dent J 2025): 제3대구치 발치 항생제 예방 — 단순 발치에 효과 미미, 매복·외과적 발치에 한정 적응. Camps-Font 2024 NMA의 NNT=25 결론과 일치.
 

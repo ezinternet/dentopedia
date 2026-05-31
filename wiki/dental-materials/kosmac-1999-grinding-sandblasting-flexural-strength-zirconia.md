@@ -13,6 +13,9 @@ source_collection: external
 tags: [Y-TZP, sandblasting, grinding, flexural-strength, Weibull-modulus, monoclinic-phase, surface-treatment]
 ---
 
+## One-line Summary
+In vitro (Dent Mater 1999): fine- and coarse-grained Y-TZP subjected to grinding/sandblasting — sandblasting significantly increases flexural strength; grinding reduces Weibull modulus; sandblasting produces maximum monoclinic phase transformation and transformed zone depth; foundational paper on zirconia strengthening.
+
 ## 한줄요약
 in-vitro(Dent Mater 1999): Y-TZP 미세/조립 × 연삭/사블라스팅 — 사블라스팅: 굴곡강도 유의 증가; 연삭: Weibull 계수 감소; 사블라스팅=최대 단사정 상변환+TZD; 임상적 지르코니아 강화 기법 기초 논문.
 

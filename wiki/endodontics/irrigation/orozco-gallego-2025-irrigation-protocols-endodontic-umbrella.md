@@ -14,6 +14,9 @@ source_collection: external
 tags: [irrigation, PUI, umbrella-review, microbial-reduction, apical-healing, endodontics, sr+ma]
 ---
 
+## One-line Summary
+Umbrella review (4 SRs + 9 MAs): PUI has the strongest evidence for both microbial reduction (RD −0.15, p=0.03) and apical healing (RD −0.09, p=0.01); high heterogeneity among irrigation protocols.
+
 ## 한줄요약
 우산 리뷰(SR 4편+MA 9편): PUI가 미생물 감소(RD −0.15, p=0.03) 및 근첨 치유(RD −0.09, p=0.01) 모두에서 가장 강한 근거; 관개 프로토콜 간 높은 이질성
 

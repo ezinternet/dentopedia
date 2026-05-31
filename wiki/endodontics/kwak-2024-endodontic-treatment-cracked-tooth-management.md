@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Indications and timing of endodontic treatment in cracked tooth management (KDA, Korean): avoid unnecessary RCT — staged protocol via temporary cementation allows decision for RCT or final prosthesis if no conversion occurs; emphasizes cracked tooth as "endo-originated treatment" decision framework.
+
 ## 한줄요약
 Cracked tooth 관리 시 endo 치료의 적응증/시점 정리(KDA, 한국어): 불필요한 endo 회피 — 일시적 cementation 후 추가 conversion이 발생하지 않으면 endo 또는 final prosthesis 결정 가능. Cracked tooth 관리가 "endo originated treatment"로 분류되는 임상 사고 흐름 강조.
 

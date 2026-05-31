@@ -14,6 +14,9 @@ source_collection: external
 tags: [ibuprofen, NSAIDs, pharmacology, COX-inhibitor, OTC, safety, anti-inflammatory, comprehensive-review, Rainsford]
 ---
 
+## One-line Summary
+Comprehensive 68-page narrative review (Inflammopharmacology 2009, Rainsford, 571+ citations): ibuprofen pharmacology, efficacy, and safety — OTC dose (800–1,200 mg/day) comparably safe to paracetamol; prescription dose (1,800–2,400 mg/day) for chronic rheumatic indications; mechanism via COX-1/COX-2-mediated prostanoid reduction.
+
 ## 한줄요약
 Inflammopharmacology 2009 종합 review (68pp, Rainsford, 571+ 인용): ibuprofen 약리·임상효과·안전성 — OTC 용량 (800-1,200mg/day)에서 paracetamol 비견 가능한 안전; 처방 용량 (1,800-2,400mg/day) 만성 류마틱 indication; COX-1/COX-2 매개 prostanoid 감소 기전.
 

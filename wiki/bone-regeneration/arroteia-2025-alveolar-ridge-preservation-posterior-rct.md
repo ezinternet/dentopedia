@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, ARP, posterior, MFGG, xenograft, titanium-membrane, CBCT, USH, RCT]
 ---
 
+## One-line Summary
+RCT (J Clin Periodontol 2025): 4-arm posterior ARP (n=22/group) — TM+XG and MFGG+XG best for vertical preservation; significant horizontal loss in all groups; USH led to sinus elevation in 67% and short implants in 71%; MFGG associated with increased pain.
+
 ## 한줄요약
 rct(J Clin Periodontol 2025): 후방부 4군 RCT(n=22/군) — TM+XG·MFGG+XG: 수직 보존 우수; 전 군 수평 소실 유의; USH: 상악동 거상 67%·단임플란트 71%; MFGG 통증 ↑.
 

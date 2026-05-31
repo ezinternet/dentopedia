@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review (PubMed 2010–2019, 2,173 articles): overview of dental ceramic classification, fabrication methods, and clinical indications; PFM vs all-ceramic comparison; glass-based and polycrystalline ceramic properties; expanding scope of zirconia application.
+
 ## 한줄요약
 서술적 리뷰(PubMed 2010-2019, 2173편): 치과용 세라믹 분류·제조법·임상 적응증 개요; PFM vs 전도재 비교; 유리계·다결정 세라믹 특성; 지르코니아 적용 범위
 

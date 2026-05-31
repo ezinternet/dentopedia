@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, monolithic, enamel-wear, SR-MA, polishing, glazing, in-vitro-review]
 ---
 
+## One-line Summary
+SR+MA (J Esthet Restor Dent 2022): 25 studies in SR, 3 in MA; antagonist enamel wear against monolithic zirconia is within clinically accepted levels; polished causes less wear than glazed; surface texture is the key determinant.
+
 ## 한줄요약
 sr+ma(J Esthet Restor Dent 2022): 25편 SR, 3편 MA; 단일체 지르코니아 대합치 에나멜 마모 임상허용 수준; 연마 < 유약; 표면 질감이 마모 결정인자.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [hba1c, interference, anemia, ckd, hemoglobinopathy, drug-interference, dental-systemic-evaluation]
 ---
 
+## One-line Summary
+Narrative review (Exp Ther Med 2022, Kunming Medical Univ.) — HbA1c interference systematized across 3 axes (① method-specific variants/derivatives, ② biochemical glycation rate, ③ RBC lifespan changes); catalogs false-high/false-low direction by condition (anemia, CKD, HbS/C/D/E, pregnancy, aspirin, vitamin C, dapsone) — basis for limitations of HbA1c alone in pre-extraction/pre-implant assessment.
+
 ## 한줄요약
 서술적 고찰 (Exp Ther Med 2022, Kunming Medical Univ) — HbA1c 간섭을 3축 (① 측정법 특이 변이체·유도체 ② 생화학적 글리케이션 속도 ③ 적혈구 수명 변화) 으로 체계화; 빈혈·CKD·HbS/C/D/E·임신·약물 (아스피린·비타민C·dapsone) 별 위양성·위음성 방향 카탈로그. 발치·임플란트 전 평가에서 HbA1c 단독 판단의 한계 근거.
 

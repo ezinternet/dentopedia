@@ -13,6 +13,9 @@ source_collection: external
 tags: [sonic-activation, ultrasonic-activation, pui, endoactivator, smear-layer, push-out-bond-strength, irrigant-activation]
 ---
 
+## One-line Summary
+SR+MA of sonic vs ultrasonic activation (in vitro): sonic superior for apical-third smear layer removal (SMD −0.48, p=.03); ultrasonic (PUI) superior for middle and apical push-out bond strength; no significant difference in the coronal third.
+
 ## 한줄요약
 음파 vs 초음파 활성화 SR+MA(in vitro): 음파는 치근단 도말층(Smear Layer) 제거 우수(SMD −0.48, p=.03), 초음파는 중간·치근단 1/3 push-out 결합강도 우수; 치관부는 유의차 없음.
 

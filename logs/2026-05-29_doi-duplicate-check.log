@@ -1,0 +1,8 @@
+DOI Duplicate Check — 1 duplicate DOI group(s)
+  DOI 10.9999/selftest.2  (2 stems):
+    - sources/__t2a__.md
+    - sources/__t2b__.md
+TITLE fallback — 1 same-title group(s) NOT covered by DOI (empty/mismatched DOI — DOI-check blind spot)
+  TITLE "zzz unique selftest paper on widgets..."  (2 stems):
+    - sources/__t1a__.md  (doi=10.9999/selftest.1)
+    - sources/__t1b__.md  (doi=∅)

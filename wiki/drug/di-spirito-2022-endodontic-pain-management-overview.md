@@ -13,6 +13,9 @@ source_collection: external
 tags: [endodontic-pain, NSAIDs, corticosteroids, preemptive-analgesia, postoperative-pain]
 ---
 
+## One-line Summary
+Overview of SRs for post-operative endodontic pain: NSAIDs (ibuprofen) as first choice, effective adjunct corticosteroid combination; preemptive administration superior; technical factors (instrumentation extent, irrigation, occlusal reduction) also influence pain (Healthcare 2022).
+
 ## 한줄요약
 근관 술후통증: NSAIDs(ibuprofen) 1차 선택, 코르티코스테로이드 보조 병용 유효; 술전 예방투여가 우월; 기구 조작 범위·세정·교합 감소 등 기술적 요소도 통증에 영향 (SR들의 overview, Healthcare 2022).
 

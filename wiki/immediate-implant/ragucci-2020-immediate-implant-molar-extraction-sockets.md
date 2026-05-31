@@ -35,4 +35,4 @@ Heterogeneity in implant systems and surgical protocols. Limited long-term (>5 y
 - [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]
 - [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]
 - [[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]]
-- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant-planning]]
+- [[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]

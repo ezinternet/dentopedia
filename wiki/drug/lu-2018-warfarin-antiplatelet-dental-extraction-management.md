@@ -14,6 +14,9 @@ source_collection: external
 tags: [warfarin, antiplatelet, aspirin, clopidogrel, DAPT, dental-extraction, INR, heparin-bridging, hemostasis, Taiwan, retrospective]
 ---
 
+## One-line Summary
+Large single-center retrospective cohort (Kaohsiung Chang Gung, Taiwan, n=1,331/1,816 extractions): post-extraction bleeding rate 9.1% in warfarin-continued group (INR<4.0); all warfarin, heparin-bridging, and DAPT cases controllable with local hemostasis — Taiwan clinical evidence supporting the modern non-interruption position.
+
 ## 한줄요약
 대규모 단일기관 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331/1,816 extractions, 2018): warfarin 지속군 (INR<4.0) 발치 후 출혈률 9.1%; warfarin 중단+heparin bridging, 단일/이중 항혈소판 (DAPT) 지속 모두 국소 지혈로 통제 가능 — 발치 위해 항혈전제 중단 불필요라는 현대적 입장의 대만 임상 근거.
 

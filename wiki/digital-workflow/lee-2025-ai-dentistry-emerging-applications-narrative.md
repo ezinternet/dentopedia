@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, dental-education, patient-care, practice-management, adaptive-learning, VR-simulation, workflow]
 ---
 
+## One-line Summary
+Narrative review (J Dent 2025;155:105648, 120 articles reviewed): 3-axis AI dentistry framework — (1) education: adaptive learning and VR simulation, (2) patient care: diagnosis, prediction, and treatment decision support, (3) practice management: operational workflow efficiency; data privacy and need for large datasets are key challenges.
+
 ## 한줄요약
 narrative-review (J Dent 2025;155:105648, 120편 검토): AI 치과 3축 프레임워크 — (1) 교육: 적응형 학습·VR 시뮬레이션, (2) 환자 진료: 진단·예측·치료 결정 지원, (3) 진료실 관리: 운영 워크플로우 효율화; 데이터 프라이버시·대용량 데이터셋 필요성이 핵심 과제.
 

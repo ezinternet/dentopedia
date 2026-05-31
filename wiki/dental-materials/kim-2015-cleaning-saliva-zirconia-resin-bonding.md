@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, saliva-contamination, cleaning, ivoclean, air-abrasion, bond-strength, resin-bonding]
 ---
 
+## One-line Summary
+In vitro (J Adv Prosthodont 2015): 7 cleaning methods for saliva-contaminated zirconia — air abrasion + Ivoclean best; water alone insufficient; Ivoclean alone superior to phosphoric acid and methanol.
+
 ## 한줄요약
 in-vitro(J Adv Prosthodont 2015): 타액오염 지르코니아 7가지 세정법 — 에어어브레이전+Ivoclean 최고; 수세 단독 불충분; Ivoclean 단독도 인산·메탄올 보다 우수.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, restorative-dentistry, caries-detection, endodontics, tooth-shade, regenerative-dentistry, 3d-printing, PRISMA, BMC]
 ---
 
+## One-line Summary
+PRISMA-flow literature review (BMC Oral Health 2025;25:592, 63 studies 2020–2025): AI in restorative dentistry — caries detection accuracy up to 95%, reduced chair time; data privacy, algorithmic bias, black-box decision-making, and lack of standardized AI curriculum are key challenges; future integration with 3D printing emphasized.
+
 ## 한줄요약
 PRISMA-flow literature review (BMC Oral Health 2025;25:592, 63편 2020–2025.1): 수복치의학 AI — 우식 검출 정확도 최대 95%, 진료 의자 시간 단축; 데이터 프라이버시·알고리즘 편향·블랙박스 의사결정·표준화된 AI 교육과정 부재가 핵심 과제; 향후 3D 프린팅과의 통합 강조.
 

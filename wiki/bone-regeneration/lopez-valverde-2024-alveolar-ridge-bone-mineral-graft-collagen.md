@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, bone-mineral-graft, collagen-membrane, socket-preservation, meta-analysis]
 ---
 
+## One-line Summary
+SR+MA (Bioengineering 2024, 12 studies): bone mineral graft + collagen membrane vs. natural healing shows a preservation trend but no statistical significance (P>0.05); heterogeneity I²>75%; additional homogeneous RCTs needed.
+
 ## 한줄요약
 sr+ma(Bioengineering 2024): 12편; 골광물질이식 + 콜라겐막 vs 자연치유 — 보존 경향성 있으나 p>0.05(통계적 비유의); 이질성 I²>75% 높음; 추가 균질 RCT 필요.
 

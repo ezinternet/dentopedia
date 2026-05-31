@@ -14,6 +14,9 @@ source_collection: external
 tags: [apex-locator, eal, wirele-x, rootzx, working-length, micro-ct, in-vivo, endodontics]
 ---
 
+## One-line Summary
+In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% accuracy (±0.5 mm); no significant difference (p=0.61); clinically equivalent.
+
 ## 한줄요약
 In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% 정확도(±0.5mm); 유의차 없음(p=0.61); 임상적 동등
 

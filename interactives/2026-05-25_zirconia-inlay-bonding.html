@@ -1,0 +1,596 @@
+<!--
+---
+title: "지르코니아 인레이 접착 SOP — 분기형 의사결정 트리"
+type: interactive
+date: 2026-05-25
+status: in-progress
+agenda: agenda/2026-05-25_zirconia-inlay-bonding-interactive.md
+source_wiki:
+  - wiki/dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review.md
+  - wiki/inlay/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year.md
+  - wiki/inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year.md
+  - wiki/dental-materials/ban-2023-dental-zirconia-types-development-review.md
+  - wiki/dental-materials/silva-2022-zirconia-saliva-cleaning-sr-ma.md
+  - wiki/dental-materials/genc-2025-cleaning-protocols-zirconia-bond-strength.md
+  - wiki/dental-materials/al-akhali-2025-zirconia-cleaning-bonding-duration.md
+  - wiki/dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia.md
+  - wiki/dental-materials/comba-2021-chemical-bonding-cubic-zirconia.md
+  - wiki/dental-materials/opatragoon-2024-primer-applications-zirconia-bond.md
+  - wiki/dental-materials/shokry-2022-zirconia-crown-primer-cement-retention.md
+  - wiki/dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia.md
+  - wiki/dental-materials/lopes-2023-universal-adhesives-zirconia-long-term.md
+  - wiki/resin-bonding/samartzi-2021-immediate-dentin-sealing-review.md
+tags: [zirconia, inlay, bonding, sop, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>지르코니아 인레이 접착 SOP</title>
+<style>
+  :root {
+    --bg: #fafaf7;
+    --ink: #1a1a1a;
+    --muted: #6b6b6b;
+    --line: #d8d4cc;
+    --doc: #1e4a8a;      /* 원장 = 파랑 */
+    --doc-bg: #e8eef9;
+    --hyg: #1a6b3f;      /* 위생사 = 초록 */
+    --hyg-bg: #e6f2ec;
+    --warn: #a32020;
+    --warn-bg: #fbeaea;
+    --strong: #2a7d3a;
+    --consensus: #b88600;
+    --interp: #5d5d5d;
+    --card: #ffffff;
+    --shadow: 0 1px 3px rgba(0,0,0,0.06), 0 1px 2px rgba(0,0,0,0.04);
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; padding: 24px;
+    font-family: -apple-system, "Apple SD Gothic Neo", "Noto Sans KR", sans-serif;
+    background: var(--bg); color: var(--ink);
+    font-size: 15px; line-height: 1.55;
+    max-width: 1100px; margin-left: auto; margin-right: auto;
+  }
+  h1 { font-size: 22px; margin: 0 0 4px; }
+  h2 { font-size: 17px; margin: 0; }
+  .sub { color: var(--muted); font-size: 13px; margin-bottom: 18px; }
+  .lane-key {
+    display: flex; gap: 12px; flex-wrap: wrap;
+    font-size: 12px; margin-bottom: 16px;
+  }
+  .lane-key span {
+    display: inline-flex; align-items: center; gap: 6px;
+    padding: 4px 10px; border-radius: 12px; background: #fff; border: 1px solid var(--line);
+  }
+  .dot { width: 10px; height: 10px; border-radius: 50%; display: inline-block; }
+  .dot.doc { background: var(--doc); }
+  .dot.hyg { background: var(--hyg); }
+  .dot.warn { background: var(--warn); }
+  .progress {
+    display: flex; gap: 4px; margin: 12px 0 20px;
+  }
+  .progress > div {
+    flex: 1; height: 4px; background: #e5e0d6; border-radius: 2px;
+  }
+  .progress > div.active { background: var(--ink); }
+  .progress > div.done { background: var(--strong); }
+
+  .step {
+    background: var(--card); border: 1px solid var(--line);
+    border-radius: 8px; padding: 18px 20px; margin-bottom: 14px;
+    box-shadow: var(--shadow);
+    display: none;
+  }
+  .step.active { display: block; }
+  .step-header {
+    display: flex; align-items: baseline; gap: 10px; margin-bottom: 12px;
+    padding-bottom: 10px; border-bottom: 1px solid var(--line);
+  }
+  .step-num {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+    color: var(--muted); text-transform: uppercase;
+  }
+  .lane-tag {
+    font-size: 11px; padding: 2px 8px; border-radius: 10px;
+    font-weight: 600;
+  }
+  .lane-tag.doc { background: var(--doc-bg); color: var(--doc); }
+  .lane-tag.hyg { background: var(--hyg-bg); color: var(--hyg); }
+  .lane-tag.both {
+    background: linear-gradient(90deg, var(--doc-bg) 50%, var(--hyg-bg) 50%);
+    color: var(--ink);
+  }
+
+  .question { margin: 8px 0 14px; font-weight: 500; }
+  .options { display: flex; flex-direction: column; gap: 8px; }
+  .opt {
+    border: 1px solid var(--line); border-radius: 6px;
+    padding: 12px 14px; cursor: pointer; background: #fff;
+    transition: all 0.15s;
+    text-align: left;
+    font-size: 14px; font-family: inherit; color: inherit;
+    width: 100%;
+  }
+  .opt:hover { border-color: var(--doc); background: #f5f8ff; }
+  .opt.selected { border-color: var(--doc); background: #eef3fc; font-weight: 500; }
+  .opt-note { font-size: 12px; color: var(--muted); margin-top: 3px; }
+
+  .action {
+    background: #fbfaf6; border-left: 3px solid var(--doc);
+    padding: 10px 14px; margin: 8px 0; border-radius: 0 4px 4px 0;
+  }
+  .action.hyg-lane { border-left-color: var(--hyg); }
+  .action.warn { border-left-color: var(--warn); background: var(--warn-bg); }
+  .action ul { margin: 6px 0 0; padding-left: 18px; }
+  .action li { margin-bottom: 3px; }
+  .action-label {
+    font-size: 11px; font-weight: 600; letter-spacing: 0.04em;
+    color: var(--muted); text-transform: uppercase;
+  }
+
+  .conf {
+    display: inline-block; font-size: 10px; padding: 1px 6px;
+    border-radius: 3px; font-weight: 600; margin-right: 4px;
+    vertical-align: middle;
+  }
+  .conf.strong { background: var(--strong); color: white; }
+  .conf.consensus { background: var(--consensus); color: white; }
+  .conf.interp { background: var(--interp); color: white; }
+  .conf.warn { background: var(--warn); color: white; }
+
+  cite {
+    font-size: 11px; color: var(--muted); font-style: normal;
+    display: inline-block; margin-left: 2px;
+  }
+
+  .nav {
+    display: flex; justify-content: space-between; gap: 10px;
+    margin-top: 16px; padding-top: 12px; border-top: 1px solid var(--line);
+  }
+  .nav button {
+    padding: 8px 16px; border: 1px solid var(--line); background: #fff;
+    border-radius: 6px; cursor: pointer; font-size: 14px; font-family: inherit;
+  }
+  .nav button:hover { background: #f5f0e8; }
+  .nav button.primary { background: var(--ink); color: white; border-color: var(--ink); }
+  .nav button.primary:hover { background: #333; }
+  .nav button:disabled { opacity: 0.4; cursor: not-allowed; }
+
+  .summary {
+    background: #fdf9f0; border: 1px solid #d8c98e;
+    padding: 14px 16px; border-radius: 6px; margin-top: 12px;
+  }
+  .summary h3 { margin: 0 0 8px; font-size: 14px; }
+
+  table.matrix {
+    width: 100%; border-collapse: collapse; font-size: 13px; margin: 10px 0;
+  }
+  table.matrix th, table.matrix td {
+    border: 1px solid var(--line); padding: 6px 10px; text-align: left;
+    vertical-align: top;
+  }
+  table.matrix th { background: #f0ebe0; font-weight: 600; }
+  table.matrix tr.best td:first-child { font-weight: 600; color: var(--strong); }
+  table.matrix tr.bad td:first-child { font-weight: 600; color: var(--warn); }
+
+  .ref {
+    font-size: 11px; color: var(--muted); margin-top: 14px;
+    padding-top: 10px; border-top: 1px dashed var(--line);
+  }
+  .restart {
+    text-align: center; margin-top: 20px;
+  }
+  .restart button {
+    background: transparent; border: none; color: var(--muted);
+    font-size: 12px; cursor: pointer; text-decoration: underline;
+  }
+  details { margin: 8px 0; }
+  details summary { cursor: pointer; font-size: 13px; color: var(--doc); }
+  details summary:hover { text-decoration: underline; }
+</style>
+</head>
+<body>
+
+<h1>지르코니아 인레이 접착 SOP</h1>
+<div class="sub">원장 의사결정 + 위생사 어시스트 통합 분기형 트리 · 2026-05-25 · 14편 wiki 페이지 기반</div>
+
+<div class="lane-key">
+  <span><span class="dot doc"></span>원장 (의사결정·시술)</span>
+  <span><span class="dot hyg"></span>위생사 (준비·어시스트)</span>
+  <span><span class="dot warn"></span>주의·금기</span>
+  <span><span class="conf strong">근거강함</span> SR/MA·RCT</span>
+  <span><span class="conf consensus">합의수준</span> 다수 in vitro·가이드라인</span>
+  <span><span class="conf interp">claude해석</span> 추론·확장</span>
+</div>
+
+<div class="progress" id="progress"></div>
+
+<!-- STEP 1 — 사전 분류 -->
+<div class="step active" data-step="1">
+  <div class="step-header">
+    <span class="step-num">Step 1 · 분류 확인</span>
+    <span class="lane-tag both">원장 + 위생사</span>
+  </div>
+  <h2>지르코니아 인레이 타입 파악</h2>
+  <div class="action hyg-lane">
+    <span class="action-label">위생사 준비</span>
+    <ul>
+      <li>기공물 인보이스 확인: 재료(3Y-TZP / 4Y / 5Y-PSZ) · 색상 · 컨택트 포인트 기공소 폴리싱 완료 여부</li>
+      <li>샌드블라스팅 기공소 선처리 여부 확인 (대부분 미시행 → 체어사이드 처리 필요)</li>
+      <li>시멘트·프라이머 세트 동일 제조사로 매칭 준비 <cite>[shokry-2022]</cite></li>
+    </ul>
+  </div>
+  <div class="question">접착 프로토콜에 영향 있는 분기는?</div>
+  <div class="options">
+    <button class="opt" data-next="2" data-label="3Y-TZP (표준 강도 우선)">
+      3Y-TZP — 가장 흔한 인레이 재료
+      <div class="opt-note">강도 ~1200 MPa, 불투명, 인레이·RBFPD 표준. 1년 임상 OK <cite>[behera-2021]</cite>, 5년 대합 마모 77μm <cite>[bomicke-2025]</cite></div>
+    </button>
+    <button class="opt" data-next="2" data-label="5Y-PSZ / 큐빅 (심미·전치부 인접)">
+      5Y-PSZ 또는 6Y/UHTZ — 투명도 우선
+      <div class="opt-note">강도 ↓ (~600 MPa), 투명도 ↑. 접착 프로토콜은 3Y와 동일 <cite>[comba-2021]</cite>. 후방 응력 부위는 fracture 리스크 고려</div>
+    </button>
+    <button class="opt" data-next="2" data-label="기공소에서 샌드블라스팅 완료 (드물)">
+      기공소에서 이미 Al₂O₃ 50μm 샌드블라스팅 완료
+      <div class="opt-note">72시간 이상 경과 시 표면 재오염 가능 → 체어사이드 재세정 권장 <cite>[al-akhali-2025]</cite></div>
+    </button>
+  </div>
+</div>
+
+<!-- STEP 2 — 상아질 처리 (IDS) -->
+<div class="step" data-step="2">
+  <div class="step-header">
+    <span class="step-num">Step 2 · 상아질 측 사전 처리</span>
+    <span class="lane-tag doc">원장 판단</span>
+  </div>
+  <h2>인상 시점에 IDS (Immediate Dentin Sealing) 적용했는가?</h2>
+  <div class="action">
+    <span class="action-label">배경</span>
+    <ul>
+      <li><span class="conf consensus">합의수준</span> IDS 적용 시 결합강도·간격형성·미세누출·과민증 개선 <cite>[samartzi-2021]</cite></li>
+      <li>인레이 = 상아질 노출 큰 indirect 수복 → IDS 권장 적응증</li>
+      <li>단, 임상 장기 효과(증례 통증·수명)는 BRD 비평론에서 미해결 — 의무는 아님</li>
+    </ul>
+  </div>
+  <div class="question">현재 케이스는?</div>
+  <div class="options">
+    <button class="opt" data-next="3" data-label="IDS 이미 적용됨">
+      삭제 직후 본드(예: Clearfil SE Bond) 적용 → 임시 시멘트로 임시수복함
+      <div class="opt-note">델리버리 시: 펌프스 클리닝 → 산소억제층 제거 후 본드 재적용 → 시멘트 <cite>[samartzi-2021]</cite></div>
+    </button>
+    <button class="opt" data-next="3" data-label="IDS 미적용 (지연 시일링)">
+      삭제 후 인상만 채득, 임시수복 → 오늘 델리버리 시 첫 본드
+      <div class="opt-note">표준 프로토콜로 진행. 차회 케이스부터 IDS 검토 권장 <cite>[claude해석]</cite></div>
+    </button>
+  </div>
+</div>
+
+<!-- STEP 3 — 인레이 내면 처리 -->
+<div class="step" data-step="3">
+  <div class="step-header">
+    <span class="step-num">Step 3 · 인레이 내면 처리 (시적 전)</span>
+    <span class="lane-tag both">원장 시술 + 위생사 어시스트</span>
+  </div>
+  <h2>지르코니아 내면 Al₂O₃ 샌드블라스팅</h2>
+  <div class="action hyg-lane">
+    <span class="action-label">위생사 준비물</span>
+    <ul>
+      <li>Al₂O₃ 입자 <strong>50 μm</strong> (110μm는 표면 손상 위험)</li>
+      <li>압력 <strong>2.0–2.5 bar (≈ 0.2 MPa)</strong>, 거리 약 10mm, 10–15초 (인레이 내면 전체 균일)</li>
+      <li>샌드블라스팅 후 alcohol 또는 oil-free air spray로 분진 제거</li>
+      <li>아세톤·이소프로필알코올 wipe 금지 → 향후 Step 4 참조</li>
+    </ul>
+  </div>
+  <div class="action">
+    <span class="action-label">근거</span>
+    <ul>
+      <li><span class="conf strong">근거강함</span> Al₂O₃ APA = 지르코니아 접착 표준 (APC 컨셉의 A) <cite>[blatz-2018]</cite></li>
+      <li><span class="conf consensus">합의수준</span> CoJet/Rocatec (트리보케미컬 실리카 코팅)은 APA 대비 추가 micromechanical interlocking 제공하나 별도 장비 필요 <cite>[blatz-2018, turker-2020, comba-2021]</cite></li>
+      <li><span class="conf consensus">합의수준</span> APA → 72h 이상 경과 시 표면 오염 가능, 재세정 필요 <cite>[al-akhali-2025]</cite></li>
+    </ul>
+  </div>
+  <div class="question">샌드블라스팅 환경은?</div>
+  <div class="options">
+    <button class="opt" data-next="4" data-label="체어사이드 즉시 샌드블라스팅 + 시적">
+      체어사이드에서 샌드블라스팅 직후 시적 (지연 없음, 권장)
+    </button>
+    <button class="opt" data-next="4" data-label="기공소 처리 + 보관 후 시적 (재세정 예정)">
+      기공소 샌드블라스팅 후 보관 → 시적 (72h+) → Ivoclean 재세정 예정
+    </button>
+  </div>
+</div>
+
+<!-- STEP 4 — 시적 후 오염 (CRITICAL 분기) -->
+<div class="step" data-step="4">
+  <div class="step-header">
+    <span class="step-num">Step 4 · 시적(Try-in) 후 오염 처리</span>
+    <span class="lane-tag doc">원장 판단 — 가장 중요한 분기</span>
+  </div>
+  <h2>인레이 내면이 타액·혈액에 노출되었는가?</h2>
+  <div class="action warn">
+    <span class="action-label">핵심 경고 <span class="conf strong">근거강함</span></span>
+    <ul>
+      <li>타액 오염 후 단순 물세척·인산 처리·알코올 wipe는 전부 비효과적 <cite>[silva-2022 SR+MA, genc-2025]</cite></li>
+      <li>이소프로필알코올은 무처리보다도 SBS 낮음 — <strong>금기</strong> <cite>[genc-2025: 3.04 MPa vs 무처리 3.65 MPa]</cite></li>
+      <li>Katana Cleaner도 SFE 저하로 장기 내구성 악화 — 사용 금지 <cite>[al-akhali-2025]</cite></li>
+    </ul>
+  </div>
+  <div class="question">시적 후 상태?</div>
+  <div class="options">
+    <button class="opt" data-next="5" data-label="오염됨 → 샌드블라스팅 재시행 + Ivoclean (Best)">
+      타액·혈액 노출됨 — 최선의 재세정 (BEST)
+      <div class="opt-note"><span class="conf strong">근거강함</span> Al₂O₃ 재샌드블라스팅 + Ivoclean 20s 후 수세·건조 = SBS 9.3 MPa <cite>[genc-2025, silva-2022 SR+MA]</cite></div>
+    </button>
+    <button class="opt" data-next="5" data-label="오염됨 → Ivoclean 단독 (Acceptable, 재블라스팅 불가 시)">
+      오염됨 — 체어사이드 샌드블라스팅 불가 시 (ACCEPTABLE)
+      <div class="opt-note"><span class="conf strong">근거강함</span> Ivoclean 20s 단독 = 7.21 MPa (Best보다 ↓ 이지만 다른 방법보다 ↑) <cite>[genc-2025]</cite>. 또는 MDP 함유 cleaner (Clearfil Ceramic Primer Plus)로 세정+프라이밍 동시 <cite>[awad-2022]</cite></div>
+    </button>
+    <button class="opt" data-next="5" data-label="오염 없음 (러버댐·격리 완벽)">
+      러버댐/Optragate로 격리 → 오염 전혀 없음
+      <div class="opt-note">바로 프라이머 단계로 진행 가능. 단, 시적 시 손가락 접촉만 있어도 oil 오염 가능 <cite>[claude해석]</cite></div>
+    </button>
+  </div>
+</div>
+
+<!-- STEP 5 — 프라이머 선택 -->
+<div class="step" data-step="5">
+  <div class="step-header">
+    <span class="step-num">Step 5 · 프라이머 선택 및 도포</span>
+    <span class="lane-tag both">원장 결정 + 위생사 어시스트</span>
+  </div>
+  <h2>MDP 함유 지르코니아 프라이머</h2>
+  <table class="matrix">
+    <thead>
+      <tr><th>프라이머</th><th>제조사 매칭 시멘트</th><th>특징</th></tr>
+    </thead>
+    <tbody>
+      <tr class="best"><td>Clearfil Ceramic Primer Plus</td><td>Panavia V5 / SA Luting Plus</td><td>MDP + 실란 일체형. 시멘트 retention 최우수 <cite>[shokry-2022]</cite></td></tr>
+      <tr><td>Monobond Plus (Ivoclar)</td><td>Variolink Esthetic / Multilink Speed</td><td>MDP + 실란 + 황화물. 광범위 호환</td></tr>
+      <tr><td>Z-Prime Plus (Bisco)</td><td>Duo-Link / All-Bond Universal</td><td>MDP + BPDM. SBU와 24h 동등, 12개월 감소율 유사 <cite>[lopes-2023]</cite></td></tr>
+    </tbody>
+  </table>
+  <div class="action hyg-lane">
+    <span class="action-label">위생사 어시스트</span>
+    <ul>
+      <li>마이크로브러시로 인레이 내면 전체 <strong>1회 도포</strong> — 다회 도포 이득 없음 <cite>[opatragoon-2024]</cite></li>
+      <li>제조사 지시 시간(보통 20–60초) 유지 → oil-free air로 약하게 건조 (over-drying 주의)</li>
+      <li>광경화 단계는 프라이머별 상이 — 제조사 IFU 확인</li>
+    </ul>
+  </div>
+  <div class="question">사용 프라이머는?</div>
+  <div class="options">
+    <button class="opt" data-next="6" data-label="Clearfil Ceramic Primer Plus + Panavia V5/SA">권장 매칭</button>
+    <button class="opt" data-next="6" data-label="Monobond Plus + Variolink/Multilink">Ivoclar 매칭</button>
+    <button class="opt" data-next="6" data-label="범용 어드히시브 (예: SBU) 단독">
+      범용 어드히시브 단독 사용
+      <div class="opt-note"><span class="conf consensus">합의수준</span> 24h는 Z-Prime과 동등, 12개월 시 65% 감소 — 동일 <cite>[lopes-2023]</cite></div>
+    </button>
+  </div>
+</div>
+
+<!-- STEP 6 — 시멘트 선택 -->
+<div class="step" data-step="6">
+  <div class="step-header">
+    <span class="step-num">Step 6 · 시멘트 선택</span>
+    <span class="lane-tag doc">원장 결정</span>
+  </div>
+  <h2>레진 시멘트 — 듀얼큐어 vs 자가접착(SARC)</h2>
+  <table class="matrix">
+    <thead>
+      <tr><th>시멘트</th><th>타입</th><th>지르코니아 인레이 적합도</th></tr>
+    </thead>
+    <tbody>
+      <tr class="best"><td>Panavia V5 / Panavia SA Plus</td><td>듀얼큐어 + 매칭 프라이머</td><td>retention 최우수 <cite>[shokry-2022]</cite></td></tr>
+      <tr><td>TheraCem</td><td>SARC (MDP + 칼슘실리케이트)</td><td>SARC 중 SBS 최고. 프라이머 병용 시 추가 향상 <cite>[kwon-2026]</cite></td></tr>
+      <tr><td>Clearfil SA Luting Plus</td><td>SARC (MDP)</td><td>중간. 프라이머 병용 권장 <cite>[kwon-2026]</cite></td></tr>
+      <tr class="bad"><td>RelyX U200</td><td>SARC (인산)</td><td>SBS 최저. 다만 굴곡강도·경도는 최고 — 인레이 retention 우선 시 부적합 <cite>[kwon-2026]</cite></td></tr>
+    </tbody>
+  </table>
+  <div class="action">
+    <span class="action-label">결정 트레이드오프</span>
+    <ul>
+      <li><strong>듀얼큐어 + 매칭 프라이머</strong>: retention 최우수, 단계 많음, 잉여 시멘트 제거 타이밍 정밀 필요</li>
+      <li><strong>SARC (예: TheraCem)</strong>: 단계 축약, 잉여 제거 용이, 단 프라이머 병용 필수</li>
+      <li>인레이는 부분 피개 = retention form 제한적 → 가능한 한 듀얼큐어 + 프라이머 선호 <cite>[claude해석, blatz-2018 의 "adhesion-dependent" 분류]</cite></li>
+    </ul>
+  </div>
+  <div class="question">선택한 시멘트는?</div>
+  <div class="options">
+    <button class="opt" data-next="7" data-label="듀얼큐어 + 매칭 프라이머 (권장)">Panavia V5/SA + Clearfil Primer Plus</button>
+    <button class="opt" data-next="7" data-label="SARC + 프라이머 (TheraCem 등)">TheraCem / Clearfil SA + 프라이머</button>
+  </div>
+</div>
+
+<!-- STEP 7 — 시멘테이션 -->
+<div class="step" data-step="7">
+  <div class="step-header">
+    <span class="step-num">Step 7 · 시멘테이션 시술</span>
+    <span class="lane-tag both">원장 시술 + 위생사 어시스트</span>
+  </div>
+  <h2>접착 시술 단계</h2>
+  <div class="action hyg-lane">
+    <span class="action-label">위생사 — 격리·재료 준비</span>
+    <ul>
+      <li>러버댐 또는 Optragate + 코튼롤 + 흡인 — 타액 격리 (Step 4 risk 회피)</li>
+      <li>치질측: 펌프스 + 워터스프레이 후 건조 → IDS 적용된 경우 표면 산소억제층 펌프스로 제거</li>
+      <li>인산에칭 (37% phosphoric acid) 법랑질 15s / 상아질 selective etch 옵션 — 본드 시스템에 따름</li>
+      <li>본드/어드히시브 도포 → air thin → 광경화 (제조사 시간)</li>
+      <li>시멘트 mixing tip 준비, 광경화기 충전 확인</li>
+    </ul>
+  </div>
+  <div class="action">
+    <span class="action-label">원장 — 시멘테이션</span>
+    <ul>
+      <li>지르코니아 내면에 시멘트 얇게 도포 → 인레이 안착</li>
+      <li>안정화 후 <strong>tack cure 1–2초</strong> per surface → 잉여 시멘트 gel 상태에서 explorer/floss로 제거 (특히 인접면)</li>
+      <li>변연 전체 <strong>글리세린 젤 도포</strong> (산소억제층 제거) → 최종 광경화 20s × 4면 이상</li>
+      <li><span class="conf consensus">합의수준</span> 듀얼큐어라도 light cure 필수 — 깊은 부위 화학경화 의존</li>
+    </ul>
+  </div>
+  <div class="action warn">
+    <span class="action-label">피해야 할 것</span>
+    <ul>
+      <li>잉여 시멘트 늦게 제거 → 인접면 시멘트 잔존 → 치주 자극·재발성 우식 위험</li>
+      <li>러버댐 미적용 상태에서 시멘테이션 → Step 4의 모든 노력 무효화 가능 <cite>[silva-2022, genc-2025]</cite></li>
+    </ul>
+  </div>
+  <div class="nav">
+    <button onclick="goTo(6)">← 이전</button>
+    <button class="primary" onclick="goTo(8)">시멘테이션 완료 →</button>
+  </div>
+</div>
+
+<!-- STEP 8 — 마무리 -->
+<div class="step" data-step="8">
+  <div class="step-header">
+    <span class="step-num">Step 8 · 마무리·체크아웃</span>
+    <span class="lane-tag both">원장 + 위생사</span>
+  </div>
+  <h2>최종 점검</h2>
+  <div class="action hyg-lane">
+    <span class="action-label">위생사 마무리</span>
+    <ul>
+      <li>변연 폴리싱 (다이아몬드 파인 → 폴리싱 컵)</li>
+      <li>인접면 floss 통과성 확인 — 시멘트 잔존 여부</li>
+      <li>구강세척·환자 의자 복귀</li>
+    </ul>
+  </div>
+  <div class="action">
+    <span class="action-label">원장 마무리</span>
+    <ul>
+      <li>교합 점검 (articulating paper) — 지르코니아 폴리싱 상태에서 대합 법랑질 마모 ~77μm/5y <cite>[bomicke-2025]</cite>: 임상 허용 범위지만 polish 잘 안 된 표면은 마모 가속</li>
+      <li>X-ray 시멘트 잔존·변연 적합 확인</li>
+      <li>환자 안내: 첫 24h hard food 회피, 1주일 후 follow-up</li>
+    </ul>
+  </div>
+  <div class="action warn">
+    <span class="action-label">장기 follow-up 주의</span>
+    <ul>
+      <li><span class="conf strong">근거강함</span> 12개월 후 in vitro bond strength ~65% 감소 <cite>[lopes-2023]</cite> — 임상 추적 관찰 중요</li>
+      <li>5년 시점 zirconia inlay 임상 데이터는 RCT 부재. 1년 prospective는 안전 <cite>[behera-2021]</cite>, RBFPD 5년 데이터로 보강 <cite>[bomicke-2025]</cite></li>
+    </ul>
+  </div>
+  <div class="summary" id="summary">
+    <h3>이 케이스 의사결정 요약</h3>
+    <div id="summary-list"></div>
+  </div>
+  <div class="nav">
+    <button onclick="goTo(7)">← 이전</button>
+    <button class="primary" onclick="restart()">처음부터 다시</button>
+  </div>
+</div>
+
+<!-- 네비게이션 (Step 1~6은 옵션 클릭 = 자동 다음) -->
+<div id="back-nav" style="display:none;">
+  <div class="nav">
+    <button id="prev-btn" onclick="goBack()">← 이전</button>
+  </div>
+</div>
+
+<div class="ref">
+  <strong>출처 (wiki 페이지):</strong>
+  blatz-2018 (APC concept) ·
+  behera-2021 (인레이 1y RCT) ·
+  bomicke-2025 (RBFPD 5y) ·
+  ban-2023 (zirconia 분류) ·
+  silva-2022 (세정 SR+MA, 근거강함) ·
+  genc-2025 (세정 정량) ·
+  al-akhali-2025 (150일 내구성) ·
+  awad-2022 (MDP cleaner) ·
+  comba-2021 (5Y bonding) ·
+  opatragoon-2024 (1회 도포) ·
+  shokry-2022 (매칭 시스템) ·
+  kwon-2026 (SARC 비교) ·
+  lopes-2023 (12mo 열화) ·
+  samartzi-2021 (IDS)
+</div>
+
+<div class="restart">
+  <button onclick="restart()">↻ 새 케이스로 재시작</button>
+</div>
+
+<script>
+  const totalSteps = 8;
+  let currentStep = 1;
+  const history = [];
+  const decisions = [];
+
+  // 진행 바
+  function renderProgress() {
+    const bar = document.getElementById('progress');
+    bar.innerHTML = '';
+    for (let i = 1; i <= totalSteps; i++) {
+      const d = document.createElement('div');
+      if (i < currentStep) d.className = 'done';
+      else if (i === currentStep) d.className = 'active';
+      bar.appendChild(d);
+    }
+  }
+
+  function show(step) {
+    document.querySelectorAll('.step').forEach(s => s.classList.remove('active'));
+    const target = document.querySelector(`.step[data-step="${step}"]`);
+    if (target) {
+      target.classList.add('active');
+      currentStep = step;
+      renderProgress();
+      target.scrollIntoView({behavior: 'smooth', block: 'start'});
+    }
+  }
+
+  function goTo(step) {
+    if (step > currentStep) history.push(currentStep);
+    show(step);
+    if (step === totalSteps) renderSummary();
+  }
+
+  function goBack() {
+    const prev = history.pop();
+    if (prev) show(prev);
+  }
+
+  function restart() {
+    history.length = 0;
+    decisions.length = 0;
+    show(1);
+  }
+
+  function renderSummary() {
+    const list = document.getElementById('summary-list');
+    if (decisions.length === 0) {
+      list.innerHTML = '<em>옵션을 선택하지 않고 진행한 단계가 있습니다.</em>';
+      return;
+    }
+    list.innerHTML = '<ol style="margin:0;padding-left:20px;">' +
+      decisions.map(d => `<li><strong>Step ${d.step}:</strong> ${d.label}</li>`).join('') +
+      '</ol>';
+  }
+
+  // 옵션 클릭 → 결정 기록 + 다음 단계
+  document.querySelectorAll('.opt').forEach(btn => {
+    btn.addEventListener('click', () => {
+      // 같은 step의 다른 옵션 selected 제거
+      const parent = btn.closest('.step');
+      parent.querySelectorAll('.opt').forEach(o => o.classList.remove('selected'));
+      btn.classList.add('selected');
+      const step = parseInt(parent.dataset.step);
+      const next = parseInt(btn.dataset.next);
+      const label = btn.dataset.label;
+      // 이전 동일 step 결정 제거
+      const idx = decisions.findIndex(d => d.step === step);
+      if (idx >= 0) decisions.splice(idx, 1);
+      decisions.push({step, label});
+      decisions.sort((a, b) => a.step - b.step);
+      setTimeout(() => goTo(next), 200);
+    });
+  });
+
+  renderProgress();
+</script>
+
+</body>
+</html>

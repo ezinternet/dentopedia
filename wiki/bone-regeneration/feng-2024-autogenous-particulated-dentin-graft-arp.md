@@ -13,6 +13,9 @@ source_collection: external
 tags: [ARP, socket-preservation, autogenous-dentin, APD, meta-analysis, RCT, histomorphometry, DBBM]
 ---
 
+## One-line Summary
+SR+MA (10 RCTs, n=182): autogenous particulated dentin (APD) is superior to other grafted materials for horizontal ridge width and labial bone height preservation, with +10.51% higher vital bone area and −8.76% lower residual graft area compared with other bone substitutes.
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (10편 무작위 대조 시험 (Randomized Controlled Trial, RCT), n = 182): 자가치아입자 (Autogenous Particulated Dentin, APD)는 발치와 보존 (Alveolar Ridge Preservation, ARP)에서 수평적 치조제 폭과 순측 골 높이 유지에 우수하며, 다른 골이식재 (Other Grafted Materials, OGM) 대비 활성 골 면적이 +10.51% 더 높고 잔존 이식재 면적은 -8.76% 더 낮음.
 

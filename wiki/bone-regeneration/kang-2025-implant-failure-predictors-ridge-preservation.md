@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, ARP, implant-failure, pristine-bone-engagement, PBE, Cox-model, risk-factors]
 ---
 
+## One-line Summary
+Retrospective study (JPIS 2025, n=528 implants, 412 patients, 3.5 years): the only significant predictor of implant failure after ARP was pristine bone engagement (PBE) <1.1 mm (HR 2.50, P=0.004); cumulative success rate 89.0%; securing ≥1.1 mm of native bone engagement is essential.
+
 ## 한줄요약
 retrospective(JPIS 2025, n=528 임플란트 412명, 3.5년): ARP 후 임플란트 실패 예측인자 — PBE <1.1mm → 실패 위험 HR 2.50(P=0.004); 누적 성공률 89.0%; 원발골 맞물림 최소 1.1mm 확보가 핵심.
 

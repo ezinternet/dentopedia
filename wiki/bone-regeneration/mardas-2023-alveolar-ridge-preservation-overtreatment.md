@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, arp, socket-graft, socket-sealing, gbr, overtreatment, decision-framework]
 ---
 
+## One-line Summary
+Critical narrative review (Periodontology 2000, open access): examining evidence for each of ARP's four objectives, the authors conclude ARP is safe and effective but may constitute overtreatment in posterior sites with thick bony walls, sites planned for immediate implant, and sites already staged for augmentation — where the incremental benefit over natural healing is insufficient.
+
 ## 한줄요약
 비판적 종설 (Periodontology 2000, 오픈액세스): 치조제 보존술 (Alveolar Ridge Preservation, ARP)의 네 가지 목표(차원 변화 제한, 신생골 형성, 연조직/윤곽 유지, 추가 증대술 없이 임플란트 식립)별 근거를 검토하고, ARP는 안전·유효하지만 후방 두꺼운 골벽 부위·즉시식립 예정 부위 등에서는 자연치유 (Unassisted Healing) 대비 의미있는 추가 이득이 부족해 과잉치료가 될 수 있다고 결론.
 

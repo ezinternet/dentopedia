@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, multi-specialty, forensic-odontology, pediatric-dentistry, evidence-based-dentistry, MDPI, descriptive-review]
 ---
 
+## One-line Summary
+Descriptive review (Bioengineering 2024;11:1267, multinational authors): AI has entered all dental disciplines (oral medicine, operative, pediatric, periodontics, orthodontics, OMFS, prosthodontics, forensic odontology); majority are imaging/optical diagnosis-based; insufficient data availability, uniformity, and computing power are bottlenecks limiting expansion into non-imaging tasks.
+
 ## 한줄요약
 descriptive-review (Bioengineering 2024;11:1267, 다국적 저자): AI는 모든 치과 분야(구강내과·보존·소아·치주·교정·OMFS·보철·법의치과학)에 진입; 대다수가 방사선/광학 영상 기반 진단; 데이터 가용성·균일성·연산력 부족이 비-영상 작업 확산의 병목.
 

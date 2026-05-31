@@ -13,6 +13,9 @@ source_collection: external
 tags: [beta-TCP, tricalcium-phosphate, alveolar-ridge-preservation, ARP, alloplast, CBCT, RCT-SR]
 ---
 
+## One-line Summary
+SR (J Funct Biomater 2026, 5 RCTs): β-TCP alone for ARP shows variable results — more resorption than xenograft or equivalent to FDBA depending on formulation; composite β-TCP materials are comparable to DBBM; evidence is limited and heterogeneous, making β-TCP's ARP role provisional.
+
 ## 한줄요약
 sr(J Funct Biomater 2026, RCT 5편): β-TCP 단독 ARP — 이종골보다 흡수 많거나 동급(가변적); 복합재료 β-TCP = DBBM 동등; 근거 제한·이질적; β-TCP의 ARP 역할 잠정적.
 

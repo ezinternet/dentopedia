@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA (21 studies): ARP reduces horizontal ridge resorption by a mean of 1.86 mm compared with extraction alone, with wound closure type, graft material, barrier membrane, growth factor use, and socket morphology all significantly influencing the magnitude of benefit.
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (21편): 치조제 보존술(Alveolar Ridge Preservation, ARP)은 발치만 시행한 경우 대비 수평 골흡수를 평균 1.86 mm 감소시키며, 골 결손 형태·창상 폐쇄 방식·이식재·차폐막·성장인자 사용이 결과를 유의하게 좌우한다.
 

@@ -32,6 +32,6 @@ Reviews classification criteria, non-surgical and surgical options, decontaminat
 Narrative review; no quantitative pooling.
 
 ## Related Papers
-- [[periodontics/cha-2024-peri-implantitis-treatment-protocol-flowchart]]
+- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
 - [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
 - [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]

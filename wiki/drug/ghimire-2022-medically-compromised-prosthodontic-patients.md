@@ -14,6 +14,9 @@ source_collection: external
 tags: [systemic-disease, prosthodontics, arthritis, cardiovascular, diabetes, bisphosphonate, MRONJ, renal, liver, oncology, drug-interaction]
 ---
 
+## One-line Summary
+Narrative review: prosthetic treatment modification guidelines for 9 systemic disease categories in elderly patients (arthritis, cardiovascular, endocrine, hematologic-oncologic, neurological, bone disease, pulmonary, hepatic, renal) — includes bisphosphonate BRONJ, radiation osteonecrosis, and DMARDs interactions.
+
 ## 한줄요약
 서술적 고찰: 노인 전신질환 9개 그룹(관절염·심혈관·내분비·혈액종양·신경·골질환·폐·간·신장)의 보철 치료 수정 지침 — 비스포스포네이트 BRONJ, 방사선 골괴사, DMARDs 상호작용 포함
 

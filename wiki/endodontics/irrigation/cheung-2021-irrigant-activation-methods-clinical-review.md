@@ -14,6 +14,9 @@ source_collection: external
 tags: [irrigation, PUI, ANP, sonic, laser, activation, biofilm, smear-layer, clinical-review]
 ---
 
+## One-line Summary
+Narrative review (University of Hong Kong): comparing sonic, PUI, ANP (EndoVac), and laser irrigant activation methods; all activation techniques are superior to conventional syringe irrigation, but laser lacks clinical evidence.
+
 ## 한줄요약
 서술적 리뷰(홍콩대): 소닉·초음파(PUI)·ANP(EndoVac)·레이저 등 관개액 활성화 기법 비교; 모든 활성화 기법이 기존 주사기 관개보다 세정력 우수, 레이저는 임상 근거 부족
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [AI, artificial-intelligence, digital-dentistry, implant-identification, treatment-planning, complication-management, clinical-translation]
 ---
 
+## One-line Summary
+Narrative review (IJDM 2025;7(4):120–124, Chettinad): AI in dental implants overview — improved diagnostic efficiency, treatment planning, and patient outcomes; advantages of accuracy, speed, and precision; clinical limitations (cost, regulation, interpretability) remain; further clinical trials needed.
+
 ## 한줄요약
 narrative-review(IJDM 2025;7(4):120-124, Chettinad): AI 임플란트 임상 적용 총론 — 진단효율·치료계획·환자결과 향상; 정확성·신속성·정밀성; 임상적 한계(비용·규제·해석불가) 상존; 추가 임상시험 필요.
 

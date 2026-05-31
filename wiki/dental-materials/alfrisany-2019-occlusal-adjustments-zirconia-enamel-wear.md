@@ -13,6 +13,9 @@ source_collection: external
 tags: [Y-TZP, occlusal-adjustment, grinding, glazing, porcelain-veneer, enamel-wear, surface-roughness, Toronto]
 ---
 
+## One-line Summary
+In vitro (J Adv Prosthodont 2019): Y-TZP (Lava/Bruxzir) under 5 conditions over 500,000 cycles — glazed zirconia showed increased roughness post-simulation (partial glaze delamination); polished Zr caused more antagonist wear than glazed or porcelain-veneered Zr; surface material matters more than finishing technique.
+
 ## 한줄요약
 in-vitro(J Adv Prosthodont 2019): Y-TZP(Lava/Bruxzir) 5조건 500,000사이클 — 유약 지르코니아: 저작시뮬 후 조도 증가(유약층 부분 탈락); 연마 Zr이 유약·PVZ보다 대합치 마모 ↑; 재료 표면이 연마기법보다 중요.
 

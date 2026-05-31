@@ -13,6 +13,9 @@ source_collection: external
 tags: [revitalization, apical-periodontitis, necrotic-pulp, immature, mature, RET]
 ---
 
+## One-line Summary
+SR+MA of revitalization for pulp necrosis with apical periodontitis (IEJ 2023): good clinical symptom resolution and apical healing; evidence for application in mature teeth is limited.
+
 ## 한줄요약
 치수괴사+치근단 치주염에서 revitalization SR+MA(IEJ 2023): 임상 증상 소실 및 치근단 치유 양호, 성숙치 적용 증거 제한적.
 

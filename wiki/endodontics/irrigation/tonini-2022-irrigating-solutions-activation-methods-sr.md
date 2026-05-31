@@ -14,6 +14,9 @@ source_collection: external
 tags: [irrigation, NaOCl, CHX, PUI, activation, biofilm, RCT, sr, endodontics]
 ---
 
+## One-line Summary
+SR (7 RCTs): activation techniques (PUI, XP-endo, EndoVac) significantly superior to conventional needle irrigation; combining NaOCl with HEDP or MTAD provides no additional antimicrobial benefit.
+
 ## 한줄요약
 SR (RCT 7편): 활성화 기법(PUI, XP-endo, EndoVac)이 기존 주사기 관개 대비 유의하게 우수; NaOCl+HEDP/MTAD 병용은 항균력 추가 이점 없음
 

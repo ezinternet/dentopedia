@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-best-practices, stewardship, implementation, dental-medicine, ID-dentistry-collaboration, narrative-review]
 ---
 
+## One-line Summary
+Multidisciplinary narrative review (Bucharest infectious disease + dentistry + Lund; Trop Med Infect Dis 2024): best practices for dental antibiotic prescribing covering indication, drug class, duration, and implementation — stepwise stewardship recommendations.
+
 ## 한줄요약
 다전공 review (Bucharest 감염내과+치과·Lund; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation 통합 가이드. Stewardship 구현 단계별 권고.
 

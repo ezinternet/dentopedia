@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, MDP, contamination, cleaning, Clearfil-Ceramic-Primer-Plus, bond-strength]
 ---
 
+## One-line Summary
+In vitro (Materials 2022): MDP-containing cleaner (Clearfil Ceramic Primer Plus) achieved significantly higher SBS on contaminated monolithic zirconia than water or alcohol cleaning; MDP phosphate groups provide dual-function contamination removal and chemical bonding.
+
 ## 한줄요약
 in-vitro(Materials 2022): MDP 함유 세정제(Clearfil Ceramic Primer Plus) — 오염 단일체 지르코니아에 수세·알코올보다 유의하게 높은 SBS; MDP 인산기가 오염물 제거+화학결합 이중 기능.
 

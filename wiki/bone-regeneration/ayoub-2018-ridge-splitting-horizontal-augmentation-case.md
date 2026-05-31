@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Split-mouth case report: modified ridge-splitting technique for atrophic maxillary horizontal deficiency using piezosurgery, sticky bone (albumin-coated allograft), and simultaneous implant placement with successful outcome.
+
 ## 한줄요약
 증례보고(스플릿마우스): 위축된 상악 수평골 부족 시 변형 치조골 분리술 — 피에조서저리·스티키본·알부민 동종골 적용; 동시 임플란트 식립 성공
 

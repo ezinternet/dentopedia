@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Direct head-to-head in vitro comparison of current IOS full-arch accuracy — trueness 50–200 µm, significant inter-device differences, error increases with posterior extension.
+
 ## 한줄요약
 최신 IOS 전악 정확도 in vitro 직접 비교 — trueness 50–200μm, 기기 간 유의 차이, 구치부 연장 시 오차 증가.
 

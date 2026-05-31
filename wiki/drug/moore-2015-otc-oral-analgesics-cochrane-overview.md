@@ -14,6 +14,9 @@ source_collection: external
 tags: [OTC, ibuprofen, acetaminophen, aspirin, NNT, acute-pain, Cochrane, single-dose, dentistry]
 ---
 
+## One-line Summary
+Cochrane OTC analgesic overview (Moore 2015): single-dose OTC analgesics — ibuprofen 400mg NNT ~2.5 (best within OTC range); APAP 1g ~3.5–4; aspirin 1g ~4; ibuprofen 200mg ~3; OTC-restricted companion to the CD008659 overview.
+
 ## 한줄요약
 Cochrane OTC analgesic overview (Moore 2015): 처방전 없는 진통제 단일-dose — Ibuprofen 400 NNT ~2.5 (OTC 한도 최고); APAP 1g ~3.5-4; aspirin 1g ~4; ibuprofen 200 ~3. CD008659 회사 overview의 OTC 한정 companion.
 

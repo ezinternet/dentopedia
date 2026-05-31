@@ -14,6 +14,9 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, yonsei-triangle, llsan, lls, zygomaticus, nonsurgical, prospective]
 ---
 
+## One-line Summary
+Prospective n=15: Yonsei triangle BTX-A 4 U/side reduced gingival exposure by 3.5±1 mm, peaking at months 1–2 (-4 mm), with effect maintained at 4 months and fully reversed at 6 months; 94% satisfaction rate (very satisfied/satisfied).
+
 ## 한줄요약
 Prospective n=15: Yonsei triangle BTX-A 4U/side로 잇몸노출 3.5±1 mm 감소, 1-2개월차 정점(-4mm), 4개월 효과 유지, 6개월 완전 반전. 만족도 94% (very/satisfied).
 

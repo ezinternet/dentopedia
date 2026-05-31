@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, orthodontic-bracket, Scotchbond-Universal, universal-adhesive, MDP, bracket-bonding, ARI]
 ---
 
+## One-line Summary
+In vitro (Restor Dent Endod 2018): ceramic bracket bonding to zirconia — Scotchbond Universal (no separate primer required) achieved highest SBS and ARI score 3 (cohesive failure); universal adhesive outperformed dedicated zirconia primers.
+
 ## 한줄요약
 in-vitro(Restor Dent Endod 2018): 지르코니아에 교정 브라켓 접착 — Scotchbond Universal(별도 프라이머 불필요) 최고 SBS + ARI 3(응집파절); 범용 접착제가 전용 지르코니아 프라이머보다 우수.
 

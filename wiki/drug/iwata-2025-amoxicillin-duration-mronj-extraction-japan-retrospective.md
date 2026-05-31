@@ -14,6 +14,9 @@ source_collection: external
 tags: [MRONJ, amoxicillin, bisphosphonate, tooth-extraction, prophylaxis, single-dose, Japan, multi-center, retrospective, AMR]
 ---
 
+## One-line Summary
+Japanese 4-center retrospective comparison (J Bone Miner Metab 2025, n=160 low-dose BP patients): amoxicillin (AMPC) for MRONJ prevention at extraction — single preoperative 500 mg vs 3-day course — MRONJ incidence equivalent → single preoperative dose is sufficient to avoid AMR exposure.
+
 ## 한줄요약
 일본 4기관 후향 비교 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방 amoxicillin (AMPC) — 술전 단일 500mg vs 3일 코스 — MRONJ 발생률 **동등** → AMR 회피 목적 단일 술전 dose로 충분.
 

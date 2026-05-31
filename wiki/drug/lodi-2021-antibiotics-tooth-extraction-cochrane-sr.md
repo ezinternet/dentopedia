@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cochrane SR (CD003811.pub3, 3rd update): perioperative antibiotic prophylaxis significantly reduces infectious complications, pain, dry socket, swelling, and trismus after tooth extraction, but routine use in healthy patients must be weighed against adverse effects and resistance risk.
+
 ## 한줄요약
 코크란 SR (CD003811.pub3, 3차 업데이트): 발치 후 항생제 예방투여는 감염 합병증·통증·건성와포·부종·개구장애를 유의하게 감소시키나, 건강한 환자의 루틴 사용에는 부작용·내성 위험을 고려해야 함.
 

@@ -42,5 +42,5 @@ Meta-analysis of 14 RCTs comparing short implants (≤6 mm, no sinus lift) vs. s
 
 ## Related Papers
 - [[implants/saenz-ravello-2023-short-implants-compared-to-regular]] — mandible counterpart; same theme
-- [[implants/yu-2021-extra-short-implants-alternative-longer]] — broader meta-analysis (both jaws, ≤6 mm vs. ≥8 mm)
+- [[implants/yu-2021-extra-short-vs-longer-implants-ma]] — broader meta-analysis (both jaws, ≤6 mm vs. ≥8 mm)
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — cortical bone and stability context

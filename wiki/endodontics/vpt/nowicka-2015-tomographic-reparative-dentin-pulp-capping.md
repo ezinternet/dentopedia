@@ -13,6 +13,9 @@ source_collection: external
 tags: [DPC, Biodentine, MTA, calcium-hydroxide, dentin-bridge, micro-CT, in-vitro]
 ---
 
+## One-line Summary
+Micro-CT comparison of 4 DPC materials (44 human teeth, 6 weeks): reparative dentin bridge formation Biodentine > MTA > Ca(OH)₂; Single Bond Universal was cytotoxic.
+
 ## 한줄요약
 DPC 4재료 micro-CT 비교(44개 인간 치아, 6주): Biodentine > MTA > Ca(OH)₂ 수복상아질 교형성; Single Bond Universal는 독성.
 

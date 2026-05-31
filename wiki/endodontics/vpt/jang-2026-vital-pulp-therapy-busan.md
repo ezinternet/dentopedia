@@ -13,6 +13,9 @@ source_collection: external
 tags: [vital-pulpotomy, vital-pulpectomy, endoseem, bioceramic, vpt, pulp-preservation, cracked-tooth, clinical-lecture]
 ---
 
+## One-line Summary
+Clinical lecture on vital pulpectomy (Busan 2026): removes only coronal/upper-root pulp while preserving apical pulp — Endoseem ≥3 mm barrier, working length set 2–3 mm short of apex, ultrasonic + NaOCl irrigation protocol.
+
 ## 한줄요약
 바이탈 근관치료 (Vital Pulpectomy, VPT) 임상 강의 (부산 2026, 장 원장): 감염 근관 상부 치수만 제거하고 근단 치수를 보존하는 술식 — 엔도셈 (Endoseem) ≥3mm 배리어, 작업장 길이 근단에서 2–3mm 단축, 초음파+NaOCl 세정 프로토콜.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, monolithic, sandblasting, Ivoclean, saliva-contamination, bond-strength, cleaning]
 ---
 
+## One-line Summary
+In vitro (J Adhes Dent 2025, n=105, 5,000 thermocycles): 6 cleaning protocols for saliva-contaminated monolithic zirconia — sandblasting + Ivoclean highest (9.3 MPa); isopropyl alcohol (3.04 MPa) performed worse than untreated control and is clinically contraindicated.
+
 ## 한줄요약
 인비트로(J Adhes Dent 2025, n=105, 열순환 5,000회): 모노리식 지르코니아 (Monolithic Zirconia) 타액 오염 후 세정 6종 — 샌드블라스팅+Ivoclean (9.3 MPa) 최우수; 이소프로필알코올 (3.04 MPa) 무처리보다도 낮아 임상 금기.
 

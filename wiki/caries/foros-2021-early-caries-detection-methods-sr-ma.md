@@ -13,6 +13,9 @@ source_collection: external
 tags: [caries-detection, ICDAS, DIAGNOdent, bitewing, sensitivity, specificity]
 ---
 
+## One-line Summary
+SR+MA of early caries detection (51 studies): DIAGNOdent Pen showed highest sensitivity (Se 0.81–0.89); bitewing radiography had the lowest sensitivity for occlusal early lesions (Se 0–0.29).
+
 ## 한줄요약
 초기 우식 탐지 SR+MA(51개 연구): DIAGNOdent Pen Se 0.81–0.89 최고, 방사선 교합면 Se 0–0.29로 조기 병소 탐지 최저.
 

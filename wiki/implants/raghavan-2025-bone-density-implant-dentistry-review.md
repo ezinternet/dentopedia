@@ -30,4 +30,4 @@ Concise narrative review covering bone density classification systems (Misch D1�
 ## Related Papers
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — FEA of stress in D1–D4 bone
 - [[implants/munjal-2015-implants-low-density-bone-d3d4]] — clinical outcomes in D3/D4 bone
-- [[implants/huwais-2016-osseous-densification-novel-osteotomy-approach]] — OD as D3/D4 technique
+- [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — OD as D3/D4 technique

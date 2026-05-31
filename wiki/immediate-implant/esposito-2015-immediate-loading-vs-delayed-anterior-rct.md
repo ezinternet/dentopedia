@@ -32,5 +32,5 @@ No significant differences in failure rates or main esthetic/clinical outcomes b
 1-year horizon; pragmatic design admits operator variability; primary stability gating selects favorable cases.
 
 ## Related Papers
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-bony-defect-commentary]]
+- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
 - [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]

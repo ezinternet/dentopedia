@@ -14,6 +14,9 @@ source_collection: external
 tags: [diabetes, implant-failure, MBL, OR, meta-analysis, T1DM, T2DM, maxilla, marginal-bone-loss]
 ---
 
+## One-line Summary
+SR+MA (89 studies, 5,510 diabetic vs 62,780 non-diabetic implants): diabetic implant failure OR 1.777 (p<0.001); T1DM > T2DM (OR 4.477); MBL difference +0.776 mm; significant difference in the maxilla only.
+
 ## 한줄요약
 SR+MA(89편, 5510 당뇨 vs 62,780 비당뇨 임플란트): 당뇨 임플란트 실패 OR 1.777(p<0.001); T1DM > T2DM(OR 4.477); MBL 차이 +0.776mm; 상악에서만 유의
 

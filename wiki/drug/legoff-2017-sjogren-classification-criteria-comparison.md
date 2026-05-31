@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Comparison of AECG vs ACR/EULAR criteria in suspected pSS patients (κ=0.73) plus the added diagnostic value of salivary gland ultrasound (SGUS) for seronegative patients.
+
 ## 한줄요약
 pSS 의심 환자 AECG vs ACR/EULAR 기준 비교(κ=0.73) + 침샘 초음파(SGUS) 항체 음성 환자 진단 부가가치.
 

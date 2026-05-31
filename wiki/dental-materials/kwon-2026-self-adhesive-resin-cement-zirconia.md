@@ -13,6 +13,9 @@ source_collection: external
 tags: [SARC, self-adhesive-resin-cement, zirconia, MDP, primer, thermocycling, bond-strength, TheraCem]
 ---
 
+## One-line Summary
+In vitro (J Funct Biomater 2026, n=180, 10,000 thermocycles): 3 SARCs on sandblasted zirconia — SBS ranked TheraCem > Clearfil SA > RelyX U200; Z-Prime Plus primer significantly improved SBS in all groups; all groups showed SBS reduction after thermocycling.
+
 ## 한줄요약
 인비트로(J Funct Biomater 2026, n=180, 열순환 10,000회): 자가접착 레진시멘트 (SARC) 3종 지르코니아 접착 — 전단접착강도 (SBS) TheraCem > Clearfil SA > RelyX U200; 프라이머 (Z-Prime Plus) 모든 군 유의 향상; 열순환 후 전군 SBS 감소.
 

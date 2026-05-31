@@ -14,6 +14,9 @@ source_collection: external
 tags: [anticoagulant, warfarin, DOAC, INR, tranexamic-acid, dental-extraction, hemostasis, VKA, systematic-review]
 ---
 
+## One-line Summary
+Systematic review (25 studies, 1989–2024): VKA and DOAC discontinuation unnecessary for routine dental procedures; local hemostatic measures (tranexamic acid mouthwash) are first-line; thrombotic rebound risk from discontinuation exceeds bleeding risk.
+
 ## 한줄요약
 체계적 고찰(25편, 1989–2024): 항응고제 복용 환자에서 루틴 치과 처치 시 VKA·DOAC 중단 불필요; 국소 지혈 처치(트라넥사민산 양치액)가 1차 대응; 중단 시 혈전 리바운드 위험이 출혈 위험 초과
 

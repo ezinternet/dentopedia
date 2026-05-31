@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective CBCT analysis (64 patients, 128 maxillary sinuses): 3D volumetric measurement using implant-planning software (SMOP) yielded mean bony sinus volume 17.1 cm³, sinus obliteration in 42.2% (mean obliterated volume 5.1 cm³) associated with sinus pathology, and significantly larger bony sinus volume in males.
+
 ## 한줄요약
 콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석 (64명, 128 상악동): 임플란트 계획 소프트웨어(SMOP)로 3D 부피·표면적을 산출했고, 골성 상악동 평균 부피 17.1 cm³, 폐색 상악동 비율 42.2% (평균 폐색 부피 5.1 cm³), 폐색 부피는 상악동 병변과 연관, 남성에서 골성 상악동 부피가 유의하게 컸다.
 

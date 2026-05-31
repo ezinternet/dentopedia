@@ -14,6 +14,9 @@ source_collection: external
 tags: [lidocaine, epinephrine, local-anesthesia, third-molar, mandibular, RCT, crossover, multicenter, hemodynamics, vasoconstrictor, dental-anesthesia, cardiovascular-safety, NCT02696369]
 ---
 
+## One-line Summary
+Multicenter RCT crossover (NCT02696369, 6 university hospitals, n=65 enrolled/51 analyzed, KDA Journal 56(1) 2017): 2% lidocaine with 1:80,000 vs 1:200,000 epinephrine for impacted mandibular third-molar extraction — analgesic efficacy equivalent (VAS, duration, bleeding, satisfaction all NS), but systolic blood pressure and pulse changes significantly smaller with 1:200,000 (p≤0.01); 1:200,000 recommended for cardiovascularly vulnerable patients.
+
 ## 한줄요약
 다기관 RCT crossover (NCT02696369, 6개 대학병원, n=65 등록 / 51 분석, KDA Journal 56(1) 2017): 매복 하악 제3대구치 발치에서 2% 리도카인 + 1:80,000 vs 1:200,000 에피네프린 — 진통 효과는 동등 (VAS·지속·출혈·만족도 NS), 그러나 수축기 혈압·맥박 변동은 1:200,000군에서 유의하게 작음 (p ≤ 0.01). 심혈관 부담이 큰 환자에게는 1:200,000 권장.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [anticoagulant, oral-surgery, bleeding, VKA, DOAC, bridging-therapy]
 ---
 
+## One-line Summary
+SR (7 studies): no significant bleeding difference between continuing vs discontinuing anticoagulants for oral surgery — individualized decision based on HAS-BLED and CHA₂DS₂-VASc risk scores recommended.
+
 ## 한줄요약
 SR (7개 연구): 항응고제 지속 vs 중단 모두 출혈 차이 없음 — HAS-BLED·CHA₂DS₂-VASc 등 위험도 점수로 개별화 결정 권장.
 

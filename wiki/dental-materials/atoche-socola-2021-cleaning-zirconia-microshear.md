@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, cleaning, microshear, dual-cure-cement, CAD-CAM, bond-strength]
 ---
 
+## One-line Summary
+In vitro (J Adv Prosthodont 2021): comparison of cleaning techniques on contaminated CAD/CAM zirconia — all cleaned groups showed significantly higher µSBS than the contaminated control; dual-cure resin cement used.
+
 ## 한줄요약
 in-vitro(J Adv Prosthodont 2021): CAD/CAM 지르코니아 오염 후 세정 기법 비교 — 세정 전군이 오염 대조군보다 µSBS 유의하게 향상; 이중경화형 레진시멘트 사용.
 

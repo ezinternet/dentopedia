@@ -13,6 +13,9 @@ source_collection: external
 tags: [ibuprofen, paracetamol, acetaminophen, third-molar, extraction-pain, dosing-interval, concurrent, alternate, multimodal-analgesia, RCT]
 ---
 
+## One-line Summary
+Single-center RCT (Sci Rep 2025, n=56): ibuprofen+paracetamol alternating every 4 hours vs concurrent every 8 hours after impacted mandibular third-molar extraction — rescue medication required 15% (alternating) vs 53% (concurrent) (p=0.002); VAS pain scores not significantly different.
+
 ## 한줄요약
 하악 매복 3번째 대구치 발치 후 이부프로펜+파라세타몰 교대투여(매 4시간) vs 동시투여(매 8시간): 교대투여군 구제약 필요 15% vs 동시투여군 53%(p=0.002) — VAS 점수 차이는 유의하지 않음, 소규모 단일기관 RCT (Sci Rep 2025, n=56).
 

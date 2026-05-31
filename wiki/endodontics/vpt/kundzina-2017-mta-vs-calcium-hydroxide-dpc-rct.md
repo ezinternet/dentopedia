@@ -13,6 +13,9 @@ source_collection: external
 tags: [DPC, MTA, calcium-hydroxide, RCT, adult, carious-exposure, 3-year]
 ---
 
+## One-line Summary
+Multicenter RCT of DPC for carious pulp exposure in adult posterior teeth (70 patients, 3 years): MTA group showed superior survival rate vs Ca(OH)₂.
+
 ## 한줄요약
 성인 구치 우식 노출 DPC: MTA vs Ca(OH)₂ 다기관 RCT(70명, 3년) — MTA 군 생존율 우위.
 

@@ -13,6 +13,9 @@ source_collection: external
 tags: [3D-printing, hybrid-ceramic, NTAP, plasma, sandblasting, microshear, TheraCem, digital-workflow]
 ---
 
+## One-line Summary
+In vitro (Sci Rep 2026): NTAP plasma × sandblasting µSBS on 3D-printed hybrid ceramic — SP50 (50 µm SB + NTAP) highest at 2.70 MPa; overall low values indicate 3D-printed hybrid ceramics are a challenging substrate for adhesion.
+
 ## 한줄요약
 in-vitro(Sci Rep 2026): 3D프린팅 하이브리드 세라믹 NTAP 플라즈마 × 샌드블라스팅 µSBS — SP50(50µm SB+NTAP) 2.70 MPa 최고; 전반적 낮은 수치 — 3D프린팅 하이브리드 세라믹 접착 도전적 기질.
 
