@@ -1,0 +1,481 @@
+<!--
+---
+title: "ISQ·RFA 통합 시뮬레이터 v1 — 측정 → 궤적 → 부하결정"
+type: interactive
+date: 2026-06-02
+status: done
+agenda: agenda/2026-06-02_isq-rfa-simulation.md
+source_wiki:
+  - wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival.md
+  - wiki/implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma.md
+  - wiki/implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison.md
+  - wiki/implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq.md
+  - wiki/implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct.md
+  - wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary.md
+tags: [isq, rfa, loading-decision, simulator, education, smartpeg]
+notes: |
+  (A) RFA 측정 애니메이션 + (B) 부하결정 엔진 병합 v1. 단일 HTML, 외부 CDN 없음.
+  비의료기기·교육/의사결정 보조. 구버전 2026-06-02_isq-rfa-simulation.html 대체.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko"><head><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ISQ·RFA 통합 시뮬레이터 v1 — 측정 → 궤적 → 부하결정</title>
+<!--
+  통합 시뮬레이터 v1 (2026-06-02)
+  병합 대상:
+    (A) isq_rfa_simulation.html  — Beacon probe·SmartPeg·골 단면 RFA 애니메이션
+    (B) ISQ-Loading Calculator    — 부하결정 엔진
+  실제 데이터 정합 (no web search, wiki 근거):
+    - Andersson 2019 (retro, 745 Neoss): 식립 ISQ<70 5yr 실패 예측. DOI 10.1155/2019/3209872
+    - Tisci 2026 (SR+MA 48편): ISQ-IT r=0.44, I²>90% → ISQ는 보조지표. DOI 10.1111/cid.70156
+    - Bavetta 2024 (prosp, 80 임플란트): Osstell≡Osseo (r>0.95, 계통오차 없음) / D1-D2 ≫ D3-D4 전구간
+        ※ 구버전 계산기의 "Osseo -3 보정"은 원문에 없는 가정 → 제거함
+    - Stoilov 2023 (in-vitro PU foam): 직경>길이, tapered>parallel 모든 밀도
+    - Konuklu 2026 (RCT n=100): 식립 baseline ISQ>80, IT>30Ncm; 300rpm T4 최고
+    - Bergamo 2021 (dip 3주 최저 / 6주 회복). DOI 10.1111/cid.13007
+  비의료기기 · 교육/의사결정 보조 · 최종판단 원장.
+-->
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Malgun Gothic", sans-serif;
+    max-width: 940px; margin: 16px auto; padding: 12px;
+    background: #f6f6f4; color: #1f2421; line-height: 1.5;
+  }
+  h1 { font-size: 1.35em; margin: 0 0 2px; }
+  h1 .v { font-size: 0.5em; color: #8a8f8c; font-weight: 500; }
+  .subtitle { color: #6b716d; font-size: 0.85em; margin-bottom: 14px; }
+  .grid2 { display: grid; grid-template-columns: 1.05fr 1fr; gap: 14px; align-items: stretch; }
+  .card { background: #fff; border: 1px solid #e2e2dd; border-radius: 10px; padding: 12px 14px; margin-bottom: 12px; }
+  .card h2 { font-size: 0.98em; margin: 0 0 9px; color: #353a37; }
+  canvas { display: block; width: 100%; }
+  .rigwrap { background: #f1efe8; border-radius: 8px; padding: 8px; }
+  .rigcap { text-align:center; font-size: 10.5px; color: #9a9a90; margin-top: 4px; }
+
+  .isqline { display:flex; align-items:baseline; gap:9px; margin-bottom:2px; }
+  #isqval { font-size: 44px; font-weight: 600; line-height: 1; letter-spacing: -1px; }
+  .isqunit { font-size: 13px; color: #6b716d; }
+  #zone { margin-left:auto; font-size:12px; padding:3px 11px; border-radius:6px; font-weight:600; }
+  .freq { font-size:12px; color:#6b716d; margin-bottom:8px; }
+  .freq b { color:#1f2421; font-weight:600; }
+
+  label { display:flex; justify-content:space-between; font-size: 0.82em; color:#4a504c; margin: 9px 0 2px; }
+  label .out { color:#1f2421; font-weight:600; }
+  select, input[type=number] {
+    width:100%; padding:7px 8px; font-size:0.92em; border:1px solid #c7c7bf;
+    border-radius:5px; background:#fff;
+  }
+  input[type=range]{ width:100%; margin:2px 0; }
+  .row2 { display:grid; grid-template-columns:1fr 1fr; gap:8px; }
+  .row4 { display:grid; grid-template-columns:1fr 1fr 1fr 1fr; gap:6px; }
+
+  .result { margin-top:10px; padding:12px; border-radius:7px; border-left:5px solid #ccc; background:#f7f7f5; }
+  .result.green { border-color:#16a34a; background:#f0fdf4; }
+  .result.yellow { border-color:#ca8a04; background:#fefce8; }
+  .result.red { border-color:#dc2626; background:#fef2f2; }
+  .result h3 { margin:0 0 5px; font-size:1.04em; }
+  .result .rec { font-weight:600; margin:5px 0; font-size:0.92em; }
+  .result ul { margin:5px 0 0; padding-left:18px; font-size:0.83em; color:#444; }
+  .flags { display:flex; gap:5px; flex-wrap:wrap; margin:4px 0; }
+  .flag { display:inline-block; padding:2px 8px; font-size:0.78em; background:#e8e8e3; border-radius:3px; color:#3a3f3c; }
+  .flag.warn { background:#fef3c7; color:#92400e; }
+  .flag.bad { background:#fee2e2; color:#991b1b; }
+  .flag.ok { background:#dcfce7; color:#166534; }
+
+  .legend { display:flex; gap:14px; flex-wrap:wrap; font-size:0.78em; color:#5a605c; margin-top:6px; }
+  .legend i { display:inline-block; width:18px; height:3px; border-radius:2px; vertical-align:middle; margin-right:4px; }
+  details { margin-top:6px; }
+  summary { cursor:pointer; font-size:0.85em; color:#4a504c; }
+  .evid { font-size:0.74em; color:#777; margin-top:8px; padding-top:8px; border-top:1px dashed #ddd; }
+  .tag { font-size:0.72em; padding:1px 5px; border-radius:3px; background:#eef2ff; color:#3949ab; margin-left:3px; }
+  .tag.consensus { background:#ecfdf5; color:#047857; }
+  .tag.claude { background:#fff7ed; color:#9a3412; }
+  .footer { margin-top:16px; font-size:0.74em; color:#999; text-align:center; }
+</style></head>
+<body>
+
+<h1>ISQ·RFA 통합 시뮬레이터 <span class="v">v1 · 측정→궤적→부하결정</span></h1>
+<div class="subtitle">Beacon/SmartPeg 공진측정 시각화 + 실제 논문 치유궤적 + 부하 결정엔진을 한 화면에. 입력을 바꾸면 좌측 rig·스펙트럼·우측 판정·하단 궤적이 동시에 반응.</div>
+
+<div class="grid2">
+  <!-- LEFT: RFA rig -->
+  <div class="card">
+    <h2>① 공진주파수 측정 (RFA)</h2>
+    <div class="rigwrap">
+      <canvas id="rig" height="300" role="img" aria-label="Beacon 프로브가 SmartPeg에 자기펄스를 보내 공진시키는 골 단면"></canvas>
+    </div>
+    <div class="rigcap"><span style="font-size:13px;">〜</span> Beacon probe 자기펄스(비접촉) → SmartPeg 공진 · 진폭/속도는 강성 직관용 스케일</div>
+    <canvas id="spec" height="90" style="margin-top:8px;" role="img" aria-label="공진주파수 스펙트럼 피크"></canvas>
+  </div>
+
+  <!-- RIGHT: readout + controls + decision -->
+  <div class="card">
+    <div class="isqline">
+      <span id="isqval">—</span><span class="isqunit">ISQ</span>
+      <span id="zone">—</span>
+    </div>
+    <div class="freq">상대 공진주파수 <b id="freqval">—</b> Hz <span style="color:#9a9a90;">(예시 스케일)</span></div>
+
+    <label>골질 <span class="out" id="boneOut">D2</span></label>
+    <select id="bone">
+      <option value="D1">D1 — 치밀 피질골</option>
+      <option value="D2" selected>D2 — 두꺼운 피질 + 치밀 해면</option>
+      <option value="D3">D3 — 얇은 피질 + 저밀 해면</option>
+      <option value="D4">D4 — 거의 해면골</option>
+    </select>
+
+    <div class="row2">
+      <div>
+        <label>직경 <span class="out" id="diaOut">4.0 mm</span></label>
+        <input type="range" id="dia" min="3" max="5.5" step="0.1" value="4">
+      </div>
+      <div>
+        <label>거시디자인 <span class="out" id="dzOut">Tapered</span></label>
+        <select id="dz"><option value="tap" selected>Tapered (TE)</option><option value="par">Parallel</option></select>
+      </div>
+    </div>
+
+    <label>골유착도 (2차 안정성) <span class="out" id="integOut">60%</span></label>
+    <input type="range" id="integ" min="0" max="100" step="5" value="60">
+
+    <div class="row2">
+      <div>
+        <label>변연골 노출 MBL <span class="out" id="expOut">0.0 mm</span></label>
+        <input type="range" id="exp" min="0" max="5" step="0.5" value="0">
+      </div>
+      <div>
+        <label>식립 후 경과 <span class="out" id="wkOut">0주</span></label>
+        <input type="range" id="wk" min="0" max="26" step="1" value="0">
+      </div>
+    </div>
+
+    <div class="row2" style="margin-top:4px;">
+      <div>
+        <label>시점</label>
+        <select id="tp">
+          <option value="placement" selected>식립 직후</option>
+          <option value="healing">치유기 재측정</option>
+          <option value="loading">보철 전 최종</option>
+        </select>
+      </div>
+      <div>
+        <label>삽입토크 ITV (Ncm)</label>
+        <input type="number" id="itv" min="0" max="80" step="5" placeholder="선택">
+      </div>
+    </div>
+
+    <div style="margin-top:8px; padding-top:8px; border-top:1px dashed #e2e2dd;">
+      <label style="margin-top:0;">2방향 실측 입력 <span class="out" style="font-weight:500; color:#8a8f8c;">입력 시 예측값 대체 + 산포 검사</span></label>
+      <div class="row2" style="margin-top:2px;">
+        <div><label style="display:block; margin:0 0 2px;">협측 (B)</label><input type="number" id="b" min="20" max="95" placeholder="ISQ"></div>
+        <div><label style="display:block; margin:0 0 2px;">설측 (L)</label><input type="number" id="l" min="20" max="95" placeholder="ISQ"></div>
+      </div>
+    </div>
+
+    <div id="result"></div>
+  </div>
+</div>
+
+<!-- BOTTOM: healing trajectory -->
+<div class="card">
+  <h2>② 실제 치유궤적 대비 (Bavetta 2024 + Bergamo 2021)</h2>
+  <canvas id="traj" height="230" role="img" aria-label="ISQ 치유궤적: D1-D2 / D3-D4 밴드, 3주 dip, Andersson 임계선, 현재 측정점"></canvas>
+  <div class="legend">
+    <span><i style="background:#1d9e75"></i>D1–D2 기대궤적</span>
+    <span><i style="background:#ef9f27"></i>D3–D4 기대궤적</span>
+    <span><i style="background:#dc2626"></i>ISQ 70 임계선 (Andersson 2019)</span>
+    <span><i style="background:#2563eb;height:9px;width:9px;border-radius:50%"></i>현재 측정점</span>
+  </div>
+  <div class="evid">
+    Bavetta 2024 [<span class="tag consensus">합의수준</span>]: D1–D2가 전 시점 D3–D4보다 유의하게 높은 ISQ, 양 군 점진 상승. ·
+    Bergamo 2021 [<span class="tag consensus">합의수준</span>]: 1·2차 안정성 전환기 ISQ는 약 3주 최저 → 6주 회복(연질골일수록 dip 깊고 회복 지연). ·
+    곡선 절댓값은 wiki 추세를 반영한 보간치 [<span class="tag claude">claude해석</span>].
+  </div>
+</div>
+
+<div class="footer">
+  통합 시뮬레이터 v1 · 2026-06-02 · 단일 HTML / 오프라인 · 비의료기기 교육·의사결정 보조 도구 · 최종 판단은 원장
+</div>
+
+<script>
+(function(){
+  "use strict";
+  // ── 실제 데이터 정합 상수 (wiki 근거) ──
+  // 식립 시 1차 안정성 base ISQ (4.0mm tapered 기준): Bavetta 2024 D1-D2≫D3-D4, Andersson 70 임계
+  var BASE = { D1:73, D2:70, D3:63, D4:58 };
+  // 골유착 완료 시 2차 안정성 상한 추가폭(연질골이 더 크게 상승: Bavetta 궤적):
+  var CEIL = { D1:5, D2:6, D3:9, D4:11 };
+  // 치유궤적 앵커 [주, ISQ] — Bergamo 3주 dip + 6주 회복, Bavetta 점진 상승
+  var TRAJ = {
+    hard: [[0,72],[3,69],[6,73],[12,76],[26,78]],   // D1-D2
+    soft: [[0,62],[3,57],[8,64],[12,68],[26,73]]     // D3-D4
+  };
+  var ISQ_MIN_F = 3500, ISQ_MAX_F = 8500;
+
+  var S = { bone:'D2', dia:4.0, dz:'tap', integ:60, exp:0, wk:0, tp:'placement' };
+
+  function $(id){ return document.getElementById(id); }
+  function lerpAnchors(arr, wk){
+    if(wk<=arr[0][0]) return arr[0][1];
+    if(wk>=arr[arr.length-1][0]) return arr[arr.length-1][1];
+    for(var i=0;i<arr.length-1;i++){ if(wk>=arr[i][0] && wk<=arr[i+1][0]){
+      var t=(wk-arr[i][0])/(arr[i+1][0]-arr[i][0]); return arr[i][1]+t*(arr[i+1][1]-arr[i][1]); } }
+    return arr[arr.length-1][1];
+  }
+
+  // 예측 ISQ (rig 슬라이더 → 1차+2차 안정성)
+  function predictISQ(){
+    var v = BASE[S.bone] + (S.dia-4.0)*4 + (S.dz==='tap'?3:0)
+          + (S.integ/100)*CEIL[S.bone] - S.exp*2.5;
+    return Math.max(20, Math.min(88, v));
+  }
+  // 실측 2방향 협·설 (둘 다 입력 시 우선)
+  function measured(){
+    var vs=['b','l'].map(function(k){ var x=$(k).value; return x===''?null:+x; });
+    if(vs.some(function(x){return x===null;})) return null;
+    var mean=(vs[0]+vs[1])/2;
+    var diff=Math.abs(vs[0]-vs[1]);  // 두 방향 차이 = 산포
+    return { mean:mean, diff:diff };
+  }
+  function freqFromISQ(isq){ return Math.round(ISQ_MIN_F + (isq-20)/68*(ISQ_MAX_F-ISQ_MIN_F)); }
+  function zoneOf(isq){
+    if(isq>=70) return {n:'High', fg:'#0f6e56', bg:'#dcf5ec', line:'#1d9e75'};
+    if(isq>=60) return {n:'Medium', fg:'#854f0b', bg:'#faeeda', line:'#ef9f27'};
+    return {n:'Low', fg:'#a32d2d', bg:'#fcebeb', line:'#e24b4a'};
+  }
+
+  // ── 부하 결정엔진 (Andersson 70 + Tisci 보조지표 caveat + dip) ──
+  function decide(isq, meas){
+    var flags=[], notes=[], level, head, rec;
+    var itv = $('itv').value===''?null:+$('itv').value;
+
+    // 산포 (실측 있을 때만) — 협·설 두 방향 차이 기반
+    if(meas){
+      if(meas.diff>=10){ flags.push(['bad','협설 차이 ≥10 ('+meas.diff.toFixed(0)+') — 재측정 권고']); }
+      else if(meas.diff>=6){ flags.push(['warn','협설 차이 주의 '+meas.diff.toFixed(0)]); }
+      else { flags.push(['ok','협설 차이 양호 '+meas.diff.toFixed(0)]); }
+      notes.push('실측 2방향(협·설) 평균 '+meas.mean.toFixed(1)+' 사용');
+    } else {
+      notes.push('rig 예측 ISQ '+isq.toFixed(1)+' 사용 (실측 입력 시 대체)');
+    }
+    notes.push('골질 '+S.bone+' · 직경 '+S.dia.toFixed(1)+'mm · '+(S.dz==='tap'?'tapered':'parallel'));
+
+    // dip 해석 (경과 주수 + 시점)
+    if(S.tp!=='placement' && S.wk>0){
+      var exp = lerpAnchors((S.bone==='D1'||S.bone==='D2')?TRAJ.hard:TRAJ.soft, S.wk);
+      var gap = isq - exp;
+      if(S.wk>=2 && S.wk<=5 && gap>-4) flags.push(['warn','3주 전후 dip 구간 — 일시적 하강은 정상 (Bergamo 2021)']);
+      else if(gap<=-6) flags.push(['bad','기대궤적 대비 '+gap.toFixed(0)+' 하회 — 골유착 부진 의심']);
+    }
+
+    var bonus = (S.bone==='D4')?2:0; // 연질골 보수적 가산
+
+    if(S.tp==='placement'){
+      if(isq>=70 && itv!==null && itv>=35){ level='green'; head='즉시부하 후보'; rec='ISQ≥70 + ITV≥35 Ncm — 즉시부하 검토 가능 (원장 확인).'; }
+      else if(isq>=70){ level='green'; head='조기부하 후보'; rec='ISQ≥70 — ITV 확인 후 6~8주 조기부하 검토 (ITV '+(itv===null?'미입력':itv+'Ncm')+').'; }
+      else if(isq>=65+bonus){ level='yellow'; head='표준 healing'; rec='ISQ '+isq.toFixed(1)+' — 표준 치유 후 재측정(목표 ≥70).'; }
+      else { level='red'; head='부하 보류 — 원장 보고'; rec='ISQ '+isq.toFixed(1)+' < '+(65+bonus)+' — 부하 보류, 식립 protocol·CBCT 재평가.'; }
+    } else if(S.tp==='healing'){
+      if(isq>=70){ level='green'; head='보철 진행 가능'; rec='ISQ≥70 — 최종 보철 진입, 보철 전 1회 추가 측정.'; }
+      else if(isq>=60){ level='yellow'; head='추가 healing 4–6주'; rec='ISQ '+isq.toFixed(1)+' — dip 가능성 고려해 추세 재확인.'; }
+      else { level='red'; head='원장 보고 — CBCT'; rec='ISQ '+isq.toFixed(1)+' <60 — 골유착 부진 가능성.'; }
+    } else { // loading
+      if(isq>=70){ level='green'; head='부하 OK'; rec='ISQ≥70 — 예정 보철 부하 진행.'; }
+      else if(isq>=65){ level='yellow'; head='조건부 부하'; rec='ISQ '+isq.toFixed(1)+' — occlusion 조정·cantilever 회피, 원장 결정.'; }
+      else { level='red'; head='부하 금지'; rec='ISQ '+isq.toFixed(1)+' <65 — 추가 healing 또는 제거 검토.'; }
+    }
+    return {level:level, head:head, rec:rec, flags:flags, notes:notes};
+  }
+
+  // ── 렌더 ──
+  function refresh(){
+    var meas = measured();
+    var isq = meas ? meas.mean : predictISQ();
+    var zc = zoneOf(isq);
+    $('isqval').textContent = Math.round(isq);
+    $('freqval').textContent = freqFromISQ(isq);
+    var z=$('zone'); z.textContent=zc.n; z.style.background=zc.bg; z.style.color=zc.fg;
+
+    var dec = decide(isq, meas);
+    var fl = dec.flags.map(function(f){ return '<span class="flag '+f[0]+'">'+f[1]+'</span>'; }).join('');
+    $('result').innerHTML =
+      '<div class="result '+dec.level+'">'
+      + '<h3>'+dec.head+'</h3>'
+      + '<div class="flags">'+fl+'</div>'
+      + '<div class="rec">'+dec.rec+'</div>'
+      + '<ul>'+dec.notes.map(function(n){return '<li>'+n+'</li>';}).join('')+'</ul>'
+      + '<div class="evid">근거: Andersson 2019 (식립 ISQ&lt;70 5yr 위험)<span class="tag consensus">합의</span> · '
+      + 'Tisci 2026 SR+MA — ISQ는 IT·임상과 병행할 <b>보조지표</b>, 단독 생존 예측 한계 (r=0.44, I²&gt;90%)<span class="tag">근거강함</span></div>'
+      + '</div>';
+
+    window.__isq = isq; window.__zc = zc;
+    drawSpec();
+    drawTraj();
+  }
+
+  // 캔버스 DPI
+  function dpi(cv){ var ctx=cv.getContext('2d'), r=window.devicePixelRatio||1, w=cv.clientWidth, h=cv.clientHeight; cv.width=w*r; cv.height=h*r; ctx.setTransform(r,0,0,r,0,0); return {ctx:ctx,w:w,h:h}; }
+
+  // 스펙트럼
+  function drawSpec(){
+    var d=dpi($('spec')), sc=d.ctx; sc.clearRect(0,0,d.w,d.h);
+    var padL=6,padR=6,plotW=d.w-padL-padR,baseY=d.h-20,topY=8, f=freqFromISQ(window.__isq), zc=window.__zc;
+    sc.strokeStyle='rgba(120,120,110,0.35)'; sc.lineWidth=1;
+    sc.beginPath(); sc.moveTo(padL,baseY); sc.lineTo(d.w-padR,baseY); sc.stroke();
+    [3500,5000,6000,7000,8500].forEach(function(tk){ var x=padL+(tk-ISQ_MIN_F)/(ISQ_MAX_F-ISQ_MIN_F)*plotW;
+      sc.beginPath(); sc.moveTo(x,baseY); sc.lineTo(x,baseY+4); sc.stroke();
+      sc.fillStyle='rgba(120,120,110,0.9)'; sc.font='9px sans-serif'; sc.textAlign='center';
+      sc.fillText(Math.round((tk-ISQ_MIN_F)/(ISQ_MAX_F-ISQ_MIN_F)*68+20), x, baseY+14); });
+    var sigma=620;
+    function peak(){ for(var i=0;i<=plotW;i++){ var fx=ISQ_MIN_F+i/plotW*(ISQ_MAX_F-ISQ_MIN_F);
+      var a=Math.exp(-Math.pow(fx-f,2)/(2*sigma*sigma)); var y=baseY-a*(baseY-topY);
+      if(i===0)sc.moveTo(padL+i,y); else sc.lineTo(padL+i,y);} }
+    sc.beginPath(); peak(); sc.lineTo(d.w-padR,baseY); sc.lineTo(padL,baseY); sc.closePath(); sc.fillStyle=zc.bg; sc.fill();
+    sc.beginPath(); peak(); sc.strokeStyle=zc.line; sc.lineWidth=1.6; sc.stroke();
+    var px=padL+(f-ISQ_MIN_F)/(ISQ_MAX_F-ISQ_MIN_F)*plotW;
+    sc.setLineDash([3,3]); sc.lineWidth=1; sc.strokeStyle=zc.line; sc.beginPath(); sc.moveTo(px,topY); sc.lineTo(px,baseY); sc.stroke(); sc.setLineDash([]);
+  }
+
+  // 치유궤적
+  function drawTraj(){
+    var d=dpi($('traj')), c=d.ctx; c.clearRect(0,0,d.w,d.h);
+    var padL=34,padR=12,padT=12,padB=24, W=d.w-padL-padR, H=d.h-padT-padB;
+    var xmax=26, ymin=50, ymax=82;
+    function X(wk){ return padL + wk/xmax*W; }
+    function Y(isq){ return padT + (ymax-isq)/(ymax-ymin)*H; }
+    // grid y
+    c.font='9px sans-serif'; c.textAlign='right'; c.textBaseline='middle';
+    [50,55,60,65,70,75,80].forEach(function(g){ var y=Y(g);
+      c.strokeStyle='rgba(120,120,110,0.13)'; c.beginPath(); c.moveTo(padL,y); c.lineTo(d.w-padR,y); c.stroke();
+      c.fillStyle='rgba(120,120,110,0.85)'; c.fillText(g,padL-5,y); });
+    // x ticks
+    c.textAlign='center'; c.textBaseline='top';
+    [0,3,6,12,18,26].forEach(function(wk){ var x=X(wk);
+      c.fillStyle='rgba(120,120,110,0.85)'; c.fillText(wk+'주',x,d.h-padB+4); });
+    // Andersson 70 임계선
+    var y70=Y(70); c.strokeStyle='#dc2626'; c.setLineDash([5,4]); c.lineWidth=1.3;
+    c.beginPath(); c.moveTo(padL,y70); c.lineTo(d.w-padR,y70); c.stroke(); c.setLineDash([]);
+    // 밴드 곡선
+    function curve(anchors,color){
+      c.strokeStyle=color; c.lineWidth=2.2; c.beginPath();
+      for(var wk=0;wk<=xmax;wk+=0.5){ var y=Y(lerpAnchors(anchors,wk)); if(wk===0)c.moveTo(X(0),y); else c.lineTo(X(wk),y); }
+      c.stroke();
+    }
+    curve(TRAJ.hard,'#1d9e75'); curve(TRAJ.soft,'#ef9f27');
+    // dip 마커 (3주)
+    c.fillStyle='rgba(120,120,110,0.6)'; c.font='9px sans-serif'; c.textAlign='center';
+    c.fillText('3주 dip', X(3), Y(56.5));
+    // 현재 측정점
+    var isq=window.__isq, wk=S.wk;
+    var px=X(Math.min(wk,xmax)), py=Y(Math.max(ymin,Math.min(ymax,isq)));
+    c.strokeStyle='rgba(37,99,235,0.35)'; c.setLineDash([2,3]); c.lineWidth=1;
+    c.beginPath(); c.moveTo(px,padT); c.lineTo(px,d.h-padB); c.stroke(); c.setLineDash([]);
+    c.fillStyle='#2563eb'; c.beginPath(); c.arc(px,py,5,0,Math.PI*2); c.fill();
+    c.strokeStyle='#fff'; c.lineWidth=1.5; c.stroke();
+    c.fillStyle='#2563eb'; c.font='600 10px sans-serif'; c.textAlign='left';
+    c.fillText(Math.round(isq), px+8, py-6);
+  }
+
+  // ── RFA rig 애니메이션 (isq_rfa_simulation.html 어댑트, 실색상) ──
+  var trab=null, trabKey='';
+  function drawRig(t){
+    var d=dpi($('rig')), rc=d.ctx; rc.clearRect(0,0,d.w,d.h);
+    var isq=window.__isq||predictISQ(), zc=window.__zc||zoneOf(isq), f=freqFromISQ(isq);
+    var cx=d.w/2, crestY=d.h*0.56, boneW=d.w*0.80, bx=cx-boneW/2, boneBottom=d.h-6;
+    var pxPerMm=6.5, exposedPx=S.exp*pxPerMm, implW=S.dia*8.0, implBottom=crestY+(boneBottom-4-crestY)*0.55, run=18;
+    function surf(x){ var dx=Math.abs(x-cx); if(dx<=implW/2) return crestY+exposedPx; if(dx<implW/2+run){ var r=(dx-implW/2)/run; var s=(1-Math.cos(r*Math.PI))/2; return crestY+exposedPx*(1-s);} return crestY; }
+    // bone body
+    rc.fillStyle='#e9e1d0'; rc.beginPath(); rc.moveTo(bx,boneBottom); rc.lineTo(bx,surf(bx));
+    for(var x=bx;x<=bx+boneW;x+=2){ rc.lineTo(x,surf(x)); } rc.lineTo(bx+boneW,boneBottom); rc.closePath(); rc.fill();
+    // trabeculae 밀도 = 골질
+    var dens={D1:90,D2:66,D3:44,D4:26}[S.bone];
+    var key=Math.round(d.w)+'x'+Math.round(d.h)+S.bone;
+    if(trabKey!==key){ trab=[]; for(var i=0;i<dens;i++){ trab.push({ x:bx+((i*0.6180339887)%1)*boneW, y:crestY+10+((i*0.317)%1)*(boneBottom-crestY-14), a:((i*0.123)%1)-0.5 }); } trabKey=key; }
+    rc.strokeStyle='rgba(120,112,94,0.30)'; rc.lineWidth=1.3;
+    trab.forEach(function(p){ if(p.y>surf(p.x)+9){ rc.beginPath(); rc.moveTo(p.x-3,p.y-p.a*3); rc.lineTo(p.x+3,p.y+p.a*3); rc.stroke(); } });
+    // cortical line
+    rc.strokeStyle='#c7bda6'; rc.lineWidth=8; rc.lineCap='round';
+    rc.beginPath(); var stt=false; for(var xa=bx;xa<=cx-implW/2;xa+=2){ if(!stt){rc.moveTo(xa,surf(xa));stt=true;} else rc.lineTo(xa,surf(xa)); } rc.stroke();
+    rc.beginPath(); stt=false; for(var xb=cx+implW/2;xb<=bx+boneW;xb+=2){ if(!stt){rc.moveTo(xb,surf(xb));stt=true;} else rc.lineTo(xb,surf(xb)); } rc.stroke();
+
+    var visualHz=1+(f-3500)/5000*3, ns=f/7000, ampRad=(1.3/ns)*Math.PI/180;
+    var angle=ampRad*Math.sin(2*Math.PI*visualHz*t/1000);
+    var pivotY=crestY+exposedPx, pegTopY=crestY-56;
+    // 픽스쳐(임플란트)는 정적 — 회전 미적용
+    // ── 임플란트 본체 (정적) — 매끈한 실루엣 + 가장자리 나사산 ──
+    var L=implBottom-crestY, R0=implW/2, td=Math.max(R0*0.22,2.0);
+    var taper=(S.dz==='tap')?1:0, tipFrac=0.80;
+    function envR(tt){                                   // 나사산 외경(실루엣)
+      var k=taper?0.15:0.03; var r=R0*(1-k*tt);          // tapered는 점진 축소
+      if(tt>tipFrac){ var u=(tt-tipFrac)/(1-tipFrac); r*=(1-0.9*u); } // 첨부 수렴
+      return Math.max(r,0.6);
+    }
+    var grad=rc.createLinearGradient(cx-R0,0,cx+R0,0);
+    grad.addColorStop(0,'#67665e'); grad.addColorStop(0.45,'#918f85'); grad.addColorStop(0.82,'#797870'); grad.addColorStop(1,'#5d5c55');
+    rc.fillStyle=grad; rc.strokeStyle='#55544f'; rc.lineWidth=1; rc.lineJoin='round';
+    rc.beginPath(); rc.moveTo(cx-envR(0),crestY);
+    for(var y=crestY;y<=implBottom-2;y+=2){ rc.lineTo(cx-envR((y-crestY)/L),y); }
+    rc.lineTo(cx,implBottom);                            // 첨부 한 점으로
+    for(var y2=implBottom-2;y2>=crestY;y2-=2){ rc.lineTo(cx+envR((y2-crestY)/L),y2); }
+    rc.closePath(); rc.fill(); rc.stroke();
+    // 나사산 — 하향 셰브론(∨) = 정상 스크류 나사 형태
+    rc.strokeStyle='rgba(74,73,68,0.75)'; rc.lineWidth=1; rc.lineJoin='round';
+    var pitch=5.0, av=2.4;
+    for(var ty=crestY+5; ty<implBottom-3; ty+=pitch){
+      var tt=(ty-crestY)/L, r=envR(tt)*0.94; if(r<1.2) continue;
+      rc.beginPath(); rc.moveTo(cx-r,ty-av); rc.lineTo(cx,ty+av); rc.lineTo(cx+r,ty-av); rc.stroke();
+    }
+    // 길이방향 하이라이트
+    rc.strokeStyle='rgba(255,255,255,0.12)'; rc.lineWidth=2;
+    rc.beginPath(); rc.moveTo(cx-R0*0.22,crestY+5); rc.lineTo(cx-R0*0.12,implBottom-8); rc.stroke();
+    rc.fillStyle='#4a4945'; rc.beginPath(); rc.moveTo(cx-R0*0.45,crestY); rc.lineTo(cx+R0*0.45,crestY); rc.lineTo(cx+R0*0.24,crestY+8); rc.lineTo(cx-R0*0.24,crestY+8); rc.closePath(); rc.fill();
+    // ── SmartPeg만 미세 진동 — 픽스쳐 base(pivotY)를 축으로 회전 ──
+    rc.save(); rc.translate(cx,pivotY); rc.rotate(angle); rc.translate(-cx,-pivotY);
+    var tabTop=pegTopY, tabW=7, tabBot=tabTop+15, bodyTop=tabBot, halfW=6;
+    rc.fillStyle='#f1f0ea'; rc.beginPath(); rc.moveTo(cx-halfW,crestY); rc.lineTo(cx-halfW,bodyTop+3);
+    rc.quadraticCurveTo(cx-halfW,bodyTop,cx-halfW+3,bodyTop); rc.lineTo(cx+halfW-3,bodyTop);
+    rc.quadraticCurveTo(cx+halfW,bodyTop,cx+halfW,bodyTop+3); rc.lineTo(cx+halfW,crestY); rc.closePath(); rc.fill();
+    rc.fillStyle='#fbfaf7'; rc.fillRect(cx-halfW+1,bodyTop+3,2,crestY-bodyTop-3);
+    rc.fillStyle='#dad9d2'; rc.fillRect(cx+halfW-2,bodyTop+3,2,crestY-bodyTop-3);
+    rc.fillStyle='#8f8f88'; rc.beginPath(); rc.moveTo(cx-tabW/2,tabBot); rc.lineTo(cx-tabW/2,tabTop+2);
+    rc.quadraticCurveTo(cx-tabW/2,tabTop,cx-tabW/2+2,tabTop); rc.lineTo(cx+tabW/2-2,tabTop);
+    rc.quadraticCurveTo(cx+tabW/2,tabTop,cx+tabW/2,tabTop+2); rc.lineTo(cx+tabW/2,tabBot); rc.closePath(); rc.fill();
+    var magX=cx-(pegTopY-pivotY)*Math.sin(angle), magY=pegTopY;
+    rc.restore();
+    // Beacon probe
+    var ptx=cx-4, pty=pegTopY-18;
+    rc.save(); rc.translate(ptx,pty); rc.rotate(-0.4);
+    var pw=24, ph=118; rc.fillStyle='#43434a'; rc.beginPath();
+    rc.moveTo(-pw/2,-2); rc.lineTo(-pw/2,-ph+10); rc.quadraticCurveTo(-pw/2,-ph,-pw/2+10,-ph);
+    rc.lineTo(pw/2-10,-ph); rc.quadraticCurveTo(pw/2,-ph,pw/2,-ph+10); rc.lineTo(pw/2,-6);
+    rc.quadraticCurveTo(pw/2,3,pw/2-7,5); rc.lineTo(-pw/2+4,5); rc.quadraticCurveTo(-pw/2,3,-pw/2,-2); rc.closePath(); rc.fill();
+    rc.fillStyle='#33333a'; rc.beginPath(); rc.ellipse(1,2,pw/2-3,4.5,0,0,Math.PI*2); rc.fill();
+    rc.fillStyle='#b06b6b'; rc.beginPath(); rc.ellipse(2,2,4.5,2.6,0,0,Math.PI*2); rc.fill(); rc.restore();
+    // 자기펄스
+    var pulse=(Math.sin(2*Math.PI*visualHz*t/1000)+1)/2; rc.strokeStyle=zc.line;
+    for(var p2=0;p2<3;p2++){ var rr=6+p2*6+pulse*5; rc.globalAlpha=0.5-p2*0.13-pulse*0.1; rc.lineWidth=1.5;
+      rc.beginPath(); rc.arc(magX,magY,rr,-Math.PI*0.96,-Math.PI*0.04); rc.stroke(); }
+    rc.globalAlpha=1;
+    rc.fillStyle='rgba(120,120,110,0.95)'; rc.font='10px sans-serif'; rc.textAlign='left';
+    rc.fillText('SmartPeg', cx+halfW+10, magY+30);
+    rc.fillText('Beacon', ptx-50, pty-40);
+  }
+
+  // ── 이벤트 ──
+  $('bone').addEventListener('change',function(e){ S.bone=e.target.value; $('boneOut').textContent=e.target.value; refresh(); });
+  $('dia').addEventListener('input',function(e){ S.dia=+e.target.value; $('diaOut').textContent=(+e.target.value).toFixed(1)+' mm'; refresh(); });
+  $('dz').addEventListener('change',function(e){ S.dz=e.target.value; $('dzOut').textContent=(e.target.value==='tap'?'Tapered':'Parallel'); refresh(); });
+  $('integ').addEventListener('input',function(e){ S.integ=+e.target.value; $('integOut').textContent=e.target.value+'%'; refresh(); });
+  $('exp').addEventListener('input',function(e){ S.exp=+e.target.value; $('expOut').textContent=(+e.target.value).toFixed(1)+' mm'; refresh(); });
+  $('wk').addEventListener('input',function(e){ S.wk=+e.target.value; $('wkOut').textContent=e.target.value+'주'; refresh(); });
+  $('tp').addEventListener('change',function(e){ S.tp=e.target.value; refresh(); });
+  ['itv','b','l'].forEach(function(id){ $(id).addEventListener('input',refresh); });
+
+  refresh();
+  (function loop(t){ drawRig(t); requestAnimationFrame(loop); })(0);
+  window.addEventListener('resize', function(){ refresh(); });
+})();
+</script>
+</body></html>
