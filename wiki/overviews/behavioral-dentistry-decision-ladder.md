@@ -13,6 +13,9 @@ source_collection: synthesis
 tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communication, attendance, decision-ladder, overview]
 ---
 
+> [!note] Part of a larger synthesis → [[behavioral-dentistry-overview]]
+> 이 페이지는 MI·커뮤니케이션·attendance 3축에 집중한 decision ladder다. 2026-06-02 환자 커뮤니케이션·PRO·치과불안 논문 13편이 추가되며 카테고리가 4 하위축으로 확장됐다. 전체 18편 통합은 master overview [[behavioral-dentistry-overview]] 참조.
+
 ## 한줄요약
 
 행동치의학 3축 — 동기면담 (MI) 효과 · 치과의사-환자 커뮤니케이션 스킬 framework · 통증-only 환자 정기검진 유도. Jahanshahi 2022 SR+MA (ECC) + Cartes-Velasquez 2024 SR+MA (성인 치주) + Lundahl 2013 SR+MA (의료 일반).
@@ -33,9 +36,9 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] | sr+ma (6 RCT n=2,776) | ECC 예방 효과. Quality > 횟수. ≥3y 필요 |
-| [[behavioral-dentistry/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] | sr+ma (7 RCT, 성인) | BoP -6.41pp만 유의. Plaque·GI NS. 성인 효과 결론 보류 |
-| [[behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings]] | sr+ma (48 RCT n=9,618) | 의료 일반 OR 1.55 (1.40-1.71). 짧은 상담에서도 작동 |
+| [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] | sr+ma (6 RCT n=2,776) | ECC 예방 효과. Quality > 횟수. ≥3y 필요 |
+| [[behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] | sr+ma (7 RCT, 성인) | BoP -6.41pp만 유의. Plaque·GI NS. 성인 효과 결론 보류 |
+| [[behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]] | sr+ma (48 RCT n=9,618) | 의료 일반 OR 1.55 (1.40-1.71). 짧은 상담에서도 작동 |
 
 **임상 ladder (MI 적응)**:
 1. **소아·영유아 + 보호자 행동 변화 필요** → MI 강력 권고. Jahanshahi 2022가 SR+MA 효과 입증. 세션 quality 우선, 정기 reinforcement (≥3y) 필요.
@@ -50,7 +53,7 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication]] | sr (50편) | 26 skills × 4 categories (generic·case-specific·time-specific·emerging). 교육법 비교 부재 |
+| [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] | sr (50편) | 26 skills × 4 categories (generic·case-specific·time-specific·emerging). 교육법 비교 부재 |
 
 **임상 적용 (Khalifah 2019 framework)**:
 - **Generic skills** — 경청, 공감, 명확한 설명, 개방형 질문 (전 환자 공통).
@@ -69,7 +72,7 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[behavioral-dentistry/currie-2021-promoting-regular-dental-attendance-problem]] | sr (3편) | 영국 1/3이 통증-only attender. 단 3편 (불안 클리닉·광고·무료 검진). Evidence 빈약 |
+| [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] | sr (3편) | 영국 1/3이 통증-only attender. 단 3편 (불안 클리닉·광고·무료 검진). Evidence 빈약 |
 
 **핵심 인식**: 통증이 없으면 치과에 안 오는 환자가 영국 인구의 약 1/3. 한국도 유사 추정. 그러나 attendance promotion intervention의 evidence는 **3편 SR**로 매우 빈약.
 
