@@ -5,7 +5,7 @@ year: 2022
 date: 2022-06-01
 doi: 10.30476/DENTJODS.2021.87985.1303
 source: jahanshahi-2022-motivational-interviewing-prevent-early-childhood.md
-category: behavioral-dentistry
+category: behavioral-dentistry/motivational-interviewing
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jahanshahi-2022-motivational-interviewing-prevent-early-childhood.pdf
 pdf_filename: jahanshahi-2022-motivational-interviewing-prevent-early-childhood.pdf
@@ -61,10 +61,10 @@ For a clinic running pediatric prevention programs:
 - Pairs with Cartes-Velásquez 2024 (adult MI evidence) for full-lifespan MI program design
 
 ## Related Papers
-- [[behavioral-dentistry/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — adult MI evidence, periodontal outcomes
-- [[behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings]] — cross-domain MI evidence in medical settings (foundation)
-- [[behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication]] — communication skill teaching/assessment in dental education
-- [[behavioral-dentistry/currie-2021-promoting-regular-dental-attendance-problem]] — behavior change for attendance (complementary problem space)
+- [[behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — adult MI evidence, periodontal outcomes
+- [[behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]] — cross-domain MI evidence in medical settings (foundation)
+- [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] — communication skill teaching/assessment in dental education
+- [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] — behavior change for attendance (complementary problem space)
 
 ## Open Questions
 - Random-effects re-analysis would tighten the uncertainty quantification — fixed-effect may understate it
