@@ -5,7 +5,7 @@ year: 2013
 date: 2013-11-01
 doi: 10.1016/j.pec.2013.07.012
 source: lundahl-2013-motivational-interviewing-medical-care-settings.md
-category: behavioral-dentistry
+category: behavioral-dentistry/motivational-interviewing
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lundahl-2013-motivational-interviewing-medical-care-settings.pdf
 pdf_filename: lundahl-2013-motivational-interviewing-medical-care-settings.pdf
@@ -66,10 +66,10 @@ For a clinic deploying MI:
 - The non-effective domains (eating disorders, self-care for chronic disease) caution against overgeneralization
 
 ## Related Papers
-- [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — dental-specific pediatric MI evidence (significant ECC reduction)
-- [[behavioral-dentistry/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — dental-specific adult MI evidence (mixed — only BoP significant)
-- [[behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication]] — communication skill teaching frameworks
-- [[behavioral-dentistry/currie-2021-promoting-regular-dental-attendance-problem]] — MI as candidate intervention for attendance behavior change
+- [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — dental-specific pediatric MI evidence (significant ECC reduction)
+- [[behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — dental-specific adult MI evidence (mixed — only BoP significant)
+- [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] — communication skill teaching frameworks
+- [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] — MI as candidate intervention for attendance behavior change
 
 ## Open Questions
 - Has a non-Rollnick-authored independent MA reached similar effect estimates?
