@@ -10,8 +10,13 @@ confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.pdf
 pdf_filename: avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.pdf
 source_collection: external
+superseded_by: avila-ortiz-2019-alveolar-ridge-preservation-interventions
+superseded_scope: partial
 tags: [alveolar-ridge-preservation, socket-grafting, ARP, ridge-preservation, xenograft, allograft, membrane, RCT-SR]
 ---
+
+> [!note] Partially superseded → [[avila-ortiz-2019-alveolar-ridge-preservation-interventions]]
+> 동일 first author가 5년 뒤 8 RCT→22 RCT로 확장하고 9-modality 분류 체계를 세운 2019 SR+MA가 EFP/AO consensus reference로서 modality 선택의 현행 근거다. 단 본 2014 페이지의 "ARP vs 자연치유" 정량 효과추정치(협설폭 +1.89mm, 협측높이 +2.07mm)는 2019가 modality 비교로 옮겨가며 대체하지 않은 first-quantification anchor로 standalone 가치를 유지한다. (set 2026-06-02)
 
 ## One-line Summary
 SR+MA (J Dent Res 2014): RCT meta-analysis showing ARP vs. natural healing preserves buccolingual width by +1.89 mm and midbuccal height by +2.07 mm; flap elevation + membrane + xenograft/allograft combination is the optimal protocol.
