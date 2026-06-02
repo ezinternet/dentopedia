@@ -3,7 +3,7 @@ title: "Teaching and Assessment of Dentist-Patient Communication Skills: A Syste
 authors: Khalifah AM, Celenza A
 year: 2019
 doi: 10.21815/JDE.019.003
-category: behavioral-dentistry
+category: [behavioral-dentistry/communication-relationship]
 pdf_path: /Users/oracleneo/llm-wiki/papers/khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 pdf_filename: khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 source_collection: external
