@@ -10,8 +10,13 @@ confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2015-alveolar-ridge-preservation-cochrane-review.pdf
 pdf_filename: atieh-2015-alveolar-ridge-preservation-cochrane-review.pdf
 source_collection: external
+superseded_by: atieh-2021-interventions-replacing-missing-teeth
+superseded_scope: full
 tags: [alveolar-ridge-preservation, ARP, socket-grafting, xenograft, allograft, Cochrane, RCT-SR]
 ---
+
+> [!warning] Superseded (full) → [[atieh-2021-interventions-replacing-missing-teeth]]
+> 동일 저자군의 2021 Cochrane update(동일 제목, 8→16 RCT)가 이 판을 대체한다. 결론까지 역전됨 — 2015의 "moderate evidence" ARP 이득이 2021에서 GRADE "very low"로 강등되어 임상 이득이 "uncertain"으로 바뀌었다. 현행 ARP 결정은 2021판을 인용할 것. (set 2026-06-02)
 
 ## One-line Summary
 SR+MA (Cochrane 2015/2017): 8 RCTs, 233 sockets — xenograft ARP vs. extraction alone reduces height loss by 2.60 mm and width loss by 1.97 mm (moderate evidence); no significant differences between graft materials; overall evidence low to moderate.
