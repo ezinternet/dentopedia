@@ -213,7 +213,7 @@ Format: `category/stem` — one-line description
 - [[bone-regeneration/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] — 전향적 longitudinal(n=14, 6 mo, UPAEP): InterOss® DBBM Bartee(결손 socket+dPTFE) vs Bio-Col(intact+collagen plug) — 수직 11.48% vs 13.24%, 수평 21.95% vs 20.55% 흡수 NS; 신생골 31.10% vs 13.24% NS(underpowered).
 - [[bone-regeneration/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — split-mouth RCT(Murcia, n=환자, 6mo): techBiomat bone® DBBM ARP — CBCT >75% 골충전 시험군 87% vs 대조군 7%; 신생골 42% vs 25%; 잔존 graft <9%.
 - [[bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] — 후향적(베로나 n=24, 4mo): Bio-Oss + CaSO₄(CalMatrix) 50:50 vs Bio-Oss 단독 — 생활골 62.5% vs 31.25%, 무세포골 5% vs 32.91% (p<0.05 both); 빠르게 흡수되는 carrier가 초기 신생골 질 개선.
-- [[bone-regeneration/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr]] — SR(118편, 2015–2024, Varna): 비탈회 plastic-embedded 골재생 histomorphometry 방법론 map — 동물 rat>rabbit>sheep>dog; toluidine blue 우세; 신생골·잔존 graft·MAR(calcein green) 지표 중심.
+- [[bone-regeneration/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr]] — SR(119편, 2015–2024, Varna): 비탈회 plastic-embedded 골재생 histomorphometry 방법론 map — 동물 rat>rabbit>sheep>dog; toluidine blue 우세; 신생골·잔존 graft·MAR(calcein green) 지표 중심.
 - [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — SR(20편 human, EAO consensus): 발치 6mo 자연치유 시 수평 −3.79 mm > 수직 협측 −1.24 mm; 비율 수평 29–63%, 수직 11–22%; ARP 비교의 baseline 수치.
 - [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — SR+MA(22 RCT, EFP/AO consensus): ARP을 9개 modality로 분류, 자연치유 대비 모든 modality 유의 효과; 단일 우월 modality 없음, PROM 데이터 부족.
 - [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update .pub3(16 RCT, 524 site): xenograft 폭 −1.18 mm·높이 −1.35 mm, **GRADE certainty "very low"로 강등** (2015 moderate → 2021 very low); 결론: ARP 효과의 임상적 의미 불확실.
@@ -657,7 +657,7 @@ Format: `category/stem` — one-line description
 - [[orthodontics/nanda-2012-orthodontic-force-biological-response-review]] — 교정력에 대한 PDL·치조골 반응 요약 — 신경전달물질·사이토카인·cathepsin K·MMP 역할.
 - [[orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] — SR+MA (46편, n=3,250): 교정용 미니스크류 전체 실패율 13.5%; 각화치은·흡연만 유의한 위험인자, 직경·나이·악골 위치 비유의.
 - [[orthodontics/mohammed-2018-miniscrew-anatomical-site-failure-sr-ma]] — SR+MA (61편): 부위별 실패율 — 정중구개 1.3% (최저) ~ 광대뼈지지부 16.4% (최고); 치근 접촉 시 실패 위험비 8.7배.
-- [[orthodontics/jahanbin-2025-reused-miniscrew-stability-sr-ma]] — SR+MA (18편): 재사용 미니스크류 체외 토크 유의차 없음; 임상 실패율 유의하게 높음 (RR 0.46); 멸균·술기·해부 영향.
+- [[orthodontics/jahanbin-2025-reused-miniscrew-stability-sr-ma]] — SR+MA (19편): 재사용 미니스크류 체외 토크 유의차 없음; 임상 실패율 유의하게 높음 (RR 0.46); 멸균·술기·해부 영향.
 - [[orthodontics/jkda-2023-61-6-003]] — Retrospective (가천대 길병원 교정과, JKDA 2023, n=438, 570 cases): 한국 매복치 환자 분포·상악 매복 견치 견인 성공률·치료기간 인자
 
 ## 재생근관치료 (Endodontics: Regenerative)
@@ -1086,18 +1086,38 @@ Format: `category/stem` — one-line description
 - [[professional-wellbeing/afrashtehfar-2023-dental-profession-high-prevalence-burnout]] — Afrashtehfar 2023 · narrative-review · JEBDP가 Moro 2022에 붙인 commentary. 새 데이터 없음, 동지 reviewer 입장 정리
 - [[professional-wellbeing/panagioti-2018-retracted-physician-burnout-patient-safety]] — Panagioti 2018 · sr+ma · **[RETRACTED]** physician burnout × patient safety/professionalism/satisfaction (JAMA Intern Med). 원래 OR ~2.0 보고했으나 retracted — effect 수치 인용 금지, retraction flag용으로만 보관
 
-## 행동치의학·환자 커뮤니케이션 (Behavioral Dentistry — MI, Communication, Attendance)
+## 행동치의학·환자 커뮤니케이션 (Behavioral Dentistry — MI, Communication, PRO, Anxiety)
 
-### behavioral-dentistry (added 2026-05-25, NEW category)
+### behavioral-dentistry (added 2026-05-25; restructured into 4 subaxes 2026-06-02)
 
-- [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — Jahanshahi 2022 · sr+ma · MI for ECC 예방 6 RCT(n=2,776) — 유의효과; 세션 횟수보다 **quality**, ≥3년 follow-up 필요
-- [[behavioral-dentistry/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — Cartes-Velásquez 2024 · sr+ma · 성인 MI 7편(전부 치주 outcome) — BoP −6.41pp만 유의(p<0.05); PI·GI는 비유의. 성인 MI 효과 결론 보류
-- [[behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings]] — Lundahl 2013 · sr+ma · MI 의료 일반 48 RCT(n=9,618) — OR 1.55(1.40-1.71), 짧은 상담에서도 작동; dental outcome도 효과 영역. Rollnick 공저 + 후속 commentary 비판 있음
-- [[behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication]] — Khalifah 2019 · sr · 치과 커뮤니케이션 스킬 50편 SR — 26 skills × 4 categories(generic·case-specific·time-specific·emerging); 교육법 비교 evidence는 부재
-- [[behavioral-dentistry/currie-2021-promoting-regular-dental-attendance-problem]] — Currie 2021 · sr · 통증-only 환자(영국 1/3)를 정기검진으로 유도하는 개입 SR — 단 3편(불안클리닉·광고캠페인·스코틀랜드 무료검진). 미래 설계 4축: 커뮤니케이션·관계·인식·비용
+> [[overviews/behavioral-dentistry-overview]] — **Master synthesis** (19편, 4축): MI·communication·PRO·anxiety. + [[overviews/behavioral-dentistry-decision-ladder]] (MI·커뮤니케이션·attendance 집중 ladder).
 
----
-- [[behavioral-dentistry/jkda-2021-60-1-003]] — Review (연세대 통합치의학 정지은, JKDA 2022): dental phobia 환자 외래 의사소통·sedation·전신마취 결정 framework — 단계별 접근·재발 방지 강조
+#### motivational-interviewing
+- [[behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]] — Lundahl 2013 · sr+ma · MI 의료 일반 48 RCT(n=9,618) — OR 1.55(1.40-1.71), 짧은 상담서도 작동. Rollnick 공저 + 후속 commentary 비판
+- [[behavioral-dentistry/motivational-interviewing/kay-2016-motivational-interviewing-general-dental-practice]] — Kay 2016 · sr · 치과 한정 8편/5 RCT 전부 양성; MI를 팀 훈련 스킬로 권고
+- [[behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — Cartes-Velásquez 2024 · sr+ma · 성인 MI 7편(치주) — BoP −6.41pp만 유의; PI·GI 비유의. 성인 효과 결론 보류
+- [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — Jahanshahi 2022 · sr+ma · MI for ECC 6 RCT(n=2,776) — 유의; quality > 횟수, ≥3년 follow-up
+- [[behavioral-dentistry/motivational-interviewing/rogers-2022-dental-hygienists-motivational-interviewing-perceptions]] — Rogers 2022 · cross-sectional · 위생사 95% MI 사용·98% 효과 인식; TPB 3요소가 사용 예측. efficacy≠implementation
+- [[behavioral-dentistry/motivational-interviewing/anderson-2025-motivational-interviewing-nutritional-counseling-dentistry]] — Anderson 2025 · narrative-review(초록기반) · MI 영양상담; NRACT brief-MI 도구
+- [[behavioral-dentistry/motivational-interviewing/bonetti-2018-general-health-promotion-dental-engage]] — Bonetti 2018 · feasibility · ENGAGE <5분 생활습관 위험전달+signposting; 환자 거부감<10%, GDP 17/18 수용
+
+#### communication-relationship
+- [[behavioral-dentistry/communication-relationship/choi-2024-determinants-dentist-patient-relationships]] — Choi 2024 · scoping(서울대, 16편) · DPR 6 domain; communication(8)>trust(6), 대부분 clinical-process. DPR scale 부재
+- [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — Ho 2025 · narrative-review · 커뮤니케이션 중요성·장벽·전략·교육 4축; 환자중심+jargon-free+비언어+구조화 교육(MI 포함)
+- [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] — Khalifah 2019 · sr(50편) · 26 skills × 4 categories; 교육법 비교 evidence 부재
+- [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] — Elwyn 2025 · consensus(ISDM 13개국 25인) · 임상의 관점 SDM 실행 primer + decision aids
+- [[behavioral-dentistry/communication-relationship/dawood-2025-patient-expectations-implant-aesthetic-dentistry]] — Dawood 2025 · narrative · 임플란트·심미 기대관리; 소셜미디어 gap, 투명한 소통·동의로 정렬, 술자 wellbeing
+- [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] — Currie 2021 · sr(3편) · 통증-only 환자 정기검진 유도; 미래 4축(커뮤니케이션·관계·인식·비용)
+
+#### patient-reported-outcomes
+- [[behavioral-dentistry/patient-reported-outcomes/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics]] — Doğramacı 2023 · review · endo PCO/PRO·PROM/PREM 정의(ESE S3); OHRQoL 개선되나 측정도구 미검증
+- [[behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]] — Arunyanak 2024 · review · perio·implant·peri-implantitis PRO/PRE; 기대 미정렬이 만족·장기성공 저해, 치료 전 행동평가 필수
+
+#### dental-anxiety
+- [[behavioral-dentistry/dental-anxiety/alhomoud-2023-behavior-anxiety-levels-pediatric-patient]] — Al Homoud 2023 · cross-sectional(n=150) · 소아 Frankl·Venham·categorical; 연령 효과 유의(11-14세), 성별 무의
+- [[behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management]] — Cristea 2026 · narrative-review · 소아 평가도구 선택 + 비약물 관리(tell-show-do·modeling·VR distraction)
+- [[behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct]] — Pandey 2025 · observational(n=76) · 성인 근관치료 중 HR↑(국소마취·드릴링); 과거 부정경험이 불안↑(p=0.018). ※RCT=root canal treatment
+- [[behavioral-dentistry/dental-anxiety/jkda-2021-60-1-003]] — Review (연세대 정지은, JKDA 2022): 성인 dental phobia 외래 의사소통·sedation·전신마취 단계적 framework
 
 ## 시린이 (Dentin Hypersensitivity)
 - [[dentin-hypersensitivity/jkda-2022-60-4-003]] — Review (강남세브란스+서울대 보존과, JKDA 2022): DH prevalence(8-57%)·진단·치료(at-home+in-office+restorative)·미래 — JKDA DH 특집 1번
@@ -1141,6 +1161,7 @@ Format: `category/stem` — one-line description
 - [[overviews/oral-surgery-decision-ladder]] — 구강외과 5축 (제3대구치·IAN·coronectomy·합병증·심경부 감염). Camps-Font 2024 NMA + Peixoto 2024 SR+MA spine.
 - [[overviews/evidence-appraisal-toolkit]] — 근거 평가 toolkit (SR/MA 방법론·효과 지표·EBD). 본 wiki 다른 overview의 confidence tag baseline.
 - [[overviews/endodontics-comprehensive-ladder]] — 근관 4축 (VPT·REP·cracked tooth·future). Hatipoglu 2025 NMR + AAPD 2025 + AAE 2021 + Cochrane spine.
+- [[overviews/behavioral-dentistry-overview]] — 행동치의학 master 통합 (19편, 4축: MI·communication-relationship·PRO·dental-anxiety). Choi 2024 + Ho 2025 + Elwyn 2025 + Doğramacı 2023 + Cristea 2026 + Pandey 2025 spine.
 - [[overviews/behavioral-dentistry-decision-ladder]] — 행동 3축 (MI·커뮤니케이션·attendance). Jahanshahi 2022 + Lundahl 2013 + Khalifah 2019 spine.
 - [[overviews/implants-isq-stability-ladder]] — ISQ/RFA 3축 (측정 도구·임계값·변수). implants/isq sub-cat spine.
 - [[overviews/lithium-disilicate-inlay-onlay-evidence]] — Inlay/onlay 4축 (장기 생존·재료 비교·와동/디자인·제작방식) (2026-05-26 신설, 13편): Malament 2021 10y 95.6% + Lempel 2023 7.8y LiDiSi vs RBC 격차 + Bresser 2023 SR+MA + Wang 2022 부분피개 vs 풀크라운 + Hofsteenge 2023 overlay 우위.
@@ -1159,6 +1180,7 @@ Format: `category/stem` — one-line description
 - [[interactives/2026-05-27_short-implant-vs-augmentation]] — 위축부 implant 결정 (2026-05-27 신설): RBH·RBW·부위·bone type·환자 morbidity·SFE 술자 경험 입력 → SHORT/AUGMENT/양자택일/보류 권고. Yu 2021 SR-MA + Sivolella 2025 5y + Barausse 2024 8y + Saenz-Ravello 2023 umbrella + Zhang 2024 NMA.
 - [[interactives/2026-05-27_drill-thermal-selector]] — Drill thermal protocol selector (2026-05-27 신설): bone type·HU·drill 재질·누적 사용·method·RPM·irrigation 입력 → 0–100 heat 위험 score + 47°C 초과 위험 + protocol 강화 권고. Bento 2023 SR-MA + Sorgato 2025 + Saxena 2024 + Marzorati 2026 SR-MA + Woods 2022 SR + Heuzeroth 2021.
 - [[interactives/2026-05-25_osseodensification-navigator]] — OD 4 적용 시나리오 navigator + slide deck (별도 작업).
+- [[interactives/2026-06-02_patient-consent-guide]] — 환자 설명 가이드 v1.2 (위생사·원장 협업형, 2026-06-02 wiki 근거 연결): 6개 술식 탭(임플란트·발치·근관·보철·치주·처방약) + Loss framing→자율성→Teach-back 방법론. v1.1 스크립트에 38편 wiki 논문 근거(저자·연도·DOI) 연결 — Couso-Queiruga 2021 골흡수·Fan 2024 흡연 OR 2.59·Camps-Font 2024 항생제 NMA·Gaballah 2025 진통 RCT·Elwyn 2025 SDM 등. agenda/2026-06-02_patient-consent-guide.
 
 ## 메타 — wiki 운영 (Meta)
 
@@ -1306,3 +1328,13 @@ Format: `category/stem` — one-line description
 - [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — Xueer Zhou 2023 (PeerJ 11:e15585, 화시구강) · narrative-review · 임신 생리·구강 국소마취(182편): 표준 LA 임신 전기간 안전, **2% 리도카인+1:200,000 epi** 모체/태아 균형 최적; 리도카인·프릴로카인 FDA cat B, 아티카인·메피바카인·부피바카인 cat C; 선택적 시술 14–20주
 - [[drug/bina-2018-true-allergy-amide-local-anesthetics-case]] — Babak Bina 2018 (Anesth Prog 65(2):119, NYU Lutheran) · case-report · 아마이드 진성 알러지(희귀): 리도카인 아나필락시스 기록 43F가 1% diphenhydramine+1:100k epi 대체마취로 13회 진료 완료 — 상악 침윤 유효하나 단시간(15–75분)·부종/졸음·<5mL/회 제한; 대개 진짜 원인은 첨가물(metabisulfite/methylparaben)
 - [[drug/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort]] — Larisse E. Adami 2021 (Braz Oral Res 35:e131, USP) · prospective · 단일군 코호트 n=58(평균 50.7세, 59% 주사공포): 리도카인+프릴로카인(1:1, 30mg) 점막부착 패치 무바늘 마취 — 중등도 시술 90% 무주사 완료, 발현 ~13.2분·지속 50–90분·부작용 0(2h·6개월)
+
+### drug (added 2026-06-03, batch h — metronidazole·알코올 disulfiram)
+
+- [[drug/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Ryan Feldman 2023 (WMJ 122(3):171) · retrospective · ED case-control 차트리뷰(n=36, metronidazole 18 + 알코올 매칭 18): 혈중알코올 검출 metronidazole 환자 disulfiram 유사반응 기록 0건, 고혈압 오히려 적음(16.7% vs 61.1%, P<0.0001) → 알코올-metronidazole 상호작용 부재 지지
+- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — Orire 2026 (Sex Transm Dis 53(4):205) · narrative-review · 문헌리뷰(4 DB, 1970–2024, 11편): 증례보고 4편+구시험 1편만 양성, 대조시험 3·차트리뷰 1·동물 2편은 음성 → 임상적 유의 disulfiram 반응 근거 약함, 엄격 금주 재고. (abstract-only)
+
+### drug (added 2026-06-03, batch i — 임신 약물 안전성)
+
+- [[drug/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Aliabadi 2022 (Eur J Transl Myol 32(4):10813) · narrative-review · 임신 중 근관치료 약물: 치성 감염은 즉시 치료(미치료가 더 위험), 1차 항생제 아목시실린·페니실린·세팔렉신(알러지 시 에리스로마이신·클린다마이신), 1차 진통제 acetaminophen, LA 1:100,000 epi, 2분기 선택시술 최적
+- [[drug/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Prada 2025 (Environmental Health 24:56) · sr · Navigation Guide 46편: 산전 acetaminophen-신경발달장애(ASD/ADHD) 양성 27/무 9/음성 4, 고품질일수록 양성 → 임신 중 제한 권고. **단 연관≠인과·confounding by indication·ACOG는 여전히 안전 입장** (치과 1차 진통제 유지하되 최소용량·최단기간)
