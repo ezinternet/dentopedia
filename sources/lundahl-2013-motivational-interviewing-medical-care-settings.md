@@ -3,7 +3,7 @@ title: "Motivational interviewing in medical care settings: a systematic review 
 authors: Lundahl B, Moleni T, Burke BL, Butters R, Tollefson D, Butler C, Rollnick S
 year: 2013
 doi: 10.1016/j.pec.2013.07.012
-category: behavioral-dentistry
+category: [behavioral-dentistry/motivational-interviewing]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lundahl-2013-motivational-interviewing-medical-care-settings.pdf
 pdf_filename: lundahl-2013-motivational-interviewing-medical-care-settings.pdf
 source_collection: external
