@@ -5,7 +5,7 @@ year: 2024
 date: 2023-09-05
 doi: 10.1111/cdoe.12904
 source: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.md
-category: behavioral-dentistry
+category: behavioral-dentistry/motivational-interviewing
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 pdf_filename: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
@@ -60,13 +60,13 @@ For a clinic considering MI training for hygienists on adult periodontal patient
 - **Weakest evidence**: plaque index — the simplest hygiene proxy doesn't shift significantly
 - **Inferential gap**: adult caries, implant maintenance, peri-implantitis — no MI evidence at all
 - **Operational implication**: MI for adults is defensible for periodontal maintenance programs (especially with measurable BoP follow-up), but you cannot promise "MI prevents caries in adults" — the evidence isn't there
-- Pair with [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] for full-lifespan MI program design — pediatric evidence is stronger
+- Pair with [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] for full-lifespan MI program design — pediatric evidence is stronger
 
 ## Related Papers
-- [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — pediatric ECC counterpart (stronger evidence)
-- [[behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings]] — cross-domain MI evidence in medical care
-- [[behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication]] — how to teach the counseling skills MI requires
-- [[behavioral-dentistry/currie-2021-promoting-regular-dental-attendance-problem]] — adult behavior change for attendance (related problem space)
+- [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — pediatric ECC counterpart (stronger evidence)
+- [[behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]] — cross-domain MI evidence in medical care
+- [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] — how to teach the counseling skills MI requires
+- [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] — adult behavior change for attendance (related problem space)
 
 ## Open Questions
 - Why is MI underperforming on plaque index but reaching significance on BoP? Possibly BoP is more sensitive to short-term hygiene improvement than PI; or studies happen to measure BoP in more responsive populations.
