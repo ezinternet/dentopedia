@@ -5,7 +5,7 @@ year: 2021
 date: 2021-10-01
 doi: 10.1111/joor.13244
 source: currie-2021-promoting-regular-dental-attendance-problem.md
-category: behavioral-dentistry
+category: behavioral-dentistry/communication-relationship
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/currie-2021-promoting-regular-dental-attendance-problem.pdf
 pdf_filename: currie-2021-promoting-regular-dental-attendance-problem.pdf
@@ -58,10 +58,10 @@ For a Korean private practice trying to convert "pain-only" patients to regular 
 - Don't expect a published "recipe" — you'll need to design and evaluate locally
 
 ## Related Papers
-- [[behavioral-dentistry/khalifah-2019-teaching-assessment-dentist-patient-communication]] — communication skill teaching backs the "dentist communication" lever
-- [[behavioral-dentistry/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — MI as candidate intervention for adult behavior change
-- [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — MI evidence pediatric
-- [[behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings]] — MI evidence cross-domain
+- [[behavioral-dentistry/communication-relationship/khalifah-2019-teaching-assessment-dentist-patient-communication]] — communication skill teaching backs the "dentist communication" lever
+- [[behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — MI as candidate intervention for adult behavior change
+- [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — MI evidence pediatric
+- [[behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]] — MI evidence cross-domain
 
 ## Open Questions
 - Korean NHIS context: free check-ups are partially covered (구강검진 사업) but still underused — does the Scottish policy evidence transfer? Unstudied.
