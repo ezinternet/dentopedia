@@ -19,7 +19,7 @@ tags: [statistics, cheatsheet, abbreviations, biostatistics, critical-appraisal,
 ## Summary
 Reference cheatsheet for interpreting statistical reporting in dental research papers. Organized by analytical context: descriptive, inferential, effect size, diagnostic accuracy, meta-analysis, regression, survival analysis, reliability/agreement, and clinical trial analysis sets. Each entry pairs the standard definition with the most common misinterpretation observed in dental literature.
 
-This is a synthesis page and is not derived from a single source paper; definitions are drawn from standard biostatistics references and cross-checked against the methodology papers already in `evidence-appraisal/`.
+This is a synthesis page and is not derived from a single source paper; definitions are drawn from standard biostatistics references and cross-checked against the methodology papers already in `evidence-appraisal/`. For the underlying methods, Nam 2012 surveys the statistical methods used across medical studies, and Kiriakou 2014 frames the critical-appraisal skills an evidence-based-dentistry reader needs to interpret these abbreviations correctly rather than mechanically.
 
 ## 1. Descriptive Statistics
 
@@ -42,7 +42,7 @@ This is a synthesis page and is not derived from a single source paper; definiti
 | **β** | Type II error rate | Conventionally 0.20 |
 | **Power** | 1 − β | Conventionally 0.80; underpowered negative studies cannot conclude "no effect" |
 
-**Trap.** With large n, clinically meaningless differences (e.g., 0.1 mm MBL difference) can reach p < 0.001. Always read effect size + CI alongside p.
+**Trap.** With large n, clinically meaningless differences (e.g., 0.1 mm MBL difference) can reach p < 0.001. Always read effect size + CI alongside p. Flechner 2011 walks through why a p-value alone, without the confidence interval and NNT, under-informs a clinical decision — the same triad (p + CI + NNT) should be demanded of every comparative result.
 
 ## 3. Effect Size — Most Important for Clinical Interpretation
 
@@ -126,6 +126,8 @@ See [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introducti
 | **CONSORT** | Consolidated Standards of Reporting Trials | RCT reporting checklist |
 
 ## Five Most Common Misuses (Red Flags When Reading Papers)
+
+Darrigo 2024 catalogs the recurring biostatistics mistakes in the dental literature; the five below are the subset a clinician meets most often when reading implant, perio, and endo papers.
 
 1. **OR interpreted as RR for common outcomes.** When outcome prevalence > 10% (peri-implant mucositis, MBL > threshold, marginal bone loss events), OR overstates RR. Convert via OR = RR × [(1 − p₀) / (1 − p₁)] or insist on RR/risk difference reporting.
 2. **p < 0.05 conflated with clinical significance.** Large cohorts detect trivial differences as statistically significant. Always inspect effect size and its CI.
