@@ -3,7 +3,7 @@ title: "Motivational interviewing for preventing oral morbidities in adults: Sys
 authors: Cartes-Velásquez R, Varnet-Pérez T, Martínez-Delgado CM, Villanueva-Vilchis MdC, Ramírez-Trujillo MdlÁ, Faustino-Silva DD
 year: 2024
 doi: 10.1111/cdoe.12904
-category: behavioral-dentistry
+category: [behavioral-dentistry/motivational-interviewing]
 pdf_path: /Users/oracleneo/llm-wiki/papers/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 pdf_filename: cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities.pdf
 source_collection: external
