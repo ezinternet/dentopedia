@@ -11,6 +11,7 @@ source_papers:
   - drug/ufcd-2019-medically-complex-patients-management-guidelines
   - drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
   - drug/wagner-2022-diabetes-mellitus-dental-implants-sr
+  - drug/shahi-2026-implant-outcomes-diabetes-mellitus-sr
   - drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology
   - drug/nathan-2008-translating-a1c-assay-estimated-average
   - drug/weykamp-2013-hba1c-review-analytical-clinical-aspects
@@ -24,6 +25,8 @@ source_papers:
   - drug/batlle-2021-oral-complaints-aml-stem-cell-transplant
   - drug/karm-2017-lidocaine-epinephrine-200000-third-molar
   - drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr
+  - drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation
+  - drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -36,12 +39,13 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 
 ## Summary
 
-치과 외래의 전신질환 동반률은 비-치과 기관 기준 약 12% (Kim 2000 한국 일반병원), 실제 dental clinic은 고령화로 더 높을 것. 18편 paper (SR-MA 2, SR 1, narrative·guideline 5, classification·criteria 3, cohort·retrospective 5, RCT 1, position 1)를 통합한 임상 적용 4축:
+치과 외래의 전신질환 동반률은 비-치과 기관 기준 약 12% (Kim 2000 한국 일반병원), 실제 dental clinic은 고령화로 더 높을 것. 21편 paper (SR-MA 2, SR 2, narrative·guideline 6, classification·criteria 3, cohort·retrospective 5, RCT 1, consensus·position 2)를 통합한 임상 적용 4축 + 한국 마취·진정 표준화 맥락:
 
-1. **DM**: HbA1c 기반 조절도 평가 → 조절 환자는 임플란트 contraindicaion 아님, 비조절 시 OR 1.78 실패.
+1. **DM**: HbA1c 기반 조절도 평가 → 조절 환자는 임플란트 contraindicaion 아님, 비조절 시 OR 1.78 실패. 최신 후속 SR(Shahi 2026)이 post-2022 근거를 갱신 중.
 2. **DDI**: 평균 65세 이상 환자 40.7% DDI 보유, 처방자 인식률 42.7%. **Epinephrine + β-blocker가 대표적 major DDI**.
 3. **Vasoconstrictor**: 1:200,000 epinephrine이 1:80,000과 진통효능 동등하면서 혈역학 안전 (Karm 2017). 임신 시 1:100,000–200,000 epinephrine만 안전 (Uritu 2025).
 4. **HbA1c 해석**: Hb 변이·빈혈·CKD에서 위양/위음 가능 (Chen 2022, Weykamp 2013).
+5. **마취·진정 표준화 (한국)**: 진정은 2022 한국 가이드(15 PICO, moderate sedation 중심)가 정립됐으나 (Karm 2023), **국소마취는 한국 표준 가이드가 아직 부재** (Hwang 2023 proposal).
 
 ---
 
@@ -84,6 +88,8 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 - 비조절 DM → peri-implantitis·장기 임플란트 손실 증가
 - 술후 perioperative 항생제 + Chlorhexidine (CHX) 양치액이 outcome 개선
 - **조절 DM은 임플란트 contraindication 아님**
+
+[claude해석] **Shahi 2026 SR** (BMC Oral Health, article-in-press) — Al-Ansari 2022 SR-MA의 직접 후속으로 post-2022 DM 임플란트 근거를 갱신. 현재 unedited 버전이라 pooled estimate는 final PDF 확정 대기 — 본 overview의 주 수치는 Al-Ansari 2022 OR 1.78을 유지하고, 정식 출판 후 재감사(re-audit) 대상. [미검증] 정량 결론은 final 버전에서 변동 가능.
 
 → **임상 적용**:
 - HbA1c <7.0% — 정상에 준한 임플란트 가능
@@ -151,6 +157,18 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 [합의수준] **UFCD 2019** + Colibasanu 2025:
 - **비선택적 β-blocker (Propranolol)**: Epinephrine 추가 시 hypertensive crisis 위험 — 1:200,000 + 용량 minimize.
 - **TCA (Amitriptyline)·MAO inhibitor·코카인**: Epinephrine 강화 → 농도·총량 제한.
+
+### 5-4. 한국 마취·진정 표준화 현황
+
+전신질환·고령·소아 환자에서 마취·진정의 안전 기준은 약물 선택만큼 **표준화된 절차**에 좌우된다. 한국 맥락에서 두 축의 비대칭이 존재:
+
+[합의수준] **Karm 2023** (대한치과의사협회지 특집) — 2022년 발표된 한국 진정·수면 가이드라인을 임상가 관점에서 해설. **15개 PICO** 구조, moderate sedation 중심이며 **비마취과 전문의 포함** 대상. 핵심은 진정을 연속체(moderate → deep)로 보고 의도치 않은 deep sedation으로의 진행 위험에 대해 모니터링(호흡·심혈관·진정 깊이)과 rescue 역량을 명시한 점. 시술자 교육·약물/장비 요건·환자 선택·금식·소아 호흡 합병증 관리·퇴실 기준을 포함.
+
+[claude해석] 구체 수치 임계값(모니터링 간격·금식 시간·퇴실 기준)은 Karm 2023이 아니라 기저 2022 한국 진정 가이드 원문을 직접 참조해야 함 — 본 특집은 해설(introduction) 성격.
+
+[narrative-review] **Hwang 2023** (proposal) — 치과 국소마취는 가장 빈번한 술기이자 치의학 교육의 기초이지만, **한국은 표준 임상진료지침이 미정립**. 향후 가이드가 다뤄야 할 범위(치아·치주조직·구강점막·TMJ·악안면 영역별 신경지배와 마취제 선택)를 명문화한 position paper. 수치 권고는 없음 — 표준화 필요성 자체가 기여.
+
+→ **임상 적용** [claude해석]: 진정 시술 시 2022 한국 진정 가이드(15 PICO)를 따르되 비마취과 단독 진정의 deep sedation 진행 risk를 전제로 모니터링·rescue를 준비. 국소마취는 표준 가이드 부재 상태이므로, vasoconstrictor 선택(§5-1~5-3)과 DDI 점검(§4)을 클리닉 자체 SOP로 보완하는 것이 현재 최선.
 
 ---
 
@@ -249,6 +267,9 @@ NRS (Numeric Rating Scale)를 outcome으로.
 | 임신 시 felypressin 금기, 1:100,000–200,000 epinephrine 안전 | 중간 (SR 9 studies) | Uritu 2025 |
 | Sjögren 2016 ACR-EULAR 합의 기준 | 강함 (consensus) | Shiboski 2016 |
 | BMS 단계적 protocol (clonazepam·zinc) | 합의 (retrospective n=248) | Lee 2024 |
+| DM implant 근거 갱신 (post-2022) | 낮음 (SR in-press, 수치 미확정) | Shahi 2026 |
+| 2022 한국 진정 가이드 15 PICO, moderate sedation·비마취과 포함 | 합의 (consensus 해설) | Karm 2023 |
+| 한국 치과 국소마취 표준 가이드 부재 (제정 필요) | 낮음 (narrative position) | Hwang 2023 |
 
 ---
 
@@ -262,6 +283,7 @@ NRS (Numeric Rating Scale)를 outcome으로.
 ### Diabetes Mellitus
 - [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — DM 임플란트 실패 OR 1.78 SR-MA
 - [[drug/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 조절 DM = 정상 동등 SR
+- [[drug/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — DM implant outcome 최신 SR(2026 in-press), al-ansari 후속·정량 결과 재확인 보류
 
 ### HbA1c 해석
 - [[drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — HbA1c 간섭 3분류
@@ -283,9 +305,11 @@ NRS (Numeric Rating Scale)를 outcome으로.
 - [[drug/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 치과 환자 DDI 분석
 - [[drug/pyo-2026-drug-interactions-prescription-safety-elderly]] — 한국 고령자 DDI·polypharmacy
 
-### Local Anesthetic·Vasoconstrictor (흡수)
+### Local Anesthetic·Vasoconstrictor·진정 (흡수)
 - [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 1:200,000 vs 1:80,000 RCT
 - [[drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — 임신 시 vasoconstrictor SR
+- [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — 2022 한국 진정 가이드 15 PICO 해설 (consensus)
+- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — 한국 치과 국소마취 표준 가이드 부재 지적 proposal
 
 ### 종양·이식
 - [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — allo-HSCT AML 구강 합병증
