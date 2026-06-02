@@ -3,7 +3,7 @@ title: "Does Motivational Interviewing Prevent Early Childhood Caries? A Systema
 authors: Jahanshahi R, Amanzadeh S, Mirzaei F, Baghery Moghadam S
 year: 2022
 doi: 10.30476/DENTJODS.2021.87985.1303
-category: behavioral-dentistry
+category: [behavioral-dentistry/motivational-interviewing]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jahanshahi-2022-motivational-interviewing-prevent-early-childhood.pdf
 pdf_filename: jahanshahi-2022-motivational-interviewing-prevent-early-childhood.pdf
 source_collection: external
