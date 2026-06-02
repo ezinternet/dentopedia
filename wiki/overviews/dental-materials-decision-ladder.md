@@ -66,6 +66,10 @@ tags: [dental-materials, zirconia, cad-cam, amalgam, composite, bonding, cement,
 
 **오판 패턴**: "지르코니아는 산 부식으로 표면 활성화" — 5Y-PSZ도 산 부식 무효. MDP 화학결합이 답. [근거강함]
 
+**보강 근거 — 타액 오염 세정.** APC의 'P/C' 신뢰도는 시적 중 타액 오염을 어떻게 제거하느냐에 달려 있다. 타액 단백막이 MDP 결합을 차단하므로, 물·알코올 단독은 불충분하고 전용 세정제(Ivoclean) 또는 재-sandblasting이 필요하다는 결과가 in-vitro에서 반복된다([[dental-materials/kim-2015-cleaning-saliva-zirconia-resin-bonding]], [[dental-materials/negreiros-2017-cleaning-primer-zirconia-bond-water]], [[dental-materials/sankar-2017-saliva-zirconia-sbs-resin-cements]], [[dental-materials/takagaki-2018-saliva-zirconia-cleaning-agent]], [[dental-materials/miyazaki-2015-saliva-zirconia-bond-contact-angle]], [[dental-materials/radhi-2023-lithium-disilicate-cleaning-resin-cement]], [[dental-materials/atoche-socola-2021-cleaning-zirconia-microshear]], [[dental-materials/hajjaj-2022-cleaning-methods-zirconia-sbs]]). 이는 축 1 spine의 Silva 2022 SR+MA·Genc 2025와 같은 방향이다. [합의수준]
+
+**보강 근거 — primer 화학·air-abrasion/grinding.** MDP 함유 primer가 결합의 핵심이며([[dental-materials/jo-2018-liners-primers-zirconia-tensile-bond]], [[dental-materials/sharafeddin-2018-mdp-primers-zirconia-bond]], [[dental-materials/lee-2018-zirconia-primers-bracket-bonding]], [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]]), 표면 처리는 미세 air-abrasion이 결합을 높이되 과도한 그라인딩·열처리는 굴곡강도를 떨어뜨릴 수 있다는 강도 trade-off가 존재한다([[dental-materials/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]], [[dental-materials/ramos-2016-grinding-heat-treatment-zirconia-flexural]], [[dental-materials/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]], [[dental-materials/oh-2016-zirconia-core-fitness-four-bur-types]]). → **임상 함의**: 50 µm Al₂O₃ 저압 air-abrasion은 결합 목적상 충분하며, 적합도 조정용 그라인딩은 최소화하고 조정 후 재폴리싱한다. [claude해석]
+
 자세한 chairside 분기형 의사결정 트리: [[interactives/2026-05-25_zirconia-inlay-bonding]] (본 세션 작성).
 
 ### 축 2 — CAD/CAM 단관·FPD vs PFM
@@ -90,6 +94,8 @@ tags: [dental-materials, zirconia, cad-cam, amalgam, composite, bonding, cement,
 5. 두께 1mm 미만 → 파절 위험 급증. 최소 1.5mm 확보 또는 LDS로 변경.
 
 **오판 패턴**: "지르코니아는 강해서 두께 무관" — Ali 2023 SR+MA에서 두께 < 1mm가 파절 주 원인. [근거강함]
+
+**보강 근거 — 대합치 법랑질 마모.** Monolithic 지르코니아 단관의 임상 trade-off 중 하나는 대합치 마모다. 핵심 결론은 일관된다 — **잘 폴리싱된 지르코니아가 글레이즈된 것보다 대합치 마모가 적고**, 장석질 도재보다도 유리하다([[dental-materials/janyavula-2013-wear-polished-glazed-zirconia-enamel]], [[dental-materials/lawson-2014-wear-enamel-zirconia-lithium-disilicate]], [[dental-materials/park-2014-antagonist-wear-cad-cam-zirconia-enamel]], [[dental-materials/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]], [[dental-materials/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]], [[dental-materials/tachibana-2021-polishing-zirconia-antagonist-wear]], [[dental-materials/miyazaki-2013-current-status-zirconia-restoration-review]]). 인레이/엔도크라운 형태에서도 같은 폴리싱-우선 원칙이 적용된다([[dental-materials/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]], [[dental-materials/bomicke-2025-3ytzp-inlay-enamel-wear-5year]], [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]]). 신소재로 3D 프린팅 하이브리드 + 플라즈마 본딩이 등장하고 있다([[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]]). → **임상 함의**: 교합 조정 후 반드시 재폴리싱(글레이즈 재도포보다 우선). [근거강함]
 
 ### 축 3 — 아말감 vs 복합레진 후방부 수복
 
