@@ -92,6 +92,10 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 **오판 패턴**: "Periapical lesion 있으면 무조건 ARP" — Pranckeviciene 2024 SR+MA가 적절한 처치 후 동등 outcome 시사. [근거강함]
 
+**보강 근거 — sagittal root position(SRP) CBCT 해부.** 전치부 IIP 가능 여부는 치근-치조 관계(SRP class)와 협측 벽 두께에 좌우되며, 이 분포는 다인종 코호트에서 반복 확인된다: 원형 SRP 분류는 [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]가 정의했고, 한국인([[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]), 브라질인([[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]·[[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]), 페루인([[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]) 집단에서 Class I(협측 근접)이 다수임이 일관된다. 보조 해부 변수로 치근 경사·순측 골 두께([[immediate-implant/petaibunlue-2019-anterior-arch-root-position-angulation]], [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]], [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]], [[immediate-implant/lei-2022-alveolar-bone-width-sagittal-tooth]], [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]), 절치관 인접도([[immediate-implant/panda-2018-cbct-incisive-canal-anterior-maxillary]]), SRP 기반 의사결정·치료계획([[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]], [[immediate-implant/abdul-2024-srp-maxillary-mandibular-anterior-cbct]], [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]])이 있다. → **임상 함의**: 식립 전 CBCT로 SRP class를 먼저 분류하고, Class I이라도 협측 천공 위험이 높으면 palatal trajectory로 식립한다. [합의수준]
+
+**보강 근거 — periapical pathology socket.** 술전 치근단 병소가 있는 socket의 IIP는 적절한 debridement 동반 시 가능하다는 Pranckeviciene 2024 결론을 후향 코호트가 뒷받침한다([[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]]), 치주염 병력 socket에서도 단기 생존이 보고된다([[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]]). [claude해석] 단 장기 데이터는 여전히 부족.
+
 ### 축 3 — Surgical Execution (Flap·Position·Jumping Gap·GBR)
 
 **핵심 3 원칙**:
@@ -120,6 +124,8 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 6. **Closed vs open healing** → Bouffleur 2026 RCT는 open healing PES 우수. 단 dPTFE 노출 management 필요.
 
 **오판 패턴**: "Flap 거상하면 협측골 흡수 더 큼" — Pitman 2023 SR+MA에서 flap vs flapless 차이가 술자·결손도에 의존. 결손 ≥2mm는 flap이 더 유리. [합의수준]
+
+**보강 근거 — 구치부 IIP와 inter-radicular septum.** 구치부 IIP의 1차 안정성은 치근간 중격(inter-radicular septum)에 implant를 정착시켜 얻는다. 중격 형태의 분류·식립 가능성 평가가 선행돼야 한다([[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]], [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]), 발치 분류 기반 IIP 결정([[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]), 구치부 IIP CBCT 평가([[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]), 구개근 socket 활용([[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]], [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]]). 중격 골량이 부족하면 osseodensification으로 중격을 확장·치밀화해 1차 안정성을 확보한다([[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]], [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]). → 이는 골밀도화(Osseodensification, OD) 일반 근거와 연결된다(아래 인접 overview). [합의수준]
 
 ### 축 4 — Soft Tissue Augmentation (CTG·Provisional·Socket Shield)
 
