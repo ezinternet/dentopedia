@@ -3,7 +3,7 @@ title: "Promoting regular dental attendance in problem-orientated dental attende
 authors: Currie CC, Araujo-Soares V, Stone SJ, Beyer F, Durham J
 year: 2021
 doi: 10.1111/joor.13244
-category: behavioral-dentistry
+category: [behavioral-dentistry/communication-relationship]
 pdf_path: /Users/oracleneo/llm-wiki/papers/currie-2021-promoting-regular-dental-attendance-problem.pdf
 pdf_filename: currie-2021-promoting-regular-dental-attendance-problem.pdf
 source_collection: external
