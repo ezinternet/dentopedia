@@ -5,7 +5,7 @@ year: 2019
 date: 2019-01-01
 doi: 10.21815/JDE.019.003
 source: khalifah-2019-teaching-assessment-dentist-patient-communication.md
-category: behavioral-dentistry
+category: behavioral-dentistry/communication-relationship
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
 pdf_filename: khalifah-2019-teaching-assessment-dentist-patient-communication.pdf
@@ -60,10 +60,10 @@ For a clinic running internal CE/communication training:
 - Don't expect "evidence-based best teaching method" — the field doesn't have it, so locally pilot and measure
 
 ## Related Papers
-- [[behavioral-dentistry/currie-2021-promoting-regular-dental-attendance-problem]] — names dentist communication as key intervention target
-- [[behavioral-dentistry/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — MI = "emerging skill" with pediatric evidence
-- [[behavioral-dentistry/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — MI evidence in adults (mixed)
-- [[behavioral-dentistry/lundahl-2013-motivational-interviewing-medical-care-settings]] — MI cross-domain reference
+- [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] — names dentist communication as key intervention target
+- [[behavioral-dentistry/motivational-interviewing/jahanshahi-2022-motivational-interviewing-prevent-early-childhood]] — MI = "emerging skill" with pediatric evidence
+- [[behavioral-dentistry/motivational-interviewing/cartes-velasquez-2024-motivational-interviewing-preventing-oral-morbidities]] — MI evidence in adults (mixed)
+- [[behavioral-dentistry/motivational-interviewing/lundahl-2013-motivational-interviewing-medical-care-settings]] — MI cross-domain reference
 - [[professional-wellbeing/plessas-2022-mental-health-wellbeing-interventions-dental]] — communication training as candidate wellbeing intervention (relationship quality reduces stress)
 
 ## Open Questions
