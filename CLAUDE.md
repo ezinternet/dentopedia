@@ -101,6 +101,10 @@ All three tiers share the same stem:
 | `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
 | `evidence-appraisal` | 근거평가·통계방법론 | EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes |
 | `bone-biology` | 골생물학 | Molecular/cellular bone biology — osteoclast/osteoblast signaling (SIK, PTHrP, RANKL), residual ridge resorption pathology, basic socket healing biology |
+| `behavioral-dentistry/motivational-interviewing` | 행동치의학·동기면담 | Motivational interviewing (MI/brief MI) efficacy & uptake, behavior-change counseling, oral-health/general-health promotion |
+| `behavioral-dentistry/communication-relationship` | 행동치의학·커뮤니케이션 | Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management |
+| `behavioral-dentistry/patient-reported-outcomes` | 행동치의학·환자보고결과 | PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient |
+| `behavioral-dentistry/dental-anxiety` | 행동치의학·치과불안 | Dental anxiety/fear/phobia assessment & management (pediatric + adult), behavior-rating scales, non-pharmacological strategies |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
