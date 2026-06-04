@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - "wiki/**"
+      - "interactives/**"
       - "index.md"
       - "quartz/**"
       - ".github/workflows/deploy-pages.yml"
@@ -47,6 +48,15 @@ jobs:
       - name: Build Quartz
         working-directory: ./quartz
         run: npx quartz build
+
+      - name: Copy interactives/ into site (served verbatim)
+        run: |
+          # Standalone self-contained HTML tools — served as-is at /interactives/,
+          # NOT processed by Quartz (they are full HTML docs, not markdown pages).
+          if [ -d interactives ]; then
+            mkdir -p quartz/public/interactives
+            cp -r interactives/. quartz/public/interactives/
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
