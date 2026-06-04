@@ -1,0 +1,176 @@
+<!--
+---
+title: "LLM Wiki — Interactive Tools 색인"
+type: interactive
+date: 2026-06-04
+status: done
+note: "interactives/ 디렉터리 랜딩 페이지. /interactives/ 로 서빙. 신규 도구 추가 시 카드 한 장 추가."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>LLM Wiki — Interactive Tools 색인</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #faf8f8;
+    --card: #ffffff;
+    --line: #e5e5e5;
+    --gray: #b8b8b8;
+    --dark: #2b2b2b;
+    --muted: #6b6b6b;
+    --secondary: #284b63;
+    --tertiary: #84a59d;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: "Noto Sans KR", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    background: var(--bg);
+    color: var(--dark);
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+  .wrap { max-width: 1000px; margin: 0 auto; padding: 48px 24px 80px; }
+  header { border-bottom: 2px solid var(--secondary); padding-bottom: 20px; margin-bottom: 8px; }
+  h1 { font-size: 1.9rem; margin: 0 0 6px; color: var(--secondary); letter-spacing: -0.01em; }
+  .sub { color: var(--muted); font-size: 0.95rem; margin: 0; }
+  .sub code { font-family: "JetBrains Mono", monospace; background: #eef1f3; padding: 1px 6px; border-radius: 4px; font-size: 0.85em; }
+  .count { display: inline-block; background: var(--tertiary); color: #fff; font-weight: 700; border-radius: 999px; padding: 2px 12px; font-size: 0.85rem; margin-left: 8px; vertical-align: middle; }
+
+  section { margin-top: 40px; }
+  h2 { font-size: 1.15rem; color: var(--secondary); margin: 0 0 16px; padding-left: 12px; border-left: 4px solid var(--tertiary); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 16px; }
+
+  a.card {
+    display: block; background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 18px 20px; text-decoration: none; color: inherit;
+    transition: transform .12s ease, box-shadow .12s ease, border-color .12s ease;
+  }
+  a.card:hover { transform: translateY(-3px); box-shadow: 0 8px 24px rgba(40,75,99,.12); border-color: var(--tertiary); }
+  .card .t { font-weight: 700; font-size: 1rem; color: var(--secondary); margin: 0 0 10px; }
+  .meta { display: flex; align-items: center; gap: 10px; font-size: 0.8rem; color: var(--muted); }
+  .date { font-family: "JetBrains Mono", monospace; }
+  .badge { font-size: 0.7rem; font-weight: 600; padding: 2px 9px; border-radius: 999px; text-transform: uppercase; letter-spacing: 0.03em; }
+  .badge.done       { background: #e6f4ea; color: #1e7e34; }
+  .badge.review     { background: #fff4e0; color: #b8860b; }
+  .badge.in-progress{ background: #e7f0fa; color: #2c6cb0; }
+  .badge.draft      { background: #f0f0f0; color: #8a8a8a; }
+
+  footer { margin-top: 56px; padding-top: 20px; border-top: 1px solid var(--line); color: var(--gray); font-size: 0.82rem; }
+  footer a { color: var(--secondary); }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>🦷 Interactive Tools <span class="count">16</span></h1>
+    <p class="sub">LLM Wiki 치과학 — chairside 계산기·의사결정 트리·시뮬레이터 모음. 모든 도구는 wiki 근거에 연결된 자체완결 HTML입니다. 경로: <code>/interactives/</code></p>
+  </header>
+
+  <section>
+    <h2>ISQ · RFA · 부하 결정</h2>
+    <div class="grid">
+      <a class="card" href="2026-06-02_isq-rfa-loading-simulator-v1.html">
+        <p class="t">ISQ·RFA 통합 시뮬레이터 v1 — 측정 → 궤적 → 부하결정</p>
+        <div class="meta"><span class="date">2026-06-02</span><span class="badge done">done</span></div>
+      </a>
+      <a class="card" href="2026-06-02_isq-rfa-simulation.html">
+        <p class="t">ISQ·RFA 공진주파수 시뮬레이터 (교육용)</p>
+        <div class="meta"><span class="date">2026-06-02</span><span class="badge done">done</span></div>
+      </a>
+      <a class="card" href="2026-05-29_isq-loading-calculator-v3.2.html">
+        <p class="t">ISQ-Loading Calculator v3.2 (dip-logic patched)</p>
+        <div class="meta"><span class="date">2026-05-29</span><span class="badge review">review</span></div>
+      </a>
+      <a class="card" href="2026-05-29_isq-loading-calculator-v3.1.html">
+        <p class="t">ISQ-Loading Calculator v3.1 (evidence-reinforced)</p>
+        <div class="meta"><span class="date">2026-05-29</span><span class="badge review">review</span></div>
+      </a>
+      <a class="card" href="2026-05-29_isq-loading-calculator-v3.html">
+        <p class="t">ISQ-Loading Calculator v3 (evidence-complete)</p>
+        <div class="meta"><span class="date">2026-05-29</span><span class="badge review">review</span></div>
+      </a>
+      <a class="card" href="2026-05-29_isq-loading-calculator-v2.html">
+        <p class="t">ISQ-Loading Calculator v2 (evidence-corrected)</p>
+        <div class="meta"><span class="date">2026-05-29</span><span class="badge draft">draft</span></div>
+      </a>
+      <a class="card" href="2026-05-25_isq-loading-threshold-calculator.html">
+        <p class="t">ISQ-Loading Threshold Calculator (chairside)</p>
+        <div class="meta"><span class="date">2026-05-25</span><span class="badge draft">draft</span></div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>수술 · 술식 의사결정</h2>
+    <div class="grid">
+      <a class="card" href="2026-05-31_pdrn-chairside-manual.html">
+        <p class="t">PDRN Chairside 의사결정 매뉴얼 (원장용)</p>
+        <div class="meta"><span class="date">2026-05-31</span><span class="badge review">review</span></div>
+      </a>
+      <a class="card" href="2026-05-27_short-implant-vs-augmentation.html">
+        <p class="t">Short Implant vs Augmentation — 결정 도구</p>
+        <div class="meta"><span class="date">2026-05-27</span><span class="badge draft">draft</span></div>
+      </a>
+      <a class="card" href="2026-05-27_drill-thermal-selector.html">
+        <p class="t">Drill Thermal Protocol Selector — Chairside</p>
+        <div class="meta"><span class="date">2026-05-27</span><span class="badge draft">draft</span></div>
+      </a>
+      <a class="card" href="2026-05-25_osseodensification-navigator.html">
+        <p class="t">골밀도화 (Osseodensification) 시나리오 네비게이터</p>
+        <div class="meta"><span class="date">2026-05-25</span><span class="badge in-progress">in-progress</span></div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>재료 · 접착 · 약물</h2>
+    <div class="grid">
+      <a class="card" href="2026-05-27_drug-decision-tree.html">
+        <p class="t">약물 결정 트리 — Chairside (drug 5축 통합)</p>
+        <div class="meta"><span class="date">2026-05-27</span><span class="badge draft">draft</span></div>
+      </a>
+      <a class="card" href="2026-05-25_zirconia-inlay-bonding.html">
+        <p class="t">지르코니아 인레이 접착 SOP — 분기형 의사결정 트리</p>
+        <div class="meta"><span class="date">2026-05-25</span><span class="badge in-progress">in-progress</span></div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>환자 커뮤니케이션</h2>
+    <div class="grid">
+      <a class="card" href="2026-06-02_patient-consent-guide.html">
+        <p class="t">환자 설명 가이드 v1.2 — 위생사·원장 협업형 (wiki 근거 연결)</p>
+        <div class="meta"><span class="date">2026-06-02</span><span class="badge review">review</span></div>
+      </a>
+    </div>
+  </section>
+
+  <section>
+    <h2>메타 · 위키 성장</h2>
+    <div class="grid">
+      <a class="card" href="2026-05-27_wiki-evolution.html">
+        <p class="t">llm-wiki Evolution — 2026-05-09 ~ 05-27 성장 곡선</p>
+        <div class="meta"><span class="date">2026-05-27</span><span class="badge done">done</span></div>
+      </a>
+      <a class="card" href="2026-05-26_wiki-growth-curve.html">
+        <p class="t">llm-wiki 누적 곡선 (2026-05-09 → 05-26)</p>
+        <div class="meta"><span class="date">2026-05-26</span><span class="badge draft">draft</span></div>
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    LLM Wiki — Dentistry · 자동 생성 색인. 새 도구를 <code>interactives/</code>에 추가하면 이 페이지에 카드 한 장을 더하세요.
+    · <a href="../">← 위키 홈</a>
+  </footer>
+</div>
+</body>
+</html>
