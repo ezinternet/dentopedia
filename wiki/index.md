@@ -12,6 +12,12 @@ tags: [navigation, redirect]
 ## 한줄요약
 이 파일은 wiki/ 폴더의 navigation stub. 정식 카탈로그는 root `index.md`에 있음.
 
+## 🦷 Interactive Tools
+
+chairside 계산기·의사결정 트리·시뮬레이터 **16편** (ISQ·RFA 부하결정, 골밀도화, 약물 결정트리, 환자 설명가이드 등) — wiki 근거에 연결된 자체완결 도구 모음.
+
+→ **[Interactive Tools 색인 열기](https://ezinternet.github.io/llm-wiki/interactives/)** (모든 페이지 하단 footer에도 링크 있음)
+
 ## Wiki Folder Index — Redirect
 
 이전에 이 위치에 별도 index 사본이 있었으나 root `index.md`와 중복되어 정리됨 (2026-05-22).
