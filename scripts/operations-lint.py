@@ -40,7 +40,7 @@ OPERATIONS_DIRS = {
 AGENDA_REQUIRED = {"slides", "interactives", "peer-review"}
 
 # These filenames are exempt from all checks (templates, indices, gitkeep).
-EXEMPT_FILES = {"_template.md", "index.md", ".gitkeep"}
+EXEMPT_FILES = {"_template.md", "index.md", "index.html", ".gitkeep"}
 
 # Allowed status values.
 VALID_STATUS = {"draft", "in-progress", "review", "done", "archived"}
