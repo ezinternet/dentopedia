@@ -82,6 +82,7 @@ All three tiers share the same stem:
 | `implants` | 임플란트 | Implant design, bone type, survival, failure risk, MBL, soft tissue |
 | `implants/isq` | 임플란트·ISQ | ISQ/RFA measurement, stability dip, loading decision thresholds |
 | `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface technology, osseointegration |
+| `implants/vertical-ridge-augmentation` | 임플란트·수직골증대 | Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh |
 | `bone-regeneration` | 골재생 | GBR, ridge preservation, socket management, peri-implantitis GBR |
 | `immediate-implant` | 즉시식립 | Immediate implant placement protocols, outcomes, esthetic risk |
 | `sinus-lift/lateral` | 상악동거상술·측방 | Lateral window approach, membrane, grafting materials |
@@ -98,6 +99,10 @@ All three tiers share the same stem:
 | `drug` | 전신질환·약물 | Systemic disease management, drug interactions, MRONJ, anticoagulants |
 | `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
 | `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
+| `suture-wound-closure` | 봉합·창상폐쇄 | Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps) |
+| `occlusion` | 교합 | Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment |
+| `geriatric-dentistry` | 노년치의학 | Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects |
+| `local-anesthesia` | 국소마취·진정 | LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, N2O & procedural sedation, injection landmarks |
 | `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
 | `evidence-appraisal` | 근거평가·통계방법론 | EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes |
 | `bone-biology` | 골생물학 | Molecular/cellular bone biology — osteoclast/osteoblast signaling (SIK, PTHrP, RANKL), residual ridge resorption pathology, basic socket healing biology |
