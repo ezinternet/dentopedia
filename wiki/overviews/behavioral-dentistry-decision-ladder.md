@@ -101,6 +101,7 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 - [[overviews/drug-clinical-decision-ladder]] — 환자 약물·전신 질환 동반 (커뮤니케이션 critical)
 - [[overviews/oral-medicine-decision-ladder]] — BMS·만성 통증 환자 (CBT·MI 연계)
 - [[overviews/periodontics-treatment-ladder]] — SPT 순응도 (축 4)
+- [[overviews/patient-consultation-communication-protocol]] — 상담 encounter 6단계 시간축 재합성 (이 ladder의 시간축 자매 페이지)
 
 확신도 등급:
 - 축 1 MI (소아·일반 의료) = [근거강함] (Jahanshahi 2022 + Lundahl 2013).
