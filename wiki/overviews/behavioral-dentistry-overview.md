@@ -98,4 +98,5 @@ Master synthesis of the behavioral-dentistry category (19 papers, 4 axes) — th
 
 ## Related Pages
 - [[overviews/behavioral-dentistry-decision-ladder]] — 행동 3축(MI·커뮤니케이션·attendance) 집중 decision ladder (이 master의 하위 focus).
+- [[overviews/patient-consultation-communication-protocol]] — 같은 evidence를 상담 encounter 6단계 시간축(개시→정보수집→설명→SDM→기대정렬→마무리)으로 재합성한 chairside 자매 페이지.
 - 4 subcategory: `behavioral-dentistry/motivational-interviewing`, `/communication-relationship`, `/patient-reported-outcomes`, `/dental-anxiety`.
