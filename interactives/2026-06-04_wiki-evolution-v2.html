@@ -1,0 +1,210 @@
+<!--
+---
+title: "llm-wiki Evolution v2 — Ingest 타임라인 · 발행연도 · 카테고리 3-view (2026-06-04, 1,012 papers)"
+type: interactive
+date: 2026-06-04
+status: done
+agenda: agenda/2026-06-04_wiki-evolution-refresh.md
+source_wiki:
+  - index.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>llm-wiki Evolution v2</title>
+<style>
+  :root{
+    --bg:#f5ecd9; --ink:#1a1a1a; --muted:#6b6b6b; --grid:#c9bfa8;
+    --card:#fbf4e2;
+    --c1:#d97d52;  /* papers      — terracotta */
+    --c2:#3d7b7d;  /* overviews   — dark teal */
+    --c3:#7fa177;  /* recent      — olive */
+    --c4:#c89e3a;  /* mustard */
+    --c5:#9b6e8b;  /* purple */
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;padding:28px;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Pretendard","Apple SD Gothic Neo","Helvetica Neue",Arial,sans-serif;}
+  .card{background:var(--card);border-radius:18px;padding:26px 34px 22px;max-width:1180px;margin:0 auto;
+    box-shadow:0 1px 0 rgba(0,0,0,.04);}
+  h1{font-size:18px;font-weight:600;margin:0 0 3px;letter-spacing:-.01em;}
+  .subtitle{color:var(--muted);font-size:12px;margin-bottom:16px;font-feature-settings:"tnum";}
+  .tabs{display:flex;gap:6px;margin-bottom:14px;flex-wrap:wrap;}
+  .tab{font-size:12.5px;padding:7px 14px;border:1px solid var(--grid);background:transparent;border-radius:999px;
+    cursor:pointer;color:var(--muted);font-family:inherit;transition:all .15s;}
+  .tab:hover{border-color:var(--c1);color:var(--ink);}
+  .tab.active{background:var(--ink);color:var(--bg);border-color:var(--ink);font-weight:600;}
+  .kpis{display:flex;gap:24px;flex-wrap:wrap;margin:2px 0 16px;}
+  .kpi{display:flex;flex-direction:column;}
+  .kpi .v{font-size:22px;font-weight:700;font-feature-settings:"tnum";letter-spacing:-.02em;}
+  .kpi .l{font-size:11px;color:var(--muted);}
+  svg{display:block;width:100%;height:auto;}
+  .axis text{font-size:11px;fill:var(--muted);font-feature-settings:"tnum";}
+  .axis line{stroke:var(--grid);}
+  .grid line{stroke:var(--grid);stroke-dasharray:2 3;opacity:.6;}
+  .ms-line{stroke:var(--ink);stroke-dasharray:2 3;stroke-width:1;opacity:.5;}
+  .ms-dot{fill:var(--ink);}
+  .ms-label{font-size:10px;fill:var(--ink);font-feature-settings:"tnum";}
+  .dot{cursor:pointer;}
+  .bar{cursor:pointer;transition:opacity .12s;}
+  .bar:hover{opacity:.78;}
+  .legend{display:flex;gap:22px;flex-wrap:wrap;padding-top:14px;border-top:1px solid var(--grid);margin-top:6px;font-size:12.5px;}
+  .legend .item{display:inline-flex;align-items:center;gap:7px;}
+  .legend .sw{width:13px;height:13px;border-radius:3px;display:inline-block;}
+  .legend .name{font-weight:600;}
+  #tip{position:fixed;pointer-events:none;background:var(--ink);color:var(--bg);padding:7px 10px;border-radius:8px;
+    font-size:12px;line-height:1.45;opacity:0;transition:opacity .1s;font-feature-settings:"tnum";z-index:9;max-width:240px;}
+  #tip b{color:#ffd9a8;}
+  .note{font-size:11px;color:var(--muted);margin-top:10px;line-height:1.5;}
+</style>
+</head>
+<body>
+<div class="card">
+  <h1>llm-wiki — Knowledge Evolution</h1>
+  <div class="subtitle" id="sub">2026-05-18 ~ 2026-06-04 · 1,012 papers · 69 overviews · 1,090 wiki pages</div>
+
+  <div class="kpis">
+    <div class="kpi"><span class="v">1,012</span><span class="l">Papers (sources, 1:1)</span></div>
+    <div class="kpi"><span class="v">69</span><span class="l">Overview 합성</span></div>
+    <div class="kpi"><span class="v">383</span><span class="l">고근거 (SR+MA·SR·RCT)</span></div>
+    <div class="kpi"><span class="v">~2.9×</span><span class="l">18일간 papers 성장 (350→1012)</span></div>
+  </div>
+
+  <div class="tabs">
+    <button class="tab active" data-v="timeline">① Ingest Evolution</button>
+    <button class="tab" data-v="years">② 발행연도 Coverage</button>
+    <button class="tab" data-v="cats">③ Category Composition</button>
+  </div>
+
+  <svg id="chart" viewBox="0 0 1180 520" preserveAspectRatio="xMidYMid meet"></svg>
+  <div class="legend" id="legend"></div>
+  <div class="note" id="note"></div>
+</div>
+<div id="tip"></div>
+
+<script>
+/* ===== DATA ===== */
+// git add-date 일별 누적 (2026-05-18 repo-init seed=350; 06-04 = 현재 실측 1012, 오늘 currency batch +27 포함)
+const PAPER_PTS = {"2026-05-18":350,"2026-05-19":409,"2026-05-20":489,"2026-05-21":535,"2026-05-22":601,"2026-05-24":694,"2026-05-31":897,"2026-06-02":909,"2026-06-03":926,"2026-06-04":1012};
+const OVR_PTS   = {"2026-05-18":11,"2026-05-20":12,"2026-05-21":14,"2026-05-22":18,"2026-05-23":19,"2026-05-24":20,"2026-05-31":58,"2026-06-01":60,"2026-06-02":62,"2026-06-03":63,"2026-06-04":69};
+const MILESTONES = [
+  {date:"2026-05-18",label:"repo init · seed 350"},
+  {date:"2026-05-24",label:"+73 ingest"},
+  {date:"2026-05-31",label:"overview 폭발 (+38)"},
+  {date:"2026-06-04",label:"currency batch +27",last:true}
+];
+// 발행연도 히스토그램
+const YEARS = [["≤2002",3],["2003",5],["2004",1],["2005",5],["2006",4],["2007",2],["2008",9],["2009",10],["2010",3],["2011",10],["2012",9],["2013",14],["2014",18],["2015",31],["2016",26],["2017",31],["2018",48],["2019",39],["2020",47],["2021",96],["2022",120],["2023",123],["2024",149],["2025",164],["2026",45]];
+// 카테고리 현재 스냅샷
+const CATS = [["implants",192],["immediate-implant",100],["drug",99],["sinus-lift",72],["endodontics",69],["overviews",69],["bone-regeneration",58],["dental-materials",52],["prosthetic-materials",35],["digital-workflow",29],["oral-surgery",26],["resin-bonding",25],["periodontics",24],["behavioral-dentistry",21],["inlay",20],["oral-medicine",20],["botulinum-toxin",18],["pdrn",17],["기타(31 cats)",91]];
+
+/* ===== SVG helpers ===== */
+const NS="http://www.w3.org/2000/svg";
+const svg=document.getElementById("chart");
+const tip=document.getElementById("tip");
+const legend=document.getElementById("legend");
+const noteEl=document.getElementById("note");
+const W=1180,H=520;
+function el(tag,a={},p=svg){const n=document.createElementNS(NS,tag);for(const k in a)n.setAttribute(k,a[k]);p.appendChild(n);return n;}
+function clear(){while(svg.firstChild)svg.removeChild(svg.firstChild);legend.innerHTML="";}
+function showTip(e,html){tip.innerHTML=html;tip.style.opacity=1;tip.style.left=(e.clientX+14)+"px";tip.style.top=(e.clientY+14)+"px";}
+function hideTip(){tip.style.opacity=0;}
+function lgItem(color,name,val){const s=document.createElement("span");s.className="item";s.innerHTML=`<span class="sw" style="background:${color}"></span><span class="name">${name}</span> <span style="color:var(--muted)">${val}</span>`;legend.appendChild(s);}
+
+/* 날짜 범위 생성 + carry-forward */
+function dateRange(a,b){const out=[],d=new Date(a);const end=new Date(b);while(d<=end){out.push(d.toISOString().slice(0,10));d.setDate(d.getDate()+1);}return out;}
+function carry(pts,dates){const out=[];let last=0;for(const d of dates){if(pts[d]!=null)last=pts[d];out.push(last);}return out;}
+
+/* ===== VIEW 1: timeline ===== */
+function viewTimeline(){
+  clear();
+  const M={top:96,right:54,bottom:48,left:58},iW=W-M.left-M.right,iH=H-M.top-M.bottom;
+  const dates=dateRange("2026-05-18","2026-06-04");
+  const papers=carry(PAPER_PTS,dates),ovr=carry(OVR_PTS,dates);
+  const N=dates.length, xs=i=>M.left+(i/(N-1))*iW, yMax=1012*1.08, ys=v=>M.top+iH-(v/yMax)*iH;
+  // grid + y labels
+  for(let t=0;t<=4;t++){const yv=yMax/4*t,yy=ys(yv);const g=el("g",{class:"grid"});el("line",{x1:M.left,x2:M.left+iW,y1:yy,y2:yy},g);
+    el("text",{x:M.left-10,y:yy+4,"text-anchor":"end",class:""},svg).setAttribute("fill","var(--muted)");
+    const tx=el("text",{x:M.left-10,y:yy+4,"text-anchor":"end"});tx.setAttribute("font-size","11");tx.setAttribute("fill","var(--muted)");tx.textContent=Math.round(yv);}
+  // area papers
+  function area(arr,color,op){let d="";for(let i=0;i<N;i++)d+=(i?` L`:`M`)+` ${xs(i)} ${ys(arr[i])}`;d+=` L ${xs(N-1)} ${ys(0)} L ${xs(0)} ${ys(0)} Z`;el("path",{d,fill:color,"fill-opacity":op});}
+  function line(arr,color,w){let d="";for(let i=0;i<N;i++)d+=(i?` L`:`M`)+` ${xs(i)} ${ys(arr[i])}`;el("path",{d,fill:"none",stroke:color,"stroke-width":w,"stroke-linejoin":"round"});}
+  area(papers,"var(--c1)",.20); line(papers,"var(--c1)",2.4);
+  area(ovr,"var(--c2)",.22); line(ovr,"var(--c2)",2.2);
+  // baseline
+  el("line",{x1:M.left,x2:M.left+iW,y1:ys(0),y2:ys(0),stroke:"var(--ink)","stroke-width":1});
+  // x ticks
+  ["2026-05-18","2026-05-22","2026-05-26","2026-05-31","2026-06-04"].forEach(dt=>{const i=dates.indexOf(dt);if(i<0)return;const tx=el("text",{x:xs(i),y:ys(0)+22,"text-anchor":"middle"});tx.setAttribute("class","");tx.setAttribute("font-size","11");tx.setAttribute("fill",dt==="2026-06-04"?"var(--ink)":"var(--muted)");tx.setAttribute("font-weight",dt==="2026-06-04"?"700":"400");tx.textContent=dt.slice(5);});
+  // milestones
+  MILESTONES.forEach(ms=>{const i=dates.indexOf(ms.date);if(i<0)return;const x=xs(i);
+    el("line",{x1:x,x2:x,y1:24,y2:ys(0),class:"ms-line"});el("circle",{cx:x,cy:24,r:3,class:"ms-dot"});
+    const t=el("text",{x:x,y:16,"text-anchor": x>W-180?"end":"middle",class:"ms-label"});t.setAttribute("font-weight",ms.last?"700":"400");t.textContent=ms.date.slice(5);
+    const t2=el("text",{x:x,y:40,"text-anchor":x>W-180?"end":"middle",class:"ms-label"});t2.setAttribute("fill","var(--muted)");t2.textContent=ms.label;});
+  // hover dots
+  for(let i=0;i<N;i++){
+    const hd=el("circle",{cx:xs(i),cy:ys(papers[i]),r:9,fill:"transparent",class:"dot"});
+    hd.addEventListener("mousemove",e=>showTip(e,`<b>${dates[i]}</b><br>papers ${papers[i]}<br>overviews ${ovr[i]}`));
+    hd.addEventListener("mouseleave",hideTip);
+    el("circle",{cx:xs(i),cy:ys(papers[i]),r:2.5,fill:"var(--c1)"});
+    el("circle",{cx:xs(i),cy:ys(ovr[i]),r:2.5,fill:"var(--c2)"});
+  }
+  lgItem("var(--c1)","Papers (sources)",1012);
+  lgItem("var(--c2)","Overview 합성",69);
+  noteEl.textContent="2026-05-18 이전은 git 추적 전(repo-init seed 350에 포함). 06-04 지점은 오늘 currency-refresh 27편 ingest 반영한 실측치. 곡선 위 점에 마우스를 올리면 일별 값 표시.";
+}
+
+/* ===== VIEW 2: years ===== */
+function viewYears(){
+  clear();
+  const M={top:40,right:54,bottom:64,left:50},iW=W-M.left-M.right,iH=H-M.top-M.bottom;
+  const N=YEARS.length, bw=iW/N*0.66, gap=iW/N;
+  const yMax=Math.max(...YEARS.map(d=>d[1]))*1.12, ys=v=>M.top+iH-(v/yMax)*iH;
+  // cumulative
+  let acc=0;const cum=YEARS.map(d=>{acc+=d[1];return acc;});const cumMax=acc;
+  for(let t=0;t<=4;t++){const yv=yMax/4*t,yy=ys(yv);const g=el("g",{class:"grid"});el("line",{x1:M.left,x2:M.left+iW,y1:yy,y2:yy},g);const tx=el("text",{x:M.left-8,y:yy+4,"text-anchor":"end"});tx.setAttribute("font-size","11");tx.setAttribute("fill","var(--muted)");tx.textContent=Math.round(yv);}
+  // bars
+  YEARS.forEach((d,i)=>{const x=M.left+gap*i+(gap-bw)/2,h=iH-(ys(d[1])-M.top),y=ys(d[1]);
+    const recent = (d[0]>="2021");
+    const r=el("rect",{x,y,width:bw,height:Math.max(h,0),rx:2,fill:recent?"var(--c3)":"var(--c1)",class:"bar"});
+    r.addEventListener("mousemove",e=>showTip(e,`<b>${d[0]}</b><br>${d[1]}편${recent?" · 최근 5년":""}<br>누적 ${cum[i]}`));
+    r.addEventListener("mouseleave",hideTip);});
+  // cumulative line (scaled to cumMax)
+  const ysC=v=>M.top+iH-(v/(cumMax*1.05))*iH;let dd="";YEARS.forEach((d,i)=>{const x=M.left+gap*i+gap/2;dd+=(i?` L`:`M`)+` ${x} ${ysC(cum[i])}`;});
+  el("path",{d:dd,fill:"none",stroke:"var(--c5)","stroke-width":2,"stroke-dasharray":"4 3"});
+  // baseline + x labels (every other)
+  el("line",{x1:M.left,x2:M.left+iW,y1:ys(0),y2:ys(0),stroke:"var(--ink)","stroke-width":1});
+  YEARS.forEach((d,i)=>{if(i%2&&i!==YEARS.length-1)return;const x=M.left+gap*i+gap/2;const tx=el("text",{x,y:ys(0)+20,"text-anchor":"middle"});tx.setAttribute("font-size","10");tx.setAttribute("fill","var(--muted)");tx.setAttribute("transform",`rotate(35 ${x} ${ys(0)+20})`);tx.textContent=d[0];});
+  lgItem("var(--c1)","< 2021");
+  lgItem("var(--c3)","2021–2026 (최근 5년)");
+  lgItem("var(--c5)","누적선");
+  noteEl.textContent="발행연도 분포. 최근 5년(2021–2026)이 전체의 ~64%로, corpus가 최신 근거에 강하게 치우쳐 있음. 2026은 진행 중이라 부분값.";
+}
+
+/* ===== VIEW 3: categories ===== */
+function viewCats(){
+  clear();
+  const M={top:24,right:70,bottom:24,left:150},iW=W-M.left-M.right;
+  const N=CATS.length, rh=(H-M.top-M.bottom)/N, bh=rh*0.62;
+  const xMax=Math.max(...CATS.map(d=>d[1]))*1.04, xs=v=>(v/xMax)*iW;
+  CATS.forEach((d,i)=>{const y=M.top+rh*i+(rh-bh)/2;
+    const colorIdx=i%5; const colors=["var(--c1)","var(--c2)","var(--c3)","var(--c4)","var(--c5)"];
+    const r=el("rect",{x:M.left,y,width:Math.max(xs(d[1]),1),height:bh,rx:3,fill:colors[colorIdx],"fill-opacity":.85,class:"bar"});
+    r.addEventListener("mousemove",e=>showTip(e,`<b>${d[0]}</b><br>${d[1]} pages`));r.addEventListener("mouseleave",hideTip);
+    const lab=el("text",{x:M.left-10,y:y+bh/2+4,"text-anchor":"end"});lab.setAttribute("font-size","11.5");lab.setAttribute("fill","var(--ink)");lab.textContent=d[0];
+    const val=el("text",{x:M.left+xs(d[1])+8,y:y+bh/2+4});val.setAttribute("font-size","11");val.setAttribute("fill","var(--muted)");val.setAttribute("font-feature-settings",'"tnum"');val.textContent=d[1];});
+  noteEl.textContent="카테고리별 현재 페이지 수(overviews 포함). 임플란트 외과 축(implants+immediate-implant+sinus-lift+bone-regeneration ≈ 422, 39%)이 지배적. 비임플란트 축은 상대적으로 얇음 — breadth 균형이 다음 과제.";
+}
+
+/* ===== tabs ===== */
+const views={timeline:viewTimeline,years:viewYears,cats:viewCats};
+document.querySelectorAll(".tab").forEach(b=>b.addEventListener("click",()=>{
+  document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
+  b.classList.add("active");hideTip();views[b.dataset.v]();
+}));
+viewTimeline();
+</script>
+</body>
+</html>
