@@ -67,7 +67,7 @@ process_pdf() {
   # Call claude CLI in the wiki directory
   cd "$WIKI_DIR" || exit 1
   "$CLAUDE_BIN" --dangerously-skip-permissions -p \
-    "New PDF found in llm-wiki root: \"$filepath\". Please ingest it now: copy to papers/ with proper stem, write sources/{stem}.md, write wiki/{category}/{stem}.md, update index.md, delete original. Follow CLAUDE.md rules exactly." \
+    "New PDF found in llm-wiki root: \"$filepath\". Ingest it now following CLAUDE.md exactly. (1) Step 0 gate: extract DOI, grep sources/ for duplicate, and check for retraction — abort with a log note if either fails. (2) Copy to papers/ with the proper stem, write sources/{stem}.md (include the mandatory ## Why Ingested section with at least one [[wikilink]]), write wiki/{category}/{stem}.md (bilingual One-line Summary + 한줄요약), update index.md, and delete the original PDF from the root. (3) Refresh search: export PATH=\"/opt/homebrew/bin:\$PATH\" && cd /Users/oracleneo/llm-wiki && qmd update && qmd embed. (4) Commit per-file per CLAUDE.md — each wiki page as 'wiki: {category}/{stem}', each source as 'source: {stem}', index.md as its own commit, every commit ending with the trailer 'Co-Authored-By: Claude Opus 4.8 (1M context) <noreply@anthropic.com>'. (5) Run: git push origin main. Follow CLAUDE.md rules exactly." \
     >> "$LOG_FILE" 2>&1
 
   local exit_code=$?
