@@ -1157,6 +1157,7 @@ Format: `category/stem` — one-line description
 
 ## 종합 (Overviews) — 임상 의사결정 ladder
 
+- [[overviews/dental-imaging-radiation-dose-optimization-overview]] — 치과 영상 선량 최적화 종합 (18편, 2026-06-05 신설): modality 위계(구내~1.3≪파노라마~18≪CBCT~121µSv, Lee&Badal 2021) 위 4개 술자 레버 — FOV/collimation(Benchimol 2018, Ozaki 2021), 고관전압 ULD/LD ~6배↓(Charuakkra 2023), 작은 복셀 유지+노출↓로 소아 ~45%↓(Oenning 2019), 파노라마 빔높이(Lee 2019); 차폐 중단 합의(Benavides 2023 AAOMR + Schindler 2025 실측); 비전리 0.55T MRI 대안(Willershausen 2025). 2단 의사결정 ladder
 - [[overviews/drug-clinical-decision-ladder]] — drug 카테고리 허브 (2026-05-27 분할 후 재정의): 5개 sub-overview 진입점 + 5축 핵심 명제 + Cross-cutting Themes (NSAID-Aspirin 상호작용·RA/SLE·고령자·임신·이식) + 한국 임상 조정. paper wikilink는 sub-overview로 위임.
 - [[overviews/drug-mronj-antiresorptive-overview]] — MRONJ·항흡수제 종합 (9편, 2026-05-27 신설·2026-06-01 보강): AAOMS 2022 staging 유지·drug holiday 합의 없음·CTX 권고 제외; Denosumab 누적≥32 dose MRONJ 31.2% (Yokoo 2025); 항흡수제 후 임플란트 23% 실패 83% MRONJ (Li 2024); 단일 vs 3일 AMPC prophylaxis 동등 (Iwata 2025); 4-level prevention framework
 - [[overviews/drug-antibiotic-stewardship-overview]] — 항생제 stewardship 종합 (13편, 2026-05-27 신설): IE prophylaxis 4개 최고위험군만 (Wilson 2021 AHA, Sperotto 2024 SR-MA n=1.15M); 단순 발치 prophylaxis 무효 (Lodi 2021 Cochrane); 임플란트 단일 Amoxicillin 2g (Torof 2023); AP 항생제 과잉처방 (Mendez-Millan 2024); Amoxicillin 1차·Clindamycin 회피 (Thornhill 2019 NHS 7년)
@@ -1227,6 +1228,40 @@ Format: `category/stem` — one-line description
 - [[radiology/brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment]] — Brochado Martins 2025 (SR+MA, 19편, ACTA): CBCT 치유율 loose 87%/strict 36% — 루틴 CBCT 결과추적 불필요 가능성(비판적)
 - [[radiology/baena-2022-cbct-diagnostic-performance-root-resorption]] — Baena 2022 (SR+MA, 17편): CBCT 외흡수 진단 민감도 78.1%·특이도 79.3%; 유효선량 34-1073µSv(정확도-피폭 trade-off)
 - [[radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct]] — Khafaji 2023 (SR, 5편 phantom): 치과 CBCT 안구 산란선량 0.103-8.3mSv, FOV 의존 — 선량기준치 필요
+
+<!-- BATCH INGEST 2026-06-05: dentomaxillofacial radiology 19편 (CBCT/파노라마 선량 최적화·영상 기하·허상·저자장 MRI) -->
+### radiology (added 2026-06-05, batch g — imaging dose & geometry)
+
+**CBCT 정당화·기기 가이드라인**
+- [[radiology/fontenele-2025-cbct-dentistry-clinical-recommendations-indication]] — Fontenele 2025 (narrative, J Dent): CBCT 87기종·34제조사 조사; 전공별 FOV·복셀·노출 의사결정 차트; 유효선량 3-500µSv
+- [[radiology/jacobs-2018-cbct-implant-dentistry-recommendations-clinical]] — Jacobs 2018 (narrative, BMC Oral Health): 임플란트 CBCT 정당화; 유효선량 파노라마 2-200장 범위; 계측정확도 ~200µm(최대 5배 악화)
+- [[radiology/kaasalainen-2021-dental-cone-beam-ct-updated-review]] — Kaasalainen 2021 (narrative, Phys Med): CBCT 기술·dosimetry·DRL 의학물리 리뷰
+
+**방사선방호·선량 벤치마크**
+- [[radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography]] — Benavides 2023 (consensus, AAOMR/JADA): 생식선·태아·갑상선 차폐 모두 중단 권고
+- [[radiology/lee-2021-dental-imaging-doses-web-dose-calculator]] — Lee&Badal 2021 (narrative, FDA): 평균 유효선량 구내 1.32·파노라마 17.93·CBCT 121.09µSv; dentaldose.org 계산기
+
+**CBCT 선량 최적화·dosimetry**
+- [[radiology/oenning-2019-halve-dose-paediatric-cone-beam-ct]] — Oenning 2019 (phantom+MC, Sci Rep): 70kVp·16mAs·180µm로 소아 CBCT 선량 ~45%↓ 화질유지 (ALADAIP)
+- [[radiology/hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children]] — Hidalgo Rivas 2015 (phantom, BJR): 소아 전치부 CBCT 저선량 프로토콜 ~50%↓ (DAP≥127·CNR≥4.8)
+- [[radiology/charuakkra-2023-low-dose-cbct-image-dose-comparison]] — Charuakkra 2023 (phantom, DMFR): ULD/LD CBCT 선량 ~6배↓ '수용~양호' 화질; 고관전압 활용
+- [[radiology/ozaki-2021-cbct-effective-dose-monte-carlo-simulation]] — Ozaki 2021 (MC, DMFR): step-and-shoot 5°/10° 충분; 소형 FOV 6회 ≈ 대형 1회 1.2배
+- [[radiology/lee-2019-cbct-dose-osl-monte-carlo-comparison]] — Lee 2019 (phantom, PLoS One): CBCT OSLD vs MC 유효선량 차 4.0-14.3%, FOV 작을수록 감소
+
+**파노라마 선량·기하·수용체**
+- [[radiology/benchimol-2018-collimation-panoramic-effective-dose-reduction]] — Benchimol 2018 (phantom+audit, DMFR): 풀 파노라마 17.6µSv; collimation 루틴 적용 권고
+- [[radiology/lee-2019-monte-carlo-paediatric-panoramic-dose-reduction]] — Lee 2019 (MC, Sci Rep): 소아 파노라마 빔높이가 선량 최대 인자 (MC 3.474 vs TLD 3.850µSv)
+- [[radiology/schindler-2025-panoramic-thyroid-eye-lens-dose]] — Schindler 2025 (phantom, DMFR): 파노라마 갑상선 0.30-1.46·수정체 0.88-4.24µSv, 기기간 유의차
+- [[radiology/martins-2022-multilayer-panoramic-radiography-device-mapping]] — Martins 2022 (phantom, DMFR): OP300 Maxio 다층 초점골 매핑 (5층 곡선 39-51°)
+- [[radiology/devlin-2013-object-position-magnification-panoramic-radiography]] — Devlin 2013 (theoretical, DMFR): 파노라마 확대 ~1.29H/1.26V; 초점골 내 특정 위치만 왜곡0; 6mm 구체 보정용 우수
+- [[radiology/farman-2010-panoramic-ccd-storage-phosphor-film]] — Farman 2010 (comparison, J Digit Imaging): 수용체별 초점골폭-선량 trade-off (CCD/PSP/필름)
+
+**파노라마 허상 판독**
+- [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]] — Ramos 2016 (pictorial, ISD): 두경부 금속에 의한 파노라마 허상 형성 화보
+- [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]] — Kim 2024 (case, ISD): 귀걸이 실상+허상+유사허상; 회전중심 악골 외 확장
+
+**비전리 대안**
+- [[radiology/willershausen-2025-low-field-mri-pediatric-dental]] — Willershausen 2025 (prospective, Invest Radiol): 소아 0.55T MRI(무피폭) vs 초저선량 CT — 치축·치근·낭종 동등 화질
 
 ## Chairside 인터렉티브 (Interactive Tools)
 
