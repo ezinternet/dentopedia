@@ -1,4 +1,6 @@
 {
   "promptDelete": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "useMarkdownLinks": false
 }

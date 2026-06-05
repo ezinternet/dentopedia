@@ -2,9 +2,9 @@
   "obsidian-linter",
   "dataview",
   "graphfrontier",
-  "neo4j-graph-view",
-  "3d-graph",
-  "realclaudian",
   "obsidian-minimal-settings",
-  "omnisearch"
+  "omnisearch",
+  "obsidian-html-plugin",
+  "lore-graph",
+  "file-explorer-note-count"
 ]
