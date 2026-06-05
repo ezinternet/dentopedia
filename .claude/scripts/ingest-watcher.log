@@ -34,3 +34,7 @@ Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authenti
 [2026-05-30 12:21:25] === llm-wiki ingest watcher started ===
 [2026-05-30 12:21:26] Watching: /Users/oracleneo/llm-wiki
 [2026-05-30 12:21:26] Watching: /Users/oracleneo/llm-wiki
+[2026-06-03 11:31:03] === llm-wiki ingest watcher started ===
+[2026-06-03 11:31:03] === llm-wiki ingest watcher started ===
+[2026-06-03 11:31:04] Watching: /Users/oracleneo/llm-wiki
+[2026-06-03 11:31:04] Watching: /Users/oracleneo/llm-wiki
