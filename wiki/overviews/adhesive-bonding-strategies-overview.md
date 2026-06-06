@@ -97,3 +97,23 @@ tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, c
 확신도 등급:
 - 축 1·2·3·4 = [근거강함 in-vitro]
 - 축 5 stamp = [미검증] (case report)
+
+
+## 2026-06 추가 — Universal·HEMA-free·자가접착 시멘트 연동 (batch ingest)
+
+이번 인제스트로 접착·시멘트 근거가 다음과 같이 확장됨. 핵심 명제: HEMA/BPA-free 및 2-step 무HEMA universal adhesive는 CSE2 수준 내구성에 도달 가능(in-vitro); 침식·오염 등 compromised 상아질에는 전처리(papain 탈단백, decontamination)가 결합 안정화에 기여.
+
+접착제:
+- [[resin-bonding/clearfil-se-bond-product-reference]] — Clearfil SE Bond/SE Bond 2 제품 reference(SE gold-standard 대조군)
+- [[resin-bonding/tang-2024-hema-bpa-free-universal-adhesives-dentin]] — HEMA/BPA-free universal ≈ CSE2 > Scotchbond Universal(50k thermocycle). [근거강함 in-vitro]
+- [[resin-bonding/tsujimoto-2022-two-step-hema-free-universal-adhesive-durability]] — 2-step HEMA-free G2-Bond 법랑질 피로결합강도 최고. [근거강함 in-vitro]
+- [[resin-bonding/brkanovic-2023-universal-adhesive-systems-dentin-bond]] — thermocycling·adhesive 종류 모두 상아질 SBS 유의 영향. [근거강함 in-vitro]
+- [[resin-bonding/hurtado-2023-universal-adhesives-long-term-dentin]] — 6개월 노화 후 CSE·Scotchbond > Xeno Select. [근거강함 in-vitro]
+- [[resin-bonding/demir-2024-surface-treatments-bonding-dentin-elemental]] — 상아질 표면처리·본딩 방식이 원소조성·결합강도에 영향. [근거강함 in-vitro]
+- [[resin-bonding/sirirangsee-2025-papain-deproteinization-eroded-dentin]] — papain 탈단백이 침식상아질 self-etch µTBS 향상·안정화(UBQ 유의). [근거강함 in-vitro]
+
+자가접착 레진시멘트(지르코니아·간접수복 합착):
+- [[resin/theracem-bisco-product-reference]] — TheraCem(BISCO) 제품 reference
+- [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — MDP/CaF 시멘트가 비-MDP보다 결합 우위. [근거강함 in-vitro]
+- [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — 지르코니아 합착 적층기법·mould·노화 영향. [근거강함 in-vitro]
+- [[resin/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity]] — dual-cure 시멘트 세포독성: 광중합<자가중합. [근거강함 in-vitro]

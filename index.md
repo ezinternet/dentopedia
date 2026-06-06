@@ -630,6 +630,16 @@ tags: []
 - [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — 전향적 RCT(Wiley 2025, 2년): 지르코니아 엔도크라운 대합 법랑질 마모 임상평가 — 지르코니아·대조군 법랑질 마모 유의차 없음; 임상적 허용 수준
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 
+## 글래스아이오노머 (Glass Ionomer)
+- [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — narrative review(J Dent Sci 2024): WHO 필수의약품(2021) 등재 후 GIC 임상 적응증 종합; 수복·luting·sealant 근거 충분, liner/base는 논쟁
+- [[glass-ionomer/durrant-2024-gic-load-bearing-restorations-sr]] — SR(RCT 12편, Med Sci Monit 2024): 하중부(Class I/II) GIC가 여러 임상 지표서 기존 재료와 비교 가능
+- [[glass-ionomer/tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr]] — SR(in-vitro 5편, Dent Mater J 2024): Ca/P 방출 개질이 GIC 생체활성·재광화·pH·항우식 향상(CPP-ACP는 불소 유리 감소 가능)
+- [[glass-ionomer/krishnakumar-2024-hvgic-composite-primary-teeth-sr]] — SR(임상시험 4편, IJCPD 2024): 유치 수복서 HVGIC vs composite resin 유의차 없음
+- [[glass-ionomer/panetta-2024-gic-longevity-umbrella-review]] — 우산 리뷰(SR 13편, JFB 2024): GIC longevity, 단 AMSTAR-2/ROBIS 품질 한계 명시
+- [[glass-ionomer/singh-2024-gic-rmgic-biological-response-sr]] — SR(9편, Restor Dent Endod 2024): 전통 GIC가 RMGIC보다 세포독성 낮음(VPT 재료 선택 시사)
+- [[glass-ionomer/moheet-2019-gic-powder-nanofiller-modifications-review]] — narrative review(Eur J Dent 2019): GIC 분말 나노필러 개질이 물성 대체로 향상
+- [[glass-ionomer/mummery-2022-gic-fissure-sealant-case-series]] — case series(BDJ Open 2022): 고우식위험 소아 GIC fissure sealant 평균 77% 유지
+
 ## 디지털 워크플로우 (Digital Workflow)
 - [[digital-workflow/singh-2025-intraoral-scanners-accuracy-umbrella-review]] — Umbrella review (10 SRs, 30+ IOS): TRIOS 3 & Primescan top full-arch accuracy; IOS saves time & improves comfort; limited accuracy in edentulous arches; only 2/10 reviews high AMSTAR-2 quality
 - [[digital-workflow/vankos-2026-digital-conventional-implant-impressions-edentulous]] — sr+ma(MDPI Dentistry 2026, Semmelweis, 34 in-vitro, PROSPERO): 무치악 전악 임플란트 인상 디지털 vs 전통 — RMS 기준 유의차 없음; IOS 전악 무치악 정확도 여전히 논쟁; 전통 인상 유효
@@ -716,6 +726,13 @@ tags: []
 - [[resin-bonding/abo-alazm-2022-ids-universal-adhesive-pulp-pressure]] — in vitro µTBS + permeability(Eur J Dent 2022, 50 third molars · iBOND SE vs GLUMA Bond Universal · simulated pulp pressure 1주): IDS > DDS at 24h·6mo (P<.05); MDP함유 GLUMA > MDP-free iBOND; 두 adhesive 모두 6mo Weibull strength ↓; dentin permeability 유의 감소
 - [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — in-vitro µTBS(J Adhes Dent 2025, KU Leuven Van Meerbeek): Clearfil SE Bond 2(2-step SE)는 타액 오염 후 추가처치 없이도 결합력 유지; Clearfil Universal Bond Quick(1-step SE)는 Katana Cleaner 또는 CSE2 primer 필수
 - [[resin-bonding/kagaoan-2024-additively-manufactured-crown-bond-sr]] — SR(J Dent 2024, 6편 in vitro): 3D 프린팅(주로 광경화 레진) 크라운 결합강도 = 밀링 크라운 동등; 알루미나 샌드블라스팅 가장 권장; 임상연구 부재가 한계
+- [[resin-bonding/clearfil-se-bond-product-reference]] — 제품 reference: Clearfil SE Bond / SE Bond 2(2-step SE, 10-MDP) — SE 카테고리 사실상 gold-standard 대조군 종합
+- [[resin-bonding/tang-2024-hema-bpa-free-universal-adhesives-dentin]] — in-vitro(J Adhes Dent 2024, KU Leuven): HEMA/BPA-free universal이 CSE2 동등·Scotchbond Universal 우위(50k thermocycle)
+- [[resin-bonding/tsujimoto-2022-two-step-hema-free-universal-adhesive-durability]] — in-vitro 피로결합강도(JFB 2022): 2-step HEMA-free G2-Bond이 E&R 모드 법랑질 피로결합강도 최고
+- [[resin-bonding/brkanovic-2023-universal-adhesive-systems-dentin-bond]] — in-vitro(Materials 2023): thermocycling·adhesive 종류 모두 상아질 SBS 유의 영향(p=0.018, p=0.001), 1년 후 비교 가능
+- [[resin-bonding/hurtado-2023-universal-adhesives-long-term-dentin]] — in-vitro 6개월 노화(Materials 2023): CSE·Scotchbond Universal > Xeno Select(µTBS↑, nanoleakage↓)
+- [[resin-bonding/demir-2024-surface-treatments-bonding-dentin-elemental]] — in-vitro(Sci Rep 2024): 상아질 표면처리·본딩 방식이 원소 조성·결합강도에 영향
+- [[resin-bonding/sirirangsee-2025-papain-deproteinization-eroded-dentin]] — in-vitro(Sci Rep 2025): papain 탈단백이 침식상아질서 self-etch µTBS 향상·안정화(UBQ 유의), Raman collagen 제거 확인
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
@@ -821,6 +838,10 @@ tags: []
 - [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] — 정형외과 공학 단행본 챕터(narrative): 골 드릴링 발열 메커니즘 + 골괴사 임계값(47°C/1분·50°C/30초·56°C); 임플란트 osteotomy의 irrigation·feed-rate·bur 기하학 설계 근거 기초. 큰 직경 데이터 다수로 치과 외삽 시 주의
 
 ## 레진 (Resin)
+- [[resin/theracem-bisco-product-reference]] — 제품 reference: TheraCem(BISCO; calcium silicate·10-MDP·Ca/F 방출 dual-cure self-adhesive 시멘트); 지르코니아 합착 강점 종합
+- [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — in-vitro micro-shear(IJPRD 2020): TheraCem이 RelyX Unicem보다 법랑질·상아질·지르코니아 결합 우위(thermocycling 5000)
+- [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — in-vitro(Materials 2022, Özcan): 지르코니아 합착 적층기법·mould·노화 영향, TheraCem 상위
+- [[resin/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity]] — in-vitro L929 MTT(J Prosthet Dent 2025): 3종 dual-cure 시멘트 모두 세포생존율 감소, 광중합<자가중합 독성, SpeedCem Plus 최저·TheraCem Ca 그다음
 - [[resin/zailai-2025-bulk-fill-vs-conventional-composites-clinical-sr-ma]] — SR+MA(9 RCT, 632개 수복물): 벌크필 vs 적층충전 실패율 RR=0.82(p=0.67), 단기~장기 동등; 변연적합·탈색·술후민감도 비교 가능
 - [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] — SR+NMA(12 RCT, Class II): 6·12·24개월 전 아형(ormocer·overlay·flowable·sculptable)과 적층충전 간 변연적합·파절·유지율 유의차 없음; ormocer 비통계적 최고 순위
 - [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] — 우산형 리뷰(AMSTAR 2, 낮음~보통): 전체 메타분석 기존 레진 ~5배 유리(비유의); 마모·미세누출·탄성계수·중합수축 유사 거동
@@ -899,6 +920,7 @@ tags: []
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — In vivo 마우스 + scRNA-seq(JBMR 2025, MGH/Harvard Wein lab): SIK2/SIK3(PTH/PTHrP 하류 kinase) 조건 결손 — 치조골 osteoblast 성숙·BV/TV·발치와 치유 모두 저하; 치조골 osteoblast가 long bone osteoblast와 다른 cluster임을 scRNA-seq로 입증. SIK 억제제·intermittent PTH가 ARP 약리 보조 후보가 될 preclinical rationale.
 
 ## 종합 (Overviews)
+- [[overviews/glass-ionomer-clinical-decision-overview]] — synthesis(2026-06): GIC 8편 통합 — 적응증(수복·luting·sealant 지지, liner/base 논쟁)·하중부 허용·유치 HVGIC≈composite·longevity 근거품질 한계·Ca/P 생체활성 개질·CGIC<RMGIC 세포독성
 - [[overviews/evidence-appraisal-toolkit]] — 근거 평가·통계방법론 10편 합성 (2026-05-22 신설 카테고리, 2026-05-23 cheatsheet 추가): 5축 (SR/MA 방법론 4편 + 효과측정치 3편 + 검정 선택 1편 + 빠른 참조 1편 + 흔한 오류 1편); 치과 RCT/SR 읽을 때 체크리스트; CLAUDE.md "method/procedure" 분류 원칙 적용
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — 크라운 prep 기하 9편 클러스터 종합 (2026-05-21): 권장 TOC 변천(6°→10-22°·임상 25-32°), 치아별 민감도(견치·대구치 vs 소구치 NS), 보조형 retention-fit trade-off(Roudsari/Yang), 임시 크라운 3D 프린팅 우위(6.6-7.65 vs 2.35-3.52 MPa), 지르코니아 핫애시드 임상 회피
 - [[overviews/ai-dentistry-reviews-2024-2025-synthesis]] — 2024–2025 ingest AI 리뷰 9편 클러스터 종합: 정량 anchor(Zhang 2025 LLM 정확도 81.87%·임상수용 69.9%), 메타-품질 anchor(Iqbal 2025 AMSTAR-2 12/17 low), 다전공 매핑 3편·도메인 특화 2편·의료 일반 3편; 즉시 도입 영역(영상 진단)/신중 활용(LLM)/회피 영역(자율 술식) 분리
@@ -1560,3 +1582,11 @@ tags: []
 ### Drug — analgesics / antiplatelet
 - [[drug/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
+
+### sinus-lift/transcrestal (added 2026-06-06)
+- [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Bashar Shahood 2024 · prospective · n=126 implants, 3-arm (no-graft vs Bio-Oss vs Bio-Oss Collagen+CGF), RBH ≤5mm: ISR 96%, CGF 조합이 통증↓·골이득↑
+- [[sinus-lift/transcrestal/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol]] — Xu Zhao 2018 · rct-protocol · n=120, 4-arm (osteotome vs modified drill-TSFE ±graft), NCT03445039; RFA 6회 26주 추적 설계
+- [[sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]] — Stefano Volpe 2022 · retrospective · n=36 Neoss 임플란트, graftless OSFE+collagen sponge, 평균 8.5yr: 생존율 97.2%, ISQ 73→76, VBH net gain 2.4mm
+- [[sinus-lift/transcrestal/sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct]] — Sansupakorn 2024 · rct · n=30, OSFE+BCP(HA30:TCP70) vs no-graft 1년: ISQ p=0.56 NS, BCP 군 MMBC 유의 증가 → BCP 추가 이익 없음
+- [[sinus-lift/transcrestal/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft]] — Hong-Chang Lai 2008 · prospective · n=42 ITI-SLA, OSFE without graft 20주 RFA: 95.2% 골유착, ISQ dip 2–6주→16주 회복, RBH·골형은 ISQ 예측인자 아님
+- [[sinus-lift/transcrestal/scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid]] — Alessandro Scarano 2025 · prospective · n=58, Flusilift+2% 교차결합 HA 단독, 12mo CBCT: 골이득 7.5mm, 생존율 100%

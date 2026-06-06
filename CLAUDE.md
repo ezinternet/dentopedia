@@ -45,6 +45,7 @@ llm-wiki/
 │   ├── endodontics/            # 근관치료
 │   ├── periodontics/           # 치주치료
 │   ├── dental-materials/       # 치과재료 (general)
+│   ├── glass-ionomer/          # 글래스아이오노머 (GIC/RMGIC/HVGIC)
 │   ├── resin/                  # 레진
 │   ├── resin-bonding/          # 레진접착
 │   ├── sinus-lift/             # 상악동거상술
@@ -102,6 +103,7 @@ All three tiers share the same stem:
 | `endodontics/anatomy` | 근관치료·해부 | Canal morphology, access cavity, MB2, CBCT-guided access |
 | `periodontics` | 치주치료 | Periodontal disease, regeneration, SPT |
 | `dental-materials` | 치과재료 | Impression materials, zirconia, ceramics |
+| `glass-ionomer` | 글래스아이오노머 | GIC / RMGIC / HVGIC: composition, restorative & preventive use, longevity, bioactivity/remineralization, biocompatibility, fissure sealant |
 | `digital-workflow` | 디지털워크플로우 | IOS accuracy, CBCT, CAD/CAM, guided surgery |
 | `resin` | 레진 | Composite resin, polymerization, shrinkage |
 | `resin-bonding` | 레진접착 | Adhesive systems, bonding mechanisms, dentin adhesion |
