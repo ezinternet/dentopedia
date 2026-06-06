@@ -3,6 +3,9 @@
 Personal knowledge base for dental research papers.
 Format: `category/stem` — one-line description
 
+> [!tip] 마지막 배포
+> <!-- LAST_UPDATED -->2026-06-06<!-- /LAST_UPDATED -->
+
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
