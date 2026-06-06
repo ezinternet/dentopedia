@@ -1,3 +1,8 @@
+---
+title: "LLM Wiki — Dentistry"
+tags: []
+---
+
 # LLM Wiki — Dentistry Index
 
 Personal knowledge base for dental research papers.
@@ -389,7 +394,7 @@ Format: `category/stem` — one-line description
 - [[sinus-lift/lateral/wen-2023-lateral-sinus-floor-defects-retrospective]] — 후향적 cohort (Retrospective, n=35 patients/36 sinuses, 1–9년 추적): 기존 상악동저 결손 (Sinus Floor Defect) 환자에서 측방 상악동 거상술 (Lateral Sinus Floor Elevation, LSFE) + 흡수성 콜라겐막 (Resorbable Collagen Membrane) 으로 결손 봉합 후 골이식 — 1차 완성률 97.2%, 슈나이더 막 (Schneiderian Membrane, SM) 천공 27.8%, 임플란트 누적 생존율 (Cumulative Survival Rate, CSR) 1/3/5/7년 96.5%, 8년 64.3%. 결손이 있어도 적절히 관...
 - [[sinus-lift/lateral/xin-2020-advanced-platelet-rich-fibrin-schneiderian]] — 동물 실험 (Animal Study, n=24, 1:1 무작위) — 상악동거상술 시 슈나이더 막 (Schneiderian Membrane, SM) 인위적 천공 후 진보된 혈소판 풍부 피브린 (Advanced Platelet-Rich Fibrin, A-PRF)이 흡수성 콜라겐 막 (Collagen Membrane, CM)보다 1주 시 막을 완전히 재형성하고, 1주·4주 모두 신생 골양조직 (Osteoid)이 유의하게 더 많이 형성되었다 (p<0.0001).
 - [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] — SR+MA: 상악동 격벽 존재 → 천공 OR >2배; 측벽 두께 >2mm → 천공 위험 증가; 수술 전 CBCT 평가 필수
-- [[sinus-lift/lateral/yue-2022-sinus-floor-elevation-before-extraction]] — 3년 추적 케이스 리포트: 치주적 예후 불량 상악 #16에 발치 전 변형 측방 상악동거상술(Modified Sinus Floor Elevation, MSFE)을 시행해 잔존골 1–2 mm를 12–14 mm로 증대시킨 뒤 13개월 후 발치 + 즉시식립; 조직학적으로 신생골 우세, 3년 부하 후 골흡수 2 mm 미만, 치주염성 임플란트(peri-implantitis) 없음.
+- [[sinus-lift/lateral/yue-2022-sinus-floor-elevation-before-extraction]] — 3년 추적 케이스 리포트: 치주적 예후 불량 상악 16번 발치 전 변형 측방 상악동거상술(Modified Sinus Floor Elevation, MSFE)을 시행해 잔존골 1–2 mm를 12–14 mm로 증대시킨 뒤 13개월 후 발치 + 즉시식립; 조직학적으로 신생골 우세, 3년 부하 후 골흡수 2 mm 미만, 치주염성 임플란트(peri-implantitis) 없음.
 - [[sinus-lift/lateral/zenobio-2019-blood-clot-stability-sinus-immediate]] — 인간 임상 파일럿 (n=10): 측방창 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립으로 무이식재 (graftless) 신생골 형성 확인. 6개월간 혈병 (Blood Clot) 부피 평균 16.52% ± 8.60% 수축, 골 높이 35–43% 수축.
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
