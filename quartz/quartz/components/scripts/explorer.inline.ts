@@ -95,6 +95,15 @@ function createFileNode(currentSlug: FullSlug, node: FileTrieNode): HTMLLIElemen
   return li
 }
 
+// Recursively count file (leaf) descendants of a folder node
+function countFiles(node: FileTrieNode): number {
+  let count = 0
+  for (const child of node.children) {
+    count += child.isFolder ? countFiles(child) : 1
+  }
+  return count
+}
+
 function createFolderNode(
   currentSlug: FullSlug,
   node: FileTrieNode,
@@ -123,10 +132,18 @@ function createFolderNode(
     a.dataset.for = folderPath
     a.className = "folder-title"
     a.textContent = node.displayName
+    const countEl = document.createElement("span")
+    countEl.className = "folder-count"
+    countEl.textContent = ` (${countFiles(node)})`
+    a.appendChild(countEl)
     button.replaceWith(a)
   } else {
     const span = titleContainer.querySelector(".folder-title") as HTMLElement
     span.textContent = node.displayName
+    const countEl = document.createElement("span")
+    countEl.className = "folder-count"
+    countEl.textContent = ` (${countFiles(node)})`
+    span.appendChild(countEl)
   }
 
   // if the saved state is collapsed or the default state is collapsed

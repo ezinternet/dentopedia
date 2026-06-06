@@ -280,3 +280,12 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
     }
   }
 }
+
+// File count shown next to folder names in the explorer (e.g. "glass-ionomer (8)")
+.folder-count {
+  color: var(--gray);
+  font-size: 0.85em;
+  font-weight: 400;
+  margin-left: 0.15em;
+  white-space: nowrap;
+}
