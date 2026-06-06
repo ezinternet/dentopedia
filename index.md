@@ -487,6 +487,10 @@ Format: `category/stem` — one-line description
 - [[endodontics/irrigation/tonini-2022-irrigating-solutions-activation-methods-sr]] — SR (RCT 7편): 활성화 기법(PUI, XP-endo, EndoVac)이 기존 주사기 관개 대비 유의하게 우수; NaOCl+HEDP/MTAD 병용은 항균력 추가 이점 없음
 - [[endodontics/irrigation/zhou-2021-xpf-pui-medicament-removal-sr-ma]] — 수산화칼슘(Ca(OH)₂) 잔류 세정 SR+MA(in vitro): 수동초음파세정(PUI) > XP-Endo Finisher 전반적 우세(OR 3.09), 단 NaOCl+EDTA 병용 시 유의차 소실(OR 1.51); PUI 우위는 2주 기간 calcium hydroxide에서 유의.
 - [[endodontics/irrigation/singh-2026-precision-endodontics-nanorobots-targeted-antimicrobial]] — Editorial (JCDE 2026, Shishir Singh): Nanorobot/nanozyme/biodegradable nanoparticle(AgNP·ZnO·chitosan·bioactive glass·PLGA)을 통한 dentinal tubule·apical ramification·isthmus 단위 targeted disinfection 비전; 임상 도달 전 (aspirational), biocompatibility·cytotoxicity·regulatory 미해결.
+- [[endodontics/irrigation/wong-2015-treatment-outcomes-single-visit-versus]] — RCT (n=220): single-visit vs multiple-visit RCT equal in success/pain, single-visit ~31 min faster
+- [[endodontics/irrigation/artaza-2024-outcome-nonsurgical-root-canal-treatment]] — retrospective outcome of nonsurgical RCT/retreatment for large apical periodontitis lesions (89%/79% loose success; ≥10 mm, abscess, sinus tract, CBCT worsen)
+- [[endodontics/irrigation/asgary-2008-endodontic-treatment-large-periradicular-lesion]] — case report: ~25 mm cyst-like periradicular lesion healed by single-visit non-surgical RCT (9-mo full bony regression)
+- [[endodontics/irrigation/llena-2020-outcome-root-canal-treatments-provided]] — Retrospective (585 teeth, 1–6 yr): coronal restoration quality + preoperative status drive RCT periapical healing (~90.9%)
 
 ## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)
 - [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] — C-shaped canal morphology 30–50% prevalence in Asian populations; buccal concavity minimum dentin thickness creates high perforation risk; conservative instrumentation essential
@@ -885,6 +889,7 @@ Format: `category/stem` — one-line description
 - [[evidence-appraisal/anonymous-nd-systematic-review-critical-appraisal-worksheet]] — 4쪽 SR 비판적 평가 worksheet (CASP/PHRU 양식 추정, 익명·날짜 미상; 학습용으로만 사용, 인용 불가)
 - [[overviews/statistical-abbreviations-cheatsheet]] — 통계 약자 치트시트 (synthesis, 2026-05-23): descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set 9개 카테고리 + 5대 오용 패턴 (OR↔RR, p<0.05=임상유의, CI 폭, SD↔SE, ITT↔PP)
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — 고려대·Mayo Clinic 비판분석 (대한치과의사협회지 2015, 53권 7호): 인사돌 (옥수수 불검화 정량추출물, Zea mays L. unsaponifiable) 임상효능 근거 4건 시험 (1982·1988·1991·1994) — 무작위배정 실패·표본수 근거 부재·부적절 통계검정·맹검 불명확 등 통계적 타당성 결여; 1994 이후 20년 추가 시험 부재 — Insadol 마케팅 근거 비판
+- [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — CONSORT + trial-registration audit of 32 SRP-adjunct RCTs from a single group; low reporting quality, registration discrepancies, implausible timelines → distrust the unusually large effects
 
 ## 골생물학 (Bone Biology — Molecular / Cellular)
 - [[bone-biology/kondo-2022-current-perspectives-residual-ridge]] — Narrative review + 마우스 데이터(J Prosthodont Res 2023): 잔존 치조제 흡수(RRR)를 림프구 매개 외측면 osteoclast 활성화 병리로 재정의 — Rag2-/-(T/B 결핍) 마우스에서 socket 내 osteoclast 정상, 외측면 osteoclast만 부재; hCD3+ T 세포 주입으로 복원. 향후 외측면-선택적 osteoclast 차단 치료의 mechanism 근거.
@@ -1307,6 +1312,18 @@ Format: `category/stem` — one-line description
 ### periodontics (added 2026-05-28, batch e)
 
 - [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — Hom-Lay Wang 2025 · consensus · AO/AAP consensus on prevention and management of peri-implant diseases and conditions: Summary report
+- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — SR+MA (12 RCTs): sustained-release subgingival antiseptics aid SRP (PD/CAL/BOP p=0.001), irrigation does not
+- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — split-mouth RCT (n=60): GBT vs conventional SRP equivalent in NSPT, GBT faster
+- [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA (9 RCTs): SRP lowers HbA1c (0.56%) and CRP in type 2 diabetics with periodontitis
+- [[periodontics/joseph-2024-systematic-review-meta-analysis-randomized]] — SR+MA of 44 RCTs: NSPT cuts mean PD by 0.55 mm at 3 mo vs controls in periodontitis patients with systemic conditions
+- [[periodontics/herrera-2014-acute-periodontal-lesions]] — narrative review of acute periodontal lesions (abscesses, necrotizing periodontal diseases, other acute gingival conditions): etiology, diagnosis, and emergency/definitive management
+- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA: ozone adjunct to SRP for periodontitis, small non-significant pooled effects, high heterogeneity (I2=80.49%)
+- [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA (35 RCTs): subgingival instrumentation lowers HbA1c ~0.43% in diabetics
+- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA (45 RCTs): very-low-certainty, clinically marginal benefit of systemic antibiotics added to SRP
+- [[periodontics/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal]] — SR on managing periodontal abscesses & endodontic-periodontal lesions (drainage + perio therapy; weak/heterogeneous evidence)
+- [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — RCT (n=41, 1y): erythritol air-polishing GBM vs SRP in SPC, clinically equivalent
+- [[periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking]] — case report: acute periodontal abscess mimicking apical abscess, pulp vitality testing for differential diagnosis
+- [[periodontics/john-2017-network-meta-analysis-studies-included]] — NMA of ADA Guideline SRP adjuncts; no adjunct superior, ~0.3 mm CAL gain, ~20% publication-bias inflation
 
 ### sinus-lift/transcrestal (added 2026-05-28, batch e)
 
@@ -1321,6 +1338,7 @@ Format: `category/stem` — one-line description
 - [[endodontics/anatomy/betancourt-2015-mb2-second-maxillary-molar-cbct]] — Pablo Betancourt 2015 · cross-sectional · CBCT n=225 Chilean 2MM — MB2 48%, 2.2 mm palatal + 0.98 mm mesial to PMB1 (precursor to 2016 cohort)
 - [[endodontics/anatomy/alnowailaty-2022-mb2-prevalence-saudi-cbct]] — Yousef Alnowailaty 2022 · cross-sectional · CBCT n=1,200 Saudi — MB2 1MM 46.7% / 2MM 17.7% (lower than Chilean; ethnic variability anchor)
 - [[endodontics/anatomy/bello-2018-mb2-detection-loupe-microscope-cbct]] — Mariana De Carlo Bello 2018 · in-vitro · 4-method diagnostic accuracy (n=147 extracted molars) — CBCT and 16× microscope equivalent to sectioning reference (sens/spec 0.88); loupe/naked-eye inferior
+- [[endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]] — case report: pediatric odontogenic cutaneous sinus tract resolved by RCT + granuloma debridement
 
 ### endodontics/shaping (NEW subcategory, added 2026-05-28, batch f)
 
@@ -1502,6 +1520,7 @@ Format: `category/stem` — one-line description
 - [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Di Spirito 2025 · sr · Umbrella review (6 SRs, 5896 subjects): coronectomy re-intervention 4.45%, mean 10.4 mo, IAN injury 0.76%
 - [[oral-surgery/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Rico-Barroso 2026 · sr · SR (16 studies, 2551 pts): IAN injury 0.56% coronectomy vs 6.53% extraction; 6.22% conversion failure
 - [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — Derbishi 2026 · sr+ma · SR+MA (8 studies, 1488 teeth): IAN injury Peto OR 0.23 (TSA-conclusive), re-operation 1.2%
+- [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — 후향 증례군(소아 28명, Pediatr Dermatol 2012): 치성 피부누공(CST)은 주로 우식 있는 하악 제1대구치→하악-하악하부 피부; 평균 6.5개월 진단 지연; 근관치료/발치로 빠른 치유, 병변 장기화 29%에서 흉터 교정술 필요
 
 ### Orthodontics — miniscrew/TAD
 - [[orthodontics/katyal-2024-success-rate-factors-affecting-stability]] — Katyal 2024 · sr+ma · SR+MA (14 studies, 1683 IZC screws): pooled success 92%, no age effect
@@ -1511,15 +1530,20 @@ Format: `category/stem` — one-line description
 ### Prosthetic — crown preparation geometry
 - [[prosthetic-materials/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Sadid-Zadeh 2021 · cross-sectional · STL audit of 392 posterior preps; >50% undercut/unsupported enamel/poor finish line, most TOC >20°
 - [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Sengottaiyan 2025 · sr · 27 in-vitro studies: rounded-shoulder favored marginal fit, chamfer favored internal adaptation (digital zirconia)
+- [[prosthetic-materials/hardan-2022-treatment-tooth-wear-using-direct]] — SR (16 studies, ≤10y): direct vs indirect restorations for tooth wear; no technique/material proven superior
 
 ### Resin bonding — wet-bonding
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — Zhao 2023 · in-vitro · acetone wet-bonding preserved aged bond strength (p<0.05) and suppressed MMP (60 third molars)
 - [[resin-bonding/comba-2024-effects-etching-time-ethanol-wet]] — Comba 2024 · in-vitro · ethanol pre-treatment raised radicular push-out strength, lowered MMP (p<0.01); etching time neutral (60 teeth)
+- [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — Cochrane SR+MA: rubber dam vs cotton-roll isolation; ↑6-month composite NCCL survival (OR 2.29), low certainty
 
 ### Resin / inlay — direct & indirect restorations
 - [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]] — Wolff 2024 · consensus · German S3/GRADE guideline: direct composite recommended for Class I–V, cusp replacement, preferred over indirect inlays posteriorly
 - [[resin/metwaly-2024-clinical-performance-polyethylene-fiber-reinforced-resin]] — Metwaly 2024 · rct · 24-mo RCT (n=240 ETT molars): no USPHS difference between fiber-reinforced and plain bulk-fill
+- [[resin/osiewicz-2022-wear-of-bulk-fill-resin]] — in-vitro ACTA wear/hardness of 4 bulk-fills vs nanohybrid; uncovered bulk-fills wear 2-4× more, but a conventional cover layer wears like the nanohybrid alone
+- [[resin/sekundo-2024-direct-composite-restorations-permanent-teeth]] — German S3 guideline Part 2: consensus recommendations for composite processing (excavation, isolation, matrix, adhesive, curing, polishing)
 - [[inlay/fouda-2024-two-year-clinical-performance-indirect-resin]] — Fouda 2024 · rct · 2-yr RCT (30 MOD ETT molars): CAD/CAM composite overlay beat inlay on marginal adaptation, discoloration/fracture, caries
+- [[inlay/dekuijper-2023-clinical-performance-direct-composite-resin]] — SR+MA (22 studies): no short-term difference between direct composite resin and indirect restorations on endodontically treated posterior teeth, but observational data confounded by indication (low-quality evidence)
 
 ### Behavioral dentistry — MI / behavior change
 - [[behavioral-dentistry/motivational-interviewing/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes]] — Zhan 2024 · sr+ma · 7 RCTs (n=474): no significant MI vs standard-OHI difference in plaque, BoP, gingival inflammation
