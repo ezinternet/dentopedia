@@ -29,6 +29,7 @@ logs/*
 
 # PDFs — stored locally only (too large for GitHub)
 papers/*.pdf
+papers/**/*.pdf
 .ingest-queue
 .ingest-watcher.log
 

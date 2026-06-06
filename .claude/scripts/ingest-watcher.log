@@ -54,3 +54,27 @@ Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authenti
 [2026-06-06 01:18:05] New PDF detected: 784_2023_Article_5392.pdf
 [2026-06-06 01:18:11] Starting ingest for: 784_2023_Article_5392.pdf
 [2026-06-06 01:18:11] Starting ingest for: 784_2023_Article_5392.pdf
+[2026-06-06 09:48:25] === llm-wiki ingest watcher started ===
+[2026-06-06 09:48:25] === llm-wiki ingest watcher started ===
+[2026-06-06 09:48:25] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 09:48:25] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 17:37:25] New PDF detected: Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting_ a 5‐month prospective study - Lai - 2008 - Clinical Oral Implants Research - Wiley Online Library.pdf
+[2026-06-06 17:37:25] New PDF detected: Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting_ a 5‐month prospective study - Lai - 2008 - Clinical Oral Implants Research - Wiley Online Library.pdf
+[2026-06-06 17:37:27] Starting ingest for: Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting_ a 5‐month prospective study - Lai - 2008 - Clinical Oral Implants Research - Wiley Online Library.pdf
+[2026-06-06 17:37:27] Starting ingest for: Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting_ a 5‐month prospective study - Lai - 2008 - Clinical Oral Implants Research - Wiley Online Library.pdf
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CbmhiDhhCfEW6RitU4Z73"}
+[2026-06-06 17:37:36] Ingest failed (exit 1): Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting_ a 5‐month prospective study - Lai - 2008 - Clinical Oral Implants Research - Wiley Online Library.pdf
+[2026-06-06 17:37:36] Ingest failed (exit 1): Resonance frequency analysis of stability on ITI implants with osteotome sinus floor elevation technique without grafting_ a 5‐month prospective study - Lai - 2008 - Clinical Oral Implants Research - Wiley Online Library.pdf
+[2026-06-06 17:37:51] New PDF detected: Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface - PubMed.pdf
+[2026-06-06 17:37:51] New PDF detected: Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface - PubMed.pdf
+[2026-06-06 17:37:54] Starting ingest for: Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface - PubMed.pdf
+[2026-06-06 17:37:54] Starting ingest for: Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface - PubMed.pdf
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authentication_error","message":"Invalid authentication credentials"},"request_id":"req_011CbmhkB6V1VGjNZzwWE1Y7"}
+[2026-06-06 17:38:02] Ingest failed (exit 1): Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface - PubMed.pdf
+[2026-06-06 17:38:02] Ingest failed (exit 1): Resonance frequency measurement of implant stability in vivo on implants with a sandblasted and acid-etched surface - PubMed.pdf
+[2026-06-06 17:39:18] New PDF detected: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
+[2026-06-06 17:39:18] New PDF detected: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
+[2026-06-06 17:39:20] Starting ingest for: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
+[2026-06-06 17:39:20] Starting ingest for: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
