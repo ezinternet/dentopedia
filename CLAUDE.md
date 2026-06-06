@@ -51,6 +51,16 @@ llm-wiki/
 │   ├── immediate-implant/      # 즉시식립
 │   ├── prosthetic-materials/   # 보철재료
 │   ├── inlay/                  # 인레이
+│   ├── radiology/              # 방사선학
+│   ├── oral-medicine/          # 구강내과
+│   ├── botulinum-toxin/        # 보툴리눔 독소
+│   ├── orthodontics/           # 교정학
+│   ├── tmj/                    # 턱관절·악관절장애
+│   ├── caries/                 # 우식
+│   ├── cracked-tooth/          # 균열치 증후군
+│   ├── professional-wellbeing/ # 치과의사 직업적 웰빙
+│   ├── dentin-hypersensitivity/ # 상아질 과민증
+│   ├── practice-management/    # 치과경영
 │   └── overviews/              # Synthesis pages (cross-category)
 │
 │ ── OPERATIONS (knowledge → output) ──
@@ -110,6 +120,22 @@ All three tiers share the same stem:
 | `behavioral-dentistry/communication-relationship` | 행동치의학·커뮤니케이션 | Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management |
 | `behavioral-dentistry/patient-reported-outcomes` | 행동치의학·환자보고결과 | PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient |
 | `behavioral-dentistry/dental-anxiety` | 행동치의학·치과불안 | Dental anxiety/fear/phobia assessment & management (pediatric + adult), behavior-rating scales, non-pharmacological strategies |
+| `radiology` | 방사선학 | CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols |
+| `oral-medicine` | 구강내과 | Oral mucosal diseases — leukoplakia, oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), malignant transformation risk |
+| `botulinum-toxin` | 보툴리눔 독소 | Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity |
+| `orthodontics` | 교정학 | Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology |
+| `tmj` | 턱관절·악관절장애 | TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism |
+| `sinus-lift/pseudocyst` | 상악동거상술·슈도시스트 | Antral pseudocyst / mucous retention cyst management in sinus lift context — retention vs removal, outcomes, implant impact |
+| `endodontics/vpt` | 근관치료·생활치수요법 | Vital pulp therapy (VPT) — direct pulp capping, partial/full pulpotomy; MTA/Biodentine agents; success criteria; decision thresholds for mature/immature teeth |
+| `caries` | 우식 | Caries detection, risk assessment, minimal intervention dentistry, fluoride, fissure sealants, ICDAS, stepwise/selective excavation |
+| `cracked-tooth` | 균열치 증후군 | Cracked tooth syndrome — classification (Ellis/Baird), diagnosis, prognosis, restoration design, FEA stress analysis |
+| `implants/peri-implantitis` | 임플란트·주위염 | Peri-implantitis prevalence, risk factors, non-surgical/surgical treatment, surface decontamination, GBR for peri-implant defects |
+| `endodontics/shaping` | 근관치료·근관성형 | Rotary/reciprocating NiTi instruments, shaping strategies (crown-down, single-file), file separation, canal transportation, apical patency |
+| `professional-wellbeing` | 치과의사 직업적 웰빙 | Burnout prevalence, risk factors, protective factors, wellbeing interventions among dental professionals; COVID impact |
+| `endodontics/regenerative` | 근관치료·재생근관치료 | Regenerative endodontic procedures (REP) — biologic basis, blood clot scaffold, MTA barrier, outcomes in open-apex teeth |
+| `dentin-hypersensitivity` | 상아질 과민증 | Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents |
+| `practice-management` | 치과경영 | Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration |
+| `implants/versah-protocols` | 임플란트·Versah 프로토콜 | Versah osseodensification osteotomy — indications, ISQ outcomes, bone density effects, vs conventional drilling |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
