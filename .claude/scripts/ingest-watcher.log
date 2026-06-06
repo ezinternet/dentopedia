@@ -38,3 +38,19 @@ Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authenti
 [2026-06-03 11:31:03] === llm-wiki ingest watcher started ===
 [2026-06-03 11:31:04] Watching: /Users/oracleneo/llm-wiki
 [2026-06-03 11:31:04] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 00:47:00] === llm-wiki ingest watcher started ===
+[2026-06-06 00:47:00] === llm-wiki ingest watcher started ===
+[2026-06-06 00:47:00] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 00:47:00] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 00:47:42] === llm-wiki ingest watcher started ===
+[2026-06-06 00:47:42] === llm-wiki ingest watcher started ===
+[2026-06-06 00:47:42] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 00:47:42] Watching: /Users/oracleneo/llm-wiki
+[2026-06-06 00:50:32] New PDF detected: Manual_Wiki_watchertest.pdf
+[2026-06-06 00:50:32] New PDF detected: Manual_Wiki_watchertest.pdf
+[2026-06-06 00:50:32] Skipping (not a paper): Manual_Wiki_watchertest.pdf
+[2026-06-06 00:50:32] Skipping (not a paper): Manual_Wiki_watchertest.pdf
+[2026-06-06 01:18:05] New PDF detected: 784_2023_Article_5392.pdf
+[2026-06-06 01:18:05] New PDF detected: 784_2023_Article_5392.pdf
+[2026-06-06 01:18:11] Starting ingest for: 784_2023_Article_5392.pdf
+[2026-06-06 01:18:11] Starting ingest for: 784_2023_Article_5392.pdf
