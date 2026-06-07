@@ -100,3 +100,10 @@ Master synthesis of the behavioral-dentistry category (19 papers, 4 axes) — th
 - [[overviews/behavioral-dentistry-decision-ladder]] — 행동 3축(MI·커뮤니케이션·attendance) 집중 decision ladder (이 master의 하위 focus).
 - [[overviews/patient-consultation-communication-protocol]] — 같은 evidence를 상담 encounter 6단계 시간축(개시→정보수집→설명→SDM→기대정렬→마무리)으로 재합성한 chairside 자매 페이지.
 - 4 subcategory: `behavioral-dentistry/motivational-interviewing`, `/communication-relationship`, `/patient-reported-outcomes`, `/dental-anxiety`.
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[behavioral-dentistry/motivational-interviewing/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve]] — Systematic review (no meta-analysis) of 21 studies (16 RCTs, 5 NRCTs … (sr, 2023)
+- [[behavioral-dentistry/motivational-interviewing/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes]] — SR+MA of 7 RCTs (n=474; 6 in meta-analysis) found NO significant difference between motivational interviewing and standard oral health instruction on … (sr+ma, 2024)
