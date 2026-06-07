@@ -1681,3 +1681,5 @@ tags: []
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — Abdunabi 2019 · sr (4 CCT): 무치악 상악 전악 즉시 로딩 — 만족도·합병증 차이 약한 근거만, 메타분석 불가
 - [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등
 - [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
+- [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — 즉시식립 이식 재료 선택 종합: gap 골대체재(협측 흡수↓·심미↑·합병증↑)와 연조직(SCTG 최우수>이종 콜라겐 기질>치유지대주 단독 불충분) 두 축 분리
+- [[overviews/implant-placement-timing-immediate-early-delayed]] — 식립 시점(ITI Type 1–4) 종합: 생존율은 시점 무관, 즉시식립에 심미·생물학적 비용 집중(Tonetti RCT), 조기식립이 위험 균형 기본값(Bassir SR+MA)
