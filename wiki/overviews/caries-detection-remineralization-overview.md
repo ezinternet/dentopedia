@@ -108,3 +108,12 @@ tags: [caries, white-spot-lesion, wsl, icdas, diagnodent, remineralization, resi
 - 축 1·2·5 = [근거강함] (SR+MA 다수)
 - 축 3 = [합의수준] (방법 간 NS, 임상 협조도 결정)
 - 축 4 = [근거강함] for "차이 없음" 결론
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — SR + network MA (ADA 가이드라인 근거): 비수복 우식 치료를 표면·치열별로 순위화 — **SDF·sealant+fluoride 병용이 병소 정지·역전에 최상위권** (sr+ma, 2019)
+- [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]] — RCT (1016명, 36개월): 제1대구치에서 **치면열구전색 vs 불소바니시 상아질 우식 유의차 없음**(19.6% vs 17.5%); 지역사회 프로그램에선 불소바니시가 비용효과 우위 (rct, 2017)
+
+**갱신 메모 (2026-06-07)**: 두 논문은 축 3(예방·재광화)을 강화한다. Urquhart 2019 NMA는 기존 한줄요약의 "SDF·sealant+fluoride" 우위 주장에 ADA NMA 근거를 직접 제공하고, Chestnutt 2017 RCT는 **전색 vs 불소바니시가 동등**임을 보여 "고위험·저협조·집단검진 맥락에선 불소바니시가 비용효과적 대안"이라는 임상 분기를 추가한다. [근거강함] 단 Chestnutt은 제1대구치 한정 — 개별 고위험 소와열구엔 전색이 여전히 1차.

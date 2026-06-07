@@ -942,6 +942,7 @@ tags: []
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 ISQ 궤적 및 부하 시기: 술식별(2단계LSA/TSFE동시) × RBH × 이식재별 ISQ 수치와 부하 가능 시점 총정리 (7편 합성)
 - [[overviews/eal-working-length-protocol]] — EAL 근관장 측정 프로토콜 총정리: 치종별 WL 종지점(전치−0.85mm·구치−0.70mm), 기기별 정확도, 발산형·광근첨공·NaOCl 특수상황 대응 (6편 합성)
 - [[overviews/isq-loading-threshold]] — 임플란트 안정성 지수 (ISQ) 부하 결정 임계값 confidence 등급별 매트릭스: ISQ ≥70 + IT ≥35 Ncm 즉시부하 기준, D4 골·표면처리·신선발치와별 보정, 카테고리 횡단 27편 합성 (SR+MA 4 / SR 6 / RCT 3 / Prospective 9 + 보조)
+- [[overviews/implant-loading-protocol-prosthesis-type-overview]] — 임플란트 로딩 프로토콜 (보철 구성별, 2026-06-07 신설 6편): 1차 안정성 충족 시 즉시=통상 부하 (단관 Benic SR+MA / 상악 full-arch Abdunabi / tilted Mehta SR+MA / 다수 오버덴처 Liu SR+MA) — 단 **단일 정중 임플란트 오버덴처 즉시부하는 비열등성 실패(Kern RCT)**, 신선발치와 즉시식립+즉시 임시보철은 증례선별 필요(Donker prospective 90%); 로딩 타이밍이 아니라 보철 구성·안정성이 결정 변수
 - [[overviews/sinus-lift-technique-selection]] — 상악동거상술 (Sinus Lift) 술식 선택: RBH 5mm = 경치조골 (TSFE), <5mm = 측방창 (LSA); 격벽·측벽 두께 천공 위험 OR>2; 봉합 후 천공 동등 생존; OD가 TSFE에서 ISQ 우위; 이식재·차폐막 루틴 사용 근거 부족 (22편 합성)
 - [[overviews/irrigation-activation-comparison]] — 근관세정 (Root Canal Irrigation) 활성화법 비교: PUI 1순위 (미생물·치유 양면 근거), ANP 근첨도달 우위, Sonic 근첨 1/3 도말층, NaOCl+EDTA 병용 시 활성화법 차이 소실; 위생사 8단계 체크리스트 (11편 합성, SR+MA 5편 포함)
 - [[overviews/immediate-implant-conditions]] — 즉시식립 (Immediate Implant, Type-1) 가능 조건: 협측벽 ≤1mm·임플란트 협측 위치·얇은 생체형 3대 위험; gap ≥2mm 이식 필수; 즉시 임시치관 적극; IT ≥35 Ncm 1차 부하 기준; 소켓실드 보류 (24편 합성, SR+MA 4 / RCT 4)

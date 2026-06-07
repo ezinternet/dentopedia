@@ -224,3 +224,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 ### 신규 추가 (2026-06)
 
 - [[implants/surface/zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr]] — SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편 in vivo (1 clinical 15 animal … (sr, 2025)
+- [[implants/surface/jadhav-2026-dental-implant-surface-review]] — Narrative review of surface-modification methods (physical/chemical/mechanical), bio-functionalized surfaces, and emerging responsive coatings / 'omics / AI-guided directions (narrative-review, 2026)
+- [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Narrative review: metal/metal-oxide, polymer, and bioceramic nanoparticle coatings enhance osseointegration + add antibacterial/anti-peri-implantitis action across in vitro/in vivo (narrative-review, 2025)
+
+**갱신 메모 (2026-06-07)**: jadhav-2026·rehner-2025 두 narrative review는 본 overview의 표면처리 진화 축(SLA→SLActive→CA→UV-PF)에 **차세대 지평(나노입자 항균 코팅·responsive coating·AI 설계)**을 덧붙인다. 단 둘 다 narrative-review·전임상 중심이라 현 임상 권장(SLA 표준, 친수성 D3/D4, UV-PF 위축골)을 바꾸지 않음. [claude해석] 나노입자 항균 코팅은 peri-implantitis 예방 맥락에서 추적 가치 있으나 임상 RCT 부재.
