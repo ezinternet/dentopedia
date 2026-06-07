@@ -76,3 +76,9 @@ Each of these warrants its own paper page when relevant papers are ingested.
 
 - [[practice-management/jkda-2024-62-6-001]] — dentist workforce distribution 2012–2022
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — constitutional court catalogue
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[dental-history/jkda-2025-63-8-006]] — Historical article (Goodface Mi 치과의원 변웅래, JKDA 2025): 함석태 (1889-?) — 일제강점기 첫 한국인 정규 치과대학 졸업자·등록 치과의사·한성치과의사회 창립 (일본 치과단체 대항). (narrative-review, 2025)
