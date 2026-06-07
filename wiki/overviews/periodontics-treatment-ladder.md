@@ -28,6 +28,12 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 4. **골내 결손 재생술 (GTR + 이식재, EMD + 이식재)이 OFD보다 PPD·CAL 유의 우위. 병용이 단독 우위** — Stavropoulos 2021 NMA (30 RCT, 3-20y). [근거강함]
 5. **SPT 3-6개월 cadence가 치아 보존에 유리. 일률적 권고 근거 부족 — 환자 위험 stratification 필요** — Manresa 2018 Cochrane, Farooqi 2015 SR. [합의수준]
 
+신규 테마 (2026-06 추가, 기존 5축 외):
+- **급성 치주 농양 — 배농·debridement가 1차, 항생제는 전신증상·확산 시 보조.** Herrera 2014 종설 + Dommisch 2026 SR (치주-치수 복합병소 포함 7 PICOS) + Alharbi 2019 (비치성 농양 감별 증례). [합의수준]
+- **비외과 SRP 보조 — GBT(erythritol air-polishing)가 통상 기구세정과 임상결과 동등(편의·통증 우위), 전신 항균제·국소 antiseptic·ozone은 효과크기 작거나 불확실.** Cyris 2024·Stahli 2024 RCT, Khattri 2020 Cochrane(very-low certainty), John 2017 NMA(보조제 간 우열 없음), Ramanauskaite 2020, Deepthi 2020. [근거강함]
+- **치주치료의 전신 효과 — SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Cochrane Simpson 2022·Baeza 2020), 동반 전신질환군에서 의의.** [근거강함]
+- **분류·peri-implant — Caton/Papapanou 2018(2017 분류 도입)에 더해 Wang 2025 AO/AAP 2024 peri-implant consensus 반영.** [합의수준]
+
 ## Results
 
 ### 축 1 — 2017 Classification (Staging + Grading)
@@ -110,6 +116,24 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 - [ ] `wiki/overviews/aggressive-grade-c-protocols.md` — Grade C 빠른 진행 환자 protocol + antibiotics adjunct.
 
 ## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[periodontics/alharbi-2019-management-acute-periodontal-abscess-mimicking]] — Case report (n=1, 58-year-old man) of an acute periodontal abscess on a vital mandibular left central incisor that radiographically and clinically mim … (case-report, 2019)
+- [[periodontics/baeza-2020-effect-periodontal-treatment-patients-periodontitis]] — SR+MA of 9 RCTs: scaling and root planing in type 2 diabetics with periodontitis significantly reduced HbA1c (mean difference 0.56% … (sr+ma, 2020)
+- [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — 2017 World Workshop (AAP/EFP) introductory paper establishing the current classification of periodontal and peri-implant diseases: periodontitis stagi … (consensus, 2018)
+- [[periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional]] — Split-mouth RCT (n=60 stage III/IV periodontitis patients, treated by supervised dental students): Guided Biofilm Therapy (erythritol air-polishing + … (rct, 2024)
+- [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]] — SR+MA of 7 RCTs (n=13-113 per study) finding ozone as an adjunct to scaling and root planing produced small … (sr+ma, 2020)
+- [[periodontics/dommisch-2026-management-periodontal-abscesses-endodontic-periodontal]] — Systematic review (no meta-analysis; 7 PICOS questions, ~21 included studies) of periodontal abscess and endodontic-periodontal lesion (EPL) managemen … (sr, 2026)
+- [[periodontics/herrera-2014-acute-periodontal-lesions]] — Narrative review (Periodontology 2000) of acute periodontal lesions … (narrative-review, 2014)
+- [[periodontics/jkda-2025-63-11-005]] — Special issue review (보훈공단 중앙보훈병원 치주과 송영우, JKDA 2025): 치주질환 치료의 근거 기반 권장사항 + 전신질환 (심혈관·당뇨) 연관성 강조. (narrative-review, 2025)
+- [[periodontics/john-2017-network-meta-analysis-studies-included]] — Star-shaped network meta-analysis (61 RCTs, 74 comparisons, 9 adjuncts) found no adjunct to SRP statistically superior to another for CAL gain … (sr+ma, 2017)
+- [[periodontics/joseph-2024-systematic-review-meta-analysis-randomized]] — SR+MA of 44 RCTs (search 1995–2023): in periodontitis patients with concurrent systemic conditions (diabetes, CVD, RA, pregnancy, etc.) … (sr+ma, 2024)
+- [[periodontics/khattri-2020-adjunctive-systemic-antimicrobials-non-surgical-treatment]] — Cochrane SR+MA of 45 RCTs: adjunctive systemic antimicrobials (most studied: amoxicillin+metronidazole) added to SRP show only very-low-certainty … (sr+ma, 2020)
+- [[periodontics/ramanauskaite-2020-antiseptics-adjuncts-scaling-root-planing]] — Systematic review + meta-analysis (12 RCTs, follow-up ≥6 mo) finding that sustained-release subgingival antiseptics (gels/chips/varnish) as adjuncts t … (sr+ma, 2020)
+- [[periodontics/simpson-2022-treatment-periodontitis-glycaemic-control-people]] — Cochrane SR+MA (35 RCTs, 3249 randomised participants, mostly type 2 diabetes): periodontal treatment by subgingival instrumentation produced a modera … (sr+ma, 2022)
+- [[periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive]] — RCT (n=41 SPC patients, 1-year) comparing guided biofilm management (erythritol air-polishing + ultrasonic … (rct, 2024)
+- [[periodontics/wang-2025-ao-aap-consensus-peri-implant-diseases-conditions]] — AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into unified evidence-based recommendations for peri-impla … (consensus, 2025)
 
 ### spine (본문 인용)
 
