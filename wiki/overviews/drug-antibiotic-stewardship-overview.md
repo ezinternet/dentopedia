@@ -78,6 +78,11 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 → 치과 1차 항생제는 **Amoxicillin 500mg q8h (5일)** 또는 IE prophylaxis 시 **단일 2g 술전 1h**.
 → 페니실린 알레르기 대안은 **과거 Clindamycin이었으나 현재 회피**. **Cephalexin·Azithromycin** 권고로 이동.
 
+**신규 근거 (2026-06) — Metronidazole-알코올 "disulfiram 반응" 재검토**
+- Feldman 2023 (후향 ED case-control, n=36) — metronidazole+에탄올군에서 disulfiram-유사 반응 **0건**. [retrospective]
+- Orire 2026 (focused review, 11편, 1970–2024) — 임상적으로 유의한 disulfiram-유사 반응의 근거 **빈약**; 인과 입증된 사례 드묾. [합의수준]
+- 임상 함의: 절대 금기라기보다 **근거 약한 통념**. 다만 환자 안심·의무기록 차원에서 치료 중~종료 후 24–48h 음주 자제 안내는 유지 가능. 최종 판단은 처방자 몫. [claude해석]
+
 ---
 
 ## 3. 처치별 항생제 결정 트리
@@ -167,6 +172,12 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
 ## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[drug/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Narrative review (Zahedan Univ, Iran): odontogenic infection/pain affects >43% of pregnant women … (narrative-review, 2022)
+- [[drug/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Retrospective ED case-control chart review (n=36; 18 metronidazole + 18 ethanol-matched controls): no documented disulfiram-like reaction in any metro … (retrospective, 2023)
+- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — Focused literature review (4 databases, Jan 1970–Nov 2024, 11 studies): the evidence does not strongly support a clinically significant disulfiram-lik … (narrative-review, 2026)
 
 ### IE Prophylaxis (1차 근거)
 - [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — 2021 AHA, 2007 가이드라인 유지
