@@ -135,3 +135,10 @@ tags: [oral-surgery, third-molar, coronectomy, ian-injury, prf, dry-socket, hemo
 - 축 3 지혈 = [합의수준] (narrative 위주).
 - 축 4 심경부 감염 = [근거강함] (prospective + retrospective).
 - 축 5 drilling 열·재건 = [근거강함] (Bertollo 1995/2011 고전 임계값).
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — Retrospective case series (n=28 children, mean age 10.25y): cutaneous sinus tract (CST) of dental origin most often arises from a carious mandibular f … (retrospective, 2012)
+- [[oral-surgery/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Evidence-Based Dentistry summary review of a double-blind, split-mouth RCT (48 patients): irrigating with cooled saline (4°C or 10°C) during mandibula … (narrative-review, 2022)
