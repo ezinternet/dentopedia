@@ -138,6 +138,14 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[bone-regeneration/gil-marques-2022-bone-block-grafts-finite-element-biomechanics]] — Finite-element analysis combining two block-graft designs (right-angled vs rounded) and two suture tensions (0.05 vs 0.2 N): all soft-tissue stress/de … (in-vitro, 2022)
+- [[bone-regeneration/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft materials produced significantly less vertical and horizontal ridge re … (sr+ma, 2022)
+- [[bone-regeneration/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Multicentre RCT (40 subjects, 10 centres) of ridge preservation in posterior sockets with substantial buccal dehiscence: DBBM-collagen + native bilaye … (rct, 2016)
+- [[bone-regeneration/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — SR with meta-analyses of 35 papers (33 RCTs; PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally a … (sr+ma, 2025)
+- [[bone-regeneration/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD … (consensus, 2022)
+
 ### spine (본문 인용)
 
 - [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — 자연치유 dimensions SR
