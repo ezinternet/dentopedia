@@ -132,6 +132,8 @@ CBCT에서 반드시 확인할 5항목:
 
 [근거강함] **이식재 종류는 생존율·최종 ISQ에 영향 없음.** 결정화도 (Crystallinity) 가 높으면 ISQ 회복이 빨라짐. 임상 선택은 흡수 프로파일과 비용 기준.
 
+**신규 근거 (2026-06) — 경치조골(TSFE/OSFE) "graft 무용론" 강화**: Sansupakorn 2024 RCT(OSFE, BCP graft vs no-graft)와 Volpe 2022(혈병·collagen sponge)·Zhao 2018 RCT는 경치조골 거상에서 **이식재 없이 혈병/공간유지만으로도 임플란트 생존·골형성이 동등**함을 시사. RBH가 충분한 TSFE에서 routine grafting의 부가가치는 제한적. [합의수준] (단, 측방창·저 RBH에는 외삽 주의)
+
 ### 4.2 차폐막 사용
 
 | Confidence | 출처 | 결론 |
@@ -219,3 +221,15 @@ CBCT에서 반드시 확인할 5항목:
 - OD vs 풍선·수압 직접 비교 RCT
 - 5–10년 장기 결과 prospective
 - 만성 부비동염 환자 거상술 결과
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[sinus-lift/transcrestal/alajami-2024-antral-balloon-vs-densah-crestal-sinus]] — RCT (crestal sinus lift + simultaneous implant, 12-month): both successful … (rct, 2024)
+- [[sinus-lift/transcrestal/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft]] — Prospective (n=42 ITI implants, 32 patients, 20-week RFA): graftless OSFE survival 95.2%; ISQ dips at weeks 2–6, recovers by week 16 … (prospective, 2008)
+- [[sinus-lift/transcrestal/sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct]] — RCT (n=30, 1 yr): OSFE with BCP (HA30:TCP70) shows no significant advantage over OSFE alone in ISQ (p=0.56), survival, or 3D bone gain … (rct, 2024)
+- [[sinus-lift/transcrestal/scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid]] — Prospective (n=58 patients): fluid-dynamic OSFE with 2% cross-linked hyaluronic acid achieves 7.5 mm average bone gain, no failures at 12 months CBCT … (prospective, 2025)
+- [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Prospective study (n=126 implants, 123 patients) showing Bio-Oss Collagen + CGF outperforms no-graft and Bio-Oss alone in OSFE for RBH ≤5 mm: ISR 96%, … (prospective, 2024)
+- [[sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]] — Retrospective (n=36 implants, 2006–2014): OSFE without graft using collagen sponge only achieves 97.2% survival and ISQ 73–76 at 5–13 years mean 8.5 y … (retrospective, 2022)
+- [[sinus-lift/transcrestal/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol]] — RCT protocol (n=120, NCT03445039) comparing osteotome-TSFE vs modified drill-TSFE ± bone graft in posterior maxilla; RFA tracked 6× over 26 weeks. (rct, 2018)
