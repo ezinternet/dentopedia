@@ -117,6 +117,11 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[prosthetic-materials/hardan-2022-treatment-tooth-wear-using-direct]] — Systematic review (16 clinical studies, follow-up up to 10 years … (sr, 2022)
+- [[prosthetic-materials/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Korean special-feature review proposing the implant surveyed crown–retained removable partial denture (IC-RPD) as an oral rehabilitation option for se … (narrative-review, 2023)
+
 ### spine (본문 인용)
 
 - [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]]
