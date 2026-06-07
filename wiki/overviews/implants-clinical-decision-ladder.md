@@ -316,6 +316,12 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — 7th ITI Consensus (Group 1, 2 underlying systematic reviews): in healed implant sites a buccal bone wall <1.5 mm predicts worse vertical bone loss and … (consensus, 2023)
+- [[implants/kocak-oztug-2022-analysis-of-biomarkers-and]] — Split-mouth RCT (94 implants, 27 subjects, 12-month): platform-switched implants showed less marginal bone loss (0.51 ± 0.31 mm vs 0.75 ± 0.29 mm … (rct, 2022)
+- [[implants/tajti-2024-less-marginal-bone-loss]] — SR+MA of 8 studies (7 meta-analyzed; bone-level platform-switched implants): long abutments (≥2 mm) showed less marginal bone loss than short (<2 mm) … (sr+ma, 2024)
+
 ### 축별 spine·spoke (본문 인용)
 
 축 1 — 위험 stratification:
