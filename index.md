@@ -470,6 +470,15 @@ tags: []
 - [[endodontics/irrigation/tonini-2022-irrigating-solutions-activation-methods-sr]] — SR of 7 RCTs: activation methods (PUI/XP-endo/EndoVac) > CNI for biofilm; NaOCl+HEDP/MTAD no extra antimicrobial benefit
 - [[endodontics/irrigation/cheung-2021-irrigant-activation-methods-clinical-review]] — Narrative review (HKU): PUI strong RCT evidence; ANP best apical delivery; sonic effective + simpler; laser promising but limited data
 - [[endodontics/irrigation/paixao-2022-sonic-ultrasonic-activation-sr-ma]] — SR+MA (in vitro): sonic > ultrasonic for apical smear layer (SMD −0.48); ultrasonic > sonic for middle/apical push-out bond strength
+- [[endodontics/irrigation/elfarraj-2024-irrigants-tooth-dentin-infrared-spectroscopy-slr]] — SLR(30/3452편) FTIR: NaOCl 유기질(amide↓), EDTA 무기질, glycolic acid>EDTA (2024)
+- [[endodontics/irrigation/fortea-2024-chelating-agents-endodontic-treatment-sr]] — SR(56편): 17% EDTA smear/성장인자 최우수(세포독성↑), 9–18% HEDP는 NaOCl 양립·smear 예방 (2024)
+- [[endodontics/irrigation/agarwal-2024-irrigating-solutions-dentin-microhardness-sr-ma]] — SR+MA(44편): 세정제가 상아질 microhardness 감소, 측정법(하중·접촉시간) 의존 (2024)
+- [[endodontics/irrigation/teja-2022-herbal-agents-edta-smear-layer-removal-sr]] — SR(in vitro): herbal(quixabeira·noni·oregano·neem)이 타 herbal보다 우수하나 EDTA가 기준 (2022)
+- [[endodontics/irrigation/rao-2025-maleic-acid-root-canal-scoping-review]] — Scoping(PRISMA-ScR): 7% maleic acid apical smear 제거 EDTA보다 우월, 1–3min 적용 권장 (Kapur 2026)
+- [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] — Narrative review: 이상적 단일 세정제 없음, 증례별 선택+CHX 최종세척(substantivity); NaOCl+CHX 침전 주의 (2024)
+- [[endodontics/irrigation/wong-2014-root-canal-lubricants-antibacterial-irrigants]] — in-vitro: 근관 윤활제 10종 항균력 일부 세정제에 필적, pH(2.9–10.3)와 무관 (2014)
+- [[endodontics/irrigation/cruz-2014-debris-apical-third-naocl-glyde-in-vivo]] — in vivo: Glyde(EDTA paste) 사용이 apical third debris 증가; NaOCl+최종세척군은 debris 거의 없음 (2014)
+- [[endodontics/irrigation/nascimento-2015-gel-formulations-residues-dentinal-walls-sem-eds]] — in-vitro SEM/EDS(48치): NaOCl/CHX/EDTA gel 잔류물이 최종 초음파 세척 후에도 잔존 (2015)
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — Clinical SR+MA: single-visit RR 1.10 (1.03–1.19) over multi-visit+Ca(OH)₂ for AP healing; NaOCl concentration and CHX vs NaOCl NS for pain
 - [[endodontics/irrigation/zhou-2021-xpf-pui-medicament-removal-sr-ma]] — SR+MA (in vitro): PUI > XPF for Ca(OH)₂ removal overall (OR 3.09); NS when both use NaOCl+EDTA; PUI advantage for 2-week dressing
 - [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — SR (14 studies): QMix > NaOCl/EDTA/CHX/MTAD/Cetrimide vs E. faecalis; vs NaOCl only when contact <10 min or volume <3 mL
@@ -706,6 +715,10 @@ tags: []
 - [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]] — Saliva exposure >1 second significantly reduces ceramic-resin bond strength (p < 0.05); pre-try-in silane application or post-contamination reapplication under rubber dam isolation essential; moisture control non-negotiable
 - [[resin-bonding/tay-2003-dentin-adhesives-hydrophilic]] — Narrative review (Tay & Pashley): simplified SE adhesives overly hydrophilic → water blisters, bond degradation, dual-cure incompatibility; 3-step TE most durable
 - [[resin-bonding/daneshkazemi-2013-clearfil-se-bond-mechanical-thermal]] — In vitro: Clearfil SE Bond µTBS ↓ with thermal/mechanical cycling (p<0.001); mechanical effect significant from 100K cycles
+- [[resin-bonding/cotert-2024-desensitizing-agents-zirconia-bond-strength]] — in-vitro SBS(80치·8군·열순환): Admira/Smart Protect/Gluma가 지르코니아-상아질 SBS 증가(~9–11MPa), 옥살산/불소계 최저 (2024)
+- [[resin-bonding/anithakumari-2022-desensitizing-agents-bond-strength-sr]] — SR(in vitro 23편): 탈감작제의 dentin bonding agent 결합강도 영향은 제제·프로토콜 의존적, 결과 상충 (2022)
+- [[resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — SR+MA(14편): collagen crosslinker가 NaOCl 처리 상아질 결합강도 회복, NaOCl 농도·시간 의존 (2025)
+- [[resin/theracem-bisco-product-reference]] — Product reference: TheraCem(BISCO) MDP·칼슘/불소 방출 self-adhesive resin cement (internal-synthesis)
 - [[resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial]] — RCT (12mo, NCCLs): ethanol wet bonding, OptiBond FL, Clearfil SE Bond — all acceptable; no significant difference (p=0.358)
 - [[resin-bonding/sharifian-2023-tbs-er-se-modes-superficial-deep-dentin]] — In vitro: superficial > deep dentin µTBS; Scotchbond Universal E&R mode highest; universal E&R > SE mode
 - [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] — RCT (24mo, 234 NCCLs): universal adhesive SE mode unacceptable (6 lost); SLE and E&R modes acceptable
@@ -907,6 +920,7 @@ tags: []
 - [[evidence-appraisal/shin-ih-2009-meta-analysis-critical-interpretation]] — 2009 대한간학회 추계학술대회 강의(한국어): MA 개념·전제·heterogeneity·publication bias 입문
 - [[evidence-appraisal/nam-2012-statistical-methods-medical-studies]] — JKMA 2012, 한국어 (연세의대 예방의학·의학통계): 검정 선택 flowchart — t-test/ANOVA/비모수/카이제곱/log-rank/회귀 (DOI 10.5124/jkma.2012.55.6.573)
 - [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — Indian J Urol 2011, narrative tutorial: p-value, 95% CI, NNT 임상 시나리오 (DOI 10.4103/0970-1591.91446)
+- [[evidence-appraisal/singh-2026-research-statistically-significant-myth-truth]] — Editorial(JCDE 2026): 통계적 유의 ≠ 임상적 의의; 표본·검정력·변동성 고려, effect size·CI 중심 해석 (DOI 10.4103/JCDE.JCDE_504_26)
 - [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — IJERPH 2021, OA 튜토리얼: OR/RR/AR/NNT 4종 + OR-RR divergence rule (DOI 10.3390/ijerph18115669)
 - [[evidence-appraisal/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer]] — J Thorac Oncol 2011, biostatistics primer: HR, KM curve, proportional hazards 가정 위반 시 해석 무력화 (DOI 10.1097/JTO.0b013e31821b10ab)
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — Clin Kidney J 2024, narrative review: 10대 biostatistics 오류 정리 — p값·CI·HR 오해, subgroup 사냥, confounder vs mediator, immortal time bias 등 (DOI 10.1093/ckj/sfae197)
@@ -1110,6 +1124,7 @@ tags: []
 
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — Ji-Woo Ha 2023 (대한치과의사협회지, 전북대 구강내과) · narrative-review · 치과의사 관련 한국 헌법재판소 결정례·헌법소원 리뷰 (본문 폰트 인코딩으로 세부 판시 자동추출 불가 [미검증])
 - [[practice-management/jkda-2024-62-6-001]] — Original (KDA 치과의료정책연구원 임유빈·전지은, JKDA 2024): 한국 활동 치과의사 수·지역 분포 2012-2022, 연 평균 증가율 2.39%, 지역간 ANOVA. 치과대학 정원 정책 evidence
+- [[practice-management/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort]] — 전향 코호트(US PBRN PREDICT): NSRCT에서 근관전문의가 GD보다 >5×확대경·러버댐·NaOCl·EDTA/H2O2/CHX 사용 유의 높음 (2025, DOI 10.1111/iej.14264)
 
 ### resin (added 2026-05-24, batch c)
 
@@ -1170,6 +1185,17 @@ tags: []
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — Clinical management (경희대 보존과 장지현, JKDA 2022): DH 외래 의사결정 ladder — 1차 at-home → 2차 in-office sealing → 3차 restorative
 - [[dentin-hypersensitivity/jkda-2022-60-4-005]] — Clinical strategy (연세대 보존과 김도현, JKDA 2022): Class II direct composite 수복 후 postop hypersensitivity 예방 — adhesive technique·incremental·slow curing·sectional matrix·pre-wedging
 - [[overviews/dentin-hypersensitivity-overview]] — Synthesis (JKDA 2022 특집 3편+NCCL 통합, 2026): hydrodynamic 메커니즘→외래 ladder(at-home→in-office sealing→restorative)→iatrogenic DH 예방. 한국 외래 의사결정 framework
+- [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]] — RCT (55pt/165치, 6mo): Er,Cr:YSGG 레이저 단독/Gluma 병용 > 5% NaF varnish; 전 군 6개월 유의 감소 (2022)
+- [[dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct]] — RCT (20pt/60치): 980nm diode laser 단독 1개월 VAS 최저, 3개월엔 군간 차 소실 (2024)
+- [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]] — in-vitro: GLUMA는 모의 치수액 있을 때만 세관폐쇄·세포독성, NaF/silica gel은 생체적합하나 투과도 반등 (2022)
+- [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]] — in-vitro SEM(3군·20): NovaMin(CSP) vs Gluma 세관 폐쇄율 비교 (2013)
+- [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]] — in-vitro 경상아질: 글루타르알데히드 농도의존적 odontoblast 세포독성 (Pashley/Hebling, 2015)
+- [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA(34편/11 MA): 고·저출력 레이저 모두 3개월 통증 유의 감소, 고출력 우월성 없음 (Pion 2023)
+- [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA(35편/20 RCT): LLLT placebo 대비 우수(SMD 1.09→2.86), fluoride 외 타 제제 대비 우월성 없음 (2021)
+- [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] — SR(RCT 15편): 저농도(2.5–7.5%) bioactive glass 치약 at-home·in-office 효과적 (2021)
+- [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] — Scoping(138 RCT/368 제형): 탈감작 치약 활성성분·불소·연마제 지도 — 포타슘·CSP 최다, MFP·NaF 주류 (2022)
+- [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]] — Narrative review: DH 기전·진단·관리, 환자 동기+술자 지식이 장기 성공 좌우 (2022)
+- [[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]] — Review(J Adv Res): tubule-sealing 기준 물리·화학·시너지 전략 분류, 생체모방 광화 강조 (2026)
 
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
 - [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — Liu 2025 (FEA, BMC): 균열 대구치 수복 설계×재료 응력·균열진전 — 피개형 설계가 응력 유리
@@ -1199,6 +1225,7 @@ tags: []
 - [[overviews/zirconia-types-clinical-selection]] — 지르코니아 grade 5축 (결정학·grade × 적응증·두께·대합치 마모·접착 차이) (synthesis, 2026-05-26): Ban 2023 spine — 3Y-TZP 1200 MPa→UHTZ 300-500 MPa 강도-투명도 trade-off; Comba 2021 5Y-PSZ MDP 결합 유지; Ali 2023 두께 <1mm 파절 위험; Aljomard 2022/Shah 2024 polish > glaze; dental-materials-decision-ladder 축 2 Phase-2 stub 첫 실현
 - [[overviews/bone-regeneration-protocol-ladder]] — ARP 4축 (자연치유 baseline·graft 효과·material 비교·flap/seal). EFP/AO consensus + Cochrane spine.
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — GBR 차폐막 12편 종합 (synthesis, 2026-06-04): 막노출 중심 4축 — ①재료·가교(Wessing2018 가교막 노출+30%, Lee2015 DHT가교 안전, Wang2025 합성막 비열등) ②막 구성(Choi2017 단층=이층) ③판막·절개 설계(Park2007 노출은 판막설계 문제, Lee2018 판막거상 KG −3.21mm) ④티타늄메쉬(Ragucci2025 CTM 수평 우수·수직 동등, Tay2022 노출이 골증대량 감소). 핵심: 노출은 막 종류보다 연조직·판막 관리가 좌우
+- [[overviews/vertical-ridge-augmentation-overview]] — 수직골증대(VRA) 8편 종합 (synthesis, 2026-06-07 신설): 4축 — ①술식별 장기 PBL(Cucchi2024 SR+MA: SBB 0.66<GBR 1.06<Onlay 1.31<Inlay 1.72<distraction 1.81mm) ②차폐재(Cucchi2024 RCT: CAD/CAM Ti-mesh 합병증 비열등, PTFE 재생률 우위) ③collagen membrane 부가 효용 논쟁(Yousefi-Koma2025 SR "불필요" vs Urban2025 RCT 연조직 침투 차단) ④열개 예방=연조직(Kaner2017 STE·Wang2025 무PRI 개방치유, 동물). 상악동 동시 VRA는 지연식립 권고(Kang2019)
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — Socket 치유 생물학 + ARP 비판 5축 (자연치유 biology·overtreatment 논쟁·실패 예측인자·보조 재료·beyond ARP) (synthesis, 2026-05-26): Araujo 2005 2단계 흡수 + Schropp 2003 인간 50% width 손실 baseline + Mardas 2023 overtreatment 비판 + Kang 2025 PBE <1.1mm HR 2.50 + Adams 2022 late xenograft failure; do-ARP counterpart, 미합성 20편 흡수
 - [[overviews/immediate-implant-decision-ladder]] — IIP 5축 (Type 1-4 timing·site·flap/gap/GBR·CTG/provisional/SST·loading). Hamilton 2023 ITI consensus + Meijer 2024 10y RCT + Cosyn SR+MA 시리즈 spine.
 - [[overviews/socket-shield-technique-overview]] — 소켓실드(SST) 13편 종합 (synthesis, 2026-05-31): 정량 anchor (BBPR 0.32 vs 1.05 mm −70%·MBL 0.39 vs 1.00 mm·PES +1.31, Oliva 2023 sr) + RCT 2편 (Atef 2021 esthetic·Zhang 2026 ortho) + Ji 2025 network MA; 협측 골·미용 우월하나 case-report 우세·장기근거 부족·실드 합병증 4–17% → 숙련자·선별 심미부 한정. immediate-implant-decision-ladder 축4 확장판.
@@ -1377,6 +1404,7 @@ tags: []
 - [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — Ng Lim Pui-Yii 2021 · in-vitro · E. faecalis apical extrusion — manual K vs One G vs WaveOne Gold Glider all extrude measurable bacteria (biological side of glide path)
 - [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — Sareh Aflaki 2020 · in-vitro · Extracted mandibular molars (n=51, 25-45° curve) — manual SS K > PathFile/Scout RaCe transportation; rotary systems equivalent
 - [[endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]] — Mohsen Aminsobhani 2022 · in-vitro · 5-system S-shape comparison (n=100) — manual K-file inferior in all thirds; Scout RaCe/One G/PathFile/GPS equivalent
+- [[endodontics/shaping/whitbeck-2015-edta-preparations-rotary-canal-instrumentation]] — in-vitro micro-CT: 17% EDTA transportation=saline, RC-Prep는 유의하게 적은 transportation; chelator는 apical transportation 증가시키지 않음 (2015)
 - [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] — Rahaf A. Almohareb 2023 · in-vitro · Cyclic fatigue (n=60) — EdgeTaper Platinum > PTG ≈ TruNatomy; only ETP strengthened by 1/10 autoclave cycles
 - [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] — Taha Özyürek 2017 · in-vitro · ProTaper Universal/Next/Gold cyclic fatigue (n=240) — PTG > PTU+PTN baseline; 10× pre-autoclave raises NCF for PTN and PTG
 - [[endodontics/shaping/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue]] — Wafaa A. Khalil 2019 · in-vitro · EdgeEvolve vs PTG — EdgeEvolve superior fatigue/flexibility/surface smoothness in single and double curvature; equivalent Ni/Ti content
@@ -1590,3 +1618,37 @@ tags: []
 - [[sinus-lift/transcrestal/sansupakorn-2024-osfe-bcp-graft-versus-no-graft-rct]] — Sansupakorn 2024 · rct · n=30, OSFE+BCP(HA30:TCP70) vs no-graft 1년: ISQ p=0.56 NS, BCP 군 MMBC 유의 증가 → BCP 추가 이익 없음
 - [[sinus-lift/transcrestal/lai-2008-rfa-iti-osteotome-sinus-elevation-without-graft]] — Hong-Chang Lai 2008 · prospective · n=42 ITI-SLA, OSFE without graft 20주 RFA: 95.2% 골유착, ISQ dip 2–6주→16주 회복, RBH·골형은 ISQ 예측인자 아님
 - [[sinus-lift/transcrestal/scarano-2025-fluid-dynamic-crestal-sinus-hyaluronic-acid]] — Alessandro Scarano 2025 · prospective · n=58, Flusilift+2% 교차결합 HA 단독, 12mo CBCT: 골이득 7.5mm, 생존율 100%
+
+### Batch ingest (added 2026-06-07) — robotic CAIS / zirconia implants / peri-implantitis / surface / caries
+
+#### digital-workflow — robotic vs dynamic-navigation implant surgery
+- [[digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation]] — Yu 2025 · prospective (135 implants): 자율로봇(r-CAIS)이 동적내비게이션 대비 각도·플랫폼·첨부 편차 절반(1.62° vs 3.61°), 시술시간도 단축
+- [[digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation]] — Wei 2025 · rct (40 single-tooth): 동일 추적장치 통제 시 로봇은 각도 편차만 유의 개선(1.01° vs 1.78°), 관상·첨부 동등, 시술시간 더 김
+- [[digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy]] — Chen 2025 · retrospective (57 implants): 반자율로봇(sa-RASS) 플랫폼·첨부 편차 우위, 각도는 동등(비유의)
+- [[digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy]] — Wu 2024 · prospective single-arm (86 implants): 자율로봇 절대정확도 관상 0.61mm·첨부 0.79mm·각도 2.56°, 부위·길이·술자 영향 없음
+
+#### implants — zirconia implants
+- [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — Mohseni 2024 · sr+ma (25편·4017 implants): 지르코니아 임플란트 10년 누적생존 95.1%, 단기 MBL 낮음; 2-piece·드릴가공·협폭경·단종제품 생존 불리
+- [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — Pieralli 2017 · sr (9편·398 implants): 12개월 생존 95.6%, MBL 0.79mm; 설계·재료·하중방식 MBL 무영향 (→ Mohseni 2024로 부분대체)
+- [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — Arefnia 2025 · sr (12 controlled): 지르코니아 임플란트 환자 만족도 높음·심미/편안함/저작 개선, PROM 도구 이질성 큼
+
+#### implants/peri-implantitis
+- [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 · rct (multicenter, 58pt): 재건적 주위염 표면제염 전해법(GalvoSurge) vs 과산화수소 — 둘 다 효과적, 우열 없음
+- [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 · rct (34pt): 비수술치료 후 재건 vs 지지치료 — 질환 해소 동등(~44%), 골충전은 재건군 3배(1.21 vs 0.36mm)
+- [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Gardelis 2025 · sr (17편·≥3yr): 거친 표면이 매끈한 표면보다 수술 후 재발·상실 위험↑, 재건술식 유리(근거확실성 낮음)
+
+#### implants/surface — review
+- [[implants/surface/jadhav-2026-dental-implant-surface-review]] — Jadhav 2026 · narrative-review: 임플란트 표면개질 전반 + 반응성 코팅·오믹스·AI 신경향, 면역반응·in vivo 검증 과소
+- [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Rehner 2025 · narrative-review: 나노입자 코팅 in vitro/in vivo — 골유착·세포부착·항균(주위염 억제) 향상
+
+#### implants — loading protocol
+- [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] — Kern 2018 · rct (24mo): 하악 정중부 단일 임플란트 즉시하중 비열등성 미입증 — 즉시군 조기실패 9개 vs 지연군 1개
+
+#### caries — prevention / nonrestorative
+- [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]] — Chestnutt 2017 · rct (1016 children, 36mo): 점열구실란트 vs 불소바니시 상아질우식 예방 동등(19.6% vs 17.5%); 프로그램에선 바니시 비용효과적
+- [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — Urquhart 2019 · sr+ma (NMA, ADA 지침 근거): 비복원 우식치료 순위화 — SDF·실란트+불소가 병변 정지/역전에 최상위
+- [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — Buskermolen 2018 · in-vitro: organotypic 치은 모델 — 타액유래 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유도(항균제 스크리닝 플랫폼)
+
+### Overviews (added 2026-06-07)
+- [[overviews/robotic-vs-navigation-implant-accuracy]] — 로봇 vs 동적내비게이션 vs static guide 정확도 종합: 로봇은 각도 편차만 일관 개선, 동일 tracker 통제 시 선형 편차 동등(Wei RCT)
+- [[overviews/zirconia-implant-clinical-outcomes]] — 지르코니아 임플란트 생존(10yr CSR 95.1%)·MBL·PRO 종합: 잔여 실패는 2-piece·협폭경·드릴가공·단종제품에 집중
