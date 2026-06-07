@@ -130,3 +130,10 @@ tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, 
 - 축 4 BMS = [합의수준] (narrative + Delphi).
 - 축 5 RAS = [합의수준] (narrative 위주).
 - 축 6 OMS = [근거강함] (expert consensus).
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[oral-medicine/jkda-2022-60-4-001]] — Observational study (KUMC Halitosis Clinic, n=246): 생리적 구취 진단 환자의 questionnaire·dietary·타액 검사 분석. 한국 환자 특성·진단·예방 protocol 기반. (cross-sectional, 2022)
+- [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 시술 후 발생한 악골 골흡수가 cyst로 오인된 사례 — CBCT 진단 framework, 환자 history-taking 중요성. (case-report, 2025)
