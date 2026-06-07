@@ -136,3 +136,10 @@ tags: [endodontics, vital-pulp-therapy, regenerative-endodontics, dpc, pulpotomy
 
 **Irrigation (sub-category endodontics/irrigation)**:
 - [[endodontics/irrigation/do-2020-eryag-laser-pips-endodontic-irrigation-review]] — Er:YAG laser PIPS irrigation
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]] — Case report (n=1, 11-year-old boy): an odontogenic cutaneous sinus tract on the left cheek … (case-report, 2016)
+- [[practice-management/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort]] — Prospective cohort (US PBRN PREDICT) showing endodontists were significantly more likely than general dentists to use >5× magnification … (prospective, 2025)
