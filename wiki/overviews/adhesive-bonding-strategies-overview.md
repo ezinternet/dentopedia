@@ -117,3 +117,14 @@ tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, c
 - [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — MDP/CaF 시멘트가 비-MDP보다 결합 우위. [근거강함 in-vitro]
 - [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — 지르코니아 합착 적층기법·mould·노화 영향. [근거강함 in-vitro]
 - [[resin/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity]] — dual-cure 시멘트 세포독성: 광중합<자가중합. [근거강함 in-vitro]
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[resin-bonding/anithakumari-2022-desensitizing-agents-bond-strength-sr]] — Systematic review (23 in vitro studies, human teeth, 2010–2020) of how various desensitizing agents affect the bond strength of dentin bonding agents, … (sr, 2022)
+- [[resin-bonding/comba-2024-effects-etching-time-ethanol-wet]] — In vitro study (60 single-root teeth, 4 groups): ethanol pre-treatment significantly increased push-out bond strength of a multi-mode adhesive on radi … (in-vitro, 2024)
+- [[resin-bonding/cotert-2024-desensitizing-agents-zirconia-bond-strength]] — In vitro SBS study (80 molars, 8 groups n=10, thermocycled) finding Admira, Smart Protect … (in-vitro, 2024)
+- [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — Cochrane SR+MA (6 RCTs, 1342 participants, all high risk of bias): rubber dam isolation may increase survival of direct composite restorations of NCCL … (sr+ma, 2021)
+- [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — In vitro microtensile study (60 third molars, 4 solvent groups): acetone wet-bonding preserved bond strength after thermocycling/collagenase aging (p< … (in-vitro, 2023)
+- [[resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — SR+MA (14 in vitro studies, 11/14 low RoB) showing collagen crosslinkers (EDTA, IP6, PA, RA … (sr+ma, 2025)
