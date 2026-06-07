@@ -1,0 +1,183 @@
+<!--
+---
+title: "로봇 vs 내비게이션 임플란트 deviation 비교"
+type: interactive
+date: 2026-06-07
+status: done
+agenda: agenda/2026-06-07_robotic-deviation-interactive.md
+source_wiki:
+  - wiki/overviews/robotic-vs-navigation-implant-accuracy.md
+  - wiki/digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation.md
+  - wiki/digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation.md
+  - wiki/digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy.md
+  - wiki/digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy.md
+tags: [robotic-surgery, dynamic-navigation, deviation, chairside]
+notes: |
+  단일 HTML. Chart.js CDN(cdnjs) 1개 의존. 4편 deviation 막대그래프 + metric 토글.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>로봇 vs 내비게이션 임플란트 정확도 비교 (2026-06)</title>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<style>
+  :root{--robot:#2563eb;--nav:#dc2626;--ink:#1f2937;--muted:#6b7280;--line:#e5e7eb;--bg:#ffffff;}
+  *{box-sizing:border-box;}
+  body{font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;color:var(--ink);
+       margin:0;padding:24px;background:#f9fafb;line-height:1.5;}
+  .wrap{max-width:920px;margin:0 auto;background:var(--bg);border:1px solid var(--line);
+        border-radius:14px;padding:28px 30px;}
+  h1{font-size:20px;margin:0 0 4px;}
+  .sub{color:var(--muted);font-size:13px;margin-bottom:18px;}
+  .thesis{background:#eff6ff;border-left:3px solid var(--robot);padding:12px 16px;border-radius:8px;
+          font-size:14px;margin-bottom:20px;}
+  .tabs{display:flex;gap:8px;margin-bottom:16px;flex-wrap:wrap;}
+  .tab{padding:8px 16px;border:1px solid var(--line);border-radius:999px;background:#fff;cursor:pointer;
+       font-size:13px;font-weight:600;color:var(--muted);transition:.15s;}
+  .tab.active{background:var(--ink);color:#fff;border-color:var(--ink);}
+  .legend{display:flex;gap:18px;font-size:12.5px;margin:10px 0 6px;color:var(--muted);}
+  .dot{display:inline-block;width:10px;height:10px;border-radius:3px;margin-right:5px;vertical-align:middle;}
+  .chartbox{position:relative;height:360px;}
+  .note{font-size:12px;color:var(--muted);margin-top:14px;border-top:1px dashed var(--line);padding-top:12px;}
+  .note b{color:var(--ink);}
+  table{width:100%;border-collapse:collapse;font-size:12.5px;margin-top:14px;}
+  th,td{border:1px solid var(--line);padding:6px 8px;text-align:center;}
+  th{background:#f3f4f6;}
+  td.lo{color:var(--robot);font-weight:600;}
+  .ns{color:var(--muted);font-style:italic;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>로봇 vs 동적내비게이션 임플란트 정확도 — 4편 비교</h1>
+  <div class="sub">신규 ingest 2026-06-07 · 출처: Yu 2025 · Wei 2025(RCT) · Chen 2025 · Wu 2024 · 낮을수록 정확</div>
+
+  <div class="thesis">
+    <b>핵심:</b> 로봇은 <b>각도(angular) 편차</b>를 일관되게 줄인다. 그러나 동일 추적장치로 통제한 Wei RCT에서는
+    <b>선형(플랫폼·첨부) 편차가 내비게이션과 동등(NS)</b> — 로봇 우위의 scope는 각도 안정성에 한정.
+  </div>
+
+  <div class="tabs" id="tabs">
+    <div class="tab active" data-metric="angular">각도 Angular (°)</div>
+    <div class="tab" data-metric="platform">플랫폼/관상 Platform (mm)</div>
+    <div class="tab" data-metric="apex">첨부/근단 Apex (mm)</div>
+  </div>
+
+  <div class="legend">
+    <span><span class="dot" style="background:var(--robot)"></span>로봇 (robot)</span>
+    <span><span class="dot" style="background:var(--nav)"></span>내비게이션 (navigation)</span>
+    <span class="ns">* NS = 군간 비유의 · single-arm = 비교군 없음</span>
+  </div>
+
+  <div class="chartbox"><canvas id="chart"></canvas></div>
+
+  <table id="dataTable"></table>
+
+  <div class="note">
+    <b>해석 주의:</b> Yu 2025는 비무작위(robot 우위 최대), Wei 2025는 동일 optical tracker 통제 RCT(각도만 유의).
+    Chen 2025의 semi-autonomous 로봇은 선형만 우위·각도 동등. Wu 2024는 비교군 없는 절대정확도.
+    Wei의 coronal·apical은 NS로만 보고되어 수치 미표기. 편차 옆 괄호는 SD.
+    deviation→임상결과(생존·MBL) 연결 근거는 아직 없음.
+  </div>
+</div>
+
+<script>
+// ── 4편 deviation 데이터 (robot vs navigation; 단위 각도 °, 선형 mm) ──
+const studies = [
+  {name:"Yu 2025", design:"prospective · n=135", rLabel:"r-CAIS", nLabel:"d-CAIS",
+   angular:{r:1.62,rSd:0.93,n:3.61,nSd:1.65,sig:true},
+   platform:{r:0.50,rSd:0.19,n:1.12,nSd:0.51,sig:true},
+   apex:{r:0.58,rSd:0.21,n:1.36,nSd:0.57,sig:true}},
+  {name:"Wei 2025 (RCT)", design:"RCT · n=40 · 동일 tracker", rLabel:"AR", nLabel:"DN",
+   angular:{r:1.01,rSd:0.65,n:1.78,nSd:1.15,sig:true},
+   platform:{r:null,n:null,ns:true},
+   apex:{r:null,n:null,ns:true}},
+  {name:"Chen 2025", design:"retrospective · n=57", rLabel:"sa-RASS", nLabel:"DNS",
+   angular:{r:3.07,rSd:1.66,n:3.71,nSd:1.64,sig:false},
+   platform:{r:0.91,rSd:0.46,n:1.26,nSd:0.51,sig:true},
+   apex:{r:1.06,rSd:0.60,n:1.51,nSd:0.56,sig:true}},
+  {name:"Wu 2024", design:"single-arm · n=86", rLabel:"ADIRS", nLabel:null,
+   angular:{r:2.56,rSd:1.10,n:null,single:true},
+   platform:{r:0.61,rSd:0.20,n:null,single:true},
+   apex:{r:0.79,rSd:0.32,n:null,single:true}}
+];
+const unit = {angular:"°", platform:"mm", apex:"mm"};
+let curMetric = "angular";
+let chart;
+
+function buildChart(metric){
+  const labels = studies.map(s=>s.name);
+  const robotData = studies.map(s=>s[metric].r);
+  const navData   = studies.map(s=>s[metric].n);
+  const data = {
+    labels,
+    datasets:[
+      {label:"로봇", data:robotData, backgroundColor:"#2563eb", borderRadius:5, barPercentage:0.62, categoryPercentage:0.7},
+      {label:"내비게이션", data:navData, backgroundColor:"#dc2626", borderRadius:5, barPercentage:0.62, categoryPercentage:0.7}
+    ]
+  };
+  const cfg = {
+    type:"bar",
+    data,
+    options:{
+      responsive:true, maintainAspectRatio:false,
+      plugins:{
+        legend:{display:false},
+        tooltip:{callbacks:{
+          label:(ctx)=>{
+            const s = studies[ctx.dataIndex];
+            const m = s[metric];
+            const isRobot = ctx.datasetIndex===0;
+            if(m.ns) return "NS — 수치 미보고";
+            if(!isRobot && m.single) return "비교군 없음 (single-arm)";
+            const v = isRobot ? m.r : m.n;
+            const sd = isRobot ? m.rSd : m.nSd;
+            if(v==null) return "—";
+            const tag = m.ns ? " · NS" : (m.sig ? " · p<0.05" : " · NS");
+            return (isRobot? s.rLabel : s.nLabel)+`: ${v} ${unit[metric]} (SD ${sd})`+tag;
+          }
+        }}
+      },
+      scales:{
+        y:{beginAtZero:true, title:{display:true, text:"평균 편차 ("+unit[metric]+") · 낮을수록 정확"}, grid:{color:"#eef0f2"}},
+        x:{grid:{display:false}}
+      }
+    }
+  };
+  if(chart) chart.destroy();
+  chart = new Chart(document.getElementById("chart"), cfg);
+}
+
+function buildTable(){
+  const rows = studies.map(s=>{
+    const cell = (m)=>{
+      if(m.ns) return '<td class="ns">NS</td>';
+      if(m.single) return `<td class="lo">${m.r}</td>`;
+      const robotLo = (m.r!=null && m.n!=null && m.r<m.n);
+      return `<td>${m.r==null?'—':(robotLo?'<b style="color:#2563eb">'+m.r+'</b>':m.r)} / ${m.n==null?'—':m.n}</td>`;
+    };
+    return `<tr><td style="text-align:left"><b>${s.name}</b><br><span class="ns">${s.design}</span></td>
+      ${cell(s.angular)}${cell(s.platform)}${cell(s.apex)}
+      <td>${s.sigNote||''}</td></tr>`;
+  }).join("");
+  document.getElementById("dataTable").innerHTML =
+    `<tr><th>Study</th><th>각도 ° (R/N)</th><th>플랫폼 mm (R/N)</th><th>첨부 mm (R/N)</th><th></th></tr>`+rows
+    + `<tr><td colspan="5" class="ns" style="text-align:left">R=로봇, N=내비게이션 · 파란 굵은 값=로봇이 더 정확 · NS=비유의 · single-arm은 로봇값만</td></tr>`;
+}
+
+document.getElementById("tabs").addEventListener("click", e=>{
+  if(!e.target.classList.contains("tab")) return;
+  document.querySelectorAll(".tab").forEach(t=>t.classList.remove("active"));
+  e.target.classList.add("active");
+  curMetric = e.target.dataset.metric;
+  buildChart(curMetric);
+});
+
+buildChart(curMetric);
+buildTable();
+</script>
+</body>
+</html>
