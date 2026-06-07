@@ -275,6 +275,10 @@ NRS (Numeric Rating Scale)를 outcome으로.
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Narrative review - the relationship between diabetes mellitus and periodontal/peri-implant disease is bidirectional and appears causal … (narrative-review, 2024)
+
 ### 일반 framework
 - [[drug/kim-2000-dental-patients-systemic-disease-general-hospital]] — 한국 일반병원 OMFS, 전신질환 동반 12.2%
 - [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — UF dental school 148p 가이드
