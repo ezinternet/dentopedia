@@ -156,6 +156,11 @@ OPG 판독
 
 *(Póvoa 2021 SR, 16편)*
 
+### 6-2b. 신규 근거 (2026-06) — IAN 보호 효과 정량 강화
+- **Derbishi 2026 SR+MA** (8편: RCT 3 + 코호트 5, 1,488치): 관상절제술이 완전발치 대비 IAN 손상 **Peto OR 0.23 (95% CI 0.13–0.39, p<0.0001)**, TSA로 결론 확정. Cervera-Espert 2016의 "유의 감소"를 효과크기로 못박음. [근거강함]
+- **Rico-Barroso 2026 SR** (16편, 2,551환자): IAN 손상 **0.56%(관상절제) vs 6.53%(완전발치)**; 관상절제 중 6.22%가 결국 재발치. 본 페이지 6-2 표의 0.59% 수치와 일치. [근거강함]
+- **Di Spirito 2025 umbrella review** (SR 6편, 7,913 성공 관상절제): 재개입률 **4.45%**, 대부분 ~10개월 내, 치근 노출·이동이 주동인. 6-2 표의 재개입 1.13%보다 높은 상한 제시 — 장기 추적 필요. [합의수준]
+
 ### 6-3. 치근 이동 (Root Migration)
 - 잔존 치근은 **평균 2년 내 약 2mm 치관 방향으로 이동** (Cervera-Espert 2016)
 - 대부분 자연 경과로 허용 범위 내; 재발치가 필요한 경우는 소수
@@ -196,3 +201,11 @@ OPG 판독
 - [[oral-surgery/cervera-espert-2016-coronectomy-mandibular-third-molar-sr]] — 관상절제술 SR+MA; IAN↓·건성발치창↓ (Med Oral 2016)
 - [[oral-surgery/povoa-2021-coronectomy-inferior-alveolar-nerve-sr]] — 관상절제술 2,176례 SR; IAN 0.59% (Healthcare 2021)
 - [[oral-surgery/damico-2025-third-molar-surgical-indications-guidelines]] — NICE·AAOMS 가이드라인 검토 (Eng Proc 2025)
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — SR+MA (8 studies — 3 RCTs + 5 cohorts, 1488 teeth): coronectomy cut IAN injury vs total extraction (Peto OR 0.23, 95% CI 0.13–0.39, p<0.0001 … (sr+ma, 2026)
+- [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Umbrella review (6 systematic reviews, 5896 subjects, 7913 successful coronectomies): overall re-intervention rate 4.45%, mostly within ~10 months … (sr, 2025)
+- [[oral-surgery/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Systematic review (16 studies, 2551 patients, 2280 coronectomies vs 841 extractions): IAN injury 0.56% (coronectomy) vs 6.53% (extraction) … (sr, 2026)
