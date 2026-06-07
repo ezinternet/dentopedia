@@ -1652,3 +1652,32 @@ tags: []
 ### Overviews (added 2026-06-07)
 - [[overviews/robotic-vs-navigation-implant-accuracy]] — 로봇 vs 동적내비게이션 vs static guide 정확도 종합: 로봇은 각도 편차만 일관 개선, 동일 tracker 통제 시 선형 편차 동등(Wei RCT)
 - [[overviews/zirconia-implant-clinical-outcomes]] — 지르코니아 임플란트 생존(10yr CSR 95.1%)·MBL·PRO 종합: 잔여 실패는 2-piece·협폭경·드릴가공·단종제품에 집중
+
+### immediate-implant batch (added 2026-06-07)
+
+#### immediate-implant — soft tissue / grafting
+- [[immediate-implant/zaki-2021-bone-substitute-materials-immediate-implant-sr-ma]] — Zaki 2021 · sr+ma (20 RCT·848pt): gap에 골대체재 사용 시 수평 협측골 흡수 감소(MD −0.52mm)·심미 향상(MD +1.49)이나 합병증 증가(RR 3.50), 실패율 동등
+- [[immediate-implant/liu-2023-collagen-immediate-implant-soft-hard-tissue-sr-ma]] — Liu 2023 · sr+ma (7 RCT·205pt): jumping gap에 골이식재+콜라겐 병용 시 협측 골두께·심미 유의 향상, 실패율·연조직 두께 차이 없음
+- [[immediate-implant/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] — Aldhohrah 2022 · sr+ma (12편): SCTG가 타 처치 대비 협측 조직두께(MD 0.74mm)·치은수준·PES 개선·MBL 감소
+- [[immediate-implant/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]] — Torra-Moneny 2024 · sr+ma (5 RCT·245pt): CTG는 협측 치은수준을 '유지'(증가 아님), 유의하진 않으나 유리한 경향(MD 0.09mm)
+- [[immediate-implant/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — Fettouh 2024 · rct (39부위): 즉시식립+CTG가 중안면 퇴축 최소(−0.74mm)·부피손실 5배 감소; 치유지대주 단독은 윤곽유지 실패(−1.54mm)
+- [[immediate-implant/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — De Angelis 2021 · retrospective (48례): SCTG·이종 콜라겐 기질(XCM) 동등, 무이식군이 협측 두께·변연 손실 큼 — XCM이 SCTG 대안
+- [[immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — Donker 2025 · prospective (30pt): 완전 디지털 워크플로우 즉시식립·즉시 임시수복, 생존 90%·PES+WES 15.4/20·만족도 9.2/10
+
+#### immediate-implant — socket shield / partial extraction therapy
+- [[immediate-implant/neves-2023-socket-shield-stress-distribution-fea]] — Neves 2023 · in-vitro (FEA): 소켓쉴드·이종골이식 모두 대조군보다 주위골 응력 높음, 소켓쉴드가 응력집중 최대
+- [[immediate-implant/fang-2025-socket-shield-ai-bibliometric-analysis]] — Fang 2025 · narrative-review (157편 계량서지): 소켓쉴드 연구 2015년 이후 증가, 미국 출판 최다·독일 피인용 최고
+- [[immediate-implant/ahamed-2022-partial-extraction-therapy-implant-placement]] — Ahamed 2022 · narrative-review: 부분발치술(소켓쉴드·폰틱쉴드·치근매몰) 개념·술식 정리, 표준 쉴드 디자인 프로토콜 부재 지적
+- [[immediate-implant/verma-2022-socket-shielding-esthetic-region-review]] — Verma 2022 · narrative-review: 소켓쉴드는 심미부 협측골·윤곽 보존의 최소침습·골이식 선택적 옵션, 근거 제한적
+
+#### immediate-implant — placement timing / decision
+- [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]] — Tonetti 2017 · rct (124pt): 즉시식립이 지연 대비 골증대(72% vs 43.9%)·창상실패(26.1% vs 5.3%)·부적절 심미(42% vs 19%) 많아, 심미 중요 시 비권장
+- [[immediate-implant/bassir-2019-early-implant-placement-protocols-sr-ma]] — Bassir 2019 · sr+ma (12편): 조기식립은 즉시·지연과 실패율 동등하나, 신선와 즉시식립보다 변연골소실 적음(WMD −0.14mm)
+- [[immediate-implant/bineviciute-2024-attitudes-surgeons-immediate-implant-survey]] — Bineviciute 2024 · cross-sectional (186명 설문): 즉시식립 주 금기는 치근단병소 >5mm(91.7/96.9%), 소켓 형태 분류체계 사용 ~34–43% 불과
+
+#### implants — loading protocol / full-arch / tilted
+- [[implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma]] — Benic 2014 · sr+ma (11 RCT): 단관 즉시 vs 통상 로딩 생존·MBL 5년까지 동등 — 토크 ≥20–45 Ncm 또는 ISQ ≥60–65·동시증대 불필요 조건
+- [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — Liu 2021 · sr+ma (5 RCT+2코호트·191pt): 하악 비연결형 오버덴처 즉시 vs 지연 로딩 MBL 동등, 즉시군 실패율 수치상 높음(5.03% vs 1.00%)
+- [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — Abdunabi 2019 · sr (4 CCT): 무치악 상악 전악 즉시 로딩 — 만족도·합병증 차이 약한 근거만, 메타분석 불가
+- [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등
+- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
