@@ -214,6 +214,11 @@ p=0.002, 명확한 차이.
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[drug/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — SR+MA of 8 high-quality trials (6 pooled) found etoricoxib (120 mg the dominant dose) significantly reduced the NUMBER of patients needing rescue anal … (sr+ma, 2021)
+- [[drug/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD … (sr, 2025)
+
 ### 1차 약물 효과 (Network MA·SR-MA)
 - [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — 발치 통증 Network MA n=9,095
 - [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Single-dose Cochrane overview
