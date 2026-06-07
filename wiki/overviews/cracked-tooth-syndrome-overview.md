@@ -166,6 +166,10 @@ CTS overview의 가장 임상적으로 중요한 부분 — **endo 진입 여부
 
 ## Related Papers (본 overview에 통합된 8편)
 
+### 신규 추가 (2026-06)
+
+- [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — 3D FEA comparing stress distribution and crack propagation in a cracked mandibular first molar restored with onlay, overlay … (in-vitro, 2025)
+
 ### International cluster (4편)
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — Umbrella review (highest evidence, endo + cuspal coverage 권장)
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-protocol]] — Pre-registered protocol (reproducibility)
