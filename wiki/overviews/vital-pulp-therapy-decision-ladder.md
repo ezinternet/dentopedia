@@ -127,3 +127,9 @@ All three NMA confirm success rates decline over time regardless of material (Ha
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — adult full pulpotomy prospective
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — micro-CT dentin bridge
 - [[overviews/endodontics-comprehensive-ladder]] — broader endodontics overview
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[endodontics/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치의 vital pulp therapy … (narrative-review, 2025)
