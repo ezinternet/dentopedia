@@ -218,3 +218,9 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 - D3/D4 골 표면별 5년 이상 prospective
 - 임플란트 노화 (저장 기간)와 임상 결과 RCT
 - 표면처리와 peri-implantitis 장기 발생률 연관 prospective
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[implants/surface/zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr]] — SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편 in vivo (1 clinical 15 animal … (sr, 2025)
