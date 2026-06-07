@@ -1,5 +1,9 @@
 ---
 title: "Clearfil SE Bond / SE Bond 2"
+authors: "Kuraray Noritake (product); wiki synthesis"
+year: 2026
+doi: ""
+source: clearfil-se-bond-product-reference.md
 type: product-reference
 category: resin-bonding
 date: 2026-06-06
