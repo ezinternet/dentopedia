@@ -84,3 +84,10 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 - 과부하-골소실 = [합의수준/미검증]
 - FEA 교합양식 = [claude해석](모델), 임상 외삽 [미검증]
 - 무치악 설계 = [합의수준](narrative)
+
+## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]] — Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes … (cross-sectional, 2021)
+- [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
