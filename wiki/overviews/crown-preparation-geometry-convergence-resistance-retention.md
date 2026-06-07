@@ -160,6 +160,11 @@ source: synthesis
 - **3D 프린팅 retention 우위의 기전 미규명** — Alqarawi 2024는 결과만 보고. Surface roughness, residual monomer interaction, dimensional accuracy 중 어느 것이 dominant 기전인지 후속 연구 필요.
 
 ## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[prosthetic-materials/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Cross-sectional STL audit (n=392 posterior preparations from 3 labs) found most monolithic zirconia preparations exceeded 20° TOC and >50% had undercu … (cross-sectional, 2021)
+- [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Systematic review of 27 in vitro studies: rounded-shoulder finish line favored marginal fit, chamfer favored internal adaptation … (sr, 2025)
 - [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]] — 클러스터 1 SR anchor
 - [[prosthetic-materials/vinnakota-2015-convergence-retention-multiple-unit-invitro]] — 클러스터 2 정량 anchor
 - [[prosthetic-materials/amine-2022-convergence-tooth-preparation-students-typodont]] — 클러스터 1 학생 데이터
