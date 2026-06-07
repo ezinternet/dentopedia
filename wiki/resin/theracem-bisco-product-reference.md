@@ -1,5 +1,9 @@
 ---
 title: "TheraCem (BISCO)"
+authors: "BISCO Inc. (product); wiki synthesis"
+year: 2026
+doi: ""
+source: theracem-bisco-product-reference.md
 type: product-reference
 category: resin
 date: 2026-06-06
