@@ -1,0 +1,203 @@
+<!--
+---
+title: "근관세정제·킬레이터 비교 매트릭스 (chairside)"
+type: interactive
+date: 2026-06-07
+status: draft
+agenda: agenda/2026-06-07_dh-irrigation-interactives.md
+source_wiki:
+  - wiki/endodontics/irrigation/fortea-2024-chelating-agents-endodontic-treatment-sr.md
+  - wiki/endodontics/irrigation/rao-2025-maleic-acid-root-canal-scoping-review.md
+  - wiki/endodontics/irrigation/teja-2022-herbal-agents-edta-smear-layer-removal-sr.md
+  - wiki/endodontics/irrigation/elfarraj-2024-irrigants-tooth-dentin-infrared-spectroscopy-slr.md
+  - wiki/endodontics/irrigation/agarwal-2024-irrigating-solutions-dentin-microhardness-sr-ma.md
+  - wiki/endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review.md
+  - wiki/endodontics/irrigation/nascimento-2015-gel-formulations-residues-dentinal-walls-sem-eds.md
+  - wiki/endodontics/irrigation/cruz-2014-debris-apical-third-naocl-glyde-in-vivo.md
+  - wiki/endodontics/irrigation/wong-2014-root-canal-lubricants-antibacterial-irrigants.md
+  - wiki/resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma.md
+tags: [endodontic-irrigation, chelating-agent, comparison-matrix, edta, hedp, maleic-acid, naocl]
+notes: |
+  단일 HTML, 인라인 CSS/JS, CDN 없음 (오프라인 chairside).
+  셀 평가(High/Mid/Low)는 인용 논문 결론 기반 휴리스틱 [claude해석]. 셀 클릭 시 출처 표시.
+  출처: fortea-2024, rao-2025, teja-2022, elfarraj-2024, agarwal-2024, khoury-2024,
+        nascimento-2015, cruz-2014, wong-2014, zhou-2025.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>근관세정제·킬레이터 비교 매트릭스</title>
+<style>
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    max-width:1000px;margin:14px auto;padding:12px;background:#f6f7f9;color:#1d2127;line-height:1.45}
+  h1{font-size:1.35em;margin:0 0 2px}
+  .sub{color:#6b7280;font-size:.82em;margin-bottom:12px}
+  .controls{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;align-items:center}
+  .controls span{font-size:.8em;color:#555;margin-right:4px}
+  .chip{border:1px solid #cdd2d8;background:#fff;border-radius:14px;padding:5px 11px;font-size:.8em;cursor:pointer;color:#374151}
+  .chip.on{background:#2563eb;color:#fff;border-color:#2563eb}
+  .wrap{overflow-x:auto;background:#fff;border:1px solid #e1e4e8;border-radius:10px;padding:4px}
+  table{border-collapse:collapse;width:100%;font-size:.82em;min-width:720px}
+  th,td{border:1px solid #eceef1;padding:8px 9px;text-align:center;vertical-align:middle}
+  th{background:#f1f3f5;font-weight:700;color:#2b3038;position:sticky;top:0}
+  td.agent{text-align:left;font-weight:700;background:#fafbfc;white-space:nowrap}
+  td.agent small{display:block;font-weight:400;color:#7b828c;font-size:.85em}
+  .cell{border-radius:6px;padding:6px 4px;cursor:pointer;font-weight:600;font-size:.92em}
+  .H{background:#dcfce7;color:#166534}
+  .M{background:#fef9c3;color:#854d0e}
+  .L{background:#fee2e2;color:#991b1b}
+  .NA{background:#eef0f3;color:#9aa0a8}
+  .cell:hover{outline:2px solid #2563eb}
+  #panel{margin-top:12px;background:#fff;border:1px solid #e1e4e8;border-radius:10px;padding:12px 14px;font-size:.85em;min-height:54px}
+  #panel b{color:#1d4ed8}
+  .legend{font-size:.74em;color:#8a909a;margin-top:8px}
+  .best{font-size:.82em;color:#374151;margin-top:6px}
+</style>
+</head>
+<body>
+<h1>근관세정제·킬레이터 비교 매트릭스</h1>
+<div class="sub">7제 × 6축 · 셀 클릭 시 출처 표시 · 평가는 인용 논문 결론 기반 [claude해석], 처방 대체 아님 (2026-06-07 ingest)</div>
+
+<div class="controls">
+  <span>축 강조:</span>
+  <span class="chip on" data-col="all">전체</span>
+  <span class="chip" data-col="0">Smear 제거</span>
+  <span class="chip" data-col="1">NaOCl 양립</span>
+  <span class="chip" data-col="2">세포독성·erosion</span>
+  <span class="chip" data-col="3">Microhardness</span>
+  <span class="chip" data-col="4">Bond strength</span>
+  <span class="chip" data-col="5">항균·특이</span>
+</div>
+
+<div class="wrap">
+<table id="tbl">
+<thead><tr>
+  <th>제제</th>
+  <th data-col="0">Smear 제거<br><small style="font-weight:400">(apical 포함)</small></th>
+  <th data-col="1">NaOCl 양립성</th>
+  <th data-col="2">세포독성·erosion<br><small style="font-weight:400">(낮을수록 ↑)</small></th>
+  <th data-col="3">Microhardness 보존<br><small style="font-weight:400">(높을수록 영향 적음)</small></th>
+  <th data-col="4">Resin bond 영향</th>
+  <th data-col="5">항균·특이</th>
+</tr></thead>
+<tbody></tbody>
+</table>
+</div>
+
+<div id="panel">셀을 클릭하면 해당 평가의 근거 논문이 여기 표시됩니다.</div>
+<div class="best" id="best"></div>
+<div class="legend">H = 우수/높음 · M = 중간 · L = 낮음/주의 · — = 해당 없음. NaOCl 양립성은 chelator를 NaOCl과 동시·연속 사용 시 침전·간섭 적음 정도.</div>
+
+<script>
+// rating: [등급, 근거문장]  — 열: 0 smear,1 NaOCl양립,2 세포독성/erosion(역; H=안전),3 microhardness보존(H=영향적음),4 bond,5 항균/특이
+const ROWS = [
+ { n:"NaOCl", sub:"차아염소산나트륨", best:"조직용해·항균 1차 세정. 유기질(콜라겐) 분해 → 결합강도·microhardness 저하 유발.",
+   c:[
+    ["M","주 역할은 smear 제거가 아닌 조직용해/항균; 무기 smear는 chelator 필요 (khoury-2024)"],
+    ["—","기준 세정제 — 양립성 평가 대상 아님 (단 CHX와 직접 혼합 시 오렌지-갈색 침전, khoury-2024)"],
+    ["L","유기질(amide/phosphate↓) 분해, 농도↑일수록 dentin 화학 변화 (elfarraj-2024)"],
+    ["L","irrigant이 dentin microhardness 감소 (agarwal-2024 SR+MA)"],
+    ["L","NaOCl 처리 dentin은 결합강도↓ — collagen crosslinker로 일부 회복 (zhou-2025)"],
+    ["H","강력 항균·조직용해. CHX 최종 세척으로 substantivity 보완 (khoury-2024)"]
+   ]},
+ { n:"EDTA 17%", sub:"기준 킬레이터", best:"Smear 제거·성장인자 방출 기준제. 세포독성/erosion은 상대적으로 높음.",
+   c:[
+    ["H","Smear 제거·성장인자 방출에서 기준(최우수) (fortea-2024 SR)"],
+    ["L","NaOCl과 직접 혼합 시 가용 염소 소실 → 보통 순차 사용 (fortea-2024)"],
+    ["L","대안 대비 세포독성·염증 유발 큼 (fortea-2024)"],
+    ["L","dentin microhardness 감소 (agarwal-2024)"],
+    ["M","crosslinker로 활용 시 NaOCl 처리 dentin 결합강도 회복에 기여 (zhou-2025)"],
+    ["M","무기 smear 제거가 주역, 직접 항균은 제한적 (fortea-2024)"]
+   ]},
+ { n:"HEDP 9–18%", sub:"에티드론산", best:"NaOCl과 단일 세정제로 동시 사용 가능 + smear 형성 예방. EDTA의 현대적 대안.",
+   c:[
+    ["M","연속 smear 형성 예방에 강점, 즉시 제거력은 EDTA보다 온건 (fortea-2024)"],
+    ["H","NaOCl과 양립 — 단일 세정제 프로토콜 가능 (fortea-2024)"],
+    ["M","EDTA보다 온건한 erosive profile (fortea-2024)"],
+    ["M","온건한 탈회 → microhardness 영향 상대적 적음 [claude해석] (fortea-2024)"],
+    ["—","직접 bond 데이터 제한"],
+    ["M","NaOCl 활성 유지하며 항균 지속에 기여 (fortea-2024)"]
+   ]},
+ { n:"Maleic acid 7%", sub:"말레산", best:"Apical third smear 제거에서 EDTA보다 우월. 탈회 강 → 1–3분 단시간 적용.",
+   c:[
+    ["H","Apical smear 제거 EDTA보다 일관되게 우월 (rao-2025 scoping)"],
+    ["M","산성 conditioner — 순차 사용 권장 [claude해석] (rao-2025)"],
+    ["L","강한 탈회 → 과적용 시 erosion, 짧은 적용 필요 (rao-2025)"],
+    ["L","저pH 탈회로 microhardness 영향 가능 [claude해석] (rao-2025 / agarwal-2024)"],
+    ["M","접착·재생에 이점, Ca(OH)2 제거 우수 (rao-2025)"],
+    ["M","항균·접착 향상 보고 (rao-2025)"]
+   ]},
+ { n:"Citric acid 10–20%", sub:"구연산", best:"대안 산성 conditioner. EDTA 계열과 유사 역할.",
+   c:[
+    ["M","Smear 제거 효과 있으나 프로토콜 이질적 (fortea-2024)"],
+    ["L","NaOCl과 직접 혼합 비권장 (fortea-2024)"],
+    ["M","산성 erosive 잠재 (fortea-2024)"],
+    ["L","탈회로 microhardness 감소 (agarwal-2024)"],
+    ["—","직접 bond 데이터 제한"],
+    ["M","무기질 제거 중심 (fortea-2024)"]
+   ]},
+ { n:"Herbal", sub:"quixabeira·noni·oregano·neem", best:"생체적합 대안. 일부 herbal이 타 herbal보다 우수하나 EDTA가 여전히 기준.",
+   c:[
+    ["M","Quixabeira·noni·oregano·neem이 타 herbal보다 우수, EDTA가 기준 (teja-2022 SR)"],
+    ["M","산화 간섭 적은 편 [claude해석] (teja-2022)"],
+    ["H","생체적합성 동기 — 세포독성 낮은 편 [claude해석] (teja-2022)"],
+    ["M","데이터 제한 (teja-2022)"],
+    ["—","직접 bond 데이터 제한"],
+    ["M","herbal 항균 잠재, 표준화 부족 (teja-2022)"]
+   ]},
+ { n:"CHX 2%", sub:"클로르헥시딘", best:"최종 세척용 — substantivity(지속 항균). 조직용해·smear 제거력은 없음.",
+   c:[
+    ["L","Smear 제거·조직용해 없음 (khoury-2024)"],
+    ["L","NaOCl과 직접 혼합 시 침전(파라클로로아닐린) — 사이 세척 필요 (khoury-2024)"],
+    ["H","상대적으로 온건 (khoury-2024)"],
+    ["H","탈회 작용 없음 → microhardness 영향 적음 [claude해석]"],
+    ["—","직접 bond 데이터 제한"],
+    ["H","Substantivity로 지속 항균 — 최종 rinse 권장 (khoury-2024)"]
+   ]}
+];
+
+const tb=document.querySelector("#tbl tbody");
+ROWS.forEach((r,ri)=>{
+  const tr=document.createElement("tr");
+  tr.innerHTML=`<td class="agent">${r.n}<small>${r.sub}</small></td>`+
+    r.c.map((cell,ci)=>{
+      const g=cell[0], cls=({"H":"H","M":"M","L":"L","—":"NA"})[g];
+      return `<td><div class="cell ${cls}" data-col="${ci}" data-r="${ri}" data-c="${ci}">${g}</div></td>`;
+    }).join("");
+  tb.appendChild(tr);
+});
+
+const panel=document.getElementById("panel");
+document.querySelectorAll(".cell").forEach(c=>{
+  c.onclick=()=>{
+    const r=ROWS[+c.dataset.r], ci=+c.dataset.c;
+    const cols=["Smear 제거","NaOCl 양립성","세포독성·erosion","Microhardness 보존","Resin bond 영향","항균·특이"];
+    panel.innerHTML=`<b>${r.n}</b> — ${cols[ci]}: <b>${r.c[ci][0]}</b><br>${r.c[ci][1]}`;
+  };
+});
+
+// 축 강조 필터
+document.querySelectorAll(".chip").forEach(ch=>{
+  ch.onclick=()=>{
+    document.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));
+    ch.classList.add("on");
+    const col=ch.dataset.col;
+    document.querySelectorAll("#tbl td .cell, #tbl th").forEach(el=>{ el.style.opacity=""; });
+    if(col!=="all"){
+      document.querySelectorAll("#tbl .cell").forEach(el=>{ el.style.opacity = (el.dataset.col===col)?"1":"0.22"; });
+      document.querySelectorAll("#tbl th[data-col]").forEach(el=>{ el.style.opacity = (el.dataset.col===col)?"1":"0.35"; });
+    }
+  };
+});
+
+// 제제별 최적 용도 요약
+document.getElementById("best").innerHTML =
+  "<b>최적 용도 요약:</b> "+ROWS.map(r=>`<u>${r.n}</u> ${r.best}`).join("<br>");
+</script>
+<p class="legend">출처 페이지: wiki/endodontics/irrigation/ (fortea-2024, rao-2025, teja-2022, elfarraj-2024, agarwal-2024, khoury-2024, nascimento-2015, cruz-2014, wong-2014) · wiki/resin-bonding/zhou-2025</p>
+</body>
+</html>
