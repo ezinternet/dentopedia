@@ -66,6 +66,10 @@ ProTaper Gold는 여러 연구에서 "비교군 하한" 역할을 한다. Khalil
 - Glide path 생략 vs 시행의 본 성형 file 파절률 영향 논문.
 
 ## Related Papers
+
+### 신규 추가 (2026-06)
+
+- [[endodontics/shaping/whitbeck-2015-edta-preparations-rotary-canal-instrumentation]] — In vitro micro-CT study comparing saline, 17% EDTA solution, and RC-Prep during rotary NiTi instrumentation … (in-vitro, 2015)
 - [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — glide path transportation, 천연 dentin (축 1)
 - [[endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]] — 5 pathfinder S-block 비교 (축 1)
 - [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — glide path 세균 압출, 생물학적 비용 (축 2)
