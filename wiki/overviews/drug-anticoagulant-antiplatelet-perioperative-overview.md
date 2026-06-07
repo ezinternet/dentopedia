@@ -191,6 +191,10 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thrombo … (narrative-review, 2024)
+
 ### SR·가이드라인 (1차 근거)
 - [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR 25편: VKA·DOAC·항혈소판 중단 불필요; TXA 1차 지혈
 - [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR 7편: 지속 vs 중단 vs 브리징 출혈 차이 없음
