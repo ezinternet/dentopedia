@@ -186,6 +186,22 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 - [[resin-bonding/doshi-2023-universal-adhesive-nccl-strategy-sr-ma]] — universal adhesive NCCL strategy SR+MA
 - [[resin-bonding/oza-2022-universal-adhesive-nccl-rct-2year]] — 2yr RCT
 
+### 신규 ingest cluster — laser·desensitizer·toothpaste 정량 근거 (2026-06-07, 11편)
+
+**Synthesis [claude해석]:** 본 batch는 기존 JKDA narrative ladder의 두 치료 축(tubule occlusion / nerve desensitization)에 정량 근거를 채운다. (1) **Laser**: [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] (LLLT placebo 대비 SMD 1.09→2.86, 단 fluoride 외 우월성 없음 [근거강함])와 [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] (고·저출력 동등, 표준 프로토콜 미확립 [근거강함])가 메타수준 근거를 제공하고, RCT [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]]·[[dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct]]는 laser가 단기 우월하나 3–6개월에 chemical agent와 수렴함을 보인다 [합의수준]. (2) **Tubule-occlusion 기전·안전성**: [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]] + [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]] + [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]]는 Gluma(글루타르알데히드)의 효과가 치수액 의존적이고 농도의존적 세포독성을 동반함을 보여 **vital pulp 인접 시 농도·노출 주의** 신호 [claude해석]. (3) **At-home 치약**: [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] (저농도 bioactive glass 효과 [합의수준]) + [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] (368 제형 지도: 포타슘·CSP·MFP/NaF 주류)가 1차 at-home 옵션 카탈로그를 보강. (4) [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]]·[[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]]는 관리 전략·재료기전 narrative.
+
+- [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA: LLLT placebo 대비 효과, fluoride 외 우월성 없음
+- [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA: 고·저출력 레이저 동등, 표준 프로토콜 미확립
+- [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]] — RCT: Er,Cr:YSGG > NaF varnish (6mo)
+- [[dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct]] — RCT: 980nm diode laser 1개월 우월, 3개월 수렴
+- [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]] — in-vitro SEM: NovaMin vs Gluma 세관 폐쇄
+- [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]] — in-vitro: GLUMA 효과 치수액 의존·세포독성
+- [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]] — in-vitro: 글루타르알데히드 농도의존 세포독성
+- [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] — SR: 저농도 bioactive glass 치약 효과
+- [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] — Scoping: 368 탈감작 치약 제형 지도
+- [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]] — Narrative: 관리 전략, 환자 동기+술자 지식
+- [[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]] — Review: 물리·화학·시너지 tubule-sealing 전략
+
 ### Related categories
 - [[caries/jkda-2023-61-7-004]] — fluoride varnish 제품 비교 (2차 in-office 옵션)
 - [[overviews/cracked-tooth-syndrome-overview]] — 감별진단 framework
