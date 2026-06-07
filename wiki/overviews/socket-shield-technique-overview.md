@@ -2,7 +2,7 @@
 title: "Socket Shield Technique (SST) — Evidence Synthesis & Decision Framework"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-31
+date: 2026-06-07
 doi: N/A
 source: synthesis
 category: overviews
@@ -15,11 +15,11 @@ tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bo
 
 ## One-line Summary
 
-Synthesis of 13 wiki pages on the Socket Shield Technique (SST): pooled SR/MA + 2 RCTs converge on superior buccal-bone and pink-esthetic preservation (BBPR ~0.32 vs ~1.05 mm, MBL ~0.39 vs ~1.00 mm, PES +1.3), but evidence is dominated by case reports, long-term (≥5y) data are thin, and a 4–17% shield-related complication rate restricts SST to experienced operators in selected esthetic-zone cases.
+Synthesis of 17 wiki pages on the Socket Shield Technique (SST): pooled SR/MA + 2 RCTs converge on superior buccal-bone and pink-esthetic preservation (BBPR ~0.32 vs ~1.05 mm, MBL ~0.39 vs ~1.00 mm, PES +1.3), but evidence is dominated by case reports, long-term (≥5y) data are thin, a 4–17% shield-related complication rate restricts SST to experienced operators in selected esthetic-zone cases, and an FEA study now flags the retained shield as the highest peri-implant stress concentrator — a biomechanical caution beneath the favorable clinical numbers.
 
 ## 한줄요약
 
-소켓실드 기법(Socket Shield Technique, SST) 13개 페이지 종합. SR/MA + RCT 2편이 협측 골판·핑크 심미 보존 우월로 수렴(협측 골판 흡수 BBPR 약 0.32 vs 1.05 mm, 변연골 소실 MBL 약 0.39 vs 1.00 mm, 핑크 심미 점수 PES +1.3). 단 근거 다수가 증례보고이고 장기(≥5년) 데이터 부족, 실드 관련 합병증 4–17%로 숙련자·선별 심미부 증례에 한정.
+소켓실드 기법(Socket Shield Technique, SST) 17개 페이지 종합. SR/MA + RCT 2편이 협측 골판·핑크 심미 보존 우월로 수렴(협측 골판 흡수 BBPR 약 0.32 vs 1.05 mm, 변연골 소실 MBL 약 0.39 vs 1.00 mm, 핑크 심미 점수 PES +1.3). 단 근거 다수가 증례보고이고 장기(≥5년) 데이터 부족, 실드 관련 합병증 4–17%로 숙련자·선별 심미부 증례에 한정. 신규 FEA는 잔존 실드가 주위골 응력 집중을 최대화함을 보여, 우호적 임상 수치 이면의 생역학적 주의를 더한다.
 
 ## Summary
 
@@ -27,7 +27,9 @@ SST leaves a buccal fragment of the retained root (the "shield") in place at imm
 
 The 13 SST pages in this wiki form a clear evidence gradient: from cautious narrative reviews (Blaschke, Durrani, Sharma) → multiple SR/MA quantifying buccal bone, MBL, PES, and failure (Velasco 2021, Lin 2022, Gharpure 2022, Oliva 2023) → a 2025 network meta-analysis (Ji) at the top of the evidence pyramid → and two RCTs (Atef 2021 esthetic zone; Zhang 2026 orthodontic premolar) plus indication-expansion case work (Simuntis 2025 lower molar). The consistent signal across all of them is **esthetic and buccal-bone superiority over conventional immediate placement**, tempered by **low underlying study quality and a non-trivial shield-specific complication burden**.
 
-This page synthesizes those 13 entries into one decision framework. It supersedes the brief socket-shield treatment in [[overviews/immediate-implant-decision-ladder]] (axis 4 cited only 4 SST papers; the topic has grown to 13 dedicated pages warranting its own page).
+A 2026-06-07 update added four further pages: an FEA biomechanics study (Neves 2023), an AI-based bibliometric map of the field (Fang 2025), a partial-extraction-therapy primer situating SST within the PET family — socket shield, pontic shield, root submergence (Ahamed 2022), and a short esthetic-zone appraisal (Verma 2022). Neves shifts the synthesis: the retained shield, while clinically protective, is the **highest peri-implant stress concentrator** under oblique load — reconciling the favorable bone/esthetic numbers with the shield-specific complication burden as plausibly mechanical in origin.
+
+This page synthesizes those 17 entries into one decision framework. It supersedes the brief socket-shield treatment in [[overviews/immediate-implant-decision-ladder]] (axis 4 cited only 4 SST papers; the topic has grown to 17 dedicated pages warranting its own page).
 
 ## Scope
 
@@ -50,6 +52,10 @@ Covers all dedicated SST wiki pages under `wiki/immediate-implant/`. Buccal-plat
 | [[immediate-implant/blaschke-2020-socket-shield-technique-critical-review]] | narrative-review | 12 studies | Cautious anchor: insufficient long-term, complication-pattern, and routine-use evidence. |
 | [[immediate-implant/durrani-2020-socket-shield-esthetic-success-jisp]] | narrative-review | — | Critical appraisal of esthetic claims. |
 | [[immediate-implant/samet-2023-immediate-placement-loading-esthetic-zone]] | (immediate placement, peripheral) | esthetic zone | Context for immediate placement/loading; SST referenced. |
+| [[immediate-implant/neves-2023-socket-shield-stress-distribution-fea]] | in-vitro (FEA) | 3D central incisor model | Biomechanics: SST > bone graft > control in peri-implant bone stress; shield = highest stress concentration. |
+| [[immediate-implant/ahamed-2022-partial-extraction-therapy-implant-placement]] | narrative-review | PET family | Situates SST within partial extraction therapy (socket/pontic shield, root submergence); no standardized shield-design protocol. |
+| [[immediate-implant/verma-2022-socket-shielding-esthetic-region-review]] | narrative-review | esthetic zone | Concise appraisal: minimally invasive, graft-optional buccal preservation; evidence base limited. |
+| [[immediate-implant/fang-2025-socket-shield-ai-bibliometric-analysis]] | narrative-review (bibliometric) | 157 articles, Scopus 2010–2024 | Research landscape: rising output post-2015; USA leads volume, Germany citations; Hürzeler 2010 anchors the field. |
 
 ## Quantitative Anchors
 
@@ -78,6 +84,12 @@ The headline trade-off. Reported complication rates diverge by review scope and 
 - **Complication-free survival**: 90.5% (Ogawa 2022).
 
 [합의수준] 실드 노출·이동이 SST 특유의 주 합병증이며 술자 숙련도 의존적. 합병증이 발생해도 implant survival 자체는 높게 유지(98.6% Oliva)되나, 미용 실패·재수술 위험이 본질적 비용.
+
+## Biomechanics (in-vitro)
+
+A finite element analysis ([[immediate-implant/neves-2023-socket-shield-stress-distribution-fea]]) modeled a maxillary central incisor implant crown under combined oblique loads (100 N lingual + 25.5 N incisal) comparing three buccal-wall conditions: socket shield (2.0-mm dentin fragment), heterologous bone graft, and a fully bone-embedded control. Both SST and bone graft transmitted **higher peri-implant bone stress than the control**, and the **socket shield produced the highest stress concentration** in peri-implant tissues.
+
+[claude해석] This is the mechanistic bridge to the complication profile: the shield that protects the buccal plate clinically also concentrates load at the peri-implant interface, a plausible driver of shield migration/resorption. [미검증] FEA is idealized (static loads, assumed material properties, no biological remodeling) and stress ≠ clinical failure — treat as hypothesis-generating, not as a contraindication.
 
 ## Decision Framework
 
@@ -115,4 +127,5 @@ Alternatives and trade-offs:
 - [[overviews/immediate-implant-decision-ladder]] — parent decision ladder; SST is axis 4 there, expanded here.
 - [[overviews/bone-regeneration-protocol-ladder]] — fallback when buccal plate is already lost.
 - [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
-- All 13 SST pages — see Evidence Map above.
+- [[overviews/implant-placement-timing-immediate-early-delayed]] — placement-timing decision (immediate/early/delayed); SST is an immediate-placement variant.
+- All 17 SST pages — see Evidence Map above.
