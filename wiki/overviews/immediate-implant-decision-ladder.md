@@ -196,6 +196,10 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 ## Related Papers
 
+### 신규 추가 (2026-06)
+
+- [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — Two retrospective cohorts (118 patients; 58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing o … (retrospective, 2024)
+
 ### spine (본문 인용)
 
 - [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]]
