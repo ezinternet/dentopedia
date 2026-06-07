@@ -114,6 +114,15 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 
 ## Related Papers (전체 28편, 위 본문 인용)
 
+### 신규 추가 (2026-06)
+#### Robotic CAIS — autonomous robot vs dynamic navigation (2026-06-07)
+- [[digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation]] — Yu 2025 prospective: 자율로봇 각도/플랫폼/첨부 편차 ≈½ vs dynamic nav
+- [[digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation]] — Wei 2025 RCT: 동일 tracker 통제 시 로봇은 각도만 유의 개선, 시술시간 ↑
+- [[digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy]] — Chen 2025 retro: semi-autonomous robot 플랫폼·첨부 우위, 각도 동등
+- [[digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy]] — Wu 2024 single-arm: 자율로봇 절대정확도(coronal 0.61mm·angular 2.56°)
+
+- [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown의 offset parameter별 marginal·internal fit 비교 — preliminary pilot. (in-vitro, 2025)
+
 ## Additional Spokes — CBCT 해부학 평가 (2026-05-26 추가)
 
 | Spine paper | Evidence | Key finding |
