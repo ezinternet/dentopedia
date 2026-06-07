@@ -148,6 +148,9 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — adjunctive therapy for mucositis
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — prosthetic MBL levers SR+MA
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — GBR NMA
+- [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 multicenter RCT: electrolytic vs H₂O₂ decontamination, no superiority
+- [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 RCT: reconstruction = equal resolution but 3× bone fill vs supportive care
+- [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Gardelis 2025 SR: rough surfaces → more recurrence/loss after surgery (low certainty)
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — aPDT Cochrane SR
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — GBR broader context
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
