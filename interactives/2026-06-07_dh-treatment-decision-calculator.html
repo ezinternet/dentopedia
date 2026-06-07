@@ -1,0 +1,208 @@
+<!--
+---
+title: "DH 치료 의사결정 계산기 (chairside)"
+type: interactive
+date: 2026-06-07
+status: draft
+agenda: agenda/2026-06-07_dh-irrigation-interactives.md
+source_wiki:
+  - wiki/dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.md
+  - wiki/dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma.md
+  - wiki/dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity.md
+  - wiki/dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct.md
+  - wiki/dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity.md
+  - wiki/dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast.md
+  - wiki/dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem.md
+  - wiki/dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr.md
+  - wiki/dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review.md
+  - wiki/dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies.md
+  - wiki/overviews/dentin-hypersensitivity-overview.md
+tags: [dentin-hypersensitivity, chairside-calculator, treatment-decision, laser, desensitizer]
+notes: |
+  단일 HTML, 인라인 CSS/JS, CDN 없음 (오프라인 chairside).
+  로직 출처: shan-2021(LLLT SMD), faraoni-2023(laser 동등), forouzande-2022·naghsh-2024(laser 단기 우월·수렴),
+            jiang-2022·scheffel-2015(Gluma 치수액 의존·세포독성), joshi-2013(occlusion),
+            defreitas-2021·martins-2022(치약). 점수는 근거 기반 휴리스틱 [claude해석] — 처방 대체 아님.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>DH 치료 의사결정 계산기</title>
+<style>
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    max-width:880px;margin:14px auto;padding:12px;background:#f6f7f9;color:#1d2127;line-height:1.5}
+  h1{font-size:1.35em;margin:0 0 2px}
+  .sub{color:#6b7280;font-size:.82em;margin-bottom:14px}
+  .card{background:#fff;border:1px solid #e1e4e8;border-radius:10px;padding:14px 16px;margin-bottom:12px}
+  .card h2{font-size:1.0em;margin:0 0 10px;color:#2b3038}
+  .row{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:10px}
+  .opt{flex:1 1 auto;min-width:120px}
+  label.q{display:block;font-size:.82em;color:#555;margin:0 0 5px;font-weight:600}
+  .seg{display:inline-flex;border:1px solid #cdd2d8;border-radius:7px;overflow:hidden;flex-wrap:wrap}
+  .seg button{border:0;background:#fff;padding:7px 11px;font-size:.85em;cursor:pointer;color:#374151;border-right:1px solid #e6e8eb}
+  .seg button:last-child{border-right:0}
+  .seg button.on{background:#2563eb;color:#fff}
+  .res{margin-top:4px}
+  .item{border:1px solid #e1e4e8;border-left-width:5px;border-radius:8px;padding:11px 13px;margin-bottom:9px;background:#fff}
+  .item h3{margin:0 0 3px;font-size:1.0em}
+  .item .meta{font-size:.78em;color:#6b7280;margin-bottom:6px}
+  .bar{height:8px;background:#eef0f3;border-radius:5px;overflow:hidden;margin:6px 0}
+  .bar > span{display:block;height:100%}
+  .tag{display:inline-block;font-size:.7em;padding:2px 7px;border-radius:10px;margin:2px 4px 2px 0;font-weight:600}
+  .t-occ{background:#e0f2fe;color:#075985}
+  .t-nerve{background:#fef3c7;color:#92400e}
+  .t-ev{background:#ecfdf5;color:#065f46;border:1px solid #a7f3d0}
+  .t-caution{background:#fee2e2;color:#991b1b}
+  .cite{font-size:.74em;color:#566;margin-top:5px;border-top:1px dashed #e3e6ea;padding-top:5px}
+  .foot{font-size:.74em;color:#8a909a;margin-top:8px;line-height:1.5}
+  details{font-size:.82em;margin-top:6px}
+  summary{cursor:pointer;color:#2563eb}
+</style>
+</head>
+<body>
+<h1>상아질 과민증(DH) 치료 의사결정 계산기</h1>
+<div class="sub">입력에 따라 치료 옵션을 근거 기반으로 랭킹. 2026-06-07 ingest 11편 기반 · 점수는 휴리스틱 [claude해석], 임상 판단 대체 아님</div>
+
+<div class="card">
+  <h2>입력</h2>
+  <div class="row">
+    <div class="opt">
+      <label class="q">처치 환경</label>
+      <div class="seg" id="env">
+        <button data-v="both" class="on">둘 다</button>
+        <button data-v="office">In-office</button>
+        <button data-v="home">At-home</button>
+      </div>
+    </div>
+    <div class="opt">
+      <label class="q">지속성 요구</label>
+      <div class="seg" id="dur">
+        <button data-v="long" class="on">장기(≥6개월)</button>
+        <button data-v="short">즉시·단기</button>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="opt">
+      <label class="q">Vital pulp 근접(깊은 경부·치수 인접)</label>
+      <div class="seg" id="pulp">
+        <button data-v="no" class="on">아니오</button>
+        <button data-v="yes">예 (치수 인접)</button>
+      </div>
+    </div>
+    <div class="opt">
+      <label class="q">주 자극</label>
+      <div class="seg" id="stim">
+        <button data-v="thermal" class="on">열·냉</button>
+        <button data-v="evap">증발·air</button>
+        <button data-v="tactile">촉각</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card">
+  <h2>권장 순위</h2>
+  <div class="res" id="res"></div>
+  <div class="foot">
+    축: <span class="tag t-occ">관 폐쇄</span> 또는 <span class="tag t-nerve">신경 탈민감</span> — hydrodynamic theory에서 도출.
+    근거: <span class="tag t-ev">SR+MA/RCT</span> &gt; narrative.
+    <span class="tag t-caution">주의</span>는 Gluma 계열의 치수 세포독성(농도·노출 의존).
+  </div>
+</div>
+
+<script>
+// 옵션 데이터 — 근거 inline. score 기여 휴리스틱 [claude해석]
+const OPTS = [
+  { name:"Er,Cr:YSGG / 고출력 레이저", env:"office", axis:"both",
+    base:72, durLong:18, durShort:10, ev:"SR+MA·RCT",
+    cite:"forouzande-2022 RCT: NaF varnish보다 우월(6mo) · faraoni-2023 SR+MA: 고·저출력 동등 · shan-2021: LLLT placebo 대비 SMD 1.09→2.86",
+    note:"단독 또는 Gluma 병용. 표준 프로토콜 미확립(faraoni)." },
+  { name:"980nm Diode 레이저", env:"office", axis:"both",
+    base:64, durLong:6, durShort:20, ev:"RCT",
+    cite:"naghsh-2024 RCT: 1개월 VAS 최저(단기 우월), 3개월엔 군간 차 소실(수렴)",
+    note:"즉시·단기 완화에 강점, 장기 우월성은 chemical과 수렴." },
+  { name:"Gluma (HEMA/글루타르알데히드)", env:"office", axis:"occ",
+    base:62, durLong:8, durShort:8, ev:"in-vitro",
+    pulpPenalty:32, caution:true,
+    cite:"jiang-2022: 세관폐쇄가 치수액(단백)에 의존 + 세포독성 · scheffel-2015: 농도의존 경상아질 세포독성",
+    note:"효과는 치수액 존재 시 발현. 치수 인접 시 농도·노출 주의." },
+  { name:"NaF varnish 5% (in-office)", env:"office", axis:"occ",
+    base:54, durLong:4, durShort:10, ev:"RCT",
+    cite:"forouzande-2022: 유의 감소하나 레이저 대비 1주~6개월 열위 · shan-2021: LLLT가 fluoride보다 우월",
+    note:"안전·간단하나 지속성에서 레이저에 열위." },
+  { name:"NovaMin(CSP) in-office 도포", env:"office", axis:"occ",
+    base:56, durLong:6, durShort:8, ev:"in-vitro",
+    cite:"joshi-2013 SEM: 표면 mineral-like 층으로 세관 폐쇄(대조 대비 ↑)",
+    note:"생체적합 tubule occlusion. 임상 RCT는 치약 형태가 주근거." },
+  { name:"Bioactive glass(NovaMin/CSP) 치약", env:"home", axis:"occ",
+    base:60, durLong:14, durShort:4, ev:"SR",
+    cite:"defreitas-2021 SR(15 RCT): 저농도 2.5–7.5% at-home 효과적 · joshi-2013: 기전",
+    note:"at-home 1차. 누적 사용으로 효과." },
+  { name:"포타슘(KNO3) 치약", env:"home", axis:"nerve",
+    base:56, durLong:12, durShort:4, ev:"Scoping",
+    cite:"martins-2022 scoping: 포타슘이 최다 활성성분(19%) — 신경 탈민감 기전",
+    note:"신경 탈민감 축. 증발·촉각 자극에 흔히 사용." },
+  { name:"Arginine / SnF2 치약", env:"home", axis:"occ",
+    base:52, durLong:10, durShort:4, ev:"Scoping",
+    cite:"martins-2022 scoping: arginine 8%·SnF2 6% — 표면 occlusion/플러그 기전",
+    note:"at-home occlusion 대안." }
+];
+
+const state = { env:"both", dur:"long", pulp:"no", stim:"thermal" };
+const EVRANK = {"SR+MA·RCT":10,"SR+MA":10,"RCT":8,"SR":6,"Scoping":5,"in-vitro":3,"narrative":2};
+
+function segHook(id){
+  document.querySelectorAll("#"+id+" button").forEach(b=>{
+    b.onclick=()=>{
+      document.querySelectorAll("#"+id+" button").forEach(x=>x.classList.remove("on"));
+      b.classList.add("on"); state[id]=b.dataset.v; render();
+    };
+  });
+}
+["env","dur","pulp","stim"].forEach(segHook);
+
+function score(o){
+  let s=o.base;
+  if(state.dur==="long") s+=o.durLong; else s+=o.durShort;
+  s += (EVRANK[o.ev]||0); // 근거 가중
+  if(state.pulp==="yes" && o.pulpPenalty) s-=o.pulpPenalty;
+  // 환경 일치
+  if(state.env!=="both" && o.env!==state.env) s-=40;
+  // 자극-축 약한 보정: 촉각/증발은 신경 탈민감이 흔히 보조
+  if(state.stim!=="thermal" && o.axis==="nerve") s+=4;
+  return Math.max(4, Math.min(100, s));
+}
+
+function render(){
+  const list = OPTS.map(o=>({o,s:score(o)}))
+    .filter(x=>x.s>8)
+    .sort((a,b)=>b.s-a.s);
+  const max = list.length?list[0].s:100;
+  const html = list.map((x,i)=>{
+    const o=x.o, pct=Math.round(x.s/max*100);
+    const axisTag = o.axis==="both"
+      ? '<span class="tag t-occ">관 폐쇄</span><span class="tag t-nerve">신경 탈민감</span>'
+      : o.axis==="occ" ? '<span class="tag t-occ">관 폐쇄</span>' : '<span class="tag t-nerve">신경 탈민감</span>';
+    const evTag = '<span class="tag t-ev">'+o.ev+'</span>';
+    const caut = (state.pulp==="yes" && o.caution) ? '<span class="tag t-caution">치수 인접 주의</span>' : '';
+    const col = i===0?'#16a34a':(pct>70?'#2563eb':(pct>45?'#f59e0b':'#9ca3af'));
+    return `<div class="item" style="border-left-color:${col}">
+      <h3>${i+1}. ${o.name}</h3>
+      <div class="meta">${o.env==="office"?"In-office":"At-home"} · ${o.note}</div>
+      <div>${axisTag}${evTag}${caut}</div>
+      <div class="bar"><span style="width:${pct}%;background:${col}"></span></div>
+      <div class="cite">근거: ${o.cite}</div>
+    </div>`;
+  }).join("");
+  document.getElementById("res").innerHTML = html || "<div class='meta'>조건에 맞는 옵션 없음 — 환경 필터를 완화하세요.</div>";
+}
+render();
+</script>
+<p class="foot">출처 페이지: wiki/dentin-hypersensitivity/ (shan-2021, faraoni-2023, forouzande-2022, naghsh-2024, jiang-2022, scheffel-2015, joshi-2013, defreitas-2021, martins-2022, ramli-2022, li-2026) · wiki/overviews/dentin-hypersensitivity-overview.md</p>
+</body>
+</html>
