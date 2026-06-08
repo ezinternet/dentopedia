@@ -2,7 +2,7 @@
 title: "Supersession + confidence-decay 신호 세팅 (forward-only)"
 type: agenda
 date: 2026-05-31
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 tags: [meta, supersession, decay, lint, audit, infrastructure, living-document]
