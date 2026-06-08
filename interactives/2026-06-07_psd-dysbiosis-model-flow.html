@@ -1,0 +1,182 @@
+<!--
+---
+title: "PSD 모델 — keystone pathogen·dysbiosis feedforward 인터랙티브 플로우"
+type: interactive
+date: 2026-06-07
+status: draft
+source_wiki:
+  - wiki/oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease.md
+  - wiki/oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation.md
+  - wiki/oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory.md
+  - wiki/oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host.md
+  - wiki/oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence.md
+  - wiki/overviews/oral-microbiome-biofilm-dysbiosis-synthesis.md
+tags: [psd-model, dysbiosis, keystone-pathogen, p-gingivalis, periodontitis, caries, feedforward, biofilm, flow-diagram]
+notes: |
+  단일 HTML, 인라인 CSS/SVG/JS, CDN 없음.
+  치주염(keystone pathogen)·우식(sucrose-EPS) 두 feedforward 루프를 dysbiosis 공통 개념으로 통합.
+  노드 클릭 시 기전·출처 표시. 출처: hajishengallis-2012/2014, lamont-2014/2018, koo-2013.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>PSD 모델 dysbiosis feedforward 플로우</title>
+<style>
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    max-width:980px;margin:14px auto;padding:12px;background:#f6f7f9;color:#1d2127;line-height:1.45}
+  h1{font-size:1.32em;margin:0 0 2px}
+  .sub{color:#6b7280;font-size:.82em;margin-bottom:10px}
+  .wrap{background:#fff;border:1px solid #e1e4e8;border-radius:12px;padding:6px}
+  svg{width:100%;height:auto;display:block}
+  .node{cursor:pointer}
+  .node rect{transition:filter .15s}
+  .node:hover rect{filter:brightness(0.94)}
+  .node.sel rect{stroke:#1d4ed8;stroke-width:3}
+  .nt{font-size:12.5px;fill:#1f2937;pointer-events:none}
+  .nt.b{font-weight:700}
+  .nt.w{fill:#fff}
+  .lane{font-size:13px;font-weight:800;letter-spacing:.5px}
+  #panel{margin-top:12px;background:#fff;border:1px solid #e1e4e8;border-radius:10px;padding:13px 15px;font-size:.86em;min-height:60px}
+  #panel b{color:#1d4ed8}
+  #panel .src{color:#7b828c;font-size:.9em;margin-top:6px;display:block}
+  .levers{display:flex;flex-wrap:wrap;gap:7px;margin-top:12px;align-items:center}
+  .levers .lbl{font-size:.8em;color:#555}
+  .lever{border:1px solid #10b981;background:#ecfdf5;color:#065f46;border-radius:14px;padding:6px 12px;font-size:.8em;cursor:pointer}
+  .lever:hover{background:#10b981;color:#fff}
+  .legend{font-size:.74em;color:#8a909a;margin-top:10px}
+</style>
+</head>
+<body>
+<h1>PSD 모델 — Dysbiosis Feedforward 플로우</h1>
+<div class="sub">Polymicrobial Synergy &amp; Dysbiosis · 노드 클릭 시 기전·출처 · 치주염 / 우식 병렬 루프 (2026-06-07 ingest)</div>
+
+<div class="wrap">
+<svg viewBox="0 0 900 600" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <marker id="arr" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 z" fill="#64748b"/>
+    </marker>
+    <marker id="arrR" markerWidth="9" markerHeight="9" refX="7" refY="3" orient="auto" markerUnits="strokeWidth">
+      <path d="M0,0 L7,3 L0,6 z" fill="#dc2626"/>
+    </marker>
+  </defs>
+
+  <!-- lane titles -->
+  <text class="lane" x="200" y="24" text-anchor="middle" fill="#9d174d">치주염 (PERIODONTITIS)</text>
+  <text class="lane" x="700" y="24" text-anchor="middle" fill="#9a3412">우식 (CARIES)</text>
+
+  <!-- shared top -->
+  <g class="node" data-id="sym"><rect x="330" y="36" width="240" height="46" rx="10" fill="#e2e8f0" stroke="#cbd5e1"/>
+    <text class="nt b" x="450" y="58" text-anchor="middle">건강 · 공생 군집</text>
+    <text class="nt" x="450" y="74" text-anchor="middle">Symbiosis (balanced)</text></g>
+
+  <!-- straight down arrows to triggers -->
+  <path d="M400,82 L250,108" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+  <path d="M500,82 L650,108" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+
+  <!-- triggers -->
+  <g class="node" data-id="keystone"><rect x="60" y="110" width="290" height="54" rx="10" fill="#fbcfe8" stroke="#f472b6"/>
+    <text class="nt b" x="205" y="132" text-anchor="middle">Keystone pathogen</text>
+    <text class="nt" x="205" y="150" text-anchor="middle">P. gingivalis (&lt;0.01% 존재비)</text></g>
+  <g class="node" data-id="sucrose"><rect x="555" y="110" width="290" height="54" rx="10" fill="#fed7aa" stroke="#fb923c"/>
+    <text class="nt b" x="700" y="132" text-anchor="middle">식이 sucrose · 노출 빈도</text>
+    <text class="nt" x="700" y="150" text-anchor="middle">cariogenic substrate</text></g>
+
+  <path d="M205,164 L205,206" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+  <path d="M700,164 L700,206" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+
+  <!-- remodeling -->
+  <g class="node" data-id="immune"><rect x="40" y="208" width="330" height="58" rx="10" fill="#fce7f3" stroke="#f9a8d4"/>
+    <text class="nt b" x="205" y="230" text-anchor="middle">면역 전복 (clearance 아닌 subversion)</text>
+    <text class="nt" x="205" y="248" text-anchor="middle">C5aR–TLR2 crosstalk · gingipain C3/C5</text></g>
+  <g class="node" data-id="eps"><rect x="535" y="208" width="330" height="58" rx="10" fill="#ffedd5" stroke="#fdba74"/>
+    <text class="nt b" x="700" y="230" text-anchor="middle">EPS 매트릭스(glucan) + 산 생성</text>
+    <text class="nt" x="700" y="248" text-anchor="middle">Gtf · 확산장벽 · 부착</text></g>
+
+  <path d="M205,266 L380,300" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+  <path d="M700,266 L520,300" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+
+  <!-- shared dysbiosis -->
+  <g class="node" data-id="dysbiosis"><rect x="280" y="300" width="340" height="60" rx="12" fill="#312e81" stroke="#1e1b4b"/>
+    <text class="nt b w" x="450" y="324" text-anchor="middle">DYSBIOSIS — specialist 군집</text>
+    <text class="nt w" x="450" y="342" text-anchor="middle">virulence 유전자 발현 ↑ (기능 &gt; 종 목록)</text></g>
+
+  <path d="M380,360 L240,400" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+  <path d="M520,360 L660,400" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+
+  <!-- host response -->
+  <g class="node" data-id="inflam"><rect x="70" y="402" width="280" height="52" rx="10" fill="#fecaca" stroke="#f87171"/>
+    <text class="nt b" x="210" y="423" text-anchor="middle">숙주 염증 · 조직 분해</text>
+    <text class="nt" x="210" y="441" text-anchor="middle">dysbiotic inflammation</text></g>
+  <g class="node" data-id="demin"><rect x="555" y="402" width="280" height="52" rx="10" fill="#fde68a" stroke="#fbbf24"/>
+    <text class="nt b" x="695" y="423" text-anchor="middle">탈회 · 국소 산성</text>
+    <text class="nt" x="695" y="441" text-anchor="middle">pH 4.5–5.5 미세환경</text></g>
+
+  <path d="M210,454 L210,500" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+  <path d="M695,454 L695,500" stroke="#64748b" fill="none" marker-end="url(#arr)"/>
+
+  <!-- outcomes -->
+  <g class="node" data-id="boneloss"><rect x="70" y="502" width="280" height="48" rx="10" fill="#9d174d" stroke="#831843"/>
+    <text class="nt b w" x="210" y="531" text-anchor="middle">부착소실 · 치조골 흡수</text></g>
+  <g class="node" data-id="cavity"><rect x="555" y="502" width="280" height="48" rx="10" fill="#9a3412" stroke="#7c2d12"/>
+    <text class="nt b w" x="695" y="531" text-anchor="middle">우식 진행 · 와동</text></g>
+
+  <!-- FEEDFORWARD loops (dashed red, curve back up) -->
+  <path d="M70,428 C8,360 8,180 196,150" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4" fill="none" marker-end="url(#arrR)"/>
+  <path d="M835,428 C892,360 892,180 705,150" stroke="#dc2626" stroke-width="2" stroke-dasharray="6 4" fill="none" marker-end="url(#arrR)"/>
+  <g class="node" data-id="ff-perio"><rect x="6" y="356" width="150" height="44" rx="9" fill="#fff" stroke="#dc2626"/>
+    <text class="nt b" x="81" y="375" text-anchor="middle" style="font-size:11px">feedforward ↺</text>
+    <text class="nt" x="81" y="391" text-anchor="middle" style="font-size:10.5px">염증성 영양분</text></g>
+  <g class="node" data-id="ff-caries"><rect x="744" y="356" width="150" height="44" rx="9" fill="#fff" stroke="#dc2626"/>
+    <text class="nt b" x="819" y="375" text-anchor="middle" style="font-size:11px">feedforward ↺</text>
+    <text class="nt" x="819" y="391" text-anchor="middle" style="font-size:10.5px">aciduric 선택</text></g>
+</svg>
+</div>
+
+<div id="panel">노드를 클릭하면 기전과 출처가 표시됩니다. 빨간 점선 = <b>feedforward 루프</b>(질환이 스스로를 증폭하는 자가촉진 회로) — PSD 모델의 핵심.</div>
+
+<div class="levers"><span class="lbl">치료 표적(개입점):</span>
+  <span class="lever" data-id="lev-host">숙주 면역조절</span>
+  <span class="lever" data-id="lev-mech">기계적 disruption</span>
+  <span class="lever" data-id="lev-sugar">당 노출 차단</span>
+  <span class="lever" data-id="lev-matrix">매트릭스 표적</span>
+</div>
+
+<div class="legend">분홍/자홍 = 치주염 축 · 주황/노랑 = 우식 축 · 남색 = 공통 dysbiosis · 빨간 점선 = feedforward. 기전 평가는 인용 논문 결론 기반, 일부 [claude해석]. 임상 처방 대체 아님.</div>
+
+<script>
+const INFO={
+ sym:["건강 — 공생 군집(Symbiosis)","숙주와 균형을 이룬 다종 군집. 질환은 '특정 세균 감염'이 아니라 이 균형이 깨진 dysbiosis 상태로 설명된다.","Lamont 2018, Hajishengallis 2012"],
+ keystone:["Keystone pathogen — P. gingivalis","저존재비(&lt;0.01%)임에도 군집 전체를 dysbiotic하게 재편하는 핵심종. '많아서'가 아니라 '면역을 교란해서' 병을 유발 — keystone 개념.","Hajishengallis 2012 (PSD 모델 제안)"],
+ sucrose:["식이 sucrose · 노출 빈도","Sucrose는 EPS(glucan) 합성 기질이자 산 생성원. '무엇을 먹나'보다 '얼마나 자주' 노출되는지가 우식 driver. caries 축의 trigger.","Koo 2013, Lamont 2018"],
+ immune:["면역 전복 (clearance 아닌 subversion)","P. gingivalis: gingipain이 C3/C5를 분해해 C5a 생성, C5aR–TLR2 crosstalk로 백혈구 살균(iNOS·IL-12)을 억제 → 세균은 살아남고 염증만 지속. FimA/SerB로 상피 침입.","Hajishengallis 2014"],
+ eps:["EPS 매트릭스(glucan) + 산 생성","Gtf(B/C/D)가 in situ glucan을 합성해 부착·3D 구조·확산장벽 형성. 매트릭스가 불소·중화제 확산을 막아 국소 산성을 보존 → 우식 virulence의 1차 결정인자.","Koo 2013, Bowen 2011"],
+ dysbiosis:["DYSBIOSIS — specialist 군집","건강=generalist, 질환=specialist(virulence 유전자 발현↑). 종 목록보다 기능 유전자 set이 더 나은 판별자. 치주염·우식 공통의 중심 상태.","Lamont 2018, Lamont 2014"],
+ inflam:["숙주 염증 · 조직 분해","Dysbiotic 군집이 비해소성(non-resolving) 염증을 유발. 염증 자체가 다음 단계 영양원을 만들어낸다 — 병인의 핵심 전환점.","Hajishengallis 2014, Lamont 2014"],
+ demin:["탈회 · 국소 산성(pH 4.5–5.5)","매트릭스 내부의 구획화된 산성 미세환경에서 법랑질 탈회. >2시간 중화에 저항. 우식의 직접 손상 단계.","Koo 2013"],
+ boneloss:["부착소실 · 치조골 흡수","치주염의 임상 결과. SRP(기계적 disruption)가 여전히 1차 치료 — 단일 종 박멸이 아니라 dysbiosis 역전이 표적.","Hajishengallis 2012, Lamont 2018"],
+ cavity:["우식 진행 · 와동","반복 탈회의 누적 결과. 식이당 차단·불소·매트릭스 disruption이 합리적 개입.","Koo 2013, Lamont 2018"],
+ "ff-perio":["Feedforward ↺ (치주염)","염증성 삼출물(GCF)·조직 분해산물이 asaccharolytic 병원체의 영양원이 됨 → dysbiosis를 더 강화. 'dysbiosis→염증→영양→dysbiosis'의 자가촉진 회로.","Hajishengallis 2014, Lamont 2018"],
+ "ff-caries":["Feedforward ↺ (우식)","산성 미세환경이 aciduric·acidogenic 종을 선택 → 더 산성화 → 더 강한 선택압. 생태학적 plaque 가설의 자가촉진 루프.","Koo 2013, Lamont 2018"],
+ "lev-host":["치료 표적 — 숙주 면역조절","keystone/accessory/pathobiont 구도상 단일 종 표적은 한계. C5aR 등 숙주 염증 경로 조절(host modulation)이 dysbiosis 역전 표적으로 제시됨. [claude해석]","Hajishengallis 2014"],
+ "lev-mech":["치료 표적 — 기계적 disruption","매트릭스는 확산장벽이라 항생제 단독으로 성숙 바이오필름 무력화 어려움 → 물리적 제거(SRP·brushing·관개 활성화)가 핵심, 항생제는 보조.","Koo 2013, Lamont 2018"],
+ "lev-sugar":["치료 표적 — 당 노출 차단","Sucrose가 매트릭스 기질이자 산원이므로, 우식 축에서는 항균보다 당 노출 빈도 감소가 생태학적으로 합리적. caries 계산기 위젯과 연결.","Koo 2013, Moynihan 2016"],
+ "lev-matrix":["치료 표적 — 매트릭스(EPS) 표적","Gtf 저해·matrixome 분해 등 매트릭스 표적 전략. 대부분 in-vitro/전임상 수준 — 임상 전환 미성숙. [claude해석]","Karygianni 2020, Koo 2013"]
+};
+const panel=document.getElementById("panel");
+function show(id, el){
+  document.querySelectorAll(".node").forEach(n=>n.classList.remove("sel"));
+  if(el&&el.classList.contains("node")) el.classList.add("sel");
+  const d=INFO[id]; if(!d) return;
+  panel.innerHTML=`<b>${d[0]}</b><br>${d[1]}<span class="src">출처: ${d[2]}</span>`;
+}
+document.querySelectorAll(".node").forEach(n=> n.addEventListener("click",()=>show(n.dataset.id,n)));
+document.querySelectorAll(".lever").forEach(l=> l.addEventListener("click",()=>show(l.dataset.id,null)));
+</script>
+<p class="legend">출처 페이지: wiki/oral-microbiology/ (hajishengallis-2012, hajishengallis-2014, lamont-2014, lamont-2018, koo-2013) · overviews/oral-microbiome-biofilm-dysbiosis-synthesis</p>
+</body>
+</html>

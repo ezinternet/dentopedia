@@ -1,0 +1,159 @@
+<!--
+---
+title: "산성 음료·사탕 침식위험 비교 매트릭스 (chairside)"
+type: interactive
+date: 2026-06-07
+status: draft
+source_wiki:
+  - wiki/dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry.md
+  - wiki/dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro.md
+  - wiki/overviews/dental-erosion-etiology-prevention-synthesis.md
+tags: [dental-erosion, etw, ph, titratable-acidity, soft-drinks, citrus-sweets, comparison-matrix]
+notes: |
+  단일 HTML, 인라인 CSS/JS, CDN 없음 (오프라인 chairside).
+  Barac(사람 법랑질·Ra 거칠기 μm)와 Souza(소 법랑질·wear depth μm)는 프로토콜·지표가 달라
+  연구 간 절대수치 직접 비교 금지 — study 컬럼으로 구분. 교육 메시지: pH 단독 판단 금지.
+  출처: barac-2015, souza-2020.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>산성 음료·사탕 침식위험 매트릭스</title>
+<style>
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    max-width:1000px;margin:14px auto;padding:12px;background:#f6f7f9;color:#1d2127;line-height:1.45}
+  h1{font-size:1.35em;margin:0 0 2px}
+  .sub{color:#6b7280;font-size:.82em;margin-bottom:12px}
+  .teach{background:#eef6ff;border:1px solid #bfdbfe;border-radius:10px;padding:10px 13px;font-size:.84em;margin-bottom:12px}
+  .teach b{color:#1d4ed8}
+  .controls{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:10px;align-items:center}
+  .controls span.lbl{font-size:.8em;color:#555;margin-right:2px}
+  .chip{border:1px solid #cdd2d8;background:#fff;border-radius:14px;padding:5px 11px;font-size:.8em;cursor:pointer;color:#374151}
+  .chip.on{background:#2563eb;color:#fff;border-color:#2563eb}
+  .wrap{overflow-x:auto;background:#fff;border:1px solid #e1e4e8;border-radius:10px;padding:4px}
+  table{border-collapse:collapse;width:100%;font-size:.82em;min-width:760px}
+  th,td{border:1px solid #eceef1;padding:8px 9px;text-align:center;vertical-align:middle}
+  th{background:#f1f3f5;font-weight:700;color:#2b3038;cursor:pointer;user-select:none}
+  th:hover{background:#e6e9ec}
+  td.item{text-align:left;font-weight:700;background:#fafbfc;white-space:nowrap}
+  td.item small{display:block;font-weight:400;color:#7b828c;font-size:.85em}
+  tr.row{cursor:pointer}
+  tr.row:hover td{background:#eff6ff}
+  .ph{font-weight:700;border-radius:5px;padding:3px 7px;display:inline-block;min-width:42px}
+  .bar{height:10px;border-radius:5px;background:linear-gradient(90deg,#fca5a5,#ef4444);display:inline-block;vertical-align:middle}
+  .tag{font-size:.72em;border-radius:10px;padding:2px 7px;border:1px solid #d1d5db;color:#4b5563}
+  .b-barac{background:#fef3c7;border-color:#fcd34d;color:#92400e}
+  .b-souza{background:#e0e7ff;border-color:#a5b4fc;color:#3730a3}
+  #panel{margin-top:12px;background:#fff;border:1px solid #e1e4e8;border-radius:10px;padding:12px 14px;font-size:.85em;min-height:54px}
+  #panel b{color:#1d4ed8}
+  .legend{font-size:.74em;color:#8a909a;margin-top:8px}
+</style>
+</head>
+<body>
+<h1>산성 음료·사탕 침식위험 비교 매트릭스</h1>
+<div class="sub">in-vitro 2편 · 행 클릭 시 상세·출처 · 헤더 클릭 시 정렬 (2026-06-07 ingest)</div>
+
+<div class="teach">
+<b>핵심:</b> 침식 잠재력은 <b>pH 단독으로 결정되지 않는다.</b> 적정산도(titratable acidity), 접촉시간·빈도, 산 종류(이중산 조합), Ca/PO₄/F 포화도가 함께 작용.
+대표 역설 — <b>과라나(pH 2.52)가 콜라(pH 2.6)보다 침식이 낮음</b>(탄닌·플라보노이드 보호 추정), <b>Fini Diet 사탕(pH 3.3)이 콜라보다 침식 강함</b>(젖산+구연산 이중산).
+"콜라만 위험"이라는 통념 교정용. [근거강함, in-vitro]
+</div>
+
+<div class="controls">
+  <span class="lbl">필터:</span>
+  <span class="chip on" data-f="all">전체</span>
+  <span class="chip" data-f="음료">음료</span>
+  <span class="chip" data-f="사탕">사탕</span>
+  <span class="chip" data-f="barac">Barac(거칠기)</span>
+  <span class="chip" data-f="souza">Souza(wear)</span>
+</div>
+
+<div class="wrap">
+<table id="tbl">
+<thead><tr>
+  <th data-k="name">항목</th>
+  <th data-k="cat">분류</th>
+  <th data-k="ph">pH ▲▼</th>
+  <th data-k="acid">산 종류</th>
+  <th data-k="ero">침식지표 (μm) ▲▼</th>
+  <th data-k="study">연구</th>
+</tr></thead>
+<tbody></tbody>
+</table>
+</div>
+
+<div id="panel">행을 클릭하면 상세 설명과 출처가 여기 표시됩니다. <b>주의:</b> Barac(사람 법랑질·표면거칠기 Ra)와 Souza(소 법랑질·마모깊이)는 프로토콜·측정지표가 달라 <b>연구 간 절대수치 직접 비교는 불가</b>합니다.</div>
+<div class="legend">Barac 2015: 10일, 3회/일, 15–60분 노출, Ra 거칠기 μm(15분값 표기). Souza 2020: 7일, 4회/일 90초, 사탕 40g/250mL 용해, 마모깊이 median[IQR] μm. pH 색: 진한 빨강일수록 강산. 막대: 침식지표 상대크기(연구 내 한정).</div>
+
+<script>
+// erosion 지표(ero): 연구 내 비교용 수치만; phosphoric/citric 등 산종류는 본문 기재
+const D=[
+ {name:"콜라 (Coca-Cola)", cat:"음료", ph:2.6, acid:"인산(phosphoric)", ero:1.49, eroTxt:"Ra 1.49→1.82 (15→60분)", study:"barac",
+   note:"단시간(15분) 최강 거칠기. 시간 경과로 1.82μm까지 증가. 인산 기반."},
+ {name:"오렌지주스", cat:"음료", ph:3.73, acid:"구연산(citric), TA 5.70 mL NaOH", ero:1.27, eroTxt:"Ra 1.27→1.78 (15→60분)",
+   study:"barac", note:"15분엔 콜라보다 낮으나 30·60분에서 콜라와 유의차 없음(ns) — 적정산도(TA) 높아 접촉시간 길수록 동등. pH는 높지만 위험."},
+ {name:"과라나 (Guarana)", cat:"음료", ph:2.52, acid:"구연산(citric)", ero:1.07, eroTxt:"Ra 1.07 (15분)", study:"barac",
+   note:"pH 최저(2.52)인데 침식은 콜라보다 낮음 — 탄닌·플라보노이드의 보호 효과 추정. pH 역설의 대표 사례. [claude해석]"},
+ {name:"Cedevita", cat:"음료", ph:3.49, acid:"구연산 계열", ero:1.05, eroTxt:"≈ 과라나(전 시점)", study:"barac",
+   note:"pH 3.49로 과라나(2.52)보다 높지만 적정산도 유사 → 침식 거의 동등. pH보다 TA가 결정적임을 보여줌."},
+ {name:"딸기 요거트", cat:"음료", ph:4.21, acid:"젖산(lactic)", ero:0.67, eroTxt:"Ra 0.67 (대조군과 ns)", study:"barac",
+   note:"전 시점에서 대조(타액)와 유의차 없음 — 비침식. Ca/단백 완충·pH 높음. 산성이라도 침식 위험 낮은 예."},
+ {name:"0.1% 구연산 (기준액)", cat:"음료", ph:2.5, acid:"구연산(citric)", ero:2.3, eroTxt:"wear 2.3 [0.7]", study:"souza",
+   note:"Souza 연구의 양성 기준 산. 강한 침식 기준선."},
+ {name:"콜라 (Coca-Cola)", cat:"음료", ph:2.6, acid:"인산(phosphoric)", ero:1.4, eroTxt:"wear 1.4 [0.9]", study:"souza",
+   note:"사탕(Fini Diet·Regaliz)보다 마모깊이 낮음. 동일 연구 내에서 사탕이 콜라보다 위험할 수 있음을 보여줌."},
+ {name:"Fini Diet", cat:"사탕", ph:3.3, acid:"젖산+구연산(이중산)", ero:2.4, eroTxt:"wear 2.4 [1.2] — 최고", study:"souza",
+   note:"전 항목 중 최고 마모. 0.1% 구연산과 동등(ns), 콜라보다 유의하게 침식적(p<0.0001). pH 3.3로 콜라보다 높은데도 최강 — 이중산 조합 효과."},
+ {name:"Fini Regaliz Acid Tubes", cat:"사탕", ph:3.1, acid:"말산+구연산(이중산)", ero:2.2, eroTxt:"wear 2.2 [0.5]", study:"souza",
+   note:"구연산 기준과 동등(ns), 콜라보다 침식 강함. 이중산(말산+구연산)."},
+ {name:"Fini Jelly Kisses", cat:"사탕", ph:3.5, acid:"구연산+젖산", ero:1.4, eroTxt:"wear 1.4 [0.9]", study:"souza",
+   note:"콜라 수준. pH 가장 높은 사탕(3.5)."},
+ {name:"Fini Fruit Salad Bubblegum", cat:"사탕", ph:2.6, acid:"말산(maleic, 단일산)", ero:1.3, eroTxt:"wear 1.3 [0.3] — 최저", study:"souza",
+   note:"사탕 중 최저. 단일산(말산)이라 이중산 사탕보다 침식 약함 — pH 2.6 동일해도 산 조합이 결과를 좌우."}
+];
+const STUDY={barac:["Barac 2015","b-barac"], souza:["Souza 2020","b-souza"]};
+const phColor=ph=>{ // 2.5(강)~4.2(약)
+  const t=Math.max(0,Math.min(1,(4.3-ph)/(4.3-2.4)));
+  const r=Math.round(254), g=Math.round(226-(226-60)*t), b=Math.round(226-(226-60)*t);
+  return `background:rgb(${r},${g},${b});color:${t>0.55?'#fff':'#7f1d1d'}`;
+};
+let curF="all", sortK=null, sortAsc=true;
+const tb=document.querySelector("#tbl tbody");
+const maxEro=Math.max(...D.map(d=>d.ero));
+
+function render(){
+  let rows=D.filter(d=> curF==="all"||d.cat===curF||d.study===curF);
+  if(sortK){ rows=[...rows].sort((a,b)=>{ let x=a[sortK],y=b[sortK];
+    if(typeof x==="string"){x=x.toLowerCase();y=y.toLowerCase();}
+    return (x<y?-1:x>y?1:0)*(sortAsc?1:-1); }); }
+  tb.innerHTML="";
+  rows.forEach(d=>{
+    const tr=document.createElement("tr"); tr.className="row";
+    const barW=Math.round(d.ero/maxEro*70)+8;
+    tr.innerHTML=`<td class="item">${d.name}<small>${d.acid}</small></td>
+      <td>${d.cat}</td>
+      <td><span class="ph" style="${phColor(d.ph)}">${d.ph.toFixed(2)}</span></td>
+      <td style="text-align:left">${d.acid}</td>
+      <td><span class="bar" style="width:${barW}px"></span> <span style="font-size:.92em">${d.eroTxt}</span></td>
+      <td><span class="tag ${STUDY[d.study][1]}">${STUDY[d.study][0]}</span></td>`;
+    tr.onclick=()=>{ document.getElementById("panel").innerHTML=
+      `<b>${d.name}</b> (${STUDY[d.study][0]}) · pH ${d.ph.toFixed(2)} · ${d.acid}<br>침식지표: <b>${d.eroTxt}</b><br>${d.note}`; };
+    tb.appendChild(tr);
+  });
+}
+document.querySelectorAll(".chip").forEach(c=>c.onclick=()=>{
+  document.querySelectorAll(".chip").forEach(x=>x.classList.remove("on"));
+  c.classList.add("on"); curF=c.dataset.f; render();
+});
+document.querySelectorAll("#tbl th").forEach(th=>th.onclick=()=>{
+  const k=th.dataset.k; if(sortK===k) sortAsc=!sortAsc; else {sortK=k; sortAsc=true;} render();
+});
+render();
+</script>
+<p class="legend">출처: wiki/dental-erosion/barac-2015 · souza-2020 · overviews/dental-erosion-etiology-prevention-synthesis. 평가는 인용 논문 수치 기반, 임상 처방 대체 아님.</p>
+</body>
+</html>

@@ -1,0 +1,160 @@
+<!--
+---
+title: "Free Sugars 임계값 + SSB 과세 우식영향 계산기 (chairside / 상담)"
+type: interactive
+date: 2026-06-07
+status: draft
+source_wiki:
+  - wiki/caries/moynihan-2016-sugars-dental-caries-threshold-intake.md
+  - wiki/caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella.md
+  - wiki/overviews/oral-microbiome-biofilm-dysbiosis-synthesis.md
+tags: [caries, free-sugars, who-threshold, ssb-tax, sugar-sweetened-beverage, calculator]
+notes: |
+  단일 HTML, 인라인 CSS/JS, CDN 없음.
+  Module A: 자유당 %E 환산 + WHO/Moynihan 임계값(≤10%E 강·<5%E 조건부) 밴드.
+  Module B: SSB 과세 영향 — Hajishafiee 2023 umbrella(20% 과세 기준치)를 세율에 선형 외삽 [claude해석].
+  선형 스케일링은 근사이며 umbrella 추정치(중등도 불확실)임을 명시.
+  출처: moynihan-2016, hajishafiee-2023.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Free Sugars 임계값 + SSB 과세 계산기</title>
+<style>
+  *{box-sizing:border-box}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Malgun Gothic",sans-serif;
+    max-width:880px;margin:14px auto;padding:12px;background:#f6f7f9;color:#1d2127;line-height:1.5}
+  h1{font-size:1.32em;margin:0 0 2px}
+  .sub{color:#6b7280;font-size:.82em;margin-bottom:14px}
+  .card{background:#fff;border:1px solid #e1e4e8;border-radius:12px;padding:16px 18px;margin-bottom:14px}
+  .card h2{font-size:1.05em;margin:0 0 10px;color:#1d4ed8}
+  .row{display:flex;align-items:center;gap:10px;margin:9px 0;flex-wrap:wrap}
+  label{font-size:.86em;min-width:160px;color:#374151}
+  input[type=range]{flex:1;min-width:160px}
+  .val{font-weight:700;min-width:78px;text-align:right;font-variant-numeric:tabular-nums}
+  select{padding:5px 8px;border:1px solid #cdd2d8;border-radius:7px;font-size:.85em}
+  .band{border-radius:10px;padding:12px 14px;margin-top:10px;font-size:.9em;font-weight:600}
+  .b-low{background:#dcfce7;color:#166534}
+  .b-mid{background:#fef9c3;color:#854d0e}
+  .b-high{background:#fee2e2;color:#991b1b}
+  .meter{height:14px;border-radius:7px;margin:10px 0 4px;
+    background:linear-gradient(90deg,#22c55e 0%,#22c55e 25%,#eab308 25%,#eab308 50%,#ef4444 50%,#ef4444 100%);position:relative}
+  .tick{position:absolute;top:-18px;font-size:.68em;color:#6b7280;transform:translateX(-50%)}
+  .needle{position:absolute;top:-4px;width:3px;height:22px;background:#111;border-radius:2px;transform:translateX(-50%)}
+  .out{font-size:.86em;margin-top:8px}
+  .out b{color:#1d4ed8}
+  .big{font-size:1.5em;font-weight:800;color:#1d2127}
+  .note{font-size:.76em;color:#7b828c;margin-top:10px;line-height:1.45}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media(max-width:560px){.grid{grid-template-columns:1fr}}
+  .stat{background:#f8fafc;border:1px solid #e8ecf0;border-radius:9px;padding:10px 12px}
+  .stat .k{font-size:.74em;color:#6b7280}
+  .stat .v{font-size:1.25em;font-weight:800;color:#0f172a}
+</style>
+</head>
+<body>
+<h1>Free Sugars 임계값 + SSB 과세 우식영향 계산기</h1>
+<div class="sub">상담·교육용 · WHO/Moynihan 임계값 + Hajishafiee 2023 umbrella 추정치 (2026-06-07 ingest)</div>
+
+<div class="card">
+  <h2>① 자유당(Free Sugars) 섭취 → 우식 위험 밴드</h2>
+  <div class="row"><label>총 에너지 섭취 (kcal/일)</label>
+    <input id="kcal" type="range" min="1200" max="3200" value="2000" step="50">
+    <span class="val" id="kcalV">2000</span></div>
+  <div class="row"><label>자유당 섭취 (g/일)</label>
+    <input id="sug" type="range" min="0" max="150" value="65" step="1">
+    <span class="val" id="sugV">65 g</span></div>
+
+  <div class="meter" id="meter">
+    <span class="tick" style="left:25%">5%E</span>
+    <span class="tick" style="left:50%">10%E</span>
+    <span class="tick" style="left:75%">15%E</span>
+    <span class="needle" id="needle" style="left:0%"></span>
+  </div>
+  <div class="out">자유당 비율: <span class="big" id="peV">—</span> %E &nbsp;(<span id="gMax"></span>)</div>
+  <div class="band" id="band">—</div>
+  <div class="note" id="aNote"></div>
+</div>
+
+<div class="card">
+  <h2>② 설탕음료(SSB) 과세 영향 추정</h2>
+  <div class="row"><label>종가세율 (%)</label>
+    <input id="tax" type="range" min="0" max="50" value="20" step="1">
+    <span class="val" id="taxV">20%</span></div>
+  <div class="row"><label>지역 설정</label>
+    <select id="setting"><option value="HIC">고소득국 (HIC)</option><option value="LMIC">중·저소득국 (LMIC)</option></select>
+    <label style="min-width:auto">·대상 인구(성인, 백만)</label>
+    <input id="pop" type="range" min="1" max="100" value="40" step="1" style="max-width:140px">
+    <span class="val" id="popV">40백만</span></div>
+
+  <div class="grid" style="margin-top:12px">
+    <div class="stat"><div class="k">SSB 소비 감소 (탄력성 기반)</div><div class="v" id="o-cons">—</div></div>
+    <div class="stat"><div class="k">자유당 감소 (g/인·일)</div><div class="v" id="o-sug">—</div></div>
+    <div class="stat"><div class="k">예방 우식치아 (성인 1인, 10년)</div><div class="v" id="o-adult">—</div></div>
+    <div class="stat"><div class="k">소아 우식 발생 감소 (10년)</div><div class="v" id="o-child">—</div></div>
+  </div>
+  <div class="out" style="margin-top:12px">대상 인구 환산 — 10년간 예방 우식치아 총합: <b id="o-total">—</b></div>
+  <div class="note" id="bNote"></div>
+</div>
+
+<p class="note">출처: wiki/caries/moynihan-2016(자유당 임계값, 54편 review·8 cohort, GRADE moderate) · hajishafiee-2023(SSB 과세 umbrella review, 19 SR). ②의 세율 외삽은 20% 과세 기준치의 선형 근사 [claude해석] — 실제 효과는 비선형·맥락의존. 임상/정책 처방 대체 아님.</p>
+
+<script>
+// ---- Module A ----
+const kcal=document.getElementById("kcal"), sug=document.getElementById("sug");
+function calcA(){
+  const k=+kcal.value, g=+sug.value;
+  document.getElementById("kcalV").textContent=k;
+  document.getElementById("sugV").textContent=g+" g";
+  const pe=(g*4)/k*100;
+  document.getElementById("peV").textContent=pe.toFixed(1);
+  // g thresholds
+  const g10=(0.10*k/4), g5=(0.05*k/4);
+  document.getElementById("gMax").textContent=`10%E ≈ ${g10.toFixed(0)}g · 5%E ≈ ${g5.toFixed(0)}g`;
+  // needle: map 0~20%E to 0~100%
+  const pos=Math.max(0,Math.min(100, pe/20*100));
+  document.getElementById("needle").style.left=pos+"%";
+  const band=document.getElementById("band"), note=document.getElementById("aNote");
+  if(pe<5){ band.className="band b-low";
+    band.textContent="≤5%E — WHO 조건부 권고 충족. 우식 최저 구간(생태학적 자료, GRADE low).";
+    note.innerHTML="추가 이득 근거는 낮은 등급. 5%E 미만은 현실적 달성이 어려운 목표치. [합의수준]"; }
+  else if(pe<=10){ band.className="band b-mid";
+    band.textContent="5–10%E — WHO 강한 권고(<10%E) 충족. 우식 감소(코호트 GRADE moderate).";
+    note.innerHTML="≤10%E 코호트 5/5에서 우식 낮음. 단, ≤10%E도 우식을 완전히 없애지 못함(잔여 질환 존재). [근거강함]"; }
+  else { band.className="band b-high";
+    band.textContent=`>10%E (현재 ${pe.toFixed(1)}%E) — 우식 위험 상승 구간.`;
+    note.innerHTML="Rugg-Gunn 1984: >10%E → 연 +0.9 우식면. Rodrigues 1999: 16%E → ≤10%E 대비 ~3배 고우식 위험. Burt 1988: 자유당 +5g당 우식 발생확률 +1%. [근거강함]"; }
+}
+[kcal,sug].forEach(e=>e.addEventListener("input",calcA));
+
+// ---- Module B ----
+const tax=document.getElementById("tax"), setting=document.getElementById("setting"), pop=document.getElementById("pop");
+function calcB(){
+  const t=+tax.value, s=setting.value, p=+pop.value;
+  document.getElementById("taxV").textContent=t+"%";
+  document.getElementById("popV").textContent=p+"백만";
+  // consumption: HIC 10% tax -> ~10% reduction (PED ~ -1.0); LMIC slightly lower elasticity -> use 0.85
+  const consPct = t * (s==="HIC"?1.0:0.85);
+  // sugars: 20% tax -> 4.4 (HIC) / 4.0 (LMIC) g/day, linear
+  const sugRed = (t/20) * (s==="HIC"?4.4:4.0);
+  // caries: 20% tax -> 0.03 teeth/adult (both); children occurrence 2.9% HIC / 2.7% LMIC
+  const adultTeeth = (t/20) * 0.03;
+  const childPct = (t/20) * (s==="HIC"?2.9:2.7);
+  document.getElementById("o-cons").textContent = consPct.toFixed(1)+"%";
+  document.getElementById("o-sug").textContent = sugRed.toFixed(2)+" g";
+  document.getElementById("o-adult").textContent = adultTeeth.toFixed(3)+" 개";
+  document.getElementById("o-child").textContent = childPct.toFixed(2)+"%";
+  const totalTeeth = adultTeeth * p*1e6;
+  document.getElementById("o-total").textContent = Math.round(totalTeeth).toLocaleString("ko-KR")+" 개 (성인 "+p+"백만 기준)";
+  document.getElementById("bNote").innerHTML =
+    "기준치(20% 과세, Hajishafiee 2023): 자유당 −"+(s==="HIC"?"4.4":"4.0")+" g/일, 성인 1인 −0.03 우식치아/10년, 소아 우식발생 −"+(s==="HIC"?"2.9":"2.7")+"%/10년. "+
+    "1인 효과는 작으나 인구 규모상 공중보건 효과는 비-사소함. 탄력성 PED≈−1.0(HIC). [합의수준]";
+}
+[tax,setting,pop].forEach(e=>e.addEventListener("input",calcB));
+calcA(); calcB();
+</script>
+</body>
+</html>
