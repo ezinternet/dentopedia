@@ -2,7 +2,7 @@
 title: "Chairside interactives 3종 배치 — drug ladder · implants ladder 축2·축3 도구화"
 type: agenda
 date: 2026-05-27
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 tags: [interactive, chairside, drug, implants, batch]
