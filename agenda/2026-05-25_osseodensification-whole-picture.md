@@ -2,7 +2,7 @@
 title: "골밀도화 (Osseodensification, OD) 전체 그림 — overview·interactive·slide 통합 작업"
 type: agenda
 date: 2026-05-25
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 tags: [osseodensification, densahbur, implants, overview, interactive, slide]
