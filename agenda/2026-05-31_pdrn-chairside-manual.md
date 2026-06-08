@@ -2,7 +2,7 @@
 title: "PDRN chairside 의사결정 매뉴얼 (원장용, 인쇄 가능 HTML)"
 type: agenda
 date: 2026-05-31
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 tags: [pdrn, chairside, decision-support, interactive]
