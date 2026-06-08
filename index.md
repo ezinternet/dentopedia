@@ -4,7 +4,7 @@ tags: []
 ---
 
 > [!tip] 마지막 배포
-> <!-- LAST_UPDATED -->2026-06-06<!-- /LAST_UPDATED -->
+> <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED -->
 
 ---
 
@@ -962,6 +962,7 @@ tags: []
 - [[overviews/osseodensification-clinical-applications]] — 골밀도화 (Osseodensification, OD) 임상 적용 전체 그림 (synthesis, 2026-05-25): Fontes Pereira 2023 SR (JCM, PRISMA, search 2016–2023)을 spine으로 4 적용 시나리오 (sub-antral·narrow-ridge·D3–D4·즉시식립) walk-through; outcome matrix (IT ↑↑ 일관, ISQ ↑ 가변, BIC ×3 in vitro, survival =); 각 시나리오 최강 spoke 매핑 + d4-bone-densah-protocol·sinus-lift-technique-selection·isq-loading-threshold cross-link; 인터랙티브 navigator + slide deck 동반 (interactives/2026-05-25_osseodensification-navigator.html + slides/2026-05-25_seminar_osseodensification-whole-picture.md)
 - [[overviews/versah-protocol-selection-map]] — Versah Densah® 제조사 프로토콜 5종 술기 선택 지도 (synthesis, 2026-06-01): 임상 상황(RBH·septum·socket 벽) → 5개 프로토콜(Crestal Sinus Lift I/II·구치 septum 확장+거상·IDR II·즉시식립) → 결정적 bur 분기(Lift I/II=pilot drill 유무, ④IDR=cement 금기) → peer-reviewed anchor 매핑; 5종 모두 non-peer-reviewed 제조사 문서임을 전제. osseodensification-clinical-applications(evidence 축, why)의 자매 페이지(술기 축, how)
 - [[overviews/direct-resin-restoration-adhesion-placement-overview]] — 직접 레진 수복 접착·충전 종합 (28편 합성, 2026-05-23): 접착 — 유니버설 SE 단독 NCCL 24mo 임상 부적합(Oza 2022), E&R/선택적 법랑질 산부식 우세(Hong 2021 OR 0.35/0.49/0.49), 3-step EAR gold standard, CHX 2% MMP 억제 in vitro 일관 (Hardan 2021); 충전 — BF vs incremental 임상 동등(Zailai 2025 RR 0.82, Chaple-Gil 2026 NMA 6/12/24mo 모두 NS, Silva 2023 umbrella), "저수축 = 임상 우월" 부정(Kruly 2018 21RCT), 수리(repair)가 교체보다 강력(van de Sande 2019 15yr 69%), 직접 vs 간접 동등~직접 우세(Tennert 2024 RR 0.61 vs Josic 2023 NS)
+- [[overviews/food-impaction-proximal-contact-loss-overview]] — 식편압입·임플란트 PCL 종합 (9편 합성, 2026-06-08 신규 카테고리): 임플란트는 mesial drift 미추종 → 시간의존·mesial 우위 PCL이 inevitable·progressive; 통합 mesial 44.2% vs distal 27.5%(Sheba), >5년 29–83.3%(Abduo), 절반 19.2개월 내(Kim 2025); 예방보다 조기 감시·재형성, 고위험(기존 interproximal gap OR 2.7–3.3·인접치 치주상태·기능기간) 식별; prosthesis design RCT 공백
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
@@ -984,6 +985,13 @@ tags: []
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)
 - [[oral-medicine/jkda-2022-60-4-001]] — Cross-sectional (KUMC Halitosis Clinic, n=246, JKDA 2022): 한국 생리적 구취 환자 questionnaire·dietary·salivary 분석 — 진단·예방 protocol 기반 데이터
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 유발 골흡수가 cyst로 오인 — CBCT 감별진단·history-taking 중요성
+- [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
+- [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR(PROSPERO): BMS 혀 생검 신경섬유밀도 30–60%↓, TRPV1·P2X3·NGF·Nav1.7 변화 — 소섬유신경병증(SFN)이 핵심 병태생리 (2024)
+
+## 구강안면통증·통증 신경기전 (Orofacial Pain — Nociception Mechanisms)
+- [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — Narrative review: NKCC1/KCC2 음이온 수송체가 GABA-A·glycine 억제를 좌우; 탈억제(disinhibition)성 통각과민·이질통 기전 — topical clonazepam 근거 (2009)
+- [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — Narrative review: 말초 DRG nociceptor의 높은 세포내 Cl⁻ → Cl⁻ 통로 활성화가 흥분성으로 작용; anoctamin-1 등 통로 repertoire (2020)
+- [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — Animal(rat) in vivo+in vitro: 5α-환원 신경스테로이드 말초진통은 주로 T-type Ca²⁺ 차단; GABA-A는 증폭 역할 — 폐경 BMS 신경스테로이드 가설 접점 (2005)
 
 ## 악관절·구강안면통증 (TMJ)
 - [[overviews/bruxism-muscle-overload-axis]] — Synthesis 2026-06-03: 이갈이를 공통 상류 인자로 묶은 인과축 — 저작근 과활성 힘이 완충(PDL·임플란트주위) 초과 시 가장 약한 구조로 방전 → 하류 ①TMJ ②치아·보철(균열·마모) ③임플란트 late failure. 세 중재 매핑(스플린트=하류 완충, 교합조정=접촉 재형성·TMD 미지지, BoNT-A=상류 차단). 핵심 역설: BoNT-A는 과부하 힘↓이나 골유착도 손상(Deng 2023 동물)—임플란트 bruxer에서 양날의 검. btx·tmd-ladder overview와 병태생리로 차별화
@@ -1034,6 +1042,17 @@ tags: []
 - [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — SR+MA(Dent Mater 2023, 64 RCT/8,310 GIC vs 5,857 amalgam/composite): GIC 이차우식 예방 — 아말감 대비 유의 우세(영구치 RR 0.20·유치 RR 0.55), 레진 컴포지트와는 동등; cGIC=RMGIC
 - [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — SR+NMA(J Dent 2024, 9 RCT/1,263 lesion): 치근우식 수복 — 24개월 2-3ER/CC 또는 RMGIC가 GIC 대비 경향 우세(OR 2.05–2.65) but NS, CINeMA 신뢰도 낮음; 근거기반 우선순위 결정 불가
 
+
+## 식편압입·치간이개 (Food Impaction / Proximal Contact Loss)
+- [[food-impaction/fathi-2022-prevalence-proximal-contact-loss-umbrella]] — Fathi 2022 (umbrella review, 5 SR/MA): 임플란트-인접치 PCL은 주로 open contact, mesial·하악 우위; 성별·전후방 차이 없음
+- [[food-impaction/sheba-2023-interproximal-contact-loss-systematic-meta]] — Sheba 2023 (SR+single-arm MA, 15편): 통합 ICL mesial 44.2%(95% CI 30.6–58.6) vs distal 27.5%; I²=87.8%; 연령·성별·악궁 무관
+- [[food-impaction/ghasemi-2022-prevalence-proximal-contact-loss-meta-analysis]] — Ghasemi 2022 (SR+MA): PCL 유병률·인자 독립 메타분석, mesial 우위; pooled % figure 기반 [미검증]
+- [[food-impaction/abduo-2022-proximal-contact-loss-qualitative-systematic]] — Abduo 2022 (정성적 SR, 19편): 시간의존 유병률 <2년 11–30%·2–5년 13–65%·>5년 29–83.3%; "frequent, inevitable, progressive"
+- [[food-impaction/pang-2017-prevalence-proximal-contact-loss-prospective]] — Pang 2017 (7년 전향, 150명): 근접접촉 59.9% PCL; 인접치 골지지 저하·상악·mesial 유의 위험
+- [[food-impaction/liang-2020-prevalence-associated-factors-retrospective]] — Liang 2020 (후향, 317명, ~18년): mesial 27% > distal 5%; 다변량 독립인자 기능>5년·치간칫솔 빈용·식편압입
+- [[food-impaction/mehanna-2021-proximal-contact-alterations-prospective]] — Mehanna 2021 (3개월 전향, 43명): 3개월 내 접촉강도 유의 감소; restoration type·implant system 영향
+- [[food-impaction/kim-2025-factors-influencing-proximal-contact-loss]] — Kim 2025 (JKAOMS, 후향 cast model, 293 임플란트): PCL 30.7%, 절반 19.2개월 내; 인접치 기존 interproximal gap 최강 인자(OR 2.7–3.3)
+- 관련: [[implants/kim-2026-proximal-contact-loss-implants-10years]] — Kim 2026 (단면, >10년): PCL 53.7%, mesial 65.6% > distal 28.3% (implants 카테고리)
 
 <!-- BATCH INGEST 2026-05-24: immediate-implant + related FEA -->
 
@@ -1277,11 +1296,16 @@ tags: []
 
 ## 국소마취·진정 (Local Anesthesia / Sedation)
 - [[overviews/mandibular-anesthesia-efficacy-ladder]] — Synthesis 2026-06-03 (5편): 하악 마취 4단 ladder — articaine 협측침윤≈IANB(성인·소아), IANB 실패시 보충≈병용(RR~2), articaine 통증우위, N2O 진정 95%
+- [[overviews/topical-anesthetic-injection-pain-overview]] — Synthesis 2026-06-08 (4편): 표면마취로 주사·needle 통증 줄이기 — 위약 대비 효과·농도의존 확실하나 제제간(lidocaine/benzocaine/EMLA) 차이는 blinding 엄격할수록 소실(Subramanian↔Karkoutly 상충), 표면≠주사 완전대체(Wambier SRP), 레버는 약물명보다 농도·제형·도포술기
 - [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]] — Saatchi 2025 (SR+MA, 5 RCT): hot tooth 하악구치 4% articaine 협측침윤 ≈ 2% lidocaine IANB(RR 1.06, moderate)
 - [[local-anesthesia/rujirawan-2025-combined-supplementary-ianb-irreversible-pulpitis-nma]] — Rujirawan 2025 (Network MA, 28 RCT): IANB 단독 대비 보충(RR 2.02)·병용(1.86) 우월, 둘은 동등
 - [[local-anesthesia/alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis]] — Alkandari 2024 (SR+MA, 5 RCT): articaine vs mepivacaine IANB 성공률 동등, articaine 통증 우위(p<0.001)
 - [[local-anesthesia/yu-2021-buccal-infiltration-articaine-ianb-pediatric]] — Yu 2021 (SR+MA, 7 RCT): 소아 하악구치 articaine 협측침윤 = IANB 대안(성공률 OR 1.02 NS)
 - [[local-anesthesia/rossit-2021-nitrous-oxide-oxygen-procedural-sedation-success]] — Rossit 2021 (SR+MA, 19 RCT): N2O-O2 진정 성공률 94.9%(성인 99.9% > 소아 91.9%, p=0.002)
+- [[local-anesthesia/wambier-2017-intrapocket-topical-versus-injected-anesthetic-srp]] — Wambier 2017 (SR+MA, 6 RCT): SRP 중 주사마취 < intrapocket 표면마취 겔 통증강도(P=.03)·rescue(P<.0001), 통증발생위험·선호는 유사
+- [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]] — Karkoutly 2024 (RCT, n=45 소아): IANB 표면마취 8% lidocaine = 20% benzocaine = 5% EMLA, 차이 없음(FLACC/FACES/맥박 NS)
+- [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]] — Subramanian 2023 (RCT, n=40 소아): IANB 전 20% benzocaine < 2% lignocaine 주사통증(1.2 vs 2.1, P<0.05), benzocaine 우위
+- [[local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction]] — Khongkhunthian 2018 (in-vivo, n=100): rice nanogel 5%/20% lidocaine·prilocaine 표면마취가 위약·상용겔보다 needle 통증 낮춤(20% 최우수)
 
 ## 노년치의학 (Geriatric Dentistry)
 - [[overviews/oral-frailty-geriatric-synthesis]] — Synthesis 2026-06-03 (5편): 구강노쇠=측정·가역 증후군; 지표(잔존치아 수)→유병률 24-32%(도구 의존)→결과(영양실조 OR 2.27)→개입(38% SDF 우식정지). 4단 사슬
@@ -1342,6 +1366,8 @@ tags: []
 - [[interactives/2026-06-07_dental-erosion-risk-matrix]] — 산성 음료·사탕 침식위험 비교 매트릭스 (2026-06-07 신설): 음료/사탕 항목별 pH·산종류·침식지표 정렬 필터 + "pH 단독 판단 금지" 교육 패널. Barac 2015(사람 법랑질 Ra)·Souza 2020(소 법랑질 wear) — 연구 간 절대수치 비교 금지 명시.
 - [[interactives/2026-06-07_free-sugars-caries-ssb-tax-calculator]] — Free sugars 임계값 + SSB 과세 우식영향 계산기 (2026-06-07 신설): kcal·자유당 입력→%E 환산 + WHO/Moynihan 밴드(≤10%E 강·<5%E 조건부); 세율·지역·인구 입력→소비감소·당감소·예방우식 추정. Moynihan 2016 + Hajishafiee 2023 umbrella.
 - [[interactives/2026-06-07_psd-dysbiosis-model-flow]] — PSD 모델 dysbiosis feedforward 인터랙티브 플로우 (2026-06-07 신설): 치주염(keystone pathogen)·우식(sucrose-EPS) 병렬 루프를 dysbiosis 공통 개념으로 통합, 노드 클릭 시 기전·출처. Hajishengallis 2012/2014 + Lamont 2014/2018 + Koo 2013.
+- [[interactives/2026-05-25_zirconia-inlay-bonding]] — 지르코니아 인레이 접착 의사결정 트리 (2026-05-25 신설): 재료 확인→상아질 처리→인레이 내면 처리→시적 오염→프라이머/시멘트→시멘테이션 6+ 분기, 원장 결정포인트(파랑)/위생사 어시스트(초록) 듀얼 레인 + 시멘트·프라이머 추천 매트릭스. agenda/2026-05-25_zirconia-inlay-bonding-interactive.
+- [[interactives/2026-05-31_pdrn-chairside-manual]] — PDRN(폴리뉴클레오티드) chairside 매뉴얼 (2026-05-31 신설): A2A 수용체+salvage pathway 기전, 4개 적응증 카드(근거등급·말할수있는것/없는것·trade-off·대안·출처), dose/vehicle/timing 종합표(미명시=미검증 표기). 인쇄 가능 단일 HTML. agenda/2026-05-31_pdrn-chairside-manual.
 
 ## 메타 — wiki 운영 (Meta)
 
