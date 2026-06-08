@@ -35,18 +35,19 @@ jobs:
         with:
           node-version: 22
 
-      - name: Stamp last-updated time into index.md
+      - name: Stamp last-updated time into wiki/index.md (homepage)
         run: |
           STAMP=$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M KST')
-          sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" index.md
+          sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" wiki/index.md
 
       - name: Copy wiki/ into quartz/content/
         run: |
           rm -rf quartz/content
           mkdir -p quartz/content
           cp -r wiki/. quartz/content/
-          # Also copy stamped index.md as the homepage
-          cp index.md quartz/content/index.md
+          # Homepage = wiki/index.md (curated landing).
+          # 루트 index.md(1,200+ 링크 거대 카탈로그)는 그래프 super-hub를 만들어
+          # 전역 그래프 force 시뮬레이션을 깨뜨리므로 사이트에 미배포 (Obsidian vault home 전용).
 
       - name: Install Quartz dependencies
         working-directory: ./quartz
