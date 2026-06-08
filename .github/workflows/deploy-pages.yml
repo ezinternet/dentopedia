@@ -56,6 +56,12 @@ jobs:
         working-directory: ./quartz
         run: npx quartz build
 
+      - name: Regenerate interactives index from frontmatter
+        run: |
+          # interactives/index.html을 각 도구의 주석 frontmatter(category 등)에서
+          # 자동 생성 → 수기 카드 추가 누락(invisible) 재발 방지.
+          python3 scripts/build-interactives-index.py
+
       - name: Copy interactives/ into site (served verbatim)
         run: |
           # Standalone self-contained HTML tools — served as-is at /interactives/,
