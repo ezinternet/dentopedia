@@ -4,13 +4,19 @@ authors: Itt Assoratgoon, Ramadhan Hardani Putra, Hiroki Hihara, Tetsuo Kawata, 
 year: 2025
 date: 2025-01-01
 doi: 10.1111/joor.70015
-source: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.md
-category: [occlusion]
+source_wiki: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.md
+category:
+  - occlusion
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.pdf
 pdf_filename: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.pdf
 source_collection: external
-tags: [occlusion, implant-occlusion, fixed-prostheses, occlusal-contact, occlusal-scheme]
+tags:
+  - occlusion
+  - implant-occlusion
+  - fixed-prostheses
+  - occlusal-contact
+  - occlusal-scheme
 relations:
   - type: reinforces
     target: mao-2024-occlusal-changes-implant-supported-single-crowns
