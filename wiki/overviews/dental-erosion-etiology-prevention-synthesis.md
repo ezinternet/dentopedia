@@ -1,0 +1,57 @@
+---
+title: "치아침식(ETW) 병인·산성 챌린지·예방 종합 (Dental Erosion: Etiology / Acid Challenge / Prevention)"
+authors: Synthesis (Damian Lee)
+year: 2026
+date: 2026-06-07
+doi: N/A
+source: N/A
+category: overviews
+confidence: synthesis
+pdf_path: N/A
+pdf_filename: N/A
+source_collection: synthesis
+tags: [dental-erosion, erosive-tooth-wear, etw, enamel, demineralization, titratable-acidity, ph, soft-drinks, citrus, profilometry, prevention, overview]
+---
+
+## 한줄요약
+
+치아침식(ETW) review·in-vitro 4편 통합. ①병인 — 비세균성 산(외인: 식이/음료, 내인: GERD)에 의한 치질 소실; 타액·법랑질 pellicle·식이 빈도가 중증도 modifier. ②in-vitro — 침식력은 pH 단독이 아니라 적정산도(titratable acidity)·접촉시간·칼슘/인산 포화도의 함수: 콜라(pH ~2.6)가 단시간 최강, 오렌지주스는 ≥30분이면 동등; citrus sweets(pH 2.6–3.5)는 0.1% 구연산만큼 침식적. ③예방 — 산 노출 빈도·접촉시간 감소, 불소·중화, 산 직후 칫솔질 회피.
+
+## Summary
+
+본 페이지는 wiki/dental-erosion/ 4편을 병인-기전-예방 축으로 통합한다. 핵심은 "pH가 낮다 = 침식적"이라는 단순 등식의 교정이다 — 침식 잠재력은 titratable acidity(중화에 필요한 염기량), 접촉시간, 음료의 Ca/PO₄/F 포화도, chelation 능력이 함께 결정한다.
+
+핵심 명제 5개:
+1. **침식 = 세균 비관여 산성 치질 소실; 외인(식이)·내인(위산) 분류** — 우식(세균·발효당)과 기전적으로 구분. [근거강함] (Kanzow 2016, West 2014)
+2. **침식 잠재력은 pH 단독이 아니라 적정산도·접촉시간 의존** — 콜라(pH 2.67) 단시간 최강이나, 오렌지주스(적정산도 높음)는 ≥30분이면 동등. [근거강함, in-vitro] (Barac 2015)
+3. **Citrus sweets(pH 2.6–3.5)는 0.1% 구연산만큼, 콜라보다 더 침식적일 수 있다** — 이중산(구연산+말산/젖산) 제품이 최강(1.3–2.4 μm wear/7일). [근거강함, in-vitro] (Souza 2020)
+4. **타액(유속·완충·과포화)·획득피막·식이 빈도가 중증도 modifier** — 개인차의 주원인. [합의수준] (Kanzow 2016, West 2014)
+5. **법랑질 무기질 소실은 우식·침식 공통 경로지만 동역학이 다르다** — 침식은 표면 연화·소실(표층 보존 적음), 우식은 표층하 탈회. [합의수준] (West 2014)
+
+## Evidence Map
+
+| 축 | Spine paper | Type | Key finding |
+|---|---|---|---|
+| 병인 | [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] | narrative-review | 침식 정의·외인(식이) vs 내인(GERD)·중증도 modifier(영양·타액·전신질환·기계적 stress) |
+| 기전 | [[dental-erosion/west-2014-enamel-mineral-loss]] | narrative-review | 법랑질 무기질 소실의 화학·생물·숙주 인자 통합, 예방 framework |
+| in-vitro | [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] | in-vitro | 콜라(pH 2.67) 단시간 최강; 오렌지주스 ≥30분 동등; 요구르트 비침식 — 적정산도 ≈ pH 중요 |
+| in-vitro | [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]] | in-vitro | citrus sweets(pH 2.6–3.5) 1.3–2.4 μm wear; 이중산 제품 = 0.1% 구연산, > 콜라 |
+
+## Clinical Decision Points
+
+1. **위험 평가는 'pH 목록'이 아니라 노출 패턴.** 같은 음료라도 빈도·접촉시간(머금기·sipping)·취침 전 섭취가 침식을 좌우. 환자 식이일지에서 '무엇'보다 '얼마나 자주·어떻게'를 본다.
+2. **산성 음료/사탕 상담 — citrus sweets·이중산 제품 경고.** 콜라만 위험하다는 통념 교정: 오렌지주스·신맛 젤리(이중산)도 동등 이상 [근거강함, in-vitro→임상 외삽 [claude해석]].
+3. **산 노출 직후 칫솔질 회피, 중화·재광화 보조.** 산 직후 연화된 법랑질의 마모 가속 — 30분 대기, 무가당 우유/치즈/물 헹굼, 불소 도포. (in-vitro 기반 권고, 직접 RCT는 제한)
+4. **내인성(GERD·구토) 의심 시 의과 의뢰.** 구개측(palatal) 마모 패턴은 내인성 시사 — 식이 교정만으로 불충분.
+
+## Gaps & Future Research
+
+- 거의 모든 정량 근거가 in-vitro(소·인 법랑질, 단순 산 챌린지) — 인간 in situ/임상 종단 침식률 데이터 부족.
+- titratable acidity·Ca/PO₄/F 변수를 통합한 임상 침식위험 스코어 부재.
+- 산 직후 칫솔질 회피·중화 전략의 임상 효과 크기 RCT 미확립.
+- 침식–마모–마모성 상호작용(erosion–abrasion–attrition) 정량 모델 미흡.
+
+## Related Papers
+- [[overviews/caries-detection-remineralization-overview]] — 법랑질 탈회/재광화 공통축 (complements)
+- [[dental-erosion/west-2014-enamel-mineral-loss]] — 무기질 소실 화학 (spine)
+- [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — 식이당·산성음료 노출 빈도 (applies-to)
