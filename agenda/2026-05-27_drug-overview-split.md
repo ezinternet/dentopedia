@@ -2,7 +2,7 @@
 title: "drug 카테고리 overview 5개 sub-overview로 분할"
 type: agenda
 date: 2026-05-27
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 tags: [drug, synthesis, overview-split]
