@@ -2,7 +2,7 @@
 title: "Synthesis-enforcement 3종 세팅 (안전 모드)"
 type: agenda
 date: 2026-05-26
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 tags: [meta, synthesis-enforcement, lint, audit, infrastructure]
