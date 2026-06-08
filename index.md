@@ -746,6 +746,10 @@ tags: []
 - [[resin-bonding/hurtado-2023-universal-adhesives-long-term-dentin]] — in-vitro 6개월 노화(Materials 2023): CSE·Scotchbond Universal > Xeno Select(µTBS↑, nanoleakage↓)
 - [[resin-bonding/demir-2024-surface-treatments-bonding-dentin-elemental]] — in-vitro(Sci Rep 2024): 상아질 표면처리·본딩 방식이 원소 조성·결합강도에 영향
 - [[resin-bonding/sirirangsee-2025-papain-deproteinization-eroded-dentin]] — in-vitro(Sci Rep 2025): papain 탈단백이 침식상아질서 self-etch µTBS 향상·안정화(UBQ 유의), Raman collagen 제거 확인
+- [[resin-bonding/peumans-2023-universal-adhesive-nccl-3year-rct]] — RCT(3yr, 251 NCCLs, KU Leuven): Clearfil Universal Bond Quick의 E&R vs SEE 모드 무차이(성공 82.6% vs 83.8%, 유지 87.2% vs 86.3%) (2023)
+- [[resin-bonding/omoto-2025-nccl-adhesion-strategies-4year-rct]] — RCT(4yr, 200 NCCLs, split-mouth): selective enamel etching이 universal adhesive 유지력 손실 감소; RMGIC 광택손실 더 큼; 4전략 생존곡선 무차이(p=0.315); EDTA 무이득 (2025)
+- [[resin-bonding/celik-2015-self-adhesive-flowable-nccl-6month]] — RCT(6mo, 80 NCCLs, **abstract-only**): self-adhesive flowable composite 성공률 33%(27/40 탈락) vs 3-step E&R+nanohybrid 100% — 접착단계 생략 시 유지 붕괴 (2015)
+- [[resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct]] — RCT(24mo, 256 NCCLs, split-mouth, BMC Oral Health): monomer·HEMA·solvent 다른 universal adhesive 2종(GPB·SBU) 동등(성공 98.2%, 탈락 4개), 모든 항목 유의차 없음 — 조성보다 술식 (2025)
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
@@ -1255,6 +1259,7 @@ tags: []
 - [[overviews/dentist-burnout-mental-health-overview]] — 번아웃 4축 (유병률·결정인자·개입·retraction) (2026-05-26 신설, 7편): Moro 2022 13%/EE 28% + Long 2023 geographic gradient + Negucioiu 2024 post-COVID + Plessas 2022 개입 evidence 빈약 + Panagioti 2018 retracted.
 - [[overviews/adhesive-bonding-strategies-overview]] — 접착 5축 (fatigue·실란·오염 대처·간접 본딩·stamp) (2026-05-26 신설, 5편): Daneshkazemi 2013 + Etiennot 2025 MDP 타액 + Kagaoan 2024 3D-printed crown + Kim 2026 stamp technique.
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (2026-06-01 신설, 8편): 근거 2층 구조 — in-vitro 결합강도 강함(Hardan 2022 SR+MA 21편·Magne 2005/2007·Abo-Alazm 2022 universal+치수압) ↔ 임상 POS 정면충돌(Alghauli 2025 11편 감소 P<.05+survival 우위 vs Josic 2022 4편 GRADE low 차이없음). 결론: 간접수복 표준 채택 정당화하나 환자에게 POS 감소 약속 금지.
+- [[overviews/nccl-etiology-diagnosis-management-overview]] — 비우식성 치경부 병소(NCCL) 종합 (2026-06-07 신설, 16편): 병인=stress·friction·biocorrosion 다인성(Grippo 2012 schema·Roberts 2022 demineralization), abfraction 단독원인설 미입증(Nascimento 2016) but SEM microfracture 일부 관찰(Worawongvasu 2021); 무증상 ≥6mo monitoring 원칙; 수복 시 유지력=접착·산부식 단계 의존 — universal adhesive E&R≈SEE(Peumans 2023 RCT 251), selective enamel etching 유리(Omoto 2025 RCT 200), self-adhesive flowable 6mo 33% 실패(Celik 2015). 병인·진단·관찰vs수복 의사결정 ladder.
 ## 교합 (Occlusion)
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — Synthesis 2026-06-03 (12편): 임플란트 교합 종합 — PDL 부재→하중 최소·분산; 접촉 6-12개월 변동; 약교합 불안정; 교합양식·캔틸레버 FEA 응력; 정기 재점검. bruxism-axis와 상보
 - [[occlusion/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective]] — Zhang 2022 (prospective, n=50, T-Scan): implant-protected occlusion — 약교합이 상대 교합력↓(4.91→10.34% vs 정상 10.45→18.15%)이나 시간 경과로 불안정
@@ -1334,6 +1339,9 @@ tags: []
 - [[interactives/2026-05-27_drill-thermal-selector]] — Drill thermal protocol selector (2026-05-27 신설): bone type·HU·drill 재질·누적 사용·method·RPM·irrigation 입력 → 0–100 heat 위험 score + 47°C 초과 위험 + protocol 강화 권고. Bento 2023 SR-MA + Sorgato 2025 + Saxena 2024 + Marzorati 2026 SR-MA + Woods 2022 SR + Heuzeroth 2021.
 - [[interactives/2026-05-25_osseodensification-navigator]] — OD 4 적용 시나리오 navigator + slide deck (별도 작업).
 - [[interactives/2026-06-02_patient-consent-guide]] — 환자 설명 가이드 v1.2 (위생사·원장 협업형, 2026-06-02 wiki 근거 연결): 6개 술식 탭(임플란트·발치·근관·보철·치주·처방약) + Loss framing→자율성→Teach-back 방법론. v1.1 스크립트에 38편 wiki 논문 근거(저자·연도·DOI) 연결 — Couso-Queiruga 2021 골흡수·Fan 2024 흡연 OR 2.59·Camps-Font 2024 항생제 NMA·Gaballah 2025 진통 RCT·Elwyn 2025 SDM 등. agenda/2026-06-02_patient-consent-guide.
+- [[interactives/2026-06-07_dental-erosion-risk-matrix]] — 산성 음료·사탕 침식위험 비교 매트릭스 (2026-06-07 신설): 음료/사탕 항목별 pH·산종류·침식지표 정렬 필터 + "pH 단독 판단 금지" 교육 패널. Barac 2015(사람 법랑질 Ra)·Souza 2020(소 법랑질 wear) — 연구 간 절대수치 비교 금지 명시.
+- [[interactives/2026-06-07_free-sugars-caries-ssb-tax-calculator]] — Free sugars 임계값 + SSB 과세 우식영향 계산기 (2026-06-07 신설): kcal·자유당 입력→%E 환산 + WHO/Moynihan 밴드(≤10%E 강·<5%E 조건부); 세율·지역·인구 입력→소비감소·당감소·예방우식 추정. Moynihan 2016 + Hajishafiee 2023 umbrella.
+- [[interactives/2026-06-07_psd-dysbiosis-model-flow]] — PSD 모델 dysbiosis feedforward 인터랙티브 플로우 (2026-06-07 신설): 치주염(keystone pathogen)·우식(sucrose-EPS) 병렬 루프를 dysbiosis 공통 개념으로 통합, 노드 클릭 시 기전·출처. Hajishengallis 2012/2014 + Lamont 2014/2018 + Koo 2013.
 
 ## 메타 — wiki 운영 (Meta)
 
@@ -1684,3 +1692,67 @@ tags: []
 - [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — 즉시식립 이식 재료 선택 종합: gap 골대체재(협측 흡수↓·심미↑·합병증↑)와 연조직(SCTG 최우수>이종 콜라겐 기질>치유지대주 단독 불충분) 두 축 분리
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — 식립 시점(ITI Type 1–4) 종합: 생존율은 시점 무관, 즉시식립에 심미·생물학적 비용 집중(Tonetti RCT), 조기식립이 위험 균형 기본값(Bassir SR+MA)
+
+
+## 구강미생물학 (Oral Microbiology) — NEW category (added 2026-06-07, batch j)
+- [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — Narrative review cataloguing the molecular composition and functional roles of the dental plaque EPS matrix (carbohydrates ~20% dry wt, proteins, eDNA, lipids) in caries and periodontal disease (2021)
+- [[oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]] — Narrative review of oral microbiome community assembly, multi-omics methods, and polymicrobial networks driving caries, periodontitis, and systemic dissemination (2021)
+- [[oral-microbiology/bloch-2024-oral-streptococci-modulators-health-disease]] — Narrative review of oral streptococcal taxonomy, virulence factors, and immunomodulatory roles as pioneer colonisers, accessory pathogens, and causes of infective endocarditis (2024)
+- [[oral-microbiology/ponde-2021-candida-albicans-biofilms-polymicrobial]] — Narrative review of C. albicans biofilm ECM (proteins 55%, carbohydrates 25%, lipids 15%, eDNA 5%), transcriptional regulation, and polymicrobial interactions with oral bacteria (2021)
+- [[oral-microbiology/karygianni-2020-biofilm-matrixome-extracellular-components]] — Perspective review coining 'matrixome' to define the full EPS inventory of structured biofilm communities and proposing matrixome-targeted antibiofilm strategies (2020)
+- [[oral-microbiology/bowen-2011-streptococcus-mutans-glucosyltransferases]] — Comprehensive review of S. mutans GtfB/C/D biology: differential surface adsorption, 3–4x activity enhancement on pellicle, coordinated roles in cariogenic plaque EPS matrix assembly (2011)
+- [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]] — Review establishing the EPS matrix as the primary cariogenic virulence determinant via 3D compartmentalised acidic (pH 4.5–5.5) microenvironments resistant to neutralisation (2013)
+- [[oral-microbiology/klein-2012-mutans-protein-synthesis-mixed-species-biofilm]] — In-vitro MudPIT proteomics showing mixed-species biofilm context amplifies S. mutans glucan-synthesis (GtfB/C, DexA) and acid-tolerance proteins, detecting up to 60% of UA159 proteome (2012)
+- [[oral-microbiology/hajishengallis-2012-psd-model-periodontal-disease]] — Proposes the PSD model: P. gingivalis (<0.01% of microbiota) acts as a keystone pathogen remodeling a symbiotic community into a dysbiotic, bone-destructive state via complement subversion (2012)
+- [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] — Mechanistic review of P. gingivalis immune manipulation via FimA/SerB epithelial invasion, gingipain-mediated C3/C5 cleavage, and C5aR–TLR2 crosstalk suppressing iNOS and IL-12 (2014)
+- [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] — Formalizes the PSD model with interspecies signaling (Ptk1/Ltp1/CdhR), driver–passenger pathobiont dynamics, as a generalizable framework for polymicrobial inflammatory disease (2015)
+- [[oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]] — Nat Rev Microbiol synthesis unifying periodontitis and caries dysbiosis, ~1,000-species oral ecology, C. albicans inter-kingdom synergy, and oral–systemic disease links (RA, CAD, OSCC) (2018)
+- [[oral-microbiology/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer]] — Critical review of F. nucleatum in OSCC: STAT3/cyclin D1/MMP-9 carcinogenesis mechanisms and paradoxical favorable prognosis with Fn positivity (2021)
+
+## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
+- [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] — In-vitro stylus profilometry showing Coca-Cola (pH 2.67) most erosive short-term, orange juice equally erosive at ≥30 min, yoghurt non-erosive; titratable acidity as important as pH (2015)
+- [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]] — In-vitro profilometry (n=90 bovine enamel): citrus sweets (pH 2.6–3.5) cause 1.3–2.4 μm wear; dual-acid sweets as erosive as 0.1% citric acid and more than Coca-Cola (2020)
+- [[dental-erosion/west-2014-enamel-mineral-loss]] — Narrative review integrating chemical, biological, and host factors of enamel mineral loss from caries and erosion, with evidence-based prevention frameworks (2014)
+- [[dental-erosion/kanzow-2016-etiology-pathogenesis-dental-erosion]] — Concise narrative review defining erosion as acid-related non-microbial tooth-structure loss, classifying extrinsic (dietary) vs intrinsic (GERD) aetiology and severity-modifying factors (2016)
+
+### batch j — additions to existing categories (added 2026-06-07)
+**periodontics**
+- [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — Narrative review applying the 2017 staging/grading classification to periodontitis management, with quantified smoking/diabetes risk and SRP-to-maintenance treatment sequence (2021)
+
+**endodontics/irrigation**
+- [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — Commissioned IEJ review: NaOCl + EDTA remain the evidenced irrigation standard; no adjunct activation method has demonstrated improved long-term RCT outcomes (2022)
+
+**endodontics**
+- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
+- [[endodontics/babeer-2024-microrobotics-endodontics-perspective]] — Perspective on three magnetically controlled microrobot platforms (IONP microswarms, helicoids, silica nanorobots) for biofilm disruption and targeted disinfection of canal intricacies (2024)
+
+**resin**
+- [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — Critical review of bioactive resin strategies (metallic nanoparticles, QAMs, NACP) to prevent secondary caries, with failure-rate benchmarks and formulation vulnerability analysis (2023)
+
+**caries**
+- [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — Review (54 studies) establishing moderate-quality dose-response that free sugars ≤10%E reduces caries and low-quality evidence for further benefit below 5%E, underpinning the 2015 WHO guideline (2016)
+- [[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]] — Umbrella review (19 SRs): a 20% volumetric SSB tax reduces free sugars ~4.0–4.4 g/day and prevents 0.03 carious teeth/adult and 2.7–2.9% child caries over 10 years (2023)
+
+### overviews (added 2026-06-07, batch j)
+- [[overviews/oral-microbiome-biofilm-dysbiosis-synthesis]] — 구강 미생물·바이오필름 매트릭스(EPS/matrixome)·dysbiosis(PSD 모델) 13편 종합: caries(sucrose-EPS feedforward)와 periodontitis(keystone pathogen) 통합 framework (2026)
+- [[overviews/dental-erosion-etiology-prevention-synthesis]] — 치아침식(ETW) 병인·산성 챌린지(적정산도>pH)·예방 4편 종합: citrus/이중산 사탕 위험, 산 직후 칫솔질 회피 (2026)
+
+
+<!-- BATCH INGEST 2026-06-07: 비우식성 치경부 병소(NCCL) 병인·형태·진단. NEW category: nccl. 접착 수복 RCT 3편은 resin-bonding에 배치 -->
+
+## 비우식성 치경부 병소 (Noncarious Cervical Lesions / Abfraction)
+
+### nccl (added 2026-06-07, NEW category — 병인·형태·진단)
+
+- [[nccl/goodacre-2022-nccl-morphology-etiology-restoration-guidelines]] — narrative review(J Prosthodont 2022): NCCL 형태(saucer/V-shape)·진행(D/H비)·유병률(10–90%)·다인성 병인 종합 + 경화상아질 텍스처링·enamel bevel·30초 산부식 수복 가이드라인 (기준 문헌)
+- [[nccl/grippo-2012-abfraction-abrasion-biocorrosion-nccl-20year]] — narrative review(JERD 2012, abstract+refs): "biocorrosion" 용어 + stress·friction·biocorrosion pathodynamic schema 제안 — NCCL 다인성 병인 정식화한 고전
+- [[nccl/roberts-2022-demineralization-attrition-erosion-abfraction-nccl]] — narrative review(Curr Osteoporos Rep 2022): NCCL·우식·골다공증을 acid·biomechanics·percolation 통합 demineralization 질환으로 재개념화
+- [[nccl/nascimento-2016-abfraction-etiology-diagnosis-treatment]] — narrative review(CCIDE 2016): abfraction 이론 미입증, 무증상 NCCL은 6개월 이상 monitoring; 진행예방 목적 교합조정·수복 적응증 아님 (보존적 관리 근거)
+- [[nccl/peumans-2020-nccl-treatment-when-why-how]] — narrative review(Int J Esthet Dent 2020, **abstract-only**): NCCL 치료 when/why/how — 수복은 최후 옵션, 성공은 composite 종류 아닌 접착제·술자 의존
+- [[nccl/worawongvasu-2021-nccl-sem-characterization]] — in-vitro SEM(JOMFP 2021, 10 소구치): 4/10 microfracture(abfraction 지지) + 전체 abrasion/erosion 흔적 → 다인성 병인 초미세구조 증거
+- [[nccl/stanusi-2023-nccl-stereomicroscopic-aspects]] — in-vitro(Diagnostics 2023, 27치, 75x): wedge형 59%(긁힘·균열, 교합+칫솔질)·saucer형 37%(매끈), 깊이 67%가 <500µm — 조기진단 도구로서 stereomicroscope
+- [[nccl/senna-2012-nccl-occlusion-systematic-review]] — SR(J Oral Rehabil 2012, 임상 28편): 설계·진단기준 이질성+편향으로 교합-NCCL 연관 결론 불가, 메타분석 불가 (abstract+refs)
+- [[nccl/silva-2013-occlusal-factors-nccl-systematic-review]] — SR(J Dent 2013, 9편): 다수가 교합위험인자-NCCL 무연관, 3편만 특정변수 유의(p<0.05) (abstract)
+- [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]] — SR(Am J Dent 2017, 69편 임상31·실험38): 81%가 교합응력-NCCL 연관 보고하나 응력 단독원인 입증 임상연구 전무 (abfraction 우호 극점, abstract)
+- [[nccl/dioguardi-2023-nccl-etiopathological-mechanisms-review]] — narrative review(Int J Dent 2023, Foggia): NCCL 병인 이론(erosion·abrasion·abfraction) 비교, 다인성 모델 필요
+- [[nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review]] — scoping review(Curr Oral Health Rep 2024, PRISMA-ScR/ROBINS-I, 1449→6편): 교합부하의 abfraction 병인 역할 확정·반박 모두 불가; Duangthip 2017 재비판 (abfraction 논쟁 최신 근거)
