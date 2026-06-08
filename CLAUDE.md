@@ -124,6 +124,7 @@ All three tiers share the same stem:
 | `behavioral-dentistry/dental-anxiety` | 행동치의학·치과불안 | Dental anxiety/fear/phobia assessment & management (pediatric + adult), behavior-rating scales, non-pharmacological strategies |
 | `radiology` | 방사선학 | CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols |
 | `oral-medicine` | 구강내과 | Oral mucosal diseases — leukoplakia, oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), malignant transformation risk |
+| `orofacial-pain` | 구강안면통증·통증 신경기전 | Nociception/neuropathic-pain molecular mechanisms underlying orofacial pain & BMS — chloride homeostasis (NKCC1/KCC2), GABA-A/glycine disinhibition, peripheral nociceptor ion channels (anoctamin/TMEM16, TRPV1, Nav), T-type Ca²⁺ channels, neurosteroid modulation. (BMS clinical/diagnostic papers → `oral-medicine`) |
 | `botulinum-toxin` | 보툴리눔 독소 | Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity |
 | `orthodontics` | 교정학 | Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology |
 | `tmj` | 턱관절·악관절장애 | TMD diagnosis & management — arthrocentesis, splint therapy, pharmacotherapy, chronic pain, TMJ osteoarthritis, sleep bruxism |
@@ -141,6 +142,7 @@ All three tiers share the same stem:
 | `oral-microbiology` | 구강미생물학 | Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P. gingivalis, F. nucleatum), polymicrobial synergy & dysbiosis (PSD) model, Streptococcus/Candida interactions, microbiome–systemic/cancer links |
 | `dental-erosion` | 치아침식 | Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention |
 | `nccl` | 비우식성 치경부 병소 | Noncarious cervical lesions / abfraction — morphology (saucer/V-shape), progression (D/H ratio), prevalence, multifactorial etiology (stress/friction/biocorrosion schema), demineralization pathophysiology, SEM/stereomicroscopic characterization, monitor-vs-restore decision. (NCCL adhesive-restoration RCTs → `resin-bonding`) |
+| `food-impaction` | 식편압입·치간이개 | Food impaction & proximal/interproximal contact loss (PCL/ICL) between implant prostheses (or natural teeth) and adjacent teeth — prevalence, risk factors, mesial>distal pattern, time-progression, clinical implications (caries, periodontal), management. (natural-tooth open contact, plunger cusp, marginal-ridge contour included) |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
