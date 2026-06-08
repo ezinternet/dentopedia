@@ -2,7 +2,7 @@
 title: "지르코니아 인레이 접착 SOP 인터랙티브 (원장·위생사 통합)"
 type: agenda
 date: 2026-05-25
-status: in-progress
+status: done
 owner: 원장
 priority: P1
 deadline: 2026-05-31
