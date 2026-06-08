@@ -138,6 +138,9 @@ All three tiers share the same stem:
 | `dentin-hypersensitivity` | 상아질 과민증 | Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents |
 | `practice-management` | 치과경영 | Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration |
 | `implants/versah-protocols` | 임플란트·Versah 프로토콜 | Versah osseodensification osteotomy — indications, ISQ outcomes, bone density effects, vs conventional drilling |
+| `oral-microbiology` | 구강미생물학 | Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P. gingivalis, F. nucleatum), polymicrobial synergy & dysbiosis (PSD) model, Streptococcus/Candida interactions, microbiome–systemic/cancer links |
+| `dental-erosion` | 치아침식 | Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention |
+| `nccl` | 비우식성 치경부 병소 | Noncarious cervical lesions / abfraction — morphology (saucer/V-shape), progression (D/H ratio), prevalence, multifactorial etiology (stress/friction/biocorrosion schema), demineralization pathophysiology, SEM/stereomicroscopic characterization, monitor-vs-restore decision. (NCCL adhesive-restoration RCTs → `resin-bonding`) |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
