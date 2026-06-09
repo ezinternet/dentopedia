@@ -15,6 +15,7 @@ source_papers:
   - drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective
   - drug/kwon-2023-mronj-position-papers-what-changed
   - drug/jkda-2021-60-1-004
+  - implants/kim-2026-dental-implant-osteoporosis-osteosclerosis
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -143,6 +144,8 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 
 [claude해석] §6의 Li 2024 SR(시작 **후** 식립 실패 23%, 83% MRONJ)이 정량 근거라면, Choi 2022는 그 결정 과정을 한국 임상 맥락으로 구조화한 의사결정 보완재. 두 편을 함께 보면 "수치 → 결정 절차"가 연결됨.
 
+[합의수준] Kim 2026 (전남대 종설, 골다공증·골경화증 임플란트) — 경구 비스포스포네이트 복용 **골다공증** 환자에서 MRONJ 발생률은 매우 낮아 임플란트 절대 금기가 아니며, 일부 장기 추적에서는 BP가 오히려 주위 골소실을 줄였다고 보고. drug holiday(술전 3개월~술후 3–6개월)는 고용량 IV·스테로이드 병용 등 고위험 프로파일에 한정 — Ruggiero 2022(합의 없음)·Li 2024(IV/암 적응증 고위험)와 방향 일치. [claude해석] 단, 같은 종설이 osteoporosis 임플란트 **장기(5–10년) 생존율은 82.6–94.1%로 하락**한다고 정리하므로(약물 위험과 별개로 골질 자체 문제), MRONJ 저위험이 곧 장기 성공을 보장하지 않음 → 장기 추적은 필수. 정량 상세는 [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]].
+
 [합의수준] Choi 2022 (JKDA, 단국대 통합치의학 종설) — BMA 복용 환자에서 implant 자체가 MRONJ 위험인자·trigger가 될 수 있음을 한국 임상가 관점에서 정리. implant-related ONJ incidence는 여전히 불확실해 임상의 hesitation의 근거가 되며, 식립 전 위험-이익 평가·식립 후 maintenance·조기 발견이 핵심. Li 2024 SR의 정량 실패율(23%)과 방향 일치.
 
 ---
@@ -214,6 +217,9 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 - [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — BP 종류·작용·치과 안전·국소 도포 골유착 촉진
 - [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS position paper 변천(2007→2014→2022) 한국어 해설, 2022 변경 3가지
 - [[drug/jkda-2021-60-1-004]] — BMA 환자에서 implant가 MRONJ 위험인자, 한국 임상 perspective
+
+### Cross-category (임플란트·골질)
+- [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — 골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나, 골다공증 임플란트 장기 생존율은 82.6–94.1%로 하락(골질 문제 별개). drug holiday는 고위험 한정 (narrative-review, 2026)
 
 ### 인접 overview
 - [[drug-clinical-decision-ladder]] — drug 카테고리 허브
