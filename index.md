@@ -9,6 +9,8 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — Kim 2026 (narrative review, 30편): 골다공증·골경화성 5병변 임플란트; 골다공증 단기 97.9–100%→5–10년 82.6–94.1%, 범발형 COD 66.7% vs 국소형 100% (2026)
+- [[implants/kim-2026-implant-angulation-peri-implant-bone]] — Kim 2026 (retrospective, 506 implants, 5.1y): CAD 3D 각도 측정; 비축방향 MBL 0.22 vs 축방향 0.10 mm (P<.05), 상악>하악, 비축×implant-FDP 대합 상호작용 Δ0.373 mm (2026)
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — Jepsen 2015 (consensus, 11th Eur Workshop): 점막염 관리=주위염 1차예방; 유병률 점막염 43%·주위염 22%; BoP 핵심 진단지표·정기 SPT
 - [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — Baima 2022 (SR+MA, 16 RCT): 외과적 주위염 표면제염(기계·화학·물리) — 단일 우월 프로토콜 없음(EFP S3 미권고 근거)
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — Ramanauskaite 2023 (Network MA): 주위염 골내결손 GBR 재건 효능 비교(Schwarz 그룹)
