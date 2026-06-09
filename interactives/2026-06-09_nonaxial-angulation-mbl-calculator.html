@@ -1,0 +1,188 @@
+<!--
+---
+title: "비축방향 식립 각도 → 경부 응력·MBL 추정 (chairside, 교육용)"
+type: interactive
+date: 2026-06-09
+status: draft
+category: implants
+agenda: agenda/2026-06-09_nonaxial-angulation-interactive.md
+source_wiki:
+  - wiki/implants/kim-2026-implant-angulation-peri-implant-bone.md
+  - wiki/overviews/implant-occlusion-loading-biomechanics-overview.md
+  - wiki/occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis.md
+tags: [implant, angulation, nonaxial, mbl, occlusion, chairside-calculator, educational]
+notes: |
+  단일 HTML, 외부 CDN 없음, 오프라인 사용 가정. 인라인 CSS/JS.
+  응력 모델 = F·sin(θ) 협측분력 + Kim 2026 인용 "15°당 +25%, 30°↑ +50%" 경험배수의 교육용 근사. FEA 아님.
+  데이터: Kim 2026 후향(506 implants, 5.1y) — 비축 0.22±0.48 vs 축 0.10±0.39 mm(P<.05), 각도×implant-FDP 상호작용 Δ0.373 mm.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>비축 식립 각도 → 경부 응력·MBL 추정</title>
+<style>
+  :root{
+    --bg:#0f1419; --card:#1a212b; --card2:#222c38; --line:#2e3a48;
+    --ink:#e8edf2; --sub:#9fb0c0; --accent:#4ea1ff; --warn:#ff7a59;
+    --good:#46c98b; --mid:#f2c14e; --bad:#ff5d5d;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.55;padding:18px;max-width:920px;margin:0 auto;}
+  h1{font-size:1.25rem;margin:0 0 4px}
+  .sub{color:var(--sub);font-size:.86rem;margin-bottom:16px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media(max-width:680px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:16px}
+  label{display:block;font-size:.82rem;color:var(--sub);margin:10px 0 4px}
+  input[type=range]{width:100%;accent-color:var(--accent)}
+  .val{font-variant-numeric:tabular-nums;color:var(--ink);font-weight:600}
+  select,input[type=number]{width:100%;padding:8px;border-radius:8px;border:1px solid var(--line);
+    background:var(--card2);color:var(--ink);font-size:.92rem}
+  .row{display:flex;justify-content:space-between;align-items:baseline;gap:8px}
+  .big{font-size:1.9rem;font-weight:700;font-variant-numeric:tabular-nums}
+  .unit{font-size:.8rem;color:var(--sub)}
+  .pill{display:inline-block;padding:2px 10px;border-radius:999px;font-size:.78rem;font-weight:600}
+  .out{background:var(--card2);border:1px solid var(--line);border-radius:10px;padding:12px;margin-top:10px}
+  .bar{height:10px;border-radius:6px;background:#283543;overflow:hidden;margin-top:6px}
+  .bar>i{display:block;height:100%;background:linear-gradient(90deg,var(--good),var(--mid),var(--bad))}
+  .warn{background:#3a2018;border:1px solid var(--warn);color:#ffd9cd;border-radius:10px;
+    padding:10px 12px;margin-top:10px;font-size:.86rem;display:none}
+  .warn.on{display:block}
+  .note{font-size:.76rem;color:var(--sub);margin-top:14px;border-top:1px solid var(--line);padding-top:10px}
+  .tag{font-size:.72rem;color:var(--mid)}
+  svg{display:block;margin:6px auto 0}
+  .legend{font-size:.74rem;color:var(--sub);text-align:center;margin-top:2px}
+</style>
+</head>
+<body>
+  <h1>비축방향(nonaxial) 식립 각도 → 경부 응력·MBL 추정</h1>
+  <div class="sub">Kim 2026 후향연구(506 implants, 5.1y) 기반 · <span class="tag">[retrospective] · 교육용 근사(FEA 아님)</span></div>
+
+  <div class="grid">
+    <div class="card">
+      <div style="font-weight:600;margin-bottom:4px">입력</div>
+
+      <label>근원심 각도 (mesiodistal) — <span class="val" id="mdv">10</span>°</label>
+      <input type="range" id="md" min="0" max="40" value="10">
+
+      <label>협설 각도 (buccolingual) — <span class="val" id="blv">5</span>°</label>
+      <input type="range" id="bl" min="0" max="40" value="5">
+
+      <label>교합력 (N)</label>
+      <input type="number" id="force" value="100" min="20" max="600" step="10">
+
+      <label>대합치 유형 (antagonist)</label>
+      <select id="ant">
+        <option value="natural">자연치 (natural tooth)</option>
+        <option value="implant">임플란트 지지 고정성 보철 (implant-FDP)</option>
+        <option value="removable">가철성 의치 (removable denture)</option>
+      </select>
+
+      <svg id="diagram" width="220" height="160" viewBox="0 0 220 160"></svg>
+      <div class="legend">장축(점선) 대비 합성 기울기 · 협측 분력(화살표)</div>
+    </div>
+
+    <div class="card">
+      <div style="font-weight:600;margin-bottom:4px">결과</div>
+
+      <div class="out">
+        <div class="row"><span class="unit">합성(3D) 식립 각도</span>
+          <span><span class="big" id="comb">11.2</span><span class="unit">°</span></span></div>
+        <div class="row" style="margin-top:2px">
+          <span class="unit">분류</span><span class="pill" id="cls">—</span></div>
+      </div>
+
+      <div class="out">
+        <div class="row"><span class="unit">협측 측방 분력 (F·sinθ)</span>
+          <span><span class="big" id="lat">19</span><span class="unit"> N</span></span></div>
+        <div class="row" style="margin-top:2px"><span class="unit">경부 응력 배수(경험 근사)</span>
+          <span class="val" id="mult">×1.2</span></div>
+        <div class="bar"><i id="stressbar" style="width:30%"></i></div>
+      </div>
+
+      <div class="out">
+        <div class="row"><span class="unit">예상 변연골 소실대 (Kim 2026)</span>
+          <span><span class="big" id="mbl">0.10</span><span class="unit"> mm</span></span></div>
+        <div class="row" style="margin-top:2px"><span class="unit">관측 범위(평균±SD)</span>
+          <span class="val" id="mblrange">0.10 ± 0.39</span></div>
+      </div>
+
+      <div class="warn" id="interaction">
+        ⚠ <b>각도 × 대합치 상호작용</b> — 비축방향 + 대합치가 임플란트 보철(implant-FDP)인 조합에서
+        축/비축 골소실 차이가 <b>0.373 mm</b>로 가장 큼(P=0.007). 자연치 완충(PDL) 없이 양측 응력 집중.
+        교합 조정·각도 보정·정기 추적 권장.
+      </div>
+    </div>
+  </div>
+
+  <div class="note">
+    <b>해석 한계</b> — ① 응력 배수는 Kim 2026이 인용한 “15°마다 경부응력 +25%, 30°↑ +50%”의 교육용 선형 근사이며 FEA 정밀모델이 아님 [claude해석].
+    ② 절대 MBL이 0.1–0.22 mm로 작아 통계적 유의(P&lt;.05)가 곧 임상적 유의를 뜻하지 않음.
+    ③ 분류 임계(15°)는 표시용 — 원 연구는 CAD 측정값으로 축/비축을 정의. ④ 상악은 하악보다 MBL이 큼(P&lt;.001) — 상악이면 추가 가중 고려.
+    출처: <i>Kim 2026, The Effect of Implant Angulation and Clinical Risk Factors on Peri-implant Bone Changes (J Prosthet Dent 2025;133:162.e1-7, DOI 10.1016/j.prosdent.2024.09.015)</i>.
+  </div>
+
+<script>
+  const $=id=>document.getElementById(id);
+  const rad=d=>d*Math.PI/180, deg=r=>r*180/Math.PI;
+
+  function classify(a){ return a>=15?"nonaxial":"axial"; }
+
+  function update(){
+    const md=+$("md").value, bl=+$("bl").value, F=+$("force").value, ant=$("ant").value;
+    $("mdv").textContent=md; $("blv").textContent=bl;
+    // 합성 기울기: tan(c)=sqrt(tan²md+tan²bl)
+    const comb=deg(Math.atan(Math.hypot(Math.tan(rad(md)),Math.tan(rad(bl)))));
+    $("comb").textContent=comb.toFixed(1);
+    const cls=classify(comb);
+    const clsEl=$("cls");
+    clsEl.textContent= cls==="nonaxial" ? "비축방향 (nonaxial)" : "축방향 (axial)";
+    clsEl.style.background = cls==="nonaxial" ? "#3a2a18" : "#16322a";
+    clsEl.style.color = cls==="nonaxial" ? "#ffcf9e" : "#8ff0c2";
+
+    // 측방 분력
+    const lat=F*Math.sin(rad(comb));
+    $("lat").textContent=lat.toFixed(0);
+    // 경험 응력 배수: 15°당 +25%
+    const mult=1+0.25*(comb/15);
+    $("mult").textContent="×"+mult.toFixed(2);
+    $("stressbar").style.width=Math.min(100,(mult-1)/1.0*100).toFixed(0)+"%";
+
+    // MBL 대 (Kim 2026)
+    let mean,sd;
+    if(cls==="axial"){mean=0.10;sd=0.39;} else {mean=0.22;sd=0.48;}
+    // implant-FDP 대합 + nonaxial → 상호작용 가중(Δ0.373)
+    const inter = (cls==="nonaxial" && ant==="implant");
+    if(inter){ mean=0.39; sd=0.63; }   // implant-FDP nonaxial 관측치
+    $("mbl").textContent=mean.toFixed(2);
+    $("mblrange").textContent=mean.toFixed(2)+" ± "+sd.toFixed(2);
+    $("interaction").classList.toggle("on",inter);
+
+    drawDiagram(comb,lat,F);
+  }
+
+  function drawDiagram(comb,lat,F){
+    const cx=110, top=20, len=110;
+    const a=rad(comb);
+    const x2=cx+len*Math.sin(a), y2=top+len*Math.cos(a);
+    const svg=$("diagram");
+    svg.innerHTML=`
+      <line x1="${cx}" y1="${top}" x2="${cx}" y2="${top+len}" stroke="#54657a" stroke-width="2" stroke-dasharray="4 4"/>
+      <line x1="${cx}" y1="${top}" x2="${x2.toFixed(1)}" y2="${y2.toFixed(1)}" stroke="#4ea1ff" stroke-width="6" stroke-linecap="round"/>
+      <circle cx="${cx}" cy="${top}" r="4" fill="#e8edf2"/>
+      <line x1="${cx}" y1="${top}" x2="${(cx+Math.min(70,lat*0.7)).toFixed(1)}" y2="${top}" stroke="#ff7a59" stroke-width="3" marker-end="url(#ah)"/>
+      <defs><marker id="ah" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+        <path d="M0,0 L6,3 L0,6 Z" fill="#ff7a59"/></marker></defs>
+      <text x="6" y="14" fill="#9fb0c0" font-size="10">장축</text>`;
+  }
+
+  ["md","bl","force","ant"].forEach(id=>$(id).addEventListener("input",update));
+  update();
+</script>
+</body>
+</html>
