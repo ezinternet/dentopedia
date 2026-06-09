@@ -940,6 +940,8 @@ tags: []
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — In vivo 마우스 + scRNA-seq(JBMR 2025, MGH/Harvard Wein lab): SIK2/SIK3(PTH/PTHrP 하류 kinase) 조건 결손 — 치조골 osteoblast 성숙·BV/TV·발치와 치유 모두 저하; 치조골 osteoblast가 long bone osteoblast와 다른 cluster임을 scRNA-seq로 입증. SIK 억제제·intermittent PTH가 ARP 약리 보조 후보가 될 preclinical rationale.
 
 ## 종합 (Overviews)
+- [[overviews/bone-quality-implant-risk-modification-overview]] — synthesis(2026-06-09, 10편): 골질을 위험 축으로 묶음 — Lekholm-Zarb I–IV / Misch D1–D4, type IV ~1.5–1.9× 실패(ISQ 58–65 vs 72–80), 치조정 피질골 두께가 안정성 핵심, 수정 레버(under-drill·tapered·diameter>length·OD·bioactive surface·delayed loading), 전신/병적 골(골다공증·골경화성) 확장
+- [[overviews/implant-length-selection-why-not-always-short]] — synthesis(2026-06-10, 7편): "숏이 되는데 왜 긴 걸 쓰나"에 답 — 생존율은 숏(≤8mm)=긴 임플란트(Yu·Anitua·Zhang), MBL·생물학적 합병증은 숏 우세. 긴 쪽/골증대를 택하는 진짜 이유 4가지(잔존골고 RBH·치관임플란트비 C/I·교합부하·얇은 5년 근거 Yu RR 0.970·Mester p=0.07)로 결정 트리화; 길이가 아니라 부위가 길이를 정함
 - [[overviews/glass-ionomer-clinical-decision-overview]] — synthesis(2026-06): GIC 8편 통합 — 적응증(수복·luting·sealant 지지, liner/base 논쟁)·하중부 허용·유치 HVGIC≈composite·longevity 근거품질 한계·Ca/P 생체활성 개질·CGIC<RMGIC 세포독성
 - [[overviews/evidence-appraisal-toolkit]] — 근거 평가·통계방법론 10편 합성 (2026-05-22 신설 카테고리, 2026-05-23 cheatsheet 추가): 5축 (SR/MA 방법론 4편 + 효과측정치 3편 + 검정 선택 1편 + 빠른 참조 1편 + 흔한 오류 1편); 치과 RCT/SR 읽을 때 체크리스트; CLAUDE.md "method/procedure" 분류 원칙 적용
 - [[overviews/crown-preparation-geometry-convergence-resistance-retention]] — 크라운 prep 기하 9편 클러스터 종합 (2026-05-21): 권장 TOC 변천(6°→10-22°·임상 25-32°), 치아별 민감도(견치·대구치 vs 소구치 NS), 보조형 retention-fit trade-off(Roudsari/Yang), 임시 크라운 3D 프린팅 우위(6.6-7.65 vs 2.35-3.52 MPa), 지르코니아 핫애시드 임상 회피
@@ -1784,3 +1786,26 @@ tags: []
 - [[nccl/duangthip-2017-occlusal-stress-nccl-abfraction-sr]] — SR(Am J Dent 2017, 69편 임상31·실험38): 81%가 교합응력-NCCL 연관 보고하나 응력 단독원인 입증 임상연구 전무 (abfraction 우호 극점, abstract)
 - [[nccl/dioguardi-2023-nccl-etiopathological-mechanisms-review]] — narrative review(Int J Dent 2023, Foggia): NCCL 병인 이론(erosion·abrasion·abfraction) 비교, 다인성 모델 필요
 - [[nccl/dioguardi-2024-abfraction-theory-controversy-scoping-review]] — scoping review(Curr Oral Health Rep 2024, PRISMA-ScR/ROBINS-I, 1449→6편): 교합부하의 abfraction 병인 역할 확정·반박 모두 불가; Duangthip 2017 재비판 (abfraction 논쟁 최신 근거)
+
+### Batch ingest (added 2026-06-10) — low-density-bone osteotomy / short-implant-vs-sinus / transcrestal OD / PROM
+
+#### implants — low-density bone osteotomy & drilling technique
+- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — Tabassum 2021 · animal (goat, 44 implants): 측방(undersized)+축방향(under-depth) 압축 결합 시 식립토크·%BIC 유의 증가, 저밀도골 대체 술식
+- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — El-Kholey 2019 · sr (15편): undersized·osteotome·Piezo·OD 4술식 모두 일차안정성↑이나 장기 생존 우월 근거 약함 (일차안정성 ≠ 장기성공)
+- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — Gehrke 2021 · in-vitro (120 implants, polyurethane): undersized는 PCF-20에서만 안정성↑, 최저밀도 PCF-10 한계; healing-chamber macrogeometry가 표면 잔류골 확보
+
+#### sinus-lift/lateral — short implant vs sinus augmentation
+- [[sinus-lift/lateral/chaware-2021-short-vs-long-implant-sinus-graft-sr-ma]] — Chaware 2021 · sr+ma (22 RCT·667pt·1595 implants): short(graftless) vs long+sinus graft 생존율·변연골흡수 유의차 없음(I²=0%), 합병증 유형만 상이
+- [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — Mester 2023 · sr+ma (5 RCT ≥5yr): 생존 RR 0.97(p=0.07) 유의차 없음, short가 MBL·생물학적 합병증 유의하게 적음
+- [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — Alemán 2025 · sr+ma (7 RCT ≥5yr): 성공/생존 RR 2.37(0.83–6.78) 유의차 없음, 7편 중 5편 high RoB로 근거 확실성 낮음
+- [[sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma]] — Derbishi 2026 · sr+ma: 상악동거상 임플란트 장기 생존 >97%, crestal 낮은 실패율은 환자선택 교란, 근거 확실성 낮음
+
+#### sinus-lift/transcrestal — osseodensification / adjunct
+- [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — Yousry 2025 · rct: 경치조 OD 후 ozone gel은 무이식 대비 4개월 골폭·협측판 두께 유의 증가 없음(둘 다 수용가능) — 보조제 null 결과
+- [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — Sulyhan 2024 · prospective pilot (13pt, CBCT): OD+이식재 즉시 +6.65mm 골고 증가, 12개월 수축 0.90mm, 성공률 100%
+
+#### behavioral-dentistry/patient-reported-outcomes — sinus lift PROM
+- [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] — Menini 2025 · sr+ma (12 RCT+1): graftless·transcrestal이 grafted·lateral보다 술후 통증·불편감 적음 (abstract 기반·preprint, 수치 미검증)
+
+### Overview (added 2026-06-10)
+- [[overviews/short-implant-vs-sinus-augmentation-decision]] — 위축 상악 구치부 short implant vs 상악동거상 의사결정 종합(SR/MA 6 + PROM 1): 생존 동등·short MBL 우위·이환 낮음 → RBH·C/I비·환자경험이 결정축, ≥5yr 근거는 thin·low-certainty
