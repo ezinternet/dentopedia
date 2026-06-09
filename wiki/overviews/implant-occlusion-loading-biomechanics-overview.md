@@ -40,6 +40,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 4. **교합 과부하와 임플란트주위 골소실의 연관은 시사되나 근거 질이 낮다(정량 교합분석 표준화 부재).** — Di Fiore 2022 SR(7편). [합의수준/미검증]
 5. **교합양식·보철 구성(캔틸레버·tooth-implant 연결·재료·부기능)이 임플란트주위 응력을 좌우한다 — FEA 일관.** — Ambili 2024·Yesilyurt 2021 FEA, Berzaghi 2025 narrative(full-arch 위험요인), Packaeser 2025(교합접촉 양상이 세라믹 크라운 피로). [claude해석/미검증(임상)]
 6. **무치악/full-arch 임플란트 교합 설계는 견치유도·과두관계·하중 분산을 고려.** — Zhang Xueyang 2018(무치악 교합 설계), Bhambhani 2020(총의치 교합 양식). [합의수준]
+7. **비축방향(nonaxial) 식립 각도 자체가 변연골 소실의 측정 가능한 인자 — 단, 대합치가 임플란트일 때 증폭된다.** Kim 2026(후향 506개, 5.1년)은 CAD 3D 각도(근원심+협설) 측정으로 비축 0.22 vs 축방향 0.10 mm MBL(P<.05)을 보였고, 각도×대합치 상호작용에서 implant-FDP 대합 시 비축 페널티가 최대(Δ0.373 mm) — 명제 5의 implant-vs-implant stress concentration(Schulte)을 임상에서 재현. 선행 음성 결과(Koutouzis 2007 등)는 근원심 2D 각도만 측정한 한계로 재해석된다. 단 절대 MBL이 0.1–0.22 mm로 작아 임상적 유의는 별개. [claude해석] [근거강함—단일 후향연구 P값, 임상 의의 미확정]
 
 ## Results
 
@@ -51,6 +52,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 | 접촉 변화 | [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]] · [[occlusion/assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses]] | sr+ma·sr | 단관·고정성 모두 6-12개월 내 접촉 변동 |
 | 약교합 | [[occlusion/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective]] | prospective (n=50) | light occlusion 힘↓ 그러나 불안정; 장기 추적 필요 |
 | 과부하-골소실 | [[occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis]] | sr (7편) | 연관 시사, 근거 질 낮음 |
+| 식립 각도(geometry) | [[implants/kim-2026-implant-angulation-peri-implant-bone]] | retrospective (506개, 5.1y) | 비축 0.22 vs 축 0.10 mm MBL(P<.05); 상악>하악; 각도×implant-FDP 대합 상호작용 Δ0.373 mm |
 | 교합양식 FEA | [[occlusion/ambili-2024-parafunctional-loading-stress-tooth-implant-fea]] · [[occlusion/yesilyurt-2021-occlusion-concepts-hybrid-abutment-zirconia-fea]] | in-vitro(FEA) | 지지방식·교합개념이 응력분포 좌우 |
 | 보철 구성 위험 | [[occlusion/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative]] | narrative | full-arch 캔틸레버·재료·부기능 위험 |
 | 재료 피로 | [[occlusion/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns]] | in-vitro | 교합접촉 양상이 세라믹 크라운 피로수명 영향 |
@@ -62,6 +64,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 2. **교합양식** — 단관·소수 보철은 인접치 유도 활용; full-arch는 캔틸레버 최소화·재료·부기능 고려(Berzaghi 2025). 단일 우월 양식 근거는 약함.
 3. **정기 재점검** — 부하 후 0.5/3/6/12개월 교합 재평가(T-Scan/교합지). 접촉 변동·정출이 흔하므로 maintenance 필수(Mao/Assoratgoon/Stilwell).
 4. **bruxer** — [[overviews/bruxism-muscle-overload-axis]]의 과부하 보호(스플린트 우선) 연계. FEA상 tooth-implant 연결·부기능 하중이 응력 취약(Ambili 2024).
+5. **식립 각도·대합치** — 가능하면 축방향(prosthetically driven) 식립; 비축이 불가피하면 특히 상악·대합치가 임플란트 보철인 조합에서 교합 조정·각도 보정에 더 주의(Kim 2026). 각도는 근원심뿐 아니라 협설 방향까지 본다.
 
 ### 오판 패턴
 
@@ -91,3 +94,4 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 - [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]] — Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes … (cross-sectional, 2021)
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
+- [[implants/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
