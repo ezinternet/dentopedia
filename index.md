@@ -9,6 +9,14 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
+- [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
+- [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — Alenezi 2025 (SR+MA, 7 RCT/393pt): short(<8mm) vs long+SFE 위축 상악; MBL −0.26mm·biologic OR 0.39 short 우위, 생존 동등 (2025)
+- [[implants/torres-alemany-2020-clinical-behavior-short-implants]] — Torres-Alemany 2020 (SR+MA, 14편): short(≤8mm) length·diameter·C/I ratio 모두 생존·MBL에 무영향 (2020)
+- [[implants/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — Zhang 2024 (SR+MA, 5편/282 NDI): 전치부 상악 NDI vs RDI+골증대; 36mo ISR 동등(RR 0.989), soft-tissue dehiscence는 RDI에 더 흔함 (2024)
+- [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — Pachiou 2025 (SR+MA, 36편/2741 NDI): 구치부 고정성 보철 NDI 생존 상악 97.0%/하악 96.5%, 합병증은 technical 중심 (2025)
+- [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — Park 2023 (SR+MA, 8편): 하악 피개의치 NDI vs RDI; 생존·MBL 동등, 만족도·OHRQoL은 NDI 우위 (2023)
+- [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Cao 2023 (SR+MA, 7편/256 TiZr NDI): 단일크라운 Ti-Zr NDI 생존 97.5%·성공 97.2%, cpTi와 무차, 1y MBL 0.44mm (2023)
 - [[implants/kim-2026-dental-implant-osteoporosis-osteosclerosis]] — Kim 2026 (narrative review, 30편): 골다공증·골경화성 5병변 임플란트; 골다공증 단기 97.9–100%→5–10년 82.6–94.1%, 범발형 COD 66.7% vs 국소형 100% (2026)
 - [[implants/kim-2026-implant-angulation-peri-implant-bone]] — Kim 2026 (retrospective, 506 implants, 5.1y): CAD 3D 각도 측정; 비축방향 MBL 0.22 vs 축방향 0.10 mm (P<.05), 상악>하악, 비축×implant-FDP 대합 상호작용 Δ0.373 mm (2026)
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — Jepsen 2015 (consensus, 11th Eur Workshop): 점막염 관리=주위염 1차예방; 유병률 점막염 43%·주위염 22%; BoP 핵심 진단지표·정기 SPT
@@ -426,7 +434,9 @@ tags: []
 - [[sinus-lift/transcrestal/shalash-2023-crestal-sinus-elevation-densah-oblique]] — 전향적 연구(n=16, RBH 4–7mm, 경사진 동저): Densah bur 골밀도화 경치조골 거상 — 평균 거상 4.42mm·삽입토크 35.5Ncm·천공 1례·1년 100% 성공.
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — SR (36연구, 2,732 MSFA): 잔존골 ≥5mm = VSA, <5mm = LSA; 스토퍼·풍선·수압·내시경·현미경 — 모든 최소침습기법에서 충분한 골증량
 - [[sinus-lift/transcrestal/stuhr-2025-long-term-stability-transcrestal-sinus-augmentation]] — Periodontology 2000 내러티브 리뷰: TSFE 장기 안정성 결정 인자(환자선택·술기·술후 관리) 종합; 표준화 임상·결과보고 체크리스트 제안
-- [[sinus-lift/transcrestal/wu-2023-dynamic-navigation-transcrestal-sinus-floor]] — 후향적 파일럿 연구 (28명, 28개 임플란트, 베이징대학교 구강병원, 후방 상악 경치조골 상악동거상술 (Transcrestal Sinus Floor Elevation, TSFE)): 동적 네비게이션 (Dynamic Computer-Aided Implant Surgery, dCAIS) + 압전 (Piezoelectric) 기구 사용 시 각도 편차 3.66 ± 1.67°, 진입점 수평 편차 1.07 ± 0.69 mm, 첨단 수평 편차 1.09 ± 0.67 mm로, 비-TSFE dCAIS 정확도와 동등하며 술 직후 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT)에서 명백한 슈나이더 막...
+- [[sinus-lift/transcrestal/wu-2023-dynamic-navigation-transcrestal-sinus-floor]] — 후향적 파일럿 연구 (28명, 28개 임플란트, 베이징대학교 구강병원, 후방 상악 경치조골 상악동거상술 (Transcrestal Sinus Floor Elevation, TSFE)): 동적 네비게이션 (Dynamic Computer-Aided Implant Surgery, dCAIS) + 압전 (Piezoelectric) 기구 사용 시 각도 편차 3.66 ± 1.67°, 진입점 수평 편차 1.07 ± 0.69 mm, 첨단 수평 편차 1.09 ± 0.67 mm로, 비-TSFE dCAIS 정확도와 동등하며 술 직후 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT)에서 명백한 슈나이더 막...- [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]] — 후향 다기관(n=430, RBH≤5mm, retrospective): 조기 실패 2.8%; 협구개 상악동 폭 >12mm(OR 8.5)·막천공(OR 4.21)이 조기 실패 독립 위험인자; 천공률 좁은 동 1.1% vs 넓은 동 16.1% (2022)
+- [[sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr]] — SR(13편, 경치조골+측방창): CGF 단독·이식재 병용 모두 신생골·술후 후유증·생존 개선 경향이나 이질성·RCT 부족으로 확정 불가 (2024)
+- [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — SR+MA(22편/864 임플란트): 무이식 거상 동시식립 생존율 97.9%·수직 골증대 3.8mm; VBG 결정인자 = 술식·임플란트 길이·즉시 돌출길이(PILi, R² 83.9%) (2017)
 
 ## 상악동거상술 — 점액낭종·위낭종 (Sinus Lift: Pseudocyst / Mucous Retention Cyst)
 - [[sinus-lift/pseudocyst/anitua-2021-mucous-cysts-pseudocysts-implants-sr]] — SR (Anitua 그룹, Med Oral 2021): 상악동 MRC/pseudocyst가 implant·sinus lift outcome 위험인자인가 — 임상적으로 유의한 위험 증가 미입증. 결정 트리 1단계 anchor
@@ -941,6 +951,7 @@ tags: []
 
 ## 종합 (Overviews)
 - [[overviews/bone-quality-implant-risk-modification-overview]] — synthesis(2026-06-09, 10편): 골질을 위험 축으로 묶음 — Lekholm-Zarb I–IV / Misch D1–D4, type IV ~1.5–1.9× 실패(ISQ 58–65 vs 72–80), 치조정 피질골 두께가 안정성 핵심, 수정 레버(under-drill·tapered·diameter>length·OD·bioactive surface·delayed loading), 전신/병적 골(골다공증·골경화성) 확장
+- [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — synthesis(2026-06-10, 4편): NDI(<3.75mm) 적응증별 종합 — 전치부 상악·구치부 고정성보철·하악 피개의치·TiZr 단일크라운 모두 RDI와 생존·MBL 동등, PROM·심미합병증은 NDI 우위. 핵심 논리는 "골증대 회피"; 잔여 리스크는 생존 아닌 technical 합병증(≤23.5%), biological 데이터 공백
 - [[overviews/implant-length-selection-why-not-always-short]] — synthesis(2026-06-10, 7편): "숏이 되는데 왜 긴 걸 쓰나"에 답 — 생존율은 숏(≤8mm)=긴 임플란트(Yu·Anitua·Zhang), MBL·생물학적 합병증은 숏 우세. 긴 쪽/골증대를 택하는 진짜 이유 4가지(잔존골고 RBH·치관임플란트비 C/I·교합부하·얇은 5년 근거 Yu RR 0.970·Mester p=0.07)로 결정 트리화; 길이가 아니라 부위가 길이를 정함
 - [[overviews/glass-ionomer-clinical-decision-overview]] — synthesis(2026-06): GIC 8편 통합 — 적응증(수복·luting·sealant 지지, liner/base 논쟁)·하중부 허용·유치 HVGIC≈composite·longevity 근거품질 한계·Ca/P 생체활성 개질·CGIC<RMGIC 세포독성
 - [[overviews/evidence-appraisal-toolkit]] — 근거 평가·통계방법론 10편 합성 (2026-05-22 신설 카테고리, 2026-05-23 cheatsheet 추가): 5축 (SR/MA 방법론 4편 + 효과측정치 3편 + 검정 선택 1편 + 빠른 참조 1편 + 흔한 오류 1편); 치과 RCT/SR 읽을 때 체크리스트; CLAUDE.md "method/procedure" 분류 원칙 적용
@@ -1809,3 +1820,28 @@ tags: []
 
 ### Overview (added 2026-06-10)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — 위축 상악 구치부 short implant vs 상악동거상 의사결정 종합(SR/MA 6 + PROM 1): 생존 동등·short MBL 우위·이환 낮음 → RBH·C/I비·환자경험이 결정축, ≥5yr 근거는 thin·low-certainty
+
+### Batch ingest (added 2026-06-10, batch b) — short-implant long-term / primary-stability determinants / miniscrew stability
+
+#### sinus-lift/lateral & implants — short implant vs sinus augmentation (overview 보강)
+- [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — Thoma 2024 · rct 10년(77pt/105impl): 6mm vs 11–15mm+SFE 생존 96.0% vs 100%(NS)·중앙 MBL 0.00mm·주위염 4.2% vs 13.3% → 단기보다 강한 장기 anchor
+- [[implants/xu-2020-short-vs-longer-implants-posterior-5year-sr-ma]] — Xu 2020 · sr+ma ≥5년: 하악 short≈long, 상악 short 생존 더 낮을 수 있음, 생물학적 합병증 적음 (부위 의존성)
+- [[implants/emfietzoglou-2024-short-implants-6mm-survival-posterior-edentulism-sr]] — Emfietzoglou 2024 · sr(RCT): ≤6mm vs >6mm 거친표면, 골재생 대안으로서 생존·MBL·주위염 평가
+- [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — Arbildo-Vega 2025 · umbrella(60 SR): 생존·실패·보철 합병증 유의차 없음, short가 MBL·생물학적 합병증 적음(high-confidence)
+
+#### implants & implants/isq — primary stability 결정요인 (macrogeometry·undersizing·cortical bone)
+- [[implants/heimes-2023-macrogeometry-primary-stability-implants-narrative-review]] — Heimes 2023 · narrative-review: macrogeometry(직경·테이퍼·나사·거친표면)가 골접촉 면적·일차안정성 결정
+- [[implants/di-stefano-2018-undersizing-tapping-bic-primary-stability-bovine-histomorphometric]] — Di Stefano 2018 · in-vitro(소 늑골): 토크-깊이 적분이 tapped·undersized 부위에서도 BIC·안정성 반영, undersizing-안정성 선형
+- [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — Capparé 2015 · prospective(in vivo): 순간 토크측정 모터 토크/깊이 적분과 초기 BIC 상관 (webpage capture, 수치 미검증)
+- [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — Nkenke 2003 · in-vitro(인체 cadaver, 48impl): 일차안정성-CT 골밀도·histomorphometry 상관 (고전 anchor, webpage capture)
+- [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — Al-Juboori 2024 · sr: 두꺼운 cortical bone이 일차·이차 안정성 모두 향상(IT·ISQ 상승)
+- [[implants/leblebicioglu-kurtulus-2022-fea-implant-design-bone-density-stress]] — Leblebicioğlu Kurtuluş 2022 · in-vitro(FEA): D4 저밀도골·cortical 두께 감소가 임플란트 주위 응력 증가, 나사 설계·지대주 각도가 응력분포 좌우 (webpage capture)
+- [[implants/hussein-2019-thread-depth-implant-shape-stress-mandible-fea]] — Hussein 2019 · in-vitro(FEA): 경부 crestal cortical bone에 최대 응력, tapered body가 cylinder보다 peak von Mises 응력 높음 (macrogeometry trade-off)
+- [[implants/chang-2024-optimization-implant-design-bone-quality-fea]] — Chang 2024 · in-vitro(FEA 최적화): D3·D4에서 thread depth 증가가 crestal 응력 ~40%·변위 ≥9% 감소(D2는 효과 미미) — 골질별 설계 최적화
+
+#### orthodontics — miniscrew(TAD) primary stability
+- [[orthodontics/marquezan-2012-bmd-primary-stability-miniscrews]] — Marquezan 2012 · in-vitro: cortical BMD만 미니스크류 IT·일차안정성과 상관(r=0.713), CBCT-DEXA 골밀도 강한 상관(r=0.866)
+- [[orthodontics/marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma]] — Marquezan 2014 · sr+ma(12편): 미니스크류 일차안정성-cortical thickness 양의 상관(r=0.409, 인간 r=0.338)
+
+### Overview (added 2026-06-10, batch b)
+- [[overviews/implant-design-bone-quality-stress-fea]] — 임플란트 macro-design × 골질 → 주위 응력 FEA 종합(5편): 치조정 피질골 응력 집중은 보편, 저밀도골(D3/D4)일수록 응력↑, thread depth가 최적화 레버(D3/D4 −40%), taper는 안정성-응력 trade-off. (기존 bone-quality·isq·miniscrew overview는 신규 결정요인 논문으로 갱신)
