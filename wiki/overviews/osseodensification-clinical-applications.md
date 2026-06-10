@@ -18,6 +18,11 @@ source_papers:
   - wiki/implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.md
   - wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary.md
   - wiki/implants/neiva-2018-effects-osseodensification-astra-tx-ev.md
+  - wiki/implants/el-kholey-2019-drilling-technique-low-density-bone-sr.md
+  - wiki/implants/tabassum-2021-undersized-axial-compression-primary-stability.md
+  - wiki/implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.md
+  - wiki/sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct.md
+  - wiki/sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot.md
   - wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw.md
   - wiki/implants/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw.md
   - wiki/implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation.md
@@ -219,6 +224,11 @@ graph LR
 - [[sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification]] — TSFE 천공률 7.31%, RBH≤3mm 위험
 - [[sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation]] — OD vs 피에조 RCT
 - [[sinus-lift/transcrestal/ragher-2026-infrasinus-residual-ridge-height-cbct-indirect-sinus]] — CBCT가 RBH 1.86mm 과소평가
+- [[implants/el-kholey-2019-drilling-technique-low-density-bone-sr]] — SR (15편): undersized·osteotome·Piezo·OD 모두 일차안정성↑이나 장기 생존 우월 근거 약함 (OD claim 한정)
+- [[implants/tabassum-2021-undersized-axial-compression-primary-stability]] — animal: 측방(undersized)+축방향 압축 결합 IT·%BIC↑ (OD 대안 압축술식)
+- [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersized는 PCF-20에서만 효과, 최저밀도 한계 + macrogeometry 보완
+- [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — RCT: 경치조 OD+ozone gel 보조제 골치수 null
+- [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — pilot: 경치조 OD+이식재 +6.65mm 골고, 12mo 수축 0.90mm, 성공률 100%
 - [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
