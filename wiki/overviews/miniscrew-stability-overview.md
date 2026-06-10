@@ -92,3 +92,5 @@ tags: [orthodontics, miniscrew, tad, temporary-anchorage-device, failure, reuse,
 - [[orthodontics/jkda-2023-61-6-003]] — Retrospective study (가천대 길병원 교정과, JKDA 2023, n=438): 한국 매복치 환자 특성 + 매복 상악 견치 견인 성공률·치료기간에 영향 미치는 인자 (570 case). (retrospective, 2023)
 - [[orthodontics/katyal-2024-success-rate-factors-affecting-stability]] — SR+MA (14 studies, n=1683 infrazygomatic crest miniscrews): pooled success 92% (95% CI 87–95%; I²=80%), rising to 94% in studies with >100 screws … (sr+ma, 2024)
 - [[orthodontics/valeri-2024-impact-patient-attributes-implant-characteristics]] — SR+MA (15 studies, 1981 patients, 3272 orthodontic mini-implants in young adults): success broadly consistent across demographics … (sr+ma, 2024)
+- [[orthodontics/marquezan-2012-bmd-primary-stability-miniscrews]] — in-vitro: cortical BMD (not trabecular/total) drives miniscrew IT/primary stability (r=0.713); CBCT≈DEXA (r=0.866). (in-vitro, 2012)
+- [[orthodontics/marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma]] — SR+MA (12 studies): positive miniscrew stability–cortical thickness association (r=0.409; human r=0.338) → cortical thickness as site-selection criterion. (sr+ma, 2014)
