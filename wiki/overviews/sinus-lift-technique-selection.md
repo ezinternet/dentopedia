@@ -6,7 +6,10 @@ date: 2026-05-18
 type: overview
 category: [overviews]
 tags: [sinus-lift, lateral-window, transcrestal, RBH, residual-bone-height, osseodensification, membrane-perforation, schneiderian, graft-material]
-source_papers: 
+source_papers:
+  - wiki/sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh.md
+  - wiki/sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma.md
+  - wiki/sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr.md
 confidence: synthesis
 source: synthesis
 ---
@@ -77,6 +80,7 @@ CBCT RBH 측정
 | Confidence | 결론 |
 |---|---|
 | **sr+ma (18 studies)** [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] | TSFE 1년 생존율: **비이식 97% vs 혈소판농축물 99%, 유의차 없음** |
+| **sr+ma (22 studies, 864 implants)** [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] | 무이식 거상(측방창+경치조골) 동시식립 **생존율 97.9%, 수직 골증대 3.8mm**; VBG 최대 결정인자 = 즉시 돌출 임플란트 길이(PILi, R² 83.9%) |
 
 [근거강함] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생.
 
@@ -100,23 +104,26 @@ CBCT RBH 측정
 | **sr+ma** | [[sinus-lift/lateral/diaz-olivares-2021-schneiderian-membrane-perforation-sinus-lift]] | **천공률 30.6%; 봉합 후 생존 97.68% vs 무손상 98.88% — 유의차 없음** |
 | **sr+ma** | [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] | 격벽 존재 → 천공 OR >2; **측벽 두께 >2mm → 천공 위험 증가** |
 | **animal** | [[sinus-lift/lateral/lim-2026-reentry-sinus-elevation-membrane-perforation]] | 대천공(≥10mm) 후 8주 재시도 시 신생골 면적 유의 감소 (5.8 vs 10.5 mm², p<0.05) |
+| **retrospective(n=430)** | [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]] | **협구개 상악동 폭 >12mm가 천공·조기실패 양쪽의 독립 위험인자** (천공 좁은 동 1.1% vs 넓은 동 16.1%, OR 15.5; 조기실패 OR 8.5) |
 | **narrative-review** | [[sinus-lift/lateral/park-2025-maxillary-sinus-hypoplasia-implant-review]] | 상악동 저형성 (MSH) 3가지 변형 — CBCT 3D 진단 필수 |
 
 **결론** [근거강함]:
 - 천공 자체는 결과를 결정하지 않는다. **봉합 가능 여부**가 결정.
 - 격벽·측벽 두께 >2mm는 사전 CBCT로 식별 필요한 핵심 위험 신호.
+- **협구개 상악동 폭 >12mm (넓은 동)**도 핵심 위험 신호 — TSFE RBH≤5mm에서 천공률 16.1% vs 좁은 동 1.1%, 조기실패까지 독립 예측 (Stacchi 2022 retrospective n=430). 넓은 동은 골벽-임플란트 거리 증가로 골형성 잠재력 자체가 낮음. [합의수준]
 - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 골형성 50% 감소 — **2단계로 전환 권장** [claude해석].
 - MSH 의심 시 CBCT 3D 재구성 필수.
 
 ### 3.2 사전 CBCT 체크리스트 [합의수준]
 
-CBCT에서 반드시 확인할 5항목:
+CBCT에서 반드시 확인할 6항목:
 
 1. **RBH (잔존골 높이)** — 5mm 기준
 2. **격벽 (Septa) 유무·위치** — 천공 위험 OR >2
 3. **측벽 두께** — >2mm 천공 위험 신호
-4. **막 두께·점막부종·낭종** — 부비동염 의심 시 ENT 의뢰
-5. **저형성 (Hypoplasia) 변형** — 만성 무기폐·하비도 함기화·사골상악동
+4. **협구개 상악동 폭 (SW)** — 10mm 높이에서 측정, >12mm = 넓은 동 → 천공·조기실패 위험 (Stacchi 2022)
+5. **막 두께·점막부종·낭종** — 부비동염 의심 시 ENT 의뢰
+6. **저형성 (Hypoplasia) 변형** — 만성 무기폐·하비도 함기화·사골상악동
 
 ---
 
@@ -132,7 +139,7 @@ CBCT에서 반드시 확인할 5항목:
 
 [근거강함] **이식재 종류는 생존율·최종 ISQ에 영향 없음.** 결정화도 (Crystallinity) 가 높으면 ISQ 회복이 빨라짐. 임상 선택은 흡수 프로파일과 비용 기준.
 
-**신규 근거 (2026-06) — 경치조골(TSFE/OSFE) "graft 무용론" 강화**: Sansupakorn 2024 RCT(OSFE, BCP graft vs no-graft)와 Volpe 2022(혈병·collagen sponge)·Zhao 2018 RCT는 경치조골 거상에서 **이식재 없이 혈병/공간유지만으로도 임플란트 생존·골형성이 동등**함을 시사. RBH가 충분한 TSFE에서 routine grafting의 부가가치는 제한적. [합의수준] (단, 측방창·저 RBH에는 외삽 주의)
+**신규 근거 (2026-06) — 경치조골(TSFE/OSFE) "graft 무용론" 강화**: Sansupakorn 2024 RCT(OSFE, BCP graft vs no-graft)와 Volpe 2022(혈병·collagen sponge)·Zhao 2018 RCT는 경치조골 거상에서 **이식재 없이 혈병/공간유지만으로도 임플란트 생존·골형성이 동등**함을 시사. RBH가 충분한 TSFE에서 routine grafting의 부가가치는 제한적. [합의수준] (단, 측방창·저 RBH에는 외삽 주의) **상위 근거 보강**: Duan 2017 SR+MA(22편/864 임플란트, 측방창+경치조골 포괄)가 무이식 거상 동시식립 생존율 97.9%·VBG 3.8mm를 정량화 — graft-free 근거를 sr+ma 수준으로 격상. [근거강함] 한편 생물학적 보조재(CGF) 측면에서 Al-Aroomi 2024 SR(13편)은 CGF가 신생골·술후 후유증을 개선하는 경향을 보고하나 이질성·RCT 부족으로 확정 불가 — 이식재 무용론과 보조재 효용은 별개 축으로 해석. [claude해석]
 
 ### 4.2 차폐막 사용
 
@@ -233,3 +240,6 @@ CBCT에서 반드시 확인할 5항목:
 - [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Prospective study (n=126 implants, 123 patients) showing Bio-Oss Collagen + CGF outperforms no-graft and Bio-Oss alone in OSFE for RBH ≤5 mm: ISR 96%, … (prospective, 2024)
 - [[sinus-lift/transcrestal/volpe-2022-osteotome-blood-clot-collagen-sponge-atrophied-maxilla]] — Retrospective (n=36 implants, 2006–2014): OSFE without graft using collagen sponge only achieves 97.2% survival and ISQ 73–76 at 5–13 years mean 8.5 y … (retrospective, 2022)
 - [[sinus-lift/transcrestal/zhao-2018-transalveolar-osteotome-sinus-floor-rct-protocol]] — RCT protocol (n=120, NCT03445039) comparing osteotome-TSFE vs modified drill-TSFE ± bone graft in posterior maxilla; RFA tracked 6× over 26 weeks. (rct, 2018)
+- [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]] — Retrospective multicenter (n=430, RBH≤5mm): early implant failure 2.8%; bucco-palatal sinus width >12mm (OR 8.5) and membrane perforation (OR 4.21) are the only independent predictors; perforation narrow 1.1% vs wide 16.1%. (retrospective, 2022)
+- [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — SR+MA (22 studies, 864 implants): graft-free SFE with simultaneous placement → ISR 97.9%, VBG 3.8mm; PILi explains 83.9% of VBG variance. Foundational graftless evidence. (sr+ma, 2017)
+- [[sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr]] — SR (13 studies, transcrestal+lateral): CGF appears to enhance new bone formation, reduce sequelae, support survival, but heterogeneous and RCT-poor. (sr, 2024)
