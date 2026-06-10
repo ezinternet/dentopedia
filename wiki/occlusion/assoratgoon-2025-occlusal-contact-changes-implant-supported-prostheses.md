@@ -4,7 +4,7 @@ authors: Itt Assoratgoon, Ramadhan Hardani Putra, Hiroki Hihara, Tetsuo Kawata, 
 year: 2025
 date: 2025-01-01
 doi: 10.1111/joor.70015
-source_wiki: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.md
+source: assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses.md
 category:
   - occlusion
 confidence: sr
