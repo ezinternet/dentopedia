@@ -18,7 +18,7 @@ tags: [navigation, home]
 
 chairside 계산기·의사결정 트리·시뮬레이터 **23편** (ISQ·RFA 부하결정, 골밀도화, 약물 결정트리, 환자 설명가이드, 우식·침식 위험도 등) — wiki 근거에 연결된 자체완결 HTML 도구.
 
-<a class="cta-tab" href="https://ezinternet.github.io/llm-wiki/interactives/">🦷 Interactive Tools 색인 열기 →</a>
+[🦷 Interactive Tools 색인 열기 →](https://ezinternet.github.io/llm-wiki/interactives/)
 
 (모든 페이지 하단 footer에도 링크 있음)
 

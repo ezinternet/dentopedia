@@ -25,8 +25,10 @@
 }
 
 // ── 본문 CTA 링크를 색깔 탭(버튼)처럼 ─────────────────────────────
-// wiki/index.md 의 "Interactive Tools 색인 열기" 링크에 부착.
-a.cta-tab {
+// Quartz 가 raw HTML 의 class 를 sanitize 로 제거하므로, class 대신
+// href 로 직접 타깃. 본문(.center article) 안에서 /interactives/ 로
+// 끝나는 링크만 → footer 의 동일 링크는 article 밖이라 영향 없음.
+.center article a[href$="/interactives/"] {
   display: inline-block;
   background: var(--secondary);
   color: var(--light) !important;
@@ -43,9 +45,8 @@ a.cta-tab {
     transform: translateY(-1px);
   }
 
-  // Quartz 가 external 링크에 붙이는 아이콘 제거 (탭 모양 유지)
-  &::after {
+  // Quartz 가 external 링크에 붙이는 화살표 아이콘 숨김 (탭 모양 유지)
+  & .external-icon {
     display: none !important;
-    content: "" !important;
   }
 }
