@@ -542,7 +542,19 @@ tags: []
 - [[endodontics/anatomy/sujith-2014-microscope-ultrasonic-mb2-detection-vivo]] — In vivo 60명(상악 제1대구치): MB2 발견율 — 육안 20% → DOM 55% → DOM+초음파 70%; 단계적 프로토콜 통계적 유의(p<0.001)
 - [[endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr]] — SR+MA (14개 CBCT 연구, 35,929치): 한족 상악 제1대구치 MB2 유병률 63.7%, 제2대구치 23.3% — 남성이 유의하게 높은 오즈비 (OR 1.53–1.79), 이분산성 매우 높음.
 
+## 근관치료 — 진단 (Endodontics: Pulp & Periapical Diagnosis)
+
+### endodontics/diagnosis (NEW category, added 2026-06-12, batch j)
+- [[overviews/endodontic-pulp-periapical-diagnosis-overview]] — **Overview**: 치수·근단 진단 종합(4편) — reference standard 부재로 진단정확도 한계, vitality>sensibility, 소아 동일 논리, 미진단 괴사→근단병소 (2026)
+- [[endodontics/diagnosis/donnermeyer-2023-effectiveness-of-diagnosing-pulpitis-a]] — Donnermeyer 2023 · sr · ESE 위촉 28편 — pulpitis 진단 효과 낮음(reference standard 부재); 다검사 "diagnostic package" 권고 (DOI 10.1111/iej.13762)
+- [[endodontics/diagnosis/patro-2022-diagnostic-accuracy-of-pulp-vitality]] — Patro 2022 · sr+ma · 정성10/MA5 — 통합 DOR: 맥박산소계측 628.5 ≫ cold 17.24 > EPT 10.75 > heat 3.47; 고품질 연구 없음 (DOI 10.3390/ijerph19159599)
+- [[endodontics/diagnosis/igna-2022-diagnostic-insight-of-dental-pulp]] — Igna 2022 · narrative-review · 소아 치수검사 — sensibility test 비권고, 유치·미성숙영구치엔 vitality test 선호 (DOI 10.3390/medicina58050665)
+- [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — Karamifar 2020 · narrative-review · 근단병소 병인·진단·치료 overview; 조직병리 표준, CBCT/MRI/echography 육아종-낭종 감별 유망 (DOI 10.14744/eej.2020.42714)
+
 ## 치주치료 (Periodontics)
+- [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — Herrera 2018 · narrative-review · 2017 WW 급성 치주병변 분류 — 치주농양(병인별)·괴사성 치주질환(숙주면역)·치수치주복합병변(파절·천공·치주염 유무) (DOI 10.1002/JPER.16-0642)
+- [[periodontics/jepsen-2018-periodontal-manifestations-of-systemic-diseases]] — Jepsen 2018 · consensus · 2017 WW workgroup 3 — 전신질환 치주발현 + 치은점막·교합력·보철인자 1999 분류 업데이트 (DOI 10.1002/JPER.17-0733)
+- [[periodontics/sharma-2014-endodontic-periodontal-microsurgery-for-combined]] — Sharma 2014 · narrative-review · 복합 endo-perio 병변 미세수술(근관 미세수술+골이식+차폐막+유두보존 1차폐쇄) (DOI 10.4103/0972-0707.144571)
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — Caton 2018 (2017 World Workshop, AAP/EFP): 현행 치주·임플란트주위 질환 분류 — 치주염 stage I-IV·grade A-C, 주위 건강/점막염/주위염 정의
 - [[periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct]] — Eliane Barboza 2014 (Implant Dent) · rct · 의도적 노출 d-PTFE 막이 임플란트 전 각화치은(KT) 폭 증가 — 시험군 +6.6~7.1mm vs 대조군 +1.4~2.5mm (60·90일); 막을 KT 증대 도구로 재해석
 - [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — Evidence-based hierarchy: non-surgical therapy primary, surgery adjunctive only; mandatory re-evaluation 4–6 weeks post-SRP before surgical consideration; SPT required indefinitely
@@ -931,6 +943,7 @@ tags: []
 - [[endodontics/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치 VPT — Ca(OH)2 한계를 MTA·Biodentine·BioRoot(HCSC)로 극복하는 contemporary framework + AAPD 한국 적용
 
 ## 근거 평가·통계방법론 (Evidence Appraisal / Biostatistics Methodology)
+- [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Singh 2026 · narrative-review(editorial) · 통계적 유의 ≠ 임상적 유의; 표본·검정력 부족이 실제 효과 은폐; effect size·CI·임상관련성으로 해석 (DOI 10.4103/JCDE.JCDE_504_26)
 - [[evidence-appraisal/kiriakou-2014-evidence-based-dentistry-skills-interpret]] — Progress Orthod 2014, narrative review: 치과의사용 EBD 5단계 + RCT/SR critical appraisal 입문 (DOI 10.1186/s40510-014-0058-5)
 - [[evidence-appraisal/shin-wj-2015-systematic-review-meta-analysis-introduction]] — Hanyang Med Rev 2015, 한국어: SR/MA full pipeline — 검색·선정·질평가·effect size·I²·고정/랜덤·funnel/Egger (DOI 10.7599/hmr.2015.35.1.9)
 - [[evidence-appraisal/shin-ih-2009-meta-analysis-critical-interpretation]] — 2009 대한간학회 추계학술대회 강의(한국어): MA 개념·전제·heterogeneity·publication bias 입문
@@ -1002,6 +1015,17 @@ tags: []
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 유발 골흡수가 cyst로 오인 — CBCT 감별진단·history-taking 중요성
 - [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
 - [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR(PROSPERO): BMS 혀 생검 신경섬유밀도 30–60%↓, TRPV1·P2X3·NGF·Nav1.7 변화 — 소섬유신경병증(SFN)이 핵심 병태생리 (2024)
+- [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — Cochrane SR+MA (35 RCT, 1474명): 국소 스테로이드가 위약보다 OLP 통증 해소 우월 가능(RR 1.91, 95% CI 1.08–3.36, 낮은 근거); 타크롤리무스가 클로베타솔보다 통증에 나을 수 있음(매우 낮은 근거) (2020)
+- [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 치료 효능+비용 비교 — 스테로이드가 효능-비용 기준, 타크롤리무스 효과적이나 고가; 문헌 비용 보고 비일관 (BMC Oral Health 2022)
+- [[oral-medicine/warnakulasuriya-2018-opmd-clinical-features-review]] — 내러티브 리뷰: OPMD 전 스펙트럼 임상양상(백반증·홍반증·OSF·OLP·태선양/GvHD) — 임상 아형분류·필수 조직검사·적시 의뢰 (OOOO 2018)
+- [[oral-medicine/kumari-2022-opmd-etiology-pathogenesis-transformation]] — 내러티브 리뷰: OPMD 병인·이형성→암 전환 경로 — 담배/아레카/알코올·미생물·HPV; OED 등급이 핵심 악성전환 예측인자 (Front Pharmacol 2022)
+- [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — 내러티브 리뷰: 구강 아프타 병태생리·세 형태(소·대·포진형)·감별진단; 국소 스테로이드 1차·진행 시 전신제 치료 단계 (Arch Razi Inst 2021)
+- [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — 내러티브 리뷰: PFAPA(소아 최다 주기열) 병인 — 유전 감수성 좌위가 베체트병/재발성 아프타와 연결, 기준 미충족 환자도 편도절제술 효과 (Curr Opin Rheumatol 2023)
+- [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — SR (5편, 364명, 평균 7.6세): 1차 헤르페스 치은구내염(PHGS) — 조기 아시클로버의 약한 근거만, 합의 치료법 부재; ~72h 진단지연이 효능 저해 (Clin Oral Investig 2023)
+- [[oral-medicine/mancini-2025-oral-herpes-treatment-sr]] — SR (PRISMA, 2005–2025): 구강 HSV — 국소제는 조기 적용 시 병변기간 단축하나 재발 미감소; 전신 항바이러스제(아시클로버·발라시클로버·팜시클로버)는 해소·재발 예방 (IJMS 2025)
+- [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — 약리 리뷰: 항-HSV-1 약물 60년 업데이트 — 뉴클레오시드 유사체·헬리카제-프라이메이스 억제제·면역조절제; 내성 문제와 부재한 백신 (Front Pharmacol 2025)
+- [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
+- [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] — 미니리뷰: 구강 만성 GVHD(동종 HCT 30–50%) — 태선양 점막염·타액선 기능저하·조직경화 3주체, NIH 2014 기준, 국소→전신 면역억제 (Front Oral Health 2022)
 
 ## 구강안면통증·통증 신경기전 (Orofacial Pain — Nociception Mechanisms)
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — Narrative review: NKCC1/KCC2 음이온 수송체가 GABA-A·glycine 억제를 좌우; 탈억제(disinhibition)성 통각과민·이질통 기전 — topical clonazepam 근거 (2009)
@@ -1219,6 +1243,9 @@ tags: []
 - [[behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct]] — Pandey 2025 · observational(n=76) · 성인 근관치료 중 HR↑(국소마취·드릴링); 과거 부정경험이 불안↑(p=0.018). ※RCT=root canal treatment
 - [[behavioral-dentistry/dental-anxiety/jkda-2021-60-1-003]] — Review (연세대 정지은, JKDA 2022): 성인 dental phobia 외래 의사소통·sedation·전신마취 단계적 framework
 
+#### body-dysmorphic-disorder (NEW subcategory, added 2026-06-12)
+- [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
+
 ## 시린이 (Dentin Hypersensitivity)
 - [[dentin-hypersensitivity/jkda-2022-60-4-003]] — Review (강남세브란스+서울대 보존과, JKDA 2022): DH prevalence(8-57%)·진단·치료(at-home+in-office+restorative)·미래 — JKDA DH 특집 1번
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — Clinical management (경희대 보존과 장지현, JKDA 2022): DH 외래 의사결정 ladder — 1차 at-home → 2차 in-office sealing → 3차 restorative
@@ -1295,6 +1322,10 @@ tags: []
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (2026-06-01 신설, 8편): 근거 2층 구조 — in-vitro 결합강도 강함(Hardan 2022 SR+MA 21편·Magne 2005/2007·Abo-Alazm 2022 universal+치수압) ↔ 임상 POS 정면충돌(Alghauli 2025 11편 감소 P<.05+survival 우위 vs Josic 2022 4편 GRADE low 차이없음). 결론: 간접수복 표준 채택 정당화하나 환자에게 POS 감소 약속 금지.
 - [[overviews/nccl-etiology-diagnosis-management-overview]] — 비우식성 치경부 병소(NCCL) 종합 (2026-06-07 신설, 16편): 병인=stress·friction·biocorrosion 다인성(Grippo 2012 schema·Roberts 2022 demineralization), abfraction 단독원인설 미입증(Nascimento 2016) but SEM microfracture 일부 관찰(Worawongvasu 2021); 무증상 ≥6mo monitoring 원칙; 수복 시 유지력=접착·산부식 단계 의존 — universal adhesive E&R≈SEE(Peumans 2023 RCT 251), selective enamel etching 유리(Omoto 2025 RCT 200), self-adhesive flowable 6mo 33% 실패(Celik 2015). 병인·진단·관찰vs수복 의사결정 ladder.
 ## 교합 (Occlusion)
+- [[overviews/occlusal-trauma-periodontitis-overview]] — **Overview**: 교합외상·치주염 종합(4편) — 교합은 발병원인 아닌 수식인자, 스플린팅 생존이득 없음, 교합조정 선택적·제한이득, PDL 확장은 감별폭 넓음 (2026)
+- [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]] — Fan 2018 · narrative-review · 2017 WW 교합외상 case definition; primary occlusal trauma는 부착소실 유발 안 함, 치주염 인과는 논쟁적 (DOI 10.1002/JPER.16-0581)
+- [[occlusion/dommisch-2022-efficacy-of-tooth-splinting-occlusal]] — Dommisch 2022 · sr · 스플린팅은 동요치 생존 개선 안 함(8.4% vs 10.1%); 교합조정은 CAL 개선 가능(근거 낮음) (DOI 10.1111/jcpe.13563)
+- [[occlusion/leone-2026-occlusal-overload-and-periodontitis-integrating]] — Leone 2026 · narrative-review(scoping) · 교합외상=수식인자(발병원인 아님); aMMP-8 biomarker; 선택적 교합개입 권고 (DOI 10.1155/ijod/9936924)
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — Synthesis 2026-06-03 (12편): 임플란트 교합 종합 — PDL 부재→하중 최소·분산; 접촉 6-12개월 변동; 약교합 불안정; 교합양식·캔틸레버 FEA 응력; 정기 재점검. bruxism-axis와 상보
 - [[occlusion/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective]] — Zhang 2022 (prospective, n=50, T-Scan): implant-protected occlusion — 약교합이 상대 교합력↓(4.91→10.34% vs 정상 10.45→18.15%)이나 시간 경과로 불안정
 - [[occlusion/zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis]] — Zhang Xueyang 2018 (narrative, 西华口腔, OCR): 무치악 임플란트 보철 교합 설계 — 응력·치조골·합병증·견치유도
@@ -1331,6 +1362,7 @@ tags: []
 - [[geriatric-dentistry/kumar-2025-nutritional-status-dry-mouth-older-adults]] — Kumar 2025 (SR+MA, 14편): 노인 구강건조-영양실조 강한 연관(xerostomia 38%·malnutrition 55%)
 
 ## 방사선 (Radiology / Dental Imaging)
+- [[radiology/mortazavi-2016-lesions-associated-with-periodontal-ligament]] — Mortazavi 2016 · narrative-review · PDL 확장 유발 병변 감별(교합외상·교정력·경피증·골육종·비호지킨림프종); 국소+골파괴면 악성 의심 (DOI 10.5624/isd.2016.46.4.229)
 - [[radiology/tay-2022-influence-cbct-endodontic-treatment-planning]] — Tay 2022 (SR, 16편, NUS): CBCT가 근관 치료계획 24-56% 변경; 고난도·재치료·치유평가서 정당화
 - [[radiology/brochado-martins-2025-cbct-outcomes-endodontic-treatment-retreatment]] — Brochado Martins 2025 (SR+MA, 19편, ACTA): CBCT 치유율 loose 87%/strict 36% — 루틴 CBCT 결과추적 불필요 가능성(비판적)
 - [[radiology/baena-2022-cbct-diagnostic-performance-root-resorption]] — Baena 2022 (SR+MA, 17편): CBCT 외흡수 진단 민감도 78.1%·특이도 79.3%; 유효선량 34-1073µSv(정확도-피폭 trade-off)
@@ -1845,3 +1877,38 @@ tags: []
 
 ### Overview (added 2026-06-10, batch b)
 - [[overviews/implant-design-bone-quality-stress-fea]] — 임플란트 macro-design × 골질 → 주위 응력 FEA 종합(5편): 치조정 피질골 응력 집중은 보편, 저밀도골(D3/D4)일수록 응력↑, thread depth가 최적화 레버(D3/D4 −40%), taper는 안정성-응력 trade-off. (기존 bone-quality·isq·miniscrew overview는 신규 결정요인 논문으로 갱신)
+
+## 환자 민원·컴플레인 관리 (Complaint Management) — NEW category (added 2026-06-12, batch complaint)
+
+- [[overviews/complaint-management-pipeline-classification-expectation-response-education]] — **Overview**: 분류→기대→대응→교육 4단계 파이프라인 + 치과 적용층 (17편 종합, 2026)
+
+### 분류 (Classification)
+- [[complaint-management/bmjqs-2013-002437]] — Systematic review of 59 studies (88,069 complaints) that synthesises 205 codes into a 7-category, 3-domain patient-complaint taxonomy. (2014) [sr]
+- [[complaint-management/bmjqs-2015-004596]] — Development and reliability study creating HCAT: 7 problem categories x 4 severity levels, plus stage-of-care and harm coding, validated on UK national complaint samples. (2016) [cross-sectional]
+- [[complaint-management/bmjopen-2019-033638]] — Reliability study coding 140 Danish emergency-care compensation claims with HCAT; high inter-assessor reliability but skewed domain coverage. (2019) [cross-sectional]
+- [[complaint-management/10.1177_13558196211029323]] — Retrospective linkage of 5 years of complaints and staff incident reports at a London hospital; overlapping cases (n=446) carried higher harm and revealed events staff missed. (2022) [retrospective]
+
+### 기대 (Expectations)
+- [[complaint-management/1472-6963-6-106]] — Survey of 424 hospital complainants showing the dominant goal is preventing recurrence; they prioritise impartial procedure, explanation over apology, and rarely seek money. (2006) [cross-sectional]
+- [[complaint-management/13104_2015_Article_1479]] — Paired surveys of 3,366 physicians and 1,422 public respondents revealing a large gap: the public expects complaint handling to go badly, physicians expect it to go well. (2015) [cross-sectional]
+- [[complaint-management/NOP2-5-224]] — Qualitative content analysis of patient complaints finding that poor communication, not being listened to, and disrespect dominate dissatisfying encounters. (2018) [cross-sectional]
+
+### 대응 (Response)
+- [[complaint-management/12913_2021_Article_6733]] — Discourse analysis of 59 NHS written complaint-responses showing they routinely use non-apologies ('fauxpology') and subjectivise grievances to evade responsibility. (2021) [cross-sectional]
+- [[complaint-management/pone.0325185]] — Mixed-methods study of UK hospital staff responding to online criticism, identifying six defensive tactics arising from contradictory work demands. (2025) [cross-sectional]
+- [[complaint-management/10.1177_2374373520967797]] — Mixed-methods project brief on radiation-oncology frontline managers, finding service recovery requires consistent measurement, feedback, and recurring leadership training. (2020) [cross-sectional]
+- [[complaint-management/medi-103-e37275]] — Observational study in Chinese grassroots hospitals showing a structured complaint-management system improved satisfaction and reduced complaints; satisfaction correlated with department and administrative office. (2024) [retrospective]
+- [[complaint-management/frhs-05-1610004]] — Case study of a Chinese tertiary-hospital service centre using an emotional-language analysis model of complaints to inform high-quality hospital development. (2025) [cross-sectional]
+- [[complaint-management/10.1177_01410768221098247]] — NHS Trust case study (20 staff interviews + documents) showing national complaint policies create muddled routes, validity-scrutiny, futile data collection, and adverse incentives that undermine improvement. (2022) [cross-sectional]
+
+### 교육 (Education)
+- [[complaint-management/10.1177_23743735251342611]] — Program description of CODE (Compassion, Operational Support, De-escalation, Empowerment): a dual-track curriculum pairing procedural/operational training with interpersonal communication training for complaint staff. (2025) [narrative-review]
+
+### 치과 적용 (Dental Applied)
+- [[complaint-management/ADJ-63-285]] — National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr); 4% of dentists generate 49% of complaints; most concern treatment. (2018) [retrospective]
+- [[complaint-management/JISPCD-14-295]] — Analysis of 56 adjudicated Indian dental negligence cases (2018-2022) in consumer courts, classifying allegations by negligence severity and examining compensation and settlement delay. (2024) [retrospective]
+- [[complaint-management/10-1055-s-0039-1700767]] — Narrative review of clinical malpractice in endodontics, cataloguing pre-, intra-, and post-operative errors (perforation, ledging, hypochlorite accidents, instrument fracture, no rubber dam) and their legal ramifications. (2019) [narrative-review]
+- [[complaint-management/kwon-2017-analysis-of-the-legal-effect]] — Korean court precedents (n=287) on aesthetic-surgery disputes: only 26.5% of covenant-not-to-sue settlements held; effectiveness turns on agreement content, and fee-free reoperations are not credited by courts. (2017) [retrospective]
+- [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]] — 40 Korean plastic-surgery SSI malpractice precedents; 85% plaintiff-won; liability driven by failed culture/treatment, no referral, poor infection control, and missing preoperative infection consent. (2016) [retrospective]
+- [[complaint-management/taniguchi-2023-characteristics-and-trends-of-medical]] — All 13,340 closed Japanese malpractice claims (2006-2021): 52.9% settled, 35.3% judged (75.8% favoring physicians), declining trend (OB/GYN drop post-2009 no-fault scheme). (2023) [cross-sectional]
+
