@@ -4,7 +4,7 @@
 
 // ── 좌측 Explorer: overviews 폴더를 색깔 탭처럼 강조 ─────────────
 // 종합(synthesis) 페이지 모음이라 다른 카테고리 폴더와 시각적으로 구분.
-.folder-container[data-folderpath="overviews"] {
+.folder-container[data-folderpath="overviews/index"] {
   background: var(--tertiary);
   border-radius: 6px;
   padding: 3px 6px;
