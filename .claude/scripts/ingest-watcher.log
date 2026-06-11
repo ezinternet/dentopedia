@@ -78,3 +78,7 @@ Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authenti
 [2026-06-06 17:39:18] New PDF detected: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
 [2026-06-06 17:39:20] Starting ingest for: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
 [2026-06-06 17:39:20] Starting ingest for: International Journal of Dentistry - 2022 - Volpe - Osteotome‐Induced Blood Clot and Subsequent Bone Formation with the Use.pdf
+[2026-06-10 18:24:32] === llm-wiki ingest watcher started ===
+[2026-06-10 18:24:32] === llm-wiki ingest watcher started ===
+[2026-06-10 18:24:32] Watching: /Users/oracleneo/llm-wiki
+[2026-06-10 18:24:32] Watching: /Users/oracleneo/llm-wiki
