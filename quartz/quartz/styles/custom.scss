@@ -1,3 +1,51 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+
+// ── 좌측 Explorer: overviews 폴더를 색깔 탭처럼 강조 ─────────────
+// 종합(synthesis) 페이지 모음이라 다른 카테고리 폴더와 시각적으로 구분.
+.folder-container[data-folderpath="overviews"] {
+  background: var(--tertiary);
+  border-radius: 6px;
+  padding: 3px 6px;
+  margin: 3px 0;
+
+  & .folder-title {
+    color: #fff;
+    font-weight: 600;
+  }
+
+  & svg.folder-icon {
+    stroke: #fff;
+  }
+
+  &:hover {
+    background: var(--secondary);
+  }
+}
+
+// ── 본문 CTA 링크를 색깔 탭(버튼)처럼 ─────────────────────────────
+// wiki/index.md 의 "Interactive Tools 색인 열기" 링크에 부착.
+a.cta-tab {
+  display: inline-block;
+  background: var(--secondary);
+  color: var(--light) !important;
+  padding: 0.5rem 1.1rem;
+  border-radius: 8px;
+  font-weight: 600;
+  text-decoration: none;
+  transition:
+    background 0.2s ease,
+    transform 0.1s ease;
+
+  &:hover {
+    background: var(--tertiary);
+    transform: translateY(-1px);
+  }
+
+  // Quartz 가 external 링크에 붙이는 아이콘 제거 (탭 모양 유지)
+  &::after {
+    display: none !important;
+    content: "" !important;
+  }
+}

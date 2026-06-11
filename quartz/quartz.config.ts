@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Dr. Suh's LLM Wiki — Dentistry",
+    pageTitle: "Dr. Suh's LLM Wiki — 치의학",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
