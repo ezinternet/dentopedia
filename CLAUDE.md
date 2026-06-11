@@ -122,6 +122,7 @@ All three tiers share the same stem:
 | `behavioral-dentistry/communication-relationship` | 행동치의학·커뮤니케이션 | Dentist–patient communication skills/training, dentist–patient relationship determinants, shared decision-making, patient expectation management |
 | `behavioral-dentistry/patient-reported-outcomes` | 행동치의학·환자보고결과 | PRO/PROM/PREM, OHRQoL, patient satisfaction/experience, behavioral assessment of the patient |
 | `behavioral-dentistry/dental-anxiety` | 행동치의학·치과불안 | Dental anxiety/fear/phobia assessment & management (pediatric + adult), behavior-rating scales, non-pharmacological strategies |
+| `behavioral-dentistry/body-dysmorphic-disorder` | 행동치의학·신체이형장애 | Body dysmorphic disorder (BDD) prevalence & screening in esthetic-procedure candidates, preoperative psychological evaluation, patient selection for cosmetic/esthetic dentistry, BDD-driven postoperative dissatisfaction |
 | `radiology` | 방사선학 | CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols |
 | `oral-medicine` | 구강내과 | Oral mucosal diseases — leukoplakia, oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), malignant transformation risk |
 | `orofacial-pain` | 구강안면통증·통증 신경기전 | Nociception/neuropathic-pain molecular mechanisms underlying orofacial pain & BMS — chloride homeostasis (NKCC1/KCC2), GABA-A/glycine disinhibition, peripheral nociceptor ion channels (anoctamin/TMEM16, TRPV1, Nav), T-type Ca²⁺ channels, neurosteroid modulation. (BMS clinical/diagnostic papers → `oral-medicine`) |
@@ -143,6 +144,7 @@ All three tiers share the same stem:
 | `dental-erosion` | 치아침식 | Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention |
 | `nccl` | 비우식성 치경부 병소 | Noncarious cervical lesions / abfraction — morphology (saucer/V-shape), progression (D/H ratio), prevalence, multifactorial etiology (stress/friction/biocorrosion schema), demineralization pathophysiology, SEM/stereomicroscopic characterization, monitor-vs-restore decision. (NCCL adhesive-restoration RCTs → `resin-bonding`) |
 | `food-impaction` | 식편압입·치간이개 | Food impaction & proximal/interproximal contact loss (PCL/ICL) between implant prostheses (or natural teeth) and adjacent teeth — prevalence, risk factors, mesial>distal pattern, time-progression, clinical implications (caries, periodontal), management. (natural-tooth open contact, plunger cusp, marginal-ridge contour included) |
+| `complaint-management` | 환자 민원·컴플레인 관리 | Patient complaint science — complaint classification taxonomies (Reader taxonomy, HCAT) & reliability, complainant expectations & fairness (justice theory), complaint-response quality (defensive tactics, fauxpology), service recovery, staff training (CODE), national complaint policy, dental-specific complaints/malpractice/medico-legal. (general healthcare + dental applied) |
 | `overviews` | 종합 | Synthesis pages spanning multiple categories |
 
 Classify by **method/procedure**, not by disease or anatomy.
@@ -151,9 +153,25 @@ Classify by **method/procedure**, not by disease or anatomy.
 
 ## Adding a New Paper
 
-Say: *"Add this paper to the wiki: /path/to/paper.pdf"*
+Say: *"Add this paper to the wiki: /path/to/paper.pdf"*  
+Or: *"인제스트 해줘"* (processes all pending papers in the queue one at a time)
 
-The agent will do all four steps automatically.
+**Sequential one-paper-at-a-time protocol — MANDATORY**
+
+When multiple papers are pending, **never batch them**. Always process one paper completely before starting the next:
+
+```
+LOOP until queue empty:
+  1. python3 scripts/ingest-one.py --next   ← get stem + extracted text
+  2. Run Steps 0-4 below for that ONE stem  ← write files
+  3. python3 scripts/ingest-one.py --finish <stem>
+     ← per-file git commit + push + qmd update + embed + mark processed
+  4. Next iteration
+```
+
+This prevents context-window exhaustion (the primary failure mode when batching 5+ papers). Each paper is ~3 000–4 000 tokens of PDF text + file-writing; beyond ~3 papers the agent context fills and subsequent papers fail silently. One-at-a-time keeps each unit well under limit and ensures a clean commit/push after every paper regardless of what follows.
+
+The agent will do all steps automatically.
 
 ### Step 0 — Pre-ingest gate (dedup + retraction)
 
