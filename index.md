@@ -877,6 +877,7 @@ tags: []
 - [[oral-surgery/camps-font-2024-antibiotic-prophylaxis-dry-socket-nma]] — SR+NMA (16 RCTs, 2158명): 항생제 예방투여가 건조치조염(NNT=25)·SSI(NNT=18) 통계적 감소; 높은 NNT → 건강 환자 일상 처방 비권장
 - [[oral-surgery/rosa-2024-laser-therapy-dry-socket-sr]] — SR+MA (3 studies): LLLT는 건조치조염 치료 시 Alvogyl 대비 유효(유의성 낮음); 단일 세션·최소침습·통증 감소; 기존 소독드레싱의 대안
 - [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] — 코크란 SR+MA (RCT 49편, n=6,771): CHX 가글(OR 0.38)·0.2% 발치와 내 젤(OR 0.44)이 건성 발치와 감소(중등도 확실성); 효과는 기저 위험 비례 — 고위험 사랑니 NNT≈7, 일반 발치 NNT 160대; Alvogyl(구)>ZOE 7일째 통증(매우 낮음)
+- [[oral-surgery/garola-2021-clinical-management-alveolar-osteitis-systematic]] — SR (임상시험 17편, AO 치료 39개): 통증조절 기준(2일째 VAS≤4/7일째 ≥85% 무통) 충족 53.8%뿐; 성공 = 기본(발치와 세척)+특정(Alveogyl·Neocones·SaliCept·LLLT·PRF); 이질성으로 순위화 불가 — daly의 치료 공백 보완
 - [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] — 정형외과 공학 단행본 챕터(narrative): 골 드릴링 발열 메커니즘 + 골괴사 임계값(47°C/1분·50°C/30초·56°C); 임플란트 osteotomy의 irrigation·feed-rate·bur 기하학 설계 근거 기초. 큰 직경 데이터 다수로 치과 외삽 시 주의
 
 ## 레진 (Resin)
