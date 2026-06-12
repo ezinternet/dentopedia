@@ -10,25 +10,29 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview]
+tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd]
 ---
 
 ## 한줄요약
 
-TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 2024 합치: 보존적 비약물 1차 → 운동/스플린트 동등 → arthrocentesis는 보존 실패 시 + HA/스테로이드 부가. 퇴행성 아형 TMJ 골관절염은 별도 축(CT=gold standard 진단 + 보존 우선 ladder)으로 분리. 보툴리눔독소는 별도 overview에서 깊이 다룸.
+TMD 관리 SR+MA·가이드라인 27편 통합(2026-06 업데이트). BMJ NMA 2023 (233 RCT, 59 개입): CBT+운동·하악 가동화 최우수 → 약물 낮은 근거 → arthrocentesis 보존 실패 시. 근육형 TMD 특화·QoL 정량화·MAD/VD 축 신설.
 
 ## Summary
 
-본 페이지는 wiki/tmj/ 15편을 6축으로 정리: ①역학·진단, ②비약물 보존(스플린트·운동), ③중재(arthrocentesis), ④이갈이, ⑤부가/대안(BTX·약물 별도 overview link), ⑥TMJ 골관절염(퇴행성 아형 — CT 진단 + 보존 ladder).
+본 페이지는 wiki/tmj/ 27편을 9축으로 정리: ①역학·진단, ②비약물 보존(운동·스플린트), ③약물 치료, ④만성 통증 NMA (BMJ 2023), ⑤중재(arthrocentesis), ⑥이갈이, ⑦BTX·대안(별도 overview 연결), ⑧TMJ 골관절염, ⑨삶의 질·MAD/VD 특수 주제.
 
-핵심 명제 6개:
-1. **TMD 어떤 sign/symptom의 pooled 유병률 31%; 여성·청년 우세 — 흔한 chronic pain** — Valesan 2021 SR+MA. [근거강함]
-2. **BMJ 2023 Rapid Recommendation: 보존적·비약물 1차; 스플린트 conditional; 침습은 제한적** — BMJ 2023. [근거강함]
-3. **스플린트 vs 운동 동등 (또는 운동 우위)** — Zhang 2021 SR+MA (pain·MMO). [근거강함]
-4. **Cochrane 2024 — 교합 중재(splint·교합조정)의 evidence quality 매우 낮음에서 낮음; modest benefit** — Singh 2024 Cochrane. [근거강함]
-5. **Arthrocentesis는 보존적 실패 시 MMO +1.12mm 유의 개선; pain borderline** — IJOMS 2023 SR+MA (7 RCT). HA·스테로이드 부가 시 효과 강화 — Zhang 2024 SR. [합의수준]
-6. **수면이갈이 — 스플린트·biofeedback 근거 우위; 약물·BTX 보조적** — Minakuchi 2022 SR. [합의수준]
-7. **TMJ 골관절염 — CT가 골변화 gold standard(κ=0.71); 보존 우선(NSAID→스플린트→HA+스테로이드 세정→수술 최후); 피질골 연속성(미란·낭종)이 편평화보다 진단적** — Song 2023, Kim 2023 (KDA narrative). [합의수준]
+핵심 명제 11개:
+1. **TMD pooled 유병률 31%; 여성·청년 우세; 비생물학적 요인(심리·사회) 중요** — Valesan 2021, Kapos 2020 (OPPERA). [근거강함]
+2. **만성 TMD 최고 근거 치료: CBT+바이오피드백(RD 36%), 하악 가동화(36%), 수기 트리거포인트(32%)** — Yao 2023 NMA (233 RCT, BMJ). [근거강함]
+3. **BMJ 2023 Rapid Recommendation: 보존적·비약물 1차; 스플린트 conditional; 침습 제한적** — BMJ 2023 guideline. [근거강함]
+4. **스플린트 vs 운동 동등 (또는 운동 우위)** — Zhang 2021 SR+MA. [근거강함]
+5. **Cochrane 2024 — 교합 중재 evidence quality 매우 낮음~낮음; modest benefit; 교합조정 미지지** — Singh 2024 Cochrane. [근거강함]
+6. **약물 치료: TMD-joint — NSAIDs/IA corticosteroid·hyaluronate; TMD-muscle — cyclobenzaprine; BMS — clonazepam·capsaicin. 전반적 GRADE 낮음** — Häggman-Henrikson 2017 NMA. [합의수준]
+7. **Arthrocentesis 보존 실패 시 MMO +1.12mm 유의 개선; HA·스테로이드 부가 강화** — IJOMS 2023 SR+MA, Zhang 2024 SR. [합의수준]
+8. **수면이갈이 — 스플린트·biofeedback 우위; 약물·BTX 보조** — Minakuchi 2022 SR. [합의수준]
+9. **TMJ 골관절염 — CT gold standard; 보존 우선; 피질골 연속성(미란·낭종)이 편평화보다 진단적** — Song 2023, Kim 2023 (KDA). [합의수준]
+10. **TMD 환자 모든 그룹에서 QoL 크게 저하; 근육형·관절통형이 디스크변위형보다 심각** — Pigozzi 2021 SR+MA (n=3,829). [합의수준]
+11. **OVD 증가는 교합 상실보다 TMJ 연골 손상 빠르고 심각; 새 구치부 수복 후 TMJ 증상 모니터링 필요** — Wang 2024 (동물), Zhang 2024 CBCT (임상 1y; TMJ 유의 변화 없음). [합의수준]
 
 ## Results
 
@@ -37,28 +41,66 @@ TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 20
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[tmj/valesan-2021-tmd-prevalence-sr-ma]] | sr+ma | TMD pooled 유병률 ~31%; 여성·청년 우세 |
-| [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] | narrative-review (KDA, OMFS) | 한국 OMFS 임상가 framework: 정상 + events > 생리적 허용도 모형; 감별진단 |
+| [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]] | narrative-review | OPPERA: 성인 36% 유병률, 4%/년 incidence; 3영역 biopsychosocial 모델; DC/TMD 12진단 |
+| [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] | narrative-review | 근육형 TMD (45% of all TMD) DC/TMD 분류; 트리거포인트 진단 프로토콜 (1kg × 5초) |
+| [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] | narrative-review (KDA) | 한국 OMFS 임상가 framework: 정상 + events > 생리적 허용도; 감별진단 |
 
-**임상 함의**: TMD는 흔하므로 routine screening 가치 있음. 한국 임상가용 framework는 KDA 한국어 narrative.
+**임상 함의**: TMD는 흔하므로 routine screening 가치. 근육형(45%)이 가장 흔함 — DC/TMD 3진단 체계(local myalgia/myofascial/referral)로 구분. 한국 임상가는 KDA narrative + DC/TMD 병용.
 
-### 축 2 — 비약물 보존 (1차 — Splint vs Exercise)
+**OPPERA 3 biopsychosocial 영역** (Kapos 2020):
+1. 심리 (불안·우울·신체화)
+2. 중추 통증 민감화 (quantitative sensory testing)
+3. 전신 건강/동반질환 (IBS·불면·섬유근통)
+
+### 축 2 — 비약물 보존 (1차 — Physiotherapy · Exercise · Splint)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] | consensus (BMJ Rapid Rec) | 보존·비약물 1차; 스플린트 conditional; 침습 제한적 |
-| [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] | sr (Cochrane) | 교합 중재 evidence 매우 낮음~낮음; modest benefit; 교합조정 미지지 |
-| [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] | sr (RCTs) | 안정화 스플린트 pain/function 개선; evidence 중등도 |
-| [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] | sr+ma | 운동 ≥ 스플린트 pain·MMO 개선; non-appliance 대안 |
+| [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] | sr (15 RCT) | 수기치료+운동 병용 최선; 모든 physio 모달리티 유효 |
+| [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] | sr (20연구) | 수기치료+상담+스플린트 병용 최우수; TENS·LLLT 단독 제한적 |
+| [[tmj/mauro-2024-tmj-management-whats-new-scoping]] | sr (109 SR scoping) | 2024 evidence map: PT·CBT 최강; PRP·오존 신흥; BTX 중등 |
+| [[tmj/singh-2024-occlusal-interventions-tmd-cochrane-sr]] | sr (Cochrane) | 교합 중재 evidence 매우 낮음~낮음; 교합조정 미지지 |
+| [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] | sr (RCTs) | 안정화 스플린트 pain/function 중등도 개선 |
+| [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] | sr+ma | 운동 ≥ 스플린트 pain·MMO; non-appliance 대안 |
 | [[tmj/zhu-2024-exercise-therapy-tmj-derangement-sr]] | sr | 수술·중재 후 운동 — MMO 개선, pain 감소 |
 
 **임상 ladder (1차)**:
 1. **자가관리 교육** — 부드러운 식이, 턱 휴식, 스트레스 관리, 카페인 절제.
-2. **이학적 운동요법 first-line** — Zhang 2021/Zhu 2024가 스플린트 동등 또는 우위 시사. 비용·부작용 낮음.
-3. **스플린트 conditional add-on** — 야간 이갈이 동반·운동 비반응 시. 안정화(SS) 우선; 교합조정은 미지지.
-4. **약물 단기** — NSAID 1–2주, 근이완제 야간; 만성 사용 회피. (별도 drug overview)
-5. **재평가 4–6주** — 비반응 시 다학제 의뢰 또는 침습 단계.
+2. **PT + 수기치료 + 운동 first-line** — González-Sánchez/Alowaimer/Mauro 모두 병용 최선 시사. 비용·부작용 낮음.
+3. **스플린트 conditional add-on** — 야간 이갈이 동반·운동 비반응 시. 안정화(SS) 우선; 교합조정 미지지.
+4. **상담/CBT** — 만성 심리 동반 시 가장 중요한 추가 요소 (Yao 2023 NMA 근거).
+5. **재평가 4–6주** — 비반응 시 약물 추가 또는 침습 단계 고려.
 
-### 축 3 — 중재 (Arthrocentesis · 침습)
+### 축 3 — 약물 치료 (Pharmacotherapy)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] | sr+ma (57 RCT, NMA) | TMD-joint: NSAIDs/IA corticosteroid/hyaluronate; TMD-muscle: cyclobenzaprine; BMS: clonazepam/capsaicin |
+| [[tmj/yao-2023-chronic-tmd-pain-sr-nma-bmj]] | sr+ma (233 RCT, NMA) | 약물 치료 모두 low/very low certainty; 비약물이 우월 |
+
+**임상 함의**:
+- **만성 TMD 통증**: 약물은 단기 보조 — Yao 2023 NMA에서 모두 low certainty
+- **TMD-관절통**: NSAIDs 1차; 반응 없으면 IA 히알루론산 or 코르티코스테로이드
+- **TMD-근육통**: 단기 시클로벤자프린 (진정 부작용 주의)
+- **BMS**: 클로나제팜 국소 rinse 또는 저용량 전신; 캅사이신 국소 병행
+- **원칙**: 약물은 비약물 치료와 병행; 단독 만성 사용 지양
+
+### 축 4 — 만성 통증 NMA (최고 근거 — BMJ 2023)
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[tmj/yao-2023-chronic-tmd-pain-sr-nma-bmj]] | sr+ma (233 RCT, 59 개입) | CBT+바이오피드백 (RD 36%), 하악 가동화 (36%), MTrP (32%) TOP 3 |
+
+**Top 8 interventions (moderate-high certainty)**:
+1. CBT + biofeedback/relaxation — RD 36%
+2. Therapist-assisted jaw mobilization — RD 36%
+3. Manual trigger point therapy — RD 32%
+4. CBT alone, supervised exercise variants, usual care — RD 23–30%
+
+→ "운동·대처 촉진 치료가 일관적으로 최선" — 이것이 BMJ 가이드라인(076227)의 근거.
+
+### 축 5 — 중재 (Arthrocentesis · 침습)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -73,7 +115,7 @@ TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 20
 
 **오판 패턴**: "교합조정·교합거상이 TMD 1차 치료" — Cochrane 2024 + BMJ 2023 모두 미지지. 비가역 치료는 보존 실패 후 단계적. [근거강함]
 
-### 축 4 — Bruxism (수면 이갈이)
+### 축 6 — Bruxism (수면 이갈이)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -86,7 +128,7 @@ TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 20
 4. **약물** — Clonazepam 단기 등; 만성 회피.
 5. **BTX** — 별도 [[overviews/btx-orofacial-applications-overview]] 참조 (RCT 혼재; 마스세터 위축 위험).
 
-### 축 5 — BTX·약물 (별도 overview로 연결)
+### 축 7 — BTX·대안 (별도 overview로 연결)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
@@ -96,7 +138,7 @@ TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 20
 
 **임상 함의**: BTX는 myofascial pain·bruxism에서 placebo 우위 보고 다수이나 marsseter 위축 등 부작용. 표준 1차 아님. 상세는 [[overviews/btx-orofacial-applications-overview]].
 
-### 축 6 — TMJ 골관절염 (TMJ Osteoarthritis, OA — 퇴행성 관절질환)
+### 축 8 — TMJ 골관절염 (TMJ Osteoarthritis, OA — 퇴행성 관절질환)
 
 기능성 TMD(축 1–5)와 달리 **연골하골 파괴를 동반하는 퇴행성 아형**. 진단(영상)·치료가 별도 트랙. 한국치과의사협회지 2023 특집 종설 2편(narrative review).
 
@@ -119,6 +161,23 @@ TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 20
 
 **연결**: OA의 arthrocentesis는 축 3(IJOMS 2023 SR+MA)의 근거와 일치 — HA·스테로이드 부가가 근거 우위. OA는 그 적응증을 "퇴행성 골변화 확인 후"로 구체화.
 
+### 축 9 — 삶의 질 · MAD/VD 특수 주제
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[tmj/pigozzi-2021-quality-of-life-tmd-sr-ma]] | sr+ma (n=3,829) | 모든 TMD 그룹 QoL 유의 저하; 근육형(SMD 0.82)·관절통형(0.98) > 디스크변위형(0.59) |
+| [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] | animal | OVD 증가 > 교합 상실 — 과두 연골 손상 빠르고 심각; 아이아트로제닉 고경 위험 |
+| [[tmj/zhang-2024-tmj-morphology-ipilffdp-cbct]] | retrospective | IPILFFDP 후 VD ~2mm 증가에도 1년 TMJ 형태 유의 변화 없음 |
+| [[tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr]] | scoping review | CR-MIP 과두 변위 위험인자 — 수직성장형 안면 골격 > 기타 |
+| [[tmj/pereira-2024-condylar-mandibular-movements-mad-osa-cbct]] | prospective (n=20) | MAD: 전방 과두 이동 ↑ 상기도 용적; 관절 융기 형태가 이동량 조절 |
+| [[tmj/gurgel-2023-mad-vs-mma-upper-airway-3d-cbct]] | retrospective CBCT | MAD=시계방향 회전(상부 구인두); MMA=반시계방향(전 상기도 더 큰 확장) |
+
+**임상 함의**:
+- **QoL**: TMD 치료 목표에 QoL 도구 포함 필수 (VAS만으로 부족)
+- **구치부 고경 거상**: 단기적으로 교합 상실보다 TMJ에 더 위험 → 점진적 거상 + TMJ 모니터링
+- **MAD (수면무호흡 장치)**: 과두 전방 이동 → 상기도 확장; 관절 융기 형태 개별화 평가 필요
+- **CR-MIP 불일치**: 수직성장형 골격에서 더 주의
+
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/tmd-imaging-mri-cbct.md` — MRI/CBCT 진단 정확도 (Song 2023 CT gold-standard 데이터가 seed).
@@ -130,9 +189,13 @@ TMD 관리 SR+MA·가이드라인 15편 통합. BMJ Rapid Rec 2023 + Cochrane 20
 - [[overviews/oral-surgery-decision-ladder]] — 외과적 단계
 - [[overviews/drug-clinical-decision-ladder]] — TMD 약물
 
-확신도 등급:
-- 축 1 역학·축 2 보존 = [근거강함] (BMJ/Cochrane)
-- 축 3 arthrocentesis = [합의수준]
-- 축 4 이갈이 = [합의수준]
-- 축 5 BTX = [합의수준] (혼재)
-- 축 6 TMJ 골관절염 = [합의수준] (KDA narrative review 2편; 진단 CT gold-standard 데이터는 신뢰도 양호하나 치료 ladder는 비graded)
+확신도 등급 (2026-06 업데이트):
+- 축 1 역학·진단 = [근거강함] (SR+MA + OPPERA 코호트)
+- 축 2 비약물 보존 = [근거강함] (BMJ/Cochrane + 3 SRs)
+- 축 3 약물 = [합의수준] (GRADE 낮음; Häggman-Henrikson NMA)
+- 축 4 만성 통증 NMA = [근거강함] (BMJ 2023, 233 RCTs)
+- 축 5 arthrocentesis = [합의수준]
+- 축 6 이갈이 = [합의수준]
+- 축 7 BTX = [합의수준] (혼재)
+- 축 8 TMJ 골관절염 = [합의수준] (KDA narrative 2편)
+- 축 9 QoL·MAD/VD = [합의수준] (QoL: SR+MA; VD: 동물 + 소규모 임상)
