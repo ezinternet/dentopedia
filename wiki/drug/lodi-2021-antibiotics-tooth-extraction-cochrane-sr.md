@@ -6,7 +6,7 @@ date: 2021-01-01
 doi: 10.1002/14651858.CD003811.pub3
 source: lodi-2021-antibiotics-tooth-extraction-cochrane-sr.md
 category: [drug]
-confidence: sr
+confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/lodi-2021-antibiotics-tooth-extraction-cochrane-sr.pdf
 pdf_filename: lodi-2021-antibiotics-tooth-extraction-cochrane-sr.pdf
 source_collection: external
@@ -39,20 +39,21 @@ This Cochrane systematic review (third update, 2021) synthesizes randomized evid
 - **Secondary outcomes**: Pain (dichotomous; VAS), fever, swelling, trismus, dry socket, adverse events (all at day 6–7)
 
 ## Results
-Eight meta-analyses (Analyses 1.1–1.8) cover:
+23 trials randomised ~3,206 participants (2,583 analysed); 21/23 enrolled **healthy patients having impacted third-molar surgery**. Risk of bias: 16 high, 4 unclear, 3 low.
 
-| Outcome | Direction of Effect |
-|---|---|
-| Infectious complications (1.1) | Antibiotics reduce infection |
-| Pain — dichotomous (1.2) | Antibiotics reduce pain prevalence |
-| Pain — VAS score (1.3) | Antibiotics reduce pain severity |
-| Fever (1.4) | Antibiotics reduce fever |
-| Swelling (1.5) | Antibiotics reduce swelling |
-| Trismus (1.6) | Antibiotics reduce trismus |
-| Dry socket (1.7) | Antibiotics reduce dry socket |
-| Adverse events (1.8) | Antibiotics increase GI adverse events |
+| Outcome | Effect (RR / MD) | n / studies | Certainty | NNT |
+|---|---|---|---|---|
+| Postsurgical infection (day 6–7) | RR 0.34 (0.19–0.64) | 1,728 / 12 | Low | **19** (15–34) |
+| Dry socket | RR 0.66 (0.45–0.97) | 1,882 / 13 | Low | **46** (29–62) |
+| Pain — dichotomous | RR 0.59 (0.31–1.12), NS | 675 / 3 | Very low | — |
+| Pain — VAS (MD) | −0.26 (−0.59–0.07), NS | 422 / 4 | Very low | — |
+| Fever | RR 0.66 (0.24–1.79), NS | 475 / 4 | Very low | — |
+| Adverse effects (mild, transient) | RR 1.46 (0.81–2.64), NS | 1,277 / 8 | Very low | — |
 
-Key clinical balance: antibiotics prevent dry socket and infectious complications, but adverse events (primarily GI) occur in a meaningful proportion of patients; for healthy patients with routine extractions, the NNT vs. NNH comparison typically does not favor routine prophylaxis; high-risk extractions (impacted third molars, immunocompromised patients, complex surgery) may still benefit.
+- Timing of administration (preoperative / postoperative / both) showed **no clear difference**.
+- Benefit demonstrated almost exclusively in healthy third-molar surgery; **no data** in immunocompromised or systemically-ill patients, or routine carious/periodontal extractions.
+
+Key clinical balance: antibiotics reduce post-extraction infection (NNT 19) and dry socket (NNT 46) at **low certainty**, with no clear effect on pain/fever and only mild, transient adverse effects — but absolute benefit is modest. Given antimicrobial resistance, the panel advises against routine prophylaxis in healthy patients; prescribe individually by clinical condition and infection risk. Immunocompromised patients need an individualised approach with their medical specialist.
 
 ## Related Papers
 - [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — updated narrative review of dental antibiotic prophylaxis indications
