@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<!--
+title: Chairside 상악동 천공 위험 계산기
+type: interactive
+date: 2026-06-12
+status: in-progress
+agenda: agenda/2026-06-12_sinus-perforation-risk-calculator.md
+source_wiki:
+  - wiki/overviews/odontogenic-maxillary-sinusitis-overview.md
+  - wiki/sinus-lift/lateral/nemati-2023-membrane-perforation-risk-lateral-sinus.md
+  - wiki/sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma.md
+  - wiki/sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus.md
+  - wiki/sinus-lift/lateral/henriques-2022-maxillary-sinus-septa-prevalence-sr-ma.md
+  - wiki/sinus-lift/lateral/khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.md
+  - wiki/sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy.md
+  - wiki/sinus-lift/lateral/lee-2023-impact-sinus-floor-elevation-techniques.md
+  - wiki/sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.md
+NOTE: 의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를 순서화한 휴리스틱이며 예측 타당도는 RCT 미검증.
+-->
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>상악동 천공 위험 계산기 (Chairside)</title>
+<style>
+  :root{
+    --bg:#0f1419; --panel:#1a2027; --panel2:#222b34; --ink:#e8edf2; --muted:#9aa7b3;
+    --line:#2d3742; --accent:#4ea1ff; --low:#2ecc71; --mod:#f1c40f; --high:#e74c3c;
+    --chip:#2a333d; --radius:12px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",sans-serif;line-height:1.5}
+  .wrap{max-width:1000px;margin:0 auto;padding:24px 18px 60px}
+  h1{font-size:20px;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:13px;margin-bottom:20px}
+  .grid{display:grid;grid-template-columns:1fr 1fr;gap:18px}
+  @media(max-width:760px){.grid{grid-template-columns:1fr}}
+  .card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);padding:16px}
+  .card h2{font-size:14px;margin:0 0 12px;color:var(--accent);letter-spacing:.3px}
+  .field{margin-bottom:14px}
+  .field label{display:block;font-size:13px;margin-bottom:6px}
+  .field .src{color:var(--muted);font-size:11px}
+  input[type=range]{width:100%}
+  .val{float:right;font-variant-numeric:tabular-nums;color:var(--ink);font-weight:600}
+  .seg{display:flex;gap:6px;flex-wrap:wrap}
+  .seg button{flex:1;min-width:60px;background:var(--panel2);color:var(--ink);border:1px solid var(--line);
+    border-radius:8px;padding:8px 6px;font-size:12px;cursor:pointer;transition:.15s}
+  .seg button.on{background:var(--accent);border-color:var(--accent);color:#06121f;font-weight:700}
+  .result{position:sticky;top:14px}
+  .grade{display:flex;align-items:center;gap:14px;padding:16px;border-radius:var(--radius);margin-bottom:14px}
+  .grade .score{font-size:38px;font-weight:800;font-variant-numeric:tabular-nums}
+  .grade .lbl{font-size:18px;font-weight:700}
+  .grade .lbl small{display:block;font-size:12px;font-weight:400;opacity:.85}
+  .g-low{background:rgba(46,204,113,.13);border:1px solid var(--low)} .g-low .lbl,.g-low .score{color:var(--low)}
+  .g-mod{background:rgba(241,196,15,.13);border:1px solid var(--mod)} .g-mod .lbl,.g-mod .score{color:var(--mod)}
+  .g-high{background:rgba(231,76,60,.13);border:1px solid var(--high)} .g-high .lbl,.g-high .score{color:var(--high)}
+  .recs{list-style:none;padding:0;margin:0}
+  .recs li{background:var(--panel2);border:1px solid var(--line);border-left:3px solid var(--accent);
+    border-radius:8px;padding:10px 12px;margin-bottom:8px;font-size:13px}
+  .recs li .why{color:var(--muted);font-size:11px;margin-top:3px}
+  .recs li.warn{border-left-color:var(--high)}
+  .recs li.good{border-left-color:var(--low)}
+  .contrib{margin-top:12px;font-size:11px;color:var(--muted)}
+  .contrib b{color:var(--ink)}
+  .disc{margin-top:22px;padding:12px 14px;background:rgba(231,76,60,.08);border:1px solid #5a2a2a;
+    border-radius:8px;font-size:12px;color:#f0c9c4}
+  .bar{height:6px;background:var(--line);border-radius:4px;overflow:hidden;margin-top:6px}
+  .bar>i{display:block;height:100%;background:var(--accent)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>상악동 측방창 거상술 — 천공 위험 계산기</h1>
+  <div class="sub">술전 CBCT·문진 인자 입력 → 막천공 위험등급 + 창 디자인·예방 권고. 근거: OMS overview 예방축 §1–5 (14편).</div>
+
+  <div class="grid">
+    <!-- INPUT -->
+    <div>
+      <div class="card">
+        <h2>해부 (CBCT)</h2>
+        <div class="field">
+          <label>잔존 치조골 높이 RRH <span class="val" id="rrhV">5.0 mm</span></label>
+          <input type="range" id="rrh" min="1" max="12" step="0.5" value="5">
+          <div class="src">Ye 2025 SR+MA — 낮을수록 천공↑ (OR 4.68)</div>
+        </div>
+        <div class="field">
+          <label>슈나이더막 두께 <span class="val" id="memV">1.0 mm</span></label>
+          <input type="range" id="mem" min="0.2" max="8" step="0.1" value="1.0">
+          <div class="src">Khiabani 2024 — &lt;1mm 취약 / &gt;5mm 금기 아님(염증 관리 대상)</div>
+        </div>
+        <div class="field">
+          <label>상악동 격벽 (septa)</label>
+          <div class="seg" data-k="septa">
+            <button data-v="0" class="on">없음</button>
+            <button data-v="1">있음</button>
+          </div>
+          <div class="src">Nemati 2023 HR 8.07 · Henriques 2022 유병률 33%</div>
+        </div>
+        <div class="field">
+          <label>점액낭종 (MRC)</label>
+          <div class="seg" data-k="mrc">
+            <button data-v="0" class="on">없음</button>
+            <button data-v="1">있음</button>
+          </div>
+          <div class="src">Nemati 2023 HR 27.75</div>
+        </div>
+        <div class="field">
+          <label>PSAA — 골내형 + 치조정 근접(&lt;15 mm)</label>
+          <div class="seg" data-k="psaa">
+            <button data-v="0" class="on">아니오/불명</button>
+            <button data-v="1">예</button>
+          </div>
+          <div class="src">Gulec 2025 — 골내형 63%, 출혈 위험 매핑</div>
+        </div>
+      </div>
+      <div style="height:14px"></div>
+      <div class="card">
+        <h2>환자·부비동</h2>
+        <div class="field">
+          <label>흡연</label>
+          <div class="seg" data-k="smoke">
+            <button data-v="0" class="on">비흡연</button>
+            <button data-v="1">흡연</button>
+          </div>
+          <div class="src">Wang 2023 OR 1.58 · Nemati 2023 HR 25</div>
+        </div>
+        <div class="field">
+          <label>다수치 연속 결손 (≥2)</label>
+          <div class="seg" data-k="span">
+            <button data-v="0" class="on">단일치</button>
+            <button data-v="1">≥2치</button>
+          </div>
+          <div class="src">Nemati 2023 HR 68</div>
+        </div>
+        <div class="field">
+          <label>술전 만성 부비동염 징후</label>
+          <div class="seg" data-k="sinusitis">
+            <button data-v="0" class="on">없음</button>
+            <button data-v="1">있음/의심</button>
+          </div>
+          <div class="src">Kozuma 2017 — 감염·임플란트 실패 최강 예측(p=0.007)</div>
+        </div>
+      </div>
+    </div>
+
+    <!-- RESULT -->
+    <div>
+      <div class="result">
+        <div class="card">
+          <h2>위험 평가</h2>
+          <div class="grade g-low" id="grade">
+            <div class="score" id="score">0</div>
+            <div class="lbl" id="gradeLbl">LOW<small id="gradeSub">표준 측방창 프로토콜</small></div>
+          </div>
+          <div class="bar"><i id="bar" style="width:0%"></i></div>
+          <ul class="recs" id="recs"></ul>
+          <div class="contrib" id="contrib"></div>
+        </div>
+        <div class="disc">
+          ⚠️ <b>의사결정 보조 도구</b>입니다. 가중치는 보고된 효과크기(HR/OR)를 순서화한 휴리스틱이며, 통합 점수의 <b>예측 타당도는 RCT로 검증되지 않았습니다</b>(OMS overview Open Questions). 최종 판단·책임은 술자에게 있습니다.
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const state={rrh:5,mem:1.0,septa:0,mrc:0,psaa:0,smoke:0,span:0,sinusitis:0};
+
+// weights ~ ordered by reported effect size (heuristic)
+function compute(){
+  let s=0; const c=[];
+  // RRH: lower worse. >8 none, 6-8 +1, 4-6 +2, <=4 +3
+  let rrhPts = state.rrh>8?0 : state.rrh>6?1 : state.rrh>4?2 : 3;
+  if(rrhPts){s+=rrhPts; c.push(['RRH '+state.rrh+'mm', rrhPts]);}
+  // membrane: <1 fragile +2; 1-5 normal 0; >5 thick +1 (manage, not contraindication)
+  let memPts = state.mem<1?2 : state.mem>5?1 : 0;
+  if(memPts){s+=memPts; c.push(['막두께 '+state.mem.toFixed(1)+'mm', memPts]);}
+  if(state.septa){s+=3; c.push(['격벽',3]);}
+  if(state.mrc){s+=3; c.push(['점액낭종',3]);}
+  if(state.smoke){s+=2; c.push(['흡연',2]);}
+  if(state.span){s+=2; c.push(['다수치 결손',2]);}
+  if(state.sinusitis){s+=3; c.push(['술전 부비동염',3]);}
+  if(state.psaa){s+=1; c.push(['PSAA 골내·근접',1]);}
+  return {s,c};
+}
+
+function recsFor(){
+  const r=[];
+  // technique
+  if(state.rrh<=4 || state.septa || state.mem<1){
+    r.push(['warn','피에조(piezosurgery) 골절개 + 측방창','얇은 막·격벽·저RRH에서 회전버 천공 위험 최고 — Lee 2023 (측방 회전버 SUCRA 최고위험)']);
+  }
+  if(state.rrh>6 && !state.septa && !state.mrc){
+    r.push(['good','경치조골(transcrestal) 접근/리머 고려','리머 기반 경치조골이 천공 위험 최저 — Lee 2023 SUCRA 0.94']);
+  }
+  if(state.septa){
+    r.push(['warn','분할창(double window)·격벽 우회 설계','격벽 가로지르면 천공 급증(HR 8.07) — Nemati 2023; 술전 CBCT로 위치·방향 매핑(중간부·횡단 86% — Henriques 2022)']);
+  }
+  if(state.mrc){
+    r.push(['warn','점액낭종 술전 평가(흡인/제거 또는 연기)','MRC 동반 천공 HR 27.75 — Nemati 2023; pseudocyst-MRC overview 결정 트리 참조']);
+  }
+  if(state.mem>5){
+    r.push(['','두꺼운 막 = 염증/저류 관리 대상(금기 아님)','>5mm군도 SFE 후 점막 감소·비부비동염 0 — Khiabani 2024; 술전 항염·필요 시 ENT']);
+  }
+  if(state.mem<1){
+    r.push(['warn','얇은 막 — 거상 시 분리 신중, PRF/콜라겐 보강 준비','평균 0.77mm = thin-fragile — Nemati 2023']);
+  }
+  if(state.smoke){
+    r.push(['warn','금연 권고·상담(술전 최소 1–2주)','흡연 천공 OR 1.58 (Wang 2023) / HR 25 (Nemati 2023)']);
+  }
+  if(state.sinusitis){
+    r.push(['warn','SFE 연기 + 이비인후과 선평가·치료','술전 만성 부비동염 = 술후 감염·임플란트 실패 최강 예측(p=0.007) — Kozuma 2017']);
+  }
+  if(state.psaa){
+    r.push(['','창 상연을 PSAA 하방으로 낮추거나 우회','골내형 PSAA 63%·치조정 ~16mm — Gulec 2025, 출혈 합병증 예방']);
+  }
+  // high-risk patient prophylaxis
+  const {s}=compute();
+  if(s>=8 || state.sinusitis){
+    r.push(['','고위험 예방 프로토콜 고려: 국소 스테로이드 + LTRA + 항생제','비중격만곡·할러세포·알레르기비염 고위험자 PSLMS 예방 증례 — Suzuki-Yamazaki 2020']);
+  }
+  if(s<3){
+    r.push(['good','표준 측방창 프로토콜로 진행 가능','저위험 — 단, 막천공 발생 시에도 적절 봉합하면 임플란트 실패 위험은 유의하지 않음(OR 1.347 NS — Sala 2024)']);
+  }
+  return r;
+}
+
+function render(){
+  const {s,c}=compute();
+  const el=id=>document.getElementById(id);
+  el('score').textContent=s;
+  let g,lbl,sub;
+  if(s<=2){g='low';lbl='LOW';sub='표준 측방창 프로토콜';}
+  else if(s<=6){g='mod';lbl='MODERATE';sub='술식 변경·예방 강화 권고';}
+  else {g='high';lbl='HIGH';sub='피에조·분할창·선치료 강력 권고';}
+  const gd=el('grade'); gd.className='grade g-'+g;
+  el('gradeLbl').firstChild.textContent=lbl;
+  el('gradeSub').textContent=sub;
+  el('bar').style.width=Math.min(100,s/14*100)+'%';
+  // recs
+  const recs=recsFor();
+  el('recs').innerHTML=recs.map(x=>`<li class="${x[0]}">${x[1]}<div class="why">${x[2]}</div></li>`).join('');
+  // contrib
+  el('contrib').innerHTML = c.length? '<b>점수 기여:</b> '+c.map(x=>`${x[0]} +${x[1]}`).join(' · ') : '<b>입력된 위험인자 없음.</b>';
+}
+
+// wire sliders
+['rrh','mem'].forEach(k=>{
+  const inp=document.getElementById(k);
+  inp.addEventListener('input',()=>{
+    state[k]=parseFloat(inp.value);
+    document.getElementById(k+'V').textContent = (k==='rrh'? state[k].toFixed(1):state[k].toFixed(1))+' mm';
+    render();
+  });
+});
+// wire segmented
+document.querySelectorAll('.seg').forEach(seg=>{
+  const k=seg.dataset.k;
+  seg.querySelectorAll('button').forEach(b=>{
+    b.addEventListener('click',()=>{
+      seg.querySelectorAll('button').forEach(x=>x.classList.remove('on'));
+      b.classList.add('on');
+      state[k]=parseInt(b.dataset.v);
+      render();
+    });
+  });
+});
+render();
+</script>
+</body>
+</html>
