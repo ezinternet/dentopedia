@@ -550,6 +550,7 @@ tags: []
 - [[endodontics/diagnosis/patro-2022-diagnostic-accuracy-of-pulp-vitality]] — Patro 2022 · sr+ma · 정성10/MA5 — 통합 DOR: 맥박산소계측 628.5 ≫ cold 17.24 > EPT 10.75 > heat 3.47; 고품질 연구 없음 (DOI 10.3390/ijerph19159599)
 - [[endodontics/diagnosis/igna-2022-diagnostic-insight-of-dental-pulp]] — Igna 2022 · narrative-review · 소아 치수검사 — sensibility test 비권고, 유치·미성숙영구치엔 vitality test 선호 (DOI 10.3390/medicina58050665)
 - [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — Karamifar 2020 · narrative-review · 근단병소 병인·진단·치료 overview; 조직병리 표준, CBCT/MRI/echography 육아종-낭종 감별 유망 (DOI 10.14744/eej.2020.42714)
+- [[endodontics/diagnosis/kallel-2021-management-cutaneous-sinus-tract-odontogenic]] — Kallel 2021 · case-report (n=1, 18개월 추적) · 치성 피부누공 오진(냉동치료·수술·장기 항생제 모두 무효) → 근관치료(+재발 시 외과)로 치유·치근단 병소 퇴축; 치과-의과 소통 강조 (DOI 10.4103/jcd.jcd_56_21)
 
 ## 치주치료 (Periodontics)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — Herrera 2018 · narrative-review · 2017 WW 급성 치주병변 분류 — 치주농양(병인별)·괴사성 치주질환(숙주면역)·치수치주복합병변(파절·천공·치주염 유무) (DOI 10.1002/JPER.16-0642)
