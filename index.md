@@ -1085,6 +1085,7 @@ tags: []
 - [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] — 동물 연구 (쥐, 8주): OVD 증가는 교합 상실보다 과두 연골 손상 더 빠르고 심함; 연골하골 회복 지연 (J Oral Rehabil 2024)
 - [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] — SR+NMA (57 RCT): TMD-관절에 NSAIDs/IA corticosteroid·hyaluronate; TMD-근육에 cyclobenzaprine; BMS에 clonazepam·capsaicin — GRADE 근거 낮음 (J Oral Rehabil 2017)
 - [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — SR (15 RCT): 수기치료+운동치료 병용이 TMD 물리치료 중 최선; 모든 physiotherapy 모달리티 효과적 (J Clin Med 2023)
+- [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] — SR (20연구): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%+ 비수술 관리 가능 (Cureus 2024)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
