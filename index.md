@@ -1090,6 +1090,7 @@ tags: []
 - [[tmj/mauro-2024-tmj-management-whats-new-scoping]] — Scoping review (109 SR): TMD 치료 2024 evidence map — PT·CBT 비침습 최강; PRP·오존 신흥; 수술 최후 (Dent J 2024)
 - [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — 임상 업데이트: 근육형 TMD (45% of all TMD) — DC/TMD 근통 분류; 트리거포인트 진단; BTX·건침 포함 다학제 치료 (Diagnostics 2022)
 - [[tmj/yao-2023-chronic-tmd-pain-sr-nma-bmj]] — SR+NMA (233 RCT, 8,713명, 59 개입): CBT+바이오피드백·하악 가동화·수기 트리거포인트 TOP 3; 약물 낮은 근거 (BMJ 2023)
+- [[tmj/pigozzi-2021-quality-of-life-tmd-sr-ma]] — SR+MA (24편, n=3,829): 모든 TMD 그룹 QoL 저하; 근육형·관절통형이 디스크변위형보다 삶의 질 더 낮음 (Health Qual Life Outcomes 2021)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
