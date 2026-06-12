@@ -854,6 +854,7 @@ tags: []
 - [[drug/jkda-2021-60-1-004]] — Review (단국대 통합치의학 최정임, JKDA 2022): BMA(bisphosphonate·denosumab) 복용 환자에서 dental implant가 MRONJ trigger·risk factor 평가 — drug holiday·식립 후 maintenance framework
 - [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — Special article (JKDA 2023, SNU 치과마취과 Karm MH): 2022년 한국 진정 가이드라인 해설 — moderate sedation 중심, 15 PICO 권고 (제공자 교육·약물·금식·monitoring·소아 호흡·퇴원), 비마취과 제공자 대상 표준.
 - [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Position paper (JKDA 2023, 한양대 OMS Hwang KG): 치과 국소마취 한국 임상진료지침 부재 지적, 가이드라인 제정 필요성·검토 영역 명문화 (페어 — Karm 2023 sedation guideline 해설과 동일 호).
+- [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 근거기반 가이드라인(GRADE): 면역정상 성인 SIP±SAP 항생제 금지(강한 권고), 치수괴사+치근단농양 비권장(조건부) — 1차는 DCDT(치수절단·근관치료·절개배농); 항생제는 즉시 치료 불가(amoxicillin 500mg TID 지연처방)·전신 침범 시만. 치수염=비감염 원리.
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
