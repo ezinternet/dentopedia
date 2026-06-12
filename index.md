@@ -1025,6 +1025,7 @@ tags: []
 - [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] — 치과기원 부비동염(ODS) 이비인후과 관점 서술 리뷰: 이중확인 진단체계, 항생제 한계, 치과+ESS 병행 90–100% 해소율, 1차 ESS 옵션 (DOI 10.1002/wjo2.9)
 - [[oral-medicine/de-corso-2022-sinonasal-complications-dental-disease]] — 후향 코호트(262례, Gemelli IRCCS 2015–2022): SCDDT 내시경 비내수술(FESS) 성공률 96.5%, SNOT-22 43.4→6(15일); 원인 55.3% 의인성(임플란트·발치) vs 44.7% 치성; Felisati SCDDT 분류 적용; OAF 동시 처치 가능 (DOI 10.3390/jpm12122078)
 - [[oral-medicine/bisla-2022-odontogenic-infections-maxillary-sinus-changes]] — CBCT 단면연구(213명, 404동): 치주골소실이 상악동 점막비후의 치근단병소보다 강한 예측인자(OR 2.2, p=0.008); 전체 점막변화 49.5% (DOI 10.1016/j.jobcr.2022.08.001)
+- [[overviews/odontogenic-maxillary-sinusitis-overview]] — **Overview** (종합 10편, 2026-06-12): OMS 진단→감염원 제거→FESS 병행→OAF 폐쇄 결정 경로. 인식(만성 상악동염 30–40%·의인성 ~55%)·이중확인 진단(CBCT, 치주골소실 OR 2.2 > 치근단)·감염원 제거 시 90–100% 해소·OAF 크기/타이밍 폐쇄(BFP 우위, 급성 95% vs 만성 67%)
 - [[oral-medicine/jkda-2022-60-4-001]] — Cross-sectional (KUMC Halitosis Clinic, n=246, JKDA 2022): 한국 생리적 구취 환자 questionnaire·dietary·salivary 분석 — 진단·예방 protocol 기반 데이터
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 유발 골흡수가 cyst로 오인 — CBCT 감별진단·history-taking 중요성
 - [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
