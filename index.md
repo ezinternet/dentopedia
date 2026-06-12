@@ -1088,6 +1088,7 @@ tags: []
 - [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] — SR (20연구): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%+ 비수술 관리 가능 (Cureus 2024)
 - [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]] — Narrative review: TMD 생물심리사회적 3영역 모델; OPPERA 성인 36% 유병률; DC/TMD 12진단; 보존적 다학제 치료 표준 (Oral Surg 2020)
 - [[tmj/mauro-2024-tmj-management-whats-new-scoping]] — Scoping review (109 SR): TMD 치료 2024 evidence map — PT·CBT 비침습 최강; PRP·오존 신흥; 수술 최후 (Dent J 2024)
+- [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — 임상 업데이트: 근육형 TMD (45% of all TMD) — DC/TMD 근통 분류; 트리거포인트 진단; BTX·건침 포함 다학제 치료 (Diagnostics 2022)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
