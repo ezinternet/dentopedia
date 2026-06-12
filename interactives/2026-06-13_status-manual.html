@@ -1,0 +1,396 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>진료실 Status 신호 매뉴얼</title>
+<style>
+  :root{
+    --ink:#1c2024;
+    --paper:#f6f4ef;
+    --line:#d9d4c8;
+    --up:#2f5d62;
+    --down:#9c6b3f;
+    --pivot:#c0392b;
+    --muted:#6b6b63;
+    --card:#fffdf9;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  html{-webkit-text-size-adjust:100%;}
+  body{
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic","Noto Sans KR",sans-serif;
+    color:var(--ink); background:var(--paper);
+    line-height:1.65; font-size:15px;
+    padding:32px 20px 80px;
+  }
+  .wrap{max-width:840px;margin:0 auto;}
+
+  /* ── 헤더 ── */
+  header{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:8px;}
+  .eyebrow{font-size:12px;letter-spacing:.18em;color:var(--muted);text-transform:uppercase;font-weight:600;}
+  h1{font-size:30px;font-weight:800;letter-spacing:-.02em;margin:6px 0 4px;}
+  .sub{font-size:14px;color:var(--muted);}
+  .origin{font-size:12.5px;color:var(--muted);margin-top:10px;line-height:1.5;}
+
+  /* ── 시소 개념도 ── */
+  .seesaw{margin:34px 0;padding:26px 24px 20px;background:var(--card);border:1px solid var(--line);border-radius:4px;}
+  .seesaw h2{font-size:13px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase;margin-bottom:18px;font-weight:700;}
+  .beam{position:relative;height:96px;margin:8px 14px 6px;}
+  .beam svg{width:100%;height:100%;overflow:visible;}
+  .seesaw .law{text-align:center;font-size:13.5px;color:var(--ink);margin-top:12px;}
+  .seesaw .law b{color:var(--pivot);}
+
+  /* ── 탭 네비게이션 ── */
+  .tabs{display:flex;gap:0;border-bottom:2px solid var(--ink);margin-top:40px;margin-bottom:0;}
+  .tab-btn{
+    padding:10px 22px 9px;
+    font-size:13px;font-weight:700;letter-spacing:.04em;
+    color:var(--muted);
+    background:transparent;
+    border:none;border-bottom:3px solid transparent;
+    cursor:pointer;
+    margin-bottom:-2px;
+    transition:color .15s,border-color .15s;
+  }
+  .tab-btn:hover{color:var(--ink);}
+  .tab-btn.active{color:var(--ink);border-bottom-color:var(--pivot);}
+  .tab-btn .num{font-size:10px;color:var(--pivot);font-weight:800;letter-spacing:.1em;display:block;margin-bottom:1px;}
+
+  .tab-panel{display:none;padding-top:40px;}
+  .tab-panel.active{display:block;}
+
+  /* ── 섹션 공통 ── */
+  .secnum{font-size:12px;letter-spacing:.16em;color:var(--pivot);font-weight:700;}
+  h2.sec{font-size:22px;font-weight:800;letter-spacing:-.01em;margin:4px 0 6px;}
+  .lede{font-size:14px;color:var(--muted);margin-bottom:20px;max-width:60ch;}
+
+  /* ── 신호 대비 카드 ── */
+  .signals{border:1px solid var(--line);border-radius:4px;overflow:hidden;background:var(--card);}
+  .srow{display:grid;grid-template-columns:120px 1fr 1fr;border-bottom:1px solid var(--line);}
+  .srow:last-child{border-bottom:none;}
+  .srow.head{background:var(--ink);color:var(--paper);font-size:12px;letter-spacing:.04em;font-weight:600;}
+  .srow.head>div{padding:9px 14px;}
+  .srow .ch{padding:13px 14px;font-weight:700;font-size:13.5px;display:flex;align-items:center;border-right:1px solid var(--line);}
+  .srow .up,.srow .down{padding:13px 14px;font-size:13.5px;}
+  .srow .up{border-right:1px solid var(--line);}
+  .srow.head .up{color:#bfe0db;}
+  .srow.head .down{color:#e6c4a0;}
+  .tag-up{color:var(--up);font-weight:700;}
+  .tag-down{color:var(--down);font-weight:700;}
+
+  /* ── 체크리스트 ── */
+  .checklist{counter-reset:ck;margin-top:6px;}
+  .ck{display:flex;gap:13px;padding:13px 0;border-bottom:1px dashed var(--line);cursor:pointer;}
+  .ck:last-child{border-bottom:none;}
+  .ck input[type="checkbox"]{
+    flex:0 0 20px;height:20px;margin-top:3px;
+    accent-color:var(--up);
+    cursor:pointer;
+    width:20px;
+  }
+  .ck .body{flex:1;}
+  .ck .body b{display:block;font-size:14.5px;margin-bottom:2px;transition:color .15s;}
+  .ck .body span{font-size:13px;color:var(--muted);}
+  .ck.checked .body b{color:var(--up);text-decoration:line-through;text-decoration-color:var(--up);}
+  .ck.checked{opacity:.7;}
+
+  /* 체크리스트 리셋 버튼 */
+  .ck-controls{display:flex;justify-content:flex-end;margin-top:14px;}
+  .ck-reset{
+    font-size:12px;color:var(--muted);background:none;border:1px solid var(--line);
+    border-radius:3px;padding:5px 12px;cursor:pointer;
+    transition:color .12s,border-color .12s;
+  }
+  .ck-reset:hover{color:var(--pivot);border-color:var(--pivot);}
+
+  /* 완료 메시지 */
+  .ck-done{
+    margin-top:14px;padding:12px 16px;
+    background:#eef6f4;border-left:3px solid var(--up);
+    border-radius:3px;font-size:13.5px;color:var(--up);font-weight:700;
+    display:none;
+  }
+  .ck-done.show{display:block;}
+
+  /* ── 스크립트 ── */
+  .script{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--pivot);border-radius:4px;padding:18px 20px;margin-top:16px;}
+  .script .scene{font-size:12px;letter-spacing:.05em;color:var(--pivot);font-weight:700;text-transform:uppercase;margin-bottom:10px;}
+  .turn{padding:9px 0;border-bottom:1px solid var(--line);transition:background .2s;}
+  .turn:last-of-type{border-bottom:none;}
+  .turn:hover{background:#f5f2ec;}
+  .who{font-size:11.5px;font-weight:700;letter-spacing:.05em;color:var(--muted);}
+  .line{font-size:14px;margin-top:2px;}
+  .move{font-size:12px;margin-top:4px;font-style:italic;}
+  .move.u{color:var(--up);}
+  .move.d{color:var(--down);}
+  .gate{margin-top:14px;padding:12px 14px;background:#fbeae7;border-radius:3px;font-size:13px;line-height:1.55;}
+  .gate b{color:var(--pivot);}
+
+  /* ── 태그/주석 ── */
+  .ci{font-size:11px;font-weight:700;color:var(--pivot);vertical-align:.1em;letter-spacing:.02em;}
+  .note{font-size:12.5px;color:var(--muted);margin-top:14px;line-height:1.55;}
+  .pull{margin:18px 0;padding:14px 18px;border-left:3px solid var(--ink);font-size:14px;background:var(--card);}
+  .pull b{font-weight:800;}
+
+  footer{margin-top:56px;padding-top:18px;border-top:1px solid var(--line);font-size:11.5px;color:var(--muted);line-height:1.6;}
+
+  @media(max-width:640px){
+    .srow{grid-template-columns:84px 1fr 1fr;}
+    .srow .ch{font-size:12px;padding:11px 9px;}
+    .srow .up,.srow .down{font-size:12.5px;padding:11px 9px;}
+    h1{font-size:25px;}
+    .tabs{gap:0;overflow-x:auto;}
+    .tab-btn{padding:10px 14px 9px;white-space:nowrap;}
+  }
+  @media print{
+    body{background:#fff;padding:0;font-size:12.5px;}
+    .seesaw,.signals,.script,.pull{box-shadow:none;}
+    .tabs,.tab-btn,.ck-controls,.ck-reset{display:none;}
+    .tab-panel{display:block!important;padding-top:20px;border-top:1px solid var(--line);}
+  }
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <div class="eyebrow">열린치과 · 내부 교육 자료</div>
+    <h1>진료실 Status 신호 매뉴얼</h1>
+    <div class="sub">환자와의 모든 순간은 지위 거래다 — 그걸 의식적으로 다루는 법</div>
+    <p class="origin">이론 출처: Keith Johnstone, <em>Impro: Improvisation and the Theatre</em>, "Status" 단원 (Methuen, 1981).
+    원전 개념은 연극 훈련에서 나왔고, 진료실 적용은 모두 내부 해석이다. 환자에게 직접 보여주는 자료가 아니라 위생사·술자 참조용이다.</p>
+  </header>
+
+  <!-- 시소 개념도 -->
+  <div class="seesaw">
+    <h2>핵심 원리 — See-saw</h2>
+    <div class="beam">
+      <svg viewBox="0 0 600 96" preserveAspectRatio="xMidYMid meet" aria-label="시소 다이어그램">
+        <polygon points="300,86 282,96 318,96" fill="var(--ink)"/>
+        <line x1="70" y1="34" x2="530" y2="70" stroke="var(--ink)" stroke-width="3"/>
+        <circle cx="70" cy="34" r="9" fill="var(--up)"/>
+        <text x="70" y="22" text-anchor="middle" font-size="13" font-weight="700" fill="var(--up)">술자 ↑ high</text>
+        <circle cx="530" cy="70" r="9" fill="var(--down)"/>
+        <text x="530" y="92" text-anchor="middle" font-size="13" font-weight="700" fill="var(--down)">환자 ↓ low</text>
+        <text x="150" y="50" font-size="11" fill="var(--muted)">한쪽이 오르면</text>
+        <text x="392" y="56" font-size="11" fill="var(--muted)">다른 쪽은 내려간다</text>
+      </svg>
+    </div>
+    <p class="law">진료실 셋업(가운·마스크·누운 환자·라이트)은 <b>기본값으로 술자를 올리고 환자를 내린다.</b><br>
+    아무것도 안 하면 환자는 구조적으로 low에 눌려 있다 — 불안과 클레임은 거기서 터진다.</p>
+  </div>
+
+  <!-- 탭 네비게이션 -->
+  <nav class="tabs" role="tablist">
+    <button class="tab-btn active" role="tab" aria-selected="true" data-tab="tab1">
+      <span class="num">01</span>신호 사전
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" data-tab="tab2">
+      <span class="num">02</span>응대 체크리스트
+    </button>
+    <button class="tab-btn" role="tab" aria-selected="false" data-tab="tab3">
+      <span class="num">03</span>클레임 응대
+    </button>
+  </nav>
+
+  <!-- 탭 01: 신호 사전 -->
+  <div id="tab1" class="tab-panel active" role="tabpanel">
+    <div class="secnum">01 — 신호 사전</div>
+    <h2 class="sec">무엇이 status를 올리고 내리는가</h2>
+    <p class="lede">"친절하게"는 지시가 안 된다. 같은 "안녕하세요"도 환자가 올림으로도 내림으로도 받는다 — status 값은 받는 사람이 정한다. 그래서 의도가 아니라 <b>구체적 신체 행동</b>으로 조절한다.</p>
+
+    <div class="signals">
+      <div class="srow head">
+        <div>신호 채널</div>
+        <div class="up">status 올림 (high)</div>
+        <div class="down">status 내림 (low)</div>
+      </div>
+      <div class="srow">
+        <div class="ch">머리</div>
+        <div class="up">말할 때 머리를 <b>고정</b>한다. 권위·확신의 가장 강한 신호.</div>
+        <div class="down">말하면서 머리를 가볍게 끄덕·흔든다. 부드럽고 덜 위압적.</div>
+      </div>
+      <div class="srow">
+        <div class="ch">시선</div>
+        <div class="up">눈을 떼면 곧바로 돌아보지 않는다. (선글라스가 status를 올리는 이유)</div>
+        <div class="down">눈 맞춤을 0.5초 안에 거두지 않고 유지하되, 응시는 아니다.</div>
+      </div>
+      <div class="srow">
+        <div class="ch">속도</div>
+        <div class="up">움직임을 느리게. 천천히 = 위.</div>
+        <div class="down">동작을 조금 빠르게, 가볍게.</div>
+      </div>
+      <div class="srow">
+        <div class="ch">공간·높이</div>
+        <div class="up">서서, 공간을 넓게 차지. 환자를 내려다봄.</div>
+        <div class="down">환자 <b>눈높이로 앉는다.</b> 높이를 양보 = 환자를 올림.</div>
+      </div>
+      <div class="srow">
+        <div class="ch">말투 "어…"</div>
+        <div class="up">"어—"를 길게, 문장 중간에. "끊지 마"의 신호.</div>
+        <div class="down">짧게 끝맺고 환자가 끼어들 틈을 둔다.</div>
+      </div>
+      <div class="srow">
+        <div class="ch">손·자세</div>
+        <div class="up">손을 얼굴에서 떼고, 자세를 편다.</div>
+        <div class="down">과장 없이, 손을 차분히. 위협 없는 개방 자세.</div>
+      </div>
+    </div>
+    <p class="note">위 신호는 Johnstone이 배우 훈련에서 관찰한 것이다 <span class="ci">[근거강함]</span>(원전 직접 기술). 어느 쪽이 "옳다"가 아니라, 상황에 맞게 <b>의식적으로 고르는</b> 게 핵심이다 <span class="ci">[claude해석]</span>.</p>
+  </div>
+
+  <!-- 탭 02: 체크리스트 -->
+  <div id="tab2" class="tab-panel" role="tabpanel">
+    <div class="secnum">02 — 응대 전 30초 체크리스트</div>
+    <h2 class="sec">환자를 올려야 할 때 (대부분의 상황)</h2>
+    <p class="lede">치료 설명·동의·불안 환자 — 환자가 "내가 결정한다"는 감각을 가져야 협조가 나온다. 술자가 한 칸 내려와 시소로 환자를 올린다.</p>
+
+    <div class="checklist" id="checklist">
+      <label class="ck" data-id="ck0">
+        <input type="checkbox" data-id="ck0">
+        <div class="body"><b>의자 높이를 환자 눈높이로 맞췄는가</b><span>서서 내려다보는 자세를 풀었는가. 높이 양보가 첫 번째 status 양보다.</span></div>
+      </label>
+      <label class="ck" data-id="ck1">
+        <input type="checkbox" data-id="ck1">
+        <div class="body"><b>마스크를 내리고 눈을 보여줬는가</b><span>가린 표정은 자동으로 status를 올린다 — 환자를 더 누른다.</span></div>
+      </label>
+      <label class="ck" data-id="ck2">
+        <input type="checkbox" data-id="ck2">
+        <div class="body"><b>설명할 때 환자가 끼어들 틈을 뒀는가</b><span>짧게 끊어 말하고 반응을 기다린다. 긴 "어—"로 발언권을 독점하지 않는다.</span></div>
+      </label>
+      <label class="ck" data-id="ck3">
+        <input type="checkbox" data-id="ck3">
+        <div class="body"><b>환자의 말에 머리를 끄덕였는가</b><span>고정된 머리는 권위지만 거리감이다. 끄덕임은 status를 살짝 내려 거리를 좁힌다.</span></div>
+      </label>
+      <label class="ck" data-id="ck4">
+        <input type="checkbox" data-id="ck4">
+        <div class="body"><b>너무 내려가지 않았는가</b><span>과한 저자세는 동정·불신을 부른다. 환자보다 "아주 조금만" 아래가 적정선이다.</span></div>
+      </label>
+    </div>
+
+    <div class="ck-done" id="ck-done">✔ 5가지 모두 확인했습니다. 응대 준비 완료.</div>
+
+    <div class="ck-controls">
+      <button class="ck-reset" id="ck-reset">체크 초기화</button>
+    </div>
+
+    <div class="pull"><b>왜 "조금만" 내리나.</b> 너무 내리면 "노예가 노래하는" 꼴 — 환자가 술자를 못 미더워한다. 시소는 미세 조정이다. 환자보다 반 칸 아래면 충분히 올라간 걸 느낀다. <span class="ci">[claude해석]</span></div>
+  </div>
+
+  <!-- 탭 03: 클레임 응대 -->
+  <div id="tab3" class="tab-panel" role="tabpanel">
+    <div class="secnum">03 — 클레임 status 응대</div>
+    <h2 class="sec">화난 환자는 status를 올리고 있다</h2>
+    <p class="lede">분노·항의는 거의 항상 "물러서, 물어버린다"는 high status 시도다. see-saw대로 술자가 맞받아 올리면 충돌이 격화된다. 자기 끝을 <b>통제해서</b> 살짝 내려 환자를 올리되, 부당 요구 선을 넘으면 다시 올려 경계를 긋는다.</p>
+
+    <div class="script">
+      <div class="scene">시나리오 — "치료받았는데 또 아파요. 돈만 받고 뭐 한 거예요?"</div>
+
+      <div class="turn">
+        <div class="who">환자 (high 시도)</div>
+        <div class="line">"이거 분명히 잘못된 거 아니에요? 다시 해줘요, 당연히 무료로."</div>
+      </div>
+      <div class="turn">
+        <div class="who">위생사 / 술자</div>
+        <div class="line">"불편하셨겠어요. 어떤 상황인지 제가 정확히 보고 말씀드릴게요."</div>
+        <div class="move d">↓ status 내림: 머리 끄덕임, 환자 눈높이로 앉기, 속도 늦춤. 시소로 환자를 올려 공격 동기를 뺀다.</div>
+      </div>
+      <div class="turn">
+        <div class="who">환자</div>
+        <div class="line">"빨리 좀 해줘요. 시간 없어요."</div>
+      </div>
+      <div class="turn">
+        <div class="who">위생사 / 술자</div>
+        <div class="line">"네, 지금 바로 확인하겠습니다. 한 가지만 먼저 여쭤볼게요 —"</div>
+        <div class="move d">↓ 여전히 낮게: 짧게 끊어 환자에게 발언권을 남긴다.</div>
+      </div>
+
+      <div class="gate">
+        <b>전환점 — 여기서 선을 넘으면 status를 다시 올린다.</b><br>
+        환자가 서류 위조("보험 되게 써줘"), 사실과 다른 주장 강요, 폭언으로 넘어오는 순간. 더 내려가면 안 된다.
+      </div>
+
+      <div class="turn" style="margin-top:14px">
+        <div class="who">환자 (부당 요구)</div>
+        <div class="line">"그냥 보험 처리되게 진단서 좀 바꿔줘요. 그 정도는 해줄 수 있잖아."</div>
+      </div>
+      <div class="turn">
+        <div class="who">술자 (high로 전환)</div>
+        <div class="line">"그건 해드릴 수 없습니다. 진단 내용은 사실대로만 기재됩니다."</div>
+        <div class="move u">↑ status 올림: 머리 고정, 속도 더 늦춤, 문장 짧고 단정적. 경계를 긋되 목소리는 올리지 않는다.</div>
+      </div>
+    </div>
+    <p class="note">한 문장씩 시소를 번갈아 흔드는 게 Johnstone식 status 전환이다 — 자기를 내렸다(달램), 다시 올렸다(경계). 핵심은 <b>음량이 아니라 신체 신호로</b> 올린다는 것. 소리치면 오히려 status가 떨어진다 <span class="ci">[claude해석]</span>. 에스컬레이션·법적 가드가 필요한 실제 클레임은 별도 클레임코치 절차로 받는다.</p>
+  </div>
+
+  <footer>
+    이론: Keith Johnstone, <em>Impro</em> (1981), "Status". 임상 적용·스크립트는 내부 해석이며 <span class="ci">[claude해석]</span> 표기. 환자 비공개, 위생사·술자 교육용. · 열린치과 운정
+  </footer>
+
+</div>
+
+<script>
+  // ── 탭 전환 ──
+  const tabBtns = document.querySelectorAll('.tab-btn');
+  const tabPanels = document.querySelectorAll('.tab-panel');
+
+  tabBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      tabBtns.forEach(b => { b.classList.remove('active'); b.setAttribute('aria-selected','false'); });
+      tabPanels.forEach(p => p.classList.remove('active'));
+      btn.classList.add('active');
+      btn.setAttribute('aria-selected','true');
+      document.getElementById(btn.dataset.tab).classList.add('active');
+    });
+  });
+
+  // ── 체크리스트 (localStorage 상태 유지) ──
+  const STORAGE_KEY = 'status-manual-checklist';
+  const checks = document.querySelectorAll('.ck input[type="checkbox"]');
+  const doneMsg = document.getElementById('ck-done');
+
+  function saveState() {
+    const state = {};
+    checks.forEach(c => { state[c.dataset.id] = c.checked; });
+    try { localStorage.setItem(STORAGE_KEY, JSON.stringify(state)); } catch(e) {}
+  }
+
+  function loadState() {
+    try {
+      const state = JSON.parse(localStorage.getItem(STORAGE_KEY) || '{}');
+      checks.forEach(c => {
+        if (state[c.dataset.id]) {
+          c.checked = true;
+          c.closest('.ck').classList.add('checked');
+        }
+      });
+    } catch(e) {}
+    updateDone();
+  }
+
+  function updateDone() {
+    const all = Array.from(checks).every(c => c.checked);
+    doneMsg.classList.toggle('show', all);
+  }
+
+  checks.forEach(c => {
+    c.addEventListener('change', () => {
+      c.closest('.ck').classList.toggle('checked', c.checked);
+      saveState();
+      updateDone();
+    });
+  });
+
+  document.getElementById('ck-reset').addEventListener('click', () => {
+    checks.forEach(c => {
+      c.checked = false;
+      c.closest('.ck').classList.remove('checked');
+    });
+    try { localStorage.removeItem(STORAGE_KEY); } catch(e) {}
+    updateDone();
+  });
+
+  loadState();
+</script>
+</body>
+</html>
