@@ -551,6 +551,7 @@ tags: []
 - [[endodontics/diagnosis/igna-2022-diagnostic-insight-of-dental-pulp]] — Igna 2022 · narrative-review · 소아 치수검사 — sensibility test 비권고, 유치·미성숙영구치엔 vitality test 선호 (DOI 10.3390/medicina58050665)
 - [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — Karamifar 2020 · narrative-review · 근단병소 병인·진단·치료 overview; 조직병리 표준, CBCT/MRI/echography 육아종-낭종 감별 유망 (DOI 10.14744/eej.2020.42714)
 - [[endodontics/diagnosis/kallel-2021-management-cutaneous-sinus-tract-odontogenic]] — Kallel 2021 · case-report (n=1, 18개월 추적) · 치성 피부누공 오진(냉동치료·수술·장기 항생제 모두 무효) → 근관치료(+재발 시 외과)로 치유·치근단 병소 퇴축; 치과-의과 소통 강조 (DOI 10.4103/jcd.jcd_56_21)
+- [[endodontics/diagnosis/asgary-2024-apical-periodontitis-vital-nonvital]] — 서사 리뷰(IEJ 2024): 생활·비생활 치아 치근단 주위염(AP) 임상·방사선 소견 및 새 8범주 진단 분류 제안; 생활치 AP는 VPT 1차 권고(성공률 92–99%); 전 세계 유병률 ~52% (DOI 10.22037/iej.v19i3.45605)
 
 ## 치주치료 (Periodontics)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — Herrera 2018 · narrative-review · 2017 WW 급성 치주병변 분류 — 치주농양(병인별)·괴사성 치주질환(숙주면역)·치수치주복합병변(파절·천공·치주염 유무) (DOI 10.1002/JPER.16-0642)
@@ -1267,6 +1268,7 @@ tags: []
 - [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] — Scoping(138 RCT/368 제형): 탈감작 치약 활성성분·불소·연마제 지도 — 포타슘·CSP 최다, MFP·NaF 주류 (2022)
 - [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]] — Narrative review: DH 기전·진단·관리, 환자 동기+술자 지식이 장기 성공 좌우 (2022)
 - [[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]] — Review(J Adv Res): tubule-sealing 기준 물리·화학·시너지 전략 분류, 생체모방 광화 강조 (2026)
+- [[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] — 서사 리뷰(2026): 수역학설·신경가소성·TRP 채널 기전, 단계적 배제 진단, 가정~수술 치료 알고리즘, 자기조립 펩타이드·CalBots 바이오미메틱 최신 동향; Triple-C 유지 체계 (DOI 10.4103/JCDE.JCDE_41_26)
 
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
 - [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — Liu 2025 (FEA, BMC): 균열 대구치 수복 설계×재료 응력·균열진전 — 피개형 설계가 응력 유리
@@ -1681,6 +1683,7 @@ tags: []
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — Zhao 2023 · in-vitro · acetone wet-bonding preserved aged bond strength (p<0.05) and suppressed MMP (60 third molars)
 - [[resin-bonding/comba-2024-effects-etching-time-ethanol-wet]] — Comba 2024 · in-vitro · ethanol pre-treatment raised radicular push-out strength, lowered MMP (p<0.01); etching time neutral (60 teeth)
 - [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — Cochrane SR+MA: rubber dam vs cotton-roll isolation; ↑6-month composite NCCL survival (OR 2.29), low certainty
+- [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] — in vitro(n=60 하악 소구치): 글래스 파이버 포스트 접착 시 self-etch 131 N > total-etch 115 N > self-adhesive 75 N (push-out, p=0.001); SE 계열 권장 (DOI 10.4103/JCDE.JCDE_249_26)
 
 ### Resin / inlay — direct & indirect restorations
 - [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]] — Wolff 2024 · consensus · German S3/GRADE guideline: direct composite recommended for Class I–V, cusp replacement, preferred over indirect inlays posteriorly
@@ -1806,6 +1809,7 @@ tags: []
 
 **resin**
 - [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — Critical review of bioactive resin strategies (metallic nanoparticles, QAMs, NACP) to prevent secondary caries, with failure-rate benchmarks and formulation vulnerability analysis (2023)
+- [[resin/susita-2026-comparative-analysis-stress-distribution-teeth]] — 3D FEA, 상악 중절치: 유리섬유·SFRC·Ribbond 포스트 응력 비교; SFRC 포스트 내부 응력 최저(5.22 MPa)·상아질 친화적 응력 분포 (DOI 10.4103/JCDE.JCDE_102_26)
 
 **caries**
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — Review (54 studies) establishing moderate-quality dose-response that free sugars ≤10%E reduces caries and low-quality evidence for further benefit below 5%E, underpinning the 2015 WHO guideline (2016)
