@@ -1086,6 +1086,7 @@ tags: []
 - [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] — SR+NMA (57 RCT): TMD-관절에 NSAIDs/IA corticosteroid·hyaluronate; TMD-근육에 cyclobenzaprine; BMS에 clonazepam·capsaicin — GRADE 근거 낮음 (J Oral Rehabil 2017)
 - [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — SR (15 RCT): 수기치료+운동치료 병용이 TMD 물리치료 중 최선; 모든 physiotherapy 모달리티 효과적 (J Clin Med 2023)
 - [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] — SR (20연구): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%+ 비수술 관리 가능 (Cureus 2024)
+- [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]] — Narrative review: TMD 생물심리사회적 3영역 모델; OPPERA 성인 36% 유병률; DC/TMD 12진단; 보존적 다학제 치료 표준 (Oral Surg 2020)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
