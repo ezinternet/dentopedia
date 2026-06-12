@@ -1017,6 +1017,7 @@ tags: []
 - [[oral-medicine/mills-2017-aphthous-stomatitis-oral-medicine-review]] — RAS 임상양상·병인론(면역·유전·영양·스트레스)·치료 단계적 접근 고찰.
 - [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 서술 고찰 (그리스 ENT+치과): 단측 상악동염 약 30%가 치성 원인; 발치·치성감염·OAF 주 원인; 치과 수술 + ESS 병행 표준; ENT-치과 다학제팀 필수 (J Dent Sci 2021)
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)
+- [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — Kim 2019 내러티브 리뷰: 치성 상악동염(OMS) 정의·병인·미생물학(세균 생물막)·CLP/FESS/MESS 수술 비교·구강-상악동 누공 관리; OMS = 만성 상악동염의 30–40% (DOI 10.1186/s40902-019-0196-2)
 - [[oral-medicine/jkda-2022-60-4-001]] — Cross-sectional (KUMC Halitosis Clinic, n=246, JKDA 2022): 한국 생리적 구취 환자 questionnaire·dietary·salivary 분석 — 진단·예방 protocol 기반 데이터
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 유발 골흡수가 cyst로 오인 — CBCT 감별진단·history-taking 중요성
 - [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
