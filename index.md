@@ -552,6 +552,7 @@ tags: []
 - [[endodontics/diagnosis/karamifar-2020-endodontic-periapical-lesion-an-overview]] — Karamifar 2020 · narrative-review · 근단병소 병인·진단·치료 overview; 조직병리 표준, CBCT/MRI/echography 육아종-낭종 감별 유망 (DOI 10.14744/eej.2020.42714)
 - [[endodontics/diagnosis/kallel-2021-management-cutaneous-sinus-tract-odontogenic]] — Kallel 2021 · case-report (n=1, 18개월 추적) · 치성 피부누공 오진(냉동치료·수술·장기 항생제 모두 무효) → 근관치료(+재발 시 외과)로 치유·치근단 병소 퇴축; 치과-의과 소통 강조 (DOI 10.4103/jcd.jcd_56_21)
 - [[endodontics/diagnosis/asgary-2024-apical-periodontitis-vital-nonvital]] — 서사 리뷰(IEJ 2024): 생활·비생활 치아 치근단 주위염(AP) 임상·방사선 소견 및 새 8범주 진단 분류 제안; 생활치 AP는 VPT 1차 권고(성공률 92–99%); 전 세계 유병률 ~52% (DOI 10.22037/iej.v19i3.45605)
+- [[endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus]] — 전향 관찰연구(n=50, 치아 328개): 근단병소 인접 CBCT 상악동 점막두께 3.95mm vs 병소 없음 1.23mm (p<0.01); 조직병리 육아종 50%·낭종 40%; IHC CD20+/CD79α+ 우세 만성 염증 (DOI 10.3390/medicina57080840)
 
 ## 치주치료 (Periodontics)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — Herrera 2018 · narrative-review · 2017 WW 급성 치주병변 분류 — 치주농양(병인별)·괴사성 치주질환(숙주면역)·치수치주복합병변(파절·천공·치주염 유무) (DOI 10.1002/JPER.16-0642)
@@ -883,6 +884,9 @@ tags: []
 - [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]] — 코크란 SR+MA (RCT 49편, n=6,771): CHX 가글(OR 0.38)·0.2% 발치와 내 젤(OR 0.44)이 건성 발치와 감소(중등도 확실성); 효과는 기저 위험 비례 — 고위험 사랑니 NNT≈7, 일반 발치 NNT 160대; Alvogyl(구)>ZOE 7일째 통증(매우 낮음)
 - [[oral-surgery/garola-2021-clinical-management-alveolar-osteitis-systematic]] — SR (임상시험 17편, AO 치료 39개): 통증조절 기준(2일째 VAS≤4/7일째 ≥85% 무통) 충족 53.8%뿐; 성공 = 기본(발치와 세척)+특정(Alveogyl·Neocones·SaliCept·LLLT·PRF); 이질성으로 순위화 불가 — daly의 치료 공백 보완
 - [[oral-surgery/bertollo-2011-drilling-bone-practicality-limitations-complications]] — 정형외과 공학 단행본 챕터(narrative): 골 드릴링 발열 메커니즘 + 골괴사 임계값(47°C/1분·50°C/30초·56°C); 임플란트 osteotomy의 irrigation·feed-rate·bur 기하학 설계 근거 기초. 큰 직경 데이터 다수로 치과 외삽 시 주의
+- [[oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma]] — SR+NMA (9건, 7 RCT, n=519): 구강상악동교통·누공(OAC/OAF) 폐쇄에서 협측지방패드(BFP) > 협측전진피판(OR 15) > 구개회전피판(OR 15.29); 즉시 처치(24–48h) 성공률 90–95% (DOI 10.3390/dj12050147)
+- [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]] — 구강상악동루(OAF) 국소 피판 폐쇄술 서술 고찰: 크기 기반 알고리즘(<3mm 자연치유·<5mm 단순봉합·≥5mm 피판) + 협측전진피판·협측지방패드·구개회전피판(>10mm) 비교 (DOI 10.5125/jkaoms.2020.46.1.58)
+- [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]] — 서사 리뷰(1999): OAF 폐쇄 피판 술식 전반(협측·구개·설·측두근·동종이식) + 결손 크기별 4단계 프로토콜; 급성 1차 성공률 ~95% vs 만성 2차 최저 67% (DOI 10.1016/S1043-1810(99)80037-2)
 
 ## 레진 (Resin)
 - [[resin/theracem-bisco-product-reference]] — 제품 reference: TheraCem(BISCO; calcium silicate·10-MDP·Ca/F 방출 dual-cure self-adhesive 시멘트); 지르코니아 합착 강점 종합
@@ -1018,6 +1022,9 @@ tags: []
 - [[oral-medicine/psillas-2020-odontogenic-maxillary-sinusitis-comprehensive-review]] — 서술 고찰 (그리스 ENT+치과): 단측 상악동염 약 30%가 치성 원인; 발치·치성감염·OAF 주 원인; 치과 수술 + ESS 병행 표준; ENT-치과 다학제팀 필수 (J Dent Sci 2021)
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)
 - [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — Kim 2019 내러티브 리뷰: 치성 상악동염(OMS) 정의·병인·미생물학(세균 생물막)·CLP/FESS/MESS 수술 비교·구강-상악동 누공 관리; OMS = 만성 상악동염의 30–40% (DOI 10.1186/s40902-019-0196-2)
+- [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] — 치과기원 부비동염(ODS) 이비인후과 관점 서술 리뷰: 이중확인 진단체계, 항생제 한계, 치과+ESS 병행 90–100% 해소율, 1차 ESS 옵션 (DOI 10.1002/wjo2.9)
+- [[oral-medicine/de-corso-2022-sinonasal-complications-dental-disease]] — 후향 코호트(262례, Gemelli IRCCS 2015–2022): SCDDT 내시경 비내수술(FESS) 성공률 96.5%, SNOT-22 43.4→6(15일); 원인 55.3% 의인성(임플란트·발치) vs 44.7% 치성; Felisati SCDDT 분류 적용; OAF 동시 처치 가능 (DOI 10.3390/jpm12122078)
+- [[oral-medicine/bisla-2022-odontogenic-infections-maxillary-sinus-changes]] — CBCT 단면연구(213명, 404동): 치주골소실이 상악동 점막비후의 치근단병소보다 강한 예측인자(OR 2.2, p=0.008); 전체 점막변화 49.5% (DOI 10.1016/j.jobcr.2022.08.001)
 - [[oral-medicine/jkda-2022-60-4-001]] — Cross-sectional (KUMC Halitosis Clinic, n=246, JKDA 2022): 한국 생리적 구취 환자 questionnaire·dietary·salivary 분석 — 진단·예방 protocol 기반 데이터
 - [[oral-medicine/jkda-2025-63-9-004]] — Case report (단국대 구강악안면방사선과 한원정, JKDA 2025): 미용 필러 유발 골흡수가 cyst로 오인 — CBCT 감별진단·history-taking 중요성
 - [[oral-medicine/jaaskelainen-2018-burning-mouth-syndrome-neuropathic-pain]] — NeuPSIG(PAIN) 리뷰: 일차성 BMS는 신경병성 통증; 말초형(lidocaine block·topical clonazepam 반응) vs 중추형(국소무반응+정신과 동반) 2-subtype 분류 (2018)
