@@ -155,22 +155,33 @@ Classify by **method/procedure**, not by disease or anatomy.
 ## Adding a New Paper
 
 Say: *"Add this paper to the wiki: /path/to/paper.pdf"*  
-Or: *"인제스트 해줘"* (processes all pending papers in the queue one at a time)
+Or: *"인제스트 해줘"* (processes all pending papers in the queue — parallel subagents)
 
-**Sequential one-paper-at-a-time protocol — MANDATORY**
+**Parallel-subagent protocol — content in parallel, finalize in serial**
 
-When multiple papers are pending, **never batch them**. Always process one paper completely before starting the next:
+When multiple papers are pending, fan them out to **one subagent per paper** for the content work, then have the **parent serially finalize** (index + commit + push + qmd). This is faster than one-at-a-time *without* reintroducing context exhaustion, because each subagent gets its own fresh context window — the old single-context batch failure mode (5+ papers fill the main context and later papers fail silently) cannot happen when each paper lives in its own subagent.
 
 ```
-LOOP until queue empty:
-  1. python3 scripts/ingest-one.py --next   ← get stem + extracted text
-  2. Run Steps 0-4 below for that ONE stem  ← write files
-  3. python3 scripts/ingest-one.py --finish <stem>
-     ← per-file git commit + push + qmd update + embed + mark processed
-  4. Next iteration
+PHASE 1 — fan out (parallel):  one subagent per pending stem
+  Each subagent, for its ONE paper, runs Steps 0–3 below:
+    • Step 0  dedup + retraction gate (DOI grep) — if duplicate, STOP and report "skip:<reason>"
+    • rename PDF papers/{raw}.pdf → papers/{canonical-stem}.pdf
+    • Step 2–3  write sources/{stem}.md + wiki/{category}/{stem}.md
+  Subagent does NOT touch index.md, does NOT git-commit/push, does NOT run qmd.
+  Subagent RETURNS: {stem, category, index_line, status: ok|skip:<reason>}
+
+PHASE 2 — finalize (serial, parent only — avoids git/index races):
+  for each returned ok-paper (one at a time, in order):
+    • Step 4  add its index_line to index.md
+    • Step 8–9  lint that page + orphan check
+    • python3 scripts/ingest-one.py --finish <stem>
+        ← per-file git commit + push + qmd update/embed (incremental) + mark processed
+  for each returned skip-paper: delete the duplicate PDF, mark queue processed (no page)
 ```
 
-This prevents context-window exhaustion (the primary failure mode when batching 5+ papers). Each paper is ~3 000–4 000 tokens of PDF text + file-writing; beyond ~3 papers the agent context fills and subsequent papers fail silently. One-at-a-time keeps each unit well under limit and ensures a clean commit/push after every paper regardless of what follows.
+Why this split: file writes to distinct paths (`sources/*`, `wiki/*`, distinct PDFs) are conflict-free in parallel, so PHASE 1 parallelizes the real bottleneck (PDF read + page authoring — this is what was slow). But `index.md` edits and `git add/commit/push` share mutable state — running them concurrently races/corrupts the index and the git tree — so PHASE 2 keeps them strictly serial in the parent. Subagents do NOT use `isolation: worktree` (they must write into the main working tree the parent then commits). `qmd embed` is incremental (only changed docs, seconds), so running it inside each `--finish` is cheap; never force a full re-embed (`-f`).
+
+Helper: `python3 scripts/ingest-one.py --next` prints one stem+text for a single subagent; read `.ingest-queue` `pending[]` to enumerate all stems to fan out in PHASE 1. For a single paper, skip the fan-out and run Steps 0–4 + `--finish` inline (no subagent needed).
 
 The agent will do all steps automatically.
 
