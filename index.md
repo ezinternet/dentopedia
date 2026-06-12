@@ -1078,6 +1078,12 @@ tags: []
 - [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — SR: 수면이갈이(Sleep Bruxism) 관리 — 교합안정장치는 치아 보호만, 바이오피드백이 이갈이 빈도 감소 최고 근거 (Jpn Dent Sci Rev 2022)
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — BMJ 2023 임상진료지침: 만성 TMD 통증 보존적 치료 우선; BTX 불응성 근막통 조건부 권고; 비가역 교합처치 강력 반대
 - [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] — Narrative review (KDA Journal 50(5) 2012, Dong-A OMFS 김철훈): 측두하악장애 (TMD) 임상가용 진단·치료 가이드 — "정상기능+자극>생리적 내성" 공식, 근육 vs 관절 감별(end-feel·deviation/deflection·하중검사·진단마취), 가역적 술식 우선(NSAID·교합안정장치·관절천자세정술); 2014 DC/TMD 이전 narrative
+- [[tmj/zhang-2024-tmj-morphology-ipilffdp-cbct]] — CBCT cohort: IPILFFDP 후 VD ~2mm 증가에도 1년 TMJ 형태 유의한 변화 없음 (J Oral Rehabil 2024)
+- [[tmj/radej-2023-condylar-displacement-malocclusion-cr-mip-sr]] — Scoping review: CR-MIP 과두 변위 위험인자 — 수직성장형 안면 골격이 가장 큰 위험 (J Oral Rehabil 2023)
+- [[tmj/pereira-2024-condylar-mandibular-movements-mad-osa-cbct]] — 전향적 CBCT (n=20): MAD 전방 과두 이동이 상기도 용적과 직접 상관; 관절 융기 형태가 과두 이동량 조절 (Clin Oral Investig 2024)
+- [[tmj/gurgel-2023-mad-vs-mma-upper-airway-3d-cbct]] — 후향적 CBCT (MAD vs MMA): MAD=시계방향 회전·상부 구인두 확장; MMA=반시계방향·전체 상기도 더 큰 확장 (BMC Oral Health 2023)
+- [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] — 동물 연구 (쥐, 8주): OVD 증가는 교합 상실보다 과두 연골 손상 더 빠르고 심함; 연골하골 회복 지연 (J Oral Rehabil 2024)
+- [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] — SR+NMA (57 RCT): TMD-관절에 NSAIDs/IA corticosteroid·hyaluronate; TMD-근육에 cyclobenzaprine; BMS에 clonazepam·capsaicin — GRADE 근거 낮음 (J Oral Rehabil 2017)
 
 ## 보툴리눔 톡신 — 약물 (Botulinum Toxin / BTX-A)
 - [[botulinum-toxin/de-la-torre-canales-2024-botulinum-toxin-a-myogenous]] — Umbrella review (Drugs 2024, 18 SR): BoNT-A vs M-TMD — 위약보다는 우월·표준치료엔 비우월; 근육·골 부작용 위험으로 "last option" 권고
