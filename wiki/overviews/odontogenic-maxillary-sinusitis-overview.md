@@ -15,7 +15,21 @@ source_papers:
   - wiki/oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma.md
   - wiki/oral-surgery/kwon-2020-closure-oroantral-fistula-local.md
   - wiki/oral-surgery/lazow-1999-oroantral-fistula-flap-procedures.md
-tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control]
+  - wiki/sinus-lift/lateral/lee-2023-impact-sinus-floor-elevation-techniques.md
+  - wiki/sinus-lift/lateral/nemati-2023-membrane-perforation-risk-lateral-sinus.md
+  - wiki/sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma.md
+  - wiki/sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus.md
+  - wiki/sinus-lift/lateral/henriques-2022-maxillary-sinus-septa-prevalence-sr-ma.md
+  - wiki/sinus-lift/lateral/khiabani-2024-sinus-membrane-thickness-lsfe-mucosal.md
+  - wiki/sinus-lift/lateral/gulbey-2026-osteomeatal-complex-variations-maxillary.md
+  - wiki/sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy.md
+  - wiki/sinus-lift/lateral/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct.md
+  - wiki/sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma.md
+  - wiki/sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection.md
+  - wiki/sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct.md
+  - wiki/sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.md
+  - wiki/sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk.md
+tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention]
 ---
 
 ## One-line Summary
@@ -79,9 +93,57 @@ Across 10 papers, odontogenic maxillary sinusitis is a treat-the-source disease:
         • 급성 즉시 폐쇄(~95%) ≫ 만성 지연(67%) → 가능한 한 조기 폐쇄(Lazow)
 ```
 
+## 예방축 — 상악동거상술(SFE)에서 천공·OMS 예방
+
+OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(De Corso 2022)인 만큼, "낫게 하는" 진단·치료 축만큼 **"만들지 않는" 예방 축**이 중요하다. 14편의 sinus-lift 근거가 다섯 갈래로 이 축을 채운다 — 천공인자·점막 cutoff·OMS(술전 부비동 건강)·중격·후상치조동맥(PSAA).
+
+### §1. 천공 위험인자 (Perforation factors)
+
+슈나이더막 천공은 측방창 SFE의 핵심 합병증(보고 천공률 10–60%)이며, 위험인자는 정량화돼 있다:
+
+| 인자 | 효과크기 | 출처 | Design |
+|---|---|---|---|
+| 잔존 치조골 높이(RRH) ↓ | MD −0.89 mm; 이상치 제거 시 OR 4.68 | Ye 2025 | SR+MA (10편, 1,809) |
+| 흡연 | OR 1.58 (1.10–2.25) | Wang 2023 | SR+MA (9편, 1,424) |
+| 흡연 | HR 25.0 (7.6–82.5) | Nemati 2023 | prospective (n=140) |
+| 상악동 격벽 | HR 8.07 / OR >2 | Nemati 2023 / Yang 2024 | prospective / SR+MA |
+| 점액낭종(MRC) | HR 27.75 (8.7–88.2) | Nemati 2023 | prospective |
+| 다수치 결손(≥2) | HR 68.09 | Nemati 2023 | prospective |
+| 술식(측방창 회전버 최고 위험 · 경치조골 리머 최저) | SUCRA 순위 | Lee 2023 | SR+NMA (85편, 5,551) |
+
+→ **천공률 10% 증가가 임플란트 생존 OR 0.45로 이어진다(Lee 2023).** 단, 천공이 *발생*하더라도 적절히 봉합·관리하면 천공 자체는 유의한 임플란트 실패 위험인자는 아니다(OR 1.347, NS; 실패율 2.1% — Sala 2024). 즉 **예방 > 발생 후 관리**의 우선순위가 근거로 뒷받침된다.
+
+### §2. 점막 두께 cutoff (Membrane thickness)
+
+- **두꺼운 점막은 금기가 아니다.** 술전 점막 >5 mm군은 SFE 후 6.8→3.4 mm로 유의 감소하고 비부비동염은 0이었다(Khiabani 2024, 전향 n=40) — 두꺼운 점막(흔히 염증/저류 반영)은 술전 평가·관리 대상이지 절대 금기는 아니다.
+- **얇은 점막(<1 mm)은 오히려 천공에 취약**하다(Nemati 코호트 평균 막두께 0.77 mm = thin-fragile 영역).
+- **형태학으로 점막두께를 예측할 수 없다** — 안면지수(facial index)는 막·측벽 두께와 무관하므로 형태와 무관하게 CBCT 실측이 필수(Abullais 2024); 소구치 부위 막두께 > 대구치.
+
+### §3. 술전 부비동 건강 = 술후 OMS 예방 (Pre-op sinus health)
+
+- **술전 만성 부비동염이 측방 SFE 후 감염·임플란트 실패의 최강 예측인자**(p=0.007, Kozuma 2017) → SFE 전 부비동 평가, 필요 시 ENT 선치료.
+- **술후 부비동염 빈도는 술식·접근에 따라 갈린다**: SFE 1.11% vs 협골 임플란트 3.76%(Rocha 2023 SR+MA); 측방창 1.35%.
+- **일과성 배출로 폐쇄는 자연 회복**한다 — 측방 SFE 후 1주에 상악동공(MSO) 폐쇄가 19.4%로 증가하나 9개월에 완전 회복하고 부비동염 0(Sakuma 2020). 즉 *일시적* 점막 부종을 부비동염으로 오판하지 말 것.
+- **고위험 해부(비중격만곡·할러세포·알레르기비염) 환자**에서는 국소 스테로이드 + 류코트리엔 수용체 길항제(LTRA) + 항생제 비침습 예방 프로토콜이 PSLMS를 막은 증례 근거가 있다(Suzuki-Yamazaki 2020, n=1).
+
+### §4. 상악동 중격 (Septa)
+
+- **중격은 흔하다** — 유병률 상악동당 33.2%·환자당 41.0%, 중간부·횡단 방향이 86%로 지배적(Henriques 2022 SR+MA, 62편/22,460동).
+- **중격은 천공 위험을 크게 올린다**(HR 8.07, Nemati; OR >2, Yang) — 창 설계 시 중격을 가로지르지 않도록 분할창(double window)·우회가 필요.
+- **드레이닝 해부도 변수다** — 골구내강(osteomeatal complex, OMC) 변이가 점막비후·골공폐쇄와 유의하게 연관(Gulbey 2026, n=1957동; 비후 54%)되므로 술전 CBCT에서 OMC 개존도 함께 평가.
+
+### §5. 후상치조동맥 (PSAA, Posterior Superior Alveolar Artery)
+
+- 측방창 골삭제 시 출혈 합병증을 피하려면 PSAA 주행을 술전 CBCT로 매핑한다: **양측성 70.2%, 골내형(intraosseous) 63%, 직경 <1 mm 55%, 치조정에서 평균 ~16 mm**(Gulec 2025, 255명/510동).
+- 골내형·치조정 근접·큰 직경일수록 창 상연을 동맥 아래로 낮추거나 우회.
+
+### 예방 종합 — chairside 위험 점수화
+
+위 인자를 술전에 한 화면에서 채점하도록 인터랙티브로 구현했다 — RRH·점막두께·중격·흡연(+PSAA·OMC) 입력 → 위험등급 + 창 디자인 권고: [[interactives/2026-06-12_sinus-perforation-risk-calculator]].
+
 ## Open Questions / Cautions
 
-- **예방 축은 아직 얇다.** 본 클러스터는 진단·치료·OAF 폐쇄가 강하지만, 상악동거상술(SFE)에서 OMS·천공을 *예방*하는 술식 근거(점막두께 cutoff, 골밀도화 등)는 별도 sinus-lift 클러스터([[overviews/sinus-lift-pseudocyst-mrc-overview]], gaspar-2025 osseodensification)에 분산돼 있어 교차 참조 필요.
+- **예방축 근거는 채워졌으나 대부분 관측연구다.** §1–5의 핵심 수치는 SR+MA(Lee·Ye·Wang·Henriques·Rocha·Sala) + 전향코호트(Nemati·Khiabani)로 비교적 단단하지만, 통합 위험점수의 *예측 타당도*를 검증한 RCT는 아직 없다 — 점수화는 의사결정 보조이지 확정 도구가 아니다.
 - **근거 등급의 비대칭.** OAF 피판 우열은 NMA(Oliva)로 비교적 단단하나, 진단·치료 핵심 주장(이중확인·90–100% 해소)은 narrative/retrospective 기반이라 RCT 수준 근거는 부족.
 - **의인성 증가 추세**(De Corso 55%)는 임플란트·SFE 보급의 그림자 — 시술 전 CBCT 부비동 평가와 치주상태 확인이 예방의 출발점.
 
