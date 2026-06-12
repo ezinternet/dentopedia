@@ -1404,7 +1404,7 @@ tags: []
 
 ## Chairside 인터렉티브 (Interactive Tools)
 
-- [[interactives/2026-05-25_isq-loading-threshold-calculator]] — ISQ 부하 결정 도구 (2026-05-25, 2026-05-27 4면→2면 B·L 측정으로 단순화). Andersson 2019 ISQ ≥65 + Bavetta 2024 Osstell·Osseo 보정 + 술식·bone type별 임계값 동적 조정.
+- [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]] — ISQ·RFA 통합 시뮬레이터 (측정 → 치유궤적 → 부하결정). 이전 ISQ 계산기 계열(threshold·v2·v3·v3.1·v3.2)·rfa-simulation 통합 후 폐기, 본 v1로 단일화. Andersson 2019 ISQ ≥65 + Bavetta 2024 Osstell·Osseo 보정 + ITV·D1–D4 골질·즉시/조기부하 동적 조정.
 - [[interactives/2026-05-27_drug-decision-tree]] — 약물 결정 트리 (2026-05-27 신설): 환자 case(연령·임신·eGFR·항응고·항흡수제·DM·DDI·시술) 입력 → 항응고·MRONJ·항생제·진통제·LA 5축 권고 한 화면. drug 5개 sub-overview thesis를 chairside로 압축.
 - [[interactives/2026-05-27_short-implant-vs-augmentation]] — 위축부 implant 결정 (2026-05-27 신설): RBH·RBW·부위·bone type·환자 morbidity·SFE 술자 경험 입력 → SHORT/AUGMENT/양자택일/보류 권고. Yu 2021 SR-MA + Sivolella 2025 5y + Barausse 2024 8y + Saenz-Ravello 2023 umbrella + Zhang 2024 NMA.
 - [[interactives/2026-05-27_drill-thermal-selector]] — Drill thermal protocol selector (2026-05-27 신설): bone type·HU·drill 재질·누적 사용·method·RPM·irrigation 입력 → 0–100 heat 위험 score + 47°C 초과 위험 + protocol 강화 권고. Bento 2023 SR-MA + Sorgato 2025 + Saxena 2024 + Marzorati 2026 SR-MA + Woods 2022 SR + Heuzeroth 2021.
