@@ -401,6 +401,20 @@ tags: []
 - [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] — SR+MA: 상악동 격벽 존재 → 천공 OR >2배; 측벽 두께 >2mm → 천공 위험 증가; 수술 전 CBCT 평가 필수
 - [[sinus-lift/lateral/yue-2022-sinus-floor-elevation-before-extraction]] — 3년 추적 케이스 리포트: 치주적 예후 불량 상악 16번 발치 전 변형 측방 상악동거상술(Modified Sinus Floor Elevation, MSFE)을 시행해 잔존골 1–2 mm를 12–14 mm로 증대시킨 뒤 13개월 후 발치 + 즉시식립; 조직학적으로 신생골 우세, 3년 부하 후 골흡수 2 mm 미만, 치주염성 임플란트(peri-implantitis) 없음.
 - [[sinus-lift/lateral/zenobio-2019-blood-clot-stability-sinus-immediate]] — 인간 임상 파일럿 (n=10): 측방창 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립으로 무이식재 (graftless) 신생골 형성 확인. 6개월간 혈병 (Blood Clot) 부피 평균 16.52% ± 8.60% 수축, 골 높이 35–43% 수축.
+- [[sinus-lift/lateral/lee-2023-impact-sinus-floor-elevation-techniques]] — SR+NMA (85연구, 5,551술식): 측방창 회전버 막천공 위험 최고·경치조골 리머 최저(SUCRA); 천공률 10%↑ → 임플란트 생존 OR 0.45 (DOI 10.11607/jomi.10048)
+- [[sinus-lift/lateral/nemati-2023-membrane-perforation-risk-lateral-sinus]] — 전향 코호트 (n=140): 측방 SFE 천공 위험인자 — 격벽 HR 8.07·점액낭종 HR 27.75·흡연 HR 25.0·다수치 결손 HR 68.09 (DOI 10.1016/j.jcms.2023.06.010)
+- [[sinus-lift/lateral/ye-2025-rrh-sinus-membrane-perforation-sr-ma]] — SR+MA (10연구, 1,809술식): 잔존 치조골 높이(RRH) 낮을수록 천공 위험↑ (MD −0.89mm; 이상치 제거 시 OR 4.68) (DOI 10.1186/s12903-025-06902-6)
+- [[sinus-lift/lateral/wang-2023-smoking-schneiderian-membrane-perforation-sinus]] — SR+MA (9편, n=1,424): 흡연 → 슈나이더막 천공 위험↑ OR 1.58 (95% CI 1.10–2.25, I²=5%) (DOI 10.1111/cid.13146)
+- [[sinus-lift/lateral/henriques-2022-maxillary-sinus-septa-prevalence-sr-ma]] — SR+MA (62편, 22,460 상악동): 상악동 격벽 유병률 상악동당 33.2%·환자당 41.0%; 중간부·횡단(86%) 지배 — SFE 전 CBCT 필수 (DOI 10.1016/j.ijom.2021.11.012)
+- [[sinus-lift/lateral/khiabani-2024-sinus-membrane-thickness-lsfe-mucosal]] — 전향 대조 (n=40 상악동): 술전 점막 <5 vs >5mm; >5mm군 6.8→3.4mm 유의 감소, 비부비동염 0 — 두꺼운 점막은 LSFE 금기 아님 (DOI 10.11607/jomi.10839)
+- [[sinus-lift/lateral/gulbey-2026-osteomeatal-complex-variations-maxillary]] — 후향 CBCT (n=1957 상악동): 골구내강(OMC) 변이가 점막비후·골공폐쇄와 유의 연관; 비후 54%; SFE 전 OMC 평가 권고 (DOI 10.1111/cid.70121)
+- [[sinus-lift/lateral/gulec-2025-psaa-cbct-maxillary-sinus-anatomy]] — 후향 CBCT (255명, 510 상악동): 후상치조동맥(PSAA) 양측성 70.2%·골내형 63%·직경<1mm 55%·치조정 거리 ~16mm — 혈관 합병증 예방 계측값 (DOI 10.1186/s12903-025-05452-1)
+- [[sinus-lift/lateral/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct]] — 후향 CBCT (n=75, 150 상악동): 안면지수는 점막·측벽 두께 예측 못함 → 형태 무관 CBCT 필수; 소구치 MT > 대구치 (DOI 10.1371/journal.pone.0298403)
+- [[sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma]] — SR+MA (29편): 천공 시 임플란트 실패율 2.1%; 천공 vs 비천공 OR 1.347 (NS) — 천공 자체는 유의 실패 위험인자 아님 (DOI 10.3390/jcm13051253)
+- [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — 후향 코호트 (109명, 121 상악동, 252 임플란트): 술전 만성 부비동염이 측방 SFE 후 감염·임플란트 실패 최강 예측인자(p=0.007) → 술전 ENT 평가 필수 (DOI 10.1007/s10006-017-0611-8)
+- [[sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct]] — 후향 CBCT (n=72 상악동): 측방 SFE 후 1주 상악동공(MSO) 폐쇄 19.4%로 일시 증가, 9개월 완전 회복·부비동염 0 (DOI 10.1186/s40729-020-00233-7)
+- [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — SR+MA (27편): 술후 부비동염 SFE 1.11% vs 협골임플란트 3.76%; 기법별 격차 큼(협골 막하 21.6% vs 막외 0%; 측방창 1.35%) (DOI 10.1007/s10006-023-01159-1)
+- [[sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk]] — 증례(n=1): 비중격만곡·할러세포·알레르기비염 고위험자에서 국소 스테로이드+LTRA+항생제로 SFE 후 상악동염 비침습 예방(7개월+ 무증상) (DOI 10.1155/2020/6869805)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — SR (36 studies, 2732 MSFA): VSA (≥5mm) vs LSA (<5mm); stopper bur/balloon/hydraulic/endoscope/microscope techniques; all achieve sufficient augmentation with reduced morbidity
