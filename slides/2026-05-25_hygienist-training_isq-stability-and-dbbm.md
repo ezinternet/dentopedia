@@ -266,7 +266,7 @@ SOP:
 ## 참조
 
 - 본 deck의 모든 임계값·SOP 결정은 [[agenda/2026-05-25_q2-clinic-sop-dbbm-isq]] 분기 작업의 산출물.
-- ISQ chairside 계산기: [[interactives/2026-05-25_isq-loading-threshold-calculator]]
+- ISQ chairside 계산기: [[interactives/2026-06-02_isq-rfa-loading-simulator-v1]]
 - 케이스 컨퍼런스 결정사항: [[note-meeting/2026-05-25_clinical-team-case-conference]]
 - 분기 종료 후 통합 SOP overview 예정 — `wiki/overviews/dbbm-clinic-selection-sop-2026-q2.md`
 
