@@ -48,6 +48,7 @@ This cross-sectional CBCT study measured interradicular alveolar bone density (H
 *p<0.05
 
 ## Related Papers
+- [[overviews/unilateral-mastication-occlusal-load-alveolar-bone-density]] — synthesis: this paper is the human anchor for chewing-side alveolar bone densification; overview adds the loading/unloading mechanism (type H vessels, sclerostin/Wnt) and reversibility
 - [[implants/raghavan-2025-bone-density-implant-dentistry-review]] — bone density classification and implant outcomes review
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — bone density and implant stress FEA
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — bone type (D1-D4) and implant success
