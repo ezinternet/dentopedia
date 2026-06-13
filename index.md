@@ -557,6 +557,7 @@ tags: []
 - [[endodontics/anatomy/wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr]] — SR+MA (14개 CBCT 연구, 35,929치): 한족 상악 제1대구치 MB2 유병률 63.7%, 제2대구치 23.3% — 남성이 유의하게 높은 오즈비 (OR 1.53–1.79), 이분산성 매우 높음.
 
 ## 근관치료 — 진단 (Endodontics: Pulp & Periapical Diagnosis)
+- [[endodontics/diagnosis/yamamoto-silva-2017-chondroblastic-osteosarcoma-mimicking-periapical-abscess]] — Yamamoto-Silva 2017 · case-report · 18세 남성, 생활치 #29/#30/#31에 근단 방사선투과상·PDL 확대·치조백선 소실로 치근단 농양 의심했으나 절개생검에서 연골모세포성 골육종 확진; 비치성 악성종양을 근단병소 감별진단에 포함 (DOI 10.1590/1678-7757-2016-0424)
 
 ### endodontics/diagnosis (NEW category, added 2026-06-12, batch j)
 - [[overviews/endodontic-pulp-periapical-diagnosis-overview]] — **Overview**: 치수·근단 진단 종합(4편) — reference standard 부재로 진단정확도 한계, vitality>sensibility, 소아 동일 논리, 미진단 괴사→근단병소 (2026)
@@ -569,6 +570,8 @@ tags: []
 - [[endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus]] — 전향 관찰연구(n=50, 치아 328개): 근단병소 인접 CBCT 상악동 점막두께 3.95mm vs 병소 없음 1.23mm (p<0.01); 조직병리 육아종 50%·낭종 40%; IHC CD20+/CD79α+ 우세 만성 염증 (DOI 10.3390/medicina57080840)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — Barahim 2024 · RCT(n=24, 조절형 T2DM stage III 치주염): 오존겔을 SRP 보조로 추가 — 군간 임상차는 없으나 오존군에서 군내 방사선학적 골결손 개선·3개월 PPD 감소·술후 통증 감소 (BMC Oral Health)
+- [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — Lee 2017 · animal(in-vitro 사람 PDLSC + in-vivo rat 발치와): 옥시스테롤 조합(22(S)+20(S)-hydroxycholesterol)이 LXR↔Hedgehog 신호로 PDLSC 골분화·발치와 골재생을 rhBMP-2 동등 수준 유도; BMP-2 대안 후보 (Stem Cell Res Ther)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — Herrera 2018 · narrative-review · 2017 WW 급성 치주병변 분류 — 치주농양(병인별)·괴사성 치주질환(숙주면역)·치수치주복합병변(파절·천공·치주염 유무) (DOI 10.1002/JPER.16-0642)
 - [[periodontics/jepsen-2018-periodontal-manifestations-of-systemic-diseases]] — Jepsen 2018 · consensus · 2017 WW workgroup 3 — 전신질환 치주발현 + 치은점막·교합력·보철인자 1999 분류 업데이트 (DOI 10.1002/JPER.17-0733)
 - [[periodontics/sharma-2014-endodontic-periodontal-microsurgery-for-combined]] — Sharma 2014 · narrative-review · 복합 endo-perio 병변 미세수술(근관 미세수술+골이식+차폐막+유두보존 1차폐쇄) (DOI 10.4103/0972-0707.144571)
@@ -793,6 +796,9 @@ tags: []
 - [[resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct]] — RCT(24mo, 256 NCCLs, split-mouth, BMC Oral Health): monomer·HEMA·solvent 다른 universal adhesive 2종(GPB·SBU) 동등(성공 98.2%, 탈락 4개), 모든 항목 유의차 없음 — 조성보다 술식 (2025)
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
+- [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Moreno Rabie 2023 (Dentomaxillofac Radiol) · 후향적 case–control(암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT로 MRONJ 위험예측 — MRONJ 환자 32%; 항흡수제군 치조백선 비후·치주인대강 확장·골경화·골용해·격리골↑; 위험인자=다수치 동시발치(p=0.006)·흡연(p=0.004)·짧은 휴약(p=0.021); BP→골경화 우세(74% vs 45%); 골막반응·격리골=pre-clinical MRONJ 표지자
+- [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
+- [[drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — Maftei 2021 (Antioxidants) · case-control(n=86, 건강 45 + T2DM 41): 타액 8종 마커(OPG/RANKL/HGF/TNF-α/IL-18/MMP-9/TOS/TAC) 발치 전·3개월 후 측정 — baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG가 HbA1c>6.5% 예측(RANKL AUC 0.999), 발치 후 TOS r=+0.777·TAC r=−0.475; 타액=비침습 혈당/치유 지표
 - [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
 - [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
 - [[drug/gupta-2022-dental-management-cardiovascular-disease]] — 서술적 고찰: 고혈압·IHD·MI(30일 금기)·부정맥·IE·심부전·뇌졸중·박동기 치과 관리 + 약물 상호작용 표
