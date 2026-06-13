@@ -983,6 +983,9 @@ tags: []
 - [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — CONSORT + trial-registration audit of 32 SRP-adjunct RCTs from a single group; low reporting quality, registration discrepancies, implausible timelines → distrust the unusually large effects
 
 ## 골생물학 (Bone Biology — Molecular / Cellular)
+- [[bone-biology/chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis]] — Mouse + in-vitro 기전 연구(J Dent Res 2023): 교합력 소실이 일으키는 치조골 폐용성 골다공증(ABDO) 기전 — PDL의 type H 혈관(CD31^high/EMCN^high)·OSX⁺ 골전구세포 감소가 핵심; PIEZO1/Ca²⁺/HIF-1α/SLIT3 회로, 재조합 SLIT3 국소주사로 부분 회복
+- [[bone-biology/xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone]] — In vivo rat split-mouth(Exp Ther Med 2016, n=14 수컷 SD): 편측 상악 대구치 발치로 교합저하 유도 — 8주 후 hypofunction 측 BMD·BV/TV 감소·파골세포 증가(P<0.001)가 sclerostin·RANKL 상승·β-catenin 저하와 동반(OPG 불변); 교합저하 치조골 소실의 분자 기전으로 sclerostin 매개 Wnt/β-catenin 억제 제시
+- [[bone-biology/liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats]] — Rat micro-CT(n=48): 교합저하(anterior bite-raising appliance)가 하악 치조골 trabecular 미세구조 악화(↓BV/TV·Tb.Th·Tb.N, ↑Tb.Sp), 교합 회복 시 가역적 (animal)
 - [[bone-biology/kondo-2022-current-perspectives-residual-ridge]] — Narrative review + 마우스 데이터(J Prosthodont Res 2023): 잔존 치조제 흡수(RRR)를 림프구 매개 외측면 osteoclast 활성화 병리로 재정의 — Rag2-/-(T/B 결핍) 마우스에서 socket 내 osteoclast 정상, 외측면 osteoclast만 부재; hCD3+ T 세포 주입으로 복원. 향후 외측면-선택적 osteoclast 차단 치료의 mechanism 근거.
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — In vivo 마우스 + scRNA-seq(JBMR 2025, MGH/Harvard Wein lab): SIK2/SIK3(PTH/PTHrP 하류 kinase) 조건 결손 — 치조골 osteoblast 성숙·BV/TV·발치와 치유 모두 저하; 치조골 osteoblast가 long bone osteoblast와 다른 cluster임을 scRNA-seq로 입증. SIK 억제제·intermittent PTH가 ARP 약리 보조 후보가 될 preclinical rationale.
 
@@ -1062,6 +1065,12 @@ tags: []
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — Animal(rat) in vivo+in vitro: 5α-환원 신경스테로이드 말초진통은 주로 T-type Ca²⁺ 차단; GABA-A는 증폭 역할 — 폐경 BMS 신경스테로이드 가설 접점 (2005)
 
 ## 악관절·구강안면통증 (TMJ)
+- [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review]] — 서술적 고찰(中 浙江大学学报 2023): 편측저작(Chewing-side Preference)이 TMD 주요 위험인자 — 偏向側 髁突 단소·상방변위(관절 후상방 간극↓)·관절결절 경사도·관절와 깊이↑; TMD 환자 편측저작 비율↑(56.5% vs 건강군), 중증도와 비례(36.8%→65.0%); 기전 3축 — 생물역학(BMP-2·VEGF)·咀嚼筋(CaN Type II→I 전환)·신경원성(P물질·CGRP)
+- [[tmj/santana-mora-2021-asymmetry-chewing-chronic-tmd]] — Santana-Mora 2021 (Ann Anat) · cross-sectional double-blind(n=24, 무처치 정상교합): 습관적 저작측 = TMD 통증측(Kappa=0.767); 환측이 더 가파른 과두 경로(50.5° vs 45.5°)·더 평탄한 측방유도(38.0° vs 47.5°)
+- [[tmj/decarli-2023-mandibular-condyle-unilateral-masticatory-function]] — De Carli 2023 (Orthod Craniofac Res) · animal(rat micro-CT, n=56): 편측 상악대구치 발치로 교합기능 감소 시 성장기 발치측 과두 단면적 증가 못함(길이 유지·박화), 성인 과두는 거의 불변; 악골 측방변위 없는 기능적 비대칭만으로는 과두 비대칭 미발생
+- [[tmj/ma-2022-condyle-position-chewing-side-preference-cbct]] — 단면 CBCT(TMD 90명[CSP 69/비-CSP 21]+무증상 20): 과두 위치는 CSP·비-CSP TMD를 구분 못 함; 비-CSP TMD만 후방 과두 유의(57.1% vs 30.0%, p<0.05), CSP는 경향만(53.6% vs 30.0%, p=0.054) — 후방 과두는 TMD 지표 아님 (J Oral Rehabil 2022)
+- [[tmj/ma-2025-tmd-tinnitus-chewing-side-preference-correlation]] — 단면연구(华西口腔 2025, n=285): 이명 동반 TMD에서 편측저작 비율↑(90.7% vs 76.0%), 이명측=저작측 동측 경향, TMJ 통증과 상관 — 편측저작↔이명↔TMD 연결
+- [[tmj/zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea]] — FEA(35 환자모델): 편측 대구치 교합 시 하악변위(안면비대칭)군이 TMJ 과두·디스크 최고 응력·TMD 위험 최대 (in-vitro)
 - [[overviews/bruxism-muscle-overload-axis]] — Synthesis 2026-06-03: 이갈이를 공통 상류 인자로 묶은 인과축 — 저작근 과활성 힘이 완충(PDL·임플란트주위) 초과 시 가장 약한 구조로 방전 → 하류 ①TMJ ②치아·보철(균열·마모) ③임플란트 late failure. 세 중재 매핑(스플린트=하류 완충, 교합조정=접촉 재형성·TMD 미지지, BoNT-A=상류 차단). 핵심 역설: BoNT-A는 과부하 힘↓이나 골유착도 손상(Deng 2023 동물)—임플란트 bruxer에서 양날의 검. btx·tmd-ladder overview와 병태생리로 차별화
 - [[tmj/kim-2023-treatment-tmj-osteoarthritis]] — Ji Rak Kim 2023 (대한치과의사협회지 특집) · narrative-review · TMJ 골관절염 치료 ladder: 자가관리→NSAIDs(GI 시 celecoxib)→교합안정장치(경성·전악·상하악 동등)→관절강세정술(HA+스테로이드)→수술 최후; 이개측두신경 마취 시 안면신경 측두가지 동반마취 주의
 - [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] — Hwanhee Song 2023 (대한치과의사협회지 특집) · narrative-review · TMJ OA 기전(과부하→저산소증/HIF-1→VEGF·MMP)·역학(여성·고령 우세하나 비일관)·진단(CT gold standard κ=0.71 vs MRI 0.46 vs 파노라마 0.16; DC/TMD 임상 민감도 0.55·특이도 0.61; 침식·연골하낭종이 단순 편평화보다 진단적)
@@ -1365,6 +1374,8 @@ tags: []
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (2026-06-01 신설, 8편): 근거 2층 구조 — in-vitro 결합강도 강함(Hardan 2022 SR+MA 21편·Magne 2005/2007·Abo-Alazm 2022 universal+치수압) ↔ 임상 POS 정면충돌(Alghauli 2025 11편 감소 P<.05+survival 우위 vs Josic 2022 4편 GRADE low 차이없음). 결론: 간접수복 표준 채택 정당화하나 환자에게 POS 감소 약속 금지.
 - [[overviews/nccl-etiology-diagnosis-management-overview]] — 비우식성 치경부 병소(NCCL) 종합 (2026-06-07 신설, 16편): 병인=stress·friction·biocorrosion 다인성(Grippo 2012 schema·Roberts 2022 demineralization), abfraction 단독원인설 미입증(Nascimento 2016) but SEM microfracture 일부 관찰(Worawongvasu 2021); 무증상 ≥6mo monitoring 원칙; 수복 시 유지력=접착·산부식 단계 의존 — universal adhesive E&R≈SEE(Peumans 2023 RCT 251), selective enamel etching 유리(Omoto 2025 RCT 200), self-adhesive flowable 6mo 33% 실패(Celik 2015). 병인·진단·관찰vs수복 의사결정 ladder.
 ## 교합 (Occlusion)
+- [[occlusion/panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication]] — Panagiotopoulou 2023 (Phil Trans R Soc B) · animal: 영장류(rhesus macaque) 하악의 완전한 저작 개구주기 첫 동적 3D FEM — 주기 ~40%에서 최대 strain/moment, 음식물 의존(견과>포도>건과일); 정적 단일시점 FEM이 놓치는 하악 strain을 동적모델이 포착
+- [[occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth]] — Hayashi 2014 (PLoS ONE) · animal(rat n=24): 교합 무자극(hypofunction)이 PDL 두께·치조골 BMD↓; 저출력 레이저(904–910nm) 조사로 대조군 수준 회복 + bFGF·VEGF 양성세포↑
 - [[overviews/occlusal-trauma-periodontitis-overview]] — **Overview**: 교합외상·치주염 종합(4편) — 교합은 발병원인 아닌 수식인자, 스플린팅 생존이득 없음, 교합조정 선택적·제한이득, PDL 확장은 감별폭 넓음 (2026)
 - [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]] — Fan 2018 · narrative-review · 2017 WW 교합외상 case definition; primary occlusal trauma는 부착소실 유발 안 함, 치주염 인과는 논쟁적 (DOI 10.1002/JPER.16-0581)
 - [[occlusion/dommisch-2022-efficacy-of-tooth-splinting-occlusal]] — Dommisch 2022 · sr · 스플린팅은 동요치 생존 개선 안 함(8.4% vs 10.1%); 교합조정은 CAL 개선 가능(근거 낮음) (DOI 10.1111/jcpe.13563)
