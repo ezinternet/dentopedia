@@ -35,6 +35,6 @@ Mixed-methods explanatory sequential design. UK hospital staff responses to onli
 Six defensive tactics were reliably identified. They were generally associated with lower-quality engagement (less issue resolution, less learning). Defensiveness arose where handlers faced contradictory demands -- being responsive/transparent while also protecting organisational reputation and managing workload.
 
 ## Related Papers
-- [[complaint-management/12913_2021_Article_6733]] -- reinforces: provides the structural cause of the fauxpology pattern.
-- [[complaint-management/10.1177_01410768221098247]] -- reinforces: national policy creates the adverse incentives behind the bind.
-- [[complaint-management/10.1177_23743735251342611]] -- contradicts: training + operational support as the remedy.
+- [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]] -- reinforces: provides the structural cause of the fauxpology pattern.
+- [[complaint-management/van-dael-2022-national-policies-complaint-handling]] -- reinforces: national policy creates the adverse incentives behind the bind.
+- [[complaint-management/elias-2025-successful-handling-patient-complaints]] -- contradicts: training + operational support as the remedy.
