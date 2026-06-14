@@ -35,6 +35,6 @@ National dataset of complaints about registered health practitioners in Australi
 Dental practitioners = 3.5% of practitioners but ~10% of complaints; highest rate of 14 professions at 42.7 per 1000 practitioners/year (dentists and prosthetists > allied dental). Male practitioners at higher risk. 59% of dentist complaints concerned treatments/procedures. ~4% of dentists received >1 complaint, accounting for 49% of complaints about dentists. 60% of closed cases needed no regulatory action; ~13% resulted in restrictive actions (e.g., conditions on practice).
 
 ## Related Papers
-- [[complaint-management/JISPCD-14-295]] -- reinforces: dental medico-legal claims analysis.
-- [[complaint-management/10-1055-s-0039-1700767]] -- reinforces: endodontics as a high-malpractice discipline.
+- [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] -- reinforces: dental medico-legal claims analysis.
+- [[complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics]] -- reinforces: endodontics as a high-malpractice discipline.
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] -- applies-to: Korean regulatory/legal context.
