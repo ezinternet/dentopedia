@@ -82,3 +82,7 @@ Failed to authenticate. API Error: 401 {"type":"error","error":{"type":"authenti
 [2026-06-10 18:24:32] === llm-wiki ingest watcher started ===
 [2026-06-10 18:24:32] Watching: /Users/oracleneo/llm-wiki
 [2026-06-10 18:24:32] Watching: /Users/oracleneo/llm-wiki
+[2026-06-14 01:39:53] New PDF detected: Journal of Periodontology - 2018 - Fan - Occlusal trauma and excessive occlusal forces  Narrative review  case definitions .pdf
+[2026-06-14 01:39:53] New PDF detected: Journal of Periodontology - 2018 - Fan - Occlusal trauma and excessive occlusal forces  Narrative review  case definitions .pdf
+[2026-06-14 01:39:55] Starting ingest for: Journal of Periodontology - 2018 - Fan - Occlusal trauma and excessive occlusal forces  Narrative review  case definitions .pdf
+[2026-06-14 01:39:55] Starting ingest for: Journal of Periodontology - 2018 - Fan - Occlusal trauma and excessive occlusal forces  Narrative review  case definitions .pdf
