@@ -35,5 +35,5 @@ Analytical study of archival final court-pronounced judgments on dental negligen
 Among 56 cases: misdemeanour by serious negligence 3, slight negligence 8, negligent injuries 35, felony of injuries by serious negligence 10. Negligent injuries dominated. The authors emphasise medico-legal awareness, professional indemnity insurance, continuous medico-legal training, thorough record documentation, and adherence to clinical standards as protective measures, and note how court handling and delay affect dentists.
 
 ## Related Papers
-- [[complaint-management/ADJ-63-285]] -- reinforces: regulatory-complaint counterpart in Australia.
-- [[complaint-management/10-1055-s-0039-1700767]] -- reinforces: endodontic procedures as frequent malpractice source.
+- [[complaint-management/thomas-2018-complaints-about-dental-practitioners]] -- reinforces: regulatory-complaint counterpart in Australia.
+- [[complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics]] -- reinforces: endodontic procedures as frequent malpractice source.
