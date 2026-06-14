@@ -35,5 +35,5 @@ Observational study. Verified complaints categorised by department, administrati
 Satisfaction correlated significantly with departments (P=.016) and administrative office (P=.022); Spearman rho 0.157 (P=.017) and 0.151 (P=.021) respectively. Univariate logistic regression: other related complaints in the administrative office associated with satisfaction (OR=3.321, 95% CI 1.196-9.218, P=.021). After implementing the complaint-management system, service quality, experience, and satisfaction improved and complaints fell.
 
 ## Related Papers
-- [[complaint-management/10.1177_2374373520967797]] -- reinforces: management systems/training drive recovery.
-- [[complaint-management/frhs-05-1610004]] -- reinforces: complaint handling as a hospital-development lever.
+- [[complaint-management/washington-2020-addressing-service-recovery-radiation]] -- reinforces: management systems/training drive recovery.
+- [[complaint-management/zheng-2025-hospital-complaint-handling-emotional]] -- reinforces: complaint handling as a hospital-development lever.
