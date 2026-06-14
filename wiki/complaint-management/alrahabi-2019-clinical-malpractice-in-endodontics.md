@@ -35,6 +35,6 @@ Narrative literature review of clinical malpractice in endodontics: synthesis of
 Identifies endodontics as the dental discipline with the most malpractice claims due to its technique-sensitive operative/surgical nature. Errors grouped as preoperative (incorrect diagnosis/misinterpretation), intraoperative (perforation, ledging, apical transportation/zipping, hypochlorite accidents, instrument fracture), and the high-risk omission of rubber dam (aspiration/ingestion). Recommends strict standards, documentation, and ethical practice to avoid complaints and litigation.
 
 ## Related Papers
-- [[complaint-management/ADJ-63-285]] -- applies-to: treatment-related complaints dominate dental epidemiology.
-- [[complaint-management/JISPCD-14-295]] -- reinforces: procedural errors as litigation triggers.
+- [[complaint-management/thomas-2018-complaints-about-dental-practitioners]] -- applies-to: treatment-related complaints dominate dental epidemiology.
+- [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] -- reinforces: procedural errors as litigation triggers.
 - [[endodontics/shaping]] -- applies-to: shaping errors (transportation, fracture) underlying claims.
