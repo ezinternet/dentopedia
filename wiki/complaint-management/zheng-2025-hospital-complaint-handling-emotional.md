@@ -35,5 +35,5 @@ Single-site case study at a tertiary-hospital service centre. Systematic analysi
 The emotional-language model characterised patients' affective responses across the complaint-handling process and linked complaint-handling quality to indicators of high-quality hospital development, supporting use of complaint sentiment data to target service improvement. (Specific model metrics reported in full text.)
 
 ## Related Papers
-- [[complaint-management/medi-103-e37275]] -- reinforces: system-level complaint handling improves outcomes.
-- [[complaint-management/bmjqs-2015-004596]] -- extends: from manual coding toward automated sentiment analysis.
+- [[complaint-management/li-2024-complaint-management-patient-satisfaction]] -- reinforces: system-level complaint handling improves outcomes.
+- [[complaint-management/gillespie-2016-healthcare-complaints-analysis-tool]] -- extends: from manual coding toward automated sentiment analysis.
