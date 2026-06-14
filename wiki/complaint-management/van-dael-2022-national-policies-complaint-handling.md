@@ -35,5 +35,5 @@ Qualitative case study at a large acute multi-site NHS Trust: semi-structured in
 Four practice areas where national policy had adverse local consequences: (1) muddled routes for raising formal complaints; (2) investigative procedures structured to scrutinise the 'validity' of complaints rather than learn; (3) futile data-collection systems; (4) adverse incentives and workarounds. Together these undermine an improvement-focused approach.
 
 ## Related Papers
-- [[complaint-management/pone.0325185]] -- reinforces: policy generates the contradictory demands behind defensiveness.
-- [[complaint-management/10.1177_13558196211029323]] -- reinforces: same group's case for learning-oriented complaint use.
+- [[complaint-management/gillespie-2025-complaint-handlers-bind-defensive]] -- reinforces: policy generates the contradictory demands behind defensiveness.
+- [[complaint-management/van-dael-2022-getting-whole-story-patient-complaints]] -- reinforces: same group's case for learning-oriented complaint use.
