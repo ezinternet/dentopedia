@@ -1975,3 +1975,41 @@ tags: []
 - [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]] — 40 Korean plastic-surgery SSI malpractice precedents; 85% plaintiff-won; liability driven by failed culture/treatment, no referral, poor infection control, and missing preoperative infection consent. (2016) [retrospective]
 - [[complaint-management/taniguchi-2023-characteristics-and-trends-of-medical]] — All 13,340 closed Japanese malpractice claims (2006-2021): 52.9% settled, 35.3% judged (75.8% favoring physicians), declining trend (OB/GYN drop post-2009 no-fault scheme). (2023) [cross-sectional]
 
+
+## Batch ingest (added 2026-06-14) — tissue-level vs bone-level / implant loading biology / ISQ / surface
+
+### implants — tissue-level vs bone-level & loading biology
+- [[implants/elchaar-2021-tapered-self-cutting-tissue-level-minipig]] — Animal (minipig, 48 implants, 12 wk) non-inferiority: fully tapered self-cutting tissue-level implant vs Standard Plus — non-inferior BIC, superior crestal bone maintenance, 4–5× higher insertion torque [animal]
+- [[implants/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] — Prospective case–control (n=71 short implants, 1 yr, posterior maxilla): tissue-level less bone remodeling than bone-level (0.30 vs 0.55 mm, p=0.003); 100% survival both groups [retrospective]
+- [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — SR+MA (14 studies, ≥3 yr) placement/loading timing for multiple-unit implant FDPs: all protocols >90% survival except IPIL; DPIL vs DPDL NS (p=.227); GRADE very low [sr+ma]
+- [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — Witek/Coelho sheep study (144 implants): irrigation effect on BIC is diameter- and speed-dependent; BAFO governed by healing duration (abstract-only source) [animal]
+- [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] — Nanoindentation human retrieval (n=30, 0.3–24 y): peri-implant cortical bone modulus & hardness rise in first ~5 y then plateau [retrospective]
+- [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — Human retrieval (n=93 plateau root form, 120 d–18 y): BIC & BAFO increase progressively with functional loading time [retrospective]
+- [[implants/zhang-2021-tissue-level-bone-level-fresh-extraction-sockets-dogs]] — Dog histomorphometry (6 dogs, 24 implants): TL vs BL in fresh sockets — no difference in vertical resorption; BL wider lingual biologic width at 1 mm subcrestal [animal]
+- [[implants/agustin-panadero-2021-tissue-level-convergent-neck-peri-implant]] — Retrospective 2-yr (n=120): tissue-level convergent-neck MBL 0.31 mm vs bone-level 0.97 mm [prospective]
+- [[implants/spinelli-2023-tissue-level-laser-lok-flapless-4year]] — Prospective 4-yr flapless tissue-level Laser-Lok (n=41): 100% survival, MBL −1.10 mm at 48 mo, diameter sole MBL predictor [prospective]
+
+### implants/isq
+- [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — Prospective case–control (n=32, 48 narrow-diameter implants, 3 mo): 3.3 mm TiZr SLActive ISQ equivalent in T2DM vs normoglycemic (~64), no HbA1c–ISQ correlation [prospective]
+- [[implants/isq/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite]] — Weekly ISQ mapping over 20 wk for nanostructured hydroxyapatite surface (n=21): stability dip wk 2–3, recovery to baseline by wk 8–10 [prospective]
+- [[implants/isq/fu-2023-implant-stability-marginal-bone-level-pilot]] — 2-yr prospective pilot (n=156): bone density & insertion torque dominate MBL prediction; ISQ stabilizes after 6 mo, converges ~74–75 at 24 mo [prospective]
+
+### implants/surface
+- [[implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]] — Plasma-spray amorphous vs partially-crystalline CaP coatings on Ti-6Al-4V plateau implants: equivalent BIC/BAFO at 6 & 12 wk despite differing crystallinity (beagle) [animal]
+- [[implants/surface/witek-2020-boronized-surface-osseointegration]] — Animal (sheep, 3+6 wk): boronized CP-Ti shows declining BIC/BAFO vs improving controls — boronization inhibits osseointegration [animal]
+
+### implants/peri-implantitis
+- [[implants/peri-implantitis/roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible]] — 20-yr prospective cohort: posterior mandible without keratinized mucosa had 25% peri-implantitis vs 4.2% with KM (OR 6.67) and 100% soft-tissue dehiscence; FGG during SPC restored KM-equivalent outcomes [prospective]
+
+### immediate-implant
+- [[immediate-implant/parvini-2023-loading-grafting-immediate-implants-minipigs]] — Minipig 2×2 factorial histomorphometry: neither immediate loading nor xenograft gap-grafting affected BIC (74–84%) or biologic width at immediately placed implants [animal]
+
+### occlusion — implant loading / overload biology
+- [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] — Dog histomorphometry: progressive static orthodontic loading (100→300 g, 9 wk) increased BIC vs unloaded controls (P=0.018) without crestal resorption in low-density bone [animal]
+- [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — Histomorphometric animal study (Macaca fascicularis, 48 implants): immediate and delayed loading both increase BIC vs non-loading, no significant difference between loading protocols [animal]
+- [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] — Beagle (40 implants): progressive static pre-loading before overloading raised implant success to 87.5% vs 67.5% (overload-only) (IJOMI 2020;35:25-38) [animal]
+- [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] — Rat tibia: doubling daily cyclic loading sessions (2×) reduces BIC vs unloaded/1× controls — loading-frequency dose-response for peri-implant healing [animal]
+
+### Overview (added 2026-06-14)
+- [[overviews/tissue-level-vs-bone-level-implant-outcomes]] — **NEW Overview**: 조직수준 vs 골수준(TL/BL) 임플란트 변연골·주위염·연조직·생존 결과 종합 (9편: SR+MA·SR·전향/케이스-대조·후향·동물). SR은 MBL·주위염 무차이지만 head-to-head 임상은 일관되게 TL이 변연골 보존 우세; thin mucosa가 양쪽 공통 최강 예측인자.
+- [[overviews/implant-occlusion-loading-biomechanics-overview]] — (갱신) 실험적 로딩-골반응 축 추가: 점진 정적 하중=골강화, 고빈도 하중=골유착 저해 dose-response (Podaropoulos 2016/2020·Romanos 2003·Bueno 2018·Gil 2015·Baldassarri 2012)
