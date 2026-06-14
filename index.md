@@ -2027,6 +2027,7 @@ tags: []
 - [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
 - [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — Expert consensus (Int J Oral Sci 2025): technique decision tree (ARF/FGG/SFGG/substitutes) for peri-implant KM augmentation at second-stage surgery [consensus]
 - [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR (15 prospective, ≥36 mo): CTG bilaminar STA gives stable soft-tissue margins & KMW/MT gains medium/long term; non-augmented sites show progressive recession [sr]
+- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA (11 studies, 290 participants) on functioning implants: FGG weighted mean KM gain +2.6 mm (↓inflammation, crestal bone stable ≤4 yr); CTG mucosal recession −2 mm; autogenous-only [sr+ma]
 - [[implants/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative]] — Narrative review: peri-implant biologic width, KM debate, CTG/VIP-CT grafting, inter-implant papilla reconstruction [narrative-review]
 
 ### Overview (added 2026-06-14, batch b)
