@@ -124,4 +124,4 @@ llm-wiki의 800+ 임상 paper 대부분이 SR+MA / RCT / retrospective cohort. �
 ### 신규 추가 (2026-06)
 
 - [[evidence-appraisal/al-abedalla-2022-unusual-findings-trials-evaluating-adjuncts]] — Methodological quality assessment (CONSORT + trial-registration audit) of 32 RCTs on SRP adjuncts published 2010–2017 by a single research group (GDCR … (sr, 2022)
-- [[evidence-appraisal/singh-2026-research-statistically-significant-myth-truth]] — Editorial (J Conserv Dent Endod) arguing that statistical significance does not equal clinical significance … (narrative-review, 2026)
+- [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Editorial (J Conserv Dent Endod) arguing that statistical significance does not equal clinical significance … (narrative-review, 2026)
