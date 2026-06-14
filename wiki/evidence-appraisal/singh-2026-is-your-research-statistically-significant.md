@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2026-is-your-research-statistic
 pdf_filename: singh-2026-is-your-research-statistically-significant.pdf
 source_collection: external
 tags: [statistical-significance, clinical-significance, p-value, effect-size, evidence-appraisal]
+relations:
+  - type: reinforces
+    target: flechner-2011-pvalues-confidence-intervals-number-needed
 ---
 
 ## One-line Summary
@@ -38,4 +41,5 @@ Statistical significance ≠ clinical significance (both directions). Small n, l
 - A non-significant result in an underpowered study is "absence of evidence," not "evidence of absence."
 
 ## Related Papers
-- [[evidence-appraisal]] — sits within the EBM/biostatistics appraisal category (p-value/CI/effect-size interpretation).
+- [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — reinforces p-value/CI interpretation beyond binary significance testing.
+- [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — common biostatistics errors in dental research appraisal.
