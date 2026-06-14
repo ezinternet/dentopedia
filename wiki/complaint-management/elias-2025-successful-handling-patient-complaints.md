@@ -35,6 +35,6 @@ Descriptive account of the development and implementation of the CODE training p
 CODE comprises two core tracks -- procedural/operational training and interpersonal communication training -- so that staff can both access resources for complainants and communicate with empathy. The dual-track structure is presented as the program's key strength for managing complaints successfully; formal effectiveness/outcome data are not the focus of this descriptive paper.
 
 ## Related Papers
-- [[complaint-management/12913_2021_Article_6733]] -- contradicts: teaches genuine empathy vs the fauxpology.
-- [[complaint-management/pone.0325185]] -- refines: training + operational support as the remedy to the handler's bind.
-- [[complaint-management/1472-6963-6-106]] -- applies-to: trains responders to meet complainant fairness expectations.
+- [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]] -- contradicts: teaches genuine empathy vs the fauxpology.
+- [[complaint-management/gillespie-2025-complaint-handlers-bind-defensive]] -- refines: training + operational support as the remedy to the handler's bind.
+- [[complaint-management/friele-2006-patient-expectations-fair-complaint]] -- applies-to: trains responders to meet complainant fairness expectations.
