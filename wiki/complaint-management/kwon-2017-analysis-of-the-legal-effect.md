@@ -46,6 +46,6 @@ Covenant-not-to-sue cases: 68/287. Recognized as effective (case dismissed): 18 
 - Korean civil-law/precedent structure is shared across specialties, so the four-factor logic transfers from plastic surgery to dentistry.
 
 ## Related Papers
-- [[complaint-management/JISPCD-14-295]] — extends: moves the Indian medico-legal applied layer into the Korean settlement-agreement stage.
-- [[complaint-management/10-1055-s-0039-1700767]] — applies-to: malpractice litigation outcomes, here at the pre-judgment settlement step.
+- [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] — extends: moves the Indian medico-legal applied layer into the Korean settlement-agreement stage.
+- [[complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics]] — applies-to: malpractice litigation outcomes, here at the pre-judgment settlement step.
 - [[overviews/complaint-management-pipeline-classification-expectation-response-education]] — sits in the 치과 Applied (medico-legal) layer.
