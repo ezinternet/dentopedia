@@ -35,5 +35,5 @@ Random sample of 140 completed compensation cases from the Danish Patient Compen
 Multiple trained raters achieved high inter-assessor reliability. Coverage of HCAT domains and subcategory severity levels was skewed (clinical-heavy in a compensation-claim sample), leading the authors to caution that the study cannot stand alone and needs replication across settings.
 
 ## Related Papers
-- [[complaint-management/bmjqs-2015-004596]] -- reinforces: external reliability test of HCAT.
-- [[complaint-management/bmjqs-2013-002437]] -- applies-to: tests the underlying 3-domain taxonomy.
+- [[complaint-management/gillespie-2016-healthcare-complaints-analysis-tool]] -- reinforces: external reliability test of HCAT.
+- [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]] -- applies-to: tests the underlying 3-domain taxonomy.
