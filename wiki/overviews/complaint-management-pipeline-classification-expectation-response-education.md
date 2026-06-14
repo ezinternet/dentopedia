@@ -5,23 +5,23 @@ category: overviews
 date: 2026-06-12
 confidence: synthesis
 source_papers:
-  - wiki/complaint-management/bmjqs-2013-002437.md
-  - wiki/complaint-management/bmjqs-2015-004596.md
-  - wiki/complaint-management/bmjopen-2019-033638.md
-  - wiki/complaint-management/10.1177_13558196211029323.md
-  - wiki/complaint-management/1472-6963-6-106.md
-  - wiki/complaint-management/13104_2015_Article_1479.md
-  - wiki/complaint-management/NOP2-5-224.md
-  - wiki/complaint-management/12913_2021_Article_6733.md
-  - wiki/complaint-management/pone.0325185.md
-  - wiki/complaint-management/10.1177_2374373520967797.md
-  - wiki/complaint-management/medi-103-e37275.md
-  - wiki/complaint-management/frhs-05-1610004.md
-  - wiki/complaint-management/10.1177_01410768221098247.md
-  - wiki/complaint-management/10.1177_23743735251342611.md
-  - wiki/complaint-management/ADJ-63-285.md
-  - wiki/complaint-management/JISPCD-14-295.md
-  - wiki/complaint-management/10-1055-s-0039-1700767.md
+  - wiki/complaint-management/reader-2014-patient-complaints-healthcare-taxonomy.md
+  - wiki/complaint-management/gillespie-2016-healthcare-complaints-analysis-tool.md
+  - wiki/complaint-management/bogh-2019-healthcare-complaints-analysis-tool.md
+  - wiki/complaint-management/van-dael-2022-getting-whole-story-patient-complaints.md
+  - wiki/complaint-management/friele-2006-patient-expectations-fair-complaint.md
+  - wiki/complaint-management/friele-2015-complaint-handling-healthcare-expectation.md
+  - wiki/complaint-management/skar-2018-patients-complaints-healthcare-communication.md
+  - wiki/complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint.md
+  - wiki/complaint-management/gillespie-2025-complaint-handlers-bind-defensive.md
+  - wiki/complaint-management/washington-2020-addressing-service-recovery-radiation.md
+  - wiki/complaint-management/li-2024-complaint-management-patient-satisfaction.md
+  - wiki/complaint-management/zheng-2025-hospital-complaint-handling-emotional.md
+  - wiki/complaint-management/van-dael-2022-national-policies-complaint-handling.md
+  - wiki/complaint-management/elias-2025-successful-handling-patient-complaints.md
+  - wiki/complaint-management/thomas-2018-complaints-about-dental-practitioners.md
+  - wiki/complaint-management/vadde-2024-indian-dental-malpractice-claims.md
+  - wiki/complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics.md
   - wiki/complaint-management/kwon-2017-analysis-of-the-legal-effect.md
   - wiki/complaint-management/park-2016-analysis-of-malpractice-claims-associated.md
   - wiki/complaint-management/taniguchi-2023-characteristics-and-trends-of-medical.md
@@ -37,17 +37,17 @@ A four-stage pipeline — classify the complaint, understand what the complainan
 ## Thesis
 Patient complaints are not noise to be deflected but a structured information source for safety and quality. The evidence converges on a single actionable claim: dissatisfaction persists less because of the original clinical error than because of *how the complaint is classified, what the complainant actually wanted, and how the response is worded*. The strongest lever a clinic controls is therefore the response-and-training layer, supported by a structured classification habit. This overview organises twenty papers into the pipeline **classification → expectation → response → education**, then adds a **dental applied** layer (epidemiology, medico-legal, procedural risk) and a **litigation** tail (settlement validity, infection liability, national claim trends).
 
-The core asymmetry to internalise: complainants overwhelmingly want recurrence prevented and an honest explanation, not money or apology theatre ([[complaint-management/1472-6963-6-106]]); yet typical organisational responses do the opposite — they subjectivise the grievance and deploy the "fauxpology" ([[complaint-management/12913_2021_Article_6733]]) because responders are structurally bound to protect the organisation ([[complaint-management/pone.0325185]]). Closing that gap is a training and system-design problem ([[complaint-management/10.1177_23743735251342611]]), not a matter of individual goodwill.
+The core asymmetry to internalise: complainants overwhelmingly want recurrence prevented and an honest explanation, not money or apology theatre ([[complaint-management/friele-2006-patient-expectations-fair-complaint]]); yet typical organisational responses do the opposite — they subjectivise the grievance and deploy the "fauxpology" ([[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]]) because responders are structurally bound to protect the organisation ([[complaint-management/gillespie-2025-complaint-handlers-bind-defensive]]). Closing that gap is a training and system-design problem ([[complaint-management/elias-2025-successful-handling-patient-complaints]]), not a matter of individual goodwill.
 
 ## Pipeline Map
 
 | Stage | Question answered | Core papers |
 |---|---|---|
-| 분류 Classification | What is this complaint *about*? | Reader taxonomy [[complaint-management/bmjqs-2013-002437]]; HCAT [[complaint-management/bmjqs-2015-004596]]; HCAT validation [[complaint-management/bmjopen-2019-033638]]; complaint↔safety linkage [[complaint-management/10.1177_13558196211029323]] |
-| 기대 Expectation | What does the complainant *want*? | Friele fairness [[complaint-management/1472-6963-6-106]]; expectation gap [[complaint-management/13104_2015_Article_1479]]; encounter themes [[complaint-management/NOP2-5-224]] |
-| 대응 Response | How should we *respond* (and not)? | What-not-to-do [[complaint-management/12913_2021_Article_6733]]; handler's bind [[complaint-management/pone.0325185]]; service recovery [[complaint-management/10.1177_2374373520967797]]; system effect [[complaint-management/medi-103-e37275]]; sentiment analytics [[complaint-management/frhs-05-1610004]]; policy critique [[complaint-management/10.1177_01410768221098247]] |
-| 교육 Education | How do we *train* for it? | CODE model [[complaint-management/10.1177_23743735251342611]] |
-| 치과 Applied | How big and where, in dentistry? | AU epidemiology [[complaint-management/ADJ-63-285]]; IN medico-legal [[complaint-management/JISPCD-14-295]]; endo malpractice [[complaint-management/10-1055-s-0039-1700767]] |
+| 분류 Classification | What is this complaint *about*? | Reader taxonomy [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]]; HCAT [[complaint-management/gillespie-2016-healthcare-complaints-analysis-tool]]; HCAT validation [[complaint-management/bogh-2019-healthcare-complaints-analysis-tool]]; complaint↔safety linkage [[complaint-management/van-dael-2022-getting-whole-story-patient-complaints]] |
+| 기대 Expectation | What does the complainant *want*? | Friele fairness [[complaint-management/friele-2006-patient-expectations-fair-complaint]]; expectation gap [[complaint-management/friele-2015-complaint-handling-healthcare-expectation]]; encounter themes [[complaint-management/skar-2018-patients-complaints-healthcare-communication]] |
+| 대응 Response | How should we *respond* (and not)? | What-not-to-do [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]]; handler's bind [[complaint-management/gillespie-2025-complaint-handlers-bind-defensive]]; service recovery [[complaint-management/washington-2020-addressing-service-recovery-radiation]]; system effect [[complaint-management/li-2024-complaint-management-patient-satisfaction]]; sentiment analytics [[complaint-management/zheng-2025-hospital-complaint-handling-emotional]]; policy critique [[complaint-management/van-dael-2022-national-policies-complaint-handling]] |
+| 교육 Education | How do we *train* for it? | CODE model [[complaint-management/elias-2025-successful-handling-patient-complaints]] |
+| 치과 Applied | How big and where, in dentistry? | AU epidemiology [[complaint-management/thomas-2018-complaints-about-dental-practitioners]]; IN medico-legal [[complaint-management/vadde-2024-indian-dental-malpractice-claims]]; endo malpractice [[complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics]] |
 | 분쟁·소송 Litigation | What happens once it reaches court / settlement? | KR settlement validity [[complaint-management/kwon-2017-analysis-of-the-legal-effect]]; KR SSI liability [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]]; JP national trends [[complaint-management/taniguchi-2023-characteristics-and-trends-of-medical]] |
 
 ## Evidence Map
@@ -103,11 +103,11 @@ For a dental practice translating this evidence into operating procedure:
 - **Weak causal designs on the response side.** Li 2024 and most response-axis studies are pre/post or case studies; the field lacks RCT-level evidence that a given response protocol changes resolution rates.
 
 ## Related Papers
-- [[complaint-management/bmjqs-2013-002437]] — foundation of the classification axis (3-domain taxonomy).
-- [[complaint-management/1472-6963-6-106]] — keystone of the expectation axis (what complainants want).
-- [[complaint-management/12913_2021_Article_6733]] — anchor of the "what not to do" response evidence.
-- [[complaint-management/10.1177_23743735251342611]] — education capstone (CODE training).
-- [[complaint-management/ADJ-63-285]] — dental epidemiology entry point.
+- [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]] — foundation of the classification axis (3-domain taxonomy).
+- [[complaint-management/friele-2006-patient-expectations-fair-complaint]] — keystone of the expectation axis (what complainants want).
+- [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]] — anchor of the "what not to do" response evidence.
+- [[complaint-management/elias-2025-successful-handling-patient-complaints]] — education capstone (CODE training).
+- [[complaint-management/thomas-2018-complaints-about-dental-practitioners]] — dental epidemiology entry point.
 - [[complaint-management/kwon-2017-analysis-of-the-legal-effect]] — litigation tail: when a settlement agreement is legally binding (KR).
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — adjacent (upstream): BDD as a patient-selection driver of esthetic-procedure dissatisfaction that feeds the complaint/litigation tail.
 - [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — adjacent: dentist–patient communication quality.
