@@ -74,6 +74,6 @@ A single-center retrospective cross-sectional analysis of 285 TMD patients (199 
 ## Related Papers
 
 - [[tmj/ma-2022-condyle-position-chewing-side-preference-cbct]] — same group; condylar position vs chewing-side preference on CBCT (reinforces the chewing-side-preference → TMJ-loading axis).
-- [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd]] — review of chewing-side preference effects on TMJ structure and its relationship with TMD (this paper extends the link to otologic/tinnitus outcomes).
+- [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review]] — review of chewing-side preference effects on TMJ structure and its relationship with TMD (this paper extends the link to otologic/tinnitus outcomes).
 - [[tmj/valesan-2021-tmd-prevalence-sr-ma]] — TMD prevalence baseline.
 - [[tmj/decarli-2023-mandibular-condyle-unilateral-masticatory-function]] — unilateral masticatory function and condylar effects.
