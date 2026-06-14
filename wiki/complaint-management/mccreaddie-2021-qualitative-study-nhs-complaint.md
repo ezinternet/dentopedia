@@ -35,6 +35,6 @@ Qualitative discourse analysis. Corpus of 60 anonymised written complaints and t
 Responses rarely acknowledged the effort involved in complaining. They subjectivised complainants' accounts via specific discourse strategies, used unintentionality or exceptionality to mitigate poor care, and deployed the 'fauxpology' (e.g., 'I am sorry you feel...') that imputes distress to the complainant's possibly misguided impressions, thereby evading blame for the complainable action.
 
 ## Related Papers
-- [[complaint-management/1472-6963-6-106]] -- contradicts: these responses violate complainants' fairness expectations.
-- [[complaint-management/pone.0325185]] -- reinforces: same defensive phenomenon explained structurally.
-- [[complaint-management/10.1177_23743735251342611]] -- contradicts: CODE training teaches the opposite (genuine de-escalation/empathy).
+- [[complaint-management/friele-2006-patient-expectations-fair-complaint]] -- contradicts: these responses violate complainants' fairness expectations.
+- [[complaint-management/gillespie-2025-complaint-handlers-bind-defensive]] -- reinforces: same defensive phenomenon explained structurally.
+- [[complaint-management/elias-2025-successful-handling-patient-complaints]] -- contradicts: CODE training teaches the opposite (genuine de-escalation/empathy).
