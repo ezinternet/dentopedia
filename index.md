@@ -2043,3 +2043,13 @@ tags: []
 
 ### immediate-implant — soft tissue augmentation
 - [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): SCTG at immediate implant placement+provisionalization reduces buccal recession (WMD 0.54 mm), increases soft-tissue thickness (WMD 0.79 mm) & reduces MBL (WMD 0.13 mm) at 12 mo [sr+ma]
+
+## Batch ingest (added 2026-06-14, batch d) — peri-implant soft-tissue augmentation efficacy SR/MAs
+
+### implants — soft-tissue augmentation efficacy (KM width / mucosal thickness)
+- [[implants/valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma]] — SR+MA (DGI/SEPA/Osteology suppl): CTG gains soft-tissue thickness +0.64 mm vs no graft, +0.51 mm vs substitutes; superior PES; MBL equal [sr+ma]
+- [[implants/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — SR+MA of 14 RCTs: CTG > xenogeneic matrix for peri-implant soft-tissue thickness (WMD −0.30 mm); augmentation improves KT & STT vs none [sr+ma]
+- [[implants/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]] — SR + network MA (52 studies, 23 RCTs): CTG≈ADM best for mucosal thickness, APF+FGG best for KM width; bilaminar grafts protect MBL [sr+ma]
+- [[implants/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, linear+profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft [sr+ma]
+- [[implants/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
+- [[implants/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
