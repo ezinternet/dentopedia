@@ -46,5 +46,5 @@ n=13,340 closed claims. Settled 7,062 (52.9%); judged 4,734 (35.3%) with physici
 ## Related Papers
 - [[complaint-management/kwon-2017-analysis-of-the-legal-effect]] — reinforces: macro settlement-rate context for the Korean settlement-agreement micro-analysis.
 - [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]] — reinforces: national trend frame for case-level SSI liability.
-- [[complaint-management/JISPCD-14-295]] — extends: adds Japanese national medico-legal epidemiology to the applied layer.
+- [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] — extends: adds Japanese national medico-legal epidemiology to the applied layer.
 - [[overviews/complaint-management-pipeline-classification-expectation-response-education]] — 치과 Applied (medico-legal) layer.
