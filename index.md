@@ -2033,3 +2033,13 @@ tags: []
 
 ### Overview (added 2026-06-14, batch b)
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — **NEW Overview**: 각화점막(KM) 위험인자·증대술 종합 (10편). ~2 mm 역치 수렴; 연조직 대리지표(플라크·염증·퇴축)는 근거 강함, hard endpoint(주위염·MBL)는 방향성 있으나 근거 질 낮음/TSA 미달; FGG 기준 술식(xenograft 대안). Ravidà TSA의 "무결론"은 생물학적 무효가 아니라 검정력 부족으로 해석.
+
+## Batch ingest (added 2026-06-14, batch c) — KM augmentation effect sizes & soft-tissue dehiscence / immediate-implant STA
+
+### implants — KM augmentation & soft-tissue dehiscence
+- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR (11 studies, 282 subjects), companion to Sanz 2022 consensus: FGG > soft-tissue substitutes for KM gain (WMD −0.9 mm), but xenogeneic collagen matrix non-inferior when analyzed alone; substitutes save ~18.5 min operative time [sr]
+- [[implants/zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique]] — Technique report (n=3): titanium-pin fixation of FGG/apically repositioned flaps during vestibuloplasty for KM augmentation with minimal shrinkage [case-report]
+- [[implants/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA (DGI/SEPA/Osteology suppl): buccal soft tissue dehiscence (BSTD) at implants — dominant risks buccal malposition (OR 14.37), CTG absence (OR 9.00), thin biotype (OR 2.85); buccal bone thickness & immediate placement NS; frequency 0–61% [sr+ma]
+
+### immediate-implant — soft tissue augmentation
+- [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): SCTG at immediate implant placement+provisionalization reduces buccal recession (WMD 0.54 mm), increases soft-tissue thickness (WMD 0.79 mm) & reduces MBL (WMD 0.13 mm) at 12 mo [sr+ma]
