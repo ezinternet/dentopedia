@@ -1,0 +1,186 @@
+<!--
+---
+title: "치주성형 술식 선택 — APF · FGG · CTG"
+type: interactive
+date: 2026-06-14
+status: in-progress
+category: surgery
+agenda: agenda/2026-06-14_apf-fgg-ctg-mucogingival-selection.md
+source_wiki:
+  - wiki/periodontics/mucogingival-surgery-apf-fgg-ctg.md
+  - wiki/periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct.md
+  - wiki/suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft.md
+tags: [periodontics, mucogingival-surgery, gingival-graft, root-coverage, keratinized-tissue, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치주성형 술식 선택 — APF · FGG · CTG</title>
+<style>
+  :root{
+    --ink:#1c2024; --paper:#f6f4ef; --line:#d9d4c8; --card:#fffdf9;
+    --muted:#6b6b63; --pivot:#c0392b;
+    --apf:#284b63; --fgg:#9c6b3f; --ctg:#2f5d62;
+  }
+  *{box-sizing:border-box;margin:0;padding:0;}
+  body{font-family:"Pretendard","Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    color:var(--ink);background:var(--paper);line-height:1.65;font-size:15px;padding:32px 20px 80px;}
+  .wrap{max-width:860px;margin:0 auto;}
+  header{border-bottom:2px solid var(--ink);padding-bottom:18px;margin-bottom:26px;}
+  .eyebrow{font-size:12px;letter-spacing:.18em;color:var(--muted);text-transform:uppercase;font-weight:600;}
+  h1{font-size:29px;font-weight:800;letter-spacing:-.02em;margin:6px 0 4px;}
+  .sub{font-size:14px;color:var(--muted);}
+
+  /* 의사결정 패널 */
+  .decider{background:var(--card);border:1px solid var(--line);border-radius:5px;padding:22px 22px 18px;margin-bottom:30px;}
+  .decider h2{font-size:13px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase;margin-bottom:6px;font-weight:700;}
+  .decider .q{font-size:13.5px;color:var(--muted);margin:14px 0 8px;}
+  .goals{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:8px;}
+  .goal{text-align:left;padding:13px 14px;font-size:14px;font-weight:600;color:var(--ink);
+    background:var(--paper);border:1px solid var(--line);border-radius:4px;cursor:pointer;transition:.12s;}
+  .goal:hover{border-color:var(--ink);}
+  .goal.on{background:var(--ink);color:var(--paper);border-color:var(--ink);}
+  .esth{display:flex;align-items:center;gap:9px;font-size:13.5px;color:var(--muted);margin-top:14px;cursor:pointer;}
+  .esth input{width:18px;height:18px;accent-color:var(--ctg);cursor:pointer;}
+  .reco{margin-top:16px;padding:14px 16px;background:var(--paper);border-left:3px solid var(--line);border-radius:0 4px 4px 0;
+    font-size:14.5px;color:var(--muted);min-height:52px;}
+  .reco b{color:var(--ink);}
+  /* 카드 그리드 */
+  .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(245px,1fr));gap:14px;margin-bottom:30px;}
+  .pcard{background:var(--card);border:1px solid var(--line);border-radius:5px;padding:18px 18px 16px;transition:box-shadow .15s,border-color .15s;}
+  .pcard.hl{border-color:var(--pivot);box-shadow:0 0 0 2px var(--pivot);}
+  .pcard .tag{display:inline-block;font-size:11px;font-weight:700;letter-spacing:.06em;color:#fff;padding:3px 10px;border-radius:3px;}
+  .pcard h3{font-size:19px;font-weight:800;margin:9px 0 2px;}
+  .pcard .ko{font-size:12.5px;color:var(--muted);margin-bottom:11px;}
+  .pcard p{font-size:13.5px;line-height:1.6;margin-bottom:10px;}
+  .pcard .row{font-size:12.5px;color:var(--muted);border-top:1px dashed var(--line);padding-top:8px;margin-top:8px;}
+  .pcard .row b{color:var(--ink);font-weight:700;}
+
+  /* 비교 매트릭스 */
+  .matrix{border:1px solid var(--line);border-radius:5px;overflow:hidden;background:var(--card);margin-bottom:28px;}
+  .mrow{display:grid;grid-template-columns:128px 1fr 1fr 1fr;border-bottom:1px solid var(--line);}
+  .mrow:last-child{border-bottom:none;}
+  .mrow.head{background:var(--ink);color:var(--paper);font-size:12.5px;font-weight:700;}
+  .mrow.head>div{padding:10px 12px;}
+  .mrow>div{padding:11px 12px;font-size:12.8px;line-height:1.5;border-right:1px solid var(--line);}
+  .mrow>div:last-child{border-right:none;}
+  .mrow .lab{background:var(--paper);font-weight:700;font-size:12.5px;color:var(--ink);display:flex;align-items:center;}
+  .yes{color:var(--ctg);font-weight:700;}
+  .no{color:var(--pivot);font-weight:700;}
+  .mid{color:var(--fgg);font-weight:700;}
+  .note{font-size:12.8px;color:var(--muted);line-height:1.6;background:var(--card);border:1px solid var(--line);
+    border-left:3px solid var(--pivot);border-radius:0 4px 4px 0;padding:14px 16px;}
+  .note b{color:var(--ink);}
+  h2.sec{font-size:13px;letter-spacing:.1em;color:var(--muted);text-transform:uppercase;font-weight:700;margin:0 0 12px;}
+  footer{margin-top:42px;padding-top:16px;border-top:1px solid var(--line);font-size:12px;color:var(--muted);line-height:1.6;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <p class="eyebrow">Mucogingival surgery · 의사결정</p>
+    <h1>치주성형 술식 선택 — APF · FGG · CTG</h1>
+    <p class="sub">각화치은이 있느냐 · 폭을 늘리느냐 · 노출 치근을 덮느냐 — 세 갈래로 술식을 가른다.</p>
+  </header>
+
+  <section class="decider">
+    <h2>술식 추천기</h2>
+    <p class="q">① 1차 임상 목적을 고르세요</p>
+    <div class="goals" id="goals">
+      <button class="goal" data-goal="pocket">치주낭 감소 · 임상치관연장</button>
+      <button class="goal" data-goal="kt">각화치은 폭 증대 · 퇴축 차단</button>
+      <button class="goal" data-goal="root">노출 치근 피개</button>
+    </div>
+    <label class="esth"><input type="checkbox" id="esth"> ② 전치부 등 심미부위다</label>
+    <div class="reco" id="reco">목적을 선택하면 술식을 추천하고 아래 카드를 강조합니다.</div>
+  </section>
+
+  <h2 class="sec">세 술식의 본질</h2>
+  <div class="cards" id="cards">
+    <div class="pcard" data-key="APF">
+      <span class="tag" style="background:var(--apf)">APF</span>
+      <h3>치은판막 근단변위술</h3>
+      <p class="ko">Apically Positioned Flap</p>
+      <p>이식편 없이 기존 판막을 근단으로 이동·고정. <b>각화치은이 이미 충분</b>할 때만 성립.</p>
+      <div class="row"><b>대표 적응</b> 임상치관연장, ferrule 확보, 골수술 동반 치주낭 감소</div>
+      <div class="row"><b>한계</b> 치근피개 목적엔 부적합</div>
+    </div>
+    <div class="pcard" data-key="FGG">
+      <span class="tag" style="background:var(--fgg)">FGG</span>
+      <h3>유리치은이식술</h3>
+      <p class="ko">Free Gingival Graft</p>
+      <p>구개에서 <b>상피+고유층 전층</b> 채취 → 골막 위 이식. 각화치은 폭 증대가 목적.</p>
+      <div class="row"><b>대표 적응</b> KT 부족+진행성 퇴축, 임플란트/의치 주위 각화점막, 전정 확보</div>
+      <div class="row"><b>한계</b> 색조 부조화(흰 패치) — 심미부위 비권장, 공여부 개방창</div>
+    </div>
+    <div class="pcard" data-key="CTG">
+      <span class="tag" style="background:var(--ctg)">CTG</span>
+      <h3>결합조직이식술</h3>
+      <p class="ko">Connective Tissue Graft</p>
+      <p><b>상피하 결합조직만</b> 채취 → 판막(CAF·tunnel) 아래 삽입. 이중 혈액공급.</p>
+      <div class="row"><b>대표 적응</b> Miller I·II / Cairo RT1·RT2 치근피개, 치은 두께·심미 증대</div>
+      <div class="row"><b>강점</b> 치근피개 gold standard, 색조 적응 우수</div>
+    </div>
+  </div>
+
+  <h2 class="sec">적응증 비교 매트릭스</h2>
+  <div class="matrix">
+    <div class="mrow head"><div>항목</div><div>APF</div><div>FGG</div><div>CTG</div></div>
+    <div class="mrow"><div class="lab">1차 목적</div><div>치주낭 감소·치관연장</div><div>각화치은 폭 증대</div><div>치근피개·두께·심미</div></div>
+    <div class="mrow"><div class="lab">이식편</div><div>없음(판막만 이동)</div><div>상피+결합조직 전층</div><div>상피하 결합조직</div></div>
+    <div class="mrow"><div class="lab">전제 각화치은</div><div>이미 충분</div><div>부족(증대 대상)</div><div>인접 KT 일부 필요</div></div>
+    <div class="mrow"><div class="lab">치근피개 예측성</div><div class="no">낮음</div><div class="mid">제한적·비심미</div><div class="yes">높음</div></div>
+    <div class="mrow"><div class="lab">심미부위 적합</div><div class="mid">△</div><div class="no">✕</div><div class="yes">◎</div></div>
+    <div class="mrow"><div class="lab">공여부</div><div class="yes">없음</div><div class="no">개방창·통증↑</div><div class="mid">폐쇄 가능·통증↓</div></div>
+  </div>
+
+  <h2 class="sec">판단 노트</h2>
+  <p class="note"><b>KT 폭 "필요 최소치" 논쟁.</b> 고전적 2mm 각화치은 / 1mm 부착치은 기준은 후속 연구에서 절대 기준이 아니라는 반론이 있다 — 구강위생이 유지되면 KT가 좁아도 부착소실이 진행되지 않는다는 보고. 그래서 FGG 적응은 수치보다 <b>진행성 퇴축·증상·보철 계획</b> 같은 동적 요인으로 판단하는 게 현재 흐름. 공여부 이환을 줄이려 결합조직 기반 술식·무세포성 진피기질(ADM)로 대체하는 경향도 늘지만, 자가 CTG가 장기 안정성·생착에선 여전히 기준점.</p>
+
+  <footer>
+    LLM Wiki — Dentistry · 치주성형 술식 의사결정 · 근거 수준: 합의/가이드라인 기준, KT 임계치는 미확정 쟁점.
+    · <a href="index.html">← Interactive Tools 색인</a>
+  </footer>
+</div>
+
+<script>
+(function(){
+  var state={goal:null,esth:false};
+  var R={
+    pocket:{key:"APF",msg:"<b>APF.</b> 단, 근단 이동 후에도 부착치은이 남도록 각화치은 폭을 먼저 확인 — 부족하면 FGG로 폭부터 확보."},
+    root:{key:"CTG",msg:"<b>CTG.</b> 치근피개 gold standard. CAF 또는 tunnel과 병용."},
+    ktNon:{key:"FGG",msg:"<b>FGG.</b> 비심미부위 각화치은 폭 증대의 1차 선택."},
+    ktEsth:{key:"CTG",msg:"<b>CTG.</b> 심미부위는 색조 적응이 좋은 결합조직이식 우선. (de-epithelialized FGG도 대안)"}
+  };
+  function decide(){
+    if(!state.goal) return null;
+    if(state.goal==="pocket") return R.pocket;
+    if(state.goal==="root") return R.root;
+    return state.esth?R.ktEsth:R.ktNon;
+  }
+  function render(){
+    var r=decide(), reco=document.getElementById("reco");
+    document.querySelectorAll(".pcard").forEach(function(c){c.classList.remove("hl");});
+    if(!r){reco.innerHTML="목적을 선택하면 술식을 추천하고 아래 카드를 강조합니다.";return;}
+    reco.innerHTML=r.msg;
+    var card=document.querySelector('.pcard[data-key="'+r.key+'"]');
+    if(card) card.classList.add("hl");
+  }
+  document.querySelectorAll(".goal").forEach(function(b){
+    b.addEventListener("click",function(){
+      state.goal=b.getAttribute("data-goal");
+      document.querySelectorAll(".goal").forEach(function(x){x.classList.remove("on");});
+      b.classList.add("on");
+      render();
+    });
+  });
+  document.getElementById("esth").addEventListener("change",function(e){
+    state.esth=e.target.checked; render();
+  });
+})();
+</script>
+</body>
+</html>
