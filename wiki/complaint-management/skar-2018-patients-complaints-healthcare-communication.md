@@ -35,5 +35,5 @@ Qualitative content analysis of written patient complaints concerning healthcare
 Complaints clustered around communication failures -- patients not receiving adequate information, not feeling listened to or believed, and experiencing a lack of respect and individualised attention. Time pressure in encounters was a recurring obstacle to a caring relationship.
 
 ## Related Papers
-- [[complaint-management/bmjqs-2013-002437]] -- applies-to: illustrates the staff-patient relationship domain.
-- [[complaint-management/1472-6963-6-106]] -- reinforces: respect and explanation as core expectations.
+- [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]] -- applies-to: illustrates the staff-patient relationship domain.
+- [[complaint-management/friele-2006-patient-expectations-fair-complaint]] -- reinforces: respect and explanation as core expectations.
