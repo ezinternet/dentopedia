@@ -35,6 +35,6 @@ Five years of patient complaints and staff incident reports from a large multi-s
 Overlapping incidents n=446 (7.6% of complaints, 0.6% of incident reports) but disproportionately Serious Incidents and severe harm. Linked complaints reported greater harm in 60% of cases, surfaced 582 surrounding safety events missed by staff, gave contesting causal accounts in 46% and complementary accounts in 26%.
 
 ## Related Papers
-- [[complaint-management/bmjqs-2015-004596]] -- extends: applies structured complaint coding to safety linkage.
-- [[complaint-management/10.1177_01410768221098247]] -- reinforces: same agenda of making complaints drive improvement.
-- [[complaint-management/bmjqs-2013-002437]] -- applies-to: clinical-domain complaints as safety signals.
+- [[complaint-management/gillespie-2016-healthcare-complaints-analysis-tool]] -- extends: applies structured complaint coding to safety linkage.
+- [[complaint-management/van-dael-2022-national-policies-complaint-handling]] -- reinforces: same agenda of making complaints drive improvement.
+- [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]] -- applies-to: clinical-domain complaints as safety signals.
