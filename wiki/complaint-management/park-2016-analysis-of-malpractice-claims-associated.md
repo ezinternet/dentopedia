@@ -45,5 +45,5 @@ n=40 (35 female, 5 male; mean age 36). Plaintiff success 34/40 (85%); mean award
 
 ## Related Papers
 - [[complaint-management/kwon-2017-analysis-of-the-legal-effect]] — reinforces: same group, settlement-agreement stage of the same medico-legal pathway.
-- [[complaint-management/JISPCD-14-295]] — extends: adds an SSI/consent liability axis to the medico-legal applied layer.
+- [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] — extends: adds an SSI/consent liability axis to the medico-legal applied layer.
 - [[overviews/complaint-management-pipeline-classification-expectation-response-education]] — 치과 Applied (medico-legal) layer.
