@@ -35,6 +35,6 @@ Taxonomy from the 2014 systematic review refined through three iterations of dis
 The 7 HCAT problem categories were confirmed conceptually distinct. Raters identified on average 1.94 problems (SD=0.26) per complaint letter. Reliability and accuracy reached acceptable levels for service monitoring across the three domains (clinical, management, relationships).
 
 ## Related Papers
-- [[complaint-management/bmjqs-2013-002437]] -- reinforces: HCAT is the instrument form of this taxonomy.
-- [[complaint-management/bmjopen-2019-033638]] -- extends: independent reliability test of HCAT in Denmark.
-- [[complaint-management/10.1177_01410768221098247]] -- applies-to: HCAT group's critique of national complaint policy.
+- [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]] -- reinforces: HCAT is the instrument form of this taxonomy.
+- [[complaint-management/bogh-2019-healthcare-complaints-analysis-tool]] -- extends: independent reliability test of HCAT in Denmark.
+- [[complaint-management/van-dael-2022-national-policies-complaint-handling]] -- applies-to: HCAT group's critique of national complaint policy.
