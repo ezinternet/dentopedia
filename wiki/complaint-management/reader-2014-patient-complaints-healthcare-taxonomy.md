@@ -35,6 +35,6 @@ Systematic review of PubMed, ScienceDirect, Medline. Inclusion: primary quantita
 59 studies, 88,069 complaints, 113,551 underlying issues, coded with 205 distinct codes. Most common single issues: 'treatment' (15.6%) and 'communication' (13.7%). Final taxonomy: 3 domains -- Clinical (safety & quality of care, 33.7%), Management (organisation of care, 35.1%), Relationships (staff-patient communication & respect, 29.1%).
 
 ## Related Papers
-- [[complaint-management/bmjqs-2015-004596]] -- extends: this taxonomy is operationalised into the HCAT coded instrument.
-- [[complaint-management/bmjopen-2019-033638]] -- applies-to: HCAT taxonomy tested on Danish claims.
-- [[complaint-management/10.1177_13558196211029323]] -- extends: same group applies complaint coding to safety-incident linkage.
+- [[complaint-management/gillespie-2016-healthcare-complaints-analysis-tool]] -- extends: this taxonomy is operationalised into the HCAT coded instrument.
+- [[complaint-management/bogh-2019-healthcare-complaints-analysis-tool]] -- applies-to: HCAT taxonomy tested on Danish claims.
+- [[complaint-management/van-dael-2022-getting-whole-story-patient-complaints]] -- extends: same group applies complaint coding to safety-incident linkage.
