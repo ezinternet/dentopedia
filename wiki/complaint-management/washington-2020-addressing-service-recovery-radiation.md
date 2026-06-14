@@ -35,5 +35,5 @@ Explanatory sequential mixed-methods: survey of frontline managers, document/art
 Effective service recovery depended on consistent performance measurement, structured feedback, and frequent leadership training emphasising the relevance of service recovery. Gaps in any of these undermined managers' ability to actively address dissatisfaction.
 
 ## Related Papers
-- [[complaint-management/10.1177_23743735251342611]] -- extends: CODE formalises service-recovery training.
-- [[complaint-management/medi-103-e37275]] -- reinforces: management systems improve satisfaction.
+- [[complaint-management/elias-2025-successful-handling-patient-complaints]] -- extends: CODE formalises service-recovery training.
+- [[complaint-management/li-2024-complaint-management-patient-satisfaction]] -- reinforces: management systems improve satisfaction.
