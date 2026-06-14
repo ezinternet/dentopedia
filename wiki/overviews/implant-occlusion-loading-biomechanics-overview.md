@@ -42,6 +42,8 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 6. **무치악/full-arch 임플란트 교합 설계는 견치유도·과두관계·하중 분산을 고려.** — Zhang Xueyang 2018(무치악 교합 설계), Bhambhani 2020(총의치 교합 양식). [합의수준]
 7. **비축방향(nonaxial) 식립 각도 자체가 변연골 소실의 측정 가능한 인자 — 단, 대합치가 임플란트일 때 증폭된다.** Kim 2026(후향 506개, 5.1년)은 CAD 3D 각도(근원심+협설) 측정으로 비축 0.22 vs 축방향 0.10 mm MBL(P<.05)을 보였고, 각도×대합치 상호작용에서 implant-FDP 대합 시 비축 페널티가 최대(Δ0.373 mm) — 명제 5의 implant-vs-implant stress concentration(Schulte)을 임상에서 재현. 선행 음성 결과(Koutouzis 2007 등)는 근원심 2D 각도만 측정한 한계로 재해석된다. 단 절대 MBL이 0.1–0.22 mm로 작아 임상적 유의는 별개. [claude해석] [근거강함—단일 후향연구 P값, 임상 의의 미확정]
 
+8. **실험적(동물·retrieval) 근거는 "통제된 점진적 하중은 임플란트주위 골을 강화하나, 과도·고빈도 하중은 골유착을 저해"라는 용량-의존 곡선을 그린다 — 명제 4(과부하-골소실)의 기초생물학 뒷받침.** 점진적 정적 하중은 BIC를 높이고(개, Podaropoulos 2016, 100→300 g 9주, P=0.018) 과부하 저항력까지 높였다(beagle, Podaropoulos 2020, 성공률 87.5% vs 67.5%). 즉시·지연 기능하중 모두 무하중보다 BIC가 높았으나 둘 사이 차이는 없었다(원숭이, Romanos 2003). 반대로 1일 하중 세션을 2배로 늘리면 BIC가 감소했다(rat, Bueno 2018 — 빈도 dose-response). 인체 retrieval에서는 기능하중 시간이 길수록 BIC·BAFO가 증가하고(Gil 2015, plateau form, 120일–18년) 주위 피질골 탄성계수·경도가 첫 ~5년 상승 후 안정화한다(Baldassarri 2012, 나노압입). → "점진·생리적 하중 = 적응(강화), 급격·고빈도 하중 = 부적응(골유착 저해)"의 mechanostat 해석. [claude해석/동물·retrieval — 인체 임상 외삽 미검증]
+
 ## Results
 
 ### 4축 정리
@@ -57,6 +59,10 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 | 보철 구성 위험 | [[occlusion/berzaghi-2025-occlusion-biomechanical-risk-implant-full-arch-narrative]] | narrative | full-arch 캔틸레버·재료·부기능 위험 |
 | 재료 피로 | [[occlusion/packaeser-2025-core-material-occlusal-contact-fatigue-ceramic-crowns]] | in-vitro | 교합접촉 양상이 세라믹 크라운 피로수명 영향 |
 | 무치악/총의치 | [[occlusion/zhang-xueyang-2018-occlusion-design-edentulous-implant-prosthesis]] · [[occlusion/bhambhani-2020-choosing-denture-occlusion-systematic-review]] | narrative·sr | 무치악 교합 설계·총의치 교합양식 |
+| 실험적 로딩-골반응(점진/정적) | [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] · [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] | animal | 점진 정적 하중이 BIC↑·과부하 저항력↑(성공률 87.5 vs 67.5%) |
+| 실험적 로딩-골반응(즉시/지연) | [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] | animal | 즉시·지연 하중 모두 무하중보다 BIC↑, 둘 사이 차이 없음 |
+| 하중 빈도 dose-response | [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] | animal | 1일 세션 2배 → BIC↓ (고빈도 하중 부적응) |
+| 기능하중 시간(인체 retrieval) | [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] · [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] | retrospective | 하중 시간↑ → BIC·BAFO↑; 주위 골 탄성계수·경도 첫 ~5년 상승 후 안정 |
 
 ### 임상 ladder (임플란트 교합)
 
@@ -95,3 +101,12 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 - [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]] — Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes … (cross-sectional, 2021)
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
 - [[implants/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
+
+### 실험적 로딩-골반응 축 추가 (2026-06-14)
+
+- [[occlusion/podaropoulos-2016-bone-reactions-progressive-static-load-dogs]] — 개 조직형태학: 점진 정적 교정하중(100→300 g, 9주)이 무하중 대비 BIC↑(P=0.018), 치조정 흡수 없음 (animal, 2016)
+- [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] — beagle 40개: 과부하 전 점진 정적 예비하중이 임플란트 성공률을 87.5% vs 67.5%(과부하-only)로 향상 (animal, 2020)
+- [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — Macaca 48개: 즉시·지연 기능하중 모두 무하중보다 BIC↑, 프로토콜 간 차이 없음 (animal, 2003)
+- [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] — rat 경골: 1일 주기하중 세션 2배 → BIC↓ (하중 빈도 dose-response) (animal, 2018)
+- [[implants/gil-2015-progressive-plateau-root-form-osseointegration-retrieval]] — 인체 retrieval(plateau form, 120일–18년): 기능하중 시간↑ → BIC·BAFO 점진 증가 (retrospective, 2015)
+- [[implants/baldassarri-2012-mechanical-properties-plateau-root-form]] — 인체 retrieval 나노압입(n=30, 0.3–24년): 주위 피질골 탄성계수·경도 첫 ~5년 상승 후 안정 (retrospective, 2012)
