@@ -1,0 +1,271 @@
+<!--
+---
+title: "편측저작 부하 → 치조골 밀도 기전 (인터랙티브)"
+type: interactive
+date: 2026-06-14
+status: in-progress
+agenda: agenda/2026-06-14_unilateral-mastication-bone-mechanism.md
+source_wiki:
+  - wiki/overviews/unilateral-mastication-occlusal-load-alveolar-bone-density.md
+  - wiki/implants/lee-2018-unilateral-mastication-bone-density-alveolus.md
+  - wiki/bone-biology/chen-2023-occlusal-force-alveolar-bone-type-h-angiogenesis.md
+  - wiki/bone-biology/xu-2016-sclerostin-wnt-occlusal-hypofunction-alveolar-bone.md
+  - wiki/bone-biology/liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats.md
+  - wiki/occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.md
+tags: [unilateral-mastication, alveolar-bone, bone-density, mechanobiology, sclerostin, wnt, type-h-vessels, interactive]
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>편측저작 부하 → 치조골 밀도 기전</title>
+<style>
+  :root{
+    --bg:#f7f6f3; --card:#ffffff; --ink:#1f2421; --muted:#6b726c; --line:#e3e1da;
+    --teal:#2f8f83; --teal-bg:#e7f3f1; --teal-ink:#1c5a52;
+    --amber:#b9772a; --amber-bg:#faf0e2; --amber-ink:#7d4f17;
+    --up:#2f8f83; --down:#b9772a;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.6;padding:24px 16px;}
+  .wrap{max-width:860px;margin:0 auto;}
+  h1{font-size:24px;font-weight:600;margin:0 0 4px;}
+  .sub{color:var(--muted);font-size:15px;margin:0 0 20px;}
+  .toggle{display:flex;gap:8px;background:var(--card);border:1px solid var(--line);
+    border-radius:14px;padding:6px;margin-bottom:8px;}
+  .toggle button{flex:1;border:0;background:transparent;color:var(--muted);
+    font-size:15px;font-weight:600;padding:13px 10px;border-radius:10px;cursor:pointer;
+    transition:all .25s;font-family:inherit;}
+  .toggle button .small{display:block;font-size:12px;font-weight:400;margin-top:2px;}
+  .toggle button.active[data-state="on"]{background:var(--teal-bg);color:var(--teal-ink);}
+  .toggle button.active[data-state="off"]{background:var(--amber-bg);color:var(--amber-ink);}
+  .hint{text-align:center;color:var(--muted);font-size:13px;margin:0 0 18px;}
+  .grid{display:grid;grid-template-columns:1.1fr .9fr;gap:16px;margin-bottom:16px;}
+  @media(max-width:680px){.grid{grid-template-columns:1fr;}}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px;}
+  .card h2{font-size:13px;font-weight:600;letter-spacing:.04em;text-transform:uppercase;
+    color:var(--muted);margin:0 0 12px;}
+  .step{display:flex;align-items:center;gap:11px;padding:9px 0;border-top:1px solid var(--line);}
+  .step:first-of-type{border-top:0;}
+  .badge{flex:none;width:30px;height:30px;border-radius:8px;display:flex;align-items:center;
+    justify-content:center;font-weight:700;font-size:16px;transition:all .3s;}
+  .badge.up{background:var(--teal-bg);color:var(--teal);}
+  .badge.down{background:var(--amber-bg);color:var(--amber);}
+  .step .label{font-size:14.5px;font-weight:600;}
+  .step .desc{font-size:12.5px;color:var(--muted);transition:opacity .3s;}
+  .piezo{background:#eef0ef;border:1px dashed #c7cbc8;border-radius:10px;padding:10px 12px;
+    font-size:13px;color:#4a514c;margin-bottom:12px;text-align:center;}
+  .piezo b{color:var(--ink);}
+  /* bone viz */
+  .bone-card{display:flex;flex-direction:column;}
+  .bonewrap{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;}
+  #bone{width:100%;max-width:240px;height:auto;}
+  #bone .trab{stroke:var(--teal);transition:stroke-width .5s,stroke .5s,opacity .5s;
+    stroke-linecap:round;fill:none;}
+  .off #bone .trab{stroke:var(--amber);}
+  .gap{transition:opacity .5s;}
+  .hu{width:100%;margin-top:14px;}
+  .hu-top{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px;}
+  .hu-num{font-size:30px;font-weight:700;transition:color .3s;}
+  .on .hu-num{color:var(--teal);} .off .hu-num{color:var(--amber);}
+  .hu-unit{font-size:13px;color:var(--muted);}
+  .hu-tag{font-size:12.5px;font-weight:600;padding:3px 9px;border-radius:20px;}
+  .on .hu-tag{background:var(--teal-bg);color:var(--teal-ink);}
+  .off .hu-tag{background:var(--amber-bg);color:var(--amber-ink);}
+  .track{height:9px;background:#ececec;border-radius:6px;overflow:hidden;}
+  .fill{height:100%;border-radius:6px;transition:width .55s,background .3s;}
+  .on .fill{background:var(--teal);} .off .fill{background:var(--amber);}
+  .scale{display:flex;justify-content:space-between;font-size:11px;color:var(--muted);margin-top:3px;}
+  .outcome{font-size:14px;font-weight:600;text-align:center;margin-top:12px;transition:color .3s;}
+  .on .outcome{color:var(--teal-ink);} .off .outcome{color:var(--amber-ink);}
+  /* table */
+  table{width:100%;border-collapse:collapse;font-size:13.5px;}
+  th,td{padding:8px 10px;text-align:center;border-bottom:1px solid var(--line);}
+  th{color:var(--muted);font-weight:600;font-size:12px;}
+  td:first-child{text-align:left;font-weight:500;}
+  .chew{color:var(--teal-ink);font-weight:600;}
+  .opp{color:var(--amber-ink);}
+  tr.hl{background:#fbfaf6;}
+  .note{background:#eef4f3;border-left:3px solid var(--teal);border-radius:0 8px 8px 0;
+    padding:12px 14px;font-size:13.5px;margin-top:16px;}
+  .note b{color:var(--teal-ink);}
+  .caveat{background:#faf0e2;border-left:3px solid var(--amber);border-radius:0 8px 8px 0;
+    padding:12px 14px;font-size:13px;margin-top:10px;color:#5c4a30;}
+  .src{margin-top:20px;font-size:12.5px;color:var(--muted);}
+  .src h3{font-size:12px;text-transform:uppercase;letter-spacing:.04em;margin:0 0 6px;}
+  .src li{margin:3px 0;}
+  .pill{display:inline-block;font-size:11px;padding:1px 7px;border-radius:10px;
+    background:#ececec;color:#555;margin-left:4px;}
+</style>
+</head>
+<body>
+<div class="wrap" id="root">
+  <h1>편측저작: 부하 → 치조골 밀도 기전</h1>
+  <p class="sub">왜 씹는 쪽(작업측) 치조골이 더 단단할까 — 조직학적으로</p>
+
+  <div class="toggle">
+    <button id="btn-on" data-state="on" class="active" onclick="setState('on')">
+      부하 ON<span class="small">작업측 · 씹는 쪽</span></button>
+    <button id="btn-off" data-state="off" onclick="setState('off')">
+      부하 OFF<span class="small">비작업측 · 안 씹는 쪽</span></button>
+  </div>
+  <p class="hint">버튼을 눌러 같은 스위치가 부하 유무로 어떻게 반대로 도는지 보세요</p>
+
+  <div class="grid">
+    <!-- cascade -->
+    <div class="card">
+      <h2>세포·분자 캐스케이드</h2>
+      <div class="piezo">씹는 힘 → <b>골세포 + 치주인대(PDL)</b>의 <b>PIEZO1</b> → Ca²⁺ 감지</div>
+
+      <div class="step">
+        <div class="badge" id="b1">↓</div>
+        <div><div class="label" id="l1">sclerostin ↓</div>
+        <div class="desc" id="d1">Wnt/β-catenin 활성 → 골모세포 ↑</div></div>
+      </div>
+      <div class="step">
+        <div class="badge" id="b2">↓</div>
+        <div><div class="label" id="l2">RANKL ↓ → 파골세포 ↓</div>
+        <div class="desc" id="d2">TRAP⁺ 흡수 감소</div></div>
+      </div>
+      <div class="step">
+        <div class="badge" id="b3">↑</div>
+        <div><div class="label" id="l3">type H 혈관 유지</div>
+        <div class="desc" id="d3">OSX⁺ 골전구세포 공급 (혈관–골 짝지음)</div></div>
+      </div>
+    </div>
+
+    <!-- bone -->
+    <div class="card bone-card">
+      <h2>치조골 결과</h2>
+      <div class="bonewrap">
+        <svg id="bone" viewBox="0 0 200 150" aria-label="치조골 골소주 밀도">
+          <rect x="2" y="2" width="196" height="146" rx="8" fill="#faf9f6" stroke="#e3e1da"/>
+          <g id="trabs"></g>
+          <g id="gaps"></g>
+        </svg>
+        <div class="hu">
+          <div class="hu-top">
+            <div><span class="hu-num" id="hu">513</span> <span class="hu-unit">HU</span></div>
+            <span class="hu-tag" id="tag">고밀도</span>
+          </div>
+          <div class="track"><div class="fill" id="fill" style="width:80%"></div></div>
+          <div class="scale"><span>400</span><span>하악 대구치 (Lee 2018)</span><span>520</span></div>
+        </div>
+        <div class="outcome" id="outcome">골소주 두껍고 촘촘 → 단단</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lee table -->
+  <div class="card">
+    <h2>Lee 2018 — 좌우 치간 치조골 밀도 (n=25, CBCT)</h2>
+    <table>
+      <thead><tr><th>부위</th><th class="chew">작업측 HU</th><th class="opp">반대측 HU</th><th>유의차</th></tr></thead>
+      <tbody>
+        <tr><td>상악 견치</td><td class="chew">724</td><td class="opp">654</td><td>p&lt;0.05</td></tr>
+        <tr><td>상악 소구치</td><td class="chew">557</td><td class="opp">481</td><td>p&lt;0.05</td></tr>
+        <tr><td>상악 대구치</td><td class="chew">503</td><td class="opp">413</td><td>p&lt;0.05</td></tr>
+        <tr><td>하악 견치</td><td class="chew">734</td><td class="opp">697</td><td>p&lt;0.05</td></tr>
+        <tr><td>하악 소구치</td><td class="chew">565</td><td class="opp">520</td><td>p&lt;0.05</td></tr>
+        <tr class="hl"><td>하악 대구치 ★최대차</td><td class="chew">513</td><td class="opp">409</td><td>p&lt;0.05</td></tr>
+        <tr><td>절치부 (저부하)</td><td class="chew">848 / 981</td><td class="opp">843 / 973</td><td>n.s.</td></tr>
+      </tbody>
+    </table>
+  </div>
+
+  <div class="note">
+    <b>핵심:</b> 치조골은 <b>load-positive</b> — 부하가 클수록 치밀해진다. 밀도 비대칭의 크기는 그 부위가
+    받는 저작 부하를 따라간다(절치부는 차이 없음). 부하가 빠지면 캐스케이드가 통째로 역전돼
+    <b>치조골 폐용성 골다공증(ABDO)</b>으로 간다. 단 이 변화는 <b>가역적</b>이다 — 교합 회복(Liu 2015)·
+    저출력레이저(Hayashi 2014)로 되돌아간다.
+  </div>
+  <div class="caveat">
+    ⚠ 주의: 기전 근거는 <b>설치류·전임상</b>(Chen 2023, Xu 2016)이며 인체 직접 입증은 Lee 2018(단면, n=25)뿐.
+    또 이 기전은 <b>치주인대(PDL) 중심</b>이라 — PDL이 없는 <b>임플란트 주위골에는 그대로 적용되지 않을 수 있다</b>.
+    또한 작업측 <b>과두(condyle)</b>는 치조골과 반대로 축소·변위 방향이므로 별개 축으로 해석할 것(Zheng 2023).
+  </div>
+
+  <div class="src">
+    <h3>근거</h3>
+    <ul>
+      <li>Lee 2018 — 편측저작 CBCT 골밀도 <span class="pill">cross-sectional · 인체</span></li>
+      <li>Chen 2023 — 교합력 → PDL type H 혈관·PIEZO1/SLIT3 <span class="pill">animal · 전임상</span></li>
+      <li>Xu 2016 — 교합저하 → sclerostin/Wnt·RANKL <span class="pill">animal · 전임상</span></li>
+      <li>Liu 2015 — 교합저하 골손상 가역성 <span class="pill">animal</span></li>
+      <li>Hayashi 2014 — LLLT로 골밀도 회복 <span class="pill">animal</span></li>
+      <li>종합: wiki/overviews/unilateral-mastication-occlusal-load-alveolar-bone-density</li>
+    </ul>
+  </div>
+</div>
+
+<script>
+  // 골소주(trabecular) 메시 — 고정 좌표, 상태에 따라 stroke-width로 밀도 표현
+  var segs=[
+    [20,30,60,55],[60,55,40,95],[40,95,75,120],[60,55,100,40],[100,40,140,60],
+    [140,60,120,100],[120,100,160,120],[140,60,178,42],[100,40,95,80],[95,80,75,120],
+    [95,80,120,100],[40,95,25,128],[160,120,178,95],[178,42,178,95],[20,30,18,70],
+    [18,70,40,95],[60,55,30,75],[120,100,95,125],[140,60,160,120],[75,120,120,128]
+  ];
+  var trabG=document.getElementById('trabs');
+  segs.forEach(function(s){
+    var l=document.createElementNS('http://www.w3.org/2000/svg','line');
+    l.setAttribute('x1',s[0]);l.setAttribute('y1',s[1]);
+    l.setAttribute('x2',s[2]);l.setAttribute('y2',s[3]);
+    l.setAttribute('class','trab');trabG.appendChild(l);
+  });
+  // 흡수 갭(파골세포) — OFF일 때만 보이는 점선 구멍
+  var gapPts=[[55,70],[110,75],[85,108],[150,90]];
+  var gapsG=document.getElementById('gaps');
+  gapPts.forEach(function(p){
+    var c=document.createElementNS('http://www.w3.org/2000/svg','circle');
+    c.setAttribute('cx',p[0]);c.setAttribute('cy',p[1]);c.setAttribute('r',7);
+    c.setAttribute('class','gap');c.setAttribute('fill','none');
+    c.setAttribute('stroke','#b9772a');c.setAttribute('stroke-dasharray','2 2');
+    c.setAttribute('opacity','0');gapsG.appendChild(c);
+  });
+
+  var DATA={
+    on:{
+      b:[['up','↓'],['up','↓'],['up','↑']],
+      l:['sclerostin ↓','RANKL ↓ → 파골세포 ↓','type H 혈관 유지'],
+      d:['Wnt/β-catenin 활성 → 골모세포 ↑','TRAP⁺ 흡수 감소','OSX⁺ 골전구세포 공급 (혈관–골 짝지음)'],
+      hu:513, fill:80, tag:'고밀도', outcome:'골소주 두껍고 촘촘 → 단단',
+      trabW:3.4, trabOp:1, gapOp:0
+    },
+    off:{
+      b:[['down','↑'],['down','↑'],['down','↓']],
+      l:['sclerostin ↑','RANKL ↑ → 파골세포 ↑','type H 혈관 급감'],
+      d:['Wnt 억제 → 골모세포 멈춤','TRAP⁺ 흡수 증가 (p<0.001)','전구세포 공급 끊김 → ABDO'],
+      hu:409, fill:14, tag:'저밀도 (ABDO)', outcome:'골소주 얇고 성김 → 무름',
+      trabW:1.2, trabOp:.65, gapOp:1
+    }
+  };
+
+  function setState(st){
+    var dd=DATA[st];
+    document.getElementById('root').className='wrap '+st;
+    document.getElementById('btn-on').classList.toggle('active',st==='on');
+    document.getElementById('btn-off').classList.toggle('active',st==='off');
+    for(var i=0;i<3;i++){
+      var b=document.getElementById('b'+(i+1));
+      b.className='badge '+dd.b[i][0]; b.textContent=dd.b[i][1];
+      document.getElementById('l'+(i+1)).textContent=dd.l[i];
+      document.getElementById('d'+(i+1)).textContent=dd.d[i];
+    }
+    document.getElementById('hu').textContent=dd.hu;
+    document.getElementById('fill').style.width=dd.fill+'%';
+    document.getElementById('tag').textContent=dd.tag;
+    document.getElementById('outcome').textContent=dd.outcome;
+    document.querySelectorAll('#bone .trab').forEach(function(t){
+      t.setAttribute('stroke-width',dd.trabW); t.style.opacity=dd.trabOp;
+    });
+    document.querySelectorAll('#bone .gap').forEach(function(g){g.style.opacity=dd.gapOp;});
+  }
+  setState('on');
+</script>
+</body>
+</html>
