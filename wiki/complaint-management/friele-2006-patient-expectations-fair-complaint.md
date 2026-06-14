@@ -35,6 +35,6 @@ Cross-sectional survey of 424 patients (75% response) who had lodged a complaint
 Predominant reason to complain: prevent recurrence. Impartial committee position most important to 87%; respectful treatment expected. Desired outcome = change in hospital performance (79%). Disclosure/admission of mistake expected. Explanation most important to 65% vs apology 41%. Restoring doctor-patient relationship important to only 32%; financial compensation wanted by only 7%.
 
 ## Related Papers
-- [[complaint-management/13104_2015_Article_1479]] -- extends: same author quantifies the expectation gap vs physicians.
-- [[complaint-management/12913_2021_Article_6733]] -- contradicts: NHS responses violate these fairness expectations (fauxpology).
-- [[complaint-management/10.1177_23743735251342611]] -- applies-to: CODE training operationalises these expectations.
+- [[complaint-management/friele-2015-complaint-handling-healthcare-expectation]] -- extends: same author quantifies the expectation gap vs physicians.
+- [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]] -- contradicts: NHS responses violate these fairness expectations (fauxpology).
+- [[complaint-management/elias-2025-successful-handling-patient-complaints]] -- applies-to: CODE training operationalises these expectations.
