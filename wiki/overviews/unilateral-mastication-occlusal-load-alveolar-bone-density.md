@@ -65,3 +65,6 @@ In unilateral chewers the working (chewing) side carries denser alveolar bone th
 - [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review]] — 대비 축: 편측저작의 과두/TMJ 영향
 - [[overviews/bone-quality-implant-risk-modification-overview]] — 골질을 위험 축으로 묶은 임플란트 의사결정
 - [[overviews/occlusal-trauma-periodontitis-overview]] — 반대편: 교합 *과부하*와 치주의 관계
+
+## Related Interactive
+- `interactives/2026-06-14_unilateral-mastication-bone-mechanism.html` — 부하 ON/OFF 토글로 PIEZO1 → sclerostin/Wnt → 파골세포 → type H 혈관 캐스케이드와 골소주 밀도(HU 513↔409) 변화를 비교하는 교육용 도구 (강의·환자설명용). agenda: `agenda/2026-06-14_unilateral-mastication-bone-mechanism.md`
