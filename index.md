@@ -2013,3 +2013,21 @@ tags: []
 ### Overview (added 2026-06-14)
 - [[overviews/tissue-level-vs-bone-level-implant-outcomes]] — **NEW Overview**: 조직수준 vs 골수준(TL/BL) 임플란트 변연골·주위염·연조직·생존 결과 종합 (9편: SR+MA·SR·전향/케이스-대조·후향·동물). SR은 MBL·주위염 무차이지만 head-to-head 임상은 일관되게 TL이 변연골 보존 우세; thin mucosa가 양쪽 공통 최강 예측인자.
 - [[overviews/implant-occlusion-loading-biomechanics-overview]] — (갱신) 실험적 로딩-골반응 축 추가: 점진 정적 하중=골강화, 고빈도 하중=골유착 저해 dose-response (Podaropoulos 2016/2020·Romanos 2003·Bueno 2018·Gil 2015·Baldassarri 2012)
+
+## Batch ingest (added 2026-06-14, batch b) — keratinized mucosa & peri-implant soft tissue
+
+### implants/peri-implantitis — KM as risk factor
+- [[implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] — SR+MA (22 studies, n=13,265 implants): lack of keratinized mucosa is an independent peri-implantitis risk factor (OR=2.78, 95% CI 2.07–3.74) [sr+ma]
+- [[implants/peri-implantitis/ravida-2022-keratinized-mucosa-width-peri-implant-disease-sr-ma]] — SR+MA+TSA (9 studies): KMW<2 mm raises plaque index (only TSA-conclusive outcome); MBL/PD/recession underpowered; GRADE very low–low [sr+ma]
+- [[implants/peri-implantitis/zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis]] — MA (30 studies, ~5,241 implants): KMW≥2 mm reduces plaque/gingival/bleeding index & MBL vs <2 mm; high heterogeneity, robust on sensitivity [sr+ma]
+- [[implants/peri-implantitis/sabri-2025-keratinized-mucosa-implant-health-umbrella-review]] — Umbrella + meta-meta-analysis (10 SRs): KM<2 mm worsens recession (eOR 4.05) & MBL (eOR 1.852); BOP/PD NS (abstract-only source) [sr+ma]
+- [[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]] — Umbrella review (10 SRs/MAs, 7,139 participants): KMW≥2 mm reduces inflammation/plaque/recession/peri-implantitis; FGG first-line, XCM alternative [sr]
+
+### implants — KM augmentation & soft-tissue management
+- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
+- [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — Expert consensus (Int J Oral Sci 2025): technique decision tree (ARF/FGG/SFGG/substitutes) for peri-implant KM augmentation at second-stage surgery [consensus]
+- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR (15 prospective, ≥36 mo): CTG bilaminar STA gives stable soft-tissue margins & KMW/MT gains medium/long term; non-augmented sites show progressive recession [sr]
+- [[implants/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative]] — Narrative review: peri-implant biologic width, KM debate, CTG/VIP-CT grafting, inter-implant papilla reconstruction [narrative-review]
+
+### Overview (added 2026-06-14, batch b)
+- [[overviews/keratinized-mucosa-peri-implant-health-overview]] — **NEW Overview**: 각화점막(KM) 위험인자·증대술 종합 (10편). ~2 mm 역치 수렴; 연조직 대리지표(플라크·염증·퇴축)는 근거 강함, hard endpoint(주위염·MBL)는 방향성 있으나 근거 질 낮음/TSA 미달; FGG 기준 술식(xenograft 대안). Ravidà TSA의 "무결론"은 생물학적 무효가 아니라 검정력 부족으로 해석.
