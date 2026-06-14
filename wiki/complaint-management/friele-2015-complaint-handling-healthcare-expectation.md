@@ -35,5 +35,5 @@ Two parallel cross-sectional surveys with identical items on expectations of com
 The public held negative expectations about how complaints are handled; physicians held far more positive expectations, producing large, statistically significant gaps. The authors conclude the two parties start a complaint from opposite premises, an unfavourable condition for resolution, and negative public preconceptions tend to be self-confirming.
 
 ## Related Papers
-- [[complaint-management/1472-6963-6-106]] -- reinforces: builds on the same fairness-expectation programme.
-- [[complaint-management/12913_2021_Article_6733]] -- reinforces: defensive responses confirm the public's negative priors.
+- [[complaint-management/friele-2006-patient-expectations-fair-complaint]] -- reinforces: builds on the same fairness-expectation programme.
+- [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]] -- reinforces: defensive responses confirm the public's negative priors.
