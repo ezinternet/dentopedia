@@ -577,6 +577,7 @@ tags: []
 - [[periodontics/sharma-2014-endodontic-periodontal-microsurgery-for-combined]] — Sharma 2014 · narrative-review · 복합 endo-perio 병변 미세수술(근관 미세수술+골이식+차폐막+유두보존 1차폐쇄) (DOI 10.4103/0972-0707.144571)
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — Caton 2018 (2017 World Workshop, AAP/EFP): 현행 치주·임플란트주위 질환 분류 — 치주염 stage I-IV·grade A-C, 주위 건강/점막염/주위염 정의
 - [[periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct]] — Eliane Barboza 2014 (Implant Dent) · rct · 의도적 노출 d-PTFE 막이 임플란트 전 각화치은(KT) 폭 증가 — 시험군 +6.6~7.1mm vs 대조군 +1.4~2.5mm (60·90일); 막을 KT 증대 도구로 재해석
+- [[periodontics/mucogingival-surgery-apf-fgg-ctg]] — concept · 치주성형 술식 APF·FGG·CTG 구분과 적응증 — 각화치은 충분→APF / 폭 증대→FGG / 치근피개·심미→CTG; 인터랙티브 술식 추천기 연결
 - [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]] — Evidence-based hierarchy: non-surgical therapy primary, surgery adjunctive only; mandatory re-evaluation 4–6 weeks post-SRP before surgical consideration; SPT required indefinitely
 - [[periodontics/jo-2008-management-of-dental-biofilm-through]] — Professional oral health care demonstrably improves patient's plaque control ability; paradigm shift from passive cleaning to active capability enhancement; baseline assessment guides SPT frequency
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 지침(15개 SR): 1–3기 치주염 단계적 치료(행동변화→SRP±보조→수술→SPT); GRADE 기반 권고
