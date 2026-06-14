@@ -1026,6 +1026,7 @@ tags: []
 - [[overviews/food-impaction-proximal-contact-loss-overview]] — 식편압입·임플란트 PCL 종합 (9편 합성, 2026-06-08 신규 카테고리): 임플란트는 mesial drift 미추종 → 시간의존·mesial 우위 PCL이 inevitable·progressive; 통합 mesial 44.2% vs distal 27.5%(Sheba), >5년 29–83.3%(Abduo), 절반 19.2개월 내(Kim 2025); 예방보다 조기 감시·재형성, 고위험(기존 interproximal gap OR 2.7–3.3·인접치 치주상태·기능기간) 식별; prosthesis design RCT 공백
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
+- [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
 - [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — WHO 구강암 협력센터 OPMD 명칭·분류 국제 합의 — 잠재적 악성 장애 표준화.
 - [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — OPMD 위험인자부터 치료까지 개요 — 각 병소별 악성전환 위험도 및 치료 옵션 비교.
@@ -1945,31 +1946,31 @@ tags: []
 - [[overviews/complaint-management-pipeline-classification-expectation-response-education]] — **Overview**: 분류→기대→대응→교육 4단계 파이프라인 + 치과 적용층 (17편 종합, 2026)
 
 ### 분류 (Classification)
-- [[complaint-management/bmjqs-2013-002437]] — Systematic review of 59 studies (88,069 complaints) that synthesises 205 codes into a 7-category, 3-domain patient-complaint taxonomy. (2014) [sr]
-- [[complaint-management/bmjqs-2015-004596]] — Development and reliability study creating HCAT: 7 problem categories x 4 severity levels, plus stage-of-care and harm coding, validated on UK national complaint samples. (2016) [cross-sectional]
-- [[complaint-management/bmjopen-2019-033638]] — Reliability study coding 140 Danish emergency-care compensation claims with HCAT; high inter-assessor reliability but skewed domain coverage. (2019) [cross-sectional]
-- [[complaint-management/10.1177_13558196211029323]] — Retrospective linkage of 5 years of complaints and staff incident reports at a London hospital; overlapping cases (n=446) carried higher harm and revealed events staff missed. (2022) [retrospective]
+- [[complaint-management/reader-2014-patient-complaints-healthcare-taxonomy]] — Systematic review of 59 studies (88,069 complaints) that synthesises 205 codes into a 7-category, 3-domain patient-complaint taxonomy. (2014) [sr]
+- [[complaint-management/gillespie-2016-healthcare-complaints-analysis-tool]] — Development and reliability study creating HCAT: 7 problem categories x 4 severity levels, plus stage-of-care and harm coding, validated on UK national complaint samples. (2016) [cross-sectional]
+- [[complaint-management/bogh-2019-healthcare-complaints-analysis-tool]] — Reliability study coding 140 Danish emergency-care compensation claims with HCAT; high inter-assessor reliability but skewed domain coverage. (2019) [cross-sectional]
+- [[complaint-management/van-dael-2022-getting-whole-story-patient-complaints]] — Retrospective linkage of 5 years of complaints and staff incident reports at a London hospital; overlapping cases (n=446) carried higher harm and revealed events staff missed. (2022) [retrospective]
 
 ### 기대 (Expectations)
-- [[complaint-management/1472-6963-6-106]] — Survey of 424 hospital complainants showing the dominant goal is preventing recurrence; they prioritise impartial procedure, explanation over apology, and rarely seek money. (2006) [cross-sectional]
-- [[complaint-management/13104_2015_Article_1479]] — Paired surveys of 3,366 physicians and 1,422 public respondents revealing a large gap: the public expects complaint handling to go badly, physicians expect it to go well. (2015) [cross-sectional]
-- [[complaint-management/NOP2-5-224]] — Qualitative content analysis of patient complaints finding that poor communication, not being listened to, and disrespect dominate dissatisfying encounters. (2018) [cross-sectional]
+- [[complaint-management/friele-2006-patient-expectations-fair-complaint]] — Survey of 424 hospital complainants showing the dominant goal is preventing recurrence; they prioritise impartial procedure, explanation over apology, and rarely seek money. (2006) [cross-sectional]
+- [[complaint-management/friele-2015-complaint-handling-healthcare-expectation]] — Paired surveys of 3,366 physicians and 1,422 public respondents revealing a large gap: the public expects complaint handling to go badly, physicians expect it to go well. (2015) [cross-sectional]
+- [[complaint-management/skar-2018-patients-complaints-healthcare-communication]] — Qualitative content analysis of patient complaints finding that poor communication, not being listened to, and disrespect dominate dissatisfying encounters. (2018) [cross-sectional]
 
 ### 대응 (Response)
-- [[complaint-management/12913_2021_Article_6733]] — Discourse analysis of 59 NHS written complaint-responses showing they routinely use non-apologies ('fauxpology') and subjectivise grievances to evade responsibility. (2021) [cross-sectional]
-- [[complaint-management/pone.0325185]] — Mixed-methods study of UK hospital staff responding to online criticism, identifying six defensive tactics arising from contradictory work demands. (2025) [cross-sectional]
-- [[complaint-management/10.1177_2374373520967797]] — Mixed-methods project brief on radiation-oncology frontline managers, finding service recovery requires consistent measurement, feedback, and recurring leadership training. (2020) [cross-sectional]
-- [[complaint-management/medi-103-e37275]] — Observational study in Chinese grassroots hospitals showing a structured complaint-management system improved satisfaction and reduced complaints; satisfaction correlated with department and administrative office. (2024) [retrospective]
-- [[complaint-management/frhs-05-1610004]] — Case study of a Chinese tertiary-hospital service centre using an emotional-language analysis model of complaints to inform high-quality hospital development. (2025) [cross-sectional]
-- [[complaint-management/10.1177_01410768221098247]] — NHS Trust case study (20 staff interviews + documents) showing national complaint policies create muddled routes, validity-scrutiny, futile data collection, and adverse incentives that undermine improvement. (2022) [cross-sectional]
+- [[complaint-management/mccreaddie-2021-qualitative-study-nhs-complaint]] — Discourse analysis of 59 NHS written complaint-responses showing they routinely use non-apologies ('fauxpology') and subjectivise grievances to evade responsibility. (2021) [cross-sectional]
+- [[complaint-management/gillespie-2025-complaint-handlers-bind-defensive]] — Mixed-methods study of UK hospital staff responding to online criticism, identifying six defensive tactics arising from contradictory work demands. (2025) [cross-sectional]
+- [[complaint-management/washington-2020-addressing-service-recovery-radiation]] — Mixed-methods project brief on radiation-oncology frontline managers, finding service recovery requires consistent measurement, feedback, and recurring leadership training. (2020) [cross-sectional]
+- [[complaint-management/li-2024-complaint-management-patient-satisfaction]] — Observational study in Chinese grassroots hospitals showing a structured complaint-management system improved satisfaction and reduced complaints; satisfaction correlated with department and administrative office. (2024) [retrospective]
+- [[complaint-management/zheng-2025-hospital-complaint-handling-emotional]] — Case study of a Chinese tertiary-hospital service centre using an emotional-language analysis model of complaints to inform high-quality hospital development. (2025) [cross-sectional]
+- [[complaint-management/van-dael-2022-national-policies-complaint-handling]] — NHS Trust case study (20 staff interviews + documents) showing national complaint policies create muddled routes, validity-scrutiny, futile data collection, and adverse incentives that undermine improvement. (2022) [cross-sectional]
 
 ### 교육 (Education)
-- [[complaint-management/10.1177_23743735251342611]] — Program description of CODE (Compassion, Operational Support, De-escalation, Empowerment): a dual-track curriculum pairing procedural/operational training with interpersonal communication training for complaint staff. (2025) [narrative-review]
+- [[complaint-management/elias-2025-successful-handling-patient-complaints]] — Program description of CODE (Compassion, Operational Support, De-escalation, Empowerment): a dual-track curriculum pairing procedural/operational training with interpersonal communication training for complaint staff. (2025) [narrative-review]
 
 ### 치과 적용 (Dental Applied)
-- [[complaint-management/ADJ-63-285]] — National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr); 4% of dentists generate 49% of complaints; most concern treatment. (2018) [retrospective]
-- [[complaint-management/JISPCD-14-295]] — Analysis of 56 adjudicated Indian dental negligence cases (2018-2022) in consumer courts, classifying allegations by negligence severity and examining compensation and settlement delay. (2024) [retrospective]
-- [[complaint-management/10-1055-s-0039-1700767]] — Narrative review of clinical malpractice in endodontics, cataloguing pre-, intra-, and post-operative errors (perforation, ledging, hypochlorite accidents, instrument fracture, no rubber dam) and their legal ramifications. (2019) [narrative-review]
+- [[complaint-management/thomas-2018-complaints-about-dental-practitioners]] — National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr); 4% of dentists generate 49% of complaints; most concern treatment. (2018) [retrospective]
+- [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] — Analysis of 56 adjudicated Indian dental negligence cases (2018-2022) in consumer courts, classifying allegations by negligence severity and examining compensation and settlement delay. (2024) [retrospective]
+- [[complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics]] — Narrative review of clinical malpractice in endodontics, cataloguing pre-, intra-, and post-operative errors (perforation, ledging, hypochlorite accidents, instrument fracture, no rubber dam) and their legal ramifications. (2019) [narrative-review]
 - [[complaint-management/kwon-2017-analysis-of-the-legal-effect]] — Korean court precedents (n=287) on aesthetic-surgery disputes: only 26.5% of covenant-not-to-sue settlements held; effectiveness turns on agreement content, and fee-free reoperations are not credited by courts. (2017) [retrospective]
 - [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]] — 40 Korean plastic-surgery SSI malpractice precedents; 85% plaintiff-won; liability driven by failed culture/treatment, no referral, poor infection control, and missing preoperative infection consent. (2016) [retrospective]
 - [[complaint-management/taniguchi-2023-characteristics-and-trends-of-medical]] — All 13,340 closed Japanese malpractice claims (2006-2021): 52.9% settled, 35.3% judged (75.8% favoring physicians), declining trend (OB/GYN drop post-2009 no-fault scheme). (2023) [cross-sectional]
