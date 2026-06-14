@@ -979,7 +979,6 @@ tags: []
 - [[evidence-appraisal/shin-ih-2009-meta-analysis-critical-interpretation]] — 2009 대한간학회 추계학술대회 강의(한국어): MA 개념·전제·heterogeneity·publication bias 입문
 - [[evidence-appraisal/nam-2012-statistical-methods-medical-studies]] — JKMA 2012, 한국어 (연세의대 예방의학·의학통계): 검정 선택 flowchart — t-test/ANOVA/비모수/카이제곱/log-rank/회귀 (DOI 10.5124/jkma.2012.55.6.573)
 - [[evidence-appraisal/flechner-2011-pvalues-confidence-intervals-number-needed]] — Indian J Urol 2011, narrative tutorial: p-value, 95% CI, NNT 임상 시나리오 (DOI 10.4103/0970-1591.91446)
-- [[evidence-appraisal/singh-2026-research-statistically-significant-myth-truth]] — Editorial(JCDE 2026): 통계적 유의 ≠ 임상적 의의; 표본·검정력·변동성 고려, effect size·CI 중심 해석 (DOI 10.4103/JCDE.JCDE_504_26)
 - [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — IJERPH 2021, OA 튜토리얼: OR/RR/AR/NNT 4종 + OR-RR divergence rule (DOI 10.3390/ijerph18115669)
 - [[evidence-appraisal/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer]] — J Thorac Oncol 2011, biostatistics primer: HR, KM curve, proportional hazards 가정 위반 시 해석 무력화 (DOI 10.1097/JTO.0b013e31821b10ab)
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — Clin Kidney J 2024, narrative review: 10대 biostatistics 오류 정리 — p값·CI·HR 오해, subgroup 사냥, confounder vs mediator, immortal time bias 등 (DOI 10.1093/ckj/sfae197)
