@@ -1,20 +1,20 @@
 ---
 title: "Lateral-Window Maxillary Sinus Floor Elevation — Schneiderian Membrane Perforation Risk and Repair: 2026 Synthesis"
-authors: synthesis page (compiled by Claude from 34 wiki entries ingested 2026-05-20 and 2026-06-15)
+authors: synthesis page (compiled by Claude from 37 wiki entries ingested 2026-05-20, 2026-06-15, and 2026-06-16)
 year: 2026
-date: 2026-06-15
+date: 2026-06-16
 category: overviews
 confidence: synthesis
 source_collection: internal
-tags: [overview, sinus-lift, lateral-window, schneiderian-membrane, perforation, prf, cbct, septa, sinusitis, smoking, psaa, osteomeatal-complex, rrh, mucosal-thickness, sinusitis-prevention]
+tags: [overview, sinus-lift, lateral-window, schneiderian-membrane, perforation, prf, cbct, septa, sinusitis, smoking, psaa, osteomeatal-complex, rrh, mucosal-thickness, sinusitis-prevention, graft-material, dbbm, bcp, l-prf, a-prf, histomorphometry]
 source: synthesis
 ---
 
 ## 한줄요약
-측방창 (Lateral Window) 상악동거상술 (Sinus Floor Elevation, SFE)에서 슈나이더 막 (Schneiderian Membrane) 천공 (Sinus Membrane Perforation, SMP)과 부비동염 (Sinusitis) 예방·관리를 다룬 34편의 신규 페이지를 (1) 천공 수복, (2) 해부학적·행동학적 위험 예측, (3) 술식·타이밍 변형, (4) 부비동염 예방·관리로 묶어 정리한 종합 페이지.
+측방창 (Lateral Window) 상악동거상술 (Sinus Floor Elevation, SFE)에서 슈나이더 막 (Schneiderian Membrane) 천공 (Sinus Membrane Perforation, SMP)과 부비동염 (Sinusitis) 예방·관리를 다룬 34편에 이식재 선택 및 PRF (Platelet-Rich Fibrin) 보조 근거 3편을 추가해 총 37편으로 확장한 종합 페이지 — L-PRF·A-PRF 보조 시 신생골 +7~11% 유의 증가, BCP가 DBBM 대비 신생골 형성 우수.
 
 ## Scope
-This overview synthesizes 34 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15). The cluster centers on the lateral-window approach to maxillary SFE and four converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, and how do we prevent and manage postoperative sinusitis.
+This overview synthesizes 37 wiki pages under `wiki/sinus-lift/lateral/` (20 from 2026-05-20, 14 added 2026-06-15, 3 added 2026-06-16). The cluster centers on the lateral-window approach to maxillary SFE and five converging questions: how often does the Schneiderian membrane tear, what predicts a tear before the bur touches the lateral wall, what repair makes the tear clinically inconsequential, how do we prevent and manage postoperative sinusitis, and which graft material and adjuncts optimize histomorphometric outcomes.
 
 ## Cluster 1 — Repair of Schneiderian membrane perforations
 
@@ -113,6 +113,44 @@ Rocha 2023 (detailed in Cluster 3) provides the key numbers: lateral-window SFE 
 
 **Synthesis [claude해석]:** the sinusitis prevention chain has three links: (1) **screen** for preoperative chronic sinusitis — it is the dominant modifiable systemic risk, outranking even membrane perforation in Kozuma's model; (2) **stratify ENT anatomy** — OMC variations (Gulbey 2026), Haller cells, concha bullosa, and septal deviation require a structured ENT consultation pathway; (3) **counsel on technique** — lateral window carries 1.35% sinusitis risk, transcrestal effectively zero; technique choice should incorporate the patient's baseline sinus health and anatomy when both approaches are feasible.
 
+## Cluster 5 — Graft material selection and PRF adjunct (이식재 선택·PRF 보조)
+
+This cluster addresses what goes *inside* the augmented sinus: graft material choice (DBBM vs BCP) and the biological adjunct value of PRF (platelet-rich fibrin).
+
+### PRF adjunct to DBBM: histomorphometric benefit is real
+
+Two studies converge on a consistent direction of effect for PRF combined with DBBM:
+
+- **Almutairi 2025 SR+MA (L-PRF+DBBM, 5 RCTs, n=140).** The highest-evidence synthesis specifically for L-PRF adjunction in sinus augmentation. L-PRF+DBBM produced significantly more new bone (MD **+7.07%**, 95% CI 2.20–11.93, p<0.001, I²=37%) and significantly less residual graft (MD **−7.93%**, 95% CI −11.20 to −4.66, p<0.001, I²=0%). ISQ at loading was not significantly different (MD −2.25, p=0.56). The zero heterogeneity for the residual graft outcome is exceptional — DBBM's slow incorporation is reliably mitigated by L-PRF across all 5 included RCTs.
+- **Motimath 2026 split-mouth RCT (A-PRF+DBBM, n=30, 60 sinuses, 9 months).** A-PRF prepared at the low-speed centrifugation protocol (2700 rpm/12 min) combined with i-PRF yielded **42.8% vs 31.2%** new bone (p=0.001) and **28.4% vs 41.6%** residual graft (p=0.001) vs DBBM alone. Bone density (HU), graft height stability, and postoperative morbidity all favored A-PRF. Implant survival was 100% in both groups.
+
+The magnitude of new bone benefit is consistent across PRF generations (L-PRF MD +7.07% by Almutairi 2025; A-PRF absolute difference +11.6% by Motimath 2026), and the residual graft reduction is equally consistent (L-PRF −7.93%; A-PRF −13.2%). Despite histomorphometric superiority, **neither study found ISQ benefit at implant loading** — functional osseointegration as measured by ISQ does not appear to accelerate even when the graft bed histology improves.
+
+### BCP vs DBBM: synthetic bone can match or exceed xenograft in new bone formation
+
+- **Alkandari 2025 SR+MA (BCP vs DBBM, 10 RCTs, n=328, 389 implants).** BCP (typically 60% HA + 40% β-TCP) showed significantly greater new bone formation than DBBM (MD **+3.48%**, 95% CI 0.89–5.97, p=0.01, I²=44%), significantly less residual graft (MD **−8.41%**, 95% CI −13.12 to −3.72, p<0.001, I²=86%), and higher soft tissue fraction (MD +6.01%, p<0.001, I²=72%). High heterogeneity for residual graft and soft tissue reflects differing BCP formulations (HA:TCP ratios) across included RCTs. Critically, **no implant survival data** are reported — this SR+MA addresses histomorphometry only.
+
+The BCP advantage over DBBM in new bone formation is mechanistically explained by the TCP component's ion-release osteostimulatory effect vs DBBM's near-permanent osteoconductive scaffold. DBBM's near-permanence was historically valued for volume stability; BCP resorbs more completely (lower residual graft), creating space that new bone actively occupies.
+
+### Synthesis [claude해석]
+
+PRF (both L-PRF and A-PRF) reliably improves histomorphometric new bone formation when added to DBBM, with consistent effect across SR+MA and split-mouth RCT levels of evidence. The benefit is biologically real but does not translate to ISQ advantage at the time of loading. BCP outperforms DBBM in new bone formation and resorbability, but the clinical bottom line on implant survival requires a separate evidence base. For clinicians choosing between graft materials: BCP is a credible synthetic alternative to DBBM when maximizing histomorphometric new bone is the goal; PRF adjunction is a low-cost enhancement that consistently boosts new bone formation regardless of which xenograft base is used.
+
+## 핵심 명제 (Core Propositions)
+
+1. **Repaired SMP is not a contraindication to implant placement.** Soares 2024 (130 studies) and Sala 2024 (29 studies, 6,860 implants) independently find implant loss after repaired SMP is statistically indistinguishable from intact-membrane controls (loss ~4%, OR 1.35 NS).
+2. **Septa are the dominant anatomical risk for SMP.** Henriques 2022: 33% of sinuses harbor septa; Yang 2024: OR 4.03 for perforation; Nemati 2023: HR 8.07 in multivariate model.
+3. **Mucous retention cysts are the single strongest SMP predictor.** Nemati 2023: HR 27.75 — exceeds septa (8.07) and smoking (25.0) in the same multivariate model.
+4. **Smoking is the dominant modifiable risk.** Wang 2023 SR+MA: OR 1.58, low heterogeneity (I²=5%), no publication bias — the most reliable modifiable-risk estimate available.
+5. **PRF reliably improves histomorphometric new bone formation in DBBM-augmented sinuses.** Almutairi 2025 SR+MA (MD +7.07%, I²=37%); Motimath 2026 split-mouth RCT (+11.6% absolute). ISQ at loading is not different, so earlier loading cannot be justified on ISQ alone.
+6. **PRF reduces residual graft fraction with striking consistency.** Almutairi 2025: MD −7.93% with I²=0% — zero heterogeneity across 5 RCTs is an unusually strong signal.
+7. **BCP produces more new bone and resorbs more completely than DBBM.** Alkandari 2025 SR+MA (10 RCTs): new bone MD +3.48% (p=0.01), residual graft MD −8.41% (p<0.001). No implant survival data available from this SR+MA.
+8. **Thickened sinus mucosa (<10 mm) is not a contraindication.** Khiabani 2024: membrane normalizes to 3.4 mm at 6 months post-LSFE with zero rhinosinusitis; anticipate greater intraoperative bleeding and resistance.
+9. **Preoperative chronic sinusitis outranks membrane perforation as an infection-prevention priority.** Kozuma 2017: ALL 8 complicated cases (6.6%) in a 121-sinus cohort occurred in the chronic-sinusitis-positive subset.
+10. **Low RRH independently amplifies perforation risk.** Ye 2025 SR+MA: OR 4.68 after outlier removal; pooled SMP rate 19.2%; each mm of residual height lost correlates with −0.89 mm in mean perforated-group RRH.
+11. **OMC anatomy is a systemic risk variable for postoperative sinusitis.** Gulbey 2026: UPSA types 3/4/6 and Haller cells correlate significantly with sinus mucosal thickening and ostium obstruction — extend CBCT reads to OMC before sinus lift.
+12. **Rotary bur carries the highest SMP risk within lateral-window procedures.** Lee 2023 NMA: SUCRA 0.0745; each 10% SMP increase reduces implant survival OR by 55%.
+
 ## Decision threads for our clinic [claude해석]
 
 These are working hypotheses from the synthesis, not protocol.
@@ -126,6 +164,8 @@ These are working hypotheses from the synthesis, not protocol.
 7. **Reframe SMP for the patient and team.** Repaired SMP has 4% implant loss (Soares 2024); OR 1.35, NS (Sala 2024). The procedure should not be aborted for a competently repaired tear. Post-operative transient MSO narrowing (19.4% at 1 week) is expected physiology, not sinusitis (Sakuma 2020).
 8. **For atrophic posterior maxilla with RBH 2–4 mm and a clean sinus**, lateral and crestal converge at 3 years on resorption — RBH and operator experience drive the choice, not long-term graft stability (Park 2023). Transcrestal carries effectively zero sinusitis risk in pooled data (Rocha 2023), which is a tie-breaker when the patient has borderline sinus health.
 9. **Pneumatization is not the main driver of post-extraction height loss** (Schriber 2019). When counseling for ARP timing, frame the issue as alveolar crest collapse, not sinus expansion.
+10. **Add PRF to DBBM for histomorphometric benefit without additional cost risk.** L-PRF or A-PRF adjunction reliably adds ~7–12% new bone formation and reduces residual graft material (Almutairi 2025; Motimath 2026). ISQ equivalence means earlier loading is not justified, but better histomorphometry at re-entry biopsy is a consistent finding. PRF preparation adds ~15 minutes chairside.
+11. **Consider BCP as a synthetic alternative to DBBM when maximizing new bone formation.** Alkandari 2025 SR+MA shows BCP outperforms DBBM histomorphometrically (MD +3.48% new bone, MD −8.41% residual graft). No implant survival superiority has been demonstrated — choose BCP for histomorphometry, not for survival advantage. High HA:TCP ratio variability across BCP formulations means product selection matters.
 
 ## Related Papers
 
@@ -170,3 +210,8 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — preop chronic sinusitis → #1 risk for infection + implant loss
 - [[sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct]] — transient MSO narrowing post-LSFE; 19.4% infundibulum occlusion at 1 week, resolves by 9 months, zero sinusitis
 - [[sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk]] — fluticasone + LTRA + antibiotics protocol for Pignataro reversible-contraindication patients
+
+**Cluster 5 — Graft material selection and PRF adjunct**
+- [[sinus-lift/lateral/almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma]] — SR+MA of 5 RCTs (n=140): L-PRF+DBBM → new bone MD +7.07% (p<0.001), residual graft MD −7.93% (I²=0%), ISQ NS
+- [[sinus-lift/lateral/alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma]] — SR+MA of 10 RCTs (n=328): BCP vs DBBM → new bone MD +3.48% (p=0.01), residual graft MD −8.41% (p<0.001)
+- [[sinus-lift/lateral/motimath-2026-xenograft-prf-sinus-histomorphometric]] — split-mouth RCT (n=30): A-PRF+DBBM → 42.8% vs 31.2% new bone (p=0.001), 100% survival both groups
