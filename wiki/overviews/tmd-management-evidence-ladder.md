@@ -2,7 +2,7 @@
 title: "TMD/TMJ 관리 — 진단·보존·중재 종합 ladder"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-05-26
+date: 2026-06-15
 doi: N/A
 source: N/A
 category: overviews
@@ -10,18 +10,18 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd]
+tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd, unilateral-chewing, condyle-morphology, tinnitus, fea, chewing-side-preference]
 ---
 
 ## 한줄요약
 
-TMD 관리 SR+MA·가이드라인 27편 통합(2026-06 업데이트). BMJ NMA 2023 (233 RCT, 59 개입): CBT+운동·하악 가동화 최우수 → 약물 낮은 근거 → arthrocentesis 보존 실패 시. 근육형 TMD 특화·QoL 정량화·MAD/VD 축 신설.
+TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편 통합(2026-06-15 업데이트). BMJ NMA 2023 (233 RCT, 59 개입): CBT+운동·하악 가동화 최우수 → 약물 낮은 근거 → arthrocentesis 보존 실패 시. 근육형 TMD 특화·QoL 정량화·MAD/VD 축 신설. 편측저작 → 과두 위치·형태 변화·이명(동측) 상관 5편 추가(축 10).
 
 ## Summary
 
-본 페이지는 wiki/tmj/ 27편을 9축으로 정리: ①역학·진단, ②비약물 보존(운동·스플린트), ③약물 치료, ④만성 통증 NMA (BMJ 2023), ⑤중재(arthrocentesis), ⑥이갈이, ⑦BTX·대안(별도 overview 연결), ⑧TMJ 골관절염, ⑨삶의 질·MAD/VD 특수 주제.
+본 페이지는 wiki/tmj/ 32편을 10축으로 정리: ①역학·진단, ②비약물 보존(운동·스플린트), ③약물 치료, ④만성 통증 NMA (BMJ 2023), ⑤중재(arthrocentesis), ⑥이갈이, ⑦BTX·대안(별도 overview 연결), ⑧TMJ 골관절염, ⑨삶의 질·MAD/VD 특수 주제, ⑩편측저작·과두 형태 변화·이명.
 
-핵심 명제 11개:
+핵심 명제 14개:
 1. **TMD pooled 유병률 31%; 여성·청년 우세; 비생물학적 요인(심리·사회) 중요** — Valesan 2021, Kapos 2020 (OPPERA). [근거강함]
 2. **만성 TMD 최고 근거 치료: CBT+바이오피드백(RD 36%), 하악 가동화(36%), 수기 트리거포인트(32%)** — Yao 2023 NMA (233 RCT, BMJ). [근거강함]
 3. **BMJ 2023 Rapid Recommendation: 보존적·비약물 1차; 스플린트 conditional; 침습 제한적** — BMJ 2023 guideline. [근거강함]
@@ -33,6 +33,9 @@ TMD 관리 SR+MA·가이드라인 27편 통합(2026-06 업데이트). BMJ NMA 20
 9. **TMJ 골관절염 — CT gold standard; 보존 우선; 피질골 연속성(미란·낭종)이 편평화보다 진단적** — Song 2023, Kim 2023 (KDA). [합의수준]
 10. **TMD 환자 모든 그룹에서 QoL 크게 저하; 근육형·관절통형이 디스크변위형보다 심각** — Pigozzi 2021 SR+MA (n=3,829). [합의수준]
 11. **OVD 증가는 교합 상실보다 TMJ 연골 손상 빠르고 심각; 새 구치부 수복 후 TMJ 증상 모니터링 필요** — Wang 2024 (동물), Zhang 2024 CBCT (임상 1y; TMJ 유의 변화 없음). [합의수준]
+12. **습관적 편측저작측이 TMD 통증측과 일치(Kappa=0.767); 통증측에서 과로각 더 가파르고(50.5° vs 45.5°) 측방유도각 더 평평** — Santana-Mora 2021 (n=24, 교합치료 이력 없는 정상교합). [합의수준]
+13. **TMD 환자의 이명은 편측저작 선호와 유의하게 연관(90.7% vs 76.0%); 이명 발생측이 습관적 저작측과 일치(동측성)** — Ma 2025 (n=285). [합의수준]
+14. **하악 편위(facial asymmetry) 환자가 편측 대구치 교합 시 TMJ 응력 최고 — 전돌/후퇴보다 위험도 높음; 비편위측 저작이 응력을 더 올림** — Zheng 2025 FEA (n=35 patient models). [참고수준 — FEA, 소규모]
 
 ## Results
 
@@ -178,10 +181,59 @@ TMD 관리 SR+MA·가이드라인 27편 통합(2026-06 업데이트). BMJ NMA 20
 - **MAD (수면무호흡 장치)**: 과두 전방 이동 → 상기도 확장; 관절 융기 형태 개별화 평가 필요
 - **CR-MIP 불일치**: 수직성장형 골격에서 더 주의
 
+### 축 10 — 편측저작 · 과두 형태 변화 · 이명 (Unilateral Chewing, Condyle Morphology, Tinnitus)
+
+편측저작 선호(chewing-side preference, CSP)는 단순한 습관이 아니라 TMJ 구조 변화·과두 위치 비대칭·이명과 연계되는 **기계적-신경적 위험 축**이다. 아래 5편은 역학(단면연구) → 동물 실험(형태 변화) → 인체 CBCT(위치 비대칭) → FEA(응력 분포)의 다층 근거를 구성한다.
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[tmj/santana-mora-2021-asymmetry-chewing-chronic-tmd]] | cross-sectional (n=24) | 습관저작측 = TMD 통증측 (Kappa=0.767); 통증측 과로각 +5° (50.5° vs 45.5°, P=0.002); 측방유도각 −9° (38.0° vs 47.5°, P<0.001); 위험비 4.5 |
+| [[tmj/ma-2022-condyle-position-chewing-side-preference-cbct]] | cross-sectional CBCT (n=110) | CSP 없는 TMD: 후방 과두 57.1% vs 무증상 30.0% (p<0.05); CSP 있는 TMD: 후방 과두 53.6% (trend, p=0.054); 후방 과두는 신뢰할 수 있는 TMD 지표가 아님 |
+| [[tmj/ma-2025-tmd-tinnitus-chewing-side-preference-correlation]] | cross-sectional (n=285 TMD) | 이명 동반 TMD에서 CSP 유병률 90.7% vs 비-이명군 76.0% (χ²=4.613, P<0.05); 이명측=저작측 동측성(χ²=7.282, P<0.05); 이명과 관절통(93.0% vs 73.6%) 상관; 관절잡음·개구제한·원판변위 유형과 무관 |
+| [[tmj/decarli-2023-mandibular-condyle-unilateral-masticatory-function]] | animal (micro-CT, n=56 rats) | 성장기 rat에서 편측 저작 기능 감소 시 과두 단면적(cross-sectional surface) 증가 실패(길이·폭은 정상 성장); 성인 과두는 영향 없음; 과부하측·저부하측 차이 없음 |
+| [[tmj/zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea]] | in-vitro FEA (n=35 patient models) | 하악 편위(facial asymmetry)가 전돌·후퇴보다 TMJ 응력 최고; 편위 환자의 비편위측 저작이 응력 추가 상승; 양측 또는 편위측 저작 권장 |
+
+**기제 (working model)**:
+
+편측저작 선호 → 습관적 과부하측 TMJ 누적 기계적 자극 → ①과두 형태 remodeling (과로각 ↑, 단면적 변화 — De Carli 2023 rat / Santana-Mora 2021 human CP 측정) + ②과두 위치 비대칭 (Ma 2022 CBCT; 단 후방 과두 단독으로 TMD 진단 불충분) + ③이도(耳道) 근방 auriculotemporal nerve/petrotympanic fissure 자극 경로 → 이명 (Ma 2025; 이명측 = 저작측 동측성). 하악 편위 환자에서 편측 대구치 교합 시 이 부하 비대칭이 구조적으로 증폭됨 (Zheng 2025 FEA).
+
+**임상 함의 — 편측저작 축**:
+
+1. **습관저작측 확인 루틴화**: 2분 껌 씹기 + 문진으로 CSP 판별. TMD 초진 시 어느 측인지 기록 — 축 1 역학 스크리닝과 통합.
+2. **편측저작 교정을 보존 치료에 포함**: Santana-Mora 2021의 위험비 4.5; CSP 교정(의식적 양측 저작 훈련, 부드러운 식이로 대칭 저작 유도)을 축 2 자가관리 항목에 추가.
+3. **설명불명 이명 + TMD 환자**: Ma 2025 — 이명 동반 시 CSP 유병률이 유의하게 높고 동측성. 이비인후과 의뢰 후 설명되지 않는 이명에서 TMD-편측저작 복합을 고려.
+4. **하악 편위 환자 저작 상담 (Zheng 2025 FEA)**: 비편위측 단독 저작 피하도록 지도; 양측 또는 편위측 저작이 TMJ 응력 낮춤. (FEA 소규모·초록 기반 한계 있음 — 방향적 권고)
+5. **후방 과두 위치 단독 TMD 진단 주의**: Ma 2022 — CSP 있는 TMD에서 후방 과두는 통계적으로 유의한 지표가 아님(p=0.054 trend만). 과두 위치는 보조 정보, 단독 판단 금지.
+6. **연령 의존성 (De Carli 2023 rat)**: 성장기에 편측 교합 기능 저하 시 과두 단면적 발달 장애. 소아·청소년기 편측저작 교정이 성인보다 과두 발달 면에서 중요할 수 있음.
+
+**근거 한계**:
+- Santana-Mora 2021 n=24 소규모; Ma 2022·2025 단면연구(인과 불명); De Carli 2023 동물 실험(인체 외삽 제한); Zheng 2025 FEA 초록 기반·소규모 하위군(편위 n=9). 모두 [합의수준] 이하.
+- 이명 기제(auriculotemporal nerve 압박, petrotympanic fissure 경유 염증, 신경혈관 변화)는 가설적 — 인과 확인 없음.
+
+## Decision threads
+
+### Thread A — 보존 치료 단계 (모든 TMD)
+**문제**: 보존 vs 침습 시점? → **BMJ 2023** (비약물 1차) + Yao 2023 NMA (CBT/운동 최고 근거) → 스플린트 conditional → 4–6주 재평가 → 비반응 시만 약물/arthrocentesis.
+
+### Thread B — 교합 중재 의사결정
+**문제**: 교합조정·스플린트·교합거상 처방? → **Singh 2024 Cochrane** (교합조정 미지지) + **Wang 2024 rat** (OVD 거상 주의) + Zhang 2024 CBCT (단기 소폭 VD 증가는 허용 가능) → 비가역 치료 최후.
+
+### Thread C — TMJ 골관절염 vs 기능성 TMD
+**문제**: OA 진단 시 영상은? → Song 2023 (CT gold standard, 파노라마 불충분) → 미란·낭종 확인 → Kim 2023 ladder 적용.
+
+### Thread D — 편측저작 / 이명 / 안면 비대칭 복합
+**문제**: 편측 TMD 통증 + 설명불명 이명? → **Ma 2025** (CSP-이명 연관, 동측성 확인) + **Santana-Mora 2021** (저작측=통증측, 위험비 4.5) → CSP 교정을 보존 치료에 통합.
+**문제**: 하악 편위 환자 TMD 예방? → **Zheng 2025 FEA** (편위 = 최고 TMJ 응력) → 비편위측 단독 저작 피하도록 상담. (FEA 한계 인지)
+**문제**: 후방 과두 CBCT 소견으로 TMD 진단? → **Ma 2022** (후방 과두는 신뢰할 만한 TMD 지표 아님) → 단독 판단 금지.
+
+### Thread E — QoL 및 다영역 평가
+**문제**: 치료 성과 측정 도구? → Pigozzi 2021 (QoL 지표 통합 필수; 근육형·관절통형이 더 심각) → VAS+QoL 병용.
+
 ## Phase 2 확장 후보 (Stub)
 
 - [ ] `wiki/overviews/tmd-imaging-mri-cbct.md` — MRI/CBCT 진단 정확도 (Song 2023 CT gold-standard 데이터가 seed).
 - [ ] `wiki/overviews/tmd-pharmacotherapy.md` — NSAID·근이완제·항우울제 비교.
+- [ ] `wiki/overviews/unilateral-chewing-condyle-overview.md` — 편측저작 → 과두형태·이명 단독 synthesis (축 10 논문 + Zheng 2023 review seed).
 
 ## Related overviews
 
@@ -189,7 +241,7 @@ TMD 관리 SR+MA·가이드라인 27편 통합(2026-06 업데이트). BMJ NMA 20
 - [[overviews/oral-surgery-decision-ladder]] — 외과적 단계
 - [[overviews/drug-clinical-decision-ladder]] — TMD 약물
 
-확신도 등급 (2026-06 업데이트):
+확신도 등급 (2026-06-15 업데이트):
 - 축 1 역학·진단 = [근거강함] (SR+MA + OPPERA 코호트)
 - 축 2 비약물 보존 = [근거강함] (BMJ/Cochrane + 3 SRs)
 - 축 3 약물 = [합의수준] (GRADE 낮음; Häggman-Henrikson NMA)
@@ -199,3 +251,12 @@ TMD 관리 SR+MA·가이드라인 27편 통합(2026-06 업데이트). BMJ NMA 20
 - 축 7 BTX = [합의수준] (혼재)
 - 축 8 TMJ 골관절염 = [합의수준] (KDA narrative 2편)
 - 축 9 QoL·MAD/VD = [합의수준] (QoL: SR+MA; VD: 동물 + 소규모 임상)
+- 축 10 편측저작·과두·이명 = [합의수준-하] (단면연구 + 동물 + FEA; 소규모; 인과 미확인)
+
+## Wikilinks — 신규 5편
+
+- [[tmj/ma-2025-tmd-tinnitus-chewing-side-preference-correlation]]
+- [[tmj/decarli-2023-mandibular-condyle-unilateral-masticatory-function]]
+- [[tmj/santana-mora-2021-asymmetry-chewing-chronic-tmd]]
+- [[tmj/ma-2022-condyle-position-chewing-side-preference-cbct]]
+- [[tmj/zheng-2025-tmj-stress-mandibular-deformities-unilateral-occlusion-fea]]
