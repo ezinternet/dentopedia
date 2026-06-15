@@ -107,7 +107,7 @@ tags: []
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — 증례보고: UV 광기능화 임플란트(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1-4주 내 조기부하 성공
 - [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] — In vitro: hand vs machine SmartPeg tightening (2–11 vs 2–6 Ncm) → ISQ equivalent (p=0.343/0.890); manual placement clinically reliable
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — Retrospective (41 implants): fresh socket ISQ 57.6 vs healed 72.9 at placement (p<0.001); converge at 4mo; ITV ≥35 Ncm better than ISQ for fresh socket loading decision
-- [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — Retrospective multivariate (745 Neoss, 5yr CSR 97.3%): ISQ <70 at placement = significant failure predictor; ISQ <75 also significant risk threshold
+- [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — Retrospective, UNIVARIATE (745 Neoss, 334 patients, 5yr CSR 97.3%): chi-square/Fisher + UNADJUSTED OR (no multivariable model; implant-within-patient clustering unmodelled). Low ISQ (<70/<75) at placement = higher failure; only full-arch rehab + low ISQ significant for survival
 - [[implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year]] — Prospective (48 Neoss ProActive Tapered): IT>40 Ncm in 96%; 6–8wk loading; ISQ stable (no dip); MBL −0.47mm; 100% survival at 1yr
 - [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]] — In vivo split-mouth (30 pairs): tapered > cylindrical ISQ at all timepoints; lower pain VAS; better peri-implant health; 100% survival both groups
 - [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] — In vitro PU foam (4 densities): diameter > length for ISQ; tapered (TE) macro-design > parallel in all bone densities; adapt drilling to bone quality
@@ -125,7 +125,7 @@ tags: []
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): Osstell ISQ vs Periotest 직접 비교; 상관 -0.64; ICC ISQ 0.99 vs Periotest 0.88 — Osstell이 더 정밀; 직경 유의, 길이 무관
 - [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 공학·인비트로 2-DOF 모델+FEA: 5–15 kHz 입력 → 공진주파수·미세변위 추출; 전자기 RFA의 이론적 기반 검증
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR (Cureus 2023, PubMed/Scopus/EMBASE/Cochrane, 검색 Jan 2013–Dec 2022): 다수 연구에서 골밀도화(OD) 드릴링이 기존 방식 대비 ISQ·골밀도 유의하게 높음; 단, 포함 RCT들의 비뚤림위험(RoB 2) 전반적으로 높아 강한 결론 주의 요망.
-- [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — 후향적 다변량 분석(745 Neoss 임플란트, 5년 CSR 97.3%): 식립 시 ISQ<70이 통계적으로 유의한 실패 예측인자; ISQ<75도 유의한 위험 임계치
+- [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — 후향적 단변량 분석(745 Neoss, 334명, 5년 CSR 97.3%): 카이제곱·Fisher + 비보정 OR(다변량 모델·환자내 군집 보정 없음). 식립 시 ISQ<70/<75 → 실패↑; 생존에는 full-arch 보철과 낮은 ISQ만 유의
 - [[implants/isq/andreatta-2020-simplified-loading-protocol-neoss-1year]] — 전향적 연구(48 Neoss ProActive 테이퍼 임플란트): IT>40Ncm 96%에서 달성; 6–8주 조기 부하; ISQ 안정적 유지(dip 없음); MBL −0.47mm; 0 실패
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — 후향적 연구(41 임플란트): 신선 발치와 초기 ISQ 57.6 vs 치유골 72.9(p<0.001); 4개월에 수렴; 발치와 즉시 부하 결정은 ITV(≥35Ncm) 우선, ISQ 단독 기준 불충분
 - [[implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison]] — 전향적 연구(50명, 80 임플란트): Osstell ISQ vs Osseo 100 기기 동등(r>0.95); ISQ 시간에 따라 점진 상승; D1-D2 군이 D3-D4보다 모든 시점에서 유의하게 높은 ISQ
@@ -983,6 +983,7 @@ tags: []
 - [[evidence-appraisal/monaghan-2021-odds-ratios-relative-risk-absolute]] — IJERPH 2021, OA 튜토리얼: OR/RR/AR/NNT 4종 + OR-RR divergence rule (DOI 10.3390/ijerph18115669)
 - [[evidence-appraisal/barraclough-2011-hazard-ratios-clinicians-biostatistics-primer]] — J Thorac Oncol 2011, biostatistics primer: HR, KM curve, proportional hazards 가정 위반 시 해석 무력화 (DOI 10.1097/JTO.0b013e31821b10ab)
 - [[evidence-appraisal/darrigo-2024-common-mistakes-biostatistics]] — Clin Kidney J 2024, narrative review: 10대 biostatistics 오류 정리 — p값·CI·HR 오해, subgroup 사냥, confounder vs mediator, immortal time bias 등 (DOI 10.1093/ckj/sfae197)
+- [[evidence-appraisal/isq-survival-andersson-vs-roccuzzo-clustering-appraisal]] — appraisal · 임플란트 생존 코호트 통계 4단 렌즈 + andersson 2019(군집 무시·비보정 OR, 못한 예) vs roccuzzo 2022(다수준 로지스틱, 잘한 예) 대조; 두 논문 모두 대표 OR의 CI가 두 자릿수 횡단
 - [[evidence-appraisal/anonymous-nd-systematic-review-critical-appraisal-worksheet]] — 4쪽 SR 비판적 평가 worksheet (CASP/PHRU 양식 추정, 익명·날짜 미상; 학습용으로만 사용, 인용 불가)
 - [[overviews/statistical-abbreviations-cheatsheet]] — 통계 약자 치트시트 (synthesis, 2026-05-23): descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set 9개 카테고리 + 5대 오용 패턴 (OR↔RR, p<0.05=임상유의, CI 폭, SD↔SE, ITT↔PP)
 - [[evidence-appraisal/choi-2015-statistical-validity-insadol-clinical-effectiveness]] — 고려대·Mayo Clinic 비판분석 (대한치과의사협회지 2015, 53권 7호): 인사돌 (옥수수 불검화 정량추출물, Zea mays L. unsaponifiable) 임상효능 근거 4건 시험 (1982·1988·1991·1994) — 무작위배정 실패·표본수 근거 부재·부적절 통계검정·맹검 불명확 등 통계적 타당성 결여; 1994 이후 20년 추가 시험 부재 — Insadol 마케팅 근거 비판
@@ -1552,6 +1553,12 @@ tags: []
 - [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] — Rahaf A. Almohareb 2023 · in-vitro · Cyclic fatigue (n=60) — EdgeTaper Platinum > PTG ≈ TruNatomy; only ETP strengthened by 1/10 autoclave cycles
 - [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] — Taha Özyürek 2017 · in-vitro · ProTaper Universal/Next/Gold cyclic fatigue (n=240) — PTG > PTU+PTN baseline; 10× pre-autoclave raises NCF for PTN and PTG
 - [[endodontics/shaping/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue]] — Wafaa A. Khalil 2019 · in-vitro · EdgeEvolve vs PTG — EdgeEvolve superior fatigue/flexibility/surface smoothness in single and double curvature; equivalent Ni/Ti content
+
+### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
+
+- [[endodontics/visit-protocol/wong-2015-single-visit-multiple-visit-endodontic-rct]] — Wong 2015 · rct · n=220 teeth, 29개월 추적 — 단일방문 vs 다중방문 성공률 동등(88.9% vs 87.4%); 단일방문 시술시간 유의 단축(62 vs 93분); 예후인자: 상악 위치·술전 근단 치주염 부재
+- [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]] — Mergoni 2022 · sr+ma · Cochrane pub4, 47 RCTs, n=5,805 — 방사선학적 실패 동등(RR 0.93, moderate); 단일방문 1주 내 통증 소폭 증가(RR 1.55); 생활치 subgroup 통증 위험 더 높음(RR 2.16)
+- [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]] — Schwendicke 2017 · sr+ma · SR+MA+TSA, BMJ Open — 장기 합병증·통증 동등(RR 1.00/0.99); flare-up RR 2.13(TSA 미충족, 결론 유보); 근관내 medication nullifier
 
 ### implants/surface (added 2026-05-28, batch f)
 
