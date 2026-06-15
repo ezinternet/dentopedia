@@ -2138,3 +2138,9 @@ tags: []
 - [[dental-materials/koenig-2021-ltd-monolithic-zirconia-prospective]] — Koenig 2021 prospective: first clinical LTD documentation in 3Y-TZP prostheses — begins at 6 months, glaze does not protect; Dental Materials [prospective]
 - [[dental-materials/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — Koenig 2024 prospective 5yr: LTD continues at 5 years; grain pull-out → nanoparticle release concern; extends Koenig 2021; Dental Materials [prospective]
 - [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — Alqarawi 2022 narrative review: intraoral ceramic fracture repair — sandblasting + silane + composite resin; F1000Research [narrative-review]
+
+### overviews — bone-regeneration + dental-materials (added 2026-06-16)
+- [[overviews/zirconia-material-clinical-overview]] — 치과용 지르코니아 세대분류(3Y→5Y TZP)·LTD·CAD/CAM 결함·생존율·파절수리 종합 (9편 신규)
+- [[overviews/gbr-barrier-membrane-overview]] — GBR 차폐막 분류·가교화 전략·PASS 원칙·차세대 programmable membrane 종합 (7편 신규)
+- [[overviews/socket-preservation-arp-overview]] — 발치와 보존술(ARP) 소켓 분류·bundle bone 기전·이식재 선택·PRF·임플란트 충분성 종합 (8편 신규)
+- [[overviews/dbbm-bone-substitute-overview]] — DBBM·골대체재 흡수특성·BCP vs DBBM·PRF 보조·BMP2/BioCaP 종합 (9편 신규)
