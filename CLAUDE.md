@@ -108,6 +108,7 @@ All three tiers share the same stem:
 | `digital-workflow` | 디지털워크플로우 | IOS accuracy, CBCT, CAD/CAM, guided surgery |
 | `resin` | 레진 | Composite resin, polymerization, shrinkage |
 | `resin-bonding` | 레진접착 | Adhesive systems, bonding mechanisms, dentin adhesion |
+| `veneers` | 비니어·라미네이트 | Ceramic laminate veneers (feldspathic, leucite, lithium disilicate, zirconia), composite veneers — preparation techniques, fabrication (platinum foil vs refractory die), survival/complication rates, incisal coverage, minimally invasive vs conventional, cementation |
 | `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
 | `drug` | 전신질환·약물 | Systemic disease management, drug interactions, MRONJ, anticoagulants |
 | `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
