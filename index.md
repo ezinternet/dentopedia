@@ -2090,3 +2090,51 @@ tags: []
 ### Overview (veneers & resin-bonding synthesis)
 - [[overviews/veneer-material-survival-protocol-overview]] — **NEW Overview**: 라미네이트 비니어 재료 선택·생존율·적응증·접착 5축 종합 (10편). 재료별 생존율 동등(93.7–96.8%) but 합병증 feldspathic 41.5% vs LDS 6.1%; 최소침습 에나멜 내 제한 시 MPV·CV 성과 유사; 백금박 etching 120 s vs refractory die 90 s; LDS 결합강도 25.4 vs 지르코니아 12.1 MPa (2026)
 - [[overviews/ceramic-bonding-hf-silane-contamination-overview]] — **NEW Overview**: 세라믹 접착 HF 조건·실란 선택·오염 제거·대안 시멘트 4축 종합 (10편). ≥3% HF 필수(feldspathic); 가열 HF는 LDS에만 이득; 대부분 universal adhesive 실란 반응성 저하(NMR); 오염 후 MEP or 5% HF 재처리만 결합강도 회복; 예열 복합레진 68°C가 resin cement 상회 (2026)
+
+## Batch ingest (added 2026-06-16) — GBR membranes, ARP/socket preservation, DBBM, zirconia
+
+### bone-regeneration — GBR barrier membranes
+- [[bone-regeneration/sasaki-2021-barrier-membranes-tissue-regeneration-review]] — Sasaki 2021 narrative review: GBR/GTR barrier membranes classification — non-biodegradable (e-PTFE, Ti) vs biodegradable (collagen crosslinking, aliphatic polyesters, Ca-P composites); no guideline consensus on membrane choice [narrative-review]
+- [[bone-regeneration/verissimo-2014-collagen-membranes-gbr-rat-calvarial]] — Veríssimo 2014 animal (rat calvarial): mineralized + reticulated collagen membranes vs standard; new bone formation comparison in critical-size defects [animal]
+- [[bone-regeneration/park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit]] — Park 2015 animal (rabbit calvarial): EDC-crosslinked collagen membrane + BCP vs non-crosslinked; extended degradation without cytotoxicity, biocompatibility confirmed [animal]
+- [[bone-regeneration/liu-2026-barrier-membranes-gbr-design-applications]] — Liu 2026 narrative review: next-generation GBR membranes as "programmable interfaces" — osteoimmune biology, stimuli-responsive materials, 4 material platforms, translational bottlenecks; Bioactive Materials 2026 [narrative-review]
+- [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — Buser 2023 narrative review: 35-year GBR evolution — collagen membranes for horizontal, PTFE/Ti-mesh for vertical; PASS principles; composite graft (autograft chips+DBBM); Periodontology 2000 [narrative-review]
+
+### bone-regeneration — GBR defect morphology & ridge augmentation
+- [[bone-regeneration/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla]] — Gan 2023 retrospective: bone cavity depth ≥1.03 mm + angle <155.3° predict lower GBR resorption in anterior maxilla; mean resorption 49.78% at 6 months [retrospective]
+- [[bone-regeneration/friedmann-2022-horizontal-augmentation-gbr-dog]] — Friedmann 2022 animal (dog): ribose-crosslinked membrane (no tacking) > non-crosslinked (4-pin fixation) for horizontal augmentation new bone area (p=0.001); DBBM graft [animal]
+- [[bone-regeneration/steigmann-2022-socket-buccal-bone-classification]] — Steigmann 2022 narrative review: ST1–ST3 socket buccal bone classification + decision tree; ST1A → no ARP; ST3C → Ti-mesh/PTFE + full flap [narrative-review]
+- [[bone-regeneration/jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic]] — Jiang 2020 animal (beagle): BMP2-functionalized calcium phosphate graft → 1.61× more new bone than control during orthodontic tooth movement; DBB causes 1.87× more root resorption [animal]
+
+### bone-regeneration — DBBM: modifications, adjuncts, outcomes
+- [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — Fischer 2022 SR+MA: residual bone envelope after ARP with DBBM — standard-diameter implant feasibility without additional augmentation; IJID [sr+ma]
+- [[bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]] — Darby 2024 animal (dog): resorbable collagen membrane + DBBM vs DBBM alone in dehiscence defects — membrane's additive value for new bone % at 6 weeks; Clin Oral Investig [animal]
+- [[bone-regeneration/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation]] — Fujioka-Kobayashi 2022 animal (in vivo): synthetic biomaterials (BCP, β-TCP) added to DBBM for bone augmentation — tests hybrid approach to overcome DBBM slow resorption [animal]
+- [[bone-regeneration/chakar-2014-dbbm-bcp-platelet-lysate-rabbit]] — Chakar 2014 animal (rabbit): DBBM vs BCP with autologous platelet lysate; pre-PRF baseline on bone substitute + growth factor combinations; IJBM [animal]
+- [[bone-regeneration/van-orten-2024-species-specific-collagen-dbbm-arp]] — van Orten 2024 prospective case series: species-specific collagen-enriched DBBM for ARP — first histological evaluation; Bioengineering [prospective]
+- [[bone-regeneration/idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr]] — Idiri 2023 SR: PRF + bovine xenograft in sinus and ridge augmentation — no significant sinus histomorphometry benefit; possible ridge resorption reduction; JFB [sr]
+- [[bone-regeneration/kim-2025-serine-collagen-scaffold-degradation]] — Kim 2025 animal (mouse): L-serine incorporation slows collagen scaffold degradation 7× vs control; non-crosslinking degradation modulation; JFB [animal]
+
+### bone-regeneration — socket preservation / ARP clinical
+- [[bone-regeneration/kollati-2019-cerabone-prf-socket-preservation-rct]] — Kollati 2019 RCT: Cerabone (bovine HA) + PRF vs Cerabone alone — width loss 1.47 vs 2.75 mm; +8.7% bone fill at 6 mo; J Indian Soc Periodontol [rct]
+- [[bone-regeneration/alrayyes-2022-prf-socket-preservation-smokers-rct]] — Alrayyes 2022 RCT: A-PRF vs collagen plug in smokers — A-PRF superior healing index (p<0.0001); sticky bone not superior to A-PRF alone; Diagnostics [rct]
+- [[bone-regeneration/covani-2022-alveolar-bone-remodeling-collagen-socket]] — Covani 2022 animal (micro-CT): collagen plug −4.6% vs empty socket −58.1% bone volume at 90 days; JCM [animal]
+- [[bone-regeneration/nisar-2020-collagen-plug-socket-preservation]] — Nisar 2020 prospective: collagen plug+PRP preserves height (p<0.001) but NOT width — grafting material needed for width maintenance; JODDD [prospective]
+- [[bone-regeneration/kim-2024-collagenated-xenograft-arp-rct]] — Kim 2024 RCT: DBBM-C (XenoFlex) maintains volume 84–180 days vs spontaneous healing (p=0.026); FGG seal adds horizontal crestal protection (p=0.049); ISQ ≥70 all groups [rct]
+
+### sinus-lift/lateral — graft substitute comparisons
+- [[sinus-lift/lateral/almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma]] — Almutairi 2025 SR+MA (5 RCTs, n=140): L-PRF+DBBM vs DBBM alone — new bone +7.07% (p<0.001, I²=37%), residual graft −7.93% (p<0.001, I²=0%); ISQ NS; Cureus [sr+ma]
+- [[sinus-lift/lateral/alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma]] — Alkandari 2025 SR+MA of RCTs: BCP vs DBBM for sinus floor elevation — quantitative comparison of graft substitute performance; Cureus [sr+ma]
+- [[sinus-lift/lateral/motimath-2026-xenograft-prf-sinus-histomorphometric]] — Motimath 2026 prospective (split-mouth, n=30): A-PRF+DBBM vs DBBM — new bone 42.8% vs 31.2% (p=0.001), residual graft 28.4% vs 41.6% (p=0.001), 100% survival both; Bioinformation [prospective]
+
+### dental-materials — zirconia: material science & processing
+- [[dental-materials/chopra-2024-mechanical-characteristics-zirconia-dentistry]] — Chopra 2024 narrative review: dental zirconia mechanical characteristics — fatigue, LTD, transformation toughening, surface modification; Dental Materials [narrative-review]
+- [[dental-materials/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — Kwon 2024 in-vitro: strength-limiting defects in CAD/CAM full-contour zirconia — failure origin identification; Dental Materials [in-vitro]
+- [[dental-materials/cesar-2024-dental-zirconia-15years-material-processing]] — Cesar 2024 narrative review: 15-year zirconia evolution — 3Y→5Y TZP, multilayer gradient, composition trends; Dental Materials [narrative-review]
+
+### dental-materials — zirconia: clinical outcomes & LTD
+- [[dental-materials/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — Pjetursson 2018 SR: zirconia-ceramic vs metal-ceramic single crown survival/complication rates; Clin Oral Implants Res [sr]
+- [[dental-materials/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — Leitão 2022 SR+MA (9 studies): monolithic zirconia CAD/CAM single crowns survival + biological/technical complications; JPR [sr+ma]
+- [[dental-materials/koenig-2021-ltd-monolithic-zirconia-prospective]] — Koenig 2021 prospective: first clinical LTD documentation in 3Y-TZP prostheses — begins at 6 months, glaze does not protect; Dental Materials [prospective]
+- [[dental-materials/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — Koenig 2024 prospective 5yr: LTD continues at 5 years; grain pull-out → nanoparticle release concern; extends Koenig 2021; Dental Materials [prospective]
+- [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — Alqarawi 2022 narrative review: intraoral ceramic fracture repair — sandblasting + silane + composite resin; F1000Research [narrative-review]
