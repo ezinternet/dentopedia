@@ -10,6 +10,9 @@ pdf_filename: andersson-2019-rfa-factors-5year-neoss-survival.pdf
 source_collection: external
 ---
 
+## Why Ingested
+ISQ/RFA 임플란트 안정성 카테고리의 핵심 코호트 데이터(745 임플란트, 5년). [[implants/isq/roccuzzo-2022-implant-survival-isq-20year-retrospective]] (20년, 다수준 보정)와 동일 연구 설계 결함을 공유하면서도 군집 미보정·단변량 분석에 그쳐, 두 논문이 통계 교보재로 짝을 이룬다.
+
 ## One-line Summary
 Retrospective study of 745 Neoss implants in 334 patients (5yr CSR 97.3% implant-level / 95.8% patient-level): low ISQ (<70, <75) at placement or loading associated with higher failure. ⚠ METHODS CORRECTION (2026-06-14): analysis is UNIVARIATE (chi-square/Fisher + UNADJUSTED odds ratios at ISQ thresholds) — NOT multivariate logistic regression; implant-within-patient clustering not modelled. For survival, age/gender/jaw/position/bone quantity/bone quality/diameter/length showed NO significant effect; only full-arch (vs partial) rehab and low ISQ did.
 
