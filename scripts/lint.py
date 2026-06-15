@@ -21,7 +21,7 @@ except ImportError:
     yaml = None  # YAML parse check skipped if PyYAML not installed
 
 WIKI_DIR = "wiki"
-SKIP_DIRS = {"_lint", "overviews"}
+SKIP_DIRS = {"_lint", "overviews", "evidence-appraisal"}
 SKIP_FILES = {"index.md"}  # Quartz homepage, not a paper page
 
 REQUIRED_FIELDS = [
