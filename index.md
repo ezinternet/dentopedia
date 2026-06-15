@@ -1556,7 +1556,7 @@ tags: []
 
 ### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
 
-- [[endodontics/visit-protocol/wong-2015-single-visit-multiple-visit-endodontic-rct]] — Wong 2015 · rct · n=220 teeth, 29개월 추적 — 단일방문 vs 다중방문 성공률 동등(88.9% vs 87.4%); 단일방문 시술시간 유의 단축(62 vs 93분); 예후인자: 상악 위치·술전 근단 치주염 부재
+- [[endodontics/irrigation/wong-2015-treatment-outcomes-single-visit-versus]] — Wong 2015 · rct · n=220 teeth, 29개월 추적 — 단일방문 vs 다중방문 성공률 동등(88.9% vs 87.4%); 단일방문 시술시간 유의 단축(62 vs 93분); 예후인자: 상악 위치·술전 근단 치주염 부재
 - [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]] — Mergoni 2022 · sr+ma · Cochrane pub4, 47 RCTs, n=5,805 — 방사선학적 실패 동등(RR 0.93, moderate); 단일방문 1주 내 통증 소폭 증가(RR 1.55); 생활치 subgroup 통증 위험 더 높음(RR 2.16)
 - [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]] — Schwendicke 2017 · sr+ma · SR+MA+TSA, BMJ Open — 장기 합병증·통증 동등(RR 1.00/0.99); flare-up RR 2.13(TSA 미충족, 결론 유보); 근관내 medication nullifier
 
