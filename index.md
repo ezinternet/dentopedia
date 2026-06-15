@@ -2084,3 +2084,9 @@ tags: []
 - [[implants/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, linear+profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft [sr+ma]
 - [[implants/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
 - [[implants/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
+
+## Batch ingest (added 2026-06-15) — veneers & ceramic bonding overviews
+
+### Overview (veneers & resin-bonding synthesis)
+- [[overviews/veneer-material-survival-protocol-overview]] — **NEW Overview**: 라미네이트 비니어 재료 선택·생존율·적응증·접착 5축 종합 (10편). 재료별 생존율 동등(93.7–96.8%) but 합병증 feldspathic 41.5% vs LDS 6.1%; 최소침습 에나멜 내 제한 시 MPV·CV 성과 유사; 백금박 etching 120 s vs refractory die 90 s; LDS 결합강도 25.4 vs 지르코니아 12.1 MPa (2026)
+- [[overviews/ceramic-bonding-hf-silane-contamination-overview]] — **NEW Overview**: 세라믹 접착 HF 조건·실란 선택·오염 제거·대안 시멘트 4축 종합 (10편). ≥3% HF 필수(feldspathic); 가열 HF는 LDS에만 이득; 대부분 universal adhesive 실란 반응성 저하(NMR); 오염 후 MEP or 5% HF 재처리만 결합강도 회복; 예열 복합레진 68°C가 resin cement 상회 (2026)
