@@ -629,6 +629,19 @@ tags: []
 - [[prosthetic-materials/alqarawi-2024-digital-taper-finish-line-temporary-crown-retention]] — in-vitro (Saudi Dent J 2024;36:1477, Saudi 다기관, 8그룹): 10°/20° TOC × chamfer/shoulder × 밀링/3D printed 임시 대구치 — 3D printed 6.6-7.65 MPa > 밀링 2.35-3.52 MPa; 최고: 3D printed + 20° TOC + chamfer(7.65) 또는 shoulder(장기)
 - [[prosthetic-materials/harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro]] — in-vitro (Materials 2021;14:960, Mansoura/Zurich, 2×2 factorial, n=40): 지르코니아 크라운 air-abrasion ± 핫애시드(48% HF+69% HNO₃) × Panavia SA/GC LinkForce — 핫애시드 유지력 유의↑(p=0.001), 시멘트 단독 NS; 핫애시드 임상 사용 안전 우려
 - [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — in-vitro (West China J Stom 2015;33(5):474, 山东, 70 Nissin teeth, 20° TOC/2.5 mm): proximal groove·occlusal hole × 0°/6°/20° — 0° groove(443N)·0° hole(485N) 저항↑ 유의(P<0.05) BUT 20° groove 제외 모든 보조형 변연 부유↑; 유지력-적합 trade-off
+- [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — Alammar & Att 2022 SR: zirconia bonding durability clinical outcomes (24 studies), APA+MDP protocol, IJP
+
+## 비니어·라미네이트 (Veneers — added 2026-06-15)
+- [[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] — Morimoto 2016 SR+MA: feldspathic/glass-ceramic laminate veneer survival 89% at 9yr, fracture/chipping dominant complication, IJP
+- [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]] — Albanesi 2016 SR+MA: incisal coverage vs non-coverage OR 1.25 (NS), both preparation designs safe for ceramic veneers, J Dent
+- [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]] — Klein 2025 SR+MA: 4-material ceramic veneer comparison (29 studies, 7753 veneers); LDS best complication profile at 10.4yr; zirconia 100% at 2.6yr, JERD
+- [[veneers/lim-2023-resin-composite-laminate-veneer-survival-sr-ma]] — Lim 2023 SR+MA: resin composite laminate veneer survival 88% overall (direct 91%, indirect 84%), 7 studies, 24–97 months follow-up
+- [[veneers/hajeer-2026-lithium-disilicate-zirconia-veneer-retention-sr-ma]] — Hajeer 2026 in vitro SR+MA: light-cured resin cement bond strength LDS 25.4 MPa vs translucent zirconia 12.1 MPa; enamel > composite substrate; I²=98.2%
+- [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — Ali 2023 SR: 4 comparative studies, minimal/no-prep veneers (MPV 0.2–0.5 mm) showed superior/equivalent survival vs conventional veneers; feldspathic porcelain preferred MPV substrate
+- [[veneers/sorensen-1992-porcelain-veneer-marginal-fidelity-techniques]] — Sorensen 1992 in-vitro: platinum foil vs refractory die veneers — marginal fidelity and microleakage (JPD)
+- [[veneers/sim-1993-porcelain-veneer-fit-fabrication-techniques]] — Sim & Ibbetson 1993 in-vitro: four-way marginal fit comparison — platinum foil > refractory die > cast ceramic 0.5 mm > 1.0 mm (Int J Prosthodont)
+- [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — El-Mowafy 2018 narrative review: porcelain veneer update — materials, indications, surface treatment, survival to 12 years (Dent Med Probl)
+- [[veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]] — Gonzalez-Martin 2024 in-vitro pilot SEM: HF etching time for ultrathin feldspathic veneers — 120 s (platinum foil) vs 90 s (refractory die) optimal (Int J Periodontics Restorative Dent)
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] — Seung-Eun Lee 2023 (대한치과의사협회지) · in-vitro · Cention N(alkasite) vs Fuji IX GP·Fuji II LC: 3개월 지속 불소 유리 + 항균성 보유, pH 최고; 단 S. mutans 항균력은 GIC보다 낮고 불소 유리량은 Fuji IX GP가 최다
@@ -683,6 +696,7 @@ tags: []
 - [[dental-materials/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
 - [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — 전향적 RCT(Wiley 2025, 2년): 지르코니아 엔도크라운 대합 법랑질 마모 임상평가 — 지르코니아·대조군 법랑질 마모 유의차 없음; 임상적 허용 수준
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
+- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
 
 ## 글래스아이오노머 (Glass Ionomer)
 - [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — narrative review(J Dent Sci 2024): WHO 필수의약품(2021) 등재 후 GIC 임상 적응증 종합; 수복·luting·sealant 근거 충분, liner/base는 논쟁
@@ -795,6 +809,15 @@ tags: []
 - [[resin-bonding/omoto-2025-nccl-adhesion-strategies-4year-rct]] — RCT(4yr, 200 NCCLs, split-mouth): selective enamel etching이 universal adhesive 유지력 손실 감소; RMGIC 광택손실 더 큼; 4전략 생존곡선 무차이(p=0.315); EDTA 무이득 (2025)
 - [[resin-bonding/celik-2015-self-adhesive-flowable-nccl-6month]] — RCT(6mo, 80 NCCLs, **abstract-only**): self-adhesive flowable composite 성공률 33%(27/40 탈락) vs 3-step E&R+nanohybrid 100% — 접착단계 생략 시 유지 붕괴 (2015)
 - [[resin-bonding/yurdaguven-2025-universal-adhesives-nccl-24month-rct]] — RCT(24mo, 256 NCCLs, split-mouth, BMC Oral Health): monomer·HEMA·solvent 다른 universal adhesive 2종(GPB·SBU) 동등(성공 98.2%, 탈락 4개), 모든 항목 유의차 없음 — 조성보다 술식 (2025)
+- [[resin-bonding/venturini-2015-hf-acid-concentration-feldspathic-ceramic-bond]] — Venturini 2015 in-vitro: HF ≥3% provides durable resin bond to Vita Mark II feldspathic ceramic after long-term aging; 1% HF shows significant bond degradation (μTBS 14.5→10.2 MPa)
+- [[resin-bonding/leyva-del-rio-2021-heated-hf-feldspathic-lithium-disilicate-bond]] — Leyva del Rio 2021 in-vitro: heated HF (70°C) improves bond strength only for lithium disilicate (29.11 MPa), not feldspathic ceramic; heated HF increases surface roughness in both ceramics
+- [[resin-bonding/kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond]] — Valian/Kheirkhah 2021 in-vitro: separate silane application improves porcelain repair SBS with Single Bond Universal and All Bond Universal (p<0.001) but not FuturaBond Universal; separate silane step remains necessary for most universal adhesives
+- [[resin-bonding/dimitriadi-2019-silane-reactivity-lithium-disilicate-bond-strength]] — Dimitriadi 2019 in-vitro: 13C-NMR shows most universal adhesives contain degraded siloxane silane forms; prehydrolyzed silanol monomer (Calibra Silane) achieves highest bond reliability; HF etching compensates via micromechanical retention
+- [[resin-bonding/simasetha-2021-surface-treatment-lithium-disilicate-bond-strength]] — Simasetha 2021 in vitro: silane + adhesive layer on HF-etched LDGC is the key variable; EXP/ADP highest SBS (45.49 MPa); KS silane alone ≈ no-treatment control
+- [[resin-bonding/sagen-2025-composite-porcelain-bond-strength-surface-treatment]] — Sagen 2025 in vitro: for feldspathic porcelain chipping repair, bonding method (separate silane+adhesive >> universal adhesive) dominates over surface treatment (HF ≈ diamond roughening); 50-70% universal adhesive debonding at thermal cycling
+- [[resin-bonding/grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength]] — Grangeiro 2024 in vitro: preheated composite (68°C) achieves highest µSBS to both Vita Mark II feldspathic ceramic and Vita Enamic PICN vs resin cement and flowable composite, at baseline and after thermocycling
+- [[resin-bonding/del-bianco-2025-lithium-disilicate-cleaning-bond-strength]] — Del Bianco 2025 in vitro: after saliva+try-in paste contamination of IPS e.max CAD, Monobond Etch&Prime (self-etching ceramic primer) equals 5% HF re-etching in SBS; water, PA, ethanol, Ivoclean all insufficient
+- [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — Moura 2020 in vitro 3-way factorial: only HF concentration significant (10% > 5%) for Vita Mark II bond strength after 90 days; etching time and phosphoric acid + NaHCO₃ neutralization both non-significant
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Moreno Rabie 2023 (Dentomaxillofac Radiol) · 후향적 case–control(암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT로 MRONJ 위험예측 — MRONJ 환자 32%; 항흡수제군 치조백선 비후·치주인대강 확장·골경화·골용해·격리골↑; 위험인자=다수치 동시발치(p=0.006)·흡연(p=0.004)·짧은 휴약(p=0.021); BP→골경화 우세(74% vs 45%); 골막반응·격리골=pre-clinical MRONJ 표지자
