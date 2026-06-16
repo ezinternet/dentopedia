@@ -14,6 +14,20 @@ tags: [drug, pharmacology, hub, decision-ladder, overview]
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - drug 카테고리 75편을 5개 임상 결정축별 sub-overview로 분할한 허브 페이지(이전 평균 36편/overview → 분할 후 12.5편/overview).
+> - 분할 기준은 약물 분류가 아니라 임상 결정축 — 환자 의사결정 시점에서 어떤 sub-overview를 펴느냐로 routing(예: NSAID는 진통제축과 Aspirin 상호작용축에 모두 등장).
+> - 축 1 항응고·항혈소판: 비타민K 길항제(VKA)·직접경구항응고제(DOAC)·항혈소판 복용 환자 루틴 처치 시 중단 불필요, 국소 지혈(트라넥삼산 TXA 양치액)이 1차(근거강함).
+> - 축 2 약물관련 턱뼈괴사(MRONJ): 약물 시작 전 치과 클리어런스가 가장 효과적; 데노수맙 누적 dose ≥32서 위험 31.2%, 발치 OR 4.40.
+> - 축 3 항생제: 감염성 심내막염(IE) 예방은 4개 최고위험군만; 단순 발치·치근단치주염에 예방적 항생제 효과 없음; Clindamycin 회피(근거강함).
+> - 축 4 진통제: Ibuprofen 400 + Acetaminophen 1000 병용이 최저 치료필요수(NNT ~1.5); Opioid는 비-opioid 대비 우월하지 않음; 교대 투약 > 동시 투약.
+> - 축 5 전신질환·다약제: 조절 당뇨(HbA1c <7.0%)는 임플란트 금기 아님; 비조절 DM 실패 OR 1.78, T1DM OR 4.48; 1:200,000 epinephrine이 1:80,000과 진통 동등하며 혈역학 안전; 고령 약물상호작용(DDI) 40.7%.
+> - 교차 주제: NSAID-Aspirin 상호작용(Acetaminophen 우선), RA·SLE 자가면역, 고령·만성콩팥병(CKD)·다약제, 임신·수유, 이식·면역저하 — 두 축 이상을 가로지르는 결정.
+> - 한국 임상 조정: Opioid 처방 거의 없음(Tramadol 정도), Clindamycin 대신 Cephalexin·Azithromycin 검토, 임신 시 Felypressin 함유 제제 회피하고 Lidocaine + 1:200,000 Epinephrine만 사용.
+> - 본 페이지는 허브이므로 paper 직접 wikilink는 5개 sub-overview로 위임.
+
 ## 한줄요약
 drug 카테고리 75개 paper를 5개 임상 결정축별 sub-overview로 분할한 허브 페이지. 각 sub-overview의 진입점 + 5축 핵심 명제 + 결정 분기 요약 + 한국 임상 조정.
 
