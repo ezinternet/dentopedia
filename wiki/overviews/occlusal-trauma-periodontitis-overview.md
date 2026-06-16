@@ -12,6 +12,20 @@ source_papers:
 tags: [overview, occlusion, periodontitis, occlusal-trauma]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 교합외상 (Occlusal Trauma) 과 치주염 (Periodontitis) 관계를 4편으로 종합한 페이지로, 결론은 디플레이션적 (deflationary) — 교합은 개시 인자 (initiator) 가 아니라 수식 인자 (modifier) 다.
+> - 2017 World Workshop 합의 (Fan 2018): 건강한 치주에 가해진 일차성 교합외상 (primary occlusal trauma) 은 부착소실 (attachment loss) 을 일으키지 않으며, 치주염에서의 인과적 역할은 입증되지 않았다. [narrative-review]
+> - 기전 업데이트 (Leone 2026): 이미 염증이 있는 (already-inflamed) 조직에 과부하가 가해지면 감수성 개인 (susceptible) 에서만 염증·단백분해 경로로 파괴를 가속할 수 있으나 효과 크기가 작아 선택적 개입을 정당화한다.
+> - 스플린팅 (splinting) 은 동요치 생존을 개선하지 못한다 (소실 8.4% vs 10.1%) — 예후가 아니라 환자 편의 (comfort) 목적이며 환자 기대를 그렇게 설정해야 한다 (Dommisch 2022). [sr]
+> - 교합조정 (occlusal adjustment) 은 동요치·조기접촉치에서 임상적부착수준 (CAL) 의 modest한 이득만 있고 근거 질이 낮아 (low-quality), 루틴이 아닌 선택적으로 시행한다.
+> - 치주인대 (PDL) 확장 (widening) 은 비특이적 영상 소견 — 감별진단이 교합외상부터 경피증 (scleroderma), 골육종 (osteosarcoma) 까지 넓어 기본값으로 교합외상이라 읽으면 안 된다 (Mortazavi 2016).
+> - 결정 포인트 1: 질환의 원인을 교합 탓으로 돌리지 말 것 — 치주염은 미생물·염증성 질환이고 치주치료가 항상 1차다.
+> - 결정 포인트 2: 국소적 PDL 확장 + 골파괴 동반 → 악성 종양 workup, 전반적·대칭적 확장 → 전신질환 고려. 교합외상으로 귀속하기 전에 반드시 배제한다.
+> - 임상 종합: 교합은 염증성·감수성 케이스에서 선택적으로 관리할 공동인자 (co-factor) 이지, 예방적으로 갈아내야 할 일차 원인이 아니다.
+> - gap: 인과 관계는 가용한 연구 설계로 해결 불가 (인간 근거는 연관성 수준)이고, 개입 근거는 빈약·저질 (Dommisch 적격 연구 5편)이며, aMMP-8 유도 교합관리는 제안되었으나 trial 미검증, 한국 인구 데이터 없음.
+
 ## One-line Summary
 Occlusal trauma does not initiate periodontitis but can modify its progression in a susceptible, already-inflamed periodontium; splinting does not save mobile teeth, occlusal adjustment offers a modest selective benefit, and PDL widening has a broad differential beyond occlusion.
 
