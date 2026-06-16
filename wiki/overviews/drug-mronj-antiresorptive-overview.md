@@ -21,6 +21,20 @@ source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 약물관련악골괴사 (Medication-Related Osteonecrosis of the Jaw, MRONJ) 예방의 1차 전략은 항흡수제 (Antiresorptive) 시작 **전** 치과 클리어런스 (clearance). 10편 (SR·position paper·cohort·narrative) 통합 결론은 일관됨.
+> - 약물 위험도 stratification: 정맥주사 비스포스포네이트 (IV Bisphosphonate, 졸레드로네이트 등)·암 적응증 데노수맙 (Denosumab Xgeva)이 최고위험, 경구 BP·골다공증 적응증이 저위험. 로모소주맙 (Romosozumab)은 AAOMS 2022에 신규 추가.
+> - 데노수맙은 누적 용량 (cumulative dose)이 위험 지표 — 유방암 골전이 cohort에서 ≥32 doses에서 MRONJ 31.2%로 급증 (Yokoo 2025, ROC AUC 0.83). 발치력 OR 4.40, dose 1회 추가마다 odds 4.7% 증가.
+> - 4단계 예방 framework (Baghalipour 2025): 1차 (약물 전 클리어런스, 가장 효과적) → 2차 (약물 중 발치 회피·항생제 prophylaxis) → 3차 (확립된 MRONJ staging 관리) → 4차 (과잉의료화 회피).
+> - AAOMS 2022 update 3대 변경 (Kwon 2023): ① 정의에 면역조절제 (Romosozumab 등) 추가, ② 수술적 치료를 전 stage (1·2·3)로 확대, ③ 술전 약물중단 (drug holiday) 권고 삭제. Drug holiday는 합의 없음, CTX (C-terminal telopeptide) 검사도 위험평가에서 제외.
+> - Staging: At-risk (무증상) → 0 (비특이 증상, 노출골 없음) → 1 (노출골, 무증상) → 2 (노출골+통증/감염) → 3 (병적골절·누공·하악연 침범). Stage 2–3은 수술적 절제.
+> - 발치 프로토콜: 경구 BP <4년+골다공증은 표준 발치 가능, 그 외 고위험군은 처방의 협진·대안술식 (근관치료 등) 우선·불가피 시 비외상적 발치+1차폐쇄+술후 추적.
+> - 항생제 prophylaxis: 저위험군에서 단일 술전 아목시실린 (Amoxicillin, AMPC) 500mg이 3일 코스와 동등 (Iwata 2025, n=160) — 항생제 내성 (AMR) 회피. 단 고위험군에는 그대로 적용 불가.
+> - 임플란트: 항흡수제 시작 **후** 식립 시 실패율 23%, 실패의 83%가 MRONJ (Li 2024 SR, 445개). 평균 잠복기 34개월, 후방 하악이 최다 부위 → 신규 식립은 매우 신중·case-by-case.
+> - 한국 종설 anchor: Choi/JKDA 2022 (BMA 환자 implant 결정 4단계 framework, cut-off RCT 부재), Kim 2026 (골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나 장기 생존율 82.6–94.1%로 하락 — MRONJ 저위험이 장기 성공을 보장하지 않음).
+
 ## 한줄요약
 약물관련악골괴사 (Medication-Related Osteonecrosis of the Jaw, MRONJ) 예방의 1차 전략은 항흡수제 시작 **전** 치과 클리어런스. 시작 후에는 발치 회피·최소침습·항생제 prophylaxis·정기 추적. Denosumab은 누적 dose가 위험 지표 (≥32 doses에서 위험 급증).
 
