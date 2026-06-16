@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, membrane, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 발치 후 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의사결정을 4축 — 자연 치유 흡수량 · ARP 효과 크기 · 이식재 (Graft) 비교 · 차폐막/판막/연조직 봉쇄 (Soft Tissue Seal) 조합 — 으로 분해한 ladder다.
+> - 축 1 (자연 치유): 발치 후 6개월에 수평 폭 −3.79 mm (29–63%), 수직 협측 높이 −1.24~1.67 mm 흡수 — 수평 흡수가 수직보다 압도적으로 크다. [근거강함]
+> - 축 2 (ARP 효과): ARP는 자연 치유 대비 수평 흡수를 1.86~2.19 mm 줄인다 (Bassir 2018, Troiano 2018 SR+MA). 즉시 식립 불가 + 4–6개월 healing 필요 발치 → ARP 수행이 1차 권고. [근거강함]
+> - 축 3 (이식재): allograft·xenograft·alloplast 간 임상 outcome 차이는 미미하며, 이종골 골이식재 (Bio-Oss, DBBM) = 자가골 (Autogenous bone) 수준 — 재료 선택은 비용·흡수 프로파일 기준. [합의수준]
+> - 축 4 (차폐막/봉쇄): 콜라겐 차폐막 + DBBM이 표준 조합. 자가 연조직 이식 (특히 유리치은이식 Free Gingival Graft, FGG) 이 심미부위 협/설측 높이 보존에 최우수. [근거강함]
+> - 결정 트리: 협측골 온전 (4벽 socket) → flapless + Bio-Col (DBBM + 콜라겐 막), 협측 결손 (1–2벽) → 판막 거상 + DBBM + dPTFE 막 (4–6주 후 제거), 심미부위 결손 → 여기에 FGG/결합조직이식 (CTG) 추가.
+> - 이식재 선택 세부: 일반 케이스 = DBBM (Bio-Oss) + 콜라겐 막, 비용 민감 = β-TCP (합성골, 근거 다소 약함), 자가치아입자 (APDM, Smart Dentin Grinder chairside) = DBBM 대등 (Feng 2024 SR+MA).
+> - 흔한 오판: "막이 노출되면 실패다" — dPTFE는 애초에 노출 디자인이며, 콜라겐은 노출 시 빨리 분해되므로 1차 봉합 또는 punch graft 봉쇄가 필요하다. [근거강함]
+> - 임상 takeaway: 발치 후 임플란트 계획이 있으면 자연 치유만으로는 수평 폭이 가장 흔히 부족해지므로, 협측 thin (협측골 두께 BBT < 1 mm) 부위에서는 ARP의 이득이 가장 크다.
+> - 본 페이지는 발치 후 ARP에 집중하며, 이미 흡수된 능선을 재건하는 수평·수직 골증대 (GBR) 와 즉시 식립 결정 ladder는 별도 페이지로 위임한다.
+
 ## 한줄요약
 
 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의사결정 ladder. 자연 치유 dimensional change · graft material 비교 · membrane/flap 조합 · soft tissue seal 4축. EFP/AO consensus + Cochrane review spine.
