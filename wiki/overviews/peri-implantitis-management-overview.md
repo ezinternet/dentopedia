@@ -13,6 +13,21 @@ source_collection: internal
 tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GBR, prosthetic-design, MBL, platform-switching, PMPR, aPDT, prevention]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 임플란트주위염 (Peri-implantitis) 7편을 역학·예방·치료로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
+> - 유병률: 환자 단위 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53% — 진단 기준 (탐침깊이 PD 임계값) 이 유병률 산포를 좌우하지 생물학 자체는 아니며, 기능 기간과 유의 연관 없음 (Diaz 2022 SR+MA 57편). [근거강함]
+> - 1차 예방의 핵심 전략 메시지: 임플란트주위 점막염 (Peri-implant Mucositis) 관리가 곧 임플란트주위염의 1차 예방 — 점막염은 가역적, 임플란트주위염은 비가역적 (Jepsen 2015).
+> - 탐침시출혈 (Bleeding on Probing, BoP) 이 건강 vs 염증을 구분하는 1차 임상 징후이고, 정기 지지치료 (SPT) 부재가 진행 위험을 높인다.
+> - 점막염 관리: 전문가 기계적 치면세균막 제거 (PMPR) 가 gold standard이며, 보조제 (CHX·국소 항생제·NaOCl·프로바이오틱스) 는 PMPR 단독 대비 일관된 추가 이득 없음 (Mauriello 2026). [합의수준]
+> - 외과적 표면 제염 (decontamination): 기계적·화학적·물리적 (레이저 등) 프로토콜 중 명확히 우월한 단일 방법 없음 — EFP S3 가이드라인의 "특정 방법 권고 불가" 입장을 정량 지지 (Baima 2022 SR+MA 16 RCT). [근거강함]
+> - 재건 수술: 포위형 (contained) 골내 결손에는 골유도재생술 (GBR) 이 비재건 대비 양호한 결손 충전·골 수준 이득 (Ramanauskaite 2023 NMA); 항균광역학치료 (aPDT) 는 저확실성 보조 (Jervoe-Storm 2024 Cochrane).
+> - 보철 디자인이 변연골소실 (MBL) 을 유의하게 줄이는 조절 가능 레버 (Lin 2025 AO/AAP SR+MA 93편): 플랫폼 스위칭 (p<0.0001) · 원추형 내부 연결 (p<0.0001) · 어버트먼트 높이 ≥2mm (p<0.0001) · one-abutment-one-time (p<0.0001) · 비스플린트 (p=0.04). [근거강함]
+> - 중립 (MBL에 무영향): 나사 vs 시멘트 유지 (p=0.51), 치관-임플란트 비 (p=0.32) — 유지 방식은 MBL이 아니라 재제거 용이성 (retrievability)·교합으로 결정한다.
+> - 결정 framework: BoP만 (골소실 없음) = 점막염 → PMPR + SPT, BoP + 골소실 = 임플란트주위염 → 비외과 우선 → 3–6개월 후 불충분하면 외과 (포위형 결손 → GBR 재건, 비포위형/수평 소실 → 절제형/접근 수술).
+> - 치료계획 단계 예방: 플랫폼 스위칭 + 원추형 연결 선택, 어버트먼트 높이 ≥2mm 유지, 불필요한 어버트먼트 교체 회피, emergence angle <30° + 오목/직선 emergence profile 설계.
+
 ## One-line Summary
 Synthesis of 7 peri-implantitis papers: pooled prevalence 19.5% patient-level; mucositis management is primary prevention; no single decontamination protocol is superior; prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL.
 
