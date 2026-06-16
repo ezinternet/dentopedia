@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [burnout, mental-health, wellbeing, dentists, dcp, hygienists, mbi, professional-wellbeing, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 치과의사·치과보조인력(Dental Care Professional, DCP) 번아웃 SR+MA 7편을 **유병률·결정인자/직군·개입·critique** 4축으로 정리. 번아웃은 개인 멘탈 문제가 아니라 시스템 인자(시간·재정·법) 우세.
+> - **유병률**: 전체 번아웃 13%; 감정적 소진(Emotional Exhaustion, EE) 단독 28%, 탈인격화(Depersonalization, DP) 18%, 저성취감 30–50% — 두 독립 SR+MA 일치 (Moro 2022, Long 2023, n=6,038). EE 28%는 4명 중 1명 이상.
+> - **지역·시점**: 유럽 최고 / 아메리카 최저, longitudinal 연구가 cross-sectional보다 높을 가능성 (Long 2023).
+> - **COVID**: 팬데믹 전·중·후 일관 — 팬데믹은 증폭기(amplifier)이나 baseline burnout이 이미 높았음 (Negucioiu 2024 SR).
+> - **DCP(위생사·치료사)**: 데이터 극히 부족(UK SR 12편); 결정인자는 치과의사와 동일 매핑 (Kaki 2022).
+> - **결정인자(공통)**: 업무량·시간 압박·환자 기대·재정 부담·의료법적 부담·완벽주의 성향·동료 갈등·임상 외 행정.
+> - **개입(intervention)**: 근거 매우 빈약, 1차 예방 데이터 거의 없음; 2/3차 psychoeducational·mindfulness가 일부 효과 (Plessas 2022). Mindfulness만으로 해결은 오판 — 보조적 의미.
+> - **retraction**: Panagioti 2018("physician burnout → patient harm 2배")은 **철회(RETRACTED)** — 이 연관성은 본 overview에서 주장하지 않으며 인용 금지.
+> - **임상 ladder(개입)**: ①Maslach Burnout Inventory(MBI) 자가 평가(EE/DP/PA 3축) → ②개인 차원(mindfulness·CBT·운동·수면, 부작용 없음) → ③조직 차원(진료시간 통제·동료 분담·행정 자동화) → ④우울·불안 의심 시 정신건강의학과 의뢰 → ⑤만성+회복 무 시 진료 강도 조정/전환.
+> - **확신도**: 축 1 유병률 = 근거강함(두 SR+MA 일치); 축 2·3 = 합의수준(개입 효능은 미검증); 축 4 retraction = 근거강함(retraction 사실 자체).
+
 ## 한줄요약
 
 치과의사·DCP 번아웃 SR+MA 7편 통합. 전체 번아웃 13%; 감정적 소진(Emotional Exhaustion, EE) 28%/탈인격화(DP) 18%/저성취 30~50%. COVID 전후 일관; 유럽 최고·아메리카 최저. 직장 개입 근거 부족; 1차 예방 데이터 거의 없음. 1편(Panagioti 2018)은 retracted — 환자 안전 연결 주장은 제거.
