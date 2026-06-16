@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [dental-materials, zirconia, cad-cam, amalgam, composite, bonding, cement, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: 치과 보철·수복 재료 결정을 4축(①지르코니아 접착 ②CAD/CAM vs 도재금속관(PFM) ③아말감 vs 복합레진 ④시멘트 선택)으로 분해한 결정 ladder. 각 축에 spine paper와 임계값 명시.
+> - 축 1 — APC 프로토콜(Air-abrade·Prime·Cement): 50 µm Al₂O₃ 저압(1-2 bar) sandblasting → 시적 후 타액 오염 시 Ivoclean 세정 → MDP 함유 primer 1회 → MDP/자가접착 시멘트.
+> - 시적 후 타액 오염: sandblasting+Ivoclean SBS 9.3 MPa vs 이소프로필알코올(IPA) 단독 3.04 MPa(Genc 2025). 인산 부식·물/알코올 단독은 부족 → 전용 세정제 또는 재-sandblasting 필요.
+> - 5년 부분안정화 지르코니아(5Y-PSZ)도 MDP 화학결합 유지 — cubic phase가 접착 약점이 아님(Comba 2021). "산 부식으로 표면 활성화"는 오판.
+> - 축 2 — CAD/CAM 전부도재 단관은 PFM과 생존율 대등, 심미 합병증은 OR 16.88로 우위(Aswal 2023, 13편 1,598 수복물). 장경간 FPD는 지르코니아 우위.
+> - 두께 임계값: 두께 < 1mm가 파절 주원인(Ali 2023) → 최소 occlusal 1.5mm 확보. "지르코니아는 강해서 두께 무관"은 오판.
+> - 대합치 법랑질 마모: 잘 폴리싱된 지르코니아 < 글레이즈 처리 < 장석질 도재(역설). 교합 조정 후에는 반드시 재폴리싱(글레이즈 재도포보다 우선).
+> - 축 3 — 아말감 vs 복합레진 후방부: 격차 좁혀짐. SR+MA는 통계적 차이 없음(RR 0.96, Al-Sulimman 2025), big data는 아말감 연 3.5% vs 레진 4.5% 실패(HR 1.32, Tobias 2024). 한국 환경(수은 규제·심미)에서는 복합레진이 1차.
+> - 술자 기술·격리·접착 충실도가 재료 차이보다 결과에 더 큼 — "복합레진은 어려우니 아말감"은 오판.
+> - 축 4 — 시멘트: 표준 단관(abutment ≥4mm)은 자가접착(TheraCem·RelyX U200) 합리적, 짧은 abutment(<4mm)·인레이/온레이는 adhesive resin(Panavia V5)+primer 필수. Abutment 높이-유지력 r=0.95(Soleimani 2026)가 임계값.
+> - 확신도: 축 1·2·3 = 근거강함(SR+MA·big data 다수), 축 4 = 합의수준(대부분 in vitro, 임상 RCT 부족). 본 세션 zirconia-inlay-bonding 인터랙티브의 학술 backbone.
+
 ## 한줄요약
 
 치과재료 4축 (지르코니아 접착·CAD/CAM vs PFM·아말감 vs 복합레진·시멘트 선택)의 결정 ladder. SR+MA + 최근 in vitro 정량 데이터(SBS·µSBS) 통합. 본 세션 zirconia-inlay-bonding 인터랙티브의 spine.
