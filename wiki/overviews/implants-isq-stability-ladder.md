@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [isq, rfa, implant-stability, osstell, periotest, loading-protocol, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지는 임플란트 안정성 지수(Implant Stability Quotient, ISQ)/공명주파수분석(Resonance Frequency Analysis, RFA)의 의사결정 3축 — 측정 도구·임계값·영향 변수 — 을 정리한 `implants/isq/` 23편의 spine이다.
+> - **임계값**: 식립 시 ISQ ≥ 70 또는 4–6주 healing 후 ISQ ≥ 65가 조기/즉시 부하(early/immediate loading)의 임계 (Andersson 2019 + Bavetta 2024). [근거강함]
+> - **측정 도구**: Osstell과 Periotest는 상관성이 우수해 임상 호환 가능하나, 수치가 직관적인 **Osstell(1–100)을 1차 추천**. SmartPeg는 토크 ≥ 10 Ncm로 표준화해야 정확 (Kastel 2019).
+> - **영향 변수**: 피질골(cortical bone) 두께와 macro-design(tapered·platform)이 ISQ의 주 결정인자이고, 임플란트 길이·직경의 영향은 상대적으로 약하다 (Stoilov 2023, Chatvaratthana 2017).
+> - **부하 결정 ladder**: 식립 직후 ISQ ≥ 70 + 1차 안정성 ≥ 35 Ncm → 즉시 임시(전치 단일치); ISQ 60–69 → 통상 부하 또는 4–6주 재측정 후 결정; ISQ < 60 → 통상 부하 + 추가 healing.
+> - **보정**: 상악동거상술(MSFA)·골유도재생술(GBR) 동반 시 ISQ 임계값 +3, Type IV bone에서 +2 보정.
+> - 측정은 근·원·협·설 4방향으로 하고, 1방향만 평균과 ≥ 10 차이 나면 재측정.
+> - **임상 함의**: 식립 전 CBCT로 피질골 두께를 평가하면 ISQ를 예측 가능하며, 저밀도골에는 tapered design 우선 + 골밀도화(Osseodensification) 보조 고려.
+> - 짧은 임플란트라도 적절한 macro-design + 피질골 고정(cortical anchorage) 확보 시 ISQ는 충분할 수 있다.
+> - 도구 비교는 [합의수준], 임계값은 [근거강함], 영향 변수는 [근거강함]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
+
 ## 한줄요약
 
 ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결정 3축 — 측정 도구 (Osstell vs Periotest) · 임계값 (loading decision) · 변수 (cortical 두께·macro-design·bone quality). 본 wiki sub-category `implants/isq/` 23 paper의 spine.
