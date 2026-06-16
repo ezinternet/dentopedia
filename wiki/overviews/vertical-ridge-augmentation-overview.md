@@ -22,6 +22,20 @@ source_papers:
 tags: [vertical-ridge-augmentation, gbr, titanium-mesh, ptfe, collagen-membrane, dehiscence, peri-implant-bone-loss, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지는 수직골증대(Vertical Ridge Augmentation, VRA) 8편을 **4축**(술식별 장기 골소실 · 차폐재 선택 · collagen membrane 부가 효용 · 열개 예방)으로 묶은 spine이다.
+> - **핵심 관점**: VRA 실패의 1차 원인은 골재생 자체가 아니라 **차폐재 노출/연조직 열개(dehiscence)** — 그래서 spine은 "어떤 술식이 골을 더 얻나"보다 "어떤 조합이 열개를 줄이고 장기 임플란트주위 골소실(Peri-implant Bone Loss, PBL)을 낮추나"로 구성.
+> - **술식별 장기 PBL**: 동시골이식(SBB) 0.66 < GBR 1.06 < Onlay 1.31 < Inlay 1.72 < 골신장술(osteodistraction) 1.81 mm; 전체 pooled 1.38 mm/41개월 (Cucchi 2024 SR+MA). [근거강함]
+> - **차폐재 선택**: 맞춤형 CAD/CAM 티타늄 메시(Ti-mesh)는 합병증 측면에서 Ti-강화 d-PTFE에 **비열등**하나, PTFE의 재생률이 유의 우위(99.5% vs 87.0%, p=.013); osseointegration은 양군 ~98% (Cucchi 2024 RCT). [근거강함]
+> - **collagen membrane 부가는 효용 논쟁**: SR은 골증대량·합병증 차이 없음("불필요")으로, RCT는 연조직 침투 차단(type-1 pseudo-periosteum) 이점으로 갈림 — 결정적이지 않음 (Yousefi-Koma 2025 SR vs Urban 2025 RCT). [claude해석]
+> - **열개 예방의 결정 변수는 연조직** — 사전 연조직 확장(Soft Tissue Expansion, STE) 또는 골막이완절개(Periosteal Releasing Incision, PRI) 없는 개방치유가 동물모델에서 열개를 0~8%로 감소 (Kaner 2017, Wang 2025).
+> - Wang 2025(동물)는 오히려 **PRI가 열개·각화치은 손실을 키울 수 있음**을 시사(개방치유 열개 8.3% vs PRI군 41.7~50%) → 임상 외삽은 신중.
+> - **임상 결정 ladder**: ①동등 적응증이면 PBL 낮은 GBR/SBB 우선, Inlay·골신장술은 적응증 한정 ②차폐재는 CAD/CAM Ti-mesh 1차, 최대 재생률 필요 시 Ti-PTFE ③collagen membrane은 큰 결손에 선택적 적용 ④큰 수직 결손은 사전 STE·장력 없는 폐쇄가 핵심.
+> - **상악동거상 동시 VRA**는 합병증이 높아 동시 식립보다 **지연 식립** 권고 (Kang 2019, 생존 81.8%). [합의수준]
+> - **갭**: collagen membrane 효용의 인체 head-to-head RCT 부족(SR vs 단일 RCT 충돌), PRI vs 개방치유 인체 RCT 부재, CAD/CAM Ti-mesh 장기(>5y) PBL 데이터 부족.
+
 ## 한줄요약
 
 수직골증대(VRA) 4축 — 술식별 장기 peri-implant bone loss (SBB < GBR < Onlay < Inlay < distraction) · 차폐재 선택 (CAD/CAM Ti-mesh ≈ Ti-PTFE) · collagen membrane 부가 효용 논쟁 · 열개(dehiscence) 예방의 핵심은 연조직 관리. RCT 2 + SR+MA 1 + SR 1 + 동물 2 spine.
