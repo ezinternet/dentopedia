@@ -11,6 +11,21 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 질문: 상악동거상술 후 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 기반으로 "언제 부하할 수 있는가" — 위키 보유 7편에서 ISQ 수치·부하시기 데이터 추출.
+> - ISQ 부하 결정 기준: <60 지연부하(4-6개월 추가관찰), 60-70 조기부하+면밀 모니터링, >70 즉시/조기부하 고려(Oh 2008).
+> - 단일 ISQ 값보다 경시적 추적(serial ISQ)이 중요 — 상승추세=골유착 진행, 하강=조기경보(Sennerby 2008).
+> - 안정성 딥(stability dip)은 상악동 케이스에서도 발생 — 증대부는 Type IV 골이라 1차 안정성이 낮을 수 있고, 2-4주 딥 구간에는 부하 금지, 3-4주 후 ISQ 재측정.
+> - 2단계 측창법 (Lateral Sinus Approach, LSA): 6개월 이식재 치유 후 식립 → 식립 직후 ISQ 60 초반(즉시부하 불가) → 우골유래골 (Bovine Bone Mineral, BBM)군은 3개월에 ISQ 73(부하 가능), 합성골 (β-TCP)군은 6개월 대기(Ramirez-Fernandez 2017).
+> - 식립 4개월이면 이식재 종류 무관 비증대 자연골과 통계적 동등(p=0.789, Jelusic 2014).
+> - 경유돌 동시식립 (Transcrestal Sinus Floor Elevation, TSFE): 식립 즉시 ISQ ≥70이면 12주(3개월) 조기부하 가능(Liu 2018, RBH 3.5mm에서 ISQ 72.6), 60대면 추가 대기.
+> - 골밀도화 (Osseodensification) 술식(TSMEOD)은 골치환술식 (osteotome)보다 ISQ 유의하게 높임(Starch-Jensen 2025 SR+MA, 단 Low GRADE).
+> - ISQ 영향 변수: 잔존치조골높이 (Residual Bone Height, RBH)↑·테이퍼드(Tapered) 거시디자인(RBH 6-9mm에서 최고)·osseodensification·피질골 두께↑가 ISQ를 높인다.
+> - 임상 의사결정: RBH <5mm는 측창법(2단계, 식립 3개월 후 ISQ 재측정), 5-9mm는 TSFE 동시식립(osseodensification+tapered 권장, ISQ >70이면 12주 조기부하).
+> - 전체 근거 수준은 중등도 이하(Ramirez n=10, Jelusic 단일시점, Allurkar in vitro, Liu n=1, Starch-Jensen Low GRADE) — 개별 환자 골질·RBH·술기에 따라 ISQ를 직접 측정해 판단하는 것이 원칙.
+
 ## 한줄요약
 상악동거상술 후 ISQ 기반 부하 시기: 2단계 측창법은 식립 후 3–6개월(ISQ 70+ 도달), 경유돌 동시식립은 초기 ISQ≥70 확인 시 12주 조기부하 가능; RBH·술기·거시디자인이 ISQ 궤적 결정
 
