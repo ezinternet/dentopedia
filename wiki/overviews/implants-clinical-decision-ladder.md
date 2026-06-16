@@ -14,6 +14,21 @@ tags: [implants, peri-implantitis, smoking, bone-type, short-implants, platform-
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 임플란트 일반 임상 의사결정을 6축 — 환자 위험인자 · 디자인 · 드릴 열손상 (drill thermal) · 연조직 · 임플란트주위염 (peri-implantitis) · 보철 형식 — ladder로 통합한 페이지로, ISQ·표면처리·골밀도화 (OD) 깊이는 별도 overview로 위임한다.
+> - 위험 stratification: 임플란트주위 점막염 43–46% / 임플란트주위염 21–22% 유병률, 치주염력과 흡연이 두 질환 모두의 강한 위험인자 (Galarraga-Vinueza 2025 SR-MA, n=13,030). [근거강함]
+> - 흡연은 조기 실패 교차비 (OR) 2.59로 용량 의존적이고, Type IV 골 (특히 상악 구치부) 은 실패율 1.5–1.9배 (Rosa 2024 SR-MA). [근거강함]
+> - 위험 tier: Low (비흡연·당화혈색소 HbA1c<7·협측골두께 BBT≥1mm·Type I–III) = 표준, Moderate = 강화 유지치료 (SPT) + 적응 case 술전 amox 2g, High (흡연+치주염+불량 위생) = 연기 권고.
+> - 디자인 — 짧은 임플란트 (short, ≤6mm) 는 5–8년 장기 RCT (Sivolella 2025, Barausse 2024) 에서 골증대+긴 임플란트 대비 비열등~우세하며 합병증 68% 적음 → 골증대 회피 가능하면 우선. [근거강함]
+> - 플랫폼 스위칭 (platform switching) 은 변연골소실 (MBL) 을 0.255–0.49mm 유의하게 줄이고 5년 RCT에서도 유지 (Messias 2019). [근거강함]
+> - 신규 축 — 드릴 열응력: 표준 sequence + 관주 (irrigation) 미준수 시 임계값 47°C/1분 초과 가능, 누적 드릴 사용·guided sleeve가 열 분산 방해. OD는 저속 드릴링+관주 보존으로 결과적으로 thermal-friendly. [근거강함 기전 / 합의수준 임상]
+> - 조직수준 (Tissue-Level) vs 골수준 (Bone-Level): TL이 임플란트주위염에 보호적 경향 (RR 0.59, NS) 이나 MBL은 연결부 종류·biotype에 더 좌우 — 단일 변수로 결정 어려움 (Atieh 2025). [합의수준]
+> - 연조직: 각화점막 (Keratinized Tissue, KT) ≥ 2mm 유지가 임플란트주위 건강의 임계값, <2mm 시 유리치은이식 (FGG)/결합조직이식 (CTG) 추가 (Thoma 2018). [근거강함]
+> - 임플란트주위염 치료 ladder: 점막염 (BoP+, 골소실 없음) → 비외과 (기계적 debridement + CHX) → 재평가, 임플란트주위염 (BoP+, 골소실 ≥2mm) → 비외과 1차 (adjunct 항생제로 PPD 0.6–1.15mm 추가) → 미해소 시 외과 (절제형 또는 재생형).
+> - 임상 메모: 단일 임플란트 10년 추적에서 인접접촉상실 (Proximal Contact Loss, PCL) 이 흔하므로 "5–10년 사이 보철 조정이 필요할 수 있다"를 환자 설명에 포함한다.
+
 ## 한줄요약
 
 임플란트 일반 5축 — 환자 위험인자(흡연·치주염력·골밀도·전신질환) · 임플란트 디자인(short·platform switching·tissue vs bone level) · Drill thermal·preparation protocol · 연조직 · peri-implantitis 예방·진단·치료. EFP/AAP Workshop SR + Cochrane + 2024–2026 신규 SR-MA를 thesis 분기·결정 트리에 통합.
