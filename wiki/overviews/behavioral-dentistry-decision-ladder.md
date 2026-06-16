@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communication, attendance, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 본 페이지의 핵심 명제: 행동치의학은 외과·재료 결정과 다른 차원으로, 환자 행동변화·정기 내원(attendance)·커뮤니케이션 quality가 치료 결과를 좌우하는 동기면담 (Motivational Interviewing, MI)·커뮤니케이션·attendance 3축 decision ladder다.
+> - 축 1 — 동기면담 (MI): 영유아 우식 (Early Childhood Caries, ECC) 예방은 SR+MA 수준 효과 (Jahanshahi 2022, 6 RCT, n=2,776) — 세션 횟수보다 quality가 결정, ≥3년 추적 필요. [근거강함]
+> - 성인 MI는 7 RCT 모두 치주 outcome이며 치은출혈 (Bleeding on Probing, BoP)만 -6.41pp 유의, plaque·gingival index는 무의미 (Cartes-Velasquez 2024) — "효과 결론 보류"이지 "효과 없음"이 아니다.
+> - 일반 의료 MI는 OR 1.55 (95% CI 1.40-1.71)로 짧은 상담 (brief MI)에서도 작동 (Lundahl 2013, 48 RCT, n=9,618) — 모든 환자에 30분이 필요하진 않다. [근거강함]
+> - 축 2 — 커뮤니케이션: 치과 커뮤니케이션 스킬 26개 × 4 범주 (generic·case-specific·time-specific·emerging) framework (Khalifah 2019, SR 50편) — 단 교육법 비교 evidence는 부재. [합의수준]
+> - 커뮤니케이션 ladder: 신입은 generic+case-specific 습득, 5년 이상은 emerging skill인 공유의사결정 (Shared Decision-Making, SDM)·informed consent 강화로 단계화.
+> - 축 3 — attendance: 영국 인구 약 1/3이 통증 있을 때만 오는 통증-only attender이나 전환 개입의 evidence는 단 3편 SR로 매우 빈약 (Currie 2021).
+> - Currie 2021 미래 설계 4축: 치과의사 커뮤니케이션 · 치과의사-환자 관계 · 인식(perception, 비용→예방·투자로 frame 전환) · 비용(보험·접근성).
+> - 한국 임상 적용: 통증 환자에 "다음 단계" 명시 + 3-6개월 recall (자동 SMS·전화) + 1-2회 진료 후 신뢰 구축 + 건강보험 스케일링 1회/년 등 정책적 trigger + 노인·소아·고위험군 우선의 stratified approach.
+> - 오판 패턴: "성인에게 MI는 효과 없다"는 오해 — Cartes-Velasquez는 치주 7편뿐이고 결론 보류일 뿐, Lundahl 2013은 일반 의료에서 효과를 확정했다.
+
 > [!note] Part of a larger synthesis → [[behavioral-dentistry-overview]]
 > 이 페이지는 MI·커뮤니케이션·attendance 3축에 집중한 decision ladder다. 2026-06-02 환자 커뮤니케이션·PRO·치과불안 논문 13편이 추가되며 카테고리가 4 하위축으로 확장됐다. 전체 18편 통합은 master overview [[behavioral-dentistry-overview]] 참조.
 
