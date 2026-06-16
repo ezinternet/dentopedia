@@ -112,6 +112,7 @@ All three tiers share the same stem:
 | `resin-bonding` | 레진접착 | Adhesive systems, bonding mechanisms, dentin adhesion |
 | `veneers` | 비니어·라미네이트 | Ceramic laminate veneers (feldspathic, leucite, lithium disilicate, zirconia), composite veneers — preparation techniques, fabrication (platinum foil vs refractory die), survival/complication rates, incisal coverage, minimally invasive vs conventional, cementation |
 | `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
+| `complete-denture` | 총의치·가철성보철 | Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics. (denture *occlusal scheme* balanced/lingualized → `occlusion`) |
 | `drug` | 전신질환·약물 | Systemic disease management, drug interactions, MRONJ, anticoagulants |
 | `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
 | `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
