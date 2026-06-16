@@ -11,6 +11,22 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 봉합·창상폐쇄 결정은 단일 스펙트럼이 아니라 정반대 최적화 목표를 가진 두 임상 맥락으로 분기하며, 갈림길은 창상 장력(wound tension)이라는 단일 상류 변수.
+> - 저장력 맥락(발치와·구치부): 질문은 "봉합할 것인가/일차 vs 이차폐쇄". 답 — 치유·치주 결과는 술식 무관, 개입 최소화가 유리.
+> - 고장력 맥락(GBR·titanium mesh·치주성형): 질문은 "어떻게 무장력 일차폐쇄를 달성할 것인가". 답 — 피판 전진·폐쇄 공학이 곧 재생 성패.
+> - 저장력 — sutureless는 안전하며 초기 morbidity 동등 이상(Takadoum 2022 multicentric n=94는 완전 동등, Kumar·Sen은 trismus·부종 우월). 정확한 해석은 "sutureless 우월"이 아니라 "봉합 생략이 손해를 끼치지 않는다".
+> - 저장력 — 흡연자는 폐쇄 방식과 무관하게 합병증 위험 3.65배(Takadoum) → 금연 권고가 술식보다 중요. 부종·통증 최소화 목표면 이차폐쇄(배농 여지, Pachipulusu 2018).
+> - 저장력 — 봉합한다면 패턴 선택이 봉합 유무보다 인접 제2대구치 치주(PPD·CAL)에 더 영향: sling이 single interrupted보다 우수(Aghdashi 2020, PPD p=0.041).
+> - 고장력 — 노출(exposure)이 재생량을 직접 깎는다: 비노출 부위가 노출 부위보다 골증대 약 6배(Plonka 2017 SR). 목표는 exposure 0.
+> - 고장력 — 전진량 지배 인자는 골막이완절개(periosteal releasing incision) +5.5 mm(1차 수직절개 +1.1mm, 2차 +1.9mm 대비). 설측 mesh 노출은 설측 관상전진피판(CALF)으로 83.3%→0%(Attia 2023 RCT n=14).
+> - 봉합패턴 생역학(in-vitro): pulley suture가 폐쇄 견인력 최소(3.46 N)로 효율 최고, basic lattice가 장력 분산 54.4% 우수, cyanoacrylate+봉합 병용이 면접착 8.50 N 최고. horizontal mattress는 견인·파단 모두 열위 → 고장력 1차 부적합.
+> - 유리치은이식(FGG): 결과를 가르는 건 봉합 기교가 아니라 이식편 채취·디자인(gingival unit transfer, GUT)이 수축 감소의 핵심(Shakiliyeva 2025). 메타-교훈 — 봉합 패턴은 안정화 도구일 뿐, 1차 결정자는 그 위/아래의 조직·창상 조건.
+> - 한국 임상 메모: ① 단순 발치 봉합 강박 줄여도 안전(환자 안심·출혈 관리 목적 봉합은 별개), ② GBR은 촘촘한 봉합보다 골막이완절개로 장력 자체를 0으로 만드는 것이 우선, ③ cyanoacrylate는 국내 허가범위 확인 후 보조 사용(1차 폐쇄 대체 아님).
+> - 근거 한계: 이 카테고리에 SR+MA 부재(최강 근거 = SR 1편 plonka + RCT 7편). 고장력 술식 RCT 빈약(CALF n=14 단일), in-vitro→임상 외삽 갭, "무장력" 정량 도구 미정립.
+
 ## One-line Summary
 
 Across 7 RCTs, 1 SR, 4 in-vitro and 3 clinical case series (n=15 papers), wound-closure decisions split by a single upstream variable — **wound tension**: in low-tension extraction sockets the technique is outcome-agnostic and "less is more" (sutureless trends to less early morbidity, periodontal healing unaffected), whereas in high-tension augmentation/GBR sites the closure *is* the result (coronally advanced lingual flap cut mesh exposure 83.3%→0%, periosteal releasing incision adds +5.5 mm advancement, exposure reduces bone gain ~6×).
