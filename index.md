@@ -568,6 +568,8 @@ tags: []
 - [[endodontics/diagnosis/kallel-2021-management-cutaneous-sinus-tract-odontogenic]] — Kallel 2021 · case-report (n=1, 18개월 추적) · 치성 피부누공 오진(냉동치료·수술·장기 항생제 모두 무효) → 근관치료(+재발 시 외과)로 치유·치근단 병소 퇴축; 치과-의과 소통 강조 (DOI 10.4103/jcd.jcd_56_21)
 - [[endodontics/diagnosis/asgary-2024-apical-periodontitis-vital-nonvital]] — 서사 리뷰(IEJ 2024): 생활·비생활 치아 치근단 주위염(AP) 임상·방사선 소견 및 새 8범주 진단 분류 제안; 생활치 AP는 VPT 1차 권고(성공률 92–99%); 전 세계 유병률 ~52% (DOI 10.22037/iej.v19i3.45605)
 - [[endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus]] — 전향 관찰연구(n=50, 치아 328개): 근단병소 인접 CBCT 상악동 점막두께 3.95mm vs 병소 없음 1.23mm (p<0.01); 조직병리 육아종 50%·낭종 40%; IHC CD20+/CD79α+ 우세 만성 염증 (DOI 10.3390/medicina57080840)
+- [[endodontics/diagnosis/nair-2006-causes-persistent-apical-periodontitis-review]] — Nair 2006 · narrative-review · Landmark review systematizing six causes of persistent post-treatment apical periodontitis: intraradicular infection, extraradicular infection (actinomycosis), foreign-body reaction, cholesterol crystals, true cysts, scar tissue (DOI 10.1111/j.1365-2591.2006.01099.x)
+- [[endodontics/diagnosis/ricucci-2010-biofilms-apical-periodontitis-prevalence]] — Ricucci 2010 · cross-sectional · Histobacteriologic study (106 roots): intraradicular biofilms in 77% of canals (untreated 80%, treated 74%), rising with lesion size; assoc. with epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%; p<0.001) (DOI 10.1016/j.joen.2010.04.007)
 
 ## 치주치료 (Periodontics)
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — Barahim 2024 · RCT(n=24, 조절형 T2DM stage III 치주염): 오존겔을 SRP 보조로 추가 — 군간 임상차는 없으나 오존군에서 군내 방사선학적 골결손 개선·3개월 PPD 감소·술후 통증 감소 (BMC Oral Health)
@@ -1564,6 +1566,17 @@ tags: []
 - [[endodontics/anatomy/alnowailaty-2022-mb2-prevalence-saudi-cbct]] — Yousef Alnowailaty 2022 · cross-sectional · CBCT n=1,200 Saudi — MB2 1MM 46.7% / 2MM 17.7% (lower than Chilean; ethnic variability anchor)
 - [[endodontics/anatomy/bello-2018-mb2-detection-loupe-microscope-cbct]] — Mariana De Carlo Bello 2018 · in-vitro · 4-method diagnostic accuracy (n=147 extracted molars) — CBCT and 16× microscope equivalent to sectioning reference (sens/spec 0.88); loupe/naked-eye inferior
 - [[endodontics/anatomy/chen-2016-diagnosis-treatment-odontogenic-cutaneous-sinus]] — case report: pediatric odontogenic cutaneous sinus tract resolved by RCT + granuloma debridement
+- [[endodontics/anatomy/yu-2012-cbct-mandibular-premolars-root-canal-morphology]] — Yu 2012 · cross-sectional · CBCT of 356 mandibular premolars (149 western Chinese pts): 1st premolars 98% one-rooted (Vertucci I 86.8%, V 9.8%); C-shaped canals 1.1% (1st) / 0.6% (2nd) (DOI 10.1186/1471-2342-12-18)
+- [[endodontics/anatomy/shemesh-2017-cshaped-canals-cbct-mandibular-molars]] — Shemesh 2017 · cross-sectional · CBCT of 1020 Israeli pts: C-shaped 4.6% (2nd molar) / 0.16% (1st molar), 55% unilateral, configuration changes along root in 63% (DOI 10.1007/s00784-016-1993-y)
+- [[endodontics/anatomy/shekarian-2023-cshaped-canals-three-rooted-mandibular-iranian]] — Shekarian 2023 · cross-sectional · CBCT of 292 Iranian pts (893 molars): C-shaped 1.7%/2%/2% (1st/2nd/3rd molars); three-rooted highest in 1st molars (2.7%), most molars two-rooted (DOI 10.1002/cre2.787)
+- [[endodontics/anatomy/singh-2022-cshaped-canal-second-molars-indian-cbct]] — Singh 2022 · cross-sectional · CBCT of 500 Indian pts: C-shaped 22% in 2nd molars (maxillary 25.1% vs mandibular 18.9%, NS); continuous/Cat 1 most common (52.7%) (DOI 10.4103/jcd.jcd_234_22)
+- [[endodontics/anatomy/abdalrahman-2022-cshaped-canal-second-molars-iraqi-cbct]] — Abdalrahman 2022 · cross-sectional · CBCT (368 mand + 369 max 2nd molars, Iraqi): C-shaped 17.4% mandibular vs 7.9% maxillary; female-predominant (23% vs 10.4%, p=0.001); C2 dominant (56.3%) (DOI 10.1155/2022/4886993)
+- [[endodontics/anatomy/armenta-2024-cshaped-canal-radix-mandibular-molars-mexican-cbct]] — Armenta 2024 · cross-sectional · CBCT (2173 mandibular molars, Mexican): C-shaped 0.2% first vs 14.1% second; female OR 1.78 (p=0.004); C2 dominant (39.3%); radix entomolaris 3.4%/1.4% (DOI 10.3390/dj12070212)
+- [[endodontics/anatomy/brea-2021-cbct-cshaped-mandibular-premolars]] — Brea 2021 · cross-sectional · CBCT (380 first + 308 second mandibular premolars, Venezuelan): 19.2% C-shaped overall, 83.3% in first premolars; C3 dominant in first (59.1%); no gender difference (DOI 10.1186/s12903-021-01596-y)
+- [[endodontics/anatomy/yousefi-2025-cshaped-canal-prevalence-cbct-sr-ma]] — Yousefi 2025 · sr+ma · 101-study CBCT SR+MA (5548 screened): C-shaped highest in mandibular 2nd molar (17.3%), lowest maxillary 1st molar (0.8%); female 23.6% vs male 16.7%; Asian-predominant (DOI 10.1186/s12903-025-06946-8)
+- [[endodontics/anatomy/fernandes-2014-cshaped-root-canal-configuration-review]] — Fernandes 2014 · narrative-review · Narrative review (1979–2012) of etiology, incidence, anatomy, classification (Melton/Fan), diagnosis & management of C-shaped canals, predominantly mandibular second molars (DOI 10.4103/0972-0707.136437)
+- [[endodontics/anatomy/biswas-2023-see-through-c-case-series]] — Biswas 2023 · case-report · Case series (n=2) of mandibular 2nd molar C-shaped canals (C1/C2) managed under microscope with ultrasonic irrigation, MTA apical plug, thermoplasticized GP; asymptomatic at 1y (DOI 10.4103/jcd.jcd_322_23)
+- [[endodontics/anatomy/wei-2025-cshaped-mandibular-first-molar-case]] — Wei 2025 · case-report · CBCT-confirmed bilateral C-shaped mandibular FIRST molars — first reported first molar with four separate canals (2 mesial + 2 distal) in a single fused C-shaped root (DOI 10.1186/s12903-025-06060-9)
 
 ### endodontics/shaping (NEW subcategory, added 2026-05-28, batch f)
 
@@ -1576,12 +1589,16 @@ tags: []
 - [[endodontics/shaping/almohareb-2023-cyclic-fatigue-niti-autoclave]] — Rahaf A. Almohareb 2023 · in-vitro · Cyclic fatigue (n=60) — EdgeTaper Platinum > PTG ≈ TruNatomy; only ETP strengthened by 1/10 autoclave cycles
 - [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] — Taha Özyürek 2017 · in-vitro · ProTaper Universal/Next/Gold cyclic fatigue (n=240) — PTG > PTU+PTN baseline; 10× pre-autoclave raises NCF for PTN and PTG
 - [[endodontics/shaping/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue]] — Wafaa A. Khalil 2019 · in-vitro · EdgeEvolve vs PTG — EdgeEvolve superior fatigue/flexibility/surface smoothness in single and double curvature; equivalent Ni/Ti content
+- [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]] — Siqueira 2018 · narrative-review · Instruments leave ~10–50% of round/small canals and up to 80% of oval/flattened canals unprepared (worse apically), sheltering biofilm that drives post-treatment AP; rationale for supplementary disinfection (DOI 10.1590/1807-3107bor-2018.vol32.0065)
 
 ### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
 
 - [[endodontics/irrigation/wong-2015-treatment-outcomes-single-visit-versus]] — Wong 2015 · rct · n=220 teeth, 29개월 추적 — 단일방문 vs 다중방문 성공률 동등(88.9% vs 87.4%); 단일방문 시술시간 유의 단축(62 vs 93분); 예후인자: 상악 위치·술전 근단 치주염 부재
 - [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]] — Mergoni 2022 · sr+ma · Cochrane pub4, 47 RCTs, n=5,805 — 방사선학적 실패 동등(RR 0.93, moderate); 단일방문 1주 내 통증 소폭 증가(RR 1.55); 생활치 subgroup 통증 위험 더 높음(RR 2.16)
 - [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]] — Schwendicke 2017 · sr+ma · SR+MA+TSA, BMJ Open — 장기 합병증·통증 동등(RR 1.00/0.99); flare-up RR 2.13(TSA 미충족, 결론 유보); 근관내 medication nullifier
+- [[endodontics/visit-protocol/bobba-2026-single-multiple-visit-rct-apical-periodontitis]] — Bobba 2026 · rct · Single- vs multiple-visit RCT, PAI healing in single-rooted teeth w/ apical periodontitis (n=30); no significant difference (93.3% vs 86.7% success at 12mo) (DOI 10.4103/jpbs.jpbs_1567_25)
+- [[endodontics/visit-protocol/chaitanya-2024-postoperative-pain-single-multiple-visit-rct]] — Chaitanya 2024 · rct · Post-op pain (VAS 24/48/72h) + 6/12mo healing, single vs multiple visit RCT (n=100); no significant pain difference (DOI 10.4103/jpbs.jpbs_281_24)
+- [[endodontics/visit-protocol/karaoglan-2022-single-two-visit-retreatment-periapical-rct]] — Karaoğlan 2022 · rct · Single- vs two-visit root canal RETREATMENT in teeth w/ periapical lesions (n=100, 24mo); no significant healing difference (88.6% vs 86.7%) (DOI 10.1111/iej.13758)
 
 ### implants/surface (added 2026-05-28, batch f)
 
@@ -1874,6 +1891,8 @@ tags: []
 - [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] — Formalizes the PSD model with interspecies signaling (Ptk1/Ltp1/CdhR), driver–passenger pathobiont dynamics, as a generalizable framework for polymicrobial inflammatory disease (2015)
 - [[oral-microbiology/lamont-2018-oral-microbiota-dynamic-communities-host]] — Nat Rev Microbiol synthesis unifying periodontitis and caries dysbiosis, ~1,000-species oral ecology, C. albicans inter-kingdom synergy, and oral–systemic disease links (RA, CAD, OSCC) (2018)
 - [[oral-microbiology/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer]] — Critical review of F. nucleatum in OSCC: STAT3/cyclin D1/MMP-9 carcinogenesis mechanisms and paradoxical favorable prognosis with Fn positivity (2021)
+- [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]] — Socransky 1998 · cross-sectional · Landmark survey (185 subjects, 13,261 samples, 40 taxa, checkerboard DNA-DNA hybridization) defining five subgingival complexes; red complex (P. gingivalis, T. forsythia, T. denticola) most tied to pocket depth/BOP (DOI 10.1111/j.1600-051X.1998.tb02419.x)
+- [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]] — Costerton 1999 · narrative-review · Seminal Science review establishing matrix-encased biofilms and their inherent antibiotic/host-defense tolerance as the root cause of most persistent/chronic infections, incl. caries and periodontitis (DOI 10.1126/science.284.5418.1318)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
 - [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] — In-vitro stylus profilometry showing Coca-Cola (pH 2.67) most erosive short-term, orange juice equally erosive at ≥30 min, yoghurt non-erosive; titratable acidity as important as pH (2015)
@@ -1887,6 +1906,12 @@ tags: []
 
 **endodontics/irrigation**
 - [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — Commissioned IEJ review: NaOCl + EDTA remain the evidenced irrigation standard; no adjunct activation method has demonstrated improved long-term RCT outcomes (2022)
+- [[endodontics/irrigation/varadan-2025-multisonic-ultrasonic-irrigant-biofilm-sr]] — Varadan 2025 · sr · SR (3 in-vitro, multispecies biofilm): GentleWave multisonic achieved bacterial reduction similar to passive ultrasonic — multisonic did not consistently outperform ultrasonic (DOI 10.7759/cureus.80938)
+- [[endodontics/irrigation/fiegler-rudol-2025-eryag-laser-root-canal-disinfection-sr]] — Fiegler-Rudol 2025 · sr · SR (15 studies): Er:YAG laser-activated irrigation (PIPS/SWEEPS) consistently improved disinfection, biofilm disruption, smear-layer removal over conventional/ultrasonic; heterogeneous protocols limit pooling (DOI 10.3390/dj13030101)
+- [[endodontics/irrigation/usta-2026-gentlewave-irrigation-disinfection-sr]] — Usta 2026 · sr · SR (12 in-vitro, QUIN): GentleWave gave significantly higher LPS/LTA reduction than PUI and generally better biofilm/smear removal, but superiority inconsistent; cost/heterogeneity limit interpretation (DOI 10.1186/s12903-026-07688-x)
+- [[endodontics/irrigation/gupta-2025-endodontic-irrigants-activation-systematic-review]] — Gupta 2025 · sr · SR (2015–2025) of emerging irrigants (nanoparticle/herbal/photoactivated) + activation systems: improved antimicrobial/biofilm/smear vs NaOCl/EDTA but unproven long-term clinical/healing benefit (DOI 10.4103/jpbs.jpbs_573_25)
+- [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]] — Ardila 2026 · sr+ma · SR + interpretive synthesis + exploratory MA (12 studies) vs E. faecalis: antibiotic pastes (esp. TAP) strongest, Ca(OH)₂ variable, nanoparticles heterogeneous; pooling limited to 2 studies, certainty low–moderate (DOI 10.3389/froh.2026.1854046)
+- [[endodontics/irrigation/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr]] — Shunmugavelu 2025 · sr · SR (2020–2024) of intracanal medications for periapical-abscess control/healing: CH ~99.5% microbial reduction, TAPC/nano superior 48-h pain relief, Ledermix fastest for acute AP, CBCT large lesions ~76% healing (DOI 10.3205/dgkh000592)
 
 **endodontics**
 - [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
@@ -2144,3 +2169,5 @@ tags: []
 - [[overviews/gbr-barrier-membrane-overview]] — GBR 차폐막 분류·가교화 전략·PASS 원칙·차세대 programmable membrane 종합 (7편 신규)
 - [[overviews/socket-preservation-arp-overview]] — 발치와 보존술(ARP) 소켓 분류·bundle bone 기전·이식재 선택·PRF·임플란트 충분성 종합 (8편 신규)
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM·골대체재 흡수특성·BCP vs DBBM·PRF 보조·BMP2/BioCaP 종합 (9편 신규)
+- [[overviews/c-shaped-canal-anatomy-prevalence-overview]] — **NEW Overview**: C형 근관 유병률·지역·성별 매트릭스 종합 (12편). 하악 2대구치 17.3% 최다(Yousefi 101-study SR+MA), 상악 1대구치 0.8% 최저; 여성·아시아 우세, Fan C2 dominant; song-2008 박층 협측벽 천공 위험·isthmus 소독 임상 함의 (2026)
+- [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — **NEW Overview**: 단일 vs 다회 방문 근관치료 치유·통증 결과 종합 (5편). 방사선 치유·통증 임상적 유의차 없음(Mergoni Cochrane 47 RCT + Bobba·Chaitanya·Karaoğlan RCT); 단일방문 초기 통증 소폭↑(생활치 RR 2.16), Rossi-Fedele는 단일방문 치유 소폭 우위(RR 1.10) (2026)
