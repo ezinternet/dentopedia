@@ -12,6 +12,7 @@ source_papers:
   - drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma
   - drug/wagner-2022-diabetes-mellitus-dental-implants-sr
   - drug/shahi-2026-implant-outcomes-diabetes-mellitus-sr
+  - drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction
   - drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology
   - drug/nathan-2008-translating-a1c-assay-estimated-average
   - drug/weykamp-2013-hba1c-review-analytical-clinical-aspects
@@ -29,6 +30,9 @@ source_papers:
   - drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry
 confidence: synthesis
 source: synthesis
+relations:
+  - type: reinforces
+    target: maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
@@ -106,6 +110,8 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 - **조절 DM은 임플란트 contraindication 아님**
 
 [claude해석] **Shahi 2026 SR** (BMC Oral Health, article-in-press) — Al-Ansari 2022 SR-MA의 직접 후속으로 post-2022 DM 임플란트 근거를 갱신. 현재 unedited 버전이라 pooled estimate는 final PDF 확정 대기 — 본 overview의 주 수치는 Al-Ansari 2022 OR 1.78을 유지하고, 정식 출판 후 재감사(re-audit) 대상. [미검증] 정량 결론은 final 버전에서 변동 가능.
+
+[prospective/case-control] **Maftei 2021** (n=86: 45 healthy vs 41 T2DM, paired pre/post-extraction) — [[drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] showed that salivary RANKL was a near-perfect non-invasive predictor of HbA1c >6.5% (AUC 0.999, cut-off 15 pg/mL), and that three months after tooth extraction HbA1c fell significantly in the DM group (7.98% → 7.62%, p=0.05) alongside a drop in TNF-α, with post-extraction total oxidant status (TOS) positively correlating with HbA1c (r=+0.777) and total antioxidant capacity (TAC) negatively (r=−0.475). Single-center case-control; associations not causality — the HbA1c drop cannot be attributed to extraction alone.
 
 → **임상 적용**:
 - HbA1c <7.0% — 정상에 준한 임플란트 가능
@@ -304,6 +310,7 @@ NRS (Numeric Rating Scale)를 outcome으로.
 - [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — DM 임플란트 실패 OR 1.78 SR-MA
 - [[drug/wagner-2022-diabetes-mellitus-dental-implants-sr]] — 조절 DM = 정상 동등 SR
 - [[drug/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — DM implant outcome 최신 SR(2026 in-press), al-ansari 후속·정량 결과 재확인 보류
+- [[drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — T2DM 발치 전후 타액 8종 마커·HbA1c case-control; RANKL AUC 0.999, 발치 후 HbA1c·TNF-α 유의 감소
 
 ### HbA1c 해석
 - [[drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — HbA1c 간섭 3분류

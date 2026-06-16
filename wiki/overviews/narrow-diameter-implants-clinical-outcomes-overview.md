@@ -11,6 +11,13 @@ source_papers:
   - wiki/implants/pachiou-2025-narrow-diameter-implants-fixed-posterior.md
   - wiki/implants/park-2023-narrow-regular-diameter-mandibular-overdentures.md
   - wiki/implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
+  - wiki/implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants.md
+  - wiki/implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic.md
+relations:
+  - type: extends
+    target: witek-2021-surgical-instrumentation-narrow-wide-short-implants
+  - type: refines
+    target: diehl-2022-narrow-diameter-implant-stability-hyperglycemic
 ---
 
 ## 한국어 핵심요약
@@ -64,18 +71,21 @@ Decision logic in prose:
 1. **Indication sets the default.** In the esthetic anterior maxilla and in atrophic edentulous mandibles for overdentures, NDIs are a strong first choice — equal hard-tissue outcomes plus an esthetic-complication or PROM advantage over the augmentation/RDI alternative. [근거강함 survival; 합의수준 PROM]
 2. **Material matters in load-bearing sites.** For posterior fixed prostheses, prefer titanium-zirconium (Roxolid) NDIs — the alloy is what makes posterior survival match RDIs (Cao 2023; Pachiou 2025 material-independent). [합의수준]
 3. **The residual risk is technical, not survival.** In posterior load-bearing use plan for screw loosening / fracture / detachment (up to 23.5%): control occlusion, manage parafunction, and verify component fit rather than fearing implant loss. [근거강함]
-4. **Biological-complication uncertainty is the live gap.** Because peri-implantitis data for NDIs are unpooled, maintain standard peri-implant surveillance and avoid over-extending NDIs in high biological-risk patients. [미검증]
+4. **Biological-complication uncertainty is the live gap.** Because peri-implantitis data for NDIs are unpooled, maintain standard peri-implant surveillance and avoid over-extending NDIs in high biological-risk patients. [미검증] A notable exception on systemic risk: [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] (prospective case–control, n=32 patients / 48 NDIs, 3 months) found that 3.3 mm SLActive TiZr NDIs achieved equivalent ISQ at Month 3 in uncontrolled T2DM (HbA1c mean 7.34%) vs. normoglycemic controls (63.84 ± 6.05 vs. 63.84 ± 6.18; no between-group difference at any time point, no HbA1c–ISQ correlation), suggesting that hyperglycemia per se — at least up to ~HbA1c 8.1% — does not preclude NDI use when a hydrophilic SLActive surface is employed. [합리적 근거; HbA1c >8.1% 미검증]
 
 ## Gaps & Future Research
 - **Long-term data.** Most pooled follow-up is ≤36 months; decade-horizon NDI survival and MBL (especially for posterior load-bearing) are largely unproven.
 - **Biological complications.** Pachiou 2025 could not pool biological complication / peri-implantitis data — the single biggest evidence gap for NDIs.
 - **NDI vs mini-implant boundary.** Overdenture syntheses blur the <3.0 mm mini-implant vs 3.0–3.5 mm NDI distinction; outcomes may not transfer across that line.
 - **Direct NDI-vs-(RDI+graft) head-to-head in the posterior region.** Anterior data exist (Zhang 2024); the posterior graft-avoidance comparison is still indirect.
+- **Drilling protocol optimisation for narrow implants.** [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] (in-vivo sheep, 144 plateau-root-form implants, 3.5 mm narrow vs. 6.0 mm wide, 3 × 2 factorial RPM × irrigation design) shows that irrigation is most critical for narrow implants at low speed (50 RPM BIC: 30.6 ± 6.1% with irrigation vs. 19.7 ± 6.1% without; significant), whereas wide implants benefit more at higher speeds (500–1,000 RPM); BAFO was driven only by healing duration (3 vs. 6 weeks), not by any instrumentation variable. The SR/MA evidence base reviewed here does not address osteotomy protocol — pending clinical RCT translation of these diameter-specific drilling sensitivities.
 
 ## Related Papers
 - [[implants/zhang-2024-narrow-regular-diameter-anterior-maxilla]] — esthetic anterior maxilla; NDI ≈ RDI+graft, fewer soft-tissue dehiscences.
 - [[implants/pachiou-2025-narrow-diameter-implants-fixed-posterior]] — largest posterior fixed-restoration dataset; survival ~97%, technical complications dominate.
 - [[implants/park-2023-narrow-regular-diameter-mandibular-overdentures]] — mandibular overdentures; equal survival, superior PROMs.
 - [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Ti-Zr single crowns; equal to cpTi, the enabling alloy.
+- [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — in-vivo sheep study; diameter-specific RPM × irrigation interactions on BIC; extends to surgical technique dimension absent in SR/MA evidence above.
+- [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — prospective case–control; 3.3 mm SLActive TiZr NDI ISQ in uncontrolled T2DM; refines biological-risk decision point.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — companion graft-avoidance overview (short-implant axis).
 - [[overviews/implant-length-selection-why-not-always-short]] — parallel dimension-selection reasoning for length.

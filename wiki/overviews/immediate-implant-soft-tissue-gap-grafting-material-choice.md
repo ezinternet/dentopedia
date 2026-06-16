@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [overview, immediate-implant, soft-tissue-augmentation, gap-grafting, connective-tissue-graft, collagen-matrix, bone-substitute, esthetic-zone, decision-framework]
+relations:
+  - type: reinforces
+    target: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma
 ---
 
 ## 한국어 핵심요약
@@ -57,6 +60,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 | [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] | rct | esthetic zone | gap (hard) | Gap grafting preserves buccal contour (anchor RCT). |
 | [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] | sr+ma | 15 RCT / n=577 | gap (hard) | Socket grafting reduces buccal bone loss; gap ≥2 mm threshold. |
 | [[immediate-implant/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]] | sr+ma | 12 studies | soft | SCTG vs others: BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11 mm — strongest soft-tissue anchor. |
+| [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] | sr+ma | 7 studies / 272 pt | soft | SCTG at IIPP: MBML −0.54 mm recession (WMD, p<0.001), FSTT +0.79 mm (WMD, p<0.001), MBL −0.13 mm (WMD, p<0.001) at 12 months; I²=0–16%. |
 | [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] | sr+ma | esthetic zone | soft | CTG reduces midfacial recession ~0.4–0.7 mm. |
 | [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] | sr+ma (NMA) | 21 RCT | soft | Bayesian ranking: CTG > PRF/allo/xeno collagen matrices. |
 | [[immediate-implant/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | 5 RCT / 245 pt | soft | CTG maintains gingival level (MD 0.09 mm, NS trend) — level-keeping, not volume-adding. |
@@ -76,7 +80,7 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 3. Weigh the **complication signal**: BSM use raised overall complications (RR 3.50, low certainty) — counsel and monitor (Zaki 2021). [근거약함→주의]
 
 **Axis 2 — Soft-tissue augmentation (facial mucosa):**
-1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). [근거강함]
+1. Thin phenotype / high esthetic demand → **autogenous SCTG is first choice** (BTT +0.74, MGL +0.5, PES +0.79, MBL −0.11; Aldhohrah 2022; ranked #1 in Azadi 2025 NMA). An independent SR+MA of 7 studies (n=272) focused on IIPP confirms: SCTG reduces mid-buccal mucosal recession by WMD 0.54 mm, increases FSTT by WMD 0.79 mm, and reduces marginal bone loss by WMD 0.13 mm at 12 months, all with low heterogeneity (I²=0–16%) — [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]]. [근거강함]
 2. To avoid a donor site → **xenogeneic collagen matrix** is a reasonable substitute (≈ SCTG for FSTT/level; De Angelis 2021), though autograft retains a consistent non-significant edge (Thoma 2021 EAO). [근거중간]
 3. CTG **maintains** the gingival level rather than increasing volume (Torra-Moneny 2024) — set expectations accordingly. [근거중간]
 4. A **customized healing abutment alone is insufficient** to hold midfacial contour in thin sites (Fettouh 2024: −1.54 mm recession vs −0.74 with CTG). [근거중간 RCT]
@@ -96,3 +100,4 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — PSTD risk assessment and prevention
 - [[overviews/immediate-implant-decision-ladder]] — parent 5-axis immediate-implant decision spine
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — when to place (timing) before deciding how to graft
+- [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): pooled SCTG effect at IIPP (MBML −0.54 mm, FSTT +0.79 mm, MBL −0.13 mm)

@@ -8,6 +8,9 @@ confidence: synthesis
 source_collection: internal
 tags: [overview, dentin-hypersensitivity, DH, hydrodynamic-theory, NCCL, treatment-ladder, postop-sensitivity, korean-clinical-application]
 source: synthesis
+relations:
+  - type: extends
+    target: kaur-2026-dentin-hypersensitivity-enigma-revisited
 ---
 
 ## 한국어 핵심요약
@@ -52,6 +55,8 @@ Odontoblast / pulp 신경 자극
 ```
 
 **Synthesis [claude해석]:** Hydrodynamic theory는 단일 가설이지만 분야 합의에 가깝다. 임상 의사결정의 본질적 결과 — **치료의 두 축은 "관 폐쇄 (tubule occlusion)" 또는 "신경 탈민감화 (nerve desensitization)"** — 본 이론에서 자연 도출된다. 모든 treatment option (KNO3·NovaMin·arginine·varnish·laser·resin sealant)은 이 두 축 중 하나 또는 둘에 작용한다. [근거강함]
+
+[[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] extends the mechanism picture beyond hydrodynamics: peripheral sensitization via upregulated TRP receptors (TRPV1), substance P, and CGRP explains persistent symptoms even after tubule occlusion, and odontoblasts — which express TRP family members and voltage-gated Na channels — may act as primary mechanosensory transducers before nerve activation. This neuroplasticity layer predicts why tubule-occlusion alone sometimes fails and nerve-desensitization agents (potassium nitrate) remain necessary adjuncts. [합의수준: narrative, 임상 근거 부분적]
 
 ### DH vs 균열치 (cracked tooth) 감별
 
@@ -216,6 +221,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 - [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] — Scoping: 368 탈감작 치약 제형 지도
 - [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]] — Narrative: 관리 전략, 환자 동기+술자 지식
 - [[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]] — Review: 물리·화학·시너지 tubule-sealing 전략
+- [[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] — Narrative review: mechanism integration (neuroplasticity, TRP/CGRP, odontoblast mechanosensory), stepwise diagnosis, biomimetic/nanotech strategies (nHAp, SAP, CalBots 387 ± 55 nm), Triple-C recall framework
 
 ### Related categories
 - [[caries/jkda-2023-61-7-004]] — fluoride varnish 제품 비교 (2차 in-office 옵션)

@@ -1029,6 +1029,7 @@ tags: []
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — In vivo 마우스 + scRNA-seq(JBMR 2025, MGH/Harvard Wein lab): SIK2/SIK3(PTH/PTHrP 하류 kinase) 조건 결손 — 치조골 osteoblast 성숙·BV/TV·발치와 치유 모두 저하; 치조골 osteoblast가 long bone osteoblast와 다른 cluster임을 scRNA-seq로 입증. SIK 억제제·intermittent PTH가 ARP 약리 보조 후보가 될 preclinical rationale.
 
 ## 종합 (Overviews)
+- [[overviews/bms-orofacial-pain-neuropathic-mechanism-overview]] — synthesis(2026-06-16, 5편): BMS·구강안면통증 신경병성 기전 substrate 지도 — 두 축(NKCC1/KCC2 Cl⁻ 항상성 탈억제[price-2009·wilke-2020] + 정량화된 말초 소섬유신경병증 IENFD 30~60%↓·Nav1.7↑[kouri-2024 PRISMA SR]); 같은 Cl⁻ 통로가 척수=억제·말초=흥분으로 역전; 신경스테로이드→T-type Ca²⁺(CaV3.2) 차단이 1차 말초진통, GABA-A는 증폭만[pathirathna-2005]; 말초형(국소 clonazepam 반응) vs 중추형(도파민 결핍·정신과 동반)[jaaskelainen-2018]. 임상 결정은 oral-medicine-decision-ladder 우선, 본 페이지는 그 기전 backbone
 - [[overviews/unilateral-mastication-occlusal-load-alveolar-bone-density]] — synthesis(2026-06-14, 6편): 편측저작·교합부하 → 치조골 밀도 — 작업측 치조골이 비작업측보다 치밀(Lee 2018 CBCT: 견치~대구치 p<0.05, 하악 대구치 최대 ~100 HU, 절치부 n.s.); 기전은 부하가 치조골 유지(Chen 2023 PDL type H 혈관)·부하 상실이 가역적 폐용성 골다공증(Xu 2016 sclerostin/RANKL↑·BV/TV↓, Liu 2015 가역, Hayashi 2014 LLLT 회복); 단 치조골(load-positive)과 작업측 과두(축소·변위, Zheng 2023)는 별개 축
 - [[overviews/bone-quality-implant-risk-modification-overview]] — synthesis(2026-06-09, 10편): 골질을 위험 축으로 묶음 — Lekholm-Zarb I–IV / Misch D1–D4, type IV ~1.5–1.9× 실패(ISQ 58–65 vs 72–80), 치조정 피질골 두께가 안정성 핵심, 수정 레버(under-drill·tapered·diameter>length·OD·bioactive surface·delayed loading), 전신/병적 골(골다공증·골경화성) 확장
 - [[overviews/narrow-diameter-implants-clinical-outcomes-overview]] — synthesis(2026-06-10, 4편): NDI(<3.75mm) 적응증별 종합 — 전치부 상악·구치부 고정성보철·하악 피개의치·TiZr 단일크라운 모두 RDI와 생존·MBL 동등, PROM·심미합병증은 NDI 우위. 핵심 논리는 "골증대 회피"; 잔여 리스크는 생존 아닌 technical 합병증(≤23.5%), biological 데이터 공백
@@ -1061,6 +1062,7 @@ tags: []
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
+- [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA(55편, n=41,231): 구강백반증 악성전환률 pooled 6.64%(95% CI 5.21–8.21); 비균질형(NHOL) RR 4.23·이형성 RR 2.75·측설부 12.71%; 흡연 RR 1.64; 시간 안정적(p=0.75) — OL 악성전환 추정의 최대 SR+MA (2025)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
 - [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — WHO 구강암 협력센터 OPMD 명칭·분류 국제 합의 — 잠재적 악성 장애 표준화.
 - [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — OPMD 위험인자부터 치료까지 개요 — 각 병소별 악성전환 위험도 및 치료 옵션 비교.

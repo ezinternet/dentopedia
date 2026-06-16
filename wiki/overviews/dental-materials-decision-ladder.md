@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [dental-materials, zirconia, cad-cam, amalgam, composite, bonding, cement, decision-ladder, overview]
+relations:
+  - type: extends
+    target: melo-2023-bioactive-dental-resins-restorative-dentistry
 ---
 
 ## 한국어 핵심요약
@@ -130,6 +133,8 @@ tags: [dental-materials, zirconia, cad-cam, amalgam, composite, bonding, cement,
 
 **오판 패턴**: "복합레진은 어려운 술식이라 아말감으로 가자" — Al-Sulimman 2025에서 차이 통계적 NS. 술자 기술·격리·접착 충실도가 재료 차이보다 크다. [근거강함]
 
+**Bioactive resin frontier — secondary caries prevention.** Secondary caries is the leading cause of composite failure (annual failure rate ~4.6%/y in high-caries-risk vs ~1.6%/y in low-risk patients over 10 y). Bioactive filler strategies — quaternary ammonium monomers (QAMs: DMAHDM 5% + NACP 20%) reduce total CFU and key periopathogens (P < 0.05 vs. control in plaque-derived microcosm biofilm models); metal-oxide nanostructures (ZnO, TiO₂) add remineralization but require high concentrations that compromise flexural strength; MDPB remains the only commercially available antimicrobial monomer (Clearfil Protect Bond). Formulation hurdles — agglomeration, color change, hydrolytic degradation — currently limit clinical translation: no head-to-head clinical RCTs yet. See [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] for the full agent taxonomy and translational barriers. [합의수준 — narrative review, bench data only]
+
 ### 축 4 — 시멘트 선택 (Self-adhesive vs Adhesive Resin)
 
 **1차 권고**: 단관·인레이는 adhesive resin cement (Panavia V5, RelyX Ultimate) + primer. 자가접착 (TheraCem·RelyX U200·Clearfil SA) 은 단순 단관·짧은 abutment에서 합리적. [합의수준]
@@ -181,6 +186,7 @@ tags: [dental-materials, zirconia, cad-cam, amalgam, composite, bonding, cement,
 - [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] — 아말감 vs 레진 SR+MA
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — big data 비교
 - [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] — 후방부 수명 SR
+- [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — bioactive resin: QAM·NACP·금속산화물 나노구조, 이차우식 예방 전략 + 임상 번역 장벽
 - [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] — SARC 비교
 - [[dental-materials/shokry-2022-zirconia-crown-primer-cement-retention]] — Panavia+CCP 매칭
 - [[dental-materials/shely-2024-self-adhesive-cements-zirconia-lithium]] — SARC 변연적합

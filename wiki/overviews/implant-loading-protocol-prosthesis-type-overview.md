@@ -5,7 +5,7 @@ year: 2026
 date: 2026-06-07
 type: overview
 category: [overviews]
-tags: [implant-loading, immediate-loading, delayed-loading, conventional-loading, early-loading, overdenture, full-arch, single-crown, tilted-implant, marginal-bone-loss, primary-stability, ISQ, insertion-torque, noninferiority, provisionalization]
+tags: [implant-loading, immediate-loading, delayed-loading, conventional-loading, early-loading, overdenture, full-arch, single-crown, tilted-implant, marginal-bone-loss, primary-stability, ISQ, insertion-torque, noninferiority, provisionalization, multiple-unit-fdp, fixed-dental-prosthesis]
 source_papers:
   - implants/benic-2014-loading-protocols-single-implant-crowns-sr-ma
   - implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma
@@ -13,8 +13,12 @@ source_papers:
   - implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma
   - implants/kern-2018-single-implants-edentulous-mandible-immediate
   - immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective
+  - implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
 confidence: synthesis
 source: synthesis
+relations:
+  - type: extends
+    target: aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
 ---
 
 ## 한국어 핵심요약
@@ -28,6 +32,7 @@ source: synthesis
 > - 취약 구성 1 — 단일 정중 하악 임플란트 오버덴처(Kern 2018 RCT): 즉시부하 비열등성 입증 실패, 조기실패 9건 전부 3개월 내 집중 → 즉시부하 금기에 가까움, 지연부하 권장. [근거강함]
 > - 취약 구성 2 — 신선 발치와 즉시식립+즉시 임시보철(Donker 2025, prospective n=30): 1년 생존 90%(조기실패 3), 심미 양호(PES+WES 15.4/20)이나 1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수, 일반화 금지.
 > - 임상 결정: 단관은 안정성 충족+동시 GBR 없으면 즉시부하, 미달이면 통상부하 회귀.
+> - 다수 임플란트 지지 고정성 국소의치(Multiple-unit Fixed Dental Prosthesis, FDP)(Aiquel 2021, SR+MA 14편): 지연식립-즉시부하(Delayed Placement Immediate Loading, DPIL) 97.2% vs 지연식립-지연부하(Delayed Placement Delayed Loading, DPDL) 98.1% — 동등(p=.227); 즉시식립-즉시부하(Immediate Placement Immediate Loading, IPIL)만 90% 미만 유일 해당; GRADE 근거 매우 낮음. 복수 임플란트 연결(cross-arch splinting)이 즉시부하 비열등성을 뒷받침하는 기전으로 추정.
 > - 공백: 단일 임플란트 오버덴처 즉시부하 RCT 희소, full-arch 장기(>5년) 비교 부재, 로딩 타이밍×골질(D1–D4) 교호작용 미검증.
 > - 확신도: 단관 즉시부하·단일 오버덴처 금기 = [근거강함], full-arch·tilted·다수 오버덴처 = [합의수준], 즉시식립+즉시부하 선별 = [claude해석].
 
@@ -55,6 +60,7 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 | [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] | sr+ma (11 생존/7 MBL) | — | Atrophic edentulous maxilla (immediately loaded) | tilted=axial 3y 생존(RR 1.00, 0.98–1.01)·MBL(MD −0.02, −0.09~0.06) | sr+ma |
 | [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] | rct (24 mo, multicenter) | — | Single median mandibular implant overdenture | **즉시부하 비열등성 입증 실패**: 조기실패 9건(전부 <3개월) vs 지연 1건 | rct |
 | [[immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] | prospective case series | 30 (상악 심미부) | Immediate placement + provisionalization (digital) | 생존 90%(조기실패 3), PES+WES 15.4/20, MBL −0.18(M)/−0.44(D) mm, 만족도 9.2/10 | prospective |
+| [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] | sr+ma (14 studies, 21 cohort groups; 3 RCTs for MA) | 502 DPIL / 476 DPDL implants | Multiple-unit FDP (≥2 implants) | DPIL 97.2% vs DPDL 98.1% survival — **no significant difference** (p=.227); IPIL only protocol below 90% (90%); MBL numerically lower in DPIL (0.71 vs 1.68 mm) but between-study only; GRADE **very low** for all comparisons | sr+ma |
 
 ## Clinical Decision Points
 
@@ -66,7 +72,9 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
    - **다수(2개 이상) 임플란트**: 즉시 ≈ 지연부하 MBL 동등하나 즉시부하 실패율이 수치상 높음 → 안정성 확인 후 시행 (Liu 2021). [합의수준]
    - **단일 정중 임플란트**: **즉시부하 금기에 가까움** — 비열등성 입증 실패, 조기실패가 3개월 내 집중(Kern 2018). 하중분산 부재가 원인으로 추정. 단일 임플란트 오버덴처는 지연부하 권장. [근거강함]
 
-4. **신선 발치와 즉시식립 + 즉시 임시보철 (심미부)** — 디지털 워크플로(IOS+CBCT, static CAIS, 기성 임시치아)로 1년 생존 90%, 심미 양호(Donker 2025). 단 조기실패 3/30이 발생하므로 **1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수**, 모든 즉시식립에 일반화 금지. [claude해석] → [[overviews/immediate-implant-decision-ladder]]·[[overviews/type-1a-immediate-placement-immediate-loading-decision]] 연계.
+4. **다수 임플란트 지지 고정성 국소의치 (multiple-unit FDP, ≥2 implants)** — The only SR+MA restricted to splinted multi-unit FDPs ([[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]], 14 studies, 21 cohort groups) found DPIL (97.2%) and DPDL (98.1%) survival statistically equivalent (3-RCT MA p=.227), and IPIL was the sole protocol below 90% survival (90%, n=20); however GRADE certainty is VERY LOW and EP-based protocols (EPIL/EPEL/EPDL) have no adequate representation in the multiple-unit FDP literature. Cross-arch splinting is likely the mechanism for the DPIL non-inferiority result relative to the unsplinted single-overdenture failure mode (Kern 2018 above). [합의수준 — GRADE very low]
+
+5. **신선 발치와 즉시식립 + 즉시 임시보철 (심미부)** — 디지털 워크플로(IOS+CBCT, static CAIS, 기성 임시치아)로 1년 생존 90%, 심미 양호(Donker 2025). 단 조기실패 3/30이 발생하므로 **1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수**, 모든 즉시식립에 일반화 금지. [claude해석] → [[overviews/immediate-implant-decision-ladder]]·[[overviews/type-1a-immediate-placement-immediate-loading-decision]] 연계.
 
 ## Gaps & Future Research
 
@@ -83,6 +91,7 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 - [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — 위축 상악 tilted/axial 즉시부하 SR+MA
 - [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] — 단일 정중 임플란트 즉시부하 비열등성 RCT (반례)
 - [[immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — 디지털 즉시식립+즉시 임시보철 prospective
+- [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — 다수 임플란트 지지 고정성 국소의치 로딩 타이밍 SR+MA (ITI S5 동반 논문)
 
 ## Related Overviews
 
@@ -96,4 +105,5 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 - 단관 즉시부하(안정성 충족) = [근거강함] (Benic SR+MA)
 - full-arch·tilted = [합의수준] (Abdunabi SR 약근거, Mehta SR+MA)
 - 다수 오버덴처 = [합의수준] / 단일 오버덴처 금기 = [근거강함] (Kern RCT)
+- 다수 임플란트 지지 FDP 즉시부하 = [합의수준 — GRADE very low] (Aiquel SR+MA)
 - 즉시식립+즉시부하 선별 = [claude해석] (Donker prospective, 단일군)

@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [ceramic-bonding, hf-etching, silane, contamination, resin-cement, lithium-disilicate, feldspathic, overview]
+relations:
+  - type: reinforces
+    target: alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr
 ---
 
 ## 한국어 핵심요약
@@ -212,6 +215,12 @@ If restoration has been tried in (saliva + try-in paste contamination):
 
 ---
 
+## Note on Alammar 2022 (Zirconia Contrast — Non-HF Pathway)
+
+All nine studies in this overview address **silica-based ceramics** (feldspathic, lithium disilicate, PICN) where HF etching is the foundation. Zirconia (Y-TZP) is chemically inert and cannot be HF-etched; its durable bonding pathway is fundamentally different. [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] (SR, 24 clinical studies) establishes that the optimal clinical protocol for zirconia-to-tooth/implant bonding is **airborne-particle abrasion (APA) or tribochemical silica coating (TBS APA) + MDP monomer-based primer + MDP or phosphoric ester monomer-based resin cement** — and, importantly, that skipping surface pretreatment did not affect clinical outcomes for certain zirconia restoration types on most abutment surfaces, suggesting that MDP primer chemistry alone can compensate in select scenarios. This directly contrasts with the silica-ceramic axis: here, surface pretreatment (HF etching) is non-negotiable for durable bond strength, while cement type is relatively secondary — for zirconia, the primer chemistry (MDP) is the critical variable, not a surface-acid step.
+
+---
+
 ## Note on Dhawan 2026 (Tangential Paper)
 
 [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] addresses adhesive system selection (total-etch vs. self-etch vs. self-adhesive) for glass fiber post cementation to root dentin — a fundamentally different substrate (dentin, not ceramic) with different bonding mechanisms. Self-etch adhesives achieved the highest push-out bond strength (131.03 N vs. 115.25 N vs. 75.04 N for TE and SA respectively; p=0.001). This paper's findings are NOT transferable to ceramic bonding contexts covered in this overview. It shares the resin-bonding category but addresses tooth-adhesive-post interfaces, not ceramic-silane-cement interfaces. See the paper's own page for clinical implications in endodontic prosthodontics.
@@ -230,3 +239,4 @@ If restoration has been tried in (saliva + try-in paste contamination):
 - [[resin-bonding/del-bianco-2025-lithium-disilicate-cleaning-bond-strength]] — MEP = HF re-etch after try-in contamination; Ivoclean insufficient
 - [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — 10% > 5% HF for feldspathic; etching time and PA neutralization are NS factors
 - [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] — tangential: fiber post-to-dentin bonding (SE > TE > SA); not a ceramic bonding paper
+- [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — SR (24 clinical studies): zirconia contrast pathway (APA/TBS APA + MDP primer); non-HF ceramic bonding where primer chemistry, not surface acid, is the critical variable

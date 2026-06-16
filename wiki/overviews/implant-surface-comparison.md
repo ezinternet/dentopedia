@@ -9,6 +9,11 @@ tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapa
 source_papers: 
 confidence: synthesis
 source: synthesis
+relations:
+  - type: reinforces
+    target: bonfante-2012-calcium-phosphate-coatings-plasma-spray
+  - type: extends
+    target: witek-2020-boronized-surface-osseointegration
 ---
 
 ## 한국어 핵심요약
@@ -79,7 +84,8 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **SA / SLA-like** | 산부식 알루미나 | 산업 표준 변형 | 중 |
 | **SLActive** | SLA + 질소 보관 + 식염수 | 친수성 유지 보관 | 고 |
 | **CA / Super-hydrophilic** | Calcium / Hydrophilic SA | Ca 처리 초친수 | 초고 |
-| **HA-coated** | Hydroxyapatite 코팅 | 결정질 HA | 화학적 결합 |
+| **HA-coated (PSHA/ACP)** | Plasma-sprayed HA / Amorphous CaP | 플라즈마 스프레이 결정질·비결정질 CaP | 화학적 결합 |
+| **Boronized** | TiB/TiB₂ surface (pack boriding) | 고온 고체확산 — 마모·부식 저항성 우수 | N/A (osseointegration-impaired) |
 | **UV-PF** | UV Photofunctionalization | 표면 UV 조사 (12–15분) | 초고 + 양전하 |
 
 ### 2.2 임상 결과 비교
@@ -93,6 +99,8 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **prospective (D3/D4)** | [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] | 나노 생체활성 | **Stability dip 제거** (T0=74.57 → T45=74.97 vs SLA T0=77.12 → T45=73.44, p<0.05) | 45일 |
 | **case-report** | [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] | UV-PF | 1–4주 조기부하 가능 | — |
 | **animal** | [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] | 나노 HA 코팅 | BIC·강도 조기·후기 모두 향상; 효과 표면 50 µm 이내 | 쥐 |
+| **animal** | [[implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]] | PSHA vs ACP (플라즈마 스프레이) | 결정성(71% HA vs <1%) 및 거칠기(Sa 3.22 vs 5.18 µm) 차이에도 불구하고 BIC·BAFO 6주·12주 동등 (P>0.86 / P>0.75) — 임플란트 매크로 형태(plateau root form)가 CaP 코팅 유형보다 골전도에 우선할 수 있음 | 비글 6마리, 36개, 6+12주 |
+| **animal** | [[implants/surface/witek-2020-boronized-surface-osseointegration]] | Boronized (BM·BAA) vs acid-etched control | BIC·BAFO 보론화군에서 시간이 지날수록 감소 (BAA BIC: 21.73%→5.93%, p<0.01; BAFO 3→6주 significant decline p<0.03), 대조군은 증가 — TiB/TiB₂ 표면에서 골 탈회(osteoid foci) 관찰, 기계적 특성 우수에도 골유착 저해 | 양 5마리, 40개, 3+6주 |
 
 **합성 결론** [근거강함]:
 
@@ -239,6 +247,8 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 ### 신규 추가 (2026-06)
 
+- [[implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]] — reinforces: plasma-spray PSHA (71% crystalline HA) vs ACP (<1% HA) — BIC/BAFO statistically equivalent at 6+12 weeks despite large physicochemical differences; macrogeometry may dominate over CaP coating type (animal, 2012)
+- [[implants/surface/witek-2020-boronized-surface-osseointegration]] — extends: boronized CP-Ti (BM, BAA) implants showed declining BIC/BAFO over 3→6 weeks vs increasing controls; osteoid demineralization adjacent to TiB/TiB₂ surface — cautionary evidence that superior mechanical properties do not guarantee osseointegration (animal, 2020)
 - [[implants/surface/zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr]] — SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편 in vivo (1 clinical 15 animal … (sr, 2025)
 - [[implants/surface/jadhav-2026-dental-implant-surface-review]] — Narrative review of surface-modification methods (physical/chemical/mechanical), bio-functionalized surfaces, and emerging responsive coatings / 'omics / AI-guided directions (narrative-review, 2026)
 - [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Narrative review: metal/metal-oxide, polymer, and bioceramic nanoparticle coatings enhance osseointegration + add antibacterial/anti-peri-implantitis action across in vitro/in vivo (narrative-review, 2025)

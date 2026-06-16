@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [caries, white-spot-lesion, wsl, icdas, diagnodent, remineralization, resin-infiltration, fluoride, cpp-acp, gic, root-caries, overview]
+relations:
+  - type: extends
+    target: hajishafiee-2023-ssb-taxation-sugars-caries-umbrella
 ---
 
 ## 한국어 핵심요약
@@ -79,6 +82,8 @@ tags: [caries, white-spot-lesion, wsl, icdas, diagnodent, remineralization, resi
 | [[caries/malcangi-2023-enamel-remineralization-techniques-sr]] | sr | 불소·CPP-ACP·HAP·resin infiltration·SDF·레이저 — 불소+CPP-ACP 병용 효과적 |
 | [[caries/ancira-gonzalez-2018-white-spot-remineralisation-primary-sr]] | sr (9 RCT) | 유치 — 불소 바니시·겔·CPP-ACP 모두 유의, 방법 간 NS |
 
+**Population upstream**: An umbrella review of 14 SRs showed a 20% volumetric sugar-sweetened beverage tax reduces free sugars by ~4.0–4.4 g/day and would prevent 0.03 carious teeth per adult and 2.7–2.9% caries occurrence in children over 10 years across both HIC and LMIC — a modest per-person effect that becomes non-trivial at population scale ([[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]], umbrella SR, 2023). [근거강함 — effect size modest, population impact scales with prevalence]
+
 **임상 ladder (재광화)**:
 1. **성인 비활성 WSL** — 불소 바니시(22,600 ppm) 3개월 + CPP-ACP 자가 사용 + 식이 교육.
 2. **소아·유치** — 불소 바니시/겔 또는 CPP-ACP — 방법 간 NS, 환자 협조도 위주.
@@ -129,5 +134,7 @@ tags: [caries, white-spot-lesion, wsl, icdas, diagnodent, remineralization, resi
 
 - [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — SR + network MA (ADA 가이드라인 근거): 비수복 우식 치료를 표면·치열별로 순위화 — **SDF·sealant+fluoride 병용이 병소 정지·역전에 최상위권** (sr+ma, 2019)
 - [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]] — RCT (1016명, 36개월): 제1대구치에서 **치면열구전색 vs 불소바니시 상아질 우식 유의차 없음**(19.6% vs 17.5%); 지역사회 프로그램에선 불소바니시가 비용효과 우위 (rct, 2017)
+
+- [[caries/hajishafiee-2023-ssb-taxation-sugars-caries-umbrella]] — Umbrella review (14 SRs): 20% volumetric SSB tax → free sugars ↓4.0–4.4 g/day → 0.03 fewer carious teeth/adult and 2.7–2.9% ↓ caries occurrence in children over 10y (HIC+LMIC); adds population/fiscal policy dimension to축 3 remineralization upstream prevention (umbrella sr, 2023)
 
 **갱신 메모 (2026-06-07)**: 두 논문은 축 3(예방·재광화)을 강화한다. Urquhart 2019 NMA는 기존 한줄요약의 "SDF·sealant+fluoride" 우위 주장에 ADA NMA 근거를 직접 제공하고, Chestnutt 2017 RCT는 **전색 vs 불소바니시가 동등**임을 보여 "고위험·저협조·집단검진 맥락에선 불소바니시가 비용효과적 대안"이라는 임상 분기를 추가한다. [근거강함] 단 Chestnutt은 제1대구치 한정 — 개별 고위험 소와열구엔 전색이 여전히 1차.

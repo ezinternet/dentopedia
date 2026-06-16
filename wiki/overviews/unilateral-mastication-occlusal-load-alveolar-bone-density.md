@@ -12,6 +12,9 @@ source_papers:
   - wiki/occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth.md
   - wiki/tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review.md
 tags: [overview, occlusion, alveolar-bone, bone-density, unilateral-mastication, chewing-side-preference, disuse-osteoporosis, hounsfield-unit]
+relations:
+  - type: reinforces
+    target: panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication
 ---
 
 ## 한국어 핵심요약
@@ -39,7 +42,7 @@ In unilateral chewers the working (chewing) side carries denser alveolar bone th
 
 직접 인체 증거는 단 한 편이지만 정량적이고 결정적이다. Lee 2018은 편측저작 성인 25명의 콘빔CT(Cone-Beam CT, CBCT)에서 치근간 치조골 밀도(Hounsfield Unit, HU)를 좌우 비교해, 견치·소구치·대구치에서 작업측이 유의하게 높고(p<0.05), **하악 대구치에서 차이가 최대(~100 HU; 513 vs 409)**임을 보였다. 절치부는 차이가 없었다 — 교합력이 가장 작은 부위이기 때문이다. 즉 **밀도 비대칭의 크기는 그 부위가 받는 저작 부하의 크기를 따라간다.**
 
-왜 그런가는 부하↔골 항상성 기전으로 설명된다. 치조골 밀도는 교합 부하의 함수이며, 안 씹는 쪽은 상대적 교합저하(hypofunction = 부하 상실)에 놓인다. Chen 2023은 교합력이 치주인대(Periodontal Ligament, PDL)의 type H 혈관(CD31ʰⁱ/EMCNʰⁱ)과 짝지어진 OSX⁺ 골전구세포를 통해 치조골을 능동적으로 *유지*함을 보였고(기계감지 회로 PIEZO1/Ca²⁺/HIF-1α/SLIT3), 부하가 빠지면 **치조골 폐용성 골다공증(Alveolar Bone Disuse Osteoporosis, ABDO)**으로 간다. Xu 2016은 그 분자 서명을 제시한다 — 교합저하측에서 sclerostin·RANKL 상승이 Wnt/β-catenin을 억제(골형성↓)하고 파골세포를 늘려(흡수↑) BMD·BV/TV가 감소한다(p<0.001). 따라서 **작업측 = 부하로 골형성 유지(고밀도), 비작업측 = ABDO 방향(저밀도)**이라는 좌우 차이가 기전적으로 자연스럽다.
+왜 그런가는 부하↔골 항상성 기전으로 설명된다. 치조골 밀도는 교합 부하의 함수이며, 안 씹는 쪽은 상대적 교합저하(hypofunction = 부하 상실)에 놓인다. Dynamic FEA of a rhesus macaque mandible across a complete unilateral chewing gape cycle confirms this working-side / balancing-side asymmetry at the loading-mechanics level: peak bending moments concentrate on the balancing-side anterior ramus/corpus and the working-side corpus posterior to the bite point, and the strain magnitude scales with food hardness (nuts > grapes > dried fruit), while static single-time-point models underrepresent the full spatial extent of cyclic loading (animal FEA evidence; [[occlusion/panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication]]). Chen 2023은 교합력이 치주인대(Periodontal Ligament, PDL)의 type H 혈관(CD31ʰⁱ/EMCNʰⁱ)과 짝지어진 OSX⁺ 골전구세포를 통해 치조골을 능동적으로 *유지*함을 보였고(기계감지 회로 PIEZO1/Ca²⁺/HIF-1α/SLIT3), 부하가 빠지면 **치조골 폐용성 골다공증(Alveolar Bone Disuse Osteoporosis, ABDO)**으로 간다. Xu 2016은 그 분자 서명을 제시한다 — 교합저하측에서 sclerostin·RANKL 상승이 Wnt/β-catenin을 억제(골형성↓)하고 파골세포를 늘려(흡수↑) BMD·BV/TV가 감소한다(p<0.001). 따라서 **작업측 = 부하로 골형성 유지(고밀도), 비작업측 = ABDO 방향(저밀도)**이라는 좌우 차이가 기전적으로 자연스럽다.
 
 임상적으로 가장 중요한 점은 **가역성**이다. Liu 2015는 성장기 rat에서 교합저하가 해면골 미세구조를 악화(BV/TV·Tb.Th·Tb.N↓, Tb.Sp↑)시키되 교합을 회복하면 정상으로 되돌아감을 micro-CT로 보였고, Hayashi 2014도 교합저하로 떨어진 치조골 BMD가 저출력레이저(bFGF/VEGF↑)로 회복됨을 보였다. 즉 좌우 밀도 비대칭은 고정된 손상이 아니라 **부하 의존적이고 되돌릴 수 있는 적응**이다.
 
@@ -55,6 +58,7 @@ In unilateral chewers the working (chewing) side carries denser alveolar bone th
 | Liu 2015 | 미세구조 악화의 가역성 | Rat micro-CT, n=48 | 교합저하 → BV/TV·Tb.Th·Tb.N↓·Tb.Sp↑; 교합 회복 시 정상으로 가역 | animal |
 | Hayashi 2014 | 부하 상실 치조골의 회복 | Rat, n=24 | 교합저하 → 치조골 BMD↓·PDL 박화; LLLT(bFGF/VEGF↑)로 대조군 수준 회복 | animal |
 | Zheng 2023 | 편측저작의 *과두/TMJ* 축 (대비) | Narrative review | 작업측 과두는 작아지고 상방변위·관절간극↓ — 치조골과 반대 방향 | narrative-review |
+| Panagiotopoulou 2023 | 편측저작 시 하악 하중 분포 — 동적 FEA 방법론 (biomechanics, animal FEA) | Subject-specific dynamic FEM, rhesus macaque, n=1 | 완전 저작주기 FEM에서 작업측(working side) 교합 부하는 교합 하중 인가 후 ~35–40%에서 피크; 발란싱측 전방 지조지(anterior ramus/corpus)와 작업측 견치후방 교합접촉부(M1–M2 후방·치조간절흔)에 최대 굽힘 모멘트 집중. 정적(static) 단일-시점 FEM은 balancing-side corpus/ramus·관상돌기·사선 등 여러 부위를 놓쳐 **편측저작의 실제 부하 범위를 과소평가** | animal FEA |
 
 ## Clinical Decision Points
 1. **편측저작 환자는 좌우 치조골 밀도가 다르다 — 구치부에서 최대.** 비작업측(저밀도) 구치부가 작업측보다 ~100 HU 낮을 수 있다(Lee 2018). 임상적으로는 골질이 한 등급 낮게 나올 수 있는 부위다.
@@ -77,6 +81,7 @@ In unilateral chewers the working (chewing) side carries denser alveolar bone th
 - [[bone-biology/liu-2015-occlusal-hypofunction-recovery-mandibular-alveolar-bone-rats]] — 미세구조 악화의 가역성
 - [[occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth]] — 교합저하 치조골 BMD↓ 및 회복
 - [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review]] — 대비 축: 편측저작의 과두/TMJ 영향
+- [[occlusion/panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication]] — 동적 FEA로 확인한 편측저작 시 working/balancing-side 하악 하중 분포 비대칭 및 정적 FEM의 과소평가 (animal FEA)
 - [[overviews/bone-quality-implant-risk-modification-overview]] — 골질을 위험 축으로 묶은 임플란트 의사결정
 - [[overviews/occlusal-trauma-periodontitis-overview]] — 반대편: 교합 *과부하*와 치주의 관계
 

@@ -11,13 +11,18 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, aphthous-stomatitis, sinusitis, decision-ladder, overview]
+relations:
+  - type: reinforces
+    target: pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma
+  - type: reinforces
+    target: sapkota-2024-oral-leukoplakia-recurrence-malignant
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
 > - 핵심 명제: 구강내과 7축 decision ladder — (1) OPMD 일반, (2) 백반증(Leukoplakia, OLK) 악성전환 monitoring, (3) 구강편평태선(Oral Lichen Planus, OLP), (4) 구강작열감증후군(Burning Mouth Syndrome, BMS), (5) 재발성 아프타구내염(Recurrent Aphthous Stomatitis, RAS), (6) 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS), (7) 수포·궤양성 면역매개 점막질환.
-> - OLK: 5년 악성전환률 pooled 3.5%, 비균질형(non-homogeneous) OR 4.1(Aguirre-Urizar 2021 SR+MA). 균질형+소병소+위험인자 통제가능 → 위험인자 제거+3–6개월 monitoring. 비균질형·고위험부위(혀 측면·구강저) → biopsy 우선. 이형성 진단 → 외과 절제.
+> - OLK: pooled 악성변환률 6.64% (95% CI 5.21–8.21, Pimenta-Barros 2025 SR+MA, 55연구 n=41,231); 비균질형(non-homogeneous) RR=4.23, 이형성(Oral Epithelial Dysplasia, OED) RR=2.75, 설측연 절대 MT=12.71% (Pimenta-Barros 2025). 수술 후 재발 OL은 비재발 대비 악성변환 위험 7.39배 (Sapkota 2024 SR+MA, n=7,614). 균질형+소병소+위험인자 통제가능 → 위험인자 제거+3–6개월 monitoring. 비균질형·고위험부위(혀 측면·구강저) → biopsy 우선. 이형성 진단 → 외과 절제.
 > - OLP: 진정한 악성전환률 0.5–1.4%(고품질 연구만, Gonzalez-Moles 2021) — 과거 5% 보고는 진단 오류 가능성(Kaur 2022 비판). 과대 위험 인식 회피.
 > - OLP 치료: 망상형(reticular, 무증상) → 위험인자 통제+monitoring, 약물 불필요. 미란·위축형(erosive·atrophic) → 국소 스테로이드(clobetasol 0.05% BID, Lodi 2020 Cochrane: 위약 대비 통증해소 RR 1.91, 낮은 근거). 불응 시 국소 tacrolimus 0.1%(고가, Sandhu 2022).
 > - OPMD 명칭·분류는 WHO 2020 합의로 표준화(Warnakulasuriya 2021). 이형성 등급(OED)이 핵심 악성전환 예측인자.
@@ -37,7 +42,7 @@ tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, 
 본 페이지는 wiki/oral-medicine/ paper의 7-axis spine. 구강내과는 narrative review 위주이나 OLK 악성전환·OLP 치료(Lodi 2020 Cochrane)는 SR+MA, OPMD 명칭은 WHO consensus가 spine. 2026-06 herpes/EM/GVHD/PFAPA 클러스터(11편) 추가로 수포·궤양성 면역매개 점막질환 축(축 7) 신설.
 
 핵심 명제 5개:
-1. **OLK (Leukoplakia) 5년 악성전환률 3.5% (pooled). 비균질형 OR 4.1 — 균질형 단순 monitoring, 비균질형 적극 biopsy** — Aguirre-Urizar 2021 SR+MA. [근거강함]
+1. **OLK (Leukoplakia) pooled 악성변환률 6.64% (95% CI 5.21–8.21). 비균질형 RR=4.23, 이형성 RR=2.75, 설측연 절대 MT=12.71% — 균질형 단순 monitoring, 비균질형·고위험부위 적극 biopsy** — Pimenta-Barros 2025 SR+MA (55연구, n=41,231); 수술 후 재발 OL 악성변환 RR=7.39 — Sapkota 2024 SR+MA (80연구, n=7,614). [근거강함]
 2. **OLP (Oral Lichen Planus) 진정한 악성전환률 0.5-1.4% (고품질 연구만). 과거 5% 보고는 진단 오류 가능성** — Gonzalez-Moles 2021 SR, Kaur 2022 비판. [합의수준]
 3. **OPMD 명칭·분류는 WHO 2020 consensus 표준화** — Warnakulasuriya 2021 WHO consensus. [근거강함]
 4. **BMS 1차 치료 — clonazepam 국소 도포 + CBT + 저용량 TCA. ICD-11에서 BMD로 재명명 합의** — Canfora 2026 review, Chmieliauskaite 2020 Delphi. [합의수준]
@@ -60,12 +65,15 @@ tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] | sr+ma | 5y 악성전환 pooled 3.5%. 비균질형 OR 4.1 |
+| [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] | sr+ma | Pooled MT 6.64% (n=41,231, 55연구, 1934–2024). NHOL RR=4.23, OED RR=2.75, 설측연 MT=12.71%. 시대별 MT 변화 없음(p=0.75) |
+| [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] | sr+ma | 수술 후 재발률 22% (80연구, n=7,614). 재발 OL→MT RR=7.39. 레이저 절제+기화 복합이 최적 |
 
 **임상 ladder (OLK)**:
 1. **균질형 (homogeneous) + 작은 병소 (< 2 cm) + 위험인자 (흡연·음주) 통제 가능** → 위험인자 제거 + 3-6mo monitoring + 사진 기록.
-2. **비균질형 (non-homogeneous: speckled, nodular, verrucous)** → biopsy 적극. OR 4.1 위험.
-3. **고위험 부위 (혀 측면·구강저)** + 어떤 형태든 → biopsy 우선.
-4. **이형성 (dysplasia) 진단** → 외과 절제 + 정기 follow-up.
+2. **비균질형 (non-homogeneous: speckled, nodular, verrucous)** → biopsy 적극. [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]]: NHOL RR=4.23 (95% CI 3.31–5.39) — 가장 강력한 단일 임상 예측인자.
+3. **고위험 부위 (혀 측면·구강저)** + 어떤 형태든 → biopsy 우선. [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]]: 설측연 OL 절대 MT=12.71%, RR=2.09 (95% CI 1.48–2.95).
+4. **이형성 (dysplasia) 진단** → 외과 절제 + 정기 follow-up. OED 존재 시 RR=2.75 (95% CI 2.26–3.35).
+5. **수술 후 재발 OL** → MT 감시 강화. [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]]: 재발 OL은 비재발 대비 MT RR=7.39; 레이저 절제+기화 복합술이 최저 재발률.
 
 ### 축 3 — OLP (Oral Lichen Planus)
 
@@ -168,7 +176,7 @@ tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, 
 - [[overviews/sinus-lift-technique-selection]] — OMS와 상악동 거상 (인접)
 
 확신도 등급:
-- 축 2 OLK 악성전환 = [근거강함] (Aguirre-Urizar 2021 SR+MA).
+- 축 2 OLK 악성전환 = [근거강함] (Pimenta-Barros 2025 SR+MA n=41,231 + Sapkota 2024 SR+MA n=7,614; Aguirre-Urizar 2021 보완).
 - 축 3 OLP = [합의수준] (고품질 SR + 비판적 평가).
 - 축 4 BMS = [합의수준] (narrative + Delphi).
 - 축 5 RAS = [합의수준] (narrative 위주).
@@ -178,6 +186,8 @@ tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, 
 
 ### 신규 추가 (2026-06)
 
+- [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA (55연구, n=41,231, 1934–2024): pooled OL MT 6.64%, NHOL RR=4.23, OED RR=2.75, 설측연 MT=12.71%. 시대별 MT 차이 없음. 축 2 OLK MT 근거 갱신. (sr+ma, 2025)
+- [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA (80연구, n=7,614): OL 수술 후 재발률 22%; 재발 OL MT RR=7.39; 레이저 절제+기화 복합이 최적 모달리티. 축 2 OLK 수술 후 관리 근거. (sr+ma, 2024)
 - [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — Cochrane SR+MA (35 RCT, 1474명): 국소 스테로이드 vs 위약 OLP 통증해소 RR 1.91 (낮은 근거); 타크롤리무스>클로베타솔 가능. 축 3 OLP 치료 근거. (sr+ma, 2020)
 - [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 효능+비용 비교. 축 3 OLP 비용 차원 보강. (sr, 2022)
 - [[oral-medicine/warnakulasuriya-2018-opmd-clinical-features-review]] — OPMD 전 스펙트럼 임상양상. 축 1 보강. (narrative-review, 2018)
