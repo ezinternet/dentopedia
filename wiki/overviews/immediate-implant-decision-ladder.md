@@ -13,6 +13,22 @@ source_collection: synthesis
 tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 발치 후 즉시식립(Immediate Implant Placement, IIP)을 5축으로 정리 — (1) placement timing(Type 1–4), (2) site selection(협측 plate·결손), (3) 술식(flap·position·gap·GBR), (4) soft tissue augmentation(CTG·provisional·socket shield), (5) loading(immediate/early/conventional).
+> - 상악 심미부 단일 즉시식립+즉시부하(Type 1A IIPP)는 5년 생존 97.1%, 1년 변연골소실(MBL) −0.32 mm, 심미점수(PES) 7.2 — 적절한 환자 선택 시 안전(Hamilton 2023 ITI 합의 SR+MA).
+> - ITI 4-Type: Type 1(발치 직후, 협측 plate intact+4벽+1차 안정성 ≥35 Ncm) / Type 2(4–8주) / Type 3(12–16주, 협측 결손 2–5mm+GBR) / Type 4(≥6개월, 결손 ≥5mm 또는 ARP 후).
+> - 오판 패턴 1: "협측 plate 얇으면 Type 1 절대 금기" — Meijer 2024 10년 RCT는 협측 결손 ≥5mm도 IIP+GBR+지연 provisionalization으로 ARP 후 지연식립과 10년 outcome 동등 입증. 단 술자 숙련·정밀 GBR·환자 협조 prerequisite.
+> - Jumping gap ≥2 mm는 grafting 권고 — 협측 골 흡수 유의 감소(Seyssens 2022 SR+MA 15 RCT, Sanz 2017 −0.46 vs −0.84 mm).
+> - 협측에서 ≥2 mm palatal positioning이 buccal crest 보존의 결정인자(Staas 2026). 식립 전 CBCT로 치근 시상위치(Sagittal Root Position, SRP) class 분류, Class I이라도 천공 위험 높으면 palatal trajectory.
+> - 심미부 IIP 표준: CTG(Connective Tissue Graft) 추가 시 midfacial recession 유의 감소, CTG가 단층 collagen matrix 대비 우월(Seyssens 2021, Azadi 2025 Bayesian NMA). Socket Shield(SST)는 합병증 9.5%(Ogawa 2022) — 숙련자 한정·동의서 필수.
+> - Loading 결정은 timing 자체가 아니라 1차 안정성이 핵심: immediate loading(≤72h)은 ≥35 Ncm+단일치+교합 비기능, early(1–8w)는 25–35 Ncm+ISQ ≥70, conventional은 <25 Ncm+GBR 동반.
+> - 구치부 IIP: 생존율 ≥97%, 지연식립과 동등. 치근간 중격(inter-radicular septum) 활용+1차 안정성이 결정 변수. 6주 조기부하 가능(Botros 2025). 중격 골량 부족 시 골밀도화(Osseodensification, OD)로 확장.
+> - 치근단 병변(periapical pathology) socket도 적극 debridement+술전 amoxicillin 2g 동반 시 비감염치와 동등(Pranckeviciene 2024) — "병변 있으면 무조건 ARP"는 오판.
+> - 한국 임상 조정: Bio-Oss + Cytoplast dPTFE 기본 GBR set-up(1.0g+1매 약 35–40만원 환자 부담), immediate provisional crown 보험 미적용(약 30–50만원), Socket Shield는 국내 학회 공식 인정 절차 없음.
+> - 근거 등급: 축 1 timing·축 2 site·축 3 술식·축 5 loading 모두 [근거강함]. 축 4 SST는 [합의수준]+합병증 인지. 한국 가용성·비용은 [미검증].
+
 ## 한줄요약
 
 즉시식립 (Immediate Implant Placement, IIP) 의사결정 ladder. ITI 4-type classification spine + Hamilton 2023 ITI consensus + Meijer 2024 10y RCT + Cosyn 그룹 SR+MA. 5축 (placement timing · site · 술식 · soft tissue · loading).
