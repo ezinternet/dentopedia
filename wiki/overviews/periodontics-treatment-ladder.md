@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [periodontics, classification, non-surgical, regeneration, spt, peri-implantitis, decision-ladder, overview, endo-perio, mucogingival, systemic-disease, ozone, acute-abscess]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지는 `periodontics/` 27편 이상을 **6축**(분류 → 비외과 → 외과·재생 → 급성/복합병소 → 유지치료 → 치주성형)으로 묶은 spine으로, 2017 World Workshop 분류 → 단계별 치료 → 유지치료(Supportive Periodontal Therapy, SPT)의 표준 흐름을 따른다.
+> - **분류(모든 진단의 출발점)**: 2017 새 분류는 Staging I–IV(중증도) + Grading A–C(진행속도/반응성) (Papapanou 2018). 전신질환 발현·치은점막·외상성 교합도 독립축 (Jepsen 2018).
+> - **비외과 치료**: 유럽치주학회(EFP) S3 가이드라인의 단계별 표준 — 행동변화 → 치석제거·치근활택술(Scaling and Root Planing, SRP) ± 보조 → 외과 → SPT (Sanz 2020). SRP가 강한 권고, 전신 독시사이클린 추가 효과는 작음(PPD 0.2–0.4 mm).
+> - **외과·재생**: 골내결손에서 조직유도재생술(GTR)+이식재·법랑기질단백(EMD)+이식재가 단순 판막술(OFD)보다 PPD·임상부착수준(CAL) 우위, 병용 > 단독 (Stavropoulos 2021 NMA, 30 RCT).
+> - **유지치료(SPT)**: 3–6개월 주기가 치아 보존에 유리하나 일률 권고 근거는 부족 → 환자 위험도(staging·grading·흡연·당뇨)별 cadence 조정.
+> - **급성 병소**: 치주농양은 배농·debridement가 1차, 항생제는 전신증상·확산 시에만 보조 (Herrera 2014/2018). 괴사성 치주질환은 숙주 면역상태로 분류.
+> - **치수치주복합병변**: 파절/천공 여부 + 치주염 동반 여부로 분류해 예후·치료 결정 (Herrera 2018); 외과 시 근관 미세수술 + 동시 GTR·이식재·유두보존 피판으로 **장력 없는 1차 폐쇄**가 make-or-break (Sharma 2014).
+> - **치주성형 3갈래**: 각화치은 충분 + 치주낭/치관 문제 → 치근단변위판막(APF); 각화치은 부족 → 유리치은이식(FGG); 노출치근 + 심미 → 결합조직이식(CTG, gold standard).
+> - **전신 효과·peri-implantitis**: SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Simpson 2022 Cochrane), 심혈관 위험표지자(CRP·IL-6·SBP)도 감소; 치주염력 환자는 임플란트 주위염 위험 ~4.8배 → 안정화 후 식립 + 3개월 SPT 종신.
+> - **근거 약한 보조제**: 오존 겔은 소규모 RCT(n=12/군)에서 방사선학적 골결손 within-group 이점만 있어 [근거약함]; 오옥시스테롤(oxysterol) BMP-2 대안은 [전임상 단계]. "심한 치주염은 바로 외과로"는 오판 — step-wise는 비외과 first.
+
 ## 한줄요약
 
 치주치료 6축 — 2017 새 분류 (Staging I-IV × Grading A-C + 전신질환 발현·치은점막 상태) · 비외과 치료 (SRP ± 보조) · 외과·재생 (GTR/EMD) · SPT · 급성/복합 병소 (농양·괴사·치수치주병변) · 치주성형 (APF/FGG/CTG). EFP S3 guideline + Cochrane SR + 2017 World Workshop spine.
