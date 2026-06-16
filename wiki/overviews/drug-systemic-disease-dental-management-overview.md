@@ -32,6 +32,22 @@ source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 전신질환 환자 치과 관리는 4축 — (a) 질환별 modification, (b) 약물상호작용(Drug-Drug Interaction, DDI) 점검, (c) 국소마취제 vasoconstrictor 안전성, (d) HbA1c 해석 한계 인식.
+> - 전신질환 동반률: 한국 일반병원 OMFS 기준 12.2%(Kim 2000, n=3,506). 흔한 순 — 고혈압 > 당뇨 > 심장질환 > 간질환. 고령화로 실제 dental clinic은 더 높음.
+> - 당뇨(Diabetes Mellitus, DM): 조절 DM은 임플란트 금기 아님(정상 환자와 동등, Wagner 2022). 전체 DM 실패 OR 1.78, T1DM은 T2DM 대비 OR 4.48(Al-Ansari 2022 SR-MA 89편). 변연골소실(MBL) +0.776mm, 상악>하악 실패율.
+> - DM 임플란트 의사결정 임계: HbA1c <7.0% 정상 준함 / 7.0–9.0% 식립 가능+모니터링 강화+CHX 양치 / >9.0% 연기·내과 협진 우선.
+> - HbA1c 함정: Hb 변이·빈혈·용혈·수혈·만성신부전(CKD)에서 위양/위음 가능(Chen 2022, Weykamp 2013). HbA1c 단독 신뢰 금지, 공복·random glucose 병행. eAG(mg/dL) = 28.7 × A1C − 46.7(Nathan 2008).
+> - DDI: 고령 환자 DDI 보유율 40.7%, 처방자 인식률 42.7%(Pyo 2026). 대표 major DDI = Epinephrine + β-blocker. Major DDI는 31–60세 + 심혈관(CVD) 환자 집중(Colibasanu 2025).
+> - Vasoconstrictor: 1:200,000 에피네프린이 1:80,000과 진통 동등하면서 혈역학적으로 더 안전(Karm 2017 RCT n=51) → CVD·고혈압·갑상선항진증 포함 1차 선택. 비선택적 β-blocker(Propranolol) 복용 시 희석+용량 minimize+BP/HR 모니터링.
+> - 임신: 1:100,000–200,000 에피네프린만 안전, Felypressin 금기(자궁수축), Levonordefrin 회피(Uritu 2025).
+> - 한국 마취·진정 표준화 비대칭: 진정은 2022 한국 가이드(15 PICO, moderate sedation·비마취과 포함, Karm 2023) 정립됐으나, 국소마취는 한국 표준 가이드 부재(Hwang 2023 proposal) → 클리닉 자체 SOP로 보완.
+> - Sjögren 증후군(pSS): 2016 ACR-EULAR ≥4점 분류(Shiboski 2016). 만성 구강건조+다발 우식+진균 반복 시 의심·류마티스내과 의뢰, 3개월 recall·고불소 치약.
+> - 구강작열감증후군(Burning Mouth Syndrome, BMS): 단계적 protocol — 습관조절→타액대체→심리상담→Clonazepam 국소→아연(Lee 2024). 2차 원인(빈혈·DM·Sjögren·Candida) 감별 우선.
+> - Corticosteroid: 단기 적응(술후 부종·OLP·아프타) 좁게 유지, 만성 복용자 침습 처치 시 부신위기 case-by-case 고려(routine stress dose 비권고). 이식·면역저하 환자는 이식 전 치과 클리어런스 필수.
+
 ## 한줄요약
 전신질환 환자 치과 관리는 (a) DM·CVD·간·신 등 질환별 modification, (b) 약물상호작용 (Drug-Drug Interaction, DDI) 점검, (c) 국소마취제 vasoconstrictor 안전성, (d) HbA1c 해석 한계 인식의 4축. 조절 DM 임플란트는 정상 환자와 동등, 비조절 DM은 임플란트 실패 OR 1.78.
 
