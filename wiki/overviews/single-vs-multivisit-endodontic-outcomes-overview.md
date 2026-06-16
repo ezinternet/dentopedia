@@ -14,6 +14,20 @@ source_wiki:
   - wiki/endodontics/visit-protocol/karaoglan-2022-single-two-visit-retreatment-periapical-rct.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 단일내원과 다회내원 근관치료는 방사선학적 치유·술후 통증에서 임상적으로 유의한 차이가 없다 — 내원 횟수는 환자에게 중요한 결과를 의미 있게 바꾸지 않는다.
+> - 최대 근거 Mergoni 2022 Cochrane SR+MA(47 RCT, n=5805): ≥1년 방사선학적 실패 RR 0.93(95% CI 0.81–1.07, moderate certainty)·발치율 차이 없음.
+> - Schwendicke 2017 SR+MA+TSA(29 RCT, n=4341): 장기 합병증 RR 1.00(0.75–1.35)·술후 통증 RR 0.99(0.76–1.30) 동등, 단 TSA상 필요정보량(DARIS) 미도달.
+> - 1차성 근단치주염(Bobba 2026 RCT n=30): 12개월 PAI 치유 93.3% vs 86.7%(P>0.05) — 다회내원의 Ca(OH)₂ 드레싱은 치유 이득 없음, 치유를 좌우하는 건 약물이 아니라 충분한 화학기계적 청소.
+> - 재치료(Karaoğlan 2022 RCT n=100, 24개월): 88.6% vs 86.7% 치유(p>0.05), 예후인자는 내원 횟수가 아니라 병소 크기·술전 충전 길이 — 동등성이 재치료로도 확장.
+> - 술후 통증(Chaitanya 2024 RCT n=100): 24/48/72h VAS 동등, 단일내원이 오히려 치유율 상승 경향.
+> - nuance 1 — 단일내원 초기통증: 첫 1주 통증 RR 1.55(생활치 하위군 RR 2.16, 기계적 기구사용 시 RR 1.80), 단 일시적(1주 이후·강도·진통제 사용 차이 없음). Schwendicke의 flare-up RR 2.13은 TSA·민감도 분석(RR 1.85, NS)으로 firm하지 않음.
+> - nuance 2 — 상반된 치유 우위: Rossi-Fedele 2023 SR+MA가 단일내원 소폭 치유 우위(RR 1.10) 보고 → 즉시 충전이 내원간 재오염을 약간 줄일 가능성, 작은 효과로 "최소한 비열등, 가능하면 소폭 우위"로 해석.
+> - 임상 결정: 한 번에 청소·건조 가능한 단순 단근치는 단일내원이 효율적 기본값, 건조 불가(지속 삼출·weeping canal·급성 농양)·복잡 해부는 다회내원+Ca(OH)₂(치유 촉진제가 아닌 내원간 항균 통제).
+> - 환자 상담: 생활치 단일내원 시 첫 주 불편감 가능성을 미리 알리고 진통제 선제 권고 — 금기가 아니라 상담 포인트.
+
 ## One-line Summary
 
 Across the largest Cochrane SR+MA (Mergoni 2022, 47 RCTs), a second SR+MA+TSA (Schwendicke 2017, 29 RCTs), and three recent RCTs spanning primary apical periodontitis (Bobba 2026), post-operative pain (Chaitanya 2024), and retreatment (Karaoğlan 2022), single- and multiple-visit root canal treatment converge on no clinically significant difference in radiographic healing or post-operative pain — the only consistent nuance being a small, transient early-pain signal in single-visit treatment (most pronounced in vital teeth, RR 2.16), contrasted by a slight single-visit healing edge (RR 1.10) reported in Rossi-Fedele's 2023 SR+MA.
