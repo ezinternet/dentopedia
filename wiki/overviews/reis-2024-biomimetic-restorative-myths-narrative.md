@@ -13,6 +13,20 @@ source_collection: external
 tags: [biomimetic-dentistry, brd, evidence-based, ids, deep-margin-elevation, chlorhexidine, mmp, critical-review]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: Reis/Loguercio 그룹의 생체모방 수복치의학(Biomimetic Restorative Dentistry, BRD) 비판적 narrative 리뷰 — 9개 프로토콜 중 deep margin elevation만 임상 근거 있고, 나머지는 표준 접착치의학 대비 우월성의 고수준(RCT/SR) 근거 부족.
+> - 방법: 각 프로토콜에 대해 PubMed/Embase/Cochrane CENTRAL에서 RCT·SR 중심 문헌 검색 후 protocol-by-protocol 판정.
+> - 지지됨(SUPPORTED): #7 깊은 변연 거상(Deep Margin Elevation, DME) — 치은연하 변연의 유효한 대안.
+> - 근거 불충분으로 도전받음: #1 우식 탐지 염색(carious dentin 과도 제거), #2 알루미나 air abrasion(과잉치료·직업보건 위험), #3 후방부 법랑질 bevel(butt-joint 대비 이점 없음), #5 "elected" 표준 어드히시브 숭배, #8 시간차 "decoupling", #9 치수상/축면 fiber inserts.
+> - 미해결(in vitro 지지 있으나 임상 의심): #4 클로르헥시딘(CHX) MMP 억제 — 실험실 데이터는 MMP 억제·혼성층 안정성 지지하나 수명 개선의 임상 근거 없음; #6 즉시 상아질 봉쇄(Immediate Dentin Sealing, IDS) — in vitro 결합강도 우수(Hardan 2022)하나 임상적으로 술후 민감도·수명이 지연 봉쇄(DDS)와 유사.
+> - 비판 대상 명시: David Alleman, Pascal Magne, Bio-Emulation Group, Academy of Biomimetic Dentistry. 도입 동인으로 인지편향(신규성·권위) 지목.
+> - BRD 진영의 강한 버전(steelman): 전통 수복의 높은 실패율, 결합강도·변연밀폐·치수생활력·중합응력 감소를 통합하는 패러다임 자체는 타당 — 저자들도 DME 인정하고 기저 패러다임이 현대 접착치의학과 정렬됨을 인정. 분쟁은 '특정 프로토콜 주장'이지 '프레임워크'가 아님.
+> - 편향 공개: Reis/Loguercio 그룹은 오래도록 생체모방 주장에 비판적 입장 → in vitro 근거(Hardan 2021/2022, Breschi 2025) 및 생체모방-긍정 narrative(Samartzi 2021)와 함께 읽어 균형.
+> - 임상 takeaway: 특정 outcome에 대해 RCT 수준 근거가 없으면 BRD 주장을 회의적으로 보고, 잘 수행된 표준 접착치의학이 BRD outcome과 임상적으로 대등할 가능성이 큼.
+> - 가치: 사례보고·실험실 연구가 지배하는 BRD 문헌에서 드문 근거-회의적 목소리, 임상 의사결정의 counterweight 참조로 유용.
+
 ## 한줄요약
 Reis/Loguercio 그룹의 BRD(Biomimetic Restorative Dentistry) 9개 프로토콜 비판적 narrative 리뷰: caries dye·알루미나 air abrasion·posterior bevel·CHX MMP 억제·"elected" 어드히시브·IDS·deep margin elevation·decoupling·fiber inserts 중 deep margin elevation만 임상 근거 있음, 나머지는 RCT/SR-수준 우월 근거 부족.
 
