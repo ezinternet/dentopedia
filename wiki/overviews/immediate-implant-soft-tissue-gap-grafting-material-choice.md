@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [overview, immediate-implant, soft-tissue-augmentation, gap-grafting, connective-tissue-graft, collagen-matrix, bone-substitute, esthetic-zone, decision-framework]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: 즉시식립의 이식 결정은 해부학적으로 다른 두 축 — ①경조직 gap 골이식과 ②연조직 증대 — 으로 분리해야 하며, 흔히 혼동된다.
+> - 축 1 — gap 골이식(jumping gap): gap ≥2mm일 때 골대체재(Bone Substitute Material, BSM)로 충전 → 수평 협측 흡수 약 MD −0.52mm 감소, 심미점수(PES) +1.49, 생존율 영향 없음(Zaki 2021).
+> - 단, BSM은 전체 합병증을 증가시킴(RR 3.50, 낮은 확실성) → 환자 상담·모니터링 필요(주의 신호).
+> - 콜라겐 병용: 골대체재에 콜라겐을 더하면 협측 두께·심미가 단독 골이식보다 개선(Liu 2023, 7 RCT) — 단 제품 이질성 큼.
+> - 축 2 — 연조직 증대(facial mucosa): 자가 결합조직이식(Subepithelial Connective Tissue Graft, SCTG)이 최우수 — 협측 두께 +0.74mm, 변연수준 +0.5mm, PES +0.79, 변연골소실(MBL) −0.11mm(Aldhohrah 2022); Azadi 2025 Bayesian NMA에서도 1순위.
+> - 공여부 회피 시: 이종 콜라겐 기질(xenogeneic collagen matrix)이 합리적 대안(SCTG와 FSTT/수준 유사, De Angelis 2021) — 단 자가이식이 일관된(비유의) 우위 유지.
+> - CTG는 치은 수준을 '유지'하는 것이지 부피를 '증가'시키는 것이 아님(Torra-Moneny 2024) → 기대치 설정 주의.
+> - 맞춤형 치유지대주(customized healing abutment) 단독은 얇은 부위 중협측 윤곽 유지에 불충분(Fettouh 2024: 퇴축 −1.54mm vs CTG −0.74mm).
+> - 시점: 고심미 우선 증례에서는 즉시식립과 '동시에' 연조직 증대 시행 — 선호 시점은 확립 안 됨(Thoma 2021 EAO 합의).
+> - 임상 takeaway: 이 페이지는 '이식 여부'가 아닌 '어떤 이식재'를 다루는 material-selection 보완 페이지. 얇은 표현형·고심미 요구 → SCTG 1차, gap ≥2mm → 콜라겐 함유 골대체재.
+> - 근거 한계: 자가 vs 대체재 head-to-head 부피 endpoint 부족, BSM 합병증 신호(RR 3.50)는 저확실성 미확인, 경조직+연조직 동시 이식 효과크기 동시 보고 드묾.
+
 ## One-line Summary
 
 At immediate implants, two graft decisions are separate: (1) **hard-tissue gap grafting** with a bone substitute reduces horizontal buccal resorption (~MD −0.5 mm) and improves esthetics but raises complications (RR ~3.5), and adding collagen improves buccal thickness/esthetics further; (2) **soft-tissue augmentation** with autogenous connective tissue graft (SCTG) is the strongest performer (buccal thickness +0.74 mm, mid-buccal level +0.5 mm, PES +0.79, less recession), xenogeneic collagen matrix is a viable donor-site-free alternative, and a customized healing abutment alone is insufficient.
