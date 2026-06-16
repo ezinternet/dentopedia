@@ -10,6 +10,21 @@ tags: [overview, dentin-hypersensitivity, DH, hydrodynamic-theory, NCCL, treatme
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 시린이(Dentin Hypersensitivity, DH) 통합 overview — JKDA 2022 특집 3편 + 인접 NCCL(Noncarious Cervical Lesion) 카테고리 + laser·치약 정량 근거 11편(2026-06) 통합.
+> - 전세계 유병률 8–57%로 한국 임상에서 흔한 호소이나 single tool 진단 불가·치료 옵션 다양함이 의사결정 challenge.
+> - 메커니즘: 브렌스트룀(Brännström) 수력학설(hydrodynamic theory) — 노출된 상아세관 내 유체 이동이 신경을 자극 → 짧고 날카로운 통증. 모든 치료의 두 축은 관 폐쇄(tubule occlusion) 또는 신경 탈민감화(nerve desensitization).
+> - 치료 ladder는 "conservative first, escalate only if fails": 1차 at-home(질산칼륨 KNO3·노바민 NovaMin·아르기닌 Arginine) 4–8주 → 2차 in-office sealing(불소 바니시·옥살레이트·글루마 Gluma·레이저·레진 실란트) → 3차 restorative(composite·crown). 즉시 laser·수복은 overtreatment risk.
+> - 감별진단: DH는 자극(cold·sweet·brushing)에 통증·bite test 음성, 균열치(cracked tooth)는 씹을 때 특히 풀릴 때 sharper·bite test 양성 — 동반 가능하므로 "씹을 때 시리다"면 균열치 framework 병행.
+> - 의인성(iatrogenic) DH 예방: Class II direct composite 수복 시 selective etching·incremental filling·slow-start curing·sectional matrix가 핵심 — bulk fill을 써도 adhesive technique + slow curing 두 축은 유효.
+> - NCCL adhesive 선택 trade-off(Assis 2023 SR+MA 20 RCT): E&R(etch-and-rinse)이 중기 유지율·변연 우월, SE(self-etch)는 술후 sensitivity 낮음 → 환자 sensitivity 경향 시 SE 우선.
+> - Laser 근거: LLLT는 placebo 대비 효과(Shan 2021 SMD 1.09→2.86)이나 fluoride 외 우월성 없음; 고·저출력 동등(Faraoni 2023); RCT에서 laser 단기 우월하나 3–6개월에 chemical agent와 수렴.
+> - Gluma(글루타르알데히드) 안전성: 효과는 치수액 의존·농도의존 세포독성 동반 → vital pulp 인접 시 농도·노출 주의.
+> - 한국 임상 workflow: 1회차 history+visual+bite test로 잠정진단, 2회차 4–8주 재평가로 escalate 결정; 환자 동의서·hygienist 체크리스트 포함.
+> - Gap: 옵션별 head-to-head RCT 부분적, Korean cohort 유병률·외래 분포 데이터 없음(JKDA는 narrative review).
+
 ## 한줄요약
 시린이 (Dentin Hypersensitivity, DH) 통합 overview — JKDA 2022 특집 3편 + 인접 NCCL (Noncarious Cervical Lesion) 카테고리 통합. (1) Hydrodynamic theory 기반 메커니즘, (2) 외래 진단·치료 ladder (at-home → in-office sealing → restorative), (3) iatrogenic DH 예방 (Class II direct composite postop + NCCL restoration). 한국 임상 외래 의사결정 framework.
 
