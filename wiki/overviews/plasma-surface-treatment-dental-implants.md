@@ -10,6 +10,20 @@ source_collection: internal
 tags: [plasma, cold-atmospheric-plasma, implant-surface, osseointegration, decontamination, peri-implantitis, chairside, human-rct, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 위키 내 25편 종합(리뷰·SR/MA 4 + 동물 in vivo 6 + 사람 임상 3 + in vitro 11 + 안전성 1).
+> - 핵심 명제: 저온/비열 플라즈마(Cold Atmospheric Plasma, CAP)는 새 임플란트 종류가 아니라 체어사이드 표면 재활성화 도구다.
+> - 작동 기전: 티타늄 표면은 생물학적으로 노화(탄화수소 축적·습윤성 저하)하는데, 플라즈마가 이를 역전 — 탄소↓·친수성/표면에너지↑(형태·조성은 불변); 동일한 반응성 산소/질소종이 세균도 죽여 제염이라는 2차 근거 제공.
+> - 두 역할: ① 골유착 촉진 ② 표면 제염(치주염 peri-implantitis).
+> - 사람 근거(신규): 작지만 부분적으로 유의한 초기 안정성 이득 — Stacchi RCT는 60/90일에만 임플란트 안정성 지수(ISQ) 유의(절대차 작음), Kwon RCT는 안정성 음성(변연골 변화만 양성), Kim 코호트는 대조군 없음.
+> - 전 근거단계 공통 패턴: 최종치를 올리기보다 초기 치유를 앞당김 — 무처리 대조군이 8주경 따라잡는다(Jang·Danna). 더 높은 최종 plateau는 미입증.
+> - 용량 비단조성: 60초는 좋으나 300–600초는 오히려 세균 부착 증가(Lee); 항균효과는 ~24h 지속·72h엔 소실(Yang) → 짧은 프로토콜 + 처리 직후 즉시 식립.
+> - 정량 MA는 플라즈마가 아니라 UV에 기반(Pesce, I²>75%) — 플라즈마 특이 통합 효과크기는 아직 없음.
+> - 한계: 보철 적용은 노화(thermocycling) 후 이득 소실(Kim-2021); 표면 의존적(Danna: textured Ti엔 도움, CaP엔 무효); 장기/하중/생존 데이터 전무(최장 추적 90일).
+> - 임상 frame: 노화 fixture의 식립 직전 재활성화·연조직(D3/D4)·하악·짧은 fixture에서 가장 타당; SLActive 대비 비열등(Long, 동물)이나 우월성은 아님; "더 오래 처리 = 더 좋음"은 틀림(과처리 역효과).
+
 ## One-line Summary
 
 Across 25 wiki papers (4 reviews/SR/MA, 6 animal in vivo, 3 human clinical, 11 in vitro, 1 mouse safety), cold/non-thermal plasma re-activates implant surfaces with two coherent jobs — boosting osseointegration and decontaminating surfaces — and the now-available human evidence (2 RCTs + 1 cohort) shows a small but partly significant *early* stability benefit; the recurring pattern across every tier is that plasma accelerates early healing rather than raising the final endpoint, with effects that are modest, dose-narrow (over-treatment backfires), time-decaying for antimicrobial action, and still without long-term/survival data.
