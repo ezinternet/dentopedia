@@ -10,6 +10,21 @@ confidence: synthesis
 tags: [evidence-appraisal, ebm, ebd, biostatistics, sr-ma-methodology, critical-appraisal, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 목적: 임상 치과의사가 체계적문헌고찰+메타분석 (Systematic Review + Meta-Analysis, SR+MA)·무작위대조시험 (Randomized Controlled Trial, RCT)·관찰연구를 비판적으로 읽기 위한 5축(SR/MA 방법론·효과측정치·검정 선택·약자 빠른참조·흔한 오류) 도구상자다.
+> - 동기: wiki의 800+ 임상 paper 대부분이 SR+MA/RCT/후향 코호트이므로, 그 결론을 무비판 인용하지 않는 living-document 원칙의 운영적 backbone.
+> - 축 1 핵심 룰: 이질성 I²<25%면 pooling 의미 있음, I²>75%면 pooled effect는 거의 무의미해 subgroup·메타회귀로 가야 한다.
+> - 출판편향: funnel plot 비대칭 + Egger p<0.10이면 출판편향(소규모연구 효과) 의심 — SR이 PROSPERO 등록·a priori PICO·독립 reviewer 2인을 다 갖췄다고 가정 말고 Methods를 직접 확인.
+> - 축 2 효과측정치 → 디자인 매핑: RCT(binary)는 상대위험 (Relative Risk, RR)·절대위험감소 (Absolute Risk Reduction, ARR)·치료필요수 (Number Needed to Treat, NNT), time-to-event는 위험비 (Hazard Ratio, HR)·Kaplan-Meier, 환자-대조군은 교차비 (Odds Ratio, OR)만 가능.
+> - 환자 상담 룰: OR/HR 효과는 ARR 또는 NNT로 변환해 설명 — "실패위험 HR 2.5"가 아니라 "흡연자 100명당 약 7명 더 실패".
+> - 축 3 검정 선택: 연속+2군 독립은 t-test/Mann-Whitney, paired는 paired t/Wilcoxon, ≥3군은 ANOVA/Kruskal-Wallis, binary 2×2는 chi-square/Fisher, time-to-event는 log-rank — 치과 최빈 미스는 한 환자의 양측 임플란트를 독립표본처럼 t-test로 비교(paired·mixed model 필요).
+> - 축 5 흔한 오류 7가지: p>0.05를 "효과 없음"으로 해석, HR을 예후 정확도로 오해, subgroup hunting, 상관≠인과, 교란변수vs매개변수 혼동(over-adjustment), 연속변수 조기 이분화, 불멸시간편향(immortal time bias, 조기부하 vs 지연부하 후향비교).
+> - 임상 체크리스트: confidence tag → I² → PRISMA/a priori protocol → 효과측정치가 맥락에 맞나 → CI를 점추정치와 함께 → subgroup이 pre-specified인가 → adjusted model에 매개변수가 들어가 있지 않은가 순.
+> - 카테고리 신설 근거: 9편 모두 EBM·biostatistics 방법론 paper로 기존 23 카테고리(method/procedure 기반)에 안 맞아, 비판적 평가 자체를 method로 보고 evidence-appraisal 신설.
+> - Caveat: 외부 9편 중 7편이 narrative-review/tutorial이라 individual confidence는 낮으나 다루는 원리는 Cochrane Handbook·BMJ Best Practice 표준에 합치 — 실전 사례로 Insadol 한국 임상시험 통계 타당성 비판(Choi 2015)이 "표준 처방 ≠ 근거 충분"을 시연한다.
+
 ## 한줄요약
 임상 치과의사가 SR+MA·RCT·observational 연구를 비판적으로 읽기 위해 알아야 할 통계·방법론을 10편 (한국어 2편·영어 6편·익명 worksheet 1편·내부 synthesis cheatsheet 1편)에서 5축 (SR/MA 방법론·효과측정치·검정 선택·흔한 오류·약자 빠른 참조)으로 통합한 toolkit.
 
