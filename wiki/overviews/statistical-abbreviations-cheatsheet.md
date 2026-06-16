@@ -13,6 +13,20 @@ source_collection: internal
 tags: [statistics, cheatsheet, abbreviations, biostatistics, critical-appraisal, p-value, confidence-interval, effect-size, meta-analysis, survival-analysis, diagnostic-accuracy]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 치과 논문에서 자주 만나는 통계 약자를 분석 맥락 (기술·추론·효과크기·진단정확도·메타분석·회귀·생존·일치도·임상시험 분석군)별로 정리하고, 가장 자주 오용되는 5개 패턴을 신호로 표시한 cheatsheet.
+> - 기술통계: 표준편차 (Standard Deviation, SD)는 개별 데이터의 산포, 표준오차 (Standard Error, SE = SD/√n)는 평균 추정치의 정밀도 — **SE는 n이 커지면 줄지만 SD는 줄지 않는다**. 신뢰구간 (Confidence Interval, CI)은 "참값이 이 구간에 있을 확률 95%"가 아니다.
+> - 추론통계: p값은 귀무가설 하에서 이만큼 극단적 데이터를 볼 확률이지 "귀무가설이 참일 확률"이 아니다. 큰 표본에서는 임상적으로 무의미한 차이 (예: MBL 0.1mm)도 p<0.001에 도달 — 항상 효과크기+CI와 함께 읽는다.
+> - 효과크기: 오즈비 (Odds Ratio, OR)는 결과 발생률이 낮을 때 (<10%)만 위험비 (Risk Ratio, RR)에 근사하며, 흔한 결과 (임플란트주위 점막염 ~43%)에서는 위험을 과대평가. 위험차의 역수가 치료필요수 (Number Needed to Treat, NNT).
+> - 진단정확도: 민감도 (Sensitivity, SnNOUT — 높으면 음성이 배제), 특이도 (Specificity, SpPIN — 높으면 양성이 확정). 양성예측도 (PPV)·음성예측도 (NPV)는 유병률 의존, 우도비 (Likelihood Ratio, LR)는 유병률 독립 (LR+ >10 강한 진단근거).
+> - 메타분석: 이질성 지수 I² (0–40% 낮음, 75–100% 상당)는 **낮다고 임상적 동질성이 아니다**. RoB 2 (RCT용), ROBINS-I (관찰연구용), GRADE (RCT는 High에서, 관찰연구는 Low에서 시작), 깔때기도표 (funnel plot) 비대칭은 출판편향 시사.
+> - 생존분석: 카플란-마이어 (Kaplan-Meier) 곡선, 로그순위검정 (log-rank), 위험비 (Hazard Ratio, HR)는 비례위험 가정이 핵심.
+> - 일치도: 급내상관계수 (ICC, >0.9 우수), 카파 (κ, >0.8 거의 완벽 — 단 극단적 유병률에서 높은 일치율에도 낮은 κ가 나오는 유병률 역설). 블랜드-알트만 (Bland-Altman) 도표가 상관보다 선호됨.
+> - 임상시험 분석군: 배정대로 분석 (Intention-to-Treat, ITT, 보수적·무작위화 이점 보존) vs 프로토콜 준수자만 (Per-Protocol, PP, 효능 과대평가 위험). 둘이 갈리면 탈락이 결과 관련일 가능성.
+> - 5대 오용 (논문 읽을 때 red flag): ① 흔한 결과에서 OR을 RR로 해석, ② p<0.05를 임상유의로 혼동, ③ CI 폭 무시, ④ SD↔SE 혼동, ⑤ ITT↔PP 차이 무시.
+
 ## 한줄요약
 치과 논문에서 자주 만나는 통계 약자(descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set)를 카테고리별로 정리하고, 임상 해석에서 가장 자주 오용되는 5개 패턴(OR↔RR 혼동, p<0.05=임상유의 오역, CI 폭 무시, SD↔SE 혼동, ITT↔PP 차이 무시)을 신호로 표시.
 
