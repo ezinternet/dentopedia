@@ -12,6 +12,20 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: JKDA 61권 4호(2023) 짝 논문 2편으로 본 한국 치과 마취·진정 가이드라인 현황 — 진정과 국소마취의 표준화 수준이 비대칭.
+> - 진정(Sedation): 2022년 국가 진정진료지침(15개 PICO question, 비마취과 의사 포함, moderate sedation 중심)이 정립됨 — Karm 2023이 임상가 관점으로 해설.
+> - 국소마취(Local Anesthesia, LA): 교육 기본·임상 최빈 술기임에도 한국 표준 진료지침 부재 — Hwang 2023은 제정 필요성만 제안한 4페이지 position paper(본문·체계적 검색 없음).
+> - 진정 가이드라인이 다루는 영역: provider 교육, 약물·장비, 환자 선정, 금식, 연령(성인/소아), monitoring, 소아 합병증, 퇴원 기준.
+> - 실무 함의: 진정은 따를 국가 표준이 생겼으니 그 틀에 맞추면 되고, 국소마취는 교과서·국제 가이드라인·개별 약물 근거에 의존해야 함.
+> - 두 paper 모두 정량 outcome 없음 — 본 overview는 "현황 지도"이지 임상 술기 권고의 1차 근거가 아님(scaffold overview).
+> - 국소마취 정량 근거는 systemic-disease overview에 분산 정리됨: 1:200,000 epinephrine이 1:80,000과 진통 동등 + 혈역학 안전(Karm 2017 RCT).
+> - 임신·수유: felypressin 금기, 1:100,000~200,000 epinephrine 안전(Uritu 2025 SR).
+> - β-blocker·MAO inhibitor·TCA 병용 시 vasoconstrictor 주의 — systemic overview §5-3 참조.
+> - 근거 수준: "진정 = 15 PICO 국가 지침"은 합의수준, "한국 LA 표준 미정립(제정 제안 단계)"은 position paper 명문(근거강함), "진정·LA 비대칭"은 claude해석.
+
 > [!note] Scaffold overview (2편 기반)
 > 현재 paper 2편(둘 다 JKDA 61권 4호 narrative/proposal, 정량 outcome 없음)만으로 구성된 얇은 overview. 한국 치과 마취·진정 **가이드라인 현황 지도** 용도이며, 임상 술기 권고의 1차 근거가 아니다. 정량 vasoconstrictor·LA 안전성 근거는 [[drug-systemic-disease-dental-management-overview]] §5 참조. 후속 paper ingest 시 확장 예정.
 
