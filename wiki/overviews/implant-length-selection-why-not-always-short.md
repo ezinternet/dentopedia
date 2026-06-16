@@ -21,6 +21,20 @@ relations:
     target: implants-clinical-decision-ladder
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 생존율만 보면 숏 임플란트(≤8 mm)는 더 긴 임플란트와 동등하다. 진짜 질문은 "숏이 되느냐"가 아니라 "언제 숏이 더 이상 최선이 아니게 되느냐"이며, 답은 **길이 자체가 아니라 4가지 인자**가 결정한다.
+> - **생존율 동등 + 숏의 우위**: 1–3년 head-to-head MA에서 숏/초숏은 (거상 유무 무관) 장축과 생존 동등, 변연골소실(Marginal Bone Loss, MBL)은 일관되게 더 적고 생물학적 합병증 더 적음 (Yu 2021: MBL WMD −0.22, 생물학적 합병증 RR 0.321; Mester 2023: 생물학적 RR 0.46). → "무조건 장축"은 미지지.
+> - **"무조건 숏"도 틀린 3가지 이유**: ①길이는 골의 하류 변수 — 잔존골고(Residual Bone Height, RBH) 부족(~4–5 mm 미만)이면 숏을 앉힐 자리 자체가 없음; ②장축은 불리한 lever arm(높은 치관-임플란트 비, 이갈이, 긴 무치악 span)에서 기계적 여유를 줌; ③장기(5년+) 곡선은 약간 길이 쪽으로 휨.
+> - **5년 신호**: Yu 2021은 5년에 장축이 통계적으로 유리(RR 0.970, p<0.05)했으나 거상 subgroup에선 동등 회귀; Mester 2023의 ≥5년 pool은 표준+상악동거상(SFE)으로 trend(RR 0.97, p=0.07, NS). ≥5년 근거는 얇고 확실성 낮음.
+> - **부위·집행 변수**: 4 mm 숏도 8년 생존 95.36% 가능하나 상악에서 실패율 ↑(p=0.02), 위생 recall이 보호적 (Barausse 2024); 초숏(5–6 mm)은 생존 89%이며 부하 프로토콜·지대주 선택이 MBL을 좌우 (Sivolella 2025).
+> - **결정 1번째 gate(RBH)**: ≥5–6 mm → 6–8 mm 숏이 저이환 default; <4–5 mm → 거상+표준 길이가 신뢰 경로.
+> - **결정 2번째 gate(C/I·교합부하)**: 양호 → 숏; 불리한 C/I·이갈이·긴 span → lever arm 상쇄(splinting·넓은 직경·교합 관리) 또는 장축+거상. (C/I 임계값은 pooled 근거 없음 — 임상 추론).
+> - **결정 3번째**: 상악·초숏(≤5 mm)이면 유지관리 recall 강화로 대응(숏 포기 대신 집행 조정).
+> - **결정 4번째(동등 시)**: 숏은 이환·비용·시간·MBL에서 우위, 장축/이식 경로는 ≥5년 publish된 track record에서 우위 → 환자 우선순위로 tie-break.
+> - **오판 패턴**: "7 mm 숏이 되니 거상은 불필요" — RBH·부하가 허용할 때만 참; 허용 안 되면 장축+거상이 자리를 번다.
+
 ## One-line Summary
 On survival the short implant (≤8 mm) equals the longer implant — so the real question is not "does short work?" but "when does short *stop* being the better choice?"; the answer is governed by residual bone height, crown-to-implant ratio / occlusal load, the thinner ≥5-year evidence base, and primary stability in poor bone — not by length per se.
 
