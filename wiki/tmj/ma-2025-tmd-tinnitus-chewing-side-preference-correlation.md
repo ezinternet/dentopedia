@@ -14,7 +14,7 @@ relations:
   - type: reinforces
     target: ma-2022-condyle-position-chewing-side-preference-cbct
   - type: extends
-    target: zheng-2023-unilateral-chewing-tmj-structure-tmd
+    target: zheng-2023-unilateral-chewing-tmj-structure-tmd-review
 tags: [tinnitus, chewing-side-preference, tmj-pain, disc-displacement]
 ---
 
