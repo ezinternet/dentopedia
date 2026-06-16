@@ -13,6 +13,20 @@ source_collection: internal
 tags: [VPT, vital-pulp-therapy, direct-pulp-capping, pulpotomy, MTA, Biodentine, calcium-hydroxide, Endoseem, ESE, decision-ladder]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 생활치수요법(Vital Pulp Therapy, VPT) 11편 종합(3 SR+MA/NMA, 2 RCT, 1 consensus, 1 prospective, 1 in-vitro, 1 narrative-review, 1 clinical-lecture).
+> - 가장 중요한 임상 takeaway: 진단이 술식보다 결과를 좌우한다 — 가역성 치수염 진단이 핵심 게이트, 올바르게 선별된 증례 안에서만 재료·술식이 결과를 최적화.
+> - 재료 위계: Biodentine·MTA가 1차 재료; 직접치수복조(DPC)서 수산화칼슘 Ca(OH)₂ 대비 교차비 OR 4.41(Biodentine)·3.02(MTA)(Hatipoglu 2025), SUCRA 순위 Biodentine > MTA > TheraCal > Ca(OH)₂.
+> - Ca(OH)₂는 어떤 VPT 술식에서도 1차 재료로 비권장 — MTA 대비 2.3–2.5배 실패율(Komora 2024); Biodentine·Totalfill은 MTA와 동등.
+> - 전체 VPT 성공률 >93%(Elmsmari 2026 Bayesian NMA + CINeMA, 35 RCT); MTA vs Ca(OH)₂ HIGH certainty 우월, silicate끼리(MTA vs Biodentine)는 우열 없음.
+> - 유럽치내치료학회(ESE 2019) 4단계 위계: 간접치수복조(IPC) → 직접치수복조(DPC) → 부분치수절단술 → 전부치수절단술(침습도 순).
+> - 임상 pearl — 생활치수절단술(Vital Pulpectomy, Jang 2026): 치관부+상부치근 치수만 제거하고 근첨 생활치수 보존; Endoseem(바이오세라믹) ≥3 mm 차폐, 작업장 근첨서 2–3 mm 짧게, 충전관(crown) 필수.
+> - 진단 게이트: 냉/전기치수검사(EPT) 양성, 자발통·30초 이상 지속통이면 비가역성 → 근관치료; 노출부 출혈이 선홍색·5분내 지혈되면 양호.
+> - 미성숙 치근이 VPT에 유리하나, 성숙 치근도 올바른 진단이면 허용(Taha 2017).
+> - 추적 필수: 6·12·24개월(모든 NMA서 시간 경과로 성공률 감소); 실패 징후 — 통증·종창·누공·치근단 병변·내흡수.
+
 ## One-line Summary
 Synthesis of 11 VPT papers (3 SR+MA/NMA, 2 RCT, 1 consensus, 1 prospective, 1 in-vitro, 1 narrative-review, 1 clinical-lecture): Biodentine and MTA are first-line materials (OR 4.41 and 3.02 vs Ca(OH)₂); overall VPT success >93%; diagnosis of reversible vs irreversible pulpitis is the critical gate.
 
