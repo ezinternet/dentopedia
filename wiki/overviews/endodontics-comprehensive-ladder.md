@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [endodontics, vital-pulp-therapy, regenerative-endodontics, dpc, pulpotomy, revitalization, cracked-tooth, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 근관 의사결정을 4축(생활치수요법(Vital Pulp Therapy, VPT)·재생근관치료(Regenerative Endodontic Procedure, REP)·균열치·유치 치수치료)으로 묶은 21편 결정 사다리, 술기 깊이는 하위 카테고리로 위임.
+> - VPT 1차 재료는 Biodentine 또는 MTA, Ca(OH)₂는 대안적으로만 — Hatipoglu 2025 Bayesian NMR(21 RCT 1733명): Biodentine OR 4.41, MTA OR 3.02 vs Ca(OH)₂. [근거강함]
+> - "Ca(OH)₂가 표준 1차 약"은 오판 — ESE 2019·AAPD 2024/2025·Hatipoglu 2025 모두 Biodentine·MTA 1차.
+> - AAPD 2025(영구치 VPT 최초 가이드라인): 비가역 치수염도 case 신중 선택 시 VPT(full pulpotomy) 고려 가능.
+> - 유치: MTA pulpotomy 1차 권고(성공 약 93%, Smail-Faugeron 2018 Cochrane), Formocresol(85–92%) 대안 허용.
+> - VPT 사다리: 노출 없는 가역 치수염→IPC, 기계적 노출<1mm+출혈통제→DPC, 우식노출+출혈통제 곤란→partial pulpotomy(Cvek), 성숙치 깊은 노출→full pulpotomy, 실패→통상 근관치료 전환.
+> - REP: 미성숙 비활력 영구치+치근단 치주염에서 apexification보다 1차 — 생존·성공 동등하면서 치근 길이·상아질 벽 두께 보존 우위(Stefanidou·Panda·Meschi SR+MA). [근거강함]
+> - REP 프로토콜: NaOCl 1.5% 세정(고농도는 stem cell 손상)+TAP/DAP 최소농도 1mg/mL(착색 방지)+혈전 유도+MTA 차폐, 성공률 85–90%.
+> - "REP 성공률 낮다"는 오판 — SR+MA 다수가 apexification과 동등+치근 형태 우위.
+> - 균열치 사다리: craze line→관찰·교합조정, fractured cusp→수복/onlay, cracked(증상 무)→banding 후 monitoring, cracked+치수증상→근관+crown, split·수직치근파절→발치.
+> - 확신도: VPT·REP = [근거강함], 균열치 = [합의수준](narrative), 나노로봇 등 미래 = [추정](현 임상 적용 없음).
+
 ## 한줄요약
 
 근관 의사결정 4축 — VPT (Vital Pulp Therapy: DPC·pulpotomy) · 재생근관치료 (REP/revitalization) · cracked tooth · 유치 치수 치료. AAPD 2024/2025 + AAE 2021 + ESE 2019 + Cochrane spine. Endodontics는 별도 sub-category (anatomy·eal·irrigation)에서 더 깊이 다룸.
