@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, translucency, flexural-strength, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: 치과용 지르코니아 grade(3Y·4Y·5Y·6Y/UHTZ) 선택을 5축(①결정학·강도-투명도 trade-off ②grade×적응증 ③두께-파절 ④대합치 마모 ⑤접착)으로 분해한 sub-overview. dental-materials-decision-ladder 축 2의 grade별 심화.
+> - 핵심 원리: 이트리아(Yttria, Y₂O₃) 함량↑ → cubic phase 비율↑ → 투명도↑ but 상전이 강화(phase transformation toughening) 약화로 강도↓.
+> - Grade별 정량(Ban 2023): 3Y-TZP 굴곡강도 ~1200 MPa(tetragonal, 후방부), 4Y-PSZ ~900, 5Y-PSZ 600–800(전치부 monolithic), 6Y/UHTZ 300–500 MPa(전치부 심미 전용).
+> - 축② 적응증: 후방부 단관·장경간 FPD → 3Y-TZP(강도), 전치부 단관 → 5Y-PSZ 또는 multilayer M5Y(투명도), 전치부 short-span FPD → 4Y-PSZ. "투명한 UHTZ를 전 부위에"는 오판(후방부 stress에서 파절).
+> - 축③ 두께: 모든 grade 공통 최소 occlusal 1.5mm. 두께 <1mm 시 파절 위험 급증(Ali 2023, CAD/CAM 실패의 파절 55%·탈락 20%), UHTZ일수록 두께 sensitivity↑. "Zr는 강하니 minimal prep OK"는 오판.
+> - FPD 베니어 칩핑이 5년 실데이터 최다 합병증(Lolos 2025) → monolithic으로 회피 가능. Connector 단면: 후방부 4mm², 전치부 9mm²(3Y 기준).
+> - 축④ 대합치 마모: 단일체 Zr 마모는 임상 허용, 연마(polishing) < 유약(glazing)의 역설 — 유약 표면이 첫 layer 마모 후 거친 표면 노출(Steiner 2024). Zr < 금속도재·장석도재·리튬디실리케이트(LDS). Grade 간 차이는 표면처리에 비해 작음.
+> - 임상: 모든 grade 시적 후 occlusal 조정 → 연마 마감(유약 회피), 인계받은 유약 보철 조정부는 재폴리싱.
+> - 축⑤ 접착: 모든 grade 공통 APC(Air-abrasion 50µm Al₂O₃ 1-2 bar + MDP primer + resin cement). 5Y-PSZ도 cubic이지만 hydroxyl group 노출로 MDP 화학결합 유지(Comba 2021) — "5Y는 cubic이라 MDP 약하다"는 오판. 상세 SOP는 ladder 축 1 위임.
+> - 한국 가용성: Katana(STML/UTML, 전치부 1순위), IPS e.max ZirCAD(Prime 4Y·MT Multi·LT 3Y), BruxZir(수입 monolithic 3Y/4Y), 국산(DDS·HASS 등 3Y-TZP 후방부).
+> - 확신도: 축①~④ = 근거강함(재료과학·SR+MA·umbrella·5y), 축⑤ 접착 = 합의수준(in vitro 중심, 임상 RCT 부족), 한국 가용성 = 미검증.
+
 ## 한줄요약
 
 치과용 지르코니아 grade 선택의 5축 spine — (1) 결정학·강도-투명도 trade-off 기초, (2) grade × 적응증 매트릭스, (3) 두께-파절 임계값, (4) 대합치 마모, (5) 접착·표면처리 차이. [[dental-materials-decision-ladder]] 축 2 의 sub-overview, [[dental-materials-decision-ladder]] Phase 2 stub 의 첫 실현.
