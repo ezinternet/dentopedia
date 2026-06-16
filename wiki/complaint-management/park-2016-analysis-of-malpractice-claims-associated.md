@@ -14,8 +14,6 @@ tags: [medico-legal, surgical-site-infection, korea, malpractice, consent]
 relations:
   - type: reinforces
     target: kwon-2017-analysis-of-the-legal-effect
-  - type: extends
-    target: JISPCD-14-295
 ---
 
 ## One-line Summary

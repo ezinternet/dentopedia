@@ -12,10 +12,8 @@ pdf_filename: kwon-2017-analysis-of-the-legal-effect.pdf
 source_collection: external
 tags: [medico-legal, settlement, korea, malpractice]
 relations:
-  - type: extends
-    target: JISPCD-14-295
   - type: applies-to
-    target: 10-1055-s-0039-1700767
+    target: park-2016-analysis-of-malpractice-claims-associated
 ---
 
 ## One-line Summary
