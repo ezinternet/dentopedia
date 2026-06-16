@@ -16,6 +16,20 @@ relations:
     target: saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 하악구치(특히 증상성 비가역 치수염 hot tooth)에서 표준 하치조신경전달마취(Inferior Alveolar Nerve Block, IANB)는 자주 실패 — local-anesthesia 5편을 **①1차 선택 ②실패 시 보강 ③마취제 선택 ④진정 보조** 4단 ladder로 통합.
+> - **1차(성인)**: 증상성 비가역 치수염 하악 제1대구치에서 4% articaine 협측침윤(Buccal Infiltration, BI)은 2% lidocaine IANB와 성공률 동등 (RR 1.06, moderate certainty; Saatchi 2025 SR+MA, 5 RCT). 침윤이 더 간단·저침습.
+> - **1차(소아)**: 소아에서도 동일 — articaine BI가 lignocaine IANB의 대안 (OR 1.02, NS; Yu 2021 SR+MA, 7 RCT, I² 높음).
+> - **실패 시 보강**: IANB 단독 실패 시 보충주사(SUPP, RR 2.02)와 1차 병용주사(COMB, RR 1.86) 모두 IANB 단독보다 유의 우월하고 서로 동등 — 술자 숙련·상황으로 선택 (Rujirawan 2025 Network MA, 28 RCT).
+> - **마취제 선택**: articaine는 mepivacaine 대비 성공률은 동등하나 시술후 통증을 유의하게 감소 (MD 0.59, p<0.001; Alkandari 2024 SR+MA). → 성공률 우위는 입증 안 됨, 우위는 통증·침윤 효율.
+> - **진정 보조**: 아산화질소(N2O-O2) 흡입진정 성공률 94.9%, 성인(99.9%) > 소아(91.9%, p=0.002; Rossit 2021 SR+MA, 19 RCT). 소아 성공률 낮음을 사전 고지.
+> - **골내마취(2026-06 추가)**: 하악구치 hot tooth에서 lidocaine 골내마취(QuickSleeper5)가 보충주사 없이 성공률 100% vs 4% articaine BI 70.8%(P<0.001), 발현 빠르나 지속 짧음 (Park 2024, retrospective·단일기관 한계) → IO를 1차 대안으로 끌어올림.
+> - **술후 통증(2026-06 추가)**: 장시간형 bupivacaine이 진통제 소비 감소, topical benzocaine이 비가역 치수염 통증 감소 (Miroshnychenko 2023, ADA CPG 근거).
+> - **오판 패턴**: "하악구치는 무조건 IANB" — 비가역 치수염에선 IANB 단독 자주 실패, articaine BI가 동등 대안이며 실패 시 보충 필수. "보충 vs 병용 중 하나가 우월" — Network MA상 동등.
+> - **확신도**: 1차 BI(성인)·마취제 통증·N2O = 근거강함; 소아 BI·보충/병용 = 합의수준. 4% articaine IANB 전달의 신경독성 논쟁은 별도 고려.
+
 ## One-line Summary
 
 Synthesis of the new local-anesthesia cluster: for mandibular molars (especially "hot teeth" with symptomatic irreversible pulpitis), 4% articaine buccal infiltration is statistically comparable to lidocaine IANB in both adults and children; when IANB fails, supplementary and combined injections each roughly double the success rate and are equivalent to each other; articaine beats mepivacaine on pain (not success); nitrous-oxide sedation succeeds ~95%, higher in adults than children.
