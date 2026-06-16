@@ -11,6 +11,22 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: 임플란트 표면처리 15편 + 횡단 인용 3편 종합 — SLA·CA·UV 광기능화·골밀도화를 매트릭스로 비교.
+> - SLA/SA = 임상 표준 — 8년 생존 94.8%(Kim 2020 retrospective, n=96).
+> - CA(초친수성, Osstem) = 더 안정적 — 5.2년 생존 97.3%, MBL 0.074mm(Kim 2022 retrospective, n=258); 한국에서 가장 검증된 초친수성 옵션.
+> - UV 광기능화(Photofunctionalization, UV-PF) = 위축골·복잡증례 1순위 — 복잡증례 ISQ +21.9, 7년 100% 성공(Hirota 2020 prospective).
+> - 표면처리의 진짜 기전은 친수성(접촉각)이 아니라 탄화수소(Hydrocarbon) 제거를 통한 양전하(Electropositivity) 회복 = 생물학적 노화(Biological Aging) 역전(Hayashi 2014, Minamikawa 2016 in-vitro).
+> - 탄소/티타늄(C/Ti) 비율↑ → 골아세포 부착·증식·분화 농도 의존적 감소(C/Ti=1.0에서 ALP·칼슘 무기화 >40% 감소).
+> - 친수성 표면은 ISQ 절대값을 올리는 게 아니라 D3/D4 골에서 stability dip을 제거해 조기 부하 시기를 앞당김(Canullo 2024 prospective: 친수성 T45 74.97 vs SLA 73.44, p<0.05).
+> - 생물학적 노화는 4주가 아닌 6개월까지 지속 — 포장 후 6개월 이상 보관 임플란트는 골유착 손실 가능, UV-PF로 역전.
+> - 거칠기 최적: 메조+마이크로+나노 계층형(Hierarchical) 표면이 이론적 최적(Hasegawa 2020 in-vivo).
+> - 골밀도화(Osseodensification, OD)는 표면처리가 아니라 osteotomy 기법 — Densah burs로 측방 골 압축, 표면처리와 보완 관계; TSFE에서 ISQ 우위(Starch-Jensen 2025 SR+MA).
+> - 한계: 표면 직접 비교 임상 SR+MA·다기관 RCT 부재; 암절제·방사선 환자는 UV-PF로도 7년 22.2%로 불충분(병태생리적 손상 보상 불가).
+> - 골질별 알고리듬: D1/D2 → SLA/SA, D3 → CA/친수성, D4 → CA/SLActive + OD 또는 UV-PF, 노화 임플란트 → UV-PF 역전 후 사용.
+
 ## 한줄요약
 **SLA = 임상 표준**, **친수성 (SLActive/CA) = D3/D4 골에서 stability dip 제거**, **UV 광기능화 (Photofunctionalization) = 위축골·복잡증례에서 ISQ +21.9 상승 (7년 100% 성공)**, **골밀도화 (Osseodensification, OD) = 표면이 아닌 술기 — TSFE에서 ISQ 우위**; 표면처리의 핵심 기전은 친수성보다 **탄화수소 (Hydrocarbon) 제거를 통한 생물학적 노화 (Biological Aging) 역전** (Hayashi 2014, Minamikawa 2016).
 
