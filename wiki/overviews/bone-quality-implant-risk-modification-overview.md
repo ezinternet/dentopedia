@@ -29,6 +29,21 @@ relations:
     target: raghavan-2025-bone-density-implant-dentistry-review
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 골질(Bone Quality)을 하나의 술식이 아니라 "위험 축"으로 묶어, "이 골질이면 실패 위험이 얼마이고 무엇을 수정할 것인가"에 답하는 종합 페이지.
+> - 국소 골밀도(Lekholm-Zarb I~IV / Misch D1~D4)가 초기 안정성과 실패 위험을 결정 — type IV(저밀도·얇은 피질·상악 구치부)는 ~1.5~1.9배 더 실패(Rosa 2024 SR+MA, 49편·29,905 임플란트).
+> - ISQ 밴드: type IV 58~65 vs type I 72~80; type I=II 동등, type III는 중간.
+> - 안정성은 피질골 맞물림 현상 — 치조정 피질골 두께(Crestal Cortical Thickness)가 가장 강한 ISQ 예측인자이며, 깊은 해면골(6~9mm)은 얇은 피질을 대체하지 못함(Chatvaratthana 2017, Di Stefano 2021).
+> - 연질골 수정 레버(stackable): 언더드릴링/골밀도화(Osseodensification, OD), 테이퍼 매크로디자인, 길이보다 직경(Diameter > Length), 생체활성·친수성 표면, 지연 부하 — 연질골일수록 매크로디자인 차이는 줄고 드릴링 프로토콜이 더 중요(Stoilov 2023).
+> - OD는 삽입 토크(Insertion Torque, IT)를 올리지만(39 vs 32 Ncm) ISQ·6개월 생존은 동등 — 생존 업그레이드가 아닌 안정성 보존 옵션(Mello-Machado 2021 RCT, n=16).
+> - 표면 레버: 연질골에서 생체활성 표면이 T30/T45 ISQ dip을 제거해 45일 부하 가능(Canullo 2024).
+> - 부하 결정: 얇은 치조정 피질·낮은 ISQ → 지연 부하 기본; ISQ < ~65에서 조기 부하 강행 금지.
+> - 전신·병적 골은 같은 축의 시간·생물학적 확장: 골다공증(Osteoporosis)은 단기 생존은 건강군과 유사하나 장기 82.6~94.1%(5~10년)로 감소; 골경화성 병변은 과열·병변내 실패 위험 추가(Kim 2026).
+> - 주의 충돌: FEA(응력)는 D3/D4에서 실린더형을 선호하나 임상(초기 안정성)은 테이퍼형 선호 — 미해결 쟁점.
+> - 임상 정리: 골다공증 = 높은 임플란트 실패라는 통념은 틀림; 위험은 장기·골질 기반이며 약물(MRONJ) 위험과 분리해서 봐야 함.
+
 ## One-line Summary
 
 Synthesis organizing bone quality as the *risk axis* (not a procedure): local density (Lekholm-Zarb I–IV / Misch D1–D4) sets primary-stability and failure risk — type IV bone fails ~1.5–1.9× more (ISQ 58–65 vs 72–80 for type I) — and crestal cortical thickness, not cancellous volume, is the dominant stability driver; the modification levers are drilling protocol, implant macro-design, surface, and loading timing, while systemic/pathologic bone (osteoporosis, osteosclerotic lesions) extends the same axis with long-term and lesion-specific caveats.
