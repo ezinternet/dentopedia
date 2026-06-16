@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [dental-erosion, erosive-tooth-wear, etw, enamel, demineralization, titratable-acidity, ph, soft-drinks, citrus, profilometry, prevention, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 치아침식 (Erosive Tooth Wear, ETW)은 세균이 관여하지 않는 산성 치질 소실이며, "pH가 낮다 = 침식적"이라는 단순 등식은 잘못이다. wiki/dental-erosion 4편 (review·in-vitro)을 병인-기전-예방 축으로 통합.
+> - 병인 분류: 외인성 (식이/음료, 신맛 사탕)과 내인성 (위식도역류질환 (GERD), 구토)으로 나뉘며, 우식 (세균·발효당)과 기전적으로 구분된다. [근거강함]
+> - 침식 잠재력 결정인자: pH 단독이 아니라 적정산도 (Titratable Acidity, 중화에 필요한 염기량)·접촉시간·음료의 칼슘/인산/불소 (Ca/PO₄/F) 포화도·킬레이션 (chelation) 능력이 함께 결정.
+> - in-vitro 핵심 수치: 콜라 (pH 2.67)가 단시간 최강이나, 적정산도가 높은 오렌지주스는 접촉 ≥30분이면 동등해진다 (Barac 2015). 요구르트는 비침식적.
+> - 신맛 사탕 (citrus sweets, pH 2.6–3.5)은 0.1% 구연산만큼, 때로는 콜라보다 더 침식적 — 이중산 (구연산+말산/젖산) 제품이 최강 (7일 1.3–2.4 μm wear, Souza 2020). [근거강함, in-vitro]
+> - 중증도 조절인자 (modifier): 타액 (유속·완충능·과포화)·획득피막 (acquired pellicle)·식이 빈도가 개인차의 주원인. [합의수준]
+> - 우식과의 동역학 차이: 침식은 표면 연화·소실 (표층 보존 적음), 우식은 표층하 탈회 (subsurface demineralization). 무기질 소실 경로는 공통이나 양상이 다르다.
+> - 위험 평가 원칙: '음료 pH 목록'이 아니라 노출 패턴 (빈도·접촉시간·머금기/sipping·취침 전 섭취)을 본다. 식이일지에서 '무엇'보다 '얼마나 자주·어떻게'.
+> - 임상 권고: ① 콜라뿐 아니라 오렌지주스·신맛 젤리도 경고, ② 산 노출 직후 칫솔질 회피 (30분 대기, 연화된 법랑질 마모 가속), ③ 무가당 우유/치즈/물 헹굼·불소 도포로 중화·재광화, ④ 구개측 (palatal) 마모 패턴은 내인성 시사 → 의과 의뢰.
+> - 근거 한계: 거의 모든 정량 근거가 in-vitro (소·인 법랑질, 단순 산 챌린지) — 인간 in situ/임상 종단 데이터와 임상 침식위험 스코어가 부족. 임상 외삽은 [claude해석].
+
 ## 한줄요약
 
 치아침식(ETW) review·in-vitro 4편 통합. ①병인 — 비세균성 산(외인: 식이/음료, 내인: GERD)에 의한 치질 소실; 타액·법랑질 pellicle·식이 빈도가 중증도 modifier. ②in-vitro — 침식력은 pH 단독이 아니라 적정산도(titratable acidity)·접촉시간·칼슘/인산 포화도의 함수: 콜라(pH ~2.6)가 단시간 최강, 오렌지주스는 ≥30분이면 동등; citrus sweets(pH 2.6–3.5)는 0.1% 구연산만큼 침식적. ③예방 — 산 노출 빈도·접촉시간 감소, 불소·중화, 산 직후 칫솔질 회피.
