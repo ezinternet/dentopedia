@@ -16,7 +16,7 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 임플란트주위염 (Peri-implantitis) 7편을 역학·예방·치료로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
+> - 임플란트주위염 (Peri-implantitis) 10편을 역학·예방·치료·보철해부학적 위험인자로 종합한 페이지로, 임플란트 기능의 장기 최대 위협을 다룬다.
 > - 유병률: 환자 단위 19.53% (95% CI 12.87–26.19), 임플란트 단위 12.53% — 진단 기준 (탐침깊이 PD 임계값) 이 유병률 산포를 좌우하지 생물학 자체는 아니며, 기능 기간과 유의 연관 없음 (Diaz 2022 SR+MA 57편). [근거강함]
 > - 1차 예방의 핵심 전략 메시지: 임플란트주위 점막염 (Peri-implant Mucositis) 관리가 곧 임플란트주위염의 1차 예방 — 점막염은 가역적, 임플란트주위염은 비가역적 (Jepsen 2015).
 > - 탐침시출혈 (Bleeding on Probing, BoP) 이 건강 vs 염증을 구분하는 1차 임상 징후이고, 정기 지지치료 (SPT) 부재가 진행 위험을 높인다.
@@ -27,12 +27,15 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 > - 중립 (MBL에 무영향): 나사 vs 시멘트 유지 (p=0.51), 치관-임플란트 비 (p=0.32) — 유지 방식은 MBL이 아니라 재제거 용이성 (retrievability)·교합으로 결정한다.
 > - 결정 framework: BoP만 (골소실 없음) = 점막염 → PMPR + SPT, BoP + 골소실 = 임플란트주위염 → 비외과 우선 → 3–6개월 후 불충분하면 외과 (포위형 결손 → GBR 재건, 비포위형/수평 소실 → 절제형/접근 수술).
 > - 치료계획 단계 예방: 플랫폼 스위칭 + 원추형 연결 선택, 어버트먼트 높이 ≥2mm 유지, 불필요한 어버트먼트 교체 회피, emergence angle <30° + 오목/직선 emergence profile 설계.
+> - **보철·해부학적 위험축 (조절·평가 가능 host/design 인자, 생물막·치료 내용을 보완):** 출현각 (Emergence Angle) >30° + 볼록한 출현윤곽 (convex profile) 이 임플란트주위염·MBL과 연관 — 골수준 (bone-level) 임플란트에서 신호 가장 뚜렷, 단 SR 3편뿐이라 인과성 미확립 (Soulami 2022 SR). [근거제한]
+> - **수복물 변연–치조정 거리 (Restoration Margin–Alveolar Crest, RM-AC) ≤1.5 mm → MBL 위험 3.42배** — IDRA (Implant Disease Risk Assessment) 8개 위험인자 중 하나를 임상 검증; 동반 인자로 치주염 4기 vs 2기 26.31배, 직경 6.10배·길이 5.02배 (Basak 2024 후향 202 임플란트). 임상: 충분한 치관상 조직높이/어버트먼트 높이로 RM-AC >1.5 mm 확보. [후향]
+> - **얇은 치은 표현형 (thin gingival phenotype)** 은 생존율을 직접 결정하진 않으나 (얇음·두꺼움 모두 5년 성공률 >91%) 추가 골소실의 주요 위험인자 — 임플란트주위염/MBL을 매개로 한 *간접* 경로. 표현형 보존·증대는 임플란트 "구제"가 아니라 downstream 주위염/MBL 위험 감소가 목적 (da Silva 2025 SR 8편). [근거제한]
 
 ## One-line Summary
-Synthesis of 7 peri-implantitis papers: pooled prevalence 19.5% patient-level; mucositis management is primary prevention; no single decontamination protocol is superior; prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL.
+Synthesis of 10 peri-implantitis papers: pooled prevalence 19.5% patient-level; mucositis management is primary prevention; no single decontamination protocol is superior; prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL; and a prosthetic/anatomic risk axis — emergence angle >30° + convex profile (Soulami), RM-AC ≤1.5 mm → 3.42× MBL (Basak IDRA), thin gingival phenotype as an indirect bone-loss risk (da Silva) — adds modifiable design and host factors.
 
 ## 한줄요약
-7편 종합: 환자 단위 유병률 19.5%, 점막염 관리 = 1차 예방, 단일 표면제염 프로토콜 우위 없음, 보철 디자인(플랫폼스위칭·원추형 연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time)이 MBL을 유의하게 줄임.
+10편 종합: 환자 단위 유병률 19.5%, 점막염 관리 = 1차 예방, 단일 표면제염 프로토콜 우위 없음, 보철 디자인(플랫폼스위칭·원추형 연결·어버트먼트 높이 ≥2 mm·one-abutment-one-time)이 MBL을 유의하게 줄임. 더해 보철·해부학적 위험축 — 출현각 >30°+볼록 윤곽(Soulami), RM-AC ≤1.5 mm → MBL 3.42배(Basak IDRA), 얇은 치은 표현형의 간접 골소실 위험(da Silva) — 이 조절·평가 가능한 design/host 인자를 보강.
 
 ## Summary
 
@@ -118,6 +121,39 @@ Reconstruction goals: defect fill, re-osseointegration, soft-tissue recession li
 
 ---
 
+## Prosthetic & Anatomic Risk Factors
+
+Beyond the implant-component MBL levers above, three further studies isolate **modifiable/assessable design and host factors** that feed peri-implantitis risk — they complement (rather than overlap with) the biofilm-management and surgical-treatment evidence by acting at the planning/restorative and soft-tissue level.
+
+**Soulami 2022 (SR, 3 studies, 168–349 implants each) — emergence angle & profile:**
+- Implant-abutment emergence angle (EA) >30° → significantly higher peri-implantitis prevalence vs EA <30° (prevalence 16.7% and 24.8% in two studies); a third study showed smaller MBL when EA ~20°–40°.
+- Convex emergence profile (EP) → higher peri-implantitis prevalence (one study; another only when combined with EA >30°).
+- Effect clearest in **bone-level** implants. Only 3 eligible studies → associations, not proven causation. [근거제한]
+- Clinical: bias toward smaller emergence angles (<30°) and concave/straight profiles to ease hygiene access and limit MBL.
+
+**Basak 2024 (retrospective, 77 patients / 202 platform-switched bone-level implants) — restoration margin-to-bone distance (IDRA):**
+- Restoration-margin-to-alveolar-crest (RM-AC) distance **≤1.5 mm → 3.42× MBL incidence** vs >1.5 mm — clinical validation of the IDRA (Implant Disease Risk Assessment) RM-AC threshold as a genuine, measurable risk factor.
+- Dominant co-drivers: periodontitis **Stage 4 vs Stage 2 → 26.31× MBL**; greater implant **diameter → 6.10×**, greater **length → 5.02×**.
+- Clinical: aim for RM-AC >1.5 mm (adequate supracrestal tissue / abutment height); weigh implant macro-geometry and periodontal history in risk assessment. Supports post-loading radiographic prosthetic risk assessment as a complement to surgical-phase IDRA. [후향]
+
+**da Silva 2025 (SR, 8 studies) — gingival phenotype (indirect risk):**
+- Implant success **>91% at up to 5 years for BOTH thin and thick** phenotypes — phenotype does NOT directly determine survival, and the direct effect of tissue thickness on marginal bone level is inconclusive.
+- The **thin phenotype is a principal risk factor for additional bone loss** and is associated with higher peri-implantitis risk — its effect on survival is **indirect, mediated via peri-implantitis/MBL**.
+- A flapless protocol gave better short-term esthetics.
+- Clinical: preserve/augment a thin phenotype not to "save" the implant per se, but to reduce downstream peri-implantitis/MBL risk. [근거제한]
+
+| Prosthetic/anatomic factor | Effect on risk | Evidence | Source |
+|---|---|---|---|
+| Emergence angle >30° (bone-level) | higher peri-implantitis/MBL | SR, 3 studies | [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] |
+| Convex emergence profile | higher peri-implantitis prevalence | SR, 3 studies | [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] |
+| RM-AC ≤1.5 mm (IDRA) | 3.42× MBL | retrospective, 202 implants | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
+| Periodontitis Stage 4 vs 2 | 26.31× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
+| Implant diameter (larger) | 6.10× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
+| Implant length (greater) | 5.02× MBL | retrospective | [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] |
+| Thin gingival phenotype | indirect ↑ bone-loss/peri-implantitis risk (survival >91% regardless) | SR, 8 studies | [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] |
+
+---
+
 ## Decision Framework
 
 ```
@@ -149,7 +185,10 @@ To minimize lifetime peri-implantitis risk (based on Lin 2025):
 - Prefer conical internal implant-abutment connection
 - Maintain abutment height ≥2 mm (minimize subcrestal embedding)
 - Avoid unnecessary abutment changes (one-abutment-one-time)
-- Design emergence angle <30° and use concave/straight profile
+- Design emergence angle <30° and use concave/straight profile (Soulami 2022)
+- Maintain restoration-margin-to-crest distance >1.5 mm (Basak 2024, IDRA)
+- Account for periodontitis history and implant macro-geometry (diameter/length) in risk assessment (Basak 2024)
+- Preserve/augment a thin gingival phenotype to lower downstream peri-implantitis/MBL risk (da Silva 2025)
 
 Screw vs cement retention choice: clinically neutral on MBL — decide on retrievability and occlusal considerations instead.
 
@@ -162,6 +201,9 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — decontamination SR+MA
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — adjunctive therapy for mucositis
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — prosthetic MBL levers SR+MA
+- [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — emergence angle >30° / convex profile → peri-implantitis (SR, 3 studies)
+- [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — RM-AC ≤1.5 mm → 3.42× MBL; IDRA threshold validation (retrospective)
+- [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — thin gingival phenotype as indirect bone-loss risk factor (SR, 8 studies)
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — GBR NMA
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 multicenter RCT: electrolytic vs H₂O₂ decontamination, no superiority
 - [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 RCT: reconstruction = equal resolution but 3× bone fill vs supportive care
