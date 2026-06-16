@@ -18,6 +18,20 @@ relations:
     target: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 표면마취제는 위약 대비 needle·주사 통증을 확실히 줄이지만 제제 간(lidocaine·benzocaine·EMLA) 직접비교 차이는 작고 비일관적 — 약물명보다 전달제형·농도·도포술기가 더 결정적이다.
+> - 명제1: 표면마취제는 위약 대비 자입 통증을 유의하게 줄이고 농도 의존성이 있다(5% < 20%) — Khongkhunthian 2018 in-vivo(n=100). [근거강함(위약 대비)]
+> - 명제2: 표면마취는 주사마취를 통증강도에서 완전 대체하지 못함 — 치근활택술(Scaling and Root Planing, SRP)에서 주사가 통증강도(P=.03)·rescue 필요(P<.0001) 우위, 단 통증위험·환자선호는 동등(Wambier 2017 SR+MA 6 RCT). [근거강함]
+> - 명제3: 소규모 RCT(Subramanian 2023, n=40 소아)는 benzocaine 20% > lignocaine 2%(1.2 vs 2.1, P<0.05). [합의수준, 검정력 약함]
+> - 명제4: 더 엄격한 triple-blind RCT(Karkoutly 2024, n=45 소아)는 8% lidocaine = 20% benzocaine = 5% EMLA로 차이 없음(FLACC/FACES/맥박 NS). [근거강함]
+> - 중심 긴장점: 명제3·4의 상충 — blinding·검정력이 강해질수록 제제 간 차이가 사라지는 패턴은 관찰된 "우위"가 상당 부분 측정·기대 편향일 가능성을 시사. [claude해석]
+> - 임상 결정: 표면마취제는 쓴다(위약 대비 효과·수용성 명확, 환자 83%가 "주사 덜 아프다" 인식), 단 비용·도포시간 1–2분 추가.
+> - 제제 선택에 과투자 말 것 — 엄격 RCT는 동등하므로 가용성·안전성으로 선택. benzocaine은 드물지만 methemoglobinemia 위험(특히 소아·고농도) 유의.
+> - 농도: 위약 대비는 농도 의존적이나 표준 20% 이상 증량의 추가 이득은 불명(8% lidocaine도 추가이득 없음).
+> - 도포 프로토콜: 제제별 권장 onset 준수(EMLA 약 5분 — 2분 고정은 EMLA에 불리), 건조·압박·접촉시간 표준화. 표면 단독은 깊은 block에 부적합(rescue 마취 필요↑).
+
 ## One-line Summary
 
 Topical anesthetics reliably reduce needle/injection pain versus placebo, but head-to-head differences between agents (lidocaine, benzocaine, EMLA) are small and inconsistent — delivery/formulation, concentration, and contact technique appear to matter more than which drug is chosen; topical does not fully match injected anesthetic for pain intensity but remains an acceptable less-invasive option in contexts like SRP.
