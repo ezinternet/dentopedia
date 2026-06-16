@@ -11,6 +11,20 @@ source_papers:
 tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 지르코니아 임플란트는 중장기 생존이 티타늄에 근접하며, 잔여 실패 신호는 세라믹 자체가 아니라 설계·시공 문제에 집중된다. mohseni 2024·pieralli 2017·arefnia 2025 3편 통합.
+> - 생존율: Pieralli 2017이 12개월 95.6%, Mohseni 2024가 25편 (임플란트 4017개)에서 10년 누적생존율 (CSR) 95.1%로 확장. 변연골소실 (Marginal Bone Loss, MBL)은 완만 (~0.005 mm/월).
+> - 잔여 실패가 집중되는 4개 modifiable 레버: ① 2-piece 설계 (1-piece보다 나쁨, p=0.017), ② 협폭경 (narrow-diameter, 파절 집중), ③ 의자측 (chairside) 드릴 가공된 관상부 (drill-prep, p<0.001), ④ 단종/초기세대 제품.
+> - 임상 결정 — 설계: 수복적으로 가능하면 1-piece를 2-piece보다 선호. [근거강함, SR+MA]
+> - 임상 결정 — 직경: 고하중 부위에서 협폭경 지르코니아 회피 (파절 위험 집중). [합의수준]
+> - 임상 결정 — 가공: 관상부를 의자측에서 드릴 가공하지 말 것 (drill-prep 임플란트 생존 더 나쁨, p<0.001). [근거강함]
+> - 임상 결정 — 제품: 상용 최신·문헌화 잘 된 시스템 사용, 단종 제품은 생존율 낮음. [근거강함]
+> - 임상 결정 — 악궁: 상악 vs 하악 생존 유의차 없음 (p=0.637) — 부위는 제한인자가 아니다. [근거강함]
+> - 환자보고결과 (Patient-Reported Outcome Measure, PROM): 심미·편안함·저작에서 유의한 향상, 높은 만족도 (Arefnia 2025). 단 PROM 문헌이 너무 이질적이라 메타분석 불가.
+> - 근거 한계: 60개월 초과 연구가 드물고 장기 파절/지대주나사 데이터 부족, 표준화 지르코니아 PROM 도구 부재, 경성종말점 (hard endpoint) 사용 지르코니아 vs 티타늄 직접비교 RCT 제한적. 임상 입장: 지르코니아는 적절 적응증에서 티타늄의 근거 기반 대안 (수정 가능한 위험 레버를 피한다는 전제).
+
 ## One-line Summary
 Zirconia implants now show high medium-to-long-term survival (10-year CSR ~95%) with low marginal bone loss and high patient satisfaction; the residual failure signal is concentrated in two-piece designs, narrow diameters (fracture), drill-prepared coronal parts, and discontinued products — i.e. execution/design, not the ceramic itself.
 
