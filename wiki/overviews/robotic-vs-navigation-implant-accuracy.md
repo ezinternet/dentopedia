@@ -13,6 +13,19 @@ source_papers:
 tags: [robotic-surgery, dynamic-navigation, CAIS, implant-accuracy, synthesis]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 임플란트 식립 정확도 비교 종합 — 자율 로봇(robotic, r-CAIS) vs 동적 내비게이션(dynamic navigation, d-CAIS) vs 정적 가이드(static guide), 5편.
+> - 핵심 질문 전환: "로봇이 더 정확한가?"가 아니라 "정확도의 *어느 성분*이 개선되며, 그것이 로봇 덕인가 추적 파이프라인 덕인가?"
+> - 결론 한 줄: 로봇은 각도 편차(angular deviation)를 일관되게 줄이나, 동일 추적장치로 통제하면 선형(플랫폼·첨부) 편차 우위는 비유의해지고 시술시간만 길어짐.
+> - 비통제 비교(Yu 2025, prospective n=135): 로봇이 세 편차 지표를 모두 약 절반으로(각도 1.62° vs 3.61°, p<0.001).
+> - 추적장치를 양 군에 동일화한 유일한 RCT(Wei 2025, n=40): 로봇의 재현 가능한 이점은 각도 통제뿐(1.01° vs 1.78°, p<0.01), 관상·첨부 선형 편차는 통계적으로 동등(NS).
+> - 반자율 로봇(Chen 2025, retrospective n=57): 반대 양상 — 선형 이득은 있으나(p<0.001) 각도 이득은 없음(NS) → 술자가 부분적으로 loop에 남으면 각도 이득을 잃음.
+> - 해석[claude해석]: 로봇은 손떨림·drift(각도)를 제거하나 내비게이션과 동일한 registration·tracking 오차 예산(선형)을 물려받음.
+> - 임상 결정점: ①각도가 critical한 케이스(다수 임플란트 평행성·좁은 치근간·보철 주도 각도)→로봇이 가장 명확·재현 가능한 이점[합의수준] ②단순 단일 부위→동적 내비가 선형 정확도 동등하면서 더 빠름 ③벤더 정확도 주장은 동일 추적장치 비교를 요구[근거강함, Wei RCT] ④로봇 자율 수준을 필요한 정확도 성분에 맞출 것.
+> - Gap: 편차 차이를 골유착·MBL·보철 적합·생존 등 hard outcome에 연결한 데이터 없음, RCT n 작음·단일치 중심·학습곡선 미분리·비용효과 분석 없음, 복잡/full-arch·즉시식립 로봇 정확도 미연구.
+
 ## One-line Summary
 Across current clinical evidence, autonomous implant robots reliably reduce angular deviation vs dynamic navigation, but their advantage in linear (platform/apex) deviation shrinks to non-significant once the optical tracking system is held constant — at the cost of longer chair time.
 
