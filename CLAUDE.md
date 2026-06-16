@@ -8,6 +8,8 @@ Original PDF → sources/*.md (LLM summary) → wiki/{category}/*.md (final page
 
 **Language policy**: Wiki body content is in English (RAG-friendly, preserves technical terms). Every wiki page AND every source page carries a **bilingual one-line summary** as two separate sections, in this order: `## One-line Summary` (English) immediately followed by `## 한줄요약` (Korean). On wiki pages this pair sits immediately above `## Summary`; on source pages it sits immediately above `## 1. Document Information`. Both languages are mandatory for new pages. Conversation can be in any language (including Korean).
 
+**Overview Korean digest (mandatory for `wiki/overviews/` pages)**: English body is too dense to skim in Korean, so every overview/synthesis page additionally carries a **`## 한국어 핵심요약` block at the very TOP** — placed immediately after the frontmatter, ABOVE `## One-line Summary`. Format it as an Obsidian callout `> [!summary] 한국어 핵심요약` with **~10 bullets** (longer is fine) capturing: the thesis/bottom line, key numbers, the main branches/decision points, contrasts/exceptions, and the clinical takeaway. Use the **한국어 (English, 약어)** term-notation rule inside the bullets. The English body stays intact (RAG policy unchanged) — this block is a Korean reading aid layered on top. Mandatory for all new overviews going forward.
+
 **Term notation rule**: When using technical/medical terms in conversation, ALWAYS write them as **한국어 (English, 약어)** format. Example: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
 
 ---
