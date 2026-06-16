@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [ceramic-bonding, hf-etching, silane, contamination, resin-cement, lithium-disilicate, feldspathic, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 9편 인 비트로(in vitro) 연구 종합 — 실리카 기반 세라믹 접착 성공은 4개 결정의 연쇄(불산 (Hydrofluoric Acid, HF) 농도 → 실란 → 오염 제거 → 시멘트 선택)에 달려 있다.
+> - 축 1 — HF 농도: 장석계(feldspathic) 세라믹은 ≥3% HF 필요(1%는 노화 후 14.5→10.2 MPa로 열화), 10%가 5%보다 우수(Moura 2020, p=0.02), 산부식 시간(60-120초)·HF 가열은 무의미.
+> - 리튬 디실리케이트 (Lithium Disilicate, LDS): 가열한 HF(70°C)가 미세인장결합강도 (μTBS)를 ~18→~29 MPa로 선택적으로 향상(Leyva del Rio 2021) — 장석계에는 이득 없음(결정 미세구조 차이).
+> - 축 2 — 실란: 대부분의 유니버설 접착제는 분해된 실란(실록산 형태)을 함유해 반응성이 낮음 — 별도 사전가수분해 실란 프라이머가 화학적으로 우수(Dimitriadi 2019, NMR로 입증, Calibra Silane만 활성 실라놀 단량체 함유).
+> - 별도 실란 단계는 대부분의 유니버설 접착제에서 필수(Single Bond·All Bond Universal은 p<0.001로 향상)이나 FuturaBond는 예외 — Scotchbond Universal 단독은 열순환 시 50-70% 탈락(Sagen 2025).
+> - 실란만으로는 불충분: HF 처리한 LDS에 실란만 적용 시 무처리 대조군과 차이 없음(20.17 vs 18.36 MPa) — 실란 후 레진 접착제 레이어 추가가 결정적(45.49 MPa로 최고, Simasetha 2021).
+> - 축 3 — 트라이인(try-in) 오염 회복: 타액+실리콘 페이스트 오염 후 Monobond Etch&Prime (MEP) 또는 5% HF 재처리만 결합강도 회복 — 물·인산·에탄올·Ivoclean은 모두 불충분(Del Bianco 2025), Ivoclean은 마케팅과 달리 최악의 활성 세정제.
+> - 축 4 — 시멘트: 예열 복합레진(68°C, 10분)이 통상 레진 시멘트·유동성 복합레진보다 우수(Grangeiro 2024) — 유동성 복합레진은 최저 성능에 세라믹 파절 위험까지 증가하므로 합착재로 비권장.
+> - 임상 프로토콜 [claude 해석]: ① HF 산부식(장석계 5-10%/60초, LDS 9%/20초) → ② 전용 실란 프라이머 → ③ 레진 접착제 레이어 → ④ 예열 복합레진 합착.
+> - 구강내 세라믹 칩 수리: 전용 실란+접착제(BISCO 등) 필수, 표면처리(HF vs 다이아몬드 디스크)는 접착제 선택보다 부차적 — 구강내 HF 독성 위험을 고려하면 다이아몬드 디스크 거칠게+전용 실란+접착제가 선호된다.
+> - 전 근거가 in vitro이므로 임상 외삽에 주의하며, 제조사 지침을 대체하지 않는다.
+
 ## One-line Summary
 
 Nine in vitro studies establish that successful silica-based ceramic bonding depends on a chain of four decisions — HF concentration ≥3% (≥ 10% optimal for feldspathic), a dedicated prehydrolyzed silane primer followed by an adhesive layer, Monobond Etch&Prime or HF re-etch after try-in contamination, and preheated composite (68°C) as the highest-performing luting agent.
