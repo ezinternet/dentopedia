@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dysbiosis, psd-model, keystone-pathogen, p-gingivalis, f-nucleatum, s-mutans, c-albicans, caries, periodontitis, oscc, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: 구강 미생물·바이오필름 review 15편을 우식(caries)과 치주염(periodontitis)을 관통하는 단일 framework로 통합 — 두 질환 모두 '단일 종 감염'이 아닌 군집 dysbiosis로 설명.
+> - 두 historical foundation: Socransky 1998(미생물 complex/공동체 패러다임 — red complex 정의)과 Costerton 1999(바이오필름/내성 패러다임 — 매트릭스 기반 inherent tolerance). 현대 문헌은 둘을 대체가 아니라 더 정밀하게 재해석.
+> - 3축 framework: ①매트릭스(EPS/matrixome) ②생태(microbiome) ③병인(dysbiosis).
+> - 축①: 세포외다당(특히 glucan) 매트릭스가 우식 바이오필름의 1차 virulence — 부착·3D 구조·확산장벽을 형성하고 국소 산성 미세환경(pH 4.5–5.5)을 만들어 >2h 중화 저항(Koo 2013, Bowen 2011).
+> - 'matrixome' 개념: 매트릭스는 다당+단백+eDNA+지질의 복합체이며 종마다 조성 다름 → 항바이오필름 표적으로 재정의(Karygianni 2020).
+> - S. mutans Gtf(B/C/D)는 pellicle/세균 표면에 차등 흡착되어 in situ glucan 합성, 표면 흡착 시 활성 3–4배. 혼합종 환경이 glucan 합성·내산성 단백 발현을 증폭(Klein 2012).
+> - 축③ 치주염 = PSD(Polymicrobial Synergy & Dysbiosis) 모델: keystone pathogen인 P. gingivalis가 저존재비(<0.01%)로 군집을 dysbiotic하게 재편 — complement(C5aR–TLR2 crosstalk)·gingipain 매개 면역교란(Hajishengallis 2012/2014, Lamont 2014).
+> - 축② 생태: 구강 ~1,000종, site당 ~50종, 개인당 ~200종. 건강=generalist, 질환=specialist(virulence 유전자 발현↑) → 종 목록보다 기능 유전자가 더 나은 판별자.
+> - 임상 결정점 1 — 우식: 매트릭스 기질이 sucrose이므로 항균제보다 식이당 노출 빈도 감소가 1순위(생태학적 합리). 2 — 기계적 plaque 제거가 핵심: 매트릭스 확산장벽 때문에 항생제 단독으로 성숙 바이오필름 무력화 어려움(brushing·SRP·관개 활성화), 항생제는 보조.
+> - 임상 결정점 3 — 치주염은 '특정 세균 박멸'이 아니라 'dysbiosis 역전'(host modulation·생태 회복), SRP가 1차. 4 — 구강-전신 연관(F. nucleatum–OSCC, P. gingivalis–류마티스/심혈관)은 인과 단정 금물('연관 있음·인과 미확정'으로 구분), Fn 양성 OSCC는 역설적 양호 예후.
+> - 핵심 함의: 합리적 개입점은 항생제 표적이 아니라 매트릭스·종간 신호·식이당 차단. 매트릭스 표적 치료는 대부분 in-vitro/전임상 단계로 임상 전환 미성숙.
+
 ## 한줄요약
 
 구강 미생물·바이오필름 review 15편 통합 (Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 두 historical foundation 포함). 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름의 핵심 virulence이며 국소 산성 미세환경(pH 4.5–5.5)을 만든다. ②생태(microbiome): ~1,000종 중 site당 ~50종, 건강=generalist·질환=specialist. ③병인(dysbiosis): 치주염은 keystone pathogen(P. gingivalis, <0.01%)이 주도하는 PSD 모델, caries는 sucrose-EPS feedforward loop — 둘 다 '단일 종 감염'이 아닌 군집 dysbiosis. 임상 함의: 항생제 표적이 아니라 매트릭스·종간 신호·식이당 차단이 합리적 개입점.
