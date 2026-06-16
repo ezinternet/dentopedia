@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-modes, prf, calcium-sulphate, ridge-split, peri-implantitis, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지의 핵심 명제: 치조제 보존술(Alveolar Ridge Preservation, ARP)은 보편 권고가 아니라 **시나리오 의존적 개입**이며, "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나"를 다루는 do-ARP의 짝(counterpoint) 페이지다.
+> - 발치 후 협측골 흡수는 다발골(bundle bone) 의존성 때문에 **생물학적으로 불가피** — 즉시식립 단독으로도 막지 못한다 (Araujo 2005, 개 조직학). [근거강함]
+> - 자연 치유 1년 동안 협설폭(buccolingual width) ~50% 감소, 그 중 2/3가 첫 3개월에 발생 (Schropp 2003, 인간 전향). ARP·즉시식립 timing 임계값.
+> - ARP를 **하지 말아야 할** 시나리오: ①후방부 두꺼운 협측 골벽(BBT ≥ 1.5 mm) + 식립 예정 ②즉시식립 가능 부위 ③이미 GBR 예정인 큰 결손 ④임플란트 계획 없는 가철식/FPD (심미부위 예외).
+> - ARP 후 임플란트 실패의 단일 유의 예측인자는 **순수골 결합(Pristine Bone Engagement, PBE) < 1.1 mm → HR 2.50** (Kang 2025, n=528). 임플란트 길이가 graft zone보다 ≥1.1 mm 더 native bone에 박히도록 계획.
+> - ARP는 **차원(dimension) 보존**이 목적이지 골 quality 향상이 아니다 — 잔류 이식 입자 때문에 신생골(vital bone) %는 오히려 늦거나 적다 (Mardas 2023, Poli 2017 6mo 신생골 16%·잔류 이종골 32%).
+> - 보조 재료: 빠르게 흡수되는 황산칼슘(calcium sulphate, CalMatrix) 50:50 혼합은 4개월 시점 신생골 62.5% vs 31.25%로 quality 개선 (Signoriello 2025); PRF는 narrative 근거만 있어 SR 수준 효과는 미입증.
+> - ISQ는 ARP 영역에서 신생골 quality proxy로 작동하지 않는다 — ARP 후 ISQ 60+여도 장기 골 quality를 보장하지 않음 (Jung 2025 동물, ISQ↔신생골 NS).
+> - 5–13년 후 **만기 이종골 실패**(만성 섬유 포함·peri-implantitis 양상)는 보고되나 SR에서 빠진다 (Adams 2022) → 장기 follow-up·환자 사전 고지 필요.
+> - ARP만으로 부족한 경우: 이미 수평 ≤ 4 mm ridge는 치조골 분리술(ridge split, Ayoub 2018) 또는 block graft; peri-implantitis 동반 발치는 CAD/CAM Ti mesh GBR + 재식립 (Tallarico 2025).
+> - 임상 takeaway: ARP 결정의 분모는 자연 치유다. ARP intervention 효과(수평 1.86–2.19 mm 감소)를 자연 치유 baseline과 비교해 net gain이 충분할 때만 시행.
+
 ## 한줄요약
 
 발치 socket 자연 치유 생물학 (Araujo·Cardaropoli·Schropp 고전 axis) + 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의 한계·실패·과잉치료 비판 axis 를 합성. [[bone-regeneration-protocol-ladder]] (do-ARP) 의 counterpoint 페이지 — "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나" 의 spine.
