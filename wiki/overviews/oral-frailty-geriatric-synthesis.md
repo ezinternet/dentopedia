@@ -16,6 +16,19 @@ relations:
     target: dibello-2022-oral-frailty-indicators-adverse-health-outcomes
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 구강노쇠 (Oral Frailty)는 측정 가능하고 가역적인 노화성 구강기능 저하 — 막연한 노화가 아니라 지표화·개입 가능한 표적이다. 신설 geriatric-dentistry 5편을 개념→규모→결과→개입 4단 사슬로 통합.
+> - 구조: 11개 지표·4영역 (구강상태·구강운동·저작/연하/타액·구강통증)으로 구조화되며, 잔존치아 수가 6대 불량결과 (사망·신체쇠약·기능장애·QoL·입원·낙상) 모두와 가장 일관되게 연관 (Dibello 2022 SR, 68편). [합의수준]
+> - 유병률: 통합 24–32%이나 평가도구에 크게 의존 — OFI-8은 44%, OFI-6은 18%로 갈림 (Li 2024 24%, Zhu 2024 32%). 단일 수치 인용 금지. [근거강함(유병률)/claude해석(도구 편차)]
+> - 결과 (오즈비, Odds Ratio): 구강노쇠는 신체쇠약 (OR 1.67)·영양실조 (OR 2.27)·사회적 위축 (OR 1.42) 위험을 높인다 (Zhu 2024). [근거강함]
+> - 구강건조 (Hyposalivation)-영양 연관: 구강건조와 영양실조가 강하게 연관 (구강건조감 (xerostomia) 38%·영양실조 55%) — 저작/연하/미각 저하 경로 (Kumar 2025). [합의수준, I² 높음]
+> - 가장 강한 임상 개입 레버: 전문가 적용 불소 — 38% 불화디아민은 (Silver Diamine Fluoride, SDF)가 근관면 우식 예방+정지 (24개월 정지율 42%), 불화나트륨 (NaF) 바니시 64%·산성불화인산염 (APF) 32% 예방. 위생사 팀 직접 적용 가능 (Chan 2022). [근거강함]
+> - 임상 ladder: ① 잔존치아 수·저작/연하·구강건조 routine 스크리닝 (OFI 척도 사용 시 도구 명시), ② 구강건조 주관 (xerostomia)·객관 (hyposalivation) 구분 + 다약제 (polypharmacy) 검토, ③ 근관면 우식 비침습 1차 (고농도 불소·CHX·SDF, 위생사 적용), ④ 영양 연계, ⑤ 가역적 인자이므로 정기 재평가.
+> - 오판 패턴: ① "노년 구강쇠퇴는 불가피한 노화" (가역적 인자 다수), ② "유병률은 단일 수치" (도구에 따라 18–44%), ③ "근관면 우식은 무조건 수복" (비침습 우선이 노년에서 근거 우위).
+> - 4단 사슬 spine: 개념 (Dibello) → 규모 (Li) → 규모+결과 (Zhu) → 결과·영양 (Kumar) → 개입·우식 (Chan).
+
 ## One-line Summary
 
 Synthesis of the new geriatric-dentistry cluster: oral frailty is a measurable, reversible age-related decline in oral function. Tooth count and chewing/swallowing/saliva indicators predict mortality, physical frailty, and malnutrition; pooled prevalence is 24-32% (highly tool-dependent); the clinic's actionable levers are professionally applied fluoride (38% SDF arrests root caries) and early detection/management of hyposalivation, which is tightly linked to malnutrition.
