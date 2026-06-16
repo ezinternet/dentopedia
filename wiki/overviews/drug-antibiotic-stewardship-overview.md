@@ -24,6 +24,21 @@ source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 치과 항생제 처방의 1차 원칙은 제한 (restrictive) — 13편 (SR-MA 5, 가이드라인/position 2, narrative 2, 처방 행태 4) 종합 결론으로, 권고가 가장 빠르게 좁아지는 영역이다.
+> - 감염성 심내막염 (Infective Endocarditis, IE) 예방적 항생제는 4개 최고위험군 (인공판막·과거 IE·선천성 청색 심장병·심장이식 후 판막병변) 에만 적응 — Wilson 2021 AHA, Sperotto 2024 SR-MA (n=1.15M). [근거강함]
+> - 단순 발치 (intact dentition) 에는 예방적 항생제가 dry socket·감염·통증 감소에 효과 없음 → 시행 안 함 (Lodi 2021 Cochrane). [근거강함]
+> - 매복 사랑니 (third molar) 외과적 발치는 case-by-case, 임플란트는 술전 단일 Amoxicillin 2g가 표준 (다회 dose·연장 코스는 추가 효과 없음, Torof 2023 SR-MA). [합의수준]
+> - 치근단치주염 (Apical Periodontitis, AP) 은 광범위 항생제 과잉처방이 흔하나 근관치료가 1차이며, 항생제는 전신 증상 (발열·림프절 종창·shooting pain) 동반 시에만. [근거강함]
+> - 약물 선택: Amoxicillin이 1차 (부작용 21.5/million, 치명률 0.1/million), Clindamycin은 회피 (치명률 2.9/million 최고, 대부분 C. difficile) — Thornhill 2019 NHS 7년 데이터. [근거강함]
+> - 페니실린 알레르기 대안은 과거 Clindamycin에서 Cephalexin 2g 또는 Azithromycin 500mg으로 이동했다.
+> - 인공관절 (prosthetic joint) 환자 루틴 예방은 권고 안 함, IV 비스포스포네이트 (BP)·항혈관신생제 (Antiangiogenic) 및 방사선 두경부 (골괴사 ORN 예방) 는 침습 처치 전 예방 적응. [합의수준]
+> - 신규 근거: Metronidazole-알코올 "disulfiram 반응"은 근거가 빈약한 통념 (Feldman 2023 0건, Orire 2026 review) — 절대 금기는 아니나 환자 안심 차원에서 24–48h 음주 자제 안내는 유지 가능. [합의수준]
+> - 우리 클리닉 즉시 적용 4룰: ① 단순 발치 예방 처방 폐지 ② 임플란트는 술전 단일 2g만 ③ AP에 광범위 항생제 금지 (근관치료 1차) ④ Clindamycin 1차 회피. [claude해석]
+> - 항생제 내성 (Antimicrobial Resistance, AMR) 맥락: 치과는 사람 항생제 처방의 약 10%를 차지하고 부적절 처방률이 높으며, "예방 차원"·"환자가 원해서" 같은 모호한 적응이 가장 큰 stewardship 갭.
+
 ## 한줄요약
 치과 항생제 처방의 1차 원칙은 **제한 (restrictive)** — 감염성 심내막염 (Infective Endocarditis, IE) 고위험군·면역저하·IV BP·방사선 두경부·매복 발치·임플란트 일부에 한정. 단순 발치·치근단치주염(Apical Periodontitis)에는 prophylaxis 효과 없음. 1차 선택은 Amoxicillin (최저 부작용·치명률), Clindamycin은 회피.
 
