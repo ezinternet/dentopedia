@@ -10,6 +10,21 @@ tags: [overview, immediate-implant, type-1a, immediate-loading, ITI-consensus, e
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: ITI 2023 consensus(Hamilton SR+MA) 중심 12편 통합 — 즉시식립+즉시부하(ITI Type 1A) 적응증의 정량화 및 단계 의사결정 알고리즘.
+> - Type 1A 6개 충족 조건: 협측 jump space(facial gap) ≥2mm + 근관 감염 부재 + 두꺼운 생체형(thick biotype) + 협측 골판 두께 (Buccal Bone Thickness, BBT) ≥1mm + 1차 안정성 ≥35 Ncm + ISQ ≥70 + 무외상(atraumatic) 발치.
+> - Hamilton 2023 정량 효과: facial gap ≥2mm는 +3.1pp(p=0.04), 근관 감염 부재는 +2.6pp(p=0.004) — 단 조정 효과만 보고하므로 selection bundle 전체 충족 시에만 "Type 1A가 안전"이라 결론.
+> - 임상 성능: 5년 생존율 ~97.1%, 1년 변연골소실 (Marginal Bone Loss, MBL) −0.32mm, 전치부 분홍심미점수 (Pink Esthetic Score, PES) 평균 7.2/10(Wittneben 2023).
+> - 부위 편중: 데이터는 주로 상악 전치부 single tooth에 누적(생존율 97.5-99.6%, Zhou 2021), 구치부·하악 전치부 Type 1A는 evidence base가 얇음.
+> - 심미 위험 근거: 얇은 협측 골판(≤1mm)은 8주 수직 골소실 중앙값 7.5mm vs 두꺼운 골판 1.1mm(약 7배, Chappuis 2013) — BBT만이 유의한 예측인자.
+> - Type 1(즉시) 중안면 퇴축(midfacial recession) ≥1mm 발생률 9-41%(중앙값 26%, Chen 2014), 위험 3인자는 얇은 생체형·안면측 부정위치·얇은/손상된 협측 골판.
+> - 협측 결손 ≥5mm는 골유도재생술 (Guided Bone Regeneration, GBR) 동반 시 즉시식립 가능(Meijer 2024 10년 RCT) — "intact buccal wall이 절대 전제"라는 dogma를 약화(단 단일 센터 n=40).
+> - 구치부는 무외상 flapless+가이드 수술 시 6주 조기부하 가능(Botros 2025 RCT, 생존 100%, 단 n=30 소표본).
+> - 의사결정 알고리즘: CBCT 평가 → BBT<1mm/얇은 생체형이면 Type 1B(즉시+지연부하) 또는 Type 2A로 downgrade → 1차 안정성 <25 Ncm이면 Type 2A 또는 중단 → 한 조건이라도 빠지면 downgrade.
+> - 한계 [claude해석]: 구치부 Type 1A evidence 얇음, ≥10년 RCT 부족, PES 측정자 간 변동 큼, selection criteria 교호작용 미평가, 아시아(한국·일본) cohort 적어 생체형·골질 차이로 일반화 불확실.
+
 ## 한줄요약
 ITI 2023 consensus (Hamilton SR+MA) 중심으로 12편을 정리 — Type 1A (즉시식립 + 즉시부하)의 적응증 정량화: facial gap ≥2 mm·근관 감염 부재·thick biotype·intact buccal plate (BBT ≥1 mm)·1차 안정성 ≥35 Ncm 충족 시 5년 생존율 ≥97%·midfacial recession 위험 허용 범위; 한 조건이라도 빠지면 Type 1B/2A로 downgrade하는 단계 의사결정 알고리즘.
 
