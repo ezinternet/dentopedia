@@ -10,6 +10,21 @@ tags: [composite, adhesion, etch-and-rinse, self-etch, universal-adhesive, bulk-
 source_collection: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 직접 복합레진(composite) 수복의 두 축(접착방식·충전방식) 모두 "재료 선택"보다 "프로토콜 실행"이 결과를 좌우한다.
+> - 축 1 접착 — 법랑질(enamel) 가장자리가 있으면 선택적 법랑질 산부식 (Selective Enamel Etching) 또는 3-step 산부식-수세 (Etch-and-Rinse, EAR)이 SR+MA·RCT에서 일관 우세 (Hong 2021, Assis 2023).
+> - 유니버설 접착제 자가부식 (Self-Etch, SE) 단독은 법랑질 가장자리 존재 시 회피 — 비우식성 치경부 병소 (Noncarious Cervical Lesion, NCCL) 24개월 RCT에서 임상 부적합(Clearfil SE mode 6개 탈락, Oza 2022).
+> - 순수 상아질(dentin) 표적(NCCL·깊은 상아질 변연)은 두 전략 모두 임상 허용, SE가 술후 민감 더 낮음(Assis 2023).
+> - 유니버설 접착제 결합강도 향상: 매트릭스 금속단백분해효소 (Matrix Metalloproteinase, MMP) 억제(클로르헥시딘 2% 세척)·능동 도포·선택적 상아질 산부식·다층 도포·소수성 레이어·에탄올 습윤 접착(Hardan 2021, 모두 p≤0.02) — 단축 도포·접착 직전 탈감작제는 결합강도 저하.
+> - 즉시 상아질 봉쇄 (Immediate Dentin Sealing, IDS)는 간접 수복 한정(3-step EAR·2-step SE에서만 효과), 직접 수복엔 비적용 — 임상 전환(술후 민감·수명 개선)은 미입증(Reis 2024 비판).
+> - 축 2 충전 — 벌크필(bulk-fill)과 적층충전(incremental)은 9 RCT MA·12 RCT 네트워크 메타분석(NMA)·우산형 리뷰 모두에서 ≥24개월 임상 동등(Zailai 2025 실패 RR 0.82, Chaple-Gil 2026 차이 없음).
+> - "저수축 = 임상 우월" 명제는 21 RCT MA로 부정 — 유일한 차이는 12개월 변연적합에서 통상 메타크릴레이트가 우세(Kruly 2018), silorane도 동등(Magno 2016).
+> - 복합레진 vs 아말감: 5년 생존 동등(Worthington 2021 Cochrane), 후방 복합레진 기저 실패율 1.55/100 수복-년(Astvaldsdottir 2015), 주 실패원인은 2차 우식(보통 3년 후).
+> - 수리(repair)가 교체보다 우월 — 15년 후방 복합레진 SR은 없으나 전치부 데이터 강력(van de Sande 2019, 수리를 비실패로 보면 15년 생존 69%) — 국소 결함은 수리가 1차 선택.
+> - 간접 수복으로의 escalation은 근거가 아니라 해부(교두 피개·교두간 거리 ½ 접근·근관치료 후 후방치 변연융선 소실+과중 교합)로 결정 — 일상적 Class II에 간접 수복은 강제되지 않는다.
+
 ## 한줄요약
 일반 직접 컴포짓 수복의 두 축 종합 — ① 접착방식: 법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 SR+MA·RCT에서 일관되게 우세, 유니버설 SE 단독은 NCCL 24개월 RCT에서 임상 부적합; ② 충전방식: 벌크필과 적층충전은 9 RCT MA·12 RCT NMA·우산형 리뷰 모두에서 임상 동등, "저수축 = 임상 우월" 명제는 21 RCT MA로 부정. 둘 다 "재료 선택"보다 "프로토콜 실행"이 결과를 좌우.
 
