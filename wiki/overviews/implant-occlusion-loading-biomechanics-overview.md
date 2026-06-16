@@ -18,6 +18,21 @@ relations:
     target: stilwell-2024-occlusal-considerations-implant-maintenance
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 전제: 골유착 임플란트는 치주인대 (Periodontal Ligament, PDL)가 없어 교합력이 완충도 감지도 되지 않으므로, 설계 목표는 하중 최소화·분산이다(Stilwell 2024, 파절률 ~0.5%). [합의수준]
+> - 임상·유한요소분석 (Finite Element Analysis, FEA) 근거는 4점으로 수렴 — ①접촉의 시간적 변화 ②약교합 전략 ③교합양식·보철 구성의 응력 효과 ④무치악/full-arch 설계.
+> - 접촉 변화: 임플란트 교합접촉은 부하 후 6-12개월에 변동(대개 인접 자연치 대비 상대 저위교합) — 단관(Mao 2024 SR+MA)·고정성(Assoratgoon 2025 SR) 모두.
+> - 약교합(light occlusion): 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고 교합력이 계속 증가 → 장기 추적 필수(Zhang 2022, n=50, T-Scan III). [근거강함]
+> - 과부하-골소실 연관은 시사되나 근거 질 낮음(정량 교합분석 표준화 부재, Di Fiore 2022 SR 7편). [합의수준/미검증]
+> - 교합양식·보철 구성(캔틸레버·치아-임플란트 연결·재료·부기능)이 임플란트주위 응력을 좌우 — FEA 일관(Ambili 2024, Yesilyurt 2021), full-arch 위험요인(Berzaghi 2025), 세라믹 크라운 피로(Packaeser 2025).
+> - 식립 각도 인자: 비축(nonaxial) 식립이 변연골소실 (Marginal Bone Loss, MBL) 측정 가능 인자 — 비축 0.22 vs 축방향 0.10 mm(Kim 2026, 후향 506개 5.1년, P<.05), 대합치가 임플란트 보철일 때 페널티 최대(Δ0.373 mm).
+> - 실험적 로딩-골반응 용량곡선: 점진·정적 하중은 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)↑·과부하 저항력↑(개 Podaropoulos, 성공률 87.5 vs 67.5%)이나 고빈도 하중은 BIC↓(rat Bueno 2018) → "점진=적응, 급격·고빈도=부적응"의 mechanostat 해석.
+> - 임상 ladder: ①하중 최소화·분산 설계(약교합 영구보호로 과신 금지) ②단관은 인접치 유도·full-arch는 캔틸레버 최소화 ③부하 후 0.5/3/6/12개월 T-Scan/교합지 재점검 필수 ④이갈이(bruxer)는 스플린트 우선 ⑤가능하면 축방향 식립.
+> - 오판 패턴: "임플란트도 자연치처럼 교합 주면 된다"(PDL 부재로 불가), "약교합 한 번이면 영구 예방"(교합력 증가로 유지 안 됨), "FEA가 임상 과부하-골소실을 증명"(모델 가정, 임상 인과 미확정).
+> - [[overviews/bruxism-muscle-overload-axis]]가 이갈이→과부하 병태생리 렌즈라면, 본 페이지는 임플란트 교합 설계·하중·측정의 보철·생역학 렌즈로 상보적이다.
+
 ## One-line Summary
 
 Synthesis of the occlusion cluster through the implant lens: because an osseointegrated implant lacks a periodontal ligament, occlusal force is neither cushioned nor sensed, so design aims to minimize and distribute load. Clinical and FEA evidence converges on four points — implant occlusal contacts drift (usually toward relative infraocclusion) within 6-12 months; "light occlusion" lowers force but is unstable over time; occlusal scheme and prosthesis configuration (cantilever, tooth-implant connection, full-arch) modulate peri-implant stress; and the chairside lever is periodic occlusal re-checks (T-Scan/articulating film), not a single ideal scheme.
