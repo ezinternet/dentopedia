@@ -14,6 +14,20 @@ source_papers:
 tags: [overview, endodontics, pulp-diagnosis, periapical]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 임상 치수진단은 endodontic 의사결정 사슬에서 가장 약한 고리 — "참" 치수 상태에 대한 reference standard(기준 표준)가 없어 단일 검사로 검증 불가, 전반적 진단 효과는 낮음 (Donnermeyer 2023 SR, 28편).
+> - **검사 순위**: 혈류 기반 vitality test(맥박산소측정, pulse oximeter)가 sensibility test(감각검사)보다 자릿수 단위로 우수 — pooled 진단오즈비(DOR): PO 628.5 ≫ cold 17.24 > EPT 10.75 > heat 3.47 (Patro 2022 SR+MA). Heat 단독은 거의 무용.
+> - **소아**: 미성숙치·협조 문제로 sensibility test 신뢰도 특히 낮음 → vitality 우선 권고; "무반응" 미성숙치도 생활치일 수 있음 (Igna 2022).
+> - **결정 원칙**: 어떤 단일 검사도 판정이 될 수 없다 — 검사+증상력+방사선을 조합(corroborate)하라.
+> - **진단 안 된 괴사 → 근단병소**: 근단치주염은 근본적으로 biofilm 감염성 질환 (Nair 2006, Ricucci 2010).
+> - **Nair six(지속 원인 6가지)**: ①관내(intraradicular) 감염 — biofilm, planktonic보다 1000배+ 살균제 저항, 단일 최대 원인 → ②관외 감염(actinomycosis) ③이물반응 ④콜레스테롤 결정 ⑤진성 근단낭(true cyst) ⑥반흔조직(양성 mimic).
+> - **Ricucci 2010 정량근거**: 관내 biofilm 106근 중 77%; 미치료(80%)≈치료(74%) — 전통 치료가 자주 근단 biofilm 제거 실패. 병소 클수록 ↑(소 62%→초대형 100%); 상피화 병소일수록 높음(낭 95% > 농양 83% > 육아종 69.5%, p<0.001); 관외 biofilm은 6%로 드묾.
+> - **치료 함의**: 관내 감염이 우세하므로 지속 방사선투과상엔 **정방향 재치료(orthograde retreatment)가 기본 1순위**; 외과는 확인된 관외 소수(actinomycosis·이물·콜레스테롤·진성낭)에만.
+> - **병소 유형 = 예후 부호**: 진성낭·관외 감염은 재치료가 못 닿는 난치 소수; 육아종은 대부분 관내 biofilm으로 재치료로 도달 가능 → 영상 기반 육아종/낭 감별은 예후 의미는 있으나 histopathology(조직병리)가 최종 진단 표준.
+> - **확신도**: Donnermeyer = sr; Patro = sr+ma; Igna·Karamifar·Nair = narrative-review; Ricucci = cross-sectional. PO 628.5 DOR은 저/중질 연구 기반으로 방향성일 뿐 정밀치 아님.
+
 ## One-line Summary
 Clinical pulp diagnosis is fundamentally limited by the absence of a reference standard; among available tests blood-flow (vitality) methods outperform sensibility tests, the same logic holds in children, and undiagnosed necrosis ends as a periapical lesion.
 
