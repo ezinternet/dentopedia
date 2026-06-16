@@ -24,6 +24,21 @@ relations:
     target: versah-immediate-implant-placement-protocol
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - Versah Densah® 제조사 프로토콜 카드 5종을 임상 상황 → 프로토콜 → 결정적 bur 차이 → peer-reviewed 근거 anchor로 라우팅하는 골밀도화 (Osseodensification, OD) 술기 선택 지도다.
+> - 5종: ① 경치조골 상악동 거상 I, ② 거상 II, ③ 구치 septum 확장 + 상악동 거상, ④ 즉시치조복원 (Immediate Dentoalveolar Restoration, IDR II), ⑤ 즉시식립 (immediate implant).
+> - 대전제 (가장 중요): 5종 모두 Versah LLC 발행 비-peer-reviewed marketing/narrative 문서로 정량 outcome·대조군이 없어 "술기 순서 참조"로만 쓰고, 임상 근거는 항상 교차링크된 peer-reviewed paper에서 가져온다. [근거강함, source 자체가 manufacturer document]
+> - 1차 분기 3축: (a) 상악동 거상 동반 여부, (b) 발치 동반 여부, (c) 잔존 해부 (잔존골높이 RBH·septum 폭·socket 벽 상태) — 이 셋이 정해지면 5개 중 하나로 수렴.
+> - Lift I vs II의 분기점은 pilot drill 하나 — RBH ≥6mm면 pilot로 access (①), 4–5mm면 얇은 잔존골 천공 위험 때문에 pilot 생략하고 Densah 버 자체로 진입 + allograft 추진 (②). [합의수준]
+> - 즉시식립 (⑤) vs IDR II (④) 의 갈림길은 협측벽 (buccal wall): 벽 보존 → apical engagement (⑤), 벽 전소실 + 얇은 biotype → 상악결절 (tuberosity) triple graft + 구개측 (palatal) anchorage (④).
+> - IDR II (④) 는 시멘트 보철 금기 (screw-retained만) 가 명시된 결정 차이이자 시험 포인트. [근거강함, 프로토콜 명시]
+> - ③ 구치 septum 확장은 septum 폭 ≥4mm를 게이트로 즉시식립 + 상악동 거상을 한 술식에 합친 hybrid.
+> - 근거 다리: Lift I/II는 Starch-Jensen 2025 SR+MA (TSFE-OD가 식립 시 ISQ 유의 ↑, 생존 동등) + Mazor 2024 (RBH 얇을수록 막 천공 ↑) 로, IDR/septum/즉시식립은 darosa 2019·bleyan 2021로 검증.
+> - 공통 한계: proprietary Densah® 버 종속, 술자 의존도 높음 (특히 ③④), 적응증 컷오프 (RBH 6/4–5mm, septum 4mm) 가 제조사 정의이지 독립 RCT 검증값 아님 ([추정]).
+> - 원장 메모: chairside 1차 분기는 "상악동 거상? → 발치 동반? → RBH/septum/socket 벽" 순으로 기억하고, 전체 evidence 그림은 자매 overview [[osseodensification-clinical-applications]] 에서 본다.
+
 ## One-line Summary
 Decision map for Versah's five Densah® manufacturer protocol cards (Crestal Sinus Lift I/II, combined molar septum expansion + sinus lift, IDR II, immediate implant placement), routing a clinical situation (RBH, septum width, socket wall status) to the correct protocol, its distinguishing bur step, and the peer-reviewed evidence anchor that qualifies each — all five being non-peer-reviewed vendor documents.
 
