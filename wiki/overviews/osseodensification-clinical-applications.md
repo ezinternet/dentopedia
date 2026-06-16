@@ -36,6 +36,20 @@ source: synthesis
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 골밀도화(Osseodensification, OD)는 반시계회전(Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하는 술식으로, Fontes Pereira 2023 SR을 spine으로 4개 시나리오(상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다.
+> - 메커니즘: 다날 bur가 CW에서 절삭·CCW에서 압축, 골 점탄성 spring-back으로 osteotomy가 bur보다 작게 회복되어 강한 접촉, 횡방향 압축으로 자가골이 미세이식.
+> - Outcome matrix: 삽입토크(Insertion Torque, IT)는 일관되게 상승 [근거강함], 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)은 in vitro 약 3배 상승, 생존율은 conventional과 동등, 전반적 근거 수준은 낮음–중등.
+> - 핵심 논쟁 — 저밀도골 임플란트 안정성 지수(Implant Stability Quotient, ISQ): Mohammadi 2025 SR+MA(7편)에서 1차 MD=4.13(p=0.13)·2차 MD=1.78(p=0.11) 모두 유의차 없음(NS), Al-Ahmari 2022 split-mouth도 골밀도만 OD↑·안정성 NS → confidence 하향.
+> - 재정식화: 이득은 IT(기계적 1차 고정)에 확실, RFA로 측정되는 ISQ 이득은 인체에서 불확실하며 있다면 2차 안정성(동물 RCT Arpudaswamy 2025의 3개월 ISQ↑)에 가까움 → 환자 설명 시 분리 권장.
+> - 발열 안전(Soldatos 2024): 3.0/4.0 버를 23회 이상 재사용+800/1200 RPM 시 ΔT가 골괴사 임계 47°C 초과, 1000 RPM이 최저 발열 → 버 ~23회 교체·무작정 고RPM 금지·관수 보조.
+> - 상악동저 보강: TSFE 적응(잔존골 높이(Residual Bone Height, RBH) 4–8mm), Starch-Jensen 2025 SR+MA(6 RCT, low GRADE)에서 OD가 ISQ 우위·생존 동등, 천공률 7.31%(Mazor 2024)이나 RBH ≤3mm가 천공 독립 위험인자.
+> - CBCT가 RBH를 약 1.86mm 과소평가(Ragher 2026) → borderline 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
+> - 저밀도골(D3–D4)·상악동저 보강이 가장 active한 두 시나리오, 좁은 ridge·즉시식립은 단독 SR 부재로 spoke pending(추가 ingest 우선순위 P1).
+> - 한계: search cutoff 2023, RCT 부족·follow-up 짧음, Versah Inc. 후원 연구 다수 → 환자 동의서에 "근거 수준 낮음–중등" 언급 권장.
+
 ## 한줄요약
 골밀도화 (Osseodensification, OD)는 반시계회전 (Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하여 4개 임상 시나리오 (상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다 — 삽입토크 (Insertion Torque, IT) 일관되게 상승 [근거강함], 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 **저밀도골 인체 SR+MA(mohammadi 2025)에서 유의차 없음 — 논쟁적** [합의수준, 하향], 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) in vitro 3배 상승 [근거강함]; 전반적 임상 근거 수준은 낮음–중등 (Fontes Pereira 2023 결론). 발열 안전: 버 재사용 ≥23회 + 고RPM 시 골괴사 임계(47°C) 초과 (soldatos 2024).
 
