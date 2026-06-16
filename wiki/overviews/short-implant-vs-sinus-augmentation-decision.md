@@ -24,6 +24,20 @@ source_papers:
   - wiki/implants/torres-alemany-2020-clinical-behavior-short-implants.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 위축된 후방 상악에서 SR/MA 6편 + 환자보고결과(PROM) 메타분석 1편 종합 — 숏 임플란트(4–8 mm, 무거상)는 표준/장축+상악동거상과 **생존율 동등**, 변연골소실(MBL)은 일관되게 더 적고 이환은 낮음. 선택 기준은 생존율이 아니라 **잔존골고(RBH)·치관-임플란트 비(C/I)·환자경험**.
+> - **생존율 동등**: 6개 독립 MA 모두 비유의(NS) — Toledano 2022 RR 1.02(p=0.09), Zhang 2024 OR 1.26(NS), Chaware 2021 RR 1.01(I²=0%), Alenezi 2025 OR 0.96.
+> - **가장 재현성 높은 신호 = MBL 우위**: 숏이 일관되게 MBL 적음 — Mester 2023 WMD −0.29(p=0.005), Alenezi 2025 MD −0.26(p<0.001), Vetromilla 2021 MD −0.22(p<.01).
+> - **생물학적 합병증도 숏 우위**: Mester RR 0.46(p=0.03), Alenezi OR 0.39(p=.02).
+> - **umbrella 수렴**: Arbildo-Vega 2025(60 SR)와 Vetromilla 2021(7 SR/66연구) 모두 생존 동등 + 숏 MBL/합병증 우위; 단 Vetromilla은 AMSTAR-2 대부분 critically-low 품질 caveat.
+> - **장기 anchor**: Thoma 2024 10년 다기관 RCT — 생존 96.0% vs 100%(p=.24), 양 군 median MBL 0.00 mm → 내구성 근거 강화(단 21% 탈락·단일 trial).
+> - **장기 주의**: ≥5년 pool은 얇고 저확실성 — Mester 표준+SFE가 수치적으로 높음(RR 0.97, p=0.07), Alemán 2025는 7 RCT 중 5편 high RoB.
+> - **결정 1번째 gate(RBH)**: ~5–6 mm 이상 → 6–8 mm 숏이 저이환 default; ~4–5 mm 미만 → 상악동거상(survival 벤치마크 >97%, Derbishi 2026)이 신뢰 경로.
+> - **결정 2번째 gate(C/I·부하)**: 단, Torres-Alemany 2020은 C/I 비가 임플란트 상실(p=0.9)·MBL(p=0.36)에 유의 영향 없음 → 높은 C/I 단독은 숏 거부의 약한 이유, 진짜 gate는 교합부하/parafunction. 예외: 비고정(nonsplinted) 숏 단일치관(≤6 mm)은 장기 생존 열위(Xu 2020, RR 0.94, p=.01) → splinting/거상 고려.
+> - **결정 3·4번째**: 동등 시 숏은 이환·비용·시간·술후통증 우위, 거상은 publish된 track record 우위 → 환자 우선순위로 tie-break. 거상 시 RBH 충분하면 경치조골(transcrestal)이 측방창보다 술후 통증 적음(Menini 2025, PROM 초록 기반·미검증).
+
 ## One-line Summary
 Across six SR/MAs and one PROM meta-analysis, short implants (4–8 mm, no sinus lift) match standard/long implants + sinus augmentation on survival, show consistently less marginal bone loss, and carry lower morbidity — so the decision hinges on residual bone height, crown-to-implant ratio, and patient-experience factors rather than survival.
 
