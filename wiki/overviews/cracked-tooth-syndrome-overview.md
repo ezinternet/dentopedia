@@ -10,6 +10,21 @@ tags: [overview, cracked-tooth-syndrome, CTS, longitudinal-fracture, diagnosis, 
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 균열치 증후군 (Cracked Tooth Syndrome, CTS) 신규 8편을 통합한 분류·진단·치료 결정 종합 페이지로, CTS는 단독 진단명이 아니라 종방향 파절 (Longitudinal Fracture) 5-type 중 불완전 파절 (Incomplete Fracture) 에 해당한다.
+> - 5-type 분류: craze line (관찰) → fractured cusp (보존 수복 ± crown) → cracked tooth/CTS (본 페이지 핵심) → split tooth (부분/전체 발치) → 수직 치근 파절 (Vertical Root Fracture, 보통 발치).
+> - 진단의 핵심 원칙: 단일 도구로 확진 불가 — 시진·투조 (transillumination)·교합검사 (bite test, Tooth Slooth)·콘빔CT (CBCT)·정량광형광 (QLF) 을 종합한 multi-modal framework이 필수. [합의수준]
+> - 진단 sequence: 병력 (씹다 풀릴 때 짧고 날카로운 통증) → 시진+투조 → cusp별 순차 교합검사 → CBCT (deep crack/치근 침범 의심 시) → 잠정 진단 → 근관 진입 후 최종 확인.
+> - 치료 결정의 핵심 tension: Kaur 2026 우산고찰 (umbrella review) + Ferracane 2023 코호트는 "근관치료 (endo) + 교두피개 (full cuspal coverage) 가 최고 예후" 적극 권장 vs Kwak 2024 (JKDA)는 "불필요한 endo 회피" 보수적 입장.
+> - 양 입장 모두 교두피개 (full crown 또는 onlay) 는 endo 여부와 무관하게 standard로 동의 — 진짜 갈리는 질문은 "근관치료를 할 것인가"이다. [합의수준]
+> - 입장 차이는 sample population으로 부분 설명: Kaur/Ferracane은 전문진료·academic 환경 (deep crack·증상성 위주), Kwak은 일반 개원 (early/mild 비율 높음).
+> - 통합 결정: 자발통 또는 치근단 병변 (periapical pathology) → endo + crown (양측 일치); bite-only pain + 생활치수 (vital pulp) + 얕은 crack → 갈라짐 (환자 선호·임시 처치 후 재평가, Kwak 입장 우위).
+> - 한국 일차 임상 권장: Kwak의 보수적 framework을 default로 하되, 결정 trigger (자발통·치근단 병변·교두 동요 cuspal mobility) 발생 시 즉시 Kaur/Ferracane 입장으로 전환.
+> - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort 부족.
+> - 환자 설명 framework: "crack은 시간이 지나면 split tooth로 진행 가능 → 교두 덮음이 진행 차단의 핵심 → 신경치료는 case-by-case → 정기 점검 필수" (Ferracane 3년 cohort 기반).
+
 ## 한줄요약
 균열치 증후군 (Cracked Tooth Syndrome, CTS) 신규 8편 통합 — (1) longitudinal fracture 5-type 분류, (2) 진단 multi-modal framework (visual·bite test·transillumination·CBCT·QLF), (3) 치료 결정의 핵심 tension — Kaur 2026 umbrella "endo + full cuspal coverage 최고 prognosis" vs Kwak 2024 "unnecessary endo 회피" 보수적 입장. 한국 임상 적용 framework 제시.
 
