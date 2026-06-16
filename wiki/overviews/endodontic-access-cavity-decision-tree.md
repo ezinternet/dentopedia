@@ -10,6 +10,19 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 근관 접근와동(access cavity) 설계 결정 트리 — 세 전략 TEC(전통 직선 접근, Traditional Endodontic Cavity)·MIA(최소침습 접근, Minimally Invasive Access)·유도 근관치료(Guided Endodontics)의 적응증·근거·한계를 정리.
+> - 결론 한 줄: 정상 해부 → TEC 표준 / 보존 MIA는 근거 불충분 → TEC 대체 불가 / 석회화(PCO)·복잡 해부 → 유도 근관치료(정적 SN 또는 동적 DN).
+> - TEC 원칙: 치수강 지붕 + 경부 상아질 돌출 제거 후 직선 진입(straight-line access) — 회전 NiTi 기구 원활·세정액 균등 침투·근관 형성 예측 가능.
+> - MIA(닌자 와동·트러스 와동)는 치관 구조 보존이 목표이나, 파절 저항성 향상 근거가 상충·불확실하고 임상 RCT 없음; 오히려 잔류 debris↑·근관구 탐지↓·천공 위험↑(Kapetanaki 2021, Dioguardi 2024) → 숙련 술자의 단순 단근관 케이스에서만 선택적.
+> - 유도 근관치료 적응증: 근관강 석회화(Pulp Canal Obliteration, PCO)·근관구 비가시·MB2·변이 해부(C-shape, dens invaginatus)·경험 부족 술자.
+> - 정적(Static, SN, CBCT→3D 프린팅 템플릿) vs 동적(Dynamic, DN, 실시간 추적): SN은 예측 가능 해부·중간 비용, DN은 술중 경로 수정 가능·고비용·가파른 학습곡선·변이 해부에 적합(Ribeiro 2022, 63편).
+> - 탐지 실패 시 백업: GP point 삽입 후 술중 CBCT 촬영 → 3D 거리 계산 → 초음파 삭제(Floratos 2017, 3증례 모두 천공 없이 성공, 증례 수준 근거).
+> - 결정 트리: ①해부 복잡도 평가(PA + 필요시 CBCT) → 단순이면 TEC 직선 접근 / 복잡이면 CBCT 처방 후 유도 근관치료(SN 또는 DN) → 탐지 실패 시 술중 CBCT → 여전히 실패면 범위 문서화·환자 설명·전문의 의뢰.
+> - 근거 수준: TEC 확립(기초+임상), ConsAC debris/탐지 저하는 낮음(scoping 10편 이질성↑), MIA 파절 저항 향상은 낮음·불확실, 유도 근관치료는 전도유망하나 RCT 부재(주로 in vitro·증례).
+
 ## 한줄요약
 정상 해부학 → TEC(전통 직선 접근) 표준; 보존 MIA는 근거 불충분; 석회화(PCO)·복잡 해부 → 유도 근관치료(정적 3D 가이드 또는 동적 실시간 내비게이션) 적용.
 
