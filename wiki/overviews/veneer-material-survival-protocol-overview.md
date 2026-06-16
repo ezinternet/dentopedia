@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survival, complication, hf-etching, minimally-invasive, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: 라미네이트 비니어(Laminate Veneer) 10편 종합(SR+MA 5편 포함) — 재료 선택·생존율·적응증·접착 프로토콜.
+> - 반직관적 핵심 발견: 모든 세라믹 재료의 장기 생존율은 통계적으로 유사(93~97%)하나, 합병증 부담이 재료를 극명하게 가름.
+> - 생존율(Klein 2025, 29편·7,753 비니어, 최대 20.7년): 장석(Feldspathic) 96.13%, LRGC 93.70%, 리튬디실리케이트(Lithium Disilicate, LDS) 96.81%, 지르코니아 100%(단 2.6년).
+> - LDS 선호 이유는 생존이 아니라 합병증 — 10.4년 기술적 합병증이 장석 41.48% vs LDS 6.1%(약 7배 차이); 생물학적 합병증도 동일 gradient.
+> - 절단연 피개(Incisal Coverage) 유무는 생존율에 유의한 영향 없음(OR 1.25, NS) — 심미·교합 기준으로 선택(Albanesi 2016).
+> - 최소침습(0.2~0.5mm) 비니어가 전통적 삭제(0.3~1.0mm)와 동등 또는 우수(Ali 2023) — 초박형 contact-lens형은 마취·임시치관 불필요.
+> - 단 가장 강력한 실패 예측인자는 상아질 변연 노출 — 법랑질 한정 변연 대비 실패율 10배(El-Mowafy 2018, Gurel 580 비니어 12년) → 법랑질 confinement는 비협상.
+> - 제작기법(Sorensen 1992·Sim 1993): 백금박(Platinum Foil)이 변연 적합 최우수(단 overcontour 대가) > refractory die > cast ceramic.
+> - 제작기법이 HF 에칭 시간을 결정 — 백금박 120초, refractory die 90초(9.6% HF); 150초는 추가 이득 없음(Gonzalez-Martin 2024 SEM) → 기공 처방을 술자에게 통보 필요.
+> - 결합강도(Hajeer 2026 in-vitro): LDS 25.4 MPa vs 투명 지르코니아 12.1 MPa(약 2배); 법랑질 21.1 vs 복합레진 코어 11.3 MPa — LDS는 HF 에칭 + 실란화, 지르코니아는 silica network 없어 MDP에 의존.
+> - 복합레진 비니어: 88% 생존(direct 91% > indirect 84%, Lim 2023) — 가역성·수리성 필요 시 옵션이나 유지 부담 큼; 지르코니아는 단기 100%지만 장기(≥5년) 임상 데이터 부재.
+
 ## One-line Summary
 
 Synthesis of 10 papers (5 SR+MA, 1 SR, 2 in-vitro, 1 narrative review, 1 SEM pilot) covering ceramic and composite veneer survival, material complication burden, incisal coverage design, preparation invasiveness, fabrication technique, HF etching protocol, and cementation bond strength — establishing a clinically actionable evidence hierarchy for veneer material and protocol selection.
