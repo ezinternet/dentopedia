@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [overview, socket-shield, sst, immediate-implant, esthetic-zone, buccal-bone, pink-esthetic-score, complications, decision-framework]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 소켓실드 기법(Socket Shield Technique, SST) 17개 페이지 종합. 즉시 식립 시 치근 협측 조각("실드")을 남겨 다발골과 혈류를 보존, 발치 후 거의 보편적인 협측 골판 흡수에 대응(Hürzeler 2010 기원).
+> - 핵심 명제: SR/MA + RCT 2편이 협측 골판·핑크 심미 보존 우월로 수렴하나, 근거 다수가 증례보고이고 장기(≥5년) 데이터 부족.
+> - 정량 anchor(Oliva 2023 SR, 강한 근거): 협측 골판 흡수(BBPR) 0.32 vs 1.05 mm(−70%), 변연골소실(MBL) 0.39 vs 1.00 mm(−61%), 핑크심미점수(PES) +1.31, 임플란트 생존 98.6%.
+> - RCT 확인(Atef 2021): 협측 골 변화 −0.28 vs 이종골 −0.94 mm, 점막 퇴축 0.18 vs 0.52 mm.
+> - 합병증 trade-off: 전체 3.81%(Oliva)~9.5%(Ogawa), 실드 특이(노출·파절·이동) 5–17%(Gharpure) — 술자 숙련도 의존; 합병증이 나도 임플란트 생존은 높음.
+> - 생역학(신규 FEA, Neves 2023): 잔존 실드가 주위골 응력을 최대로 집중 — 우호적 임상 수치 이면의 생역학적 주의이자 실드 합병증의 기계적 원인 가설(단 미검증, 정적 모델).
+> - 1차 권고: 심미부 단일 즉시 임플란트에서 협측 골판 보존이 critical하고 다른 옵션(결합조직이식 CTG·이종골)으로 부족할 때, 숙련 술자에 한해 고려.
+> - SST가 합리적인 경우: 전상악·높은 심미 요구·얇거나 온전한 협측판·수직파절/감염/광범위 우식 없는 치근.
+> - 대안 선호 경우: 협측판 이미 소실/열개 → GBR; 수직파절/감염 치근; 초보 술자 또는 실드 노출 구제책 없음 → 통상 즉시식립 + CTG.
+> - 미해결: 장기(≥5년) 생존·실드 거동, 표준 실드 기하/술식 프로토콜, Ji 2025 NMA는 ahead-of-print(transitivity 재확인 필요), 절대 효과크기는 증례보고 비중으로 과대.
+
 ## One-line Summary
 
 Synthesis of 17 wiki pages on the Socket Shield Technique (SST): pooled SR/MA + 2 RCTs converge on superior buccal-bone and pink-esthetic preservation (BBPR ~0.32 vs ~1.05 mm, MBL ~0.39 vs ~1.00 mm, PES +1.3), but evidence is dominated by case reports, long-term (≥5y) data are thin, a 4–17% shield-related complication rate restricts SST to experienced operators in selected esthetic-zone cases, and an FEA study now flags the retained shield as the highest peri-implant stress concentrator — a biomechanical caution beneath the favorable clinical numbers.
