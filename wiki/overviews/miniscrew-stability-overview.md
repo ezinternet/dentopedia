@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [orthodontics, miniscrew, tad, temporary-anchorage-device, failure, reuse, site-selection, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 교정 미니스크류 (Temporary Anchorage Device, TAD)는 절대 고정원(absolute anchorage)을 제공하나 평균 13.5% 실패율이 임상 부담 — SR+MA 3편으로 ①전체 실패율 ②부위별 차이 ③재사용 안정성 3축 정리.
+> - 축 1 — 전체 실패율 13.5%(6-7개당 1개 실패), 흡연·치은조직 형태가 유일한 유의 위험인자(Alharbi 2018 SR+MA, 46편 n=3,250) — 환자 동의 시 명시 + 흡연력 확인 필수. [근거강함]
+> - 축 2 — 부위별 격차: 정중구개부(midpalatal) 1.3%로 최저(부착치은+무신경혈관), 협골부(zygomatic buttress) 16.4%로 최고; 치근 근접도(root proximity)가 강한 예측자(Mohammed 2018 SR+MA, 61편). [근거강함]
+> - 부위 결정 ladder: 상악 전치부는 정중구개부(1.3%) 우선 → 상악 구치부는 협골하능선(infrazygomatic crest)·협측 치조골(5-9%) → 하악 협측 치조골(피질골 두꺼워 1차 안정성 양호) → 협골부(16.4%)는 회피.
+> - Root proximity는 콘빔 전산화단층촬영 (Cone Beam CT, CBCT)/치근단 방사선으로 ≥1mm 안전공간 확보. [근거강함]
+> - 축 3 — 재사용: 인 비트로(in vitro) 삽입/파절 토크는 차이 없으나 임상에서 실패율 유의 상승(Jahanbin 2025 SR+MA, 18편) — 표준 권고는 single-use, 부득이한 재사용 시 환자 동의+손상 검사+멸균 프로토콜.
+> - 오판 패턴: "in-vitro 토크에서 차이 없으니 재사용 안전" — 임상 RCT/코호트에서 실패율 ↑, 임상 ≠ in-vitro. [근거강함]
+> - TAD 결정 전체 ladder: 계획(부위 1순위 정중구개부/후방 상악, root proximity CBCT) → 환자 평가(흡연·치주염·골밀도) → 삽입(부착치은, pilot drilling 최소화, primary stability 토크 5-10 Ncm) → 재사용은 single-use 표준.
+> - 유지관리: 점막 자극 회피, 주 1회 환자 점검; 실패 시 1-2mm 거리에서 재삽입(동일 위치 회피).
+> - 임상 표준: 신품 + 정중구개부/후방 상악 우선 + root proximity 회피. [합의수준]
+> - 보조 근거: 협골하능선 미니스크류 pooled 성공률 92%(Katyal 2024), 피질골 두께가 1차 안정성을 견인(Marquezan 2012·2014, r=0.409)해 부위 선택 기준으로 활용.
+
 ## 한줄요약
 
 교정 미니스크류(Temporary Anchorage Device, TAD) SR+MA 3편 통합. 전체 실패율 13.5%; midpalatal 1.3%로 가장 안전, zygomatic buttress 16.4%로 위험. 재사용 미니스크류는 in-vitro torque 차 없으나 임상 실패율 유의 상승.
