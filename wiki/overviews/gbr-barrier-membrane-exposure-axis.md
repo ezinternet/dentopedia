@@ -16,6 +16,20 @@ relations:
     target: wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: GBR(Guided Bone Regeneration) 차폐막 12편을 "막노출(Membrane Exposure)"이라는 공통 실패 모드 중심으로 4축(재료·가교, 막 구성, 판막·절개 설계, 티타늄메쉬 맞춤화)으로 통합.
+> - 통합 명제: GBR 성공은 차폐막을 묻힌 상태로(submerged) 혈류 공급되게 유지하는 데 좌우 — 노출은 막 브랜드보다 연조직·판막 관리가 결정.
+> - 축1(재료·가교): 화학적 가교(Cross-linking) 막은 골 증대 이득 없이 노출 ~30% 더 많음(Wessing 2018 SR+MA, 20편) — 비가교 또는 물리적(DHT) 가교 막 선호.
+> - 가교 "방법"이 문제이지 가교 자체가 문제 아님 — 탈수열(Dehydrothermal, DHT) 가교막은 노출 신호 없이 분해만 느림(Lee 2015 RCT).
+> - 합성 젤라틴/PLA 막은 상용 PLA 매트릭스에 비열등(6개월 골흡수·골생성·노출·감염 동등) — 저비용 대안(Wang 2025 RCT, 단일치 결손).
+> - 축2(막 구성): 콜라겐 막 이중층은 단일층 대비 이득 없음(Choi 2017); 골이식 + 흡수성 막은 자연치유 대비 수평 −2.19mm·수직 −1.72mm 흡수 감소(Troiano 2018 SR+MA+TSA).
+> - 축3(판막·절개, 노출의 핵심 레버): 절개 위치와 "잔존 판막 길이 vs 인접 각화치은 폭"이 조기 노출 예측; 1개월 내 재피개 안 되면 노출 지속(Park 2007).
+> - 판막 거상은 각화치은을 3.21mm 더 잃게 함 — 얇은 연조직 자체가 노출 위험인자(Lee 2018 SR+MA).
+> - 축4(티타늄메쉬): 맞춤형 CAD/CAM 메쉬(CTM)는 수직 증대는 메쉬-무관(NS)이나 수평 증대 우위(6.38 vs 3.85mm)·노출 경향 낮음(Ragucci 2025); 노출은 수직 골 yield를 깎음(Tay 2022, ratio-of-means 0.62~0.65).
+> - 임상 결론: 막 화학이 노출 내성 baseline을 정하지만(비가교 > 화학가교), 통제 가능한 외과 변수(절개 위치·판막 생존 길이·무장력 1차 봉합)가 노출 결과를 지배.
+
 ## One-line Summary
 Synthesis of 12 GBR barrier-membrane papers organized around membrane exposure as the dominant failure mode, across four axes — membrane material/cross-linking, membrane configuration, flap/incision design, and titanium-mesh customization — converging on the rule that exposure is governed more by soft-tissue/flap management than by membrane brand, and that non-cross-linked resorbable membranes tolerate exposure better than chemically cross-linked ones.
 
