@@ -25,6 +25,20 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 이 묶음에서 가장 강력한 임상 레버는 약물 분자가 아니라 산-염기 화학(pH)이다. 체어사이드 중탄산나트륨(8.4% Sodium Bicarbonate) 완충이 핵심 변수.
+> - 완충의 최대 효과 지점은 증상성 비가역성 치수염(Symptomatic Irreversible Pulpitis, SIP)의 하악대구치 하치조신경 전달마취(IANB) — 마취 성공률 약 37% → 84%로 거의 2배 (Karunakar 2024).
+> - 반면 건강한 발치 조직(Kalra 2024)에서는 완충이 발현(onset)만 단축할 뿐 발치 통증 VAS·최대 성공률은 변하지 않는다(χ²=4.107, p=0.250). 발현은 항상 움직이는 endpoint, 성공률은 baseline이 나쁠 때만 움직인다.
+> - 기전: 국소마취제는 약염기로, 이온화 양이온(BH⁺, 수용성)과 비이온화 자유염기(B, 지용성·신경 투과) 평형 상태. 카트리지 pH ~3.5–4.5에서는 대부분 이온화 → 발현 지연·통증. 완충은 주사 전에 자유염기 비율을 높임. 염증 조직은 산성이라 통상 용액의 자유염기 비율이 더 붕괴 → SIP에서 완충 효과 집중.
+> - 가온(~42°C, Gandhi 2022)은 발현·편안함에서 완충과 거의 동등(술후 VAS 1.59 vs 1.69, p=0.183). 예냉(precooling)은 더 약한 3번째 옵션.
+> - 골내마취(Intraosseous, 예: QuickSleeper, Park 2024): 리도카인 골내 100% 무보충 성공 vs 아티카인 협측 침윤 70.8%, 발현 빠르고 지속시간 짧음(118.6 vs 231.3분).
+> - 소아 아티카인 vs 리도카인 안전성 동등(RR 1.08, 0.54–2.15, Li 2023) — 단 '침윤용 아티카인'에 한정. 4% 아티카인 IANB의 감각이상(paresthesia ~7.3배) 우려는 별개.
+> - 임신: 2% 리도카인 + 1:200,000 에피네프린이 표준(Zhou 2023). 확진된 amide 알러지(매우 드묾): 알레르기내과 검사 후 diphenhydramine 기반 대체(Bina 2018). 바늘공포: 점막부착 패치 또는 무에피네프린 완충 제형.
+> - 임상 의사결정 순서: (1) 건강 조직 일상 처치 → 통상 용액 충분, 더 빠른 발현·편안함 원하면 완충, (2) hot tooth 하악대구치 → 완충 1차(최고 가성비), (3) 완충 어려우면 가온이 거의 동등 대체, (4) 임신 → 1:200,000 에피네프린, 14–20주 선택적.
+> - 한계: 대부분 소규모 단일기관 RCT(n=28–252), 치과 특이적 완충 SR+MA 부재. Kalra 2024는 VAS null에 대해 검정력 부족(7/arm).
+
 > [!note] Scope
 > This is the **clinical-efficacy** synthesis for local-anesthetic *formulation and technique* (buffering, warming, precooling, agent choice, delivery route, special populations). For the **guideline-status** map of Korean dental anesthesia/sedation see [[drug-anesthesia-sedation-korean-guidelines-overview]]; for **vasoconstrictor concentration** safety see [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] and [[drug-systemic-disease-dental-management-overview]].
 
