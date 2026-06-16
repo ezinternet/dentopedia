@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-preservation, bundle-bone, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지는 발치와 보존술(Alveolar Ridge Preservation, ARP) 8편을 종합해 분류·재료 선택·치유기전·임플란트 충분성을 정리한다.
+> - **핵심 명제**: ARP는 발치 후 치조제 손실을 줄이지만 **제거하지는 못한다** — 무처치 시 6–12개월 내 수평 ~50%, 수직 30–40% 손실(대부분 비가역, 협측 치관부에 집중).
+> - **다발골(bundle bone)은 발치 후 필연적으로 소실**된다 — 협측 치조정은 다발골로만 구성되고 혈류가 치주인대(PDL)에서 오므로 발치가 이를 끊는다. 즉시식립 단독으로 막지 못함 (Araújo & Lindhe 2005).
+> - **발치 시 협측골 상태가 이식재 선택보다 강한 예후 예측인자** — Socket Type(ST) 분류(ST1A→ST3C)가 술식을 결정. ST1A(두꺼운 온전 골)는 ARP 이득 미미, ST1B부터 개입 필요 (Steigmann 2022).
+> - **CBCT 골오목(bone concavity) 기하가 GBR 흡수를 독립 예측** — 골오목 깊이(BCD) ≥ 1.03 mm, 각도(BCA) < 155.3°가 낮은 흡수와 상관(둘 다 p < 0.001); 나이·성별·임플란트 brand·재료는 비예측 (Gan 2023).
+> - **콜라겐 플러그 단독은 높이만 보존, 폭경은 못 지킨다** — 그 기전은 공간유지가 아니라 **혈병 안정화·혈관 scaffolding**(플러그는 ~15일에 흡수되나 보호 효과는 90일까지 지속; 토끼 micro-CT −4.6% vs 빈 소켓 −58.1%) (Nisar 2020, Covani 2022).
+> - **이종골 추가가 보존을 양차원으로 확장** — Cerabone + PRF + 콜라겐 플러그로 폭경 손실 1.47 vs 2.75 mm (Kollati 2019); 콜라겐화 DBBM(DBBM-C) ± 유리치은이식(FGG) 봉합이 만기 부피 유지 + 치관부 1 mm 수평 흡수 감소 (Kim 2024).
+> - **흡연자**: A-PRF가 콜라겐 플러그보다 연조직 폐쇄·치유지수 우월(p=0.012); 끈끈한 뼈(sticky bone)는 A-PRF 단독 대비 추가 이득 없음 → **성장인자 성분이 이득의 동력** (Alrayyes 2022).
+> - **임플란트 충분성(중요)**: DBBM ARP는 폭경을 평균 1.13 mm 늘리나(통계적 유의·임상적으로는 작음), 추가 GBR 없이 식립 가능한 확률은 직경별 6–19%(3.25 mm 19% / 4.0 mm 14% / 5.0 mm 6%) — 즉 약 **5명 중 4명은 식립 시 추가 골증대가 여전히 필요** (Fischer 2022).
+> - **임상 takeaway**: ARP의 가치는 "골증대 회피 보장"이 아니라 **결손 복잡도 감소·임플란트 위치 최적화·marginal case에서 GBR 회피**다 — 환자 동의 시 이 틀로 기대치를 설정.
+
 ## One-line Summary
 
 Synthesis of 8 papers (1 animal landmark, 1 animal micro-CT, 2 RCTs, 1 prospective split-mouth, 1 narrative classification, 1 retrospective, 1 SR+MA) establishing that ARP reduces but does not eliminate post-extraction ridge loss; socket anatomy (ST classification, bone concavity metrics) drives technique selection; collagen plug alone preserves height but not width; xenograft ± PRF addresses width; and DBBM-based ARP still leaves 80–94% of sites requiring additional augmentation at implant placement.
