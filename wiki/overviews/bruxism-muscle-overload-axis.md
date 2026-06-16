@@ -22,6 +22,20 @@ relations:
     target: stilwell-2024-occlusal-considerations-implant-maintenance
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 이갈이(Bruxism)는 공통 상류 인자다. 과도한 저작근 힘이 충분한 완충(치주인대 PDL·임플란트 주위)을 못 만나면 가장 약한 구조로 방전된다.
+> - 분기 3갈래: 하류 ① 턱관절·근육(TMJ, 통증·내장애·두통), 하류 ② 치아·보철(교모·균열치·보철 파절), 하류 ③ 임플란트(픽스처·스크류 파절, 변연골소실 MBL, decementation).
+> - 턱관절·근육장애(Temporomandibular Disorder, TMD) 유병률 pooled ~31% (Valesan 2021 SR+MA). 1차 치료는 보존(운동·스플린트), 운동요법 ≥ 스플린트(Zhang 2021).
+> - 보툴리눔 독소 A형(Botulinum toxin A, BoNT-A)은 placebo보다 우위이나 표준치료와 동등(de-la-torre-canales 2024 umbrella); SR은 많으나 13/14가 AMSTAR-2 critically low(Coelho 2025) — SR 개수 ≠ 근거 질.
+> - 임플란트 합병증은 골유착(초기)이 아니라 late failure(과부하)다 (Song 2021). 임플란트 파절률 ~0.5%; PDL이 없어 충격흡수·고유감각이 결여됨(Stilwell 2024).
+> - 세 중재의 작용 지점이 다르다: 스플린트=하류 완충/분산, 교합조정(occlusal adjustment)=접촉 재형성(비가역), BoNT-A=상류 근육 힘 생성 차단.
+> - 교합조정은 TMD에 근거 매우 낮음·비지지(Singh 2024 Cochrane) — 비가역 치료를 1차로 쓰지 말 것.
+> - 핵심 역설: BoNT-A는 과부하 힘을 줄이지만 동시에 바로 그 골유착을 손상시킨다(Deng 2023, 동물: BV/TV↓·골-임플란트 접촉률 BIC↓). 사람 데이터는 미검증.
+> - 임상 takeaway: 임플란트 이갈이 환자는 스플린트를 1차 보호로, BoNT-A는 골유착 기간을 피하고 순응도 실패·중증에 한해 escalation.
+> - 식립 전 bruxism 스크리닝(반복 보철 파절력, 교근비대·linea alba·교모, 근전도 EMG/수면다원검사 PSG)이 표준 단계가 되어야 함(Song 2021의 핵심 주장).
+
 ## One-line Summary
 
 Synthesis of bruxism as a shared upstream driver: excess masticatory-muscle force, lacking an adequate PDL/peri-implant shock absorber, discharges into whichever structure is weakest — TMJ (pain/derangement), tooth-restoration (wear, cracked tooth, prosthesis fracture), or implant hardware (late failure). Splint buffers force downstream, occlusal adjustment reshapes contact (weak/unsupported for TMD), and BoNT-A cuts force at the muscle source — but BoNT-A simultaneously impairs osseointegration (animal), making it a double-edged tool in the very implant patients who most need overload protection.
