@@ -32,6 +32,20 @@ source_papers:
 tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - **핵심 명제**: 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS)은 "치아(감염원)를 다루지 않으면 낫지 않는 부비동염"이다 — 인식·진단·치료 세 축이 이를 떠받친다.
+> - **인식**: OMS는 흔하고 과소진단됨 — 만성 상악동염의 30–40%, 단측 상악동 혼탁의 45–72%가 치성이며, 무증상 인구 절반(49.5%)에서 점막 변화가 보인다.
+> - **원인 구성의 전환**: 과거 치성 감염 중심에서 현재는 약 55%가 의인성(임플란트·발치·상악동거상술), 45%가 치성 병변 — 치과 시술 자체가 1위 원인군 (De Corso 2022).
+> - **진단(이중확인)**: 부비동 영상 + 명확한 치성/의인성 원인을 함께 확인 (Craig 2022). CBCT에서 **치주골소실이 치근단병소보다 점막비후의 강한 예측인자**(OR 2.2, Bisla 2022) — "치근단만 보던" 통념 교정.
+> - **치료(감염원 우선)**: 항생제 단독은 실패하며, 치과적 감염원 제거(근관치료·발치·치주처치·이물 제거) + 부비동 처치를 **병행할 때 90–100% 해소** (Craig 2022).
+> - **FESS는 보조**: 내시경 부비동수술은 단독 96.5% 성공이나 어디까지나 원인 제거 위에 얹는 보조이며, 고증상 시 1차 ESS도 유효한 선택지.
+> - **구강상악동루(OAF) 폐쇄**: 크기·타이밍 기반 — < 3 mm 자연치유 / < 5 mm 단순봉합 / ≥ 5 mm 피판 / > 10 mm 구개회전피판. 중대형엔 **협측지방패드(BFP)가 우월**(NMA, OR 15). 급성 즉시 폐쇄 ~95% ≫ 만성 지연 67% → 조기 폐쇄.
+> - **예방축(상악동거상술 천공)**: 천공 위험인자는 정량화됨 — 잔존골 높이(RRH) 낮음, 흡연(OR 1.58 / HR 25), 상악동 격벽(HR 8.07), 점액낭종(HR 27.75), 다수치 결손(HR 68.09). 천공률 10% 증가 → 임플란트 생존 OR 0.45. 단, 천공이 *발생*해도 적절히 봉합 시 유의한 실패 위험은 아님(Sala 2024) → "예방 > 발생 후 관리".
+> - **예방 보조 변수**: 두꺼운 점막은 금기 아님(술전 평가 대상)·얇은 점막(< 1 mm)이 오히려 천공 취약; 술전 만성 부비동염이 최강 실패 예측인자(p=0.007); 형태로 막두께 예측 불가 → CBCT 실측 필수; 후상치조동맥(PSAA) 주행 매핑으로 출혈 회피.
+> - **주의**: 예방축은 채워졌으나 대부분 관측연구이고 통합 위험점수의 예측 타당도를 검증한 RCT는 없음 — 점수화는 의사결정 보조이지 확정 도구 아님.
+
 ## One-line Summary
 
 Across 10 papers, odontogenic maxillary sinusitis is a treat-the-source disease: it is under-recognised (30–40%+ of chronic/unilateral maxillary sinusitis), increasingly iatrogenic (implants/extractions ≈ half of cases), diagnosed by dual confirmation (dental exam + CBCT, where periodontal bone loss outweighs periapical lesions as a mucosal-thickening predictor), and resolved in 90–100% only when the dental source is controlled — with FESS as an adjunct (not a substitute) and oroantral fistula closure chosen by defect size (buccal fat pad superior for medium–large defects, acute repair ~95% vs chronic 67%).
