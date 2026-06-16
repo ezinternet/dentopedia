@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd, unilateral-chewing, condyle-morphology, tinnitus, fea, chewing-side-preference]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 턱관절장애(Temporomandibular Disorder, TMD) 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편(총 32편)을 10축으로 통합. 보존·비약물 1차, 비가역 교합치료는 최후.
+> - **역학·진단**: pooled 유병률 31%, 여성·청년 우세, biopsychosocial(심리·사회) 요인 중요 (Valesan 2021, OPPERA). 근육형이 가장 흔함(전체의 45%).
+> - **최고 근거 치료(BMJ NMA 2023, Yao, 233 RCT, 59 개입)**: 인지행동치료(CBT)+바이오피드백(위험차 RD 36%), 치료사 보조 하악 가동화(36%), 수기 트리거포인트(32%)가 TOP 3 → "운동·대처 촉진 치료가 일관 최선".
+> - **스플린트·운동**: 스플린트 vs 운동 동등 또는 운동 우위 (Zhang 2021); 안정화 스플린트는 conditional add-on.
+> - **교합 중재**: Cochrane 2024(Singh) — 교합 중재 evidence 매우 낮음, 교합조정 미지지. "교합조정·교합거상이 TMD 1차"는 오판.
+> - **약물**: 전반 GRADE 낮음 — 관절통엔 NSAIDs/관절강내 스테로이드·히알루론산, 근육통엔 cyclobenzaprine; 비약물과 병행, 단독 만성 사용 지양 (Häggman-Henrikson 2017).
+> - **중재(arthrocentesis)**: 4–6주 보존 실패 시 최대개구(MMO) +1.12 mm 유의 개선(p=0.001); HA·스테로이드 부가가 근거 우위 (IJOMS 2023, 7 RCT).
+> - **TMJ 골관절염(OA)**: CT가 골변화 gold standard(κ=0.71 vs 파노라마 0.16); 피질골 연속성 소실(미란·낭종)이 단순 편평화보다 진단적; 보존 우선 ladder (Song 2023, Kim 2023, KDA).
+> - **삶의 질·고경**: 모든 TMD군 QoL 유의 저하, 근육형·관절통형이 디스크변위형보다 심각(Pigozzi 2021); 수직고경(OVD) 거상은 교합 상실보다 과두 연골 손상 빠르고 심각 → 점진 거상+TMJ 모니터링 (Wang 2024 동물).
+> - **편측저작 축(축 10)**: 습관저작측 = TMD 통증측(Kappa=0.767), 위험비 4.5 (Santana-Mora 2021); 이명 동반 TMD에서 편측저작 선호(CSP) 유병률 90.7% vs 76.0%, 이명측=저작측 동측성 (Ma 2025); 후방 과두 위치 단독은 신뢰할 TMD 지표 아님 (Ma 2022, p=0.054 trend); 하악 편위 환자는 비편위측 단독 저작이 TMJ 응력 최고 → 양측/편위측 저작 권고 (Zheng 2025 FEA, 소규모).
+> - **확신도**: 역학·비약물 보존·BMJ NMA = 근거강함; 약물·arthrocentesis·이갈이·OA·QoL = 합의수준; 편측저작·과두·이명 = 합의수준-하(단면+동물+FEA, 인과 미확인).
+
 ## 한줄요약
 
 TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편 통합(2026-06-15 업데이트). BMJ NMA 2023 (233 RCT, 59 개입): CBT+운동·하악 가동화 최우수 → 약물 낮은 근거 → arthrocentesis 보존 실패 시. 근육형 TMD 특화·QoL 정량화·MAD/VD 축 신설. 편측저작 → 과두 위치·형태 변화·이명(동측) 상관 5편 추가(축 10).
