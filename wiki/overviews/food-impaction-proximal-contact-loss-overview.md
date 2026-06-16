@@ -23,6 +23,20 @@ source_papers:
 tags: [food-impaction, proximal-contact-loss, interproximal-contact-loss, implant-prosthesis, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 임플란트 보철-인접 자연치 사이의 근심/인접 접촉 상실(Proximal/Interproximal Contact Loss, PCL/ICL)을 다룬 통합 페이지 — SR/MA 4편 + 1차연구 4편 + 장기연구 1편(총 9편).
+> - 핵심 기전: 임플란트는 치조골에 고정돼 근심이동(mesial drift)을 못 따라가는데 자연치는 생리적으로 근심 이동 — 이 비대칭이 시간이 갈수록 임플란트 보철의 mesial 접촉을 벌려 식편압입(food impaction)을 유발.
+> - 임상 bottom-line: PCL은 **막기 어렵고(progressive·inevitable) mesial에 집중되며, 예방보다 정기 감시·재형성이 현실적 자세**다(Abduo 2022: "frequent, inevitable, progressive").
+> - 유병률은 추적기간에 강하게 의존 — <2년 11–30%, 2–5년 13–65%, >5년 29–83.3%(Abduo 2022).
+> - 방향성: 메타분석 통합치 mesial 44.2% vs distal 27.5%로 mesial이 일관되게 약 1.6–2배 높음(Sheba 2023).
+> - 언제 감시? 조기부터 — Mehanna 2021은 3개월 내, Kim 2025는 절반이 19.2개월 내 PCL 발생. 장착 후 첫 1–2년 유지관리에서 floss·strip으로 mesial 접촉 우선 점검.
+> - 고위험군: 기능기간 길수록, 인접치 골지지·치주상태 나쁠수록, 기존 interproximal gap(OR 2.7–3.3, Kim 2025)·generalized arch gap·plunger cusp 있을수록 위험↑.
+> - 개입 옵션·trade-off: (a) composite add-on 재형성(가역·저침습이나 재발 가능), (b) 크라운 재제작(확실하나 비용↑, screw-retained가 유리), (c) 무개입 관찰+위생교육. 치간칫솔 빈용이 mesial PCL과 연관되나 인과 해석 주의(이미 벌어져 쓰는 결과일 수 있음).
+> - 미해결: 보철 디자인(splinting·screw vs cement·접촉 형태)이 PCL을 줄이는지 RCT 부재; pooled prevalence 이질성 매우 큼(I²=87.8%); 재형성 vs 관찰의 식편압입·우식·치주 결과 비교 연구 없음.
+> - 범위 한계: 본 페이지는 현재 임플란트 중심 — 자연치-자연치 open contact/plunger cusp 근거는 향후 확장 대상.
+
 ## One-line Summary
 Proximal/interproximal contact loss (PCL/ICL) between implant prostheses and adjacent natural teeth is a frequent, time-progressive, mesial-predominant complication that causes food impaction; surveillance and re-contouring — not prevention alone — are the realistic clinical posture.
 
