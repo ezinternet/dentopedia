@@ -29,6 +29,21 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 치과 영상 선량은 상류의 modality 선택에서 대부분 결정되고, 그다음 술자가 조절 가능한 4개 레버로 미세조정된다. ALARA/ALADAIP 실행 = "더 낮은 modality를 고를 수 있는가 → 못 고르면 레버를 조인다" 2단 의사결정.
+> - Modality 위계(고정): 구내(intraoral) ~1.32 µSv ≪ 파노라마(panoramic) ~17.93 µSv ≪ CBCT ~121.09 µSv. 즉 CBCT를 파노라마로, 대형 FOV를 소형으로 내리는 것이 단일 최대 선량 절감.
+> - 'CBCT'라는 단일 라벨은 선량을 말해주지 않음 — 기기간 유효선량이 파노라마 2~200장 등가로 벌어진다(Jacobs 2018), 87기종 조사에서 3~500 µSv(Fontenele 2025).
+> - 레버 A — FOV/Collimation(가장 큰 임상 레버): 파노라마 collimation으로 진단정보 손실 없이 저감(Benchimol 2018). 단 소형 FOV 6회 잇기 = 대형 1회의 약 1.2배(Ozaki 2021) — '작게 여러 번'이 항상 방호적이지 않다.
+> - 레버 B — kVp/mAs: 고관전압(high-kVp) ULD/LD 프로토콜이 화질저하 없이 선량 ~6배↓(Charuakkra 2023).
+> - 레버 C — 복셀 크기(직관 반대): 70 kVp·16 mAs·180 µm(작은 복셀) 조합이 소아 CBCT 선량 ~45%↓ + 화질 유지. 노출은 낮추되 복셀은 키우지 말 것(Oenning 2019).
+> - 레버 D — 파노라마 빔높이(소아 특이): 7개 인자 중 빔높이(수직 조사야)가 선량 최대 결정인자(Lee 2019). 짧은 빔높이 = 소아 선량 저감 직접 전략.
+> - 패러다임 전환 1 — 접촉 차폐 중단: 생식선·골반·태아 및 갑상선 차폐를 모든 치과 영상에서 중단 권고(Benavides 2023 AAOMR/JADA 합의). 근거 — 절대선량 매우 낮음(갑상선 0.30~1.46 µSv, Schindler 2025), 칼라가 오히려 재촬영 유발. 단 국내 규정 확인 후 적용.
+> - 패러다임 전환 2 — 비전리 대안: 무피폭 0.55 T 저자장 MRI가 치축·치근·치근흡수·낭종에서 초저선량 CT와 동등 화질(Willershausen 2025). 단 PDL 공간·하악관 등 미세구조엔 미흡, ~9:45분 소요, 반복촬영 잦은 소아 매복치/교정에 미래 선택지.
+> - 진단정확도-피폭 trade-off: CBCT 외흡수 진단(민감도 78%/특이도 79%, 유효선량 34~1073 µSv, Baena 2022) — modality 격상이 정당할 때만 피폭이 정당.
+> - 근거 한계: 선량 최적화 자체에 대한 SR+MA 부재 — 레버 효과 크기는 대부분 phantom/Monte-Carlo 기반. 한국 DRL(Kang 2024) 수치는 변동 가능.
+
 ## One-line Summary
 
 Across 18 dental-radiology papers, patient dose is governed by a fixed modality hierarchy (intraoral ~1.3 ≪ panoramic ~18 ≪ CBCT ~121 µSv) onto which four operator-controllable levers act — field-of-view/collimation, kVp/mAs, voxel size, and (panoramic) beam height — while two paradigm shifts reframe protection: contact shielding (gonad/thyroid) is now recommended against, and radiation-free 0.55 T MRI emerges as a non-ionizing alternative for selected paediatric indications.
