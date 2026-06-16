@@ -13,6 +13,20 @@ source_collection: internal
 tags: [practice-management, korean-dentistry, constitutional-court, dentist-workforce, regional-distribution, dental-policy, KDA]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: 한국 치과 개원 환경을 다룬 2편(인력 분포 + 법적 판례)을 종합한 좁은 범위의 스냅샷 — 논문 추가에 따라 확장 예정.
+> - 인력(JKDA 2024, Yim & Jeon, 횡단연구, KDA 건강정책연구원): 활동 치과의사 수가 2012–2022 연평균 2.39% 증가.
+> - 지역 격차: 수도권 vs 비수도권 간 분포 불균형이 통계적으로 유의(ANOVA 확인). 국제 비교는 WHO 지표(인구 10만명당 활동 치과의사) 적용.
+> - 정책 맥락: 이 데이터셋은 치과대학 정원(quota) 확대 논쟁의 1차 정량 근거 — '공급 과잉'·'신설 필요' 양측이 공통 참조. 단, 횡단·기술적 연구라 인과 추론 불가.
+> - 개원의 함의: 2.39% 공급 증가가 대부분 지역의 인구 증가를 상회, 수도권 쏠림으로 경쟁 밀도가 도시에서 현저히 높음 → 분점 입지·전문 niche 선택에 지역 밀도 데이터 반영.
+> - 법적 테두리(Ha 2023, JKDA, 서술적 리뷰, 전북대): 치과의사 관련 헌법재판소 결정·헌법소원을 카탈로그화. 단, 원문이 기계판독 불가(CID 폰트 인코딩)라 개별 판례 holding은 수기 검토 필요(미검증).
+> - 추정 포함 범주: 치과의사 업무 범위 분쟁, 면허·자격, 환자권 vs 시술자권, 건강보험 규제 분쟁.
+> - 활용: 헌법 수준 판례의 구조적 카탈로그 — 법적 분쟁 대응·규제 준수 자문 시 유용. 개별 판례 원문은 korean-law-mcp와 교차 참조.
+> - 미충족 영역(2편으로는 합성 불가): 보험 심사 분쟁, 노동관계(근로기준법·치위생사 고용), 과실 판례, 광고 규제, 디지털 진료(스캐너·원격) 규제 — 각각 관련 논문 ingest 시 별도 페이지화.
+> - 신규(2026-06): 함석태(1889-?) — 일제강점기 첫 한국인 정규 치과대학 졸업·등록 치과의사, 한성치과의사회 창립(JKDA 2025 역사 기사).
+
 ## One-line Summary
 Synthesis of 2 practice-management papers: Korean dentist workforce grew at 2.39% annually (2012–2022) with significant regional disparity; constitutional court decisions catalogue the legal framework governing Korean dental practice.
 
