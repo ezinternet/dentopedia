@@ -633,6 +633,13 @@ tags: []
 - [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — in-vitro (West China J Stom 2015;33(5):474, 山东, 70 Nissin teeth, 20° TOC/2.5 mm): proximal groove·occlusal hole × 0°/6°/20° — 0° groove(443N)·0° hole(485N) 저항↑ 유의(P<0.05) BUT 20° groove 제외 모든 보조형 변연 부유↑; 유지력-적합 trade-off
 - [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — Alammar & Att 2022 SR: zirconia bonding durability clinical outcomes (24 studies), APA+MDP protocol, IJP
 
+## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
+- [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] — Fayad 2025 · narrative-review · 보철 수직고경(Occlusal Vertical Dimension, OVD) 결정법 종합 리뷰(안면계측·발음·연하·안정위+자유공극·두부계측 → 디지털 3D·CBCT·AI); 단일 우수법 없음, 과다/과소 VD 임상 징후(이근 긴장·이순구 심화) 포함 (DOI 10.7759/cureus.93987)
+- [[complete-denture/alhajj-2017-occlusal-vertical-dimension-complete-denture-review]] — Alhajj 2017 · narrative-review · 총의치 OVD 결정법을 발치 전(구내측정·측면윤곽·두부계측)/발치 후(안정위·심미·연하·안면계측·두부계측·발음)로 분류; 모두 경험적·단일 정확법 없음 → 병용 권고 (DOI 10.1111/joor.12522)
+- [[complete-denture/goyal-2026-anthropometric-methods-vertical-dimension-occlusion-sr-ma]] — Goyal 2026 · sr+ma · 안면계측 11기법 SR+MA(13편/3275명): 엄지 길이 전체 최강(r≈0.63), 남성 외안각–구열(≈0.57)·여성 새끼손가락(≈0.46); I²≈99%·비뚤림 높아 보조 지표 (DOI J Prosthet Dent 2026;135(3):528-538)
+- [[complete-denture/matsuda-2014-vertical-dimension-eeg-complete-denture]] — Matsuda 2014 · in-vivo · 총의치 21명 복제의치 −3/+5 mm VDO 뇌파(EEG): +5 mm 시 부정 심리지표↑(p<0.05), −3 mm 시 교합력↓(p<0.05) — 즉각 VD 오류가 심리·기능 교란 (DOI 10.1016/j.jpor.2014.01.003)
+- [[complete-denture/sheppard-1975-vertical-dimension-measurements-cephalometric]] — Sheppard 1975 · in-vivo · 두부계측 50명 고전: 안면 연조직이 하악 위치변화 가림, 무치악 안정위 변동·의치 장착 시 이동 → 안정위는 OVD 결정 기준으로 부적합 (DOI 10.1016/0022-3913(75)90103-1)
+
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] — Morimoto 2016 SR+MA: feldspathic/glass-ceramic laminate veneer survival 89% at 9yr, fracture/chipping dominant complication, IJP
 - [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]] — Albanesi 2016 SR+MA: incisal coverage vs non-coverage OR 1.25 (NS), both preparation designs safe for ceramic veneers, J Dent
@@ -2171,3 +2178,4 @@ tags: []
 - [[overviews/dbbm-bone-substitute-overview]] — DBBM·골대체재 흡수특성·BCP vs DBBM·PRF 보조·BMP2/BioCaP 종합 (9편 신규)
 - [[overviews/c-shaped-canal-anatomy-prevalence-overview]] — **NEW Overview**: C형 근관 유병률·지역·성별 매트릭스 종합 (12편). 하악 2대구치 17.3% 최다(Yousefi 101-study SR+MA), 상악 1대구치 0.8% 최저; 여성·아시아 우세, Fan C2 dominant; song-2008 박층 협측벽 천공 위험·isthmus 소독 임상 함의 (2026)
 - [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — **NEW Overview**: 단일 vs 다회 방문 근관치료 치유·통증 결과 종합 (5편). 방사선 치유·통증 임상적 유의차 없음(Mergoni Cochrane 47 RCT + Bobba·Chaitanya·Karaoğlan RCT); 단일방문 초기 통증 소폭↑(생활치 RR 2.16), Rossi-Fedele는 단일방문 치유 소폭 우위(RR 1.10) (2026)
+- [[overviews/complete-denture-ovd-determination-overview]] — **NEW Overview**: 총의치 수직고경(OVD) 결정·타당도·결과 종합 (5편). 단일 정확법 없음→다기법 교차검증(Alhajj·Fayad); 안정위 불안정(Sheppard 1975), 안면계측은 보조(엄지/새끼손가락, Goyal 2026); VD 오류는 심리·교합력 악영향(Matsuda 2014); 과소 VD 시 이근 과활성 '턱끝 뭉침', 과다 시 긴 하안면 (2026)
