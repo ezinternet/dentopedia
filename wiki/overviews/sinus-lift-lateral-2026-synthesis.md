@@ -10,6 +10,20 @@ tags: [overview, sinus-lift, lateral-window, schneiderian-membrane, perforation,
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 측방창(Lateral Window) 상악동거상술(Sinus Floor Elevation, SFE)에서 슈나이더막(Schneiderian Membrane) 천공(Sinus Membrane Perforation, SMP)·부비동염·이식재·PRF를 다룬 37편 종합(5개 cluster).
+> - **수리된 천공은 임플란트 식립 금기가 아님** — Soares 2024 SR+MA(130연구)에서 적절히 수리된 SMP의 임플란트 손실 4%(95% CI 2–8%)로 온전막과 통계적 동등, 천공 크기는 손실 예측 안 함(p=0.86); Sala 2024(6,860 임플란트)도 OR 1.35 비유의로 독립 확인.
+> - **격벽(septa)이 지배적 해부학적 위험** — Henriques 2022: 부비동의 33.2%에 격벽(86% 횡방향, 표준 창 절골선을 가로지르는 형태); Yang 2024: 천공 OR 4.03; Nemati 2023 다변량 모델 위험비(Hazard Ratio, HR) 8.07. 약 3개 중 1개 부비동이 수정 접근 필요.
+> - **점액저류낭(Mucous Retention Cyst, MRC)이 단일 최강 SMP 예측인자** — Nemati 2023: HR 27.75로 격벽(8.07)·흡연(25.0)을 같은 모델에서 능가.
+> - **흡연이 지배적 가변 위험** — Wang 2023 SR+MA: OR 1.58(I²=5%, 출판편향 없음)으로 가장 신뢰할 수 있는 가변 위험 추정치. 술전 금연 상담 근거 있음.
+> - 잔존치조골높이(Residual Ridge Height, RRH) 낮을수록 천공 위험↑(Ye 2025: 이상치 제거 후 OR 4.68, pooled SMP율 19.2%); 골막외복합체(Osteomeatal Complex, OMC) 해부(UPSA type 3/4/6·Haller cell)는 술후 부비동염 위험 변수 → CBCT 판독을 동저(sinus floor) 너머 OMC까지 확장.
+> - **수리 재료는 결손 크기로 매칭**: ≤10mm는 혈소판농축피브린(Platelet-Rich Fibrin, PRF; L-PRF/A-PRF/e-PRF)이 1차 seal로 콜라겐과 동등 이상; >10mm는 tack 고정 콜라겐+동시 graft(Tian 2026). 기구는 회전 bur보다 piezoelectric(Lee 2023 NMA: SMP 10%↑마다 임플란트 생존 OR 55%↓).
+> - **이식재(Cluster 5)**: PRF를 탈단백우골(Deproteinized Bovine Bone Mineral, DBBM)에 추가하면 신생골 +7~12%·잔존graft 감소가 일관되나 식립 시 임플란트안정지수(Implant Stability Quotient, ISQ) 이득은 없음(조기부하 정당화 못함). 이상다공성칼슘인산염(Biphasic Calcium Phosphate, BCP)은 DBBM보다 신생골 많고 흡수 완전하나 생존율 우위 데이터는 별도 필요.
+> - **술전 만성부비동염이 막천공보다 우선하는 감염 예방 변수** — Kozuma 2017: 121-sinus 코호트의 합병증 8건(6.6%) 전부가 만성부비동염 양성군에서 발생. 부비동 clearance가 측방거상술 전 필수.
+> - 두꺼운 점막(<10mm)은 금기 아님 — Khiabani 2024에서 6개월 후 3.4mm로 정상화, 비부비동염 0건(단 술중 출혈·거상 저항↑ 예상). 술후 일시적 상악동 자연공(MSO) 협착(1주 19.4%)은 정상 생리이지 부비동염 아님(Sakuma 2020).
+
 ## 한줄요약
 측방창 (Lateral Window) 상악동거상술 (Sinus Floor Elevation, SFE)에서 슈나이더 막 (Schneiderian Membrane) 천공 (Sinus Membrane Perforation, SMP)과 부비동염 (Sinusitis) 예방·관리를 다룬 34편에 이식재 선택 및 PRF (Platelet-Rich Fibrin) 보조 근거 3편을 추가해 총 37편으로 확장한 종합 페이지 — L-PRF·A-PRF 보조 시 신생골 +7~11% 유의 증가, BCP가 DBBM 대비 신생골 형성 우수.
 
