@@ -31,6 +31,22 @@ source_papers:
 tags: [nccl, abfraction, biocorrosion, monitoring, universal-adhesive, selective-enamel-etching, occlusion, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: 비우식성 치경부 병소(Noncarious Cervical Lesion, NCCL)의 병인·진단과 "관찰 vs 수복" 의사결정 종합(16편).
+> - 병인은 단일 기전이 아닌 stress(abfraction)·friction(abrasion)·biocorrosion(erosion)의 case-specific 다인성 조합.
+> - 교합응력 단독이 모든 NCCL의 주원인이라는 abfraction 단독원인설은 임상적으로 미입증 — SR 근거가 정면 충돌.
+> - SR 충돌 상세: 임상 SR(Senna 2012·Silva 2013)=연관 약함/불가 vs abfraction SR(Duangthip 2017)=81% 연관(단 lab/FEA 가중·응력단독 원인 임상입증 전무) vs scoping review(Dioguardi 2024, 6편)=확정·반박 모두 불가. SEM은 microfracture 일부 관찰(Worawongvasu).
+> - 종합: lab은 응력집중을 보이나 in-vivo 인과는 미입증.
+> - 진단: 형태가 병인 단서 — saucer형(매끈한 벽)은 biocorrosion·abrasion 우세, wedge형(긁힘·균열)은 교합+칫솔질 복합. 위험인자 체크: 칫솔질, 산성 식이, GERD, 타액 완충능, bruxism.
+> - 관찰 vs 수복: 무증상·생활치·구조 안정 → 최소 6개월 monitoring; 진행예방 단독 목적의 예방적 수복·교합조정은 비적응.
+> - 수복 trigger: 진행 확인, 과민증, 심미, 구조적 위협/치수노출 위험, 음식물 정체.
+> - 수복 핵심: 1차 재료는 복합레진(Composite Resin); 성공은 composite "종류"가 아니라 접착 시스템·술자 술기에 좌우(근거강함 — RCT).
+> - 접착: universal adhesive의 E&R vs SEE 모드는 장기 동등(Peumans 2023); 법랑질 변연 있으면 선택적 법랑질 산부식(Selective Enamel Etching) 권장(Omoto 2025).
+> - 금기 패턴: 접착 단계를 생략하는 self-adhesive flowable은 6개월에 유지 붕괴(성공 33% vs 3-step E&R 100%, Celik 2015) → 사용 지양; 경화상아질은 산부식 30초 연장 + 표면 텍스처링.
+> - gap: bruxer/고위험 환자 데이터 공백(주요 RCT가 severe bruxism 배제), monitoring → 수복 전환의 정량 임계값 부재.
+
 ## One-line Summary
 NCCLs are multifactorial (stress + friction + biocorrosion), the abfraction-as-sole-cause theory is unproven, asymptomatic lesions are best monitored, and when restoration is indicated retention depends on the adhesive/etching step — selective enamel etching helps and skipping the adhesive (self-adhesive flowable) fails.
 
