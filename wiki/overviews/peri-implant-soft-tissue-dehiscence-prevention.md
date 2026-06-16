@@ -10,6 +10,21 @@ tags: [overview, peri-implant, soft-tissue-dehiscence, PSTD, mucosal-recession, 
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: 임플란트 주위 연조직 dehiscence(Peri-implant Soft Tissue Dehiscence, PSTD)의 예방·관리를 식립 전 평가 → 술식 → 유지관리 3단계 알고리즘으로 종합(11편).
+> - PSTD는 질환 없는 상태에서도 평균 46.2% 발생 — "예외적 합병증"이 아니라 기대 가능한 자연 진행으로 봐야 함(Tavelli 2025 AO/AAP SR+meta-regression, 221편).
+> - 점막퇴축(Mucosal Recession, MREC)은 23.1%; Galarraga-Vinueza 2025·Derks 2015도 유사 prevalence로 수렴.
+> - 위험인자(식립 전 식별 가능): thin biotype(≤1mm), 각화조직(Keratinized Tissue, KT) 폭 <2mm, 협측 위치, 즉시식립, 흡연, CTG 미시행.
+> - 보호인자: KT ≥2mm, CTG 동반, 적절한 emergence profile, 연조직 volume 증대, 비흡연.
+> - KT 2mm가 임상 임계값 — KT <2mm면 plaque/BoP/MBL 증가; 식립 전·후 KT 평가·증대가 1차 예방 술식(Thoma 2018 SR+MA).
+> - 즉시식립 CTG: midfacial 보존 ~0.4~0.7mm로 thin biotype에서 effect 최대(Seyssens 2021); 단 CTG vs 이종 콜라겐 매트릭스 우위는 통계적으로 marginal(Azadi 2025 NMA) → thin biotype 아니면 콜라겐 매트릭스 대체 가능.
+> - 해부학적 근간: 협측 골판(Facial Bone Wall) <1mm → 발치 후 흡수 → 협측 점막 지지 상실 → 퇴축 → PSTD(Martins 2024); 따라서 연조직 술식 + 골 보존 술식 결합 필요.
+> - 흡연: 금연은 시간 의존 효과 — 식립 ≥6개월 전 금연 권고(Caggiano 2022).
+> - 위험 분류 → 술식: LOW(표준 식립, CTG optional) / MOD(CTG 또는 콜라겐 매트릭스 + SG mandatory + palatal-biased position) / HIGH(식립 전 FGG로 KT 증대 → CTG + SG + GBR).
+> - 기존 PSTD 관리: ≤1mm 관찰+위생, 1~3mm CTG 보강, ≥3mm + 협측 골 결손 → 보철 제거 + GBR + 재수복.
+
 ## 한줄요약
 임플란트 주위 연조직 dehiscence (Peri-implant Soft Tissue Dehiscence, PSTD)는 *질환 없는* 상태에서도 평균 46.2% 발생 (Tavelli 2025 AO/AAP SR+meta-regression, 221편). 위험인자(thin biotype·각화점막 (Keratinized Tissue, KT) <2 mm·협측 위치·즉시식립·흡연·당뇨)는 식립 *전* risk assessment로 식별 가능하고, 보호 술식 (CTG·결합조직이식 (Subepithelial Connective Tissue Graft, SCTG)·KT 증대·연조직 두께 증대)로 prevalence를 약 50% 감소시킨다. 본 페이지는 식립 전 평가 → 술식 → 유지관리의 3단계 알고리즘.
 
