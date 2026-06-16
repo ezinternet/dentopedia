@@ -18,6 +18,20 @@ relations:
     target: cosola-2020-bone-tissue-level-radiological-sr
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 조직수준(Tissue-Level, TL) vs 골수준(Bone-Level, BL) 임플란트를 생존·변연골 소실(MBL)·주위염·연조직·특정 시나리오로 비교한 9편(2 SR, 1 SR+MA, 2 전향/케이스-대조, 2 후향, 2 동물) 종합.
+> - 중심 역설: 최고근거(SR/SR+MA)는 유의차 없음을 보이나, 매칭된 통제 임상연구들은 일관되게 TL을 선호 — SR은 이질적 시스템·시대를 묶어 신호가 희석되고, head-to-head는 임플란트-지대주 접합부(IAJ) 위치라는 단일 변수를 분리하기 때문.
+> - 생존: TL·BL 모두 모든 시나리오에서 동등(>90–100%) — 임플란트 타입만으로 실패 예측 불가[합의수준].
+> - MBL: SR 수준에선 유의차 없으나(Cosola 2020, Atieh 2025), 동질적 head-to-head에선 TL이 0.25–0.66mm 적게 소실 — Agustín-Panadero 2021 TL 0.31 vs BL 0.97mm(p<0.001, 3배차), Lombardi 2025 TL 0.30 vs BL 0.55mm(p=0.003).
+> - 기전: TL 이점은 microgap 위치 — IAJ를 치은연상(supragingival)에 두면 세균 계면·생물학적 폭경 형성이 치조정골에서 멀어짐; BL에선 플랫폼 스위칭(platform-switching)이 부분적 유사 효과.
+> - 주위염: TL 위험 감소 방향성(RR 0.59)은 있으나 유일한 SR+MA(5편, 501개)에서 통계적 유의 미달(95% CI 0.14–2.48, p=0.47) — underpowered, 1차 선택 기준 삼지 말 것.
+> - 즉시식립(동물, Zhang 2021): TL vs BL 경부설계가 수직 치조정 흡수를 유의하게 바꾸지 않으나, BL을 1mm 치조정하방(subcrestal) 식립 시 설측 생물학적 폭경이 유의하게 넓음(3.16 vs 2.43mm, p=0.009); 협측 흡수 > 설측.
+> - 핵심 예측인자: 얇은 임플란트 주위 점막(≤2mm)이 TL·BL 모두에서 초기 MBL의 최강 예측인자로 흡연·치주염·삽입토크·ISQ를 능가(Lombardi 2025).
+> - 신형 TL 거시설계(tapered self-cutting, Laser-Lok collar, convergent neck)는 치은연상 microgap + 추가 치조정 보존 기전 결합 → 전향 코호트에서 100% 생존·거의 0 주위염(Spinelli 2023).
+> - 임상 bottom line: 생존엔 사실상 호환 가능, IAJ를 치은연상에 두는 것(TL 또는 tall transmucosal + 플랫폼 스위칭 BL)이 치조정골을 0.25–0.66mm 보호 — 얇은 조직형·상악 구치부 단축 임플란트에서 가장 의미 있음; BL에선 플랫폼 스위칭·모스 테이퍼(Morse taper)가 최강 MBL 조절 레버.
+
 ## One-line Summary
 
 Synthesis across 9 papers (2 SR, 1 SR+MA, 2 prospective/case-control, 2 retrospective, 2 animal) finds TL and BL implants achieve equivalent survival (>90–100%) and comparable MBL by SR-level analysis, but controlled clinical studies consistently show TL implants lose 0.25–0.66 mm less marginal bone, with the advantage most pronounced for short implants in posterior maxilla, thin-tissue scenarios, and novel TL macro-designs — while peri-implantitis risk reduction for TL remains directionally favorable (RR 0.59) but statistically non-significant.
