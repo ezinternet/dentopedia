@@ -13,6 +13,20 @@ source_collection: internal
 tags: [REP, regenerative-endodontics, revitalization, apexification, MTA-apical-plug, immature-permanent-tooth, open-apex, necrotic-pulp, blood-clot, LPRF, disinfection, root-development]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 치근단이 열린 미성숙 영구치의 치수괴사에는 재생근관치료(Regenerative Endodontic Procedures, REP, =revitalization/혈관재생)가 선호되며, 치근 발육 잠재력 보존이 1차 임상 목표.
+> - 핵심 구분 — 근관충전(Apexification: Ca(OH)₂, MTA apical plug=MAP)은 근단 장벽만 형성하고 치근 발육은 정지(벽이 얇은 채 유지) vs REP는 치근 신장+상아질 벽 비후를 재개(파절 위험 감소).
+> - 생존율·성공률은 REP ≈ MAP로 동등: 생존 97.1%(MAP) vs 97.8%(REP), 성공 94.6% vs 91.3%, 모두 유의차 없음(Torabinejad 2017 SR+MA). 단 근거 수준은 LOW(증례군·후향 위주).
+> - 치근 발육은 REP > MAP: 치근 길이 증가·상아질 벽 두께 증가 모두 revitalization이 apexification보다 유의하게 우위(Panda 2022, Stefanidou 2024 두 SR+MA 일치).
+> - 임상 함의: 외상·우식으로 괴사된 미성숙 영구치 소아에서 구조적 치근 완성이 목표라면 REP가 생물학적으로 우월한 선택.
+> - 치근단치주염(apical periodontitis)이 있어도 REP는 여전히 유효 — 충분한 소독이 결정 인자이며, 병변 단독으로 REP 부적격이 되지 않음(Meschi 2023).
+> - 소독 프로토콜: 1.5% NaOCl(1세션, 세균량 유의 감소)+17% EDTA(2세션, smear layer 제거). 공통 세균총 — Fusobacterium nucleatum, Treponema denticola, Enterococcus faecalis(Sellami 2023).
+> - LPRF(백혈구·혈소판풍부 피브린) 스캐폴드는 비권장: 14례 중 2례 재치료·2례 3년 추적 시 치근단치주염 지속 vs 대조군(LPRF 없음)은 완전 치유. 표준 스캐폴드는 혈병(blood clot), 관상 차단재는 MTA 또는 Biodentine.
+> - 조직학적 현실: REP 재생 조직은 진정한 치수-상아질 복합체가 아니라 백악질·골 유사 조직(Zhou 2022) → 성공 후에도 vitality test 음성 가능, 구조적 이득은 있으나 치수 감각 회복은 아님(환자 기대치 관리 필요).
+> - 의사결정 요약: 미성숙 영구치+치수괴사 → 일부 생활치수 잔존 시 부분치수절단(VPT) / 완전 괴사 시 젊은 환자·치근발육 목표면 REP, 고령·빠른 폐쇄 필요면 MAP. 양쪽 생존 동등, 치근 신장 목표 시 REP 선호.
+
 ## One-line Summary
 Synthesis of 6 REP papers (3 SR+MA, 1 prospective-microbiology, 1 narrative-review): REP/revitalization and MAP have equivalent survival (~97%) and success (~93%), but REP is significantly superior for root elongation and dentin wall thickening; LPRF scaffold is NOT recommended.
 
