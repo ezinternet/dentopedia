@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [orthodontics, otm, tooth-movement, pdl, rankl, opg, bone-remodeling, biology, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 교정적 치아이동(Orthodontic Tooth Movement, OTM)은 치주인대(Periodontal Ligament, PDL) 압박-인장 응력 → 세포 변형 → 사이토카인·signaling 활성화 → 파골/조골 활동 → 치조골 재형성의 **4단계 sequential 과정**. 생물학 8편을 4축으로 합성.
+> - **고전 모형의 분자화**: 압박측 파골세포·인장측 골형성의 고전 모형이 OPG/RANK/RANKL triad + sclerostin·DKK1·BMP·TNF-α 신호로 분자 수준 정리됨 (Li 2021: 6,808편→170편, 4단계 모형).
+> - **분자 핵심**: OPG/RANK/RANKL — 압박측 RANKL ↑ → 파골세포생성(osteoclastogenesis), 인장측 OPG/sclerostin 조절로 골형성 (Krishnan 2006, Tsolakis 2023, Wise 2008).
+> - **보조 신호**: TNF-α·DKK1·sclerostin·TGF-β·BMP가 합류; 동물 형질전환(transgenic) 모델로 인과 규명 (Jeon 2021 critical review).
+> - **기계감지(mechanotransduction)**: PDL 세포외기질(ECM)·세포골격이 응력 감지에서 결정적 (Feller 2015 ×2).
+> - **맹출과의 공유 경로**: OTM과 영구치 맹출은 동일 분자 경로(RANKL/OPG/CSF-1) 공유 → 매복치 견인 등 임상에 의미 (Wise 2008).
+> - **적정 힘 원칙**: 너무 강한 힘은 유리질화(hyalinization) → 이동 지연 + 치근흡수; PDL 압박측 모세혈관 평균 압력(~25 mmHg) 초과 회피. → "교정력은 강할수록 빨리 움직인다"는 오판, 적정·간헐·생리적 힘이 최적.
+> - **약물 영향**: NSAID 장기 사용은 prostaglandin 차단으로 OTM 지연, 비스포스포네이트는 OTM 억제 → 병력 청취 필수.
+> - **임상 가속화(corticotomy·MIO·진동·저강도 레이저)**: 동물에서 효과 강하나 인체 RCT 부족 → 미검증.
+> - **확신도**: 축 1·2 분자/PDL = 합의수준(narrative review 중심, RCT 부재); 축 3 동물 형질전환 = 근거강함(인과); 임상 가속화 = 미검증(인체 RCT 부족).
+
 ## 한줄요약
 
 교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 합성. 압박측 파골세포·인장측 골형성의 고전 모형은 OPG/RANK/RANKL triad + sclerostin·DKK1·BMP·TNF-α 신호로 분자 수준 정리됨. 임상 가속화 개입은 동물 근거 강하나 사람 임상은 제한적.
