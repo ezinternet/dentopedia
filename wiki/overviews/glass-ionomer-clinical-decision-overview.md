@@ -23,6 +23,20 @@ source_papers:
 tags: [gic, rmgic, hvgic, cgic, remineralization, biocompatibility, longevity, fissure-sealant, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지는 글래스아이오노머 시멘트(Glass Ionomer Cement, GIC) 신규 클러스터 8편을 통합해 "GIC를 언제·어떤 형태로 써야 하고 근거가 어디서 약한가"에 답하는 종합이다.
+> - **적응증**: WHO 필수의약품 등재(2021) 이후 GIC는 수복·합착(luting)·소와열구전색(fissure sealant)에 근거가 충분하나, 이장재(liner)·기저재(base)는 논쟁적 (Ge 2024).
+> - **하중부(Class I/II)**: 12편 RCT상 기존 재료와 비교 가능하나(Durrant 2024), GIC의 낮은 파괴인성·내마모성을 고려 — 고교합·대형 와동은 복합레진/아말감 대안 병기.
+> - **소아 유치**: 고점도 GIC(High-Viscosity GIC, HVGIC)와 복합레진이 임상 유의차 없음(Krishnakumar 2024) → moisture control·협조도 문제 상황에서 HVGIC가 합리적.
+> - **생체적합성**: 전통 GIC(Conventional GIC, CGIC)가 레진강화형 GIC(Resin-Modified GIC, RMGIC)보다 세포독성이 낮음(Singh 2024) → 치수 인접·생활치수치료(Vital Pulp Therapy, VPT)에는 CGIC 우선. RMGIC는 심미·강도·조작성 우수하나 생체적합성 열세(trade-off).
+> - **longevity**: 근거는 존재하나 underlying SR의 품질(AMSTAR-2/ROBIS)이 낮아(a priori design 부재) 고품질 SR + 장기 RCT 필요 (Panetta 2024 umbrella).
+> - **생체활성 개질**: 칼슘/인산(Ca/P) 개질·나노필러가 생체활성·재광화·물성을 높이나 아직 **in-vitro 수준**으로 임상 효능은 미검증 (Tuygunov 2024, Moheet 2019).
+> - GIC 소와열구전색의 유지율은 케이스 시리즈상 ~77%로 보고됨 (Mummery 2022).
+> - **임상 결정 4갈래**: ①적응증(직접수복·luting·sealant 지지, liner/base 약함) ②CGIC vs RMGIC(치수 인접 시 CGIC) ③하중부(허용 가능하나 물성 한계) ④유치(HVGIC ≈ composite).
+> - **갭**: longevity SR 품질, Ca/P·나노필러의 in-vivo 임상 효능, CGIC vs RMGIC 생체적합성의 장기 임상 데이터가 모두 부족.
+
 ## One-line Summary
 Synthesis of the 8-paper glass-ionomer cluster answering when and how to use GIC across restorative, preventive, and bioactive indications, and where the evidence is weakest.
 
