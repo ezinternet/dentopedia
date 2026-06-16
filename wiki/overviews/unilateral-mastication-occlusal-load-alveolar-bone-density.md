@@ -14,6 +14,20 @@ source_papers:
 tags: [overview, occlusion, alveolar-bone, bone-density, unilateral-mastication, chewing-side-preference, disuse-osteoporosis, hounsfield-unit]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 질문 "편측저작을 하면 그 쪽 치조골이 더 단단한가?"에 대한 답: **그렇다 — 작업측(씹는 쪽)이 비작업측보다 치조골 밀도가 높다**. 인체 정량 데이터와 분자 기전이 일치.
+> - 직접 인체 증거(Lee 2018): 편측저작 성인 25명 콘빔CT(Cone-Beam CT, CBCT)에서 치근간 치조골 밀도(Hounsfield Unit, HU)가 견치·소구치·대구치에서 작업측 유의하게 높음(p<0.05).
+> - 차이 크기는 부하 크기를 따라감 — **하악 대구치에서 차이 최대(~100 HU; 513 vs 409)**, 교합력이 가장 작은 절치부는 차이 없음(n.s.).
+> - 기전: 교합 부하가 치주인대(Periodontal Ligament, PDL)의 type H 혈관(CD31ʰⁱ/EMCNʰⁱ)·OSX⁺ 골전구세포를 통해 치조골을 능동적으로 *유지*(PIEZO1/Ca²⁺/HIF-1α/SLIT3 회로, Chen 2023).
+> - 부하 상실 측은 치조골 폐용성 골다공증(Alveolar Bone Disuse Osteoporosis, ABDO) 방향 — sclerostin·RANKL↑가 Wnt/β-catenin 억제(골형성↓)하고 파골세포↑(흡수↑)로 골밀도(BMD)·골부피분율(BV/TV) 감소(Xu 2016, p<0.001).
+> - 가장 중요한 임상 포인트는 **가역성** — 교합 회복 시 해면골 미세구조·BMD가 정상으로 되돌아감(Liu 2015 micro-CT; Hayashi 2014 저출력레이저 bFGF/VEGF↑). 고정된 손상 아님.
+> - 반드시 분리할 축: 편측저작 문헌 대부분(Zheng 2023)은 치조골이 아니라 **과두(condyle)·악관절(TMJ)**을 다루고 방향이 반대 — 작업측 과두는 오히려 작아지고 상방변위·관절간극↓. 치조골은 load-positive, 과두는 반대.
+> - 임상 적용 ①: 비작업측 구치부는 골질이 한 등급 낮게 나올 수 있어, 임플란트 식립 시 under-drilling·tapered·diameter 우선·지연부하 등 골질 보정 전략 고려.
+> - 임상 적용 ②: 대합치 상실·무치악 분절은 ABDO 방향이므로 조기 교합 회복(보철)이 골 보존에 유리; 양측 균형저작 회복으로 밀도 비대칭 가역 가능.
+> - 한계: 직접 인체 근거 1편(Lee 2018, n=25)뿐 — HU 절대값은 기기/FOV 의존; 기전은 전부 설치류; 단면연구라 인과 방향 미해결; 임플란트 주위골엔 PDL이 없어 type H/SLIT3 기전 외삽은 불확실.
+
 ## One-line Summary
 In unilateral chewers the working (chewing) side carries denser alveolar bone than the non-working side — significant at canine through molar and largest at the mandibular molar (~100 HU) — because occlusal load maintains alveolar bone (via PDL type H angiogenesis and Wnt signaling) while unloading drives a reversible disuse osteoporosis (↑sclerostin/RANKL, ↓BV/TV); the alveolar-bone response is load-positive and must be read separately from the chewing-side condyle, which remodels in a different direction.
 
