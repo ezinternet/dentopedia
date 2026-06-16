@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [pdrn, polydeoxyribonucleotide, a2a-receptor, bone-regeneration, soft-tissue-augmentation, gbr, sinus-lift, immediate-implant, keratinized-tissue, oral-surgery, overview, decision-ladder]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - PDRN(폴리데옥시리보뉴클레오티드, Polydeoxyribonucleotide) 치과 적용 17편 종합 spine. 연어/송어 정자 유래 50–1500 kDa DNA fragment.
+> - 기전은 인과적으로 입증됨 — A2A 아데노신 수용체(항염·혈관신생) + 뉴클레오티드 구제경로(DNA 합성). Bitto 2013에서 A2A 길항제(DMPX)가 효과를 소실시켜 receptor-mediated 확정(단 rat 치주염 모델 맥락).
+> - 근거가 둘로 갈림: **진통·항염은 human 근거, 재생은 전부 preclinical(animal·in vitro)**. 재생 claim의 human RCT는 0편.
+> - 재생 효과는 **zone-specific·outcome-specific·시간 전엽**: 신생골 면적/비율은 ↑하나 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)·BAFO는 무차이; 효과가 슈나이더막 근접 apical zone에만 국한(Lee 2023 sinus: BIC apical 76.7% vs 55.6%, p=0.038); 초기(2–4주)에 몰리고 종점에서 격차 축소(Ko 2024 ARP·Lim 2025 endosinus).
+> - 연조직: 각화치은(Keratinized Tissue, KT) 높이만 ↑, 부피(volume) gain은 무효(Lee 2024 즉시식립) — 결과 충돌 존재. PDRN의 연조직 가치는 "부피"가 아니라 "각화·치유 질".
+> - Dose는 비선형·비표준 — 많을수록 좋은 게 아님(RUNX2 peak @25 μg/mL, COL1A1 @75 μg/mL; 4mg/mL이 2mg/mL 대비 추가 이득 없음). 표준 dose·vehicle·timing 미정립.
+> - Autograft(SCTG/FGG) 대체는 아직 안 됨 — comparable 데이터는 positive control 결여·KT height 열위·volume 무효라는 단서와 공존.
+> - 안전성 양호(농도의존 세포독성 없음, 이상반응 HA 동등) → **저비용·저위험 보조**로서는 합리적이나 1차 재생치료나 표준 graft 대체 근거로는 미흡.
+> - 가장 빠르게 human 근거가 붙는 임상 입지는 **재생이 아니라 진통·항염** — 발치(매복 제3대구치) 술후 통증(Kim 2026 RCT), TMJ prolotherapy(Choi 2026 후향 n=66: VAS 4.34→1.00, 최대개구량(Maximum Mouth Opening, MMO) 31.0→40.8mm, PDRN ≈ dextrose), 비치과 SR/MA(건·인대 SMD −1.43; 슬관절 OA HA 대비 단기 우위)가 보강.
+> - 오판 패턴 3가지: ① "PDRN이 BIC를 높인다"(틀림), ② "PDRN-collagen이 autograft를 대체한다"(과장), ③ "human 근거가 쌓였다"(RCT는 통증 1편뿐, 재생 endpoint human 0편). MRONJ는 카탈로그 언급에서 기전 근거(Pachhapure 2025 in vitro, TBK1 경로)로 격상됐으나 단일 세포주 한계.
+
 ## One-line Summary
 
 Synthesis of 17 wiki papers on polydeoxyribonucleotide (PDRN) in dentistry: mechanism (A2A adenosine receptor + nucleotide salvage pathway) is well-anchored, but the evidence splits sharply — the **analgesic/anti-inflammatory** effect now has the strongest human support (1 dental RCT + 1 TMJ retrospective cohort + 2 non-dental SR/MA), while the **regenerative** effect remains entirely animal/in-vitro and is consistently zone-specific, outcome-specific, and temporally front-loaded (early acceleration that narrows by endpoint). PDRN moves early/peripheral bone, keratinized tissue, and pain — but not primary osseointegration (BIC/BAFO) or soft-tissue volume, and does not replace autograft.
