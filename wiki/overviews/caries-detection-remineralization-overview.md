@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [caries, white-spot-lesion, wsl, icdas, diagnodent, remineralization, resin-infiltration, fluoride, cpp-acp, gic, root-caries, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 우식 탐지·예방·관리 SR/SR+MA 8편을 **탐지·백색반점(WSL)·재광화·근관거리(root caries) 우식·2차 우식** 5축으로 통합한 결정 ladder.
+> - **탐지**: DIAGNOdent Pen이 가장 민감(민감도 0.81–0.89), 교합면 방사선은 0–0.29로 거의 무용 (Foros 2021 SR+MA). 따라서 "교합면 우식은 방사선으로 잡는다"는 오판 — 시진+ICDAS+DIAGNOdent 위주.
+> - **ICDAS**: 재현성 pooled >0.65, SROC D1 >0.75로 임상 표준 (Ekstrand 2018 SR, 54편). 코드 1–2 = 재광화 영역, 3 이상 = 수복 고려.
+> - **백색반점(White Spot Lesion, WSL)**: 외관 개선은 레진 침투(resin infiltration, Icon)가 NMA 최상위 — 불소 바니시 대비 표준화평균차(SMD) 1.24 우위 (Xie 2023 NMA, Bourouni 2021). 교정 후 WSL·불소증에도 효과.
+> - **재광화**: 불소 + CPP-ACP 병용이 가장 효과적; 유치는 불소 바니시/겔과 CPP-ACP 모두 유의하나 방법 간 차이 없음(NS) — 환자 협조도 위주 선택 (Malcangi 2023, Ancira-Gonzalez 2018).
+> - **근관거리(root) 우식**: 9개 RCT NMA에서 재료·접착 전략 간 통계적 차이 없음 (Schmidt 2024). 실무는 접근성·경부 민감도·구강위생으로 선택; 고령 hyposalivation 시 GIC 우선.
+> - **2차 우식 예방**: GIC = 레진 ≥ 아말감 (Ge 2023 SR+MA, 64 RCT). 고위험·저협조 환자엔 GIC 불소 방출 이점(ART) 활용.
+> - **추가 근거(2026-06)**: ADA NMA에서 SDF·sealant+fluoride 병용이 병소 정지·역전 최상위권 (Urquhart 2019); 제1대구치에선 치면열구전색 vs 불소바니시 상아질 우식 동등(19.6% vs 17.5%) → 집단검진 맥락에선 불소바니시가 비용효과 우위 (Chestnutt 2017 RCT).
+> - **임상 ladder(재광화)**: 성인 비활성 WSL → 불소 바니시(22,600 ppm) 3개월 + CPP-ACP 자가 + 식이 교육; 고위험 root caries → SDF 보조(변색 동의); 3–6개월 재평가 후 진행 시 수복.
+> - **확신도**: 축 1·2·5 = 근거강함(SR+MA 다수); 축 3 = 합의수준; 축 4 = "차이 없음" 결론에 근거강함.
+
 ## 한줄요약
 
 우식 탐지·예방·관리 SR/SR+MA 8편 통합. ①탐지 — DIAGNOdent Pen 민감도 최고(0.81–0.89), 교합면 방사선 최저; ICDAS 재현성·정확도 양호. ②WSL — Resin infiltration NMA 최상위 외관 개선. ③재광화 — 불소 + CPP-ACP 병용 최선; SDF·HAP·레이저 보조. ④근관거리 우식 — 4–5개 전략 모두 유의차 없음. ⑤2차 우식 — GIC = 레진 ≥ 아말감.
