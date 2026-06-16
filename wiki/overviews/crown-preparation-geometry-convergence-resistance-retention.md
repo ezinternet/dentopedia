@@ -10,6 +10,20 @@ tags: [overview, crown-preparation, TOC, convergence-angle, resistance-form, ret
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 이 페이지는 2025년 ingest한 크라운 prep 기하 9편(전부 in-vitro/cross-sectional)을 5개 클러스터로 묶은 종합이다.
+> - **핵심 명제**: Shillingburg 교과서의 6° 총수렴각(Total Occlusal Convergence, TOC)은 임상에서 도달 불가능한 이상치이고, 실제 권장 범위는 **10–22°**(Tiu 2015 SR)이며 실제 임상은 25–32°까지 과도하게 over-taper 되어 있다.
+> - TOC 측정 단계별 비교: 학생 preclinical 약 11–12° → 임상(Dubai 개원의) MD 24.6°/BL 32.6° → preclinical↔clinical gap이 1.5–2배.
+> - **치아별 TOC 민감도**(Vinnakota 2015): 견치·대구치는 민감(8° 증가 시 retention ~40% 감소), 소구치는 둔감(NS) → 견치·대구치는 14° 이하로 통제할 가치가 있고 소구치는 약간 over-taper 허용.
+> - **보조 유지·저항형의 trade-off**(핵심 발견): grooves/holes는 retention을 ~35–50% 올리지만 변연부 들뜸(marginal float)을 2–3배 악화시킨다 (Yang 2015). Roudsari 2011은 marginal float을 측정 안 해 grooves를 호의적으로 보고 → 두 논문을 같이 읽어야 정확.
+> - **운영 규칙**: retention이 충분하면 보조형을 예방적으로 박지 말 것. 명백한 retention 부족 시(path-of-insertion 측정 후)에만 적용. 20° groove만 retention↑(미미)+fit 유지의 Goldilocks이나 gain이 작음.
+> - **임시 크라운**(Alqarawi 2024): 3D 프린팅이 milling 대비 모든 조건에서 retention 2–3배 우위 → 장기 임시(임플란트 healing 6개월, ortho-resto 단계)는 3D 프린팅 우선, 단기 1–2주는 chair-side milling/PMMA로 충분.
+> - **지르코니아 cementation**(Harb 2021): 핫애시드(48% HF + 69% HNO₃) etching은 유지력을 유의 향상시키나(p=0.001) 안전상 일반 진료실 사용 불가 → 실용 baseline은 air-abrasion(50 μm 알루미나) + MDP 함유 primer + Panavia SA Cement.
+> - 시멘트 종류 단독은 유지력에 NS(p=0.882) — air-abrasion + 핫애시드 표면처리가 결정 변수.
+> - **갭**: 9편 모두 in-vitro/cross-sectional이라 5–10년 임상 생존율 RCT 부재, 한국 인구 TOC 데이터 부재, adhesive cement 시대의 TOC 재평가 부재, 3D 프린팅 retention 우위의 기전 미규명.
+
 ## 한줄요약
 2025년 ingest한 크라운 prep 기하 9편을 (1) 권장 vs 임상 TOC gap, (2) 치아별 TOC 민감도, (3) 보조 유지·저항형의 retention-fit trade-off, (4) 임시 크라운 제작 기술별 retention, (5) 지르코니아 표면처리 4개 클러스터로 묶고 — Shillingburg 6° 이상치는 임상에서 도달 불가능, 권장 범위는 10-22°이며 실제 임상은 25-32°까지 over-tapered되어 있음. 보조 형태는 retention 회복하지만 marginal fit을 동시에 손상.
 
