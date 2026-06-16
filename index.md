@@ -570,6 +570,7 @@ tags: []
 - [[endodontics/diagnosis/dumitrescu-2021-cbct-periapical-lesions-maxillary-sinus]] — 전향 관찰연구(n=50, 치아 328개): 근단병소 인접 CBCT 상악동 점막두께 3.95mm vs 병소 없음 1.23mm (p<0.01); 조직병리 육아종 50%·낭종 40%; IHC CD20+/CD79α+ 우세 만성 염증 (DOI 10.3390/medicina57080840)
 - [[endodontics/diagnosis/nair-2006-causes-persistent-apical-periodontitis-review]] — Nair 2006 · narrative-review · Landmark review systematizing six causes of persistent post-treatment apical periodontitis: intraradicular infection, extraradicular infection (actinomycosis), foreign-body reaction, cholesterol crystals, true cysts, scar tissue (DOI 10.1111/j.1365-2591.2006.01099.x)
 - [[endodontics/diagnosis/ricucci-2010-biofilms-apical-periodontitis-prevalence]] — Ricucci 2010 · cross-sectional · Histobacteriologic study (106 roots): intraradicular biofilms in 77% of canals (untreated 80%, treated 74%), rising with lesion size; assoc. with epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%; p<0.001) (DOI 10.1016/j.joen.2010.04.007)
+- [[endodontics/diagnosis/godoi-2025-lps-lta-clinical-features-secondary-endodontic]] — Godoi 2025 · cross-sectional · 재치료 40치: 전 근관서 LPS(5.1 EU/mL)·LTA(537.5 pg/mL) 검출; LPS↑가 큰 치근단 투과상·임상증상·결함 수복과 상관 (DOI 10.1111/aej.12963)
 
 ## 치주치료 (Periodontics)
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — Barahim 2024 · RCT(n=24, 조절형 T2DM stage III 치주염): 오존겔을 SRP 보조로 추가 — 군간 임상차는 없으나 오존군에서 군내 방사선학적 골결손 개선·3개월 PPD 감소·술후 통증 감소 (BMC Oral Health)
@@ -1789,6 +1790,8 @@ tags: []
 - [[prosthetic-materials/sadid-zadeh-2021-assessment-tooth-preparations-submitted-dental]] — Sadid-Zadeh 2021 · cross-sectional · STL audit of 392 posterior preps; >50% undercut/unsupported enamel/poor finish line, most TOC >20°
 - [[prosthetic-materials/sengottaiyan-2025-influence-tooth-preparation-design-margin]] — Sengottaiyan 2025 · sr · 27 in-vitro studies: rounded-shoulder favored marginal fit, chamfer favored internal adaptation (digital zirconia)
 - [[prosthetic-materials/hardan-2022-treatment-tooth-wear-using-direct]] — SR (16 studies, ≤10y): direct vs indirect restorations for tooth wear; no technique/material proven superior
+- [[prosthetic-materials/goodacre-2001-tooth-preparations-complete-crowns-art-form]] — Goodacre 2001 · narrative-review · 완전피개 삭제 9대 원칙 — TOC 10–20°, 대구치 교합치경높이 ≥4 mm, O-C:F-L ≥0.4, line angle 보존, 부족 시 보조 groove/box (DOI 10.1067/mpr.2001.114685)
+- [[prosthetic-materials/contrepois-2013-marginal-adaptation-ceramic-crowns-sr]] — Contrepois 2013 · sr · 54편/17 세라믹 시스템: 변연간격 94.9% 임상 허용; 적합 4요인(finish line·시멘트공간·veneering·합착) (DOI 10.1016/j.prosdent.2013.04.003)
 
 ### Resin bonding — wet-bonding
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — Zhao 2023 · in-vitro · acetone wet-bonding preserved aged bond strength (p<0.05) and suppressed MMP (60 third molars)
@@ -1827,6 +1830,9 @@ tags: []
 - [[digital-workflow/wei-2025-autonomous-robotic-surgery-dynamic-navigation]] — Wei 2025 · rct (40 single-tooth): 동일 추적장치 통제 시 로봇은 각도 편차만 유의 개선(1.01° vs 1.78°), 관상·첨부 동등, 시술시간 더 김
 - [[digital-workflow/chen-2025-robot-assisted-dynamic-navigation-accuracy]] — Chen 2025 · retrospective (57 implants): 반자율로봇(sa-RASS) 플랫폼·첨부 편차 우위, 각도는 동등(비유의)
 - [[digital-workflow/wu-2024-autonomous-dental-implant-robotic-accuracy]] — Wu 2024 · prospective single-arm (86 implants): 자율로봇 절대정확도 관상 0.61mm·첨부 0.79mm·각도 2.56°, 부위·길이·술자 영향 없음
+- [[digital-workflow/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr]] — Revilla-León 2025 · sr · 39편: 단순형태·큰 TOC·해부학적 교합삭제·치은연상/chamfer 변연·넓은 치간이 구강스캐너(IOS) 정확도↑; foundation 수복·치근단 변연은 저하 (DOI J Prosthet Dent 2025;134(5):1555.e1)
+- [[digital-workflow/sadid-zadeh-2020-teeth-prepared-students-cadcam]] — Sadid-Zadeh 2020 · cross-sectional · 학생 typodont 삭제 334개 rubric 평가: finish line 품질 오류 최다(223개 중 136개) (DOI 10.21815/JDE.019.178)
+- [[digital-workflow/han-2023-software-automated-tooth-preparation-evaluation]] — Han 2023 · in-vitro · 대구치 35개: 계산기하 알고리즘 자동 삭제평가(SAE)가 완벽한 검사자내 일치, 사람평가(DAE) 중등도~양호 대비 우수 (DOI 10.1038/s41598-023-39089-3)
 
 #### implants — zirconia implants
 - [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — Mohseni 2024 · sr+ma (25편·4017 implants): 지르코니아 임플란트 10년 누적생존 95.1%, 단기 MBL 낮음; 2-piece·드릴가공·협폭경·단종제품 생존 불리
@@ -1912,6 +1918,13 @@ tags: []
 ### batch j — additions to existing categories (added 2026-06-07)
 **periodontics**
 - [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — Narrative review applying the 2017 staging/grading classification to periodontitis management, with quantified smoking/diabetes risk and SRP-to-maintenance treatment sequence (2021)
+- [[periodontics/schatzle-2001-restoration-margins-periodontal-tissues-26year]] — Schätzle 2001 · prospective · 26년 종단: 치은연하 수복 변연이 치은연상/건전 부위 대비 plaque·치은염·부착소실↑(식립 1–3년 내 발현, 후기 burn-out) (DOI 10.1111/j.1600-051X.2001.280109.x)
+- [[periodontics/ercoli-2021-fixed-dental-prostheses-restorations-periodontium]] — Ercoli 2021 · narrative-review · 체계적 검색 리뷰: 양호한 위생 하 치아지지 수복/FDP는 치주건강과 양립 — intracrevicular 변연 자체는 치주염 유발 안 함, 큰 overhang·부착 침범은 유해 (DOI 10.1111/jopr.13292)
+- [[periodontics/hamasni-2017-biologic-width-restorative-dentistry]] — Hamasni 2017 · cross-sectional · 골탐침(42명/504부위): 평균 생물학적 폭경(Biologic Width) 1.13 mm·열구 1.96 mm — 부위별 변연 설계 필요 (DOI 10.4103/jispcd.JISPCD_261_17)
+- [[periodontics/alam-2024-supracrestal-tissue-attachment-biologic-width]] — Alam 2024 · narrative-review · 치조정상 부착조직(Supracrestal Tissue Attachment, 구 biologic width) 침범 식별(변연-치조정 <2 mm)·평가·교정(치은절제/치관연장/교정정출) (DOI 10.7759/cureus.58128)
+- [[periodontics/srimaneepong-2022-fixed-prosthetic-restorations-periodontal-health]] — Srimaneepong 2022 · narrative-review · 치은연상 변연·CAD/CAM 지르코니아가 치은연하·전통 합금보다 치주건강 유리; 변연 부적합이 biofilm·GCF·재발우식·골소실 유발 (DOI 10.3390/jfb13010015)
+- [[periodontics/hajaj-2025-marginal-tooth-preparation-periodontal-health]] — Hajaj 2025 · narrative-review · 수평(chamfer/shoulder) vs 수직(BOPT) 변연(112편): BOPT가 치은두께↑·PD 안정(<0.2 mm)·BOP<10%·10년 안정과 연관되나 우월성 미입증 (DOI 10.3390/jcm14197038)
+- [[periodontics/lamichhane-2025-crown-margins-marginal-adaptation-periodontal]] — Lamichhane 2025 · cross-sectional · 분악 대조(네팔, n=95): FDP 지대치가 비지대치보다 PI/GI/PD/CAL 유의 높음(p<0.001); 기간·재료는 영향, 변연 위치는 유의차 없음 (DOI 10.1186/s12903-025-07288-1)
 
 **endodontics/irrigation**
 - [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — Commissioned IEJ review: NaOCl + EDTA remain the evidenced irrigation standard; no adjunct activation method has demonstrated improved long-term RCT outcomes (2022)
@@ -1921,10 +1934,15 @@ tags: []
 - [[endodontics/irrigation/gupta-2025-endodontic-irrigants-activation-systematic-review]] — Gupta 2025 · sr · SR (2015–2025) of emerging irrigants (nanoparticle/herbal/photoactivated) + activation systems: improved antimicrobial/biofilm/smear vs NaOCl/EDTA but unproven long-term clinical/healing benefit (DOI 10.4103/jpbs.jpbs_573_25)
 - [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]] — Ardila 2026 · sr+ma · SR + interpretive synthesis + exploratory MA (12 studies) vs E. faecalis: antibiotic pastes (esp. TAP) strongest, Ca(OH)₂ variable, nanoparticles heterogeneous; pooling limited to 2 studies, certainty low–moderate (DOI 10.3389/froh.2026.1854046)
 - [[endodontics/irrigation/shunmugavelu-2025-intracanal-medications-periapical-abscess-sr]] — Shunmugavelu 2025 · sr · SR (2020–2024) of intracanal medications for periapical-abscess control/healing: CH ~99.5% microbial reduction, TAPC/nano superior 48-h pain relief, Ledermix fastest for acute AP, CBCT large lesions ~76% healing (DOI 10.3205/dgkh000592)
+- [[endodontics/irrigation/yoon-2024-lipoteichoic-acid-intracanal-medicament-enterococcus]] — Yoon 2024 · in-vitro · 사람 상아질 모델(n=28): L. rhamnosus GG 유래 LTA가 E. faecalis 근관 biofilm을 수산화칼슘과 동등하게 억제 (DOI 10.1007/s12275-024-00165-6)
+- [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]] — Alquria 2023 · in-vitro · 이종 biofilm 70 소구치: PUI·XP-endo·GentleWave 모두 세균/LTA/LPS 감소(GWS+MIT 최고), 내독소 완전제거 불가 (DOI 10.1038/s41598-022-26855-y)
+- [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]] — Bedran 2020 · sr+ma · 9편(7 메타): 수산화칼슘 ICM이 LPS 유의 감소(SMD ≈ −0.9~−1.1, p<0.001) but 완전제거 못함; 확실성 매우 낮음 (DOI 10.1016/j.joen.2020.07.030)
+- [[endodontics/irrigation/ahmad-2022-endotoxins-endodontic-infections-overview-sr]] — Ahmad 2022 · sr · SR 5편 overview: 내독소는 증상치와 상관; 화학기계적청소+Ca(OH)₂ 감소시키나 완전제거 불가; 증상성 AP서 다회>단회 (DOI 10.1038/s41432-022-0826-x)
 
 **endodontics**
 - [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
 - [[endodontics/babeer-2024-microrobotics-endodontics-perspective]] — Perspective on three magnetically controlled microrobot platforms (IONP microswarms, helicoids, silica nanorobots) for biofilm disruption and targeted disinfection of canal intricacies (2024)
+- [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — Neelakantan 2018 · narrative-review · Editorial: 치수/근단 감염을 biofilm 매개로 규정 — biofilm 구조·다종균 동태가 항균저항 유발, 표적 소독을 치료 목표로 제시 (DOI 10.3390/dj6020014)
 
 **resin**
 - [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — Critical review of bioactive resin strategies (metallic nanoparticles, QAMs, NACP) to prevent secondary caries, with failure-rate benchmarks and formulation vulnerability analysis (2023)
@@ -2087,6 +2105,8 @@ tags: []
 - [[implants/peri-implantitis/zhang-2025-keratinized-mucosa-width-peri-implant-meta-analysis]] — MA (30 studies, ~5,241 implants): KMW≥2 mm reduces plaque/gingival/bleeding index & MBL vs <2 mm; high heterogeneity, robust on sensitivity [sr+ma]
 - [[implants/peri-implantitis/sabri-2025-keratinized-mucosa-implant-health-umbrella-review]] — Umbrella + meta-meta-analysis (10 SRs): KM<2 mm worsens recession (eOR 4.05) & MBL (eOR 1.852); BOP/PD NS (abstract-only source) [sr+ma]
 - [[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]] — Umbrella review (10 SRs/MAs, 7,139 participants): KMW≥2 mm reduces inflammation/plaque/recession/peri-implantitis; FGG first-line, XCM alternative [sr]
+- [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — Soulami 2022 · sr · 3편(168–349 임플란트): emergence angle >30°·볼록 profile이 peri-implantitis/MBL↑와 연관(<30° 대비); 근거 희박·인과 미입증 (DOI 10.1002/cre2.594)
+- [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — Basak 2024 · retrospective · 202 임플란트: IDRA 변연-치조정 ≤1.5 mm가 MBL 위험 3.42배; 치주염 Stage4 vs2 26.31배, 넓은/긴 임플란트 6.10×/5.02× (DOI 10.1016/j.jdent.2024.104935)
 
 ### implants — KM augmentation & soft-tissue management
 - [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
@@ -2118,6 +2138,7 @@ tags: []
 - [[implants/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, linear+profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft [sr+ma]
 - [[implants/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
 - [[implants/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
+- [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — da Silva 2025 · sr · 8편: 얇은·두꺼운 phenotype 모두 5년 성공률 >91%; phenotype은 peri-implantitis/MBL 경유 간접 영향, 얇은 형이 골소실 주요 위험인자 (DOI 10.1038/s41432-025-01114-x)
 
 ## Batch ingest (added 2026-06-15) — veneers & ceramic bonding overviews
 
@@ -2181,3 +2202,5 @@ tags: []
 - [[overviews/c-shaped-canal-anatomy-prevalence-overview]] — **NEW Overview**: C형 근관 유병률·지역·성별 매트릭스 종합 (12편). 하악 2대구치 17.3% 최다(Yousefi 101-study SR+MA), 상악 1대구치 0.8% 최저; 여성·아시아 우세, Fan C2 dominant; song-2008 박층 협측벽 천공 위험·isthmus 소독 임상 함의 (2026)
 - [[overviews/single-vs-multivisit-endodontic-outcomes-overview]] — **NEW Overview**: 단일 vs 다회 방문 근관치료 치유·통증 결과 종합 (5편). 방사선 치유·통증 임상적 유의차 없음(Mergoni Cochrane 47 RCT + Bobba·Chaitanya·Karaoğlan RCT); 단일방문 초기 통증 소폭↑(생활치 RR 2.16), Rossi-Fedele는 단일방문 치유 소폭 우위(RR 1.10) (2026)
 - [[overviews/complete-denture-ovd-determination-overview]] — **NEW Overview**: 총의치 수직고경(OVD) 결정·타당도·결과 종합 (5편). 단일 정확법 없음→다기법 교차검증(Alhajj·Fayad); 안정위 불안정(Sheppard 1975), 안면계측은 보조(엄지/새끼손가락, Goyal 2026); VD 오류는 심리·교합력 악영향(Matsuda 2014); 과소 VD 시 이근 과활성 '턱끝 뭉침', 과다 시 긴 하안면 (2026)
+- [[overviews/restorative-margin-periodontal-interface-overview]] — **NEW Overview**: 수복 변연↔치주 계면 종합 (7편). 생물학적 폭경(Biologic Width ~2 mm, Hamasni 1.13 mm)·변연 위치(치은연상 안전, 치은연하는 위생 양호 시만)·적합/contour·finish line(BOPT) 4축; Schätzle 26년 종단 vs Ercoli 대비 (2026)
+- [[overviews/endodontic-endotoxin-lps-lta-overview]] — **NEW Overview**: 근관 내독소(LPS)·LTA 종합 (6편). 내독소가 증상·병소크기와 상관(Godoi); 화학기계적청소+활성화(Alquria)·Ca(OH)₂(Bedran SR+MA·Ahmad)가 감소시키나 완전제거 불가; probiotic LTA(Yoon) 신규; biofilm 매개(Neelakantan) (2026)
