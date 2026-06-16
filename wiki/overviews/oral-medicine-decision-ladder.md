@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [oral-medicine, opmd, leukoplakia, lichen-planus, burning-mouth-syndrome, aphthous-stomatitis, sinusitis, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 구강내과 7축 decision ladder — (1) OPMD 일반, (2) 백반증(Leukoplakia, OLK) 악성전환 monitoring, (3) 구강편평태선(Oral Lichen Planus, OLP), (4) 구강작열감증후군(Burning Mouth Syndrome, BMS), (5) 재발성 아프타구내염(Recurrent Aphthous Stomatitis, RAS), (6) 치성 상악동염(Odontogenic Maxillary Sinusitis, OMS), (7) 수포·궤양성 면역매개 점막질환.
+> - OLK: 5년 악성전환률 pooled 3.5%, 비균질형(non-homogeneous) OR 4.1(Aguirre-Urizar 2021 SR+MA). 균질형+소병소+위험인자 통제가능 → 위험인자 제거+3–6개월 monitoring. 비균질형·고위험부위(혀 측면·구강저) → biopsy 우선. 이형성 진단 → 외과 절제.
+> - OLP: 진정한 악성전환률 0.5–1.4%(고품질 연구만, Gonzalez-Moles 2021) — 과거 5% 보고는 진단 오류 가능성(Kaur 2022 비판). 과대 위험 인식 회피.
+> - OLP 치료: 망상형(reticular, 무증상) → 위험인자 통제+monitoring, 약물 불필요. 미란·위축형(erosive·atrophic) → 국소 스테로이드(clobetasol 0.05% BID, Lodi 2020 Cochrane: 위약 대비 통증해소 RR 1.91, 낮은 근거). 불응 시 국소 tacrolimus 0.1%(고가, Sandhu 2022).
+> - OPMD 명칭·분류는 WHO 2020 합의로 표준화(Warnakulasuriya 2021). 이형성 등급(OED)이 핵심 악성전환 예측인자.
+> - BMS: 1차 — clonazepam 국소 도포(1 mg 머금기 TID 2–3주)+인지행동치료(CBT)+저용량 삼환계 항우울제(TCA, amitriptyline 10–25 mg HS). ICD-11에서 BMD로 재명명 합의(Chmieliauskaite 2020 Delphi). 진단 전 2차 원인(빈혈·당뇨·갑상선·Sjögren·Candida·보철 부적합) 제거.
+> - RAS: minor(<1cm) → 국소 스테로이드(triamcinolone in Orabase). major(>1cm) → clobetasol gel. 중증·빈번(≥6/y) → 콜히친 또는 thalidomide(Behçet 의심). 영양 검사(철·B12·엽산·아연) 필수. 소아+주기열 동반 → PFAPA 의심, 편도절제술 효과 가능(Manthiram 2023).
+> - OMS: 단측 상악동 혼탁의 30–72%가 치성 원인(Lin 2024, Psillas 2020). 단측 후방 sinusitis → 치과 origin 우선 의심, 의심 대구치(특히 1·2·3번) 평가 → CT/CBCT로 apex 침범·구강상악동누공(OAF)·잔존 root tip 확인 → 치과 처치+ENT 다학제(FESS).
+> - 축 7(수포·궤양성): 다발 수포+발열 소아 급성 → 1차 헤르페스 치은구내염(PHGS), <72h 아시클로버 고려(Coppola 2023). 재발성 구순포진 → 조기 국소제, 빈번 시 전신 valaciclovir(Mancini 2025). 표적병변+점막침범 → 다형홍반(EM, Kechichian 2024), 광범위 점막탈락이면 SJS/TEN 응급 감별.
+> - 동종 조혈모세포이식 병력+태선양 점막염·구강건조·개구장애 → 구강 만성 GVHD(NIH 2014 기준, 국소→전신 면역억제, 악성전환 monitoring, Dean 2022).
+> - 근거 등급: 축 2 OLK·축 6 OMS [근거강함], 축 3 OLP·축 4 BMS·축 5 RAS [합의수준](narrative 위주). 구강내과는 전반적으로 narrative review 비중이 높다.
+
 ## 한줄요약
 
 구강내과 7축 — OPMD 일반 · OLK 악성전환 monitoring · OLP 진단·관리 · BMS · RAS · OMS · 수포·궤양성 면역매개 점막질환(HSV·EM·GVHD·PFAPA). WHO consensus + Cochrane SR+MA + Delphi 합의 spine.
