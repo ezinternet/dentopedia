@@ -11,6 +11,21 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: 전자근관장측정기(Electronic Apex Locator, EAL) 프로토콜 6편 종합 — EAL "0"은 근단공(Apical Foramen, AF) 위치이고, 이상적 충전 종지점은 근단협착부(Apical Constriction, AC)이므로 "0"에서 일정 거리를 빼야 AC에 도달한다.
+> - 해부 기준: AC–AF 거리는 전치 0.847mm, 구치 0.709mm(Mousavi 2018, p=0.035). 따라서 권장 작업장(WL)은 전치 EAL "0" −0.85mm, 구치 −0.70mm.
+> - 기존 −0.5mm 룰은 두 치종 모두 AC에 못 미치는 보수적 안전 마진(funnel 구간 종지) — 특히 전치에서 오차가 큼.
+> - 한국 현황(Ahn 2016 설문, 응답률 90%): EAL 선호 89%, EAL 읽기는 "APEX −0.5mm"가 41%로 1위, EAL과 방사선 충돌 시 EAL 우선 74%. 현장 대세는 여전히 −0.5mm.
+> - 정확도(Versiani 2022, micro-CT, n=11): RootZX II 81.8% vs Wirele-X 90.9%, 차이 통계적 유의하지 않음(p=0.61) → 두 기기 모두 신뢰 가능.
+> - 세대 무관: 3~6세대 EAL 간 정확도 유의차 없음(Pisano 2024 umbrella) — 업그레이드 이유는 정확도가 아닌 인체공학(무선·디스플레이).
+> - EAL vs 방사선/CBCT: 전반적 동등, EAL이 AC 위치 특정에 더 우수. CBCT와도 동등(평균 차이 0.51mm).
+> - 정확도 저하 조건 1 — 발산형(divergent) 근첨공: Raypex 6·CanalPro는 정확도↓, RootZX II·EPex Pro는 영향 없음 → 미성숙 근첨·내부흡수·과확대 시 후자 선택.
+> - 정확도 저하 조건 2 — 광근첨공(≥0.6mm): 파일 직경을 근공에 맞출수록 정확·안정. "안정성(5초 이상 유지)"이 곧 정확도 지표.
+> - 정확도 저하 조건 3 — NaOCl 존재: 측정값이 더 짧게 나옴(p<0.05) → flooding 전 측정하거나 후 재확인.
+> - 임상 takeaway: cervical flaring 후 건조 → 적정 K-file → APEX "0.5" 도달·5초 안정 확인 → 전치 −0.85mm/구치 −0.70mm 설정 → 방사선 확인(충돌 시 EAL 우선) → NaOCl 후 재측정. 개별 근거 수준은 낮으나 방향성은 일관됨.
+
 ## 한줄요약
 EAL 프로토콜 6편 합성: EAL "0"=대공(AF) 위치; 종지점은 협부(AC)이므로 전치 −0.85mm·구치 −0.70mm가 해부학적으로 정확; 발산형·광근첨공에서 기기별·파일 크기 매칭이 정확도 결정
 
