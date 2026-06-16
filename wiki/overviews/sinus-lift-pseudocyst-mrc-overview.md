@@ -10,6 +10,21 @@ tags: [overview, sinus-lift, pseudocyst, mucous-retention-cyst, MRC, decision-tr
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: 상악동 점액낭종(Antral Pseudocyst, AP)·점액저류낭종(Mucous Retention Cyst, MRC) 동반 상악동거상술 + 임플란트 의사결정 통합 framework(15편: 1 SR + 1 RCT + 4 cohort + 7 case + 2 review).
+> - 4단계 결정 트리: (0) 진단·감별 → (1) 위험 자체 평가 → (2) 처치 옵션 결정 → (3) 장기 trajectory 모니터링.
+> - Step 0 진단: 모든 dome-shaped radiolucency를 AP/MRC로 가정 금지 — odontogenic cyst·antrolith·mucocele·tumor 감별(Nosaka 2024); CBCT로 SMT·base·septa·ostium 평가(Yeung 2022).
+> - AP(가성낭종, 상피 없음, 염증 삼출액 골막하 축적) vs MRC(진성낭종, 상피 있음, 점액선 관 폐쇄) — 영상 구분 어렵고 조직학적; 임상은 size·증상·sinusitis 신호가 더 중요한 결정 인자.
+> - Step 1 위험: 낭종 자체는 implant 절대 금기 아님 — 임상적 유의 위험 미입증, survival 높게 유지(Anitua 2021 SR, 근거강함).
+> - Step 2 처치(subtype·size 기반): Type 1 PsC → untreated/흡인/제거 옵션, Type 2 MRC <20mm → 흡인 + 즉시 거상, Type 3 MRC >20mm → enucleation(Croco Eye) + 즉시 거상(Lee 2024).
+> - 3-arm 정량 비교(Fu 2025, n=107): 제거·흡인·미처치 모두 implant 생존 100%; 미처치 시 골이식재 −4%p 더 흡수(제거 −14% > 흡인 −16% > 미처치 −18%).
+> - Timing: one-stage(제거 + 즉시 거상) vs two-stage(3개월 지연) — 신생골·생존·합병증·통증 모두 차이 없어 즉시 접근 타당(Yu 2023 RCT, 분야 유일 RCT).
+> - Step 3 장기 anchor: 1년(Berberi) → 6년 + 조직학(Silva, vital bone) → 15년 untreated 안전(Grün) — 환자 설명에 직접 인용 가능(단 모두 case report).
+> - ENT 협진 trigger: lesion >20mm + ostium 근접, 부비동 전체 침범 의심, 침습성·일측성 만성 sinusitis 동반.
+> - 한계: 20mm cut-off는 가설적(RCT validation 없음), transcrestal + AP/MRC RCT 없음, 한국 cohort·10년+ 대규모 cohort 부족.
+
 ## 한줄요약
 상악동 점액낭종 (Antral Pseudocyst, AP)·점액저류낭종 (Mucous Retention Cyst, MRC) 동반 상악동거상술 + 임플란트 의사결정의 통합 framework — 15편 (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) 종합. **4단계 결정 트리**: (0) 진단·감별 → (1) 위험 자체 평가 (Anitua 2021 SR: 임상적 유의 위험 미입증) → (2) 처치 옵션 결정 (제거·흡인·미처치 중 subtype·크기 기반) → (3) 장기 trajectory 모니터링. 1년 (Berberi)·6년 (Silva)·15년 (Grün) datapoint로 trajectory anchor.
 
