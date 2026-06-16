@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [oral-surgery, third-molar, coronectomy, ian-injury, prf, dry-socket, hemostasis, deep-neck-infection, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 구강외과 22편을 5축으로 묶은 결정 ladder — 제3대구치, 발치 후 합병증 감소, 지혈, 심경부 감염, 골 drilling 열·재건.
+> - 축1 제3대구치·IAN: 절대 적응증은 반복 관주위염·낭종·인접치 흡수; IAN(하치조신경, Inferior Alveolar Nerve) 고위험(canal 설측·근접 ≤1mm) 시 관상절제술(coronectomy) — IAN 손상 0.59%로 완전 발치 대비 IAN·dry socket 유의 감소, 재수술 5–12% 수용 가능[근거강함].
+> - 제3대구치 ladder: 무증상 매복은 NICE 보존/AAOMS risk-management → 적응증 있으면 CBCT로 IAN 영상평가 → 저위험은 완전 발치, 고위험은 coronectomy → 지연 골절 위험군(깊은 매복·수평·얇은 설측판·40–60세 남성)은 6주 soft diet+monitoring.
+> - 축2 발치 후 합병증: 항생제 예방은 dry socket·SSI 위험 감소하나 NNT=25 → 매복·외과적 발치에 한정(amoxicillin 2g 단일 술전, Camps-Font 2024 NMA), 단순 발치엔 불요.
+> - PRF(혈소판풍부피브린): 발치와 초기 2–3개월 통증 66%↓·연조직 75%↑·골 충전 85%↑이나 6개월 이후 자연치유와 동등(Al-Maawi 2021); PRF > PRP.
+> - LLLT(저출력 레이저 치료): 발치 후 통증·부종·trismus 중등도 감소, dry socket 치료에 Alvogyl 대안.
+> - 축3 지혈 ladder: 표준은 봉합+거즈 압박 30분 → 산화셀룰로오스(Surgicel)/젤라틴 스폰지(Gelfoam) 85%↑ → 항응고제·다중 발치는 트라넥사민산 5% 양치액 → 고위험·실패 시 피브린 실란트 70–90%.
+> - 축4 심경부 감염: 치성 origin 42.66%, 루드비히 협심증(Ludwig's angina) 24.66% — 1차 amoxicillin-clavulanate + clindamycin(페니실린 알러지), 아미노글리코사이드는 연쇄구균 내성으로 부적합; 기도 폐쇄 위험 시 응급실·기관절개 준비, 원인 dental 처치 즉시.
+> - 축5 골 drilling 열: 임계 47°C/1min·50°C/30s → osteonecrosis(Bertollo 2011); 충분한 saline irrigation·sharp bur·intermittent drilling. 의인성 하악 골절은 0.0033–0.075%로 드물지만 발생 시 중대.
+> - 확신도: 축1·2·4 [근거강함](SR+MA·NMA·prospective), 축3 [합의수준](narrative), 축5 [근거강함](고전 임계값).
+
 ## 한줄요약
 
 구강외과 5축 — 제3대구치 적응증·합병증·IAN 손상·관상절제술 · 발치 후 PRF/dry socket · 항생제·LLLT 합병증 감소 · 지혈 · 심경부 감염. Camps-Font 2024 NMA + Peixoto 2024 SR+MA + Bailey 2020 Cochrane spine.
