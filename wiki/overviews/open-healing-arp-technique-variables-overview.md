@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [overview, alveolar-ridge-preservation, open-healing, flapless, suture-technique, collagen-membrane, compressive-force, keratinized-tissue, claude-synthesis]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 노출 치유(Open-healing) 치조제 보존술(Alveolar Ridge Preservation, ARP)의 술기 변수(판막·봉합·막 층수·압축력)를 큰 그림과 엮은 종합.
+> - 핵심 명제: 골 치수의 큰 결과는 graft+개방치유 프로토콜과 부위 해부가 좌우하고, 미세 술기는 대체로 등가다. 술기 선택이 실제로 움직이는 건 연조직(각화치은).
+> - 축 1(연조직): 판막거상 vs 무판막은 골 폭·높이 차이 없음(NS)이나, 판막거상이 각화치은폭(KGW)을 평균 3.21 mm 더 소실(Lee 2018 SR+MA) → 무판막/개방치유 우선.
+> - 봉합: hidden X suture가 기존 X suture보다 협측 각화치은(KT) 보존 우수(Park 2016, X −1.56 vs hidden X +0.25 mm); 노출 d-PTFE 막 자체가 KT 증대 도구(Barboza 2014, +6.6~7.1 mm).
+> - 축 2(graft 미세변수): 막 층수는 단층 ≈ 이중층으로 무의미(Choi 2017); 압축력은 신호 불일치 — Cho 2017은 압축력↑→신생골↑이나 Lee 2020은 DBBM 5N ≈ 30N 차이 없음. "압축력↑→신생골↑"은 보편법칙 아닌 조건부 신호.
+> - 축 3(부위·해부가 상한): 후방 발치와는 graft로도 수평 소실 불가피(Arroteia 2025); 단일 우월 modality 없고 "ARP를 하느냐"가 1차 변수(Avila-Ortiz 2019 SR+MA).
+> - 축 4(비판적 균형추): 통계적 치수 보존 ≠ 환자 이득 — 5~13년 후 xenograft 실패 증례로 무차별 적용 경계, 적응증 축소 논거(Adams 2022).
+> - 임상 ladder: 무판막/개방치유 우선, hidden X suture, 흡수성 콜라겐막(층수 자유), 과도한 압축 불필요, 후방·얇은 협측판은 수평 소실 예상하고 상담, 무차별 적용 회피.
+> - 근거 한계: Park 그룹 연작은 모두 소규모(n=11~20) 단일기관 RCT — 검정력 한계, 환자중심결과(PROM) 거의 부재, 장기(>5년) 추적 빈약.
+> - 최종 판단은 원장 몫 — ladder는 임상 근거의 외삽이며 PROM 직접 근거는 빈약함.
+
 ## 한줄요약
 Open-healing(노출 치유) 치조제 보존술(ARP) 술기 변수 종합: 골 치수 보존의 큰 결과는 graft+개방치유 프로토콜과 부위 해부가 좌우하고, 미세 술기(막 층수·압축력)는 대체로 등가다. 술기 선택이 실제로 움직이는 건 연조직 — 무판막·hidden X suture·노출막이 각화치은(KT)을 지킨다. 단 "통계적 치수 보존 ≠ 환자 이득"(Adams 2022)이라 적응증은 좁혀야 한다. 근거는 대부분 소규모 단일군 RCT + PROM 부재.
 
