@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, growth-factor, bmp2, collagen-scaffold, sinus-augmentation, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 9편(동물·전향·SR+MA) 종합. 탈단백 우골 광물질(Deproteinized Bovine Bone Mineral, DBBM)은 탁월한 골전도 공간유지 재료이나 흡수가 느려 신생골 형성이 열등하다 — 부피 안정성과 신생골 형성의 trade-off가 핵심.
+> - 역설적 소견: DBBM 단독은 초기 신생골을 오히려 억제할 수 있다 — 쥐 두개골 4주 모델에서 DBBM 단독이 무이식(공백) 대조군보다 신생골 적음(p=0.025, Fujioka-Kobayashi 2022).
+> - 이상성 인산칼슘(Biphasic Calcium Phosphate, BCP)이 DBBM보다 신생골↑·잔존입자↓ — 토끼 6주서 신생골 +70%·잔존 −60%(Chakar 2014); 상악동 RCT SR+MA서 신생골 +3.48%·잔존 −8.41%(Alkandari 2025).
+> - 최고 근거 보조제는 백혈구-혈소판풍부피브린(L-PRF): DBBM에 추가 시 신생골 +7.07%·잔존 −7.93%(잔존 I²=0%, 기전적 일관성, Almutairi 2025 SR+MA 5 RCT).
+> - 진보된 PRF(A-PRF)는 단일 RCT서 더 큰 raw 효과(신생골 42.8 vs 31.2%, Motimath 2026) — 저속 원심분리(2700 rpm) 가설. 단 직접 비교 RCT 없음.
+> - PRF 효과는 아형·술식 특이적: 전체 PRF를 뭉친 Idiri 2023(SR, no pooling)은 유의차 없음, L-PRF만 정량 통합한 Almutairi 2025는 유의 — 모순이 아니라 측정 대상이 다름.
+> - 혈소판 용해물(APL)은 피브린 골격이 없어 효과 없음(Chakar 2014) — 성장인자 함량만으로는 in-vivo 골형성을 못 이끈다.
+> - 콜라겐 변형(C-DBBM, 95% DBBM + 5% bovine collagen) ARP에서 식립 시 골유도재생술(GBR) 0/10 필요(Van Orten 2024); porcine-free(할랄) 요구에도 부합.
+> - 가장 임상적으로 강한 음성 신호: 동시 교정이동(OTM) 부위에 DBBM/DBB 단독 금기 — 비흡수성 입자가 치근흡수를 공백 대조군의 1.87배로 유발(Jiang 2020); BMP2 기능화 CaP(BioCaP)가 대안.
+> - 임상 결정: 상악동거상술 routine 1차는 DBBM(장기 임플란트 생존 데이터 우위), L-PRF 추가는 비용 대비 합리적, BCP는 신생골 속도가 우선일 때. BCP는 단일 재료가 아니라 이질성 높음(I²=86%) 주의.
+
 ## One-line Summary
 
 Across 9 papers spanning animal models, prospective series, and SR+MAs, DBBM emerges as an indispensable osteoconductive scaffold with a well-documented slow-resorption trade-off: BCP hybrids and PRF adjuncts consistently rescue the new bone formation gap, while collagen modifications and BMP2 functionalization extend the engineering frontier.
