@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, programmable-membrane, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 골유도재생술 (Guided Bone Regeneration, GBR) 차폐막을 7편 (서술적 고찰 3 + 동물실험 4) 으로 종합 — 흡수성/비흡수성이라는 단일 상류 변수가 1차 임상 분기점이다.
+> - GBR은 끊김 없는 16–24주 차단 기능이 필요 — 치주재생술 (GTR) 의 4–6주보다 3~6배 길며, 가교화 안 된 천연 콜라겐막은 2–4주에 흡수되어 critically 부족하다 (Sasaki 2021). 이 시간 격차가 가교화 (crosslinking) 전략의 핵심 동기.
+> - 가교화 화학이 콜라겐막 수명을 결정: 글루타르알데히드 (GA) 는 염증·세포독성 부담, 자외선 (UV) 은 조직통합 불량, EDC (카르보디이미드) 는 효소 저항성 + 낮은 세포독성으로 현재 선호되며, 리보스 (ribose) 가교 (Ossix Plus) 는 임상 사용 가능. [근거강함]
+> - 차폐막 단독으로는 공간 유지 불가 — Park 2015에서 이식재 없는 막 단독군은 2주에 중앙 함몰. 위계: 막 + 이식재 > 이식재 단독 > 막 단독 > sham.
+> - PASS 원칙이 막 종류와 무관하게 GBR 성공을 좌우: Primary closure (무장력 1차 봉합) · Angiogenesis (혈관신생) · Space maintenance (공간 유지) · Stability (안정성) — 이 중 막 노출 방지 (P) 가 단일 최대 결정인자.
+> - 결손 유형별 표준: 수평 증대 (낮은 연조직 압력) → 흡수성 콜라겐막 + 복합 이식재 (자가골편 + DBBM), 수직 능선 증대 (VRA, 높은 압력) → 비흡수성 막 (e-PTFE·Ti강화 PTFE·티타늄 메쉬). (Buser 2023)
+> - 이개열 (dehiscence) 결손에서 막의 역할은 골형성 촉진이 아니라 이식재 봉쇄 (containment) 일 수 있음 — Darby 2024: 5×3 mm 협측 이개열에서 막+DBBM vs DBBM 단독 신생골 차이 없음 (NS), 골은 측벽에서 구심성 (centripetal) 으로 자라 들어온다.
+> - 동물실험 근거: EDC 막은 8주에 구조 유지 + 막관통 혈관신생 (favorable 신호, Park 2015), 리보스 가교막은 핀 고정 없이도 천연 콜라겐막 (Bio-Gide) + 4핀 고정보다 신생골 많음 (p=0.001, Friedmann 2022).
+> - 차세대 막은 "프로그래머블 면역조절 인터페이스"로 패러다임 전환 (Liu 2026) — 대식세포 M1→M2 편극화가 핵심 표적이며, 동기는 GBR 합병증률 ~26% (100편) 와 발치 후 12개월 내 능선 폭 최대 50% 소실.
+> - 차세대 재료군 4종 (고분자 복합·생분해성 Mg/Zn 합금·MXene·시트르산 기반 고분자) + 구조 4종 (이중층·야누스 Janus·구배 gradient·4D 프린팅) — 모두 연구 단계로 표준 임상 미적용.
+> - 임상 takeaway: 1차 결정은 가교화 종류가 아니라 결손 유형이며, 어떤 흡수성 막도 공간 유지가 필요한 결손에는 내부 이식재 (DBBM 선호) 가 필수다. 막 노출을 막는 무장력 봉합이 막 재료 선택보다 결과에 더 큰 영향을 준다.
+
 ## One-line Summary
 
 Across 7 papers (3 narrative reviews, 4 animal studies), GBR barrier membranes divide cleanly by a single upstream variable — resorbability — with the crosslinking strategy determining whether a collagen membrane meets the 16–24-week GBR barrier-function threshold, while next-generation "programmable interface" designs targeting macrophage M1→M2 polarization represent a fundamental conceptual reframe of the membrane's biological role.
