@@ -18,6 +18,21 @@ relations:
     target: roccuzzo-2025-keratinized-mucosa-peri-implant-20year-mandible
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 각화점막 폭(Keratinized Mucosa Width, KMW) <2 mm는 해결해야 할 임플란트 위험인자로 다루되, 결론을 둘러싼 논쟁의 대상이 아니다 — 문헌은 방향성에서 일관된다("많을수록 좋다").
+> - ~2 mm KMW 역치는 모든 근거 등급(전문가 합의·SR+MA·장기 코호트)이 수렴. DGI/SEPA/Osteology 2022 합의(Sanz 2022)는 <2 mm를 biofilm·BOP·퇴축·MBL 증가 역치로 조작화, 단 >2 mm 광폭은 추가 보호 없음.
+> - 근거는 비대칭: 연조직 대리지표(치태·염증·퇴축)에는 강하고 일관(OR 2.78–eOR 5.34), 경성 endpoint(임플란트주위염 발생·변연골소실)에는 방향성은 있으나 근거 수준 제한적. 이는 부재의 증거가 아니라 저빈도·고검정력 필요 endpoint의 방법론적 현실.
+> - 최대 SR+MA(Mahardawi 2023, 22편, 13,265 임플란트): 임플란트주위염 OR 2.78. 통일된 정의(MBL ≥2 mm)로 제한 시 이질성 I²=0%·OR 1.96, 교란보정 시 OR 3.68. 정기 유지관리 내에서도 효과 유지(OR 2.08) → 독립적 위험인자.
+> - TSA(Trial Sequential Analysis) 가장 확정적 연관 = 치태 축적(Ravidà 2022, 개입연구만): 치태가 유일하게 TSA 확인(MD 0.37, p=0.002). MBL은 통상유의(MD 0.17mm, p=0.03)지만 TSA는 검정력 부족(inconclusive)으로 재분류 → null은 부재가 아니라 under-powered.
+> - 최대 MA(Zhang 2025, 30편, 5,241 임플란트): 치태·치은지수·출혈지수·MBL(MD −0.27mm) 모두 유의, 단 이질성 매우 높음(I²=80–97%). 탐침깊이(PD)는 양쪽 MA·umbrella에서 비유의 → KM 결핍에 둔감한 지표.
+> - 유일 장기 전향 코호트(Roccuzzo 2025, 20년, n=64, 하악 구치부)가 임상가에게 논쟁 종결: KM 없음 → 임플란트주위염 25% vs KT군 4.2%(OR 6.67), 연조직 열개 100%. SPC 중(1–10년) 적용한 유리치은이식(FGG)이 원발 KT와 통계적으로 구별 불가한 20년 결과 산출.
+> - FGG가 표준 증대술식: 근단변위피판 동반 시 1.5–6.5 mm KMW 획득, 20년 내구성(Roccuzzo). 이종이식(XCM)은 KMW에서 CTG와 비열등(WMD 0.8mm, p=0.062)·수술시간 18.5분 단축·통증 적음. 동종이식(ADM)은 수축 19.5% 더 커 하위 옵션.
+> - 술식 선택 결정트리(Zhang 2025 합의): 하악 잔존 KMW <2 mm → 2차 수술 전 FGG / 2–3 mm → SFGG 또는 FGG / 상악 전치(심미) → SFGG+대체재(색조 불일치 회피) / 상악 구치 → 근단변위피판(ARF, 구개측 KM 충분).
+> - 증대 시점은 식립 시뿐 아니라 유지관리 중에도 효과적·내구적 — 2차 수술 시기가 실용적·생물학적으로 선호 창. 임플란트주위 연조직은 PDL 혈관 결여·저혈관저세포 영역으로 치은보다 취약(Bhatavadekar 2012)해 증대 역치를 낮춰야 함.
+> - 임상 bottom line: 매 recall에서 KM 측정, <2 mm이면서 병적 징후 동반 시 증대. 하악 <2 mm 부위는 2차 수술 후가 아니라 전(前)에 FGG 시행.
+
 ## One-line Summary
 
 Synthesis across 10 papers (2 umbrellas, 3 SR+MAs, 1 prospective, 2 expert consensuses, 1 SR, 1 narrative) establishes ~2 mm keratinized mucosa width as a practical threshold: inadequate KM is most consistently and strongly associated with soft-tissue surrogates (plaque, inflammation, recession; OR 2.78–eOR 5.34), with a directionally present but evidence-quality-limited link to hard endpoints (peri-implantitis incidence, marginal bone loss), while FGG is the reference augmentation technique and can restore outcomes equivalent to native KM even when applied years after placement.
