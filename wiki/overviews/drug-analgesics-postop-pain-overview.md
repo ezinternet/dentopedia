@@ -30,6 +30,20 @@ source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 치과 술후 통증 약물(19편: Network MA 3·SR-MA 3·Cochrane overview 2·RCT 5·narrative 6) 종합. 지난 10년간 선택지가 명확하게 좁아짐.
+> - 1차 선택: **Ibuprofen 400mg + Acetaminophen(APAP) 1000mg 병용** — Miroshnychenko 2023 Network MA(82 RCT, n=9,095)와 Moore 2015 Cochrane overview에서 가장 낮은 치료필요수(Number Needed to Treat, NNT ~1.5).
+> - Opioid는 비-opioid 대비 우월하지 않음 — Feldman 2024 RCT(n=1,815)에서 Hydrocodone+APAP가 Ibuprofen+APAP보다 전 시점 열등. Oxycodone·Codeine·Tramadol은 Network MA에서 위약 동등. ADA opioid-sparing 가이드라인 지지.
+> - 투약 패턴은 **교대(alternate) > 동시(concurrent)** — Gaballah 2025 RCT(n=56)에서 alternate군 rescue 필요율 15% vs concurrent 53%(p=0.002). 각 약물 단일 dose 간격 8h 유지하며 4h마다 진통 들어가는 구조.
+> - Preemptive analgesia는 시술 유형 의존 — 매복 제3대구치엔 효과 약함(Costa 2015 Meta, P=0.22)이라 술후 즉시 first dose가 합리, 임플란트·치주엔 효과 있음(Gousias 2025 SR-MA)이라 술전 30–60분 Ibuprofen 400mg 합리.
+> - 근관치료(Endodontics): 술전 통증 prevalence 81%로 매우 높음(Pak 2011) → 술전 통증 있으면 Ibuprofen 600mg(Smith 2017), 비가역 치수염 응급엔 Diclofenac potassium 50mg(Vatankhah 2023), 심한 통증엔 corticosteroid 보조(Di Spirito 2022).
+> - NSAID 안전성: 급성신손상(Acute Kidney Injury, AKI) 독립 위험(OR 1.98, Gomes 2025) → eGFR<60·고령·이뇨제 병용 시 회피하고 APAP 단독으로. 위장관 위험은 단기(≤7일) 사용에선 일반인구 무시 가능.
+> - 임플란트 환자에선 선택적 COX-2 억제제(Celecoxib·etoricoxib)가 골유착 저해 가능성 → 회피, 비선택적 Ibuprofen·Naproxen 단기는 안전(Etikala 2019, 근거 약함).
+> - 처치별 매트릭스: 단순발치·매복치는 Opioid X + Ibuprofen/APAP alternate, 임플란트·치주는 술전 preemptive 추가, 근관치료(술전 통증)는 Ibuprofen 600 기반 + Diclofenac K 대안.
+> - 한국 임상은 미국 대비 opioid 처방 낮으나(Tramadol 정도) Tramadol도 Network MA에서 위약 동등이라 처방 정당화 어려움 — ADA opioid-sparing 원칙 동일 적용.
+
 ## 한줄요약
 치과 술후 통증 1차 선택은 **Ibuprofen 400mg + Acetaminophen 1000mg 병용** — Network MA에서 가장 낮은 NNT (~1.5). Opioid는 비-opioid 대비 우월하지 않으며 부작용·중독 위험 → 회피. Preemptive analgesia는 third molar에선 약함, 치주·임플란트엔 효과 있음.
 
