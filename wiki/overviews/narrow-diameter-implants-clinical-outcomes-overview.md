@@ -13,6 +13,19 @@ source_papers:
   - wiki/implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 좁은 직경 임플란트(Narrow-Diameter Implant, NDI, <3.75mm)의 임상결과를 4개 적응증(전치부 상악·구치부 고정성 보철·하악 피개의치·티타늄-지르코늄 단일크라운)에 걸쳐 본 SR/MA 4편 통합.
+> - 핵심 bottom-line: NDI는 정규직경 임플란트(Regular-Diameter Implant, RDI)와 생존율·변연골소실(MBL)이 **동등**하며, 환자보고결과(PROM)·심미 합병증에선 오히려 우위 → 선택 기준은 생존율 손해가 아니라 **골증대(augmentation) 회피**.
+> - 과거 NDI 제한(기계적: 골접촉 적음·파절저항 낮음 → 전치부·피개의치 한정)을 4편이 해체.
+> - 심미존 전치부(Zhang 2024): 36개월 임플란트생존율(ISR) 93.8–100% vs RDI 100%로 동등하고, 오히려 골증대 RDI군에서 연조직 열개가 더 많음 → NDI가 graft 회피로 심미적으로 더 안전할 수 있음.
+> - 구치부 고정성 보철(Pachiou 2025, 2741 NDI): 통합 생존율 상악 97.0%/하악 96.5%(p=0.688) — 단 dominant 합병증은 생존이 아니라 **기술적**(나사풀림·파절·탈락 최대 23.5%).
+> - 하악 피개의치(Park 2023): 생존·MBL 동등하면서 NDI가 환자만족도(VAS)·구강건강관련삶의질(OHRQoL)에서 유의하게 우월.
+> - 티타늄-지르코늄(Ti-Zr, Roxolid) 합금이 enabling material — 구치부 부하 부위 생존을 RDI에 맞추는 핵심(Cao 2023: 단일크라운 생존 97.5%, 상용순수티타늄 cpTi와 차이 없음).
+> - 의사결정: ① 적응증이 default 설정 — 심미 전치부·위축 하악 피개의치는 NDI 강력 1차 선택; ② 부하 부위는 Ti-Zr 합금 선호; ③ 잔여 위험은 생존이 아닌 기술적(교합관리·parafunction 통제); ④ 생물학적 합병증 불확실성이 live gap.
+> - 정직한 한계: 추적기간 대부분 ≤36개월로 짧고, 후방 부하의 10년 horizon 미입증, 임플란트주위염(peri-implantitis) 등 생물학적 합병증 데이터가 pool 불가(Pachiou 2025) — NDI의 가장 큰 근거 공백.
+
 ## One-line Summary
 Across four SR/MAs spanning the esthetic anterior maxilla, load-bearing posterior fixed prostheses, mandibular overdentures, and titanium-zirconium single crowns, narrow-diameter implants (<3.75 mm) match regular-diameter implants on survival and marginal bone loss — and sometimes beat them on patient-reported outcomes and esthetic complications — so the choice is driven by avoiding bone augmentation, not by a survival penalty.
 
