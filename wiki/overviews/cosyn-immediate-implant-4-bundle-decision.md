@@ -10,6 +10,21 @@ tags: [overview, immediate-implant, cosyn-series, jump-space, flapless, immediat
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심: 즉시식립(Immediate Implant Placement, IIP) 확정 후의 4개 술식 변수 — 판막(Flap vs Flapless), 즉시 임시치관(Immediate Provisionalization, IP), 결합조직이식(Connective Tissue Graft, CTG), 소켓 골이식(Socket Grafting, SG) — 를 Cosyn 그룹 SR+MA 4편 + 신규 RCT/NMA 7편으로 묶은 의사결정 페이지.
+> - Flapless: 협측 골판 intact + 각화조직(KT) ≥2mm이면 경조직·연조직 보존에 약간 우위; 생존은 양 군 동등(≥95%). 협측 흡수 ~0.2~0.4mm 감소(Pitman 2023).
+> - IP: 1차 안정성 ≥35 Ncm이면 권장 — 연조직 emergence profile 형성·midfacial 보존 ~0.3~0.5mm; 생존·MBL은 동등(Pitman 2022).
+> - CTG: thin biotype·협측 dehiscence 위험에서 midfacial 보존 ~0.4~0.7mm — 4변수 중 thin biotype에서 effect size 가장 큼(Seyssens 2021).
+> - SG(이종골): jump space ≥2mm에서 협측 경조직 보존의 표준 — 협측 흡수 ~0.4mm 감소(Seyssens 2022, Sanz 2017 임계값).
+> - 4개 effect size를 단순 가산하지 말 것 — 각 변수가 조정 효과로 보고돼 일부 중첩 가능.
+> - SG 재료 선택은 결과 차이 작음 — 자가골 vs 이종골 협측 흡수 0.61 vs 0.58mm 동등(Stagnaro-Borgia 2022); 술자 친숙도·환자 부담 기준 선택.
+> - CTG vs 이종 콜라겐 매트릭스(Collagen Matrix)의 우위는 통계적으로 marginal — thin biotype이 아니면 콜라겐 매트릭스로 대체 가능(Azadi 2025 NMA).
+> - 전치부 single 즉시식립 기본 default: Flapless + IP + Optional CTG + SG(jump space ≥2mm).
+> - 의사결정: ISQ <70 또는 구치부 large socket → 지연 임시치관; 협측 결손 → flap + GBR 필수(≥5mm 결손도 IIP 가능하나 advanced).
+> - 한계: 4변수 factorial RCT 없음, 장기(≥5년) 데이터 부족, 구치부 evidence sparse(Cosyn 대부분 상악 전치 single).
+
 ## 한줄요약
 즉시식립 (Immediate Implant Placement, IIP) 결정 후 시행되는 4개 술식 변수 — flap vs flapless, immediate vs delayed provisionalization, connective tissue graft (CTG) 동반 여부, socket grafting (SG) 동반 여부 — 를 Cosyn 그룹 SR+MA 4편 (Pitman 2022/2023, Seyssens 2021/2022)을 anchor로 + 신규 RCT/NMA 7편을 추가해 정량 effect size 매트릭스로 묶고, 4변수 의사결정을 case category별 (thick/thin biotype × intact/defective wall × 전치/구치)로 알고리즘화한 페이지.
 
