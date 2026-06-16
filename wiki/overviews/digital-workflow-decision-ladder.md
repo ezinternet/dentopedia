@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, decision-ladder, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 디지털 치의학을 4축(구강내스캐너(Intraoral Scanner, IOS) 정확도·컴퓨터지원 임플란트수술(Computer-Assisted Implant Surgery, CAIS)·AI 진단·LLM 환자응답)으로 묶은 28편 spine 결정 사다리.
+> - 축1 IOS: 단관·소악궁(3–4 unit)은 임상 표준(trueness 50–100µm), 전악 자연치는 기기 신중 선택(TRIOS 3·Primescan), 무치악 전악은 전통 인상 또는 기공실 스캐너 1차 — IOS는 보조. [근거강함]
+> - 전악 IOS는 후방 연장 시 오차 누적(trueness 50–200µm), 구치부 오차 증가가 일관된 한계.
+> - 축2 CAIS: 즉시식립·심미부·다중 임플란트는 full-static 또는 dynamic이 freehand 우위(Schiavon 2025 NMA, 7 RCT 338 임플란트). 단순 단일치는 freehand 가능, Free flap 재건은 가이드 거의 필수. [근거강함]
+> - 축3 AI: 우식 검출 정확도 약 95%, 임플란트 종류 인식 93.8–98%, 골유착 예측·치근단 품질평가(AUC 0.924–1.000) — 모두 진단·교육 보조 단계, 임상 검증 부족, 자율 치료 결정은 아직. [합의수준]
+> - 축4 LLM: 치과 환자 응답 정확도 약 82%·임상 수용 약 70%, 모델 차이 큼 → instruction 초안 작성 후 술자 검토 필수, 직접 환자 제공 금지, 진단·결정 부적합. [합의수준]
+> - LLM·AI 공통 제약: 환자 식별정보 입력 절대 금지(개인정보보호법+HIPAA), 데이터 프라이버시·알고리즘 편향·블랙박스 인지 필수.
+> - 신규 spoke: 자율로봇 CAIS(Yu 2025·Wei 2025·Chen 2025·Wu 2024)는 dynamic navigation 대비 각도·플랫폼·첨부 편차를 개선하나 시술시간 증가 등 trade-off 존재.
+> - CBCT 기반 상악동 부피 자동측정(Luz 2018, SMOP)은 sinus lift 계획에 직접 활용 가능하나 측정 정확도 cross-validation 필요.
+> - 확신도 등급: IOS·CAIS = [근거강함](다수 SR+NMA), AI 진단 정확도·LLM = [합의수준](대부분 retrospective+narrative, 단일 SR+MA).
+
 ## 한줄요약
 
 디지털 치의학 4축 — 구강내 스캐너 (IOS) 정확도·컴퓨터지원 임플란트 외과 (CAIS)·AI 임상 적용·LLM/ChatGPT 환자 응답. Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
