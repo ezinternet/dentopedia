@@ -26,6 +26,20 @@ relations:
     target: reis-2024-biomimetic-restorative-myths-narrative
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 즉시 상아질 밀봉(Immediate Dentin Sealing, IDS) 논문 8편 종합 — 근거가 2층으로 갈린다.
+> - 핵심 명제: in-vitro 결합강도는 강하고 일관되나, 임상 outcome은 논쟁적. 두 질문("더 잘 붙는가" vs "시린 느낌을 줄이는가")을 섞으면 안 됨.
+> - IDS 정의: 삭제 직후·인상 채득 전에 상아질 결합제(DBA)를 도포·광중합 — 지연 밀봉(Delayed Dentin Sealing, DDS, 최종 합착 시 도포)과 대비(Magne 2005 origin).
+> - in-vitro 결합강도(미세인장결합강도 µTBS): IDS 58 MPa ≈ direct 대조군 55 MPa >> DDS 12 MPa(Magne 2005); SR+MA 21편서 IDS > DDS 일관(Hardan 2022, 근거강함).
+> - 효과 최대 조건: 3-step etch-and-rinse(E&R, OptiBond FL) 또는 (접착제 + flowable resin) 조합; universal adhesive는 MDP-함유(GLUMA) > MDP-free(iBOND).
+> - 임시 기간 ~12주까지 bond 유지(Magne 2007) — lab 지연 동안 결합 보존이라는 임상 안전 마진. 단 6개월 노화로 강도 감소는 불가피(Abo-Alazm 2022).
+> - 임상 survival: IDS 96.4–100% vs non-IDS 81.8–96.7%(Alghauli 2025) — 단 관찰기간 길수록 격차 축소.
+> - 핵심 충돌: 술후과민(Postoperative Sensitivity, POS)에서 두 SR+MA가 정면충돌 — Alghauli 2025(11편, IDS 유의 감소 P<.05) ↔ Josic 2022(4편, GRADE low, 차이 없음). 양쪽 다 유효, 미해결.
+> - 임상 결론: 간접수복(inlay·onlay·veneer·crown)에서 IDS는 표준 채택 정당화(비용 낮고 in-vitro 근거 강함). 단 환자에게 "시린 느낌을 줄여준다"는 약속 금지.
+> - 술식: 임시는 비접착(non-eugenol), 최종 합착 전 IDS 면 청결화/재활성화; biomimetic 마케팅(Magne의 4대 이득 중 POS)은 비판적으로 읽을 것.
+
 ## One-line Summary
 Synthesis of 8 IDS papers showing a two-tier evidence split: in-vitro bond-strength benefit is strong and consistent (Hardan 2022 SR+MA of 21 studies; Magne 2005/2007; Abo-Alazm 2022 universal-adhesive + pulp-pressure), but clinical outcomes are contested — a head-to-head SR+MA conflict on postoperative sensitivity (Alghauli 2025: 11 studies, IDS reduces POS P<.05 + survival benefit vs Josic 2022: 4 studies, GRADE low, no difference) means IDS is defensible as routine practice for indirect restorations but POS reduction should not be promised to patients.
 
