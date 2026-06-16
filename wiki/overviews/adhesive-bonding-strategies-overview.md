@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, clearfil-se-bond, stamp-technique, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 접착 결합력은 **격리(오염 차단)·시스템 선택·표면 전처리**가 좌우하며, 길이가 아니라 전처리가 in-vitro 내구성을 결정한다. 접착 전략 4편 + 직접레진 술기(stamp) 1편을 5축으로 통합.
+> - **노화(fatigue)**: Clearfil SE Bond(2-step 자가부식)는 thermal/mechanical cycling으로 미세인장결합강도(microtensile bond strength, µTBS) 유의 저하 — mechanical 단독은 10만(100K) cycle부터 (Daneshkazemi 2013, in-vitro). 단기 측정만으론 위험, 장기 5년+ 관점 필요.
+> - **타액 오염 대처**: 2-step 자가부식(self-etch, SE)인 Clearfil SE Bond 2는 오염된 상아질에서도 강도 유지하나, 1-step 유니버설(Universal Bond Quick)은 Katana Cleaner 등 decontamination 후에야 결합력 회복 (Etiennot 2025).
+> - **실란 timing**: 세라믹-레진시멘트 결합은 실란 적용 timing과 타액 오염에 영향받음 → 실란→건조→본딩 sequence + 러버댐 격리가 핵심 (Unknown 2009).
+> - **3D 프린팅 크라운 본딩**: 알루미나 분사(airborne particle abrasion) 전처리 시 밀링 재료와 동등한 결합력; HF·실란 추가 시 더 강함 (Kagaoan 2024 SR, 6 in-vitro).
+> - **Stamp technique**: 인택트 교합면을 flowable resin index로 복제 후 와동 형성 → 형태 재현성 향상 (Kim 2026, case report). 미세·협소 와동에 적응, 광범위 MOD엔 부적합.
+> - **유니버설/무HEMA 확장(2026-06)**: HEMA/BPA-free 및 2-step 무HEMA 유니버설 접착제는 Clearfil SE Bond 2 수준 내구성 도달 가능(50k thermocycle); 침식 상아질엔 papain 탈단백이 self-etch µTBS 향상·안정화 (Tang 2024, Tsujimoto 2022, Sirirangsee 2025).
+> - **자가접착 레진시멘트**: MDP/CaF 함유 시멘트가 비-MDP보다 지르코니아 결합 우위 (Mahrous 2020).
+> - **임상 ladder**: ①러버댐 격리 1순위(오염이 결합력 결정자) → ②시스템 선택(2-step SE는 오염 내성, 3-step E&R은 장기 µTBS 우위) → ③간접수복 전처리(세라믹 HF+실란, 지르코니아 분사+MDP primer, 3D크라운 분사) → ④오염 시 대응(2-step은 maintain, 1-step은 decontamination).
+> - **확신도**: 축 1·2·3·4 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
+
 ## 한줄요약
 
 접착 전략 관련 4편(미연결) + 직접레진 술기(stamp) 1편 통합. ①Clearfil SE Bond는 thermal·mechanical fatigue로 µTBS 유의 저하; 100K cycle부터; ②실란 처리 timing·타액 오염은 결합력에 영향; ③MDP-함유 2-step SE는 타액 오염 dentin에서 강도 유지, 1-step universal은 decontamination 필요; ④3D-printed crown은 airborne abrasion 전처리 시 밀링 동등.
