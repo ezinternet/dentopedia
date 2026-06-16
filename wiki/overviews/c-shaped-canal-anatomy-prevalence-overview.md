@@ -21,6 +21,21 @@ source_wiki:
   - wiki/endodontics/anatomy/wei-2025-cshaped-mandibular-first-molar-case.md
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 결론: C형 근관(C-shaped Canal) 유병률은 ①치아종류 ②지역/인종 ③성별의 3개 독립 구배로 설명되며, Yousefi 2025 SR+MA(CBCT 101편)가 정량적 척추(spine)다.
+> - 치아종류 구배: 하악 제2대구치(Mandibular 2nd Molar)가 17.3%로 최다, 상악 제1대구치(Maxillary 1st Molar)가 0.8%로 최소. 하악 제1대구치는 바닥(rare-event tail).
+> - 지역 구배: 아시아 우세 — 한국 31.3~45.5%, 중국 ≤41.27%로 최고치, 이스라엘 4.6%·이란 2%로 최저. 약 10배 차이 → 인구별 사전확률(population prior)로 의심도를 조정해야 함.
+> - 성별 구배: 하악 제2대구치에서 여성 우세(여 23.6% vs 남 16.7%) — 이라크(p=0.001)·멕시코(OR 1.78, p=0.004) 두 대륙에서 재현. 소표본·저유병 코호트에서는 사라짐(검정력 문제).
+> - 좌우 차이는 유의하지 않음(R 21.2% vs L 23.1%) → 한쪽에서 C형 발견 시 반대측(contralateral)도 예상하라는 임상 휴리스틱.
+> - 분류: 대구치 우세 형태는 Fan C2형(semicolon), 소구치 우세 형태는 C3형(분리된 2근관). Shemesh 2017은 63%에서 근관 형태가 치근을 따라 변함 → 입구(orifice)의 Melton 분류만으로는 불충분, Fan 단면/CBCT 필요.
+> - 소구치 예외: 대구치는 2번이 우세하지만 소구치는 1번(Mandibular 1st Premolar)이 우세(C형 소구치 증례의 83.3%). 단, 소구치 C형의 절대 빈도는 낮음(Yu 2012: 1.1%/0.6%).
+> - 병인: Hertwig 상피초(HERS)의 협측/설측 융합 실패로 발생 — 유전적(외상 아님), 아시아 우세·높은 양측성(70~81%)과 일치.
+> - 위험 핵심: radicular-groove 부위 얇은 벽(최소 0.26 mm)이 strip-perforation(천공) 위험을 만듦 → 보수적 성형, 오목부(concavity)의 과도한 측방 기구조작보다 underfill을 수용.
+> - 임상 takeaway: 치료 전 CBCT(놓친 근관 1개당 치근단 병변 odds 약 3.66배↑), 현미경 시야, 초음파 활성 NaOCl+17% EDTA로 isthmus 화학 소독, 열가소성/연속파 충전.
+> - 본 컬렉션 한계: 모두 해부/유병률 연구 — C형 vs 비-C형 대구치의 장기 치아생존 outcome 데이터 없음.
+
 ## One-line Summary
 
 Across 12 papers (1 SR+MA of 101 CBCT studies, 7 population CBCT cross-sections, 1 narrative review, 1 cross-sectional morphology study, 2 case series), C-shaped canal prevalence is governed by a steep tooth-type gradient (mandibular 2nd molar 17.3% highest → maxillary 1st molar 0.8% lowest), an Asian-predominant geographic gradient, and a consistent female predominance; Fan C2 is the dominant molar configuration, the thin buccal/lingual radicular-groove wall (down to 0.26 mm) drives strip-perforation risk, and management hinges on CBCT, microscope visualization, ultrasonic isthmus disinfection, and thermoplasticized obturation.
