@@ -28,6 +28,20 @@ source_papers:
 tags: [overview, complaint-management, patient-experience, dental]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 환자 민원을 4단계 파이프라인 — (1) 분류(Classification) → (2) 기대 파악(Expectation) → (3) 대응(Response) → (4) 교육(Education) — 으로 운영화한 통합 페이지(20편 + 치과 적용층 + 소송 tail).
+> - 핵심 명제: 불만이 지속되는 이유는 원래의 임상 오류 자체보다 *민원을 어떻게 분류하고, 민원인이 진짜 무엇을 원했는지, 응답을 어떻게 표현했는지*에 있다. 클리닉이 통제할 수 있는 가장 강한 lever는 대응·교육 층위.
+> - 비대칭 핵심: 민원인은 압도적으로 **재발 방지와 정직한 설명**을 원하지(Friele 2006: 설명 65% > 사과 41%, 금전 요구는 7%) 돈이나 사과 연극을 원하지 않는데, 조직의 전형적 응답은 정반대로 "fauxpology"(사이비 사과)와 주관화로 간다.
+> - 분류 축: Reader 2014 SR(59연구·88,069건)이 임상 33.7%·관리 35.1%·관계 29.1% 3 domain 제시; HCAT(Healthcare Complaints Analysis Tool, Gillespie 2016)이 7범주×4중증도 도구화; 민원이 직원이 놓친 안전사건의 60%에서 더 큰 위해를 보임(Van Dael 2022).
+> - 대응의 금지 목록(blocklist): "I'm sorry you feel…"식 사이비 사과, 불만을 환자의 주관적 인상으로 재구성, "일회성 예외" 변명, 화제 전환·조기 종결 — 방어성은 개인 문제가 아니라 구조적 문제(Gillespie 2025).
+> - 교육은 CODE 모델(Elias 2025): 운영/절차 훈련(어떤 자원·구제책이 있는가)과 대인/디에스컬레이션 훈련을 *함께* — 한쪽만 하면 관료적 실패 또는 관계적 실패가 재현됨.
+> - 치과 적용층: 치과의사가 민원율 최고(42.7/1000/년, Thomas 2018), 근관치료(Endodontics)가 의료과실 청구 노출 최대(Alrahabi 2019) — 러버댐·정확한 기록·표준진료 준수가 곧 임상 안전이자 법적 방어.
+> - 소송 tail(한·일 판례): 한국 부제소 합의는 26.5%만 실제 후속 소송을 차단했고(Kwon 2017), 무상 재치료는 배상액에 산입되지 않음 — 합의서는 의례가 아니라 내용(범위·포기 청구·약인)으로 작성해야 함.
+> - 수술적 치과의 반복 책임 근거(Park 2016): 감염 즉시 배양·치료, 적시 의뢰, 감염관리 기록, **명시적 술전 동의** — 감염위험 동의 누락은 독립적으로 책임 성립.
+> - 미해결: 치과 특이적 HCAT validation 부재, CODE의 대조군 효과 데이터 부재, 한국어 민원 감성분석 모델 부재, 대응 protocol이 해결률을 바꾼다는 RCT 근거 부재.
+
 ## One-line Summary
 A four-stage pipeline — classify the complaint, understand what the complainant expects, respond without defensiveness, and train staff to do so — that turns scattered patient-complaint research into an operational complaint system, with a dental applied layer.
 
