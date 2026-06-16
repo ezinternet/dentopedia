@@ -13,6 +13,21 @@ source_collection: synthesis
 tags: [zirconia, y-tzp, monolithic-zirconia, ltd, low-temperature-degradation, cad-cam, crown-survival, ceramic-repair, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 세라믹 강도 위계: 다결정 지르코니아(Y-TZP, 800–1500 MPa)가 치과 세라믹 강도 사다리 최상단 — 이규산리튬(lithium disilicate, 300–500 MPa)의 2배 이상, 장석질 도재(70–90 MPa)의 약 10배(Warreth 2020).
+> - 세대 분류 — 강도 vs 투명도 trade-off: 이트리아 함량 증가(3Y-TZP→4Y-PSZ→5Y-PSZ)는 투명도를 얻는 대신 굴곡강도(900–1200→700–900→600–700 MPa)와 파괴인성을 잃는다. 입방상(cubic phase)은 변태강화가 불가하기 때문(Cesar 2024).
+> - 변태강화(transformation toughening)가 핵심 기계적 자산이자 LTD의 원인: 균열 첨단 응력이 정방→단사정(t→m) 변태(~4% 부피팽창)를 유발해 균열을 닫고 파괴인성 KIc 5–10 MPa·m^0.5(치과 세라믹 최고). 동일한 상 불안정성이 체온·습기에서 저온분해(Low-Temperature Degradation, LTD) 취약성을 만든다(Chopra 2024).
+> - 임상 파절 기원은 블록 내재 결함이 아니라 CAD/CAM 밀링 결함: as-sintered 시편은 밀링 gouge·edge chip에서 파절(낮은 평균강도·높은 Weibull), 연마 시 내재 기공·결정군집으로 이동(높은 평균·낮은 Weibull). 어느 표면 상태도 신뢰도가 명확히 우월하지 않음(Kwon 2024).
+> - 베니어 지르코니아 5년 생존율은 금속도재관과 동등(97.6% vs 98.3%, NS)하나 재료 파절률은 10배 높음(2.1% vs 0.2%, p=0.001). chipping은 거의 동일(2.8% vs 2.9%)(Pjetursson 2018, SR 35편 n=5,275).
+> - 모놀리식 지르코니아는 chipping을 완전히 제거하나 근거 기반이 짧음: 생존율 91–100%지만 평균 추적 1.07년, 이질성 I²=93.74%. 이갈이(bruxism)가 위험인자로 marginal integrity 31.60%까지 하락(Leitão 2022, 첫 SR+MA n=1,657).
+> - 구강 내 LTD는 실재하며 6개월부터 시작, 5년까지 유의하게 진행: 국소적 비균질 단사정 군집으로 나타나나 5년에도 ISO 25% Vm 역치는 미초과, 파절률 4.5%(LTD 기여 여부는 미해결), 유약(glazing)은 어느 시점에도 보호 효과 없음(Koenig 2021, 2024).
+> - 새 우려 — 나노입자 유출: 교합부 tribological grain pull-out이 고전적 핵형성-성장 LTD와 기전적으로 다르며, 서브마이크론 3Y-TZP 나노입자를 체내로 방출할 가능성. 생체적합성 미해결, 전용 독성학 연구 필요(Koenig 2024).
+> - 구강 내 세라믹 수리는 교체의 최소침습 대안: 베니어 코어 노출 시 50 µm Al₂O₃ 분사+잔존 도재 HF 부식(9.6%, 60초)+silane+MDP 함유 접착제+복합레진. 모놀리식은 sandblasting+MDP만(HF·silane 무효). 결합강도가 수리 수명의 결정 인자(Alqarawi 2022).
+> - 임상 의사결정: 비이갈이 환자 고하중 구치부 단일관 → 모놀리식 3Y-TZP(최대 강도, 단 LTD 감시), 심미 전치-구치부 → 4Y-PSZ 또는 다층(3Y base+5Y top)이 현 시장 표준. 이갈이 환자는 베니어·모놀리식 모두 위험 상승 → 교합 보호+추적.
+> - chairside 교합 조정 시 grinding mark를 재도입하면 새 응력집중 생성 → 조정 후 반드시 재연마·재유약 후 장착. 단 유약은 LTD 보호가 아니므로 LTD 완화 전략으로 제시 금지.
+
 ## One-line Summary
 
 Dental zirconia has evolved from opaque 3Y-TZP cores (900–1200 MPa, LTD-susceptible) to composition-gradient multilayer restorations spanning all esthetic indications; 5-year survival is comparable to metal-ceramic (97.6% veneered, 91–100% monolithic), but intraoral LTD confirmed from 6 months with grain pull-out nanoparticle concern at 5 years, and CAD/CAM milling defects — not intrinsic blank flaws — are the dominant fracture initiators in as-sintered clinical restorations.
