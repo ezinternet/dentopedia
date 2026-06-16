@@ -57,6 +57,13 @@ jobs:
         working-directory: ./quartz
         run: npx quartz build
 
+      - name: Regenerate overviews domain map from frontmatter
+        run: |
+          # interactives/overviews-map.html을 wiki/overviews/*.md frontmatter에서
+          # 자동 생성 → 홈(index.md)의 iframe이 항상 최신 overview를 반영.
+          # 새 overview 추가 시 수기 카드 편집 불필요.
+          python3 scripts/build-overviews-map.py
+
       - name: Regenerate interactives index from frontmatter
         run: |
           # interactives/index.html을 각 도구의 주석 frontmatter(category 등)에서
