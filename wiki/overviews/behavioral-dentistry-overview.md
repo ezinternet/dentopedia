@@ -13,6 +13,20 @@ source_collection: synthesis
 tags: [behavioral-dentistry, patient-communication, motivational-interviewing, patient-reported-outcomes, dental-anxiety, shared-decision-making, overview]
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 행동치의학(Behavioral Dentistry) 카테고리 19편을 4축(동기면담·커뮤니케이션과 관계·환자보고결과·치과불안)으로 묶은 마스터 통합 페이지. 술식이 완벽해도 환자가 행동을 안 바꾸거나·소통이 어긋나거나·결과를 나쁘게 인식하거나·불안으로 협조 못 하면 임상 outcome이 무너진다는 명제가 전체 spine.
+> - 동기면담(Motivational Interviewing, MI)은 의료 일반에서 견고한 효과 — Lundahl 2013 SR+MA(48 RCT, n=9,618)에서 교차비(Odds Ratio, OR) 1.55 (95% CI 1.40–1.71), 짧은 상담에서도 작동. 치과 한정 RCT도 5/5 전부 양성(Kay 2016).
+> - 그러나 성인 구강건강으로 좁히면 효과 약화 — Cartes-Velasquez 2024 SR+MA(성인 7 RCT, 전부 치주)에서 치은출혈지수(Bleeding on Probing, BoP) −6.41pp만 유의, 치태·치은지수는 비유의.
+> - 반면 영유아 우식(Early Childhood Caries, ECC) 예방은 MI 효과 있음(Jahanshahi 2022 SR+MA, 6 RCT n=2,776) — 단 세션 횟수보다 quality와 ≥3년 추적이 결정.
+> - 효과(efficacy)와 정착(implementation)은 별개 — 위생사 95%가 MI를 쓰지만 실제 환자 변화엔 회의적(Rogers 2022). 계획행동이론(Theory of Planned Behavior, TPB) 3요소(태도·규범·지각된 통제)가 사용을 예측 → 교육·환경 설계 lever.
+> - 커뮤니케이션이 의사-환자 관계(Dentist–Patient Relationship, DPR)의 최대 결정요인 — Choi 2024 scoping에서 "communication"(8회) > "trust"(6회). Ho 2025가 중요성·장벽·전략·교육 4축으로 실무화.
+> - 선택지가 갈리는 결정엔 공유의사결정(Shared Decision-Making, SDM)과 기대관리 필수 — 임플란트·심미에서 소셜미디어發 비현실적 기대를 투명한 소통·사전동의로 정렬하지 않으면 인지부조화·불만·술자 소진으로 귀결(Dawood 2025, Elwyn 2025).
+> - 환자보고결과(Patient-Reported Outcome, PRO; PROM/PREM)는 술식 성공(생존·치유)과 다른 성공 척도 — 단 구강건강관련삶의질(OHRQoL) 측정도구의 치과 영역 validation은 아직 부족(Doğramacı 2023).
+> - 불안이 세 축을 모두 gating — 소아는 연령 효과 유의·성별 무의(Al Homoud 2023, n=150), 성인은 국소마취·드릴링에서 심박수(HR) 유의 상승하고 과거 부정경험이 불안을 예측(Pandey 2025, p=0.018). tell-show-do·modeling·VR distraction 등 비약물 전략이 일관 효과.
+> - 임상 ladder: ① 접수 시 과거 부정경험·불안 스크리닝 → ② 국소마취·드릴링 직전 distraction → ③ 행동변화는 MI(영유아 우식엔 효과, 성인 구강엔 제한적) → ④ 선택 결정은 SDM+기대정렬 → ⑤ 결과는 검증된 PRO 도구로 측정. 위생사 교육은 강의가 아니라 롤플레이로 정착시켜야 함.
+
 ## One-line Summary
 Master synthesis of the behavioral-dentistry category (19 papers, 4 axes) — the non-clinical layer that decides whether clinical work lands: motivational interviewing (behavior change), communication & relationship (how care is delivered and decided), patient-reported outcomes (how the patient judges it), and dental anxiety (the barrier that gates all three).
 
