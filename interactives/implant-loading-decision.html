@@ -1,0 +1,979 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>임플란트 로딩 타이밍 결정 도구</title>
+  <style>
+    :root {
+      --bg: #f5f6fa;
+      --card: #ffffff;
+      --text: #1a1a2e;
+      --text-secondary: #5a5a7a;
+      --border: #e0e2ef;
+      --accent: #4361ee;
+      --accent-light: #eef0fd;
+      --radius: 14px;
+      --shadow: 0 4px 24px rgba(67,97,238,0.08);
+
+      --green: #0f9e5e;
+      --green-bg: #edfaf3;
+      --green-border: #a3e6c8;
+      --yellow: #b45309;
+      --yellow-bg: #fffbeb;
+      --yellow-border: #fcd34d;
+      --red: #c0392b;
+      --red-bg: #fff2f2;
+      --red-border: #f5a8a1;
+    }
+
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 24px 16px 40px;
+    }
+
+    header {
+      width: 100%;
+      max-width: 480px;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    header h1 {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--text);
+      letter-spacing: -0.3px;
+    }
+
+    header p {
+      font-size: 0.78rem;
+      color: var(--text-secondary);
+      margin-top: 4px;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      width: 100%;
+      max-width: 480px;
+      padding: 24px 20px;
+      margin-bottom: 16px;
+    }
+
+    .section-label {
+      font-size: 0.7rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      color: var(--accent);
+      margin-bottom: 12px;
+    }
+
+    /* ── Diameter toggle ── */
+    .diameter-toggle {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      gap: 8px;
+    }
+
+    .diam-btn {
+      padding: 14px 6px;
+      border-radius: 10px;
+      border: 2px solid var(--border);
+      background: var(--bg);
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .diam-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    .diam-btn.active {
+      background: var(--accent-light);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .diam-btn .diam-name { font-size: 0.9rem; font-weight: 700; display: block; margin-bottom: 2px; }
+    .diam-btn .diam-sub { font-size: 0.62rem; font-weight: 400; color: var(--text-secondary); }
+    .diam-btn.active .diam-sub { color: var(--accent); }
+
+    /* ── ISQ Input ── */
+    .isq-row {
+      display: flex;
+      align-items: center;
+      gap: 14px;
+    }
+
+    .isq-slider-wrap {
+      flex: 1;
+      display: flex;
+      flex-direction: column;
+      gap: 4px;
+    }
+
+    .slider-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.68rem;
+      color: var(--text-secondary);
+    }
+
+    input[type="range"] {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 100%;
+      height: 8px;
+      border-radius: 4px;
+      background: linear-gradient(to right, #e0e2ef 0%, #e0e2ef 100%);
+      outline: none;
+      cursor: pointer;
+    }
+
+    input[type="range"]::-webkit-slider-thumb {
+      -webkit-appearance: none;
+      appearance: none;
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+      border: 2px solid #fff;
+      box-shadow: 0 2px 6px rgba(67,97,238,0.35);
+    }
+
+    input[type="range"]::-moz-range-thumb {
+      width: 24px;
+      height: 24px;
+      border-radius: 50%;
+      background: var(--accent);
+      cursor: pointer;
+      border: 2px solid #fff;
+      box-shadow: 0 2px 6px rgba(67,97,238,0.35);
+    }
+
+    .isq-number-wrap {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+    }
+
+    .isq-number-wrap label {
+      font-size: 0.62rem;
+      color: var(--text-secondary);
+    }
+
+    input[type="number"] {
+      -moz-appearance: textfield;
+      width: 64px;
+      height: 48px;
+      border: 2px solid var(--border);
+      border-radius: 10px;
+      text-align: center;
+      font-size: 1.35rem;
+      font-weight: 700;
+      color: var(--text);
+      background: var(--bg);
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    input[type="number"]::-webkit-inner-spin-button,
+    input[type="number"]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+    }
+
+    input[type="number"]:focus {
+      border-color: var(--accent);
+    }
+
+    /* ISQ zone bar */
+    .isq-zones {
+      display: flex;
+      border-radius: 6px;
+      overflow: hidden;
+      height: 6px;
+      margin-top: 8px;
+      gap: 2px;
+    }
+
+    .zone-red   { background: #f87171; }
+    .zone-yellow { background: #fbbf24; }
+    .zone-green { background: #34d399; }
+
+    .zone-legend {
+      display: flex;
+      justify-content: space-between;
+      font-size: 0.6rem;
+      color: var(--text-secondary);
+      margin-top: 2px;
+    }
+
+    /* ── Months pills ── */
+    .months-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 8px;
+    }
+
+    .pill {
+      padding: 10px 4px;
+      border-radius: 10px;
+      border: 2px solid var(--border);
+      background: var(--bg);
+      color: var(--text-secondary);
+      font-size: 0.82rem;
+      font-weight: 600;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .pill:hover { border-color: var(--accent); color: var(--accent); }
+    .pill.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+      box-shadow: 0 2px 8px rgba(67,97,238,0.3);
+    }
+
+    /* ── Site toggle ── */
+    .site-toggle {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 8px;
+    }
+
+    .site-btn {
+      padding: 14px 8px;
+      border-radius: 10px;
+      border: 2px solid var(--border);
+      background: var(--bg);
+      color: var(--text-secondary);
+      font-size: 0.9rem;
+      font-weight: 600;
+      text-align: center;
+      cursor: pointer;
+      transition: all 0.15s;
+      user-select: none;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .site-btn:hover { border-color: var(--accent); color: var(--accent); }
+
+    .site-btn.active {
+      background: var(--accent-light);
+      border-color: var(--accent);
+      color: var(--accent);
+    }
+
+    .site-btn .site-icon { font-size: 1.3rem; display: block; margin-bottom: 2px; }
+    .site-btn .site-sub { font-size: 0.65rem; font-weight: 400; color: var(--text-secondary); }
+    .site-btn.active .site-sub { color: var(--accent); }
+
+    /* ── Result card ── */
+    #result {
+      display: none;
+    }
+
+    #result.visible { display: block; }
+
+    .result-badge {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 14px 16px;
+      border-radius: 10px;
+      margin-bottom: 16px;
+      border: 2px solid transparent;
+    }
+
+    .result-badge .badge-icon { font-size: 1.6rem; line-height: 1; }
+    .result-badge .badge-text { font-size: 1.05rem; font-weight: 700; }
+    .result-badge .badge-sub  { font-size: 0.72rem; margin-top: 1px; }
+
+    .result-badge.green {
+      background: var(--green-bg);
+      border-color: var(--green-border);
+      color: var(--green);
+    }
+
+    .result-badge.yellow {
+      background: var(--yellow-bg);
+      border-color: var(--yellow-border);
+      color: var(--yellow);
+    }
+
+    .result-badge.red {
+      background: var(--red-bg);
+      border-color: var(--red-border);
+      color: var(--red);
+    }
+
+    .result-section {
+      margin-bottom: 14px;
+    }
+
+    .result-section-label {
+      font-size: 0.65rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: 0.7px;
+      color: var(--text-secondary);
+      margin-bottom: 5px;
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .result-section-body {
+      font-size: 0.88rem;
+      line-height: 1.6;
+      color: var(--text);
+    }
+
+    .action-box {
+      background: var(--bg);
+      border: 1px solid var(--border);
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 0.88rem;
+      font-weight: 600;
+      color: var(--text);
+    }
+
+    .caution-box {
+      background: #fffdf4;
+      border: 1px solid #f3dfa2;
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 0.82rem;
+      color: #7a5c10;
+      line-height: 1.5;
+    }
+
+    .context-box {
+      background: #f0f4ff;
+      border: 1px solid #c5d0f5;
+      border-radius: 8px;
+      padding: 10px 14px;
+      font-size: 0.78rem;
+      color: #2d3b8e;
+      line-height: 1.5;
+      margin-top: 10px;
+    }
+
+    .divider {
+      height: 1px;
+      background: var(--border);
+      margin: 14px 0;
+    }
+
+    /* Pending state */
+    #pending-msg {
+      text-align: center;
+      color: var(--text-secondary);
+      font-size: 0.85rem;
+      padding: 16px 0 4px;
+    }
+
+    footer {
+      font-size: 0.68rem;
+      color: var(--text-secondary);
+      text-align: center;
+      max-width: 480px;
+      margin-top: 4px;
+      line-height: 1.5;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>🦷 임플란트 로딩 타이밍 결정</h1>
+  <p>직경 · ISQ · 경과 월 · 부위 → 로딩 가능 여부 판정</p>
+</header>
+
+<!-- Card 1: Diameter -->
+<div class="card">
+  <div class="section-label">① 픽스쳐 직경</div>
+  <div class="diameter-toggle">
+    <div class="diam-btn" id="diamNarrow" data-diam="narrow">
+      <span class="diam-name">협폭경</span>
+      <span class="diam-sub">≤ 3.5 mm</span>
+    </div>
+    <div class="diam-btn active" id="diamStandard" data-diam="standard">
+      <span class="diam-name">표준</span>
+      <span class="diam-sub">3.75–4.5 mm</span>
+    </div>
+    <div class="diam-btn" id="diamWide" data-diam="wide">
+      <span class="diam-name">광폭</span>
+      <span class="diam-sub">≥ 5.0 mm</span>
+    </div>
+  </div>
+</div>
+
+<!-- Card 2: ISQ -->
+<div class="card">
+  <div class="section-label">② ISQ 값 입력</div>
+  <div class="isq-row">
+    <div class="isq-slider-wrap">
+      <div class="slider-labels">
+        <span>0</span><span>25</span><span>50</span><span>75</span><span>100</span>
+      </div>
+      <input type="range" id="isqSlider" min="0" max="100" value="72" />
+      <div class="isq-zones" id="isqZones">
+        <!-- dynamically sized by JS -->
+      </div>
+      <div class="zone-legend" id="isqZoneLegend">
+        <!-- dynamically updated by JS -->
+      </div>
+    </div>
+    <div class="isq-number-wrap">
+      <label>ISQ</label>
+      <input type="number" id="isqNum" min="0" max="100" value="72" />
+    </div>
+  </div>
+</div>
+
+<!-- Card 3: Months -->
+<div class="card">
+  <div class="section-label">③ 식립 후 경과 기간</div>
+  <div class="months-grid" id="monthsGrid">
+    <div class="pill" data-val="0">0개월</div>
+    <div class="pill" data-val="1">1개월</div>
+    <div class="pill" data-val="2">2개월</div>
+    <div class="pill" data-val="3">3개월</div>
+    <div class="pill" data-val="4">4개월</div>
+    <div class="pill" data-val="6">6개월</div>
+    <div class="pill" data-val="8">8개월</div>
+    <div class="pill" data-val="12">12개월+</div>
+  </div>
+</div>
+
+<!-- Card 4: Site -->
+<div class="card">
+  <div class="section-label">④ 식립 부위</div>
+  <div class="site-toggle">
+    <div class="site-btn" id="siteAnterior" data-site="anterior">
+      <span class="site-icon">😁</span>
+      전치부
+      <div class="site-sub">미적 위험도 높음</div>
+    </div>
+    <div class="site-btn" id="sitePosterior" data-site="posterior">
+      <span class="site-icon">🦷</span>
+      구치부
+      <div class="site-sub">교합력 분산 유리</div>
+    </div>
+  </div>
+</div>
+
+<!-- Result card -->
+<div class="card" id="result">
+  <div class="section-label">결과</div>
+  <div id="result-badge" class="result-badge"></div>
+
+  <div class="result-section">
+    <div class="result-section-label">📋 근거</div>
+    <div class="result-section-body" id="result-rationale"></div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="result-section">
+    <div class="result-section-label">✅ 권장 처치</div>
+    <div class="action-box" id="result-action"></div>
+  </div>
+
+  <div class="divider"></div>
+
+  <div class="result-section">
+    <div class="result-section-label">⚠️ 주의사항</div>
+    <div class="caution-box" id="result-caution"></div>
+  </div>
+
+  <div class="context-box" id="result-context"></div>
+</div>
+
+<div id="pending-msg">부위를 선택하면 결과가 표시됩니다.</div>
+
+<footer>
+  ISQ 임계값 참고: Sennerby 2008; Meredith 1998 (표준 ISQ ≥70 = 안전역, 65–69 = 경계역, &lt;65 = 재골유착 위험).<br>
+  협폭경 보정: Diehl 2022 (NDI 3.3mm n=48, ISQ ~64 = 완전골유착); Shiffler 2016. 광폭 보정: Stoilov 2023.<br>
+  본 도구는 임상 의사결정 보조 목적이며 최종 판단은 임상의에게 있습니다.
+</footer>
+
+<script>
+  // ── State ──
+  let state = {
+    diameter: 'standard',  // 'narrow' | 'standard' | 'wide'
+    isq: 72,
+    months: null,   // null = not selected
+    site: null,     // null = not selected
+  };
+
+  // ── Diameter thresholds per type ──
+  // Each: { red_max, yellow_min, yellow_max, green_min }
+  // red:    isq < red_max+1  (i.e. isq <= red_max)
+  // yellow: yellow_min <= isq <= yellow_max
+  // green:  isq >= green_min
+  const DIAM_THRESHOLDS = {
+    narrow:   { red_max: 57, yellow_min: 58, yellow_max: 63, green_min: 64 },
+    standard: { red_max: 64, yellow_min: 65, yellow_max: 69, green_min: 70 },
+    wide:     { red_max: 64, yellow_min: 65, yellow_max: 67, green_min: 68 },
+  };
+
+  const DIAM_CONTEXT = {
+    narrow:   '협폭경 기준 ISQ ≥64 = 완전골유착 도달 (Diehl 2022, NDI 3.3mm n=48)',
+    standard: '표준 기준 ISQ ≥65–70 (Sennerby 안전역)',
+    wide:     '광폭 기준 ISQ ≥68 (골접촉 면적 우세, Stoilov 2023)',
+  };
+
+  // ── Diameter buttons ──
+  ['diamNarrow', 'diamStandard', 'diamWide'].forEach(id => {
+    document.getElementById(id).addEventListener('click', () => {
+      const diam = id === 'diamNarrow' ? 'narrow' : id === 'diamStandard' ? 'standard' : 'wide';
+      state.diameter = diam;
+      document.getElementById('diamNarrow').classList.toggle('active', diam === 'narrow');
+      document.getElementById('diamStandard').classList.toggle('active', diam === 'standard');
+      document.getElementById('diamWide').classList.toggle('active', diam === 'wide');
+      updateISQZoneBar();
+      updateSliderGradient(state.isq);
+      evaluate();
+    });
+  });
+
+  // ── ISQ zone bar (dynamic per diameter) ──
+  function updateISQZoneBar() {
+    const t = DIAM_THRESHOLDS[state.diameter];
+    const zonesEl = document.getElementById('isqZones');
+    const legendEl = document.getElementById('isqZoneLegend');
+
+    // proportional flex values out of 100
+    const redFlex = t.red_max + 1;           // 0..red_max  → width = red_max+1
+    const yellowFlex = t.yellow_max - t.yellow_min + 1;
+    const greenFlex = 100 - t.green_min;
+
+    zonesEl.innerHTML = `
+      <div class="zone-red" style="flex:${redFlex}"></div>
+      <div class="zone-yellow" style="flex:${yellowFlex}"></div>
+      <div class="zone-green" style="flex:${greenFlex}"></div>
+    `;
+
+    legendEl.innerHTML = `
+      <span>위험 (&lt;${t.yellow_min})</span>
+      <span>경계 (${t.yellow_min}–${t.yellow_max})</span>
+      <span>안전역 (≥${t.green_min})</span>
+    `;
+  }
+
+  // ── ISQ sync (slider ↔ number) ──
+  const slider = document.getElementById('isqSlider');
+  const numInput = document.getElementById('isqNum');
+
+  function updateSliderGradient(val) {
+    const pct = val;
+    const t = DIAM_THRESHOLDS[state.diameter];
+    let color;
+    if (val < t.yellow_min) color = '#f87171';
+    else if (val < t.green_min) color = '#fbbf24';
+    else color = '#34d399';
+    slider.style.background =
+      `linear-gradient(to right, ${color} 0%, ${color} ${pct}%, #e0e2ef ${pct}%, #e0e2ef 100%)`;
+  }
+
+  slider.addEventListener('input', () => {
+    const v = parseInt(slider.value, 10);
+    numInput.value = v;
+    state.isq = v;
+    updateSliderGradient(v);
+    evaluate();
+  });
+
+  numInput.addEventListener('input', () => {
+    let v = parseInt(numInput.value, 10);
+    if (isNaN(v)) return;
+    v = Math.max(0, Math.min(100, v));
+    slider.value = v;
+    state.isq = v;
+    updateSliderGradient(v);
+    evaluate();
+  });
+
+  // init zone bar + gradient
+  updateISQZoneBar();
+  updateSliderGradient(state.isq);
+
+  // ── Months pills ──
+  document.getElementById('monthsGrid').addEventListener('click', (e) => {
+    const pill = e.target.closest('.pill');
+    if (!pill) return;
+    document.querySelectorAll('.pill').forEach(p => p.classList.remove('active'));
+    pill.classList.add('active');
+    state.months = parseInt(pill.dataset.val, 10);
+    evaluate();
+  });
+
+  // ── Site buttons ──
+  document.getElementById('siteAnterior').addEventListener('click', () => { setSite('anterior'); });
+  document.getElementById('sitePosterior').addEventListener('click', () => { setSite('posterior'); });
+
+  function setSite(s) {
+    state.site = s;
+    document.getElementById('siteAnterior').classList.toggle('active', s === 'anterior');
+    document.getElementById('sitePosterior').classList.toggle('active', s === 'posterior');
+    evaluate();
+  }
+
+  // ── Decision logic ──
+  function classify(diam, isq, months, site) {
+    const t = DIAM_THRESHOLDS[diam];
+    const siteLabel = site === 'anterior' ? '전치부' : '구치부';
+
+    // ── NARROW (≤3.5mm) ──
+    if (diam === 'narrow') {
+      // RED
+      if (isq < t.yellow_min) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: `ISQ < ${t.yellow_min} — 골유착 불충분 (협폭경 기준)`,
+          rationale: `협폭경(≤3.5mm) 기준 ISQ < ${t.yellow_min}는 골유착이 불충분한 상태입니다. NDI에서는 ISQ가 표준 직경보다 약 6 낮게 측정되므로(Diehl 2022), 이 구간은 표준 ISQ < 65에 해당하는 위험 수준입니다.`,
+          action: '로딩 연기 + 원인 파악 — 최소 4–8주 후 재측정',
+          caution: 'ISQ 하강 추세라면 1–2주 간격으로 추적 측정하여 반등 여부를 확인하세요. 협폭경은 피질골 두께와 골질에 더 민감합니다.',
+        };
+      }
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months === 0) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: `ISQ ${t.yellow_min}–${t.yellow_max} · 0개월 (협폭경)`,
+          rationale: `협폭경 경계역(ISQ ${t.yellow_min}–${t.yellow_max})에서 식립 직후(0개월)는 안정성이 아직 확보되지 않은 상태입니다. 2차 안정성 형성까지 치유 기간이 필요합니다.`,
+          action: '로딩 연기 — 1–2개월 후 재측정 예약',
+          caution: '협폭경은 피로 파절 위험이 있으므로 조기 로딩 시 교합 하중 설계에 특히 주의하세요.',
+        };
+      }
+      if (isq >= t.green_min && months === 0) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: `ISQ ≥${t.green_min} · 0개월 (협폭경)`,
+          rationale: `협폭경 안전역(ISQ ≥${t.green_min})이지만 식립 직후(0개월)는 아직 이릅니다. ${site === 'anterior' ? '전치부는 미적 위험도가 높아' : '초기 치유 완료 전이므로'} 보수적 접근이 권장됩니다.`,
+          action: '1개월 후 재측정 후 최종보철 여부 판단',
+          caution: '협폭경 임시보철은 occlusion off 설계 필수.',
+        };
+      }
+
+      // GREEN — narrow
+      if (isq >= t.green_min && months >= 3) {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: `ISQ ≥${t.green_min} · ${months}개월 · ${siteLabel} (협폭경)`,
+          rationale: `협폭경 기준 ISQ ≥${t.green_min}는 완전 골유착 도달에 해당합니다(Diehl 2022, NDI 3.3mm n=48). 3개월 이상 경과로 2차 안정성이 안정기에 접어들었습니다.`,
+          action: '즉시 최종보철 진행 가능',
+          caution: '협폭경은 교합 과부하에 취약하므로 편심위 간섭 최소화, 야간 스플린트(브럭시즘 시) 권장. Screw-retained 보철 선호.',
+        };
+      }
+      if (isq >= t.green_min && months >= 2) {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: `ISQ ≥${t.green_min} · ${months}개월 · ${siteLabel} (협폭경)`,
+          rationale: `협폭경 안전역(ISQ ≥${t.green_min})에 2개월 경과. 표준 직경의 ISQ ≥70에 상당하는 안정성으로 판단합니다(Diehl 2022).`,
+          action: '최종보철 진행 가능',
+          caution: '협폭경 특성상 측방 교합력 최소화, 보철 장착 후 교합 재확인 2–4주 내 권장.',
+        };
+      }
+
+      // GREEN for narrow posterior, ISQ≥green_min, months≥2 — covered above
+      // YELLOW — narrow
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 3) {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: `ISQ ${t.yellow_min}–${t.yellow_max} · ${months}개월 · ${siteLabel} (협폭경)`,
+          rationale: `협폭경 경계역(ISQ ${t.yellow_min}–${t.yellow_max})에서 3개월 이상 경과. ${site === 'posterior' ? '구치부는 교합 분산이 유리해 로딩 가능에 가깝지만' : '전치부는 미적 위험도가 있어'} 추가 확인이 권장됩니다.`,
+          action: site === 'posterior'
+            ? '최종보철 진행 가능 — 교합 하중 최소화 설계 권장'
+            : 'ISQ 추세 확인 후 로딩 — 가능하면 64 이상 상승 후 진행',
+          caution: '협폭경 경계역이므로 보철 장착 후 1개월 시점 교합 및 MBL 추적(PA X-ray) 권장.',
+        };
+      }
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 1 && months <= 2) {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: `ISQ ${t.yellow_min}–${t.yellow_max} · ${months}개월 (협폭경)`,
+          rationale: `협폭경 경계역에서 1–2개월은 2차 안정성이 아직 완전히 확립되지 않았을 가능성이 있습니다. 추가 관찰이 안전합니다.`,
+          action: '4–6주 후 재측정 권장 — 상승 추세 확인 후 로딩 결정',
+          caution: '협폭경 임시보철은 occlusion off 유지. ISQ 상승 추세가 확인될 때까지 최종보철 보류.',
+        };
+      }
+      if (isq >= t.green_min && months >= 1 && months <= 1 && site === 'anterior') {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: `ISQ ≥${t.green_min} · 1개월 · 전치부 (협폭경)`,
+          rationale: `협폭경 안전역이지만 전치부 1개월은 연조직이 아직 성숙하지 않은 상태입니다.`,
+          action: '임시보철(occlusion off) 유지 → 2개월 시점 재평가 후 최종보철 결정',
+          caution: '전치부 협폭경은 특히 연조직 레벨 안정화가 중요합니다.',
+        };
+      }
+
+      // Fallback yellow for narrow
+      return {
+        level: 'yellow', icon: '⚠️', label: '신중 검토',
+        sublabel: `ISQ ${isq} · ${months}개월 (협폭경)`,
+        rationale: '현재 협폭경 ISQ와 경과 기간의 조합은 추가 임상 판단이 필요합니다.',
+        action: '4–6주 후 재측정 권장',
+        caution: '협폭경 특성, 환자 골질, 임플란트 시스템 특성을 종합 고려하세요.',
+      };
+    }
+
+    // ── STANDARD (3.75–4.5mm) ── original logic ──
+    if (diam === 'standard') {
+      // RED
+      if (isq < t.yellow_min) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: 'ISQ < 65 — 골유착 불충분',
+          rationale: 'ISQ < 65는 Sennerby 임계값 미만으로 골유착이 불충분한 상태입니다. 임플란트 주위 계면 안정성이 확보되지 않은 시점에서 로딩 시 과부하에 의한 재골유착 실패(marginal bone loss 가속)가 발생할 수 있습니다.',
+          action: '로딩 연기 + 원인 파악 — 최소 4–8주 후 재측정',
+          caution: 'ISQ 하강 추세(stability dip)라면 1–2주 간격으로 추적 측정하여 반등 여부를 확인하세요. 골질 불량·감염·과부하 여부를 우선 배제해야 합니다.',
+        };
+      }
+      if (isq >= t.green_min && months === 0 && site === 'anterior') {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: 'ISQ ≥ 70 · 0개월 · 전치부',
+          rationale: 'ISQ ≥ 70으로 안전역에 진입했지만, 식립 직후(0개월)이고 전치부는 미적 위험도가 높습니다. 조기 로딩 실패 시 연조직 퇴축과 치조골 소실이 복구 불가 수준으로 진행될 수 있어 보수적 접근이 권장됩니다.',
+          action: '1개월 후 재측정 후 최종보철 여부 판단',
+          caution: '전치부 즉시 임시보철(provisional)을 사용하는 경우, occlusion off이 되도록 설계하여 측방력을 완전 차단하세요.',
+        };
+      }
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months === 0) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: 'ISQ 65–69 · 0개월',
+          rationale: 'ISQ 65–69의 경계역에 식립 직후(0개월)이면 안정성이 아직 확보되지 않은 상태입니다. 2차 안정성(secondary stability) 형성까지 충분한 치유 기간이 필요합니다.',
+          action: '로딩 연기 — 1–2개월 후 재측정 예약',
+          caution: '경계역 ISQ이므로 재측정 시 부위·골질·임플란트 시스템에 따라 개별 판단이 필요합니다. 상승 추세 확인이 중요합니다.',
+        };
+      }
+
+      // GREEN
+      if (isq >= t.green_min && months >= 2) {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: 'ISQ ≥ 70 · ' + months + '개월 · ' + siteLabel,
+          rationale: 'ISQ ≥ 70은 Sennerby 안전역으로 골유착이 충분히 확립된 상태입니다. 2개월 이상 경과로 2차 안정성이 안정기에 접어들었으며 로딩에 의한 추가 골형성도 기대할 수 있습니다.',
+          action: '즉시 최종보철 진행 가능',
+          caution: site === 'anterior'
+            ? '전치부이므로 초기 교합 시 편심위(protrusive/lateral) 교합 간섭을 최소화하고, 보철 장착 후 2–4주 내 교합 재확인을 권장합니다.'
+            : '구치부는 교합력이 크므로 screw-retained 보철 또는 cement margin 위치를 정확히 관리하세요.',
+        };
+      }
+      if (isq >= t.green_min && months >= 1 && site === 'posterior') {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: 'ISQ ≥ 70 · 1개월 · 구치부',
+          rationale: 'ISQ ≥ 70 안전역에 구치부(교합 하중 분산 유리)이고 1개월 경과로 1차 안정성이 충분히 유지되고 있습니다. 구치부는 전치부에 비해 미적 위험도가 낮아 조기 로딩이 허용됩니다.',
+          action: '즉시 최종보철 진행 가능 (조기 로딩 적응증)',
+          caution: '교합 과부하가 가장 흔한 실패 원인입니다. 중심교합 및 측방 교합 모두 확인 후 보철하세요. 브럭시즘 환자라면 야간 스플린트를 추가 권장합니다.',
+        };
+      }
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 3 && site === 'posterior') {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: 'ISQ 65–69 · ' + months + '개월 · 구치부',
+          rationale: 'ISQ 65–69(경계역)이지만 3개월 이상 경과로 2차 안정성이 충분히 형성되었고, 구치부는 교합력 분산이 용이해 로딩 가능 기준에 도달합니다.',
+          action: '최종보철 진행 가능 — 단, 교합 하중 최소화 설계 권장',
+          caution: '경계역 ISQ이므로 보철 장착 후 1개월 시점에 교합 및 MBL 추적(PA X-ray)을 권장합니다. ISQ 재측정도 고려하세요.',
+        };
+      }
+
+      // YELLOW
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 1 && months <= 2) {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: 'ISQ 65–69 · ' + months + '개월 · ' + siteLabel,
+          rationale: 'ISQ 65–69는 경계역으로, 1–2개월 시점에서는 2차 안정성이 아직 완전히 확립되지 않았을 가능성이 있습니다. 단독 로딩 결정보다는 추가 관찰이 안전합니다.',
+          action: '4–6주 후 재측정 권장 — 상승 추세 확인 후 로딩 결정',
+          caution: site === 'anterior'
+            ? '전치부이므로 로딩 실패 시 연조직 퇴축 위험이 높습니다. ISQ 상승 추세가 확인될 때까지 임시보철(occlusion off)로 유지하세요.'
+            : '구치부라도 경계역에서 조기 로딩은 과부하 위험이 있습니다. ISQ 추세가 안정적이면 3개월 시점에 재평가를 권장합니다.',
+        };
+      }
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 3 && site === 'anterior') {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: 'ISQ 65–69 · ' + months + '개월 · 전치부',
+          rationale: 'ISQ 65–69 경계역에서 3개월 이상 경과했지만, 전치부는 미적 위험도가 높아 추가 안정성 확인이 권장됩니다. Sennerby 안전역(≥70)에 미달이므로 최종 로딩은 신중히 판단해야 합니다.',
+          action: 'ISQ 추세 확인 후 로딩 — 가능하면 70 이상 상승 후 진행',
+          caution: '전치부 보철 장착 후 교합 간섭(protrusive guidance)이 임플란트에 전달되지 않도록 occlusal scheme을 설계하고, 정기적 MBL 모니터링을 실시하세요.',
+        };
+      }
+      if (isq >= t.green_min && months >= 0 && months <= 1 && site === 'anterior') {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: 'ISQ ≥ 70 · ' + months + '개월 · 전치부',
+          rationale: 'ISQ ≥ 70으로 골유착 안전역이지만, 1개월 이하 전치부는 연조직이 아직 성숙하지 않은 상태입니다. 미적 결과와 연조직 안정성을 위해 추가 치유 기간을 두는 것이 권장됩니다.',
+          action: '임시보철(occlusion off) 유지 → 2개월 시점 재평가 후 최종보철 결정',
+          caution: '전치부 즉시 또는 조기 로딩은 연조직 레벨 안정화를 위해 임시보철(provisional)로 연조직 형성 후 최종보철을 권장합니다.',
+        };
+      }
+
+      // Fallback yellow — standard
+      return {
+        level: 'yellow', icon: '⚠️', label: '신중 검토',
+        sublabel: 'ISQ ' + isq + ' · ' + months + '개월',
+        rationale: '현재 ISQ와 경과 기간의 조합은 명확한 기준에 해당하지 않습니다. 추가 임상 판단이 필요합니다.',
+        action: '4–6주 후 재측정 권장',
+        caution: '환자 개별 골질, 골밀도, 임플란트 시스템 특성을 종합적으로 고려하세요.',
+      };
+    }
+
+    // ── WIDE (≥5.0mm) ──
+    if (diam === 'wide') {
+      // RED
+      if (isq < t.yellow_min) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: `ISQ < ${t.yellow_min} — 골유착 불충분 (광폭경)`,
+          rationale: `광폭경(≥5.0mm)에서도 ISQ < ${t.yellow_min}는 골유착이 불충분한 상태입니다. 골접촉 면적이 넓음에도 ISQ가 낮다면 골질 문제나 초기 안정성 부족을 의심해야 합니다(Stoilov 2023).`,
+          action: '로딩 연기 + 원인 파악 — 최소 4–8주 후 재측정',
+          caution: '광폭경 저 ISQ는 불충분한 골밀도 또는 과다 삭제에 의한 피질골 손상일 수 있습니다. 수술 기록 재검토가 필요합니다.',
+        };
+      }
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months === 0) {
+        return {
+          level: 'red', icon: '❌', label: '로딩 보류',
+          sublabel: `ISQ ${t.yellow_min}–${t.yellow_max} · 0개월 (광폭경)`,
+          rationale: `광폭경 경계역(ISQ ${t.yellow_min}–${t.yellow_max})에서 식립 직후(0개월)는 2차 안정성 형성 전입니다.`,
+          action: '로딩 연기 — 1개월 후 재측정 예약',
+          caution: '광폭경은 골 삭제량이 많아 초기 치유 기간이 중요합니다.',
+        };
+      }
+
+      // GREEN — wide
+      // ISQ ≥68, months ≥1, posterior
+      if (isq >= t.green_min && months >= 1 && site === 'posterior') {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: `ISQ ≥${t.green_min} · ${months}개월 · 구치부 (광폭경)`,
+          rationale: `광폭경 안전역(ISQ ≥${t.green_min}) + 1개월 이상 + 구치부 조합으로 로딩 가능 기준에 충분히 도달합니다. 광폭경의 넓은 골접촉 면적이 안정성을 추가로 뒷받침합니다(Stoilov 2023).`,
+          action: '즉시 최종보철 진행 가능 (조기 로딩 적응증)',
+          caution: '광폭경 구치부는 교합 과부하 위험이 특히 높습니다. 중심교합 및 편심위 교합 간섭 모두 확인하세요.',
+        };
+      }
+      // ISQ ≥70, months ≥1, anterior
+      if (isq >= 70 && months >= 1 && site === 'anterior') {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: `ISQ ≥70 · ${months}개월 · 전치부 (광폭경)`,
+          rationale: `광폭경에서 ISQ ≥70 + 1개월 이상은 어떤 부위에서도 로딩 가능으로 판정합니다. 골접촉 면적 우세로 안정성이 충분합니다.`,
+          action: '최종보철 진행 가능',
+          caution: '전치부이므로 편심위 교합 간섭 최소화, 보철 장착 후 2–4주 내 교합 재확인 권장.',
+        };
+      }
+      // ISQ 65-67, months ≥3, posterior
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 3 && site === 'posterior') {
+        return {
+          level: 'green', icon: '✅', label: '로딩 가능',
+          sublabel: `ISQ ${t.yellow_min}–${t.yellow_max} · ${months}개월 · 구치부 (광폭경)`,
+          rationale: `광폭경 경계역(ISQ ${t.yellow_min}–${t.yellow_max})에서 3개월 이상 + 구치부. 광폭경의 넓은 골접촉 면적이 경계역 ISQ를 보완하여 로딩 기준에 도달합니다.`,
+          action: '최종보철 진행 가능 — 교합 하중 최소화 설계 권장',
+          caution: '경계역 ISQ이므로 보철 후 1개월 내 교합 및 MBL 추적 권장.',
+        };
+      }
+
+      // YELLOW — wide
+      if (isq >= t.yellow_min && isq <= t.yellow_max && months >= 1 && months <= 2) {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: `ISQ ${t.yellow_min}–${t.yellow_max} · ${months}개월 (광폭경)`,
+          rationale: `광폭경 경계역(ISQ ${t.yellow_min}–${t.yellow_max})에서 1–2개월은 2차 안정성이 완전히 확립되지 않았을 가능성이 있습니다.`,
+          action: '4–6주 후 재측정 권장 — 상승 추세 확인 후 로딩 결정',
+          caution: '광폭경 경계역 조기 로딩은 과부하 위험이 있습니다. ISQ 상승 추세 확인 후 결정하세요.',
+        };
+      }
+      if (isq >= t.green_min && isq < 70 && months >= 0 && months <= 1 && site === 'anterior') {
+        return {
+          level: 'yellow', icon: '⚠️', label: '신중 검토',
+          sublabel: `ISQ ${t.green_min}–69 · ${months}개월 · 전치부 (광폭경)`,
+          rationale: `광폭경 안전역(ISQ ≥${t.green_min})이지만 1개월 이하 전치부는 연조직이 아직 성숙하지 않은 상태입니다.`,
+          action: '임시보철(occlusion off) 유지 → 2개월 시점 재평가',
+          caution: '전치부 연조직 레벨 안정화 후 최종보철 권장.',
+        };
+      }
+
+      // Fallback yellow — wide
+      return {
+        level: 'yellow', icon: '⚠️', label: '신중 검토',
+        sublabel: `ISQ ${isq} · ${months}개월 (광폭경)`,
+        rationale: '현재 광폭경 ISQ와 경과 기간의 조합은 추가 임상 판단이 필요합니다.',
+        action: '4–6주 후 재측정 권장',
+        caution: '광폭경 특성, 환자 골질, 임플란트 시스템을 종합 고려하세요.',
+      };
+    }
+
+    // Should never reach here
+    return {
+      level: 'yellow', icon: '⚠️', label: '신중 검토',
+      sublabel: `ISQ ${isq} · ${months}개월`,
+      rationale: '추가 임상 판단이 필요합니다.',
+      action: '재측정 권장',
+      caution: '임상의에게 문의하세요.',
+    };
+  }
+
+  // ── Evaluate and render ──
+  function evaluate() {
+    const { diameter, isq, months, site } = state;
+    const resultCard = document.getElementById('result');
+    const pendingMsg = document.getElementById('pending-msg');
+
+    if (months === null || site === null) {
+      resultCard.classList.remove('visible');
+      pendingMsg.style.display = 'block';
+      return;
+    }
+
+    const res = classify(diameter, isq, months, site);
+    pendingMsg.style.display = 'none';
+    resultCard.classList.add('visible');
+
+    // Badge
+    const badge = document.getElementById('result-badge');
+    badge.className = 'result-badge ' + res.level;
+    badge.innerHTML = `
+      <span class="badge-icon">${res.icon}</span>
+      <div>
+        <div class="badge-text">${res.label}</div>
+        <div class="badge-sub">${res.sublabel}</div>
+      </div>
+    `;
+
+    document.getElementById('result-rationale').textContent = res.rationale;
+    document.getElementById('result-action').textContent = res.action;
+    document.getElementById('result-caution').textContent = res.caution;
+    document.getElementById('result-context').textContent = '📐 ' + DIAM_CONTEXT[diameter];
+  }
+
+  // Init
+  evaluate();
+</script>
+</body>
+</html>
