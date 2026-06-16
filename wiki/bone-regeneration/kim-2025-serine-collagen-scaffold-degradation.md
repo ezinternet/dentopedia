@@ -60,5 +60,5 @@ At 40 wt% L-serine, crystalline domain formation and β-sheet enrichment were ob
 ## Related Papers
 
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — clinical SR/MA on GBR collagen membrane outcomes
-- [[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehiscence-rct]] — clinical RCT on non-crosslinked collagen membrane in GBR; premature resorption as clinical problem
+- [[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]] — clinical RCT on non-crosslinked collagen membrane in GBR; premature resorption as clinical problem
 - [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]] — dehydrothermal crosslinked membrane comparison
