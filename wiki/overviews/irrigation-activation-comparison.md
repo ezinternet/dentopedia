@@ -45,6 +45,20 @@ confidence: synthesis
 source: synthesis
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 근관세정·소독 34편 종합. 출발점: 기구는 근관벽의 10–80%를 못 건드리고 형성 후 30–60%가 세균 양성(Siqueira 2018) — 이것이 활성화·화학 소독이 필요한 근본 이유.
+> - 모든 활성화 기법(수동초음파세정 PUI·음파·근첨음압 ANP·XP-endo·레이저·멀티소닉)이 일반 주사기 세정(CNI)보다 우수 — CNI 단독은 비권장.
+> - 임상 근거는 PUI가 최강(Orozco-Gallego 2025 umbrella: 미생물 RD −0.15, 치유 RD −0.09); 근첨 도달은 ANP(EndoVac)가 최선(Kumar 2023 SR+MA) — 단 도달 1위 ≠ 치유 1위.
+> - 고가 멀티소닉(GentleWave)은 PUI 대비 일관된 우위 없음(Varadan 2025·Usta 2026) — 내독소(LPS/LTA) 감소만 유의하게 앞섬, 비용 정당화 약함.
+> - 레이저(Er:YAG PIPS/SWEEPS)는 15편 전원 대리지표 우위·NaOCl 농도↓·술후 불편↓(Fiegler-Rudol 2025)로 '보류→유망' 격상 — 단 outcome RCT는 여전히 부재(Doğan 2024서 12개월 치유 PUI 대비 NS).
+> - 세정액 분업: 차아염소산나트륨(NaOCl)=유기질 용해(무기질 제거 불가) + 킬레이트제=무기질 제거. 표준 EDTA 17%, NaOCl 양립 HEDP, 근첨 도말층엔 7% 말레산(1–3분 한정).
+> - 필수 주의: NaOCl과 EDTA/CHX/QMix 직접 접촉 금지(파라클로로아닐린 PCA 침전) — 사이에 증류수 중간세정 1회 필수.
+> - 모든 세정제가 상아질을 연화·화학변성시킴(Agarwal 2024 SR+MA 44편) → 농도·접촉시간 절제, gel보다 액상 선호.
+> - 내원간(between-visit) 약제는 별개 축이자 선택적 도구(농양·대형병소·재치료): 수산화칼슘(CH)이 1차 표준(~99.5% 미생물 감소·항염), 항생제 페이스트(TAP)는 E. faecalis 표적·통증용(Ardila 2026, Shunmugavelu 2025).
+> - 결과 수준: 단회 vs 다회 내원 치유율 동등~단회 우위(Wong 2015 RCT, Rossi-Fedele 2023); 최종 보철(coronal restoration) 적합도가 최대 예후 인자(Llena 2020); 어떤 활성화·신규 세정제도 outcome-level 임상 이득은 아직 미입증(Gupta 2025, Boutsioukis 2022).
+
 ## One-line Summary
 
 Synthesis of 34 irrigation/disinfection papers: instruments leave 10–80% of canal walls untouched (Siqueira 2018), which is *why* activation matters at all; every activation method (PUI / Sonic / ANP / XP-endo Finisher / laser / multisonic) beats conventional needle irrigation, with PUI carrying the strongest clinical evidence (Orozco-Gallego 2025 umbrella) and ANP (EndoVac) the best working-length reach (Kumar 2023), while the premium GentleWave multisonic system is only inconsistently superior to PUI (Varadan 2025, Usta 2026) and Er:YAG laser activation is the one method that *consistently* improves disinfection and permits lower NaOCl (Fiegler-Rudol 2025); irrigant selection follows NaOCl (organic dissolution) + a chelator (EDTA 17% standard, HEDP for NaOCl-compatibility, 7% maleic acid for apical smear) with an intermediate flush mandatory, while all irrigants measurably soften and chemically alter dentin; on the distinct between-visit medicament axis, antibiotic pastes/TAP are strongest against E. faecalis and CH variable (Ardila 2026) with CH ~99.5% microbial reduction but TAPC/nano better for pain (Shunmugavelu 2025); and at the treatment-outcome level, no activation or novel irrigant has yet proven a clinical/healing benefit (Gupta 2025), single-visit and multi-visit therapy heal equivalently, and coronal restoration quality remains the dominant prognostic factor.
