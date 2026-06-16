@@ -20,6 +20,21 @@ relations:
     target: ho-2025-overview-dentist-patient-communication-quality
 ---
 
+## 한국어 핵심요약
+
+> [!summary] 한국어 핵심요약
+> - 핵심 명제: 치과 상담을 6개 순차 단계(개시→정보수집→설명→공유의사결정→기대정렬→마무리)로 재구성한 흐름(encounter-flow) 통합 — 토픽별 지도가 아닌 "상담이 실제로 어떻게 진행되는가"의 체어사이드 동반자.
+> - 세로 관통 3축: 치과불안(dental anxiety, 관문/gate), 동기면담 (Motivational Interviewing, MI, 행동변화 기법), 환자보고결과 (Patient-Reported Outcome, PRO, 성공 척도).
+> - 커뮤니케이션은 치과의사-환자 관계 (Dentist-Patient Relationship, DPR)의 최대 결정요인 — 신뢰(trust)보다 앞섬(Choi 2024, "communication" 8× > "trust" 6×). [합의수준]
+> - 커뮤니케이션은 특질이 아니라 훈련가능 스킬(26개 × 4 범주, Khalifah 2019 SR 50편)이나 어떤 교육법이 최선인지는 비교근거 부재 → framework 채택+modality 혼합+로컬 측정.
+> - 핵심 thesis: 상담은 임상 내용이 아니라 단계 사이 이음새(seam)에서 실패한다 — 미선별 불안 환자, 전문용어로 가득한 설명, 소셜미디어로 부풀려진 기대, recall로 전환 안 되는 통증 내원.
+> - Phase 0(관문) — 불안·과거 부정경험·기대의 출처를 상담 전 선별: 과거 부정경험이 진료 중 불안을 유의 예측(Pandey 2025, p=0.018), 고불안이면 같은 방문에 Phase 4(결정)까지 밀어붙이지 않는다.
+> - Phase 1-2 — 개시(라포·환자중심·전문용어 배제·비언어), 정보수집(MI 4핵심: 개방형 질문·인정·반영적 경청·요약) — MI는 일반의료 OR 1.55(Lundahl 2013)이나 성인 구강 효과는 약함(Cartes-Velasquez).
+> - Phase 3-4 — 설명(평이한 언어+teach-back으로 구강건강 문해력 장벽 극복)·공유의사결정 (Shared Decision-Making, SDM, option-sensitive 선택에서, Elwyn 2025: "시간 없다/환자가 원치 않는다/그냥 동의서"는 오해).
+> - Phase 5-6 — 기대정렬(소셜미디어로 decouple된 기대 vs 생물학적 현실, Dawood 2025 — 불일치 시 불만·소송·번아웃)·마무리(recall 전환+PRO 측정): 영국 1/3이 통증-only 내원이나 전환 evidence는 거의 비어 있음(Currie 2021, 단 3편).
+> - 한국 적용 미검증: 국민건강보험공단(NHIS) 구강검진이 스코틀랜드 무료검진 레버처럼 작동하는지, Khalifah 26-스킬 taxonomy의 한국 치과대학 커리큘럼 정합성 — 모두 미연구. [미검증]
+> - 팀 훈련 체크리스트: MI 4핵심을 강의가 아닌 역할극으로, 평이한 언어·비언어를 관찰가능 표준으로, 불안 성인은 시술단계 사전고지+마취·드릴링 직전 주의분산, 임플란트/심미 상담은 기대정렬 단계 필수.
+
 > [!note] Part of a larger synthesis → [[behavioral-dentistry-overview]]
 > The master overview maps the behavioral-dentistry category as four parallel axes (MI · communication · PRO · anxiety). This page re-cuts the *same evidence* along a different axis: the **chronological consultation encounter**. It is the "how the consult actually runs" companion to the category map and the [[behavioral-dentistry-decision-ladder]] (which is organized by MI/communication/attendance, not by encounter phase). No new papers — a re-synthesis for chairside use.
 
