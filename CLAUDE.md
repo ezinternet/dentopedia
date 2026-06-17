@@ -102,6 +102,7 @@ All three tiers share the same stem:
 | `sinus-lift/transcrestal` | 상악동거상술·경치조골 | Transcrestal (osteotome/balloon/osseodensification) approaches |
 | `endodontics/eal` | 근관치료·근관장측정 | EAL accuracy, working length, apex locator devices |
 | `endodontics/irrigation` | 근관치료·세정 | Irrigant activation (PUI, ANP, sonic), NaOCl protocols |
+| `endodontics/cold-plasma` | 근관치료·냉플라즈마 | Cold atmospheric plasma (CAP), non-thermal plasma jet, underwater discharge plasma for root canal disinfection; E. faecalis biofilm, ROS/RNS mechanisms, safety |
 | `endodontics/anatomy` | 근관치료·해부 | Canal morphology, access cavity, MB2, CBCT-guided access |
 | `endodontics/diagnosis` | 근관치료·진단 | Pulp & periapical diagnosis — pulp sensibility vs vitality test accuracy, pulpitis diagnosis effectiveness, pediatric pulp testing, periapical lesion etiology/diagnosis (granuloma vs cyst) |
 | `periodontics` | 치주치료 | Periodontal disease, regeneration, SPT |

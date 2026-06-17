@@ -549,6 +549,15 @@ tags: []
 - [[endodontics/irrigation/asgary-2008-endodontic-treatment-large-periradicular-lesion]] — case report: ~25 mm cyst-like periradicular lesion healed by single-visit non-surgical RCT (9-mo full bony regression)
 - [[endodontics/irrigation/llena-2020-outcome-root-canal-treatments-provided]] — Retrospective (585 teeth, 1–6 yr): coronal restoration quality + preoperative status drive RCT periapical healing (~90.9%)
 
+## 근관치료 — 냉플라즈마 (Endodontics: Cold Plasma)
+- [[endodontics/cold-plasma/muniz-2023-nonthermal-plasma-endodontics-review]] — narrative review: non-thermal plasma types, ROS/RNS mechanisms, antimicrobial efficacy and clinical translation in endodontics
+- [[endodontics/cold-plasma/armand-2019-comparison-root-canal-disinfection]] — In vitro head-to-head comparison (n=100 teeth) of He/O₂ cold plasma jet vs. PDT vs. He plasma against E. faecalis biofilm
+- [[endodontics/cold-plasma/li-2015-cold-plasma-efaecalis-biofilm-safety]] — In vitro: AC Ar/O₂ cold plasma 12 min → complete E. faecalis root canal biofilm eradication; superior to Ca(OH)₂/CHX; dentin hardness/roughness unaffected
+- [[endodontics/cold-plasma/kumar-2023-cap-plasma-jet-root-canal-disinfection]] — In-vitro comparison of CAP plasma jet vs NaOCl vs QMix for E. faecalis root canal disinfection (n=210; CAP effective at ≥5 min, inferior to NaOCl)
+- [[endodontics/cold-plasma/asnaashari-2022-cap-calcium-hydroxide-triple-antibiotic-efaecalis]] — in vitro: CAP vs Ca(OH)₂ vs triple antibiotic paste against E. faecalis biofilm
+- [[endodontics/cold-plasma/el-shishiny-2025-ntpp-primary-root-canal-disinfection]] — NTPP vs CHX/diode laser/propolis for primary root canal disinfection (E. faecalis, in vitro; NTPP best: 98.79% CFU reduction)
+- [[endodontics/cold-plasma/lyu-2025-underwater-discharge-plasma-root-canal-rct]] — RCT pilot: underwater discharge plasma as root canal irrigant — efficacy and safety
+
 ## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)
 - [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] — C-shaped canal morphology 30–50% prevalence in Asian populations; buccal concavity minimum dentin thickness creates high perforation risk; conservative instrumentation essential
 - [[endodontics/anatomy/jo-2017-fundamentals-and-clinical-applications]] — Anatomical variation is fundamental constraint, not challenge to overcome; 16+ years experience reveals MORE complexity, not less; realistic expectations and case selection critical
