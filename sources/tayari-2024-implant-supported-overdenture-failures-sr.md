@@ -3,14 +3,20 @@ title: "Risk factors for implant-supported overdenture failures: A systematic re
 authors: Oumaima Tayari, Wissal Slimene, Jamila Jaouadi
 year: 2024
 doi: 10.4103/jips.jips_18_24
-category: prosthetic-materials
+category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tayari-2024-implant-supported-overdenture-failures-sr.pdf
 pdf_filename: tayari-2024-implant-supported-overdenture-failures-sr.pdf
 source_collection: external
 ---
 
+## Why Ingested
+임플란트 지지 피개의치 (Implant-Supported Overdenture, IOD)의 실패 위험인자를 체계적으로 정리한 SR이 기존 wiki에 없어 인제스트. [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]]의 부착 시스템 비교를 보완하는 실패 위험인자 관점을 제공하며, 악궁·임플란트 수·부하 프로토콜별 실패율 벤치마크를 확립.
+
 ## One-line Summary
 PRISMA systematic review (20 studies: 13 RCTs, 1 prospective CT, 3 prospective, 2 retrospective, 1 cross-sectional; 2018–2023) of implant-supported overdenture failures: variables associated with failure include the patient's general condition, edentulous arch (maxilla vs mandible), number of implants, and loading protocol; failures are minimized by careful case selection, regular follow-up, and clinician skill.
+
+## 한줄요약
+체계적 문헌고찰 (20편, 2018–2023): 임플란트 지지 피개의치 실패 위험인자는 전신질환, 상악 vs 하악 악궁, 임플란트 수, 부하 프로토콜이며 — 정기 유지관리와 술자 숙련도로 실패율을 최소화할 수 있다.
 
 ## 1. Document Information
 - **Journal**: Journal of Indian Prosthodontic Society 2024;24(2):109–121
