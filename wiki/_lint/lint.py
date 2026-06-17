@@ -26,8 +26,11 @@ CONFIDENCE_VOCAB = {
 }
 REQUIRED_FIELDS_PAPER = [
     'title', 'authors', 'year', 'date', 'source', 'category',
-    'confidence', 'pdf_path', 'pdf_filename'
+    'confidence'
 ]
+# 아티팩트 필드: PDF 논문 vs PubMed-text 논문(PMC 전문을 .txt로 보관)
+PDF_FIELDS = ['pdf_path', 'pdf_filename']
+TEXT_FIELDS = ['text_path', 'text_filename']
 REQUIRED_FIELDS_OVERVIEW = [
     'title', 'authors', 'year', 'date', 'category', 'confidence'
 ]
@@ -78,6 +81,7 @@ def lint():
 
     src_files = [f for f in os.listdir(SRCS) if f.endswith('.md')]
     pdf_files = [f for f in os.listdir(PAPERS) if f.endswith('.pdf')]
+    txt_files = [f for f in os.listdir(PAPERS) if f.endswith('.txt')]  # PubMed-text 아티팩트
 
     with open(INDEX) as fh:
         index_content = fh.read()
@@ -93,10 +97,11 @@ def lint():
 
     A,B,C,D,E,F,G,H,I,J,K,L,M,N,O,P = [[] for _ in range(16)]
 
-    pdf_stems = {os.path.splitext(f)[0] for f in pdf_files}
+    # 아티팩트 = PDF ∪ TXT(PubMed-text). orphan 판정을 두 형식 모두로 확장.
+    artifact_stems = {os.path.splitext(f)[0] for f in pdf_files} | {os.path.splitext(f)[0] for f in txt_files}
     src_stems = {os.path.splitext(f)[0] for f in src_files}
-    H[:] = sorted(pdf_stems - src_stems)
-    I[:] = sorted(src_stems - pdf_stems)
+    H[:] = sorted(artifact_stems - src_stems)
+    I[:] = sorted(src_stems - artifact_stems)
 
     for root, dirs, files in os.walk(ROOT):
         if any(skip in root for skip in ['/.git', '/.obsidian', '/_lint']):
@@ -132,7 +137,8 @@ def lint():
         elif is_overview:
             req = REQUIRED_FIELDS_OVERVIEW
         else:
-            req = REQUIRED_FIELDS_PAPER
+            is_pubmed_text = fm.get('source_collection', '').strip() == 'pubmed-text'
+            req = REQUIRED_FIELDS_PAPER + (TEXT_FIELDS if is_pubmed_text else PDF_FIELDS)
 
         missing = [k for k in req if k not in fm or is_null(fm.get(k, ''))]
         if missing:
@@ -147,10 +153,13 @@ def lint():
         if conf and not is_null(conf) and conf not in CONFIDENCE_VOCAB:
             K.append((wp_rel, conf))
 
-        # pdf_path / pdf_filename
+        # 아티팩트 path / filename (PDF 또는 PubMed-text의 .txt)
         if not is_overview and not is_nav:
-            pp = fm.get('pdf_path', '')
-            pn = fm.get('pdf_filename', '')
+            is_pubmed_text = fm.get('source_collection', '').strip() == 'pubmed-text'
+            if is_pubmed_text:
+                pp = fm.get('text_path', ''); pn = fm.get('text_filename', '')
+            else:
+                pp = fm.get('pdf_path', ''); pn = fm.get('pdf_filename', '')
             if pp and pn and not is_null(pp) and not is_null(pn):
                 if os.path.basename(pp) != pn:
                     J.append((wp_rel, pp, pn))
@@ -161,7 +170,7 @@ def lint():
                 if not os.path.exists(os.path.join(SRCS, src_field)):
                     F.append((wp_rel, src_field))
 
-            # G: papers file
+            # G: papers file (PDF 또는 TXT 아티팩트)
             if pn and not is_null(pn):
                 if not os.path.exists(os.path.join(PAPERS, pn)):
                     G.append((wp_rel, pn))

@@ -32,9 +32,10 @@ REQUIRED_FIELDS = [
     "source",
     "category",
     "confidence",
-    "pdf_path",
-    "pdf_filename",
 ]
+# 아티팩트 필드: PDF 논문 vs PubMed-text 논문(PMC 전문을 .txt로 저장)
+PDF_FIELDS = ["pdf_path", "pdf_filename"]
+TEXT_FIELDS = ["text_path", "text_filename"]
 
 VALID_CONFIDENCE = {
     "sr+ma", "sr", "rct", "prospective", "retrospective",
@@ -82,36 +83,43 @@ def lint_file(path: str) -> list[str]:
                 first_line = str(e).splitlines()[0]
                 errors.append(f"YAML PARSE FAIL: {path}: {first_line}")
 
+    # 논문 유형 판정
+    conf = fields.get("confidence", "").strip('"').strip("'")
+    is_synthesis = conf == "synthesis"
+    src_coll = fields.get("source_collection", "").strip('"').strip("'")
+    is_pubmed_text = src_coll == "pubmed-text"
+
+    # 필수 아티팩트 필드는 유형별로 다름:
+    #   synthesis   → 없음 (내부 합성 페이지, source 아티팩트 없음)
+    #   pubmed-text → text_path / text_filename (PMC 전문을 .txt로 보관)
+    #   external    → pdf_path / pdf_filename
+    required = list(REQUIRED_FIELDS)
+    if not is_synthesis:
+        required += TEXT_FIELDS if is_pubmed_text else PDF_FIELDS
+
     # Check required fields exist
-    missing = [f for f in REQUIRED_FIELDS if f not in fields]
+    missing = [f for f in required if f not in fields]
     if missing:
         errors.append(f"MISSING {missing}: {path}")
 
     # Check confidence value is valid
-    if "confidence" in fields:
-        conf = fields["confidence"].strip('"').strip("'")
-        if conf not in VALID_CONFIDENCE:
-            errors.append(f"INVALID confidence '{conf}': {path}")
+    if conf and conf not in VALID_CONFIDENCE:
+        errors.append(f"INVALID confidence '{conf}': {path}")
 
-    # synthesis pages (internal, no source PDF) skip pdf_path/pdf_filename checks
-    is_synthesis = fields.get("confidence", "").strip("\"'") == "synthesis"
-
-    # Check pdf_path contains the right base dir (synthesis pages may have null)
-    if "pdf_path" in fields and not is_synthesis:
-        if fields["pdf_path"] in ("null", "None", ""):
-            errors.append(f"EMPTY pdf_path (only allowed for confidence=synthesis): {path}")
-        elif not fields["pdf_path"].startswith("/Users/oracleneo/llm-wiki/papers/"):
-            errors.append(f"BAD pdf_path (must be inside /papers/): {path}")
-
-    # Check pdf_filename matches basename of pdf_path
-    if "pdf_path" in fields and "pdf_filename" in fields and not is_synthesis:
-        if fields["pdf_path"] in ("null", "None", ""):
-            pass  # already errored above (or allowed for synthesis)
-        else:
-            expected_basename = os.path.basename(fields["pdf_path"])
-            if fields["pdf_filename"] != expected_basename:
+    # 아티팩트 path/filename 쌍 검증 (synthesis 면제)
+    if not is_synthesis:
+        path_field, name_field = (
+            ("text_path", "text_filename") if is_pubmed_text else ("pdf_path", "pdf_filename")
+        )
+        if path_field in fields:
+            pv = fields[path_field]
+            if pv in ("null", "None", ""):
+                errors.append(f"EMPTY {path_field}: {path}")
+            elif not pv.startswith("/Users/oracleneo/llm-wiki/papers/"):
+                errors.append(f"BAD {path_field} (must be inside /papers/): {path}")
+            elif name_field in fields and fields[name_field] != os.path.basename(pv):
                 errors.append(
-                    f"pdf_filename mismatch (path={expected_basename}, filename={fields['pdf_filename']}): {path}"
+                    f"{name_field} mismatch (path={os.path.basename(pv)}, filename={fields[name_field]}): {path}"
                 )
 
     return errors

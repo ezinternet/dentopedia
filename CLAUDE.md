@@ -218,6 +218,26 @@ print(text[:12000])
 " "/Users/oracleneo/llm-wiki/papers/{stem}.pdf"
 ```
 
+### Step 1-T — PubMed-text 분기 (PDF 없는 OA/전문)
+
+PubMed MCP `get_full_text_article`로 전문을 받은 경우 PDF가 없다. PDF 복사 대신 받은 전문을 `papers/{stem}.txt`로 저장하고, 그 텍스트로 Step 2·3을 작성한다. PMC 전문은 JATS 기반이라 pypdf 추출본보다 깨끗한 경우가 많다.
+
+sources/·wiki/ frontmatter는 Step 2·3과 동일하되 아티팩트 필드만 교체:
+
+```yaml
+source_collection: pubmed-text   # external(PDF) 대신
+full_text: true                  # 페이월로 초록만 받았으면 false
+pmid: "xxxxxxxx"
+pmcid: "PMCxxxxxxx"             # 없으면 생략
+source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMCxxxxxxx/
+text_path: /Users/oracleneo/llm-wiki/papers/{stem}.txt
+text_filename: {stem}.txt
+# pdf_path / pdf_filename 생략
+```
+
+- `full_text: false`(초록만): Summary·Results를 초록 수준으로만 채우고 본문에 `abstract-only — full text not retrieved` 명시. confidence는 study type 그대로.
+- dedup(Step 0)은 DOI/PMCID grep 그대로. 1:1 매칭·linter는 `.txt`를 PDF와 동등한 아티팩트로 인식한다 (`scripts/lint.py`, `wiki/_lint/lint.py`에 `pubmed-text` 분기 반영, 2026-06-17).
+
 ### Step 2 — Write `sources/{stem}.md`
 
 ```yaml
