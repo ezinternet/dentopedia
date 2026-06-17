@@ -1,0 +1,24 @@
+SOURCE: PubMed Central PMC12734476
+DOI: 10.3390/medicina61122175
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12734476/
+TITLE: Navigating the Treatment Landscape of Odontogenic Sinusitis: Current Trends and Future Directions
+AUTHORS: Silviu Albu, Alexandra Roman
+JOURNAL: Medicina (Kaunas) 2025;61(12):2175
+LICENSE: open access (CC BY, MDPI)
+RETRIEVED: 2026-06-17 via PubMed MCP (get_full_text_article)
+
+=== ABSTRACT ===
+Odontogenic sinusitis (ODS) is a sinus infection induced by dental infections or iatrogenic causes, often underrated and confused with other chronic rhinosinusitis. Narrative review of diagnosis, microbiology, and therapeutic management. ODS usually involves anaerobic bacteria; empirical amoxicillin or amoxicillin-clavulanate are most often used, but antibiotic therapy alone rarely cures the disease. Dental treatment is essential in ODS with oroantral fistulas, infected sinus bone grafts, or implants. Concurrent one-stage dental + endoscopic sinus surgery (ESS) offers the highest success (~97%), reducing reintervention and recurrence. Maxillary antrostomy alone may suffice in uncomplicated ODS. In apical periodontitis-related ODS, recurrence after primary ESS is uncommon short term.
+
+=== KEY DATA ===
+- Narrative review, Jan 2008-Aug 2025; final analysis 6 systematic reviews + 24 clinical studies.
+- ODS = 25-40% of maxillary-sinus CRS; usually unilateral (45-75% of unilateral maxillary clouding on CT). Etiology mostly iatrogenic (65.3% in a 2014 SR), apical periodontitis 25.1%, periodontitis 8.3%.
+- Microbiology: anaerobes (Gram-negative bacilli), beta-lactamase-positive anaerobes higher than other sinusitis. Endodontic-infection bacteria: penicillin/amoxicillin/amox-clav susceptibility 90-100%, clindamycin 73-96%, metronidazole 45-55%, tetracyclines 60%, erythromycin 55%.
+- Empirical therapy: amoxicillin or amox-clav first-line; moxifloxacin/levofloxacin if penicillin-allergic.
+- Antibiotic monotherapy NOT curative for ODS from treatable dental pathology (expert consensus).
+- Dental-only resolution variable: 51.2% (Tomomatsu), 67% (Yoo), 77% (Simuntis) for apical periodontitis; one prospective study only 13% improved with conservative tx (87% needed surgery).
+- Concurrent ESS + dental: ~97-98% success (Kocum n=364 97%; Galli recurrence 5.9%; Molteni <1% in 480).
+- Uncomplicated ODS: maxillary antrostomy (MA) alone achieved 100% resolution incl. frontal involvement (Ungar); Craig multicenter (n=70) MA vs full ESS — similar symptom improvement, slower anterior-ethmoid clearance with MA.
+- Apical periodontitis ODS: low short-term recurrence after primary ESS (Zhao 2.9%; Craig 0/7 without dental tx).
+- Recurrence risk factors: smoking, diabetes, antiresorptive-related osteonecrosis (p=0.0375); higher Lund-Mackay predicts surgery need.
+- Implant/iatrogenic ODS: 79% needed ESS (Kim n=19); rising incidence.

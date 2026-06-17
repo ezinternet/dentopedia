@@ -71,6 +71,7 @@ tags: []
 - [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
 - [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
 - [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
+- [[implants/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 
@@ -931,6 +932,8 @@ tags: []
 - [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Position paper (JKDA 2023, 한양대 OMS Hwang KG): 치과 국소마취 한국 임상진료지침 부재 지적, 가이드라인 제정 필요성·검토 영역 명문화 (페어 — Karm 2023 sedation guideline 해설과 동일 호).
 - [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 근거기반 가이드라인(GRADE): 면역정상 성인 SIP±SAP 항생제 금지(강한 권고), 치수괴사+치근단농양 비권장(조건부) — 1차는 DCDT(치수절단·근관치료·절개배농); 항생제는 즉시 치료 불가(amoxicillin 500mg TID 지연처방)·전신 침범 시만. 치수염=비감염 원리.
 - [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (2,994편→8편): 급성 치성감염 경험적 항생제 요법 거의 모두 임상 성공, 1개 연구는 무항생제=광범위 동일 결과 → 광범위 1차 처방 불필요·좁은 스펙트럼 동등; 성공의 1차 요인은 배농·감염원 제거(치과 치료).
+- [[drug/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — Vavro 2024 (10년 후향, n=744, Clin Oral Investig): 구강안면감염 경험적 항생제 — amox-clav 내성 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 1차 amox-clav 권고, 단 외과적 배농이 우선 (2024)
+- [[drug/chunduri-2012-bacterial-spectrum-orofacial-infections]] — Chunduri 2012 (감수성 연구, n=68, 인도): 구강안면감염 amox-clav 감수성 95–100%(혐기성 100%)·clindamycin 양호, erythromycin 효용 의문 (2012)
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
@@ -1102,6 +1105,7 @@ tags: []
 - [[oral-medicine/lin-2024-odontogenic-maxillary-sinusitis-expert-consensus]] — 중국 다기관 전문가 합의 (20+ 저자, 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; 표준화된 분류·진단·다학제 치료 알고리즘 제시 (Int J Oral Sci 2024)
 - [[oral-medicine/kim-2019-definition-management-odontogenic-maxillary]] — Kim 2019 내러티브 리뷰: 치성 상악동염(OMS) 정의·병인·미생물학(세균 생물막)·CLP/FESS/MESS 수술 비교·구강-상악동 누공 관리; OMS = 만성 상악동염의 30–40% (DOI 10.1186/s40902-019-0196-2)
 - [[oral-medicine/craig-2022-odontogenic-sinusitis-state-art]] — 치과기원 부비동염(ODS) 이비인후과 관점 서술 리뷰: 이중확인 진단체계, 항생제 한계, 치과+ESS 병행 90–100% 해소율, 1차 ESS 옵션 (DOI 10.1002/wjo2.9)
+- [[oral-medicine/albu-2025-treatment-landscape-odontogenic-sinusitis]] — Albu 2025 (narrative review, 6 SR+24편, Medicina): ODS — 경험적 amox/amox-clav 1차지만 항생제 단독 비치료적, 치과 원인 제거 필수, 치과+ESS 병행 ~97% 성공, uncomplicated는 maxillary antrostomy 단독 가능 (2025)
 - [[oral-medicine/de-corso-2022-sinonasal-complications-dental-disease]] — 후향 코호트(262례, Gemelli IRCCS 2015–2022): SCDDT 내시경 비내수술(FESS) 성공률 96.5%, SNOT-22 43.4→6(15일); 원인 55.3% 의인성(임플란트·발치) vs 44.7% 치성; Felisati SCDDT 분류 적용; OAF 동시 처치 가능 (DOI 10.3390/jpm12122078)
 - [[oral-medicine/bisla-2022-odontogenic-infections-maxillary-sinus-changes]] — CBCT 단면연구(213명, 404동): 치주골소실이 상악동 점막비후의 치근단병소보다 강한 예측인자(OR 2.2, p=0.008); 전체 점막변화 49.5% (DOI 10.1016/j.jobcr.2022.08.001)
 - [[overviews/odontogenic-maxillary-sinusitis-overview]] — **Overview** (종합 10편, 2026-06-12): OMS 진단→감염원 제거→FESS 병행→OAF 폐쇄 결정 경로. 인식(만성 상악동염 30–40%·의인성 ~55%)·이중확인 진단(CBCT, 치주골소실 OR 2.2 > 치근단)·감염원 제거 시 90–100% 해소·OAF 크기/타이밍 폐쇄(BFP 우위, 급성 95% vs 만성 67%)

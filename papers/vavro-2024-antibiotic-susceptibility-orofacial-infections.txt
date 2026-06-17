@@ -1,0 +1,20 @@
+SOURCE: PubMed Central PMC11415437
+DOI: 10.1007/s00784-024-05937-3
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11415437/
+TITLE: Antibiotic susceptibility of orofacial infections in Bratislava: a 10-year retrospective study
+AUTHORS: Michal Vavro, Bronislava Dvoranova, Ladislav Czako, Kristian Simko, Branislav Galis
+JOURNAL: Clinical Oral Investigations 2024;28(10):538
+RETRIEVED: 2026-06-17 via PubMed MCP (get_full_text_article)
+
+=== ABSTRACT ===
+Objectives: Analyse causal microbiological agents and their bacterial resistance in orofacial infections requiring hospital admission.
+Methods: 10-year retrospective study, single department, 2014-2023, 744 patients. Resistance to Penicillin, Amoxicillin-Clavulanate, Clindamycin, Metronidazole.
+Results: Most frequent aetiology odontogenic with causal tooth in socket (n=468; 62.9%), then odontogenic post-extraction (n=152; 20.4%), jaw fracture 5.5%, sialadenitis 4.2%, osteonecrosis 3.0%, oncologic 2.3%. 408 (54.8%) extraoral abscess revision. 698 cultivated bacteria in 362 patients. Most frequent: Streptococci (23.2%), Prevotella (11.2%), Parvimonas (9.3%). Resistance per cultivated bacteria: Clindamycin 25.8% (highest), Metronidazole 25.5%, Penicillin 15.3%, Amoxicillin-Clavulanate 4.9% (lowest).
+Conclusions: Orofacial infections mostly odontogenic with causal tooth in socket; high resistance to Clindamycin and Metronidazole. Empirical choice: Amoxicillin-Clavulanate.
+
+=== KEY DATA ===
+- Treatment protocol (study): first-line IV Amoxicillin-Clavulanate 1.2 g q8h + IV Metronidazole 500 mg q8h; penicillin-allergic -> IV Clindamycin 600 mg q8h + Metronidazole. De-escalation per swab.
+- Resistance per PATIENT: Metronidazole-resistant strain 41.4%, Clindamycin 39%, Penicillin 24.6%, Amoxicillin-Clavulanate 7.7%.
+- Post-extraction group: 45.6% of culture-positive had Clindamycin-resistant bacteria.
+- CRP rose ~24.75 mg/l per additional cultivated pathogen (linear, p<0.001). Patients with any resistant strain had higher CRP (158.4 vs 114.4 mg/l, p<0.001).
+- Repeated message: antibiotic choice secondary to surgical drainage/source removal; amox-clav preferred empirical when antibiotics indicated.

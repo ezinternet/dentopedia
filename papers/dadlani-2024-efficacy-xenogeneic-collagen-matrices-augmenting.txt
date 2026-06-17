@@ -1,0 +1,71 @@
+SOURCE: PubMed Central PMC11300508
+DOI: 10.1002/cre2.937
+URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11300508/
+TITLE: Efficacy of Xenogeneic Collagen Matrices in Augmenting Peri-Implant Soft Tissue: A Systematic Review and Meta-Analysis
+AUTHORS: Shashi Dadlani, Betsy Joseph, Sukumaran Anil
+JOURNAL: Clinical and Experimental Dental Research 2024;10(4):e937
+LICENSE: open access (PMC)
+RETRIEVED: 2026-06-17 via PubMed MCP (get_full_text_article)
+
+=== ABSTRACT ===
+Background: Xenogenic collagen matrices (XCMs) are gaining popularity for soft tissue augmentation in dental implants; yet, gaps exist in our understanding of their comparative effectiveness.
+Objective: This systematic review and meta-analysis focuses on studies that utilize soft tissue augmentation techniques for dental implants to improve keratinized mucosa width (KMW), soft tissue thickness (STT), and soft tissue volume (STV). We compared porcine collagen matrices with autogenous grafts when no bone grafts were utilized.
+Materials and Methods: Searched PubMed, Scopus, and the Cochrane Central Register of Controlled Trials for RCTs and CCTs published between January 2013 and July 2023. Primary outcome KMW changes; secondary STT/STV changes. Random- or fixed-effects models; heterogeneity via I2.
+Results: Nine studies in qualitative analysis, six in meta-analysis. No significant intergroup differences (p>0.05) overall, but significant in favor of KMW >= 2 mm. Heterogeneity at 6- and 12-month follow-ups I2 78% and 0%. Pooled mean difference XCM vs autograft -0.96 (-1.71 to -0.21): larger KMW increase in autograft group (p<0.05).
+Conclusions: Collagen matrices are less effective than autogenous grafts at increasing keratinized tissue and STT/STV, but the two techniques yield comparable aesthetic outcomes.
+
+=== FULL TEXT (PMC open access) ===
+
+1 Introduction
+
+Dental implants have revolutionized restorative dentistry. Following tooth extraction, alveolar bone resorption becomes pronounced, especially in the aesthetic zone. Post-extraction bone remodeling can reduce alveolar ridge width by up to 50% within a year (Schropp et al.). Beyond osseointegration, harmonious integration with surrounding soft tissues is equally paramount. Adequate soft tissue thickness (STT) is vital in preventing crestal bone loss, sealing the implant area against bacterial ingress, and achieving aesthetics. A minimum of 2 mm width of keratinized mucosa is requisite to minimize discomfort during brushing, reduce peri-implant inflammation, and regulate plaque. When KMW < 2 mm (DGI/SEPA/Osteology Workshop Group 1 consensus), soft tissue augmentation is recommended.
+
+Connective tissue grafts (CTGs) are the gold standard but carry disadvantages: hemorrhage, palatine artery damage, graft necrosis, limited availability, heightened morbidity. These propelled alternatives such as collagen matrices. Xenogeneic collagen matrices (XCMs) emerged due to availability, volume stability, biocompatibility, ease of use. Evidence supporting XCM superiority over CTG in amplifying STT/STV is sparse. This SR+MA examines XCM efficacy for KMW, STT, STV versus autogenous grafts in the absence of bone grafts, emphasizing porcine collagen matrices.
+
+2 Methodology
+
+Research question (PICO): In patients requiring soft tissue augmentation around dental implants, how efficacious are XCMs in enhancing KMW, STT, STV compared to autogenous grafts in the absence of bone grafts?
+Protocol registered with PROSPERO (CRD42023455643). PRISMA-reported.
+Eligibility: human RCTs and CCTs; follow-up > 6 months; > 10 cases; prospective cohorts; XCM vs autogenous grafts without bone grafts; English; 2013-2023. Excluded: case reports, animal, in vitro, reviews, editorials, consensus, bone grafts, allografts, non-porcine XCM.
+Sources: PubMed, Scopus, Cochrane CENTRAL plus manual/reference search. Selection by S.D. and B.J., third reviewer S.A. for disagreements; EndNote X9.
+Risk of bias: Cochrane RoB tool for RCTs; ROBINS-I for non-randomized.
+Meta-analysis: REVMAN; mean differences with 95% CI; fixed- vs random-effects by heterogeneity (I2); significance p<0.05; funnel/Egger omitted (<10 studies); sensitivity analysis excluding low-quality/unclear-bias studies.
+
+3 Results
+
+Study selection: 1387 records identified; 47 after duplicate removal; 35 full-text assessed; 9 included (qualitative); 6 in meta-analysis (3 excluded for unavailable/incompatible data).
+Study characteristics: 8 RCTs + 1 CCT; sample sizes 14 (Schmitt) to 60 (Cairo; Cosyn); follow-up 6 months to 5 years. Materials predominantly Mucograft; also Fibro-Gide (VCMX), Mucoderm (PADM).
+Included studies (test/control; material; follow-up; key finding):
+- Thoma (Switzerland) RCT VCMX/SCTG 20 (10/10) Fibro-Gide, 5y: similar augmentation, negligible contour change.
+- Qiu (China) RCT XCM+APF/FGG+APF 30 (15/15) Mucograft, 6mo: similar KMW gain but greater XCM shrinkage; XCM less effective for KMT; better aesthetics with XCM+APF.
+- Ramanauskaite (Germany) RCT porcine CM/FGG 32 (15/17) Mucograft, 6mo: FGG wider KT; CM less surgical time and analgesics. (high RoB)
+- Solonko (Spain) RCT APF+CM/APF+FGG 49 (23/26) Mucograft, 1y: FGG greater KMW; CM better pain/analgesic perception.
+- Cosyn (Belgium) RCT CMX/CTG 60 (30/30) Fibro-Gide, 1y: CTG gold standard for STT; CMX considerable resorption risk.
+- Schmitt (Germany) CCT porcine CM/SCTG 14 (7/7) Mucoderm, 6mo: significant early volume reduction; SCTG negligibly superior. (moderate RoB)
+- Huang (China) RCT XCM/FGG 26 (13/13) Mucograft, 6mo: FGG greater KMW and thicker mucosa; comparable aesthetics; XCM less operation time.
+- Thoma (Switzerland) RCT VCMX/SCTG 20 (10/10) Fibro-Gide, 3y: minimal contour/STT change, slight increase both groups.
+- Cairo (Italy) RCT XCM/CTG 60 (30/30) Mucograft, 6mo: CTG more effective for buccal STT; comparable KT at 6mo.
+
+Risk of bias: among RCTs, 7 low, 1 high (Ramanauskaite); non-randomized (Schmitt) moderate.
+
+Meta-analysis:
+- KMW 6mo (random-effects, I2 82%): pooled MD -0.96 (-1.71 to -0.21), favoring autograft (p<0.05).
+- KMW 6mo sensitivity (excluding high-RoB Ramanauskaite, I2 51%): MD -0.61 (-1.11 to -0.10), favoring autograft (p<0.05).
+- STT 6mo (fixed-effects, I2 0%, 5 studies): MD -0.35 (-0.51 to -0.19), favoring autograft (p<0.05).
+- KMW 12mo (fixed-effects, I2 0%): MD -1.16 (-1.78 to -0.54), favoring autograft (p<0.05).
+
+4 Discussion
+
+Autogenous grafts show superior efficacy for KMW and STT/STV vs XCM, consistent with prior MAs (Thoma; Moraschini; Valles) and Montero SR (FGG > substitutes for KMW). Type of autogenous graft matters: CTG (Cairo) yielded KMW parity with XCM whereas FGG (Huang, Ramanauskaite) outperformed XCM. For STT most studies favor autograft at 6-12 months (differences ~0.19-0.30 mm, possibly clinically relevant); longer-term Thoma data suggest comparable STT. Aesthetic outcomes comparable; XCM offers reduced morbidity, analgesic need, and operative time. Graft shrinkage affects both SCTG and matrices; volume loss may stabilize after an initial period. Newer cross-linked VCMX (Fibro-Gide) shows encouraging volume maintenance.
+
+5 Limitations and Strengths
+
+Limitations: predominance of Mucograft (PADM and VCMX underrepresented); many studies use immediate implants with bone grafts (narrowing the no-bone-graft pool); short follow-up in most (only Thoma long-term); two studies excluded from MA increasing heterogeneity; varying STV measurement methodologies. Strengths: rigorous screening; exclusive focus on soft tissue outcomes without bone grafting; mostly RCTs (low RoB); timely inclusion of recent high-impact RCTs beyond Mucograft.
+
+6 Recommendations
+
+Longer follow-up; more RCTs spanning a broader range of collagen matrices (esp. VCMX); studies isolating soft tissue augmentation without bone grafts; better STV instrumentation (digital workflows, intraoral scanners, CBCT); standardization of confounders (smoking, phenotype, implant type, surgical method, graft timing).
+
+7 Conclusions
+
+Collagen matrices were less effective than autogenous grafts at increasing keratinized tissue and STT/STV, with no significant difference in aesthetic outcomes. More RCTs with extended follow-up, larger samples, and head-to-head comparisons of different collagen matrices are needed, particularly studies isolating soft tissue augmentation in the absence of bone grafts.
