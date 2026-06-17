@@ -23,6 +23,7 @@ tags: []
 - [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — Baima 2022 (SR+MA, 16 RCT): 외과적 주위염 표면제염(기계·화학·물리) — 단일 우월 프로토콜 없음(EFP S3 미권고 근거)
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — Ramanauskaite 2023 (Network MA): 주위염 골내결손 GBR 재건 효능 비교(Schwarz 그룹)
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — Jervøe-Storm 2024 (Cochrane SR): 보조 광역학치료(aPDT) 치주·주위염 — 결과수치 본문 보강 필요 [미검증]
+- [[implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol]] — in-vitro(33 implants): 탄산수소나트륨(40µm) vs 에리스리톨(14µm) 에어폴리싱 — 둘 다 바이오필름 동등 제거(OD 0.130/0.129 vs 대조 0.728), 표면손상 적은 에리스리톨 선호
 - [[implants/rosa-2024-do-dental-implants-bone-types]] — Meta-analysis (49 studies, 29,905 implants): type IV bone fails 1.5–1.9× more than types I–III; types I and II equivalent; posterior maxilla highest risk
 - [[implants/saenz-ravello-2023-short-implants-compared-to-regular]] — Umbrella review: short implants (<10 mm) reduce failure, MBL, and biological complications vs. regular implants + bone augmentation in atrophic posterior mandible; evidence certainty low
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — Systematic review (13 studies): cortical bone thickness positively correlates with primary stability (ISQ, IT); bicortical anchorage = highest stability; MBL correlation inconclusive
@@ -74,6 +75,7 @@ tags: []
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
+- [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
 - [[implants/surface/hayashi-2014-hydrocarbon-attenuates-osteoblast-titanium]] — in-vitro · 탄화수소(C/Ti) 농도 의존적 골아세포 억제 — BIC 정체 직접 원인 최초 실증 (J Dent Res 2014)
 - [[implants/surface/minamikawa-2016-long-term-degradation-titanium-biological]] — in-vitro · 티타늄 생물학적 노화 6개월까지 지속; 탄화수소 오염이 친수성보다 주된 구동자 (Materials 2016)
 - [[implants/surface/iwasa-2011-tio2-micro-nano-hybrid-biological-aging]] — in-vitro · TiO2 나노결절 하이브리드 → UV-PF 후 생체활성 7일 유지; 기전은 양전하 지속 (IJN 2011)
@@ -102,6 +104,14 @@ tags: []
 - [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] — 동물실험(쥐, IJN 2012): 나노다형성 결정질 수산화인회석 (Hydroxyapatite, HA) 코팅(Ca/P=1.66, 55% 결정화도) → 골-임플란트 접촉률 (BIC) 및 강도 조기·후기 모두 향상, 연조직 침투 감소; 효과는 임플란트 표면 50 µm 이내로 한정.
 
 ## 임플란트 — ISQ·안정성 (Implant Stability / ISQ)
+- [[implants/isq/turkyilmaz-2008-bone-density-implant-stability-success]] — 후향적(300 implants, 111명): CT 골밀도(HU) ↔ 삽입토크 r=0.77·ISQ r=0.88 강한 상관; 실패군 저HU/토크/ISQ(267HU·21.8Ncm·46.5) vs 성공군(645HU·37.2Ncm·67.1), 3년 생존 93.3%
+- [[implants/isq/debruyne-2017-isq-laser-vibrometry-resonance-frequency]] — in-vitro(20 implants): 레이저 도플러 진동측정으로 공명주파수 포착 후 Osstell 알고리즘 재계산 — 간접 vs 직접 ISQ r=0.99, Osstell ISQ 산출 알고리즘 검증
+- [[implants/isq/shokri-2013-primary-secondary-stability-rfa-mandible]] — 전향적(15 하악 SLA ITI, 10명, 11주 주간 RFA): ISQ 77.2 → 4주 최저 72.1 → 75.6 회복; 4주 이전 부하 불리 가능
+- [[implants/isq/javed-2013-primary-stability-osseointegration-factors-influence]] — narrative review: 1차 안정성 3대 결정인자(골질·임플란트 기하·술식); ISQ>65 양호/<45 위험, 미세동요 50–100µm 임계
+- [[implants/isq/nedir-2004-predicting-osseointegration-primary-stability-rfa]] — 전향적(36명, 106 ITI SLA): RFA는 동요 탐지엔 부정확하나 식립시 ISQ≥49(지연)/≥54(즉시부하)면 1년 골유착 유지 예측
+- [[implants/isq/meredith-1996-quantitative-stability-implant-tissue-rfa]] — 랜드마크(1996): 공명주파수분석(RFA)을 임플란트-조직 계면 안정성 정량화에 최초 도입 — ISQ 척도의 개념적 기원
+- [[implants/isq/mistry-2014-measuring-implant-stability-review-methods]] — narrative review: 안정성 측정 6법(임상감각·타진·역토크·절삭토크·Periotest·RFA/ISQ) 정리; 성공 예측 단일 임계치 없음
+- [[implants/isq/kim-2009-implant-stability-various-implant-systems-clinical]] — 전향적(28명, 45 implants, 3 시스템): ISQ 변화는 시스템 아닌 골질이 결정; 0–6주 급상승(연질골 최대) 후 plateau, 45/45 생존
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ resonance frequency analysis thresholds: ISQ < 60 requires delayed loading; ISQ 60–70 allows early loading with monitoring; ISQ > 70 permits immediate/early loading
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — Review: ISQ 결정 3인자(골질·임플란트-골 접촉·유효 노출 길이); stability dip 원리; ISQ<60 지연부하, >70 즉시부하 가이드
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — 증례보고: UV 광기능화 임플란트(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1-4주 내 조기부하 성공
@@ -185,6 +195,7 @@ tags: []
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 동물(양, n=12 양측 paired, 경추 C2·C3·C4, 0/3/6주): OD vs 표준 — pullout 강도 유의↑(p<0.01), BIC p<0.01·BAFO p=0.024 모두 우수. 척추 hardware 모델로 치과 외삽은 별도 추론
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
+- [[implants/surface/cochran-2002-reduced-healing-iti-sla-surface]] — 전향 다기관(326 SLA ITI, 110명): ~6주(class IV ~12주) 조기수복 — 지대주 성공 99.3%, 1·2년 생존 99.1% — SLA 단축치유 랜드마크
 - [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — Minimally invasive vs. standard implants show biocompatibility equivalence despite surface property differences; consider minimally invasive for space-limited anatomy
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — 후향적(258개 Osstem CA, 62mo): 생존율 97.3%, 성공률 94.2%, MBL 0.074mm — 초친수성 칼슘 표면 장기 우수 예후
 - [[implants/surface/kim-2020-sa-implant-acid-etched-alumina-long-term]] — 후향적(96개 Osstem SA, ≥8yr): 생존율 94.8%; 합병증·MBL>1mm/1yr 모두 유의한 장기 실패 예측인자
@@ -268,6 +279,13 @@ tags: []
 - [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — SR/MA (RCT 5편), **비치과 cross-domain** (Medicine 2019): 슬관절 OA 관절강내 PDRN, HA 대비 1·2개월 통증 우위(4개월 소멸)·기능·안전 동등; PDRN 진통·안전 최고 등급 근거(비치과).
 
 ## 즉시식립 (Immediate Implant)
+- [[immediate-implant/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] — 동물(쥐 구개치근 발치와 모델): 저변형률+PDL 유래 Wnt 반응세포가 즉시식립 골유착 구동, 고변형률→골세포사·흡수; 상악대구치 구개치근와 식립의 생역학적 근거
+- [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 통제 전향(n=30): 가이드 즉시 대구치 상·하악 ISQ 24주 비교 — 양악 1차 ISQ>73, 24주 하악>상악(81.5 vs 78.2, P=0.018), 상악만 2–4주 stability dip
+- [[immediate-implant/deng-2024-posterior-open-wound-healing-immediate-implant]] — 후향 코호트(40 후방 즉시식립): 반응성 연조직(RST) vs 흡수성 콜라겐 스폰지(ACS) 개방창 치유 ~6개월 동등(ACS 색조↑, RST 섬유성 회복↑)
+- [[immediate-implant/vandenbogaerde-2016-two-surfaces-fresh-sockets-immediately-loaded]] — split-mouth RCT(11명, 22 Neoss, 상악 발치와 즉시부하): 친수성 proactive 표면 12주 ISQ 유의 우수(+3.5 vs −0.3, p=0.021), 3년 MBL·생존 95.5% 동등
+- [[immediate-implant/matsuda-2016-3d-alveolar-bone-maxillary-first-molar-cbct]] — CBCT(150 상악 1대구치): 구개치근 첨부가 상악동에 가장 깊이(−2.2mm), 협/구개 골판 1.58/1.34mm, 치근분지-동저 6.51mm; 3등급 IIP 적합도 틀(~32% 금기)
+- [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] — SR+MA(10편, 700 implants): 즉시 vs 지연 식립 생존율 차이 없음(RR 0.99, 95%CI 0.96–1.02, I²=0%; ~97%)
+- [[immediate-implant/gjelvold-2021-immediate-delayed-loading-single-tooth-5year-rct]] — 5년 RCT(n=50, 상악 심미부 단일치): 즉시 vs 지연 부하 생존(100 vs 95.8%)·MBL(−0.50 vs −0.54mm)·심미 동등; 골소실은 흡연이 구동(p=0.021)
 - [[immediate-implant/botticelli-2004-immediate-implant-hard-tissue]] — in-vivo (18 subjects, 21 implants, 4mo re-entry): buccal bone resorbed 56%, lingual/palatal 30%; no membrane/graft; immediate implant does NOT preserve ridge
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — Animal (beagle, SLA, 3mo histology): buccal BIC 2.6mm apical to SLA margin; bundle bone completely resorbs; buccal > lingual resorption; immediate implant cannot prevent ridge remodeling
 - [[immediate-implant/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] — Narrative review (Periodontol 2000 2017): facial wall <1mm in 90% anterior maxilla; bundle bone completely resorbs; 2mm wall required to maintain dimensions; 2/3 resorption within 3 months
@@ -1390,6 +1408,7 @@ tags: []
 - [[overviews/vertical-ridge-augmentation-overview]] — 수직골증대(VRA) 8편 종합 (synthesis, 2026-06-07 신설): 4축 — ①술식별 장기 PBL(Cucchi2024 SR+MA: SBB 0.66<GBR 1.06<Onlay 1.31<Inlay 1.72<distraction 1.81mm) ②차폐재(Cucchi2024 RCT: CAD/CAM Ti-mesh 합병증 비열등, PTFE 재생률 우위) ③collagen membrane 부가 효용 논쟁(Yousefi-Koma2025 SR "불필요" vs Urban2025 RCT 연조직 침투 차단) ④열개 예방=연조직(Kaner2017 STE·Wang2025 무PRI 개방치유, 동물). 상악동 동시 VRA는 지연식립 권고(Kang2019)
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — Socket 치유 생물학 + ARP 비판 5축 (자연치유 biology·overtreatment 논쟁·실패 예측인자·보조 재료·beyond ARP) (synthesis, 2026-05-26): Araujo 2005 2단계 흡수 + Schropp 2003 인간 50% width 손실 baseline + Mardas 2023 overtreatment 비판 + Kang 2025 PBE <1.1mm HR 2.50 + Adams 2022 late xenograft failure; do-ARP counterpart, 미합성 20편 흡수
 - [[overviews/immediate-implant-decision-ladder]] — IIP 5축 (Type 1-4 timing·site·flap/gap/GBR·CTG/provisional/SST·loading). Hamilton 2023 ITI consensus + Meijer 2024 10y RCT + Cosyn SR+MA 시리즈 spine.
+- [[overviews/maxillary-molar-palatal-root-socket-iip]] — 상악 대구치 즉시식립 구개치근와 정착 종합 (11편, 2026-06-17 신설): 격벽 부족(Smith B/C) 시 구개치근와가 1차 대안 정착부 — 해부/적격성(Deporter·Matsuda CBCT), 생역학(Yuan 2018 저변형률+PDL Wnt), 안정성(Witoonkitvanich 상악 2–4주 dip), 상악동 최대제약(구개근 첨부 −2.2mm), 개방창 치유(Deng RST≈ACS), All-on-X cantilever 회피(Yaghmai); 생존 ~97% but 단독정착 직접근거는 case-level
 - [[overviews/socket-shield-technique-overview]] — 소켓실드(SST) 13편 종합 (synthesis, 2026-05-31): 정량 anchor (BBPR 0.32 vs 1.05 mm −70%·MBL 0.39 vs 1.00 mm·PES +1.31, Oliva 2023 sr) + RCT 2편 (Atef 2021 esthetic·Zhang 2026 ortho) + Ji 2025 network MA; 협측 골·미용 우월하나 case-report 우세·장기근거 부족·실드 합병증 4–17% → 숙련자·선별 심미부 한정. immediate-implant-decision-ladder 축4 확장판.
 - [[overviews/implants-clinical-decision-ladder]] — 임플란트 일반 4축 (위험 stratification·디자인·연조직·peri-implantitis). Galarraga-Vinueza 2025 + Rosa 2024 + Yu 2021 spine.
 - [[overviews/periodontics-treatment-ladder]] — 치주치료 4축 (2017 분류·비외과·외과/재생·SPT). EFP S3 + Cochrane + KDA 합의안 spine.
