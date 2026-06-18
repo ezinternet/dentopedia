@@ -9,6 +9,9 @@ tags: [ISQ, RFA, loading-threshold, primary-stability, secondary-stability, stab
 source_papers: 
 confidence: synthesis
 source: synthesis
+source_wiki:
+  - wiki/implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular.md
+  - wiki/implants/isq/kim-2013-implant-stability-retrospective-rfa-isq.md
 ---
 
 ## 한국어 핵심요약
@@ -21,7 +24,7 @@ source: synthesis
 > - 골질별 보정 (Lekholm-Zarb): Type I–III는 표준 임계값 (≥70), **Type IV (상악 구치부)는 ISQ 58–65이 정상 분포**이므로 70 미달이라고 자동 지연 결정 아님. 실패 위험은 Type I 대비 1.92배 (Rosa 2024).
 > - Type IV 보정 수단: 친수성/생체활성 표면이 안정성 딥 (stability dip) 제거 (Canullo 2024), 골밀도화 (Osseodensification, OD)가 Type IV에서 ISQ 상승 최대 (Fontes-Pereira 2023).
 > - 표면처리의 역할: "임계값 자체가 내려간다"가 아니라 "임계값 도달 속도가 빨라진다"가 정확. OD의 ISQ 우위는 일반식립에서 일시적 (3개월에 소멸)이나, 상악동거상 동시식립에서는 확실 (Starch-Jensen 2025 SR+MA).
-> - 안정성 딥: 1차 (기계적) 안정성과 2차 (생물학적) 안정성 사이 2–4주 하락 구간. 전통 SLA·D3/D4 골에서 명확하나 생체활성 나노표면·친수성 표면에서는 거의 없음. 식립시 단일값보다 2–4주 후속 공진주파수분석 (RFA)이 더 신뢰성 높음.
+> - 안정성 딥: 1차 (기계적) 안정성과 2차 (생물학적) 안정성 사이 2–4주 하락 구간. 즉시부하 Brånemark에서 ISQ 70.4→66.4(30일)→68.8(90일) 딥-회복이 전향적으로 문서화됨 (Balshi 2005, n=344). 연조직·구치부·여성에서 딥 더 크고 회복 더 느림. 전통 SLA·D3/D4 골에서 명확하나 생체활성 나노표면·친수성 표면에서는 거의 없음. 식립시 단일값보다 2–4주 후속 공진주파수분석 (RFA)이 더 신뢰성 높음.
 > - 신선 발치와: ISQ가 인공적으로 낮음 (~57 vs 치유골 ~72, Bavetta 2019) → IT 값 (ITV) ≥35 Ncm을 1차 기준으로.
 > - 측정 신뢰성: Osstell 급내상관계수 (ICC)=0.97로 단회 측정 충분, Osstell vs Osseo 100 호환 (r>0.95). SmartPeg 한 번 체결·협설 1회 측정이면 충분 (4방향 평균 불필요).
 > - 6대 임상원칙: ① ISQ ≥70 표준 안전선, ② 즉시부하 ISQ ≥70+IT ≥35 Ncm, ③ 6–8주 조기부하 IT >40 Ncm, ④ D4 골 ISQ 58–65 정상, ⑤ 신선 발치와 ITV 우선, ⑥ 상악동 동시식립 OD 시 ISQ ~10 상승. ISQ 절대 단독 사용 금지.
@@ -146,6 +149,8 @@ ISQ
 
 | 인자 | Dip 정도 | 출처 |
 |---|---|---|
+| 즉시부하 Brånemark (혼합 골질) | **명확한 딥**: 70.4→66.4(30d)→68.8(90d); ~4 ISQ 하락 | Balshi 2005 prospective n=344 |
+| 즉시부하, 연조직·구치부·여성 | 딥 더 크고 회복 더 느림 — 고위험 프로파일 | Balshi 2005 prospective |
 | 전통 SLA, D3/D4 골 | 명확한 하락 (30일·45일 유의 감소) | Canullo 2024 prospective |
 | 생체활성 나노표면, D3/D4 골 | **Dip 거의 없음** (T0=74.57 → T45=74.97) | Canullo 2024 prospective |
 | Neoss ProActive 테이퍼, IT>40Ncm | Dip 없음 | Andreatta 2020 prospective |
@@ -198,7 +203,7 @@ CBCT 치조정 피질골 두께 평가  ← Chatvaratthana 2017 prospective
 경조직+연조직 이식 동반 시 ISQ 향상 + 심미 결과 우수 — Rondone 2024 SR+MA
 ```
 
-근거: Wittneben 2023 (SR) · Bavetta 2019 (retrospective) · Rondone 2024 (SR+MA)
+근거: Wittneben 2023 (SR) · Bavetta 2019 (retrospective) · Rondone 2024 (SR+MA) · Balshi 2005 (prospective n=344): 즉시부하 30일 stability dip 최저점 → 60일 이내 프로토콜 변경 금지, 연조직·구치부·여성에서 더 심함
 
 ### 3.4 상악동거상술 동시식립
 
@@ -278,10 +283,16 @@ T0(식립) 63.8 → T2(3mo) 73.5 → T3(6mo) 74.65 [BBM 이식]
 
 ---
 
+## Related Papers (added 2026-06-18)
+
+- [[implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular]] — prospective (51명, 344 Brånemark, 즉시부하 90d): ISQ 70.4→66.4(30d 딥)→68.8(90d 회복); 연조직·구치부·여성이 고위험 프로파일; 생존율 98.5% — 즉시부하 안정성 딥의 대규모 전향적 문서화.
+- [[implants/isq/kim-2013-implant-stability-retrospective-rfa-isq]] — retrospective (90 Osstem, 72명): ø5mm > ø4mm +5 ISQ (p<0.05), 하악 > 상악 +5 ISQ (p<0.05), 길이 10–13mm 유의 영향 없음; 전 군 ISQ ≥65 달성 → 직경·악궁 위치가 길이보다 ISQ 결정에 더 크게 작용.
+
 ## Related Overviews
 
 - [[overviews/sinus-lift-isq-loading-timing]] — 상악동거상술 술식별 ISQ 궤적과 부하 시기 (이 페이지의 sinus 섹션 확장판)
 - [[overviews/eal-working-length-protocol]] — 근관장측정 (Electronic Apex Locator, EAL) 프로토콜
+- [[overviews/implants-isq-stability-ladder]] — ISQ 측정 도구·임계값·영향 변수 3축 종합 (stability ladder)
 
 ## Wiki Coverage Caveat
 
