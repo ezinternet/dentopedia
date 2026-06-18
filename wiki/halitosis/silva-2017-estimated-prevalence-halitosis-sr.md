@@ -62,4 +62,4 @@ This systematic review and meta-regression analysis (Silva et al., 2017) is the 
 
 ## Related Papers
 
-- [[periodontics/silva-2017-periodontitis-halitosis-systematic-review]] — same research group; SR+MA on periodontitis as a source of halitosis (companion paper)
+- [[halitosis/silva-2017-periodontitis-associated-with-halitosis]] — same research group; SR+MA on periodontitis as a source of halitosis (companion paper)
