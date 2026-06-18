@@ -9,6 +9,7 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — 동물(성견, 6마리): 무피판 임플란트 수술 후 임플란트 주위 점막 혈관 분포율 1.7% vs 피판 1.2% (p<0.05)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
 - [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
@@ -106,6 +107,7 @@ tags: []
 - [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] — 동물실험(쥐, IJN 2012): 나노다형성 결정질 수산화인회석 (Hydroxyapatite, HA) 코팅(Ca/P=1.66, 55% 결정화도) → 골-임플란트 접촉률 (BIC) 및 강도 조기·후기 모두 향상, 연조직 침투 감소; 효과는 임플란트 표면 50 µm 이내로 한정.
 
 ## 임플란트 — ISQ·안정성 (Implant Stability / ISQ)
+- [[implants/isq/balshi-2005-rfa-immediately-loaded-maxillary-mandibular]] — 전향적(344 Brånemark, 90d): ISQ dip(70.4→66.4 at 30d)→회복(68.8); 연조직·구치부·여성 위험; 생존율 98.5%
 - [[implants/isq/kim-2013-implant-stability-retrospective-rfa-isq]] — 후향적(90 Osstem, 72명): ø5mm·하악이 ISQ ~5 유의하게 높음; 길이(10–13mm) 효과 비유의; 모든 군 ISQ 65 초과
 - [[implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability]] — in-vitro(Osstell SmartPeg): 400회 반복측정·6가지 소독법 후 ISQ 변화 없음; 자기손실 임계 150°C — 임상 autoclave(132°C) 안전
 - [[implants/isq/turkyilmaz-2008-bone-density-implant-stability-success]] — 후향적(300 implants, 111명): CT 골밀도(HU) ↔ 삽입토크 r=0.77·ISQ r=0.88 강한 상관; 실패군 저HU/토크/ISQ(267HU·21.8Ncm·46.5) vs 성공군(645HU·37.2Ncm·67.1), 3년 생존 93.3%
@@ -848,6 +850,7 @@ tags: []
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — 외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
 
 ## 레진접착 (Resin Bonding)
+- [[resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin]] — In vitro(µ-TBS+SEM): Clearfil SE Bond 최고 결합강도·혼성층 품질; 단일단계 E&R은 최고 나노누출 — 혼성화 품질이 결합강도 직접 예측
 - [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]] — Saliva exposure >1 second significantly reduces ceramic-resin bond strength (p < 0.05); pre-try-in silane application or post-contamination reapplication under rubber dam isolation essential; moisture control non-negotiable
 - [[resin-bonding/tay-2003-dentin-adhesives-hydrophilic]] — Narrative review (Tay & Pashley): simplified SE adhesives overly hydrophilic → water blisters, bond degradation, dual-cure incompatibility; 3-step TE most durable
 - [[resin-bonding/daneshkazemi-2013-clearfil-se-bond-mechanical-thermal]] — In vitro: Clearfil SE Bond µTBS ↓ with thermal/mechanical cycling (p<0.001); mechanical effect significant from 100K cycles
