@@ -46,6 +46,7 @@ The clinical question is not "is the robot more accurate?" but "*which* componen
 | Chen 2025 | retrospective | 57 | sa-RASS vs DNS | 3.07° vs 3.71° (NS) | platform 0.91 vs 1.26; apex 1.06 vs 1.51 mm (p<0.001) |
 | Wu 2024 | prospective single-arm | 86 | robot only | 2.56° (no comparator) | coronal 0.61; apical 0.79 mm |
 | Schiavon 2025 | SR+NMA | 338 | static/dynamic CAIS vs freehand | CAIS ≫ freehand | accuracy ranked, immediate placement |
+| **Nava 2026** | **SR+NMA (IIP-specific)** | **780 (IIP)** | **FH/HG/FG-sCAIS/dCAIS/rCAIS** | rCAIS −3.36°, dCAIS −2.66° vs FH | rCAIS −1.43mm apex; rCAIS vs dCAIS platform/apex NS; CINeMA LOW certainty |
 
 ## Clinical Decision Points
 - **Angular-critical cases** (parallelism in multi-implant, tight inter-radicular, prosthetically driven angulation): autonomous robot offers the clearest, most reproducible benefit. [합의수준]
@@ -53,10 +54,22 @@ The clinical question is not "is the robot more accurate?" but "*which* componen
 - **Interpreting vendor accuracy claims**: demand same-tracker comparisons. Cross-system deviation gaps overstate the robot effect. [근거강함, Wei RCT]
 - **Semi-autonomous vs fully autonomous**: keeping the operator in the loop trades away angular gain — match robot autonomy level to the accuracy component you need.
 
+## IIP-Specific NMA (Nava 2026) — 즉시식립 context 보완
+
+[[digital-workflow/nava-2026-guided-surgery-immediate-implant-accuracy-nma]] (Clin Oral Implants Res 2026, SR+NMA, 18연구·780 IIP)는 **즉시식립 한정** guided surgery NMA로, 이 overview의 healed-ridge 중심 근거와 context가 다르다.
+
+핵심 결과 (발치와 즉시식립 특이적):
+- **모든 guided 프로토콜이 freehand 대비 각도·플랫폼·첨부 편차 유의 감소** — "guided > FH"는 IIP에서도 강력히 유지됨. 발치와의 빈 공간이 FH 드릴을 최소저항 경로로 유도하므로 IIP일수록 guided 이득이 더 크다.
+- 순위: rCAIS > dCAIS > FG-sCAIS > HG-sCAIS > FH (angular/apex 기준)
+- rCAIS vs dCAIS: 플랫폼·첨부 편차 통계적 유의차 없음 → robotic 우위는 IIP에서도 잠정적
+- RCT-only 민감도분석에서 guided 간 차이 불명확, rCAIS 제외 → CINeMA LOW certainty
+
+[claude해석]: Healed-ridge NMA(Schiavon 2025)와 IIP NMA(Nava 2026)가 같은 결론 — "guided가 FH보다 낫다, robotic이 dynamic보다 낫다는 결론은 잠정적". IIP에서 freehand를 피해야 하는 추가 근거가 Nava 2026으로 생겼다.
+
 ## Gaps & Future Research
 - No data linking deviation differences to hard outcomes (osseointegration, MBL, prosthetic fit, survival).
 - Small RCT n; single-tooth focus; learning-curve not isolated; no cost-effectiveness.
-- Complex/full-arch and immediate-placement robotic accuracy under-studied.
+- IIP-specific robotic accuracy: Nava 2026이 NMA를 제공했으나 rCAIS RCT 없어 certainty LOW — IIP+robot RCT 필요.
 
 ## Related Papers
 - [[digital-workflow/yu-2025-autonomous-robotic-versus-dynamic-navigation]] — robot vs nav, largest deviation gap
