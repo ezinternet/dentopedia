@@ -9,6 +9,7 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
 - [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
 - [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — Alenezi 2025 (SR+MA, 7 RCT/393pt): short(<8mm) vs long+SFE 위축 상악; MBL −0.26mm·biologic OR 0.39 short 우위, 생존 동등 (2025)
@@ -105,6 +106,8 @@ tags: []
 - [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] — 동물실험(쥐, IJN 2012): 나노다형성 결정질 수산화인회석 (Hydroxyapatite, HA) 코팅(Ca/P=1.66, 55% 결정화도) → 골-임플란트 접촉률 (BIC) 및 강도 조기·후기 모두 향상, 연조직 침투 감소; 효과는 임플란트 표면 50 µm 이내로 한정.
 
 ## 임플란트 — ISQ·안정성 (Implant Stability / ISQ)
+- [[implants/isq/kim-2013-implant-stability-retrospective-rfa-isq]] — 후향적(90 Osstem, 72명): ø5mm·하악이 ISQ ~5 유의하게 높음; 길이(10–13mm) 효과 비유의; 모든 군 ISQ 65 초과
+- [[implants/isq/won-2008-smartpeg-sterilization-rfa-implant-stability]] — in-vitro(Osstell SmartPeg): 400회 반복측정·6가지 소독법 후 ISQ 변화 없음; 자기손실 임계 150°C — 임상 autoclave(132°C) 안전
 - [[implants/isq/turkyilmaz-2008-bone-density-implant-stability-success]] — 후향적(300 implants, 111명): CT 골밀도(HU) ↔ 삽입토크 r=0.77·ISQ r=0.88 강한 상관; 실패군 저HU/토크/ISQ(267HU·21.8Ncm·46.5) vs 성공군(645HU·37.2Ncm·67.1), 3년 생존 93.3%
 - [[implants/isq/debruyne-2017-isq-laser-vibrometry-resonance-frequency]] — in-vitro(20 implants): 레이저 도플러 진동측정으로 공명주파수 포착 후 Osstell 알고리즘 재계산 — 간접 vs 직접 ISQ r=0.99, Osstell ISQ 산출 알고리즘 검증
 - [[implants/isq/shokri-2013-primary-secondary-stability-rfa-mandible]] — 전향적(15 하악 SLA ITI, 10명, 11주 주간 RFA): ISQ 77.2 → 4주 최저 72.1 → 75.6 회복; 4주 이전 부하 불리 가능
@@ -617,6 +620,7 @@ tags: []
 - [[endodontics/diagnosis/godoi-2025-lps-lta-clinical-features-secondary-endodontic]] — Godoi 2025 · cross-sectional · 재치료 40치: 전 근관서 LPS(5.1 EU/mL)·LTA(537.5 pg/mL) 검출; LPS↑가 큰 치근단 투과상·임상증상·결함 수복과 상관 (DOI 10.1111/aej.12963)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — In vitro (PLOS ONE 2016): 0.9–1.8% NaCl이 hGF 이동 촉진(Cl⁻/FAK/F-actin 경로); 1.8% 최적; 각화세포는 무반응
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — Barahim 2024 · RCT(n=24, 조절형 T2DM stage III 치주염): 오존겔을 SRP 보조로 추가 — 군간 임상차는 없으나 오존군에서 군내 방사선학적 골결손 개선·3개월 PPD 감소·술후 통증 감소 (BMC Oral Health)
 - [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — Lee 2017 · animal(in-vitro 사람 PDLSC + in-vivo rat 발치와): 옥시스테롤 조합(22(S)+20(S)-hydroxycholesterol)이 LXR↔Hedgehog 신호로 PDLSC 골분화·발치와 골재생을 rhBMP-2 동등 수준 유도; BMP-2 대안 후보 (Stem Cell Res Ther)
 - [[periodontics/herrera-2018-acute-periodontal-lesions-periodontal-abscesses]] — Herrera 2018 · narrative-review · 2017 WW 급성 치주병변 분류 — 치주농양(병인별)·괴사성 치주질환(숙주면역)·치수치주복합병변(파절·천공·치주염 유무) (DOI 10.1002/JPER.16-0642)
