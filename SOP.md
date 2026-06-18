@@ -92,6 +92,42 @@ push 후 1~2분, 다음 확인:
 
 ---
 
+## 1-bis. Literature Surveillance — ingest 앞단 (2026-06-19 추가)
+
+섹션 1 ingest가 "손에 든 PDF를 위키로" 넣는 거라면, surveillance는 그 *앞단* — "무엇을 넣을지" PubMed에서 골라 큐를 채운다.
+
+### skill 구성
+
+- `literature-surveillance/` : `SKILL.md` + `scripts/sweep_state.py` + `references/topic-queries.md`
+- 상태·큐: `.surveillance/state.json` (토픽·seen-pmids), `.surveillance/queue.md` (인제스트 대기 목록)
+- skill은 자동 cron이 아님 — 호출 시 1 sweep만 돈다. 정기 자동 실행은 launchd로 깨워야 함 (선택).
+
+### 1 sweep 절차 (Cowork 한 줄: "○○ 토픽 감시 돌려줘")
+
+1. **load** — `python3 scripts/sweep_state.py load` : 토픽셋 + 토픽별 last-run 출력.
+2. **검색** — 토픽별 PubMed `search_articles`. 신규성은 `datetype=edat`(등재일) 기준, 노이즈는 `[tiab]` phrase로 차단.
+3. **dedup** — `sweep_state.py dedup` : seen-pmids·큐에 있는 건 제외하고 신규만.
+4. **OA 판정** — `get_copyright_status`/PMC 링크로 `OA:PMC` / `OA:none` 태깅.
+5. **enqueue** — `sweep_state.py enqueue` : `queue.md` 적립 + seen·last-run 갱신.
+6. 채워진 큐를 섹션 1 ingest 5단계로 넘긴다.
+
+### 토픽 쿼리 (references/topic-queries.md에서 관리)
+
+- phrase(`[tiab]`) 필수. 풀어 쓰면 노이즈 유입 — 실측: IIP를 풀어 쓰면 32건 중 12건이 osseodensification·ridge mesh 등 무관 논문.
+- implant은 4세분(iip / loading / soft-tissue / grafting), ptyp는 state.json에서 RCT+SR+MA로 관리.
+- PubMed가 IIP를 `Immediate Dental Implant Loading[MeSH]`로 색인 → 식립(IIP)/즉시부하(IIL) 섞임, abstract에서 한 번 더 분리.
+
+### 내 손 vs Claude
+
+- **너**: 트리거 한마디 → 시범 1건 포맷 확인 → **git push** (게시는 항상 수동).
+- **Claude**: 검색·dedup·OA판정·큐 적립 + (ingest 단계) 풀텍스트·sources/wiki 작성·PDF 다운로드·index·lint.
+
+### OA 미확보 처리
+
+PMC 없는 건(Elsevier·JOMI 등)은 Unpaywall·self-archive를 더 탐색 → 안 되면 보류. 불법 경로(Sci-Hub 등) 금지.
+
+---
+
 ## 2. 자동화 수준별 옵션
 
 | 옵션 | 사용자 작업 | Trade-off |
@@ -381,4 +417,4 @@ gh run list --workflow=deploy-pages.yml --limit 3   # gh CLI 설치 시
 
 ---
 
-마지막 업데이트: 2026-05-21
+마지막 업데이트: 2026-06-19 (1-bis Literature Surveillance 섹션 추가)
