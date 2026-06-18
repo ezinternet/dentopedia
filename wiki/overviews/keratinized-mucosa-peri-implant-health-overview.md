@@ -11,6 +11,9 @@ pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
 tags: [implants, keratinized-mucosa, peri-implantitis, soft-tissue-augmentation, free-gingival-graft, overview]
+source_wiki:
+  - wiki/periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.md
+  - wiki/implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless.md
 relations:
   - type: reinforces
     target: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma
@@ -32,6 +35,8 @@ relations:
 > - 술식 선택 결정트리(Zhang 2025 합의): 하악 잔존 KMW <2 mm → 2차 수술 전 FGG / 2–3 mm → SFGG 또는 FGG / 상악 전치(심미) → SFGG+대체재(색조 불일치 회피) / 상악 구치 → 근단변위피판(ARF, 구개측 KM 충분).
 > - 증대 시점은 식립 시뿐 아니라 유지관리 중에도 효과적·내구적 — 2차 수술 시기가 실용적·생물학적으로 선호 창. 임플란트주위 연조직은 PDL 혈관 결여·저혈관저세포 영역으로 치은보다 취약(Bhatavadekar 2012)해 증대 역치를 낮춰야 함.
 > - 임상 bottom line: 매 recall에서 KM 측정, <2 mm이면서 병적 징후 동반 시 증대. 하악 <2 mm 부위는 2차 수술 후가 아니라 전(前)에 FGG 시행.
+> - 수술 방식 선택: 무피판 임플란트 수술(Flapless Implant Surgery)이 피판 수술 대비 임플란트 주위 점막 혈관단면적 비율(Vessel Fraction, VF) 유의 증가(1.7% vs 1.2%, p<0.05) — 골막상 혈관(Supraperiosteal Vessel) 보존이 기전; 5/12 피판 부위 발적·출혈(BOP) vs 무피판 0 (Kim 2009, 성견 6마리).
+> - 생리식염수(Saline) 세척: 0.9–1.8% NaCl이 치은 섬유아세포(Human Gingival Fibroblast, hGF) 이동(Migration)을 유의 촉진(p<0.05); 활성 이온은 Cl⁻(염소이온) — FAK/F-액틴(F-actin) 경로; 1.8%가 최적, 7.2%는 억제; 각화세포(Keratinocyte)에는 무반응; 임플란트주위 연조직 창상치유 프로토콜에 생물학적 근거 제공 (Huynh 2016, in vitro).
 
 ## One-line Summary
 
@@ -109,6 +114,30 @@ For hard endpoints specifically: the Ravidà TSA correctly identifies that MBL a
 
 For management, the algorithm is well-agreed: measure KM at every recall visit; when <2 mm AND associated with pathological signs, augment. FGG via apically repositioned flap remains the reference standard for KMW gain and the longest documented durability (20 years). Xenogeneic substitutes are a clinically sound, lower-morbidity alternative particularly in esthetic zones. Second-stage surgery is the preferred augmentation window for practical and biological reasons; for mandibular sites with <2 mm residual KM, FGG should precede uncovering, not follow it.
 
+## Peri-implant Soft Tissue Wound Healing & Surgical Technique
+
+Two additional lines of evidence address how peri-implant soft tissue responds to surgical approach and post-operative management — both relevant to achieving and preserving the vascular and cellular milieu that underpins KM health.
+
+### Flapless surgery preserves peri-implant mucosal vascularity (Kim 2009)
+
+The only controlled animal study comparing peri-implant mucosal blood vessel distribution between conventional flap and flapless implant surgery (Kim 2009, 6 mongrel dogs, split-mouth, 12 implant pairs) found significantly richer vascularity at flapless sites after 3 months of healing: vessel fraction 1.7 ± 0.7% vs 1.2 ± 0.3% (p<0.05) and vessel number 51.4 ± 9.2 vs 38.2 ± 8.1 (p<0.05). Clinically, 5/12 flap-procedure sites showed redness and bleeding on probing; flapless sites were uniformly inflammation-free.
+
+The proposed mechanism is dual: (1) flapless surgery preserves the supraperiosteal vessel network — identified by Berglundh et al. 1994 as the primary blood supply to the supracrestal connective tissue — which is severed during mucoperiosteal flap elevation; and (2) the smaller, cleaner punch wound heals with less scar tissue formation; scar tissue is inherently hypovascular. The higher vascularity at flapless sites implies better immune surveillance capacity and is consistent with the clinical absence of BOP at those sites. This evidence reinforces the biological rationale for preferring flapless protocols when bone volume and angulation permit: soft-tissue defense capacity is enhanced, not just convenience.
+
+**Evidence note**: Animal model (canine, n=6); histomorphometric endpoints only; clinical translation requires caution, but mechanism-of-vascularity data are consistent with established vascular anatomy principles.
+
+### Saline rinsing promotes gingival fibroblast wound healing via Cl⁻/FAK pathway (Huynh 2016)
+
+The century-old practice of post-operative saline rinsing has a cellular-level mechanistic basis. Huynh et al. (PLOS ONE 2016, primary human gingival fibroblasts) demonstrated that 3×/day, 2-minute rinsing at 0.9–1.8% NaCl significantly enhances hGF scratch closure and transwell migration (p<0.05 at 0.9%; p<0.01 at 1.8% optimal), without affecting proliferation — the entire benefit is migration-driven. The active mediator is the chloride ion (Cl⁻): KCl replicated the effect while equimolar sodium-phosphate solutions did not. Mechanistically, 1.8% NaCl upregulated COL1 (>3-fold), fibronectin, and FAK mRNA, and induced FAK redistribution to focal adhesion clusters with F-actin stress fibers — the cytoskeletal signature of lamellipodia-driven directed migration. Human oral keratinocytes were entirely unresponsive, indicating fibroblast-specific chloride sensitivity. Concentrations ≥7.2% NaCl are inhibitory.
+
+This study defines a therapeutic window for post-operative rinsing protocols: 0.9–1.8% NaCl (isotonic to mildly hypertonic). Importantly, MMP1, MMP2, and TGF-β were unchanged — saline does not trigger proteolytic overremodeling. For peri-implant soft tissue wound healing, this provides a molecular rationale for incorporating 0.9–1.8% saline rinsing into the post-surgical protocol following KM augmentation procedures (FGG, CTG), where gingival fibroblast migration is critical to wound closure and collagen matrix integration.
+
+**Evidence note**: In vitro only (hGF, scratch/transwell assay); no animal or clinical RCT evidence for peri-implant-specific outcomes. The salt concentration studied is lower than that in commercial saline rinse products, which warrants clinical translation caution.
+
+### Integrating the two: biological chain from technique to wound quality to long-term KM stability
+
+Flapless surgery (Kim 2009) → higher supraperiosteal vascularity → better-perfused wound bed → optimal microenvironment for saline-enhanced fibroblast migration (Huynh 2016) → more efficient wound closure and ECM deposition. While this chain is inferential across two independent studies, it aligns mechanistically with Bhatavadekar 2012's framing of peri-implant soft tissue as a hypovascular-hypocellular zone requiring deliberate management: every measure that increases vascularity or accelerates fibroblast response is additive.
+
 ## Related Papers
 
 - [[implants/peri-implantitis/mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma]] — SR+MA (22 studies, 13,265 implants): OR 2.78 overall; OR 3.68 adjusted; I²=0% with uniform case definition — primary quantitative anchor for peri-implantitis risk axis
@@ -131,3 +160,5 @@ For management, the algorithm is well-agreed: measure KM at every recall visit; 
 - [[implants/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft
 - [[implants/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume (all high bias) — historical anchor for the second-stage window
 - [[implants/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary: soft-tissue substitutes reduce post-op pain/analgesic use/surgery time vs SCTG with equivalent satisfaction — the patient-reported-outcome (PROM) axis
+- [[implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — Animal study (6 dogs, split-mouth): flapless implant surgery produces significantly higher peri-implant mucosal vascularity than flap surgery (vessel fraction 1.7% vs 1.2%, p<0.05); supraperiosteal vessel preservation identified as mechanism — surgical-technique axis for soft-tissue vascular defense
+- [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — In vitro (PLOS ONE 2016, primary hGFs): 0.9–1.8% NaCl rinsing promotes hGF migration via Cl⁻/FAK/F-actin pathway; 1.8% optimal; COL1 >3-fold upregulation; keratinocytes unresponsive; 7.2% inhibitory — post-operative wound management evidence base
