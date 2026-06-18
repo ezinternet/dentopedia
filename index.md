@@ -133,6 +133,7 @@ tags: []
 - [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]] — 후향적(n=200, UCLA): 구강 내 위치(하악>상악) ISQ 가장 유의; 길이 임상 유관 경향(p≈0.08); 직경 NS
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR(Cureus 2023): 골밀도화 드릴링이 다수 연구에서 ISQ·골밀도 높음; 단 RCT 비뚤림위험 높아 해석 주의
 - [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — RCT(n=100, 5가지 골형성 프로토콜): 중속 300rpm이 3개월 ISQ 최고; OD는 일시적 중간기 상승만; 골농축은 ISQ 점진 하락
+- [[implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct]] — RCT(n=54, 완전가이드 즉시식립): deep thread는 식립토크↑(≥40Ncm 비율↑)이나 시계열 ISQ·12개월 MBL 동등, 각도편차는 오히려 유의 증가(MST vs MDT p=0.029, 하악대구치 최악) — 즉시식립 1차안정성은 thread depth보다 국소 해부가 지배 (CIDRR 2026)
 - [[implants/isq/lee-2011-isq-loading-protocol-prediction]] — 전향적(5개월, 아산의료원): ISQ-삽입토크·골밀도 상관; ISQ≥65 → 조기부하 예측 가능
 - [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] — 전향적 임상시험(n=36, D3/D4): 생체활성 나노표면 ISQ 안정 유지 vs 전통 표면 ISQ 딥; 생체활성군 조기부하 가능성 증가
 - [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] — Cross-sectional (85 implants): Osstell ISQ ICC=0.97; single measurement sufficient; SmartPeg I vs II equivalent; mean ISQ 72.4
