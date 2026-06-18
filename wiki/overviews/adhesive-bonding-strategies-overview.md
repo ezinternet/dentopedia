@@ -10,7 +10,9 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, clearfil-se-bond, stamp-technique, overview]
+tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, clearfil-se-bond, stamp-technique, overview, hybridization-quality, nanoleakage, sem]
+source_wiki:
+  - wiki/resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin.md
 ---
 
 ## 한국어 핵심요약
@@ -25,7 +27,8 @@ tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, c
 > - **유니버설/무HEMA 확장(2026-06)**: HEMA/BPA-free 및 2-step 무HEMA 유니버설 접착제는 Clearfil SE Bond 2 수준 내구성 도달 가능(50k thermocycle); 침식 상아질엔 papain 탈단백이 self-etch µTBS 향상·안정화 (Tang 2024, Tsujimoto 2022, Sirirangsee 2025).
 > - **자가접착 레진시멘트**: MDP/CaF 함유 시멘트가 비-MDP보다 지르코니아 결합 우위 (Mahrous 2020).
 > - **임상 ladder**: ①러버댐 격리 1순위(오염이 결합력 결정자) → ②시스템 선택(2-step SE는 오염 내성, 3-step E&R은 장기 µTBS 우위) → ③간접수복 전처리(세라믹 HF+실란, 지르코니아 분사+MDP primer, 3D크라운 분사) → ④오염 시 대응(2-step은 maintain, 1-step은 decontamination).
-> - **확신도**: 축 1·2·3·4 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
+> - **혼성층(hybrid layer) 품질 → µTBS 직접 예측**: SEM 나노누출(nanoleakage)이 낮을수록 즉각 결합강도(µTBS) 높음 — 2-step 자가부식(Clearfil SE Bond) 최우수, 1-step E&R(Adper Single Bond)은 완전한 콜라겐 노출에도 불구하고 최대 나노누출·최저 결합강도 (Salvio 2013, in-vitro). 2-step SE 우위의 기계론적 확증.
+> - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
 
 ## 한줄요약
 
@@ -88,6 +91,19 @@ tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, c
 
 **임상 함의**: 미세 와동·소구열에 효율. 인택트 교합면 + 협소 와동에 적응. 광범위 와동/MOD는 부적합. [미검증]
 
+### 축 6 — Hybridization Quality & Immediate Bond Strength
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin]] | in-vitro (40 molars, 5 adhesives, µ-TBS + SEM nanoleakage) | Clearfil SE Bond(2-step SE, pH 1.9) = 최고 µTBS + 최소 나노누출; Adper Single Bond(1-step E&R) = 최대 나노누출(수지농도 gradient로 인한 다공성 저부); 혼성층 밀폐 품질이 즉각 결합강도를 직접 예측 |
+
+**기계론적 설명**:
+- **2-step SE 우위**: mild pH가 hydroxyapatite를 부분 보존하여 콜라겐 지지 → 잔류 수분 최소 → 단량체 중합 완전
+- **Strong single-step SE 역설**: 깊은 탈회로 E&R 유사하나 이온화 매체(수분)가 중합 방해 → 더 깊은 혼성층에도 불구하고 결합력 열등
+- **E&R 나노누출 기전**: 인산 에칭 상아질에서 수지농도 gradient → 혼성층 저부가 수분 풍부·수지 부족 → 투과성 최고
+
+**임상 함의**: 접착제 평가 시 혼성층 깊이만 보는 것은 불충분 — SEM 나노누출이 결합강도의 더 강한 예측인자. 2-step SE를 오염 내성뿐 아니라 hybridization 품질 면에서도 선호해야 하는 근거. [근거강함 in-vitro]
+
 ## 임상 ladder (접착 전체)
 
 1. **격리** — Rubber dam 1순위. 오염은 결합력 결정자.
@@ -109,7 +125,7 @@ tags: [adhesion, bonding, mdp, silane, saliva-contamination, 3d-printed-crown, c
 - [[overviews/zirconia-types-clinical-selection]] — 지르코니아 본딩
 
 확신도 등급:
-- 축 1·2·3·4 = [근거강함 in-vitro]
+- 축 1·2·3·4·6 = [근거강함 in-vitro]
 - 축 5 stamp = [미검증] (case report)
 
 
