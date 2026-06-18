@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-First systematic review + meta-analysis quantifying PDT efficacy specifically for halitosis using VSC (H2S, CH3SCH3, CH3SH) as outcomes. Establishes the evidence base for PDT as a halitosis management modality. This is a new category (halitosis) with no prior wiki pages — foundational ingest.
+First systematic review + meta-analysis quantifying PDT efficacy specifically for halitosis using VSC (H2S, CH3SCH3, CH3SH) as outcomes. Establishes the evidence base for PDT as a halitosis management modality. Directly relevant to [[halitosis/huang-2022-efficacy-of-probiotics-in]] (probiotics SR+MA) as a complementary management modality comparison — both evaluate non-antibiotic halitosis reduction strategies.
 
 ## One-line Summary
 
