@@ -39,8 +39,8 @@ OPERATIONS_DIRS = {
 # Folders whose outputs MUST cite an `agenda:` (hard rule from CLAUDE.md).
 AGENDA_REQUIRED = {"slides", "interactives", "peer-review"}
 
-# These filenames are exempt from all checks (templates, indices, gitkeep).
-EXEMPT_FILES = {"_template.md", "index.md", "index.html", ".gitkeep"}
+# These filenames are exempt from all checks (templates, indices, gitkeep, auto-generated).
+EXEMPT_FILES = {"_template.md", "index.md", "index.html", ".gitkeep", "overviews-map.html"}
 
 # Allowed status values.
 VALID_STATUS = {"draft", "in-progress", "review", "done", "archived"}
