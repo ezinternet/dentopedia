@@ -6,7 +6,6 @@ date: 2026-06-08
 source: synthesis
 category: overviews
 confidence: narrative-review
-tags: [navigation, home]
 ---
 
 > [!tip] 마지막 배포
