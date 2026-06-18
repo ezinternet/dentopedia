@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-This SR+MA directly addresses the diagnostic validity of halitometers (Halimeter, OralChroma, gas chromatography) versus the gold-standard organoleptic test (OLT) in intra-oral halitosis, establishing the correlation coefficients and ROC-based sensitivity/specificity data needed to evaluate whether objective devices can replace subjective sensory assessment. Foundational paper for the halitosis category — no existing wiki overlap yet.
+This SR+MA directly addresses the diagnostic validity of halitometers (Halimeter, OralChroma, gas chromatography) versus the gold-standard organoleptic test (OLT) in intra-oral halitosis, establishing the correlation coefficients and ROC-based sensitivity/specificity data needed to evaluate whether objective devices can replace subjective sensory assessment. Foundational paper for the halitosis category — supports [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]] (etiology SR) by quantifying the diagnostic limitations of halitometers vs. OLT.
 
 ## One-line Summary
 
