@@ -87,6 +87,41 @@ Adjacent overviews treat the *procedural* yes/no of these variables: [[overviews
 
 **Timing:** Perform soft-tissue augmentation **simultaneously with immediate placement** in high-esthetic-priority cases; no preferable timepoint is established (Thoma 2021 EAO). [합의수준]
 
+## Axis 3 — 차폐막 재료 선택 (biological membrane equivalence, 2026 신규)
+
+즉시식립 GBR 수반 시 차폐막으로 **자가 생물학적 재료 둘을 직접 비교한 RCT**가 2026년 추가되었다.
+
+| Study | Type | n | Comparison | Core finding |
+|---|---|---|---|---|
+| [[immediate-implant/abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct]] | rct (24mo) | 40 (하악 구치 IIP) | **DDBM** vs **e-PRF** membrane (GBR) | ISQ·PPD·MBL·골밀도 전부 군간 NS; 100% 생존. 두 자가막 24개월 동등. |
+
+**임상 시사점**:
+- 하악 구치 즉시식립 GBR에서 **자가 상아질 유래 차폐막(DDBM)**과 **extended PRF(e-PRF) 막**은 24개월 임상·방사선 결과가 동등하다.
+- 이종/합성 차폐막을 피하고 싶은 경우, 두 자가 막 모두 선택지가 된다.
+- 단 각 막의 chairside 준비 시간(상아질 가공 vs 원심분리+가열)이 추가되며, 막 단독 기여분을 isolate한 비-graft 대조가 없어 "막 자체의 기여분"은 이 연구로 단정 불가.
+- n=40·단일기관, 비교적 소규모 근거.
+
+## Axis 4 — 수술 접근(Surgical Access): VST vs 개방형 피판 GBR (Type II socket, 2026 신규)
+
+[[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, n=20, 상악 비구치 Type II socket):
+
+**연구 설계**: 동일 allograft + xenograft + pericardium 막 조건에서 **수술 접근법만** 차이:
+- VST군: 전정부 터널(vestibular tunnel) 접근 — 유두 절개 없음
+- GBR군: open-flap 접근 (통상 GBR)
+
+**결과 요약**:
+| Endpoint | VST | Open-flap GBR | p |
+|---|---|---|---|
+| Buccal bone thickness/height (6mo) | 증가 | 증가 | NS (동등) |
+| PES (6mo) | **12.78±0.83** | 11.56±1.24 | **0.03** |
+| Mesial papilla | 2.00 | 1.44 | 0.01 |
+| Distal papilla | 2.00 | 1.22 | 0.004 |
+
+**임상 시사점 (Axis 4)**:
+- 골 재생량은 접근법과 무관하게 동등 → 심미 영역 Type II socket에서 VST 접근이 **papilla 보존** 측면에서 유리하다.
+- 유두 절개를 피하는 vestibular tunnel이 근·원심 유두 PES를 유의하게 높인다 [근거중간, n=20·6mo].
+- Pericardium 막은 흡수가 빠르므로(4–5주), space maintenance가 중요한 Type II socket에는 느린 흡수성 막이 더 합리적일 수 있음 (저자도 후속 연구 제언).
+
 ## Gaps & Future Research
 
 - Head-to-head autograft vs substitute with 2D/3D volumetric endpoints (Thoma 2021 research priority).
