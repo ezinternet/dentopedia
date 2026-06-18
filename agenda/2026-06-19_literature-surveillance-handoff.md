@@ -34,9 +34,9 @@ literature-surveillance skill을 정식 운영 체계로 올리고(로컬 설치
 - [x] lint 3종 통과 (frontmatter 0 error / PDF↔sources 1:1 / no-wiki 0)
 - [x] SOP.md 1-bis Literature Surveillance 섹션 추가
 - [x] **git push** — pilot 3-tier+SOP는 이미 원격 동기(`origin/main`=로컬 HEAD `114105e`, ahead/behind 0/0, 2026-06-19 확인). 이번 세션 agenda 갱신 커밋만 로컬 ahead → **데스크톱에서 push 1회 필요**(이 샌드박스는 SSH 키 없어 push 차단, HTTPS read만 가능).
-- [ ] skill 3파일 로컬 설치 — **BLOCKED(데스크톱 작업)**: skill 파일이 이 세션 환경(repo·uploads)에 없고, Claude Desktop 사용자 skill 폴더는 샌드박스에서 비접근. Settings > Capabilities 또는 폴더 직접 복사로 본체에서.
-- [ ] `python3 scripts/sweep_state.py init` → `.surveillance/` 생성 — **BLOCKED**: 스크립트 로컬 부재(위 설치 선행).
-- [x] 첫 sweep 기능 검증 — 정식(state.json) 절차는 설치 후. 대신 **수동 sweep 1회로 메커니즘 검증 완료**(아래 Notes 2026-06-19 sweep): 4세분 [tiab]+edat 쿼리 동작, IUD 노이즈 1건 정상 차단, dedup 9건 전부 신규, OA 태깅 완료.
+- [x] skill 파일 로컬 설치 — 2026-06-19 files3.zip 업로드받아 배치: `scripts/sweep_state.py`, `references/topic-queries.md`, 보존본 `skills/literature-surveillance/{SKILL.md,scripts/,references/}`. **남은 1가지**: `SKILL.md`를 Claude Desktop 사용자 skill 폴더에 등록해야 "감시 돌려" 트리거 자동인식 — 이건 데스크톱(Settings > Capabilities)에서. 스크립트·쿼리 운영은 등록 없이도 작동.
+- [x] `python3 scripts/sweep_state.py init` → `.surveillance/` 생성 완료(state.json 시드 토픽 implant/endo/perio + queue.md). ⚠ 스크립트 `DEFAULT_BASE`가 맥 절대경로 하드코딩이라 샌드박스에선 `--base` 필요; 데스크톱(cwd=llm-wiki)에선 기본값 그대로 맞음.
+- [x] 첫 정식 sweep 검증 완료 — dedup→enqueue→status 전 구간 동작. implant 토픽 last_run_edat=2026/06/18 설정, 큐에 ISQ RCT 5건 적립(kwon은 [x] ingested 처리, OA-blocked 4건 [ ] 대기). 수동 sweep 메커니즘도 별도 검증(아래 Notes).
 - [x] OA 보류 2건 처리 결정 — **둘 다 폐기/보류 확정**. Unpaywall 재확인 결과 41456794·40553084 모두 `oa_status: closed`, repository copy 없음, PMC 없음 → 합법 OA 전문 경로 부재(아래 Notes).
 
 # Notes / Decisions

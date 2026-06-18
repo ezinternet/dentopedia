@@ -1,0 +1,38 @@
+{
+  "topics": {
+    "implant": {
+      "query": "(dental implant OR osseointegration OR peri-implantitis)",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/18"
+    },
+    "endo": {
+      "query": "(root canal OR endodontic OR pulp capping)",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": null
+    },
+    "perio": {
+      "query": "(periodontitis OR scaling root planing OR keratinized mucosa)",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": null
+    }
+  },
+  "seen_pmids": [
+    "41163412",
+    "41275475",
+    "41421946",
+    "41455825",
+    "41978331"
+  ]
+}
