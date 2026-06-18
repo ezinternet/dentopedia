@@ -1,0 +1,45 @@
+Source: PubMed Central PMC13077180 (full text, JATS-derived)
+PMID: 41978331 | DOI: 10.1111/cid.70145
+Title: Thread Depth Effects on Stability and Positional Accuracy in Guided Immediate Implants: A Randomized Controlled Trial
+Authors: Kwon Na-Yoon, Jung Ji-Young, Ko Kyung-A, Park Seung-Hyun, Strauss Franz Josef, Lee Jung-Seok
+Journal: Clinical Implant Dentistry and Related Research, 2026 Apr
+Retrieved: 2026-06-19 via PubMed MCP
+
+== ABSTRACT ==
+Objectives: To evaluate the influence of implant thread depth on implant stability and positional accuracy in fully guided immediate implant placement.
+Materials and Methods: Fifty-four patients received a reference tapered (BLT), a standard-thread (MST), or a deep-thread implant (MDT). Fifty-four implants were placed using fully guided surgery and evaluated over 1-year follow-up. Primary outcomes were implant stability (insertion torque, ISQ, ISV). Secondary outcomes included positional accuracy and marginal bone level (MBL) at 12 months.
+Results: Primary and longitudinal stability were comparable across groups. Insertion torque was highest for MDT, followed by MST and BLT (BLT 35.28 ± 11.18; MST 40.00 ± 11.88; MDT 43.89 ± 10.92 Ncm; p = 0.062). A higher proportion of MDT implants achieved insertion torque ≥ 40 Ncm (MDT 14/18; MST 12/18; BLT 8/18). Angular deviation differed among groups (MDT 5.57° ± 3.71°; BLT 4.73° ± 2.46°; MST 3.58° ± 1.81°; p = 0.062). In subgroup analysis comparing implants differing only in thread depth (MST vs MDT), angular deviation was significantly greater for MDT (p = 0.029), particularly in molar sites. At 12 months, MBL did not differ significantly among groups.
+Conclusions: In fully guided immediate implant placement, deeper-thread implants showed higher insertion torque but greater angular deviation, while longitudinal stability and marginal bone levels remained comparable. Deeper-thread designs may be beneficial when enhanced primary stability is required, provided careful angulation control is ensured.
+Trial Registration: KCT0009402 (retrospectively registered).
+
+== KEY DESIGN / RESULTS (extracted from full text) ==
+- Single-blinded RCT, Yonsei University Dental Hospital (IRB 2-2020-0101); Aug 2021–May 2025. CONSORT 2025.
+- n = 54 implants, 3 arms × 18 (BLT reference tapered; MST standard-thread; MDT deep-thread). MST vs MDT = matched, differ only in thread depth (clean thread-depth contrast); BLT = different system/manufacturer (system-level comparator, interpret with caution).
+- Inclusion: immediate placement after extraction, socket allowing ≥ 20 Ncm IT. All self-tapping, tapered, SLA surface.
+- Sample size: G*Power, effect size 0.65, α 0.05, power 95% → 14/group, enrolled 18 for 20% dropout.
+- Fully guided, flapless; CBCT + IOS merge, R2GATE planning (Megagen), non-metal sleeve tripod guide. 3 conversions to freehand (guide instability) excluded from accuracy, retained in ITT stability.
+- Socket management predefined: spontaneous (gap ≤ 2 mm, intact plates) 25.9%; gap-defect graft (gap > 2 mm, no dehiscence) 48.1%; GBR (vertical/combined defect, dehiscence ≥ 3 mm) with BioGide 25.9%. Graft use balanced across arms.
+- Stability: insertion torque (intraop), ISQ (Osstell), ISV (Any-Check damping) at placement, 1/3/6/12 mo. Linear mixed-effects models; no group×time interaction.
+- Demographics: mean age 60.8 ± 12.84; 90.7% non-smoker; 14.8% controlled DM (HbA1c ≤ 6.8%); 63% mandible; 53.7% molar.
+- Outcomes: 1 BLT lost to FU; 3 early failures (MST 1, MDT 2); 10 post-prosthesis ISQ missing (restoration non-removable). All 54 in ITT.
+
+ISQ over time (ITT mean ± SD):
+  BLT: V2 71.33±9.31 → 1mo 74.31±5.94 → 3mo 79.69±6.95 → 6mo 82.46±4.10 → 12mo 80.94±7.06
+  MST: V2 71.89±9.37 → 1mo 74.53±7.26 → 3mo 79.13±3.72 → 6mo 78.33±10.31 → 12mo 83.75±2.30
+  MDT: V2 73.88±6.81 → 1mo 76.91±7.42 → 3mo 79.55±4.55 → 6mo 82.36±6.28 → 12mo 84.73±3.64
+  Group p at every timepoint > 0.30 (no significant difference). Stability rose over time, largest gains 1→3 mo and 3→12 mo.
+
+Positional accuracy (mean ± SD):
+  Horizontal: BLT 1.30±0.80 / MST 1.01±0.51 / MDT 1.13±0.71 (p 0.46)
+  Vertical: BLT 1.04±0.86 / MST 0.64±0.57 / MDT 0.49±0.54 (p 0.12)
+  Angular: BLT 4.73±2.46 / MST 3.58±1.81 / MDT 5.57±3.71 (overall p 0.062; MST vs MDT subgroup p 0.029)
+  4 largest angular deviations (9.20–10.40°) all in MDT, all mandibular molar sites.
+
+MBL at 12 mo (absolute, coronal = negative): BLT −0.40±0.63 / MST −0.68±0.84 / MDT −0.53±0.85 (p 0.65). No mesial/distal differences.
+
+== KEY DISCUSSION POINTS ==
+- In immediate placement, primary stability is driven largely by local socket anatomy (septum, residual walls, apical engagement) rather than thread depth alone; deeper threads only raised the proportion hitting high torque thresholds.
+- Guided surgery kept overall accuracy within reported ranges (entry ~1.2 mm, apex ~1.5 mm, angular 3–5°) even in sockets, partly mitigating socket-related deflection.
+- Deeper threads engage residual palatal/lingual or interradicular septal walls more aggressively → off-axis drift, worst in mandibular molars → need angulation control.
+- MBL stable at 12 mo regardless of thread depth or simultaneous augmentation.
+- Funding: MegaGen Implant Co. + NRF Korea (2022R1A2C2005537). Limitation: socket heterogeneity confounds isolation of thread-depth effect; BLT is system-level comparator only.
