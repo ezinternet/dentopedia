@@ -43,7 +43,7 @@ def main():
     pdfs = {
         _stem_nfc(f)
         for f in os.listdir(PAPERS_DIR)
-        if f.endswith(".pdf")
+        if f.endswith(".pdf") or f.endswith(".txt")
     }
     srcs = {
         _stem_nfc(f)
