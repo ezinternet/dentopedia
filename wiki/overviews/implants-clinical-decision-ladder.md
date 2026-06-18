@@ -12,6 +12,8 @@ pdf_filename: N/A
 source_collection: synthesis
 tags: [implants, peri-implantitis, smoking, bone-type, short-implants, platform-switching, drill-thermal, osseodensification, decision-ladder, overview]
 agenda: agenda/2026-05-27_drug-overview-split.md
+source_wiki:
+  - wiki/implants/seong-2016-external-internal-implant-connection-system.md
 ---
 
 ## 한국어 핵심요약
@@ -27,6 +29,7 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 조직수준 (Tissue-Level) vs 골수준 (Bone-Level): TL이 임플란트주위염에 보호적 경향 (RR 0.59, NS) 이나 MBL은 연결부 종류·biotype에 더 좌우 — 단일 변수로 결정 어려움 (Atieh 2025). [합의수준]
 > - 연조직: 각화점막 (Keratinized Tissue, KT) ≥ 2mm 유지가 임플란트주위 건강의 임계값, <2mm 시 유리치은이식 (FGG)/결합조직이식 (CTG) 추가 (Thoma 2018). [근거강함]
 > - 임플란트주위염 치료 ladder: 점막염 (BoP+, 골소실 없음) → 비외과 (기계적 debridement + CHX) → 재평가, 임플란트주위염 (BoP+, 골소실 ≥2mm) → 비외과 1차 (adjunct 항생제로 PPD 0.6–1.15mm 추가) → 미해소 시 외과 (절제형 또는 재생형).
+> - 연결부 선택: 내부 연결 (Internal Connection, IC) 특히 모스 테이퍼 (Morse taper) 가 외부 육각형 (External Hexagon, EH) 대비 마이크로갭 (microgap) 이 치조정 골에서 멀어져 세균 오염 감소 + 나사 안정성 우수 — 플랫폼 스위칭과 조합 시 변연골소실 (MBL) 최소화 (Seong 2016 대한치과의사협회지 서술리뷰). [합의수준]
 > - 임상 메모: 단일 임플란트 10년 추적에서 인접접촉상실 (Proximal Contact Loss, PCL) 이 흔하므로 "5–10년 사이 보철 조정이 필요할 수 있다"를 환자 설명에 포함한다.
 
 ## 한줄요약
@@ -142,6 +145,12 @@ Risk Tier 결정
 [합의수준] TL 보호 trend 있으나 절대 우위 결론 안 됨. **abutment connection type·BBT·biotype**의 효과가 TL/BL 자체보다 큼.
 
 ### 2-D. Abutment·Connection·다중 임플란트
+
+| Spine paper | Evidence | Key finding |
+|---|---|---|
+| [[implants/seong-2016-external-internal-implant-connection-system]] | narrative-review (KDA 2016) | EH vs IC 전면 비교 — Morse taper IC가 cold-weld 효과로 microgap을 임플란트 내부로 이동시켜 치조정 오염↓, 나사 안정성↑; platform switching 조합 시 MBL 보호 |
+
+[합의수준] **연결부 결정 원칙**: 내부 연결(특히 Morse taper) 우선; 단, 여러 유닛 인상 채득은 EH(transfer type)이 기술적으로 단순한 경우가 있어 case-by-case. 스크류 유지형(screw-retained)이 시멘트 잔류 위험 없이 유지관리에 유리.
 
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — one-piece bending guide
 - [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]] — All-on-4 vs trefoil FEA stress
@@ -373,6 +382,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]]
 - [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]]
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]]
+- [[implants/seong-2016-external-internal-implant-connection-system]]
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]]
 - [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
 - [[implants/ozturk-2026-stress-distribution-anterior-implant-fea]]
