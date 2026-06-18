@@ -211,6 +211,23 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 - 기존 PSTD 1–3 mm는 CTG로 회복 가능; ≥3 mm + 협측 골 결손은 보철 제거 + GBR 필요.
 - AO/AAP 2025 + EFP S3 2023 두 consensus가 *prevention-first*를 명시.
 
+---
+
+## Cluster 6 — 수술 접근법과 유두 보존: VST vs Open-flap (Type II socket) (2026 신규)
+
+[[immediate-implant/ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct]] (BMC Oral Health 2026, RCT, n=20, 상악 비구치 Type II socket, 6mo):
+
+- 동일 graft/막 조건에서 **수술 접근법만 차이** — VST(전정부 터널, 유두 절개 없음) vs open-flap GBR.
+- 협측 골 두께·높이는 군간 동등.
+- **Pink Esthetic Score(PES)**: VST 12.78 vs GBR 11.56 (p=0.03), 근심유두(p=0.01)·원심유두(p=0.004) 유의 우수.
+- **임상 함의**: Type II socket 즉시식립에서 유두 절개를 피하는 VST 접근이 papilla 수준의 PSTD 예방에 추가 이득. 특히 심미 영역 전치부에서 고려 가능 [근거약함, n=20·6mo·소표본].
+
+이를 PSTD 예방 알고리즘에 반영하면:
+| 시나리오 | 1차 권고 |
+|---|---|
+| 상악 전치부 Type II socket (협측 골판 부분 결손, 연조직 intact) | VST + pericardium/slow-resorbable membrane + graft → papilla 보존 우선 |
+| Type II socket, space maintenance 중요 (gap 크거나 fenestration) | Open-flap GBR + collagen/d-PTFE membrane (더 긴 space 유지) |
+
 ## Related Pages
 - [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
 - [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]]
