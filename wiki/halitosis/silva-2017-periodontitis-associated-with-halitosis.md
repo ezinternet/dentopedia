@@ -62,5 +62,5 @@ This 2017 systematic review and meta-regression analysis by Silva et al., publis
 
 ## Related Papers
 
-- [[halitosis/memon-2022-aetiology-associations-halitosis-systematic-review]] — broader etiological SR covering multiple halitosis sources including periodontal disease
+- [[halitosis/memon-2022-aetiology-associations-halitosis-systematic]] — broader etiological SR covering multiple halitosis sources including periodontal disease
 - [[periodontics]] — clinical context of periodontitis disease management and outcomes
