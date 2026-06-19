@@ -1651,6 +1651,7 @@ tags: []
 
 - [[implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — Nikolaos Soldatos 2024 · in-vitro · Temperature Changes (ΔT) in Correlation with Number of Implant Osteotomy Preparations in Human Cadaver Tibiae, Comparing Osseodensification (OD) Burs in Clockwise (CW) versus Counterclockwise (CCW) Mode
 - [[implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] — Maryam Mohammadi 2025 · sr+ma · Primary and secondary stability in implants placed in low-density bone using conventional vs. osseodensification technique: a systematic review and meta-analysis
+- [[implants/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — Kniha 2026 · RCT · Split-mouth RCT (n=20, 12 mo, 16S rRNA): zirconia implants showed higher microbial diversity and less pathogenic taxa at 12 months vs titanium; beta diversity equivalent; no definitive clinical superiority of either material
 
 ### implants/versah-protocols (added 2026-05-28, batch e)
 
@@ -1824,6 +1825,7 @@ tags: []
 ### drug (added 2026-06-19 — 항생제 청지기 SR+MA)
 
 - [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
+- [[drug/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Botelho J et al. 2025 · sr+ma(우산형 고찰) · SR 44편·MA 221개 치주치료 항생제 우산형 고찰: 전신 항생제 CAL 0.3 mm 개선의 통계적 강력 추정치 존재하나 SR 65.6%가 AMSTAR-2 "매우 낮음"으로 전체 근거등급 "약함"; 항생제 스튜어드십(Antimicrobial Stewardship) 지지, 중증/공격성 치주염 한정 사용 권고
 
 
 <!-- BATCH INGEST 2026-06-04: 봉합·창상폐쇄 + 수직 골증대술 + 잔여. NEW category: suture-wound-closure. NEW subcategory: implants/vertical-ridge-augmentation -->
