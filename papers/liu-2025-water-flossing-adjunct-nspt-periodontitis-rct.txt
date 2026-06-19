@@ -1,0 +1,13 @@
+ABSTRACT-ONLY — full text not retrieved (no PMC OA)
+
+Citation: Liu J, Zhou Y, Zhang L, Wang S, Li H, Xu J, Zhao L, Cheng X, Xu X.
+Effects of daily home-use water flossing as an adjunct to non-surgical periodontal therapy in the treatment of stage I-II periodontitis: a 6-month randomized controlled trial.
+Clin Oral Investig. 2025;29(12):567. Published online 2025-11-13.
+West China Hospital of Stomatology, Sichuan University.
+
+PMID: 41225247
+DOI: 10.1007/s00784-025-06639-0
+URL: https://pubmed.ncbi.nlm.nih.gov/41225247/
+
+ABSTRACT (verbatim):
+To evaluate the adjunctive effects of daily home-use water flossing alone or in combination with an herbal mouthrinse on the treatment of stage I-II periodontitis following non-surgical periodontal therapy (NSPT). This 6-month randomized trial was performed in 72 patients with stage I-II periodontitis. These patients underwent full-mouth scaling and subgingival instrumentation and then were randomly assigned to one of three groups: control (toothbrushing), water-flossing (toothbrushing + water flossing), or water-flossing/herb-containing mouthrinse (toothbrushing + water flossing with herb-containing mouthrinse). Periodontal parameters and subgingival plaque samples were collected at baseline and at 1, 3, and 6 months. Subgingival microbiota was analyzed using 16S rRNA sequencing. Water flossing with/without herb-containing mouthrinse resulted in a significant improvement in dental plaque index and periodontal indices. Depletion of Gemella was observed in both water-flossing groups, while the water-flossing/herb-containing mouthrinse group at 6 months showed reduced Aggregatibacter and increased Fretibacterium. Although water flossing combined with herb-containing mouthrinse further altered oral microbiota, it did not provide additional clinical improvement as compared to water flossing alone. Daily home-use water flossing promotes dental plaque control, reduces periodontal inflammation, and contributes to the maintenance of periodontal stability, representing an effective adjuvant measure to improve the clinical outcomes of NSPT. Additional use of herb-containing mouthrinse to water flossing offers limited incremental benefits.
