@@ -122,6 +122,9 @@ ISQ
 | **이식재 종류 (β-TCP vs HA)** | 4개월 이후 ISQ 차이 없음 | Jelusic 2014 |
 | **PRF (무이식)** | 동시식립 시 ISQ 72.6 가능 | Liu 2018 (n=1) |
 | **피질골 두께 ↑** | ISQ ↑ | di-Stefano 2021 |
+| **i-PRF (경치조골 간접법)** | 6개월 ISQ ~70–75 (무이식·정맥혈 대비 유의↑) | Ragher 2025 (n=64, 4-arm RCT) |
+| **NovaBone 합성골 (경치조골 간접법)** | 6개월 ISQ ~76 — i-PRF와 동등(NS) | Ragher 2025 (n=64, 4-arm RCT) |
+| **정맥혈 (venous blood)** | 무이식과 ISQ 동등 — 구조화 피브린 부재로 효과 없음 | Ragher 2025 (n=64, 4-arm RCT) |
 
 ---
 
@@ -167,3 +170,4 @@ RBH 확인
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]]
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]]
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]
+- [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] — 경치조골 간접 상악동거상 4-arm RCT (n=64): i-PRF·NovaBone → 6mo ISQ ≥70; 정맥혈 ≡ 무이식 (ISQ 55–62); 증대재 선택이 ISQ 회복의 결정인자
