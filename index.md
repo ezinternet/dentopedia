@@ -2192,6 +2192,7 @@ tags: []
 - [[implants/isq/rosas-diaz-2023-rfa-mapping-nanostructured-hydroxyapatite]] — Weekly ISQ mapping over 20 wk for nanostructured hydroxyapatite surface (n=21): stability dip wk 2–3, recovery to baseline by wk 8–10 [prospective]
 - [[implants/isq/fu-2023-implant-stability-marginal-bone-level-pilot]] — 2-yr prospective pilot (n=156): bone density & insertion torque dominate MBL prediction; ISQ stabilizes after 6 mo, converges ~74–75 at 24 mo [prospective]
 - [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] — Split-mouth RCT (n=68); modified SLActive vs SLA Bone Level Tapered Roxolid; ISQ equivalent at placement (73.0 vs 72.3) and 8 weeks (75.5 vs 75.9); primary MBL change loading→12m no significant difference (0.04 vs 0.07 mm, p=0.658); 100% survival after loading both groups
+- [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] — RCT (n=64): i-PRF and NovaBone synthetic graft achieve ISQ ~70–76 at 6 months after indirect crestal sinus augmentation vs ISQ ~55–62 for venous blood or no graft; i-PRF equivalent to synthetic graft (Ragher 2025)
 
 ### implants/surface
 - [[implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]] — Plasma-spray amorphous vs partially-crystalline CaP coatings on Ti-6Al-4V plateau implants: equivalent BIC/BAFO at 6 & 12 wk despite differing crystallinity (beagle) [animal]
