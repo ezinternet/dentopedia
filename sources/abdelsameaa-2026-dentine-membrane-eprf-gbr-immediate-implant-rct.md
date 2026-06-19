@@ -10,6 +10,10 @@ pdf_filename: abdelsameaa-2026-dentine-membrane-eprf-gbr-immediate-implant-rct.p
 source_collection: external
 ---
 
+## Why Ingested
+
+[[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]가 즉시 식립 buccal gap의 graft 충전 효과를 다뤘다면, 본 RCT는 gap 충전(allograft)을 양 군에 고정한 채 *차폐막* 변수(자가 DDBM vs e-PRF)만 분리해 비교한다 — 같은 Mansoura/Elsheikh 그룹의 [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] PRF 적용 근거를 차폐막 관점으로 확장하며, 두 자가 생물학적 차폐막이 24개월 동등(둘 다 100% 생존)함을 보강.
+
 ## One-line Summary
 Mansoura Univ RCT (BMC Oral Health 2026, n=40, 하악 구치 즉시 식립 + GBR, 24개월): 자가 DDBM(상아질 유래 차폐막) vs e-PRF 차폐막 — implant stability·PPD·MBL·골밀도 모두 군간 유의차 없음, 둘 다 100% 생존.
 
