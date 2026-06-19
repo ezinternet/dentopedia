@@ -94,6 +94,30 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 ```
 `floss-interdental`의 워터픽 특화 분기. **치과 앵커(AND절) 필수** — `"oral irrigation"` 단독은 비강·창상 세척 등 비치과 문헌을 끌어온다. 교정환자 oral-irrigator RCT/SR이 다수라 중복 ingest 주의(이미 yiamwattana-2025 SR+MA 보유) — 새 각(치주염 보조·임플란트·WF vs 치간칫솔)만 선별.
 
+### implant-primary-stability (초기고정력 / ITV / ISQ · RFA)
+
+**목적**: 임플란트 초기고정력(Primary Stability)·식립토크(Insertion Torque Value, ITV)·ISQ·RFA에 영향을 미치는 변수들을 추적. 기존 `implant` 토픽보다 더 좁은 stability-specific 감시.
+
+```
+("insertion torque"[tiab] OR "primary stability"[tiab] OR "initial stability"[tiab] OR "insertion torque value"[tiab] OR ISQ[tiab] OR "resonance frequency"[tiab]) AND ("dental implant"[tiab] OR implant[tiab] OR osseointegration[tiab])
+```
+
+**노이즈 주의**:
+- `ISQ` 단독은 비치과 두문자어와 겹칠 수 있음 — `AND (dental implant[tiab] OR implant[tiab])` 앵커 필수.
+- `"resonance frequency"` 단독은 물리/공학 문헌 다수 → AND 앵커로 차단됨.
+
+**ptyp**: RCT + SR + MA (volume 적당, 연 30~60건 예상).
+
+**주요 변수 축** (ingest 우선순위 판단 기준):
+1. 골밀도·골질(HU, D1~D4) × ITV / ISQ
+2. 임플란트 매크로 디자인(tapered vs cylindrical, thread depth/pitch/angle) × ITV / ISQ
+3. 오스테오토미 프로토콜(sequential / osseodensification / undersized) × ITV / ISQ
+4. 부위(상악 vs 하악, 전치 vs 구치, 즉시식립 vs 지연) × ITV / ISQ
+5. ITV ↔ ISQ 상관성·해리(ITV 높다고 ISQ 반드시 높지 않음 — 근거 축적 필요)
+6. ITV / ISQ 임계값 × 부하 결정
+
+**라우팅**: `wiki/implants/isq/` + 오버뷰 `implants-isq-stability-ladder` · `isq-loading-threshold`.
+
 ### toothpaste (투쓰페이스트 / dentifrice)
 ```
 (toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])
