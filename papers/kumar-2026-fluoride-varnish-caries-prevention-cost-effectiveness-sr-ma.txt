@@ -1,0 +1,9 @@
+ABSTRACT-ONLY — full text not retrieved (no PMC OA)
+
+Citation: Kumar RS, Gupta A, Sharda S, Bagepally BS, Monga N, Goyal A. Fluoride varnish for preventing dental caries among children: a systematic review and meta-analysis of cost-effectiveness studies. J Dent. 2026;167:106562.
+PMID: 41655831
+DOI: 10.1016/j.jdent.2026.106562
+
+ABSTRACT (verbatim):
+
+Synthesize the incremental net monetary benefit (INMB) of fluoride varnish (FV) application vs other caries preventive interventions in children. Of 836 studies, 23 included. FV compared with oral health education (OHE, n=5), treatment as usual (TAU, n=3), pit and fissure sealant (n=5), toothbrushing (n=5), no intervention (n=7). Only model-based FV studies in high-income countries (HICs), healthcare provider/payer perspective, vs OHE/TAU/no intervention eligible for pooling. Total INMB calculated. Overall meta-analysis FV vs other interventions: total INMB $124.1 (95%CI: -1.3×10, 1.3×10, I²=0%), showing no significant difference in cost-effectiveness between FV and other caries preventive interventions. Searches PubMed/Web of Science/Scopus/Cochrane to January 2024. Risk of bias by modified Economic Evaluations Bias checklist. Two reviewers. Considering limited evidence, cost-effectiveness of FV is uncertain in HICs from healthcare provider/payer perspective. Evidence highlights potential economic value of FV especially in settings lacking robust cost-effectiveness data. PROSPERO CRD42023483985. No funding.
