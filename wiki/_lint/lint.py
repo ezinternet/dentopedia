@@ -22,7 +22,9 @@ INDEX = os.path.join(ROOT, 'index.md')
 CONFIDENCE_VOCAB = {
     'sr+ma', 'sr', 'rct', 'prospective', 'retrospective', 'cross-sectional',
     'case-report', 'in-vivo', 'animal', 'in-vitro', 'narrative-review',
-    'consensus', 'synthesis'
+    'consensus', 'synthesis',
+    'regulation', 'official-qa', 'manual',  # Korean administrative (non-research)
+    'patent',  # patent disclosure (공개/등록특허공보) — primary engineering document
 }
 REQUIRED_FIELDS_PAPER = [
     'title', 'authors', 'year', 'date', 'source', 'category',
