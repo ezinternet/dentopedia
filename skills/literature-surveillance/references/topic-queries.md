@@ -65,3 +65,9 @@ IIP(immediate implant placement)는 핵심어를 풀어 쓰면 osseodensificatio
 ```
 ("burning mouth syndrome" OR "oral lichen planus" OR halitosis OR "topical anesthesia")
 ```
+
+### cracked-tooth
+```
+("cracked tooth"[tiab] OR "cracked teeth"[tiab] OR "cracked tooth syndrome"[tiab] OR "incomplete tooth fracture"[tiab] OR "incomplete crown fracture"[tiab] OR "tooth crack"[tiab] OR "cuspal fracture"[tiab])
+```
+niche 토픽 — RCT/SR/MA 전 기간 누계 ~17건뿐. `[tiab]` phrase 필수("tooth fracture" 단독은 root fracture·외상까지 범람). `"vertical root fracture"`는 별개 entity라 제외. ptyp는 RCT/SR/MA로 좁혀도 연 수건 수준이라 noise 적음. 시드 sweep(2026/06/19): SR+MA 3 + RCT 1 적립. **철회 1건(PMID 38517822, Technol Health Care SR)** 은 screened-seen 처리해 영구 제외.
