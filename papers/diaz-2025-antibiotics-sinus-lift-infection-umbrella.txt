@@ -1,0 +1,149 @@
+Title: Use of antibiotics for prevention and treatment of sinus lift infections: an umbrella review of systematic reviews and meta-analyses
+Authors: Díaz et al.
+PMID: 41413511 | PMCID: PMC12829212 | DOI: 10.1186/s12903-025-07465-2
+Source: PubMed Central (PMC)
+Retrieved: 2026-06-19
+
+Introduction
+
+The maxillary sinus is a pyramid-shaped cavity within the maxillary bone, lined by a thin, specialized mucosa known as the Schneiderian or maxillary sinus membrane (SM), composed of pseudostratified ciliated columnar epithelium. In contrast, the oral mucosa is characterized by a keratinized stratified squamous epithelium, adapted to mechanical stress and bacterial challenges. This histological distinction is significant, as it influences the local immune response, microbial colonization patterns, and ultimately, the susceptibility to infection and the choice of antibiotic (ATB) therapy.
+
+Maxillary sinus floor elevation (SFE) procedures are widely utilized to enhance the vertical bone height in the posterior maxilla, facilitating successful dental implant placement in areas with insufficient native bone volume. The two primary techniques employed are the lateral window approach, first described by Tatum, and the transcrestal (osteotome) technique, introduced by Summers. Additionally, various alternative minimally invasive methods have emerged, including osteotome-mediated SFE with osseodensification, balloon-assisted elevation, and hydraulic pressure techniques, all aimed at minimizing surgical trauma and improving patient comfort. Although these procedures demonstrate high success rates, they are not without potential complications. The most frequently encountered complications include perforation of the SM and infection of the graft.
+
+Infections following SFE are of particular concern due to their potential to result in graft failure, the development of chronic sinusitis, and frequently require surgical intervention. Clinical manifestations include localized swelling, purulent exudate, tenderness, and occasionally systemic symptoms such as fever. Although reported incidence rates vary, reviews suggest a prevalence of infection between 1 and 12% after SFE procedures, emphasizing the need for effective preventive strategies.
+
+ATB prophylaxis has traditionally been employed to mitigate postoperative infections in implant dentistry. However, its routine use in SFE procedures remains controversial. The most frequently prescribed ATBs include Amoxicillin and Amoxicillin-clavulanic acid, owing to their efficacy against common oral and respiratory pathogens. Nevertheless, variations in prescribed regimens—from single preoperative doses to extended postoperative courses—reflect a lack of consensus and standardized protocols. Moreover, the rise of antimicrobial resistance poses additional challenges, urging a critical reassessment of indiscriminate ATB use in dental surgery. Recent studies advocate for risk-based strategies, wherein ATB prophylaxis is designated for patients presenting systemic comorbidities, extensive SFEs, or experiencing intraoperative SM perforations. Complementary strategies, which include advanced surgical techniques, strict aseptic protocols, and thorough patient selection criteria, have shown similar effectiveness in reducing the occurrence of postoperative infections.
+
+Given the heterogeneity of clinical practices and the evolving nature of available recommendations, there remains an urgent need to consolidate and critically appraise current evidence. Although the 2022 Consensus Report of the Spanish Society of Implants (SEI) provided valuable expert-based recommendations on preventive ATB therapy for implant procedures, it did not perform a meta-analytic or methodological evaluation of the available reviews, nor did it quantify evidence certainty or overlap. The present umbrella review (UR), complements that consensus by integrating all systematic reviews and meta-analyses (SR/MAs) published up to 2024 and assessing their methodological rigor (AMSTAR 2), redundancy (GROOVE), and certainty of evidence (GRADE) to identify current gaps and strengthen evidence-based guidance for SFE surgery. Therefore, this UR aims to systematically analyze and synthesize findings from SR/MAs regarding the use of ATBs for the prevention and treatment of infections following SFE procedures, ultimately providing recommendations for evidence-based clinical decision-making.
+
+Materials and Methods
+
+Protocol, registration, and study design
+
+The protocol for this UR was prospectively registered in the PROSPERO database (registration ID: CRD420251061400). The scope, eligibility criteria, data extraction, and analytical approach were defined in advance to ensure methodological transparency and reproducibility.
+
+This UR was conducted in accordance with the PRISMA 2020 statement and cross-checked for compliance with the PRIOR 2022 guideline and the methodological recommendations described in the Cochrane Handbook for SR of Interventions (Chapter V – Overviews of Reviews).
+
+Focus question (PICO)
+
+The review was structured according to the PICO framework:
+- Population: Patients undergoing maxillary SFE procedures
+- Intervention: Systemic antibiotics (prophylactic or therapeutic)
+- Comparator: No antibiotics, placebo, or alternative ATB regimens
+- Outcomes: Infection incidence, implant survival, complications
+
+Eligibility criteria
+
+Inclusion: SR/MAs evaluating systemic ATBs (prophylactic or therapeutic) in human patients undergoing maxillary SFE; outcomes related to infection prevention/management; articles in English, Spanish, German, or Portuguese; no publication date restriction.
+
+Exclusion: Narrative reviews, scoping reviews, conference abstracts, case reports, in vitro or animal studies; reviews not specifically assessing infection-related outcomes in SFE; SR without meta-analytic synthesis unless providing relevant quantitative outcomes.
+
+Information sources and search strategy
+
+Literature search independently performed by four reviewers in the Cochrane Library, PubMed, Ebsco, Scopus, and Web of Science. Last search update: May 5, 2025.
+
+Study selection
+
+Total of 268 records initially identified through electronic database searches. After removing 35 duplicates, 236 articles remained. Following title-abstract-keywords screening, 43 full-text articles were retrieved. Of these, 7 SR and/or MA met the inclusion criteria. Inter-reviewer agreement was high (Cohen's kappa = 0.76).
+
+Data extraction and synthesis
+
+A qualitative synthesis was performed. Quantitative pooling was not performed due to substantial clinical and methodological heterogeneity across included reviews.
+
+Certainty of evidence and overlap among primary studies
+
+GRADE methodology used for certainty of evidence. GROOVE tool applied to evaluate overlap among primary studies using Corrected Covered Area (CCA). Overlap categories: slight (0–5%), moderate (6–10%), high (11–15%), very high (>15%).
+
+Risk of bias assessment
+
+AMSTAR 2 tool used to assess methodological quality and risk of bias.
+
+Results
+
+Study selection
+
+Seven SR/MAs were included: five SRs and two that included MA, published between 2008 and 2024, collectively encompassing 189 primary studies published from 1997 to 2022, including 80 retrospective studies, 46 prospective studies, 27 case series, 26 RCTs, five cohort studies, four clinical trials, and two case-control studies. The total reported sample analyzed more than 18,900 patients with 28,000 implants placed in sinus-augmented areas.
+
+Characteristics of included SR/MAs
+- Four reviews focused on infection prevention
+- Two reviews on infection management
+- One review addressed both aspects
+- Both lateral window and transcrestal SFE techniques assessed
+
+ATB regimens
+- Most common: Amoxicillin or Amoxicillin/Clavulanate (2 g orally 1 h before surgery or 7–10 days postoperatively)
+- Clindamycin (300–600 mg every 6–8 h) for penicillin allergy
+- Some protocols combined ATBs with corticosteroids or NSAIDs
+- IV regimens: ampicillin/sulbactam 3×3 g preoperatively followed by oral continuation
+
+Infection rates
+- Lateral window approach: 1.7–2.9% infection rate (Tan et al. 2008; Pjetursson et al. 2008; Hsu et al. 2022)
+- Transcrestal approach: 0.3–1.0% infection rate
+- Overall range: 0.3% to 11.6% across all included reviews
+- Pjetursson et al. 2008: 2.9% mean (range 0–7.4%), SM perforation rate 19.5%
+- Tan et al. 2008: 0.8% mean (range 0–2.5%) in transcrestal approach
+- Allevi et al. 2022: 36.6% developed sinusitis following implant placement; ESS + medical therapy resolved infection in 94.7% of cases
+- Hsu et al. 2022: lateral SFE infection rate 1.74%, transcrestal 0.31%
+
+Implant survival rates
+- Tan et al. 2008: 92.8% after 2.4 years (transcrestal)
+- Pjetursson et al. 2008: 90.1% after 2.8 years (lateral window)
+- Schiavo-Di Flaviano et al. 2024: 97.0% with SM perforation, 97.7% without
+- Salgado-Peralvo et al. 2023: pooled 98.4%
+- Hsu et al. 2022: 91.0% (max 132 months)
+
+Overlap analysis (GROOVE)
+
+175 unique primary studies across seven SR/MAs. Calculated CCA = 1.33% (slight overlap, 0–5%). Low overlap supports independent evidence contribution of included reviews.
+
+Certainty of evidence (GRADE)
+
+- Primary outcome (ATB effectiveness in preventing postoperative infection): LOW certainty
+- Management of sinus graft infections: VERY LOW certainty
+- Implant survival with vs without ATB prophylaxis: MODERATE certainty
+- Comparison of different ATB regimens: LOW certainty
+
+Risk of bias (AMSTAR 2)
+- High quality: 2 reviews (Salgado-Peralvo et al. 2023, Tan et al. 2008)
+- Moderate quality: 3 reviews (Pjetursson et al. 2008, Allevi et al. 2022, Hsu et al. 2022)
+- Low quality: 1 review (Schiavo-Di Flaviano et al. 2024)
+- Critically low quality: 1 review (Schlund et al. 2022)
+
+Effectiveness of ATBs
+
+Prevention:
+- Salgado-Peralvo et al. 2023: No statistically significant difference in implant failure rates between patients who received ATBs and those who did not
+- Combined preoperative + postoperative regimens more frequently associated with lower infection rates than postoperative-only strategies
+- No clear superiority of any specific regimen demonstrated
+
+Management:
+- Allevi et al. 2022: ESS + systemic ATB most effective (resolution 94.7%)
+- Schlund et al. 2022: early ATB (Amoxicillin/Clavulanate, Clindamycin, or Fluoroquinolones) + anti-inflammatory/decongestant therapy successful in most cases before extensive complications
+- Hsu et al. 2022: ATB cornerstone of initial management, but SM perforation/graft failure often required surgical intervention
+
+Risk factors for infection
+- Membrane perforation (especially >10 mm)
+- Lateral window vs transcrestal approach
+- Smoking, pre-existing sinusitis
+- Graft material displacement into sinus cavity
+
+Key organisms: Streptococcus pneumoniae, Haemophilus influenzae, Moraxella catarrhalis
+
+Discussion
+
+The certainty of the evidence remains low to very low, and clinical practices are marked by heterogeneity and inconsistency. Prophylactic ATB administration is common but evidence is inconclusive.
+
+Key findings:
+- Routine ATB prophylaxis may not be universally necessary in uncomplicated SFE or transcrestal approaches
+- ATB prophylaxis should be considered only in selected high-risk situations: SM perforation, extensive lateral approaches, systemic comorbidities (diabetes, smoking, chronic sinusitis)
+- Non-ATB preventive strategies (meticulous surgical technique, strict asepsis, CHX rinses, minimally invasive approaches) can be as effective
+- Antimicrobial stewardship principles should guide prescribing
+- Interdisciplinary coordination (implant surgeons + ENT/otolaryngologists) improves outcomes
+
+Conclusions
+
+ATB prophylaxis may reduce postoperative infection risk in selected high-risk situations (SM perforation, extensive lateral approaches, systemic comorbidities). However:
+- Overall certainty of evidence: LOW to VERY LOW
+- No consensus on optimal ATB type, dosage, or duration
+- Routine use unnecessary in uncomplicated SFE or transcrestal approaches under strict aseptic conditions
+- Further well-designed RCTs needed to establish standardized protocols
