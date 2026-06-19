@@ -78,11 +78,11 @@
       "Advances in physical and chemical strategies for dentin hypersensitivity therapy" — J Adv Res
 - [ ] PMID 41139001 | SR+MA | OA:none | dentin-hypersensitivity | edat 2025/10/24
       "Long-term clinical efficacy of dentin desensitizing agents: A systematic review and meta-analysis" — J Dent
-- [ ] PMID 40653156 | SR+MA | OA:none | cracked-tooth | edat 2025/07
+- [x] PMID 40653156 | SR+MA | OA:none | cracked-tooth | edat 2025/07
       "Pulp Survival of Cracked Teeth with Normal Pulp or Reversible Pulpitis After External Splinting: A Systematic Review and Meta Analysis" — J Endod
-- [ ] PMID 40581327 | SR+MA | OA:none | cracked-tooth | edat 2025/06
+- [x] PMID 40581327 | SR+MA | OA:none | cracked-tooth | edat 2025/06
       "The Effect of Single versus Multiple-stage Restorative Approaches on the Pulp Outcomes of Symptomatic Vital Cracked Teeth: A Systematic Review and Meta-analysis" — J Endod
-- [ ] PMID 38272437 | SR+MA | OA:none | cracked-tooth | edat 2024/01
+- [x] PMID 38272437 | SR+MA | OA:none | cracked-tooth | edat 2024/01
       "The treatment outcomes of cracked teeth: A systematic review and meta-analysis" — J Dent
 - [ ] PMID 40275667 | RCT | OA:none | cracked-tooth | edat 2025/02
       "Efficacy of total crown and porcelain inlay restoration and its effect on masticatory ability and gingival condition (Chinese)" — Shanghai Kou Qiang Yi Xue
