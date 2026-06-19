@@ -1,0 +1,101 @@
+Optimizing implant hygiene: the added value of interproximal cleaning devices around implant-supported restorations—a systematic review and meta-analysis
+Bishti S, Wolfart S, Tuna T. Int J Implant Dent. 2025;11(1):64.
+PMID: 41114861 | PMCID: PMC12537638 | DOI: 10.1186/s40729-025-00652-4
+Source: PubMed Central (PMC) full text retrieved via PubMed MCP. Attribution: According to PubMed; DOI https://doi.org/10.1186/s40729-025-00652-4
+
+=== ABSTRACT ===
+Statement of problem
+A well-defined protocol for self-performed interproximal oral hygiene around implant-supported restorations is currently lacking.
+
+Purpose
+To assess the efficacy of home-care interproximal cleaning measures used adjunctively to mechanical toothbrushing in reducing signs of inflammation in patients with peri-implant mucositis.
+
+Methods
+A systematic electronic literature search followed by a manual search using the PRISMA guidelines was performed. Randomized controlled trials and prospective studies evaluating the effectiveness of different interproximal cleaning devices in reducing inflammation signs in patients with peri-implant mucositis were selected according to pre-determined inclusion and exclusion criteria. The meta-analysis was carried out using the Rev Man 5.4 software program.
+
+Results
+Out of a preliminary pool of 792 articles, 6 relevant studies were identified for final evaluation. Interproximal cleaning devices investigated were: dental floss, interproximal brush, oral irrigator(water), oral irrigator(CHX). The following clinical variables were analysed: plaque index(PI), gingival index(GI), bleeding on probing (BOP) and interleukin 6. Due to heterogeneity, only two studies fulfilled the eligibility criteria for meta-analysis. Oral irrigators and interdental brushes showed a higher but not-significant improvement in signs of peri-implant mucositis than dental floss. The meta-analysis revealed no statistically significant difference between toothbrushing alone and toothbrushing with an oral irrigator (water) in reducing BOP and PI.
+
+Conclusion
+All interproximal cleaning devices evaluated in this review demonstrated some degree of effectiveness in controlling biofilm accumulation and mitigating peri-implant inflammation. However, evidence on self-performed oral hygiene around dental implants-especially concerning interproximal devices-remains limited.
+
+=== INTRODUCTION ===
+Innovations in implant dentistry have allowed implant treatment to become a widely accepted therapeutic option for patients with partial or complete edentulism. Studies have reported long-term success and survival rates of more than 95%. However, implant success is not as high as survival, as functioning implants and their restorations may be affected by different technical and biological complications. Biological complications around dental implants are mostly inflammatory conditions of the surrounding soft and hard tissues.
+
+As outlined in the 2017 World Workshop on Classification of Periodontal and Peri-implant Diseases and Conditions, peri-implant mucositis refers to an inflammatory condition of the soft tissues surrounding an endosseous implant in the absence of loss of supporting bone, mainly characterized by bleeding on probing as well as visual signs of inflammation. Peri-implantitis was defined as a plaque-associated pathological condition affecting the tissues around dental implants, characterized by inflammation in the peri-implant mucosa and subsequent progressive loss of supporting bone. Peri-implant mucositis is reversible; however, in the absence of treatment, it can progress to peri-implantitis.
+
+Causative factors of peri-implant disease include bacterial flora, biomechanical factors such as excessive occlusal forces, systemic health conditions like diabetes mellitus, lifestyle-related aspects including poor oral hygiene and smoking, parafunctional habits such as bruxism, and iatrogenic factors such as lacking primary stability and premature loading during the healing period. Plaque accumulation on dental implant surfaces is regarded as a main etiological factor in the development of peri-implant mucositis and peri-implantitis. Clinical trials have reported greater prevalence of peri-implant mucositis especially in patients with poor overall oral hygiene. The patient's capability and/or accessibility to perform proper implant hygiene highly influences the likelihood of developing peri-implant diseases.
+
+Evidence has shown that brushing alone may eliminate only around 60% of overall plaque per routine cleaning session. Slot et al. estimated that the efficacy of plaque removal around teeth following a brushing episode averages around 42%. Brushing is also thought to be more optimal for cleaning flat surfaces such as buccal/lingual surfaces of teeth compared to interproximal surfaces, which highlights that toothbrushing alone is insufficient and must be complemented by interproximal tools. A variety of dental implant hygiene devices are available, yet clear guidelines for effective homecare around implants remain scarce.
+
+Previous reviews have addressed nonsurgical management of peri-implant mucositis. Barootchi et al. performed a SR+MA of nonsurgical interventions; Heitz-Mayfield et al. provided a narrative review; Ghandi et al. concentrated on oral irrigators compared with other interdental aids (also including removable overdentures). None directly evaluated randomized or prospective controlled trials of self-administered interproximal aids compared with toothbrushing alone.
+
+=== MATERIALS AND METHODS ===
+Designed according to PRISMA statement and Cochrane Handbook (v6.2, 2021).
+
+Eligibility (PICO):
+- Population: Patients with implant-supported restorations showing signs of peri-implant mucositis.
+- Intervention: Homecare interproximal hygiene devices around implant restorations.
+- Comparison: Manual or electric toothbrush alone.
+- Outcome: Reduction in signs of inflammation, plaque index, probing depth, interleukin levels.
+
+Inclusion: human clinical studies (RCTs and prospective studies); minimal sample size 10 patients; single- or multi-unit implant-supported restorations with peri-implant mucositis; reporting PI, BOP, probing index, interleukin levels.
+Exclusion: retrospective studies, case reports, animal/in-vitro studies; removable implant-supported restorations; patients with peri-implantitis; studies pooling teeth and implant data.
+
+Search: PubMed MEDLINE, Cochrane CENTRAL, Google Scholar gray literature, up to February 2024. No language/date restriction. Manual search of reference lists.
+
+Quality assessment: Cochrane Collaboration tool (RCTs), ROBINS-I (non-randomized; Low/Moderate/High). Statistical analysis: random-effects models, DerSimonian-Laird (tau-squared), I-squared, 95% CI, forest plots, RevMan v5.4. GRADE for certainty of evidence.
+
+=== RESULTS ===
+Study selection: Electronic search 781 records + 11 from manual = 792. After title screening, 674 excluded. 118 abstract-screened, 24 full-text reviewed. 6 studies eligible for data extraction. Due to heterogeneity, only 2 met meta-analysis criteria.
+
+Excluded full-text studies: Chongcharoen (interdental hygiene by dental assistant not patient); Luz (no teeth/implant differentiation); Maeda (removable prostheses cleaned extraorally); Pons (parameters by accessibility not device type); Setti (pilot, angled implant brush not interproximal aid).
+
+Included studies: published 2013–2024, all RCTs (parallel design). Interproximal aids: dental floss (4 studies), interproximal/interdental brush (4 studies), oral irrigator with water/water flosser (4 studies), oral irrigator with CHX (1 study). Parameters: plaque index, gingival index, bleeding on probing, interleukin-6. Four studies lacked control group → descriptive analysis only.
+
+Follow-up: max 14 days (2 studies), 30 days (1), 3 months (2), 6 months (1).
+
+Included studies (n=6):
+- Almoharib et al. — RCT 14 days, 45/45, mandibular posterior, single crown, manual brush. Arms: interproximal brush, water flosser, dental floss. IL-6 reported.
+- Bevilacqua et al. — RCT 2 weeks, 38/38, maxillary posterior, titanium SLA single crown, 24 manual/14 electric. Arms: interproximal brush, dental floss. PI, GI reported.
+- Bunk et al. — RCT 4/8/12 weeks, 60/60 (worst implant), single crown, control = toothbrushing alone. Arms: toothbrush alone, oral irrigator water, oral irrigator 0.06% CHX. PI, BOP reported.
+- Magnuson et al. — RCT 30 days, 28/40, control = toothbrushing alone. Arms: toothbrush alone, dental floss (33.3% BOP reduction), water flosser (81.8% BOP reduction).
+- Nwachukwu — RCT 3 and 6 months, 32/32, single crown, manual brush. Arms: dental floss, interproximal brush. IL-6 reported.
+- Tütüncüoğlu et al. — RCT 2/4/12 weeks, 45/45, control = toothbrush alone. Arms: toothbrush alone, interdental brush, oral flosser/irrigator.
+
+Three of six studies had 3 arms. Four comparisons by device type: water flosser (n=4), interproximal brush (n=4), dental floss (n=4), oral flosser with CHX (n=1). 248 participants total, group sizes 15–20, ages 23–89.
+
+Periodontal diagnosis inadequately reported. Peri-implant mucositis definition varied (only 1 study used VII European Workshop criteria; 2 used PPD ≤5 mm without radiographic bone loss; 3 used BOP). All reported single implant per patient.
+
+Device-specific findings:
+- Dental floss (4 studies, no control, no MA): Almoharib — non-significant IL-6 rise at 2 wk (55.7±10.64 vs baseline, p=0.760); GI improved (20%→0% Type II). Nwachukwu — non-significant IL-6 trend down at 3/6 mo. Bevilacqua — significant PI reduction at 2 wk (p<0.01) and GI reduction (p<0.0001); manual dexterity of dominant hand significantly related to GI with floss. Magnuson — only 33.3% BOP reduction at 30 days, non-significant.
+- Interdental brush (4 studies, 3 no control, no MA): non-significant IL-6 rise (2 wk) and at 3/6 mo; GI improvement (40%→0% Type II); significant PI and GI reduction on interproximal surfaces at 14 days; manual dexterity and emergence angle had no influence with the brush. Only one study (Tütüncüoğlu) compared interdental brush vs toothbrush-alone control — reduced modified PI, BOP, PPD at 12 wk but statistically non-significant.
+- Oral irrigator (4 studies; 2 with control → MA possible): IL-6 non-significant decrease at 14 days (60.17±3.07 vs 58.8±4.04). Magnuson — 81.8% BOP reduction at 30 days, 2.45-fold (145%) difference, highly significant (p=0.0018). Bunk — oral irrigator (water and CHX) gave significantly lower BOP-positive sites vs control at 12 wk (p=0.004); CHX vs water NS (p=0.16); CHX irrigation significantly improved mucositis severity vs toothbrushing alone (p=0.001); water irrigation vs control ~1.7-point drop in mucositis severity at 12 wk, NS (p=0.06).
+
+Meta-analysis (only 2 studies):
+- Modified plaque index: random-effects pooled — toothbrushing + water flosser NOT significantly different vs toothbrushing alone; total mean difference 0.2 in favor of control (toothbrushing alone); heterogeneity I²=68%.
+- Bleeding on probing (BOP): random-effects pooled — NO statistically significant difference; total mean difference 0.24 in favor of control; heterogeneity I²=98%.
+
+Risk of bias: each study had ≥1 domain high/unclear. Performance bias unclear in all (blinding not possible). ≥3 studies high attrition bias. All low selection bias.
+
+GRADE: no publication bias. Downgrading mainly from substantial unexplained heterogeneity and short follow-up. ≤3-month studies = low strength; >6-month = moderate to high. Modified plaque index = moderate quality; BOP = low quality (I²=98%).
+
+=== DISCUSSION (selected) ===
+Peri-implant mucositis frequently undefined or inconsistently reported. None of the included studies documented complete resolution via self-administered hygiene. Effectiveness of floss, interdental brushes, oral irrigators remains inconclusive. Heterogeneity hampered full meta-analysis.
+
+Water flosser most common device, then floss, then interdental brushes. Studies comparing water flossers with floss/IDB suggest water flossers may be superior in decreasing inflammation/plaque — in line with 2019 Cochrane review (water flossers superior to IDB/floss in reducing BOP). But the present MA found no significant difference vs toothbrushing alone for PI or BOP (only 2 studies, I²=98%).
+
+Floss drawbacks: 3 case reports describe floss as a contributing factor to peri-implant inflammation — retained floss remnants in the peri-implant sulcus implicated in localized inflammation and marginal bone resorption (rough exposed implant surfaces trap floss fibers). Floss not recommended where rough implant surfaces are exposed or in shred-prone situations; IDB or oral irrigators safer alternatives.
+
+CHX: 0.06% CHX irrigation significantly higher mucositis reduction vs no irrigation or water irrigation. Side effects (staining, hypersensitivity, xerostomia, mucosal irritation, allergy).
+
+Other factors (accessibility, manual dexterity, restoration design, time) seem more important than the device itself. Limited interproximal access strongly correlated with peri-implant disease; ~half of peri-implantitis implants in patients unable to maintain adequate hygiene (vs 4% with good access); 77.2% of peri-implantitis patients reported limited/no hygiene access. Prosthetic contour adjustments strongly linked to mucositis improvement.
+
+Oral irrigators believed more controlled/easier to use → higher patient motivation and compliance (57.4% continued at 1 yr; 90.6% at 6 mo). Emergence angle >30° is a peri-implantitis risk factor for bone-level implants; one included study found no relationship (all restorations ≤25°).
+
+Limitations: limited evidence, some measures by single study only; substantial heterogeneity; absent standardized mucositis definition; mostly short follow-up; frequent absence of control groups; mostly single crowns; little jaw-location stratification. Recommendations for implant home care largely extrapolated from natural-tooth periodontal studies — but implants differ in contour/design and are not susceptible to interproximal caries, raising doubt about floss suitability.
+
+Future RCTs: larger samples, ≥6-month follow-up, toothbrushing-alone control, clear mucositis criteria per latest classification.
+
+=== CONCLUSION ===
+Based on limited evidence, interproximal cleaning devices showed potential to enhance mechanical biofilm control and reduce peri-implant mucosal inflammation when added to toothbrushing. Some studies suggested a trend toward greater reduction with oral irrigators and interdental brushes vs dental floss, but evidence is insufficient to draw firm conclusions or establish superiority. Device choice should be individualized (patient dexterity, prosthetic design, accessibility). Further rigorous RCTs needed.
