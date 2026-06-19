@@ -32,3 +32,9 @@
       "Effects of oral hygiene management (toothpick method) containing Cibotium Barometz J. Smith extract on peri-implant mucositis: a randomized clinical trial" — BMC Complement Med Ther
 - [ ] PMID 41716131 | cross-sectional | OA:none | toothpick-method | edat 2026/05/21
       "Evaluating the hidden impact of interdental cleaning habits on maxillary anterior papilla integrity: a cross-sectional study" — Quintessence Int
+- [ ] PMID 9797056 | RCT | OA:none | toothpick-method | edat 1998/10/01
+      "Comparison of 2 toothbrushing methods for efficacy in supragingival plaque removal. The Toothpick method and the Bass method" — J Clin Periodontol
+- [ ] PMID 8534877 | prospective | OA:none | toothpick-method | edat 1995/09/01
+      "Effect of repeated toothbrushing instructions on periodontal health in a community (Toothpick Method)" — Nihon Koshu Eisei Zasshi
+- [ ] PMID 24034864 | RCT | OA:none | toothpick-method | edat 2013/09/03
+      "Reduction in dental plaque in patients with mental disorders through the dental hygiene care programme (toothpick method)" — Int J Dent Hyg
