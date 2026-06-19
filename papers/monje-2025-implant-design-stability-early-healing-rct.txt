@@ -1,0 +1,33 @@
+PubMed metadata retrieved 2026-06-19
+PMID: 41163412
+DOI: 10.1111/jcpe.70052
+Journal: Journal of clinical periodontology (J Clin Periodontol)
+Volume: 53, Issue: 2, Pages: 256-267
+Publication date: 2025-10-29
+
+Title: Effect of Dental Implant Design on Stability During Early Healing: A Randomised Controlled Trial.
+
+Authors:
+- Charoenniwassakul R (Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand)
+- Aruncharoensuk S (Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand; Research Unit in Oral and Maxillofacial Surgery and Digital Implant Surgery)
+- Subbalekha K (Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Chulalongkorn University, Bangkok, Thailand; Research Unit in Oral and Maxillofacial Surgery and Digital Implant Surgery)
+- Mattheos N (Department of Oral and Maxillofacial Surgery, Chulalongkorn University; Department of Dental Medicine, Karolinska Institute, Stockholm, Sweden)
+- Jiaranuchart S (Department of Oral and Maxillofacial Surgery, Chulalongkorn University; Research Unit in Oral and Maxillofacial Surgery and Digital Implant Surgery)
+- Pimkhaokham A (Department of Oral and Maxillofacial Surgery, Chulalongkorn University; Research Unit in Oral and Maxillofacial Surgery and Digital Implant Surgery)
+
+Abstract:
+OBJECTIVE: To evaluate the stability changes of two dental implant designs over 6 weeks of healing.
+
+METHODS: Patients with edentulous sites who had undergone tooth extraction more than 2 months earlier were randomly assigned to receive either tapered (BLX) or cylindrical (BL) implants (SLA/Roxolid, Straumann, Switzerland). Implant stability was assessed via the maximum insertion torque (MIT), implant stability tests (ISTs) and implant stability quotient (ISQ). ISTs were conducted immediately (T1), on Day 2 (T2) and weekly for 6 weeks (T3-T8); ISQ was measured at T1 and T8.
+
+RESULTS: Eighty-five implants were placed in 66 patients (45 BLX, 40 BL). BLX implants showed a significantly higher mean MIT (42.35 ± 13.43 N·cm) than BL implants (30.63 ± 6.01 N·cm, p < 0.001). Both designs demonstrated similar stability trends. At T8, BL implants had significantly higher ISQ and IST values (75.21 ± 0.93 and 79.69 ± 1.11) than BLX (72.23 ± 0.88 and 76.06 ± 1.04, p = 0.02), while there were no differences at earlier time points. A moderate positive correlation was observed between ISQ and IST (r = 0.56, p < 0.001).
+
+CONCLUSIONS: Both implant designs provided high and lasting stability during early healing, establishing their suitability for various prosthetic loading protocols.
+
+Trial registration: Thai Clinical Trials Registry TCTR20210628006 and TCTR20230826014.
+
+Keywords: BL implant, BLX implant, cylindrical implant, dental implant, implant stability quotient values, implant stability test values, tapered implant
+
+MeSH: Humans, Dental Implants, Male, Female, Middle Aged, Wound Healing, Dental Prosthesis Design, Aged, Torque, Dental Prosthesis Retention, Dental Implantation Endosseous, Adult
+
+Article types: Journal Article, Randomized Controlled Trial, Research Support Non-U.S. Gov't
