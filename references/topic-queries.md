@@ -168,6 +168,59 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 ---
 
+### pdrn (폴리뉴클레오티드 / PDRN 치과 적용)
+
+```
+(PDRN[tiab] OR polydeoxyribonucleotide[tiab] OR "poly deoxyribonucleotide"[tiab] OR "polynucleotide"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR implant[tiab] OR periodontal[tiab] OR endodontic[tiab] OR oral[tiab] OR osseointegration[tiab] OR "bone regeneration"[tiab] OR osteoblast[tiab] OR osteoclast[tiab] OR TMJ[tiab] OR "temporomandibular"[tiab])
+```
+
+**목적**: 치과 영역 PDRN — 골 재생(GBR·발치와·상악동), 연조직 증대, TMJ 주사 치료(prolotherapy), MRONJ 세포보호, 임플란트 골유착, in vitro 기전 연구.
+
+**노이즈 주의**: `polynucleotide` 단독은 분자생물학·비치과 주사 미용 문헌 대거 포함. `PDRN` 단독은 비교적 깨끗하나 AND 치과 앵커 필수.
+
+**ptyp**: RCT + SR + MA (현 volume 연 20~40건 예상 — 아직 소량 토픽).
+
+**주요 변수 축**:
+1. 골 재생 — GBR·ARP·상악동 내 PDRN soaking/주사 효과 (BIC·new bone area)
+2. 연조직 — KT 증대·연조직 볼륨(SCT 대비)
+3. TMJ prolotherapy — PDRN vs dextrose 통증·MMO
+4. MRONJ 세포보호 기전 (TBK1·PKB·ROS 경로)
+5. in vitro 기전 — 오스테오블라스트/오스테오클라스트 선택적 효과 (A2A 수용체)
+6. 발치 후 통증 관리 (human RCT)
+
+**라우팅**: `pdrn/` + 오버뷰 `pdrn-dentistry-evidence-synthesis`.
+
+**현황 (2026-06-19)**: 17편 보유. 2026-06 신규: jeon-2026 (in vitro 기전 — 오스테오블라스트 선택적 활성화, 오스테오클라스트 무영향).
+
+---
+
+### botulinum-toxin (보툴리눔 독소 / BTX 치과 적용)
+
+```
+("botulinum toxin"[tiab] OR "botulinum toxin type A"[tiab] OR BoNT-A[tiab] OR BTX-A[tiab] OR onabotulinumtoxinA[tiab] OR incobotulinumtoxinA[tiab] OR abobotulinumtoxinA[tiab] OR Botox[tiab] OR Xeomin[tiab] OR Dysport[tiab]) AND (dental[tiab] OR dentistry[tiab] OR bruxism[tiab] OR masseter[tiab] OR temporalis[tiab] OR TMD[tiab] OR "temporomandibular"[tiab] OR "gummy smile"[tiab] OR orofacial[tiab] OR "myofascial pain"[tiab])
+```
+
+**목적**: 치과 BoNT-A — TMD/근육성 통증, 수면 브럭시즘, 교근 비대·심미, gummy smile, 임플란트 골유착 영향.
+
+**노이즈 주의**: `Botox` 단독은 피부과·성형외과 미용 문헌 압도. `bruxism` + `masseter` 앵커로 치과 한정 가능하나 완벽하지 않음 — abstract 단계에서 치과 맥락 확인 필수.
+
+**ptyp**: RCT + SR + MA (volume 중간; 연 50~100건 예상 — ptyp 없이 하면 범람).
+
+**주요 변수 축**:
+1. TMD/근육성 통증 — BoNT-A vs 위약·스플린트·물리치료 효능 비교
+2. 수면브럭시즘 — EMG·교합력·통증·수면질(PSQI) 개선
+3. 저작근 형태 변화 — 두께 감소·탄성 회복 타임라인 (초음파 elastography)
+4. 하악골 형태 — 피질골 두께·하악각 방사선학적 변화
+5. gummy smile / lip aesthetics — 주사 부위·용량·지속 기간
+6. 임플란트 골유착에 대한 BoNT-A 근마비 영향 (동물 연구)
+7. 제제 비교 — Botox(ona) vs Xeomin(inco) vs Dysport(abo)
+
+**라우팅**: `botulinum-toxin/` (주 카테고리) + `tmj/` (TMD 중첩) + `implants/` (골유착 영향).
+
+**현황 (2026-06-19)**: 26편 보유. 2026-06 신규: angelo-2026(Xeomin TMD), abdulrahman-2026(2yr VAS), eberlikose-2026(골 형태), hira-2026(수면질), aldosari-2026(SR+MA 스플린트vs보톡스), yan-2025(USE elastography), ergezen-2025(수면브럭시즘 수면질).
+
+---
+
 ### toothpaste (투쓰페이스트 / dentifrice)
 ```
 (toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])
