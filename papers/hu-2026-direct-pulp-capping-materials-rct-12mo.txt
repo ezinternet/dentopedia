@@ -1,0 +1,140 @@
+Clinical Evaluation of Three Direct Pulp Capping Materials in Caries‐Induced Pulpitis of Mature Permanent Teeth: A Randomized Controlled Trial
+
+PMID: 42188992
+PMCID: PMC13239863
+DOI: 10.1002/cre2.70367
+Journal: Clinical and Experimental Dental Research (Clin Exp Dent Res)
+Year: 2026
+
+ABSTRACT
+
+Objectives
+
+Direct pulp capping (DPC) preserves pulp vitality in caries‐exposed permanent teeth, but clinical evidence comparing different capping materials and identifying prognostic factors remains limited. This study evaluated the success of DPC with iRoot BP Plus, mineral trioxide aggregate (MTA), and calcium hydroxide (CH), and explored factors associated with treatment outcomes.
+
+Material and Methods
+
+In this single‐blind, parallel‐group, superiority randomized trial, 120 patients with caries‐induced reversible pulpitis were equally assigned to CH, MTA, or iRoot BP Plus. The primary outcome was 12‐month success, defined by combined clinical and radiographic criteria. Associations between baseline clinical factors and 12‐month success were evaluated. Secondary analyses included success at 3 and 6 months.
+
+Results
+
+At 12 months, 81 of 120 randomized patients (67.5%) were available for evaluation. The overall success rate was 88.9%. Success rates were 88.5% for iRoot BP Plus (n=26), 93.1% for MTA (n=29), and 84.6% for CH (n=26), with no significant differences between groups (p=0.6). Failures were significantly associated with lesions confined to the proximal surface (p=0.001) at 12 months, while exposure size > 1 mm (p=0.024) and anterior teeth (p=0.018) were additional risk factors at 6 months. Kaplan–Meier analysis showed high survival across all groups (log‐rank p=0.66) and confirmed the influence of these risk factors. No adverse events were reported.
+
+Conclusions
+
+DPC achieved high short‐term success in mature permanent teeth in MTA, CH, and iRoot BP Plus. Prognostic factors such as caries location, tooth position, and exposure size remain critical for case selection.
+
+Trial registration number: ChiCTR2100047588; Chinese Clinical Trial Register.
+
+---
+
+FULL TEXT
+
+1 Introduction
+
+Vital pulp therapy (VPT), including direct and indirect pulp capping as well as partial and full pulpotomy, aims to preserve pulp vitality in cases of deep caries approaching or involving the pulp, or when pulp exposure occurs due to trauma or mechanical causes (American Association of Endodontists). Direct pulp capping (DPC) refers to the direct application of a pulp‐capping material onto exposed pulp tissue to stimulate reparative dentin formation and promote pulp healing, thereby maintaining pulp vitality (Islam et al.). The choice of pulp‐capping material is one of the most important determinants of treatment success (Leong and Yap). An ideal capping agent should demonstrate long‐lasting antimicrobial activity, effective sealing ability, biocompatibility, regenerative potential, and ease of clinical application (Giraud et al.).
+
+Calcium hydroxide (CH) and mineral trioxide aggregate (MTA) are the most commonly used materials in current clinical practice. CH is easy to manipulate and, due to its high alkalinity, provides sustained antibacterial action while stimulating reparative dentin formation (Mohammadi and Dummer). However, long‐term studies have shown that CH gradually dissolves, creating pathways for microleakage (Nair et al.) and leading to reduced long‐term success rates (Barthel et al.). MTA, a bioactive endodontic cement, has been shown to provide superior sealing, antibacterial activity, biocompatibility, and pulp‐inductive capacity (Li et al.). It has achieved favorable clinical outcomes in DPC (Duarte et al.), but its widespread use is hindered by drawbacks such as high cost, technique sensitivity, long setting time, and potential for tooth or gingival discoloration (Chen et al.; Fan et al.). Therefore, there is a clear need for novel pulp capping materials that balance biological efficacy with better handling and esthetic properties.
+
+iRoot BP Plus is a premixed, ready‐to‐use, calcium silicate–based bioceramic material with excellent biocompatibility, bioactivity, and favorable handling characteristics (Zheng et al.). Unlike MTA, it does not cause tooth discoloration and is easier to manipulate clinically. Previous in vitro and animal studies have demonstrated that iRoot BP Plus has comparable efficacy to MTA in pulp capping (Shi et al.), with both showing strong apatite‐forming ability. Furthermore, iRoot BP Plus has been shown to promote greater proliferation and adhesion of human dental pulp stem cells compared to MTA (Zhu et al.). However, long‐term clinical data evaluating its performance in mature permanent teeth with caries‐related pulp exposures remain scarce.
+
+In addition to the choice of capping material, other clinical factors—such as patient age, size of pulp exposure, use of rubber dam isolation, and duration of preoperative pain—may also influence DPC outcomes (Miles et al.; Çalışkan and Güneri; Islam et al.; Ricucci et al.). Nonetheless, controversies remain regarding the predictive value of these factors (Prasertsuksom et al.). A clearer understanding of prognostic indicators would enable clinicians to better predict treatment outcomes, improve patient selection, and refine treatment strategies.
+
+Based on this background, the objective of this single‐blind, randomized controlled clinical trial was to evaluate the success rates of DPC using CH, MTA, and iRoot BP Plus in mature permanent teeth with caries‐induced reversible pulpitis. In addition, this study sought to investigate potential prognostic factors influencing treatment outcomes, with the goal of providing evidence to support standardized vital pulp preservation strategies in caries‐induced pulpitis.
+
+2 Methods
+
+2.1 Participants
+
+This study was conducted in the Department of Endodontics at Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, China. The study was approved by the Institutional Ethics Committee (Ethical number: SH9H‐202‐T418‐3) and was registered in the Chinese Trials Registry (No. ChiCTR2100047588). Informed consent was obtained from all the patients prior to treatment. Patients who had deep carious teeth with possible pulp exposure and visited the Department of Endodontics from July 2021 to July 2024 were recruited for the study.
+
+The inclusion criteria were as follows: (1) patients aged ≥ 18 years who provided informed consent; (2) mature permanent teeth with fully developed roots teeth with deep caries extending beyond two‐thirds of the dentin thickness without spontaneous pain; (3) teeth experiencing discomfort when a stimulus such as cold or sweet is applied and goes away within a couple of seconds following the removal of the stimulus; (4) no significant radiographic changes in the periapical region of the suspect tooth, with no evidence of root fracture, resorption, or pulp chamber calcification; (5) teeth showed normal mobility, no swelling or sinus tract on gingiva; (6) Pulp exposure occurring after caries removal.
+
+Teeth were excluded if they were non‐restorable, exhibited vertical root fracture, root resorption, pulp necrosis, or periapical lesions. Cases with moderate to severe periodontitis or furcation involvement, as well as patients who were pregnant, systemically or mentally compromised, or unable or unwilling to cooperate, were also excluded. Teeth were also excluded if hemostasis could not be achieved within 5 min during the procedure.
+
+2.2 Study Design
+
+This investigation was a single‐center, parallel‐group, superiority randomized controlled trial. Baseline data, including age, gender, and history of systemic diseases and a history of the chief complaint (including precipitating factors and types of pain) were recorded prior to intervention. A clinical examination was conducted to record the position of the affected tooth, carious tooth surfaces, tooth mobility, and the responses to cold stimuli (responsive (+), exaggerated response (++), or non‐responsive (−) and results of electric pulp testing (EPT). Periapical radiographs were taken to identify the periapical index (PAI) score.
+
+All direct pulp capping procedures were performed by a single board‐certified endodontist (WX) with more than 10 years of clinical experience in vital pulp therapy, ensuring procedural consistency. Outcome assessments were conducted independently by two calibrated endodontists who were not involved in treatment delivery.
+
+Participants were randomly assigned in equal proportions to one of three treatment groups: MTA, CH, or iRoot BP Plus. Based on prior literature, the expected success rates were 98% for iRoot BP Plus, 86% for MTA, and 65% for CH. Assuming a power of 90% and a significance level of 0.05, the calculated sample size was 32 participants per group. To account for an anticipated 20% dropout rate, the final target enrollment was set at 40 participants in each treatment group.
+
+A random number sequence was generated by a professional independent third‐party institution via SPSS 23.0, which was assigned sequentially to the patients fulfilling the inclusion criteria. The trial was conducted using a single‐blind design. Participants and outcome assessors were blinded to treatment allocation, whereas the operator performing the procedure was not. Unblinding was permitted only in cases of treatment failure or when knowledge of the assigned material was clinically necessary for patient safety and care.
+
+2.3 Procedures
+
+After enrollment of the affected tooth, the following procedures were conducted. The tooth was anesthetized using 4% Articaine with epinephrine 1/100,000 (Primacaine; Acteon Pharma, Bordeaux, France) following disinfection with a povidone‐iodine‐soaked cotton swab. Caries was excavated using a high‐speed handpiece with sterile distilled water as a coolant under rubber dam isolation. To ensure optimal visibility, caries excavation was performed under a dental operating microscope (OMS2350, Zumax, Suzhou, China) throughout the entire procedure. If pulp exposure was detected after caries removal, irrigation was performed with 3% sodium hypochlorite (NaOCl) solution, and a sterile cotton pellet soaked in 3% NaOCl was gently pressed over the exposed pulp wound surface to achieve hemostasis. The maximum diameter of the pulp exposure was measured clinically using a sterile periodontal probe under microscopic magnification and recorded in millimeters. The location of the pulp exposure hole, as well as the bleeding time were recorded. If hemostasis was achieved within 5 min, DPC can be performed. However, if hemostasis was not achieved, the affected tooth was excluded from the study scope, and instead, pulpotomy or root canal therapy was carried out.
+
+Following successful hemostasis, the cavity was dried with a sterile cotton pellet. Based on the patient's randomized group allocation, one of the following three pulp capping agents was applied: Calxyl (CH paste, OCO Präparate GmbH, Dirmstein, Germany), ProRoot MTA (Dentsply Sirona, Johnson City, USA), or iRoot BP Plus (Innovative Bioceramix, Vancouver, Canada). The selected material was applied to cover the exposed pulp and surrounding dentin with a minimum thickness of 1.5 mm, ensuring complete adaptation without voids. A layer of light‐curing glass ionomer (Vitrebond, 3M Dental Products, USA) was then placed over the pulp‐capping agent, followed by a temporary seal with chemically cured glass ionomer cement (Fuji II Glass Ionomer Restorative, GC, Tokyo, Japan).
+
+2.4 Follow‐Up and Outcomes
+
+All the participants were then informed of postoperative instructions and scheduled an appointment for the subsequent follow‐up. 1 week after the intervention, a telephone follow‐up was conducted by a single instructor to record postoperative pain on the visual analogue scale (VAS) between 0 and 10 cm. One month after the intervention, patients were asked about any signs and symptoms, and clinically verified by percussion and pulp vitality test (cold test and EPT). In the absence of any symptoms, the temporary restoration was removed and changed to a permanent restoration under rubber dam isolation. All participants were advised to report any discomfort at any time during their follow‐up period. If the affected teeth remained asymptomatic, regular postoperative follow‐ups were scheduled at 3‐, 6‐, 12‐, and 24‐month intervals. During the follow‐up visits, the affected tooth underwent clinical examinations, including palpation, percussion, cold test, EPT, and radiographic evaluations of PAI. All these results were recorded on case report forms (CRF).
+
+The primary outcome measurement was success rates among 3 groups at the 12‐month follow‐up. Outcomes meeting both clinical and radiographic criteria were defined as successful. The clinical success criteria included the absence of spontaneous pain or tenderness to percussion in the affected tooth, no swelling, sinus tract, or tenderness in the soft tissues around the tooth, and responsiveness to the pulp vitality test. No pathosis evident such as periapical lesions or internal root resorption or external root resorption on radiographs was considered as radiographic success. Cases that failed to meet either of the criteria will be considered as failure. The radiographs were evaluated by 2 independent examiners blinded to the study aim.
+
+The success rates at 3‐ and 6‐month follow‐up were secondary outcome measurements.
+
+2.5 Statistical Analysis
+
+Primary and secondary outcomes were compared among the three treatment groups using Chi‐square tests or Fisher's exact tests, as appropriate, based on expected cell counts. Baseline demographic and clinical characteristics were evaluated as potential prognostic factors, including age (≤ 40 vs. > 40 years), sex, arch, tooth position, lesion location, exposure site, exposure size, cold test response, and bleeding time. These variables were compared both across treatment groups at baseline to confirm comparability, and between successful and failed cases at the 3‐, 6‐, and 12‐month follow‐ups to determine associations with treatment outcomes.
+
+In addition to the prespecified outcomes, an exploratory post hoc time‐to‐event analysis was performed using Kaplan–Meier survival curves to evaluate cumulative success probability over time. Log‐rank tests were used to compare survival distributions across treatment groups, as well as across different levels of each prognostic factor.
+
+Analyses were conducted on a per‐protocol basis, including participants who completed the respective follow‐up; participants lost to follow‐up were treated as censored observations in time‐to‐event analyses. All data management, visualization, and statistical analyses were performed in R version 4.5.0. Statistical significance was set at a two‐sided p level of 0.05.
+
+3 Results
+
+A total of 120 patients were randomized equally into the three treatment groups: iRoot BP Plus (n=40), MTA (n=40), and calcium hydroxide (n=40). Baseline demographic and clinical characteristics were comparable across groups. Age distribution did not differ significantly (p>0.9), with 40%–43% of participants aged ≤ 40 years. Female patients represented 58%–65% of each group (p=0.8). The distribution of treated teeth (maxillary vs. mandibular, anterior vs. posterior) and lesion locations was also balanced across groups (p>0.3).
+
+Most exposure sites were ≤ 1 mm (89%), and approximately half were located at the pulp chamber wall. Bleeding time at exposure differed in its distribution among groups (p=0.003). Hemostasis within 1 min was achieved in all iRoot BP Plus and calcium hydroxide cases, whereas 15% of teeth allocated to the MTA group required more than 1 min to achieve hemostasis. Postoperative pain at 7 days did not differ significantly among the three treatment groups (p=0.5).
+
+This report reflects data collected up to the cutoff date of November 30, 2025, with a median follow‐up of 364 days. Over this period, 9 failure events were observed before censoring. The overall success rates at 3, 6, 12, and 24 months were 96.0%, 93.2%, 88.9%, and 72.7%, respectively.
+
+At 12 months, 81 of the 120 patients who received treatment were analyzed. Direct pulp capping demonstrated high overall success: iRoot BP Plus achieved an 88.5% success rate (23/26), MTA 93.1% (27/29), and calcium hydroxide 84.6% (22/26). Differences between materials were not statistically significant (p=0.6). When treatment outcomes at 12 months were stratified by clinical and demographic factors, most variables—including age, sex, tooth location, exposure site, and bleeding time—were not significantly associated with success. However, lesion location was strongly predictive (OR=18.18, p=0.001), with failures disproportionately concentrated in cases confined to the proximal surface.
+
+Early follow‐up findings at 3 and 6 months were consistent with the 12‐month results, showing no significant differences between treatment groups (3‐month: p=0.8, 6‐month: p>0.9). At 6 months, all 6 failures occurred in cases with lesions confined to the proximal surface (p=0.002). Size of exposure site > 1 mm had a markedly higher risk of failure (OR=9.2, p=0.024), and anterior teeth were more likely to fail compared with posterior teeth (OR=10.7, p=0.018).
+
+Survival analysis with Kaplan–Meier estimates showed high survival probabilities across all three capping materials, with the estimated overall survival probability of 89.3% (95% CI: 82.8%–96.4%). The estimated cumulative survival probability was 87.7% for iRoot BP Plus (95% CI: 74.6%–100%), 93.5% for MTA (95% CI: 85.3%–100%), and 85.7% for calcium hydroxide (95% CI: 73.5%–100%). Survival curves did not differ significantly among the groups (log‐rank test p=0.66). Kaplan–Meier curves with log‐rank testing supported significant risk factors: lesions limited to the proximal surface (p=0.0003), exposure site size > 1 mm (p=0.015), and involvement of anterior teeth (p=0.013).
+
+TABLE 1 — Baseline characteristics of patients by treatment group:
+- Age ≤ 40 years: iRoot BP Plus 43%, MTA 40%, CH 40% (p>0.9)
+- Female: iRoot BP Plus 61%, MTA 58%, CH 65% (p=0.8)
+- Posterior teeth: ~90% across all groups (p>0.9)
+- Proximal surface only: 33% in each group (p>0.9)
+- Exposure ≤ 1 mm: iRoot BP Plus 93%, MTA 83%, CH 93% (p=0.3)
+- Bleeding time ≤ 1 min: iRoot BP Plus 100%, MTA 85%, CH 100% (p=0.003)
+
+TABLE 2 — Association of treatment groups and baseline factors with outcomes:
+- 12-month: iRoot BP Plus 88.5% (23/26), MTA 93.1% (27/29), CH 84.6% (22/26) — p=0.6
+- Proximal lesion location OR=18.18 at 12 months (p=0.001)
+- Anterior vs posterior: OR=10.7 at 6 months (p=0.018); trend at 12 months (p=0.077)
+- Exposure >1 mm: OR=9.2 at 6 months (p=0.024)
+
+4 Discussion
+
+In clinical practice, root canal therapy (RCT) is often performed when pulp exposure is detected during or after caries removal, given the difficulty of determining the extent of pulpal inflammation. However, the loss of vital pulp function after RCT—formation, nutrition, defense, and sensation—reduces tooth resilience and increases the risk of fracture, often compromising long‐term survival compared with teeth retaining vital pulp. VPT, including DPC, provides a biologically based alternative that preserves pulp vitality and has been shown to improve long‐term tooth retention compared with RCT.
+
+Historically, DPC was considered predictable only for traumatic exposures or immature teeth, as calcium hydroxide yielded poor outcomes in caries‐related exposures, with success rates as low as 37% at 5 years and 13% at 10 years (Barthel et al.). More recently, advances in biomaterials, aseptic technique, and magnification have markedly improved DPC outcomes. A systematic review reported an overall DPC success rate of 83% in permanent teeth over the past two decades (Prasertsuksom et al.) supporting its role as an alternative to RCT in selected mature teeth.
+
+In this study, the overall 12‐month success rate of DPC was 88.9%. Success did not differ significantly among materials: iRoot BP Plus (88.5%), MTA (93.1%), and CH (84.6%). Kaplan–Meier analysis showed similar cumulative survival probabilities, with no significant difference among groups.
+
+Brizuela et al. reported no differences among MTA, CH, and Biodentine in young permanent teeth at 12 months. A retrospective study found no significant difference between MTA and CH at 24 months (93% vs. 90%) (Çalışkan and Güneri). Kundzina et al. reported higher 3‐year survival with MTA (85%) compared to CH (52%). Another clinical trial in mature molars reported significantly higher 12‐month success with MTA (93%) than with CH (69%) (Suhag et al.).
+
+For iRoot BP Plus, Chen et al. observed long‐term survival rates of 92% at 1 year and 72% at 5 years in a large cohort of 354 teeth, with an overall success rate of 85%. Experimental studies indicate that iRoot BP Plus shares similar biological properties with MTA, including promotion of calcific bridge formation, favorable pulp responses, and dentin mineralization, while in some models it demonstrated superior induction of tertiary dentin.
+
+Regarding risk factors: Teeth with caries confined to the proximal surface showed higher failure rates at 3, 6, and 12 months. Proximal lesions likely have greater challenges in achieving isolation, complete caries removal, and durable restoration, as well as higher bacterial load and thinner residual dentin. Anterior teeth showed higher failure rates, possibly due to anatomical/biomechanical differences (single canal, rapid pulp infection spread, greater horizontal stress). Notably, anterior teeth were significantly more likely to exhibit lesions confined to the proximal surface (OR=11.85), indicating a strong correlation between these two variables.
+
+Pulp exposure size >1 mm was associated with lower success at 6 months, consistent with reports linking larger exposures to more extensive pulpal injury. This association was not significant at 3 or 12 months.
+
+5 Conclusions
+
+Overall, this study supports direct pulp capping as a reliable and biologically sound alternative to root canal therapy in carefully selected mature permanent teeth. Short‐ to medium‐term outcomes were favorable across all three materials. Clinical factors such as proximal caries, anterior tooth location, and larger exposure size were identified as significant risk factors for failure, underscoring the importance of case selection and meticulous technique.
+
+Author Contributions: Conceptualization, data curation, formal analysis, methodology, project administration, validation, writing – original draft; conceptualization, formal analysis, funding acquisition, investigation, methodology; formal analysis, software, validation, visualization, writing – original draft; data curation, formal analysis, investigation; conceptualization, funding acquisition, project administration, supervision, writing – review and editing.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+Trial Registration: ChiCTR2100047588; Chinese Clinical Trial Register.
+Institution: Department of Endodontics, Shanghai Ninth People's Hospital, Shanghai Jiao Tong University School of Medicine, China.
