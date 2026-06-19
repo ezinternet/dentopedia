@@ -24,3 +24,9 @@
       "Plaque Reduction Efficacy of an Advanced Electric Toothbrush Compared with a Manual Toothbrush Among 6- to 10-Year-Old Children: a 4-Week Randomised Controlled Trial" — Int J Paediatr Dent
 - [ ] PMID 41817287 | RCT | OA:none | plaque | edat 2026/03/12
       "Clinical Efficacy of the ProbioticCMU in Adults with Gingivitis: A Randomized, Double-Blind, Placebo-Controlled Clinical Trial" — J Med Food
+- [ ] PMID 33028052 | SR | OA:PMC PMC11654539 | toothpick-method | edat 2020/10/02
+      "Effectiveness of Manual Toothbrushing Techniques on Plaque and Gingivitis: A Systematic Review" — Oral Health Prev Dent
+- [ ] PMID 32395387 | RCT | OA:PMC PMC7192821 | toothpick-method | edat 2020/04/23
+      "Efficacy of non-surgical treatment accompanied by professional toothbrushing (Watanabe toothpick method) in chronic periodontitis in type 2 diabetes mellitus: a randomized controlled clinical trial" — J Periodontal Implant Sci
+- [ ] PMID 40329262 | RCT | OA:PMC PMC12054295 | toothpick-method | edat 2025/05/06
+      "Effects of oral hygiene management (toothpick method) containing Cibotium Barometz J. Smith extract on peri-implant mucositis: a randomized clinical trial" — BMC Complement Med Ther

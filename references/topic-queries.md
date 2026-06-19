@@ -72,3 +72,11 @@ IIP(immediate implant placement)는 핵심어를 풀어 쓰면 osseodensificatio
 ```
 플라그 핵심어는 `[tiab]` phrase로 묶는다 — 안 묶으면 "biofilm" 단독이 미생물학·산업 표면 문헌까지 끌어온다.
 ingest 라우팅: 바이오필름 생태·매트릭스 기전 → `oral-microbiology`, 플라그 control RCT(칫솔·구강세정제) → `periodontics`/위생, 식이·우식 연계 → `caries`.
+
+### toothpick-method (이쑤시개법 / Watanabe method)
+```
+("toothpick method"[tiab] OR "Watanabe method"[tiab] OR "toothpick technique"[tiab]) AND (toothbrush*[tiab] OR toothbrushing[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR "oral hygiene"[tiab] OR dental[tiab] OR "peri-implant"[tiab])
+```
+**ptyp 비움 필수** — 초niche(전체 7편)라 RCT/SR/MA로 좁히면 거의 다 빠진다.
+**치과 앵커(AND절) 필수** — `"toothpick method"` 단독은 식물병리(균접종법)·화학(Watanabe transference)·바닐라 수분 등 비치과 문헌이 압도(원쿼리 39편 중 절반 이상 노이즈). 앵커 추가 시 7편으로 정제됨.
+ingest 라우팅: 칫솔질법 효능 SR/RCT → `periodontics`, peri-implant mucositis 적용 → `implants/peri-implantitis`.
