@@ -52,3 +52,11 @@
       "Efficacy of a water flosser compared to an interdental brush on gingival bleeding and gingival abrasion: A 4 week randomized controlled trial" — Int J Dent Hyg
 - [ ] PMID 37203873 | RCT | OA:PMC PMC10693741 | water-flosser | edat 2023/05/19
       "Effectiveness of Waterpik for oral hygiene maintenance in orthodontic fixed appliance patients: A randomised controlled trial" — J Orthod
+- [ ] PMID 42262610 | RCT | OA:PMC PMC13249922 | toothpaste | edat 2026/06/09
+      "Anhydrous stannous fluoride toothpaste in dentin hypersensitivity: clinician-assessed and patient-reported outcomes from two controlled trials" — Clin Oral Investig
+- [ ] PMID 41786236 | SR-umbrella | OA:none | toothpaste | edat 2026/03/03
+      "A comprehensive evidence synthesis of anti-erosive dentifrices: An umbrella review of systematic reviews" — J Dent
+- [ ] PMID 41720286 | SR+NMA | OA:none | toothpaste | edat 2026/02/18
+      "The use of toothpastes containing different active agents in managing root caries: A systematic review with network meta-analysis" — J Dent
+- [ ] PMID 40794532 | RCT | OA:PMC PMC12967385 | toothpaste | edat 2025/08/12
+      "Arginine Dentifrices and Childhood Caries Prevention: A Randomized Clinical Trial" — JDR Clin Trans Res

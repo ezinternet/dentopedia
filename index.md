@@ -1264,6 +1264,8 @@ tags: []
 - [[botulinum-toxin/jkda-2025-63-6-002]] — Clinical review (서울그랜드치과 김준영, JKDA 2025): 치과 BTX 적용 framework — 기능(TMD·masseter·bruxism) + 미용(gummy smile·lip line). 한국 임상 적용 가이드
 
 ## 우식 (Caries)
+- [[caries/chen-2026-root-caries-toothpastes-network-meta-analysis]] — Chen 2026 · sr+ma (네트워크 메타분석, Cochrane 9개 DB; in vitro 13+in situ 3+임상 12편): 치근우식 **치약 활성성분 순위** — 고농도 NaF(5000ppm)가 병변 깊이↓·경화·신규우식 예방 최상위(처방 1차), 생활성 Ca/P·아르기닌+불소는 대안, 표준 1450ppm NaF는 고위험군서 불충분; 치약 vs 위약 depth MD −55.75·mineral loss MD −1.18 (DOI 10.1016/j.jdent.2026.106582)
+- [[caries/yin-2025-arginine-dentifrice-childhood-caries-rct]] — Yin 2025 · rct (2년 phase-3 이중맹검, 6000명 10–14세, 중국): **8.0% 아르기닌 치약**(무불소)이 0.32% NaF 대비 DMFS 26.0%·DMFT 25.3% 유의 감소(P<.001), 1.5% 아르기닌은 NaF와 동등(NS) — 용량의존적 무불소 항우식 대안 (DOI 10.1177/23800844251361471)
 - [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] — Meyer-Lueckel 2019 (SR+MA, EFCD/ORCA): 근관면 우식 — 5000ppm F·CHX varnish·SDF 우식정지 우수, 수복 composite>GIC(전반 실패율 높음)
 - [[caries/xie-2023-white-spot-lesion-therapies-sr-nma]] — SR+NMA (BMC Oral Health 2023, 28 RCTs): 백색 반점 병소(WSL) 치료 효과 순위 — 레진 침투(Resin Infiltration, RI) + 불소 복합이 심미 회복 1순위; 재광화 단독은 표면하 병소에 한계
 - [[caries/bourouni-2021-resin-infiltration-white-spot-sr-ma]] — SR+MA (Clin Oral Investig 2021): 레진 침투술 (Resin Infiltration) WSL — ΔWID −0.84 유의 개선; 맹출 후 WSL > 교정 후 WSL 효과; 추적 12–24개월
@@ -1440,6 +1442,7 @@ tags: []
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
 
 ## 시린이 (Dentin Hypersensitivity)
+- [[dentin-hypersensitivity/qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct]] — Qiu 2026 · rct ×2 (Study1 n=104·Study2 n=113, 18–65세 DH, 56일): 무수 **0.454% SnF₂ 치약** > 표준 불소치약 — Schiff·Yeaple 촉각역치·LMS 통증 모두 Day 28·56 유의 우월(p<0.05), Study1은 DHEQ-48 삶의질도 우월; well-tolerated (DOI 10.1007/s00784-026-06942-4)
 - [[dentin-hypersensitivity/jkda-2022-60-4-003]] — Review (강남세브란스+서울대 보존과, JKDA 2022): DH prevalence(8-57%)·진단·치료(at-home+in-office+restorative)·미래 — JKDA DH 특집 1번
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — Clinical management (경희대 보존과 장지현, JKDA 2022): DH 외래 의사결정 ladder — 1차 at-home → 2차 in-office sealing → 3차 restorative
 - [[dentin-hypersensitivity/jkda-2022-60-4-005]] — Clinical strategy (연세대 보존과 김도현, JKDA 2022): Class II direct composite 수복 후 postop hypersensitivity 예방 — adhesive technique·incremental·slow curing·sectional matrix·pre-wedging
@@ -2009,6 +2012,7 @@ tags: []
 - [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]] — Costerton 1999 · narrative-review · Seminal Science review establishing matrix-encased biofilms and their inherent antibiotic/host-defense tolerance as the root cause of most persistent/chronic infections, incl. caries and periodontitis (DOI 10.1126/science.284.5418.1318)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
+- [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
 - [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] — In-vitro stylus profilometry showing Coca-Cola (pH 2.67) most erosive short-term, orange juice equally erosive at ≥30 min, yoghurt non-erosive; titratable acidity as important as pH (2015)
 - [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]] — In-vitro profilometry (n=90 bovine enamel): citrus sweets (pH 2.6–3.5) cause 1.3–2.4 μm wear; dual-acid sweets as erosive as 0.1% citric acid and more than Coca-Cola (2020)
 - [[dental-erosion/west-2014-enamel-mineral-loss]] — Narrative review integrating chemical, biological, and host factors of enamel mineral loss from caries and erosion, with evidence-based prevention frameworks (2014)

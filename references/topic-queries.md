@@ -93,3 +93,9 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 ("oral irrigator"[tiab] OR "oral irrigators"[tiab] OR "oral irrigation"[tiab] OR "water flosser"[tiab] OR "water flossing"[tiab] OR "water jet"[tiab] OR "dental water jet"[tiab] OR Waterpik[tiab] OR "powered irrigation"[tiab]) AND (toothbrush*[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR interdental[tiab] OR "oral hygiene"[tiab] OR "peri-implant"[tiab] OR orthodontic[tiab])
 ```
 `floss-interdental`의 워터픽 특화 분기. **치과 앵커(AND절) 필수** — `"oral irrigation"` 단독은 비강·창상 세척 등 비치과 문헌을 끌어온다. 교정환자 oral-irrigator RCT/SR이 다수라 중복 ingest 주의(이미 yiamwattana-2025 SR+MA 보유) — 새 각(치주염 보조·임플란트·WF vs 치간칫솔)만 선별.
+
+### toothpaste (투쓰페이스트 / dentifrice)
+```
+(toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])
+```
+**초고volume**(RCT/SR/MA만 1700+편) — sweep는 newest-first로 받아 **하위 테마별 1~2편**만 선별. 주요 축: 불소/항우식(고불소·아르기닌·NaF), 지각과민(SnF₂·바이오글라스·NovaMin·아르기닌), 항침식(stannous), 미백(blue covarine·과산화물), 치석(SnF₂+zinc), 천연/허브, 의치세정. DH(지각과민) RCT가 특히 많아 중복 주의. 라우팅: 항우식→`caries`, 지각과민→`dentin-hypersensitivity`, 침식→`dental-erosion`, 미백/연마→`dental-materials`.
