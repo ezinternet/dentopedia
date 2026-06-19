@@ -1,0 +1,32 @@
+Title: Adjunctive use of locally delivered 2% minocycline in the nonsurgical treatment of peri-implantitis: a multicenter randomized placebo-controlled trial.
+
+Authors: Lee Jae-Hong, Yang Hyeok-Jun, Han Sang-Jin, An Chung-Mo, Goh Mi-Seon, Jung Hee-Won, Chae Min-Sung, Lee Dong-Woon
+
+Journal: Journal of Dentistry (J Dent)
+Volume: 172, Pages: 106761
+Year: 2026
+Publication date: 2026-05-17
+DOI: 10.1016/j.jdent.2026.106761
+PMID: 42150728
+PII: S0300-5712(26)00431-8
+
+Article types: Journal Article, Randomized Controlled Trial, Multicenter Study, Research Support, Non-U.S. Gov't
+Language: English
+
+Keywords: Antibiotics, Dental implants, Minocycline, Peri-implantitis, Randomized controlled trial
+
+MeSH terms: Humans, Minocycline, Peri-Implantitis, Anti-Bacterial Agents, Single-Blind Method, Female, Male, Middle Aged, Treatment Outcome, Quality of Life, Aged, Periodontal Pocket, Periodontal Debridement, Periodontal Index, Ointments, Combined Modality Therapy, Follow-Up Studies
+
+Abstract:
+This randomized, single-blind, placebo-controlled multicenter trial aimed to evaluate the clinical, radiographic, microbiologic, and patient-reported efficacy of locally delivered adjunctive 2% minocycline hydrochloride in the nonsurgical treatment of peri-implantitis.
+
+Forty-eight participants were randomized, and 46 (test, n = 22 [subgingival debridement + minocycline ointment]; control, n = 24 [subgingival debridement + placebo]) were included in the per-protocol efficacy analysis after two post-randomization withdrawals in the test group. Interventions were performed at baseline and weeks 1, 2, and 3. Clinical, radiographic, and microbiological parameters were assessed over a 12-week period, along with patient-reported outcomes including discomfort and oral health-related quality of life (OHRQoL).
+
+At 12 weeks, the test group showed lower baseline-adjusted probing pocket depth values and less frequent bleeding on probing than the control group. In the microbiologic analysis, adjunctive minocycline was associated with lower levels of selected peri-implant pathogens at 8 weeks (p < 0.05), whereas between-group differences were less consistent at 12 weeks. Radiographic findings should be interpreted cautiously because the follow-up period was too short to support conclusions regarding structural stability. Early swelling was lower in the test group at 3 weeks than in the control group (p < 0.05), but no significant between-group differences were observed in OHRQoL improvement.
+
+Locally delivered adjunctive 2% minocycline may provide short-term clinical benefits and exploratory microbiologic improvements when used with nonsurgical peri-implantitis therapy. However, the 12-week follow-up herein does not allow conclusions regarding long-term radiographic stability, sustained local efficacy, or definitive disease resolution.
+
+Conclusion/Clinical relevance: Adjunctive locally delivered 2% minocycline may provide short-term clinical benefits in nonsurgical peri-implantitis therapy while limiting systemic antibiotic exposure.
+
+Source: PubMed (https://pubmed.ncbi.nlm.nih.gov/42150728/)
+Retrieved: 2026-06-19
