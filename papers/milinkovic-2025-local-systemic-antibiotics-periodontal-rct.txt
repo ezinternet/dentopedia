@@ -1,0 +1,135 @@
+Title: Exploring local adjuvant antibiotics as viable alternative to systemic antibiotics in non-surgical periodontal therapy: Clinical, immunological and microbiological insights
+
+Authors: Milinkovic I, et al.
+Year: 2025
+PMID: 41021535
+PMCID: PMC12478958
+DOI: 10.1371/journal.pone.0333342
+Journal: PLOS ONE
+
+ABSTRACT
+
+Objectives
+The primary aim of the present study was to compare the reduction in periodontal probing depth after the use of either local or systemic adjuvant antibiotics during non-surgical periodontal therapy at baseline and the six-month follow-up. Secondary aims were to compare other clinical outcomes, total bacterial count, and relative expression levels of certain pro-inflammatory mediators following the use of locally and systemically delivered adjuvant antibiotics during the initial non-surgical periodontal therapy (NSPT).
+
+Material and methods
+A total of 38 periodontitis stage III grade B or C patients were randomly and equally assigned to receive either local (LA) (tazobactam + piperacillin preparation) or systemic antibiotics (SA) (amoxicillin and metronidazole combination) during NSPT. Clinical periodontal parameters (periodontal probing depth, clinical attachment level, bleeding on probing, and plaque index), and microbiological and immunological parameters: total bacterial count, and relative expression levels of IL-17 and TNF-α were evaluated at baseline and six months after NSPT.
+
+Results
+Both LA and SA significantly improved all clinical parameters after six months (p<0.001 for all comparisons). While a significant decrease of total bacterial count was observed after LA (p=0.001) and SA treatment (p=0.013), the insignificant differences between the two groups were observed after the sixth-month follow-up (p>0.05). Conversely, relative gene expression levels of IL-17 and TNF-α did not differ significantly between LA and SA six months after the NSPT. The insignificant differences between these cytokines' relative levels were observed in both SA and LA between baseline and follow-up measurements.
+
+Conclusions
+The adjuvant use of piperacillin + tazobactam led to the comparable improvement of clinical, microbiological and immunological parameters to the conventional use of amoxicillin and metronidazol combination six months following the initial therapy of periodontitis. Therefore, these locally delivered antibiotics might be a promising alternative to the standard use of systemic amoxicillin and metronidazol combination during initial therapy of stage III periodontitis.
+
+FULL TEXT
+
+1. Introduction
+
+Periodontitis is a chronic, multifactorial inflammatory disease resulting in periodontal attachment loss and tooth-supporting tissues' progressive destruction. It is characterised by microbially-associated and host-mediated inflammation. The disease onset and progression hinge on abundant biofilm accumulation, dysbiotic ecological changes in the microbiome, and an aberrant host immune response. As a consequence of an inadequate immune response to periodontal pathogens, an excessive accumulation of immunomodulatory cells occurs, leading to the breakdown of tissue homeostasis and subsequent alveolar bone loss.
+
+The current literature provides numerous data on the roles of various pro-inflammatory mediators in the mechanisms of periodontitis progression. Tumor necrosis factor-alpha (TNF-α) is considered a key cytokine playing a critical role in the innate response against the periodontal pathogens. TNF-α appears to be involved in the induction of other inflammatory mediators, endothelial cell activation, and endothelial-leukocyte interactions, as well as in bone remodelling processes where it contributes to bone resorption. Interleukin-17 (IL-17) has a prominent role in immune surveillance at mucosal and barrier surfaces; however, it has also been increasingly implicated as a driver of immunopathology in settings of autoimmunity and chronic inflammation. Additionally, IL-17 takes part in osteolysis mechanisms through an excessive neutrophil recruitment, enhancing other pro-inflammatory cytokine production, and activating osteoclasts.
+
+Non-surgical periodontal therapy (NSPT) is the initial treatment phase, a crucial and integral therapy part. The goal of NSPT is the removal of all bacterial deposits and the reduction of inflammation by means of mechanical debridement. The reduction of bacterial count below individual threshold levels of inflammation/disease establishes an adequate infection control. Although NSPT alone leads to significant improvement of the disease, the adjunctive use of antibiotics during NSPT has been significantly favourable in terms of clinical outcomes. Particularly the significant improvement of periodontal probing depth was observed at six-month follow-up.
+
+Nevertheless, the development of bacterial resistance due to the overuse of antibiotics has raised global concerns nowadays, leading to very strict recommendations for prescribing systemic antibiotics. Importantly, systemic antibiotic regimens have shown long-lasting impact on the faecal microbiome, including an increase in genes associated with antimicrobial resistance. Therefore, due to the serious concerns of the impact of systemic antibiotics on both individual patients' health and public health, their routine use as an adjunct to NSPT is not recommended. Following the latest recommendations, the systemic use of antibiotics alongside NSPT is justified and especially beneficial in younger individuals with generalised periodontitis stage III. In addition, especially patients suffering from generalised stage III, grade C periodontitis obtained clinically relevant greater benefits from systemic amoxicillin and metronidazole combination adjunctive to NSPT than placebo.
+
+Particularly, the beneficial changes after NSPT in the subgingival microbial composition, accompanied by important and sustained clinical improvements, were achieved with the adjuvant use of metronidazole and amoxicillin combination. A study pointed out that metronidazole was able to inhibit the production of TNF-α, among other cytokines. However, comparable observations were not confirmed in clinical settings.
+
+In addition to the use of systemic antibiotics, the adjunctive use of locally delivered subgingival antimicrobials may also be considered in periodontitis patients during NSPT. The advantage would be local action and controlled application, that could prevent developing the antimicrobial resistance to medications. In that sense, previous studies also reported the statistically significant benefits regarding periodontal probing reduction and clinical attachment level gain when performing NSPT with locally delivered antimicrobials. Conversely, other authors emphasised that the overall outcomes of local antimicrobial treatments were not found to be particularly promising, limiting the use of local antimicrobial therapy during the maintenance phase only, for treating remaining and isolated active pockets. Nonetheless, the development of various local antimicrobials preparations has been occurred, providing with potentially useful LA for previously mentioned purpose.
+
+Bearing in mind the somewhat controversial data found in present-day literature, the null hypothesis of the present study was set, stating that there was no statistically significant difference in periodontal probing depth between patients receiving systemic antibiotics and those receiving local antibiotics as an adjunct to NSPT. Accordingly, the primary aim of the present study was to compare the reduction of periodontal probing depth after the use of local and systemic adjuvant antibiotics during NSPT, at baseline and six months following the treatment. Furthermore, the secondary aims were differentiating the other clinical outcomes, along with total bacterial count and relative expression levels of certain pro-inflammatory mediators following the use of locally and systemically delivered adjuvant antibiotics during NSPT.
+
+2. Materials and methods
+
+2.1. Participants, sample size calculation, study design, and data collection
+
+The present single-blinded randomised clinical study included a total of 38 individuals. All participants were recruited at the Department of Periodontology and Oral Medicine, School of Dental Medicine, University of Belgrade, from 17/01/2023–11/03/2024. The laboratory procedures were conducted in the Laboratory for Molecular Biology, Implant-Research Centre, School of Dental Medicine, University of Belgrade. The research was approved by the Ethical Committee of the School of Dental Medicine prior to study initiation (written consent No 36/6). The research was conducted in full accordance with the 2013 revision of the Helsinki Declaration of 1975. All patients signed the written informed consent before inclusion in the study.
+
+Inclusion criteria:
+- Individuals 18–40 years old
+- Active periodontitis stage III according to the latest criteria, grade B or C
+- Non-smokers and light smokers (up to 10 cigarettes/day)
+
+Exclusion criteria:
+- Individuals younger than 18 years of age (minors)
+- Presence of systemic diseases affecting the tooth-supporting apparatus and bone metabolism (uncontrolled diabetes mellitus, cancer, immunodeficiency, metabolic bone diseases)
+- Patients receiving an immunosuppressive, anti-resorptive or anti-inflammatory therapy
+- Allergy to penicillin
+- Periodontal therapy within the last 6 months
+- Use of local and/or systemic antimicrobials within the last 6 months
+- Use of oral anti-plaque mouthwash at least one month prior to the study
+- Alcohol or drug abuse
+- Pregnancy or lactation
+
+Sample size: 17 subjects per treatment arm to provide 80% power to detect a true difference of 1.0 mm using PPD reduction in pockets ≥7 mm (SD 1.0 mm). Final n=38 (19 per group).
+
+Participants randomly assigned into two groups:
+1. LA group (n=19): local antibiotics (piperacillin + tazobactam, Gelcide) during NSPT
+2. SA group (n=19): systemic antibiotics (amoxicillin 500 mg TID + metronidazole 400 mg TID, 7 days) during NSPT
+
+Single-blinded: outcome assessor (M.V.) blinded to treatment allocation. No dropouts.
+
+2.2. Non-surgical periodontal therapy
+
+All patients underwent full-mouth NSPT.
+
+LA group: piperacillin + tazobactam (Gelcide; Italmed MedTechDental, Florence, Italy) delivered 24 h after NSPT completion. Single-delivery protocol. Applied in all periodontal pockets with PPD ≥ 4 mm using syringe with blunt needle at 6 points per tooth. Applied in all regions of both jaws in one visit.
+
+SA group: amoxicillin 500 mg TID + metronidazole 400 mg TID for 7 days after NSPT. Patient compliance monitored via daily logbooks.
+
+2.3. Laboratory procedures
+
+Subgingival GCF samples taken from pockets (PPD >5 mm, first quadrant) at baseline and 6-month follow-up. Paper points No. 30 inserted ≥30 seconds, transferred to RNAlater.
+
+DNA extraction (TRIzol): total bacteria quantification by qPCR targeting 16S rRNA gene (universal primers). Results expressed as total gene copy number.
+RNA extraction: cDNA synthesis, relative gene expression of IL-17 and TNF-α by qPCR, normalized to GAPDH.
+
+2.5. Statistical analysis
+
+Non-parametric tests (Kolmogorov-Smirnov normality test → Wilcoxon signed-rank within groups, Mann-Whitney U between groups). Significance p<0.05.
+
+3. Results
+
+3.1. Clinical results
+
+38 individuals: 60.5% female, 39.5% male.
+
+Table 1 — Clinical parameters at baseline and 6-month follow-up:
+
+                          LA group           SA group
+                    Baseline  6-month    Baseline  6-month
+PPD (mm)          3.932±0.536  3.253±0.505  4.084±0.583  3.289±0.548
+CAL (mm)          4.400±0.845  3.832±0.906  4.500±0.766  4.032±0.803
+BOP (%)           0.631±0.121  0.123±0.084  0.680±0.187  0.124±0.044
+PI                0.654±0.128  0.101±0.064  0.704±0.253  0.115±0.041
+
+No significant difference between groups at baseline or 6 months (p>0.05).
+Both treatments: highly significant improvement in all clinical measurements (p<0.001).
+
+3.2. Total bacterial count
+
+~10-fold decrease in total bacterial count after both treatments:
+- LA group: 1.87×10^x ± 5.44×10^x → 1.71×10^x ± 4.28×10^x (p=0.001)
+- SA group: 2.18×10^x ± 5.39×10^x → 2.28×10^x ± 4.47×10^x (p=0.013)
+No significant difference between groups at 6 months (p>0.05).
+
+3.3. Relative gene expression of pro-inflammatory cytokines
+
+IL-17 and TNF-α relative gene expression levels:
+- No significant difference between LA and SA groups
+- No significant change from baseline to 6 months within either group (p>0.05)
+
+4. Discussion (key points)
+
+- First clinical study comparing piperacillin + tazobactam (local) vs amoxicillin + metronidazole (systemic) as adjuncts to NSPT
+- Null hypothesis not rejected: no significant difference between protocols
+- Piperacillin + tazobactam: extended-spectrum ureidopenicillin; tazobactam is irreversible inhibitor of bacterial beta-lactamases; high activity against anaerobes
+- Better response against periodontopathogenic bacteria vs amoxicillin/clavulanic acid and minocycline
+- Single delivery of local antibiotics led to comparable effects to 7-day systemic antibiotic course at 6 months
+- Piperacillin + tazobactam may sustain at application site 7–10 days (vs most local antimicrobials <1 week)
+- Limitations: sample size (n=38), single-blinded design, only 2 cytokines evaluated, 6-month follow-up only, single-delivery protocol
+- TNF-α and IL-17 not significantly changed by either treatment — consistent with prior literature
+
+5. Conclusions
+
+Within limitations, adjuvant piperacillin + tazobactam during NSPT led to similar PPD reduction, clinical parameter improvement, bacterial count reduction, and cytokine expression as amoxicillin + metronidazole combination at 6 months. Local delivery may be a promising alternative to reduce systemic antibiotic use.
