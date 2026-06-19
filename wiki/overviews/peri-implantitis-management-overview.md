@@ -23,6 +23,7 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 > - 점막염 관리: 전문가 기계적 치면세균막 제거 (PMPR) 가 gold standard이며, 보조제 (CHX·국소 항생제·NaOCl·프로바이오틱스) 는 PMPR 단독 대비 일관된 추가 이득 없음 (Mauriello 2026). [합의수준]
 > - 외과적 표면 제염 (decontamination): 기계적·화학적·물리적 (레이저 등) 프로토콜 중 명확히 우월한 단일 방법 없음 — EFP S3 가이드라인의 "특정 방법 권고 불가" 입장을 정량 지지 (Baima 2022 SR+MA 16 RCT). [근거강함]
 > - 재건 수술: 포위형 (contained) 골내 결손에는 골유도재생술 (GBR) 이 비재건 대비 양호한 결손 충전·골 수준 이득 (Ramanauskaite 2023 NMA); 항균광역학치료 (aPDT) 는 저확실성 보조 (Jervoe-Storm 2024 Cochrane).
+> - **Hakkers 2026 신규 (단일맹검 RCT, n=52, 1년, 3·4벽 결손)**: 재건 수술(자가골+이종골+콜라겐막)이 개방소파술 대비 방사선학적 MBL 개선(β=−1.65 mm, p<0.001)과 협측 연조직 퇴축 감소(β=−1.68 mm, p<0.001)에서 유의한 이점; 그러나 PPD·BoP·SoP·복합 질환 해소율(양군 모두 약 44%)에 차이 없음 → 방사선학적 개선 ≠ 임상적 질환 해소 (역설). 3벽 결손은 T3–T6 조기 이점, 4벽 결손은 T12에만 이점. 재건 군의 부작용(통증·구강건조·금속 맛·두통) 유의하게 많음 → 환자 상담 필수.
 > - 보철 디자인이 변연골소실 (MBL) 을 유의하게 줄이는 조절 가능 레버 (Lin 2025 AO/AAP SR+MA 93편): 플랫폼 스위칭 (p<0.0001) · 원추형 내부 연결 (p<0.0001) · 어버트먼트 높이 ≥2mm (p<0.0001) · one-abutment-one-time (p<0.0001) · 비스플린트 (p=0.04). [근거강함]
 > - 중립 (MBL에 무영향): 나사 vs 시멘트 유지 (p=0.51), 치관-임플란트 비 (p=0.32) — 유지 방식은 MBL이 아니라 재제거 용이성 (retrievability)·교합으로 결정한다.
 > - 결정 framework: BoP만 (골소실 없음) = 점막염 → PMPR + SPT, BoP + 골소실 = 임플란트주위염 → 비외과 우선 → 3–6개월 후 불충분하면 외과 (포위형 결손 → GBR 재건, 비포위형/수평 소실 → 절제형/접근 수술).
@@ -94,6 +95,27 @@ Adjunctive aPDT (antimicrobial photodynamic therapy):
 - Quantitative SUCRA rankings: full-text extraction recommended [미검증]
 
 Reconstruction goals: defect fill, re-osseointegration, soft-tissue recession limitation.
+
+**Hakkers 2026 (single-blind RCT, n=52 patients/63 implants, 1 year — defect-morphology subgroup data):**
+
+Single-blind RCT (Groningen, Netherlands) comparing reconstructive surgery (autogenous bone + Bio-Oss xenograft 1:1 + Bio-Gide membrane) vs open-flap debridement (OFD) in 3- and 4-wall peri-implantitis defects that failed prior non-surgical treatment.
+
+Key findings:
+- **MBL (radiographic bone level)**: Reconstruction significantly superior at all timepoints — β = −1.65 mm at 12 months (95% CI −2.54 to −0.77, p<0.001); benefit increases progressively T3→T12
+- **Mid-buccal recession**: Reconstruction significantly less recession — β = −1.68 mm at 12 months (p<0.001); clinically meaningful soft-tissue preservation
+- **PPD, BoP, SoP, disease resolution**: NO significant differences between groups at any timepoint
+- **Disease resolution rate at 12 months**: Test 43.8% vs Control 44.4% — virtually identical
+- **Radiographic-clinical paradox**: Sustained radiographic bone fill without improved clinical inflammatory resolution — challenges use of radiographic endpoints alone as success criteria; xenograft radiopacity may confound MBL readings
+- **Adverse events**: Reconstruction group had significantly more pain, mouth dryness, metal taste, and headache (all p<0.05) — should factor into patient counseling given equivalent disease resolution
+
+**Defect morphology subgroup (exploratory, post hoc):**
+
+| Defect type | Reconstruction advantage | Timing |
+|---|---|---|
+| 3-walled defects | MBL (p=0.03 at T3, p=0.01 at T6); disease resolution at T6: 58.3% vs 16.7% (p=0.045) | Early benefit (T3–T6) |
+| 4-walled defects | MBL at T12 only: test 2.5 vs control 3.0 mm (p=0.04) | Late benefit (T12 only) |
+
+**Clinical implication**: 3-wall defects respond earlier and more robustly to reconstruction than 4-wall defects. The key decision driver is NOT defect morphology alone (3 vs 4 wall) but rather that **radiographic gain does not equate to clinical disease resolution** in either defect type. Reconstruction offers a soft-tissue and radiographic advantage; the patient must also accept a higher adverse event burden for no improvement in composite disease resolution. [rct, n=52, 1yr — methodologically rigorous]
 
 ---
 
@@ -170,7 +192,11 @@ Non-surgical phase first (PMPR + adjunctive antiseptics)
     → If insufficient after 3–6 months → Surgical
     ↓
 Surgical:
-    Contained intrabony defect → GBR reconstruction
+    Contained intrabony defect → GBR reconstruction (autogenous + xenograft + membrane)
+        3-wall defects: earlier MBL benefit (T3–T6); disease resolution gain at T6 (Hakkers 2026)
+        4-wall defects: MBL benefit emerges later (T12); disease resolution unchanged (Hakkers 2026)
+        CAUTION: radiographic MBL improvement ≠ clinical disease resolution (paradox documented)
+        Higher adverse event burden with reconstruction — patient counseling required
     Non-contained / horizontal loss → Resective or access surgery
     Surface decontamination: no single superior protocol; combine mechanical + chemical
     aPDT: low-certainty adjunct
@@ -204,6 +230,7 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — emergence angle >30° / convex profile → peri-implantitis (SR, 3 studies)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — RM-AC ≤1.5 mm → 3.42× MBL; IDRA threshold validation (retrospective)
 - [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — thin gingival phenotype as indirect bone-loss risk factor (SR, 8 studies)
+- [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — RCT (n=52, 1yr): reconstruction superior MBL (β=−1.65 mm) and recession (β=−1.68 mm); disease resolution equal (44% both); 3-wall defects benefit earlier; radiographic-clinical paradox documented; higher adverse events
 - [[implants/peri-implantitis/ramanauskaite-2023-guided-bone-regeneration-periimplantitis-defects-nma]] — GBR NMA
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 multicenter RCT: electrolytic vs H₂O₂ decontamination, no superiority
 - [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 RCT: reconstruction = equal resolution but 3× bone fill vs supportive care
