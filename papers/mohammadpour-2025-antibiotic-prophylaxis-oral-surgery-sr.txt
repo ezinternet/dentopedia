@@ -1,0 +1,100 @@
+Rational utilization of antibiotic prophylaxis in oral and maxillofacial surgery: a large scope review of recent data
+
+PMID: 41286855 | PMCID: PMC12642252 | DOI: 10.1186/s12903-025-07237-y
+
+Source: PubMed Central (PMC) full text retrieval via get_full_text_article
+
+Background
+
+Millions of individuals worldwide are impacted by oral and maxillofacial surgeries annually. Encompassing the area from the skull base to the hyoid bone, the maxillofacial region is of critical physiological significance. It is connected to auditory, optic, speech, and olfactory systems, as well. Facial traumatic surgical interventions involve the maxillofacial bones, including those in the upper face, midface (zygoma, maxilla, orbit, and nose), and mandible. Non-traumatic procedures include third molar removals, implants, cleft lip and palate, and orthognathic surgeries. Currently, open reduction and internal fixation are employed to manage facial traumatic procedures to enhance stabilization, injury repair, and cosmetic outcomes. Although only 12% of the body's surface area is comprised of the head, neck, and maxillofacial regions, they account for nearly 50% of all traumatic injuries. One of the main objectives for the surgical treatment of maxillofacial injuries is to create conditions that support effective healing and reduce the risk of infection. One frequent side effect of oral or maxillofacial procedures is surgical site infections. Typically, infection rates after oral and maxillofacial surgeries fall between 0% and 62%. Surgical site infections occur either within a month after surgery or, in cases where implanted materials are used, within a year of the procedure.
+
+Prophylactic antibiotic treatment is believed to have a significant impact on promoting ideal recovery after oral and maxillofacial surgery. The decision to prescribe antibiotics is influenced by the patient's oral and systemic health. The risk of infections is increased by periapical abscesses, severe periodontal disease, traumatic injuries with mucosal breach, and odontogenic diseases. Diabetes, cardiovascular disease, hematological disorders, cancer, malnutrition, obesity, smoking, alcohol use, aging, and a compromised immune system are all factors that raise infection risk, as do longer operations, urgent surgeries, and contaminated surgical wounds. Moreover, acute viral infections can compromise the immune system and allow secondary bacterial infections that may require antibiotics. In surgery, antibiotic prophylaxis is typically used only for procedures that carry a high risk of bacterial infection or when patient characteristics substantially raise the likelihood of an infection. These consist of open mandibular or maxillary fractures, clean-contaminated intraoral mucosal surgeries, reconstructive flap-based oncological resections, and interventions in immunocompromised patients. Clean-contaminated referred to an incision made through which the digestive or respiratory tracts were accessed under closely monitored conditions without any contamination.
+
+Perioperative prophylactic antibiotics are typically given to patients with clean and clean-contaminated facial fractures who are undergoing surgery. The perioperative period lasts from 2 h before surgery up to 24 h after surgery. Various studies have confirmed that administering antibiotics perioperatively is effective in reducing infection rates associated with facial fractures. Moreover, preoperative antibiotic prophylaxis, given before the perioperative period, is thought to reduce the infection rate associated with mandibular fractures and is commonly employed in managing traumatic injuries. Yet, there is ongoing debate surrounding the effectiveness of administering prophylactic antibiotics postoperatively for a prolonged period exceeding 24 h, with significant differences in practice depending on the surgeon's preference.
+
+Methods
+
+This large scope review was carried out following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews (PRISMA-ScR) guidelines (2020 edition).
+
+A certified librarian peer-reviewed the search strategy. A comprehensive search of the existing literature was performed, and articles from the Ovid MEDLINE, PubMed, Embase, Google Scholar, and Web of Science (Clarivate) databases published between 2000 to 2025 were retrieved and evaluated. Boolean operator "AND" was employed to refine the search strategy. The keywords used for search were "antibiotic prophylaxis" AND "oral" AND "mandibular" AND "maxillofacial" AND "fracture" AND "surgery".
+
+We included published randomized controlled trials, cohort, pre-, peri-, and postoperative prophylactic antibiotic studies, and excluded case series and case reports due to inadequate patient numbers and the absence of a comparison group. Moreover, published abstracts, conference posters, letters, articles in non-English languages, and articles of which the full text was not available, were excluded. We placed no limitations on the type, dosage, duration, or method of antibiotic prophylaxis. All human prospective and retrospective clinical studies are included.
+
+Participants in the study consisted of male and female patients of all ages who underwent surgical treatment for facial fractures. Facial fractures included non-pathological traumatic fractures of the mandible, maxilla, zygoma, nasal, lacrimal, vomer, palatine, orbital, ethmoid, or sphenoid bones.
+
+Results
+
+A broad survey of published literature on this subject is presented in this study. The review process identified 542 papers. Of these, 261 duplicates, not full-text, and non-English articles were excluded. Of the remaining 281 papers, 125 were included in the final comprehensive review. Among these, 25 were randomized controlled trials, 60 were cohort studies, and 40 were systematic reviews.
+
+Categorization of surgical injuries based on contamination-infection risk:
+
+Type I: clean injuries
+Injuries that do not disrupt mucous membranes, such as those in the oral cavity, have an infection rate ranging from 1% to 4%. No prophylaxis or prophylaxis lasting no more than 24 h with amoxicillin/clavulanic acid (co-amoxiclav or Augmentin) is recommended, as there is no benefit (grade III) to administering postoperative antibiotics.
+
+Type II: Clean-contaminated injuries
+Injuries that involve the disruption of the mucosa, such as those occurring in the oral cavity or surgeries performed in inflamed areas, exhibit an infection rate ranging from 5% to 15%. It is recommended to utilize co-amoxiclav, cefazolin in combination with clindamycin, or metronidazole for prophylaxis against Gram-positive and anaerobic bacteria. Co-amoxiclav is administered as 2 g; if surgery is prolonged, a repeat dose of 1 g every 4 h is recommended. For those who have an allergy to beta-lactam antibiotics, a combination of clindamycin and gentamicin is administered.
+
+Type III: contaminated injuries
+Oncological surgery involving the oral cavity and the neck has an infection rate ranging from 16% to 25%. Prophylactic strategies for Gram-positive, Gram-negative, and anaerobic bacteria are administered using medications such as ampicillin/sulbactam or piperacillin/tazobactam.
+
+Type IV: infected injuries
+Dirty and infected injuries exhibit an infection rate of 25%. Antibiotic treatment is consistently preferred over prophylaxis.
+
+Key findings by procedure:
+
+Third molar removals (clean-contaminated surgery):
+- SSI rate: 1-11%; lower third molars 1.5-5.8%
+- Prophylactic antibiotics lower infection risk by 60-70% after extraction
+- Single oral dose of 2 g amoxicillin preoperatively for osteotomy recommended
+- Clindamycin not generally suggested for prophylaxis except for penicillin allergy
+- Insufficient evidence on optimal timing (pre-, peri-, postoperative)
+
+Dental implants:
+- SSI rate: 4-10%; success rates 95-99%
+- Antibiotic prophylaxis not needed for single implant in healthy/low-risk individuals
+- 2 g preoperative amoxicillin = 1 g preop + 2-day postop in outcomes
+- Prolonged postoperative antibiotic therapy NOT shown to improve outcomes
+
+Cleft lip and palate surgery:
+- SSI rate: 1.1-4.4%
+- Perioperative cefuroxime + postoperative amoxicillin 500mg q8h x 5 days decreases fistula rate
+- Insufficient data for routine antibiotic prophylaxis
+
+Maxillofacial traumatic fractures:
+- SSI rate: 1-33% (pooled 5.6% in meta-analysis)
+- Preoperative amoxicillin 2g or penicillin V recommended
+- Postoperative antibiotics beyond 24 h show NO substantial advantage
+- Clindamycin only for penicillin-allergic patients
+
+Mandibular and dentoalveolar fractures:
+- SSI rate: 3.3-43.9%
+- Pre-, peri-, and postoperative antibiotics all strongly approved
+- 1-day postoperative IV antibiotics sufficient
+- Clindamycin only for penicillin allergy
+
+Temporomandibular joint replacements:
+- SSI rate: 1.5-4.5%
+- Perioperative IV antibiotics (cefazolin, cefuroxime, clindamycin, vancomycin) strongly approved
+- Postoperative: limited evidence, weakly approved
+
+Orthognathic surgery:
+- SSI rate: 1.4-33.4%
+- Preoperative antibiotics reduce SSI
+- Extended postoperative use NOT supported; 5-day regimen may lower morbidity
+- Co-amoxiclav preferred; cefazolin also used
+
+Oncological/head and neck surgery:
+- SSI rate: 22.7-46%
+- Perioperative antibiotics essential
+- Pre/perioperative coverage for Gram-positive, Gram-negative, and anaerobes required
+- Extended prophylaxis >24 h not supported except possibly for microvascular free-flap
+
+Discussion
+
+Extended antibiotic prophylaxis >7 days significantly increases infection risk (delayed complications, antimicrobial resistance). A survey found only ~1% of surgeons use >1 week for open mandibular fractures, yet ~55% still use 1 week. Current evidence supports short-course, targeted prophylaxis over prolonged empirical regimens.
+
+Conclusion
+
+Evidence supports antibiotic prophylaxis for: third molar extraction, smashed mandible fractures, TMJ replacement, complex implant procedures (grafts/multiple implants), and clean-contaminated tumor resections. Perioperative prophylaxis (< 24 h) is adequate for most indications. Prolonged postoperative courses do not reduce SSI rates and increase AMR risk. Antimicrobial stewardship is essential.
+
+Limitations: Substantial heterogeneity in included studies; varied antibiotic types, durations, follow-up periods; retrospective cohort designs; short follow-up (median ~6 weeks) likely missing late-presenting infections; many studies did not distinguish open vs. closed fractures.
