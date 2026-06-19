@@ -1,0 +1,189 @@
+Title: Clinical Efficiency of Lasers in Endodontic Treatment of Primary Endodontic Cases: An Umbrella Review of Systematic Reviews
+
+PMID: 41833582
+PMCID: PMC13000699
+DOI: 10.1016/j.identj.2026.109470
+Journal: International Dental Journal
+Year: 2026
+Date: 2026-03-01
+
+Authors: M.A.D. (conceptualization, methodology, formal analysis, investigation), J.A.N. (validation, data curation, supervision), J.F.-F. (validation, data curation, supervision), M.C. (supervision)
+Note: Full author names not fully spelled out in retrieved text. Corresponding author initials: M.A.D., J.A.N., J.F.-F., M.C.
+
+PROSPERO Registration: CRD42025599352
+
+---
+
+ABSTRACT
+
+Objectives
+To evaluate and synthesise the current evidence on the efficacy of laser-activated irrigation in endodontics, with a focus on microbial reduction, postoperative outcomes, and its potential as an adjunct to conventional irrigants.
+
+Method
+A comprehensive search was conducted to identify relevant systematic reviews. A total of 319 systematic reviews were initially identified. After the removal of 116 duplicates, 203 records were screened. Of these, 22 systematic reviews met the eligibility criteria. However, reviews that included exclusively in vitro studies or were considered to have limited clinical relevance were excluded. Ultimately, 9 systematic reviews were included in this umbrella review, evaluating different laser systems such as Er:YAG, Er,Cr:YSGG, Nd:YAG, and diode lasers in the context of root canal irrigation. This review was registered at PROSPERO (CRD42025599352). For this umbrella review, 5 electronic databases (PubMed/MEDLINE, Cochrane Database of Systematic Reviews, SciELO, Web of Science, and LILACS) were systematically searched from inception through December 2024, with no language or publication date restrictions applied. Study selection followed predefined eligibility criteria, and the methodological quality of the included systematic reviews was assessed using the AMSTAR 2 tool.
+
+Conclusions
+The available evidence on laser-activated irrigation in endodontics remains limited and heterogeneous. Although some systematic reviews suggest potential benefits in canal disinfection and postoperative outcomes, the findings are inconsistent and largely constrained by variability in laser wavelengths, study designs, and outcome measures. Consequently, further standardised, high-quality clinical research is required before definitive conclusions regarding the clinical effectiveness of laser-activated irrigation can be established.
+
+Clinical Significance
+Laser-assisted irrigation should currently be regarded as an adjunct with unproven clinical benefit, pending robust evidence from well-designed studies with standardised protocols and clinically relevant outcomes.
+
+---
+
+FULL TEXT
+
+Introduction
+
+The dental pulp and the periodontium are interconnected through both anatomic structures and pathologic conditions. The establishment of connections between anatomic structures is facilitated by exposed dentin, accessory canals, and the apical foramen. In the presence of pathologic conditions, such as root fractures, additional communication pathways are created. When pathogens and their toxins invade the root canal, they can reach the periodontium and trigger an inflammatory response that is often asymptomatic and is described as apical periodontitis (AP). AP is diagnosed through radiographic examination, with a reported global prevalence ranging from 16% to 86%. It is imperative to achieve effective decontamination of the infected tooth in order to resolve AP and restore periodontal health.
+
+The primary objectives of endodontic therapy are as follows: first, to eradicate bacteria; second, to eliminate microbial biofilms and their by-products from the root canal system; and third, to prevent subsequent reinfection of the intracanal spaces. Reducing the bacterial load to a level below the threshold required for healing is achieved through the combined processes of root canal preparation and disinfection.
+
+Traditional endodontic instrumentation often leaves significant portions of the canal surface untouched, limiting the effectiveness of disinfection and potentially compromising treatment outcomes. Actually, approximately 60% of the root canal surface may remain uninstrumented by endodontic rotary files, resulting in suboptimal debridement and disinfection of the entire canal system. Therefore, endodontic activation plays a crucial role in enhancing disinfection by targeting previously inaccessible areas. Activation techniques, such as sonic or ultrasonic agitation and laser-assisted methods, aim to overcome these limitations by improving the distribution, agitation, and penetration of irrigants into areas that are otherwise difficult to access. Laser therapy, in particular, has emerged as a promising modality for endodontic activation, offering unique advantages such as deep penetration of energy, enhanced antimicrobial effects, and the potential to disrupt biofilms in intricate canal networks. The integration of laser-based activation into endodontic protocols has been demonstrated to facilitate superior debridement and disinfection, contributing to improved clinical success rates.
+
+Recent innovations in laser technology have not only expanded the scope of endodontic treatment but also introduced new possibilities for minimally invasive and precise therapeutic interventions. In fact, over the past 2 decades, the activation of root canal irrigants using pulsed lasers as an adjunct to root canal treatment has gained significant popularity. Currently, lasers are beginning to exert a substantial impact on endodontic therapy as adjunctive treatments owing to their demonstrated antimicrobial effects. Laser-activated irrigation has been specifically developed to enhance the efficacy of irrigation solutions in cleaning and disinfecting the root canal system. Among the lasers studied, diode-, erbium-, and chromium-doped yttrium scandium gallium garnet (Er,Cr:YSGG), neodymium-doped yttrium aluminium garnet (Nd:YAG), and erbium-doped yttrium aluminium garnet (Er:YAG) lasers have shown promise in improving outcomes as adjunctive therapies in endodontic procedures.
+
+Diode (810–1064 nm) and Nd:YAG (1064 nm) lasers have wavelengths in the visible and near-infrared spectrum, which results in more pronounced bactericidal activity in dentinal tissue. In contrast, mid-infrared lasers, such as those of the erbium family, including Er,Cr:YSGG (2780 nm) and Er:YAG (2940 nm), are highly absorbed by water and hydroxyapatite, resulting in primarily superficial interactions with dentin.
+
+Diode lasers are semiconductor-based devices that generate light in the visible to near-infrared range, typically between 810 and 980 nm, which is readily absorbed by hemoglobin and melanin but poorly absorbed by hydroxyapatite and water. Their operation relies on the excitation of electrons in a semiconductor to produce coherent and monochromatic light. This energy is transmitted to oral tissues via a flexible optical fibre, enabling precise and controlled interaction with both soft and hard dental structures. Their compact size, ease of use, and relative cost-effectiveness make them popular in clinical practice, but they are most frequently used for soft tissue surgery, hemostasis, and gingival contouring and not so much for endodontic treatment.
+
+The Nd:YAG laser, with a wavelength of 1064 nm, exerts its biological effects through photothermal mechanisms. Absorbed laser energy is converted into heat, which disrupts bacterial cell structures and reduces microbial populations within the root canal system. This process involves protein denaturation, cell membrane disruption, and biofilm matrix degradation. Furthermore, the Nd:YAG laser can penetrate dentinal tubules, providing access to microbes beyond the reach of conventional chemomechanical preparation and enhancing the efficacy of disinfection against complex polymicrobial infections.
+
+The Er,Cr:YSGG laser emits light at 2780 nm, which is highly absorbed by water and hydroxyapatite. In endodontic applications, this strong water absorption generates photoacoustic effects in irrigants, producing vapor bubbles and secondary cavitation. These phenomena enhance irrigant movement and promote biofilm disruption within the root canal system, improving canal cleanliness and disinfection.
+
+The Er:YAG laser, operating at a wavelength of 2940 nm, also exhibits a strong affinity for both water and hydroxyapatite, with absorption peaks at approximately 3000 nm and 2800 nm, respectively. The Er:YAG laser demonstrates antimicrobial activity against a broad spectrum of oral microorganisms, including both aerobic and anaerobic bacteria commonly associated with endodontic infections. This effect is attributed to the rapid absorption of laser energy by intracellular and extracellular water, which disrupts bacterial cells. Furthermore, Er:YAG increases irrigant flow and exerts physical forces on the root canal walls, thereby disrupting biofilm and enhancing canal cleaning. These properties, together with the absence of vibration and reduced need for anesthesia, contribute to improved patient comfort and clinical control, reinforcing the Er:YAG laser as a versatile and biologically compatible tool in modern dental practice.
+
+Despite the growing number of studies on laser-activated irrigation in endodontics, the results are often contradictory and limited by heterogeneous methodologies. To date, no comprehensive synthesis integrates and critically evaluates the different types of lasers used, their technical parameters, and their reported clinical effects. Therefore, this umbrella review aims to fill this gap by offering an integrated view of the clinical effectiveness of laser systems as adjuncts to endodontic treatment.
+
+The laser approach holds promise for enhancing bacterial eradication in resistant endodontic infections and reducing reliance on chemical agents, thereby minimizing adverse effects on periapical tissues. However, a consensus has yet to be reached regarding the most effective laser system for adjunctive therapy in root canal treatment. This umbrella review aims to systematically assess the effectiveness of different laser systems in endodontic treatment, providing evidence-based insights to optimise clinical outcomes.
+
+Methods
+
+The protocol for this umbrella review was defined a priori by all authors and performed in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses 2020 guidelines. The protocol was previously registered in PROSPERO (CRD42025599352), ensuring methodological transparency and reproducibility.
+
+An umbrella review methodology was adopted to synthesise evidence from systematic reviews with or without meta-analysis to assess the clinical effectiveness of laser-assisted techniques in endodontic treatment. A comprehensive electronic search was performed in 5 electronic databases (PubMed-MEDLINE, Cochrane Database of Systematic Reviews, SciELO, Web of Science, and LILACS) from database inception through December 2024.
+
+Search strategies were initially developed for MEDLINE and subsequently adapted for each database to account for differences in indexing and controlled vocabulary. Searches were limited to articles published in English and Portuguese.
+
+Bibliographic search strategy
+The search strategy was developed collaboratively by the authors. The primary search terms included "endodontic treatment," "root canal treatment," "laser therapy," and "laser." The keywords were agreed upon using the Boolean operators "AND" and "OR." Database-specific adaptations of the search strategy were applied.
+
+Study selection
+All retrieved references were imported into the Rayyan web-based platform (Qatar Computing Research Institute) for reference management, duplicate removal, and blinded screening. Two blinded, independent researchers (M.A.D. and J.N.), who analysed the articles based on title and abstract, selected those that met the inclusion criteria. Potentially relevant articles were retrieved in full text and independently assessed for final inclusion. Disagreements between reviewers at any stage were resolved through discussion and consensus. Additional relevant literature was included after a manual search of the reference lists of the final included articles.
+
+Eligibility criteria
+The inclusion criteria were as follows: [systematic reviews of clinical studies on laser use in endodontic treatment]
+
+Reviews were excluded for: [exclusively in vitro studies, limited clinical relevance]
+
+Methodological quality assessment
+The methodological quality and risk of bias of the included systematic reviews were independently assessed by 2 reviewers using the MeaSurement Tool to Assess Systematic Reviews (AMSTAR 2). AMSTAR 2 is a validated, comprehensive 16-item tool that rates the overall confidence of the results of the review.
+
+According to AMSTAR guidelines, the quality of the systematic reviews was considered as follows: high means zero or 1 noncritical weakness, moderate means more than 1 noncritical weakness, low means 1 critical flaw with or without a noncritical weakness, and critically low means more than 1 critical flaw with or without a noncritical weakness. The estimation of the AMSTAR quality rate for each study was calculated using the AMSTAR 2 online checklist. Any discrepancies were resolved by consensus.
+
+Results
+
+Study selection
+Electronic searches retrieved a total of 319 titles through database searching. After manual assessment of the title/abstract and removal of duplicates, 22 potentially eligible full texts were screened. Full-text screening excluded 13 studies with reasons, resulting in 9 systematic reviews that fulfilled the inclusion criteria. Interexaminer agreement at the full-text screening was recorded as high (κ score = 1.00).
+
+Study characteristics
+In total, 9 systematic reviews were included in the present umbrella review.
+
+Risk of bias
+Good interexaminer reliability in the risk of bias screening was recorded (κ score = 0.78; 95% CI, 0.487–1.000). Only 1 of the included studies fully satisfied the AMSTAR 2 criteria, 2 presented moderate quality, 2 were assessed as low quality, and 4 had critically low quality.
+
+Synthesis of results
+
+Diode lasers (810–980 nm)
+In a systematic review, the efficacy of diode lasers was evaluated in 3 studies. Two of these focused on pain reduction as the primary outcome, while another examined the reduction of periapical lesions.
+
+Nd:YAG laser (1064 nm)
+In the systematic review by Meire et al, 2 studies investigated Nd:YAG laser application: Koba et al assessed the effects of irradiation in dry canals, evaluating both pain reduction and periapical lesion healing through radiographic analysis. In contrast, Verma et al examined the use of Nd:YAG in liquid-filled canals, assessing periapical healing using cone-beam computed tomography imaging.
+
+Er,Cr:YSGG laser (2780 nm)
+In the systematic review by Meire et al, for the Er,Cr:YSGG laser (2780 nm), a study evaluated its use in both dry and liquid-filled canals. In this study, using periapical radiographs, the periapical lesion was measured.
+
+Crack formation
+In the systematic review by Oliveira Tavares et al, the main objective was to evaluate the effects of lasers on root canal walls during endodontic treatment procedures in general. In this review, the Nd:YAG laser was the most common type of laser among the included articles. Most studies indicated that laser irradiation caused cracks in the dentin. However, these concerns could be resolved by using proper dentin cooling and correct laser application parameters, as tissue response to lasers is influenced by irradiation parameters, such as repetition rate, pulse energy, wavelength, and optical properties of the tissue. In fact, it is mentioned that CO2 lasers, the second most frequently analysed laser in the current systematic reviews, when used in continuous mode, caused a significantly higher incidence of cracks and microcracks compared to unfocused CO2 lasers in pulsed mode.
+
+Finally, the systematic review by Oliveira Tavares et al indicates that laser irradiation of root canal dentin can cause cracks to form and propagate within the dentinal structure. However, the main studies found no significant difference between laser and ultrasonic tips in this respect. In addition, only 9 of the 22 included articles reported on the prior assessment of the presence of cracks and microcracks in the dentin before the intervention. In other words, most of the articles did not conduct any crack analysis before the experiment.
+
+Pulpotomy in primary teeth
+In this umbrella review, only 1 systematic review on pulpotomy in primary teeth met the inclusion criteria. The aim of this study was to compare laser-assisted pulpotomy with conventional techniques. A total of 7 studies were analysed, involving patients aged between 4.5 and 7.9 years. Among these studies, 3 used the Nd:YAG laser, 1 used a 632-nm diode laser, another used a 980-nm diode laser, 1 applied the Er:YAG laser (2940 nm), and 1 relied on a CO₂ laser. Except for 1 study that included teeth with symptomatic vital pulpitis, all investigations were conducted exclusively on asymptomatic vital pulps.
+
+Due to variations in laser types, pulp stump dressings, and follow-up periods, it was not possible to derive definitive conclusions regarding the overall benefit of laser irradiation in pulpotomy procedures. Nevertheless, the study underscores the importance of continued advances in laser technology for pulpotomy and pediatric dental care. Managing deep carious lesions and the subsequent endodontic treatment of primary teeth remains a significant challenge for pediatric dentists, highlighting the need for further research and innovation in this area.
+
+Discussion
+
+This umbrella review aimed to critically synthesise the available evidence on the clinical effectiveness of laser-assisted techniques in endodontic treatment, with particular emphasis on laser-activated irrigation, postoperative outcomes, and periapical healing. By integrating data from 9 systematic reviews of varying methodological quality, this study provides a comprehensive overview of the current state of evidence while highlighting important gaps that limit the translation of laser technologies into routine clinical practice.
+
+Although several systematic reviews reported favorable outcomes when lasers were used in conjunction with conventional chemomechanical preparation, these findings were frequently derived from heterogeneous clinical protocols, limited sample sizes, and studies with short follow-up periods. This heterogeneity has a significant impact on the reliability of causal inferences and makes direct comparison among laser systems, activation protocols, and outcome measures extremely difficult.
+
+It is noteworthy that only 1 of the included systematic reviews achieved a high methodological quality rating according to AMSTAR 2, while most were classified as low or critically low quality. This predominance of low-quality evidence suggests that the apparent benefits of laser-assisted techniques may be overestimated and highlights a recurring issue in endodontic laser research: rapid technological adoption without parallel methodological standardisation. As noted in previous narrative and systematic reviews, promising laboratory results have not consistently translated into robust clinical benefits.
+
+Erbium lasers
+Erbium lasers, including Er:YAG (2940 nm) and Er,Cr:YSGG (2790 nm), offered the most consistent and biologically plausible advantages of the systems evaluated. Their strong absorption by water and hydroxyapatite generates photoacoustic and cavitation effects that enhance irrigant agitation and penetration into lateral canals, isthmuses, and apical ramifications. These physical mechanisms directly address well-recognised limitations of conventional needle irrigation and align with contemporary concepts of minimally invasive endodontics.
+
+Several systematic reviews have reported improved microbial reduction and radiographic signs of periapical healing when erbium lasers were used as adjuncts to irrigation. However, it is important to note that these improvements were not consistently superior to those achieved with passive ultrasonic irrigation. This suggests that erbium lasers may represent an alternative activation strategy, rather than a clearly superior one. From a clinical standpoint, this finding is highly relevant, as ultrasonic activation is more widely available and less resource-intensive.
+
+Diode lasers
+Diode lasers were most frequently associated with postoperative pain reduction, particularly within the first 48 to 72 hours following treatment. It is likely that the analgesic effect is related to photobiomodulation, which may reduce the release of proinflammatory mediators and modulate neural transmission in periapical tissues. A comparison of diode systems and erbium lasers reveals that the former offers limited benefits in terms of irrigant activation, smear layer removal, and biofilm disruption. Consequently, their primary clinical value may lie not in enhanced disinfection, but rather in improving patient-centred outcomes such as postoperative comfort.
+
+However, the supporting evidence remains weak due to small sample sizes, variable pain assessment methods, and short observation periods. Consequently, diode lasers should be considered adjunctive, rather than universally applicable.
+
+Nd:YAG lasers
+Nd:YAG lasers have demonstrated potential benefits in deep canal disinfection and periapical healing, particularly due to their ability to penetrate dentinal tubules. This property theoretically allows for bacterial reduction beyond the reach of irrigants and mechanical instrumentation.
+
+However, there are important safety concerns regarding their clinical use. Several reviews have highlighted an increased risk of dentinal microcrack formation, particularly when high-energy settings or continuous emission modes are used.
+
+The current limitations on the routine use of Nd:YAG lasers in endodontic therapy are due to uncertainty between microbial efficacy and structural integrity. Until there are clearly defined and universally accepted irradiation parameters, the risk-benefit balance of Nd:YAG lasers will remain uncertain.
+
+Structural effects on dentin
+One of the most clinically relevant concerns identified in this umbrella review relates to laser-induced structural alterations of root canal dentin. While several systematic reviews have reported crack or microcrack formation associated with laser irradiation, these effects were highly dependent on irradiation parameters and not consistently more severe than those observed with ultrasonic instruments.
+
+A key methodological issue identified in primary studies was the lack of baseline assessment for preexisting dentinal defects. This limitation significantly restricts the ability to interpret causality and highlights the importance of adopting standard pre- and postoperative imaging protocols in future studies.
+
+Laser-assisted pulpotomy in primary teeth
+The evidence supporting laser-assisted pulpotomy in primary teeth is currently limited, and the research methods used are not consistent. Although some studies suggested comparable or slightly improved outcomes relative to conventional pulpotomy techniques, variations in laser type, pulp dressing materials, and follow-up duration precluded definitive conclusions.
+
+Among the different laser types analysed, diode lasers were the most frequently utilised, followed by Er:YAG lasers, Nd:YAG lasers, and Er,Cr:YSGG lasers.
+
+From a paediatric dentistry perspective, the potential advantages of laser use—such as improved hemostasis, reduced chair time, and enhanced patient cooperation—are clinically attractive. However, these potential benefits remain insufficiently supported by high-quality clinical evidence.
+
+Clinical implications
+From a clinical perspective, the findings of this umbrella review suggest that laser-assisted techniques should not replace conventional chemomechanical preparation but may serve as adjuncts in selected cases. Erbium lasers are the most appropriate option for enhancing irrigant activation in complex canal anatomies. Diode lasers, on the other hand, may be considered when postoperative pain reduction is a priority. Due to their potential structural risks, Nd:YAG lasers should be used with caution and only under strictly controlled parameters.
+
+Nevertheless, given the predominance of low-quality evidence, clinicians should remain cautious and avoid overreliance on laser technology in the absence of robust clinical justification.
+
+Limitations of the evidence
+The conclusions of this umbrella review are inherently constrained by the low methodological quality of most included systematic reviews. The quality of the available evidence is significantly reduced by high heterogeneity, inconsistent outcome reporting, lack of standard laser protocols, and limited long-term follow-up. Additionally, the combination of in vitro and clinical data within reviews further limits the clinical applicability of their conclusions.
+
+Conclusion
+
+This umbrella review synthesises the current evidence on the clinical effectiveness of laser-assisted techniques in endodontic treatment. Overall, the available evidence remains limited and heterogeneous, largely due to variability in laser systems, irradiation parameters, outcome measures, and study designs across the included systematic reviews.
+
+Among the evaluated technologies, erbium-based lasers (Er:YAG and Er,Cr:YSGG) demonstrated the most consistent benefits as adjuncts to conventional irrigation, particularly in enhancing canal decontamination and biofilm disruption in anatomically complex regions. Diode lasers showed promising results in postoperative pain reduction, while Nd:YAG lasers exhibited potential for deeper dentinal disinfection, albeit with concerns regarding dentinal microcrack formation when inappropriate parameters are used.
+
+Importantly, the methodological quality of the included systematic reviews was predominantly low to critically low, which significantly limits the strength of the conclusions that can be drawn. The lack of standardised laser protocols, inconsistent clinical endpoints, and short follow-up periods further compromise the clinical applicability of the findings.
+
+Based on the current evidence, laser-assisted irrigation should be regarded as an adjunctive technique with potential, but not yet definitive, clinical benefit. High-quality randomised clinical trials with standardised laser parameters, clinically relevant outcomes, and long-term follow-up are essential before laser technologies can be routinely recommended as part of evidence-based endodontic protocols.
+
+Future perspectives
+
+Despite the growing interest in laser-assisted techniques in endodontics, the current body of evidence highlights a pressing need for methodological standardisation and clinical validation. One of the critical challenges is the absence of uniform laser protocols, including wavelength selection, energy output, pulse duration, fibre tip design, irrigation media, and activation time. Without standardised parameters, meaningful comparison across studies remains limited, and the clinical applicability of findings is compromised.
+
+Future research should prioritise well-designed randomised controlled clinical trials that focus on clearly defined and clinically relevant outcomes, such as postoperative pain, tenderness to percussion, swelling, sinus tract resolution, and radiographic periapical healing, assessed using standardised imaging modalities, such as periapical radiographs or cone-beam computed tomography. Long-term follow-up is essential to determine whether the short-term benefits observed with laser-assisted irrigation translate into improved treatment success and tooth survival.
+
+Another important direction for future investigations is the comparative evaluation of laser-activated irrigation versus established activation methods, such as passive ultrasonic or sonic irrigation, using standardised protocols and equivalent irrigant regimens. This approach would help clarify whether lasers provide a true clinical advantage beyond existing technologies or primarily represent an alternative activation modality.
+
+In summary, while laser-assisted endodontic techniques hold considerable promise, their routine clinical adoption should be guided by robust evidence derived from standardised, high-quality research. Addressing these methodological and technological challenges will be essential to fully realise the potential of lasers in contemporary endodontic practice.
+
+Author contributions
+Conceptualization: M.A.D. Methodology: M.A.D. Validation: M.A.D., J.A.N., and J.F.-F. Formal analysis: M.A.D. Investigation: M.A.D. Resources: M.A.D. Data curation: M.A.D., J.A.N., and J.F.-F. Writing—original draft preparation: M.A.D. Writing—review and editing: M.A.D., J.A.N., and J.F.-F. Visualization: M.A.D. Supervision: M.A.D., J.A.N., J.F.-F., and M.C. Project administration: M.A.D. Funding acquisition: M.A.D.
+
+Data availability statement
+Upon the request of authors.
+
+Conflict of interest
+None disclosed.
+
+Source: PubMed Central (PMC). DOI: https://doi.org/10.1016/j.identj.2026.109470
