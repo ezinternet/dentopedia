@@ -184,7 +184,7 @@ tags: []
 - [[implants/chauhan-2018-biomechanical-factors-heat-generation-osteotomy]] — SR(Indian J Dent Res 2018, 34편, 1992-2015): osteotomy 발열은 multifactorial — drill 디자인·재질·마모, drilling method, irrigation, 골질 모두 작용; canonical factor framework
 - [[implants/jain-2024-heat-generation-pain-piezosurgery-drilling]] — SR(Cureus 2024, 9편): piezo가 술후 통증 유의 감소시키나 술중 골내 온도는 회전 drill보다 높음 — pain-vs-heat trade-off 명시
 - [[implants/jung-2021-heat-development-medical-drilling-influencing]] — mini-review(in vivo 2021): medical drilling 발열을 internal(drill 속성)·external(irrigation·골질) 분류; ex vivo 표준 측정법 제안
-- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — 특허(공개 10-2021-0014513, (주)해냄/김성주): 이중 스파이럴 콘덴싱 스크류 — 압착나사산부+본파우더안내홈+하부압착돔으로 측방·근단 동시 골치밀화, 단일 기구 상악동 거상; 해냄버 설계 근거 (Densah CCW 가역방향과 대비)
+- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — 특허(등록 10-2304707, (주)해냄/김성주): 이중 스파이럴 콘덴싱 스크류 — 압착나사산부+본파우더안내홈+하부압착돔으로 측방·근단 동시 골치밀화, 단일 기구 상악동 거상; 해냄버 설계 근거 (Densah CCW 가역방향과 대비)
 - [[implants/kosior-2025-histological-histomorphometric-implant-bed-preparation]] — SR(J Clin Med 2025, 29편): 5개 bed prep 방법 조직학 비교 — 전통 drilling이 microcracks·thermal injury 최다, %BIC 최저; 적정 parameter 시 동등 가능
 - [[implants/rugova-2024-thermal-evaluation-bone-drilling-sequential]] — 인비트로(Bioengineering 2024, IR, **irrigation 없음**): pilot drill >100°C, 70°C 발열이 측방 10mm 확산 — 후속 enlarging drill(~4.2mm) 절제 반경(~2mm) 초과; ※ 정상 임상(irrigation + vital bone 혈류)에선 후속 drilling이 thermal-damaged 영역 대부분 절제 — 적용은 D1 + irrigation 부족 + 마모 drill 3중 조건 한정
 - [[implants/stubinger-2015-piezosurgery-implant-dentistry]] — 서술적 고찰(CCIDE 2015): piezo 임상 overview — 정밀·선택적 cutting, 연조직 보존, IAN lateralization·sinus elevation 적용; "열손상 회피" 주장은 aquilanti·jain SR이 반박
