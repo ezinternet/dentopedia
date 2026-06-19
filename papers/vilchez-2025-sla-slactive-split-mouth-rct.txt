@@ -1,0 +1,152 @@
+Vílchez et al. 2025 — Clinical and Radiographic Performance of Two Distinct Sandblasted, Large-Grit, Acid-Etched Implant Surfaces: A Split-Mouth Randomized Clinical Trial
+
+PMID: 41199413 | PMCID: PMC12875362 | DOI: 10.1111/clr.70071
+Journal: Clinical Oral Implants Research (Clin Oral Implants Res)
+Published: 2025
+
+ABSTRACT
+
+Aim: To compare the clinical performance of two sandblasted, large-grit, acid-etched implant surfaces regarding changes in radiographic marginal bone level (MBL) 12 months after loading.
+
+Materials and Methods: In this randomized, split-mouth, dual-center clinical trial, each patient received one test (modified hydrophilic SLActive) implant and one control (conventional SLA) implant. The primary endpoint was the change in MBL measured 12 months after loading. Secondary outcomes included WHI, adverse events, ISQ, peri-implant soft tissue parameters (PPD, BOP, KMW), and OHRQoL (OHIP-14). Generalized linear models, paired Student's t-tests, and Wilcoxon tests were employed.
+
+Results: 68 subjects (136 implants). No statistically significant differences between groups for any clinical outcomes. Mean MBL change from loading to 12 months: 0.04 mm (SD=0.39) modified SLActive vs 0.07 mm (SD=0.22) conventional SLA (p=0.658).
+
+Conclusions: Over 12 months, both implant surfaces demonstrated comparable peri-implant bone stability, safety, and clinical outcomes. Small but statistically significant difference in MBL from baseline to 12 months (MD=0.15 mm), but no significant differences in primary outcome (loading to 12 months), ISQ, soft tissue healing, or peri-implant health.
+
+---
+
+INTRODUCTION
+
+The SLA (sandblasted, large-grit, acid-etched) implant surface was launched in 1994 (Straumann). The modified SLA (SLActive) surface is stored in aqueous saline solution, resulting in a hydrophilic and chemically active implant surface. Recently, a post-production holding step at 55°C was incorporated to better control surface properties (modified SLActive).
+
+Controversy remains regarding whether differential surface technology significantly affects healing and remodeling phases, typically occurring within the first year of implant function.
+
+STUDY DESIGN
+
+Dual-center, split-mouth, randomized controlled clinical trial.
+Centers: University Complutense Madrid (UCM) and University of Santiago de Compostela (USC), Spain.
+Enrollment: October 2019 to July 2022 (disrupted by COVID-19).
+Ethics: EC of Clinical Investigation of San Carlos Clinical Hospital (18/580-R_P) and EC for Research with Medicinal Products of Galicia (2019/251).
+Registration: ClinicalTrials.gov.
+Reporting: CONSORT guidelines.
+
+POPULATION
+
+Inclusion: ≥18 years old, need for ≥2 implants (canines to molars) in healed ridges across different quadrants (≥3 months post-extraction).
+Key exclusions: FMPS ≥20%, heavy smoking (>10 cig/day), bone/soft tissue grafting within 3-6 months, KMW <2 mm, severe bruxism, systemic factors hindering healing.
+70 patients screened; 68 enrolled and randomized (68 implants per group).
+61 patients completed analysis after 7 dropouts.
+
+INTERVENTIONS
+
+CBCT evaluation before surgery. Full-thickness mucoperiosteal flaps raised. Osteotomies aimed at 1 mm subcrestal implant shoulder placement. Bone quality assessed using Lekholm and Zarb classification (types I-IV).
+
+Implants: Bone Level Tapered Roxolid (Straumann AG, Basel, Switzerland). Lengths: 8, 10, or 12 mm. Diameters: 3.3 or 4.1 mm.
+
+Randomization: Computer-generated block randomization, stratified by center and arch. Opaque sealed envelopes opened at surgery.
+
+Blinding: Outcome examiners blinded. Patients blinded. Surfaces coded after data collection.
+
+Abutments: Screw-retained platform-switching abutments, 2.5 mm height, placed at surgery (one abutment-one time concept).
+
+Loading: 8 weeks — digital impression; 10 weeks — crown delivery (if abutment torque ≥35 N/cm). Some patients delayed due to COVID-19.
+
+Periapical radiographs: At implant placement, loading, 6 months, and 12 months post-loading.
+
+ISQ measurement: Osstell Beacon device. Recorded at implant placement and 8-week visit. Protocol amended after first 2 patients (originally weekly) to avoid compromising stability.
+
+SAMPLE SIZE
+
+Reference: Karabuda et al. — SLA MBL 0.46 mm (SD=0.20), SLActive 0.43 mm (SD=0.22) at 1 year.
+Non-inferiority margin: 0.10 mm (20% of ≤0.5 mm acceptable bone loss).
+Required: 51 pairs; planned 62 with 20% dropout.
+Achieved: 61 completers.
+
+RESULTS — BASELINE
+
+Mean age: 54.9 years (SD=10.1). 48.6% male.
+~15% current smokers (<10 cig/day). 84.3% systemically healthy.
+25 patients (35.7%) with history of treated periodontitis (periodontally stable).
+Mean FMPS: 14.1% (SD=3.6).
+
+Implant placement variables (no significant intergroup differences):
+- Position: ~44% premolar/canines, ~56% molars
+- Quadrant: 33.8% upper jaw, 66.2% lower jaw (both groups identical by split-mouth design)
+- Bone type: 4-6% type I, 31-37% type II, 54-57% type III, 3-7% type IV
+- KMW: 3.7 mm (SD=1.2/1.4) both groups
+- Implant torque: SLActive 36.1 N/cm vs SLA 35.3 N/cm (p=0.610)
+- Abutment torque: SLActive 20.2 N/cm vs SLA 21.6 N/cm (p=0.060)
+
+RESULTS — SURVIVAL
+
+Implant survival to loading: SLActive 95.5% (3 early losses), SLA 97.0% (2 early losses).
+Implant survival after loading to 12 months: 100% both groups.
+Prosthesis survival 12 months after loading: SLActive 100%, SLA 98.36% (1 crown fracture).
+Total prosthesis survival: 90.2%.
+
+Prosthetic type: 54.1% single crowns, 45.9% splinted (no significant difference between surfaces).
+
+RESULTS — MARGINAL BONE LEVEL (mm, mean ± SD)
+
+At implant placement: SLActive 0.01 ± 0.05 vs SLA 0.02 ± 0.10 (p=0.639)
+At implant loading: SLActive 0.25 ± 0.51 vs SLA 0.15 ± 0.30 (p=0.168)
+At 12 months: SLActive 0.22 ± 0.39 vs SLA 0.08 ± 0.17 (p=0.018, significant but negligible)
+
+MBL CHANGES:
+- Placement to loading: SLActive +0.24 vs SLA +0.13 (MD=0.09, 95% CI -0.06 to 0.25, p=0.219)
+- Loading to 12 months (PRIMARY OUTCOME): SLActive -0.04 ± 0.39 vs SLA -0.07 ± 0.22 (MD=0.03, 95% CI -0.09 to 0.14, p=0.658) — NO SIGNIFICANT DIFFERENCE
+- Placement to 12 months: SLActive +0.20 ± 0.39 vs SLA +0.06 ± 0.20 (MD=0.15, 95% CI 0.02 to 0.27, p=0.024) — significant but minimal magnitude
+
+No implant showed bone loss >1.5 mm (range: 0.01-1.27 mm).
+
+Subgroup analysis (MBL changes loading to 12 months):
+- Modified SLActive: less change in upper arch vs lower arch; less change in bone types III-IV vs I-II.
+
+RESULTS — ISQ
+
+At placement: SLActive 73.0 ± 10.3 vs SLA 72.3 ± 9.8 (MD=0.7, p=0.636)
+At 8 weeks (final impression): SLActive 75.5 ± 8.5 vs SLA 75.9 ± 9.6 (MD=-0.4, p=0.805)
+Change placement to 8 weeks: SLActive +3.4 ± 9.3 vs SLA +4.1 ± 11.7 (MD=-0.6, p=0.715)
+
+No significant differences in ISQ between surfaces at any timepoint.
+
+RESULTS — SOFT TISSUE & WOUND HEALING
+
+Wound Healing Index (WHI, Landry): No significant differences at 1 week or 2 weeks.
+At 12 months:
+- FMPS: improved to 11.7% (SD=4.8) (p=0.003 vs baseline)
+- BOP: 52.5% (SLActive) vs 47.5% (SLA) (p=0.648)
+- BOP at only 1 site in 32.8% of implants
+- Peri-implant mucositis: 17.2% (implant level), 23.5% (patient level)
+  - SLActive: 10.6%, SLA: 6.6%
+- Peri-implantitis: 0 cases
+- PPD: SLActive 2.61 ± 0.82 mm vs SLA 2.58 ± 0.78 mm (p=0.658)
+
+RESULTS — ADVERSE EVENTS
+
+40 total AEs. 21 mechanical (screw/abutment loosening, healing cap loss). 14 biological (9 hard tissue: 4 low primary stability, 5 early implant loss).
+
+RESULTS — PATIENT-REPORTED OUTCOMES (OHIP-14)
+
+Mean improvement: -6.59 points (SD=9.0) from baseline to 12 months.
+Greatest improvements: physical pain and psychological discomfort domains.
+Mean paracetamol intake first week: 4.80 g (SD=4.72).
+
+DISCUSSION
+
+Primary outcome (MBL loading to 12 months): no significant difference between modified SLActive and SLA. Both surfaces show excellent bone stability (MBL change <0.1 mm in absolute terms).
+
+Greatest MBL change occurred during healing phase (placement to loading), not after loading — consistent with importance of implant placement factors over surface chemistry.
+
+Survival rates consistent with literature: SLA 95%-100%, SLActive 97%-100% at 12 months.
+
+ISQ high at baseline (72-73) and at 8 weeks (75-76) for both surfaces — consistent with previous reports for BL tapered implants with SLA-type surfaces.
+
+One abutment-one time concept and platform switching may have contributed to favorable peri-implant bone stability.
+
+Limitations: different operators at two centers, no inter-center calibration, implant site types not systematically recorded, COVID-19 disruptions to protocol timelines.
+
+CONCLUSION
+
+Modified SLActive and SLA implants exhibit comparable performance regarding peri-implant bone stability, safety, and clinical outcomes over 12 months. Although a small statistically significant difference in MBL from baseline to 12 months was observed (MD=0.15 mm), this was clinically insignificant. The primary outcome (MBL change loading to 12 months) showed no significant difference.
