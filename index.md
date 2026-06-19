@@ -2123,6 +2123,7 @@ tags: []
 #### sinus-lift/transcrestal — osseodensification / adjunct
 - [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — Yousry 2025 · rct: 경치조 OD 후 ozone gel은 무이식 대비 4개월 골폭·협측판 두께 유의 증가 없음(둘 다 수용가능) — 보조제 null 결과
 - [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — Sulyhan 2024 · prospective pilot (13pt, CBCT): OD+이식재 즉시 +6.65mm 골고 증가, 12개월 수축 0.90mm, 성공률 100%
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — Changrani 2024 · prospective n=12 · HaeNaem Zero Bone Loss Kit CW-OD 경치조골 간접거상: 4개월 CBCT 골 높이 유의 증가 (p<0.01), 무이식, Densah CCW 대안 버 시스템 첫 임상 데이터
 
 #### behavioral-dentistry/patient-reported-outcomes — sinus lift PROM
 - [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] — Menini 2025 · sr+ma (12 RCT+1): graftless·transcrestal이 grafted·lateral보다 술후 통증·불편감 적음 (abstract 기반·preprint, 수치 미검증)
