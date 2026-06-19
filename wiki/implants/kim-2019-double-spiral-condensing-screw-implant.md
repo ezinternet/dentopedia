@@ -3,7 +3,7 @@ title: "Condensing Screw for Implant Surgery with a Double-Spiral Structure (이
 authors: Kim Seong-ju (김성주); Applicant (주)해냄 (HaeNaem Co., Ltd.)
 year: 2019
 date: 2019-07-30
-doi: "KR 10-2021-0014513 A (출원 10-2019-0092685)"
+doi: "KR 10-2304707 B1 (등록 2021-09-15; 공개 10-2021-0014513; 출원 10-2019-0092685)"
 source: kim-2019-double-spiral-condensing-screw-implant.md
 category: [implants]
 confidence: patent
@@ -46,7 +46,7 @@ The invention's solution is a **double-spiral geometry**: a compression thread (
 
 ## Methodology
 
-Patent disclosure (공개특허공보 A), 5 claims, IPC A61C 8/00 / A61B 17/16. Application 10-2019-0092685 filed 2019-07-30; published as 10-2021-0014513 on 2021-02-09. No patients, bench tests, or quantitative outcomes — all "effects" are inventor assertions. Prior art cited: KR 10-2006-0056952 (thread-expander bone expansion/compression for dental implants, the osteotome/expander lineage).
+**Granted** patent (등록특허공보 B1, 등록번호 10-2304707, 등록 2021-09-15), 5 claims, IPC A61C 8/00 / A61B 17/16. Application 10-2019-0092685 filed 2019-07-30; published as 10-2021-0014513 on 2021-02-09; granted as 10-2304707. No patients, bench tests, or quantitative outcomes — all "effects" are inventor assertions. Prior art cited: KR 10-2006-0056952 (thread-expander bone expansion/compression, osteotome/expander lineage) and US 2015/0297321 A1.
 
 ## Results
 
