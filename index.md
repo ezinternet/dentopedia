@@ -1820,6 +1820,10 @@ tags: []
 - [[drug/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Aliabadi 2022 (Eur J Transl Myol 32(4):10813) · narrative-review · 임신 중 근관치료 약물: 치성 감염은 즉시 치료(미치료가 더 위험), 1차 항생제 아목시실린·페니실린·세팔렉신(알러지 시 에리스로마이신·클린다마이신), 1차 진통제 acetaminophen, LA 1:100,000 epi, 2분기 선택시술 최적
 - [[drug/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Prada 2025 (Environmental Health 24:56) · sr · Navigation Guide 46편: 산전 acetaminophen-신경발달장애(ASD/ADHD) 양성 27/무 9/음성 4, 고품질일수록 양성 → 임신 중 제한 권고. **단 연관≠인과·confounding by indication·ACOG는 여전히 안전 입장** (치과 1차 진통제 유지하되 최소용량·최단기간)
 
+### drug (added 2026-06-19 — 항생제 청지기 SR+MA)
+
+- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
+
 
 <!-- BATCH INGEST 2026-06-04: 봉합·창상폐쇄 + 수직 골증대술 + 잔여. NEW category: suture-wound-closure. NEW subcategory: implants/vertical-ridge-augmentation -->
 
