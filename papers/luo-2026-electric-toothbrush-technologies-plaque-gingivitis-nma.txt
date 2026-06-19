@@ -1,0 +1,74 @@
+Comparative efficacy of electric toothbrush technologies in plaque and gingivitis reduction: a network meta-analysis
+Chenchen Luo et al. (Southwest Medical University, China)
+Clinical Oral Investigations, 2026. DOI: 10.1007/s00784-026-06955-z. PMID 42234020 / PMCID PMC13233912.
+PROSPERO CRD420251273484.
+
+INTRODUCTION
+Dental plaque is the primary etiological factor for gingivitis and caries; mechanical removal via toothbrushing is the cornerstone of daily oral care. Manual toothbrush efficacy depends on user technique/compliance. Electric toothbrushes provide a standardized brushing action. Prior systematic reviews and pairwise meta-analyses (Yaacob 2014; Elkerbout 2020; de Jager 2017) concluded electric > manual for plaque removal, but were limited to pairwise comparisons (electric vs manual) and did NOT rank among electric technologies (oscillating-rotating, sonic, ultrasonic). NMA integrates direct + indirect evidence to rank multiple interventions. Aim: evaluate and rank efficacy of electric toothbrush types vs manual in reducing plaque and gingivitis.
+
+METHODS
+- Prospectively registered in PROSPERO (CRD420251273484). PRISMA-NMA reporting.
+- Databases: PubMed, Embase, Cochrane CENTRAL, Web of Science, ClinicalTrials.gov, inception to June 2025. English-language.
+- PICOS: Population = children/adults with permanent or mixed dentition. Intervention = electric toothbrush (oscillating-rotating, sonic, ultrasonic, or other). "Other electric" = powered brushes not conforming to O-R/sonic/ultrasonic (e.g., basic side-to-side motion). Comparator = manual toothbrush. Outcomes = change in validated Plaque Index (PI) and/or Gingivitis Index (GI). Design = RCTs (parallel-group and crossover).
+- Electric-vs-electric studies included if they reported ≥1 outcome and enabled head-to-head comparisons (e.g., O-R vs sonic). Network connected via common comparator (manual) + direct electric-vs-electric evidence.
+- Index prioritization hierarchy: (1) author-designated primary; (2) most common — Rustogi Modified Navy Plaque Index (RMNPI) for plaque, Modified Gingival Index (MGI) for gingivitis; (3) whole-mouth over site-specific.
+- Risk of bias: Cochrane RoB 2.0 (5 domains).
+- Statistics: frequentist random-effects NMA (R 4.5.0, netmeta package). Standardized Mean Differences (SMD) with 95% CI, due to varying indices. Longest follow-up used per study for primary analysis.
+- Five nodes: Manual, Oscillating-Rotating (O-R), Sonic (S), Ultrasonic (U), Other Electric (OE).
+- SUCRA values rank interventions (higher % = greater likelihood of being optimal).
+- Prespecified subgroups: age (children, adults, elderly), orthodontic patients, follow-up duration. Prespecified stratified NMA: short-term single-use vs longer-term home-use (≥1 week).
+- Node-splitting for global + local inconsistency. Transitivity assessed by comparing effect modifiers (baseline plaque severity, supervision, follow-up).
+- Publication bias: comparison-adjusted funnel plots, Egger's regression (O-R vs manual), p-curve, precision-weighted regression, sensitivity excluding small studies (<50). Power limited (k<10 for most comparisons).
+
+RESULTS — STUDY SELECTION
+- 1,852 records → 124 full-text → 19 RCTs included (published 1996–2025).
+- Populations: healthy adults, children, elderly, orthodontic patients, implant patients. Sample sizes 23–150.
+- RoB 2.0: 12 low risk, 5 some concerns, 2 high risk.
+
+RESULTS — NMA (PRIMARY)
+Plaque reduction — all electric significantly outperformed manual. O-R largest effect vs manual: SMD -1.24 (95% CI -1.56 to -0.92); sonic SMD -0.87 (-1.15 to -0.59).
+SUCRA ranking for plaque: Oscillating-Rotating 89.2% > Sonic 72.4% > Ultrasonic 54.1% > Other Electric 45.3% > Manual 18.3%.
+SUCRA ranking for gingivitis: Oscillating-Rotating 86.5% > Sonic 70.1% > Ultrasonic 52.8% > Other Electric 43.9% > Manual 16.7%.
+
+Absolute effects (translated):
+- Plaque (RMNPI 0–1 scale): O-R vs manual mean difference -0.18 (95% CI -0.24 to -0.12) ≈ 18% greater plaque reduction.
+- Gingivitis (MGI 0–4 scale): mean difference -0.32 (95% CI -0.45 to -0.19).
+- Overall gingivitis (electric vs manual): SMD 0.82 (95% CI 0.65 to 0.98, p<0.001) — moderate beneficial effect.
+
+CAUTION: "Other electric" (SUCRA 45.3%) represented by only 2 studies (k=2), small samples; CI crosses zero in longer-term stratum — NS vs manual. Interpret with extreme caution.
+
+Only 2 head-to-head O-R vs sonic RCTs (Van der Weijden 1996; Erbe 2019). Erbe 2019: O-R with ortho head statistically superior to sonic (p=0.017).
+
+STRATIFIED ANALYSIS (by duration)
+Short-term single-use (k=7): O-R top (SUCRA 91.5%) > sonic 74.2% > ultrasonic 52.3% > other electric 44.1% > manual 16.8%. O-R vs manual SMD -1.52 (95% CI -1.98 to -1.06) — larger (immediate mechanical advantage).
+Longer-term home-use (k=12): O-R top (SUCRA 86.7%) > sonic 70.8% > ultrasonic 55.2% > other electric 46.1% > manual 19.5%. O-R vs manual SMD -0.96 (95% CI -1.35 to -0.57) — more modest (compliance/behavioral factors). Ranking consistent across strata → robust.
+
+SUBGROUPS
+- Largest effects in orthodontic patients and children.
+- Elderly subgroup: effect NON-significant (grip strength, arthritis, cognitive/visual deficits compromise use).
+- Adult gingivitis subgroup: CI crosses null → NS (limited studies).
+- Sensitivity excluding high-RoB studies: robust.
+
+PUBLICATION BIAS
+- No significant evidence of bias/small-study effects. p-curve right-skewed (χ²=43.0, p=0.03) → evidential value. Precision-weighted regression: no association (β=0.15, 95% CI -0.23 to 0.53, p=0.42). Sensitivity excluding <50 studies: rankings virtually unchanged (max ΔSUCRA 3.2%). Power limited (k<10).
+
+DISCUSSION / MECHANISM
+O-R superiority explained by 3D cleaning action (simultaneous oscillation + rotation) generating high-frequency focused shear forces that disrupt supragingival biofilm matrix, especially on concave surfaces, fissures, gingival margin. Sonic = lateral sweeping; ultrasonic = microstreaming — less efficient at dislodging firmly adherent plaque. Several trials noted O-R superior on approximal surfaces.
+
+Novel extension over prior pairwise reviews: direct quantitative ranking AMONG electric subtypes (transforms question from "whether to use electric" to "which electric technology").
+
+Clinical implications: O-R strongly advocated for orthodontic home-care (brackets/archwires); "skill-equalizer" for children (compensates variable technique). Elderly: technological superiority ≠ effectiveness — needs individualized assessment, caregiver assistance, adaptive aids.
+
+LIMITATIONS
+- Clinical heterogeneity (populations, varied indices). Absolute effects approximate; no standardized core outcome set.
+- SUCRA = probability of highest rank, NOT magnitude of clinical benefit.
+- Publication bias tests underpowered (k<10).
+- Longest-follow-up extraction may homogenize time points.
+- Transitivity relies on assumption; within-stratum heterogeneity (brushing duration, supervision); home-use follow-up 4 weeks–12 months. No meta-regression on follow-up length.
+- Only 2 direct O-R vs sonic RCTs → imprecise electric-vs-electric estimates.
+- Industry sponsorship: majority of trials funded by electric toothbrush manufacturers (potential bias favoring sponsor product).
+
+CONCLUSION
+O-R electric toothbrushes have highest probability of being among most effective for plaque and gingivitis reduction, followed by sonic > ultrasonic > other electric > manual. Ranking is provisional (limited direct electric-vs-electric evidence; sparse "other electric"). Pronounced benefits in orthodontic patients and children. O-R may be preferred for optimal mechanical plaque control, especially where manual brushing is challenging.
+
+Attribution: According to PubMed. DOI: https://doi.org/10.1007/s00784-026-06955-z
