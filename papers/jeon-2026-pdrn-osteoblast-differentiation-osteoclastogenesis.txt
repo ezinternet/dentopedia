@@ -1,0 +1,20 @@
+Polydeoxyribonucleotide (PDRN) Selectively Promotes Osteoblast Differentiation Without Affecting Osteoclastogenesis
+
+Authors: Younghoon Jeon, Eunjung Heo, Xian Jin, Dong-Kyo Lee, Xiangguo Che, Hyun-Ju Kim, Sung-Hye Byun, Je-Yong Choi, Jeongkyu Choi, Jinyoung Oh
+Institution: Kyungpook National University, Daegu, Republic of Korea
+Journal: Marine Drugs. 2026;24(3):100. DOI: 10.3390/md24030100
+PMID: 41892959 PMC: PMC13028593
+
+ABSTRACT: Developing novel anabolic agents for bone regeneration remains a clinical priority. Polydeoxyribonucleotide (PDRN) exhibits tissue-regenerative properties, but its direct cellular effects on bone remodeling remain unclear. This in vitro study investigated PDRN's effects on osteoblast (MC3T3-E1) and osteoclast (primary bone marrow-derived macrophages) differentiation. We evaluated metabolic activity, gene/protein expression, and specific differentiation markers using MTS, qRT-PCR, Western blotting, and functional assays (ALP, Alizarin Red S, TRAP, pit formation). In osteoblasts, PDRN dose-dependently modulated metabolic activity while upregulating the early transcription factor Runx2. PDRN significantly enhanced osteoblast differentiation, evidenced by increased ALP activity, elevated mineralized matrix deposition, and robust upregulation of osteocalcin and Runx2. Conversely, PDRN exhibited no direct effect on osteoclast precursor metabolic activity, differentiation, or resorptive function. These findings support a working hypothesis in which PDRN selectively promotes osteoblast differentiation without directly affecting osteoclastogenesis. While further pharmacological investigations are required to definitively elucidate the specific purinergic receptor mechanisms, our results highlight PDRN as a promising candidate anabolic agent for bone regeneration.
+
+KEY FINDINGS:
+- PDRN (10-20 mcg/mL) dose-dependently upregulated Runx2 (osteogenic transcription factor) in MC3T3-E1 pre-osteoblasts
+- PDRN significantly enhanced ALP activity at Day 7 and mineralized matrix deposition at Day 28 (Alizarin Red S)
+- Osteocalcin and Runx2 gene expression significantly upregulated at 20 mcg/mL
+- Osteoclast (BMM) metabolic activity, TRAP staining, resorption pit formation: NO significant difference vs control
+- Mechanism: A2A receptor activation → Wnt/β-catenin → Runx2 upregulation (hypothesis)
+- Transient NFATc1 upregulation in osteoclasts at Day 1 (20 mcg/mL) did not translate to sustained differentiation
+- Conclusion: PDRN is a SELECTIVE anabolic agent — promotes osteoblasts WITHOUT directly inhibiting osteoclasts
+
+FULL TEXT: See PMC13028593 for complete Methods, Results, Discussion.
+Source: pubmed-text
