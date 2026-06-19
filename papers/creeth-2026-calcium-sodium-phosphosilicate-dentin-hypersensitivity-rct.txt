@@ -1,0 +1,12 @@
+ABSTRACT-ONLY — full text not retrieved (no PMC OA)
+
+Citation: Creeth J, Goyal CR, Qiu J, Lamptey M, Sanchez E, Qaqish J, Pereira PG.
+"Time-course of clinical efficacy of a 5% calcium-sodium phosphosilicate toothpaste on dentine hypersensitivity."
+J Dent. 2026;171:106710.
+DOI: 10.1016/j.jdent.2026.106710
+PMID: 42013973
+ClinicalTrials.gov: NCT06378008
+
+ABSTRACT (verbatim):
+
+Anhydrous toothpastes containing 5% calcium-sodium phosphosilicate (CSPS) have well-established long-term efficacy against dentine hypersensitivity (DH); short-term efficacy not well-characterised. Investigated DH reduction over 3-56 days twice-daily brushing with 5% CSPS toothpaste and user-reported OHRQoL via DHEQ-48. Single-centre, 8-week, randomized, controlled, examiner-blind, 2-arm, stratified, parallel study. 5% w/w CSPS toothpaste containing NaF (Test) vs conventional NaF-silica toothpaste (Reference), in orally-healthy DH population. Two non-adjacent DH teeth selected. DH by Schiff (evaporative) and Tactile threshold (Yeaple) at Baseline, 3d, 7d, 14d, 28d, 56d. DHEQ at 28d, 56d. 217 screened, 215 completed. Test significantly reduced examiner-assessed DH at all post-baseline timepoints for both measures (p<0.0001); significantly greater than Reference (all p<0.001). DH reduction markedly increased over study. DHEQ decreased progressively but treatment differences not significant. 5% CSPS reduced DH vs marketed NaF-silica by 2 clinical measures; significant after 3 days, growing over 8 weeks. Well-tolerated. NCT06378008.
