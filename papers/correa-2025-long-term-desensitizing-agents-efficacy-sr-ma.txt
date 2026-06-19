@@ -1,0 +1,21 @@
+Corrêa THR, da Rosa WLO, Lund RG.
+Long-term clinical efficacy of dentin desensitizing agents: A systematic review and meta-analysis.
+Journal of Dentistry. 2025;163:106186.
+PMID: 41139001  DOI: 10.1016/j.jdent.2025.106186
+PROSPERO: CRD42020210693
+
+[ABSTRACT-ONLY — full text not retrieved (no PMC open-access full text available).]
+
+ABSTRACT
+
+To evaluate the long-term clinical efficacy of dentin desensitizing agents with mechanisms of action by tubular occlusion, neural effect or both, for the treatment of dentin hypersensitivity (DH).
+
+Following electronic databases: Pubmed (MEDLINE), Cochrane Central Register of Controlled Trials (CENTRAL), Embase, Scopus, Web of Science and Virtual Health Library Portal (Lilacs, BBO), last search date: January 2025. This review followed PRISMA guidelines and was registered in PROSPERO (CRD42020210693). The included studies were published between 1991 and 2024, with a total of 22 studies included in the systematic review, 15 of which were also included in the meta-analysis.
+
+Adults with dentin hypersensitivity undergoing treatment with desensitizing agents through randomized clinical trials with a minimum follow-up of 6 months. Meta-analyses based on pain intensity elicited by evaporative, cold, or tactile stimuli were analyzed using bias-corrected standardised mean change (SMC) with a 95% confidence interval.
+
+Meta-analyses of sensory stimuli demonstrated significant reductions in pain scores with several desensitizing agents. Glutaraldehyde and low-level laser therapies achieved the largest effect sizes. In contrast, adhesive systems and calcium phosphate-based agents did not show statistically significant benefits.
+
+This study supports clinical decision-making in the treatment of dentin hypersensitivity, highlighting glutaraldehyde and low-level laser therapies as effective options for long-term pain reduction. In contrast, adhesive systems and calcium phosphate-based agents have limited evidence, highlighting the need for cautious therapeutic selection.
+
+Source: According to PubMed. DOI: https://doi.org/10.1016/j.jdent.2025.106186
