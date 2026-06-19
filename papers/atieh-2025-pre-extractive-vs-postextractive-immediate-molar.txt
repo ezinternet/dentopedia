@@ -1,0 +1,67 @@
+Pre-extractive Versus Postextractive Implant Site Preparation for Immediate Implant Placement in Mandibular Molar Sites: A Systematic Review and Meta-Analysis
+
+PMID: 41406906
+PMCID: PMC12828189
+DOI: 10.1016/j.identj.2025.109316
+
+Authors: Momen A. Atieh, Manas Shah, Abeer Hakam, Ali Alkourwe, Mohammed Ameen, Nabeel H. M. Alsabeeha
+
+Journal: International Dental Journal, 2025
+
+Abstract:
+The aim of this systematic review and meta-analysis was to compare outcomes of pre-extractive to postextractive site preparation for immediate implant placement in mandibular molar sites in terms of implant stability, changes in marginal bone levels, implant position and implant failure rate. Following PRISMA and Cochrane guidelines, this review included randomised controlled trials comparing pre-extractive and postextractive implant site preparation in mandibular molars. Searches were conducted in MEDLINE, EMBASE and ClinicalTrials.gov. Data extraction and risk of bias assessment were performed independently by 2 reviewers. Meta-analysis used a random-effects model, and evidence of certainty was evaluated using GRADE. A total of 120 studies were initially identified, of which 4 studies, involving 82 dental implants in 82 participants, were included. The overall meta-analysis showed that the pre-extractive approach resulted in significantly higher implant stability quotient (ISQ) values at the time of implant placement (mean difference (MD) -3.39; 95% confidence interval (CI) -4.20 to -2.59; p < .0001) and less deviation from the central implant position (relative risk (RR) 0.05; 95% CI 0.01-0.33; p = .002) compared to the postextractive approach. Anatomically guided pre-extractive implant site preparation may improve primary implant stability and optimise implant position compared to conventional surgical approaches. Pre-extractive site preparation may improve implant stability and positioning in mandibular molar sites, but the low certainty of evidence warrants cautious interpretation.
+
+Full Text:
+
+Introduction
+
+Immediate implant placement following tooth extraction has gained widespread acceptance within the scientific community. This intervention offers attractive advantages in terms of shortened treatment time and faster prosthetic rehabilitation. While several studies have demonstrated long-term clinical outcomes and survival rates comparable to implants placed in healed sites, others have shown higher failure risks of 2% to 3%. When immediate implant placement in molar extraction sockets is considered, the estimated survival rate was even lower ranging from 66.7% to 73.3% after 1 year of loading. To enhance outcomes, several factors were considered including careful patient selection with favourable hard and soft tissue characteristics, and achievement of primary implant stability. The importance of peri-implant soft tissue conditions has also been highlighted, particularly in relation to keratinised tissue width and its stability following grafting procedures.
+
+Primary stability is crucial for the success of immediately placed implants and largely depends on sufficient implant contact with bone apical and palatal to the extraction socket. In this respect, socket morphology and the preservation of the alveolar process play key role in its achievement. The clinical relevance of primary stability is further emphasised by the use of the implant stability quotient (ISQ) to guide healing and determine optimal loading timing, as demonstrated in a recent study. Maxillary and mandibular molar extraction sockets, in particular, pose significant clinical challenges due to their wide dimensions, limited bone height apical to the socket and the proximity of critical anatomical structures. The shape of the molar extraction socket and the relatively thin inter-radicular bone can cause surgical drills to slip, resulting in improper site preparation and ultimately suboptimal implant placement. This often results in the implant being placed within one of the root extraction sockets and potentially creating unfavourable occlusal or biomechanical conditions.
+
+To overcome the anatomical challenges of immediate implant placement in multi-rooted extraction sockets, various pre-extractive surgical techniques have been described. One such approach, described by Fugazzotto, involved the use of a surgical bur to engage the inter-radicular bone at an acute angle, then straightening the bur during the remainder of the implant site osteotomy. An anatomically guided surgical technique was also introduced, wherein the drills used to prepare the osteotomy are directed through the retained roots. The morphology of these roots serves as a guide for drilling, helping to engage the inter-radicular septum and position the implant at the centre of the socket. Several reports have shown improved implant stability and marginal bone levels with this technique. However, conclusive evidence on the outcomes of these pre-extractive preparations of the implant osteotomy, using the retained roots as a guide for implant placement, remains limited. Therefore, this systematic review and meta-analysis aimed to evaluate the clinical and radiographic outcomes of pre-extractive to posteruptive preparation for immediate implant placement in mandibular molar extraction sockets, as reported in randomised controlled trials.
+
+Materials and Methods
+
+The guidelines of the Cochrane Collaboration and Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) were followed in the development of the current systematic review. Based on the PICOS framework, the review focused on patients with a hopeless mandibular molar indicated for extraction. The intervention of interest was pre-extractive implant site preparation, compared to postextractive implant site preparation. Outcomes of interest included implant stability, changes in marginal bone level, implant position and implant failure rate. Only randomised studies of interventions were considered. PROSPERO ID: CRD42025645764.
+
+Eligible studies: randomised trials comparing pre-extractive to postextractive implant site preparation in mandibular molar sites, reporting at least one outcome of interest. Adults aged 18 years or older requiring immediate placement of a dental implant to replace a missing mandibular molar. In the intervention group, the implant osteotomy was prepared before root extraction; in the control group after extraction.
+
+Electronic searches: Cochrane CENTRAL, MEDLINE, EMBASE, ClinicalTrials.gov up to February 17, 2025.
+
+Data Synthesis: Random-effects model. Continuous data expressed as mean difference (MD) or SMD with 95% CI. Heterogeneity assessed using Cochran's Q and I² (significant if I² > 60%). GRADE criteria used to evaluate certainty of evidence.
+
+Results
+
+120 studies initially retrieved; 4 RCTs included (82 participants, 82 implants; 41 pre-extractive, 41 postextractive). Three studies from Egypt, one from Italy. All self-funded, university setting, parallel-group design.
+
+Participant inclusion criteria: adults ≥18 years, nonrestorable mandibular molar, wide bone septa, adequate alveolar bone (minimum 6 mm bucco-lingual width), minimum 5 mm between inferior alveolar nerve and root apices, intact buccal/lingual plates (≥1 mm buccal cortical thickness), no dehiscence/fenestrations, adequate keratinised tissue, adequate plaque control.
+
+Exclusion criteria: systemic diseases affecting osseointegration, thin/tilted septa, acute infection, bruxism, history of chemotherapy/radiation, bisphosphonate use, smoking.
+
+Interventions: Full mucoperiosteal flap; coronectomy prior to drilling. Pre-extractive: osteotomy prepared through middle of sectioned furcation area before root removal. Postextractive: osteotomy after root extraction. Implants positioned at centre of inter-radicular bone, 1-2 mm apical to buccal alveolar crest. GBR performed to fill residual gaps. Primary stability measured by RFA (Osstell Mentor device) immediately after placement and at 3 and 6 months.
+
+Risk of bias: 3 studies high risk, 1 some concerns. Main issues: lack of blinding of outcome assessors, inadequate allocation concealment.
+
+Effects of Interventions:
+
+ISQ at placement: Pre-extractive significantly higher (MD -3.39; 95% CI -4.20 to -2.59; p < .0001; I² = 0%).
+ISQ at 3 months: No significant difference (MD -1.90; 95% CI -4.63 to 0.83; p = .17).
+ISQ at 6 months: No significant difference (MD -2.72; 95% CI -7.72 to 2.29; p = .29), but significant heterogeneity (I² = 83%).
+Marginal bone level at 6 months (bucco-lingual): No significant difference (MD -0.05; p = .70; I² = 71%).
+Marginal bone level at 12 months (bucco-lingual): Significantly favoured pre-extractive (MD -0.62; 95% CI -1.62 to -0.01; p = .04).
+Implant position: All pre-extractive implants centrally positioned vs only 4/41 postextractive (RR 0.05; 95% CI 0.01-0.33; p = .002; I² = 0%).
+Implant failure: 0 failures in both groups (no meta-analysis possible).
+Sensitivity analyses (leave-one-out): Pooled MD range -3.55 to -3.33 for primary stability, I² 0%-14%; results robust.
+
+GRADE certainty: Low for primary stability and implant positioning; very low for marginal bone level changes and 6-month stability.
+
+Discussion
+
+Pre-extractive approach: retained roots serve as stable guide for surgical drills. All pre-extractive implants centrally positioned; 83% of postextractive group tilted. ISQ advantage at placement did not persist at 3 and 6 months, suggesting convergence of stability over healing. Marginally significant MBL advantage at 12 months in pre-extractive group. No implant failures in either group through 6-12 months of follow-up.
+
+Limitations: Small number of included studies (n=4), mostly from Egypt (limited generalisability), no pre-registration of trials, lack of blinding, short follow-up (≤12 months), small sample sizes.
+
+Conclusions
+
+Pre-extractive inter-radicular implant site preparation using natural roots as guide showed significantly higher ISQ at placement and better central positioning vs postextractive approach in mandibular molar IIP. No significant difference in ISQ at 3-6 months or marginal bone level at 6 months. Marginally significant MBL benefit at 12 months. Overall certainty of evidence: low to very low. Further well-designed RCTs needed.
