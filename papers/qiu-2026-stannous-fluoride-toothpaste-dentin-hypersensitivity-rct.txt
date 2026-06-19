@@ -1,0 +1,51 @@
+Anhydrous stannous fluoride toothpaste in dentin hypersensitivity: clinician-assessed and patient-reported outcomes from two controlled trials
+Qiu, Creeth, Mohammad, Milleman, Gallob, Milleman, Pradhan, Qaqish
+Clin Oral Investig. 2026;30. PMID: 42262610 · PMCID: PMC13249922 · DOI: 10.1007/s00784-026-06942-4
+Source: PubMed Central (PMC) full text — https://pmc.ncbi.nlm.nih.gov/articles/PMC13249922/
+
+== ABSTRACT ==
+Objectives: To confirm anti-sensitivity efficacy of a new anhydrous 0.454% stannous fluoride (SnF2) toothpaste formulation compared to a standard fluoride toothpaste after 28 and 56 days of twice-daily brushing, using clinician-assessed measures and patient-reported outcomes.
+Materials and methods: Two independent, examiner-blind, parallel studies enrolled healthy adults with dentin hypersensitivity (DH). Participants randomized to brush twice-daily with either the SnF2 toothpaste (Test) or a standard fluoride toothpaste (Reference). DH assessed by clinician via evaporative (Schiff scale) and tactile (Yeaple probe) stimuli. Participant-reported outcomes measured using the Labelled Magnitude Scales (LMS) (for DH pain), and the DH Experience Questionnaire (DHEQ-48) (for impact on oral health-related quality-of-life).
+Results: 104 participants in Study 1 and 113 participants in Study 2 (18-65 years) were randomized. In both studies, the Test treatment showed a statistically significant decrease in Schiff sensitivity scores, an increase in tactile threshold, and an improvement in LMS domain scores from baseline to Day 28 and 56. The improvements in all three measures were greater than those observed for the Reference treatment (all p < 0.05). Additionally, Study 1 showed significantly greater improvements in DHEQ scores in the Test treatment versus the Reference at Day 56. Toothpastes were generally well-tolerated.
+Conclusions: Twice-daily use of the 0.454% SnF2 toothpaste significantly and progressively reduced examiner-assessed and perceived DH over 56 days versus standard fluoride toothpaste.
+Clinical Relevance: The studies confirm the efficacy of the novel 0.454% SnF2 toothpaste in delivering meaningful relief from DH, supporting its role as a patient-centred treatment.
+
+== INTRODUCTION (key points) ==
+DH = short, sharp transient dental pain from exposed dentin (enamel loss or gingival recession); hydrodynamic theory: fluid movement in dentinal tubules activates pulpal pain receptors. West et al: ~50% of European participants experienced hypersensitivity to evaporative stimulation in clinic; prevalence may be increasing. Daily anti-sensitivity toothpastes = first-line treatment. Two strategies: tubule occlusion vs nerve desensitization — tubule occlusion increasingly used. 0.454% SnF2 toothpastes widely available, extensive clinical + in vitro evidence + safety/tolerability for long-term use. Active = stannous ion: affinity for negatively charged dentin + intrinsic instability in aqueous aerobic conditions; on brushing, ions react with salivary/toothpaste constituents, precipitate on dentin, insoluble deposits block tubule openings. Instability makes formulation critical: anhydrous glycerine-based continuous phase. The formulation tested was MODIFIED vs prior anhydrous SnF2 (refs 9-11) to enhance non-therapeutic benefits (stain removal, organoleptic). Two 56-day DH studies to confirm updated formulation retains DH efficacy. Test regimen = focused brushing of sensitive areas; Reference = standard fluoride toothpaste no specific technique.
+
+== MATERIALS & METHODS ==
+Two single-center, 56-day, randomized, controlled, parallel, examiner-blind studies; all products overwrapped with opaque labels. Study 1: Salus Research, Fort Wayne, Indiana, USA (ClinicalTrials.gov ID 300103). Study 2: All Sum Research Center, Melbourne, Florida, USA (ID 300104). Both IRB-approved (Veritas IRB Inc.).
+Participants: healthy adults 18-65 y. Inclusion: ≥20 natural teeth; self-reported DH history 6 months-10 years; ≥2 accessible non-adjacent sensitive teeth (incisors, canines, premolars) in different quadrants; tactile threshold ≤20 g AND Schiff score ≥2 at screening and baseline; erosion/abrasion/recession (EAR); MGI 0; no mobility. Exclusions: pregnant/breastfeeding; allergy to test ingredients; anti-sensitivity products within 8 weeks; failed LMS training; pain-altering meds; antibiotics within 2 weeks; prophylaxis within 4 weeks; bleaching within 8 weeks; scaling within 3 months; gross periodontal disease; orthodontic appliances; caries/treatment within 12 months on test teeth; crowns/veneers/bands/cracked enamel.
+Procedures: Screening (Visit 1) → 14-28 day acclimatization with regular fluoride toothpaste (Colgate Cavity Protection, 1000 ppm F) + soft brush. Baseline (Day 0, Visit 2): DHEQ-48, tactile (Yeaple) + evaporative (Schiff), LMS; selected 2 non-adjacent test teeth. Stratified by max baseline Schiff, randomized to Test or Reference. Brush twice daily 56 days. Visits 3 (Day 28) and 4 (Day 56): compliance, DHEQ-48, OST, DH assessments, LMS.
+Intervention: Test = 0.454% w/w SnF2 (1100 ppm fluoride ion). Reference = Crest Cavity Protection (1100 ppm F as sodium fluoride). Brush ≥1 min twice daily; Test group instructed to focus on sensitive test teeth first ("focused brushing").
+Assessments: Tactile = constant-pressure Yeaple probe, start 10 g, +10 g increments; force recorded as threshold when pain reported twice consecutively; HIGHER threshold = LOWER sensitivity; max 20 g at screening/baseline, 80 g at Visits 3-4. Evaporative = 1-second air blast 1 cm from dentin, Schiff scale 0 (no response) to 3 (severe pain, request to stop). LMS: 4 × 100-mm scales (0=no pain, 100=worst imaginable): intensity, duration, tolerability, description, immediately after Schiff. DHEQ-48: condition-specific OHRQoL; Section 1 = impact on everyday life; Section 2 = 5 domains (restrictions, adaptation, social impact, emotional impact, identity).
+Statistics: mITT population. Primary/secondary endpoints: change from baseline in Schiff and tactile threshold at Days 28/56, Test vs Reference. MMRM, LSM, 95% CI, two-sided p, 5% significance. SAS 9.4+. Sample size: ~110 randomized/study (~100 completers, ~50/arm); 50/arm gives ≥90% power to detect 0.4-unit Schiff difference (SD 0.6).
+
+== RESULTS ==
+Study 1: 25 March-20 June 2024. Study 2: 11 April-24 June 2024.
+Baseline (Table 1): Study 1 N=103 (Test n=52, Reference n=51); mean age ~49.9 y; predominantly female (Test 94.2%). Study 2 N=112 (Test n=56, Reference n=56); mean age Test 43.2 / Reference 39.7 y. Well-balanced.
+
+CLINICIAN-ASSESSED:
+Schiff (Table 2): In both studies, statistically significant within-Test change at Days 28 & 56 (all p<0.0001). Test vs Reference greater reduction at both timepoints (all p<0.0001).
+  Study 1 Day 28: Test change -1.75; Reference -0.10 (NS p=0.2573); difference -1.65 (p<0.0001). Day 56: Test -2.25; Reference -0.31; difference -1.94 (p<0.0001).
+  Study 2 Day 28: Test -0.79; Reference -0.17; difference -0.62 (p<0.0001). Day 56: Test -1.40; Reference -0.33; difference -1.07 (p<0.0001).
+Tactile threshold (g) (Table 3): all p<0.0001 Test vs Reference.
+  Study 1 Day 28: Test +36.59; Reference +1.23 (NS); difference +35.37. Day 56: Test +60.07; Reference +2.70 (NS); difference +57.37.
+  Study 2 Day 28: Test +16.75; Reference +2.45 (NS); difference +14.31. Day 56: Test +41.13; Reference +4.41 (NS); difference +36.72.
+
+PATIENT-REPORTED:
+LMS (Tables 4, 5): In both studies, significant within-Test reduction in intensity, duration, tolerability, description at Days 28 & 56 (p<0.0001). Test vs Reference statistically significant (p<0.05) in all four LMS domains at both timepoints.
+  Study 1 LMS Intensity Day 56: Test -41.36; Reference -8.18; difference -33.22 (p<0.0001).
+  Study 2 LMS Intensity Day 56: Test -26.66; Reference -5.99; difference -20.67 (p<0.0001).
+
+DHEQ-48 (Tables 6, 7):
+  Study 1: significant within-Test reduction in total score and restrictions/adaptation/emotional/effect-on-life at Days 28 & 56; social impact/identity/global oral health at Day 56. Between-treatment: Test > Reference at Day 56 across Section 1, total score, ALL domains, effect on life, global oral health (e.g., total score difference -24.49, p=0.0002). NO significant difference at Day 28.
+  Study 2: significant within-Test reduction in total + restrictions/adaptation/social/emotional at Day 56 only; effect-on-life at Days 28 & 56. BUT no statistically significant between-treatment difference for ANY section at Day 28 OR Day 56 (Reference also improved → attributed to placebo effect).
+
+SAFETY: Both products well tolerated; no serious adverse events. Study 1: 9 treatment-related TEAEs (8 Test in 4 participants, 1 Reference); one Test participant with 3 severe TEAEs withdrew; rest mild; all resolved. Study 2: no treatment-related TEAEs.
+
+== DISCUSSION (key points) ==
+Anhydrous 0.454% SnF2 toothpaste delivers better clinician-measured AND patient-perceived DH relief over 56 days vs standard fluoride. Clinically meaningful (ADA criterion: ≥20% between-treatment difference) by Day 28, increasing to Day 56. Reference (no anti-DH ingredient) showed minor changes attributed to placebo/Hawthorne effects. LMS superior to Reference for first time. Schiff-LMS alignment links clinical indicator to perceived pain. DHEQ: Study 1 superior, Study 2 no between-group difference (placebo effect in Study 2; baseline/population differences). Limitation: Test group used "focused brushing" of sensitive areas (per US label), Reference did not — consistent with real-world label use.
+
+== CONCLUSION ==
+Twice-daily experimental anhydrous 0.454% SnF2 toothpaste gives greater DH relief than standard fluoride toothpaste by Schiff and tactile threshold at Day 28 (further improvement Day 56), corroborated by patient LMS. Supports its role as first-line option for DH.
