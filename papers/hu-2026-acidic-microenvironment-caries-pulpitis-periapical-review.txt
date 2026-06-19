@@ -1,0 +1,10 @@
+ABSTRACT-ONLY — full text not retrieved (no PMC OA)
+
+Citation: Hu L, Chen J, Chu CH, Tang Q, Li W, Qin T, Chan AKY, Cheng L. pH-driven progression: Dental caries to pulpal and periapical disorders. Arch Oral Biol. 2026;186:106574.
+DOI: 10.1016/j.archoralbio.2026.106574
+PMID: 41880705
+Date: 2026-03-16
+
+ABSTRACT (verbatim):
+
+Narrative review examining the role of an acidic microenvironment in the pathogenesis of dental caries, pulpitis, and apical periodontitis. References (English) from PubMed and Web of Science. Acidic microenvironment in dental caries promotes proliferation and adaptation of acidogenic and aciduric cariogenic bacteria, accelerating the disease process and impairing treatment outcomes. In pulpitis, when pH drops, normal pulpal functions are impaired and pathogenic bacteria exhibit heightened virulence. Acidic microenvironment in periapical tissue affects osteoblast, osteoclast and enzymatic processes, increasing bone resorption in apical periodontitis. Acidic microenvironment also compromises effectiveness of endodontic treatment. Although many strategies developed to mitigate acid-related damage in dental caries, comparable approaches received less attention for pulpal and periapical diseases. An acidic environment causes demineralization of dental hard tissues and disrupts function of cells and microorganisms, promoting progression of caries, pulpitis, and apical periodontitis, and reducing treatment effectiveness.
