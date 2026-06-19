@@ -1659,6 +1659,7 @@ tags: []
 - [[implants/versah-protocols/versah-densah-sinus-lift-ii-protocol-rbh-4-5mm]] — Versah LLC 2024 · narrative-review · Osseodensification-Facilitated Crestal Sinus Lift Protocol II (Densah® LIFT II, REV08)
 - [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)
 - [[implants/versah-protocols/versah-immediate-implant-placement-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Implant Placement Protocol
+- [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — Ali 2026 · RCT · Split-mouth RCT: Densah bur vs Magnetic Mallet OD in maxillary anterior zone — DB higher ISQ (70.1 vs 49.0) and labial plate thickness; bone density equivalent at 6 months
 
 ### periodontics (added 2026-05-28, batch e)
 
