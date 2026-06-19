@@ -44,3 +44,11 @@
       "Impact of Interdental Brushing on Pregnancy-Associated Gingivitis: A Secondary Analysis of a Randomised Controlled Trial" — J Clin Periodontol
 - [ ] PMID 41387303 | RCT | OA:PMC PMC12748044 | floss-interdental | edat 2025/12/12
       "Efficacy and Safety of AirFloss Ultra With Essential Oils Versus Waxed Dental Floss as Adjunct to Toothbrushing: A Randomised Controlled Clinical Trial" — Int J Dent Hyg
+- [ ] PMID 41225247 | RCT | OA:none | water-flosser | edat 2025/11/13
+      "Effects of daily home-use water flossing as an adjunct to non-surgical periodontal therapy in stage I-II periodontitis: a 6-month randomized controlled trial" — Clin Oral Investig
+- [ ] PMID 41114861 | SR+MA | OA:PMC PMC12537638 | water-flosser | edat 2025/10/20
+      "Optimizing implant hygiene: the added value of interproximal cleaning devices around implant-supported restorations - a systematic review and meta-analysis" — Int J Implant Dent
+- [ ] PMID 38997790 | RCT | OA:PMC PMC11717974 | water-flosser | edat 2024/07/12
+      "Efficacy of a water flosser compared to an interdental brush on gingival bleeding and gingival abrasion: A 4 week randomized controlled trial" — Int J Dent Hyg
+- [ ] PMID 37203873 | RCT | OA:PMC PMC10693741 | water-flosser | edat 2023/05/19
+      "Effectiveness of Waterpik for oral hygiene maintenance in orthodontic fixed appliance patients: A randomised controlled trial" — J Orthod

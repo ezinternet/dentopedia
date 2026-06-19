@@ -49,14 +49,27 @@
         "MA"
       ],
       "last_run_edat": "2026/06/19"
+    },
+    "water-flosser": {
+      "query": "(\"oral irrigator\"[tiab] OR \"oral irrigators\"[tiab] OR \"oral irrigation\"[tiab] OR \"water flosser\"[tiab] OR \"water flossing\"[tiab] OR \"water jet\"[tiab] OR \"dental water jet\"[tiab] OR Waterpik[tiab] OR \"powered irrigation\"[tiab]) AND (toothbrush*[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR interdental[tiab] OR \"oral hygiene\"[tiab] OR \"peri-implant\"[tiab] OR orthodontic[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/19"
     }
   },
   "seen_pmids": [
     "24034864",
     "32395387",
     "33028052",
+    "37203873",
+    "38997790",
     "40329262",
+    "41114861",
     "41163412",
+    "41225247",
     "41275475",
     "41331619",
     "41387303",

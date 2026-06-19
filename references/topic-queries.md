@@ -87,3 +87,9 @@ ingest 라우팅: 칫솔질법 효능 SR/RCT → `periodontics`, peri-implant mu
 ```
 **노이즈 주의** — `flossing`/`floss` 단독은 스포츠·물리치료의 **"tissue flossing"(압박밴드 ROM 기법)** 문헌을 다수 끌어온다(발목 ROM·요통 RCT 등). ptyp(RCT/SR/MA)로도 안 걸러지므로 abstract 단계에서 dental 여부 확인 필수.
 ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `periodontics`, 교정환자 위생 한정 시 `orthodontics` 고려, 식편압입 맥락 → `food-impaction`.
+
+### water-flosser (워터픽 · 구강세정기 · dental water jet)
+```
+("oral irrigator"[tiab] OR "oral irrigators"[tiab] OR "oral irrigation"[tiab] OR "water flosser"[tiab] OR "water flossing"[tiab] OR "water jet"[tiab] OR "dental water jet"[tiab] OR Waterpik[tiab] OR "powered irrigation"[tiab]) AND (toothbrush*[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR interdental[tiab] OR "oral hygiene"[tiab] OR "peri-implant"[tiab] OR orthodontic[tiab])
+```
+`floss-interdental`의 워터픽 특화 분기. **치과 앵커(AND절) 필수** — `"oral irrigation"` 단독은 비강·창상 세척 등 비치과 문헌을 끌어온다. 교정환자 oral-irrigator RCT/SR이 다수라 중복 ingest 주의(이미 yiamwattana-2025 SR+MA 보유) — 새 각(치주염 보조·임플란트·WF vs 치간칫솔)만 선별.
