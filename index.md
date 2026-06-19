@@ -1956,6 +1956,7 @@ tags: []
 #### implants/peri-implantitis
 - [[implants/peri-implantitis/monje-2025-surface-decontamination-reconstructive-peri-implantitis]] — Monje 2025 · rct (multicenter, 58pt): 재건적 주위염 표면제염 전해법(GalvoSurge) vs 과산화수소 — 둘 다 효과적, 우열 없음
 - [[implants/peri-implantitis/soldini-2025-reconstructive-therapy-peri-implantitis-rct]] — Soldini 2025 · rct (34pt): 비수술치료 후 재건 vs 지지치료 — 질환 해소 동등(~44%), 골충전은 재건군 3배(1.21 vs 0.36mm)
+- [[implants/peri-implantitis/hakkers-2026-reconstructive-peri-implantitis-3wall-4wall-rct]] — Hakkers 2026, rct: reconstructive surgery (autogenous bone + Bio-Oss + Bio-Gide) vs open-flap debridement in 3- and 4-wall peri-implantitis defects (n=52 patients, 1 yr) — reconstruction improved MBL (β=−1.65 mm) and mid-buccal recession (β=−1.68 mm) but not PPD, BoP, SoP, or disease resolution (~44% both groups)
 - [[implants/peri-implantitis/gardelis-2025-implant-surface-modifications-peri-implantitis]] — Gardelis 2025 · sr (17편·≥3yr): 거친 표면이 매끈한 표면보다 수술 후 재발·상실 위험↑, 재건술식 유리(근거확실성 낮음)
 
 #### implants/surface — review
