@@ -72,3 +72,9 @@
       "pH-driven progression: Dental caries to pulpal and periapical disorders" — Arch Oral Biol
 - [ ] PMID 41221851 | narrative-review | OA:none | caries-acid-mechanism | edat 2025/11/12
       "How force drives pathogenicity: mechanoregulation of Streptococcus mutans adhesion to collagen" — Crit Rev Microbiol
+- [x] PMID 42004794 | narrative-review | OA:PMC PMC13086383 | dentin-hypersensitivity | edat 2026/03/30 (already in wiki: kaur-2026-...-enigma-revisited)
+      "Dentin hypersensitivity, an enigma revisited: Mechanisms, diagnosis and therapeutic advances" — J Conserv Dent Endod
+- [x] PMID 40998255 | narrative-review | OA:PMC PMC13227246 | dentin-hypersensitivity | edat 2025/09/23 (already in wiki: li-2026-...-strategies)
+      "Advances in physical and chemical strategies for dentin hypersensitivity therapy" — J Adv Res
+- [ ] PMID 41139001 | SR+MA | OA:none | dentin-hypersensitivity | edat 2025/10/24
+      "Long-term clinical efficacy of dentin desensitizing agents: A systematic review and meta-analysis" — J Dent

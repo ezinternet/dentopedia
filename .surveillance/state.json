@@ -94,6 +94,15 @@
         "Review"
       ],
       "last_run_edat": "2026/06/19"
+    },
+    "dentin-hypersensitivity": {
+      "query": "(\"dentin hypersensitivity\"[tiab] OR \"dentine hypersensitivity\"[tiab] OR \"dentinal hypersensitivity\"[tiab] OR \"dentinal tubule\"[tiab] OR \"tubule occlusion\"[tiab]) AND (etiology[tiab] OR mechanism[tiab] OR hydrodynamic[tiab] OR management[tiab] OR treatment[tiab] OR occlu*[tiab] OR laser[tiab] OR desensiti*[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/19"
     }
   },
   "seen_pmids": [
@@ -106,7 +115,9 @@
     "40329262",
     "40794532",
     "40926346",
+    "40998255",
     "41114861",
+    "41139001",
     "41163412",
     "41221851",
     "41225247",
@@ -125,6 +136,7 @@
     "41887496",
     "41905896",
     "41978331",
+    "42004794",
     "42013973",
     "42046511",
     "42234020",
