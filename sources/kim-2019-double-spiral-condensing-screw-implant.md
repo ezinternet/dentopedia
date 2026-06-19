@@ -2,7 +2,7 @@
 title: "Condensing Screw for Implant Surgery with a Double-Spiral Structure (이중 스파이럴 구조의 임플란트 시술용 콘덴싱 스크류)"
 authors: Kim Seong-ju (김성주); Applicant (주)해냄 (HaeNaem Co., Ltd.)
 year: 2019
-doi: "KR 10-2021-0014513 A (출원 10-2019-0092685)"
+doi: "KR 10-2304707 B1 (등록 2021-09-15; 공개 10-2021-0014513; 출원 10-2019-0092685)"
 category: [implants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2019-double-spiral-condensing-screw-implant.pdf
 pdf_filename: kim-2019-double-spiral-condensing-screw-implant.pdf
@@ -23,7 +23,8 @@ Korean patent application (KR 10-2021-0014513 A; applicant HaeNaem Co.) for a de
 
 ## 1. Document Information
 
-- **Document type**: 공개특허공보 (Published patent application, A)
+- **Document type**: 등록특허공보 (Granted patent, B1) — supersedes the earlier published application (A)
+- **Registration number**: 10-2304707 (등록 2021-09-15; 공고 2021-09-28)
 - **Publication number**: 10-2021-0014513 (공개일자 2021-02-09)
 - **Application number**: 10-2019-0092685 (출원일자 2019-07-30)
 - **Applicant / 출원인**: (주)해냄 (HaeNaem Co., Ltd.), 경기도 평택시
