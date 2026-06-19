@@ -60,3 +60,15 @@
       "The use of toothpastes containing different active agents in managing root caries: A systematic review with network meta-analysis" — J Dent
 - [ ] PMID 40794532 | RCT | OA:PMC PMC12967385 | toothpaste | edat 2025/08/12
       "Arginine Dentifrices and Childhood Caries Prevention: A Randomized Clinical Trial" — JDR Clin Trans Res
+- [ ] PMID 39810073 | RCT | OA:PMC PMC11732919 | sensodyne | edat 2025/01/15
+      "Home-use agents in the treatment of dentin hypersensitivity: clinical effectiveness evaluation with different measurement methods" — Clin Oral Investig
+- [ ] PMID 42013973 | RCT | OA:none | sensodyne | edat 2026/04/19
+      "Time-course of clinical efficacy of a 5% calcium-sodium phosphosilicate toothpaste on dentine hypersensitivity" — J Dent
+- [ ] PMID 41655831 | SR+MA | OA:none | fluoride-topical | edat 2026/02/06
+      "Fluoride varnish for preventing dental caries among children: a systematic review and meta-analysis of cost-effectiveness studies" — J Dent
+- [ ] PMID 40926346 | RCT | OA:PMC PMC12957404 | fluoride-topical | edat 2025/09/09
+      "Randomized Clinical Trial on Caries Prevention of Silver Diamine Fluoride (vs fluoride varnish)" — J Dent Res
+- [ ] PMID 41880705 | narrative-review | OA:none | caries-acid-mechanism | edat 2026/03/16
+      "pH-driven progression: Dental caries to pulpal and periapical disorders" — Arch Oral Biol
+- [ ] PMID 41221851 | narrative-review | OA:none | caries-acid-mechanism | edat 2025/11/12
+      "How force drives pathogenicity: mechanoregulation of Streptococcus mutans adhesion to collagen" — Crit Rev Microbiol

@@ -67,6 +67,33 @@
         "MA"
       ],
       "last_run_edat": "2026/06/19"
+    },
+    "sensodyne": {
+      "query": "(Sensodyne[tiab] OR ((\"potassium nitrate\"[tiab] OR \"calcium sodium phosphosilicate\"[tiab] OR NovaMin[tiab] OR \"stannous fluoride\"[tiab] OR CPP-ACP[tiab]) AND (dentifrice[tiab] OR toothpaste[tiab]) AND (hypersensitiv*[tiab] OR sensitivity[tiab])))",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/19"
+    },
+    "fluoride-topical": {
+      "query": "(\"fluoride varnish\"[tiab] OR \"fluoride gel\"[tiab] OR \"acidulated phosphate fluoride\"[tiab] OR \"APF gel\"[tiab] OR \"fluoride foam\"[tiab] OR \"silver diamine fluoride\"[tiab]) AND (caries[tiab] OR demineralization[tiab] OR remineralization[tiab] OR enamel[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/19"
+    },
+    "caries-acid-mechanism": {
+      "query": "(\"Streptococcus mutans\"[tiab] OR cariogenic[tiab] OR acidogenic[tiab] OR aciduric[tiab]) AND (acid[tiab] OR acidogenicity[tiab] OR demineralization[tiab] OR virulence[tiab] OR \"acidic microenvironment\"[tiab] OR dysbiosis[tiab])",
+      "ptyp": [
+        "SR",
+        "MA",
+        "Review"
+      ],
+      "last_run_edat": "2026/06/19"
     }
   },
   "seen_pmids": [
@@ -75,10 +102,13 @@
     "33028052",
     "37203873",
     "38997790",
+    "39810073",
     "40329262",
     "40794532",
+    "40926346",
     "41114861",
     "41163412",
+    "41221851",
     "41225247",
     "41275475",
     "41331619",
@@ -86,13 +116,16 @@
     "41421946",
     "41455825",
     "41558746",
+    "41655831",
     "41716131",
     "41720286",
     "41786236",
     "41817287",
+    "41880705",
     "41887496",
     "41905896",
     "41978331",
+    "42013973",
     "42046511",
     "42234020",
     "42243816",

@@ -1264,6 +1264,9 @@ tags: []
 - [[botulinum-toxin/jkda-2025-63-6-002]] — Clinical review (서울그랜드치과 김준영, JKDA 2025): 치과 BTX 적용 framework — 기능(TMD·masseter·bruxism) + 미용(gummy smile·lip line). 한국 임상 적용 가이드
 
 ## 우식 (Caries)
+- [[caries/zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct]] — Zheng 2025 · rct (30개월 이중맹검 활성대조 우월성, 홍콩 유치원 730→621명): 반년마다 **38% SDF vs 5% NaF 바니시(FV)** 상악 전치 유치 ECC 예방 직접비교 — 신규 우식면 0.35(SDF) vs 0.54(FV) p=0.048, GEE 보정 OR 0.61(p=0.029, 예방분율 39%), 24개월 이후 인접·평활면서 발현 (DOI 10.1177/00220345251363837)
+- [[caries/kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]] — Kumar 2026 · sr+ma (23개 경제성평가, 836편 스크리닝): 소아 우식예방 **불소바니시(FV) 비용효과** — FV vs 타 예방(OHE/TAU/실란트/칫솔질/무중재) 통합 INMB $124.1(I²=0%, CI 0포함)로 비용효과 차이 없음; 고소득국 지불자 관점 불확실. 임상효능 아닌 경제성 분석 (DOI 10.1016/j.jdent.2026.106562)
+- [[caries/hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review]] — Hu 2026 · narrative-review (Sichuan/HKU, 초록만): **산성 미세환경**이 우식→치수염→근단치주염 공통 동인 — 산생성·내산성(acidogenic/aciduric) 세균 선택·탈회 가속, pH 저하가 치수기능 손상·세균독성↑·골흡수↑·근관치료 효과↓ (DOI 10.1016/j.archoralbio.2026.106574)
 - [[caries/chen-2026-root-caries-toothpastes-network-meta-analysis]] — Chen 2026 · sr+ma (네트워크 메타분석, Cochrane 9개 DB; in vitro 13+in situ 3+임상 12편): 치근우식 **치약 활성성분 순위** — 고농도 NaF(5000ppm)가 병변 깊이↓·경화·신규우식 예방 최상위(처방 1차), 생활성 Ca/P·아르기닌+불소는 대안, 표준 1450ppm NaF는 고위험군서 불충분; 치약 vs 위약 depth MD −55.75·mineral loss MD −1.18 (DOI 10.1016/j.jdent.2026.106582)
 - [[caries/yin-2025-arginine-dentifrice-childhood-caries-rct]] — Yin 2025 · rct (2년 phase-3 이중맹검, 6000명 10–14세, 중국): **8.0% 아르기닌 치약**(무불소)이 0.32% NaF 대비 DMFS 26.0%·DMFT 25.3% 유의 감소(P<.001), 1.5% 아르기닌은 NaF와 동등(NS) — 용량의존적 무불소 항우식 대안 (DOI 10.1177/23800844251361471)
 - [[caries/meyer-lueckel-2019-intervene-root-caries-process-sr-ma]] — Meyer-Lueckel 2019 (SR+MA, EFCD/ORCA): 근관면 우식 — 5000ppm F·CHX varnish·SDF 우식정지 우수, 수복 composite>GIC(전반 실패율 높음)
@@ -1442,6 +1445,8 @@ tags: []
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
 
 ## 시린이 (Dentin Hypersensitivity)
+- [[dentin-hypersensitivity/ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-rct]] — Ayan 2025 · rct (n=164, 18–70세, 8주): 가정용 탈감작제 5종(**CPP-ACP·아르기닌·NovaMin·프로폴리스·질산칼륨**[NovaMin·질산칼륨=센소다인 핵심]) vs 표준 불소치약 — 전 시험군 4·8주 DHEQ-15/Schiff/VAS 유의 개선, 대조군은 8주 SSS+VAS만; **CPP-ACP 최대 감소** (DOI 10.1007/s00784-025-06155-1)
+- [[dentin-hypersensitivity/creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct]] — Creeth 2026 · rct (8주 examiner-blind, 215명 완료, Haleon=센소다인 제조사): 무수 **5% CSPS(NovaMin·Repair&Protect)+NaF 치약** vs 표준 NaF-실리카 — Schiff·Yeaple 촉각 두 지표 **Day 3부터 56일 전 시점** 유의 우월(between p<0.001), 완화 8주까지 점증; DHEQ-48 군간 NS (abstract-only, DOI 10.1016/j.jdent.2026.106710)
 - [[dentin-hypersensitivity/qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct]] — Qiu 2026 · rct ×2 (Study1 n=104·Study2 n=113, 18–65세 DH, 56일): 무수 **0.454% SnF₂ 치약** > 표준 불소치약 — Schiff·Yeaple 촉각역치·LMS 통증 모두 Day 28·56 유의 우월(p<0.05), Study1은 DHEQ-48 삶의질도 우월; well-tolerated (DOI 10.1007/s00784-026-06942-4)
 - [[dentin-hypersensitivity/jkda-2022-60-4-003]] — Review (강남세브란스+서울대 보존과, JKDA 2022): DH prevalence(8-57%)·진단·치료(at-home+in-office+restorative)·미래 — JKDA DH 특집 1번
 - [[dentin-hypersensitivity/jkda-2022-60-4-004]] — Clinical management (경희대 보존과 장지현, JKDA 2022): DH 외래 의사결정 ladder — 1차 at-home → 2차 in-office sealing → 3차 restorative
@@ -1995,6 +2000,7 @@ tags: []
 
 
 ## 구강미생물학 (Oral Microbiology) — NEW category (added 2026-06-07, batch j)
+- [[oral-microbiology/inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review]] — Inostroza 2025 · narrative-review (초록만): **S. mutans 콜라겐결합단백(SpaP·WapA·Cnm·Cbm)**의 역학생물학 — 상아질/ECM 부착·응집·독성 매개, AFM 단분자(SMFS)·단세포(SCFS) 힘분광법으로 특성화, 항바이오필름 우식예방 표적 (DOI 10.1080/1040841X.2025.2584074)
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — Narrative review cataloguing the molecular composition and functional roles of the dental plaque EPS matrix (carbohydrates ~20% dry wt, proteins, eDNA, lipids) in caries and periodontal disease (2021)
 - [[oral-microbiology/sedghi-2021-oral-microbiome-key-organisms-networks]] — Narrative review of oral microbiome community assembly, multi-omics methods, and polymicrobial networks driving caries, periodontitis, and systemic dissemination (2021)
 - [[oral-microbiology/bloch-2024-oral-streptococci-modulators-health-disease]] — Narrative review of oral streptococcal taxonomy, virulence factors, and immunomodulatory roles as pioneer colonisers, accessory pathogens, and causes of infective endocarditis (2024)
