@@ -1,0 +1,119 @@
+Prophylactic Antibiotics for Prevention of Infective Endocarditis or Bacteremia in Pediatric Patients With Congenital Heart Disease Undergoing Dental Procedures: Systematic Review
+
+Authors: C. Loper, J. Baskette, T. R. Fagan, Divesh Sardana
+Journal: Special Care in Dentistry
+Year: 2025
+DOI: 10.1111/scd.70112
+PMID: 41269014
+PMCID: PMC12637016
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12637016/
+
+ABSTRACT
+
+Aim: To assess the effectiveness of prophylactic antibiotics in preventing infective endocarditis (IE) after dental procedures in pediatric patients with congenital heart disease.
+
+Methods: Six electronic databases and grey literature were searched for randomized controlled trials (RCTs), case-control studies, and cohort studies in pediatric patients who received antibiotic prophylaxis (AP) before any dental procedure compared to pediatric patients undergoing the same procedures without AP to prevent IE and/or bacteremia. The Newcastle-Ottawa scale was used to evaluate the internal validity of the included studies. The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) was used to assess the certainty of evidence.
+
+Results: 1774 studies were screened after duplicate removal. Three case-control studies met the inclusion criteria and were included. One study evaluated IE as an outcome, whereas the other two studies evaluated bacteremia after dental procedures. Meta-analysis could not be conducted for IE, whereas pooling results were attempted for two studies evaluating bacteremia as an outcome. The odds of IE after a dental procedure within the last 6 months with AP were higher than without AP (Odds ratio: 3.44, 95% CI: 0.93, 12.65, p=0.06) in the only study. However, AP was effectively able to reduce bacteremia after dental procedures in two studies that evaluated bacteremia (Pooled odds ratio: 0.24, 95% CI: 0.14, 0.42, p<0.05).
+
+Conclusions: The GRADE evidence was very low to conclude that prophylactic antibiotics might have a role in preventing IE or bacteremia in children with congenital cardiac diseases due to insufficient studies.
+
+FULL TEXT
+
+1. Introduction
+
+The oral cavity harbors numerous microorganisms, some of which are opportunistic and have the potential to cause systemic and local infections when the host's immunity is compromised or the growth conditions for those microbial species are favorable. It has been well known that activities of daily living (toothbrushing and flossing) and invasive dental procedures (ranging from scaling to extraction) are known to cause transient bacteremia, a term that implies the transient presence of viable bacteria in the circulating blood. The bacteria normally clears from the circulating blood in individuals with healthy immune response and cannot adhere to healthy tissue surfaces; however, in individuals with structural defects (like rheumatic heart disease) or unhealthy tissue surfaces favorable for adherence (prosthetic joint replacement, heart valve replacement, congenital heart disease), there has been ongoing concerns and discussions that these bacteria have a high likelihood of adhering and colonizing on these favorable surfaces and thus causing systemic infections. This adherence often leads to more serious complications like infective endocarditis (IE) or periprosthetic joint infections. Thus, antibiotic prophylaxis (AP) before dental procedures has been recommended by the American Heart Association (AHA) since 1955, and has undergone many revisions since then, with the notable amendments in 1997, 2007, and 2021. With advancements in our understanding of the role of AP in preventing systemic infections, there have been numerous changes over the past few decades, including modifications in drug regimens and dosages, as well as revisions to clinical indications pertaining to the dental procedures and the underlying systemic disorders. Systemic conditions that once warranted AP under earlier guidelines have since been removed in updated recommendations by the AHA and the American Dental Association (ADA). This paradigm shift has been due to a better understanding of the etiopathogenesis of IE as well as findings from recent studies that have underscored the adverse effects of antibiotics, the risk of antibiotic resistance, and the fact that cost-effectiveness often outweighs the beneficial effects of AP. Although the guidelines on AP before dental procedures to prevent IE have evolved, AP is still indicated and recommended for many dental procedures and cardiac conditions. The National Institute for Health and Care Excellence (NICE) UK guidelines (2008) reignited the debate, as these guidelines no longer recommended AP before dental procedures in high-risk cardiac patients. However, to add to the confusion, the NICE guidelines were modified in 2015. The 2015 change was due to concerns that the cases of IE had been rising in England since the 2008 guidelines came into effect, and in turn, the prescription of antibiotics decreased. The retrospective study estimated that there were nearly 35 more cases of IE after the NICE 2008 guidelines (before dental procedures in high-risk patients) than if the 2008 guidelines had not been adopted and the historical trend (in high-risk patients) had continued.
+
+With the ongoing debate, confusion, and change in guidelines about AP before dental procedures in high-risk cardiac patients, it has been shown that despite the change in guidelines of that country, healthcare providers and dentists might continue to give AP even when prophylaxis is not indicated or necessary in the most recent guideline. Although there have been systematic reviews that have assessed the evidence on the use of AP before dental procedures in high-risk cardiac patients, all of them have focused on IE as an outcome in adults or included children as a subgroup in their analysis for a wider and paramount scientific topic. Thus, the purpose of the present systematic review was to assess and synthesize the evidence regarding the effectiveness of AP before dental procedures in pediatric patients with congenital cardiac disorders for the prevention of IE. Also, the secondary aim was to synthesize the evidence regarding the use of AP in preventing bacteremia after dental procedures in pediatric patients with congenital cardiac disorders compared to controls not receiving AP.
+
+2. Materials and Methods
+
+2.1 Protocol and Registration
+
+The methodology of the current review was formulated in advance by adhering to the Cochrane Handbook. The protocol was designed a priori and registered at the International Prospective Register of Systematic Reviews (PROSPERO). The review is being reported as per the PRISMA statement and checklist.
+
+2.2 Study Eligibility Criteria
+
+The articles in the present review included randomized controlled trials (RCTs), case-control studies, and cohort studies that compared pediatric patients with congenital heart diseases (CHD) who had undergone dental treatment with AP versus the patient population who did not receive AP.
+
+PECO Schema:
+- Population: Pediatric patients with CHD (low, moderate, or high risk of IE)
+- Exposure: AP before any dental procedure
+- Control: Patients who did not receive AP before any dental procedure
+- Outcome: Incidence of IE (primary) or bacteremia (secondary)
+
+2.3 Information Sources and Literature Search
+
+Six electronic databases were systematically searched by two independent authors with no start date restrictions or language restrictions, up to and including April 2024: Web of Science, Medline (via Ovid), Embase Classic, Scopus, CINAHL, and PubMed. Additionally, cross-references of the included articles were hand-searched for any potentially relevant articles meeting the eligibility criteria.
+
+2.4 Study Selection
+
+1981 records were identified, 1730 screened after duplicate removal, 44 assessed for full-text reading, 3 finally included. Cohen's kappa at full-text reading stage was 0.65, indicating moderate inter-rater agreement.
+
+2.5 Data Items
+
+Information extracted: author, year, country, mean age/range, number of participants, study type, antimicrobial agents used, clinical procedures performed, and outcome data (incidences of bacteremia and IE in AP and non-AP groups).
+
+2.6 Risk of Bias
+
+Newcastle-Ottawa scale (NOS) for case-control studies (maximum 10 stars) used independently by two authors.
+
+2.7 Summary Measures and Methods of Analysis
+
+Fixed effects Mantel-Haenszel model (≤3 studies); random effects REML (>3 studies). Heterogeneity assessed via I²-based Q-statistic. Statistical analyses done using Stata 18.0.
+
+3. Results
+
+3.1 Study Selection
+
+After electronic database searching, 1981 records identified, 1730 screened, 44 assessed for full-text, 3 included. Kappa = 0.65.
+
+3.2 Study Characteristics
+
+Three included studies:
+
+1. Elliott and Dunbar (Ireland): 217 patients - 100 healthy (no AP), 100 with cardiac conditions needing AP, 17 with no cardiac conditions but receiving AP. Age range 2-13 years. Dental extractions. Antibiotics: penicillin primarily. Outcome: bacteremia. Group 1 (healthy): 36% positive cultures; Group 2 (cardiac with AP): 11% positive cultures.
+
+2. Coulter et al. (Ireland): 58 patients - 26 with known cardiac abnormalities at risk for IE needing AP, 32 non-cardiac patients not needing AP. Mean age 7 years. Dental extractions. Antibiotics: IM penicillin, PO amoxicillin, IV amoxicillin, IV erythromycin. Outcome: bacteremia. 63% non-AP cultures positive vs 35% AP group.
+
+3. Sun et al. (Taiwan): 237 patients with newly diagnosed IE identified; 4,725 controls randomly selected from 24,729 children with CHD (aged < 3 at diagnosis, followed 1997-2010). Procedures: extractions, periodontics, endodontics, oral surgery. Outcome: IE. Adjusted OR for IE with AP: 1.31 (95% CI: 0.64, 2.66; p=0.459); adjusted OR without AP: 0.35 (95% CI: 0.11, 1.17; p=0.088). Concluded dental procedures do not increase risk of IE regardless of AP use.
+
+3.3 Risk of Bias
+
+- Elliott and Dunbar: 6/9 NOS stars
+- Coulter et al.: 5/9 NOS stars
+- Sun et al.: 8/9 NOS stars
+
+3.4 Results of Individual Studies
+
+For IE (Sun et al. only, meta-analysis not possible): OR for IE with AP vs without AP = 3.63 (95% CI: 0.98, 13.47; p=0.05) — not statistically significant.
+
+For bacteremia (2 studies meta-analyzed, fixed effects Mantel-Haenszel): Pooled OR for bacteremia with AP = 0.24 (95% CI: 0.14, 0.42; p<0.05). Heterogeneity I² = 0.00% (p=0.56).
+
+3.5 Certainty of Assessment (GRADE)
+
+- IE: Very low certainty (⊕◯◯◯) — 1 case-control study, imprecision (OIS not met)
+- Bacteremia: Very low certainty (⊕◯◯◯) — 2 case-control studies, serious risk of bias + imprecision
+
+4. Discussion
+
+Very low evidence to conclude that AP before dental procedures is effective in reducing the risk of IE or bacteremia in children with CHD. Continued recommendation for high-risk individuals is probably based on:
+- Serious clinical consequences of IE
+- Understanding of pathophysiology and prevention of IE
+- Expert consensus due to practical and ethical limitations in conducting large studies
+
+RCTs not identified — conducting such studies raises ethical concerns (withholding AP from high-risk CHD control group). Bacteremia peaks 1.5-5 min after dental procedures, but no studies have validated bacteremia as a reliable surrogate marker for IE.
+
+AP was shown to be cost-effective in patients with risk of IE, especially high-risk patients, based on a decision-analytical cost-effectiveness model.
+
+In adults: a systematic review found odds of IE in high cardiac risk adults were 0.39 when AP was given vs not given (p=0.11; protective but not statistically significant). A more recent meta-analysis found AP associated with significantly lower risk of IE after dental procedures (pooled risk ratio: 0.41; 95% CI: 0.29, 0.57) only in high-risk cardiac patients.
+
+5. Conclusions
+
+- Very low GRADE evidence that AP prevents IE in pediatric patients with CHD
+- Very low certainty that AP reduces bacteremia after dental procedures in pediatric CHD patients
+- No studies evaluated AP in preventing IE specifically in high cardiac risk pediatric patients
+- Difficult to recommend for or against AP in pediatric CHD (low, moderate, or high risk) due to lack of empirical evidence
+- Future research needed to evaluate clinical validity of bacteremia as risk marker for IE
+
+Funding: J. Dean Robertson Society and the Delta Dental of Oklahoma Foundation through the Student Research Program of the University of Oklahoma College of Dentistry.
