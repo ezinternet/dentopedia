@@ -118,6 +118,33 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 **라우팅**: `wiki/implants/isq/` + 오버뷰 `implants-isq-stability-ladder` · `isq-loading-threshold`.
 
+### antibiotic-dental (치과 항생제 · 항균 치료)
+
+```
+(amoxicillin[tiab] OR clindamycin[tiab] OR metronidazole[tiab] OR azithromycin[tiab] OR doxycycline[tiab] OR "antibiotic prophylaxis"[tiab] OR "antibiotic stewardship"[tiab] OR "antimicrobial resistance"[tiab] OR "antibiotic prescribing"[tiab] OR "antibiotic therapy"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR odontogenic[tiab] OR "oral infection"[tiab] OR "tooth extraction"[tiab] OR endodontic[tiab] OR periodontal[tiab] OR "implant surgery"[tiab])
+```
+
+**목적**: 치과 항생제 전반 — 예방적 항생제 (Antibiotic Prophylaxis), 치성감염 치료, 항생제 내성 (Antimicrobial Resistance), 처방 패턴·스튜어드십 (Antibiotic Stewardship), 개별 약물(아목시실린·클린다마이신·메트로니다졸·아지스로마이신·독시사이클린) 효능·부작용.
+
+**노이즈 주의**:
+- `antibiotic prophylaxis` 단독은 심혈관·정형외과 예방 문헌 대거 포함 → `AND dental` 앵커 필수.
+- `antimicrobial resistance` 단독은 비치과 감염내과 문헌 압도 → 앵커 유지.
+- `metronidazole` 단독은 소화기·부인과도 포함 → AND 앵커로 차단.
+
+**ptyp**: RCT + SR + MA. volume 중간(연 50–100건 예상).
+
+**주요 변수 축** (ingest 우선순위):
+1. 예방적 항생제 필요성 논쟁 — 심장판막·인공관절 환자 치과 시술 전 항생제 권고/근거
+2. 치성감염(Odontogenic Infection) 항생제 선택 — amoxicillin vs clindamycin vs amoxicillin+clavulanate
+3. 임플란트 수술 전후 항생제 — 생존율·합병증 영향 (SR+MA)
+4. 발치 후 항생제 — 예방 효과 vs 내성 위험 trade-off
+5. 항생제 스튜어드십 / 처방 패턴 — 치과의사 처방 습관·부적절 처방률
+6. 항생제 알러지 교차반응 — 페니실린 알러지 환자 대안 약물
+7. 메트로니다졸 병용 — 페리오·근관 감염 병용요법 근거
+8. 항생제 내성 — 구강 내 내성균 실태, 처방 연계
+
+**라우팅**: `drug/` (항생제 임상) + `implants/peri-implantitis` (임플란트 주위염 항생제) + `periodontics` (치주 항생제 보조요법) + `endodontics` (근관 항생제) + 오버뷰 `antibiotic-dental-decision-ladder` (신설 가능).
+
 ### toothpaste (투쓰페이스트 / dentifrice)
 ```
 (toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])
