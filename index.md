@@ -1498,6 +1498,9 @@ tags: []
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
 - [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — Liu 2025 (FEA, BMC): 균열 대구치 수복 설계×재료 응력·균열진전 — 피개형 설계가 응력 유리
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — Umbrella review (Manipal CDS, JCDE 2026, PROSPERO, AMSTAR-2): 4 SR(30 primary)/CCA 17% — **endo therapy + full cuspal coverage가 최고 prognosis**. 분야 최고 evidence-level
+- [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] — Zhang 2024 · sr+ma (abstract-only) · J Dent 27편: 생활치 direct(cuspal coverage 無) vs full-crown 치수합병증 RR 3.2·발치 RR 8.1, 근관치료 균열치 full-crown 無 시 발치 11.3배 → **cuspal coverage 강력 권고**, 무증상은 monitoring 80%(3y) (DOI 10.1016/j.jdent.2024.104843)
+- [[cracked-tooth/gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp]] — Gavriil 2025 · sr+ma (abstract-only) · J Endod 14 코호트: single vs multiple-stage 치수예후 차이 無, 단 single-stage+간접수복 치수성공 최고·onlay>crown·direct 열등·임시기간 짧을수록 유리; 1y 치아생존 96–100% (DOI 10.1016/j.joen.2025.06.013)
+- [[cracked-tooth/fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival]] — Fiyaz Ghani 2025 · sr+ma (abstract-only) · J Endod 10편/711치: external splinting 12개월 치수생존 85%(79–91%), 교정밴드 無 89% vs 有 79%·direct 89% vs stepwise 81%; QoE 매우 낮음 (DOI 10.1016/j.joen.2025.07.005)
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-protocol]] — Protocol (Manipal CDS, Syst Rev 2026): 위 umbrella review의 사전 PRISMA-P protocol — reproducibility 보강
 - [[cracked-tooth/ferracane-2023-cracked-tooth-registry-3year-network]] — Multi-site observational cohort (National Dental PBRN, 8 articles 2017-2022 통합 lessons learned, OHSU): 후방 cracked teeth 3년 — 어떤 crack이 악화/언제 개입/best 치료 3 핵심 질문 답
 - [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] — Narrative review (Shandong+Korea Univ, PRM 2021): CTS의 etiology·diagnosis·management·prevention 4축 종합 + iatrogenic vs non-iatrogenic 원인 framework
