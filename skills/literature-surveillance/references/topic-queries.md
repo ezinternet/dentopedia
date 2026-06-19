@@ -71,3 +71,9 @@ IIP(immediate implant placement)는 핵심어를 풀어 쓰면 osseodensificatio
 ("cracked tooth"[tiab] OR "cracked teeth"[tiab] OR "cracked tooth syndrome"[tiab] OR "incomplete tooth fracture"[tiab] OR "incomplete crown fracture"[tiab] OR "tooth crack"[tiab] OR "cuspal fracture"[tiab])
 ```
 niche 토픽 — RCT/SR/MA 전 기간 누계 ~17건뿐. `[tiab]` phrase 필수("tooth fracture" 단독은 root fracture·외상까지 범람). `"vertical root fracture"`는 별개 entity라 제외. ptyp는 RCT/SR/MA로 좁혀도 연 수건 수준이라 noise 적음. 시드 sweep(2026/06/19): SR+MA 3 + RCT 1 적립. **철회 1건(PMID 38517822, Technol Health Care SR)** 은 screened-seen 처리해 영구 제외.
+
+### c-shaped-canal
+```
+("C-shaped canal"[tiab] OR "C-shaped canals"[tiab] OR "C-shaped root canal"[tiab] OR "C-shaped root canals"[tiab] OR "C-shaped configuration"[tiab] OR "C-shaped root canal system"[tiab])
+```
+C자형 근관(주로 하악 제2대구치) 해부·치료. niche — RCT/SR/MA 전 기간 7건뿐, 대부분 CBCT 유병률·in vitro라 high-evidence 적음. wiki/endodontics/anatomy에 C-shaped 페이지 다수 기보유 → **DOI 교차 dedup 필수**(seen만으로 부족; 시드 sweep에서 yousefi-2025 PMID 41126141이 이미 위키 보유로 제외됨). 시드 sweep(2026/06/19): 신규 2건(40410308 Sci Rep MA OA:PMC, 41042605 Indian JDR SR+MA) 적립, 5건 screened-seen(기보유 1 + 노후/tangential 4).
