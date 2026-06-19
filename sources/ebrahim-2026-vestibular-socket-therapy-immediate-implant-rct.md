@@ -10,6 +10,10 @@ pdf_filename: ebrahim-2026-vestibular-socket-therapy-immediate-implant-rct.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+즉시 식립 시 buccal 결손 socket의 차폐막·연조직 전략 선택을 다루는 [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]]를 보강. modified VST(pericardium membrane)가 open-flap GBR 대비 buccal bone은 동등하나 PES(특히 mesial/distal papilla)에서 유의 우위를 보인 RCT로, [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]의 buccal 결손 즉시 식립 근거와 짝을 이룸.
+
 ## One-line Summary
 Alexandria Univ RCT (BMC Oral Health 2026, n=20 / 20 implants, Type II socket 상악 비구치): modified VST(pericardium membrane) vs open-flap GBR — buccal bone thickness/height는 군간 동등하나 PES는 VST 유의 우수 (12.78±0.83 vs 11.56±1.24, p=0.03, 주로 mesial/distal papilla).
 
