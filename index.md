@@ -1014,6 +1014,7 @@ tags: []
 - [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (2,994편→8편): 급성 치성감염 경험적 항생제 요법 거의 모두 임상 성공, 1개 연구는 무항생제=광범위 동일 결과 → 광범위 1차 처방 불필요·좁은 스펙트럼 동등; 성공의 1차 요인은 배농·감염원 제거(치과 치료).
 - [[drug/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — Vavro 2024 (10년 후향, n=744, Clin Oral Investig): 구강안면감염 경험적 항생제 — amox-clav 내성 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 1차 amox-clav 권고, 단 외과적 배농이 우선 (2024)
 - [[drug/chunduri-2012-bacterial-spectrum-orofacial-infections]] — Chunduri 2012 (감수성 연구, n=68, 인도): 구강안면감염 amox-clav 감수성 95–100%(혐기성 100%)·clindamycin 양호, erythromycin 효용 의문 (2012)
+- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
