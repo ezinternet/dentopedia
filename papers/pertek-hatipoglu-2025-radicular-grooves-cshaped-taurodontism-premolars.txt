@@ -1,0 +1,1017 @@
+Introduction
+
+The success of RCT (root canal therapy) mainly depends on a complete conception of root along with canal morphology including all the anatomical variations which can complicate the treatment procedureOf these morphological differences, taurodontism, C-shaped canals, and RGs (Root grooves) are of note because they influence diagnosis, treatment planning, along with endodontic success. Since these differences are morphologically complex and clinically relevant, dental practitioners must have important knowledge and skills among these characteristics to gain the successful result expected by the treatment procedure.
+
+One of the most complex root canal morphology encountered in clinical practice is the C-shaped canalThese canals are defined by fins and isthmuses that connect the individual and merged canals, creating a defining “C” shape in cross-section. However, this morphology is not uniform; it can change along the root’s axisA C-shaped canal seen in the coronal third may not maintain that shape through the middle and apical thirds. More specifically, independent canals seen at the floor of the pulp chamber can, in fact, merge and exist as a single C-shaped canal at a more apical location in the root. This variability adds to the challenge of cleaning, shaping, and obturating the canal system, leading to increased rates of procedural errors including missed canals, perforations, and inadequate debridementStudies have shown that C-shaped canals are often seen in association with these two root morphologies: a fused root structure and a longitudinal RGThese grooves on the proximal surface of the lingual side of the middle root are common and are significant in root canal system morphology. This groove itself is a development anomaly, and together with adjacent isthmus respectively represent a “danger zone” for complication in endodontics, that is, the success of treatment. In order to effectively manage C-shaped canal morphology, imaging and endodontic technique adaptations are vital. In order to achieve a complete cleaning and hermetic sealing in these canals, specific shaping and filling methods are required to address their unique morphology.
+
+Another important anatomical characteristic that could be very clinically relevant is the presence of RGsThe clinical significance of these developmental intussusceptions of different percentages is deceived by the depth along with placement of these grooves and may vary. The RGs of C-shaped mandibular premolars may run longitudinally, including the root, which is frequently detected on the lingual surface of the toothThese grooves produce a place for bacterial accumulation along with biofilm formation and make it difficult for clinicians to gain effective root scaling as well as planning. Untreated RGs can end in loss of periodontal attachment, including other adverse consequencesRGs are critically important from an endodontic perspective because of their proximity to isthmuses in the root canal system. The grooves are situated on the thinnest areas of the canal system, hence becoming vulnerable to perforation along with instrumentation. However, their morphology and depth determine the intricacy of the management, so endeavor should be taken for a careful preoperative evaluation to maximize outcomes and minimize complications.
+
+Taurodontism is a remarkable anatomical difference that has clinical importance. It is specified by shorter roots along with an enlarged pulp chamberThe usual crown-body-root ratio of teeth is modified by this condition and presents particular complexity for restorative along with endodontic protocol. Taurodont teeth can be divided into hypotaurodontism, mesotaurodontism, hypertaurodontism, and hypotaurodontism, depending on the ratio among root length, and the crown-body lengthThough taurodontism has been reported in molars, reduced is known due to their presence in mandibular 1 st premolarsBecause taurodontism affects the tooth’s internal anatomy, the clinical exhibition of this condition shows a significant challenge. Difficulties faced during the access cavity preparation in the existence of an enlarged pulp chamber including canal instrumentation elevate the risk of errors in the procedureIn addition, taurodont teeth usually demonstrate irregular canal configurations and slender root walls, which make obturation compromise and jeopardize the complete structural integrity of teeth. Further research on the prevalence along with types of taurodontism in mandibular 1 st premolars is essential for improving RCT outcomes.
+
+As a cutting-edge imaging technology, CBCT (cone beam computed tomography) provides highly accurate images of the dentomaxillofacial complex. By generating high-resolution three-dimensional images, CBCT enables a more comprehensive analysis of complex anatomical structures than traditional two-dimensional radiographyThe fact exhibits this imaging system’s peculiarity is that it detects subtle differences, like RGs, taurodontism, and C-shaped canals, that are usually overlooked by traditional 2D radiography methodsIn this study, standardized procedures were followed for the scan of the CBCT datasets to permit high levels of repeatability and consistency. CBCT imaging allows accurate categorization and analysis of anatomic structures and increases the diagnostic repeatability and validity of the results.
+
+Mandibular first premolars play a crucial role in both oral function and aesthetics, yet they are among the most anatomically variable teeth, presenting significant challenges in endodontic treatment. Their root canal morphology is highly unpredictable, ranging from a single straight canal to complex configurations such as C-shaped canals, accessory canals, and radicular grooves. These variations increase the risk of missed canals, procedural errors, and compromised treatment outcomes, particularly in the presence of fused roots or deep radicular grooves. Despite their clinical significance, limited research has comprehensively examined the prevalence and variations of these morphological features on a global scale. By utilizing CBCT imaging in a multicenter study design, this study ensures high consistency and precision in data collection and analysis, allowing for a detailed evaluation of C-shaped canals, radicular grooves, and taurodontism. The incorporation of a meta-analytic approach further enhances the study’s ability to assess the global distribution and clinical relevance of these anatomical variations, providing valuable insights for both diagnosis and treatment planning. This study aims to bridge the knowledge gap regarding mandibular first premolar morphology by systematically analyzing its anatomical variations across 20 countries using CBCT imaging and meta-analytic methods.
+
+Materials and methods
+
+Research protocol
+
+This cross-sectional multicenter study was conducted across 20 countries between June 2023 and April 2024 to investigate the prevalence of RGs, C-shaped canals, and taurodontism in mandibular first premolars. The analysis was based on previously acquired CBCT datasets, evaluated in accordance with the guidelines set forth by the American Association of Endodontists and the American Academy of Oral and Maxillofacial RadiologyAll centers participated in the study simultaneously, strictly adhering to standardized protocols established prior to data collection.
+
+Each participating researcher complied with the ethical standards and regulations applicable in their respective countries. Where additional approvals were mandated by local authorities, these were obtained to ensure full compliance with national ethical requirements.
+
+Power analysis
+
+To calculate the necessary sample size for this study, the following formula was utilized:
+
+In this formula, “Z” denotes the Z-score for a 95% confidence interval (1.96), “P” represents the estimated prevalence (50%, selected to maximize variability in the absence of prior data), and “d” signifies the margin of error (5%). Using these parameters, the minimum required sample size was calculated as 384 teeth (corresponding to 192 CBCT scans) per country to achieve adequate statistical power.
+
+Inclusion and exclusion criteria
+
+Inclusion criteria
+
+Participants included in this study were required to be at least 16 years old, with no upper age restriction. High-resolution CBCT scans suitable for comprehensive anatomical evaluation were mandatory. Eligibility was limited to individuals with fully developed mandibular first premolars bilaterally, with no prior history of orthodontic interventions or major craniofacial abnormalities. Additionally, all participants provided written informed consent before being enrolled in the study.
+
+Exclusion criteria
+
+CBCT scans were excluded if they lacked bilateral mandibular first premolars or showed teeth with open apices, root resorptions, or evidence of previous root canal treatment. Teeth with coronal restorations, crowns, or significant internal or external pathologies such as deep caries, periapical lesions, or pyramidal roots were also excluded. Individuals with systemic conditions or syndromes impacting dental anatomy, such as cleidocranial dysplasia, were not included. Furthermore, participants who had recently used dental materials or products potentially interfering with the assessment of RGs, C-shaped canals, or taurodontism were excluded to ensure the accuracy and reliability of the findings.
+
+CBCT imaging protocols and device specifications
+
+In our multicenter study, CBCT datasets were acquired using a diverse range of CBCT units and protocols across 20 countries, as detailed in Table. The devices employed include models from well-established manufacturers such as Planmeca (e.g., Planmeca Promax 3D, Morita 3D Accuitomo 170), Sirona (e.g., Orthophos SL, Orthophos Xg3 d, Scanora™ 3D), Kavo (Kavo 3D Exam), Care Stream (e.g., CS 9600, CS 8100), and others. Voxel sizes varied from 75 μm (as used in the United States) to 300 μm (in Greece), and the fields of view (FOV) ranged from small volumes (e.g., 6 × 6 cm in Poland) to larger ones (e.g., 15 × 15 cm in Greece), reflecting inherent differences in imaging protocols and clinical applications. Additionally, the datasets were processed using various visualization software packages (e.g., Planmeca Romexis Viewer, OnDemand 3D Dental, 3D Slicer), and the dates of CBCT acquisition span from 2011 to 2023. Recognizing that these variations in CBCT technology and acquisition parameters can affect image quality and diagnostic accuracy, we implemented a random-effects meta-analysis model and conducted sensitivity analyses to account for potential heterogeneity, thereby ensuring the robustness and reliability of our findings.
+
+Table 1
+
+Information regarding the exposure parameters and the origin of the devices used in each country.
+
+Continent
+
+Country
+
+City
+
+CBCT database
+
+Observer
+
+CBCT Model (CBCT Brand)
+
+CBCT Voxel Size
+
+CBCT FOV
+
+Visualization software
+
+Date of CBCT exam acquisition
+
+Europe
+
+Germany
+
+Muenster
+
+Private Clinic
+
+S.B
+
+Planmeca Promax 3D (Planmeca, Helsinki, Finland)
+
+100–160 μm
+
+Large
+
+Planmeca Romexis Viewer 5.0
+
+2018 onwards
+
+South America
+
+Colombia
+
+Medellín
+
+Private Clinic
+
+R.F
+
+Planmeca Promax 3D (Planmeca, Helsinki, Finland)
+
+100 μm
+
+8 × 5 cm
+
+InVivoDental Viewer -Anatomage
+
+2013–2024
+
+South America
+
+Ecuador
+
+Quito
+
+Private Clinic
+
+M.G.I
+
+Orthophos Sl (Sirona)
+
+80 μm
+
+11 × 10 cm
+
+SIDEXIS
+
+2022–2023
+
+Asia
+
+India
+
+Chennai
+
+University clinic
+
+T.S
+
+Care Stream CS 9600
+
+100 μm
+
+8 × 6 cm
+
+CS 3D imaging
+
+2022–2024
+
+Asia
+
+Kazakhstan
+
+Almaty
+
+University Clinic
+
+T.I
+
+Orthophos Xg3 d (Sirona, Germany)
+
+160 μm
+
+8 × 8 cm
+
+Sidexis 4 (Sirona)
+
+2023–2024
+
+Asia
+
+Uzbekistan
+
+Tashkent
+
+Tashkent Institute of Dentistry
+
+B.O
+
+Op 3D Pro
+
+150 μm
+
+8 × 15 cm
+
+KaVO (Germany)
+
+September-December 2023
+
+Europe
+
+Poland
+
+Poznan
+
+Department of Diagnostics, Poznan University of Medical Sciences
+
+A.L
+
+Ondemand
+
+0.2 × 0.2 mm
+
+6 × 6 cm
+
+OnDemand 3D Dental
+
+June 2023 - February 2024
+
+Europe
+
+Portugal
+
+Coimbra
+
+University Clinic
+
+P.J.P
+
+I-CAT (I-CAT, Hatfield, England)
+
+200 μm
+
+10 × 8 cm
+
+3D Slicer software 5.7.0
+
+2017–2022
+
+Asia
+
+Singapore
+
+Singapore
+
+National Dental Centre Singapore
+
+L.W.Y
+
+Kavo 3D Exam (Kavo Dental Gmbh, Biberach, Germany)
+
+0.2–0.4 mm
+
+5 × 8 cm
+
+OnDemand 3D Dental
+
+2017 onwards
+
+Asia
+
+Yemen
+
+Sana’a
+
+University clinic
+
+A.A.M
+
+Pax-I 3D Green
+
+170 μm
+
+12 × 9 cm
+
+3D Slicer 5.4.0
+
+2018–2022
+
+Europe
+
+Greece
+
+Athens
+
+Private dental imaging centre, Athens, Greece
+
+X.P
+
+Newtom™ Vgi CBCT İmaging Unit (QR Srl, Verona, Italy)
+
+300 μm
+
+15 × 15 cm
+
+NNT v. 3.10 (QR Srl)
+
+2011–2012
+
+Australia
+
+Australia
+
+Sydney
+
+Private Clinic
+
+M.R
+
+X800 Morita
+
+less than 0.125 mm
+
+8 × 8 cm
+
+iDixel version 2.4.0.2
+
+2021–2023
+
+Africa
+
+Egypt
+
+Cairo
+
+University clinic and private ones
+
+A.H
+
+Planmeca
+
+150 μm
+
+8 × 8 cm
+
+Planmeca Romexis Viewer 5.0
+
+2022–2023
+
+Africa
+
+Libya
+
+Benghazi
+
+Private Clinic
+
+S.A.
+
+Care stream CS 8100
+
+150 μm
+
+8 × 9 cm
+
+CS 3D Imaging Light
+
+2022–2023
+
+Europe
+
+Croatia
+
+Zagreb
+
+University clinic
+
+A.I
+
+Planmeca Promax 3 d
+
+100 μm
+
+Large
+
+Planmeca Romexis Viewer 5.0
+
+2021–2024
+
+North America
+
+United States
+
+Jackson, Mississippi
+
+Universityh of Mississippi Medical Center, Jackson, MS
+
+R.J
+
+Care Stream 9600
+
+75 μm
+
+16 × 10 cm
+
+InVivo Dental - Anatomage
+
+2022–2023
+
+Africa
+
+South Africa
+
+Pretoria
+
+University clinic
+
+G.D.B
+
+Planmeca Promax 3 d
+
+200 μm
+
+Large
+
+Planmeca Romexis Viewer 5.0
+
+2019–2023
+
+Asia
+
+Syria
+
+Damascus
+
+University clinic
+
+S.A
+
+Scanora™ 3D 2013 (Soredex)
+
+0.2 × 0.2 mm
+
+145 × 130 mm
+
+OnDemand3D
+
+2020–2022
+
+Asia
+
+Jordan
+
+Irbid
+
+Private CBCT centr
+
+N.T
+
+My Ray Hyperion X5
+
+150 μm
+
+6 × 10 cm
+
+CS 3D imaging v3.10.4
+
+June 2021-August 2023
+
+Asia
+
+Turkey
+
+Konya
+
+Necmettin Erbakan University
+
+G.M
+
+Morita 3D Accuitomo 170 (J Morita MFG Corp.)
+
+250 μm
+
+10 × 10 cm, 14 × 10 cm, 17 × 12 cm
+
+iDixel version 2.4.0.2
+
+2018–2023
+
+Evaluation of taurodontism
+
+Taurodontism was evaluated using parasagittal sections oriented parallel to the mesiodistal axis of the mandibular first premolar teeth. The long axis of each tooth was meticulously aligned with the vertical reference plane, and slices were generated accordingly for detailed examination. Each tooth was analyzed individually.
+
+The height of the pulp chamber was determined by measuring the linear distance between the most apical point of the roof and the most coronal point of the floor of the pulp chamber, referred to as the crown-body length. Additionally, the root length was calculated as the distance from the lowest point of the roof of the pulp chamber to the apex of the longest root.
+
+To classify the teeth, the ratio of the crown-body length to the root length was computed and expressed as a percentage. Based on Shifman and Chanannel’s classification criteria, teeth were categorized as follows: Hypotaurodontism: Ratio of 20–30%, Mesotaurodontism: Ratio of 30–40%, Hypertaurodontism: Ratio of 40–75%.
+
+All measurements were conducted following standardized protocols to maintain consistency, precision, and reproducibility across assessments. Some cross-sectional CBCT images illustrating taurodontism are presented in Fig..
+
+Fig. 1
+
+Representative CBCT images of mandibular first premolars showing various root and canal morphologies. () Serial axial and sagittal images from a single tooth with a C-shaped canal at different root levels. (-) Sagittal and coronal views of taurodontism types: () mesiotaurodontism, () hypotaurodontism, and () hypertaurodontism, with varying pulp chamber elongation and apical floor displacement. () Axial view with a distinct mesial root groove. () Axial view showing a buccal groove. Yellow arrows highlight the relevant anatomical variations.
+
+Evaluation of C-Shaped Canal anatomy
+
+The analysis of C-shaped canal anatomy was performed using axial CBCT sections at the coronal, middle, and apical levels. Identification of C-shaped configurations was based on the presence of a longitudinal buccal or lingual RG visible in at least one axial section. The canal configurations were classified according to Fan et al.’s system. This classification includes six types: C1 (a continuous ‘C’ shape without separation), C2 (a semicolon shape resulting from an incomplete ‘C’ outline), C3 (two separate canals with shapes that can be round, oval, or flat), C4 (a single canal categorized as round, oval, or flat), C5 (three or more distinct canals), and C6 (absence of a canal lumen, typically observed near the apex).
+
+The coronal region was evaluated 2 mm below the cementoenamel junction (CEJ), while the middle third assessment was conducted at the midpoint between the coronal and apical regions. For the apical region, the evaluation was carried out 2 mm above the radiographic apex. In taurodont teeth, the sectional analysis began at the pulp chamber floor to determine the presence and classification of any C-shaped configurations. All assessments adhered to standardized protocols to ensure consistent and reliable results. Some cross-sectional CBCT images illustrating C-Shaped Canals are presented in Fig..
+
+Evaluation of RGs
+
+Each tooth was individually analyzed to determine the presence, location, and depth of RGs. The grooves were identified and recorded based on their anatomical location as mesial, distal, buccal, or lingual. A RG was defined as having a V-shaped cross-section with a depth greater than 0.25 mm, while shallower depressions with rounded cross-sections were categorized as concavities rather than grooves. Radicular indentations with a depth of less than 0.25 mm were classified as non-grooves.
+
+The depth of each groove was measured using CBCT images. Grooves were further classified based on their depth into two categories: grooves exceeding one-third of the buccal-lingual or mesial-distal dimension of the tooth were defined as “deep grooves,” while those with lesser depths were classified as “shallow grooves”All measurements were conducted following standardized imaging and evaluation protocols to ensure accuracy and consistency across observations. Some cross-sectional CBCT images illustrating RGs are presented in Fig..
+
+Intra- and Inter-Observer reliability analyses
+
+Before commencing data collection, each of the 20 observers (one from each country) underwent a calibration process, during which they independently analyzed 30 randomly selected CBCT cases (corresponding to 60 mandibular first premolars). All observers applied the same standardized criteria and variables to identify and classify RGs, C-shaped canal anatomy, and taurodontism. This calibration phase ensured uniformity in assessment protocols and minimized variability among raters.Following the calibration, each observer independently evaluated the 30 CBCT cases. To reduce recall bias, the same assessments were repeated after a two-week interval under identical conditions. The intra-observer reliability for each participant was measured using Cohen’s kappa coefficient, which quantifies agreement beyond chance for categorical data. To account for differences in observer expertise and imaging quality, intra-observer reliability analyses were conducted separately for each country. If a significant discrepancy was observed between an observer’s initial and repeated evaluations, consensus discussions were held within the respective research teams to resolve inconsistencies and ensure data accuracy.
+
+In addition to evaluating individual observer consistency, the inter-observer reliability—the agreement between different observers—was also assessed. For this purpose, all 20 observers independently analyzed the same 30 CBCT cases, ensuring that each case was assessed by multiple raters. The inter-observer reliability was calculated using Fleiss’ kappa coefficient, which is specifically suited for assessing agreement among multiple raters in categorical classifications.
+
+Statistical analysis
+
+All statistical analyses were performed using Jamovi software (version 2.3.28; The Jamovi Project, Sydney, Australia) for descriptive statistics and RevMan 5.3 (The Nordic Cochrane Centre, The Cochrane Collaboration, Copenhagen, Denmark) for meta-analytic procedures. Categorical variables, including the prevalence of RGs, C-shaped canals, and taurodontism, were summarized using frequencies and percentages. Prevalence rates were calculated for the entire sample and further stratified by country, gender, and age groups.
+
+Differences in prevalence across countries and the overall pooled prevalence were analyzed using RevMan 5.3, with forest plots generated to visually represent the findings. The standard error of prevalence was calculated using the formula √(p(1-p)/n), where “p” denotes the observed prevalence and “n” the sample size. Statistical heterogeneity was evaluated using Higgins’ I² statistic, with thresholds of 25%, 50%, and 75% corresponding to low, moderate, and high heterogeneity, respectively. Depending on the degree of heterogeneity, either a random-effects model or a fixed-effect model was applied, with results presented alongside 95% confidence intervals (CIs). A p-value of less than 0.05 was considered statistically significant.
+
+To analyze the associations between categorical variables, Cramer’s V was employed as it provides a more robust measure of association strength, particularly in large sample sizes where chi-square tests alone often yield significant p-values. Cramer’s V values range from 0 (no association) to 1 (perfect association). Chi-square tests were used initially to identify significant differences, followed by Cramer’s V to quantify the strength of these associations.
+
+Sensitivity analyses were conducted by excluding countries identified as outliers that contributed to high heterogeneity, ensuring the robustness and reliability of the findings. These analyses helped refine the interpretation of the data and provided a clearer understanding of prevalence patterns and associations.
+
+Results
+
+The study included a total of 6,000 participants (12,000 bilateral teeth), distributed equally across 20 countries with 300 participants each. The demographic breakdown shows a predominance of female participants (55.2%) compared to males (44.8%). Age-wise, the highest proportion of participants fell within the 20–30 years age group (25.7%), followed by the 30–40 years group (22.6%). Approximately 17.1% of participants were aged between 40 and 50 years, while the 50–60 years category comprised 12.0% of the sample. A smaller proportion of participants belonged to the < 20 years (10.8%) and > 60 years (11.8%) age brackets (Supplemental File 1).
+
+The intra-observer reliability analysis demonstrated substantial to almost perfect agreement across all observers for the assessment of radicular grooves, C-shaped canal anatomy, and taurodontism. The Cohen’s kappa values for individual observers ranged from 0.60 to 0.87, with most values exceeding 0.70, indicating a high level of consistency in repeated evaluations within the same observer. Among the three assessed parameters, the highest intra-observer reliability was observed for C-shaped canal anatomy (ranging from 0.59 to 0.87), followed by radicular grooves (0.60–0.85) and taurodontism (0.61–0.82) (Supplemental File 2).
+
+Inter-observer reliability, evaluated using Fleiss’ kappa coefficient, yielded values of 0.76 for radicular grooves, 0.72 for taurodontism, and 0.78 for C-shaped canals. According to Cohen’s kappa interpretation guidelines, these results indicate substantial agreement among the 20 observers. The highest level of inter-observer agreement was achieved in the classification of C-shaped canals, suggesting a relatively lower degree of variability in this anatomical feature compared to taurodontism (Supplemental File 2).
+
+Figureillustrates the prevalence of C-shaped canals across different continents and countries, with a total prevalence rate of 0.10 (95% CI: 0.07, 0.12). Subgroup analyses by region revealed variations in prevalence rates. Africa showed a pooled prevalence of 0.05 (95% CI: 0.00, 0.10), with Libya demonstrating the highest prevalence within the region at 0.06, while Egypt exhibited the lowest. Asia displayed a substantially higher pooled prevalence of 0.19 (95% CI: 0.10, 0.27), with Yemen presenting the highest prevalence of 0.31 among the assessed Asian countries. In Australia, a single study estimated a prevalence of 0.12 (95% CI: 0.09, 0.14). Europe demonstrated a pooled prevalence of 0.03 (95% CI: 0.01, 0.05), while North America had a prevalence of 0.07 (95% CI: 0.05, 0.09). In South America, the prevalence was estimated at 0.09 (95% CI: −0.05, 0.23). Across all regions, high heterogeneity was observed (I= 98%), suggesting potential geographic, demographic, or methodological differences influencing C-shaped canal prevalence. The sensitivity analysis, depicted in the accompanying forest plot, highlights the robustness of the overall prevalence estimates of C-shaped canals after accounting for specific outlier countries or regions (12%) (Supplemental File 3).
+
+Fig. 2
+
+() Forest plot displaying the prevalence of C-shaped canals. () Global prevalence of C-shaped canals in mandibular first premolars, stratified by country. Countries are color-coded based on prevalence rates ranging from < 5% to > 30%. () Sensitivity analysis forest plot illustrating the impact of excluding outliers on the pooled prevalence of C-shaped canals.
+
+The forest plot for RG prevalence indicates substantial variability across regions, with a total pooled prevalence of 0.20 (95% CI: 0.14, 0.27) (Fig.). Africa demonstrated the highest overall prevalence, particularly highlighted by Egypt’s prevalence of 0.77. In contrast, Asia exhibited a more moderate pooled prevalence of 0.32, with notable variability among individual countries. Australia reported a prevalence of 0.22. In Europe, the pooled prevalence was 0.11 (95% CI: 0.06, 0.16), while North America showed a prevalence of 0.14. South America presented a prevalence of 0.13 (95% CI: 0.06, 0.21). Across all regions, the presence of significant heterogeneity (I= 99%) suggests potential influences of geographical, genetic, or methodological differences affecting the observed prevalence of RGs. The sensitivity analysis conducted for RG prevalence demonstrated consistent prevalence rates (20%) after excluding specific countries or regions that may have contributed to variability (Supplemental File 4).
+
+Fig. 3
+
+() Forest plot displaying the prevalence of radicular grooves. () Global prevalence of radicular grooves in mandibular first premolars, stratified by country. Countries are color-coded based on prevalence rates ranging from < 5% to > 30%. () Sensitivity analysis forest plot illustrating the impact of excluding outliers on the pooled prevalence of radicular grooves.
+
+The forest plot for taurodontism prevalence shows notable variability across different geographic regions, with a total pooled prevalence of 0.07 (95% CI: 0.05, 0.10) (Fig.). Africa presented a pooled prevalence of 0.04, with Libya showing the highest prevalence within this region at 0.12. In Asia, the pooled prevalence was lower at 0.02, with significant variability among countries, such as Singapore’s higher prevalence of 0.11. Australia reported a prevalence of 0.17 (95% CI: 0.14, 0.19). Europe had a pooled prevalence of 0.16, driven largely by Germany’s high rate of 0.78, suggesting unique regional differences. North America exhibited minimal prevalence, with a pooled rate near zero. South America’s pooled prevalence was estimated at 0.08 (95% CI: −0.03, 0.19). The observed high heterogeneity (I= 99%) across these regions indicates that geographical, genetic, and methodological factors may play critical roles in the prevalence of taurodontism. The sensitivity analysis revealed a significant change in the overall prevalence estimate for taurodontism, with the total prevalence dropping from 0.07 (95% CI: 0.05, 0.10) in the initial analysis to 0.02 (95% CI: 0.01, 0.03) after certain countries or regions were excluded (Supplemental File 5).
+
+Fig. 4
+
+() Forest plot displaying the prevalence of taurodontism. () Global prevalence of taurodontism in mandibular first premolars, stratified by country. Countries are color-coded based on prevalence rates ranging from < 5% to > 30%. () Sensitivity analysis forest plot illustrating the impact of excluding outliers on the pooled prevalence of rad taurodontism.
+
+C-shaped canal sub-classifications showed region-specific distributions. Class 3 was the most common (21.6%), mainly in the apical region (31.0%), followed by Class 4b (18.1%), primarily in the coronal region (30.8%). Class 1 accounted for 16.3%, with the highest prevalence in the coronal region (32.8%). Other classes, including Class 4a (13.8%) and Class 4c (12.8%), were more evenly distributed. Class 6 had the lowest prevalence (3.7%), predominantly in the apical region (9.9%) (Table).
+
+Table 2
+
+Distribution of C-Shaped Canal Sub-Classifications across different regions.
+
+Coronal (= 568)
+
+Middle (= 963)
+
+Apical (= 888)
+
+Total (= 2419)
+
+Class 1
+
+186.0 (32.8%)
+
+147.0 (15.3%)
+
+64.0 (7.2%)
+
+395.0 (16.3%)
+
+Class 2
+
+2.0 (0.4%)
+
+129.0 (13.4%)
+
+84.0 (9.5%)
+
+215.0 (8.9%)
+
+Class 3
+
+10.0 (1.8%)
+
+237.0 (24.6%)
+
+275.0 (31.0%)
+
+522.0 (21.6%)
+
+Class 4a
+
+123.0 (21.7%)
+
+101.0 (10.5%)
+
+110.0 (12.4%)
+
+334.0 (13.8%)
+
+Class 4b
+
+175.0 (30.8%)
+
+162.0 (16.8%)
+
+101.0 (11.4%)
+
+438.0 (18.1%)
+
+Class 4c
+
+72.0 (12.7%)
+
+118.0 (12.3%)
+
+120.0 (13.5%)
+
+310.0 (12.8%)
+
+Class 5
+
+0.0 (0.0%)
+
+67.0 (7.0%)
+
+46.0 (5.2%)
+
+113.0 (4.7%)
+
+Class 6
+
+0.0 (0.0%)
+
+2.0 (0.2%)
+
+88.0 (9.9%)
+
+90.0 (3.7%)
+
+Based on the correlation data presented, there are several noteworthy associations regarding mandibular first premolar anatomy (Fig.). There is a strong positive association between the presence of C-shaped canals and grooves (Cramer’s V = 0.611), indicating that these features frequently co-occur (Table). Additionally, C-shaped canals exhibit a positive correlation with taurodontism (Cramer’s V = 0.177) (Table) and are more common in younger age ranges (Cramer’s V = 0.080). However, their relationship with root bifurcation, number of roots, tooth location, and gender appears weaker. Grooves also show a positive correlation with taurodontism (Cramer’s V = 0.204) and a moderate association with having multiple roots (Cramer’s V = 0.196). They are more frequently observed in males than in females (Cramer’s V = 0.066) and have a positive correlation with root bifurcation (Cramer’s V = 0.201). Furthermore, grooves are more prevalent in younger and middle-aged groups compared to older individuals. For taurodontism, a modest positive correlation exists with the number of roots (Cramer’s V = 0.061) and root bifurcation (Cramer’s V = 0.056), while older age groups are more likely to exhibit this anatomical variation (Cramer’s V = 0.137). The number of roots demonstrates a strong positive correlation with root bifurcation (Cramer’s V = 0.780), suggesting that an increase in the number of roots is closely linked with bifurcation. However, its association with tooth location, gender, and other variables remains relatively weak.
+
+Fig. 5
+
+Network graph visualizing factorial correlations between mandibular first premolar anatomical features using Cramer’s V. The strength of associations is indicated by the color and thickness of the connecting lines: very strong (red), strong (green), moderate (yellow), weak (gray), and none (dashed gray). Key features include C-shaped canals, grooves, taurodontism, root bifurcation, number of roots, age range, gender, and tooth location.
+
+Table 3
+
+Relationship between C-Shaped Canal and taurodontism based on presence, location, and depth of grooves.
+
+C Canal
+
+Taurodontism
+
+Present
+
+None
+
+Present
+
+None
+
+Groove
+
+Present (= 2459)
+
+1138.0 (94.1%)
+
+1321.0 (12.2%)
+
+451.0 (49.0%)
+
+2008.0 (18.1%)
+
+None (= 9541)
+
+71.0 (5.9%)
+
+9470.0 (87.8%)
+
+469.0 (51.0%)
+
+9072.0 (81.9%)
+
+Cramer’s V
+
+0.611
+
+0.204
+
+Groove Location
+
+Mesial (= 1667)
+
+847.0 (74.4%)
+
+820.0 (62.1%)
+
+407.0 (90.2%)
+
+1260.0 (62.7%)
+
+Distal (= 519)
+
+93.0 (8.2%)
+
+426.0 (32.2%)
+
+8.0 (1.8%)
+
+511.0 (25.4%)
+
+Buccal (= 28)
+
+20.0 (1.8%)
+
+8.0 (0.6%)
+
+3.0 (0.7%)
+
+25.0 (1.2%)
+
+Lingual (= 245)
+
+178.0 (15.6%)
+
+67.0 (5.1%)
+
+33.0 (7.3%)
+
+212.0 (10.6%)
+
+Cramer’s V
+
+0.323
+
+0.154
+
+Groove Depth
+
+Shallow (= 1211)
+
+373.0 (32.8%)
+
+838.0 (63.4%)
+
+195.0 (43.2%)
+
+1016.0 (50.6%)
+
+Deep (= 1248)
+
+765.0 (67.2%)
+
+483.0 (36.6%)
+
+256.0 (56.8%)
+
+992.0 (49.4%)
+
+Cramer’s V
+
+0.306
+
+0.057
+
+Cramer’s V Strength: Very strong (> 0.25), Strong (> 0.15), Moderate (> 0.10), Weak (> 0.05), None (≤ 0.05).
+
+Table 4
+
+Correlation between C-Shaped Canal and taurodontism, including subtypes and distribution.
+
+C Canal
+
+None
+
+Groove
+
+None
+
+Present
+
+Present
+
+Taurodontism
+
+Present
+
+263.0 (21.8%)
+
+657.0 (6.1%)
+
+451.0 (18.3%)
+
+469.0 (4.9%)
+
+None
+
+946.0 (78.2%)
+
+10134.0 (93.9%)
+
+2008.0 (81.7%)
+
+9072.0 (95.1%)
+
+Cramer’s V
+
+0.177
+
+0.204
+
+Taurodontism Types
+
+Hypotaurodontism
+
+136.0 (51.7%)
+
+381.0 (58.0%)
+
+203.0 (45.0%)
+
+314.0 (67.0%)
+
+Hypertaurodontism
+
+36.0 (13.7%)
+
+58.0 (8.8%)
+
+69.0 (15.3%)
+
+25.0 (5.3%)
+
+Mesotaurodontism
+
+91.0 (34.6%)
+
+218.0 (33.2%)
+
+179.0 (39.7%)
+
+130.0 (27.7%)
+
+Cramer’s V
+
+0.079
+
+0.237
+
+Cramer’s V Strength: Very strong (> 0.25), Strong (> 0.15), Moderate (> 0.10), Weak (> 0.05), None (≤ 0.05).
+
+The bilateral occurrence rates for anatomical features in mandibular first premolars were notably high. Taurodontism had the highest rate at 98.33%, followed by root bifurcation (97.50%), C-shaped canals (96.38%), and grooves (91.67%). These results highlight the strong symmetry of these features, which is clinically relevant for diagnosis and treatment planning.
+
+Tablepresents the subgroup analysis based on voxel size and field of view (FOV) to evaluate their influence on the prevalence of radicular grooves, taurodontism, and C-shaped canals. While voxel size and FOV variations did not result in significant differences for most features, a statistically significant difference was observed for taurodontism (= 0.002), with a higher prevalence in scans with smaller voxel sizes (≤ 150 μm) (Supplemental File 6–11).
+
+Table 5
+
+Subgroup analysis of anatomical variations (Groove, taurodontism, and C-shaped Canal) based on voxel size and field of view (FOV).
+
+Outcome
+
+Subgroup
+
+Prevalence
+
+Heterogenity (I)
+
+Subgroup Difference
+
+Groove
+
+≤ 150 Voxel Size
+
+0.22 [0.12, 0.33]
+
+100%
+
+= 0.510
+
+Groove
+
+> 150 Voxel Size
+
+0.20 [0.14, 0.27]
+
+99%
+
+Taurodontism
+
+≤ 150 Voxel Size
+
+0.11 [0.06, 0.16]
+
+100%
+
+P =
+
+Taurodontism
+
+> 150 Voxel Size
+
+0.03 [0.01, 0.05]
+
+93%
+
+C Canal
+
+≤ 150 Voxel Size
+
+0.08 [0.06, 0.11]
+
+98%
+
+= 0.270
+
+C Canal
+
+> 150 Voxel Size
+
+0.12 [0.07, 0.17]
+
+99%
+
+Groove
+
+Large FOV
+
+0.17 [0.11, 0.23]
+
+98%
+
+= 0.290
+
+Groove
+
+Small FOV
+
+0.24 [0.12, 0.36]
+
+100%
+
+Taurodontism
+
+Large FOV
+
+0.09 [0.03, 0.14]
+
+100%
+
+= 0.390
+
+Taurodontism
+
+Small FOV
+
+0.06 [0.04, 0.09]
+
+97%
+
+C Canal
+
+Large FOV
+
+0.09 [0.06, 0.13]
+
+99%
+
+= 0.750
+
+C Canal
+
+Small FOV
+
+0.10 [0.06, 0.14]
+
+98%
+
+Discussion
+
+The study’s demographic profile provides a solid basis for understanding variations in the anatomy of mandibular first premolars across the population using a multicentre approach. The data was well-balanced, represented across gender and age groups ensuring diversity and inclusiveness. The higher incidence of younger adults may indicate that the studies selected by the authors mostly target populations with less alteration of dental anatomy associated with aging (e.g., attrition and resorption) that might affect the described prevalence of RGs, C-shaped canals, and taurodontism. Including older age groups further confirms that the outcomes are relevant over the lifespan, expediting a nuanced search of age-related anatomical differences. The wide diversity across contestants elevates the generalizability of the current study’s results, permitting meaningful comparisons over geographical and demographic variables.
+
+The outcomes of this study point out important geographic variations in the prevalence of C-shaped canals among mandibular 1 st premolars, with a global prevalence of 10%. Asia shows the highest pooled prevalence (19%), with Yemen reporting a particularly incresed rate of 31%. This lines up with findings from Wu, et al.and Almehrzi, which also shows elevated prevalence rates of C-shaped canals in Middle Eastern and East Asian populations, suggesting a potential ethnic or genetic predisposition. Contrarily, Europe exhibits the lowest pooled prevalence at 3%, consonant with studies such as those by Di Domenico, et al., and Martins, et al., which recognized lower prevalence rates in European populations. The most frequently recognized explanation for the formation of the C-shaped is the partial fusion of the Hertwig epithelial root sheath, while other theories have also been put forthIn addition, studies have suggested that a gene on mice’s chromosome 5 may be in responsible for the development of C-shaped rootsBy making processes like cleaning, shaping, and obturation more challenging, these anatomical intricacies can greatly complicate endodontic treatmentTo ensure successful treatment and post-endodontic restorations, dental practitioners must therefore possess a comprehensive understanding of the C-shaped canal morphology in mandibular first premolars.
+
+Africa and North America showed moderate prevalence rates of 5% and 7%, respectively, comparable to earlier research that highlighted regional variabilityThe prevalence observed in Australia (12%) and South America (9%) also supports findings from smaller, region-specific studies, which point to environmental and developmental factors impacting canal morphologyThe high heterogeneity observed across studies (I² = 98%) underscores the need for standardized methodologies and demographic adjustments to refine prevalence estimates. The sensitivity analysis confirmed the robustness of these findings, demonstrating that regional variations are consistent with existing literature and highlight the importance of tailored clinical strategies to accommodate the unique anatomical variations of each population. Racial differences could be the cause of these anomalies. Furthermore, other dynamic processes, including reproduction, gene flow within the population, mutation, and strategies for surviving in various environments, may have an impact on the genetic variants seen in each groupIt will be difficult to debride and disinfect the C-shaped canals during root canal therapy since it is roughly perpendicular to the oval or flat coronal canal. In order to avoid strip perforation during cleaning and shaping, clinicians should be aware of the thin dentine wall in the groove area.
+
+The results of this study reveal substantial regional variability in the prevalence of RGs in mandibular first premolars, with a pooled global prevalence of 20%. Africa displayed the highest prevalence, prominently driven by Egypt’s rate of 77%. This aligns with findings from Buchanan, et al., which reported a higher prevalence of anatomical anomalies in African populations. In contrast, Asia demonstrated a moderate pooled prevalence of 32%, consistent with previous studies, which highlighted regional variability within Asia. Europe exhibited a lower pooled prevalence of 11%, contrasting the findings by Büyükbayram, et al.that identified higher (89.8%) prevalence rates of RGs in mandibular first premolar among the European populations. North and South America reported similar prevalence rates of 14% and 13%, respectively, consistent with earlier research indicating moderate prevalence rates in these regionsAustralia’s prevalence of 22% aligns with smaller studies in similar populationsDespite significant regional variability, the high heterogeneity across studies (I² = 99%) underscores the potential influence of methodological differences and population characteristics on prevalence rates. Sensitivity analyses demonstrated consistent global prevalence estimates (20%) after excluding outliers, reinforcing the robustness of the findings. Research has shown that teeth with RGs are more likely to have advanced periodontal disease than teeth without grooves. This is likely because plaque builds up more easily in the area surrounding the grooveThe RG makes periodontal disease treatment and healing more complicated when there is a 50% loss of interproximal bone since it is difficult to reach its locationPeriodontal, endodontic, and restorative treatments are all made more difficult by the presence of the RGWhen diagnosing or treating patients, the dental practitioners should have a thorough understanding of the anatomic variances by closely examining the root alignment, root form, and apparent outline utilizing radiographs with additional analytical techniques such CBCT imaging.
+
+The findings of this study indicate a global pooled prevalence of taurodontism of 7%, with notable variability across geographic regions. Africa exhibited a low pooled prevalence of 4%, with Libya reporting the highest prevalence within the region at 12%. comparable prevalence rate observed in earlier research, although it is unclear which teeth were examinedAsia also demonstrated a low pooled prevalence of 2%, although specific countries like Singapore exhibited higher prevalence rates (11%). This variability is consistent with MacDonald-Jankowski, et al., which reported that localized population differences in dental morphology significantly influence taurodontism prevalence. Conversely, Australia and Europe showed higher prevalence rates at 17% and 16%, respectively, with Germany’s remarkably high rate of 78% driving Europe’s figures. The high prevalence in Germany highlights potential genetic or environmental factors specific to this region, as noted in earlier studies emphasizing population-specific variability in taurodontismIn North and South America, taurodontism prevalence was minimal to moderate, with pooled rates near zero and 8%, respectively. These findings mirror earlier studies by Gomes, et al., which noted lower prevalence in South American populations. The substantial heterogeneity across regions (I² = 99%) underscores the significant influence of geographical, genetic, and methodological differences on prevalence estimates. Sensitivity analyses revealed that the overall prevalence dropped to 2% when outlier regions, such as Germany, were excluded, demonstrating the disproportionate impact of regional extremes on global estimates. Taurodontism predominantly manifests as an isolated abnormality. However, it has been documented to manifest alongside many syndromes and anomaliesThe increased occurrence may be explained by the chromosomal basis of taurodontism, particularly the location of the X chromosome-based causative gene. The X chromosome has the gene that forms enamel, which lends greater support to this theory. Mutations or polymorphisms in genes involved in tooth formation may be contributing factors, although the exact genetic foundations are yet unclear. Perhaps a more in-depth analysis of the X chromosome’s genes could shed additional light on the process by which the abnormality formsThese findings emphasize the importance of considering regional and population-specific factors in the study of taurodontism, as such variability has critical implications for diagnosis, treatment planning, and educational initiatives in dental practice.
+
+The results of this study indicate significant geographical variation in the prevalence of radicular grooves, C-shaped canals, and taurodontism. Some regions, such as Africa and South America, exhibit unique patterns of prevalence that require further investigation. Africa had the highest prevalence of radicular grooves, with a staggering 77% in Egypt, far above other values. This finding is consistent with the study of Buchanan, et al., who noted a pattern of high frequencies of dental morphological variations among African populations, which may be due to genetic and evolutionary factors. There is, however, limited focused research on the prevalence of radicular grooves in Africa, and comparative analyses are therefore difficult. South America, however, had a relatively moderate prevalence rate of 13%, which is consistent with the study of Boschetti, et al., who claimed that South American populations exhibit a range of root canal morphologies, possibly due to mixed ancestry and environmental factors. These results underscore the need for further studies in these populations to better understand the genetic and developmental factors that influence the formation of radicular grooves.
+
+Of the C-shaped canals, the pooled prevalence in Africa was 5%, which was less than in Asia (19%) but comparable to that in earlier studiesThe comparatively lower prevalence in Africa is in accordance with the earlier findings of Wu, et al., which reported that the frequency of morphological C-shaped canals is more common among Asian populations because of perhaps genetic reasons. The prevalence in South America was 9%, nearly the same as in North America (7%) but less than that reported from Australia (12%). The moderate prevalence in South America concurs with findings of Marceliano-Alves, et al., which also reported the same trend in Brazilian populations. However, owing to the limited data on C-shaped canals in African and South American populations, more region-specific studies are needed to confirm these findings. Taurodontism also revealed the least prevalence in Africa (4%) and South America (8%), as reported in earlier studies, which reported this feature to be less common in these geographical locationsHowever, the notable heterogeneity reported (I² = 99%) offers the possibility of other determinants, methodological variability and sample fluctuation, producing these regional variations.
+
+The C-shaped canal’s sub-classification in this study shows distinct specific regional distributions, giving valuable awareness of the complexity of the canal morphology. The most common configuration (21.6%) is Class 3, with a markable concentration in the apical area (31.0%). This lines up with the results by Sierra-Cristancho, et al., points out the prevalence of complex canal systems in the apical 3rd of C-shaped canals, highlighting their clinical importance during root canal debridement followed by obturation. Likewise, Class 4b, the 2nd most common subtype (18.1%), was predominantly reported in the coronal region (30.8%). These results mirror earlier studies, such as those by Zhang, et al., which suggested that coronal and apical canal morphology variations are influenced by developmental and anatomical factors specific to C-shaped configurations. Classes 1, 4a, along 4c displayed moderate prevalence rates, with Class 1 being prevalent in the coronal region (32.8%). This finding aligns with studies that describe a higher prevalence of simple canal configurations in the coronal third, where the canal system begins to formThe lowest prevalence was observed in Class 6 (3.7%), predominantly in the apical region (9.9%), consistent with Rae, et al., which reported that advanced apical canal morphologies, such as Class 6, are rare but clinically challenging due to their intricate anatomy. The even distribution of less common subclasses such as 4a and 4c underscores the variability of C-shaped canals across root sections, reinforcing the importance of three-dimensional imaging for accurate diagnosis. These results contribute to a better understanding of C-shaped canals’ various presentations and highlight the requirement for customized treatment strategies depending on canal subclassifications.
+
+The high prevalence of Class 3 C-shaped canals, particularly in the apical region, carries significant clinical implications. The complex and variable morphology in this region poses challenges for effective debridement, shaping, and obturation, which can increase the risk of missed canals or procedural errors during root canal treatment. Clinicians may need to adopt specialized techniques such as enhanced irrigation protocols, the use of flexible rotary instruments, and advanced obturation methods (e.g., warm vertical compaction or bioceramic sealers) to address these complexities. Moreover, recognizing the regional distribution of these subclasses can aid in tailoring treatment approaches to the specific anatomical variations encountered in different populations. This understanding underscores the importance of three-dimensional imaging and individualized treatment planning for improved clinical outcomes.
+
+The correlation data highlight significant anatomical interrelationships in mandibular first premolars, providing deeper insights into their complex morphology. A strong positive association between C-shaped canals and grooves (Cramer’s V = 0.611) suggests these features frequently co-occur, consistent with findings by Brea, et al., which noted that RGs often accompany C-shaped canal systems due to shared developmental processes. The moderate correlation between C-shaped canals and taurodontism (Cramer’s V = 0.177) aligns with Aricioğlu, et al., who reported similar associations, possibly reflecting a developmental link in their etiology. Interestingly, C-shaped canals are more prevalent in younger age groups (Cramer’s V = 0.080), supporting the notion that age-related changes, such as root resorption or secondary dentin deposition, may obscure their morphology over time. Conversely, their weaker correlations with root bifurcation, number of roots, and gender suggest that these features arise independently of these variables.
+
+RGs also exhibit notable associations, particularly with taurodontism (Cramer’s V = 0.204) and multiple roots (Cramer’s V = 0.196). The higher prevalence of grooves in males and their correlation with root bifurcation (Cramer’s V = 0.201) corroborate previous studies, such as Arslan, et al., which highlighted the role of grooves in creating complex root anatomies. The increased prevalence of grooves in younger and middle-aged groups further emphasizes their developmental origins and potential age-related morphological changes. For taurodontism, the modest correlations with the number of roots (Cramer’s V = 0.061) and root bifurcation (Cramer’s V = 0.056) support earlier findings by Srivastava, et al.. The higher prevalence of taurodontism in older individuals (Cramer’s V = 0.137) indicates that this variation persists into later life, unlike other features that diminish with age. The strong correlation among the number of roots as well as root bifurcation (Cramer’s V = 0.780) highlights their inherent relationship, as bifurcation inherently elevates root count, a tendency consistently seen in multiple studies. These outcomes collectively strengthen the understanding of anatomical interdependencies, presenting valuable perception for clinical practice including diagnostics.
+
+The findings of this study highlight the high bilateral presence rates of anatomical features in mandibular 1 st premolars, along with taurodontism reporting the greatest symmetry (98.33%), observed closely by C-shaped canals (96.38%), grooves (91.67%), and root bifurcation (97.50%). These outcomes suggest a strong genetic and developmental basis for the symmetry of these characteristics, as bilateral event reflects consonant embryological processes. Similarly, trends were marked in studies by Jha, et al., and Cleghorn, et al.which point out high bilateral prevalence rates for canal and root anomalies in mandibular premolars, highlight their therapeutic and diagnostic relevance. The close-to-perfect symmetry of taurodontism lines up with previous research by Samji, and observed compatible bilateral uttering of taurodontic traits because of their genetic etiology. The high bilateral occurrence of C-shaped canals and root bifurcation further reinforces their expected anatomical patterns, allowing clinicians to expect the morphology of contralateral teeth at the time of diagnosis followed by treatment.
+
+The bilateral incident of grooves, though slightly decreased (91.67%), remains clinically significant. These outcomes align with earlier reports, like Thanaruengrong, et al., and observed consonant bilateral morphology in mandibular teeth with RGs, pointing out their symmetrical developmental pathways. Nevertheless, the slight depletion in symmetry in contrast to other characteristics may reflect functional or environmental factors affecting groove maintenance or formation. From a clinical outlook, the strong bilateral symmetry of these characteristics provides an important diagnostic tool, permitting practitioners to use outcomes from a single side of the jaw to plan treatment and predict the contralateral side. These findings also highlight the importance of comprehensive bilateral evaluation in treatment planning and imaging, as anatomical characteristics on one side can loyally inform supposition for the other, eventually improving patient results.
+
+The observed higher detection rate of taurodontism in CBCT scans with smaller voxel sizes (≤ 150 μm) may be attributed to improved spatial resolution, which enhances the ability to identify subtle apical displacement of the pulp chamber floor. Larger voxel sizes can lead to partial volume averaging, where fine anatomical details become blurred, potentially underestimating the prevalence of taurodontism. Additionally, higher-resolution scans reduce image noise and improve contrast differentiation, making it easier to classify taurodontic variations, particularly in mild cases. Improved visibility of anatomical landmarks in smaller voxel sizes may also reduce observer variability, leading to more consistent and accurate diagnoses. These findings highlight the importance of voxel size selection in CBCT-based studies of taurodontism and suggest that standardized imaging protocols could further optimize diagnostic accuracy.
+
+Clinical implications
+
+The findings of this study have direct clinical relevance, particularly in enhancing the diagnosis and management of mandibular first premolars with C-shaped canals, RGs, and taurodontism. The high bilateral symmetry of these features allows clinicians to anticipate contralateral morphology, aiding in early detection and treatment planning. Given that traditional 2D radiography often fails to capture complex root canal configurations, CBCT should be considered when encountering premolars with ambiguous root morphology. To ensure accurate diagnosis, a standardized CBCT evaluation protocol focusing on axial, coronal, and sagittal sections is recommended, particularly for identifying isthmuses, root concavities, and pulp chamber modifications in taurodont teeth.
+
+From a treatment perspective, these anatomical variations necessitate modifications in endodontic protocols. Access cavity preparation should be adapted for C-shaped canals to allow full exposure of the canal system, often requiring troughing techniques to improve visibility and instrument penetrationSimilarly, taurodont teeth, with their enlarged pulp chambers, demand precise planning to prevent excessive dentin removal. Cleaning and shaping strategies should incorporate flexible rotary or reciprocating file systems, supplemented by sonic or ultrasonic irrigation activation for improved debridementGiven the high perforation risk associated with RGs, clinicians should prioritize minimally invasive instrumentation techniques to preserve dentin integrity. For obturation, warm vertical compaction or bioceramic sealers are recommended to enhance adaptation to the irregular canal spaces commonly observed in C-shaped canals.
+
+In addition to treatment modifications, preventive strategies are crucial in cases involving RGs, as their structural complexity promotes plaque accumulation and periodontal attachment lossEarly identification and maintenance through biofilm control and periodontal management may help reduce long-term complications. Furthermore, the significant regional variability in the prevalence of these anatomical features highlights the need for population-specific clinical guidelines to optimize diagnosis and treatment approaches globally. Lastly, incorporating case-based training on CBCT interpretation, alternative obturation techniques, and complex canal configurations into dental education will better equip future clinicians to manage these challenging cases, ultimately improving clinical outcomes.
+
+Limitations
+
+Despite its comprehensive scope, this study has several limitations. First, the reliance on CBCT datasets from multiple centers may introduce variability in image quality, acquisition parameters, and interpretation, potentially affecting the consistency of evaluations. To mitigate this, we performed sensitivity analyses and subgroup analyses to assess the impact of voxel size and field of view (FOV) on the detection of anatomical variations. Second, while the study included participants from multiple geographic regions, the uniform sample size of 300 participants per country may not fully capture the heterogeneity within local populations, including differences in ethnicity, urban versus rural distribution, and genetic diversity. Third, our exclusion criteria, designed to ensure the accurate assessment of intrinsic anatomical variations, excluded individuals with systemic conditions, prior dental treatments, or significant pathologies. Although these exclusions minimized confounding factors, they may have introduced selection bias, limiting the generalizability of our findings. Lastly, while Cramer’s V was used to assess associations between anatomical features, we acknowledge that multivariate regression analyses were not performed, as they would require a fundamental shift in study design from a prevalence-focused meta-analytic approach to an individual-level risk factor analysis, which was beyond the scope of this study. Future research should consider stratified sampling methods, more inclusive selection criteria, and standardized imaging protocols, along with multivariate statistical models in individual-level datasets, to further investigate these relationships.
+
+Conclusion
+
+This study points out the significant prevalence and anatomical variations of RGs, taurodontism, and C-shaped canals in mandibular 1 st premolars, with notable demographic and regional differences. The findings underline the importance of comprehension of these features’ bilateral symmetry and morphological interrelationships to enhance diagnostic accuracy, treatment planning, along with clinical outcomes. Customized approaches depending on population-specific advanced imaging techniques and trends are essential for controlling these complex anatomical configurations successfully.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
