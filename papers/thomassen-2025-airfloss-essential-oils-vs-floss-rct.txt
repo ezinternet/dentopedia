@@ -1,0 +1,122 @@
+Source: PubMed Central (PMC12748044) — retrieved via PubMed MCP get_full_text_article
+PMID: 41387303 | PMCID: PMC12748044 | DOI: 10.1111/idh.70010
+Title: Efficacy and Safety of AirFloss Ultra With Essential Oils Versus Waxed Dental Floss as Adjunct to Toothbrushing: A Randomised Controlled Clinical Trial
+Authors: Thomassen TMJA, Slot DE, Elkerbout TA, van der Sluijs E, Van der Weijden GA (ACTA, Amsterdam)
+Journal: Int J Dent Hyg. 2026;24. Published 2025-12-12.
+
+According to PubMed. DOI: https://doi.org/10.1111/idh.70010
+
+==================================================================
+FULL TEXT (verbatim, as returned by PMC)
+==================================================================
+
+1
+
+Introduction
+
+Periodontal diseases manifest across a spectrum of severity, from mild gingival inflammation to profound disability. The two main types of periodontal disease are plaque-induced gingivitis and periodontitis. The pathological changes associated with these diseases can impair masticatory and phonetic functions, leading to compromised aesthetics and social interactions. Gingivitis comprises an inflammatory lesion arising from the interactions between dental plaque, or biofilm, and the host's immune-inflammatory response. The condition's reversible nature is contingent upon the reduction of dental plaque levels, both supra-gingivally and sub-gingivally. Gingivitis is a major risk factor and foundational precursor to periodontitis. Consequently, the effective management of gingivitis is the primary preventive measure against the development of periodontitis. Several methods are available for mechanically removing dental plaque from teeth, with toothbrush use widely regarded as the most effective.
+
+While a toothbrush effectively removes plaque from buccal, lingual, and occlusal surfaces, it does not thoroughly clean the interdental area if exposed to biofilm growth on such surfaces. Several factors influence the selection of an appropriate interdental cleaning aid, including ease of use, interdental space size, acceptability, dexterity, and motivation. While there is no one-size-fits-all solution, a desirable interdental cleaning device should be user-friendly and efficient in plaque removal and should not harm soft or hard tissues.
+
+Dental floss is the most commonly used interdental cleaning device for removing plaque between teeth. However, the product has disadvantages for some patients, including those with open interdental embrasure spaces, those who lack motivation, and those with limited manual dexterity. Because dental floss is technique-sensitive, it often requires detailed demonstration by clinicians to be effective. Based on the synthesis of systematic reviews, a meta-review on the efficacy of interdental mechanical plaque control in managing gingivitis concluded that the majority of existing studies did not provide substantial evidence supporting the general effectiveness of flossing in plaque removal. This finding corroborates an earlier systematic review suggesting that dental care professionals should individually assess each patient's ability to floss effectively.
+
+Oral irrigation for home use has been extensively studied in laboratory and clinical settings since the early 1960s. Among oral care devices, oral irrigators (OIs) are some of the most widely researched. In general, OIs are designed to remove plaque and soft debris through the mechanical action of a jet stream of water. OIs have diverse designs, features, and functionalities. Some models have multiple pressure settings, specialised tips, and built-in timers. These devices may use a continuous water stream or incorporate pulsating technology to enhance their cleaning effectiveness. A more novel type of OI, the Philips Sonicare AirFloss Ultra (AF) from Royal Philips N.V., delivers quick bursts of air and microdroplets that reach between teeth and remove interproximal plaque biofilm. De Jager et al. evaluated the adjunctive effect to toothbrushing in adults with moderate gingivitis during a single-blind, four-week, parallel, randomised controlled clinical trial. They concluded that the novel interproximal cleaning device was safe to use, removed more interproximal plaque in single-use, and significantly reduced gingivitis over 4 weeks, than manual toothbrushing alone. The device also increased oral care compliance since 96% of irregular flossers reported using the AF device four or more days per week. Another potential advantage of the AF device is that due to its efficient use of liquid, it can cost-effectively be used with fluids other than water, such as a mouth rinse containing antimicrobial properties.
+
+Mouthrinses have been used for centuries for medicinal and cosmetic purposes. The efficacy of their chemical ingredients has been extensively researched through scientific studies and clinical trials. Essential-oils mouthwash (EOMW) has the longest history of use, originating in the 19th century. These mouthrinses have been specifically used as a preventive measure against dental and periodontal diseases. A systematic review established EOMW's anti-gingivitis effect when used as an adjunct to unsupervised oral hygiene rather than a placebo or control. It appears that EOMW provides a significant oral health benefit over 6 months of use.
+
+The AF has primarily been tested using water in its reservoir. Combining the microburst technology with an active chemical agent deserves further evaluation. Therefore, this study compares the efficacy of an EOMW used in the AF device (AFeo) compared to waxed dental floss (DF) as an adjunct to regular manual toothbrushing and their impact on gingival bleeding, dental plaque, and gingival abrasion. Additionally, soft and hard tissue safety assessments were evaluated.
+
+2 Materials and Methods
+
+Followed CONSORT and TIDieR. Observed Good Clinical Practice (CPMP/ICH/135/95), Declaration of Helsinki (2013), WMO. Approved by medical ethical committee at Amsterdam Medical Centre (2014_374#8201545); registered WHO ICTRP [NL-OMON29183]. Conducted 2015 at Department of Periodontology, Academic Centre for Dentistry of Amsterdam (ACTA), the Netherlands. Recruitment/screening/familiarisation/experimental/treatment phases took 2.5 months.
+
+2.1 Objectives
+Primary: assess efficacy of AirFloss Ultra with essential oil mouthwash vs waxed dental floss, as adjunctive therapies to manual toothbrushing in a healing of experimental gingivitis model over a four-week treatment period, assessed by the Bleeding On Marginal Probing (BOMP) index on the lower jaw.
+Secondary: compare AFeo vs DF in reduction of surface plaque (Van der Weijden modification of Silness and Löe Plaque Index); compare number of gingival abrasions (Gingival Abrasion Score, GAS); describe participants' perceptions of the two interdental devices.
+
+2.2 Products
+Investigational — AFeo: Philips Sonicare AirFloss Ultra + Listerine Cool Mint mouth rinse (Johnson & Johnson). DF: Waxed dental floss, Johnson & Johnson, Type Ultraclean.
+Non-investigational — Manual toothbrush Lactona iQ Soft; regular fluoride toothpaste HEMA.
+
+2.3 Study Design
+Parallel, single-blind (examiner), randomly assigned intervention design evaluating healing of experimentally induced gingivitis. Model introduced by Van der Weijden et al.
+
+2.4 Sample Size
+Designed to detect a difference of 0.16 in BOMP between the two groups. Assuming common SD of 0.25, sample size of 39 per arm provides 80% power at type I error 5%.
+
+2.5 Randomization, Blinding, Treatment Allocation
+True random numbers from atmospheric noise. No stratification. Allocation concealment via opaque tamper-proof sequentially numbered envelope (SNOSE), opened only after enrollment. Randomization code kept by primary investigator, not accessible to examiners. Subjects instructed not to reveal group assignment to clinical examiner.
+
+2.6 Study Procedures
+Recruitment — universities in/around Amsterdam.
+Screening — systemically healthy via medical questionnaire; two dental hygienists screened for ≥25% BOMP in lower jaw and Dutch Periodontal Screening Index (DPSI) 0 to 3-minus → classified 'gingivitis' (2017 EFP/AAP). Dental floss had to fit interdentally in ≥3 interdental spaces per quadrant in lower jaw (excl central incisor space), of these ≥2 in molar areas. Excluded: overt caries, orthodontic appliances, removable dentures, oral/peri-oral piercings, apparent oral lesions, pregnant, participation in clinical trial in prior 30 days.
+Familiarisation (Visit 1) — BOMP assessed; professional instruction + supervised use of study products in area separated from examiners (blinding). Calendar to record daily use (compliance).
+Experimental Gingivitis (Visit 2, Day 0) — devices/calendars collected; BOMP, plaque, GAS scored lower jaw; professional prophylaxis lower jaw (plaque/stain/calculus free). Subjects refrained from brushing the lower jaw for 21 days; brushed only upper jaw. After 21 days → treatment phase.
+Treatment (Visits 3–6, Weeks 1–4) — BOMP, plaque, GAS assessed lower jaw; subjects used assigned interdental device. Visit 6 added questionnaire of attitudes toward study products.
+
+2.7 Outcome Variables
+Gingival inflammation — BOMP: 6 areas/tooth after probing, 0=no bleeding, 1=pin prick, 2=excess; WHO ball-ended probe (Ash Probe EN15). Average per subject.
+Surface plaque — Van der Weijden modification of Silness and Löe Plaque Index (MPI): 6 surfaces/tooth, 0–3 by plaque thickness. Average per subject.
+Gingival abrasion — GAS: three gingival areas (interdental, cervical, midgingival) assessed for abrasions; lesions grouped by largest width. Non-evaluable if teeth missing or approximal restorations present.
+Reduction and % reduction in BOMP, plaque, GAS computed per site (follow-up subtracted from baseline, averaged, % = reduction/baseline ×100).
+No specific toothbrushing instructions; participants continued habitual methods.
+
+2.8 Safety — clinical adverse events recorded at report time and each visit.
+2.9 Statistical Analysis — primary BOMP, secondary plaque & GAS, all lower jaw. Mean ± SD at baseline, intermediate, end; 95% CIs; incremental changes from baseline. Parametric & non-parametric. Significance p<0.05. Boxplots. SAS software.
+
+3 Results
+
+3.1 Participants
+104 screened, 19 excluded by eligibility. 2 enrolled but not randomised; 1 did not finish protocol. 82 completed and analysed — 47 females (57%), 35 males (43%), mean age 22.9 (SD 3.3) years. No baseline differences between groups for BOMP, MPI, GAS.
+
+TABLE 1 — Baseline demographics
+Parameter | Total (n=82) | AFeo (n=41) | DF (n=41) | p
+Age (years): 22.9 (3.3) | 22.6 (2.7) | 23.2 (3.8) | 0.391
+Female: 47 (57.3%) | 24 (58.5%) | 23 (56.1%) | 0.823
+Male: 35 (42.7%) | 17 (41.5%) | 18 (43.9%)
+# missing teeth: 0.3 (0.9) | 0.4 (1.1) | 0.2 (0.8) | 0.485
+BOMP: 1.58 (0.27) | 1.55 (0.31) | 1.62 (0.24) | 0.271
+MPI: 1.99 (0.08) | 1.99 (0.09) | 1.98 (0.07) | 0.939
+GAS: 5.95 (4.01) | 6.44 (3.78) | 5.46 (4.21) | 0.273
+
+3.2 Primary Outcome (BOMP)
+Mean reduction in BOMP from baseline at Week 4: AFeo 0.60 (SD 0.32); DF 0.70 (SD 0.32). Statistically significant difference between baseline and Week 4 for BOTH groups (p<0.01). NO statistically significant differences between groups at any time point.
+TABLE 2 — BOMP Mean (SD)
+AFeo: Day0 1.55(0.26) | Wk1 1.14(0.26) | Wk2 0.99(0.32) | Wk4 0.95(0.32) | Δ(Day0–Wk4) 0.60(0.32), p<0.01
+DF:   Day0 1.62(0.26) | Wk1 1.08(0.26) | Wk2 1.00(0.32) | Wk4 0.92(0.32) | Δ 0.70(0.32), p<0.01
+Between-group p: Day0 0.27 | Wk1 0.37 | Wk2 0.87 | Wk4 0.72 | Δ 0.17
+Boxplots: IQR boxes overlapped across all visits; no difference in outlier pattern/number.
+
+3.3 Secondary Outcomes (MPI, GAS)
+Statistically significant difference baseline→Wk4 for both modalities. NO statistically significant differences in MPI and GAS between AFeo and DF at any time point.
+TABLE 3 — MPI Mean (SD)
+AFeo: Day0 1.99(0.06) | Wk1 1.08(0.51) | Wk2 1.03(0.51) | Wk4 0.95(0.45) | Δ 1.04(0.07), p<0.01
+DF:   Day0 1.98(0.06) | Wk1 1.22(0.51) | Wk2 1.18(0.51) | Wk4 1.08(0.45) | Δ 0.90(0.07), p<0.01
+Between-group p: Day0 0.94 | Wk1 0.20 | Wk2 0.19 | Wk4 0.26 | Δ 0.19
+GAS Mean (SD)
+AFeo: Day0 6.44(3.97) | Wk1 13.49(5.63) | Wk2 15.59(6.78) | Wk4 19.33(7.42) | Δ 12.89(0.92), p<0.01
+DF:   Day0 5.46(3.97) | Wk1 13.00(5.63) | Wk2 15.32(6.78) | Wk4 19.75(7.42) | Δ 14.29(0.92), p<0.01
+Between-group p: Day0 0.273 | Wk1 0.700 | Wk2 0.858 | Wk4 0.800 | Δ 0.49
+Appreciation score: AFeo 6.06 (SD 2.09), DF 5.62 (SD 2.21); independent samples t-test t(78)=0.91, p=0.365 (NS).
+
+3.4 Adverse Events
+Six study-related adverse events following dental floss use: gum irritation, soreness, gingival lesions, pain, redness and swelling in lower buccal gingiva. NO serious adverse events.
+
+4 Discussion (key points)
+4.1 Primary BOMP no significant difference AFeo vs DF at any point; both gradual reduction. MPI and GAS no significant differences. Mwatha et al. found AFeo and AF+BreathRx comparable to DF and safe — corroborates. Impact of adding EOMW to reservoir uncertain; AF with vs without essential oils warranted.
+4.2 Experimental gingivitis model (Löe et al.); modified 21-day refrain before treatment (Van der Weijden) — first use to evaluate AFeo. Partial-mouth (lower jaw only) per Putt et al. comparable to whole-mouth.
+4.3 vs Dental Floss — Berchier et al. SR/MA: DF no benefit beyond toothbrushing for plaque/gingivitis. Sambunjak Cochrane SR: weak evidence DF reduces gingivitis. DF reduces interproximal caries only when professionally performed; self-flossing no effect. Barendregt 21-day experimental gingivitis: DF alone ~50% reduction in gingivitis development in well-instructed population. Left to clinician per individual patient.
+4.4 Working Mechanism — fluid shear stress; AF shoots microdrop water + entrained air at high velocity in discrete bursts → high wall shear stress, minimal water. Kotsakis NMA: power water flossers second most effective adjunct after interdental brushes.
+4.5 Value-based oral health care — AF cost significantly higher than DF, especially with essential oils; no significant efficacy difference → AFeo offers limited additional value vs DF financially. No difference in appreciation. Beneficial for low motivation/dexterity.
+4.6 Bacterial colonisation — AF nozzle/device colonisation after 3 weeks daily use (Bertl); antimicrobial rinse/cleaning did not disinfect; recommend one device per person.
+4.7 Limitations — participants not blinded to device (Hawthorne effect, AF users possibly more motivated); no manual dexterity assessment; floss needle use atypical; AFeo combined mechanical+antiseptic vs DF mechanical only; product may be replaced by newer models (mode of action unchanged).
+
+5 Conclusion
+No significant difference in adjunctive efficacy of AirFloss Ultra with essential oil solution vs waxed dental floss for gingival bleeding, dental plaque, and gingival abrasion in the reversal of experimental gingivitis model. Both products safe.
+
+6 Clinical Relevance
+Rationale: effective interdental cleaning prevents gingivitis/caries; DF limited by compliance/effectiveness.
+Principal findings: as adjuncts to MTB, AFeo and DF improve gingival health after 3 weeks with no significant differences for BOMP, plaque, GAS.
+Practical implications: AFeo a viable alternative to floss, particularly for limited manual dexterity or low motivation for flossing.
+
+Funding: ACTA Research B.V. received financial support from Royal Philips N.V. Philips provided study products and statistical assistance. Authors declare no conflicts of interest (Van der Weijden owner of Jardin B.V.).
