@@ -626,6 +626,7 @@ tags: []
 - [[endodontics/diagnosis/godoi-2025-lps-lta-clinical-features-secondary-endodontic]] — Godoi 2025 · cross-sectional · 재치료 40치: 전 근관서 LPS(5.1 EU/mL)·LTA(537.5 pg/mL) 검출; LPS↑가 큰 치근단 투과상·임상증상·결함 수복과 상관 (DOI 10.1111/aej.12963)
 
 ## 치주치료 (Periodontics)
+- [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] — **Overview** (Synthesis 2026-06-19, 7편): 와타나베 이쑤시개법(TPM) 종합 — 이중기전(인접면 플라그 제거 + 치은 치유자극 ~2.5배), 원전 Morita 1998(TPM>Bass)부터 당뇨 치주염·임플란트 점막염 확장까지; 기법 비교근거는 약함(Rajwani SR), 임플란트선 기계적 단독 부족→항균제 병용, 입증효과는 전문가 시술 기준; *목재* 이쑤시개(El Haddad 2026, 치간유두 소실)와는 반대방향·명명 주의
 - [[periodontics/morita-1998-toothpick-method-bass-supragingival-plaque-rct]] — Morita 1998 · rct (split-mouth, n=20 치대생, 변형 Quigley-Hein 6부위/치아, 맹검검사자) — **와타나베 이쑤시개법(Toothpick method)의 원전 RCT** (저자 T. Watanabe = 술식 명명자): 전문가 칫솔질(Exp.I) + 자가칫솔질(Exp.II)에서 toothpick법이 Bass법보다 **인접면** 치면세균막을 유의하게 더 제거; Rajwani 2020 SR이 인용한 유일 직접비교 (DOI 10.1111/j.1600-051x.1998.tb02377.x)
 - [[periodontics/ishikawa-1995-toothpick-method-instruction-frequency-community-perio]] — Ishikawa 1995 · prospective (지역사회 비교중재, 1년 추적) · 와타나베 이쑤시개법 칫솔질 **지도 빈도** 비교(3회 n=31 vs 1회 n=40): 반복 지도군만 치은 발적·종창 유의 감소·CPITN 개선율↑, 1회군은 1년 후 치은염증 무변화; BOP는 양군 감소 — 반복>단일 (※일본어·영문초록만·250단어 절단) (PMID 8534877)
 - [[periodontics/mun-2013-toothpick-method-dental-hygiene-mental-disorders-rct]] — Mun 2013 · rct (abstract-only, n=73 정신질환자, 3군, 12주) — 10분 영상+브로셔+토스픽법 묶은 다요소 구강위생 프로그램(위생사 5인)이 매 세션 후 치면세균막지수 유의 감소(P<0.0001)·군간차 P=0.036·구강건조감↓; 자극타액·우식활성도 무변화. 토스픽법은 한 요소라 단독효과 분리 불가 (DOI 10.1111/idh.12053)
