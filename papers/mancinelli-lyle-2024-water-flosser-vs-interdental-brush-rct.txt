@@ -1,0 +1,67 @@
+Efficacy of a water flosser compared to an interdental brush on gingival bleeding and gingival abrasion: A 4 week randomized controlled trial
+Mancinelli-Lyle D, Van der Weijden FGA, Slot DE
+Int J Dent Hyg. 2026;23(1):176-185. DOI: 10.1111/idh.12817 | PMID: 38997790 | PMCID: PMC11717974
+
+ABSTRACT
+Aim: To determine the efficacy of a water flosser (WF) compared to an interdental brush (IDB) in reducing gingival inflammation. Additionally, the products were compared on the incidence of gingival abrasion.
+Methods: Young adults with moderate gingivitis and >=4 accessible interdental spaces by IDB in each quadrant were selected for this study. Participants were randomly assigned a WF or an IDB as an adjunct to manual toothbrushing. Clinical signs of inflammation were measured in two randomly assigned contralateral quadrants by bleeding on pocket probing (BOPP) or bleeding on marginal probing (BOMP). Gingival Abrasion Score (GAS) was assessed per quadrant. Data was recorded at the baseline, 2 weeks and 4 weeks.
+Results: Both groups WF (n=40) and IDB (n=38) showed a significant reduction (p=0.000) in BOMP and BOPP from the baseline to 4 weeks for all sites and the interdental sites only. At 4 weeks the WF group compared to the IDB group showed significantly lower BOPP (p=0.030) and BOMP scores (p=0.003) for all sites. For the interdental sites WF showed compared to IDB for BOMP significant (p=0.019) lower values but not for BOPP (p=0.219). There were no differences between the groups for GAS at any time point.
+Conclusion: In patients with moderate gingivitis, after 4 weeks use the WF is more effective than the IDB in obtaining marginal gingival health.
+
+1 INTRODUCTION
+Daily oral hygiene is important for the preservation of oral health. Toothbrushing and interdental cleaning are the mainstays for adequate plaque control every 24 h to prevent gingival inflammation. Toothbrushing alone cannot reach interdental and subgingival regions. A meta-review concluded that interdental cleaning with an interdental brush (IDB) is the most effective method for reducing interdental plaque (moderate level of evidence), and that there is a weak level of evidence for adjuvant use of the water flosser (WF) for gingivitis scores. A more recent SR reported low certainty that floss or IDBs plus toothbrushing may reduce gingivitis/plaque better than toothbrushing alone, and IDBs may be more effective than floss (effect size possibly clinically insignificant). A Bayesian Network Meta-Analysis showed that, except for toothpicks, all interdental aids were more effective than control; IDBs and WF ranked high for reduction of gingival bleeding. In a recent multi-outcome secondary analysis, WF and IDB remained the 2 best interdental cleaning devices. Only two small pilot studies provide direct WF vs IDB comparison (single-use and 2-week). This 4-week trial assesses WF vs IDB on bleeding and abrasion scores in systemically healthy gingivitis participants.
+
+2 MATERIALS AND METHODS
+CONSORT and TIDieR followed. Approved by Medical Ethics Committee of the Academic Medical Centre Amsterdam (NL58265.018.16 METC 2016_175), registered Dutch Trial Register (NTR6081). Conducted Oct-Dec 2016 at Department of Periodontology, Academic Centre for Dentistry Amsterdam (ACTA).
+Study design: single-blind, single-centre, parallel, 4-week clinical trial. No stratification. Examiners blinded to randomizations. Randomization code in sealed envelope.
+Study population: Systemically healthy, non-smoking, 18-65 years, right-handed brushers, no medications except birth control, not pregnant/breastfeeding. Excluded: orthodontic banding (except lingual retention wire), crowns, bridges, implant restorations, removable partial denture or night guard, overt caries, piercings, oral lesions. Inclusion: minimum 20 natural teeth with 5 evaluable per quadrant, moderate-severe gingivitis (>=50% BOPP), no pockets deeper than 5 mm. Buccal accessible interdental spaces to insert IDB: had to fit between at least 4 spaces per quadrant, 2 of 4 involving molar area. Brush with manual toothbrush, 2-3 h before measurements. Refrain from antiseptic mouthwash, other interdental devices, excessive gum.
+Study products: All received standard manual toothbrush (IQ Lactona, flat trim soft) and standard fluoride toothpaste (HEMA, sodium fluoride). Bass toothbrushing technique, twice daily.
+WF group (test): Waterpik Water Flosser (Water Pik, Inc., Fort Collins, CO, USA), power-driven device with reservoir, pressure control, pulsating stream. Reservoir 500 mL lukewarm water, Classic Tip, used once a day. Tip directed at 90 degrees to long axis at gingival margin, pausing at interproximal sites buccal and lingual. Pressure dial set to 8 throughout.
+IDB group (control): Conical brushes with handle (Interprox premium nano, Dentaid, Barcelona; brush diameter 1.9 mm, core diameter 0.38 mm), cleans interproximal spaces from 1.0 mm. Inserted full bristle length, 5 strokes in and out with light pressure, from buccal aspect, only spaces accommodating brush size. Used once a day.
+Outcome parameters:
+BOPP/BOMP: Plastic force-controlled probe (0.25 N, Click-Probe, KerrHawe) for BOPP at six sites per tooth (examiner EvdS). WHO ball-ended probe (Ash Probe EN15, Dentsply) for BOMP, inserted ~2 mm, run gently along marginal gingiva at ~60 degrees in contact with sulcular epithelium (examiner SS), six gingival areas. Bleeding recorded within 30 s of probing. BOPP and BOMP assessed on two contralateral randomly assigned quadrants.
+Gingival abrasion score (GAS): Undiluted plaque staining solution (Mira-2-Ton) painted on gingival tissue; participant rinsed, tissue dried; abrasions recorded by size and location (examiner PAV).
+Study procedure: Screening, then 3 visits same time/day. Data at baseline, 2 weeks (W2), 4 weeks (W4). Followed ADA seal of acceptance guidelines for powered interdental cleaners/WFs and interdental cleaners.
+Power calculation: 68 participants (34/group) for 80% power to detect between-group difference of 0.11 (SD 0.16) for mean BOPP at 0.05 (2-sided); increased 15% for drop-outs.
+Statistical analyses: SPSS 23, blinded to product assignment. Parametric/non-parametric as appropriate. p<0.05 significant.
+
+3 RESULTS
+156 screened, 74 excluded, 82 enrolled, 78 completed. 3 dropped before visit 1 (scheduling), 1 between visit 1-2 (unrelated to product).
+Demographics: WF n=40 (mean age 22.75, SD 3.09; 10 M/30 F); IDB n=38 (mean age 23.32, SD 2.51; 12 M/26 F); Overall n=78. Age p=0.33 (Wilcoxon), gender p=0.62 (Fisher).
+
+3.1 Gingival bleeding
+3.1.1 Bleeding on marginal probing (BOMP)
+Both groups significant improvement from baseline for all sites and interdental sites at W2 and W4. WF significantly more effective than IDB for all sites at W2 (p=0.002) and W4 (p=0.003), mean difference 0.21. For interdental sites, WF more effective than IDB at W2 (p=0.003) and W4 (p=0.019), difference 0.18.
+BOMP table (Mean (SD)):
+All sites: WF baseline 0.82(0.29), W2 0.57(0.29), W4 0.54(0.27). IDB baseline 0.95(0.33), W2 0.81(0.37), W4 0.75(0.33). Between groups: baseline p=0.082, W2 p=0.002, W4 p=0.003.
+Interdental sites: WF baseline 0.80(0.34), W2 0.53(0.29), W4 0.52(0.29). IDB baseline 0.92(0.35), W2 0.77(0.38), W4 0.70(0.35). Between groups: baseline p=0.130, W2 p=0.003, W4 p=0.019.
+
+3.1.2 Bleeding on pocket probing (BOPP)
+Both groups significant improvement from baseline for all sites and interdental sites at W2 and W4. At 4 weeks WF significantly more effective for all sites than IDB (p=0.030); however baseline also showed significant difference for all sites (p=0.030, difference 0.06 comparable to W4). Sub-analysis of interdental sites showed no difference between groups.
+BOPP table (Mean (SD)):
+All sites: WF baseline 0.60(0.10), W2 0.54(0.13), W4 0.50(0.11). IDB baseline 0.66(0.13), W2 0.58(0.13), W4 0.56(0.12). Between groups: baseline p=0.030, W2 p=0.206, W4 p=0.030.
+Interdental sites: WF baseline 0.66(0.10), W2 0.60(0.13), W4 0.56(0.12). IDB baseline 0.71(0.14), W2 0.60(0.15), W4 0.60(0.14). Between groups: baseline p=0.054, W2 p=0.919, W4 p=0.219.
+
+3.2 Gingival abrasion (GAS)
+No differences in overall gingival abrasion scores between groups at any time point. Same for small lesions or interdental sites.
+GAS table (number of sites, Mean (SD)):
+All sites: WF baseline 16.70(11.69), W2 21.00(17.80), W4 19.90(11.07). IDB baseline 12.76(9.39), W2 16.63(10.20), W4 17.18(9.79). p=0.106, 0.191, 0.256.
+Small lesions: WF 14.13(10.10), 17.30(15.49), 17.35(9.66). IDB 10.87(7.92), 14.03(8.84), 14.87(8.35). p=0.118, 0.259, 0.230.
+Interdental area: WF 0.65(0.83), 1.23(1.377), 2.85(2.14). IDB 0.58(0.95), 1.39(1.37), 3.34(2.58). p=0.726, 0.585, 0.362.
+
+3.3 Adverse events/safety
+Six adverse events. One participant with localized interdental inflammation and gingival sensitivity considered related to IDB use; resolved, continued. Other five mild, not attributed to products.
+
+4 DISCUSSION
+RCT based on ADA protocol for power/manual interdental devices to reduce gingivitis. Both devices showed significant reduction in gingival bleeding; significant difference in favour of WF for gingival inflammation; no difference in gingival abrasion. BOPP is a meaningful indicator of periodontal inflammation; lack of bleeding indicates periodontal stability. BOMP measures early inflammation at gingival margin. BOMP and BOPP are not interchangeable; BOMP scores were higher than BOPP at baseline and most follow-ups. RCTs show WF superior to dental floss; a pilot RCT reported superior WF gingival inflammation scores at 2 weeks vs IDB; WF more effective than air floss. WF estimated ~60 s; IDB likely <60 s; time not formally recorded.
+
+5 LIMITATIONS
+Only one size of IDB analysed in select locations; patients need various IDB sizes. Participants could not be blinded to device. WF uncommon in Netherlands; interdental device use uncommon in sample. Sample mostly students, not representative. Plaque not measured. 4-week duration.
+
+6 CONCLUSION
+Overall, the WF was more effective than the IDB for reducing gingival inflammation in patients with moderate gingivitis over a 4 week period.
+
+7 CLINICAL RELEVANCE
+Both devices reduced bleeding significantly. WF significantly more effective than IDB for reducing marginal gingival bleeding. No differences for gingival abrasions. Individuals with gingivitis can benefit from using a WF or IDB.
+
+FUNDING/CONFLICT: First author Mancinelli-Lyle was an employee of Water Pik, Inc. when study conducted. Van der Weijden owner of Jardin B.V. (former owner of an interdental brush webshop). Study performed by Department of Periodontology of ACTA, commissioned by ACTA Dental Research B.V., which received financial support from Water Pik, Inc. Study products provided by Water Pik, Inc.
