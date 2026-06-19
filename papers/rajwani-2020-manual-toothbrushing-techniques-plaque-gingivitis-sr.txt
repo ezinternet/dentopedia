@@ -1,0 +1,97 @@
+Effectiveness of Manual Toothbrushing Techniques on Plaque and Gingivitis: A Systematic Review
+
+PMID: 33028052 | PMCID: PMC11654539 | DOI: 10.3290/j.ohpd.a45354
+Journal: Oral Health & Preventive Dentistry, 2020
+First author: Andrea Rani Rajwani
+Source: PubMed Central full text (according to PubMed)
+
+=== ABSTRACT ===
+
+Purpose:
+Currently, there is no consensus on recommendations for manual toothbrushing techniques between dentists, oral health therapists and dental companies. The aim of this systematic review is to identify and assess the quality of evidence of the effectiveness of manual toothbrushing techniques in the existing literature.
+
+Methods:
+A broad search was conducted on the electronic databases Medline via Ovid, PubMed and EBSCO Dentistry & Oral Sciences. Included studies examined manual toothbrushing technique efficiency. Articles were assessed utilising the Cochrane Collaboration's tool for assessing risk of bias. Thirteen studies met the inclusion criteria and were included in this review. These included five randomised controlled trials (RCT), seven experimental non-randomised control studies and one in vitro study.
+
+Results:
+Of the 3190 articles identified, 40 were relevant to manual toothbrushing and 13 were included in the final review. Studies indicating statistically significantly superior plaque removal for a given technique were Bass (one), modified Bass (one), Charter's (two), Fones (two), scrub (two), roll (one), modified Stillman (one), toothpick method (one). Four studies exhibited no statistically significant difference in effectiveness of plaque removal. Unfortunately, considerable variation was found between studies, making a definitive conclusion impossible in terms of an ideal manual toothbrushing technique that would promote plaque removal and reduce gingivitis.
+
+Conclusion:
+There is still insufficient evidence for suggesting that one toothbrushing method is more effective than another in plaque removal and reduction of gingivitis. Excessive variability in many aspects of the design and methodology of the selected studies hinder conclusions on an ideal manual toothbrushing technique. Experimental randomised controlled trials that follow the CONSORT guidelines are required to provide adequate-quality evidence and make any definitive conclusions on the relative effectiveness of manual toothbrushing techniques.
+
+=== FULL TEXT ===
+
+Improved oral hygiene remains a fundamental issue in dentistry for the prevention of oral disease, including dental caries, gingivitis and periodontitis. The initial stages of periodontal disease manifest as gingivitis, followed by irreversible bone loss and soft tissue attachment recession associated with numerous local and systemic effects, including tooth loss.
+
+Effective regular removal of the bacterial plaque with toothbrushing is the primary method for dental caries and periodontal disease prevention, and ceasing disease progression.
+
+Despite the introduction of electric toothbrushes and their increased affordability, manual toothbrushes are more frequently used in the United States and although no data are available for Australia, sales statistics indicate 35 million manual toothbrushes being sold annually, comprising of 80% of toothbrush sales in Australia. This suggests that manual toothbrushing remains prevalent. Therefore, manual toothbrushing techniques should continue to play a large role in patient oral hygiene education.
+
+Numerous toothbrushing techniques have been developed over the last century, including Charter's, Stillman, modified Stillman, Fones, Bass, modified Bass, scrub, roll and toothpick. Research has reinforced a greater improvement in plaque removal by educating patients in a specific technique as opposed to suggesting modifications to their existing technique. This further reinforces the need for defined and evidenced-based techniques.
+
+The earliest published toothbrushing technique is the Charter's method, which was originally described for patients with orthodontic appliances in 1928. The Stillman technique was developed by Paul R. Stillman in 1932 and involves the placement of toothbrush bristles partly on the cervical portion of the tooth and partly on the adjacent gingiva at a 45-degree angle. The modified Stillman technique involves the addition of a roll technique by brushing the final stroke towards the biting or occlusal surface. In 1934, Alfred Fones proposed a new eponymous brushing technique. In this technique, the toothbrush is placed on a set of teeth and the bristles used by slightly pressing them onto the interface between the tooth and the gingival margin. Then the toothbrush head is moved circularly 4 to 5 times. Then the toothbrush is placed on the next set of teeth. The Bass toothbrushing technique was first described by Charles C. Bass. Bass recommended forcing the toothbrush bristles into the gingival crevices and sulcus between teeth at a 45-degree angle to the long axis of the tooth with a 'short back and forth movement' of the brush to dislodge all soft material. The incorporation of a rolling action is known as the modified Bass technique. The modified Bass technique is still widely used today by general dentists and periodontists for patient education. The scrub technique is reported to be the least technique sensitive and has been described with either circular, horizontal or vertical strokes. The toothbrush head is placed at a 90-degree angle to the surface with either horizontal/vertical or circular motions used on the gingival crevice.
+
+The roll technique is performed by placing the bristles parallel to the attached gingiva and executing repeated strokes towards the occlusal or incisal surface. This sweeping motion is conducted at a 90-degree angle to the tooth surface. First described in 1984, the toothpick method applies the toothbrush head at a 30-degree angle towards the crown and it is thrust between the interproximal areas of teeth eight to nine times.
+
+Currently, there is no consensus on recommendations for manual toothbrushing techniques between dentists, oral health therapists and dental product companies. It is important to define toothbrushing techniques and to determine which techniques are more effective in removing plaque in order to provide consistent and evidence-based oral hygiene education. The aim of this systematic review is to identify and assess the quality of evidence in the existing literature on the effectiveness of manual toothbrushing techniques in plaque removal and preventing gingivitis.
+
+MATERIALS AND METHODS
+
+A broad search was conducted in May 2018 utilising the electronic databases Medline via Ovid, PubMed and EBSCO Dentistry & Oral Sciences Source to capture all published studies related to manual toothbrushing techniques. Databases were searched from the earliest year available on each database up to May 2018. Thirty-six search terms were used in total. These included 'toothbrushing manual', 'brushing manual', 'Stillman', 'Stillman modified', 'Bass', 'Bass modified', 'Fones', 'Scrub' and 'Charter's' searched with the terms 'technique', 'plaque', 'efficiency' and 'effectiveness'. Hand searching was also performed; the references of relevant papers were checked for any further studies. Articles corresponding with the search terms were identified; subsequently, titles and abstracts were screened for relevance.
+
+Following screening, the remaining articles were blinded for title, authors, and publication details including journal and any author affiliations. Two researchers (SH, AT) independently conducted the literature search and independently graded each article utilising the Cochrane Collaboration's tool for assessing risk of bias. This tool was used to ensure a systematic and explicit approach to assess the quality of evidence of the studies. Any disagreement on the inclusion or exclusion of articles or on grading was resolved by discussion and consensus. The study design is shown utilising the PRISMA flow diagram.
+
+Focused question: What is the efficacy of manual toothbrushing techniques on pre- and post-instruction scores on bacterial plaque control and gingivitis?
+
+Inclusion criteria: Participant age 17 years or older, any gender. Manual toothbrushing techniques (Charter's, modified Bass, Bass, Stillman, modified Stillman, Fones, Scrub). Baseline plaque scores or bleeding on probing, no cleaning, flossing only. Changes in oral health by comparison to baseline measured in plaque scores, BOP scores. Study designs: randomised control trials, split mouth, observational, in vitro.
+
+Exclusion criteria: Younger than age 17, compromised manual dexterity, orthodontic appliances fixed, removable prosthesis. Electric toothbrushing or electric toothbrushes, types of toothbrush, interdental cleaning, mouthrinse, modified toothbrush-holding techniques. Reviews, case reports, abstracts, letters to the editor, commentaries, animal studies. Non-English language studies excluded. Full-text article not available.
+
+RESULTS
+
+Literature Search and Excluded Studies
+A wide search of the literature was conducted in May 2018, identifying 3190 articles. Most of these articles were either duplicates or involved only electric toothbrushes or comparisons of toothbrush design (e.g. type of toothbrush head). Following screening, 40 articles related to manual toothbrushing techniques were identified and read in full-text; 27 articles were excluded. Two review articles were excluded. Eight articles were excluded upon further examination due to their intervention protocols (different toothbrush designs only, force and duration of toothbrushing, ability of participants to adopt a new method, biofilm models, comparisons of left and right handers, brushing sequence). Four studies were excluded due to their study sample (one animal study on monkeys, two with orthodontic appliances, one with removable prostheses). Six studies involving participants under 17 years were excluded, as were seven articles due to lack of an English version. Following the exclusion of 27 studies, 13 studies were included in the final review.
+
+Articles Included in the Study
+Thirteen studies met the inclusion criteria. These include five randomised controlled trials (RCT), seven experimental non-randomised control studies and one in vitro study. In these 13 studies, ten manual toothbrushing techniques were examined with the number of studies indicated in parenthesis: roll (six), horizontal scrub (six), modified Bass (five), Bass (five), Charter's (three), Fones (three), modified Stillman (one), toothpick method (one), and vertical method (one).
+
+Included studies (with results):
+- Frandsen et al 1970: Charters better than roll or scrub for brusher A, scrub was better for brusher B.
+- Frandsen et al 1972: Pending on instructor, Charter's & scrub more effective.
+- Arai and Kinoshita 1977: Fones and scrub more effective.
+- Gibson and Wade 1977: No difference between techniques (roll vs Bass).
+- Bergenholtz et al 1984: No difference between toothbrushes, Bass better and roll less effective.
+- Kanchanakamol et al 1993: Bass technique with 'Concept 45' toothbrush best mean plaque reduction (MNPI).
+- Morita et al 1998: Toothpick method better than Bass.
+- Poyato-Ferrera et al 2003: Modified Bass statistically significantly better than normal toothbrushing (after 21 days, TQHI).
+- Harnacke et al 2012: Fones superior to Bass for both OH skills and gingivitis (PBI).
+- Schlueter et al 2013: No significant differences between all groups (modified Bass, instruction levels).
+- Mastroberardino et al 2014: Vertical significantly better overall plaque removal than horizontal and better interdental.
+- Harnacke et al 2016: Fones (with computer training) better than modified Bass for oral hygiene; no differences for gingivitis (BOP).
+- Jansiriwattana et al 2018: No difference between toothbrushes or techniques (in vitro).
+
+Toothbrushing Techniques
+Ten different manual toothbrushing techniques were compared in the thirteen selected studies. Nine studies compared only two manual brushing techniques. Of these nine, five compared modified Bass vs other techniques. One compared horizontal vs vertical. Two studies compared Bass to roll. Morita et al compared Bass vs toothpick. Two studies by Frandsen et al compared three techniques (Charter's vs scrub vs roll). Bergenholtz et al compared four techniques (scrub vs roll vs Bass vs circular scrub). Arai and Kinoshita compared seven techniques (six manual, one electric).
+
+Plaque Indices
+Ten different plaque index systems were used in the thirteen studies (Modified Volpe's, Silness and Löe, Rustogi Modified Navy Plaque Index [RMNPI], Modified Navy Plaque Index [MNPI], Bergenholtz modification, Podshadley and Haley, O'Leary, Proximal Marginal Index [PMI], Marginal Plaque Index [MPI] by Deinzer et al, Turesky modification of Quigley & Hein [TQHI]). Four studies used the TQHI. Two studies implemented Ramfjord teeth; the rest scored full dentition with 4, 6, 8 or 18 surfaces per tooth.
+
+Comparison of Bacterial Plaque Reduction (selected):
+- Kanchanakamol et al: better mean reduction (MNPI) for Bass vs roll using 'Concept 45'.
+- Morita et al: the toothpick method removed more plaque than did the Bass method.
+- Poyato-Ferrera et al: modified Bass statistically significantly more effective at removing supragingival plaque after 21 days.
+- Harnacke et al (2012): Fones superior to modified Bass for oral hygiene and gingivitis.
+- Mastroberardino et al: vertical toothbrushing more efficient in reducing overall mouth plaque and removed more interdental plaque.
+- Harnacke et al (2016): overall reduction of bacterial plaque slightly greater with Fones (70.3%) compared to modified Bass (77.9%).
+
+Use of the Gingival Index
+Only two of the thirteen studies reported a gingival index, both by Harnacke et al. The 2012 study used the papillary bleeding index (PBI) and found Fones superior to modified Bass for oral hygiene skills and gingivitis. The 2016 study used bleeding on probing (BOP); after 12 weeks, instruction in Fones and modified Bass failed to show signs of improvement for gingivitis. The other eleven studies reported no gingival index.
+
+Assessment of Risk of Bias
+All five RCT studies exhibited low risk of bias except Arai and Kinoshita (vague methodology, unclear blinding). The experimental and in vitro studies each had at least one high or unclear risk of bias score (non-blinding of personnel, lack of randomisation, no protocol available, cross-over without allocation description, in vitro with no human participants).
+
+DISCUSSION
+This systematic review highlighted only 13 good-quality studies examining manual toothbrushing effectiveness in relation to toothbrushing techniques. The vast majority of the literature focuses on electric toothbrushing, although manual toothbrushing is still predominant. Two prior systematic reviews on manual toothbrushing were found (one on manual vs powered, one on bristle-tuft configurations and brushing duration), but none specifically on manual toothbrushing techniques. The ten techniques across thirteen studies, 23 different toothbrush brands, and ten different plaque indices created excessive heterogeneity making comparison very difficult. Only six of thirteen studies reported plaque reduction scores. Only two studies (both Harnacke) used true gingivitis assessment, and they produced conflicting results comparing only Fones and modified Bass.
+
+CONCLUSION
+Current evidence is inadequate for concluding that one toothbrushing method is more effective than another in plaque removal and reduction of gingival inflammation. Excessive variability in many aspects of the design and methodology of the selected studies make it impossible to reach any conclusion on an ideal manual toothbrushing technique. Experimental randomised controlled trials that follow the CONSORT (consolidated standards of reporting trials) guidelines are required to provide adequate-quality evidence of the relative effectiveness of manual toothbrushing techniques.
