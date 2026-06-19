@@ -1,0 +1,127 @@
+Title: Home-use agents in the treatment of dentin hypersensitivity: clinical effectiveness evaluation with different measurement methods
+Authors: Ayan G, Mısıllı T, Buldur M (Department of Restorative Dentistry, Faculty of Dentistry, Çanakkale Onsekiz Mart University)
+Journal: Clinical Oral Investigations 2025;29(1):63
+DOI: 10.1007/s00784-025-06155-1
+PMID: 39810073 · PMCID: PMC11732919
+Source: PubMed Central OA full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC11732919/)
+
+=== ABSTRACT ===
+
+Objectives
+This study aimed to evaluate the effectiveness of home-use desensitizing agents over an 8-week period by comparing them using different measurement methods.
+
+Methods
+A randomized, controlled clinical trial was conducted with 180 individuals aged between 18 and 70 who clinically diagnosed dentin hypersensitivity (DH) in two or more non-adjacent teeth. Subjects who met the inclusion criteria (n=164) were randomly allocated into five test groups—using Casein phosphopeptide-amorphous calcium phosphate (CPP-ACP), Arginine, Novamin, Propolis, and Potassium nitrate—and a control group using standard fluoride toothpaste. The status of DH was assessed at week 4 and week 8 by the same independent examiner. Changes from baseline in Dentine Hypersensitivity Experience Questionnaire-15 (DHEQ-15), Schiff Sensitivity Scale (SSS) and Visual Analog Scale (VAS) were analysed using ANOVA and Kruskall-Wallis tests.
+
+Results
+All test groups showed statistically significant improvements in DH at weeks 4 and 8 compared to baseline in the DHEQ-15, VAS, and SSS assessments (p<0.005). In the control group, significant improvements were observed only in the VAS and SSS measurements from baseline to week 8 (p<0.005). The CPP-ACP group demonstrated the greatest reduction in scores by the end of week 8 compared to baseline, with DHEQ-15 (56.68 ± 17.87), VAS (6.52 ± 1.48), and SSS (2.32 ± 0.56).
+
+Conclusions
+Among the tested agents, the CPP-ACP group demonstrated the most notable reduction in DH symptoms by week 8, highlighting its potential as an effective method for alleviating DH symptoms in a home-use agents.
+
+Clinical relevance
+Home-use desensitizing agents are effective in the treatment of DH, improving the daily activities of patients who cannot access clinical care and ensuring the relief of DH before clinical invasive procedures.
+
+Trial registration: ClinicalTrials.gov NCT06216262 (registration date January 19, 2024)
+
+=== INTRODUCTION ===
+
+Dentin hypersensitivity (DH) is defined as a condition characterized by a short, sharp pain in response to thermal, tactile, osmotic, or chemical stimuli, which cannot be attributed to any other dental defect or pathology. The prevalence of DH in the general population has been reported to range between 8% and 57%. In individuals with periodontal disease, this rate ranges from 72 to 98%. DH is explained by the hydrodynamic theory, which is based on the movement of fluid within dentinal tubules in both directions and the activation of intratubular nerves or mechanoreceptors on the pulp surface.
+
+The treatment of DH is generally achieved through the combined use of home-use and office-based desensitizing treatments. Due to its non-invasive nature, it has been recommended to start with home-use methods for treatment. Home-use treatment methods include the application of toothpastes, gels, and mouthwashes by patients. These materials exert their effect through two simple mechanisms: desensitization of the nerves and occlusion of the exposed dentinal tubules.
+
+Agent mechanisms:
+- Arginine: natural amino acid present in saliva that, in combination with calcium carbonate and phosphate ions, forms plugs within dentinal tubules.
+- Novamin (calcium sodium phosphosilicate): sodium ions replace hydrogen ions, leading to release of calcium-phosphate ions; these minerals precipitate in dentinal tubules, occluding them.
+- Propolis: DH-relieving agent with antimicrobial, antiviral, antifungal, and antioxidant properties, with a tubule-blocking effect.
+- CPP-ACP: milk-derived phosphoprotein that prevents DH by occluding dentinal tubules through deposition of protein and calcium/phosphate ions.
+- Potassium nitrate (KNO3): used in mouthwash and toothpaste forms as an agent that blocks nerve transmission.
+
+The Dentin Hypersensitivity Experience Questionnaire (DHEQ), developed by Boiko in 2010, assesses Oral Health-Related Quality of Life (OHRQoL). The DHEQ is a 48-question scale. The DHEQ-15 is a shorter form that increases response rates, reduces data collection costs, and facilitates use among older individuals or larger populations.
+
+Null hypothesis (H0): there would be no difference in the effectiveness of home-use desensitizing agents in alleviating DH.
+
+=== MATERIALS AND METHODS ===
+
+Conducted January–July 2024 at the Department of Restorative Dentistry, Faculty of Dentistry, Çanakkale Onsekiz Mart University. Approved by the Çanakkale Onsekiz Mart University Clinical Research Ethics Committee on May 3, 2023 (decision 2023/07–14). RCT following CONSORT. Registered ClinicalTrials.gov NCT06216262, registration date January 19, 2024.
+
+Sample size: G*Power 3.1; total sample size 144 with alpha 0.05, power (1-beta) 0.85, effect size 0.3287 (medium effect size) from a previous similar study.
+
+Enrollment: 180 individuals aged 18–70 with sensitivity in two or more non-adjacent teeth assessed for eligibility. Exclusions: pregnant/breastfeeding women; advanced periodontal disease; chronic conditions affecting study results; major oral pathologies; use of anticonvulsants, antihistamines, antidepressants, sedatives, or tranquilizers; use of desensitizing toothpaste in past 3 months; periodontal disease treatment in past 12 months; suspected pulpitis, cavities, cracked enamel, or teeth supporting removable partial dentures. 26 excluded for not meeting inclusion criteria → 164 eligible randomized into six groups.
+
+GROUPS AND ACTIVE INGREDIENTS (Table 1):
+- CPP-ACP (n=28): GC Tooth Mousse (GC America). CPP-ACP, glycerol, etc.
+- Arginine (n=28): Colgate Sensitive Pro-Relief Toothpaste (Colgate Palmolive). Pro-Argin with 8.0% arginine and 1450 ppm fluoride as sodium monofluorophosphate in calcium carbonate base.
+- Novamin (n=27): Sensodyne Repair & Protect Toothpaste (GSK). Calcium sodium phosphosilicate (NOVAMIN) 5.0% w/w, sodium fluoride.
+- Propolis (n=27): Eyup Sabri Tuncer Natural Propolis Extract Toothpaste. Fluoride-free.
+- Potassium nitrate (n=27): Sensodyne Cool Mint Mouthwash (GSK). 3% w/w potassium nitrate and 0.048% w/w sodium fluoride (217 ppm fluoride).
+- Control (n=27): Colgate Total Toothpaste. Sodium fluoride, sodium monofluorophosphate, dicalcium phosphate, 1450 ppm fluoride.
+
+All participants given soft toothbrushes (Colgate 360° Soft).
+
+Usage protocols:
+- Arginine, Novamin, Propolis, Control: brush twice daily, 2 min each, for 8 weeks.
+- CPP-ACP: apply toothpaste to tooth surfaces with finger for 3 min every night, after brushing with standard fluoride toothpaste; no spitting; no eating/drinking for 30 min.
+- Potassium nitrate: rinse with mouthwash twice daily (morning and evening) after brushing with standard fluoride toothpaste; fill cap to 10 ml, rinse mouth for 1 min, spit, no water rinse after.
+
+Standardized preventive instructions: avoid acidic foods/drinks and frequent sugary food; Modified Stillman brushing technique without excessive force; brushing 30 min after breakfast and dinner.
+
+Evaluations at baseline, week 4, and week 8. During follow-up: by week 4, 5 missed follow-up and 2 had protocol violations; by week 8, 6 missed follow-up and 1 had a protocol violation. Ultimately 25 participants from each group included in final analysis (150 total).
+
+Measurement instruments:
+- DHEQ-15 (Turkish version): 7-point Likert scale (1–7), total score 15–105.
+- VAS: 0 (no pain) to 10 (unbearable pain).
+- SSS (Schiff Sensitivity Scale): two non-adjacent test teeth with highest sensitivity per individual; air applied to cervical area from 1 cm for 1 s. Score 0–3: 0 no response; 1 response present, no need to stop stimulus; 2 response present, stimulus should be stopped; 3 response, considers stimulus painful. Average of both test teeth.
+
+Statistics: Cronbach's alpha for reliability; Shapiro-Wilk normality; Levene's variance homogeneity; Mauchly's W sphericity; ANOVA / Kruskal-Wallis for group comparisons; Repeated Measures ANOVA (Greenhouse-Geisser) / Friedman for time; Post Hoc Bonferroni and Modified Bonferroni. SPSS 25.0. p<0.05 significant.
+
+=== RESULTS ===
+
+150 participants analyzed: 93 females (62%), 57 males (38%). Ages 19–70, mean 40.9 ± 15.1. Most affected teeth: lower premolars 20.3%, upper premolars 18.3%, lower anterior 16.7%, upper molars 12.3%, upper canines 10.4%, upper anterior 8.6%, lower molars 8%, lower canines 5.3%. (Premolars overall ~38.6%.)
+
+DHEQ-15 reliability: high Cronbach's alpha across all groups and time points (0.843–0.986).
+
+DHEQ-15 SCORES (Mean ± SD; baseline / 4wk / 8wk):
+- CPP-ACP: 77.84 ± 16.39 / 35.60 ± 18.92 / 21.16 ± 10.71 (p<0.001 over time)
+- Arginine: 77.84 ± 13.84 / 49.44 ± 20.77 / 37.52 ± 21.85 (p<0.001)
+- Novamin: 72.68 ± 19.56 / 51.44 ± 20.14 / 39.16 ± 24.59 (p<0.001)
+- Propolis: 77.68 ± 15.11 / 51.64 ± 27.49 / 41.56 ± 31.46 (p<0.001)
+- Potassium nitrate: 74.6 ± 15.44 / 46.40 ± 25.12 / 36.36 ± 21.99 (p<0.001)
+- Control: 82.36 ± 17.99 / 70.48 ± 23.34 / 68.72 ± 25.5 (p=0.068, NS over time)
+Control showed NO significant change in DHEQ-15 over time. At week 8, all test agents significantly lower than control (CPP-ACP p<0.001; Potassium nitrate p=0.003; Arginine p=0.008; Novamin p=0.009; Propolis p=0.021).
+
+SSS SCORES (Mean ± SD; baseline / 4wk / 8wk):
+- CPP-ACP: 2.5 ± 0.52 / 0.36 ± 0.37 / 0.18 ± 0.32
+- Arginine: 2.28 ± 0.61 / 0.82 ± 0.84 / 0.56 ± 0.85
+- Novamin: 2.12 ± 0.56 / 1 ± 0.71 / 0.68 ± 0.79
+- Propolis: 2.22 ± 0.56 / 1.02 ± 1.02 / 0.88 ± 0.98
+- Potassium nitrate: 2.36 ± 0.55 / 0.84 ± 0.77 / 0.62 ± 0.75
+- Control: 2.38 ± 0.56 / 2.02 ± 0.71 / 1.9 ± 0.79
+All groups (incl. control) showed significant time-related SSS reductions (p<0.001). Control significant only at week 8 vs baseline (p=0.027). At weeks 4 and 8 all agents significantly lower than control. At week 4, CPP-ACP lower than Novamin (p=0.041).
+
+VAS SCORES (Mean ± SD; baseline / 4wk / 8wk):
+- CPP-ACP: 7.44 ± 1.19 / 2.52 ± 1.48 / 0.92 ± 1.26
+- Arginine: 7.36 ± 1.52 / 3.84 ± 2.46 / 2.52 ± 2.69
+- Novamin: 6.84 ± 1.55 / 3.56 ± 2.10 / 2.52 ± 2.42
+- Propolis: 7.2 ± 1.5 / 4.44 ± 2.81 / 3.2 ± 3.11
+- Potassium nitrate: 6.84 ± 1.57 / 3.44 ± 1.96 / 2.76 ± 2.07
+- Control: 7.4 ± 1.78 / 5.52 ± 1.92 / 4.96 ± 2.21
+All groups significant VAS time differences (p<0.001), including control (decrease at week 4, p<0.001 except Propolis p=0.007). Control recorded highest VAS scores among groups. Propolis higher VAS than CPP-ACP at weeks 4 and 8; Potassium nitrate higher than CPP-ACP at week 8.
+
+CHANGE FROM BASELINE TO WEEK 8 (greatest reduction = CPP-ACP):
+- CPP-ACP greatest change: DHEQ-15 56.68 ± 17.87, VAS 6.52 ± 1.48, SSS 2.32 ± 0.56.
+- DHEQ-15 change: CPP-ACP highest; significant vs Novamin (p=0.030); all except Novamin significantly higher change than control.
+- SSS change: CPP-ACP significantly higher than Novamin (p=0.008) and Propolis (p=0.002); all agents greater than control.
+- VAS change: CPP-ACP significantly higher than Potassium nitrate (p=0.007), Novamin (p=0.030), Propolis (p=0.009); only CPP-ACP and Arginine significantly higher than control.
+
+=== DISCUSSION (key points) ===
+
+Null hypothesis rejected. First study to head-to-head compare five home-use desensitizing agents (Arginine, Novamin, Propolis, Potassium nitrate, CPP-ACP) against standard fluoride control. DH most common in premolars; higher in women (62% female). CPP-ACP (toothbrushing + finger inunction, two-product combination with fluoride) was the most effective. Potassium nitrate did NOT show the expected high effectiveness despite combination with fluoride — so the difference was not solely due to added fluoride. Fluoride-free Propolis showed effectiveness similar to Potassium nitrate (on DHEQ-15 and VAS) and higher than control; adding sodium fluoride to propolis toothpastes may improve future agents. Novamin effective vs control but lower change than Arginine.
+
+Limitations: many factors influence pain measurement; standardized DH product-testing procedures not yet sufficiently developed; no control over oral hygiene status; failure to identify DH-contributing factors (acidic diet, brushing habits, erosive factors) at baseline; only 8-week duration (no long-term assessment).
+
+=== CONCLUSIONS ===
+
+Within the limitations, the CPP-ACP group (combined toothbrushing and inunction) was the most effective agent in reducing DH symptoms, demonstrating the greatest reduction in scores by week 8 compared to baseline.
+
+[Source: PubMed Central OA. DOI 10.1007/s00784-025-06155-1]
