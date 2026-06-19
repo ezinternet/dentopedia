@@ -1,0 +1,29 @@
+PubMed Metadata — retrieved 2026-06-19
+PMID: 41421946
+DOI: 10.1016/j.prosdent.2025.11.042
+
+Title: Impact of macrogeometry on the primary stability and bone markers of dental implants: A prospective, controlled, randomized, split-mouth clinical study.
+
+Authors: Chanquini AM, Vargas-Moreno VF, Corrêa MG, Pimentel SP, Cirano FR, Casati MZ, Marcello-Machado RM
+
+Journal: The Journal of Prosthetic Dentistry (J Prosthet Dent)
+Volume: 135, Issue: 6, Pages: 1095–1103
+Publication date: 2025-12-19
+
+Abstract:
+With advances in implant dentistry, interest in macrogeometries such as healing chambers, and surface treatments designed to improve or accelerate osseointegration has been growing; however, clinical evidence regarding the impact of macrogeometry on the osseointegration process is lacking.
+
+PURPOSE: The purpose of this randomized, double-blind, split-mouth clinical trial was to evaluate the impact of dental implants with modified macrogeometry with healing chambers on peri-implant bone repair by analyzing resonance frequency compared with conventional macrogeometry implants.
+
+METHODS: Eighteen participants with bilateral posterior edentulism were enrolled and received an implant with modified macrogeometry (test group) or a conventional implant (control group). Insertion torque was recorded at the time of surgery. Primary stability was measured immediately after implant placement and at 45 and 90 days. Peri-implant fluids were collected at 7, 14, 30, and 90 days to analyze bone markers. Insertion torque was analyzed by using the paired t test (α=.05). Generalized linear mixed models for time repeated measures were used to analyze the implant stability quotient (ISQ) and immunoenzymatic variables (α=.05).
+
+RESULTS: Insertion torque was significantly lower in the test group (P<.05), but no significant difference in primary stability was found between the groups (P>.05). Regarding bone markers, Necrosis Factor-Alpha (TNF-α) levels were significantly lower in the test group (P<.05), with no statistically significant differences for the other markers analyzed (P>.05).
+
+CONCLUSIONS: The modified macrogeometry of dental implants performed similarly to conventional macrogeometry in terms of the primary stability and temporal evolution of osseointegration, even at lower initial insertion torque levels. The reduction in TNF-α levels observed in the test group suggested lower osteoclastic activity, which may represent a more favorable biological environment for peri-implant bone repair.
+
+MeSH Terms: Humans, Dental Implants, Prospective Studies, Double-Blind Method, Dental Implantation Endosseous, Osseointegration, Torque, Female, Dental Prosthesis Design, Resonance Frequency Analysis, Male, Middle Aged, Biomarkers, Dental Prosthesis Retention, Tumor Necrosis Factor-alpha, Surface Properties, Gingival Crevicular Fluid
+
+Article Types: Journal Article, Randomized Controlled Trial
+Language: eng
+
+Source: PubMed (https://pubmed.ncbi.nlm.nih.gov/41421946/)
