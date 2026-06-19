@@ -1,0 +1,25 @@
+Source: PubMed (abstract only; full text not retrieved)
+PMID: 41679429
+DOI: 10.1016/j.joen.2026.02.004
+Retrieved: 2026-06-19
+
+Title: Hemostatic Agents in Periapical Surgery: Systematic Review and Meta-analysis.
+
+Authors: Genchi F, Blaya Tárraga JA, Palma Carrió C, Estévez Llorens R, Menéndez Nieto I
+
+Journal: Journal of endodontics (J Endod). 2026;52(6):850-860. Published online 2026-02-10.
+
+Abstract:
+The purpose of this systematic review with meta-analysis was to analyze the hemostatic efficacy in periapical surgery and their influence on the prognosis. A secondary objective was to study the influence of clinical variables both patient- and tooth-related.
+
+A systematic review protocol was developed following the PRISMA guidelines. A comprehensive search was carried out in PubMed, Scopus, Web of Science, and Cochrane Library up to October 2024. Inclusion criteria were randomized controlled trials and controlled clinical trials analyzing the efficacy of hemostatic agents in periapical surgery and their relationship with treatment prognosis. Studies with follow-up periods of less than 12 months for prognosis analysis were excluded. Risk of bias was assessed using RoB2 tools for randomized controlled trials and ROBINS-I-V2 for controlled clinical trials. Three types of meta-analyses were conducted: a global pooled effect meta-analysis, a meta-regression and a network meta-analysis.
+
+Ten studies with a total of 388 teeth were included. The meta-analysis estimated an average hemostatic efficacy rate of 63 ± 6.6%. The meta-analysis and the meta-regression did not identify statistically significant differences between the hemostatic agents evaluated. The network meta-analysis found that epinephrine and aluminum chloride obtained statistically significant results when compared to collagen (P < .05). Among the variables analyzed, only the smoking habit showed a trend toward statistical significance (P = .074).
+
+The hemostatic agents evaluated showed good efficacy for the control of intraoperative bleeding, without finding statistically significant differences. No relationship was found between hemostatic efficacy and prognosis, nor with patient- or tooth-related variable.
+
+Keywords: Apicoectomy, endodontic surgery, hemostasis, hemostatic agents, periapical surgery, prognosis
+
+MeSH Terms: Humans, Hemostatics, Periapical Diseases
+
+Article Types: Journal Article, Meta-Analysis, Systematic Review
