@@ -77,3 +77,15 @@ niche 토픽 — RCT/SR/MA 전 기간 누계 ~17건뿐. `[tiab]` phrase 필수("
 ("C-shaped canal"[tiab] OR "C-shaped canals"[tiab] OR "C-shaped root canal"[tiab] OR "C-shaped root canals"[tiab] OR "C-shaped configuration"[tiab] OR "C-shaped root canal system"[tiab])
 ```
 C자형 근관(주로 하악 제2대구치) 해부·치료. niche — RCT/SR/MA 전 기간 7건뿐, 대부분 CBCT 유병률·in vitro라 high-evidence 적음. wiki/endodontics/anatomy에 C-shaped 페이지 다수 기보유 → **DOI 교차 dedup 필수**(seen만으로 부족; 시드 sweep에서 yousefi-2025 PMID 41126141이 이미 위키 보유로 제외됨). 시드 sweep(2026/06/19): 신규 2건(40410308 Sci Rep MA OA:PMC, 41042605 Indian JDR SR+MA) 적립, 5건 screened-seen(기보유 1 + 노후/tangential 4).
+
+### clear-aligner
+```
+("clear aligner"[tiab] OR "clear aligners"[tiab] OR "aligner therapy"[tiab] OR "Invisalign"[tiab] OR "thermoplastic aligner"[tiab] OR "orthodontic aligners"[tiab])
+```
+투명교정. 활발한 분야 — RCT/SR/MA 전 기간 ~140건. BMC Oral Health·Prog Orthod·PLoS One·Sci Rep 계열이 PMC OA라 ingest 용이. wiki orthodontics 카테고리는 TAD/biology 중심이라 aligner 임상은 신규 축. 시드 sweep(2026/06/20): 7건 적립, fonseca-planells-2026(상악확장 SR+MA, growing) ingest. category는 `orthodontics`.
+
+### pediatric-dentistry
+```
+("primary teeth"[tiab] OR "primary molar"[tiab] OR "primary molars"[tiab] OR "deciduous teeth"[tiab] OR pulpotomy[tiab] OR "Hall technique"[tiab] OR "stainless steel crown"[tiab] OR "paediatric dentistry"[tiab] OR "pediatric dentistry"[tiab])
+```
+소아치과 — 매우 광범위(RCT/SR/MA 전 기간 ~1570건). 핵심 임상어(유치·pulpotomy·Hall·SSC)로 좁혀도 물량 많음 → 최신순 triage 후 OA·고가치만 ingest. 의과 소아 범람 방지 위해 치과어 phrase 사용. ingest는 material/category에 맞춰 분산(예: HVGIC RCT→glass-ionomer, pulpotomy→endodontics/vpt, MIH→caries). 시드 sweep(2026/06/20): 7건 적립, ali-eldin-2026(giomer vs HVGIC 유구치 RCT)→glass-ionomer ingest.
