@@ -625,6 +625,9 @@ tags: []
 - [[endodontics/diagnosis/godoi-2025-lps-lta-clinical-features-secondary-endodontic]] — Godoi 2025 · cross-sectional · 재치료 40치: 전 근관서 LPS(5.1 EU/mL)·LTA(537.5 pg/mL) 검출; LPS↑가 큰 치근단 투과상·임상증상·결함 수복과 상관 (DOI 10.1111/aej.12963)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — Luo 2026 · sr+ma (frequentist NMA, 19 RCTs 1996–2025) — 전동칫솔 기술 순위: 진동회전형(O-R) 치면세균막 SUCRA 89.2%·치은염 86.5% 1위 > 음파 > 초음파 > 기타 전동 > 수동; O-R vs 수동 plaque SMD -1.24, gingivitis SMD 0.82(p<0.001); 교정·소아 효과 최대, 노인 NS (DOI 10.1007/s00784-026-06955-z)
+- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — Liu 2026 · sr+ma (EJO, 23편/39비교, 고정성 교정장치 환자): 전동칫솔(PTB)>수동칫솔(MTB) — 치면세균막 SMD -0.77·치은염 -0.82·치은출혈 -0.51 (incremental MA) but GRADE LOW (I2 80–93%, 출판편향·TSA 미결, 저편향·비산업 한정 시 PS·GS 유의성 소실); 작용방식별로는 역회전(CR) PTB만 PS 우세 (DOI 10.1093/ejo/cjag026)
+- [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — Tsilingaridis 2026 · sr (EFP/EAPD) · 소아·청소년(<18) 치면세균막유발 치은염 269편 SR — 유병률 ~52%(95% CI 42–62%, CPI 34%~출혈지수 80%), 연령·사춘기·사회경제·부정교합이 결정인자, 감독하 불소칫솔질+학교/보호자 교육이 핵심·치실 무효·CHX 보조 (DOI 10.1111/jcpe.70122)
 - [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — In vitro (PLOS ONE 2016): 0.9–1.8% NaCl이 hGF 이동 촉진(Cl⁻/FAK/F-actin 경로); 1.8% 최적; 각화세포는 무반응
 - [[periodontics/barahim-2024-ozone-gel-srp-diabetic-periodontitis-rct]] — Barahim 2024 · RCT(n=24, 조절형 T2DM stage III 치주염): 오존겔을 SRP 보조로 추가 — 군간 임상차는 없으나 오존군에서 군내 방사선학적 골결손 개선·3개월 PPD 감소·술후 통증 감소 (BMC Oral Health)
 - [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] — Lee 2017 · animal(in-vitro 사람 PDLSC + in-vivo rat 발치와): 옥시스테롤 조합(22(S)+20(S)-hydroxycholesterol)이 LXR↔Hedgehog 신호로 PDLSC 골분화·발치와 골재생을 rhBMP-2 동등 수준 유도; BMP-2 대안 후보 (Stem Cell Res Ther)

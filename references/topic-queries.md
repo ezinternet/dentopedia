@@ -65,3 +65,10 @@ IIP(immediate implant placement)는 핵심어를 풀어 쓰면 osseodensificatio
 ```
 ("burning mouth syndrome" OR "oral lichen planus" OR halitosis OR "topical anesthesia")
 ```
+
+### plaque (치과 플라그 / dental biofilm)
+```
+("dental plaque"[tiab] OR "dental biofilm"[tiab] OR "supragingival plaque"[tiab] OR "plaque control"[tiab] OR "plaque index"[tiab])
+```
+플라그 핵심어는 `[tiab]` phrase로 묶는다 — 안 묶으면 "biofilm" 단독이 미생물학·산업 표면 문헌까지 끌어온다.
+ingest 라우팅: 바이오필름 생태·매트릭스 기전 → `oral-microbiology`, 플라그 control RCT(칫솔·구강세정제) → `periodontics`/위생, 식이·우식 연계 → `caries`.

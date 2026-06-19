@@ -26,6 +26,15 @@
         "MA"
       ],
       "last_run_edat": null
+    },
+    "plaque": {
+      "query": "(\"dental plaque\"[tiab] OR \"dental biofilm\"[tiab] OR \"supragingival plaque\"[tiab] OR \"plaque control\"[tiab] OR \"plaque index\"[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/19"
     }
   },
   "seen_pmids": [
@@ -33,6 +42,13 @@
     "41275475",
     "41421946",
     "41455825",
-    "41978331"
+    "41817287",
+    "41887496",
+    "41905896",
+    "41978331",
+    "42046511",
+    "42234020",
+    "42243816",
+    "42276584"
   ]
 }
