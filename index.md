@@ -1264,6 +1264,7 @@ tags: []
 - [[botulinum-toxin/jkda-2025-63-6-002]] — Clinical review (서울그랜드치과 김준영, JKDA 2025): 치과 BTX 적용 framework — 기능(TMD·masseter·bruxism) + 미용(gummy smile·lip line). 한국 임상 적용 가이드
 
 ## 우식 (Caries)
+- [[overviews/non-restorative-caries-management-topical-fluoride-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편): 비수복적 우식관리(NRCT)·국소불소 종합 — 우식은 가역적 산질환이라 활성 비공동성 병소는 삭제없이 화학정지. SDF·실란트+불소 전반 최상(Urquhart 2019), SDF>불소바니시(Zheng 2025, 착색 감수), 치근우식 1차 고농도(5000ppm)불소치약(Chen 2026), FV는 실란트 대비 비우월·비용불확실(Chestnutt 2017·Kumar 2026), 8%아르기닌 무불소대안(Yin 2025), 수복은 공동성·실패시(위계 미확립 Schmidt 2024)
 - [[caries/zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct]] — Zheng 2025 · rct (30개월 이중맹검 활성대조 우월성, 홍콩 유치원 730→621명): 반년마다 **38% SDF vs 5% NaF 바니시(FV)** 상악 전치 유치 ECC 예방 직접비교 — 신규 우식면 0.35(SDF) vs 0.54(FV) p=0.048, GEE 보정 OR 0.61(p=0.029, 예방분율 39%), 24개월 이후 인접·평활면서 발현 (DOI 10.1177/00220345251363837)
 - [[caries/kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]] — Kumar 2026 · sr+ma (23개 경제성평가, 836편 스크리닝): 소아 우식예방 **불소바니시(FV) 비용효과** — FV vs 타 예방(OHE/TAU/실란트/칫솔질/무중재) 통합 INMB $124.1(I²=0%, CI 0포함)로 비용효과 차이 없음; 고소득국 지불자 관점 불확실. 임상효능 아닌 경제성 분석 (DOI 10.1016/j.jdent.2026.106562)
 - [[caries/hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review]] — Hu 2026 · narrative-review (Sichuan/HKU, 초록만): **산성 미세환경**이 우식→치수염→근단치주염 공통 동인 — 산생성·내산성(acidogenic/aciduric) 세균 선택·탈회 가속, pH 저하가 치수기능 손상·세균독성↑·골흡수↑·근관치료 효과↓ (DOI 10.1016/j.archoralbio.2026.106574)
