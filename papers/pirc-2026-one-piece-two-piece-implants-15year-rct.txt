@@ -1,0 +1,158 @@
+Title: Outcomes of One‐Piece and Two‐Piece Dental Implants After 15–17 Years: Follow‐Up of a Randomized Clinical Trial
+
+Authors: Pirc M, et al. (Clinic for Reconstructive Dentistry, Center of Dental Medicine, University of Zürich, Switzerland)
+Year: 2026
+DOI: 10.1111/cid.70157
+PMID: 42126189
+PMCID: PMC13170413
+Journal: Clinical Implant Dentistry and Related Research (CID)
+Source: PubMed Central full text
+
+---
+
+ABSTRACT
+
+Objectives: To compare the biological, technical, and esthetic outcomes of one‐piece and two‐piece dental implant systems after 15–17 years in the follow‐up of a previously conducted randomized clinical trial.
+
+Material and Methods: This study represents the 15–17‐year follow‐up of a previously conducted randomized clinical trial included 60 patients requiring dental implant therapy. They were randomly assigned to receive either a one‐piece (STM) or two‐piece (BRA) implant system. Final restoration delivery served as baseline, after which all patients entered a structured maintenance program. Clinical re‐evaluations were performed at 1, 5, 10, 12, 15, and 17 years. Biological, technical, radiographic, and esthetic parameters were assessed at each follow‐up visit using standardized clinical and radiographic protocols.
+
+Results: Thirty‐nine patients with 95 implants, all of whom had completed a 15‐ or 17‐year follow‐up visit, were included in the final analysis (STM: 22 patients/45 implants; BRA: 17 patients/50 implants), with a mean follow‐up of 16.4 ± 1.1 years. The cumulative implant survival rate was 95.0% (STM: 91.8%; BRA: 98.0%). Marginal bone levels at 15–17 years were 0.08 ± 1.15 mm (STM) and 1.53 ± 0.81 mm (BRA). Clinical parameters remained stable in both groups, although BOP was higher in the STM group. Peri‐implant mucositis was observed in 49.7% of all implants and peri‐implantitis in 13.3%, with higher rates in the STM group. Technical complications occurred in 28 implants (STM: 23; BRA: 5), with the STM group showing a higher complication rate (implant level: 35.4% vs. 5.8%). Esthetic observations included visible crown margins in 62 implants and mucosal shimmering in 54 implants, with no implant fractures reported.
+
+Conclusions: Both implant systems demonstrated favorable long‐term outcomes with high survival rates. While the one‐piece system showed superior marginal bone preservation, it was associated with a higher rate of technical complications.
+
+ClinicalTrials.gov identifier: KEK‐ZH‐Nr 2014‐0201
+
+---
+
+FULL TEXT
+
+1. Introduction
+
+Implant therapy has become an essential treatment modality in reconstructive dentistry, offering highly predictable and effective solutions for a wide range of clinical indications. Treatment options today extend from single‐tooth replacements to comprehensive rehabilitation of partially and fully edentulous patients with fixed or removable prostheses.
+
+One of the most significant design differences between implant systems is the distinction between one‐piece and two‐piece implants. The two‐piece implant system allows for osseointegration in a protected submucosal environment. The one‐piece system integrates both the implant and abutment into a single structure, enabling transmucosal healing and eliminating the need for a second‐stage surgical procedure.
+
+In two‐piece implant systems, a microgap at the implant–abutment interface may allow bacterial penetration and may be associated with micro‐movements under functional loading. Experimental investigations have demonstrated that these phenomena may influence the biological response of peri‐implant tissues and contribute to marginal bone remodeling. One‐piece implant systems eliminate this interface.
+
+2. Material and Methods
+
+2.1 Study Design
+
+This study represents the 15–17‐year follow‐up of a previously conducted randomized clinical trial. Ethics approval: KEK‐ZH‐Nr 2014‐0201.
+
+60 patients at the Clinic for Reconstructive Dentistry, Center of Dental Medicine, University of Zürich, Switzerland were included. Randomly allocated to:
+- One‐piece implant (Straumann SLA surface; STM group): 30 patients
+- Two‐piece implant (Brånemark, Nobel Biocare, TiUnite anodized surface; BRA group): 30 patients
+
+Randomization performed using a computer‐generated randomization list.
+
+2.2 Implants and Prosthetics
+
+- STM: Straumann one-piece, SLA surface, rough-smooth border placed at bone crest
+- BRA: Brånemark two-piece, TiUnite anodized surface, shoulder placed at bone crest
+- Implant lengths: 6–15 mm; diameters: 3.3–5 mm
+- 151 total implants (STM: 65; BRA: 86)
+- 103 implants screw-retained; 31 cement-retained; 6 removable, 93 fixed restorations
+
+2.3 Follow-Up Examinations
+
+Recall at: 1, 5, 10, 12, 15, and 17 years after final restoration delivery.
+
+Outcomes measured:
+- Biological: PPD, PCR, BOP at 6 sites; peri-implant mucositis/peri-implantitis diagnosis
+- Radiographic: intraoral radiographs with paralleling technique, marginal bone level (MBL) relative to reference point (shoulder for BRA; rough–smooth border for STM)
+- Technical: implant fracture, screw/abutment loosening/fracture, chippings, loss of retention
+- Esthetic: mucosal shimmering, crown margin visibility, mucosal margin position vs contralateral
+
+2.4 Statistical Analysis
+
+Descriptive analysis due to exploratory nature and limited sample size. Independent t-tests and Chi-square tests for baseline comparisons between completers and dropouts.
+
+3. Results
+
+3.1 Demographics
+
+At 15–17 year follow-up: 39 patients with 95 implants (STM: 22 patients/45 implants; BRA: 17 patients/50 implants). 21 patients with 56 implants were lost to follow-up. No significant baseline differences between completers and dropouts.
+
+Mean follow-up: 16.43 years (±1.06); mean age at final visit: 70.80 years (±13.49).
+
+3.2 Survival Rates
+
+5 implant losses total:
+- STM: 4 implants in 3 patients (reason: peri-implant disease with progressive bone loss)
+- BRA: 1 implant
+
+Cumulative survival: 95.0% (STM: 91.84%; BRA: 98.04%)
+
+3.3 Radiographic Outcomes (Marginal Bone Level, MBL)
+
+Implant-level MBL (relative to reference point, positive = bone loss):
+
+| Timepoint | STM mean | STM SD | BRA mean | BRA SD |
+|-----------|----------|--------|----------|--------|
+| Baseline  | 0.61 mm  | 0.82   | 1.07 mm  | 0.51   |
+| FU-5      | 0.62 mm  | 0.77   | 1.39 mm  | 0.44   |
+| FU-10     | 0.03 mm  | 1.08   | 1.38 mm  | 0.52   |
+| FU-15/17  | 0.08 mm  | 1.15   | 1.53 mm  | 0.81   |
+
+Patient-level MBL changes between intervals:
+- Baseline → FU-5: STM 0.14 mm; BRA 0.32 mm
+- FU-5 → FU-10: STM −0.68 mm; BRA 0.03 mm
+- FU-10 → FU-15/17: STM −0.08 mm; BRA 0.14 mm
+
+Marginal bone levels remained stable in both groups descriptively. No formal inferential comparison performed due to limited n.
+
+3.4 Biological Outcomes
+
+PPD (Probing Pocket Depth):
+- FU-15/17: STM 3.79 mm (±1.01); BRA 3.51 mm (±1.06)
+
+PCR (Plaque Control Record):
+- FU-15/17: STM 14.34% (±24.82); BRA 13.18% (±19.77)
+
+BOP (Bleeding on Probing):
+- FU-15/17: STM 45.63% (±30.81); BRA 38.33% (±25.37)
+- BOP consistently higher in STM group throughout observation
+
+Peri-implant mucositis: 75 implants in 34 patients affected (STM: 46/22 pts; BRA: 29/12 pts)
+- Patient-level: STM 73.33%; BRA 40%
+- Resolution in 39 implants/21 patients during observation period
+- Remaining mucositis: 25.83% of all implants
+
+Peri-implantitis: 20 implants in 12 patients (STM: 12/7 pts; BRA: 8/5 pts)
+- Overall implant-level: 13.25%
+- Patient-level: STM 23.33%; BRA 16.67%
+- All treated with non-surgical and/or surgical therapy
+
+3.5 Technical Outcomes
+
+Total: 40 technical complications in 28 implants across 13 patients
+- STM: 34 complications on 23 implants (9 patients); implant-level rate: 35.38%; patient-level: 30%
+- BRA: 6 complications on 5 implants (4 patients); implant-level rate: 5.81%; patient-level: 13.33%
+
+STM complications: 11 matrix renewals, 1 ball attachment renewal, 10 screw loosenings, 5 minor chippings, 2 major chippings, 4 losses of screw access whole restorations, 1 debonding
+BRA complications: 4 minor chippings, 1 major chipping, 1 loss of screw access whole restoration
+
+No implant fractures, prosthetic screw fractures, abutment fractures, or framework fractures in either group.
+
+3.6 Esthetic Outcomes
+
+- Mucosal shimmering: 54 implants (STM: 22; BRA: 32)
+- Crown margin visible: 62 implants (STM: 31; BRA: 32)
+- Mucosal margin more apical vs contralateral: 92 implants (STM: 42; BRA: 50)
+
+4. Discussion
+
+Key findings:
+1. 95% overall survival rate
+2. STM: stable marginal bone (0.08 mm loss at 15–17y); BRA: moderate bone loss (1.53 mm)
+3. Slightly higher biological complications (BOP, mucositis, peri-implantitis rates) in STM
+4. Higher technical complications in STM vs BRA (35.4% vs 5.8% at implant level)
+
+The absence of an implant-abutment interface in the one-piece design may explain the superior bone preservation. The Brånemark implant represents an earlier generation two-piece design — modern implants with internal connections and platform-switching may perform differently. Results should not be extrapolated directly to modern two-piece systems.
+
+5. Conclusions
+
+Both systems provide reliable long-term outcomes. One-piece system advantage: marginal bone preservation. One-piece system disadvantage: higher technical complication rate. Further research with larger samples needed.
+
+Study funded by Clinic of Reconstructive Dentistry, University of Zurich. No conflicts of interest declared.
