@@ -112,6 +112,15 @@
                 "MA"
             ],
             "last_run_edat": "2026/06/19"
+        },
+        "antibiotic-dental": {
+            "query": "(amoxicillin[tiab] OR clindamycin[tiab] OR metronidazole[tiab] OR azithromycin[tiab] OR doxycycline[tiab] OR \"antibiotic prophylaxis\"[tiab] OR \"antibiotic stewardship\"[tiab] OR \"antimicrobial resistance\"[tiab] OR \"antibiotic prescribing\"[tiab] OR \"antibiotic therapy\"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR odontogenic[tiab] OR \"oral infection\"[tiab] OR \"tooth extraction\"[tiab] OR endodontic[tiab] OR periodontal[tiab] OR \"implant surgery\"[tiab])",
+            "ptyp": [
+                "RCT",
+                "SR",
+                "MA"
+            ],
+            "last_run_edat": "2026/06/19"
         }
     },
     "seen_pmids": [
@@ -217,6 +226,36 @@
         "42249424",
         "42262610",
         "42276584",
-        "42310664"
+        "42310664",
+        "42143356",
+        "40935345",
+        "41251271",
+        "41231384",
+        "41253131",
+        "40935948",
+        "39868481",
+        "41413511",
+        "41286855",
+        "41254246",
+        "41269014",
+        "40914269",
+        "41114850",
+        "40695441",
+        "41021535",
+        "41069592",
+        "40872339",
+        "40843516",
+        "40535546",
+        "40243511",
+        "39400429",
+        "40356262",
+        "40123306",
+        "39248301",
+        "40240714",
+        "40741811",
+        "40134000",
+        "40142310",
+        "40045044",
+        "39966906"
     ]
 }
