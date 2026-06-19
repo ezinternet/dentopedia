@@ -1,0 +1,158 @@
+Title: Probiotics Augment the Effect of Non‐Surgical Periodontal Treatment—A Randomised, Double‐Blinded, Placebo‐Controlled Trial
+
+Journal: Journal of Clinical Periodontology
+DOI: 10.1111/jcpe.70136
+PMID: 42076937
+PMCID: PMC13263718
+
+Authors: S.V.R.A. (Signe V.R.A.), C.M.L.-O. (Camilla M. Lundtorp-Olsen), D.B. (Daniel Belstrøm), C.D., M.M., M.G., U.K.G., A.V.S. (A.S.), F.J.B., L.M.
+
+Source: PubMed Central full text — https://pmc.ncbi.nlm.nih.gov/articles/PMC13263718/
+
+---
+
+ABSTRACT
+
+Aim
+
+To determine the effect of probiotic lozenges containing Lactobacillus PB01 DSM14870, Enterococcus EB10 DSM32307 and xylitol after non‐surgical periodontal treatment (NSPT) on changes in microbial composition. The secondary aims were to assess the clinical and immunological impact of probiotic consumption.
+
+Materials and Methods
+
+Eighty adults with stage II or III periodontitis were enrolled and received NSPT at baseline, followed by a 12‐week consumption of probiotics or placebo. Microbial sampling and clinical examination were performed at baseline, Week 6 and Week 12. The subgingival microbiota was analysed using 16S sequencing, the salivary microbiota by metagenomic sequencing and selected cytokines and proteases in saliva by bead‐based immunoassay.
+
+Results
+
+Sixty‐one participants completed the trial (probiotics n=32, placebo n=29). At Week 12, Porphyromonas gingivalis, Treponema denticola, Tannerella forsythia, Fusobacterium nucleatum, Prevotella intermedia and Streptococcus constellatus were significantly associated with the placebo group, while Streptococcus sanguinis, Rothia dentocariosa and Neisseria elongata were associated with the probiotic group. Bleeding on probing percentage (BoP%) and number of periodontal pockets (PPD) ≥ 5 mm decreased significantly more in the probiotic group compared to the placebo group (p < 0.05).
+
+Conclusion
+
+The tested probiotic supplement resulted in an additional short‐term decrease in periodontitis‐associated species along with greater improvements in BoP% and PPD ≥ 5 mm 12 weeks post‐NSPT, compared to the placebo group.
+
+---
+
+FULL TEXT
+
+1 Introduction
+
+Periodontitis is a prevalent, multifactorial inflammatory disease, which, if left untreated, results in loss of tooth‐supporting tissues and ultimately tooth loss (Van Dyke et al.; Frencken et al.). Non‐surgical periodontal treatment (NSPT) remains the key in treatment of periodontitis (Sanz et al.). However, responses to NSPT vary, which has prompted the exploration of adjunctive strategies, such as probiotics (Sanz et al.).
+
+Probiotics are defined as live microorganisms conferring health benefits to the host when administered in adequate amounts (Hill et al.). The mechanisms of action in oral health are still not fully understood but are believed to be local by a direct interaction with the oral microbiota and systemic by indirectly promoting anti‐inflammatory and inhibiting pro‐inflammatory host responses (Plaza‐Diaz et al.). Studies reporting microbial compositional changes have employed techniques focusing on selected microbial species, and only a few studies have reported immunological findings (Ho et al.; Hu et al.; Ikram et al.; Li et al.; Martin‐Cabezas et al.; Mishra et al.; Ram et al.; Song and Liu; Vives‐Soler and Chimenos‐Küstner; Lundtorp‐Olsen et al.). The application of probiotics in conjunction with NSPT shows equivocal clinical results, with some studies reporting improvements in pocket depth (PPD) and bleeding on probing percentage (BoP%), compared to a placebo group, while other studies fail to reach significance between groups (Ho et al.; Hu et al.; Ikram et al.; Li et al.; Martin‐Cabezas et al.; Mishra et al.; Ram et al.; Song and Liu; Vives‐Soler and Chimenos‐Küstner; Nguyen et al.). To capture the full impact of probiotics as an adjunctive strategy in periodontal treatment, the efficacy of probiotics should ideally be evaluated using compositional microbiological data, clinical parameters and immunological biomarkers.
+
+We have previously tested the effect of a probiotic lozenge containing Lactobacillus PB01 DSM14870, Enterococcus EB10 DSM32307 and xylitol in conditions of experimental gingivitis and frequent sugar intake in orally healthy young adults in short‐term trials. Data showed that this combination of probiotic strains supported microbial resilience after experimental gingivitis and suppressed sugar‐induced loss of diversity of the supragingival microbiota (Lundtorp et al.; Lundtorp Olsen, Massarenti, et al.).
+
+In the present study, we aimed to determine whether consumption of probiotics containing Lactobacillus PB01 and Enterococcus EB10 was accompanied by a greater decrease in the mean abundance of periodontitis‐associated species in the subgingival and salivary microbiota 12 weeks post‐NSPT compared to placebo. Secondary outcomes in the study were reduction in mean number of PPD ≥ 5 mm, mean BoP% and mean abundance of proinflammatory cytokines and proteins in saliva.
+
+2 Materials and Methods
+
+2.1 Study Design
+
+This double‐blinded, randomised, placebo‐controlled superiority trial was conducted from 22 October 2022 to 21 June 2023, at the Department of Odontology, University of Copenhagen. It is the third in a series testing the same probiotic consortia on gingivitis, dental caries and periodontitis. All participants provided informed consent, and the trial was conducted per the Helsinki Declaration. Ethical approval was obtained (H‐21003295), and the trial was registered at ClinicalTrials.gov and reported to the University of Copenhagen's local data authorisation (514‐0649/21‐3000). Through computerised randomisation (randomize.net, accessed October 1, 2022), 80 participants were allocated 1:1 to probiotic or placebo lozenges by D.B., who was the only person unblinded to the allocation. Lozenges were assigned right after the first two steps of therapy (Sanz et al.) and continued throughout the 12‐week study period. Clinical examinations and sample collections were repeated at 6 and 12 weeks (±1 week). The study flow chart is shown in Figure 1, and the CONSORT checklist is given in Appendix.
+
+2.2 Study Population
+
+The study population comprised 80 adults recruited at the Department of Odontology, University of Copenhagen. As no prior studies were available to inform a formal sample size calculation for probiotics as an adjunct to periodontal treatment using 16S rRNA sequencing and metagenomic analyses, the study was exploratory/pilot in nature. The sample size was pragmatically informed by our previous study (Belstrøm et al.), which demonstrated significant clinical and microbiological changes. As the additional effect of probiotics was unknown, the sample size was inflated by 40% to account for potential variability (25 + 25 × 0.4 = 35), with a further 10% added to allow for dropouts (35 + 35 × 0.1 = 39), resulting in a final target sample size of n = 39 participants per group. Microbiological analyses focused on species previously associated with periodontitis, assessed in an exploratory, data‐driven manner using LEfSe and DESeq2. No individual species was pre‐specified as the primary outcome. Clinical and immunological outcomes were considered secondary.
+
+The exclusion criteria were treatment requiring diseases in the oral cavity except for periodontitis stage II or III, < 20 teeth, self‐reported inflammatory or immunological diseases, dysregulated diabetes (fasting blood sugar outside 4–7 mmol/L and blood sugar 2 h after a meal > 10 mmol/L), cancer within 4 years, corticosteroid and biological medicine intake, antibiotic prescription or subgingival instrumentation within 3 months before trial participation, tooth extraction or surgery within 2 months before trial participation, use of probiotics 1 month before participation and pregnancy. The inclusion criteria were age ≥ 18 years and being diagnosed with periodontitis stage II or III, grade A–C either localised or generalised according to the 2017 Classification (Caton et al.).
+
+2.3 Clinical Examinations and Periodontal Treatment
+
+Clinical examinations were performed by a Master's student in dentistry (S.V.R.A.) at baseline and repeated 6 and 12 weeks after subgingival instrumentation. Intra‐ and inter‐rater reliability of plaque index (PI), PPD and clinical attachment level (CAL) were assessed. PI (binary) was analysed with Fleiss' κ for intra‐rater and unweighted Cohen's κ for inter‐rater agreement, while PPD and CAL (continuous) were evaluated using intra‐class coefficients (ICC, two‐way random, single measures, consistency). Intra‐rater reliability was good to excellent (PI, 0.738; PPD, 0.864; CAL, 0.867). Inter‐rater reliability was similarly good to excellent (PI, 0.725; PPD, 0.800; CAL, 0.797) (Koo and Li; Landis and Koch). Clinical examinations were performed after the collection of samples and after participants performed routine oral hygiene procedures. At baseline and week 12, PI, PPD, BoP and CAL were measured, while only PI and BoP were registered at Week 6. PI was registered by using SUNSTAR G·U·M RED‐COTE disclosing tablets. At all three time points, all measurements were performed at six sites (disto‐facial, mid‐facial, mesio‐facial, disto‐oral, mid‐oral and mesio‐oral) on each tooth (third molars excluded). Periodontal therapy consisted of the first two steps of therapy (oral hygiene instructions, elimination of local retentive factors, professional mechanical removal of supragingival plaque and calculus and subgingival instrumentation) according to the EFP guideline (Sanz et al.) (adjunctive therapies, host‐modulation and chemical agents and antimicrobials were avoided), and was delivered simultaneously by C.M.L.O. within 4 weeks of the baseline registrations. Subgingival instrumentation was performed with curettes and ultrasonic instruments in combination. Oral hygiene instructions were repeated at week 6 by S.V.R.A.
+
+2.4 Probiotic and Placebo Lozenges
+
+The probiotic and placebo lozenges were identical in appearance, both lemon‐flavoured, and prepared at ADM Denmark as previously described (Lundtorp et al.; Lundtorp Olsen, Massarenti, et al.). Each lozenge contained a minimum of 1 × 10^9 CFU of Lactobacillus PB01 DSM14870 and Enterococcus EB10 DSM32307 and 491 mg xylitol. Participants were instructed verbally and in writing to slowly dissolve one lozenge and swallow the saliva in the morning and in the evening after oral hygiene procedure, avoiding food and drinks for the subsequent 30 min.
+
+2.5 Collection of Samples
+
+Paraffin, chew‐stimulated saliva and subgingival plaque samples were collected as described (Lundtorp et al.; Lundtorp Olsen, Massarenti, et al.; Belstrøm et al.; Lundtorp‐Olsen, Enevold, Juel Jensen, et al.; Lundtorp‐Olsen, Enevold, Twetman, and Belstrøm). In brief, participants refrained from food and drink 2 h before sampling. Saliva was collected first, followed by subgingival plaque from the two deepest periodontal pockets (excluding third molars and distal sites on second molars with impacted wisdom teeth). Samples were collected before any instrumentation, with oral hygiene postponed until after sampling. All samples were collected between 8.00 AM and 3.00 PM, immediately stored at −18°C, transferred to −80°C within 6 h and kept until analysis. Sampling times were standardised across visits.
+
+2.6 Sample Extraction, Library Preparation and Sequencing
+
+DNA extraction, sequencing library preparation and 16S sequencing were performed as previously described (Lundtorp‐Olsen, Enevold, Juel Jensen, et al.; Lundtorp‐Olsen, Enevold, Twetman, and Belstrøm). In brief, the V1–V3 region of the 16S gene was targeted using MiSeq (Illumina, San Diego, CA, USA).
+
+Metagenomic libraries were prepared with the Nextera XT Library kit according to the manufacturer's instructions (Illumina). DNA was simultaneously fragmented and tagged with dual index sequencing adapters. Library quality control was ensured using the HSD5000 kit in the TapeStation 4200 equipment (Genomic DNA and D1000 screentapes, Agilent, USA). NovaSeq 6000 sequencing platform in a 150 paired‐end reads configuration generated *.bcl files as primary sequencing output (NovaSeq Control Software (NCS) v1.6). Bcl2fastq 2.20 program was used to translate the sequencing reads from bcl (Base Calling) to FASTQ format and remove sequencing adapters.
+
+2.7 Cytokine, Protein and Enzyme Analysis
+
+Analyses of cytokines were performed following manufacturer's protocol as previously described (Lundtorp et al.; Lundtorp Olsen, Massarenti, et al.; Yilmaz et al.). In brief, samples were centrifuged for 5 min at 9300g, and levels of interleukin (IL)‐8, IL‐1β, monocyte chemoattractant protein‐1 (MCP‐1) and macrophage migration inhibitory factor (MIF) were measured from salivary supernatants by bead‐based immunoassay. The limit of detection (LOD) was 0.36 pg/mL for IL‐8, 0.24 pg/mL for IL‐1β, 0.44 pg/mL for MCP‐1 and 2.45 pg/mL for MIF.
+
+The analyses of the proteins, amylase activity, total protease activity (TPA), chitinase activity and albumin were performed as previously described. Total protein concentration was analysed using Pierce BCA Protein Assay Kit (ThermoFisher, CAT#23227). Albumin was quantified on rabbit anti‐human albumin–coated microplates with bovine serum albumin (BSA) standards (25–1500 μg/mL). Amylase activity was determined by diluting the samples 1:100 in MILLI‐Q and mixing with 2‐chloro‐4‐nitrophenyl α‐D‐maltotrioside. TPA was assessed by mixing 50 μL PEK‐54 substrate with 50 μL saliva, while chitinase activity was measured mixing 50 μL 4‐methylumbelliferyl β‐D‐N,N′,N′′‐triacetyl chitotriose substrate with 50 μL saliva. TPA and chitinase activity were measured fluorometrically at 37°C for about 1 h at 5‐min intervals.
+
+2.8 Bioinformatic Processing and Statistics
+
+Background information is presented by descriptive statistics. Clinical data and data on cytokines, enzymes and albumin were checked for normal distribution by Q–Q plots. Immunological data were log‐transformed. Comparisons within groups were performed by ANOVA adjusted with Tukey's corrections for multiple testing and ANCOVA between groups with baseline measurements as covariates. Nicotine usage was considered a confounder. An intention‐to‐treat (IIT) analysis was performed to assess clinical effectiveness, as well as a dichotomous analysis for clinical interpretation of periodontal therapy outcomes. To evaluate the relationship between microbial shifts and clinical or immunological improvements, principal component analysis (PCA) and Spearman correlation were performed. A p‐value < 0.05 was considered significant for all analyses.
+
+Bioinformatic processing of 16S samples was performed as previously described by matching the demultiplexed Illumina reads against the 16S rRNA Human Oral Microbiome RefSeq database (HOMD) v. 15.2 (Escapa et al.). The subgingival microbiota was characterised and compared according to relative abundance adjusted for multiple testing by Benjamini–Hochberg's correction (Hochberg and Benjamini). Linear discriminant analysis effect size (LEfSe) was used to identify differences between groups (Segata et al.) with significant differences identified by the combined criteria of Kruskal–Wallis p < 0.05, Wilcoxon‐adjusted p < 0.05 and LDA score > 2. α‐Diversity was compared between groups by ANCOVA with baseline adjustment.
+
+Metagenomic data were processed as previously described, with minor modifications. In brief, reads were standardised and assigned using Metaphlan to eHOMD. Metagenomes were annotated by Kyoto Encyclopaedia of Genes and Genomes (KEGG) annotation. Data were normalised and α‐diversity was tested by the Wilcoxon test. β‐Diversity was analysed by Bray–Curtis dissimilarity matrix and PERMANOVA analysis. DESeq2 was used to identify differentially abundant taxa and genes (p < 0.05 and if present in at least 50% of the samples in one group). A gene set enrichment analysis (GSEA) was conducted on KEGG modules based on the results from DESeq2. All analyses were performed using R and R Studio.
+
+3 Results
+
+3.1 Background Data and Compliance
+
+Nineteen participants dropped out due to antibiotic prescription (n = 6), absence (n = 7), withdrawal of consent (n = 2), tooth extraction (n = 2), surgery (n = 1) and non‐compliance (n = 1). These were excluded from further analysis. Groups were comparable at baseline regarding diagnoses, age, sex, nicotine use, well‐regulated diabetes (fasting blood sugar levels: 4–7 mmol/L) and previous periodontal treatment (p > 0.05, Table 1). Compliance was similar between groups, p > 0.05 (mean forgotten lozenges; placebo, n = 25.6, probiotics, n = 18.6).
+
+3.2 Sequencing Metadata
+
+DNA extraction and library preparation succeeded for 180/183 subgingival samples (98.4%), yielding between 13,418 and 136,109 DNA reads after quality check (QC) and bioinformatic processing. In total, 126 genera and 461 bacterial species were identified, covering 96.42% and 61.96% of sequences, respectively. For saliva, sequencing succeeded in all 183 samples, yielding 5.7–51.2 million reads after QC and bioinformatic processing and identifying 604 species.
+
+3.3 Subgingival Microbiota
+
+PCA showed modest separation between groups 6 weeks post‐NSPT, but no clustering at 12 weeks. α‐diversity decreased significantly more in the probiotic group at 12 weeks (Shannon p = 0.01; Simpson p = 0.03). Relative abundance analysis of the 20 most abundant species showed significantly higher abundance of Streptococcus sanguinis and Rothia dentocariosa at Week 6 and Neisseria elongata at both 6 and 12 weeks in the probiotic group compared to placebo. Porphyromonas gingivalis was significantly more abundant in the placebo group at Week 12. LEfSe identified 30 species differing between groups, with P. gingivalis and Treponema denticola enriched in the placebo group, while Rothia dentocariosa and Neisseria elongata were enriched in probiotics group after 12 weeks.
+
+3.4 Salivary Microbiota
+
+In saliva, α‐diversity decreased more in the probiotic group from baseline to Week 6 (Richness p = 0.043; Shannon p = 0.034) and to Week 12 (Richness p = 0.007). PERMANOVA attributed 77.4% of variance to individual effects (p = 0.001), 1% to NSPT (p = 0.002) and 2% to the probiotic intervention (p < 0.001).
+
+DESeq2 identified 23 differentially abundant species. Several species decreased in the probiotic group, while the microbiota in the placebo group remained relatively stable throughout the trial. Specifically, Treponema denticola and Fusobacterium nucleatum decreased more after Week 6, and Porphyromonas gingivalis and Tannerella forsythia decreased more after Week 12 in the probiotic group. Functionally, the probiotic group showed greater decrease in abundance of genes related to oxidative phosphorylation, fatty acid biosynthesis, alanine, aspartate and glutamate metabolism, valine, leucine and isoleucine degradation, arginine and proline metabolism and citrate cycle and increased genes related to B6 vitamin metabolism and ascorbate and aldarate metabolism compared to the placebo group (p < 0.05).
+
+3.5 Clinical Changes
+
+All clinical parameters improved significantly within both groups (p < 0.05, Table 1). From baseline to week 12, reductions in BoP% and sites ≥ 5 mm were greater in the probiotic group (p = 0.036, p = 0.03), remaining significant after adjustment for smoking (p = 0.049, p = 0.016). Mean PPD reduction was significant before but not after smoking adjustment (p = 0.07 vs. p = 0.03). At week 12, 5 placebo and 14 probiotic participants had BoP < 10% (p = 0.03), while 3 probiotic and 0 placebo participants achieved periodontal health (no PPD ≥ 4 mm with BoP and total BoP < 10%; p = 0.24).
+
+An ITT analysis (including all dropouts) showed significant group differences only for BoP% (p = 0.014).
+
+TABLE 1 — Clinical results:
+                   Placebo Baseline  Probiotics Baseline  Placebo Wk12  Probiotics Wk12   p (between)  p (smoking-adj)
+PI%                84.4 (14)         83.3 (15.2)          35.1 (16.2)   37.4 (19.4)       0.65          0.51
+BoP%               29.2 (10.8)       32.7 (14.7)          18.7 (8.4)    15.6 (10.8)       0.04*         0.03*
+PPD mean (mm)      3.0 (0.5)         3.0 (0.3)            2.9 (0.4)     2.7 (0.3)         0.03*         0.07
+PPD <5 mm sites    136.9 (18.4)      138.8 (18.2)         144.5 (18.4)  150.3 (13.6)      0.03*         0.02*
+PPD ≥5 mm sites    22.4 (17.4)       20.4 (14.6)          14.8 (15.6)   8.9 (9.1)         0.01*         0.01*
+CAL (mm)           1.57 (1.1)        1.65 (0.9)           1.49 (1.1)    1.58 (0.9)        0.8           0.94
+
+3.6 Salivary Cytokines and Proteases
+
+Six MIF samples below LOD were replaced with LOD/2. No significant differences were observed between groups for any cytokines, and the changes within groups were modest. From baseline to 12 weeks, albumin increased more in the placebo group (p = 0.008), while chitinase decreased more in the probiotics group (p = 0.009).
+
+3.7 Sub‐Analyses
+
+Sub‐analyses excluding smokers/diabetics confirmed significant differences in PPD < 5 mm and PPD ≥ 5 mm but not BoP%. Microbiologically, fewer species were significantly different between the groups. Immunological findings were almost identical to the original results.
+
+3.8 Correlation Analyses
+
+Subgingival PCA revealed that BoP% and plaque positively correlated with PC1, while PPD and sites ≥ 5 mm correlated with PC1 and PC2. Sites < 5 mm were negatively associated with PC1 and PC2. Immunological correlations were weak, but albumin, amylase and chitinase correlated with both PC1 and PC2, while IL‐1β correlated with PC1. Salivary PCA showed that the mean PPD, sites ≥ 5 mm, BoP%, MCP‐1, albumin and IL‐1β positively correlated with both PC1 and PC2, while sites < 5 mm correlated negatively. Spearman correlations indicated strong correlation between the 20 most abundant subgingival species and clinical parameters, while correlations with immune parameters and for the salivary microbiota were weaker.
+
+4 Discussion
+
+The primary outcome supported the hypothesis because the placebo group showed significantly higher subgingival abundance of P. gingivalis and T. denticola at Week 12, all strongly associated with periodontitis. In contrast, the probiotic group was enriched with Rothia dentocariosa and Neisseria elongata. In the saliva, probiotic consumption led to greater reductions in periodontitis‐associated species, including P. gingivalis, T. denticola, F. nucleatum and T. forsythia, together with a greater reduction in α‐diversity, which is associated with periodontal health. Notably, T. denticola belongs to Socransky's red complex, F. nucleatum and T. forsythia belong to the orange complex and Neisseria elongata belongs to the green complex.
+
+The secondary clinical outcome supported the hypothesis because the probiotic group showed significantly lower BoP% and fewer sites with PPD ≥ 5 mm at 12 weeks post‐NSPT compared with placebo (smoking‐adjusted p‐values: p = 0.049, p = 0.01). These results are supported by the dichotomous analysis and consistent with most prior probiotic studies reporting reductions in PPD and BoP. Some studies also reported superior improvements in CAL and PI, which were not observed in the present study.
+
+The immunological secondary outcome did not confirm the hypothesis, because NSPT had only a minimal impact on cytokines, enzymes and albumin levels in both groups. One explanation is that BoP reflects immediate clinical gingival inflammation, whereas salivary albumin, a plasma‐derived protein, has a slower biological response and is influenced by systemic and biological factors. The smaller albumin increases and lower chitinase levels in the probiotic group may indicate reduced vascular leakage and tissue breakdown.
+
+A key limitation of the present study is its short‐term study design, as significant clinical and microbial changes often occur over 6–12 months. The observed clinical changes were relatively small, especially in the placebo group. The inclusion of smokers and individuals with diabetes is also a limitation, as these factors act as confounders. However, post hoc analyses excluding these participants yielded similar results despite being underpowered.
+
+Current probiotic evidence is affected by heterogeneity of dosages, frequencies and strains, along with a high prevalence of moderate to high bias. Although probiotics appear to enhance clinical, microbiological and immunological outcomes when administered continuously, the formulation of definitive conclusions is complicated, and further well‐designed, large‐scale, standardised studies are needed.
+
+Within the limitations of this exploratory pilot study, daily probiotic supplementation as an adjunct to NSPT reduces the abundance of periodontitis‐associated species compared with placebo, supporting further investigations with longer follow‐up and larger sample sizes.
+
+Author Contributions:
+S.V.R.A., C.M.L.-O., D.B., C.D. and M.M. designed the study. Clinical examinations were performed by S.V.R.A. PMPR and subgingival instrumentation was performed by C.M.L.O. Subgingival plaque and saliva were collected by C.M.L.O. at baseline and by S.V.R.A. at weeks 6 and 12. Cytokine activity was measured by M.G. and U.K.G. at Turku University, Finland, and proteases by A.S. and F.J.B. at the Academic Center for Dentistry Amsterdam (ACTA), Netherlands. Biostatistical analysis of clinical data was performed by C.M.L.O. and levels of cytokines and proteases by C.M.L.O. and L.M. C.M.L.O. and D.B. wrote the first draft of the manuscript, which was critically revised by C.D., M.M., S.V.R.A., M.G., U.K.G., A.V.S., F.J.B. and L.M.
+
+Funding: The study received financial support from the Innovation Fund Denmark, grant number 1044‐00093B, ADM Denmark A/S, Hundested, Denmark, and ADM.
+
+Ethics Statement: The present study was conducted according to the Helsinki Declaration and approved by the regional ethical committee (H‐21003295). The study was registered at ClinicalTrials.gov on 22 August 2022.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
