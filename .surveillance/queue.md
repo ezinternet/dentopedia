@@ -30,3 +30,5 @@
       "Efficacy of non-surgical treatment accompanied by professional toothbrushing (Watanabe toothpick method) in chronic periodontitis in type 2 diabetes mellitus: a randomized controlled clinical trial" — J Periodontal Implant Sci
 - [ ] PMID 40329262 | RCT | OA:PMC PMC12054295 | toothpick-method | edat 2025/05/06
       "Effects of oral hygiene management (toothpick method) containing Cibotium Barometz J. Smith extract on peri-implant mucositis: a randomized clinical trial" — BMC Complement Med Ther
+- [ ] PMID 41716131 | cross-sectional | OA:none | toothpick-method | edat 2026/05/21
+      "Evaluating the hidden impact of interdental cleaning habits on maxillary anterior papilla integrity: a cross-sectional study" — Quintessence Int
