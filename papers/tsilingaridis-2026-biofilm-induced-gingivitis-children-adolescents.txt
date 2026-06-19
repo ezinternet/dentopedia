@@ -1,0 +1,95 @@
+Dental Biofilm–Induced Gingivitis in Children and Adolescents Without Known Systemic Involvement: A Systematic Review
+
+Authors: Georgios Tsilingaridis et al.
+Journal: Journal of Clinical Periodontology, 2026
+DOI: 10.1111/jcpe.70122
+PMID: 41905896 | PMCID: PMC13263723
+Source: PubMed Central full text (verbatim)
+
+=== ABSTRACT ===
+
+Aim: To synthesize evidence on gingival diseases and conditions in children and adolescents (< 18 years) without known systemic disorder involvement, focusing on their distribution, aetiology, diagnosis, management and oral health–related quality of life (OHRQoL).
+
+Materials and Methods: A systematic review was carried out following PRISMA guidelines, including PubMed Central, Scopus, EMBASE and LILACS, up to January 2025. Clinical trials and observational studies addressing gingival diseases or conditions in healthy individuals under 18 years were included.
+
+Results: The search identified 33,180 studies. Title and abstract screening narrowed these to 2264, of which 433 were full-text-reviewed. Ultimately, 269 studies, all restricted to biofilm-induced gingivitis, were included. Considerable heterogeneity was observed in diagnostic criteria and study quality. Dental biofilm–induced gingivitis was common (52%) and associated with poorer OHRQoL. Key determinants for gingival inflammation included socioeconomic status, oral hygiene behaviours, pubertal changes and malocclusion. Based on current evidence, effective management of gingivitis in children should combine supervised toothbrushing with a fluoridated toothpaste and school- or caregiver-based oral health education. Adjunctive use of chlorhexidine may provide additional benefit in certain clinical situations.
+
+Conclusion: Dental biofilm–induced gingivitis is frequent among children and adolescents and influenced by numerous determinants. Prevention and treatment should emphasise accessible, behaviour-focused and education-based strategies for biofilm control.
+
+=== INTRODUCTION ===
+
+Periodontal tissues in children and adolescents exhibit anatomical and developmental features that differ markedly from those of adults. These features influence the clinical appearance of gingival inflammation and may modify disease expression during growth and tooth eruption (Bimstein and Matsson).
+
+Gingivitis is a reversible inflammatory reaction of gingival tissues, occurring without periodontal attachment loss, often arising from dental biofilm accumulation on the tooth surface. It results from interactions between the dental biofilm and the host immune–inflammatory reaction (Murakami et al.), as well as local and systemic modifying factors and behavioural influences such as oral hygiene practices (Chapple et al.). It is estimated that everybody experiences gingivitis during their lifetime (Trombelli). In addition to dental biofilm–induced gingivitis, gingival diseases encompass a broad group of conditions with diverse aetiologies, including immune-mediated, hypersensitivity, infectious, traumatic and neoplastic disorders. These conditions may be localised or may signify underlying systemic involvement. Although not caused by dental biofilm, their severity may be exacerbated by biofilm-related inflammation (Chapple et al.). Distinguishing these lesions from dental biofilm–induced gingivitis is critical for accurate diagnosis, appropriate management and timely referral when necessary.
+
+Focused question: 'In children and adolescents (< 18 years) without known systemic involvement, what are the main features of these gingival diseases and conditions with respect to occurrence, aetiology, diagnosis, management protocols and impact on oral health–related quality of life (OHRQoL)?'
+
+=== MATERIALS AND METHODS ===
+
+The authors were commissioned for conducting this systematic review by the European Federation of Periodontology (EFP) and the European Academy of Paediatric Dentistry (EAPD) for the focused workshop on Gingival and Periodontal Diseases in Children and Adolescents, held in March 2025. Scope limited to individuals under 18 years and the use of clinical categories defined by the 2017 World Workshop on the Classification of Periodontal and Peri-Implant Diseases and Conditions (Chapple et al.).
+
+Protocol based on PRISMA and ENTREQ, registered in the Open Science Framework (OSF). PICOS framework. Databases: PubMed Central, Scopus, EMBASE and LILACS, up to January 2025, MeSH + free-text keywords. Data imported into EndNote, three-stage eligibility (title, abstract, full text). Quantitative analyses where feasible used random-effects models, heterogeneity by I² statistics.
+
+Quality Assessment: RoB 2.0 (randomised trials), ROBINS-I (non-randomised studies), JBI checklists (observational). Overall strength of evidence judged with risk of bias + GRADE. Post hoc decision to exclude studies evaluated as high risk of bias.
+
+=== RESULTS ===
+
+In total, 33,180 records were identified; after removal of duplicates, 20,228 unique records remained for screening. Title screening reduced the pool to 2264 records. Abstract screening resulted in 433 records for full-text evaluation, which finally gave 269 studies fulfilling the inclusion criteria.
+
+Although gingival diseases encompass a wide range of gingival conditions, no studies meeting the inclusion criteria were identified for other than dental biofilm–induced gingivitis.
+
+A total of 99 publications provided information on the occurrence of gingivitis, 63 on determinants, 89 on management and 18 on OHRQoL. No studies were found on the diagnosis of gingivitis.
+
+--- Occurrence ---
+Studies from 47 countries reported occurrence of gingivitis. Sampling frame mostly school-based. Substantial heterogeneity in diagnostic criteria, case definitions, sampling and risk of bias hindered comparisons. Most frequent methods: Gingival Index (GI) by Loe and Silness and the Community Periodontal Index (CPI). Bleeding used as outcome when available. An estimated sample size of 1068 can be calculated assuming 50% gingivitis prevalence and 95% CI accuracy within 3% points → excluded studies with < 1000 participants and high risk of bias. A total of 64 studies had < 1000 participants, and 38 studies were high risk of bias, leaving 22 studies for occurrence.
+
+Pooled occurrence estimate for gingivitis: 52% (95% CI: 42%–62%), substantial heterogeneity (I² > 99%). Estimates differed by diagnostic method and threshold, ranging from 34% (CPI-based studies) to 80% (Bleeding index). The largest included study (n = 118,601) reported a 47% prevalence using WHO criteria among 12–15-year-old Chinese schoolchildren (Wang et al.). None of the studies used gingivitis criteria defined by the 2017 World Workshop.
+
+--- Determinants ---
+Of 63 studies reviewed, 61 were cross-sectional (only associations, no temporality). 10 articles excluded for high risk of bias.
+
+Determinants positively associated with gingival inflammation (cross-sectional): socioeconomic parameters (age, gender, ethnicity, education, occupation, income, area of residence, household residents, immigrant status, school type); oral health behaviours (brushing frequency, supervised brushing, brushing time/technique, fluoridated toothpaste, floss use, dietary habits, frequency of visits); oral health knowledge; microorganisms (bacterial levels, Streptococcus mutans, various spp.); malocclusions (crowding, overjet, anterior open bite, crossbite, orthodontic anomalies).
+
+Socioeconomic: one cohort study found adolescents from lower socioeconomic backgrounds had more gingival bleeding at 2-year follow-up (Sfreddo et al.). Lower adolescent education, lower parental education and attending public schools positively associated with gingivitis. Mixed findings for occupation and income.
+
+Age: increasing occurrence of gingivitis associated with increasing age (Agbaje, Bashirian, Fan, Jessri, Knack, Lawal and Dosumu, Liu, Pathivada, Wang).
+
+Gender: in most studies boys presented more frequently than girls. Three studies no gender difference; one found higher in girls.
+
+Immigrant status/ethnicity: immigrant children and children from non-White or minority groups had significantly more gingival inflammation, independent of other determinants.
+
+Oral health behaviour: brushing ≥ twice daily and supervised toothbrushing significantly associated with improved gingival health. Modified Bass technique associated with slightly more gingival inflammation despite similar plaque (possible trauma). Infrequent fluoride toothpaste → higher odds of moderate-severe gingivitis. Infrequent flossing → more gingivitis. Lack of annual check-ups or never visiting the dentist → higher occurrence.
+
+Oral health knowledge: lower awareness/knowledge among parents and children associated with poorer gingival health.
+
+Oral microbiota: changes in sulcular microbiota related to pubertal maturation (Gusberti et al.) and selected microbial profiles significantly associated with gingival inflammation.
+
+Other determinants: living conditions, diet and malocclusions positively associated.
+
+--- Management ---
+Eighty-nine studies reported management; 41 excluded for high risk of bias.
+
+Oral health education & supervised toothbrushing: school-/home-based OHE primarily reduced gingival inflammation among children already presenting gingivitis. Supervised brushing, real-time coaching, instruction by trained personnel were effective. Digital tools and parent-focused programmes improved gingival health; game/puzzle-based interventions mixed. Differential learning (Pabel et al.) showed significantly greater PBI reduction.
+
+Electric vs manual toothbrush: results split — two earlier studies no clinically relevant difference; two recent studies favoured electric. Methodological limitations → no firm conclusion.
+
+Mouthwashes: 0.1%–0.2% chlorhexidine (CHX) significantly reduced GI; herbal mouthwashes also effective; CHX generally outperformed honey-based at 3 months. Stevioside slightly less than CHX/NaF. Magnetised water mixed.
+
+Dental flossing: 4-week school-based RCT — adding supervised flossing to daily toothbrushing did NOT improve gingivitis or plaque vs brushing alone (Rich et al.).
+
+Professional tooth cleaning: every 2 weeks for a year significantly reduced gingival scores (Poulsen et al.); monthly vs tri-monthly cleaning no difference after 2 years (Zickert et al.). 10% CHX varnish adjunct to prophylaxis reduced moderate-severe gingivitis (Bretz et al.).
+
+Miscellaneous: chewing sticks (miswak) reduced inflammation; toothpaste and probiotics split results; sugar-free chewing gum and musical toothbrushes reduced bleeding.
+
+--- OHRQoL ---
+18 studies (low-moderate risk of bias), 16 cross-sectional. Gingival inflammation measured mostly with CPI, GI or GBI. Most frequent instrument: Child Oral Impacts on Daily Performance (C-OIDP), followed by CPQ11–14, CS-impacts and AQVEI. Most studies found gingival inflammation negatively impacting OHRQoL, though some non-significant. Largest OHRQoL study n = 89,582 (Wu et al., China, 12–15 yr): number of teeth with gingival bleeding significantly associated with C-OIDP scores. Associations with relaxing, smiling, study and social contact mainly evident in younger (12-yr) children, not 15-yr-olds.
+
+=== DISCUSSION (key points) ===
+
+Dental biofilm–induced gingivitis is very common among individuals under 18; heterogeneity prevents cross-study occurrence comparisons. Gingivitis influenced by sociodemographic, behavioural and biological determinants. Socioeconomic disadvantage positively associated. Toothbrushing with fluoride paste twice daily, supervised brushing, regular visits → better gingival health. Occurrence increases with age during childhood/early adolescence, likely due to pubertal microflora changes and elevated sex steroid hormones modulating host immune–inflammatory response. Boys more affected than girls. No studies on tobacco exposure in this age group identified.
+
+Flossing does not significantly reduce gingivitis in children; supervised toothbrushing + fluoridated toothpaste improve gingival health. Professional cleaning every 2 weeks/monthly unrealistic relative to gingivitis prevalence. CHX (0.1%–0.2%) and herbal mouthwashes reduce inflammation; honey-based raises caries concern. CHX varnish unnecessary unless mechanical plaque control is hindered.
+
+=== CONCLUSIONS ===
+
+Gingivitis among children and adolescents without known systemic disorder involvement was common and influenced by a complex interplay of biological, behavioural and sociodemographic determinants. Socioeconomic disadvantage, inadequate oral hygiene, limited oral health knowledge, pubertal changes and malocclusions contribute. Effective prevention/management should be based on early-life interventions focusing on education and behavioural changes, delivered through schools and caregivers. Supervised toothbrushing remains the cornerstone of gingivitis control, with selective adjunctive use of antimicrobial mouthwashes showing additional benefit.
