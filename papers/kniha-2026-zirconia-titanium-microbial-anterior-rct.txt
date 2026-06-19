@@ -1,0 +1,106 @@
+Title: Microbial evaluation of zirconia and titanium implants in the anterior mandibula: a randomized controlled clinical trial
+
+Authors: Kniha K, et al.
+Year: 2026
+PMID: 42230722
+PMCID: PMC13230837
+DOI: 10.1038/s41598-026-54915-0
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13230837/
+
+=== ABSTRACT ===
+
+To evaluate the effect of the implant material—either titanium or zirconia—on the development of bacterial deposits. In this one-year prospective split-mouth study, 20 patients with an edentulous lower jaw were treated with two zirconia and two titanium implants. Clip attachments were used for the removable denture. During the follow-up period, fluid samples were taken from around each patient's implants and natural teeth to analyze the microbiota using DNA isolation, amplicon sequencing, and downstream analysis. Between the different time points, for the titanium material, the relative abundance of Actinomyces israelii increased significantly (p = 0.009) after 12 months when compared with the baseline. When comparing the different time points for each material, a significant decrease in the phyla Fusobacteria (p = 0.03) and Proteobacteria (p = 0.03) after six months versus baseline was detected for only zirconia, whereas the abundance of Firmicutes was significantly increased (p = 0.03). When comparing the different materials at each time point, the phylum Actinobacteria was found to be less abundant after 12 months on the zirconia implants than on the titanium implants (p = 0.04). By contrast, on the zirconia material, the relative abundance of the genus Leptotrichia decreased significantly after six months when compared with the baseline, while no significant changes in terms of this genus were found for the titanium implants or teeth over time. Zirconia tended to show less abundant bacterial deposits over time. The microbial diversity was lower on the titanium implants than on the ceramic material after 12 months. In addition, after 12 months of evaluation, neither the teeth nor the implants showed similar prevalences or levels of the target species.
+
+=== FULL TEXT ===
+
+Introduction
+
+Dental implants have revolutionized modern dentistry by providing a durable, functional, and aesthetically pleasing solution for replacing missing or damaged teeth. Titanium has been available since the 1960s and is established as the gold standard, supported by literature showing 10-year survival rates of over 90%. Ceramic (zirconia) implants represent an alternative with growing popularity, particularly for aesthetic demands and reduced material release to surrounding tissues.
+
+Study aim: To evaluate the effect of implant material (titanium vs zirconia) on bacterial deposit development in mandibular overdenture patients. Null hypothesis: no differences in microbial composition and diversity between titanium and zirconia implants over time.
+
+Materials and Methods
+
+Design: One-year prospective split-mouth study (RCT with balanced computerized randomization).
+Ethics: Ethics Committee, Faculty of Medicine, RWTH Aachen University (EK 180/19).
+n: 20 patients (entirely edentulous lower jaw); 18 completed 12-month follow-up (2 dropouts).
+
+Inclusion: Completely edentulous lower jaw.
+Exclusion: Systemic disease (e.g., uncontrolled diabetes), smoking, untreated periodontitis/gingivitis, severe bruxism.
+
+Implants:
+- Zirconia: PURE Ceramic Implant, 4.1 mm diameter (Straumann GmbH, Freiburg, Germany)
+- Titanium: TL SLactive, 4.1 mm diameter (Institut Straumann AG, Basel, Switzerland)
+- Length: 8-12 mm; 4 implants per patient (2 zirconia + 2 titanium), mandibular inter-foramina region
+- Retention: PUREloc (zirconia) and Novaloc locators (titanium) clip attachments for overdenture
+
+Surgical procedure: Standard two-stage protocol (unloaded healing 3 months -> loading).
+Randomization: Balanced computerized randomization for side assignment (right vs left) for each material pair.
+
+Sampling timepoints:
+- T0: 3 months post-insertion (after osseointegration)
+- T1: 6 months post-insertion
+- T2: 12 months post-insertion
+Control: Supragingival plaque from natural teeth in upper jaw.
+
+Microbiome analysis:
+- DNA isolation: DNeasy Blood and Tissue Kit (Qiagen)
+- Sequencing: 16S rRNA V1-V3 amplicon sequencing (Eurofins Genomics, Konstanz, Germany)
+- Bioinformatics: QIIME2 framework; DADA2 for denoising; SILVA 138 reference database; naive Bayes classifier
+- Phylogenetics: MAFFT alignment; FastTree phylogenetic tree
+- Downstream analysis: R/RStudio with phyloseq; alpha diversity (Shannon-Wiener index, richness, Pielou's evenness); beta diversity (Bray-Curtis / NMDS); differential abundance: MaAsLin2 (selected from 14-test evaluation via ROC performance on synthetic datasets), Benjamini-Hochberg correction; sensitivity analysis (bootstrapping, 200 repetitions)
+
+Sample size: G*Power calculation; matched pairs t-test; effect size 0.71, power 80%, alpha 0.05 -> 18 patients -> 20 with 8% dropout buffer.
+
+Results
+
+Overall alpha diversity:
+- Both zirconia and titanium: microbial diversity (Shannon index) increased significantly at 12 months vs baseline and T1.
+- Natural teeth: no significant diversity change over study period.
+- At T2: titanium had significantly LOWER microbial diversity than zirconia (p < 0.05).
+- Evenness (Pielou): titanium significantly lower at T2 vs T1; at T0 titanium lower than zirconia; at T2 natural teeth lower than zirconia.
+
+Beta diversity:
+- No significant differences in microbial community composition between materials at any time point (PERMANOVA NS).
+- No systematic change in beta diversity over time for any material.
+
+Phyla detected (top 5 by relative abundance, all materials):
+- Firmicutes: 39.02 +/- 25.29%
+- Actinobacteria: 24.03 +/- 22.58%
+- Bacteroidetes: 17.71 +/- 16.2%
+- Proteobacteria: 11.87 +/- 15.05%
+- Fusobacteria: 5.06 +/- 7.26%
+
+Phylum-level temporal changes (within-material):
+- Zirconia: Fusobacteria down (p=0.03), Proteobacteria down (p=0.03) at T1 vs T0; Firmicutes up (p=0.03) at T1 vs T0
+- Titanium: No significant phylum-level temporal changes
+- Natural teeth: No significant phylum-level changes
+
+Phylum-level material comparison:
+- At T2: Actinobacteria less abundant on zirconia than titanium (p=0.04)
+
+Key genus-level findings:
+- Zirconia: Leptotrichia significantly decreased at T1 vs T0 (p-adj = 0.022)
+- Titanium: no significant genus-level temporal changes
+
+Species-level temporal changes (MaAsLin2, Benjamini-Hochberg corrected):
+- Titanium: Actinomyces israelii increased significantly at T2 vs T0 (p-adj = 0.009)
+- Titanium: one species increased at T1 vs T0 (p-adj = 0.039); one species decreased at T1 vs T0 (p-adj = 0.033)
+- Zirconia: none of the above species changed significantly
+
+Microbial community composition (genus level top 10):
+- Zirconia top genera: Streptococcus (~22.99%), Rothia (~12.32%), Prevotella (~7.33%), Neisseria (~7.33%), Leptotrichia (~3.70%), others
+- Titanium top genera: Streptococcus (~21.78%), Rothia (~25.63%), Neisseria (~8.11%), Prevotella (~4.94%), others
+
+Red complex pathogens (Porphyromonas gingivalis, Tannerella forsythia, Treponema denticola): lower relative abundance on zirconia vs titanium sites.
+
+Conclusions
+
+- Null hypothesis rejected: significant differences in microbial composition and diversity between titanium and zirconia over time.
+- Zirconia: tended toward less abundant bacterial colonization and higher microbial diversity at 12 months vs titanium.
+- Titanium: lower microbial diversity at 12 months vs zirconia; Actinomyces israelii increase at 12 months.
+- No definitive clinical superiority of either material -- findings are exploratory/descriptive only.
+- Beta diversity: no significant inter-material differences at any time point.
+- Natural teeth had highest overall microbial diversity throughout (complex mature biofilm).
+
+Key limitation: Supragingival sampling only; no subgingival analysis (peri-implantitis predominantly subgingival). Also: no formal clinical outcomes (probing depth, BOP, plaque index) reported here (separate analysis). 16S rRNA limited species-level resolution.
