@@ -1,0 +1,329 @@
+Introduction
+
+Maxillary constriction is a common orthodontic problem influenced by genetic and functional factors. Inadequate functional stimulation during childhood may lead to transverse discrepancies and malocclusions, such as posterior crossbites, potentially affecting occlusion, facial aesthetics, and masticatory function []. Diagnosis of maxillary transverse deficiency relies on clinical and model-based analyses, as conventional radiographic methods present limitations and CBCT is not routinely indicated due to radiation exposure and cost [,].
+
+Treatment depends on severity and etiology. Mild transverse discrepancies may be managed with dentoalveolar expansion, whereas moderate to severe cases with skeletal involvement generally require early orthopedic intervention to optimize outcomes [,]. Although conventional expanders have historically been the standard approach, their effectiveness is strongly influenced by skeletal maturity.
+
+In recent years, clear aligners have gained popularity due to their aesthetics and comfort. However, their use in growing patients remains an emerging and insufficiently explored field. Most available studies have focused on adults or on specific orthodontic movements rather than true transverse skeletal correction []. Unlike conventional expanders, aligners primarily produce dentoalveolar expansion through buccal tipping and limited translation [], and their capacity to generate skeletal effects in growing patients remains unclear.
+
+The Invisalign First® system has generated particular interest for interceptive treatment, yet clinical evidence regarding its effectiveness and predictability in maxillary expansion during growth is scarce and heterogeneous. While some investigations have relied on digital simulations or finite element models [], few studies have provided robust clinical comparisons between planned and achieved outcomes [].
+
+Given the limited and variable evidence currently available—particularly in growing patients—there is a clear need for a systematic review synthesizing the existing data. The objective of this study is therefore to evaluate the predictability and effectiveness of clear aligners in maxillary expansion in growing patients, providing a critical appraisal of the current evidence and contributing to more evidence-based clinical decision-making in interceptive orthodontics.
+
+Material and methods
+
+Preliminary search and protocol registration.
+
+This systematic review was conducted in accordance with the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) [] statement and registered in PROSPERO (registration number: CRD420250608558).
+
+Research question
+
+A comprehensive literature search was conducted to identify all available information on the predictability and effectiveness of clear aligners in maxillary expansion in growing patients. This was done to answer the PICO question: ‘In growing patients requiring maxillary expansion, are clear aligners as predictable and effective as conventional maxillary expanders in achieving transverse maxillary arch development?’
+
+Eligibility criteria
+
+The following eligibility criteria were applied:
+
+Exclusion criteria: included studies that did not report data related to the PICO research question, systematic reviews, non-systematic reviews, case series and case reports, and in vitro studies.
+
+Information sources
+
+To conduct the electronic search for articles, five databases related to the field of health sciences were used as sources of information: PubMed-Medline, Scopus, Embase, Web of Science, and Cochrane. In addition, the reference lists of the included studies were manually reviewed to identify and evaluate articles not found in the databases that might meet the inclusion criteria. The search was conducted until 29 October 2025, with the aim of identifying the most recently published studies and ensuring the inclusion of those of interest.
+
+Search strategy
+
+The search strategy included four MeSH (Medical Subject Headings) terms: ‘Maxillay expansion’ ‘Mixed dentition’, ‘Children’, and ‘Adolescents’, and eight uncontrolled descriptors: ‘Transversal changes’, ‘Transverse expansion’, ‘Growing patients’, ‘Predictability’, “Accuracy”, ‘Invisible aligners’, ‘Clear aligners’, and ‘Invisalign’.
+
+The terms were divided into two groups: four main keywords present in the PICO question and eight secondary keywords related to the main ones, thus broadening the search range for articles.
+
+The terms were interconnected using the Boolean operators “OR” and “AND” to cross-reference the different groups. The following search equation was used:
+
+("maxillary expansion" OR "transverse expansion" OR “transversal changes”) AND ("clear aligners" OR "invisible aligners" OR "Invisalign" OR “aligners” OR “Invisalign First System®”) AND ("mixed dentition" OR "growing patients" OR "children" OR "adolescents”).
+
+The selection of articles retrieved from the databases was carried out in accordance with the standards established in the PRISMA Statement. A series of consecutive phases was proposed to determine which studies were suitable for inclusion in the final data collection.
+
+Study selection
+
+The initial step consisted of searching for articles in several databases, which resulted in the retrieval of a specific number of articles. The articles were then exported to Zotero software for the purpose of identifying duplicate studies. After removing duplicates, a systematic review of the study titles was conducted by two calibrated authors (LF and NZ-M).
+
+Once this first stage was complete, the abstracts were read to determine their relevance. In the event of a discrepancy, a third author (CB-A) was consulted to reach a consensus. Subsequently, a thorough review of the full texts of the articles in question was carried out to ensure that they met the ideal requirements for inclusion in the results table. Some articles were excluded from further analysis because they lacked the necessary data for inclusion or did not answer the PICO question.
+
+Data collection process
+
+Information was extracted from each selected article using a set of predefined variables, including: author, year of publication, type of study, sample size, demographic variables of participants (gender and age), type of records and measurement protocol, aligner change rate, wear time and treatment duration, fixed or expansion appliance protocol, outcomes, and risk of bias.
+
+Risk of bias assessment and quality in individual studies.
+
+The quality of the included studies and the risk of bias were assessed using two tools: ROBINS-I (Risk Of Bias In Non-Randomised Studies), to assess the risk of bias in non-randomised studies (NRS), and Rob2 (Risk of Bias 2), designed to assess randomized clinical trials (RCTs) [].
+
+ROBINS-I assesses the risk of bias across seven domains, assigning a value (low, moderate or high) to determine the degree of risk based on design and methodology. Rob2, on the other hand, includes five domains that are measured with risk values (low, some concerns or high), allowing the identification of possible biases derived from the methodology of clinical trials. Both tools allow a level of risk of bias to be assigned in each domain, which facilitates the assessment of the quality and validity of the studies included in the review. Agreement in the risk of bias assessments was evaluated using Cohen’s kappa coefficient. The intra-examiner reliability showed a kappa value of 0.78 (95% CI 0.60–0.96), while the inter-examiner agreement reached 0.72 (95% CI 0.51–0.91), indicating substantial consistency in the evaluations.
+
+The certainty of the evidence was assessed using the GRADE Working Group methodology, following the recommendations described in Chapter 14 of the Cochrane Handbook for Systematic Reviews of Interventions. The evaluation was performed independently by the reviewers using the GRADEpro GDT (McMaster University, 2020). For each critical and important outcome (predictability, quantity of expansion, total palatal area, total palatal volume, arch perimeter, and arch depth), the certainty of the evidence was rated across the five GRADE domains: risk of bias, inconsistency, indirectness, imprecision, and publication bias.
+
+Data synthesis and analysis
+
+A meta-analysis was performed using a random effects model and the inverse variance method to estimate the difference in means between aligner treatment and expander treatment for eight variables (C–C distance, 6–6 distance, D–D distance, E–E distance, total palatal area, total palatal volume, arch perimeter, and arch depth). The difference in means was considered as a measure of effect size, and its statistical significance was evaluated using the Z-test, considering a-value < 0.05 as statistically significant.
+
+Heterogeneity among the included studies was quantified using the Istatistic, with the following categorisation: 0–25% indicates no heterogeneity; 25–50% low heterogeneity; 50–75% moderate heterogeneity; and 75–100% high heterogeneity. The results were represented graphically using a forest plot.
+
+The Trim and Fill method was used to assess publication bias, which allows for adjustment of the asymmetric distribution of the funnel plot. The possible existence of publication bias was also examined visually using the funnel plot itself and statistically using Egger's test, considering a-value < 0.05 to be significant.
+
+Results
+
+Study selection and flow diagram
+
+In the preliminary electronic search, a total of 267 references were identified, of which 12 were from PubMed, 213 from Scopus, 12 from Embase, 20 from Web of Science, and 10 from Cochrane. After removing duplicates (n = 33), the titles and abstracts of 234 studies were evaluated for relevance. A total of 212 articles were excluded from further consideration due to lack of full-text availability, incomplete study design, or failure to meet the established inclusion criteria. The full texts of 22 studies were read and assessed independently. Subsequently, 8 articles were excluded because they did not provide precise answers to the proposed PICO question or did not meet the inclusion criteria. On the other hand, 4 studies were identified through manual searching, of which 3 were excluded for not conforming to the PICO question or the inclusion criteria. The reasons for the exclusion of the articles in question were duly recorded (Supplementary table 1).
+
+A total of 15 studies were ultimately included in the review. The process of selecting studies for inclusion is presented in detail in the PRISMA 2020 flow diagram (Fig.).
+
+Characteristics of the included studies
+
+The variables collected from the 15 articles included in this review (author/year, type of study, sample size indicating age and gender, type of record and measurement protocol, aligner change rate, wearing time and treatment time, fixed or expansion appliances and protocol, outcome data and risk of bias) are listed in Table.
+
+In terms of study type, the 15 articles included were of three main varieties: one was a randomized controlled clinical trial [], twelve were retrospective studies [,–,,–] and two were prospective studies [,]. The 15 selected studies were published between 2021 and 2024. Of the 776 participants analysed, 342 were males and 383 were females. The mean age of the subjects in all studies was approximately 8.68 years.
+
+Regarding the type of appliance used, most studies have analysed the use of Invisalign First® removable aligners, [,–]. In addition, some studies have compared Invisalign First® with other expansion devices. Bruni et al. [] and Cretella Lombardo et al. [] evaluated Invisalign First® in conjunction with rapid maxillary expansion (RME). Similarly, Moravedje Torbaty et al. [] analysed Invisalign First® in combination with a Hyrax-type expander, while Wang et al. [] studied it with a Haas-type expander. On the other hand, Pamukçu et al. [] compared it with a removable acrylic expander (RE), and Silvestrini-Biavati et al. [] examined its use with the Leaf Expander.
+
+The types of records used for measurements in various studies were very diverse. Most studies used intraoral digital stereolithographic (STL) models [,–,,] or plaster models [] of the subjects' arches, which they subsequently scanned and measured digitally before and after treatment. One study used a combination of lateral teleradiographs or CBCT with pre- and post-treatment digital models to evaluate the effectiveness of movements [], while another used lateral teleradiographs and digital study models to evaluate the predictability of movements [].
+
+In order to make the comparison and evaluate the discrepancies between actual and predicted movements, most authors used Clincheck® or similar specifically designed softwares [,,,–,–].
+
+With regard to measurement protocols, a significant group of studies agreed to use dental and anatomical landmarks to measure intercanine width, intermolar width, and arch perimeter. These included those that used digital models to measure intercanine width, interdeciduous width and intermolar width at different levels (mesial, distal and transpalatal) [–,,]. In addition, some of these studies expanded these measurements with three-dimensional analyses to calculate the surface area and volume of the palate, subdividing the areas into anatomical segments [,].
+
+Other studies incorporated measurements related to specific tooth parameters, such as gingival diameters and cusp diameters of canines, primary and permanent molars, as well as molar inclination and alveolar changes [,,]. These parameters were complemented in some cases by assessments of the rotation and inclination of the first permanent molars [] or the buccolingual inclination of the molars [,]. In the case of the article by Gonçalves et al. [], standardized dental reference points were used, such as the tips of the cusps of permanent and deciduous molars, deciduous canines, and premolars; Kim et al. [] used only key points on permanent and deciduous molars and canines to measure arch width. In addition, the study by Lin et al. [] added the measurement of the labial surface and torque of incisors, projecting lines onto the sagittal plane.
+
+Other studies applied more specific techniques to evaluate changes in the shape of the upper arch, such as geometric morphometric analysis (GMM) [] or measurement protocols based on three-dimensional delimitation of the palatal volume and surface using key anatomical landmarks []. Similarly, the study by Kai et al. [] focused on the digital measurement of intermolar and intercanine distances using 3D models and CBCT. On the other hand, Moravedje Torbaty et al. [] used fifteen cephalometric measurements and, in digital models, measured the tips of the cusps of the deciduous canines and the central fossae of deciduous and permanent molars.
+
+With regard to the use of traditional appliances, most studies used fixed expansion appliances [,,,,,], except Pamukçu et al. [], who used a removable acrylic expander.
+
+In terms of activation sequence for traditional appliances, the authors followed defined activation protocols that varied between faster expansion sequences (0.45 mm per day [], 0.25 mm per day [,] or 0.25 mm twice a day []); and slower sequences (0.25 mm every two days []). In both cases, the goal was to achieve a cusp-to-cusp relationship or an overcorrection similar to that sought with aligners. Also noteworthy is the use of removable expanders with 0.25 mm expansion per week [] and other specific expanders such as the Leaf Expander, which was activated every 6 weeks by the orthodontist, without specifying the mm of expansion [].
+
+The duration of treatment varied depending on the type of appliance used. Bruni et al. [] reported a duration of 9.61 months with the Hyrax, Cretella Lombardo et al. [] reported 8 months with the butterfly palatal expander, and Lu et al. [267] reported 6 months with the acrylic splint expander. Moravedje Torbaty et al. [] used the Hyrax for 1.22 ± 0.46 years, while Wang et al. [] used the Haas type expander for 0.98 ± 0.51 years. In these last two studies, a control group was also included, observed for 1.32 ± 0.51 years and 1.22 ± 0.56 years, respectively. Silvestrini-Biavati et al. [] reported that the Leaf Expander was used for a period of between 8 and 10 months. Regarding removable expanders, Pamukçu et al. [] reported a treatment time of 8.86 ± 5.67 months with a removable acrylic expander, which is usually used full-time, according to the authors themselves.
+
+In treatments with Invisalign First®, expansion was generally performed following a sequential protocol [,,–], where permanent molars are moved first, followed by deciduous teeth. The amount of expansion per aligner ranged from 0.15 to 0.25 mm [,,,]. In the study by Gonçalves et al. [], the average expansion was 0.15–0.25 mm per aligner. In studies such as Kai et al. [] and Lu et al. [], the amount of expansion per aligner is not mentioned. Some authors specify a planned total expansion, such as 4 to 6 mm [], 4.1 mm ± 1.4 mm [], or specific values per tooth, such as 3.72 mm in deciduous canines, 4.52 mm in first permanent molars, and 4.37 and 4.50 mm in first and second deciduous molars, respectively [].
+
+Some expansion protocols with aligners included the use of attachments and optimised activations (SmartForce) to improve the effectiveness of tooth movement [,,]. Most studies only analysed the first set of aligners, without mentioning refinements [,,,,,–]. In contrast, some studies did report additional refinements or adjustments: Loberto et al. [] observed that all patients required at least two additional sets to achieve expansion goals; Kai et al. [] mentioned that patients received between 1 and 6 sets of aligners (average of 2.44 sets throughout treatment), and expansion measurements were taken from the last active aligner of the last refinement accepted in ClinCheck®; Lin et al. [] indicated that 14 of 21 patients required a new scan due to the eruption of permanent teeth; Lione et al. [] mentioned that four patients required additional aligners due to the eruption of the lateral incisors; and finally, Levrini et al. [] and Wang et al. [] reported refinement with a mean time of 1.02 ± 0.36 years, although without specifying how many additional sets were used or what modifications were made.
+
+In most studies, the authors prescribed a weekly change of aligners, except in some cases [,], where the first aligner was used for 14 days before adopting the weekly change. Likewise, the recommended daily wear time was 22–24 h, removing them only during meals and oral hygiene. However, in the study by Pamukçu et al. [], the use was limited to 20 hours per day. In specific cases, such as in the Moravedje Torbaty et al. [] study, patients were limited to using aligners at night and after school. The average duration of treatment ranged from 6 to 10 months, although some studies highlighted longer durations, 18 months in the study by Gonçalves et al. [], 13.44 months was the estimate and 10.11 was the actual average in the case of Kai et al. [], 15 + 2 months in Loberto et al. study [], 1.19 ± 0.45 years in Moravedje Torbaty et al. study [] and 1.02 ± 0.36 years in Wang et al. study [].
+
+Risk of bias in included studies
+
+The studies evaluated using the ROBINS I scale were considered to have a ‘MODERATE’ risk of bias in the final score, except for the study by Kim et al. [], which had a “LOW” risk score. The variables that received the highest ‘MODERATE’ score were the domains of confounding and participant selection (Fig.).
+
+The only study evaluated using the Rob2 scale was Bruni et al. [], whose overall score was ‘SOME CONCERNS’. The data were presented using the robvis visualisation tool (Fig.).
+
+The overall GRADE rating of the quality of evidence has been reported in Supplementary Table II.
+
+Randomized clinical trials were initially considered as high-certainty evidence and observational studies as low-certainty evidence; however, ratings were downgraded when serious or very serious concerns were identified, particularly in the risk of bias domain due to the predominance of non-randomized and retrospective designs. Inconsistency was assessed based on heterogeneity (Ivalues) and overlap of confidence intervals, indirectness according to population and intervention comparability, and imprecision considering sample size and width of confidence intervals.
+
+The GRADE assessment showedfor, based on 10 observational studies (n = 487), downgraded due to serious risk of bias, mainly related to confounding and participant selection. For the(7 studies; n = 333), certainty was also, with a mean difference of − 1.77 mm (95% CI − 2.57 to − 0.97), downgraded due to risk of bias, including one RCT with some concerns.(2 studies; n = 85) showed, downgraded for risk of bias and imprecision, with wide confidence intervals (48.15 mm; 95% CI − 104.07 to 7.76).(2 studies; n = 85) reached, with a significant mean difference of − 460.63 mm(95% CI − 738.32 to − 182.94). Both(2 studies; n = 102) and(2 studies; n = 68) were rated as, mainly due to very serious risk of bias from retrospective designs, although inconsistency and indirectness were not considered serious. No publication bias was detected across outcomes.
+
+Effects of interventions
+
+A summary of the main findings of the included studies is given in Table. Results were organized according to predictability and quantity of expansion measured according to different parameters such as intercanine and intermolar distances, total palatal area, total palatal volume, arch perimeter and arch depth.
+
+Predictability
+
+Regarding the predictability of expansion with Invisalign First®, the percentage varied according to different studies. Gonçalves et al. [] reported an expansion predictability of 62.6% ± 18.3% in the upper arch, which varied according to tooth type. The upper second premolar showed the highest predictability, reaching 72.2%, while the lowest was observed in the upper temporary canine, with 55.2% ± 21.2%. The upper first deciduous molar had a predictability of 60.7% ± 13.4%, followed by the upper first premolar with 63.0% ± 14.7%. The upper second deciduous molar showed a predictability of 63.3% ± 15.4%, and the upper first permanent molar reached 61.1% ± 26.8%.
+
+In the study by Kai et al. [], ClinCheck® estimated an expansion of 5.22 mm in the maxillary molars, but the actual expansion was 2.67 mm, representing 51.15% of the expected value. For the maxillary primary canines, the planned expansion was 5.88 mm, while the actual expansion was 3.80 mm, reaching 64.73% of the predicted value. In a particular case where no intercanine expansion was planned, 100% compliance with the plan was achieved, with no variations in the intercanine dimension.
+
+Kim et al. [] found a predictability of 63.85% (±21.47) for the maxillary arch, with specific values for the primary canines (71.1% ±19.5), first primary molars (67.5% ±18.1), second primary molars (65.2% ±17.4) and first permanent molars (53.4% ±25.8). In addition, they reported that the predictability of expansion in first permanent molars improved significantly when one or two buccopalatal attachments were added (= 0.017 and< 0.001, respectively).
+
+The study by Levrini et al. [] reported higher predictability at the cusp level than at the gingival level. At the cusp level, predictability was 59.68% in deciduous canines, 63.77% in deciduous first molars, 66.99% in deciduous second molars and 55.61% in permanent first molars. At the gingival level, the values were lower, with a predictability of 49.87% in deciduous canines, 53.11% in first deciduous molars, 53.36% in second deciduous molars, and 45.16% in first permanent molars.
+
+Lione et al. [] reported a predictability of 83% for the first permanent molar, 81% for deciduous canines, 79% for second deciduous molars, and 77% for first deciduous molars.
+
+Loberto et al. [] analysed predictability at two points in time: at the end of the first set of aligners (T1-CC) and at the end of treatment (T2-CC). Regarding the predictability of expansion in the T1-CC period, the first deciduous molars achieved 46.44% of the planned expansion with a difference of -2.93 mm (≤ 0.001), the second deciduous molars 44.95% with -3.05 mm (≤ 0.001) and the deciduous canines 43.34% with -2.34 mm (≤ 0.001). In the first permanent molars, predictability was 39.27% in mesial expansion ( − 3.31 mm,≤ 0.001), 35.95% in distal expansion ( − 2.37 mm,≤ 0.001) and 23.94% in transpalatal expansion ( − 2.70 mm,≤ 0.001). In the T2-CC period, the second deciduous molars achieved 70.76% of the expected expansion with − 1.62 mm (≤ 0.001), the deciduous canines achieved 67.31% with − 1.35 mm (≤ 0.001), and the first deciduous molars achieved 65.08% with − 1.91 mm (≤ 0.001). For the first permanent molars, predictability was 58.92% in distal expansion ( − 1.52 mm,≤ 0.001), 54.86% in mesial expansion ( − 2.46 mm,≤ 0.001) and 49.58% in transpalatal expansion ( − 1.79 mm,≤ 0.001).
+
+The study by Lin et al. [] reported a significant increase in intermolar distance, from 40.55 ± 2.18 mm before treatment to 43.57 ± 2.09 mm after treatment (< 0.05). The designed expansion was 4.1 ± 1.4 mm, while the achieved expansion was 3.0 ± 1.7 mm. In addition, the torque expression rate in the anterior superior teeth reached 56.53%.
+
+Pamukçu et al. [] reported an expansion predictability of 70.28% ± 12.51% (< 0.0001) in canines and 34.12% ± 18.63% (< 0.0001) in molars.
+
+Moravedje Torbaty et al. [] found that maxillary expansion predictability in the group treated with Invisalign First®, compared to the targets planned in ClinCheck®, varied according to the arch region. The highest predictability was observed in the intercanine width (C–C), with 76.87% ± 22.8. This was followed by the width between the first primary molars (D–D), with 65.12% ± 17.42. In the posterior region, the width of the second interdeciduous molars (E–E) reached 62.23% ± 16.17, while the intermolar width (6–6) showed the lowest predictability, with 52.3% ± 23.27 compared to the planned target.
+
+Finally, Cretella Lombardo et al. [] found that in the group treated with Invisalign®, 78.5% of the changes in shape were explained by the first three principal components (the first explained 63.5%). In this case, changes were observed both in the lateral sectors (canines and deciduous molars) and in the anterior region of the arch, where there was a more physiological alignment of the incisors. In the RME-treated group, 82.8% of the total change in arch shape could be explained by the first four principal components (the first being the most relevant, with 62.7%). The changes were mainly located in the posterior region of the arch (at the level of the permanent molars), with no significant variations in the anterior region.
+
+Quantity of expansion
+
+In order quantify the amount of expansion achieved, a meta-analysis was conducted combining data from seven studies that compared the results of transverse expansion values obtained with clear aligners and with different types of traditional expansion appliances [,,,–]. Values for the intercanine (C–C) and intermolar (6–6) distances, the distances between the first (D–D) and second primary molars (E–E), as well as the total palatal area and volume, and the arch perimeter and depth were analyzed and compared.
+
+C–C distance
+
+The intercanine distance values reported in seven studies were analysed [,,,–], comparing the difference in means of this measurement (C–C) between treatments performed with aligners (n = 161) and expanders (n = 172). The estimated mean difference was − 0.74 mm, indicating that treatment with aligners generates less transverse expansion in the canine region compared to expanders. This difference was not statistically significant (95% CI (confidence interval): [ − 1.68; 0.20]; Z-test = − 1.54,= 0.123). The fact that the confidence interval includes the value zero, together with a-value greater than 0.05, confirms the absence of statistical significance (Fig.).
+
+The expansion values achieved by the authors varied depending on the type of treatment used. Bruni et al. [] indicated that treatment with Invisalign First® generated an expansion of 3.52 ± 2.17 mm, while treatment with RME produced an increase in intercanine width of 4.22 ± 1.50 mm. Similarly, Lu et al. [] found that Invisalign First® achieved an intercanine expansion of 1.89 ± 1.56 mm, compared to 4.18 ± 2.01 mm obtained with RME. In the study by Cretella Lombardo et al. [], however, a greater mean intercanine expansion was observed with Invisalign® (3.30 ± 1.50 mm) than with RME (1.80 ± 1.10 mm).
+
+Moravedje Torbaty et al. [] reported very similar values between the two groups: an intercanine expansion of 3.69 ± 1.24 mm with Invisalign First® and 3.70 ± 1.89 mm with the Hyrax expander. In the study by Pamukçu et al. [], treatment with Invisalign First® (achieved an expansion of 2.14 ± 1.66 mm, while the removable expander (RE) produced an increase of 3.49 ± 2.91 mm. Similarly, Silvestrini-Biavati et al. [] reported that, after using Invisalign First®, there was an intercanine expansion of 4.7 ± 2.3 mm, while with the Leaf Expander, the increase recorded in the deciduous canines was 5.6 ± 1.9 mm. Finally, Wang et al. [] found that the Invisalign First® system produced an increase in intercanine width of 3.10 ± 1.29 mm, while slow maxillary expansion (SME) resulted in an increase of 4.77 ± 0.92 mm.
+
+In terms of heterogeneity, the analysis showed a value of I= 85.6%, indicating high heterogeneity. This suggests that the estimates from the different studies are not consistent with each other.
+
+To explore the possibility of publication bias, the Trim-and-fill method was applied, adding one study to correct the asymmetry of the funnel plot. After this adjustment, the new estimate was: Mean difference = − 0.507 mm (95% CI = [ − 1.44; 0.426]; Z-test = − 1.07,= 0.28). Given that the confidence intervals of the original and adjusted funnel plots overlap, there is no substantial difference between the two estimates, ruling out the presence of publication bias. Furthermore, Egger's test yielded an intercept of -0.616, with a confidence interval of [ − 8.2; 6.97] and a-value = 0.87, reinforcing the conclusion that there is no publication bias in this variable.
+
+Intermolar distance 6–6
+
+Regarding intermolar distance, data from seven studies [,,,–], comparing the mean of this measurement (6–6) between patients treated with aligners (n = 161) and expanders (n = 172) were included. The calculated mean difference was − 1.77 mm, indicating that aligners produced significantly less transverse expansion at the molar level compared to expanders. This difference was statistically significant, as shown by the following values: 95% CI [ − 2.57; − 0.97]; Z-test = − 4.35,< 0.0001. The exclusion of the zero value in the confidence interval, together with a-value of less than 0.05, confirms the statistical significance of the result (Fig.).
+
+The expansion values achieved by the authors were also disparate in terms of intermolar width increase. In the study by Bruni et al. [], the expansion obtained with Invisalign First® was 3.22 ± 2.43 mm, while with the RME, an expansion of 4.10 ± 1.70 mm. Similarly, Lu et al. [] recorded intermolar expansion of 2.43 ± 1.42 mm with Invisalign First®, compared to 5.32 ± 1.13 mm achieved with RME.
+
+In the research by Cretella Lombardo et al. [], the expansion was 3.30 ± 0.70 mm with aligners, compared to 3.60 ± 1.70 mm obtained with RME. Moravedje Torbaty et al. [] observed that Invisalign First generated an expansion of 2.47 ± 1.17 mm, while the Hyrax appliance produced an expansion of 4.40 ± 1.38 mm.
+
+In the study by Pamukçu et al. [], the intermolar expansion obtained with Invisalign First® was 2.19 ± 2.94 mm, compared to 4.59 ± 3.80 mm achieved with a removable expander. On the other hand, Silvestrini-Biavati et al. [] reported an expansion of 3.2 ± 1.2 mm with Invisalign First®, compared to 4.4 ± 1.4 mm achieved with the Leaf Expander.
+
+Finally, Wang et al. [] found that Invisalign First® allowed for an expansion of 1.95 ± 1.61 mm, while slow maxillary expansion (SME) achieved an increase of 4.76 ± 1.27 mm.
+
+The heterogeneity analysis revealed an I= 80%, representing considerable variability between studies. This high value suggests that there are relevant discrepancies between the included studies, possibly related to clinical or methodological differences.
+
+To assess the existence of publication bias, the Trim-and-fill method was applied, which did not impute additional studies, indicating symmetry in the funnel plot. Given that the confidence intervals of the original and adjusted analyses were identical, the presence of publication bias was ruled out.
+
+On the other hand, Egger's test yielded an intercept of − 0.321, with a confidence interval of [ − 5.49; 4.85] and a-value = 0.90, further supporting the absence of publication bias in this variable.
+
+Distance D–D
+
+In this case, data from three studies were analysed [,,] in order to calculate the difference in means in the D–D distance between treatments with aligners (n = 85) and expanders (n = 95). The mean difference obtained was 0.14 mm, suggesting a slightly greater expansion with aligners. However, this difference was not statistically significant (95% CI [ − 1.08; 1.37]; Z-test = 0.23,= 0.821). The confidence interval includes the zero value and the-value is greater than 0.05, confirming the lack of statistical significance (Fig.).
+
+The expansion values achieved in the first primary molars (D–D) also varied depending on the type of appliance used. In the study by Cretella Lombardo et al. [], treatment with Invisalign First® produced an expansion of 3.90 ± 1.20 mm, while RME produced an expansion of 2.50 ± 1.30 mm. Moravedje Torbaty et al. [] observed an expansion of 3.75 ± 1.31 mm with Invisalign First®, slightly lower than that achieved with the Hyrax expander, which was 3.99 ± 1.69 mm. Finally, Silvestrini-Biavati et al. [] recorded an expansion of 4.8 ± 1.7 mm with Invisalign First® and 5.5 ± 1.8 mm with the Leaf Expander.
+
+Regarding heterogeneity, the analysis showed an I= 85%, representing a high level of variability among the included studies. This degree of dispersion suggests that individual results differ substantially.
+
+To explore the possible presence of publication bias, the Trim-and-fill method was used, which did not identify the need to add studies to correct the asymmetry of the funnel plot. As there were no changes in the estimate or its confidence interval, the existence of publication bias can be ruled out.
+
+Complementarily, Egger's test provided an intercept of 7.662, with a confidence interval of [ − 22.46; 37.78] and a-value of 0.70, which reinforces the absence of publication bias in this variable.
+
+Distance E–E
+
+In order to evaluate the effects of orthodontic treatment on the distance between the second primary molars (E–E), data from three studies were grouped together [,,], evaluating the difference in means in the E–E distance between treatments with aligners (n = 85) and expanders (n = 95). The mean difference was -0.38 mm, indicating slightly less expansion with aligners. This difference was not statistically significant (95% CI [ − 1.16; 0.40]; Z-test = − 0.90,= 0.341). Since the confidence interval includes zero and the-value far exceeds the threshold of 0.05, the absence of statistical significance is confirmed (Fig.).
+
+Cretella Lombardo et al. [], reported an expansion of 4.10 ± 1.30 mm with Invisalign First®, compared to 3.60 ± 1.20 mm with RME. Similarly, Moravedje Torbaty et al. [] reported an expansion of 3.59 ± 1.06 mm with Invisalign First®, while an expansion of 4.39 ± 1.68 mm was achieved with the Hyrax expander. Finally, in the study by Silvestrini-Biavati et al. [], an expansion of 4.5 ± 1.6 mm was observed with Invisalign First® and 5.2 ± 1.5 mm with the Leaf Expander.
+
+The heterogeneity analysis yielded a value of I= 68%, representing moderate heterogeneity. This indicates that the results of the included studies showed some variability, probably attributable to differences in their methodological or clinical characteristics.
+
+To assess the possibility of publication bias, the Trim-and-fill method was applied, which did not impute additional studies. The coincidence between the original and adjusted estimates suggests symmetry in the funnel plot, ruling out possible publication bias.
+
+Likewise, Egger's test showed an intercept of 8.973, with a confidence interval of [-0.62; 18.57] and a-value = 0.31, which supports the previous conclusion that there is no evidence of publication bias in this variable.
+
+Total palatal area
+
+Data from two studies [,] comparing total palatal area (mm) between aligner treatments (n = 42) and expander treatments (n = 43) were analysed. The mean difference obtained was − 48.15 mm, suggesting that aligners produce less palatal surface gain compared to expanders. However, this difference did not reach statistical significance (95% CI [ − 104.07; 7.76]; Z-test = − 1.69,= 0.0914). The presence of zero within the confidence interval and a-value greater than 0.05 confirm that the observed difference is not statistically significant (Figure).
+
+With regard to the increase in total palatal area as a measure of expansion, the results differ between authors. In the study by Bruni et al. [], an increase of 64.51 ± 64.25 mmwas reported with Invisalign First, while with the RME expander, an expansion of 81.34 ± 71.05 mmwas observed. On the other hand, Wang et al. [] obtained a significantly greater increase in the group treated with slow maxillary expansion (SME), with a mean value of 117.64 ± 46.89 mm, compared to 43.50 ± 39.58 mmachieved in the group treated with Invisalign First®.
+
+In relation to heterogeneity, the value of I= 81% reveals high variability among the included studies, suggesting possible differences in measurement methods, the type of appliances used, or the characteristics of the patients evaluated.
+
+The Trim-and-fill method could not be applied to assess publication bias, as this analysis requires a minimum of three studies for its correct implementation.
+
+Total palatal volume
+
+Data from two studies [,] evaluating the effect of treatment with aligners (n= 42) versus expanders (n = 43) on total palatal volume (mmwere used. The mean difference was − 460.63 mm, indicating that aligners induce significantly less expansion compared to expanders. This difference was statistically significant (95% CI [ − 738.32; − 182.94]; Z-test = − 3.25,= 0.0011). The confidence interval excludes the zero value and the-value is less than 0.05, confirming the statistical significance of the difference observed between the two treatments (Fig.).
+
+The results also reflect differences depending on the type of appliance used. In the study by Bruni et al. [], a mean increase of 243.95 ± 473.24 mmwas observed after treatment with Invisalign First®, while with RME the volumetric expansion reached 532.01 ± 540.52 mm. Similarly, Wang et al. [] reported an increase of 294.85 ± 290.91 mmin the group treated with Invisalign First®, compared to an increase of 871.80 ± 385.61 mmin the group treated with slow maxillary expansion (SME).
+
+With regard to heterogeneity, an I= 56% was obtained, which corresponds to moderate heterogeneity. This could reflect methodological variations between studies, such as differences in treatment protocols, measurement techniques, or sample characteristics.
+
+It was not possible to perform the publication bias analysis using the Trim-and-fill method, as a minimum of three studies is required for the procedure to be valid.
+
+Arch perimeter
+
+Data from two studies [,] investigating the impact of aligner (n = 47) and expander (n = 55) treatments on dental arch perimeter were included. The mean difference calculated was − 1.75 mm, indicating that aligners cause less arch perimeter gain compared to expanders. This difference was statistically significant (95% CI [ − 2.71; − 0.80]; Z-test = − 3.59,= 0.0003). The exclusion of zero in the confidence interval and a-value clearly below 0.05 support the statistical significance of the difference between the two therapeutic approaches (Fig.).
+
+Lu et al. [] reported an increase of 1.69 ± 2.01 mm with Invisalign First®, compared to 3.32 ± 1.86 mm obtained with rapid maxillary expansion (RME). On the other hand, Silvestrini-Biavati et al. [] observed an expansion of 2.3 ± 3.0 mm with Invisalign First® and 4.2 ± 2.9 mm with the Leaf Expander.
+
+In terms of heterogeneity, an Ivalue of 0% was observed, indicating total consistency between the included studies and an absence of statistical variability.
+
+The analysis of publication bias using Trim-and-fill could not be carried out, as this procedure requires at least three studies for a valid assessment.
+
+Arch depth
+
+Regarding arch depth, data were included from two studies [,] that compared the mean of this measurement between patients treated with aligners (n = 34) and expanders (n = 34). The estimated mean difference was − 0.14 mm, suggesting a slight reduction in expansion with aligners compared to expanders. This difference was not statistically significant (95% CI [-0.66; 0.38]; Z-test = − 0.53,= 0.598). The inclusion of zero in the confidence interval, together with a-value greater than 0.05, indicates that there is no statistical evidence of a real difference between the treatments (Fig.).
+
+The studies analysed show slight variations between the different treatment methods. In the study by Lu et al. [], values of − 0.46 ± 0.86 mm were recorded with Invisalign First® and − 0.36 ± 0.75 mm with rapid maxillary expansion (RME). Pamukçu et al. [] reported a change of − 0.02 ± 1.90 mm with Invisalign First®, compared to an increase of 0.65 ± 3.67 mm with the removable expander (RE).
+
+With regard to heterogeneity, an I= 0% was obtained, reflecting complete homogeneity among the studies analysed, i.e., the estimates are highly consistent.
+
+It was not possible to perform a publication bias assessment using the Trim-and-fill method, as this analysis requires a minimum of three studies to be applicable.
+
+Discussion
+
+In growing patients, transverse expansion of the maxilla is one of the most common interceptive orthodontic interventions, particularly in cases of transverse maxillary deficiency or posterior crossbite. Traditionally, this procedure has been carried out using fixed appliances such as Hyrax or Haas expanders, which apply orthopaedic forces to separate the midpalatal suture. However, clear aligners have recently emerged as an alternative that is both aesthetically pleasing and functional [,]. Their growing popularity has been documented in bibliometric analyses identifying the most influential studies in the field, highlighting trends and gaps in the literature [].
+
+Their growing popularity has sparked interest in evaluating their actual effectiveness in generating maxillary expansion beyond tooth alignment and rotation, which were initially their main purpose []. Nevertheless, the available evidence on these devices' ability to effectively induce transverse expansion remains limited and scattered. This justifies the present study, which aims to consolidate and critically analyse the current findings through a comprehensive review of the literature and a meta-analysis.
+
+This review includes twelve retrospective investigations [,–,,–], two prospective studies [,] and one randomised clinical trial [].
+
+Although activation protocols, appliance designs, and treatment durations varied considerably among the included studies, pooling the data was considered appropriate because all interventions shared the same underlying therapeutic objective: transverse maxillary expansion in growing patients. Therefore, the meta-analysis compared aligners versus a heterogeneous group of expansion protocols rather than against a single gold-standard comparator. This approach reflects current clinical reality, where multiple conventional expansion strategies coexist without a universally accepted standard protocol. To address clinical heterogeneity, we carefully evaluated methodological comparability and outcome definitions across studies. Subgroup or sensitivity analyses according to activation protocol or appliance type were considered; however, these were not feasible due to the limited number of studies within each specific protocol and insufficient reporting of stratified data. Consequently, a random-effects model was used to account for between-study variability, and results were interpreted with caution in light of the observed heterogeneity.
+
+Some studies had small sample sizes (fewer than 30 patients) [,,,], which limited the statistical power and generalisability of the results. Others, such as the study by Moravedje Torbaty et al. [], included larger samples, but did not provide sufficient detail on loss rates during follow-up or treatment adherence.
+
+The patients' ages ranged from 6 to 12 years, but there was no clear stratification according to growth stage, suture maturation or stage of dentition, factors which may influence the response to treatment [,]. Hovewer, it is noteworthy that in five [,,–] of the seven studies included in the meta-analysis, the mean age of the participants ranged between 8 and 9 years, indicating a relatively homogeneous prepubertal population.
+
+Some studies used digital STL models obtained by intraoral scanning [,–,,], while others used CBCT [] or a combination of teleradiographs and digital study models to evaluate the predictability of movements [].
+
+The analysed variables also varied between studies. Although all studies measured intercanine and intermolar distances, some also included three-dimensional parameters, such as volume and palatal area [,,], arch perimeter [,,,], and tooth inclination [,,–].
+
+Several studies agree that, in Invisalign First® treatments, expansion is generally performed sequentially, starting with the permanent molars and continuing with the deciduous teeth [,,–]. Regarding the magnitude of expansion per aligner, some authors report an increase of 0.15 mm, while others indicate a value of 0.25 mm. Gonçalves et al. [] describe a range that encompasses both values.
+
+The role of patient compliance, particularly differences in prescribed and actual wear time, was not systematically analysed due to variability and inconsistent reporting across the included studies. Although most studies recommended aligner replacement on a weekly basis, some protocols advised maintaining the initial aligner for 14 days [,]. Similarly, the recommended daily wear time was generally 22–24 h; however, alternative regimens were described, including 20 h per day [] or even part-time use restricted to nighttime or after school hours []. Despite compliance being described as generally high, objective measures of adherence (e.g., wear-time monitoring or quantitative compliance assessment) were not consistently reported. Moreover, wear time was not analysed as an independent variable influencing outcomes. Due to this heterogeneity in usage protocols and the lack of standardized compliance data, a quantitative analysis of the impact of patient adherence on expansion outcomes was not feasible and could have led to unreliable conclusions.
+
+Treatment with Invisalign First© typically lasts from six to ten months, although some studies have reported longer periods: Gonçalves et al. [] observed 18 months, Kai et al. [] estimated 13.44 months and others [,,] observed durations of approximately 12–15 months.
+
+The variability in reporting refinement stages and the need for additional scans across studies introduces a significant source of uncertainty in assessing the predictability of aligner treatment. While some studies only analysed the first set of aligners [,,,,,–], others documented multiple refinements or re-scans due to eruption of permanent teeth or treatment adjustments [,,–,]. Because refinements involve additional aligner sets and modifications in treatment planning, failing to account for these stages may lead to an overestimation or underestimation of treatment outcomes. Similarly, the eruption status of the dentition (mixed versus early permanent) can alter dental movement responses, yet this factor is often unreported.
+
+The influence of attachments and SmartForce features on expansion outcomes was described qualitatively but could not be analysed quantitatively due to the limited and heterogeneous available data. Only three included studies [,,] reported the use of attachments and/or optimized activation protocols, and these differed substantially in design, attachment type, activation strategy, and reporting of outcomes. Furthermore, these variables were not consistently isolated as independent factors, but rather incorporated as part of the overall aligner protocol, preventing meaningful subgroup or meta-regression analyses. Given the small number of studies and the lack of standardized reporting, any quantitative comparison would have been statistically underpowered and potentially misleading. Therefore, the impact of attachments and SmartForce features was addressed descriptively to avoid overinterpretation of insufficient data.
+
+As with traditional appliances, activation protocols varied depending on the type of expansion. Some studies applied rapid expansion with activations of 0.45 mm per day (14), 0.25 mm per day (15, 22) or twice daily [], while others opted for slower expansion. For example, Wang et al. (25) used activations of 0.25 mm every two days. Removable expanders with weekly activation [] or specific devices, such as the Leaf Expander adjusted every six weeks [], were also used.
+
+The duration of treatment varied depending on the appliance used. Some authors kept their appliance for six to nine and a half months [,,], while the study by Moravedje Torbaty et al. [] involved wearing the appliance for around one and a half years. Wang et al. [] reported that expansion lasted almost a year, and the control groups in these studies were observed for similar periods. For removable expanders, treatment generally lasted around 9 months [], or between 8 and 10 months for the Leaf Expander [].
+
+The reviewed studies showed wide variability in the effectiveness of expansion with the Invisalign First® system, with values generally exceeding 50%. Some studies achieved even higher rates of predictability, with values close to 70% being reported [,,]. For instance, Loberto et al. [] observed progressive improvement in predictability throughout treatment. When analysing predictability according to dental location, it was found that premolars and canines generally had higher values than molars. Pamukçu et al. [] highlighted a notable difference in predictability between canines (70.28%) and molars (34.12%). Kim et al. [] confirmed this trend, emphasising greater accuracy in the anterior regions. Similarly, Levrini et al. [] found that deciduous canines were more predictable than first permanent molars at both the cusp and gingival levels, although good results were also found in primary molars.
+
+Gonçalves et al. [] found that premolars exhibited particularly high predictability, whereas values were lower in molars and deciduous canines. Other studies that evaluated the discrepancy between the expansion planned in the ClinCheck® software and that ultimately achieved, demonstrated that the values achieved clinically were considerably lower than those predicted digitally, which shows a common overestimation in aligner planning [,].
+
+The studies also showed considerable variability in terms of the amount of expansion achieved. Generally, the expansion achieved with Invisalign First® was found to be lower than that obtained with conventional expansion appliances. For instance, Bruni et al. [] and Moravedje Torbaty et al. [] demonstrated that the results obtained with RME or Hyrax were notably higher than those achieved with aligners. Similarly, Silvestrini-Biavati et al. compared Invisalign First® with the Leaf Expander and concluded that the latter generated greater expansion of both the canines and the molars. Furthermore, Lu et al. [] concluded that it is less effective than RME in correcting molar inclination.
+
+Wang et al. compared the maxillary expansion achieved with Invisalign First®, slow expansion (SME), and a control group. The results showed that, although Invisalign First® achieved significant transverse expansion, the values obtained with SME were higher. This reinforces the idea that aligners can be useful for generating expansion, albeit less effectively than conventional techniques.
+
+Overall, most studies agree that Invisalign First® is a viable therapeutic option, although conventional appliances continue to produce better results, particularly in cases requiring substantial skeletal expansion.
+
+The meta-analysis evaluated several key variables to compare the effectiveness of Invisalign First® and conventional expansion methods. Different behaviours were observed for each variable in terms of statistical significance, heterogeneity and publication bias, which allowed for a more accurate assessment of the robustness of the obtained conclusions.
+
+The variables that reached statistical significance in favour of conventional expanders were total palatal volume, arch perimeter, and intermolar distance (6–6). These three variables exhibited different levels of heterogeneity: moderate, low and none, respectively. Taken together, these results demonstrate acceptable methodological consistency and support the validity of the findings in these dimensions.
+
+In contrast, arch depth, total palatal area, C–C distance, D–D distance and E–E distance did not show any statistically significant differences between the analysed treatments. However, in most of these comparisons, the mean values favoured expanders slightly. These variables showed high heterogeneity in general, which limits the possibility of drawing solid conclusions and highlights methodological disparities between the included studies, particularly with regard to aspects such as treatment design, patient age and measurement methods.
+
+From a clinical perspective, these findings suggest that Invisalign First® may be considered a predictable and clinically useful option for mild to moderate dentoalveolar transverse discrepancies, particularly when expansion is primarily dental rather than skeletal in nature. The greater predictability observed in canines and premolars, compared to molars, indicates that clinicians should anticipate differential expansion along the arch and carefully overcorrect posterior sectors when planning treatment. The documented overestimation in ClinCheck® planning further reinforces the need for realistic treatment objectives and possible refinement stages. However, in patients requiring substantial skeletal expansion, significant increases in palatal volume, or reliable intermolar widening, conventional expanders—especially rapid maxillary expansion appliances—remain the more effective and biologically appropriate choice. Therefore, appliance selection should be guided by the severity of transverse deficiency, the skeletal maturity of the patient, and the desired balance between dentoalveolar movement, skeletal response, and treatment invasiveness.
+
+Publication bias could be assessed in some variables using the trim-and-fill method and Egger's test. For example, no evidence of significant bias was detected in the C–C, 6–6, D–D and E–E distances. However, it was not possible to perform this assessment for the remaining variables, such as palatal volume, palatal area, arch perimeter and arch depth, due to the insufficient number of studies. This is a significant limitation when assessing the presence or absence of bias in the analysis.
+
+Quality of evidence
+
+Most of the included studies presented a moderate risk of bias when assessed using the ROBINS-I and Rob2 tools, mainly due to factors related to confounding and participant selection. Only the study by Kim et al. [] was rated as having a low risk of bias, due to its greater methodological robustness.
+
+Although most included studies were rated as having a moderate risk of bias, mainly due to confounding and participant selection, no study was classified as high risk of bias. A moderate risk rating indicates the presence of methodological limitations inherent to non-randomized and retrospective designs, but not critical flaws that invalidate the findings. Nevertheless, residual confounding—particularly related to growth stage, suture maturation, and treatment allocation—could have influenced the magnitude of the pooled effect estimates. It is possible that uncontrolled baseline differences between groups may have either overestimated or underestimated the true treatment effect. Therefore, while the direction of the effect appears consistent across studies, the magnitude of the pooled estimates should be interpreted with caution.
+
+Limitations of the current work
+
+This systematic review has several limitations that should be considered when interpreting the results. Firstly, the quality of the included studies varied, with a predominance of retrospective studies, which introduces a potential risk of selection and information bias. The lack of randomisation and blinding in most of the studies limits the internal validity of the results.
+
+Secondly, the methodological heterogeneity between the studies with regard to treatment protocols, measurement methods, the age and stage of development of the patients makes direct comparison difficult and reduces the accuracy of the meta-analysis estimators. Furthermore, many studies do not adequately detail the use of refinements, treatment duration, patient collaboration or loss rates during follow-up, which introduces uncertainty in interpretation.
+
+Another important limitation is the difficulty in adequately assessing publication bias due to the small number of studies in certain comparisons. For example, the small number of studies included for palatal area, volume, and arch perimeter restricts the generalisability of the results. Consequently, the findings should be interpreted with caution.
+
+Future controlled studies specifically designed to isolate the biomechanical contribution of attachments and optimized activation features are needed to clarify their true impact on skeletal and dentoalveolar expansion outcomes.
+
+For these reasons, higher-quality randomised studies with standardised protocols and representative samples are recommended to clarify the true potential of aligners in transverse maxillary expansion in growing patients.
+
+Conclusions
+
+Implications for practice
+
+Clear aligners, particularly the Invisalign First® system, appear to be capable of inducing maxillary expansion in growing patients, although with variable and not fully predictable outcomes. Available evidence suggests that expansion tends to be greater in the anterior sectors and more limited in the molar region. The observed effects seem to be predominantly dentoalveolar rather than skeletal in nature, which may partially explain the discrepancy between the expansion planned digitally and that clinically achieved. However, given that most included studies were retrospective and presented a moderate risk of bias, the overall certainty of this evidence should be considered moderate to low.
+
+When compared with conventional maxillary expanders, aligners tend to achieve smaller magnitudes of transverse expansion and appear to exert a more limited effect on the skeletal base. Nevertheless, these findings should be interpreted cautiously, as the certainty of the available evidence—particularly for skeletal outcomes—is low.
+
+Overall, while clear aligners may represent a reasonable therapeutic option in selected cases requiring mild to moderate dentoalveolar expansion, current evidence does not allow for strong conclusions regarding their equivalence to conventional expanders, particularly when substantial skeletal expansion is required.
+
+Supplementary Information
+
+Additional file1 (DOCX 13 KB)
+
+Additional file2 (DOCX 22 KB)
