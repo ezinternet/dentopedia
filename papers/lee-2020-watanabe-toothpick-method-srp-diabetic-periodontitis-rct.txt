@@ -1,0 +1,100 @@
+Source: PubMed Central (PMC7192821)
+PMID: 32395387
+DOI: 10.5051/jpis.2020.50.2.83
+Title: Efficacy of non-surgical treatment accompanied by professional toothbrushing in the treatment of chronic periodontitis in patients with type 2 diabetes mellitus: a randomized controlled clinical trial
+Authors: Jae Young Lee et al. (Seoul National University)
+Journal: Journal of Periodontal & Implant Science, 2020;50(2):83-.
+
+=== ABSTRACT ===
+
+Purpose
+The present study aimed to evaluate the clinical benefit of additional toothbrushing accompanying non-surgical periodontal treatment on oral and general health in patients with type 2 diabetes mellitus (T2DM).
+
+Methods
+We conducted a doubled-blind randomized controlled trial in 60 T2DM patients between June 2013 and June 2014. The patients were randomly assigned to the scaling and root planing (SRP) group; the scaling and root planing with additional toothbrushing (SRPAT) group, in which additional toothbrushing was performed by toothpick methods; or the control group. Microbiological and oral examinations were performed for up to 12 weeks following treatment. Non-surgical treatment was conducted in the experimental groups. The SRP group received scaling and root planing and the SRPAT group received additional toothbrushing with the Watanabe method once a week from the first visit through the fifth visit. The primary outcomes were changes in haemoglobin A1c (or glycated haemoglobin; HbA1c) levels, serum endotoxin levels, and interleukin-1 beta levels. Periodontal health status was measured by periodontal pocket depth, the calculus index, and bleeding on probing (BOP).
+
+Results
+Both the SRP and SRPAT groups showed improvements in periodontal health and HbA1c, but the SRPAT group showed significantly less BOP than the SRP group. Furthermore, only the SRPAT group showed a statistically significant decrease in serum endotoxin levels.
+
+Conclusions
+Non-surgical periodontal treatment was effective in improving HbA1c and serum endotoxin levels in T2DM patients. Furthermore, non-surgical treatment with additional tooth brushing had a more favourable effect on gingival bleeding management.
+
+Trial Registration
+Clinical Research Information Service Identifier: KCT000416
+
+=== FULL TEXT ===
+
+INTRODUCTION
+
+The prevalence of diabetes mellitus among the adult population has increased to 8.5% globally, and the World Health Organization (WHO) has estimated that diabetes is the seventh leading cause of death globally. Periodontal disease, which is recognized as the sixth major complication of diabetes, is a common chronic disease that causes symptoms such as gingival bleeding and recession, periodontal pocket formation, and alveolar bone destruction in most adults with diabetes.
+
+The local inflammatory response is associated with periodontal disease and results in the activation of the immune system in response to factors such as bacteria and antigens. Pro-inflammatory molecules and cytokine networks are known to play a vital role in this response. As mediated through inflammation, periodontal disease may be a risk factor for metabolic diseases such as diabetes, dyslipidaemia, and heart disease.
+
+The bacteria that cause chronic periodontal disease secrete inflammatory mediators and trigger an inflammatory response that induces cell proliferation and variants, reduces the ability to adapt to oxidative stress, and suppresses apoptosis. The secondary promotion of inflammatory molecules through increased levels of these toxins has been reported to cause damage to pancreatic beta cells, increasing insulin resistance and consequently impairing blood glucose regulation.
+
+A patient with diabetes who maintains rigorous glycaemic control with regular medical care generally can receive any indicated dental treatment. Adults with well-managed diabetes who do not have systemic complications are treated the same as patients without diabetes. Additionally, antibiotics are not prescribed unconditionally for non-invasive procedures. However, since dental practitioners may treat patients with diabetes at any time, they must be familiar with the correlations among the oral signs and symptoms of the disease, oral health, and glycaemic control in order to ensure that these patients are properly managed.
+
+Patients who present multiple sites with significantly increased probing depth and bleeding on probing (BOP) even after surgical periodontal treatment are more likely to have active infections, meaning that the treatment modality employed might not have been adequate. People with diabetes have an especially high risk of serious infections, even during non-surgical periodontal treatment, which represents a considerable population-level burden.
+
+Professional toothbrushing, which is carried out to remove inflammatory substances on the surface of the tooth, reduces the risk of infection by reducing oxidative stress throughout the circulatory system and enhancing capillary gingival circulation. It has been reported that mechanical stimulation by the toothpick toothbrushing method increases the proliferation of gingival basement cells by approximately 2.5 times compared to using a scaler. Thus, the histometric changes induced by toothbrushing resemble the repair phase of wound healing.
+
+Based on the hypothesis that treatment with additional toothbrushing concurrently with non-surgical periodontal therapy could reduce the risk of systemic infection, we evaluated changes in oral health, improvements in glycaemic control, and changes in systemic markers of inflammation in patients with type 2 diabetes mellitus (T2DM). Through this study, we hope to establish an optimal non-surgical periodontal treatment method for patients with diabetes.
+
+MATERIALS AND METHODS
+
+Study population
+The Institutional Review Board of Seoul National University School of Dentistry approved this clinical trial (S-D20130016, 30/05/2013), and it was also registered with the Korean Clinical Research Information Service (KCT000416). Written informed consent was obtained from each subject. We evaluated 60 patients with T2DM. The patients recruited for this study were maintenance patients from a community health care centre (Gwangjin-gu Public Health Centre, Seoul, Korea). Subjects were included in the study if they had: 1) teeth with sites with a PD >5 mm and attachment loss in at least 2 quadrants; 2) BOP at these sites; 3) at least 20 remaining teeth; 4) a haemoglobin A1c (or glycated haemoglobin; HbA1c) level >=6.5%; and 5) non-smoking status. Additionally, all patients were diagnosed with periodontitis. The exclusion criteria were 1) current abuse of alcohol or drugs; 2) chronic liver disease including hepatitis; and 3) a body mass index (BMI) >=40 kg/m2.
+
+Patients were randomly assigned in equal proportions to the control (CTR) group, the scaling and root planing (SRP) group, which received general non-surgical periodontal treatment only, or the scaling and root planing with additional toothbrushing (SRPAT) group, which received non-surgical periodontal treatment accompanied by toothbrushing. At the end of the study, all participants, including the CTR group, were provided proper oral health care.
+
+Baseline clinical characteristics (mean +/- SD): Age SRP 71.15+/-8.61 / SRPAT 72.45+/-8.20 / CTR 74.15+/-7.21 (p=0.645). BMI ~24.3. HbA1c SRP 6.64+/-0.29 / SRPAT 6.68+/-0.23 / CTR 6.76+/-0.39 (p=0.379). IL-1beta ~0.66 pg/mL. Endotoxin SRP 1.48+/-1.29 / SRPAT 1.70+/-1.35 / CTR 1.49+/-0.94 EU/mL (p=0.866). No. teeth ~25. BOP rate SRP 18.93+/-15.76 / SRPAT 22.25+/-15.96 / CTR 21.29+/-15.44 % (p=0.790). No baseline differences among groups (all p>0.05).
+
+Diagnosis of T2DM (WHO criteria): HbA1c >=6.5%; symptoms + random blood sugar >=200 mg/dL; fasting blood sugar >=126 mg/dL on >1 occasion; or 2-h postprandial plasma glucose >=200 mg/dL on OGTT. Blood samples collected once every 3 months as part of diabetes follow-up.
+
+Intervention
+SRP group: After baseline oral examination, oral health education including toothbrush instruction was conducted to eliminate bias. Supragingival scaling performed only on the first visit by 2 trained dentists simultaneously. After 2 weeks, root planing was performed to remove subgingival calculus. At 12 weeks, patients recalled to re-check oral health status; additional periodontal treatment done at 12 weeks if required.
+
+SRPAT group: After baseline oral examination and oral health education, additional toothbrushing (Watanabe method) with a 2-row toothbrush was applied on the first visit by a trained dentist. On the second visit, subgingival calculus was removed as appropriate. Additional toothbrushing (Watanabe method) was performed once a week from the first visit through the fifth visit (i.e., 5 weekly professional toothbrushing sessions).
+
+CTR group: Received no other treatments beyond medical screening for diabetes. All groups received oral health education including toothbrush instruction at baseline to eliminate intergroup bias. After study completion, necessary dental treatment provided to those who wished.
+
+Measurements: Preliminary report of a randomized, parallel-design, double-blinded, controlled clinical trial. Minimum evaluation period 12 weeks (HbA1c reflects ~2-3 month average glucose). Examinations with portable dental unit. WHO dental caries criteria, DMFT. Intra-examiner kappa = 0.976. Periodontal health examined at 6 index teeth (Ramfjord-type); full-mouth probing with UNC-15 probe (Hu-Friedy). PD measured at 6 sites/tooth. BOP measured at gingival margin (buccal/lingual/mesial/distal/median). Calculus index (CI) via oral hygiene index criteria.
+
+Laboratory: HbA1c by immunoturbidimetric assay (COBAS INTEGRA 400 plus, Roche). Serum endotoxin and IL-1beta: blood centrifuged 3,500 rpm 22C 10 min, stored -80C. IL-1beta high-sensitivity ELISA (eBioscience). Endotoxin by Pyrotell-T (LAL) turbidimetric method (Pyros Kinetix). Analysts blinded.
+
+Sample size: estimated 72 patients needed (alpha 0.05, power 0.80, effect size 0.40, dropout 10%). SPSS v25. Repeated-measures ANOVA for intragroup baseline vs 12-week; paired t-test / Wilcoxon signed-rank for within-group; Tukey / Mann-Whitney for between-group; Kruskal-Wallis / 1-way ANOVA for baseline.
+
+RESULTS
+
+Participants randomly assigned by rolling a dice. 15 participants dropped out (old age, long intervention period). Final analysis: 60 participants (20 per group). No significant baseline differences among 3 groups (p>0.05).
+
+Correlation (baseline): Significant positive correlation between endotoxin and PD (Spearman rho 0.809, p=0.000). HbA1c-PD, HbA1c-BOP, IL-1beta variables NS.
+
+Correlation (changes after last visit): HbA1c change correlated with PD change (rho 0.496, p=0.000), CI change (0.351, p=0.006), BOP change (0.321, p=0.012). Endotoxin change correlated with PD change (0.485, p=0.000), CI change (0.332, p=0.010), BOP change (0.367, p=0.004). IL-1beta change: only with CI change (0.257, p=0.048); NS with PD and BOP.
+
+Table 4 — Changes (Baseline -> 3 months, Change, within-group p):
+HbA1c: SRP 6.64->6.47, -0.17, p=0.009 | SRPAT 6.68->6.43, -0.25, p=0.001 | CTR 6.76->6.98, +0.22, p=0.001. Between-group p=0.000.
+IL-1beta: SRP -0.19 (p=0.506) | SRPAT -0.21 (p=0.243) | CTR +0.18 (p=0.360). Between-group p=0.404 (NS).
+Endotoxin (EU/mL): SRP 1.48->1.08, -0.39, p=0.287 (NS within) | SRPAT 1.70->0.92, -0.78, p=0.003 | CTR 1.49->2.35, +0.91, p=0.004. Between-group p=0.000.
+PD: SRP -0.08 (p=0.043) | SRPAT -0.09 (p=0.039) | CTR +0.18 (p=0.001). Between-group p=0.000.
+CI: SRP -1.90 (p=0.006) | SRPAT -1.55 (p=0.001) | CTR +0.50 (p=0.181). Between-group p=0.000.
+BOP (%): SRP 18.93->11.66, -7.27, p=0.013 | SRPAT 22.25->5.73, -16.52, p=0.000 | CTR 21.29->22.66, +1.37, p=0.524. Between-group p=0.000.
+
+In both intervention groups, PD, CI, and BOP significantly improved vs baseline and vs CTR. CTR PD increased at last visit. SRPAT showed significant BOP reduction vs SRP (p<0.025).
+
+DISCUSSION (key points)
+
+Mechanical stimulation through Watanabe's toothbrushing method (repeated >=3 times) has statistically significant histological effects on periodontal tissue beyond plaque removal — activates fibroblasts, procollagen-positive fibroblasts, and PCNA-positive fibroblasts, promoting proliferation of fibroblasts and junctional epithelium (Horiuchi et al.; Sakamoto et al.). The toothpick method increases proliferation of gingival basement cells ~2.5x vs a scaler. The histometric changes resemble the repair phase of wound healing. Therefore the SRPAT group received professional toothbrushing once a week, at least 3 times. Watanabe's method helps alleviate periodontal tissue inflammation.
+
+Discordant literature on HbA1c after NSPT. Systematic review: HbA1c reduced ~0.4% by non-surgical periodontal treatment, consistent with this study. Iwamoto et al.: HbA1c reduced ~0.84% after 8 weeks.
+
+IL-1beta did not change, but systemic endotoxin level differed significantly between control and intervention; serum endotoxin significantly decreased in the SRPAT group. Metabolic endotoxaemia dysregulates inflammatory tone and triggers body weight gain and diabetes. Both NSPT methods suitable for patients with diabetes — did not increase inflammatory substances.
+
+BOP rate in SRPAT was significantly less than SRP alone — additional brushing can help control infection/bleeding problems in diabetic patients; mechanical stimulation positively affects periodontal tissue healing (Tomofuji et al.).
+
+Limitations: relatively old patients (high-age public health centre population) with complex chronic disease -> possible bias; dropouts due to long participation period and age; no "professional toothbrushing only" comparison group with same number of visits (ethical — no usual treatment exists); SRPAT had more visits than SRP; all participants (incl. CTR) health-conscious (regular health-centre visitors) -> possible bias. Longer follow-up with standardized visit numbers needed.
+
+CONCLUSIONS
+1. Both SRPAT and SRP improved oral health and HbA1c (p<0.05).
+2. SRPAT showed significant BOP reduction vs SRP (p<0.05).
+3. SRPAT showed statistically significant decrease in serum endotoxin (p<0.05).
