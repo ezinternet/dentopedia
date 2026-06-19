@@ -1,0 +1,95 @@
+Title: Impact of Interdental Brushing on Pregnancy‐Associated Gingivitis: A Secondary Analysis of a Randomised Controlled Trial
+Authors: Carrouel F, Kanoute A, Faye D, Mazur M, Perrier H, Vitiello F, Ardan R, Clément C, Lan R, Bourgeois D
+Journal: J Clin Periodontol. 2026;53.
+DOI: 10.1111/jcpe.70085
+PMID: 41558746
+PMCID: PMC12972602
+Source: PubMed Central full text (PMC12972602)
+
+=== ABSTRACT ===
+
+Aim
+To assess whether daily use of calibrated interdental brushes can reduce gingival bleeding in pregnant women at high risk of preeclampsia.
+
+Materials and Methods
+In this multi‐centre randomised controlled trial, 323 nulliparous women at risk of preeclampsia and with an intact periodontium were enrolled at 12 weeks of gestation. Participants were randomly allocated (1:1) to either: (i) the intervention group receiving individualised interdental hygiene instructions and calibrated interdental brushes for daily use, or (ii) the control group: receiving routine antenatal care. All participants were recalled at 1 week after baseline, 4, 5 and 8 months of pregnancy for assessments of bleeding on probing (BOP) and other periodontal indices. Linear mixed models were used to assess changes in bleeding over time, and logistic regression was used to evaluate predictors of bleeding resolution at the final follow‐up.
+
+Results
+At 8 months of pregnancy, the intervention group showed a significant reduction in gingival bleeding, from 56% at baseline to 12% (−79.9%, p < 0.001), whereas the control group remained stable. Most of the improvement occurred during the first week (−56.8%). Among participants with severe baseline bleeding (> 81%), the reduction reached 84.3% (p < 0.05). Longitudinal analysis confirmed sustained reductions at each follow‐up. Interdental brushing was the strongest independent predictor of bleeding reduction (OR = 3.14; 95% CI: 2.01–4.90).
+
+Conclusions
+Daily use of calibrated interdental brushes, introduced early in pregnancy, significantly reduced gingival bleeding with rapid and sustained effects. These findings support the feasibility and clinical relevance of individualised interdental hygiene as a preventive strategy within standard antenatal oral health care.
+
+Trial Registration
+ClinicalTrials.gov NCT04989075
+
+=== FULL TEXT ===
+
+1. Introduction
+
+Pregnancy‐associated gingivitis affects up to 70% of pregnant women and is clinically significant because of the heightened immune response driven by hormonal and immunological changes during gestation. These endocrine fluctuations promote vascular alterations and oral microbiota shifts, increasing gingival bleeding despite stable plaque levels. According to the 2018 EFP/AAP classification, pregnancy‐associated gingivitis is defined as a plaque‐induced condition modified by systemic factors. Hormonal changes amplify the host immune response to dental biofilm, leading to dysregulation characterised by excessive neutrophil recruitment, impaired clearance and sustained release of proinflammatory cytokines such as interleukin (IL)‐1β, IL‐6 and TNF‐α. Subclinical immune imbalance between pro‐ and anti‐inflammatory pathways, particularly within the Th17/Treg axis, and elevated matrix metalloproteinase activity contribute to persistent gingival inflammation during pregnancy, even when plaque levels remain stable.
+
+Interdental sites are particularly susceptible to periodontal inflammation because of their anatomical complexity and colonisation by keystone pathogens. These microorganisms promote local dysbiosis and contribute to gingival inflammation by triggering the host's immune responses. Calibrated interdental brushes (IDBs), defined according to ISO 16409:2016, have been shown to outperform floss in reducing interdental plaque, bleeding on probing (BOP) and gingival inflammation. Mechanical disruption of interdental biofilm with IDBs is also associated with reduced bacterial load as well as local expression of proinflammatory mediators. However, the clinical and immunological consequences of these mechanisms during pregnancy remain poorly understood.
+
+To date, no randomised controlled trial (RCT) has evaluated whether early initiation of individualised interdental cleaning during gestation can reduce gingival inflammation and modulate the immune response. This trial specifically targeted pregnant women at high risk of preeclampsia, with a longitudinal follow‐up from 12 weeks of gestation to delivery.
+
+To explore this question, a secondary analysis of a multi‐centre RCT in Senegal assessed the impact of personalised interdental hygiene instruction combined with daily use of calibrated IDBs on gingival inflammation during pregnancy. The primary gingival outcome was BOP at the eighth month of gestation, with longitudinal changes as secondary gingival outcomes.
+
+2. Methods
+
+2.1 Study Design and Setting
+Multi‐centre, single‐blind RCT with two parallel groups (1:1), conducted from March 2022 to July 2023 in six antenatal care clinics in Dakar, Senegal. Ethical approval protocol 000086/MSAS/CNERS/SP (approved 8 June 2021). Registered at ClinicalTrials.gov (NCT04989075). This analysis concerns a secondary objective of the trial which was initially designed to evaluate the effect of interdental hygiene on preeclampsia risk.
+
+2.2 Participants
+Women were screened at their first prenatal visit by a gynaecologist. Risk of preeclampsia was defined by nulliparity and sub‐Saharan African origin.
+Inclusion: pregnant women, aged 18–40 years, sub‐Saharan African origin, nulliparous, attending first antenatal consultation at 12 weeks pregnancy, able/willing to consent.
+Exclusion: foetal distress, congenital uterine/vaginal anomalies, systemic/infectious diseases, medically indicated early termination, periodontitis (interproximal CAL ≥ 1 mm at ≥ 2 non‐adjacent teeth, or buccal/oral CAL ≥ 3 mm with PD > 3 mm at ≥ 2 teeth), history/treatment of periodontitis, current dental/orthodontic care, < 20 natural teeth, medications affecting gingival health, regular use of interdental cleaning tools or mouthwashes, cognitive/behavioural limitations.
+
+2.3 Randomisation and Masking
+Randomly assigned 1:1 to intervention (calibrated IDB) or control (routine oral hygiene). Sequence generated by independent investigator using e‐CRF Voozalyon, stratified by centre with randomly permuted blocks. Group allocation masked to investigators, outcome assessors and statisticians.
+
+2.4 Intervention
+Intervention group received a personalised kit of calibrated IDBs (Curaprox CPS, Curaden, Switzerland), selected according to interdental space. Daily evening cleaning, demonstrations at baseline. New appropriately sized brushes provided at each visit; compliance monitored with standardised booklet. Controls maintained routine oral hygiene (toothbrushing with toothpaste, no interdental devices or mouthrinses).
+Assessments at T1 (3 months +1 week), T2 (4 months), T3 (5 months), T4 (8 months): BOP, CAL, PD, GI, PI. At T0, T3, T4: BMI, pregnancy status, fundal height, blood pressure.
+
+2.5 Clinical Definitions
+Plaque‐induced gingivitis: BOP at ≥ 10% of sites, no site with both BOP and PD ≥ 4 mm. Six calibrated examiners, full‐mouth at six sites per tooth using sterile Williams probe with standardised 20 g pressure. BOP = percentage of bleeding sites = pre‐specified gingival outcome. Extent classified per 2018 EFP/AAP: healthy (< 10% BOP), localised (10%–30%), generalised (> 30%).
+
+2.7 Outcomes
+Primary gingival outcome: proportion of sites with gingival bleeding at eighth month (T4). Secondary: changes over time (T1, T2, T3) vs baseline (T0).
+
+2.8 Sample Size
+Trial powered for preeclampsia. Post hoc calc for BOP: assuming 70‐point difference, α = 0.05 two‐sided, 90% power, 20% attrition → ≥ 144 per group. Final sample n = 323.
+
+2.9 Statistical Analysis
+R version 4.4.0. Prespecified gingival endpoint BOP at 8 months (ITT). Longitudinal/subgroup analyses exploratory, not adjusted for multiplicity. Nonparametric tests; logistic regression for predictors of improvement. Per‐protocol sensitivity analysis. Significance two‐sided p < 0.05.
+
+3. Results
+
+3.1 Baseline
+323 participants: active n = 162, control n = 161. Baseline characteristics comparable EXCEPT plaque index significantly greater in control (0.73 ± 0.62 vs 1.04 ± 0.72; p < 0.001). No smokers. At T4 crude attrition 36.4% intervention vs 43.5% control (p = 0.20); after excluding pregnancy interruptions adjusted attrition 20.8% vs 34.1% (p = 0.015). Overall adherence to IDB use 87.0% in active group. No adverse effects.
+Gingival diagnosis at baseline: generalised gingivitis 79.6% (active) / 82.0% (control); localised 11.1% / 11.8%; healthy 9.3% / 6.2%.
+Baseline bleeding median: active 0.56 (0.36–0.81), control 0.67 (0.41–0.81), p = 0.202.
+
+3.2 Evolution of Gingival Bleeding
+Active group: T0 median 0.56 → T1 0.26 (−56.8%, p < 0.001) → T2 0.19 (−28.7%) → T3 0.11 (−23.1%) → T4 0.12 (−18.2%). Overall T4–T0 change −0.40 (−0.63 to −0.26), total decrease −79.9% (−92.8% to −65.6%), p < 0.001.
+Control group: stable. T1 0.63, T4 0.66; overall change +0.04, non‐significant +5.3%, p = 0.685.
+Between‐group difference significant at T1 and every subsequent visit (p < 0.001). Mean difference in change from baseline to T4 between groups −0.43 (−0.49 to −0.36). Mixed linear model confirmed treatment × time interaction (p < 0.001).
+Severe baseline subgroup (BOP > Q3, > 0.81; active n = 40): significant 84.3% reduction (p < 0.05).
+
+3.3 Logistic Regression at T4
+Multivariable model adjusted for clinical/demographic covariates: intervention group significantly associated with bleeding resolution at T4 (OR = 3.84; 95% CI: 2.01–7.32; p < 0.001). [Abstract reports OR = 3.14; 95% CI 2.01–4.90 as strongest independent predictor of bleeding reduction.]
+High‐risk subgroup (> Q3) univariate: OR = 14.8 (95% CI 4.9–44.7, p < 0.000001); attenuated/non‐significant in penalised model (overshrinkage).
+
+3.4 Sensitivity Analyses
+Per‐protocol: intervention 0.56 → 0.04 (0.00–0.22); control 0.67 → 0.72; between‐group mean difference in change −0.42 (−0.50 to −0.33), MLM p < 0.001 — consistent with ITT (−0.43). PI‐stratified (< 1, 1–2, ≥ 2) ITT sensitivity: intervention effect significant across all categories (p < 0.001), no PI × treatment interaction (all p > 0.09).
+
+4. Discussion
+Calibrated IDBs significantly reduced gingival bleeding by eighth month, particularly in severe baseline inflammation. Most improvement in first week → early gingival inflammation in pregnancy is reversible through regular mechanical biofilm disruption. Control group bleeding remained stable, suggesting persistent pregnancy‐related gingivitis without intervention. Intervention group > 3× more likely to achieve bleeding resolution. Among severe baseline inflammation, effect nearly 15× stronger (model instability limited multivariate interpretation).
+In this high‐risk cohort, interdental brushing from 12 weeks to eighth month did NOT significantly reduce composite obstetric outcomes (preeclampsia, preterm birth, low birth weight, small for gestational age); obstetric outcomes reported separately.
+Limitations: trial powered for preeclampsia (BOP secondary); attrition ~40% balanced; no microbiological/biomarker data; gingival bleeding is surrogate of inflammation not tissue destruction; follow‐up limited to gestation; Dakar population restricts generalisability (excludes women with periodontal disease); participants not blinded (assessors/statisticians masked).
+
+5. Conclusion
+This RCT provides evidence that early and consistent use of calibrated IDBs significantly reduces gingival bleeding during pregnancy, supporting individualised interdental hygiene as a preventive antenatal care strategy.
+
+Funding: Curaden AG, Switzerland. D.B. reports personal fees from Curaden AG.
