@@ -1,0 +1,78 @@
+Immediate Loading on Tapered Versus Straight Multiple Implants: A 3-Year Follow-Up of a Randomized Clinical Trial
+
+Authors: Young Woo Song, Sung Jin Yoo, Jin-Young Park, Seung-Hyun Park, Franz J. Strauss, Jae-Kook Cha, Ui-Won Jung
+Journal: Clinical Implant Dentistry and Related Research
+Year: 2026
+DOI: 10.1111/cid.70147
+PMID: 41981962
+PMCID: PMC13080229
+
+ABSTRACT
+
+Objective: To evaluate the clinical and radiographic outcomes at 3 years following immediate loading of tapered implants (TI) versus straight implants (SI) from a randomized controlled trial (RCT).
+
+Materials and Methods: Of the 41 patients who received 93 implants in the original RCT (TI group: 23 patients, 50 implants; SI group: 18 patients, 43 implants), those who completed 3-year follow-up were included in this analysis. Implant survival and success rates, as well as changes in marginal bone loss (MBL), were assessed and compared using Kaplan-Meier curves, Cox proportional hazards models, and linear mixed-effects models.
+
+Results: A total of 28 patients with 61 implants were evaluated (TI group: 15 patients, 32 implants; SI group: 13 patients, 29 implants). At 3 years post-immediate loading, cumulative survival rates at the patient level were 95.8% for the TI group and 78.3% for the SI group (intergroup p=0.109). At the implant level, survival rates were 96.2% for TI and 90.0% for SI (intergroup p=0.351). All implant failures occurred within the first year (1 implant in TI; 5 implants in SI), and no further losses were recorded thereafter. However, two TI implants in a single patient exhibited progressive peri-implantitis during follow-up. Mean MBL values were 0.61 ± 1.70 mm for the TI group and 0.53 ± 0.53 mm for the SI group, with no statistically significant differences between groups (intergroup p=0.428).
+
+Conclusion: It could be cautiously concluded that the TI rather than the SI might be a more predictable option in terms of achieving an optimized initial stability for immediate loading in the posterior region. Once osseointegration was successfully achieved, however, the macro-design of the implant might not have an influence on the clinical and radiographic outcomes including the osseointegrated state during the 3 years of observational period.
+
+INTRODUCTION
+
+Immediate loading of dental implants is recognized for reducing treatment time and improving patient satisfaction. Traditionally, clinicians have delayed prosthetic loading for several months to ensure successful osseointegration prior to prosthesis delivery, particularly for machined-surface implants. However, advancements in implant surface treatments that increase hydrophilicity have shortened the osseointegration period, enabling earlier functional loading. Alongside enhanced surface properties, advances in implant fixture topography have allowed clinicians to achieve higher primary stability more readily, making immediate loading—placement of the prosthesis within a week after implant placement—a viable option in many clinical situations even when delivering the final restoration.
+
+Given that the feasibility of immediate loading is highly dependent on the primary stability of the implant, the design of the implant fixture is considered a critical factor influencing immediate loading success. Among various designs, tapered implants with self-tapping grooves are known to offer greater primary stability compared to straight implants without such grooves. Nevertheless, to date, no randomized controlled trial (RCT) has directly compared these two designs under immediate loading conditions in the posterior dentition.
+
+Previously, a 1-year outcome from a RCT investigating immediate loading in partially edentulous posterior regions with both tapered (TI) and straight (SI) implants was published. That study reported high survival and success rates for tapered implants (96%) and more modest survival rates for straight implants (86%) while both implant types showed minimal marginal bone loss (MBL). Notably, TIs featuring an apical self-tapping configuration achieved significantly higher insertion torque at placement compared to the SIs, suggesting superior initial mechanical stability.
+
+MATERIALS AND METHODS
+
+Study Design: RCT conducted September 2017 to March 2020. Yonsei University College of Dentistry. IRB No. 2-2016-0047. Registered KCT0002489. CONSORT guidelines followed.
+
+Subjects: 48 patients requiring 2+ implants in posterior maxilla or mandible. TI group (n=24): tapered implants with self-tapping cutting edge (Yuhan Evertis SI, Shinhung, Seoul, South Korea). SI group (n=24): straight implants without cutting edge (Straumann Bone Level, Basel, Switzerland). Both fixtures: sandblasted, large-grit, acid-etched (SLA) surface.
+
+3-year follow-up: 28 patients with 61 implants (TI: 15 patients, 32 implants; SI: 13 patients, 29 implants). 13 patients dropped out (8 TI, 5 SI) due to refusal of recall visit.
+
+Protocol: Multiple implant placements with GBR as needed. Provisional splinted PMMA prosthesis within 7 days. Definitive prosthesis at 1 year. Recall at 3-6 month intervals.
+
+Outcome Variables:
+- Survival: implant remaining intraorally
+- Composite success criteria for immediate loading protocol
+- MBL: periapical radiographs using standardized extension cone paralleling technique; ZeTTA PACS Viewer software; mesial + distal average
+
+Statistical Analysis: SPSS v26, R v4.4.0. Kaplan-Meier survival curves. Cox proportional hazards regression. Linear mixed-effects model (LMM) for MBL.
+
+RESULTS
+
+Implant Survival:
+- TI group: 96.2% (implant level), 95.8% (patient level) at 3 years
+- SI group: 90.0% (implant level), 78.3% (patient level) at 3 years
+- No statistically significant difference (p=0.351 implant level; p=0.109 patient level)
+- All failures occurred within first year; zero late failures
+
+Composite Treatment Success:
+- TI group: 4 unsuccessful implants (2 early failures, 2 high MBL)
+- SI group: 13 unsuccessful implants (2 insufficient ITV, 5 early failures, 6 high MBL)
+- More than twice the failure rate in SI group
+
+MBL Analysis:
+- At 1 year: TI 0.13 ± 0.36 mm vs SI 0.25 ± 0.53 mm (p=0.542)
+- At 3 years: TI 0.23 ± 0.42 mm vs SI 0.50 ± 0.64 mm (p=0.729)
+- Annual MBL: TI 0.13 ± 0.13 mm/year vs SI 0.11 ± 0.14 mm/year (p=0.868)
+- No significant differences between groups
+
+Complications:
+- Biologic: 1 TI patient with peri-implantitis (2 implants); MBL reached ~7 mm at 3 years
+- Mechanical: 2 SI patients - exfoliation of 2-unit bridge (1) and partial crown fracture (1)
+
+DISCUSSION
+
+Key findings: trend toward lower survival in straight implants (especially patient-level ~96% vs ~78%), but no clinically meaningful MBL differences. All failures occurred early (within 1 year). After successful osseointegration, macro-design did not influence outcomes.
+
+Tapered design advantage was primarily in achieving primary stability (insertion torque ≥30 Ncm) - a prerequisite for immediate loading. Secondary stability depends more on surface hydrophilicity than macro-design (both SLA surfaces equivalent).
+
+Emergence angle importance: peri-implantitis case attributed to convex emergence profile with angle >30° in interproximal region, impairing self-cleansability.
+
+CONCLUSION
+
+Tapered implants may offer more predictable initial stability for immediate loading in posterior region. Once osseointegration achieved, macro-design (tapered vs straight) had no significant influence on 3-year clinical/radiographic outcomes.
