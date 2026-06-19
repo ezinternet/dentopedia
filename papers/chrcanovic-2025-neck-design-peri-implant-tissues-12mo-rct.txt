@@ -1,0 +1,33 @@
+PubMed metadata retrieved 2026-06-19 via get_article_metadata (PMID: 41275475)
+Source: PubMed — https://pubmed.ncbi.nlm.nih.gov/41275475/
+DOI: 10.1111/clr.70068
+
+TITLE:
+Influence of Neck Design on Peri-Implant Hard and Soft Tissues: A 12-Month Randomized Clinical Trial of Immediately Placed Implants.
+
+AUTHORS:
+Porta-Ferrer C, Elnayef-Elsakan B, Del Amo FSL, Caballé-Serrano J, Satorres-Nieto M, Hernández-Alfaro F.
+
+JOURNAL:
+Clinical Oral Implants Research. 2025;37(3):287-302.
+Published: 2025-11-23
+
+ABSTRACT:
+The objective of this RCT was to compare clinical and radiographic outcomes after immediate implant placement and temporization of two neck geometries: a traditional round neck (RN) and an innovative triangular neck (TN).
+
+Thirty-six patients were enrolled and randomly assigned to TN (test) or RN (control) groups for an immediate implant placement and provisionalization protocol in the anterior maxilla. Buccal bone width (BBW) was assessed by cone-beam computed tomography (CBCT) immediately after implant placement and 4 months later, when the definitive crown was placed. The following parameters were measured on the day of surgery: insertion torque (IT), implant stability quotient (ISQ), crestal width (CW), and soft tissue thickness (STT) at 3 and 5 mm from the gingival margin. Postoperatively, at 4 and 12 months, the MBL, pocket depth (PD), bleeding on probing (BOP), CW, and STT at 3 and 5 mm were recorded.
+
+Two implants per group failed to integrate; in both groups, 1 year implant survival and success rates were 88.9%. At 4 months, BBW was not significantly different between groups (p > 0.05). At 12 months, no significant differences were found in MBL, PD, BOP, CW, or STT (p > 0.05).
+
+This randomized trial did not demonstrate superiority of the triangular neck over the round neck at 12 months. Estimates and confidence intervals are compatible with small between-group differences. As the study was not designed or powered for equivalence, no equivalence claims are made.
+
+ClinicalTrials.gov identifier: NCT05944419.
+
+KEYWORDS:
+buccal bone thickness, dental implants, immediate implants, immediate provisionalization, implant neck design
+
+MESH TERMS:
+Humans, Female, Male, Cone-Beam Computed Tomography, Middle Aged, Immediate Dental Implant Loading, Maxilla, Treatment Outcome, Adult, Dental Prosthesis Design, Aged, Crowns, Dental Implantation Endosseous, Dental Implants
+
+ARTICLE TYPES:
+Journal Article, Randomized Controlled Trial
