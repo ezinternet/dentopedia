@@ -1832,6 +1832,7 @@ tags: []
 - [[drug/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Botelho J et al. 2025 · sr+ma(우산형 고찰) · SR 44편·MA 221개 치주치료 항생제 우산형 고찰: 전신 항생제 CAL 0.3 mm 개선의 통계적 강력 추정치 존재하나 SR 65.6%가 AMSTAR-2 "매우 낮음"으로 전체 근거등급 "약함"; 항생제 스튜어드십(Antimicrobial Stewardship) 지지, 중증/공격성 치주염 한정 사용 권고
 - [[drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Díaz 2025, sr+ma, 상악동거상술 후 항생제(7개 SR/MA umbrella): 감염률 0.3–11.6%, 예방 투여는 고위험군(막 천공·측방 접근·전신질환)에서만 근거 있고 단순 SFE에서는 루틴 불필요(GRADE 낮은 확실성)
 - [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Mohammadpour 2025, sr, 구강악안면외과 전 술식 125편 스코핑 리뷰: 술후 24시간 초과 AP 연장 투여 불필요, 아목시실린 단회 투여가 표준, 클린다마이신은 페니실린 알레르기 시에만
+- [[drug/rajan-2025-doxycycline-safety-children-dental-sr]] — Rajan 2025, SR+MA (5개 연구, n=162), 8세 미만 소아 단기 독시사이클린(doxycycline) 치아 착색 위험 0.62%로 극히 낮아 AAP/CDC 개정 지침 지지
 
 
 <!-- BATCH INGEST 2026-06-04: 봉합·창상폐쇄 + 수직 골증대술 + 잔여. NEW category: suture-wound-closure. NEW subcategory: implants/vertical-ridge-augmentation -->
