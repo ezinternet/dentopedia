@@ -288,6 +288,7 @@ tags: []
 - [[pdrn/pachhapure-2025-mitigating-effect-mechanism-polydeoxyribonucleotide]] — In vitro (Int J Mol Sci 2025): PDRN 100µg/mL이 zoledronic acid 치은섬유아세포(HGF-1) 독성을 TBK1 인산화 억제·p-PKB 회복·ROS 감쇠로 예방·역전; 지연 투여도 효과 → MRONJ 세포보호 기전 근거.
 - [[pdrn/gwak-2021-does-polydeoxyribonucleotide-effect-tendon]] — SR/MA, **비치과 cross-domain** (Medicine 2021): 건/인대 통증 PDRN 주사 SMD −1.43 (P<0.00001), 통증↓하나 기능·근력 무변화; 치과 진통 적응증 외삽 근거(직접 적용은 해석 수준).
 - [[pdrn/kim-2019-efficacy-safety-polydeoxyribonucleotide-knee]] — SR/MA (RCT 5편), **비치과 cross-domain** (Medicine 2019): 슬관절 OA 관절강내 PDRN, HA 대비 1·2개월 통증 우위(4개월 소멸)·기능·안전 동등; PDRN 진통·안전 최고 등급 근거(비치과).
+- [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
 
 ## 즉시식립 (Immediate Implant)
 - [[immediate-implant/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] — 동물(쥐 구개치근 발치와 모델): 저변형률+PDL 유래 Wnt 반응세포가 즉시식립 골유착 구동, 고변형률→골세포사·흡수; 상악대구치 구개치근와 식립의 생역학적 근거
@@ -1268,6 +1269,13 @@ tags: []
 - [[botulinum-toxin/adel-2023-longevity-efficacy-neurotoxin-injection-lip]] — Experimental (PRS GO 2023, n=10): IncoBoNT-A + lip repositioning + 반복 BTX 2/4/8개월 — gingival display 5.12→0mm 유지, 12개월 0.78mm minimal relapse
 - [[botulinum-toxin/deng-2023-osseointegration-titanium-implants-botox-induced]] — Animal (Biomimetics 2023, rat femur): botox 유발 근마비 → trabecular/cortical bone 손상 + smooth PT 임플란트 osseointegration 망가짐; SLAnano + sema3A 국소 hydrogel BIC 회복
 - [[botulinum-toxin/jkda-2025-63-6-002]] — Clinical review (서울그랜드치과 김준영, JKDA 2025): 치과 BTX 적용 framework — 기능(TMD·masseter·bruxism) + 미용(gummy smile·lip line). 한국 임상 적용 가이드
+- [[botulinum-toxin/angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd]] — Retrospective (n=98, DC/TMD, Toxins 2026): standardized incobotulinumtoxinA (Xeomin, ~200U) — VAS 2.44→0.37, MMO preserved, 79.6% favorable at 12mo
+- [[botulinum-toxin/abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis]] — Prospective (n=200, 2yr, J Maxillofac Oral Surg 2026): masseter+temporalis BTX — VAS 7.99→3.87 sustained; early response moderated by age/SES, long-term equalized
+- [[botulinum-toxin/eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism]] — Retrospective case-control (n=60, panoramic, OOOO Radiol 2026): BoNT-A → cortical thickness↑, G2/G3 pathological morphology↓ vs untreated bruxism; AND unchanged
+- [[botulinum-toxin/hira-2026-masseter-botulinum-bruxism-severity-pain-sleep]] — Prospective (n=80, 6mo, J Craniofac Surg 2026): masseter BoNT-A — BDI 20.8→4.3 (1mo), PSQI 10.0→2.8 sustained (6mo); sleep quality most durable outcome
+- [[botulinum-toxin/aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma]] — **SR+MA** (36 studies, Cranio 2026): OS vs BTX-A for adult sleep bruxism — no significant pain difference at intermediate follow-up; BTX-A faster short-term; OS preferred for mechanical protection
+- [[botulinum-toxin/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound]] — Prospective self-controlled (n=14, USE, Aesthetic Plast Surg 2025): BoNT-A — masseter thickness ↓28.9-31.5% at 1-3mo; elasticity (shear wave velocity) fully returned to baseline by 6mo; thickness and elasticity recovery uncorrelated
+- [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
 
 ## 우식 (Caries)
 - [[overviews/non-restorative-caries-management-topical-fluoride-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편): 비수복적 우식관리(NRCT)·국소불소 종합 — 우식은 가역적 산질환이라 활성 비공동성 병소는 삭제없이 화학정지. SDF·실란트+불소 전반 최상(Urquhart 2019), SDF>불소바니시(Zheng 2025, 착색 감수), 치근우식 1차 고농도(5000ppm)불소치약(Chen 2026), FV는 실란트 대비 비우월·비용불확실(Chestnutt 2017·Kumar 2026), 8%아르기닌 무불소대안(Yin 2025), 수복은 공동성·실패시(위계 미확립 Schmidt 2024)
