@@ -1,0 +1,9 @@
+[ABSTRACT-ONLY — full text not retrieved; no PMC OA. Source: PubMed, PMID 40653156, DOI 10.1016/j.joen.2025.07.005]
+
+Title: Pulp Survival of Cracked Teeth with Normal Pulp or Reversible Pulpitis After External Splinting: A Systematic Review and Meta Analysis.
+Journal: J Endod 2025;51(11):1526-1535.
+
+Aim: assess pulp survival of cracked teeth with normal pulp or reversible pulpitis managed using external splinting.
+Methods: search of PubMed, Scopus, LILACS, EMBASE, Web of Science, Google Scholar to Jan 31, 2025. Clinical studies of permanent mature cracked teeth (normal pulp or reversible pulpitis), min 12-mo follow-up. Risk of bias: Newcastle-Ottawa Scale; QoE: GRADE. Random-effects pooled pulp survival.
+Results: 10 studies, 711 cracked teeth. Pooled 12-mo pulp survival 85% (95% CI 79-91%), considerable heterogeneity I2=82.6%. No publication bias. Subgroups: without interim orthodontic banding 89% (83-95%) vs with banding 79% (67-90%); direct approach 89% (82-97%) vs stepwise 81% (72-90%). Risk of bias moderate; QoE very low.
+Conclusion: external splinting shows favorable 1-yr pulp survival for cracked teeth with reversible pulpitis, but protocols vary widely; high heterogeneity and very low QoE → need rigorous comparative studies.
