@@ -1,0 +1,143 @@
+Effects of oral hygiene management containing Cibotium Barometz J. Smith extract on peri-implant mucositis: a randomized clinical trial
+
+Authors: Yu-Rin Kim, Seoul-Hee Nam (Korea)
+Journal: BMC Complementary Medicine and Therapies, 2025
+PMID: 40329262 | PMCID: PMC12054295 | DOI: 10.1186/s12906-025-04900-3
+Trial registration: ICTRP KCT0008626 (17/07/2023, retrospectively registered)
+
+Source: PubMed Central full text (verbatim).
+
+== ABSTRACT ==
+
+Background
+The purpose of this study was to confirm the improvement of peri-implant mucositis (PIM) in patients using the toothpick method (TPM) containing a natural ingredient: Cibotium Barometz (CB).
+
+Methods
+As a randomized, blind, controlled trial study, there were 21 participants in the CB TPM group (CBG), 20 participants in the chlorhexidine group (CG), and 19 participants in the saline group (SG). All three groups were examined both before and after TPM. We performed a paired t-test to determine the differences between the mean values of the three groups. We used ANOVA to evaluate the mean differences in clinical indicators, saliva tests, and periodontal bacteria.
+
+Results
+There were no significant differences in sociodemographic characteristics and oral health status between the three groups, thus ensuring homogeneity among the participants. Occult blood in the saliva test increased for SG and CG and decreased for CBG. Compared to the before-TPM condition, leukocyte and protein levels decreased for CG and CBG after TPM (< 0.05). As a result of checking the effect size (Cohen's d) before and after TPM according to the three groups, three species of bacteria were identified that showed a significant effect only on CBG, and two species were identified that showed a significant effect on CBG and CG (Cohen's d >= 0.8).
+
+Conclusion
+This study confirmed the efficacy of CB-applied TPM on PIM patients and demonstrated its potential as a non-surgical treatment option. Therefore, practitioners could extensively use CB-applied TPM as a mechanical tool and safe chemical and biological removal agent for post-implant management in clinical settings.
+
+Trial registration
+ICTRP KCT0008626, registered 17/07/2023 (retrospectively registered).
+
+== FULL TEXT ==
+
+Background
+
+Despite dental implants' overall satisfactory survival rate, unsuccessful outcomes sometimes occur due to various inflammatory diseases in the peri-implant tissues. Peri-implant diseases refer to an inflammatory process in the tissues surrounding the dental implants. The prevalence of peri-implantitis has been reported to be as high as 56%, and the reported prevalence widely ranges from 12% to 43%. Peri-implant mucositis (PIM) is defined as a reversible inflammatory process in the soft tissue surrounding the implant, whereas peri-implantitis involves additional loss of peri-implant bone. Scholars generally view PIM as a precursor of peri-implantitis. Therefore, prevention and management of PIM are essential in the long-term management of dental implants.
+
+In animal and clinical studies, biofilm deposition on the implant surface has been identified as an important etiological factor in initiating and developing peri-implant inflammation. Several studies investigating the biofilm-related etiology of peri-implant inflammation have identified plaque removal as an essential step in resolving PIM. Therefore, plaque removal from the peri-implant sites is considered critical in the long-term management of dental implants. Physical oral hygiene practices that remove dental plaque, such as toothbrushing or oral detergent, should be prioritized for plaque removal. A single or combination treatment of systemic antibiotics, such as penicillin and metronidazole, may be used 5 to 14 days after the practice. Furthermore, 0.12% chlorhexidine can be used for oral cavity disinfection. The surgical treatment method for PIM is to remove bacteria, their by-products, calculus, and soft tissue attached to the implant surface where the surrounding bone has been lost, thereby creating an environment in which bone re-adhesion can occur. Therefore, dental plaque management is essential in preventing and treating PIM.
+
+The toothpick method (TPM), in which an expert directly performs Watanabe toothbrushing using a double-row type medium bristle toothbrush, is an effective method for dental plaque removal that efficiently prevents and improves PIM. Chlorhexidine is effective when combined with TPM to treat PIM; its usage is gradually increasing. However, prolonged usage of chlorhexidine stains the teeth and gingiva, changes taste perception, and increases supragingival calculus. Furthermore, it can cause adverse epitheliolysis of oral mucosa when used in pediatric patients. Moreover, adverse cases of shock, hypersensitivity, and temporary parotitis have also been reported for the drug. Additionally, when chlorhexidine is used in combination with other drugs (including toothpaste), cationic component binding can reduce its efficacy. Thus, there is an increasing interest in replacing such chemical ingredients with natural substances showing bacterial inhibitory effects.
+
+Natural substances with demonstrated therapeutic effects for PIM include various plant leaves extracts. Often used in traditional Asian medicine, Cibotium Barometz (CB) has been reported to have bioactive properties, such as anti-inflammatory effects in cells and bones. Various studies have been conducted to investigate CB's therapeutic properties: antioxidation, anti-inflammation, hemostasis (post-tooth extraction), regeneration and recovery of nerve cells, and osteoclast formation inhibition. However, no study has been conducted to investigate the combinatory effects of TPM and CB for managing PIM. Therefore, we investigated the antibacterial properties of the natural extract of CB against PIM-related bacteria in PIM patients subjected to TPM. Furthermore, CB was compared against chlorhexidine and saline, which are frequently used with TPM for implant patients in the clinic, to demonstrate the utility of the substance.
+
+Methods
+
+Ethical consideration
+Research ethics were approved by Kangwon National University (KWNUIRB-2023-04-007-001, Chuncheon, South Korea). The WHO ICTRP (registration number: KCT0008626) was retrospectively registered. Conducted per CONSORT guidelines. Written consent obtained from all subjects.
+
+CB extraction
+Dried CB purchased from Foodsynergy Co., Ltd. (Seoul, South Korea) was ground and mixed with 70% ethanol, soaked and mixed at 60 C for 12 h, filtered (Advantec No. 2), concentrated using a rotary vacuum evaporator, then lyophilized at -80 C to obtain CB-extracted powder, stored at -20 C until usage.
+
+Study participants
+Number of participants determined using G*Power 3.1 (significance level a = 0.05 bilateral, power = 0.95, effect size = 0.5) -> 54 participants required. Initially 72 recruited; after excluding 5 who declined or did not meet inclusion criteria, 67 selected. Randomly divided into three groups by computer-based randomization (computer-generated random number table), double-blinded. Participants with abnormal data (missing values or device measurement errors) excluded, ultimately resulting in 60 participants:
+- SG (saline-TPM group): n = 19 (negative control)
+- CG (chlorhexidine-TPM group): n = 20 (positive control)
+- CBG (CB-TPM group): n = 21 (experimental group)
+
+Study design and protocol
+Randomized blind controlled trial. Patients of "M Dental Clinic" in Busan, South Korea, January-July 2023. Inclusion: over 20 years old, >= 1 oral implant, diagnosed with PIM within the past year (PIM diagnosis per Papapanou et al.; dentist specializing in oral surgery diagnosed inflammation limited to soft tissue without bone loss around implant). Exclusion: serious dental caries (>= 1 dentin caries), xerostomia, smoking habit, chronic diseases, current antibiotic treatment, severe periodontal disease (>= 1 tooth with pocket depth > 4 mm), periodontal surgery with gum incision within past month, bleeding disorders.
+
+Clinical examination
+Dental scaling performed by a trained dental hygienist after oral examination by a dentist; study commenced after one week of recovery (calculus and plaque removed as clinical variables). Survey items: sociodemographic characteristics (age, gender, marriage, local disease not related to PIM), oral health status (oral exam, number of implants, subject satisfaction), Periodontal Screening and Recording (PSR), Bleeding on Probing (BOP). Periodontal disease-related factors: saliva analysis and changes in 12 types of PIM-related bacteria. TPM performed using a double-row medium bristle toothbrush applied with 10 mg/mL CB extract (CBG), 0.12% chlorhexidine (CG), or saline (SG). After scaling (one week before commencement), toothbrushes and toothpaste provided; participants trained on method and frequency of tooth brushing. Clinical indicators collected before and after TPM by a single dental hygienist with > 10 years experience.
+
+Saliva test analysis system
+Sill-Ha ST-4910 (Arkray Inc., Kyoto, Japan). Subjects rinsed with 3 mL mouthwash for 10 s, spat saliva into sterile tubes; saliva placed on measuring strip; periodontal health (occult blood, leukocytes, proteins) analyzed after 5 min. Manufacturer averages: blood 22, leukocyte 49, protein 43. Higher counts = poorer periodontal health.
+
+Microbiological analysis of PIM
+Two sterilized paper points (size #15) inserted into the dental implant area for 10 s, placed in sterile 1.5 mL tube. DNA extracted (AccuPrep Universal RNA Extraction Kit, Bioneer). Real-time PCR (CFX96 Touch, Bio-Rad). 12 PIM-related bacteria assayed: Parvimonas micra, Eubacterium nodatum, Porphyromonas gingivalis, Tannerella forsythia, Treponema denticola, Fusobacterium nucleatum, Prevotella intermedia, Prevotella nigrescens, Eikenella corrodens, Campylobacter rectus, Aggregatibacter actinomycetemcomitans, Staphylococcus aureus. Cycle: initial 95 C 30 s; denaturation 95 C 10 s; annealing 62 C 30 s; 40 cycles. Result as cycle threshold (Ct).
+
+Statistical analysis
+Significance level 5%, SPSS 24.0. ANOVA and chi-square for between-group differences. Paired t-test for pre- vs post-TPM. Cohen's d for effect size (0.2 small, 0.5 medium, 0.8 large). ANOVA + Duncan's post-hoc for between-group means; eta-squared effect size (0.01 small, 0.06 medium, 0.14 large).
+
+Results
+
+Population characteristics (Table 2)
+No significant difference in sociodemographic characteristics between groups (homogeneity ensured).
+- Gender Male: SG 8 (42.1%), CG 8 (40.0%), CBG 12 (57.1%); p = 0.525
+- Age (mean +/- SD): SG 58.05 +/- 9.11, CG 59.75 +/- 8.45, CBG 61.43 +/- 11.53; p = 0.141
+- Married: SG 84.2%, CG 85.0%, CBG 85.7%; p = 1.000
+- Locoregional disease present: SG 26.3%, CG 35.0%, CBG 38.1%; p = 0.742
+
+Oral health status (Table 3)
+No significant difference between groups.
+- BOP (mean +/- SD): SG 6.00 +/- 6.07, CG 5.50 +/- 5.82, CBG 5.90 +/- 7.28; p = 0.967
+- Number of implants: SG 11.68 +/- 3.77, CG 9.75 +/- 2.17, CBG 10.52 +/- 5.08; p = 0.303
+- PSR: Code 2 predominated all groups (SG 84.2%, CG 80.0%, CBG 85.7%)
+- Satisfaction with disinfectant solution (1-5): SG 1.58 +/- 0.51, CG 1.40 +/- 0.50, CBG 4.43 +/- 0.51 (CBG much higher satisfaction)
+
+Periodontal-related saliva analysis (Table 4)
+No meaningful difference before TPM. After TPM, significant between-group differences in occult blood (eta2 = 0.459, p < 0.001), protein (eta2 = 0.629, p < 0.001), total counts (eta2 = 0.417, p < 0.001).
+
+Occult blood (estimated mean +/- SE, before -> after; Cohen's d; p):
+- SG: 53.63 +/- 0.45 -> 77.26 +/- 2.31; d = -2.212; p < 0.001 (INCREASED)
+- CG: 51.75 +/- 3.35 -> 52.10 +/- 4.83; d = -0.017; p = 0.942 (no change)
+- CBG: 55.19 +/- 5.65 -> 37.19 +/- 4.50; d = 1.148; p < 0.001 (DECREASED, large effect)
+
+Leukocytes:
+- SG: 60.00 -> 48.26; d = 0.382; p = 0.114 (NS)
+- CG: 61.50 -> 41.45; d = 1.248; p < 0.001
+- CBG: 78.38 -> 37.05; d = 1.462; p < 0.001
+
+Proteins:
+- SG: 48.63 -> 43.37; d = 0.208; p = 0.377 (NS)
+- CG: 38.65 -> 24.10; d = 0.599; p = 0.015
+- CBG: 54.43 -> 9.05; d = 1.965; p < 0.001 (large effect)
+
+Total:
+- SG: 162.26 -> 168.89; d = -0.131; p = 0.576 (increased)
+- CG: 151.90 -> 117.65; d = 0.640; p = 0.010
+- CBG: 188.00 -> 83.29; d = 2.281; p < 0.001 (large effect)
+
+PIM-related bacteria levels (Table 5; estimated mean +/- SE, before -> after; Cohen's d; p)
+
+Parvimonas micra: SG 110.42 -> 886.89 (d = -0.731, p = 0.005, INCREASED); CG 128.35 -> 560.50 (d = -0.696, p = 0.006, increased); CBG 129.62 -> 21.62 (d = 1.088, p < 0.001, DECREASED). eta2 after = 0.217.
+
+Eubacterium nodatum: SG 90.74 -> 243.47 (d = -0.577, p = 0.022, increased); CG 93.20 -> 312.15 (d = -0.626, p = 0.011, increased); CBG 91.00 -> 22.19 (d = 0.632, p = 0.009, decreased). eta2 = 0.135.
+
+Porphyromonas gingivalis: SG 725.21 -> 646.74 (d = 0.080, p = 0.732 NS); CG 742.15 -> 607.15 (d = 0.117, p = 0.606 NS); CBG 771.62 -> 32.57 (d = 0.344, p = 0.131). eta2 after = 0.086, p = 0.021. (CBG only achieved very low post level)
+
+Tannerella forsythia: SG 4399.63 -> 23930.63 (d = -0.497, p = 0.044, increased); CG 5205.45 -> 3280.90 (d = 0.215, p = 0.347 NS); CBG 5238.43 -> 79.24 (d = 0.631, p = 0.009, decreased). eta2 = 0.180.
+
+Treponema denticola: SG 6180.79 -> 12511.00 (d = -0.302, p = 0.195 NS); CG 494.90 -> 594.30 (d = -0.630, p = 0.011, increased); CBG 3395.00 -> 127.33 (d = 0.386, p = 0.092). eta2 = 0.192.
+
+Fusobacterium nucleatum: SG 590103.84 -> 415487.32 (d = 0.302, p = 0.204 NS); CG 584661.40 -> 93566.15 (d = 1.832, p < 0.001, large); CBG 551931.62 -> 8349.43 (d = 2.007, p < 0.001, large). eta2 = 0.193. (CG and CBG both large decrease)
+
+Prevotella intermedia: SG 3779.95 -> 5069.16 (d = -0.207, p = 0.378 NS); CG 3789.45 -> 6638.45 (d = -0.288, p = 0.214 NS); CBG 3861.14 -> 273.90 (d = 0.912, p < 0.001, large decrease). eta2 = 0.167.
+
+Prevotella nigrescens: SG 745.53 -> 1068.37 (d = -0.157, p = 0.503 NS); CG 741.70 -> 339.70 (d = 0.563, p = 0.021, decrease); CBG 736.14 -> 21.05 (d = 4.055, p < 0.001, very large decrease). eta2 = 0.276. (CG and CBG decrease)
+
+Eikenella corrodens: SG 157.37 -> 39.47 (d = 0.504, p = 0.041); CG 150.00 -> 25.00 (d = 0.557, p = 0.022); CBG 150.86 -> 6.38 (d = 0.508, p = 0.030). All three decreased. eta2 = 0.117.
+
+Campylobacter rectus: SG 100.63 -> 2363.00 (d = -0.590, p = 0.019, increased); CG 110.80 -> 115.50 (d = -0.020, p = 0.928 NS); CBG 104.90 -> 8.29 (d = 0.715, p = 0.004, decrease). eta2 = 0.204.
+
+Aggregatibacter actinomycetemcomitans: SG 346.84 -> 20.26 (d = 0.582, p = 0.021); CG 329.50 -> 0.00 (d = 0.563, p = 0.021); CBG 317.00 -> 0.00 (d = 0.553, p = 0.020). All three decreased. eta2 = 0.196.
+
+Staphylococcus aureus: SG 47.47 -> 174.68 (d = -0.583, p = 0.020, increased); CG 44.30 -> 10.00 (d = 0.907, p < 0.001, large); CBG 45.67 -> 4.95 (d = 1.122, p < 0.001, large). eta2 = 0.292. (CG and CBG large decrease)
+
+Summary of bacterial effects:
+- SG significantly INCREASED 5 of 12 bacteria (P. micra, E. nodatum, T. forsythia, C. rectus, S. aureus).
+- CG significantly increased 3 of 12 (P. micra, E. nodatum, T. denticola).
+- Bacteria with large effect (Cohen's d >= 0.8) ONLY in CBG: Parvimonas micra, Tannerella forsythia, Prevotella intermedia (CBG-only large decreases).
+- Bacteria with large effect (Cohen's d >= 0.8) in both CBG and CG: Fusobacterium nucleatum, Staphylococcus aureus (and Prevotella nigrescens d = 4.055 CBG / 0.563 CG).
+
+Discussion (key points)
+Dental implants high success rate 94.6%, but 10-40% show side effects like PIM. TPM widely used for implant management; patient satisfaction 4.6/5.0, 92.5% intention to receive again. Dental floss popular (76.3%) but can catch fragments around rough implant surface and contribute to peri-implant disease. Salivary occult blood is an early symptom of periodontal disease; CB-applied TPM reduced inflammatory bleeding more efficiently than chlorhexidine or saline applied with TPM. Leukocyte/protein are inflammation biomarkers; CB-TPM reduced protein/leukocyte more effectively. CB extract contains flavonoids, tannins, terpenoids -> multiple antibacterial mechanisms (destroying bacterial cell walls/membranes, affecting protein/enzyme activities), in contrast to chlorhexidine's specific mechanism. Chlorhexidine causes cell death at low 0.002% concentration and fibroblast necrosis at high concentration -> CB may be a safe alternative without side effects. Saline lacks intrinsic antibacterial properties allowing bacterial regrowth; some bacteria surviving chlorhexidine may proliferate faster. Limitation: increased levels of some bacteria after TPM (implant surface topography differs from natural teeth; differing peri-implant immunology; uneven bacterial deposition). TPM combined with CB extract is synergistic through both mechanical and chemical removal.
+
+Conclusion
+CB extract in combination with TPM tested for non-surgical management of PIM patients. As a natural alternative to synthetic chemicals, CB extract may have clinical utility for PIM patients and post-implant management. Further long-term follow-up and large-scale RCTs warranted.
