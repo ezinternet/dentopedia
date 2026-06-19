@@ -79,6 +79,7 @@ tags: []
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 - [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — Pirc 2026, rct, 15–17y RCT follow-up (n=60, 151 implants): one-piece Straumann SLA vs two-piece Brånemark — survival 95%, MBL 0.08 mm vs 1.53 mm favoring one-piece, but technical complications 35.4% vs 5.8% favoring two-piece
+- [[implants/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct]] — 12-month RCT (Clin Oral Implants Res 2025): triangular vs round implant neck design × MBL, soft tissues in immediately placed implants; no significant MBL difference at 12 months
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -137,6 +138,8 @@ tags: []
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR(Cureus 2023): 골밀도화 드릴링이 다수 연구에서 ISQ·골밀도 높음; 단 RCT 비뚤림위험 높아 해석 주의
 - [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — RCT(n=100, 5가지 골형성 프로토콜): 중속 300rpm이 3개월 ISQ 최고; OD는 일시적 중간기 상승만; 골농축은 ISQ 점진 하락
 - [[implants/isq/kwon-2026-thread-depth-guided-immediate-implant-isq-rct]] — RCT(n=54, 완전가이드 즉시식립): deep thread는 식립토크↑(≥40Ncm 비율↑)이나 시계열 ISQ·12개월 MBL 동등, 각도편차는 오히려 유의 증가(MST vs MDT p=0.029, 하악대구치 최악) — 즉시식립 1차안정성은 thread depth보다 국소 해부가 지배 (CIDRR 2026)
+- [[implants/isq/bhattacharya-2025-macrogeometry-implant-stability-bone-markers-split-mouth-rct]] — Split-mouth RCT (J Prosthet Dent 2025): tapered vs cylindrical macrogeometry × primary stability (ISQ/ITV) and bone markers at placement and early healing
+- [[implants/isq/monje-2025-implant-design-stability-early-healing-rct]] — RCT (J Clin Periodontol 2025): implant design variables and ISQ stability trajectory during early healing — BLX tapered vs BL cylindrical
 - [[implants/isq/lee-2011-isq-loading-protocol-prediction]] — 전향적(5개월, 아산의료원): ISQ-삽입토크·골밀도 상관; ISQ≥65 → 조기부하 예측 가능
 - [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] — 전향적 임상시험(n=36, D3/D4): 생체활성 나노표면 ISQ 안정 유지 vs 전통 표면 ISQ 딥; 생체활성군 조기부하 가능성 증가
 - [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] — Cross-sectional (85 implants): Osstell ISQ ICC=0.97; single measurement sufficient; SmartPeg I vs II equivalent; mean ISQ 72.4
@@ -676,6 +679,7 @@ tags: []
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
 - [[periodontics/jkda-2025-63-11-005]] — Special issue (중앙보훈병원 치주과 송영우, JKDA 2025): 치주치료 EBM 권장사항 + 전신질환(CVD·DM) 연관성 강조 — 한국 임상 적용 framework
+- [[periodontics/kim-2026-probiotics-nspt-periodontal-db-rct]] — DB-RCT (J Clin Periodontol 2026, PMC OA): probiotics adjunct to NSPT/SRP — PPD, BOP, CAL outcomes
 - [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Milinkovic 2025, RCT (n=38), 국소 피페라실린+타조박탐이 전신 아목시실린+메트로니다졸과 동등한 6개월 NSPT 임상 효과 확인
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — Aimetti 2025, rct, BOOST 전처치(수술 2주 전 국소 독시사이클린)가 MIST 재생술 결과를 유의하게 개선: CAL 획득 4.1 대 3.2 mm, 복합성공률 83.3% 대 46.7%(NNT=2.73), 방사선 골충전 3.5 대 2.7 mm
 
@@ -878,6 +882,7 @@ tags: []
 - [[endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — 미성숙 비활력치 revitalization vs apexification SR+MA(Cureus 2024): 치근 길이·상아질 벽 두께 모두 revitalization 유의 우위.
 - [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — 미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율(RET 97.8%/MAP 97.1%), 성공율(RET 91.3%/MAP 94.6%) — 유의차 없음, 근거 수준 낮음.
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — 외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
+- [[endodontics/regenerative/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
 - [[resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin]] — In vitro(µ-TBS+SEM): Clearfil SE Bond 최고 결합강도·혼성층 품질; 단일단계 E&R은 최고 나노누출 — 혼성화 품질이 결합강도 직접 예측
@@ -1087,6 +1092,10 @@ tags: []
 - [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] — SR+MA(RCT 3편, J Dent 2016): 직접 vs 간접 레진 인레이/온레이 — 5년·11년 모두 실패율 유의차 없음; 온레이 5년 생존 87%
 - [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] — SR+MA(13편, Oper Dent 2021): 레진 5년 생존 91%, 세라믹 10년 85%; 이차우식/파절 주요 실패 원인
 
+
+## 근관치료 — 근관외과·기타 (Endodontics: Periapical Surgery / Protocols)
+- [[endodontics/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
+- [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (J Endod 2026): hemostatic agents (epinephrine/ferric sulfate/AlCl₃/bone wax/TXA) in periapical surgery — bleeding control, healing
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
 - [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
@@ -1910,6 +1919,7 @@ tags: []
 - [[endodontics/vpt/komora-2024-comparison-bioactive-material-failure-rates]] — Komora 2024 · sr+ma · Network MA (21 RCTs): Ca(OH)₂ fails ~2.3–2.5× more than MTA (OR 2.53 at 12mo); Biodentine·Totalfill = MTA
 - [[endodontics/vpt/pusa-2025-clinical-success-vital-pulp-therapy]] — Pusa 2025 · sr+ma · SR+MA (21 RCTs, 1,948 teeth): MTA beats Ca(OH)₂ in direct pulp capping (RR 1.21, P=0.03); MTA ≈ Biodentine
 - [[endodontics/vpt/elmsmari-2026-decision-ready-evidence-vital-pulp]] — Elmsmari 2026 · sr+ma · Bayesian network MA (35 RCTs, 2,906 teeth): VPT success >93%; calcium-silicate beats Ca(OH)₂
+- [[endodontics/vpt/hu-2026-direct-pulp-capping-materials-rct-12mo]] — RCT 12mo (Clin Exp Dent Res 2026, PMC OA): iRoot BP Plus vs MTA vs Ca(OH)₂ direct pulp capping — 3-way RCT, bioceramic vs calcium-silicate vs traditional
 
 ### Oral surgery — coronectomy
 - [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Di Spirito 2025 · sr · Umbrella review (6 SRs, 5896 subjects): coronectomy re-intervention 4.45%, mean 10.4 mo, IAN injury 0.76%
@@ -1950,6 +1960,7 @@ tags: []
 ### Drug — analgesics / antiplatelet
 - [[drug/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
+- [[drug/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
 
 ### sinus-lift/transcrestal (added 2026-06-06)
 - [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Bashar Shahood 2024 · prospective · n=126 implants, 3-arm (no-graft vs Bio-Oss vs Bio-Oss Collagen+CGF), RBH ≤5mm: ISR 96%, CGF 조합이 통증↓·골이득↑
@@ -2077,6 +2088,7 @@ tags: []
 - [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]] — Alquria 2023 · in-vitro · 이종 biofilm 70 소구치: PUI·XP-endo·GentleWave 모두 세균/LTA/LPS 감소(GWS+MIT 최고), 내독소 완전제거 불가 (DOI 10.1038/s41598-022-26855-y)
 - [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]] — Bedran 2020 · sr+ma · 9편(7 메타): 수산화칼슘 ICM이 LPS 유의 감소(SMD ≈ −0.9~−1.1, p<0.001) but 완전제거 못함; 확실성 매우 낮음 (DOI 10.1016/j.joen.2020.07.030)
 - [[endodontics/irrigation/ahmad-2022-endotoxins-endodontic-infections-overview-sr]] — Ahmad 2022 · sr · SR 5편 overview: 내독소는 증상치와 상관; 화학기계적청소+Ca(OH)₂ 감소시키나 완전제거 불가; 증상성 AP서 다회>단회 (DOI 10.1038/s41432-022-0826-x)
+- [[endodontics/irrigation/lazaro-2026-laser-activated-irrigation-endodontics-umbrella]] — Umbrella SR (Int Dent J 2026, PMC OA): laser-activated irrigation (PIPS/Er:YAG/diode) vs conventional NaOCl — efficacy, safety
 
 **endodontics**
 - [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
@@ -2249,6 +2261,7 @@ tags: []
 - [[implants/peri-implantitis/fathi-2025-keratinized-mucosa-implant-health-umbrella-review]] — Umbrella review (10 SRs/MAs, 7,139 participants): KMW≥2 mm reduces inflammation/plaque/recession/peri-implantitis; FGG first-line, XCM alternative [sr]
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — Soulami 2022 · sr · 3편(168–349 임플란트): emergence angle >30°·볼록 profile이 peri-implantitis/MBL↑와 연관(<30° 대비); 근거 희박·인과 미입증 (DOI 10.1002/cre2.594)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — Basak 2024 · retrospective · 202 임플란트: IDRA 변연-치조정 ≤1.5 mm가 MBL 위험 3.42배; 치주염 Stage4 vs2 26.31배, 넓은/긴 임플란트 6.10×/5.02× (DOI 10.1016/j.jdent.2024.104935)
+- [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — Multicenter RCT (J Dent 2026): local 2% minocycline adjunct to mechanical debridement for peri-implantitis — BOP, PD, MBL outcomes
 
 ### implants — KM augmentation & soft-tissue management
 - [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
