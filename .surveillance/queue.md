@@ -38,3 +38,9 @@
       "Effect of repeated toothbrushing instructions on periodontal health in a community (Toothpick Method)" — Nihon Koshu Eisei Zasshi
 - [ ] PMID 24034864 | RCT | OA:none | toothpick-method | edat 2013/09/03
       "Reduction in dental plaque in patients with mental disorders through the dental hygiene care programme (toothpick method)" — Int J Dent Hyg
+- [ ] PMID 41331619 | SR+MA | OA:none | floss-interdental | edat 2025/12/02
+      "Oral Irrigator Versus Dental Floss in Orthodontic Patients: A Systematic Review and Meta-Analysis" — Int J Dent Hyg
+- [ ] PMID 41558746 | RCT | OA:PMC PMC12972602 | floss-interdental | edat 2026/01/20
+      "Impact of Interdental Brushing on Pregnancy-Associated Gingivitis: A Secondary Analysis of a Randomised Controlled Trial" — J Clin Periodontol
+- [ ] PMID 41387303 | RCT | OA:PMC PMC12748044 | floss-interdental | edat 2025/12/12
+      "Efficacy and Safety of AirFloss Ultra With Essential Oils Versus Waxed Dental Floss as Adjunct to Toothbrushing: A Randomised Controlled Clinical Trial" — Int J Dent Hyg

@@ -40,6 +40,15 @@
       "query": "(\"toothpick method\"[tiab] OR \"Watanabe method\"[tiab] OR \"toothpick technique\"[tiab]) AND (toothbrush*[tiab] OR toothbrushing[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR \"oral hygiene\"[tiab] OR dental[tiab] OR \"peri-implant\"[tiab])",
       "ptyp": [],
       "last_run_edat": "2026/06/19"
+    },
+    "floss-interdental": {
+      "query": "(\"dental floss\"[tiab] OR flossing[tiab] OR \"interdental brush\"[tiab] OR \"interdental brushes\"[tiab] OR \"interproximal brush\"[tiab] OR \"interdental cleaning\"[tiab] OR \"interdental aids\"[tiab] OR \"oral irrigator\"[tiab] OR \"water flosser\"[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/19"
     }
   },
   "seen_pmids": [
@@ -49,8 +58,11 @@
     "40329262",
     "41163412",
     "41275475",
+    "41331619",
+    "41387303",
     "41421946",
     "41455825",
+    "41558746",
     "41716131",
     "41817287",
     "41887496",

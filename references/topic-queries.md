@@ -80,3 +80,10 @@ ingest 라우팅: 바이오필름 생태·매트릭스 기전 → `oral-microbio
 **ptyp 비움 필수** — 초niche(전체 7편)라 RCT/SR/MA로 좁히면 거의 다 빠진다.
 **치과 앵커(AND절) 필수** — `"toothpick method"` 단독은 식물병리(균접종법)·화학(Watanabe transference)·바닐라 수분 등 비치과 문헌이 압도(원쿼리 39편 중 절반 이상 노이즈). 앵커 추가 시 7편으로 정제됨.
 ingest 라우팅: 칫솔질법 효능 SR/RCT → `periodontics`, peri-implant mucositis 적용 → `implants/peri-implantitis`.
+
+### floss-interdental (치실 · 치간칫솔 · 구강세정기)
+```
+("dental floss"[tiab] OR flossing[tiab] OR "interdental brush"[tiab] OR "interdental brushes"[tiab] OR "interproximal brush"[tiab] OR "interdental cleaning"[tiab] OR "interdental aids"[tiab] OR "oral irrigator"[tiab] OR "water flosser"[tiab])
+```
+**노이즈 주의** — `flossing`/`floss` 단독은 스포츠·물리치료의 **"tissue flossing"(압박밴드 ROM 기법)** 문헌을 다수 끌어온다(발목 ROM·요통 RCT 등). ptyp(RCT/SR/MA)로도 안 걸러지므로 abstract 단계에서 dental 여부 확인 필수.
+ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `periodontics`, 교정환자 위생 한정 시 `orthodontics` 고려, 식편압입 맥락 → `food-impaction`.
