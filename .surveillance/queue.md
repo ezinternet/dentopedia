@@ -86,3 +86,7 @@
       "The treatment outcomes of cracked teeth: A systematic review and meta-analysis" — J Dent
 - [ ] PMID 40275667 | RCT | OA:none | cracked-tooth | edat 2025/02
       "Efficacy of total crown and porcelain inlay restoration and its effect on masticatory ability and gingival condition (Chinese)" — Shanghai Kou Qiang Yi Xue
+- [ ] PMID 40410308 | MA | OA:PMC PMC12102226 (CC BY 4.0) | c-shaped-canal | edat 2025/05
+      "Multinational cross-sectional study and meta-analysis on radicular grooves, C-shaped canals, and taurodontism in mandibular first premolars across 20 countries" — Sci Rep
+- [ ] PMID 41042605 | SR+MA | OA:none | c-shaped-canal | edat 2025/10
+      "Prevalence of C-shape Canal in Second Mandibular Premolars: A Systematic Review and Meta-analysis" — Indian J Dent Res
