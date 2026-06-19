@@ -675,6 +675,7 @@ tags: []
 - [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] — 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술이 술중 합병증 가장 강력한 예측 인자 (OR 102.5), 결합조직이식·골유도재생이 술후 합병증을 약 3배 증가시킴
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]] — Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
 - [[periodontics/jkda-2025-63-11-005]] — Special issue (중앙보훈병원 치주과 송영우, JKDA 2025): 치주치료 EBM 권장사항 + 전신질환(CVD·DM) 연관성 강조 — 한국 임상 적용 framework
+- [[periodontics/milinkovic-2025-local-systemic-antibiotics-periodontal-rct]] — Milinkovic 2025, RCT (n=38), 국소 피페라실린+타조박탐이 전신 아목시실린+메트로니다졸과 동등한 6개월 NSPT 임상 효과 확인
 
 ## 보철재료 (Prosthetic Materials)
 - [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
