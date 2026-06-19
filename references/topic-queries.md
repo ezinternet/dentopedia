@@ -145,6 +145,29 @@ ingest 라우팅: 치실/치간칫솔/구강세정기 효능 RCT·SR → `period
 
 **라우팅**: `drug/` (항생제 임상) + `implants/peri-implantitis` (임플란트 주위염 항생제) + `periodontics` (치주 항생제 보조요법) + `endodontics` (근관 항생제) + 오버뷰 `antibiotic-dental-decision-ladder` (신설 가능).
 
+### insadol-egatan (인사돌 · 이가탄)
+
+```
+(Insadol[tiab] OR ("Magnoliae cortex"[tiab] AND "Zea mays"[tiab]) OR (carbazochrome[tiab] AND (dental[tiab] OR periodontal[tiab] OR gingival[tiab])))
+```
+
+**목적**: 인사돌(Magnoliae cortex + Zea mays L. 추출물)과 이가탄(carbazochrome + lysozyme + vitamin C + E 복합제)에 관한 임상·기초 문헌 추적.
+
+**ptyp 비움** — 전체 문헌이 ~15편 수준의 초niche 토픽. RCT/SR/MA로 좁히면 사실상 검색 결과 없음.
+
+**현황 (2026-06-19 기준)**: PubMed 전수 12편 — 모두 seen_pmids 등록 완료.
+- 인사돌 현대 근거: `kim-2024` (개 동물), `kim-2018` (RAW264.7 in vitro), `hong-2019` (이가탄 RCT, n=93)
+- `choi-2015` (인사돌 통계 유효성 비판)
+- 나머지 8편 (1967–1991, 폴란드·헝가리·독일·프랑스어, 초록 없음) — 인제스트 가치 없음
+
+**주요 성분 대응**:
+- 인사돌: Magnoliae Cortex 추출물 + Zea mays L. 추출물 → NF-κB 억제, 항염
+- 이가탄: carbazochrome 10mg + tocopherol acetate 10mg + ascorbic acid 80mg + lysozyme 60mg
+
+**라우팅**: `drug/` (임상 효능 RCT), `periodontics/` (치주 보조요법), `evidence-appraisal/` (통계 방법론 비판).
+
+---
+
 ### toothpaste (투쓰페이스트 / dentifrice)
 ```
 (toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])
