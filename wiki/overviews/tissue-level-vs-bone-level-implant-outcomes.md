@@ -21,7 +21,8 @@ relations:
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 조직수준(Tissue-Level, TL) vs 골수준(Bone-Level, BL) 임플란트를 생존·변연골 소실(MBL)·주위염·연조직·특정 시나리오로 비교한 9편(2 SR, 1 SR+MA, 2 전향/케이스-대조, 2 후향, 2 동물) 종합.
+> - 조직수준(Tissue-Level, TL) vs 골수준(Bone-Level, BL) 임플란트를 생존·변연골 소실(MBL)·주위염·연조직·특정 시나리오로 비교한 10편(2 SR, 1 SR+MA, 2 전향/케이스-대조, 2 후향, 2 동물) + 1-piece vs 2-piece RCT 15–17년 종합.
+> - **pirc 2026 추가 (15–17년 RCT, n=60, 151개)**: 1-piece(Straumann SLA) 변연골소실(MBL) 압도적으로 적음(0.08 mm vs 1.53 mm), 그러나 기술적 합병증(Technical Complication) 6배 높음(35.4% vs 5.8%); 전체 생존율 95%. 생물학적 이점 vs 기술적 부담의 trade-off가 가장 장기간 추적된 근거.
 > - 중심 역설: 최고근거(SR/SR+MA)는 유의차 없음을 보이나, 매칭된 통제 임상연구들은 일관되게 TL을 선호 — SR은 이질적 시스템·시대를 묶어 신호가 희석되고, head-to-head는 임플란트-지대주 접합부(IAJ) 위치라는 단일 변수를 분리하기 때문.
 > - 생존: TL·BL 모두 모든 시나리오에서 동등(>90–100%) — 임플란트 타입만으로 실패 예측 불가[합의수준].
 > - MBL: SR 수준에선 유의차 없으나(Cosola 2020, Atieh 2025), 동질적 head-to-head에선 TL이 0.25–0.66mm 적게 소실 — Agustín-Panadero 2021 TL 0.31 vs BL 0.97mm(p<0.001, 3배차), Lombardi 2025 TL 0.30 vs BL 0.55mm(p=0.003).
@@ -68,6 +69,7 @@ The central paradox of this literature: the **highest-evidence studies find no s
 
 | Axis | Spine paper | Evidence | Key finding |
 |---|---|---|---|
+| 1-piece vs 2-piece — 15–17yr RCT | [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] | RCT (60 pts, 151 implants) | 1-piece MBL 0.08 vs 2-piece 1.53 mm (p<0.001); Tech complication 35.4% vs 5.8%; overall survival 95%; trade-off: bone preservation vs technical burden |
 | Survival | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | SR (2933 implants) | >90% survival both TL and BL; no between-group difference |
 | Survival — 1 yr short implants | [[implants/lombardi-2025-bone-level-tissue-level-short-implants-maxilla]] | Case-control (71 implants) | 100% TL and BL; zero complications |
 | MBL — SR level | [[implants/cosola-2020-bone-tissue-level-radiological-sr]] | SR (17 quantitative) | No statistically significant radiological MBL group difference |
@@ -87,6 +89,7 @@ The central paradox of this literature: the **highest-evidence studies find no s
 |---|---|---|
 | SR+MA (highest) | Survival equivalent; peri-implantitis RR 0.59 (NS); MBL NS | Atieh 2025 |
 | SR | Survival >90% both; no radiological MBL difference | Cosola 2020; Mortazavi 2021 (modifiers) |
+| RCT (15–17 yr) | 1-piece MBL 0.08 vs 2-piece 1.53 mm (p<0.001); 1-piece tech complication 6×; survival 95% both | Pirc 2026 |
 | Prospective / case-control (matched) | TL consistently 0.25–0.66 mm less MBL; thin mucosa = key predictor | Lombardi 2025; Spinelli 2023; Agustín-Panadero 2021 |
 | Retrospective | TL MBL 0.93–1.04 mm (1–3 yr); smoking and jaw significant | Solderer 2025 |
 | Animal (pre-clinical) | No vertical bone difference at immediate sites (dog); TLX BIC ≥ SP, fBIC superior (minipig) | Zhang 2021; Elchaar 2021 |
@@ -97,6 +100,7 @@ TL and BL implants are clinically interchangeable for survival across virtually 
 
 ## Related Papers
 
+- [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — RCT 15–17-year follow-up (60 pts, 151 implants): 1-piece MBL 0.08 vs 2-piece 1.53 mm; technical complications 35.4% vs 5.8%; survival 95%; longest published RCT for 1-piece vs 2-piece design; note: 2-piece group uses older-generation Brånemark TiUnite (not modern internal connection)
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA (5 studies, 501 implants): peri-implantitis RR 0.59 and failure RR 0.59 — both directionally favoring TL but NS; highest-evidence anchor for peri-implantitis axis
 - [[implants/cosola-2020-bone-tissue-level-radiological-sr]] — SR (2933 implants, 20 qualitative / 17 quantitative studies): survival and radiological MBL no significant between-group difference; largest SR to date
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — SR (38 clinical trials): conceptual BL vs TL microgap framework; platform-switching and Morse taper as key MBL modifiers for BL implants; first-year MBL dominance
