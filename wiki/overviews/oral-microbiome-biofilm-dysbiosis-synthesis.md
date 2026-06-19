@@ -73,6 +73,9 @@ Together these two define the page's intellectual coordinate system: Socransky s
 | 병인 | [[oral-microbiology/hajishengallis-2014-porphyromonas-gingivalis-host-manipulation]] | review | gingipain·C3/C5 cleavage·C5aR–TLR2 crosstalk |
 | 병인 | [[oral-microbiology/lamont-2014-polymicrobial-synergy-dysbiosis-inflammatory]] | review | PSD 분자기전·driver–passenger pathobiont |
 | 암 연관 | [[oral-microbiology/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer]] | review | Fn–OSCC: STAT3/cyclin D1/MMP-9, 역설적 양호 예후 |
+| 기전(부착) | [[oral-microbiology/inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review]] | review | S. mutans 콜라겐결합단백(SpaP·WapA·Cnm·Cbm) 역학생물학 — 상아질/ECM 부착·응집·독성, AFM 단분자/단세포 힘분광법으로 특성화, 항바이오필름 우식예방 표적 |
+| 기전(산) | [[caries/hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review]] | narrative-review | **산성 미세환경**이 우식→치수염→근단치주염 공통 동인 — 산생성·내산성(acidogenic/aciduric) 세균 선택·탈회 가속·골흡수, 근관치료 효과↓ |
+| 임상(치은염) | [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] | sr | 소아·청소년 바이오필름유발 치은염 유병률 ~52%; 감독 불소칫솔질+학교/보호자 교육이 핵심 통제 (EFP/EAPD) |
 
 ## Clinical Decision Points
 
@@ -94,3 +97,6 @@ Together these two define the page's intellectual coordinate system: Socransky s
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — sucrose가 매트릭스 기질·우식 driver (applies-to)
 - [[overviews/caries-detection-remineralization-overview]] — 우식 임상 관리 ladder (complements)
 - [[periodontics/kwon-2021-current-concepts-management-periodontitis]] — PSD 병인의 임상 치주 관리 (applies-to)
+- [[oral-microbiology/inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review]] — S. mutans 부착 역학생물학 (extends 매트릭스/부착축)
+- [[caries/hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review]] — 산성 미세환경 병태생리 (extends 우식 pathogenesis)
+- [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — 바이오필름유발 치은염 임상 epidemiology (applies-to)

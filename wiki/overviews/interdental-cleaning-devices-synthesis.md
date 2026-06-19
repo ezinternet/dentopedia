@@ -43,6 +43,8 @@ Toothbrushing alone does not clean the interdental surfaces where most caries an
 
 The dominant finding across the evidence is that **no single device is universally best, and the largest determinant of outcome is whether the patient actually uses it** — adherence beats efficacy. Within that frame, each tool has a niche.
 
+**Toothbrushing is the baseline these tools supplement.** Interdental aids add to — not replace — daily toothbrushing, and the brushing tier has its own evidence: among electric toothbrushes, oscillating-rotating ranks first for plaque and gingivitis (Luo 2026 NMA), and powered beats manual in orthodontic patients (Liu 2026 SR+MA, GRADE-low). Optimize the brush first, then layer the right interdental tool on top.
+
 **Evidence by device.**
 
 | Device | Key wiki evidence | Verdict |
@@ -82,4 +84,6 @@ The dominant finding across the evidence is that **no single device is universal
 - [[interdental-cleaning/tyler-2023-waterpik-manual-toothbrush-orthodontic-rct]] — Waterpik, no ortho benefit
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — wooden-toothpick harm
 - [[implants/peri-implantitis/bishti-2025-interproximal-devices-peri-implant-mucositis-sr-ma]] — interproximal devices around implants (none superior)
+- [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — toothbrushing baseline: oscillating-rotating electric ranks first for plaque/gingivitis (the brushing tier interdental cleaning supplements)
+- [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered>manual toothbrush in ortho (GRADE-low) — brushing-tier context
 - [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] — the toothpick *brushing* method axis

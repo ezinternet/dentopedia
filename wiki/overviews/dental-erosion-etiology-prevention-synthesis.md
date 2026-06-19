@@ -50,12 +50,13 @@ tags: [dental-erosion, erosive-tooth-wear, etw, enamel, demineralization, titrat
 | 기전 | [[dental-erosion/west-2014-enamel-mineral-loss]] | narrative-review | 법랑질 무기질 소실의 화학·생물·숙주 인자 통합, 예방 framework |
 | in-vitro | [[dental-erosion/barac-2015-erosive-effect-soft-drinks-enamel-profilometry]] | in-vitro | 콜라(pH 2.67) 단시간 최강; 오렌지주스 ≥30분 동등; 요구르트 비침식 — 적정산도 ≈ pH 중요 |
 | in-vitro | [[dental-erosion/souza-2020-citrus-sweets-enamel-erosion-invitro]] | in-vitro | citrus sweets(pH 2.6–3.5) 1.3–2.4 μm wear; 이중산 제품 = 0.1% 구연산, > 콜라 |
+| 예방(치약) | [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] | sr+ma (umbrella, 8 SR) | 항침식 치약 — **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관 우수**(certainty 중등도), Ca기반·biomimetic 근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 |
 
 ## Clinical Decision Points
 
 1. **위험 평가는 'pH 목록'이 아니라 노출 패턴.** 같은 음료라도 빈도·접촉시간(머금기·sipping)·취침 전 섭취가 침식을 좌우. 환자 식이일지에서 '무엇'보다 '얼마나 자주·어떻게'를 본다.
 2. **산성 음료/사탕 상담 — citrus sweets·이중산 제품 경고.** 콜라만 위험하다는 통념 교정: 오렌지주스·신맛 젤리(이중산)도 동등 이상 [근거강함, in-vitro→임상 외삽 [claude해석]].
-3. **산 노출 직후 칫솔질 회피, 중화·재광화 보조.** 산 직후 연화된 법랑질의 마모 가속 — 30분 대기, 무가당 우유/치즈/물 헹굼, 불소 도포. (in-vitro 기반 권고, 직접 RCT는 제한)
+3. **산 노출 직후 칫솔질 회피, 중화·재광화 보조.** 산 직후 연화된 법랑질의 마모 가속 — 30분 대기, 무가당 우유/치즈/물 헹굼, 불소 도포. 침식 위험 환자는 **stannous(SnF₂) 함유 치약**을 우선(NaF/NaMFP보다 일관 우위, Gómez 2026 umbrella). (in-vitro/in situ 기반 권고, 임상 ETW RCT는 제한)
 4. **내인성(GERD·구토) 의심 시 의과 의뢰.** 구개측(palatal) 마모 패턴은 내인성 시사 — 식이 교정만으로 불충분.
 
 ## Gaps & Future Research
@@ -66,6 +67,7 @@ tags: [dental-erosion, erosive-tooth-wear, etw, enamel, demineralization, titrat
 - 침식–마모–마모성 상호작용(erosion–abrasion–attrition) 정량 모델 미흡.
 
 ## Related Papers
+- [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — 항침식 치약 umbrella review, stannous 우위 (extends 예방축)
 - [[overviews/caries-detection-remineralization-overview]] — 법랑질 탈회/재광화 공통축 (complements)
 - [[dental-erosion/west-2014-enamel-mineral-loss]] — 무기질 소실 화학 (spine)
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — 식이당·산성음료 노출 빈도 (applies-to)
