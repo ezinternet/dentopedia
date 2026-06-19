@@ -166,6 +166,7 @@ tags: []
 - [[implants/isq/tisci-2026-isq-it-mbl-survival-sr-ma]] — ISQ–삽입토크 상관관계 SR+MA (48편): 중등도 유의 상관(r=0.44, p<0.001)이나 I²>90% — ISQ는 1차 안정성의 보조 지표로 유효하지만 MBL·생존율의 독립 예측인자로 쓰기엔 근거 불충분 (CIDRE 2026).
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): **Osstell ISQ vs Periotest PTV** 직접 비교 — ISQ 57.66±8.19, PTV -5.08±2.02; 상관 -0.64; ICC Osstell 0.99 vs Periotest 0.88 — **Osstell이 더 정밀**; 임플란트 직경은 두 기법 모두 유의, 길이는 무관.
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — 인비트로(n=49, 아크릴 큐브·실리콘·자가중합 레진 인터페이스): Osstell ISQ vs Periotest PTV — 양자 모두 인터페이스 차이·노출 단계 검출, RFA 기반 Osstell이 SD 작고 강성 변화 추적에 더 신뢰성; 임상 외삽은 골 모델 부재로 주의
+- [[implants/isq/song-2026-tapered-straight-implants-immediate-loading-3year]] — RCT 3yr follow-up (n=28, 61 implants, posterior): tapered vs straight immediate loading; TI patient survival 95.8% vs SI 78.3% (NS); protocol failures 4 vs 13; MBL equivalent (<1 mm)
 
 ## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
