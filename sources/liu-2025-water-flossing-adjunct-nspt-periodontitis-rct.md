@@ -3,7 +3,7 @@ title: "Effects of daily home-use water flossing as an adjunct to non-surgical p
 authors: Liu J, Zhou Y, Zhang L, Wang S, Li H, Xu J, Zhao L, Cheng X, Xu X
 year: 2025
 doi: 10.1007/s00784-025-06639-0
-category: [periodontics]
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: false
 pmid: "41225247"
@@ -14,7 +14,7 @@ text_filename: liu-2025-water-flossing-adjunct-nspt-periodontitis-rct.txt
 
 ## Why Ingested
 
-First RCT we hold testing daily home-use **water flossing** as an adjunct to **non-surgical periodontal therapy (NSPT)** in *actual stage I-II periodontitis* patients (not the orthodontic-hygiene population), reporting a clinical benefit plus a 16S rRNA subgingival-microbiome angle — distinct from [[periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]], whose oral-irrigator-vs-floss comparison in orthodontic patients found no superiority over floss. It extends [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] by characterizing a home-care adjunct layered on top of SRP. (abstract-only — full text not retrieved; no PMC OA.)
+First RCT we hold testing daily home-use **water flossing** as an adjunct to **non-surgical periodontal therapy (NSPT)** in *actual stage I-II periodontitis* patients (not the orthodontic-hygiene population), reporting a clinical benefit plus a 16S rRNA subgingival-microbiome angle — distinct from [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]], whose oral-irrigator-vs-floss comparison in orthodontic patients found no superiority over floss. It extends [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] by characterizing a home-care adjunct layered on top of SRP. (abstract-only — full text not retrieved; no PMC OA.)
 
 ## One-line Summary
 
@@ -70,9 +70,9 @@ First RCT we hold testing daily home-use **water flossing** as an adjunct to **n
 
 ## 6. Related Work
 
-- [[periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — oral irrigator vs floss in orthodontic patients (NS, abstract-only); contrast population/comparator.
+- [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — oral irrigator vs floss in orthodontic patients (NS, abstract-only); contrast population/comparator.
 - [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — SRP-based NSPT guideline that this home-care adjunct layers onto.
-- [[periodontics/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss + essential oils vs floss RCT (equivalent), a related powered-interdental device comparison.
+- [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss + essential oils vs floss RCT (equivalent), a related powered-interdental device comparison.
 
 ## 7. Glossary
 

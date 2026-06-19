@@ -58,4 +58,4 @@ This classic Japanese community study (Okayama University Dental School; **T. Wa
 
 - [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — reinforces: SR cataloging manual toothbrushing techniques, including the toothpick (Watanabe) method, for plaque/gingivitis control.
 - [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — reinforces: RCT using professional repeated Watanabe/toothpick-method brushing as an SRP adjunct (BOP and serum endotoxin reduction) in diabetic periodontitis.
-- [[periodontics/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — contrast: harms of *wooden interdental toothpick* use (papilla loss) — a different intervention from the Watanabe *brushing* method despite the shared "toothpick" name.
+- [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — contrast: harms of *wooden interdental toothpick* use (papilla loss) — a different intervention from the Watanabe *brushing* method despite the shared "toothpick" name.

@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-21
 doi: 10.3290/j.qi.b6912614
 source: el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional.md
-category: [periodontics]
+category: [interdental-cleaning]
 confidence: cross-sectional
 source_collection: pubmed-text
 full_text: false

@@ -5,7 +5,7 @@ year: 2023
 date: 2023-05-19
 doi: 10.1177/14653125231173708
 source: tyler-2023-waterpik-manual-toothbrush-orthodontic-rct.md
-category: periodontics
+category: [interdental-cleaning]
 confidence: rct
 source_collection: pubmed-text
 full_text: true
@@ -66,7 +66,7 @@ Whether a **Waterpik (oral irrigator) added to a manual toothbrush (Waterpik + M
 
 ## Related Papers
 
-- [[periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — reinforces: SR+MA found the oral irrigator NOT superior to dental floss in fixed-appliance orthodontics (both NS, extreme heterogeneity); Tyler shows the irrigator also adds nothing over a manual toothbrush.
-- [[periodontics/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss vs floss RCT, equivalent → device choice driven by adherence/cost, not efficacy.
+- [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — reinforces: SR+MA found the oral irrigator NOT superior to dental floss in fixed-appliance orthodontics (both NS, extreme heterogeneity); Tyler shows the irrigator also adds nothing over a manual toothbrush.
+- [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss vs floss RCT, equivalent → device choice driven by adherence/cost, not efficacy.
 - [[periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered > manual toothbrush in orthodontics (GRADE LOW); contrasts the modality that *does* show a signal (powered brushing) with the irrigator (no signal here).
 - [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — electric-toothbrush technology NMA; orthodontic patients show the largest brushing benefit, situating where adjunct gains actually come from.

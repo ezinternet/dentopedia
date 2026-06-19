@@ -3,7 +3,7 @@ title: "Oral Irrigator Versus Dental Floss in Orthodontic Patients: A Systematic
 authors: Yiamwattana S, Kaomongkolgit R, Jaikumpun, Sang-Ngoen, Teerawong, Tosasukul, Sadaeng
 year: 2025
 doi: 10.1111/idh.70024
-category: periodontics
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: false
 pmid: "41331619"

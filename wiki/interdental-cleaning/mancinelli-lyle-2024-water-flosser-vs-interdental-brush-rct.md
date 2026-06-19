@@ -5,7 +5,7 @@ year: 2024
 date: 2024-07-12
 doi: 10.1111/idh.12817
 source: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct.md
-category: periodontics
+category: [interdental-cleaning]
 confidence: rct
 source_collection: pubmed-text
 full_text: true
@@ -72,7 +72,7 @@ Both devices significantly reduced bleeding from baseline. The WF outperformed t
 
 ## Related Papers
 
-- [[periodontics/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — Thomassen 2025 RCT: another ACTA-style interdental device head-to-head (essential-oil air-floss vs floss) but found **no between-group difference**; this WF-vs-IDB trial does separate the devices (favouring WF on BOMP). Both share the BOMP/GAS outcome framework.
-- [[periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — Yiamwattana 2025 SR+MA: oral irrigator (water flosser family) vs floss in orthodontic patients found **NS** (extreme heterogeneity); this single RCT shows a WF advantage over a different comparator (IDB) in non-orthodontic gingivitis — comparators and populations differ.
-- [[periodontics/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct]] — Carrouel 2026 RCT: interdental brushing produced a large BOP reduction vs routine care in pregnancy; here the IDB still works but is outperformed by the WF on marginal bleeding.
+- [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — Thomassen 2025 RCT: another ACTA-style interdental device head-to-head (essential-oil air-floss vs floss) but found **no between-group difference**; this WF-vs-IDB trial does separate the devices (favouring WF on BOMP). Both share the BOMP/GAS outcome framework.
+- [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — Yiamwattana 2025 SR+MA: oral irrigator (water flosser family) vs floss in orthodontic patients found **NS** (extreme heterogeneity); this single RCT shows a WF advantage over a different comparator (IDB) in non-orthodontic gingivitis — comparators and populations differ.
+- [[interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct]] — Carrouel 2026 RCT: interdental brushing produced a large BOP reduction vs routine care in pregnancy; here the IDB still works but is outperformed by the WF on marginal bleeding.
 - [[periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]] — Luo 2026 NMA: device-ranking context for mechanical plaque/gingivitis control (toothbrush technologies); complements the interdental-device comparison here.

@@ -3,7 +3,7 @@ title: "Evaluating the hidden impact of interdental cleaning habits on maxillary
 authors: El Haddad S, Bukhary F, Alkhaldi A, Alotaibi S, Dashti B, Alnufaiy B, Alzahrani H
 year: 2026
 doi: 10.3290/j.qi.b6912614
-category: [periodontics]
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: false
 pmid: "41716131"

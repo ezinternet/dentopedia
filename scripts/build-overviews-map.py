@@ -51,7 +51,7 @@ DOMAINS = [
         "regenerative-endodontics", "single-vs-multivisit", "vital-pulp"]),
     ("치주 · 교합외상", [
         "periodontics", "occlusal-trauma", "toothpick", "toothbrush", "watanabe",
-        "plaque-control", "oral-hygiene"]),
+        "plaque-control", "oral-hygiene", "interdental-cleaning", "interdental"]),
     ("교합 · TMJ · 이갈이", [
         "bruxism", "tmd-", "unilateral-mastication"]),
     ("보철 · 수복재료 · 심미", [

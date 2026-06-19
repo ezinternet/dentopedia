@@ -3,7 +3,7 @@ title: "Efficacy of a water flosser compared to an interdental brush on gingival
 authors: Mancinelli-Lyle D, Van der Weijden FGA, Slot DE
 year: 2024
 doi: 10.1111/idh.12817
-category: periodontics
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: true
 pmid: "38997790"
@@ -15,7 +15,7 @@ text_filename: mancinelli-lyle-2024-water-flosser-vs-interdental-brush-rct.txt
 
 ## Why Ingested
 
-기존 위키에는 치간청소 기기 간 직접 head-to-head 비교가 부족했다 — [[periodontics/thomassen-2025-airfloss-essential-oils-vs-floss-rct]]는 에어플로스 vs 치실(군간 무차이), [[periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]]는 구강세정기 vs 치실(NS)이었다. 본 RCT(Mancinelli-Lyle 2024)는 물세정기(WF) vs **치간칫솔(IDB)**을 4주간 BOPP/BOMP·치은마모로 직접 비교한 드문 동급 비교로, 치간청소 기기선택 질문에 핵심 근거를 보강한다.
+기존 위키에는 치간청소 기기 간 직접 head-to-head 비교가 부족했다 — [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]]는 에어플로스 vs 치실(군간 무차이), [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]]는 구강세정기 vs 치실(NS)이었다. 본 RCT(Mancinelli-Lyle 2024)는 물세정기(WF) vs **치간칫솔(IDB)**을 4주간 BOPP/BOMP·치은마모로 직접 비교한 드문 동급 비교로, 치간청소 기기선택 질문에 핵심 근거를 보강한다.
 
 ## One-line Summary
 

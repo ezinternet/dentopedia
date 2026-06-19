@@ -5,7 +5,7 @@ year: 2025
 date: 2025-11-13
 doi: 10.1007/s00784-025-06639-0
 source: liu-2025-water-flossing-adjunct-nspt-periodontitis-rct.md
-category: [periodontics]
+category: [interdental-cleaning]
 confidence: rct
 source_collection: pubmed-text
 full_text: false
@@ -59,6 +59,6 @@ This 6-month randomized controlled trial evaluated daily home-use **water flossi
 
 ## Related Papers
 
-- [[periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — contrasts: oral irrigator vs floss in **orthodontic** patients showed **no superiority** over floss (NS, abstract-only); here water flossing benefits **periodontitis** patients post-NSPT.
+- [[interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — contrasts: oral irrigator vs floss in **orthodontic** patients showed **no superiority** over floss (NS, abstract-only); here water flossing benefits **periodontitis** patients post-NSPT.
 - [[periodontics/smiley-2015-nonsurgical-periodontitis-srp-guideline]] — the SRP-based NSPT guideline that this home-care adjunct layers on top of.
-- [[periodontics/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — related powered-interdental device RCT (air-floss + essential oils vs floss; equivalent, both safe).
+- [[interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — related powered-interdental device RCT (air-floss + essential oils vs floss; equivalent, both safe).

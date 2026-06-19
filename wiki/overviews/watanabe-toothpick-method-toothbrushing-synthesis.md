@@ -53,7 +53,7 @@ The method's distinctive claim is a **dual mechanism**: it is not only a plaque-
 | [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] | SR, 13 studies | adults | **No manual technique proven superior** (excess heterogeneity); TPM tested in only 1 study (Morita) where it beat Bass |
 | [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] | RCT, n=60 | T2DM periodontitis | SRP + weekly professional TPM vs SRP alone: **BOP −16.5% vs −7.3%**; only TPM arm cut **serum endotoxin** (−0.78 EU/mL, p=0.003) |
 | [[periodontics/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] | RCT, n=60 | peri-implant mucositis | All arms TPM-delivered; **saline-TPM (mechanical only) increased 5/12 bacteria** — needs an antimicrobial agent (CB extract / CHX) |
-| [[periodontics/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] | cross-sectional, n=69 | toothpick users | **Wooden toothpick** (NOT the brushing method): overuse → interdental papilla loss / black triangles |
+| [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] | cross-sectional, n=69 | toothpick users | **Wooden toothpick** (NOT the brushing method): overuse → interdental papilla loss / black triangles |
 
 **What the evidence supports.**
 - **Proximal plaque removal** superior to Bass — but on a single small RCT (Morita 1998), echoed only weakly by the Rajwani SR.
@@ -88,4 +88,4 @@ The method's distinctive claim is a **dual mechanism**: it is not only a plaque-
 - [[periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]] — technique-comparison SR (no method superior)
 - [[periodontics/lee-2020-watanabe-toothpick-method-srp-diabetic-periodontitis-rct]] — diabetic periodontitis adjunct (bleeding, endotoxin)
 - [[periodontics/kim-2025-toothpick-method-cibotium-peri-implant-mucositis-rct]] — peri-implant mucositis (agent vehicle)
-- [[periodontics/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — wooden-toothpick harm (papilla loss) — naming counterpoint
+- [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — wooden-toothpick harm (papilla loss) — naming counterpoint

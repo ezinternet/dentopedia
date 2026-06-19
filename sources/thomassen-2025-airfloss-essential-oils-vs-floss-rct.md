@@ -3,7 +3,7 @@ title: "Efficacy and Safety of AirFloss Ultra With Essential Oils Versus Waxed D
 authors: Thomassen TMJA, Slot DE, Elkerbout TA, van der Sluijs E, Van der Weijden GA
 year: 2025
 doi: 10.1111/idh.70010
-category: periodontics
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: true
 pmid: "41387303"

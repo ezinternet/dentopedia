@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-20
 doi: 10.1111/jcpe.70085
 source: carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct.md
-category: periodontics
+category: [interdental-cleaning]
 confidence: rct
 source_collection: pubmed-text
 full_text: true

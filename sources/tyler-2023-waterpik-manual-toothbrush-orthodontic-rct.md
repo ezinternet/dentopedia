@@ -3,7 +3,7 @@ title: "Effectiveness of Waterpik for oral hygiene maintenance in orthodontic fi
 authors: Tyler D, Kang J, Goh HH
 year: 2023
 doi: 10.1177/14653125231173708
-category: periodontics
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: true
 pmid: "37203873"
@@ -15,7 +15,7 @@ text_filename: tyler-2023-waterpik-manual-toothbrush-orthodontic-rct.txt
 
 ## Why Ingested
 
-A brand-named device (Waterpik) RCT added to manual toothbrushing in fixed-appliance orthodontic patients, with a 56-week follow-up that found **no benefit** for any oral-hygiene index — a long-follow-up counterweight to the short-term marketing claim that a Waterpik with an orthodontic tip improves plaque control. It pairs directly with [[wiki/periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] (oral irrigator NOT superior to floss in fixed-appliance orthodontics): both point to no demonstrated superiority for water-flossing in this population, and Tyler is one of the few trials testing the irrigator as an *adjunct to* (not a replacement for) a manual toothbrush over a long course of treatment.
+A brand-named device (Waterpik) RCT added to manual toothbrushing in fixed-appliance orthodontic patients, with a 56-week follow-up that found **no benefit** for any oral-hygiene index — a long-follow-up counterweight to the short-term marketing claim that a Waterpik with an orthodontic tip improves plaque control. It pairs directly with [[wiki/interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] (oral irrigator NOT superior to floss in fixed-appliance orthodontics): both point to no demonstrated superiority for water-flossing in this population, and Tyler is one of the few trials testing the irrigator as an *adjunct to* (not a replacement for) a manual toothbrush over a long course of treatment.
 
 ## One-line Summary
 
@@ -75,8 +75,8 @@ Single-centre two-arm parallel single-blind RCT (n=40, ages 10-20, upper+lower f
 ## 6. Related Work
 
 - Sharma et al. — only prior RCT with Waterpik orthodontic tip; positive plaque result over 28 days but enrolled poor-hygiene patients and used a different index (Turesky-modified Quigley-Hein). Short follow-up captures novelty effect.
-- [[wiki/periodontics/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — SR+MA: oral irrigator not superior to dental floss in fixed-appliance orthodontics (both NS, extreme heterogeneity).
-- [[wiki/periodontics/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss vs floss RCT, both equivalent → device choice driven by adherence, not efficacy.
+- [[wiki/interdental-cleaning/yiamwattana-2025-oral-irrigator-vs-floss-orthodontic-sr-ma]] — SR+MA: oral irrigator not superior to dental floss in fixed-appliance orthodontics (both NS, extreme heterogeneity).
+- [[wiki/interdental-cleaning/thomassen-2025-airfloss-essential-oils-vs-floss-rct]] — air-floss vs floss RCT, both equivalent → device choice driven by adherence, not efficacy.
 - [[wiki/periodontics/liu-2026-powered-manual-toothbrushes-orthodontic-sr-ma]] — powered > manual toothbrush in orthodontics (but GRADE LOW).
 
 ## 7. Glossary

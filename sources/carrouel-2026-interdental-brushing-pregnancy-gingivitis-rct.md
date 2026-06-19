@@ -3,7 +3,7 @@ title: "Impact of Interdental Brushing on Pregnancy-Associated Gingivitis: A Sec
 authors: Carrouel F, Kanoute A, Faye D, Mazur M, Perrier H, Vitiello F, Ardan R, Clément C, Lan R, Bourgeois D
 year: 2026
 doi: 10.1111/jcpe.70085
-category: periodontics
+category: [interdental-cleaning]
 source_collection: pubmed-text
 full_text: true
 pmid: "41558746"
@@ -15,7 +15,7 @@ text_filename: carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct.txt
 
 ## Why Ingested
 
-This RCT secondary analysis (n=323) quantifies calibrated **interdental brush (IDB)** use plus individualised instruction as a primary-prevention strategy for pregnancy-associated gingivitis — a high-value interdental-cleaning efficacy result (BOP 56%→12%, −79.9%; IDB the strongest independent predictor of bleeding resolution, OR=3.14). It extends [[wiki/periodontics/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] (interdental-cleaning behaviour and outcomes) with hard RCT efficacy data in a special-risk population, and complements plaque/gingivitis device-efficacy evidence in [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]].
+This RCT secondary analysis (n=323) quantifies calibrated **interdental brush (IDB)** use plus individualised instruction as a primary-prevention strategy for pregnancy-associated gingivitis — a high-value interdental-cleaning efficacy result (BOP 56%→12%, −79.9%; IDB the strongest independent predictor of bleeding resolution, OR=3.14). It extends [[wiki/interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] (interdental-cleaning behaviour and outcomes) with hard RCT efficacy data in a special-risk population, and complements plaque/gingivitis device-efficacy evidence in [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]].
 
 ## One-line Summary
 
@@ -71,7 +71,7 @@ Multicentre single-blind RCT (secondary analysis, n=323 nulliparous women at pre
 
 ## 6. Related Work
 
-- Interdental cleaning behaviour and papilla outcomes: [[wiki/periodontics/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]]
+- Interdental cleaning behaviour and papilla outcomes: [[wiki/interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]]
 - Device efficacy on plaque/gingivitis: [[wiki/periodontics/luo-2026-electric-toothbrush-technologies-plaque-gingivitis-nma]]
 - Toothbrushing technique efficacy: [[wiki/periodontics/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr]]
 - Biofilm-induced gingivitis (non-systemic baseline): [[wiki/periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]]
