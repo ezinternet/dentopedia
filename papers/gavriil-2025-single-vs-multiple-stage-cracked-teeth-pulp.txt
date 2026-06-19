@@ -1,0 +1,9 @@
+[ABSTRACT-ONLY — full text not retrieved; no PMC OA. Source: PubMed, PMID 40581327, DOI 10.1016/j.joen.2025.06.013]
+
+Title: The Effect of Single versus Multiple-stage Restorative Approaches on the Pulp Outcomes of Symptomatic Vital Cracked Teeth: A Systematic Review and Meta-analysis.
+Journal: J Endod 2025;51(10):1362-1375.
+
+Aim: compare single-stage treatment (SST) vs multiple-stage treatment (MST) for pulp survival, pulp success, tooth survival in symptomatic vital cracked teeth; assess secondary interventions and baseline factors.
+Methods: PubMed, Scopus, Web of Science, Cochrane, gray literature to Dec 3, 2024. Permanent symptomatic vital cracked teeth, >=1-yr follow-up after complete SST or MST. Risk of bias: Newcastle-Ottawa + Cochrane RoB2. Single-arm random-effects MA. GRADE.
+Results: 14 cohort studies. No significant difference SST vs MST for 1- or 2-yr pulp survival and 1-yr pulp success (P>.05). SST with indirect restorations significantly higher pulp success than MST with indirect (P<.05) and SST with direct (P<.001). Indirect onlays superior to crowns (P<.05). Direct restorations comparable to onlays for pulp survival but inferior for pulp success (P<.001). Short interim treatment (1-2 wk) greater pulp success than long (2-3 mo) (P<.05). 1-yr tooth survival 96.1-100%. Certainty very low.
+Conclusion: with very low certainty, SST with indirect restorations may improve pulp success over MST; onlays outperform crowns; direct restorations may not fully alleviate symptoms; short interim duration preferable in MST; timely intervention critical for tooth survival.
