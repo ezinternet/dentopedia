@@ -1,0 +1,121 @@
+Interventions to improve antibiotic use among dentists: a systematic review and meta-analysis
+
+PMID: 40243511 | PMCID: PMC12129587 | DOI: 10.1093/jac/dkaf118
+Journal of Antimicrobial Chemotherapy (JAC), 2025
+
+Authors: Méndez-Romero L, Ruiz-Linares A, Ferrer M, Valero U, et al.
+(Full author list per PMC record: Méndez-Romero, Ruiz-Linares, Ferrer, Valero)
+
+SOURCE: PMC full text retrieved via PubMed MCP (PMC12129587)
+
+---
+
+ABSTRACT
+
+Objectives: To analyse the effectiveness of various strategies, such as audits, education and digital tools, in reducing inappropriate antibiotic prescription by dentists. This study provides a comprehensive overview of how such interventions can contribute to improving clinical practice and combatting antimicrobial resistance in the dental setting.
+
+Methods: An electronic search of articles published until 2023 in the following databases was performed: MEDLINE, SCOPUS, EMBASE, COCHRANE CENTRAL, LILACS and BBO. Systematic data synthesis and meta-analysis was carried out. A total of 23 studies regarding interventions to reduce antibiotic prescription among dentists were included. The studies were mostly published in the UK between 1997 and 2023. Of the 23 studies, three were trials and 20 were pre-post studies.
+
+Results: In general, interventions among dentists resulted in a 70% reduction in the inappropriate prescription of antibiotics (95% CI: 33.3% to 86.4%). In the pre-post studies, the reduction was 71% (95% CI 28.8%-88.1%, I²=99.2%). In randomized controlled trial studies, a 63.9% (95% CI 41%-78.1%, I²=0%) reduction was achieved. The greatest magnitude of effect was found in audit-based interventions: audit and education 73.3% (95% CI 44%-87.4%) and audit and feedback 75% (95% CI 33%-91.4%). However, the quality of the evidence is low, mostly due to the study design.
+
+Conclusion: Given the magnitude of the effect found, it has been shown that dentists are receptive to improving their prescription of antibiotics. However, there is ample room for improvement.
+
+---
+
+INTRODUCTION
+
+Antimicrobial resistance (AMR) has emerged as a global public health threat. Dentists prescribe ~10% of all antibiotics consumed, with an inappropriate prescription rate estimated between 50% and 80%. This makes dentists essential partners in curbing AMR.
+
+Overuse of antibiotics is associated with: increased AMR; adverse drug reactions (clindamycin has the highest rate of fatal/non-fatal adverse reactions among dental antibiotics); gut microbiota dysbiosis leading to superinfections; increased healthcare costs.
+
+The authors updated a 2016 systematic review (Löffler et al.) because: new studies exist with higher-quality methodology; new interventions have been tested; no meta-analysis was previously performed.
+
+---
+
+METHODS
+
+Design: Systematic review with meta-analysis following PRISMA guidelines. Registered in PROSPERO (CRD42023474664).
+
+Databases searched through 2023: MEDLINE, EMBASE, COCHRANE CENTRAL, LILACS, BBO.
+
+Search terms: [(prescription OR prescribing) AND (intervention OR programme OR 'health promotion' OR education OR audit) AND (dentist* OR odontolog* OR 'dental practitioner' OR 'dental practice' OR 'dental health professional') AND (antibiotic* OR antimicrobial)]
+
+Inclusion: epidemiological studies / original articles on interventions to optimize antibiotic prescription aimed at dentists.
+
+Exclusion: reviews, non-dentist populations, different clinical settings (primary care, hospitals).
+
+For meta-analysis: only studies reporting 'appropriate prescriptions' outcome included.
+
+'Appropriate prescription' defined as: compliance with clinical guidelines, appropriate antibiotic selection, correct dosage, adequate duration, consideration of patient allergies/comorbidities.
+
+Risk of bias: assessed using The Evidence Project risk of bias tool (applicable to both RCT and non-RCT designs).
+
+Statistical analysis: random effects model; heterogeneity by I² statistic; results expressed as relative risk reduction (equivalent to vaccine efficacy).
+
+Sensitivity analyses stratified by: intervention type; study design.
+
+---
+
+RESULTS
+
+Study selection: 1,914 publications identified → after deduplication 1,380 reviewed → 23 studies included in qualitative synthesis; 10 included in meta-analysis.
+
+Study characteristics:
+- Published predominantly in the UK, 1997–2023
+- 3 RCTs; 20 pre-post studies
+- Intervention types: audit + education + feedback; multimodal; online prescription tools; educational materials; pharmacist visits; government strategies; virtual learning; C-reactive protein-guided prescribing
+- Settings: mostly general dentistry; 2 studies in oral surgery and endodontics specifically
+- Follow-up: 1 month to 10 years post-intervention
+
+KEY STUDIES:
+- Thomas & Hill (1997) UK, n=132: Audit of antibiotic practices in third molar surgery
+- Steed & Gibson (1997) UK, n=320 prescriptions: Consensus intervention → 50% reduction in prescriptions
+- Palmer (2001) UK, n=175: Audit + feedback → appropriate prescriptions 57.4% → 70.5%
+- Seager (2005) UK, n=97 RCT: Educational material alone ineffective; pharmacist visits effective (37% → 67% appropriate)
+- Chate (2006) UK, n=212: Clinical audit → 43.6% reduction in antibiotic prescription
+- Elouafkaoui (2016) UK, n=795 RCT: Audit + feedback → significant reduction in prescribing rate
+- Kim (2017) Korea, n=22,098: Prescribing guidelines + removal of prescription button → behavioral change + reduced prescribing
+- Gross (2019) USA: Multimodal intervention → 72% decrease in antibiotic prescribing in urgent care
+- Lund (2020) Sweden, n=1,276,203: Government strategies → sustained reduction over 8 years
+- Teoh (2020) Australia, n=26: Education + online prescribing tool → 44.6% reduction in prescriptions
+- Goff (2022) USA, n=15: Expert audit + feedback → appropriate prescribing 19% → 88%
+- Chehabeddine (2022) Lebanon, n=60 RCT: Educational intervention → decreased overall prescriptions
+
+META-ANALYSIS RESULTS (10 studies with 'appropriate prescriptions' outcome):
+- Overall: 70% reduction in inappropriate antibiotic prescribing (95% CI: 33.3%–86.4%)
+- Pre-post studies only (n=8): 71% reduction (95% CI 28.8%–88.1%, I²=99.2%)
+- RCTs only (n=2): 63.9% reduction (95% CI 41%–78.1%, I²=0%)
+
+BY INTERVENTION TYPE:
+- Audit + education: 73.3% reduction (95% CI 44%–87.4%, I²=69%)
+- Audit + feedback: 75.0% reduction (95% CI 33%–91.4%, I²=99%)
+
+---
+
+DISCUSSION
+
+First meta-analysis evaluating impact of interventions to improve antibiotic prescription in dentists.
+
+Key findings:
+1. Audit-based interventions most effective overall
+2. Active/personalized feedback superior to passive strategies (e.g., email)
+3. Government policies can reduce prescribing at population level
+4. Continuous intervention needed — reversal observed when discontinued
+5. Evidence quality is low: most studies are pre-post without control groups
+
+Gaps:
+- Few RCTs
+- Publication bias likely (positive results overrepresented)
+- Most studies from Europe (UK) — limited generalizability
+- Latin American countries with high overuse have not implemented interventions
+- Hawthorne effect cannot be excluded
+- 'Nudge'-type interventions (commitment posters) not yet evaluated in dentistry
+- e-health/AI decision support systems: emerging but understudied
+
+Prophylaxis vs. treatment distinction: individualized risk-benefit assessment needed. Standard prophylaxis: amoxicillin 2g PO 1h before procedure; clindamycin 600mg for beta-lactam allergy.
+
+---
+
+CONCLUSIONS
+
+Interventions to improve antibiotic prescription among dentists are extremely effective (70% reduction in inappropriate prescribing). Dentists are receptive to change. Audit + education and audit + feedback are the most effective strategies. Generalization of these interventions worldwide would have a major public health impact. Future research needs higher-quality RCT designs.
