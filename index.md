@@ -813,6 +813,7 @@ tags: []
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
 
 ## 글래스아이오노머 (Glass Ionomer)
+- [[glass-ionomer/ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct]] — Ali Eldin 2026 · rct(유구치 124, Class II, 12mo) · HVGIC(EQUIA Forte HT) vs 지오머 주입형 컴포지트: 임상성공 88.3% vs 93.4% 동등(NS)·기능/생물학 FDI 동등, 지오머는 심미(광택 p=.002·색조 p<.001)만 우위; 우식재발·과민 0 (DOI 10.1186/s12903-026-08509-x)
 - [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — narrative review(J Dent Sci 2024): WHO 필수의약품(2021) 등재 후 GIC 임상 적응증 종합; 수복·luting·sealant 근거 충분, liner/base는 논쟁
 - [[glass-ionomer/durrant-2024-gic-load-bearing-restorations-sr]] — SR(RCT 12편, Med Sci Monit 2024): 하중부(Class I/II) GIC가 여러 임상 지표서 기존 재료와 비교 가능
 - [[glass-ionomer/tuygunov-2024-modified-gic-calcium-phosphate-remineralization-sr]] — SR(in-vitro 5편, Dent Mater J 2024): Ca/P 방출 개질이 GIC 생체활성·재광화·pH·항우식 향상(CPP-ACP는 불소 유리 감소 가능)
@@ -855,6 +856,7 @@ tags: []
 - [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown — offset parameter별 marginal·internal fit 비교, 임상 acceptable range 결정
 
 ## 교정치료 (Orthodontics)
+- [[orthodontics/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] — Fonseca Planells 2026 · sr+ma · 성장기 환자 투명교정 상악확장(15편/7 pooled): aligner 확장 가능하나 conventional expander 대비 유의 적음 — 구치간폭 −1.77mm·구개용적 −460.6mm³·호선둘레 −1.75mm; 확장 주로 치조성(전치·유치), skeletal엔 conventional 우위 (DOI 10.1186/s40510-026-00620-7) [위키 첫 clear aligner 항목]
 - [[orthodontics/wise-2008-tooth-eruption-orthodontic-movement-mechanisms]] — Narrative review (J Dent Res 2008): tooth eruption vs OTM mechanisms — dental follicle essential for eruption; PDL for OTM; shared RANKL/OPG/CSF-1 pathway; eruption physiological, OTM pathological+physiological
 - [[orthodontics/jeon-2021-orthodontic-tooth-movement-mechanisms-animal]] — Narrative/critical review (JCM 2021): OTM transgenic animal models — compression RANKL→osteoclastogenesis; tension BMP/Runx2→osteogenesis; DKK1/sclerostin Wnt inhibition; FAK mechanosensor
 - [[orthodontics/li-2021-periodontium-orthodontic-tooth-movement-biomechanics]] — Structured review (IJOS 2021, 170 studies): OTM 4-step model — extracellular mechanobiology→cell strain→cell activation→tissue remodeling; PDLCs+osteocytes primary mechanosensors; root resorption prevention
