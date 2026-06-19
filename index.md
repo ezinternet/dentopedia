@@ -78,6 +78,7 @@ tags: []
 - [[implants/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
+- [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — Pirc 2026, rct, 15–17y RCT follow-up (n=60, 151 implants): one-piece Straumann SLA vs two-piece Brånemark — survival 95%, MBL 0.08 mm vs 1.53 mm favoring one-piece, but technical complications 35.4% vs 5.8% favoring two-piece
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
