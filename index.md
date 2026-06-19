@@ -2243,6 +2243,7 @@ tags: []
 
 ### immediate-implant — soft tissue augmentation
 - [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): SCTG at immediate implant placement+provisionalization reduces buccal recession (WMD 0.54 mm), increases soft-tissue thickness (WMD 0.79 mm) & reduces MBL (WMD 0.13 mm) at 12 mo [sr+ma]
+- [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA, 4 RCTs, n=82; pre-extractive inter-radicular site prep for mandibular molar IIP: higher ISQ at placement (MD +3.39, p<.0001), better central positioning (RR 0.05); ISQ advantage lost by 3–6 months; low certainty evidence (Atieh 2025)
 
 ## Batch ingest (added 2026-06-14, batch d) — peri-implant soft-tissue augmentation efficacy SR/MAs
 
