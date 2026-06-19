@@ -1,0 +1,113 @@
+Antibiotics in periodontal treatment: an umbrella review
+
+Authors: Botelho J et al.
+PMID: 40535546 | PMCID: PMC12174147 | DOI: 10.3389/fcimb.2025.1601464
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12174147/
+
+1 Introduction
+
+Periodontitis is a chronic inflammatory condition in which the dysbiosis of the subgingival microbiota plays a role. Effective therapies ought to result in considerable clinical improvements while limiting disease progression. After proper treatment, the oral microbiome is expected to shift towards eubiosis, marked by the reduction of dysbiotic pathogenic species and the re-establishment of a symbiotic microbial community compatible with health.
+
+The ideal periodontal therapy should address the underlying causes of periodontitis, prioritizing the restoration of tissue homeostasis as the key factor in disease management while concurrently aiming to reduce the bacterial load. Establishing healthy conditions in the periodontal tissues creates a local environment that prevents the regrowth of periodontopathogenic bacteria and the recurrence of dysbiosis.
+
+However, due to the complexities of modulating immune responses and the physiological processes of periodontal metabolism, most efforts have focused on reducing the bacterial load. This approach would, in theory, provide the periodontal tissues with an opportunity to return to equilibrium and initiate repair.
+
+To overcome these challenges, adjunct therapies, particularly antibiotics, have been proposed as supplements to standard periodontal treatments. Hypothetically, antibiotics, administered locally or systemically, may help suppress pathogenic bacteria and promote clinical improvement. Systemic antimicrobials have the advantage of reaching all oral surfaces and fluids, as well as potentially reaching tissues invaded by bacteria. Local antibiotic therapy has lower adverse effects, greater patient adherence, and less risk of developing bacterial resistance. A key challenge is determining whether, and in which cases, antibiotics will be beneficial, as there is still a lack of robust scientific evidence supporting their application. This is even more critical, considering the estimated 23.6% prevalence of severe periodontitis among dentate people worldwide, underscoring the need for judicious use of antibiotics to avoid unnecessary risks in potentially billions of people. This goes in line with the current "antimicrobial stewardship" principles, which advocate for the careful and responsible management of antimicrobials to ensure their effective, responsible and appropriate use.
+
+Despite the literature suggesting potential benefits from adjunctive antimicrobial agents in periodontitis treatment, there is considerable heterogeneity in the types of antibiotics and protocols used. To address these issues, evidence-based studies can provide a comprehensive synthesis of existing research, aggregate data from multiple sources, and offer a high-level overview of the evidence. This approach can help identify consistent findings, highlight variations in study designs, and assess the overall quality and strength of evidence regarding the effectiveness of different antimicrobial agents. As such, we aimed to carry out an umbrella review to evaluate the methodological quality, meta-analytical strength and validity of the evidence presented in systematic reviews (SRs) on the use of systemic and local antibiotics in periodontal therapy.
+
+2 Materials and methods
+
+2.1 Protocol and reporting
+
+The protocol was defined, with details registered on PROSPERO (ID: CRD42024527222). The results are reported following the PRISMA guideline.
+
+2.2 Study selection
+
+We searched on PubMed (via MEDLINE), Web of Science, EMBASE, CENTRAL (Cochrane) and LILACS studies published up to March 2024, without any language or publication date restrictions. We merged keywords and subject headings appropriately for each database using the following syntax: (antibiotic* OR antibact*) AND (periodont* OR gum OR Periodontal Diseases[MeSH]) AND (systematic review OR meta-analysis OR meta analysis of metaanalysis). In addition, grey literature was searched via. Additional relevant literature was included after a manual search of the reference lists of the final included articles.
+
+The electronic database search was carried out by two independent authors (J.B. and V.M.), and the final decision for inclusion was made according to the following criteria: (1) systematic reviews with meta-analysis; (2) results from human studies; (3) assessing the impact of the delivery of antibiotics (either systemic and/or local) as an adjunct of periodontal therapy.
+
+As such, exclusion criteria were as follows: (1) systematic reviews without meta-analysis (that is, without pooled estimates) as these prevented the assessment of the meta-analytical quality; (2) systematic reviews reporting binary results without controls; (3) systematic reviews with meta-analysis that did not provide meta-analytic estimates and/or heterogeneity results; and (4) systematic reviews of systematic reviews (umbrella reviews). Additional exclusion decisions of studies were made regarding some specificities found during the studies inclusion process: (a) systematic reviews restricted to studies from a particular country; and (b) secondary analysis of data sourced from previous systematic reviews.
+
+2.3 Data extraction
+
+We created a predefined table to obtain the necessary data from each eligible systematic review, including the study identification (authors and year), the number of studies included in the meta-analysis, type and number of studies included, antibiotic type, route of administration (systemic or local), population description, number of participants, number and type of meta-analysis (when applicable), methodological quality tool used, periodontal information collected, effect size and 95% CI, and funding information. Two independent researchers (J.B. and V.M.) extracted the information from each eligible systematic review, and all disagreements were resolved through a discussion with a third reviewer (P.L.). The agreement between the examiners was categorized as excellent (0.93, 95% CI: 0.89-0.97).
+
+2.4 Methodological quality appraisal and grading of the evidence
+
+Two expert reviewers, J.B. and V.M., evaluated the systematic reviews using the AMSTAR (A MeaSurement Tool to Assess systematic Reviews) 2 tool. The systematic reviews were classified into four categories based on their quality and following AMSTAR2 instructions: High (no or one minor weakness), Moderate (more than one minor weakness), Low (one major flaw with or without minor weaknesses), and Critically Low (more than one major flaw with or without minor weaknesses).
+
+We graded meta-analyses following a previously published methodology. Significant associations were categorized into four evidence levels: strong, highly suggestive, suggestive, and weak evidence. A category of strong evidence was attributed if all the following criteria were met: >1000 cases included in the meta-analysis; a p-value ≤10^-6 of statistical significance in valid meta-analysis; heterogeneity (I²) below 50%; the 95% prediction interval excluded; and, no evidence of small study effects and excess significance bias. Highly suggestive evidence was set if: meta-analyses with >1000 cases; a random effects p-value ≤10^-6, and the largest study in the meta-analysis was statistically significant. Suggestive evidence was defined if: meta-analyses with >1000 cases, random-effects p-value ≤ 10^-4 were categorized. If the latter conditions were not verified, the meta-analysis was classified as weak evidence.
+
+Lastly, we combined AMSTAR-2 categories with meta-analytical strength into a single categorization, called "Overall Grading" as follows: Strong – if strong meta-analytical estimates and high methodological quality according to AMSTAR 2; Highly Suggestive – if highly suggestive meta-analytical estimates and high methodological quality according to AMSTAR 2 or if strong meta-analytical estimates and moderate methodological quality according to AMSTAR 2; Suggestive – if suggestive meta-analytical estimates and high methodological quality according to AMSTAR 2 or if highly suggestive meta-analytical estimates and moderate methodological quality according to AMSTAR 2; Weak - If the latter conditions were not verified, the meta-analysis was classified as weak evidence or if the SR is of low or very low quality.
+
+2.5 Calculation of FSN
+
+In nominally statistically significant meta-analyses, we determined the number of future studies of average null effect and average weight needed to detect a non-statistically significant summary estimate by calculating Rosenberg's FSN. We used the Meta-Essentials packages for binary (odds ratio, risk ratio, hazard ratio, incidence ratio or ratio of means) and continuous measures (mean difference, standardized mean difference or weighted mean difference). We then calculated the median and range for each evidence grade (strong, highly suggestive, suggestive and weak).
+
+2.6 Data handling and management
+
+All data were collected in MS Office 365. Inferential statistical analyses were computed using R version 4.03.
+
+3 Results
+
+3.1 Selection and characteristics of the included meta-analyses
+
+Our search retrieved a total of 1,544 entries. After removing duplicates (n=456), a total of 1,088 records were screened for titles and abstracts against the eligibility criteria. After judging the full-paper of 74 records, thirty studies were excluded. Excellent inter-examiner reliability was confirmed at the full-text screening (Cohen's kappa score = 0.94, 95% CI: 0.92; 0.96). A final sample of 44 SRs were included for quantitative and qualitative appraisal.
+
+Most studies reported results following the PRISMA statement (56.8%, n=25) or the QUality Of Reporting Of Meta-analyses (QUORUM) statement (n=2, 4.5%). Yet, 16 did not report following a reporting guideline for systematic reviews (36.4%). While for the risk of bias (ROB) methodological quality, Cochrane ROB tools were the most used, either ROB (n=17, 38.6%) or ROB2 (n=8, 18.2%), or the Jadad Scale (n=2, 4.5%). Nevertheless, five SRs did not report the use of an appropriate instrument to assess methodological quality (11.4%).
+
+Overall, 221 meta-analytic comparisons were included. Except for six meta-analyses, nearly all (n=215; 97.3%) used a continuous effect size. Mean Difference (61.5%, n=136), Weighted Mean Difference (25.3%, n=56), and Standardized Mean Difference (7.7%, n=17) were the most commonly reported effect measures. Most SRs focused only on systemic antibiotics (n=44, 72.1%), 11 on local antibiotics (n=11, 18.0%) and 6 on both systemic and local antibiotics (n=6, 9.8%).
+
+3.2 Grading of meta-analytical evidence from the impact of antibiotics
+
+Four meta-analyses from a single SR achieved strong evidence for the use of systemic antibiotics (combining multiple types) for:
+- Average CAL: 0.3 mm, 95% CI: 0.2;0.4
+- Average CAL in moderately to deep pockets: 0.4 mm, 95% CI: 0.3;0.5
+- Average bleeding on probing (BoP): 6.6%, 95% CI: 4.2;9.1
+- Average percentage of pocket closure: -14.5, 95% CI: -17.9;-11.1
+
+Fifteen estimates from three distinct SRs achieved highly suggestive evidence. Two regarding the use of local antibiotics (combining multiple types) for mean probing pocket depth (PPD) and clinical attachment level (CAL) change. The remaining estimates concerned the use of systemic antibiotics (combining multiple types), for multiple clinical measures, such as average PPD (both overall, moderately deep pockets, deep pockets or change in frequency of multiple PPD thresholds).
+
+Ten meta-analyses from a single SR obtained suggestive evidence for the use of systemic antibiotics (combining multiple antibiotics) for PPD, CAL and bleeding on probing (BoP) changes.
+
+3.3 Methodological quality assessment
+
+Inter-examiner reliability was very good (Cohen kappa score = 0.88; 95%CI: 0.84-0.92) for AMSTAR2. Four SRs were categorized as high (6.6%) and two as moderate (3.3%) methodological quality. The majority presented critically low (n=40, 65.6%) to low methodological quality (n=15, 24.6%). The included SRs predominantly failed to report on the funding sources for the studies included (n=57, 93.4%), explain the selection of the study designs for inclusion in the review (n=50, 82.0%) and list the excluded studies with the respective justification (n=36, 59.0%). In addition, studies predominantly failed to account for the risk of bias in individual studies when interpreting or discussing the results (n=35, 57.4%). For studies conducting meta-analysis, there was often a lack of assessment of the potential impact of bias in individual studies on the results of the meta-analysis or other evidence synthesis (n=34, 55.7%). Although the median completeness of AMSTAR2 was 62.0%, the median completeness of critical domains was 46.8%.
+
+3.4 Number of additional studies needed to change current meta-analytic evidence
+
+Three studies performed network meta-analyses and eight did not report I² scores. Thus, those SRs were not included in this evaluation. Therefore, 215 meta-analyses from 33 SRs were assessed for their statistical strength. Among the twenty-nine meta-analyses across three distinct studies, which cumulatively yielded suggestive to strong evidence, the median fail-safe number (FSN) amounted to 35 (with a range of 0 to 175). For each level of evidence, the median FSN was 57 (ranging from 35 to 160) for suggestive, 16 (ranging from 0 to 175) for highly suggestive, and 20 (ranging from 1 to 126) for strong evidence. In 65.5% of the meta-analyses (n=19) for these evidence categories, the FSN was higher than the number of studies included, suggesting that the statistical significance of the summary estimates is unlikely to change as more studies are added in the future. Concerning the 186 meta-analyses with weak evidence, the median FSN was 0 (ranging from 0 to 50,567). In 16 comparisons (8.3%), the FSN was smaller than the number of studies included in the existing meta-analyses.
+
+3.5 Overall grading
+
+The combination of AMSTAR 2 with meta-analytical evidence grading showed that there is low-quality evidence. Despite the meta-analytical estimates having strong (n=4), highly suggestive (n=15) and suggestive (n=10) strength, the systematic reviews from which they originated had low methodological quality, thus nominally categorized as weak evidence. The remaining studies had weak meta-analytical strength (n=192).
+
+4 Discussion
+
+The present umbrella review assessed a total of 44 meta-analyses with a total sample of 221 comparisons. Systemic antibiotics, whose meta-analysis combined multiple types, have been found to be supported by weak evidence. The efficacy of local antibiotics cannot be confidently recommended for clinical application. However, if future systematic reviews employ a high methodological standard, the overall strength of the meta-analytical findings is not expected to change according to fail-safe number statistics.
+
+In systematic reviews involving meta-analyses of antibiotics used in periodontal therapy, it was often observed that the number of participants for each specific type of antibiotic was relatively low. This limitation poses a challenge in drawing robust and definitive conclusions about the efficacy of individual antibiotics. As a result, researchers frequently combine data from various antibiotic types into a single meta-analysis to enhance the statistical power and robustness of the findings. In fact, the meta-analyses nominally categorized as suggestive to strong meta-analytical evidence were the ones combining multiple types of antibiotics. However, this approach can mask the nuanced effects and potential benefits or drawbacks of specific antibiotics.
+
+Furthermore, while local antibiotic strategies offer a targeted approach to periodontal infection control, their effectiveness often appears to lag behind systemic regimens. Local antibiotics may provide high concentrations at the site of infection with fewer systemic side effects. Still, the limited number of high-quality studies makes it difficult to compare their efficacy to systemic antibiotics fully. This disparity underscores the need for more rigorous, comparative research to determine the optimal use of local versus systemic antibiotics in periodontal therapy.
+
+The systematic reviews (SRs) included in this analysis demonstrate a relatively low level of methodological quality, as evidenced by the AMSTAR 2 ratings. Several key deficiencies were noted, and these findings highlight the necessity of improving methodological rigor in SRs to enhance the reliability and validity of their conclusions.
+
+In our observation, the overall clinical measures in these meta-analyses frequently relied on average values rather than "clinically applicable" metrics, such as the percentage of disease sites meeting certain threshold measures. Average clinical measures can obscure the concrete recovery of individual patients by smoothing over the variations and nuances present within the data. Using threshold measures, such as the percentage of disease sites achieving a predefined reduction in pocket depth or gain in attachment levels, could provide a clearer and more accurate picture of clinical outcomes.
+
+4.1 Implications for practice and research
+
+4.1.1 For clinical practice
+
+The shortcomings of current systematic reviews indicate the necessity for clinicians to rigorously assess the credibility of the evidence prior to applying it in clinical practice. Given that the great majority of the systematic reviews demonstrated low to critically low methodological quality, the likelihood of bias is heightened, thereby potentially affecting clinical decision-making. Clinicians should exercise caution when interpreting the average clinical measurements reported in meta-analyses, as these may obscure the true range and concrete results across diverse patient populations and disease clinical features.
+
+The comparison between local and systemic antibiotic strategies reveals a gap in the robustness of evidence favoring systemic regimens. However, this should not overshadow the potential benefits of local antibiotic applications, which require further investigation. Clinicians should consider the individual patient's context, including the severity of periodontitis and potential side effects, when deciding between local and systemic antibiotic treatments.
+
+4.1.2 For future research
+
+Based on these results, and with antibiotics having negligible impact on periodontitis clinical management, caution is required when developing future clinical studies. Since the antibiotics used are already broad-spectrum, we recommend an antibiotic stewardship as an effort to discourage antibiotics during periodontal therapy. Antibiotics should only be considered in aggressive forms of periodontitis and, wherever possible, studying antibiotic efficacy. Thus, future studies focusing on such cases should adopt robust designs, including longitudinal randomized controlled trials with standardized outcome measures to allow comparability within studies. The biological mechanisms underpinning the use of local antibiotics shall be explored as well and define clear clinical scenarios where their application is warranted. This will help ensure therapeutic precision while minimizing antimicrobial resistance.
+
+5 Conclusion
+
+There is no robust evidence to support the use of antibiotics for periodontal management. In severe cases of periodontitis, antibiotic treatment may be warranted. However, it is advisable to evaluate the effectiveness of antibiotics beforehand when feasible.
