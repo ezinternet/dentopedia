@@ -1,0 +1,73 @@
+Title: Effect of venous blood, injectable platelet-rich fibrin, and synthetic graft on implant stability following indirect sinus augmentation
+PMID: 41918059
+PMCID: PMC13118155
+DOI: 10.4103/jips.jips_529_25
+Source: PubMed Central full text
+
+INTRODUCTION
+
+Rehabilitation of the posterior maxilla presents significant challenges, primarily because of reduced bone density and sinus pneumatization. Residual ridge resorption following tooth extraction often necessitates sinus floor elevation before implant placement. Sinus augmentation may be performed via lateral or crestal approaches; the indirect crestal technique is associated with reduced morbidity and shorter operative time compared to the lateral window approach. Despite these advantages, the ideal graft material for indirect sinus augmentation remains unclear.
+
+Autogenous bone is regarded as the gold standard grafting material owing to its osteogenic, osteoinductive, and osteoconductive potential; however, its clinical use is constrained by donor-site morbidity, prolonged surgical time, and postoperative discomfort. Consequently, several alternative materials and biological strategies have been investigated for indirect sinus augmentation. Venous blood alone, acting as a natural fibrin-rich clot scaffold, has also been explored as the simplest option; while it may support limited initial bone formation, evidence shows that its ability to maintain sinus membrane elevation and achieve predictable bone gain is limited. Studies by Kim and Moon have demonstrated that, following membrane elevation, the stabilized blood clot can support early osteogenesis and limited new bone formation, though outcomes may be influenced by residual bone height and membrane stability.
+
+Autologous platelet concentrates, particularly injectable platelet-rich fibrin (i-PRF) and L-PRF, have gained attention due to their enhanced presence of bioactive growth factors and cytokines facilitating angiogenesis, cellular migration, and early osteoblastic activity. Clinical studies suggest that when used alone or in combination with xenograft materials, PRF may improve early implant stability and support bone maturation, although results remain variable. Synthetic graft substitutes, such as β-tricalcium phosphate and biphasic calcium phosphate, offer biocompatibility, structural stability, and predictable volumetric maintenance. Evidence from randomized clinical trials and prospective studies indicates that these materials can successfully support bone formation and implant osseointegration in the sinus environment.
+
+Additionally, graftless sinus elevation techniques, in which the Schneiderian membrane is elevated without any filler material, have been investigated. These approaches rely on the native osteogenic capability of the membrane and the stability of the blood clot formed after elevation. Systematic reviews and clinical studies have reported that, in selected cases with adequate residual bone height and careful membrane handling, graftless procedures may achieve acceptable bone formation and implant survival.
+
+However, despite the availability of multiple biologically distinct approaches, a clearly defined evidence gap remains. Existing studies have evaluated these materials independently, in heterogeneous clinical scenarios, and with varied outcome measures. No randomized clinical trial has directly compared venous blood, i-PRF, and synthetic grafts within the same standardized indirect sinus augmentation protocol. Moreover, implant stability, one of the most clinically relevant indicators for early loading potential and long-term success, has not been systematically assessed across these materials in borderline residual bone height situations.
+
+Addressing this gap is clinically meaningful because these materials differ significantly in biological behavior, cost, invasiveness, and chairside complexity, yet they are often selected interchangeably in routine practice. A direct comparative evaluation can guide clinicians toward evidence-based material selection and minimize overtreatment in cases suitable for minimally invasive augmentation.
+
+Thus, the objective of this randomized clinical trial was to assess implant stability outcomes following indirect sinus augmentation using without graft, venous blood, i-PRF, and a synthetic graft.
+
+MATERIALS AND METHODS
+
+This randomized, parallel-group clinical trial was conducted in accordance with the Declaration of Helsinki. Ethical clearance was obtained from the Institutional Ethics Committee, and the study was prospectively registered with the Clinical Trials Registry of India (CTRI/2025/03/081640). Written informed consent was obtained from all participants.
+
+The study included 64 partially edentulous individuals aged 18–60 years with missing posterior maxillary teeth and a residual bone height ranging from 4 to 6 mm. Participants with uncontrolled systemic diseases, sinus pathology, periodontal disease, smoking habits, bisphosphonate therapy, pregnancy, or lactation were excluded. Sample size estimation was based on Ortega (2021) assuming an effect size of 0.5, α = 0.05, and 90% power; G*Power software indicated a total of 64 samples for four groups.
+
+Participants were randomly assigned to four groups (n = 16 per group) using a computer-generated randomization sequence. An independent investigator ensured allocation through the use of sequentially numbered, opaque, sealed envelopes. The outcome assessor and statistician were blinded to group allocation.
+
+All surgical procedures were carried out by a single trained surgeon. After administration of local anesthesia, a crestal incision was made, and a full-thickness mucoperiosteal flap was elevated. Using the Crestal Approach Sinus (CAS) Kit (Osstem system), Osteotomy was initiated with a pilot drill, followed by a 2.0 mm twist drill with a 3-mm stopper, leaving 1 mm of bone above the sinus floor. The osteotomy was then performed with CAS drills in sequential order of 2.8, 3.1, and 3.3 mm at 400–800 rpm. A stopper-controlled drill of 4 mm was used to breach the sinus floor. The mobility of the membrane was checked with a depth gauge, and 0.5 mL saline was injected with a hydraulic lifter to elevate the membrane by about 5 mm.
+
+Group allocation:
+Group 1 – Without graft
+Group 2 – 0.5 mL autologous venous blood
+Group 3 – 0.5 mL i-PRF
+Group 4 – 0.5 cc NovaBone alloplastic putty
+
+i-PRF was prepared by withdrawing 10 mL venous blood in a dry glass or glass-coated plastic tube and immediately centrifuging it at 60 g relative centrifugal force (700 rpm) for 3 min. The yellow i-PRF was aspirated from the upper layer above the buffy coat using a beveled-edge needle.
+
+A 4.2 mm × 8 mm Noris Tuffimplant (Noris Medical, Israel; roughened surface, tapered design) was placed with insertion torque standardized to 30 Ncm. The surgical site was sutured and removed after 1 week. No adverse events occurred.
+
+Implant stability (ISQ) was measured using Osstell ISQ at baseline and after 6 months. A SmartPeg was attached, and ISQ was recorded in buccolingual and mesiodistal directions by a blinded assessor. After 6 months, re-entry was performed, ISQ was reassessed, healing abutments were placed, impressions made, and screw-retained prostheses were delivered.
+
+Statistical analysis: one-way ANOVA with Tukey's post hoc test; Shapiro–Wilk confirmed normality; IBM SPSS v25.
+
+RESULTS
+
+At baseline, all four groups demonstrated comparable ISQ values (p > 0.05), confirming successful randomization.
+
+Buccal ISQ at baseline: Group 1: 50.44±12.51; Group 2: 50.25±9.23; Group 3: 50.25±11.73; Group 4: 50.06±12.52.
+Mesial ISQ at baseline: Group 1: 53.06±12.04; Group 2: 53.19±8.53; Group 3: 53.06±13.52; Group 4: 53.13±9.10.
+
+At 6 months:
+Buccal ISQ: Group 1: 54.81±6.18; Group 2: 56.75±5.63; Group 3: 70.06±6.32; Group 4: 75.88±2.87
+Mesial ISQ: Group 1: 55.75±8.10; Group 2: 61.50±9.30; Group 3: 74.75±2.52; Group 4: 76.38±2.94
+
+ANOVA: p < 0.001 for both buccal and mesial at 6 months.
+Tukey's post hoc: Groups 3 and 4 both significantly superior to Groups 1 and 2 (p < 0.001 to p = 0.017).
+No significant difference between Group 3 and Group 4 (buccal p = 0.546; mesial p = 0.749).
+No significant difference between Group 1 and Group 2 (buccal p = 0.732; mesial p = 0.535).
+
+No serious adverse events (implant failure, membrane perforation, or postoperative infection) in any group.
+
+DISCUSSION
+
+At 6 months, Groups 3 (i-PRF) and 4 (NovaBone) surpassed the ISQ threshold of 70 associated with favorable implant stability (Glauser 2004). i-PRF's growth factors (PDGF, TGF-β1, VEGF) promote angiogenesis, osteoblast proliferation, and early bone remodeling through sustained fibrin matrix release. NovaBone (calcium-phosphosilicate) provides an osteoconductive scaffold for bone ingrowth and space maintenance. Venous blood showed only slight improvement over no graft, likely due to absence of structured fibrin matrix and concentrated growth factors.
+
+ISQ was recorded from mesial and buccal aspects representing mesiodistal and buccolingual axes — two directions sufficient to characterize anisotropic stability. Groups 3 and 4 also exhibited lower ISQ variability, indicating more consistent outcomes.
+
+CONCLUSIONS
+
+Indirect sinus augmentation using i-PRF or a synthetic graft significantly enhanced implant stability compared to venous blood or without graft. i-PRF demonstrated outcomes comparable to synthetic graft (NovaBone), highlighting its value as a cost-effective autologous alternative. i-PRF offers a practical, minimally invasive, chairside-efficient option for sinus augmentation.
