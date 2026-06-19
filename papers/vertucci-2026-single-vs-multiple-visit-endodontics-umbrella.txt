@@ -1,0 +1,37 @@
+Source: PubMed (abstract only — no PMC full text available)
+PMID: 41856391
+DOI: 10.1016/j.jdent.2026.106637
+Retrieved: 2026-06-19
+
+TITLE:
+Single-visit versus multiple-visit root canal therapy: Post-endodontic pain outcomes from an umbrella review.
+
+AUTHORS:
+Gupta R, Abraham D, Ahmad L, Puri A
+Department of Conservative Dentistry and Endodontics, Manav Rachna Dental College, Manav Rachna International Institute of Research and Studies, Sec 43, Delhi, Surjakund Road, Faridabad, Haryana 121001, India.
+
+JOURNAL:
+Journal of Dentistry. 2026;169:106637.
+Published: 2026-03-17
+
+ABSTRACT:
+This umbrella review synthesized and critically appraised evidence from systematic reviews comparing post-operative pain after single-visit and multiple-visit root canal treatment in permanent teeth.
+
+Twelve systematic reviews met the inclusion criteria. Post-operative pain was most commonly assessed as pain intensity using visual analogue or numeric rating scales at prespecified intervals, and less often as pain incidence. Flare-up outcomes were reported inconsistently and were defined variably across reviews. Overall, the higher-confidence reviews did not show a consistent or clinically important difference in post-operative pain between single-visit and multiple-visit treatment. Confidence in the evidence was limited by heterogeneity in outcome definitions, pain measures, follow-up periods, and by overlap among primary studies included across reviews.
+
+Structured searches of major bibliographic databases and grey literature were conducted from inception to December 2025 using combinations of controlled vocabulary and free-text terms.
+
+Eligible studies were systematic reviews, with or without meta-analysis, that compared single-visit and multiple-visit endodontic treatment and reported post-endodontic pain outcomes. Two reviewers independently performed study selection and data extraction. Methodological quality was assessed with AMSTAR 2, risk of bias with ROBIS, and overlap of primary studies was also examined.
+
+Current synthesized evidence suggests that post-operative pain outcomes are broadly similar after single-visit and multiple-visit root canal treatment. However, confidence in this conclusion is constrained by heterogeneity across reviews and redundancy in the underlying evidence base. Future evidence syntheses should use standardized pain outcomes and assessment time points, address study overlap transparently, and apply more rigorous risk-of-bias methods.
+
+For adult patients requiring root canal therapy on permanent teeth, current evidence indicates that single-visit and multiple-visit treatment protocols yield broadly similar post-operative pain outcomes. Therefore, the choice of visit strategy can be guided by other factors such as case complexity, infection control, patient preference, and logistical considerations rather than the expectation of meaningful differences in post-operative pain.
+
+KEYWORDS:
+Evidence-based dentistry; Meta-analysis as topic; Pain measurement; Pain, Postoperative; Root canal therapy; Systematic reviews as topic; Treatment outcome; Visual analog scale
+
+MESH TERMS:
+Humans; Root Canal Therapy; Postoperative Pain; Pain Measurement; Treatment Outcome
+
+ARTICLE TYPES:
+Journal Article; Systematic Review; Review; Research Support, Non-U.S. Gov't
