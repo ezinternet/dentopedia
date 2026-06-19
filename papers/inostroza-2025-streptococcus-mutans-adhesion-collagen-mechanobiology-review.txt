@@ -1,0 +1,13 @@
+ABSTRACT-ONLY — full text not retrieved (no PMC OA)
+
+Citation: Inostroza C, Berríos P, Orellana I, Rivas-Pardo JA, Aguayo S.
+How force drives pathogenicity: mechanoregulation of Streptococcus mutans adhesion to collagen.
+Crit Rev Microbiol. 2025;52(3):483-499.
+DOI: 10.1080/1040841X.2025.2584074
+PMID: 41221851
+(Pontificia Universidad Católica de Chile)
+
+Note: The journal rendered the organism name as blank in places — it is Streptococcus mutans throughout.
+
+ABSTRACT (verbatim):
+Streptococcus mutans is a caries-associated bacterium able to adhere to oral tissue surfaces and promote biofilm formation. It expresses specialized surface adhesins, among which collagen-binding proteins (CBPs) have an important function in attachment to dentin, bacterial coaggregation, and extracellular matrix invasion. Understanding the mechanobiological behavior of CBPs, particularly their interaction with collagens during bacterial adhesion, is crucial for developing strategies to prevent biofilm formation in oral and remote tissues. This review summarizes recent evidence on the main mechanical properties of the relevant S. mutans CBPs SpaP, WapA, Cnm, and Cbm, and how their mechanobiological and adhesive characteristics contribute to virulence toward the host. It focuses on how interdisciplinary approaches such as atomic force microscopy (AFM)-based single-molecule force spectroscopy (SMFS) and single-cell force spectroscopy (SCFS) have characterized S. mutans and CBP attachment to collagen substrates and mechanical behavior in real-time under physiological conditions. The potential use of AFM SMFS and SCFS to explore novel anti-biofilm molecules against S. mutans remains an exciting possibility for developing caries-preventive treatments.
