@@ -1,0 +1,101 @@
+Source: PubMed Central (PMC) — full text retrieved 2026-06-19
+Title: Arginine Dentifrices and Childhood Caries Prevention: A Randomized Clinical Trial
+Authors: W. Yin, Z. Zhou, R.-Z. Huang, G. Sun, Y. Zhong, Z. Yang, Y. Li, Y. Zhang, P. Zhang, D. Hu, L.R. Mateo, G. Gao, S. Lim, A.I. Ismail, J. Zimmerman, B. Garcia-Godoy, M. Ryan, Y.-P. Zhang
+Journal: JDR Clinical & Translational Research 2026;11
+PMID: 40794532 · PMCID: PMC12967385 · DOI: 10.1177/23800844251361471
+
+=== ABSTRACT ===
+
+Background:
+Dental caries remains a significant oral health burden globally. Scientific evidence has demonstrated the dose-dependent anticaries action of fluoride; however, more effective, comprehensive, and alternative prevention strategies are required.
+
+Methods:
+A 2-y, phase 3, randomized controlled trial based on a double-blind, 3-arm, parallel-group design was conducted from April 15, 2019, through March 12, 2022 across 3 centers in China. Six thousand children aged 10 to 14 y with ≥2 active caries lesions were assigned 1 of 3 study dentifrices: 8.0% arginine, 1.5% arginine, and 0.32% sodium fluoride (NaF). The primary efficacy outcomes were incremental DMFS (decayed, missing, and filled surfaces) and DMFT (decayed, missing, and filled teeth) caries indices scores after 2 y of product use. The secondary efficacy outcomes were the incremental caries indices scores after 1 y and 6 mo of product use. Noninferiority was achieved if the 95% CI of the mean difference in scores was below the noninferiority margin of 0.2545 after 2 y, 1 y, and 6 mo of product use.
+
+Results:
+After 2 y, the 8.0% arginine–containing dentifrice demonstrated a statistically significant reduction of 26.0% in DMFS scores (−0.16; 95% CI, −0.22 to −0.10; P < .001) and 25.3% in DMFT scores (−0.17; 95% CI, −0.24 to −0.11; P < .001) versus control. No statistical difference was measured between the 1.5% arginine–containing dentifrice and control in DMFS (−0.01; 95% CI, −0.07 to 0.05; P = .819) and DMFT (−0.01; 95% CI, −0.07 to 0.05; P = .739).
+
+Conclusions:
+Dentifrice containing 8.0% arginine showed a statistically significant reduction in caries incidence versus the NaF control, while the 1.5% arginine dentifrice showed equivalence to the NaF control regarding caries reduction. This clinical study confirms that arginine dentifrices are effective alternatives to fluoride in providing anticaries protection.
+
+Knowledge Transfer Statement:
+This study demonstrates that arginine is an efficacious anticaries agent at the examined doses of 1.5% and 8%. Clinicians and consumers can consider this a new caries preventive agent providing choice to people seeking fluoride-free alternatives. Policy makers could leverage these findings to guide oral health initiatives and inform regulations on dentifrice composition, promoting broader access to effective caries prevention methods.
+
+=== FULL TEXT ===
+
+Introduction
+
+Dental caries, a largely preventable disease, is a widespread problem leading to pain, discomfort, and severe health complications when left untreated. Globally, its estimated prevalence in permanent teeth is nearly 30%, while the number of cases is >2 billion. Despite significant dental health advancements, caries remains a pervasive global health challenge affecting individuals across all age groups and socioeconomic strata. Dental caries persistence signals an urgent call for the development/identification of innovative and multifaceted approaches for addressing this disease.
+
+Fluoride is widely recognized as safe and effective for its role in inhibiting demineralization and enhancing remineralization of enamel for caries prevention. In spite of its anticaries benefit, there are populations and individuals for whom fluoride use is contraindicated or who prefer nonfluoride alternatives. In response to the limitations of fluoride-based therapies and diverse population needs, several potential nonfluoride alternatives for caries management have been investigated. These include antimicrobial peptides targeting cariogenic bacteria, bioactive glass application and nanohydroxyapatite that promote enamel remineralization, remineralizing peptides to manage early carious lesions, sugar alcohols (e.g., erythritol and xylitol) to reduce cariogenic potential, and probiotics that can alter the oral microbiome in favor of a nonpathogenic biofilm.
+
+Arginine, the most promising nonfluoride alternative, is a natural amino acid and prebiotic found in high levels within the saliva of individuals who are caries resistant and in low levels in persons prone to caries. Arginine is metabolized by arginolytic bacteria to produce ammonia, thereby neutralizing the acidic oral environment and reducing enamel demineralization risk and caries progression. Several trials have shown that toothpaste containing arginine and fluoride is more effective at preventing caries than fluoride toothpaste alone by enhancing enamel remineralization, modulating the cariogenic biofilm, and inhibiting cariogenic bacterial adhesion to tooth surfaces, thereby limiting biofilm formation. The most significant impact of arginine on oral health is its potential to maintain a healthy microbiome and to enhance dental enamel remineralization and repair. Arginine can elevate the oral pH, increasing the degree of saturation with respect to hydroxyapatite, the primary inorganic component of enamel. This pH-modulating ability is a distinctive feature that differentiates arginine from other remineralizing agents. Additionally, arginine is one of the few nonfluoride alternatives that have demonstrated an anticaries benefit in multiple 2-y caries trials.
+
+This clinical trial aimed to assess the anticaries efficacy of 2 arginine-containing, fluoride-free dentifrices—8.0% arginine in a calcium carbonate base and 1.5% arginine in a calcium carbonate base—relative to a positive control containing 0.32% sodium fluoride (NaF) in a silica base over a 24-month period.
+
+Methods
+
+Study Design
+This phase 3 investigation was a randomized double-blind study based on a 3-cell parallel-group design that was conducted in China at 3 clinical sites: 1) West China College of Stomatology, Sichuan University, Chengdu; 2) School of Stomatology, Chongqing Medical University, Chongqing; and 3) College of Stomatology, Xi'an Jiaotong University, Xi'an. The study took place from April 15, 2019 (first patient visit), to March 12, 2022 (last patient visit). The study was planned and executed in compliance with the International Council for Harmonization and good clinical practice. This report followed the CONSORT guidelines. The study was approved by the institutional review board of the China Oral Health Foundation, Beijing, China. Colgate-Palmolive Company was the study sponsor. Written informed consent was obtained from parents/guardians. A data safety monitoring board met regularly. Registered at ClinicalTrials.gov.
+
+CONSORT diagram: 6946 participants assessed for eligibility, narrowing to a full random sample of 6000. Allocated to three interventions: 1.5% Arginine TP (2002 participants), 8% Arginine TP (1998 participants), and 0.32% NaF TP (2000 participants). Follow-up at 6 months, 1 year, and 2 years. ITT analysis at 2 years: 2002, 1998, 2000 analyzed respectively.
+
+Participant Eligibility Criteria
+Participants enrolled from 3 major areas within China: greater areas of Chengdu, Chongqing, and Xi'an. Eligible: healthy male and female children aged 10 to 14 y. Other inclusion criteria: ≥2 active caries lesions with scores ≥2 according to ICDAS; previous caries experience with DMFS score ≥2; willingness to use assigned products as directed; at least 1 second molar or evidence of its eruption; availability for all appointments; parent/guardian willing to sign informed consent.
+
+Exclusion: fixed or removable prosthetic appliances or orthodontic treatment involving ≥4 permanent teeth; medication use that could increase caries risk (e.g. medication-induced xerostomia); long-term antibiotic therapy; cognitive/motor impairment; severe malocclusion; severe caries (ICDAS 5 or 6) on ≥5 teeth; moderate or severe periodontal disease; participation in other clinical study within 30 days; history of allergies/adverse reactions to arginine or oral care products; pregnant or lactating females.
+
+Examiner Training and Calibration
+6 clinical examiners (2 per site) trained and calibrated on caries detection methods on-site in Chengdu, China, February 2019. Dr. Domenick Zero (Indiana University) served as gold standard trainer. Kappa statistic >0.70 for intraexaminers and >0.61 for interexaminers (substantial agreement).
+
+Study Interventions
+Three dentifrices: 1) 8.0% arginine in calcium carbonate base, 2) 1.5% arginine in calcium carbonate base, 3) 0.32% NaF in silica base as control (all from Colgate-Palmolive). Recommended fluoride concentration 1,000 to 1,500 ppm; a 0.32% NaF toothpaste (1,450 ppm) was selected as control. Randomization via computer-generated random number list. Double-blind: products overwrapped and coded at separate facility; identical flavor/aroma, same size/type white overwrapped tubes. Participants instructed to brush twice a day. New toothpaste tubes at each visit; leftover product weighed. Each tube net weight 120 g, resupplied every 3 months (baseline, months 3, 6, 9, 12, 15, 18, 21).
+
+Assessments
+Baseline examination (oral soft/hard tissue + caries examination). Halogen light source + dental mirror + WHO Community Periodontal Index probe for visual-tactile assessments. All tooth surfaces of each permanent tooth assessed, excluding third molars. Caries severity via ICDAS. Missing and filled assessed via DMFS and DMFT indices. For the decayed component, only cavitated carious lesions tallied (ICDAS 3, 4, 5, 6 considered cavitated). No radiographs taken. Data entered chairside into Microsoft Access database. Comprehensive examinations at 6, 12, and 24 mo. Safety examinations at 3, 9, 15, 18, 21 mo.
+
+Study End Points
+Primary end point: incremental subject-wise DMFS and DMFT scores after 2 y. Secondary: incremental DMFS and DMFT scores after 6 mo and 1 y.
+
+Power
+Sample size (n = 6,000) determined for secondary efficacy outcome; assumed annual dropout rate 10%, α = 0.05, estimated coefficient of variation ≤1.50 units, noninferiority margin of 10% (upper interval margin based on ratio of means), power 80%. After 9 mo, the FDA provided input on noninferiority method; a new specific noninferiority margin (0.2545) was proposed by experienced collaborators following investigation using historical data from prior caries clinical trials (including a Cochrane review) and FDA communications (2019 to 2020).
+
+Statistical Analyses
+ITT analysis on all participants. Missing DMFS/DMFT scores imputed via multivariate imputation by chained equations. Predictive mean matching used. Bootstrapping incomplete data 200 times then imputing each bootstrap 2 times (400 imputed datasets). Baseline-adjusted models using propensity score weighting (baseline imbalance noted; DMFS/DMFT varied across arms at baseline). Pairwise comparisons: standardized mean differences after accounting for baseline via propensity score weighting; 95% CIs and P values from bootstrapping/imputation (8.0% arginine vs 0.32% NaF and 1.5% arginine vs 0.32% NaF). Two-sided tests, α = 0.05. Noninferiority margin 0.2545 per FDA guidance and historical Cochrane data.
+
+Results
+
+A total of 6,000 participants, mean age 12.35 y (range 10 to 14; 3,409 females, 56.8%) randomized to 8.0% arginine, 1.5% arginine, or 0.32% NaF. A total of 5,347 (89.1%) completed the trial in full.
+
+No statistically significant difference among 3 treatment groups for gender (P = 0.921) and age (P = 0.416).
+
+Baseline differences indicated among 3 groups (mean [SE] DMFS: 8.0% arg 4.26 [0.07], 1.5% arg 4.13 [0.07], NaF 3.91 [0.06], P < 0.001; DMFT: 3.08 [0.04], 3.15 [0.04], 2.92 [0.03], P < 0.001).
+
+6-mo evaluation: significant but noninferior difference for both arginine groups vs control.
+
+1-y evaluation: 8.0% arginine considered superior anticaries efficacy (greater decrease in mean incremental DMFS and DMFT) vs control. 1.5% arginine showed parity to NaF control.
+
+2-y evaluation DMFS: 8.0% arginine statistically significant reduction of 26.0% (−0.16; 95% CI −0.22 to −0.10; P < 0.001), superior. 1.5% arginine nonsignificant decrease of 0.7% (−0.01; 95% CI −0.07 to 0.05; P = 0.819), noninferior parity vs control.
+
+2-y evaluation DMFT: 8.0% arginine statistically significant reduction of 25.3% (−0.17; 95% CI −0.24 to −0.11; P < 0.001), superior. 1.5% arginine nonsignificant decrease of 1.1% (−0.01; 95% CI −0.07 to 0.05; P = 0.739), noninferior parity vs control.
+
+No serious adverse events. 37 participants reported nonserious side effects; 75.7% nonrelated to dentifrice. Related/possibly related: occasional toothache (n=4), dry mouth (n=2), unpalatability (n=2), acne (n=1).
+
+Table 2 — DMFS and DMFT caries scores (Mean [SE]), baseline / 6 mo / 1 y / 2 y:
+DMFS: 8.0% arg (n=1998): 4.3 / 4.7 / 5.0 / 5.6 ; 1.5% arg (n=2002): 4.1 / 4.7 / 5.1 / 5.9 ; 0.32% NaF (n=2000): 3.9 / 4.3 / 4.8 / 5.6
+DMFT: 8.0% arg: 3.1 / 3.3 / 3.5 / 3.8 ; 1.5% arg: 3.2 / 3.4 / 3.7 / 4.1 ; 0.32% NaF: 2.9 / 3.1 / 3.4 / 3.9
+(Significant baseline differences DMFS P<0.001, DMFT P<0.001.)
+
+Table 3 — Baseline-adjusted incremental DMFS and DMFT at 2 y, vs 0.32% NaF:
+DMFS: 8.0% arg adjusted mean 1.08 (0.07), SMD −0.16 (−0.22 to −0.10), 26.0%, P<.001 ; 1.5% arg 1.45 (0.07), SMD −0.01 (−0.07 to 0.05), 0.7%, P=.819 ; NaF 1.46 (0.07) reference.
+DMFT: 8.0% arg adjusted mean 0.71 (0.05), SMD −0.17 (−0.24 to −0.11), 25.3%, P<.001 ; 1.5% arg 0.94 (0.05), SMD −0.01 (−0.07 to 0.05), 1.1%, P=.739 ; NaF 0.95 (0.05) reference.
+
+Discussion
+
+This 2-y study illustrated superior caries reduction with an arginine-containing dentifrice in a dose-dependent manner vs fluoride-based treatment: 26.0% greater decrease in incremental DMFS and 25.3% greater decrease in incremental DMFT after 2 y of brushing with 8.0% arginine vs control NaF. The 1.5% arginine maintained parity with NaF control (no significant additional benefit). Anticaries effect of arginine is dose dependent; a threshold concentration may be necessary for clinically meaningful benefit. To the authors' knowledge, the current study represents the largest long-term trial to date on the dose-dependent anticaries efficacy of arginine-containing dentifrices in the absence of fluoride. An earlier 2-y study in nearly 600 adolescents showed anticaries effects of 1.5% arginine and 0.24% NaF dentifrices are comparable.
+
+Excessive fluoride associated with dental fluorosis (enamel hypomineralization) and rare fluoride allergy (e.g. stannous fluoride dentifrice). Confirmation of noninferiority assures arginine dentifrices are at least comparable to fluoride. Potential confounders: diet, socioeconomic status, dental care access, fluoride exposure from other sources, individual oral hygiene. Baseline DMFS/DMFT varied across arms; baseline-adjusted model + sensitivity analyses (sex, age, study site) yielded similar estimates. High-concentration arginine (8.0%) may be more efficacious than current fluoride levels; particularly relevant for fluoride-free caries prevention.
+
+Conclusions
+
+Arginine-containing dentifrices are effective in preventing caries: comparable protection to 0.32% NaF at 1.5% arginine and superior protection at 8.0% arginine. Both concentrations present viable alternatives to traditional fluoride dentifrices. Dose-dependent efficacy emphasizes optimizing concentration in product formulation. Arginine is a promising anticaries agent, particularly for individuals seeking a fluoride alternative and for regions/populations where dental fluorosis is a concern.
