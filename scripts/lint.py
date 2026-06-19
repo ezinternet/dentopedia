@@ -46,6 +46,7 @@ VALID_CONFIDENCE = {
     "regulation",  # MOHW notice / decree / amendment
     "official-qa", # official Q&A from MOHW / HIRA
     "manual",      # practical guidebook / 실무편람 / 청구길라잡이
+    "patent",      # patent disclosure (공개/등록특허공보) — primary engineering document, non-research
 }
 
 
