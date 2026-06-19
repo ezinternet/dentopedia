@@ -1,0 +1,68 @@
+Effectiveness of Waterpik for oral hygiene maintenance in orthodontic fixed appliance patients: A randomised controlled trial
+Daniel Tyler, Jing Kang, Hock Hoe Goh
+Journal of Orthodontics. 2023;50(4):367-377. DOI: 10.1177/14653125231173708. PMID: 37203873. PMCID: PMC10693741.
+
+ABSTRACT
+Objective: To establish whether the use of a WaterPik alongside a manual toothbrush (WaterPik + MTB) is more effective for maintaining oral hygiene compared to the use of a manual toothbrush alone (MTB) in patients wearing fixed orthodontic appliances.
+Design: A single-centre, two-arm, parallel-group, single-blind, randomised controlled clinical trial with a 1:1 allocation ratio.
+Setting: Orthodontic department at York Hospital, York Teaching Hospitals NHS Foundation Trust, UK.
+Participants: A total of 40 fit and well participants, aged 10-20 years, being treated with upper and lower fixed orthodontic appliances.
+Methods: Participants were randomly allocated, using stratified block randomisation, to the control group (MTB) or intervention group (Waterpik + MTB). Plaque, gingival and interdental bleeding indices were recorded at baseline, 8 weeks, 32 weeks and 56 weeks. A generalised linear mixed model was used to assess differences between groups.
+Results: An interim analysis of results was performed with 40 patients recruited and 85% of data collected. The overall mean differences between the groups were as follows: plaque index = 0.199 (p = 0.88, 95% CI -0.24 to 0.27); gingival index = -0.008 (p = 0.94, 95% CI -0.22 to 0.20); and interdental bleeding index = 5.60 (p = 0.563, 95% CI -13.22 to 24.42). No statistical difference between the two groups was found for any variable. The trial was stopped at this point.
+Conclusions: In terms of oral hygiene, our study did not find evidence to support the claim of benefit of using a Waterpik in addition to a manual toothbrush for patients wearing fixed orthodontic appliances.
+
+INTRODUCTION
+It is widely accepted that it is more difficult to maintain good oral hygiene when wearing orthodontic appliances. Most patients will develop some degree of gingival inflammation during their fixed appliance treatment. Inflamed gingivae can be uncomfortable and lead to gingival hypertrophy. There is a change in the microbiome of the mouth during fixed appliance therapy with an increase in periodontopathic and cariogenic bacteria. The oral microbiome has been shown to remain abnormal even 2 years after removal of the appliance.
+Stagnating plaque around orthodontic appliances predisposes to decalcification (permanent white/brown marks, can progress to cavitation). A meta-analysis reported an incidence of decalcification of 68.4%.
+Plaque removal using a toothbrush is widely recommended. Adjunctive aids (orthodontic brushes, interdental brushes, dental floss, Siwak) have generally unimpressive results.
+The WaterPik uses a pulsing jet of water to remove debris; on the market since the 1960s. An orthodontic tip (tapered brush through which water is delivered) has entered the market; could mechanically remove plaque alongside the pulsing water. Existing evidence (Sharma) suggested that over 4 weeks, a WaterPik with orthodontic tip improves plaque control in fixed-appliance patients. However, a course of fixed orthodontic treatment takes on average 24.9 months. A longer-period RCT was needed.
+
+AIM / NULL HYPOTHESES
+Aim: whether WaterPik + MTB is more effective for maintaining oral hygiene than MTB alone in patients wearing fixed orthodontic appliances.
+Null hypotheses: no statistically significant difference in plaque levels; gingival health; incidence of oral hygiene-related trauma; adherence with an oral hygiene regime; satisfaction with an oral hygiene regime.
+
+METHODS
+Trial design: single-centre, single-operator, two-arm, parallel-group, stratified, single-blind RCT, 1:1 allocation ratio. Department of Orthodontics, York Hospital, UK.
+Changes after commencement (COVID-19): reduced pool of participants. For first 33 participants, stratified block randomisation based on age, gender and baseline IBI. Decision made to continue recruiting patients meeting inclusion criteria even if their block was full, randomising by single coin toss, to ensure sample size achieved. An interim analysis was carried out due to recruitment issues during COVID-19; decision made to stop the trial (fewer dropouts than expected, sample size reached). Discussed with trial sponsor and ethics committee.
+Eligibility: Age 10-20 years; good general health; normal manual dexterity; normal periodontal health; not using prescription toothpaste; brushing >=2x/day; not already using a WaterPik. Orthodontic: full upper and lower arch fixed treatment; pre-adjusted edgewise MBT prescription brackets (American Orthodontics); brackets (not bands) on all teeth apart from molars; bonded with Transbond XT.
+Interventions:
+- Control: 30-min OHE appointment with qualified dental nurse before appliances placed (diet advice, toothbrushing demonstration). Further OHE on models using standard script after placement. Oral hygiene aids provided for duration: Oral-B 1-2-3 Classic Care Manual Medium toothbrush; Colgate Triple Action toothpaste 1450 ppm fluoride; Wisdom Fresh Effect Coolmint Mouthwash 225 ppm fluoride.
+- Intervention: same as control PLUS Waterpik Water Flosser Model WP-560 with four spare orthodontic tips (change every 3 months). Demonstrated to use orthodontic tip around brackets and between teeth systematically, low pressure increasing if comfortable, once a day at night for ~1 minute. Standard script provided as take-home aide memoire.
+Outcomes: Participants seen at baseline (T0), 8 weeks (T1), 32 weeks (T2), 56 weeks (T3). Same clinician performed all indices.
+Primary outcome: plaque level, measured by Orthodontic Modification of Plaque Index (OMPI) at follow-up and Plaque Index (PI, Silness-Loe) at baseline before appliances. Range 0 (no plaque) to 3.
+Secondary outcomes: gingival health (Gingival Index GI 0-3; Interdental Bleeding Index IBI 0-100%); incidence of oral hygiene-related trauma (soft-tissue exam); adherence (oral hygiene diaries); satisfaction (questionnaire at 8 and 56 weeks).
+Sample size: power calculation by statistician (JK) on primary outcome OMPI. alpha=0.05; clinically significant effect size 0.5; SD of OMPI ~0.3; power 0.9 (beta=0.10). PASS software. Minimum sample size per group = 7 (14 total). To account for dropouts and balance stratified blocks (8 blocks), planned to recruit 20/group, 40 total.
+Randomisation: stratified block randomisation, stratified by gender, age (<15 vs >=15 years), and baseline IBI (<=20% vs >20% IBI). 8 blocks, up to 6 participants each. After participant 33, changed to single coin toss due to COVID-19. Sealed opaque envelopes (3 intervention + 3 control per block). Allocation concealed from operator DT (envelopes opened by dental nurse; patient chose envelope).
+Blinding: single blind. Operator carrying out indices (DT) blinded to allocation. Participants could not be blinded; told not to tell DT whether they had a WaterPik.
+Statistics: IBM SPSS v27. Generalised linear mixed model to assess difference between intervention and control over time (allows non-normal data and missing data). Intraclass correlation coefficient (ICC) two-way mixed for intra-rater reliability of OMPI. Reliability testing not done on GI/IBI for ethical reasons. Trauma, adherence and satisfaction analysed by frequency comparison.
+Ethics: IRAS project ID 266235, approved by HRA & HCRW 23 August 2019. Registered with ClinicalTrials.gov.
+
+RESULTS
+Participant flow: A single patient in the intervention group withdrew after the 32-week indices (wanted to start using an electric toothbrush). Recruitment began 15 November 2019; first patient started 6 January 2020. Trial stopped early after interim analysis 2 November 2021. At stopping, 85% of data collected.
+40 participants recruited; all 40 had indices at 8 weeks (n=20 intervention, n=20 control); 32 had indices at 32 weeks (n=17 intervention, n=15 control); 19 had indices at 56 weeks (n=9 intervention, n=10 control). Fewer dropouts than expected. Power calculation met for both groups at 56 weeks. Due to COVID-19 and NHS pressure, unethical to continue.
+Baseline (Intervention vs Control):
+- Mean age at T0: 14.9 +/- 1.7 vs 14.8 +/- 1.6 years
+- Gender (% female): 50 vs 65
+- Plaque Index: 0.95 +/- 0.3 vs 0.94 +/- 0.3
+- Gingival Index: 0.77 +/- 0.3 vs 0.74 +/- 0.2
+- Interdental Bleeding Index (%): 27.1 +/- 24.8 vs 34.7 +/- 24.9
+Analysis on intention-to-treat basis.
+Differences (treatment vs control) from generalised linear mixed model:
+- OMPI: 0.199 (p=0.88, 95% CI -0.24 to 0.27)
+- GI: -0.008 (p=0.94, 95% CI -0.22 to 0.20)
+- IBI: 5.6% (p=0.563, 95% CI -13.22 to 24.42)
+No statistical difference between groups for any variable.
+ICC for OMPI = 0.911 (95% CI 0.700-0.977), good repeatability.
+No participant had trauma detected at any visit in either group.
+Adherence: <25% of oral hygiene diaries returned, so not appropriate to analyse (returning-participant data judged too biased to present).
+Satisfaction: questionnaire was unvalidated; data presented only for completeness, not analysed further (journal word limits).
+Harms: No harms reported or detected for any participant.
+
+DISCUSSION
+Interpretation: Based on the results, there is no benefit in terms of plaque control or gingival health in using a WaterPik for patients wearing fixed orthodontic appliances.
+Only one other published trial (Sharma) assessed orthodontic patients with a WaterPik with orthodontic tip; found a statistically significant difference in plaque score over 28 days. But Sharma used the Turesky modification of the Quigley-Hein plaque index (0-5), and included only participants with baseline score >=3.0 (sub-optimal hygiene). Mean baseline plaque in Sharma was 3.73/5 vs 0.92/3 in this trial. This RCT had selection bias toward patients with good baseline oral hygiene. Sharma recruited patients already wearing braces (vs before bond-up here) and followed up for a much shorter period (28 days). Differences in baseline hygiene and follow-up length, plus the novelty effect of the WaterPik wearing off, could explain the divergent results.
+Limitations: Higher proportion of female participants in control group (65% vs 50% intervention); female patients have lower plaque/greater oral health knowledge, could have masked WaterPik effect, but differences small. OMPI subjectivity (1 vs 2 vs 3 scoring); systematic error would apply to both groups. Whether OMPI is a valid surrogate for plaque control; Hawthorne effect (patients clean better knowing they have an appointment) applies to both groups. IBI intra-rater reliability not assessed via photographs but literature 91.3%-93.1%.
+Generalisability: Single NHS district general hospital, single clinician; NHS (non-fee-paying) patients have lower compliance than self-funded; secondary-care malocclusions more complex. Caution generalising to primary care or self-paying orthodontic patients.
+
+CONCLUSIONS
+In the population studied, there was no benefit in terms of oral hygiene in the use of a WaterPik in addition to a manual toothbrush.
