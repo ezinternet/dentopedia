@@ -1,0 +1,126 @@
+Surgical Reconstructive Peri-Implantitis Treatment for 3- and 4-Wall Bone Defects: A Single-Blind Randomised Controlled Trial With a 1-Year Follow-Up
+
+Authors: J. Hakkers, H.J.A.M. [co-author], B.G. [statistician], Y.C.M. de Waal, G.M.R. [surgeon]
+Journal: Journal of Clinical Periodontology
+Year: 2026
+DOI: 10.1111/jcpe.70123
+PMID: 41992493
+PMCID: PMC13167631
+
+ABSTRACT
+
+Aim: To evaluate the effect of a reconstructive procedure during surgical treatment of peri-implantitis in 3- or 4-wall bone defects on clinical and radiographic outcomes after 1 year follow-up.
+
+Materials and Methods: Fifty-two patients with peri-implantitis were randomly assigned to surgical treatment with (n=27) or without (n=25) a reconstructive procedure using autologous bone, xenograft and a collagen membrane. Primary outcomes were the mean peri-implant probing depth (PPD) and radiographic marginal bone level (MBL). Secondary outcomes included BoP, disease resolution, suppuration (SoP), mid-buccal recession (Midbuc REC) and keratinised mucosa (Midbuc KM). Data were analysed using multilevel mixed-effects models.
+
+Results: Mixed-effects models showed that patients in the test group showed enhanced marginal bone levels at all follow-ups (β = -0.85 to -1.65 mm; p ≤ 0.04) and less mid-buccal recession (β = -1.06 to -1.68 mm; p ≤ 0.01) compared to the control group. No significant differences were observed for PPD, BoP, SoP, Midbuc KM or disease resolution.
+
+Conclusion: While the adjunctive reconstructive procedure did not significantly influence peri-implant PPD, BoP, SoP or disease resolution, it was associated with improved radiographic marginal bone levels and reduced mid-buccal soft-tissue recession.
+
+FULL TEXT
+
+1. Introduction
+
+Peri-implantitis is defined as a plaque-associated pathological condition affecting the tissues surrounding dental implants, and characterised by an increase in peri-implant probing depth, bleeding and/or suppuration on probing (BoP/SoP) and subsequent progressive loss of the supporting bone. Over the years, numerous non-surgical and surgical treatment protocols have been proposed, but their capacity to consistently achieve durable and successful outcomes remains limited and often unsatisfactory.
+
+Depending on the configuration of the bone defect, surgical reconstructive peri-implantitis treatment may sometimes be indicated to potentially obtain re-osseointegration. Although such treatment protocols have been widely studied, the number of randomised controlled trials (RCTs) rigorously evaluating the benefits of bone reconstruction in peri-implantitis bone defects remains limited. Moreover, the decontamination protocols executed prior to defect reconstruction vary significantly, where no clear gold standard has been established so far.
+
+The available evidence supporting reconstructive surgical peri-implantitis treatment over non-reconstructive techniques is limited and inconclusive. There are a number of RCTs comparing reconstructive surgical peri-implantitis treatment with open-flap debridement. Some studies found that radiographic defect fill and clinical attachment levels improved at the reconstructed sites or resulted in enhanced disease resolution. On the contrary, others have reported less pronounced benefits of bone reconstruction when compared to access flap surgery alone, including limited effects on buccal recession.
+
+2. Materials and Methods
+
+2.1 Trial Design
+Two-arm, parallel-design, investigator-blinded RCT (1:1) comparing surgical reconstructive peri-implantitis treatment to open-flap debridement in 3- and 4-wall peri-implant bone defects.
+
+2.2 Participants
+Between January 2020 and August 2023, patients referred to the Department of Oral and Maxillofacial Surgery of the University Medical Center Groningen were screened. The last follow-up visit took place in January 2025.
+
+Peri-implantitis diagnosed according to 2017 World Workshop criteria: presence of bleeding and/or suppuration on gentle probing; increased probing depth compared to previous examinations; and the presence of bone loss beyond crestal bone level changes resulting from initial bone remodelling. In the absence of previous examination data, peri-implantitis was defined as the presence of bleeding and/or suppuration on gentle probing, probing depths of ≥ 6 mm and bone levels ≥ 3 mm apical of the most coronal portion of the intraosseous part of the implant.
+
+2.3 Eligibility Criteria
+Surgical intervention conducted in cases where non-surgical submarginal instrumentation (NSI) failed to restore peri-implant health.
+
+2.4 Interventions
+Prior to surgery, all patients received a single session of non-surgical treatment including oral hygiene instructions, periodontal cleaning and mechanical peri-implant debridement using an air-polishing device (Airflow Master Piezon, EMS) with erythritol-based powder containing 0.3% chlorhexidine.
+
+Surgical procedures performed under local anaesthesia by two experienced clinicians. Following an intra-sulcular incision, full-thickness flaps were elevated, and granulation tissue was removed using titanium curettes. Implant surfaces were cleaned using the air-polishing device until macroscopically clean. Decontamination was performed with 35% phosphoric acid gel for 1 min, followed by thorough rinsing.
+
+Defect configuration was assessed intraoperatively to confirm eligibility. Randomisation was performed intraoperatively by opening a sealed envelope.
+
+TEST GROUP (reconstruction): 1:1 mixture of autogenous bone (harvested with SafeScraper TWIST, Geistlich) and deproteinised bovine bone mineral (Bio-Oss, Geistlich), covered with a resorbable collagen membrane (Bio-Gide, Geistlich).
+
+CONTROL GROUP: Open-flap debridement (changed from originally registered resective procedure to ensure methodological consistency).
+
+Postoperatively: 0.12% chlorhexidine and 0.05% cetylpyridinium chloride mouthwash for 2 weeks + systemic amoxicillin (500 mg, three times daily) for 1 week.
+
+2.5 Outcomes
+Primary outcomes: mean peri-implant PPD (mm) and MBL (mm).
+Secondary outcomes: mean BoP (%), disease resolution composite outcome (PPD ≤ 5 mm; no BoP in ≥1 probing site; no SoP), mean SoP (%), mean plaque score (Plq) (%), mid-buccal recession (mm), mid-buccal KM width (mm), full-mouth periodontal parameters.
+
+2.6 Sample Size
+Minimum 51 patients required for 80% statistical power (effect size 0.5, α=0.05), multilevel framework. Final recruitment target: 61 patients (accounting for ~10% response to NSI and ~10% attrition).
+
+2.7 Randomisation
+Fixed block size of four. Sealed, coded envelopes. Investigator/assessor (J.H.) was blinded to group allocation.
+
+2.8 Statistical Methods
+Linear and logistic mixed-effects models with fixed effects for treatment allocation and time. Random intercepts for participants with implants nested within individuals. Missing data: last observation carried forward (LOCF), intention-to-treat (ITT).
+
+3. Results
+
+Total: 27 test group patients, 25 control group patients included and analysed (ITT). In both groups, one patient discontinued due to disease progression (implant removed).
+
+Patient characteristics:
+- Test: mean age 62.3 (SD 8.9), 15F/12M, 6 smokers, 9 history of periodontitis
+- Control: mean age 59.7 (SD 10.4), 14F/11M, 5 smokers, 12 history of periodontitis
+- Test: 34 implants, Control: 29 implants
+- Defect types - Test: 16 three-walled, 18 four-walled; Control: 19 three-walled, 10 four-walled
+
+Key Results (Mixed-effects models, marginal between-group differences):
+
+MBL (mm) — test group showed superior bone levels at all timepoints:
+- T3: β = -0.85 mm (95% CI -1.66 to -0.05; p=0.04)
+- T6: β = -1.12 mm (95% CI -1.93 to -0.31; p=0.01)
+- T9: β = -1.39 mm (95% CI -2.23 to -0.55; p<0.001)
+- T12: β = -1.65 mm (95% CI -2.54 to -0.77; p<0.001)
+
+Mid-buccal recession — test group showed less recession:
+- T3: β = -1.06 mm (95% CI -1.87 to -0.24; p=0.01)
+- T6: β = -1.26 mm (95% CI -2.08 to -0.45; p<0.001)
+- T9: β = -1.47 mm (95% CI -2.31 to -0.64; p<0.001)
+- T12: β = -1.68 mm (95% CI -2.57 to -0.80; p<0.001)
+
+No significant between-group differences:
+- PPD: β = -0.27 mm (p=0.32) at all timepoints
+- BoP: β = -7.49% (p=0.21) at all timepoints
+- Disease resolution: OR = -0.14 (p=0.96)
+- SoP: β = -4.16% (p=0.15)
+- Midbuc KM: β = -0.55 mm (p=0.27)
+
+Disease resolution at T12: Test 43.8% vs Control 44.4%
+
+Post hoc subgroup analyses (3-wall vs 4-wall):
+- 3-walled defects: test group showed significantly higher MBL at T3 (mean 2.2 vs 4.6 mm; p=0.03) and T6 (2.4 vs 4.3 mm; p=0.01)
+- Treatment success at 6 months favoured test in 3-walled defects: 58.3% vs 16.7% (p=0.045)
+- 4-walled defects: MBL significantly higher in test at T12 (2.5 vs 3.0 mm; p=0.04)
+
+Adverse events: Test group experienced more pain (p=0.03), mouth dryness (p=0.01), metal taste (p=0.03) and headache (p=0.04).
+
+4. Discussion
+
+Reconstructive therapy produced consistently superior radiographic bone levels and less mid-buccal recession through 12 months, whereas clinical inflammatory parameters (PPD, BoP, SoP), keratinised mucosa and overall treatment success did not differ between the groups.
+
+The apparent paradox between improved radiographic outcomes and unchanged disease resolution invites reflection: radiographic defect fill, particularly in the presence of a radiopaque xenograft, does not necessarily confirm true biological regeneration and may overestimate structural recovery.
+
+Limitations:
+1. Mixed dentate/edentulous population
+2. 1-year follow-up (minimum 3 years recommended for long-term assessment)
+3. Heterogeneity of reconstructive materials in literature limits comparability
+4. First re-evaluation at 3 months may not reflect mature tissue conditions
+5. Possible detection bias from radiopaque xenograft on radiographs
+6. No validated PRO instruments (e.g., OHIP-14) used
+7. Air-polisher decontamination protocol not fully aligned with current clinical recommendations
+
+Ethics: METc UMCG no. 2019/625, approved 20 February 2020. Registered: NL-OMON27505.
+Funding: Department of Oral and Maxillofacial Surgery, University Medical Center Groningen.
+Conflicts of interest: None declared.
