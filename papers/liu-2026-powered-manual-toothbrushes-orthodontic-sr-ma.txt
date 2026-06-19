@@ -1,0 +1,75 @@
+Powered vs. manual toothbrushes in fixed orthodontic patients: a systematic review and meta-analysis
+
+Authors: Yinli Liu (Y.L.), N. J., F.N.V.d.W., D.E.S. (ACTA — Academic Centre for Dentistry Amsterdam)
+Journal: European Journal of Orthodontics, 2026
+PMID: 42276584 | PMCID: PMC13256007 | DOI: 10.1093/ejo/cjag026
+PROSPERO: CRD42023480974
+
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13256007/)
+Retrieved via PubMed MCP get_full_text_article. According to PubMed; DOI: https://doi.org/10.1093/ejo/cjag026
+
+=====================================================================
+ABSTRACT
+=====================================================================
+Background — The benefits of powered toothbrushes (PTBs) over manual toothbrushes (MTBs) are well established. However, for orthodontic patients with fixed appliances (FAs), the evidence remains diverging. Direct comparisons between PTBs with different action modes and MTBs in terms of plaque and gingivitis control are limited. An updated synthesis including subgroup analysis by PTB action mode is warranted.
+
+Objectives — To determine the efficacy of PTBs vs. MTBs in orthodontic patients with FAs on reducing plaque scores (PS), gingivitis scores (GS) and gingival bleeding scores (BS).
+
+Search Methods — PubMed-MEDLINE and Cochrane-CENTRAL searched until November 2025; reference lists of eligible studies manually reviewed.
+
+Selection Criteria — CCTs or RCTs; orthodontic patients with buccal FAs; toothbrushing performed by participants in good general health; comparing PTBs and MTBs; reporting PS, GS, and BS.
+
+Data Collection and Analysis — Risk of bias by RoB 2 (RCTs) or ROBINS-I (CCTs); descriptive (vote-counting) analysis; meta-analyses with subgroup analyses by evaluation index and/or PTB action mode; heterogeneity, publication bias, sensitivity analysis, trial sequential analysis (TSA); GRADE.
+
+Results — 23 papers (39 comparisons), low-to-high risk of bias, considerable heterogeneity. Descriptive analysis: no overall difference in most comparisons for PS (64%), GS (76%), BS (75%). Incremental-difference meta-analyses: PTBs had medium effects over MTBs on PS (SMD = -0.77, 95% CI: -1.33 to -0.21, P = .007, I2 = 92%), large effects on GS (SMD = -0.82, 95% CI: -1.55 to -0.09, P = .03, I2 = 93%), medium effects on BS (SMD = -0.51, 95% CI: -0.88 to -0.13, P = .008, I2 = 80%). All sensitivity analyses confirmed PTB benefits for BS; RCT-restricted analyses supported improvements for PS and GS. Publication bias could not be excluded for any meta-analysis; evidence quality low across all parameters. Subgroup by action mode: counter-rotational PTBs (CR-PTBs) showed large effects on PS (very low-quality evidence).
+
+Conclusion — For fixed orthodontic patients, low-quality evidence limited by methodological weaknesses and inconsistency suggests PTBs may moderately improve PS vs. MTBs, with medium to large effects on gingival parameters. Only CR-PTBs provided large PS improvements (very low quality). Findings are sensitive to a limited number of studies and should be interpreted cautiously.
+
+=====================================================================
+KEY NUMBERS
+=====================================================================
+Search: 841 unique papers → 54 full-text → 23 included (39 comparisons). All 39 assessed PS; 21 GS; 24 BS.
+Participants: sample sizes 20–144; ages 10–53; 9 papers adolescent-focused. Only 9/23 met ADA ≥30/group.
+RoB: 19 RCTs (3 low, 4 some concerns, 12 high) + 4 CCTs (1 low, 2 moderate, 1 serious).
+
+Overall incremental-difference meta-analyses (random-effects, SMD):
+  PS: 13 studies (14 comparisons), SMD = -0.77 (95% CI -1.33; -0.21), P = .007, I2 = 92% — MEDIUM
+  GS: 10 (10), SMD = -0.82 (-1.55; -0.09), P = .03, I2 = 93% — LARGE
+  BS: 9 (10), SMD = -0.51 (-0.88; -0.13), P = .008, I2 = 80% — MEDIUM
+(negative SMD favors PTB)
+
+Subgroup by PTB action mode (Table 5, PS):
+  ORP/OR (oscillating-rotating[-pulsating]): 6, SMD -0.46 (-1.20; 0.28), P=.23, NS
+  ORP: 3, SMD -1.13 (-2.74; 0.49), P=.17, NS
+  OR: 3, SMD 0.15 (-0.21; 0.51), P=.42, NS
+  CR (counter-rotational): 2, SMD -1.45 (-2.85; -0.05), P=.04, LARGE — only significant action-mode subgroup
+  Sonic: 4, SMD -1.20 (-2.67; 0.28), P=.11, NS
+GS and BS action-mode subgroups: all NS (no action mode beat MTB for gingival parameters).
+
+Same-index MD analyses (Table 4) — most NS:
+  PS OMPI (0–3): 4, MD -0.03 (-0.11; 0.04) NS
+  GS GI (0–3): 9, MD -0.22 (-0.43; -0.02) P=.04 (significant but small absolute)
+  BS MPBI (0–3): 2, MD -0.54 (-0.71; -0.36) P<.00001 (significant)
+  BS BOP: 3, MD -0.18 (-0.46; 0.11) NS
+
+Sensitivity (Table 7): All BS sensitivity analyses stayed significant for PTB (small-to-medium). RCT-only: PS SMD -0.73 (P=.03), GS -1.02 (P=.02), BS -0.44 (P=.02) all significant. BUT low-risk-of-bias-only and no-industry-only analyses → PS and GS became NS (driven by a few studies). 5 studies drove PS, 3 GS, 4 BS results; 2 had industry support, 5 moderate-high RoB.
+
+TSA: required information size (RIS) NOT reached in almost all analyses; Z-curve did not cross O'Brien-Fleming boundaries → meta-analyses inconclusive.
+
+GRADE (Table 8): overall quality LOW for PS, GS, BS (downgraded for RoB, inconsistency, possible publication bias). No recommendation made. Effect-size magnitude: PS medium, GS large, BS medium.
+GRADE by action mode (Table 9, PS): ORP/OR low, ORP very low, OR moderate, CR very low (large effect), sonic low.
+
+=====================================================================
+KEY DISCUSSION POINTS
+=====================================================================
+- 4 prior SRs conflicted (2 favored PTB, 1 no difference, 1 insufficient evidence); last update 2021. This SR is the updated synthesis (search to Nov 2025) with first action-mode subgroup analysis.
+- ORP-PTBs (oscillating-rotating-pulsating) beat MTBs in NON-orthodontic patients but showed NO clear advantage in FA patients — FA patients accumulate more, harder-to-reach plaque that may sustain gingivitis regardless of brush.
+- CR-PTBs reduced PS (incremental) but NOT GS/BS — incremental plaque change ≠ residual plaque that drives gingivitis; only 2 comparisons, very low quality. Notably CR-PTBs are no longer widely available (market dominated by OR and sonic) → evidence-product gap.
+- Excluded: replaceable-battery PTBs, multi-head PTBs, studies adding interdental devices (floss/water-jet), split-mouth designs, non-English.
+- Heterogeneity driven partly by 9 different PS indices, 4 GS, 7 BS — call for "common indices" (OMPI for PS, GI for GS, BOP for BS). Subjectivity of visual indices; digital/3D/AI plaque imaging proposed as more objective.
+- Limitations: small samples (only 9/23 ≥30/group), RoB low-to-high, incomplete data, RIS not reached. Future trials needed especially for OR and sonic (widely used) modes.
+
+=====================================================================
+CONCLUSION (verbatim)
+=====================================================================
+For orthodontic patients with FAs, low-quality evidence limited by methodological weaknesses and inconsistency suggests that, compared with MTBs, PTBs may moderately improve PS, with medium to large effects on gingival parameters. Subanalysis by action-mode showed that only CR-PTBs provided large improvements in PS over MTBs, supported by very low-quality evidence. These findings are sensitive to a limited number of studies and should therefore be interpreted cautiously, as true effects remain uncertain and may change with more robust randomized evidence.
