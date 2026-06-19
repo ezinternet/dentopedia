@@ -1,0 +1,84 @@
+Title: The effect of different osseodensification techniques on implant stability in the maxillary anterior esthetic zone. A split-mouth randomized clinical trial
+
+Authors: Ali M, et al.
+Year: 2026
+PMID: 42249424
+PMCID: PMC13270663
+DOI: 10.1186/s12903-026-08802-9
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC13270663/
+
+=== ABSTRACT ===
+
+Objectives: To clinically and radiographically compare two osseodensification techniques in terms of implant stability and osseointegration in a split-mouth design.
+
+Materials and methods: 7 patients with an edentulous maxillary anterior area who need implant placement were divided into 2 groups. Group A included 7 implants and was prepared using the Densah Bur technique (DB-Group), while Group B included 7 implants and was prepared using the Magnetic Mallet technique (MM-Group). Surgery was performed, followed by clinical and radiographic follow-up to evaluate implant stability in both groups. A linear mixed model (LMM) statistical analysis was utilized to handle the clustering effect of the data.
+
+Result: The mixed model revealed a stable data analysis owing to the significant intercept for all of the dependent variables (< 0.001). Densah Burs technique demonstrated lower postoperative pain, faster wound healing, higher implant stability, and greater preservation of labial bone thickness, while both methods showed similar long-term bone density and crestal width outcomes.
+
+Conclusion: Within the confines of this study, the rotary-based Densah Bur osseodensification technique was associated with higher implant stability and labial plate thickness, alongside comparable bone density. These findings suggest potentially more predictable osteotomy compaction and autografting in the maxillary anterior esthetic zone implant osteotomy preparation.
+
+Trial registration: Trial was retrospectively registered at pactr.samrc.ac.za [PACTR202412717492416-(2024-12-31)]
+
+=== FULL TEXT ===
+
+Introduction
+
+The basic principle in dental implant placement is the capability of the implant bed preparation to preserve the biological integrity of the alveolar bone at the structural and cellular level in order to attain a direct living bone-to-functional metal interface. Ultimately, this biological stability provides the essential scaffold for a predictable esthetic outcome. Osseodensification (OD) is a contemporary concept for implant bed osteotomy preparation, which has been at the forefront of the revolution in surgical site preparation in implantology.
+
+The prevalent OD technique involves a special drill in a non-cutting and low-plastic deformation process, allowing autografting of the osteotomy walls and implant bed preparation in a non-excavating manner. Another OD modality involves the utilization of magneto-dynamic technology in implant-bed preparation. This magneto-dynamic technology is based on the electromagnetism physical principle, where controlled forces are applied to the body with a steady time of impact. This technology is utilized in a magnetic mallet (MM) device, which produces a shock wave in a time-controlled manner, exerting a controlled force while minimizing the time of impact. The magneto-dynamic technology has several applications in the dental field, with different shock-wave utilization, stating force modes of 75, 90, 130, and 260 daN and 80µs time of impact.
+
+The study aims to evaluate and compare the changes in implant stability using two different OD approaches: the rotary Densah bur and the Magnetic Mallet techniques. The specific aim of this trial was to design and implement a blinded split-mouth study in the maxillary anterior esthetic zone. It was hypothesized that Densah bur and the Magnetic Mallet result in comparable outcomes regarding implant stability in the maxillary anterior esthetic zone. The secondary aim of the study was to evaluate the osseointegration radiographically between two techniques.
+
+Materials and Methods
+
+Study design: Split-mouth randomized clinical trial, CONSORT-compliant, IRB approved (0902-4/2024/IORG:0008839). Sample size: 7 patients, 14 implant sites total (7 DB / 7 MM). Mean age 37.71 ± 6.65 years, 6:1 male-to-female ratio. Sites: maxillary anterior esthetic zone. Implant: IS-III-CMI (Neobiotech, Seoul, Korea), placed 1 mm sub-crestally.
+
+Patients: Partially edentulous maxillary anterior area, PDI Class I, minimum bone 10 mm length / 5 mm width. Exclusions: systemic morbidities, bone diseases, parafunctional habits.
+
+Randomization: Permuted block size 2, SNOSE concealment, 1:1 allocation. Blinded operator (Y.E.) for ISQ readings; blinded radiographic assessor (A.S.).
+
+DB-Group procedure: Densah-Pilot Drill-G3 (1.6 mm) in clockwise cutting at 800 RPM/30 N·cm, then Densah Burs VT1525 (2 mm) and progressively larger in reverse counter-clockwise densifying mode at 800 RPM.
+
+MM-Group procedure: First pilot osteotome (1.8 mm) on Mode 1 (~75 daN, 80 µs pulse), then 100P-Osteotome (apical 1.0 mm, coronal 3.1 mm) at Mode 2 (~90 daN, 80 µs pulse). Manufacturer recommendation for D2-D3 bone densities.
+
+Primary stability: ISQ via Osstell (3rd gen SmartPeg) at time of placement.
+Secondary stability: ISQ at 6 months post-placement.
+Wound healing: Early Wound Healing (EWH) score (0–10) at 7, 14, 21 days.
+Pain: VAS (10-point) at 7, 14, 21 days.
+Radiographic: CBCT (Carestream CS9600) immediately postoperative and at 6 months. Peri-implant bone density (Hounsfield units via GSV conversion: Y = 0.682x – 161), labio-palatal crestal width, labial plate thickness — all via On-Demand 3D software.
+
+Statistics: Linear Mixed-Effects Model (LMM), REML estimation, 2-level hierarchical (Level 1 = implant site, Level 2 = patient), Bonferroni correction, Kenward-Roger df approximation. AIC/BIC model selection confirmed random intercept structure.
+
+Results
+
+ISQ (Primary stability): DB 70.14 ± 14.99 vs MM 49.00 ± 7.13 (p < 0.001)
+ISQ (Secondary stability): DB 74.71 ± 8.10 vs MM 59.83 ± 4.07 (p = 0.003)
+LMM: Significant group effect (p < 0.001), significant time effect (p = 0.019), non-significant group × time interaction (p = 0.308).
+DB exceeded 70 ISQ threshold at both time points; MM showed significant improvement over time (p = 0.024).
+
+Bone density (Hu):
+Immediate: DB 901.86 ± 131.65 vs MM 835.67 ± 102.14 (p = 0.216, NS)
+6 months: DB 749.00 ± 134.76 vs MM 700.17 ± 106.19 (p = 0.342, NS)
+Both groups showed significant reduction over time (p = 0.012 / p = 0.033) — consistent with remodeling from woven to lamellar bone.
+LMM: Non-significant group effect (p = 0.131), significant time effect (p = 0.002), non-significant G×T (p = 0.829).
+
+Crestal width (mm):
+Immediate: DB 5.42 ± 0.38 vs MM 5.95 ± 0.57 (p = 0.034*)
+6 months: DB 5.30 ± 0.31 vs MM 5.42 ± 0.40 (p = 0.625, NS)
+MM group showed significant reduction in crestal width at 6 months (p = 0.040).
+LMM: All effects non-significant.
+
+Labial plate thickness (mm):
+Immediate: DB 1.85 ± 0.36 vs MM 1.17 ± 0.23 (p = 0.002*)
+6 months: DB 1.68 ± 0.54 vs MM 0.98 ± 0.32 (p = 0.002*)
+LMM: Significant group effect (p < 0.001), non-significant time and G×T.
+
+Wound healing (EWH):
+Day 14: DB 9.14 ± 1.46 vs MM 6.83 ± 2.23 (p = 0.009*) — faster in DB.
+LMM: Borderline group effect (p = 0.051), significant time (p < 0.001), non-significant G×T.
+
+Complications (MM group): 1 labial plate fracture → implant placement failure; 1 palatal crack during preparation. No complications in DB group. Both occurred in early cases (learning curve).
+
+Conclusion
+
+The rotary-based Densah Bur OD technique was superior to the pulse-based Magnetic Mallet in the maxillary anterior esthetic zone: higher ISQ (primary + secondary), greater labial plate thickness preservation, lower pain, faster wound healing, and no complications. Both techniques yielded comparable peri-implant bone density and crestal width at 6 months. The Magnetic Mallet showed significant ISQ improvement over time, but the labial plate fracture risk underscores careful technique selection in thin-plate esthetic sites.
