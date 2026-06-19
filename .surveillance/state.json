@@ -126,6 +126,16 @@
             "query": "(Insadol[tiab] OR (\"Magnoliae cortex\"[tiab] AND \"Zea mays\"[tiab]) OR (carbazochrome[tiab] AND (dental[tiab] OR periodontal[tiab] OR gingival[tiab])))",
             "ptyp": [],
             "last_run_edat": "2026/06/19"
+        },
+        "pdrn": {
+            "query": "(PDRN[tiab] OR polydeoxyribonucleotide[tiab] OR \"poly deoxyribonucleotide\"[tiab] OR \"polynucleotide\"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR implant[tiab] OR periodontal[tiab] OR endodontic[tiab] OR oral[tiab] OR osseointegration[tiab] OR \"bone regeneration\"[tiab] OR osteoblast[tiab] OR osteoclast[tiab] OR TMJ[tiab] OR \"temporomandibular\"[tiab])",
+            "ptyp": ["RCT", "SR", "MA"],
+            "last_run_edat": "2026/06/19"
+        },
+        "botulinum-toxin": {
+            "query": "(\"botulinum toxin\"[tiab] OR \"botulinum toxin type A\"[tiab] OR BoNT-A[tiab] OR BTX-A[tiab] OR onabotulinumtoxinA[tiab] OR incobotulinumtoxinA[tiab] OR abobotulinumtoxinA[tiab] OR Botox[tiab] OR Xeomin[tiab] OR Dysport[tiab]) AND (dental[tiab] OR dentistry[tiab] OR bruxism[tiab] OR masseter[tiab] OR temporalis[tiab] OR TMD[tiab] OR \"temporomandibular\"[tiab] OR \"gummy smile\"[tiab] OR orofacial[tiab] OR \"myofascial pain\"[tiab])",
+            "ptyp": ["RCT", "SR", "MA"],
+            "last_run_edat": "2026/06/19"
         }
     },
     "seen_pmids": [
@@ -274,6 +284,14 @@
         "41254246",
         "6934913",
         "5292225",
-        "1853744"
+        "1853744",
+        "41892959",
+        "42188622",
+        "41971507",
+        "41781316",
+        "42148608",
+        "42274300",
+        "41326742",
+        "41350165"
     ]
 }
