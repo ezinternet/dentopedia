@@ -1,0 +1,11 @@
+ABSTRACT-ONLY — full text not retrieved (no PMC OA)
+
+Citation: Yiamwattana S, Kaomongkolgit R, Jaikumpun, Sang-Ngoen, Teerawong, Tosasukul, Sadaeng.
+Oral Irrigator Versus Dental Floss in Orthodontic Patients: A Systematic Review and Meta-Analysis.
+Int J Dent Hyg. 2026;24. (e-pub 2025-12-02)
+PMID: 41331619
+DOI: 10.1111/idh.70024
+PROSPERO: CRD42023395736
+
+ABSTRACT (verbatim):
+An oral irrigator (OI) has been introduced for patients with fixed orthodontic appliances to maintain good oral hygiene. However, studies comparing OI to dental floss (DF) have yielded conflicting results. To identify available evidence and summarize the effectiveness of OI versus DF in patients with fixed orthodontic appliances. This systematic review, registered in PROSPERO (CRD42023395736), conducted a comprehensive search across multiple databases up until May 7, 2024. Studies evaluating plaque index (PI) and bleeding index (BI) reduction in fixed orthodontic patients were included. The standardised mean difference (SMD) of PI and BI at baseline and study end was analysed using a random effect model with DerSimonian-Laird estimation and 95% confidence intervals. Out of 975 records, four articles examining the effectiveness of OI compared to DF in reducing PI and improving BI were eligible for this study. Three out of these studies were subjected to further meta-analyses. The combination of OI with toothbrushing did not significantly affect PI reduction at the end of the study, compared to DF (SMD: -0.88; 95% CI: -2.25, 0.50; p=0.10). Significant heterogeneity was observed in the overall effect of PI (I=98%, p<0.21). No significant difference was noted in BI reduction (SMD: -0.90; 95% CI: -2.78, 0.98; p=0.35). Our findings suggest that incorporating an OI into regular toothbrushing does not outperform DF in reducing PI and BI in orthodontic patients. However, the use of OI could lower initial PI and BI from baseline, enhancing oral hygiene.
