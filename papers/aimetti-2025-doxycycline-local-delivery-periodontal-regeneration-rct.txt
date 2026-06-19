@@ -1,0 +1,94 @@
+Title: A BiO-Optimizing Site Targeted (BOOST) Approach to Periodontal Regeneration Through Local Doxycycline Prior to Surgery: A Randomized Clinical Trial
+
+Authors: Mario Aimetti, Giovanni Baima, Vanessa Lucchese, Nicola Alessi, Marta Bordini, Giovanni Maria Mariani, Francesco Romano
+
+Journal: Journal of Periodontal Research
+Year: 2025
+DOI: 10.1111/jre.13389
+PMID: 39868481
+PMCID: PMC12961363
+
+ABSTRACT
+
+Aim: To test a BiO-Optimizing Site Targeted (BOOST) approach to periodontal regeneration by the adjunctive use of locally delivered doxycycline (DOX) 2 weeks prior to minimally invasive surgery in terms of clinical and radiographic outcomes at 1 year.
+
+Methods: For this randomized clinical trial, stage III/IV periodontitis patients presenting sites with intrabony defects and bleeding on probing (BoP+) after steps 1-2 of periodontal treatment were included. Sites were treated via subgingival instrumentation with or without a BOOST approach by local DOX. After 2 weeks, defects were accessed by minimally invasive surgical technique with xenograft and amelogenins. Primary (clinical attachment level [CAL] gain) and secondary (probing pocket depth [PPD] reduction, composite outcomes, radiographic bone defect fill) outcomes were assessed at 12 months.
+
+Results: Sixty patients completed the study (30 on each group). BOOST led to lower preoperative BoP (p < 0.001) and better wound healing after surgery (p = 0.027). Both groups showed clinical and radiographic improvements at 1 year, with significant differences in mean CAL gain (4.1 ± 1.9 vs. 3.2 ± 2.0 mm; p = 0.019) and PPD reduction (4.4 ± 1.8 vs. 3.6 ± 1.9 mm; p = 0.040) favoring the test group. BOOST group also achieved higher composite outcome measure (PPD ≤ 4 mm and CAL gain ≥ 3; 83.3% vs. 46.7%; p = 0.006), pocket closure (PPD ≤ 3 mm or 4 mm BoP-; 83.3% vs. 60.0%; p = 0.045), and defect fill (3.5 ± 1.2 vs. 2.7 ± 1.3 mm; p < 0.001) compared to the control group.
+
+Conclusion: A BOOST approach by local doxycycline 2 weeks before surgery enhanced the local inflammatory control prior to periodontal regeneration and post-operative early wound healing, yielding to improved clinical and radiographic outcomes at 1 year.
+
+Trial Registration: ClinicalTrials.gov identifier listed.
+
+FULL TEXT
+
+1. Introduction
+
+Clinical practice guideline from the European Federation of Periodontology (EFP) recommends periodontal regeneration surgery to treat teeth with residual pockets with probing pocket depth (PPD) >= 6 mm associated with intrabony defects of 3 mm or deeper. Site-related factors, including defect morphology and soft tissue quality, as well as surgical technique and surgeon's skills, can influence the success of periodontal regeneration surgery. The presence of sites with persistent bleeding on probing (BoP+) after step 2 of therapy has been linked to higher complication rate and suboptimal clinical outcomes following the regenerative treatment.
+
+Efforts to enhance site-specific infection and inflammation control during periodontal therapy may be supported by the subgingival application of local antimicrobials. Utilizing a local delivery system offers advantages over systemic prescription, allowing for a low-dose delivery to the periodontal pocket with targeted action, minimized side effects, and reduced risk of bacterial tolerance. While a recent systematic review demonstrated the short-term benefits of local antimicrobials in conjunction with subgingival instrumentation (step 2 of therapy), their long-term effect has been questioned leading to an open recommendation for clinical practice.
+
+Doxycycline hyclate carried with a biodegradable polylactic-polyglycolic acid gel (DOX) has been proposed as adjuvant therapy in treating residual pockets due to its antimicrobial properties and impact on matrix metalloproteinases (MMPs). Its ability to bind zinc and calcium ions within the catalytic domain results in the inhibition of collagenase enzymes and a reduction in inflammatory cytokines in the gingival crevicular fluid. This may contribute to decreased connective tissue and bone resorption, ultimately improving healing outcomes in periodontal therapy.
+
+The underlying rationale of this study is that a BiO-Optimizing On-Site Targeted (BOOST) approach involving the subgingival application of DOX to selectively modulate the immune-inflammatory conditions in the microenvironment prior to periodontal regeneration would lead to better interproximal soft tissue wound healing and final results. Therefore, the primary aim of this trial was to test the BOOST approach by local DOX administered 2 weeks prior to surgery on the clinical and radiographic outcomes of periodontal regeneration. The secondary aim was to assess the Early Wound Healing Index (EHI) at 2 weeks after surgery and relate it to the final study outcomes.
+
+2. Methods
+
+2.1 Study Design and Population
+
+This investigation employed a triple-blind, randomized clinical trial design with two parallel groups and an allocation ratio of 1:1. Consecutive patients who underwent steps I-II of periodontal treatment at the Section of Periodontology, C.I.R. Dental School, University of Turin, were screened for eligibility between September 2022 and June 2023. Inclusion criteria: (1) diagnosis of stage III or IV periodontitis; (2) FMPS and FMBS < 15% at enrollment; (3) presence of one tooth with residual PPD >= 6 mm, BoP+, and a radiographic intrabony component >= 3 mm, suitable for MIST procedure.
+
+Exclusion criteria: (1) age < 18; (2) smoking subjects; (3) systemic or local contraindications for periodontal surgery; (4) systemic diseases affecting periodontal healing; (5) pregnancy and lactation; (6) furcation involvement; (7) history of periodontal surgery at experimental teeth; (8) allergies to DOX and tetracyclines; (9) assumption of local and systemic antimicrobials in the last 3 months.
+
+2.2 Sample Size and Randomization
+
+Difference in CAL gain between test and control groups was set as primary outcome. Based on the expected mean CAL gain and SD of periodontal regeneration with a combined approach (4.1 ± 0.8 mm) and the adjunctive effect of DOX (0.5 mm), a sample size of 51 patients was needed at 0.05 two-sided alpha error and 80% power. Considering a drop-out rate of 20%, 60 patients (30 per group) were enrolled. Triple-blind design: patient, surgeon, and examiner were all blinded.
+
+2.3 Intervention
+
+Pre-surgical procedures: Two weeks before surgery, experimental sites received subgingival debridement alone (control) or combined with a BOOST approach by a single local administration of DOX (test; Ligosan, Kulzer, Germany). In the test group, DOX was administered by inserting a plastic needle into the sulcus and progressively releasing the product into the periodontal pocket up to the gingival margin.
+
+Surgical procedure: MIST under magnification loops, full-thickness flap minimally raised, granulation tissue removed, root thoroughly scaled, EDTA chemical treatment (PrefGel, Straumann), all regenerative procedures using EMD (Emdogain, Straumann) + bone xenograft (Bio-Oss, Geistlich). Flaps sutured with Gore-tex 6/0.
+
+2.4 Outcome Measures
+
+Primary: CAL gain at 1 year. Secondary: PI, BoP, PPD reduction, REC changes, proportion of cases with pocket closure (PPD <= 3 mm or 4 mm with no BoP), proportion successfully treated (COM: final PPD <= 4 mm and CAL gain >= 3 mm), radiographic bone change, radiographic defect angle change.
+
+3. Results
+
+3.1 Patient Characteristics
+
+60 patients enrolled, 30 per group, 100% completion rate. Mean age 58.3 ± 10.6 years (BOOST) vs. 58.0 ± 11.1 years (control). Groups were balanced at baseline.
+
+3.2 Clinical Outcomes
+
+BoP at surgery: BOOST 30.0% vs. control 66.7% (p < 0.001 inter-group).
+EHI at 2 weeks: BOOST 1.5 ± 0.9 vs. control 2.2 ± 1.4 (p = 0.041).
+
+At 12 months:
+- CAL gain: BOOST 4.1 ± 1.9 mm vs. control 3.2 ± 2.0 mm (p = 0.019)
+- PPD reduction: BOOST 4.4 ± 1.8 mm vs. control 3.6 ± 1.9 mm (p = 0.040)
+- REC increase: BOOST 0.2 ± 0.9 mm vs. control 0.4 ± 0.7 mm (NS)
+- Pocket closure: BOOST 83.3% vs. control 60.0% (p = 0.045; NNT = 4.29)
+- COM success: BOOST 83.3% vs. control 46.7% (p = 0.006; NNT = 2.73)
+
+Multivariate linear regression: CAL gain significantly associated with treatment (BOOST, p < 0.001), defect morphology (p = 0.003), EHI (p = 0.008), and PPD at baseline (p < 0.001).
+
+3.3 Radiographic Outcomes
+
+Radiographic IBD reduction:
+- BOOST: 3.5 ± 1.2 mm (p < 0.001 inter-group, p = 0.027 at 12 months vs. baseline)
+- Control: 2.7 ± 1.3 mm
+
+Defect angle change:
+- BOOST: 9.7° ± 5.1°
+- Control: 3.6° ± 4.5°
+- Inter-group p < 0.001
+
+4. Discussion
+
+The BOOST approach using local DOX administered 2 weeks prior to MIST led to significant improvements in all relevant clinical and radiographic parameters at 1 year. DOX exhibits both antimicrobial and host-modulatory properties (inhibition of collagenase activity through zinc ion binding), stimulates cell maturation and osteoblast differentiation. Administered via biodegradable polylactic-polyglycolic acid gel for sustained release. Strict inclusion criteria: stage III/IV periodontitis, non-smokers, FMPS/FMBS < 15%, residual PPD >= 6 mm with BoP+, intrabony component >= 3 mm.
+
+5. Conclusion
+
+BOOST approach by local doxycycline 2 weeks before surgery resulted in: (1) decreased clinical inflammation at 2 weeks; (2) better wound healing after surgery; (3) significantly improved clinical and radiographic outcomes at 1 year after MIST with EMD + xenograft.
