@@ -90,3 +90,31 @@
       "Multinational cross-sectional study and meta-analysis on radicular grooves, C-shaped canals, and taurodontism in mandibular first premolars across 20 countries" — Sci Rep
 - [ ] PMID 41042605 | SR+MA | OA:none | c-shaped-canal | edat 2025/10
       "Prevalence of C-shape Canal in Second Mandibular Premolars: A Systematic Review and Meta-analysis" — Indian J Dent Res
+- [x] PMID 42060239 | SR+MA | OA:PMC PMC13133309 (CC BY 4.0) | clear-aligner | edat 2026/04
+      "Effectiveness of clear aligners for maxillary expansion in growing patients: a systematic review and meta-analysis" — Prog Orthod
+- [ ] PMID 41923072 | SR+MA | OA:PMC PMC13169927 (CC BY 4.0) | clear-aligner | edat 2026/04
+      "Comparative efficacy of clear aligner mandibular advancement versus traditional functional appliances for skeletal Class II malocclusion: a systematic review and meta-analysis" — BMC Oral Health
+- [ ] PMID 41950291 | SR+MA | OA:PMC PMC13061203 (CC BY 4.0) | clear-aligner | edat 2026/04
+      "The impact of physical adjunctive interventions on outcomes of clear aligner treatment: A systematic review of randomized controlled trials" — PLoS One
+- [ ] PMID 42098698 | SR | OA:PMC PMC13173856 (CC BY 4.0) | clear-aligner | edat 2026/05
+      "Temporomandibular joint changes after orthodontic treatment with clear aligners: A scoping review" — BMC Oral Health
+- [ ] PMID 42163541 | SR | OA:none | clear-aligner | edat 2026/04
+      "Impact of clear aligners and conventional fixed orthodontic appliances on oral hygiene and periodontal health: A systematic review with GRADE" — Eur J Orthod
+- [ ] PMID 41172597 | SR | OA:none | clear-aligner | edat 2025/10
+      "Comparative effectiveness of clear aligners and fixed appliances in orthodontic movement of the anterior teeth in adults: A systematic review" — Int Orthod
+- [ ] PMID 41548998 | RCT | OA:none | clear-aligner | edat 2026/01
+      "Antimicrobial effects of four probiotic compositions and delivery forms on clear aligner biofilm: A randomized single-blind crossover trial" — J World Fed Orthod
+- [x] PMID 42152031 | RCT | OA:PMC PMC13198745 (CC BY 4.0) | pediatric-dentistry | edat 2026/05
+      "One-year clinical evaluation of a giomer-based injectable composite compared with a highly viscous glass-ionomer cement in restoring class II cavities of primary molars: a randomized clinical trial" — BMC Oral Health
+- [ ] PMID 41966250 | RCT | OA:none | pediatric-dentistry | edat 2026/04
+      "Treatment outcomes of preformed metal crowns placed with the conventional versus hall techniques: One-year randomized controlled trial results" — J Dent
+- [ ] PMID 42301611 | SR | OA:none | pediatric-dentistry | edat 2026/06
+      "Restorative interventions and management of primary and permanent molars affected by molar incisor hypo-mineralization: a systematic review" — Eur Arch Paediatr Dent
+- [ ] PMID 41997414 | SR | OA:none | pediatric-dentistry | edat 2026/04
+      "Comparative effectiveness of silver diamine fluoride for cavitated dentinal lesions in primary molars: A systematic review of randomised controlled trials" — J Dent
+- [ ] PMID 42155884 | RCT | OA:none | pediatric-dentistry | edat 2026/05
+      "Clinical performance of paediatric zirconia crowns cemented with two luting agents: A 36-month split-mouth randomised controlled trial" — J Dent
+- [ ] PMID 41952278 | SR | OA:none | pediatric-dentistry | edat 2026/04
+      "Role of Artificial Intelligence in Pediatric Dentistry: An Umbrella Review" — Int J Paediatr Dent
+- [ ] PMID 40434067 | SR | OA:none | pediatric-dentistry | edat 2025/05
+      "Application of machine learning for data analysis in paediatric dentistry: a systematic review" — Eur J Paediatr Dent
