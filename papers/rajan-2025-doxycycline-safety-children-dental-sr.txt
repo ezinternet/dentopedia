@@ -1,0 +1,87 @@
+Dental safety of short-term doxycycline use in children under 8 years: a systematic review and meta-analysis
+
+PMID: 41069592 | PMCID: PMC12504218 | DOI: 10.3389/fphar.2025.1646638
+
+Source: PubMed Central (PMC), retrieved 2026-06-19
+
+---
+
+Introduction
+
+Doxycycline is a commonly used antibiotic that belongs to the class of tetracyclines. It was developed in 1967 and has been widely used since then. Doxycycline is effective against both the Gram-negative and Gram-positive bacteria and is used to treat infections of the respiratory tract, skin and for sexually transmitted diseases such as syphilis, and pelvic inflammatory disease. Doxycycline is effective against undifferentiated febrile illnesses like brucellosis, leptospirosis, scrub typhus and other rickettsial illnesses. It can be used for the treatment of Lyme disease, tularemia, plague and cholera and for chemoprophylaxis against malaria. Remarkably, it is effective against methicillin-resistant (MRSA) as well.
+
+The dose and duration of doxycycline treatment depend on the specific conditions being treated, as well as the patient's age, weight, and overall health. Reported side effects of doxycycline include gastrointestinal complaints, photosensitivity, and, in rare cases, allergic reactions. Doxycycline is generally not recommended for children under 8 years, when used for prolonged treatment or repeated courses, due to potential adverse effects on bones and teeth. However, the American Academy of Pediatrics recently updated its guidelines, stating that while tetracyclines are contraindicated for common infections in children younger than 8 years, doxycycline is recommended as the drug of choice for treating presumed or confirmed Rocky Mountain spotted fever (RMSF) in children of any age (Red Book: AAP, 2021). Despite this, the use of doxycycline in young children presents a clinical dilemma due to the limited number of studies on adverse events and the lack of strong evidence-based supporting data for recent clinical recommendations. This review aims to critically assess the risk of dental adverse events following doxycycline and its average course in children under 8 years of age.
+
+Methods
+
+This review was initiated following registration with the International Prospective Register of Systematic Reviews (PROSPERO). The review was performed in accordance with the reporting requirements outlined in the "Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines."
+
+Eligibility criteria
+
+The inclusion criteria, based on the PICOT(S) format, targeted studies involving children under 8 years of any ethnicity or sex, treated with any dose of doxycycline alone or with other drugs. Comparators included placebo or other antibiotics. Outcomes had to report on safety or adverse events, particularly dental effects. Any treatment duration was accepted, but at least 1 year of follow-up was required. Eligible study designs included RCTs, cohort, case-control, or clinical trials in hospital or community settings.
+
+Search strategy
+
+A systematic literature review was conducted using a combination of Medical Subject Headings (MeSH) terms in PubMed, Cochrane Library, and Google Scholar for retrieving studies from inception till November 2023. The above-mentioned databases were searched using 'doxycycline' alone or in combination with 'Paediatric' OR 'children' OR 'safety' OR 'adverse event'. The PROSPERO registration number is "CRD42023494713."
+
+Selection of studies
+
+The search results were uploaded into Covidence, for selection of studies. A two-stage screening process was carried out. The titles and abstract screening were conducted by two reviewers (ASR and MP) independently. The full texts of the articles were obtained for the relevant records and independently reviewed by two reviewers (ASR and MP). Any discrepancies were resolved through discussion, involving a senior reviewer (GM) if necessary.
+
+Data extraction and management
+
+The two reviewers (ASR and MP) independently extracted the pre-defined study characteristics, baseline data, and the safety outcomes from the included studies using a data extraction form.
+
+Data analysis
+
+Data were analyzed using Jamovi (version 2.4.14 for Windows). Proportions were pooled with 95% confidence intervals (CI), using a meta-analysis model that applied the Freeman-Tukey double arcsine transformation to stabilize variance. The random-effects model was used in cases of significant heterogeneity; otherwise, the fixed-effect model was employed.
+
+Quality assessment
+
+Two independent reviewers (ASR and MP) evaluated the potential bias for all the included studies utilizing the criteria from the Revised Cochrane risk-of-bias tool (RoB2) for randomized trials and JBI Critical Appraisal tools and checklist were used to assess the risk of bias for case-control and cohort studies.
+
+Results
+
+Of the 325 deduplicated data, only five studies met the inclusion criteria. The included studies were published between 1969 and 2017. All five studies were conducted in hospital settings. Of these, four were retrospective in nature (two were cohort studies, one was a case-control study, and the fourth was a retrospective study with unspecified design) while the fifth was a single-blinded, randomized controlled study. In the selected five studies, a total of 162 children less than 8 years of age received treatment with doxycycline for various indications. The disease conditions were Rocky Mountain spotted fever (RMSF) (n = 68), suspected acute central nervous system infection (n = 38), uncontrolled asthma believed to be caused by an infection (n = 31) and for premature infants to treat infections (n = 25). Doxycycline was administered orally (n = 109), intravenous (n = 9), first intravenous than orally (n = 19).
+
+Data extracted from the five studies identified in this systematic review included information on 162 children who were treated with doxycycline between the ages of 0 and 8 years for various medical indications. The median age at doxycycline administration was 4.25 and IQR of 2.065-5.563. The oral dosage, based on weight, had a median of 2.3 mg/kg/day, with an IQR of 1.525-5.438 mg/kg/day. The median duration of drug administration was 8.5 days and IQR 6-12.5 days.
+
+Heterogenicity test: A Q-statistic of 0.954 with a p-value of 0.917 and an I^2 of 0% indicates low heterogeneity across studies, so a fixed-effect model is used.
+
+TABLE 1: Summary of the key elements of included studies
+
+Study 1 (Todd et al., United States): Rocky Mountain spotted fever (RMSF). Hospital-based retrospective cohort study. n=58 (doxycycline):213 (control). Age at exposure: 0.2-7.9 years. Age at dental examination: 8.1-15.6 years. Dose: 2.3 mg/kg with SD of 0.40 (range 0.3-2.9); Route: Oral (98%); Duration: 7.3 days with SD of 2.8 (range 1-10); BID daily (97%). Dental assessment: VITA Easy shade Compact instrument (spectrophotometer). Adverse events: Tetracycline-like staining NOT detected; Enamel hypoplasia - 2 (4%). Risk of Bias: Low.
+
+Study 2 (Vohra et al., United Kingdom): Rocky Mountain spotted fever. Hospital-based retrospective case-control study. n=10:20. Age at exposure: 4.3-8.25 years. Age at dental examination: 11-19 years. Dose: 30 mg-200 mg; Route: First IV and later oral in one child, only oral in 8 children; Duration: BID daily for 7-10 days. Dental assessment: Nikon 35-mm intraoral camera; staining rated by 5 dentists on a scale of 0-3. Adverse events: No tooth staining detected. Risk of Bias: Moderate.
+
+Study 3 (Peltola et al., Finland): Suspected acute central nervous system infection. Hospital-based retrospective cohort study. n=38. Age at exposure: 0.6-7.9 years. Age at dental examination: 8.3-22.6 years. Dose: 10 mg/kg/day loading dose for first 2-3 days, average 5 mg/kg/day; Route: IV first then oral in 18; Duration: 12.5 days (range 2-28 days). Dental assessment: Teeth photographed from five perspectives; examined by two independent paediatric dentists. Adverse events: No staining resembling tetracycline or enamel hypoplasia observed. Risk of Bias: Moderate.
+
+Study 4 (Amsden et al., Israel): Uncontrolled asthma (Chlamydia infection). Single-blinded, randomised, controlled study. n=31:30. Age at exposure: 2-7.7 years. Age at dental examination: 8-16 years. Dose: 4 mg/kg BID day 1, then 2 mg/kg/day for 9 days; Route: Oral syrup; Duration: 10 days. Dental assessment: Visual inspection; Lumin Vacuum Shade Guide (16 shades). Adverse events: No tooth staining detected. Risk of Bias: Moderate.
+
+Study 5 (Grossi et al., Italy): Premature infants (infections). n=25. Age at exposure: 4-55 days. Age at dental examination: One year after treatment. Dose: 2 mg/kg/day for 1st day then 1 mg/kg/day; Duration: 6-17 days. Dental assessment: Direct observation and fluorescence using Wood's light. Adverse events: ONE child developed discoloration in the upper incisor, duration not reported. Risk of Bias: Critical.
+
+Adverse events summary:
+Out of 162 children, only one premature infant (1/162) had tooth discoloration of the upper incisors (0.62%) and two other children had enamel hypoplasia (1.23%). A meta-analysis of proportions was conducted using the Freeman-Tukey double arcsine transformation. A fixed-effect model was applied to pool data from five studies. The pooled proportion of the adverse event was 0.21 (95% CI: 0.13-0.28). A fixed-effect model was chosen due to negligible heterogeneity among studies (I^2 = 0%, p = 0.917). Although the overall risk of bias varied across studies, evidence from three low-risk-of-bias studies indicated that doxycycline did not cause dental staining.
+
+Publication bias assessment:
+The fail-safe N was 49 (p < 0.001), indicating that 49 additional null-result studies would be needed to nullify the observed effect. Both the rank correlation test (Kendall's Tau = 0.600, p = 0.233) and the regression test (Z = 0.749, p = 0.454) were non-significant, suggesting no notable funnel plot asymmetry. Overall, these results indicate minimal evidence of publication bias and support the reliability of the observed small effect size.
+
+Discussion
+
+Doxycycline is widely used to treat various bacterial infections and has significant global implications, especially as the preferred medication for scrub typhus and leptospirosis. However, its use is limited in children below 8 years of age due to potential adverse effects on teeth and bones. Since 1958, the use of tetracycline has been linked to tooth discoloration in children, with subsequent studies confirming this association. These studies primarily recommend avoiding tetracyclines, such as doxycycline, in young children. Yet, recent high-quality evidence-based data remain scarce, making it challenging to draw definitive conclusions regarding the safety of doxycycline use in children.
+
+Among 162 children who received doxycycline before the age of 8, only one premature infant less than 2 months old exhibited discoloration in a deciduous tooth. Children with permanent teeth show no discoloration (n = 137) and their median age at dental examination was 13.5 and IQR of 11.89-15.34 years. This better outcome of the doxycycline may be attributed to noticeably different pharmacokinetic properties, which allow for less frequent administration and lower total daily doses of doxycycline. In addition, when compared to other tetracyclines, doxycycline exhibits a lower affinity for binding to calcium, with a binding rate of 19% for doxycycline vs 39.5% for tetracycline.
+
+Administering short courses of doxycycline, lasting 10 days or less, to children under 8 years for the treatment of Rocky Mountain Spotted Fever (RMSF) does not cause visible staining (0/68) or increase the risk of enamel hypoplasia (2/68). The Centers for Disease Control and Prevention (CDC) strongly recommends the use of doxycycline as the first-line treatment for Rocky Mountain spotted fever (RMSF) in children of all ages, including those under 8 years. The recommended dose for children weighing less than 45 kg is 2.2 mg/kg twice daily, not exceeding 100 mg per dose. Both the CDC and the American Academy of Paediatrics (AAP) (Red Book: AAP, 2021), endorse doxycycline for RMSF in young children, prioritizing its life-saving benefits over outdated concerns about dental effects.
+
+This review found that tooth discoloration was negligible (1/162), with a median doxycycline administration duration of 8.5 days (IQR: 6-12.5 days). Our findings are consistent with previous reviews, which concluded that doxycycline treatment durations of up to 10 days have negligible effects on tooth staining.
+
+In addition, this review reports a pooled proportion of adverse events of 0.21 (95% CI: 0.13-0.28). This low proportion does not mean that adverse events do not occur; they are influenced by the dose and duration of doxycycline. The review is limited by the small number of included studies (n = 5), the majority of which are retrospective and lack systematic adverse event reporting, raising concerns about the quality and consistency of the data. These factors restrict the generalizability and applicability of the pooled estimates and underscore the need for well-designed prospective research.
+
+Conclusion
+
+This review suggests that the risk of dental-related adverse events associated with short-term doxycycline use in children appears minimal, with a very low proportion of such incidents reported. However, these findings should be interpreted with caution due to several limitations. The small sample size and limited number of eligible studies constrain the robustness and generalizability of the findings, while unclear methodology in one article further limits comparability.
+
+Given these limitations, the current findings should be viewed as preliminary, providing a baseline rather than definitive evidence of doxycycline's safety in pediatric populations. Nevertheless, they offer important insights into the potential safety of doxycycline use in young children. Many physicians remain hesitant to prescribe doxycycline in this age group due to concerns about dental side effects-even in life-threatening conditions such as Rocky Mountain Spotted Fever, where doxycycline is the only effective treatment. This review contributes to the growing body of evidence suggesting that short courses of doxycycline may be safe, and highlights the need to reconsider current prescribing practices in critical care settings.
+
+The scarcity of large-scale, high-quality studies highlights the need for further research to better understand the long-term impact of doxycycline on dental health and overall safety in children. Future research should focus on large-scale, prospective cohort studies with diverse populations and long-term follow-up to better evaluate the safety profile of doxycycline in pediatric populations. Randomized controlled trials comparing doxycycline with alternative antibiotics are needed to assess relative risks.
