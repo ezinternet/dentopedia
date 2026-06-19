@@ -24,6 +24,7 @@ tags: [zirconia-implant, survival, marginal-bone-loss, PROM, synthesis]
 > - 임상 결정 — 악궁: 상악 vs 하악 생존 유의차 없음 (p=0.637) — 부위는 제한인자가 아니다. [근거강함]
 > - 환자보고결과 (Patient-Reported Outcome Measure, PROM): 심미·편안함·저작에서 유의한 향상, 높은 만족도 (Arefnia 2025). 단 PROM 문헌이 너무 이질적이라 메타분석 불가.
 > - 근거 한계: 60개월 초과 연구가 드물고 장기 파절/지대주나사 데이터 부족, 표준화 지르코니아 PROM 도구 부재, 경성종말점 (hard endpoint) 사용 지르코니아 vs 티타늄 직접비교 RCT 제한적. 임상 입장: 지르코니아는 적절 적응증에서 티타늄의 근거 기반 대안 (수정 가능한 위험 레버를 피한다는 전제).
+> - **미생물 축 신규 (Kniha 2026, 분할구 RCT, n=20, 12개월, 16S rRNA)**: 12개월 시점 지르코니아 > 티타늄 알파다양성(p<0.05); 지르코니아에서 Fusobacteria·Proteobacteria·Actinobacteria 감소, 레드 컴플렉스 경향 낮음. 단, 베타다양성(beta diversity) 차이 없음(PERMANOVA NS) → 전체 군집 조성은 동등. 치은연상 샘플링·임상 결과 없음 → 탐색적 데이터, 임상적 우위 단정 불가.
 
 ## One-line Summary
 Zirconia implants now show high medium-to-long-term survival (10-year CSR ~95%) with low marginal bone loss and high patient satisfaction; the residual failure signal is concentrated in two-piece designs, narrow diameters (fracture), drill-prepared coronal parts, and discontinued products — i.e. execution/design, not the ceramic itself.
@@ -50,13 +51,38 @@ Across a decade of evidence, zirconia implant survival converged on titanium-lik
 - **Arch**: maxilla vs mandible survival not significantly different (p=0.637) — site is not the limiting factor. [근거강함]
 - **Patient counseling**: expect high satisfaction/aesthetics; frame as titanium alternative, noting fracture risk in narrow designs. [합의수준]
 
+## Microbial Axis: Zirconia vs Titanium Peri-implant Microbiome
+
+**Kniha 2026 (split-mouth RCT, n=20, 12 months, 16S rRNA sequencing):**
+
+The first split-mouth RCT comparing peri-implant microbiome evolution on zirconia vs titanium implants over 12 months. Key findings:
+
+- At 12 months (T2), zirconia showed **higher microbial diversity** (Shannon index, p<0.05) vs titanium
+- Zirconia: T0→T1 Fusobacteria ↓ (p=0.03), Proteobacteria ↓ (p=0.03); at T2 Actinobacteria less abundant vs titanium (p=0.04)
+- Titanium: Actinomyces israelii ↑ at T2 vs T0 (p-adj=0.009)
+- Red complex pathogens (Porphyromonas gingivalis, Tannerella forsythia, Treponema denticola) tended lower on zirconia (descriptive)
+- **Beta diversity (PERMANOVA)**: NO significant difference between materials at any timepoint — overall community composition equivalent
+- Natural teeth consistently showed highest diversity; peri-implant niche is simpler regardless of material
+
+**Clinical interpretation**: These microbiome differences do NOT establish clinical superiority of either material. Zirconia's lower surface free energy and smoother topography may limit bacterial adhesion, but the beta diversity equivalence means the overall microbial communities are similar. No clinical outcome data (PPD, BoP, MBL) were measured in this study — findings are exploratory and hypothesis-generating. [rct, 20 patients — preliminary]
+
+| Microbial parameter | Zirconia (T2) | Titanium (T2) | p |
+|---|---|---|---|
+| Alpha diversity (Shannon) | Higher | Lower | <0.05 |
+| Beta diversity (PERMANOVA) | — | — | NS |
+| Actinobacteria | Less abundant | More abundant | 0.04 |
+| Actinomyces israelii change T0→T2 | Stable | Increased | 0.009 (adj) |
+| Red complex pathogens | Tendency lower | Tendency higher | Descriptive only |
+
 ## Gaps & Future Research
 - Few studies beyond 60 months; long-term fracture/abutment-screw data sparse.
 - No standardized zirconia-implant PROM instrument — prevents meta-analysis.
 - Head-to-head zirconia vs titanium RCTs with hard endpoints still limited.
+- Microbiome data (Kniha 2026) lacks subgingival sampling and clinical outcomes — dedicated longitudinal studies needed to determine if zirconia's microbiome differences translate to lower peri-implantitis risk.
 
 ## Related Papers
 - [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — largest survival/MBL SR+MA, 10-yr CSR
 - [[implants/pieralli-2017-clinical-outcomes-zirconia-dental-implants]] — early high-quality anchor (partially superseded)
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — PRO side
+- [[implants/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — split-mouth RCT (n=20, 12mo, 16S rRNA): zirconia higher alpha diversity and fewer pathogenic taxa at 12mo; beta diversity NS; exploratory microbiome baseline
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
