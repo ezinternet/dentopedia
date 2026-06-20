@@ -887,6 +887,7 @@ tags: []
 - [[orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] — Alhuwaizi 2026 · sr · CA vs FA 구강위생·치주 RCT 6편 GRADE: 치주지표 CA 우위(정성)하나 5/6편 high RoB·certainty very low~low → CA 이점은 compliance 의존 (abstract-only, DOI 10.1093/ejo/cjaf100)
 - [[orthodontics/clear-aligner/thakur-2026-probiotics-clear-aligner-biofilm-rct]] — Thakur 2026 · rct · 4기 교차 RCT(n=20 Invisalign): 소비자용 프로바이오틱 4제형(드링크·린스·구미·캡슐) 모두 aligner biofilm CFU·EPS 유의 감소(P<.001), 드링크 최대(−1.055 log10); 단기·라벨검증만 → 예비적 (abstract-only, DOI 10.1016/j.ejwf.2025.12.001)
 ### 근기능교정·탄성교정 (Myofunctional / Elastodontic — EF Line) (`orthodontics/myofunctional`)
+- [[overviews/myofunctional-elastodontic-orthodontics-overview]] — **종합 오버뷰** (12편): 탄성교정장치(EF Line·AMCOP) 적응증·효과·한계 — Class II 시상·횡적확장·반대교합·개방교합·기도·재료 7축; 전통장치 대비 동등~열등·근거 약함(RCT 1편)
 - [[orthodontics/myofunctional/ureni-2024-elastodontic-devices-sagittal-malocclusion-scoping-review]] — Ureni 2024 · sr · Scoping review(16편, n=345): 탄성교정장치가 Class II 시상교정 유의(SNB↑·ANB↓·overjet −2.1~−4.58mm)하나 twin-block보다 약함 (DOI 10.3390/dj12080247)
 - [[orthodontics/myofunctional/ronsivalle-2023-elastodontic-appliances-malocclusion-interception-children-review]] — Ronsivalle 2023 · sr · 혼합 systematic review(4 DB, 2403→13편): 혼합치열 탄성교정 적응증 6개 영역 매핑, 근거 약함 (DOI 10.3390/children10111821)
 - [[orthodontics/myofunctional/inchingolo-2022-amcop-elastodontic-protocol-interception-review]] — Inchingolo 2022 · case-report · AMCOP 탄성 bio-activator 4증례+리뷰: 소아 Class I/II/III·deep/open bite 교정, 고정장치 없이 (DOI 10.3390/ijerph19020988)
