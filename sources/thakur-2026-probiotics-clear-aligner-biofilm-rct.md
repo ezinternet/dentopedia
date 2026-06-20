@@ -3,7 +3,7 @@ title: "Antimicrobial effects of four different probiotic compositions and deliv
 authors: Thakur V, Juneja A, Raza M, Mehra P, Jacob AT, Shahi PK
 year: 2026
 doi: 10.1016/j.ejwf.2025.12.001
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: false
 pmid: "41548998"
@@ -14,7 +14,7 @@ text_filename: thakur-2026-probiotics-clear-aligner-biofilm-rct.txt
 
 ## Why Ingested
 
-`clear-aligner` 위생관리 축의 **개입(intervention) 데이터**. SR들이 일관되게 보고하는 "aligner는 치주 우위지만 plaque/biofilm 누적은 여전히 관리 대상"이라는 문제( [[wiki/orthodontics/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] 가 위생/치주 등급으로 정립)에 대해, 소비자용 probiotic 4종(드링크·린스·구미·캡슐)이 aligner biofilm(CFU·EPS)을 단기적으로 줄일 수 있는지 직접 시험한 4-period crossover RCT. abstract-only, preliminary.
+`clear-aligner` 위생관리 축의 **개입(intervention) 데이터**. SR들이 일관되게 보고하는 "aligner는 치주 우위지만 plaque/biofilm 누적은 여전히 관리 대상"이라는 문제( [[wiki/orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] 가 위생/치주 등급으로 정립)에 대해, 소비자용 probiotic 4종(드링크·린스·구미·캡슐)이 aligner biofilm(CFU·EPS)을 단기적으로 줄일 수 있는지 직접 시험한 4-period crossover RCT. abstract-only, preliminary.
 
 ## One-line Summary
 
@@ -64,9 +64,9 @@ text_filename: thakur-2026-probiotics-clear-aligner-biofilm-rct.txt
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] — establishes the oral-hygiene/periodontal problem aligner biofilm poses; this RCT tests an intervention against it.
-- [[wiki/orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/plaque outcomes of aligners vs fixed appliances.
-- [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — pooled periodontal advantage of aligners (plaque/gingival/bleeding indices).
+- [[wiki/orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] — establishes the oral-hygiene/periodontal problem aligner biofilm poses; this RCT tests an intervention against it.
+- [[wiki/orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/plaque outcomes of aligners vs fixed appliances.
+- [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — pooled periodontal advantage of aligners (plaque/gingival/bleeding indices).
 
 ## 7. Glossary
 
