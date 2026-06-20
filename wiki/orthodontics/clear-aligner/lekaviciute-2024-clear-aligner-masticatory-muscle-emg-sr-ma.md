@@ -5,7 +5,7 @@ year: 2024
 date: 2024-08-01
 doi: 10.1093/ejo/cjae030
 source: lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -60,6 +60,6 @@ Clinically: clear aligners produce only transient, task-specific neuromuscular a
 
 ## Related Papers
 
-- [[orthodontics/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — reinforces/extends: same masticatory-muscle question; this page adds the quantitative pooled sEMG meta-analysis the qualitative SR lacked.
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — applies-to: CA efficacy/effectiveness anchor; muscle-activity neutrality contextualizes how aligners achieve tooth movement without sustained muscular penalty.
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — extends: umbrella overview of clear-aligner vs fixed-appliance outcomes; this adds the masseter/temporalis EMG dimension not central to that umbrella.
+- [[orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — reinforces/extends: same masticatory-muscle question; this page adds the quantitative pooled sEMG meta-analysis the qualitative SR lacked.
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — applies-to: CA efficacy/effectiveness anchor; muscle-activity neutrality contextualizes how aligners achieve tooth movement without sustained muscular penalty.
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — extends: umbrella overview of clear-aligner vs fixed-appliance outcomes; this adds the masseter/temporalis EMG dimension not central to that umbrella.
