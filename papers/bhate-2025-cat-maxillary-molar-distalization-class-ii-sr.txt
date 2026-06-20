@@ -1,0 +1,273 @@
+Effectiveness of Clear Aligner Therapy in Maxillary Molar Distalization for Class II Malocclusion: A Systematic Review of Clinical Studies
+
+ABSTRACT
+
+Aim:
+
+Addressing skeletal Class II (CII) malocclusion often involves molar distal movement (Dx). While traditional methods like headgear face challenges related to patient compliance, clear aligner therapy (CAT) is considered an appealing alternative, although its effectiveness in molar Dx is an ongoing study area. This systematic review (SR) seeks to review the recent studies on the efficacy of CAT for effecting molar Dx. The aim of this SR was to assess the effectiveness of CAT in achieving molar Dxs in individuals with sagittal CII malocclusion.
+
+Materials and Methods:
+
+A comprehensive search in five electronic databases (Scopus, PubMed, Google Scholar, Cochrane, and Web of Science) for relevant articles till December 2023 was performed. The population, intervention, comparision, outcome and study design criteria included subjects with CII malocclusion intervened with CAT, the control was no treatment or fixed appliance therapy using traditional methods of molar distalization, and the outcomes assessed were molar Dx, achieved vs. predicted movements, molar tipping, and rotation. Only prospective trials, retrospective studies, randomized controlled trials (RCTs), and controlled clinical trials were included. The principal measure of Dx was millimeters. The risk of bias (ROB) assessment of the included studies was conducted using the Newcastle–Ottawa scale and ROBINS-I tool. Preferred reporting items for Systematic Reviews and Meta-Analysis (PRISMA) guidelines were adopted for data reporting and synthesis. The SR was registered in the PROSPERO database (registration number CRD42024531205).
+
+Results:
+
+Out of 547 studies identified, 11 papers were included in the present SR. Eight of them were retrospective, and three were prospective studies. The sample size ranged from a minimum of seven to 49 patients. A total of 278 patients were assessed in all the studies. Invisalign® system CA was used in all studies. Five studies reported predicted vs. achieved tooth movements. Two studies reported the use of attachments, and one study reported the use of microimplants for preventing anchorage loss along with Class I elastics. Dx ranged from 0.67 ± 0.5 mm to 2.54 ± 0.12 mm. When compared to the predicted Dx, the achieved Dx for M6 was 36.48–75.5%; for M7, it was 41.94–72.2%, and the accuracy of derotation of molars was 62.7–77.5%. Quantitative analysis could not be performed owing to the heterogeneity in the included studies. Six included studies had a low ROB, and two of them had a moderate ROB. Three studies were ranked low quality on the Newcastle–Ottawa scale. The strength of evidence for the included studies was judged as moderate on assessment with the Agency for Healthcare Research and Quality criteria.
+
+Conclusion:
+
+The available moderate-quality evidence suggests that CAT can achieve molar Dx up to 2 mm with good accuracy. However, the included studies were mainly retrospective with lesser samples without adequate controls; also, there was a wide variation in measurement methods and evaluation times. Well-designed RCTs are required to validate these findings and provide more robust evidence.
+
+INTRODUCTION
+
+Class II (CII) malocclusions are usually characterized by either mandibular retrognathism and orthognathic or maxillary protrusion usually with a CII molar relation. CII malocclusions make up approximately one-third of all malocclusions worldwide, necessitating the need for orthodontic treatment. Maxillary molar distalization (Dx) is a commonly used method to treat CII malocclusions as a non-extraction approach.
+
+Dx of the upper molars is accomplished by extraoral appliances like headgear but patient compliance and the risk of injury to the patient are common. Intraoral appliances, like Hilgers appliances, repelling magnets, distal jet appliances, and CII elastics, are currently popular. Bussick and McNamara reported an increase in the lower facial height in subjects treated with the pendulum appliance. Studies have also reported side effects such as anchorage loss, extrusion of premolars, and undesirable tipping of molars.
+
+Clear aligners (CAs) have gained massive favorability as they are aesthetic and removable. CAs apply gentle pushing forces to the teeth intended to be moved, positioning them into the desired positions. Despite their popularity, CAs have disadvantages like their blatant reliability on patient compliance and questionable predictability when performing complex tooth movements.
+
+Several studies have previously reviewed the biomechanics of CAs in Dx through various finite element model (FEM) studies and case reports. FEM studies are less reliable due to their inherent limitation of computational assumptions and inability to replicate in vivo conditions. Similarly, case reports lack the statistical power to establish definitive conclusions. The present systematic review (SR) is therefore necessary to consolidate current knowledge, address the inconsistencies in the reported outcomes, and highlight the strengths and limitations of the available evidence. The present SR was aimed to analyze and assess the available evidence on the effectiveness of CAT for molar Dx.
+
+Problem statement: The existing literature presents a research gap regarding the detailed analysis of CATs on molar Dx, with studies reporting varying degrees of success.
+
+Research question: Is CAT effective in achieving maxillary molar Dx in patients with sagittal CII malocclusion?
+
+MATERIALS AND METHODS
+
+The present SR was registered in the PROSPERO database and provided a registration number CRD42024531205. The SR followed the preferred reporting items for Systematic Reviews and Meta-Analysis (PRISMA) 2020 checklist.
+
+SEARCH STRATEGY
+
+The available literature published until December 2023 was systematically searched to identify relevant articles. The last date of the search was performed on February 28, 2024. The following databases were searched: PubMed, Web of Science, Cochrane Library, and Scopus [Table 1]. A manual search of all orthodontic journals was conducted to identify additional articles until February 28, 2024. EndNote software was used for the elimination of duplicates.
+
+Search strategy employed for various search engines
+
+Search engine	Search strings	Articles obtained	 	Pubmed	((((((((((Class II malocclusion[Title/Abstract]) OR (Class II molar[Title/Abstract])) OR (angles Class II molar[Title/Abstract])) AND (clear aligner[Title/Abstract])) OR (clear aligner therapy[Title/Abstract])) OR (invisalign[Title/Abstract])) OR (orthodontic aligners[Title/Abstract])) AND (distalization[Title/Abstract])) OR (distalization[Title/Abstract])) OR (molar distalization[Title/Abstract])	449	 	Cochrane library	(Clear Aligner) AND (Distalization) AND (Class II)	4	 	Scopus	Class II malocclusion AND clear aligners OR orthodontic aligners OR distalization	92	 	Web of science	Clear aligner OR Clear aligner therapy OR CAT AND Molar distalization OR Distalization OR Distalization	2
+
+SCREENING AND SELECTION OF STUDIES
+
+The inclusion of the studies for the present SR is shown in the PRISMA flow chart [Figure 1]. Two authors (MB and RKJ) individually carried out the process of study selection, data collection, and synthesis, which was cross-verified by the third author (AB). Any disagreements between the authors were settled after discussion with the third author (AB). The selection of studies was conducted according to population, intervention, comparision, outcome and study design (PICOS) criteria [Table 2]. A piloted data extraction form was not used for data collection. All studies that fulfilled the inclusion criteria were included in the review. Duplicate articles were identified using EndNote software. The characteristic table had the following data from the included studies: the year and journal of publication, first author name, sample size teeth evaluated, outcomes assessed, the method of evaluation, results, and inference.
+
+PRISMA flowchart
+
+PICOS table
+
+PICOS cirteria		 	Population	Subjects with Angle’s Class II malocclusion	 	Intervention	Clear aligner therapy	 	Comparison	No treatment or Fixed appliance therapy	 	Outcome	Primary outcome- Molar distal movementSecondary outcomes-Achieved vs predicted movementsMolar tipping, rotation	 	Study design	Prospective studies, retrospective studies, RCT, and CCT
+
+RCT = radomized controlled trial, CCT = controlled clinical trial
+
+ELIGIBILITY CRITERIA
+
+The articles were chosen based on the following inclusion criteria, according to PICOS criteria: (1) prospective and retrospective human clinical trials; (2) studies done on human subjects; (3) studies involving patients with CII malocclusion treated with CAs; and (4) studies on Dx of maxillary molars measured in millimeters with appropriate statistical analysis. The exclusion criteria were as follows: (1) case reports and reviews; (2) studies with surgical orthodontic procedures; (3) studies with adjuncts to CAT; and (4) studies in which the sample size was less than 10.
+
+Studies incorporating adjuncts to CAT, such as temporary anchorage devices, elastics, or supplementary fixed appliances, were excluded to ensure that the effects of CAT on Dx were assessed in isolation. Adjuncts introduce additional forces and mechanics that can significantly influence tooth movement, creating challenges in determining the precise contribution of CAT alone. By excluding such studies, the present review was aimed to provide a clear and accurate evaluation of the effectiveness of CAT in achieving Dx.
+
+QUALITY ASSESSMENT
+
+A qualitative assessment of the included studies was conducted utilizing the ROBINS-I tools for non-randomized trials and the Newcastle–Ottawa scale for all prospective studies. The ROBINS-I tool consists of the following domains: bias in confounding, bias in participation selection, bias in classification of interventions, bias due to deviations from intended interventions, bias introduced by missing data, bias in outcome measurement, bias in result reporting, and overall bias. The responses to each question were reported as “yes,” “partially yes,” “no,” “partially no,” or “not indicated.” A summary of the risk of bias (ROB) analysis of all retrospective studies is given in Figure 2. The Newcastle–Ottawa scale was used to assess the ROB for non-randomized studies [Table 3]. The strength of evidence for the included studies was assessed using the Agency for Healthcare Research and Quality criteria [Table 4].
+
+Risk of bias (ROB) assesment using ROBINS-I tool for non-randomized studies
+
+Newcastle–Ottawa scale for prospective studies
+
+Study	Selection	Comparability	Exposure	 	Quality criteria	Is case definition adequate?	Representativeness of the subjects	Selection of controls	Definition of controls	Comparability on basis of design or analysis	Ascertainment of exposure	Same method of ascertainment for subjects and controls	Non-response rate	Total	 	Saif et al., 2021	*	*				*			Low	 	Anto et al., 2023	**	*				*			Low	 	Miao et al., 2023	**	*				*			Low
+
+*indicates score given.
+
+Elucidates the strength of evidence of the included studies using the Agency for Healthcare Research and Quality criteria
+
+Study	Risk of bias	Inconsistency	Indirectness	Imprecision	Strength of evidence	 	Ravera et al.	Moderate	No	No	No	Moderate	 	Garino et al.	Moderate	No	No	No	Moderate	 	Caruso et al.	Moderate	No	No	No	Moderate	 	Saif et al.	Moderate	No	No	No	Moderate	 	Lin et al.	Moderate	No	No	No	Moderate	 	Li et al.	Moderate	No	No	No	Moderate	 	Rongo et al.	Moderate	No	No	No	Moderate	 	Anto et al.	Moderate	No	No	No	Moderate	 	Loberto et al.	Moderate	No	No	No	Moderate	 	Al-Tayar et al.	Moderate	No	No	No	Moderate	 	Miao et al.	Moderate	No	No	No	Moderate
+
+Since the included studies widely varied in the assessment methods for evaluating molar Dx, a meta-analysis (MA) could not be performed, and other additional analyses could not be conducted due to expected heterogeneity.
+
+RESULTS
+
+STUDY SELECTION
+
+Out of the 547 results obtained from an electronic search, 408 duplicates were removed, and the remaining 139 were screened. Out of after exclusion of 123 papers that did not satisfy the eligibility criteria, 16 papers were sought for full-text reading. After full-text reading, five were rejected as the amount of Dx measured was not in millimeters. Finally, 11 articles were included in the present review. Figure 1 illustrates the PRISMA flowchart for the article selection process.
+
+STUDY CHARACTERISTICS
+
+A total of 11 studies were included in the SR and subjected to qualitative analysis. Eight studies were retrospective, and three were prospective studies. The oldest publication was in 2016, and the last paper was published in 2023. The sample size varied from a minimum of 7 to 49 patients. A total of 278 patients were assessed in all the studies. Invisalign® system CA was used in all studies. Five studies reported predicted vs. achieved tooth movements. Two studies reported the use of attachments, and one study reported the use of microimplants for preventing anchorage loss along with Class I elastics. The included study characteristics are mentioned in Table 5. Figure 3 shows a bar chart to visually represent Dx range across included studies.
+
+Study characteristics of the included studies
+
+Author and year of study	Study design	Sample size, groups	Outcomes assessed	Method of assessment	Results	Inference	 	Ravera et al.	Retrospective study	20 subjects (9M, 11F)	M6 and M7 Dx as measured from the MB cusp	Lateral cephalograms	Average Dx of MB cusp of M6 – 2.25 mm without significant tipping (P = 0.27) and vertical movements (P = 0.43)MB cusp of M7 – 2.52 mm without significant tipping (P = 0.056) and vertical movements (P = 0.43)	CA with composite attachments and Class II elastics are effective in Dx without significant tipping	 	Garino et al.	Retrospective study	30 patients were randomized into two groups based on attachments	Dx of mesial cusps and COC of M6 and M7	Lateral cephalograms	Group 1 – Bodily movement of M7 with Dx of mesial cusp of 2.30 mm (P < 0.0001).Bodily movement of M6 (P < 0.001) with Dx of COC.Group 2 showed Dx of mesial cusps only for M6 1.54 mm (P < 0.01) and M7 of 1.52 mm (P < 0.05).Group 1 showed greater Dx of M6 (P < 0.05)	No significant difference in the amount of movement of M7 with or without attachments. M6 showed significantly greater Dx when attachments were placed at five teeth	 	Caruso et al.	Retrospective study	10 subjects (2M, 8F)	Linear positions of upper molars with the palatal plane (6-PP and 7-PP)	Lateral cephalograms	Statistically significant difference was found for the linear position of upper molars.6-PP at T0 – 25 mm6-PP at T1 – 23 mm7-PP at T0 – 16 mm7-PP at T1 – 13 mm	Significant Dx of M7 without distal tipping and with good vertical control	 	Saif et al.	Prospective study	142 maxillary molars from 38 patients	Achieved maxillary molar Dx	Digital models	Mean Dx of M6 – 1.81 ± 0.84 mmMean Dx of M7 – 1.85 ± 0.88 mm	Invisalign can be successfully used in adults for Dx of MM when a mean distalization of 2.6 mm is prescribed	 	Lin et al.	Retrospective study	Seven patients	Achieved tooth movement of M6 in antero-posterior direction	Superimposition of digital models on CBCT	MB cusp of M6 – 0.67 ± 0.5 mm	Treatment accuracy of 31.1% to 40.1% for simulated M6 Dx. In unilateral Class II patients, M6 Dx was not significantly different from the contralateral side	 	Li et al.	Retrospective study	43 patients were divided into two groups – retraction and non-retraction	Achieved Dx of M6 and M7	Digital models	Dx of M6 – 0.88 ± 0.83 mm with significant intrusion and buccal tippingDx of M7 – 1.11 ± 0.96 mm with significant intrusion and buccal tipping	There is a discrepancy between the predicted and outcome maxillary molar Dx with CAs	 	Rongo et al.	Retrospective study	20 patients (5M, 15F)	Molar relation (mm)	Dental casts and lateral cephalograms	U6-PTV= −0.93 ± 0.97 (P < 0.001)	Significant improvement in the molar relation with a significant Dx of upper molars	 	Anto et al.	Prospective study	16 patients (4M, 12F)	Dx of buccal cusps of M6 and M7 and derotation	Superimposition of digital models of pre-treatment, post-treatment, and virtual plan	Mean Dx – MB cusp of M6 – 1.30 mm (P < 0.001)MB cusp of M7 – 1.76 mm (P < 0.0028)	Distal displacement of buccal cusps had an overall higher accuracy for the second molars	 	Loberto et al.	Retrospective study	49 subjects (22M, 27F)	The amount of space between the midpoint of the first palatal ruga and the projection of the M6 Dx on the mid-palatal raphe	Digital models	Average Dx of M6 – 2.5 mm1.6-MBS = 2.4 mm (P < 0.0001)2.6-MBS = 2.4 mm (P < 0.0006)	Statistically significant improvement in the sagittal position of first molars	 	Al-Tayar et al.	Retrospective study	23 patients (7M, 16F)	Distance of M6 and M7 to the vertical plane	CBCT images	Average Dx for M6 – 2.54 mm (P < 0.003)For M7 – 2.18 mm (P < 0.003)	Statistically significant difference was found in the linear position of upper molars and molar relationship	 	Miao et al.	Prospective study	79 maxillary molars from 22 patients (7M, 15F)	Achieved Dx of M6 and M7	Digital models	Achieved Dx of M6 – 1.25 ± 0.79M7 – 1.41 ± 1	An average Dx of 2 mm was achieved
+
+M = male, F = female, M6 = maxillary first molar, M7 = axillary second molar, MB = mesiobuccal, MBS = mesiobuccal sagittal, COC = center of crown, PP = palatal plane, MM = maxillary molars
+
+A bar chart to visually represent distalization range across included studies
+
+RISK OF BIAS ASSESSMENT
+
+The included studies had several factors that increased their ROB. Of the eight retrospective studies, six of them had a low ROB. The rest of the two studies had a moderate ROB due to confounding factors, missing outcome data, and outcome measurement [Figure 2]. All the prospective studies were of low quality [Table 5]. The ROB affected the interpretation of results by highlighting the limitations of the included studies, particularly the predominance of retrospective designs, small sample sizes, and lack of standardized measurement protocols. This indicates the need for cautious interpretation and further well-designed trials to confirm the findings.
+
+MOLAR DISTAL MOVEMENT
+
+Studies have reported their findings using lateral cephalograms, model superimpositions, and CBCT to measure the Dx. From 11 studies, eight studies reported measuring the Dx of the M6 and M7, while three others measured only for M6. Studies have used the MB cusp, mesial cusp, palatal plane, and PTV as a reference to measure Dx. One study measured the distance between the molars and the vertical plane. The average time duration of the treatment in all studies ranges from 5.5 months to 23.6 months, and the mean range of Dx reported was from 0.67 ± 0.5 mm to 2.54 ± 0.12 mm (P = 0.032).
+
+OTHER MOLAR MOVEMENTS
+
+One study reported buccal tipping of 2.84° and intrusion of 0.63 mm for the M6 and lingual tipping of 0.32° and intrusion of 0.5 mm for M7.
+
+PREDICTED VS. ACHIEVED MOLAR MOVEMENTS
+
+The achieved rates of Dx for M6 were 36.48–50%, and for M7 were 41.94%. One study reported a difference in achieved and predicted movement of −1.10 ± 0.84 mm. One study reported the accuracy of derotation of molars ranging from 77.5% for M6 to 62.7% for M7.
+
+SKELETAL CHANGES
+
+No significant differences in skeletal parameters were reported in three studies. Changes in A point-Nasion-B point angle angle were reported in one study ranging from 0.03° to 0.25°. The same study reported a downward position of the Menton point by 0.79 ± 0.78 mm and the forward movement of the foremost point of the condylar head by 0.3 ± 0.57 mm.
+
+DISCUSSION
+
+CAs have emerged as an aesthetic and removable alternative to other Dx appliances. However, the efficacy of CAs for achieving Dx remains under investigation, with numerous studies exploring their effectiveness. This SR was proposed to update the existing literature on the effectiveness of CAT for Dx in subjects with sagittal CII malocclusion. Molar Dx was assessed in all the included studies, and a mean range of 0.67 ± 0.5 mm to 2.54 mm was reported. Other movements of the molars in the vertical and transverse directions were also reported. Effects of attachments and predicted vs. achieved movements were also assessed in this study.
+
+On performing the ROB assessment, it was observed that while most studies had a low to moderate ROB, certain concerns with respect to confounding factors, missing data, and outcome measurement were identified. Prospective studies generally exhibited a lower ROB compared to retrospective studies, suggesting the need for well-designed prospective trials to strengthen the evidence base further. Overall, the strength of evidence across the included studies was categorized as moderate, indicating a reasonable level of confidence in the reported findings.
+
+MOLAR DISTAL MOVEMENT
+
+A wide range of Dx of MM was reported, from 0.67 ± 0.5 mm to 2.54 mm (P = 0.032), the highest being reported by Al-Tayar et al. In an SR conducted by Rossini et al., it was concluded that a maximum Dx of 1.5 mm is achievable by CAT. In a review by Verma et al., four studies were included, and it was reported that Dx of MM was the most effective movement carried out by CAs among all other movements. It was concluded that CAT can distalize molars up to 2–3 mm. However, the review included FEM studies and case reports. In the present review, only retrospective studies of human subjects were included. In an SR by Harsha et al., the amount of Dx of molars using CAs reported was 2–3 mm. Dx of molars was reported to be the most effective movement of all movements using CAs.
+
+EFFECT OF ATTACHMENTS ON DISTAL MOVEMENT
+
+CA with resin attachments and CII intermaxillary elastics can successfully distalize MM without significant tipping or vertical movements. Placing vertical rectangular attachments on all distalized teeth was effective in reducing the distal tipping of the crown, preventing molar extrusion, and maintaining anterior anchorage in non-growing patients requiring bodily upper molar Dx. This emphasizes the importance of a targeted approach to utilizing CAs for controlled molar movements. In an SR by Harsha et al., the influence of attachments on Dx using CAs was evaluated. It was concluded that Dx using CAs with attachments had good control over mesiodistal tipping and vertical movements.
+
+PREDICTED VS. ACHIEVED MOVEMENTS
+
+The discrepancy between predicted and achieved molar movements was a notable finding in several studies. Li et al. and Lin et al. reported that achieved Dx for M6 ranged from 36.48% to 50% of the predicted movement, while for M7, it was 41.94%. The accuracy of molar derotation was also found to be variable, with a range of 62.7% to 77.5%. These findings highlight the limitations in treatment predictability, reinforcing the need for cautious clinical expectations when planning molar Dx with CAs. Saif et al., however, reported a mean achieved Dx of 2.6 mm, suggesting that with precise treatment planning and patient compliance, greater Dx may be achievable. The variations across studies suggest that individual patient factors, aligner staging, and force application methods significantly influence treatment outcomes.
+
+The discussed studies indicate that CA, when employed with appropriate attachments and treatment strategies, can effectively achieve Dx of MM with controlled outcomes. Challenges in predictive accuracy and treatment planning highlight the ongoing need for advancements in CA technology. Using CII elastics with aligners effectively distalizes molar teeth. A FEM study by Liu et al. evaluated the effect of CII elastics on molar Dx using CAs and reported higher anchorage reinforcement with CII elastics and lesser stress distribution when precision cuts were made on the aligners to engage CII elastics. CAs can be routinely used to produce molar Dx, thereby reducing the need for therapeutic extraction in borderline cases.
+
+The amount of molar Dx reported across studies varied significantly, with a range from 0.67 ± 0.5 mm to 2.54 mm (P = 0.032), which suggests that the extent of movement achievable may depend on several factors, including treatment planning, aligner wear compliance, and the use of additional auxiliaries. Rongo et al. have reported Dx of −0.93 ± 0.97 (P < 0.001), and Caruso et al. have reported Dx of 2 mm of the upper first molars and 3 mm of the upper second molars, but these studies had a moderate ROB; hence, their results should be interpreted with caution. Studies included in this review have reported using different reference planes to measure Dx, including the MB cusp, mesial cusp, palatal plane, and PTV, while in one study, the distance between the molars and the vertical plane was measured; hence, an MA could not be performed.
+
+LIMITATIONS
+
+Most of the studies included in this review were retrospective, limiting the strength of the available evidence. Retrospective studies are inherent with bias due to many confounding factors. Among the included studies, approximately 50% of them had a moderate ROB. All the prospective studies included were of low quality, limiting the quality of the available evidence. The small sample size and lack of controls are the main limitations of the included studies. Most of the included studies were performed using Invisalign, and other aligner systems were not tested. In the included studies, the amount of molar Dx programmed in the setup may vary, affecting the amount of achieved molar Dx. Additionally, heterogeneity in evaluation timing is another limitation. Some studies assessed Dx outcomes immediately after active treatment, while others evaluated movements at different stages, creating difficulties in determining the long-term stability of the achieved movements.
+
+The potential for reporting bias must also be considered, as studies with negative or non-significant findings may be underreported. Furthermore, this review only included studies published in English, introducing a possible language bias and the risk of missing relevant research published in other languages. Incomplete retrieval of data from unpublished or inaccessible studies may further affect the comprehensiveness of the evidence. Randomized controlled clinical trials with a sound methodology and a large sample size are needed to strengthen the quality of evidence. Future studies should also include other aligners and evaluate molar Dx in transverse and vertical planes. Future scope includes exploration of different CA systems other than Invisalign, conducting well-designed randomized controlled trials (RCTs) with larger sample sizes across different aligner systems, and using different attachments and auxiliaries for Dx. While studies have shown that Invisalign® can effectively achieve molar Dx, it is imperative to evaluate whether similar results can be achieved with other aligner brands to strengthen the quality of evidence and applicability to other aligner systems.
+
+CONCLUSION
+
+A moderate quality of evidence suggests CA therapy can clinically produce maxillary molar Dx effectively, and linear distal movements up to 2.5 mm have been reported in most studies. CAT offers a non-extraction alternative for treating CII malocclusion by distalizing maxillary molars which can be particularly beneficial for patients who are reluctant to undergo tooth extractions. However, the variability in study methodologies, lack of control groups, and inconsistencies in measurement techniques highlight the need for caution in interpreting these findings. Future high-quality RCTs and comparative studies across different aligner systems are needed to establish more robust conclusions.
+
+CONFLICTS OF INTEREST
+
+There are no conflicts of interest.
+
+AUTHOR CONTRIBUTIONS
+
+MB: Conceptualization, Methodology, Data Collections; Writing – Orignal Draft; Writing – Review, Editing, Investigations. RKJ: Conceptualization; Methodology; Resources; Writing – Review; Editing – Supervision, Formal Analysis. AB: Software Validation.
+
+ETHICAL POLICY AND INSTITUTIONAL REVIEW BOARD STATEMENT
+
+PROSPERO registration number - CRD42024531205.
+
+PATIENT DECLARATION OF CONSENT
+
+Not applicable.
+
+DATA AVAILABILITY STATEMENT
+
+Not applicable.
+
+APPENDIX
+
+APPENDIX A: SEARCH STRINGS FOR ALL DATABASES
+
+PubMed: (((((((((Class II malocclusion[Title/Abstract]) OR (Class II molar[Title/Abstract])) OR (angles Class II molar[Title/Abstract])) AND (clear aligner[Title/Abstract])) OR (clear aligner therapy[Title/Abstract])) OR (Invisalign[Title/Abstract])) OR (orthodontic aligners[Title/Abstract])) AND (distalization[Title/Abstract])) OR (distalization[Title/Abstract])) OR (molar distalization[Title/Abstract])
+
+Web of Science: (“Clear aligner” OR “Clear aligner therapy” OR CAT) AND ((“Molar distalization” OR “Molar distalization” OR “distalization”))
+
+Cochrane Library: ALL TEXT: “Class II” AND (Title Abstract Keyword: “clear aligner”) AND (Title Abstract Keyword: “distalization”)
+
+Scopus: ALL (“Class II”) AND (TITLE-ABS-KEY (“clear aligner”)) AND (TITLE-ABS-KEY (“distalization”))
+
+REFERENCES
+
+Skeletal Class II malocclusion: From clinical treatment strategies to the roadmap in identifying the genetic bases of development in humans with the support of the collaborative cross mouse population
+
+Skeletal discrepancies in patients with skeletal class 2 malocclusion treated at a private dental hospital – An OP report
+
+Global distribution of malocclusion traits: A systematic review
+
+Effects of cervical headgear and pendulum appliance on vertical dimension in growing subjects: A retrospective controlled clinical trial
+
+Distalization using efficient attachment protocol in clear aligner therapy – A case report
+
+Total maxillary arch distalization by using headgear in an adult patient
+
+Comparison of Jones jig molar distalization appliance with extraoral traction
+
+The pendulum appliance for Class II non-compliance therapy
+
+Comparison between direct vs indirect anchorage in two miniscrew-supported distalizing devices
+
+Comparison of maxillary molar distalization with an implant-supported distal jet and a traditional tooth-supported distal jet appliance
+
+Distalization of maxillary first and second molars simultaneously with repelling magnets
+
+Dentoalveolar and skeletal changes associated with the pendulum appliance
+
+Skeletal versus conventional intraoral anchorage for the treatment of class II malocclusion: Dentoalveolar and skeletal effects
+
+Evaluation of an intraoral maxillary molar distalization technique
+
+Maxillary molar distalization with miniscrew-supported appliances in Class II malocclusion: A systematic review
+
+Clear aligner therapy: Up to date review article
+
+Predictability of dental distalization with clear aligners: A systematic review
+
+Customized adjuncts with clear aligner therapy: “The Golden Circle Model” explained!
+
+Predictability of orthodontic movement with orthodontic aligners: A retrospective study
+
+Orthodontic treatment with clear aligners and the scientific reality behind their marketing: A literature review
+
+Comparing clear aligner treatments with multi-bracket systems: Advantages and disadvantages
+
+The effect of maxillary molar distalization with clear aligner: A 4D finite-element study with staging simulation
+
+Efficacy of clear aligners in producing molar distalization: Systematic review
+
+Impact of molar distalization with clear aligners on periodontal ligament stress and root resorption risk: A systematic review of 3D finite element analysis studies
+
+The PRISMA 2020 statement: An updated guideline for reporting systematic reviews
+
+Distalization of maxillary molars with Invisalign aligners in nonextraction patients with Class II malocclusion
+
+Treatment of mild Class II malocclusion in growing patients with clear aligners versus fixed multibracket therapy: A retrospective study
+
+Factors influencing the efficacy of invisalign in molar distalization and tooth movement
+
+Forces and moments generated by removable thermoplastic aligners: Incisor torque, premolar derotation, and molar distalization
+
+Treatment outcome and efficacy of an aligner technique-regarding incisor torque, premolar derotation and molar distalization
+
+Maxillary molar distalization with aligners in adult patients: A multicenter retrospective study
+
+Effectiveness of composite attachments in controlling upper-molar movement with aligners
+
+Impact of molar teeth distalization with clear aligners on occlusal vertical dimension: A retrospective study
+
+Efficiency evaluation of maxillary molar distalization using Invisalign based on palatal rugae registration
+
+Treatment of class II malocclusion with Invisalign®: A pilot study using digital model-integrated maxillofacial cone beam computed tomography
+
+Maxillary molar distalization with a 2-week clear aligner protocol in patients with Class II malocclusion: A retrospective study
+
+Class II malocclusion in adult patients: What are the effects of the intermaxillary elastics with clear aligners? A retrospective single center one-group longitudinal study
+
+Anchorage loss evaluation during maxillary molars distalization performed by clear aligners: A retrospective study on 3D digital casts
+
+Impact of molar teeth distalization by clear aligners on temporomandibular joint: A three-dimensional study
+
+Predictability of maxillary molar distalization and derotation with clear aligners: A prospective study
+
+Influence of maxillary molar distalization with clear aligners on three-dimensional direction: Molar distal movement, intrusion, distal tip and crown buccal torque
+
+Efficacy of clear aligners in controlling orthodontic tooth movement: A systematic review
+
+Influence of attachments on the efficiency of molar distalization using clear aligners – An updated systematic review
+
+Effects of upper-molar distalization using clear aligners in combination with Class II elastics: A three-dimensional finite element analysis
