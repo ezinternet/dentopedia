@@ -832,6 +832,8 @@ tags: []
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — SR+MA(Wiley 2022): 단일체 지르코니아 법랑질 마모 — 연마 Zr 법랑질 마모 최소; 유약 > 연마; 임상적으로 허용 가능 수준
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 우산형 SR(JPIS 2024): 지르코니아 법랑질 마모 in-vitro 연구 포괄 분석 — 연마 지르코니아 법랑질 마모 최소; 표면 거칠기 Ra 0.2µm 이하 목표
 - [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — 전향적 RCT(Wiley 2025, 2년): 지르코니아 엔도크라운 대합 법랑질 마모 임상평가 — 지르코니아·대조군 법랑질 마모 유의차 없음; 임상적 허용 수준
+- [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]] — Malgaj 2026 · rct (J Esthet Restor Dent, abstract-only): 8년 RCT(57명, 캔틸레버 지르코니아 RBFDP 64개) — 나노구조 알루미나코팅(NAC) 유지율 88.4% ≈ 분사연마(APA) 89.1%(p=0.99), 보철 생존율 100% (DOI 10.1111/jerd.70130)
+- [[dental-materials/zirconia/bomicke-2026-ceramic-crowns-sleep-bruxism-rct]] — Bömicke 2026 · rct (J Dent, abstract-only): EMG로 확인한 수면 이갈이는 3년간 모놀리식 LiDi·지르코니아 대구치 단관 생존·성공률에 유의 영향 없음 (n=109, 합병증 0건) (DOI 10.1016/j.jdent.2026.106691)
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
 
@@ -2057,6 +2059,7 @@ tags: []
 - [[resin-bonding/comba-2024-effects-etching-time-ethanol-wet]] — Comba 2024 · in-vitro · ethanol pre-treatment raised radicular push-out strength, lowered MMP (p<0.01); etching time neutral (60 teeth)
 - [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — Cochrane SR+MA: rubber dam vs cotton-roll isolation; ↑6-month composite NCCL survival (OR 2.29), low certainty
 - [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] — in vitro(n=60 하악 소구치): 글래스 파이버 포스트 접착 시 self-etch 131 N > total-etch 115 N > self-adhesive 75 N (push-out, p=0.001); SE 계열 권장 (DOI 10.4103/JCDE.JCDE_249_26)
+- [[resin-bonding/elhaddad-2026-cervical-margin-relocation-periodontal-restorative]] — ElHaddad 2026 · sr+ma (Quintessence Int, abstract-only): 치경부 변연 재위치(CMR/DME) 첫 SR+MA — 치주 건강 해치지 않음(PD −0.96mm, BOP −0.52), 변연 적합도는 접착 전략·재료에 좌우(접착성 글라스세라믹 최적) (DOI 10.3290/j.qi.b6881272)
 
 ### Resin / inlay — direct & indirect restorations
 - [[resin/wolff-2024-direct-composite-restorations-permanent-teeth]] — Wolff 2024 · consensus · German S3/GRADE guideline: direct composite recommended for Class I–V, cusp replacement, preferred over indirect inlays posteriorly
@@ -2065,6 +2068,8 @@ tags: []
 - [[resin/sekundo-2024-direct-composite-restorations-permanent-teeth]] — German S3 guideline Part 2: consensus recommendations for composite processing (excavation, isolation, matrix, adhesive, curing, polishing)
 - [[inlay/fouda-2024-two-year-clinical-performance-indirect-resin]] — Fouda 2024 · rct · 2-yr RCT (30 MOD ETT molars): CAD/CAM composite overlay beat inlay on marginal adaptation, discoloration/fracture, caries
 - [[inlay/dekuijper-2023-clinical-performance-direct-composite-resin]] — SR+MA (22 studies): no short-term difference between direct composite resin and indirect restorations on endodontically treated posterior teeth, but observational data confounded by indication (low-quality evidence)
+- [[inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging]] — Al Fodeh 2026 · in-vitro (J Mech Behav Biomed Mater, abstract-only): MOD 지르코니아 인레이는 재료(3Y vs 4Y/5Y) 무관하게 임상 허용 변연적합; RelyX < Panavia 변연간격; 열기계 노화로 변연간격↑(내면적합 불변) (DOI 10.1016/j.jmbbm.2026.107369)
+- [[inlay/sirikatitham-2026-fracture-resistance-partial-coverage-scoping]] — Sirikatitham 2026 · sr (BMC Oral Health): 세라믹 부분피개수복 34편 스코핑 — 대구치 MOD overlay는 anatomic보다 파절하중↓, 교합두께↑ 대체로 유리, 전 디자인 최대교합력 상회 (DOI 10.1186/s12903-026-08053-8)
 
 ### Behavioral dentistry — MI / behavior change
 - [[behavioral-dentistry/motivational-interviewing/zhan-2024-motivational-interviewing-periodontal-treatment-outcomes]] — Zhan 2024 · sr+ma · 7 RCTs (n=474): no significant MI vs standard-OHI difference in plaque, BoP, gingival inflammation
@@ -2363,6 +2368,9 @@ tags: []
 - [[occlusion/romanos-2003-bone-implant-interface-loading-conditions-monkey]] — Histomorphometric animal study (Macaca fascicularis, 48 implants): immediate and delayed loading both increase BIC vs non-loading, no significant difference between loading protocols [animal]
 - [[occlusion/podaropoulos-2020-progressive-static-load-overloading-dogs]] — Beagle (40 implants): progressive static pre-loading before overloading raised implant success to 87.5% vs 67.5% (overload-only) (IJOMI 2020;35:25-38) [animal]
 - [[occlusion/bueno-2018-cyclically-loaded-implants-loading-sessions]] — Rat tibia: doubling daily cyclic loading sessions (2×) reduces BIC vs unloaded/1× controls — loading-frequency dose-response for peri-implant healing [animal]
+- [[occlusion/fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma]] — Fan 2026 · sr+ma (J Prosthet Dent, abstract-only): 고정성 Dahl 수복(국소 치아마모) 첫 SR+MA(11편) — 간접 연간실패율(0–0.7%) < 직접(0–8.7%); 후방 교합접촉 완전 재형성 통합 86.9% (DOI 10.1016/j.prosdent.2025.12.028)
+- [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — Singh 2026 · sr (J Prosthet Dent, abstract-only): SR 6편 — 단일 임플란트 능동 촉각 역치(10–100µm)는 자연치(<10–50µm)보다 둔감하나 기능·즉시부하·자연치 대합으로 골유착감각 개선 → 임플란트 경(輕)교합 접촉의 생리 근거 (DOI 10.1016/j.prosdent.2025.12.019)
+- [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — Didier 2026 · cross-sectional (Orthod Craniofac Res): iTero 구강스캐너 교합도 vs 8µm 카본지 일치도 낮음(κ 0.07–0.20) — 교환 불가, 보완적 병용 필요 (DOI 10.1111/ocr.70088)
 
 ### Overview (added 2026-06-14)
 - [[overviews/tissue-level-vs-bone-level-implant-outcomes]] — **NEW Overview**: 조직수준 vs 골수준(TL/BL) 임플란트 변연골·주위염·연조직·생존 결과 종합 (9편: SR+MA·SR·전향/케이스-대조·후향·동물). SR은 MBL·주위염 무차이지만 head-to-head 임상은 일관되게 TL이 변연골 보존 우세; thin mucosa가 양쪽 공통 최강 예측인자.
