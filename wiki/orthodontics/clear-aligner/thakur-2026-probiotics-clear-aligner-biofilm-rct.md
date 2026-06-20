@@ -5,7 +5,7 @@ year: 2026
 date: 2026-01-17
 doi: 10.1016/j.ejwf.2025.12.001
 source: thakur-2026-probiotics-clear-aligner-biofilm-rct.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: rct
 source_collection: pubmed-text
 full_text: false
@@ -60,6 +60,6 @@ Clinically: consumer probiotics — a drink in particular — measurably reduced
 
 ## Related Papers
 
-- [[orthodontics/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] — establishes the aligner oral-hygiene/periodontal problem; this RCT tests a probiotic intervention against it (applies-to).
-- [[orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/plaque outcomes of aligners vs fixed appliances (context).
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — pooled periodontal advantage of aligners (plaque/gingival/bleeding) the biofilm reduction would reinforce.
+- [[orthodontics/clear-aligner/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr]] — establishes the aligner oral-hygiene/periodontal problem; this RCT tests a probiotic intervention against it (applies-to).
+- [[orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/plaque outcomes of aligners vs fixed appliances (context).
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — pooled periodontal advantage of aligners (plaque/gingival/bleeding) the biofilm reduction would reinforce.
