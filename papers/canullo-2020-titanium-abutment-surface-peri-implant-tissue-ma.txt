@@ -1,0 +1,17 @@
+Titanium abutment surface modifications and peri-implant tissue behavior: a systematic review and meta-analysis.
+
+Authors: Canullo L, Menini M, Santori G, Rakic M, Sculean A, Pesce P
+Journal: Clin Oral Investig 2020
+PMID 31955269 | DOI 10.1007/s00784-020-03210-x
+
+NOTE: abstract-only — full text not retrieved. Content below is the PubMed abstract.
+
+To evaluate the effect of various titanium abutment modifications on the behaviour of peri-implant soft tissue healing, inflammation and maintenance.
+
+An electronic database research until 30 April 2019 was performed. A meta-analysis (MA) for each outcome parameter was performed by using the random-effects models with the DerSimonian-Laird estimator.
+
+Ten studies were included in the present review. Four studies with a long follow-up (5-6 years) reported the outcomes in a heterogeneous way and were suitable for MA. Six studies (4 RCT, 2 CCT) including 118 patients and 182 implants dealing with a modified healing abutment surface and short follow-up were selected for MA. The MA for PI and BoP as outcome showed no significant differences between surfaces (PI: P = 0.091; BoP: P = 0.099). The MA for PD as outcome showed no significant differences between surfaces (P = 0.488). No statistical significance was found by evaluating each mixed-effects model for potential moderators (type of study, study design, number of implants, follow-up length). The other four studies with a longer follow-up (5-6 years) reported contradictory results depending on the surface treatment investigated.
+
+Within their limits, the present findings suggest that peri-implant soft tissue may not be affected by the surface treatment of titanium abutments on the short term. Contrasting results are reported in longer follow-up periods depending on the technique used to modify the abutment.
+
+Clinicians should carefully evaluate the use of a modified titanium surface in their practice. Even if no differences in terms of inflammation are present at short term, these findings need to be validated in long-term studies.
