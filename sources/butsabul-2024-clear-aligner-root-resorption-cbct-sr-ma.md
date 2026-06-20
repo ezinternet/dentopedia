@@ -3,7 +3,7 @@ title: "Root resorption in clear aligner treatment detected by CBCT: a Systemati
 authors: Butsabul P, Kanpittaya P, Nantanee R
 year: 2024
 doi: 10.1016/j.identj.2024.04.008
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "38692962"
@@ -15,7 +15,7 @@ text_filename: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma.txt
 
 ## Why Ingested
 
-Quantifies the absolute amount of external apical root resorption (EARR) attributable to clear aligners using pre/post CBCT — the safety endpoint that comparative aligner-vs-fixed reviews only addressed relatively. Reinforces [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]], whose RCT efficacy synthesis noted a root-resorption trend favoring clear aligners, by supplying the magnitude (−0.56 mm overall) and the worst-affected tooth (maxillary central incisor).
+Quantifies the absolute amount of external apical root resorption (EARR) attributable to clear aligners using pre/post CBCT — the safety endpoint that comparative aligner-vs-fixed reviews only addressed relatively. Reinforces [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]], whose RCT efficacy synthesis noted a root-resorption trend favoring clear aligners, by supplying the magnitude (−0.56 mm overall) and the worst-affected tooth (maxillary central incisor).
 
 ## One-line Summary
 
@@ -82,7 +82,7 @@ SR+MA (CBCT 9편) — 투명교정(clear aligner)은 경미하지만 측정 가�
 - Gandhi et al. — prior MA, EARR 0.44 mm in maxillary incisors with clear aligners (this study slightly higher at 0.56 mm).
 - Deng et al. — MA of EARR in fixed appliances (maxillary lateral incisor most resorbed; treatment duration a risk factor).
 - Fang et al. — MA aligner vs fixed; treatment duration not a confounder.
-- Sibling clear-aligner batch pages: [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]], [[wiki/orthodontics/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]], [[wiki/orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]], [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]].
+- Sibling clear-aligner batch pages: [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]], [[wiki/orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]], [[wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]], [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]].
 
 ## 7. Glossary
 
