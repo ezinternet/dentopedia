@@ -1,0 +1,13 @@
+Tubular occlusion prevents water-treeing and through-and-through fluid movement in a single-bottle, one-step self-etch adhesive model.
+
+Authors: Tay FR, Pashley DH, Hiraishi N, Imazato S, Rueggeberg FA, Salz U, Zimmermann J, King NM
+Journal: J Dent Res 2005;84(10):891-6
+PMID 16183786 | DOI 10.1177/154405910508401004
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Water entrapment occurs at resin-dentin interfaces of one-step self-etch adhesives. We hypothesized that by preventing water fluxes from dentin, any water entrapment would be attributed to incomplete removal of adhesive solvents. We tested this hypothesis by bonding to transparent carious dentin containing occluded dentinal tubules. An experimental single-bottle, one-step self-etch adhesive was applied to flat surfaces of caries-affected dentin surrounded by sound dentin, with or without pulpal pressure. Resin-dentin interfaces were examined with TEM after silver-impregnation.
+
+RESULTS: Although caries-affected dentin was highly porous, adhesive layers were devoid of silver deposits when tubules were occluded. Conversely, variable extents of water-treeing and water-droplets were identified from adhesive layers in bonded sound dentin. Water-treeing and water-droplet formation, being manifestations of evaporative and convective water fluxes, can be eliminated during bonding to occluded transparent carious dentin. However, the highly porous nature of this clinically relevant substrate after bonding may lead to potentially undesirable consequences.
+
+(Significance: demonstrates that transdentinal water flux from patent tubules — not just residual solvent — drives water-treeing in one-step self-etch adhesives; occluded tubules eliminate it.)
