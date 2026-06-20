@@ -1,0 +1,23 @@
+MMP Inhibitors and Dentin Bonding: Systematic Review and Meta-Analysis
+
+Authors: Kiuru O, Sinervo J, Vähänikkilä H, Anttonen V, Tjäderhane L
+Journal: Int J Dent 2021;2021:9949699
+PMID 34135969 | PMCID PMC8179777 | DOI 10.1155/2021/9949699
+Source: PMC open-access full text (CC BY).
+
+OBJECTIVES: Resin-dentin bond strength decreases over time, related to loss of hybrid layer integrity. Collagenolytic enzymes — especially matrix metalloproteinases (MMPs) and cysteine cathepsins — degrade the collagen matrix of the hybrid layer. MMP inhibitors (chlorhexidine [CHX], benzalkonium chloride [BAC], galardin, collagen cross-linkers e.g. proanthocyanidin/grape seed extract) can prevent this. This SR+MA evaluated the effect of MMP inhibitors on immediate and aged resin-dentin bond strength.
+
+METHODS: PubMed + Scopus searched (to 5 July 2018). Rejection criteria: <6 months aging, thermocycling-only aging, no bond-strength data, no MMP inhibitor, no control, reviews, carious teeth. 3-stage screening: 740 initial → 43 accepted for full review (240 groups; 21 different enzyme inhibitors tested). For meta-analysis, only 0.2–2% CHX data used (heterogeneity of other inhibitors too wide) → 21 articles, allocated into comparison groups by aging time (6/12/24 mo) and adhesive type (etch-and-rinse vs self-etch). Risk of bias: 6-item scale (randomization, intact teeth, per-instructions, same operator, sample-size calc, blinding) → low (5–6), medium (3–4), high (1–2). MedCalc v19.2.1.
+
+RESULTS:
+- 35/43 studies showed lower bond-strength loss with MMP inhibitors; 13 inhibitors gave ≥50% lower percentage loss vs control.
+- Most common inhibitor: CHX (32 studies), then BAC (7).
+- Meta-analysis (21 articles):
+  • Baseline CHX vs control: NO significant difference (p=0.308; I²=21.7%, low heterogeneity).
+  • 6 months: CHX significantly higher bond strength than control (p<0.001; I²=82.1%, high).
+  • 12 months: CHX significantly higher (p<0.001; I²=75.0%, high).
+  • 24 months: CHX significantly higher (p<0.001; I²=0%, extremely low heterogeneity).
+- Fracture at adhesive interface increased with aging regardless of inhibition.
+- Risk of bias: 5/21 high, 16/21 medium, 0 low. No study reported sample-size calculation; all but one lacked operator blinding.
+
+CONCLUSIONS: A clear trend for lower loss of dentin bond strength with MMP inhibitors. CHX has no effect on immediate bond strength but significantly preserves aged bond strength (≥6 months); the advantage grows with longer aging. The clinical use of CHX (MMP inhibition) can be recommended to increase the longevity of resin-dentin bonds. More low-risk-of-bias long-term studies are needed.
