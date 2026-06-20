@@ -3,7 +3,7 @@ title: "The effect of clear aligner treatment on masticatory muscles (masseter, 
 authors: Lekavičiūtė R, Paldauskaitė S, Stučinskaitė S, Trakinienė G
 year: 2024
 doi: 10.1093/ejo/cjae030
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "38943433"
@@ -15,7 +15,7 @@ text_filename: lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma.txt
 
 ## Why Ingested
 
-Clear-aligner (CA) limitations / masticatory-function batch. Reinforces and quantifies [[wiki/orthodontics/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — that SR asked the same masticatory-muscle question but synthesized qualitatively; this 2024 SR+MA (European Journal of Orthodontics) adds a pooled random-effects meta-analysis of masseter and temporalis surface EMG (sEMG) during clear aligner treatment (CAT), letting the wiki state quantitatively that the pooled difference is non-significant (effect size masseter 0.20, temporalis 0.24, both CIs cross 0). Pairs with the broader CA-efficacy anchor [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] and the umbrella [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]].
+Clear-aligner (CA) limitations / masticatory-function batch. Reinforces and quantifies [[wiki/orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — that SR asked the same masticatory-muscle question but synthesized qualitatively; this 2024 SR+MA (European Journal of Orthodontics) adds a pooled random-effects meta-analysis of masseter and temporalis surface EMG (sEMG) during clear aligner treatment (CAT), letting the wiki state quantitatively that the pooled difference is non-significant (effect size masseter 0.20, temporalis 0.24, both CIs cross 0). Pairs with the broader CA-efficacy anchor [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] and the umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]].
 
 ## One-line Summary
 
