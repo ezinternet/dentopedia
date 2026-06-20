@@ -26,6 +26,6 @@ In vitro study comparing Ivoclean vs 30% sodium silicate for cleaning saliva-con
 - LDS cleaning: silane reapplication after cleaning is still essential
 
 ## Related Papers
-- [[dental-materials/silva-2022-zirconia-saliva-cleaning-sr-ma]] — SR+MA on ZIRCONIA cleaning (contrast)
-- [[dental-materials/miyazaki-2015-saliva-zirconia-bond-contact-angle]] — Ivoclean superiority for zirconia
+- [[dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma]] — SR+MA on ZIRCONIA cleaning (contrast)
+- [[dental-materials/zirconia/miyazaki-2015-saliva-zirconia-bond-contact-angle]] — Ivoclean superiority for zirconia
 - [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]] — silane for glass-ceramics

@@ -49,4 +49,4 @@ Systematic review and meta-analysis (PRISMA) comparing failure risk of composite
 ## Related Papers
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — real-world retrospective; HR 1.29 composite (multi-surface critical)
 - [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] — SR; amalgam median 16yr vs composite 11yr
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs conventional SR+MA
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs conventional SR+MA

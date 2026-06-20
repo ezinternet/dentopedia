@@ -43,6 +43,6 @@ LDS single crowns demonstrate favorable survival rates generally comparable to o
 - No meta-analysis; 14–16 studies included (qualitative)
 
 ## Related Papers
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — esthetic OR 16.88 in CAD/CAM SR+MA
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — esthetic OR 16.88 in CAD/CAM SR+MA
 - [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic FDP SR+MA including LDS
-- [[dental-materials/lolos-2025-zirconia-restorations-5year-retrospective]] — ZrO₂ comparator 5-year retrospective
+- [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — ZrO₂ comparator 5-year retrospective

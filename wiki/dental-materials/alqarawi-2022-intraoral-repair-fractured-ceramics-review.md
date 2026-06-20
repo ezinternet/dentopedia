@@ -61,6 +61,6 @@ Alqarawi et al. (2022) reviewed 21 studies (17 in vitro, 3 case reports, 1 prosp
 
 ## Related Papers
 
-- [[dental-materials/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — documents chipping rates in veneered zirconia SCs (clinical context for repair need)
+- [[dental-materials/zirconia/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — documents chipping rates in veneered zirconia SCs (clinical context for repair need)
 - [[resin-bonding/kheirkhah-2021-universal-adhesive-silane-porcelain-repair-bond]] — bond strength comparison: universal adhesive vs silane for porcelain repair
-- [[dental-materials/koenig-2021-ltd-monolithic-zirconia-prospective]] — LTD in monolithic zirconia (surface degradation different from chipping)
+- [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]] — LTD in monolithic zirconia (surface degradation different from chipping)

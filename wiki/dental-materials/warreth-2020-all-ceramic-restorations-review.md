@@ -42,7 +42,7 @@ Narrative review. PubMed database search January 2010–December 2019 (2173 arti
 - Failure modes: cohesive fracture (glass), delamination (veneered zirconia)
 
 ## Related Papers
-- [[dental-materials/ban-2023-dental-zirconia-types-development-review]] — updated zirconia development history (2023)
+- [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — updated zirconia development history (2023)
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for high-strength ceramics
 - [[inlay/bresser-2023-intracoronal-restorations-longevity-sr-ma]] — SR+MA on intracoronal ceramic restoration longevity
 - [[inlay/bustamante-2020-ceramic-hybrid-composite-onlays-sr-ma]] — SR+MA on ceramic/hybrid/composite onlays

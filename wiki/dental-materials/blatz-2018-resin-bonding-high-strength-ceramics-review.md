@@ -42,6 +42,6 @@ Critical narrative review in Journal of Dental Research (2018). Reviewed clinica
 - Monolithic FCZ crowns: insufficient long-term clinical data in 2018
 
 ## Related Papers
-- [[dental-materials/ban-2023-dental-zirconia-types-development-review]] — zirconia types and development history (post-2018 advances)
+- [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — zirconia types and development history (post-2018 advances)
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — fracture load of zirconia vs ZrLS inlay-retained FDPs
 - [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] — RCT: zirconia cantilever IRFDP clinical outcomes

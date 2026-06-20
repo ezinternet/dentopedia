@@ -49,4 +49,4 @@ Annual failure rate: amalgam 3.5% vs composite 4.5% (HR 1.29, p<0.001). Single-s
 ## Related Papers
 - [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] — SR+MA; no significant RR difference (RR 0.96); contradicts real-world HR gap
 - [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] — SR; amalgam 16yr vs composite 11yr median survival
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs conventional SR+MA
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs conventional SR+MA

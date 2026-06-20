@@ -48,4 +48,4 @@ Amalgam demonstrates median survival time >16 years vs composite ~11 years in hi
 ## Related Papers
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — big-data retrospective; HR 1.29 composite; multi-surface critical
 - [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] — SR+MA; RR 0.96, no statistical difference
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs conventional SR+MA
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs conventional SR+MA

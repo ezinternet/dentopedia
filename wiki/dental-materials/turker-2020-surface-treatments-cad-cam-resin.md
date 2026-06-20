@@ -30,4 +30,4 @@ In vitro comparison of five surface treatments on two polymer-containing CAD/CAM
 
 ## Related Papers
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — CoJet/Rocatec recommended
-- [[dental-materials/comba-2021-chemical-bonding-cubic-zirconia]] — chemical bonding approaches
+- [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — chemical bonding approaches
