@@ -41,7 +41,7 @@ Membrane exposure in GBR is reframed here as a flap-design problem. Incision loc
 - Thinner gingiva associated with exposure.
 
 ## Related Papers
-- [[bone-regeneration/lee-2018-flap-management-alveolar-ridge-preservation]] — flap management for preservation
-- [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]] — suture/wound-closure technique for coverage
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — flap management for preservation
+- [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — suture/wound-closure technique for coverage
 - [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]] — membrane exposure as outcome (material axis; this page is the flap-design axis)
 - [[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]] — exposure at dehiscence sites

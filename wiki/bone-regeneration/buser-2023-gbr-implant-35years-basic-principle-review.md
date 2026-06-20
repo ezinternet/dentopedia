@@ -73,4 +73,4 @@ Narrative review by 5 co-authors with direct involvement in GBR development over
 - [[bone-regeneration/sasaki-2021-barrier-membranes-tissue-regeneration-review]] — barrier membrane classification reference
 - [[bone-regeneration/friedmann-2022-horizontal-augmentation-gbr-dog]] — animal study testing membrane type combinations for horizontal augmentation
 - [[bone-regeneration/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla]] — clinical study using GBR framework for anterior maxilla prediction
-- [[bone-regeneration/steigmann-2022-socket-buccal-bone-classification]] — applies GBR principles to socket-specific decision tree
+- [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — applies GBR principles to socket-specific decision tree

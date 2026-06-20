@@ -41,5 +41,5 @@ A gelatin/PLA composite barrier membrane performed non-inferiorly to an establis
 
 ## Related Papers
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — collagen membrane GBR benchmark SR+MA
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — membrane configuration vs outcome
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — membrane configuration vs outcome
 - [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]] — cross-linking RCT, parallel membrane-property question

@@ -44,6 +44,6 @@ Akbarzadeh Baghban 등(2009)은 1998–2009년 인체 골내 결손(intrabony de
 
 ## Related Papers
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — 4th ITI Consensus 병행 SR: 골이식 protocol 4유형 (dehiscence·수평·수직·상악동) 전반 평가.
-- [[bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — ARP 메타분석에서 grafting material을 modifier로 평가.
+- [[bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — ARP 메타분석에서 grafting material을 modifier로 평가.
 - [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] — 모든 DBBM이 Bio-Oss와 동등하지 않음(처리 공정 차이).
-- [[bone-regeneration/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane SR (xenograft ARP).
+- [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane SR (xenograft ARP).

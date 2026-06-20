@@ -60,5 +60,5 @@ New bone observed around particles of all groups — confirmed osteoconductive s
 ## Related Papers
 
 - [[bone-regeneration/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation]] — rat study showing similar finding: synthetics (α-TCP/BBCP) outperform DBBM alone for early bone formation; this rabbit study reinforces that pattern
-- [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA on DBBM ARP outcomes; the slow resorption documented here is the same property limiting DBBM's bone envelope formation
+- [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA on DBBM ARP outcomes; the slow resorption documented here is the same property limiting DBBM's bone envelope formation
 - [[bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]] — dog study showing DBBM's limited early bone formation contribution even with membrane; parallel finding across species

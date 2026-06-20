@@ -68,4 +68,4 @@ The mean resorption rate of grafted bone (RRGB) at 6 months was **49.78%** — n
 ## Related Papers
 
 - [[bone-regeneration/buser-2023-gbr-implant-35years-basic-principle-review]] — GBR principles framework; BCD/BCA findings apply within standard collagen membrane + DBBM protocol
-- [[bone-regeneration/steigmann-2022-socket-buccal-bone-classification]] — complementary morphology-based classification for ARP decision-making
+- [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — complementary morphology-based classification for ARP decision-making

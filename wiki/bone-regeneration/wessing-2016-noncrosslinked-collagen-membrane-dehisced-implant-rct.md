@@ -41,4 +41,4 @@ At dehisced single-implant sites treated with simultaneous placement + GBR, a ne
 ## Related Papers
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — same group's SR+MA pooling this trial type
 - [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]] — cross-linked vs non-cross-linked at the same dehiscence indication
-- [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft + membrane combination
+- [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft + membrane combination

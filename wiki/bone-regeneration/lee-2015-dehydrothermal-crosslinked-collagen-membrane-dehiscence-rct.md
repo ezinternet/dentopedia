@@ -44,6 +44,6 @@ At buccal dehiscence defects exposed during implant placement, both a dehydrothe
 
 ## Related Papers
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — SR+MA; cross-linked membranes ~30% higher exposure rate (this RCT did not reproduce that signal at n=28)
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane configuration vs outcome
-- [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft + membrane combination
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane configuration vs outcome
+- [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft + membrane combination
 - [[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]] — sibling RCT, non-cross-linked membrane at dehisced sites

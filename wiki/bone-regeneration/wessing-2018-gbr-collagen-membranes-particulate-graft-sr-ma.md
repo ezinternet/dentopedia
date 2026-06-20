@@ -54,7 +54,7 @@ The key practical findings: implant survival was **similar for simultaneous vs s
 
 ## Related Papers
 
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — single-study grafting-material comparison; this SR+MA pools the particulate-graft + membrane evidence.
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane design (single vs double layer); relevant to the cross-linking/exposure trade-off.
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — broader ridge-preservation/augmentation evidence base.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — single-study grafting-material comparison; this SR+MA pools the particulate-graft + membrane evidence.
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — collagen membrane design (single vs double layer); relevant to the cross-linking/exposure trade-off.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — broader ridge-preservation/augmentation evidence base.
 - [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus endorsing simultaneous GBR over dehiscence defects, consistent with the simultaneous-placement recommendation here.

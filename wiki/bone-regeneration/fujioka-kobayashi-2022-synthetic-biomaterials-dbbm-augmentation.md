@@ -60,6 +60,6 @@ All material groups showed greater MV/TV than empty defect, confirming osteocond
 
 ## Related Papers
 
-- [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA showing DBBM's clinical limitations in ARP; this study provides mechanistic insight into why DBBM alone may underperform early
+- [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA showing DBBM's clinical limitations in ARP; this study provides mechanistic insight into why DBBM alone may underperform early
 - [[bone-regeneration/chakar-2014-dbbm-bcp-platelet-lysate-rabbit]] — rabbit study showing BCP > DBBM for new bone formation; aligns with this study's finding that synthetics outperform DBBM alone
 - [[bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]] — dog study also showing DBBM's limited early bone formation in dehiscence defects; membrane did not help either

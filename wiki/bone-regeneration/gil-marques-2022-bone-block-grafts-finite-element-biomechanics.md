@@ -51,5 +51,5 @@ All three outputs were **greater at 0.2 N** than at 0.05 N suture tension. **Blo
 
 - [[suture-wound-closure/marsidi-2020-measuring-forces-suture-techniques-wound-closure]] — measured suture/closure forces; this FEA models how that tension transfers to mucosa over a graft.
 - [[suture-wound-closure/plonka-2017-flap-designs-flap-advancement-implant-therapy]] — flap design/advancement for tension-free closure, the clinical counterpart to this biomechanical model.
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — grafting-material/augmentation context for block grafts.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — grafting-material/augmentation context for block grafts.
 - [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus on augmentation; primary closure over grafts is central to its dehiscence-GBR recommendations.

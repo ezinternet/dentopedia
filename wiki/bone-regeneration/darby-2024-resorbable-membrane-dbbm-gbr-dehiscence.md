@@ -64,5 +64,5 @@ Conclusion: Membrane preserves graft material, but does not enhance new bone for
 ## Related Papers
 
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — SR+MA showing membranes improve GBR; this study refines that finding by showing no new-bone benefit in anterior maxilla dehiscence at 6 weeks
-- [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA on DBBM ARP outcomes; membrane use context for interpreting bone envelope probability data
+- [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA on DBBM ARP outcomes; membrane use context for interpreting bone envelope probability data
 - [[bone-regeneration/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation]] — synthetic additive to DBBM study; both studies show DBBM's bone formation limitations in short-term animal models
