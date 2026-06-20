@@ -5,6 +5,8 @@ year: 2026
 date: 2026-03-03
 doi: 10.1016/j.oooo.2026.01.011
 pmid: "41781316"
+text_path: /Users/oracleneo/llm-wiki/papers/eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.txt
+text_filename: eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.txt
 source: eberlikose-2026-botulinum-toxin-mandibular-bone-bruxism.md
 category: [botulinum-toxin]
 confidence: retrospective

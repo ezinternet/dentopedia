@@ -5,6 +5,8 @@ year: 2025
 date: 2025-12-04
 doi: 10.1016/j.ijom.2025.11.011
 pmid: "41350165"
+text_path: /Users/oracleneo/llm-wiki/papers/ergezen-2025-botulinum-toxin-sleep-quality-bruxism.txt
+text_filename: ergezen-2025-botulinum-toxin-sleep-quality-bruxism.txt
 source: ergezen-2025-botulinum-toxin-sleep-quality-bruxism.md
 category: [botulinum-toxin]
 confidence: prospective

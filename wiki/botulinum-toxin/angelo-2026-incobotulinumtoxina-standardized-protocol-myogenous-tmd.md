@@ -5,6 +5,8 @@ year: 2026
 date: 2026-01-01
 doi: 10.3390/toxins18050220
 pmid: "42188622"
+text_path: /Users/oracleneo/llm-wiki/papers/angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.txt
+text_filename: angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.txt
 source: angelo-2026-incobotulinumtoxina-standardized-protocol-myogenous-tmd.md
 category: [botulinum-toxin]
 confidence: retrospective

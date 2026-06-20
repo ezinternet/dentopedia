@@ -5,6 +5,8 @@ year: 2026
 date: 2026-05-18
 doi: 10.1097/SCS.0000000000012945
 pmid: "42148608"
+text_path: /Users/oracleneo/llm-wiki/papers/hira-2026-masseter-botulinum-bruxism-severity-pain-sleep.txt
+text_filename: hira-2026-masseter-botulinum-bruxism-severity-pain-sleep.txt
 source: hira-2026-masseter-botulinum-bruxism-severity-pain-sleep.md
 category: [botulinum-toxin]
 confidence: prospective

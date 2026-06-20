@@ -5,6 +5,8 @@ year: 2025
 date: 2025-12-01
 doi: 10.1007/s00266-025-05462-y
 pmid: "41326742"
+text_path: /Users/oracleneo/llm-wiki/papers/yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.txt
+text_filename: yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.txt
 source: yan-2025-masseter-elasticity-botulinum-toxin-ultrasound.md
 category: [botulinum-toxin]
 confidence: prospective

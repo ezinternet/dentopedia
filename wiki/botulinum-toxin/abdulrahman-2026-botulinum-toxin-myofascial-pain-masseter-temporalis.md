@@ -5,6 +5,8 @@ year: 2026
 date: 2026-01-22
 doi: 10.1007/s12663-025-02895-5
 pmid: "41971507"
+text_path: /Users/oracleneo/llm-wiki/papers/abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis.txt
+text_filename: abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis.txt
 source: abdulrahman-2026-botulinum-toxin-myofascial-pain-masseter-temporalis.md
 category: [botulinum-toxin]
 confidence: prospective

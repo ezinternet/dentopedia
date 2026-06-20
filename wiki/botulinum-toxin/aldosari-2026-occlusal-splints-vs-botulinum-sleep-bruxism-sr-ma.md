@@ -5,6 +5,8 @@ year: 2026
 date: 2026-06-11
 doi: 10.1080/08869634.2026.2683509
 pmid: "42274300"
+text_path: /Users/oracleneo/llm-wiki/papers/aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.txt
+text_filename: aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.txt
 source: aldosari-2026-occlusal-splints-vs-botulinum-sleep-bruxism-sr-ma.md
 category: [botulinum-toxin]
 confidence: sr+ma

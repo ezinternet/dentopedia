@@ -5,6 +5,8 @@ year: 2026
 date: 2026-03-03
 doi: 10.3390/md24030100
 pmid: "41892959"
+text_path: /Users/oracleneo/llm-wiki/papers/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis.txt
+text_filename: jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis.txt
 source: jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis.md
 category: [pdrn]
 confidence: in-vitro
