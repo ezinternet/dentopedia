@@ -5,7 +5,7 @@ year: 2024
 date: 2024-03-19
 doi: 10.1186/s12903-024-04029-8
 source: almalki-2024-clear-aligner-masticatory-stomatognathic-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -65,6 +65,6 @@ Clinically: counsel CAT patients to expect mild, self-limiting masticatory muscl
 
 ## Related Papers
 
-- [[orthodontics/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] — reinforces (quantitative masseter/temporalis EMG SR+MA counterpart to this qualitative masticatory-muscle synthesis)
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — extends (overall CA efficacy/safety anchor; this page adds the masticatory/stomatognathic safety dimension)
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — applies-to (umbrella overview of CAT-vs-FAT SRs into which this masticatory-muscle finding slots)
+- [[orthodontics/clear-aligner/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] — reinforces (quantitative masseter/temporalis EMG SR+MA counterpart to this qualitative masticatory-muscle synthesis)
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — extends (overall CA efficacy/safety anchor; this page adds the masticatory/stomatognathic safety dimension)
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — applies-to (umbrella overview of CAT-vs-FAT SRs into which this masticatory-muscle finding slots)
