@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-03
 doi: 10.1093/ejo/cjaf100
 source: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: false
@@ -62,6 +62,6 @@ Clinically: do not promise patients that aligners "protect the gums" as an inher
 
 ## Related Papers
 
-- [[orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/gingival-recession SR+MA; this GRADE-graded SR reinforces its cautious periodontal conclusion (reinforces).
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — supplies pooled periodontal effect sizes favoring CA; this review refines that by grading certainty low/very-low and flagging compliance-dependence (refines).
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella overview of CA-vs-FA systematic reviews (context).
+- [[orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/gingival-recession SR+MA; this GRADE-graded SR reinforces its cautious periodontal conclusion (reinforces).
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — supplies pooled periodontal effect sizes favoring CA; this review refines that by grading certainty low/very-low and flagging compliance-dependence (refines).
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella overview of CA-vs-FA systematic reviews (context).
