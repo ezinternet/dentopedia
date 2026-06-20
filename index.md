@@ -947,6 +947,7 @@ tags: []
 - [[endodontics/regenerative/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
+- [[overviews/resin-dentin-bond-durability-degradation-overview]] — **종합 오버뷰** (15편): 레진-상아질 결합 내구성·열화 — hybrid layer 붕괴(가수분해+MMP/cathepsin)·water-tree·MMP억제(CHX)·MDP nanolayering·에탄올습윤·conditioner 6축; in-vitro 우월성↔임상 괴리
 - [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — Borouziniat 2024 · sr+ma · 26편 SR+MA: 지르코니아에 self-adhesive ≈ self-etch 레진시멘트(차이 없음), total-etch는 유의 낮음(p=.00) (DOI 10.4103/JCDE.JCDE_225_23)
 - [[resin-bonding/musharbash-2025-cleaning-agents-contaminated-zirconia]] — Musharbash 2025 · in-vitro · 타액오염 지르코니아: 에어입자분사(APC) 최고 SBS, Katana Cleaner/Ivoclean/Zirclean는 대안 가능, thermocycling 시 전반 감소 (DOI 10.1111/jerd.13512)
 - [[resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] — Yoshihara 2011 · in-vitro · **10-MDP nanolayering originating 연구**: MDP-Ca 자기조립 nanolayer가 법랑질·상아질에 형성(상아질>법랑질, MDP 농도·scrubbing 비례) = mild self-etch 화학결합 기전 (DOI 10.1016/j.actbio.2011.04.026)
