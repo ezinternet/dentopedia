@@ -1,0 +1,24 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC). PMID 41500885]
+
+TITLE: Comparative analysis of active tactile sensibility in single dental implant and natural teeth: A systematic review of clinical studies.
+
+AUTHORS: Ankita Singh, Suresh Shri Pokarram, Sayani Podder (Department of Prosthodontics, Faculty of Dental Sciences, Banaras Hindu University, Varanasi, India)
+
+JOURNAL: The Journal of Prosthetic Dentistry (J Prosthet Dent). 2026;135(6):e34-e43. Publication date 2026-01-06.
+
+DOI: 10.1016/j.prosdent.2025.12.019
+
+ABSTRACT:
+Loss of periodontal ligament-mediated mechanoreception after tooth extraction compromises tactile sensibility and occlusal control. Implant-supported prostheses partially restore this function through osseoperception, but the extent and influencing factors of active tactile sensibility (ATS) in single-implant restorations remain unclear.
+
+The purpose of this systematic review was to compare ATS between a single implant opposing a natural tooth and contralateral natural tooth-to-tooth contacts in functional occlusion and to evaluate clinical factors influencing implant-mediated sensory rehabilitation.
+
+This review followed the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020 guidelines (PROSPERO registration: CRD420251104655). Electronic searches of the PubMed, Scopus, and Web of Science databases, supplemented by manual searches, identified clinical studies published up to June 2025. Inclusion criteria were human investigations reporting quantifiable ATS thresholds in a single implant opposing a natural tooth and contralaterally natural tooth pairs via psychophysical testing (such as foil detection). Data extraction included study design, implant variables, testing protocols, and outcomes.
+
+Six studies were included: 4 randomized controlled trials, 1 prospective cohort, and 1 cross-sectional study. Reported ATS thresholds for implants ranged from 10 to 100 µm, while natural teeth showed lower thresholds (<10 to 50 µm). Immediate loading protocols yielded earlier and greater tactile feedback than delayed loading. Implant location (anterior versus posterior) showed inconsistent effects. Implant-supported prostheses opposing natural teeth exhibited better tactile sensibility than implant-supported prostheses occluding against other implant-supported prostheses. No consistent effects of age or sex were identified. Longitudinal studies reported progressive improvement in ATS with functional loading.
+
+Osseointegrated implants develop functional tactile sensibility over time, although thresholds remain higher than those of natural teeth. Immediate loading and occlusion against natural antagonists accelerate neuroplasticity.
+
+MeSH: Humans; Touch; Dental Implants, Single-Tooth; Tooth; Sensory Thresholds; Dental Prosthesis, Implant-Supported.
+
+ARTICLE TYPES: Journal Article; Systematic Review; Comparative Study; Review.
