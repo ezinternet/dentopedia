@@ -1,0 +1,72 @@
+Clinical efficacy of Guided Biofilm Therapy in the management of periodontal disease - a systematic review
+Yein N, et al. BMC Oral Health 2026. DOI: 10.1186/s12903-026-08418-z. PMID 42032569 / PMCID PMC13281344.
+Source: PubMed Central full text.
+
+Introduction
+
+Dental biofilm is a complex polymicrobial substance found in the oral cavity on surfaces, including hard and soft tissues as well as inanimate surfaces like restorations, clear aligners, orthodontic bands, and prostheses. Biofilms are often located in hard-to-reach areas, complicating home oral hygiene regime. Biofilm located near the gingival epithelium can lead to gingival inflammation, which, if untreated, can progress to periodontitis. Consequently, professional scaling and root debridement (SRD) often considered as gold standard, are typically advised to prevent progressive periodontal diseases. However, SRD presents certain limitations, including technical difficulty, time consumption, patient discomfort and damage to fillings. Repeated SRD can also be associated with transient dentinal hypersensitivity. Additionally, the clinical results of SRD often varies based on the operator's skill level. Due to these limitations, alternative and adjunctive methods like air polishing, lasers and vector scaling systems have been introduced recently.
+
+Guided Biofilm Therapy (GBT) has emerged as a novel alternative to SRD involving supra- and subgingival calculus removal with specialized instruments and air abrasive powder use. GBT aims to improve periodontal and peri-implant treatment outcomes by enhancing biofilm removal efficiency. The typical steps in GBT protocol include diagnosis, plaque visualization using disclosing agent, patient education, supragingival biofilm removal, subgingival biofilm removal, and the use of minimally invasive scalers for calculus removal. GBT protocol sequentially removes plaque and calculus using a combination of specialized abrasive powders and scalers. Initially, AIRFLOW MAX powder use eliminates supra and subgingival (up to 4 mm) biofilm followed by subgingival (PERIOFLOW powder) nozzle to remove biofilms in deeper periodontal pockets (up to 9 mm) in combination with PIEZON PS / PI MAX that removes calculus on natural teeth (PIEZON NO PAIN PS - Perio Slim) and on implants, restorations and orthodontic appliances (PIEZON PI Peri Implant MAX).
+
+GBT offers several benefits over traditional oral prophylaxis technique. One of the key benefits is the usage of plaque disclosing agent which helps as a motivational tool in improving patient compliance by highlighting areas needing further attention. Moreover, air-polishing devices can remove plaque effectively without causing soft tissue damage. Removing plaque with air polishing before ultrasonic scaling can also improve access to calculus, allowing for more targeted ultrasonic scaling, reducing tissue damage and patient discomfort. Additionally, a recent consensus report highlighted that air polishing is a safe to use on all oral soft tissues, dental hard tissues, restorative materials including composites and implants. Despite the potential advantages of GBT, its clinical outcomes in comparison to SRD remain underexplored, necessitating further investigation. Therefore, the purpose of this review was to assess Guided Biofilm Therapy's (GBT) efficacy in treating periodontal diseases in comparison to traditional approaches for maintaining oral health.
+
+Methodology
+
+This systematic review was carried out using the Preferred Reporting Items for Systematic Reviews and Meta Analysis (PRISMA) guidelines. The protocol for this review was registered on PROSPERO database with registration number: CRD420251010127.
+
+PICOS:
+Population - Adult patients (>= 18 years) diagnosed with periodontal disease undergoing routine non-surgical periodontal treatment or periodontal maintenance.
+Intervention - Guided Biofilm Therapy (GBT) evaluated as a standalone non-surgical periodontal intervention.
+Comparison - Conventional non-surgical periodontal therapy including scaling and root debridement, ultrasonic scaling, and/or hand instrumentation.
+Outcomes - Primary outcome: Probing Pocket Depth (PPD). Secondary outcomes: Clinical Attachment Level (CAL), Bleeding on Probing (BOP), Gingival Recession (GR), Treatment time, plaque scores, patient-reported pain.
+Study Design - Randomized controlled trials (RCTs) and non-randomized clinical trials.
+
+Exclusion criteria comprised studies involving pediatric population, patients with systemic diseases affecting oral health, or individuals who had received surgical or systemic therapies for periodontal conditions. Studies were excluded if GBT was not evaluated as a distinct intervention, or if outcome data specific to GBT were incomplete. Trials lacking a clear comparator group or those comparing GBT with other modalities such as laser therapy, stem cell therapy, local drug delivery, or systemic antibiotics were also excluded. Case reports, all types of reviews, expert opinions, conference abstracts, animal studies, and in vitro experiments were excluded.
+
+Search strategy: eight databases - PubMed, Cochrane, LILACS, Google Scholar, Scopus, Web of Science, OpenGrey and ClinicalTrials.gov registry with no language or publication year restrictions. Forward (citations) and backward (references) searches conducted.
+
+Data synthesis: Due to substantial heterogeneity in study timelines and the absence of a homogenous dataset across the included studies, conducting a meta-analysis was not feasible. Findings were summarized descriptively rather than statistically pooled.
+
+Quality of evidence: GRADE approach (Murad et al. adaptation for SR without meta-analysis). Risk of bias: Cochrane RoB 2 tool for RCTs with robvis visualization.
+
+Results
+
+Study selection: A total of 620 records identified across eight databases. After removal of 79 duplicates, 541 unique articles remained for title/abstract screening. 12 studies eligible for full-text assessment. One study could not be retrieved; five failed predefined criteria; one excluded due to absence of conventional comparator. A total of FIVE studies included for qualitative analysis. Cohen's kappa: 0.86 for screening/selection, 0.82 for data extraction, 0.80 for risk of bias.
+
+Study characteristics: All five included studies were RCTs - three split-mouth, two parallel-arm. A total of 231 participants, sample size 32 to 60. Intervention = GBT; comparator = traditional SRD (except one study using rubber cups with prophylactic paste).
+
+Included studies:
+- Vouros et al. (2021), RCT (SPC), Periodontitis Stage III Grade A/B, Greece, n=50, GBT vs ultrasonic + manual SRD, AIRFLOW Master Piezon + PLUS powder (EMS).
+- Stahli et al. (2024), Parallel-arm RCT (SPC), Periodontitis all stages Grade A/B with <6 mm residual pocket, Switzerland, n=41, GBT vs ultrasonic + manual SRD, Erythritol powder (EMS).
+- Mensi et al. (2024a), Single-blind split-mouth RCT, Gingivitis only, Italy, n=32, GBT vs ultrasonic SRD, AIRFLOW Master Piezon + PLUS powder (EMS).
+- Cyris et al. (2024), Split-mouth RCT, Periodontitis Stage III & IV, Germany, n=60, GBT vs sonic + manual SRD, AIRFLOW Prophylaxis Master + PLUS powder (EMS).
+- Mensi et al. (2024b), Split-mouth RCT, Periodontitis Stage III & IV, Italy, n=41, GBT vs ultrasonic SRD, AIRFLOW Prophylaxis Master + PLUS powder (EMS).
+
+Reported outcomes (GBT vs control):
+Vouros 2021 (baseline, 6 weeks): PI% 83.1 vs 82.8; GB score 0.44 vs 0.44; PPD 2.62 vs 2.67; CAL 3.02 vs 3.01; Plaque score 0.62 vs 0.65; Pain 2.62 vs 1.67; Clinician comfort 80-100% vs 0-20%. GBT reduces duration and enhances patient comfort.
+Stahli 2024 (baseline, 6 & 12 mo): BOP% B 12.2 -> 12M 9.0 vs B 14.7 -> 7.9; PPD B 2.42 -> 2.39 vs B 2.44 -> 2.43; Furcation B 4.95 -> 3.38 vs B 6.55 -> 6.45; MTT 42.4 vs 39.6 min; Pain (VAS) 15 vs 7.6; Satisfaction (VAS) 84.8 vs 97.3. SRD showed significant improvement in BOP alone; all other improvements similar. Pain lower in SRD.
+Mensi 2024a (baseline, 6 weeks, 3 mo): PPD B 6.23 -> 3.33 vs B 6.21 -> 3.32; CAL B 6.74 -> 4.09 vs B 6.68 -> 4.10; REC B 2.32 -> 2.25 vs B 2.32 -> 2.20; BOP% B 91.12 -> 31.06 vs B 91.60 -> 32.58; PI% B 83.55 -> 31.48 vs B 82.65 -> 29.23; Closed pockets 3M 84.1% vs 84.4%; MTT 55.44 vs 51.13 min. GBT similar to SRD.
+Cyris 2024 (baseline, 5+/-2 mo): PPD B 3.8 -> 2.9 vs B 3.8 -> 2.9; GR B 1.0 -> 1.2 vs B 1.0 -> 1.2; CAL B 4.6 -> 4.1 vs B 4.7 -> 4.0; Pain intra-op 2.5 vs 2.5; Pain post-op 0.1 vs 0.1; MTT 30.3 vs 34.6 min. Significant BOP reduction within GBT group; similar pocket reduction between groups in stage III-IV.
+Mensi 2024b (baseline to 12 mo): BOP% B 56.9 -> 12M 11.5 vs B 56.7 -> 10.2; PI% B 65.0 -> 17.3 vs B 65.3 -> 19.5; MTT B 18.39 -> 6M 11.01 vs B 20.32 -> 14.45 min; QoT (good-optimal) 97.4% vs 84.6% at 12M; Discomfort (>=3) 5.2% vs 33.4% at 12M; SoC 92.3% vs 94.8%. GBT similar effect for gingivitis with reduced duration, enhanced patient perception.
+
+Pooled descriptive summary: Mean PPD decreased from 3.8-6.2 mm to ~2.9-3.3 mm (reductions 2-3 mm both groups). CAL improved from 4.6-6.7 mm to 4.0-4.1 mm, no clinically relevant differences. BOP showed most pronounced reductions, from 56-91% baseline to 9-32% follow-up, similar magnitudes both groups. GR stable (~1.0-2.3 mm baseline to 1.2-2.2 mm). Plaque indices decreased from 83-91% to 29-31% at 3 months, and 65% to 17-19% at 12 months, GBT showing slightly greater reductions in residual plaque in difficult-to-access areas.
+
+Treatment duration: short-term GBT ~51-55 min vs 39-51 min conventional; long-term maintenance GBT ~14.5 min vs 11.0 min controls. Pain scores negligible (0.1 +/- 0.4 GBT vs 0.1 +/- 0.3 control). Satisfaction high across interventions (84.8 +/- 22.5 GBT to 97.3 +/- 5.2 conventional), though patients consistently reported greater comfort, cooperation, perception of cleanliness with GBT. Clinician feedback favored GBT.
+
+Follow-up duration varied: lowest 6 weeks, highest 12 months, one study failing to report follow-up. All included studies used erythritol powder from a single manufacturer containing chlorhexidine 0.3% as preservative.
+
+Methodological quality (RoB 2): one high risk (Mensi 2024a - critical flaws in outcome measurement, lack of blinding), two some concerns (Stahli 2024, plus incomplete outcome reporting), three low risk overall. Vouros 2021, Cyris 2024, Mensi 2024b had clear randomization, low attrition, objective assessment.
+
+Quality of evidence (GRADE): Overall certainty rated VERY LOW. Downgrading factors: Risk of bias (-1 serious), Indirectness (-1 serious, heterogeneity in primary outcome, setting, timeline), Imprecision (-1 serious, small cumulative sample n=231, CI-based assessment not feasible), Inconsistency (-1 serious, variability in reported outcomes; some trials showed improved plaque removal with GBT, others no significant differences in PPD/CAL/BOP). Publication bias not detected formally.
+
+Discussion / Conclusion
+
+GBT reported consistent benefits in patient-related outcomes (satisfaction, less pain, reduced treatment time) and some procedural benefits (effective plaque/calculus removal). But findings on PPD, CAL, gingival recession were heterogeneous. While GBT may be more efficient in plaque removal, it does not consistently outperform SRD in improving primary clinical parameters. Four of five studies showed no significant differences in PPD, CAL, or GR.
+
+Treatment time: one study reported significant 5.5 min reduction first appointment; Cyris reported 4.3 min per quadrant reduction (12.43% reduction). Other studies reported no significant treatment time difference. GBT has a learning curve.
+
+Other considerations: air polishing devices procurement/maintenance cost may reduce economic savings; aerosol/particulate contamination from abrasive powder; high vacuum suction recommended; rare iatrogenic risk of subcutaneous emphysema/pneumocephalus reported with air-powder water jet.
+
+Limitations: small sample sizes (max 60 participants), variation in follow-up duration and control-group steps, inconsistent periodontal disease severity (one gingivitis only, others Stage III/IV), two studies in supportive periodontal care vs active therapy in others.
+
+Conclusion: GBT demonstrated favorable patient-centered outcomes (reduced treatment time, improved comfort) vs conventional non-surgical periodontal therapy. However, evidence on primary clinical periodontal outcomes was heterogeneous and limited. The clinical superiority of GBT in relation to disease-related measures is NOT supported by currently available evidence.
