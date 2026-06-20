@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-08
 doi: 10.1371/journal.pone.0346566
 source: sirri-2026-physical-adjunctive-interventions-clear-aligner-rct-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -65,6 +65,6 @@ Clinically: do not expect a vibration device or LLLT to shorten clear aligner tr
 
 ## Related Papers
 
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — CAT-vs-fixed umbrella; this review applies-to its acceleration/limitations narrative (adjuncts don't close the gap; cadence dominates).
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only efficacy anchor (CA≈FA occlusal in simple cases); reinforces that PAIs add no occlusal/QoL value on top of baseline CAT.
-- [[orthodontics/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — force delivery / tracking biomechanics; complements the finding that tracking is governed by mechanics and schedule, not adjunct devices.
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — CAT-vs-fixed umbrella; this review applies-to its acceleration/limitations narrative (adjuncts don't close the gap; cadence dominates).
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only efficacy anchor (CA≈FA occlusal in simple cases); reinforces that PAIs add no occlusal/QoL value on top of baseline CAT.
+- [[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — force delivery / tracking biomechanics; complements the finding that tracking is governed by mechanics and schedule, not adjunct devices.
