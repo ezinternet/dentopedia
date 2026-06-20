@@ -118,7 +118,7 @@ Maxillary molar to be extracted → pre-op CBCT (mandatory)
 | Survival (molar IIP) | [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]] | sr+ma |
 | Immediate vs delayed | [[immediate-implant/patel-2023-immediate-vs-delayed-implant-survival-sr-ma]] | sr+ma |
 | Maxilla vs mandible stability | [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] | prospective |
-| Open-wound soft tissue | [[immediate-implant/deng-2024-posterior-open-wound-healing-immediate-implant]] | retrospective |
+| Open-wound soft tissue | [[immediate-implant/esthetic-soft-tissue/deng-2024-posterior-open-wound-healing-immediate-implant]] | retrospective |
 | Palatal-root technique | [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]] | case-report |
 | All-on-X application | [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]] | case-report |
 

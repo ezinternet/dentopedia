@@ -70,7 +70,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]] | sr (50편) | Type 1 — 1-3y midfacial recession ≥1mm가 9-41% (median 26%). 협측 plate < 1mm에서 위험↑ |
+| [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] | sr (50편) | Type 1 — 1-3y midfacial recession ≥1mm가 9-41% (median 26%). 협측 plate < 1mm에서 위험↑ |
 | [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] | sr+nma | 상악 전치부 Type 1-4 × immediate/early/conventional loading — 다각 비교 |
 | [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] | sr+ma (ITI consensus, 68편) | 심미부 single tooth IIPP — 평균 follow-up 2.8y, 37.2 implants/study |
 | [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] | sr | 5y 생존 97.1%, 1y MBL −0.32mm, 전치부 PES 7.2 |
@@ -91,12 +91,12 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]] | sr+ma | 건강한 협측 plate — 전치부 ≤1 mm 다수. 흡연·성별 NS |
-| [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]] | sr (12편) | 얇은 facial plate → alveolar loss·심미 위험↑ |
+| [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]] | sr (12편) | 얇은 facial plate → alveolar loss·심미 위험↑ |
 | [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct (10y, n=40) | 협측 결손 ≥5 mm — IIP + GBR + 지연 provisionalization vs ARP 후 지연식립 10y 동등 |
-| [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] | rct commentary | Meijer 2024 EBD commentary — 10y 임상가 적용 시 caveat (술자 숙련) |
+| [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] | rct commentary | Meijer 2024 EBD commentary — 10y 임상가 적용 시 caveat (술자 숙련) |
 | [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] | sr (20편 525 implant) | BBT 온전 1.10-3.18mm vs 비온전 1.18-3.00mm. 생존 ≥90% 모두 |
 | [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | Periapical 병변 socket IIP — 적절한 debridement·항생제 동반 시 비감염치 동등 |
-| [[immediate-implant/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]] | prospective (1y) | 협측 골열개 + 적절한 GBR → 임상·방사선·심미 수용 가능 |
+| [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]] | prospective (1y) | 협측 골열개 + 적절한 GBR → 임상·방사선·심미 수용 가능 |
 
 **임상 ladder (site 결정)**:
 1. **Ideal IIP site** — 협측 plate ≥ 1mm intact + 4벽 socket + 잔존 골 길이 ≥ 5mm (apex 아래).
@@ -108,7 +108,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 **오판 패턴**: "Periapical lesion 있으면 무조건 ARP" — Pranckeviciene 2024 SR+MA가 적절한 처치 후 동등 outcome 시사. [근거강함]
 
-**보강 근거 — sagittal root position(SRP) CBCT 해부.** 전치부 IIP 가능 여부는 치근-치조 관계(SRP class)와 협측 벽 두께에 좌우되며, 이 분포는 다인종 코호트에서 반복 확인된다: 원형 SRP 분류는 [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]가 정의했고, 한국인([[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]), 브라질인([[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]·[[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]), 페루인([[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]) 집단에서 Class I(협측 근접)이 다수임이 일관된다. 보조 해부 변수로 치근 경사·순측 골 두께([[immediate-implant/petaibunlue-2019-anterior-arch-root-position-angulation]], [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]], [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]], [[immediate-implant/lei-2022-alveolar-bone-width-sagittal-tooth]], [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]), 절치관 인접도([[immediate-implant/panda-2018-cbct-incisive-canal-anterior-maxillary]]), SRP 기반 의사결정·치료계획([[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]], [[immediate-implant/abdul-2024-srp-maxillary-mandibular-anterior-cbct]], [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]])이 있다. → **임상 함의**: 식립 전 CBCT로 SRP class를 먼저 분류하고, Class I이라도 협측 천공 위험이 높으면 palatal trajectory로 식립한다. [합의수준]
+**보강 근거 — sagittal root position(SRP) CBCT 해부.** 전치부 IIP 가능 여부는 치근-치조 관계(SRP class)와 협측 벽 두께에 좌우되며, 이 분포는 다인종 코호트에서 반복 확인된다: 원형 SRP 분류는 [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]가 정의했고, 한국인([[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]), 브라질인([[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]·[[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]), 페루인([[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]) 집단에서 Class I(협측 근접)이 다수임이 일관된다. 보조 해부 변수로 치근 경사·순측 골 두께([[immediate-implant/petaibunlue-2019-anterior-arch-root-position-angulation]], [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]], [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]], [[immediate-implant/lei-2022-alveolar-bone-width-sagittal-tooth]], [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]), 절치관 인접도([[immediate-implant/panda-2018-cbct-incisive-canal-anterior-maxillary]]), SRP 기반 의사결정·치료계획([[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]], [[immediate-implant/abdul-2024-srp-maxillary-mandibular-anterior-cbct]], [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]])이 있다. → **임상 함의**: 식립 전 CBCT로 SRP class를 먼저 분류하고, Class I이라도 협측 천공 위험이 높으면 palatal trajectory로 식립한다. [합의수준]
 
 **보강 근거 — periapical pathology socket.** 술전 치근단 병소가 있는 socket의 IIP는 적절한 debridement 동반 시 가능하다는 Pranckeviciene 2024 결론을 후향 코호트가 뒷받침한다([[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]]), 치주염 병력 socket에서도 단기 생존이 보고된다([[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]]). [claude해석] 단 장기 데이터는 여전히 부족.
 
@@ -121,7 +121,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[immediate-implant/staas-2026-fiipp-palatal-position-cbct-3year]] | prospective (3y CBCT) | 협측에서 ≥2 mm palatal positioning → buccal crest 보존 |
+| [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]] | prospective (3y CBCT) | 협측에서 ≥2 mm palatal positioning → buccal crest 보존 |
 | [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]] | sr+ma (Cosyn) | Flap vs flapless — 협측 hard/soft tissue 변화 비교. RCT만 |
 | [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] | sr+ma (Cosyn, 15 RCT n=577) | IIP gap grafting — hard tissue·일부 soft tissue 보존 유의 |
 | [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]] | rct | Jumping gap ≥ 3mm 이종골 충전 → 협측 골 흡수 −0.46 vs −0.84 mm |
@@ -149,18 +149,18 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] | sr+ma (8편 n=409) | IIP+CTG — 협측 midfacial recession 유의 감소 |
-| [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] | sr+nma (21 RCT) | CTG만 STT 유의 증가. SUCRA 순위 — CTG가 MIBL/KTW/STT/PH/MGML 우위 |
-| [[immediate-implant/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | 경조직+연조직 복합이식 — ISQ·치은후퇴·PES 개선 |
-| [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] | sr+ma | Immediate provisional 유무 — 생존율 동등, 연조직 안정성 provisional 우위 |
-| [[immediate-implant/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] | sr+ma (GRADE) | IIP + immediate provisional → PES·midfacial recession 우위 |
-| [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] | sr+ma (RCT only) | 즉시부하 vs 지연부하 — midfacial mucosal level 중심 비교 |
-| [[immediate-implant/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] | sr+ma | IIPP 1y MBL −0.30mm, 생존율 95.1-98.9% |
-| [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]] | sr+ma | SST — 협측 골 보존 시도. 합병증 (mobility/infection/exposure/migration) 보고 |
-| [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] | sr+ma | SST vs 통상 IIP — 협측 골 MD −0.5mm 우위. 합병증 5-17% |
-| [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]] | sr (20편, 288명, 3-60mo) | 합병증 9.5%. 합병증 없는 생존율 90.5%. 근거 낮음 |
-| [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]] | rct | SST vs 이종골 → 협측 골 흡수 −0.28 vs −0.94 mm (SST 우위) |
-| [[immediate-implant/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] | rct (12mo) | CGF 강화 골이식재 IIPP — Testori score·다양한 변수 평가 |
+| [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] | sr+ma (8편 n=409) | IIP+CTG — 협측 midfacial recession 유의 감소 |
+| [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] | sr+nma (21 RCT) | CTG만 STT 유의 증가. SUCRA 순위 — CTG가 MIBL/KTW/STT/PH/MGML 우위 |
+| [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]] | sr+ma | 경조직+연조직 복합이식 — ISQ·치은후퇴·PES 개선 |
+| [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] | sr+ma | Immediate provisional 유무 — 생존율 동등, 연조직 안정성 provisional 우위 |
+| [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]] | sr+ma (GRADE) | IIP + immediate provisional → PES·midfacial recession 우위 |
+| [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] | sr+ma (RCT only) | 즉시부하 vs 지연부하 — midfacial mucosal level 중심 비교 |
+| [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] | sr+ma | IIPP 1y MBL −0.30mm, 생존율 95.1-98.9% |
+| [[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]] | sr+ma | SST — 협측 골 보존 시도. 합병증 (mobility/infection/exposure/migration) 보고 |
+| [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] | sr+ma | SST vs 통상 IIP — 협측 골 MD −0.5mm 우위. 합병증 5-17% |
+| [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] | sr (20편, 288명, 3-60mo) | 합병증 9.5%. 합병증 없는 생존율 90.5%. 근거 낮음 |
+| [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] | rct | SST vs 이종골 → 협측 골 흡수 −0.28 vs −0.94 mm (SST 우위) |
+| [[immediate-implant/esthetic-soft-tissue/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] | rct (12mo) | CGF 강화 골이식재 IIPP — Testori score·다양한 변수 평가 |
 
 **임상 ladder (soft tissue augmentation 결정)**:
 1. **심미부 IIP 1st choice** — Type 1 + CTG (구개 또는 결절 채취) + immediate provisional.
@@ -182,7 +182,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 | [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]] | rct (n=27, 30 imp) | 구치부 IIP + 무피판 가이드 → 6w vs 3mo 부하 양군 100%. ISQ NS |
 | [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]] | rct (1y) | 상악 구치부 IIP + 경치조골 sinus elevation + 비매몰 — 즉시 식립 양 군 100% 생존 |
 | [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] | sr+nma | Type × loading 조합 다각 비교 |
-| [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] | sr+ma | Immediate vs 지연 provisionalization midfacial mucosal level |
+| [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] | sr+ma | Immediate vs 지연 provisionalization midfacial mucosal level |
 
 **임상 ladder (loading 결정)**:
 1. **Immediate loading (≤72h)** 가능 조건 — 1차 안정성 ≥35 Ncm + 단일 치아 + 교합 비기능 (occlusal contact 제거) + 환자 협조.
@@ -220,19 +220,19 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 ### spine (본문 인용)
 
-- [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]]
+- [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]]
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]
 - [[hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]]
 - [[immediate-implant/fan-2024-immediate-implant-ridge-preservation-comparative-sr-ma]]
 - [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
-- [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
+- [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
 - [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]]
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
+- [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
 - [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]]
 - [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]]
-- [[immediate-implant/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
-- [[immediate-implant/staas-2026-fiipp-palatal-position-cbct-3year]]
+- [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
+- [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]
 - [[immediate-implant/pitman-2023-immediate-implant-flap-flapless-sr-ma]]
 - [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]]
 - [[immediate-implant/sanz-2017-bone-graft-gap-immediate-implant-rct]]
@@ -241,25 +241,25 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 - [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]]
 - [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]]
 - [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]]
-- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
-- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
-- [[immediate-implant/rondone-2024-tissue-grafts-immediate-implant-sr-ma]]
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]]
-- [[immediate-implant/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]]
-- [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]]
-- [[immediate-implant/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]]
-- [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]]
-- [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]]
-- [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]]
-- [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]]
-- [[immediate-implant/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]]
+- [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
+- [[immediate-implant/esthetic-soft-tissue/rondone-2024-tissue-grafts-immediate-implant-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/sutariya-2022-soft-tissue-immediate-provisionalization-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]]
+- [[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]]
+- [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]
+- [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]]
+- [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]]
+- [[immediate-implant/esthetic-soft-tissue/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]]
 - [[immediate-implant/ragucci-2020-immediate-implant-molar-extraction-sockets]]
 - [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]]
 - [[immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]
 - [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]]
 - [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]]
-- [[immediate-implant/elgendi-2025-peri-implant-soft-tissue-conditioning]]
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]]
+- [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]]
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
 
 ### Related overviews
@@ -305,13 +305,13 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 - [[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]
 
 **Anterior maxilla — 협측 plate·dehiscence·심미**:
-- [[immediate-implant/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]] — 협측 dehiscence pilot
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]] — Labial bone thickness
+- [[immediate-implant/esthetic-soft-tissue/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]] — 협측 dehiscence pilot
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]] — Labial bone thickness
 - [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]] — BioARP
 - [[immediate-implant/grenzi-2026-spal-peri-implant-bone-dehiscence-iip]] — SPAL
 - [[immediate-implant/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior]] — Ti mesh + CGF
-- [[immediate-implant/samet-2023-immediate-placement-loading-esthetic-zone]]
-- [[immediate-implant/chen-2009-clinical-esthetic-outcomes-implants-postextraction]]
+- [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]]
+- [[immediate-implant/esthetic-soft-tissue/chen-2009-clinical-esthetic-outcomes-implants-postextraction]]
 
 **Molar IIP — septum·classification·구치부 IIP**:
 - [[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]] — Molar socket classification
@@ -331,7 +331,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 
 **Primary stability / Macro-design**:
 - [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — 5-thread guideline
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
 - [[immediate-implant/galve-huertas-2025-inverted-body-shift-vs-conical-rct]] — 단일맹검 RCT (n=30, 1y, 상악 전치부): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 중앙값 62 vs 56–60 (NS), MBL·PES 동등; inverted 설계의 중앙 소켓 위치가 협측 gap 공간·구개 스크류 접근 이점 제공; ISQ ≥62 즉시 가편의 기준 재확인
 
@@ -340,4 +340,4 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 - [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — 치주염력 환자
 - [[immediate-implant/ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal]] — IIP + crestal sinus
 - [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]] — IDR + OD
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
+- [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]

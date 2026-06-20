@@ -35,8 +35,8 @@ Univ Med Center Groningen. Block randomization. CBCT for BBT at multiple time po
 협측 골결손이 5 mm 이상이어도 적절한 GBR 동반 시 즉시식립이 ARP 후 지연식립과 10년 동등한 결과 가능. 단, 술자 술기·case selection 결정적. 한 그룹의 단일센터 RCT — 일반화 주의.
 
 ## 6. Related Work
-- [[immediate-implant/slagter-2021-immediate-single-implant-provisionalization-5year]] — Groningen 그룹 5년 RCT — 동일 코호트 다른 비교
-- [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]] — facial bone wall esthetic risk SR
+- [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]] — Groningen 그룹 5년 RCT — 동일 코호트 다른 비교
+- [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]] — facial bone wall esthetic risk SR
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

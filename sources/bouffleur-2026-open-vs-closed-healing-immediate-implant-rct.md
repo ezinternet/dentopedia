@@ -33,7 +33,7 @@ Prospective RCT; n=46 patients / 48 implants (open n=25, closed n=23); 3 timepoi
 - Heidelberg context
 
 ## 6. Related Work
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — defect immediate.
+- [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — defect immediate.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions.
 
 ## 7. Glossary

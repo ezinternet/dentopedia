@@ -62,5 +62,5 @@ Clinically: when an immediate-loading protocol drives a fresh-socket implant thr
 
 ## Related Papers
 
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — SR+MA of Type 1A (immediate placement + immediate restoration); this within-patient RCT adds the surface-dependent ISQ-dip dynamics that the pooled synthesis cannot resolve.
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — SR+MA of Type 1A (immediate placement + immediate restoration); this within-patient RCT adds the surface-dependent ISQ-dip dynamics that the pooled synthesis cannot resolve.
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — IT/ISQ and immediate loading in extraction sockets; here equal IT but diverging 12-week ISQ shows secondary-stability recovery, not primary stability, separates the two surfaces.

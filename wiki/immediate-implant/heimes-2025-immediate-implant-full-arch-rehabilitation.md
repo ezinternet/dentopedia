@@ -34,5 +34,5 @@ Narrative review (Johannes Gutenberg University Mainz, Charité Berlin) evaluati
 - Medical status permitting immediate procedure
 
 ## Related Papers
-- [[immediate-implant/peitsinis-2025-implant-placement-timing-loading-protocols]] — timing and loading protocol comparison; single-tooth context
-- [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]] — ITI Type I-IV timing framework
+- [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] — timing and loading protocol comparison; single-tooth context
+- [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — ITI Type I-IV timing framework

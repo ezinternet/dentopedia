@@ -39,7 +39,7 @@ Systematic search. Inclusion: clinical trials reporting outcomes by protocol × 
 ITI Group 2 (Hamilton/Gallucci/Buser/Chen)의 site-specific placement·loading 의사결정 reference. 전치 상악은 생존율 99% 가능, 그러나 protocol 선택은 1차 안정성·bone quality·esthetic risk에 따라 case-by-case.
 
 ## 6. Related Work
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A consensus follow-up
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A consensus follow-up
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — ITI Type 1A clinical performance
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]] — anterior maxillary NMA
 

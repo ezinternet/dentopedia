@@ -95,7 +95,7 @@ Type 1A는 *주로 상악 전치부 single tooth*에서 데이터가 누적되�
 
 두 RCT가 ITI 2023 consensus 발표 이후의 핵심 update. Meijer 2024는 Hamilton 2023의 facial gap ≥2 mm criterion을 보완하는 데이터로 작용 — 결손이 있어도 적절한 GBR로 보완 가능. [claude해석]
 
-**Parvini 2023 (animal — minipig, n=56 TLX implants, 2×2 factorial, 4 and 12 weeks)** — In a controlled split-mouth minipig experiment, neither immediate loading (healing abutment, no occlusal contact) nor peri-implant gap grafting with bovine bone mineral significantly affected BIC (74.5–83.8% at 4 wk; 75.5–79.9% at 12 wk across all four groups), while soft-tissue dimensions (JE, CTC, BW) were likewise unaffected, providing histomorphometric support that both loading and gap-grafting decisions do not compromise osseointegration at tissue-level progressive-thread implants with hydrophilic SLActive® surfaces. [Animal evidence — minipig; occlusal loading not simulated; does not replace clinical RCT data] [[immediate-implant/parvini-2023-loading-grafting-immediate-implants-minipigs]]
+**Parvini 2023 (animal — minipig, n=56 TLX implants, 2×2 factorial, 4 and 12 weeks)** — In a controlled split-mouth minipig experiment, neither immediate loading (healing abutment, no occlusal contact) nor peri-implant gap grafting with bovine bone mineral significantly affected BIC (74.5–83.8% at 4 wk; 75.5–79.9% at 12 wk across all four groups), while soft-tissue dimensions (JE, CTC, BW) were likewise unaffected, providing histomorphometric support that both loading and gap-grafting decisions do not compromise osseointegration at tissue-level progressive-thread implants with hydrophilic SLActive® surfaces. [Animal evidence — minipig; occlusal loading not simulated; does not replace clinical RCT data] [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]]
 
 ---
 
@@ -191,18 +191,18 @@ Hamilton selection criteria의 *근거 근간*이 되는 페이지들이다.
 - 구치부 Type 1A는 RCT 1편 (Botros 2025)만 직접 근거 — atraumatic flapless + fully guided + ISQ ≥75 case에 한정 권고.
 
 ## Related Pages
-- [[immediate-implant/parvini-2023-loading-grafting-immediate-implants-minipigs]]
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/parvini-2023-loading-grafting-immediate-implants-minipigs]]
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]]
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]]
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]]
 - [[immediate-implant/qian-2024-anterior-maxillary-implants-placement-loading-nma]]
 - [[immediate-implant/botros-2025-early-conventional-loading-immediate-molar]]
-- [[immediate-implant/slagter-2021-immediate-single-implant-provisionalization-5year]]
+- [[immediate-implant/esthetic-soft-tissue/slagter-2021-immediate-single-implant-provisionalization-5year]]
 - [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]]
-- [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
-- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]]
-- [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]]
-- [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]]
-- [[immediate-implant/evans-2008-esthetic-outcomes-immediate-implant]]
+- [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]]
+- [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]]
+- [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]]
+- [[immediate-implant/esthetic-soft-tissue/evans-2008-esthetic-outcomes-immediate-implant]]
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 즉시식립 4변수 (flap/IP/CTG/SG) 의사결정 (자매 페이지)
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — 연조직 dehiscence 예방·관리 (자매 페이지)

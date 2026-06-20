@@ -32,7 +32,7 @@ No statistically significant difference between the three groups on primary bone
 Short-term follow-up. Site-specific (anterior maxilla) generalization to molar sockets unclear.
 
 ## 6. Related Work
-- [[immediate-implant/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
+- [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
 - [[immediate-implant/wang-2021-titanium-mesh-cgf-immediate-implantation-anterior]]
 
 ## 7. Glossary

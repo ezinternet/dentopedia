@@ -53,5 +53,5 @@ RCT, n=40 (20/group, single implant each), non-restorable mandibular molar → i
 
 ## Related Papers
 - [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] — PRF + immediate implant grafting.
-- [[immediate-implant/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] — platelet concentrate(CGF) IIP RCT.
+- [[immediate-implant/esthetic-soft-tissue/bajaj-2025-cgf-enriched-bone-graft-iipp-rct]] — platelet concentrate(CGF) IIP RCT.
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — gap grafting material 선택.

@@ -46,7 +46,7 @@ Case letter presenting the Five Thread Guideline (5-TG) — engaging ≥5 implan
 - Guideline is clinician-derived, not yet validated in prospective studies
 
 ## 6. Related Work
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — immediate implant outcomes
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — immediate implant outcomes
 - [[implants/allurkar-2025-implant-stability-residual-bone-macrodesign]] — primary stability factors
 - [[implants/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — ISQ in fresh sockets
 

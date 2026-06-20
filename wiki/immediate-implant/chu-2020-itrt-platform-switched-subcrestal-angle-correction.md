@@ -32,5 +32,5 @@ Favorable soft-tissue stability and esthetic outcomes with the test implant. Red
 Industry-aligned implant; not a true RCT; medium-term follow-up.
 
 ## Related Papers
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]]
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]

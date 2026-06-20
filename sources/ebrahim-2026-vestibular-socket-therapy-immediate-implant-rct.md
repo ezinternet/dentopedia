@@ -41,7 +41,7 @@ RCT; n=20 환자/20 implants (각 군 10, 단일 비구치 상악, Elian Type II
 - Pericardium 빠른 흡수(4-5주) — space maintenance 제한 가능
 
 ## 6. Related Work
-- [[immediate-implant/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — midfacial soft tissue, immediate implant.
+- [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — midfacial soft tissue, immediate implant.
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — gap grafting material 선택.
 
 ## 7. Glossary

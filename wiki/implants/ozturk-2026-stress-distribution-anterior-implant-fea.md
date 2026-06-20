@@ -33,4 +33,4 @@ Pre-publication version (article in press); FEA idealizations; not clinical outc
 
 ## Related Papers
 - [[implants/baki-2025-all-on-4-trefoil-five-implant-fea]]
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]

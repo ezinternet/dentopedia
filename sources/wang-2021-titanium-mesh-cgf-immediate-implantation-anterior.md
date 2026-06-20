@@ -32,7 +32,7 @@ Acceptable bone regeneration on buccal aspect; gingival contour broadly maintain
 Short follow-up; non-comparative; CGF preparation operator-dependent.
 
 ## 6. Related Work
-- [[immediate-implant/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
+- [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
 - [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
 
 ## 7. Glossary

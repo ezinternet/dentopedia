@@ -33,5 +33,5 @@ Cross-sectional; phenotype assessment partially subjective.
 
 ## Related Papers
 - [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
 - [[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]

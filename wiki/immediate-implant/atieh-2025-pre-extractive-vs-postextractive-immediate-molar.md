@@ -98,4 +98,4 @@ Four RCTs (82 participants, 82 implants; 41 per group) met inclusion criteria fr
 - [[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]] — alternative inter-radicular strategy using osseodensification for mandibular molar IIP; complements pre-extractive approach
 - [[immediate-implant/bassir-2019-early-implant-placement-protocols-sr-ma]] — SR+MA of IIP timing protocols providing broader survival context
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — biological rationale for socket management after IIP
-- [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — another socket management strategy for IIP; buccal bone preservation comparison
+- [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — another socket management strategy for IIP; buccal bone preservation comparison

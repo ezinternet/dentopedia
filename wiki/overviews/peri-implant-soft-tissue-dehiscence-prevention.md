@@ -231,14 +231,14 @@ Causal chain: Thin facial bone wall → 발치 후 bundle bone 흡수 → 협측
 ## Related Pages
 - [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]]
 - [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]]
-- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
-- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
+- [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]
+- [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]]
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]]
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
 - [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]]
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]]
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
 - [[implants/caggiano-2022-smoking-cessation-periodontal-peri-implant-sr]]
-- [[immediate-implant/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
+- [[immediate-implant/esthetic-soft-tissue/martins-2024-facial-bone-wall-immediate-implant-esthetic]]
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — Type 1A 적응증 (자매 페이지)
 - [[overviews/cosyn-immediate-implant-4-bundle-decision]] — 4변수 술식 의사결정 (자매 페이지)

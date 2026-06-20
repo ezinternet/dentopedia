@@ -57,5 +57,5 @@ PRISMA-compliant systematic review + meta-analysis of **49 studies, 12,056 patie
 
 ## Related Papers
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — sinus augmentation for posterior maxilla type IV bone
-- [[immediate-implant/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — immediate placement in type IV bone: higher risk context
+- [[immediate-implant/esthetic-soft-tissue/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — immediate placement in type IV bone: higher risk context
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — ISQ measurement by bone type

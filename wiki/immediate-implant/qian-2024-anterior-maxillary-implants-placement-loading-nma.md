@@ -33,7 +33,7 @@ PRISMA-NMA. Bayesian/frequentist NMA framework. SUCRA ranking. Risk of bias.
 상악 전치부 단일치에서 timing 결정 시 NMA 근거: 일반적으로 type 2/3 + conventional/early loading이 안전; type 1A는 ITI Hamilton 2023 selection criteria 충족 시 적용.
 
 ## Related Papers
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A selection criteria
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI Type 1A selection criteria
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — Type 1A clinical performance
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific timing SR
 

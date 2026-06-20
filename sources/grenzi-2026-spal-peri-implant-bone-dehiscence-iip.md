@@ -33,7 +33,7 @@ Case-level evidence (n=2); operator skill demanding.
 
 ## 6. Related Work
 - [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
-- [[immediate-implant/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
+- [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

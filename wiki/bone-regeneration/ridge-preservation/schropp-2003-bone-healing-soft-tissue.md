@@ -42,5 +42,5 @@ Schropp et al. (2003, Int J Periodontics Restorative Dent) is the foundational 1
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — pooled benchmark update.
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — dog model mechanism.
 - [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — SR confirmation.
-- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — esthetic-zone CBCT mapping.
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — esthetic-zone CBCT mapping.
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — intervention side.

@@ -47,4 +47,4 @@ This Periodontology 2000 review by Jung and the Zürich group reframes the post-
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — pooled unassisted socket healing data
 - [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] — critical re-examination of when ARP is justified
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — dog-model biological basis
-- [[immediate-implant/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] — buccal phenotype and esthetic risk
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] — buccal phenotype and esthetic risk

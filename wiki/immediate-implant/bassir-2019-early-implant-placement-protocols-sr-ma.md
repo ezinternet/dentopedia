@@ -45,5 +45,5 @@ This systematic review and meta-analysis (12 studies) compared early implant pla
 ## Related Papers
 
 - [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]] — reinforces: immediate placement's hard-tissue/esthetic penalty
-- [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]] — when immediate/early/late decision framework
-- [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]] — esthetic outcomes by timing
+- [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — when immediate/early/late decision framework
+- [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] — esthetic outcomes by timing

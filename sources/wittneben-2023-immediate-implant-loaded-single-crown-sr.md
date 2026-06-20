@@ -36,8 +36,8 @@ source_collection: external
 연구 이질성; 맹검 결여.
 
 ## 6. Related Work
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
-- [[immediate-implant/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
 
 ## 7. Glossary
 ISQ: Implant Stability Quotient 임플란트안정성지수; PES: Pink Esthetic Score; MBL: Marginal Bone Loss 변연골소실

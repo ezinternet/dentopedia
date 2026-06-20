@@ -48,5 +48,5 @@ tags: [buccal-resorption, alveolar-crest, ridge-remodeling, study-model, single-
 
 ## Related Papers
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — bundle bone 흡수 생물학적 기전
-- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 3D CBCT 중앙부 위험 구역 확인
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 3D CBCT 중앙부 위험 구역 확인
 - [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — 보존술 술식 근거

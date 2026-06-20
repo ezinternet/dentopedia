@@ -36,7 +36,7 @@ PRISMA. PubMed/Cochrane/Embase etc. Risk of bias assessed. Random-effects meta-a
 
 ## 6. Related Work
 - [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — 감염치 IIP retrospective
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — endodontic infection이 selection criteria에 미치는 영향
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — endodontic infection이 selection criteria에 미치는 영향
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

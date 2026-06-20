@@ -44,5 +44,5 @@ Couso-Queiruga et al. (2021, J Clin Periodontol) is a PRISMA-compliant systemati
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — original dog model.
 - [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — intervention side.
 - [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — earlier SR.
-- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — esthetic-zone CBCT.
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — esthetic-zone CBCT.
 - [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane comparator.

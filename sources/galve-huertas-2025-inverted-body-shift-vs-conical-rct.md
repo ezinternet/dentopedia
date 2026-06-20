@@ -15,7 +15,7 @@ text_filename: galve-huertas-2025-inverted-body-shift-vs-conical-rct.txt
 
 ## Why Ingested
 
-This RCT fills the quantitative gap left by the sparse [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] entry (DOI: medoral.27220) and the pilot-only evidence in [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]]. Full-text retrieval from PMC provides complete ISQ/IT values, CBCT-volumetric bone remodeling data (horizontal at 1/3/5mm, vertical buccal/palatal), and PES aesthetic outcomes for both the Inverta co-axis 12° and conventional conical implant — enabling direct synthesis with ISQ-based loading decision literature.
+This RCT fills the quantitative gap left by the sparse [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] entry (DOI: medoral.27220) and the pilot-only evidence in [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]. Full-text retrieval from PMC provides complete ISQ/IT values, CBCT-volumetric bone remodeling data (horizontal at 1/3/5mm, vertical buccal/palatal), and PES aesthetic outcomes for both the Inverta co-axis 12° and conventional conical implant — enabling direct synthesis with ISQ-based loading decision literature.
 
 ## One-line Summary
 
@@ -117,9 +117,9 @@ RCT (n=30, 1-year) comparing inverted body-shift (co-axis 12°) vs conventional 
 
 ## 6. Related Work
 
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]] — pilot study establishing proof-of-concept for same inverted design (n=12, single arm)
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]] — pilot study establishing proof-of-concept for same inverted design (n=12, single arm)
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — companion RCT by same group (DOI: medoral.27220; sparse content)
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]] — macro-hybrid implant outcomes in anterior IIP
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]] — macro-hybrid implant outcomes in anterior IIP
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — IT/ISQ benchmarks for immediate loading in extraction sockets
 
 ## 7. Glossary

@@ -65,6 +65,6 @@ No equivalence claim made (underpowered for that endpoint). *abstract-only — a
 
 ## Related Papers
 
-- [[immediate-implant/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — retrospective study on soft tissue outcomes in immediately provisionalized implants; this RCT provides prospective/randomized evidence in same clinical context
-- [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — SR+MA on esthetic outcomes of immediate implant provisionalization in the maxillary esthetic zone; contextualizes this RCT within broader literature
-- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — NMA on soft tissue grafting adjuncts in immediate implants; complements neck-design findings on soft tissue outcomes
+- [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — retrospective study on soft tissue outcomes in immediately provisionalized implants; this RCT provides prospective/randomized evidence in same clinical context
+- [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — SR+MA on esthetic outcomes of immediate implant provisionalization in the maxillary esthetic zone; contextualizes this RCT within broader literature
+- [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — NMA on soft tissue grafting adjuncts in immediate implants; complements neck-design findings on soft tissue outcomes

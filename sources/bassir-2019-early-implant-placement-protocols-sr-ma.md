@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-식립 시점 프로토콜 비교에서 **조기식립(early placement)**이 즉시·지연 식립 대비 실패율은 동등하면서 주위 경조직 안정성에서 즉시식립보다 우수한지에 대한 정량 근거. 즉시 vs 지연을 다룬 [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]]과 [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]]의 의사결정 틀에 early arm을 정량적으로 보강한다.
+식립 시점 프로토콜 비교에서 **조기식립(early placement)**이 즉시·지연 식립 대비 실패율은 동등하면서 주위 경조직 안정성에서 즉시식립보다 우수한지에 대한 정량 근거. 즉시 vs 지연을 다룬 [[immediate-implant/tonetti-2017-immediate-vs-delayed-implant-timing-rct]]과 [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]]의 의사결정 틀에 early arm을 정량적으로 보강한다.
 
 ## One-line Summary
 

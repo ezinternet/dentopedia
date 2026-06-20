@@ -46,7 +46,7 @@ This EAO consensus report (Working Group 2, 6th Consensus Conference) synthesize
 
 ## Related Papers
 
-- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — reinforces: CTG reduces midfacial recession at immediate implants
-- [[immediate-implant/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — RCT consistent with the consensus
-- [[immediate-implant/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — CTG vs collagen matrix vs no graft
-- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — network ranking of grafting strategies
+- [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — reinforces: CTG reduces midfacial recession at immediate implants
+- [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — RCT consistent with the consensus
+- [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] — CTG vs collagen matrix vs no graft
+- [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — network ranking of grafting strategies

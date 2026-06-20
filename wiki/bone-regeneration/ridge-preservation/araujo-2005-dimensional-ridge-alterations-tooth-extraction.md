@@ -47,7 +47,7 @@ Dog histology landmark paper: buccal resorption exceeds lingual after extraction
 - 박벽형에서 Phase 1 손실이 더욱 심각
 
 ## Related Papers
-- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 인간에서 3D CBCT로 확인 (박벽형 7.5mm 소실)
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 인간에서 3D CBCT로 확인 (박벽형 7.5mm 소실)
 - [[immediate-implant/covani-2010-alveolar-ridge-remodelling-single-tooth]] — 임상 순측 골소실 패턴 확인
 - [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — 보존술 근거 리뷰
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — ITI 식립 타이밍 권고 근거로 인용

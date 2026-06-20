@@ -33,5 +33,5 @@ Heterogeneity in measurement levels (crest vs apex). CBCT voxel size variability
 
 ## Related Papers
 - [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
 - [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]]

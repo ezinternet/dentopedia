@@ -40,7 +40,7 @@ Systematic search per AO/AAP standards. 221 eligible studies included. Mixed-eff
 
 ## 6. Related Work
 - [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — soft tissue augmentation 효과 SR+MA
-- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG가 dehiscence 예방에 어떻게 작용하는지
+- [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG가 dehiscence 예방에 어떻게 작용하는지
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 guideline
 
 ## 7. Limitations and Future Work

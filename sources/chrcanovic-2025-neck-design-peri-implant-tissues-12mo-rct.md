@@ -17,7 +17,7 @@ relations:
 
 ## Why Ingested
 
-즉시식립(Immediate Implant Placement) 시 임플란트 넥 디자인(삼각형 vs 원형) × 변연골소실(Marginal Bone Loss, MBL)/연조직 결과 12개월 RCT. [[immediate-implant/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] + [[implants/]] 교차 근거.
+즉시식립(Immediate Implant Placement) 시 임플란트 넥 디자인(삼각형 vs 원형) × 변연골소실(Marginal Bone Loss, MBL)/연조직 결과 12개월 RCT. [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]] + [[implants/]] 교차 근거.
 
 ## One-line Summary
 

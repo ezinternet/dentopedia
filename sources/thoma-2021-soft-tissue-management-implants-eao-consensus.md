@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-임플란트 연조직 증대(soft tissue augmentation)의 시점·재료(자가이식 vs 대체재)별 효과에 대한 EAO 합의문 — 즉시식립 심미부 권고의 상위 근거. 단일 RCT인 [[immediate-implant/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]]·[[immediate-implant/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]]와 SR인 [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]를 합의 권고 수준으로 묶는다.
+임플란트 연조직 증대(soft tissue augmentation)의 시점·재료(자가이식 vs 대체재)별 효과에 대한 EAO 합의문 — 즉시식립 심미부 권고의 상위 근거. 단일 RCT인 [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]]·[[immediate-implant/esthetic-soft-tissue/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective]]와 SR인 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]를 합의 권고 수준으로 묶는다.
 
 ## One-line Summary
 

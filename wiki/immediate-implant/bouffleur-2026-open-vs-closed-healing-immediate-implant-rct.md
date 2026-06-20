@@ -47,7 +47,7 @@ Prospective RCT; randomized 1:1; 3 assessment timepoints; primary PES; secondary
 For Korean immediate implant aesthetic-zone cases: open healing protocol is supported as the PES-superior choice when wound closure permits. For cases with thin biotype, gap distance, or expected significant volumetric resorption, closed healing may still be defensible for biologic reasons not addressed by PES alone.
 
 ## Related Papers
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — defect immediate.
+- [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — defect immediate.
 - [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — periapical immediate.
 - [[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]] — periodontitis immediate.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.

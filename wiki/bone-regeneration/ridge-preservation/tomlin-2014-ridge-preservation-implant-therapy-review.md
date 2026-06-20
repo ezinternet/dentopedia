@@ -48,5 +48,5 @@ tags: [ridge-preservation, socket-grafting, bone-graft, barrier-membrane, horizo
 
 ## Related Papers
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 순측골 흡수 2단계 기전
-- [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 박벽형 3D 골소실 데이터
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 박벽형 3D 골소실 데이터
 - [[immediate-implant/covani-2010-alveolar-ridge-remodelling-single-tooth]] — 순측 중앙부 집중 흡수 패턴

@@ -59,7 +59,7 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 | [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] | sr (4 CCT, MA 불가) | — | Maxillary full-arch fixed | 즉시 vs 조기/통상 만족도·유지관리 합병증 차이 **약한 근거뿐** | sr |
 | [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] | sr+ma (11 생존/7 MBL) | — | Atrophic edentulous maxilla (immediately loaded) | tilted=axial 3y 생존(RR 1.00, 0.98–1.01)·MBL(MD −0.02, −0.09~0.06) | sr+ma |
 | [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] | rct (24 mo, multicenter) | — | Single median mandibular implant overdenture | **즉시부하 비열등성 입증 실패**: 조기실패 9건(전부 <3개월) vs 지연 1건 | rct |
-| [[immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] | prospective case series | 30 (상악 심미부) | Immediate placement + provisionalization (digital) | 생존 90%(조기실패 3), PES+WES 15.4/20, MBL −0.18(M)/−0.44(D) mm, 만족도 9.2/10 | prospective |
+| [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] | prospective case series | 30 (상악 심미부) | Immediate placement + provisionalization (digital) | 생존 90%(조기실패 3), PES+WES 15.4/20, MBL −0.18(M)/−0.44(D) mm, 만족도 9.2/10 | prospective |
 | [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] | sr+ma (14 studies, 21 cohort groups; 3 RCTs for MA) | 502 DPIL / 476 DPDL implants | Multiple-unit FDP (≥2 implants) | DPIL 97.2% vs DPDL 98.1% survival — **no significant difference** (p=.227); IPIL only protocol below 90% (90%); MBL numerically lower in DPIL (0.71 vs 1.68 mm) but between-study only; GRADE **very low** for all comparisons | sr+ma |
 
 ## Clinical Decision Points
@@ -90,7 +90,7 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — 상악 full-arch 즉시부하 SR
 - [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — 위축 상악 tilted/axial 즉시부하 SR+MA
 - [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] — 단일 정중 임플란트 즉시부하 비열등성 RCT (반례)
-- [[immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — 디지털 즉시식립+즉시 임시보철 prospective
+- [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — 디지털 즉시식립+즉시 임시보철 prospective
 - [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — 다수 임플란트 지지 고정성 국소의치 로딩 타이밍 SR+MA (ITI S5 동반 논문)
 
 ## Related Overviews

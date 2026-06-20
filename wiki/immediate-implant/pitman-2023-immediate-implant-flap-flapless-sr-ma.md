@@ -33,9 +33,9 @@ PRISMA. Two reviewers. RoB Cochrane. Random-effects meta-analysis.
 단일 IIP에서 flapless가 가능한 case (intact buccal plate, good keratinized tissue)에서는 협측 골·연조직 보존 우위. Flap이 필요한 결손 case에서는 GBR과 함께 시행. Cosyn 시리즈 (4편)의 한 부분.
 
 ## Related Papers
-- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — Cosyn 시리즈 — CTG
+- [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — Cosyn 시리즈 — CTG
 - [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
 - [[immediate-implant/mansouri-2025-flapless-immediate-implant-bone-grafting-sr-ma]] — flapless + 골이식 SR+MA
 
 ## Sources

@@ -54,4 +54,4 @@ Systematic review and meta-analysis of RCTs comparing alveolar ridge preservatio
 - [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — review: no single superior technique
 - [[bone-regeneration/ridge-preservation/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] — 2024 SR+MA; bone mineral + collagen membrane; trend but NS
 - [[bone-regeneration/ridge-preservation/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] — socket seal surgery in esthetic zone
-- [[immediate-implant/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] — biology of post-extraction resorption
+- [[immediate-implant/esthetic-soft-tissue/chappuis-2017-dimensional-bone-soft-tissue-post-extraction]] — biology of post-extraction resorption

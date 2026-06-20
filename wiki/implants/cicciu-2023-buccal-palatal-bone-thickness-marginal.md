@@ -32,5 +32,5 @@ Mean buccal thickness 2.42 ± 0.64 mm at T0 → 1.92 ± 0.71 mm at T1 (p=0.000).
 Submerged healing only (no functional loading); 3-month follow-up; manual probe measurements with 0.5 mm precision.
 
 ## Related Papers
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
 - [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]

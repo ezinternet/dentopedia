@@ -35,7 +35,7 @@ RCT (n=31): 즉시식립 시 customized healing abutment (CHA) vs PTFE 차폐막
 즉시식립 + CHA 사용 시 유두 보존 유리. 단, n=31의 소규모로 일반화 제한. 'socket sealing abutment' 개념의 직접 임상 비교 RCT.
 
 ## Related Papers
-- [[immediate-implant/elgendi-2025-peri-implant-soft-tissue-conditioning]] — 구치부 CAD-CAM SSA RCT — 같은 컨셉
+- [[immediate-implant/esthetic-soft-tissue/elgendi-2025-peri-implant-soft-tissue-conditioning]] — 구치부 CAD-CAM SSA RCT — 같은 컨셉
 
 ## Sources
 - Source: 

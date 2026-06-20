@@ -39,7 +39,7 @@ Postgraduate Periodontics Clinic, LSU. Randomization to immediate vs early (3-we
 
 ## 6. Related Work
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — implant survival epidemiology context
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate placement+loading evidence
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate placement+loading evidence
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

@@ -32,6 +32,6 @@ Comparable survival between arms; design-specific differences in trajectory cont
 1-year follow-up; industry-aligned implant; single-site team.
 
 ## Related Papers
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]]
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-전치/소구치 단일치 발치 후 즉시식립(IMI) vs 12주 지연식립을 직접 비교한 대표적 다기관 RCT. 즉시식립의 심미·합병증 위험을 정량화해 [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]] 의사결정 narrative와 [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]] 심미 결과를 1차 RCT 근거로 보강한다.
+전치/소구치 단일치 발치 후 즉시식립(IMI) vs 12주 지연식립을 직접 비교한 대표적 다기관 RCT. 즉시식립의 심미·합병증 위험을 정량화해 [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] 의사결정 narrative와 [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] 심미 결과를 1차 RCT 근거로 보강한다.
 
 ## One-line Summary
 

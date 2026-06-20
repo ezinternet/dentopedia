@@ -32,8 +32,8 @@ Favorable soft-tissue stability and esthetic outcomes with the test implant. Red
 Industry-aligned implant; not a true RCT; medium-term follow-up.
 
 ## 6. Related Work
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]]
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

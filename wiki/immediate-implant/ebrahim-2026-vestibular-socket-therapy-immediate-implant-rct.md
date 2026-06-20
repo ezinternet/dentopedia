@@ -53,6 +53,6 @@ Implant 실패 2건(각 군 1), membrane exposure·감염 없음.
 상악 전치부 심미 영역 Type II socket 즉시 식립에서, 동일 graft/membrane 조건이면 VST(vestibular tunnel)가 open-flap GBR 대비 papilla 보존에 유리하다 [claude해석]. 단 골 두께·높이는 동등하므로 facial plate 결손이 크고 space maintenance가 관건인 케이스에선 느린 흡수성 차폐막(또는 cortical lamina 원법 VST)이 더 합리적일 수 있다. n=20·6개월 근거라 임상 적용은 잠정적.
 
 ## Related Papers
-- [[immediate-implant/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — midfacial soft tissue volume, immediate implant.
+- [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]] — midfacial soft tissue volume, immediate implant.
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — gap grafting material 선택.
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — soft tissue dehiscence 예방.

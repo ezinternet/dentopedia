@@ -46,6 +46,6 @@ The "timing" RCT randomized 124 subjects to immediate (at-extraction) or delayed
 
 ## Related Papers
 
-- [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]] — reinforces: when immediate/early/late decision framework
-- [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]] — esthetic outcomes by placement timing
+- [[immediate-implant/esthetic-soft-tissue/buser-2017-implant-placement-timing-post-extraction-esthetic]] — reinforces: when immediate/early/late decision framework
+- [[immediate-implant/esthetic-soft-tissue/chen-2014-esthetic-outcomes-immediate-early-implant]] — esthetic outcomes by placement timing
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — contemporary view of placement timing

@@ -37,7 +37,7 @@ Non-invasive quantitative ISQ (RFA, DCA) at multiple time points. 6-week (G1, n=
 구치부 단일치 즉시식립에서 atraumatic flapless + 가이드 수술 + 적절한 1차 안정성 확보 시 6주 조기 부하가 임상적으로 안전. 환자 치료기간 단축. 단, 표본 작고 추적 짧음.
 
 ## 6. Related Work
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate loading evidence
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — Type 1A immediate loading evidence
 - [[immediate-implant/zhou-2021-placement-loading-protocols-single-implants-sr]] — site-specific loading protocols SR
 
 ## 7. Limitations and Future Work

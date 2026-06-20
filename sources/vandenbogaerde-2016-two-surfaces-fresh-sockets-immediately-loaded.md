@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립+즉시부하 시나리오에서 임플란트 표면(rough/hydrophilic vs minimally rough)이 secondary stability 회복 속도를 좌우하는지에 대한 직접 within-patient 비교 근거. 기존 [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] (Type 1A 프로토콜 SR+MA)가 immediate placement+loading의 가능성을 종합하지만 표면별 stability dip 동역학을 보여주지 못하는 점을 보완하고, [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] (IT·ISQ와 즉시부하)의 baseline-stability 논의를 12주 ISQ trajectory로 확장한다.
+즉시식립+즉시부하 시나리오에서 임플란트 표면(rough/hydrophilic vs minimally rough)이 secondary stability 회복 속도를 좌우하는지에 대한 직접 within-patient 비교 근거. 기존 [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] (Type 1A 프로토콜 SR+MA)가 immediate placement+loading의 가능성을 종합하지만 표면별 stability dip 동역학을 보여주지 못하는 점을 보완하고, [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] (IT·ISQ와 즉시부하)의 baseline-stability 논의를 12주 ISQ trajectory로 확장한다.
 
 ## One-line Summary
 

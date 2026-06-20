@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 [[wiki/overviews/implant-loading-protocol-prosthesis-type-overview]]의 즉시부하 vs 지연부하 (Immediate Loading vs Delayed Loading) 결론이 single-tooth 심미영역에서 5년 장기 데이터로 지지되는지 확인이 필요했다. 본 RCT (Gjelvold 2021)는 상악 심미영역 단일치 50명을 5년 추적하며 생존율·변연골소실(MBL)·papilla index·PES/WES를 직접 비교해, [[wiki/immediate-implant/samet-2023-immediate-placement-loading-esthetic-zone]] 및 [[wiki/immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]의 즉시부하 심미 안전성 주장을 장기 근거로 보강한다.
+기존 [[wiki/overviews/implant-loading-protocol-prosthesis-type-overview]]의 즉시부하 vs 지연부하 (Immediate Loading vs Delayed Loading) 결론이 single-tooth 심미영역에서 5년 장기 데이터로 지지되는지 확인이 필요했다. 본 RCT (Gjelvold 2021)는 상악 심미영역 단일치 50명을 5년 추적하며 생존율·변연골소실(MBL)·papilla index·PES/WES를 직접 비교해, [[wiki/immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] 및 [[wiki/immediate-implant/esposito-2015-immediate-loading-vs-delayed-anterior-rct]]의 즉시부하 심미 안전성 주장을 장기 근거로 보강한다.
 
 ## One-line Summary
 

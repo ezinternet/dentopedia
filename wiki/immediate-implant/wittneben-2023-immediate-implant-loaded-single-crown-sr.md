@@ -31,5 +31,5 @@ Systematic literature search + qualitative synthesis.
 Immediately placed and loaded implants: excellent survival and acceptable bone/soft tissue outcomes. ISQ ≥70 and insertion torque ≥35 N·cm recommended for immediate loading.
 
 ## Related Papers
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
-- [[immediate-implant/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related

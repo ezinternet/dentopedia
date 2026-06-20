@@ -101,7 +101,7 @@ No significant associations between PES and any mechanical/dimensional parameter
 
 ## Related Papers
 
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]] — pilot (n=12, single-arm) establishing proof-of-concept for the same Inverta co-axis 12° design; this RCT is the powered confirmatory follow-up
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]] — pilot (n=12, single-arm) establishing proof-of-concept for the same Inverta co-axis 12° design; this RCT is the powered confirmatory follow-up
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — companion RCT by same group (DOI: medoral.27220); closely related trial by same team
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]] — macro-hybrid implant in anterior IIP; contextualizes the "body-shift" design category
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]] — macro-hybrid implant in anterior IIP; contextualizes the "body-shift" design category
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — IT/ISQ thresholds for immediate loading in extraction sockets; ISQ ≥62 threshold consistent with this study's provisionalization cut-off
