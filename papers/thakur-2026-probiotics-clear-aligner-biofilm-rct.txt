@@ -1,0 +1,15 @@
+Antimicrobial effects of four different probiotic compositions and delivery forms on clear aligner biofilm: A randomized single-blind crossover trial.
+
+Authors: Thakur V, Juneja A, Raza M, Mehra P, Jacob AT, Shahi PK
+Journal: Journal of the World Federation of Orthodontists 2026;15(3):249-257
+PMID 41548998 | DOI 10.1016/j.ejwf.2025.12.001 | CTRI/2024/08/072820
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+OBJECTIVE: To evaluate the short-term antimicrobial effects of consumer probiotic formulations on bacterial load and biofilm accumulation on clear orthodontic aligners using a randomized four-period crossover design.
+
+MATERIALS AND METHODS: Twenty Invisalign users completed four 7-day intervention periods separated by 14-day washouts. Interventions comprised: (1) probiotic gummy (Bonatona; Bacillus coagulans, 1.5 × 10^9 CFU/dose), (2) probiotic rinse (Perfora; proprietary multi-strain blend, 1.5 × 10^9 CFU/10 mL), (3) probiotic capsule (HealthKart; multi-strain, 3.0 × 10^10 CFU/dose), and (4) probiotic drink (Yakult Original; Lacticaseibacillus paracasei Shirota, ~6.5 × 10^9 CFU/65 mL). Products were used as labelled. No independent verification of strain identity or viability was undertaken. After each period, 5-mm discs from standardized aligner sites were analysed for total viable counts (CFU/mL) and for biofilm matrix (EPS) and viability using confocal laser scanning microscopy (CLSM) with Concanavalin A staining. Primary analysis used linear mixed-effects models with treatment, period, and sequence as fixed effects and subject as a random intercept. Least-squares means (95% CI) and Bonferroni-adjusted contrasts are reported.
+
+RESULTS: All four probiotic delivery forms produced significant reductions in total viable counts and EPS fluorescence compared with pre-intervention controls (P < 0.001). CFU reductions ranged from 0.62-1.06 log10 (mean reduction 3.8-4.3 × 10^3 CFU/mL), with the probiotic drink showing the largest decrease (LS-mean difference vs. baseline = 1.055 log10 CFU; 95% CI: 0.93-1.18; P < 0.001). Similar reductions were observed in CLSM fluorescence (mean differences 93-145 AU; all P < 0.001).
+
+CONCLUSIONS: Short-term use of consumer probiotics delivered as a drink, rinse, gummy, or capsule, demonstrated statistically significant antimicrobial reductions in aligner biofilm. The probiotic drink yielded the greatest effect. Given the short intervention duration and label-only verification of probiotic content, these findings should be interpreted as preliminary. Larger, species-resolved studies with longer follow-up and comparison against routine mechanical cleaning are needed before clinical recommendations can be established.
