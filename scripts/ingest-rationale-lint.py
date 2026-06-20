@@ -29,16 +29,36 @@ import os
 import re
 import sys
 import argparse
+import subprocess
 from datetime import date, datetime
 
 WIKI_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCES_DIR = os.path.join(WIKI_ROOT, "sources")
 LOGS_DIR = os.path.join(WIKI_ROOT, "logs")
 
-# Cutoff: sources with mtime >= this date are subject to the rule.
+# Cutoff: sources whose git FIRST-ADD date >= this date are subject to the rule.
 # Older sources are grandfathered (no backfill — see agenda).
+# NB: uses git first-add date, NOT filesystem mtime — bulk edits (e.g. category
+# re-organization) bump mtime on old grandfathered pages and would otherwise
+# re-flag them falsely. Same anti-mtime principle as overview-thesis-staleness.py.
 CUTOFF_DATE = date(2026, 5, 27)
 CUTOFF_TS = datetime.combine(CUTOFF_DATE, datetime.min.time()).timestamp()
+
+
+def ingest_ts(path: str) -> float:
+    """Unix ts of the commit that first ADDED this source (grandfather proxy).
+    Falls back to filesystem mtime if the file is untracked or git is unavailable."""
+    try:
+        out = subprocess.run(
+            ["git", "log", "--diff-filter=A", "--follow", "--format=%at", "--", path],
+            cwd=WIKI_ROOT, capture_output=True, text=True, timeout=15,
+        )
+        stamps = [l for l in out.stdout.split("\n") if l.strip()]
+        if stamps:
+            return float(stamps[-1])  # last line = earliest (first add)
+    except Exception:
+        pass
+    return os.path.getmtime(path)
 
 WHY_HEADER_RE = re.compile(r"^##\s+Why Ingested\s*$", re.MULTILINE)
 WIKILINK_RE = re.compile(r"\[\[[^\]]+\]\]")
@@ -99,8 +119,7 @@ def main() -> int:
         if not fname.endswith(".md"):
             continue
         path = os.path.join(SOURCES_DIR, fname)
-        mtime = os.path.getmtime(path)
-        if mtime < CUTOFF_TS:
+        if ingest_ts(path) < CUTOFF_TS:
             skipped += 1
             continue
         checked += 1
@@ -111,7 +130,7 @@ def main() -> int:
 
     lines = [
         f"# Ingest Rationale Lint — {today}",
-        f"CUTOFF: {CUTOFF_DATE.isoformat()} (sources mtime ≥ this date are checked)",
+        f"CUTOFF: {CUTOFF_DATE.isoformat()} (sources whose git first-add date ≥ this are checked)",
         f"GRANDFATHERED (skipped): {skipped}",
         f"CHECKED               : {checked}",
         f"ERRORS                : {len(errors)}",
