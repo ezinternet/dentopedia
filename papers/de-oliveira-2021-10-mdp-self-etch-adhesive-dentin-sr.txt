@@ -1,0 +1,17 @@
+Does Addition of 10-MDP Monomer in Self-etch Adhesive Systems Improve the Clinical Performance of Noncarious Cervical Lesion Restorations? A Systematic Review and Meta-analysis.
+
+Authors: de Oliveira RP, Baia J, da Silva T, Magno MB, Maia LC, Loretto SC, da Silva E Souza MH
+Journal: Oper Dent 2021
+PMID 35486508 | DOI 10.2341/20-053-LIT
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Functional acidic monomers are able to chemically interact with hydroxyapatite, and this bond appears to be very stable. Therefore, this aspect of the 10-MDP molecule made it attractive and added to self-etch adhesives.
+
+The objective of this Systematic Review (SR) and Meta-analysis (MA) was to determine whether systems with the 10-methacryloyloxydecyl dihydrogen phosphate (10-MDP) functional monomer in their formula showed better clinical performance in restorations placed in noncarious cervical lesions (NCCL) when compared to systems without it. The PROSPERO registration number of the MA is CRD42016050538.
+
+An e-search was conducted through MEDLINE via PubMed, Cochrane Library, Scopus, Web of Science, OpenGrey, Clinical Trials, Current Controlled Trials, and EU Clinical Trials Register, and a search through the references of included studies was also performed. Randomized Controlled Clinical Trials, in which the effectiveness of self-etch adhesive systems, with or without the 10-MDP functional monomer for NCCL, was discussed, were included. Risk of bias was performed according to the Cochrane Collaboration tool, and the certainty of evidence was evaluated through GRADE.
+
+The data were grouped, heterogeneity (I2) was tested, and after duplicate removal, 4208 manuscripts were retrieved. From these, 11 studies were included in the qualitative analysis (risk of bias), with nine classified as low risk and two unclear. GRADE analysis detected moderate-to-high certainty of evidence, so the quantitative synthesis [Meta-analysis (MA)] was performed including the 11 studies.
+
+There were no statistical differences in the clinical performance of restorations conducted using "with or without 10-MDP" adhesive types, for all evaluated criteria (p=0.05), with heterogeneity ranging from 0% to 53%. Thus, the presence of 10-MDP functional monomer did not influence the clinical performance of restorations placed in NCCL.
