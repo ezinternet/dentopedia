@@ -1,0 +1,19 @@
+Influence of buccal emergence profile designs on peri-implant tissues: A randomized controlled trial.
+
+Authors: Wang J, Tang Y, Qiu L, Yu H
+Journal: Clin Implant Dent Relat Res 2022
+PMID 35389559 | DOI 10.1111/cid.13088
+
+NOTE: abstract-only — full text not retrieved. Content below is the PubMed abstract.
+
+The prosthetic emergence profile design might be an important factor in postsurgical mucosal recession etiology. Therefore, a restorative buccal emergence profile designed correctly might reduce gingival margin recession.
+
+To compare the marginal gingival level and the width/height (W/H) ratio between two profile configurations of single implant-supported restorations at molar sites.
+
+Twenty-one patients requiring a single mandibular molar tooth replacement with supracrestal mucosal thickness ≥2 mm were recruited and randomly assigned to a prosthesis buccal emergence profile design based on the buccal mucosal W/H ratio (Test Group) or maintained the original emergence profile of the healing abutment (Control Group). Assessments were made before delivery of the definitive restoration (T0), at prosthesis placement (T1), one (T2), and 12 (T3) months after loading. The gingival margin level change (△GM), initial emergence angle, buccal mucosal W/H ratio, marginal bone loss (MBL), implant failure, and complications were assessed.
+
+The gingival recession in the test group (0.13 ± 0.32 mm) was significantly lower than in the control group (0.63 ± 0.38 mm) at T3 (p = 0.006). The initial emergence angle in the test group (31.4 ± 7.22 degrees) was significantly lower than the control group (40.0 ± 7.60 degrees) (p = 0.025). The W/H ratio in the test group at T2 was significantly higher than at T0 but remained stable thereafter. The W/H ratio presented a continued rising trend in the control group.
+
+When the initial supracrestal soft tissue thickness was ≥2 mm, a restorative emergence profile based on the W/H ratio significantly reduced gingival margin recession. An emergence angle of 32.4 degrees showed better behavior in maintaining the gingival margin than 40 degrees.
+
+ChiCTR190002210.
