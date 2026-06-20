@@ -1,0 +1,17 @@
+Role of Artificial Intelligence in Pediatric Dentistry: An Umbrella Review.
+
+Authors: Garg I, Gupta S, Gupta S
+Journal: Int J Paediatr Dent 2026;36(4):556-566
+PMID 41952278 | DOI 10.1111/ipd.70084 | PROSPERO CRD420251142904
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+BACKGROUND: Artificial intelligence (AI) is increasingly applied in pediatric dentistry for caries detection, risk prediction, anomaly identification, and treatment planning. However, the quality, consistency, and overlap of evidence from existing systematic reviews have not been comprehensively evaluated.
+
+AIM: To synthesize evidence from systematic reviews on AI in pediatric dentistry, focusing on diagnostic performance, methodological quality, and overlap of primary studies.
+
+METHODS: PubMed/MEDLINE and the Cochrane Database of Systematic Reviews were searched up to 31 August 2025. Methodological quality was assessed using AMSTAR-2, and overlap was quantified using the corrected covered area (CCA) with the GROOVE tool.
+
+RESULTS: Seven systematic reviews (109 primary studies) were included — four on early childhood caries, one each on dental anomalies, cleft lip and palate, and caries risk prediction. AI, particularly convolutional neural networks for imaging, achieved pooled sensitivities and specificities of 80%-83% and Area Under the Curve (AUCs) of 0.87-0.91. Most reviews were of low or critically low quality due to lack of protocol registration and limited bias assessment. GROOVE analysis indicated moderate overlap (CCA = 8.27%).
+
+CONCLUSION: AI demonstrates promising diagnostic performance in pediatric dentistry, particularly for image-based tasks, but current evidence remains preliminary and should be interpreted with caution.
