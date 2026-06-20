@@ -5,7 +5,7 @@ year: 2026
 date: 2026-04-01
 doi: 10.1186/s12903-026-08175-z
 source: huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -64,8 +64,8 @@ Clinically: in a growing Class II patient with mandibular retrognathism, CAMA is
 
 ## Related Papers
 
-- [[orthodontics/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — reinforces: same CAMA-vs-functional Class II question, earlier/smaller, same comparable-skeletal + better-incisor-control conclusion.
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — applies-to: umbrella CAT-vs-FAT efficacy synthesis this Class II finding slots into.
-- [[orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — extends: alternative aligner-based Class II correction (maxillary molar distalization vs mandibular advancement).
-- [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — applies-to: aligner tooth-movement predictability context.
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — reinforces: broader CA-vs-fixed efficacy evidence base (non-extraction equivalence).
+- [[orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — reinforces: same CAMA-vs-functional Class II question, earlier/smaller, same comparable-skeletal + better-incisor-control conclusion.
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — applies-to: umbrella CAT-vs-FAT efficacy synthesis this Class II finding slots into.
+- [[orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — extends: alternative aligner-based Class II correction (maxillary molar distalization vs mandibular advancement).
+- [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — applies-to: aligner tooth-movement predictability context.
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — reinforces: broader CA-vs-fixed efficacy evidence base (non-extraction equivalence).
