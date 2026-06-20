@@ -3,7 +3,7 @@ title: "Impact of clear aligner therapy on masticatory musculature and stomatogn
 authors: Almalki SA, Al Jameel AH, Gowdar IM, Langaliya A, Vaddamanu SK, Di Blasio M, Cervino G, Minervini G
 year: 2024
 doi: 10.1186/s12903-024-04029-8
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "38504207"
@@ -15,7 +15,7 @@ text_filename: almalki-2024-clear-aligner-masticatory-stomatognathic-sr.txt
 
 ## Why Ingested
 
-Part of the clear-aligner-limitations evidence base: documents that clear aligner therapy (CAT) is NOT inert on the masticatory/stomatognathic system — it transiently raises muscle activity/discomfort and reduces bite force in the first days/weeks. Pairs directly with the EMG sibling [[wiki/orthodontics/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] (masseter/temporalis sEMG) and contextualizes the overall efficacy/safety anchor [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]].
+Part of the clear-aligner-limitations evidence base: documents that clear aligner therapy (CAT) is NOT inert on the masticatory/stomatognathic system — it transiently raises muscle activity/discomfort and reduces bite force in the first days/weeks. Pairs directly with the EMG sibling [[wiki/orthodontics/clear-aligner/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] (masseter/temporalis sEMG) and contextualizes the overall efficacy/safety anchor [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]].
 
 ## One-line Summary
 
