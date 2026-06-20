@@ -1,0 +1,202 @@
+Different surface treatments and adhesive monomers for zirconia-resin bonds: A systematic review and network meta-analysis
+
+PMID 38938474 | PMCID PMC11208804 | DOI 10.1016/j.jdsr.2024.05.004
+Source: PMC open-access full text.
+
+1
+
+Introduction
+
+The escalating demand for aesthetic dental restorations in recent years has led to a transition from metal-ceramic prostheses to metal-free alternatives. Yttria-stabilized tetragonal zirconia polycrystalline (Y-TZP) ceramics have emerged as a favored choice due to their commendable mechanical properties, chemical stability, and biocompatibility. In the pursuit of enhanced aesthetic attributes, certain variants of zirconia with notable translucency have entered the market, finding application in the fabrication of fixed dental prostheses, full-coverage crowns, and partial-coverage veneers. Moreover, the superior mechanical characteristics of zirconia, coupled with computer-aided design/computer-aided manufacturing technology, facilitate the precise production of expansive and complex restorations, yielding a high rate of success.
+
+In addition to the swift progress in manufacturing technology, the long-term efficacy of ceramic restorations hinges substantially upon proper pretreatment and cementation techniques. In the case of silica-based ceramics, surface treatment involving hydrofluoric acid (5–9.6 %) and subsequent silanization proves to be an efficacious method for achieving durable bonding with resin-based luting agent,. However, owing to the quasichemical inertness and absence of a silica phase, zirconia remains unetchable and cannot attain a satisfactory bond strength through the conventional approach outlined above. Consequently, several methodologies have been scrutinized in recent years to enhance the bond between zirconia and resin-based luting agent. These approaches include air abrasion with alumina oxide particles, tribochemical silica coating, selective infiltration etching (SIE)and various laser treatments. Among these techniques, air abrasion, also known as airborne-particle abrasion, is the most widely employed method in clinical practice. Beyond the surface conditions, researchers have also investigated the incorporation of adhesive monomers into resin-based luting agent or primers to bolster chemical bonding. Given the slender nature of the bonding interface, the primer and cement were treated as an integrated entity when determining the truly efficacious constituents in this investigation. Subsequent to exhaustive research endeavors, 10-methacryloyloxydecyl dihydrogen phosphate (10-MDP) has surfaced as an exceedingly efficacious adhesive monomer that is widely assimilated into primers and resin-based luting agent,,. 10-MDP is recognized for its capacity to adhere to zirconia through the formation of hydrogen bonds between the Zr-OH and the oxygen from P = O groups or via ionic interactions between the partially positive Zrand deprotonated 10-MDP (P-O) groups. Despite numerous investigations probing the influence of diverse pretreatments and adhesive monomers on zirconia bonding, a consensus on the optimal strategy to enhance bonding effectiveness and durability remains elusive.
+
+Previous meta-analyses investigating the bonding between zirconia and resin luting agent have underscored the effectiveness of combining mechanical and chemical treatments to enhance bond performance,,. Additionally, these studies identified several factors influencing the bond to zirconia, including the type of luting agent, artificial aging processes, and test methodologies,. However, these analyses were primarily descriptive, making it challenging for clinicians to determine which specific treatments or resin luting agent compositions would yield the highest bond strength. Therefore, in response to the aforementioned challenge, this systematic review and network meta-analysis (NMA) of in vitro studies was specifically designed to harness the strengths of NMA by comprehensively assessing various mechanical and chemical surface treatments simultaneously. Additionally, it seeks to identify the potentially dominant factors exerting an influence on the bond strength between zirconia and resin-based luting agent, thereby supporting decision-making in clinical practice. The null hypothesis is that the application of different surface treatments and adhesive monomers does not significantly affect the zirconia-resin bond strength.
+
+2
+
+Materials and methods
+
+This systematic review adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) Extension Statement for NMAand followed the guidelines outlined in the Cochrane Handbook. The research inquiry posed was “which surface treatment method and adhesive monomer are most advantageous for bonding to zirconia?”.
+
+2.1
+
+Search strategy
+
+Five electronic databases underwent comprehensive screening in this study, including PubMed (MEDLINE), Embase, Web of Science, Scopus, and the Cochrane Library. The literature search was diligently conducted by two independent reviewers and included the timeframe from January 2000 to May 30, 2023. The following search terms and their combinations were used: “zirconia,” “Y-TZP,” “zirconium dioxide,” “ZrO,” “adhesion,” “bond,” “bonding,” “cement,” and “resin”. The specific search strategy is listed in.
+
+2.2
+
+Study selection
+
+To uphold objectivity, two authors independently screened titles and abstracts, followed by the extraction of potentially suitable articles. A second review was carried out by the authors once the inclusion criteria were satisfied. The complete texts of articles that held potential relevance were subject to independent evaluation by two review authors, adhering to the inclusion and exclusion criteria outlined in. Only studies that fully met all the inclusion criteria were incorporated into this review. Any discrepancies were resolved through discussion with a third researcher to reach a consensus.
+
+2.3
+
+Data extraction
+
+Two independent authors conducted data extraction using standardized forms within Microsoft Office Excel 2016. The extracted data included several key elements, including the publication year, authors, zirconia type, primer type, resin-based luting agent type, surface treatment, and mean bond strength values, along with their corresponding standard deviations. In instances where experimental groups included varying parameters within a single pretreatment method or involved the utilization of different primers or resin-based luting agents that shared common components, data amalgamation followed the guidelines stipulated in the Cochrane Handbook for Systematic Reviews of Interventions 6.5.2.10. To ensure precision, a rigorous cross-verification of the extracted data was conducted.
+
+2.4
+
+Quality and bias assessment
+
+The assessment of bias risk within the included studies was conducted by two independent authors utilizing a modified version of the Consolidated Standards of Reporting Trials (CONSORT) scale. This tool, selected for its suitability in appraising the quality of in vitro studies in dentistry, has also been employed in prior dental review studies,,. The evaluation of bias risk centered on the clarity of fifteen distinct elements, including a structured abstract, a specific introduction delineating background and objectives, methodological aspects such as replicability, appropriate results, sample size, randomization method and mechanism, blinding procedures, and statistical methodologies, as well as transparent reporting of results and their estimation, limitations, and. Each of these items was assessed with a binary assignment of Yes (indicating reported, 1 point) or No (indicating not reported, 0 points). The risk bias score was categorized as follows: 0–5 points (high risk), 6–10 points (medium risk), and 11–15 points (low risk).
+
+2.5
+
+Statistical analysis
+
+The quantitative analysis included the extraction of sample size, mean bond strength measured in megapascals, and standard deviation values from both immediate and aged groups. An overarching analysis was conducted using NMA to evaluate the overall effects. Additionally, standard pairwise meta-analysis (SPMA) was employed to assess specific factors pertinent to clinical practitioners, such as particle size in air abrasion, silica coating systems, and the utilization of 10-MDP.
+
+The SPMA was executed using Review Manager (version 5.4). Given the diversity in resin-based luting agent and zirconia types across various studies, we adopted the random-effects model to derive pooled effect estimates. A 95 % confidence interval was utilized to present the results of individual studies and the pooled results, with a p-value of < 0.05 signifying statistical significance. Heterogeneity between studies was evaluated through Cochran's Q test and I(2).
+
+Four Bayesian NMAs were conducted utilizing the R package gemtc 0.9–8and R package BUGSNET version 1.0.3within the MetaInsight V4.0.0 tool,. Two NMAs focused on surface methods, while the other two examined primer and resin-based luting agent components within immediate and aged samples. Surface treatments were categorized as follows: (1) control; (2) air abrasion; (3) silica coating; (4) SIE; (5) laser; (6) hot etching; and (7) gas plasma. The primer and resin-based luting agent components were classified as follows: (1) control; (2) 10-methacryloyloxydecyl dihydrogen phosphate (10-MDP); (3) other acidic monomers (acidic monomers excluding 10-MDP); (4) silane; (5) 2-hydroxyethyl methacrylate (HEMA); (6) silane + 10-MDP; (7) silane + other acidic monomers; (8) HEMA + 10-MDP; (9) HEMA + other acidic monomers; (10) silane + HEMA + 10-MDP; (11) silane + HEMA + other acidic monomers; and (12) silane + HEMA. Network plots, illustrating clusters of control and experimental groups as nodes, with connections representing direct comparisons between the groups, were generated using Stata 17.0.
+
+League tables were produced through Markov chain Monte Carlo simulation, with an initial 5000 iterations discarded, followed by 20,000 iterations across four chains at a thinning interval of 1. The surface under the cumulative ranking (SUCRA) values were calculated within the Bayesian framework to rank surface treatments. A higher SUCRA value approaching 100 % indicates a greater likelihood of the corresponding surface treatment yielding the best results in terms of higher bond strengths, while a value closer to 0 % implies reduced effectiveness. Convergence was assessed via trace plots based on the Brooks Gelman-Rubin criteria, and inconsistency was evaluated using the split node method. Statistical significance was established at α = 0.05, with reference to 95 % CIs.
+
+3
+
+Results
+
+3.1
+
+Study selection
+
+depicts the study selection process in accordance with the PRISMA statement. The initial search strategy yielded a total of 8878 potentially relevant studies. Following the elimination of duplicate records, 4518 articles underwent initial screening based on their titles and abstracts. Two additional studies were procured through manual searching, leading to a comprehensive assessment of 181 studies in full text for eligibility. Ultimately, 77 studies,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,were deemed suitable for inclusion in the analysis, with 104 studies being excluded for various reasons, as outlined in the flowchart.
+
+3.2
+
+Descriptive analysis
+
+The key characteristics of the 77 studies selected for this review are comprehensively detailed in. These studies span the publication period from 2000 to 2023. In the assessment of bonding performance between resin-based luting agent and zirconia, the macroshear bond strength test (61.0 %) emerged as the most frequently employed method, followed by microshear (19.5 %), microtensile (11.7 %), and macrotensile (7.8 %) tests.
+
+Regarding surface treatments, as illustrated inA, air abrasion (n = 54) was the predominant method used in the majority of studies, followed by silica coating (n = 25), laser (n = 16), SIE (n = 8), gas plasma (n = 5), and hot etching (n = 4).B provides an overview of the primers and resin-based luting agents utilized in this review, categorized based on their potentially functional components. Notably, "Silane + 10-MDP" and "HEMA + 10-MDP" emerged as the most prevalent combinations in adhesion, with a total of 16 instances.
+
+3.3
+
+Risk of bias
+
+presents the risk of bias assessment for each study included, based on the modified CONSORT guidelines. The majority of the studies were categorized as having a medium risk of bias (94.8 %), while a small fraction, comprising four studies (5.2 %),,,, were identified as carrying a high risk of bias. Notably, most studies provided a structured summary and offered detailed descriptions of the interventions. However, approximately 15.6 % of the studies omitted the explicit statement of their hypotheses. Although statistical methods were explicitly outlined in the majority of studies (97.4 %), there was notable inconsistency in the reporting of limitations (48.1 %) and disclosure of funding resources (51.9 %) across all included studies. It is worth noting that a few studies mentioned the utilization of randomization (3.9 %), but none of them furnished sufficient information concerning the mechanism employed for implementing the random allocation sequence and trial protocol. Furthermore, the process of sample size calculation was documented in only 3.9 % of the studies.
+
+3.4
+
+Network meta-analyses
+
+,,,present the network maps for the NMA. In the NMAs of surface treatments and components of bonding agents, seven and twelve arms were compared with each other, respectively. The details of the Bayesian NMA, including the inconsistency test, convergence assessment, and deviance report, are presented in.
+
+3.4.1
+
+NMA of surface treatment
+
+Two separate sets of NMA were carried out, one focusing on immediate data () and the other on aged data (). Predominantly, pairwise comparisons were made between the air abrasion group and the control group (A,A).B andB illustrate that surface treatments exhibited greater effectiveness than the control group in both immediate and aged conditions, with the exception of gas plasma (immediate effect size: 2.82, 95 % CI: −1.47 to 7.16; aged effect size: 0.440, 95 % CI: −6.27 to 7.16).
+
+The cumulative probability ranks and SUCRA values for surface treatments are displayed inC andC. In terms of the immediate bond strength between resin-based luting agent and zirconia, the probability of being the most effective surface treatment was ranked as follows: SIE (91.30 %), hot etching (86.76 %), silica coating (68.77 %), air abrasion (49.68 %), laser (33.90 %), and gas plasma (17.98 %). For long-term bond strength, the ranking was as follows: SIE (90.49 %), followed by hot etching (85.16 %), laser (56.93 %), silica coating (53.65 %), air abrasion (46.84 %), and gas plasma (9.44 %).
+
+D andD illustrate the mean difference (MD) values for the pairwise comparisons conducted in this NMA. In comparison to the commonly employed air abrasion pretreatment method, SIE exhibited statistically superior performance (immediate comparison: 5.73, 95 % CI: 0.93 to 10.53; aged comparison: 6.15, 95 % CI: 0.72 to 11.54). However, except for gas plasma in aged conditions (aged comparison: −9.78, 95 % CI: −16.74 to −2.76), no significant differences in bond strengths were observed between the other surface treatments and air abrasion.
+
+3.4.2
+
+NMA of adhesive monomers
+
+The network was established based on bond strength data from 27 studies, with 24 studies reporting immediate data and 24 studies reporting age data. These studies utilized bonding agents with varying components, resulting in a total of twelve treatment arms available for comparison (,). The forest plots comparing these different groups with the control group revealed that bonding agents containing 10-MDP (10-MDP, silane + 10-MDP, HEMA + 10-MDP, silane + HEMA + 10-MDP) exhibited effectiveness in resin-zirconia bonding. Conversely, formulations other than HEMA + other acidic monomers in aged conditions were statistically ineffective. Bonding agents containing silane, 10-MDP, and HEMA demonstrated the highest bonding potential to zirconia, while the primer containing only HEMA exhibited the lowest potential (C,C). For a comprehensive breakdown of the NMA results for all pairwise comparisons, please consult the league table provided in. The analysis indicated that there were no significant differences among the four formulations containing 10-MDP.
+
+3.5
+
+Standard PAirwise Meta-analysis
+
+3.5.1
+
+Particle size in air abrasion
+
+presents the results of the meta-analysis investigating the influence of different particle sizes in abrasion application on immediate and long-term bond strengths. A notable disparity in immediate bond strength was discerned between the two groups, with an advantage favoring the utilization of small particle sizes (25–53 µm) compared to large particle sizes (110–150 µm) (p < 0.00001). However, no statistically significant difference was evident in long-term bond strength (p = 0.52).
+
+3.5.2
+
+Silica coating system
+
+illustrates the meta-analysis findings for both immediate and aged conditions, with the silica coating system as the primary variable factor. In comparison to the CoJet system, both the Rocatec Soft and Rocatec Plus systems demonstrated superior bond-enhancing performance. Additionally,provides evidence that no significant difference was observed between Rocatec Soft and Rocatec Plus, with p-values of 0.64 for immediate conditions and 0.14 for aged conditions.
+
+3.5.3
+
+10-MDP in primer or resin-based luting agent
+
+presents the results of the meta-analysis pertaining to bonding agents. Notably, primers or resin-based luting agents containing 10-MDP exhibited a superior effect on zirconia-resin bond strength in comparison to those containing other acidic monomers, with an MD of 12.15 and a 95 % confidence interval ranging from 8.91 to 15.39 (p < 0.00001). This superiority was consistent across aging conditions, as indicated by a nonsignificant p-value of 0.80.
+
+3.6
+
+Bond durability of the main surface treatments
+
+incorporates a total of 204 bond strength data points from studies that compared the bond strength of the air abrasion group or silica coating with the control group under both immediate and long-term conditions. The graph amalgamates 102 matched data points, combining the results of both immediate and long-term bond strength for each surface treatment.
+
+It is noteworthy that the resin-zirconia bond strength values commonly exhibited a decrease (91.2 % of samples) after undergoing artificial aging. The fitted lines for each group demonstrate that while there is a significant decline in bond strength after aging in all groups, air abrasion (m=0.78 ± 0.10, where 'm' denotes the slope of the fitted lines) and silica coating (m=0.72 ± 0.13) significantly mitigate this decline when compared to the control group, which exhibits the smallest slope (m=0.27 ± 0.11). The data points representing the air abrasion (pink dots) and silica coating (blue dots) groups are more concentrated in the upper-right quadrant, signifying relatively higher bond strength for these two surface methods when compared to the control group (gray dots).
+
+4
+
+Discussion
+
+This study aimed to examine factors that may exert an influence on the bond strength and longevity of zirconia, with a specific emphasis on pretreatment techniques and the constituents of bonding agents. Based on the results of the study, the null hypothesis was rejected.
+
+4.1
+
+Surface treatment
+
+In this comprehensive review, several surface treatments proved effective in enhancing both the 'immediate' and 'aged' bond strength of zirconia, with the notable exception of gas plasma, a finding consistent with prior research,,,. Among these pretreatments, air abrasion employing alumina particles has emerged as the most frequently employed technique in both scientific investigations and clinical applications. Our results confirm the efficacy of air abrasion in improving bond strength. The irregular surface generated through the air abrasion process provides a substantial bonding surface area for zirconia. Furthermore, it contributes to increased wettability, surface energy, and hydroxyl group content, all of which are conducive to achieving higher bond strength,. The particle sizes employed in the studies ranged from 25 to 150 µm. While the immediate bond strength was superior in the small particle size group (25–53 µm) compared to larger particles (110–150 µm), long-term bond strengths exhibited no significant difference between the two particle sizes, consistent with the findings of Comino-Garayoa et al.. Typically, an increase in particle size results in greater surface roughness, a factor generally considered advantageous for bonding. However, our findings indicate improved performance with smaller particle sizes, necessitating cautious interpretation and prompting the need for further research into the effect of particle size. Regardless of the particle size in air abrasion, the mean differences between the air abrasion group and the control group expanded following the aging process (). This suggests that air abrasion exhibits a degree of resistance to the aging effect. The coarse surfaces created by air abrasion offer superior retention effects compared to polished surfaces, thereby enhancing resistance to aging.
+
+Optimal blasting pressure is pivotal for achieving durable zirconia-resin bonds. A study by Aung et al. revealed that both inadequate and excessive pressure failed to produce durable zirconia-resin bonds, even when adhesives containing 10-MDP were employed. Large particle sizes, higher pressure, and extended treatment times may lead to the formation of microcracks and an increase in the monoclinic phase, potentially compromising the durability of zirconia,,. Ozcan et al. recommended a specific air abrasion protocol, including the use of 30 to 50 µm alumina particles, pressure ranging from 0.5 to 2.5 bar, a minimum treatment duration of 20 s, a distance of 10 mm between the blast jet and the zirconia surface, and continuous movement of the blast jet to prevent defect formation. Interestingly, Aurélio et al. observed that air abrasion improved the flexural strength of zirconia. This phenomenon is likely attributed to the confinement of microcracks and defects within the transformation layer, where the volume of the grains increased by approximately 4 % during the phase transformation. This is probably also a result of the compressive stress generated by air abrasion.,Additionally, Abi-Rached et al. reported that applying air abrasion before sintering zirconia tended to reduce the monoclinic phase content. However, certain studies have suggested that the sequence of air abrasion and zirconia sintering had no significant effect on adhesion (Monaco et al., 2011; Moon et al., 2011; Fazi et al., 2012; Ebeid et al., 2018; Okutan, et al., 2019),,,,. Consequently, despite the demonstrated effectiveness of air abrasion with alumina particles in enhancing zirconia bond strength, careful consideration should be given to factors such as particle size, pressure, treatment duration, and their potential implications on phase transformation and zirconia durability.
+
+Within the scope of this review, the tribochemical method (TSC) emerged as the predominant approach for silica coating. Silica coating was executed with particle sizes ranging from 30 to 110 µm, primarily utilizing the CoJet and Rocatec systems. While alternative methods such as the sol-gel process,and physical vapor depositionhave been documented, TSC remains the prevailing choice. This method involves the utilization of silica-coated alumina particles, which not only introduce silica into the zirconia surface but concurrently enhance the surface roughness,. The application of silane further enhances chemical bonds and surface energy through the formation of siloxane chains between the silica-enriched zirconia surface and resin-based luting agent. Analytically, the silica coating method exhibited a higher SUCRA ranking in comparison to air abrasion, although no statistically significant distinction was observed between these two techniques in pairwise comparisons. This finding aligns with results from a previous meta-analysis, which demonstrated that TSC provides better bond durability than air abrasion. The silica coating approach combines increased roughness and chemical bonding potential. However, it did not manifest statistically significant improvement when juxtaposed with air abrasion. This lack of improvement could be attributed to the manner in which silica particles are deposited, forming loose clusters on the surface rather than becoming deeply impregnated, resulting in bond strength below anticipated levels. Among the distinct TSC systems examined, the Rocatec system demonstrated superior bond strength when compared to the CoJet system. This difference may be attributed to the additional step of air abrasion integrated into the Rocatec system, leading to heightened surface roughness. Additionally, an innovative silica coating method employing silicon nitride hydrolysis has been reported, offering the potential for further advancements in counteracting phase transformation and optimizing zirconia bonding.
+
+The utilization of lasers on zirconia surfaces is a common practice in in vitro studies due to their ability to enhance surface roughness and wettability. Laser irradiation instigated surface modifications through the release of laser energy, causing micro-explosions, vaporization, or fusion of the uppermost zirconia layer. Various types of lasers, including Er:YAG, Nd:YAG, and CO, were employed in the studies included. Bitencourt et al. reported that among various laser types, only the Er:YAG laser did not exhibit the ability to enhance zirconia bond strengths among the various laser types. In our analysis, lasers received lower SUCRA rankings compared to air abrasion, although statistical significance was not established. Arami et al. found that the zirconia surface treated by the laser at the lowest power had similar surface roughness to air abrasion. It is crucial to consider laser parameters carefully, as high-energy intensity lasers can lead to adverse results, such as color changes, surface melting, significant cracks, and carbonized layers,. Consequently, prudence in laser parameter selection is primary to avoid detrimental consequences. Despite the potential advantages of lasers in zirconia bonding, the field currently lacks a universally accepted laser protocol. A noteworthy development in this arena is femtosecond laser technology, based on titanium/sapphire crystals, which can generate near-infrared wavelengths (795 nm). This technology has been shown to create more regular pits on the zirconia surface compared to Er:YAG laser irradiation and improve micromechanical bonding with veneering ceramics. However, it is worth noting that only one study in our review employed femtosecond laser technology, highlighting the need for further investigations to comprehensively understand the adhesive behavior of zirconia treated with various types of lasers.
+
+Surface treatment methods such as SIE, hot etching, and gas plasma, while effective in laboratory experiments, are not commonly employed in clinical practice. Among these methods, SIE emerged as the most effective, statistically surpassing the commonly used air abrasion technique. SIE involves coating the zirconia surface with a conditioning agent containing glass, heating it to facilitate glass infiltration into grain boundaries, and subsequently rinsing with an acid bath to enhance retention. The glass percentage in the conditioning agent may influence its melting temperature and efficiency in infiltrating the zirconia surface. The current analysis underscores SIE's efficacy in establishing a robust and enduring zirconia-resin bond, likely attributed to the highly retentive surfaces it generates, facilitating resin-based luting agent penetration and interlocking. Jiang et al. reported that the SIE group had a roughness of 12.42 µm, exceeding that of the air abrasion group (8.34 µm). It is worth noting that SIE is relatively technically sensitive and involves multiple steps, necessitating further assessment of its clinical applicability.
+
+Hot etching ranked second in SUCRA but did not exhibit a significant difference when compared to air abrasion. This method entails placing samples in a reaction kettle and heating them in a hot-etching solution, typically composed of 800 mL of methanol, 200 mL of 37 % HCl, and 2 g of ferric chloride,. It dissolved the outermost grain structure of the zirconia surface, enhancing nanoscale roughness. Notably, hot etching offers the advantage of lower temperature compared to SIE and generates less internal stress than air abrasion. However, it is essential to highlight the potential risks associated with hot etching, as it involves the use of corrosive and potentially harmful chemicals, making it more hazardous than conventional surface treatments. Proper safety precautions, including protection against inhalation or ingestion and burn prevention, must be taken when employing the hot etching method. Thus, its clinical applicability requires further refinement.
+
+In the present analysis, gas plasma was the sole surface treatment that exhibited no significant difference compared to the control group. Through chemical reactions or physical collisions induced by excited gas molecules, it can modify the zirconia surface with high-energy ion bombardment. The analysis indicates that merely increasing polar groups on the zirconia surface is insufficient to generate adequate zirconia-resin bond strength. However, carbon and nitrogen plasma have been reported to enhance the bioactivity and cytocompatibility of zirconia, suggesting their potential for other dental applications, such as implant surface treatments..
+
+4.2
+
+Adhesive monomers
+
+In this review, the effectiveness of various chemical components in improving the adhesion of zirconia to resin was explored, with a particular focus on the role of 10-MDP. The findings unequivocally demonstrate that formulations lacking 10-MDP are ineffective in enhancing zirconia-resin bonds. Conversely, strategies based on 10-MDP exhibited significantly higher efficiency in improving bond strength, underscoring the pivotal role played by 10-MDP in zirconia-resin bonding. The key attribute of 10-MDP is its composition, which includes a phosphoric acid group that acts as an adhesion promoter for zirconia, along with a vinyl group at the opposite end that aids in polymerization with unsaturated carbon bonds. The bonding mechanism involves hydroxylation-driven chemistry, where phosphate groups theoretically interact with zirconium atoms, forming either "double coordinate" or "single coordinate" bonds. Recent studies employing time-of-flight secondary ion mass spectrometry have identified various chemical bonds, including single coordinate bonds and bridging of one zirconia atom by two or three phosphate or phosphite groups,. It is important to note that the bonding performance of 10-MDP may be compromised after prolonged storage due to hydrolysis of the ester portion induced by dissociated protons. For improvement, Koko et al. proposed a novel MDP-based strategy for zirconia, which incorporates 10-MDP as a functional adhesive monomer and triethanolamine as a surface cleaner.
+
+This review also examined other acidic monomers derived from different acids, such as phosphonic acid (e.g., 6-methacryloxyhexylphosphonoacetate - 6-MHPA, dipentaerythritol penta acrylate monophosphate - PENTA) and carboxylic acid (e.g., 4-methacryloxyethyl trimellitate anhydride - 4-META, 4-acryloyloxyethoxycarbonylphthalic acid - 4-AET, 11-methacryloyloxy-1, 10-undecanedicarboxylic acid - MAC-10). These acidic monomers possess functional groups such as phosphate groups in PENTA and 6-MHPA, which can react with zirconia, forming Zr-O-P bonds that enhance chemical bonding between zirconia and resin-based luting agent,. While carboxylic acid-derived monomers such as 4-META demonstrated chemical bonding with the zirconia surface, they exhibited lower adsorption compared to 10-MDP. Pilo et al.suggested that primers formed carboxylate salts on the zirconia surface, promoting chemical interactions, but the precise chemical mechanism behind the bonding of carboxylic acid derivatives to zirconia remains unclear. Despite their potential to enhance chemical bonding, most combinations involving these acidic monomers did not demonstrate significant improvements in zirconia-resin bonds, necessitating further research to explore the effects of various acidic monomers. HEMA is a low-molecular monomer, which is commonly used in adhesives as a wetting agent. Z-Prime Plus (Bisco), which contains 10-MDP, HEMA, and BPDM, is the most frequently used zirconia primer in the studies analyzed. While most studies did not light-cure Z-Prime Plus, a few studies reported that a two-layer, light-cured approach was superior to a single-layer application,. The presence of HEMA and BPDM appeared to diminish the beneficial effect of 10-MDP. BPDM, a carboxylic monomer with a double hydroxyethyl group, could facilitate chemical interactions between 10-MDP and zirconia but create a more acidic environment that might negatively affect the durability of MDP-ZrO coordination bonds,,.
+
+Regarding silane, 3-methacryloxypropyltrimethoxysilane (MPS) was the most commonly used silane in commercial primers and resin-based luting agents. Silane is extensively employed in bonding with silica-based ceramics because its methoxy-silyl groups (–Si–O–CH) can react with water and silica, forming a strong siloxane (–Si–O–Si–O–) network. The methacryloyl groups in the silane can react with those in the resin-based luting agent through a free radical polymerization process, resulting in the formation of a strong bond. However, the effectiveness of silane is limited for zirconia bonding, as zirconia lacks silica on its surface. Silane addition had little effect on zirconia bonding without silica coating, and it has been reported to increase the surface hydroxylation of zirconia while potentially impairing the adsorption and chemical activity of 10-MDP during cotreatment,,.
+
+4.3
+
+Artificial aging process
+
+Currently, there exists no standardized protocol for water storage and thermocycling specifically tailored to zirconia-resin bond strength testing. Therefore, this study adopted a protocol based on ISO 10477–2020, designed for testing polymer-based crown and veneer materials. A minimum of 5000 thermocycles was employed as part of the aging process for zirconia bonding in this investigation.
+
+The observed mean differences between surface treatments and the control group were more pronounced in aged conditions compared to immediate conditions, except for gas plasma treatment. This observation substantiates the notion that these pretreatments confer benefits in terms of resistance to aging, aligning with previous research findings,. It is noteworthy that the mean bond strength in aged conditions exhibited a significant decrease when compared to the immediate bond strength, as depicted in, where the majority of data points fall below the y = x line. The steeper slope of the fitted line for air abrasion and silica coating illustrates their capacity to mitigate the effects of aging. This observation was supported by the study conducted by E. Rigos et al., which reported enhanced bond durability with these treatments when non-MDP luting agents and primers were used. This effectiveness could be attributed to the rough surfaces generated by these treatments, which impede water penetration and promote stronger chemical bonding, resulting in a more robust sealed bond interface. The similarity in the slopes for air abrasion and silica coating suggests comparable anti-aging performance. However, this stands in partial contrast to the aforementioned study by E. Rigos et al. which indicated a superior durability with TSC.
+
+4.4
+
+Advantages and limitations of the study design
+
+This study boasts several notable strengths. This study represents the first use of an NMA approach to juxtapose the bonding efficacy of diverse surface treatments and adhesive monomers in the context of zirconia-resin bonding. It is unique in analyzing the effectiveness of different monomer combinations and comprehensively assessing both physical and chemical enhancements, providing a broad and detailed understanding of their impacts. The application of NMA facilitates a comprehensive assessment of multiple treatments or components that may not have been directly compared within a single in vitro experiment. Additionally, the Bayesian framework employed in the NMA affords the flexibility to incorporate different sources of uncertainty, enhancing the statistical model's versatility,.
+
+Nonetheless, several limitations warrant consideration. Notably, the presence of substantial heterogeneity among the included studies may have exerted an effect on the precision of the results. Furthermore, the exclusively in vitro nature of the included studies potentially restricts the direct extrapolation of findings to clinical practice. Consequently, it is crucial to exercise prudence when interpreting the results of this analysis, duly acknowledging these aforementioned limitations.
+
+4.5
+
+Fields requiring further investigation
+
+Despite SIE being identified as the most effective method, the existing evidence is limited. Consequently, further research on the utilization of SIE is still necessary. Numerous studies assessing zirconia bonding performance have been conducted within laboratory settings, often lacking the incorporation of critical oral environmental factors such as pH fluctuations, contamination by saliva or blood, and the influence of occlusal loads. Consequently, a pressing need exists for either in vivo experiments or in vitro methodologies capable of faithfully replicating the complexities of oral environments. This enhancement in research procedure standardization, particularly concerning artificial aging processes, is crucial to elevate the quality of studies and facilitate high-quality meta-analyses. Furthermore, the crucial for long-term clinical trials looms large. Such trials are essential in establishing applicable and dependable clinical guidelines for pretreatment methodologies and bonding strategies pertaining to zirconia-based restorations. These endeavors can empower clinicians to make well-informed decisions and, in turn, enhance the success rates of zirconia-based restorations within clinical practice.
+
+5
+
+Conclusion
+
+Based on the primary findings of this systematic review and NMA, the following conclusions may be drawn:
+
+Ethical statement
+
+This study involved analysis of previously published data and did not include any human or animal subjects. Therefore, no ethical approval was required as per applicable institutional guidelines and regulations.
+
+Coflict of interest
+
+The authors declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
