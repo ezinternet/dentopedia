@@ -1,0 +1,5 @@
+[ABSTRACT-ONLY — full text not retrieved (no PMC). Source: PubMed, PMID 40754667, DOI 10.1111/ipd.70026]
+Title: Zirconia Preformed Paediatric Crown Versus Stainless Steel Crown in Primary Molars: A Randomized Controlled Split-Mouth Trial. Journal: Int J Paediatr Dent 2025;36(1):49-58. Multicentre (France).
+Methods: split-mouth multicentre RCT; 105 children, 210 teeth randomized to zirconia crown (ZC) or SSC. Primary outcome: 2-year success (absence of major failure - irreversible pulpitis/infection). Secondary: retention, parent/child preference. Poisson regression, paired t-tests, ANCOVA.
+Results: success comparable ZC vs SSC (Rate Ratio 0.99; 95% CI 0.96-1.01; p=0.350). Retention LOWER for ZC vs SSC (RR 0.95; 95% CI 0.92-0.98; p=0.001). ~2/3 of parents preferred ZC; children no clear preference.
+Conclusion: ZC and SSC similar 2-year success, but ZC showed lower retention; parents tended to prefer ZC.

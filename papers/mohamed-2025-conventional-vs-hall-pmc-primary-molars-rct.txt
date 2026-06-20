@@ -1,0 +1,5 @@
+[ABSTRACT-ONLY — full text not retrieved (no PMC). Source: PubMed, PMID 41186901, DOI 10.1007/s40368-025-01128-0]
+Title: Conventional versus Hall technique for preformed metal crown restorations of carious primary molars - RCT comparing treatment duration and child and parental perceptions. Journal: Eur Arch Paediatr Dent 2025;27(2):599-606.
+Methods: primary-care, two-arm parallel RCT, 80 participants, single pediatric dentist. Outcomes: procedural time; child pain (Wong-Baker FACES); child behaviour (Frankl); parental perceptions/acceptability (5-pt Likert).
+Results: procedural time CT 17.4+/-2.9 vs HT 7.1+/-2.8 min (p<0.001). Child self-reported pain significantly higher in CT (chi=12.27; p=0.03). Dentist-evaluated behaviour comparable (positive: CT 65%, HT 85%). Parental perception of comfort NS (p=0.20), but parents of HT children reported significantly better procedural ease, treatment duration, satisfaction, and desire to choose same treatment again (all p<0.001).
+Conclusion: vs conventional technique, the Hall technique for PMC required shorter procedural time, lower child pain, and better parental acceptability.
