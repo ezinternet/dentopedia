@@ -1,0 +1,19 @@
+Comparative effectiveness of silver diamine fluoride for cavitated dentinal lesions in primary molars: A systematic review of randomised controlled trials.
+
+Authors: Garcia-Miralles E, Marqués-Martínez L, Guinot-Barona C, Carmona SantaMaría M, Aura-Tormos JI
+Journal: J Dent 2026
+PMID 41997414 | DOI 10.1016/j.jdent.2026.106703
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+To synthesise and critically appraise evidence from randomised controlled trials directly comparing silver diamine fluoride with conventional restorative treatments for the management of cavitated dentinal caries in primary molars.
+
+Data on caries arrest and treatment failure or need for retreatment at ≤12 months were extracted from eligible studies. Effect estimates were reported as risk ratios with 95 % confidence intervals.
+
+Electronic searches were conducted in MEDLINE (PubMed), Embase, Cochrane CENTRAL, and Scopus up to October 2025, supplemented by manual screening of reference lists.
+
+Randomised controlled trials comparing silver diamine fluoride with conventional restorative treatments for cavitated dentinal lesions in primary molars were included. Two trials met the eligibility criteria. Due to heterogeneity in outcome definitions and study design, quantitative pooling was not feasible.
+
+Available randomised evidence is limited but suggests that silver diamine fluoride may provide favourable short-term outcomes for cavitated dentinal caries in primary molars compared with conventional restorative treatments. Further well-designed trials with longer follow-up are needed.
+
+Based on limited randomised evidence, silver diamine fluoride may offer a minimally invasive option for managing cavitated caries in primary molars. Its simplicity and low cost make it particularly relevant in young children and community-based settings.
