@@ -13,7 +13,7 @@ source_collection: synthesis
 tags: [implants, keratinized-mucosa, peri-implantitis, soft-tissue-augmentation, free-gingival-graft, overview]
 source_wiki:
   - wiki/periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing.md
-  - wiki/implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless.md
+  - wiki/implants/kim-2009-blood-vessels-peri-implant-mucosa.md
 relations:
   - type: reinforces
     target: mahardawi-2023-lack-keratinized-mucosa-peri-implantitis-sr-ma
@@ -160,5 +160,5 @@ Flapless surgery (Kim 2009) → higher supraperiosteal vascularity → better-pe
 - [[implants/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft
 - [[implants/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume (all high bias) — historical anchor for the second-stage window
 - [[implants/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary: soft-tissue substitutes reduce post-op pain/analgesic use/surgery time vs SCTG with equivalent satisfaction — the patient-reported-outcome (PROM) axis
-- [[implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — Animal study (6 dogs, split-mouth): flapless implant surgery produces significantly higher peri-implant mucosal vascularity than flap surgery (vessel fraction 1.7% vs 1.2%, p<0.05); supraperiosteal vessel preservation identified as mechanism — surgical-technique axis for soft-tissue vascular defense
+- [[implants/kim-2009-blood-vessels-peri-implant-mucosa]] — Animal study (6 dogs, split-mouth): flapless implant surgery produces significantly higher peri-implant mucosal vascularity than flap surgery (vessel fraction 1.7% vs 1.2%, p<0.05); supraperiosteal vessel preservation identified as mechanism — surgical-technique axis for soft-tissue vascular defense
 - [[periodontics/huynh-2016-saline-rinsing-gingival-fibroblast-wound-healing]] — In vitro (PLOS ONE 2016, primary hGFs): 0.9–1.8% NaCl rinsing promotes hGF migration via Cl⁻/FAK/F-actin pathway; 1.8% optimal; COL1 >3-fold upregulation; keratinocytes unresponsive; 7.2% inhibitory — post-operative wound management evidence base

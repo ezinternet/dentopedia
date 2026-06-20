@@ -19,7 +19,6 @@ tags: []
 - [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — Wang 2022 · rct · 협측 emergence profile 설계가 12개월 퇴축 감소(0.13 vs 0.63mm, p=0.006); ~32° 각도가 40°보다 우수 (DOI 10.1111/cid.13088)
 - [[implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — Canullo 2020 · sr+ma · 티타늄 지대주 표면개질 SR+MA(10편/6 pooled): 단기 연조직 지표(PI/BoP/PD) 차이 없음, 장기는 상충 (DOI 10.1007/s00784-020-03210-x)
 - [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — Mourão 2025 · rct · EBD critical summary: tapered vs cylindrical 임플란트 초기치유 RCT 평가 — tapered가 삽입토크 높고 cylindrical이 6주 ISQ/IST 높음, 술식 > 매크로지오메트리 (DOI 10.1038/s41432-025-01202-y)
-- [[implants/soft-tissue/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — 동물(성견, 6마리): 무피판 임플란트 수술 후 임플란트 주위 점막 혈관 분포율 1.7% vs 피판 1.2% (p<0.05)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
 - [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
