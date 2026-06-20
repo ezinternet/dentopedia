@@ -65,7 +65,7 @@ DOMAINS = [
     ("구강외과 · 마취 · 통증", [
         "buffered-modified", "mandibular-anesthesia", "oral-surgery", "third-molar",
         "topical-anesthetic", "suture-wound"]),
-    ("약물 · 전신질환", ["drug-"]),
+    ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease"]),
     ("구강내과 · 미생물 · 노년 · 구강안면통증", [
         "oral-medicine", "oral-microbiome", "oral-frailty", "bms", "orofacial-pain"]),
     ("교정", ["miniscrew", "orthodontic-tooth", "clear-aligner", "aligner", "myofunctional", "elastodontic"]),
