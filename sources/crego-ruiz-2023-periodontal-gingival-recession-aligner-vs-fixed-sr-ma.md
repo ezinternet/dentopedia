@@ -3,7 +3,7 @@ title: "Assessment of the periodontal health status and gingival recession durin
 authors: Crego-Ruiz M, Jorba-García A
 year: 2023
 doi: 10.4317/medoral.25760
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "36641738"
@@ -15,7 +15,7 @@ text_filename: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-s
 
 ## Why Ingested
 
-[[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] already links TO this paper as the "periodontal outcome, more cautious" counterpart. Baneshi 2024 (RCT-only) reports relatively optimistic pro-CA periodontal effect sizes; this Crego-Ruiz SR+MA refines that optimism by showing only 2 of many pooled estimates reached significance (PI mid-term, PPD long-term), both with extreme heterogeneity (I²=99%), and concluding there is insufficient evidence that clear aligners (CA) maintain better periodontal health than fixed appliances (FA). It anchors the periodontal axis of the clear-aligner limitations batch and supplies the cautious bottom line that balances [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] and the [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] umbrella.
+[[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] already links TO this paper as the "periodontal outcome, more cautious" counterpart. Baneshi 2024 (RCT-only) reports relatively optimistic pro-CA periodontal effect sizes; this Crego-Ruiz SR+MA refines that optimism by showing only 2 of many pooled estimates reached significance (PI mid-term, PPD long-term), both with extreme heterogeneity (I²=99%), and concluding there is insufficient evidence that clear aligners (CA) maintain better periodontal health than fixed appliances (FA). It anchors the periodontal axis of the clear-aligner limitations batch and supplies the cautious bottom line that balances [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] and the [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] umbrella.
 
 ## One-line Summary
 
