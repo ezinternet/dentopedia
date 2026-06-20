@@ -1,0 +1,23 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC). PMID 41500883]
+
+TITLE: Clinical outcomes of fixed Dahl restorations for localized tooth wear: A systematic review and meta-analysis.
+
+AUTHORS: Jiayan Fan, Bingjie Wang, Lutao Wang, Bin Xu, Liang Wang, Chaoyang Wang, Baiping Fu
+
+JOURNAL: The Journal of Prosthetic Dentistry (J Prosthet Dent). 2026 Jan 06; 135(6):e21-e33.
+
+DOI: 10.1016/j.prosdent.2025.12.028
+
+ABSTRACT:
+A high prevalence of localized tooth wear has been reported among the adult population. The Dahl concept is a method of gaining space for restoring localized tooth wear, but a systematic review and meta-analysis is lacking.
+
+The purpose of this study was to systematically assess the clinical outcomes of fixed Dahl restorations for treating localized tooth wear.
+
+Electronic searches were conducted in the PubMed, Embase, Cochrane Central Register of Controlled Trial, Web of Science, and Scopus databases and in the website ClinicalTrials.gov up to June 2025. Randomized clinical trials (RCTs), cohort studies, and case series were identified. The revised Cochrane risk of bias tool, the Newcastle-Ottawa scale, and the Joanna Briggs Institute critical appraisal were respectively adopted to assess the quality of the RCTs, cohort studies, and case series. The certainty of the evidence was evaluated using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE). Poisson regression was used to compare the clinical results of direct and indirect materials (alpha=.05). Meta-analysis and meta-regression were conducted for occlusal re-establishment.
+
+A total of 11 studies were included in the review, with 8 studies classified as low risk and 3 as moderate risk of bias. Annual failure rates (AFRs) and annual complication rates (ACRs) of fixed Dahl restorations using direct materials were 0% to 8.7% and 5.2% to 30.2%, respectively, after 1.3 to 7 years of follow-up. AFRs and ACRs of indirect restorations were 0 to 0.7% and 5.6% to 7.2%, respectively, after 1.7 to 2.2 years of follow-up. The AFRs of indirect materials were much lower than those of direct materials (P<.05). Restoration fracture, wear, and loss accounted for most failures and complications. Occlusal re-establishment after fixed Dahl restorations was mainly reported between 1 and 25.4 months. The pooled proportions of no occlusal contact, partial, and complete occlusal re-establishment were 0.6%, 10.0%, and 86.9%, respectively. These values were not influenced significantly by the patient's age. GRADE revealed low to moderate levels of evidence for the pooled proportions.
+
+Based on low- to moderate-level evidence, fixed Dahl restorations were found to be a suitable treatment option for treating localized tooth wear. Most of the patients treated with the fixed Dahl restorations were satisfied with the clinical outcomes, even though the range of time of therapy was wide and a high propensity for restoration failures and complications was found.
+
+MeSH: Humans; Dental Restoration, Permanent; Tooth Wear; Treatment Outcome; Dental Restoration Failure
+ARTICLE TYPES: Journal Article; Systematic Review; Meta-Analysis; Review
