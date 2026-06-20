@@ -3,7 +3,7 @@ title: "The biomechanical effects of clear aligner trimline designs and extensio
 authors: Nakornnoi T, Srirodjanakul W, Chintavalakorn R, Santiwong P, Sipiyaruk K
 year: 2024
 doi: 10.1186/s12903-024-05274-7
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "39707339"
@@ -15,7 +15,7 @@ text_filename: nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr.tx
 
 ## Why Ingested
 
-`clear-aligner` 예측가능성 축의 세 번째 결정인자(trimline/gingival margin 디자인)를 다루는 SR. attachment([[wiki/orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]])·앵커리지([[wiki/orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]])와 함께 force-delivery 기전 삼각 완성. PMC OA 전문.
+`clear-aligner` 예측가능성 축의 세 번째 결정인자(trimline/gingival margin 디자인)를 다루는 SR. attachment([[wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]])·앵커리지([[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]])와 함께 force-delivery 기전 삼각 완성. PMC OA 전문.
 
 ## One-line Summary
 
@@ -54,9 +54,9 @@ PubMed/Scopus/Embase/ProQuest/Google Scholar, Jan 2000-Aug 2024; empirical studi
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — sibling force-delivery determinant (attachments).
-- [[wiki/orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — anchorage determinant.
-- [[wiki/orthodontics/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — torque/intrusion forces relate to root-resorption risk.
+- [[wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — sibling force-delivery determinant (attachments).
+- [[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — anchorage determinant.
+- [[wiki/orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — torque/intrusion forces relate to root-resorption risk.
 
 ## 7. Glossary
 
