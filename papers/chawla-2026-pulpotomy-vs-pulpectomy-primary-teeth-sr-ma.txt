@@ -1,0 +1,12 @@
+[ABSTRACT-ONLY — full text not retrieved; no PMC OA (J Dent, Elsevier). Source: PubMed, PMID 41485532, DOI 10.1016/j.jdent.2026.106329]
+
+Title: Effectiveness of pulpotomy compared with pulpectomy for irreversible pulpitis in primary teeth: A systematic review and meta-analysis.
+Journal: J Dent 2026;166:106329.
+
+Aim: compare clinical and radiographic success of pulpotomy vs pulpectomy in primary teeth with irreversible pulpitis.
+Methods: 6-database search to April 2025. Included primary teeth with symptomatic or asymptomatic irreversible pulpitis, EXCLUDING swelling, sinus tract, furcal/periapical radiolucency, root resorption; min 12-mo follow-up. Two studies met criteria: 1 RCT + 1 retrospective cohort. Random-effects meta-analysis.
+Results:
+- Radiographic success pooled RR 1.35 (95% CI 0.67-2.73; p=0.40), I2=96% (very high heterogeneity) — no significant difference.
+- Clinical success pooled RR 1.06 (95% CI 0.95-1.18; p=0.28), I2=66% — no significant difference.
+- Certainty of evidence very low for both outcomes.
+Conclusion: no statistically significant difference between pulpotomy and pulpectomy for irreversible pulpitis in primary teeth without swelling/periapical infection up to 12 months. Pulpotomy appears to be an effective, minimally invasive alternative to pulpectomy; further long-term well-designed studies needed.
