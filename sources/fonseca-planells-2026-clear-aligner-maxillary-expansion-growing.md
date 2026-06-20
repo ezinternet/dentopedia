@@ -3,7 +3,7 @@ title: "Effectiveness of clear aligners for maxillary expansion in growing patie
 authors: Fonseca Planells L, Bellot-Arcís C, Montiel-Company JM, Paredes-Gallardo V, Zamora-Martínez N
 year: 2026
 doi: 10.1186/s40510-026-00620-7
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "42060239"
