@@ -3,7 +3,7 @@ title: "Effect of zirconia surface conditioning before glazing on the wear of op
 authors: René Steiner, Shawn Scott, Vera Wiesmüller, Ulrike Lepperdinger, Otto Steinmassl, Dagmar Schnabl, Sebastian Schwindling
 year: 2024
 doi: 10.1007/s00784-024-05522-8
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/steiner-2024-zirconia-conditioning-glazing-enamel-wear.pdf
 pdf_filename: steiner-2024-zirconia-conditioning-glazing-enamel-wear.pdf
 source_collection: external

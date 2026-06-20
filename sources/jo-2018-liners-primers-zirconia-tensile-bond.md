@@ -3,7 +3,7 @@ title: "Effect of liners and primers on tensile bond strength between zirconia a
 authors: Eun-Hye Jo, Yoon-Hyuk Huh, Kyung-Ho Ko, Chan-Jin Park, Lee-Ra Cho
 year: 2018
 doi: 10.4047/jap.2018.10.5.374
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jo-2018-liners-primers-zirconia-tensile-bond.pdf
 pdf_filename: jo-2018-liners-primers-zirconia-tensile-bond.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Recent advances in dental zirconia: 15 years of material and processing 
 authors: Cesar PF, Miranda RBP, Santos KF, Scherrer SS, Zhang Y
 year: 2024
 doi: 10.1016/j.dental.2024.02.026
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/cesar-2024-dental-zirconia-15years-material-processing.pdf
 pdf_filename: cesar-2024-dental-zirconia-15years-material-processing.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Covers the full 15-year evolution of dental zirconia: 3Y-TZP → 4Y/5Y-PSZ → composition-gradient multilayer blocks, including powder technology, sintering advances, translucency-strength trade-off, and processing trends. Provides the key taxonomic and generational framework for understanding differences between zirconia types. Extends [[dental-materials/chopra-2024-mechanical-characteristics-zirconia-dentistry]] by adding the material-science evolution and processing perspective missing from the mechanical-properties focus.
+Covers the full 15-year evolution of dental zirconia: 3Y-TZP → 4Y/5Y-PSZ → composition-gradient multilayer blocks, including powder technology, sintering advances, translucency-strength trade-off, and processing trends. Provides the key taxonomic and generational framework for understanding differences between zirconia types. Extends [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] by adding the material-science evolution and processing perspective missing from the mechanical-properties focus.
 
 ## One-line Summary
 
@@ -68,9 +68,9 @@ Narrative review (5102 articles, Web of Science) covering 15 years of dental zir
 ## 6. Related Work
 
 - Denry & Kelly (2008) — foundational 3Y-TZP reviews (2369 combined Scopus citations as of Jan 2024)
-- Chopra 2024 — mechanical properties deep-dive [[dental-materials/chopra-2024-mechanical-characteristics-zirconia-dentistry]]
-- Kwon 2024 — CAD/CAM defects and strength-limiting flaws [[dental-materials/kwon-2024-strength-limiting-defects-zirconia-cad-cam]]
-- Ban 2023 — dental zirconia types and development review [[dental-materials/ban-2023-dental-zirconia-types-development-review]]
+- Chopra 2024 — mechanical properties deep-dive [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]]
+- Kwon 2024 — CAD/CAM defects and strength-limiting flaws [[dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam]]
+- Ban 2023 — dental zirconia types and development review [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]]
 
 ## 7. Glossary
 

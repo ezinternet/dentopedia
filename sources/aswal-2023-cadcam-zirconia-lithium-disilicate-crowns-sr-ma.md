@@ -3,7 +3,7 @@ title: "Clinical Outcomes of CAD/CAM (Lithium disilicate and Zirconia) Based and
 authors: Gunjan S. Aswal, Renu Rawat, Dhara Dwivedi, Nitin Prabhakar, Vandana Sharma
 year: 2023
 doi: 10.7759/cureus.37888
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 pdf_filename: aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.pdf
 source_collection: external

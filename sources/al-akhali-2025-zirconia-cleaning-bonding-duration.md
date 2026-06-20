@@ -3,7 +3,7 @@ title: "Effect of cleaning methods on bonding to zirconia ceramic over a long pe
 authors: Majed Al-Akhali, et al.
 year: 2025
 doi: 10.2186/jpr.JPR_D_24_00273
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-akhali-2025-zirconia-cleaning-bonding-duration.pdf
 pdf_filename: al-akhali-2025-zirconia-cleaning-bonding-duration.pdf
 source_collection: external

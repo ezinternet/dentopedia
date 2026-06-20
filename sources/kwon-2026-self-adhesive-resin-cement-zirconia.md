@@ -3,7 +3,7 @@ title: "In Vitro Evaluation of the Performance of Self-Adhesive Resin Cements on
 authors: Jiyoung Kwon, Hosung Lee, Hyun-Jung Kim, Kyoung-Kyu Choi
 year: 2026
 doi: 10.3390/jfb17020070
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 pdf_filename: kwon-2026-self-adhesive-resin-cement-zirconia.pdf
 source_collection: external

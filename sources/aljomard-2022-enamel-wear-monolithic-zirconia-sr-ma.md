@@ -3,7 +3,7 @@ title: "Enamel wear against monolithic zirconia restorations: A meta-analysis an
 authors: Yasamin R.M. Aljomard, Elif Çiğdem Altunok, Haluk Barış Kara
 year: 2022
 doi: 10.1111/jerd.12823
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma.pdf
 pdf_filename: aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma.pdf
 source_collection: external

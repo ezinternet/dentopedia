@@ -3,7 +3,7 @@ title: "Three Self-Adhesive Resin Cements and Their Influence on the Marginal Ad
 authors: Asaf Shely, Joseph Nissan, Diva Lugassy, Ofir Rosner, Eran Zenziper, Tharaa Egbaria, Gil Ben-Izhack
 year: 2024
 doi: 10.3390/jcm13113330
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 pdf_filename: shely-2024-self-adhesive-cements-zirconia-lithium.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Dental Zirconia Types and Development History"
 authors: Ban S
 year: 2023
 doi: 10.4012/dmj.2022-243
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ban-2023-dental-zirconia-types-development-review.pdf
 pdf_filename: ban-2023-dental-zirconia-types-development-review.pdf
 source_collection: external

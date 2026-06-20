@@ -3,7 +3,7 @@ title: "Do Chemical-Based Bonding Techniques Affect the Bond Strength Stability 
 authors: Allegra Comba, Andrea Baldi, Riccardo Michelotto Tempesta, Massimo Carossa, Letizia Perrone, Carlo Massimo Saratti, Giovanni Tommaso Rocca, Rossella Femiano, Felice Femiano, Nicola Scotti
 year: 2021
 doi: 10.3390/ma14143920
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/comba-2021-chemical-bonding-cubic-zirconia.pdf
 pdf_filename: comba-2021-chemical-bonding-cubic-zirconia.pdf
 source_collection: external

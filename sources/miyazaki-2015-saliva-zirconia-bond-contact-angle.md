@@ -3,7 +3,7 @@ title: "Effect of surface contamination on bonding of resin cement to zirconia c
 authors: Masashi Miyazaki, Hiroo Hinoura, Bak Onose
 year: 2015
 doi: 10.4012/dmj.2014-066
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/miyazaki-2015-saliva-zirconia-bond-contact-angle.pdf
 pdf_filename: miyazaki-2015-saliva-zirconia-bond-contact-angle.pdf
 source_collection: external

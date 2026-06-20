@@ -3,7 +3,7 @@ title: "The effect of surface grinding and sandblasting on flexural strength and
 authors: T. Kosmač, C. Oblak, P. Jevnikar, N. Funduk, L. Marion
 year: 1999
 doi: 10.1016/S0109-5641(99)00070-6
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia.pdf
 pdf_filename: kosmac-1999-grinding-sandblasting-flexural-strength-zirconia.pdf
 source_collection: external

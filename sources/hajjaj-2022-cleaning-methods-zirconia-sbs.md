@@ -3,7 +3,7 @@ title: "Effect of Different Cleaning Methods on Shear Bond Strength of Resin Cem
 authors: Maher Saeed Hajjaj, Saeed Jamaan Alzahrani
 year: 2022
 doi: 10.3390/ma15145068
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hajjaj-2022-cleaning-methods-zirconia-sbs.pdf
 pdf_filename: hajjaj-2022-cleaning-methods-zirconia-sbs.pdf
 source_collection: external

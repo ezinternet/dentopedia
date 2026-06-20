@@ -3,7 +3,7 @@ title: "Load, unload and repeat: Understanding the mechanical characteristics of
 authors: Chopra D, Guo T, Gulati K, Ivanovski S
 year: 2024
 doi: 10.1016/j.dental.2023.10.007
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chopra-2024-mechanical-characteristics-zirconia-dentistry.pdf
 pdf_filename: chopra-2024-mechanical-characteristics-zirconia-dentistry.pdf
 source_collection: external
@@ -67,7 +67,7 @@ Narrative review of zirconia's mechanical performance in dentistry, covering fle
 
 - Denry & Kelly (2008, Dental Materials) — foundational 3Y-TZP reviews cited as field-defining starting points
 - Warreth 2020 — broader all-ceramic restorations narrative [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]]
-- Ban 2023 — dental zirconia types and development [[dental-materials/ban-2023-dental-zirconia-types-development-review]]
+- Ban 2023 — dental zirconia types and development [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]]
 
 ## 7. Glossary
 

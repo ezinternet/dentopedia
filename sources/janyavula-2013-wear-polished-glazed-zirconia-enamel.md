@@ -3,7 +3,7 @@ title: "The wear of polished and glazed zirconia against enamel"
 authors: Sridhar Janyavula, Nathaniel Lawson, Deniz Cakir, Preston Beck, Lance C. Ramp, John O. Burgess
 year: 2013
 doi: 10.1016/S0022-3913(13)60005-0
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/janyavula-2013-wear-polished-glazed-zirconia-enamel.pdf
 pdf_filename: janyavula-2013-wear-polished-glazed-zirconia-enamel.pdf
 source_collection: external

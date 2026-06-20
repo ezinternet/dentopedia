@@ -3,7 +3,7 @@ title: "Two-Year Clinical Evaluation of Enamel Wear Antagonistic to Polished and
 authors: Hayam Badawy, Shaimaa Abo El-Farag, Ahmed Attia
 year: 2025
 doi: 10.1111/jerd.13388
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/badawy-2025-enamel-wear-zirconia-endocrowns-2year.pdf
 pdf_filename: badawy-2025-enamel-wear-zirconia-endocrowns-2year.pdf
 source_collection: external

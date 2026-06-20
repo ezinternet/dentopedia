@@ -3,7 +3,7 @@ title: "Retention strength of monolithic zirconia crowns cemented with different
 authors: Mohamed Shokry, Walid Al-Zordk, Mohamed Ghazy
 year: 2022
 doi: 10.1186/s12903-022-02223-0
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shokry-2022-zirconia-crown-primer-cement-retention.pdf
 pdf_filename: shokry-2022-zirconia-crown-primer-cement-retention.pdf
 source_collection: external

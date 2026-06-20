@@ -3,7 +3,7 @@ title: "Effect of coarse grinding, overglazing, and 2 polishing systems on the f
 authors: Mahshid Mohammadi-Bassir, Mansoure Babasafari, Mohammad Bagher Rezvani, Mahdieh Jamshidian
 year: 2017
 doi: N/A
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia.pdf
 pdf_filename: mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia.pdf
 source_collection: external

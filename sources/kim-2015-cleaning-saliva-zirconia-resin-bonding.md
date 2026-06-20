@@ -3,7 +3,7 @@ title: "Efficacy of various cleaning solutions on saliva-contaminated zirconia f
 authors: Da-Hye Kim, Jun-Sik Son, Seong-Hwa Jeong, Young-Kyung Kim, Kyo-Han Kim, Tae-Yub Kwon
 year: 2015
 doi: 10.4047/jap.2015.7.2.85
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2015-cleaning-saliva-zirconia-resin-bonding.pdf
 pdf_filename: kim-2015-cleaning-saliva-zirconia-resin-bonding.pdf
 source_collection: external

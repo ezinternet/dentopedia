@@ -3,7 +3,7 @@ title: "The need for polishing and occlusal adjustment of zirconia prostheses fo
 authors: Keishu Tachibana, Ikiru Atsuta, Yoshihiro Tsukiyama, Rika Kuwatsuru, Takehiro Morita, Hiroya Yoshimatsu, Yasuyuki Matsushita, Ikue Narimatsu, Yasunori Ayukawa, Yoshinori Sawae, Kiyoshi Koyano
 year: 2021
 doi: 10.4012/dmj.2020-190
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tachibana-2021-polishing-zirconia-antagonist-wear.pdf
 pdf_filename: tachibana-2021-polishing-zirconia-antagonist-wear.pdf
 source_collection: external

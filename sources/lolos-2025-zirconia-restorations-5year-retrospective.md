@@ -3,7 +3,7 @@ title: "Retrospective Long-Term Survival Rate and Clinical Performance of Zircon
 authors: Dan Lolos, Sorin Gheorghe Mihali, Stefania Dinu, Mihai Mitariu, Anca Tudor, Roxana Oancea
 year: 2025
 doi: 10.3390/medicina61020210
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lolos-2025-zirconia-restorations-5year-retrospective.pdf
 pdf_filename: lolos-2025-zirconia-restorations-5year-retrospective.pdf
 source_collection: external

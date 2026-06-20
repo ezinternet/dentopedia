@@ -3,7 +3,7 @@ title: "Two-body wear of monolithic, veneered and glazed zirconia and their corr
 authors: Bogna Stawarczyk, Mutlu Özcan, Felix Schmutz, Albert Trottmann, Malgorzata Roos, Christoph H.F. Hämmerle
 year: 2013
 doi: 10.3109/00016357.2011.654248
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia.pdf
 pdf_filename: stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia.pdf
 source_collection: external

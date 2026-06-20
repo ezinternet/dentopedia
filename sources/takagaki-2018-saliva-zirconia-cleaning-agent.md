@@ -3,7 +3,7 @@ title: "Effect of saliva contamination and cleaning agent on bond strength of re
 authors: Tomohiro Takagaki, Noriko Hass, Takuya Yoshihara, Noriko Ando
 year: 2018
 doi: 10.4012/dmj.2017-376
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/takagaki-2018-saliva-zirconia-cleaning-agent.pdf
 pdf_filename: takagaki-2018-saliva-zirconia-cleaning-agent.pdf
 source_collection: external

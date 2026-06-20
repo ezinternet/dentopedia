@@ -3,7 +3,7 @@ title: "Antagonist wear of three CAD/CAM anatomic contour zirconia ceramics"
 authors: Ji-Hee Park, Sangwon Park, Kwangmin Lee, Kwi-Dug Yun, Hyun-Pil Lim
 year: 2014
 doi: 10.1016/j.prosdent.2013.06.002
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2014-antagonist-wear-cad-cam-zirconia-enamel.pdf
 pdf_filename: park-2014-antagonist-wear-cad-cam-zirconia-enamel.pdf
 source_collection: external

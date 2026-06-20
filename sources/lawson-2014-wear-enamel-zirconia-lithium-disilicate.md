@@ -3,7 +3,7 @@ title: "Wear of enamel opposing zirconia and lithium disilicate after adjustment
 authors: Nathaniel C. Lawson, Sridhar Janyavula, Sarah Syklawer, Edward A. McLaren, John O. Burgess
 year: 2014
 doi: 10.1016/j.jdent.2014.09.008
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lawson-2014-wear-enamel-zirconia-lithium-disilicate.pdf
 pdf_filename: lawson-2014-wear-enamel-zirconia-lithium-disilicate.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "10-Methacryloyloxydecyl Dihydrogen Phosphate (10-MDP)-Containing Cleaner
 authors: Meshal M. Awad, Faisal Alhalabi, Khalid M. Alzahrani, Mohammed Almutiri, Faisal Alqanawi, Latifah Albdiri, Abdulaziz Alshehri, Ali Alrahlah, Mohammed H. Ahmed
 year: 2022
 doi: 10.3390/ma15031023
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/awad-2022-mdp-cleaner-contaminated-zirconia.pdf
 pdf_filename: awad-2022-mdp-cleaner-contaminated-zirconia.pdf
 source_collection: external

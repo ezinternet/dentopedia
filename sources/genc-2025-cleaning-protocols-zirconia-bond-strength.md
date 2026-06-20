@@ -3,7 +3,7 @@ title: "Effects of Cleaning Protocols on Resin Bond Strength to Saliva-Contamina
 authors: Ozge Genc, Necla Demir, Mutlu Özcan
 year: 2025
 doi: 10.3290/j.jad.c_2011
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/genc-2025-cleaning-protocols-zirconia-bond-strength.pdf
 pdf_filename: genc-2025-cleaning-protocols-zirconia-bond-strength.pdf
 source_collection: external

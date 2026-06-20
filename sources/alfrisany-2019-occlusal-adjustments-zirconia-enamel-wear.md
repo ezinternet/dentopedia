@@ -3,7 +3,7 @@ title: "Simulated occlusal adjustments and their effects on zirconia and antagon
 authors: Najm Mohsen Alfrisany, Babak Shokati, Laura Eva Tam, Grace Mendonca De Souza
 year: 2019
 doi: 10.4047/jap.2019.11.3.162
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.pdf
 pdf_filename: alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear.pdf
 source_collection: external

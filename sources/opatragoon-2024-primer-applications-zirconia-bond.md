@@ -3,7 +3,7 @@ title: "Comparison of the Shear Bond Strength Using Primers with Different Appli
 authors: Suphakit Opatragoon, Awiruth Klaisiri, Tool Sriamporn, Niyom Thamrongananskul
 year: 2024
 doi: 10.1055/s-0043-1777821
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/opatragoon-2024-primer-applications-zirconia-bond.pdf
 pdf_filename: opatragoon-2024-primer-applications-zirconia-bond.pdf
 source_collection: external

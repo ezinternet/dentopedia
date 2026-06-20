@@ -3,7 +3,7 @@ title: "Which Zirconia Surface-cleaning Strategy Improves Adhesion of Resin Comp
 authors: Nathalia Ramos da Silva, Gabriela Monteiro de Araújo, Taciana Emília Leite Vila-Nova, Marcela Guedes Pereira Gouvêa Bezerra, Patrícia dos Santos Calderone, Mutlu Özcan, Rodrigo Othávio de Assunção e Souza
 year: 2022
 doi: 10.3290/j.jad.b2916437
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2022-zirconia-saliva-cleaning-sr-ma.pdf
 pdf_filename: silva-2022-zirconia-saliva-cleaning-sr-ma.pdf
 source_collection: external

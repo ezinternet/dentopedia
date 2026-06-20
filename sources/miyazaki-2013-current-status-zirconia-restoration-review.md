@@ -3,7 +3,7 @@ title: "Current status of zirconia restoration"
 authors: Takashi Miyazaki, Takashi Nakamura, Hideo Matsumura, Seiji Ban, Taira Kobayashi
 year: 2013
 doi: 10.1016/j.jpor.2013.09.001
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/miyazaki-2013-current-status-zirconia-restoration-review.pdf
 pdf_filename: miyazaki-2013-current-status-zirconia-restoration-review.pdf
 source_collection: external

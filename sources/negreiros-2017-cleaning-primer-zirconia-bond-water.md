@@ -3,7 +3,7 @@ title: "Effect of cleaning agent, primer application and their combination on th
 authors: William Matthew Negreiros, Glaucia Maria Bovi Ambrosano, Marcelo Giannini
 year: 2017
 doi: 10.4103/ejd.ejd_276_16
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/negreiros-2017-cleaning-primer-zirconia-bond-water.pdf
 pdf_filename: negreiros-2017-cleaning-primer-zirconia-bond-water.pdf
 source_collection: external

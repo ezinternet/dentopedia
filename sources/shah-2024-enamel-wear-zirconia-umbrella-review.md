@@ -3,7 +3,7 @@ title: "An evaluation of antagonist enamel wear opposing full-coverage zirconia 
 authors: Naisargi Shah, Harshada Nerkar, Praveen Badwaik, Bhavna Ahuja, Rahul Malu, Nikhil Bhanushali
 year: 2024
 doi: 10.4103/jips.jips_32_24
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shah-2024-enamel-wear-zirconia-umbrella-review.pdf
 pdf_filename: shah-2024-enamel-wear-zirconia-umbrella-review.pdf
 source_collection: external

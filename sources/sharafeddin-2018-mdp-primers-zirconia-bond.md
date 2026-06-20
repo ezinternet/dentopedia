@@ -3,7 +3,7 @@ title: "Effects of Universal and Conventional MDP Primers on the Shear Bond Stre
 authors: Farahnaz Sharafeddin, Soodabe Shoale
 year: 2018
 doi: N/A
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 pdf_filename: sharafeddin-2018-mdp-primers-zirconia-bond.pdf
 source_collection: external

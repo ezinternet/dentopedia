@@ -75,8 +75,8 @@ Prospective study (n=101 posterior elements, 2-year ex vivo monitoring): LTD con
 
 ## 6. Related Work
 
-- Koenig et al. 2024 — 5-year follow-up of this cohort [[dental-materials/koenig-2024-ltd-monolithic-zirconia-5year-prospective]]
-- Leitão et al. 2022 — SR+MA on MZ single crown survival [[dental-materials/leitao-2022-monolithic-zirconia-single-crown-survival-sr]]
+- Koenig et al. 2024 — 5-year follow-up of this cohort [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]]
+- Leitão et al. 2022 — SR+MA on MZ single crown survival [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]]
 - Chevalier 2006 — foundational LTD biomaterials review
 
 ## 7. Glossary

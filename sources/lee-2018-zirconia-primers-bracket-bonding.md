@@ -3,7 +3,7 @@ title: "Comparison of shear bond strength of ceramic brackets bonded to zirconia
 authors: JY Lee, JC Ahn, SI An, Jeong-won Park
 year: 2018
 doi: 10.5395/rde.2018.43.e7
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2018-zirconia-primers-bracket-bonding.pdf
 pdf_filename: lee-2018-zirconia-primers-bracket-bonding.pdf
 source_collection: external

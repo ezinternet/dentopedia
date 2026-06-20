@@ -3,7 +3,7 @@ title: "Microshear bond strength of dual-cure resin cement in zirconia after dif
 authors: Katherine Joselyn Atoche-Socola, Luis Ernesto Arriola-Guillén, Ana Isabel López-Flores, Isadora Martini Garcia, Gustavo Huertas-Mogollón, Fabrício Mezzomo Collares, Vicente Castelo Branco Leitune
 year: 2021
 doi: 10.4047/jap.2021.13.4.237
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/atoche-socola-2021-cleaning-zirconia-microshear.pdf
 pdf_filename: atoche-socola-2021-cleaning-zirconia-microshear.pdf
 source_collection: external

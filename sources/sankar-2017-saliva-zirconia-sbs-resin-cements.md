@@ -3,7 +3,7 @@ title: "Comparative evaluation of shear bond strength of zirconia restorations c
 authors: Sriram Sankar, Vijayalakshmi V. Kondas
 year: 2017
 doi: 10.4103/ijdr.IJDR_274_16
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sankar-2017-saliva-zirconia-sbs-resin-cements.pdf
 pdf_filename: sankar-2017-saliva-zirconia-sbs-resin-cements.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Strength-limiting damage and defects of dental CAD/CAM full-contour zirc
 authors: Kwon YS, Kim JH, Lee H, Scherrer SS, Lee HH
 year: 2024
 doi: 10.1016/j.dental.2024.02.003
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2024-strength-limiting-defects-zirconia-cad-cam.pdf
 pdf_filename: kwon-2024-strength-limiting-defects-zirconia-cad-cam.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Identifies the specific failure origins (strength-limiting defects) in CAD/CAM full-contour zirconia from milling and intrinsic processing — bridges material science to clinical fracture risk. Directly extends [[dental-materials/chopra-2024-mechanical-characteristics-zirconia-dentistry]] by showing where and how fractures initiate in clinically processed zirconia, and informs which surface treatment (polishing vs. as-sintered) changes the flaw population driving strength and reliability.
+Identifies the specific failure origins (strength-limiting defects) in CAD/CAM full-contour zirconia from milling and intrinsic processing — bridges material science to clinical fracture risk. Directly extends [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] by showing where and how fractures initiate in clinically processed zirconia, and informs which surface treatment (polishing vs. as-sintered) changes the flaw population driving strength and reliability.
 
 ## One-line Summary
 
@@ -67,10 +67,10 @@ In vitro fractographic study (n=168 specimens, 7 zirconia materials, 3–5 mol% 
 
 ## 6. Related Work
 
-- Chopra 2024 — mechanical characteristics of dental zirconia [[dental-materials/chopra-2024-mechanical-characteristics-zirconia-dentistry]]
-- Cesar 2024 — 15-year evolution of dental zirconia processing [[dental-materials/cesar-2024-dental-zirconia-15years-material-processing]]
-- Ban 2023 — dental zirconia types [[dental-materials/ban-2023-dental-zirconia-types-development-review]]
-- Aljomard 2022 — enamel wear by monolithic zirconia [[dental-materials/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]]
+- Chopra 2024 — mechanical characteristics of dental zirconia [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]]
+- Cesar 2024 — 15-year evolution of dental zirconia processing [[dental-materials/zirconia/cesar-2024-dental-zirconia-15years-material-processing]]
+- Ban 2023 — dental zirconia types [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]]
+- Aljomard 2022 — enamel wear by monolithic zirconia [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]]
 
 ## 7. Glossary
 

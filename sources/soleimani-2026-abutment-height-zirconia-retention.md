@@ -3,7 +3,7 @@ title: "Effect of Tooth Abutment Height on Retention of CAD/CAM Monolithic Zirco
 authors: Fatemeh Soleimani, Azam Sadat Mostafavi, Hamid Jalali
 year: 2026
 doi: 10.1155/IJOD/4694705
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/soleimani-2026-abutment-height-zirconia-retention.pdf
 pdf_filename: soleimani-2026-abutment-height-zirconia-retention.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Effect of grinding and heat treatment on the mechanical behavior of zirc
 authors: Gabriela Freitas Ramos, Gabriel Kalil Rocha Pereira, Marina Amaral, Luiz Felipe Valandro, Marco Antonio Bottino
 year: 2016
 doi: 10.1590/1807-3107BOR-2016.vol30.0012
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ramos-2016-grinding-heat-treatment-zirconia-flexural.pdf
 pdf_filename: ramos-2016-grinding-heat-treatment-zirconia-flexural.pdf
 source_collection: external

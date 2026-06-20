@@ -14,7 +14,7 @@ relations:
 
 ## Why Ingested
 
-5-year follow-up of the Koenig 2021 LTD cohort — extends LTD documentation to 5 years, confirms slow but statistically significant progression, and raises a new safety concern: grain pull-out and potential 3Y-TZP nanoparticle release into the body. [[dental-materials/koenig-2021-ltd-monolithic-zirconia-prospective]]
+5-year follow-up of the Koenig 2021 LTD cohort — extends LTD documentation to 5 years, confirms slow but statistically significant progression, and raises a new safety concern: grain pull-out and potential 3Y-TZP nanoparticle release into the body. [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]]
 
 ## One-line Summary
 
@@ -78,7 +78,7 @@ relations:
 
 ## 6. Related Work
 
-- Koenig et al. 2021 — 2-year results from same cohort [[dental-materials/koenig-2021-ltd-monolithic-zirconia-prospective]]
+- Koenig et al. 2021 — 2-year results from same cohort [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]]
 - Chevalier 2006 — foundational LTD review in biomaterials
 - Douillard et al. — FIB-SEM methodology used in this study
 

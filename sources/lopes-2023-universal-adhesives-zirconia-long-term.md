@@ -3,7 +3,7 @@ title: "Are Universal Adhesives Effective for Bonding to Zirconia in the Long Te
 authors: Raquel de Oliveira Lopes, Deise Caren Somacal, Cláudia Freitas de Moura Modena, Ana Maria Spohr
 year: 2023
 doi: 10.4103/ccd.ccd_327_23
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopes-2023-universal-adhesives-zirconia-long-term.pdf
 pdf_filename: lopes-2023-universal-adhesives-zirconia-long-term.pdf
 source_collection: external

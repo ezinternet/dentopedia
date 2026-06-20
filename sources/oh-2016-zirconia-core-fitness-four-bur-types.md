@@ -4,7 +4,7 @@ authors: Sang-Hoon Oh, Hong-Bing Shi, Hyeong-Rok Noh, Jeong-Hui Ji, Min-Ho Lee, 
 year: 2016
 doi: 10.14815/kjdm.2016.43.3.281
 journal: 대한치과재료학회지 2016;43(3):281-288
-category: [dental-materials]
+category: [dental-materials/zirconia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/oh-2016-zirconia-core-fitness-four-bur-types.pdf
 pdf_filename: oh-2016-zirconia-core-fitness-four-bur-types.pdf
 source_collection: external
