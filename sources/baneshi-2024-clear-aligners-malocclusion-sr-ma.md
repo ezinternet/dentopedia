@@ -3,7 +3,7 @@ title: "Effectiveness of clear orthodontic aligners in correcting malocclusions:
 authors: Baneshi M, O'Malley L, El-Angbawi A, Thiruvenkatachari B
 year: 2024
 doi: 10.1016/j.jebdp.2024.102081
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: false
 pmid: "39947778"
@@ -14,7 +14,7 @@ text_filename: baneshi-2024-clear-aligners-malocclusion-sr-ma.txt
 
 ## Why Ingested
 
-`clear-aligner` sweep efficacy 축의 **RCT-only 정량 앵커**. umbrella [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 의 "차이 없음(경중등도)" 결론을 RCT 21편 메타분석 수치로 뒷받침하고 치주·QoL 효과크기를 제공. paywall이라 abstract-only.
+`clear-aligner` sweep efficacy 축의 **RCT-only 정량 앵커**. umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 의 "차이 없음(경중등도)" 결론을 RCT 21편 메타분석 수치로 뒷받침하고 치주·QoL 효과크기를 제공. paywall이라 abstract-only.
 
 ## One-line Summary
 
@@ -56,9 +56,9 @@ EMBASE/Medline/Cochrane/LILACS/WoS/EBMR to Oct 2024; RCTs only; RoB 2. 600 recor
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context, same conclusion direction.
-- [[wiki/orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal outcome, more cautious.
-- [[wiki/orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — complement for complex/extraction cases.
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context, same conclusion direction.
+- [[wiki/orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal outcome, more cautious.
+- [[wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — complement for complex/extraction cases.
 
 ## 7. Glossary
 
