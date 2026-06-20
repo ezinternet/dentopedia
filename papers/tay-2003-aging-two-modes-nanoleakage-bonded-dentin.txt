@@ -1,0 +1,13 @@
+Aging affects two modes of nanoleakage expression in bonded dentin.
+
+Authors: Tay FR, Hashimoto M, Pashley DH, Peters MC, Lai SCN, Yiu CKY, Cheong C
+Journal: J Dent Res 2003;82(7):537-41
+PMID 12821715 | DOI 10.1177/154405910308200710
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Water sorption into resin-dentin interfaces precedes hydrolytic degradation. We hypothesized that these processes are morphologically manifested by the uptake of ammoniacal silver nitrate, which is thought to trace hydrophilic domains and water-filled channels within matrices. Water sorption is thought to be nonuniform and can be traced by the use of silver nitrate. Human teeth bonded with an experimental filled-adhesive were aged in artificial saliva (experimental) or non-aqueous mineral oil (control). Specimens retrieved for up to a 12-month period were immersed in 50 wt% ammoniacal silver nitrate and examined by TEM for identification of the changes in their silver uptake.
+
+RESULTS: Reticular silver deposits initially identified within the bulk of hybrid layers in the experimental group were gradually reduced over time, but were subsequently replaced by similar deposits located along the hybrid layer-adhesive interface. Silver uptake in water-binding domains of the adhesive layers increased with aging, resulting in water tree formation. These water-filled channels may act as potential sites for hydrolytic degradation of resin-dentin bonds.
+
+(Significance: defines the two modes of nanoleakage — reticular/within-hybrid-layer vs water-tree/spotted within the adhesive — and shows aging shifts expression toward water trees, linking water sorption to bond degradation.)
