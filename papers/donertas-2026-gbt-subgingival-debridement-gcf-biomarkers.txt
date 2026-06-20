@@ -1,0 +1,13 @@
+Analysis of the impact of contemporary subgingival debridement techniques on immunological biomarkers in gingival crevicular fluid
+
+Authors: Donertas et al. (2 authors)
+Journal: BMC Oral Health, 2026
+DOI: 10.1186/s12903-026-08748-y
+PMID: 42304353
+Source: https://pubmed.ncbi.nlm.nih.gov/42304353/
+
+NOTE: abstract-only — full text not retrieved (no PMC full text available).
+
+ABSTRACT
+
+In non-surgical periodontal therapy, periodontal curettes are used for scaling and root planing (standard for mild-moderate periodontitis). Prospective clinical study evaluating two non-surgical therapy modalities in Stage 1 and Stage 2 periodontitis. 80 nonsmoking, systemically healthy volunteers, randomly divided into Guided Biofilm Therapy (GBT) group vs conventional therapy (CT: Gracey curette + ultrasonic device). Assessed before and 1 and 3 months after therapy: pocket depth (PD), Gingival Index (GI), Plaque Index (PI), Bleeding on Probing (BOP), and GCF levels of IL-1β, IL-10, TNF-α, MMP-8. Both approaches significantly improved all indicators (p<0.001). At 1 and 3 months, GBT showed a greater decrease in GI, PI, and IL-1β than CT (p<0.05). No significant between-group differences in TNF-α, IL-10, MMP-8. Conclusion: GBT is a viable option, especially for managing plaque and lowering inflammatory response (IL-1β); larger/longer studies needed.
