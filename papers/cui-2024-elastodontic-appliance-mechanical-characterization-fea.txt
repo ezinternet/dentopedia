@@ -1,0 +1,338 @@
+Mechanical characterization and structural analysis of elastodontic appliances under intraoral and artificial aging conditions
+
+PMID 39487402 | PMCID PMC11529478 | DOI 10.1186/s12903-024-05101-z
+Source: PMC open-access full text.
+
+Introduction
+
+Oral myofunctional therapy (OMT) is considered to be a crucial part of orthodontic treatment for adolescents. It involves stimulating and re-educating the perioral muscles with simple, multifunctional removable appliances to eliminate oral muscular dysfunction [,]. It offers the potential to establish a new neuromuscular balance and induce positive changes in dentoalveolar and facial growth [].
+
+Elastodontic appliances (EAs), as shown in Fig., are removable silicone elastomer devices to realize OMT, which are known to be more comfortable alternatives to conventional removable acrylic resin appliances [] The first attempt was done by Klammt with introducing Elastic Open Activator (EOA) []. Both the material and the shape can affect the clinical effectiveness and characteristics of EAs []. Liquid silicone rubber (LSR) has been included as a modern EA ingredient because of its high elasticity, and several brands of EAs with similar LSR ingredients with different shapes are used clinically. For adolescents with various malocclusions, EAs are available with various customized structures, including vestibular flanges, lingual ramps, and occlusal plates, to achieve tooth movement and growth modification [–]. For OMT, patients are asked to wear the EA while sleeping and for at least 2 h while awake, for a total of about 12 h per day. The intraoral lifespan of EAs is typically between 6 and 9 months, and at that point, the appliance must either be disposed of or replaced. Clinical evidence suggests that EAs seem to stiffen over time [], and— some can even become cracked or fractured. This leads to lower clinical efficacy and a shorter aligner lifespan, which increases the risk of OMT failure. Therefore, research on the aging characteristics of EAs is vital for guiding of clinical application.
+
+Fig. 1
+
+Elastodontic appliance
+
+Viscoelasticity is a mechanical property of polymer materials by which the presence of stress -relaxation phenomena cause changes in the stress -strain relationship over time [,]. This ensures that the elastomeric device will exert slight and biologically compatible forces when the patient bite the occlusal plates and engage in myofunctional training []. Since LSR is a viscoelastic material made of a polymer matrix and filler, degradation of the matrix and fillers, interfacial debonding, and microcracking under mechanical and environmental changes can impair viscoelasticity, raise the possibility of undesired force, and ultimately shorten the clinical service lifespan. Similar to other silicone rubbers [–], intraoral temperature, salivary pH, and compression stress are the key factors that cause the deterioration of elastomer’s mechanical properties over time [–]. While the in vitro mechanical behavior of elastodontic devices has been studied, there is a lack of research analyzing the degradation mechanism and how the structural and mechanical characteristics change under salivary aging conditions. Furthermore, current research on the viscoelasticity variation law of aged EAs is limited.
+
+Moreover, the majority of the research has concentrated on a neutral liquid environment, while patients with systemic disease or particular dietary habits may have saliva pH values that deviate from the typical 6.6–7.4 [,]. Decreased salivary pH is often associated with increased caries severity [], whereas increased salivary pH has been related to the prevalence of periodontal disease; salivary pH in severe periodontitis can be up to 8 []. The influence of acidity and alkalinity on silicone rubber composite insulators is particularly obvious among the environmental factors []of silicone rubbers. However, it is uncertain if salivary pH has an impact on orthodontic silicone elastomers.
+
+The purpose of this study was to characterize the mechanical behavior and analyze the aging mechanism of EAs under different salivary conditions in order to improve the predictability of the OMT process. The mechanical behavior of the elastomeric devices was evaluated in vitro under artificial aging conditions with various levels of salivary pH. Meanwhile, to further illustrate the structural alterations of EAs, the effects of intraoral aging were also investigated with clinically retrieved appliances, and the reasons for the change in mechanical properties were explained accordingly. Scanning electron microscopy (SEM), Fourier transform infrared spectroscopy (FTIR), and X-ray diffraction (XRD) were used for characterization. It is anticipated that the findings will lead to recommendations for appropriate treatment protocols in clinical practice.
+
+Materials and methods
+
+Sample preparation
+
+To address the influence of various manufacturing methods and shape designs, this study focused on EAs. A total of 46 appliance with standard shape were used for mechanical testing under artificial aging conditions. Five EAs were retrieved under a research protocol approved by the Institutional Ethical Board (K2023025, Stomatology Hospital of China Medical University), after obtaining informed consent from the patients’ parents. EAs used clinically 2, 3, 6, 9, and 12 months were collected from 5 patients. A portion of EAs was retrieved because of clinically observable rupture of the appliance, while others were withdrawn because the appliance design proposal had to be resubmitted. All EAs were not mechanically damaged during the sterilization of the device, and no decontamination substances that may damage the surface of the device were used.
+
+For the mechanical test, there were 46 standard-shaped EAs, 15 in each group, noted as A, B, and C for testing at intervals of 1 (group A), 2 (group B) and 3 (group C) months, and 1 for reference (REF) with no aging. Each group was aged in a simulated oral environment with pre-adjusted artificial saliva (CMC; Leagene Biotechnology, Beijing, China) and pH values of 6, 7, and 8 (noted as X6, X7, and X8). The samples were kept in beakers in a heated water bath at 37 ℃ until the analysis. In this test, 3 months of 24 h artificial aging in salivary conditions simulated 6 months of clinical service (use for 12 h a day). The beakers were sealed with tinfoil to avoid interference of light. The volume of artificial saliva added to the samples was three times the volume of each sample to ensure that the material was completely submerged in saliva, and the fluid was changed every 3 days.
+
+Morphological characterization and structural analysis of appliance used intraorally from patients whose salivary pH was 6.6–7.4 was performed. Before retrieving the EAs, each enrolled patient was instructed to wear the appliance while sleeping and for 3 h during the day. The 3 h were to be divided into 3 periods of 1 h each, and in each period, the patient was instructed to bite heavily into the occlusal plates of the appliance for 1 min and gently for 1 min for a half-hour. For the next half-hour, the patient was instructed to only bite gently into the appliance and to practice myofunctional training to keep the lips in contact. For each retrieved EA aged intraorally, 2 samples of approximately 7 mm × 3 mm × 2 mm were separately cut with a scalpel from the same position on the buccal flange (BF) and occlusal plate (OP) for future examination (= 4 specimens). The in vitro specimens were cut in the same way as the intraoral ones.
+
+Compression test
+
+Two types of cyclic compression tests were performed to investigate effects of cycle number and strain amplitude on artificially aged EAs (Table).
+
+Table 1
+
+Standards for two cyclical compression tests
+
+Test Item
+
+Test Standard
+
+T4
+
+Four cycles with increasing strain amplitude (0.5, 1, 1.5, 2 mm). Loading stage from small pre-force of 1 N to strain amplitude and unloading stage at the same speed as pre-force included in each cycle.
+
+T10
+
+Ten cycles with the same strain amplitude of 1.5 mm. Loading and unloading stages were the same as T4.
+
+The compression tests were performed with a universal testing machine (E43.104; MTS, Shenzhen, China) at 23 ℃. Uniaxial loading and unloading were performed with a constant crosshead speed (around 5 mm/min), and the pre-force was 1 N. A pair of standard-shaped dental models were used in the tests to hold the EAs. The fixture provided parallel surfaces for the compression test and allowed the force to be applied on the same region of the EAs during the tests. The measurements were repeated 5 times, and satisfactory reproducibility was confirmed.
+
+Parameters derived from the stress -strain data are listed in Table. In test T4, the Mullins index (MI) was calculated to quantify the Mullins effect, as proposed in a previous study []. Peak stress was collected at 1.0 mm strain amplitude in test T10 to avoid the effect of the elastic limit. The compression set (CS) is the amount of deformation under constant strain, which is inversely proportional to the ability to resist permanent deformation. In this study, the value was measured instantly after unloading, without waiting for complete strain recovery.
+
+Table 2
+
+Parameters derived from compression tests
+
+Parameter
+
+Description
+
+Mullins index (MI) for test T4
+
+Ratio of stress in loading n to stress in loading+ 1 at maximum strain of loading n
+
+Compression set (CS) after unloading for test T10
+
+Ratio of instant residual strain to strain amplitude
+
+Peak stress for test T10
+
+Maximum stress value of certain loading curve at 1.0 mm strain amplitude
+
+Scanning electron microscopy -energy dispersive spectroscopy (SEM-EDS)
+
+For surface morphology characterization, two specimens cut from BF and OP sections were selected at random. The specimens were ultrasonically washed for 1 min in deionized water and dried with non-woven fabric. The aged surfaces were coated with a thin layer of gold in an ion sputterometer (JS-1600; HTCY, Beijing, China) for 120 s. Subsequently, the specimens were observed with a scanning electron microscope (SEM) (JSM-7001 F; JEOL, Tokyo, Japan) under 15.0 kV accelerating voltage. Carbon (C), oxygen (O), calcium (Ca), and silicon (Si) were detected via a mapping system using EDS (JSM-7001 F; JEOL, Tokyo, Japan) under operating conditions of 15.0 kV. The in vitro samples underwent the same examinations after 3 months of artificial aging.
+
+X-ray diffraction (XRD)
+
+Samples from BF were used for XRD analysis on a diffractometer (SmartLab; Rigaku, Tokyo, Japan) with CuKa. The accelerating voltage was 40 kV and the current intensity was 200 mA. The angles ranged between 5° and 100° (2θ), with a step size of 0.02°, and the scanning speed was selected as 5°/min.
+
+Attenuated total reflectance -fourier transform infrared (ATR-FTIR) spectroscopy
+
+An FTIR spectrometer (Thermo Fisher Nicolet iS50; Thermo Fisher Scientific, Waltham, MA, USA) with an attenuated total reflectance (ATR) accessory was used to characterize changes in the organic functional groups of the EA surface. The absorption spectra of the external surface of dried samples were acquired in the spectral range of 400–4000 cmat room temperature. The spectra data were processed using OMNIC software (OMNIC 9.7 software package; Nicolet, Unity Lab Services, USA), and ATR and baseline corrections were applied to every spectrum. The spectra of the EA materials and those of the previously referenced silica-based material were compared to match absorbances and identify molecules and bonds in the sample.
+
+Statistical analysis
+
+The collected data were analyzed using SPSS Statistics 26 (IBM Corporation, Somers, NY, USA). For comparison of peak stress, two-way ANOVA was performed. Three-way ANOVA and Least Significant Difference (LSD) post -hoc pairwise comparisons were used to compare MI and CS values under different aging conditions. Significance was set at< 0.05.
+
+Results
+
+Effects of artificial aging on mechanical properties of EAs
+
+In this study, the stress-softening phenomenon characterized by the Mullins Index was a combined effect of strain amplitude and cycling, representing the energy absorption ability of the viscoelastic material. This was observed in all samples. In both tests, the unloading and successive reloading stresses were lower than the original loading stress. As illustrated in Fig.a, the stress of unloading was lower than that of the corresponding loading process, and the reloading curve changed along the previous unloading path. When the strain exceeds the previous maximum strain, the reloading curve coincides with the main loading curve. The inset shows a magnified view of the third and fourth cycles, where the yellow line represents the difference in stress between cycle 3 and cycle 4 at a strain of 1.5 mm. In addition to the Mullins effect, residual strain and compression set occurred and increased with magnified strain amplitude due to the viscoelasticity of the LSR. The stress -strain curves from test T10 (Fig.e) demonstrate obvious stress softening, with the highest peak during the first loading cycle, up to a strain of about 0.5. Consecutive cycles with the same strain gradually reached lower peak stress. For all loops, the horizontal shift, representing the residual strain, is larger at low strains than high strains, and the first load accounts for the majority of the stress -softening process, with a noticeable horizontal shift.
+
+Fig. 2
+
+Representative stress -strain curves of cyclic compression loading tests. (,) T4 and T10 test results for REF sample. () Superimposed T4 test results. () Superimposed T10 test results
+
+The stress -strain curves of test T4 for the artificially aged EA samples are shown in Fig.b -d. Similar to the REF sample, every sample with different pH value and aging time exhibited an obvious Mullins effect during the load–unload–reload cycle. It can be observed that some samples exhibit a slant drop (gray arrow in Fig.b) in the stress -strain curve during the third or fourth cycle, which could be an indication of the destruction of the filler–polymer interface. For The first and last cycle of test T10 are shown in Fig.f -h. It can also be observed that the unloading loop was displaced more in REF than in the aged samples. This could be due to the decreased stress absorption ability upon salivary aging. Moreover, the shoulder around 3 N stress in the T10 curve, which is an indication of the destruction of the filler –polymer interface, became more prominent compared to the unprocessed sample.
+
+The derived data are presented as mean ± standard deviation in Table. Only the Mullins index values of cycle pairs 1–2 and 2–3 were compared to overcome the influence of the elastic limit. Statistically significant interactions between aging time and pH value or cycling number were detected for MI and CS (< 0.01), so subgroup analysis was conducted accordingly. However, no statistically significant interactions between the cycle number and pH value were detected in any tests (= 0.32 for MI,= 0.75 for CS, and= 0.29 for peak stress), indicating that aging time predominates in the degradation process.
+
+Table 3
+
+Descriptive analysis of MI, CS, and peak stress under different aging times and pH values
+
+Month
+
+pH
+
+MI
+
+CS
+
+PS ()
+
+MI (1–2)
+
+MI (2–3)
+
+CS 1
+
+CS 2
+
+CS 10
+
+REF
+
+1.021 ± 0.006
+
+1.048 ± 0.007
+
+0.335 ± 0.005
+
+0.346 ± 0.005
+
+0.406 ± 0.006
+
+14.818 ± 1.627
+
+1 M
+
+6
+
+1.028 ± 0.006
+
+1.029 ± 0.005
+
+0.265 ± 0.005
+
+0.295 ± 0.004
+
+0.345 ± 0.009
+
+12.004 ± 0.910
+
+7
+
+1.026 ± 0.002
+
+1.028 ± 0.003
+
+0.288 ± 0.005
+
+0.302 ± 0.002
+
+0.364 ± 0.002
+
+13.378 ± 0.808
+
+8
+
+1.088 ± 0.007
+
+1.085 ± 0.006
+
+0.312 ± 0.002
+
+0.334 ± 0.002
+
+0.373 ± 0.003
+
+11.038 ± 0.567
+
+2 M
+
+6
+
+1.015 ± 0.003
+
+1.019 ± 0.008
+
+0.292 ± 0.001
+
+0.309 ± 0.002
+
+0.354 ± 0.003
+
+11.198 ± 0.818
+
+7
+
+1.015 ± 0.005
+
+1.019 ± 0.008
+
+0.270 ± 0.002
+
+0.297 ± 0.004
+
+0.344 ± 0.003
+
+12.456 ± 1.286
+
+8
+
+1.058 ± 0.004
+
+1.054 ± 0.007
+
+0.353 ± 0.002
+
+0.372 ± 0.001
+
+0.423 ± 0.003
+
+10.508 ± 0.629
+
+3 M
+
+6
+
+1.011 ± 0.010
+
+1.017 ± 0.003
+
+0.324 ± 0.003
+
+0.341 ± 0.001
+
+0.377 ± 0.005
+
+9.878 ± 0.727
+
+7
+
+1.014 ± 0.006
+
+1.019 ± 0.002
+
+0.323 ± 0.003
+
+0.342 ± 0.002
+
+0.380 ± 0.001
+
+10.416 ± 0.797
+
+8
+
+1.017 ± 0.005
+
+1.022 ± 0.006
+
+0.342 ± 0.002
+
+0.356 ± 0.002
+
+0.398 ± 0.005
+
+9.752 ± 0.903
+
+Comparing REF with samples aged for 1, 2, and 3 months (groups A, B, and C), the main trend was that REF has the largest MI except for A8 and B8, and MI decreased with prolonged aging time (Fig.a). At each timepoint, the Mullins effect differed among salivary pH values. The main trend was that the samples in alkaline saliva (A8, B8, and C8) had the largest indices (< 0.01 for 1 and 2 months,< 0.05 for 3 months), but the difference between neutral and acidic pH was insignificant (= 0.696 for 1 month and= 0.938 for 2 months). For the interaction between aging time and cycle number, the MI increased with aging time for certain cycle pairs (< 0.01), except for MI (2–3) between group A and REF (= 0.848). For each timepoint, MI increased with increasing strain amplitude in REF and group C (< 0.05), but this trend was not significant for 1 and 2 months of aging (= 0.975 and 0.503).
+
+Fig. 3
+
+Mullins index (MI) calculated from test T4. In the legend, numbers in parentheses indicate loading curve pairs used for calculation. Bars for the different loading curve pairs are superimposed. Asterisks denote groups reaching the elastic limit in the third cycle.Compression set (CS) and peak stress calculated from test T10. Numbers in the legend indicate the loading cycle. Bars for the different loading curve pairs are superimposed
+
+As shown in Fig.b, peak stress values decreased after 1 month of aging and with immersion time (< 0.01). All samples in neutral saliva exhibited higher stress potential compared with other pH values (< 0.01). The compression set is inversely proportional to the elasticity of the silicone elastomer, indicating the degradation of resilience. Less CS was induced when EAs were aged in artificial saliva (< 0.01). Considering the interaction effect of cycle number, aging time, and pH value, CS increased with pH at 1 month (< 0.01), and demonstrated a non-monotonic change at 2 -months, with a noticeable increase in B8 and a decrease in B7 (< 0.01), corresponding with the higher MI in the T4 tests. However, the CS difference between acidic and neutral environments was not significant at 3 months (= 0.380). For all samples, CS increased with increasing cycles (< 0.01).
+
+Effects of aging on morphological and structural changes of EAs
+
+The BF and OP of non-aged EA exhibited homogeneous and smooth surfaces (Fig.a, b). The BF region displayed parallel creases spaced at 3 μm intervals, while the OP sample displayed white filler particles along with shallow pores and scratches. Elemental mapping of REF (Fig.c) indicates dispersion and no signs of agglomeration.
+
+Fig. 4
+
+SEM results of REF and in vitro samples. The scale bar is shown in the lower right figure label. (,) Representative images reveal homogeneous surface morphology of BF and OP; particles (red arrow) and shallow pores (blue arrow) can be seen in some sections. () Elemental mapping of C, Si, and O indicates dispersion and no signs of agglomeration. () Representative images of artificially aged EAs with saliva pH of 6, 7, and 8 at 3 months (C6, C7, and C8)
+
+Figured, e shows that the physical degradation had not yet penetrated into the interior of the silicone, and only a few voids and pores could be found on the uniform and flat surface of C6 and C7. However, comparing Figs.f andb, it can be observed that the delamination on the outer surface of alkaline sample C8 was more serious than that of REF, C6, and C7, and the generation of cracks on the outer-layer film was evident. Detachment of filler particles was not obvious, since the sample was cleaned before observation, but the voids and cracks prove that debonding of the filler had occurred
+
+After intraoral exposure, the smooth elastomer surface became gradually rougher, with detached filler particles and micro-cracks, as shown in Fig.. The diameter of silicone filler particles was 3–5 μm (Fig.a, e), or larger when packed with others (Fig.i). A comparison of Figs.a and b anda and b shows that intraoral aging did not have an appreciable effect on the surface morphology of the EAs in the pre-aging period. More voids and signs of outer-layer film detachment appeared on the surface of the material after 3 -months, indicating the worn status after intraoral application (Fig.c, d). The voids and detached film were distributed along parallel traces to the creases on REF. The surface morphology was similar to what is shown in Fig.f, but with smaller crack spacing and fewer voids. After 6 months, the BF surface formed a scale-like structure with microcracks 50 μm in length and exfoliation of filler particles (Fig.e), yet the morphology was still acceptable, with no impact on daily usage. On the OP surface, there were highly ordered parallel ridge structures with 70 μm gaps, corresponding to the surface detachment traces (Fig.f). EDS mapping showed a dispersion of the elements on the scales (Fig.g, h). It was found that larger pores and grooves were more likely to be distributed only at the outer surface, but still maintained a parallel pattern, proving that aging did not cause complete failure of EA (Fig.i). On the heterogeneous OP surface, the gaps between ridge structures were decreased to 20–40 μm. Between the ridges, a single layer of dental calculus less than 200 μm in length was attached on the flat region (Fig.j). EDS mapping of an OP sample without calculus (Fig.k, l) showed dispersion of Si, and agglomeration of C and O on the margin of the ridges, indicating complete debonding of the surface. Arrows point out visible fractures on the 12-month sample (Fig.m), which indicates that the EA was no longer suitable for intraoral service. From the corresponding SEM image, voids and microfractures appeared on the cross-section, as shown in Fig.n. However, the degradation was less severe on the interior cross-section than on the surface. The pore size in Fig.i, n is larger than that in Fig.a, which proves that the expand-and-merge process of pores continued, the fractures develop and expand from surface to inner structure. Closely packed dental calculus had a larger plaque size of 50–300 μm, and EDS mapping showed a high agglomeration of Ca. The relative O content increased, indicating the oxidation process of polymer.
+
+Fig. 5
+
+Representative SEM images of intraorally aged EAs. The turquoise boxes indicate the surface scanning area. The scale bar is shown in the lower right figure label. (,) Samples aged 2 months (2 M) of BF and OP. Filler particles and scratches can be seen. (,) Samples aged 3 months (3 M) of BF and OP. Smooth surface became rough, parallel creases appeared alongside detached films and formed exfoliation. (,) Samples aged 6 months (6 M) of BF and OP. Density of filler particles (red arrow) and micro-cracks (blue arrow) increased and formed a scale-like structure, and exfoliation of OP surface led to ridge-like structures. (,) BF sample aged 6 months (6 M) under low magnification and corresponding EDS mapping images. (,) Samples aged 9 months (9 M) of BF and OP. Filler particles agglomerated and increased surface roughness; dental calculus attached between ridges. (,) OP sample aged 9 months (9 M) with parallel ridges and corresponding EDS mapping images. (,) Photo and SEM image of samples aged 12 months (12 M). Blue arrows indicate OP fractures. Voids and cracks can be seen and surface roughness continued to increase. (,) OP image of a sample aged 12 months (12 M) indicates dental calculus formed larger plaques and EDS mapping showes high agglomeration of Ca
+
+FTIR analysis of REF (Fig.a) exhibited three main peaks corresponding to Si–O–Si, Si–CH, and Si–(CH)bonds at regions of 1100 − 1000, 1257, and 792 cm, respectively. The stretching vibrations of C–H groups of –CHbend and –CHwere also detected at 2958 and 2917 cm, respectively. These characteristic spectral absorptions allowed us to identify the molecular structure of the EA material as polydimethylsiloxane (PDMS), as previously reported in the literature [].
+
+Fig. 6
+
+(,) ATR-FTIR spectra of artificially and intraorally aged samples compared with REF (displayed with Y-axis offset). (,) Superimposition of spectra of representative functional groups over time under artificial and intraoral aging
+
+The FTIR spectra of artificially and intraorally aged samples (Fig.a, c) remained basically the same and revealed no new chemical bands compared with REF, indicating that the molecular structure of the EA material did not change after aging. No evidence for the formation of oxygen-containing groups was found. In the superimposed spectra (Fig.b), the intensity of the main chain Si-O-Si absorption peaks, from top to bottom, were C6, C7, C8, and REF. Comparing the changes in C–H bond in –CHgroup (2960 cm) absorption peaks, the sample aged in alkaline saliva had the lowest height. With respect to intraoral aging, it can be concluded that, with prolonged aging time, the Si-O-Si main chain absorption peak gradually increased, while the –CHand Si–(CH)absorption peak showed a downward trend (Fig.d) .
+
+Fig. 7
+
+XRD patterns of intraorally aged samples (displayed with Y-axis offset)
+
+The XRD pattern of the REF sample appear as a typical amorphous diffractogram with broad diffuse peaks and many burrs (Fig.). A broad peak at 2θ = 10–15° corresponds to the characteristic peaks of crosslinked PDMS, which is similar to the peak reported in previous literature []. The broad peak around 2θ = 22° represent the SiOfiller particles with smaller molecular spacing. In summary, this diffraction is characteristic of silicon-based materials []. The two peaks of the aged samples were very similar to that of the non-processed sample, indicating that intraoral condition had almost no effect on the amorphous structure of the EA matrix. This is in agreement with the FTIR results. However, except for the 2-month sample, the additional sharp peaks observed in the XRD pattern indicate the presence of crystalline loads. These sharp peaks, when searched in the ICDD database, matched with Fukalite (ICDD card 01-075-5080 or 01-075-2979) patterns, both with Ca(SiO)(CO)(OH)chemical formula. The presence of these crystalline phases suggests the formation of calcium silicate carbonate hydroxide on the EA surface
+
+Discussion
+
+Elastodontic appliances (EAs) are increasingly recognized for their role in orthodontic treatments, extending beyond traditional mechanical functions to influence oral muscular dynamics. They serve multifaceted purposes: as functional devices to improve oral function, as tools to alter muscular tension, and as active retainers to maintain post-treatment dental alignment. The efficacy of EAs is contingent upon their ability to apply and withstand various forces, including compression from clenching, which underscores the necessity for robust mechanical characterization.
+
+The longevity of EAs is directly related to their viscoelastic behavior. Ideally, EAs should exert light force and always return to their original shape after removal to avoid permanent deformation []. However, aging of the materials can compromise the stress absorption ability and reduce the resilience of the material. At the same time, fracture during intraoral service and excessive dental calculus attachment on the appliance surface are the main causes of failure with the use of EA, which can occur due to the deterioration in mechanical properties and increased surface roughness. From the structural analysis in this study, it can be concluded that EA is a two-part, highly viscoelastic silicone elastomer that, consists of dimethyl siloxane polymers and silica fillers. As described in previous studies [–], the essence of the aging reaction is that polymer materials undergo degradation, such as scission of polymer chains and crosslinking processes. The degradation of LSR decreases the mechanical properties of EAs, which is most directly reflected in decreased viscosity. For static application of the viscoelastic material, MI and CS values are not as critical. However, once the aged appliance undergoes large permanent deformation under periodic bite compression, pre-designed tooth movement will be altered and unwanted torque will be induced. Stiffening of the aged material could be evidence of a lower Mullins effect and stress-softening ability. Lower MI and higher CS could clinically compromise the ability of the elastodontics to exert biocompatible orthodontic force and absorb excessive masticatory loads, which could generate unwanted force/torque or even cause root resorption. Maintaining the Mullins effect and resisting CS are crucial for safety and comfort during clinical application. Meanwhile, a smooth surface morphology should also be maintained during the intraoral service of EAs to minimize fracture and prevent calculus attachment caused by harboring microorganisms.
+
+In a previous study [], the researchers conducted a five-cycle test of EAs and, reported slight plastic deformation ranging from 0.95 to 1.75% after compression loads. Meanwhile, compression also destroys the specimen itself, turning mechanical retention into destruction []. However, the experiment was not conducted in a simulated intraoral environment. As viscoelastic material is also used for intraoral applications, the mechanical and structural properties of clear aligner material were investigated, confirming that the molecular structure on the surface of thermoformed aligner materials was stable after several weeks of clinical use, and the trend of reduced in elastic modulus and accelerated stress relaxation after clinical use was obvious [,]. Other studies [,] have investigated the aging process of medical materials with silicone rubber ingredients under different simulated service environments such as synthetic sweat, disinfectants, and sebum solution. Studies have reported that the mechanical properties under acidic and alkaline environments differed after an aging period [,], and the scientific literature does not report the aging process of EAs under unique salivary pH condition. Therefore, we designed the in vitro simulated oral condition to investigate the aging mechanism of elastodontic appliances and the effect of different pH values. Clinically retrieved appliances were also used for structural characterization.
+
+We did not identify significant chemical component changes in the appliances after intraoral and artificial aging in this study, as shown in Fig.. However, the tested mechanical properties of the experimental samples showed significant differences compared to the reference sample, which are presumed to be governed by the degradation of polymer chains and physical interactions among the component molecules, as shown in Fig.. By combining the results of mechanical and structural analysis, we determined the aging mechanism of EA material in the salivary environment.
+
+The viscoelasticity of silicone elastomer is controlled the density of crosslinks and by the flexibility of the polymer network under compression loading []. It can be concluded that longer aging time and higher compression stress contribute to lower Mullins effect and compression set rate by destroying the structure of the silicone network and rearranged the molecular chains. Similar spectra may not indicate that polymers have the exact same composition, since the degree of polymerization can vary []; the decrease in the –CHabsorption peak, indicating that the side chains of LSR are gradually destroyed, and the augmented intensity of the main chain Si–O–Si absorption peaks indicate higher polymerization of the silicone matrix network after aging. The continuous crosslinking reaction promotes a more compact polymer network, resulting in friction in the reinforced molecular chain and increased macro rigidity of the material, which is most directly reflected in the decrease in MI and enhanced compression set rate.
+
+In this study, the short-term tests did not usually involve significant polymer network breakdown during the test procedure, and the differences between compression cycle numbers could be evidence of rearrangement and disentanglement of polymer chains. Although the instant CS values were distributed between 0.3 and 0.45, much larger than those reported in previous work [], the difference could be explained by the test protocol, and our CS value may have been lower in the viscoelastic material after strain recovery process with the establishment of new filler–matrix interactions. In addition, the existence of Hand OHpromoted the crosslinking of Si–O–Si main chains. The variation law is consistent with a previous study that an acidic environment has a catalytic effect on the crosslinking reaction []. The reduction of side chains was more evident under alkaline conditions, and the materials underwent a significant change, with higher MI and lower peak stress, indicating that OHdestroyed side bonds more than neutral and acidic conditions and a high concentration of OHpromotes the Mullins effect, which is in accordance with the breakage at filler -matrix surface observed by SEM. Moreover, the mechanical difference between the REF sample and aged samples can be ascribed to the plasticizing effect of water for amorphous polymers [,,], causing a decline in stress-softening ability. The lack of difference among XRD patterns confirms that the molecular structure inside the material is not destroyed after intraoral aging, and the formation of calcium silicate carbonate hydroxide indicates that, during the aging process, the detached silicone filler particles may become the calcification center for the dental calculus, which can be detected on SEM images. This is in accordance with the process of oral protein acting as a nucleus for the formation of microcrystalline deposits [].
+
+SEM results can visualize microstructural changes. Due to the scission and crosslinking of polymer chains, the spherical filler particles gradually agglomerated and detached as a result of the decreased compatibility of the filler with the silicone matrix, as previously explained []. The enlarged pore size proves that the expand-and-merge process of pores continued, and the aging degradation occurred not only on the surface but also in the interior, as the development and expansion of fractures from the surface to the inner structure agrees with previous results []. For the in vitro samples, the surface of the sample in alkaline saliva was the most severely affected, with delamination of the material surface and derivative lines. This occurs because OHcan react with silicone rubber to form silanol salts, breaking the methyl groups of the side chains and causing poor adhesion between the surface layer and the inner layer, which may induce interfacial defects. Moreover, it was observed that the intraoral samples underwent more severe degradation of their surface morphology than the in vitro samples, indicating that the compression loading and bacterial adhesion of EAs has a greater impact than salivary immersion alone.
+
+In summary, there were observable changes in the surface morphology and the degree of polymerization of materials upon aging, and the structural changes were acceptable within 6 months of clinical service. These variations are related to the changes in the mechanical behavior of the materials. The macroscopic aging characters demonstrate a trend of extending from the surface to the inside of the material, and scission of the methyl side chain bonds, crosslinking of Si–O–Si main chains, and delamination of the surface layer seem to be the main molecular degradation reactions for the elastomers under intraoral conditions. It is worth noting that silicone materials tend to get more degraded in an alkaline environment, suggesting that for patients with periodontitis, EAs need to be surface-modified to avoid rapid deterioration in the alkaline salivary environment. To combat this issue, it might be worthwhile to modify the outer layer to increase abrasion resistance and preserve the stable surface character of the material and slow down the aging process. In addition, the incorporation of nanoscale particulate fillers could be considered in future studies to improve the mechanical behavior and viscoelasticity against salivary aging.
+
+The advent of 3D scanning in orthodontics, as detailed in the systematic review [], has paved the way for a paradigm shift towards precision medicine. This technology enables the creation of highly accurate digital impressions that facilitate the design and fabrication of EAs tailored to individual patient needs. The implications of 3D scanning are profound, as they not only enhance the fit and comfort of EAs but also open avenues for 3D printing, promising a more efficient and personalized approach to appliance design. Furthermore, the integration of 3D scanning in the development of EAs represents a significant advancement, setting the stage for the proliferation of 3D-printed orthodontic appliances. This technology stands to improve clinical outcomes by allowing for detailed customization and precise control over the forces exerted by EAs, thus optimizing treatment efficacy and patient comfort.
+
+This research work has several limitations, including the selection of only one EA brand for evaluation, so the reported results may not be applicable to other brands with different ingredients. From a clinical standpoint, the actual impact of the mechanical changes on the efficiency of tooth movement and OMT efficiency remains to be demonstrated in clinical trials.
+
+Conclusion
+
+The polymer ingredient of EAs was determined to be PDMS with silica-based filler particles. Intraoral and artificial aging of EA materials demonstrated enhanced surface roughness caused by delamination of the outer layer and detachment of filler particles, and the latter became calcification nuclei for dental calculus, which further increased the surface roughness. No molecular composition change was detected, but the polymerization of main chains and scission of side chains were promoted during the aging process, which is the main degradation mechanism of the elastomer. The denser polymer network hindered inter-chain mobility and caused reduced viscoelasticity and stress-softening ability. No difference between acidic and neutral environments was observed, but the significantly deteriorated morphology and mechanical index confirmed that destruction of side bonds by the OHpromotes the degradation process with weaker filler -matrix interaction. Modifying the surface and filler may be an effective way to extend their clinical lifetime.
