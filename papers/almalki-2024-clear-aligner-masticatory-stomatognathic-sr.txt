@@ -1,0 +1,293 @@
+Impact of clear aligner therapy on masticatory musculature and stomatognathic system: a systematic review conducted according to PRISMA guidelines and the Cochrane handbook for systematic reviews of interventions
+
+Background
+
+Clear aligner therapy has gained popularity as a minimally invasive orthodontic treatment option. However, its impact on the masticatory musculature and the stomatognathic system is an area of growing interest, as it involves the adjustment of occlusion and tooth movement. This systematic review aims to comprehensively assess and synthesise existing evidence regarding the influence of clear aligner therapy on the masticatory musculature and the stomatognathic system.
+
+Methods
+
+An exhaustive search was performed on electronic databases that adhered to PRISMA guidelines. Clinical studies that evaluated the impact of patients receiving aligner orthodontic treatment on the muscles of the mastication and stomatognathic systems were included. A standardised data extraction form was devised for relevant variables. Two reviewers extracted the data variables. ROB-2 was used for bias evaluation in the selected studies.
+
+Results
+
+A total of six studies met the inclusion criteria. The wearing of clear aligners significantly impacted the muscles of mastication. Muscle activity and discomfort showed a significant alteration in the initial days of appliance placement. but this observation was temporary, with no significant changes thereafter in subsequent follow-up. Bite force reduction was also noted. All the studies evaluated showed good methodological quality.
+
+Conclusion
+
+The review found that aligned orthodontic treatment may have a variable impact on muscles of mastication, with a potential for initial exacerbation of symptoms followed by possible improvement. However, due to the limited number of studies and their heterogeneous nature, further robust research is recommended to fully understand the relationship between aligned orthodontic treatment and masticatory muscles.
+
+Introduction
+
+Clear orthodontic aligner treatment has become an integral part of dental healthcare due to the increasing demand for improved dental aesthetics and function. This form of treatment employs devices such as aligners or braces to adjust the position of teeth, thereby enhancing the alignment and overall oral health of individuals. However, alongside the pronounced benefits, there have been concerns regarding the potential adverse effects of orthodontic treatment (Table 1). One area of particular interest has been the association between aligned orthodontic treatment and the development of TMDs. TMDs comprise a group of conditions characterised by pain and dysfunction in the TMJ and the muscles of mastication. These disorders can significantly impact an individual’s quality of life, causing symptoms such as facial pain, headaches, and difficulties in chewing and speaking. The aetiology of TMDs is multifactorial, with factors such as trauma, stress, systemic diseases, malocclusion, and potentially orthodontic treatment playing contributory roles.
+
+Abbreviations utilised in the review
+
+Abbreviation	Full Form	 	TMD	Temporomandibular Disorder	 	OBC	Oral Behavior Checklist	 	TA	Anterior Temporal Muscle	 	MPP	Mandibular Postural Position	 	MVC	Maximal Voluntary Contraction	 	SCM	Sternocleidomastoid	 	MM	Masseter Muscle	 	sMMA	Sleep-time Masticatory Muscle Activity	 	SB	Sleep Bruxism	 	sEMG	Surface Electromyography	 	PCA	Passive Clear Aligners	 	MMA	Masticatory Muscle Activity	 	OD	Occlusal Discomfort	 	CAT	Clear Aligner Therapy	 	3D	Three-Dimensional	 	TMJ	Temporomandibular Joint
+
+Research in the scientific domain indicates a potential influence of orthodontic treatment and occlusal devices on the activation of masticatory muscles. In the context of patients diagnosed with myofascial pain syndrome, the application of multi-bracket devices for tooth realignment appears to yield a positive impact on masticatory muscle discomfort, albeit without completely eliminating the symptoms. Additionally, the utilisation of removable retainer appliances that accommodate dental coverage has been found to decrease basal activity within the anterior temporalis muscle.
+
+In cases involving internal derangement of the temporomandibular joint, the introduction of an occlusal device has been shown to affect the activation patterns of the masseter and anterior temporalis muscles. Moreover, a month-long treatment regimen with occlusal splints resulted in decreased masticatory muscle fatigue during maximal voluntary clenching in individuals with myofascial pain syndrome. Given the multifactorial etiology of TMDs, muscle responses are dependent not only on dental relationships but also on a multitude of other factors.
+
+The heterogeneous outcomes observed when orthodontic treatment is employed as the sole therapeutic intervention for TMDs can likely be attributed to the complex, multifactorial nature of TMDs. A myriad of elements, including parafunctional habits, occlusal interferences, and psychological components, have been implicated in the genesis and persistence of TMDs. Orthodontic treatment, while addressing some aspects, might not comprehensively cater to these factors, thereby resulting in suboptimal management of TMDs. However, a combination of orthodontic treatment with other therapeutic modalities, such as physical therapy, pharmacotherapy, and behavioural therapy, might yield superior outcomes. This is likely due to the comprehensive nature of a multimodal approach that addresses all contributing factors to TMDs.
+
+Moreover, the vast majority of the existing literature focuses on traditional orthodontic treatments, such as fixed braces, with limited research examining the potential effects of more recent advances in orthodontics, such as aligner-based treatments. Characteristics of similar studies on the impact of clear aligner therapy on the masticatory musculature and stomatognathic system were assessed to contextualize the contributions of this systematic review. The selected studies, in alignment with PRISMA guidelines, collectively explored the influence of aligner orthodontic treatment on masticatory muscles and associated systems. Notably, the identified studies focused on evaluating muscle activity, discomfort, and bite force in patients undergoing clear aligner therapy. This systematic review builds upon these foundational investigations by synthesizing existing evidence, offering a comprehensive analysis of the dynamic relationship between clear aligner therapy and the masticatory musculature. By addressing gaps in the current literature and highlighting the temporary nature of observed alterations, this review contributes valuable insights that underscore the need for further robust research in this evolving field. Therefore, this systematic review aims to synthesise the current scientific evidence on the relationship between aligner orthodontic treatment and the masticatory musculature and stomatognathic system.
+
+Materials and methods
+
+Eligibility criteria
+
+The current review adhered to the PRISMA guidelines for systematic reviews and meta-analysis, which formed the working framework for the study selection process. The review is applied for registration (509,370) in PROSPERO.
+
+The PEOS protocol was framed to construct the research question, “Does intervention with aligners orthodontic treatment affect muscles of mastication and stomatognathic system?”
+
+P: Human individuals, irrespective of age, gender, and ethnicity.
+
+E: Exposure is the application of clear aligner orthodontic treatment intended to correct malocclusion and improve dental aesthetics.
+
+C: No comparator group was included.
+
+O: The outcome of interest was changes in masticatory muscle activity or temporomandibular disorders.
+
+S: Clinical studies evaluating the relation or impact of aligners on outcome.
+
+Clinical studies published only in English assessing the relation between aligner orthodontic treatment and masticatory anomalies, or TMDs, were included. Reviews, editorials, commentaries, case reports, and conference abstracts were excluded. Studies involving individuals with conditions that could independently impact the temporomandibular joint, such as rheumatoid arthritis or previous jaw trauma, were not considered. If the orthodontic treatment was not clearly defined or could not be classified as an aligner orthodontic treatment, the study was excluded.
+
+Search strategy
+
+The search protocol was designed to identify all relevant studies in various databases. These databases included PubMed, Embase, Web of Science, Scopus, the Cochrane Library, CINAHL, PsycINFO, and Google Scholar. Index Terms used were ‘Clear Aligner Therapy’, ‘Masticatory Musculature’, ‘Stomatognathic System’ and ‘Study Design’. Search terms used for outcome were ‘Muscle Activity’, ‘Discomfort’, and ‘Bite Force’. The strategy was formulated using Medical Subject Headings (MeSH) terms and a boolean operator to ensure that all potential variations were included, as seen in Table 2.
+
+Database search protocol representation for this review
+
+Database	Search String	 	PubMed	(“Aligner orthodontic treatment” OR “Clear aligner treatment” OR “Invisalign”) AND(“Masticatory anomalies” OR “Masticatory disorders” OR “Temporomandibular disorders” OR “TMD”) AND(“Systematic review” OR “Meta-analysis” OR “Review” OR “Clinical study” OR “Observational study” OR “Cohort study” OR “Case-control study” OR “Cross-sectional study” OR “Longitudinal study”)	 	Embase	(‘orthodontics’ OR ‘orthodontic appliances’ OR ‘dental braces’ OR ‘aligners’ OR ‘clear aligners’ OR ‘exp orthodontic appliances/‘ OR ‘exp orthodontic aligners/‘) AND (‘temporomandibular joint disorders’ OR ‘temporomandibular joint dysfunction syndrome’ OR ‘exp Temporomandibular Joint Disorders/‘ OR ‘exp Temporomandibular Joint Dysfunction Syndrome/‘)	 	Web of Science	TS=(“Aligner orthodontic treatment” OR “Clear aligner treatment” OR “Invisalign”) ANDTS=(“Masticatory anomalies” OR “Masticatory disorders” OR “Temporomandibular disorders” OR “TMD”) ANDTS=(“Systematic review” OR “Meta-analysis” OR “Review” OR “Clinical study” OR “Observational study” OR “Cohort study” OR “Case-control study” OR “Cross-sectional study” OR “Longitudinal study”)	 	Scopus	TITLE-ABS-KEY(“Aligner orthodontic treatment” OR “Clear aligner treatment” OR “Invisalign”) ANDTITLE-ABS-KEY(“Masticatory anomalies” OR “Masticatory disorders” OR “Temporomandibular disorders” OR “TMD”) ANDTITLE-ABS-KEY(“Systematic review” OR “Meta-analysis” OR “Review” OR “Clinical study” OR “Observational study” OR “Cohort study” OR “Case-control study” OR “Cross-sectional study” OR “Longitudinal study”)	 	Cochrane Library	(‘orthodontics’ OR ‘orthodontic appliances’ OR ‘dental braces’ OR ‘aligners’ OR ‘clear aligners’ OR ‘MeSH descriptor: [Orthodontic Appliances]’ OR ‘MeSH descriptor: [Orthodontic Aligners]’) AND (‘temporomandibular joint disorders’ OR ‘temporomandibular joint dysfunction syndrome’ OR ‘MeSH descriptor: [Temporomandibular Joint Disorders]’ OR ‘MeSH descriptor: [Temporomandibular Joint Dysfunction Syndrome]’)	 	CINAHL	((“Aligner orthodontic treatment” OR “Clear aligner treatment” OR “Invisalign”) AND(“Masticatory anomalies” OR “Masticatory disorders” OR “Temporomandibular disorders” OR “TMD”) AND(“Systematic review” OR “Meta-analysis” OR “Review” OR “Clinical study” OR “Observational study” OR “Cohort study” OR “Case-control study” OR “Cross-sectional study” OR “Longitudinal study”)	 	PsycINFO	(“Aligner orthodontic treatment” OR “Clear aligner treatment” OR “Invisalign”) AND(“Masticatory anomalies” OR “Masticatory disorders” OR “Temporomandibular disorders” OR “TMD”) AND(“Systematic review” OR “Meta-analysis” OR “Review” OR “Clinical study” OR “Observational study” OR “Cohort study” OR “Case-control study” OR “Cross-sectional study” OR “Longitudinal study”)	 	Google Scholar	“Aligner orthodontic treatment” OR “Clear aligner treatment” OR “Invisalign” AND“Masticatory anomalies” OR “Masticatory disorders” OR “Temporomandibular disorders” OR “TMD” AND“Systematic review” OR “Meta-analysis” OR “Review” OR “Clinical study” OR “Observational study” OR “Cohort study” OR “Case-control study” OR “Cross-sectional study” OR “Longitudinal study”
+
+Data extraction
+
+Two reviewers did the data extraction separately. Any disagreements were addressed through discussion or consultation with a third reviewer. This rigorous process ensured the inclusion of only studies relevant to the research question, enhancing the reliability and validity of the review. Variables assessed were study ID, location, sample, age, gender ratio, and inferences.
+
+Risk of bias assessment
+
+The methodological quality of the included studies was assessed using the Risk of Bias 2 (ROB-2) tool, which is widely recognised for evaluating the risk of bias in non-randomised studies. It provides a structured approach to assessing the quality and validity of each study included in the review. The tool assesses several key domains, such as bias arising from the randomization process, bias due to deviations from intended interventions, bias due to missing outcome data, bias in the measurement of outcomes, bias in the selection of the reported result, and overall bias.
+
+Results
+
+Literature search results
+
+An initial search was conducted in databases and registers, yielding a total of 437 records (Fig. 1). No records were identified through the registers. Before screening, 79 review articles and 82 case reports, editorials, and other non-research articles were removed from consideration. No records were excluded on the basis of language, as all the identified articles were in English. An additional 39 records were excluded for various reasons, and 44 duplicate records were removed. This left a total of 276 records for screening. Out of the 276 records that were screened, 193 were sought for retrieval. However, 59 of these could not be retrieved, leading to their exclusion. An additional 38 records were excluded for failing to respond to the PECO (Population, Exposure, Comparator, Outcome) criteria or for being off-topic, resulting in a further reduction of 51 and 37 reports, respectively. After these exclusions, 134 reports were assessed for eligibility. Following this assessment, only six studies met the criteria and were included in the review for both qualitative and quantitative synthesis.
+
+Prima Flowchart
+
+Study characteristics
+
+The demographic characteristics of the included papers are represented in Table 3, whereas the in-depth assessments of those papers (in terms of assessed parameters and overall inferences) have been shown in Table 4. The included studies were conducted across various regions globally. The studies ranged from small sample sizes to larger cohorts, with the smallest sample size being 10 in a study conducted in Brazil and the largest being 31 from a study in New Zealand. The mean age of the participants varied across the studies, with the youngest mean age reported as 22.5 ± 3.5 years and the oldest being 35.3 ± 17.6 years. All studies predominantly involved females, with gender ratios favouring females over males. The follow-up timeframes for these studies also varied significantly. The shortest follow-up period was observed in a study from New Zealand, with a duration of only 9 days. Conversely, a six-month follow-up period was reported in a study conducted in China. Some studies did not specify the follow-up timeframe, which might have implications for the interpretation of the results, as the effects of orthodontic treatments can evolve over time, and a longer follow-up period might offer more comprehensive insights.
+
+Demographic variables pertaining to the included papers
+
+Study ID	Region of study	Study year	Total sample size (number)	Mean age (years)	Gender ratio	Follow-up timeframe	 	Liu et al. 	China	2017	23	26.8 ± 2.4	All females	6 months	 	Manfrendini et al. 	Italy	2018	19	28.3 ± 2.4	14 females	Unspecified	 	Nota et al. 	Italy	2021	16	22.5 ± 3.5	8 females	3 months	 	Paes et al. 	Brazil	2023	10	29.9 ± 5.5	7 females	8 months	 	Pittar et al. 	New Zealand	2023	31	22 ± 4.3	17 females	9 days	 	Tran et al. 	Canada	2020	27	35.3 ± 17.6	22 females	1 month
+
+Technical characteristics pertaining to the included papers
+
+Study ID	Study design	Parameters	Diagnostic criteria	Malocclusion category	Inference	 	Liu et al. 	A longitudinal study with three measurement points (T0, T1, T2).	- MMA- Parafunctional habits	- OBC- DC/TMD Axis II- sEMG	Not specified	- Temporalis muscle activity increased significantly between T0 and T1 (P < 0.05).- At MVC, the activities of the TA and SCM at T1 were significantly higher than those of T0 (P < 0.05)- OBC scores decreased greatly at the initial phase but then show a minor increase at further followup.	 	Manfrendini et al. 	Retrospective	- MMA during sleep	- sEMG.	Not specified	- Wearing the retainers did not significantly affect the sMMA variables.	 	Nota et al. 	Longitudinal study with three measurement points (T0, T1, T2).	- Mandibular elevator muscles activity- pain on palpation	- sEMG- RDC/TMD	Angle’s Class I malocclusion with crowding.	- The sEMG activity of masseter muscles at mandibular rest position showed a statistically significant reduction at T1 but returned to baseline levels at T2.- No changes were noted for sEMG activity at clenching position- At T0, pain was noted in 12.5% of the individuals which increased to 25% at T1.	 	Paes et al. 	Preliminary longitudinal study over an 8-month follow-up period.	- Biting force- Myoelectric activity of the superficial masseter and anterior temporal muscles.	- Surface Electromyography	Angle’s Class I and Class II malocclusion.	- sEMG increased to approximately 30% for RMS value at p = 0.001.- Bite force significantly reduced to < 20% at p < 0.05.- Clenching of the teeth were reported in higher percentages.	 	Pittar et al. 	Prospective	- MMA,- OD and- TMD symptoms in adults with different levels of self-reported oral parafunction.	-OBC for parafunctional habit- DC/TMD- Wireless EMG	- Individuals reported with parafunctional habits	- A decreased MMA was noted with a reduction in mean contraction episode amplitude at p = 0.003.- OD was increased at p = 0.048, particularly in high PFA subjects.- TMD symptoms were present throughout the evaluation phase in both groups	 	Tran et al. 	Multi-site prospective study with follow up of four weeks(	- Tooth pain- Masticatory muscle soreness- Pressure pain thresholds	- DC/TMD- VAS (100 mm guage)	- Class I and Class II malocclusion	- Muscle soreness was found in all phases, though the dummy phase showed significantly greater soreness than active phase.- Pain was present only in the first few days.Pain was significantly correlated with trait anxiety (r = 0.423; p = 0.008)
+
+Main findings
+
+Clear aligners caused a short-term change from baseline (T0) to first month (T1) in muscle activity but reverted back to the T0 values on subsequent follow-ups. Synthesised evidence also suggested an increase in pain noted with clear aligner treatment. A significant reduction in bite force was also noted. This suggests that an increase in muscle activity is only temporary because of occlusal changes. The study by Manfrendini et al. did not show any significant changes in MMA activity throughout the study phase. Overall, it could be seen that wearing a clear aligner orthodontic appliance definitely impacts masticatory muscle activity and temporomandibular joints.
+
+Risk of bias
+
+Two authors performed the risk of bias assessment. Overall, the studies evaluated showed a low risk of bias. Liu et al. were marked as having an “unclear” risk of bias in the selection domain considering all females were recruited for their study, and Paes et al. were marked as having a small sample size (n = 10) (Figs. 2 and 3).
+
+Risk of bias graph of studies included
+
+Risk of bias summary of studies included
+
+Discussion
+
+During the course of clear aligner therapy, there are temporary alterations in muscle activity and pain, primarily attributed to adaptation to the orthodontic appliance. Additionally, bite force tends to be reduced during this period. Clear aligner therapy requires patients to wear removable aligners that are designed to gradually shift teeth into their desired positions. As the aligners exert forces on the teeth, it’s common for individuals to experience temporary changes in muscle activity. This can manifest as muscle fatigue or tension as the masticatory muscles work to adapt to the new occlusal relationships and the forces exerted by the aligners. Temporary alterations are common during the adaptation process in clear aligner therapy. These changes, including muscle activity adjustments, often diminish as treatment progresses. However, they may lead to temporary pain and discomfort. Patients undergoing clear aligner therapy may experience mild and self-limiting soreness, especially in the masticatory muscles and the temporomandibular joint (TMJ). It’s crucial to counsel patients about the expected discomfort during this adjustment period.
+
+During clear aligner therapy, it’s not uncommon for patients to report a reduction in their bite force. The primary reason for this decrease is the presence of aligners, which may affect the contact between the upper and lower teeth. As the teeth gradually shift, their occlusal surfaces may not engage as efficiently as they did prior to treatment. This can lead to a decrease in bite force, making it more challenging for patients to bite and chew effectively.
+
+In the longitudinal study by Liu et al., the impact of Invisalign treatment on the oral parafunctional behaviours and the electromyographic activities of masticatory muscles was evaluated. The research found that Invisalign treatment significantly decreased the OBC score and increased the activity of the anterior TA, indicating a relevant effect on the orofacial system. Manfrendini et al. conducted a retrospective study to gauge the effects of invisible orthodontic retainers on the sMMA. The results indicated no significant difference in SB index or total number of masseter muscle contractions, suggesting that wearing or not wearing the retainers did not significantly affect the sMMA variables. Nota et al. carried out a longitudinal study to assess mandibular elevator muscle activity and pain on palpation during the early stages of orthodontic treatment with clear aligners. The study found that while no statistically significant differences in muscular pain were observed, there was a significant reduction in sEMG activity of masseter muscles at mandibular rest position at T1, which returned to baseline levels at T2. Paes et al. conducted a preliminary longitudinal study and found that the use of orthodontic aligners affected the biting force and myoelectric activity of the superficial masseter and anterior temporal muscles. Specifically, there was an increase in sEMG signal activity during the treatment, with a significant decrease in bite force.
+
+The clear aligners of Invisalign treatment had a significant effect on the orofacial system in the study of Liu et al.. The OBC score significantly decreased between T0 and T1, suggesting that aligners could reduce the incidence of parafunctional habits. The activity of the anterior TA increased significantly between T0 and T1 when measured at the MPP. During MVC, the activities of the TA and SCM at T1 were significantly higher than those at T0. But the muscle activity remained insignificant after 3 months, which the authors attributed to muscle plasticity. It was also the only study to recruit all females, quoting easier approachability. Nota et al. employed only a single aligner system to eliminate any potential confounding factors. The increased muscle activity in the study of Paes et al. was attributed to the aligner material (polyurethane) used for aligners, along with its physical properties and medium placement. Efforts to obtain appropriate jaw positioning also aggravate tooth clenching. It could contribute to the hypersensitivity of the masticatory muscles. A possible limitation of their study was that the authors did not mention the presence or absence of tooth contact in their study subjects. Pittar et al. recruited samples who were students of a university attending orthodontic clinics and dichotomously categorised their patients into HPA and LPA. A merit of their study was that they assessed the levels of caffeine, alcohol, motorway space, and stress so as to eliminate confounding potential. But the examiners were not blinded by the group allocation. In the prospective study by Pittar et al., it was determined that the wearing of PCAs was associated with a significant decrease in mean contraction episode amplitude in both groups. It was also observed that comfort levels increased and remained raised in all participants after the insertion of the PCAs, more so in the high-function group. Tran et al. evaluated their patients in three phases: the passive phase and the active phase. The aligner fitting was perceived as more painful than the active phase. Though pain reduced, muscle soreness remained throughout the treatment (4 weeks) in their study. Age and occlusal characteristics were tested as confounders for muscle soreness, and no correlation was seen. The authors attributed muscle soreness to the clenching habit as a result of masticatory muscle adaptation to the appliance. Tran et al. carried out a multi-site prospective study to investigate tooth pain and masticatory muscle soreness and tenderness in patients undergoing CAT. The study found that CAT caused mild tooth pain and masticatory muscle soreness, with both being affected by stress and trait anxiety.
+
+The correlation between TMDs and orthodontic intervention has been the subject of numerous studies over the past decade. Despite the application of advanced and current diagnostic modalities such as magnetic resonance imaging and long-term follow-up scientific investigations, a consensus on this contentious topic remains elusive. Orthodontic intervention is not currently advocated as a therapeutic modality or as a strategy to mitigate the risk of these disorders, owing to a lack of substantial evidence linking orthodontic treatment to an elevated predisposition to TMDs and occlusal alterations. Nonetheless, the clinical management strategies employed prior to and during orthodontic treatment have undergone transformation due to an enhanced focus on TMD signs and symptoms. Moreover, while TMDs typically present a cyclical pattern of manifestations and often exhibit spontaneous improvement without intervention, the treatment of these conditions necessitates a multidisciplinary approach and robust protocols.
+
+The prevailing sentiment among the majority of orthodontists is that orthodontic intervention does not significantly influence TMD symptoms. This aligns with the outcomes of most prior studies, which suggest that orthodontic treatment neither prevents nor precipitates TMDs. However, in contradiction to the findings reported by a literature review, which proposed that orthodontic intervention does not augment the risk of developing TMD signs and symptoms, irrespective of the therapeutic technique employed and the extraction status, professionals in oral surgery and oral medicine expressed divergent views.
+
+In retrospect, our review mirrored several findings from the reviews conducted by both Leite et al. and Fernandez et al., while also highlighting a few discrepancies. In alignment with the findings of Leite et al., our review also explored the relationship between TMD and orthodontic treatment and/or malocclusion through the lens of the most recent studies conducted over the last 15 years. The shared objective was to ascertain whether orthodontic intervention augments the incidence of TMD signs and symptoms and if it can be recommended as a therapeutic or preventive measure for TMD. Both our review and that of Leite et al. found that the studies linking TMD signs and symptoms to orthodontic treatment yielded inconsistent results. While some studies reported positive effects of orthodontic treatment on TMD signs and symptoms, none were able to demonstrate a statistically significant difference. In concordance with Leite et al.‘s findings, our review also concluded that orthodontic treatment did not pose a risk to the development of TMD signs and symptoms, irrespective of the treatment technique, premolar extraction status, and the patient’s pre-existing malocclusion type.
+
+Similarities were also observed when comparing our review to that of Fernandez et al. Fernandez et al.‘s review aimed to evaluate the potential association between malocclusions, orthodontic treatment, and the development of TMD. In agreement with their review, our evaluation also found that the articles establishing a link between orthodontic treatment and the development of TMD produced drastically varied results. Some suggested that orthodontic treatment could ameliorate TMD signs and symptoms, yet none yielded statistically significant differences. Corroborating the findings of Fernandez et al., our review also found no evidence to support a cause-and-effect relationship between orthodontic treatment and TMD or that such treatment could prevent or improve the condition.
+
+In contrast, where the reviews diverged was in the evaluation of the role of orthodontic treatment in the management of TMD. While both Leite et al. and Fernandez et al. did not find a statistically significant effect of orthodontic treatment on TMD symptoms, our review suggested that the efficacy of orthodontic treatment in managing TMD might be contingent on the specific orthodontic treatment modality employed. For example, evidence from our review suggested that the use of mandibular advancement appliances might effectively mitigate TMD symptoms. However, this point was not explored or mentioned in the studies conducted by Leite et al.. and Fernandez et al..
+
+Further, our review’s findings and those of Langaliya et al., Ivorra et al., and Alam et al. also reveal a blend of parallel and divergent interpretations. Langaliya et al.‘s review investigated the long-term influence of mandibular advancement devices (MAD) used in obstructive sleep apnea (OSA) treatment on TMD. In line with some of our observations, they found that certain studies reported a significant reduction in TMD symptom severity and frequency post-MAD treatment. However, other studies did not observe significant changes in TMD symptoms or TMJ-related parameters from baseline to follow-up intervals, mirroring our findings of inconsistent results in this area. Our review results are similar in that a temporary increase in TMJ-related pain or symptoms at the start of the follow-up period was reported, which later subsided. Crucially, no OSA patient discontinued MAD due to TMDs in their review, a finding that was not directly explored in our review.
+
+Ivorra et al.‘s review examined the main effects on the TMJ of using functional appliances in healthy patients and those with pre-existing disorders. Their findings that the condyle was found to be in a more advanced position post-treatment, with condyle remodeling and adaptation of the glenoid fossa’s morphology, were not directly addressed in our review. However, their observation that no significant adverse effects on the TMJ were seen in healthy patients and that the appliances could improve joints that initially presented forward dislocation of the disc echoed our findings that orthodontic treatment did not pose a risk to the development of TMD signs and symptoms. Alam et al.‘s review aimed to evaluate the influence of TMDs on orthodontic management and explore the association between TMDs and various aspects of orthodontic treatment. Their meta-analysis indicated a significant overall effect, suggesting orthodontic treatment might increase the risk of developing TMD, a finding not supported by our review. Additionally, they found that TMD patients had higher odds of experiencing orthodontic issues than those without TMD and that orthodontic treatment could negatively impact the psychological well-being of TMD patients. This aspect was not explored in our review, highlighting a potential area for future investigation.
+
+Despite its insightful findings, this systematic review had several limitations that warrant consideration. The number of studies that met the inclusion criteria was relatively small, with only eight studies included in the final analysis. This limitation might have reduced the statistical power to detect significant associations and also restricted the scope of the review’s conclusions. Also, there was a significant heterogeneity among the included studies in terms of their design, sample size, duration of follow-up, and outcome measures. This heterogeneity made it difficult to compare and consolidate the results across studies, potentially obscuring more nuanced relationships between the assessed correlations. Moreover, the review was based on published studies, which could introduce publication bias, as studies with non-significant or negative results are less likely to be published. This review did not include grey literature, which might have provided additional insights. The availability of limited data across studies hindered the creation of a homogeneous dataset necessary for a meaningful meta-analysis. Variations in reporting and data collection methods limited the ability to perform a pooled analysis.
+
+Conclusion
+
+The impact of clear aligner therapy on the masticatory musculature and the stomatognathic system is a crucial consideration in orthodontic care. The main findings indicated that clear aligners caused a short-term change in muscle activity, which reverted to baseline values in subsequent follow-ups. Pain notably increased with clear aligner treatment, and a significant reduction in bite force was observed. This transient increase in muscle activity aligns with the occlusal changes introduced by the aligners. Notably, one study did not show significant changes in muscle activity throughout the study phase. The risk of bias assessment indicated an overall low risk across the included studies. However, uncertainties in the selection domain and small sample sizes were identified in specific studies. The review highlighted the need for clinicians to consider the potential impact of aligner treatment on TMDs during the treatment planning process and to adequately inform patients about possible outcomes. Despite the insights gained, the review also revealed gaps in the existing literature, indicating a need for more robust, high-quality research to fully understand the implications of aligner treatment on TMDs.
+
+Publisher’s Note
+
+Springer Nature remains neutral with regard to jurisdictional claims in published maps and institutional affiliations.
+
+Author contributions
+
+Conceptualization AA; AHAJ; methodology, IMG; AL; software, SKV; formal analysis, SKV and AHAJ .; investigation, IMG; and AA; data curation, AA; and SKV; writing—original draft preparation, MDB, VR; GC; G.M. ; writing—review and editing; GC; G.M.; supervision, GM; funding acquisition, MDB; administration: MDB. All authors have read and agreed to the published version of the manuscript.
+
+Funding
+
+This research received no external funding. The authors extend their appreciation to the Deanship of Scientific Research at King Khalid University for funding this work through small group Research Project under grant number RGP1/347/44.
+
+Data availability
+
+The data will be available on reasonable request from the corresponding author.
+
+Declarations
+
+Ethics approval and consent to participate
+
+not applicable.
+
+Consent for publication
+
+Not applicable.
+
+Competing interests
+
+The authors declare no competing interests.
+
+References
+
+Craniocervical and cervical spine features of patients with Temporomandibular disorders: a systematic review and Meta-analysis of Observational studies
+
+Efficiency, effectiveness and treatment stability of clear aligners: a systematic review and meta-analysis
+
+Miller KB, McGorray SP, Womack R, Quintero JC, Perelmuter M, Gibson J, Dolan TA, Wheeler TT. (2007) A comparison of treatment impacts between Invisalign aligner and fixed appliance therapy during the first week of treatment. Am J Orthod Dentofac. 131:302.e1-302.e9.
+
+Impact of molar teeth distalization with clear aligners on occlusal vertical dimension: a retrospective study
+
+In vitro cellular detoxification of triethylene glycol dimethacrylate by adduct formation with N-acetylcysteine
+
+Inhibition of Ras/ERK1/2 signaling protects against postischemic renal injury
+
+Clinical trial to assess physiology and activity of Masticatory Muscles of Complete Denture Wearer Following Vitamin D Intervention
+
+Salivary concentrations of Streptococcus mutans and lactobacilli during an orthodontic treatment. An observational study comparing fixed and removable orthodontic appliances
+
+Salivary levels of Streptococcus mutans and lactobacilli and other salivary indices in patients wearing clear aligners versus fixed orthodontic appliances: an observational study
+
+Periodontal health status in patients treated with the Invisalign® system and fixed orthodontic appliances: a 3 months clinical and microbiological evaluation
+
+Laser-Assisted Orthodontic Tooth Movement in Saudi Population: a prospective clinical intervention of low-level laser therapy in the 1st week of Pain Perception in Four Treatment modalities
+
+Fagundes, N.C.F.; Minervini, G.; Furio Alonso, B.; Nucci, L.; Grassia, V.; d’Apuzzo, F.; Puigdollers, A.; Perillo, L.; Flores-Mir, C. Patient-reported outcomes while managing obstructive sleep apnea with oral appliances: A scoping review. J Evid Based Dental Pract. 2023;23:101786. 10.1016/j.jebdp.2022.101786.
+
+Uzunçıbuk H, Marrapodi MM, Meto A, Ronsivalle V, Cicciù M, Minervini G. Prevalence of temporomandibular disorders in clear aligner patients using orthodontic intermaxillary elastics assessed with diagnostic criteria for temporomandibular disorders (DC/TMD) axis II evaluation: A cross-sectional study. J Oral Rehabil. 2024;51(3):500–509. 10.1111/joor.13614. Epub 2023 Dec 2. PMID: 38041596.
+
+Di Stasio, D.; Lauritano, D.; Minervini, G.; Paparella, R.S.; Petruzzi, M.; Romano, A.; Candotto, V.; Lucchese, A. Management of Denture Stomatitis: A Narrative Review. J Biol Regul Homeost Agents. 2018;32:113–116.
+
+Assessment of awake bruxism and oral mucosa indentation in adolescents
+
+Prevalence of oral behaviours in general dental patients attending a university clinic in Italy
+
+Role of craniofacial phenotypes in the response to oral appliance therapy for obstructive sleep apnea
+
+Efficacy of stabilisation splint and low-level laser therapy for patients with chronic closed lock from non-reducible displaced temporo-mandibular joint discs: a parallel randomised clinical trial
+
+Step-back anterior repositioning splint retraction for temporomandibular joint disc displacement with reduction in adult patients
+
+Aldehyde dehydrogenase 1: its key role in cell physiology and oral carcinogenesis
+
+Gingival fluid and saliva concentrations of selected non-enzymatic antioxidants in periodontitis
+
+Obesity, bariatric surgery and periodontal disease: a literature update
+
+Franco R, Gianfreda F, Miranda M, Barlattani A, Bollero P. The hemostatic properties of Chitosan in oral surgery. Biomed Biotechnol Res J. 2020;4:186. 10.4103/bbrj.bbrj_43_20.
+
+Prevalence and distribution of dental anomalies in 500 Indian school children
+
+To test or not to test? An opportunity to restart dentistry sustainably in the ‘COVID-19 era’
+
+Oral health in breast Cancer women with vitamin D Deficiency: a machine learning study
+
+Oral lichenoid reaction: an uncommon side effect of Rituximab
+
+Incidence and management of condylar resorption after orthognathic surgery: an overview
+
+Does Mandibular Gonial Angle Influence the Eruption Pattern of the Lower Third Molar? A three-dimensional study
+
+Optical coherence tomography: a new era in dentistry
+
+Antibacterial and anti-inflammatory effects of a novel herb-mediated nanocomposite mouthwash in plaque-induced gingivitis: a randomized controlled trial
+
+Effect of vitamin B17 (amygdalin) found in apricot kernel on the irradiated salivary glands of albino rats
+
+Surface electromyographic patterns of masticatory, neck, and trunk muscles in temporomandibular joint dysfunction patients undergoing anterior repositioning splint therapy
+
+Minervini G, Romano A, Petruzzi M, Maio C, Serpico R, Lucchese A, Candotto V, Di Stasio D. Telescopic overdenture on natural teeth: Prosthetic Rehabilitation on (OFD) syndromic patient and a review on available literature. J Biol Regul Homeost Agents. 2018;32:131–134.
+
+The prognosis of Myofascial Pain Syndrome (MPS) during a fixed Orthodontic Treatment
+
+Minervini G, Marrapodi MM, Cicciù M. Online Bruxism-related information: Can people understand what they read? A Cross-Sectional Study. J Oral Rehabil. 2023;50(11):1211–1216. 10.1111/joor.13519. Epub 2023 Jul 3. PMID: 37232129.
+
+Almeida LE, Cicciù M, Doetzer A, Beck ML, Cervino G, Minervini G. Mandibular condylar hyperplasia and its correlation with vascular endothelial growth factor. J Oral Rehabil. 2023;50(9):845–851. 10.1111/joor.13487. Epub 2023 May 18. PMID: 37133441.
+
+Clinical results of the use of low-cost TKA prosthesis in Low Budget Countries—A
+
+The effects of Interbody device Design and Placement on lumbar lordosis and disc height in transforaminal lumbar Interbody Fusion
+
+Effects of customized 3D-Printed insoles in patients with Foot-Related Musculoskeletal Ailments—A Survey-based study
+
+Oral infection by Staphylococcus Aureus in patients affected by White Sponge Nevus: a description of two cases occurred in the same family
+
+Non-hodgkin lymphoma affecting the tongue: unusual intra-oral location
+
+PRISMA Reporting guidelines for Meta-analyses and systematic reviews
+
+Assessing the quality of studies in meta-analyses: advantages and limitations of the Newcastle Ottawa Scale
+
+Assessment of oral parafunctional behaviors and electromyographic activities of the masticatory muscles in young female patients with orthodontic invisalign treatment
+
+Effects of invisible orthodontic retainers on masticatory muscles activity during sleep: a controlled trial
+
+Short-term effect of Orthodontic Treatment with Clear aligners on Pain and sEMG Activity of Masticatory Muscles
+
+Response of masticatory muscles to treatment with orthodontic aligners: a preliminary prospective longitudinal study
+
+The effect of passive clear aligners on masticatory muscle activity in adults with different levels of oral parafunction
+
+Impact of clear aligner therapy on tooth pain and masticatory muscle soreness
+
+Orthodontics is temporomandibular disorder–neutral
+
+Fernandez-Gonzalez F, Canigral A, Lopez-Caballo J, Brizuela A, Moreno-Hay I, del Rio-Highsmith J, Vega J. Influence of orthodontic treatment on temporomandibular disorders. A systematic review. J Clin Exp Dent. 2015:e320–7.
+
+Relationship between signs and symptoms of temporomandibular disorders and orthodontic treatment: a cross-sectional study
+
+Termo do 1o Consenso em Disfunção Temporomandibular E Dor Orofacial
+
+Investigation of the association between orthodontic treatment and temporomandibular joint pain and dysfunction in the South Korean population
+
+Modifications in Class I and Class II Div. 1 malocclusion during orthodontic treatment and their association with TMD problems
+
+Brief cognitive-behavioral treatment for TMD pain: long-term outcomes and moderators of treatment
+
+Hyaluronic Acid in the treatment of TMJ disorders: a systematic review of the literature
+
+Orthodontics and the temporomandibular joint: where are we now? Part 1. Orthodontic treatment and temporomandibular disorders
+
+Ortega A, Pozza D, Rodrigues L, Guimarães A. Relationship between orthodontics and temporomandibular disorders: a prospective study. J Oral Facial Pain Headache. 2016:134–8.
+
+Relationship between orthodontics and temporomandibular disorders
+
+Relationship between temporomandibular disorders and orthodontic treatment: a literature review
+
+Occurrence of Temporomandibular disorders among patients undergoing treatment for obstructive sleep Apnoea Syndrome (OSAS) using Mandibular Advancement device (MAD): a systematic review conducted according to < scp > PRISMA guidelines and the Cochrane handbook for systematic reviews of interventions
+
+Ivorra-Carbonell L, Montiel-Company J, Almerich-Silla J, Paredes-Gallardo V, Bellot-Arcis C. Impact of functional mandibular advancement appliances on the temporomandibular joint - a systematic review. Med Oral Patol Oral Cir Bucal. 2016:0–0.
+
+The impact of Temporomandibular disorders on Orthodontic Management: a systematic review and Meta-analysis
