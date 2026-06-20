@@ -1,0 +1,277 @@
+Root resorption in clear aligner treatment detected by CBCT: a Systematic review and Meta-analysis
+
+Objective
+
+The aim of this study was to evaluate the amount of external apical root resorption in patients who had undergone orthodontic treatment with clear aligners evaluated using cone beam computed tomography.
+
+Methods
+
+Studies that evaluated external apical root resorption before and after comprehensive orthodontic treatment with clear aligners were assessed by performing an electronic search from 5 databases comprising PubMed, SCOPUS, EBSCO, Cochrane Library, and LILACS and manual searches in the relevant journals and the reference lists of the included studies. Database search, elimination of duplicate studies, and data extraction were performed independently by 2 authors. The quality of the included studies was assessed using the Risk of Bias in Non-randomised Studies-of Interventions and the Cochrane Collaboration's Risk of Bias Tool. Studies that reported the tooth length or volume were used for quantitative analyses.
+
+Results
+
+Nine studies were included in the meta-analysis. The overall root length after clear aligner treatment was significantly decreased compared with the pre-treatment length using cone beam computed tomography (mean differences = −0.56 mm, 95% confidence interval [−0.73, −0.38], P < .00001). However, only the maxillary central incisors, maxillary lateral incisors, and mandibular central incisors had significant reduction in root length. The meta-analysis from 3 studies also indicated that the root volume of the upper incisors also significantly decreased (mean differences = −13.34 mm3, 95% confidence interval [−16.57, −10.10], P < .00001).
+
+Conclusions
+
+Current evidence suggests that clear aligners can cause minimal root resorption. The highest amount of root resorption was observed in the maxillary central incisors.
+
+Introduction
+
+Rationale
+
+Root resorption is a consequence of tooth movement and is most commonly found in patients being treated with orthodontic appliances. The resorption typically associated with orthodontic tooth movement is external apical root resorption (EARR), which refers only to the loss of apical root tissue.
+
+The factors that influence root resorption include age, sex, nutrition, heredity, the type of appliance, the amount of force applied during therapy, extraction or non-extraction, treatment duration, and the distance the tooth/teeth travel. However, the causes and mechanisms of root resorption remain unresolved.
+
+Due to tooth movement, the incidence of root resorption is higher in the maxillary and mandibular incisors. Most resorption is not clinically meaningful, however, it is critical for orthodontists to detect root resorption during orthodontic treatment because most of these changes are irreversible and severe root resorption can threaten tooth longevity.
+
+Clear aligner treatment has become popular because it is more comfortable and less noticeable compared with fixed orthodontic appliance treatment, which has been reported as a cause of EARR, and more resorption occurs with heavy forces compared with light forces. There are few studies on EARR with clear aligners, and their conclusions are disparate. Most prior studies suggested that the incidence and severity of EARR with clear aligners were lower than those with fixed appliances. However, some studies found no significant differences in the rate of root resorption following treatment with clear aligners compared with fixed orthodontic appliances. The minimal amount of EARR with clear aligners may be due to intermittent force, light force, and shorter treatment duration.
+
+Previous studies mainly used periapical or panoramic radiographs to evaluate the amount of EARR, which may cause distortion and overestimate or underestimate the extent of resorption. Quantifying the treatment outcome using 2-dimensional (2D) images raised some criticism because it is unreliable. Cone‐beam computed tomography (CBCT) has been increasingly used in orthodontic research as a more precise measurement and provides greater accuracy in measuring root length compared with 2D radiography.
+
+There are several systematic reviews and meta-analyses that assessed EARR in clear aligner therapy. Most of these studies compared the EARR from clear aligner therapy with the EARR from fixed orthodontic appliance treatment. Although studies about root resorption and clear aligners have been published over the past few years, few studies have compared root resorption using pre- and post-treatment values with clear aligner therapy.
+
+Objective
+
+Therefore, the aim of this systematic review and meta-analysis was to evaluate and report the amount of EARR in comprehensive orthodontic patients using clear aligners and the involved risk factors.
+
+Materials and methods
+
+Protocol and registration
+
+The study protocol was registered in the International Prospective Register of Systematic Reviews-PROSPERO (registration number: CRD42022372249). The present review was performed according to the guidelines of the Cochrane Handbook for Systematic Reviews of Interventions and reported following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) checklist.
+
+Eligibility criteria
+
+Population: patients with permanent dentition who need orthodontic treatment.
+
+Intervention: comprehensive orthodontic treatment with clear aligners.
+
+Comparison: pre-treatment and post-treatment.
+
+Outcome: amount of root resorption.
+
+Study design: randomised clinical trials (RCTs), prospective and retrospective studies.
+
+The selection criteria for the present review followed the PICOS strategy:
+
+The study inclusion criteria were RCT and prospective or retrospective studies that observed root resorption before and after clear aligner treatment. The participant criteria were patients with a permanent dentition who had received comprehensive orthodontic treatment with clear aligners and had available pre- and post-operative radiographic data. Studies with no restrictions on the malocclusion type, age, or sex of the participants were included. However, studies involving patients with syndromes, pathologies, periodontitis, or a history of root resorption were excluded.
+
+Search strategy
+
+We performed a systematic search from 5 databases, i.e., PubMed, SCOPUS, EBSCO, Cochrane Library, and LILACS (to May 2023). The search strategy was based on the PubMed/MEDLINE search strategy and was developed appropriately for each database. The keywords used in each database are shown in Supplementary Table S1. No restriction in language or publication date was applied. Furthermore, we performed a manual search including the reference lists of the articles.
+
+Study selection
+
+The studies were independently screened, selected, and assessed independently by 2 authors (PB/PK). Titles and abstracts were evaluated, and duplicate studies were eliminated. Full-text articles were assessed for their eligibility. The reference management software Endnote, version 20.4.1 (Clarivate Analytics, Philadelphia, Pennsylvania, USA) was used. Disagreements between the 2 authors were resolved by discussion and consultation with the third author (RN).
+
+Data extraction
+
+Two authors (PB/PK) independently assessed and extracted the data from the studies. A designed spreadsheet (Excel, Microsoft Corporation) was used to gather the information from the included studies. The extracted information comprised authors, year of publication, study type, participant characteristics, treatment duration, measurement method, and outcome measures. When the data from the article was not sufficient, an attempt was made to contact the authors.
+
+Risk of bias and quality assessment of individual studies
+
+Two authors (PB/PK) independently performed the quality assessment of the studies. The risks of bias of the RCTs were assessed using the Cochrane Collaboration's Risk of Bias Tool. The Risk of Bias in Non-randomised Studies-of Interventions (ROBINS-I) was used to assess the risk of bias in non-randomised studies. A consensus was reached by the 2 authors (PB/PK) when there was a difference of opinion on an item. If no consensus was reached, the independent opinion of the third author (RN) was decisive.
+
+Statistical analysis
+
+The tooth length from the CBCT studies and root:crown ratio from the 2D radiographic study were reported as the primary outcome for evaluating the amount of root resorption. The mean differences (MD) with 95% confidence interval (CI) were used to analyse the results as if it was continuous data. The I-squared (I2) test was used for the heterogeneity test. I2 > 40% was defined as the presence of heterogeneity. If there was heterogeneity among studies, the random-effect model was used. If sufficient data were available, subgroup analyses were performed. We evaluated the influence of each subgroup on heterogeneity using forest plot analysis. Publication bias was evaluated using funnel plot analysis. The statistical analyses were performed using Review Manager, version 5.4 (Nordic Cochrane Centre, Copenhagen, Denmark).
+
+Results
+
+Study selection
+
+Flowchart of the literature search
+
+Fig 1:
+
+Four hundred thirty-five studies were retrieved from 5 databases. There were 355 studies left after eliminating the duplicate studies. The title and abstract of these studies were screened and 34 studies remained after excluding reviews, case reports, animal studies, and articles that were not relevant to the objective. Eighteen studies were excluded after assessing their full-text and 16 studies were included for the qualitative analysis. Among these included studies, 9 studies were analysed quantitatively. The search results and the flowchart of the literature search are illustrated in Figure 1.
+
+Study characteristics
+
+Characteristics of the included studies.
+
+Table:
+
+Study	Study design	Participant (sample size)	Participant's characteristic	Comparison	Outcome	Method of measurement	Evaluated teeth	Treatment duration	 	Al Dboush et al.	Retrospective	CAT control: n = 21, CAT with low-intensitypulsed ultrasound: n = 21	Mean age = 35.60 ± 11.70 y, Class II or III molar relationship	Clear aligner and clear aligner with low-intensity pulsed ultrasound	Root volume loss in mm3 (CBCT)	CEJ to apex	Maxillary incisors	27.79 ± 9.50 mo	 	Almagrami et al. 	Retrospective	CAT: n = 20, FAT: n = 20	Mean age = 25.15 ± 6.67 y, non-extraction orthodontic treatment	Clear aligner and fixed appliance treatment	Root length change in mm (CBCT)	CEJ to apex	Maxillary incisors	25.85 ± 8 mo	 	Alsagr et al.	Retrospective	n = 29	Mean age = 31 y, non-extraction orthodontic treatment	Pre- and post- clear aligner treatment	Relative changes of Root-Crown-Ratio (Panoramic radiograph)	CEJ to apex	Maxillary and mandibular incisors and canines	-	 	Aman et al.	Retrospective	n = 160	Mean age = 34±16 years	Pre- and post- clear aligner treatment	Root length change in mm (CBCT)	CEJ to apex	Maxillary incisors	2.19 y	 	Chen et al.	Retrospective	CAT: n = 18, PEA; n = 20, Self-ligate: n = 21	Mean age = 23.71±3.44 years, Class II division 2, non-extraction	Clear aligner and preadjust edgewise appliance and self-ligating appliance treatment	Root length change in mm / Root volume loss in mm3 (CBCT)	CEJ to apex	Maxillary central incisors	30.94 ± 4.32 mo	 	Costello et al.	Retrospective	n = 25	Mean age = 31 y, non-extraction orthodontic treatment	Pre- and post- clear aligner treatment	Root length change in mm (CBCT)	CEJ to apex	Maxillary and mandibular roots from second molar to second molar	73.60 wk	 	Eissa et al.	Retrospective	CAT: n = 11, PEA: n = 11, Self-ligating: n = 11	Mean age = 18.35±2.83 years, Class I malocclusion and 4–6 mm crowding	Clear aligner and preadjust edgewise appliance and self-ligating appliance treatment	Root length change in mm (CBCT)	Cuspal edge to apex	Maxillary incisors	15.14 ± 1.94 y	 	Farouk et al.	Retrospective	CAT: n = 15, CAT with high frequency vibration device: n = 15	Mean age = 26±11 years, Class I malocclusion with an initial anterior crowding ranging from 3 to 5 mm	Clear aligner and clear aligner with high frequency vibration device treatment	Root length change in mm (CBCT)	Incisal edge to apex	Maxillary incisors	12 mo or until completion of the treatment	 	Gay et al.	Prospective	n = 71	Mean age = 32.80 ± 12.70 y, Class I adult healthy patients	Pre- and post-clear aligner treatment	Relative changes of Root-Crown-Ratio (Panoramic radiograph)	CEJ to apex	Maxillary incisors, canines, first premolars, first molars, and mandibular incisors and canines	14 mo	 	Jyotirmay et al.	Retrospective	CAT: n = 55, FAT: n = 55	Mean age = 23.71 ± 6.37 y	Clear aligner and fixed appliance treatment	Root length change in mm (CBCT)	Incisal edge to apex	Maxillary and mandibular incisors and canines	CAT:22.23 ± 7.34 mo, FAT:22.45 ± 6.54 mo	 	Krieger et al.	Retrospective	n = 100	Mean age = 37.70 years, Class I occlusion, and anterior crowding (arch length discrepancy <8 mm)	Pre- and post-clear aligner treatment	Range of EARR severity (Panoramic radiograph)	CEJ to apex	Maxillary and mandibular incisors, canines, and first molars	19.8 mo	 	Li et al.	Retrospective	CAT: n = 35, FAT: n = 35	Mean age = 24.71 ± 7.48 y	Clear aligner and fixed appliance treatment	Root length change in mm (CBCT)	Incisal/cuspal edge to apex	Maxillary and mandibular incisors and canines	CAT:21.54 ± 5.55 mo, FAT:23.31 ± 6.25 mo	 	Liu et al.	Retrospective	n = 40	Mean age = 24.10 y, Class II patients	Pre- and post-clear aligner treatment	Root volume loss in mm3 (CBCT)	CEJ to apex	Maxillary and mandibular incisors	21.45 mo	 	Macri et al.	Retrospective	n = 28	Mean age = 27.50 y, non-extraction orthodontic treatment	Pre- and post-clear aligner treatment	EARR in mm and EARR ratio (CBCT)	CEJ to apex	Maxillary and mandibular teeth from the first molar to first molar	25 mo	 	Wang et al.	RCT	CAT: n = 15, CAT: with pulsating force: n = 30	Mean age = 32.30 ± 16.40 y, Class l malocclusion with crowding of <6 mm or mild Class II, Class II subdivision	Clear aligner and clear aligner with pulsating force treatment	EARR in mm and EARR ratio (CBCT)	CEJ to apex	Maxillary and mandibular incisors and canines	15 mo or until achieving a Little's index of <1.5	 	Yi et al.	Retrospective	CAT: n = 40, FAT: n = 40	Mean age = 21.80 ± 5.11 y, non-extraction orthodontic treatment	Clear aligner and fixed appliance treatment	EARR in percentage % (panoramic radiograph)	CEJ to apex	Maxillary and mandibular incisors	CAT:22.08 ± 4.51 mo, FAT:20.83 ± 5.29 mo
+
+CBCT, cone beam computed tomography; EARR, external apical root resorption.
+
+The detailed characteristics of the included studies are described in Table 1. The publication period of the included studies ranged from 2013-2023. The included studies comprised an RCT, a prospective study, and the remaining 14 studies were retrospective studies. There were 638 patients included with a total of 6524 teeth. The included studies observed the amount of EARR between pre-treatment and post-treatment where the treatment duration varied from 15 to 30 months. The investigated outcomes were the prevalence and the amount of EARR comprising root length change, root volume loss and relative changes in the root-crown ratio observed via either CBCT or 2D panoramic radiographs. All studies assessed EARR in the central maxillary incisor, and most of the studies also investigated the anterior teeth and 4 studies involved the posterior teeth. Among the 16 studies, 7 studies assessed the EARR from pre- and post-treatment with clear aligners, 3 studies compared the EARR from clear aligner treatment alone and clear aligners with some adjunctive devices, such as a high-frequency vibration device, and low-intensity pulsed ultrasound and 6 studies compared clear aligners with fixed appliances, ie, conventional brackets and self-ligating brackets. Only the data relevant to the objective of the study were extracted.
+
+Risk of bias and quality assessment of the individual studies
+
+The risk of bias assessment according to the Cochrane Risk of Bias Tool was used to assess the RCT involved in the study and found a moderate risk of bias. The blinding method and allocation were low risk, however, the masking and blinding of the participants and the examiner were high risk because of the obvious differences between the radiographic methods. Another domain that had a high risk of bias was the small sample size due to the loss of follow-up of the participants in 1 study.
+
+According to the ROBINS-I tool used to evaluate the risk of bias among the included non-RCT studies, 11 studies were categorised as a moderate risk of bias and 4 studies were categorised as a high risk of bias. The most problematic bias was due to the outcome measurement and the study design where most of the studies were retrospective and more than half of the included studies did not describe how the sample sizes were calculated (Supplementary Table S2).
+
+Results of the individual studies and meta-analysis
+
+Seven studies were excluded from the quantitative analysis. Three studies did not provide pre- and post-treatment parameters for measuring root resorption and 4 studies reported the amount of root resorption using non-comparable data. Among the 9 studies included in the meta-analysis, the amount of EARR was assessed only using CBCT and reported with 2 measurements: (1) root length change in millimetres and (2) root volume loss in cubic millimetres. The data available for meta-analysis was only the EARR of the maxillary and mandibular anterior teeth (central incisors, lateral incisors, and canines).
+
+The primary result of tooth length changes with clear aligner treatment – overall incisor teeth.
+
+Fig 2:
+
+The meta-analysis of the tooth length change in all incisor teeth demonstrated a significant decrease, ie, favouring increased EARR in clear aligner treatment (MD = −0.56 mm, 95% CI [−0.73, −0.38], P < .01). The meta-analysis results are seen in Figure 2. The funnel plot was symmetrical, indicating a small publication bias (Supplementary Figure S3).
+
+The primary result of tooth length changes with clear aligner treatment – maxillary central incisors (A), maxillary lateral incisors (B), mandibular central incisors (C), mandibular lateral incisors (D), maxillary canines (E), mandibular canines (F), and the sensitivity test of tooth length changes with clear aligner treatment in maxillary central incisors (G).
+
+Fig 3:
+
+The changes in tooth length in the maxillary central incisors using CBCT analysed from 7 studies indicated that tooth length was significantly reduced after clear aligner treatment (MD = −0.74 mm, 95% CI [−0.98, −0.49], P < .01). The changes in tooth length in the maxillary lateral incisors using CBCT analysed from 6 studies indicated that tooth length was significantly reduced after clear aligner treatment (MD = −0.56 mm, 95% CI [−0.92, −0.21], P = .002). Heterogeneity was detected among the maxillary lateral incisor data with I2 = 33%. The meta-analysis is shown in Figure 3A and B, respectively.
+
+Three studies reported changes in tooth length in mandibular incisors using CBCT. The mandibular central and lateral incisors were evaluated separately. The mandibular central incisor tooth length was significantly reduced after clear aligner treatment (MD = −0.47 mm, 95% CI [−0.78, −0.17], P = .002). Although the mandibular lateral incisor demonstrated a decrease in root length (MD = −0.50 mm, 95% CI [−1.24, −0.21], P = .16), it was not significant. However, the meta-analysis of the mandibular lateral incisor revealed the I2 = 80%, which is considered very high heterogeneity. The meta-analysis is shown in Fig. 3, Fig. 3, respectively.
+
+Three studies reported changes in tooth length in the maxillary and mandibular canines using CBCT. The meta-analysis of the maxillary and mandibular canines revealed high heterogeneity (I2 = 70% and 62%, respectively). The maxillary and mandibular canine tooth length decreased after clear aligner treatment, but was not significantly different with MD = −0.76 mm, 95% CI [−1.76, −0.24], P = .14 in maxilla and MD = −0.51 mm, 95% CI [−1.26, −0.24], P = .18 in mandible. The meta-analysis is shown in Fig. 3, Fig. 3, respectively.
+
+The primary result of tooth volume changes with clear aligner treatment – is overall incisor teeth (A) and the sensitivity test of tooth volume changes with clear aligner treatment in overall incisor teeth (B). Tooth volume changes with clear aligner treatment – maxillary central incisors (C), and maxillary lateral incisors (D).
+
+Fig 4:
+
+The changes in the root volume in the incisors using CBCT analysed from 3 studies indicated that the root volume was significantly decreased after clear aligner treatment (MD = −13.34 mm3, 95% CI [−16.57, −10.10], P < .00001). The subgroup analysis of the maxillary central and lateral incisors was also performed and all subgroups demonstrated a significant decrease in tooth volume with MD = −19.91 mm3 (95% CI [−25.94, −13.88], P < .01) and −12.06 mm3 (95% CI [−18.67, −5.45], P < .01), respectively. The meta-analyses are seen in Figure 4. The funnel plot was slightly asymmetric (Supplementary Figure S3). The most deviated dot in the funnel plots was from Chen et al. The sensitivity test was performed by removing the results from this study. After applying the sensitivity test, the pooled effect size yielded a similar trend of results compared with the original results, and the funnel plot became more symmetrical (Supplementary Figure S1).
+
+Discussion
+
+The evidence related to EARR after clear aligner treatment is scarce. Previous systematic reviews or meta-analyses evaluated EARR from clear aligners compared with fixed appliances and all available studies found that aligners were associated with a lower risk of EARR compared with fixed appliances. However, none of these studies demonstrated EARR from pre-and post-treatment with clear aligners and the exact amount of EARR from clear aligners could not be interpreted from the comparison between clear aligners and fixed appliances because these 2 treatment techniques differ in their indications, treatment duration, and mechanism of action.
+
+Therefore, this systematic review and meta-analysis assessed the amount of EARR in patients who had comprehensive orthodontic treatment with clear aligners. Only 9 studies provided quantitative data for the meta-analysis where EARR was observed in only anterior teeth and the measurements for EARR were tooth/root length and root volume from CBCT. The studies that reported other measurements were not included.
+
+The results from this meta-analysis indicated that anterior teeth in both arches were affected with EARR resulting in a significant decrease in root length of 0.56 mm. These results were slightly higher than the results from a previous meta-analysis by Gandhi et al. that reported 0.44 mm EARR in maxillary incisors after using clear aligners. Among the anterior teeth, only the maxillary central incisors, maxillary lateral incisors, and mandibular central incisors had a significant reduction in root length. The canines and the mandibular lateral incisors demonstrated a reduction in root length, which was not significant due to high heterogeneity among the included studies and only 3 studies assessed these teeth in this meta-analysis.
+
+The maxillary central incisors exhibited the greatest amount of root resorption, with a mean reduction in tooth length of 0.74 mm followed by the lateral incisors and mandibular central incisors. A previous meta-analysis by Deng et al. demonstrated that the maxillary lateral incisors were the most resorbed teeth after fixed orthodontic treatment observed using CBCT (MD = −0.90, 95% CI [0.58, 1.22], P < .00001), followed by the maxillary central incisors (MD = −0.84, 95% CI [0.56, 1.12], P < .00001). However, they concluded that the maxillary central and lateral incisors resorption was similar and required more data to confirm which incisors are the most affected teeth. The sensitivity test was performed after the removal of Chen et al., which evaluated only the maxillary central incisors in patients with Class II division 2 malocclusion (Figure 3G). The results of the sensitivity test revealed that the average root resorption in the maxillary central incisors was reduced to 0.64 mm which was still higher than the maxillary lateral incisors from this meta-analysis that demonstrated 0.56 mm resorption.
+
+Four studies used panoramic radiographs to assess EARR by evaluating the relative change in the root-crown ratio (RCR) as a percentage rather than measuring the pre- and post-treatment tooth length in millimetres. RCR was considered stable, including when the 2 measured radiographs of each patient had different scales. However, due to a lack of pre- and post-treatment tooth length data and the heterogeneity of the measurements and outcomes, the meta-analysis of the EARR from 2D radiographs could not be performed.
+
+Most of the 2D studies focused on the EARR incidence and severity. The EARR incidence ranged from 41.81% to 100% and all participants had at least 1 tooth with root resorption. Most of the affected teeth demonstrated mild root resorption (<10%) and only a few teeth had severe root resorption (>20%). Gay et al. and Krieger et al. reported that only 3.69% and 6.31% of teeth, respectively, had a reduction of over 20% of the pre-treatment root length and severe root resorption was typically observed at the maxillary incisors.
+
+The previous meta-analysis by Gandhi et al. reported that the mean amount of EARR found using 2D methods was ∼0.2 mm higher than using CBCT and suggested that 2D radiography might overestimate the amount of root resorption. A panoramic study by Gay et al. reported an increase in the average relative change in RCR in all observed teeth being (rRCR > 100%), ie, the root length was increased after treatment. This could be due to the difficulty in identifying the incisor tip and the incisor root apex on the 2D radiographs because of overlying structures or due to magnification errors. However, another 2D study by Yi et al. found a decrease in root length after clear aligner treatment in the maxilla and mandibular incisors with a 5.13% ± 2.81% decrease in rRCR. The disparate results from the 2D studies suggest that the 2D radiograph data might not be reliable enough for measuring the amount of EARR compared with the CBCT data.
+
+Root resorption, however, is more than a 2D change in length, it occurs in 3 dimensions, including on the buccal-lingual and mesial-distal sides. EARR can be observed more accurately by CBCT in 3D measurement as root volume loss. In this study, the root volume of the incisors was decreased after clear aligner treatment. The maxillary central incisors had more root volume loss than the maxillary lateral incisors that confirmed the root length change results in this meta-analysis. However, EARR from the 3D data was measured as an absolute outcome in root volume loss (mm3), therefore larger teeth tended to exhibit more root volume loss. Liu et al. found that the maxillary central incisor had the highest amount of root volume loss in mm3, but less than the lateral incisor when measured in relative outcome (% volume loss).
+
+A total of 6 out of the 16 studies included for qualitative analysis discussed other risk factors that may influence EARR in clear aligner treatment. Age and gender were not identified as risk factors for EARR. Two studies reported no significant correlation between a patient's age and EARR, while 2 others found no significant difference in the amount of root resorption between male and female participants. However, 1 study by Aman et al. found that the percentage of changes in root length for women was significantly lower than for men (P < .4).
+
+Three studies have statistically assessed the correlation between treatment duration and the severity of root resorption and concluded that treatment duration did not significantly affect the amount of root resorption. A previous meta-analysis by Fang et al., which compared root resorption in clear aligners and fixed orthodontic treatment, reported that treatment duration was not identified as a confounding factor of root resorption. However, another meta-analysis that evaluated root resorption in fixed orthodontic appliances by Deng et al. suggested that treatment duration is a risk factor for root resorption, which disagrees with the findings of those 3 studies. The difference in these results may stem from the different interventions in both studies. However, one of the included studies by Yi et al. found that treatment duration had a positive correlation with the amount of EARR (r = 0.3651, P < .0205). Therefore, the effect of treatment duration on the amount of EARR remains controversial.
+
+Among the 16 studies included, 10 opted to exclude extraction cases. One study did not mention extraction or non-extraction cases in the inclusion criteria. The remaining 4 studies included patients with extraction in their trials, but only 1 study by Liu et al. observed the correlation between extraction treatment with clear aligner and EARR. The result found that extraction increased the risk of EARR, possibly due to the large tooth movement and reduction in overjet when closing extraction spaces, which agrees with previous studies of EARR in fixed orthodontic treatment. Moreover, the prevalence of root resorption in this study was much higher than in studies that included only non-extraction cases. However, the number of studies that included extraction cases was not enough, making it difficult to discuss the effect of tooth extraction and the amount of EARR in clear aligner treatment.
+
+Most cases treated with aligners were Class I patients with little or no crowding. The majority of studies excluded patients other than Class I or those with significant crowding, with only a few focusing on these factors and root resorption. One study found no association between skeletal pattern and EARR, while another study found no association between angle classification and EARR. Three studies reported that the severity of crowding had no significant correlation with EARR. In contrast, Aman et al. found that root resorption in patients with mild crowding (≤3 mm) was significantly lower than in patients with severe crowding (>7 mm). Two studies found that the type of tooth movement is one of the factors that affects the amount of root resorption, particularly vertical movement. Intrusion and extrusion were positively correlated with EARR in 1 study, while another study reported only extrusion.
+
+The post-treatment root position seems to be a risk factor for EARR. Two studies focus on the position of the root related to the cortical bone plate and found that the approximation of the root apex to the palatal cortical plate is strongly correlated with the severity of EARR.
+
+Limitations
+
+The included studies lacked high-quality RCTs due to their scarcity. Most of the included studies were non-RCTs and had a retrospective study design leading to a risk of bias. However, every study compared the root resorption from pre- and post-treatment values from comprehensive orthodontic treatment with clear aligners. Some studies did not provide data on the measurements in both time points and reported only the difference in root length/volume or relative change in percentage, which caused the heterogeneity and cannot be compared, thus these studies could only be included in the qualitative analysis.
+
+Although clear aligners have been used for many years, there are few studies concerning clear aligners. Studies in extraction cases, severe crowding, or a large amount of tooth movement with clear aligners and the EARR of the total dentition are still needed.
+
+Conclusion
+
+The current evidence suggests that clear aligners can cause minimal root resorption. All the participants had at least 1 tooth with root resorption after comprehensive orthodontic treatment with clear aligners.
+
+The amount of root resorption after clear aligner treatment from CBCT is 0.56 mm, which is not clinically meaningful. Moreover, the root resorption that was observed and measured using 3D data was 13.34 mm3 in tooth volume loss. The highest amount of root resorption was observed in the maxillary central incisors.
+
+The 2D radiograph technique can be used to observe the incidence of root length change, however, the accuracy and reliability of the exact amount of root resorption may be inferior to those of CBCT.
+
+Conflict of interest
+
+‘Root resorption in clear aligner treatment detected by CBCT: a Systematic review and Meta-analysis’
+
+The author has no conflict of interest to declare. The author has seen and agreed with the contents of the manuscript and there is no financial interest to report. I certify that the submission is original work and is not under review at any other publication.
+
+REFERENCES
+
+Root resorption caused by orthodontic treatment: an evidence-based review of literature
+
+Orthodontically induced inflammatory root resorption. Part I: the basic science aspects
+
+External root resorption: its implication in dental traumatology, paedodontics, periodontics, orthodontics and endodontics
+
+Root resorption associated with orthodontic tooth movement: a systematic review
+
+Genetic predisposition to external apical root resorption
+
+Identification of orthodontic patients at risk of severe apical root resorption
+
+Apical root resorption after orthodontic treatment – a retrospective study
+
+Apical root resorption due to orthodontic treatment detected by cone beam computed tomography
+
+Apical root resorption during orthodontic treatment. A prospective study using cone beam CT
+
+Root resorption before and after orthodontic treatment: a clinical study of contributory factors
+
+Association of orthodontic force system and root resorption: a systematic review
+
+Analysis of pain level in cases treated with Invisalign aligner: comparison with fixed edgewise appliance therapy
+
+Orthodontic appliance preferences of children and adolescents
+
+A new method for volumetric measurement of orthodontically induced root resorption craters
+
+Orthodontic aligners and root resorption: a systematic review
+
+External apical root resorption in non-extraction cases after clear aligner therapy or fixed orthodontic treatment
+
+Comparison of apical root resorption in patients treated with fixed orthodontic appliance and clear aligners: a cone-beam computed tomography Study
+
+Prevalence and severity of apical root resorption during orthodontic treatment with clear aligners and fixed appliances: a cone beam computed tomography study
+
+Evaluation of root length following treatment with clear aligners and two different fixed orthodontic appliances. A pilot study
+
+Orthodontically induced external apical root resorption in patients treated with fixed appliances vs removable aligners
+
+External apical root resorption 6 months after initiation of orthodontic treatment: a randomized clinical trial comparing fixed appliances and orthodontic aligners
+
+Detection of apical root resorption after orthodontic treatment by using panoramic radiography and cone-beam computed tomography of super-high resolution
+
+Comparison of cone-beam computed tomography and periapical radiography for detecting simulated apical root resorption
+
+Accuracy and reliability of tooth and root lengths measured on cone-beam computed tomographs
+
+In vitro comparison of contemporary radiographic imaging techniques for measurement of tooth length: reliability and radiation dose
+
+Higgins JP, Thomas J, Chandler J, et al., eds. Cochrane Handbook for Systematic Reviews of Interventions version 6.3 (updated February 2022). Accessed September 12, 2021. www.training.cochrane.org/handbook.
+
+The PRISMA statement for reporting systematic reviews and meta-analyses of studies that evaluate healthcare interventions: explanation and elaboration
+
+The Cochrane Collaboration's tool for assessing risk of bias in randomised trials
+
+ROBINS-I: a tool for assessing risk of bias in non-randomised studies of interventions
+
+A randomized trial on the effects of root resorption after orthodontic treatment using pulsating force
+
+Root resorption during orthodontic treatment with Invisalign®: a radiometric study
+
+Impact of low intensity pulsed ultrasound on volumetric root resorption of maxillary incisors in patients treated with clear aligner therapy: a retrospective study
+
+A quantitative three-dimensional comparative study of alveolar bone changes and apical root resorption between clear aligners and fixed orthodontic appliances
+
+External root resorption after orthodontic treatment with Invisalign®: a retrospective study
+
+Apical root resorption during orthodontic treatment with clear aligners: a retrospective study using cone-beam computed tomography
+
+Changes of maxillary central incisor and alveolar bone in Class II Division 2 nonextraction treatment with a fixed appliance or clear aligner: a pilot cone-beam computed tomography study
+
+The incidence and severity of root resorption following orthodontic treatment using clear aligners
+
+Effect of the application of high-frequency mechanical vibration on tooth length concurrent with orthodontic treatment using clear aligners: a retrospective study
+
+Apical root resorption during orthodontic treatment with aligners? A retrospective radiometric study
+
+Volumetric cone-beam computed tomography evaluation and risk factor analysis of external apical root resorption with clear aligner therapy
+
+A digital 3D retrospective study evaluating the efficacy of root control during orthodontic treatment with clear aligners
+
+Evaluation of root resorption after comprehensive orthodontic treatment using cone beam computed tomography (CBCT): a meta-analysis
+
+Root resorption in orthodontic treatment with clear aligners: a systematic review and meta-analysis
+
+Comparison of external apical root resorption with clear aligners and pre-adjusted edgewise appliances in non-extraction cases: a systematic review and meta-analysis
+
+Treatment outcome with orthodontic aligners and fixed appliances: a systematic review with meta-analyses
+
+Supplementary materials
+
+Supplementary material associated with this article can be found, in the online version, at doi:10.1016/j.identj.2024.04.008.
