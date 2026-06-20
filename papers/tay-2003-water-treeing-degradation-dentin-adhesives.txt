@@ -1,0 +1,15 @@
+Water treeing--a potential mechanism for degradation of dentin adhesives.
+
+Authors: Tay FR, Pashley DH (Univ. of Hong Kong; Medical College of Georgia)
+Journal: Am J Dent 2003;16(1):6-12
+PMID 12744405 | DOI: (none)
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract. This is the originating paper that introduced the "water treeing" concept to dentin adhesion (borrowed from the electrical-cable insulation literature).
+
+PURPOSE: To test the hypothesis that water channels are present along the adhesive-dentin interface that can be detected using transmission electron microscopy (TEM) examination of tracer penetration.
+
+METHODS: Different total-etch adhesives (Single Bond, Excite, and PQ1) and self-etch adhesives (Prompt L-Pop, Reactmer Bond, and an experimental self-etch adhesive) were bonded to dentin and enamel. Bonded resin-tooth slabs were immersed in 50 wt% conventional silver nitrate or 50 wt% basic, ammoniacal silver nitrate for 24 hours, exposed to a photodeveloping solution, and prepared for TEM.
+
+RESULTS: With both types of silver nitrate, all adhesives exhibited nanoleakage within hybrid layers. In addition, water trees in the form of interconnecting, dendritic silver deposits were seen along the surface of the hybrid layers that extended perpendicularly into the adhesive layers. With ammoniacal silver nitrate, additional isolated, unconnected silver grains were observed within the adhesives.
+
+(Conclusion/significance: water trees — dendritic water-filled channels analogous to those that degrade polymeric high-voltage cable insulation — form within/above the hybrid layer and represent a potential pathway for hydrolytic degradation of resin-dentin bonds.)
