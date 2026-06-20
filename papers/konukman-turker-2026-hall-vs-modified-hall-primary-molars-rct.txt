@@ -1,0 +1,27 @@
+[FULL TEXT (PMC OA, CC BY) — Source: PubMed/PMC, PMID 41526924, PMCID PMC12903323, DOI 10.1186/s12903-026-07667-2]
+
+Title: Two-year outcomes of hall technique and modified hall technique in deep carious lesions of primary molars: a randomized clinical trial.
+Journal: BMC Oral Health 2026;26(1):306. Konukman Turker S, Cihan AI. Ankara Yildirim Beyazit University. ClinicalTrials.gov NCT05220865.
+
+BACKGROUND / RATIONALE
+Hall Technique (HT): minimally invasive — a stainless steel crown (SSC) is cemented over a carious primary molar WITHOUT local anaesthesia, tooth preparation, or carious tissue removal. Rationale = caries control by biological sealing (depriving bacteria of dietary carbohydrate) rather than mechanical caries removal. Sealing reduces microbial number/diversity, dentine converts to less cariogenic microflora, tertiary dentine + tubular sclerosis form. Concern in DEEP lesions of primary teeth (dentine ~half thickness of permanent): residual infected dentine may progress. The study introduces a "modified HT" that removes the necrotic/contaminated OUTERMOST carious layer to soft dentine with an excavator before SSC placement (selective caries removal per ICCC), keeping the technique minimally invasive.
+
+METHODS
+Two-arm parallel RCT. 268 primary molars (189 children, 87 M / 102 F), aged 3–10 y (mean ~6.9 y). Block randomization 1:1: HT (n=134) vs modified HT (n=134). Single operator; blinded outcome assessor. Inclusion: deep dentine caries radiographically into at least inner half of dentine, clear band of normal dentine between lesion and pulp, vital pulp symptom-free or reversible pulpitis, >2/3 root remaining, sufficient structure for SSC. Outcomes (Innes 2007 criteria): successful / minor failure / major failure, at 3,6,12,18,24 months. Secondary: by tooth group, caries-affected surface, preoperative pain, SSC fit (assessed radiographically at 3 mo; insufficient = proximal lesion not fully covered or proximal margin not cervical to contact point). Sample size from Boyd 2018 (HT deep-caries success 67.7%) targeting ≥85% in modified HT.
+
+RESULTS
+- 24-month success: HT 86.6% vs modified HT 92.8% — NO statistically significant difference (p=0.121). Null hypothesis accepted.
+- Outcome trajectory (success / minor / major):
+  3-mo HT 97.0/0.8/2.3, modHT 98.5/0.8/0.8
+  6-mo HT 94.7/0.8/4.6, modHT 97.6/0.8/1.6
+  12-mo HT 91.3/2.4/6.3, modHT 94.8/3.4/1.7
+  18-mo HT 87.7/3.3/9.0, modHT 94.0/3.4/2.6
+  24-mo HT 86.6/3.4/10.1, modHT 92.8/3.6/3.6
+  (major failures consistently fewer in modified HT)
+- Preoperative pain present in only 3% (NS between groups). Insufficient SSC fit at 3 mo: HT 8.3%, modHT 7.6%.
+- HT group, SSC fit decisive (p=0.005): insufficient fit → major failure 40.0% and success 50.0%, vs sufficient fit → major failure 7.3%, success 89.9%.
+- Modified HT group by tooth group (p=0.034): first primary molars more minor failures (9.8% vs 0%), second primary molars higher success (95.7% vs 87.8%).
+- 23/115 (HT) and 25/110 (modHT) successful teeth physiologically exfoliated during follow-up.
+
+DISCUSSION / CONCLUSION
+Both HT and modified HT gave high 24-mo success with no significant difference (null accepted). Adding selective caries removal (modified HT) numerically reduced major failures and appeared protective even when marginal fit was insufficient (no major failures in modHT insufficient-fit teeth vs 40% in HT). Proper SSC fit is a key determinant of HT success. No pulp exposures occurred during caries removal in modified HT. Both techniques support minimally invasive management of deep carious primary molars. Limitations: single examiner, no immediate postoperative radiograph (ALADAIP), non-standardized amount of caries removed, possible subclinical pulp inflammation in proximal lesions.
