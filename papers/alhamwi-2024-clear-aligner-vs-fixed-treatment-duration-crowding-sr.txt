@@ -1,0 +1,3 @@
+[ABSTRACT-ONLY — paywalled, no PMC OA] Alhamwi AM, Burhan AS, Idris MI, Nawaya FR. Duration of orthodontic treatment with clear aligners versus fixed appliances in crowding cases: a systematic review. Clin Oral Investig 2024;28(5):249. DOI 10.1007/s00784-024-05629-y.
+
+SR. 9-database search to June 2023; RCTs + matched non-randomized studies. RoB 2 / ROBINS-I; GRADE. 3537 identified -> 10 included (6 RCTs); 9 non-extraction, 1 extraction. Meta-analysis not done (high inconsistency). Low-certainty evidence: no significant difference in treatment duration between CA and FA in mild-to-moderate crowding. Treatment duration also driven by patient/treatment factors. Further RCTs needed, especially severe cases.
