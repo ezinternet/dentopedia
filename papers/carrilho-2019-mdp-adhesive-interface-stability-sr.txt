@@ -1,0 +1,86 @@
+10-MDP Based Dental Adhesives: Adhesive Interface Characterization and Adhesive Stability—A Systematic Review
+
+PMID 30866488 | PMCID PMC6427605 | DOI 10.3390/ma12050790
+Source: PMC open-access full text.
+
+1. Introduction
+
+The procedures for performing a resin composite restoration include enamel etching, dentin conditioning, dentin priming and application of a dentin bonding agent, prior to the resin composite filling. However, since the introduction of adhesive resin-based restoration procedures, dental adhesives have been remarkably improved, and most commercially available adhesive systems have been simplified by combining some of the required steps [,,]. In this context, and concerning direct dental restorations, self-etch adhesives and universal adhesives (systems which provide the operator with the choice for selecting the adhesive strategy; etch-and-rinse, self-etch or selective enamel etching) provide the promise for a specific chemical interaction capable of achieving more stable and long-lasting adhesion, with no additional tooth preparation for macro-mechanical retention, when compared to etch-and-rinse adhesives (whose principal adhesion mechanism is related to the micromechanical retention preceded by the removal of the smear layer) [,,]. This interaction occurs due to functional monomers, which are acidic molecules that may serve various functions, such as etching tooth substrates (partially dissolving the smear layer and demineralizing hydroxyapatite), enhancing monomer penetration, and imparting the adhesives with potential for chemical interactions with dental substrates [,,,,].
+
+Functional monomers have at least one polymerizable group and a functional group which wets and demineralizes the substrate. According to the ‘adhesion-decalcification’ concept (the functional monomer either decalcifies or bonds to the tooth substrate), the functional group first ionically interacts with calcium in hydroxyapatite; depending on the resulting stability of the calcium-monomer complex, this ionic bond may either decompose and demineralize the tooth surface or remain stable [,,,].
+
+Functional monomers have already been ranked based on their chemical bonding potential and 10-MDP (10-methacryloyloxydecyl dihydrogen phosphate) has been identified as being capable of establishing a very intensive and stable chemical interaction with hydroxyapatite. The MDP-Ca water-insoluble salts contribute to the protection of the collagen fibers. The atomic relation of the 10-MDP molecule favors the chemical interaction. However, impurities and dimers may reduce adhesive forces when using adhesive systems with this functional monomer [,,,,,].
+
+The intense chemical interaction established between MDP and hydroxyapatite is ascribed to the superficial dissolution of hydroxyapatite induced by the adsorption of MDP, and subsequent deposition of MDP-Ca salts with lower solubility than of the salts produced by other functional monomers []. Monomer selection criteria must include properties such as calcium salt stability, wetting of the substrate and copolymerization behavior [].
+
+The aim for this article was to carry out a systematic review of the literature in order to evaluate the differences between the adhesive interfaces produced by dental adhesives containing 10-MDP and other adhesive systems. The aim was also to evaluate both bond strengths and adhesive stability of dental adhesives containing 10-MDP, in comparison with other systems/functional monomers.
+
+2. Materials and Methods
+
+The protocol used for this systematic review followed the recommendations of Preferred Reporting Items for Systematic Reviews and Meta-Analyses Protocols (PRISMA-P) [].
+
+The research strategy of the present work was formulated according to PICO (Problem, Intervention, Comparison, Outcome) as seen in.
+
+2.1. Search Strategy
+
+A literature search was conducted in the Pubmed, Cochrane Library, Web of Science and Embase databases, using the search formulas described in. Only articles in English, Spanish or Portuguese, published until January 2019 were included.
+
+2.2. Inclusion and Exclusion Criteria
+
+The inclusion and exclusion criteria for selection and extraction of data are described in.
+
+According to the predetermined inclusion and exclusion criteria, all titles and abstracts were examined by one reviewer (M.C.) in order to find relevant studies; the full texts of the relevant studies were scrutinized by two reviewers (M.C. and E.C.) independently to select eligible studies on the outcomes described in the PICO strategy. Any disagreement was discussed, and the opinion of a third reviewer (A.S.C.) was sought if necessary.
+
+Studies on commercially available adhesive systems were included in order to understand the 10-MDP performance compared to other functional monomers. Studies on specific formulations, where several groups were formed, varying on the concentrations of their components, were also included so that the mechanism of each one could be described or highlighted.
+
+For each proposed outcome and included study, descriptive and quantitative information was extracted, including authors, year of publication, control and test groups, results (quantitative and qualitative) and relevant conclusions.
+
+Due to the disparity of methodology, it was not possible to perform a quantitative analysis (meta-analysis).
+
+3. Results
+
+The initial search resulted in 1383 references: 274 from PubMed, 9 from Cochrane Library, 711 from Web of Science and 389 from Embase.
+
+After evaluating titles and abstracts, 212 relevant studies were obtained. After full-text analysis, 72 references were included in this systematic review ().
+
+The key characteristics evaluated were:
+
+3.1. 10-MDP Monomer: Molecular Structure, Hydrophilicity and Nano-Layered Structures
+
+Regarding the molecular structure of the 10-MDP monomer, its hydrophilicity and the formation of nano-layered structures, seven articles were found [,,,,,,]. Commercially available adhesives systems [,,,] and experimental adhesive formulations [,,,,,] were used in order to clarify the different behavior between 10-MDP and other monomers used, as well as the different capacities regarding formation of nano-layering at the adhesive interface. The results are summarized in.
+
+3.2. Capacity to Create an Acid-Base Resistant Zone (ABRZ)
+
+Regarding the capacity of adhesive systems to produce an acid-base resistant zone six articles were found [,,,,,]. Commercially available adhesive systems [,,,,] and experimental primer and bond [,,,,,,,,,,,,,,] were used to clarify the capacity of 10-MDP to create an ABRZ compared to other commonly used functional monomers. The results are summarized in.
+
+3.3. Adhesive Stability
+
+Regarding 10-MDP-related adhesive stability 22 articles were found [,,,,,,,,,,,,,,,,,,,,,]. Commercially available adhesive systems [,,,,,,,,,,,,,,,] and experimental adhesive formulations [,,,,,,,,,,] were used to evaluate the adhesive stability of the 10-MDP monomer. The results are summarized in.
+
+4. Discussion
+
+Self-etch and universal adhesive systems were introduced in dentistry to reduce and facilitate the clinical application of these biomaterials, by overcoming some etch-and-rinse disadvantages such as a greater number of steps, longer application time, technique sensitivity and difficulty in controlling dentin wetness []. However, these adhesion strategies work less favorably with enamel, as acid etching is not necessary in order to demineralize collagen fibrils. In etch-and-rinse adhesives that step might lead to several micrometers depth of demineralized substrate, especially in dentin, which is not completely hybridized by the bond solution of those systems, promoting degradation, a process initiated by nanoleakage []. In mild and ultra-mild self-etch adhesive systems, the abundant presence of hydroxyapatite remaining around the collagen fibrils provides natural protection to the collagen and allows the functional monomers to potentially interact with the substrate. Typical resin tags will only be formed when using strong self-etching adhesives. The potential interaction of self-etch adhesives depends on the surface-preparation method [,,].
+
+Functional monomers are not the only components in adhesive systems formulations so the clinical protocol for self-etching adhesives application cannot be the same for all the commercial systems: different solvents may require changes in the protocols (time, application, …) for better results. Active application of adhesives using a scrubbing technique promotes solvent evaporation, leading to the impregnation of a higher rate of monomers inside the smear layer, thus improving adhesive-interface quality. Solvent evaporation is also dependent on substrate characteristics (orientation of dentin surfaces) and on the uniformity of the adhesive layers. Long-term retention is achieved with high-quality chemical interaction between the adhesive and the substrate, through the formation of a hybrid layer, characterized as a three-dimensional collagen-resin biopolymer that provides a continuous and stable link between the adhesive and the dentin substrate; micromechanical retention may be additionally present when pre-etching the enamel or when using strong self-etching adhesive systems [,,,]. When talking about adhesive systems, interaction with collagen is probably the most important aspect, since the deterioration of collagen fibrils within the hybrid layer compromises the long-term stability of dentin bonding; the chemical properties of functional monomers are thought to account for the high bond strength with dentin [].
+
+Self-assembled nano-layered structures have been identified through adhesive interfaces of commercial self-etch and universal adhesive systems, both on enamel and dentin. These structures, which are typical of the 10-MDP monomer, are thought to produce a better water-stable interface which is favorable to adhesion, and may justify the higher adhesive stability of 10-MDP containing adhesive systems, along with the stable MDP-Ca salts [,,,]. Although nano-layered structures (which can be identified when 10-MDP based adhesives are used) are thought to play an important role in the adhesive stability bond strength, some doubts remain on the actual role of these structures. In fact, nano-layering cannot be responsible for durability of resin-dentin bond since it was not identified through all of the adhesive interfaces of the commercially available adhesive systems. These structures contribute to a higher resistance to biodegradation and to the longevity of the bond by enhancing the immediate performance of the adhesive systems [,,,].
+
+Functional monomers give adhesive systems formulations the capacity to interact with dental substrates. However, functional monomers may decrease the degree of conversion of camphoroquinone/amine-curing adhesives; this decrease is monomer-dependent, meaning that a different degree of conversion was observed depending on the incorporated monomer and concentration used, but was reduced by simultaneous interaction of the functional monomer with hydroxyapatite [,,]. Also, functional monomers are partially responsible for the hydrophobic/hydrophilic behavior of bonding resins [,,]. Though more hydrophilic spacer carbon chain induces more water sorption and better dentin wettability, more hydrophobic functional monomers (MDP) are more suitable in order to avoid the effects of hydrolytic degradation [,,].
+
+Nanoleakage corresponds to defects at the resin-dentin interface from hydrolytic degradation, which may serve as pathways for degradation; double application self-etch adhesives may contribute to the durability of the bond by building a less permeable layer []. Also, applying the adhesive by employing a scrubbing technique enhances resin monomer infiltration of dentin, water chasing on the dentin surface and smear layer dissolution, improving the quality of the adhesive interface, especially on mild self-etching adhesive systems [].
+
+The 10-MDP monomer has a proven potential to interact with hydroxyapatite; the bond produced by 10-MDP containing adhesives appears to be very stable, as confirmed by the low dissolution rate of its calcium salts in water. Etching capacities are related to the substrate where it is applied, to the incorporated monomer and to the bonding potential of other commonly used functional monomers (4-META, phenyl-P). At different degrees the bonding potential is substantially low, or produces bonds which are not hydrolytically stable []. However, adhesion differentials between commercial adhesive systems are noticed depending both on the dental substrate and on other components included in the adhesives formulations. Some universal adhesives were found to produce poor adhesive interfaces by being less 10-MDP concentrated which suggests that an optimal concentration and purity of 10-MDP in self-etch and universal adhesives may exist so the maximum potential of this functional monomer is achieved [,,,,].
+
+The 10-MDP monomer has a long and hydrophobic spacer chain and creates a rich MDP-Ca salt adhesive interface, which improves adhesion strength, remaining stable after one year of water-storage [,,,,]. Although all the advantages of this monomer, application protocols are crucial (substrate, time and technique) [,,]. The application of an extra hydrophobic layer when using one-step self-etching or universal adhesive systems may improve the adhesive interface (in terms of durability and of resistance to degradation) and increase the long-term retention of restorative materials []. When using one bottle, self-etching or universal adhesive systems enamel etching may be recommended since these adhesive systems tend to have higher pH values, which lowers the ability to etch the enamel [,].
+
+However, MDP-Ca salts were found to depend on the components that constitute commercial adhesives more strongly than on the concentrations of MDP and water in the adhesive []. Water concentration in adhesive systems was found to affect the efficacy of smear layer removal, and dentin bonding performance more strongly than the pH value of the adhesives [,] and ethanol was found to limit the dissociation of phosphate groups from the 10-MDP monomer []. 4-META was found to enhance both enamel and dentin bond-strengths more effectively than HEMA []. Although HEMA tends to improve bond strength, HEMA-free adhesives are preferred because of its hydrophilicity; on the other hand, HEMA brings solvents back into solution [,,]; also, MDP-HEMA aggregates were found to compromise the MDP-collagen interaction leaving collagen fibrils unprotected by MDP and HEMA [,,,]. Other components may compete for calcium against 10-MDP, such as zinc ions []. Calcium hydroxide was found to improve the degree of conversion without interfering with bond strength to dentin, or the extent of nanoleakage [].
+
+Adhesive systems containing 10-MDP have a proven interest. However, it is important not to forget, when using strong self-etching adhesive systems, that the adhesive solution may penetrate into dentinal tubules and reach the pulp, especially when restoring deep cavities. Current studies on cytotoxicity lack a complete understanding of the effect of these materials on the pulp, because it is difficult to mimic the clinical conditions of its application. Some studies have reported that minimally toxic concentrations of 10-MDP promoted an inflammatory response and suppressed odontoblastic differentiation of dental pulp cells [,]. Also, chemical properties of MDP-containing adhesives alter during storage because MDP hydrolysis leads to acidification of the adhesive solutions [,].
+
+5. Conclusions
+
+When selecting a functional monomer or adhesive system, 10-MDP monomer appears to be a safe choice because of its molecular structure which is favorable to adhesion, its hydrophobic behavior and characteristic adhesive interface which favors bond durability and strength.
+
+10-MDP containing dental adhesives are biomaterials which can establish strong and durable adhesive interfaces. Although 10-MDP has a proven capacity to interact with hydroxyapatite, some clinical steps of application of these adhesives are crucial for the resultant bond interface.
+
+To have the best of these adhesive solutions, selective enamel etching and a scrubbing technique must be used to apply the adhesive system on dental substrates, in order to improve monomers infiltration and to create a stable bond. Time must be given for the solution to infiltrate, hybridize and form the MDP-Ca, protecting collagen fibrils and improving adhesive stability.
