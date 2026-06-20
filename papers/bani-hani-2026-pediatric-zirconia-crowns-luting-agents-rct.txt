@@ -1,0 +1,17 @@
+Clinical performance of paediatric zirconia crowns cemented with two luting agents: A 36-month split-mouth randomised controlled trial.
+
+Authors: Bani-Hani T, Saleh MM, Tabnjh AK
+Journal: J Dent 2026
+PMID 42155884 | DOI 10.1016/j.jdent.2026.106762
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Recently, paediatric zirconia crowns have gained widespread popularity as an esthetic restorative option. However, evidence regarding their clinical technique remains limited. The aim of this study was to compare the clinical performance of Glass Ionomer Cement (GIC) and self-adhesive resin cement for luting paediatric zirconia crowns.
+
+A split-mouth randomised clinical trial involved three-to-five-year-old children with carious primary incisors requiring restoration with zirconia crowns. Pair-matched incisors were randomly assigned to receive either GIC or resin cement for crown cementation. Crowns were clinically evaluated for retention, and gingival condition at 1-week, 1-, 3-, 6-, 12-, 24-, and 36-month recall appointments. Data were analysed using McNemar's test for crown retention and Wilcoxon signed-rank test for gingival index scores with statistical significance set at p < 0.05.
+
+Thirty-eight patients with 64 pair-matched incisors (128 teeth) were enrolled. Over the study period, three debonding events occurred in the GIC group resulting in cumulative retention rates of 96.9 %, 95.3 %, and 95.3 % at 12-, 24-, and 36-month follow-up respectively. Conversely, no debonding was recorded in the resin-cement group, yielding 100 % retention; however, the intergroup difference in retention was not statistically significant (p > 0.05; 95 % CI: -0.5 % to 9.9 %). No statistically significant differences were observed in gingival index scores between cement types at any follow-up point (p > 0.05, effect size (r) = 0.02-0.11).
+
+Both cements showed high clinical retention and favourable gingival health. Findings suggest that GIC may be considered a clinically acceptable alternative to self-adhesive resin cement for luting zirconia crowns in primary teeth.
+
+The results of the study provide important clinical implications with regards to the selection of cement material for paediatric zirconia crowns.
