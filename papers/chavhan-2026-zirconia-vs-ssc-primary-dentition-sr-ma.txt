@@ -1,6 +1,0 @@
-[ABSTRACT-ONLY — full text not retrieved (no PMC). Source: PubMed, PMID 41755432, DOI 10.4103/jisppd.jisppd_462_25]
-Title: Clinical efficiency of prefabricated zirconia crowns in primary dentition: A systematic review and meta-analysis. Journal: J Indian Soc Pedod Prev Dent 2026;44(1):14-23. PROSPERO CRD420251016795.
-Aim: compare prefabricated zirconia crowns (PZCs) vs stainless steel crowns (SSCs) in primary molars — retention, gingival health, plaque, antagonist wear, parental satisfaction.
-Methods: PRISMA 2020; RCTs 2018-2024; Cochrane RoB2. 7 RCTs (n=700 crowns); 3 in meta-analysis.
-Results: both crown types high retention, NO significant difference (OR 0.96; 95% CI 0.40-2.32; p=0.93). PZCs better gingival health and less plaque accumulation. Some evidence of increased antagonist wear with PZCs (greater material hardness). Parental satisfaction strongly favoured PZCs (esthetics).
-Conclusion: PZCs show retention/durability comparable to SSCs with esthetic and gingival advantages; reliable alternative when esthetics/caregiver preference prioritized, though cost and antagonist wear should inform decisions.
