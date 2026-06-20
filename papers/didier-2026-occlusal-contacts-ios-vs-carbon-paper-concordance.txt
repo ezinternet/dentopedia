@@ -1,0 +1,106 @@
+[FULL TEXT — PubMed Central PMC13140004. PMID 41603766. DOI 10.1111/ocr.70088]
+
+TITLE: Concordance Between the Occlusal Contacts Record Obtained Using an Intraoral Scanner and Carbon Paper
+AUTHORS: Victor França Didier, Victor de Miranda Ladewig, Jessica Quereza de Freitas, Paula Vanessa Pedron Oltramari, Thaís Maria Freire Fernandes, Marcio Rodrigues de Almeida, Renata Rodrigues de Almeida Pedrin, José Fernando Castanha Henriques, Ana Cláudia de Castro Ferreira Conti
+JOURNAL: Orthodontics & Craniofacial Research. 2026 Jan 28; 29(3):546-552.
+DOI: 10.1111/ocr.70088
+
+ABSTRACT
+
+Objectives: To evaluate the reliability of the registration of occlusal contacts through intraoral scanning in comparison with those obtained with the aid of carbon paper.
+
+Materials and Methods: The occlusal registration was obtained at the beginning of the orthodontic treatment of 35 patients (23 men and 12 women), aged 15 to 30 years. All patients were scanned with iTero Element (Align Technology, CA, USA), occlusal records were also performed with carbon paper (AccuFilm – 8 μm, USA) and recorded in occlusograms. To verify the agreement between the two methods, the percentages of agreement and disagreement and kappa statistics were applied.
+
+Results: There was poor agreement between occlusal contacts recorded by intraoral scanning and those obtained with carbon paper in most of the sample (Kappa value 0.07 to 0.20). Most contacts were registered in the posterior region. It seems that the contacts registered as intense in the iTero, correspond to the contacts with the carbon paper.
+
+Conclusions: The occlusal records by means of scanning and carbon paper presented poor agreement, but the association of both methods is indicated for the correct registration of the occlusion.
+
+---
+
+1. INTRODUCTION
+
+Intraoral scanners are widely used in restorative and prosthetic dentistry, as well as for orthodontic diagnosis, treatment planning and treatment monitoring. Their use has increased substantially and they are well accepted by patients due to greater comfort and overall satisfaction. Modern devices, even when produced by different manufacturers, demonstrate comparable levels of precision; however, further efforts are required to expand and optimize the clinical applications of this technology.
+
+To expand scanning application methods, it is essential to ensure that the information obtained is reliable, including the occlusal relationship of the arches and contact points. Several studies have validated the occlusal relationship of the arches in a virtual environment; however, further investigations are needed to compare the relationship obtained in scanning with that observed in patients in vivo.
+
+The demand for aligner therapy and its planning has increased considerably, contributing to a higher number of intraoral scans for both treatment planning and monitoring. Based on the individualized treatment plan, ClinCheck (Align Technology's orthodontic planning software) displays the planned tooth movements and predicts treatment outcomes through a virtual model. The clinical outcome of aligner therapy is expected to correspond to this final virtual position.
+
+Even with all this technology, there is a tendency for molar intrusion in 74% of patients. Therefore, accurately reading the occlusal relationship in the scan would enable predicting areas with or without contact, minimizing the tendency for posterior open bite or other occlusal misalignment, improving case finalization and allowing closure of treatments with simultaneous contacts on all posterior teeth bilaterally.
+
+Recent investigations have explored the reliability of digital systems for occlusal contact registration. Reich et al. showed that digital systems such as T-Scan tend to underestimate the number of occlusal contacts compared to conventional methods, although they provide higher reproducibility, especially in anterior regions. Wei et al. introduced a three-dimensional evaluation protocol and demonstrated that intraoral scanning achieved a consistency rate of occlusal contact regions nearly three times higher than conventional impressions, with significantly improved occlusal tightness, although virtual intersections were occasionally detected. Rovira-Lastra et al. reported that silicone transillumination achieved reproducibility rates above 85%, while articulating films and digital systems such as virtual occlusion and T-Scan displayed only moderate validity and reproducibility.
+
+Objective: to determine the level of agreement between occlusal contacts recorded by intraoral scanning and those obtained with carbon paper, considering both the number of contacts and their distribution across tooth areas.
+
+2. MATERIALS AND METHODS
+
+Retrospective study. Sample from a database at the University of Northern Paraná (Unopar): occlusal records of 35 patients (12 women, 23 men). Approved by Research Ethics Committee (CEP) of Unopar, process number 3.384.099.
+
+The kappa statistic was used to assess the precision of occlusal contact records, with a mean kappa value of 0.14 and 95% confidence level. The margin of error for kappa estimates was ±0.17 for canines and first molars (n=140) and ±0.12 for incisors and premolars (n=280). For the larger sample, the true kappa value is expected to range from 0.02 to 0.26 with 95% confidence. Each tooth from the 35 patients was considered an independent sampling unit, totaling 840 teeth.
+
+Inclusion criteria: Class I malocclusion, aged 15 to 30 years, moderate crowding (3-5 mm), without tooth extraction.
+Exclusion criteria: absence of permanent teeth, previous open bite, crossbite or previous orthodontic treatment.
+
+Patients performed mandibular movements (opening and closing into maximum habitual intercuspation with maximum intensity) seated at a 45° angle. All occlusal surfaces were dried with an air jet before recording, initially with carbon paper then with intraoral scanning.
+
+Carbon paper records were carried out by a single professional, using carbon paper (articulating foil) 8 μm thick (AccuFilm, USA). Contacts were transferred to an occlusogram for evaluation.
+
+The iTero Element 2 Scanner (Align Technology, Santa Clara, USA) was used for intraoral scanning; patient registration carried out by 2 other professionals, previously trained to perform the same scanning path, obtaining the image through full-arch scanning. Intraoral scanning generates a digital model in which contact points are represented using a colour scale from red to dark blue, according to the distance between occlusal surfaces. Contacts were transferred to an occlusogram with coloured pencils, considering only red and orange as contacts. This range was determined because the variation per the company would be from 0.0 mm to 0.1 mm (red) and 0.1 mm to 0.2 mm (orange).
+
+Contacts evaluated in first molars, first and second premolars, canines, lateral and central incisors, on left and right sides, in upper and lower arches.
+
+Tooth surfaces evaluated:
+- First molar: Mesiobuccal cusp (MBC), Distobuccal cusp (DBC), Mesiolingual cusp (MLC), Distolingual cusp (DLC), Central groove (CG)
+- First/second premolar: Buccal cusp (BC), Lingual cusp (LC), Central groove (CG), Mesial marginal ridge (MMR), Distal marginal ridge (DMR)
+- Canine: Mesial lingual surface (MLS), Distal lingual surface (DLS), Tip of cusp (TC)
+- Central/lateral incisors: Mesial buccal/lingual surface (MS), Distal buccal/lingual surface (DS), Incisal edge (IE)
+
+Statistical analyses: SPSS version 28. Data described by relative frequency (%). Contact by scanner evaluated in three forms: (1) red or orange; (2) red only; (3) orange only. Agreement assessed via percentages of agreement/disagreement and kappa statistic (red and orange = contact for scanner). Interpreted per Landis & Koch kappa values.
+
+3. RESULTS
+
+Through carbon registration, 917 contact points were obtained; during scanning, 1548 contact regions total — 745 red (48.1%) and 803 orange (51.9%). In incisors, canines and premolars, prevalence of red regions was higher (60.3%, 54.8%, 52.1% respectively), whereas in molars orange contacts predominated (69.1%).
+
+More occlusal contacts were recorded in premolar region than molar region, both for carbon (365 premolars; 260 molars) and scanning. More contacts were obtained in carbon than red regions for canines, premolars and molars.
+
+TABLE 2 — Proportion of red/orange markings (scanner) and total (carbon):
+- Incisors: Red 211 (60.3%), Orange 139 (39.7%), Scan total 350; Carbon 159 (17.33%)
+- Canines: Red 86 (54.8%), Orange 71 (45.2%), Scan total 157; Carbon 133 (14.5%)
+- Premolars: Red 311 (52.1%), Orange 286 (47.9%), Scan total 597; Carbon 365 (39.8%)
+- First molar: Red 137 (30.9%), Orange 307 (69.1%), Scan total 444; Carbon 260 (28.35%)
+- Total: Red 745 (48.1%), Orange 803 (51.9%), Scan 1548; Carbon 917 (100%)
+
+Low or no agreement found for most occlusal records, whether comparing the sum of red+orange scan contacts with carbon, or red contacts only. Per kappa statistics, most tooth surfaces showed poor agreement between carbon paper and intraoral scanner (Kappa 0.07 to 0.20). Only the Lingual Cusp (LC) of premolars (Kappa 0.38) and Mesiolingual Cusp (MLC) of first molars (Kappa 0.27) showed slight agreement.
+
+Considering only red contact regions vs carbon, same trend of poor agreement. Highest values (slight per kappa) found only at Distal Buccal/Lingual Surface (DS) of incisor (Kappa 0.21) and Buccal Cusp (BC, 0.21) and Lingual Cusp (LC, 0.26) of premolars. Remaining surfaces ranged from poor to none.
+
+TABLE 3 — Kappa (red OR orange = contact), selected:
+Incisors: MS 0.07, DS 0.19, IE 0.20
+Canines: MLS 0.06, DLS 0.17, TC 0.07
+Premolars: BC 0.18, LC 0.38, CG 0.04, MMR 0.13, DMR 0.13
+Molars: MBC 0.18, DBC 0.18, MLC 0.27, DLC 0.09, CG 0.13
+
+TABLE 4 — Kappa (red only = contact), selected:
+Incisors: MS 0.11, DS 0.21, IE 0.18
+Canines: MLS 0.12, DLS 0.18, TC 0.08
+Premolars: BC 0.21, LC 0.26, CG -0.03, MMR 0.07, DMR 0.03
+Molars: MBC 0.09, DBC 0.18, MLC 0.15, DLC 0.10, CG 0.13
+
+4. DISCUSSION
+
+Occlusal registration with carbon paper differed from intraoral scanning. When considering concordance of carbon marking with the sum of red+orange scan contacts, scanning registered around 70% more contacts than carbon. When only red contacts considered, fewer contacts identified in scans than carbon. These results reaffirm the difference between real and virtual, raising the hypothesis that the orange mapping of the scan (occlusal proximity between 0.1 mm and 0.2 mm) may be a lack of contact.
+
+Both methods showed more occlusal contacts in posterior region, expected for stable occlusion. Carbon recorded more contacts in canines (133), premolars (365) and molars (260) than the scan red marking (86; 311; 137 respectively). This may be justified by the presence of occlusal paper, which despite being the thinnest recommended, is still an interposed object. Studies reinforce limited effectiveness of intraoral scanning for recording full-arch occlusal relationship.
+
+From a prosthodontic perspective, patients perceive occlusal discrepancies as small as 10 μm, corresponding to the sensitivity threshold of articulating paper (8 μm). In contrast, the iTero scanner defines red contacts at distances up to 100 μm (minimum distance provided by the scanner), indicating a potential ten-fold reduction in accuracy compared to conventional methods.
+
+Kappa analysis revealed poor agreement across most tooth surfaces, except two surfaces showing slight agreement when red+orange considered as contacts (LC premolars, MLC first molars), and three when only red considered (DS incisor, BC and LC premolars). There is an erroneous correlation of considering ClinCheck red contacts as excessive since 48.1% of intense contacts presented clinically as ideal contacts — early removal of red contacts from simulation may cause an unexpected "overcorrection" of occlusion, deepening the bite in aligner treatments via unnecessary intrusion. Another study states scanning tends to make closer contacts, generating overcorrection in reading the occlusal register. An intermediate category between red and orange on iTero and between red and green on ClinCheck may be necessary.
+
+The gold standard for occlusal registration has not yet been defined; carbon paper is used routinely but has limitations and operator variability. Transillumination records contacts in separations greater than 0.35 mm; T-Scan records contact intensity but may interfere with vertical dimension of occlusion and muscle function.
+
+Limitations: only one scanner model (iTero Element 2) used — results cannot be generalized to other scanning systems. Teeth with restorative materials were not excluded, though young population so most teeth sound or with small composite restorations. Due to retrospective design, intra-examiner reliability tests not possible (patients already treated). Establishing the occlusal relationship exclusively using iTero scan data cannot be recommended.
+
+5. CONCLUSION
+
+- Occlusal registration obtained by intraoral scanning and carbon paper demonstrated poor agreement.
+- Most occlusal contacts were located in the posterior region.
+- These findings suggest that considering both methods in clinical practice may enhance the reliability of occlusal registration.
