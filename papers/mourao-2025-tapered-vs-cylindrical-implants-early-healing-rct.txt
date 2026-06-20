@@ -1,0 +1,19 @@
+Do tapered implants offer clinical advantages over cylindrical implants in early healing?
+
+Authors: Mourão CF, Dos Santos Pereira R
+Journal: Evid Based Dent 2025
+PMID 41455825 | DOI 10.1038/s41432-025-01202-y
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Charoenniwassakul, R., S. Aruncharoensuk, K. Subbalekha, N. Mattheos, S. Jiaranuchart, A. Pimkhaokham. "Effect of Dental Implant Design on Stability During Early Healing: A Randomised Controlled Trial." J Clil Periodontol 2025; https://doi.org/10.1111/jcpe.70052 .
+
+Randomized clinical trial with two parallel groups, conducted to compare the primary and secondary stability of tapered and cylindrical dental implants during six weeks of healing. Stability was assessed using maximum insertion torque, also known as Maximum Insertion Torque (MIT), the Implant Stability Quotient obtained through resonance frequency analysis (ISQ), and the Implant Stability Test obtained through percussion analysis (IST).
+
+Healthy adults were included, with posterior edentulous areas healed for at least two months and with no need for bone grafting. Smokers and patients with uncontrolled systemic diseases, conditions affecting bone metabolism, or maxillomandibular pathologies were excluded. This selection favors experimental control but limits applicability to more complex clinical scenarios.
+
+The study used repeated-measures analysis of variance and multiple imputation for missing follow-up data. Correlations between under-preparation, torque, and secondary stability were evaluated. Mechanical stability was interpreted separately from biological stability to characterize the transition throughout healing.
+
+Tapered implants demonstrated significantly higher MIT. Cylindrical implants presented higher ISQ and IST values at the end of six weeks. Both implant types exhibited the physiological pattern of transient stability reduction. The lack of standardization in osteotomy preparation between groups prevents differences from being attributed exclusively to implant design.
+
+Both implant types achieved adequate stability for early loading protocols in healed bone of good quality. Surgical technique had a greater impact on primary stability than implant macrogeometry. The findings are not applicable to immediate loading, regenerated bone, or low-density bone sites.
