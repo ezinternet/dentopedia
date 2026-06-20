@@ -57,7 +57,7 @@ DOMAINS = [
     ("보철 · 수복재료 · 심미", [
         "adhesive-bonding", "ceramic-bonding", "crown-preparation", "dental-materials",
         "direct-resin", "immediate-dentin", "lithium-disilicate", "prosthetic-materials",
-        "reis-2024", "veneer", "zirconia-material", "zirconia-types",
+        "reis-2024", "veneer", "zirconia-material", "zirconia-types", "resin-dentin",
         "complete-denture", "food-impaction"]),
     ("우식 · 경조직 · 시린이 · 균열", [
         "caries", "cracked-tooth", "dental-erosion", "dentin-hypersensitivity",
