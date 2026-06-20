@@ -1,0 +1,29 @@
+Evaluation of D&C Red No. 33 as an alternative to erythrosine for plaque disclosure: a randomized crossover trial
+
+Authors: Sooampon S et al. (Faculty of Dentistry, Chulalongkorn University)
+Journal: BMC Oral Health 2026
+PMID 42243816 | PMCID PMC13263934 | DOI 10.1186/s12903-026-08786-6
+Trial registration: Thai Clinical Trials Registry TCTR20250313002 (13 March 2025)
+
+Source: PMC open-access full text (CC BY).
+
+BACKGROUND
+Plaque disclosing agents facilitate visualization of dental biofilm and support oral hygiene instruction. Erythrosine (FD&C Red No. 3) is the most commonly used agent but stains oral tissues persistently and raises safety concerns — as of 15 January 2025 the U.S. FDA prohibited erythrosine in food and orally ingested drugs (carcinogenicity in male rats at high exposure). This prompted a search for safer alternatives. This study compared the clinical performance and user acceptability of three plaque disclosing formulations: 3% erythrosine, 3% D&C Red No. 33, and a mixed formulation of 3% D&C Red No. 33 with green powder (a two-tone agent intended to differentiate old vs new plaque). 3% concentration was selected (6% D&C Red No. 33 had lower solubility; pilot found no 3% vs 6% erythrosine difference).
+
+METHODS
+Randomized crossover clinical trial, partially blinded. 11 healthy adults (7F/4M, mean age 22.5 ± 1.3 y, range 20–25), convenience sample at Chulalongkorn University. Sample size 9 + 20% dropout → 11 (G*Power, alpha 5%, power 90%, primary outcome TQHPI). Each participant received all three disclosing formulations (A=3% erythrosine, B=3% D&C Red No. 33, C=mixed D&C Red No.33+green) in random order, one per visit, with a 1-week washout. Standardized modified Bass brushing + once-daily night flossing; 7-day familiarization. On testing days: brush in morning only, chew assigned tablet ~1 min, expectorate without rinsing. Primary outcome: plaque index by Turesky modification of the Quigley–Hein Plaque Index (TQHPI) on labial surfaces of anterior teeth, scored by a calibrated examiner before and after brushing/flossing. Secondary outcomes (participant-rated): plaque visibility (VAS 0–10), residual staining (teeth/lips/tongue/oral mucosa/sink; 3-point scale, immediate and 1 h post-brush), ease of stain removal (3-point), taste perception (3-point). Stats: repeated-measures ANOVA, paired t-tests, Friedman + Wilcoxon signed-rank; α=0.05.
+
+RESULTS
+- Plaque visibility (VAS): highest for 3% erythrosine, then 3% D&C Red No. 33, lowest for the mixed agent. Erythrosine significantly higher than both alternatives.
+- Baseline plaque index (TQHPI): highest with erythrosine, lowest with mixed formulation; erythrosine significantly differed from both alternatives.
+- After brushing/flossing: all three groups showed statistically significant plaque index reduction. When expressed as PERCENTAGE reduction in plaque index, NO significant difference among the three agents — i.e. despite different baseline staining intensity, effectiveness in facilitating plaque removal was comparable.
+- Residual staining: erythrosine highest overall. On lips, erythrosine significantly greater than both others at 1 h. On oral mucosa, erythrosine significantly greater than D&C Red No. 33 at both times. D&C Red No. 33 produced the least residual staining; no significant between-agent difference on the wash basin.
+- Ease of stain removal: erythrosine rated most difficult to brush off (significantly worse than D&C Red No. 33); mixed formulation intermediate.
+- Taste satisfaction: D&C Red No. 33 highest, mixed intermediate, erythrosine lowest (all significantly different).
+- The mixed D&C Red No.33/green two-tone formulation FAILED to differentiate plaque maturity (stained plaque appeared purplish-brown) — participants maintained daily hygiene so little mature plaque was present.
+
+CONCLUSIONS
+Erythrosine remains the most effective agent for plaque visualization but has notable disadvantages in residual staining, difficulty of removal, taste, and regulatory/safety status. D&C Red No. 33 showed comparable percentage plaque-reduction effectiveness with superior taste acceptability and reduced residual staining, and is already FDA-approved in oral-care products (mouthwash, dentifrice) — supporting it as a more acceptable, patient-friendly alternative disclosing agent. The mixed D&C Red No.33/green formulation gave no added clinical benefit.
+
+LIMITATIONS
+Small sample (n=11), convenience sampling of healthy young adults (limited generalizability), incomplete blinding (mixed formulation visibly distinct), assessment limited to labial anterior surfaces (posterior efficacy not captured), possible carryover despite 1-week washout, uncontrolled chewing behavior causing uneven dye distribution.
