@@ -18,6 +18,8 @@ source_papers:
   - implants/kim-2026-dental-implant-osteoporosis-osteosclerosis
   - drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction
   - drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy
+  - drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence
+  - drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -36,6 +38,8 @@ relations:
 > - 데노수맙은 누적 용량 (cumulative dose)이 위험 지표 — 유방암 골전이 cohort에서 ≥32 doses에서 MRONJ 31.2%로 급증 (Yokoo 2025, ROC AUC 0.83). 발치력 OR 4.40, dose 1회 추가마다 odds 4.7% 증가.
 > - 4단계 예방 framework (Baghalipour 2025): 1차 (약물 전 클리어런스, 가장 효과적) → 2차 (약물 중 발치 회피·항생제 prophylaxis) → 3차 (확립된 MRONJ staging 관리) → 4차 (과잉의료화 회피).
 > - AAOMS 2022 update 3대 변경 (Kwon 2023): ① 정의에 면역조절제 (Romosozumab 등) 추가, ② 수술적 치료를 전 stage (1·2·3)로 확대, ③ 술전 약물중단 (drug holiday) 권고 삭제. Drug holiday는 합의 없음, CTX (C-terminal telopeptide) 검사도 위험평가에서 제외.
+> - **한국 2025 포지션 스테이트먼트** (Kim 2025, 한국 5개 학회): 약제별 예방적 drug holiday 명문화 — oral BP 연장 사용 시 2개월 중단, IV zoledronate 6-12개월 중단, Dmab 마지막 주사 3-4개월 후 침습적 시술; 8주 기준 완화 (방사선/임상적 괴사골 확인 시 8주 미충족해도 진단 가능); 전 병기 조기 수술 권고 (Stage 1 보존 치료 시 91.3%가 잔존 노출골). 한국 전국 코호트(60만 명) MRONJ: oral BP 0.10%, Dmab 60mg 0-0.18%.
+> - **Xgeva vs Prolia DRONJ 치료 예후** (Cho 2026, n=178, KNUDH): 치료 성공률 Xgeva 53.8% vs Prolia 85.0% (p=0.027). 고용량 Dmab만이 유일한 독립 예측인자 (OR 5.13, 95%CI 1.19-22.14). MRONJ stage·연령·치료 기간은 유의 예측인자 아님. BP→Prolia 전환군은 Dmab 시작 후 MRONJ 발생 16개월(vs 23개월)로 앞당겨지나 중증도·예후 차이 없음.
 > - Staging: At-risk (무증상) → 0 (비특이 증상, 노출골 없음) → 1 (노출골, 무증상) → 2 (노출골+통증/감염) → 3 (병적골절·누공·하악연 침범). Stage 2–3은 수술적 절제.
 > - 발치 프로토콜: 경구 BP <4년+골다공증은 표준 발치 가능, 그 외 고위험군은 처방의 협진·대안술식 (근관치료 등) 우선·불가피 시 비외상적 발치+1차폐쇄+술후 추적.
 > - 항생제 prophylaxis: 저위험군에서 단일 술전 아목시실린 (Amoxicillin, AMPC) 500mg이 3일 코스와 동등 (Iwata 2025, n=160) — 항생제 내성 (AMR) 회피. 단 고위험군에는 그대로 적용 불가.
@@ -110,6 +114,8 @@ relations:
 1. **정의 확대**: 면역조절제(Romosozumab 등)를 잠재적 ONJ 관련 약물로 추가. [claude해석] Romosozumab은 sclerostin inhibitor(골형성 촉진)로 항흡수제 class가 아니므로, class 귀속이 아니라 관찰된 ONJ 연관성에 근거한 추가.
 2. **수술적 치료 확대**: operative therapy를 진행성 병변에 한정하던 것에서 **전 stage(1·2·3)** 적응으로 전환.
 3. **Drug holiday 삭제**: 수술 전 drug holiday로 MRONJ를 예방한다는 권고가 2022 paper에서 **더 이상 지지되지 않음**. 위 §3 staging의 Stage 1 관리가 "추적"에서 보존적 수술까지 포함하도록 넓어진 것은 이 변경의 반영.
+
+[합의수준] **Kim 2025 (한국 5개 학회 공동 포지션 스테이트먼트)** — AAOMS 2022의 "합의 없음" 입장을 보완해, 한국 전국 코호트 데이터를 기반으로 약제별 예방적 drug holiday를 구체화. 근거 기반: 한국 IV BP 타이밍 코호트에서 ibandronate는 투여 중단 ~90일부터, zoledronate는 6개월 이후부터 위험 하락, 유의 감소는 ≥12개월 후. 권장 drug holiday — 경구 BP(장기 사용·위험인자 있는 경우): 침습 시술 전 2개월; IV zoledronate: 6-12개월; Denosumab: 마지막 주사 3-4개월 후 시술(골흡수 표지자 하강기·6-9개월 반동 골절 위험 전). 고골절위험 Dmab 환자의 연장 holiday 시: raloxifene (SERM) 간격 채움 전략 제안. 모든 drug class에서 시술 후 6-8주는 재투여 유예. [제해석] Kim 2025의 drug holiday SR 자체는 RR 0.73(95% CI 0.51-1.06)으로 통계적 비유의 — 권장은 기전 추정 + 한국 코호트 기반이며 RCT 수준 근거는 아님.
 
 [합의수준] Kwon 2023 (JKDA 한국어 종설) — AAOMS position paper 변천(2007 BRONJ → 2014 MRONJ → 2022 update)을 한국 임상가용으로 정리. 2022 핵심 변경 3가지: ① 면역조절제(Romosozumab 등) 정의에 추가, ② 수술적 치료를 **전 stage(1·2·3)**로 확대(이전엔 진행기 한정), ③ 술전 drug holiday 지지 근거 삭제. 위 Ruggiero 2022 원문 변경점과 동일 — 한국어 1차 anchor로 활용.
 
@@ -231,6 +237,9 @@ relations:
 | RA가 MRONJ 독립 위험인자 | 낮음 (단일 cohort n=98) | Jung 2022 |
 | CBCT 발치 전 sequestrum·periosteal reaction이 pre-clinical MRONJ 신호 (oncologic) | 낮음 (retrospective case–control n=47, borderline p) | Moreno Rabie 2023 |
 | BRONJ군에서 ALP·ESR 상승, panoramic: 잔존 발치와·골용해·골경화·하악관 협착; CTX 유의차 없음 | 낮음 (retrospective, 초록 only) | Koth 2017 |
+| 약제별 drug holiday 타이밍 구체화 (oral BP 2개월, IV zoledronate 6-12개월, Dmab 3-4개월 전 시술) | 합의수준 (한국 5개 학회 consensus) | Kim 2025 |
+| Xgeva(120mg) DRONJ 치료 성공 53.8% vs Prolia(60mg) 85.0%; 고용량 Dmab만이 유일한 독립 예측인자 (OR 5.13) | 낮음 (단일 기관 retrospective n=178, Xgeva n=13) | Cho 2026 |
+| BP→Dmab 전환은 DRONJ 발생 시점을 앞당기나 중증도·예후에는 영향 없음 | 낮음 (단일 기관 retrospective) | Cho 2026 |
 
 ---
 
@@ -239,6 +248,7 @@ relations:
 ### Position·SR (1차 근거)
 - [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 position update, staging·drug holiday·Romosozumab·CTX
 - [[drug/kwon-2023-mronj-position-papers-what-changed]] — AAOMS 2007→2014→2022 변천, 2022 3대 변경 해설
+- [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]] — 한국 5개 학회 공동 2025 포지션 스테이트먼트: 약제별 drug holiday 타이밍 구체화, 전 병기 수술 권고, CTX 비권장, teriparatide 최강 근거 (consensus, JKAOMS 2025)
 - [[drug/baghalipour-2025-mronj-prevention-management-review]] — 4-level prevention framework
 - [[drug/li-2024-antiresorptive-implants-mronj-sr]] — 항흡수제 후 임플란트 23% 실패, 83% MRONJ
 - [[drug/jkda-2021-60-1-004]] — BMA 복용 환자 implant가 MRONJ trigger인가, 4단계 결정 framework (Choi/JKDA 2022)
@@ -246,6 +256,7 @@ relations:
 ### Cohort·임상 근거
 - [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — 골다공증 5년 cohort, RA가 독립 위험인자
 - [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 유방암 골전이 cohort, 누적 dose ≥32 임계
+- [[drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related]] — KNUDH 5년 코호트(n=178 DRONJ): Xgeva 53.8% vs Prolia 85.0% 치료 성공(p=0.027); 고용량 Dmab 유일한 독립 예측인자(OR 5.13); BP→Prolia 전환 발생 앞당기되 예후 불변 (retrospective, JKAOMS 2026)
 - [[drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 단일 vs 3일 AMPC 동등
 
 ### 영상·진단·모니터링
