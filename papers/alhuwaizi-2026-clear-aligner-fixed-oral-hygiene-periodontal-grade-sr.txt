@@ -1,0 +1,21 @@
+Impact of clear aligners and conventional fixed orthodontic appliances on oral hygiene and periodontal health: A systematic review with GRADE assessment of the certainty of evidence.
+
+Authors: Alhuwaizi MA, Saloom HF, Cobourne M
+Journal: European Journal of Orthodontics 2026;48(3)
+PMID 42163541 | DOI 10.1093/ejo/cjaf100 | PROSPERO CRD420251120933
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed structured abstract.
+
+BACKGROUND: The use of clear aligners (CA) has exponentially increased in the last decades due to their superior esthetic, ease of use and cleaning, and comfort in comparison to conventional fixed appliance (FA). However, prolonged wearing of CA could also alter oral microbiome and adversely affect oral hygiene and periodontal health.
+
+OBJECTIVE: To assess oral hygiene level and periodontal health status in patients treated with CA versus those treated with FA using a combination of risk of bias (RoB) and Grading of Recommendations Assessment, Development and Evaluation (GRADE) tools.
+
+SEARCH METHODS: A comprehensive electronic search was conducted in four databases, including Scopus, PubMed, Web of Science, and Google Scholar, to retrieve relevant randomized controlled trials (RCTs) in the last 10 years from 2015 to April 2025.
+
+SELECTION CRITERIA: The study aimed to include RCTs that focused on the impact of CA and FA orthodontic treatments on oral hygiene and periodontal health.
+
+DATA COLLECTION AND ANALYSIS: Independent eligibility assessment, data extraction, and filtering process were performed. The RoB 2 tool was used to assess the quality of the included RCTs. Data relating to oral hygiene/periodontal health assessed by different clinical periodontal indices (primary outcome) and other findings (secondary outcomes) were extracted. Certainty of evidence was determined using GRADE system.
+
+RESULTS: Initial search process yielded 1098 records which were assessed for eligibility, screened according to titles, abstracts, and full-text reading. Six RCTs were found eligible for analysis and included for synthesis of evidence. Qualitative analyses of the included RCTs showed that periodontal parameters were significantly better in patients treated with CA than with FA. Five RCTs exhibited high RoB together with overall inconsistencies in the given oral hygiene instructions, age, follow-up, diagnosis, and measurements. Certainty of evidence ranged from very low for oral hygiene level and low for periodontal health.
+
+CONCLUSIONS: Dual quality assessment indicated that the advantages of CA over FA in terms of oral hygiene and periodontal health are highly compliance dependent. However, due to heterogeneities, high RoB, and low to very low certainty of evidence in current RCTs, outlining a firm conclusion was impeded.
