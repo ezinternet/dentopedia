@@ -934,6 +934,15 @@ tags: []
 - [[endodontics/regenerative/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
+- [[resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] — Yoshihara 2011 · in-vitro · **10-MDP nanolayering originating 연구**: MDP-Ca 자기조립 nanolayer가 법랑질·상아질에 형성(상아질>법랑질, MDP 농도·scrubbing 비례) = mild self-etch 화학결합 기전 (DOI 10.1016/j.actbio.2011.04.026)
+- [[resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] — Nagaoka 2017 · in-vitro · NMR로 10-MDP-지르코니아 결합 기전 규명: 이온결합(P-O⁻↔Zr)+수소결합 공존, 농도의존 SBS(최소 ~1ppb) (DOI 10.1038/srep45563)
+- [[resin-bonding/tian-2015-paucity-nanolayering-mdp-resin-dentin]] — Tian 2015 · in-vitro · 상용 10-MDP 접착제는 nanolayering 거의 없음(실험용 15%서만 profuse, ~3.7nm) → 결합내구성 기여 임상적 의문 제기 (DOI 10.1177/0022034515623741)
+- [[resin-bonding/carrilho-2019-mdp-adhesive-interface-stability-sr]] — Carrilho 2019 · sr · 10-MDP가 nanolayering + 산-염기 저항층(acid-base resistant zone) + MDP-Ca 염으로 안정 결합 형성; scrubbing 적용·침투시간 확보 권고 (DOI 10.3390/ma12050790)
+- [[resin-bonding/fehrenbach-2021-10-mdp-bonding-performance-sr-ma]] — Fehrenbach 2021 · sr+ma · 206 in-vitro MA: 10-MDP 자가부식 접착제가 대부분 산성 단량체보다 상아질/법랑질 결합강도 우수 (DOI 10.1016/j.dental.2021.08.014)
+- [[resin-bonding/de-oliveira-2021-10-mdp-self-etch-adhesive-dentin-sr]] — de Oliveira 2021 · sr+ma · 11-RCT: NCCL 수복서 10-MDP 자가부식 접착제가 비-MDP 대비 **임상 이점 없음**(p=0.05) — in-vitro 우위와 대비되는 임상 결과 (DOI 10.2341/20-053-LIT)
+- [[resin-bonding/su-2023-mdp-resin-zirconia-bonding-durability-sr-ma]] — Su 2023 · sr+ma · 72편 MA: 10-MDP 지르코니아 결합 노화 시 유의 감소(MD 5.58); MDP+표면처리(샌드블라스팅/실리카코팅 등)가 MDP 단독보다 우수(MD 10.17) (DOI 10.3760/cma.j.cn112144-20230915-00158)
+- [[resin-bonding/li-2024-zirconia-surface-treatments-monomers-nma]] — Li 2024 · sr+ma · 지르코니아 NMA 77편: 미세입자(25–53µm) 에어아브레이전+10-MDP 시멘트 우수, 선택적침투에칭(SIE) 최상위, 가스플라즈마·silane 단독 무효 (DOI 10.1016/j.jdsr.2024.05.004)
+- [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]] — Kodaira 2022 · narrative-review · 기능성 단량체(MDP/MEPS/6-MHPA/4-META)가 레진-티타늄 결합 촉진 — 실란화+tribochemical silica coating과 동등 (DOI 10.2334/josnusd.22-0036)
 - [[resin-bonding/tay-2003-water-treeing-degradation-dentin-adhesives]] — Tay & Pashley 2003 · in-vitro · **water tree 개념 originating 논문**: TEM 은 트레이서로 혼성층 위 수지상(dendritic) 수분채널 = 가수분해 열화 경로 입증 (PMID 12744405, DOI 없음)
 - [[resin-bonding/tay-2003-aging-two-modes-nanoleakage-bonded-dentin]] — Tay 2003 · in-vitro · nanoleakage 두 양상(혼성층 내 reticular vs 접착층 water-tree) 정의, 노화 시 water-tree로 이행 = 가수분해 부위 (DOI 10.1177/154405910308200710)
 - [[resin-bonding/tay-2005-tubular-occlusion-prevents-water-treeing-self-etch]] — Tay 2005 · in-vitro · 세관 폐쇄 시 1-step self-etch서 water-treeing 소실 → 잔류용매뿐 아니라 **경상아질 수분 flux**가 원인 입증 (DOI 10.1177/154405910508401004)
