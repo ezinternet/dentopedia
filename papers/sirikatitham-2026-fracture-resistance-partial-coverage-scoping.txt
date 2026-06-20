@@ -1,0 +1,116 @@
+TITLE: Fracture resistance of posterior teeth restored by lithium silicate-based and hybrid ceramic partial coverage restorations with different preparation designs: a scoping review
+AUTHORS: Nolpapon Sirikatitham, Boonlert Kukiattrakoon, Vanthana Sattabanasuk, Khemtin Ratanasathien, Chirayu Ruengrungsom
+JOURNAL: BMC Oral Health 2026;26(1)
+DOI: 10.1186/s12903-026-08053-8
+PMID: 41808108  PMCID: PMC13088632
+SOURCE: PubMed Central full text (JATS), retrieved 2026-06-20
+
+=== FULL TEXT ===
+
+Introduction
+
+Caries and tooth wear are common causes of significant tooth structure damage that necessitate restoration. When the tooth structure loss in posterior load-bearing areas involves the occluso-proximal side extending beyond the buccal/lingual line angles of proximal cavities or deteriorating by at least 1 cusp, complex direct or indirect restorations are indicated. Resin composite is widely used for direct posterior restoration, but achieving proper proximal contact and occlusal function in large restorations is not easy to accomplish. Additionally, secondary caries of direct composite restorations, often caused by the technique sensitivity of adhesives related to the contaminated tooth surface and dentin margin degradation, are the main cause of failure, which is the drawback of this direct approach. Full-coverage crowns require extensive tooth preparation, which can lead to pulpitis and may necessitate endodontic therapy. Moreover, the subgingival margin of crowns always involves periodontal tissue, causing issues with impressions, finishing, and gingival inflammation. For these reasons, partial coverage restorations (PCRs), such as onlays and overlays, provide a minimally invasive alternative when the cavity size is appropriate.
+
+Nowadays, the trend of esthetic PCRs supported by computer-aided design-computer-aided manufacturing (CAD-CAM) technologies has become an important treatment of choice. The development of adhesive systems for pretreated teeth and restoration surfaces (e.g., hydrofluoric acid followed by silane for lithium silicated based ceramics; air-borne-particle abrasion followed by silane for resin nanoceramics), as well as resin cements enables reliable interfacial bonding of these bonded ceramic materials to the tooth surface in clinical practice. With the bonding strategy, a paradigm shift in tooth preparation design has arisen with less concern for mechanical retention. Additionally, some clinicians have advocated for non-retentive partial coverage restorations, if the lesions still have 100% peripheral enamel for bonding quality. On the other hand, some clinicians still support shallow mechanical retention from tooth defects, which helps stabilize restorations during luting and achieve proper contact and contour. A combination of mechanical retention and interfacial bonding may be necessary for high lateral forces and partial loss of peripheral enamel.
+
+One of the main reasons for the failure of ceramic PCRs is ceramic fractures. This failure has inspired researchers to focus on the factors influencing the fracture resistance of teeth restored with ceramic PCRs, such as the restoration type, preparation design (including occlusal thickness, accessory mechanical retention, etc.), and ceramic type. Some studies investigated the partial restoration's preparation design as it seemed to have negative effects on the fracture resistance of the tooth-restoration assembly. However, it was not clear in detail which design had a negative or zero effect.
+
+Lithium disilicate glass ceramics, with varying phases of lithia crystals (43-80 vol% crystalline content), as well as zirconia-reinforced lithium silicate, achieved by adding ZrO2 as a secondary nucleant, demonstrated superior mechanical properties to the previous generation of glass ceramic reinforced with leucite crystals. Hybrid ceramic materials, known for their fast manufacturing benefits, are classified into resin-nanoceramic (RNC), which consists of a resin-based matrix with ceramic fillers like ZrO2 and polymer-infiltrate ceramic network (PICN) containing a porous felspathic ceramic structure infiltrated with urethane dimethacrylate (UDMA) and triethylene glycoldimethacrylate (TEGDMA). Thus, hybrid ceramics may have the advantage of being less brittle due to the positive effect of polymer combinations. However, the flexural strength, fracture toughness, hardness, and modulus of elasticity of PICN and RNC are lower than those of lithium silicate-based ceramics. Additionally, lithium silicate-based and hybrid ceramics, along with their pretreatment protocols, result in varying bond strengths to resin cement. These mechanical properties and bond efficacy may influence the fracture resistance of teeth restored with these two types of ceramic materials.
+
+There has been a lack of literature review to investigate the fracture behavior of posterior teeth restored with PCRs based on the restorative type (e.g., overlay, MOD overlay, and onlay), preparation design, and 2 types of ceramic materials (lithium silicate-based and hybrid ceramics). Therefore, this study aimed to review and summarize the fracture resistance and fracture patterns of non-endodontically treated premolars and molars restored with PCRs, using the three independent factors mentioned.
+
+Methodology
+
+This scoping review protocol was registered at Open Science Framework (OSF). The search was conducted by two authors with inter-calibration, requiring consensus if there were discrepancies in article selection. The search process followed the PRISMA diagram and was last updated in June 2025. Three databases (PubMed, Web of Science, and ScienceDirect) were included using two search terms combining (onlay/overlay/occlusal veneer/partial coverage) AND fracture resistance AND preparation AND (lithium / hybrid ceramic).
+
+After an initial search, 193 identified articles were found. Duplicates removed → 113 remaining. Title/abstract screening → 61 for eligibility. A key exclusion criterion was studies conducted on model teeth (different substrate for bonding vs human teeth may affect fracture resistance outcomes). The number of articles finally included was 24, plus 10 articles by cross-reference search. The final 34 articles were divided into subtopics: premolar PCRs (n = 9) and molar PCRs (n = 25). All articles investigated fracture resistance, with some evaluating fracture pattern.
+
+Definitions:
+- Onlay: a PCR covering at least one tooth cusp.
+- Overlay: a restoration with all-cusp coverage and a supragingival margin; an occlusal veneer covering all cusps is also termed an overlay.
+- MOD overlay: a conventional overlay consisting of internal mesio-occluso-distal preparation.
+- Lithium silicate-based materials: lithium disilicate glass ceramic (LDS) and zirconia-reinforced lithium silicate (ZLS).
+- Hybrid ceramics: polymer infiltrated ceramic network (PICN) and resin-nanoceramic (RNC).
+Review scope factors: (1) restoration type (overlay, MOD overlay, MOD onlay), (2) ceramic type (LDS, ZLS, PICN, RNC), (3) preparation design (occlusal thickness, anatomic reduction only, proximal box, peripheral shelf, other accessory preparations), and (4) miscellaneous (immediate dentin sealing, deep margin elevation).
+
+Quality assessment: RoBDEMAT (risk-of-bias tool for preclinical dental material research), a 9-domain checklist in 4 groups: (1) bias in planning and allocation, (2) bias in specimen preparation, (3) bias in outcome assessment, (4) bias in data treatment and outcome reporting. Classification: 1-3 Y = high, 4-6 = medium, 7-9 = low risk.
+
+RoBDEMAT individual study results (premolar PCRs, n=9): Yazigi 2017 medium; Al-Akhali 2017 medium; Al-Akhali 2019 medium; Abdulsattar & Kadhim 2023 medium; Gierthmuehlen 2022 medium; Yoon 2019 medium; Guess 2013 medium; Wafaie 2018 low; Channarong 2022 low.
+Molar PCRs (n=25): Ioannidis 2019 medium; Maeder 2019 medium; Mueller 2023 low; Yli-Urpo 2024 medium; Gierthmuehlen 2024 medium; Essam 2023 medium; Andrate 2018 medium; Valenzuela 2021 low; Al-Zordk 2021 medium; Krummel 2019 medium; Sasse 2015 medium; Ioannidis 2020 medium; Ferraris 2021 low; Angerame 2019 low; Nasr & AboElHassan 2025 medium; Yli-Urpo 2025 medium; Stappert 2008 medium; Hofsteenge 2020 medium; Hofsteenge 2023 medium; Bresser 2020 low; Yildiz 2013 medium; Zahran 2023 medium; Falahchai 2020 low; Johnson 2014 medium; Alassar 2021 medium.
+
+Results
+
+Risk of bias: Of 34 included articles, 8 had low risk, 26 medium, none high. Four domains (standardization of sample/materials, adequate standardized testing procedures/outcomes, adequate statistical analysis, reporting study outcomes) were "yes" for all included articles.
+
+Fracture resistance of PREMOLARS restored with PCRs
+Overall range: 350 to 1,954 N.
+With clinical simulated aging, vertical-load fracture resistance by restoration type/thickness:
+- 0.5/0.6-mm LDS overlay: 471-1,781 N
+- 1-mm LDS overlay: 866-1,495 N
+- 1.5-mm LDS overlay: 1,005 N
+- 0.5-mm LDS-MOD overlay: 833-997 N
+- 1-mm LDS-MOD overlay: 1,087-1,108 N
+- 1.5-mm LDS-MOD overlay: 1,129 N
+- 2-mm LDS-MOD overlay: 963-1,361 N
+- 0.5-mm LDS-MOD onlay: 1,192 N
+- 1-mm LDS-MOD onlay: 1,055 N
+- 2-mm LDS-MOD onlay: 837-1,182 N
+Without aging:
+- 1.5-mm LDS overlay: 887-1,954 N
+- 2-mm LDS-MOD overlay: 842-994 N
+- 2-mm LDS onlay: 682-938 N
+- 2-mm ZLS (oblique/vertical, with aging): 624-756 N
+
+Premolar restoration/ceramic types: Only Gierthmuehlen et al. compared LDS-MOD overlays vs LDS overlays — premolars with MOD overlays had higher or comparable fracture loads depending on occlusal thickness: 1,129 > 1,005 N (1.5 mm), 1,087 > 866 N (1 mm), 833 ~ 866 N (0.5 mm). LDS-MOD overlay vs LDS-MOD onlay varied with occlusal thickness, preparation design, and proximal box width. For 0.5-mm overlays without MOD, LDS premolar fracture resistance was comparable to ZLS; PICN restorations were comparable or slightly lower than LDS and ZLS.
+
+Premolar preparation design / other factors: Guess et al. — for overlays with buccal full veneering, 2-mm (1,361 N) > 1-mm (1,087 N) > 0.5-mm (833 N); but without a peripheral shelf, fracture loads were similar across thicknesses. Gierthmuehlen — for enamel-bonded overlays, 1-mm (1,495 N) > 0.5-mm (1,279 N); when bonded to dentin + peripheral enamel, 1-mm and 0.5-mm overlays were similar (866 N). A ZLS study found only a slight insignificant increase with one or two peripheral shelves. A wider proximal box increased the maximum fracture load of MOD overlays and MOD onlays. Immediate dentin sealing (IDS) enhanced fracture resistance of LDS overlays. Overlays luted with preheated resin composite (1,954 or 1,505 N) had higher fracture resistance than dual-cure resin cement (1,495 or 1,158 N) or flowable resin composite (1,068-887 N), regardless of IDS use.
+
+Fracture PATTERN of premolars: Premolar overlays with 2 proximal boxes (LDS or ZLS) had higher incidence of severe mixed fractures (75-100%) vs MOD onlays (0-80%), MOD overlays (6.25-68.75%), and overlays with buccal full veneering (0-25%). Increasing occlusal thickness raised severe mixed fractures (e.g., MOD overlay 2 mm = 56.25-68.75% vs 0.5-1 mm = 6.25-12.5%). Greater proximal box width increased severe mixed fractures (MOD overlay 30%/MOD onlay 80% full cusp-to-cusp vs 10%/60% at 3/4 intercuspal width).
+
+Fracture resistance of MOLARS restored with PCRs
+Overall range: 880 to 4,995 N (notably higher than premolars).
+Vertical-load fracture resistance by restoration/ceramic/thickness:
+- 0.5/0.6-mm LDS overlay (aging): all designs 880-3,391 N; flat-cusp 880-1,191 N; anatomic 962-3,391 N; flat-cusp+bevel 1,635 N
+- 1-mm LDS overlay (aging): all 1,406-3,390 N; flat-cusp 1,530-1,851 N; anatomic 1,406-3,390 N; anatomic+others 2,350-3,216 N
+- 1.5-mm LDS overlay (aging): all 1,440-4,995 N; anatomic 1,440-4,995 N; anatomic+bevel 2,210 N
+- 2/2.4-mm LDS overlay (no aging): all 2,869-4,766 N; flat-cusp 2,869-4,766 N; flat-cusp+shelf 3,007-4,676 N; anatomic+shelf 2,824-3,018 N
+- 2-mm LDS-MOD overlay (aging): 1,295-1,326 N
+- 2-mm LDS-MOD onlay (aging): 1,440 N; (no aging): 1,584-2,383 N
+- 0.5-mm ZLS overlay (aging): 2,104-2,186 N
+- 1-mm ZLS overlay (aging): 2,211-2,672 N
+- 1.5-mm ZLS overlay (aging): 2,177 N
+- 2-mm ZLS overlay (aging): 2,545-2,738 N
+- 2-mm ZLS-MOD overlay (aging): 2,066-2,189 N
+- 0.5-mm PICN overlay (aging, flat-cusp): 1,952-2,973 N
+- 1-mm PICN overlay (aging): flat-cusp 1,839-2,239 N; anatomic 1,947-2,506 N
+- 1.5-mm PICN overlay (aging, flat-cusp): 3,540 N
+- 0.5-mm RNC overlay (aging): all 1,505-3,384 N; flat-cusp 1,505-2,141 N; anatomic 3,384 N
+- 0.5-mm RNC overlay (no aging, flat+shelf): 2,432-2,680 N
+- 1-mm RNC overlay (aging, flat-cusp): 2,274-2,328 N
+- 1.5-mm RNC overlay (aging): anatomic 3,584 N; anatomic+bevel 1,882 N
+- 2/2.4-mm RNC overlay (no aging): all 2,072-3,620 N; flat-cusp 3,228-3,620 N; flat-cusp+shelf 2,072-3,593 N
+- 2-mm RNC-MOD onlay (aging): 1,024-1,810 N
+Oblique-vertical load (LDS-MOD overlay, aging): 1,272 N (1.5 mm); 1,776-2,011 N (2 mm); 1,200 N (4 mm).
+
+Molar restoration/ceramic types: No study compared LDS overlay vs LDS-MOD overlay within the same study. Falahchai compared ZLS overlay (2,545-2,738 N) > ZLS-MOD overlay (2,066-2,189 N). MOD overlays (1,295-1,326 N) were statistically similar to MOD onlays (1,440 N). LDS vs hybrid superiority remained controversial: some studies LDS overlay > hybrid (1.5-mm LDS 4,995 or 2,210 N > 1.5-mm PICN 3,540 N or RNC 3,584/1,882 N; 2-mm bonded LDS 4,766/4,676 N > 2-mm bonded RNC 3,620/3,593 N), while others showed hybrid better at reduced thickness 0.5-1 mm. PICN vs RNC ranking inconsistent: Ioannidis RNC > PICN > LDS at 1 mm, PICN ≈ RNC > LDS at 0.5 mm; another study RNC > PICN > LDS regardless of thickness. LDS overlay (2,210 N) ≈ ZLS overlay (2,177 N).
+
+Molar preparation design / other factors: Increasing occlusal thickness 0.5 → 1-1.5 mm tended to elevate fracture resistance for LDS, ZLS, PICN, RNC overlays; but three studies found no difference between 0.5 and 1 mm (LDS, PICN, RNC) — interaction with ceramic type. Interaction with bonded dental substrate: Sasse — when bonded to enamel, resistance greatest at 0.5 mm; when bonded to enamel+dentin, order reversed (1 mm > 0.5 mm). Ferraris — anatomic occlusal reduction only gave highest resistance (3,216 N) for LDS overlays > two proximal boxes (2,462 N) > shoulder peripheral shelf (2,350 N). Falahchai — ZLS overlay anatomic only (2,738 N) > MOD overlay (2,189 N); shoulder shelf reduced fracture loads for both. Yli-Urpo — peripheral shelf slightly decreased fracture load with proper bonding but slightly increased with deteriorated bonding. Alassar — RNC-MOD onlay with shoulder finish line slightly > flat finish line. Shoulder-shelf effect controversial; chamfer vs shoulder peripheral shelf did not differ. IDS enhanced fracture loads of molars with overlays and MOD overlays. Dual-cure resin cement improved MOD onlay fracture resistance vs self-cure. Enamel pretreatment (phosphoric acid + self-etch adhesive) increased overlay fracture resistance vs adhesive alone. LDS-MOD overlay with deep margin elevation (1,986 N) ≈ without (1,776 N).
+
+Fracture PATTERN of molars: MOD overlays (LDS, ZLS) had no mild fractures (type A); up to 66% of LDS overlays had cracks/chipping. LDS-MOD overlays had higher severe mixed fractures (56.25-100% in 3 studies) vs LDS overlays. RNC-MOD onlays showed no mild fractures (0%); mild fractures occurred in 0-40% of PICN overlays and 0-22.22% of RNC overlays. Ferraris found no considerable difference in fracture patterns between LDS overlays with (35.71-50%) and without (42.86%) proximal boxes (contrasting premolars). IDS interaction: two studies reported increased unfavorable fracture pattern with IDS (LDS-MOD overlay 80% vs 70%; RNC overlay 50% vs 0%); but no unfavorable fractures (0%) with/without IDS for LDS overlays. Deep margin elevation of LDS-MOD overlay raised severe mixed fractures (100% vs 80%).
+
+Discussion (key points)
+
+Restoration type: LDS-MOD overlays gave higher/comparable fracture loads for PREMOLARS vs LDS overlays, but for MOLARS lithium-silicate MOD overlays tended to have LOWER load capacity than anatomic overlays. Discrepancy attributed to tooth type and preparation angles — retentive (MOD box) and sharp angles reduce fracture resistance; greater loss of tooth structure with MOD box lowers resistance. FEA showed higher stress concentrations in MOD PCRs; the wedging effect in MOD boxes may explain increased fracture severity. Premolar MOD overlay vs MOD onlay varied with interacting factors; molars statistically similar, though FEA revealed greater crack propagation in onlays.
+
+Preparation design: Decreasing occlusal thickness reduced resistance with a peripheral shelf (buccal full veneering) but had less effect without a peripheral shelf — the angle between occlusal plane and axial wall in the peripheral-shelf design creates breaking points/greater stress when thin. Increasing axial-wall height connected to peripheral shelf improved premolar MOD overlay resistance, full-veneer crown highest (greater mechanical wrapping). But other studies found no difference across axial-wall heights or shelf presence/absence — resin adhesive/luting reinforcement may mask these effects; improper axial angles may reduce peripheral-shelf resistance.
+
+Fabrication / ceramic type / IDS: e.max Press vs e.max CAD flexural results conflicting; CAD-CAM risks grinding crack initiation but bonded interface enhances fracture load even with lower-strength materials. e.max Press ≈ e.max CAD with dual-cure cement, but e.max CAD worse with self-cure. LDS > PICN/RNC at higher occlusal thickness, but PICN/RNC ≥ LDS at lower thickness — polymer composition makes hybrids less brittle; resin infiltration compensates for ceramic flaws. LDS biaxial flexural strength 609 MPa >> PICN 193 MPa or RNC 300 MPa. FEA crack-propagation/fatigue favored LDS over hybrids; hybrid wore more itself but caused less antagonist wear; a meta-analysis (24-180 mo) found LDS (98%) ≈ hybrid onlays (99%) clinical survival. IDS enhanced fracture resistance (better adaptation, rounded line angles, blocked undercuts, reduced cement thickness, better bonding to freshly cut dentin).
+
+Clinical relevance: Overall fracture loads 350-1,954 N (premolars) and 880-4,995 N (molars) vs maximum bite forces 392 N (premolars), 602 N (molars) — PCRs generally withstand masticatory forces. Shallow retentive PCRs or peripheral-shelf designs may enhance mechanical retention/adhesive support (poor dentinal substrate, high lateral forces) and seating stability. Limited by scarcity of ZLS/PICN premolar studies. Future: compare new preparation issues (occlusal steepness, shallow retentive depth) of modern LDS/ZLS; oblique-horizontal (debonding) forces; RCTs comparing preparation designs and lithium-silicate vs hybrid ceramics.
+
+Conclusions
+1. MOD overlays tended to have lower fracture resistance of molars than anatomic overlays.
+2. Increasing occlusal thickness tended to improve fracture resistance of premolars and molars, but confounders (preparation design, material type, bonded substrate) may alter results.
+3. Premolar PCRs with two proximal boxes seemed to result in more severe fracture patterns than preparations without proximal boxes.
+4. For molars, LDS-MOD overlays led to more severe fractures than LDS anatomic overlays.
+5. Hybrid ceramic PCRs showed promising fracture resistance, but further clinical studies are necessary.
