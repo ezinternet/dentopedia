@@ -5,15 +5,11 @@ year: 2020
 date: 2020-10-02
 doi: 10.3290/j.ohpd.a45354
 source: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.md
-category: periodontics
+category: [periodontics]
 confidence: sr
-source_collection: pubmed-text
-full_text: true
-pmid: "33028052"
-pmcid: "PMC11654539"
-source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC11654539/
-text_path: /Users/oracleneo/llm-wiki/papers/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.txt
-text_filename: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.pdf
+pdf_filename: rajwani-2020-manual-toothbrushing-techniques-plaque-gingivitis-sr.pdf
+source_collection: external
 tags: [toothbrushing, manual-toothbrush, plaque-control, gingivitis, toothpick-method, watanabe-method, bass-technique, fones, oral-hygiene-instruction]
 relations:
   - type: reinforces
