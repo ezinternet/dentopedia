@@ -1,0 +1,13 @@
+Nanolayering of phosphoric acid ester monomer on enamel and dentin.
+
+Authors: Yoshihara K, Yoshida Y, Hayakawa S, Nagaoka N, Irie M, Ogawa T, Van Landuyt KL, Osaka A, Suzuki K, Minagi S, Van Meerbeek B
+Journal: Acta Biomater 2011;7(8):3187-95
+PMID 21575747 | DOI 10.1016/j.actbio.2011.04.026
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract. This is a landmark paper establishing the self-assembled MDP "nanolayering" mechanism on tooth substrate (the chemical basis of mild self-etch/universal adhesion).
+
+Following the "adhesion-decalcification" concept, specific functional monomers possess the capacity to primarily chemically interact with hydroxyapatite (HAp). Such ionic bonding with synthetic HAp has been demonstrated for 10-methacryloyloxydecyl dihydrogen phosphate (10-MDP), manifest as self-assembled "nanolayering". This study aimed to explore whether nanolayering also occurs on enamel and dentin when a 10-MDP primer is applied following a common clinical application protocol. The interaction of an experimental 10-MDP primer and a control commercial 10-MDP-based primer (Clearfil SE Bond primer [C-SE], Kuraray) with enamel and dentin was characterized by X-ray diffraction (XRD) + TEM interfacial ultrastructure. XRD also studied the effect of 10-MDP concentration on nanolayering on dentin. Stability of nanolayers was assessed by bond strength to enamel/dentin with vs without an added photoinitiator.
+
+RESULTS: XRD confirmed nanolayering on enamel and dentin, significantly GREATER on dentin than enamel, and greater when the surface was actively rubbed with the primer. Nanolayering was proportional to 10-MDP concentration in the primer. The experimental primer needed the photoinitiator to obtain tensile bond strength to dentin comparable with the control C-SE primer, but not on enamel.
+
+CONCLUSION: Self-assembled nanolayering occurs on enamel and dentin even under a clinically used protocol. The lower bonding effectiveness of mild self-etch adhesives to enamel should be ascribed in part to lower chemical reactivity (nanolayering) with enamel HAp. (Establishes the MDP-Ca self-assembled nanolayer as the chemical-bonding mechanism, concentration- and technique-dependent.)
