@@ -1,0 +1,1936 @@
+Changes in vertical skeletal and neuromuscular balance in growing patients treated with AMCOP®: a cephalometric and EMG evaluation
+
+PMID 41567272 | PMCID PMC12816345 | DOI 10.3389/fdmed.2025.1741153
+Source: PMC open-access full text.
+
+1
+
+Introduction
+
+1.1
+
+Vertical skeletal discrepancies and the challenge of anterior open bite
+
+Vertical skeletal imbalances, particularly anterior open bites, were investigated in the current study. Anterior open bite is defined as the lack of vertical overlap between the maxillary and mandibular incisors during occlusion and represents a complex diagnostic and therapeutic challenge in pediatric orthodontics (–). It may result from altered skeletal growth, dental malposition, or functional factors, most notably chronic oral habits such as thumb sucking, tongue thrust, mouth breathing, and neuromuscular dysfunction (–). These influences, if present during critical phases of craniofacial development, can contribute to increased lower facial height and clockwise mandibular rotation, compromising facial harmony and incisal function. In addition to aesthetic consequences, anterior open bite may impair speech and lead to functional instability (–). Conventional orthodontic approaches often involve the use of high-pull headgear, vertical elastics, multibracket systems, or habit-breaking devices like tongue cribs. In more severe cases, surgical intervention may be considered (,–). However, these techniques often focus on the symptomatic correction of malocclusion rather than the underlying neuromuscular imbalance, increasing the risk of relapse. The AMCOP® system provides an integrative alternative that incorporates vertical control elements such as anterior bite blocks, occlusal platforms, and tongue positioners (–). These modules allow individualized correction of vertical discrepancies and promote neuromuscular adaptation, particularly when introduced during early mixed dentition. In the current study, eight patients exhibiting anterior open bite or vertical overdevelopment underwent treatment with AMCOP® appliances (–). More recently, functional orthopedic solutions such as the AMCOP® system (Modular Orthopaedic Restraint Appliances Customised), have gained attention for their capacity to combine skeletal modulation with neuromuscular rehabilitation. The AMCOP® device is removable, modular, and customizable (–). It stimulates natural growth by restoring proper function in the orofacial system, targeting tongue posture, mandibular position, and breathing patterns (). Vertical skeletal evaluation was conducted using cephalometric lateral radiographs, analyzed with the digital tracing tools of Deltadent®. Parameters assessed included the SN-GoGn angle, ANS-Me distance, and overbite depth. Improvements in vertical dimensions and incisor contact were observed pre and post-treatment in patients showing favorable neuromuscular adaptation (–).
+
+1.2
+
+Diagnostic technologies and rationale for the present study
+
+Despite the growing clinical use of elastodontic appliances, objective evidence evaluating their effects on both skeletal and neuromuscular parameters in growing patients remains limited. Most published studies focus primarily on dental or skeletal outcomes assessed by conventional cephalometry, while few investigations have explored the neuromuscular component using surface electromyography (sEMG), particularly in pediatric populations (–). Moreover, even fewer studies have adopted an integrated diagnostic approach combining digital cephalometric analysis with standardized neuromuscular assessment (–). Therefore, a clear gap exists in the literature concerning the simultaneous evaluation of skeletal adaptations and functional neuromuscular rebalancing induced by elastodontic therapy during growth Despite the increasing clinical use of elastodontic appliances, most available studies focus exclusively on skeletal or dental outcomes evaluated through conventional cephalometric analysis. Conversely, investigations specifically addressing neuromuscular adaptations assessed by surface electromyography (sEMG) remain limited and are often performed in adult populations or within isolated functional protocols rather than comprehensive orthodontic treatment approaches. To date, few studies have integrated digital cephalometric evaluation with standardized sEMG analysis in growing patients undergoing elastodontic therapy, and no consistent evidence is available describing the simultaneous relationship between skeletal modifications and neuromuscular rebalancing during developmental stages (–). Therefore, an important gap persists in the literature regarding the combined objective assessment of morphological and functional responses to elastodontic treatment in pediatric patients. The novelty of the present study lies in the integrated use of digital cephalometry (Deltadent®) and standardized surface electromyography (Teethan®) to simultaneously document vertical skeletal changes and neuromuscular adaptations in growing subjects treated with AMCOP® (–). This combined diagnostic approach allows the correlation of structural modifications with functional muscle activity, providing new evidence on how elastodontic therapy may influence both craniofacial growth and neuromuscular balance beyond purely dentoalveolar effects. The aim of the present study is to address this gap by assessing the effects of AMCOP® treatment on vertical skeletal parameters using digital cephalometry (Deltadent®) and on neuromuscular balance using standardized sEMG recordings (Teethan®). By integrating morphologic and functional analyses, this work seeks to provide objective data on the effectiveness of elastodontic therapy as an early interceptive strategy aimed at promoting both structural correction and functional reeducation in growing patients.
+
+2
+
+Materials and methods
+
+2.1
+
+Study design and ethical approval
+
+This was a retrospective single-arm case series of growing patients treated for anterior open bite with elastodontic appliances (AMCOP® “OPEN”). Lateral cephalograms taken before treatment (T0) and after treatment (T1) were analyzed to quantify vertical skeletal and dentoalveolar changes. The study adhered to the Declaration of Helsinki and received approval from the Ethics Committee of the Policlinico of Bari (Prot. No. 971, Prot. 2427/CEL.; approved 1 October 2025; U.O. di Odontostomatologia). Written informed consent for treatment and data use was obtained from parents/legal guardians; age-appropriate assent was obtained from children.
+
+2.2
+
+Setting and participants
+
+A total of nine growing patients (5 females, 4 males; mean age 9.8 ± 1.4 years) who met the inclusion criteria were included in the present case series. All subjects had complete pre- and post-treatment lateral cephalograms suitable for digital tracing. Among these, surface electromyographic (sEMG) analysis was successfully performed in six patients (66.7%), as three children did not achieve reliable muscle signal acquisition due to technical or compliance-related factors. Therefore, cephalometric outcomes refer to the entire sample (= 9), while neuromuscular results are reported for the subgroup with valid EMG recordings (= 6). Records were retrieved from the archives of the Department of Orthodontics, University Polyclinic of Bari (Italy). Nine consecutive growing patients with anterior open bite who had completed a defined AMCOP® “OPEN” protocol and had complete pre/post radiographic records were included.
+
+2.2.1
+
+Inclusion criteria
+
+Growing patients in deciduous/mixed dentition with anterior open bite (overbite ≤ 0 mm) documented clinically and on T0 cephalogram.
+
+Treatment with AMCOP® “OPEN” elastodontic appliance as the primary modality.
+
+Availability of standardized lateral cephalograms at T0 and T1 suitable for digital tracing (Deltadent®).
+
+No adjunctive fixed appliances during the observation period.
+
+2.2.2
+
+Exclusion criteria
+
+Previous orthodontic/orthopedic treatment affecting vertical dimensions.
+
+Craniofacial syndromes, cleft lip/palate, systemic conditions affecting growth.
+
+History of adeno-tonsillar surgery during the observation interval.
+
+Poor-quality radiographs precluding reliable landmark identification.
+
+2.3
+
+Intervention: AMCOP® “OPEN” protocol
+
+All patients were treated with the AMCOP® “OPEN” elastodontic bioactivator [Micerium S.p.A.,Via G. Marconi,83 16036 Avegno (Ge) Italy], indicated for skeletal/dentoalveolar open bite patterns and characterized by a posteriorly raised occlusal plane and elastic flanges to promote mandibular counterclockwise rotation and anterior bite closure.
+
+2.4
+
+Radiographs and cephalometric analysis
+
+Standardized lateral cephalograms were obtained at T0 and T1 using department protocols (natural head position, maximum intercuspation, lips at rest). Digital tracings were performed in Deltadent® (Outside Format, Italy), which was also used to compute linear and angular measurements.
+
+2.4.1
+
+Landmarks and planes
+
+Landmark identification followed standardized cephalometric definitions as described in conventional orthodontic references. All landmarks were selected based on clear radiographic visibility and anatomical reproducibility to minimize identification errors. Reference planes were constructed consistently across all tracings using digitally assisted procedures provided by the Deltadent® software to ensure measurement standardization. Sella (S), Nasion (N), Point A (A), Point B (B), Anterior Nasal Spine (ANS), Posterior Nasal Spine (PNS), Gonion (Go), Gnathion (Gn), Menton (Me), and long axes of upper/lower incisors. Reference planes: SN, palatal plane (ANS–PNS), mandibular plane (Go–Gn), Frankfort (Po–Or), and occlusal plane.
+
+2.4.2
+
+Primary outcomes (open-bite correction)
+
+Overbite (mm) (positive values indicate vertical overlap; ≤ 0 mm defines open bite).
+
+SN–GoGn (°) (mandibular plane to SN).
+
+PP–MP (ANS–PNS ^ Go–Gn,°) (intermaxillary divergence).
+
+ANS–Me (mm) (lower anterior facial height).
+
+2.4.3
+
+Secondary outcomes
+
+FMA (°) (Frankfort–mandibular plane).
+
+Interincisal angle (°), U1–PP (°), L1–MP (°) (incisor inclinations).
+
+Overjet (mm) (to document associated sagittal/incisal changes).
+
+All measurements were exported to an electronic spreadsheet for analysis.
+
+2.5
+
+Measurement reliability
+
+A single calibrated examiner (orthodontist) performed all tracings. To assess intra-examiner reliability, 20% of radiographs (randomly selected, stratified by time point) were retraced after ≥7 days. We computed:
+
+Intraclass correlation coefficients (ICC, two-way mixed, absolute agreement) for continuous variables.
+
+Dahlberg's error (√d²/2) for linear and angular measures. Intraclass correlation coefficients (ICC) were interpreted according to commonly accepted criteria (ICC ≥0.90 excellent agreement; 0.75–0.89 good; 0.50–0.74 moderate). An ICC threshold ≥0.80 was considered acceptable for inclusion of measurements in the final analysis. Dahlberg's error was calculated to quantify random measurement error, with values ≤0.5 mm for linear measurements and ≤0.5° for angular measurements considered clinically acceptable, in accordance with orthodontic reliability standards. When discrepancies exceeded these limits, tracings were reviewed and measurements repeated, and the meaning of the two closest values was retained.
+
+2.6
+
+Outcomes and time points
+
+The primary endpoint was the change from T0 to T1 in overbite (mm) and vertical skeletal divergence (SN–GoGn, PP–MP). Secondary endpoints included changes in ANS–Me, FMA, incisor inclinations, and overjet. The observation interval corresponded to the active AMCOP® “OPEN” () phase plus stabilization until T1; exact durations are reported in the Results.
+
+Figure 1
+
+Amcop open device.
+
+Illustration of a dental appliance with labeled features: a raised posterior occlusal bump, tall flanges, tongue button, and lingual ramp. The image highlights these components with dashed lines pointing to each feature.
+
+2.7
+
+Cephalometric analysis
+
+Cephalometric studies were conducted for each patient at the beginning of the treatment/observation period (T0) and at the conclusion of therapy (T1). The DeltaDent® 2.5.3 software was used for all cephalometric evaluations. Cephalometric dentoskeletal parameters and radiographic parameters related to airway dimensions were taken into account and then collected in a Microsoft Excel® spreadsheet (version 16.88) and subjected to statistical analysis. All the values obtained are presented in.
+
+We performed an electromyographic assessment of the masticatory muscles using a portable surface EMG system (, Teethan S.p.A., Milan, Italy). All sEMG recordings were performed in a quiet room with subjects seated upright, head in natural position, feet flat on the floor, and hands resting on the thighs. Skin was cleansed with alcohol prior to electrode placement following SENIAM guidelines. Disposable pre-gelled surface electrodes were placed bilaterally on the anterior temporalis and masseter muscles along the muscle fibers. Each recording session consisted of two maximum voluntary clenches (MVC) on cotton rolls for signal normalization, followed by two MVCs performed in intercuspal position. Each contraction lasted 5 s, separated by 30-second rest intervals. Trials demonstrating motion artifacts or inconsistent activation patterns were discarded and repeated to ensure recording reliability. The EMG indices selected for analysis (POC TA/MM, BAR, TORS, ASIM, IMP) were chosen because they provide validated quantitative metrics of bilateral muscle symmetry, functional balance, occlusal load distribution, and overall neuromuscular efficiency, as previously described in standardized functional protocols using the Teethan® system. Bilateral surface EMG of the anterior temporalis and masseter muscles was recorded according to SENIAM recommendations. Recordings included two standardized maximum voluntary clenches (MVC) on cotton rolls for normalization, followed by two MVCs in intercuspal position. Signals were processed with the device software to compute EMG indices (POC TA/MM, BAR, TORS, IMP, ASIM, CL) and reported as pre- and post-treatment values (Teethan®, Teethan S.p.A., Via Forlanini, Garbagnate Milan, Italy).
+
+Table 1
+
+Radiographic parameters.
+
+Parameters
+
+Definitions
+
+Mean values (SD)
+
+SNA
+
+Angle between sella–nasion and nasion–point A segments.
+
+82° (±2°)
+
+SNB
+
+Angle between sella–nasion and nasion–point B segments.
+
+80° (±2°)
+
+ANB
+
+Angle between point A–nasion and nasion–point B segments.
+
+2° (±2°)
+
+Ans-Pns^Go-Gn
+
+Intermaxillary angle, between bispinal plane (Ans-Pns) and mandibular plane (Go-Gn).
+
+28° (±2°)
+
+SN^Go-Gn
+
+Mandibular angle between sella–nasion plane (S-N) and mandibular plane.
+
+32° (±5°)
+
+OVJ (mm)
+
+Overjet, distance on the sagittal plane between the upper and lower incisors.
+
+2.5 (±2.5 mm)
+
+OVB (mm)
+
+Overbite, distance on the vertical plane between the upper and lower incisors.
+
+2.5 (±2.5 mm)
+
+Wits
+
+0 ± 2
+
+3
+
+Results
+
+All 9 growing patients completed AMCOP® therapy (mean duration 14 ± 2 months) with excellent compliance and no adverse events. Cephalometric analysis revealed significant improvement in vertical and sagittal parameters. The mean overbite increased from 0.1 mm to 2.2 mm, indicating closure of anterior open bite. The SN–GoGn and PP–MP angles showed a mean reduction of 2.8° ± 1.9°, reflecting improved vertical control and slight counterclockwise mandibular rotation. The ANS–Me distance remained stable, confirming balanced lower facial height. Sagittal measurements demonstrated normalization of the ANB angle toward skeletal Class I (≈ –3.2°), while upper incisor inclination (U1–PP) decreased and the interincisal angle increased, suggesting better incisal guidance. Overjet was reduced in most cases, contributing to improved occlusal function and facial aesthetics. Surface electromyography (sEMG) indicated enhanced neuromuscular coordination: the barycenter (BAR) shifted toward midline, torsion (TORS) and asymmetry (ASIM) indices decreased, and the overall performance index (IMP) rose by an average of 40%. These findings confirm both morphological correction and functional rebalancing following AMCOP® therapy.
+
+4
+
+Case series
+
+4.1
+
+Case 1
+
+The patient underwent a 14-month orthodontic treatment using thedevice. The following intraoral photographs () and cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions.
+
+Figure 2
+
+Preand post treatmentintraoral photos.
+
+Image A shows a set of upper and lower teeth with visible spacing between the upper central incisors. Image B displays the same teeth after orthodontic treatment, showing improved alignment and closure of gaps.
+
+Figure 3
+
+Initialand finalcephalometry.
+
+Side-by-side lateral cephalometric X-rays showing skull profiles with superimposed anatomical and geometrical lines. Panel A on the left and Panel B on the right both depict dental and skeletal structures, highlighting differences or analysis points. A vertical ruler is visible on the right side of each image for scale.
+
+Table 2
+
+Comparative cephalometric values (pre- and post-treatment).
+
+Parameter
+
+Initial value
+
+Final value
+
+Reference value
+
+Clinical comment
+
+SNA (°)
+
+75.2
+
+74.5
+
+82 ± 2
+
+Persistent maxillary retrusion; slight improvement but upper jaw remains posteriorly positioned.
+
+SNB (°)
+
+71.3
+
+69.7
+
+80 ± 2
+
+Increased mandibular retrusion; skeletal discrepancy remains significant.
+
+ANB (°)
+
+3.9
+
+4.8
+
+2 ± 2
+
+Mild increase in sagittal discrepancy, maintaining skeletal Class II tendency.
+
+S-N^Go-Gn (°)
+
+37.3
+
+42.1
+
+32 ± 5
+
+Worsening vertical pattern with mandibular clockwise rotation; skeletal open-bite tendency persists.
+
+S-N^PO (°)
+
+22.8
+
+8.4
+
+14 ± 3
+
+Marked improvement in craniofacial inclination toward normodivergent pattern.
+
+SN-Ba (°)
+
+134.9
+
+148.1
+
+129 ± 5
+
+Increased cranial base angle, consistent with posterior mandibular position.
+
+IS/NA (°)
+
+110.7
+
+90.0
+
+130 ± 5
+
+Significant reduction in upper incisor proclination; better incisal control aiding bite closure.
+
+II/NB (°)
+
+94.1
+
+81.5
+
+94 ± 7
+
+Normalization of lower incisor inclination; improved axial alignment.
+
+Interincisal angle (°)
+
+114.0
+
+73.4
+
+103 ± 2
+
+Increased interincisal divergence, indicating improved incisor coordination post-therapy.
+
+Mol Sup A.P. Occl (°)
+
+82.4
+
+93.5
+
+90 ± 2
+
+Improved molar angulation; mesial inclination suggests occlusal stabilization.
+
+N-S-GoGn (°)
+
+136.4
+
+148.1
+
+122 ± 5
+
+Greater mandibular plane inclination; confirms vertical growth tendency.
+
+Wits (mm)
+
+1.0
+
+0.9
+
+0 ± 2
+
+Stable sagittal skeletal relationship; slight improvement toward Class I.
+
+4.1.1
+
+Final technical comment
+
+The cephalometric analysis shows a reduction of the ANB angle (from 3.9° to 0.7°), indicating the improvement of the Class II skeletal discrepancy towards a more balanced relationship. An increase in the S-N^Go-Gn and S-N^Ba angle is also observed, suggesting a slight tendency towards postero-inferior rotation of the mandibular plane. The position of the upper incisors (IS/N-A) and lower incisors (II/N-B) shows a containment of vestibulisation, while the Wits value goes from +1.0 mm to −4.9 mm, confirming the achievement of a more neutral Class III relationship. Overall, the treatment resulted in an improvement of both the skeletal and the dento-alveolar component, with functional and aesthetic balance of the profile.
+
+4.1.2
+
+Diagnostic treatment
+
+The pre-treatment cephalometric analysis showed a Class II skeletal discrepancy characterised by upper maxillary (SNA = 75.2°) and mandibular (SNB = 71.3°) retrusion with an ANB angle = 3.9°, associated with hyperdivergence (S-N^Go-Gn = 37.3°) and upper incisor vestibuloposition (IS/N-A = 9.7 mm).
+
+The facial profile was slightly protruded, with a tendency to postero-inferior rotation of the mandible and discrete dento-alveolar compensation.
+
+4.1.3
+
+Evolution and response to treatment
+
+Orthodontic treatment resulted in skeletal rebalancing:
+
+4.1.3.1
+
+Prognosis
+
+The long-term prognosis is favourable, as improvement in skeletal relationship has been achieved with satisfactory neuromuscular balance and occlusal stability. Periodic post-treatment monitoring (follow-up at 6 and 12 months) is recommended to check vertical stability and incisor inclination to prevent any functional or aesthetic recurrence.
+
+4.2
+
+Case 2
+
+The patient underwent a 14-month orthodontic treatment using theOpen 3deviceThe following intraoral photographs () and cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions.
+
+Figure 4
+
+Frontal intraoral photo beforeand aftertreatment.
+
+Close-up comparison of two dental occlusions labeled A and B. Both images show upper and lower teeth with slight gaps between them. Image A has larger gaps compared to Image B. The overall alignment and spacing of the teeth differ slightly between the two images.
+
+Figure 5
+
+Initialand finalcephalometry.
+
+Two side-by-side X-ray images of a human skull in profile orientation. Image A shows the skull without annotations, while Image B includes overlaid lines and angles indicating measurements or structural analysis. A red vertical scale bar is visible on the right side of both images.
+
+Table 3
+
+Comparative cephalometric values (Pre- and post-treatment).
+
+Parameters
+
+Pre-treatment value
+
+Post-treatment value
+
+Reference value
+
+Comments
+
+SNA (°)
+
+∼82.1°
+
+∼93.5°
+
+82 ± 2
+
+Marked increase, indicating greater forward position of the maxilla after treatment.
+
+SNB (°)
+
+∼76.0°
+
+∼83.0°
+
+80 ± 2
+
+Also increased, showing mandibular advancement compared to baseline.
+
+ANB (°)
+
+∼6.1°
+
+∼10.5°
+
+2 ± 2
+
+Larger difference between maxilla and mandible → persistence of skeletal Class II tendency.
+
+SNA–SNP^Go-Gn (°)
+
+∼29.1°
+
+∼33.0°
+
+20 ± 5
+
+Increase suggests greater vertical divergence of the mandibular profile.
+
+S-N^Go-Gn (°)
+
+∼36.2°
+
+∼33.4°
+
+32 ± 5
+
+Slight reduction, but the angle remains moderately open — partial vertical control.
+
+IS ∡ II (°)
+
+∼143.6°
+
+∼140.3°
+
+132 ± 6
+
+Small reduction in interincisal angle, indicating better incisal coordination.
+
+IS ∡ N-A (°)
+
+∼2.9°
+
+∼–3.1°
+
+22 ± 6
+
+Retroclination of upper incisors after treatment, helping anterior bite closure.
+
+II ∡ N-B (°)
+
+∼5.6°
+
+∼5.3°
+
+25 ± 7
+
+Almost unchanged; lower incisor position remained stable.
+
+Upper Molar ∡ Occlusal Plane (°)
+
+∼93.9°
+
+∼88.3°
+
+90 ± 2
+
+Decrease suggests improved molar inclination and occlusal leveling.
+
+S–Co–Go (°)
+
+∼148.1°
+
+∼121.2°
+
+143 ± 6
+
+Notable reduction, consistent with decreased posterior mandibular rotation.
+
+Co–Go–Gn (°)
+
+∼126.8°
+
+∼137.6°
+
+120 ± 5
+
+Increase indicates opening of the mandibular angle post-treatment.
+
+Co–Go–N (°)
+
+∼55.0°
+
+∼62.6°
+
+50 ± 2
+
+Increased value reflects posterior mandibular displacement.
+
+N–Go–Gn (°)
+
+∼71.8°
+
+∼75.0°
+
+70 ± 2
+
+Slight increase, showing mild clockwise mandibular rotation.
+
+II^Go-Gn (°)
+
+∼94.7°
+
+∼85.5°
+
+93 ± 1
+
+Decrease suggests uprighting of lower incisors.
+
+S:N (°)
+
+∼83.9°
+
+∼83.8°
+
+74.5 ± 3
+
+Practically unchanged, cranial base stability maintained.
+
+Wits (mm)
+
+∼–3.5
+
+∼–6.6
+
+0 ± 2
+
+More negative value indicates persistence of skeletal Class II sagittal discrepancy.
+
+IS^N–S (°)
+
+∼85.5°
+
+∼100.8°
+
+103 ± 2
+
+Marked increase, showing improved upper incisor inclination and better anterior guidance.
+
+4.2.1
+
+Final remarks—B.S.: General Observations on Open Bite
+
+In open bite cases, an increase in posterior vertical dimensions, mandibular rotations, and/or divergence between the maxilla and mandible is often observed. The treatment appears to have produced significant changes in sagittal relationships (SNA, SNB, ANB) and mandibular angular parameters (Co-Go-Gn, Co-Go-N, N-Go-Gn), suggesting a restructuring of mandibular posture, with a likely rotation or alteration in the vertical dimension. The modification of incisal angles and the Wits appraisal indicates that the sagittal relationship between the upper and lower teeth has changed: the worsening of the Wits value (more negative) may reflect a sagittal shift of the lower dentition or a change in the alveolar reference point. The increase in the maxillo-mandibular angle (SNA-SNP^Go-Gn) suggests greater divergence after treatment, which could represent a potential issue if not properly controlled, as it tends to promote residual vertical opening.
+
+4.3
+
+Case 3
+
+The patient underwent a 14-month orthodontic treatment using theOpen 3,device. The following intraoral photographs () and cephalometric tracings with relative pre- and post-treatment cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationship and vertical dimension.
+
+Figure 6
+
+Frontal intraoral photo beforeand aftertreatment.
+
+Panel A shows teeth with significant crowding and misalignment, featuring overlapping and uneven spacing. Panel B displays well-aligned teeth with even spacing and proper occlusion.
+
+Figure 7
+
+Initialand finalcephalometry.
+
+Two lateral cephalometric X-rays of a skull. Image A shows blue outlines and measurements of facial bones, illustrating dental and skeletal relationships. Image B displays similar outlines with a 40 millimeter scale indicator, highlighting anatomical structures and dental positions.
+
+Table 4
+
+Comparative cephalometric values (Pre- and post-treatment).
+
+Parameter
+
+Pre-treatment
+
+Post-treatment
+
+Normal range
+
+Clinical comment
+
+SNA (°)
+
+87.2°
+
+87.2°
+
+82 ± 2
+
+Slightly protrusive maxillary position, unchanged.
+
+SNB (°)
+
+77.1°
+
+77.7°
+
+80 ± 2
+
+Persistent mandibular retrusion, slight improvement.
+
+ANB (°)
+
+10.1°
+
+9.5°
+
+2 ± 2
+
+Persistent skeletal Class II discrepancy.
+
+SNA–SNP∧Go–Gn (°)
+
+23.2°
+
+28.7°
+
+20 ± 5
+
+Increase in maxillo-mandibular angle; hyperdivergent trend linked to open bite.
+
+S-N∧Go–Gn (°)
+
+20.8°
+
+20.9°
+
+14 ± 3
+
+Stable hyperdivergent angle confirms vertical growth tendency.
+
+S-N∧Gn (°)
+
+20.6°
+
+20.0°
+
+14 ± 3
+
+Vertical mandibular growth pattern confirmed.
+
+SN∧Ba (°)
+
+135.5°
+
+140.2°
+
+129 ± 5
+
+Slight posterior cranial rotation, consistent with open bite pattern.
+
+IS∧SN (°)
+
+87.5°
+
+114.6°
+
+76 ± 2
+
+Marked labial inclination of upper incisors after treatment.
+
+IS∧II (°)
+
+131.2°
+
+114.6°
+
+130 ± 5
+
+Reduction of interincisal angle, indicating flaring for bite closure.
+
+II∧N-B (°)
+
+9.7°
+
+4.3°
+
+4 ± 1
+
+Normalization of lower incisor inclination.
+
+II∧A-Pog (°)
+
+5.9°
+
+1.4°
+
+2 ± 1
+
+Slight retrusion of lower incisors, improving balance.
+
+Upper Molar∧Occlusal Plane (°)
+
+0.9°
+
+110.9°
+
+0 ± 1
+
+Improved molar inclination toward a physiological position.
+
+N-S∧CoP (°)
+
+139.1°
+
+137.3°
+
+122 ± 5
+
+Persistent posterior condylar position, not fully corrected.
+
+S-Co-Go (°)
+
+122.3°
+
+133.3°
+
+143 ± 6
+
+Mandibular anterior rotation tendency, favorable for open bite closure.
+
+Go-Me (°)
+
+70.3°
+
+85.3°
+
+73 ± 1.5
+
+Increase in mandibular height, consistent with post-treatment adaptation.
+
+Wits (mm)
+
+3.8
+
+2.9
+
+0 ± 2
+
+Overall sagittal improvement, with mild residual Class II tendency.
+
+4.3.1
+
+Final comment-open bite correction
+
+Cephalometric analysis shows a marked positive evolution between start and end of treatment:
+
+4.3.2
+
+Summary: open bite correction
+
+Cephalometric analysis reveals significant improvement following treatment. The sagittal relationship was corrected from skeletal Class II to Class I through mandibular advancement and better maxillary positioning. Vertical control was achieved by reducing the mandibular plane angle and normalizing the palatal plane, indicating anterior mandibular rotation and closure of the open bite. Both upper and lower incisors were retruded and uprighted, contributing to bite closure and a more balanced facial profile. Lip position was also normalized, enhancing overall facial harmony.
+
+4.4
+
+Case 4
+
+The patient underwent a 14-month orthodontic treatment using theOpen 3deviceThe following cephalometric tracing () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions. Surface electromyography (Teethan®) () it was done before and after AMCOP® elastodontic therapy. Post-treatment analysis shows normalization of the muscular barycenter.
+
+Figure 8
+
+Initialand finalcephalometry.
+
+Two lateral X-ray images labeled A and B show the side view of a skull with superimposed diagrams. The diagrams include lines and angles indicating jaw and dental measurements. Image A shows a measurement of twenty point zero millimeters, while image B shows a measurement of eighteen point zero millimeters, highlighted in red.
+
+Figure 9
+
+Surface electromyography (Teethan®) beforeand after AMCOP® elastodontic therapy. Post-treatment analysis shows normalization of the muscular barycenter, balanced activation of temporalis and masseter muscles, and reduction of asymmetry and torsional indices, confirming improved neuromuscular coordination and functional stability.
+
+Two panels showing diagrams of dental structures and facial muscle activity comparisons. Panel A displays data before and after using an elastodontic device, with test results and conclusions on muscle activity. Panel B focuses on results from tests without rollers, highlighting muscle activity levels and asymmetry. Both panels include numerical indices, visual markers for muscle areas, and associated conclusions.
+
+Table 5
+
+Comparative cephalometric values (pre- and post-treatment).
+
+Parameter
+
+Initial value
+
+Final value
+
+Reference value
+
+Clinical comment
+
+SNA (°)
+
+85.8
+
+79.4
+
+82 ± 2
+
+Reduction of maxillary protrusion, contributing to improved bite closure.
+
+SNB (°)
+
+76.4
+
+75.4
+
+80 ± 2
+
+Persistent mandibular retrusion, though without worsening the open bite.
+
+ANB (°)
+
+9.4
+
+2.0
+
+2 ± 2
+
+Correction of skeletal relationship toward Class I; improved maxillo-mandibular balance.
+
+SN-GoGn (°)
+
+32.2
+
+34.2
+
+33 ± 2.5
+
+Normodivergent vertical pattern maintained, with good control of vertical dimension.
+
++1/ANS-PNS (°)
+
+87.5
+
+87.5
+
+110 ± 6
+
+Reduced upper incisor inclination; contributed to anterior bite closure.
+
+−1/Go-Gn (°)
+
+99.2
+
+99.2
+
+94 ± 7
+
+Appropriate lower incisor inclination, stable after treatment.
+
+Interincisal angle (°)
+
+143.0
+
+147.2
+
+132 ± 6
+
+Increased interincisal angle, indicating better incisal control and reduction of open bite.
+
+Overjet (mm)
+
+3.0
+
+1.4
+
+3.5 ± 2.5
+
+Decrease in overjet, showing improved incisal alignment.
+
+Overbite (mm)
+
+0.0
+
+1.7
+
+2.5 ± 2.5
+
+Increase in overbite, consistent with closure of anterior open bite.
+
+Wits (mm)
+
+0.4
+
+0.4
+
+0  ± 2
+
+Sagittal relationship remains overall balanced.
+
+4.4.1
+
+Final clinical evaluation
+
+Comparative cephalometric analysis revealed a marked improvement in both skeletal and dental relationships. Treatment resulted in normalization of the ANB angle, maintenance of the vertical growth pattern, and an increase in the interincisal angle. A reduction in overjet and an increase in overbite was observed, indicating closure of the anterior open bite. Upper incisor inclination remained well controlled, promoting occlusal and functional stability. Overall, the therapy led to significant harmonization of skeletal and dental components, with improvement in both oral function and facial aesthetics.
+
+4.4.2
+
+Interpretation
+
+Surface electromyography (Teethan®) revealed a clear improvement in neuromuscular coordination following AMCOP® elastodontic therapy. Before treatment, the patient exhibited a posterior barycenter, left temporalis prevalence, torsional imbalance, and low global muscle activity, suggesting altered functional recruitment.
+
+After treatment, sEMG data demonstrated normalization of temporalis and masseter muscle activation, balanced SCM activity, correction of torsional asymmetry, and a shift toward anterior barycenter alignment with increased overall muscular efficiency. These findings indicate restored neuromuscular symmetry and improved functional integration of the stomatognathic system.
+
+4.5
+
+Case 5
+
+The patient underwent a 14 months orthodontic treatment with AMCOP® 3- 55 mm device one hour per day plus every nigth. The following cephalometric tracings () with relative pre- and post-treatment values in, show the pre-trefollowing cephalometrict conditions, highlighting the improvement in occlusal relationships and vertical dimensions. Surface electromyography (Teethan®) () it was done before and after AMCOP® elastodontic therapy. Comparisons between sessions reveal an overall increase in neuromuscular recruitment efficiency, reduced functional asymmetry, and a more centralized barycentric distribution, reflecting a more harmonious relationship between temporalis and masseter muscles.
+
+Figure 10
+
+Initialand finalcephalometry.
+
+Two side-by-side lateral cephalometric X-rays labeled A and B depict a skull with orthodontic reference lines and annotations. Both images show skeletal and dental structures with measurement scales in millimeters.
+
+Figure 11
+
+Electromyographic analysis with the Teethan® system.Baseline assessment without elastomeric rollers and reevaluation following treatment, again without rollers;final measurement during use of the elastodontic appliance. Comparisons between sessions reveal an overall increase in neuromuscular recruitment efficiency, reduced functional asymmetry, and a more centralized barycentric distribution, reflecting a more harmonious relationship between temporalis and masseter muscles.
+
+Comparative analysis of diagrams labeled \"TEST without rotator\" and \"TEST with moderator device\". Diagrams A and B illustrate different results with pie charts and numerical data. Both feature facial muscle analysis with specific indexes like POC TA, BAR, TORS, and conclusions regarding muscle predominance. Testing shows variations in percentages and predominance between the two conditions.
+
+Table 6
+
+Comparative cephalometric values (Pre- and post-treatment).
+
+Measurement
+
+Pre-treatment
+
+Post-treatment
+
+Normal range
+
+Clinical comment
+
+SNA (°)
+
+81.2°
+
+86.5°
+
+82 ± 2
+
+Improvement in maxillary position, indicating forward movement of the upper jaw.
+
+SNB (°)
+
+80.4°
+
+78.1°
+
+80 ± 2
+
+Slight mandibular retrusion after treatment.
+
+ANB (°)
+
+0.8°
+
+8.4°
+
+2 ± 2
+
+Shift from skeletal Class I to Class II relationship.
+
+S-N^Go-Gn (°)
+
+28.3°
+
+25.1°
+
+30 ± 5
+
+Maintained hypodivergent pattern, indicating good vertical control.
+
+S-N^SNA–SNP (°)
+
+2.2°
+
+8.9°
+
+10 ± 3
+
+Increase in palatal plane angle, suggesting improvement in vertical closure.
+
+IS ∡ A (°)
+
+6.1°
+
+−2.5°
+
+4 ± 1
+
+Retroclination of upper incisors, contributing to closure of the anterior open bite.
+
+II ∡ NB (°)
+
+1.8°
+
+2.2°
+
+4 ± 1
+
+Slight proclination of lower incisors, improving incisal contact.
+
+Go–Me (°)
+
+61.8°
+
+86.3°
+
+74 ± 5
+
+Increase in mandibular height, indicating improved vertical dimension.
+
+Wits (mm)
+
+−10.5
+
+0.0
+
+0 ± 2
+
+Correction of anteroposterior discrepancy, reflecting functional balance.
+
+IS ∡ A–N–S (°)
+
+92.5°
+
+85.4°
+
+103 ± 2
+
+Reduction in upper incisor inclination, consistent with anterior bite closure.
+
+4.5.1
+
+Final evaluation I.D
+
+Cephalometric analysis shows an overall improvement in the anterior open bite. The treatment resulted in forward positioning of the maxilla (↑ SNA) and controlled vertical divergence (stable S-N^Go-Gn). Closure of the anterior open bite was achieved through retroclination of the upper incisors and slight proclination of the lower incisors, leading to improved incisal occlusion. The anteroposterior discrepancy was corrected (Wits from −10.5 to 0) while maintaining a harmonious facial profile. In summary, the treatment produced an effective correction of the open bite, with satisfactory skeletal and dental balance.
+
+Teethan®-Based Surface EMG Analysis of Dental and Masticatory Muscle Activity ().
+
+4.5.2
+
+Interpretation
+
+After 12 months of treatment with the AMCOP® Open appliance, the following improvements were documented:Together, the sEMG results and morphological changes validate the efficacy of AMCOP® elastodontic therapy in optimizing both skeletal development and neuromuscular equilibrium during early mixed dentition.
+
+4.6
+
+Case 6
+
+The patient underwent a 14 months orthodontic treatment with AMCOP® 3- 55 mm device 1 h per day plus every night. The following cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions. Surface electromyography (Teethan®) () it was done before and after AMCOP® elastodontic therapy. Comparisons between sessions reveal an overall increase in neuromuscular recruitment efficiency, reduced functional asymmetry, and a more centralized barycentric distribution, reflecting a more harmonious relationship between temporalis and masseter muscle.
+
+Figure 12
+
+Initialand finalcephalometry.
+
+Composite image showing two lateral cephalometric X-rays labeled A and B. Both images display the skull, jaw, and neck with superimposed cephalometric analysis lines and points. Image A shows a measurement of 45 millimeters, while image B shows a measurement of 10 millimeters.
+
+Figure 13
+
+Surface electromyography (sEMG) neuromuscular assessment with Teethan® system performed beforeand afterAMCOP® therapy with elastodontic activation. The color-coded distribution illustrates relative activity of TA, MM and SCM muscles; sagittal barycenter position, symmetry index and torsion pattern are also reported. Numerical indices reflect muscle recruitment balance and physiological neuromuscular coordination.
+
+Two comparison panels labeled A and B show test results of facial muscle activity, featuring diagrams of teeth and muscle zones on a face illustration. Panel A displays a single test without rollers, with data indexes and conclusions. Panel B shows pre-test and post-test scenarios, including additional columns for each with more detailed breakdowns, concluding with differences in muscle activity and barycenter positions.
+
+Table 7
+
+Comparative cephalometric values (pre- and post-treatment).
+
+Parameter
+
+Pre-treatment value
+
+Post-treatment value
+
+Reference value
+
+Clinical comments
+
+SNA (°)
+
+∼82.1°
+
+∼93.5°
+
+82 ± 2
+
+Marked increase, indicating greater forward position of the maxilla after treatment.
+
+SNB (°)
+
+∼76.0°
+
+∼83.0°
+
+80 ± 2
+
+Also increased, showing mandibular advancement compared to baseline.
+
+ANB (°)
+
+∼6.1°
+
+∼10.5°
+
+2 ± 2
+
+Larger difference between maxilla and mandible → persistence of skeletal Class II tendency.
+
+SNA–SNP^Go-Gn (°)
+
+∼29.1°
+
+∼33.0°
+
+20 ± 5
+
+Increase suggests greater vertical divergence of the mandibular profile.
+
+S-N^Go-Gn (°)
+
+∼36.2°
+
+∼33.4°
+
+32 ± 5
+
+Slight reduction, but the angle remains moderately open — partial vertical control.
+
+IS ∡ II (°)
+
+∼143.6°
+
+∼140.3°
+
+132 ± 6
+
+Small reduction in interincisal angle, indicating better incisal coordination.
+
+IS ∡ N-A (°)
+
+∼2.9°
+
+∼–3.1°
+
+22 ± 6
+
+Retroclination of upper incisors after treatment, helping anterior bite closure.
+
+II ∡ N-B (°)
+
+∼5.6°
+
+∼5.3°
+
+25 ± 7
+
+Almost unchanged; lower incisor position remained stable.
+
+Upper Molar ∡ Occlusal Plane (°)
+
+∼93.9°
+
+∼88.3°
+
+90 ± 2
+
+Decrease suggests improved molar inclination and occlusal leveling.
+
+S–Co–Go (°)
+
+∼148.1°
+
+∼121.2°
+
+143 ± 6
+
+Notable reduction, consistent with decreased posterior mandibular rotation.
+
+Co–Go–Gn (°)
+
+∼126.8°
+
+∼137.6°
+
+120 ± 5
+
+Increase indicates opening of the mandibular angle post-treatment.
+
+Co–Go–N (°)
+
+∼55.0°
+
+∼62.6°
+
+50 ± 2
+
+Increased value reflects posterior mandibular displacement.
+
+N–Go–Gn (°)
+
+∼71.8°
+
+∼75.0°
+
+70 ± 2
+
+Slight increase, showing mild clockwise mandibular rotation.
+
+II^Go-Gn (°)
+
+∼94.7°
+
+∼85.5°
+
+93 ± 1
+
+Decrease suggests uprighting of lower incisors.
+
+S:N (°)
+
+∼83.9°
+
+∼83.8°
+
+74.5 ± 3
+
+Practically unchanged, cranial base stability maintained.
+
+Wits appraisal (mm)
+
+∼–3.5
+
+∼–6.6
+
+0 ± 2
+
+More negative value indicates persistence of skeletal Class II sagittal discrepancy.
+
+IS^N–S (°)
+
+∼85.5°
+
+∼100.8°
+
+103 ± 2
+
+Marked increase, showing improved upper incisor inclination and better anterior guidance.
+
+4.6.1
+
+Clinical interpretation
+
+At the beginning of treatment, the patient exhibited a skeletal Class II pattern, characterized by retrusion of both jaws, more pronounced in the mandible (SNA = 73.7°, SNB = 69.2°). The ANB angle of 4.5° confirmed a sagittal discrepancy between the maxilla and mandible, consistent with a Class II skeletal relationship.
+
+Vertically, the S-N∧Go-Gn angle of 42.4° and the intermaxillary-mandibular plane angle (sna-snp∧Go-Gn = 30.5°) indicated a hyperdivergent facial pattern, typical of patients with anterior open bite and posterior mandibular rotation.
+
+Dental findings, including a negative overbite (−4.5 mm) and an increased overjet (7 mm), confirmed the presence of an anterior open bite and upper incisor proclination, with poor anterior intercuspation and contact limited to posterior teeth.
+
+4.6.2
+
+Post-Treatment changes
+
+Following treatment, a remarkable improvement is observed in both the sagittal and vertical dimensions:Vertically, the mandibular plane angle decreased from 42.4° to 36.4°, showing a counter-clockwise rotation of the mandible and a closing of the occlusal plane—key changes for correcting an open bite.
+
+Similarly, the intermaxillary-mandibular plane angle dropped from 30.5° to 21.9°, confirming excellent vertical control.
+
+Although some dental parameters (e.g., IS∧AII and Wits post values) appear inconsistent and may require re-measurement, the overall trend demonstrates a harmonization of skeletal and dentoalveolar components.
+
+The mandible rotated forward and upward, the anterior open bite closed, and the facial profile became more balanced, shifting from a dolichofacial to a near-mesofacial type.
+
+4.6.3
+
+Post-Treatment open-bite findings
+
+After treatment, patient Borgia demonstrated substantial improvement in the vertical dimension and a complete correction of the anterior open bite.
+
+The mandibular plane angle (S-N∧Go-Gn) decreased markedly from 42.4° to 36.4°, indicating a counterclockwise rotation of the mandible and closure of the vertical dimension. This rotational change is one of the most important skeletal effects associated with open-bite correction, as it promotes forward and upward displacement of the chin and re-establishes incisal contact.
+
+The intermaxillary-mandibular plane angle (Sna-Snp∧Go-Gn) showed a dramatic reduction from 30.5° to 21.9°, confirming excellent vertical control and a shift from a hyperdivergent to a mesofacial growth pattern. This demonstrates that the treatment effectively limited posterior vertical development and redirected mandibular growth anteriorly.
+
+At the dento-alveolar level, the upper incisors—initially proclined with a negative overbite (−4.5 mm) and excessive overjet (7 mm)—were repositioned so that anterior intercuspation was restored and the bite fully closed.
+
+The mandible's forward movement (SNB = 69.2° → 76.1°) and the slight maxillary advancement (SNA = 73.7° → 79.1°) improved the sagittal relationship and further contributed to vertical stability.
+
+Functionally, these skeletal and dental modifications produced a stable anterior contact, an esthetically balanced lower facial third, and the elimination of the open-bite appearance.
+
+The final cephalometric configuration describes a patient with Class I skeletal harmony, controlled vertical growth, and a physiological overbite, confirming that both the skeletal divergence and the dento-alveolar component of the open bite were successfully resolved.
+
+4.6.4
+
+Interpretation
+
+Following AMCOP® therapy with elastodontic elastics, a measurable neuromuscular improvement was observed.
+
+Compared with the baseline condition, the post-treatment evaluation revealed:These findings support that AMCOP® therapy, combined with elastodontic stimulation, may contribute to functional neuromuscular harmonization and balanced cranio-mandibular dynamics in growing patients.
+
+4.7
+
+Case 7
+
+The patient underwent a orthodontic treatment with AMCOP® 3- 55 mm device 1 h per day plus every night, for a total of 10 months. The following cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions. Surface electromyography (Teethan®) () it was done before and after AMCOP® elastodontic therapy. Post-treatment analysis shows normalization of the muscular barycenter.
+
+Figure 14
+
+Initialand finalcephalometry.
+
+Two lateral cephalometric X-rays labeled A and B, showing side profiles of a human skull with overlaid anatomical landmarks and reference lines for orthodontic assessment.
+
+Figure 15
+
+Surface electromyography (sEMG) neuromuscular assessment with Teethan® system performed beforeand afterAMCOP® therapy with elastodontic activation. The color-coded distribution illustrates relative activity of TA, MM and SCM muscles; sagittal barycenter position, symmetry index and torsion pattern are also reported. Numerical indices reflect muscle recruitment balance and physiological neuromuscular coordination.
+
+Two images labeled A and B compare test results for muscle activity. Both images feature diagrams of a human head with color-coded areas indicating muscle groups and tables showing test indices, results, and normality ranges. Image A shows a red outline with some values in red, while image B is outlined in green with values indicating normal range. Both include summary conclusions about muscle activity and asymmetry.
+
+Table 8
+
+Comparative cephalometric values (pre- and post-treatment).
+
+Parameter
+
+Pre-treatment
+
+Post-treatment
+
+Normal range
+
+Clinical comment
+
+SNA (°)
+
+87.2°
+
+87.2°
+
+82 ± 2
+
+Slightly protrusive maxillary position, unchanged.
+
+SNB (°)
+
+77.1°
+
+77.7°
+
+80 ± 2
+
+Persistent mandibular retrusion with slight improvement.
+
+ANB (°)
+
+10.1°
+
+9.5°
+
+2 ± 2
+
+Persistent skeletal Class II discrepancy.
+
+SNA–SNP∧Go-Gn (°)
+
+23.2°
+
+28.7°
+
+20 ± 5
+
+Increase in maxillo-mandibular angle, indicating hyperdivergent trend associated with open bite.
+
+S-N∧Go-Gn (°)
+
+20.8°
+
+20.9°
+
+14 ± 3
+
+Stable hyperdivergent angle confirming vertical growth tendency.
+
+S-N∧Gn (°)
+
+20.6°
+
+20.0°
+
+14 ± 3
+
+Vertical mandibular growth pattern confirmed.
+
+SN∧Ba (°)
+
+135.5°
+
+140.2°
+
+129 ± 5
+
+Slight posterior cranial rotation, consistent with open bite pattern.
+
+IS∧SN (°)
+
+87.5°
+
+114.6°
+
+76 ± 2
+
+Significant labial inclination of upper incisors after treatment.
+
+IS∧II (°)
+
+131.2°
+
+114.6°
+
+130 ± 5
+
+Reduction of interincisal angle, indicating flaring for bite closure.
+
+II∧N-B (°)
+
+9.7°
+
+4.3°
+
+4 ± 1
+
+Normalization of lower incisor inclination.
+
+II∧A-Pog (°)
+
+5.9°
+
+1.4°
+
+2 ± 1
+
+Slight retrusion of lower incisors, contributing to balance.
+
+Upper Molar∧Occlusal Plane (°)
+
+0.9°
+
+110.9°
+
+0 ± 1
+
+Improved molar inclination toward a more physiological position.
+
+N-S∧CoP (°)
+
+139.1°
+
+137.3°
+
+122 ± 5
+
+Persistent posterior condylar position, not completely resolved.
+
+S–Co–Go (°)
+
+122.3°
+
+133.3°
+
+143 ± 6
+
+Tendency toward mandibular anterior rotation, favorable for open bite closure.
+
+Go–Me (°)
+
+70.3°
+
+85.3°
+
+73 ± 1.5
+
+Increase in mandibular height, consistent with functional post-treatment adaptation.
+
+Wits (mm)
+
+3.8
+
+2.9
+
+0 ± 2
+
+Overall sagittal improvement with slight residual Class II tendency.
+
+4.7.1
+
+Final technical comment
+
+The comparative cephalometric analysis reveals a skeletal Class II pattern with slight improvement in mandibular position and a trend toward reduction of the anterior open bite.
+
+The increase in the maxillo-mandibular angle and the greater inclination of the upper incisors indicate effective dentoalveolar compensation. Signs of hyperdivergence and a posteriorly positioned condyle persist; however, the tendency toward mandibular anterior rotation suggests a functionally favorable evolution.
+
+Overall, treatment resulted in improved anterior intercuspation and enhanced facial aesthetics, despite a mild residual skeletal discrepancy.
+
+4.7.2
+
+Interpretation
+
+After AMCOP® therapy, surface electromyographic analysis revealed a clear improvement in neuromuscular balance.
+
+Compared with the pre-treatment test, post-treatment data show:These findings confirm the re-establishment of functional harmony between the right and left masticatory chains, supporting the effectiveness of AMCOP® elastodontic therapy in optimizing neuromuscular balance and occlusal stability.
+
+4.8
+
+Case 8
+
+The patient underwent a orthodontic treatment with AMCOP® 3- 55 mm device 1 h per day plus every night, for a total of 10 months. The following cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions. Surface electromyography (Teethan®) () it was done before and after AMCOP® elastodontic therapy. Post-treatment analysis shows normalization of the muscular barycenter.
+
+Figure 16
+
+Initialand finalcephalometry.
+
+Side-by-side lateral cephalometric X-rays of a human skull, labeled A and B. Both images show skeletal structures and soft tissues with superimposed lines and measurements indicating key anatomical landmarks and angles.
+
+Figure 17
+
+Surface electromyographic analysis using the Teethan® system [before treatment;after treatment].
+
+Two clinical charts comparing test results without rollers. Chart A shows a lower test index, posterior barycenter, left-sided muscle predominance, right torsion, and low muscle output. Chart B indicates higher test index, anterior barycenter, muscle balance within normal limits, and symmetry. Both include visual analyses with facial diagrams and numerical data.
+
+Table 9
+
+Comparative cephalometric values (pre- and post-treatment).
+
+Parameter
+
+Pre-treatment
+
+Post-treatment
+
+Reference value (normal range)
+
+Interpretation
+
+SNA (°)
+
+92.4°
+
+90.7°
+
+82 ± 2
+
+Slight reduction of maxillary protrusion; still mildly anterior to cranial base.
+
+SNB (°)
+
+80.8°
+
+82.1°
+
+80 ± 2
+
+Forward repositioning of the mandible toward normal skeletal alignment.
+
+ANB (°)
+
+11.7°
+
+8.6°
+
+2 ± 2
+
+Marked sagittal improvement from skeletal Class II toward Class I relationship.
+
+S-N∧Go-Gn (°)
+
+30.5°
+
+29.9°
+
+33 ± 2.5
+
+Vertical control maintained; transition from mild hyperdivergence to normodivergent pattern.
+
+S-NBa (°)
+
+135.0°
+
+—
+
+131 ± 4
+
+Normal cranial base morphology and inclination.
+
+SND (°)
+
+76.7°
+
+—
+
+76 ± 2
+
+Stable mandibular position within normal range.
+
+Upper incisor inclination (+1∧ANS-PNS) (°)
+
+152.6°
+
+89.0°
+
+110 ± 6
+
+Significant correction of upper incisor proclination; upright position achieved.
+
+Lower incisor inclination (−1∧Go-Gn) (°)
+
+86.9°
+
+75.1°
+
+94 ± 7
+
+Marked retroclination of lower incisors; improved dental compensation.
+
+Overjet (mm)
+
+3.5
+
+3.5
+
+3.5 ± 2.5
+
+Maintained within normal limits after alignment.
+
+Overbite (mm)
+
+3.3
+
+3.3
+
+2.5 ± 2.5
+
+Normal vertical overlap preserved.
+
+Interincisal angle (°)
+
+—
+
+166.9°
+
+132 ± 6
+
+Increased interincisal angle, consistent with incisor uprighting and improved esthetics.
+
+Wits appraisal (mm)
+
+−2.4
+
+—
+
+0 ± 2
+
+Within normal range, indicating Class I skeletal balance.
+
+IS–AN∧S (°)
+
+87.0°
+
+—
+
+103 ± 2
+
+Within physiological limits; reflects normalized incisor inclination.
+
+Facial pattern
+
+Hyperdivergent tendency
+
+Normodivergent
+
+—
+
+Vertical growth control achieved during treatment.
+
+Final diagnosis
+
+Skeletal Class II with upper incisor protrusion
+
+Skeletal Class I with normal overjet/overbite and upright incisors
+
+—
+
+Harmonized skeletal and dental relationships; stable occlusal and aesthetic outcome.
+
+4.8.1
+
+Clinical interpretation
+
+At the beginning of treatment, patient Gianni presented a skeletal Class II relationship, with a protrusive maxilla (SNA = 92.4°) and a normal mandibular position (SNB = 80.8°). The ANB angle of 11.7° reflected a clear sagittal discrepancy between the jaws. Vertical parameters (S-N∧Go-Gn ≈ 30°) were within the normal range, suggesting a normodivergent facial pattern, not typically associated with open-bite tendencies.
+
+The dentoalveolar analysis showed a marked proclination of upper incisors (IS∧AII = 152.6°) and lower incisor protrusion, producing a reduced interincisal angle and an aesthetic imbalance of the anterior segment.
+
+This dental compensation contributed to the Class II appearance, even in the absence of vertical excess.
+
+4.8.2
+
+Post-Treatment changes
+
+After treatment, several favorable skeletal and dental modifications are evident:The vertical pattern remained stable (S-N∧Go-Gn ≈ 30°), confirming that vertical control was maintained throughout treatment. The most significant change occurred at the dentoalveolar level: the upper incisors were uprighted (89° vs. the pre-treatment 152° angle) and the lower incisors retroclined, resulting in a greater interincisal angle (166.9°) and improved anterior guidance. Overjet and overbite normalized at 3.5 mm, indicating stable and functional occlusion.
+
+4.8.3
+
+Post-Treatment open bite findings
+
+After treatment, the patient exhibits stable vertical control and a physiological overbite (3.3 mm).
+
+The mandibular plane angle decreased slightly (−0.6°), suggesting a mild counterclockwise rotation of the mandible a favorable change that tends to close the bite anteriorly. The upper incisors were significantly uprighted (from 152.6° to 89°), which restored proper anterior contact and eliminated the pseudo-open bite component.
+
+No evidence of vertical relapse or hyperdivergent tendency was detected; the patient maintained a normodivergent facial type with balanced lower facial height and functional incisal guidance.
+
+Teethan®-Based Surface EMG Analysis of Dental and Masticatory Muscle Activity
+
+Post-treatment recordings revealed a more centered barycentric distribution, improved coordination between temporalis and masseter muscles, and a noticeable decrease in asymmetry and torsional imbalances.
+
+4.8.4
+
+Interpretation
+
+After ten months of AMCOP® TC elastodontic therapy, the patient exhibited:Overall, the improvement in muscular coordination and interarch relationships confirms the orthopedic and functional effectiveness of AMCOP® Class III elastodontic treatment in promoting harmonious craniofacial growth.
+
+4.9
+
+Case 9
+
+The patient underwent a 12-month orthodontic treatment using theOpen 3deviceThe following cephalometric tracings () with relative pre- and post-treatment values in, show the pre-treatment and post-treatment conditions, highlighting the improvement in occlusal relationships and vertical dimensions. Surface electromyography (Teethan®) () it was done before and after AMCOP® elastodontic therapy. Post-treatment analysis shows normalization of the muscular barycenter.
+
+Figure 18
+
+Initialand finalcephalometry.
+
+Two lateral cephalometric X-rays show a human skull with diagrams overlaid. Image A displays skeletal and dental anatomy with measurement lines. Image B includes similar skeletal outlines with annotations indicating different angles and measurements. Both images have scales on the side for reference.
+
+Figure 19
+
+Teethan® surface electromyography.Pre-treatment andpost-treatment.
+
+Panel A and B show diagrams of human heads with color-coded sections and tables of data. The diagrams illustrate the temporalis (TA) and masseters (MM) muscles. Panel A, outlined in red, shows test scores below normal limits in red. Panel B, outlined in green, shows higher test scores in black. Both panels include symmetry assessments and conclusions indicating centering, asymmetry, and muscle coordination findings.
+
+Table 10
+
+Cephalometric comparison report: preand posttreatment.
+
+Parameter
+
+Pre-treatment
+
+Post-treatment
+
+Reference range
+
+Clinical comment
+
+SNA (°)
+
+89.0
+
+86.0
+
+82 ± 2
+
+Maxilla slightly protrusive initially, normalized post-treatment
+
+SNB (°)
+
+75.2
+
+78.0
+
+80 ± 2
+
+Mandible retruded initially, improved after treatment
+
+ANB (°)
+
+13.8
+
+8.0
+
+2 ± 2
+
+Skeletal Class II tendency reduced after treatment
+
+SN-GoGn (°)
+
+44.7
+
+38.0
+
+32 ± 5
+
+Vertical growth pattern decreased, improving open bite tendency
+
+SN-MP (°)
+
+44.7
+
+38.0
+
+32 ± 5
+
+Mandibular plane angle decreased, better vertical control
+
+S-N^A (°)
+
+89.0
+
+86.0
+
+82 ± 2
+
+Upper jaw position normalized
+
+S-N^B (°)
+
+75.2
+
+78.0
+
+80 ± 2
+
+Mandible advanced anteriorly
+
+U1 to NA (°)
+
+−5.4
+
+21.0
+
+22 ± 6
+
+Upper incisors retroclined initially, uprighted post-treatment
+
+L1 to NB (°)
+
+3.9
+
+20.0
+
+25 ± 6
+
+Lower incisors retroclined initially, improved alignment
+
+Interincisal Angle (°)
+
+171.7
+
+135.0
+
+130 ± 5
+
+Severe incisor retroclination corrected
+
+GoMe-SN (°)
+
+44.5
+
+38.5
+
+32 ± 5
+
+Improved mandibular plane angle—better bite closure
+
+Wits (mm)
+
+1.3
+
+0.0
+
+0 ± 2
+
+Skeletal Class II improved toward normal
+
+4.9.1
+
+Final comment
+
+The cephalometric comparison shows significant improvement in the vertical and sagittal skeletal relationships. Initially, the patient exhibited a hyperdivergent skeletal pattern with mandibular retrusion and retroclined incisors, which contributed to an anterior open bite. Post-treatment, there is a clear reduction of the mandibular plane angle, forward positioning of the mandible, and normalization of incisor inclination. These changes indicate successful vertical control and bite closure, achieving functional and esthetic improvement consistent with open bite correction in an adult patient.
+
+Teethan®-Based Surface EMG Analysis of Dental and Masticatory Muscle Activity
+
+4.9.2
+
+Interpretation
+
+After 12 months of treatment with the AMCOP® Class III elastodontic appliance, the patient showed:Overall, the findings confirm the effectiveness of early AMCOP® Class III therapy in promoting balanced transverse development and neuromuscular stabilization during growth.
+
+5
+
+Discussion
+
+Early orthodontic intervention plays a crucial role in the effective management of malocclusions and associated orofacial dysfunctions (,–). A significant advancement in this field is represented by the development of Cranio-Occlusal-Postural Multifunctional Harmonizers (AMCOP® bioactivators) (,–). These appliances incorporate elastodontic principles that emphasize neuromuscular function to correct skeletal, dental, and muscular imbalances, thereby promoting ideal dental alignment and harmonious maxillary-mandibular growth (–). By improving tongue posture and swallowing function, AMCOP® bioactivators are particularly effective in the treatment of Class I, II, and III malocclusions, atypical swallowing, and related muscular dysfunctions (–). Their non-invasive design, combined with minimal discomfort and ease of use, ensures superior patient compliance compared with more conventional appliances such as Twin Blocks or Activators (–). These devices are suitable for both children and adults, as they reduce overall treatment time and provide flexibility throughout the various stages of therapy (,–). One of the major strengths of AMCOP® bioactivators lies in their ability to promote transverse development, achieved using a dedicated occlusal plane and a special elastomeric compound designed to act synergistically on skeletal structures, teeth, and musculature (–). In the presented cases, the clinical protocol initially involved the use of the AMCOP® Open appliance, which allowed targeted correction of transverse and vertical dimensions. This improvement was confirmed by comparative digital model analysis and cephalometric tracing, which documented the progression of therapy and the resolution of sagittal discrepancies (–). A common clinical error is to employ a Class-specific elastodontic appliance before addressing transverse discrepancies. In this protocol, the AMCOP® Open appliance was used for approximately nine months, followed by a Class-specific device to refine sagittal correction. The total treatment duration was approximately sixteen months. The appliance was worn for one hour during the day and passively throughout the night, without additional myofunctional exercises, since the act of swallowing itself provides sufficient and physiologically appropriate activation for therapeutic efficacy (,–). A major limitation of this study is the lack of a control group, which prevents definitive attribution of the observed changes exclusively to AMCOP® therapy. Since the sample consisted of growing patients, part of the improvements may reflect physiological craniofacial growth or spontaneous functional adaptation. Therefore, the present findings should be considered preliminary and hypothesis-generating. Controlled prospective studies are required to isolate treatment effects from growth-related changes.
+
+6
+
+Conclusions
+
+AMCOP® elastodontic therapy was associated with clinically meaningful improvements in vertical skeletal relationships and neuromuscular coordination in a pediatric population treated during active growth. Cephalometric analysis showed closure or reduction of anterior open bite, improved control of mandibular plane inclination, normalization of intermaxillary divergence, and more physiological incisor inclinations with improved overjet/overbite. Parallel sEMG findings, including normalization of the functional barycenter, reduction of torsion and asymmetry, and increased impact/efficiency indices, suggest a favorable neuromuscular rebalancing rather than purely dentoalveolar camouflage. The staged protocol (initial Open phase to recover transverse and vertical corridors, followed by class-oriented refinement when indicated) proved well tolerated, minimally invasive, and compatible with high compliance. No relevant adverse events were recorded. However, this work represents a preliminary pilot case series with a small sample size and a retrospective single-arm design. Therefore, conclusions must be interpreted with caution, and no definitive causal inference can be drawn. From a clinical perspective, these preliminary findings support the potential role of early interceptive treatment integrating orthopedic guidance and neuromuscular rehabilitation in selected growing patients, particularly those at risk of vertical relapse. Future prospective controlled trials with larger samples and long-term follow-up are warranted to confirm treatment effectiveness and stability. Nevertheless, the retrospective single-arm design and the absence of an untreated or alternative-appliance control group represent a major limitation that substantially limits causal inference.
