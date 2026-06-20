@@ -1,0 +1,15 @@
+Dental implants in patients suffering from autoimmune diseases: A systematic critical review.
+
+Authors: Esimekara JO, Perez A, Courvoisier DS, Scolozzi P
+Journal: J Stomatol Oral Maxillofac Surg 2022;123(5):e464-e473
+PMID 35033725 | DOI 10.1016/j.jormas.2022.01.005
+
+NOTE: abstract-only — full text not retrieved. Content below is the PubMed abstract. (Most comprehensive SR of dental implants across autoimmune diseases.)
+
+OBJECTIVE: To evaluate complications and survival rates of dental implants placed in patients suffering from autoimmune diseases.
+
+METHODS: PRISMA systematic review (Google Scholar + PubMed, stop date September 2021). Included all full-text human English-language studies reporting on patients with autoimmune diseases treated with dental implants.
+
+RESULTS: Fifty-five studies reporting on NINE distinct autoimmune diseases were analyzed: 17 on Sjögren's syndrome (SS), 11 on oral lichen planus (OLP), 8 on Type 1 diabetes, 6 on rheumatoid arthritis (RA), 4 on systemic scleroderma (SSc), 3 on Crohn's disease (CD), 3 on systemic lupus erythematosus (SLE), 2 on mucous membrane pemphigoid (MMP), 1 on pemphigus vulgaris (PV). Despite heterogeneity and methodological limitations, dental implant survival rates were COMPARABLE to those reported in the general population. However, patients with secondary SS or erosive OLP were more susceptible to peri-mucositis and increased marginal bone loss.
+
+CONCLUSION: Dental implants may be considered a safe and viable therapeutic option for edentulous patients suffering from autoimmune diseases. Scrupulous oral hygiene maintenance and long-term follow-up are the common determinants for uneventful implant treatment.
