@@ -1,0 +1,15 @@
+Re-evaluating the role of moist dentin of adhesive systems used in the etch-and-rinse bonding strategy. A systematic review and meta-analysis.
+
+Authors: Forville H, Wendlinger M, Cochinski GD, Favoreto MW, Wambier LM, Chibinski AC, Loguercio AD, Reis A
+Journal: J Dent 2024
+PMID 39613137 | DOI 10.1016/j.jdent.2024.105495
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+The wet-bonding protocol has been used in the etch-and-rinse (ER) mode to maintain adhesive infiltration in demineralized dentin. This study answered the research question: "Do the retention rates and other secondary outcomes of composite restorations in non-carious cervical lesions (NCCLs) differ between dry- and wet-bonding techniques?"
+
+The authors included randomized clinical trials in which NCCLs were restored with ER or universal adhesives applied under dry and moist dentin. Searches for eligible articles were performed in MEDLINE via PubMed, Web of Science, Cochrane Library, Brazilian Library in Dentistry, Latin American and Caribbean Health Sciences Literature, Scopus, Embase, and grey literature without language and date restrictions and updated in May 2024. The Cochrane Risk of bias 2.0 (RoB) was used. The authors conducted meta-analyses with the random-effects model and assessed heterogeneity. The certainty of the evidence was assessed by GRADE.
+
+We found five split-mouth randomized clinical trials from Brazil, published between 2005 and 2023, involving 195 adult patients with up to five years of follow-up. Three had a low RoB, one had some concerns, and one had a high RoB. No significant difference was observed between groups at any recall time for the outcomes. The risk ratio and 95 % CI for retention rates were at 18-24 months 0.91 (0.45 to 1.84); at 36 months, 0.82 (0.38 to 1.78), and at 60 months, 1.0 (0.42 to 2.38). The risk difference for postoperative sensitivity was 0.00 (-0.03 to 0.03) in all follow-ups.
+
+The retention rates and other secondary outcomes were not affected by dentin moisture with a moderate certainty of evidence. PROSPERO 2023 CRD42023427861.
