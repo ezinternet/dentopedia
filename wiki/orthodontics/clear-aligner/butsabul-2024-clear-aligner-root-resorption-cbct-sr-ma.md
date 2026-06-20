@@ -5,7 +5,7 @@ year: 2024
 date: 2024-05-01
 doi: 10.1016/j.identj.2024.04.008
 source: butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -66,7 +66,7 @@ Clinically: aligners do resorb roots, but the 0.56 mm mean is not clinically mea
 
 ## Related Papers
 
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — reinforces / refines: RCT efficacy anchor whose root-resorption trend favored clear aligners; this page supplies the absolute magnitude (−0.56 mm) and worst tooth (maxillary central incisor).
-- [[orthodontics/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — applies-to: aligner force-delivery biomechanics that govern the EARR-amplifying movements (vertical, apex-to-cortex) flagged here.
-- [[orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — applies-to: attachments enable the complex movements (intrusion/extrusion, large translation) most associated with elevated resorption.
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — extends: umbrella review of aligner-vs-fixed outcomes; this page adds the pre/post absolute resorption magnitude that the relative comparisons could not isolate.
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — reinforces / refines: RCT efficacy anchor whose root-resorption trend favored clear aligners; this page supplies the absolute magnitude (−0.56 mm) and worst tooth (maxillary central incisor).
+- [[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — applies-to: aligner force-delivery biomechanics that govern the EARR-amplifying movements (vertical, apex-to-cortex) flagged here.
+- [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — applies-to: attachments enable the complex movements (intrusion/extrusion, large translation) most associated with elevated resorption.
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — extends: umbrella review of aligner-vs-fixed outcomes; this page adds the pre/post absolute resorption magnitude that the relative comparisons could not isolate.
