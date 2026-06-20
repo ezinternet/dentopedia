@@ -1,6 +1,0 @@
-[ABSTRACT-ONLY — full text not retrieved (no PMC at ingest). Source: PubMed, PMID 42092871, DOI 10.1186/s12903-026-08519-9]
-Title: Efficacy and safety of diode laser in pulpotomy: a systematic review and meta-analysis. Journal: BMC Oral Health 2026.
-Aim: review clinical/radiographic efficacy of diode lasers in (primary-tooth) pulpotomy; feasibility/safety as alternative.
-Methods: PubMed/Embase/Cochrane to Aug 31 2025; Cochrane RoB; RevMan 5.4; Cochran Q + I2.
-Results: vs other treatments, NO significant difference in clinical or radiographic success at any follow-up (p>0.05). Diode laser significantly DECREASED pathologic widening of periodontal space (p<0.05). Laser wavelength did not influence outcome (p>0.05). With zinc oxide eugenol (ZOE) capping, diode laser lowered incidence of pathological PDL space widening (p<0.05). No publication bias (funnel plot).
-Conclusion: diode laser pulpotomy has similar clinical/radiographic success to other methods and may reduce pathologic periodontal-space widening → viable alternative therapy.
