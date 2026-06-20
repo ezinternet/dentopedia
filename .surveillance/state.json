@@ -180,6 +180,15 @@
         "MA"
       ],
       "last_run_edat": "2026/06/20"
+    },
+    "primary-pulpotomy-ssc": {
+      "query": "(pulpotomy[tiab] OR \"stainless steel crown\"[tiab] OR \"stainless steel crowns\"[tiab] OR \"preformed metal crown\"[tiab] OR \"preformed metal crowns\"[tiab] OR \"Hall technique\"[tiab] OR \"preformed crown\"[tiab] OR \"preformed crowns\"[tiab]) AND (\"primary tooth\"[tiab] OR \"primary teeth\"[tiab] OR \"primary molar\"[tiab] OR \"primary molars\"[tiab] OR deciduous[tiab] OR \"primary dentition\"[tiab] OR pediatric[tiab] OR paediatric[tiab])",
+      "ptyp": [
+        "RCT",
+        "SR",
+        "MA"
+      ],
+      "last_run_edat": "2026/06/20"
     }
   },
   "seen_pmids": [
@@ -232,6 +241,7 @@
     "40694393",
     "40695441",
     "40741811",
+    "40754667",
     "40794532",
     "40810996",
     "40843516",
@@ -254,6 +264,7 @@
     "41139001",
     "41163412",
     "41172597",
+    "41186901",
     "41199413",
     "41221851",
     "41225247",
@@ -265,6 +276,7 @@
     "41273736",
     "41275475",
     "41286855",
+    "41317129",
     "41326742",
     "41331619",
     "41345005",
@@ -281,8 +293,10 @@
     "41444033",
     "41455825",
     "41456794",
+    "41485532",
     "41500885",
     "41511431",
+    "41526924",
     "41548998",
     "41558746",
     "41629749",
@@ -293,6 +307,7 @@
     "41716131",
     "41720286",
     "41732069",
+    "41755432",
     "41774785",
     "41781247",
     "41781316",
@@ -317,6 +332,7 @@
     "41923072",
     "41950291",
     "41952278",
+    "41964851",
     "41966250",
     "41966251",
     "41966579",
@@ -336,6 +352,7 @@
     "42061085",
     "42076937",
     "42092623",
+    "42092871",
     "42098698",
     "42104787",
     "42105884",
