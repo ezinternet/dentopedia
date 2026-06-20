@@ -3,7 +3,7 @@ title: "Effectiveness of Clear Aligner Therapy in Maxillary Molar Distalization 
 authors: Bhate M, Jain RK, Balasubramaniam A
 year: 2025
 doi: 10.4103/jispcd.jispcd_59_24
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "40838033"
@@ -15,7 +15,7 @@ text_filename: bhate-2025-cat-maxillary-molar-distalization-class-ii-sr.txt
 
 ## Why Ingested
 
-`clear-aligner` sweep 예측가능성 축의 **정량 데이터** 보강. [[wiki/orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] 의 질적 결론(앵커리지 보강 필요)에 achieved/predicted % 수치를 붙임. PMC OA 전문.
+`clear-aligner` sweep 예측가능성 축의 **정량 데이터** 보강. [[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] 의 질적 결론(앵커리지 보강 필요)에 achieved/predicted % 수치를 붙임. PMC OA 전문.
 
 ## One-line Summary
 
@@ -54,9 +54,9 @@ SR(11편, n=278, 전부 Invisalign): 투명교정으로 상악 대구치 distali
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — qualitative anchorage framing (this paper quantifies).
-- [[wiki/orthodontics/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — alternative Class II aligner strategy.
-- [[wiki/orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — attachments to improve accuracy.
+- [[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — qualitative anchorage framing (this paper quantifies).
+- [[wiki/orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — alternative Class II aligner strategy.
+- [[wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — attachments to improve accuracy.
 
 ## 7. Glossary
 
