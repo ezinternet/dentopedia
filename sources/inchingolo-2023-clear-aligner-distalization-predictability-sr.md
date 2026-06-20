@@ -3,7 +3,7 @@ title: "Predictability of Dental Distalization with Clear Aligners: A Systematic
 authors: Inchingolo AM, Inchingolo AD, Carpentiere V, Del Vecchio G, Ferrante L, et al.
 year: 2023
 doi: 10.3390/bioengineering10121390
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "38135981"
@@ -15,7 +15,7 @@ text_filename: inchingolo-2023-clear-aligner-distalization-predictability-sr.txt
 
 ## Why Ingested
 
-`clear-aligner` sweep 예측가능성 축: distalization이라는 aligner의 약점 이동에 대한 SR. 앵커 [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 가 지적한 "특정 이동 열등"을 술식 레벨(앵커리지 손실·TAD/IPR 보강)로 구체화. TAD 의존성 때문에 [[wiki/orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] 와 교차. PMC OA 전문.
+`clear-aligner` sweep 예측가능성 축: distalization이라는 aligner의 약점 이동에 대한 SR. 앵커 [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 가 지적한 "특정 이동 열등"을 술식 레벨(앵커리지 손실·TAD/IPR 보강)로 구체화. TAD 의존성 때문에 [[wiki/orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] 와 교차. PMC OA 전문.
 
 ## One-line Summary
 
@@ -54,8 +54,8 @@ Scopus/WoS/PubMed, last 10 years; 146 studies -> 19 included. Distalization move
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — quantifies achieved/predicted distalization %.
-- [[wiki/orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — attachment role in expressing difficult movements.
+- [[wiki/orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — quantifies achieved/predicted distalization %.
+- [[wiki/orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — attachment role in expressing difficult movements.
 - [[wiki/orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] — TAD failure rates (anchorage reliability).
 
 ## 7. Glossary
