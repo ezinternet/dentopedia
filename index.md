@@ -9,6 +9,10 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
+- [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
+- [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
+- [[implants/mosaddad-2023-dental-implants-systemic-sclerosis-sr]] — Mosaddad 2023 · sr · 전신경화증(scleroderma) 임플란트 SR(37명/153임플란트): 생존 89–100%, SSc 자체 영향 없음, 소구증(microstomia) 관리 핵심 (DOI 10.1002/iid3.812)
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — Ruhstorfer 2024 · sr · **맞춤형 치유지대주(customized healing abutment)** SR(5편/190임플란트, 생존 100%): 통상형 대비 치주조직·심미 개선 경향·통증↓·단점 없음 (DOI 10.1186/s40729-024-00581-8)
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — Ríos-Santos 2020 · rct · 다기관 RCT(147명/231임플란트): one-abutment-one-time(최종지대주 수술 시 장착, 반복 분리 안 함) vs 반복분리 — MBL/ISQ 차이 없음; 지대주 높이 2mm>1mm (DOI 10.3390/ijerph17249453)
 - [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — Siegenthaler 2022 · rct · 전치부 임플란트: 볼록(convex) emergence profile이 12개월 점막퇴축 64% vs 오목(concave) 14%(OR 12.69) → 오목/평탄 권장 (DOI 10.1111/jcpe.13696)
@@ -655,6 +659,7 @@ tags: []
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — El Haddad 2026 · cross-sectional (n=69, 20–29세, 87% 이쑤시개 사용) — **나무 이쑤시개(치간청소)의 위해**: 습관적 사용이 상악 전치부 치간유두를 유의 소실(PPI, P<.05)시켜 블랙트라이앵글 유발; 수직(상하)기법·하루>3회·>3년에서 악화, 치조골·접촉면길이는 무영향. (※ 와타나베 *칫솔질* 토스픽법과는 무관·반대방향) (DOI 10.3290/j.qi.b6912614)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma]] — Qiao 2020 · sr+ma · 치주염이 류마티스관절염(RA) 위험 69%↑(OR 1.69, 13편 >100만명); incident·>5년 RA서 최강 (DOI 10.1016/j.jbspin.2020.04.024)
 - [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — Sooampon 2026 · rct · 무작위 교차시험(n=11): 에리트로신 대체 치태착색제로 D&C Red No.33 비교 — 치태감소율 동등, 잔류착색·맛·제거 우수; FDA 2025.1 에리트로신 식품/내복약 금지 맥락 (DOI 10.1186/s12903-026-08786-6)
 - [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]] — Gusseva 2026 · rct · 교차 파일럿(n=30): 1일 10분 이중광 항균광역학(aPDT) 부가가 치태 ~21%↓(p=0.0001), 통상관리 단독은 무의 (DOI 10.1016/j.jdent.2026.106641)
 - [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — Zini 2026 · rct · 4주 RCT(n=60, 6–10세): 진동회전 전동칫솔이 수동 대비 전악 치태감소 51%↑(0.67 vs 0.44, p=0.003) (DOI 10.1111/ipd.70086)
@@ -1260,6 +1265,9 @@ tags: []
 - [[overviews/food-impaction-proximal-contact-loss-overview]] — 식편압입·임플란트 PCL 종합 (9편 합성, 2026-06-08 신규 카테고리): 임플란트는 mesial drift 미추종 → 시간의존·mesial 우위 PCL이 inevitable·progressive; 통합 mesial 44.2% vs distal 27.5%(Sheba), >5년 29–83.3%(Abduo), 절반 19.2개월 내(Kim 2025); 예방보다 조기 감시·재형성, 고위험(기존 interproximal gap OR 2.7–3.3·인접치 치주상태·기능기간) 식별; prosthesis design RCT 공백
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
+- [[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — García-Ríos 2022 · sr · SLE 구강증상 SR(15편): 구강궤양 최다(11/14편)·경구개 호발·타액분비저하/Sjögren 동반 흔함 (DOI 10.3390/ijerph191911910)
+- [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
+- [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — Poudel 2026 · sr · 구강건조증(Sjögren 포함)이 수복물 실패 ~2.6–2.9배(재발우식); 임플란트 생존 >90%(방사선성은 낮음); 16편/1227명 (DOI 10.1186/s12903-026-07815-8)
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
 - [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA(55편, n=41,231): 구강백반증 악성전환률 pooled 6.64%(95% CI 5.21–8.21); 비균질형(NHOL) RR 4.23·이형성 RR 2.75·측설부 12.71%; 흡연 RR 1.64; 시간 안정적(p=0.75) — OL 악성전환 추정의 최대 SR+MA (2025)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
