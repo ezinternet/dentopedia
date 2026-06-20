@@ -101,7 +101,7 @@ Synthesis of bruxism as a shared upstream driver: excess masticatory-muscle forc
 |---|---|---|
 | [[cracked-tooth/li-2021-cracked-tooth-syndrome-etiology-review]] | narrative-review | 이갈이·parafunction이 cracked tooth syndrome 주요 병인 인자 |
 | [[cracked-tooth/ferracane-2023-cracked-tooth-registry-3year-network]] | prospective (registry) | 균열치 임상 코호트 — 과부하·교합 인자 관찰 |
-| [[dental-materials/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]] | in-vitro (500k cycle) | 연마 Zr이 유약·PVZ보다 대합치 마모 ↑; 재료 표면이 마모 결정 |
+| [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]] | in-vitro (500k cycle) | 연마 Zr이 유약·PVZ보다 대합치 마모 ↑; 재료 표면이 마모 결정 |
 | [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] | sr | 지르코니아 장기 보철 — 이갈이는 파절·합병증 위험 변수 |
 | [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] | sr+ma | inlay/onlay 장기 생존 — parafunction이 실패 인자 |
 

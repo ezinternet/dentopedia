@@ -59,8 +59,8 @@ Clinically: when a zirconia restoration is contaminated by saliva at try-in, re-
 
 ## Related Papers
 
-- [[dental-materials/silva-2022-zirconia-saliva-cleaning-sr-ma]] — SR+MA; pooled evidence that cleaning restores bond to saliva-contaminated zirconia (this bench study reinforces it on a single platform).
-- [[dental-materials/genc-2025-cleaning-protocols-zirconia-bond-strength]] — comparison of cleaning protocols on zirconia bond strength; reinforces the air-abrasion-vs-cleaner hierarchy.
-- [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-salt cleaner efficacy on contaminated zirconia.
-- [[dental-materials/takagaki-2018-saliva-zirconia-cleaning-agent]] — saliva contamination and cleaning-agent recovery on zirconia.
-- [[dental-materials/al-akhali-2025-zirconia-cleaning-bonding-duration]] — cleaning and bonding-duration effects on zirconia.
+- [[dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma]] — SR+MA; pooled evidence that cleaning restores bond to saliva-contaminated zirconia (this bench study reinforces it on a single platform).
+- [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] — comparison of cleaning protocols on zirconia bond strength; reinforces the air-abrasion-vs-cleaner hierarchy.
+- [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-salt cleaner efficacy on contaminated zirconia.
+- [[dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent]] — saliva contamination and cleaning-agent recovery on zirconia.
+- [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] — cleaning and bonding-duration effects on zirconia.

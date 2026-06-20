@@ -47,5 +47,5 @@ Overall weighted mean survival rate: 94.2%. Ceramic onlays show the highest surv
 
 ## Related Papers
 - [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS single crown/FPD survival; LD material comparison
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM materials vs conventional crowns/FPDs
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM materials vs conventional crowns/FPDs
 - [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic FDP outcomes

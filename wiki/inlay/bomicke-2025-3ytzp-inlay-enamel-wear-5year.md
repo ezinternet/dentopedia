@@ -38,5 +38,5 @@ Prospective 5-year clinical study (n=6 patients). Inlay- or wing-retained resin-
 
 ## Related Papers
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — fracture load of zirconia IRFPD vs other ceramic FDPs
-- [[dental-materials/ban-2023-dental-zirconia-types-development-review]] — 3Y-TZP properties and development history
+- [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 3Y-TZP properties and development history
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding protocols for zirconia

@@ -37,7 +37,7 @@ in-vitro 피로, 구강 환경 단순화.
 
 ## 6. Related Work
 - [[overviews/bruxism-muscle-overload-axis]] — 보철 파절 축
-- [[dental-materials/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]]
+- [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]]
 
 ## 7. Glossary
 Monolithic ceramic = 단일체 세라믹; fatigue = 피로(반복하중) 파절.

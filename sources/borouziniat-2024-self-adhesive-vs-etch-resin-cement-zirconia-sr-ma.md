@@ -15,7 +15,7 @@ text_filename: borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-m
 
 ## Why Ingested
 
-Cement-class selection for zirconia is a recurring clinical question, and the wiki already holds [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] (self-adhesive resin cement performance on zirconia) and [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] (MDP/CAF priming with self-adhesive cement). This 2024 SR+MA (26 studies) directly compares self-adhesive vs self-etch vs total-etch resin cement classes against zirconia, supplying the head-to-head class ranking those single-system pages lack — reinforcing that 10-MDP-bearing self-adhesive/self-etch cements outperform total-etch and conventional cements.
+Cement-class selection for zirconia is a recurring clinical question, and the wiki already holds [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] (self-adhesive resin cement performance on zirconia) and [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] (MDP/CAF priming with self-adhesive cement). This 2024 SR+MA (26 studies) directly compares self-adhesive vs self-etch vs total-etch resin cement classes against zirconia, supplying the head-to-head class ranking those single-system pages lack — reinforcing that 10-MDP-bearing self-adhesive/self-etch cements outperform total-etch and conventional cements.
 
 ## One-line Summary
 
@@ -74,7 +74,7 @@ Systematic review + meta-analysis (26 studies, 4 comparison groups) finding no s
 
 ## 6. Related Work
 
-- Self-adhesive resin cement performance on zirconia: [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]].
+- Self-adhesive resin cement performance on zirconia: [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]].
 - MDP/CAF priming with self-adhesive resin cement (microshear): [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]].
 - Background literature cited: Piwowarczyk (RMGI no permanent bond; MDP self-etch satisfactory), Lüthy (GI/Bis-GMA lower than self-etch after thermocycling), Wegner & Kern (only phosphate-monomer cements durable), Attia (Multilink self-etch good bond via mechanical properties without phosphate monomer).
 

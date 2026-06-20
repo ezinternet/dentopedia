@@ -37,4 +37,4 @@ In-vitro fatigue testing, monolithic ceramic crowns, 교합접촉 패턴·코어
 
 ## Related Papers
 - [[overviews/bruxism-muscle-overload-axis]] — 보철 파절 축
-- [[dental-materials/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]]
+- [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]]

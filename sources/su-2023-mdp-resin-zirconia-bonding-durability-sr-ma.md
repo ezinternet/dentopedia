@@ -70,7 +70,7 @@ Systematic review + meta-analysis (72 studies SR / 68 in MA, abstract-only, Chin
 
 - [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] — NMR mechanistic basis for the 10-MDP–zirconia chemical (P–O–Zr) bond this MA quantifies.
 - [[wiki/resin-bonding/li-2024-zirconia-surface-treatments-monomers-nma]] — network meta-analysis ranking zirconia surface treatments / monomers; convergent durability conclusion.
-- [[wiki/dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-based cleaner restoring bond to saliva-contaminated zirconia, related clinical bonding-protocol step.
+- [[wiki/dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-based cleaner restoring bond to saliva-contaminated zirconia, related clinical bonding-protocol step.
 
 ## 7. Glossary
 

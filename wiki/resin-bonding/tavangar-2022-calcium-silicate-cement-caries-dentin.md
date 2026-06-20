@@ -27,5 +27,5 @@ In vitro study comparing calcium silicate-based self-adhesive resin cement vs co
 - TheraCem as a calcium silicate cement: gaining interest as caries-protective luting agent
 
 ## Related Papers
-- [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] — TheraCem SBS comparison
-- [[dental-materials/soleimani-2026-abutment-height-zirconia-retention]] — TheraCem vs GI retention
+- [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — TheraCem SBS comparison
+- [[dental-materials/zirconia/soleimani-2026-abutment-height-zirconia-retention]] — TheraCem vs GI retention

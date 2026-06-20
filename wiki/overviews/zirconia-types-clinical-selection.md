@@ -61,9 +61,9 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[dental-materials/ban-2023-dental-zirconia-types-development-review]] | narrative-review (Dental Mat J 2023) | **1998 3Y-HA → 2021 UHTZ 발전사**. Y₂O₃ stabilizer + 결정상 (monoclinic·tetragonal·cubic) 메커니즘. T-M phase transformation toughening 원리 |
-| [[dental-materials/miyazaki-2013-current-status-zirconia-restoration-review]] | narrative-review (J Prosthodont Res 2013) | Y-TZP · Ce-TZP 비교. CAD/CAM 가공·도재 결합·레진 결합·표면처리·대합치 마모·임상 결과 종합 |
-| [[dental-materials/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | **5Y-PSZ (cubic 우세) 도 MDP 반응성 유지**. CoJet + silane + MDP 프라이머 6mo 가장 안정. Cubic phase 가 chemical bonding 약화시키지 않음 |
+| [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] | narrative-review (Dental Mat J 2023) | **1998 3Y-HA → 2021 UHTZ 발전사**. Y₂O₃ stabilizer + 결정상 (monoclinic·tetragonal·cubic) 메커니즘. T-M phase transformation toughening 원리 |
+| [[dental-materials/zirconia/miyazaki-2013-current-status-zirconia-restoration-review]] | narrative-review (J Prosthodont Res 2013) | Y-TZP · Ce-TZP 비교. CAD/CAM 가공·도재 결합·레진 결합·표면처리·대합치 마모·임상 결과 종합 |
+| [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | **5Y-PSZ (cubic 우세) 도 MDP 반응성 유지**. CoJet + silane + MDP 프라이머 6mo 가장 안정. Cubic phase 가 chemical bonding 약화시키지 않음 |
 
 **Grade × 물성 정량 (Ban 2023)**:
 | Grade | Yttria | 주 결정상 | 굴곡강도 (MPa) | 파괴인성 (MPa√m) | 투명도 | 임상 위치 |
@@ -101,8 +101,8 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] | sr+ma | CAD/CAM 실패 — 파절 55%, 탈락 20%. **두께 < 1mm 시 파절 위험 유의 증가**. 두께 ≥ 1.5 mm occlusal + 엄격 접착 protocol 이 risk 감소 |
-| [[dental-materials/lolos-2025-zirconia-restorations-5year-retrospective]] | retrospective (5y, 루마니아) | Zr 단관·FPD 모두 5y >90% 생존. **FPD 의 베니어 칩핑 > 단관** (stress distribution 차이) |
-| [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] | sr+ma (13편 1,598 수복물) | 심미 합병증 OR 16.88 (Zr+LDS > PFM). 생존율 대등. 두께 prerequisite 강조 |
+| [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] | retrospective (5y, 루마니아) | Zr 단관·FPD 모두 5y >90% 생존. **FPD 의 베니어 칩핑 > 단관** (stress distribution 차이) |
+| [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] | sr+ma (13편 1,598 수복물) | 심미 합병증 OR 16.88 (Zr+LDS > PFM). 생존율 대등. 두께 prerequisite 강조 |
 | [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] | sr+ma | Zr FDP 프레임 파절 드묾. **베니어 칩핑이 주 합병증** — monolithic 으로 회피 가능 |
 | [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] | sr | LDS 단관 PFM 대등. 장경간 FPD 는 LDS 한계 — Zr 가 필요 |
 
@@ -123,10 +123,10 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[dental-materials/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] | sr+ma (25 편, MA 3편) | **단일체 Zr 대합치 enamel 마모 임상 허용**. 연마 < 유약. 표면 거칠기가 dominant determinant. Grade 간 차이는 표면처리에 비해 작음 |
-| [[dental-materials/shah-2024-enamel-wear-zirconia-umbrella-review]] | sr (umbrella, 4 SR) | **연마 Zr ≤ 자연 enamel 마모**. 연마 < 유약. Zr < 금속도재 = 장석도재 = LDS. 이질성 큼 (MA 불가) |
-| [[dental-materials/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] | in-vitro | **Glazing 이 오히려 wear ↑**. 유약 표면이 매끄러워 보이지만 마모 시 거친 표면 노출. 연마 maintenance 가 우수 |
-| [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] | prospective (2y) | Endocrown wear — 임상 허용 범위 |
+| [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] | sr+ma (25 편, MA 3편) | **단일체 Zr 대합치 enamel 마모 임상 허용**. 연마 < 유약. 표면 거칠기가 dominant determinant. Grade 간 차이는 표면처리에 비해 작음 |
+| [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] | sr (umbrella, 4 SR) | **연마 Zr ≤ 자연 enamel 마모**. 연마 < 유약. Zr < 금속도재 = 장석도재 = LDS. 이질성 큼 (MA 불가) |
+| [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] | in-vitro | **Glazing 이 오히려 wear ↑**. 유약 표면이 매끄러워 보이지만 마모 시 거친 표면 노출. 연마 maintenance 가 우수 |
+| [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] | prospective (2y) | Endocrown wear — 임상 허용 범위 |
 
 **임상 ladder — 보철 마무리**:
 1. **단일체 Zr 모든 grade** → 시적 후 occlusal 조정 → **연마 마감 (Zr polishing kit, 다이아몬드 paste)**. 유약 회피.
@@ -146,7 +146,7 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[dental-materials/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | **5Y-PSZ MDP 반응성 유지**. CoJet + silane + MDP primer 6mo 가장 안정. Cubic phase 가 약점 아님 |
+| [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | **5Y-PSZ MDP 반응성 유지**. CoJet + silane + MDP primer 6mo 가장 안정. Cubic phase 가 약점 아님 |
 | [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] | narrative-review | APC concept 원전 — Air-abrade · Prime · Cement. Grade 무관 적용 |
 
 **임상 ladder — grade 별 접착 차이**:
@@ -176,18 +176,18 @@ tags: [dental-materials, zirconia, 3y-tzp, 4y-psz, 5y-psz, uhtz, monolithic, tra
 
 ### spine (본문 인용)
 
-- [[dental-materials/ban-2023-dental-zirconia-types-development-review]] — grade 발전사·결정학 spine
-- [[dental-materials/miyazaki-2013-current-status-zirconia-restoration-review]] — 종합 review
-- [[dental-materials/comba-2021-chemical-bonding-cubic-zirconia]] — 5Y-PSZ MDP 결합
+- [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — grade 발전사·결정학 spine
+- [[dental-materials/zirconia/miyazaki-2013-current-status-zirconia-restoration-review]] — 종합 review
+- [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — 5Y-PSZ MDP 결합
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — 두께-파절 SR+MA
-- [[dental-materials/lolos-2025-zirconia-restorations-5year-retrospective]] — 5y retrospective
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs PFM SR+MA
+- [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — 5y retrospective
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs PFM SR+MA
 - [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic FDP SR+MA
 - [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS survival SR
-- [[dental-materials/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — 대합치 마모 SR+MA
-- [[dental-materials/shah-2024-enamel-wear-zirconia-umbrella-review]] — 마모 umbrella
-- [[dental-materials/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — 유약 wear 역설
-- [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — Endocrown wear 2y
+- [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — 대합치 마모 SR+MA
+- [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — 마모 umbrella
+- [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]] — 유약 wear 역설
+- [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — Endocrown wear 2y
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — APC concept
 
 ### Related overviews / interactives

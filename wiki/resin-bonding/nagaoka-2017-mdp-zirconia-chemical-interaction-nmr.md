@@ -67,6 +67,6 @@ Clinically: this explains why 10-MDP-containing primers and self-adhesive/MDP ce
 ## Related Papers
 
 - [[resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] — reinforces; same monomer (10-MDP) shown to chemically bond and nanolayer on tooth substrates (enamel/dentin). Nagaoka extends the "10-MDP chemically bonds the substrate, not just micromechanically" paradigm from hydroxyapatite to zirconia.
-- [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — clinical exploitation of the P-O-Zr chemistry characterized here; an MDP cleaner recovers bond strength on saliva/blood-contaminated zirconia.
-- [[dental-materials/sharafeddin-2018-mdp-primers-zirconia-bond]] — applied head-to-head comparison of 10-MDP primers for zirconia bond strength, resting on the bonding mechanism this paper resolves.
+- [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — clinical exploitation of the P-O-Zr chemistry characterized here; an MDP cleaner recovers bond strength on saliva/blood-contaminated zirconia.
+- [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]] — applied head-to-head comparison of 10-MDP primers for zirconia bond strength, resting on the bonding mechanism this paper resolves.
 - [[resin-bonding/etiennot-2025-mdp-saliva-contaminated-dentin]] — 10-MDP behavior on a contaminated (dentin) substrate; complements the zirconia-substrate chemistry here.

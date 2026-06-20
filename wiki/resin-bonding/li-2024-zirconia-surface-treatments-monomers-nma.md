@@ -66,4 +66,4 @@ Clinically: condition zirconia with **air abrasion using fine alumina (25–53 �
 
 - [[resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] — reinforces; NMR mechanism of the 10-MDP–zirconia chemical interaction underpins this NMA's finding that 10-MDP is the dominant bonding monomer (sibling page in this batch).
 - [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — clinical-outcomes/durability SR of zirconia bonding; complements this in-vitro NMA with patient-level evidence.
-- [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-based cleaner restoring bond to try-in/saliva-contaminated zirconia; practical corollary to "use 10-MDP" when surfaces are contaminated.
+- [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-based cleaner restoring bond to try-in/saliva-contaminated zirconia; practical corollary to "use 10-MDP" when surfaces are contaminated.

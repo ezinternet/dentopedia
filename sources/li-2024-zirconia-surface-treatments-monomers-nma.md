@@ -15,7 +15,7 @@ text_filename: li-2024-zirconia-surface-treatments-monomers-nma.txt
 
 ## Why Ingested
 
-This Bayesian network meta-analysis (Li 2024, 77 in-vitro studies) directly ranks both mechanical surface treatments AND chemical adhesive monomers for zirconia-resin bonding in one model, establishing that 10-MDP-based formulations are superior to all other acidic monomers and that non-MDP formulations are essentially ineffective. It extends the chemical-interaction evidence in [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] (NMR mechanism of the MDP–Zr bond) from molecular mechanism into a quantitative cross-treatment ranking, and complements the clinical-durability synthesis in [[wiki/prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] and the MDP-cleaner contamination work in [[wiki/dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]].
+This Bayesian network meta-analysis (Li 2024, 77 in-vitro studies) directly ranks both mechanical surface treatments AND chemical adhesive monomers for zirconia-resin bonding in one model, establishing that 10-MDP-based formulations are superior to all other acidic monomers and that non-MDP formulations are essentially ineffective. It extends the chemical-interaction evidence in [[wiki/resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] (NMR mechanism of the MDP–Zr bond) from molecular mechanism into a quantitative cross-treatment ranking, and complements the clinical-durability synthesis in [[wiki/prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] and the MDP-cleaner contamination work in [[wiki/dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]].
 
 ## One-line Summary
 

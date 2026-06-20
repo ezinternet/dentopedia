@@ -65,13 +65,13 @@ relations:
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] | narrative-review | APC concept 원전. Air-abrade · Prime · Cement |
-| [[dental-materials/silva-2022-zirconia-saliva-cleaning-sr-ma]] | sr+ma (11편) | 타액 오염 후 — sandblasting > Ivoclean > 물/알코올/인산 |
-| [[dental-materials/genc-2025-cleaning-protocols-zirconia-bond-strength]] | in-vitro (n=105) | Sandblasting+Ivoclean 9.3 MPa, IPA 3.04 MPa, 물 단독 최저 |
-| [[dental-materials/al-akhali-2025-zirconia-cleaning-bonding-duration]] | in-vitro (150d, 37,500 thermocycle) | Ivoclean·알코올 장기 내구성 우수. **Katana Cleaner 금기** |
-| [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] | in-vitro | MDP 함유 세정제 (Clearfil Ceramic Primer Plus) 이중기능 — 세정 + primer |
-| [[dental-materials/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | 5Y-PSZ도 MDP 반응성 유지. cubic phase ≠ 접착 약점 |
-| [[dental-materials/opatragoon-2024-primer-applications-zirconia-bond]] | in-vitro | MDP primer 1회 도포 충분. 2-3회 추가 효과 없음 |
-| [[dental-materials/lopes-2023-universal-adhesives-zirconia-long-term]] | in-vitro (12mo) | 모든 universal adhesive 12개월 65% bond 감소 — 장기 internal stability 한계 |
+| [[dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma]] | sr+ma (11편) | 타액 오염 후 — sandblasting > Ivoclean > 물/알코올/인산 |
+| [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] | in-vitro (n=105) | Sandblasting+Ivoclean 9.3 MPa, IPA 3.04 MPa, 물 단독 최저 |
+| [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] | in-vitro (150d, 37,500 thermocycle) | Ivoclean·알코올 장기 내구성 우수. **Katana Cleaner 금기** |
+| [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] | in-vitro | MDP 함유 세정제 (Clearfil Ceramic Primer Plus) 이중기능 — 세정 + primer |
+| [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] | in-vitro | 5Y-PSZ도 MDP 반응성 유지. cubic phase ≠ 접착 약점 |
+| [[dental-materials/zirconia/opatragoon-2024-primer-applications-zirconia-bond]] | in-vitro | MDP primer 1회 도포 충분. 2-3회 추가 효과 없음 |
+| [[dental-materials/zirconia/lopes-2023-universal-adhesives-zirconia-long-term]] | in-vitro (12mo) | 모든 universal adhesive 12개월 65% bond 감소 — 장기 internal stability 한계 |
 
 **임상 ladder (chairside SOP)**:
 1. 시적 전: 인레이 내면 sandblasting 50µm Al₂O₃, 1-2 bar.
@@ -84,9 +84,9 @@ relations:
 
 **오판 패턴**: "지르코니아는 산 부식으로 표면 활성화" — 5Y-PSZ도 산 부식 무효. MDP 화학결합이 답. [근거강함]
 
-**보강 근거 — 타액 오염 세정.** APC의 'P/C' 신뢰도는 시적 중 타액 오염을 어떻게 제거하느냐에 달려 있다. 타액 단백막이 MDP 결합을 차단하므로, 물·알코올 단독은 불충분하고 전용 세정제(Ivoclean) 또는 재-sandblasting이 필요하다는 결과가 in-vitro에서 반복된다([[dental-materials/kim-2015-cleaning-saliva-zirconia-resin-bonding]], [[dental-materials/negreiros-2017-cleaning-primer-zirconia-bond-water]], [[dental-materials/sankar-2017-saliva-zirconia-sbs-resin-cements]], [[dental-materials/takagaki-2018-saliva-zirconia-cleaning-agent]], [[dental-materials/miyazaki-2015-saliva-zirconia-bond-contact-angle]], [[dental-materials/radhi-2023-lithium-disilicate-cleaning-resin-cement]], [[dental-materials/atoche-socola-2021-cleaning-zirconia-microshear]], [[dental-materials/hajjaj-2022-cleaning-methods-zirconia-sbs]]). 이는 축 1 spine의 Silva 2022 SR+MA·Genc 2025와 같은 방향이다. [합의수준]
+**보강 근거 — 타액 오염 세정.** APC의 'P/C' 신뢰도는 시적 중 타액 오염을 어떻게 제거하느냐에 달려 있다. 타액 단백막이 MDP 결합을 차단하므로, 물·알코올 단독은 불충분하고 전용 세정제(Ivoclean) 또는 재-sandblasting이 필요하다는 결과가 in-vitro에서 반복된다([[dental-materials/zirconia/kim-2015-cleaning-saliva-zirconia-resin-bonding]], [[dental-materials/zirconia/negreiros-2017-cleaning-primer-zirconia-bond-water]], [[dental-materials/zirconia/sankar-2017-saliva-zirconia-sbs-resin-cements]], [[dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent]], [[dental-materials/zirconia/miyazaki-2015-saliva-zirconia-bond-contact-angle]], [[dental-materials/radhi-2023-lithium-disilicate-cleaning-resin-cement]], [[dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear]], [[dental-materials/zirconia/hajjaj-2022-cleaning-methods-zirconia-sbs]]). 이는 축 1 spine의 Silva 2022 SR+MA·Genc 2025와 같은 방향이다. [합의수준]
 
-**보강 근거 — primer 화학·air-abrasion/grinding.** MDP 함유 primer가 결합의 핵심이며([[dental-materials/jo-2018-liners-primers-zirconia-tensile-bond]], [[dental-materials/sharafeddin-2018-mdp-primers-zirconia-bond]], [[dental-materials/lee-2018-zirconia-primers-bracket-bonding]], [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]]), 표면 처리는 미세 air-abrasion이 결합을 높이되 과도한 그라인딩·열처리는 굴곡강도를 떨어뜨릴 수 있다는 강도 trade-off가 존재한다([[dental-materials/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]], [[dental-materials/ramos-2016-grinding-heat-treatment-zirconia-flexural]], [[dental-materials/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]], [[dental-materials/oh-2016-zirconia-core-fitness-four-bur-types]]). → **임상 함의**: 50 µm Al₂O₃ 저압 air-abrasion은 결합 목적상 충분하며, 적합도 조정용 그라인딩은 최소화하고 조정 후 재폴리싱한다. [claude해석]
+**보강 근거 — primer 화학·air-abrasion/grinding.** MDP 함유 primer가 결합의 핵심이며([[dental-materials/zirconia/jo-2018-liners-primers-zirconia-tensile-bond]], [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]], [[dental-materials/zirconia/lee-2018-zirconia-primers-bracket-bonding]], [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]]), 표면 처리는 미세 air-abrasion이 결합을 높이되 과도한 그라인딩·열처리는 굴곡강도를 떨어뜨릴 수 있다는 강도 trade-off가 존재한다([[dental-materials/zirconia/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]], [[dental-materials/zirconia/ramos-2016-grinding-heat-treatment-zirconia-flexural]], [[dental-materials/zirconia/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]], [[dental-materials/zirconia/oh-2016-zirconia-core-fitness-four-bur-types]]). → **임상 함의**: 50 µm Al₂O₃ 저압 air-abrasion은 결합 목적상 충분하며, 적합도 조정용 그라인딩은 최소화하고 조정 후 재폴리싱한다. [claude해석]
 
 자세한 chairside 분기형 의사결정 트리: [[interactives/2026-05-25_zirconia-inlay-bonding]] (본 세션 작성).
 
@@ -96,13 +96,13 @@ relations:
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] | sr+ma (13편 1,598) | 심미합병증 OR 16.88 — CAD/CAM > PFM. 생존율 대등 |
+| [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] | sr+ma (13편 1,598) | 심미합병증 OR 16.88 — CAD/CAM > PFM. 생존율 대등 |
 | [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] | sr | LDS 단관 PFM 대등. 장경간 FPD는 LDS 한계 |
 | [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] | sr+ma | 지르코니아 FPD 프레임 파절 드묾. 베니어 칩핑 주 합병증 |
 | [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] | sr+ma | CAD/CAM 실패 — 파절 55%, 탈락 20%. 두께 < 1mm 시 파절 위험↑ |
-| [[dental-materials/lolos-2025-zirconia-restorations-5year-retrospective]] | retrospective (5y) | 지르코니아 단관·FPD 모두 5y 높은 생존. FPD 베니어 칩핑 빈도↑ |
+| [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] | retrospective (5y) | 지르코니아 단관·FPD 모두 5y 높은 생존. FPD 베니어 칩핑 빈도↑ |
 | [[dental-materials/warreth-2020-all-ceramic-restorations-review]] | narrative-review | 세라믹 분류·적응증 정리 |
-| [[dental-materials/ban-2023-dental-zirconia-types-development-review]] | narrative-review | 3Y vs 4Y vs 5Y vs UHTZ. 투명도·강도 trade-off |
+| [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] | narrative-review | 3Y vs 4Y vs 5Y vs UHTZ. 투명도·강도 trade-off |
 
 **임상 ladder**:
 1. 전치부 단관 (심미 우선) → 리튬 디실리케이트 또는 4Y-PSZ.
@@ -113,7 +113,7 @@ relations:
 
 **오판 패턴**: "지르코니아는 강해서 두께 무관" — Ali 2023 SR+MA에서 두께 < 1mm가 파절 주 원인. [근거강함]
 
-**보강 근거 — 대합치 법랑질 마모.** Monolithic 지르코니아 단관의 임상 trade-off 중 하나는 대합치 마모다. 핵심 결론은 일관된다 — **잘 폴리싱된 지르코니아가 글레이즈된 것보다 대합치 마모가 적고**, 장석질 도재보다도 유리하다([[dental-materials/janyavula-2013-wear-polished-glazed-zirconia-enamel]], [[dental-materials/lawson-2014-wear-enamel-zirconia-lithium-disilicate]], [[dental-materials/park-2014-antagonist-wear-cad-cam-zirconia-enamel]], [[dental-materials/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]], [[dental-materials/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]], [[dental-materials/tachibana-2021-polishing-zirconia-antagonist-wear]], [[dental-materials/miyazaki-2013-current-status-zirconia-restoration-review]]). 인레이/엔도크라운 형태에서도 같은 폴리싱-우선 원칙이 적용된다([[dental-materials/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]], [[dental-materials/bomicke-2025-3ytzp-inlay-enamel-wear-5year]], [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]]). 신소재로 3D 프린팅 하이브리드 + 플라즈마 본딩이 등장하고 있다([[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]]). → **임상 함의**: 교합 조정 후 반드시 재폴리싱(글레이즈 재도포보다 우선). [근거강함]
+**보강 근거 — 대합치 법랑질 마모.** Monolithic 지르코니아 단관의 임상 trade-off 중 하나는 대합치 마모다. 핵심 결론은 일관된다 — **잘 폴리싱된 지르코니아가 글레이즈된 것보다 대합치 마모가 적고**, 장석질 도재보다도 유리하다([[dental-materials/zirconia/janyavula-2013-wear-polished-glazed-zirconia-enamel]], [[dental-materials/zirconia/lawson-2014-wear-enamel-zirconia-lithium-disilicate]], [[dental-materials/zirconia/park-2014-antagonist-wear-cad-cam-zirconia-enamel]], [[dental-materials/zirconia/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]], [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]], [[dental-materials/zirconia/tachibana-2021-polishing-zirconia-antagonist-wear]], [[dental-materials/zirconia/miyazaki-2013-current-status-zirconia-restoration-review]]). 인레이/엔도크라운 형태에서도 같은 폴리싱-우선 원칙이 적용된다([[dental-materials/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]], [[dental-materials/bomicke-2025-3ytzp-inlay-enamel-wear-5year]], [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]]). 신소재로 3D 프린팅 하이브리드 + 플라즈마 본딩이 등장하고 있다([[dental-materials/el-shazly-2026-3d-printed-hybrid-plasma-bonding]]). → **임상 함의**: 교합 조정 후 반드시 재폴리싱(글레이즈 재도포보다 우선). [근거강함]
 
 ### 축 3 — 아말감 vs 복합레진 후방부 수복
 
@@ -141,10 +141,10 @@ relations:
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] | in-vitro (n=180, 10,000 TC) | SARC SBS: TheraCem > Clearfil SA > RelyX U200 |
-| [[dental-materials/shokry-2022-zirconia-crown-primer-cement-retention]] | in-vitro | Panavia V5 + Clearfil Ceramic Primer Plus 매칭 최우수 |
-| [[dental-materials/shely-2024-self-adhesive-cements-zirconia-lithium]] | in-vitro | 자가접착 ZLS 변연적합 — 3종 모두 임상 허용. 시멘트 종류 NS |
-| [[dental-materials/soleimani-2026-abutment-height-zirconia-retention]] | in-vitro | Abutment 높이-유지력 r=0.95. TheraCem > GI 전 높이. 짧은 abutment에서 격차↑ |
+| [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] | in-vitro (n=180, 10,000 TC) | SARC SBS: TheraCem > Clearfil SA > RelyX U200 |
+| [[dental-materials/zirconia/shokry-2022-zirconia-crown-primer-cement-retention]] | in-vitro | Panavia V5 + Clearfil Ceramic Primer Plus 매칭 최우수 |
+| [[dental-materials/zirconia/shely-2024-self-adhesive-cements-zirconia-lithium]] | in-vitro | 자가접착 ZLS 변연적합 — 3종 모두 임상 허용. 시멘트 종류 NS |
+| [[dental-materials/zirconia/soleimani-2026-abutment-height-zirconia-retention]] | in-vitro | Abutment 높이-유지력 r=0.95. TheraCem > GI 전 높이. 짧은 abutment에서 격차↑ |
 
 **임상 ladder**:
 1. 표준 단관 (abutment ≥ 4mm, 일반 retention) → 자가접착 TheraCem 또는 RelyX U200. 빠르고 step 적음.
@@ -167,32 +167,32 @@ relations:
 ### spine (본문 인용)
 
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — APC concept
-- [[dental-materials/silva-2022-zirconia-saliva-cleaning-sr-ma]] — 타액 오염 세정 SR+MA
-- [[dental-materials/genc-2025-cleaning-protocols-zirconia-bond-strength]] — 세정 6종 SBS
-- [[dental-materials/al-akhali-2025-zirconia-cleaning-bonding-duration]] — 장기 내구성
-- [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP 세정제 이중기능
-- [[dental-materials/comba-2021-chemical-bonding-cubic-zirconia]] — 5Y-PSZ MDP 반응성
-- [[dental-materials/opatragoon-2024-primer-applications-zirconia-bond]] — primer 1회 충분
-- [[dental-materials/lopes-2023-universal-adhesives-zirconia-long-term]] — 장기 65% 감소
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs PFM
+- [[dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma]] — 타액 오염 세정 SR+MA
+- [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] — 세정 6종 SBS
+- [[dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration]] — 장기 내구성
+- [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP 세정제 이중기능
+- [[dental-materials/zirconia/comba-2021-chemical-bonding-cubic-zirconia]] — 5Y-PSZ MDP 반응성
+- [[dental-materials/zirconia/opatragoon-2024-primer-applications-zirconia-bond]] — primer 1회 충분
+- [[dental-materials/zirconia/lopes-2023-universal-adhesives-zirconia-long-term]] — 장기 65% 감소
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM vs PFM
 - [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — LDS 생존
 - [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] — all-ceramic FDP
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — 파절 원인
-- [[dental-materials/lolos-2025-zirconia-restorations-5year-retrospective]] — 5y retrospective
-- [[dental-materials/ban-2023-dental-zirconia-types-development-review]] — 지르코니아 분류
+- [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — 5y retrospective
+- [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 지르코니아 분류
 - [[dental-materials/warreth-2020-all-ceramic-restorations-review]] — 세라믹 review
-- [[dental-materials/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — enamel wear SR+MA
-- [[dental-materials/shah-2024-enamel-wear-zirconia-umbrella-review]] — enamel wear umbrella
+- [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — enamel wear SR+MA
+- [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — enamel wear umbrella
 - [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] — 아말감 vs 레진 SR+MA
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — big data 비교
 - [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] — 후방부 수명 SR
 - [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — bioactive resin: QAM·NACP·금속산화물 나노구조, 이차우식 예방 전략 + 임상 번역 장벽
-- [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] — SARC 비교
-- [[dental-materials/shokry-2022-zirconia-crown-primer-cement-retention]] — Panavia+CCP 매칭
-- [[dental-materials/shely-2024-self-adhesive-cements-zirconia-lithium]] — SARC 변연적합
-- [[dental-materials/soleimani-2026-abutment-height-zirconia-retention]] — abutment 높이-유지력
-- [[dental-materials/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — 엔도크라운 wear 2y
-- [[dental-materials/miyazaki-2013-current-status-zirconia-restoration-review]] — 지르코니아 review
+- [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — SARC 비교
+- [[dental-materials/zirconia/shokry-2022-zirconia-crown-primer-cement-retention]] — Panavia+CCP 매칭
+- [[dental-materials/zirconia/shely-2024-self-adhesive-cements-zirconia-lithium]] — SARC 변연적합
+- [[dental-materials/zirconia/soleimani-2026-abutment-height-zirconia-retention]] — abutment 높이-유지력
+- [[dental-materials/zirconia/badawy-2025-enamel-wear-zirconia-endocrowns-2year]] — 엔도크라운 wear 2y
+- [[dental-materials/zirconia/miyazaki-2013-current-status-zirconia-restoration-review]] — 지르코니아 review
 
 ### Related overviews / interactives
 
@@ -217,35 +217,35 @@ relations:
 ## Additional Spokes (2026-05-26 추가, sub-bucket 분류)
 
 **Zirconia cleaning / Saliva contamination — in vitro 데이터**:
-- [[dental-materials/atoche-socola-2021-cleaning-zirconia-microshear]]
-- [[dental-materials/hajjaj-2022-cleaning-methods-zirconia-sbs]]
-- [[dental-materials/kim-2015-cleaning-saliva-zirconia-resin-bonding]]
-- [[dental-materials/miyazaki-2015-saliva-zirconia-bond-contact-angle]]
-- [[dental-materials/negreiros-2017-cleaning-primer-zirconia-bond-water]]
-- [[dental-materials/sankar-2017-saliva-zirconia-sbs-resin-cements]]
-- [[dental-materials/takagaki-2018-saliva-zirconia-cleaning-agent]]
+- [[dental-materials/zirconia/atoche-socola-2021-cleaning-zirconia-microshear]]
+- [[dental-materials/zirconia/hajjaj-2022-cleaning-methods-zirconia-sbs]]
+- [[dental-materials/zirconia/kim-2015-cleaning-saliva-zirconia-resin-bonding]]
+- [[dental-materials/zirconia/miyazaki-2015-saliva-zirconia-bond-contact-angle]]
+- [[dental-materials/zirconia/negreiros-2017-cleaning-primer-zirconia-bond-water]]
+- [[dental-materials/zirconia/sankar-2017-saliva-zirconia-sbs-resin-cements]]
+- [[dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent]]
 - [[dental-materials/radhi-2023-lithium-disilicate-cleaning-resin-cement]] — LDS cleaning
 
 **Zirconia primers / Bonding — MDP·실란**:
-- [[dental-materials/jo-2018-liners-primers-zirconia-tensile-bond]]
-- [[dental-materials/sharafeddin-2018-mdp-primers-zirconia-bond]]
-- [[dental-materials/lee-2018-zirconia-primers-bracket-bonding]] — Bracket bonding
+- [[dental-materials/zirconia/jo-2018-liners-primers-zirconia-tensile-bond]]
+- [[dental-materials/zirconia/sharafeddin-2018-mdp-primers-zirconia-bond]]
+- [[dental-materials/zirconia/lee-2018-zirconia-primers-bracket-bonding]] — Bracket bonding
 
 **Zirconia surface treatment / Grinding / Heat / Conditioning**:
-- [[dental-materials/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]] — Grinding 원전
-- [[dental-materials/ramos-2016-grinding-heat-treatment-zirconia-flexural]]
-- [[dental-materials/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]]
-- [[dental-materials/steiner-2024-zirconia-conditioning-glazing-enamel-wear]]
-- [[dental-materials/oh-2016-zirconia-core-fitness-four-bur-types]] — Bur 종류 fitness
+- [[dental-materials/zirconia/kosmac-1999-grinding-sandblasting-flexural-strength-zirconia]] — Grinding 원전
+- [[dental-materials/zirconia/ramos-2016-grinding-heat-treatment-zirconia-flexural]]
+- [[dental-materials/zirconia/mohammadi-bassir-2017-grinding-overglazing-polishing-zirconia]]
+- [[dental-materials/zirconia/steiner-2024-zirconia-conditioning-glazing-enamel-wear]]
+- [[dental-materials/zirconia/oh-2016-zirconia-core-fitness-four-bur-types]] — Bur 종류 fitness
 - [[dental-materials/turker-2020-surface-treatments-cad-cam-resin]] — CAD/CAM resin
 
 **Enamel wear — 대합치 마모 in vitro/in vivo**:
-- [[dental-materials/janyavula-2013-wear-polished-glazed-zirconia-enamel]]
-- [[dental-materials/lawson-2014-wear-enamel-zirconia-lithium-disilicate]]
-- [[dental-materials/park-2014-antagonist-wear-cad-cam-zirconia-enamel]]
-- [[dental-materials/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]]
-- [[dental-materials/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]]
-- [[dental-materials/tachibana-2021-polishing-zirconia-antagonist-wear]]
+- [[dental-materials/zirconia/janyavula-2013-wear-polished-glazed-zirconia-enamel]]
+- [[dental-materials/zirconia/lawson-2014-wear-enamel-zirconia-lithium-disilicate]]
+- [[dental-materials/zirconia/park-2014-antagonist-wear-cad-cam-zirconia-enamel]]
+- [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]]
+- [[dental-materials/zirconia/stawarczyk-2013-two-body-wear-monolithic-veneered-zirconia]]
+- [[dental-materials/zirconia/tachibana-2021-polishing-zirconia-antagonist-wear]]
 
 **Misc — Impression, 3D print, hybrid**:
 - [[dental-materials/huettig-2021-flowability-tear-strength-dental-impression]] — Impression material

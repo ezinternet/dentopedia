@@ -59,4 +59,4 @@ Clinically: 10-MDP alone (whatever the delivery vehicle) is not enough to mainta
 
 - [[resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] — NMR study of the 10-MDP–zirconia chemical interaction (P–O–Zr bond); mechanistic basis for the durable bond this MA quantifies.
 - [[resin-bonding/li-2024-zirconia-surface-treatments-monomers-nma]] — network meta-analysis ranking zirconia surface treatments and monomers; convergent conclusion that combined treatment beats monomer alone (this page reinforces it).
-- [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-based cleaning agent restoring bond strength to contaminated zirconia; an adjacent clinical bonding-protocol step.
+- [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — MDP-based cleaning agent restoring bond strength to contaminated zirconia; an adjacent clinical bonding-protocol step.

@@ -62,5 +62,5 @@ Clinically: for luting zirconia restorations, use a 10-MDP-containing self-adhes
 
 ## Related Papers
 
-- [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] — reinforces; single-system evidence on self-adhesive resin cement performance on zirconia, consistent with this SR+MA's finding that self-adhesive cement is a top-tier class for zirconia luting.
+- [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — reinforces; single-system evidence on self-adhesive resin cement performance on zirconia, consistent with this SR+MA's finding that self-adhesive cement is a top-tier class for zirconia luting.
 - [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — microshear study of MDP/CAF priming with self-adhesive resin cement; supports the 10-MDP chemical-bonding mechanism this meta-analysis credits for the self-adhesive/self-etch advantage.

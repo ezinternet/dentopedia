@@ -34,5 +34,5 @@ In vitro study comparing six dual-cure resin cements under two curing modes (lig
 | Storage time | p=0.000, F=97.9 | Aging degrades all |
 
 ## Related Papers
-- [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] — TheraCem on zirconia
+- [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — TheraCem on zirconia
 - [[resin-bonding/tavangar-2022-calcium-silicate-cement-caries-dentin]] — TheraCem on caries-affected dentin

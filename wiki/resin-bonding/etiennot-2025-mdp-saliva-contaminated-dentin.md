@@ -54,6 +54,6 @@ In vitro µTBS study from KU Leuven BIOMAT (Van Meerbeek group). Two Kuraray adh
 ## Related Papers
 - [[resin-bonding/hardan-2021-universal-adhesive-dentin-bond-sr-ma]] — broader universal adhesive bond improvement strategies
 - [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — 10-MDP role in modern adhesives
-- [[dental-materials/awad-2022-mdp-cleaner-contaminated-zirconia]] — same Katana Cleaner concept applied to zirconia decontamination
-- [[dental-materials/genc-2025-cleaning-protocols-zirconia-bond-strength]] — zirconia cleaning protocols
+- [[dental-materials/zirconia/awad-2022-mdp-cleaner-contaminated-zirconia]] — same Katana Cleaner concept applied to zirconia decontamination
+- [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] — zirconia cleaning protocols
 - [[resin-bonding/daneshkazemi-2013-clearfil-se-bond-mechanical-thermal]] — CSE Bond mechanical/thermal characterization

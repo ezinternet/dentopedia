@@ -53,5 +53,5 @@ Narrative SR of 68 articles (1991–2023) providing resin cement selection crite
 ## Related Papers
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] — adhesive resin cement use in full-ceramic RBFDPs
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — ZLS ceramic cementation procedures
-- [[dental-materials/kwon-2026-self-adhesive-resin-cement-zirconia]] — self-adhesive resin cement to zirconia
+- [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — self-adhesive resin cement to zirconia
 - [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — screw vs cement crown decisions

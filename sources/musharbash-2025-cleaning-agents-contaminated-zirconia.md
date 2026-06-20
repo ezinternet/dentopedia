@@ -14,7 +14,7 @@ text_filename: musharbash-2025-cleaning-agents-contaminated-zirconia.txt
 
 ## Why Ingested
 
-Direct head-to-head in-vitro comparison of the three main commercial saliva-decontamination cleaners (Ivoclean, Katana Cleaner, Zirclean) against air-particle abrasion on KATANA STML zirconia, with thermocycling. Reinforces the pooled finding in [[dental-materials/silva-2022-zirconia-saliva-cleaning-sr-ma]] that dedicated cleaning restores bond to saliva-contaminated zirconia, and adds a single-bench comparator to [[dental-materials/genc-2025-cleaning-protocols-zirconia-bond-strength]] showing mechanical re-abrasion still tops chemical cleaners.
+Direct head-to-head in-vitro comparison of the three main commercial saliva-decontamination cleaners (Ivoclean, Katana Cleaner, Zirclean) against air-particle abrasion on KATANA STML zirconia, with thermocycling. Reinforces the pooled finding in [[dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma]] that dedicated cleaning restores bond to saliva-contaminated zirconia, and adds a single-bench comparator to [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] showing mechanical re-abrasion still tops chemical cleaners.
 
 ## One-line Summary
 

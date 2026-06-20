@@ -64,6 +64,6 @@ Comprehensive literature review of Zirconia-Reinforced Lithium Silicate (ZLS) ce
 ## Related Papers
 - [[dental-materials/almashaan-2023-lithium-disilicate-survival-sr]] — lithium disilicate survival
 - [[prosthetic-materials/laumacher-2025-lithium-disilicate-single-crowns-overview-sr]] — lithium disilicate single crown overview
-- [[dental-materials/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM zirconia vs lithium disilicate
+- [[dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma]] — CAD/CAM zirconia vs lithium disilicate
 - [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — resin cement selection
 - [[inlay/behera-2021-lithium-disilicate-vs-zirconia-inlays-1year]] — lithium disilicate vs zirconia inlay

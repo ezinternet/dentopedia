@@ -231,12 +231,12 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 ## Related Papers
 
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — dental ceramic classification (composition × fabrication), strength hierarchy, clinical indication mapping
-- [[dental-materials/chopra-2024-mechanical-characteristics-zirconia-dentistry]] — mechanical property deep-dive: transformation toughening, LTD mechanism, fatigue, surface modification
-- [[dental-materials/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — CAD/CAM milling defects vs. intrinsic blank flaws as fracture origins; polishing paradox; Weibull analysis
-- [[dental-materials/cesar-2024-dental-zirconia-15years-material-processing]] — definitive generational taxonomy (3Y → 5Y → multilayer); powder technology; sintering; alumina/yttria trade-off
-- [[dental-materials/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — SR, 35 studies, n=5,275: veneered zirconia vs. metal-ceramic implant-supported crowns, 5-year survival and complication rates
-- [[dental-materials/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — SR+MA, 9 studies, n=1,657: first meta-analysis specifically on monolithic zirconia single crowns; bruxism risk; short follow-up caveat
-- [[dental-materials/koenig-2021-ltd-monolithic-zirconia-prospective]] — first prospective clinical LTD documentation, 2-year: onset at 6 months, two LTD mechanisms, glazing non-protective
-- [[dental-materials/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — 5-year prospective LTD follow-up: significant progression, nanoparticle concern, 4.5% fracture rate
+- [[dental-materials/zirconia/chopra-2024-mechanical-characteristics-zirconia-dentistry]] — mechanical property deep-dive: transformation toughening, LTD mechanism, fatigue, surface modification
+- [[dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam]] — CAD/CAM milling defects vs. intrinsic blank flaws as fracture origins; polishing paradox; Weibull analysis
+- [[dental-materials/zirconia/cesar-2024-dental-zirconia-15years-material-processing]] — definitive generational taxonomy (3Y → 5Y → multilayer); powder technology; sintering; alumina/yttria trade-off
+- [[dental-materials/zirconia/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr]] — SR, 35 studies, n=5,275: veneered zirconia vs. metal-ceramic implant-supported crowns, 5-year survival and complication rates
+- [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — SR+MA, 9 studies, n=1,657: first meta-analysis specifically on monolithic zirconia single crowns; bruxism risk; short follow-up caveat
+- [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]] — first prospective clinical LTD documentation, 2-year: onset at 6 months, two LTD mechanisms, glazing non-protective
+- [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — 5-year prospective LTD follow-up: significant progression, nanoparticle concern, 4.5% fracture rate
 - [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral ceramic repair protocol by substrate; two-substrate protocol for veneered zirconia; bond strength as critical determinant
 - [[overviews/zirconia-implant-clinical-outcomes]] — complementary overview: zirconia implant (not prosthetic material) survival, marginal bone loss, and patient-reported outcomes
