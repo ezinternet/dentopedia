@@ -5,7 +5,7 @@ year: 2024
 date: 2024-12-16
 doi: 10.1016/j.jebdp.2024.102081
 source: baneshi-2024-clear-aligners-malocclusion-sr-ma.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: false
@@ -51,6 +51,6 @@ SR+MA, RCTs only. Six databases to Oct 2024; RoB 2; RevMan 5.4. 600 records -> 2
 
 ## Related Papers
 
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella synthesis (reinforces)
-- [[orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal outcome, more cautious (refines)
-- [[orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — complex/extraction gap (extends)
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella synthesis (reinforces)
+- [[orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal outcome, more cautious (refines)
+- [[orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — complex/extraction gap (extends)
