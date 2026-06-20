@@ -1,0 +1,26 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC). PMID 41631460]
+
+TITLE: Periodontal and restorative outcomes of cervical margin relocation: a systematic review and meta-analysis.
+
+AUTHORS: Sally Abd-Elmeniem ElHaddad, Ali Robaian, Moayad Waleed Alturki, Rasha Alharthi, Abdulrahman Mohammed Aldusaymani, Yazeed Abdulhadi Alarjani, Abrar Almutairi, Hend Mohamed Elsayed
+
+JOURNAL: Quintessence International (Berlin, Germany : 1985). 2026 Apr 29;57(4):298-315.
+
+DOI: 10.3290/j.qi.b6881272
+
+PMID: 41631460
+
+ARTICLE TYPES: Journal Article; Systematic Review; Meta-Analysis
+
+KEYWORDS: cervical margin relocation; deep margin relocation; margin elevation technique; marginal adaptation; proximal box elevation
+
+MeSH: Humans; Dental Restoration, Permanent; Dental Marginal Adaptation; Composite Resins; Tooth Cervix
+
+ABSTRACT:
+Cervical margin relocation (CMR) is a minimally invasive pre-restorative technique in which a resin composite base is used to elevate deep interproximal margins prior to placement of direct or indirect restorations, thereby improving marginal integrity and facilitating restorative procedures. This study aimed to evaluate periodontal outcomes-specifically probing depth (PD) and bleeding on probing (BOP)-as well as restorative outcomes associated with CMR.
+
+A systematic review was conducted in accordance with PRISMA guidelines. Electronic databases, including PubMed, Scopus, Google Scholar, and Web of Science, were searched using keywords such as 'cervical margin relocation,' 'deep margin elevation,' and 'proximal box elevation.' Meta-analyses were performed for PD and BOP, and heterogeneity was assessed using the I2 statistic.
+
+CMR did not adversely affect periodontal outcomes in periodontally healthy or stabilized patients. Sensitivity analysis demonstrated a significant reduction in PD (MD -0.96 mm; 95% CI -1.50 to -0.42; I2 = 0%). For BOP, the pooled analysis showed a significant reduction (MD -0.52; 95% CI -0.77 to -0.27) with moderate heterogeneity (I2 = 27%). After exclusion of a clinically divergent study, the effect estimate became more pronounced with elimination of heterogeneity (I2 = 0%). These findings support the periodontal compatibility of well-executed CMR procedures. Marginal adaptation was influenced by multiple factors, including bonding strategy and restorative material, with adhesively bonded restorations-particularly glass-ceramics-demonstrating superior marginal integrity under controlled conditions. Composite margin elevation was associated with effective management of deep proximal cavities restored with ceramic onlays and with favorable periodontal outcomes.
+
+CMR is an effective approach for managing subgingival margins and is compatible with periodontal health when appropriate materials and techniques are employed. Material selection and bonding strategy significantly influence marginal adaptation, and long-term follow-up is essential to evaluate the durability of restorations, providing valuable implications for clinical practice.
