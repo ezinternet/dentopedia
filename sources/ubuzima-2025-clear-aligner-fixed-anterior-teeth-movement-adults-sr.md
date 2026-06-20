@@ -3,7 +3,7 @@ title: "Comparative effectiveness of clear aligners and fixed appliances in orth
 authors: Ubuzima P, Nshimiyimana E, Michelogiannakis D, Mukeshimana C, Mazimpaka P, Habumugisha J, Turkkahraman H, Kamioka H
 year: 2025
 doi: 10.1016/j.ortho.2025.101084
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: false
 pmid: "41172597"
@@ -14,7 +14,7 @@ text_filename: ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-s
 
 ## Why Ingested
 
-`clear-aligner` sweep efficacy 축에서 **anterior-tooth movement type별 분해 근거**. umbrella [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 가 narrative로 주장하는 "CA는 rotation·torque control에서 FA보다 열등" 결론을 movement type별 study-tally로 직접 substantiate (torque better with FA in 1 study; vertical movement inconsistent). paywall이라 abstract-only.
+`clear-aligner` sweep efficacy 축에서 **anterior-tooth movement type별 분해 근거**. umbrella [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] 가 narrative로 주장하는 "CA는 rotation·torque control에서 FA보다 열등" 결론을 movement type별 study-tally로 직접 substantiate (torque better with FA in 1 study; vertical movement inconsistent). paywall이라 abstract-only.
 
 ## One-line Summary
 
@@ -59,9 +59,9 @@ PubMed, Cochrane Library, Science Direct, Web of Science, Scopus, Google Scholar
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella review; this SR substantiates its rotation/torque inferiority claim.
-- [[wiki/orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — CA vs FA inclination/contacts in complex/extraction cases.
-- [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only CA vs FA efficacy (occlusal equivalence + periodontal advantage).
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella review; this SR substantiates its rotation/torque inferiority claim.
+- [[wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — CA vs FA inclination/contacts in complex/extraction cases.
+- [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only CA vs FA efficacy (occlusal equivalence + periodontal advantage).
 
 ## 7. Glossary
 
