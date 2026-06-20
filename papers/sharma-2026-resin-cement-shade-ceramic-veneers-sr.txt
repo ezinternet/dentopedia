@@ -1,0 +1,22 @@
+Influence of resin cement shade on esthetic outcomes in ceramic veneers: a systematic review
+
+Authors: Sharma S, Kumar A, Rajagopal S, Venkataiah VS (Saveetha Dental College; Ajman University)
+Journal: Frontiers in Dental Medicine 2026;7:1789416
+PMID 42318568 | PMCID PMC13272459 | DOI 10.3389/fdmed.2026.1789416
+PROSPERO CRD42023450540. Source: PMC open-access full text.
+
+AIM: Evaluate the influence of resin cement formulation and shade on the final color of cemented ceramic laminate veneers (in-vitro evidence).
+
+METHODS: PRISMA 2020 + Cochrane Handbook. Search PubMed/Web of Science/ProQuest/Google Scholar to March 2023. Included in-vitro studies of resin-based luting agents on ceramic laminate veneers using objective color measurement (CIE L*a*b*, spectrophotometry). Excluded full-coverage restorations and subjective shade assessment. Risk of bias: QUIN tool (lab-study-specific). 229 records → 10 studies included. No meta-analysis (substantial heterogeneity in cement systems, ceramics, thickness, aging, ΔE method) → qualitative synthesis.
+
+KEY RESULTS:
+- 10 in-vitro studies (2011–2021), sample sizes 10–392 specimens; ceramics feldspathic/IPS Empress/e.max HT & LT/ZLS/LDS; cements RelyX, VarioLink, Panavia, Maxcem, eCement, Choice 2.
+- White opaque (WO) and high-chroma/high-value resin cements consistently produced the greatest color change (ΔE often > 3.3, the clinical acceptability threshold), especially with thin or high-translucency veneers. Translucent and low-chroma cements gave more esthetically favorable outcomes (ΔE typically < 3.3).
+- Veneer thickness is a key modulator: thinner veneers (0.3–0.5 mm) amplify cement-shade influence vs ≥1.0 mm; high-translucency ceramics transmit more light, accentuating cement shade.
+- Cement–substrate interaction: opaque/high-value cements raise ΔE most over light backgrounds (Jankar, Chen, Yildirim).
+- Artificial aging: significant discoloration over time — Hoorizad reported VarioLink ΔE = 10.4 after aging vs ceramic-alone ΔE = 0.9 → long-term color-stability concern.
+- Try-in pastes unreliable: Aldahlawi found marked ΔE (0.32–11.49) between try-in pastes and cured final cements → curing changes refractive index/polymer matrix.
+- ΔE ranges by study: up to ~3.0 (Alqahtani), 1.37–2.11 (Lee), <3.3 to >4.0 (Xing), 1.93–3.04 (Hernandes), 0.9–10.4 (Hoorizad aging), 1.6–3.4 (Turgut), up to 7.16 (Chen).
+- Risk of bias: 3 studies low, rest moderate; common gaps = no sample-size justification, no examiner blinding. Most used ΔE*ab; none consistently used ΔE00.
+
+CONCLUSION: Resin cement shade and translucency significantly affect the final color of ceramic laminate veneers — the cement is an active optical component, not a passive luting medium. Effects are pronounced in ultrathin/high-translucency anterior restorations. Clinicians should select cement based on the actual cement (not just try-in paste), veneer thickness/translucency, and substrate shade. Evidence is in-vitro/moderate quality — clinical trials and standardized cementation/ΔE protocols are needed.
