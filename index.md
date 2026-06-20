@@ -1047,6 +1047,8 @@ tags: []
 - [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — 후향적코호트(n=98, 골다공증+발치): MRONJ 4.1%; denosumab 단독 vs BP+Dmab 유의차 없음; 류마티스관절염 유일한 유의 위험인자(OR 35.4); 발치 없이도 치주염에서 MRONJ 발생
 - [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 컨센서스: MRONJ 정의·병기 2014 동일; romosozumab 추가; drug holiday 권고 없이 논쟁 중; CTX 더 이상 권장 안 함; denosumab 중단 timing 가이드
 - [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 후향적코호트(n=324, 유방암 골전이): MRONJ 31.2%; ROC 누적 32회 임계치(AUC 0.83); 발치력 OR 4.40; 매 추가 투여당 MRONJ 오즈 4.7% 증가
+- [[drug/mronj/kim-2025-medication-related-osteonecrosis-jaw-evidence]] — 한국 5개 학회 공동 2025 MRONJ 포지션 스테이트먼트: 약제별 예방적 drug holiday (oral BP 2개월·IV zoledronate 6-12개월·Dmab 수술 3-4개월 전), 전 병기 적극 수술, CTX 비권장, teriparatide 근거 최강 (JKAOMS 2025)
+- [[drug/mronj/cho-2026-clinical-characteristics-osteonecrosis-jaw-related]] — 5년 후향 코호트(n=178 DRONJ, KNUDH 2019-2024): Xgeva 치료 성공 53.8% vs Prolia 85.0%(p=0.027); 고용량 Dmab만 독립 예측인자(OR 5.13); BP→Prolia 전환은 발생 앞당기되 예후 불변 (JKAOMS 2026)
 - [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — SR(8편, 445 임플란트): 항흡수제 시작 후 임플란트 실패율 23%; 실패의 83%가 MRONJ; 평균 잠복기 34개월; 하악 구치부 65%
 - [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — 약동학 교차시험 (건강 지원자): 이부프로펜을 아스피린 앞에 복용 시 혈소판 COX-1 아세틸화 차단; 아스피린 先복용·로페콕시브·디클로페낙·아세트아미노펜은 무간섭 (NEJM 2001)
 - [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 인비트로: 메타미졸(디피론) 활성대사체 MAA가 COX-1 Ser-530 수소결합 → 아스피린 아세틸화 차단; 피라졸리논 계열 전체 동일 기전 (J Thromb Haemost 2008)

@@ -1,0 +1,44 @@
+Title: Medication-related osteonecrosis of the jaw: an evidence-based 2025 position statement from a Korean multidisciplinary task force
+Authors: Jin-Woo Kim et al.; The Committee for the Korean Position Paper on Medication-Related Osteonecrosis of the Jaw
+Journal: J Korean Assoc Oral Maxillofac Surg (JKAOMS)
+Year: 2025
+Volume/Issue: 51(6):333-353
+DOI: 10.5125/jkaoms.2025.51.6.333
+PMID: 41466542
+Published: 2025-12-31
+Societies: Korean Society for Bone and Mineral Research, Korean Association of Oral and Maxillofacial Surgeons, Korean Association of Maxillofacial Plastic and Reconstructive Surgeons, Korean Society of Osteoporosis, Korean Endocrine Society
+Source URL: https://www.jkaoms.org/journal/view.html?doi=10.5125%2Fjkaoms.2025.51.6.333
+
+ABSTRACT:
+With a rapidly aging population and increasing use of antiresorptive agents, medication-related osteonecrosis of the jaw (MRONJ) represents a growing clinical challenge worldwide. To address the need for tailored clinical guidance, a multidisciplinary task force was convened. Five Korean academic societies collaborated to develop this position statement. The consensus was formulated through comprehensive reviews of literature, combined with three rounds of formal surveys to consolidate expert opinion on controversial topics. This position paper provides evidence-based clinical guidelines for the prevention, diagnosis, and management of MRONJ tailored to the Korean healthcare environment. The diagnostic criteria affirm the standard definition but add a provision for diagnosis based on clinical or radiographic evidence of necrotic bone, even if the traditional 8-week timeframe has not been met. The committee advocates for retaining Stage 0 in the staging system to emphasize early detection and preventive intervention. Key recommendations include prescriptive, drug-specific guidelines for prophylactic drug holidays (e.g., a 2-month pause for oral bisphosphonates; timing surgery 3-4 months after the last denosumab injection) to minimize MRONJ risk from dental procedures. This statement also provides a clear framework for therapeutic drug holidays in established MRONJ, carefully balancing the need for jaw healing against systemic fracture risk. For treatment, this statement advocates for early and active surgical intervention across all MRONJ stages, supported by evidence of superior long-term outcomes compared to conservative management. This position statement offers a unique, evidence-based Korean clinical practice guideline for managing MRONJ.
+
+EPIDEMIOLOGY (Korean data):
+- Osteoporosis BP patients: prevalence 0.01-0.10%; incidence 10-45.06 per 100,000 person-years
+- Korean nationwide cohort (600,000 BP patients): 254 MRONJ cases = 0.04%
+- Oral BPs: prevalence 0.10%, incidence 36.6/100,000 person-years
+- IV BPs (osteoporosis): prevalence 0.06-0.13%
+- Zoledronate (HORIZON-PFT): <8 per 100,000 person-years
+- Denosumab (osteoporosis): prevalence 0-0.18%
+- FREEDOM-extension 10yr: 0.3% (5.2 per 10,000 patient-years)
+- AAOMS 2022 states denosumab cumulative incidence ~0.3%, ~10x higher than BPs
+- Cancer/bone metastases (zoledronate): 0.7-4.0%
+- Cancer (denosumab 120mg): 0.8-2.0%; real-world with biologics 5-12.6%
+- BP→Dmab switch: significantly higher risk vs monotherapy
+
+DRUG HOLIDAY RECOMMENDATIONS:
+- Alendronate/risedronate/ibandronate (oral): 2-month drug holiday if prolonged therapy or significant risk factors. Low-risk/short exposure: no alteration.
+- IV Zoledronic acid: 6-12 month holiday before elective invasive dental procedure. Korean cohort: risk begins declining ~90 days after ibandronate; after zoledronate, not until 6 months, significant only >=1 year.
+- Denosumab: Schedule invasive procedure 3-4 months after last dose. Do not resume 6-8 weeks post-op. High fracture risk: consider interim SERM (raloxifene).
+- Evidence base: SR (2022) RR 0.73 (95% CI 0.51-1.06), not statistically significant for drug holiday efficacy.
+- Post-intervention resumption delay: ~6-8 weeks.
+
+TREATMENT:
+- Stage 0 retained (Korean position)
+- Early surgical intervention for ALL stages including Stage 1
+- Among 92 Stage 1 lesions managed conservatively: 91.3% still had exposed bone, many progressed
+- Surgical success 60-90%; conservative complete healing 0-54%
+- Teriparatide: most robust evidence (RCT: 6-month teriparatide 20 ug + surgery promoted resolution)
+- PDRN: preliminary studies promising
+- Therapeutic drug holiday meta-analysis (13 studies): complete cure 85% with holiday vs 56.4% without
+- CTX: NOT recommended for risk assessment (large-scale studies/meta-analyses show not reliable predictor)
+- Pre-treatment dental evaluation: reduces MRONJ by 77.3% in cancer patients (meta-analysis)
