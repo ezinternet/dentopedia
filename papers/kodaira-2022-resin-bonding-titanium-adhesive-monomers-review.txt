@@ -1,0 +1,13 @@
+Bonding of resin luting materials to titanium and titanium alloy.
+
+Authors: Kodaira A, Koizumi H, Hiraba H, Takeuchi Y, Koike M, Shimoe S
+Journal: J Oral Sci 2022;64(3):181-184
+PMID 35584941 | DOI 10.2334/josnusd.22-0036
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Recently in Japan, due to increased prices of palladium and gold, cast titanium restorations have been included in the Japanese national health insurance system. The purpose of this review was to survey the literature on titanium bonding systems, focusing on the adhesive monomer in the luting agent, to expand the application of resin-bonded fixed prostheses made of titanium or titanium alloys.
+
+It was found that adhesive monomers are effective for bonding to titanium, and provide results equal to the procedures of silanization and tribochemical silica coating. A primer or luting agent including 10-methacryloyloxydecyl dihydrogen phosphate (MDP), methacryloyloxyalkyl thiophosphate derivative (MEPS), 6-methacryloxyhexyl phosphonoacetate (6-MHPA), and 4-methacryloyloxyethyl trimellitate anhydride (4-META) promotes bonding characteristics between titanium and the resin material.
+
+(Significance: extends MDP's chemical-bonding role from tooth/zirconia to titanium — phosphate/phosphonate/carboxylate functional monomers can replace or complement mechanical/silica-coating surface treatments for resin-to-titanium bonding.)
