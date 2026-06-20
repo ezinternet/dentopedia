@@ -119,6 +119,7 @@ source_wiki:
 
 ## Related overviews
 
+- [[overviews/resin-dentin-bond-durability-degradation-overview]] — 레진-상아질 결합 내구성·열화 기전 (이 "어떤 접착" 전략의 "왜 오래가나" 짝)
 - [[overviews/direct-resin-restoration-adhesion-placement-overview]] — 직접 레진 접착 통합
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (간접수복 전처리 deep-dive)
 - [[overviews/lithium-disilicate-inlay-onlay-evidence]] — 간접 LiDiSi 접착
