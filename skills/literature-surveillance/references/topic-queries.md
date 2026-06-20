@@ -88,4 +88,10 @@ C자형 근관(주로 하악 제2대구치) 해부·치료. niche — RCT/SR/MA 
 ```
 ("primary teeth"[tiab] OR "primary molar"[tiab] OR "primary molars"[tiab] OR "deciduous teeth"[tiab] OR pulpotomy[tiab] OR "Hall technique"[tiab] OR "stainless steel crown"[tiab] OR "paediatric dentistry"[tiab] OR "pediatric dentistry"[tiab])
 ```
-소아치과 — 매우 광범위(RCT/SR/MA 전 기간 ~1570건). 핵심 임상어(유치·pulpotomy·Hall·SSC)로 좁혀도 물량 많음 → 최신순 triage 후 OA·고가치만 ingest. 의과 소아 범람 방지 위해 치과어 phrase 사용. ingest는 material/category에 맞춰 분산(예: HVGIC RCT→glass-ionomer, pulpotomy→endodontics/vpt, MIH→caries). 시드 sweep(2026/06/20): 7건 적립, ali-eldin-2026(giomer vs HVGIC 유구치 RCT)→glass-ionomer ingest.
+소아치과 — 매우 광범위(RCT/SR/MA 전 기간 ~1570건). 핵심 임상어(유치·pulpotomy·Hall·SSC)로 좁혀도 물량 많음 → 최신순 triage 후 OA·고가치만 ingest. 의과 소아 범람 방지 위해 치과어 phrase 사용. ingest는 material/category에 맞춰 분산(예: HVGIC RCT→glass-ionomer, pulpotomy→endodontics/vpt, MIH→caries). 시드 sweep(2026/06/20): 7건 적립, ali-eldin-2026(giomer vs HVGIC 유구치 RCT)→glass-ionomer ingest. 하위 세분 토픽: `primary-pulpotomy-ssc`.
+
+### primary-pulpotomy-ssc
+```
+(pulpotomy[tiab] OR "stainless steel crown"[tiab] OR "stainless steel crowns"[tiab] OR "preformed metal crown"[tiab] OR "preformed metal crowns"[tiab] OR "Hall technique"[tiab] OR "preformed crown"[tiab] OR "preformed crowns"[tiab]) AND ("primary tooth"[tiab] OR "primary teeth"[tiab] OR "primary molar"[tiab] OR "primary molars"[tiab] OR deciduous[tiab] OR "primary dentition"[tiab] OR pediatric[tiab] OR paediatric[tiab])
+```
+pediatric-dentistry의 세분 — 유치 펄포토미 + SSC/Hall technique. RCT/SR/MA 전 기간 ~302건(활발). ingest 분산: Hall/SSC→`caries`, pulpotomy→`endodontics/vpt`. 시드 sweep(2026/06/20): 7건 적립, konukman-turker-2026(Hall vs modified HT RCT, OA:PMC)→caries · chawla-2026(펄포토미 vs 펄펙토미 SR+MA, abstract-only)→endodontics/vpt ingest. 1건 screened-seen(41317129 neuromodulation MIH 마취, 토픽 외).
