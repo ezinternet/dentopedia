@@ -7,12 +7,9 @@ doi: 10.4103/ijdr.ijdr_682_24
 source: tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.md
 category: [endodontics/anatomy]
 confidence: sr+ma
-source_collection: pubmed-text
-full_text: false
-pmid: "41042605"
-source_url: https://doi.org/10.4103/ijdr.ijdr_682_24
-text_path: /Users/oracleneo/llm-wiki/papers/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.txt
-text_filename: tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.pdf
+pdf_filename: tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma.pdf
+source_collection: external
 tags: [c-shaped-canal, mandibular-premolar, canal-morphology, prevalence, meta-analysis]
 relations:
   - type: reinforces
@@ -21,41 +18,69 @@ relations:
 
 ## One-line Summary
 
-SR+MA (5 databases, random-effects) of C-shaped canal prevalence in adult mandibular second premolars: pooled 1.31% participant-level (95% CI 0.68–2.53) and 0.96% tooth-level (95% CI 0.46–2.00), high heterogeneity (I²=90–93%); highest in South America (5.83%), lowest in Australia (0.42%). Abstract-only.
+SR+MA (17 CBCT studies, 7,047 participants, 12,523 teeth; random-effects) of C-shaped canal prevalence in adult mandibular second premolars: pooled 1.31% participant-level (95% CI 0.68–2.53) and 0.96% tooth-level (95% CI 0.46–2.00), high heterogeneity (I²=90–93%); highest in South America (5.83%), lowest in Australia (0.42%).
 
 ## 한줄요약
 
-성인 하악 제2소구치의 C자형 근관(C-shaped canal) 유병률 SR+MA(5개 DB, 랜덤효과): 환자 기준 1.31%(95% CI 0.68–2.53), 치아 기준 0.96%(95% CI 0.46–2.00), 이질성 높음(I²=90–93%), 남미 최고(5.83%)·호주 최저(0.42%). 초록만 확보.
+성인 하악 제2소구치의 C자형 근관(C-shaped canal) 유병률 SR+MA(17개 CBCT 연구, 7,047명, 12,523치아, 랜덤효과): 환자 기준 1.31%(95% CI 0.68–2.53), 치아 기준 0.96%(95% CI 0.46–2.00), 이질성 높음(I²=90–93%), 남미 최고(5.83%)·호주 최저(0.42%).
 
 ## Summary
 
-According to PubMed ([DOI 10.4103/ijdr.ijdr_682_24](https://doi.org/10.4103/ijdr.ijdr_682_24)), this PRISMA-guided systematic review and meta-analysis pooled the prevalence of C-shaped root canal anatomy in adult mandibular second premolars across five databases (PubMed, Web of Science, ScienceDirect, Scopus, Google Scholar) using a random-effects model. The pooled prevalence was **1.31%** at the participant level (95% CI 0.68–2.53) and **0.96%** at the tooth level (95% CI 0.46–2.00), both with substantial heterogeneity (I²=90% and 93%). Geographic subgroup analysis found the highest prevalence in South America (5.83%, very wide CI) and the lowest in Australia (0.42%).
+This PRISMA-guided SR+MA (PROSPERO CRD42024552310) from Kazakh National Medical University systematically assessed the prevalence of C-shaped canal anatomy in adult mandibular second premolars using CBCT-based primary studies. Across 17 studies (2012–2024) encompassing 7,047 participants and 12,523 teeth from five continents, the random-effects pooled prevalence was **1.31%** at the participant level and **0.96%** at the tooth level — confirming that C-shaped canals in mandibular second premolars are uncommon but not negligible (~1%). All included studies had CASP scores ≥9.5/11 (low individual risk of bias), but substantial heterogeneity (I²=90–93%) and confirmed publication bias (Egger's test P=0.0002 and P=0.0052) limit the precision of the pooled estimates.
 
-This page is **abstract-only** — the full text was not retrieved (no open-access copy), so the included-study count, PRISMA flow, risk of bias, and the complete subgroup table are not available; reported numbers are limited to the PubMed abstract.
+Geographic variation is clinically important: South America showed a markedly higher prevalence (4.60–5.83%, though with extremely wide CIs due to few studies) compared with Asia (~1%), Europe (~0.6–0.8%), and Australia (~0.4–0.7%). The authors propose that differences in ethnic composition, genetic predispositions, and CBCT protocol parameters (voxel size, FOV) drive heterogeneity and detection-rate variation across studies.
 
-Clinically: C-shaped canals in mandibular second premolars are uncommon (~1%) but not negligible, and the high heterogeneity plus regional variation (markedly higher in South American populations) mean clinicians should keep this configuration on the differential when treating second premolars — especially with preoperative CBCT in suspicious cases — rather than assuming the classic single-canal anatomy.
+Clinically, the ~1% overall rate means C-shaped canals in mandibular second premolars will arise in clinical practice and should remain on the differential, particularly in South American or Asian patient populations and whenever preoperative CBCT or periapical radiographs suggest a single rooted tooth with an unusual cross-section. CBCT before access preparation is advisable in suspicious cases.
 
 ## Key Contributions
 
-- First pooled population-level prevalence estimate for C-shaped canal anatomy specific to the **mandibular second premolar** (a tooth less classically associated with C-shaped canals than the mandibular second molar).
-- Reports both **participant-level (1.31%)** and **tooth-level (0.96%)** estimands, clarifying denominator dependence.
-- Quantifies **geographic variation**, supporting region-specific diagnostic vigilance.
+- First pooled population-level prevalence for C-shaped canals specifically in the **mandibular second premolar**, filling a gap left by SR+MAs focused on second molars.
+- Quantifies **two denominator-based estimands** (participant-level 1.31% vs tooth-level 0.96%), demonstrating denominator dependence and calling for standardised reporting across future studies.
+- Continental subgroup analysis showing South America as the outlier high-prevalence region (note: very wide CIs indicate sparse regional data) and Australia as the lowest-prevalence region.
+- Documents **publication bias** (Egger's P<0.01) — an important caveat for interpreting the pooled estimates.
+- Table of 17 individual studies with CBCT model, voxel size, FOV, participant/tooth n, and C-shaped count serves as a ready reference.
 
 ## Methodology
 
-- Design: PRISMA-guided SR + meta-analysis.
-- Databases (5): PubMed, Web of Science, ScienceDirect, Scopus, Google Scholar.
-- Eligible studies: cross-sectional, prospective, and observational studies on C-shaped canal prevalence in adult mandibular second premolars.
-- Synthesis: random-effects model (RStudio) for pooled prevalence and 95% CIs; geographic subgroup analysis.
-- Abstract does not state the number of included studies or study-selection counts.
+- **Design**: SR+MA; PRISMA guidelines; pre-registered PROSPERO CRD42024552310.
+- **Search**: 5 databases (PubMed, Web of Science, ScienceDirect, Scopus, Google Scholar); keywords "C-shaped canals" AND "second premolar" AND "prevalence"; search dates May 25–July 10, 2024.
+- **Inclusion**: cross-sectional/prospective/observational studies; adult humans; CBCT diagnosis of C-shaped canals; mandibular second premolars; English-language.
+- **Exclusion**: case reports, reviews, letters, non-CBCT methods, extracted-tooth studies, studies combining C-shaped data with other morphologies without distinction.
+- **Study selection**: 156 records → 123 non-duplicate → 109 full-texts assessed → 17 included.
+- **Quality assessment**: CASP checklist for cross-sectional studies (11 questions, max 11 points); inclusion threshold ≥8; all included studies scored ≥9.5.
+- **Statistics**: random-effects model (RStudio); I²-heterogeneity; leave-one-out sensitivity analysis; meta-regression on publication year; subgroup analysis by continent; publication bias via drapery plot + Egger's test.
 
 ## Results
 
-- Participant-level pooled prevalence: **1.31%** (95% CI 0.68–2.53; I²=90%; P<0.01).
-- Tooth-level pooled prevalence: **0.96%** (95% CI 0.46–2.00; I²=93%; P<0.01).
-- Heterogeneity: substantial in both analyses (I²=90–93%).
-- Highest region: **South America 5.83%** (95% CI 0.57–40.04; I²=95%; P<0.01) — note extremely wide CI.
-- Lowest region: **Australia 0.42%** (95% CI 0.31–0.93).
+**Participant-level (16 studies)**:
+- Pooled prevalence: **1.31%** (95% CI 0.68–2.53; I²=90%; P<0.01)
+- Most influential study (leave-one-out): Srivastava 2019 (Saudi Arabia; 19 C-shaped in 156 participants)
+- Meta-regression (publication year): P=0.90 — no significant temporal trend
+
+**Tooth-level (17 studies)**:
+- Pooled prevalence: **0.96%** (95% CI 0.46–2.00; I²=93%; P<0.01)
+- Most influential study (leave-one-out): Brea 2021 (Venezuela; 22 C-shaped in 132 teeth)
+- Meta-regression (publication year): P=0.92 — no significant temporal trend
+
+**Continental subgroups — participant-level**:
+| Continent | Pooled prevalence | 95% CI | I² |
+|---|---|---|---|
+| South America | 4.60% | 1.46–13.59 | 79% |
+| Asia | 1.13% | 0.49–2.58 | 90% |
+| Europe | 0.79% | 0.33–1.88 | — |
+| Australia | 0.68% | 0.31–1.51 | — |
+
+**Continental subgroups — tooth-level**:
+| Continent | Pooled prevalence | 95% CI | I² |
+|---|---|---|---|
+| South America | 5.83% | 0.57–40.04 | 95% |
+| Asia | 0.81% | 0.39–1.69 | 89% |
+| Europe | 0.56% | 0.23–1.34 | — |
+| Australia | 0.42% | 0.31–0.93 | — |
+
+**Publication bias**: Egger's test significant for both participant-level (P=0.0002) and tooth-level (P=0.0052) analyses.
+
+**Heterogeneity drivers**: CBCT protocol variation (voxel size 20–300 µm; different FOV), geographic/ethnic differences, and participant selection differences across studies. Higher-resolution CBCT (smaller voxel) detects more C-shaped anatomy; ex vivo micro-CT detects even more than in vivo CBCT.
 
 ## Related Papers
 
