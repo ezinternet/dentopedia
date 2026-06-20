@@ -5,7 +5,7 @@ year: 2023
 date: 2023-06-01
 doi: 10.7518/hxkq.2023.2022453
 source: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: false
@@ -32,7 +32,7 @@ SR+MA(대조연구 9편, n=283): MA 투명교정장치와 전통적 기능성장
 
 ## Summary
 
-According to PubMed ([DOI 10.7518/hxkq.2023.2022453](https://doi.org/10.7518/hxkq.2023.2022453)), this Chinese-language SR+MA (West China J Stomatology) pools 9 clinical controlled trials (n=283) comparing **mandibular advancement (MA) clear aligners** against **traditional functional appliances** for skeletal Class II malocclusion, appraised with ROBINS-I (RevMan 5.4 / Stata 17.0). It sits in the clear-aligner *limited-indication* evidence base as the Class II growth-modification axis — complementing the distalization route covered by [[orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] and [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]].
+According to PubMed ([DOI 10.7518/hxkq.2023.2022453](https://doi.org/10.7518/hxkq.2023.2022453)), this Chinese-language SR+MA (West China J Stomatology) pools 9 clinical controlled trials (n=283) comparing **mandibular advancement (MA) clear aligners** against **traditional functional appliances** for skeletal Class II malocclusion, appraised with ROBINS-I (RevMan 5.4 / Stata 17.0). It sits in the clear-aligner *limited-indication* evidence base as the Class II growth-modification axis — complementing the distalization route covered by [[orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] and [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]].
 
 On the core sagittal and dental outcomes — **SNA, SNB, ANB, mandibular body length (Go-Pog), upper-incisor inclination (U1-SN), and overjet — there was no statistically significant difference** between MA aligners and functional appliances. The two appliance types diverge on two measures that define the aligner trade-off: aligners **better controlled lower-incisor labial inclination (1.94° less proclination)** — a desirable anchorage effect — but the functional-appliance group achieved **1.10 mm more mandibular ramus growth (Co-Go)**, with only a 0.90° between-group difference in mandibular plane angle (MP-SN essentially preserved by aligners).
 
@@ -57,6 +57,6 @@ SR+MA. PubMed/WoS/Embase/Cochrane + four Chinese databases; PICOS selection by t
 
 ## Related Papers
 
-- [[orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — alternative Class II aligner strategy: molar distalization (reinforces)
-- [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — Class II distalization predictability/anchorage (reinforces)
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context: CA inferior for severe/skeletal cases (applies-to)
+- [[orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — alternative Class II aligner strategy: molar distalization (reinforces)
+- [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — Class II distalization predictability/anchorage (reinforces)
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context: CA inferior for severe/skeletal cases (applies-to)
