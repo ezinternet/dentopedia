@@ -1,0 +1,21 @@
+Risk factors contributing to membrane perforation in lateral window maxillary sinus elevation: systematic review and meta-analysis.
+
+Authors: Alalshaikh M, Tabasum A, Alotaibi N, Alesawy A, Ahmad S, Almas K, Aljofi FE, Omar O
+Journal: Oral Surg Oral Med Oral Pathol Oral Radiol 2024;139(6):642-659
+PMID 39955221 | DOI 10.1016/j.oooo.2024.12.008
+
+NOTE: abstract-only — full text not retrieved. Content below is the PubMed abstract.
+
+OBJECTIVE: To scrutinize the risk factors related to Schneiderian membrane perforation during lateral window preparation for maxillary sinus elevation.
+
+METHODS: Search across multiple electronic databases; critical evaluation of studies meeting inclusion criteria; systematic review + meta-analysis.
+
+RESULTS: Several risk factors contributing to sinus membrane perforation were identified:
+- Thin membranes (<1.5 mm) are at significant risk of perforation vs thicker ones.
+- Smoking significantly increased perforation likelihood by 1.6 times (one perforation in every seven smokers treated).
+- Presence of septa increased perforation risk 3 times vs absence of septa.
+- Marginal significance (P = .05) that piezosurgery reduced perforation risk vs rotary instruments.
+- Limited evidence (3 studies): lateral wall thickness and residual ridge height are significant factors.
+- Number of missing teeth and window size did NOT affect perforation likelihood.
+
+CONCLUSION: Although most studies are retrospective, several factors are associated with membrane perforation during lateral window sinus preparation. Among all studied factors, membrane thickness, septa, and smoking appear to be the most prominent.
