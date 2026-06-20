@@ -3,7 +3,7 @@ title: "Cone-beam computed tomographic evaluation of dimensional hard tissue cha
 authors: Pickert FN, Spalthoff S, Gellrich NC, Blaya Tárraga JA
 year: 2022
 doi: 10.5051/jpis.2007100355
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pickert-2022-cbct-evaluation-dimensional-hard-tissue.pdf
 pdf_filename: pickert-2022-cbct-evaluation-dimensional-hard-tissue.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[wiki/bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis]]는 효과량을 conventional + radiographic 측정 혼합으로 pooling했으나, 본 SR+MA (Pickert 2022)는 CBCT 측정만으로 한정해 측정-이질성을 제거하고 graft 재료군(xenogenic vs allogenic) 간 직접 비교를 제공한다 — anchor의 "어느 재료가 우월한가" 미해결 질문을 CBCT subgroup 근거로 보강.
+[[wiki/bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]]는 효과량을 conventional + radiographic 측정 혼합으로 pooling했으나, 본 SR+MA (Pickert 2022)는 CBCT 측정만으로 한정해 측정-이질성을 제거하고 graft 재료군(xenogenic vs allogenic) 간 직접 비교를 제공한다 — anchor의 "어느 재료가 우월한가" 미해결 질문을 CBCT subgroup 근거로 보강.
 
 ## One-line Summary
 

@@ -3,7 +3,7 @@ title: "Socket seal surgery techniques in the esthetic zone: a systematic review
 authors: Andrea López-Pacheco, David Soto-Peñaloza, Mayra Gómez, David Peñarrocha-Oltra, Marco Antonio Alarcón
 year: 2021
 doi: 10.1186/s40729-021-00294-2
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr.pdf
 pdf_filename: lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr.pdf
 source_collection: external

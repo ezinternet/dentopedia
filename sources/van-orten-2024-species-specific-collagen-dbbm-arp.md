@@ -3,7 +3,7 @@ title: "Alveolar Ridge Preservation Using a Novel Species-Specific Collagen-Enri
 authors: van Orten A, Goetz W, Bilhan H
 year: 2024
 doi: 10.3390/bioengineering11070665
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/van-orten-2024-species-specific-collagen-dbbm-arp.pdf
 pdf_filename: van-orten-2024-species-specific-collagen-dbbm-arp.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-First histological evaluation of a species-specific (all-bovine) collagen-enriched DBBM block (C-DBBM, 95% DBBM + 5% bovine collagen) for ARP — tests whether collagen enrichment changes bone formation kinetics vs standard DBBM and whether secondary GBR can be avoided. Fills the gap noted in [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] where only 6–19% avoid augmentation; this case series reports 0% requiring GBR at implant placement, suggesting the block form + species-specific collagen chain may improve outcomes.
+First histological evaluation of a species-specific (all-bovine) collagen-enriched DBBM block (C-DBBM, 95% DBBM + 5% bovine collagen) for ARP — tests whether collagen enrichment changes bone formation kinetics vs standard DBBM and whether secondary GBR can be avoided. Fills the gap noted in [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] where only 6–19% avoid augmentation; this case series reports 0% requiring GBR at implant placement, suggesting the block form + species-specific collagen chain may improve outcomes.
 
 ## One-line Summary
 

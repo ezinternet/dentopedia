@@ -4,7 +4,7 @@ authors: Mauricio G. Araújo, Jan Lindhe
 year: 2005
 doi: 10.1111/j.1600-051X.2005.00642.x
 journal: J Clin Periodontol 2005;32:212-218
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2005-dimensional-ridge-alterations-tooth-extraction.pdf
 pdf_filename: araujo-2005-dimensional-ridge-alterations-tooth-extraction.pdf
 source_collection: external

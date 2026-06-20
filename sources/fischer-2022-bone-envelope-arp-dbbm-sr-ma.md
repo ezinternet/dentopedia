@@ -3,7 +3,7 @@ title: "Bone envelope for implant placement after alveolar ridge preservation: a
 authors: Fischer KR, Solderer A, Arlt K, Heumann C, Liu CC, Schmidlin PR
 year: 2022
 doi: 10.1186/s40729-022-00453-z
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fischer-2022-bone-envelope-arp-dbbm-sr-ma.pdf
 pdf_filename: fischer-2022-bone-envelope-arp-dbbm-sr-ma.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Quantifies the residual bone envelope (width/height) achievable after ARP with DBBM — directly answers the clinical question "can we place standard-diameter implants without additional augmentation?" after socket preservation. Provides probability figures (6–19%) for implant placement with ≥2 mm surrounding bone, which is crucial context for [[bone-regeneration/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] and other ARP protocol pages.
+Quantifies the residual bone envelope (width/height) achievable after ARP with DBBM — directly answers the clinical question "can we place standard-diameter implants without additional augmentation?" after socket preservation. Provides probability figures (6–19%) for implant placement with ≥2 mm surrounding bone, which is crucial context for [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] and other ARP protocol pages.
 
 ## One-line Summary
 

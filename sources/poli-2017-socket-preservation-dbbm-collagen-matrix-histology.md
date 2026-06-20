@@ -3,7 +3,7 @@ title: "Healing of post-extraction sockets following alveolar ridge preservation
 authors: Pier Paolo Poli, Carlo Maiorana
 year: 2017
 doi: 10.5051/jpis.2017.47.4.194
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/poli-2017-socket-preservation-dbbm-collagen-matrix-histology.pdf
 pdf_filename: poli-2017-socket-preservation-dbbm-collagen-matrix-histology.pdf
 source_collection: external

@@ -4,7 +4,7 @@ authors: Wah Lay Tan, Terry L. T. Wong, May C. M. Wong, Niklaus P. Lang
 year: 2012
 doi: 10.1111/j.1600-0501.2011.02375.x
 journal: Clinical Oral Implants Research 2012;23(Suppl 5):1–21
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 pdf_filename: tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 source_collection: external
@@ -51,9 +51,9 @@ Systematic review (20 human studies) establishing weighted-mean post-extraction 
 - Outcomes beyond 12 months not addressed.
 
 ## 6. Related Work
-- [[bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes]] — parallel human SR with similar conclusions.
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — dog histology providing biological mechanism (bundle bone resorption).
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — temporal histology of socket healing.
+- [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — parallel human SR with similar conclusions.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — dog histology providing biological mechanism (bundle bone resorption).
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — temporal histology of socket healing.
 - Vignoletti 2012 — companion EAO consensus on ARP protocols.
 
 ## 7. Glossary

@@ -3,7 +3,7 @@ title: "A randomized, controlled, multicentre clinical trial of post-extraction 
 authors: Eric Todd Scheyer, Rick Heard, Jim Janakievski, George Mandelaris, Marc L. Nevins, Stephen R. Pickering, Christopher R. Richardson, Bryan Pope, Gregory Toback, Diego Velásquez, Heiner Nagursky
 year: 2016
 doi: 10.1111/jcpe.12623
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/scheyer-2016-alveolar-ridge-preservation-multicentre-rct.pdf
 pdf_filename: scheyer-2016-alveolar-ridge-preservation-multicentre-rct.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent GBR / ridge-preservation collection. This multicentre RCT directly compares two graft+membrane systems (demineralized allograft + cross-linked membrane vs DBBM-collagen + native bilayer membrane) for ridge preservation of dehisced sockets — a head-to-head that strengthens the ridge-preservation evidence in [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] and [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]].
+Part of a recent GBR / ridge-preservation collection. This multicentre RCT directly compares two graft+membrane systems (demineralized allograft + cross-linked membrane vs DBBM-collagen + native bilayer membrane) for ridge preservation of dehisced sockets — a head-to-head that strengthens the ridge-preservation evidence in [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] and [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]].
 
 ## One-line Summary
 

@@ -3,7 +3,7 @@ title: "Open Healing: A Minimally Invasive Protocol with Flapless Ridge Preserva
 authors: Alecsandru Ionescu, Aliona Dodi, Lucian Cristian Petcu, Mihnea Ioan Nicolescu
 year: 2022
 doi: 10.3390/biology11010142
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ionescu-2022-open-healing-flapless-ridge-preservation.pdf
 pdf_filename: ionescu-2022-open-healing-flapless-ridge-preservation.pdf
 source_collection: external

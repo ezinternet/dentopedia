@@ -3,7 +3,7 @@ title: "Soft-Tissue Healing Assessment after Extraction and Socket Preservation 
 authors: Alrayyes Y, Aloraini S, Alkhalaf A, Aljasser R
 year: 2022
 doi: 10.3390/diagnostics12102403
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/alrayyes-2022-prf-socket-preservation-smokers-rct.pdf
 pdf_filename: alrayyes-2022-prf-socket-preservation-smokers-rct.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Specifically addresses PRF socket preservation in heavy smokers (≥10 cigarettes/day) — smoking is a key modifier in extraction socket healing that most ARP trials explicitly exclude. Provides four-arm comparison (A-PRF, sticky bone/A-PRF, FDBA/CM, collagen plug alone) in a high-risk population. [[bone-regeneration/kollati-2019-cerabone-prf-socket-preservation-rct]]
+Specifically addresses PRF socket preservation in heavy smokers (≥10 cigarettes/day) — smoking is a key modifier in extraction socket healing that most ARP trials explicitly exclude. Provides four-arm comparison (A-PRF, sticky bone/A-PRF, FDBA/CM, collagen plug alone) in a high-risk population. [[bone-regeneration/ridge-preservation/kollati-2019-cerabone-prf-socket-preservation-rct]]
 
 ## One-line Summary
 

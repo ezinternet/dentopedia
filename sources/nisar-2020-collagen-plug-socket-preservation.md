@@ -3,7 +3,7 @@ title: "Extraction socket preservation using a collagen plug combined with plate
 authors: Nisar N, Nilesh K, Parkar MI, Punde P
 year: 2020
 doi: 10.34172/joddd.2020.028
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nisar-2020-collagen-plug-socket-preservation.pdf
 pdf_filename: nisar-2020-collagen-plug-socket-preservation.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Collagen plug + PRP as a simple, low-cost socket preservation approach — split-mouth prospective study evaluating clinical and radiographic outcomes at 3 and 6 months. Complements PRF and xenograft evidence by testing a minimal-intervention collagen-only strategy with growth factor augmentation. [[bone-regeneration/covani-2022-alveolar-bone-remodeling-collagen-socket]]
+Collagen plug + PRP as a simple, low-cost socket preservation approach — split-mouth prospective study evaluating clinical and radiographic outcomes at 3 and 6 months. Complements PRF and xenograft evidence by testing a minimal-intervention collagen-only strategy with growth factor augmentation. [[bone-regeneration/ridge-preservation/covani-2022-alveolar-bone-remodeling-collagen-socket]]
 
 ## One-line Summary
 

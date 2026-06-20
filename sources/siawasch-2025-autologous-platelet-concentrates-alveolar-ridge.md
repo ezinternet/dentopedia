@@ -3,7 +3,7 @@ title: "Autologous platelet concentrates in alveolar ridge preservation: A syste
 authors: Siawasch SAM, Yu J, Castro AB, Dhondt R, Teughels W, Temmerman A, Quirynen M
 year: 2025
 doi: 10.1111/prd.12609
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge.pdf
 pdf_filename: siawasch-2025-autologous-platelet-concentrates-alveolar-ridge.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[wiki/bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]가 정량화한 post-extraction 치수 변화(수평 ~2.7 mm, 수직 ~1.7 mm)를 출발점으로, 본 Periodontology 2000 (2025) SR+MA는 autologous platelet concentrate (APC, 자가혈소판농축물) 단독 사용이 그 흡수를 얼마나 줄이는지를 RCT만으로 확장 평가 — anchor의 "변화량" 기술을 "어떤 중재가 변화를 완화하는가"로 확장.
+[[wiki/bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]가 정량화한 post-extraction 치수 변화(수평 ~2.7 mm, 수직 ~1.7 mm)를 출발점으로, 본 Periodontology 2000 (2025) SR+MA는 autologous platelet concentrate (APC, 자가혈소판농축물) 단독 사용이 그 흡수를 얼마나 줄이는지를 RCT만으로 확장 평가 — anchor의 "변화량" 기술을 "어떤 중재가 변화를 완화하는가"로 확장.
 
 ## One-line Summary
 

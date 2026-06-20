@@ -3,7 +3,7 @@ title: "Changes of the Alveolar Bone Ridge Using Bone Mineral Grafts and Collage
 authors: Nansi López-Valverde, Bruno Macedo de Sousa, José Antonio Blanco Rueda
 year: 2024
 doi: 10.3390/bioengineering11060565
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 pdf_filename: lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen.pdf
 source_collection: external

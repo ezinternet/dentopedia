@@ -3,7 +3,7 @@ title: "Classification Based on Extraction Socket Buccal Bone Morphology and Rel
 authors: Steigmann L, Di Gianfilippo R, Steigmann M, Wang HL
 year: 2022
 doi: 10.3390/ma15030733
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/steigmann-2022-socket-buccal-bone-classification.pdf
 pdf_filename: steigmann-2022-socket-buccal-bone-classification.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-발치와 협측 골 형태에 따른 치조골 보존술(ARP) 처치 결정 트리 제공 — 협측 골의 무결성, 두께, 골열개/천공 여부에 따라 임상 처치를 단계별로 안내하며 [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]]의 발치 후 치조골 변화 생물학을 임상 처치 알고리즘으로 연결.
+발치와 협측 골 형태에 따른 치조골 보존술(ARP) 처치 결정 트리 제공 — 협측 골의 무결성, 두께, 골열개/천공 여부에 따라 임상 처치를 단계별로 안내하며 [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]]의 발치 후 치조골 변화 생물학을 임상 처치 알고리즘으로 연결.
 
 ## One-line Summary
 

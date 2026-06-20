@@ -4,7 +4,7 @@ authors: Elizabeth M. Tomlin, Shelby J. Nelson, Jeffrey A. Rossmann
 year: 2014
 doi: 10.2174/1874210601408010066
 journal: The Open Dentistry Journal 2014;8(Suppl 1-M4):66-76
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tomlin-2014-ridge-preservation-implant-therapy-review.pdf
 pdf_filename: tomlin-2014-ridge-preservation-implant-therapy-review.pdf
 source_collection: external

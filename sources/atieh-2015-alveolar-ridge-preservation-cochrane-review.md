@@ -3,7 +3,7 @@ title: "Interventions for replacing missing teeth: alveolar ridge preservation t
 authors: Momen A. Atieh, Nabeel H.M. Alsabeeha, Alan G.T. Payne, Warwick Duncan, Clovis M. Faggion, Marco Esposito
 year: 2015
 doi: 10.1002/14651858.CD010176.pub2
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2015-alveolar-ridge-preservation-cochrane-review.pdf
 pdf_filename: atieh-2015-alveolar-ridge-preservation-cochrane-review.pdf
 source_collection: external

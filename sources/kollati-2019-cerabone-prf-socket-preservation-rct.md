@@ -3,7 +3,7 @@ title: "Effectiveness of naturally derived bovine hydroxyapatite (Cerabone™) c
 authors: Kollati P, Koneru S, Dwarakanath CD, Gottumukkala SNVS
 year: 2019
 doi: 10.4103/jisp.jisp_400_18
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kollati-2019-cerabone-prf-socket-preservation-rct.pdf
 pdf_filename: kollati-2019-cerabone-prf-socket-preservation-rct.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Tests Cerabone (naturally derived bovine hydroxyapatite, BCHA) + PRF vs unassisted extraction alone in socket preservation — provides PRF adjunct evidence with a specific xenograft product that is commercially available. Fills a product-specific gap complementing the SR+MA evidence base. [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]]
+Tests Cerabone (naturally derived bovine hydroxyapatite, BCHA) + PRF vs unassisted extraction alone in socket preservation — provides PRF adjunct evidence with a specific xenograft product that is commercially available. Fills a product-specific gap complementing the SR+MA evidence base. [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]]
 
 ## One-line Summary
 

@@ -3,7 +3,7 @@ title: "Effect of Alveolar Ridge Preservation after Tooth Extraction: A Systemat
 authors: Gustavo Avila-Ortiz, Satheesh Elangovan, Karl W.O. Kramer, Dana Blanchette, Dallas V. Dawson
 year: 2014
 doi: 10.1177/0022034514541127
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.pdf
 pdf_filename: avila-ortiz-2014-alveolar-ridge-preservation-systematic-review.pdf
 source_collection: external

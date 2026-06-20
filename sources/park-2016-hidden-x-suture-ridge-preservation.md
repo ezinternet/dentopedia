@@ -3,7 +3,7 @@ title: "The hidden X suture: a technical note on a novel suture technique for al
 authors: Jung-Chul Park, Ki-Tae Koo, Hyun-Chang Lim
 year: 2016
 doi: 10.5051/jpis.2016.46.6.415
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2016-hidden-x-suture-ridge-preservation.pdf
 pdf_filename: park-2016-hidden-x-suture-ridge-preservation.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Open-healing 치조제 보존술(ARP) 봉합 술식 근거. 같은 그룹의 open-healing ARP 연작 [[bone-regeneration/cho-2017-compressive-force-graft-ridge-preservation]]·[[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]]·[[bone-regeneration/lee-2020-compressive-force-dbbm-ridge-preservation-molar]]의 출발점이며, [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]]·[[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]]의 ARP 근거에 "봉합법이 KT·치조제 폭 보존에 기여" 변수를 추가.
+Open-healing 치조제 보존술(ARP) 봉합 술식 근거. 같은 그룹의 open-healing ARP 연작 [[bone-regeneration/ridge-preservation/cho-2017-compressive-force-graft-ridge-preservation]]·[[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]]·[[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]]의 출발점이며, [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]]·[[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]]의 ARP 근거에 "봉합법이 KT·치조제 폭 보존에 기여" 변수를 추가.
 
 ## One-line Summary
 RCT comparing conventional crossed mattress (X) suture vs novel hidden X suture for open-healing ARP: the hidden X suture significantly better preserves buccal keratinized tissue width and ridge dimensions.
@@ -42,9 +42,9 @@ RCT comparing conventional crossed mattress (X) suture vs novel hidden X suture 
 - Short (4-month) follow-up.
 
 ## 6. Related Work
-- [[bone-regeneration/cho-2017-compressive-force-graft-ridge-preservation]] — same group, compressive force in ARP
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — same group, membrane layering
-- [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] — open-healing ARP concept
+- [[bone-regeneration/ridge-preservation/cho-2017-compressive-force-graft-ridge-preservation]] — same group, compressive force in ARP
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — same group, membrane layering
+- [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — open-healing ARP concept
 - [[periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct]] — KT augmentation via membrane
 
 ## 7. Glossary

@@ -3,7 +3,7 @@ title: "Efficacy of biologics for alveolar ridge preservation/reconstruction and
 authors: Suárez-López del Amo F, Monje A
 year: 2022
 doi: 10.1002/JPER.22-0069
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge.pdf
 pdf_filename: suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[wiki/bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]]가 ARP 중재 전반의 효과를 평가했다면, 본 AAP Best Evidence Consensus (Suárez-López del Amo & Monje 2022)는 그 범위를 biologics(ABP·EMD·rhPDGF-BB·rhBMP-2)와 ARR·ARA·MSFA까지 확장해 "생물학적 제제가 표준 프로토콜을 능가하는가"라는 별도 질문에 답한다 — anchor의 ARP 효과 평가를 biologics 차원으로 확장.
+[[wiki/bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]]가 ARP 중재 전반의 효과를 평가했다면, 본 AAP Best Evidence Consensus (Suárez-López del Amo & Monje 2022)는 그 범위를 biologics(ABP·EMD·rhPDGF-BB·rhBMP-2)와 ARR·ARA·MSFA까지 확장해 "생물학적 제제가 표준 프로토콜을 능가하는가"라는 별도 질문에 답한다 — anchor의 ARP 효과 평가를 biologics 차원으로 확장.
 
 ## One-line Summary
 

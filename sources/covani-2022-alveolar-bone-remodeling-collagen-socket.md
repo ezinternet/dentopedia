@@ -3,7 +3,7 @@ title: "Alveolar Bone Remodeling with or without Collagen Filling of the Extract
 authors: Covani U, Giammarinaro E, Panetta D, Salvadori PA, Cosola S, Marconcini S
 year: 2022
 doi: 10.3390/jcm11092493
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/covani-2022-alveolar-bone-remodeling-collagen-socket.pdf
 pdf_filename: covani-2022-alveolar-bone-remodeling-collagen-socket.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Micro-CT comparison of collagen plug vs empty socket healing in a rabbit model — quantifies volumetric bone remodeling kinetics at 6 time-points (2, 7, 15, 30, 60, 90 days) with three-dimensional precision not achievable in clinical studies. Provides the mechanistic basis for understanding why collagen plug alone can preserve socket volume. [[bone-regeneration/nisar-2020-collagen-plug-socket-preservation]]
+Micro-CT comparison of collagen plug vs empty socket healing in a rabbit model — quantifies volumetric bone remodeling kinetics at 6 time-points (2, 7, 15, 30, 60, 90 days) with three-dimensional precision not achievable in clinical studies. Provides the mechanistic basis for understanding why collagen plug alone can preserve socket volume. [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]]
 
 ## One-line Summary
 

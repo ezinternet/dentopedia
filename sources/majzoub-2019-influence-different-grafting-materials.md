@@ -4,7 +4,7 @@ authors: Jad Majzoub, Andrea Ravida, Thomas Starch-Jensen, Mustafa Tattan, Ferna
 year: 2019
 doi: 10.5037/jomr.2019.10306
 journal: Journal of Oral & Maxillofacial Research 2019;10(3):e6
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/majzoub-2019-influence-different-grafting-materials.pdf
 pdf_filename: majzoub-2019-influence-different-grafting-materials.pdf
 source_collection: external
@@ -49,10 +49,10 @@ SR (40 RCTs) calculating inverse-variance weighted means by graft material — h
 - Long-term implant-level outcomes not assessed.
 
 ## 6. Related Work
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — concurrent SR+MA with stricter RCT inclusion.
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update with much smaller pool but stricter GRADE.
-- [[bone-regeneration/del-fabbro-2022-sealing-materials-post-extraction]] — focused on sealing.
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — natural-healing baseline.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — concurrent SR+MA with stricter RCT inclusion.
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update with much smaller pool but stricter GRADE.
+- [[bone-regeneration/ridge-preservation/del-fabbro-2022-sealing-materials-post-extraction]] — focused on sealing.
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — natural-healing baseline.
 
 ## 7. Glossary
 - **Allograft**: Human-derived bone (FDBA, DFDBA).

@@ -5,7 +5,7 @@ year: 2009
 doi: 10.1111/j.1600-0501.2008.01703.x
 journal: Clinical Oral Implants Research 2009;20(6):545–549
 pmid: 19515033
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/araujo-2009-ridge-alterations-flap-vs-flapless.pdf
 pdf_filename: araujo-2009-ridge-alterations-flap-vs-flapless.pdf
 source_collection: external
@@ -48,10 +48,10 @@ Dog histology study (5 mongrels, split-mouth flap vs flapless extraction, 6-mont
 - PDF in this collection is abstract-only — for clinical citation, retrieve full text for exact mm values and statistical tests.
 
 ## 6. Related Work
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — same authors' foundational dog study establishing 2-phase ridge resorption.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — same authors' foundational dog study establishing 2-phase ridge resorption.
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — companion dog study on immediate implant placement.
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — human SR citing this study.
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — temporal histology of socket healing.
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — human SR citing this study.
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — temporal histology of socket healing.
 
 ## 7. Glossary
 - **Flapless extraction**: Tooth removal without raising a mucoperiosteal flap, intended to preserve periosteal blood supply.

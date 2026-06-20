@@ -3,7 +3,7 @@ title: "Effects of different compressive forces on bone graft materials during a
 authors: In-Woo Cho, Jung-Chul Park, Hyun-Seung Shin
 year: 2017
 doi: 10.5051/jpis.2017.47.1.51
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/cho-2017-compressive-force-graft-ridge-preservation.pdf
 pdf_filename: cho-2017-compressive-force-graft-ridge-preservation.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-ARP에서 거의 다뤄지지 않은 변수 — graft 충전 시 가해지는 압축력(compressive force)이 신생골 형성에 미치는 영향. Park 그룹 open-healing 연작([[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]], [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]]) 중 술기 압력 변수 편이며, 후속 [[bone-regeneration/lee-2020-compressive-force-dbbm-ridge-preservation-molar]]가 같은 질문을 DBBM 대구치에서 재검증.
+ARP에서 거의 다뤄지지 않은 변수 — graft 충전 시 가해지는 압축력(compressive force)이 신생골 형성에 미치는 영향. Park 그룹 open-healing 연작([[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]], [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]]) 중 술기 압력 변수 편이며, 후속 [[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]]가 같은 질문을 DBBM 대구치에서 재검증.
 
 ## One-line Summary
 RCT (20 completers): greater compressive force on graft biomaterials during ARP significantly increased new bone formation while preserving ridge dimensions equally to lower force.
@@ -43,9 +43,9 @@ RCT (20 completers): greater compressive force on graft biomaterials during ARP 
 - Single-center, single-group surgeon.
 
 ## 6. Related Work
-- [[bone-regeneration/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — follow-up testing 5 N vs 30 N on DBBM in molars
-- [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]] — same group, suture
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — same group, membrane layering
+- [[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — follow-up testing 5 N vs 30 N on DBBM in molars
+- [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — same group, suture
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — same group, membrane layering
 
 ## 7. Glossary
 - ARP: alveolar ridge preservation; PTV: Periotest value (안정성 지표)

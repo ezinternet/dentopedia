@@ -4,7 +4,7 @@ authors: Gustavo Avila-Ortiz, Leandro Chambrone, Fabio Vignoletti
 year: 2019
 doi: 10.1111/jcpe.13057
 journal: Journal of Clinical Periodontology 2019;46(Suppl 21):195–223
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 pdf_filename: avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 source_collection: external
@@ -45,10 +45,10 @@ SR+MA of 22 RCTs (25 articles) categorizing ARP into 9 distinct treatment modali
 - Need for standardized core outcome set in future ARP RCTs.
 
 ## 6. Related Work
-- [[bone-regeneration/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — same first author's earlier MA (focused on socket filling vs extraction alone).
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update with overlapping trials, more conservative evidence grading.
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — concurrent SR with material-by-material breakdown.
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — baseline (control) values referenced.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — same first author's earlier MA (focused on socket filling vs extraction alone).
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update with overlapping trials, more conservative evidence grading.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — concurrent SR with material-by-material breakdown.
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — baseline (control) values referenced.
 
 ## 7. Glossary
 - **ARP**: Alveolar Ridge Preservation

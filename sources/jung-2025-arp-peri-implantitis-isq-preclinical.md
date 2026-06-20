@@ -3,7 +3,7 @@ title: "Correlation between newly formed bone and the progression of experimenta
 authors: Jungwoo Jung, Seunghee Lee, Jungwon Lee, Young-Chang Ko, Dongseob Lee, Yang-Jo Seol, Ki-Tae Koo, Yong-Moo Lee
 year: 2025
 doi: 10.5051/jpis.2402100105
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2025-arp-peri-implantitis-isq-preclinical.pdf
 pdf_filename: jung-2025-arp-peri-implantitis-isq-preclinical.pdf
 source_collection: external

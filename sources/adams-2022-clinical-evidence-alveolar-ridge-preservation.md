@@ -4,7 +4,7 @@ authors: Robert J. Adams
 year: 2022
 doi: 10.1038/s41415-022-4967-2
 journal: British Dental Journal 2022;233(6):471–476
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/adams-2022-clinical-evidence-alveolar-ridge-preservation.pdf
 pdf_filename: adams-2022-clinical-evidence-alveolar-ridge-preservation.pdf
 source_collection: external
@@ -45,9 +45,9 @@ Narrative review + 2 case reports of late xenograft failure (5–10 years post-A
 - No prospective cohort data on long-term graft fate after ARP.
 
 ## 6. Related Work
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane with "very low" certainty, similar skepticism formalized.
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — pro-ARP SR+MA, counterpoint.
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — material comparison.
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane with "very low" certainty, similar skepticism formalized.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — pro-ARP SR+MA, counterpoint.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — material comparison.
 
 ## 7. Glossary
 - **BSM**: Bone Substitute Material.

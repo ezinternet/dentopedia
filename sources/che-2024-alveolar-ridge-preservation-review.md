@@ -3,7 +3,7 @@ title: "Navigating Alveolar Ridge Preservation: Techniques, Materials, and Clini
 authors: Sung-Ah Che, Soo-Hwan Byun, Sang-Min Yi, Sang-Yoon Park, Byoung-Eun Yang
 year: 2024
 doi: 10.22974/jkda.2024.62.8.001
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/che-2024-alveolar-ridge-preservation-review.pdf
 pdf_filename: che-2024-alveolar-ridge-preservation-review.pdf
 source_collection: external

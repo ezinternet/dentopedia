@@ -3,7 +3,7 @@ title: "Effectiveness of β-TriCalcium Phosphate for Alveolar Ridge Preservation
 authors: Vitolante Pezzella, Andrea Blasi, Leopoldo Mauriello, Giuseppe Trapanese, Elio Ramaglia, Michele Basilicata, Vincenzo Iorio-Siciliano, Luca Ramaglia
 year: 2026
 doi: 10.3390/jfb17050247
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 pdf_filename: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Dimensional Changes After Different Alveolar Ridge Preservation Techniqu
 authors: Leticia Sandoli Arroteia, Matheus Paschoaletto Lopes, Marcela Tarosso Réa, Thalita R. Vieira e Oliveira, Matheus L. Oliveira, Marcelo de Faveri, Mauro Pedrine Santamaria, Lucas Araujo Queiroz, Marcio Zaffalon Casati, Renato Corrêa Viana Casarin
 year: 2025
 doi: 10.1111/jcpe.70004
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/arroteia-2025-alveolar-ridge-preservation-posterior-rct.pdf
 pdf_filename: arroteia-2025-alveolar-ridge-preservation-posterior-rct.pdf
 source_collection: external

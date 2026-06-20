@@ -3,7 +3,7 @@ title: "Alveolar Ridge Preservation Using a Collagenated Xenograft: A Randomized
 authors: Kim H, Han HS, Ghanaati S, Zadeh HH, Kim S, Cho YD
 year: 2024
 doi: 10.1016/j.identj.2024.07.015
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-collagenated-xenograft-arp-rct.pdf
 pdf_filename: kim-2024-collagenated-xenograft-arp-rct.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Three-arm RCT comparing collagenated DBBM (DBBM-C, Straumann XenoFlex) with and without socket seal (FGG) vs spontaneous healing — high-quality RCT evaluating a collagen-composite xenograft product with CBCT, histology, 3D volumetric analysis, and ISQ measurement at 180 days. Provides high-evidence clinical data on a specific formulation. [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]]
+Three-arm RCT comparing collagenated DBBM (DBBM-C, Straumann XenoFlex) with and without socket seal (FGG) vs spontaneous healing — high-quality RCT evaluating a collagen-composite xenograft product with CBCT, histology, 3D volumetric analysis, and ISQ measurement at 180 days. Provides high-evidence clinical data on a specific formulation. [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]]
 
 ## One-line Summary
 

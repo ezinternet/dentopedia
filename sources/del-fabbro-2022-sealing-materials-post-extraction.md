@@ -4,7 +4,7 @@ authors: Massimo Del Fabbro, Grazia Tommasato, Paolo Pesce, Andrea Ravidà, Shah
 year: 2022
 doi: 10.1007/s00784-021-04262-3
 journal: Clinical Oral Investigations 2022;26(2):1137–1154
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2022-sealing-materials-post-extraction.pdf
 pdf_filename: del-fabbro-2022-sealing-materials-post-extraction.pdf
 source_collection: external
@@ -49,9 +49,9 @@ SR + network meta-analysis (12 RCTs, 312 sites; IAO consensus paper) comparing b
 - Long-term (>6 months) outcomes scarce; implant-level outcomes not assessed.
 
 ## 6. Related Work
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — parent SR including sealing as one component.
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane updated synthesis.
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — focused on graft material, not sealing.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — parent SR including sealing as one component.
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane updated synthesis.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — focused on graft material, not sealing.
 
 ## 7. Glossary
 - **NMA**: Network Meta-Analysis — combines direct and indirect comparisons across treatment network.

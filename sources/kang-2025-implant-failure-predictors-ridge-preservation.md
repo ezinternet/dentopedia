@@ -3,7 +3,7 @@ title: "Predictors of implant treatment failure after alveolar ridge preservatio
 authors: Dae-Young Kang, Hyeon-Seong Ahn, Hyun-Chang Lim
 year: 2025
 doi: 10.5051/jpis.2404660233
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kang-2025-implant-failure-predictors-ridge-preservation.pdf
 pdf_filename: kang-2025-implant-failure-predictors-ridge-preservation.pdf
 source_collection: external

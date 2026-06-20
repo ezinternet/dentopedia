@@ -4,7 +4,7 @@ authors: Momen A. Atieh, Nabeel H.M. Alsabeeha, Alan G.T. Payne, Sara Ali, Clovi
 year: 2021
 doi: 10.1002/14651858.CD010176.pub3
 journal: Cochrane Database of Systematic Reviews 2021, Issue 4, Art. No.: CD010176
-category: [bone-regeneration]
+category: [bone-regeneration/ridge-preservation]
 pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2021-interventions-replacing-missing-teeth.pdf
 pdf_filename: atieh-2021-interventions-replacing-missing-teeth.pdf
 source_collection: external
@@ -51,11 +51,11 @@ source_collection: external
 - Need for adequately powered RCTs with standardized outcomes and longer follow-up.
 
 ## 6. Related Work
-- [[bone-regeneration/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — prior Cochrane (.pub2) being superseded.
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — concurrent SR+MA with overlapping trials but less conservative grading.
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — 40-trial SR (broader inclusion).
-- [[bone-regeneration/del-fabbro-2022-sealing-materials-post-extraction]] — NMA on sealing materials specifically.
-- [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — narrative review + case reports of late graft failure (skeptical).
+- [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — prior Cochrane (.pub2) being superseded.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — concurrent SR+MA with overlapping trials but less conservative grading.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — 40-trial SR (broader inclusion).
+- [[bone-regeneration/ridge-preservation/del-fabbro-2022-sealing-materials-post-extraction]] — NMA on sealing materials specifically.
+- [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — narrative review + case reports of late graft failure (skeptical).
 
 ## 7. Glossary
 - **GRADE**: Grading of Recommendations Assessment, Development and Evaluation — certainty of evidence framework.
