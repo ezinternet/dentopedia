@@ -5,7 +5,7 @@ year: 2024
 date: 2024-12-20
 doi: 10.1186/s12903-024-05274-7
 source: nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -51,6 +51,6 @@ SR (no MA). 5 databases Jan 2000-Aug 2024; ROBINS-I; 12 studies, low-moderate Ro
 
 ## Related Papers
 
-- [[orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — sibling force-delivery lever (extends)
-- [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — anchorage lever (reinforces)
-- [[orthodontics/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — torque/intrusion forces vs root resorption (applies-to)
+- [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — sibling force-delivery lever (extends)
+- [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — anchorage lever (reinforces)
+- [[orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — torque/intrusion forces vs root resorption (applies-to)
