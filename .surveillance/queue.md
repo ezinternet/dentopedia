@@ -122,13 +122,13 @@
       "Two-year outcomes of hall technique and modified hall technique in deep carious lesions of primary molars: a randomized clinical trial" — BMC Oral Health
 - [x] PMID 41485532 | SR+MA | OA:none | primary-pulpotomy-ssc | edat 2026/01
       "Effectiveness of pulpotomy compared with pulpectomy for irreversible pulpitis in primary teeth: A systematic review and meta-analysis" — J Dent
-- [ ] PMID 42092871 | SR+MA | OA:none | primary-pulpotomy-ssc | edat 2026/05
+- [x] PMID 42092871 | SR+MA | OA:none | primary-pulpotomy-ssc | edat 2026/05
       "Efficacy and safety of diode laser in pulpotomy: a systematic review and meta-analysis" — BMC Oral Health
-- [ ] PMID 41964851 | SR | OA:none | primary-pulpotomy-ssc | edat 2026/04
+- [x] PMID 41964851 | SR | OA:none | primary-pulpotomy-ssc | edat 2026/04
       "Pulpotomy for treating primary teeth with irreversible pulpitis: a call for action" — Eur Arch Paediatr Dent
-- [ ] PMID 41186901 | RCT | OA:none | primary-pulpotomy-ssc | edat 2025/11
+- [x] PMID 41186901 | RCT | OA:none | primary-pulpotomy-ssc | edat 2025/11
       "Conventional versus Hall technique for preformed metal crown restorations of carious primary molars - RCT comparing treatment duration and child and parental perceptions" — Eur Arch Paediatr Dent
-- [ ] PMID 41755432 | SR+MA | OA:none | primary-pulpotomy-ssc | edat 2026/02
+- [x] PMID 41755432 | SR+MA | OA:none | primary-pulpotomy-ssc | edat 2026/02
       "Clinical efficiency of prefabricated zirconia crowns in primary dentition: A systematic review and meta-analysis" — J Indian Soc Pedod Prev Dent
-- [ ] PMID 40754667 | RCT | OA:none | primary-pulpotomy-ssc | edat 2025/08
+- [x] PMID 40754667 | RCT | OA:none | primary-pulpotomy-ssc | edat 2025/08
       "Zirconia Preformed Paediatric Crown Versus Stainless Steel Crown in Primary Molars: A Randomized Controlled Split-Mouth Trial" — Int J Paediatr Dent
