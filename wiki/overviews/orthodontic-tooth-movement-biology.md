@@ -88,6 +88,7 @@ OTM은 PDL(치주인대) 압박-인장 응력 → 세포 변형 → 사이토카
 
 ## Related overviews
 
+- [[overviews/clear-aligner-indications-limitations]] — 투명교정 적응증·한계 종합 (clinical clear-aligner evidence; 본 biology 페이지의 임상 대응)
 - [[overviews/miniscrew-stability-overview]] — TAD (Temporary Anchorage Device) 안정성 (자매 페이지)
 - [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — 골 재형성 일반 biology
 - [[overviews/drug-clinical-decision-ladder]] — NSAID·비스포스포네이트 영향
