@@ -132,3 +132,7 @@
       "Clinical efficiency of prefabricated zirconia crowns in primary dentition: A systematic review and meta-analysis" — J Indian Soc Pedod Prev Dent
 - [x] PMID 40754667 | RCT | OA:none | primary-pulpotomy-ssc | edat 2025/08
       "Zirconia Preformed Paediatric Crown Versus Stainless Steel Crown in Primary Molars: A Randomized Controlled Split-Mouth Trial" — Int J Paediatr Dent
+- [x] PMID 42318568 | SR | OA:PMC PMC13272459 | veneers | edat 2026/06/20 — INGESTED 2026-06-20 → wiki/veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr
+      "Influence of resin cement shade on esthetic outcomes in ceramic veneers: a systematic review" — Front Dent Med
+- [x] PMID 42319482 | RCT | OA:none | fluoride-topical | edat 2026/06/20 — INGESTED 2026-06-20 → wiki/caries/bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct
+      "A randomized controlled trial comparing the effect of salivary substitute and fluoride varnish on radiation caries in irradiated head and neck cancer patients" — Support Care Cancer

@@ -7,7 +7,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "endo": {
       "query": "(root canal OR endodontic OR pulp capping)",
@@ -16,7 +16,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "perio": {
       "query": "(periodontitis OR scaling root planing OR keratinized mucosa)",
@@ -25,7 +25,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "plaque": {
       "query": "(\"dental plaque\"[tiab] OR \"dental biofilm\"[tiab] OR \"supragingival plaque\"[tiab] OR \"plaque control\"[tiab] OR \"plaque index\"[tiab])",
@@ -34,12 +34,12 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "toothpick-method": {
       "query": "(\"toothpick method\"[tiab] OR \"Watanabe method\"[tiab] OR \"toothpick technique\"[tiab]) AND (toothbrush*[tiab] OR toothbrushing[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR \"oral hygiene\"[tiab] OR dental[tiab] OR \"peri-implant\"[tiab])",
       "ptyp": [],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "floss-interdental": {
       "query": "(\"dental floss\"[tiab] OR flossing[tiab] OR \"interdental brush\"[tiab] OR \"interdental brushes\"[tiab] OR \"interproximal brush\"[tiab] OR \"interdental cleaning\"[tiab] OR \"interdental aids\"[tiab] OR \"oral irrigator\"[tiab] OR \"water flosser\"[tiab])",
@@ -48,7 +48,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "water-flosser": {
       "query": "(\"oral irrigator\"[tiab] OR \"oral irrigators\"[tiab] OR \"oral irrigation\"[tiab] OR \"water flosser\"[tiab] OR \"water flossing\"[tiab] OR \"water jet\"[tiab] OR \"dental water jet\"[tiab] OR Waterpik[tiab] OR \"powered irrigation\"[tiab]) AND (toothbrush*[tiab] OR plaque[tiab] OR gingiv*[tiab] OR periodont*[tiab] OR interdental[tiab] OR \"oral hygiene\"[tiab] OR \"peri-implant\"[tiab] OR orthodontic[tiab])",
@@ -57,7 +57,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "toothpaste": {
       "query": "(toothpaste[tiab] OR dentifrice[tiab] OR dentifrices[tiab])",
@@ -66,7 +66,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "sensodyne": {
       "query": "(Sensodyne[tiab] OR ((\"potassium nitrate\"[tiab] OR \"calcium sodium phosphosilicate\"[tiab] OR NovaMin[tiab] OR \"stannous fluoride\"[tiab] OR CPP-ACP[tiab]) AND (dentifrice[tiab] OR toothpaste[tiab]) AND (hypersensitiv*[tiab] OR sensitivity[tiab])))",
@@ -75,7 +75,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "fluoride-topical": {
       "query": "(\"fluoride varnish\"[tiab] OR \"fluoride gel\"[tiab] OR \"acidulated phosphate fluoride\"[tiab] OR \"APF gel\"[tiab] OR \"fluoride foam\"[tiab] OR \"silver diamine fluoride\"[tiab]) AND (caries[tiab] OR demineralization[tiab] OR remineralization[tiab] OR enamel[tiab])",
@@ -84,7 +84,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "caries-acid-mechanism": {
       "query": "(\"Streptococcus mutans\"[tiab] OR cariogenic[tiab] OR acidogenic[tiab] OR aciduric[tiab]) AND (acid[tiab] OR acidogenicity[tiab] OR demineralization[tiab] OR virulence[tiab] OR \"acidic microenvironment\"[tiab] OR dysbiosis[tiab])",
@@ -93,7 +93,7 @@
         "MA",
         "Review"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "dentin-hypersensitivity": {
       "query": "(\"dentin hypersensitivity\"[tiab] OR \"dentine hypersensitivity\"[tiab] OR \"dentinal hypersensitivity\"[tiab] OR \"dentinal tubule\"[tiab] OR \"tubule occlusion\"[tiab]) AND (etiology[tiab] OR mechanism[tiab] OR hydrodynamic[tiab] OR management[tiab] OR treatment[tiab] OR occlu*[tiab] OR laser[tiab] OR desensiti*[tiab])",
@@ -102,7 +102,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "implant-primary-stability": {
       "query": "(\"insertion torque\"[tiab] OR \"primary stability\"[tiab] OR \"initial stability\"[tiab] OR \"insertion torque value\"[tiab] OR ISQ[tiab] OR \"resonance frequency\"[tiab]) AND (\"dental implant\"[tiab] OR implant[tiab] OR osseointegration[tiab])",
@@ -111,7 +111,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "antibiotic-dental": {
       "query": "(amoxicillin[tiab] OR clindamycin[tiab] OR metronidazole[tiab] OR azithromycin[tiab] OR doxycycline[tiab] OR \"antibiotic prophylaxis\"[tiab] OR \"antibiotic stewardship\"[tiab] OR \"antimicrobial resistance\"[tiab] OR \"antibiotic prescribing\"[tiab] OR \"antibiotic therapy\"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR odontogenic[tiab] OR \"oral infection\"[tiab] OR \"tooth extraction\"[tiab] OR endodontic[tiab] OR periodontal[tiab] OR \"implant surgery\"[tiab])",
@@ -120,12 +120,12 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "insadol-egatan": {
       "query": "(Insadol[tiab] OR (\"Magnoliae cortex\"[tiab] AND \"Zea mays\"[tiab]) OR (carbazochrome[tiab] AND (dental[tiab] OR periodontal[tiab] OR gingival[tiab])))",
       "ptyp": [],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "pdrn": {
       "query": "(PDRN[tiab] OR polydeoxyribonucleotide[tiab] OR \"poly deoxyribonucleotide\"[tiab] OR \"polynucleotide\"[tiab]) AND (dental[tiab] OR dentistry[tiab] OR implant[tiab] OR periodontal[tiab] OR endodontic[tiab] OR oral[tiab] OR osseointegration[tiab] OR \"bone regeneration\"[tiab] OR osteoblast[tiab] OR osteoclast[tiab] OR TMJ[tiab] OR \"temporomandibular\"[tiab])",
@@ -134,7 +134,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "botulinum-toxin": {
       "query": "(\"botulinum toxin\"[tiab] OR \"botulinum toxin type A\"[tiab] OR BoNT-A[tiab] OR BTX-A[tiab] OR onabotulinumtoxinA[tiab] OR incobotulinumtoxinA[tiab] OR abobotulinumtoxinA[tiab] OR Botox[tiab] OR Xeomin[tiab] OR Dysport[tiab]) AND (dental[tiab] OR dentistry[tiab] OR bruxism[tiab] OR masseter[tiab] OR temporalis[tiab] OR TMD[tiab] OR \"temporomandibular\"[tiab] OR \"gummy smile\"[tiab] OR orofacial[tiab] OR \"myofascial pain\"[tiab])",
@@ -143,7 +143,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "cracked-tooth": {
       "query": "(\"cracked tooth\"[tiab] OR \"cracked teeth\"[tiab] OR \"cracked tooth syndrome\"[tiab] OR \"incomplete tooth fracture\"[tiab] OR \"incomplete crown fracture\"[tiab] OR \"tooth crack\"[tiab] OR \"cuspal fracture\"[tiab])",
@@ -152,7 +152,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "c-shaped-canal": {
       "query": "(\"C-shaped canal\"[tiab] OR \"C-shaped canals\"[tiab] OR \"C-shaped root canal\"[tiab] OR \"C-shaped root canals\"[tiab] OR \"C-shaped configuration\"[tiab] OR \"C-shaped root canal system\"[tiab])",
@@ -161,7 +161,7 @@
         "SR",
         "MA"
       ],
-      "last_run_edat": "2026/06/19"
+      "last_run_edat": "2026/06/20"
     },
     "clear-aligner": {
       "query": "(\"clear aligner\"[tiab] OR \"clear aligners\"[tiab] OR \"aligner therapy\"[tiab] OR \"Invisalign\"[tiab] OR \"thermoplastic aligner\"[tiab] OR \"orthodontic aligners\"[tiab])",
@@ -396,6 +396,8 @@
     "42301611",
     "42310664",
     "42317150",
+    "42318568",
+    "42319482",
     "4922343",
     "5292225",
     "6078744",
