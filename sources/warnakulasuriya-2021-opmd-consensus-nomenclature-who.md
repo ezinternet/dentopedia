@@ -3,7 +3,7 @@ title: "Oral potentially malignant disorders: A consensus report from an interna
 authors: Saman Warnakulasuriya, Newell W. Johnson, et al.
 year: 2021
 doi: 10.1111/odi.13704
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 pdf_filename: warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 source_collection: external

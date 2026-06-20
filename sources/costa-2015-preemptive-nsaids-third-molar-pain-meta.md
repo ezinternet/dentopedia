@@ -4,7 +4,7 @@ authors: Costa FWG, Esses DFS, Silva PGB, et al.
 year: 2015
 doi: 10.2344/0003-3006-62.2.57
 journal: "Anesthesia Progress 62(2):57-63"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/costa-2015-preemptive-nsaids-third-molar-pain-meta.pdf
 pdf_filename: costa-2015-preemptive-nsaids-third-molar-pain-meta.pdf
 source_collection: external

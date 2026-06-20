@@ -3,7 +3,7 @@ title: "Revisiting the Disulfiram-Like Reaction Between Alcohol and Oral Metroni
 authors: Orire Ifeoluwa, Sagoe Momi, Muzny Christina A., Kissinger Patricia J.
 year: 2026
 doi: 10.1097/OLQ.0000000000002276
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.pdf
 pdf_filename: orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole.pdf
 source_collection: external

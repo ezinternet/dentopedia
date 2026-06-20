@@ -3,7 +3,7 @@ title: "Diagnosis and management of oral lichen planus — Review"
 authors: N. Srivastava, et al.
 year: 2022
 doi: N/A
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/srivastava-2022-oral-lichen-planus-diagnosis-management-review.pdf
 pdf_filename: srivastava-2022-oral-lichen-planus-diagnosis-management-review.pdf
 source_collection: external

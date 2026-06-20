@@ -5,7 +5,7 @@ year: 2025
 doi: 10.1177/23800844251365539
 pmid: "40947958"
 pmcid: "PMC13232574"
-category: drug
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: false
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13232574/

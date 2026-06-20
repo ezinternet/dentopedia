@@ -3,7 +3,7 @@ title: "Acute Postoperative Pain Due to Dental Extraction in the Adult Populatio
 authors: Miroshnychenko A, Ibrahim S, Azab M, Roldan Y, Martinez JPD, Tamilselvan D, He L, Little JW, Urquhart O, Tampi M, Polk DE, Moore PA, Hersh EV, Claytor B, Carrasco-Labra A, Brignardello-Petersen R
 year: 2023
 doi: 10.1177/00220345221139230
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/miroshnychenko-2023-dental-extraction-pain-network-meta.pdf
 pdf_filename: miroshnychenko-2023-dental-extraction-pain-network-meta.pdf
 source_collection: external

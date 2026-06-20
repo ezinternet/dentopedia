@@ -4,7 +4,7 @@ authors: Al Ansari Y, Shahwan H, Chrcanovic BR
 year: 2022
 doi: 10.3390/ma15093227
 journal: Materials 15(9):3227
-category: [drug]
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.pdf
 pdf_filename: al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Antibiotic susceptibility of orofacial infections in Bratislava: a 10-ye
 authors: Michal Vavro, Bronislava Dvoranova, Ladislav Czako, Kristian Simko, Branislav Galis
 year: 2024
 doi: 10.1007/s00784-024-05937-3
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "39304566"

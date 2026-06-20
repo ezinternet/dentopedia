@@ -3,7 +3,7 @@ title: "Physiology of pregnancy and oral local anesthesia considerations"
 authors: Xueer Zhou, Yunyu Zhong, Zijian Pan, Jiankang Zhang, Jian Pan
 year: 2023
 doi: 10.7717/peerj.15585
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review.pdf
 pdf_filename: zhou-2023-pregnancy-physiology-oral-local-anesthesia-review.pdf
 source_collection: external

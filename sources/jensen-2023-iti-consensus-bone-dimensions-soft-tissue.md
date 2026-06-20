@@ -3,7 +3,7 @@ title: "Group 1 ITI Consensus Report: The role of bone dimensions and soft tissu
 authors: Simon S. Jensen, Tara Aghaloo, Ronald E. Jung, Kristina Bertl, Daniel Buser, Vivianne Chappuis, Luca de Stavola, Alberto Monje, Alberto Pispero, Andrea Roccuzzo, Shakeel Shahdad, Martina Stefanini, Lorenzo Tavelli, Hom-Lay Wang, Giovanni Zucchelli
 year: 2023
 doi: 10.1111/clr.14154
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 pdf_filename: jensen-2023-iti-consensus-bone-dimensions-soft-tissue.pdf
 source_collection: external

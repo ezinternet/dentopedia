@@ -4,7 +4,7 @@ authors: Se Eun Kim, Sun Young Hwang, Yong Ho Park, William C. Davis, Kun Taek P
 year: 2024
 doi: 10.1186/s12917-024-04243-0
 journal: BMC Veterinary Research 2024;20:437
-category: drug
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2024-magnoliae-cortex-zea-mays-extracts.pdf
 pdf_filename: kim-2024-magnoliae-cortex-zea-mays-extracts.pdf
 source_collection: external

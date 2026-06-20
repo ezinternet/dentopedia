@@ -3,7 +3,7 @@ title: "Proposal for clinical guidelines (guidelines) for local anesthesia in de
 authors: Kyung-Gyun Hwang
 year: 2023
 doi: 10.22974/jkda.2023.61.4.005
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.pdf
 pdf_filename: hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry.pdf
 source_collection: external

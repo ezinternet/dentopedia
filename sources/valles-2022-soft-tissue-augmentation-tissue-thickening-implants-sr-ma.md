@@ -3,7 +3,7 @@ title: "Efficacy of soft tissue augmentation procedures on tissue thickening aro
 authors: Valles C, Vilarrasa J, Barallat L, Pascual A, Nart J
 year: 2022
 doi: 10.1111/clr.13920
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.pdf
 pdf_filename: valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma.pdf
 source_collection: external

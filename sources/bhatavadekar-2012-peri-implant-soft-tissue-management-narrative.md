@@ -3,7 +3,7 @@ title: "Peri-implant soft tissue management: Where are we?"
 authors: Neel Bhatavadekar
 year: 2012
 doi: 10.4103/0972-124X.106938
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.pdf
 pdf_filename: bhatavadekar-2012-peri-implant-soft-tissue-management-narrative.pdf
 source_collection: external

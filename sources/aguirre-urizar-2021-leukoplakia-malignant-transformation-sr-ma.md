@@ -3,7 +3,7 @@ title: "Malignant transformation of oral leukoplakia: Systematic review and meta
 authors: José Manuel Aguirre-Urizar, Pablo Ramos-García, Miguel Ángel González-Moles
 year: 2021
 doi: 10.1111/odi.13810
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 pdf_filename: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 source_collection: external

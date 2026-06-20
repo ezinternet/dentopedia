@@ -3,7 +3,7 @@ title: "Efficacy of soft tissue substitutes, in comparison with autogenous graft
 authors: Eduardo Montero, Ana Molina, Paula Matesanz, Alberto Monje, Ignacio Sanz-Sánchez, David Herrera
 year: 2022
 doi: 10.1111/clr.13751
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.pdf
 pdf_filename: montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr.pdf
 source_collection: external

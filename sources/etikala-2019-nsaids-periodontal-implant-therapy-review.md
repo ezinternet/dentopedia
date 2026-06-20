@@ -3,7 +3,7 @@ title: "Effects of NSAIDs on Periodontal and Dental Implant Therapy"
 authors: Etikala A, Tattan M, Askar H, Wang HL
 year: 2019
 doi: 10.11607/prd.4457
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/etikala-2019-nsaids-periodontal-implant-therapy-review.pdf
 pdf_filename: etikala-2019-nsaids-periodontal-implant-therapy-review.pdf
 source_collection: external

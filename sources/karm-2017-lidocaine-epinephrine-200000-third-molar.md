@@ -4,7 +4,7 @@ authors: Karm Myong-Hwan (감명환), Kim Hyun Jeong (corresponding author)
 year: 2017
 doi: ""
 journal: "대한치과의사협회지 (J Korean Dent Assoc) 56(1)"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/karm-2017-lidocaine-epinephrine-200000-third-molar.pdf
 pdf_filename: karm-2017-lidocaine-epinephrine-200000-third-molar.pdf
 source_collection: external

@@ -116,13 +116,18 @@ All three tiers share the same stem:
 | `veneers` | 비니어·라미네이트 | Ceramic laminate veneers (feldspathic, leucite, lithium disilicate, zirconia), composite veneers — preparation techniques, fabrication (platinum foil vs refractory die), survival/complication rates, incisal coverage, minimally invasive vs conventional, cementation |
 | `prosthetic-materials` | 보철재료 | Screw vs cement retention, zirconia crowns, CAD/CAM prosthetics |
 | `complete-denture` | 총의치·가철성보철 | Complete/removable denture prosthodontics — occlusal vertical dimension (OVD/VDO) determination (rest position, freeway space, anthropometric/facial, phonetics, cephalometric), jaw relation records, signs of excessive/reduced VD, edentulous prosthodontics. (denture *occlusal scheme* balanced/lingualized → `occlusion`) |
-| `drug` | 전신질환·약물 | Systemic disease management, drug interactions, MRONJ, anticoagulants |
+| `drug/antibiotics` | 전신질환·약물·항생제 | Dental antibiotic prescribing, prophylaxis, antibiotic stewardship; AMX/CLV, clindamycin, azithromycin, metronidazole, cephalosporins; periodontal/endodontic/surgical adjunct use |
+| `drug/analgesics` | 전신질환·약물·진통소염제 | NSAIDs (ibuprofen, ketorolac, naproxen, etoricoxib), acetaminophen, opioids, corticosteroids (dexamethasone), preemptive analgesia; postoperative pain management |
+| `drug/anticoagulants` | 전신질환·약물·항응고·지혈 | Anticoagulants (warfarin, DOACs: apixaban/rivaroxaban/dabigatran), antiplatelets (aspirin, clopidogrel), perioperative management, hemostasis, DAPT |
+| `drug/mronj` | 전신질환·약물·MRONJ | MRONJ/ONJ — bisphosphonates, denosumab, antiresorptive/antiangiogenic agents; prevention, staging, management |
+| `drug/systemic-disease` | 전신질환·약물·전신질환관리 | Medically compromised patients — diabetes (HbA1c), cardiovascular disease, Sjögren, renal/hepatic impairment, polypharmacy, drug–drug interactions, immunosuppression |
 | `pdrn` | PDRN(폴리뉴클레오티드) | Polydeoxyribonucleotide (PDRN) biology, bone/soft-tissue regeneration with PDRN, peri-implant/sinus/extraction socket adjunct, A2A receptor mechanism |
 | `oral-surgery` | 구강외과 | Extractions, nerve injuries, surgical complications |
 | `suture-wound-closure` | 봉합·창상폐쇄 | Suture techniques/patterns & biomechanics, primary vs secondary closure, sutureless surgery, tissue adhesives, flap design for tension-free primary closure (PASS, periosteal releasing, advancement flaps) |
 | `occlusion` | 교합 | Occlusal analysis (digital/T-Scan vs articulating paper), implant occlusion, occlusal overload, occlusal scheme/adjustment |
 | `geriatric-dentistry` | 노년치의학 | Oral frailty, xerostomia/hyposalivation, root caries in elderly, professionally applied fluoride, polypharmacy oral effects |
-| `local-anesthesia` | 국소마취·진정 | LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, N2O & procedural sedation, injection landmarks |
+| `local-anesthesia` | 국소마취·진정 | LA agents (articaine/lidocaine/mepivacaine), IANB/buccal infiltration, buffered/preheated LA, N2O & procedural sedation, topical anesthetics, injection landmarks; pregnancy/pediatric LA; supplemental injections for irreversible pulpitis |
+| `dental-history` | 치과 역사 | Historical figures, milestones in dentistry (Korean and international) |
 | `inlay` | 인레이 | Inlay/onlay restorations, ceramic inlays |
 | `evidence-appraisal` | 근거평가·통계방법론 | EBM/EBD critical appraisal, SR/MA methodology, biostatistics (p-value/CI/OR/RR/HR/NNT), common mistakes |
 | `bone-biology` | 골생물학 | Molecular/cellular bone biology — osteoclast/osteoblast signaling (SIK, PTHrP, RANKL), residual ridge resorption pathology, basic socket healing biology |
@@ -150,6 +155,8 @@ All three tiers share the same stem:
 | `dentin-hypersensitivity` | 상아질 과민증 | Dentinal hypersensitivity — etiology (hydrodynamic theory), in-office and at-home management, desensitizing agents |
 | `practice-management` | 치과경영 | Dental practice management — legal/regulatory decisions (헌법재판소 등), operational policies, clinic administration |
 | `implants/versah-protocols` | 임플란트·Versah 프로토콜 | Versah osseodensification osteotomy — indications, ISQ outcomes, bone density effects, vs conventional drilling |
+| `implants/soft-tissue` | 임플란트·연조직 | Peri-implant soft tissue augmentation — keratinized mucosa (KM) width/thickness, buccal dehiscence (PSTD), soft tissue substitutes (xenogeneic collagen matrix vs autograft FGG/CTG), second-stage surgery, vestibuloplasty |
+| `endodontics/visit-protocol` | 근관치료·내원횟수 | Single-visit vs multi-visit root canal treatment — healing outcomes, postoperative pain, patient preference; retreatment context |
 | `oral-microbiology` | 구강미생물학 | Oral microbiome ecology & dysbiosis, dental/biofilm matrix (EPS, glucans, eDNA, matrixome), keystone pathogens (P. gingivalis, F. nucleatum), polymicrobial synergy & dysbiosis (PSD) model, Streptococcus/Candida interactions, microbiome–systemic/cancer links |
 | `dental-erosion` | 치아침식 | Erosive tooth wear (ETW) — etiology (intrinsic/extrinsic acids, dietary soft drinks/citrus), enamel demineralization/mineral loss chemistry, erosion measurement (profilometry), risk factors & prevention |
 | `nccl` | 비우식성 치경부 병소 | Noncarious cervical lesions / abfraction — morphology (saucer/V-shape), progression (D/H ratio), prevalence, multifactorial etiology (stress/friction/biocorrosion schema), demineralization pathophysiology, SEM/stereomicroscopic characterization, monitor-vs-restore decision. (NCCL adhesive-restoration RCTs → `resin-bonding`) |

@@ -3,7 +3,7 @@ title: "Low-dose aspirin for the prevention of atherosclerotic cardiovascular di
 authors: Carlo Patrono
 year: 2024
 doi: 10.1093/eurheartj/ehae324
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/patrono-2024-low-dose-aspirin-prevention-atherosclerotic.pdf
 pdf_filename: patrono-2024-low-dose-aspirin-prevention-atherosclerotic.pdf
 source_collection: external

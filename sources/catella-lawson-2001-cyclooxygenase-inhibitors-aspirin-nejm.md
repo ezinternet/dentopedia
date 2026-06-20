@@ -3,7 +3,7 @@ title: "Cyclooxygenase Inhibitors and the Antiplatelet Effects of Aspirin"
 authors: Francesca Catella-Lawson, Muredach P. Reilly, Shiv C. Kapoor, Andrew J. Cucchiara, Susan DeMarco, Barbara Tournier, Sachin N. Vyas, Garret A. FitzGerald
 year: 2001
 doi: 10.1056/NEJMoa003199
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm.pdf
 pdf_filename: catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm.pdf
 source_collection: external

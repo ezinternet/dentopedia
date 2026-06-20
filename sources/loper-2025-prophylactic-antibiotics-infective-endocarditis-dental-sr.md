@@ -3,7 +3,7 @@ title: "Prophylactic Antibiotics for Prevention of Infective Endocarditis or Bac
 authors: Loper C, Baskette J, Fagan TR, Sardana D
 year: 2025
 doi: 10.1111/scd.70112
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "41269014"

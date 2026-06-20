@@ -3,7 +3,7 @@ title: "Evaluating the pain at site, onset of action, duration and anesthetic ef
 authors: P. Karunakar, Raji Viola Solomon, B. Sravan Kumar, S. Shalini Reddy
 year: 2024
 doi: 10.4103/JCDE.JCDE_625_24
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis.pdf
 pdf_filename: karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis.pdf
 source_collection: external

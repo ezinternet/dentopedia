@@ -3,7 +3,7 @@ title: "Interventions to improve antibiotic use among dentists: a systematic rev
 authors: Méndez-Romero L, Ruiz-Linares A, Ferrer M, Valero U
 year: 2025
 doi: 10.1093/jac/dkaf118
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "40243511"

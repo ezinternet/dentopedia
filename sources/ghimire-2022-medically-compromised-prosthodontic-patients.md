@@ -4,7 +4,7 @@ authors: Ghimire P, Suwal P, Basnet BB
 year: 2022
 doi: 10.1155/2022/7510578
 journal: International Journal of Dentistry 2022:7510578
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ghimire-2022-medically-compromised-prosthodontic-patients.pdf
 pdf_filename: ghimire-2022-medically-compromised-prosthodontic-patients.pdf
 source_collection: external

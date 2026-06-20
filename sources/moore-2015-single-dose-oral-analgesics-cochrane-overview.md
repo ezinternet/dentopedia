@@ -4,7 +4,7 @@ authors: Moore RA, Derry S, Aldington D, Wiffen PJ
 year: 2015
 doi: 10.1002/14651858.CD008659.pub3
 journal: "Cochrane Database of Systematic Reviews 2015, Issue 9"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/moore-2015-single-dose-oral-analgesics-cochrane-overview.pdf
 pdf_filename: moore-2015-single-dose-oral-analgesics-cochrane-overview.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Pyrazolinone analgesics prevent the antiplatelet effect of aspirin and p
 authors: T. Hohlfeld, N. Zimmermann, A.-A. Weber, G. Jessen, H. Weber, K. Schroer, H.-D. Holtje, R. Ebel
 year: 2008
 doi: 10.1111/j.1538-7836.2007.02786.x
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.pdf
 pdf_filename: hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology.pdf
 source_collection: external

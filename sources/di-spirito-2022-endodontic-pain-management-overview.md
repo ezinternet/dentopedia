@@ -3,7 +3,7 @@ title: "Post-Operative Endodontic Pain Management: An Overview of Systematic Rev
 authors: Federica Di Spirito, Giuseppe Scelza, Roberto Fornara, Francesco Giordano, Donato Rosa, Alessandra Amato
 year: 2022
 doi: 10.3390/healthcare10050760
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/di-spirito-2022-endodontic-pain-management-overview.pdf
 pdf_filename: di-spirito-2022-endodontic-pain-management-overview.pdf
 source_collection: external

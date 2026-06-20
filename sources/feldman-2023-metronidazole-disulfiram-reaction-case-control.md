@@ -3,7 +3,7 @@ title: "Can Metronidazole Cause a Disulfiram-Like Reaction? A Case-Control Study
 authors: Ryan Feldman, Rachael Jaszczenski
 year: 2023
 doi: unknown
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/feldman-2023-metronidazole-disulfiram-reaction-case-control.pdf
 pdf_filename: feldman-2023-metronidazole-disulfiram-reaction-case-control.pdf
 source_collection: external

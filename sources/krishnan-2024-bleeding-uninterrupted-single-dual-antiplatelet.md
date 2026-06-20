@@ -4,7 +4,7 @@ authors: Krishnan NA, Kumar SV, Nair AH, Remya M, Thomas RB, Deepak KS, Indu PS
 year: 2024
 doi: ""
 journal: "Annals of Maxillofacial Surgery 14(2)"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 pdf_filename: krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet.pdf
 source_collection: external

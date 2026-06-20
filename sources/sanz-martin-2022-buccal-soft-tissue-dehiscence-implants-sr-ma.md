@@ -3,7 +3,7 @@ title: "Buccal soft tissue dehiscence defects at dental implants—associated fa
 authors: Sanz-Martín I, Regidor E, Cosyn J, Wiedemeier DB, Thoma DS
 year: 2022
 doi: 10.1111/clr.13888
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma.pdf
 pdf_filename: sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma.pdf
 source_collection: external

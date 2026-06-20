@@ -4,7 +4,7 @@ authors: Shah S, Urtecho M, Firwana M, Nayfeh T, Hasan B, Nanaa A, et al.; Murad
 year: 2022
 doi: ""
 journal: "Mayo Clinic Proceedings (supports ACCP guideline)"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 pdf_filename: shah-2022-perioperative-antiplatelet-therapy-sr-ma.pdf
 source_collection: external

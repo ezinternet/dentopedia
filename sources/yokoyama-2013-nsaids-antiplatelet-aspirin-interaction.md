@@ -3,7 +3,7 @@ title: "Influence of non-steroidal anti-inflammatory drugs on antiplatelet effec
 authors: H. Yokoyama, N. Ito, S. Soeda, M. Ozaki, Y. Suzuki, M. Watanabe, E. Kashiwakura, T. Kawada, N. Ikeda, K. Tokuoka
 year: 2013
 doi: 10.1111/j.1365-2710.2012.01373.x
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.pdf
 pdf_filename: yokoyama-2013-nsaids-antiplatelet-aspirin-interaction.pdf
 source_collection: external

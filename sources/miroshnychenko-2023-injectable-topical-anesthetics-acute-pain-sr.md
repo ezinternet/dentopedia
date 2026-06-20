@@ -3,7 +3,7 @@ title: "Injectable and topical local anesthetics for acute dental pain: 2 system
 authors: Anna Miroshnychenko, Sara Ibrahim, Maria Azab, Yetiani Roldan, Juan Pablo Diaz Martinez, Divyalakshmi Tamilselvan, Leon He, Olivia Urquhart, Malavika Tampi, Deborah E. Polk, Paul A. Moore, Elliott V. Hersh, Alonso Carrasco-Labra, Romina Brignardello-Petersen
 year: 2023
 doi: 10.1016/j.adaj.2022.10.014
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr.pdf
 pdf_filename: miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr.pdf
 source_collection: external

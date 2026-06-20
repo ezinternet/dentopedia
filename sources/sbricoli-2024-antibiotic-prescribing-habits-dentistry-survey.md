@@ -4,7 +4,7 @@ authors: Sbricoli L, Grisolia G, Stellini E, Bacci C, Annunziata M, Bressan E
 year: 2024
 doi: 10.3390/antibiotics13020189
 journal: "Antibiotics 13:189"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 pdf_filename: sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey.pdf
 source_collection: external

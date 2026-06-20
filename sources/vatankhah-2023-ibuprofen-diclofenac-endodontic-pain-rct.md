@@ -4,7 +4,7 @@ authors: Vatankhah M, Zargar N, Naseri M, Salem S, Baghban AA, Etemadi A, Dianat
 year: 2023
 doi: 10.14744/eej.2022.45238
 journal: "European Endodontic Journal 8:133-9"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.pdf
 pdf_filename: vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct.pdf
 source_collection: external

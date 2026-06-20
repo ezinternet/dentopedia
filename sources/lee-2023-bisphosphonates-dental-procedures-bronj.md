@@ -4,7 +4,7 @@ authors: Lee ES, Tsai MC, Lee JX, Wong C, Cheng YN, Liu AC, Liang YF, Fang CY, W
 year: 2023
 doi: 10.3390/cancers15225366
 journal: Cancers 15(22):5366
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2023-bisphosphonates-dental-procedures-bronj.pdf
 pdf_filename: lee-2023-bisphosphonates-dental-procedures-bronj.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Adverse effects of articaine versus lidocaine in pediatric dentistry: a 
 authors: Ling Li, Da-lei Sun
 year: 2023
 doi: 10.22514/jocpd.2023.078
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma.pdf
 pdf_filename: li-2023-articaine-lidocaine-adverse-effects-pediatric-ma.pdf
 source_collection: external

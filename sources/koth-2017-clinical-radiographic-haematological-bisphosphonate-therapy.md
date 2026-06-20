@@ -3,7 +3,7 @@ title: "Interrelationship of clinical, radiographic and haematological features 
 authors: Valesca S Koth, Maria A Figueiredo, Fernanda G Salum, Karen Cherubini
 year: 2017
 doi: 10.1259/dmfr.20160260
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy.pdf
 pdf_filename: koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy.pdf
 source_collection: external

@@ -4,7 +4,7 @@ authors: Baghalipour N, Moztarzadeh O, Samara W, Gencur J, Volf V, Hauer L
 year: 2025
 doi: 10.3290/j.ohpd.c_2169
 journal: Oral Health and Preventive Dentistry 23:403-417
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/baghalipour-2025-mronj-prevention-management-review.pdf
 pdf_filename: baghalipour-2025-mronj-prevention-management-review.pdf
 source_collection: external

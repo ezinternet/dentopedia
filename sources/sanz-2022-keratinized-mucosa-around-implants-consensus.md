@@ -3,7 +3,7 @@ title: "Importance of keratinized mucosa around dental implants: Consensus repor
 authors: Mariano Sanz, Frank Schwarz, David Herrera, Pamela McClain, Elena Figuero, Ana Molina, Alberto Monje, Eduardo Montero, Andrés Pascual, Ausra Ramanauskaite, Franck Renouard, Robert Sader, Eik Schiegnitz, Istvan Urban, Lisa Heitz-Mayfield
 year: 2022
 doi: 10.1111/clr.13956
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 pdf_filename: sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 source_collection: external

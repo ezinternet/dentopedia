@@ -3,7 +3,7 @@ title: "Needle-free anesthesia: clinical efficacy of a mucoadhesive patch for at
 authors: Larisse Eduardo Adami, Osvaldo de Freitas, Fellipe Augusto Tocchini de Figueiredo, Maíra Peres Ferreira, Ana Paula Macedo, Renê Oliveira do Couto, Vinicius Pedrazzi
 year: 2021
 doi: 10.1590/1807-3107bor-2021.vol35.0131
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.pdf
 pdf_filename: adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort.pdf
 source_collection: external

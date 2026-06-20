@@ -3,7 +3,7 @@ title: "Evaluation of bacterial spectrum of orofacial infections and their antib
 authors: Nagendra S Chunduri, Krishnaveni Madasu, Venkateswara R Goteki, Tanveer Karpe, Haranadha Reddy
 year: 2012
 doi: 10.4103/2231-0746.95318
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "23482901"

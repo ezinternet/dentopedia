@@ -3,7 +3,7 @@ title: "Position Papers on MRONJ (Medication related osteonecrosis of the jaw), 
 authors: Tae-Geon Kwon
 year: 2023
 doi: 10.22974/jkda.2023.61.7.001
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kwon-2023-mronj-position-papers-what-changed.pdf
 pdf_filename: kwon-2023-mronj-position-papers-what-changed.pdf
 source_collection: external

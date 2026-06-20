@@ -3,7 +3,7 @@ title: "Linear and profilometric changes of the mucosa following soft tissue aug
 authors: Raghoebar GM, Korfage A, Meijer HJA, Gareb B, Vissink A, Delli K
 year: 2021
 doi: 10.1111/clr.13759
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma.pdf
 pdf_filename: raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma.pdf
 source_collection: external

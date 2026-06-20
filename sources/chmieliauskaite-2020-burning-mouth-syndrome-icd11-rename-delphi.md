@@ -3,7 +3,7 @@ title: "Consensus agreement to rename burning mouth syndrome and improve ICD-11 
 authors: Milda Chmieliauskaite, Elisabeth A. Stelson, Joel B. Epstein, Gary D. Klasser, et al.
 year: 2020
 doi: 10.1097/j.pain.0000000000002243
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi.pdf
 pdf_filename: chmieliauskaite-2020-burning-mouth-syndrome-icd11-rename-delphi.pdf
 source_collection: external

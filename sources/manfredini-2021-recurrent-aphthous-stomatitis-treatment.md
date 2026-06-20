@@ -3,7 +3,7 @@ title: "Recurrent Aphthous Stomatitis: Treatment and Management"
 authors: Marco Manfredini, Stefania Guida, Matteo Giovani, Nicola Lippolis, Enrico Spinas, Francesca Farnetani
 year: 2021
 doi: N/A
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/manfredini-2021-recurrent-aphthous-stomatitis-treatment.pdf
 pdf_filename: manfredini-2021-recurrent-aphthous-stomatitis-treatment.pdf
 source_collection: external

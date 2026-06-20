@@ -3,7 +3,7 @@ title: "Pain Control Following Impacted Mandibular Third Molar Surgery: A Compar
 authors: Gaballah K, Eldohaji T, El Tannir M, Shaban R, Habib R, Ali K
 year: 2025
 doi: 10.1038/s41598-025-89744-0
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 pdf_filename: gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct.pdf
 source_collection: external

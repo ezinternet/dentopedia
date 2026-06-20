@@ -4,7 +4,7 @@ authors: University of Florida College of Dentistry (adapted from Firriolo FJ, U
 year: 2019
 doi: unknown
 journal: Clinical Practice Guideline (UF College of Dentistry)
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ufcd-2019-medically-complex-patients-management-guidelines.pdf
 pdf_filename: ufcd-2019-medically-complex-patients-management-guidelines.pdf
 source_collection: external

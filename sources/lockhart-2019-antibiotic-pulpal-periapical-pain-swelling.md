@@ -3,7 +3,7 @@ title: "Evidence-based clinical practice guideline on antibiotic use for the urg
 authors: Peter B. Lockhart, Malavika P. Tampi, Elliot Abt, Anita Aminoshariae, Michael J. Durkin, Ashraf F. Fouad, Prerna Gopal, Benjamin W. Hatten, Erinne Kennedy, Melanie S. Lang, Lauren L. Patton, Thomas Paumier, Katie J. Suda, Lauren Pilcher, et al.
 year: 2019
 doi: 10.1016/j.adaj.2019.08.020
-category: drug
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.pdf
 pdf_filename: lockhart-2019-antibiotic-pulpal-periapical-pain-swelling.pdf
 source_collection: external

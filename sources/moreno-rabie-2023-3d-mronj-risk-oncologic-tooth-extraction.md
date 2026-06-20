@@ -3,7 +3,7 @@ title: "Three-dimensional clinical assessment for MRONJ risk in oncologic patien
 authors: Moreno Rabie C, Cavalcante Fontenele R, Oliveira Santos N, Nogueira Reis F, Van den Wyngaert T, Jacobs R
 year: 2023
 doi: 10.1259/dmfr.20230238
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 pdf_filename: moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction.pdf
 source_collection: external

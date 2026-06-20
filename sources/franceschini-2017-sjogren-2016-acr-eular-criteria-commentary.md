@@ -3,7 +3,7 @@ title: "The 2016 classification criteria for primary Sjögren syndrome: what's n
 authors: Franco Franceschini, Ilaria Cavazzana, Laura Andreoli, Angela Tincani
 year: 2017
 doi: 10.1186/s12916-017-0837-1
-category: ['drug']
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.pdf
 pdf_filename: franceschini-2017-sjogren-2016-acr-eular-criteria-commentary.pdf
 source_collection: external

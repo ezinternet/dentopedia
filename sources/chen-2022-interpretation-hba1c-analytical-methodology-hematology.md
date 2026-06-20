@@ -3,7 +3,7 @@ title: "Interpretation of HbA1c lies at the intersection of analytical methodolo
 authors: Chen Z, Shao L, Jiang M, Ba X, Ma B, Zhou T
 year: 2022
 doi: 10.3892/etm.2022.11643
-category: drug
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2022-interpretation-hba1c-analytical-methodology-hematology.pdf
 pdf_filename: chen-2022-interpretation-hba1c-analytical-methodology-hematology.pdf
 source_collection: external

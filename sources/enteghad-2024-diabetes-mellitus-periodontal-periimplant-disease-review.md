@@ -3,7 +3,7 @@ title: "Relationship Between Diabetes Mellitus and Periodontal/Peri-Implant Dise
 authors: Shabnam Enteghad, Farinaz Shirban, Mohammad Hossein Nikbakht, Mohammad Bagherniya, Amirhossein Sahebkar
 year: 2024
 doi: 10.1016/j.identj.2024.03.010
-category: [drug]
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review.pdf
 pdf_filename: enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review.pdf
 source_collection: external

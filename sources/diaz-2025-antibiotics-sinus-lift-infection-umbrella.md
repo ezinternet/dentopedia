@@ -3,7 +3,7 @@ title: "Use of antibiotics for prevention and treatment of sinus lift infections
 authors: "Díaz L, Inchingolo M, Uriol P, Uriol X, Oliveros M"
 year: 2025
 doi: 10.1186/s12903-025-07465-2
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "41413511"

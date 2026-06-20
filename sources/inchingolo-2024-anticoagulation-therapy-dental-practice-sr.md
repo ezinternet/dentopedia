@@ -4,7 +4,7 @@ authors: Inchingolo F, Inchingolo AM, Piras F, Ferrante L, Mancini A, Palermo A,
 year: 2024
 doi: 10.3390/healthcare12151537
 journal: Healthcare 12(15):1537
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/inchingolo-2024-anticoagulation-therapy-dental-practice-sr.pdf
 pdf_filename: inchingolo-2024-anticoagulation-therapy-dental-practice-sr.pdf
 source_collection: external

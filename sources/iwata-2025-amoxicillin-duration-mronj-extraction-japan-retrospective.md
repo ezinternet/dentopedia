@@ -4,7 +4,7 @@ authors: Iwata E, Ohori H, Susukida Y, Yatagai N, Kashin M, Matsui T, Takata N, 
 year: 2025
 doi: 10.1007/s00774-025-01617-8
 journal: "Journal of Bone and Mineral Metabolism 43:525-534"
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective.pdf
 pdf_filename: iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective.pdf
 source_collection: external

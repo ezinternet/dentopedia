@@ -3,7 +3,7 @@ title: "Local Anesthetics: Review of Pharmacological Considerations"
 authors: Daniel E. Becker, Kenneth L. Reed
 year: 2012
 doi: ""
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/becker-2012-local-anesthetics-pharmacological-considerations.pdf
 pdf_filename: becker-2012-local-anesthetics-pharmacological-considerations.pdf
 source_collection: external

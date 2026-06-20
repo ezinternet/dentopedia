@@ -3,7 +3,7 @@ title: "2016 ACR-EULAR Classification Criteria for Primary Sjögren Syndrome: A 
 authors: Caroline H. Shiboski, Stephen C. Shiboski, Raphaèle Seror, et al.
 year: 2016
 doi: 10.1002/art.39859
-category: ['drug']
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 pdf_filename: shiboski-2016-acr-eular-sjogren-classification-criteria.pdf
 source_collection: external

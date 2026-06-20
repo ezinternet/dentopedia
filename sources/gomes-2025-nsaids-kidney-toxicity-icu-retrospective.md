@@ -3,7 +3,7 @@ title: "Incidence of Kidney Toxicity of Non-Steroidal Anti-Inflammatory Drugs in
 authors: Gomes C, Pereira MIP, Valério P, Barroso JB, Mendes T, Pereira JG
 year: 2025
 doi: 10.1016/j.jcrc.2025.155202
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/gomes-2025-nsaids-kidney-toxicity-icu-retrospective.pdf
 pdf_filename: gomes-2025-nsaids-kidney-toxicity-icu-retrospective.pdf
 source_collection: external

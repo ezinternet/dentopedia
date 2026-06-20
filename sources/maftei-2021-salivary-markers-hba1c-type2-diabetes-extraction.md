@@ -3,7 +3,7 @@ title: "Correlations between Salivary Immuno-Biochemical Markers and HbA1c in Ty
 authors: Maftei GA, Martu MA, Martu MC, Popescu D, Surlin P, Tatarciuc D, Popa C, Foia LG
 year: 2021
 doi: 10.3390/antiox10111741
-category: [drug]
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction.pdf
 pdf_filename: maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Oral complaints in patients with acute myeloid leukemia treated with all
 authors: Batlle, et al.
 year: 2021
 doi: 10.4317/medoral.24647
-category: ['drug']
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/batlle-2021-oral-complaints-aml-stem-cell-transplant.pdf
 pdf_filename: batlle-2021-oral-complaints-aml-stem-cell-transplant.pdf
 source_collection: external

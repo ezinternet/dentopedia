@@ -3,7 +3,7 @@ title: "Celecoxib, ibuprofen, and the antiplatelet effect of aspirin in patients
 authors: Giulia Renda, Stefania Tacconelli, Marta L. Capone, Daniele Sacchetta, Francesco Santarelli, et al.
 year: 2006
 doi: 10.1016/j.clpt.2006.05.004
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet.pdf
 pdf_filename: renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet.pdf
 source_collection: external

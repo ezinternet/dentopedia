@@ -3,7 +3,7 @@ title: "True Allergy to Amide Local Anesthetics: A Review and Case Presentation"
 authors: Babak Bina, Elliot V. Hersh, Micael Hilario, Kenia Alvarez, Bradford McLaughlin
 year: 2018
 doi: 10.2344/anpr-65-03-06
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bina-2018-true-allergy-amide-local-anesthetics-case.pdf
 pdf_filename: bina-2018-true-allergy-amide-local-anesthetics-case.pdf
 source_collection: external

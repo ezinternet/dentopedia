@@ -3,7 +3,7 @@ title: "Dental safety of short-term doxycycline use in children under 8 years: a
 authors: Rajan AS, Patel M, Mishra G, et al.
 year: 2025
 doi: 10.3389/fphar.2025.1646638
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "41069592"

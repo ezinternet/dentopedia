@@ -3,7 +3,7 @@ title: "Peri-implant soft tissue phenotype modification and its impact on peri-i
 authors: Lorenzo Tavelli, Shayan Barootchi, Gustavo Avila-Ortiz, Istvan A. Urban, William V. Giannobile, Hom-Lay Wang
 year: 2021
 doi: 10.1002/JPER.19-0716
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.pdf
 pdf_filename: tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma.pdf
 source_collection: external

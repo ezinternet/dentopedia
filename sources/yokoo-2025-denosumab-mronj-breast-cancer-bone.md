@@ -3,7 +3,7 @@ title: "Denosumab Dosage and Tooth Extraction Predict Medication-Related Osteone
 authors: Suguru Yokoo, Shinichiro Kubo, Daisuke Yamamoto, Masahiko Ikeda, Tetsumasa Yamashita, Kumiko Yoshikawa, Hiroshi Mese, Sakiko Ohara
 year: 2025
 doi: 10.3390/cancers17132242
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yokoo-2025-denosumab-mronj-breast-cancer-bone.pdf
 pdf_filename: yokoo-2025-denosumab-mronj-breast-cancer-bone.pdf
 source_collection: external

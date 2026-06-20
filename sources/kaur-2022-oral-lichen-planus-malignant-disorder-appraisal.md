@@ -3,7 +3,7 @@ title: "Is oral lichen planus a potential malignant disorder?: A critical apprai
 authors: Kaur, et al.
 year: 2022
 doi: 10.1111/odi.13787
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 pdf_filename: kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 source_collection: external

@@ -4,7 +4,7 @@ authors: Tavelli L, Barootchi S
 year: 2025
 doi: 10.1002/JPER.24-0119
 journal: "J Periodontol 2025;96(5):562-590"
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 pdf_filename: tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap.pdf
 source_collection: external

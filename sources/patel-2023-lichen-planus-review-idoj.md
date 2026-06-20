@@ -3,7 +3,7 @@ title: "Lichen planus: A chronic immune-mediated inflammatory disorder — revie
 authors: Patel, et al.
 year: 2023
 doi: 10.4103/idoj.idoj_652_22
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2023-lichen-planus-review-idoj.pdf
 pdf_filename: patel-2023-lichen-planus-review-idoj.pdf
 source_collection: external

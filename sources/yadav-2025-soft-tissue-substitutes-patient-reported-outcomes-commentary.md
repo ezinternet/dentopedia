@@ -3,7 +3,7 @@ title: "Soft tissue substitutes improve patient-reported outcomes in peri-implan
 authors: Yadav VS, Makker K, Dawar A, Nanda A
 year: 2025
 doi: 10.1038/s41432-025-01121-y
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 pdf_filename: yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary.pdf
 source_collection: external

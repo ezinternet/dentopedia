@@ -4,7 +4,7 @@ authors: Cho HJ, Kang TH
 year: 2014
 doi: 10.12786/bn.2014.7.2.76
 journal: "Brain & NeuroRehabilitation 7(2):76-85"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean.pdf
 pdf_filename: cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean.pdf
 source_collection: external

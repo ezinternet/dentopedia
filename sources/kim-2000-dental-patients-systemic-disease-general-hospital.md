@@ -4,7 +4,7 @@ authors: Kim Ji-Hong (김지홍), Kim Young-Kyun (김영균)
 year: 2000
 doi: ""
 journal: "Korean OMFS journal (likely 대한구강악안면외과학회지 / J Korean Assoc Maxillofac Plast Reconstr Surg)"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 pdf_filename: kim-2000-dental-patients-systemic-disease-general-hospital.pdf
 source_collection: external

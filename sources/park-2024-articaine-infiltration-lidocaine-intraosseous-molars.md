@@ -3,7 +3,7 @@ title: "Retrospective comparison of articaine buccal infiltration and lidocaine 
 authors: Damin Park, Bokyung Shin, Ji-Young Yoon
 year: 2024
 doi: 10.17245/jdapm.2024.24.5.319
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/park-2024-articaine-infiltration-lidocaine-intraosseous-molars.pdf
 pdf_filename: park-2024-articaine-infiltration-lidocaine-intraosseous-molars.pdf
 source_collection: external

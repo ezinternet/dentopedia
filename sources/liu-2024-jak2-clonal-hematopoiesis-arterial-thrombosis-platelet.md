@@ -4,7 +4,7 @@ authors: Liu W, Pircher J, Schuermans A, et al.; Wang N (senior)
 year: 2024
 doi: ""
 journal: "Blood (THROMBOSIS AND HEMOSTASIS section)"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.pdf
 pdf_filename: liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet.pdf
 source_collection: external

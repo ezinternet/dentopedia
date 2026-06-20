@@ -4,7 +4,7 @@ authors: Lu SY, Lin LH, Hsue SS
 year: 2018
 doi: 10.1016/j.jfma.2018.08.019
 journal: "Journal of the Formosan Medical Association"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 pdf_filename: lu-2018-warfarin-antiplatelet-dental-extraction-management.pdf
 source_collection: external

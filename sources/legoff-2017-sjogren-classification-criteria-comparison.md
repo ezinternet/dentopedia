@@ -3,7 +3,7 @@ title: "Comparison of 2002 AECG and 2016 ACR/EULAR classification criteria and a
 authors: Maëlle Le Goff, Divi Cornec, Sandrine Jousse-Joulin, et al.
 year: 2017
 doi: 10.1186/s13075-017-1475-x
-category: ['drug']
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/legoff-2017-sjogren-classification-criteria-comparison.pdf
 pdf_filename: legoff-2017-sjogren-classification-criteria-comparison.pdf
 source_collection: external

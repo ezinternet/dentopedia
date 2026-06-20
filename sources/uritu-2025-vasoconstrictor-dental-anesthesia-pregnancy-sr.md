@@ -4,7 +4,7 @@ authors: Urîtu A, Buciu VB, Roi C, Chioran D, Serban DM, Nicoleta N, Rusu EL, I
 year: 2025
 doi: 10.3390/jcm14134773
 journal: Journal of Clinical Medicine 14(13):4773
-category: [drug]
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr.pdf
 pdf_filename: uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr.pdf
 source_collection: external

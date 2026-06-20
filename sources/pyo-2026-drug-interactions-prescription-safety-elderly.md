@@ -4,7 +4,7 @@ authors: Sung-woon Pyo
 year: 2026
 doi: 10.22974/jkda.2026.64.4.004
 journal: "J Korean Dent Assoc (대한치과의사협회지) 2026; 64(4): 138-142"
-category: drug
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pyo-2026-drug-interactions-prescription-safety-elderly.pdf
 pdf_filename: pyo-2026-drug-interactions-prescription-safety-elderly.pdf
 source_collection: external

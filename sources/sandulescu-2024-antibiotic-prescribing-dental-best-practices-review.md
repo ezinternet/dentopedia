@@ -4,7 +4,7 @@ authors: Săndulescu O, Preoțescu LL, Streinu-Cercel A, Özkaya Şahin G, Sănd
 year: 2024
 doi: 10.3390/tropicalmed9020031
 journal: "Tropical Medicine and Infectious Disease 9:31"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.pdf
 pdf_filename: sandulescu-2024-antibiotic-prescribing-dental-best-practices-review.pdf
 source_collection: external

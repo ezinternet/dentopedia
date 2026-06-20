@@ -3,7 +3,7 @@ title: "Burning mouth syndrome: a chronic pain disorder"
 authors: Gupta, et al.
 year: 2016
 doi: 10.4103/0973-1075.173942
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/gupta-2016-burning-mouth-syndrome-review.pdf
 pdf_filename: gupta-2016-burning-mouth-syndrome-review.pdf
 source_collection: external

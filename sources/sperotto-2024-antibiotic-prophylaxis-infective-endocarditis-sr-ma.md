@@ -4,7 +4,7 @@ authors: Sperotto F, France K, Gobbo M, Bindakhil M, et al.; Turati F, Edefonti 
 year: 2024
 doi: 10.1001/jamacardio.2024.0873
 journal: "JAMA Cardiology 9(7):599-610"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma.pdf
 pdf_filename: sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma.pdf
 source_collection: external

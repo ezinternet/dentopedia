@@ -4,7 +4,7 @@ authors: Vidović Juras D, Škrinjar I, Križnik T, Andabak Rogulj A, Lončar Br
 year: 2024
 doi: 10.3390/dj12110364
 journal: Dentistry Journal 12(11):364
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf
 pdf_filename: vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures.pdf
 source_collection: external

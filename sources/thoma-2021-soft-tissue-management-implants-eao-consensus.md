@@ -3,7 +3,7 @@ title: "Soft tissue management at implants: Summary and consensus statements of 
 authors: "Daniel S. Thoma, Jan Cosyn, Stefan Fickl, Simon S. Jensen, Ronald E. Jung, Gerry M. Raghoebar, Isabella Rocchietta, Mario Roccuzzo, Mariano Sanz, Ignacio Sanz-Sánchez, et al."
 year: 2021
 doi: "10.1111/clr.13798"
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2021-soft-tissue-management-implants-eao-consensus.pdf
 pdf_filename: thoma-2021-soft-tissue-management-implants-eao-consensus.pdf
 source_collection: external

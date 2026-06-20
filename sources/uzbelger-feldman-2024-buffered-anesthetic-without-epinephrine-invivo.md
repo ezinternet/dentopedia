@@ -3,7 +3,7 @@ title: "A Buffered Local Anesthetic Without Epinephrine: Development, Characteri
 authors: Daniel Uzbelger Feldman, Billy B. Laun II, Chirag Patel, Sonal V. Pande, Sai H. S. Boddu
 year: 2024
 doi: 10.3390/pharmaceutics16081058
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo.pdf
 pdf_filename: uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo.pdf
 source_collection: external

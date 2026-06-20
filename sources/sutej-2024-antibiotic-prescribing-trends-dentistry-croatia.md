@@ -4,7 +4,7 @@ authors: Šutej I, Bašić K, Šegović S, Peroš K
 year: 2024
 doi: 10.3390/antibiotics13090873
 journal: "Antibiotics 13:873"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.pdf
 pdf_filename: sutej-2024-antibiotic-prescribing-trends-dentistry-croatia.pdf
 source_collection: external

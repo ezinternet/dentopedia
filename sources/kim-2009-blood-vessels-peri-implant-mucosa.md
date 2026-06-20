@@ -3,7 +3,7 @@ title: "Blood Vessels of the Peri-Implant Mucosa: A Comparison Between Flap and 
 authors: Jung-In Kim, Byung-Ho Choi, Feng Xuan, Ha-Rang Kim, Dong-Yub Mo
 year: 2009
 doi: unknown
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2009-blood-vessels-peri-implant-mucosa.pdf
 pdf_filename: kim-2009-blood-vessels-peri-implant-mucosa.pdf
 source_collection: external

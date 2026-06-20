@@ -3,7 +3,7 @@ title: "Bleeding and thromboembolic risk in patients under anticoagulant therapy
 authors: Madalina A. Moldovan, Laura V. Filip, Mircea Ciurea, Dragos A. Termure, Daniel Ostas, Horatiu Rotar, Cosmin I. Faur, Rares C. Roman
 year: 2023
 doi: 10.15386/mpr-2519
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr.pdf
 pdf_filename: moldovan-2023-anticoagulant-oral-surgery-bleeding-sr.pdf
 source_collection: external

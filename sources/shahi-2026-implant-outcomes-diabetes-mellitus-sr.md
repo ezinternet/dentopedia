@@ -3,7 +3,7 @@ title: "Dental implant outcomes in patients with diabetes mellitus: a systematic
 authors: Shahriar Shahi, Parisa Jalali, Saba Jabbari, Ahmad Qarebigloo
 year: 2026
 doi: 10.1186/s12903-026-07782-0
-category: [drug]
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/shahi-2026-implant-outcomes-diabetes-mellitus-sr.pdf
 pdf_filename: shahi-2026-implant-outcomes-diabetes-mellitus-sr.pdf
 source_collection: external

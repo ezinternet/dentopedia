@@ -3,7 +3,7 @@ title: "An appraisal of highest quality studies reporting malignant transformati
 authors: Miguel Ángel González-Moles, Pablo Ramos-García, Crispian Scully
 year: 2021
 doi: 10.1111/odi.13741
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 pdf_filename: gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 source_collection: external

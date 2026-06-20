@@ -3,7 +3,7 @@ title: "A retrospective study on the clinical characteristics and treatment outc
 authors: Eunjin Lee, Hee-Kyung Park
 year: 2024
 doi: 10.22974/jkda.2024.62.5.003
-category: [drug]
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2024-burning-mouth-syndrome-clinical-treatment.pdf
 pdf_filename: lee-2024-burning-mouth-syndrome-clinical-treatment.pdf
 source_collection: external

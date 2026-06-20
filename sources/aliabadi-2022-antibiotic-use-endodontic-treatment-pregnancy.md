@@ -3,7 +3,7 @@ title: "Antibiotic use in endodontic treatment during pregnancy: A narrative rev
 authors: Tahere Aliabadi, Eshagh Ali Saberi, Amin Motameni Tabatabaie, Ebadolah Tahmasebi
 year: 2022
 doi: 10.4081/ejtm.2022.10813
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 pdf_filename: aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy.pdf
 source_collection: external

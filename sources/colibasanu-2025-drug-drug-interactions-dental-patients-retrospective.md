@@ -3,7 +3,7 @@ title: "Unveiling Drug-Drug Interactions in Dental Patients: A Retrospective Rea
 authors: Daiana Colibăsanu, Sebastian Mihai Ardelean, Florina-Diana Goldiș, Maria-Medana Drăgoi, Sabina-Oana Vasii, Tamara Maksimović, Șerban Colibăsanu, Codruța Șoica, Lucreția Udrescu
 year: 2025
 doi: 10.3390/dj13060255
-category: drug
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective.pdf
 pdf_filename: colibasanu-2025-drug-drug-interactions-dental-patients-retrospective.pdf
 source_collection: external

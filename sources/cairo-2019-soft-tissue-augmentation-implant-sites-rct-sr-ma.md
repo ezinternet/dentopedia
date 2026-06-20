@@ -3,7 +3,7 @@ title: "Surgical procedures for soft tissue augmentation at implant sites. A sys
 authors: Francesco Cairo, Luigi Barbato, Filippo Selvaggi, Maria G. Baielli, Adriano Piattelli, Leandro Chambrone
 year: 2019
 doi: 10.1111/cid.12861
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 pdf_filename: cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Management strategies for burning mouth syndrome: a comprehensive review
 authors: Federica Canfora, Noemi Coppola, Elena Calabria, Niccolò Giuseppe Armogida, Michele Davide Mignogna, Gianrico Spagnuolo, Daniela Adamo
 year: 2026
 doi: 10.22514/jofph.2026.001
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/canfora-2026-burning-mouth-syndrome-management-review.pdf
 pdf_filename: canfora-2026-burning-mouth-syndrome-management-review.pdf
 source_collection: external

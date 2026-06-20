@@ -3,7 +3,7 @@ title: "American Association of Oral and Maxillofacial Surgeons' Position Paper 
 authors: Salvatore L. Ruggiero, Thomas B. Dodson, Tara Aghaloo, Eric R. Carlson, Brent B. Ward, Deepak Kademani
 year: 2022
 doi: 10.1016/j.joms.2022.02.008
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 pdf_filename: ruggiero-2022-aaoms-mronj-position-paper-update.pdf
 source_collection: external

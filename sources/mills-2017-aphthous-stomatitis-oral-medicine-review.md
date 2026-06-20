@@ -3,7 +3,7 @@ title: "Recurrent aphthous stomatitis: a potentially disabling condition"
 authors: Mills, et al.
 year: 2017
 doi: N/A
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mills-2017-aphthous-stomatitis-oral-medicine-review.pdf
 pdf_filename: mills-2017-aphthous-stomatitis-oral-medicine-review.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Do soft tissue augmentation techniques provide stable and favorable peri
 authors: Martina Stefanini, Shayan Barootchi, Matteo Sangiorgi, Alberto Pispero, Maria Gabriella Grusovin, Leonardo Mancini, Giovanni Zucchelli, Lorenzo Tavelli
 year: 2023
 doi: 10.1111/clr.14150
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/stefanini-2023-soft-tissue-augmentation-peri-implant-sr.pdf
 pdf_filename: stefanini-2023-soft-tissue-augmentation-peri-implant-sr.pdf
 source_collection: external

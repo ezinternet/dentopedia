@@ -3,7 +3,7 @@ title: "Nonsteroidal Anti-inflammatory Drugs for Managing Postoperative Endodont
 authors: Elizabeth A Smith, J Gordon Marshall, Shelley S Selph, Dale R Barker, Christine M Sedgley
 year: 2017
 doi: 10.1016/j.joen.2016.09.010
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/smith-2017-nsaids-postoperative-endodontic-pain.pdf
 pdf_filename: smith-2017-nsaids-postoperative-endodontic-pain.pdf
 source_collection: external

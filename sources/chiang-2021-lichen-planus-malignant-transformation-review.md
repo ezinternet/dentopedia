@@ -3,7 +3,7 @@ title: "Malignant transformation of oral lichen planus"
 authors: Chiang, et al.
 year: 2021
 doi: null
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chiang-2021-lichen-planus-malignant-transformation-review.pdf
 pdf_filename: chiang-2021-lichen-planus-malignant-transformation-review.pdf
 source_collection: external

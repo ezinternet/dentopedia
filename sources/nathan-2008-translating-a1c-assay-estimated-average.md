@@ -3,7 +3,7 @@ title: "Translating the A1C Assay Into Estimated Average Glucose Values"
 authors: Nathan DM, Kuenen J, Borg R, Zheng H, Schoenfeld D, Heine RJ, A1c-Derived Average Glucose Study Group
 year: 2008
 doi: 10.2337/dc08-0545
-category: drug
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nathan-2008-translating-a1c-assay-estimated-average.pdf
 pdf_filename: nathan-2008-translating-a1c-assay-estimated-average.pdf
 source_collection: external

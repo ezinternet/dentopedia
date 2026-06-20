@@ -4,7 +4,7 @@ authors: Daniel S. Thoma, Nadja Naenni, Elena Figuero, Christoph H. F. Hämmerle
 year: 2018
 doi: 10.1111/clr.13114
 journal: Clinical Oral Implants Research 2018;29(Suppl. 15):32-49
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thoma-2018-soft-tissue-augmentation-periimplant-health.pdf
 pdf_filename: thoma-2018-soft-tissue-augmentation-periimplant-health.pdf
 source_collection: external

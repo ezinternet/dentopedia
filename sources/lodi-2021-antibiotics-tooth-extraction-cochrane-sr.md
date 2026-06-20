@@ -3,7 +3,7 @@ title: "Antibiotics to prevent complications following tooth extractions"
 authors: Lodi G, Azzi L, Varoni EM, Pentenero M, Del Fabbro M, Carrassi A, Sardella A, Manfredi M
 year: 2021
 doi: 10.1002/14651858.CD003811.pub3
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lodi-2021-antibiotics-tooth-extraction-cochrane-sr.pdf
 pdf_filename: lodi-2021-antibiotics-tooth-extraction-cochrane-sr.pdf
 source_collection: external

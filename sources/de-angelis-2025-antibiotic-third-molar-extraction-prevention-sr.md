@@ -4,7 +4,7 @@ authors: De Angelis N, Denegri L, Miron IC, Yumang C, Pesce P, Baldi D, Delucchi
 year: 2025
 doi: 10.3390/dj13030107
 journal: "Dentistry Journal 13:107"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.pdf
 pdf_filename: de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr.pdf
 source_collection: external

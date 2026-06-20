@@ -3,7 +3,7 @@ title: "Pain Prevalence and Severity before, during, and after Root Canal Treatm
 authors: Jaclyn G Pak, Shane N White
 year: 2011
 doi: 10.1016/j.joen.2011.01.016
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pak-2011-root-canal-pain-prevalence-severity.pdf
 pdf_filename: pak-2011-root-canal-pain-prevalence-severity.pdf
 source_collection: external

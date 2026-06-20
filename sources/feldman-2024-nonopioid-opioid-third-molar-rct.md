@@ -3,7 +3,7 @@ title: "Nonopioid vs Opioid Analgesics after Impacted Third-Molar Extractions: T
 authors: Feldman CA, Fredericks-Younger J, Desjardins PJ, Malmstrom H, Miloro M, Warburton G, Ward BB, Ziccardi VB, Greenberg P, Andrews T, Matheson PB, Benoliel R, Fine DH, Lu SE
 year: 2024
 doi: 10.1016/j.adaj.2024.10.014
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/feldman-2024-nonopioid-opioid-third-molar-rct.pdf
 pdf_filename: feldman-2024-nonopioid-opioid-third-molar-rct.pdf
 source_collection: external

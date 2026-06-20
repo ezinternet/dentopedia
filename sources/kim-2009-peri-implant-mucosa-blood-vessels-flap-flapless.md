@@ -7,7 +7,7 @@ jako: "JAKO200916762902441"
 journal: "대한구강악안면외과학회지 (J Korean Assoc Oral Maxillofac Surg)"
 volume: 35
 pages: "101-105"
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless.pdf
 pdf_filename: kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless.pdf
 source_collection: external

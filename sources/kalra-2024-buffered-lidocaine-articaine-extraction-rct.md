@@ -3,7 +3,7 @@ title: "Comparative Evaluation of the Efficacy and Onset of Local Anesthesia Usi
 authors: Geeta Kalra, Sameer Makkar, Neha Menrai, Vimal Kalia, Nikita Suri, Sandeep Gupta
 year: 2024
 doi: 10.1007/s12663-023-01945-0
-category: [drug]
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kalra-2024-buffered-lidocaine-articaine-extraction-rct.pdf
 pdf_filename: kalra-2024-buffered-lidocaine-articaine-extraction-rct.pdf
 source_collection: external

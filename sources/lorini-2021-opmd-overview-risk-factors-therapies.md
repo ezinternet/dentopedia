@@ -3,7 +3,7 @@ title: "Overview of Oral Potentially Malignant Disorders: From Risk Factors to S
 authors: Luigi Lorini, Coro Bescós Atín, Selvam Thavaraj, et al.
 year: 2021
 doi: 10.3390/cancers13153696
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lorini-2021-opmd-overview-risk-factors-therapies.pdf
 pdf_filename: lorini-2021-opmd-overview-risk-factors-therapies.pdf
 source_collection: external

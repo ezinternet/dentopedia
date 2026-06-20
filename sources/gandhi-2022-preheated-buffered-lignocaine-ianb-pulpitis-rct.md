@@ -3,7 +3,7 @@ title: "Evaluation of pulpal anesthesia and injection pain using IANB with pre-h
 authors: Namita Gandhi, Nimisha Shah, Dian Agustin Wahjuningrum, Sweetly Purnomo, Riana Nooshian, Suraj Arora, Ajinkya M. Pawar
 year: 2022
 doi: 10.7717/peerj.14187
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct.pdf
 pdf_filename: gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct.pdf
 source_collection: external

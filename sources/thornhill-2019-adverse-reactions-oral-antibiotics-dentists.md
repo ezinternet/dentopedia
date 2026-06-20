@@ -3,7 +3,7 @@ title: "Risk of Adverse Reactions to Oral Antibiotics Prescribed by Dentists"
 authors: M.H. Thornhill, M.J. Dayer, M.J. Durkin, P.B. Lockhart, L.M. Baddour
 year: 2019
 doi: 10.1177/0022034519863645
-category: drug
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thornhill-2019-adverse-reactions-oral-antibiotics-dentists.pdf
 pdf_filename: thornhill-2019-adverse-reactions-oral-antibiotics-dentists.pdf
 source_collection: external

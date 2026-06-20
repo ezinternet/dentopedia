@@ -4,7 +4,7 @@ authors: Torof E, Morrissey H, Ball PA
 year: 2023
 doi: 10.3390/medicina59040713
 journal: "Medicina 59:713"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/torof-2023-antibiotic-dental-implant-procedures-sr-ma.pdf
 pdf_filename: torof-2023-antibiotic-dental-implant-procedures-sr-ma.pdf
 source_collection: external

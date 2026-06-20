@@ -4,7 +4,7 @@ authors: Rainsford KD
 year: 2009
 doi: 10.1007/s10787-009-0016-x
 journal: "Inflammopharmacology 17:275-342"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 pdf_filename: rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review.pdf
 source_collection: external

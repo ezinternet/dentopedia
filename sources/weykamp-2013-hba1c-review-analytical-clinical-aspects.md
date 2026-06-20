@@ -3,7 +3,7 @@ title: "HbA1c: A Review of Analytical and Clinical Aspects"
 authors: Weykamp C
 year: 2013
 doi: 10.3343/alm.2013.33.6.393
-category: drug
+category: [drug/systemic-disease]
 pdf_path: /Users/oracleneo/llm-wiki/papers/weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 pdf_filename: weykamp-2013-hba1c-review-analytical-clinical-aspects.pdf
 source_collection: external

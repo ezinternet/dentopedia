@@ -4,7 +4,7 @@ authors: Guardieiro B, Santos-Paul MA, Furtado RHM, et al.
 year: 2023
 doi: 10.1016/j.jebdp.2023.101863
 journal: "Journal of Evidence-Based Dental Practice 23(3):101863"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 pdf_filename: guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct.pdf
 source_collection: external

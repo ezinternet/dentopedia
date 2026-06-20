@@ -4,7 +4,7 @@ authors: Moore RA, Wiffen PJ, Derry S, Maguire T, Roy YM, Tyrrell L
 year: 2015
 doi: 10.1002/14651858.CD010794.pub2
 journal: "Cochrane Database Syst Rev 2015, Issue 11"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 pdf_filename: moore-2015-otc-oral-analgesics-cochrane-overview.pdf
 source_collection: external

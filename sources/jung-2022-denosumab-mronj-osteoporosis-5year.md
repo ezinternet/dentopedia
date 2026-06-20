@@ -3,7 +3,7 @@ title: "A 5-year retrospective cohort study of denosumab induced medication rela
 authors: Seoyeon Jung, Jaeyeon Kim, Jin Hoo Park, Ki-Yeol Kim, Hyung Jun Kim, Wonse Park
 year: 2022
 doi: 10.1038/s41598-022-11615-9
-category: [drug]
+category: [drug/mronj]
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 pdf_filename: jung-2022-denosumab-mronj-osteoporosis-5year.pdf
 source_collection: external

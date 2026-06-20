@@ -4,7 +4,7 @@ authors: Wilson WR, Gewitz M, Lockhart PB et al. (AHA Writing Group)
 year: 2021
 doi: 10.1161/CIR.0000000000000969
 journal: Circulation 143:e963-e978
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wilson-2021-ie-prophylaxis-aha-scientific-statement.pdf
 pdf_filename: wilson-2021-ie-prophylaxis-aha-scientific-statement.pdf
 source_collection: external

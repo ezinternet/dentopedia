@@ -3,7 +3,7 @@ title: "An updated meta-analysis on the efficacy and safety of medications admin
 authors: Dorsa Samani, Armin Arian, Kimia Kelidari, Mahsa Moosapoor Farkhani, Aida Keshavarzi, et al.
 year: 2025
 doi: 10.62347/RHSD5636
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/samani-2025-nsaids-endodontic-postoperative-network.pdf
 pdf_filename: samani-2025-nsaids-endodontic-postoperative-network.pdf
 source_collection: external

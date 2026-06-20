@@ -4,7 +4,7 @@ authors: Bazsefidpay et al.; Lund B (corresponding)
 year: 2023
 doi: 10.1186/s12903-023-03534-6
 journal: "BMC Oral Health 23:818"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.pdf
 pdf_filename: bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation.pdf
 source_collection: external

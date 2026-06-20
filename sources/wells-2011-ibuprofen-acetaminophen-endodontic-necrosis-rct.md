@@ -4,7 +4,7 @@ authors: Wells LK, Drum M, Nusstein J, Reader A, Beck M
 year: 2011
 doi: 10.1016/j.joen.2011.08.011
 journal: "Journal of Endodontics 37(12):1608-1612"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 pdf_filename: wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct.pdf
 source_collection: external

@@ -4,7 +4,7 @@ authors: Watson H, Hildebolt C, Rowland K
 year: 2022
 doi: 10.1093/pm/pnab334
 journal: "Pain Medicine"
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 pdf_filename: watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma.pdf
 source_collection: external

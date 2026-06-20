@@ -3,7 +3,7 @@ title: "Oral Antibiotic for Empirical Management of Acute Dentoalveolar Infectio
 authors: Leanne Teoh, Monique C Cheung, Stuart Dashper, Rodney James, Michael J McCullough
 year: 2021
 doi: 10.3390/antibiotics10030240
-category: drug
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 pdf_filename: teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections.pdf
 source_collection: external

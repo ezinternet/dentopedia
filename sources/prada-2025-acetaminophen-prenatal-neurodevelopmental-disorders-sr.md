@@ -3,7 +3,7 @@ title: "Evaluation of the evidence on acetaminophen use and neurodevelopmental d
 authors: Diddier Prada, Beate Ritz, Ann Z. Bauer, Andrea A. Baccarelli
 year: 2025
 doi: 10.1186/s12940-025-01208-0
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr.pdf
 pdf_filename: prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr.pdf
 source_collection: external

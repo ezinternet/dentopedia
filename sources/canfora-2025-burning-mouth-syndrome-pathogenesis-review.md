@@ -3,7 +3,7 @@ title: "Burning mouth syndrome: updates on pathogenesis and diagnostic algorithm
 authors: Federica Canfora, Elena Calabria, Niccolò Giuseppe Armogida, Giulia Ottaviani, Michele Davide Mignogna, Gianrico Spagnuolo, Daniela Adamo
 year: 2025
 doi: 10.22514/jofph.2025.064
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/canfora-2025-burning-mouth-syndrome-pathogenesis-review.pdf
 pdf_filename: canfora-2025-burning-mouth-syndrome-pathogenesis-review.pdf
 source_collection: external

@@ -4,7 +4,7 @@ authors: Ji-Youn Hong, Jung-Seok Lee, Seong-Ho Choi, Hyun-Seung Shin, Jung-Chul 
 year: 2019
 doi: 10.1186/s12903-019-0728-2
 journal: BMC Oral Health 2019;19:40
-category: drug
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2019-randomized-double-blind-placebo-controlled-multicenter.pdf
 pdf_filename: hong-2019-randomized-double-blind-placebo-controlled-multicenter.pdf
 source_collection: external

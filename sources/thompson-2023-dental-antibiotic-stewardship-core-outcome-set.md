@@ -4,7 +4,7 @@ authors: Thompson W, Teoh L, Pulcini C, Sanderson S, Williams D, Carter V, Pitke
 year: 2023
 doi: ""
 journal: "Scientific Research Report (J Dent Res or similar; from FDI/Manchester)"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 pdf_filename: thompson-2023-dental-antibiotic-stewardship-core-outcome-set.pdf
 source_collection: external

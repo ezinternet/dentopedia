@@ -3,7 +3,7 @@ title: "Analgesic Efficacy of Etoricoxib following Third Molar Surgery: A Meta-a
 authors: Lorenzo Franco-de la Torre, Diana Laura Franco-González, Lorena Michele Brennan-Bourdon, Nelly Molina-Frechero, Ángel Josabad Alonso-Castro, Mario Alberto Isiordia-Espinoza
 year: 2021
 doi: 10.1155/2021/9536054
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.pdf
 pdf_filename: franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third.pdf
 source_collection: external

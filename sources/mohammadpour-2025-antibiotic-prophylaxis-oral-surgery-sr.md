@@ -3,7 +3,7 @@ title: "Rational utilization of antibiotic prophylaxis in oral and maxillofacial
 authors: Mohammadpour D, Ghafari F, Masoumi I, et al.
 year: 2025
 doi: 10.1186/s12903-025-07237-y
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "41286855"

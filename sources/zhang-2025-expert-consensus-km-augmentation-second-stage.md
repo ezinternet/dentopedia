@@ -3,7 +3,7 @@ title: "Expert consensus on peri-implant keratinized mucosa augmentation at seco
 authors: Shiwen Zhang, Rui Sheng, Zhen Fan, Fang Wang, Ping Di, Junyu Shi, Duohong Zou, Dehua Li, Yufeng Zhang, Zhuofan Chen, Guoli Yang, Wei Geng, Lin Wang, Jian Zhang, Yuanding Huang, Baohong Zhao, Chunbo Tang, Dong Wu, Shulan Xu, Cheng Yang, Yongbin Mou, Jiacai He, Xingmei Yang, Zhen Tan, Xiaoxiao Cai, Jiang Chen, Hongchang Lai, Zuolin Wang, Quan Yuan
 year: 2025
 doi: 10.1038/s41368-025-00379-3
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/zhang-2025-expert-consensus-km-augmentation-second-stage.pdf
 pdf_filename: zhang-2025-expert-consensus-km-augmentation-second-stage.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Therapeutic effectiveness of keratinized mucosa augmentation for functio
 authors: Oh SL, Shahami S, Bernal-Cepeda LJ, Fu Y, Chung MK
 year: 2024
 doi: 10.2186/jpr.JPR_D_24_00002
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma.pdf
 pdf_filename: oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma.pdf
 source_collection: external

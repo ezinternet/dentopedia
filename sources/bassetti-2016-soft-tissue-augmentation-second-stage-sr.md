@@ -3,7 +3,7 @@ title: "Soft tissue augmentation procedures at second-stage surgery: a systemati
 authors: Bassetti RG, Stähli A, Bassetti MA, Sculean A
 year: 2016
 doi: 10.1007/s00784-016-1815-2
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 pdf_filename: bassetti-2016-soft-tissue-augmentation-second-stage-sr.pdf
 source_collection: external

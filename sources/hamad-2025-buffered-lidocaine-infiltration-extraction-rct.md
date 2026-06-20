@@ -3,7 +3,7 @@ title: "Evaluating Pain, Onset of Action, Duration, and Anesthetic Efficacy of C
 authors: Shehab A. Hamad, Alah Dawood Al-Dawoody, Ahmed Sh. Alraad, Osamah S. Ahmed
 year: 2025
 doi: 10.4317/jced.63093
-category: [drug]
+category: [local-anesthesia]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 pdf_filename: hamad-2025-buffered-lidocaine-infiltration-extraction-rct.pdf
 source_collection: external

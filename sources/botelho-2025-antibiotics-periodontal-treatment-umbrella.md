@@ -3,7 +3,7 @@ title: "Antibiotics in periodontal treatment: an umbrella review"
 authors: "Botelho J, Machado V, Leira Y, et al."
 year: 2025
 doi: 10.3389/fcimb.2025.1601464
-category: [drug]
+category: [drug/antibiotics]
 source_collection: pubmed-text
 full_text: true
 pmid: "40535546"

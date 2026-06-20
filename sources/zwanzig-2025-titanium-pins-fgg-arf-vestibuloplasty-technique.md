@@ -3,7 +3,7 @@ title: "The Use of Titanium Pins for the Management and Fixation of Free Gingiva
 authors: Zwanzig K, Akhondi S, Tavelli L, Lanis A
 year: 2025
 doi: 10.11607/prd.7197
-category: [implants]
+category: [implants/soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.pdf
 pdf_filename: zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique.pdf
 source_collection: external

@@ -4,7 +4,7 @@ authors: Lim H, Gong EJ, Min BH, Kang SJ, Shin CM, Byeon JS, et al.
 year: 2020
 doi: 10.4166/kjg.2020.142
 journal: "Korean Journal of Gastroenterology 76(6):282-296"
-category: [drug]
+category: [drug/anticoagulants]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 pdf_filename: lim-2020-antithrombotic-gi-endoscopy-korean-guideline.pdf
 source_collection: external

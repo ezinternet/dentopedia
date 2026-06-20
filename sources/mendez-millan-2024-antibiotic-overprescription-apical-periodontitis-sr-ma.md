@@ -4,7 +4,7 @@ authors: Méndez-Millán JA, León-López M, Martín-González J, Saúco-Márque
 year: 2024
 doi: 10.3390/antibiotics13040289
 journal: "Antibiotics 13:289"
-category: [drug]
+category: [drug/antibiotics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.pdf
 pdf_filename: mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma.pdf
 source_collection: external

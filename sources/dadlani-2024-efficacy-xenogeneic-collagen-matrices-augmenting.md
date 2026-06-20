@@ -3,7 +3,7 @@ title: "Efficacy of Xenogeneic Collagen Matrices in Augmenting Peri-Implant Soft
 authors: Shashi Dadlani, Betsy Joseph, Sukumaran Anil
 year: 2024
 doi: 10.1002/cre2.937
-category: [implants]
+category: [implants/soft-tissue]
 source_collection: pubmed-text
 full_text: true
 pmid: "39104130"

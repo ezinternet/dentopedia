@@ -3,7 +3,7 @@ title: "Is There a Link between Non-Steroidal Anti-Inflammatory Drugs and Cardio
 authors: Zingler G, Baerwald C
 year: 2025
 doi: 10.1016/j.semarthrit.2025.152550
-category: [drug]
+category: [drug/analgesics]
 pdf_path: /Users/oracleneo/llm-wiki/papers/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 pdf_filename: zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis.pdf
 source_collection: external

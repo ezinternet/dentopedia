@@ -3,7 +3,7 @@ title: "Oral potentially malignant disorders: A comprehensive review on clinical
 authors: Saman Warnakulasuriya
 year: 2020
 doi: 10.1016/j.oraloncology.2019.104550
-category: ['oral-medicine']
+category: [oral-medicine]
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2020-opmd-comprehensive-review.pdf
 pdf_filename: warnakulasuriya-2020-opmd-comprehensive-review.pdf
 source_collection: external
