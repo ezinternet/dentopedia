@@ -1,0 +1,6 @@
+Effectiveness of nonsurgical therapy of peri-implant mucositis: A systematic review
+Brunello G, et al. Periodontology 2000. 2026. DOI: 10.1111/prd.70047. PMID: 42032437.
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+SR question: how do clinical parameters change in implants affected by peri-implant mucositis following different non-surgical treatment approaches or no treatment, with >=6 months monitoring? Searched MEDLINE-PubMed, Cochrane CENTRAL, Web of Science (May 2015–April 2025) for RCTs / prospective controlled (NRCT). A network meta-analysis was planned. Twenty-one studies (19 RCTs; 2 NRCTs; 1068 patients). Treatments: curettes, (ultra)sonic scalers, air-polishing, laser, antimicrobials, probiotics, antibiotics — alone or combined. All treatments reduced BOP to various extents. Peri-implant mucositis resolution achieved in a subset, ranging 9% to 100% (only one study group reached 100%). Microbiological/immunological data and PROs sparsely/heterogeneously reported. Only one-third of studies had low RoB. NMA could NOT be performed due to limited data and heterogeneity. Conclusion: all nonsurgical protocols including mechanical debridement alone improved clinical parameters; adjuncts yielded only minor improvements at 6 months. Standardized outcome sets and routine PROs needed.
