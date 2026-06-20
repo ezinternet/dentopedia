@@ -1,0 +1,17 @@
+The Effects of Systemic Diseases and Medications on Implant Osseointegration: A Systematic Review.
+
+Authors: Aghaloo T, Pi-Anfruns J, Moshaverinia A, Sim D, Grogan T, Hadaya D
+Journal: Int J Oral Maxillofac Implants 2019;34(Suppl):s35-s49
+PMID 31116832 | DOI 10.11607/jomi.19suppl.g3
+
+NOTE: abstract-only — full text not retrieved. Content below is the PubMed abstract. (ITI consensus systematic review on systemic risk factors for osseointegration.)
+
+AIM: To evaluate the effect of systemic disorders (diabetes, osteoporosis) and other conditions/medications on implant osseointegration — including neurocognitive disease, cardiovascular disease, HIV, hypothyroidism, rheumatoid arthritis (RA), and medications (SSRIs, PPIs, antihypertensives).
+
+RESULTS:
+- Diabetes: literature does NOT demonstrate that diabetes negatively affects osseointegration (most studies on well-controlled diabetics + prophylactic antibiotics); increased long-term bone/soft-tissue complications shown.
+- Osteoporosis: recent studies/reviews fail to demonstrate lower osseointegration rate; but caution for osteonecrosis of the jaws (ONJ), especially with bone malignancies/antiresorptives.
+- HIV, cardiovascular disease, neurologic disorders, hypothyroidism, rheumatoid arthritis: NO direct evidence of decreased osseointegration rate.
+- Medications: preliminary evidence that SSRIs or PPIs may NEGATIVELY affect osseointegration (recent, needs validation).
+
+CONCLUSION: Disease control, concomitant medications, and comorbidities complicate osseointegration and must guide treatment approaches and clinical guidelines. RA itself does not show reduced osseointegration on current evidence.
