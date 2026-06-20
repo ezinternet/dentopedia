@@ -95,5 +95,6 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 ## Related Overviews
 
 - [[overviews/orthodontic-tooth-movement-biology]] — molecular/biomechanical basis of tooth movement underlying aligner force delivery
+- [[overviews/myofunctional-elastodontic-orthodontics-overview]] — myofunctional/elastodontic appliances: the interceptive (growing-patient) removable-appliance counterpart
 - [[overviews/interdental-cleaning-devices-synthesis]] — oral-hygiene context for the periodontal/biofilm axis
 - [[overviews/tmd-management-evidence-ladder]] — TMD context for the masticatory/TMJ axis
