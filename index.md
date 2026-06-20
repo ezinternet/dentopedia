@@ -752,6 +752,7 @@ tags: []
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — PRISMA SR (20 studies, 2018–2023) mapping risk factors for implant-supported overdenture failures: arch, implant number, loading protocol, systemic health, and prosthetic design
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
+- [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
 - [[veneers/morimoto-2016-feldspathic-glass-ceramic-veneer-survival-sr-ma]] — Morimoto 2016 SR+MA: feldspathic/glass-ceramic laminate veneer survival 89% at 9yr, fracture/chipping dominant complication, IJP
 - [[veneers/albanesi-2016-incisal-coverage-ceramic-laminate-veneer-sr-ma]] — Albanesi 2016 SR+MA: incisal coverage vs non-coverage OR 1.25 (NS), both preparation designs safe for ceramic veneers, J Dent
 - [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]] — Klein 2025 SR+MA: 4-material ceramic veneer comparison (29 studies, 7753 veneers); LDS best complication profile at 10.4yr; zirconia 100% at 2.6yr, JERD
@@ -1325,6 +1326,7 @@ tags: []
 - [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
 
 ## 우식 (Caries)
+- [[caries/bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct]] — Bhandari 2026 · rct · 3군 RCT(n=482 두경부암 방사선치료): 타액대체제·불소바니시·병용 모두 DMFS 유의 증가(P<0.05)·군간차 없음 → 단독으로 방사선우식 진행 억제 못함, 다요소 접근 필요 (DOI 10.1007/s00520-026-10909-2)
 - [[caries/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct]] — Mohamed 2026 · rct · 12개월 RCT(n=80 유구치): 기성금속관(PMC) 전통법 vs Hall법 모두 성공·생존 100%; Hall 교합거상은 1개월 내 해소 (DOI 10.1016/j.jdent.2026.106686)
 - [[caries/gizani-2026-restorative-mih-primary-permanent-molars-sr]] — Gizani 2026 · sr · MIH 유·영구 대구치 수복 SR(20편): 성공률 84%(12mo)→83%(36mo), GIC 최저(53%)·PMC/세라믹 최고(100%); 메타분석 불가 (DOI 10.1007/s40368-026-01221-y)
 - [[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]] — Garcia-Miralles 2026 · sr · 유구치 와동 우식 SDF RCT SR(2편, 풀링 없음): SDF가 통상수복 대비 단기(≤12mo) 유리 가능성 (DOI 10.1016/j.jdent.2026.106703)
