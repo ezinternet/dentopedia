@@ -1,0 +1,25 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC). PMID 41690135]
+
+TITLE: Marginal and internal fit of contemporary monolithic zirconia inlays: Impact of resin cement, and thermomechanical aging.
+
+AUTHORS: Rami Al Fodeh; Ziad N Al-Dwairi; Raneen Hijjawi; Nadin Al-Haj Husain; Muhanad Hatamleh.
+
+JOURNAL: Journal of the mechanical behavior of biomedical materials (J Mech Behav Biomed Mater). 2026 Feb 10; vol 177:107369.
+
+DOI: 10.1016/j.jmbbm.2026.107369
+
+PMID: 41690135
+
+KEYWORDS: Inlays; Internal fit; Marginal fit; Monolithic zirconia; Resin cement.
+
+MeSH: Zirconium; Resin Cements; Materials Testing; Temperature; Mechanical Phenomena; Time Factors; Inlays.
+
+ABSTRACT:
+To investigate the effect of resin-based cements, thermocycling and dynamic loading on the marginal and internal fit of inlays made from two different monolithic zirconia materials.
+
+Sixty-four caries-free extracted maxillary premolar teeth were embedded in acrylic resin molds and prepared for mesial occlusal distal inlays by one operator. They were randomly divided into two groups based on inlay material; Zolid Gen-X (n = 32) and IPS e.max ZirCAD Prime (n = 32). Each group was subdivided into two subgroups according to cement type: RelyX Unicem (n = 16) and Panavia F 2.0 (n = 16). Half of the specimens were incubated at 37 °C for 24hr while the other half underwent a thermomechanical aging protocol consisting of 1,200,000 dynamic loading cycles at 5 and 55 °C. Occlusal and proximal marginal fit were measured at 20 locations using a stereomicroscope at 20x magnification. Internal fit was assessed at seven locations using scanning electron microscopy (SEM) at 200x. Data were analyzed using three-way ANOVA and multivariate tests at a significance level of P < 0.05.
+
+The marginal gap of the monolithic zirconia inlays remained within clinically acceptable ranges (50-120 μm) regardless of the type of zirconia material. However, the choice of resin cement had a significant effect as RelyX cement produced smaller gaps compared to Panavia at both occlusal and proximal surfaces (P < 0.05). Simulated aging, including thermocycling and dynamic loading, significantly increased marginal gaps (P < 0.05), indicating its impact on long-term performance. In contrast, internal fit values ranged from 111.95 to 163.16 μm and showed no statistically significant differences between zirconia material, resin cement, or aging conditions (P > 0.05). These findings highlight the importance of selecting appropriate cement systems and considering aging effects to optimize the marginal integrity of zirconia inlays while confirming the stability of their internal fit.
+
+CONCLUSION (author summary):
+This study found no significant difference in marginal fit between Zolid Gen-X (4Y-TZP) and IPS e.max ZirCAD Prime (3Y-TZP/5Y-TZP gradient) under tested conditions. Both materials achieved clinically acceptable fit. However, RelyX cement provided significantly better marginal integrity than Panavia, and aging significantly increased marginal gaps. Internal fit was unaffected by material, cement, or aging, but exceeded ideal values. Cement choice and aging are crucial factors for marginal seal longevity.
