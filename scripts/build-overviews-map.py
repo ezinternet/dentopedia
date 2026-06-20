@@ -68,7 +68,7 @@ DOMAINS = [
     ("약물 · 전신질환", ["drug-"]),
     ("구강내과 · 미생물 · 노년 · 구강안면통증", [
         "oral-medicine", "oral-microbiome", "oral-frailty", "bms", "orofacial-pain"]),
-    ("교정", ["miniscrew", "orthodontic-tooth", "clear-aligner", "aligner"]),
+    ("교정", ["miniscrew", "orthodontic-tooth", "clear-aligner", "aligner", "myofunctional", "elastodontic"]),
     ("방사선 · 디지털 · AI", [
         "cbct", "dental-imaging", "digital-workflow", "ai-dentistry"]),
     ("행동 · 커뮤니케이션 · 경영", [
