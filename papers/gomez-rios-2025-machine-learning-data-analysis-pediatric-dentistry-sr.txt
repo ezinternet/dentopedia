@@ -1,0 +1,15 @@
+Application of machine learning for data analysis in paediatric dentistry: a systematic review.
+
+Authors: Gómez-Ríos I, Saura-López V, Pérez-Silva A, Serna-Muñoz C, Ortiz-Ruiz AJ
+Journal: Eur J Paediatr Dent 2025;27(2):127-137
+PMID 40434067 | DOI 10.23804/ejpd.2025.2288
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+AIM: The study aims to assess whether the application of machine learning (ML) for database analysis enhances the approach to oral diseases in the paediatric population.
+
+BACKGROUND/METHODS: Dental caries affects 514 million children worldwide. Artificial intelligence (AI), particularly ML, has seen increased utilisation in medicine and dentistry, handling data beyond human capacity to discern patterns and make predictions. PubMed, Web of Science, Scopus, and Lilacs databases were searched. Topics covered include the impact of oral health on adolescents' quality of life, predictors of early childhood caries and of the need of second treatment under deep sedation, and the effectiveness of preventive dental services.
+
+RESULTS: Twenty articles meeting eligibility criteria were analyzed for quality using the QUADAS-2 scale. The systematic review adhered to the PRISMA statement, yielding 20 articles out of 1945 initially screened. Fourteen articles focused on caries prediction, highlighting socio-demographic, behavioural, and biological predictors. ML analysis revealed that children with early caries lesions incur higher costs for insurers, with those receiving sealants and fluoride demonstrating greater cost savings.
+
+CONCLUSION: ML algorithms can identify patterns in large datasets, enhancing approaches to paediatric oral diseases. Their integration into research and educational programs is recommended. Methodological guidelines and quality scales specific to such studies are necessary for improved scientific evidence.
