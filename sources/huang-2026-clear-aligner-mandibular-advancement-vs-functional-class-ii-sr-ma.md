@@ -3,7 +3,7 @@ title: "Comparative efficacy of clear aligner mandibular advancement versus trad
 authors: Huang X, Tao Y, Huang Z, Zhao Z, Cen X
 year: 2026
 doi: 10.1186/s12903-026-08175-z
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "41923072"
@@ -15,7 +15,7 @@ text_filename: huang-2026-clear-aligner-mandibular-advancement-vs-functional-cla
 
 ## Why Ingested
 
-This 2026 SR+MA is the larger, newer counterpart to [[wiki/orthodontics/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] on the identical CAMA-vs-functional-appliance Class II question. Both independently conclude comparable skeletal effect plus superior lower-incisor torque control with CAMA, so it **reinforces** (does not overturn) Yu, and adds a Herbst-specific comparison and quantified IMPA/overjet effect sizes.
+This 2026 SR+MA is the larger, newer counterpart to [[wiki/orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] on the identical CAMA-vs-functional-appliance Class II question. Both independently conclude comparable skeletal effect plus superior lower-incisor torque control with CAMA, so it **reinforces** (does not overturn) Yu, and adds a Herbst-specific comparison and quantified IMPA/overjet effect sizes.
 
 ## One-line Summary
 
@@ -62,10 +62,10 @@ PubMed/Embase/Web of Science/Cochrane CENTRAL to Dec 31 2025; PRISMA 2020; PICOS
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — same CAMA-vs-functional Class II question; earlier/smaller; same conclusion (reinforces).
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context for CAT vs FAT efficacy (applies-to).
-- [[wiki/orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — alternative aligner-based Class II correction strategy (molar distalization).
-- [[wiki/orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — aligner movement predictability context.
+- [[wiki/orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — same CAMA-vs-functional Class II question; earlier/smaller; same conclusion (reinforces).
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context for CAT vs FAT efficacy (applies-to).
+- [[wiki/orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — alternative aligner-based Class II correction strategy (molar distalization).
+- [[wiki/orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — aligner movement predictability context.
 
 ## 7. Glossary
 
