@@ -5,7 +5,7 @@ year: 2023
 date: 2023-12-04
 doi: 10.3390/bioengineering10121390
 source: inchingolo-2023-clear-aligner-distalization-predictability-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -51,7 +51,7 @@ SR (no MA). Scopus/WoS/PubMed, last 10 years; 146 -> 19 studies. Qualitative syn
 
 ## Related Papers
 
-- [[orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — quantifies distalization accuracy (extends)
-- [[orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — attachments for difficult movements (reinforces)
+- [[orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — quantifies distalization accuracy (extends)
+- [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — attachments for difficult movements (reinforces)
 - [[orthodontics/alharbi-2018-miniscrew-failure-rate-orthodontics-sr-ma]] — TAD reliability (applies-to)
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella "specific-movement" caveat (refines)
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella "specific-movement" caveat (refines)
