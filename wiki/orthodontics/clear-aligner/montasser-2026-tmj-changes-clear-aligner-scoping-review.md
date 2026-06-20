@@ -5,7 +5,7 @@ year: 2026
 date: 2026-05-07
 doi: 10.1186/s12903-026-08414-3
 source: montasser-2026-tmj-changes-clear-aligner-scoping-review.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -60,6 +60,6 @@ PRISMA-ScR scoping review; PCC eligibility (CA orthodontic patients; TMJ change;
 
 ## Related Papers
 
-- [[orthodontics/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — masticatory/stomatognathic-function side of CAT; this page reinforces it with the structural (TMJ morphology) axis.
-- [[orthodontics/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] — masticatory-muscle EMG with aligners; complementary functional evidence.
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella CAT-vs-FAT overview; this TMJ-specific gap applies to / sits within it.
+- [[orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — masticatory/stomatognathic-function side of CAT; this page reinforces it with the structural (TMJ morphology) axis.
+- [[orthodontics/clear-aligner/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] — masticatory-muscle EMG with aligners; complementary functional evidence.
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella CAT-vs-FAT overview; this TMJ-specific gap applies to / sits within it.
