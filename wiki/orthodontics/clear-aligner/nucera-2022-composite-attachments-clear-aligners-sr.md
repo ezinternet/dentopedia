@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-11
 doi: 10.3390/ma15020533
 source: nucera-2022-composite-attachments-clear-aligners-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -50,6 +50,6 @@ SR (no MA). 8 databases to Mar 2020; two-author selection/extraction/RoB; 5 clin
 
 ## Related Papers
 
-- [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — attachments aid distalization anchorage (reinforces)
-- [[orthodontics/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — sibling force-delivery determinant (extends)
-- [[orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — attachments improve achieved/predicted (applies-to)
+- [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — attachments aid distalization anchorage (reinforces)
+- [[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — sibling force-delivery determinant (extends)
+- [[orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — attachments improve achieved/predicted (applies-to)
