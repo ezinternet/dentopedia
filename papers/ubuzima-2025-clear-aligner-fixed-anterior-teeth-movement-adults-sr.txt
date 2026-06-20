@@ -1,0 +1,15 @@
+Comparative effectiveness of clear aligners and fixed appliances in orthodontic movement of the anterior teeth in adults: A systematic review.
+
+Authors: Ubuzima P, Nshimiyimana E, Michelogiannakis D, Mukeshimana C, Mazimpaka P, Habumugisha J, Turkkahraman H, Kamioka H
+Journal: International Orthodontics 2025;24(2):101084
+PMID 41172597 | DOI 10.1016/j.ortho.2025.101084
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+OBJECTIVE: The aim of this systematic review was to analyse and compare the effectiveness of clear aligners (CAs) and fixed appliances (FAs) in orthodontic movement of the anterior teeth (OMAT) in adults.
+
+MATERIALS AND METHODS: A systematic search of studies comparing CAs and FAs in databases such as PubMed, Cochrane Library, Science Direct, Web of Science, Scopus, and Google Scholar was conducted and covered publications up to September 2024. Randomized and non-randomized clinical trials were eligible. Risk of bias assessment was performed using Cochrane's tools for randomized controlled trials (RCTs) and for non-RCTs. The Grading of Recommendations, Assessment, Development and Evaluation (GRADE) tool assessed the quality of evidence.
+
+RESULTS: Twelve studies were included. Two RCTs presented a low risk of bias, and a moderate risk of bias was found in 10 non-RCTs. The FAs showed superior buccolingual crown translation in 2 studies, while 2 favored CAs, and 2 found no significant differences. Mesiodistal translation was reported to be equal between FAs and CAs in 2 studies. Study results regarding extrusion movements were inconsistent, with 3 studies favouring CAs, and 2 studies FAs, while intrusion was equally effective, with 1 study favouring each. Tipping movements showed mixed results, with 1 study favouring each respective treatment and 2 reporting no significant differences. Torque control was better with FAs in 1 study, while 1 study reported no significant difference.
+
+CONCLUSION: This review shows that the efficacy of vertical OMAT was inconsistent, while FAs appear to offer superior rotation and torque control, based on limited evidence from a small number of studies.
