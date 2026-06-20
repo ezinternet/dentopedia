@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-06
 doi: 10.1007/s00784-021-04361-1
 source: yassir-2022-cat-vs-fat-overview-systematic-reviews.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: false
@@ -51,7 +51,7 @@ Overview of systematic reviews (PROSPERO CRD42021246855). Search to 15 Jul 2021;
 
 ## Related Papers
 
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only SR+MA refining the same question
-- [[orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — severe/extraction subset
-- [[orthodontics/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — quantifies root resorption
-- [[orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal claim, quantified
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only SR+MA refining the same question
+- [[orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — severe/extraction subset
+- [[orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — quantifies root resorption
+- [[orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal claim, quantified
