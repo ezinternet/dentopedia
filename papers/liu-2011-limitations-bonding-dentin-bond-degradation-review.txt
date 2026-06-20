@@ -1,0 +1,18 @@
+Limitations in Bonding to Dentin and Experimental Strategies to Prevent Bond Degradation
+
+Authors: Liu Y, Tjäderhane L, Breschi L, Mazzoni A, Li N, Mao J, Pashley DH, Tay FR
+Journal: J Dent Res 2011;90(8):953-968
+PMID 21220360 | PMCID PMC3148178 | DOI 10.1177/0022034510391799
+
+NOTE: PMC record carries the abstract only (JATS body not available); content below is the PubMed abstract. This is a landmark review unifying hybrid-layer degradation, ethanol wet-bonding, and the water-driven mechanisms behind bond failure.
+
+The limited durability of resin-dentin bonds severely compromises the lifetime of tooth-colored restorations. Bond degradation occurs [via] hydrolysis of suboptimally polymerized hydrophilic resin components and degradation of water-rich, resin-sparse collagen matrices by matrix metalloproteinases (MMPs) and cysteine cathepsins.
+
+This review examined data generated over the past three years on FIVE experimental strategies developed by different research groups for extending the longevity of resin-dentin bonds:
+(1) increasing the degree of conversion and esterase resistance of hydrophilic adhesives;
+(2) the use of broad-spectrum inhibitors of collagenolytic enzymes, including novel inhibitor functional groups grafted to methacrylate resin monomers to produce anti-MMP adhesives;
+(3) the use of cross-linking agents for silencing the activities of MMP and cathepsins that irreversibly alter the 3-D structures of their catalytic/allosteric domains;
+(4) ethanol wet-bonding with hydrophobic resins to completely replace water from the extrafibrillar and intrafibrillar collagen compartments and immobilize the collagenolytic enzymes;
+(5) biomimetic remineralization of the water-filled collagen matrix using analogs of matrix proteins to progressively replace water with intrafibrillar and extrafibrillar apatites to exclude exogenous collagenolytic enzymes and fossilize endogenous collagenolytic enzymes.
+
+A combination of several of these strategies should result in overcoming the critical barriers to progress currently encountered in dentin bonding.
