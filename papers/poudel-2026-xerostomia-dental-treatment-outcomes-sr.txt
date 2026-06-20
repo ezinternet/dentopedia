@@ -1,0 +1,794 @@
+Impact of Xerostomia on dental treatment outcomes: a systematic review
+
+PMID 41622146 | PMCID PMC12955130 | DOI 10.1186/s12903-026-07815-8
+Source: PMC open-access full text.
+
+Introduction
+
+Xerostomia, commonly referred to as dry mouth, is the subjective sensation of oral dryness and is frequently associated with reduced salivary flow (hyposalivation) []. Notably, some individuals experience xerostomic symptoms despite having normal salivary function, a condition described as “symptomatic” or “pseudo” xerostomia []. The condition most often arises from diminished salivary secretion, which compromises the natural lubrication of the oral mucosa and affects overall oral health [,]. Xerostomia can affect people of all ages but is particularly common among postmenopausal women and older adults [].
+
+The causes of xerostomia are diverse. Medication-induced salivary dysfunction is the most frequent etiology, with drug classes such as anticholinergics, antidepressants, antipsychotics, diuretics, antihypertensives, sedatives, muscle relaxants, opioids, NSAIDs, and antihistamines often implicated []. Radiation therapy for head and neck cancers almost universally leads to xerostomia, as exposure of the parotid glands to doses above 24–26 Gy causes irreversible glandular damage and long-term hyposalivation []. Another well-recognized cause is Sjögren’s syndrome, an autoimmune disease that destroys salivary and lacrimal glands, most often affecting women over the age of 40 []. Other systemic conditions such as diabetes mellitus, systemic lupus erythematosus, thyroid disorders, HIV/AIDS, end-stage renal disease, and graft-versus-host disease, as well as lifestyle factors including chronic mouth breathing and dehydration, may also contribute [].
+
+Saliva plays a vital role in oral health, with daily secretion ranging from 0.5 to 1.5 L and containing electrolytes, proteins, enzymes, and antimicrobial agents []. It facilitates lubrication, mastication, swallowing, and digestion; contributes to buffering and remineralization; maintains a balanced oral microbiome; and supports tissue repair []. When salivary flow is compromised, patients are predisposed to complications such as mucosal irritation, infection, oral dysbiosis, and impaired wound healing [].
+
+These pathophysiological changes have important implications for dental care. In restorative dentistry, xerostomia accelerates secondary caries and increases restoration failure rates, with studies noting reduced survival of glass ionomer and composite fillings in affected patients []. In prosthodontics, the absence of salivary lubrication impairs denture retention and comfort and also periodontal therapy may be less effective due to reduced mucosal defense, while in oral surgery, healing complications such as dry socket are more frequent, particularly among patients with comorbidities like diabetes [,]. Additionally, peri-implant bone resorption may be accelerated by heightened mucosal inflammation and osteoclast activity in xerostomic patients []. Reduced saliva flow or altered saliva quality can harm teeth, hinder bone integration, and affect peri-implant health []. In scleroderma and Sjögren’s syndrome, this often leads to greater bone loss and soft tissue changes around implants [].
+
+Despite the growing body of literature describing these effects, there remains no comprehensive synthesis evaluating the impact of xerostomia across dental treatment modalities. This knowledge gap limits clinical awareness and evidence-based decision-making for affected patients. This systematic review specifically examines outcomes related to dental restorations, implant therapy, periodontal treatment, and patient-reported experiences in individuals with xerostomia. In addition, where data permit, outcomes are examined according to the underlying etiology of xerostomia. This review aims to consolidate current evidence, identify knowledge gaps, and guide evidence-based strategies to optimize dental treatment outcomes in xerostomic patients.
+
+Methods
+
+The following systematic review was conducted in accordance with the Preferred Reporting Items for Systematic review and Meta-Analysis Protocol (PRISMA-P) [] and is registered with the International Prospective Register of Systematic Reviews (PROSPERO) under the registration number CRD420251035790.
+
+Focused question
+
+The question was defined in accordance with the Population, Intervention, Comparison, Outcome method (PICO)(Table) []. What are the clinical outcomes of dental treatment carried out in patients with xerostomia?
+
+Primary outcome
+
+Dental restoration failure, prosthetic instability, implant failure, periodontal treatment outcomes, caries recurrence, wound healing.
+
+Secondary outcome
+
+Patient-reported outcomes (pain, discomfort, quality of life), treatment modifications or retreatments.
+
+Inclusion criteria
+
+Publications were eligible for inclusion if they involved human subjects with xerostomia or hyposalivation of any etiology, including Sjögren’s syndrome, medication-induced xerostomia, radiation-induced xerostomia, or systemic disease–related salivary dysfunction. Studies were required to report at least one dental treatment outcome, such as restoration longevity, implant survival, periodontal healing, prosthesis retention, or patient-reported oral health–related quality of life. Eligible designs included randomized controlled trials, cohort studies, case-control studies, and cross-sectional studies, provided that sufficient quantitative or qualitative outcome data were available. Only full-text articles published in English were considered.
+
+Exclusion criteria
+
+Exclusion criteria were animal or in vitro studies, narrative reviews, systematic reviews, meta-analyses, conference abstracts without complete data, and case reports or case series with fewer than five patients. Studies focusing solely on xerostomia prevalence, pathophysiology, or pharmacologic management without reference to dental treatment outcomes were excluded. Likewise, publications unrelated to conventional dental implants or restorative/prosthetic therapy, as well as non-English language reports, were not considered.
+
+Search strategy
+
+We conducted a comprehensive search of the literature in three electronic databases: PubMed, Embase, and Google Scholar, to identify relevant studies reporting clinical outcomes of dental treatments in adults (≥ 18 years) with xerostomia, including those with Sjögren’s syndrome or other etiologies of dry mouth. The search included both controlled vocabulary terms (MeSH and Emtree) and free-text keywords to capture a broad range of studies. Articles published up to June 2025 were searched in each database, and only English-language publications were included.
+
+PubMed
+
+The PubMed search strategy combined MeSH terms and text words related to xerostomia and Sjögren’s syndrome, dental procedures, and treatment outcomes. The full search strategy was:
+
+(“Xerostomia“[Mesh] OR “Sjögren’s Syndrome“[tiab] OR “Sicca Syndrome“[tiab] OR xerostomia[tiab] OR “dry mouth“[tiab]) AND.
+
+(“Dental Care“[Mesh] OR “Dental Implants“[Mesh] OR “Endodontics“[Mesh] OR “Tooth Extraction“[Mesh] OR “Prosthodontics“[Mesh] OR dental treatment*[tiab] OR dental procedure*[tiab] OR dental implant*[tiab] OR tooth extraction*[tiab] OR exodontia*[tiab] OR periodontal therap*[tiab] OR “restoration*[tiab]) AND.
+
+(“Treatment Outcome“[Mesh] OR “Postoperative Complications“[Mesh] OR “Wound Healing“[Mesh] OR “Recurrence“[Mesh] OR “Dental Restoration Failure“[Mesh] OR treatment outcome*[tiab] OR complication*[tiab] OR dental implant failure[tiab] OR implant failure[tiab] OR recurrence[tiab] OR failure[tiab] OR healing[tiab])
+
+Filters applied: Humans, English language, adults (≥ 18 years).
+
+Embase
+
+The Embase search used Emtree terms and text words:
+
+(‘xerostomia’/exp OR ‘xerostomia’:ti, ab OR ‘dry mouth’:ti, ab OR ‘sjogren syndrome’:ti, ab OR ‘sicca syndrome’:ti, ab) AND.
+
+(‘dental care’/exp OR ‘dental implant’/exp OR ‘endodontics’/exp OR ‘tooth extraction’/exp OR ‘prosthodontics’/exp OR ‘dental treatment*’:ti, ab OR ‘dental procedure*’:ti, ab OR ‘dental implant*’:ti, ab OR ‘tooth extraction*’:ti, ab OR ‘exodontia*’:ti, ab OR ‘periodontal therap*’:ti, ab) AND.
+
+(‘treatment outcome’/exp OR ‘postoperative complication’/exp OR ‘wound healing’/exp OR ‘recurrence’/exp OR ‘dental restoration failure’/exp OR ‘treatment outcome*’:ti, ab OR ‘complication*’:ti, ab OR ‘implant failure’:ti, ab OR ‘dental implant failure’:ti, ab OR ‘recurrence’:ti, ab OR ‘healing’:ti, ab OR ‘failure’:ti, ab)
+
+Filters applied: Humans, English language, adults (≥ 18 years).
+
+Google scholar
+
+A simplified search was performed on Google Scholar using the terms:
+
+(“xerostomia” OR “dry mouth” OR “sjogren’s syndrome”) AND.
+
+(“dental treatment” OR “dental procedure” OR “implant” OR “restoration” OR “tooth extraction”) AND.
+
+(“treatment outcome” OR “complication” OR “healing” OR “recurrence” OR “failure”)
+
+The first 200 results were screened manually in incognito mode to reduce personalization bias.
+
+Reference lists of included studies were also screened to identify any additional relevant studies.
+
+Study selection
+
+Two independent reviewers (S.P, P.K) screened titles and abstracts of retrieved studies for eligibility. Full-text articles of potentially relevant studies was assessed for inclusion. Discrepancies between reviewers was resolved through discussion or consultation with a third reviewer (P.P). The selection process was documented using a PRISMA flow diagram.
+
+Data extraction
+
+Data from included studies was extracted independently by two reviewers (S.P, P.K) using a standardized data extraction form. The data extraction form was pilot-tested on three included studies, and any shortcomings or inconsistencies were identified and resolved before full data extraction. Extracted data included: Study characteristics (author, year, country, study design), participant characteristics (age, gender, xerostomia diagnosis method), details of dental treatment(s) performed, outcomes measured and results, funding sources and conflicts of interest.
+
+Any disagreements was resolved through discussion or consultation with a third reviewer (P.P). Authors of included studies were contacted for missing or unclear data.
+
+Ethical considerations
+
+No personal information of patients was used in this systematic review. All data was extracted from publicly available scientific publications. No informed consent or ethical approval was required for this systematic review.
+
+Risk of bias assessment
+
+The risk of bias in included studies was assessed independently by two reviewers (S.P, P.K):
+
+Randomized Controlled Trials: Cochrane Risk of Bias Tool (RoB 2) []
+
+Non-Randomized Studies: ROBINS-I (Risk Of Bias In Non-randomized Studies – of Interventions) tool [].
+
+Discrepancies was resolved through discussion or consultation with a third reviewer (P.P).
+
+Certainty of evidence
+
+The certainty of evidence for each outcome was assessed using the Grading of Recommendations Assessment, Development and Evaluation (GRADE) approach []. Each outcome was rated as high, moderate, low, or very low certainty. Two reviewers (S.P, P.K) independently conducted the GRADE assessments, with discrepancies resolved through discussion or consultation with a third reviewer (P.P).
+
+Result
+
+Literature search
+
+A flowchart outlining the study selection procedure following PRISMA guidelines is displayed in Fig.. A comprehensive literature search identified 244 records through electronic databases. After removing 27 duplicates, 217 unique records remained. Following title and abstract screening, 175 articles were excluded for irrelevance. Full-text screening was conducted for 48 articles, of which 16 studies were ultimately included in the review (10 from the database search and an additional 6 identified through reference screening).
+
+During the full-text assessment, 8 publications were excluded because they were case reports or case series with fewer than five cases, which did not meet the predefined inclusion criteria. Other reasons for exclusion included insufficient outcome reporting and studies unrelated to dental treatment outcomes in xerostomia.
+
+Study characteristics
+
+The characteristics of the included studies are presented in Table. One randomized controlled trial, one non-randomized interventional trial, five prospective cohort studies, seven retrospective cohort studies and two cross-sectional studies were included in the present systematic review.
+
+Table 2
+
+Results of literature search
+
+Study (Year)
+
+Design ()
+
+Xerostomia cause
+
+Intervention (Comparator)
+
+Key findings
+
+Bidyasgagar et al., 2023 []
+
+Retrospective cohort (= 100; 50 xerostomia, 50 control)
+
+Not specified (medically compromised vs. healthy)
+
+Dental implants (vs. healthy controls)
+
+Higher implant failure in xerostomia group (10% vs. 0%) and more tooth loss.
+
+Kaur et al., 2018 []
+
+Non-randomized interventional (= 60; 24 pSS, 36 controls)
+
+Primary Sjögren’s syndrome (pSS)
+
+Periodontal therapy (SRP) (vs. nose-breathing controls)
+
+pSS group had significantly lower plaque and gingival indices at 12 weeks (< 0.01).
+
+Albrecht et al., 2016 []
+
+Cohort (= 292; 205 Sjögren’s [76% pSS], 87 controls)
+
+Sjögren’s syndrome (mixed pSS/sSS)
+
+Dental implants (vs. healthy controls)
+
+Implant survival ~ 100% in both groups; no difference in bone loss or failure rates.
+
+Isidor et al., 1999 []
+
+Prospective (= 8; all pSS)
+
+Primary Sjögren’s syndrome (pSS)
+
+Single implant-supported crowns (no control)
+
+13% implant failure; all remaining implants functioned at ~ 3 years, high patient satisfaction.
+
+Hosseini et al., 2025 []
+
+Prospective (= 47; 23 pSS, 24 controls)
+
+Primary Sjögren’s syndrome (pSS)
+
+Implant-supported overdentures (vs. controls)
+
+100% implant survival in both groups; no significant differences in bone loss or probing depths.
+
+Ettl et al., 2016 []
+
+Prospective (= 29 patients; 165 implants)
+
+Medication/radiation-induced xerostomia
+
+Dental implants (no control group)
+
+95% implant survival at 1 year, 94% at 5 years; xerostomia not a significant factor for success.
+
+Petrovic et al., 2019 []
+
+Mixed retrospective/prospective (= 25)
+
+Primary Sjögren’s syndrome (pSS)
+
+Fibula graft oral rehabilitation (implants) (no control)
+
+Mean oral function ~ 64% of normal; recovery similar with or without pSS.
+
+Leinonen et al., 2021 []
+
+Retrospective cohort (= 213; 71 pSS, 142 controls)
+
+Primary Sjögren’s syndrome (pSS)
+
+Dental restorations (various) (vs. non-SS controls)
+
+Xerostomia patients had higher restoration failure (hazard ratio ≈ 2.6 vs. controls,< 0.001).
+
+DeMoor et al., 2011 []
+
+Prospective controlled trial (= 35)
+
+Radiation-induced xerostomia
+
+Class V restorations (GIC vs. RMGIC vs. composite)
+
+Glass ionomer restorations had significantly fewer recurrent caries than composite/RMGIC (< 0.05).
+
+McComb et al., 2002 []
+
+Randomized trial (= 45)
+
+Radiation-induced xerostomia
+
+Class V restorations (GIC vs. RMGIC vs. composite; within-patient comparison)
+
+No overall significant differences; composite failed more often in non-fluoride users.
+
+Sparrow et al., 2021 []
+
+Retrospective (= 119; 34 pSS/sSS, 85 controls)
+
+Sjögren’s syndrome (pSS/sSS)
+
+Periodontal maintenance (SRP) (vs. non-xerostomia controls)
+
+No significant differences in probing depth reduction or other indices between groups.
+
+Maarse et al., 2022 []
+
+Prospective cohort (= 34; 17 pSS/sSS, 17 controls)
+
+Sjögren’s syndrome (pSS/sSS)
+
+Dental implants (vs. age/sex-matched controls)
+
+Implant survival 100% (SS) vs. 96% (controls,= 0.06); SS patients had more peri-implant mucositis.
+
+Siddiqui et al., 2017 []
+
+Retrospective EDR (= 180 SS patients)
+
+Xerostomia (likely Sjögren’s)
+
+Various dental treatments (vs. healthy controls)
+
+Xerostomia patients had more dental treatments; implant survival 87.6% vs. 95.7% in controls (< 0.001).
+
+Gomez et al., 2024 []
+
+Retrospective EDR/EHR (= 144; 102 pSS, 42 controls)
+
+Primary Sjögren’s syndrome (pSS)
+
+Multi-surface restorations (vs. controls)
+
+Higher restoration failure in pSS (HR ≈ 2.9, 95% CI 2.3–3.7); failures occurred ~ 1 year sooner than controls.
+
+Korfage et al., 2015 []
+
+Retrospective cohort (= 100; 50 pSS, 50 controls)
+
+Primary Sjögren’s syndrome (pSS)
+
+Dental implants (vs. controls)
+
+Implant survival 97% (pSS) vs. 100% (controls, ns); SS had worse peri-implant plaque but similar clinical outcomes.
+
+Haveman et al., 2003 []
+
+Comparative interventional (= 36)
+
+Radiation-induced xerostomia
+
+Class I/II restorations (amalgam vs. RMGIC; fluoride vs. non-user)
+
+Fluoride users had no recurrent caries; among non-users, composite had more failures than GIC (< 0.05).
+
+Sample sizes ranged widely, from fewer than 10 participants (8) in early implant rehabilitation case series to 290 patients. The study populations represented multiple xerostomia etiologies, including primary and secondary Sjögren’s syndrome, post–head and neck radiotherapy, medication-induced hyposalivation, and mouth breathing. A total of 1,227 patients undergoing different dental treatments were included across the studies. Participants were typically middle-aged or older adults (mean ages 50–70 years), with women comprising the majority in Sjögren’s cohorts, while sex distribution was more balanced in general restorative or periodontal studies.
+
+The dental interventions evaluated fell into four broad categories: dental implants (survival of crowns, overdentures, full-arch prostheses), restorative treatments (composite/GIC fillings, crowns), periodontal therapy (scaling/root planing) and reconstructive surgery (mandibulectomy followed by reconstruction). Implant studies often used matched healthy controls (e.g. pSS vs. control), whereas restorative trials compared materials within xerostomic patients (often stratified by fluoride use). Follow-up durations varied widely, ranging from several weeks (periodontal healing studies) to 2–5 years (implant and restorative studies). Due to substantial heterogeneity in study design, outcome measures, and xerostomia etiologies, a formal meta-analysis could not be performed.
+
+Literature analysis
+
+Restoration survival/failure
+
+Five studies evaluated restoration outcomes in xerostomia. Large cohort studies (Leinonen 2021; Gomez 2024) [,] consistently demonstrated higher failure rates among xerostomic patients compared with controls (HR ~ 2–3). Leinonen et al. (2021) [] also observed shortened restoration survival in patients with Sjögren’s syndrome and radiation-induced xerostomia compared with patients with hyposalivation of unspecified etiology.Material-specific trials in radiation-induced xerostomia favored fluoride-releasing glass ionomer cements (GIC) over composite or amalgam. McComb (2002) [] and De Moor (2011) [] both found that GIC significantly reduced recurrent caries compared with resin composites, although GIC showed greater marginal erosion. Haveman (2003) [] similarly reported no recurrent caries in fluoride users regardless of material, but in fluoride non-users eight amalgam restorations and one RMGI failed from recurrent caries, while some conventional GIC failed due to material loss. Overall, xerostomia increased restoration failure risk, and fluoride-releasing materials performed better than composites or amalgam. The certainty of evidence was low.
+
+Implant survival/success
+
+Eight cohort studies (≈ 300 implants) assessed implant survival in xerostomic patients. Across Sjögren’s cohorts (Maarse 2022; Hosseini 2025; Korfage 2015) [–], survival ranged from 97% to 100% at 18 months to 5 years, comparable to controls. Quality-of-life consistently improved following implant rehabilitation. In contrast, radiation-induced xerostomia was associated with higher failure rate (95.2% at one year) and lower implant success rate (86.7%) compared to other xerostomia types across multiple studies []. Albrecht (2016) [] also observed higher failure prevalence in Sjögren’s (4.8%) versus controls (0%). Siddiqui (2017) [] reported 87% survival at ~ 40 months, and Bidyasagar (2023) [] described failures in medically compromised groups that included xerostomia. Overall implant survival averaged ~ 94%, with moderate certainty evidence, though radiation-induced xerostomia appeared to carry higher risk.
+
+Although studies involving non-radiation xerostomia, particularly Sjögren’s syndrome, consistently reported high implant survival even over longer follow-up periods, supporting the interpretation that implant outcomes are genuinely poorer in radiation-induced xerostomia, this finding should be interpreted cautiously. The higher failure rate in radiation-induced xerostomia was reported at a relatively short follow-up of one year, and implant success was assessed using the Albrektsson criteria, which tend to yield lower success rates than survival-only measures. However, consistent comparisons across different xerostomia etiologies were not possible, as most studies did not stratify outcomes by cause.
+
+Periodontal outcomes
+
+Two studies assessed periodontal treatment response in xerostomia proxies. Kaur (2018) [] found that mouth-breathing patients had slower early improvement in gingival and bleeding indices after scaling and root planing, though outcomes equalized by 12 weeks. Sparrow (2021) [] reported similar probing depths and plaque scores between xerostomic and non-xerostomic patients during long-term maintenance. Evidence suggested xerostomia may delay short-term healing but not long-term outcomes. Certainty was low.
+
+Patient-reported outcomes
+
+Six studies investigated patient-centered measures. Isidor (1999) [] demonstrated improved prosthesis comfort, chewing ability, and self-confidence with implant-retained dentures in 8 patients with Sjögren’s patients. Hosseini (2025) [] assessed 47 participants (23 with primary Sjögren’s syndrome and 24 healthy controls) and found significant improvements in oral health–related quality of life (OHRQoL; OHIP-49 score) in both groups, with Sjögren’s patients showing substantial reductions in total scores from baseline (47.5) to post-treatment follow-up (T referred to the time points at which outcomes were measured during follow-up), with sustained improvement at T1 (36.3), T3 (36.2), and T5 (30.4), although scores remained consistently higher than in controls across all time points (< 0.001). Similarly, Maarse (2022) [], including 34 participants (17 Sjögren’s syndrome and 17 non-Sjögren’s controls), demonstrated significant OHRQoL (OHIP-14 score) improvements post-implant therapy, with persistently lower scores in Sjögren’s patients; Sjögren’s group from baseline (33.7) to T1 (28.2), T6 (25.5), T12 (27.8), and T18 (28.8), representing clinically meaningful improvements (> 2 OHIP units). In contrast, non-Sjögren’s patients showed smaller, non-significant changes over time, despite having significantly better OHRQoL at baseline (19.6 vs. 33.7;< 0.001) and throughout follow-up.
+
+In patients with radiation-induced xerostomia, Tobias [] evaluated 29 patients and observed significant functional and quality-of-life improvements after implant-supported prosthetic rehabilitation. Korfage [] reported functional gains in chewing, swallowing, and social eating in 50 Sjögren’s patients and 50 healthy controls following implant-based rehabilitation. Petrovic (2019) [], involving 25 long-term head and neck cancer survivors, reported overall worse aesthetic outcomes in patients with post-radiotherapy xerostomia who under rehabilitation after mandibulectomy.
+
+Overall, xerostomic patients reported meaningful improvement after dental rehabilitation, though baseline and post-treatment QoL remained lower than in controls. Certainty was low.
+
+Prosthesis retention
+
+One small study (Isidor 1999;= 8 Sjögren’s patients) [] directly assessed prosthesis retention. No implant-retained dentures were lost or remade over two years despite severe dryness. Evidence for this outcome remains very limited (very low certainty).
+
+Risk of bias assessment
+
+Overall, the risk of bias was high to serious for most included studies, as shown in Table. The single randomized controlled trial (McComb 2002) had high risk due to inadequate reporting of randomization, lack of blinding, and incomplete outcome data. All non-randomized studies were assessed using the ROBINS-I tool, with most rated as “serious” risk of bias primarily from confounding (e.g., differences in systemic conditions, medication use, or radiation exposure) and selection bias, while outcome measurement was generally objective and consistently reported. A few prospective cohorts (e.g., Maarse 2022, Hosseini 2025) had moderate risk, supported by clearer protocols and more complete follow-up, but residual confounding remained a concern.
+
+Table 3
+
+Risk of bias (RoB 2.0) for randomized controlled Trial(s)
+
+Study (Author–Year)
+
+Randomization process
+
+Deviations from intervention
+
+Missing outcome data
+
+Outcome measurement
+
+Selective reporting
+
+Overall RoB
+
+Rationale (short)
+
+McComb 2002 []
+
+High risk — insufficient reporting of random sequence generation and allocation concealment (abstract/limited methods).
+
+Low/Some concerns — interventions delivered as intended within patients (split-mouth), but no blinding described.
+
+Some concerns — attrition reported (losses to follow-up), numbers not fully detailed in abstract.
+
+Some concerns — outcomes (secondary caries, marginal integrity) are objective but assessments likely unblinded.
+
+Some concerns — limited reporting detail in available record (full methods/results not fully described).
+
+High
+
+Randomization and allocation concealment not clearly described; small sample and incomplete reporting increase risk of bias and limit confidence.
+
+Certainty of evidence assessment
+
+The certainty of evidence, graded using the GRADE approach as shown in Tablesand, was low to very low for most outcomes, reflecting the predominance of small, non-randomized studies with methodological limitations. Evidence on implant survival in xerostomic patients was judged moderate certainty, as results were consistent across several cohorts with survival rates > 90% despite different xerostomia etiologies, though confounding and limited long-term follow-up reduced confidence. In contrast, evidence on restoration survival and periodontal treatment outcomes was of low to very low certainty, due to high risk of bias, small sample sizes, and heterogeneity in interventions and outcome definitions. No direct data were available on denture/prosthesis retention, leaving certainty as “very low.”
+
+Table 4
+
+Risk of bias (ROBINS-I) for non-randomized studies
+
+Study (Author–Year)
+
+Confounding
+
+Selection of participants
+
+Intervention classification
+
+Deviations from intended interventions
+
+Missing data
+
+Outcome measurement
+
+Selective reporting
+
+Overall ROBINS-I
+
+Rationale (short)
+
+Bidyasagar 2023 []
+
+Serious — groups (compromised vs. healthy) inherently confounded by comorbidities (e.g., diabetes).
+
+Moderate — retrospective chart sampling; inclusion criteria not fully defined.
+
+Low — implant exposure clearly recorded.
+
+Low — same implant procedures across groups.
+
+Low — 1-yr follow-up reported for all implants.
+
+Low — implant failure objectively defined (loss/MBL).
+
+Low — main outcomes reported.
+
+Serious
+
+Retrospective non-random grouping by health status with no adjustment for key confounders; objective outcomes but limited adjustment.
+
+Kaur 2018 []
+
+Serious — mouth-breathing (proxy for xerostomia) can be associated with other baseline differences.
+
+Moderate — selection unclear (convenience sample).
+
+Low — SRP applied consistently.
+
+Low — no differential deviations reported.
+
+Some concerns — small sample and some dropouts.
+
+Moderate — clinical indices (BOP, PI) measured, but likely unblinded.
+
+Low — reported as planned.
+
+Serious
+
+Non-random allocation by habit (mouth-breathers vs. controls) and small sample increase risk of confounding and measurement bias.
+
+Albrecht 2016 []
+
+Serious — baseline differences (age, oral health, meds) between SS and controls likely.
+
+Moderate — cohort sampling likely adequate but non-contemporaneous controls used.
+
+Low — implant exposure well defined.
+
+Low — routine care.
+
+Low — follow-up reported.
+
+Moderate — some outcomes self-reported; clinical indices varied.
+
+Low — outcomes reported.
+
+Serious
+
+Large cohort but residual confounding from disease and medication; some patient-reported measures introduce measurement variability.
+
+Isidor 1999 []
+
+Serious — single-arm SS cohort; no concurrent controls.
+
+Moderate — consecutive implant patients but small and selected.
+
+Low — intervention clearly recorded.
+
+Low — same protocol applied.
+
+Low — short follow-up with few losses.
+
+Moderate — objective survival, but examiners unblinded and small N.
+
+Low
+
+Serious
+
+Single-arm prospective series without control group; high risk of confounding by indication and limited generalizability.
+
+Hosseini 2025 []
+
+Moderate — matching reduces confounding but residual differences remain (comorbidities).
+
+Low — matched consecutive recruitment.
+
+Low — exposure clearly classified.
+
+Low — standardized interventions.
+
+Moderate — small attrition by 5 years but reported.
+
+Moderate — clinical indices by single examiner (not blinded).
+
+Low — outcomes fully reported.
+
+Moderate
+
+Well-conducted matched cohort but limited sample size and potential residual confounding; objective implant outcomes.
+
+Ettl 2016 []
+
+Serious — radiotherapy and cancer status confound outcomes; limited adjustment.
+
+Low — prospective cohort with clear inclusion.
+
+Low — exposure (RT/no RT) recorded.
+
+Low — standard care.
+
+Low — 1-yr follow-up complete.
+
+Low–Moderate — implant survival objective; QoL subjective but validated.
+
+Low
+
+Moderate
+
+Prospective design but major confounding by RT and cancer characteristics; outcomes largely objective but limited control of confounders.
+
+Petrović 2019 []
+
+Serious — heterogenous survivors (RT, trismus) introduce confounding.
+
+Serious — survivor recall and selection bias (25 subjects).
+
+Low — intervention (fibula + rehabilitation) clearly identified.
+
+Low — observational follow-up only.
+
+Moderate — potential non-attendance and survival bias.
+
+Moderate — outcomes (QoL, esthetics) subjective; multiple raters.
+
+Low
+
+Serious
+
+Small, selected survivor cohort with likely survivorship/selection biases and subjective outcomes.
+
+Leinonen 2021 []
+
+Serious — residual confounding possible despite large registry; etiologies heterogeneous.
+
+Low–Moderate— registry sampling good but cause classification may be imperfect.
+
+Low — restoration classification clear.
+
+Low — no intended deviations.
+
+Low — registry completeness good; attrition minimal.
+
+Low — objective restoration survival from records.
+
+Low
+
+Moderate–Serious
+
+Large registry provides strong objective outcome data, but residual confounding and heterogeneity of xerostomia causes justify concern.
+
+DeMoor 2011 []
+
+Moderate — within-patient comparisons reduce confounding; allocation method unclear.
+
+Low — patients required ≥ 3 restorations, selected.
+
+Low — materials clearly assigned per site.
+
+Low — interventions per protocol.
+
+Moderate — some attrition by 24 months.
+
+Moderate — restoration outcomes clinically assessed, examiners likely unblinded.
+
+Low
+
+Moderate
+
+Prospective clinical design with split-mouth elements, but unclear random sequence and some attrition weaken internal validity.
+
+Sparrow 2021 []
+
+Serious — mixed xerostomia etiologies and potential confounders (meds, baseline severity).
+
+Moderate — convenience sample of maintenance patients.
+
+Low — xerostomia classification via unstimulated flow was performed.
+
+Low — maintenance delivered as routine.
+
+Low — cross-sectional maintenance visit data complete.
+
+Moderate — PD/PI measured but examiners not blinded.
+
+Low
+
+Moderate–Serious
+
+Retrospective maintenance assessment with objective outcomes but potential confounding by xerostomia etiology and unmeasured factors.
+
+Maarse 2022 []
+
+Moderate — group differences possible; mixed adjustments with mixed models.
+
+Low — multicenter prospective inclusion with clear criteria.
+
+Low — implant exposure clearly recorded.
+
+Low — standardized surgical/restorative protocol across centers.
+
+Low — 18-month follow-up largely complete.
+
+Low — implant survival and MBL objectively measured.
+
+Low
+
+Moderate
+
+Prospective multicenter design strengthens evidence but sample modest and residual confounding possible; objective outcomes.
+
+Siddiqui 2017 []
+
+Serious — limited adjustment for disease severity, meds, or oral hygiene.
+
+Moderate–Serious — single-center EDR convenience sample; selection criteria incompletely described.
+
+Low — interventions accurately captured in EDR.
+
+Low — routine care delivered.
+
+Some concerns — missing baseline data and variable record completeness.
+
+Low–Moderate — EDR outcome definitions pragmatic but may vary.
+
+Low
+
+Serious
+
+Large retrospective EDR study with objective outcomes, but substantial residual confounding and variable data completeness.
+
+Gomez 2024 []
+
+Serious — residual confounding by meds, baseline caries risk, and behavior despite adjustment.
+
+Moderate — matched controls but retrospective selection may bias.
+
+Low — restorations and exposures well classified.
+
+Low — standard clinical care documented.
+
+Low — survival/failure data available for most restorations.
+
+Low — restoration failure operationalized objectively.
+
+Low
+
+Serious
+
+Robust EDR/EHR analysis but still susceptible to unmeasured confounders and imprecision in some subgroups.
+
+Korfage 2015 []
+
+Serious — SS patients differ in meds, disease activity vs. historic controls.
+
+Serious — 19/69 eligible SS with implants did not undergo exam; controls historic.
+
+Low — exposure recorded (implants)
+
+Low — standard care across centers.
+
+Moderate — baseline radiographs missing for ~ 48% (MBL analysis affected).
+
+Moderate — clinical indices measured by different examiners across groups.
+
+Low
+
+Serious
+
+Selection bias (non-participation), historic control matching, and missing baseline radiographs are major concerns for bone loss and peri-implant comparisons.
+
+Haveman 2003 []
+
+Serious — very small N (9 patients) and fluoride compliance strongly confounds results.
+
+Serious — convenience sample with possible selection of severe cases.
+
+Low — materials and grouping (fluoride users vs. non-users) clearly described.
+
+Low — restorative procedures as intended.
+
+Moderate — 86% of restorations evaluated at 2 years (some loss to follow-up).
+
+Moderate — caries assessment clinical and photographic, but assessor not blinded; outcome clustering by patient.
+
+Low
+
+Serious
+
+Small sample, strong confounding by fluoride compliance and patient-level clustering; limits generalizability despite objective outcomes.
+
+Table 5
+
+Certainty assessment of the study outcomes
+
+Outcome
+
+Studies (total)
+
+Certainty (GRADE)
+
+Comments (downgrading factors)
+
+Implant survival/success
+
+8 studies (observational data)
+
+Moderate
+
+Evidence from non-randomized studies; downgraded for risk of bias and imprecision, but results were generally consistent with good implant survival.
+
+Restoration survival/failure
+
+5 studies (observational)
+
+Low
+
+Observational evidence; heterogeneity in materials and patient causes; wide confidence intervals. Downgraded for bias, inconsistency, imprecision.
+
+Periodontal outcomes (e.g. PD)
+
+2 studies (observational)
+
+Low
+
+Few small studies; evidence limited to adult xerostomia (mainly Sjögren’s). Downgraded for risk of bias and imprecision.
+
+Patient-reported outcomes (QoL, comfort)
+
+2 studies (observational)
+
+Moderate
+
+Consistent improvements reported after treatment, but only small cohort data. Downgraded for bias (non-randomized) and imprecision.
+
+Discussion
+
+Restoration outcomes
+
+Patients with xerostomia, or dry mouth, are at increased risk for dental caries because of the loss of saliva and its protective functions []. A reduction in salivary flow increases oral acidity and promotes proliferation of acidogenic bacteria, while impairing buffering capacity, mineral replenishment, and lubrication of tooth surfaces []. Together, these factors accelerate caries development and compromise restoration longevity [].
+
+Consistent with this biological plausibility, retrospective cohort studies show that xerostomic patients often lose restorations earlier than non-xerostomic controls. Gomez et al. (2024) [] reported that patients with Sjögren’s syndrome had nearly three-fold higher risk of restoration failure (hazard ratio ~ 3.0) compared to matched controls, with five-year survival rates of ~ 55% versus ~ 75%. Leinonen et al. (2021) [] similarly observed shorter survival of restorations in Sjögren’s and radiotherapy-induced xerostomia compared with patients who had hyposalivation of unspecified origin. The authors suggested that poorer saliva quality, trismus, and mucosal sensitivity in these groups may hinder oral hygiene and further reduce restoration longevity [].
+
+Failures were most often due to recurrent caries at restoration margins, a finding supported by other caries risk studies in xerostomia []. Several small clinical trials have evaluated material choice. Haveman et al. (2003) [] found that glass ionomer–based materials reduced recurrent caries compared with amalgam in fluoride non-users, although conventional GIC showed some erosion-related failures. Importantly, the study was limited by very small sample size and confounding by fluoride compliance. The authors nevertheless highlighted the potential advantage of fluoride-releasing materials in radiation-induced xerostomia, though larger controlled trials are needed.
+
+An earlier trial by Wood et al. (1993) [] placed paired restorations in 36 xerostomic head and neck cancer patients. Results showed a striking interaction with fluoride use: in fluoride users, glass ionomer cement failed while amalgam survived, whereas in non-users, the opposite occurred (glass ionomer survived, amalgam failed). Mean time to failure was 8.5 months, with more pronounced effects in severely xerostomic patients.
+
+Leinonen et al. (2021) [] likewise reported reduced restoration longevity in patients with Sjögren’s syndrome and radiation-induced xerostomia compared with those with hyposalivation of unclear origin, indicating that autoimmune and radiotherapy-associated xerostomia may pose a higher risk to restorative outcomes than nonspecific or medication-related dry mouth.
+
+Taken together, these studies suggest that xerostomia substantially increases restoration failure risk, particularly in Sjögren’s syndrome and post-radiotherapy patients, largely through recurrent caries. Material selection appears important: fluoride-releasing cements may be advantageous in patients with poor fluoride compliance, while amalgam performs better when topical fluoride is used regularly; with evidence derived from studies on radiation-induced xerostomia.
+
+Overall evidence is limited, heterogeneous, and of low certainty, underscoring the need for well-designed trials to guide restorative choices in xerostomic patients.
+
+Implant survival/success
+
+Most included studies demonstrated that implant therapy in patients with Sjögren’s syndrome yields survival rates comparable to non-xerostomic controls, typically above 94% over 3–5 years. Quality-of-life improvements were consistent, with patients reporting better function, comfort, and oral health-related quality of life (OHRQoL) after rehabilitation []. These results align with systematic reviews in healthy populations, which report 10-year implant survival rates of 95–97% [–].
+
+However, outcomes were notably poorer in radiation-induced xerostomia. Failures occurred within the first year after therapy, contrasting with the more gradual failures in Sjögren’s syndrome. Radiation likely damages endothelial cells and microvasculature, producing chronic ischemia and impaired osseointegration. These mechanisms may explain why radiation-induced xerostomia carries a higher implant failure risk []. Importantly, implant success in radiation-induced xerostomia was often assessed using stricter criteria (e.g., Albrektsson success criteria), which may partially explain lower reported success rates compared with survival-only outcomes.
+
+Although direct comparisons across xerostomia etiologies were limited, the consistently high long-term survival reported in non-radiation xerostomia cohorts supports the interpretation that radiation-induced xerostomia carries a distinctly higher implant risk and warrants more cautious patient selection and follow-up.
+
+Overall, implants remain a viable option in xerostomia, especially for autoimmune etiologies.
+
+Periodontal outcomes
+
+Xerostomia reduces salivary clearance and increases plaque accumulation, leading to greater gingival inflammation and higher periodontitis risk []. Consistent with this, Kaur et al. (2018) [] found that mouth-breathing patients had delayed early improvement in gingival indices following scaling and root planing compared with nasal breathers. By contrast, Sparrow et al. (2021) [] observed that xerostomic patients maintained similar probing depths and plaque control to non-xerostomic controls over long-term maintenance, provided recall visits and hygiene support were frequent.
+
+These findings suggest xerostomia may delay short-term healing but, with diligent maintenance, periodontal outcomes can eventually approximate those of controls. Evidence remains very limited, and certainty is low.
+
+Patient outcomes
+
+Patient-centered outcomes consistently showed improvement after treatment. Studies of implant-supported prostheses in Sjögren’s patients reported significant improvements in chewing ability, swallowing, denture comfort, and overall OHRQoL (e.g., Maarse 2022; Hosseini 2025); implant therapy significantly improved OHRQoL in patients with primary Sjögren’s syndrome, with OHIP scores decreasing from 47.5 at baseline to 30.4 at the latest follow-up (Hosseini, 2025) [] and from 33.7 to 28.8 over 18 months (Maarse, 2022) []. Despite these improvements, Sjögren’s patients consistently reported worse OHRQoL than healthy controls, highlighting the persistent impact of the disease on oral health perception. Direct evidence for prosthesis retention was scarce; only one small study (Isidor 1999) [] showed stable implant-retained dentures over two years in xerostomic patients.
+
+Limitations
+
+This review is limited by the generally low quality of evidence, with 10 (62.5%) out of 16 included studies rated at serious risk of bias. Most included studies were retrospective or small prospective cohorts, with non-random group allocation, unblinded outcome assessment, and limited control for confounders. Sample sizes were often small, follow-up periods varied, and outcomes were heterogeneous across xerostomia etiologies, treatments, and measures. These issues contributed to predominantly low-to-moderate certainty ratings using GRADE.
+
+Clinical implications
+
+Xerostomia poses significant challenges for dental care, increasing caries risk and reducing restoration longevity. Preventive measures such as high-fluoride regimens, sealants, and frequent recall are essential. Resin-modified glass ionomers or moisture-tolerant materials may be preferred for restorations. Implant therapy generally shows good survival even in xerostomic patients, though careful case selection and systemic risk management are critical. Periodontal therapy can be effective with close maintenance, though early healing may be slower.
+
+Future research
+
+Robust prospective studies are needed, stratifying patients by xerostomia severity and cause, and employing standardized outcome measures and blinded assessment. Larger sample sizes and better control of confounders will allow stronger conclusions and meta-analysis. In particular, the lack of evidence on denture retention in xerostomia represents an important research gap. Future trials should also evaluate whether therapies for salivary stimulation or substitution can improve dental treatment outcomes.
+
+Conclusion
+
+Xerostomia appears to worsen the durability of dental restorations and may modestly challenge periodontal therapy, while implant-based prosthetic treatments remain generally successful, particularly outside radiation-induced cases. All rehabilitative treatments yielded patient-reported benefits. However, these conclusions are based on limited and heterogeneous evidence with significant risk of bias and imprecision. Clinicians should anticipate higher preventive and maintenance needs in xerostomia patients. Future research should prioritize robust prospective studies evaluating prosthesis retention, the effectiveness of salivary stimulation or substitution therapies, and long-term implant outcomes especially in patients with radiation-induced xerostomia.
