@@ -5,7 +5,7 @@ year: 2015
 date: 2015-01-01
 doi: 10.1111/jcpe.12369
 source: jepsen-2015-primary-prevention-periimplantitis-managing-mucositis.md
-category: [implants]
+category: [implants/peri-implantitis]
 confidence: consensus
 pdf_path: /Users/oracleneo/llm-wiki/papers/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis.pdf
 pdf_filename: jepsen-2015-primary-prevention-periimplantitis-managing-mucositis.pdf

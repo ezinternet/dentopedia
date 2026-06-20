@@ -5,7 +5,7 @@ year: 2025
 date: 2024-12-24
 doi: 10.3390/jcm14010003
 source: signoriello-2025-dbbm-calcium-sulphate-socket-preservation.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: retrospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/signoriello-2025-dbbm-calcium-sulphate-socket-preservation.pdf
 pdf_filename: signoriello-2025-dbbm-calcium-sulphate-socket-preservation.pdf

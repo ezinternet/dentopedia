@@ -5,7 +5,7 @@ year: 2008
 date: 2008-05-21
 doi: 10.1111/j.1600-051X.2008.01246.x
 source: trombelli-2008-modeling-remodeling-human-extraction-sockets.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/trombelli-2008-modeling-remodeling-human-extraction-sockets.pdf
 pdf_filename: trombelli-2008-modeling-remodeling-human-extraction-sockets.pdf

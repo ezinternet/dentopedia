@@ -5,7 +5,7 @@ year: 2009
 date: 2009-11-19
 doi: 10.1111/j.1600-051X.2009.01482.x
 source: vanderweijden-2009-alveolar-bone-dimensional-changes.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/vanderweijden-2009-alveolar-bone-dimensional-changes.pdf
 pdf_filename: vanderweijden-2009-alveolar-bone-dimensional-changes.pdf

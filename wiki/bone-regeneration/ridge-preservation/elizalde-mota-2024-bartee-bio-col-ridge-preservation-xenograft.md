@@ -5,7 +5,7 @@ year: 2024
 date: 2024-05-15
 doi: 10.1155/2024/3263011
 source: elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.pdf
 pdf_filename: elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.pdf

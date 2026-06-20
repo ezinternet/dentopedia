@@ -5,7 +5,7 @@ year: 2024
 date: 2023-12-01
 doi: 10.1097/MD.0000000000036391
 source: feng-2024-autogenous-particulated-dentin-graft-arp.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/feng-2024-autogenous-particulated-dentin-graft-arp.pdf
 pdf_filename: feng-2024-autogenous-particulated-dentin-graft-arp.pdf

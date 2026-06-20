@@ -5,7 +5,7 @@ year: 2022
 date: 2022-01-01
 doi: 10.1111/clr.13992
 source: baima-2022-surface-decontamination-protocols-surgical-periimplantitis.md
-category: [implants]
+category: [implants/peri-implantitis]
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/baima-2022-surface-decontamination-protocols-surgical-periimplantitis.pdf
 pdf_filename: baima-2022-surface-decontamination-protocols-surgical-periimplantitis.pdf

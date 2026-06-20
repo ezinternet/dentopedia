@@ -5,7 +5,7 @@ year: 2018
 date: 2018-02-27
 doi: 10.1111/prd.12209
 source: jung-2018-alveolar-ridge-preservation-esthetic-zone.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/jung-2018-alveolar-ridge-preservation-esthetic-zone.pdf
 pdf_filename: jung-2018-alveolar-ridge-preservation-esthetic-zone.pdf

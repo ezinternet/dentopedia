@@ -5,7 +5,7 @@ year: 2018
 date: 2018-01-01
 doi: 10.1111/clr.13306
 source: pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr.md
-category: dental-materials
+category: [dental-materials/zirconia]
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr.pdf
 pdf_filename: pjetursson-2018-zirconia-metal-ceramic-crown-survival-sr.pdf

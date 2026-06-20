@@ -5,7 +5,7 @@ year: 2023
 date: 2023-08-25
 doi: 10.1111/prd.12508
 source: mardas-2023-alveolar-ridge-preservation-overtreatment.md
-category: bone-regeneration
+category: [bone-regeneration/ridge-preservation]
 confidence: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/mardas-2023-alveolar-ridge-preservation-overtreatment.pdf
 pdf_filename: mardas-2023-alveolar-ridge-preservation-overtreatment.pdf

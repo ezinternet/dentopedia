@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.1002/14651858.CD011778.pub2
 source: jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases.md
-category: [implants]
+category: [implants/peri-implantitis]
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases.pdf
 pdf_filename: jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases.pdf

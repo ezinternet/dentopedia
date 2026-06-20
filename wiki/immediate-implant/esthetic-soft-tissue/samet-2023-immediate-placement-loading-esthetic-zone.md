@@ -5,7 +5,7 @@ year: 2023
 date: 2023-01-01
 doi: 10.5772/intechopen.109458
 source: samet-2023-immediate-placement-loading-esthetic-zone.md
-category: immediate-implant
+category: [immediate-implant/esthetic-soft-tissue]
 confidence: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/samet-2023-immediate-placement-loading-esthetic-zone.pdf
 pdf_filename: samet-2023-immediate-placement-loading-esthetic-zone.pdf

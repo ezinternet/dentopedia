@@ -5,7 +5,7 @@ year: 2014
 date: 2014-03-20
 doi: 10.11607/jomi.2014suppl.g3.3
 source: chen-2014-esthetic-outcomes-immediate-early-implant.md
-category: immediate-implant
+category: [immediate-implant/esthetic-soft-tissue]
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2014-esthetic-outcomes-immediate-early-implant.pdf
 pdf_filename: chen-2014-esthetic-outcomes-immediate-early-implant.pdf
