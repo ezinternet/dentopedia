@@ -1,0 +1,17 @@
+Effect of dentin conditioners on dentin bond strength: A systematic review and meta-analysis.
+
+Authors: Zheng S, Chen H, Lin Q, Zhu S
+Journal: J Prosthet Dent 2024
+PMID 38981805 | DOI 10.1016/j.prosdent.2024.05.038
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+Although composite resin restorations have been widely used for dental restorations, the durability of the bond affects the rate of restoration failure. However, how multiple strategies for enhancing the resin-dentin bond affect durability is unclear.
+
+The purpose of this systematic review and meta-analysis was to evaluate the impact of dentin conditioners on resin-dentin bond strength with different pretreatments before the application of adhesives.
+
+The PubMed, Web of Science, EMBASE, and Cochrane Library databases were searched from 2013 to July 2023 for in vitro studies that evaluated the impact of dentin conditioners on resin-dentin bond strength. The meta-analysis was conducted using a random-effects model with pooled effect as standardized mean differences (α=.05).
+
+A total of 23 studies met the inclusion criteria for qualitative analysis, of which 15 were used for quantitative analysis. The results demonstrated that, under dry bonding conditions, selective extrafibrillar demineralization dentin conditioners significantly enhanced the immediate bond strength (P<.001). The long-term bond strength was limited by the sample size of the subgroup, but a significant effect was found after using selective extrafibrillar demineralization dentin conditioners (P<.001). However, metal salt-based dentin conditioners improved the immediate bond strength only under wet bonding conditions (P=.010). Notably, acid-based dentin conditioners significantly improved the long-term bond strength under both dry and wet bonding conditions (P<.001 and P=.006).
+
+The application of acid-based dentin conditioners significantly improved resin-dentin bond durability under both wet and dry bonding conditions. Furthermore, selective extrafibrillar demineralization dentin conditioners demonstrated remarkable effectiveness in improving resin-dentin bond durability under dry bonding conditions; however, more data are needed to support their use.
