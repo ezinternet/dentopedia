@@ -3,7 +3,7 @@ title: "Mandibular advancement with clear aligners and functional appliances in 
 authors: Yu L, Li Z, Kang F, Wang S, Xie Z, Zhu X
 year: 2023
 doi: 10.7518/hxkq.2023.2022453
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: false
 pmid: "37277797"
@@ -15,7 +15,7 @@ text_filename: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-
 
 ## Why Ingested
 
-`clear-aligner` 복잡/Class II 축: distalization([[wiki/orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]]) 외 또 다른 Class II 전략(mandibular advancement, MA aligner)을 functional appliance와 비교. PMC OA 전문(efetch).
+`clear-aligner` 복잡/Class II 축: distalization([[wiki/orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]]) 외 또 다른 Class II 전략(mandibular advancement, MA aligner)을 functional appliance와 비교. PMC OA 전문(efetch).
 
 ## One-line Summary
 
@@ -54,8 +54,8 @@ PubMed/WoS/Embase/Cochrane + Chinese databases; 9 clinical controlled trials, n=
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — alternative Class II aligner strategy (distalization).
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context.
+- [[wiki/orthodontics/clear-aligner/bhate-2025-cat-maxillary-molar-distalization-class-ii-sr]] — alternative Class II aligner strategy (distalization).
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella context.
 
 ## 7. Glossary
 
