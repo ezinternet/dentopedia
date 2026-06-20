@@ -1,0 +1,7 @@
+Efficacy of different nonsurgical treatments for peri-implantitis: a multi-arm randomized controlled clinical trial
+Eraydin-Tufek et al. Scientific Reports 2026. DOI: 10.1038/s41598-026-50332-5
+PMID: 42069893
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+Peri-implantitis is a biofilm-associated condition; comparative effectiveness of adjunctive nonsurgical decontamination is unclear. Randomized, assessor-blinded, multi-arm trial. 80 implants from 26 patients, 5 groups: (1) mechanical instrumentation alone, (2) mechanical + chlorhexidine irrigation, (3) mechanical + ozone, (4) mechanical + glycine powder air abrasion, (5) glycine powder air abrasion monotherapy. Outcomes: probing pocket depth (PPD), bleeding on probing (BOP), modified plaque index at baseline, 3 mo, 6 mo; linear mixed-effects models with patient-level clustering. All modalities gave significant clinical improvements over 6 months. Greatest numerical reductions in PPD/BOP/plaque when mechanical instrumentation + glycine powder air abrasion; but NO statistically significant differences among groups. Conclusion: nonsurgical mechanical instrumentation ± adjuncts gives meaningful short-term improvement in early peri-implantitis; adjunctive glycine powder air abrasion may add benefit without clear overall superiority.
