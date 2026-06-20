@@ -3,7 +3,7 @@ title: "Clinical, radiographic, and esthetic evaluation of immediate implant pla
 authors: Shu-Jiao Qian, Yi-ping Pu, et al.
 year: 2023
 doi: 10.1111/cid.13154
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 pdf_filename: qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla.pdf
 source_collection: external
@@ -32,8 +32,8 @@ Survival 100% in this short term, with acceptable PES/WES and contained radiogra
 Small n; 1-year follow-up; no comparator group.
 
 ## 6. Related Work
-- [[immediate-implant/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]]
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
+- [[immediate-implant/esthetic-soft-tissue/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot]]
+- [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]]
 - [[immediate-implant/trombelli-2024-bioarp-bone-dehiscence-immediate-implant]]
 
 ## 7. Glossary

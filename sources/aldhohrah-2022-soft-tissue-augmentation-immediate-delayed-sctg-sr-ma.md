@@ -3,7 +3,7 @@ title: "Does simultaneous soft tissue augmentation around immediate or delayed d
 authors: "Taghrid Aldhohrah, Ge Qin, Dongliang Liang, Wanxing Song, Linhu Ge, Mubarak Ahmed Mashrah, Liping Wang"
 year: 2022
 doi: "10.1371/journal.pone.0261513"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma.pdf
 pdf_filename: aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시/지연 식립과 동시에 시행하는 상피하결합조직이식(SCTG)이 무이식·GBR·ADM·XCM 등 다른 처치 대비 협측 조직두께·치은 수준·심미·변연골에서 우수한지에 대한 SR+MA. CTG 효과를 다룬 [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]·[[immediate-implant/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]]에 비교군(GBR/ADM/XCM)을 추가해 확장한다.
+즉시/지연 식립과 동시에 시행하는 상피하결합조직이식(SCTG)이 무이식·GBR·ADM·XCM 등 다른 처치 대비 협측 조직두께·치은 수준·심미·변연골에서 우수한지에 대한 SR+MA. CTG 효과를 다룬 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]·[[immediate-implant/esthetic-soft-tissue/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma]]에 비교군(GBR/ADM/XCM)을 추가해 확장한다.
 
 ## One-line Summary
 

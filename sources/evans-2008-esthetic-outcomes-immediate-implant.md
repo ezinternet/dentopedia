@@ -3,7 +3,7 @@ title: "Esthetic outcomes of immediate implant placements"
 authors: Christopher D.J. Evans, Stephen T. Chen
 year: 2008
 doi: 10.1111/j.1600-0501.2007.01413.x
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/evans-2008-esthetic-outcomes-immediate-implant.pdf
 pdf_filename: evans-2008-esthetic-outcomes-immediate-implant.pdf
 source_collection: external

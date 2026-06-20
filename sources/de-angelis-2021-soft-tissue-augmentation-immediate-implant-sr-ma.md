@@ -3,7 +3,7 @@ title: "The effect of soft tissue augmentation on the clinical and radiographica
 authors: De Angelis P, Manicone PF, Rella E, Liguori MG, De Angelis S, Tancredi S, D'Addona A
 year: 2021
 doi: 10.1186/s40729-021-00365-4
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.pdf
 pdf_filename: de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma.pdf
 source_collection: external

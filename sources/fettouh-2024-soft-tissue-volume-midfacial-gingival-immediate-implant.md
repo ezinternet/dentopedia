@@ -3,7 +3,7 @@ title: "Effect of soft tissue volume on midfacial gingival margin alterations fo
 authors: "Ahmed Ibrahim Aboul Fettouh, Noha Ayman Ghallab, Khaled Abdel Ghaffar, Azza Ezz Elarab, Nourhan Gamal Abdel-Aziz, Nael Adel Mina, Nesma Mohamed Shemais, Omnia Aboul Dahab"
 year: 2024
 doi: "10.1186/s12903-024-04845-y"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant.pdf
 pdf_filename: fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-얇은 협측골을 가진 심미부 즉시식립에서 **연조직 증대(CTG) vs 골이식재 vs 맞춤형 치유지대주(CHA) 단독**이 1년 중안면 치은연 변화에 미치는 효과를 직접 비교한 RCT. [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]](CTG SR+MA)의 결론을 1차 RCT 근거로 보강하고, [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]](CHA)와 대비된다.
+얇은 협측골을 가진 심미부 즉시식립에서 **연조직 증대(CTG) vs 골이식재 vs 맞춤형 치유지대주(CHA) 단독**이 1년 중안면 치은연 변화에 미치는 효과를 직접 비교한 RCT. [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]](CTG SR+MA)의 결론을 1차 RCT 근거로 보강하고, [[immediate-implant/dutra-2025-customized-healing-abutments-immediate-implants]](CHA)와 대비된다.
 
 ## One-line Summary
 

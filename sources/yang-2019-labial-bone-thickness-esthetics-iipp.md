@@ -3,7 +3,7 @@ title: "The thickness of labial bone affects the esthetics of immediate implant 
 authors: Xingmei Yang, Tengfei Zhou, Nan Zhou, Yi Man
 year: 2019
 doi: 10.1111/cid.12785
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yang-2019-labial-bone-thickness-esthetics-iipp.pdf
 pdf_filename: yang-2019-labial-bone-thickness-esthetics-iipp.pdf
 source_collection: external
@@ -34,7 +34,7 @@ Cohort (non-randomized); follow-up bound by study horizon; threshold values stil
 ## 6. Related Work
 - [[immediate-implant/shafizadeh-2021-alveolar-bone-thickness-healthy-sr]]
 - [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]]
-- [[immediate-implant/staas-2026-fiipp-palatal-position-cbct-3year]]
+- [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

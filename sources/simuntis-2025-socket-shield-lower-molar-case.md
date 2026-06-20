@@ -4,7 +4,7 @@ authors: Regimantas Simuntis, Paulius Tušas, Aušra Ražanauskienė, Vygandas R
 year: 2025
 doi: 10.3390/dj13040145
 journal: Dentistry Journal 13(4):145
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/simuntis-2025-socket-shield-lower-molar-case.pdf
 pdf_filename: simuntis-2025-socket-shield-lower-molar-case.pdf
 source_collection: external
@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-SST literature는 대부분 **anterior maxilla (esthetic zone)** 중심 — 본 case report는 **lower molar site**에 SST proof of principle 적용한 드문 datapoint. SST 적응증 확장의 한 축. [[immediate-implant/ji-2025-socket-shield-conventional-network-ma]] esthetic zone NMA와 대비, 후방 적응증 anchor 제공.
+SST literature는 대부분 **anterior maxilla (esthetic zone)** 중심 — 본 case report는 **lower molar site**에 SST proof of principle 적용한 드문 datapoint. SST 적응증 확장의 한 축. [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] esthetic zone NMA와 대비, 후방 적응증 anchor 제공.
 
 ## One-line Summary
 Case report (Vilnius Univ + Lithuanian Univ of Health Sciences, Dent J 2025): 하악 대구치 부위 SST proof of principle — esthetic zone 중심 SST 적응증을 후방 대구치로 확장하는 임상 시도.
@@ -41,8 +41,8 @@ Case report (Vilnius Univ + Lithuanian Univ of Health Sciences, Dent J 2025): �
 - 후방 대구치는 교합력·근관 형태 등에서 anterior와 다름
 
 ## 6. Related Work
-- [[immediate-implant/ji-2025-socket-shield-conventional-network-ma]] — esthetic zone NMA (대조)
-- [[immediate-implant/zhang-2026-socket-shield-orthodontic-premolar-rct]] — orthodontic premolar RCT
+- [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] — esthetic zone NMA (대조)
+- [[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]] — orthodontic premolar RCT
 - 다수 SR (Lin/Ogawa/Gharpure 2022)
 
 ## 7. Glossary

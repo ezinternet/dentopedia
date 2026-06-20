@@ -3,7 +3,7 @@ title: "Flapless immediate implant placement and provisionalisation (FIIPP) usin
 authors: Tristan Ariaan Staas, Edith Groenendijk, Erika Hamerslag, Ewald Bronkhorst, Luc Verhamme, Gerry Max Raghoebar, Gerrit Jacobus Meijer
 year: 2026
 doi: 
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/staas-2026-fiipp-palatal-position-cbct-3year.pdf
 pdf_filename: staas-2026-fiipp-palatal-position-cbct-3year.pdf
 source_collection: external
@@ -32,7 +32,7 @@ Buccal crest thickness and height maintained over 3 years in the cohort. Implant
 No comparator arm with non-palatal positioning; flapless requires specific anatomy/operator skill.
 
 ## 6. Related Work
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
 - [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]
 
 ## 7. Glossary

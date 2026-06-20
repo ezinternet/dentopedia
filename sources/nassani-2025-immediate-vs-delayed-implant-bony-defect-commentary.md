@@ -4,7 +4,7 @@ authors: Nassani MZ
 year: 2025
 doi: 10.1038/s41432-025-01152-5
 journal: "Evidence-Based Dentistry 26:80-82"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf
 pdf_filename: nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Effectiveness of the socket shield technique in dental implant: A system
 authors: Toru Ogawa, Ratri M. Sitalaksmi, Makiko Miyashita, Kenji Maekawa, Masahiro Ryu, Aya Kimura-Ono, Takeshi Suganuma, Takeshi Kikutani, Masanori Fujisawa, Katsushi Tamaki, Takuo Kuboki
 year: 2022
 doi: 10.2186/jpr.JPR_D_20_00054
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ogawa-2022-socket-shield-technique-systematic-review.pdf
 pdf_filename: ogawa-2022-socket-shield-technique-systematic-review.pdf
 source_collection: external

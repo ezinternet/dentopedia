@@ -3,7 +3,7 @@ title: "Immediate Implant Placement in the Esthetic Area Using an Inverted Body-
 authors: Andrea Galve-Huertas, Erika Brancacci, Susana García-González, Octavi Ortíz-Puigpelat, Federico Hernández-Alfaro, Samir Aboul-Hosn Centenero
 year: 2024
 doi: 10.11607/prd.7109
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/galve-huertas-2024-inverted-body-shift-design-pilot.pdf
 pdf_filename: galve-huertas-2024-inverted-body-shift-design-pilot.pdf
 source_collection: external
@@ -34,7 +34,7 @@ Pilot scale (n=12); no comparator; industry-aligned implant.
 ## 6. Related Work
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
-- [[immediate-implant/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
+- [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

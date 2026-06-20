@@ -3,7 +3,7 @@ title: "Immediate placement and provisionalization of maxillary anterior single 
 authors: Joseph Y.K. Kan, Kitichai Rungcharassaeng, Jaime Lozada
 year: 2003
 doi: N/A
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kan-2003-immediate-placement-provisionalization-anterior.pdf
 pdf_filename: kan-2003-immediate-placement-provisionalization-anterior.pdf
 source_collection: external

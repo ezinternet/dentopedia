@@ -3,7 +3,7 @@ title: "Clinical relevance of dimensional bone and soft tissue alterations post-
 authors: Vivianne Chappuis, Mauricio G. Araújo, Daniel Buser
 year: 2017
 doi: 10.1111/prd.12167
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chappuis-2017-dimensional-bone-soft-tissue-post-extraction.pdf
 pdf_filename: chappuis-2017-dimensional-bone-soft-tissue-post-extraction.pdf
 source_collection: external

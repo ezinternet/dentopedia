@@ -4,7 +4,7 @@ authors: Christian Blaschke, Donald R. Schwass
 year: 2020
 doi: 10.1186/s40729-020-00246-2
 journal: International Journal of Implant Dentistry 6:52
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/blaschke-2020-socket-shield-technique-critical-review.pdf
 pdf_filename: blaschke-2020-socket-shield-technique-critical-review.pdf
 source_collection: external
@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-SST의 **critical literature review** — 단순 SR이 아닌 비판적 평가 review. Hürzeler 2010 proof-of-concept 이후 분야 controversies 정리. [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]] (긍정 결과 중심 SR)와 균형. SST 도입 의사결정의 cautious anchor.
+SST의 **critical literature review** — 단순 SR이 아닌 비판적 평가 review. Hürzeler 2010 proof-of-concept 이후 분야 controversies 정리. [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] (긍정 결과 중심 SR)와 균형. SST 도입 의사결정의 cautious anchor.
 
 ## One-line Summary
 Critical review (Blaschke & Schwass, Int J Implant Dent 2020): PubMed 검색 229 hits → 12 studies. SST의 잠재 이점과 동시에 invasive bone graft 회피 가능성·미용 우월성을 보이지만 **장기 안정성 데이터 부족·합병증 패턴 불명확** 등의 critical limitation 강조.
@@ -42,8 +42,8 @@ Critical review (Blaschke & Schwass, Int J Implant Dent 2020): PubMed 검색 229
 - "Critical" 평가는 reviewer 주관 의존
 
 ## 6. Related Work
-- [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]] — SR 12개
-- [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]] — SR+MA
+- [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] — SR 12개
+- [[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]] — SR+MA
 - Hürzeler 2010 — original proof-of-concept
 
 ## 7. Glossary

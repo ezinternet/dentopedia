@@ -37,7 +37,7 @@ PRISMA 기반 SR+MA; RCT 위주 포함.
 
 ## 6. Related Work
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — related
 
 ## 7. Glossary
 immediate loading: 즉시부하; MBL: Marginal Bone Loss; esthetic zone: 심미 구역(전치·소구치)

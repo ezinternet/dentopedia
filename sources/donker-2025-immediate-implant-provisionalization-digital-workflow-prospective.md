@@ -3,7 +3,7 @@ title: "Immediate Implant Placement and Provisionalization in the Aesthetic Zone
 authors: "Vincent J. J. Donker, Gerry M. Raghoebar, Arjan Vissink, Henny J. A. Meijer"
 year: 2025
 doi: "10.1111/cid.70079"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 pdf_filename: donker-2025-immediate-implant-provisionalization-digital-workflow-prospective.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-IOS + CBCT 기반 3차원 보철주도 계획 + static CAIS + 사전제작 임시보철을 통합한 **완전 디지털 워크플로우**로 심미부 즉시식립·즉시 임시수복을 수행한 1년 전향 결과. 동일 Groningen 그룹의 [[immediate-implant/staas-2026-fiipp-palatal-position-cbct-3year]]·[[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]]와 디지털 적용으로 연결된다.
+IOS + CBCT 기반 3차원 보철주도 계획 + static CAIS + 사전제작 임시보철을 통합한 **완전 디지털 워크플로우**로 심미부 즉시식립·즉시 임시수복을 수행한 1년 전향 결과. 동일 Groningen 그룹의 [[immediate-implant/esthetic-soft-tissue/staas-2026-fiipp-palatal-position-cbct-3year]]·[[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]]와 디지털 적용으로 연결된다.
 
 ## One-line Summary
 

@@ -4,7 +4,7 @@ authors: Ankit Sharma, Komal Maheshwari, Bhawana Tiwari, Dwarakananda Naik
 year: 2022
 doi: 10.4103/njms.NJMS_xx_xx
 journal: National Journal of Maxillofacial Surgery 13(Suppl 1):S24-S31
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/sharma-2022-socket-shield-technique-review-njms.pdf
 pdf_filename: sharma-2022-socket-shield-technique-review-njms.pdf
 source_collection: external
@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-SST vs conventional immediate implant 비교 review — 19편 eligible. [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] SR+MA의 narrative review 보완. ESIC Dental College (Delhi, India) perspective.
+SST vs conventional immediate implant 비교 review — 19편 eligible. [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] SR+MA의 narrative review 보완. ESIC Dental College (Delhi, India) perspective.
 
 ## One-line Summary
 Review (ESIC Dental College Delhi, NJMS 2022): SST vs conventional immediate implant placement treatment outcome 비교 — PubMed/Google Scholar/Cochrane 검색 606 articles → 19 eligible.

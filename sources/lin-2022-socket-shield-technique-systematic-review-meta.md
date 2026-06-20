@@ -4,7 +4,7 @@ authors: Lin X, et al.
 year: 2022
 doi: 10.2186/jpr.JPR_D_20_00262
 journal: "Journal of Prosthodontic Research 2022"
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/lin-2022-socket-shield-technique-systematic-review-meta.pdf
 pdf_filename: lin-2022-socket-shield-technique-systematic-review-meta.pdf
 source_collection: external
@@ -35,9 +35,9 @@ PubMed/SD 등 검색. RCT·prospective·retrospective·case report 포함; meta-
 SST는 이론상 협측 골 보존에 유리하나 합병증과 술자 의존도가 높음. high-quality RCT 누적 전 routine 적용 보류. 적응증·금기 엄격히 선정.
 
 ## 6. Related Work
-- [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]] — 같은 시기 JPR SR — 보완적
-- [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — SST vs conventional SR+MA
-- [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — SST + xenograft RCT
+- [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] — 같은 시기 JPR SR — 보완적
+- [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — SST vs conventional SR+MA
+- [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — SST + xenograft RCT
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

@@ -3,7 +3,7 @@ title: "Esthetic Outcomes for Immediate Implant Placement with Immediate Provisi
 authors: Veronika Pohl, Julia Cede, Georg Benedikt Mailath Pokorny, Robert Haas, Sebastian Pohl
 year: 2022
 doi: 10.11607/jomi.9198
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot.pdf
 pdf_filename: pohl-2022-iipp-anterior-maxilla-buccal-dehiscence-pilot.pdf
 source_collection: external
@@ -32,8 +32,8 @@ Esthetic indices comparable across arms within the small-sample limits. Recessio
 Pilot (low n, low power); unblinded; short term.
 
 ## 6. Related Work
-- [[immediate-implant/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
-- [[immediate-implant/yang-2019-labial-bone-thickness-esthetics-iipp]]
+- [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]]
+- [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]
 
 ## 7. Glossary
 - **IIP:** Immediate Implant Placement — placement at the time of tooth extraction.

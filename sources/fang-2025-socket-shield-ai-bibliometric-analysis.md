@@ -3,7 +3,7 @@ title: "Socket shield technique in implant dentistry: An AI-based bibliometric a
 authors: "Qiao Fang, Remya Ampadi Ramachandran, Merve Koseoglu, Joseph Kan, Cortino Sukotjo"
 year: 2025
 doi: "S0022-3913(25)00456-1 (J Prosthet Dent, in press)"
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/fang-2025-socket-shield-ai-bibliometric-analysis.pdf
 pdf_filename: fang-2025-socket-shield-ai-bibliometric-analysis.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-소켓 쉴드(Socket Shield Technique, SST) 연구의 15년(2010–2024) 학술 지형을 AI 보조 계량서지학으로 지도화 — 어느 임상 근거 페이지가 분야에서 차지하는 위치를 파악하는 메타 맥락. 임상 결과를 다룬 [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]]·[[immediate-implant/blaschke-2020-socket-shield-technique-critical-review]] 위에 얹는 연구 동향 레이어.
+소켓 쉴드(Socket Shield Technique, SST) 연구의 15년(2010–2024) 학술 지형을 AI 보조 계량서지학으로 지도화 — 어느 임상 근거 페이지가 분야에서 차지하는 위치를 파악하는 메타 맥락. 임상 결과를 다룬 [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]·[[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]] 위에 얹는 연구 동향 레이어.
 
 ## One-line Summary
 

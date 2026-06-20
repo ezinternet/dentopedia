@@ -4,7 +4,7 @@ authors: Pilar Velasco Bohórquez, Roberta Rucco, Álvaro Zubizarreta-Macho, Jos
 year: 2021
 doi: 10.3390/biology10060549
 journal: Biology 10(6):549
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma.pdf
 pdf_filename: velasco-bohorquez-2021-socket-shield-failure-mbl-pes-sr-ma.pdf
 source_collection: external
@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-SST의 **failure rate·MBL·PES** 3 outcome 집중 SR+MA — esthetic zone implant 의사결정의 핵심 지표 정량. [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]]·[[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]]보다 1년 앞선 SR로 분야 baseline 데이터.
+SST의 **failure rate·MBL·PES** 3 outcome 집중 SR+MA — esthetic zone implant 의사결정의 핵심 지표 정량. [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]·[[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]]보다 1년 앞선 SR로 분야 baseline 데이터.
 
 ## One-line Summary
 SR+MA (Universidad Alfonso X El Sabio 등 Spain, Biology 2021): SST esthetic zone 즉시 임플란트 — failure rate, marginal bone loss (MBL), pink esthetic score (PES) 3 outcome 정량 분석.
@@ -41,9 +41,9 @@ SR+MA (Universidad Alfonso X El Sabio 등 Spain, Biology 2021): SST esthetic zon
 - Heterogeneity 평가 필요
 
 ## 6. Related Work
-- [[immediate-implant/lin-2022-socket-shield-technique-systematic-review-meta]] — 후속 SR+MA
-- [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — 후속 SR+MA
-- [[immediate-implant/ji-2025-socket-shield-conventional-network-ma]] — NMA
+- [[immediate-implant/socket-shield/lin-2022-socket-shield-technique-systematic-review-meta]] — 후속 SR+MA
+- [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — 후속 SR+MA
+- [[immediate-implant/socket-shield/ji-2025-socket-shield-conventional-network-ma]] — NMA
 
 ## 7. Glossary
 - **PES**: Pink Esthetic Score (Furhauser 2005, 0-14)

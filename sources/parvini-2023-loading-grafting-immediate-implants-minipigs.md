@@ -3,7 +3,7 @@ title: "Influence of loading and grafting on hard- and soft-tissue healing at im
 authors: Puria Parvini, Daniel Buser, Benjamin Evans Pippenger, Jean-Claude Imber, Andreas Stavropoulos, Benjamin Bellón, Christian Jarry, Frank Schwarz
 year: 2023
 doi: 10.1111/jcpe.13734
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/parvini-2023-loading-grafting-immediate-implants-minipigs.pdf
 pdf_filename: parvini-2023-loading-grafting-immediate-implants-minipigs.pdf
 source_collection: external

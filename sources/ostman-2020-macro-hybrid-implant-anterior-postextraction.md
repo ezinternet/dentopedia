@@ -3,7 +3,7 @@ title: "Clinical Outcomes of Maxillary Anterior Postextraction Socket Implants w
 authors: Pär-Olov Östman, Stephen J. Chu, Carl Drago, Hanae Saito, Myron Nevins
 year: 2020
 doi: 10.11607/prd.4467
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ostman-2020-macro-hybrid-implant-anterior-postextraction.pdf
 pdf_filename: ostman-2020-macro-hybrid-implant-anterior-postextraction.pdf
 source_collection: external
@@ -33,7 +33,7 @@ Single-arm (no comparator); industry-related implant design; short-to-mid-term f
 
 ## 6. Related Work
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
-- [[immediate-implant/galve-huertas-2024-inverted-body-shift-design-pilot]]
+- [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]]
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]]
 
 ## 7. Glossary

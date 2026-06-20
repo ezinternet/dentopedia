@@ -36,7 +36,7 @@ source_collection: external
 소규모(n=40); 단기 추적; 단일 술자.
 
 ## 6. Related Work
-- [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — related
+- [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]] — related
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
 
 ## 7. Glossary

@@ -3,7 +3,7 @@ title: "Implant placement post extraction in esthetic single tooth sites: when i
 authors: Daniel Buser, Vivianne Chappuis, Urs C. Belser, Stephen Chen
 year: 2017
 doi: 10.1111/prd.12170
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/buser-2017-implant-placement-timing-post-extraction-esthetic.pdf
 pdf_filename: buser-2017-implant-placement-timing-post-extraction-esthetic.pdf
 source_collection: external

@@ -3,7 +3,7 @@ title: "Association of Connective Tissue Grafts in Immediate Implants: Systemati
 authors: "Marta Torra-Moneny, Elisabet Mauri-Obradors, Sonia Egido-Moreno, Joan Valls-Roca-Umbert, Antonio Marí-Roig, José López-López"
 year: 2024
 doi: "10.3390/dj12060183"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.pdf
 pdf_filename: torra-moneny-2024-connective-tissue-grafts-immediate-implant-sr-ma.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-심미부 즉시식립(IIP)에 결합조직이식(CTG)을 동시/지연 병용하는 것이 협측 치은 수준·심미에 이득을 주는지에 대한 RCT 한정 SR+MA. 같은 주제의 [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]·[[immediate-implant/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]]와 결과를 비교·보강한다.
+심미부 즉시식립(IIP)에 결합조직이식(CTG)을 동시/지연 병용하는 것이 협측 치은 수준·심미에 이득을 주는지에 대한 RCT 한정 SR+MA. 같은 주제의 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]·[[immediate-implant/esthetic-soft-tissue/aldhohrah-2022-soft-tissue-augmentation-immediate-delayed-sctg-sr-ma]]와 결과를 비교·보강한다.
 
 ## One-line Summary
 

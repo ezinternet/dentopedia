@@ -4,7 +4,7 @@ authors: Bajaj V, Kolte AP, Kolte R, Bawankar PV
 year: 2025
 doi: 10.17219/dmp/170045
 journal: "Dental and Medical Problems 2025;62(3):449-459"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 pdf_filename: bajaj-2025-cgf-enriched-bone-graft-iipp-rct.pdf
 source_collection: external
@@ -40,7 +40,7 @@ IIPP 시 jump space CGF 강화 골이식재 사용 시 12개월 시점 hard-tiss
 
 ## 6. Related Work
 - [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — socket grafting general SR+MA
-- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA
+- [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

@@ -4,7 +4,7 @@ authors: Seyssens L, De Lat L, Cosyn J
 year: 2021
 doi: 10.1111/jcpe.13397
 journal: "J Clin Periodontol 2021;48(2):284-301"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 pdf_filename: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma.pdf
 source_collection: external
@@ -37,9 +37,9 @@ PRISMA. Two reviewers. RoB Cochrane (RCT) and ROBINS-I (NRS). Random-effects MA.
 Thin biotype 또는 협측 골 결손 risk가 있는 IIP에서 CTG 동반이 midfacial recession 예방에 유효. Type 1A esthetic zone에서 standard add-on으로 권장하는 group도 있음. 본 SR+MA가 그 근거 제공.
 
 ## 6. Related Work
-- [[immediate-implant/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA — CTG vs 대체재
+- [[immediate-implant/esthetic-soft-tissue/azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma]] — soft tissue graft NMA — CTG vs 대체재
 - [[immediate-implant/seyssens-2022-immediate-implant-socket-grafting-sr-ma]] — Cosyn 시리즈 — socket grafting
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — Cosyn 시리즈 — immediate provisionalization
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

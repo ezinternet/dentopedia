@@ -3,7 +3,7 @@ title: "Is socket shielding an option in esthetic region?"
 authors: "Varsha Verma"
 year: 2022
 doi: "10.1016/j.jobcr.2022.08.004"
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/verma-2022-socket-shielding-esthetic-region-review.pdf
 pdf_filename: verma-2022-socket-shielding-esthetic-region-review.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-소켓 쉴드(socket shielding / root membrane) 기법이 심미 구역에서 협측골·윤곽 보존 옵션으로 타당한지 정리한 서술적 리뷰. 술기 입문서인 [[immediate-implant/ahamed-2022-partial-extraction-therapy-implant-placement]]와 임상 결과 SR인 [[immediate-implant/oliva-2023-socket-shield-buccal-bone-preservation-sr]]를 잇는 짧은 개관.
+소켓 쉴드(socket shielding / root membrane) 기법이 심미 구역에서 협측골·윤곽 보존 옵션으로 타당한지 정리한 서술적 리뷰. 술기 입문서인 [[immediate-implant/socket-shield/ahamed-2022-partial-extraction-therapy-implant-placement]]와 임상 결과 SR인 [[immediate-implant/socket-shield/oliva-2023-socket-shield-buccal-bone-preservation-sr]]를 잇는 짧은 개관.
 
 ## One-line Summary
 

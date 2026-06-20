@@ -3,7 +3,7 @@ title: "Partial Extraction Therapy for Implant Placement: A Newer Approach in Im
 authors: "Mohd Sohail Ahamed, Bhushan P. Mundada, Priyanka Paul, Amit Reche"
 year: 2022
 doi: "10.7759/cureus.31414"
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/ahamed-2022-partial-extraction-therapy-implant-placement.pdf
 pdf_filename: ahamed-2022-partial-extraction-therapy-implant-placement.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-부분발치술(Partial Extraction Therapy, PET) — 소켓 쉴드·폰틱 쉴드·치근 매몰 — 의 개념·적응증·단계별 술식을 정리한 서술적 리뷰. 임상 결과 SR인 [[immediate-implant/gharpure-2022-socket-shield-conventional-implant-sr-ma]]와 생역학 FEA인 [[immediate-implant/neves-2023-socket-shield-stress-distribution-fea]]를 임상 술기 맥락으로 묶는 입문 레퍼런스.
+부분발치술(Partial Extraction Therapy, PET) — 소켓 쉴드·폰틱 쉴드·치근 매몰 — 의 개념·적응증·단계별 술식을 정리한 서술적 리뷰. 임상 결과 SR인 [[immediate-implant/socket-shield/gharpure-2022-socket-shield-conventional-implant-sr-ma]]와 생역학 FEA인 [[immediate-implant/socket-shield/neves-2023-socket-shield-stress-distribution-fea]]를 임상 술기 맥락으로 묶는 입문 레퍼런스.
 
 ## One-line Summary
 

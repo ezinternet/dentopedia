@@ -4,7 +4,7 @@ authors: Hamilton A, Gonzaga L, Amorim K, Wittneben JG, Martig L, Morton D, Mart
 year: 2023
 doi: 10.1111/clr.14109
 journal: "Clinical Oral Implants Research 34(Suppl 26):304-348"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma.pdf
 pdf_filename: hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma.pdf
 source_collection: external
@@ -49,7 +49,7 @@ Conclusion: Type 1A demonstrates high survival in studies reporting **strict pat
 
 ## 6. Related Work
 - Gallucci et al. 2018 ITI consensus on implant placement/loading classification.
-- [[immediate-implant/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — UMCG 10-y RCT on immediate vs delayed in defect sockets (delayed provisionalization protocol).
+- [[immediate-implant/esthetic-soft-tissue/nassani-2025-immediate-vs-delayed-implant-bony-defect-commentary]] — UMCG 10-y RCT on immediate vs delayed in defect sockets (delayed provisionalization protocol).
 - [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] — open vs closed healing in immediate.
 - [[overviews/immediate-implant-conditions]] — immediate implant conditions synthesis.
 

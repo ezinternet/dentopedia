@@ -4,7 +4,7 @@ authors: Slagter KW, Raghoebar GM, Hentenaar DFM, Vissink A, Meijer HJA
 year: 2021
 doi: 10.1111/jcpe.13398
 journal: "J Clin Periodontol 2021;48(2):272-283"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/slagter-2021-immediate-single-implant-provisionalization-5year.pdf
 pdf_filename: slagter-2021-immediate-single-implant-provisionalization-5year.pdf
 source_collection: external
@@ -36,8 +36,8 @@ Univ Med Center Groningen. Prospective comparison. CBCT for BBT at multiple time
 
 ## 6. Related Work
 - [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] — 동일 그룹 10년 RCT — bony defect case
-- [[immediate-implant/pitman-2022-immediate-implant-provisionalization-sr-ma]] — 동일 주제 SR+MA
-- [[immediate-implant/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — midfacial mucosa 중심 SR+MA
+- [[immediate-implant/esthetic-soft-tissue/pitman-2022-immediate-implant-provisionalization-sr-ma]] — 동일 주제 SR+MA
+- [[immediate-implant/esthetic-soft-tissue/qin-2023-immediate-implant-provisionalization-maxillary-esthetic-sr-ma]] — midfacial mucosa 중심 SR+MA
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

@@ -4,7 +4,7 @@ authors: Martins SCR, da Costa Marques M, Gomes Vidal M, et al., Fernandes GVO
 year: 2024
 doi: 10.17219/acem/173573
 journal: "Adv Clin Exp Med 2024;33(9):979-997"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 pdf_filename: martins-2024-facial-bone-wall-immediate-implant-esthetic.pdf
 source_collection: external
@@ -38,8 +38,8 @@ PRISMA. 12 included. ROBINS-I/Modified Cochrane RoB assessment. Qualitative synt
 전치부 즉시식립 + 즉시수복 결정 시 CBCT로 BBT 측정 필수. <1 mm이면 dehiscence/recession 위험 → bone graft + connective tissue graft 병행 또는 staged approach 고려.
 
 ## 6. Related Work
-- [[immediate-implant/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI consensus Type 1A selection — facial gap dimension 정량화
-- [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG로 facial wall risk 보완
+- [[immediate-implant/esthetic-soft-tissue/hamilton-2023-type1a-immediate-implant-immediate-loading-esthetic-sr-ma]] — ITI consensus Type 1A selection — facial gap dimension 정량화
+- [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]] — CTG로 facial wall risk 보완
 
 ## 7. Limitations and Future Work
 - 자세한 한계·후속 연구 방향은 원문 Discussion/Conclusion 참고.

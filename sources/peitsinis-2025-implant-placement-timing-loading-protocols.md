@@ -3,7 +3,7 @@ title: "Optimizing Implant Placement Timing and Loading Protocols for Successful
 authors: Panagiotis Rafail Peitsinis, Aikaterini Blouchou, Georgios S. Chatzopoulos, Ioannis D. Vouros
 year: 2025
 doi: 10.3390/jcm14051442
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/peitsinis-2025-implant-placement-timing-loading-protocols.pdf
 pdf_filename: peitsinis-2025-implant-placement-timing-loading-protocols.pdf
 source_collection: external

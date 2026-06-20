@@ -4,7 +4,7 @@ authors: Stephen T. Chen, Daniel Buser
 year: 2009
 doi: 10.11607/jomi.2009.suppl.g4.1
 journal: Int J Oral Maxillofac Implants 2009;24(Suppl):186-217
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/chen-2009-clinical-esthetic-outcomes-implants-postextraction.pdf
 pdf_filename: chen-2009-clinical-esthetic-outcomes-implants-postextraction.pdf
 source_collection: external

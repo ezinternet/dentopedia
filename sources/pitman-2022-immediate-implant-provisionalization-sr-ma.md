@@ -37,7 +37,7 @@ PubMed/Medline/Cochrane 검색; RCT 및 전향적 연구 포함.
 
 ## 6. Related Work
 - [[immediate-implant/wittneben-2023-immediate-implant-loaded-single-crown-sr]] — related
-- [[immediate-implant/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
+- [[immediate-implant/esthetic-soft-tissue/gaddale-2024-immediate-implant-loading-esthetic-tissue-sr-ma]] — related
 
 ## 7. Glossary
 immediate provisionalization: 즉시임시치관; MBL: 변연골소실; papilla index: 치간유두지수

@@ -4,7 +4,7 @@ authors: Farhan Durrani, Himani Painuly, Akanksha Shukla, Samidha Pandey, Rakhsh
 year: 2020
 doi: 10.4103/jisp.jisp_557_19
 journal: Journal of Indian Society of Periodontology 24(3):289-294
-category: [immediate-implant]
+category: [immediate-implant/socket-shield]
 pdf_path: /Users/oracleneo/llm-wiki/papers/durrani-2020-socket-shield-esthetic-success-jisp.pdf
 pdf_filename: durrani-2020-socket-shield-esthetic-success-jisp.pdf
 source_collection: external
@@ -12,7 +12,7 @@ source_collection: external
 
 ## Why Ingested
 
-SST 분야 narrative review — "An esthetic success?" 의문문 형태로 비판적 논의. 인도 임상의 perspective. [[immediate-implant/blaschke-2020-socket-shield-technique-critical-review]] (호주·뉴질랜드 perspective)와 함께 SST의 비판적 평가 cluster 형성.
+SST 분야 narrative review — "An esthetic success?" 의문문 형태로 비판적 논의. 인도 임상의 perspective. [[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]] (호주·뉴질랜드 perspective)와 함께 SST의 비판적 평가 cluster 형성.
 
 ## One-line Summary
 Narrative review (Banaras Hindu Univ India, JISP 2020): SST의 esthetic outcome 비판적 평가 — 협측 root 유지의 임플란트 미용 효과·합병증·임상 적용 가능성 종합 정리. "An esthetic success?" 의문 제기.

@@ -3,7 +3,7 @@ title: "Influence of Immediate Implant Placement and Provisionalization with or 
 authors: "Paolo De Angelis, Paolo Francesco Manicone, Giulio Gasparini, Silvio De Angelis, Margherita Giorgia Liguori, Ilaria De Filippis, Antonio D'Addona"
 year: 2021
 doi: "10.1155/2021/8822804"
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective.pdf
 pdf_filename: de-angelis-2021-immediate-implant-provisionalization-soft-tissue-retrospective.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-즉시식립·즉시 임시수복(IIPP) 시 연조직 증대 방식 — 결합조직이식(SCTG) vs 이종 콜라겐 기질(XCM) vs 무이식(NG) — 의 1년 협측 변연·연조직 두께 결과 비교. XCM이 SCTG의 대안이 될 수 있는지를 검증해 [[immediate-implant/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]](CTG RCT)와 [[immediate-implant/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]를 보강한다.
+즉시식립·즉시 임시수복(IIPP) 시 연조직 증대 방식 — 결합조직이식(SCTG) vs 이종 콜라겐 기질(XCM) vs 무이식(NG) — 의 1년 협측 변연·연조직 두께 결과 비교. XCM이 SCTG의 대안이 될 수 있는지를 검증해 [[immediate-implant/esthetic-soft-tissue/fettouh-2024-soft-tissue-volume-midfacial-gingival-immediate-implant]](CTG RCT)와 [[immediate-implant/esthetic-soft-tissue/seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma]]를 보강한다.
 
 ## One-line Summary
 

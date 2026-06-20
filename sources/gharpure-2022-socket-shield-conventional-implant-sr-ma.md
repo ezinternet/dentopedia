@@ -36,8 +36,8 @@ PubMed/Embase 체계적 검색; RCT+전향적 연구 포함.
 포함 연구 품질 다양; 장기 자료 부족.
 
 ## 6. Related Work
-- [[immediate-implant/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — related
-- [[immediate-implant/ogawa-2022-socket-shield-technique-systematic-review]] — related
+- [[immediate-implant/socket-shield/atef-2021-socket-shield-xenograft-immediate-implant-rct]] — related
+- [[immediate-implant/socket-shield/ogawa-2022-socket-shield-technique-systematic-review]] — related
 
 ## 7. Glossary
 socket shield: 소켓실드; shield exposure: 실드 노출(합병증); buccal bone: 협측 골

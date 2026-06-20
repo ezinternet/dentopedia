@@ -3,7 +3,7 @@ title: "The Use of Tissue Grafts Associated with Immediate Implant Placement to 
 authors: Enrico Maria Rondone, Bruno Leitão-Almeida, Miguel Silva Pereira, Gustavo Vicentis Oliveira Fernandes, Tiago Borges
 year: 2024
 doi: 10.3390/jcm13030821
-category: [immediate-implant]
+category: [immediate-implant/esthetic-soft-tissue]
 pdf_path: /Users/oracleneo/llm-wiki/papers/rondone-2024-tissue-grafts-immediate-implant-sr-ma.pdf
 pdf_filename: rondone-2024-tissue-grafts-immediate-implant-sr-ma.pdf
 source_collection: external
