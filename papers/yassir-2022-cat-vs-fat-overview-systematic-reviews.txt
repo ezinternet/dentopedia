@@ -1,0 +1,5 @@
+[ABSTRACT-ONLY — paywalled, no PMC OA] Yassir YA, Nabbat SA, McIntyre GT, Bearn DR. Clinical effectiveness of clear aligner treatment compared to fixed appliance treatment: an overview of systematic reviews. Clin Oral Investig 2022;26(3):2353-2370. DOI 10.1007/s00784-021-04361-1.
+
+Overview of systematic reviews. Literature search up to 15 July 2021; 361 reviews screened, 18 SRs included after excluding non-relevant/low-quality. Quality/data extraction by two independent authors; moderate/high-quality reviews narratively synthesized.
+
+Key findings: CAT effective for mild-to-moderate malocclusions; inferior outcomes for severe cases and for specific tooth movements (e.g., torque, extrusion, rotation). Conflicting results on treatment duration, though CAT may be shorter in mild-moderate cases. Relapse greater with CAT; periodontal health better with CAT; risk of root resorption tended to be lower with CAT. Pain results unclear, but CAT more comfortable with reduced impact on eating/chewing. Overall evidence level moderate. PROSPERO CRD42021246855.
