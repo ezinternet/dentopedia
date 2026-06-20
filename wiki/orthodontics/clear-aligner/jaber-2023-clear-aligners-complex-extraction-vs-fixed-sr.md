@@ -5,7 +5,7 @@ year: 2023
 date: 2023-04-29
 doi: 10.7759/cureus.38311
 source: jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -50,6 +50,6 @@ SR (no MA). 6 databases to Feb 2023; RCT/CCT/cohort/cross-sectional; RoB 2 + ROB
 
 ## Related Papers
 
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella severity boundary (applies-to)
-- [[orthodontics/alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr]] — duration in mild-moderate crowding (contrasts)
-- [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — anchorage mechanics behind discrepancy (reinforces)
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella severity boundary (applies-to)
+- [[orthodontics/clear-aligner/alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr]] — duration in mild-moderate crowding (contrasts)
+- [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — anchorage mechanics behind discrepancy (reinforces)
