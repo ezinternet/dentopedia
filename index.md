@@ -9,6 +9,7 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — Mourão 2025 · rct · EBD critical summary: tapered vs cylindrical 임플란트 초기치유 RCT 평가 — tapered가 삽입토크 높고 cylindrical이 6주 ISQ/IST 높음, 술식 > 매크로지오메트리 (DOI 10.1038/s41432-025-01202-y)
 - [[implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — 동물(성견, 6마리): 무피판 임플란트 수술 후 임플란트 주위 점막 혈관 분포율 1.7% vs 피판 1.2% (p<0.05)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
@@ -593,6 +594,7 @@ tags: []
 - [[halitosis/huang-2022-efficacy-of-probiotics-in]] — SR+MA of 7 RCTs showing probiotics reduce OLP scores and VSC levels short-term (≤4 weeks); only OLP improvement sustained long-term
 
 ## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)
+- [[endodontics/anatomy/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma]] — Tulegenova 2025 · sr+ma · 하악 제2소구치 C-형 근관 유병률 풀링 1.31%(환자)/0.96%(치아); 남미 최고·호주 최저, I²=90–93% (DOI 10.4103/ijdr.ijdr_682_24)
 - [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] — C-shaped canal morphology 30–50% prevalence in Asian populations; buccal concavity minimum dentin thickness creates high perforation risk; conservative instrumentation essential
 - [[endodontics/anatomy/jo-2017-fundamentals-and-clinical-applications]] — Anatomical variation is fundamental constraint, not challenge to overcome; 16+ years experience reveals MORE complexity, not less; realistic expectations and case selection critical
 - [[endodontics/anatomy/dioguardi-2024-access-cavity-designs-canal-orifice-scoping]] — Scoping review (3,697→10 studies): ConsAC → more debris; TradAC/guided → superior canal orifice localization precision
@@ -645,6 +647,10 @@ tags: []
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — El Haddad 2026 · cross-sectional (n=69, 20–29세, 87% 이쑤시개 사용) — **나무 이쑤시개(치간청소)의 위해**: 습관적 사용이 상악 전치부 치간유두를 유의 소실(PPI, P<.05)시켜 블랙트라이앵글 유발; 수직(상하)기법·하루>3회·>3년에서 악화, 치조골·접촉면길이는 무영향. (※ 와타나베 *칫솔질* 토스픽법과는 무관·반대방향) (DOI 10.3290/j.qi.b6912614)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — Sooampon 2026 · rct · 무작위 교차시험(n=11): 에리트로신 대체 치태착색제로 D&C Red No.33 비교 — 치태감소율 동등, 잔류착색·맛·제거 우수; FDA 2025.1 에리트로신 식품/내복약 금지 맥락 (DOI 10.1186/s12903-026-08786-6)
+- [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]] — Gusseva 2026 · rct · 교차 파일럿(n=30): 1일 10분 이중광 항균광역학(aPDT) 부가가 치태 ~21%↓(p=0.0001), 통상관리 단독은 무의 (DOI 10.1016/j.jdent.2026.106641)
+- [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — Zini 2026 · rct · 4주 RCT(n=60, 6–10세): 진동회전 전동칫솔이 수동 대비 전악 치태감소 51%↑(0.67 vs 0.44, p=0.003) (DOI 10.1111/ipd.70086)
+- [[periodontics/jeon-2026-probioticcmu-gingivitis-rct]] — Jeon 2026 · rct · 이중맹검 위약대조(n=80): 8주 경구 프로바이오틱(OraCMU)이 치은염 GI·BOP 유의 감소 (DOI 10.1177/1096620X261430298)
 - [[overviews/watanabe-toothpick-method-toothbrushing-synthesis]] — **Overview** (Synthesis 2026-06-19, 7편): 와타나베 이쑤시개법(TPM) 종합 — 이중기전(인접면 플라그 제거 + 치은 치유자극 ~2.5배), 원전 Morita 1998(TPM>Bass)부터 당뇨 치주염·임플란트 점막염 확장까지; 기법 비교근거는 약함(Rajwani SR), 임플란트선 기계적 단독 부족→항균제 병용, 입증효과는 전문가 시술 기준; *목재* 이쑤시개(El Haddad 2026, 치간유두 소실)와는 반대방향·명명 주의
 - [[periodontics/morita-1998-toothpick-method-bass-supragingival-plaque-rct]] — Morita 1998 · rct (split-mouth, n=20 치대생, 변형 Quigley-Hein 6부위/치아, 맹검검사자) — **와타나베 이쑤시개법(Toothpick method)의 원전 RCT** (저자 T. Watanabe = 술식 명명자): 전문가 칫솔질(Exp.I) + 자가칫솔질(Exp.II)에서 toothpick법이 Bass법보다 **인접면** 치면세균막을 유의하게 더 제거; Rajwani 2020 SR이 인용한 유일 직접비교 (DOI 10.1111/j.1600-051x.1998.tb02377.x)
 - [[periodontics/ishikawa-1995-toothpick-method-instruction-frequency-community-perio]] — Ishikawa 1995 · prospective (지역사회 비교중재, 1년 추적) · 와타나베 이쑤시개법 칫솔질 **지도 빈도** 비교(3회 n=31 vs 1회 n=40): 반복 지도군만 치은 발적·종창 유의 감소·CPITN 개선율↑, 1회군은 1년 후 치은염증 무변화; BOP는 양군 감소 — 반복>단일 (※일본어·영문초록만·250단어 절단) (PMID 8534877)
@@ -1318,6 +1324,10 @@ tags: []
 - [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
 
 ## 우식 (Caries)
+- [[caries/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct]] — Mohamed 2026 · rct · 12개월 RCT(n=80 유구치): 기성금속관(PMC) 전통법 vs Hall법 모두 성공·생존 100%; Hall 교합거상은 1개월 내 해소 (DOI 10.1016/j.jdent.2026.106686)
+- [[caries/gizani-2026-restorative-mih-primary-permanent-molars-sr]] — Gizani 2026 · sr · MIH 유·영구 대구치 수복 SR(20편): 성공률 84%(12mo)→83%(36mo), GIC 최저(53%)·PMC/세라믹 최고(100%); 메타분석 불가 (DOI 10.1007/s40368-026-01221-y)
+- [[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]] — Garcia-Miralles 2026 · sr · 유구치 와동 우식 SDF RCT SR(2편, 풀링 없음): SDF가 통상수복 대비 단기(≤12mo) 유리 가능성 (DOI 10.1016/j.jdent.2026.106703)
+- [[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]] — Bani-Hani 2026 · rct · 36개월 분할구강 RCT(38명): 소아 지르코니아 크라운 합착 GIC(95.3%) vs 자가접착 레진시멘트(100%) — 유지·치은 유의차 없음 (DOI 10.1016/j.jdent.2026.106762)
 - [[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] — Konukman Turker 2026 · rct(유구치 268, deep caries, 24mo) · Hall technique vs modified HT(바깥 우식 선택제거): 성공률 동등 86.6% vs 92.8%(NS), modified HT major failure 적음(3.6% vs 10.1%); **HT는 SSC 적합도가 결정적**(부적합 시 major failure 40% vs 7.3%) (DOI 10.1186/s12903-026-07667-2) [위키 첫 Hall/SSC 항목]
 - [[caries/mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct]] — Mohamed 2025 · rct (abstract-only, 유구치 80) · 전통기법 vs Hall PMC: 시술시간 7.1 vs 17.4분(p<0.001), 아동 통증↓(p=0.03), 부모 수용성(편의·시간·만족) 유의 우위(p<0.001) — HT의 환자경험 근거 (DOI 10.1007/s40368-025-01128-0)
 - [[caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] — Chavhan 2026 · sr+ma (abstract-only, RCT 7편/700크라운) · 기성 지르코니아 크라운 vs SSC: 유지력 동등(OR 0.96, p=0.93), PZC 치은건강·플라크 우수·부모 심미 만족↑, 단 대합치 마모·비용 고려 (DOI 10.4103/jisppd.jisppd_462_25)
@@ -1529,6 +1539,7 @@ tags: []
 - [[dentin-hypersensitivity/kaur-2026-dentin-hypersensitivity-enigma-revisited]] — 서사 리뷰(2026): 수역학설·신경가소성·TRP 채널 기전, 단계적 배제 진단, 가정~수술 치료 알고리즘, 자기조립 펩타이드·CalBots 바이오미메틱 최신 동향; Triple-C 유지 체계 (DOI 10.4103/JCDE.JCDE_41_26)
 
 ## 균열치 증후군 (Cracked Tooth Syndrome, CTS)
+- [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] — Wang 2025 · rct · 전향 RCT(n=106, 근관치료 후 균열치): 포세린 인레이가 전부피개관보다 성공률·통증·치은지표·저작효율 우수 (abstract-only, 중국어, PMID 40275667·DOI 없음)
 - [[cracked-tooth/liu-2025-restorative-design-materials-stress-cracked-teeth-fea]] — Liu 2025 (FEA, BMC): 균열 대구치 수복 설계×재료 응력·균열진전 — 피개형 설계가 응력 유리
 - [[cracked-tooth/kaur-2026-cracked-tooth-syndrome-umbrella-review]] — Umbrella review (Manipal CDS, JCDE 2026, PROSPERO, AMSTAR-2): 4 SR(30 primary)/CCA 17% — **endo therapy + full cuspal coverage가 최고 prognosis**. 분야 최고 evidence-level
 - [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] — Zhang 2024 · sr+ma (abstract-only) · J Dent 27편: 생활치 direct(cuspal coverage 無) vs full-crown 치수합병증 RR 3.2·발치 RR 8.1, 근관치료 균열치 full-crown 無 시 발치 11.3배 → **cuspal coverage 강력 권고**, 무증상은 monitoring 80%(3y) (DOI 10.1016/j.jdent.2024.104843)
@@ -2149,6 +2160,10 @@ tags: []
 
 
 <!-- BATCH INGEST 2026-06-07: 비우식성 치경부 병소(NCCL) 병인·형태·진단. NEW category: nccl. 접착 수복 RCT 3편은 resin-bonding에 배치 -->
+
+## 인공지능·기계학습 (Artificial Intelligence / Machine Learning)
+- [[artificial-intelligence/garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review]] — Garg 2026 · sr · 소아치과 AI 우산고찰(SR 7편/원저 109편): CNN 영상 AI 민감도·특이도 80–83%·AUC 0.87–0.91이나 기저 SR 대부분 저질·예비적 (DOI 10.1111/ipd.70084)
+- [[artificial-intelligence/gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr]] — Gómez-Ríos 2025 · sr · 소아치과 ML SR(1945편→20편, 14편 우식예측): 조기우식 아동 보험비용↑·실란트+불소 절감; ML 전용 방법론 지침 필요 (DOI 10.23804/ejpd.2025.2288)
 
 ## 비우식성 치경부 병소 (Noncarious Cervical Lesions / Abfraction)
 
