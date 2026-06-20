@@ -1,0 +1,17 @@
+A randomized controlled trial comparing the effect of salivary substitute and fluoride varnish on radiation caries in irradiated head and neck cancer patients.
+
+Authors: Bhandari S, Wadhwa B, Ghoshal S
+Journal: Supportive Care in Cancer 2026;34(7) (Oral Health Sciences Centre, PGIMER Chandigarh)
+PMID 42319482 | DOI 10.1007/s00520-026-10909-2
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+BACKGROUND: Morbid effects of head and neck cancer (HNC), ensuing treatment, and ignorance of oral health care cause multiple oral issues, including progressive radiation caries (RC). Such conditions negatively impact quality of life in HNC survivors and are costly to manage.
+
+OBJECTIVE: To evaluate and compare the effectiveness of salivary substitute and fluoride varnish on radiation caries in irradiated HNC patients.
+
+METHODS: HNC patients meeting inclusion criteria were randomly assigned into three groups: saliva substitute (Group I), fluoride varnish (Group II), or both (Group III). After comprehensive oral care, the Decayed, Missing, and Filled Surfaces (DMFS) score was recorded before radiotherapy (RT), then at 3, 6, and 12 months post-RT. Fluoride varnish was applied professionally before RT, immediately after RT, then at 3-month intervals. Saliva substitute was advised liberally at home before major meals.
+
+RESULTS: 482 patients (407 males, 75 females; mean age 51.32 y, range 18–79) recruited. At 12 months, complete data for 67 (Group I), 73 (Group II), 80 (Group III). DMFS score increase was statistically significant (P<0.05) in all three groups and across all time points. The Bonferroni test for intergroup comparison was non-significant (no group superior).
+
+CONCLUSION: Multiple overlapping factors influence the origin and progression of radiation caries. The amalgamation of salivary gland-sparing RT, professional care, stringent home-care measures, regular follow-ups, and patient education is paramount for addressing oral issues in HNC survivors. (Neither saliva substitute nor fluoride varnish alone nor combined halted DMFS progression; no intergroup difference.)
