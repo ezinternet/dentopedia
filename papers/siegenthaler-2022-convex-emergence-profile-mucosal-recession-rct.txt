@@ -1,0 +1,554 @@
+Anterior implant restorations with a convex emergence profile increase the frequency of recession: 12‐month results of a randomized controlled clinical trial
+
+PMID 35817419 | PMCID PMC9804465 | DOI 10.1111/jcpe.13696
+Source: PMC open-access full text.
+
+Clinical Relevance
+
+: The necessity of a provisional restoration and the type of emergence profile (CONVEX or CONCAVE) to ensure aesthetics and healthy peri‐implant tissues is a subject of debate. Surprisingly, there is still a lack of evidence over which type of emergence profile (CONVEX or CONCAVE) for implant‐supported crowns, including the provisionals, is more beneficial clinically.
+
+: Implant‐supported crowns, including provisionals, with a concave emergence profile showed a greater stability of the mucosal margin, whereas a convex emergence profile was associated with a higher risk of developing recessions.
+
+: Implant‐supported crowns, including provisionals, with a concave emergence profile reduce the risk of developing mucosal recessions.
+
+1
+
+INTRODUCTION
+
+A successful implant therapy is characterized by maintaining healthy and stable peri‐implant tissues over a long period of time. Unless dental implants are loaded immediately, the time between implant placement and the insertion of the final restoration varies. During this time period, changes in the peri‐implant tissues occur (Chen & Buser,). This is clinically reflected by changes in the height of the papilla, the papilla fill, the level of the mucosal margin, and the soft tissue contour.
+
+Several studies (Small & Tarnow,; Small et al.,; Chu & Tarnow,) concluded that peri‐implant soft tissue changes mainly occur between implant placement and the first year after insertion of the final restoration. Often, a reduction in papilla height, an apical displacement of the mucosal margin, and a decrease in the thickness of the buccal tissue are observed within the first 3 months (Small & Tarnow,). Subsequent remodelling processes will then lead to an improvement and a stabilization of the peri‐implant soft tissue complex after 1 year (Chen et al.,; De Bruyn et al.,).
+
+In order to counteract and minimize the changes in the peri‐implant tissues following insertion of the final restoration, the use of implant provisionals has been suggested (Chee,; Higginbottom et al.,; Castellon et al.,). Implant provisionals allow conditioning of the peri‐implant soft tissues (Wittneben et al.,). The transition zone, hereby affected, is commonly called emergence profile (Neale & Chee,; Pissis,; Belser et al.,) and ranges from the implant shoulder/platform to the mucosal margin.
+
+Various clinical methods have been described to condition the emergence profile with the use of a provisional restoration: (1) cervical contouring concept (Bichacho & Landsberg,); (2) dynamic compression technique (Wittneben et al.,); and (3) selective pressure method (Nam & Aranyarachkul,). The various methods described differ in terms of the number of steps and the resulting shape of the emergence profile contour. The majority of studies describe a concave emergence profile (Rompen et al.,; De Rouck et al.,; Nam & Aranyarachkul,; Gonzalez‐Martin et al.,). Conversely, a convex contour of the emergence profile appears to be recommended when an implant is placed in a too‐palatal or too‐lingual  position (Steigmann et al.,; Chu,) or in the upper part of the transmucosal zone in proximity to the marginal mucosa (Seyssens et al.,). These different emergence profiles, however, have been mainly applied arbitrarily as there is a lack of studies investigating the effect of the different emergence profiles on clinical and aesthetic outcomes, even in implants with a prosthetically ideal position.
+
+Apart from the obvious aesthetic and clinical benefits of using an implant provisional, such a step is associated with additional efforts, higher costs, and a longer treatment time. The necessity of a provisional restoration to ensure aesthetics and healthy peri‐implant tissues has been a subject of debate (Jemt,) since the additional benefit of an implant provisional might be limited.
+
+Hence, the scientific evidence is insufficient as to whether there is a clinical and aesthetic benefit of using an implant provisional and which emergence profile, convex or concave shape, is more beneficial.
+
+The aim of this study was, therefore, to test whether one of three different treatment modalities (healing abutment only, implant provisional with a convex emergence profile, implant provisional with a concave emergence profile) results in a more stable mucosal margin level at 6 and 12 months after insertion of the final restoration.
+
+2
+
+MATERIALS AND METHODS
+
+2.1
+
+Study design and population
+
+The present study was designed as a prospective, randomized, controlled clinical trial with three parallel groups in accordance with the ethical standards of the Declaration of Helsinki in 1975, as revised in 2013. Following approval by the local ethical committee (KEK‐Nr 2015‐0284 No. 2012‐0147), a total of 47 patients were consecutively recruited and received 47 dental implants (OsseoSpeed EV, Astra Tech Implant System, Dentsply Sirona Implants, Mölndal, Sweden) in the anterior area of the maxilla or the mandible (incisors, canines, or premolars). All implants were placed in a standardized manner according to the strict guidelines of the Clinic of Reconstructive Dentistry and based on the manufacturers' recommendations—always in a prosthetically oriented position by means of surgical stents that allowed a screw‐retained restoration. The depth of the implant was chosen according to the digital and prosthetically driven implant planning as well as the clinic's prosthetic guidelines (3–4 mm below the prospective crown margin).
+
+All implants were placed by the same faculty of the clinic. After a healing period of 3–4 months following implant placement, eligible patients were scheduled for a screening visit and informed consents were obtained.
+
+Patients had to fulfil the following inclusion criteria:
+
+The following criteria led to exclusion of a patient:
+
+Following abutment connection and before taking the impression for the final crown, patients were randomly allocated to one of three groups by using a sealed envelope containing the group allocation according to a computer‐generated list:
+
+2.2
+
+Clinical and laboratory procedures
+
+After impression taking for the two test groups (CONVEX, CONCAVE), undercontoured, screw‐retained provisional crowns using a temporary titanium abutment (Temp Abutment EV, Astra Tech Implant System, Dentsply Sirona Implants) were designed (Figure). These initially undercontoured provisional crowns were modified according to the randomized group. The undercontour was filled step by step to give a new shape by applying a thin layer of flowable composite material to either a convex or a concave contour (Figure). The emergence profile was shaped from ≈1 to 2 mm above the neck of the abutment. One week later, the soft tissue contour around the implant provisionals was examined and either deemed ideal (mimicking the contra‐lateral site) for impression taking or not. In the case of the latter, further conditioning steps were undertaken (up to three appointments). The number of modifications/appointments needed was recorded. For the control group, a standard titanium healing abutment was used (HealDesign EV or Healing Uni EV, Astra Tech Implant System, Dentsply Sirona Implants). According to the anatomical situation of the implant site, the diameter of the used abutments ranged from 5 to 6.5 mm as wide healing abutments were also allowed, where needed. The height of the abutments ranged from 3.5 to 6.5 mm. The used height and width of the healing abutments were left to the discretion of the treating faculty, depending on the anatomical situation.
+
+After the formation of the emergence profile, a final impression was taken and the final restoration was designed (Figure). Monolithic zirconia crowns were designed and directly cemented onto individualized zirconia abutments (Atlantis, Dentsply Sirona Implants) having an identical emergence profile as the provisional restoration (Figure). The restorations were inserted with a torque of 25 Ncm. Teflon tape and composite (Tetric, Ivoclar Vivadent) were used to close the screw access holes of the crowns. The study timeline is displayed in Supplement Figure.
+
+FIGURE 1
+
+Representative cases of each treatment modality up to final crown delivery
+
+2.3
+
+Maintenance and follow‐up
+
+All patients were recalled for a baseline examination (7–10 days after crown insertion) and for follow‐up appointments at 6 (6m‐FU) and 12 (12m‐FU) months after loading. All follow‐up examinations were performed by a blinded and calibrated examiner who was not involved in the surgical or the prosthetic procedures. At all time points, the following outcomes were assessed:
+
+2.3.1
+
+Marginal mucosa level
+
+The marginal mucosa level was evaluated by measuring the difference in the clinical crown length at crown insertion and again at 6 and 12 months (to determine the presence of recession). These measurements were dichotomized (presence or absence of recessions) for the primary analysis.
+
+2.3.2
+
+Clinical and aesthetic outcomes
+
+Aesthetic parameters were assessed with buccal photographs and the modified pink aesthetic score (PES)/white aesthetic score (WES) Index (Belser,). The photographs were taken according to the guidelines of the Clinic of Reconstructive Dentistry at University of Zurich—a 90° angle was obtained to ensure optimal assessment of the soft tissues adjacent to the implant site: in the anterior region directly and indirectly in the premolar region by means of a mirror. Biological parameters included the width and height of buccal keratinized tissue (KT) and were assessed at the buccal mid‐facial aspect of the implant. The buccal soft tissue thickness was measured in the mid‐facial aspect, 1 mm apically of the mucosal margin, of the implant by inserting an endo file (ISO 15) in a perpendicular manner until contact with the restoration. The adjustment of the rubber stop facilitated the measurement then taken by the periodontal probe. The height of the KT was also measured in the mid‐facial aspect of the implant restoration by means of the periodontal probe. The clinical crown height was measured by means of a periodontal probe from the buccal mid‐facial mucosa margin to the middle of the incisal edge of the implant crown. The periodontal phenotype (biotype) was recorded as either thick or thin through the visibility of the periodontal probe (Kan et al.,). Furthermore, the height of the papillae mesial and distal of the implant site were evaluated (Jemt,).
+
+2.3.3
+
+Linear and profilometric outcomes
+
+Impressions of the final implant restoration and the neighbouring region were taken after crown insertion (BL), at the 6m‐FU and the 12m‐FU using an A‐silicone impression material (President, Coltene/Whaledent). Casts were made out of dental stone and scanned to stereolithography (STL) files, and the generated BL STL file was imported into a digital imaging software program (SMOP, Swissmeda). Subsequently, the 6m/12m‐FU STL files were also imported and superimposed to the BL STL and the software then measured the mean distance and contour changes between the surfaces within the regions of interest (ROIs) in millimetre as previously described (Sapata et al.,; Pirc et al.,). In brief, two rectangular ROIs were defined, the coronal border situated at 1 mm and 3 mm apical to the mucosal margin in the buccal aspect, where most contour changes were to be expected. The horizontal length of the rectangle along the mucosa contour was approximately 1 mm wide and 3 mm long, not reaching the papillary regions of the neighbouring teeth as previously described.
+
+2.3.4
+
+Time and cost outcomes
+
+Investments in time and costs (based on technical costs, chairside costs, and on the number of visits) for all three treatment modalities were evaluated. Investments in time were calculated based on the number of visits between the first implant impression at abutment connection and the final delivery of the implant restoration. Costs were assessed for all study participants in Swiss Francs (CHF) according to the guidelines of the Swiss Dental Association with a standard tax‐point value of 1.00 for dental fees (). The cost of a single‐implant provisional crown was calculated at 685 CHF (600 CHF for laboratory costs + 85 CHF for chairside costs). The subsequent modification appointments were calculated at 125 CHF per appointment.
+
+2.3.5
+
+Marginal bone levels
+
+Standardized single‐tooth radiographs were taken and marginal bone levels (MBL) were calculated at 10× to 15× magnification using an open‐source software (ImageJ, National Institute of Health, Bethesda, MD). The distance between the implant shoulder and the bone crest was assessed at the mesial and distal aspect of each implant. The known distance between the implant threads and the implant diameter were used for the calibration of the images. Mesial and distal values were averaged for further calculations. Changes over time were determined as the difference between MBL at crown insertion to 6 months (BL—6m) and crown insertion to 12 months (BL—12m); positive values represent MBL gains and negative values MBL losses.
+
+2.4
+
+Sample size calculation
+
+The sample size was calculated with a statistical software (G*Power, Düsseldorf, Germany) (Faul et al.,). The required sample size was obtained using Fisher's exact‐test for independent proportions (two‐sided) with anlevel of 5% and a statistical power of 80%, assuming an expected difference in the frequency of mucosal recession of 56%, which was considered to be clinically relevant. Due to the lack of previous randomized controlled trial (RCT) studies investigating the frequency of recessions related to the emergence profile with a similar setting, this value was chosen arbitrarily based on previous studies reporting mid‐facial recession frequency as low as 7% (Raes et al.,) and as high as 64% (Cordaro et al.,; Cosyn et al.,) applying immediate placement. Thus, a total of 13 patients per group were needed to find significant differences in the frequency of mucosal recessions at 6 months follow‐up. Considering a drop‐out rate of 20%, 47 patients were enrolled.
+
+2.5
+
+Statistical analysis
+
+Descriptive statistics (mean, SD, and medians) were calculated for all metric parameters. For categorical parameters, frequencies were calculated. To predict the presence of recession (yes/no) according to the treatment group, a multivariable logistic regression analysis was performed at 6 and 12 months follow‐up and adjusted for the following confounders: soft tissue thickness and KT. To assess changes in clinical, aesthetic, profilometric, and radiographic outcomes within and between the treatment groups, linear models using generalized estimation equations were conducted. Wald's Chi‐squared statistic was used to conclude about main effects and interactions. This methodological approach was used due to the within‐subject correlation of repeated measurements through the follow‐up. Post hoc tests were carried out and corrected by Bonferroni's criteria. The significance levelwas set to 5%. All statistical analyses and plots were computed with the statistical software (SPSS v.27.0, Chicago, IL).
+
+3
+
+RESULTS
+
+Forty‐seven participants (20 women [43%] and 27 men [57%])—with a mean age of 60.3 years and a range of 25.5–81.2 years—received 47 implants in the aesthetic area of the mandible (7) or maxilla (40). The demographic distribution can be seen in Supplement Table. The location of the implants is displayed in Supplement Figure.
+
+After the final impression, two patients were lost to follow‐up (one implant failed, one patient died). This resulted in a total of 45 patients attending the baseline examination (7–10 days after crown insertion). For the 6m‐FU, 41 patients could be recalled (4 patients did not show up for diverse reasons [Covid‐19 sickness/quarantine/lockdown]). These appointments were rescheduled, and at 12 months, 44 patients could be recalled (one patient left the country). The corresponding Consort flow diagram is shown in Figure. The implant and restoration survival rates between crown insertion and 12 months were 100%.
+
+FIGURE 2
+
+Consort flow diagram
+
+3.1
+
+Marginal mucosa levels
+
+At 6 months, the frequency of mucosal recession amounted to 53.8% in group CONVEX, 7.7% in group CONCAVE and 21.4% in group CONTROL (Figure). At 12 months, the frequency of mucosal recession increased to 64.3% in group CONVEX, 14.3% in group CONCAVE, and 31.4% in group CONTROL (Figure).
+
+Six months after crown delivery, the mean recession amounted to 0.83 ± 0.40 mm (median: 0.75) in group CONVEX, 1.00 ± 0.00 mm (median: 1.00) in group CONCAVE, and 0.83 ± 0.28 mm (median: 1.00) in group CONTROL. At 12 months, the mean recession amounted to 0.72 ± 0.60 mm (median: 0.50) in group CONVEX, 1.00 ± 0.00 mm (median: 1.00) in group CONCAVE, and 0.90 ± 0.65 mm (median: 0.50) in group CONTROL.
+
+Adjusted logistic regression models (Table) revealed that the CONVEX group was significantly more likely to show recessions at 6 months (odds ratio [OR]: 13.3, 95% confidence interval [CI]: 1.29–138.51,= .03) and 12 months (OR: 12.6, 95% CI: 1.82–88.48,= .01) when compared with the CONCAVE group (reference) (Figure). In contrast, adjusted logistic regression (Table) analyses failed to show an association between the CONTROL group and the presence of mucosal recessions, neither at 6 months (OR: 3.3, 95% CI: 0.29–37.74,= .33) nor at 12 months (OR: 2.4, 95% CI: 0.37–15.63,= .35) (Figure). The primary outcome (frequency of mucosal recessions) of the two test groups (CONVEX and CONCAVE) is shown in Figure.
+
+When using the CONTROL group as the reference in the adjusted logistic regressions, the models revealed a clear similar trend; CONVEX group tended to be more prone to show recessions (OR: 5.2,= .05) (Supplement Table).
+
+FIGURE 3
+
+Frequency of mucosal recessions at 6 and 12 months of follow‐up. The probability of recession (odds ratio [OR]) in the CONVEX and CONCAVE groups was calculated via multivariable logistic regression using the CONCAVE group as the reference and adjusted for soft tissue thickness and keratinized tissue width. OR andvalues are given. OR >1 indicates a higher probability of developing recessions and OR <1 indicates a lower probability of developing recessions.
+
+FIGURE 4
+
+Graphical illustration of the treatment shemes in both test groups (CONVEX and CONCAVE) and the frequency of mucosal recessions at 12 months of follow‐up.
+
+TABLE 1
+
+Multivariable logistic regression analysis for predicting the presence of recessions (yes/no) adjusted for treatment, soft tissue thickness, and keratinized tissue width at 6 months and 1‐year follow‐up
+
+6 months follow‐up
+
+1‐year follow‐up
+
+OR
+
+95% CI
+
+‐value
+
+OR
+
+95% CI
+
+‐value
+
+Treatment
+
+CONCAVE (reference)
+
+1
+
+1
+
+CONVEX
+
+13.38
+
+1.29–138.51
+
+.030*
+
+12.69
+
+1.89–88.48
+
+.010*
+
+CONTROL
+
+3.30
+
+0.29–37.74
+
+.335
+
+2.43
+
+0.37–15.63
+
+.350
+
+Soft tissue thickness (mm)
+
+0.95
+
+0.59–1.52
+
+.851
+
+1.18
+
+0.77–1.82
+
+.435
+
+Keratinized tissue width (mm)
+
+0.86
+
+0.45–1.65
+
+.657
+
+0.82
+
+0.47–1.43
+
+.503
+
+: OR, 95% CI, and‐value obtained using multivariable logistic regression.
+
+Abbreviations: CI, confidence interval; OR, odds ratio; *< .05 (in bold).
+
+3.2
+
+Clinical and aesthetic outcomes
+
+3.2.1
+
+Aesthetic outcomes
+
+PES at all time points, as well as changes over time, were similar between the groups (= .735) (Table). All groups tended to show an improvement in soft tissue aesthetics over time (= .061). The magnitude of this improvement was similar in all three treatment groups (= .554) (Table).
+
+WES did not show any significant differences, neither between the groups (= .842) nor within the groups over time (= .930) (Table). Moreover, no treatment and time interaction could be found (= .062).
+
+TABLE 2
+
+Aesthetic outcomes of the treatment groups via the modified pink aesthetic score (PES) and the modified white aesthetic score (WES) at baseline (BL), 6‐month (FU‐6m), and 1‐year (FU‐1) follow‐up
+
+CONVEX
+
+CONCAVE
+
+CONTROL
+
+‐value (treatment effect)
+
+‐value (time effect)
+
+‐value (treatment and time interaction)
+
+PES
+
+BL
+
+5.5 ± 2.5
+
+5.4 ± 2.3
+
+4.8 ± 1.8
+
+.735
+
+.061
+
+.552
+
+= 15
+
+= 14
+
+= 16
+
+FU‐6m
+
+6.0 ± 2.1
+
+5.6 ± 2.4
+
+5.9 ± 1.7
+
+= 14
+
+= 13
+
+= 14
+
+FU‐1
+
+5.9 ± 1.7
+
+6.2 ± 1.6
+
+5.4 ± 2.2
+
+= 14
+
+= 14
+
+= 16
+
+CONVEX
+
+CONCAVE
+
+CONTROL
+
+‐value (treatment effect)
+
+‐value (time effect)
+
+‐value (treatment and time interaction)
+
+WES
+
+BL
+
+7.0 ± 2.3
+
+7.9 ± 1.9
+
+7.8 ± 1.9
+
+.842
+
+.930
+
+.117
+
+= 15
+
+= 14
+
+= 16
+
+FU‐6m
+
+7.4 ± 2.3
+
+7.4 ± 1.8
+
+8.0 ± 2.2
+
+= 14
+
+= 13
+
+= 14
+
+FU‐1
+
+7.9 ± 2.1
+
+7.5 ± 1.7
+
+7.6 ± 2.4
+
+= 14
+
+= 14
+
+= 16
+
+: Mean ± SD of PES and WES using a scale from 0 to 10; changes over time and differences between the treatment groups were assessed using generalized estimation equations. Wald's Chi‐squared statistic was used to conclude about main effects and interactions between treatment and time. PES values tended to increase over time (= .061) and this improvement was similar throughout all three treatment groups (= .552). No differences in PES or WES index were found at any time point (> .05).
+
+3.2.2
+
+Periodontal phenotype and soft tissue thickness
+
+At baseline, 38 patients (84%) presented a thick phenotype, whereas 7 patients (16%) presented a thin phenotype. The thick periodontal phenotype amounted to 93.3% (14 patients) in group CONVEX, 78.5% (11 patients) in group CONCAVE, and 81.2% (13 patients) in group CONTROL.
+
+The mean soft tissue thickness amounted to 3.20 ± 1.62 mm (median: 3.00) in group CONVEX, 4.04 ± 1.81 mm (median: 3.25) in group CONCAVE, and 4.56 ± 1.89 mm (median: 4.79) in group CONTROL (inter‐group> .05). At 6 months, the mean soft tissue thickness amounted to 3.14 ± 1.34 mm (median: 3.00) in group CONVEX, 3.31 ± 1.38 mm (median: 3.25) in group CONCAVE, and 3.43 ± 1.48 mm (median: 3.00) in group CONTROL (inter‐group> .05). At 12 months, the mean soft tissue thickness amounted to 2.86 ± 1.01 mm (median: 2.75) in group CONVEX, 3.07 ± 1.24 mm (median: 3.00) in group CONCAVE, and 3.34 ± 1.12 mm (median: 3.00) in group CONTROL (inter‐group> .05).
+
+From baseline to 12 months follow‐up, the changes in soft tissue thickness were similar between the groups (= .130) (Table). All groups showed a reduction in the soft tissue thickness (= .003), but the magnitude of this reduction was similar throughout all groups (= .421), regardless of the time point.
+
+The raw data of each patient are presented in Supplement Tablesand.
+
+TABLE 3
+
+Soft tissue thickness and linear peri‐implant tissue width changes (TW)
+
+CONVEX
+
+CONCAVE
+
+CONTROL
+
+‐value (treatment effect)
+
+‐value (time effect)
+
+‐value (treatment and time interaction)
+
+Soft tissue thickness
+
+∆6m‐BL
+
+−0.04 ± 1.97
+
+−0.58 ± 1.73
+
+−1.00 ± 1.48
+
+.130
+
+.003
+
+.421
+
+∆1Y‐BL
+
+−0.21 ± 1.85
+
+−0.96 ± 1.95
+
+−1.22 ± 1.62
+
+CONVEX
+
+CONCAVE
+
+CONTROL
+
+‐value (treatment effect)
+
+‐value (time effect)
+
+‐value (treatment and time interaction)
+
+Peri‐implant tissue width (TW)
+
+TW1
+
+∆6m‐BL
+
+0.04 ± 0.5
+
+−0.14 ± 0.22
+
+−0.11 ± 0.39
+
+.506
+
+.001
+
+.770
+
+∆1Y‐BL
+
+−0.23 ± 0.38
+
+−0.29 ± 0.25
+
+−0.26 ± 0.25
+
+TW3
+
+∆6m‐BL
+
+−0.05 ± 0.36
+
+−0.27 ± 0.37
+
+−0.24 ± 0.64
+
+.148
+
+.040
+
+.958
+
+∆1Y‐BL
+
+−0.18 ± 0.42
+
+−0.38 ± 0.46
+
+−0.40 ± 0.49
+
+: Mean ± SD. Soft tissue thickness was measured at 1 mm below the mid‐facial mucosal margin; TW = tissue width of the peri‐implant contour at 1 mm (TW1) and at 3 mm (TW3) below the mid‐facial mucosal margin; Differences (∆) between the absolute soft tissue thickness and peri‐implant contour between baseline (BL) and 6‐month follow‐up (∆6m‐BL) and 1‐year follow‐up (∆1Y‐BL). Differences over time and between the treatment groups were assessed using generalized estimation equations. Wald's Chi‐squared statistic was used to conclude about main effects and interactions between treatment and time. The soft tissue thickness changes over time were similar between the groups (= .130). All groups showed a reduction in the soft tissue thickness over time (= .003) but the magnitude of this reduction was similar throughout all groups (= .421). The peri‐implant tissue width changes at TW1 were similar between the treatment groups (= .506). At TW1 all groups showed a reduction of the peri‐implant tissue width over time (= .001), but the magnitude of this reduction was similar throughout all groups (= .770). Similarly, the peri‐implant tissue width changes at TW3 were similar between the groups (= .148). At TW3 all groups showed a reduction of the peri‐implant tissue width over time (= .040) but the magnitude of this reduction was similar throughout all groups (= .958).
+
+3.2.3
+
+Linear and profilometric outcomes
+
+Linear measurements assessing the peri‐implant tissue width at 1 and 3 mm demonstrated a significant decrease between baseline and 6 (= .001) as well as 12 months (= .040) without significant differences between the three groups (> .05).
+
+The profilometric contour changes were similar between the three groups (= .609) at 1 mm below the mucosal margin (ROI‐1), revealing a reduction in the contour over time (= .004) (Supplement Table). The magnitude of this reduction, however, was similar throughout all three treatment groups (= .552). At ROI‐3, there was a trend towards significant differences between the groups (= .067). All groups suffered a significant reduction in the contour over time (= .006), but the magnitude of this reduction was similar across all groups (= .444) (Supplement Table).
+
+3.2.4
+
+Time and cost outcomes
+
+The time and cost investments for each group are displayed in Supplement Table. Both, the CONVEX and the CONCAVE group, received provisionals resulting in one more appointment (insertion of the provisional restoration) than in the CONTROL group. Additionally, modification steps were taken when needed. The mean number of visits required for modification of the provisional was 1.6 (1–3) in the CONVEX, and 1.4 (1–2) in the CONCAVE group. The mean total number of visits (provisional delivery plus the modification steps) in each group was 2.6 for the CONVEX group, 2.4 for the CONCAVE group, and 0 for the CONTROL group (did not receive a provisional). Overall mean costs for each group between impression taking and delivery of the final restoration were 884 CHF for the CONVEX group, 854 CHF for the CONCAVE group, and 0 CHF for the CONTROL group. The addition of a provisional resulted in an average increase in costs by 869 CHF compared with the CONTROL group.
+
+3.2.5
+
+Marginal bone levels
+
+The marginal bone levels (MBL) were similar in all groups at any time point (= .599). MBL values increased (bone gain) over time (< .001). The magnitude of this increase was similar for all three treatment modalities (= .599) (Supplement Table).
+
+4
+
+DISCUSSION
+
+The present randomized controlled trial comparing the presumable benefits and drawbacks of using implant provisionals in terms of mucosal margin stability and costs predominantly revealed:
+
+In order to achieve optimal aesthetic outcomes in implant dentistry, the stability of the peri‐implant soft tissues is of paramount importance. This implies stable conditions of the peri‐implant mucosa after the delivery of the final implant restoration (Thoma et al.,,; Sapata et al.,; Pirc et al.,). Current literature, however, shows that mucosal recessions can occur after final crown delivery, thereby jeopardizing the aesthetic outcomes (Small & Tarnow,; Small et al.,; Seyssens et al.,). The present study revealed that the frequency of recessions was associated with the shape of the emergence profile. A CONVEX shape showed a high rate of recessions (64%) along with a higher risk (OR: 12.6,= .01) of developing recessions at 12 months. In contrast, a CONCAVE shape showed a trend towards fewer recession (14.3%) at 12 months. These observations are in line with a previous pilot clinical study, reporting a frequency of 13% in recessions using concave emergence profile (Rompen et al.,). Anecdotal evidence also suggests that a concave emergence profile results in superior aesthetic outcome (Su et al.,; Gonzalez‐Martin et al.,; Esquivel et al.,; Gomez‐Meda et al.,). This type of evidence, nevertheless, mainly relies on personal experience precluding a generalization of the findings and a thorough interpretation of the data. Conversely, a recent 10‐year prospective study on single immediate implants suggests that a convex emergence profile might increase the risk of mid‐facial recessions, being consistent with the present findings (Seyssens et al.,). In this sense, the present study supports the notion that a concave emergence profile permits more room for soft tissue ingrowth (Koutouzis & Ali,), resulting in a greater stability of the level of the mucosal margin. In contrast, a convex emergence profile may prevent a further ingrowth of the peri‐implant soft tissues that might lead to a higher frequency of recessions over time, as observed in the current study.
+
+Soft tissue thickness is considered a vital parameter not only for aesthetic outcomes (Jung et al.,) but also for the stability of the mucosal margin (Small et al.,). Previous clinical studies revealed that thicker soft tissues provide greater stability of the mucosal margin than those with thin tissues (Zuiderveld et al.,; Hosseini et al.,), thereby limiting the occurrence of mucosal recessions (Zucchelli et al.,). In the present study, the soft tissue thickness decreased in all groups and all in a similar magnitude. This was further confirmed by the profilometric analyses showing a similar trend. It should be noted, however, that the soft tissue in the CONVEX group tended to be thinner at baseline (crown insertion) (> .05). Since the emergence profile can affect the peri‐implant mucosa thickness (Koutouzis & Ali,), it is plausible that the use of a CONVEX provisional (during the provisional phase) led to a thinner soft tissue thickness at baseline, thereby increasing the risks of developing recessions during the follow‐up. Conversely, a concave provisional may have allowed the development of thicker tissues, thereby being more resistant to soft tissue recessions.
+
+Aesthetic outcomes play a crucial role in implant‐supported fixed restorations. Thereby, numerous indices have been used to assess the aesthetics of implant restorations. Despite the lack of a universally accepted index (Cosyn et al.,), the current clinical literature recommends the PES and complex aesthetic index for single‐tooth implant restorations. The present study failed to demonstrate a significant influence of the use of a provisional on the aesthetic outcome (assessed by PES). These findings are in contrast to a recent clinical study with 1‐ and 3‐year results (Furze et al.,,). In that particular study, the use of a provisional significantly improved the aesthetic outcomes/PES compared with a control group (no provisional restoration). The discrepancies observed between the above‐mentioned studies (Furze et al.,,) and the present study might be explained by methodological differences. Inclusion criteria were more stringent (incisors, canines) compared with the current report (incisors, canines, and premolars). The mean PES obtained in the present study were relatively low compared with previous studies (Arora & Ivanovski,; Jonker et al.,) regardless of the treatment group. This could be attributed to the wide age range (25–81 years) of the included patients. Many elderly patients presented attachment loss on the neighbouring teeth, thereby affecting the overall PES. Interestingly, the aesthetic outcomes (PES) tended to improve over time (= .06) in all groups, and the magnitude of this improvement was similar throughout all three treatment groups. These observations corroborate previous clinical studies assessing aesthetic outcomes applying various implant protocols (Jemt,; Jonker et al.,).
+
+Surprisingly, the present results strongly question the need of an implant provisional prior to the insertion of final implant restorations. Although a majority of clinicians assume that the conditioning of the peri‐implant mucosa leads to a superior aesthetic result, there is a lack of solid scientific evidence, specifically a lack of RCTs. This is of particular importance because case reports or retrospective studies may exaggerate the effect of an intervention (Altman & Bland,; Euser et al.,; Talari & Goyal,). An earlier clinical study that assessed the soft tissue contour of 63 single‐implant restorations (25 with provisionals and 38 with healing abutments) concluded that the added benefit of using provisionals was clinically negligible as the soft tissues around all implants presented a similar volume at 2 years follow‐up, irrespective of the use of a provisional (Jemt,). The present study appears to confirm the above reasoning.
+
+From a patient's point of view, the comfort of having a fixed, implant‐retained provisional is inarguably an advantage. The disadvantages, on the other hand, are the increased costs and treatment time. On average, 2.5 times more appointments along with an additional cost of 869 CHF were required to provide patients with a provisional restoration. Considering the total cost of an implant‐supported restoration (approximately 1500 CHF), the use of a provisional increases the costs by more than 50%.
+
+The current study presents a number of limitations. The presence of recessions was determined by an apical shift of the mid‐facial mucosa compared with baseline using a periodontal probe, which has some inherent limitations. Given that the magnitude of recessions tended to be within the error range (≈1 mm) of a periodontal probe (Badersten et al.,; Grossi et al.,) and that no customized stent was used for the measurements, a random error cannot be ruled out. Furthermore, the present study could not represent all possible clinical scenarios—in the case of tissue overgrowth, recessions need to be induced to obtain an aesthetically pleasing outcome. In that scenario, a provisional crown with a convex profile is required. Another limitation is the threshold, range, and precise angle for what was considered concave or convex, as this was not numerically measured. Finally, the buccal plate thickness was not considered for the analyses as patients were required to already have an implant in order to be eligible for the study. This may be a potential confounder variable, as shown in other studies published elsewhere (Monje et al.,; Tavelli et al.,). Nevertheless, this limitation was overcome to some extent by the randomization process, which probably ensured a balanced distribution of measured and unmeasured variables between the groups that could have influenced the stability of the mucosal margin.
+
+From a clinical and aesthetic point of view and considering the additional appointments, the present findings appear to indicate a negligible benefit of implant provisionals in terms of mucosal margin stability. These findings may assist clinicians in the decision‐making process over whether to use an implant provisional and which shape is more beneficial for a stable mucosal margin.
+
+5
+
+CONCLUSION
+
+The use of implant‐supported provisionals with a concave emergence profile results in a greater stability of the mucosal margin compared with a convex profile up to 1 year post‐loading. The use of provisionals is accompanied, however, by longer treatment times and higher costs compared with their absence and may not necessarily enhance the aesthetic outcomes.
+
+AUTHOR CONTRIBUTIONS
+
+All authors made substantial contributions to this study. Daniel S. Thoma, Christoph H. F. Hämmerle, and Ronald E. Jung contributed to the conception and design of the study. Marina Siegenthaler, Franz J. Strauss, and Felix Gamper contributed to the clinical phases of the study and collected the data. Jürg Hüsler and Franz J. Strauss performed the statistical analysis. Franz J. Strauss, Marina Siegenthaler, Daniel S. Thoma, Christoph H. F. Hämmerle, and Ronald E. Jung contributed to interpretation of the data and drafted and finalized the manuscript. All authors critically reviewed and approved the final manuscript.
+
+FUNDING INFORMATION
+
+This study was funded by the Clinic of Reconstructive Dentistry, Center of Dental Medicine, University of Zurich, Switzerland. The study was supported by the SSRD (Swiss Society for Reconstructive Dentistry), Dentsply Sirona Implants (Mölndal, Sweden) and by the Clinic of Reconstructive Dentistry, University of Zurich.
+
+CONFLICT OF INTEREST
+
+All authors declare to have no conflict of interest.
+
+ETHICS STATEMENT
+
+Ethical approval for this study was obtained from the Ethics Committee of Canton Zurich, Switzerland (KEK‐ZH‐Nr 2015–0641) and all participants signed an informed consent prior to their enrolment.
+
+Supporting information
+
+Supplementary information.
+
+Click here for additional data file.
