@@ -108,7 +108,8 @@ All three tiers share the same stem:
 | `endodontics/diagnosis` | 근관치료·진단 | Pulp & periapical diagnosis — pulp sensibility vs vitality test accuracy, pulpitis diagnosis effectiveness, pediatric pulp testing, periapical lesion etiology/diagnosis (granuloma vs cyst) |
 | `periodontics` | 치주치료 | Periodontal disease, regeneration, SPT |
 | `interdental-cleaning` | 치간 청소 | Interdental cleaning devices/aids — dental floss, interdental brush (IDB), water flosser / oral irrigator (Waterpik), wooden toothpick; efficacy RCTs/SRs, device head-to-heads, adherence, gingival abrasion, papilla harm. (Watanabe toothpick *toothbrushing* method → `periodontics`; peri-implant device comparisons → `implants/peri-implantitis`) |
-| `dental-materials` | 치과재료 | Impression materials, zirconia, ceramics |
+| `dental-materials` | 치과재료 (general) | Impression materials, ceramics (lithium disilicate/glass-ceramic), amalgam/composite longevity, CAD-CAM all-ceramic. (zirconia-specific → `dental-materials/zirconia`) |
+| `dental-materials/zirconia` | 치과재료·지르코니아 | Dental zirconia (Y-TZP/3Y/4Y/5Y, monolithic) — material types/processing, strength/defects, antagonist enamel wear, LTD/aging, survival/clinical, bonding & saliva-contamination cleaning (Ivoclean/primers/MDP), grinding/polishing/glazing |
 | `glass-ionomer` | 글래스아이오노머 | GIC / RMGIC / HVGIC: composition, restorative & preventive use, longevity, bioactivity/remineralization, biocompatibility, fissure sealant |
 | `digital-workflow` | 디지털워크플로우 | IOS accuracy, CBCT, CAD/CAM, guided surgery |
 | `resin` | 레진 | Composite resin, polymerization, shrinkage |
