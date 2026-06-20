@@ -5,7 +5,7 @@ year: 2025
 date: 2025-10-30
 doi: 10.1016/j.ortho.2025.101084
 source: ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: false
@@ -59,6 +59,6 @@ Qualitative SR (no meta-analysis). PubMed, Cochrane, Science Direct, Web of Scie
 
 ## Related Papers
 
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella review; this SR substantiates its CA rotation/torque inferiority claim (reinforces)
-- [[orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — CA vs FA inclination/contacts in complex/extraction cases (extends)
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only CA vs FA efficacy: occlusal equivalence + periodontal advantage
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella review; this SR substantiates its CA rotation/torque inferiority claim (reinforces)
+- [[orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — CA vs FA inclination/contacts in complex/extraction cases (extends)
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only CA vs FA efficacy: occlusal equivalence + periodontal advantage
