@@ -1104,6 +1104,7 @@ tags: []
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
 - [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
+- [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — Chawla 2026 · sr+ma (abstract-only) · 유치 비가역성 치수염 펄포토미 vs 펄펙토미: 방사선(RR 1.35, 0.67–2.73; I²=96%)·임상(RR 1.06, 0.95–1.18) 성공 차이 無(12mo) — 단 2편·확실성 매우 낮음, 펄포토미가 minimally invasive 대안 가능성 (DOI 10.1016/j.jdent.2026.106329)
 - [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 2025 영구치 VPT 최초 가이드라인 — 비가역 치수염도 VPT 고려 가능, MTA/Biodentine DPC·절단 1차 재료.
 - [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — 유치 광범위 우식 치수 치료 코크란 리뷰 — MTA 치수절단 성공률 ~93%, FC 85–92%, IPC 유효.
 - [[endodontics/vpt/hatipoglu-2025-direct-pulp-capping-nmr-rct]] — RCT + NMR Bayesian (J Dent 2025): Biodentine DPC OR 4.41, MTA OR 3.02 vs Ca(OH)₂; 추적 36개월; 비가역 치수염 포함 서브분석 유의
@@ -1292,6 +1293,7 @@ tags: []
 - [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
 
 ## 우식 (Caries)
+- [[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] — Konukman Turker 2026 · rct(유구치 268, deep caries, 24mo) · Hall technique vs modified HT(바깥 우식 선택제거): 성공률 동등 86.6% vs 92.8%(NS), modified HT major failure 적음(3.6% vs 10.1%); **HT는 SSC 적합도가 결정적**(부적합 시 major failure 40% vs 7.3%) (DOI 10.1186/s12903-026-07667-2) [위키 첫 Hall/SSC 항목]
 - [[overviews/non-restorative-caries-management-topical-fluoride-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편): 비수복적 우식관리(NRCT)·국소불소 종합 — 우식은 가역적 산질환이라 활성 비공동성 병소는 삭제없이 화학정지. SDF·실란트+불소 전반 최상(Urquhart 2019), SDF>불소바니시(Zheng 2025, 착색 감수), 치근우식 1차 고농도(5000ppm)불소치약(Chen 2026), FV는 실란트 대비 비우월·비용불확실(Chestnutt 2017·Kumar 2026), 8%아르기닌 무불소대안(Yin 2025), 수복은 공동성·실패시(위계 미확립 Schmidt 2024)
 - [[caries/zheng-2025-silver-diamine-fluoride-vs-varnish-caries-prevention-rct]] — Zheng 2025 · rct (30개월 이중맹검 활성대조 우월성, 홍콩 유치원 730→621명): 반년마다 **38% SDF vs 5% NaF 바니시(FV)** 상악 전치 유치 ECC 예방 직접비교 — 신규 우식면 0.35(SDF) vs 0.54(FV) p=0.048, GEE 보정 OR 0.61(p=0.029, 예방분율 39%), 24개월 이후 인접·평활면서 발현 (DOI 10.1177/00220345251363837)
 - [[caries/kumar-2026-fluoride-varnish-caries-prevention-cost-effectiveness-sr-ma]] — Kumar 2026 · sr+ma (23개 경제성평가, 836편 스크리닝): 소아 우식예방 **불소바니시(FV) 비용효과** — FV vs 타 예방(OHE/TAU/실란트/칫솔질/무중재) 통합 INMB $124.1(I²=0%, CI 0포함)로 비용효과 차이 없음; 고소득국 지불자 관점 불확실. 임상효능 아닌 경제성 분석 (DOI 10.1016/j.jdent.2026.106562)
