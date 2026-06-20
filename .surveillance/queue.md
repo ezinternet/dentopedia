@@ -92,17 +92,17 @@
       "Prevalence of C-shape Canal in Second Mandibular Premolars: A Systematic Review and Meta-analysis" — Indian J Dent Res
 - [x] PMID 42060239 | SR+MA | OA:PMC PMC13133309 (CC BY 4.0) | clear-aligner | edat 2026/04
       "Effectiveness of clear aligners for maxillary expansion in growing patients: a systematic review and meta-analysis" — Prog Orthod
-- [ ] PMID 41923072 | SR+MA | OA:PMC PMC13169927 (CC BY 4.0) | clear-aligner | edat 2026/04
+- [x] PMID 41923072 | SR+MA | OA:PMC PMC13169927 (CC BY 4.0) | clear-aligner | edat 2026/04 — INGESTED 2026-06-20 → wiki/orthodontics/huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma
       "Comparative efficacy of clear aligner mandibular advancement versus traditional functional appliances for skeletal Class II malocclusion: a systematic review and meta-analysis" — BMC Oral Health
-- [ ] PMID 41950291 | SR+MA | OA:PMC PMC13061203 (CC BY 4.0) | clear-aligner | edat 2026/04
+- [x] PMID 41950291 | SR+MA | OA:PMC PMC13061203 (CC BY 4.0) | clear-aligner | edat 2026/04 — INGESTED 2026-06-20 → wiki/orthodontics/sirri-2026-physical-adjunctive-interventions-clear-aligner-rct-sr
       "The impact of physical adjunctive interventions on outcomes of clear aligner treatment: A systematic review of randomized controlled trials" — PLoS One
-- [ ] PMID 42098698 | SR | OA:PMC PMC13173856 (CC BY 4.0) | clear-aligner | edat 2026/05
+- [x] PMID 42098698 | SR | OA:PMC PMC13173856 (CC BY 4.0) | clear-aligner | edat 2026/05 — INGESTED 2026-06-20 → wiki/orthodontics/montasser-2026-tmj-changes-clear-aligner-scoping-review
       "Temporomandibular joint changes after orthodontic treatment with clear aligners: A scoping review" — BMC Oral Health
-- [ ] PMID 42163541 | SR | OA:none | clear-aligner | edat 2026/04
+- [x] PMID 42163541 | SR | OA:none | clear-aligner | edat 2026/04 — INGESTED 2026-06-20 → wiki/orthodontics/alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade-sr
       "Impact of clear aligners and conventional fixed orthodontic appliances on oral hygiene and periodontal health: A systematic review with GRADE" — Eur J Orthod
-- [ ] PMID 41172597 | SR | OA:none | clear-aligner | edat 2025/10
+- [x] PMID 41172597 | SR | OA:none | clear-aligner | edat 2025/10 — INGESTED 2026-06-20 → wiki/orthodontics/ubuzima-2025-clear-aligner-fixed-anterior-teeth-movement-adults-sr
       "Comparative effectiveness of clear aligners and fixed appliances in orthodontic movement of the anterior teeth in adults: A systematic review" — Int Orthod
-- [ ] PMID 41548998 | RCT | OA:none | clear-aligner | edat 2026/01
+- [x] PMID 41548998 | RCT | OA:none | clear-aligner | edat 2026/01 — INGESTED 2026-06-20 → wiki/orthodontics/thakur-2026-probiotics-clear-aligner-biofilm-rct
       "Antimicrobial effects of four probiotic compositions and delivery forms on clear aligner biofilm: A randomized single-blind crossover trial" — J World Fed Orthod
 - [x] PMID 42152031 | RCT | OA:PMC PMC13198745 (CC BY 4.0) | pediatric-dentistry | edat 2026/05
       "One-year clinical evaluation of a giomer-based injectable composite compared with a highly viscous glass-ionomer cement in restoring class II cavities of primary molars: a randomized clinical trial" — BMC Oral Health
