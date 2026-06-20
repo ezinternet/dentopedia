@@ -15,7 +15,7 @@ tags: []
 - [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — Wang 2022 · rct · 협측 emergence profile 설계가 12개월 퇴축 감소(0.13 vs 0.63mm, p=0.006); ~32° 각도가 40°보다 우수 (DOI 10.1111/cid.13088)
 - [[implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — Canullo 2020 · sr+ma · 티타늄 지대주 표면개질 SR+MA(10편/6 pooled): 단기 연조직 지표(PI/BoP/PD) 차이 없음, 장기는 상충 (DOI 10.1007/s00784-020-03210-x)
 - [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — Mourão 2025 · rct · EBD critical summary: tapered vs cylindrical 임플란트 초기치유 RCT 평가 — tapered가 삽입토크 높고 cylindrical이 6주 ISQ/IST 높음, 술식 > 매크로지오메트리 (DOI 10.1038/s41432-025-01202-y)
-- [[implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — 동물(성견, 6마리): 무피판 임플란트 수술 후 임플란트 주위 점막 혈관 분포율 1.7% vs 피판 1.2% (p<0.05)
+- [[implants/soft-tissue/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — 동물(성견, 6마리): 무피판 임플란트 수술 후 임플란트 주위 점막 혈관 분포율 1.7% vs 피판 1.2% (p<0.05)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
 - [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
@@ -40,7 +40,7 @@ tags: []
 - [[implants/yu-2021-extra-short-vs-longer-implants-ma]] — Meta-analysis (21 RCTs, 2576 implants): extra-short implants (≤6mm) equivalent survival at 1–3yr; 5yr gap disappears with bone augmentation; 68% fewer biological complications
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — Systematic review (38 studies): BL vs TL implant MBL 비교; platform-switching·Morse taper·SLActive가 MBL 감소 핵심; 1년 내 MBL이 전체의 대부분 차지
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — 코호트(4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 고혈압·심질환·스테로이드 무관; 하악 전치부 최저 실패율(2.89%)
-- [[implants/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR+MA: FGG/CTG increases keratinized tissue 3-4mm; KT <2mm → higher plaque, bleeding, MBL; ≥2mm threshold for peri-implant health
+- [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR+MA: FGG/CTG increases keratinized tissue 3-4mm; KT <2mm → higher plaque, bleeding, MBL; ≥2mm threshold for peri-implant health
 - [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA(22편: 15 RCT+7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭 변연골 소실 유의하게 감소
 - [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA(15편, 1439 임플란트): PS MBL 유의하게 낮음; 임플란트 실패율 차이 없음; 플랫폼 스위칭 효과 확인
 - [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA(9편, PS 475 vs 일반 462): PS 골소실 MD 0.255 mm 유의하게 적음; 탐침깊이 NS
@@ -56,7 +56,7 @@ tags: []
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — SR+MA(11개 연구): 임플란트 주위 점막염 43%·임플란트 주위염 22%; 기능 기간·케이스 정의가 유병률 결정
 - [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 2017 세계 워크숍 컨센서스: 임플란트 주위 건강·점막염·임플란트 주위염 표준 케이스 정의 확립(AAP/EFP)
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3 임플란트 주위 질환 예방·치료 지침(13개 SR): 계획→식립→유지의 전주기 표준 프로토콜
-- [[implants/kim-2009-blood-vessels-peri-implant-mucosa]] — 동물실험(성견 6마리, 대구외지 2009): 무피판 (Flapless) 임플란트 주위 점막 혈관 수 51.4 vs 피판 38.2개(p<0.05); 무피판이 연조직 혈관분포 유의하게 우수
+- [[implants/soft-tissue/kim-2009-blood-vessels-peri-implant-mucosa]] — 동물실험(성견 6마리, 대구외지 2009): 무피판 (Flapless) 임플란트 주위 점막 혈관 수 51.4 vs 피판 38.2개(p<0.05); 무피판이 연조직 혈관분포 유의하게 우수
 - [[implants/lee-2018-unilateral-mastication-bone-density-alveolus]] — 단면연구(CBCT, n=25, Chonnam 2018): 편측 저작측 치조골 골밀도가 반대측보다 견치·소구치·대구치 유의하게 높음(p<0.05); 하악 대구치 차이 최대(103 HU)
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — SR+MA(102편, 13,030명): 점막염 46%·임플란트 주위염 21%; 치주염·흡연·당뇨·비만이 주요 위험지표
 - [[implants/premnath-2012-stress-distribution-bone-density-fea]] — 3D FEA(8모델): 원통형 > 나사형 응력분산; 최대 응력은 D1–D4 모두 치조정부; 저밀도 골에 원통형 설계 유리
@@ -80,8 +80,8 @@ tags: []
 - [[implants/naseri-2020-smoking-levels-implant-failure-sr-ma]] — JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
 - [[implants/shenoy-2025-dental-implant-failure-retrieval-techniques-scoping]] — Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
 - [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
-- [[implants/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
-- [[implants/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
+- [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
+- [[implants/soft-tissue/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 - [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — Pirc 2026, rct, 15–17y RCT follow-up (n=60, 151 implants): one-piece Straumann SLA vs two-piece Brånemark — survival 95%, MBL 0.08 mm vs 1.53 mm favoring one-piece, but technical complications 35.4% vs 5.8% favoring two-piece
@@ -1013,93 +1013,93 @@ tags: []
 - [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — Moura 2020 in vitro 3-way factorial: only HF concentration significant (10% > 5%) for Vita Mark II bond strength after 90 days; etching time and phosphoric acid + NaHCO₃ neutralization both non-significant
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
-- [[drug/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Moreno Rabie 2023 (Dentomaxillofac Radiol) · 후향적 case–control(암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT로 MRONJ 위험예측 — MRONJ 환자 32%; 항흡수제군 치조백선 비후·치주인대강 확장·골경화·골용해·격리골↑; 위험인자=다수치 동시발치(p=0.006)·흡연(p=0.004)·짧은 휴약(p=0.021); BP→골경화 우세(74% vs 45%); 골막반응·격리골=pre-clinical MRONJ 표지자
-- [[drug/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
-- [[drug/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — Maftei 2021 (Antioxidants) · case-control(n=86, 건강 45 + T2DM 41): 타액 8종 마커(OPG/RANKL/HGF/TNF-α/IL-18/MMP-9/TOS/TAC) 발치 전·3개월 후 측정 — baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG가 HbA1c>6.5% 예측(RANKL AUC 0.999), 발치 후 TOS r=+0.777·TAC r=−0.475; 타액=비침습 혈당/치유 지표
-- [[drug/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
-- [[drug/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
-- [[drug/gupta-2022-dental-management-cardiovascular-disease]] — 서술적 고찰: 고혈압·IHD·MI(30일 금기)·부정맥·IE·심부전·뇌졸중·박동기 치과 관리 + 약물 상호작용 표
-- [[drug/ghimire-2022-medically-compromised-prosthodontic-patients]] — 서술적 고찰: 관절염·CVD·당뇨·비스포스포네이트·방사선골괴사·CKD·간경화 등 보철과 특화 수정 지침
-- [[drug/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR(25편): VKA·DOAC·항혈소판제 복용 환자 치과 처치 시 중단 불필요; 트라넥사민산 양치액 1차 지혈제
-- [[drug/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR (7 studies): continuous vs discontinuous anticoagulant and vs bridging — no significant bleeding difference; HAS-BLED/CHA₂DS₂-VASc risk scores guide decisions
-- [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — 서술적 고찰: NSAIDs WHO 1차 진통제; 전 치과분야 적용; COX 외 NF-kB·iNOS 기전; 국소 NSAIDs 금기·대체약 정리
-- [[drug/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
-- [[drug/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
-- [[drug/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
-- [[drug/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — 서술적 고찰(Ann Lab Med 2013): HbA1c 5측정법(IEC·CE·AC·면역·효소) 강약·표준화(NGSP/IFCC)·Hb 변이체 간섭·POC 한계 종합; chairside HbA1c 검사 적용 근거
-- [[drug/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — 서술적 고찰(Exp Ther Med 2022): HbA1c 3축 간섭 프레임(측정법×생화학×혈액학); 빈혈·CKD·HbS/C/D/E·임신·약물(아스피린·비타민C·dapsone)별 위양성/위음성 방향 카탈로그 + 대안 마커(fructosamine·glycated albumin·1,5-AG·CGM-TIR)
-- [[drug/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 과학성명: 2007 IE 예방 가이드라인 유지; 4개 최고위험 심장 상태에만 Amoxicillin 2g; 나머지 금기 해제
-- [[drug/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 서술적 고찰(2024): 항생제 내성으로 예방 적응증 대폭 축소; 인공관절 루틴 불필요; IE고위험·면역저하·IV BP·방사선 조사만 해당
-- [[drug/lee-2023-bisphosphonates-dental-procedures-bronj]] — 서술적 고찰: BP 종류별 BRONJ 위험(IV>경구); AAOMS 0–3 병기; 국소 BP = 골유착 촉진; 투약 전 치과 처치 예방의 핵심
-- [[drug/baghalipour-2025-mronj-prevention-management-review]] — 포괄적 고찰(2025): MRONJ 4단계 예방체계; 1차(투약 전 치과처치)>2차(술중)>3차(확립 MRONJ)>4차(과잉의료화 방지)
-- [[drug/satpathi-2024-corticosteroids-dentistry-review]] — 서술적 고찰: 덱사메타손(발치 부종)·트리암시놀론(아프타·OLP)·프레드니솔론(전신) 정리; 부신부전 스트레스 프로토콜
-- [[drug/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — SR(9편, 2025): 임신 중 치과마취 — 에피네프린 1:100,000–200,000만 허용; 펠리프레신 절대금기(옥시토신 작용)
-- [[drug/pak-2011-root-canal-pain-prevalence-severity]] — SR+MA(72편): 근관치료 전 통증 유병률 81% → 24h 40% → 1주 11%; 통증 강도 54→24→5점; 보조마취 필요율 60%
-- [[drug/smith-2017-nsaids-postoperative-endodontic-pain]] — SR+MA(15편): ibuprofen 600mg 6h 시점 위약 대비 유효(ES=10.50); ibuprofen+APAP 병용 추가 이득 없음
-- [[drug/di-spirito-2022-endodontic-pain-management-overview]] — Overview of SRs: NSAIDs 1차·코르티코스테로이드 보조 유효; 술전 예방투여 우월; 기술적 요소(근관장 초과·세정·교합감소)도 영향
-- [[drug/samani-2025-nsaids-endodontic-postoperative-network]] — Network MA(16 RCT, n=2021): NSAIDs·코르티코스테로이드 8~72h 전 시점 유효; 효과 시간 경과에 따라 감소; I²=100% 주의
-- [[drug/miroshnychenko-2023-dental-extraction-pain-network-meta]] — Network MA(82 RCT, n=9,095): 발치 후 통증 — ibuprofen+APAP 최고 효과(중-고 확실성); 오피오이드 5mg·코데인·트라마돌 위약 수준 — 2022 ADA CPG 근거
-- [[drug/feldman-2024-nonopioid-opioid-third-molar-rct]] — RCT(n=1,815, 다기관): 이부프로펜+APAP이 히드로코돈+APAP보다 1–2일 통증 유의 낮고 전체 기간 비열등; 오피오이드 어떤 시점도 우위 없음
-- [[drug/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT(n=56): 이부프로펜+파라세타몰 교대투여(4h) vs 동시투여(8h) — 교대투여군 구제약 필요 15% vs 53%(p=0.002)
-- [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — 서술적 고찰: NSAIDs 치주 치유 상충 결과; COX-2 억제제는 임플란트 골유착 저해 가능; 인체 근거 부족 (Compend 2019)
-- [[drug/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — 후향적 ICU(n=1,157): NSAIDs → AKI OR 1.98; 중증 AKI → 2년 생존율 악화(aHR 1.42); 신기능 취약 환자 NSAID 주의
-- [[drug/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — 서술적 고찰: RA·AS 환자에서 NSAIDs CV 위험 증가 없음; 전신염증 억제로 심보호 효과 가능 (Semin Arthritis Rheum 2025)
-- [[drug/jung-2022-denosumab-mronj-osteoporosis-5year]] — 후향적코호트(n=98, 골다공증+발치): MRONJ 4.1%; denosumab 단독 vs BP+Dmab 유의차 없음; 류마티스관절염 유일한 유의 위험인자(OR 35.4); 발치 없이도 치주염에서 MRONJ 발생
-- [[drug/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 컨센서스: MRONJ 정의·병기 2014 동일; romosozumab 추가; drug holiday 권고 없이 논쟁 중; CTX 더 이상 권장 안 함; denosumab 중단 timing 가이드
-- [[drug/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 후향적코호트(n=324, 유방암 골전이): MRONJ 31.2%; ROC 누적 32회 임계치(AUC 0.83); 발치력 OR 4.40; 매 추가 투여당 MRONJ 오즈 4.7% 증가
-- [[drug/li-2024-antiresorptive-implants-mronj-sr]] — SR(8편, 445 임플란트): 항흡수제 시작 후 임플란트 실패율 23%; 실패의 83%가 MRONJ; 평균 잠복기 34개월; 하악 구치부 65%
-- [[drug/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — 약동학 교차시험 (건강 지원자): 이부프로펜을 아스피린 앞에 복용 시 혈소판 COX-1 아세틸화 차단; 아스피린 先복용·로페콕시브·디클로페낙·아세트아미노펜은 무간섭 (NEJM 2001)
-- [[drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 인비트로: 메타미졸(디피론) 활성대사체 MAA가 COX-1 Ser-530 수소결합 → 아스피린 아세틸화 차단; 피라졸리논 계열 전체 동일 기전 (J Thromb Haemost 2008)
-- [[drug/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — RCT (OA+IHD 환자, n=24): 이부프로펜 600mg TID → 아스피린 혈소판 COX-1 억제 유의 차단(TXB2 19ng/mL); 셀레콕시브 200mg BID → 간섭 없음 (Clin Pharmacol Ther 2006)
-- [[drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — 인비트로 9종 NSAIDs: 이부프로펜(-48.1%)·메페남산(-22.7%)만 아스피린 앞 복용 시 항혈소판 효과 감소; 나프록센·플루르비프로펜은 자체 항혈소판 효과 (J Clin Pharm Ther 2013)
-- [[drug/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 코크란 SR (CD003811.pub3): 발치 후 항생제 → 감염 합병증·건성와·통증·부종·개구장애 감소; 건강 환자 루틴 사용은 부작용·내성 고려 (Cochrane 2021)
-- [[drug/shiboski-2016-acr-eular-sjogren-classification-criteria]] — 원발성 쇼그렌증후군(pSS) 2016 ACR-EULAR 분류기준 — 항-SSA/Ro 항체 가중치 최고, 민감도 96%.
-- [[drug/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — 2016 ACR/EULAR pSS 기준 변경 해설 — 침샘 생검 유지, 안구건조 증상 단독 항목 삭제, 바이오마커 중심 전환.
-- [[drug/legoff-2017-sjogren-classification-criteria-comparison]] — pSS 의심 환자 AECG vs ACR/EULAR 기준 비교(κ=0.73) + 침샘 초음파(SGUS) 항체 음성 환자 진단 부가가치.
-- [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — AML allo-HSCT 환자 구강 합병증 분석 — 구강 GVHD 30–50%, 점막염 중증도와 이식 후 생존 상관.
-- [[drug/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 다기관 RCT crossover (NCT02696369, n=65/51, KDA Journal 56(1) 2017): 매복 하악 제3대구치 발치 2% 리도카인 + 1:80,000 vs 1:200,000 에피네프린 — 진통 효과 동등, ΔSBP·ΔHR은 1:200,000군에서 유의하게 작음 (p ≤ 0.01); 심혈관 위험군 1:200,000 권장
-- [[drug/kim-2000-dental-patients-systemic-disease-general-hospital]] — 후향적 차트 리뷰 (분당제생병원 OMFS 1999, n=3,506): 12.2%가 전신질환 보유, 1순위 고혈압 > 당뇨 > 심장 > 간; 치과 진단은 치주염 최다(n=130); 내과 협진 114건; 중대 합병증 4건 (간질환 노인 GA 발치 후 독성간염 사망 1, warfarin 환자 SRP 후 지속 출혈 1, 술후 감염 2); warfarin 권고는 outdated, 술전 병력청취·응고검사 원칙은 현재도 유효
-- [[drug/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 스웨덴 Karolinska (BMC Oral Health 2023): 제한적 (restrictive) 치과 항생제 가이드라인 adherence + safety 평가 — 제한적 처방 안전성 확인, adherence 변동성 존재, 타겟 intervention 필요성.
-- [[drug/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — 부산대 신경과 narrative review (Brain NeuroRehabil 2014): 허혈성 뇌졸중 이차예방 — 비심인성 → 항혈소판제 (aspirin/clopidogrel/aspirin+dipyridamole), 심인성 → 항응고제 (warfarin/DOAC) 원칙. 치과에서 만나는 뇌졸중 후 환자의 약물 indication 한국어 기본 reference.
-- [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Anesth Prog 2015 메타분석 (4 RCT 정량분석, n=298): 제3대구치 외과 발치 시 preemptive 경구 NSAID — 술후 통증 감소 **유의하지 않음** (P=0.2227, NS); pre-emptive 처방 routine 정당화 근거 부족 (단, 후속 SR이 부분적 benefit을 제안하므로 wiki-living-document로 갱신 필요).
-- [[drug/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Univ Genoa SR (Dent J 2025): 제3대구치 발치 항생제 예방 — 단순 발치에 효과 미미, 매복·외과적 발치에 한정 적응. Camps-Font 2024 NMA의 NNT=25 결론과 일치.
-- [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — JCP 2025 SR+MA (Gousias, 18 RCT 포함, 1,995 titles screened): 치주 + 임플란트 수술 (OFD, gingival augmentation, implant site development, implant placement) — preemptive 진통제 vs 위약 다중 timepoint 평가; preemptive analgesia가 통증 유의 감소 — Costa 2015 (제3대구치 부정적)의 specialty-specific 양성 update.
-- [[drug/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — Within-person 단일맹검 RCT (J Evid Based Dent Pract 2023): DAPT 환자 발치 시 chitosan-기반 국소 지혈제가 cellulose oxidized gauze보다 출혈시간 단축 + 치유 개선 — DAPT 지속 발치의 지혈 옵션으로 chitosan 우위.
-- [[drug/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 일본 4기관 후향 비교 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방 amoxicillin (AMPC) — 술전 단일 500mg vs 3일 코스 — MRONJ 발생률 **동등** → AMR 회피 목적 단일 술전 dose로 충분.
-- [[drug/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — 인도 Amrita Vishwa Vidyapeetham 비교연구 (Ann Maxillofac Surg 2024): 단일/이중 항혈소판제 지속하 단순 발치 — DAPT가 출혈 시간 다소 길지만 모두 국소 지혈로 통제; DAPT 발치 전 중단 불필요라는 umbrella review 권고와 일치.
-- [[drug/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — 한국 12개 종합병원 다학제 합의 임상진료지침 (KJG 2020): 내시경 시술 전후 warfarin/DOAC/aspirin/clopidogrel/DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 중단/지속 결정. 치과에 직접 적용은 불가하지만 동일 약물 클래스 한국어 reference.
-- [[drug/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — Blood 기초·중개 연구 (Columbia/LMU/MGH/Broad): JAK2V617F clonal hematopoiesis of indeterminate potential (CHIP) — 골수 클론 변이가 platelet 활성화와 cross-talk을 통해 동맥혈전증 위험을 증가시키는 기전 규명. 치과 직접 적용보다 노인 환자 CHIP-driven 혈전 배경 지식으로 보유.
-- [[drug/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — 대규모 단일기관 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331/1,816 extractions, 2018): warfarin 지속군 (INR<4.0) 발치 후 출혈률 9.1%; warfarin 중단+heparin bridging, 단일/이중 항혈소판 (DAPT) 지속 모두 국소 지혈로 통제 가능 — 발치 위해 항혈전제 중단 불필요라는 현대적 입장의 대만 임상 근거.
-- [[drug/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA (Univ Sevilla, Antibiotics 2024): 근첨치주염 (AP) 치료에서 치과의사 항생제 과잉처방 실태 정량화 — 근관치료가 1차 indication임에도 비적응 케이스에 항생제 처방 광범위; ESE/AAE 가이드라인과 임상 행태 괴리.
-- [[drug/moore-2015-otc-oral-analgesics-cochrane-overview]] — Cochrane OTC analgesic overview (Moore 2015): 처방전 없는 진통제 단일-dose — Ibuprofen 400 NNT ~2.5 (OTC 한도 최고); APAP 1g ~3.5-4; aspirin 1g ~4; ibuprofen 200 ~3. CD008659 회사 overview의 OTC 한정 companion.
-- [[drug/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Oxford Cochrane overview of Cochrane SRs (Moore 2015): 급성 술후 통증 단일-dose 경구 진통제 — Ibuprofen 200/400 + APAP 500/1000 병용 NNT ~1.5 (최저); Ibuprofen 400 단독 ~2.5; APAP+codeine ~2.2; codeine 60 단독 NNT 12+ (사실상 효과 없음); tramadol 75 NNT ~9 — NSAID + APAP 병용이 표준 1차.
-- [[drug/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — Inflammopharmacology 2009 종합 review (68pp, Rainsford, 571+ 인용): ibuprofen 약리·임상효과·안전성 — OTC 용량 (800-1,200mg/day)에서 paracetamol 비견 가능한 안전; 처방 용량 (1,800-2,400mg/day) 만성 류마틱 indication; COX-1/COX-2 매개 prostanoid 감소 기전.
-- [[drug/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 다전공 review (Bucharest 감염내과+치과·Lund; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation 통합 가이드. Stewardship 구현 단계별 권고.
-- [[drug/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — 이탈리아 Padova/Naples 치과의사 설문 (Antibiotics 2024): 치과 항생제 처방 행태 — 과잉처방, 가이드라인 이탈, AMR 인식↔행동 괴리 — 스튜어드십 intervention 근거 자료.
-- [[drug/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP CHEST 가이드라인 지지 SR+MA (Shah/Murad 2022): 장기 항혈소판제 (APT) 환자 비심장 수술 — 단기/장기 중단 간 주요 출혈 차이 NS (low COE); aspirin 지속 시 위약 대비 주요 출혈 RR 1.31 (high COE) + 혈전색전증 RR 0.74 — trade-off 정량화.
-- [[drug/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — JAMA Cardiology 2024 SR+MA (n=1,152,345 IE 사례): 침습적 치과시술 후 항생제 예방 — **고위험군에서만** IE 위험 유의 감소; 중간/저위험/불명 위험군에서는 효과 없음 → 2007/2017 AHA·NICE의 고위험군 한정 권고 입장 empirical 지지.
-- [[drug/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — Loper 2025, sr, 선천성 심장질환(CHD) 소아 대상 예방적 항생제(AP)와 감염성 심내막염(IE) 예방 체계적 문헌고찰 — IE 근거 매우 낮음(OR 3.63, ns), 균혈증 감소 유의(OR 0.24, p<0.05), GRADE ⊕◯◯◯
-- [[drug/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb): 치과 항생제 처방 추세 — 전체 처방량·광범위 항생제 비율 변동, AMR 정책 baseline 제공; 단일국가 데이터지만 EU 비교가능 framework.
-- [[drug/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — 국제 Delphi 합의 (Manchester/FDI/Melbourne/Lorraine): 치과 항생제 스튜어드십 핵심 outcome set 합의 (≥30 dentist+academic+patient contributors, >70% critical) — 향후 stewardship intervention 평가의 표준 outcome 정의.
-- [[drug/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — SR+MA (Wolverhampton, Medicina 2023): 임플란트 식립 (DIP) 항생제 예방 — 술전 단일 amoxicillin 2g 권고; 술후 연장은 incremental benefit 없음. PRISMA-P/PROSPERO 등록.
-- [[drug/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF 2022 권고 (JAMA): 저용량 aspirin 1차예방 — 40-59세 ≥10% 10년 CVD 위험 성인은 C등급 개별 결정; ≥60세 신규 시작 권고 안 함 (D등급) — 2016년 권고에서 후퇴, 출혈 위험 (GI·뇌출혈) > 이득.
-- [[drug/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
-- [[drug/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
-- [[drug/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
-- [[drug/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 다기관 RCT (BMC Oral Health 2019, n=100, 8주): SRP 보조 CELC (vitamin C/E + lysozyme + carbazochrome, IGATAN F) 위약 대비 GI 4주 -0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI NS — 임상적 효능 한계 명확
-- [[drug/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 비글견 RCT (BMC Vet Res 2024, n=10, 8주): Magnoliae cortex 40mg + Zea mays L. 20mg 경구 → GI·PPD·CAL·BoP 위약 대비 유의 개선, tissue TNF-α 감소 — Insadol 계열 in vivo 항염 확인
-- [[drug/kim-2018-magnoliae-cortex-zea-mays-modulate]] — SNU 치주과 in vitro (JPIS 2018, RAW 264.7 + P. gingivalis): Magnoliae Cortex 60 µg + 옥수수 불검화 추출물 300 µg 병용 → NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 synergy
-- [[drug/pyo-2026-drug-interactions-prescription-safety-elderly]] — Narrative review (KDA 2026 64(4) Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7%; clindamycin ADR 15.7×↑(vs amoxicillin); β-blocker/TCA 환자 epinephrine ≤2 cartridges; GFR/LFT 기반 용량조절 표
-- [[drug/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 후향(2010–2017, 평균 23,624 치과의사) + Yellow Card MHRA ADR: amoxicillin 압도적 최저(전체 21.5·치명적 0.1/백만), clindamycin 치명적 최고(2.9/백만, 대부분 C. difficile); macrolide QT/torsades 사망; "amoxicillin 알레르기 → clindamycin" 반사 위험.
-- [[drug/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 후향 단일기관(루마니아, n=105, 2024.11–12): DrugBank Checker로 1,332 약물쌍 분석 — 주요 DDI 2.3%·중등도 25.0%·경미 13.4%; 주요는 31–60세(61.3%)·CVD(epinephrine + β-blocker) 집중; 0–30세 0건.
-- [[drug/jkda-2021-60-1-004]] — Review (단국대 통합치의학 최정임, JKDA 2022): BMA(bisphosphonate·denosumab) 복용 환자에서 dental implant가 MRONJ trigger·risk factor 평가 — drug holiday·식립 후 maintenance framework
-- [[drug/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — Special article (JKDA 2023, SNU 치과마취과 Karm MH): 2022년 한국 진정 가이드라인 해설 — moderate sedation 중심, 15 PICO 권고 (제공자 교육·약물·금식·monitoring·소아 호흡·퇴원), 비마취과 제공자 대상 표준.
-- [[drug/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Position paper (JKDA 2023, 한양대 OMS Hwang KG): 치과 국소마취 한국 임상진료지침 부재 지적, 가이드라인 제정 필요성·검토 영역 명문화 (페어 — Karm 2023 sedation guideline 해설과 동일 호).
-- [[drug/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 근거기반 가이드라인(GRADE): 면역정상 성인 SIP±SAP 항생제 금지(강한 권고), 치수괴사+치근단농양 비권장(조건부) — 1차는 DCDT(치수절단·근관치료·절개배농); 항생제는 즉시 치료 불가(amoxicillin 500mg TID 지연처방)·전신 침범 시만. 치수염=비감염 원리.
-- [[drug/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (2,994편→8편): 급성 치성감염 경험적 항생제 요법 거의 모두 임상 성공, 1개 연구는 무항생제=광범위 동일 결과 → 광범위 1차 처방 불필요·좁은 스펙트럼 동등; 성공의 1차 요인은 배농·감염원 제거(치과 치료).
-- [[drug/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — Vavro 2024 (10년 후향, n=744, Clin Oral Investig): 구강안면감염 경험적 항생제 — amox-clav 내성 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 1차 amox-clav 권고, 단 외과적 배농이 우선 (2024)
-- [[drug/chunduri-2012-bacterial-spectrum-orofacial-infections]] — Chunduri 2012 (감수성 연구, n=68, 인도): 구강안면감염 amox-clav 감수성 95–100%(혐기성 100%)·clindamycin 양호, erythromycin 효용 의문 (2012)
-- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
+- [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Moreno Rabie 2023 (Dentomaxillofac Radiol) · 후향적 case–control(암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT로 MRONJ 위험예측 — MRONJ 환자 32%; 항흡수제군 치조백선 비후·치주인대강 확장·골경화·골용해·격리골↑; 위험인자=다수치 동시발치(p=0.006)·흡연(p=0.004)·짧은 휴약(p=0.021); BP→골경화 우세(74% vs 45%); 골막반응·격리골=pre-clinical MRONJ 표지자
+- [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
+- [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — Maftei 2021 (Antioxidants) · case-control(n=86, 건강 45 + T2DM 41): 타액 8종 마커(OPG/RANKL/HGF/TNF-α/IL-18/MMP-9/TOS/TAC) 발치 전·3개월 후 측정 — baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG가 HbA1c>6.5% 예측(RANKL AUC 0.999), 발치 후 TOS r=+0.777·TAC r=−0.475; 타액=비침습 혈당/치유 지표
+- [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
+- [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
+- [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — 서술적 고찰: 고혈압·IHD·MI(30일 금기)·부정맥·IE·심부전·뇌졸중·박동기 치과 관리 + 약물 상호작용 표
+- [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — 서술적 고찰: 관절염·CVD·당뇨·비스포스포네이트·방사선골괴사·CKD·간경화 등 보철과 특화 수정 지침
+- [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR(25편): VKA·DOAC·항혈소판제 복용 환자 치과 처치 시 중단 불필요; 트라넥사민산 양치액 1차 지혈제
+- [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR (7 studies): continuous vs discontinuous anticoagulant and vs bridging — no significant bleeding difference; HAS-BLED/CHA₂DS₂-VASc risk scores guide decisions
+- [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — 서술적 고찰: NSAIDs WHO 1차 진통제; 전 치과분야 적용; COX 외 NF-kB·iNOS 기전; 국소 NSAIDs 금기·대체약 정리
+- [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
+- [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
+- [[drug/systemic-disease/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
+- [[drug/systemic-disease/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — 서술적 고찰(Ann Lab Med 2013): HbA1c 5측정법(IEC·CE·AC·면역·효소) 강약·표준화(NGSP/IFCC)·Hb 변이체 간섭·POC 한계 종합; chairside HbA1c 검사 적용 근거
+- [[drug/systemic-disease/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — 서술적 고찰(Exp Ther Med 2022): HbA1c 3축 간섭 프레임(측정법×생화학×혈액학); 빈혈·CKD·HbS/C/D/E·임신·약물(아스피린·비타민C·dapsone)별 위양성/위음성 방향 카탈로그 + 대안 마커(fructosamine·glycated albumin·1,5-AG·CGM-TIR)
+- [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA 2021 과학성명: 2007 IE 예방 가이드라인 유지; 4개 최고위험 심장 상태에만 Amoxicillin 2g; 나머지 금기 해제
+- [[drug/mronj/vidovic-juras-2024-antibiotic-prophylaxis-dental-procedures]] — 서술적 고찰(2024): 항생제 내성으로 예방 적응증 대폭 축소; 인공관절 루틴 불필요; IE고위험·면역저하·IV BP·방사선 조사만 해당
+- [[drug/mronj/lee-2023-bisphosphonates-dental-procedures-bronj]] — 서술적 고찰: BP 종류별 BRONJ 위험(IV>경구); AAOMS 0–3 병기; 국소 BP = 골유착 촉진; 투약 전 치과 처치 예방의 핵심
+- [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — 포괄적 고찰(2025): MRONJ 4단계 예방체계; 1차(투약 전 치과처치)>2차(술중)>3차(확립 MRONJ)>4차(과잉의료화 방지)
+- [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — 서술적 고찰: 덱사메타손(발치 부종)·트리암시놀론(아프타·OLP)·프레드니솔론(전신) 정리; 부신부전 스트레스 프로토콜
+- [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — SR(9편, 2025): 임신 중 치과마취 — 에피네프린 1:100,000–200,000만 허용; 펠리프레신 절대금기(옥시토신 작용)
+- [[drug/analgesics/pak-2011-root-canal-pain-prevalence-severity]] — SR+MA(72편): 근관치료 전 통증 유병률 81% → 24h 40% → 1주 11%; 통증 강도 54→24→5점; 보조마취 필요율 60%
+- [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — SR+MA(15편): ibuprofen 600mg 6h 시점 위약 대비 유효(ES=10.50); ibuprofen+APAP 병용 추가 이득 없음
+- [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — Overview of SRs: NSAIDs 1차·코르티코스테로이드 보조 유효; 술전 예방투여 우월; 기술적 요소(근관장 초과·세정·교합감소)도 영향
+- [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — Network MA(16 RCT, n=2021): NSAIDs·코르티코스테로이드 8~72h 전 시점 유효; 효과 시간 경과에 따라 감소; I²=100% 주의
+- [[drug/analgesics/miroshnychenko-2023-dental-extraction-pain-network-meta]] — Network MA(82 RCT, n=9,095): 발치 후 통증 — ibuprofen+APAP 최고 효과(중-고 확실성); 오피오이드 5mg·코데인·트라마돌 위약 수준 — 2022 ADA CPG 근거
+- [[drug/analgesics/feldman-2024-nonopioid-opioid-third-molar-rct]] — RCT(n=1,815, 다기관): 이부프로펜+APAP이 히드로코돈+APAP보다 1–2일 통증 유의 낮고 전체 기간 비열등; 오피오이드 어떤 시점도 우위 없음
+- [[drug/analgesics/gaballah-2025-ibuprofen-paracetamol-concurrent-alternate-rct]] — RCT(n=56): 이부프로펜+파라세타몰 교대투여(4h) vs 동시투여(8h) — 교대투여군 구제약 필요 15% vs 53%(p=0.002)
+- [[drug/analgesics/etikala-2019-nsaids-periodontal-implant-therapy-review]] — 서술적 고찰: NSAIDs 치주 치유 상충 결과; COX-2 억제제는 임플란트 골유착 저해 가능; 인체 근거 부족 (Compend 2019)
+- [[drug/analgesics/gomes-2025-nsaids-kidney-toxicity-icu-retrospective]] — 후향적 ICU(n=1,157): NSAIDs → AKI OR 1.98; 중증 AKI → 2년 생존율 악화(aHR 1.42); 신기능 취약 환자 NSAID 주의
+- [[drug/analgesics/zingel-2025-nsaids-cardiovascular-risk-inflammatory-arthritis]] — 서술적 고찰: RA·AS 환자에서 NSAIDs CV 위험 증가 없음; 전신염증 억제로 심보호 효과 가능 (Semin Arthritis Rheum 2025)
+- [[drug/mronj/jung-2022-denosumab-mronj-osteoporosis-5year]] — 후향적코호트(n=98, 골다공증+발치): MRONJ 4.1%; denosumab 단독 vs BP+Dmab 유의차 없음; 류마티스관절염 유일한 유의 위험인자(OR 35.4); 발치 없이도 치주염에서 MRONJ 발생
+- [[drug/mronj/ruggiero-2022-aaoms-mronj-position-paper-update]] — AAOMS 2022 컨센서스: MRONJ 정의·병기 2014 동일; romosozumab 추가; drug holiday 권고 없이 논쟁 중; CTX 더 이상 권장 안 함; denosumab 중단 timing 가이드
+- [[drug/mronj/yokoo-2025-denosumab-mronj-breast-cancer-bone]] — 후향적코호트(n=324, 유방암 골전이): MRONJ 31.2%; ROC 누적 32회 임계치(AUC 0.83); 발치력 OR 4.40; 매 추가 투여당 MRONJ 오즈 4.7% 증가
+- [[drug/mronj/li-2024-antiresorptive-implants-mronj-sr]] — SR(8편, 445 임플란트): 항흡수제 시작 후 임플란트 실패율 23%; 실패의 83%가 MRONJ; 평균 잠복기 34개월; 하악 구치부 65%
+- [[drug/anticoagulants/catella-lawson-2001-cyclooxygenase-inhibitors-aspirin-nejm]] — 약동학 교차시험 (건강 지원자): 이부프로펜을 아스피린 앞에 복용 시 혈소판 COX-1 아세틸화 차단; 아스피린 先복용·로페콕시브·디클로페낙·아세트아미노펜은 무간섭 (NEJM 2001)
+- [[drug/anticoagulants/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology]] — 인비트로: 메타미졸(디피론) 활성대사체 MAA가 COX-1 Ser-530 수소결합 → 아스피린 아세틸화 차단; 피라졸리논 계열 전체 동일 기전 (J Thromb Haemost 2008)
+- [[drug/anticoagulants/renda-2006-celecoxib-ibuprofen-aspirin-antiplatelet]] — RCT (OA+IHD 환자, n=24): 이부프로펜 600mg TID → 아스피린 혈소판 COX-1 억제 유의 차단(TXB2 19ng/mL); 셀레콕시브 200mg BID → 간섭 없음 (Clin Pharmacol Ther 2006)
+- [[drug/anticoagulants/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction]] — 인비트로 9종 NSAIDs: 이부프로펜(-48.1%)·메페남산(-22.7%)만 아스피린 앞 복용 시 항혈소판 효과 감소; 나프록센·플루르비프로펜은 자체 항혈소판 효과 (J Clin Pharm Ther 2013)
+- [[drug/antibiotics/lodi-2021-antibiotics-tooth-extraction-cochrane-sr]] — 코크란 SR (CD003811.pub3): 발치 후 항생제 → 감염 합병증·건성와·통증·부종·개구장애 감소; 건강 환자 루틴 사용은 부작용·내성 고려 (Cochrane 2021)
+- [[drug/systemic-disease/shiboski-2016-acr-eular-sjogren-classification-criteria]] — 원발성 쇼그렌증후군(pSS) 2016 ACR-EULAR 분류기준 — 항-SSA/Ro 항체 가중치 최고, 민감도 96%.
+- [[drug/systemic-disease/franceschini-2017-sjogren-2016-acr-eular-criteria-commentary]] — 2016 ACR/EULAR pSS 기준 변경 해설 — 침샘 생검 유지, 안구건조 증상 단독 항목 삭제, 바이오마커 중심 전환.
+- [[drug/systemic-disease/legoff-2017-sjogren-classification-criteria-comparison]] — pSS 의심 환자 AECG vs ACR/EULAR 기준 비교(κ=0.73) + 침샘 초음파(SGUS) 항체 음성 환자 진단 부가가치.
+- [[drug/systemic-disease/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — AML allo-HSCT 환자 구강 합병증 분석 — 구강 GVHD 30–50%, 점막염 중증도와 이식 후 생존 상관.
+- [[drug/analgesics/karm-2017-lidocaine-epinephrine-200000-third-molar]] — 다기관 RCT crossover (NCT02696369, n=65/51, KDA Journal 56(1) 2017): 매복 하악 제3대구치 발치 2% 리도카인 + 1:80,000 vs 1:200,000 에피네프린 — 진통 효과 동등, ΔSBP·ΔHR은 1:200,000군에서 유의하게 작음 (p ≤ 0.01); 심혈관 위험군 1:200,000 권장
+- [[drug/anticoagulants/kim-2000-dental-patients-systemic-disease-general-hospital]] — 후향적 차트 리뷰 (분당제생병원 OMFS 1999, n=3,506): 12.2%가 전신질환 보유, 1순위 고혈압 > 당뇨 > 심장 > 간; 치과 진단은 치주염 최다(n=130); 내과 협진 114건; 중대 합병증 4건 (간질환 노인 GA 발치 후 독성간염 사망 1, warfarin 환자 SRP 후 지속 출혈 1, 술후 감염 2); warfarin 권고는 outdated, 술전 병력청취·응고검사 원칙은 현재도 유효
+- [[drug/antibiotics/bazsefidpay-2023-antibiotic-restrictive-use-adherence-recommendation]] — 스웨덴 Karolinska (BMC Oral Health 2023): 제한적 (restrictive) 치과 항생제 가이드라인 adherence + safety 평가 — 제한적 처방 안전성 확인, adherence 변동성 존재, 타겟 intervention 필요성.
+- [[drug/anticoagulants/cho-2014-antithrombotic-secondary-prevention-ischemic-stroke-korean]] — 부산대 신경과 narrative review (Brain NeuroRehabil 2014): 허혈성 뇌졸중 이차예방 — 비심인성 → 항혈소판제 (aspirin/clopidogrel/aspirin+dipyridamole), 심인성 → 항응고제 (warfarin/DOAC) 원칙. 치과에서 만나는 뇌졸중 후 환자의 약물 indication 한국어 기본 reference.
+- [[drug/analgesics/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Anesth Prog 2015 메타분석 (4 RCT 정량분석, n=298): 제3대구치 외과 발치 시 preemptive 경구 NSAID — 술후 통증 감소 **유의하지 않음** (P=0.2227, NS); pre-emptive 처방 routine 정당화 근거 부족 (단, 후속 SR이 부분적 benefit을 제안하므로 wiki-living-document로 갱신 필요).
+- [[drug/antibiotics/de-angelis-2025-antibiotic-third-molar-extraction-prevention-sr]] — Univ Genoa SR (Dent J 2025): 제3대구치 발치 항생제 예방 — 단순 발치에 효과 미미, 매복·외과적 발치에 한정 적응. Camps-Font 2024 NMA의 NNT=25 결론과 일치.
+- [[drug/analgesics/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — JCP 2025 SR+MA (Gousias, 18 RCT 포함, 1,995 titles screened): 치주 + 임플란트 수술 (OFD, gingival augmentation, implant site development, implant placement) — preemptive 진통제 vs 위약 다중 timepoint 평가; preemptive analgesia가 통증 유의 감소 — Costa 2015 (제3대구치 부정적)의 specialty-specific 양성 update.
+- [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — Within-person 단일맹검 RCT (J Evid Based Dent Pract 2023): DAPT 환자 발치 시 chitosan-기반 국소 지혈제가 cellulose oxidized gauze보다 출혈시간 단축 + 치유 개선 — DAPT 지속 발치의 지혈 옵션으로 chitosan 우위.
+- [[drug/mronj/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 일본 4기관 후향 비교 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방 amoxicillin (AMPC) — 술전 단일 500mg vs 3일 코스 — MRONJ 발생률 **동등** → AMR 회피 목적 단일 술전 dose로 충분.
+- [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — 인도 Amrita Vishwa Vidyapeetham 비교연구 (Ann Maxillofac Surg 2024): 단일/이중 항혈소판제 지속하 단순 발치 — DAPT가 출혈 시간 다소 길지만 모두 국소 지혈로 통제; DAPT 발치 전 중단 불필요라는 umbrella review 권고와 일치.
+- [[drug/anticoagulants/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — 한국 12개 종합병원 다학제 합의 임상진료지침 (KJG 2020): 내시경 시술 전후 warfarin/DOAC/aspirin/clopidogrel/DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 중단/지속 결정. 치과에 직접 적용은 불가하지만 동일 약물 클래스 한국어 reference.
+- [[drug/anticoagulants/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — Blood 기초·중개 연구 (Columbia/LMU/MGH/Broad): JAK2V617F clonal hematopoiesis of indeterminate potential (CHIP) — 골수 클론 변이가 platelet 활성화와 cross-talk을 통해 동맥혈전증 위험을 증가시키는 기전 규명. 치과 직접 적용보다 노인 환자 CHIP-driven 혈전 배경 지식으로 보유.
+- [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — 대규모 단일기관 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331/1,816 extractions, 2018): warfarin 지속군 (INR<4.0) 발치 후 출혈률 9.1%; warfarin 중단+heparin bridging, 단일/이중 항혈소판 (DAPT) 지속 모두 국소 지혈로 통제 가능 — 발치 위해 항혈전제 중단 불필요라는 현대적 입장의 대만 임상 근거.
+- [[drug/antibiotics/mendez-millan-2024-antibiotic-overprescription-apical-periodontitis-sr-ma]] — SR+MA (Univ Sevilla, Antibiotics 2024): 근첨치주염 (AP) 치료에서 치과의사 항생제 과잉처방 실태 정량화 — 근관치료가 1차 indication임에도 비적응 케이스에 항생제 처방 광범위; ESE/AAE 가이드라인과 임상 행태 괴리.
+- [[drug/analgesics/moore-2015-otc-oral-analgesics-cochrane-overview]] — Cochrane OTC analgesic overview (Moore 2015): 처방전 없는 진통제 단일-dose — Ibuprofen 400 NNT ~2.5 (OTC 한도 최고); APAP 1g ~3.5-4; aspirin 1g ~4; ibuprofen 200 ~3. CD008659 회사 overview의 OTC 한정 companion.
+- [[drug/analgesics/moore-2015-single-dose-oral-analgesics-cochrane-overview]] — Oxford Cochrane overview of Cochrane SRs (Moore 2015): 급성 술후 통증 단일-dose 경구 진통제 — Ibuprofen 200/400 + APAP 500/1000 병용 NNT ~1.5 (최저); Ibuprofen 400 단독 ~2.5; APAP+codeine ~2.2; codeine 60 단독 NNT 12+ (사실상 효과 없음); tramadol 75 NNT ~9 — NSAID + APAP 병용이 표준 1차.
+- [[drug/analgesics/rainsford-2009-ibuprofen-pharmacology-efficacy-safety-review]] — Inflammopharmacology 2009 종합 review (68pp, Rainsford, 571+ 인용): ibuprofen 약리·임상효과·안전성 — OTC 용량 (800-1,200mg/day)에서 paracetamol 비견 가능한 안전; 처방 용량 (1,800-2,400mg/day) 만성 류마틱 indication; COX-1/COX-2 매개 prostanoid 감소 기전.
+- [[drug/antibiotics/sandulescu-2024-antibiotic-prescribing-dental-best-practices-review]] — 다전공 review (Bucharest 감염내과+치과·Lund; Trop Med Infect Dis 2024): 치과 항생제 처방 best practices — indication·class·duration·implementation 통합 가이드. Stewardship 구현 단계별 권고.
+- [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — 이탈리아 Padova/Naples 치과의사 설문 (Antibiotics 2024): 치과 항생제 처방 행태 — 과잉처방, 가이드라인 이탈, AMR 인식↔행동 괴리 — 스튜어드십 intervention 근거 자료.
+- [[drug/anticoagulants/shah-2022-perioperative-antiplatelet-therapy-sr-ma]] — ACCP CHEST 가이드라인 지지 SR+MA (Shah/Murad 2022): 장기 항혈소판제 (APT) 환자 비심장 수술 — 단기/장기 중단 간 주요 출혈 차이 NS (low COE); aspirin 지속 시 위약 대비 주요 출혈 RR 1.31 (high COE) + 혈전색전증 RR 0.74 — trade-off 정량화.
+- [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] — JAMA Cardiology 2024 SR+MA (n=1,152,345 IE 사례): 침습적 치과시술 후 항생제 예방 — **고위험군에서만** IE 위험 유의 감소; 중간/저위험/불명 위험군에서는 효과 없음 → 2007/2017 AHA·NICE의 고위험군 한정 권고 입장 empirical 지지.
+- [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] — Loper 2025, sr, 선천성 심장질환(CHD) 소아 대상 예방적 항생제(AP)와 감염성 심내막염(IE) 예방 체계적 문헌고찰 — IE 근거 매우 낮음(OR 3.63, ns), 균혈증 감소 유의(OR 0.24, p<0.05), GRADE ⊕◯◯◯
+- [[drug/antibiotics/sutej-2024-antibiotic-prescribing-trends-dentistry-croatia]] — 크로아티아 국가 처방 데이터 10년 (2014-2023) 분석 (Univ Zagreb): 치과 항생제 처방 추세 — 전체 처방량·광범위 항생제 비율 변동, AMR 정책 baseline 제공; 단일국가 데이터지만 EU 비교가능 framework.
+- [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — 국제 Delphi 합의 (Manchester/FDI/Melbourne/Lorraine): 치과 항생제 스튜어드십 핵심 outcome set 합의 (≥30 dentist+academic+patient contributors, >70% critical) — 향후 stewardship intervention 평가의 표준 outcome 정의.
+- [[drug/antibiotics/torof-2023-antibiotic-dental-implant-procedures-sr-ma]] — SR+MA (Wolverhampton, Medicina 2023): 임플란트 식립 (DIP) 항생제 예방 — 술전 단일 amoxicillin 2g 권고; 술후 연장은 incremental benefit 없음. PRISMA-P/PROSPERO 등록.
+- [[drug/anticoagulants/uspstf-2022-aspirin-cardiovascular-disease-prevention]] — USPSTF 2022 권고 (JAMA): 저용량 aspirin 1차예방 — 40-59세 ≥10% 10년 CVD 위험 성인은 C등급 개별 결정; ≥60세 신규 시작 권고 안 함 (D등급) — 2016년 권고에서 후퇴, 출혈 위험 (GI·뇌출혈) > 이득.
+- [[drug/analgesics/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
+- [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
+- [[drug/analgesics/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
+- [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 다기관 RCT (BMC Oral Health 2019, n=100, 8주): SRP 보조 CELC (vitamin C/E + lysozyme + carbazochrome, IGATAN F) 위약 대비 GI 4주 -0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI NS — 임상적 효능 한계 명확
+- [[drug/analgesics/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 비글견 RCT (BMC Vet Res 2024, n=10, 8주): Magnoliae cortex 40mg + Zea mays L. 20mg 경구 → GI·PPD·CAL·BoP 위약 대비 유의 개선, tissue TNF-α 감소 — Insadol 계열 in vivo 항염 확인
+- [[drug/analgesics/kim-2018-magnoliae-cortex-zea-mays-modulate]] — SNU 치주과 in vitro (JPIS 2018, RAW 264.7 + P. gingivalis): Magnoliae Cortex 60 µg + 옥수수 불검화 추출물 300 µg 병용 → NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 synergy
+- [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — Narrative review (KDA 2026 64(4) Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7%; clindamycin ADR 15.7×↑(vs amoxicillin); β-blocker/TCA 환자 epinephrine ≤2 cartridges; GFR/LFT 기반 용량조절 표
+- [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 후향(2010–2017, 평균 23,624 치과의사) + Yellow Card MHRA ADR: amoxicillin 압도적 최저(전체 21.5·치명적 0.1/백만), clindamycin 치명적 최고(2.9/백만, 대부분 C. difficile); macrolide QT/torsades 사망; "amoxicillin 알레르기 → clindamycin" 반사 위험.
+- [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 후향 단일기관(루마니아, n=105, 2024.11–12): DrugBank Checker로 1,332 약물쌍 분석 — 주요 DDI 2.3%·중등도 25.0%·경미 13.4%; 주요는 31–60세(61.3%)·CVD(epinephrine + β-blocker) 집중; 0–30세 0건.
+- [[drug/mronj/jkda-2021-60-1-004]] — Review (단국대 통합치의학 최정임, JKDA 2022): BMA(bisphosphonate·denosumab) 복용 환자에서 dental implant가 MRONJ trigger·risk factor 평가 — drug holiday·식립 후 maintenance framework
+- [[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — Special article (JKDA 2023, SNU 치과마취과 Karm MH): 2022년 한국 진정 가이드라인 해설 — moderate sedation 중심, 15 PICO 권고 (제공자 교육·약물·금식·monitoring·소아 호흡·퇴원), 비마취과 제공자 대상 표준.
+- [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Position paper (JKDA 2023, 한양대 OMS Hwang KG): 치과 국소마취 한국 임상진료지침 부재 지적, 가이드라인 제정 필요성·검토 영역 명문화 (페어 — Karm 2023 sedation guideline 해설과 동일 호).
+- [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 근거기반 가이드라인(GRADE): 면역정상 성인 SIP±SAP 항생제 금지(강한 권고), 치수괴사+치근단농양 비권장(조건부) — 1차는 DCDT(치수절단·근관치료·절개배농); 항생제는 즉시 치료 불가(amoxicillin 500mg TID 지연처방)·전신 침범 시만. 치수염=비감염 원리.
+- [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (2,994편→8편): 급성 치성감염 경험적 항생제 요법 거의 모두 임상 성공, 1개 연구는 무항생제=광범위 동일 결과 → 광범위 1차 처방 불필요·좁은 스펙트럼 동등; 성공의 1차 요인은 배농·감염원 제거(치과 치료).
+- [[drug/antibiotics/vavro-2024-antibiotic-susceptibility-orofacial-infections]] — Vavro 2024 (10년 후향, n=744, Clin Oral Investig): 구강안면감염 경험적 항생제 — amox-clav 내성 4.9%로 최저(clindamycin 25.8%·metronidazole 25.5%·penicillin 15.3%) → 1차 amox-clav 권고, 단 외과적 배농이 우선 (2024)
+- [[drug/antibiotics/chunduri-2012-bacterial-spectrum-orofacial-infections]] — Chunduri 2012 (감수성 연구, n=68, 인도): 구강안면감염 amox-clav 감수성 95–100%(혐기성 100%)·clindamycin 양호, erythromycin 효용 의문 (2012)
+- [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
 
 ## 구강외과 (Oral Surgery)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
@@ -1468,7 +1468,7 @@ tags: []
 
 ### drug (added 2026-05-24, batch b)
 
-- [[drug/lee-2024-burning-mouth-syndrome-clinical-treatment]] — Eunjin Lee 2024 · retrospective · A retrospective study on the clinical characteristics and treatment outcomes of patients with burning mouth syndrome
+- [[oral-medicine/lee-2024-burning-mouth-syndrome-clinical-treatment]] — Eunjin Lee 2024 · retrospective · A retrospective study on the clinical characteristics and treatment outcomes of patients with burning mouth syndrome
 
 ### implants (added 2026-05-24, batch b)
 
@@ -1859,8 +1859,8 @@ tags: []
 
 ### drug (added 2026-05-28, batch f)
 
-- [[drug/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — Shahriar Shahi 2026 · sr · BMC Oral Health article-in-press — DM and dental implant outcomes (successor to al-ansari-2022 MA; unedited version, full body pending publication)
-- [[drug/kwon-2023-mronj-position-papers-what-changed]] — Tae-Geon Kwon 2023 (대한치과의사협회지) · narrative-review · AAOMS MRONJ 권고안 변천(2007 BRONJ→2014 MRONJ→2022 update) 해설; 2022 핵심 3변경: (1)정의에 면역조절제(Romosozumab) 추가 (2)수술 치료 전 stage(1·2·3) 확대 (3)수술 전 drug holiday 권고 삭제. ruggiero-2022 원문의 한국어 해석 레이어
+- [[drug/systemic-disease/shahi-2026-implant-outcomes-diabetes-mellitus-sr]] — Shahriar Shahi 2026 · sr · BMC Oral Health article-in-press — DM and dental implant outcomes (successor to al-ansari-2022 MA; unedited version, full body pending publication)
+- [[drug/mronj/kwon-2023-mronj-position-papers-what-changed]] — Tae-Geon Kwon 2023 (대한치과의사협회지) · narrative-review · AAOMS MRONJ 권고안 변천(2007 BRONJ→2014 MRONJ→2022 update) 해설; 2022 핵심 3변경: (1)정의에 면역조절제(Romosozumab) 추가 (2)수술 치료 전 stage(1·2·3) 확대 (3)수술 전 drug holiday 권고 삭제. ruggiero-2022 원문의 한국어 해석 레이어
 
 ### radiology (NEW category, added 2026-05-28, batch f)
 
@@ -1918,36 +1918,36 @@ tags: []
 
 ### drug (added 2026-06-01, batch g — local anesthesia)
 
-- [[drug/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — Geeta Kalra 2024 (J Maxillofac Oral Surg 23:1255) · rct · 4-arm 발치 IANB(n=28): 8.4% NaHCO₃ 완충이 리도카인·아티카인 발현 모두 유의 단축(완충 아티카인 객관 발현 84초 vs 비완충 리도카인 181초, p<0.001), 발치 VAS는 무차(χ²=4.107, p=0.250)
-- [[drug/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — P. Karunakar 2024 (J Conserv Dent Endod 27:1228) · rct · SIP 하악구치 IANB(n=45): 완충 리도카인 성공 84%(초록 86.2%) > 예냉 72% > 전통 37%; 완충 발현 최단(61.1초)·지속 최장(313.8분), p<0.001
-- [[drug/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — Shehab A. Hamad 2025 (J Clin Exp Dent 17:e1350) · rct · 상악 후방 발치 침윤(n=100): 완충(pH 7.3)이 전통(pH 4.2) 대비 주사통(VAS 2.8 vs 4.2)·발현(2.3 vs 4.7분)·지속(45.8 vs 36.4분) 우월(전부 p<0.01), 재주사율 NS(4% vs 8%)
-- [[drug/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — Namita Gandhi 2022 (PeerJ 10:e14187) · rct · SIP 하악 IANB(n=252→241): 가온(42℃)·완충 모두 전통 대비 술중 VAS 대폭↓(1.59·1.69 vs 3.54, p<0.001), 가온≈완충(p=0.183); 가온 주사통 최저(1.35)
-- [[drug/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma]] — Ling Li 2023 (J Clin Pediatr Dent 47(6):21) · sr+ma · 8 RCT(아티카인 470 vs 리도카인 441, 3–13세): 소아 이상반응 위험 동등 RR 1.08(95% CI 0.54–2.15, p=0.83), I²=57%, GRADE moderate — 단 아티카인=침윤 사용 전제
-- [[drug/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — Anna Miroshnychenko 2023 (JADA) · sr+ma · ADA 급성치성통 CPG 근거 2개 SR: SR1(14 RCT) 부피바카인이 리도카인+epi 대비 진통제 소비↓(MD −1.91), 메피바카인 대비 −1.58; SR2(5 RCT) 20% 벤조카인 도포 vs 위약 통증완화 반응 RR 1.47(1.03–2.10)
-- [[drug/uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo]] — Daniel Uzbelger-Feldman 2024 (Pharmaceutics 16:1058) · animal · 무에피네프린 완충 2% 리도카인(LR 비히클, pH 6.7–7.0) 개발: 쥐 tail-flick/hot-plate에서 상용 리도카인+1:100k epi와 지속 동등(270분), 쓴맛↓·일시적 경미 홍반만
-- [[drug/becker-2012-local-anesthetics-pharmacological-considerations]] — Daniel E. Becker 2012 (Anesth Prog 59(2):90) · narrative-review · 치과 국소마취제 약리 CE 리뷰: Na⁺채널 기전·ester vs amide·pKa→발현·단백결합→지속·지용성→역가, 최대용량표(리도카인+epi 7mg/kg/500mg 등), 독성(부피바카인 심독성·프릴로카인 메트헤모글로빈혈증·4% 아티카인 감각이상 7.3×)
-- [[drug/park-2024-articaine-infiltration-lidocaine-intraosseous-molars]] — Damin Park 2024 (J Dent Anesth Pain Med 24(5):319, 서울대 분당) · retrospective · 심부우식(ICDAS 5–6) 하악구치 n=48: 리도카인 골내마취(QuickSleeper5) 무보충 성공 100% vs 4% 아티카인 협측침윤 70.8%(P<0.001), 주사통↓(VAS 17.3 vs 32.0)·발현↑(1분 91.7% 마취)·지속 짧음(118.6 vs 231.3분)
-- [[drug/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — Xueer Zhou 2023 (PeerJ 11:e15585, 화시구강) · narrative-review · 임신 생리·구강 국소마취(182편): 표준 LA 임신 전기간 안전, **2% 리도카인+1:200,000 epi** 모체/태아 균형 최적; 리도카인·프릴로카인 FDA cat B, 아티카인·메피바카인·부피바카인 cat C; 선택적 시술 14–20주
-- [[drug/bina-2018-true-allergy-amide-local-anesthetics-case]] — Babak Bina 2018 (Anesth Prog 65(2):119, NYU Lutheran) · case-report · 아마이드 진성 알러지(희귀): 리도카인 아나필락시스 기록 43F가 1% diphenhydramine+1:100k epi 대체마취로 13회 진료 완료 — 상악 침윤 유효하나 단시간(15–75분)·부종/졸음·<5mL/회 제한; 대개 진짜 원인은 첨가물(metabisulfite/methylparaben)
-- [[drug/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort]] — Larisse E. Adami 2021 (Braz Oral Res 35:e131, USP) · prospective · 단일군 코호트 n=58(평균 50.7세, 59% 주사공포): 리도카인+프릴로카인(1:1, 30mg) 점막부착 패치 무바늘 마취 — 중등도 시술 90% 무주사 완료, 발현 ~13.2분·지속 50–90분·부작용 0(2h·6개월)
+- [[drug/systemic-disease/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — Geeta Kalra 2024 (J Maxillofac Oral Surg 23:1255) · rct · 4-arm 발치 IANB(n=28): 8.4% NaHCO₃ 완충이 리도카인·아티카인 발현 모두 유의 단축(완충 아티카인 객관 발현 84초 vs 비완충 리도카인 181초, p<0.001), 발치 VAS는 무차(χ²=4.107, p=0.250)
+- [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — P. Karunakar 2024 (J Conserv Dent Endod 27:1228) · rct · SIP 하악구치 IANB(n=45): 완충 리도카인 성공 84%(초록 86.2%) > 예냉 72% > 전통 37%; 완충 발현 최단(61.1초)·지속 최장(313.8분), p<0.001
+- [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — Shehab A. Hamad 2025 (J Clin Exp Dent 17:e1350) · rct · 상악 후방 발치 침윤(n=100): 완충(pH 7.3)이 전통(pH 4.2) 대비 주사통(VAS 2.8 vs 4.2)·발현(2.3 vs 4.7분)·지속(45.8 vs 36.4분) 우월(전부 p<0.01), 재주사율 NS(4% vs 8%)
+- [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — Namita Gandhi 2022 (PeerJ 10:e14187) · rct · SIP 하악 IANB(n=252→241): 가온(42℃)·완충 모두 전통 대비 술중 VAS 대폭↓(1.59·1.69 vs 3.54, p<0.001), 가온≈완충(p=0.183); 가온 주사통 최저(1.35)
+- [[local-anesthesia/li-2023-articaine-lidocaine-adverse-effects-pediatric-ma]] — Ling Li 2023 (J Clin Pediatr Dent 47(6):21) · sr+ma · 8 RCT(아티카인 470 vs 리도카인 441, 3–13세): 소아 이상반응 위험 동등 RR 1.08(95% CI 0.54–2.15, p=0.83), I²=57%, GRADE moderate — 단 아티카인=침윤 사용 전제
+- [[drug/analgesics/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — Anna Miroshnychenko 2023 (JADA) · sr+ma · ADA 급성치성통 CPG 근거 2개 SR: SR1(14 RCT) 부피바카인이 리도카인+epi 대비 진통제 소비↓(MD −1.91), 메피바카인 대비 −1.58; SR2(5 RCT) 20% 벤조카인 도포 vs 위약 통증완화 반응 RR 1.47(1.03–2.10)
+- [[local-anesthesia/uzbelger-feldman-2024-buffered-anesthetic-without-epinephrine-invivo]] — Daniel Uzbelger-Feldman 2024 (Pharmaceutics 16:1058) · animal · 무에피네프린 완충 2% 리도카인(LR 비히클, pH 6.7–7.0) 개발: 쥐 tail-flick/hot-plate에서 상용 리도카인+1:100k epi와 지속 동등(270분), 쓴맛↓·일시적 경미 홍반만
+- [[local-anesthesia/becker-2012-local-anesthetics-pharmacological-considerations]] — Daniel E. Becker 2012 (Anesth Prog 59(2):90) · narrative-review · 치과 국소마취제 약리 CE 리뷰: Na⁺채널 기전·ester vs amide·pKa→발현·단백결합→지속·지용성→역가, 최대용량표(리도카인+epi 7mg/kg/500mg 등), 독성(부피바카인 심독성·프릴로카인 메트헤모글로빈혈증·4% 아티카인 감각이상 7.3×)
+- [[local-anesthesia/park-2024-articaine-infiltration-lidocaine-intraosseous-molars]] — Damin Park 2024 (J Dent Anesth Pain Med 24(5):319, 서울대 분당) · retrospective · 심부우식(ICDAS 5–6) 하악구치 n=48: 리도카인 골내마취(QuickSleeper5) 무보충 성공 100% vs 4% 아티카인 협측침윤 70.8%(P<0.001), 주사통↓(VAS 17.3 vs 32.0)·발현↑(1분 91.7% 마취)·지속 짧음(118.6 vs 231.3분)
+- [[local-anesthesia/zhou-2023-pregnancy-physiology-oral-local-anesthesia-review]] — Xueer Zhou 2023 (PeerJ 11:e15585, 화시구강) · narrative-review · 임신 생리·구강 국소마취(182편): 표준 LA 임신 전기간 안전, **2% 리도카인+1:200,000 epi** 모체/태아 균형 최적; 리도카인·프릴로카인 FDA cat B, 아티카인·메피바카인·부피바카인 cat C; 선택적 시술 14–20주
+- [[local-anesthesia/bina-2018-true-allergy-amide-local-anesthetics-case]] — Babak Bina 2018 (Anesth Prog 65(2):119, NYU Lutheran) · case-report · 아마이드 진성 알러지(희귀): 리도카인 아나필락시스 기록 43F가 1% diphenhydramine+1:100k epi 대체마취로 13회 진료 완료 — 상악 침윤 유효하나 단시간(15–75분)·부종/졸음·<5mL/회 제한; 대개 진짜 원인은 첨가물(metabisulfite/methylparaben)
+- [[local-anesthesia/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort]] — Larisse E. Adami 2021 (Braz Oral Res 35:e131, USP) · prospective · 단일군 코호트 n=58(평균 50.7세, 59% 주사공포): 리도카인+프릴로카인(1:1, 30mg) 점막부착 패치 무바늘 마취 — 중등도 시술 90% 무주사 완료, 발현 ~13.2분·지속 50–90분·부작용 0(2h·6개월)
 
 ### drug (added 2026-06-03, batch h — metronidazole·알코올 disulfiram)
 
-- [[drug/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Ryan Feldman 2023 (WMJ 122(3):171) · retrospective · ED case-control 차트리뷰(n=36, metronidazole 18 + 알코올 매칭 18): 혈중알코올 검출 metronidazole 환자 disulfiram 유사반응 기록 0건, 고혈압 오히려 적음(16.7% vs 61.1%, P<0.0001) → 알코올-metronidazole 상호작용 부재 지지
-- [[drug/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — Orire 2026 (Sex Transm Dis 53(4):205) · narrative-review · 문헌리뷰(4 DB, 1970–2024, 11편): 증례보고 4편+구시험 1편만 양성, 대조시험 3·차트리뷰 1·동물 2편은 음성 → 임상적 유의 disulfiram 반응 근거 약함, 엄격 금주 재고. (abstract-only)
+- [[drug/antibiotics/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Ryan Feldman 2023 (WMJ 122(3):171) · retrospective · ED case-control 차트리뷰(n=36, metronidazole 18 + 알코올 매칭 18): 혈중알코올 검출 metronidazole 환자 disulfiram 유사반응 기록 0건, 고혈압 오히려 적음(16.7% vs 61.1%, P<0.0001) → 알코올-metronidazole 상호작용 부재 지지
+- [[drug/antibiotics/orire-2026-revisiting-disulfiram-reaction-alcohol-metronidazole]] — Orire 2026 (Sex Transm Dis 53(4):205) · narrative-review · 문헌리뷰(4 DB, 1970–2024, 11편): 증례보고 4편+구시험 1편만 양성, 대조시험 3·차트리뷰 1·동물 2편은 음성 → 임상적 유의 disulfiram 반응 근거 약함, 엄격 금주 재고. (abstract-only)
 
 ### drug (added 2026-06-03, batch i — 임신 약물 안전성)
 
-- [[drug/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Aliabadi 2022 (Eur J Transl Myol 32(4):10813) · narrative-review · 임신 중 근관치료 약물: 치성 감염은 즉시 치료(미치료가 더 위험), 1차 항생제 아목시실린·페니실린·세팔렉신(알러지 시 에리스로마이신·클린다마이신), 1차 진통제 acetaminophen, LA 1:100,000 epi, 2분기 선택시술 최적
-- [[drug/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Prada 2025 (Environmental Health 24:56) · sr · Navigation Guide 46편: 산전 acetaminophen-신경발달장애(ASD/ADHD) 양성 27/무 9/음성 4, 고품질일수록 양성 → 임신 중 제한 권고. **단 연관≠인과·confounding by indication·ACOG는 여전히 안전 입장** (치과 1차 진통제 유지하되 최소용량·최단기간)
+- [[drug/antibiotics/aliabadi-2022-antibiotic-use-endodontic-treatment-pregnancy]] — Aliabadi 2022 (Eur J Transl Myol 32(4):10813) · narrative-review · 임신 중 근관치료 약물: 치성 감염은 즉시 치료(미치료가 더 위험), 1차 항생제 아목시실린·페니실린·세팔렉신(알러지 시 에리스로마이신·클린다마이신), 1차 진통제 acetaminophen, LA 1:100,000 epi, 2분기 선택시술 최적
+- [[drug/antibiotics/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Prada 2025 (Environmental Health 24:56) · sr · Navigation Guide 46편: 산전 acetaminophen-신경발달장애(ASD/ADHD) 양성 27/무 9/음성 4, 고품질일수록 양성 → 임신 중 제한 권고. **단 연관≠인과·confounding by indication·ACOG는 여전히 안전 입장** (치과 1차 진통제 유지하되 최소용량·최단기간)
 
 ### drug (added 2026-06-19 — 항생제 청지기 SR+MA)
 
-- [[drug/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
-- [[drug/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Botelho J et al. 2025 · sr+ma(우산형 고찰) · SR 44편·MA 221개 치주치료 항생제 우산형 고찰: 전신 항생제 CAL 0.3 mm 개선의 통계적 강력 추정치 존재하나 SR 65.6%가 AMSTAR-2 "매우 낮음"으로 전체 근거등급 "약함"; 항생제 스튜어드십(Antimicrobial Stewardship) 지지, 중증/공격성 치주염 한정 사용 권고
-- [[drug/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Díaz 2025, sr+ma, 상악동거상술 후 항생제(7개 SR/MA umbrella): 감염률 0.3–11.6%, 예방 투여는 고위험군(막 천공·측방 접근·전신질환)에서만 근거 있고 단순 SFE에서는 루틴 불필요(GRADE 낮은 확실성)
-- [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Mohammadpour 2025, sr, 구강악안면외과 전 술식 125편 스코핑 리뷰: 술후 24시간 초과 AP 연장 투여 불필요, 아목시실린 단회 투여가 표준, 클린다마이신은 페니실린 알레르기 시에만
-- [[drug/rajan-2025-doxycycline-safety-children-dental-sr]] — Rajan 2025, SR+MA (5개 연구, n=162), 8세 미만 소아 단기 독시사이클린(doxycycline) 치아 착색 위험 0.62%로 극히 낮아 AAP/CDC 개정 지침 지지
+- [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
+- [[drug/antibiotics/botelho-2025-antibiotics-periodontal-treatment-umbrella]] — Botelho J et al. 2025 · sr+ma(우산형 고찰) · SR 44편·MA 221개 치주치료 항생제 우산형 고찰: 전신 항생제 CAL 0.3 mm 개선의 통계적 강력 추정치 존재하나 SR 65.6%가 AMSTAR-2 "매우 낮음"으로 전체 근거등급 "약함"; 항생제 스튜어드십(Antimicrobial Stewardship) 지지, 중증/공격성 치주염 한정 사용 권고
+- [[drug/antibiotics/diaz-2025-antibiotics-sinus-lift-infection-umbrella]] — Díaz 2025, sr+ma, 상악동거상술 후 항생제(7개 SR/MA umbrella): 감염률 0.3–11.6%, 예방 투여는 고위험군(막 천공·측방 접근·전신질환)에서만 근거 있고 단순 SFE에서는 루틴 불필요(GRADE 낮은 확실성)
+- [[drug/antibiotics/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Mohammadpour 2025, sr, 구강악안면외과 전 술식 125편 스코핑 리뷰: 술후 24시간 초과 AP 연장 투여 불필요, 아목시실린 단회 투여가 표준, 클린다마이신은 페니실린 알레르기 시에만
+- [[drug/antibiotics/rajan-2025-doxycycline-safety-children-dental-sr]] — Rajan 2025, SR+MA (5개 연구, n=162), 8세 미만 소아 단기 독시사이클린(doxycycline) 치아 착색 위험 0.62%로 극히 낮아 AAP/CDC 개정 지침 지지
 
 
 <!-- BATCH INGEST 2026-06-04: 봉합·창상폐쇄 + 수직 골증대술 + 잔여. NEW category: suture-wound-closure. NEW subcategory: implants/vertical-ridge-augmentation -->
@@ -1991,7 +1991,7 @@ tags: []
 
 ### residual (added 2026-06-04, 자연 카테고리 분산)
 
-- [[implants/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — Jensen 2023 · consensus · 7th ITI Group 1 — buccal bone <1.5 mm predicts worse outcomes; simultaneous GBR over dehiscence + CTG give stable 1–5 yr outcomes
+- [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — Jensen 2023 · consensus · 7th ITI Group 1 — buccal bone <1.5 mm predicts worse outcomes; simultaneous GBR over dehiscence + CTG give stable 1–5 yr outcomes
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — Wessing 2018 · sr+ma · 20 controlled studies — collagen-membrane + particulate lateral GBR effective; cross-linked membranes ~30% more exposure
 - [[bone-regeneration/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Scheyer 2016 · rct · Multicentre (40 pts) — DBBM-collagen + native bilayer membrane preserved ~1.76 mm more horizontal ridge at 6 mo (p=0.0256)
 - [[bone-regeneration/gil-marques-2022-bone-block-grafts-finite-element-biomechanics]] — Gil-Marques 2022 · in-vitro · FEA — right-angled block + higher suture tension raise mucosal stress (dehiscence tendency) → low tension + rounded block
@@ -2056,9 +2056,9 @@ tags: []
 - [[behavioral-dentistry/motivational-interviewing/vilar-doceda-2023-behavioral-interventions-periodontitis-patients-improve]] — Vilar Doceda 2023 · sr · 21 studies (16 RCT, 5 NRCT): social-cognitive bundles + CBT/MI may reduce plaque and bleeding
 
 ### Drug — analgesics / antiplatelet
-- [[drug/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
-- [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
-- [[drug/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
+- [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
+- [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
+- [[drug/antibiotics/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
 
 ### sinus-lift/transcrestal (added 2026-06-06)
 - [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Bashar Shahood 2024 · prospective · n=126 implants, 3-arm (no-graft vs Bio-Oss vs Bio-Oss Collagen+CGF), RBH ≤5mm: ISR 96%, CGF 조합이 통증↓·골이득↑
@@ -2133,7 +2133,7 @@ tags: []
 - [[implants/liu-2021-immediate-delayed-loading-overdenture-mbl-sr-ma]] — Liu 2021 · sr+ma (5 RCT+2코호트·191pt): 하악 비연결형 오버덴처 즉시 vs 지연 로딩 MBL 동등, 즉시군 실패율 수치상 높음(5.03% vs 1.00%)
 - [[implants/abdunabi-2019-immediately-loaded-maxillary-full-arch-sr]] — Abdunabi 2019 · sr (4 CCT): 무치악 상악 전악 즉시 로딩 — 만족도·합병증 차이 약한 근거만, 메타분석 불가
 - [[implants/mehta-2021-tilted-axial-implants-edentulous-maxilla-sr-ma]] — Mehta 2021 · sr+ma (11편): 위축 무치악 상악 즉시 로딩에서 경사 vs 축방향 임플란트 3년 생존(RR 1.00)·MBL 동등
-- [[implants/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
+- [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — 즉시식립 이식 재료 선택 종합: gap 골대체재(협측 흡수↓·심미↑·합병증↑)와 연조직(SCTG 최우수>이종 콜라겐 기질>치유지대주 단독 불충분) 두 축 분리
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — 식립 시점(ITI Type 1–4) 종합: 생존율은 시점 무관, 즉시식립에 심미·생물학적 비용 집중(Tonetti RCT), 조기식립이 위험 균형 기본값(Bassir SR+MA)
 
@@ -2366,12 +2366,12 @@ tags: []
 - [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — Multicenter RCT (J Dent 2026): local 2% minocycline adjunct to mechanical debridement for peri-implantitis — BOP, PD, MBL outcomes
 
 ### implants — KM augmentation & soft-tissue management
-- [[implants/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
-- [[implants/zhang-2025-expert-consensus-km-augmentation-second-stage]] — Expert consensus (Int J Oral Sci 2025): technique decision tree (ARF/FGG/SFGG/substitutes) for peri-implant KM augmentation at second-stage surgery [consensus]
-- [[implants/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR (15 prospective, ≥36 mo): CTG bilaminar STA gives stable soft-tissue margins & KMW/MT gains medium/long term; non-augmented sites show progressive recession [sr]
-- [[implants/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA (11 studies, 290 participants) on functioning implants: FGG weighted mean KM gain +2.6 mm (↓inflammation, crestal bone stable ≤4 yr); CTG mucosal recession −2 mm; autogenous-only [sr+ma]
+- [[implants/soft-tissue/sanz-2022-keratinized-mucosa-around-implants-consensus]] — DGI/SEPA/Osteology 2022 consensus: KT<2 mm threshold, FGG standard of care, xenograft non-inferior to autogenous for KT gain [consensus]
+- [[implants/soft-tissue/zhang-2025-expert-consensus-km-augmentation-second-stage]] — Expert consensus (Int J Oral Sci 2025): technique decision tree (ARF/FGG/SFGG/substitutes) for peri-implant KM augmentation at second-stage surgery [consensus]
+- [[implants/soft-tissue/stefanini-2023-soft-tissue-augmentation-peri-implant-sr]] — SR (15 prospective, ≥36 mo): CTG bilaminar STA gives stable soft-tissue margins & KMW/MT gains medium/long term; non-augmented sites show progressive recession [sr]
+- [[implants/soft-tissue/oh-2024-keratinized-mucosa-augmentation-functioning-implants-sr-ma]] — SR+MA (11 studies, 290 participants) on functioning implants: FGG weighted mean KM gain +2.6 mm (↓inflammation, crestal bone stable ≤4 yr); CTG mucosal recession −2 mm; autogenous-only [sr+ma]
 -
-- [[implants/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative]] — Narrative review: peri-implant biologic width, KM debate, CTG/VIP-CT grafting, inter-implant papilla reconstruction [narrative-review]
+- [[implants/soft-tissue/bhatavadekar-2012-peri-implant-soft-tissue-management-narrative]] — Narrative review: peri-implant biologic width, KM debate, CTG/VIP-CT grafting, inter-implant papilla reconstruction [narrative-review]
 
 ### Overview (added 2026-06-14, batch b)
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — **NEW Overview**: 각화점막(KM) 위험인자·증대술 종합 (10편). ~2 mm 역치 수렴; 연조직 대리지표(플라크·염증·퇴축)는 근거 강함, hard endpoint(주위염·MBL)는 방향성 있으나 근거 질 낮음/TSA 미달; FGG 기준 술식(xenograft 대안). Ravidà TSA의 "무결론"은 생물학적 무효가 아니라 검정력 부족으로 해석.
@@ -2379,9 +2379,9 @@ tags: []
 ## Batch ingest (added 2026-06-14, batch c) — KM augmentation effect sizes & soft-tissue dehiscence / immediate-implant STA
 
 ### implants — KM augmentation & soft-tissue dehiscence
-- [[implants/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR (11 studies, 282 subjects), companion to Sanz 2022 consensus: FGG > soft-tissue substitutes for KM gain (WMD −0.9 mm), but xenogeneic collagen matrix non-inferior when analyzed alone; substitutes save ~18.5 min operative time [sr]
-- [[implants/zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique]] — Technique report (n=3): titanium-pin fixation of FGG/apically repositioned flaps during vestibuloplasty for KM augmentation with minimal shrinkage [case-report]
-- [[implants/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA (DGI/SEPA/Osteology suppl): buccal soft tissue dehiscence (BSTD) at implants — dominant risks buccal malposition (OR 14.37), CTG absence (OR 9.00), thin biotype (OR 2.85); buccal bone thickness & immediate placement NS; frequency 0–61% [sr+ma]
+- [[implants/soft-tissue/montero-2022-soft-tissue-substitutes-vs-autogenous-keratinized-mucosa-sr]] — SR (11 studies, 282 subjects), companion to Sanz 2022 consensus: FGG > soft-tissue substitutes for KM gain (WMD −0.9 mm), but xenogeneic collagen matrix non-inferior when analyzed alone; substitutes save ~18.5 min operative time [sr]
+- [[implants/soft-tissue/zwanzig-2025-titanium-pins-fgg-arf-vestibuloplasty-technique]] — Technique report (n=3): titanium-pin fixation of FGG/apically repositioned flaps during vestibuloplasty for KM augmentation with minimal shrinkage [case-report]
+- [[implants/soft-tissue/sanz-martin-2022-buccal-soft-tissue-dehiscence-implants-sr-ma]] — SR+MA (DGI/SEPA/Osteology suppl): buccal soft tissue dehiscence (BSTD) at implants — dominant risks buccal malposition (OR 14.37), CTG absence (OR 9.00), thin biotype (OR 2.85); buccal bone thickness & immediate placement NS; frequency 0–61% [sr+ma]
 
 ### immediate-implant — soft tissue augmentation
 - [[immediate-implant/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): SCTG at immediate implant placement+provisionalization reduces buccal recession (WMD 0.54 mm), increases soft-tissue thickness (WMD 0.79 mm) & reduces MBL (WMD 0.13 mm) at 12 mo [sr+ma]
@@ -2390,12 +2390,12 @@ tags: []
 ## Batch ingest (added 2026-06-14, batch d) — peri-implant soft-tissue augmentation efficacy SR/MAs
 
 ### implants — soft-tissue augmentation efficacy (KM width / mucosal thickness)
-- [[implants/valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma]] — SR+MA (DGI/SEPA/Osteology suppl): CTG gains soft-tissue thickness +0.64 mm vs no graft, +0.51 mm vs substitutes; superior PES; MBL equal [sr+ma]
-- [[implants/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — SR+MA of 14 RCTs: CTG > xenogeneic matrix for peri-implant soft-tissue thickness (WMD −0.30 mm); augmentation improves KT & STT vs none [sr+ma]
-- [[implants/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]] — SR + network MA (52 studies, 23 RCTs): CTG≈ADM best for mucosal thickness, APF+FGG best for KM width; bilaminar grafts protect MBL [sr+ma]
-- [[implants/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, linear+profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft [sr+ma]
-- [[implants/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
-- [[implants/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
+- [[implants/soft-tissue/valles-2022-soft-tissue-augmentation-tissue-thickening-implants-sr-ma]] — SR+MA (DGI/SEPA/Osteology suppl): CTG gains soft-tissue thickness +0.64 mm vs no graft, +0.51 mm vs substitutes; superior PES; MBL equal [sr+ma]
+- [[implants/soft-tissue/cairo-2019-soft-tissue-augmentation-implant-sites-rct-sr-ma]] — SR+MA of 14 RCTs: CTG > xenogeneic matrix for peri-implant soft-tissue thickness (WMD −0.30 mm); augmentation improves KT & STT vs none [sr+ma]
+- [[implants/soft-tissue/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]] — SR + network MA (52 studies, 23 RCTs): CTG≈ADM best for mucosal thickness, APF+FGG best for KM width; bilaminar grafts protect MBL [sr+ma]
+- [[implants/soft-tissue/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, linear+profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft [sr+ma]
+- [[implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
+- [[implants/soft-tissue/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
 - [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — da Silva 2025 · sr · 8편: 얇은·두꺼운 phenotype 모두 5년 성공률 >91%; phenotype은 peri-implantitis/MBL 경유 간접 영향, 얇은 형이 골소실 주요 위험인자 (DOI 10.1038/s41432-025-01114-x)
 
 ## Batch ingest (added 2026-06-15) — veneers & ceramic bonding overviews
