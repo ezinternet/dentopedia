@@ -1,0 +1,1878 @@
+Comparison of bond strength of self-adhesive and self-etch or total-etch resin cement to zirconia: A systematic review and meta-analysis
+
+PMID 38463466 | PMCID PMC10923229 | DOI 10.4103/JCDE.JCDE_225_23
+Source: PMC open-access full text.
+
+INTRODUCTION
+
+Increasing demands on dental esthetics today have led to the development of tooth-colored restorations, either composite or ceramic based.[] Ceramic systems are available to meet patient and dentist expectations for reliable, durable, and esthetical restorations.[] Among various types of ceramics, yttria-stabilized tetragonal zirconia polycrystal (Y-TZP) is becoming the commonly used ceramic due to its mechanical properties, corrosion resistance, and biocompatibility.[] It, therefore, enables the clinicians to achieve higher clinical success with lower prosthetic complications while having more conservative tooth preparations.[] However, a concern of nonglass and therefore nonetchable (with traditional acids used for glass ceramics), quasichemically inert zirconia is its limited potential for adhesive luting.[] Various mechanical and chemical surface preparations have been recommended to improve the bonding of resin cement to zirconia,[] such as sandblasting, tribochemical silica coating (TSC), hydrofluoric (HF) acid etching, and laser irradiation. HF acid does not provide sufficient bond strength due to the lack of a vitreous phase; however, a combination of HF, hydrochloric acid, sulfuric acid, nitric acid, and phosphoric acid has shown to improve the shear bond strength of adhesive resins to zirconia.[]
+
+Liu., on the other hand, found that laser irradiation does not improve the surface properties of zirconia ceramics and, therefore, the bond strength and that increasing the irradiation power and extending the irradiation time does not increase the bond strength of the ceramic and might lead to material defects.[] Although sandblasting can improve the bond strength of zirconia to resin cement, it results in a decrease in the flexural strength of zirconia as the surface of zirconia is altered to varying degrees from tetragonal to monoclinic phases.[]
+
+TSC roughens and activates the surfaces. TSC deposits an inhomogeneous silica layer on the zirconia surface, thus improving the bonding efficiency when coupled with 10-methacryloyloxy-decyl-dihydrogen-phosphate (10-MDP) primer.[] In general, phosphate ester monomers have been shown to chemically bond with pure zirconia. In particular, primers and resin cement containing 10-MDP result in an acceptable and durable bond strength due to the chemical reaction of 10-MDP with zirconium oxide.[]
+
+The strong cementation of zirconium oxide-based prosthesis plays an important role in the clinical success rate. Although conventional cement can be used for luting zirconia, adhesive luting cement are recommended for increased retention, marginal conformation, and fracture resistance.
+
+Although several types of cement and adhesive methods for bonding to zirconia have been introduced in recent years, a standard cementation protocol has not yet been identified. The aim of this meta-analysis was to compare the bond strength of self-adhesive and self-etch or total-etch adhesive resin cement to zirconia-based prosthesis. The null hypothesis was that there was no difference between the immediate and delayed bond strength of self-adhesive and self-etch or total-etch adhesive resin cement to zirconia.
+
+MATERIALS AND METHODS
+
+The guidelines of Preferred Reporting Items for Systematic Reviews and Meta-analyses (PRISMA) were used in this systematic review. The PICOS was identified and shown in.
+
+Databases such as PubMed, Scopus, the Cochrane Database of Systematic Reviews, and ISI (Web of Science core collection, Biosis Previews, Biosis Citation Index, Current Content Connect, Data Citation Index, Derwent Innovation Index, CI-Korean Journal, Russian Science Citation Index, Medline, SciELO Citation Index, and Zoological Record) were systematically searched up to November 1, 2021 without language or time restrictions for the following keywords.
+
+((((((“zirCAD”) OR “whitesky”) OR “DC-zircon”) OR brezirkon) OR “y-tzp ceramic”) OR y-tzp ceramic) OR lava) OR “Non-etchable ceramic”) OR (((zirconia OR zirconium))))) AND ((self-adhesive OR (self-adhesive) OR self-bonding OR (self-bonding) AND (cement OR luting OR resin) OR (G-cem OR Maxcem OR “Rely X” OR “SmartCem” OR Bifix OR Biscem OR Multilink OR “SpeedCem” OR “Clearfill SA” OR Calibra OR Breeze OR “Embrace WetBond” OR Monocem OR “AURAVeneer VLC” OR Permanecem)).
+
+The articles were imported into an EndNote library (Endnote X7, Thomson Reuters, San Francisco, CA, USA), and duplicate studies were removed. Next, a manual search for the references of the selected articles was conducted. As no relevant clinical studies were found in the selected articles, the inclusion criteria werestudies, in which:
+
+A comparison was made between the bond strength of self-adhesive resin cement and self-etch or total-etch resin cement to zirconia
+
+A shear or tensile test was performed
+
+Appropriate statistical tests were used to analyze the bond strength with reported sample size,value, mean, and standard deviation
+
+The cement was applied according to the manufacturer’s recommendations.
+
+To select eligible articles, two reviewers (AB and FK) independently screened the literature and rated the studies based on the inclusion/exclusion criteria. In the case of disagreement, the issue was clarified through discussion with the third reviewer (AS).
+
+The selected articles were thoroughly assessed for the study’s scientific basis and methodological accuracy. To assess the risk of bias, six methodological elements were considered as follows: (1) randomization of teeth, (2) use of caries-free or restoration-free teeth, (3) materials used according to the specifications, (4) adhesive procedures performed by the same operator, (5) description of sample size calculation, and (6) blinding of testing machine operators. When the authors reported a parameter, the article had a Y (yes) for that specific parameter; if the information could not be found, the article received an N (no). Articles reporting 1 or 2 items were rated as high risk of bias, 3 or 4 as medium risk, and 5–6 as low risk.[]
+
+Table 1
+
+Search strategy using PICOS analysis
+
+Definition
+
+Main search terms for Pubmed (controlled vocabulary and free text terms)
+
+Participants
+
+Zirconia
+
+((((((“zirCAD”) OR “whitesky”) OR “DC-zircon”) OR brezirkon) OR “y-tzp ceramic”) OR y-tzp ceramic) OR lava) OR “Non-etchable ceramic”) OR (((zirconia OR zirconium))))) AND ((self-adhesive OR (self-adhesive) OR self-bonding OR (self-bonding)
+
+Intervention
+
+Self etch Total etch Self adhesive
+
+(cement OR luting OR resin) OR (G-cem OR Maxcem OR “Rely X” OR “SmartCem” OR Bifix OR Biscem OR Multilink OR “SpeedCem” OR “Clearfill SA” OR Calibra OR Breeze OR “Embrace WetBond” OR Monocem OR “AURAVeneer VLC” OR Permanecem))
+
+Comparisons
+
+Not applicable
+
+-
+
+Outcomes
+
+Not applicable
+
+-
+
+Study design
+
+All included
+
+Search results manually screened to include all primary teeth that underwent chlorhexidine pretreatment for resin restoration
+
+PICOS: Participants, intervention, comparisons, outcomes, study design
+
+Data extraction and analysis
+
+The following data were recorded for each included article; statistical data, such as the sample size, mean, and standard deviation, and the details of the cementing protocol, such as the adhesive system, bonding substrate, conditioning before bonding, thermal or mechanical cycling, and type of bond strength test.
+
+Authors of articles with incomplete data were contacted through e-mail to retrieve the missing data. If there was no reply within 2 weeks, a second e-mail was sent. If after 1 month from the first contact still no or an incomplete answer was received, the article would be excluded.
+
+The characteristics of the included studies are presented in. The eligible articles were divided into four groups according to the type of resin cement and storage time; (1) immediate bond strength of self-etch cement-zirconia versus self-adhesive cement-zirconia, (2) delayed bond strength of self-etch cement-zirconia versus self-adhesive cement-zirconia (storage longer than 48 h), (3) immediate bond strength of total-etch cement-zirconia versus self-adhesive cement-zirconia, and (4) delayed bond strength of total-etch cement-zirconia versus self-adhesive cement-zirconia (storage longer than 48 h).
+
+To assess the heterogeneity of the cement type effect, the Cochrane-test was used, for which the significance level was set at 0.05. Furthermore, we used theindex to quantify heterogeneity, with values >50% being taken as indicating high heterogeneity.
+
+The analysis in the four groups was performed using the random-effect model. The comprehensive meta-analysis software version 2 (Biostat Inc., Englewood NJ, USA) was used for statistical analysis. The effect of conventional cement (GI, RMGI, and zinc phosphate) was analyzed using descriptive analysis.
+
+Table 2
+
+Detailed summary of studies included in the meta-analysis
+
+Article
+
+Cement
+
+Test
+
+Interface
+
+Sample size
+
+Mean±SD
+
+Surface treatment
+
+Storage
+
+Petrauskas.[]
+
+RelyXU100
+
+MSBS
+
+c-c
+
+30
+
+13.6±86.56
+
+Polished with silicon carbide paper
+
+30 min room temperature
+
+Multilink polished + z primer
+
+16.11±4.97
+
+Sandblast: 12 s - 50 µm ALO
+
+RelyXU100 sandblasted
+
+24.02±6.41
+
+10 mm - 2.8 bar
+
+Multilink
+
+9.64±3.98
+
+Sandblasted + z primer
+
+Gundogdu and Aladag[]
+
+Duo link
+
+SBS
+
+D-C
+
+8
+
+16.95±3.55
+
+Airborne particle abrasion with 50 µm AL2O3for 15 s at a pressure of 0.25 Mpa from a distance of 10 mm
+
+Distilled water at 37°C±2°C for 24 h
+
+Panavia F2
+
+11.14±2.69
+
+RelyX Ultimate
+
+17.44±2.78
+
+RelyX U 200
+
+7.68±1.76
+
+Max Cem
+
+4.42±1.53
+
+Tunc.[]
+
+Zinc phosphate
+
+SBS
+
+c-c
+
+10
+
+0.31±0.04
+
+37°C water for 24 h in a dark room to ensure complete polymerization of the cement.
+
+Rely x u200
+
+11.47±0.47
+
+After 24 h, the specimens were subjected to thermal aging
+
+C and B
+
+3.53±0.41
+
+Rebholz-Zaribaf and Ozcan[]
+
+Panavia f2 dry
+
+MSBS
+
+Cement-zirconia
+
+15
+
+5.7±1.7
+
+Silicon carbide/clean ultrasonically
+
+RelyX Unicem dry
+
+12.1±5.2
+
+Variolinkii dry
+
+0
+
+PANAVIA F2 TC
+
+9.7±3.4
+
+Rely X Unicem TC
+
+6.3±4.3
+
+Variolink II TC
+
+0
+
+Stefani.[]
+
+Multilink Automix
+
+MSBS
+
+Ceramic-cement
+
+30
+
+37.6±4.5
+
+Sandblasted with aluminum oxide particles
+
+Immediate bond strength
+
+RelyXARC
+
+28.1±6.6
+
+Cleafil SA
+
+46.2±3.3
+
+Eratilla.[]
+
+BisCem
+
+SBS
+
+Zir-cem-dentin
+
+12
+
+1.37±1.42
+
+Thermal cycle 6000
+
+Panavia F2
+
+2.73±1.4
+
+Alves.[]
+
+RelyX ARC
+
+SBS
+
+Dentin-c-ceramic
+
+10
+
+5.65±2.8
+
+Water (37°C) 30 days
+
+RelyX U200
+
+10.36±3.87
+
+Lin. (2010)[]
+
+Panavia
+
+MSBS
+
+Cement-zirconia
+
+10
+
+4.61±2.8
+
+24 h storage
+
+Relyx Unicem
+
+18.57±4.8
+
+Maxcem
+
+18.21±4.95
+
+Multilink speed
+
+4.59±3.14
+
+Lee.[]
+
+G-Cem link
+
+SBS
+
+Cement_zirconia
+
+10
+
+3.96±0.56
+
+Before TC
+
+Maxcem Elite
+
+2.86±0.61
+
+Clearfil SA
+
+3.9±0.58
+
+PermaCem2.
+
+4.19±0.66
+
+Rely X U200
+
+2.84±0.61
+
+Smart Cem
+
+3.93±0.48
+
+Fuji CEM
+
+1.74±0.72
+
+G-Cem link
+
+2.66±0.53
+
+After TC (5000 thermocycling)
+
+Maxcem Elite
+
+2.08±0.46
+
+Clearfil SA
+
+4.62±0.6
+
+PermaCem2
+
+2.99±0.57
+
+Rely X U200
+
+2.36±0.41
+
+Smart Cem
+
+3.44±0.59
+
+Fuji CEM
+
+2.23±0.42
+
+Khalil and Abdelaziz[]
+
+RelyX Ultimate
+
+Push out
+
+Dentin- cemnet-zirconia
+
+10
+
+5.1±0.97
+
+24,000 cycle fatigue + 3500 thermocycling (5–55)
+
+RelyX Unicem
+
+4.41±1.12
+
+RelyX Ultimate
+
+5.77±0.96
+
+24 h
+
+RelyX Unicem
+
+4.62±1.59
+
+Ayyilidiz.[]
+
+C and B
+
+SBS
+
+Cement-zirconia
+
+10
+
+3.73±0.46
+
+Sandblasted
+
+1 week storage 37°C water bath/thermal cycling
+
+RelyX U200
+
+11.23±0.47
+
+Zinc phosphate
+
+0.29±0.03
+
+da Silva.[]
+
+RelyX Arc
+
+MSBS
+
+Cement-zirconia
+
+20
+
+5.4±1.8
+
+Distilled water in 37°C for 24 h
+
+RelyX Unicem
+
+16±1.7
+
+RelyX Arc
+
+1±0.8
+
+Distilled water at 37°C for 6 months
+
+RelyX Unicem
+
+1.1±1.7
+
+Sabatini.[]
+
+RelyX Unicem
+
+SBS
+
+Composite- cement-zirconia
+
+12
+
+18.7±1.3
+
+Air abraded with 50 µm aluminum oxide particle at 1 bar and distance of 10 mm for 10 s
+
+24 h storage dry condition at room temperature
+
+multilink automix
+
+21.8±2.1
+
+Maxcem Elite
+
+16.8±0.5
+
+FujiCem
+
+5.6±0.3
+
+Geramipanah.[]
+
+Panavia F2
+
+MSBS
+
+Composite- cement-ceramic
+
+10
+
+12.43±4.48
+
+Air blasted with 110 µm aluminum oxide
+
+Water pH=7 1 week
+
+RelyX Unicem
+
+13.81±2.86
+
+Calibra
+
+0.7±0.22
+
+Gomes.[]
+
+Panavia F2
+
+MTBS
+
+Composite- cement-ceramic
+
+20
+
+9.17±7.97
+
+Air abrasion with 25/50/110 µm AlOparticle
+
+24 h
+
+Bifix
+
+0.86±3.28
+
+Keul.[]
+
+Rely X Unicem
+
+SBS
+
+Cement-zirconia
+
+10
+
+8.6±2.4
+
+1 day
+
+G-Cem
+
+8.5±1.3
+
+Panavia21
+
+6±2.3
+
+Rely X Unicem
+
+2.7±2.9
+
+25 day + thermocycle
+
+G-Cem
+
+4.2±4.5
+
+Panavia21
+
+4.6±2.6
+
+Gökkaya.[]
+
+Rely X Unicem
+
+12
+
+1.4±0.7
+
+2 h
+
+Rely X Unicem
+
+2.6±0.7
+
+1500 TC
+
+Panavia
+
+4±0.4
+
+2 h
+
+Panavia
+
+7.5±1
+
+1500 TC
+
+Rely X Unicem
+
+2.4±0.7
+
+13,500 TC
+
+Panavia
+
+3.3±0.6
+
+13,500 Tc
+
+de Sá Barbosa.[]
+
+Bis-Cem
+
+MSBS
+
+Cement-zirconia
+
+10
+
+32.2±4
+
+Water storage for 24 h
+
+G-Cem
+
+39.8±6.7
+
+RelyX Unicem
+
+42±3.3
+
+SeT
+
+36±7
+
+RelyX ARC
+
+26.9±4.8
+
+Bis-Cem
+
+9±5.3
+
+Water storage for 1 year
+
+G-Cem
+
+19±7.3
+
+RelyX Unicem
+
+3.8±2.3
+
+SeT
+
+6.5±5.2
+
+RelyX ARC
+
+9.9±4
+
+Peutzfeldt.[]
+
+De trey zinc
+
+SBS
+
+D-C
+
+8
+
+2.2±0.5
+
+Air abraded with 50 µm alumina particles for 10 s at a distance of 10 cm and pressure of 4.2 bar
+
+1-week water storage
+
+Fuji I
+
+4.6±2.6
+
+Fuji plus
+
+9.2±3.2
+
+Variolink II
+
+6.5±1.9
+
+Panavia F2
+
+15±3.7
+
+Multilink
+
+6.2±1.3
+
+RelyX Unicem
+
+13.2±3.2
+
+Maxcem
+
+4.2±2.1
+
+Miragaya.[]
+
+RelyX Unicem
+
+MSBS
+
+Cement-zirconia
+
+20
+
+16±1.7
+
+Water storage at 37°C for 24 h
+
+RelyX ARC
+
+5.4±1.8
+
+Zhang and Degrange[]
+
+Variolink II
+
+SBS
+
+Dentin-cement
+
+10
+
+15.01±2.8
+
+AlOsandblasting/800 Sic
+
+1-day water storage
+
+Multilink
+
+21.124±6.6
+
+RelyX Unicem
+
+21.117±6.6
+
+Maxcem
+
+7.76±1.4
+
+Multilink spirit
+
+17.01±2.6
+
+Attia[]
+
+RMGI
+
+mTBS
+
+Composite- cement-zirconia
+
+7
+
+18±4.3
+
+Airborne particle abrasion (50 µm ALOparticle)/silica coating/silica coating and silane application
+
+1 week
+
+RMGI
+
+7.3±3.5
+
+1 month + 7500 TC
+
+RelyX Unicem
+
+19.1±4.4
+
+1 week
+
+RelyX Unicem
+
+9.2±3.9
+
+1 month + 7500 TC
+
+Passos.[]
+
+Panavia F2
+
+SBS
+
+Cement-zirconia
+
+12
+
+5.87±4.35
+
+24 h water storage
+
+Rely x u100
+
+3.64±2.18
+
+Maxcem
+
+0.52±1.26
+
+Variolink II
+
+0.52±0.62
+
+Panavia F2
+
+1.22±1.22
+
+90-day water storage + 12,000tc
+
+Rely x u100
+
+0
+
+Maxcem
+
+0
+
+Variolink II
+
+0
+
+Capa.[]
+
+RelyX Unicem
+
+SBS
+
+Composite- cement-zirconia
+
+10
+
+6.55±3.82
+
+24 h storage
+
+FujiCem
+
+5.04±2.28
+
+Senyilmaz.[]
+
+Panavia F
+
+SBS
+
+Composite- cement-zirconia
+
+10
+
+3.2±1.7
+
+Aluminum grit blasting
+
+24 h-water immersion
+
+RelyX Unicem
+
+3.7±0.8
+
+Maxcem
+
+2.5±1.5
+
+Panavia F
+
+2.4±2.1
+
+Thermocycling: 1000 cycles
+
+RelyX Unicem
+
+1.4±1.6
+
+Maxcem
+
+0.2±0.6
+
+Piwowarczyk.[]
+
+Fleck’s zinc
+
+SBS
+
+Composite- cement-zirconia
+
+10
+
+1.1±0.3
+
+30 min
+
+Fuji one (GI)
+
+1.9±0.5
+
+Ketacem (GI)
+
+2.4±0.3
+
+Fuji plus
+
+5±0.8
+
+Fuji cem
+
+2.5±0.6
+
+Rely x luting
+
+1.9±0.3
+
+Rely x ARC
+
+4.6±0.9
+
+Panavia f
+
+6.6±1.7
+
+Variolink II
+
+6.9±1.6
+
+Compolute
+
+6.3±1.4
+
+Rely x unicem
+
+9.7±2.1
+
+Fleck’s zinc
+
+0
+
+14 days + 1000 thermocycle
+
+Fuji one (GI)
+
+0
+
+Ketac cem (GI)
+
+0
+
+Fuji plus
+
+0.3±0.4
+
+Fuji cem
+
+0
+
+Rely x luting
+
+1.5±1.3
+
+Rely x ARC
+
+4.8±1.8
+
+Panavia f
+
+8.3±2.4
+
+Variolink II
+
+2.8±0.9
+
+Compolute
+
+0
+
+Rely x unicem
+
+12.7±2.3
+
+Peçanha. (2022)[]
+
+Rely X u100
+
+MSBS
+
+Cement-zirconia
+
+5
+
+9.9±2.2
+
+No treatment
+
+Stored in distilled water at 37°C for 24 h
+
+Rely X u100
+
+10.3±1.6
+
+Air abrasion
+
+Panavia f
+
+7.61±2.0
+
+No treatment
+
+Panavia f
+
+10.1±2.1
+
+Air abrasion
+
+Panavia f
+
+1.08±1.1
+
+No treatment
+
+3000 cycles with alternating temperatures of 5°C and 55°C
+
+Panavia f
+
+2.77±2.3
+
+Air abrasion
+
+Rely X u100
+
+2.83±2.2
+
+No treatment
+
+Rely X u100
+
+9.6±2.2
+
+Air abrasion
+
+Sakrana.[]
+
+Panavia F2.0
+
+TBS
+
+Composite- ceramic-cement
+
+10
+
+26.6±4.5
+
+Airborne particle abrasion with 50 µm AlO
+
+Immediate bond strength
+
+Panavia SA
+
+33.5±2.8
+
+Before thermal aging
+
+TheraCem
+
+15.2±1.7
+
+Panavia F2.0
+
+20.6±2.5
+
+After thermal aging
+
+Panavia SA
+
+21.5±7.3
+
+After thermal aging
+
+TheraCem
+
+15.4±1.8
+
+After thermal aging
+
+Woo. (2021)[]
+
+Speed Cem plus
+
+SBS
+
+Cement-zirconia
+
+12
+
+27.52±8.15
+
+Airborne particle abrasion with 50 µm AlO
+
+Immediate bond strength
+
+Liu.[]
+
+Panavia F
+
+SBS
+
+Cement-zirconia
+
+20
+
+24.35±1.45
+
+Air abrasion with 50 µm diameter alumina particles
+
+Stored in distilled water at 37°C for 24 h
+
+Clearfi SA
+
+20.59±1.0
+
+Multi link speed
+
+33.7±0.92
+
+Relyx Unicem
+
+17.19±1.12
+
+Panavia F
+
+13.84±1.02
+
+5000 cycles with alternating temperatures of 5°C and 55°C
+
+Clearfi SA
+
+20.13±0.88
+
+Multi link speed
+
+21.29±0.82
+
+Relyx Unicem
+
+13.74±1.09
+
+De angelis.[]
+
+Panavia V5
+
+SBS
+
+Cement-zirconia
+
+10
+
+22.3±3.3
+
+Air abrasion with 50 µm diameter alumina particles
+
+5000 thermal cycles in a 5°C–55°C range (30 s dwell time; 5 s transport time)
+
+Panavia SA
+
+21.5±2.9
+
+RelyX Unicem 2
+
+12.7±2.6
+
+Yang. (2020)[]
+
+Multilink speed
+
+SBS
+
+Cement-zirconia
+
+15
+
+8.89±0.97
+
+Air-abrasion with 50 µm diameter alumina particles
+
+Stored in 37°C water
+
+RelyX U200
+
+7.34±1.3
+
+Dantas.[]
+
+RelyX ARC
+
+SBS
+
+Ceramic-cement
+
+10
+
+0.35±0.45
+
+No treatment
+
+Stored for 30 days at 37°C in distilled water
+
+RelyX ARC
+
+2.46±1.56
+
+Aluminum oxide particles
+
+RelyX U200
+
+0.14±0.1
+
+No treatment
+
+RelyX U200
+
+10.9±5.65
+
+Aluminum oxide particles
+
+RESULTS
+
+Risk of bias
+
+Of the total of 33 articles, only one study presented a low risk of bias, 16 studies showed medium risk of bias, and 16 studies showed high risk of bias. The results are given in, according to the parameters considered in the analysis.
+
+Table 3
+
+Risk of bias assessment
+
+Teeth randomization
+
+Teeth free of caries or restoration
+
+Materials used according to the manufacturer’s instructions
+
+Adhesive procedures performed by the same operator
+
+Sample size calculation
+
+Blinding of the operator of the testing machine
+
+Risk of bias
+
+Petrauskas A,. (2018)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+M Gundogdu. (2018)
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Rebholz. (2017)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Lin-jieli (2013)
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+Yes
+
+High
+
+Gomes. (2013)
+
+Yes
+
+No
+
+Yes
+
+No
+
+Yes
+
+Yes
+
+Medium
+
+Keul. (2013)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+High
+
+Gokkaya 2013
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Zhang. (2010)
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Eratilla. (2016)
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Medium
+
+Geramipanah. (2013)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+High
+
+Peutzfeldt. (2011)
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+No
+
+Medium
+
+Passos. (2010)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Senyilmaz. (2007)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+High
+
+Piwowarczyk (2005)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Stefan. (2016)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Khalil. (2015)
+
+No
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+No
+
+Medium
+
+da Silva. (2014)
+
+No
+
+No
+
+Yes
+
+No
+
+Yes
+
+No
+
+High
+
+Desabarbosa. (2013)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Miragaya. (2011)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Tunc EP. (2017)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+High
+
+Alvez. (2016)
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Low
+
+Ayyilidiz. (2015)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+High
+
+Lee. (2015)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Sabatini. (2013)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Capa. (2009)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+Yes
+
+High
+
+ATTIA. (2009)
+
+No
+
+Yes
+
+Yes
+
+No
+
+No
+
+Yes
+
+Medium
+
+Pecanha. (2021)
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Medium
+
+Sakrana. (2020)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Woo. (2020)
+
+No
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Xiu ju liu. (2020)
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Medium
+
+De angelis. (2020)
+
+No
+
+No
+
+Yes
+
+Yes
+
+No
+
+Yes
+
+Medium
+
+Yang. (2020)
+
+Yes
+
+No
+
+No
+
+No
+
+No
+
+No
+
+High
+
+Dantas. (2019)
+
+Yes
+
+No
+
+Yes
+
+No
+
+No
+
+No
+
+High
+
+Article search and meta-analysis
+
+The PRISMA flowchart of the articles included is shown in. Electronic and manual searches up to November 1, 2021, yielded a total of 858 articles, of which 422 were from ISI, 145 from PubMed, 164 from Scopus, 114 from Embase, and 13 from Cochrane. After removing duplicates, 376 articles remained. Further review of the title and abstract of the articles resulted in the remaining 109 articles, of which 43 were selected for full-text review. After full-text review 17 studies were excluded because they did not follow the manufacturer’s instructions or the statistical analysis information was incomplete. The number of studies in each group is presented in. All articles were in English.
+
+Group 1: Immediate bond strength of self-etch cement-zirconia versus self-adhesive cement-zirconia.
+
+In this group, 15 eligible articles in 32 categories were imported. Thevalue of Cochran’sandtests was 0.00 and 93.50, respectively, so random-effect model was used to analyze the data. This meta-analysis showed that there was no significant difference in the immediate bond strength of self-etch cement-zirconia and self-adhesive cement-zirconia (= 0.055) [].
+
+Group 2: Delayed bond strength of self-etch cement-zirconia versus self-adhesive cement-zirconia.
+
+In this group, 14 eligible articles in 29 categories were imported. Thevalue of Cochran’sandtests was 0.00 and 92.68, respectively, so a random-effect model was used to analyze the data. Based on the results, there was no significant difference in the delayed bond strength of self-etch cement-zirconia and self-adhesive cement-zirconia (= 0.143) [].
+
+Group 3: Immediate bond strength of total-etch cement-zirconia versus self-adhesive cement-zirconia.
+
+In this group, 9 eligible articles in 19 categories were imported. Thevalue of Cochran’sandtests was, respectively, so random-effect model was used to analyze the data. Based on the results, the immediate bond strength of total-etch cement-zirconia was significantly lower than that of self-adhesive cement-zirconia (= 0.000) [].
+
+Group 4: Delayed bond strength of total-etch cement-zirconia versus self-adhesive cement-zirconia.
+
+In this group, 9 eligible articles in 16 categories were imported. The result of Cochran’sandtests was respectively, so random effect was used to analyze the data. Based on the results, the delayed bond strength of self-etch cement-zirconia was significantly lower than that of self-adhesive cement-zirconia (= 0.000) [].
+
+The comparison of the bond strength of self-adhesive resin cement to zirconia with resin-modified glass ionomer, glass ionomer, and zinc phosphate cement was performed systemically. Descriptive analysis of the selected articles showed that the bond strength of self-adhesive resin cement to zirconia was significantly higher than that of resin-modified glass ionomer, glass ionomer, and zinc phosphate cement (< 0.001).
+
+Figure 1
+
+Preferred reporting items for systematic reviews and meta-analyses Flow Diagram. GI: Glass Ionomer, RMGI: Resin Modified Glass Ionomer
+
+Figure 2
+
+Forest plot of immediate bond strength of self-etch cement-zirconia versus self-adhesive cement-zirconia. CI: Confidence interval
+
+Figure 3
+
+Forest plot of delayed bond strength of self-etch cement-zirconia versus self-adhesive cement-zirconia. CI: Confidence interval
+
+Figure 4
+
+Forest plot of immediate bond strength of total-etch cement-zirconia versus self-adhesive cement-zirconia. CI: Confidence interval
+
+Figure 5
+
+Forest plot of delayed bond strength of total-etch cement-zirconia versus self-adhesive cement-zirconia. CI: Confidence interval
+
+DISCUSSION
+
+Today, there is a wide range of materials available for cementing zirconia restorations on dental substrate.[] These include conventional and resin-modified glass ionomer cement, zinc phosphate, total-etch and self-etch resin cement, and self-adhesive cement. The present study compared the bond strength of self-adhesive and self-etch or total-etch resin cement to zirconia in a meta-analysis. The bond strength of the conventional cement (GI, RMGI, and zinc phosphate) was systematically analyzed. It was concluded that self-etch and self-adhesive resin cement achieves the highest immediate and delayed bond strength to zirconia.
+
+There are three types of bonding interfaces in the studies included in this meta-analysis: cement-zirconia, dentin-cement-zirconia, and composite-cement-zirconia. Since in most of the studies, adhesive failures were reported and only one study[] showed cohesive failure in cement, the studies were not further divided into subgroups based on the interface.
+
+Piwowarczyk.[] found that resin-modified glass ionomer cement do not form a permanent bond with zirconia and that self-etch resin cement containing MDP monomer gives satisfactory results in immediate and delayed bonding. This was confirmed by Lüthy.,[] who showed that the bond strength of glass-ionomer cement and Bis-GMA-based composites is lower than that of self-etch resin cement, especially after thermocycling.
+
+On the other hand, Palacios.[] showed in a clinical trial that self-etch resin, RMGI, and self-adhesive resin cement form sufficient adhesion to the zirconia copings, which is consistent with the results of Ernst.[] However, in these studies, the preparation design as a retentive factor has made it impossible to accurately assess the bonding properties of different cement. Wegner and Kern[] reported that Bis-GMA-based cement do not provide durable bond. Although surface treatments improved initial bond strength, their effect decreased over time. Only resin cement with phosphatic monomer resulted in acceptable and durable bond strength after thermocycling.
+
+Most of the articles evaluated in this meta-analysis used RelyX Unicem (the self-adhesive cement) as the cement, which contains 10-MDP monomer. Multiple studies have shown that this monomer has the ability to chemically bond to oxides on the surface of zirconia.[]
+
+Total-etch resin cement do not have phosphate monomers in their composition and therefore do not bond with zirconia oxides, which may be a reason for the lower bond strength of these cement compared to self-adhesive resin cement.[] Furthermore, the presence of 10-MDP in self-adhesive cement, through the formation of nanolayers, makes these cement more resistant to thermal cycles and hydrolytic degradation.[] A key factor for bonding to zirconia is the presence of 10-MDP monomer; studies have shown that resin cement without 10-MDP have weaker bond compared to the cement containing 10-MDP.[] Petrauskas.[] showed that the bond strength of resin cement to zirconia increased with sandblasting the surface with aluminum oxide and using the cement containing 10-MDP monomer.
+
+Many studies have shown that total-etch systems offer higher bond strengths to tooth structure due to etching and removing the smear layer and creating micromechanical retention in dentinal tissue.[] With self-adhesive cement, due to the lack of etching and hybrid layer formation, there is no micromechanical trapping.
+
+It is also noteworthy that in evaluating the bond strength of resin cement to zirconia, when zirconia is bonding to tooth tissue, there are actually two interfaces, namely, the cement-zirconia interface and the cement-dentin interface. When force is applied to evaluate the bond, the weaker interface usually breaks first. Numerous studies have shown that the cement-dentin interface is weaker and debonding usually occurs in this area.[] This can be a confounding factor that prevents accurate evaluation of the bond of these cement to zirconia when tooth-cement-zirconia model is selected for testing.
+
+In this study, the long-term adhesion of self-adhesive cement was higher than that of the total-etch cement. Da Silva.[] studied the effect of water storage on the bond strength of RelyX Unicem and the total-etch cement RelyX ARC and reported that the bond strength was 2–3 times higher in self-adhesive cement than that of total-etch cement after 24 h of storage. The bond strength of both cement types decreased significantly after 6 months of storage in water, which was attributed to the poor wetting properties of the untreated zirconia ceramic surface. However, self-adhesive cement with surface treatment and primer MDP had twice the bond strength of total-etch cement after 6 months of storage in water, which generally suggests that self-adhesive cement offers more reliable adhesion to zirconia. Liu. and Vrochari. showed that due to the presence of hydrophilic monomers, self-adhesive cement have more water absorption than conventional resin cement and are therefore more prone to hydrolytic degradation.[] de Sá Barbosa. showed that the bond strength of RelyX Unicem decreased by 81% after 1 year of storage in water. It was found that RelyX Unicem applied to fractured dentin only interacts very superficially without any appearance of a hybrid layer or deep resin tags.[] This is in contrast to other studies showing that the bond strength of RelyX Unicem does not decrease with storage; Sousa. observed no decrease in bond strength of 10-MDP inductive adhesive cement after 60 days in water and 5000 thermocycles.[] The reason for such a discrepancy may be the longer storage time in this study compared to others, allowing more time for water to penetrate the graft surface. Another reason may be the smaller dimensions of the samples in this study, leading to more water infiltration to the surface.[] Some other studies have shown that without surface preparation and with the use of silane, self-adhesive cement cannot form a durable bond. On the other hand, in this study, the results showed that the immediate and delay bond strength of the self-adhesive resin cement to zirconia has no significant difference with the bond strength of self-etch resin cement to zirconia. It should be noted that with self-adhesive cement, there is no demineralization of the dentin and minimal hybrid layer formation, and therefore the bond only relies on the chemical bond. However, in self-etch resin cement a combination of micromechanical retention and chemical bond forms the ultimate bond.[]
+
+According to Attia, self-etch resin cement, such as Multilink Automix, contains no phosphate monomer, but dimethacrylate, Hydroxyethylmethacrylate (HEMA), and silica fillers that provide a good bond strength with zirconia similar to that of self-adhesive cement.[] In this study, the decrease in bond strength after 30 days of storage in water may be due to the loosening of the cement and the hydrolytic effect of water on the surface between the ceramic and the cement. On the other hand, some articles have reported better results using multilink self-etching cement on the zirconia surface sandblasted with aluminum particles, which is directly related to resin cement containing hydroxyethyl methacrylate, dimethacrylate, and silica filler particles. These components are responsible for increasing the flexural strength of resin cement and do not necessarily increase the bond strength of zirconia ceramics.[] Therefore, in addition to the functional monomer, the mechanical properties and flexural strength of resin cement seem also to influence the bond strength.
+
+Geramipanah. found no difference in bond strength of Unicem self-adhesive cement and Panavia F2.0 self-adhesive cement to zirconia and both showed higher bond strength than conventional resin cement with bis-GMA. The reason for such a difference was the lack of functional monomers and surface hydrophobic layer, leading to more water penetration and bond hydrolysis.[]
+
+In the present meta-analysis, the immediate and long-term bond strength of self-adhesive cement was higher than those of resin-modified glass ionomer cement. Yang.[] showed that the bond strength of RMGI cement is higher than that of cement without phosphate ester monomer. Furthermore, the bond strength of RMGI cement was stronger than that of an adhesive self-adhesive cement without MDP Esther.
+
+MDP bonding to zirconia has been shown to occur due to the dual function of the MDP molecule, including a hydroxyl group at one end of the phosphate group which forms a bond with zirconia and a saturated carbon at the other end causing additional polymerization with unsaturated carbon in the matrix during curing. However, it has been stated the use of MDP-containing primer before RMGI does not increase the bond strength of this cement. The lower bond strength of RMGI cement may be due to the inability of the composite resin in RMGI to produce sufficient unsaturated carbon for polymerization with MDP.[]
+
+A zinc phosphate cement claim that, according to the manufacturer, can be used to cement zirconia restorations. However, various studies have shown that this cement has a weaker bond than resin cement.[]
+
+The present study also systemically reviewed that self-adhesive cement has higher bond strength than zinc phosphate cement. Zinc phosphate cement only leads to micromechanical retention and does not form any chemical bond to the tooth structure and it is not water soluble. The effect of using MDP-containing primers on the bond strength of these cement to zirconia has also been studied, and it has been reported that the presence of 10-MDP monomer has no significant effect on the bond strength of zinc phosphate cement.[]
+
+CONCLUSION
+
+The immediate and delayed bond strength of self-adhesive resin cement to zirconia was significantly higher than those of total-etch resin cement. No significant difference was found between the self-etched and self-adhesive resin cement in terms of bond strength to zirconia. In addition, self-adhesive cement showed significantly higher immediate and delayed bond strengths to zirconia compared to resin-modified glass ionomer and zinc phosphate cement.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
