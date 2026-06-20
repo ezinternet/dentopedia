@@ -234,12 +234,12 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 
 ## Related Papers
 
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — foundational bundle bone biology (2-phase resorption mechanism); all ARP rationale derives from this framework
-- [[bone-regeneration/steigmann-2022-socket-buccal-bone-classification]] — ST1–ST3 classification and decision tree; primary anatomy-based ARP selection tool
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — foundational bundle bone biology (2-phase resorption mechanism); all ARP rationale derives from this framework
+- [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — ST1–ST3 classification and decision tree; primary anatomy-based ARP selection tool
 - [[bone-regeneration/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla]] — BCD/BCA CBCT predictors; threshold values for graft resorption prediction
-- [[bone-regeneration/covani-2022-alveolar-bone-remodeling-collagen-socket]] — micro-CT collagen plug mechanism (clot stabilization, not space maintenance); explains timing of benefit
-- [[bone-regeneration/nisar-2020-collagen-plug-socket-preservation]] — collagen plug + PRP: height ✓, width ✗; defines the ceiling of plug-only ARP
-- [[bone-regeneration/kollati-2019-cerabone-prf-socket-preservation-rct]] — Cerabone + PRF + collagen plug RCT; xenograft upgrade extends ARP to bidimensional
-- [[bone-regeneration/alrayyes-2022-prf-socket-preservation-smokers-rct]] — A-PRF in smokers; collagen plug insufficient in high-risk population
-- [[bone-regeneration/kim-2024-collagenated-xenograft-arp-rct]] — DBBM-C ± FGG RCT (SNU); late-phase volume maintenance + FGG crestal advantage + ISQ ≥70 safety
-- [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA of 9 RCTs; 1.13 mm mean width gain; 6–19% augmentation-free placement probability
+- [[bone-regeneration/ridge-preservation/covani-2022-alveolar-bone-remodeling-collagen-socket]] — micro-CT collagen plug mechanism (clot stabilization, not space maintenance); explains timing of benefit
+- [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]] — collagen plug + PRP: height ✓, width ✗; defines the ceiling of plug-only ARP
+- [[bone-regeneration/ridge-preservation/kollati-2019-cerabone-prf-socket-preservation-rct]] — Cerabone + PRF + collagen plug RCT; xenograft upgrade extends ARP to bidimensional
+- [[bone-regeneration/ridge-preservation/alrayyes-2022-prf-socket-preservation-smokers-rct]] — A-PRF in smokers; collagen plug insufficient in high-risk population
+- [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] — DBBM-C ± FGG RCT (SNU); late-phase volume maintenance + FGG crestal advantage + ISQ ≥70 safety
+- [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA of 9 RCTs; 1.13 mm mean width gain; 6–19% augmentation-free placement probability

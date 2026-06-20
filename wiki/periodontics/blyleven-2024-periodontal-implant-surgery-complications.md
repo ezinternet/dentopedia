@@ -49,7 +49,7 @@ Single-investigator retrospective chart review of 1135 periodontal and dental im
 ## Related Papers
 - [[sinus-lift/lateral/yang-2024-sinus-septa-wall-thickness-perforation-risk]] — meta-analysis of anatomic risk factors for SM perforation during lateral SFA.
 - [[sinus-lift/lateral/turker-2026-maxillary-sinus-septa-perforation-risk]] — CBCT-based SM perforation risk classification.
-- [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] — risks/benefits of grafting + membranes.
+- [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] — risks/benefits of grafting + membranes.
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — periodontal procedure outcomes context.
 
 ## Clinical Implications (Author Memo)

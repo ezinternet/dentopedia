@@ -39,5 +39,5 @@ Periodontology 2000 narrative review (Araújo et al. 2019) compiling Latin-Ameri
 ## Related Papers
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — foundational dog model.
 - [[immediate-implant/botticelli-2004-immediate-implant-hard-tissue]] — buccal gap behaviour.
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — extraction-only ridge changes.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — extraction-only ridge changes.
 - [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — esthetic-zone CBCT mapping.

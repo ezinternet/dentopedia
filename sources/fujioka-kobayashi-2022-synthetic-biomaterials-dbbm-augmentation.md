@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Tests whether adding resorbable synthetic biomaterials (α-TCP or biphasic calcium phosphate, BBCP) to DBBM overcomes DBBM's slow resorption problem while maintaining volume. Addresses the hybrid-grafting strategy for bone augmentation — relevant to understanding DBBM's limitations and how synthetic adjuncts affect the resorption/bone-formation balance. Extends [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] by probing the material-science side of why DBBM may underperform as a sole graft.
+Tests whether adding resorbable synthetic biomaterials (α-TCP or biphasic calcium phosphate, BBCP) to DBBM overcomes DBBM's slow resorption problem while maintaining volume. Addresses the hybrid-grafting strategy for bone augmentation — relevant to understanding DBBM's limitations and how synthetic adjuncts affect the resorption/bone-formation balance. Extends [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] by probing the material-science side of why DBBM may underperform as a sole graft.
 
 ## One-line Summary
 

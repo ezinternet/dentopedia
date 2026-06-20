@@ -43,4 +43,4 @@ Beagle dog (n=5) experimental study placing SLA-surface implants immediately in 
 
 ## Related Papers
 - [[immediate-implant/botticelli-2004-immediate-implant-hard-tissue]] — human in-vivo study, same conclusion
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — extraction-only (no implant) controls
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — extraction-only (no implant) controls

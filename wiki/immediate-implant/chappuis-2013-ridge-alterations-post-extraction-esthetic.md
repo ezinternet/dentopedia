@@ -42,7 +42,7 @@ CBCT 3D (39명, 8주): 얇은 협측벽(≤1mm) 수직소실 중앙값 7.5mm vs 
 - 위험 구역(risk zone): 순측 중앙부 — 이 부위 골이식 집중 필요
 
 ## Related Papers
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 동물실험 순측골 흡수 2단계 기전
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 동물실험 순측골 흡수 2단계 기전
 - [[immediate-implant/covani-2010-alveolar-ridge-remodelling-single-tooth]] — 순측 중앙부 39% 흡수 임상 확인
 - [[immediate-implant/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — 박벽형을 Type 1 위험인자로 분류
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — 현재 ITI 권고

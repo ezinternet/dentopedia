@@ -49,8 +49,8 @@ Mouse model study showing that salt-inducible kinases SIK2/SIK3 (downstream of P
 
 ## 6. Related Work
 - [[bone-biology/kondo-2022-current-perspectives-residual-ridge]] — complementary mechanistic angle on alveolar bone biology (oral barrier osteoclasts).
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — classical histological timeline that SIK genetic studies seek to mechanistically explain.
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — phenotype Tokavanich's mouse model recapitulates.
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — classical histological timeline that SIK genetic studies seek to mechanistically explain.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — phenotype Tokavanich's mouse model recapitulates.
 
 ## 7. Glossary
 - **SIK (Salt-Inducible Kinase)**: AMPK-family serine/threonine kinase; SIK2/SIK3 are key downstream regulators of PTH/PTHrP signaling.

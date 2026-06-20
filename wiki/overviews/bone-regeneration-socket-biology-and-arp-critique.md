@@ -61,11 +61,11 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] | animal (dog) | **2단계 흡수 기전 최초 기술** — Phase 1 bundle bone 소실 (협측 치조정의 유일 구성), Phase 2 외표면 파골세포 흡수. 즉시식립 단독은 협측 붕괴 예방 불가 |
-| [[bone-regeneration/araujo-2009-ridge-alterations-flap-vs-flapless]] | animal (dog, split-mouth) | **"Flapless = ridge 보존" myth 반박**. flap 유무가 ridge 흡수 크기를 의미있게 바꾸지 않음. Flapless 의 가치는 vascular preservation 가설 아닌 술자·환자 부담 감소 |
-| [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] | animal (dog, 9-time-point) | **표준 timeline 확립**: 혈병 (D1-3) → PCT (D7) → 신생골 (D14) → 광화 정점 88% (D30) → 골수 85% (D180). 4단계 모델. GBR·ARP·즉시식립 baseline reference |
-| [[bone-regeneration/schropp-2003-bone-healing-soft-tissue]] | prospective (인간 n=46, 12mo) | **인간 ridge 흡수 가장 인용도 높은 baseline** — 협설폭 ~50% 감소, 2/3 가 첫 3개월. ARP intervention 비교 spine |
-| [[bone-regeneration/tomlin-2014-ridge-preservation-implant-therapy-review]] | narrative-review | 자연치유 = 수직 ~1mm + 수평 4-6mm (50%) 손실. 모든 보존술 > 혈병 단독. 단일 최우수 기법 없음 |
+| [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] | animal (dog) | **2단계 흡수 기전 최초 기술** — Phase 1 bundle bone 소실 (협측 치조정의 유일 구성), Phase 2 외표면 파골세포 흡수. 즉시식립 단독은 협측 붕괴 예방 불가 |
+| [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] | animal (dog, split-mouth) | **"Flapless = ridge 보존" myth 반박**. flap 유무가 ridge 흡수 크기를 의미있게 바꾸지 않음. Flapless 의 가치는 vascular preservation 가설 아닌 술자·환자 부담 감소 |
+| [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] | animal (dog, 9-time-point) | **표준 timeline 확립**: 혈병 (D1-3) → PCT (D7) → 신생골 (D14) → 광화 정점 88% (D30) → 골수 85% (D180). 4단계 모델. GBR·ARP·즉시식립 baseline reference |
+| [[bone-regeneration/ridge-preservation/schropp-2003-bone-healing-soft-tissue]] | prospective (인간 n=46, 12mo) | **인간 ridge 흡수 가장 인용도 높은 baseline** — 협설폭 ~50% 감소, 2/3 가 첫 3개월. ARP intervention 비교 spine |
+| [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] | narrative-review | 자연치유 = 수직 ~1mm + 수평 4-6mm (50%) 손실. 모든 보존술 > 혈병 단독. 단일 최우수 기법 없음 |
 | [[bone-regeneration/sculean-2015-wound-models-periodontal-bone-regeneration]] | narrative-review (Perio 2000) | **연구 모델 총론** — 세포배양 → 동물 → 임상. GTR·EMD 근거 충분. BMP-2 수직증대 유효. PDGF RCT 지지. 동물→인체 번역 한계 |
 | [[bone-regeneration/lee-2026-animal-models-bone-regeneration-review]] | narrative-review (JPIS 2026, SNU) | 골재생 전임상 동물모델 hierarchy — 설치류 (스크리닝) → 토끼 (중간) → 개 (인체유사) → 미니돼지 (최고유사). 번역 한계·표준화 강조 |
 
@@ -82,10 +82,10 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[bone-regeneration/mardas-2023-alveolar-ridge-preservation-overtreatment]] | narrative-review (Perio 2000) | **ARP 4 목표별 evidence grading**. 차원 변화 제한 ✓, 신생골 형성 ✗ (잔류 입자 지속), 연조직 윤곽 ~ (sealing 기법만), 추가 증대 없이 식립 가능 ~. **과잉치료 시나리오 명시** |
-| [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] | narrative-review + case (BDJ) | **수정주의 counterpoint**. 5-13y 후 xenograft 만성 섬유 포함·peri-implantitis 양상 case. "통계적 dimensional preservation" ≠ "long-term patient benefit". 상업적 압력 (BSM 시장 ARP 29%) 환기 |
-| [[bone-regeneration/che-2024-alveolar-ridge-preservation-review]] | narrative-review (KDA J 2024) | granulation 제거 → 적절 이식재 → socket sealing ideal protocol. 그러나 이식재·식립 timing 명확 가이드라인 부재 |
-| [[bone-regeneration/jung-2018-alveolar-ridge-preservation-esthetic-zone]] | narrative-review (Perio 2000) | **심미부위 3-window framework**: 6-8주 (연조직만) / 4-6mo (경+연조직) / 6mo+ (경조직만). 협측 골판 integrity · 치은 phenotype 이 선택 driver. ITI Type 1/2/3/4 와 매칭 |
+| [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] | narrative-review (Perio 2000) | **ARP 4 목표별 evidence grading**. 차원 변화 제한 ✓, 신생골 형성 ✗ (잔류 입자 지속), 연조직 윤곽 ~ (sealing 기법만), 추가 증대 없이 식립 가능 ~. **과잉치료 시나리오 명시** |
+| [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] | narrative-review + case (BDJ) | **수정주의 counterpoint**. 5-13y 후 xenograft 만성 섬유 포함·peri-implantitis 양상 case. "통계적 dimensional preservation" ≠ "long-term patient benefit". 상업적 압력 (BSM 시장 ARP 29%) 환기 |
+| [[bone-regeneration/ridge-preservation/che-2024-alveolar-ridge-preservation-review]] | narrative-review (KDA J 2024) | granulation 제거 → 적절 이식재 → socket sealing ideal protocol. 그러나 이식재·식립 timing 명확 가이드라인 부재 |
+| [[bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]] | narrative-review (Perio 2000) | **심미부위 3-window framework**: 6-8주 (연조직만) / 4-6mo (경+연조직) / 6mo+ (경조직만). 협측 골판 integrity · 치은 phenotype 이 선택 driver. ITI Type 1/2/3/4 와 매칭 |
 
 **임상 ladder — when NOT to grafte**:
 
@@ -111,9 +111,9 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[bone-regeneration/kang-2025-implant-failure-predictors-ridge-preservation]] | retrospective (n=528 임플란트, 412 환자, 3.5y, JPIS 2025) | **PBE < 1.1 mm → HR 2.50 (95% CI 1.34-4.67, P=0.004)**. 누적 성공률 89.0%. 다른 demographic/clinical/radiographic 변수 NS. Cox model 단일 유의 예측인자 |
-| [[bone-regeneration/jung-2025-arp-peri-implantitis-isq-preclinical]] | animal (beagle n=6) | **ARP vs 자연치유 — ISQ·peri-implantitis 진행 차이 NS**. 신생골 quantity ↔ ISQ 상관 NS (all p > 0.05). ARP 가 1차 안정성·peri-implantitis 저항성을 향상시키지 않음 |
-| [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] | narrative + case | **Late xenograft failure 5-13y 후**: 섬유 포함, 비통합 입자, 만성 염증, peri-implantitis 양상. SR 에 거의 잡히지 않음 (long-term follow-up 부족) |
+| [[bone-regeneration/ridge-preservation/kang-2025-implant-failure-predictors-ridge-preservation]] | retrospective (n=528 임플란트, 412 환자, 3.5y, JPIS 2025) | **PBE < 1.1 mm → HR 2.50 (95% CI 1.34-4.67, P=0.004)**. 누적 성공률 89.0%. 다른 demographic/clinical/radiographic 변수 NS. Cox model 단일 유의 예측인자 |
+| [[bone-regeneration/ridge-preservation/jung-2025-arp-peri-implantitis-isq-preclinical]] | animal (beagle n=6) | **ARP vs 자연치유 — ISQ·peri-implantitis 진행 차이 NS**. 신생골 quantity ↔ ISQ 상관 NS (all p > 0.05). ARP 가 1차 안정성·peri-implantitis 저항성을 향상시키지 않음 |
+| [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] | narrative + case | **Late xenograft failure 5-13y 후**: 섬유 포함, 비통합 입자, 만성 염증, peri-implantitis 양상. SR 에 거의 잡히지 않음 (long-term follow-up 부족) |
 
 **임상 ladder — ARP 후 implant 계획 SOP**:
 1. CBCT 로 graft zone vertical extent 측정 (보통 socket 깊이 ~10-12 mm).
@@ -132,9 +132,9 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] | animal (rabbit calvaria, n=8, 8/12wk) | **이종골 head-to-head**: Bio-Oss = Bone-Fill (둘 다 신생골 형성 양호) > Gen-Ox = 혈병 단독. "이종골은 다 같다" 가정 반증 |
-| [[bone-regeneration/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] | in-vivo (인간 n=7, 6mo) | DBBM + 돼지 collagen 막 — 폭 1.21 mm · 높이 0.46 mm 흡수. 신생골 16%, 잔류 이종골 32%. 6mo 후에도 잔류 입자 1/3. **Mardas 2023 의 "vital bone 미향상" 주장 직접 데이터** |
-| [[bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] | retrospective (n=24, 4mo, 조직형태계측) | **Bio-Oss + Calcium Sulphate (CalMatrix) 50:50** vs **Bio-Oss 단독** — vital bone 62.5% vs 31.25%, acellular bone 5% vs 32.91%. 빠르게 흡수되는 carrier 가 4mo 시점 신생골 quality 유의하게 개선 |
-| [[bone-regeneration/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] | narrative-review | PRF + 골이식 병용 — 성장인자 방출 (PDGF, TGF-β, VEGF) + fibrin scaffold 로 연·경조직 치유 가속 추정 |
+| [[bone-regeneration/ridge-preservation/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] | in-vivo (인간 n=7, 6mo) | DBBM + 돼지 collagen 막 — 폭 1.21 mm · 높이 0.46 mm 흡수. 신생골 16%, 잔류 이종골 32%. 6mo 후에도 잔류 입자 1/3. **Mardas 2023 의 "vital bone 미향상" 주장 직접 데이터** |
+| [[bone-regeneration/ridge-preservation/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] | retrospective (n=24, 4mo, 조직형태계측) | **Bio-Oss + Calcium Sulphate (CalMatrix) 50:50** vs **Bio-Oss 단독** — vital bone 62.5% vs 31.25%, acellular bone 5% vs 32.91%. 빠르게 흡수되는 carrier 가 4mo 시점 신생골 quality 유의하게 개선 |
+| [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] | narrative-review | PRF + 골이식 병용 — 성장인자 방출 (PDGF, TGF-β, VEGF) + fibrin scaffold 로 연·경조직 치유 가속 추정 |
 
 **임상 ladder — adjunct 선택**:
 1. **표준 case (4벽 socket + immediate implant 6mo+ 지연)** → DBBM + collagen 막 단독. Adjunct 불필요.
@@ -179,26 +179,26 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 
 ### spine (본문 인용 — 미합성 흡수)
 
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 2단계 흡수 기전 landmark
-- [[bone-regeneration/araujo-2009-ridge-alterations-flap-vs-flapless]] — flapless myth 반박
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — 9-time-point dog histology
-- [[bone-regeneration/schropp-2003-bone-healing-soft-tissue]] — 인간 12mo prospective baseline
-- [[bone-regeneration/tomlin-2014-ridge-preservation-implant-therapy-review]] — 자연치유 4-6mm 손실
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 2단계 흡수 기전 landmark
+- [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — flapless myth 반박
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — 9-time-point dog histology
+- [[bone-regeneration/ridge-preservation/schropp-2003-bone-healing-soft-tissue]] — 인간 12mo prospective baseline
+- [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — 자연치유 4-6mm 손실
 - [[bone-regeneration/sculean-2015-wound-models-periodontal-bone-regeneration]] — 연구 모델 총론
 - [[bone-regeneration/lee-2026-animal-models-bone-regeneration-review]] — 동물모델 hierarchy
-- [[bone-regeneration/mardas-2023-alveolar-ridge-preservation-overtreatment]] — overtreatment 비판
-- [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — late failure case + 회의론
-- [[bone-regeneration/che-2024-alveolar-ridge-preservation-review]] — KDA J ARP review
-- [[bone-regeneration/jung-2018-alveolar-ridge-preservation-esthetic-zone]] — 심미부위 3-window framework
-- [[bone-regeneration/kang-2025-implant-failure-predictors-ridge-preservation]] — PBE 1.1 mm rule
-- [[bone-regeneration/jung-2025-arp-peri-implantitis-isq-preclinical]] — ISQ ↔ 신생골 NS
+- [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] — overtreatment 비판
+- [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — late failure case + 회의론
+- [[bone-regeneration/ridge-preservation/che-2024-alveolar-ridge-preservation-review]] — KDA J ARP review
+- [[bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]] — 심미부위 3-window framework
+- [[bone-regeneration/ridge-preservation/kang-2025-implant-failure-predictors-ridge-preservation]] — PBE 1.1 mm rule
+- [[bone-regeneration/ridge-preservation/jung-2025-arp-peri-implantitis-isq-preclinical]] — ISQ ↔ 신생골 NS
 - [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] — 이종골 head-to-head
-- [[bone-regeneration/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] — DBBM 6mo histology
-- [[bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] — CalMatrix vital bone↑
-- [[bone-regeneration/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — PRF + 골이식
+- [[bone-regeneration/ridge-preservation/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] — DBBM 6mo histology
+- [[bone-regeneration/ridge-preservation/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] — CalMatrix vital bone↑
+- [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — PRF + 골이식
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — ridge split case
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — peri-implantitis GBR digital
-- [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 시간별 흡수 곡선 SR+MA (correct stem)
+- [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 시간별 흡수 곡선 SR+MA (correct stem)
 
 ### Additional Spokes — bone biology basic science (sub-cat bone-biology)
 

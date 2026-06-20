@@ -45,7 +45,7 @@ Companion review to Buser 2017 (same Periodontol 2000 issue), synthesizing anima
 - 3-month window is critical — most resorption occurs here
 
 ## Related Papers
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — original beagle dog extraction model
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — original beagle dog extraction model
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — immediate implant + bundle bone resorption
 - [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — CBCT 3D; thin wall = 7.5mm vertical loss
 - [[immediate-implant/buser-2017-implant-placement-timing-post-extraction-esthetic]] — companion: when immediate, early, late?

@@ -157,7 +157,7 @@ Clinicians reading PRF studies should discriminate: (a) solid PRF vs liquid PRF 
 
 - [[bone-regeneration/chakar-2014-dbbm-bcp-platelet-lysate-rabbit]] — rabbit 6-week critical-size defect: BCP +70% new bone vs DBBM; APL adds no benefit to either
 - [[bone-regeneration/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation]] — rat 4-week calvarial: DBBM alone < empty defect; α-TCP / BBCP hybrids rescue bone formation
-- [[bone-regeneration/van-orten-2024-species-specific-collagen-dbbm-arp]] — human prospective ARP: C-DBBM block (95% DBBM + 5% bovine collagen) 0% GBR at implant placement
+- [[bone-regeneration/ridge-preservation/van-orten-2024-species-specific-collagen-dbbm-arp]] — human prospective ARP: C-DBBM block (95% DBBM + 5% bovine collagen) 0% GBR at implant placement
 - [[bone-regeneration/idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr]] — SR 7 RCTs (all PRF): no significant PRF+DBBM benefit in sinus lift; GBR ridge context shows residual graft reduction
 - [[bone-regeneration/kim-2025-serine-collagen-scaffold-degradation]] — mouse subcutaneous: L-serine 40 wt% → 7× collagen persistence vs unmodified; non-crosslinking scaffold tuning
 - [[bone-regeneration/jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic]] — beagle dog OTM: BioCaP 1.25× new bone vs DBB; DBB causes 1.87× root resorption under OTM force

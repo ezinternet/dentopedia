@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent GBR / ridge-augmentation collection. This 7th ITI Consensus (Group 1) sets the authoritative buccal bone wall thickness (BBW) threshold of <1.5 mm and the role of simultaneous GBR for buccal dehiscence defects — it provides the consensus framework that contextualizes single-study work such as [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]] and the simultaneous-GBR membrane evidence in [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]].
+Part of a recent GBR / ridge-augmentation collection. This 7th ITI Consensus (Group 1) sets the authoritative buccal bone wall thickness (BBW) threshold of <1.5 mm and the role of simultaneous GBR for buccal dehiscence defects — it provides the consensus framework that contextualizes single-study work such as [[implants/cicciu-2023-buccal-palatal-bone-thickness-marginal]] and the simultaneous-GBR membrane evidence in [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]].
 
 ## One-line Summary
 

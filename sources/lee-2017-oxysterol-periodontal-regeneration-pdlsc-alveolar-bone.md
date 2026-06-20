@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-기존 wiki의 골내결손/치주재생 근거는 술식·이식재 중심이고 (예: [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]), 재생을 구동하는 osteoinductive factor(BMP-2 대안)의 분자생물학적 근거는 비어 있었다. 본 in-vitro PDLSC + in-vivo rat alveolar bone defect 연구는 천연 oxysterol (SS) 조합이 LXR↔Hedgehog cross-talk를 통해 PDLSC osteogenesis와 발치와 골재생을 BMP-2 수준으로 유도함을 보여, BMP-2 부작용(이소성 골형성·염증·발암 우려) 없는 osteoinductive 분자 후보로 [[bone-biology/tokavanich-2025-control-alveolar-bone-development]]·[[bone-regeneration/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]]의 biologics 논의를 분자기전 측면에서 보강한다.
+기존 wiki의 골내결손/치주재생 근거는 술식·이식재 중심이고 (예: [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]]), 재생을 구동하는 osteoinductive factor(BMP-2 대안)의 분자생물학적 근거는 비어 있었다. 본 in-vitro PDLSC + in-vivo rat alveolar bone defect 연구는 천연 oxysterol (SS) 조합이 LXR↔Hedgehog cross-talk를 통해 PDLSC osteogenesis와 발치와 골재생을 BMP-2 수준으로 유도함을 보여, BMP-2 부작용(이소성 골형성·염증·발암 우려) 없는 osteoinductive 분자 후보로 [[bone-biology/tokavanich-2025-control-alveolar-bone-development]]·[[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]]의 biologics 논의를 분자기전 측면에서 보강한다.
 
 ## 1. Document Information
 

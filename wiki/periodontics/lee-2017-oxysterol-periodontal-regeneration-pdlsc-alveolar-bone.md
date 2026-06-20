@@ -54,5 +54,5 @@ Periodontal regeneration needs osteoinductive factors; rhBMP-2 works but carries
 ## Related Papers
 
 - [[periodontics/stavropoulos-2021-periodontal-regeneration-intrabony-nma]] — clinical evidence that regenerative procedures beat open-flap debridement in intrabony defects; this paper supplies a candidate osteoinductive molecule (oxysterol) operating upstream at the PDLSC level.
-- [[bone-regeneration/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — efficacy of biologics for alveolar ridge; oxysterols are a preclinical addition to the biologics toolkit as a BMP-2 alternative.
+- [[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — efficacy of biologics for alveolar ridge; oxysterols are a preclinical addition to the biologics toolkit as a BMP-2 alternative.
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — molecular control of alveolar bone development; complementary signaling context for LXR/Hh-driven osteogenesis.

@@ -47,6 +47,6 @@ tags: [buccal-resorption, alveolar-crest, ridge-remodeling, study-model, single-
 - 치조정 이동 → 임플란트 팁 위치가 원래 치조정보다 구개/설측으로 이동 필요
 
 ## Related Papers
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — bundle bone 흡수 생물학적 기전
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — bundle bone 흡수 생물학적 기전
 - [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 3D CBCT 중앙부 위험 구역 확인
-- [[bone-regeneration/tomlin-2014-ridge-preservation-implant-therapy-review]] — 보존술 술식 근거
+- [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — 보존술 술식 근거

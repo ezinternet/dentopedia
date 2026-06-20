@@ -41,6 +41,6 @@ Mordenfeld 등(2010)은 심한 후방 상악 위축 환자 20명 중 11명에서
 ## Related Papers
 - [[sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year]] — 같은/평행 cohort의 10년 임플란트 임상 outcome (CSR 86%, MBL 1.6 mm).
 - [[sinus-lift/lateral/sartori-2003-msfa-bio-oss-10year-case-report]] — Bio-Oss 단독 10년 case report (DPBB 비율 70.2% → 13.3%로 감소 보고 — Mordenfeld 결과와 다소 상충).
-- [[bone-regeneration/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — 최근 6개월 DBBM ARP histology.
+- [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — 최근 6개월 DBBM ARP histology.
 - [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] — DBBM 제품 비교(동물).
 - [[bone-regeneration/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr]] — 비탈회 histomorphometry 방법론 SR.

@@ -36,5 +36,5 @@ Barrier membranes are usually framed as GBR tools, but this RCT shows an intenti
 - Small sample, short (90-day) follow-up; long-term KT stability not reported.
 
 ## Related Papers
-- [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]] — KT preservation by suture technique in ARP
-- [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] — open-healing exposed-membrane ARP
+- [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — KT preservation by suture technique in ARP
+- [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — open-healing exposed-membrane ARP

@@ -45,8 +45,8 @@ Narrative review proposing that residual ridge resorption (RRR) is a **pathologi
 - Does not address surgical/prosthetic ARP techniques — purely mechanistic.
 
 ## 6. Related Work
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — clinical RRR quantification cited as benchmark.
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — describes the bone change Kondo seeks to explain mechanistically.
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — clinical RRR quantification cited as benchmark.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — describes the bone change Kondo seeks to explain mechanistically.
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — related molecular work on SIK pathway in socket healing.
 
 ## 7. Glossary

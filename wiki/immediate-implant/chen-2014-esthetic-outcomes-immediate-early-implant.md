@@ -42,4 +42,4 @@ This **ITI Consensus systematic review** (50 included studies; 6 RCTs, 6 cohort,
 ## Related Papers
 - [[immediate-implant/araujo-2006-tissue-modeling-implant-extraction-sockets]] — preclinical histologic mechanism for the buccal collapse driving midfacial recession.
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — later review consolidating evidence on socket healing around immediate implants.
-- [[bone-regeneration/mardas-2023-alveolar-ridge-preservation-overtreatment]] — related debate on whether ARP can mitigate the buccal-bone problem before late implant placement.
+- [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] — related debate on whether ARP can mitigate the buccal-bone problem before late implant placement.

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-차폐막 가교 여부(cross-linking)가 임플란트 열개결손(peri-implant dehiscence) GBR에서 조작성·잔존성·노출률에 미치는 영향을 직접 RCT로 검증. 기존 [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]]의 콜라겐막 층수 논의와 [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] SR+MA의 "가교막 노출률 ~30%↑" 결론을 단일 RCT 수준에서 보강·대조하는 근거.
+차폐막 가교 여부(cross-linking)가 임플란트 열개결손(peri-implant dehiscence) GBR에서 조작성·잔존성·노출률에 미치는 영향을 직접 RCT로 검증. 기존 [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]]의 콜라겐막 층수 논의와 [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] SR+MA의 "가교막 노출률 ~30%↑" 결론을 단일 RCT 수준에서 보강·대조하는 근거.
 
 ## One-line Summary
 Randomized single-blinded RCT (n=28 dehiscence sites) comparing dehydrothermally cross-linked collagen membrane (DCM) vs non-cross-linked native collagen membrane (NCM) for peri-implant dehiscence GBR; both gave significant clinical/radiographic improvement at 16 weeks, DCM showed better handling/residual membrane without increased complications.

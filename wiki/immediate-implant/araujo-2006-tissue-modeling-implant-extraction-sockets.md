@@ -41,4 +41,4 @@ Seven beagle dogs underwent mandibular premolar extraction with **immediate impl
 ## Related Papers
 - [[immediate-implant/chen-2014-esthetic-outcomes-immediate-early-implant]] — clinical SR showing midfacial recession in type 1 placement consistent with these histologic findings.
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — later review summarizing the buccal collapse evidence and its clinical management.
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — companion histology of unassisted socket healing, baseline for the modeling sequence.
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — companion histology of unassisted socket healing, baseline for the modeling sequence.

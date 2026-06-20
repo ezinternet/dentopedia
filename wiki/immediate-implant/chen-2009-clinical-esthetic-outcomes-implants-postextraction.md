@@ -53,4 +53,4 @@ ITI 4차 컨센서스 체계적 고찰(91개 연구). 즉시(Type 1)·조기(Typ
 - [[immediate-implant/thoma-2026-timing-dental-implant-placement-past]] — 현재 ITI 생존율 업데이트
 - [[immediate-implant/chappuis-2013-ridge-alterations-post-extraction-esthetic]] — 박벽형 골소실 위험 정량화
 - [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — 온전/비온전 소켓 최신 고찰
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 순측골 흡수 생물학적 근거
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 순측골 흡수 생물학적 근거

@@ -43,4 +43,4 @@ This first-of-its-kind 3-year case report describes Modified Lateral Sinus Floor
 - [[sinus-lift/lateral/estrin-2025-extended-prf-lateral-window-sinus]] — alternative lateral-window membrane (e-PRF) for similar applications.
 - [[immediate-implant/ayubianmarkazi-2018-immediate-implant-sinus-elevation-crestal]] — combined immediate implant + transcrestal lift in molars.
 - [[immediate-implant/liu-2019-immediate-implant-transalveolar-sinus-elevation]] — RCT data on timing.
-- [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft + membrane evidence base.
+- [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft + membrane evidence base.

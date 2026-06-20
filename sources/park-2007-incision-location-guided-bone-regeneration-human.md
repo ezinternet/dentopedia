@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-차폐막 노출(membrane exposure)이라는 GBR 공통 실패 모드를 막 자체가 아니라 절개선 위치·판막 생존 관점에서 설명하는 인체 연구. 막 종류 비교인 [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]]·[[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]]의 노출 결과를 판막설계 변수로 보완하고, [[bone-regeneration/lee-2018-flap-management-alveolar-ridge-preservation]]의 판막관리 논의와 연결.
+차폐막 노출(membrane exposure)이라는 GBR 공통 실패 모드를 막 자체가 아니라 절개선 위치·판막 생존 관점에서 설명하는 인체 연구. 막 종류 비교인 [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]]·[[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]]의 노출 결과를 판막설계 변수로 보완하고, [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]]의 판막관리 논의와 연결.
 
 ## One-line Summary
 Prospective human study (25 patients, 29 buccal dehiscence defects) showing incision location relative to the mucogingival junction governs flap survival and early membrane exposure; sites not re-covered by 1 month stayed exposed, and graft-alone (no membrane) flaps survived significantly farther beyond adjacent keratinized gingiva width than membrane-covered flaps.

@@ -41,4 +41,4 @@ Prospective human in-vivo study (18 subjects, 21 immediate implants) with 4-mont
 
 ## Related Papers
 - [[immediate-implant/araujo-2005-ridge-alterations-immediate-implant-dog]] — animal study confirming same finding (bundle bone resorption)
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — extraction-only controls
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — extraction-only controls

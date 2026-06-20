@@ -58,6 +58,6 @@ Wein lab(MGH/Harvard)이 long bone에서 정립한 PTH–SIK 축을 처음으로
 
 ## Related Papers
 - [[bone-biology/kondo-2022-current-perspectives-residual-ridge]] — 같은 시기 치조골 외측면 osteoclast 기전.
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — 본 연구가 분자수준으로 설명하려는 socket healing 시간표.
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 마우스 모델이 재현하는 phenotype.
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — 본 연구가 분자수준으로 설명하려는 socket healing 시간표.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 마우스 모델이 재현하는 phenotype.
 - [[drug/]] — MRONJ 관련 페이지(향후 cross-link).

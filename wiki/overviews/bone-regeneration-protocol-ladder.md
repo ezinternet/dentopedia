@@ -60,10 +60,10 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] | sr (20편) | 6mo — 수평 −3.79 mm, 수직 협측 −1.24 mm. 수평 29-63% / 수직 11-22% |
-| [[bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes]] | sr (12편) | 가중평균 폭 −3.87 mm, 중앙 협측 높이 −1.67 mm |
+| [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] | sr (20편) | 6mo — 수평 −3.79 mm, 수직 협측 −1.24 mm. 수평 29-63% / 수직 11-22% |
+| [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] | sr (12편) | 가중평균 폭 −3.87 mm, 중앙 협측 높이 −1.67 mm |
 | [[couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] | sr+ma (28편 / 20 pooled) | 비대구치 수평 2.5-2.7 mm, 협측 수직 1.7 mm. 시간별 흡수 곡선 정량화 |
-| [[bone-regeneration/trombelli-2008-modeling-remodeling-human-extraction-sockets]] | in-vivo (27 biopsy) | 발치 2-4w 육아조직 → 6w 잠정 기질 + 직조골 |
+| [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] | in-vivo (27 biopsy) | 발치 2-4w 육아조직 → 6w 잠정 기질 + 직조골 |
 
 **임상 함의**: 발치 후 임플란트 계획이 있다면 — 자연 치유만으로는 가장 흔히 수평 폭이 부족해진다. 협측 thin (BBT < 1mm) 부위에서 손실 더 큼. [근거강함]
 
@@ -73,12 +73,12 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[bone-regeneration/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] | sr+ma | ARP vs 자연치유 — 협설폭 +1.89 mm, 협측높이 +2.07 mm 보존 |
-| [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] | sr+ma (22 RCT, EFP consensus) | 대부분 modality 자연치유 대비 dimensional loss 감소 |
-| [[bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis]] | sr+ma (21편) | 수평 흡수 1.86 mm 감소. 골 결손 형태·창상 폐쇄 영향 |
-| [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] | sr+ma + TSA (7편) | 동종/이종골 + 흡수성 막 조합 — 수평 폭 2.19 mm 감소 |
-| [[bone-regeneration/atieh-2015-alveolar-ridge-preservation-cochrane-review]] | sr+ma (Cochrane, 8 RCT) | 이종골 ARP — 높이 −2.60 mm, 폭 −1.97 mm 소실 감소 (중등도 근거) |
-| [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] | sr+ma (Cochrane update 16 RCT) | xenograft ARP — width −1.18 mm, height −1.35 mm 감소. GRADE 낮음 |
+| [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] | sr+ma | ARP vs 자연치유 — 협설폭 +1.89 mm, 협측높이 +2.07 mm 보존 |
+| [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] | sr+ma (22 RCT, EFP consensus) | 대부분 modality 자연치유 대비 dimensional loss 감소 |
+| [[bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]] | sr+ma (21편) | 수평 흡수 1.86 mm 감소. 골 결손 형태·창상 폐쇄 영향 |
+| [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] | sr+ma + TSA (7편) | 동종/이종골 + 흡수성 막 조합 — 수평 폭 2.19 mm 감소 |
+| [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] | sr+ma (Cochrane, 8 RCT) | 이종골 ARP — 높이 −2.60 mm, 폭 −1.97 mm 소실 감소 (중등도 근거) |
+| [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] | sr+ma (Cochrane update 16 RCT) | xenograft ARP — width −1.18 mm, height −1.35 mm 감소. GRADE 낮음 |
 
 **임상 ladder (발치 시점 결정)**:
 1. 즉시 식립 가능 + 협측골 intact + 1차 안정성 확보 → 즉시 식립 (별도 페이지).
@@ -93,11 +93,11 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 | Spine paper | Evidence | Key finding |
 |---|---|---|
 | [[bone-regeneration/akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma]] | sr+ma (13편, 베이지안) | Bio-Oss vs 자가골 골충전 통계적 차이 없음 |
-| [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] | sr (40 RCT) | 수평 흡수: allograft 1.52 mm, xenograft·alloplast 유사 범위 |
-| [[bone-regeneration/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] | sr (5 RCT) | β-TCP 단독 ARP — 이종골보다 흡수 많거나 동급 (가변적). 복합재 β-TCP = DBBM |
-| [[bone-regeneration/feng-2024-autogenous-particulated-dentin-graft-arp]] | sr+ma (10 RCT, n=182) | 자가치아입자 (APDM) — DBBM 대비 동등. 자가 재료 우위 |
-| [[bone-regeneration/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] | sr+ma (12편) | 골광물질 + collagen 막 vs 자연치유 — 보존 경향성 p > 0.05, 이질성 큼 |
-| [[bone-regeneration/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] | rct (split-mouth) | DBBM (techBiomat) — CBCT 골충전 > 75% 시험군 87% vs 대조 7%. 신생골 ratio↑ |
+| [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] | sr (40 RCT) | 수평 흡수: allograft 1.52 mm, xenograft·alloplast 유사 범위 |
+| [[bone-regeneration/ridge-preservation/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] | sr (5 RCT) | β-TCP 단독 ARP — 이종골보다 흡수 많거나 동급 (가변적). 복합재 β-TCP = DBBM |
+| [[bone-regeneration/ridge-preservation/feng-2024-autogenous-particulated-dentin-graft-arp]] | sr+ma (10 RCT, n=182) | 자가치아입자 (APDM) — DBBM 대비 동등. 자가 재료 우위 |
+| [[bone-regeneration/ridge-preservation/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] | sr+ma (12편) | 골광물질 + collagen 막 vs 자연치유 — 보존 경향성 p > 0.05, 이질성 큼 |
+| [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] | rct (split-mouth) | DBBM (techBiomat) — CBCT 골충전 > 75% 시험군 87% vs 대조 7%. 신생골 ratio↑ |
 
 **임상 ladder (graft 선택)**:
 1. 일반 ARP → DBBM (Bio-Oss) + collagen 막. evidence-rich, 한국 가용성 양호.
@@ -112,11 +112,11 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[bone-regeneration/lee-2018-flap-management-alveolar-ridge-preservation]] | sr+ma (11편) | Flap vs flapless ARP — flap이 일부 outcome에서 유의. 1차 봉합 가능하면 권장 |
-| [[bone-regeneration/del-fabbro-2022-sealing-materials-post-extraction]] | sr+ma (NMA, IAO consensus) | Autologous soft tissue graft — horizontal preservation 최우수 |
-| [[bone-regeneration/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] | sr+ma (6 RCT, 심미부위) | FGG 협/설측 높이 보존 최우수. CM vs FGG NS |
-| [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] | prospective (5y, n=104) | Flapless 개방치유 (DBBM + 노출 collagen 막) — 5y 임플란트 생존율 98.5% |
-| [[bone-regeneration/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] | prospective (6mo) | Bartee (결손 socket + dPTFE) vs Bio-Col (4벽 intact + collagen). 결손 정도별 선택 |
+| [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] | sr+ma (11편) | Flap vs flapless ARP — flap이 일부 outcome에서 유의. 1차 봉합 가능하면 권장 |
+| [[bone-regeneration/ridge-preservation/del-fabbro-2022-sealing-materials-post-extraction]] | sr+ma (NMA, IAO consensus) | Autologous soft tissue graft — horizontal preservation 최우수 |
+| [[bone-regeneration/ridge-preservation/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] | sr+ma (6 RCT, 심미부위) | FGG 협/설측 높이 보존 최우수. CM vs FGG NS |
+| [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] | prospective (5y, n=104) | Flapless 개방치유 (DBBM + 노출 collagen 막) — 5y 임플란트 생존율 98.5% |
+| [[bone-regeneration/ridge-preservation/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] | prospective (6mo) | Bartee (결손 socket + dPTFE) vs Bio-Col (4벽 intact + collagen). 결손 정도별 선택 |
 
 **임상 ladder (flap·seal 결정)**:
 1. 1-2개 치아 발치 + 협측골 intact (4벽 socket) → flapless + Bio-Col 프로토콜 (DBBM + collagen 막 위치). 1차 봉합 불요.
@@ -155,39 +155,39 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 ### 신규 추가 (2026-06)
 
 - [[bone-regeneration/gil-marques-2022-bone-block-grafts-finite-element-biomechanics]] — Finite-element analysis combining two block-graft designs (right-angled vs rounded) and two suture tensions (0.05 vs 0.2 N): all soft-tissue stress/de … (in-vitro, 2022)
-- [[bone-regeneration/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft materials produced significantly less vertical and horizontal ridge re … (sr+ma, 2022)
-- [[bone-regeneration/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Multicentre RCT (40 subjects, 10 centres) of ridge preservation in posterior sockets with substantial buccal dehiscence: DBBM-collagen + native bilaye … (rct, 2016)
-- [[bone-regeneration/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — SR with meta-analyses of 35 papers (33 RCTs; PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally a … (sr+ma, 2025)
-- [[bone-regeneration/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD … (consensus, 2022)
+- [[bone-regeneration/ridge-preservation/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — SR+MA (16 qualitative / 9 quantitative RCTs, CBCT-only) showing xenogenic graft materials produced significantly less vertical and horizontal ridge re … (sr+ma, 2022)
+- [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Multicentre RCT (40 subjects, 10 centres) of ridge preservation in posterior sockets with substantial buccal dehiscence: DBBM-collagen + native bilaye … (rct, 2016)
+- [[bone-regeneration/ridge-preservation/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — SR with meta-analyses of 35 papers (33 RCTs; PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally a … (sr+ma, 2025)
+- [[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD … (consensus, 2022)
 
 ### spine (본문 인용)
 
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — 자연치유 dimensions SR
-- [[bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes]] — dimensions SR (12편)
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — 자연치유 dimensions SR
+- [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — dimensions SR (12편)
 - [[couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 시간별 흡수 곡선
-- [[bone-regeneration/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — 6mo histology
-- [[bone-regeneration/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — ARP SR+MA 2014
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — EFP consensus 22 RCT
-- [[bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — 21편 SR+MA
-- [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft+membrane TSA
-- [[bone-regeneration/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane 2015
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane 2021 update
-- [[bone-regeneration/lee-2018-flap-management-alveolar-ridge-preservation]] — flap vs flapless
-- [[bone-regeneration/del-fabbro-2022-sealing-materials-post-extraction]] — sealing NMA IAO
-- [[bone-regeneration/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] — SSS 심미부위
+- [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — 6mo histology
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — ARP SR+MA 2014
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — EFP consensus 22 RCT
+- [[bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — 21편 SR+MA
+- [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] — graft+membrane TSA
+- [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane 2015
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane 2021 update
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — flap vs flapless
+- [[bone-regeneration/ridge-preservation/del-fabbro-2022-sealing-materials-post-extraction]] — sealing NMA IAO
+- [[bone-regeneration/ridge-preservation/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] — SSS 심미부위
 - [[bone-regeneration/akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma]] — Bio-Oss vs 자가골
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — graft 비교 40 RCT
-- [[bone-regeneration/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] — β-TCP SR
-- [[bone-regeneration/feng-2024-autogenous-particulated-dentin-graft-arp]] — 자가치아입자 SR+MA
-- [[bone-regeneration/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] — 광물질+collagen
-- [[bone-regeneration/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — DBBM RCT split-mouth
-- [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] — flapless 5y
-- [[bone-regeneration/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] — Bartee vs Bio-Col
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — graft 비교 40 RCT
+- [[bone-regeneration/ridge-preservation/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] — β-TCP SR
+- [[bone-regeneration/ridge-preservation/feng-2024-autogenous-particulated-dentin-graft-arp]] — 자가치아입자 SR+MA
+- [[bone-regeneration/ridge-preservation/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] — 광물질+collagen
+- [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — DBBM RCT split-mouth
+- [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — flapless 5y
+- [[bone-regeneration/ridge-preservation/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] — Bartee vs Bio-Col
 - [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — 즉시식립 BBT
-- [[bone-regeneration/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 ARP RCT
+- [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 ARP RCT
 - [[bone-regeneration/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr]] — 동물모델 SR
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — ITI consensus 4 결손유형
-- [[bone-regeneration/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 RCT
+- [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 RCT
 
 ### Related overviews
 

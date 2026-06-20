@@ -44,6 +44,6 @@ This systematic review by Al-Maawi et al. (2021) addresses whether PRF improves 
 Key conclusion: PRF benefit confined to early healing period (2–3 months post-extraction). No clear benefit for longer healing periods. No data on long-term implant outcomes in PRF-treated sockets.
 
 ## Related Papers
-- [[bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — ARP SR+MA(21편); socket preservation의 정량 anchor.
-- [[bone-regeneration/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — 발치와 ARP에서 PRF 골이식재 병용 종설.
+- [[bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — ARP SR+MA(21편); socket preservation의 정량 anchor.
+- [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — 발치와 ARP에서 PRF 골이식재 병용 종설.
 - [[immediate-implant/araujo-2019-socket-healing-immediate-implant-review]] — 즉시식립 socket healing 라틴아메리카 리뷰.

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Part of a recent GBR / ridge-augmentation collection. This SR+MA quantifies how cross-linking, implant-placement timing, membrane fixation, and decortication affect collagen-membrane GBR outcomes — providing pooled evidence that complements single grafting-material studies like [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] and the membrane-design evidence in [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]].
+Part of a recent GBR / ridge-augmentation collection. This SR+MA quantifies how cross-linking, implant-placement timing, membrane fixation, and decortication affect collagen-membrane GBR outcomes — providing pooled evidence that complements single grafting-material studies like [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] and the membrane-design evidence in [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]].
 
 ## One-line Summary
 

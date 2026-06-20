@@ -232,58 +232,58 @@ tags: []
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — 동물(양 ilium, 3주, n=3마리/18 임플란트): 표준 vs OD-CW vs OD-CCW × 다공성 트라베큘러 탄탈럼 — OD-CCW가 BAFO 유의↑, BIC 등 다른 지표 NS. 3마리·3주 한계
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — Dog histology landmark paper: buccal > lingual resorption; Phase 1 bundle bone loss + Phase 2 external surface resorption; immediate implant cannot prevent buccal collapse
-- [[bone-regeneration/tomlin-2014-ridge-preservation-implant-therapy-review]] — Review: natural healing = 1mm vertical + 4–6mm horizontal (50%) loss; 2/3 within 3mo; all ridge preservation techniques beat blood clot alone; no single superior technique
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — Dog histology landmark paper: buccal > lingual resorption; Phase 1 bundle bone loss + Phase 2 external surface resorption; immediate implant cannot prevent buccal collapse
+- [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — Review: natural healing = 1mm vertical + 4–6mm horizontal (50%) loss; 2/3 within 3mo; all ridge preservation techniques beat blood clot alone; no single superior technique
 - [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — Systematic review (20 studies, 525 implants): BBT 1.10–3.18mm intact vs 1.18–3.00mm non-intact; survival >90–100% both; low evidence quality for non-intact sockets
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — 증례보고(2025): 치주임플란트염 실패→CAD/CAM 티타늄메시 GBR 9개월→완전가이드 재식립→지르코니아; 완전 디지털 워크플로우
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — 증례보고(스플릿마우스): 위축 상악 수평골 부족 시 변형 치조골 분리술 — 피에조서저리·스티키본·알부민 동종골 동시식립
 - [[bone-regeneration/sculean-2015-wound-models-periodontal-bone-regeneration]] — Narrative review (Periodontol 2000): cell culture → animal → human model hierarchy for periodontal/bone regeneration; GTR+EMD best supported; BMP-2 vertical ridge; translational gap highlighted
-- [[bone-regeneration/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane SR+MA (8 RCTs, 233 sockets): xenograft ARP vs extraction — height -2.60mm, width -1.97mm (moderate evidence); no material superiority; overall low-moderate evidence quality
-- [[bone-regeneration/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — SR+MA (RCTs, J Dent Res 2014): ARP vs extraction alone — BL width +1.89mm, midbuccal height +2.07mm (p<.001); flap elevation + membrane + xenograft/allograft = optimal
-- [[bone-regeneration/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] — SR+MA+TSA (6 RCTs, 135 sockets, esthetic zone): FGG without bone fill best height; CM vs FGG no clinical difference; TSA: insufficient data for superiority claims
-- [[bone-regeneration/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] — SR+MA (12 studies, Bioengineering 2024): bone mineral graft + collagen membrane — trend for preservation but p>0.05 (NS); I²>75%; more RCTs needed
-- [[bone-regeneration/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — RCT 4군 (n=22/군, UNICAMP 2025), 후방부: TM+XG·MFGG+XG 수직 우수; 전 군 수평 소실; USH → 67% 상악동거상·71% 단임플란트; MFGG 통증↑
-- [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] — Prospective (n=104, 135치, 5년): 판막 없는 개방치유(DBBM+콜라겐막 노출) — 생존율 98.5%, 성공률 94.8%; 최소침습 프로토콜
-- [[bone-regeneration/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] — in-vivo(J Periodontal Implant Sci 2017, n=7): DBBM+돼지유래 콜라겐막 소켓보존 6개월 조직학 — 폭 1.21mm·높이 0.46mm 흡수; 신생골 16%·잔류이종골 32%; 이벤트 없는 치유
+- [[bone-regeneration/ridge-preservation/atieh-2015-alveolar-ridge-preservation-cochrane-review]] — Cochrane SR+MA (8 RCTs, 233 sockets): xenograft ARP vs extraction — height -2.60mm, width -1.97mm (moderate evidence); no material superiority; overall low-moderate evidence quality
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2014-alveolar-ridge-preservation-systematic-review]] — SR+MA (RCTs, J Dent Res 2014): ARP vs extraction alone — BL width +1.89mm, midbuccal height +2.07mm (p<.001); flap elevation + membrane + xenograft/allograft = optimal
+- [[bone-regeneration/ridge-preservation/lopez-pacheco-2021-socket-seal-surgery-esthetic-zone-sr]] — SR+MA+TSA (6 RCTs, 135 sockets, esthetic zone): FGG without bone fill best height; CM vs FGG no clinical difference; TSA: insufficient data for superiority claims
+- [[bone-regeneration/ridge-preservation/lopez-valverde-2024-alveolar-ridge-bone-mineral-graft-collagen]] — SR+MA (12 studies, Bioengineering 2024): bone mineral graft + collagen membrane — trend for preservation but p>0.05 (NS); I²>75%; more RCTs needed
+- [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — RCT 4군 (n=22/군, UNICAMP 2025), 후방부: TM+XG·MFGG+XG 수직 우수; 전 군 수평 소실; USH → 67% 상악동거상·71% 단임플란트; MFGG 통증↑
+- [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — Prospective (n=104, 135치, 5년): 판막 없는 개방치유(DBBM+콜라겐막 노출) — 생존율 98.5%, 성공률 94.8%; 최소침습 프로토콜
+- [[bone-regeneration/ridge-preservation/poli-2017-socket-preservation-dbbm-collagen-matrix-histology]] — in-vivo(J Periodontal Implant Sci 2017, n=7): DBBM+돼지유래 콜라겐막 소켓보존 6개월 조직학 — 폭 1.21mm·높이 0.46mm 흡수; 신생골 16%·잔류이종골 32%; 이벤트 없는 치유
 - [[bone-regeneration/lee-2026-animal-models-bone-regeneration-review]] — 서술적 고찰(J Periodontal Implant Sci 2026, SNU): 골재생 전임상 동물모델 총론 — 설치류(스크리닝)→토끼(중간)→개(인체유사)→미니돼지(최고유사); 종별 특성·한계·번역 가이드
-- [[bone-regeneration/kang-2025-implant-failure-predictors-ridge-preservation]] — 후향적(JPIS 2025, n=528 임플란트, 3.5년): ARP 후 임플란트 실패 예측인자 — PBE <1.1mm HR 2.50(P=0.004); 누적 성공률 89.0%; 원발골 맞물림 ≥1.1mm 확보 핵심
-- [[bone-regeneration/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] — sr(J Funct Biomater 2026, 5 RCT): β-TCP 단독 ARP 가변적(이종골보다 열세 가능); β-TCP 복합 = DBBM 동등; 근거 제한·이질적; 잠정적 권고
-- [[bone-regeneration/jung-2025-arp-peri-implantitis-isq-preclinical]] — 동물실험(Beagle 6마리, JPIS 2025): ARP 유무·감염치아 여부가 ISQ·골흡수에 유의 영향 없음; 신생골↔ISQ 상관 없음; ARP 초기 안정성 개선 효과 불확인
-- [[bone-regeneration/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — 발치 후 치조제 보존 (Alveolar Ridge Preservation, ARP)에서 자가 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF)을 골이식재와 병용하면 성장인자 방출과 혈관신생을 통해 연·경조직 치유를 가속한다고 정리한 서술적 종설.
-- [[bone-regeneration/cardaropoli-2003-bone-tissue-formation-extraction]] — 동물 조직학 (n=9 dogs, 9개 시점): 발치와 치유 — 혈병→PCT→신생골→광화 peak Day 30 (88%)→Day 180 BM 85%. ARP/GBR 문헌의 landmark.
-- [[bone-regeneration/mardas-2023-alveolar-ridge-preservation-overtreatment]] — 비판적 종설 (Periodontology 2000, 오픈액세스): 치조제 보존술 (Alveolar Ridge Preservation, ARP)의 네 가지 목표별 근거를 검토하고, ARP는 안전·유효하지만 후방 두꺼운 골벽 부위·즉시식립 예정 부위 등에서는 자연치유 (Unassisted Healing) 대비 의미있는 추가 이득이 부족해 과잉치료가 될 수 있다고 결론.
-- [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 체계적 문헌고찰·메타분석 (SR+MA, n=28 연구·20 풀링) — 발치 후 자연치유 시 비대구치는 수평 2.5–2.7 mm, 수직 협측 1.7 mm 흡수되고, 대구치는 수평 3.6 mm 흡수되어 치조제보존술 비교의 기준 수치를 제공한다.
-- [[bone-regeneration/lee-2018-flap-management-alveolar-ridge-preservation]] — 체계적 문헌고찰·메타분석 (SR+MA, 11편: RCT 9, CCT 2) — 치조제 보존술에서 판막 거상과 무판막의 골 폭·높이 차이는 유의하지 않으나, 판막 거상은 각화치은 폭을 평균 3.21 mm 더 감소시켜 무판막 접근이 연조직 보존에 유리하다.
+- [[bone-regeneration/ridge-preservation/kang-2025-implant-failure-predictors-ridge-preservation]] — 후향적(JPIS 2025, n=528 임플란트, 3.5년): ARP 후 임플란트 실패 예측인자 — PBE <1.1mm HR 2.50(P=0.004); 누적 성공률 89.0%; 원발골 맞물림 ≥1.1mm 확보 핵심
+- [[bone-regeneration/ridge-preservation/pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr]] — sr(J Funct Biomater 2026, 5 RCT): β-TCP 단독 ARP 가변적(이종골보다 열세 가능); β-TCP 복합 = DBBM 동등; 근거 제한·이질적; 잠정적 권고
+- [[bone-regeneration/ridge-preservation/jung-2025-arp-peri-implantitis-isq-preclinical]] — 동물실험(Beagle 6마리, JPIS 2025): ARP 유무·감염치아 여부가 ISQ·골흡수에 유의 영향 없음; 신생골↔ISQ 상관 없음; ARP 초기 안정성 개선 효과 불확인
+- [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — 발치 후 치조제 보존 (Alveolar Ridge Preservation, ARP)에서 자가 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF)을 골이식재와 병용하면 성장인자 방출과 혈관신생을 통해 연·경조직 치유를 가속한다고 정리한 서술적 종설.
+- [[bone-regeneration/ridge-preservation/cardaropoli-2003-bone-tissue-formation-extraction]] — 동물 조직학 (n=9 dogs, 9개 시점): 발치와 치유 — 혈병→PCT→신생골→광화 peak Day 30 (88%)→Day 180 BM 85%. ARP/GBR 문헌의 landmark.
+- [[bone-regeneration/ridge-preservation/mardas-2023-alveolar-ridge-preservation-overtreatment]] — 비판적 종설 (Periodontology 2000, 오픈액세스): 치조제 보존술 (Alveolar Ridge Preservation, ARP)의 네 가지 목표별 근거를 검토하고, ARP는 안전·유효하지만 후방 두꺼운 골벽 부위·즉시식립 예정 부위 등에서는 자연치유 (Unassisted Healing) 대비 의미있는 추가 이득이 부족해 과잉치료가 될 수 있다고 결론.
+- [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 체계적 문헌고찰·메타분석 (SR+MA, n=28 연구·20 풀링) — 발치 후 자연치유 시 비대구치는 수평 2.5–2.7 mm, 수직 협측 1.7 mm 흡수되고, 대구치는 수평 3.6 mm 흡수되어 치조제보존술 비교의 기준 수치를 제공한다.
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — 체계적 문헌고찰·메타분석 (SR+MA, 11편: RCT 9, CCT 2) — 치조제 보존술에서 판막 거상과 무판막의 골 폭·높이 차이는 유의하지 않으나, 판막 거상은 각화치은 폭을 평균 3.21 mm 더 감소시켜 무판막 접근이 연조직 보존에 유리하다.
 - [[bone-regeneration/lee-2015-dehydrothermal-crosslinked-collagen-membrane-dehiscence-rct]] — Lee 2015 · rct(n=28) · 임플란트 열개결손 GBR에서 열탈수가교막(DCM) vs 비가교막(NCM); 16주 두 막 모두 유의 개선, DCM 분해 지연(잔존막)·양호한 조작성·합병증 증가 없음
 - [[bone-regeneration/wessing-2016-noncrosslinked-collagen-membrane-dehisced-implant-rct]] — Wessing 2016 · rct · 열개 단일임플란트 GBR 다기관 RCT; 신규 비가교막 creos xenoprotect(CXP) vs 기준막(BG), CXP 골증대량↑·노출↓ 경향(중간결과)
 - [[bone-regeneration/wang-2025-gelatin-polylactic-acid-pla-membrane-gbr-rct]] — Wang 2025 · rct(n=32) · 젤라틴/PLA(GT/PLA) 차폐막 vs 상용 Guidor® PLA막; 6개월 생존 100%, 골흡수·골생성효율·노출·감염 군간 유의차 없음 → GT/PLA 비열등
-- [[bone-regeneration/schropp-2003-bone-healing-soft-tissue]] — 전향적 임상·방사선학 추적 (Prospective Clinical-Radiographic Study, n=46) — 단일 소구치/대구치 발치 후 12개월간 치조제 흡수의 약 2/3가 첫 3개월 내 발생하며 협설측 폭은 약 50% 감소하여, 발치 후 치조제 보존술 필요성의 가장 인용도 높은 임상 근거를 제공한다.
-- [[bone-regeneration/troiano-2018-bone-graft-membrane-ridge-preservation]] — SR+MA+TSA(7편): 발치 후 동종/이종골 + 흡수성 막 조합이 자연치유 대비 수평 흡수 −2.19 mm, 수직 흡수 −1.72 mm 감소, TSA로 충분한 근거 확보.
-- [[bone-regeneration/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — 체계적 문헌고찰 + 메타분석 (21편): 치조제 보존술(Alveolar Ridge Preservation, ARP)은 발치만 시행한 경우 대비 수평 골흡수를 평균 1.86 mm 감소시키며, 골 결손 형태·창상 폐쇄 방식·이식재·차폐막·성장인자 사용이 결과를 유의하게 좌우한다.
-- [[bone-regeneration/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — 인체 발치공 6개월 조직학 연구 (27 biopsy): 발치 2–4주에 우세하던 육아조직 (granulation tissue)이 6주 전후로 잠정 기질 (provisional matrix)과 직조골 (woven bone)로 대체되며, 골모세포 (osteoblast) 활성은 6–8주에 정점을 찍고 이후 안정 상태로 유지되지만 무기질화의 시점은 개인차가 매우 크다.
-- [[bone-regeneration/feng-2024-autogenous-particulated-dentin-graft-arp]] — 체계적 문헌고찰 + 메타분석 (10편 RCT, n=182): 자가치아입자 (APD)는 발치와 보존에서 수평 치조제 폭과 순측 골 높이 유지에 우수하며, 타 이식재 대비 활성 골 면적 +10.51%, 잔존 이식재 -8.76%
-- [[bone-regeneration/jung-2018-alveolar-ridge-preservation-esthetic-zone]] — 서술적 리뷰(Perio 2000 2018): 심미영역 ARP 3시점(6–8주 연조직/4–6개월 경+연조직/6개월+ 경조직) — 협측 골판 상태와 임플란트 시점 매칭.
-- [[bone-regeneration/vanderweijden-2009-alveolar-bone-dimensional-changes]] — SR(12편 human): 발치 후 자연치유 시 치조제 폭 가중평균 3.87 mm 감소, 협측 중앙 높이 1.67 mm 감소 — 수평 흡수>수직 흡수.
+- [[bone-regeneration/ridge-preservation/schropp-2003-bone-healing-soft-tissue]] — 전향적 임상·방사선학 추적 (Prospective Clinical-Radiographic Study, n=46) — 단일 소구치/대구치 발치 후 12개월간 치조제 흡수의 약 2/3가 첫 3개월 내 발생하며 협설측 폭은 약 50% 감소하여, 발치 후 치조제 보존술 필요성의 가장 인용도 높은 임상 근거를 제공한다.
+- [[bone-regeneration/ridge-preservation/troiano-2018-bone-graft-membrane-ridge-preservation]] — SR+MA+TSA(7편): 발치 후 동종/이종골 + 흡수성 막 조합이 자연치유 대비 수평 흡수 −2.19 mm, 수직 흡수 −1.72 mm 감소, TSA로 충분한 근거 확보.
+- [[bone-regeneration/ridge-preservation/bassir-2018-alveolar-ridge-preservation-meta-analysis]] — 체계적 문헌고찰 + 메타분석 (21편): 치조제 보존술(Alveolar Ridge Preservation, ARP)은 발치만 시행한 경우 대비 수평 골흡수를 평균 1.86 mm 감소시키며, 골 결손 형태·창상 폐쇄 방식·이식재·차폐막·성장인자 사용이 결과를 유의하게 좌우한다.
+- [[bone-regeneration/ridge-preservation/trombelli-2008-modeling-remodeling-human-extraction-sockets]] — 인체 발치공 6개월 조직학 연구 (27 biopsy): 발치 2–4주에 우세하던 육아조직 (granulation tissue)이 6주 전후로 잠정 기질 (provisional matrix)과 직조골 (woven bone)로 대체되며, 골모세포 (osteoblast) 활성은 6–8주에 정점을 찍고 이후 안정 상태로 유지되지만 무기질화의 시점은 개인차가 매우 크다.
+- [[bone-regeneration/ridge-preservation/feng-2024-autogenous-particulated-dentin-graft-arp]] — 체계적 문헌고찰 + 메타분석 (10편 RCT, n=182): 자가치아입자 (APD)는 발치와 보존에서 수평 치조제 폭과 순측 골 높이 유지에 우수하며, 타 이식재 대비 활성 골 면적 +10.51%, 잔존 이식재 -8.76%
+- [[bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]] — 서술적 리뷰(Perio 2000 2018): 심미영역 ARP 3시점(6–8주 연조직/4–6개월 경+연조직/6개월+ 경조직) — 협측 골판 상태와 임플란트 시점 매칭.
+- [[bone-regeneration/ridge-preservation/vanderweijden-2009-alveolar-bone-dimensional-changes]] — SR(12편 human): 발치 후 자연치유 시 치조제 폭 가중평균 3.87 mm 감소, 협측 중앙 높이 1.67 mm 감소 — 수평 흡수>수직 흡수.
 - [[bone-regeneration/akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma]] — SR + Bayesian MA(13편, 1998–2009): 골내결손 — Bio-Oss vs 자가골 NS(차이 0.04 mm); Bio-Oss vs OFD만 유의; 공여부 morbidity 회피 위해 Bio-Oss 1차 권고.
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — ITI 4차 컨센서스 배경 SR(108편, 11 RCT): 4 결손유형(dehiscence·수평·수직·MSFA) — 단일 우월 protocol 없음; 증대골 임플란트 생존율 = 자연골(level A–B).
 - [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] — animal (rabbit, n=8, 8/12wk): Bio-Oss vs Bone-Fill vs Gen-Ox vs 혈병 — 12wk 신생골 9.32/9.01/3.02/0.63 mm²; "이종골은 다 같다" 가정 반증.
-- [[bone-regeneration/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] — 전향적 longitudinal(n=14, 6 mo, UPAEP): InterOss® DBBM Bartee(결손 socket+dPTFE) vs Bio-Col(intact+collagen plug) — 수직 11.48% vs 13.24%, 수평 21.95% vs 20.55% 흡수 NS; 신생골 31.10% vs 13.24% NS(underpowered).
-- [[bone-regeneration/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — split-mouth RCT(Murcia, n=환자, 6mo): techBiomat bone® DBBM ARP — CBCT >75% 골충전 시험군 87% vs 대조군 7%; 신생골 42% vs 25%; 잔존 graft <9%.
-- [[bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] — 후향적(베로나 n=24, 4mo): Bio-Oss + CaSO₄(CalMatrix) 50:50 vs Bio-Oss 단독 — 생활골 62.5% vs 31.25%, 무세포골 5% vs 32.91% (p<0.05 both); 빠르게 흡수되는 carrier가 초기 신생골 질 개선.
+- [[bone-regeneration/ridge-preservation/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] — 전향적 longitudinal(n=14, 6 mo, UPAEP): InterOss® DBBM Bartee(결손 socket+dPTFE) vs Bio-Col(intact+collagen plug) — 수직 11.48% vs 13.24%, 수평 21.95% vs 20.55% 흡수 NS; 신생골 31.10% vs 13.24% NS(underpowered).
+- [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — split-mouth RCT(Murcia, n=환자, 6mo): techBiomat bone® DBBM ARP — CBCT >75% 골충전 시험군 87% vs 대조군 7%; 신생골 42% vs 25%; 잔존 graft <9%.
+- [[bone-regeneration/ridge-preservation/signoriello-2025-dbbm-calcium-sulphate-socket-preservation]] — 후향적(베로나 n=24, 4mo): Bio-Oss + CaSO₄(CalMatrix) 50:50 vs Bio-Oss 단독 — 생활골 62.5% vs 31.25%, 무세포골 5% vs 32.91% (p<0.05 both); 빠르게 흡수되는 carrier가 초기 신생골 질 개선.
 - [[bone-regeneration/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr]] — SR(119편, 2015–2024, Varna): 비탈회 plastic-embedded 골재생 histomorphometry 방법론 map — 동물 rat>rabbit>sheep>dog; toluidine blue 우세; 신생골·잔존 graft·MAR(calcein green) 지표 중심.
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — SR(20편 human, EAO consensus): 발치 6mo 자연치유 시 수평 −3.79 mm > 수직 협측 −1.24 mm; 비율 수평 29–63%, 수직 11–22%; ARP 비교의 baseline 수치.
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — SR+MA(22 RCT, EFP/AO consensus): ARP을 9개 modality로 분류, 자연치유 대비 모든 modality 유의 효과; 단일 우월 modality 없음, PROM 데이터 부족.
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update .pub3(16 RCT, 524 site): xenograft 폭 −1.18 mm·높이 −1.35 mm, **GRADE certainty "very low"로 강등** (2015 moderate → 2021 very low); 결론: ARP 효과의 임상적 의미 불확실.
-- [[bone-regeneration/del-fabbro-2022-sealing-materials-post-extraction]] — SR+NMA(12 RCT, IAO consensus): 발치와 sealing 재료 ranking — 자가 연조직 graft가 horizontal preservation SUCRA 1위; collagen membrane·d-PTFE·ADM 서로 동등.
-- [[bone-regeneration/majzoub-2019-influence-different-grafting-materials]] — SR(40 RCT, 재료군별 weighted mean): 수평 흡수 allograft 1.52 mm ≈ xenograft 1.47 mm < alloplast 2.31 mm; 재료 간 임상 차이 미미.
-- [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — Narrative review + 2 case report(BDJ 2022): 통계적 dimensional preservation ≠ 환자 중심 benefit; 5–13년 후 xenograft 만성 실패(fibrous encapsulation·peri-implantitis 양상) 사례 제시; ARP 적응증 좁히기 권고.
-- [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]] — Jung-Chul Park 2016 (JPIS) · rct(n=14) · open-healing ARP 봉합법: hidden X suture가 기존 X suture보다 협측 KT 폭·치조제 보존 우수; X suture는 MGJ 설측 1.56mm 이동 vs hidden X 협측 0.25mm. Park 그룹 open-healing 연작 출발점
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — SR(20편 human, EAO consensus): 발치 6mo 자연치유 시 수평 −3.79 mm > 수직 협측 −1.24 mm; 비율 수평 29–63%, 수직 11–22%; ARP 비교의 baseline 수치.
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — SR+MA(22 RCT, EFP/AO consensus): ARP을 9개 modality로 분류, 자연치유 대비 모든 modality 유의 효과; 단일 우월 modality 없음, PROM 데이터 부족.
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane update .pub3(16 RCT, 524 site): xenograft 폭 −1.18 mm·높이 −1.35 mm, **GRADE certainty "very low"로 강등** (2015 moderate → 2021 very low); 결론: ARP 효과의 임상적 의미 불확실.
+- [[bone-regeneration/ridge-preservation/del-fabbro-2022-sealing-materials-post-extraction]] — SR+NMA(12 RCT, IAO consensus): 발치와 sealing 재료 ranking — 자가 연조직 graft가 horizontal preservation SUCRA 1위; collagen membrane·d-PTFE·ADM 서로 동등.
+- [[bone-regeneration/ridge-preservation/majzoub-2019-influence-different-grafting-materials]] — SR(40 RCT, 재료군별 weighted mean): 수평 흡수 allograft 1.52 mm ≈ xenograft 1.47 mm < alloplast 2.31 mm; 재료 간 임상 차이 미미.
+- [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — Narrative review + 2 case report(BDJ 2022): 통계적 dimensional preservation ≠ 환자 중심 benefit; 5–13년 후 xenograft 만성 실패(fibrous encapsulation·peri-implantitis 양상) 사례 제시; ARP 적응증 좁히기 권고.
+- [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — Jung-Chul Park 2016 (JPIS) · rct(n=14) · open-healing ARP 봉합법: hidden X suture가 기존 X suture보다 협측 KT 폭·치조제 보존 우수; X suture는 MGJ 설측 1.56mm 이동 vs hidden X 협측 0.25mm. Park 그룹 open-healing 연작 출발점
 - [[bone-regeneration/park-2007-incision-location-guided-bone-regeneration-human]] — Park & Wang 2007 (J Periodontol) · prospective(25명/29결손) · 절개선 위치·판막 생존이 막노출 좌우; 1개월 내 미재피개 부위 계속 노출, 막 없는 이식 판막이 막 피개보다 인접 KG 폭 너머 1.6mm 더 생존(P=0.002). 노출을 막 재료가 아닌 판막설계 축에서 설명
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — Ho-Keun Choi 2017 (JPIS) · rct pilot(n=11 대구치) · open-healing ARP 콜라겐 막 단층 vs 이중층 → 수평·수직 보존·치유 차이 없음(폭 −1.7 vs −1.8mm), 둘 다 적합
-- [[bone-regeneration/cho-2017-compressive-force-graft-ridge-preservation]] — In-Woo Cho 2017 (JPIS) · rct(완료 20) · ARP graft 압축력↑ → 신생골 형성 유의 증가, 치조제 보존은 동등(P>0.05); 최적 압축력 미정
-- [[bone-regeneration/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — Sung-Jo Lee 2020 (JPIS) · rct(완료 12) · 대구치 ARP에서 DBBM 5N vs 30N → 신생골·ISQ·골수준 차이 없음, 잔존 graft 입자 크기만 유의차; cho-2017 결과의 적용 한정 드러냄
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — Ho-Keun Choi 2017 (JPIS) · rct pilot(n=11 대구치) · open-healing ARP 콜라겐 막 단층 vs 이중층 → 수평·수직 보존·치유 차이 없음(폭 −1.7 vs −1.8mm), 둘 다 적합
+- [[bone-regeneration/ridge-preservation/cho-2017-compressive-force-graft-ridge-preservation]] — In-Woo Cho 2017 (JPIS) · rct(완료 20) · ARP graft 압축력↑ → 신생골 형성 유의 증가, 치조제 보존은 동등(P>0.05); 최적 압축력 미정
+- [[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — Sung-Jo Lee 2020 (JPIS) · rct(완료 12) · 대구치 ARP에서 DBBM 5N vs 30N → 신생골·ISQ·골수준 차이 없음, 잔존 graft 입자 크기만 유의차; cho-2017 결과의 적용 한정 드러냄
 - [[overviews/open-healing-arp-technique-variables-overview]] — Synthesis 2026-05-29: open-healing ARP 술기변수 종합(Park 그룹 연작 축) — 골 치수는 graft+개방치유·부위가 좌우, 미세술기(막 층수·압축력)는 대체로 등가; 술기가 움직이는 건 연조직(KT) — 무판막·hidden X·노출막; "통계적 보존≠환자 이득"(Adams)으로 적응증 축소
-- [[bone-regeneration/araujo-2009-ridge-alterations-flap-vs-flapless]] — Animal(개 5, split-mouth, 6mo): 판막 거상 vs flapless 발치 후 ridge resorption 차이 없음; "flapless = ridge 보존" 가설 반박; 본 PDF는 PubMed abstract only.
+- [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — Animal(개 5, split-mouth, 6mo): 판막 거상 vs flapless 발치 후 ridge resorption 차이 없음; "flapless = ridge 보존" 가설 반박; 본 PDF는 PubMed abstract only.
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
@@ -1474,7 +1474,7 @@ tags: []
 
 ### bone-regeneration (added 2026-05-24, batch b)
 
-- [[bone-regeneration/che-2024-alveolar-ridge-preservation-review]] — Sung-Ah Che 2024 · narrative-review · Navigating Alveolar Ridge Preservation: Techniques, Materials, and Clinical Implications
+- [[bone-regeneration/ridge-preservation/che-2024-alveolar-ridge-preservation-review]] — Sung-Ah Che 2024 · narrative-review · Navigating Alveolar Ridge Preservation: Techniques, Materials, and Clinical Implications
 
 ### drug (added 2026-05-24, batch b)
 
@@ -2004,7 +2004,7 @@ tags: []
 
 - [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — Jensen 2023 · consensus · 7th ITI Group 1 — buccal bone <1.5 mm predicts worse outcomes; simultaneous GBR over dehiscence + CTG give stable 1–5 yr outcomes
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — Wessing 2018 · sr+ma · 20 controlled studies — collagen-membrane + particulate lateral GBR effective; cross-linked membranes ~30% more exposure
-- [[bone-regeneration/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Scheyer 2016 · rct · Multicentre (40 pts) — DBBM-collagen + native bilayer membrane preserved ~1.76 mm more horizontal ridge at 6 mo (p=0.0256)
+- [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Scheyer 2016 · rct · Multicentre (40 pts) — DBBM-collagen + native bilayer membrane preserved ~1.76 mm more horizontal ridge at 6 mo (p=0.0256)
 - [[bone-regeneration/gil-marques-2022-bone-block-grafts-finite-element-biomechanics]] — Gil-Marques 2022 · in-vitro · FEA — right-angled block + higher suture tension raise mucosal stress (dehiscence tendency) → low tension + rounded block
 - [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — Zhou 2024 · retrospective · 118 pts — open healing of exposed collagen membrane at immediate-implant GBR matched closure when initial wound ≤6 mm, less pain
 - [[oral-surgery/murphy-2022-cooled-saline-irrigation-third-molar-morbidity]] — Murphy 2022 · narrative-review · EBD summary of split-mouth RCT (48 pts) — cooled saline (4°C/10°C) irrigation cut pain/trismus/swelling vs 25°C; 4°C best
@@ -2020,9 +2020,9 @@ tags: []
 - [[implants/tajti-2024-less-marginal-bone-loss]] — Tajti 2024 · sr+ma · 8-study SR+MA: long abutments (≥2 mm) lose ~0.26 mm less bone at 1 yr (MD 0.26, 95% CI −0.02–0.53), moderate GRADE
 
 ### Bone regeneration — ARP/socket preservation
-- [[bone-regeneration/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — Pickert 2022 · sr+ma · CBCT-only SR+MA (9 RCTs): xenograft loses less ridge than allograft (vertical midbuccal WMD −0.20 vs −0.90 mm)
-- [[bone-regeneration/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — Siawasch 2025 · sr+ma · SR+MA of 33 RCTs: APC alone in ARP → faster soft-tissue healing, less pain & resorption
-- [[bone-regeneration/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — Suárez-López del Amo 2022 · consensus · AAP best-evidence SR (39 RCTs): biologics no clinical ARP superiority but improve histomorphometry/healing
+- [[bone-regeneration/ridge-preservation/pickert-2022-cbct-evaluation-dimensional-hard-tissue]] — Pickert 2022 · sr+ma · CBCT-only SR+MA (9 RCTs): xenograft loses less ridge than allograft (vertical midbuccal WMD −0.20 vs −0.90 mm)
+- [[bone-regeneration/ridge-preservation/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — Siawasch 2025 · sr+ma · SR+MA of 33 RCTs: APC alone in ARP → faster soft-tissue healing, less pain & resorption
+- [[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — Suárez-López del Amo 2022 · consensus · AAP best-evidence SR (39 RCTs): biologics no clinical ARP superiority but improve histomorphometry/healing
 
 ### Endodontics — VPT (생활치수치료)
 - [[endodontics/vpt/komora-2024-comparison-bioactive-material-failure-rates]] — Komora 2024 · sr+ma · Network MA (21 RCTs): Ca(OH)₂ fails ~2.3–2.5× more than MTA (OR 2.53 at 12mo); Biodentine·Totalfill = MTA
@@ -2427,24 +2427,24 @@ tags: []
 ### bone-regeneration — GBR defect morphology & ridge augmentation
 - [[bone-regeneration/gan-2023-alveolar-bone-morphology-gbr-anterior-maxilla]] — Gan 2023 retrospective: bone cavity depth ≥1.03 mm + angle <155.3° predict lower GBR resorption in anterior maxilla; mean resorption 49.78% at 6 months [retrospective]
 - [[bone-regeneration/friedmann-2022-horizontal-augmentation-gbr-dog]] — Friedmann 2022 animal (dog): ribose-crosslinked membrane (no tacking) > non-crosslinked (4-pin fixation) for horizontal augmentation new bone area (p=0.001); DBBM graft [animal]
-- [[bone-regeneration/steigmann-2022-socket-buccal-bone-classification]] — Steigmann 2022 narrative review: ST1–ST3 socket buccal bone classification + decision tree; ST1A → no ARP; ST3C → Ti-mesh/PTFE + full flap [narrative-review]
+- [[bone-regeneration/ridge-preservation/steigmann-2022-socket-buccal-bone-classification]] — Steigmann 2022 narrative review: ST1–ST3 socket buccal bone classification + decision tree; ST1A → no ARP; ST3C → Ti-mesh/PTFE + full flap [narrative-review]
 - [[bone-regeneration/jiang-2020-bmp2-calcium-phosphate-alveolar-orthodontic]] — Jiang 2020 animal (beagle): BMP2-functionalized calcium phosphate graft → 1.61× more new bone than control during orthodontic tooth movement; DBB causes 1.87× more root resorption [animal]
 
 ### bone-regeneration — DBBM: modifications, adjuncts, outcomes
-- [[bone-regeneration/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — Fischer 2022 SR+MA: residual bone envelope after ARP with DBBM — standard-diameter implant feasibility without additional augmentation; IJID [sr+ma]
+- [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — Fischer 2022 SR+MA: residual bone envelope after ARP with DBBM — standard-diameter implant feasibility without additional augmentation; IJID [sr+ma]
 - [[bone-regeneration/darby-2024-resorbable-membrane-dbbm-gbr-dehiscence]] — Darby 2024 animal (dog): resorbable collagen membrane + DBBM vs DBBM alone in dehiscence defects — membrane's additive value for new bone % at 6 weeks; Clin Oral Investig [animal]
 - [[bone-regeneration/fujioka-kobayashi-2022-synthetic-biomaterials-dbbm-augmentation]] — Fujioka-Kobayashi 2022 animal (in vivo): synthetic biomaterials (BCP, β-TCP) added to DBBM for bone augmentation — tests hybrid approach to overcome DBBM slow resorption [animal]
 - [[bone-regeneration/chakar-2014-dbbm-bcp-platelet-lysate-rabbit]] — Chakar 2014 animal (rabbit): DBBM vs BCP with autologous platelet lysate; pre-PRF baseline on bone substitute + growth factor combinations; IJBM [animal]
-- [[bone-regeneration/van-orten-2024-species-specific-collagen-dbbm-arp]] — van Orten 2024 prospective case series: species-specific collagen-enriched DBBM for ARP — first histological evaluation; Bioengineering [prospective]
+- [[bone-regeneration/ridge-preservation/van-orten-2024-species-specific-collagen-dbbm-arp]] — van Orten 2024 prospective case series: species-specific collagen-enriched DBBM for ARP — first histological evaluation; Bioengineering [prospective]
 - [[bone-regeneration/idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr]] — Idiri 2023 SR: PRF + bovine xenograft in sinus and ridge augmentation — no significant sinus histomorphometry benefit; possible ridge resorption reduction; JFB [sr]
 - [[bone-regeneration/kim-2025-serine-collagen-scaffold-degradation]] — Kim 2025 animal (mouse): L-serine incorporation slows collagen scaffold degradation 7× vs control; non-crosslinking degradation modulation; JFB [animal]
 
 ### bone-regeneration — socket preservation / ARP clinical
-- [[bone-regeneration/kollati-2019-cerabone-prf-socket-preservation-rct]] — Kollati 2019 RCT: Cerabone (bovine HA) + PRF vs Cerabone alone — width loss 1.47 vs 2.75 mm; +8.7% bone fill at 6 mo; J Indian Soc Periodontol [rct]
-- [[bone-regeneration/alrayyes-2022-prf-socket-preservation-smokers-rct]] — Alrayyes 2022 RCT: A-PRF vs collagen plug in smokers — A-PRF superior healing index (p<0.0001); sticky bone not superior to A-PRF alone; Diagnostics [rct]
-- [[bone-regeneration/covani-2022-alveolar-bone-remodeling-collagen-socket]] — Covani 2022 animal (micro-CT): collagen plug −4.6% vs empty socket −58.1% bone volume at 90 days; JCM [animal]
-- [[bone-regeneration/nisar-2020-collagen-plug-socket-preservation]] — Nisar 2020 prospective: collagen plug+PRP preserves height (p<0.001) but NOT width — grafting material needed for width maintenance; JODDD [prospective]
-- [[bone-regeneration/kim-2024-collagenated-xenograft-arp-rct]] — Kim 2024 RCT: DBBM-C (XenoFlex) maintains volume 84–180 days vs spontaneous healing (p=0.026); FGG seal adds horizontal crestal protection (p=0.049); ISQ ≥70 all groups [rct]
+- [[bone-regeneration/ridge-preservation/kollati-2019-cerabone-prf-socket-preservation-rct]] — Kollati 2019 RCT: Cerabone (bovine HA) + PRF vs Cerabone alone — width loss 1.47 vs 2.75 mm; +8.7% bone fill at 6 mo; J Indian Soc Periodontol [rct]
+- [[bone-regeneration/ridge-preservation/alrayyes-2022-prf-socket-preservation-smokers-rct]] — Alrayyes 2022 RCT: A-PRF vs collagen plug in smokers — A-PRF superior healing index (p<0.0001); sticky bone not superior to A-PRF alone; Diagnostics [rct]
+- [[bone-regeneration/ridge-preservation/covani-2022-alveolar-bone-remodeling-collagen-socket]] — Covani 2022 animal (micro-CT): collagen plug −4.6% vs empty socket −58.1% bone volume at 90 days; JCM [animal]
+- [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]] — Nisar 2020 prospective: collagen plug+PRP preserves height (p<0.001) but NOT width — grafting material needed for width maintenance; JODDD [prospective]
+- [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] — Kim 2024 RCT: DBBM-C (XenoFlex) maintains volume 84–180 days vs spontaneous healing (p=0.026); FGG seal adds horizontal crestal protection (p=0.049); ISQ ≥70 all groups [rct]
 
 ### sinus-lift/lateral — graft substitute comparisons
 - [[sinus-lift/lateral/almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma]] — Almutairi 2025 SR+MA (5 RCTs, n=140): L-PRF+DBBM vs DBBM alone — new bone +7.07% (p<0.001, I²=37%), residual graft −7.93% (p<0.001, I²=0%); ISQ NS; Cureus [sr+ma]

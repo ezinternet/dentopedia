@@ -78,16 +78,16 @@ Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~
 - 즉시 식립([[immediate-implant]] 카테고리)과 ARP의 의사결정 분기 overview로 확장.
 
 ## Related Papers
-- [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]] — 봉합법(hidden X) → 협측 KT 보존 (축 1)
-- [[bone-regeneration/choi-2017-single-double-layer-collagen-membrane-arp]] — 막 층수 SL≈DL (축 2)
-- [[bone-regeneration/cho-2017-compressive-force-graft-ridge-preservation]] — 압축력↑ → 신생골↑ (축 2)
-- [[bone-regeneration/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — DBBM 5N≈30N, cho 적용 한정 (축 2)
+- [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — 봉합법(hidden X) → 협측 KT 보존 (축 1)
+- [[bone-regeneration/ridge-preservation/choi-2017-single-double-layer-collagen-membrane-arp]] — 막 층수 SL≈DL (축 2)
+- [[bone-regeneration/ridge-preservation/cho-2017-compressive-force-graft-ridge-preservation]] — 압축력↑ → 신생골↑ (축 2)
+- [[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — DBBM 5N≈30N, cho 적용 한정 (축 2)
 - [[periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct]] — 노출 d-PTFE → KT 증대 (축 1)
-- [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] — 개방치유 프로토콜 5년 임상 타당성 (축 1)
-- [[bone-regeneration/lee-2018-flap-management-alveolar-ridge-preservation]] — 판막 vs 무판막 SR+MA, KGW가 차이 (축 1)
-- [[bone-regeneration/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 RCT, 수평 소실 불가피 (축 3)
-- [[bone-regeneration/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — 9 modality SR+MA, 단일 우월 없음 (축 3)
-- [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — 통계적 보존 ≠ 환자 이득 (축 4)
+- [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — 개방치유 프로토콜 5년 임상 타당성 (축 1)
+- [[bone-regeneration/ridge-preservation/lee-2018-flap-management-alveolar-ridge-preservation]] — 판막 vs 무판막 SR+MA, KGW가 차이 (축 1)
+- [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 RCT, 수평 소실 불가피 (축 3)
+- [[bone-regeneration/ridge-preservation/avila-ortiz-2019-alveolar-ridge-preservation-interventions]] — 9 modality SR+MA, 단일 우월 없음 (축 3)
+- [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — 통계적 보존 ≠ 환자 이득 (축 4)
 
 ## Related overviews
 - (신설 후보) immediate-implant vs ARP 의사결정 분기

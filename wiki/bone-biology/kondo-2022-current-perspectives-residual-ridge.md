@@ -60,8 +60,8 @@ J Prosthodont Res 종설 — 잔존 치조제 흡수(Residual Ridge Resorption, 
 - 임상 ARP/임플란트 의사결정에 직접 반영하기엔 아직 mechanism-level evidence (claude해석).
 
 ## Related Papers
-- [[bone-regeneration/tan-2012-post-extractional-alveolar-dimensional-changes]] — RRR 임상 정량 baseline 인용.
-- [[bone-regeneration/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 본 review가 mechanism을 설명하려는 현상.
+- [[bone-regeneration/ridge-preservation/tan-2012-post-extractional-alveolar-dimensional-changes]] — RRR 임상 정량 baseline 인용.
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — 본 review가 mechanism을 설명하려는 현상.
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — 동시기 SIK pathway 분자 연구.
-- [[bone-regeneration/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — late graft failure case와 mechanism적 연결.
-- [[bone-regeneration/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane evidence 강등의 mechanism적 보강.
+- [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — late graft failure case와 mechanism적 연결.
+- [[bone-regeneration/ridge-preservation/atieh-2021-interventions-replacing-missing-teeth]] — Cochrane evidence 강등의 mechanism적 보강.

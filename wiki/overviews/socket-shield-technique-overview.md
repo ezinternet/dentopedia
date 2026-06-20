@@ -47,7 +47,7 @@ This page synthesizes those 17 entries into one decision framework. It supersede
 
 ## Scope
 
-Covers all dedicated SST wiki pages under `wiki/immediate-implant/`. Buccal-plate biology context lives in [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]; general immediate-placement timing in [[overviews/immediate-implant-decision-ladder]].
+Covers all dedicated SST wiki pages under `wiki/immediate-implant/`. Buccal-plate biology context lives in [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]]; general immediate-placement timing in [[overviews/immediate-implant-decision-ladder]].
 
 ## Evidence Map
 
@@ -140,6 +140,6 @@ Alternatives and trade-offs:
 
 - [[overviews/immediate-implant-decision-ladder]] — parent decision ladder; SST is axis 4 there, expanded here.
 - [[overviews/bone-regeneration-protocol-ladder]] — fallback when buccal plate is already lost.
-- [[bone-regeneration/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
+- [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — buccal-plate resorption biology motivating SST.
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — placement-timing decision (immediate/early/delayed); SST is an immediate-placement variant.
 - All 17 SST pages — see Evidence Map above.

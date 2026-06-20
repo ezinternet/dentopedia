@@ -40,4 +40,4 @@ Pinto et al. describe the management of a large intraoperative Schneiderian memb
 ## Related Papers
 - [[sinus-lift/lateral/tian-2026-large-sinus-membrane-perforations-collagen]] — tack-stabilized collagen membrane technique for large perforations.
 - [[sinus-lift/lateral/altayar-2023-cbct-maxillary-sinus-septa-yemeni]] — anatomical risk factors for perforation.
-- [[bone-regeneration/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — broader rationale for PRF in oral surgery.
+- [[bone-regeneration/ridge-preservation/ucer-2023-extraction-socket-augmentation-platelet-rich-fibrin]] — broader rationale for PRF in oral surgery.

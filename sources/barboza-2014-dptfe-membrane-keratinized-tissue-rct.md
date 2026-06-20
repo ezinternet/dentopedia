@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-치조제 보존·임플란트 전 각화치은(keratinized tissue, KT) 확보 술식 근거 확장. ARP 봉합 술식이 KT 폭에 미치는 영향을 다룬 [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]], open-healing 노출막 컨셉의 [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]]와 짝 — 노출된 d-PTFE 막 자체가 KT를 증가시킬 수 있음을 RCT로 제시.
+치조제 보존·임플란트 전 각화치은(keratinized tissue, KT) 확보 술식 근거 확장. ARP 봉합 술식이 KT 폭에 미치는 영향을 다룬 [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]], open-healing 노출막 컨셉의 [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]]와 짝 — 노출된 d-PTFE 막 자체가 KT를 증가시킬 수 있음을 RCT로 제시.
 
 ## One-line Summary
 RCT showing intentionally exposed nonexpanded d-PTFE membranes predictably increase the zone of keratinized tissue prior to implant placement (test +6.6–7.1 mm vs control +1.4–2.5 mm at 60/90 days).
@@ -41,8 +41,8 @@ RCT showing intentionally exposed nonexpanded d-PTFE membranes predictably incre
 - KT measured short-term; long-term stability not reported.
 
 ## 6. Related Work
-- [[bone-regeneration/park-2016-hidden-x-suture-ridge-preservation]] — KT preservation via suture technique in ARP
-- [[bone-regeneration/ionescu-2022-open-healing-flapless-ridge-preservation]] — open-healing exposed-membrane ARP
+- [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — KT preservation via suture technique in ARP
+- [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — open-healing exposed-membrane ARP
 
 ## 7. Glossary
 - d-PTFE: dense (nonexpanded) polytetrafluoroethylene 막

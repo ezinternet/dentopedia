@@ -96,7 +96,8 @@ All three tiers share the same stem:
 | `implants/isq` | 임플란트·ISQ | ISQ/RFA measurement, stability dip, loading decision thresholds |
 | `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface technology, osseointegration |
 | `implants/vertical-ridge-augmentation` | 임플란트·수직골증대 | Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh |
-| `bone-regeneration` | 골재생 | GBR, ridge preservation, socket management, peri-implantitis GBR |
+| `bone-regeneration` | 골재생 (general) | Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models. (socket/ridge preservation → `bone-regeneration/ridge-preservation`) |
+| `bone-regeneration/ridge-preservation` | 골재생·치조제보존 | Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes |
 | `immediate-implant` | 즉시식립 | Immediate implant placement protocols, outcomes, esthetic risk |
 | `sinus-lift/lateral` | 상악동거상술·측방 | Lateral window approach, membrane, grafting materials |
 | `sinus-lift/transcrestal` | 상악동거상술·경치조골 | Transcrestal (osteotome/balloon/osseodensification) approaches |
