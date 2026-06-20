@@ -10,6 +10,10 @@ pdf_filename: majzoub-2019-influence-different-grafting-materials.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+The largest single-SR ARP RCT pool (40 RCTs) quantifying horizontal resorption per material category, directly reinforcing [[overviews/socket-preservation-arp-overview]] and the no-material-superiority conclusion of [[avila-ortiz-2019-alveolar-ridge-preservation-interventions]]. Lets clinicians compare allograft/xenograft/alloplast numerically.
+
 ## One-line Summary
 SR (40 RCTs) calculating inverse-variance weighted means by graft material — horizontal ridge resorption was 1.52 mm (allograft), 1.47 mm (xenograft), 2.31 mm (alloplast); ARP reduces resorption vs extraction alone, but inter-material differences are minimal.
 

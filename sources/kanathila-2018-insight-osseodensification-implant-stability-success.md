@@ -9,6 +9,10 @@ pdf_filename: kanathila-2018-insight-osseodensification-implant-stability-succes
 source_collection: external
 ---
 
+## Why Ingested
+
+Narrative-review primer on the osseodensification (OD) concept — supplies the mechanistic explanation (counterclockwise Densah bur compaction, bone-debris autografting, insertion-torque gains in low-density bone) that frames the clinical-trial evidence in [[overviews/osseodensification-clinical-applications]]. Extends the foundational bench work of [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] into a clinician-facing overview.
+
 ## One-line Summary
 Narrative review (JCDR 2018) of the osseodensification (OD) concept — explaining how Huwais's tapered multi-fluted Densah burs run counterclockwise to compact rather than excavate bone, the mechanistic rationale (autografting of bone debris into walls), and reported insertion-torque gains (≈49 Ncm in low-density bone vs ≈25 Ncm for conventional drilling).
 

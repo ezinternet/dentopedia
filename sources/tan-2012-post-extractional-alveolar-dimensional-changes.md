@@ -10,6 +10,10 @@ pdf_filename: tan-2012-post-extractional-alveolar-dimensional-changes.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+One of the two definitive human SRs (with Van der Weijden 2009) establishing the natural post-extraction ridge-change baseline — the "do-nothing" reference (horizontal 3.79 mm loss) against which ARP benefit is judged in [[overviews/socket-preservation-arp-overview]], and the quantitative anchor for the resorption biology discussed in [[overviews/bone-regeneration-socket-biology-and-arp-critique]].
+
 ## One-line Summary
 Systematic review (20 human studies) establishing weighted-mean post-extraction ridge dimensional changes: horizontal reduction (3.79 ± 0.23 mm) substantially exceeds vertical reduction (buccal 1.24 ± 0.11 mm, mesial 0.84 ± 0.62 mm, distal 0.80 ± 0.71 mm) at 6 months; soft tissue gains 0.4–0.5 mm thickness; horizontal change 29–63% vs vertical 11–22% of baseline.
 

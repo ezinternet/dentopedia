@@ -9,6 +9,10 @@ pdf_filename: signoriello-2025-dbbm-calcium-sulphate-socket-preservation.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Adds a protocol-modification data point to [[overviews/dbbm-bone-substitute-overview]] — combining fast-resorbing calcium sulphate with slow-resorbing Bio-Oss roughly doubled vital bone (62.5% vs 31.25%) at 4 months, extending the DBBM evidence within [[overviews/socket-preservation-arp-overview]]. Provides a 4-month histomorphometric baseline for socket preservation.
+
 ## One-line Summary
 Retrospective histomorphometric analysis (n=24, 4 mo) of post-extraction socket preservation with Bio-Oss + calcium sulphate vs Bio-Oss alone: combined group showed significantly more vital bone (62.5% vs 31.25%) and less acellular bone (5% vs 32.91%).
 

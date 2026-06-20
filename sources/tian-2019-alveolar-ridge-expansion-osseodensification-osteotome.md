@@ -9,6 +9,10 @@ pdf_filename: tian-2019-alveolar-ridge-expansion-osseodensification-osteotome.pd
 source_collection: external
 ---
 
+## Why Ingested
+
+In vivo histologic evidence for the ridge-expansion indication of osseodensification (OD) — split-mouth porcine study showing OD doubles BIC (62.5% vs 31.4%) over conventional osteotome in horizontally atrophic ridges. Feeds the ridge-expansion branch of [[overviews/osseodensification-clinical-applications]] and complements the clinical ridge-expansion data of [[implants/koutouzis-2019-alveolar-ridge-expansion-osseodensification-multicenter-retrospective]].
+
 ## One-line Summary
 Porcine in vivo split-mouth study (n=12 implants, 4-week healing) reporting BIC 62.5% with osseodensification vs 31.4% with conventional osteotome (P=0.018) in atrophic mandibular ridges.
 

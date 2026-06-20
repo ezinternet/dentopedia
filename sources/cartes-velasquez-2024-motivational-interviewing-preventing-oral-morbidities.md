@@ -9,6 +9,10 @@ pdf_filename: cartes-velasquez-2024-motivational-interviewing-preventing-oral-mo
 source_collection: external
 ---
 
+## Why Ingested
+
+Provides the adult-oral-health evidence for motivational interviewing (periodontal outcomes), feeding the MI-efficacy rung of [[overviews/behavioral-dentistry-decision-ladder]] and the MI branch of [[overviews/behavioral-dentistry-overview]].
+
 ## One-line Summary
 SR+MA of MI in adults — only 7 studies, all on periodontal outcomes; MI marginally favored: bleeding-on-probing (BoP) reduced by 6.41pp (significant), plaque index −3.59pp (not significant), gingival index −0.70 (not significant). Evidence base too thin to conclude effectiveness for "oral morbidities" broadly.
 

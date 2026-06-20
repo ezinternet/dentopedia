@@ -9,6 +9,10 @@ pdf_filename: akbarzadeh-baghban-2009-bio-oss-autogenous-alveolar-sr-ma.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+SR+MA establishing Bio-Oss as non-inferior to autogenous bone for alveolar/intrabony augmentation while avoiding donor-site morbidity — supports the DBBM-as-default rationale in [[overviews/dbbm-bone-substitute-overview]] and supplies a regeneration-efficacy data point for [[overviews/bone-regeneration-socket-biology-and-arp-critique]].
+
 ## One-line Summary
 SR + Bayesian meta-analysis (13 studies, 1998–2009) of Bio-Oss vs autogenous bone in periodontal intrabony defects: insufficient evidence Bio-Oss is superior to autogenous, but Bio-Oss avoids donor-site morbidity → recommended as the practical first choice.
 

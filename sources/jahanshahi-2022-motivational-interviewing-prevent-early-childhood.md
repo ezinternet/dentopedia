@@ -9,6 +9,10 @@ pdf_filename: jahanshahi-2022-motivational-interviewing-prevent-early-childhood.
 source_collection: external
 ---
 
+## Why Ingested
+
+Supplies the pediatric (early childhood caries) evidence that motivational interviewing works when session quality and follow-up are adequate, reinforcing the MI-efficacy branch of [[overviews/behavioral-dentistry-overview]] and [[overviews/behavioral-dentistry-decision-ladder]].
+
 ## One-line Summary
 SR+MA of 6 RCTs (n=2,776) — Motivational Interviewing (MI) significantly prevents Early Childhood Caries (ECC) measured by dmfs; effect independent of child age, session count, but improves with **session quality** and ≥3-year follow-up.
 

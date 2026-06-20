@@ -10,6 +10,10 @@ pdf_filename: del-fabbro-2022-sealing-materials-post-extraction.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Extends [[overviews/socket-preservation-arp-overview]] into the socket-sealing dimension — the first network meta-analysis ranking sealing materials (autologous soft tissue > membranes > collagen matrix) rather than the bone graft itself, and complements the barrier-material evidence in [[overviews/gbr-barrier-membrane-overview]]. IAO consensus weight makes it practice-shaping.
+
 ## One-line Summary
 SR + network meta-analysis (12 RCTs, 312 sites; IAO consensus paper) comparing biomaterials used to seal post-extraction sockets — autologous soft tissue grafts ranked best for horizontal ridge preservation; collagen membranes, d-PTFE, and acellular dermal matrices generally comparable.
 

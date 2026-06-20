@@ -9,6 +9,10 @@ pdf_filename: lopez-2017-osseodensification-spinal-surgical-hardware-fixation.pd
 source_collection: external
 ---
 
+## Why Ingested
+
+Cross-disciplinary validation of the osseodensification (OD) mechanism — the first application outside dentistry (spinal hardware fixation in a sheep model), showing OD raises pullout strength, BIC and BAFO. Strengthens the mechanistic generalizability claim in [[overviews/osseodensification-clinical-applications]] by demonstrating the compaction-autografting effect holds in non-dental bone.
+
 ## One-line Summary
 Orthopaedic/spinal sheep model (12 sheep, cervical vertebrae C2/C3/C4) — OD raised pullout strength (p<0.01), BIC (p<0.01) and BAFO (p=0.024) vs regular drilling over 0/3/6-week time points.
 

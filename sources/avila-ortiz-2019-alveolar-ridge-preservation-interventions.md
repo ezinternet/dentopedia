@@ -10,6 +10,10 @@ pdf_filename: avila-ortiz-2019-alveolar-ridge-preservation-interventions.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+The EFP/AO consensus SR+MA that supplies the 9-modality ARP taxonomy underpinning [[overviews/socket-preservation-arp-overview]], and the "ARP is effective" position that [[overviews/bone-regeneration-socket-biology-and-arp-critique]] weighs against the Cochrane downgrade. Pairs with [[atieh-2021-interventions-replacing-missing-teeth]] as the two anchor syntheses on ARP efficacy.
+
 ## One-line Summary
 SR+MA of 22 RCTs (25 articles) categorizing ARP into 9 distinct treatment modalities — all reduce post-extraction dimensional loss vs spontaneous healing, but no head-to-head superiority of any single modality on patient-reported outcomes; published as the EFP/AO Workshop reference paper.
 

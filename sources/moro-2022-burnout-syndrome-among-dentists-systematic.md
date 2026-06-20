@@ -9,6 +9,10 @@ pdf_filename: moro-2022-burnout-syndrome-among-dentists-systematic.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+The gold-standard (MBI-only) SR+MA establishing baseline dentist burnout prevalence (~13% overall, ~28% emotional exhaustion) — the anchor prevalence reference for [[overviews/dentist-burnout-mental-health-overview]].
+
 ## One-line Summary
 Pooled prevalence of burnout syndrome (Maslach Burnout Inventory) in dentists: overall **13%**, but the emotional exhaustion (EE) subscale runs **28%**, depersonalization (DP) 18%, reduced personal accomplishment (PA) 10% — the EE component is the dominant driver.
 

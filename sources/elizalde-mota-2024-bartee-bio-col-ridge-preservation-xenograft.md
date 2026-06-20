@@ -9,6 +9,10 @@ pdf_filename: elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Supplies a head-to-head clinical comparison of two named DBBM ARP protocols (Bartee vs Bio-Col) for [[overviews/socket-preservation-arp-overview]], showing equivalent dimensional preservation despite opposite socket-wall starting conditions — a primary-study data point reinforcing the DBBM evidence in [[overviews/dbbm-bone-substitute-overview]]. Provides 6-month CBCT and histomorphometric reference values.
+
 ## One-line Summary
 Prospective longitudinal study (n=14, 6 mo) comparing two xenograft-based ARP protocols — Bartee (defective socket, with dPTFE membrane) vs Bio-Col (intact socket, collagen plug + xenograft) — both with InterOss® DBBM: comparable dimensional preservation (~11–13% vertical, 20–22% horizontal resorption); Bartee yielded more new bone (31.10% vs 13.24%).
 

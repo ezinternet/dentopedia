@@ -9,6 +9,10 @@ pdf_filename: lu-2021-digital-stackable-osteotomy-template-precision.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+디지털 스택형 가이드(Stackable Template)에서 통상 보고되지 않던 골삭제 가이드 층(Osteotomy-guide Layer) 자체의 임상 정확도를 처음 보고. 가상계획을 한 장치로 수술에 전달하는 풀-디지털 워크플로우의 정확도 근거로, 디지털 워크플로우 의사결정 종합을 보강한다. See [[overviews/digital-workflow-decision-ladder]].
+
 ## One-line Summary
 Chinese clinical case series (n=4 edentulous patients) on a 3D-printed digital stackable template (osteotomy + implant + provisional in one stack) — mean volume deviation 492.94 mm³ (21.21% of preset), mean displacement 0.0248 mm, mean angle deviation 6.03°.
 

@@ -9,6 +9,10 @@ pdf_filename: lima-monteiro-2024-osseodensification-biomechanics-histomorphometr
 source_collection: external
 ---
 
+## Why Ingested
+
+Combined human+animal SR+MA strengthening the osseodensification (OD) primary-stability evidence base — quantifies the human ISQ gain (median 8.57 at baseline, attenuating to MD 4.49 at secondary timepoint) and large animal histomorphometric effects (IT/BIC/BAFO), feeding the [[overviews/osseodensification-clinical-applications]] synthesis. Reinforces and updates the earlier pooled estimates of [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]].
+
 ## One-line Summary
 SR+MA (Quintessence Int 2024;55:212–223) of 11 studies (8 databases through August 2021) — OD raised human ISQ by median 8.57 vs conventional drilling at baseline (no significant difference at secondary timepoint, MD 4.49) and yielded large effect sizes in animal studies (insertion torque MD 46.79; BIC MD 2.17; BAFO MD 2.11); certainty of evidence low to moderate.
 

@@ -14,7 +14,7 @@ text_filename: vertucci-2026-single-vs-multiple-visit-endodontics-umbrella.txt
 
 ## Why Ingested
 
-"1회 vs 다회 방문" 근관치료(Root Canal Treatment, RCT) 논쟁은 임상에서 가장 자주 묻는 질문; umbrella SR로 기존 SR들의 메타분석을 통합. 기존 wiki에 단일 SR/RCT는 없고 이 umbrella review가 12개 SR을 종합해 현재 근거 수준을 가장 잘 요약한다.
+"1회 vs 다회 방문" 근관치료(Root Canal Treatment, RCT) 논쟁은 임상에서 가장 자주 묻는 질문; umbrella SR로 기존 SR들의 메타분석을 통합. 기존 wiki에 단일 SR/RCT는 없고 이 umbrella review가 12개 SR을 종합해 현재 근거 수준을 가장 잘 요약한다. See [[overviews/single-vs-multivisit-endodontic-outcomes-overview]].
 
 ## One-line Summary
 

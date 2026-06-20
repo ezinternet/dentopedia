@@ -9,6 +9,10 @@ pdf_filename: torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-scre
 source_collection: external
 ---
 
+## Why Ingested
+
+Cross-disciplinary validation of the osseodensification (OD) mechanism in orthopaedics — ovine pedicle-screw study showing OD pullout strength *increases* over time while conventional *decreases*, supporting OD's compaction-autografting rationale beyond dentistry. Strengthens the mechanistic generalizability section of [[overviews/osseodensification-clinical-applications]] alongside the spinal-fixation data of [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]].
+
 ## One-line Summary
 Ovine ex-vivo split-spine study (8 sheep, 64 pedicle screws) showing OD pullout strength of 387 N at 6 wk and 312 N at 12 wk vs regular 292 N and 212 N — OD increases anchorage over time while conventional decreases.
 

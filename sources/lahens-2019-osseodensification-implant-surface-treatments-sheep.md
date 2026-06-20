@@ -9,6 +9,10 @@ pdf_filename: lahens-2019-osseodensification-implant-surface-treatments-sheep.pd
 source_collection: external
 ---
 
+## Why Ingested
+
+Tests how osseodensification (OD) interacts with implant surface treatment — sheep study showing OD raises torque/BIC and that counterclockwise OD eliminates the machined-vs-acid-etched surface difference on BIC/BAFO. Connects the OD evidence base of [[overviews/osseodensification-clinical-applications]] with the surface-modification literature in [[overviews/implant-surface-comparison]].
+
 ## One-line Summary
 Sheep ilium study (12 animals, 72 implants — 36 acid-etched, 36 machined) showing OD CCW/CW drilling raises insertion torque and BIC vs regular drilling (BIC P=0.024 CW, P=0.006 CCW), with CCW-OD eliminating the surface-treatment effect on BIC/BAFO.
 

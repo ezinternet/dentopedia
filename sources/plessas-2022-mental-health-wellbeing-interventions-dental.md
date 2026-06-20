@@ -9,6 +9,10 @@ pdf_filename: plessas-2022-mental-health-wellbeing-interventions-dental.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Supplies the intervention/management side of the dentist-wellbeing picture (workplace mental-health interventions and the gap in primary prevention), complementing the prevalence papers in [[overviews/dentist-burnout-mental-health-overview]].
+
 ## One-line Summary
 Systematic review of workplace interventions for mental health & wellbeing in the dental sector — paucity of evidence, especially for primary prevention; secondary/tertiary (psychoeducational, mindfulness) dominate.
 

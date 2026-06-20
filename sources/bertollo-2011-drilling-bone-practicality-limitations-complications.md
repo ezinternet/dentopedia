@@ -9,6 +9,10 @@ pdf_filename: bertollo-2011-drilling-bone-practicality-limitations-complications
 source_collection: external
 ---
 
+## Why Ingested
+
+임플란트 골삭제(Osteotomy)에서 열괴사(Thermal Necrosis) 역치(47 °C/1 min, 50 °C/30 s, 56 °C)와 드릴 기하·이송속도·관주의 상호작용을 정량화한 공학 근거. 비절삭(골밀도화, Osseodensification) 접근의 합리적 근거를 제공해, 구강외과·골삭제 의사결정 종합의 기초 물리를 채운다. See [[overviews/oral-surgery-decision-ladder]].
+
 ## One-line Summary
 Orthopaedic-engineering book chapter (Biomechanics in Applications, InTech 2011) reviewing the mechanics of bone drilling — heat generation, drill-bit geometry, feed-rate, irrigation — with thermal-necrosis thresholds (47 °C/1 min, 50 °C/30 s, 56 °C) directly transferable to implant osteotomy.
 

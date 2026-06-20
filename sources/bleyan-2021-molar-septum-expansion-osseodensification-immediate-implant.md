@@ -9,6 +9,10 @@ pdf_filename: bleyan-2021-molar-septum-expansion-osseodensification-immediate-im
 source_collection: external
 ---
 
+## Why Ingested
+
+대구치 즉시식립(Immediate Implant)에서 골밀도화(Osseodensification, OD)로 치근간 중격(Interradicular Septum)을 확장해 일차 안정성을 얻는 술식의 최대 다기관 근거(145 implants). 통상 드릴이 중격에서 미끄러지는 난제를 OD가 해결함을 보여, 즉시식립 의사결정과 OD 임상응용 종합의 핵심 자료가 된다. See [[overviews/immediate-implant-decision-ladder]] and [[overviews/osseodensification-clinical-applications]].
+
 ## One-line Summary
 Retrospective multicenter cohort (131 patients, 145 immediate molar implants, 5 centers, 2015–2020) where OD expanded the interradicular septum from mean 3.3 mm to 4.65 mm osteotomy diameter; cumulative implant survival 93.1% (10 failures: 7 healing-phase, 3 post-loading).
 

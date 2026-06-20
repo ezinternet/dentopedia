@@ -9,6 +9,10 @@ pdf_filename: thornhill-2019-adverse-reactions-oral-antibiotics-dentists.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+치과의사가 처방하는 항생제별 백만건당 이상반응(Adverse Drug Reaction, ADR)·사망률을 실세계 분모로 정량화한 근거 — 아목시실린(Amoxicillin) 최안전, 클린다마이신(Clindamycin) 최고 사망률(주로 C. difficile)을 보여 "페니실린 알레르기→클린다마이신" 반사를 재고하게 한다. 항생제 스튜어드십 종합의 안전성 축을 보강한다. See [[overviews/drug-antibiotic-stewardship-overview]].
+
 ## One-line Summary
 NHS England prescription cost analysis (2010–2017) cross-referenced with Yellow Card MHRA adverse drug reaction (ADR) reports to quantify ADR rates per million prescriptions for the antibiotics dentists prescribe most: **amoxicillin safest (21.5/million overall, 0.1/million fatal)**, clindamycin most dangerous (highest fatal rate 2.9/million, mostly C. difficile), penicillin V highest anaphylaxis, macrolides associated with QT/cardiac death.
 

@@ -14,7 +14,7 @@ text_filename: he-2026-hemostatic-agents-periapical-surgery-sr-ma.txt
 
 ## Why Ingested
 
-근관외과(Periapical Surgery) 지혈제 선택에 SR+MA 근거 공백. 임상에서 황산제이철(Ferric Sulfate) vs 에피네프린(Epinephrine) 혼용 상황 정리. 네트워크 메타분석으로 에피네프린(Epinephrine)·알루미늄 클로라이드(Aluminum Chloride, AlCl₃)가 콜라겐(Collagen) 대비 우월함을 확인한 최초 SR+MA.
+근관외과(Periapical Surgery) 지혈제 선택에 SR+MA 근거 공백. 임상에서 황산제이철(Ferric Sulfate) vs 에피네프린(Epinephrine) 혼용 상황 정리. 네트워크 메타분석으로 에피네프린(Epinephrine)·알루미늄 클로라이드(Aluminum Chloride, AlCl₃)가 콜라겐(Collagen) 대비 우월함을 확인한 최초 SR+MA. See [[overviews/oral-surgery-decision-ladder]].
 
 ## One-line Summary
 

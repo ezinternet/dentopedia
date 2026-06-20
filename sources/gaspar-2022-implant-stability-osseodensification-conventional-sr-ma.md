@@ -9,6 +9,10 @@ pdf_filename: gaspar-2022-implant-stability-osseodensification-conventional-sr-m
 source_collection: external
 ---
 
+## Why Ingested
+
+Core human-data evidence for the osseodensification (OD) primary-stability literature — quantifies the ISQ advantage of OD over conventional drilling (MD 13.1 at baseline, 5.99 at 4–6 mo) feeding the [[overviews/osseodensification-clinical-applications]] synthesis. Complements the animal-model SR+MA [[implants/gaikwad-2022-osseodensification-animal-biomechanics-bic-sr-ma]] by confirming the stability gain persists into early follow-up in humans.
+
 ## One-line Summary
 SR+MA (IJOMI 2022;36(6):1104–1110) of 3 NRSIs in humans comparing OD vs conventional drilling — OD produced a significantly higher mean ISQ at baseline (MD 13.1, 95% CI 10.0–16.1, P < .0001, I² = 0.0%) and at 4–6 month follow-up (MD 5.99, 95% CI 1.3–10.6, P < .0001, I² = 73.0%).
 

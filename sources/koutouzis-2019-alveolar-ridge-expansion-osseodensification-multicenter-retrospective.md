@@ -9,6 +9,10 @@ pdf_filename: koutouzis-2019-alveolar-ridge-expansion-osseodensification-multice
 source_collection: external
 ---
 
+## Why Ingested
+
+Clinical evidence for an osseodensification (OD) indication beyond primary stability — ridge expansion via plastic deformation/compaction autografting, quantifying coronal gain by starting ridge width (2.83 mm in 3–4 mm ridges) with 92.8% survival. Feeds the ridge-expansion branch of [[overviews/osseodensification-clinical-applications]] and the indication mapping in [[overviews/versah-protocol-selection-map]].
+
 ## One-line Summary
 Multicenter retrospective (21 patients / 28 implants) showing osseodensification produces measurable alveolar ridge expansion, with greater coronal expansion in narrower starting ridges (2.83 ± 0.66 mm in 3–4 mm ridges) and 92.8% implant survival.
 

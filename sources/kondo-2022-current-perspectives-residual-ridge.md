@@ -10,6 +10,10 @@ pdf_filename: kondo-2022-current-perspectives-residual-ridge.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Supplies the molecular mechanism for residual ridge resorption central to [[overviews/bone-regeneration-socket-biology-and-arp-critique]] — reframes RRR as a pathological, lymphocyte-driven "oral-barrier osteoclast" process distinct from intra-socket remodeling, deepening the resorption biology behind why ARP is attempted in [[overviews/socket-preservation-arp-overview]].
+
 ## One-line Summary
 Narrative review proposing that residual ridge resorption (RRR) is a **pathological**, not merely physiological, process driven by oral-barrier-tissue lymphocyte-mediated osteoclast activation on the external alveolar bone surface — Rag2-/- mouse data show that T/B lymphocyte deficiency abolishes external-surface osteoclastogenesis after extraction while intra-socket remodeling remains normal.
 

@@ -9,6 +9,10 @@ pdf_filename: abraham-2014-historical-perspective-dental-implant-surfaces-treatm
 source_collection: external
 ---
 
+## Why Ingested
+
+Historical-context primer on dental implant materials and surface treatments — provides the developmental timeline (Brånemark osseointegration through machined/SLA/HA/fluoride surfaces) that frames the surface-modification comparisons in [[overviews/implant-surface-comparison]]. Background reference for understanding why surface treatment matters to osseointegration speed.
+
 ## One-line Summary
 Narrative review tracing dental implants from ~2500 BC (Egyptian ligature wire) through Brånemark's titanium osseointegration to modern surface treatments (machined, sand-blasted, etched, HA-coated, fluoride/statin).
 

@@ -9,6 +9,10 @@ pdf_filename: mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+측방 상악동거상술(Maxillary Sinus Floor Augmentation, MSFA) 80:20 탈단백우골(Deproteinized Bovine Bone, DPBB)+자가골 이식 후 임플란트의 가장 긴 임상 추적(10년) 근거. 술후 첫 2년이 결정적 실패 구간임과 장기 변연골 안정성을 입증해, 측방 상악동거상술 종합의 임상 결과 축을 채운다. See [[overviews/sinus-lift-lateral-2026-synthesis]].
+
 ## One-line Summary
 10-year prospective clinical/radiographic follow-up of 108 turned-surface implants in MSFA sites grafted with 80% DPBB + 20% autogenous bone: cumulative survival 86%, mean MBL 1.6±1.0 mm; first 2 years are critical; thereafter excellent stability irrespective of smoking or grafted-vs-residual placement site.
 

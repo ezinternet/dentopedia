@@ -9,6 +9,10 @@ pdf_filename: kalra-2025-implant-stability-crestal-bone-osseodensification-sr-ma
 source_collection: external
 ---
 
+## Why Ingested
+
+Recent (2025) SR+MA refining the osseodensification (OD) evidence base for low-density bone — confirms the ISQ stability gain seen across [[overviews/osseodensification-clinical-applications]] but adds that crestal bone level (CBL) change does NOT differ between OD and conventional drilling, an important boundary on OD's benefit. Reinforces the ISQ findings of [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]].
+
 ## One-line Summary
 SR+MA in J Prosthet Dent 2025;133(6):1462.e1–1462.e7 — 5 studies, 109 patients, 198 implants in low-density bone: OD significantly raised ISQ at both baseline and follow-up (P<.05), but crestal bone level (CBL) changes did NOT differ significantly between OD and conventional drilling (P>.05) at either timepoint.
 

@@ -11,6 +11,10 @@ retraction_status: RETRACTED
 retraction_note: "Retracted by JAMA Internal Medicine — see Article Alert on PDF page 1. A correction was also issued. Do NOT cite the original effect estimates as authoritative."
 ---
 
+## Why Ingested
+
+Retained NOT as a citable source but as a retraction/context reference — it documents the once-influential (now retracted) physician-burnout→patient-safety link, serving as a critical-appraisal cautionary anchor for [[overviews/dentist-burnout-mental-health-overview]]. Do not cite its effect estimates.
+
 ## ⚠️ RETRACTION NOTICE
 This paper has been **RETRACTED** by JAMA Internal Medicine. The original PDF carries an Article Alert: "This article has been retracted." A correction was also published. Treat all numerical findings as historical/contextual only — do not cite the effect estimates as reliable evidence.
 

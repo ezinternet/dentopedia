@@ -9,6 +9,10 @@ pdf_filename: huwais-2018-transcrestal-sinus-augmentation-compaction-grafting-mu
 source_collection: external
 ---
 
+## Why Ingested
+
+골밀도화(Osseodensification, OD) 경치조골 상악동거상술의 대표 임상 근거 — 후속 리뷰들(Cobo-Vázquez 2025 등)이 인용하는 261 implant 다기관 데이터. 261례 막천공 0건이라는 안전성 주장의 1차 출처로, 술식 선택 근거 체계의 토대를 이룬다. See [[overviews/sinus-lift-technique-selection]].
+
 ## One-line Summary
 Multicentre retrospective study (3 centres, 222 patients, 261 implants, follow-up 6–64 months, mean 35 months) of osseodensification (OD) transcrestal sinus augmentation via compaction grafting: 7.0 ± 2.49 mm vertical gain from 5.4 ± 1.9 mm baseline RBH, zero membrane perforations, no late failures, 97% cumulative survival.
 

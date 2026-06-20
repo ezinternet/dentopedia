@@ -11,6 +11,10 @@ pdf_filename: araujo-2009-ridge-alterations-flap-vs-flapless.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Foundational Araújo/Lindhe dog histology establishing that post-extraction ridge resorption is driven by intra-socket bundle-bone biology, not flap trauma — a mechanistic anchor for [[overviews/bone-regeneration-socket-biology-and-arp-critique]] and the rationale baseline for ARP in [[overviews/socket-preservation-arp-overview]]. Rebuts the claim that flapless extraction alone preserves the buccal plate.
+
 ## One-line Summary
 Dog histology study (5 mongrels, split-mouth flap vs flapless extraction, 6-month healing) showing that **flap elevation does not meaningfully alter the magnitude of post-extraction ridge resorption** — ridge change is driven by intra-socket biology (bundle bone loss), not soft-tissue trauma at the time of extraction.
 

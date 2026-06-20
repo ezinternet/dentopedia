@@ -10,6 +10,10 @@ pdf_filename: atieh-2021-interventions-replacing-missing-teeth.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+The 2021 Cochrane update is the highest-tier evidence node for [[overviews/socket-preservation-arp-overview]] — its GRADE downgrade to "very low" certainty tempers the ARP-positive conclusions and supplies the critical-appraisal backbone for [[overviews/bone-regeneration-socket-biology-and-arp-critique]]. Doubles the trial pool (8→16 RCTs) while confirming no graft-material superiority.
+
 ## One-line Summary
 2021 Cochrane update (.pub3) of the 2015 ARP review — 16 RCTs, 524 extraction sites, 426 participants; xenograft vs extraction alone shows reduced width loss (MD −1.18 mm) and height loss (MD −1.35 mm), but **certainty downgraded to "very low"** by GRADE; conclusions changed from 2015 — limited certainty about meaningful clinical benefit and no superiority among graft materials.
 

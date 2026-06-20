@@ -9,6 +9,10 @@ pdf_filename: darosa-2019-immediate-dentoalveolar-restoration-osseodensification
 source_collection: external
 ---
 
+## Why Ingested
+
+치주적으로 손상된 발치와에서 즉시식립(Immediate Implant) 일차 안정성을 얻기 위해 즉시치조재건술(Immediate Dentoalveolar Restoration, IDR)과 골밀도화(Osseodensification, OD)를 결합한 워크플로우 사례. 잔존 host bone/graft 계면을 OD로 치밀화해 IDR의 힘을 증폭하는 응용으로, OD 임상응용 범위 종합을 보강한다. See [[overviews/osseodensification-clinical-applications]] and [[overviews/immediate-implant-decision-ladder]].
+
 ## One-line Summary
 Two-case clinical report combining Immediate Dentoalveolar Restoration (IDR) — autogenous tuberosity bone block — with osseodensification osteotomy to achieve immediate implant primary stability in periodontally compromised extraction sites.
 

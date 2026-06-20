@@ -9,6 +9,10 @@ pdf_filename: trisi-2016-osseodensification-low-density-bone-sheep.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Foundational in vivo study of osseodensification (OD) in low-density bone — the heavily-cited sheep iliac-crest experiment quantifying ~30% higher bone volume, higher removal torque and lower micromotion vs conventional drilling. Anchors the low-density-bone evidence of [[overviews/osseodensification-clinical-applications]] and is the in vivo counterpart to the bench origin study [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]].
+
 ## One-line Summary
 Sheep iliac-crest in vivo study (n=2 sheep, 20 implants, 2-month healing) — OD (Versah Densah) gave ~30% higher bone volume %, better removal torque, and less micromotion under lateral load vs conventional drilling.
 

@@ -9,6 +9,10 @@ pdf_filename: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr
 source_collection: external
 ---
 
+## Why Ingested
+
+Most recent (2026) and largest human-only SR+MA in the osseodensification (OD) primary-stability evidence base (555 patients, 685 implants) — confirms OD raises both insertion torque and ISQ over standard osteotomy, updating the pooled estimates feeding [[overviews/osseodensification-clinical-applications]]. Reinforces the human ISQ advantage reported by [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]].
+
 ## One-line Summary
 SR+MA (555 patients, 685 implants, in vivo human trials only) — OD raises insertion torque (45.75 ± 6.55 N·cm vs 38.00 ± 7.01 N·cm, P<0.001) and ISQ (MD 3.24, 95% CI 0.72–5.95, P=0.024) over standard osteotomy.
 

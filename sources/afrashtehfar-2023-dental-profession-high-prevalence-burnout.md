@@ -9,6 +9,10 @@ pdf_filename: afrashtehfar-2023-dental-profession-high-prevalence-burnout.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Adds the evidence-based peer-reviewer's lens on the dentist-burnout literature — this JEBDP commentary critically appraises and endorses Moro 2022's headline emotional-exhaustion finding (~28%), anchoring the appraisal layer of [[overviews/dentist-burnout-mental-health-overview]].
+
 ## One-line Summary
 Critical appraisal/commentary on Moro 2022 — endorses the SR+MA's headline finding (EE prevalence ~28%) and provides JEBDP's commentary frame; useful as a peer-reviewer's lens but does not add new primary data.
 

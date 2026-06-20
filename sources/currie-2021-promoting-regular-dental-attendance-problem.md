@@ -9,6 +9,10 @@ pdf_filename: currie-2021-promoting-regular-dental-attendance-problem.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Identifies dentist communication and the dentist-patient relationship as key levers for converting problem-orientated attenders to regular attendance, feeding the communication/relationship branch of [[overviews/behavioral-dentistry-overview]].
+
 ## One-line Summary
 SR finds only 3 interventions targeted at problem-orientated (pain-only) dental attenders — dental anxiety clinic, advertising campaign of free dental update, free dental check-ups (Scotland policy change). Reporting is poor; key future intervention targets identified: dentist communication, dentist-patient relationship, raising awareness, free check-ups.
 

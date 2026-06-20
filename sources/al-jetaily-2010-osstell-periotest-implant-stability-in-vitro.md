@@ -9,6 +9,10 @@ pdf_filename: al-jetaily-2010-osstell-periotest-implant-stability-in-vitro.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Methodological foundation for interpreting the ISQ outcomes that dominate the osseodensification literature — an in vitro head-to-head of Osstell (RFA/ISQ) vs Periotest, establishing ISQ reliability, the ~55 failure-risk threshold, and that RFA tracks interface stiffening over time. Underpins how stability is measured throughout [[overviews/implants-isq-stability-ladder]].
+
 ## One-line Summary
 In vitro acrylic-cube model comparing Osstell (RFA/ISQ) and Periotest (PTV) for sensitivity and reliability across simulated hard/soft interfaces, horizontal bone-loss levels, and a hardening interface; Osstell was more reliable overall and the only system that tracked interface stiffening over time.
 

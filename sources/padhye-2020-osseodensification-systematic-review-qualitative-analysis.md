@@ -9,6 +9,10 @@ pdf_filename: padhye-2020-osseodensification-systematic-review-qualitative-analy
 source_collection: external
 ---
 
+## Why Ingested
+
+First systematic review focused exclusively on osseodensification (OD) — a qualitative synthesis of 12 studies establishing the early evidence map (predominantly animal/histologic) that later meta-analyses built upon. Anchors the historical evidence-base section of [[overviews/osseodensification-clinical-applications]] and is extended by the quantitative pooling in [[implants/inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]].
+
 ## One-line Summary
 Systematic review of 12 osseodensification (OD) studies through Nov 2018 — average increase in insertion torque, BIC and BAF vs conventional drilling, but evidence is predominantly animal/histologic.
 

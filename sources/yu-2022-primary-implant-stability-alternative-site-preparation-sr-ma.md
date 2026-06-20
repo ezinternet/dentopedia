@@ -9,6 +9,10 @@ pdf_filename: yu-2022-primary-implant-stability-alternative-site-preparation-sr-
 source_collection: external
 ---
 
+## Why Ingested
+
+Comparative SR+MA placing osseodensification (OD) within the wider family of alternative site-preparation methods (OD, osteotome, piezosurgery, under-drilling) by pooled ISQ gain — essential context for ranking OD against its alternatives in [[overviews/osseodensification-clinical-applications]]. Reinforces the OD ISQ advantage of [[implants/gaspar-2022-implant-stability-osseodensification-conventional-sr-ma]] while showing under-drilling performs comparably.
+
 ## One-line Summary
 SR+MA of 17 studies (12 RCTs) comparing four alternative site preparations vs conventional drilling — OD MD 10.25 ISQ (95% CI 4.97–15.52), osteotome MD 6.34, under-drilling MD 11.43; piezosurgery non-significant (MD 1.50).
 

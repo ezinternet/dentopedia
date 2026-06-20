@@ -9,6 +9,10 @@ pdf_filename: colibasanu-2025-drug-drug-interactions-dental-patients-retrospecti
 source_collection: external
 ---
 
+## Why Ingested
+
+치과 환자에서 약물상호작용(Drug-Drug Interaction, DDI)의 실제 유병률·중증도를 정량화한 실세계 근거 — 특히 심혈관질환 환자의 에피네프린(Epinephrine)+베타차단제(Beta-blocker) 같은 주요 DDI를 연령·동반질환별로 층화. 전신질환 환자 치과관리 종합의 약물안전 축을 채운다. See [[overviews/drug-systemic-disease-dental-management-overview]].
+
 ## One-line Summary
 Retrospective real-world study (n=105 dental patients, Timișoara private practice, Nov–Dec 2024): DrugBank Drug Interaction Checker analysis of 1,332 drug pairs found 542 DDIs — 2.3% major / 25.0% moderate / 13.4% minor; major DDI burden concentrated in age 31–60 (61.3%) and patients with cardiovascular disease (epinephrine + beta-blocker as flagship example).
 

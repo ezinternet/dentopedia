@@ -9,6 +9,10 @@ pdf_filename: cobo-vazquez-2025-crestal-sinus-lift-osteotome-vs-osseodensificati
 source_collection: external
 ---
 
+## Why Ingested
+
+경치조골 상악동거상술(Transcrestal Sinus Augmentation)에서 고전 osteotome(Summers)와 골밀도화(Osseodensification, OD) 중 어느 술식을 택할지 직접 비교한 근거가 필요. 본 PRISMA SR+MA(13 studies, 519 sites)는 OD가 동등한 골증대량으로 합병증을 약 5배 낮춤을 보여 술식 선택의 핵심 근거가 된다. See [[overviews/sinus-lift-technique-selection]].
+
 ## One-line Summary
 PRISMA-guided SR+MA (13 studies, 519 sites; 10 osteotome / 3 osseodensification) comparing crestal sinus lift techniques — similar bone gain (OD 3.37 mm, OST 3.18 mm) and survival (94.1–100%) but markedly lower complication rate for OD (2.78%) vs OST (14.32%).
 

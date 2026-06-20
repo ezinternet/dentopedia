@@ -9,6 +9,10 @@ pdf_filename: khalifah-2019-teaching-assessment-dentist-patient-communication.pd
 source_collection: external
 ---
 
+## Why Ingested
+
+Maps the taxonomy of dentist-patient communication skills and how they are taught/assessed, supplying the skills-and-training substrate for the communication branch of [[overviews/behavioral-dentistry-overview]].
+
 ## One-line Summary
 SR of 50 studies (2000–2016) — identifies 26 dentist-patient communication skills in 4 categories (generic, case-specific, time-specific, emerging), and synthesizes teaching/assessment methodologies; field uses a mix of passive and active strategies, all assessment measures deemed valid and reliable, but study designs are weak.
 

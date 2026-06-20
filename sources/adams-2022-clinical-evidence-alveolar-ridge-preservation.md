@@ -10,6 +10,10 @@ pdf_filename: adams-2022-clinical-evidence-alveolar-ridge-preservation.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Provides the skeptical counterweight that [[overviews/bone-regeneration-socket-biology-and-arp-critique]] needs — documents late xenograft failure (5–13 yr) and argues statistical dimensional preservation does not equal patient-centred benefit, contradicting the ARP-positive SR/MA pool in [[overviews/socket-preservation-arp-overview]]. Re-frames Carmagnola histology and the commercial drivers behind routine ARP.
+
 ## One-line Summary
 Narrative review + 2 case reports of late xenograft failure (5–10 years post-ARP) published in BDJ — challenges the routine use of ARP by highlighting that statistical dimensional preservation does not consistently translate to patient-centred clinical benefit, and documents under-reported chronic graft complications.
 

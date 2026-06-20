@@ -9,6 +9,10 @@ pdf_filename: kaki-2022-health-wellbeing-clinical-dental-professionals.pdf
 source_collection: external
 ---
 
+## Why Ingested
+
+Extends the burnout/wellbeing evidence base beyond dentists to the wider clinical dental care professional workforce (hygienists, therapists, technicians), feeding the workforce-breadth dimension of [[overviews/dentist-burnout-mental-health-overview]].
+
 ## One-line Summary
 First SR focused on UK DCPs (hygienists, therapists, clinical dental technicians, orthodontic therapists) — only 12 studies exist, dominated by therapist/hygienist data; determinants map to the same macro/meso/micro framework as dentists, but overall evidence base is thin.
 
