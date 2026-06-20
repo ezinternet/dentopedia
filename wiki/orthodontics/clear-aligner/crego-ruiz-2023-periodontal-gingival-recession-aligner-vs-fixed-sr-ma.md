@@ -5,7 +5,7 @@ year: 2023
 date: 2023-07-01
 doi: 10.4317/medoral.25760
 source: crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: true
@@ -66,6 +66,6 @@ Clinically: do not over-sell aligners as periodontally superior. When adequate o
 
 ## Related Papers
 
-- [[orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — refines: tempers Baneshi's more optimistic (RCT-only) pro-CA periodontal effect sizes by showing only 2 fragile, highly heterogeneous estimates reach significance here.
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — reinforces: the umbrella review's cautious CA-vs-FA stance; this paper supplies the periodontal-axis detail.
-- [[orthodontics/alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr]] — applies-to: parallel CA-vs-FA comparison on a different outcome axis (treatment duration / crowding).
+- [[orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — refines: tempers Baneshi's more optimistic (RCT-only) pro-CA periodontal effect sizes by showing only 2 fragile, highly heterogeneous estimates reach significance here.
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — reinforces: the umbrella review's cautious CA-vs-FA stance; this paper supplies the periodontal-axis detail.
+- [[orthodontics/clear-aligner/alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr]] — applies-to: parallel CA-vs-FA comparison on a different outcome axis (treatment duration / crowding).
