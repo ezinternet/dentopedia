@@ -3,7 +3,7 @@ title: "The impact of physical adjunctive interventions on outcomes of clear ali
 authors: Sirri MR, Namera MO, Salahi Alasbahi MY
 year: 2026
 doi: 10.1371/journal.pone.0346566
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "41950291"
@@ -15,7 +15,7 @@ text_filename: sirri-2026-physical-adjunctive-interventions-clear-aligner-rct-sr
 
 ## Why Ingested
 
-Covers the **acceleration / adjunct axis** of clear-aligner-treatment (CAT) limitations: can vibration or low-level laser shorten treatment, improve tracking, or reduce pain? The efficacy anchor [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] establishes CA≈FA occlusal equivalence in simple cases; this paper tests whether physical adjuncts move that needle and answers no (low/very-low certainty). It also contextualizes the [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] umbrella by showing the aligner-change cadence — not the device — drives tracking/time.
+Covers the **acceleration / adjunct axis** of clear-aligner-treatment (CAT) limitations: can vibration or low-level laser shorten treatment, improve tracking, or reduce pain? The efficacy anchor [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] establishes CA≈FA occlusal equivalence in simple cases; this paper tests whether physical adjuncts move that needle and answers no (low/very-low certainty). It also contextualizes the [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] umbrella by showing the aligner-change cadence — not the device — drives tracking/time.
 
 ## One-line Summary
 
@@ -67,9 +67,9 @@ First RCT-only SR (7 RCTs, n=266) of physical adjunctive interventions (vibratio
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — CAT-vs-fixed umbrella; this PAI review applies to its acceleration/limitations narrative.
-- [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only efficacy anchor (CA≈FA occlusal in simple cases); PAIs do not improve on that baseline.
-- [[wiki/orthodontics/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — force delivery / tracking determinants; complements the cadence-over-device finding.
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — CAT-vs-fixed umbrella; this PAI review applies to its acceleration/limitations narrative.
+- [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only efficacy anchor (CA≈FA occlusal in simple cases); PAIs do not improve on that baseline.
+- [[wiki/orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]] — force delivery / tracking determinants; complements the cadence-over-device finding.
 
 ## 7. Glossary
 
