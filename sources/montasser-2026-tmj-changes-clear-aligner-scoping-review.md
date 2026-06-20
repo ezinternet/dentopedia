@@ -3,7 +3,7 @@ title: "Temporomandibular joint changes after orthodontic treatment with clear a
 authors: Montasser ZM, Montasser MA
 year: 2026
 doi: 10.1186/s12903-026-08414-3
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: true
 pmid: "42098698"
@@ -15,7 +15,7 @@ text_filename: montasser-2026-tmj-changes-clear-aligner-scoping-review.txt
 
 ## Why Ingested
 
-`clear-aligner` surveillance sweep의 **TMJ/악관절 형태 변화 축**. 기존 [[wiki/orthodontics/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]]가 저작·구강기능(stomatognathic) 측면을 다룬다면, 본 scoping review는 CBCT로 측정한 과두 위치·관절강·과두 형태 변화라는 구조적(영상) 축을 보강한다. CAT가 악관절에 구조적 변화를 일으키는지에 대한 근거 현황(4편·serious RoB·exploratory)을 정리해 연구 공백을 명시.
+`clear-aligner` surveillance sweep의 **TMJ/악관절 형태 변화 축**. 기존 [[wiki/orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]]가 저작·구강기능(stomatognathic) 측면을 다룬다면, 본 scoping review는 CBCT로 측정한 과두 위치·관절강·과두 형태 변화라는 구조적(영상) 축을 보강한다. CAT가 악관절에 구조적 변화를 일으키는지에 대한 근거 현황(4편·serious RoB·exploratory)을 정리해 연구 공백을 명시.
 
 ## One-line Summary
 
@@ -77,9 +77,9 @@ Findings (intergroup CA vs comparator unless noted):
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — masticatory/stomatognathic-function side of CAT; reinforces the structural (TMJ) axis covered here.
-- [[wiki/orthodontics/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] — masticatory muscle EMG with aligners; complementary functional dimension.
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella CAT-vs-FAT overview into which this TMJ-specific gap fits.
+- [[wiki/orthodontics/clear-aligner/almalki-2024-clear-aligner-masticatory-stomatognathic-sr]] — masticatory/stomatognathic-function side of CAT; reinforces the structural (TMJ) axis covered here.
+- [[wiki/orthodontics/clear-aligner/lekaviciute-2024-clear-aligner-masticatory-muscle-emg-sr-ma]] — masticatory muscle EMG with aligners; complementary functional dimension.
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella CAT-vs-FAT overview into which this TMJ-specific gap fits.
 
 ## 7. Glossary
 
