@@ -933,6 +933,16 @@ tags: []
 - [[endodontics/regenerative/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
+- [[resin-bonding/tay-2003-water-treeing-degradation-dentin-adhesives]] — Tay & Pashley 2003 · in-vitro · **water tree 개념 originating 논문**: TEM 은 트레이서로 혼성층 위 수지상(dendritic) 수분채널 = 가수분해 열화 경로 입증 (PMID 12744405, DOI 없음)
+- [[resin-bonding/tay-2003-aging-two-modes-nanoleakage-bonded-dentin]] — Tay 2003 · in-vitro · nanoleakage 두 양상(혼성층 내 reticular vs 접착층 water-tree) 정의, 노화 시 water-tree로 이행 = 가수분해 부위 (DOI 10.1177/154405910308200710)
+- [[resin-bonding/tay-2005-tubular-occlusion-prevents-water-treeing-self-etch]] — Tay 2005 · in-vitro · 세관 폐쇄 시 1-step self-etch서 water-treeing 소실 → 잔류용매뿐 아니라 **경상아질 수분 flux**가 원인 입증 (DOI 10.1177/154405910508401004)
+- [[resin-bonding/liu-2011-limitations-bonding-dentin-bond-degradation-review]] — Liu 2011 · narrative-review · **랜드마크 종설**: 상아질 접착 열화(친수성수지 가수분해 + MMP/cathepsin 콜라겐분해)와 5대 내구성 전략(전환율↑·MMP억제·가교·에탄올습윤접착·생체모방재광화) 통합 (DOI 10.1177/0022034510391799)
+- [[resin-bonding/breschi-2018-dentin-bonding-collagen-structure-bond-preservation-review]] — Breschi 2018 · narrative-review · 혼성층은 unbound water가 가능케 한 MMP/cathepsin 콜라겐분해+수지 용출로 열화 → 수분제거+효소억제로 보존 (DOI 10.1016/j.dental.2017.11.005)
+- [[resin-bonding/tjaderhane-2015-dentin-bonding-can-we-make-it-last-review]] — Tjäderhane 2015 · narrative-review · 혼성층 결합 손실은 내인성 MMP/cysteine cathepsin + 접착제 친수성이 주도; 콜라겐기질 보존이 내구성 핵심 (DOI 10.2341/14-095-BL)
+- [[resin-bonding/kiuru-2021-mmp-inhibitors-dentin-bonding-sr-ma]] — Kiuru 2021 · sr+ma · 클로르헥시딘(CHX, MMP 억제)이 즉시는 아니나 노화(6/12/24개월) 상아질 결합강도 보존(740→43편) → 결합 내구성에 권고 (DOI 10.1155/2021/9949699)
+- [[resin-bonding/talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability]] — Talungchit 2014 · in-vitro · 에탄올습윤접착이 단량체 침투·μTBS↑; CHX 추가 시 콜라겐 보존·1년 nanoleakage 감소 (DOI 10.3290/j.jad.a32695)
+- [[resin-bonding/forville-2024-moist-dentin-adhesive-systems-reevaluation]] — Forville 2024 · sr+ma · split-mouth RCT 5편(n=195, NCCL, ≤5y): etch-and-rinse 건조 vs 습윤 접착 — 유지율·과민 차이 없음(GRADE moderate), 습윤접착 도그마 재고 (DOI 10.1016/j.jdent.2024.105495)
+- [[resin-bonding/zheng-2024-dentin-conditioners-bond-strength-sr]] — Zheng 2024 · sr+ma · 23편(15편 메타): 산성 상아질 conditioner가 장기 결합내구성 개선, 선택적 extrafibrillar 탈회가 건조접착에 유리 (DOI 10.1016/j.prosdent.2024.05.038)
 - [[resin-bonding/salvio-2013-hybridization-quality-bond-strength-adhesive-dentin]] — In vitro(µ-TBS+SEM): Clearfil SE Bond 최고 결합강도·혼성층 품질; 단일단계 E&R은 최고 나노누출 — 혼성화 품질이 결합강도 직접 예측
 - [[resin-bonding/unknown-2009-effect-of-silane-treatment-timing]] — Saliva exposure >1 second significantly reduces ceramic-resin bond strength (p < 0.05); pre-try-in silane application or post-contamination reapplication under rubber dam isolation essential; moisture control non-negotiable
 - [[resin-bonding/tay-2003-dentin-adhesives-hydrophilic]] — Narrative review (Tay & Pashley): simplified SE adhesives overly hydrophilic → water blisters, bond degradation, dual-cure incompatibility; 3-step TE most durable
