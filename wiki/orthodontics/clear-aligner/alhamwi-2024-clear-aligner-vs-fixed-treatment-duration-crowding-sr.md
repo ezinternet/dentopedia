@@ -5,7 +5,7 @@ year: 2024
 date: 2024-04-12
 doi: 10.1007/s00784-024-05629-y
 source: alhamwi-2024-clear-aligner-vs-fixed-treatment-duration-crowding-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: false
@@ -46,5 +46,5 @@ SR (no MA). 9 databases to Jun 2023; RCTs + matched non-randomized; RoB 2 / ROBI
 
 ## Related Papers
 
-- [[orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — extraction cases FA shorter (contrasts)
-- [[orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella duration statement (refines)
+- [[orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — extraction cases FA shorter (contrasts)
+- [[orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella duration statement (refines)
