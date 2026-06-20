@@ -3,7 +3,7 @@ title: "Clinical effectiveness of clear aligner treatment compared to fixed appl
 authors: Yassir YA, Nabbat SA, McIntyre GT, Bearn DR
 year: 2022
 doi: 10.1007/s00784-021-04361-1
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: false
 pmid: "34993617"
@@ -14,7 +14,7 @@ text_filename: yassir-2022-cat-vs-fat-overview-systematic-reviews.txt
 
 ## Why Ingested
 
-literature-surveillance `clear-aligner` sweep(2026-06-20) efficacy 축의 **앵커(umbrella review)**. 효율·발치/복잡·부작용 세 서브토픽 결론을 한 편이 관통 — 위키 첫 aligner 임상 항목 [[wiki/orthodontics/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] 의 단일 토픽(확장) 한계를 넘어 CAT 전반의 evidence ceiling을 설정. paywall(PMC 없음)이라 abstract-only 인제스트.
+literature-surveillance `clear-aligner` sweep(2026-06-20) efficacy 축의 **앵커(umbrella review)**. 효율·발치/복잡·부작용 세 서브토픽 결론을 한 편이 관통 — 위키 첫 aligner 임상 항목 [[wiki/orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] 의 단일 토픽(확장) 한계를 넘어 CAT 전반의 evidence ceiling을 설정. paywall(PMC 없음)이라 abstract-only 인제스트.
 
 ## One-line Summary
 
@@ -56,9 +56,9 @@ Search to 15 Jul 2021; 361 reviews screened -> 18 SRs included after excluding n
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only SR+MA, same effectiveness question.
-- [[wiki/orthodontics/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — severe/extraction subset evidence.
-- [[wiki/orthodontics/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — root-resorption magnitude.
+- [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — RCT-only SR+MA, same effectiveness question.
+- [[wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr]] — severe/extraction subset evidence.
+- [[wiki/orthodontics/clear-aligner/butsabul-2024-clear-aligner-root-resorption-cbct-sr-ma]] — root-resorption magnitude.
 
 ## 7. Glossary
 
