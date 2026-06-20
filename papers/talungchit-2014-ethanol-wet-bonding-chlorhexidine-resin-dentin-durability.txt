@@ -1,0 +1,15 @@
+Ethanol-wet bonding and chlorhexidine improve resin-dentin bond durability: quantitative analysis using raman spectroscopy.
+
+Authors: Talungchit S, Jessop JL, Cobb DS, Qian F, Geraldeli S, Pashley DH, Armstrong SR
+Journal: J Adhes Dent 2014
+PMID 25202747 | DOI 10.3290/j.jad.a32695
+
+NOTE: abstract-only — full text not retrieved (no open-access copy). Content below is the PubMed abstract.
+
+To directly test the effectiveness of ethanol-wet bonding (EW) in improving monomer infiltration into demineralized dentin through quantitative measurement of bis-GMA and TEG-DMA molar concentrations within hybrid layers, and to comprehensively evaluate the effect of EW and chlorhexidine on durability of resin-dentin bonds compared to conventional water-wet bonding (WW).
+
+A three-step etch-and-rinse adhesive (70% bis-GMA/28.75%TEG-DMA) was applied to coronal dentin using a clinically relevant ethanol-wet bonding protocol (EW) or the conventional water-wet bonding (WW) technique. Bis-GMA and TEG-DMA molar concentrations at various positions across the resin/dentin interfaces formed by EW and WW were measured using micro-Raman spectroscopy. The experiment was repeated at the same positions after 7-month storage in phosphate buffer solution containing 0.1% sodium azide. The μTBS and hybrid layer morphology (TEM) of bonding groups with and without chlorhexidine application were compared immediately and after 1-year storage in terms of nanoleakage, collagen fibril diameter, collagen interfibrillar width, and hybrid layer thickness.
+
+Specimens bonded with EW showed significantly higher monomer molar concentrations and μTBS throughout the hybrid layer immediately and after storage, providing direct evidence of superior infiltration of hydrophobic monomers in EW compared to WW. Microscopically, EW maintained interfibrillar width and hybrid layer thickness for resin infiltration and retention. The application of chlorhexidine further preserved collagen integrity and limited the degree of nanoleakage in EW after 1-year storage.
+
+EW enhances infiltration of hydrophobic monomers into demineralized dentin. The results suggest that a more durable resin-dentin bond may be achieved with combined usage of a clinically relevant EW and chlorhexidine.
