@@ -3,7 +3,7 @@ title: "Impact of clear aligners and conventional fixed orthodontic appliances o
 authors: Alhuwaizi MA, Saloom HF, Cobourne M
 year: 2026
 doi: 10.1093/ejo/cjaf100
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 source_collection: pubmed-text
 full_text: false
 pmid: "42163541"
@@ -14,7 +14,7 @@ text_filename: alhuwaizi-2026-clear-aligner-fixed-oral-hygiene-periodontal-grade
 
 ## Why Ingested
 
-`clear-aligner` sweep의 **치주·구강위생 축에 GRADE 등급을 입힌** RCT-only SR. periodontal SR+MA [[wiki/orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] 의 신중한 결론("CA가 치주에 다소 유리하나 근거 약함")을 GRADE 인증서로 보강 — 본 리뷰는 oral hygiene level은 **very low**, periodontal health는 **low** 등급으로 못 박고, CA 우위가 **순응도 의존(compliance-dependent)**임을 명시. paywall이라 abstract-only.
+`clear-aligner` sweep의 **치주·구강위생 축에 GRADE 등급을 입힌** RCT-only SR. periodontal SR+MA [[wiki/orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] 의 신중한 결론("CA가 치주에 다소 유리하나 근거 약함")을 GRADE 인증서로 보강 — 본 리뷰는 oral hygiene level은 **very low**, periodontal health는 **low** 등급으로 못 박고, CA 우위가 **순응도 의존(compliance-dependent)**임을 명시. paywall이라 abstract-only.
 
 ## One-line Summary
 
@@ -61,9 +61,9 @@ GRADE 기반 정성 SR(RCT 6편, 2015–2025.4): 치주·구강위생 지표는 
 
 ## 6. Related Work
 
-- [[wiki/orthodontics/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/gingival-recession SR+MA; this GRADE-graded SR reinforces its cautious periodontal conclusion.
-- [[wiki/orthodontics/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — provides pooled periodontal effect sizes (plaque/gingival/bleeding) favoring CA; this SR refines that picture by grading certainty as low/very-low and flagging compliance-dependence.
-- [[wiki/orthodontics/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella overview of CA-vs-FA systematic reviews.
+- [[wiki/orthodontics/clear-aligner/crego-ruiz-2023-periodontal-gingival-recession-aligner-vs-fixed-sr-ma]] — periodontal/gingival-recession SR+MA; this GRADE-graded SR reinforces its cautious periodontal conclusion.
+- [[wiki/orthodontics/clear-aligner/baneshi-2024-clear-aligners-malocclusion-sr-ma]] — provides pooled periodontal effect sizes (plaque/gingival/bleeding) favoring CA; this SR refines that picture by grading certainty as low/very-low and flagging compliance-dependence.
+- [[wiki/orthodontics/clear-aligner/yassir-2022-cat-vs-fat-overview-systematic-reviews]] — umbrella overview of CA-vs-FA systematic reviews.
 
 ## 7. Glossary
 
