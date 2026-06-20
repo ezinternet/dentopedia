@@ -9,6 +9,11 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — Ruhstorfer 2024 · sr · **맞춤형 치유지대주(customized healing abutment)** SR(5편/190임플란트, 생존 100%): 통상형 대비 치주조직·심미 개선 경향·통증↓·단점 없음 (DOI 10.1186/s40729-024-00581-8)
+- [[implants/rios-santos-2020-one-abutment-one-time-rct]] — Ríos-Santos 2020 · rct · 다기관 RCT(147명/231임플란트): one-abutment-one-time(최종지대주 수술 시 장착, 반복 분리 안 함) vs 반복분리 — MBL/ISQ 차이 없음; 지대주 높이 2mm>1mm (DOI 10.3390/ijerph17249453)
+- [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — Siegenthaler 2022 · rct · 전치부 임플란트: 볼록(convex) emergence profile이 12개월 점막퇴축 64% vs 오목(concave) 14%(OR 12.69) → 오목/평탄 권장 (DOI 10.1111/jcpe.13696)
+- [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — Wang 2022 · rct · 협측 emergence profile 설계가 12개월 퇴축 감소(0.13 vs 0.63mm, p=0.006); ~32° 각도가 40°보다 우수 (DOI 10.1111/cid.13088)
+- [[implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — Canullo 2020 · sr+ma · 티타늄 지대주 표면개질 SR+MA(10편/6 pooled): 단기 연조직 지표(PI/BoP/PD) 차이 없음, 장기는 상충 (DOI 10.1007/s00784-020-03210-x)
 - [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — Mourão 2025 · rct · EBD critical summary: tapered vs cylindrical 임플란트 초기치유 RCT 평가 — tapered가 삽입토크 높고 cylindrical이 6주 ISQ/IST 높음, 술식 > 매크로지오메트리 (DOI 10.1038/s41432-025-01202-y)
 - [[implants/kim-2009-peri-implant-mucosa-blood-vessels-flap-flapless]] — 동물(성견, 6마리): 무피판 임플란트 수술 후 임플란트 주위 점막 혈관 분포율 1.7% vs 피판 1.2% (p<0.05)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
@@ -372,6 +377,8 @@ tags: []
 - [[immediate-implant/zhang-2026-socket-shield-orthodontic-premolar-rct]] — RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, paired): 교정 발치 (premolar) 맥락 SST 첫 RCT — paired allocation, shield는 인접치 근접 시 제거. 적응증 교정 분야 확장
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
+- [[sinus-lift/lateral/alalshaikh-2024-membrane-perforation-risk-factors-lateral-sinus-sr-ma]] — Alalshaikh 2024 · sr+ma · 측방창 막천공 위험인자 SR+MA: 얇은 막<1.5mm·중격(septa) 3배·흡연 1.6배가 가장 두드러짐; window size·결손치수는 무관 (DOI 10.1016/j.oooo.2024.12.008)
+- [[sinus-lift/lateral/ke-2024-sinus-membrane-thickness-perforation-risk-sr-ma]] — Ke 2024 · sr+ma · CBCT 11편: 천공례서 막이 더 얇으나(MD −0.91mm) 특정 두께 cutoff(1/1.5/2mm)는 위험 예측 못함 (DOI 10.4317/medoral.26545)
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — Meta-analysis (14 RCTs, 901 implants): short implants (≤6mm) equal survival vs. standard+sinus lift; significantly less MBL at ≤1yr (0.11mm) and >1yr (0.23mm); supports short implants as first-line in atrophic posterior maxilla
 - [[sinus-lift/lateral/starch-jensen-2017-sinus-floor-augmentation-treatment-modalities]] — Review: LSA (<5mm), VSA/osteotome (5-8mm), short implants (≥5mm); all show high survival; membrane perforation common complication; residual bone height drives technique selection
 - [[sinus-lift/lateral/starch-jensen-2019-sinus-augmentation-barrier-membrane-window]] — SR+MA (6 RCTs): barrier membrane coverage of lateral window shows no significant difference in survival, bone formation, or complications vs no membrane; routine use not evidence-based
@@ -455,6 +462,7 @@ tags: []
 - [[sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk]] — 증례(n=1): 비중격만곡·할러세포·알레르기비염 고위험자에서 국소 스테로이드+LTRA+항생제로 SFE 후 상악동염 비침습 예방(7개월+ 무증상) (DOI 10.1155/2020/6869805)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
+- [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
 - [[sinus-lift/transcrestal/sirinirund-2025-minimally-invasive-sinus-augmentation-review]] — SR (36 studies, 2732 MSFA): VSA (≥5mm) vs LSA (<5mm); stopper bur/balloon/hydraulic/endoscope/microscope techniques; all achieve sufficient augmentation with reduced morbidity
 - [[sinus-lift/transcrestal/liu-2018-endoscopically-controlled-flapless-transcrestal-sinus]] — Case report (RBH 3.5 mm): endoscope-controlled flapless TSFE + PRF + simultaneous implant; ISQ 72.6 at placement; loading at 12 wk
 - [[sinus-lift/transcrestal/farina-2018-morbidity-transcrestal-lateral-sinus-floor-elevation]] — RCT (29 tSFE vs 28 lSFE): lSFE less painful day 0; tSFE less swelling/bruising/nasal discharge through 14 days
@@ -934,6 +942,8 @@ tags: []
 - [[endodontics/regenerative/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
+- [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — Borouziniat 2024 · sr+ma · 26편 SR+MA: 지르코니아에 self-adhesive ≈ self-etch 레진시멘트(차이 없음), total-etch는 유의 낮음(p=.00) (DOI 10.4103/JCDE.JCDE_225_23)
+- [[resin-bonding/musharbash-2025-cleaning-agents-contaminated-zirconia]] — Musharbash 2025 · in-vitro · 타액오염 지르코니아: 에어입자분사(APC) 최고 SBS, Katana Cleaner/Ivoclean/Zirclean는 대안 가능, thermocycling 시 전반 감소 (DOI 10.1111/jerd.13512)
 - [[resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] — Yoshihara 2011 · in-vitro · **10-MDP nanolayering originating 연구**: MDP-Ca 자기조립 nanolayer가 법랑질·상아질에 형성(상아질>법랑질, MDP 농도·scrubbing 비례) = mild self-etch 화학결합 기전 (DOI 10.1016/j.actbio.2011.04.026)
 - [[resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] — Nagaoka 2017 · in-vitro · NMR로 10-MDP-지르코니아 결합 기전 규명: 이온결합(P-O⁻↔Zr)+수소결합 공존, 농도의존 SBS(최소 ~1ppb) (DOI 10.1038/srep45563)
 - [[resin-bonding/tian-2015-paucity-nanolayering-mdp-resin-dentin]] — Tian 2015 · in-vitro · 상용 10-MDP 접착제는 nanolayering 거의 없음(실험용 15%서만 profuse, ~3.7nm) → 결합내구성 기여 임상적 의문 제기 (DOI 10.1177/0022034515623741)
