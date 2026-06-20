@@ -1,0 +1,15 @@
+Effectiveness of Cleaning Agents on Bond Strength to Contaminated Zirconia.
+
+Authors: Musharbash L, Fnu K, Ozer F, Anadioti E, Blatz MB (University of Pennsylvania)
+Journal: J Esthet Restor Dent 2025;37(11):2451-2458
+PMID 40625229 | DOI 10.1111/jerd.13512
+
+NOTE: abstract-only — full text not retrieved. Content below is the PubMed abstract.
+
+OBJECTIVE: Evaluate the effect of several cleaning methods on resin bond to contaminated zirconia before and after thermocycling.
+
+METHODS: 100 zirconia specimens (KATANA STML, Noritake), prepared and randomized into 4 experimental + 1 control (n=20). Contaminated with human saliva, cleaned by: air-particle abrasion (APC), Katana Cleaner (KC), Ivoclean (IC), Zirclean (ZC). Composite resin cylinders bonded with dual-cure resin cement (Panavia V5, Kuraray Noritake). After 48 h distilled-water storage at 37°C, half underwent 10,000 thermal cycles. Shear bond strength (SBS) measured (0.5 mm/min); failure type by stereomicroscope. One-way ANOVA + Bonferroni post hoc (α=0.05).
+
+RESULTS: Significant differences in SBS between normal and thermocycling conditions in all groups (p<0.05). Air-particle abrasion (APC) showed significantly higher SBS than other cleaning methods (p<0.05).
+
+CONCLUSION: While air-particle abrasion showed the highest effectiveness, chemical cleaners (Katana Cleaner, Ivoclean, Zirclean) offered viable alternatives. Thermocycling reduced bond strength across all groups.
