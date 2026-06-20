@@ -1,16 +1,12 @@
 ---
 title: "Perioperative Anti-inflammatory Drugs and Recovery after Periodontal Surgery: A Systematic Review and Meta-Analysis"
-authors: Goncalves et al.
+authors: M. Abusamak, A. Elananza, I. Alshdaifat, F.S. Al-Hamed, H. Al-Waeli
 year: 2025
 doi: 10.1177/23800844251365539
-pmid: "40947958"
-pmcid: "PMC13232574"
 category: [drug/antibiotics]
-source_collection: pubmed-text
-full_text: false
-source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC13232574/
-text_path: /Users/oracleneo/llm-wiki/papers/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.txt
-text_filename: goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.txt
+pdf_path: /Users/oracleneo/llm-wiki/papers/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
+pdf_filename: goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
+source_collection: external
 relations:
   - type: reinforces
     target: mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr
@@ -30,70 +26,103 @@ SR+MA of 6 RCTs (n=262) comparing perioperative NSAIDs vs corticosteroids (SAIDs
 
 ## 1. Document Information
 
-- **Journal**: JDR Clinical & Translational Research
-- **Year**: 2025
+- **Journal**: JDR Clinical & Translational Research, Vol. 11, Issue 3
+- **Year**: 2025 (published July 2026 issue — confirmed from header "JDR Clinical & Translational Research July 2026")
 - **DOI**: [10.1177/23800844251365539](https://doi.org/10.1177/23800844251365539)
-- **PMID**: 40947958 / **PMCID**: PMC13232574
+- **PROSPERO registration**: CRD42024568891
+- **Affiliations**: Faculty of Dentistry, Dalhousie University, Halifax, Canada; Ministry of Health, Amman, Jordan; College of Dental Medicine, Qatar University, Doha, Qatar
 - **Study type**: Systematic review + meta-analysis (PRISMA)
 - **Search date**: Up to April 2025
-- **Databases**: Multiple online databases (not specified in abstract)
+- **Databases**: EMBASE (Ovid), MEDLINE (PubMed), Scopus (Elsevier), and additional databases using MeSH terms + Boolean operators
 - **Included studies**: 6 RCTs, 262 participants
 - **Population**: Adults undergoing periodontal surgeries
-- **Comparator**: Perioperative SAIDs (corticosteroids) vs NSAIDs
+- **Comparator**: Perioperative SAIDs (corticosteroids, e.g., dexamethasone) vs perioperative NSAIDs (e.g., ibuprofen, etoricoxib, celecoxib)
 
 ## 2. Key Contributions
 
-1. First SR+MA specifically comparing perioperative SAIDs vs NSAIDs outcomes after **periodontal** (not third-molar) surgery.
-2. Demonstrates a **time-dependent reversal**: NSAIDs > SAIDs early (0–6 h), SAIDs > NSAIDs later (48 h) — clinically important for dosing strategy.
-3. Swelling and rescue analgesic consumption showed **no statistically significant difference** between drug classes.
-4. GRADE assessment: moderate-to-low certainty across all outcomes, limiting definitive recommendations.
-5. Calls for individualized perioperative protocols based on surgical complexity and wound-healing requirements.
+1. **First SR+MA directly comparing SAIDs vs NSAIDs** after periodontal (not third-molar) surgery — prior reviews compared each drug class to placebo only.
+2. **Time-dependent pain reversal demonstrated**: NSAIDs > SAIDs for early pain (0–6 h); SAIDs > NSAIDs at 48 h — clinically actionable for perioperative dosing strategy.
+3. **Swelling and rescue medication**: No statistically significant difference between drug classes on these secondary outcomes.
+4. **Pharmacokinetic rationale for timing**: NSAIDs (ibuprofen: half-life 1–2 h, peak 30–60 min) work faster than SAIDs (dexamethasone: half-life 6–12 h, peak 3–4 h) — explaining the early NSAID advantage; SAIDs should be started the night before or 1–2 h preoperatively for optimal perioperative coverage.
+5. **Clinical guidance for surgery type**: SAIDs preferred for complex/plastic periodontal surgeries requiring tension-free wound healing (GBR, soft-tissue augmentation) to prevent wound dehiscence; NSAIDs suitable for simple periodontal procedures where wound tension is not critical.
+6. **GRADE evidence quality**: Moderate-to-low certainty across all outcomes; recommendations must be individualized.
 
 ## 3. Methodology and Architecture
 
-- **Design**: PRISMA-guided SR+MA
-- **Primary outcome**: Postoperative pain (VAS)
-- **Secondary outcomes**: Postoperative swelling, rescue medication consumption
-- **Statistical model**: Random-effects model
-- **Evidence quality tool**: GRADE system
+- **Design**: PRISMA-guided SR+MA; protocol prospectively registered (PROSPERO CRD42024568891)
+- **Research question (PICOS)**: Adults undergoing periodontal surgery (P); perioperative SAIDs (I) vs NSAIDs (C); postoperative pain, swelling, rescue medication, adverse events (O); RCTs only (S)
+- **Primary outcome**: Postoperative pain (VAS, 0–100)
+- **Secondary outcomes**: Postoperative swelling (VAS), rescue medication consumption
+- **Statistical model**: Random-effects model (Knapp-Hartung method for variance estimation)
+- **Heterogeneity**: Cochrane Q test + I² statistic
+- **Evidence quality tool**: GRADE system per outcome
+- **Risk of bias**: RoB 2 tool (revised Cochrane tool for RCTs)
 - **Screening**: 2,354 articles screened → 6 RCTs included
 - **Participants**: 262 total across 6 RCTs
-- **Comparisons**: Perioperative NSAIDs vs perioperative SAIDs (corticosteroids) in periodontal surgical patients
+- **Drug comparisons**: Perioperative NSAIDs (ibuprofen, etoricoxib, celecoxib, diflunisal, nimesulide) vs perioperative SAIDs (dexamethasone, methylprednisolone)
 
-Note: full text body was not returned by the PMC API (abstract-only retrieval). Detailed drug regimens, individual study data, and forest plots are not available in this summary.
+### Included RCTs (6 studies, 1988–2022)
+
+Key studies meeting direct SAID vs NSAID comparison criteria (6 of 14 identified RCTs):
+- Pilatti et al. 2006 (celecoxib vs dexamethasone — crossover, open flap debridement)
+- Steffens et al. 2010 (dexamethasone vs etoricoxib — crossover, open flap debridement)
+- Steffens et al. 2011 (dexamethasone vs placebo — parallel)
+- Peres et al. 2012 (crown lengthening — complex periodontal surgery)
+- Zardo et al. 2013 (etoricoxib vs dexamethasone, mucogingival surgery)
+- Vieth et al. 2022 (IV dexamethasone, flap surgery — standardized postoperative analgesic regimen)
 
 ## 4. Key Results and Benchmarks
 
-**Postoperative pain — early (0–6 h):**
-- NSAIDs significantly better than SAIDs
-- Mean difference (MD): 1.00 to 2.23; 95% CI: 0.21 to 3.77
-- Favors NSAIDs for early pain control
+### Postoperative Pain (VAS, 0–100)
 
-**Postoperative pain — late (48 h):**
-- SAIDs significantly better than NSAIDs
-- MD: −0.23; 95% CI: −0.31 to −0.14
-- Favors SAIDs for sustained pain control at 48 h
-- Note: MD of 0.23 on VAS is statistically significant but of questionable clinical significance
+| Timepoint | Favors | MD (95% CI) | GRADE certainty |
+|---|---|---|---|
+| 1 h | NSAIDs | MD +1.00 (0.73, 1.27) | Moderate |
+| 2 h | NSAIDs | MD +1.00 (0.60, 1.39) | Moderate |
+| 3 h | NSAIDs | MD +1.98 (1.39, 2.56) | Moderate |
+| 4 h | NSAIDs | MD +2.01 (1.62, 2.39) | Moderate |
+| 5 h | NSAIDs | MD +2.33 (0.70, 3.77) | Moderate |
+| 6 h | NSAIDs | MD +1.70 (0.21, 3.19) | Moderate |
+| 7 h | Neither | MD −0.01 (−0.36, 0.35) | Low |
+| 8 h | Neither | MD 0.00 (−0.45, 0.45) | Low |
+| 24 h | Neither | MD −0.39 (−2.09, 1.31) | Very low |
+| 48 h | SAIDs | MD −0.23 (−0.31, −0.14) | Moderate |
+| 72 h | Neither | MD 0.00 (−0.04, 0.03) | Low |
 
-**Postoperative swelling:**
+Note: MD values show SAIDs minus NSAIDs; positive values favor NSAIDs for pain reduction (less pain with NSAIDs), negative favors SAIDs.
+
+### Postoperative Swelling (24 h, VAS)
+- MD: −3.38 (95% CI: −126.81, 120.04) — very wide CI, GRADE very low
 - No statistically significant difference between SAIDs and NSAIDs
 
-**Rescue medication consumption:**
-- Comparable between groups; no significant difference
+### Rescue Medication Consumption
+- MD: 0.01 more (95% CI: −0.33, 0.36) — GRADE low
+- No statistically significant difference between drug classes
 
-**Evidence quality (GRADE):**
-- Moderate-to-low certainty across outcomes
-- Limitations: few included studies, methodological biases, heterogeneity in drugs used and dosing regimens
+### Clinical Interpretation
+- NSAIDs are statistically superior early (0–6 h), but differences (MD 1.00–2.33 on 100-point VAS) are of **uncertain clinical significance**
+- SAIDs are statistically superior at 48 h (MD 0.23 on 100-point VAS), also of **uncertain clinical significance**
+- Pharmacokinetic explanation: NSAIDs have faster onset (30–60 min) vs SAIDs (3–4 h), so preoperative SAID dosing must begin 1 night before + 1–2 h before surgery to be effective
 
 ## 5. Limitations and Future Work
 
 - Only 6 RCTs with 262 participants — underpowered for definitive conclusions
-- Heterogeneity in drug agents, doses, and regimens across studies (multiple NSAIDs and corticosteroid types pooled)
-- Moderate-to-low GRADE certainty limits clinical translation
-- Clinical significance of statistically significant differences is uncertain (especially the 0.23 VAS difference at 48 h)
-- Variation in surgical procedures (periodontal surgery is not one procedure)
-- Need for high-quality RCTs with standardized drug protocols, longer follow-up, and patient-centered outcomes
-- Authors emphasize individualized protocols based on surgical complexity and wound-healing needs
+- High heterogeneity in study design (crossover vs parallel), drug agents, doses, and surgery types pooled together
+- Subgroup analysis limited — only 2 studies had identical design + surgery type (crossover + open flap debridement)
+- Small number of studies precluded publication bias assessment (requires n ≥ 10)
+- Most studies from Brazil — genetic, socioeconomic factors may limit global generalizability (though Brazilian population is multiethnic)
+- Swelling measured subjectively (VAS) — objective measures (Laskin method) needed in future trials
+- Only 3 studies reported adverse events; safety conclusions remain limited
+- Long-term outcomes (wound healing, clinical attachment level, QoL) not evaluated
+- Standardized postoperative analgesic regimen used in only 1 RCT (Vieth et al. 2022)
+
+**Recommendations for future trials:**
+1. Use both objective and patient-reported outcomes
+2. Report safety and adverse events systematically
+3. Evaluate long-term outcomes (wound healing, CAL, infection, QoL)
+4. Conduct multicentric, multiethnic RCTs
+5. Adopt standardized postoperative anti-inflammatory/analgesic regimen for 3 days postoperatively as a background protocol
+6. Include all periodontal surgery types with stratified secondary analyses by surgery complexity
 
 ## 6. Related Work
 
@@ -103,14 +132,24 @@ Note: full text body was not returned by the PMC API (abstract-only retrieval). 
 - [[drug/etikala-2019-nsaids-periodontal-implant-therapy-review]] — Review of NSAIDs in periodontal and implant therapy
 - [[drug/mohammadpour-2025-antibiotic-prophylaxis-oral-surgery-sr]] — Complementary SR on antibiotic prophylaxis in oral surgery (paired perioperative drug management evidence)
 
+Prior reviews cited in paper (not all in wiki):
+- Caporossi et al. 2020 (Clin Oral Invest) — pharmacological management of pain after periodontal surgery SR+MA
+- Wagner et al. 2022 (Clin Adv Periodontics) — corticosteroids after periodontal surgery SR (included third-molar RCTs)
+- Lages et al. 2024 (Front Pharmacol) — preemptive oral analgesia in periodontal surgery SR (compared to placebo only, no direct SAID vs NSAID)
+- Brigola et al. 2022 — preoperative vs postoperative analgesia in periodontal surgery SR+MA
+- Isiordia-Espinoza et al. 2023 — COX-2 inhibitors in periodontal surgery SR+MA
+
 ## 7. Glossary
 
-- **SAIDs** (Steroidal Anti-Inflammatory Drugs): Corticosteroids (e.g., dexamethasone, methylprednisolone) used perioperatively to reduce inflammation and swelling
-- **NSAIDs** (Nonsteroidal Anti-Inflammatory Drugs): e.g., ibuprofen, diclofenac, naproxen — COX-1/COX-2 inhibitors used for pain and inflammation
-- **VAS** (Visual Analog Scale): 0–10 cm scale for pain intensity measurement
-- **MD** (Mean Difference): Continuous-outcome effect measure in meta-analysis
+- **SAIDs** (Steroidal Anti-Inflammatory Drugs): Glucocorticoids/corticosteroids, e.g., dexamethasone, methylprednisolone — inhibit phospholipase A2 → block arachidonic acid → suppress both COX and lipoxygenase pathways; perioperatively reduce inflammation, swelling, and delayed postoperative pain
+- **NSAIDs** (Nonsteroidal Anti-Inflammatory Drugs): COX-1/COX-2 inhibitors, e.g., ibuprofen, etoricoxib, celecoxib, diclofenac, nimesulide — reversibly inhibit COX enzymes, reduce prostaglandin synthesis; faster onset than SAIDs; GI/renal side-effect risk with long-term use
+- **VAS** (Visual Analog Scale): 0–100 mm or 0–10 cm scale for pain/swelling intensity
+- **MD** (Mean Difference): Effect measure for continuous outcomes in meta-analysis
 - **PRISMA**: Preferred Reporting Items for Systematic Reviews and Meta-Analyses
-- **GRADE**: Grading of Recommendations Assessment, Development and Evaluation — evidence quality framework
-- **Perioperative**: Around the time of surgery (pre-, intra-, and post-operative periods)
-- **Rescue medication**: Additional analgesic taken when primary medication is insufficient
-- **Trismus**: Limited mouth opening; a postoperative complication after oral surgery (mentioned in study key but not explicitly in abstract)
+- **GRADE**: Grading of Recommendations Assessment, Development and Evaluation — certaintly framework (high/moderate/low/very low)
+- **Perioperative**: Pre-, intra-, and postoperative period around surgery
+- **Rescue medication**: Additional analgesic used when primary medication insufficient
+- **Open flap debridement (OFD)**: Basic periodontal surgery — flap elevation to access root surfaces; classified as "simple" surgery
+- **Random-effects model**: Statistical pooling model accounting for between-study heterogeneity (appropriate when studies differ in population/design)
+- **I²**: Inconsistency statistic — percentage of variance attributable to between-study heterogeneity (>50% = substantial)
+- **PROSPERO**: International Prospective Register of Systematic Reviews
