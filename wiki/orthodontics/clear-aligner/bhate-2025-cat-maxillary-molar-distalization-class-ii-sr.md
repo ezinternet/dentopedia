@@ -5,7 +5,7 @@ year: 2025
 date: 2025-06-30
 doi: 10.4103/jispcd.jispcd_59_24
 source: bhate-2025-cat-maxillary-molar-distalization-class-ii-sr.md
-category: [orthodontics]
+category: [orthodontics/clear-aligner]
 confidence: sr
 source_collection: pubmed-text
 full_text: true
@@ -51,6 +51,6 @@ SR (no MA; PROSPERO CRD42024531205). 5 databases to Dec 2023; Class II treated w
 
 ## Related Papers
 
-- [[orthodontics/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — qualitative anchorage thesis (this quantifies)
-- [[orthodontics/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — alternative Class II aligner mechanics
-- [[orthodontics/nucera-2022-composite-attachments-clear-aligners-sr]] — attachments improve expression
+- [[orthodontics/clear-aligner/inchingolo-2023-clear-aligner-distalization-predictability-sr]] — qualitative anchorage thesis (this quantifies)
+- [[orthodontics/clear-aligner/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma]] — alternative Class II aligner mechanics
+- [[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]] — attachments improve expression
