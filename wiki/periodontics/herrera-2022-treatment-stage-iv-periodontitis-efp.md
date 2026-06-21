@@ -13,6 +13,9 @@ source_collection: external
 tags: [periodontitis, stage-IV, EFP, interdisciplinary, orthodontics, prosthodontics, SPT]
 ---
 
+## One-line Summary
+EFP S3-level clinical practice guideline (based on 13 commissioned SRs + GRADE) for stage IV periodontitis (masticatory dysfunction, mobility ≥2, severe ridge defects, <20 teeth): mandates interdisciplinary rehabilitation (orthodontics, prosthodontics, implants) after active periodontal therapy plus high-intensity SPT; tooth-loss hazard is 3.73× higher than stage I over 10–30 years.
+
 ## 한줄요약
 EFP S3 4기 치주염 치료 지침(13개 SR 기반): 치주 치료 후 교정·보철 등 다학제 재활 + 집중 SPT 프로토콜.
 
