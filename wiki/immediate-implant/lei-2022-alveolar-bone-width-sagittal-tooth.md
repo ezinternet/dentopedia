@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective CBCT study (n=120) found that maxillary central incisors in Class III canine relationships have significantly thinner labial bone (often <1 mm apically) and greater labial root inclination than Class I, indicating malocclusion class is an under-appreciated covariate to screen before immediate implant placement.
+
 ## 한줄요약
 CBCT 후향적 연구(n=120): Class III 견치 관계에서는 상악 중절치의 치근축이 더 협측으로 기울어 있고 순측 골 두께가 얇아지는 경향이 있어, 즉시 식립 시 술 전 평가에 견치 관계도 변수로 포함해야 한다.
 
