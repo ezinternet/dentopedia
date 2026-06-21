@@ -13,6 +13,9 @@ source_collection: external
 tags: [saline-irrigation, sharp-drill, K-wire, in-vivo, dog-tibia, osteonecrosis, orthopedic, Level-II]
 ---
 
+## One-line Summary
+Controlled in vivo canine study (Iowa Orthop J 2022, Level II; 5 devices × ± saline irrigation, bicortical tibial drilling): saline irrigation and sharp drill bits both significantly reduced temperature rise and acute histologic osteonecrosis, while conventional trocar-tip Kirschner wires produced the largest temperature rise and most osteonecrosis — supporting irrigation + sharp instrumentation as a mitigation principle transferable to implant osteotomy.
+
 ## 한줄요약
 정형외과 dog tibia in vivo(Iowa Orthop J 2022, Level II, 5 device ± saline): saline irrigation과 sharp drill bit가 발열·급성 osteonecrosis 유의 감소; 전통 trocar-tip K-wire가 가장 큰 발열·가장 큰 osteonecrosis — 임플란트 영역에도 동일한 mitigation 원칙 적용 가능.
 
