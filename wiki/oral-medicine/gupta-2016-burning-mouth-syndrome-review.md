@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of burning mouth syndrome (BMS) as a chronic pain disorder, covering epidemiology (0.7–4.6% prevalence, predominantly post-menopausal women), multifactorial pathophysiology (peripheral neuropathy plus psychological distress), diagnosis, and treatment, with RCT-supported alpha-lipoic acid and clonazepam.
+
 ## 한줄요약
 BMS 정의·역학(폐경 후 여성 0.7–4.6%)·병인·치료 기초 고찰.
 
