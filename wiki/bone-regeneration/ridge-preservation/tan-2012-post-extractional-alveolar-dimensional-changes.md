@@ -13,6 +13,9 @@ source_collection: external
 tags: [systematic-review, ridge-resorption, post-extraction, dimensional-change, EAO-consensus]
 ---
 
+## One-line Summary
+SR of 20 human studies (EAO 5th Consensus Workshop) quantifying post-extraction ridge changes after 6 months of spontaneous healing: horizontal resorption (−3.79 mm) dominates vertical (buccal −1.24 mm), with horizontal change of 29–63% vs vertical 11–22% — a widely cited baseline for alveolar ridge preservation (ARP) discussion.
+
 ## 한줄요약
 20개 인간 연구를 종합한 SR로, 발치 6개월 후 자연치유 시 수평적 흡수(−3.79 mm)가 수직적 흡수(buccal −1.24 mm)를 압도하며 수평 변화율 29~63%, 수직 변화율 11~22%로 정량화 — Van der Weijden 2009와 더불어 ARP 논의의 베이스라인 수치를 제공.
 
