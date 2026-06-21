@@ -734,12 +734,10 @@ tags: []
 - [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA (64편, 11,560개): 5년 생존율 단일체 리튬 디실리케이트 98.5% 최고·금속도재 97.1%(혹은 96.2%)·veneer형 94.7%·단일체 지르코니아 97.1%; 단일체 디자인이 치핑 유의하게 감소
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — SR 개요 (38편, ~10,000 수복물): 지르코니아 치아·임플란트 지지 단관·FDP 5년 생존율 양호; 베니어 도재 치핑 가장 흔한 합병증.
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — DGI/DGZMK S3 가이드라인: 단관 리튬 디실리케이트·지르코니아 권장(3년 96–97%); FDP·전악 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기.
-- [[prosthetic-materials/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Soo-Yeon Yoo 2023 (대한치과의사협회지, SNU 보철) · narrative-review · 중증 장애 환자용 IC-RPD(임플란트 써베이드 크라운 유지 국소의치) — 통상 의치·전악 고정성 보철 어려운 경우의 중간 대안; MBL·생존 고찰(구체 수치 [미검증])
-- [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — SR+MA(RCT/크로스오버 14편, 2010–2020, 모두 저비뚤림): 임플란트 오버덴쳐 어태치먼트 — 바=유지력 최고·텔레스코픽=만족도 최고·로케이터=협소 악간공간·자석=열위; 임플란트 생존율은 어태치먼트와 무관
-- [[prosthetic-materials/tayari-2024-implant-supported-overdenture-failures-sr]] — PRISMA SR(20편, 2018–2023): 임플란트 오버덴쳐 실패 위험인자 — 전신상태·악궁(상악 위험↑)·임플란트 개수·부하 프로토콜; 술자 숙련·정기 유지관리가 핵심
-- [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]] — SR+MA(RCT/크로스오버 6편, 저비뚤림): 하악 임플란트 오버덴쳐에서 볼이 로케이터·자석보다 보철 합병증 유의하게 적음(RR 0.55, p=0.03); 변연골소실·탐침깊이 NS
-- [[prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — SR+MA(15편, 1–10년 추적): 상악 오버덴쳐 4 vs 6 스플린트 임플란트 — 임플란트·보철 생존율, 합병증, 만족도 모두 NS; 4개 스플린트가 보수적 선택
-- [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — SR+MA(RCT 6편, 101명·234 MDI): 미니임플란트 오버덴쳐 — 볼·바·ERA MBL 동등, 텔레스코픽이 유의하게 MBL 큼(p<0.05); 볼이 1년 합병증 최저
+- [[complete-denture/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Soo-Yeon Yoo 2023 (대한치과의사협회지, SNU 보철) · narrative-review · 중증 장애 환자용 IC-RPD(임플란트 써베이드 크라운 유지 국소의치) — 통상 의치·전악 고정성 보철 어려운 경우의 중간 대안; MBL·생존 고찰(구체 수치 [미검증])
+- [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — SR+MA(RCT/크로스오버 14편, 2010–2020, 모두 저비뚤림): 임플란트 오버덴쳐 어태치먼트 — 바=유지력 최고·텔레스코픽=만족도 최고·로케이터=협소 악간공간·자석=열위; 임플란트 생존율은 어태치먼트와 무관
+- [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — SR+MA(15편, 1–10년 추적): 상악 오버덴쳐 4 vs 6 스플린트 임플란트 — 임플란트·보철 생존율, 합병증, 만족도 모두 NS; 4개 스플린트가 보수적 선택
+- [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — SR+MA(RCT 6편, 101명·234 MDI): 미니임플란트 오버덴쳐 — 볼·바·ERA MBL 동등, 텔레스코픽이 유의하게 MBL 큼(p<0.05); 볼이 1년 합병증 최저
 - [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] — narrative SR(Clin Exp Dent Res 2023, 68편): 부분피개 수복물(PCR) 레진 시멘트 선택 가이드 — 금속/PFM=self/dual-cure, 얇고 투명한 세라믹=light-cure conventional, 라미네이트 베니어=self-etch/self-adhesive dual-cure 금기
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] — SR(JABFM 2024, 14편): 풀세라믹 RBFDP — 3–10년 생존율 76–100%, cantilever 단일 abutment 디자인 우세, IPS e.max ZirCAD·In-Ceram zirconia 주류, debonding이 최다 실패; 보조 유지장치(box·groove·pinhole) 권장
 - [[prosthetic-materials/manziuc-2023-zls-ceramic-digital-dentistry-review]] — narrative review(Medicina 2023): 지르코니아 강화 리튬실리케이트(ZLS — Vita Suprinity, Celtra Duo/Press) — 리튬디실리케이트보다 강도↑·투명도↓; 본딩에 HF etching·샌드블라스팅·레이저 etching 표준
@@ -806,7 +804,6 @@ tags: []
 - [[dental-materials/zirconia/oh-2016-zirconia-core-fitness-four-bur-types]] — In vitro: torpedo & deep chamfer burs → superior marginal/internal fitness for CAD/CAM zirconia; shoulder bur → 90% full-seating failure; clinically unacceptable
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — JDR 비평적 리뷰: 고강도 세라믹(알루미나·지르코니아) 레진본딩 지침; Rocatec/CoJet 권장; 캔틸레버 RBFDP 5yr 92.3%·10yr 94.4%
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 서술적 리뷰(1998–2021): 3Y-TZP→5Y-PSZ→M3Y/M5Y→6Y UHTZ 발전사; 이트리아 증가→투명도↑/강도↓ 트레이드오프 메커니즘
-- [[dental-materials/warreth-2020-all-ceramic-restorations-review]] — 서술적 리뷰(PubMed 2010-2019): 유리계 vs 다결정 세라믹 분류·제조법·임상 적응증; PFM vs 전도재 비교; CAD/CAM 예측성 향상
 - [[dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma]] — SR+MA(J Adhes Dent 2022): 타액오염 지르코니아 세정 — 알루미나 샌드블라스팅 > Ivoclean > 수세/포스포릭산; 접착강도 회복 근거
 - [[dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength]] — in-vitro(J Adhes Dent 2025): 6종 세정 프로토콜 SBS 비교 — 샌드블라스팅+Ivoclean(9.3MPa) > 샌드블라스팅 > Ivoclean > 펌이스 > 공기수세 > 이소프로판올
 - [[dental-materials/zirconia/kwon-2026-self-adhesive-resin-cement-zirconia]] — in-vitro(J Funct Biomater 2026): 자가접착형 레진시멘트 3종 SBS — TheraCem > Clearfil SA > RelyX U200; 프라이머↑ 전군; 열순환 10,000× 후↓
@@ -1467,7 +1464,6 @@ tags: []
 - [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]] — Shu-Jiao Qian 2023 · prospective · Clinical, radiographic, and esthetic evaluation of immediate implant placement with buccal bone dehiscence in the anterior maxilla: A 1-year prospective case series
 - [[immediate-implant/abdul-2024-srp-maxillary-mandibular-anterior-cbct]] — Rawa Jamal Abdul 2024 · cross-sectional · Analysis of the Sagittal Root Position of the Maxillary and Mandibular Anterior Teeth in the Alveolar Bone Using Cone-Beam Computed Tomography
 - [[immediate-implant/esthetic-soft-tissue/galve-huertas-2024-inverted-body-shift-design-pilot]] — Andrea Galve-Huertas 2024 · prospective · Immediate Implant Placement in the Esthetic Area Using an Inverted Body-Shift Design: A Prospective Clinical Pilot Study
-- [[immediate-implant/galve-huertas-2025-inverted-body-shift-vs-conical-rct]] — RCT (n=30, 1yr) Inverta co-axis 12° inverted body-shift vs conventional conical IIP in anterior maxilla: 100% survival, ISQ 56–62, no significant MBL/PES differences between designs (Galve-Huertas 2025)
 - [[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]] — Saqib Habib 2024 · cross-sectional · Does the sagittal root position of maxillary anterior teeth affect the decision making on immediate implants in the anterior maxilla? A CBCT-based study
 - [[immediate-implant/kheur-2024-feasibility-iip-maxillary-first-premolars]] — Mohit Kheur 2024 · cross-sectional · Feasibility of Immediate Implant Placement in Maxillary First Premolars: Prediction of Implant Locations Using Restorations—A Radiographic Study
 - [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]] — Guanqi Liu 2024 · case-report · Maxillary Immediate Molar Implant Placement Into Palatal Root Socket: A Case Report of Two-Year Follow-Up

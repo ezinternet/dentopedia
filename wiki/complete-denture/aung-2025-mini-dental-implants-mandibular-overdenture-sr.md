@@ -5,7 +5,7 @@ year: 2025
 date: 2025-04-21
 doi: 10.1186/s12903-025-05961-z
 source: aung-2025-mini-dental-implants-mandibular-overdenture-sr.md
-category: prosthetic-materials
+category: [complete-denture]
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
 pdf_filename: aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
@@ -45,7 +45,7 @@ The primary outcome was marginal bone loss (MBL). Ball, bar, and ERA® attachmen
 Clinical implication: on mini dental implants (<3 mm), **ball or bar or ERA® are the preferred choices**, with ball offering the simplest maintenance profile. **Avoid telescopic on MDIs** in routine practice.
 
 ## Related Papers
-- [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — full-diameter implant OD attachment SR+MA; telescopic best for patient satisfaction (different finding from MDI).
-- [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]] — full-diameter mandibular OD attachment SR+MA.
-- [[prosthetic-materials/tayari-2024-implant-supported-overdenture-failures-sr]] — failure-risk SR.
-- [[prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — maxillary OD implant-number question.
+- [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — full-diameter implant OD attachment SR+MA; telescopic best for patient satisfaction (different finding from MDI).
+- [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] — full-diameter mandibular OD attachment SR+MA.
+- [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — failure-risk SR.
+- [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — maxillary OD implant-number question.

@@ -5,7 +5,7 @@ year: 2021
 date: 2021-05-12
 doi: 10.1186/s12903-021-01572-6
 source: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.md
-category: prosthetic-materials
+category: [complete-denture]
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 pdf_filename: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
@@ -43,7 +43,7 @@ The result is consistent across both statistical approaches: **no significant di
 Clinical implication: when bone permits placement of four well-distributed implants splinted by a bar, **adding a fifth or sixth implant does not improve patient-meaningful outcomes**. The decision can default to 4 implants and reserve 6 for select biomechanical situations (long cantilevers, severely atrophic ridges, or parafunction).
 
 ## Related Papers
-- [[prosthetic-materials/tayari-2024-implant-supported-overdenture-failures-sr]] — risk factor SR; maxilla flagged as higher-risk arch.
-- [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — attachment-type SR+MA; survival NOT driven by attachment.
-- [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]] — mandibular OD attachment SR+MA.
-- [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant OD alternative for atrophic ridges.
+- [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk factor SR; maxilla flagged as higher-risk arch.
+- [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — attachment-type SR+MA; survival NOT driven by attachment.
+- [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] — mandibular OD attachment SR+MA.
+- [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant OD alternative for atrophic ridges.

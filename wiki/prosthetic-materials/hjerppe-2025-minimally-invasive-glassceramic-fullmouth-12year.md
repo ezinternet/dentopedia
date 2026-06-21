@@ -42,4 +42,4 @@ Prospective cohort. n=20 patients requiring full-mouth rehabilitation. Minimally
 ## Related Papers
 - [[inlay/abdulrahman-2021-lithium-disilicate-clinical-success-retrospective]] — LD survival by restoration type (87,203 restorations)
 - [[inlay/malament-2021-lithium-disilicate-partial-coverage-109year]] — 10.9yr LD partial coverage survival
-- [[dental-materials/warreth-2020-all-ceramic-restorations-review]] — narrative review of all-ceramic restoration types
+- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — narrative review of all-ceramic restoration types

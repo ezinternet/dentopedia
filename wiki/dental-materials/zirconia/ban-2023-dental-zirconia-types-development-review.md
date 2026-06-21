@@ -43,6 +43,6 @@ Narrative review from Dental Materials Journal 2023. Author: Ban S, Aichi Gakuin
 
 ## Related Papers
 - [[dental-materials/blatz-2018-resin-bonding-high-strength-ceramics-review]] — resin bonding for high-strength ceramics including zirconia
-- [[dental-materials/warreth-2020-all-ceramic-restorations-review]] — classification and clinical use of all-ceramic restorations
+- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — classification and clinical use of all-ceramic restorations
 - [[inlay/kermanshah-2020-fracture-load-inlay-retained-ceramic-fdp]] — fracture load comparison of zirconia vs ZrLS in FDP connectors
 - [[inlay/bomicke-2025-3ytzp-inlay-enamel-wear-5year]] — 3Y-TZP opposing enamel wear

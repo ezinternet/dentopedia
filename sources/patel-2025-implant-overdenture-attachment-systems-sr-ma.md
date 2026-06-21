@@ -3,7 +3,7 @@ title: "Comparative Evaluation of Various Implant Overdenture Attachment Systems
 authors: Shailee Patel, Kalpesh Vaishnav
 year: 2025
 doi: 10.7759/cureus.83838
-category: prosthetic-materials
+category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2025-implant-overdenture-attachment-systems-sr-ma.pdf
 pdf_filename: patel-2025-implant-overdenture-attachment-systems-sr-ma.pdf
 source_collection: external

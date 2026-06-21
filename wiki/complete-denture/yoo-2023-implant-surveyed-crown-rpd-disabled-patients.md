@@ -5,7 +5,7 @@ year: 2023
 date: 2023-07-07
 doi: 10.22974/jkda.2023.61.8.003
 source: yoo-2023-implant-surveyed-crown-rpd-disabled-patients.md
-category: [prosthetic-materials]
+category: [complete-denture]
 confidence: narrative-review
 pdf_path: /Users/oracleneo/llm-wiki/papers/yoo-2023-implant-surveyed-crown-rpd-disabled-patients.pdf
 pdf_filename: yoo-2023-implant-surveyed-crown-rpd-disabled-patients.pdf
@@ -36,5 +36,5 @@ Proposes IC-RPD as a pragmatic middle-ground rehabilitation for severely disable
 - Narrative/case-level evidence; no comparative trial; quantitative outcomes not extracted here.
 
 ## Related Papers
-- [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — implant overdenture attachment systems SR/MA
-- [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant mandibular overdenture SR
+- [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — implant overdenture attachment systems SR/MA
+- [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant mandibular overdenture SR

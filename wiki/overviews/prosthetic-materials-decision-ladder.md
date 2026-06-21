@@ -85,11 +85,11 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]] | sr+ma (RCT 6편) | 하악 — ball 합병증 RR 0.55 (vs locator·magnet) |
-| [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]] | sr+ma (14편 RCT/crossover) | Bar 유지력 최고. Telescopic 환자만족도 최고. Locator 협소 악간공간 유리. Magnet 열위 |
-| [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] | sr+ma (6 RCT 234 MDI) | MDI overdenture — ball·bar·ERA MBL 동등. Telescopic MBL 유의 큰 |
-| [[prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] | sr+ma (15편 1-10y) | 상악 overdenture 4 vs 6 splinted implants — 생존·합병증·만족도 NS. 4 implant 합리적 |
-| [[prosthetic-materials/tayari-2024-implant-supported-overdenture-failures-sr]] | sr (20편) | 실패 — 환자 전신·악궁 (상악 위험↑)·임플란트 수·부하 protocol. 술자·SPT 결정적 |
+| [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] | sr+ma (RCT 6편) | 하악 — ball 합병증 RR 0.55 (vs locator·magnet) |
+| [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]] | sr+ma (14편 RCT/crossover) | Bar 유지력 최고. Telescopic 환자만족도 최고. Locator 협소 악간공간 유리. Magnet 열위 |
+| [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] | sr+ma (6 RCT 234 MDI) | MDI overdenture — ball·bar·ERA MBL 동등. Telescopic MBL 유의 큰 |
+| [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] | sr+ma (15편 1-10y) | 상악 overdenture 4 vs 6 splinted implants — 생존·합병증·만족도 NS. 4 implant 합리적 |
+| [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] | sr (20편) | 실패 — 환자 전신·악궁 (상악 위험↑)·임플란트 수·부하 protocol. 술자·SPT 결정적 |
 
 **임상 ladder (overdenture)**:
 1. **하악 무치악** → 2 implant + ball attachment (1st choice, McGill consensus 합치). 합병증 최소.
@@ -134,7 +134,7 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 ### 신규 추가 (2026-06)
 
 - [[prosthetic-materials/hardan-2022-treatment-tooth-wear-using-direct]] — Systematic review (16 clinical studies, follow-up up to 10 years … (sr, 2022)
-- [[prosthetic-materials/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Korean special-feature review proposing the implant surveyed crown–retained removable partial denture (IC-RPD) as an oral rehabilitation option for se … (narrative-review, 2023)
+- [[complete-denture/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Korean special-feature review proposing the implant surveyed crown–retained removable partial denture (IC-RPD) as an oral rehabilitation option for se … (narrative-review, 2023)
 
 ### spine (본문 인용)
 
@@ -150,11 +150,11 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 - [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]]
 - [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]]
 - [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]]
-- [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]]
-- [[prosthetic-materials/patel-2025-implant-overdenture-attachment-systems-sr-ma]]
-- [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]]
-- [[prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]]
-- [[prosthetic-materials/tayari-2024-implant-supported-overdenture-failures-sr]]
+- [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]]
+- [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]]
+- [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]]
+- [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]]
+- [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]]
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]]
 - [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]]
 - [[prosthetic-materials/tiu-2015-clinical-tooth-preparations-measuring-sr]]

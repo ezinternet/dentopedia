@@ -3,7 +3,7 @@ title: "Patient satisfaction and survival of maxillary overdentures supported by
 authors: Fabrizio Di Francesco, Gennaro De Marco, Estefani B. Capcha, Alessandro Lanza, Corina M. Cristache, Rolando Vernal, Emilio A. Cafferata
 year: 2021
 doi: 10.1186/s12903-021-01572-6
-category: prosthetic-materials
+category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 pdf_filename: difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma.pdf
 source_collection: external

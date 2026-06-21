@@ -3,7 +3,7 @@ title: "New oral rehabilitation method in disabled patients using implants - Imp
 authors: Soo-Yeon Yoo
 year: 2023
 doi: 10.22974/jkda.2023.61.8.003
-category: [prosthetic-materials]
+category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/yoo-2023-implant-surveyed-crown-rpd-disabled-patients.pdf
 pdf_filename: yoo-2023-implant-surveyed-crown-rpd-disabled-patients.pdf
 source_collection: external

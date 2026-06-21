@@ -3,7 +3,7 @@ title: "Ball versus other attachments in mini implant retained overdenture: a sy
 authors: Zin Hnin Pwint Aung, Pyae Phyo Win, Thanapat Sastraruji, Pathawee Khongkhunthian
 year: 2025
 doi: 10.1186/s12903-025-05961-z
-category: prosthetic-materials
+category: [complete-denture]
 pdf_path: /Users/oracleneo/llm-wiki/papers/aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
 pdf_filename: aung-2025-mini-dental-implants-mandibular-overdenture-sr.pdf
 source_collection: external

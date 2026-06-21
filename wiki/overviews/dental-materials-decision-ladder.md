@@ -101,7 +101,7 @@ relations:
 | [[dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma]] | sr+ma | 지르코니아 FPD 프레임 파절 드묾. 베니어 칩핑 주 합병증 |
 | [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] | sr+ma | CAD/CAM 실패 — 파절 55%, 탈락 20%. 두께 < 1mm 시 파절 위험↑ |
 | [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] | retrospective (5y) | 지르코니아 단관·FPD 모두 5y 높은 생존. FPD 베니어 칩핑 빈도↑ |
-| [[dental-materials/warreth-2020-all-ceramic-restorations-review]] | narrative-review | 세라믹 분류·적응증 정리 |
+| [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] | narrative-review | 세라믹 분류·적응증 정리 |
 | [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] | narrative-review | 3Y vs 4Y vs 5Y vs UHTZ. 투명도·강도 trade-off |
 
 **임상 ladder**:
@@ -180,7 +180,7 @@ relations:
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — 파절 원인
 - [[dental-materials/zirconia/lolos-2025-zirconia-restorations-5year-retrospective]] — 5y retrospective
 - [[dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review]] — 지르코니아 분류
-- [[dental-materials/warreth-2020-all-ceramic-restorations-review]] — 세라믹 review
+- [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — 세라믹 review
 - [[dental-materials/zirconia/aljomard-2022-enamel-wear-monolithic-zirconia-sr-ma]] — enamel wear SR+MA
 - [[dental-materials/zirconia/shah-2024-enamel-wear-zirconia-umbrella-review]] — enamel wear umbrella
 - [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] — 아말감 vs 레진 SR+MA

@@ -215,7 +215,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 ### 신규 추가 (2026-06)
 
 - [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — Two retrospective cohorts (118 patients; 58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing o … (retrospective, 2024)
-- [[immediate-implant/galve-huertas-2025-inverted-body-shift-vs-conical-rct]] — RCT (n=30, 1y): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 62 vs 56–60, MBL·PES 동등; novel macro-design 즉시식립 RCT
+- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — RCT (n=30, 1y): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 62 vs 56–60, MBL·PES 동등; novel macro-design 즉시식립 RCT
 - [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA (4 RCT, 82 임플란트): 발치 전 식립와 형성(pre-extractive) → 즉시 ISQ +3.39, 중심위치 RR 0.05; 3–6mo ISQ 수렴
 
 ### spine (본문 인용)
@@ -333,7 +333,7 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 - [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — 5-thread guideline
 - [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
-- [[immediate-implant/galve-huertas-2025-inverted-body-shift-vs-conical-rct]] — 단일맹검 RCT (n=30, 1y, 상악 전치부): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 중앙값 62 vs 56–60 (NS), MBL·PES 동등; inverted 설계의 중앙 소켓 위치가 협측 gap 공간·구개 스크류 접근 이점 제공; ISQ ≥62 즉시 가편의 기준 재확인
+- [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — 단일맹검 RCT (n=30, 1y, 상악 전치부): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 중앙값 62 vs 56–60 (NS), MBL·PES 동등; inverted 설계의 중앙 소켓 위치가 협측 gap 공간·구개 스크류 접근 이점 제공; ISQ ≥62 즉시 가편의 기준 재확인
 
 **Special site / Pathology / Hybrid technique**:
 - [[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]] — Periapical 병변 socket

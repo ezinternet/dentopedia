@@ -5,7 +5,7 @@ year: 2025
 date: 2025-05-10
 doi: 10.7759/cureus.83838
 source: patel-2025-implant-overdenture-attachment-systems-sr-ma.md
-category: prosthetic-materials
+category: [complete-denture]
 confidence: sr+ma
 pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2025-implant-overdenture-attachment-systems-sr-ma.pdf
 pdf_filename: patel-2025-implant-overdenture-attachment-systems-sr-ma.pdf
@@ -48,8 +48,8 @@ Take-aways:
 - Magnets are rarely first-line under current evidence.
 
 ## Related Papers
-- [[prosthetic-materials/sutariya-2021-mandibular-overdenture-attachment-system-sr-ma]] — earlier SR+MA, partly overlapping; ball outperforms locator on complications.
-- [[prosthetic-materials/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant OD subset; ball/bar/ERA similar MBL, telescopic worse.
-- [[prosthetic-materials/tayari-2024-implant-supported-overdenture-failures-sr]] — risk-factor review of OD failure.
-- [[prosthetic-materials/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — maxillary OD implant-number question (4 vs 6).
+- [[complete-denture/sutariya-2021-mandibular-implant-supported-overdenture-systematic]] — earlier SR+MA, partly overlapping; ball outperforms locator on complications.
+- [[complete-denture/aung-2025-mini-dental-implants-mandibular-overdenture-sr]] — mini-implant OD subset; ball/bar/ERA similar MBL, telescopic worse.
+- [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk-factor review of OD failure.
+- [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — maxillary OD implant-number question (4 vs 6).
 - [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — different prosthetic decision (retention type) in fixed prostheses.
