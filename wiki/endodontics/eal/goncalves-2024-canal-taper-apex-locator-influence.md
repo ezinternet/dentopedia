@@ -13,6 +13,9 @@ source_collection: external
 tags: [EAL, apex-locator, taper, working-length, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (extracted teeth, 2 electronic apex locators (EAL) vs radiographic working length): increasing root canal taper tended to reduce EAL accuracy — small tapers (0.02–0.04) measured well, while large tapers (≥0.06) degraded accuracy, so EAL re-verification is advised after large-taper shaping.
+
 ## 한줄요약
 근관 테이퍼가 두 EAL 측정값에 미치는 영향(in vitro): 테이퍼 증가 시 EAL 정확도 저하 경향 — 대테이퍼 성형 시 신뢰도 주의.
 
