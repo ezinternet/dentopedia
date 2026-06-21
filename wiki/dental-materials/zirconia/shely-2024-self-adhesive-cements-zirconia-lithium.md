@@ -13,6 +13,9 @@ source_collection: external
 tags: [ZLS, zirconia-reinforced-lithium-silicate, self-adhesive-cement, marginal-adaptation, SEM, IOS, CAD-CAM]
 ---
 
+## One-line Summary
+In vitro SEM study (J Clin Med 2024; CAD/CAM ZLS, zirconia-reinforced lithium silicate, full crowns × 3 self-adhesive resin cements): all three cements produced clinically acceptable marginal gaps (≤120 µm), so cement type had minimal effect on ZLS marginal adaptation.
+
 ## 한줄요약
 in-vitro(J Clin Med 2024): 자가접착형 레진시멘트 3종 × ZLS(지르코니아 강화 리튬실리케이트) 크라운 변연적합 SEM 평가 — 3종 모두 임상 허용 범위; 시멘트 종류가 ZLS 변연간격에 미치는 영향 최소.
 
