@@ -13,6 +13,9 @@ source_collection: external
 tags: [implants, isq, osseodensification, low-density-bone, split-mouth]
 ---
 
+## One-line Summary
+Split-mouth in vivo clinical study in low-density jaw bone (20 patients, 40 implants): osseodensification (OD) vs conventional drilling differed significantly only in immediate post-op bone density, while primary/secondary stability, plaque index, BOP, pocket depth, and marginal bone loss showed no significant difference — a human counterpoint to OD-favorable pooled literature.
+
 ## 한줄요약
 저밀도 골 split-mouth 인체 연구(20명, 40 implant): 골밀도만 OD에서 유의하게 높고, 1차/2차 안정성·PI·BOP·PD·MBL은 유의차 없음 — OD 안정성 우위의 임상 반례.
 
