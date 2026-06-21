@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+2017 World Workshop consensus report (international Delphi expert consensus) establishing the new periodontitis classification: Staging I–IV (severity/complexity via CAL, RBL, tooth loss, furcation, mobility) plus Grading A–C (progression rate, systemic modifiers, treatment response), replacing the 1999 system and eliminating the aggressive periodontitis category.
+
 ## 한줄요약
 2017 치주 세계 워크샵 치주염 새 분류 — Staging I–IV(중증도) + Grading A–C(진행속도/반응성).
 
