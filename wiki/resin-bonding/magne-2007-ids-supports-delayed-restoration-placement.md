@@ -13,6 +13,10 @@ source_collection: external
 tags: [ids, dds, provisional-period, microtensile-bond-strength, optibond-fl, se-bond, in-vitro, magne]
 ---
 
+## One-line Summary
+
+JPD 2007 in-vitro µTBS study (50 human molars, OptiBond FL + SE Bond, 10 groups): all immediate dentin sealing (IDS) conditions (control, IDS-2W/7W/12W) retained µTBS >45 MPa with no significant difference up to a 12-week provisional period, whereas delayed dentin sealing (DDS) was very low (SE Bond 1.81 MPa) — confirming IDS bond stability provides a safety margin for lab delays.
+
 ## 한줄요약
 
 JPD 98(3), 2007 in-vitro µTBS (50 human molars, OptiBond FL + SE Bond, 10 groups): IDS 모든 군 (C·IDS-2W·IDS-7W·IDS-12W) µTBS >45 MPa, 차이 없음. DDS는 SE Bond 1.81 MPa로 매우 낮음. provisional 12주까지 IDS bond 보존 — 임상 lab 지연 안전 마진.
