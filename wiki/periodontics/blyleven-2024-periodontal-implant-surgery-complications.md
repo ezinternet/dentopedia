@@ -13,6 +13,9 @@ source_collection: external
 tags: [complications, surgical-outcome, sinus-elevation, soft-tissue-graft, GBR, residency-training, US-Army]
 ---
 
+## One-line Summary
+Single-site retrospective chart review of 1135 periodontal/implant surgeries (8 residents, 4 years): intraoperative complications 2.8%, postoperative 15.2%; lateral sinus elevation was the strongest intraoperative predictor (OR 102.5), while SCTG and GBR roughly tripled postoperative complication odds (OR ~3.0–3.2); procedure type far outweighed operator/patient factors.
+
 ## 한줄요약
 1135건 치주·임플란트 수술 후향 차트 리뷰: 술중 합병증 2.8%·술후 합병증 15.2%, 측방 상악동거상술 (Lateral Sinus Elevation, lateral SES)이 술중 합병증의 가장 강력한 예측 인자 (오즈비 (Odds Ratio, OR) 102.5), 결합조직이식 (Subepithelial Connective Tissue Graft, SCTG)·골유도재생 (Guided Bone Regeneration, GBR)이 술후 합병증을 약 3배 증가시킴.
 
