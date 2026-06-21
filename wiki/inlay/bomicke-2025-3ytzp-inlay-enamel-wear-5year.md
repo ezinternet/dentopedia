@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Prospective 5-year study (n=6) of enamel wear opposing polished monolithic 3Y-TZP resin-bonded fixed partial dentures (RBFPDs): opposing enamel wore 77 μm vs 54 μm for enamel-enamel controls (significant after 2 years), but all values stayed within clinically acceptable limits (<100 μm), with no fractures or debonding.
+
 ## 한줄요약
 전향적 5년 연구(n=6): 연마된 3Y-TZP RBFPD 대합 법랑질 마모 77μm vs 대조군 법랑-법랑 54μm; 2년부터 유의차; 임상적 허용 범위 내
 
