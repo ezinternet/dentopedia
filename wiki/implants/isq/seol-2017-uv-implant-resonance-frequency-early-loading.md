@@ -14,6 +14,9 @@ source_collection: external
 tags: [uv-photofunctionalization, isq, stability-dip, early-loading, immediate-loading, case-report, korean]
 ---
 
+## One-line Summary
+Case reports of sealed UV-treatment (photofunctionalized) implants: UV-induced superhydrophilic surface (contact angle ≈0°, BIC ≈100% in animals) produced rapid ISQ rise within 2 weeks (e.g. 69→81) with no stability dip, enabling successful early loading at 1–4 weeks; case-report level evidence needing RCT validation.
+
 ## 한줄요약
 증례보고: UV 광기능화(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1–4주 조기부하 성공
 
