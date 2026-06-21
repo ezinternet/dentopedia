@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, type-1, tissue-graft, hard-tissue-graft, soft-tissue-graft, isq, pes, recession, bone-loss, peri-implant, gap-filling, connective-tissue-graft]
 ---
 
+## One-line Summary
+SR+MA (J Clin Med 2024) of hard and/or soft tissue grafts combined with type-1 (immediate) implant placement: grafting is associated with improved ISQ, reduced marginal recession, better volumetric bone preservation, and higher Pink Esthetic Score (PES), with combined hard + soft tissue grafts giving the strongest esthetic benefit (high graft-material heterogeneity limits material-specific recommendations).
+
 ## 한줄요약
 즉시식립(Type-1) 시 골·연조직 이식 병용 SR+MA (J Clin Med 2024): ISQ 향상·치은후퇴 감소·핑크 심미지수(PES) 개선 연관; 경조직+연조직 복합이식이 심미적 결과 최고; 이식재 이질성 높음.
 
