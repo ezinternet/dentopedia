@@ -13,6 +13,9 @@ source_collection: external
 tags: [access-cavity, MIA, TEC, minimally-invasive, guided-endodontics, fracture-resistance]
 ---
 
+## One-line Summary
+Literature review: evidence does not support replacing traditional endodontic cavities (TEC) with minimally invasive access (MIA) — MIA increases canal orifice location difficulty and iatrogenic risk while fracture-resistance benefits are conflicting, so straight-line access remains the standard for safe NiTi instrumentation; guided endodontics is promising for pulp canal obliteration but lacks cost-benefit data.
+
 ## 한줄요약
 문헌고찰: 최소침습 접근와동(MIA)은 근거 불충분 — 전통적 직선 접근와동이 기구 조작·의원성 합병증 예방에 더 안전한 표준.
 
