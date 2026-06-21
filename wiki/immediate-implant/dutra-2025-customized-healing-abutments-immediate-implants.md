@@ -13,6 +13,9 @@ source_collection: external
 tags: ['customized healing abutment', 'CHA', 'PTFE', 'papilla', 'immediate implant']
 ---
 
+## One-line Summary
+Single-blind RCT (n=31) comparing customized healing abutments (CHA) vs PTFE barrier + bovine bone for jumping-gap sealing at immediate implant placement; the control (PTFE) group showed significantly greater papilla change (i.e., CHA better preserved papilla), with bone ridge volume, keratinized mucosa thickness, and VAS pain compared between groups.
+
 ## 한줄요약
 RCT (n=31): 즉시식립 시 customized healing abutment (CHA) vs PTFE 차폐막 + 우골이식 — 유두 변화에서 대조군이 유의하게 더 큰 값 (즉 CHA가 유두 보존 우수); 골능 부피·각화점막 두께·VAS 통증 평가.
 
