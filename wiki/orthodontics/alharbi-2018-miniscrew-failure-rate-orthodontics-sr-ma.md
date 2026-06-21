@@ -13,6 +13,9 @@ source_collection: external
 tags: [miniscrew, TAD, anchorage, failure-rate, smoking, gingiva]
 ---
 
+## One-line Summary
+SR+MA (46 studies, ~3,250 miniscrews): overall orthodontic miniscrew failure rate 13.5% (95% CI 11.5–15.9%); only gingival tissue type (keratinized vs mobile mucosa) and smoking were statistically significant risk factors, while diameter, length, design, age, and jaw of insertion had no significant effect.
+
 ## 한줄요약
 SR+MA (46편, 3,250개 미니스크류): 전체 실패율 13.5%, 각화치은 여부·흡연만 통계적으로 유의한 위험인자이며 직경·길이·나이·악골 위치는 유의한 영향 없음.
 
