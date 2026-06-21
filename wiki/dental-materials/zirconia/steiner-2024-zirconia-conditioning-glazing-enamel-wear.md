@@ -13,6 +13,9 @@ source_collection: external
 tags: [Y-TZP, glazing, polishing, conditioning, enamel-wear, surface-roughness, 3D-scan]
 ---
 
+## One-line Summary
+In vitro study (Clin Oral Investig 2024; 3Y-TZP, 6 surface conditions, 10,000 cycles, 3D volumetric scan): polishing alone minimized antagonist enamel wear (0.4 mm³), while glazing over a rough surface did not reduce wear to the same level—the surface condition beneath the glaze determines antagonist wear.
+
 ## 한줄요약
 in-vitro(Clin Oral Investig 2024): 3Y-TZP 6조건(조면/소결/연마 위 유약 + 무유약 3종), 10,000사이클 — 연마 단독: 최소 대합치 마모(0.4mm³); 조면 위 유약: 연마만큼 마모 감소 안 됨; 유약 아래 표면조도가 대합치 마모 결정.
 
