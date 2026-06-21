@@ -108,4 +108,4 @@ OHIP-14 improvement: mean −6.59 points (SD=9.0) from baseline to 12 months. Gr
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — ISQ and primary stability in extraction sockets; different context but same ISQ device (Osstell)
 - [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] — Bioactive surface effects on ISQ in poor bone; contrasts with present findings showing no ISQ benefit of SLActive over SLA
 - [[implants/isq/fu-2023-implant-stability-marginal-bone-level-pilot]] — ISQ and MBL relationship; complements present study's dual reporting of both outcomes
-- [[implants/isq/marković-split-mouth]] — Marković et al. reports cited in this paper regarding SLActive consistency in soft bone type IV
+- Marković et al. (split-mouth) — cited in this paper regarding SLActive consistency in soft bone type IV (external citation, not held in wiki)
