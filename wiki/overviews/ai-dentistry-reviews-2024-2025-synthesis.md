@@ -24,6 +24,10 @@ source: synthesis
 > - 법적 원칙: AI가 보조해도 진단·치료 책임은 의사 귀속, AI 출력은 확진이 아닌 screening 도구로만, 개인정보보호법(PIPA) 적용.
 > - 공통 공백: AI 도입 vs 미도입을 비교한 환자-결과 RCT 부재, 한국어·한국 인구 검증 부재, 5년 이상 장기 추적 데이터 부재.
 
+## One-line Summary
+
+Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (ingested 2024–2025) into 4 clusters — quantitative anchors, cross-discipline dental AI mapping, domain-specific syntheses, and general-healthcare AI context — because their evidence levels differ too widely to average into a single conclusion; the load-bearing quantitative anchor is essentially Zhang 2025 (dental LLM pooled answer accuracy 81.87% [95% CI 77.24–86.51], clinically acceptable responses 69.9% [95% CI 57.3–82.6]), the most mature AI domain is image-based diagnosis (caries detection, periapical lesions, cephalometrics, implant identification), and 5 of 9 reviews are narrative — so the clinical takeaway is staged adoption (image-assisted diagnosis now with regulatory checks; LLM patient responses only as clinician-reviewed front-desk drafts; autonomous/end-to-end systems avoided), with AI kept as a screening tool while diagnostic/treatment liability stays with the clinician.
+
 ## 한줄요약
 2024–2025에 ingest한 인공지능 (Artificial Intelligence, AI) 리뷰 9편을 (1) 정량 근거, (2) 치과 다전공 매핑, (3) 분야 특화 합성, (4) 일반 의료 맥락 4개 클러스터로 묶고 — 임상 활용 가능 영역(영상 진단)·신중 활용(LLM 환자 응답)·미성숙(자율 시스템·통합 워크플로우)을 단계적으로 분리한 종합 페이지.
 
