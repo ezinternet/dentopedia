@@ -14,6 +14,9 @@ tags: [Astra-implant, screw-loosening, fixture-fracture, prosthetic-complication
 ---
 
 
+## One-line Summary
+Clinical practice guide on preventing Astra implant prosthetic complications (screw loosening, fixture fracture): emphasizes abutment-fixture interface stability, standardized 35 Ncm torque, proper abutment selection, and occlusal force control — most complications are preventable through surgical-prosthetic integration.
+
 ## 한줄요약
 Astra 나사풀림 예방: 지대주-픽스처 계면 안정성·표준 35Ncm 토크·교합력 조절; 외과-보철 통합으로 대부분 합병증 예방 가능
 
