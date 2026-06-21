@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cross-sectional CBCT study of 420 maxillary anterior teeth in 70 Brazilian patients reporting Kan-class SRP distribution (Class I 65.2%, II 9.3%, III 0.7%, IV 24.8%); notably higher Class IV prevalence than Kan's original data, underscoring the need for individualized, case-by-case SRP assessment.
+
 ## 한줄요약
 브라질 인구 CBCT(420 치아/70명): Class I 65.2%, II 9.3%, III 0.7%, IV 24.8% — Kan 원본 대비 Class IV 비율 ↑, 인구별 SRP 분포는 case-by-case 평가가 필요함을 강조.
 
