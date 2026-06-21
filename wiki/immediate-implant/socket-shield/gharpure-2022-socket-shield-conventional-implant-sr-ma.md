@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and meta-analysis comparing socket-shield versus conventional immediate implant placement in the esthetic zone: socket shield shows superior buccal bone preservation (mean difference -0.5 mm, statistically significant) and reduced facial mucosal recession, but with shield-related complications (fracture/exposure) in 5–17% of cases requiring monitoring.
+
 ## 한줄요약
 소켓실드 vs 기존 즉시임플란트 SR+MA — 협측 골 MD -0.5mm 우위, 합병증(실드 노출) 5–17% 보고.
 
