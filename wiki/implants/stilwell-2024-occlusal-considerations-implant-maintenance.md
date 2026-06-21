@@ -13,6 +13,9 @@ source_collection: external
 tags: [implant-maintenance, occlusion, occlusal-overload, hardware-complications, peri-implantitis, annual-check]
 ---
 
+## One-line Summary
+British Dental Journal narrative review on occlusal considerations during implant maintenance: implant fracture is rare (~0.5%) but the absence of a periodontal ligament removes shock absorption/proprioception and raises overload risk; the author proposes a 4-step annual occlusal assessment (patient-reported changes, restoration integrity, occlusal scheme, spatial changes) and mandates splint protection in bruxers.
+
 ## 한줄요약
 narrative-review(BDJ 2024): 임플란트 유지관리 교합 점검 총론 — 임플란트 파절 0.5%; PDL 없어 과부하 위험; 4단계 연간 교합 평가 프로토콜 제시; 이갈이 보호장치 필수.
 
