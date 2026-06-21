@@ -949,7 +949,7 @@ tags: []
 - [[endodontics/regenerative/stefanidou-2024-revitalization-apexification-immature-sr-ma]] — 미성숙 비활력치 revitalization vs apexification SR+MA(Cureus 2024): 치근 길이·상아질 벽 두께 모두 revitalization 유의 우위.
 - [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — 미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율(RET 97.8%/MAP 97.1%), 성공율(RET 91.3%/MAP 94.6%) — 유의차 없음, 근거 수준 낮음.
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — 외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
-- [[endodontics/regenerative/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
+- [[endodontics/regenerative/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — **종합 오버뷰** (15편): 레진-상아질 결합 내구성·열화 — hybrid layer 붕괴(가수분해+MMP/cathepsin)·water-tree·MMP억제(CHX)·MDP nanolayering·에탄올습윤·conditioner 6축; in-vitro 우월성↔임상 괴리
@@ -2078,7 +2078,7 @@ tags: []
 ### Drug — analgesics / antiplatelet
 - [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
-- [[drug/antibiotics/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
+- [[drug/antibiotics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
 
 ### sinus-lift/transcrestal (added 2026-06-06)
 - [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Bashar Shahood 2024 · prospective · n=126 implants, 3-arm (no-graft vs Bio-Oss vs Bio-Oss Collagen+CGF), RBH ≤5mm: ISR 96%, CGF 조합이 통증↓·골이득↑
