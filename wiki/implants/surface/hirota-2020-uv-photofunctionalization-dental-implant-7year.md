@@ -13,6 +13,9 @@ source_collection: external
 tags: [uv-photofunctionalization, 7-year, prospective, success-rate, cancer, complex-cases, ISQ]
 ---
 
+## One-line Summary
+Prospective single-center 7-year study (JCM 2020; 16 patients, 70 implants) of UV-photofunctionalized implants (15-min pre-placement UV): regular and anatomically complex (atrophied/augmented) cases both reached 100% success, but cancer-resection cases only 22.2%; ISQ rose markedly in complex cases (+21.9 by second-stage surgery), with bone quality, location, and cancer resection as independent failure predictors.
+
 ## 한줄요약
 전향적 임상연구(JCM 2020, n=70 임플란트, 7년): UV 광기능화 (Photofunctionalization) 15분 전처리 — 일반·복잡증례 100% 성공; 암절제 증례 22.2%; 복잡증례 임플란트 안정성 지수 (ISQ) +21.9 상승; 골질·부위·암절제가 실패 독립 예측인자.
 
