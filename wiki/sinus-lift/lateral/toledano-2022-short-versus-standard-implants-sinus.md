@@ -13,6 +13,9 @@ source_collection: external
 tags: [short-implants, sinus-lift, sinus-augmentation, posterior-maxilla, MBL, implant-survival, meta-analysis]
 ---
 
+## One-line Summary
+Meta-analysis (14 RCTs, 901 implants) comparing short implants (≤6 mm, no sinus lift) vs standard implants (≥8 mm with sinus lift) in the atrophic posterior maxilla found equivalent implant survival (RR 1.02, p=0.09) but significantly less marginal bone loss (MBL) with short implants (0.11 mm less at ≤1 year, 0.23 mm less at >1 year), supporting short implants as a primary alternative to sinus augmentation.
+
 ## 한줄요약
 MA (14 RCTs, 901임플란트): 단임플란트(≤6mm) = 표준+상악동거상 생존 동등; MBL ≤1년 0.11mm, >1년 0.23mm 더 적음
 
