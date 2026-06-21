@@ -14,6 +14,9 @@ source_collection: external
 tags: [MB2, DOM, microscope, ultrasonic, canal-detection, maxillary-molar, in-vivo]
 ---
 
+## One-line Summary
+In vivo study (n=60, maxillary first molars): second mesiobuccal canal (MB2) detection rate rose stepwise from naked-eye explorer 20% → dental operating microscope (DOM) 55% → DOM + ultrasonic trough 70% (p<0.001).
+
 ## 한줄요약
 In vivo 60명(상악 제1대구치): MB2 발견율 — 육안 20% → DOM 55% → DOM+초음파 70%; 단계적 프로토콜 통계적 유의(p<0.001)
 
