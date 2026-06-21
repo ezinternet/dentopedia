@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, osseodensification, IDR, periodontally-compromised, autogenous-bone-block, tuberosity-graft, case-report]
 ---
 
+## One-line Summary
+Two-case clinical report combining the Immediate Dentoalveolar Restoration (IDR) technique (autogenous tuberosity bone block reconstruction of the buccal plate) with osseodensification (OD) osteotomy in periodontally compromised extraction sockets: OD qualitatively raised insertion torque enough to support immediate provisionalization. Proof-of-concept only (n=2, no comparator, paywalled — no extractable quantitative outcomes); do not generalize.
+
 ## 한줄요약
 증례 보고 (case-report), n=2 — 치주적으로 손상된 발치와에서 immediate dentoalveolar restoration (IDR, 자가 결절골 블록으로 협측골 재건) + 골밀도화 (Osseodensification, OD) 병용으로 즉시 임플란트의 일차 안정성(삽입토크 상승)을 확보. 정량 데이터가 추출 가능 본문에 거의 없고 페이월로 인해 독립 검증 불가, 결론 일반화 금지.
 
