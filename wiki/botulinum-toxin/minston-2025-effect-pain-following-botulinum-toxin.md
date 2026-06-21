@@ -14,6 +14,9 @@ source_collection: external
 tags: [BTX-A, DC-TMD, jaw-myalgia, pilot-RCT, double-blind, multicentre, days-with-pain, Sweden]
 ---
 
+## One-line Summary
+Swedish double-blind multicentre pilot RCT (n=45; BTX-A n=23 vs saline n=22) in DC/TMD-defined jaw myalgia: a single session of 100 U BTX-A across 14 masseter/temporalis sites did not significantly reduce diary-recorded days with functional jaw pain at 2 months (10.5 vs 14, p=0.585); adverse events were mild and transient in both arms.
+
 ## 한줄요약
 Swedish double-blind pilot RCT (n=45, 6센터) — 100U Botox 단회 주사 후 2개월 시점 기능시 턱통증 일수 14→10.5 (BTX) vs 14→14 (saline), p=0.585, 효과 없음.
 
