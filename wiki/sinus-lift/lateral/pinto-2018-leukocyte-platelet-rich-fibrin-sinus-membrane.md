@@ -13,6 +13,10 @@ source_collection: external
 tags: [l-prf, sinus-perforation, lateral-window, case-report, sinus-lift]
 ---
 
+## One-line Summary
+
+Case report: a large intraoperative Schneiderian membrane perforation during lateral-window maxillary sinus floor elevation (SFE) was sealed with leukocyte platelet-rich fibrin (L-PRF) plus a collagen membrane rather than aborting; after 8 months of uneventful healing, two external-hexagon implants (#16, #17) were placed and restored, supporting L-PRF as a same-session salvage option.
+
 ## 한줄요약
 측방창 (Lateral window) 상악동거상술 중 발생한 대형 슈나이더리안 막 (Schneiderian membrane) 천공을 백혈구 혈소판풍부피브린 (Leukocyte Platelet-Rich Fibrin, L-PRF)과 콜라겐 막으로 봉합하고, 8개월 후 외육각형 (External hexagon) 임플란트 2개를 식립한 케이스 리포트.
 
