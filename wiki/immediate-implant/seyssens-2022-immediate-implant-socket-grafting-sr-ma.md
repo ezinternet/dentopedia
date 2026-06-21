@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/seyssens-2022-immediate-implant-socke
 pdf_filename: seyssens-2022-immediate-implant-socket-grafting-sr-ma.pdf
 source_collection: external
 tags: ['socket grafting', 'jump space graft', 'IIP', 'hard tissue', 'Cosyn']
+relations:
+  - type: reinforces
+    target: sanz-2017-bone-graft-gap-immediate-implant-rct
 ---
 
 ## 한줄요약
