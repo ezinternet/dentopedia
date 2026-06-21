@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+WHO Collaborating Centre international consensus report (expert seminar + Delphi) standardizing oral potentially malignant disorder (OPMD) nomenclature and classification: adopts 'potentially malignant disorder' over 'pre-malignant', recognizes 9 OPMDs (including OLP, leukoplakia, erythroplakia, OSF, actinic cheilitis), and applies three-tier malignant-transformation risk stratification with PVL flagged as high-risk.
+
 ## 한줄요약
 WHO 구강암 협력센터 OPMD 명칭·분류 국제 합의 — 잠재적 악성 장애 표준화.
 
