@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+3D finite element analysis (edentulous mandible): comparing three full-arch immediate-loading protocols, the Five-implant design gave the most favorable stress/strain profile, ahead of All-on-4 and Trefoil; All-on-4 cortical strain reached 4180 με under oblique loading, crossing the ~4000 με pathological-overload threshold.
+
 ## 한줄요약
 하악 무치악 3D FEA: 5-implant > All-on-4 > Trefoil 순으로 응력·strain 우수. All-on-4 oblique loading 시 cortical strain 4180 με로 pathological overload 임계치(4000) 초과 — 위치 선택과 식립 수 영향을 정량.
 
