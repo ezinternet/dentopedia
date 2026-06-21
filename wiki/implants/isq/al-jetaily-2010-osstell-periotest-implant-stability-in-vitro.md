@@ -13,6 +13,9 @@ source_collection: external
 tags: [isq, osstell, periotest, rfa, implant-stability, in-vitro, calibration]
 ---
 
+## One-line Summary
+In vitro acrylic-cube study (n=49 implants, 3 sub-experiments): both Osstell (ISQ/RFA) and Periotest (PTV) detected interface differences and graded horizontal fixture exposure (P<0.001), but resonance-frequency Osstell was more reliable (smaller SDs) and uniquely tracked progressive interface stiffening (r=0.986); ISQ fell monotonically from ~70 to ~52 across 0–6 mm exposure and ISQ<55 marked the failure-risk zone.
+
 ## 한줄요약
 시험관(in vitro) 연구, n=49 임플란트 (3개 부분실험) — 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 Periotest 값 (Periotest Value, PTV)이 직접·연접 인터페이스 차이 (P<0.001)와 0/2/4/6 mm 수평노출 단계를 모두 검출했으나, 공명주파수분석 (Resonance Frequency Analysis, RFA) 기반 Osstell이 표준편차가 작고 경화 인터페이스의 강성 변화까지 추적해 더 신뢰성이 높았음. 임상 적용 한계: 아크릴 큐브·실리콘·자가중합 레진 인터페이스는 골 (bone) 실제 조건과 다르므로 ISQ 값의 절대 수치는 in vivo로 외삽할 수 없음.
 
