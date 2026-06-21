@@ -25,6 +25,10 @@ source: synthesis
 > - 합병증/추적: 잔존 치근은 약 2년 내 평균 2mm 치관방향 이동(대부분 허용 범위), 재발치 필요 5.28%, 재개입 4.45%(대부분 ~10개월 내, Di Spirito 2025) → 정기 OPG 추적.
 > - 임상 takeaway: OPG 징후 ≥1개 → CBCT, 설측 IAC + 나이>24 + 수평매복 → 관상절제술. 단 고품질 RCT 부족 영역으로 개별 임상 판단 우선.
 
+## One-line Summary
+
+Synthesis of 5+ papers into a pre-extraction inferior alveolar nerve (IAN) risk-assessment and technique-selection protocol for lower third molars: panoramic Rood & Shehab signs (any one → CBCT indication) → CBCT classification of inferior alveolar canal position (lingual position carries the highest risk, OR 4.96) → coronectomy as a strong indication for high-risk anatomy plus risk factors (age >24, horizontal impaction). Coronectomy significantly reduces IAN injury vs total extraction (~0.59% injury rate; reinforced by Derbishi 2026 SR+MA Peto OR 0.23), at the cost of root migration and ~4–5% re-intervention; the field still lacks high-quality RCTs so individual clinical judgment governs.
+
 ## 한줄요약
 OPG 위험 징후 → CBCT로 IAC 위치 확인 → 설측 위치(OR 4.96)·고위험 환자면 관상절제술 선택 — IAN 손상 0.59%로 완전 발치 대비 유의하게 낮춤.
 
