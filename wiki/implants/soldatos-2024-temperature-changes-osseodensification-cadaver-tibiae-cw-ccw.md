@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+In vitro human-cadaver-tibiae study (360 osteotomies, four-way interaction model) of Densah® bur temperature rise during osseodensification: in counterclockwise (CCW) densifying mode, 3.0/4.0 burs after ≥23 uses at 800/1200 RPM drove ΔT above the 47°C bone-necrosis threshold with audible chatter, whereas 1000 RPM minimized ΔT in both rotation modes — supporting bur replacement after ~23 uses and 1000 RPM as the safe speed.
+
 ## 한줄요약
 Cadaver tibiae 4요인 분석 (360 osteotomy, n=human cadaver): Densah® 버 시계방향(CW) vs 반시계방향(CCW, 골밀도화 모드) — CCW 모드에서 3.0/4.0 버를 23회 이상 사용 + 800/1200 RPM 조합 시 ΔT가 47°C 초과(골괴사 임계치). 1000 RPM이 두 모드 모두에서 최저 발열. 임상 시사: 버 재사용 횟수와 RPM이 발열 위험의 결정적 요인 — 23회는 권장 교체 기준.
 
