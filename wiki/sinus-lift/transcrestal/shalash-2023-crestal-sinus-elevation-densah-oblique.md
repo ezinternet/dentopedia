@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, Densah, oblique-sinus-floor, RBH]
 ---
 
+## One-line Summary
+Prospective study (n=16, residual bone height [RBH] 4–7 mm, oblique sinus floor): osseodensification crestal sinus floor elevation (CSFE) with Densah burs and simultaneous implant placement achieved mean 4.42 mm sinus lift, mean insertion torque 35.5 Ncm, 6.25% (1/16) perforation, and 100% 1-year success.
+
 ## 한줄요약
 전향적 연구(n=16, RBH 4–7mm, 경사진 동저): Densah bur 골밀도화 경치조골 거상 — 평균 거상 4.42mm·삽입토크 35.5Ncm·천공 1례·1년 100% 성공.
 
