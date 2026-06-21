@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, osteotome, histomorphometry, BIC, BV-percent, pilot-study, porcine, trabecular-integrity]
 ---
 
+## One-line Summary
+Ex vivo porcine-tibia histomorphometric pilot (n=6/group × 3 osteotomy techniques): immediate Bone-to-Implant Contact (BIC) was highest with Osseodensification (OD) 60.3% > Summers osteotome 40.7% > standard drilling 16.3%, while bone-volume % in the 2-mm peri-implant zone was similar (SD ~54%, SO ~49%) — indicating the BIC difference reflects contact geometry/trabecular compaction, not absolute bone volume. Descriptive-only pilot (no p-values), no healing/remodeling assessed.
+
 ## 한줄요약
 파일럿 ex vivo 돼지 경골 연구 (in-vivo 라벨이나 실질은 ex vivo), n=6/군 × 3군 — 즉시 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)이 골밀도화 (Osseodensification, OD) 60.3% > Summers osteotome 40.7% > 표준 드릴링 16.3%. p-value 미보고 파일럿, 치유·재형성 미평가.
 
