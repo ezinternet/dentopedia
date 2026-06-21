@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA (22 publications: 15 RCTs + 7 prospective controlled cohort studies; meta-analysis of 13 RCTs) showing that platform switching (PS) significantly reduces marginal bone loss versus platform matching (PM): MBL 0.49 mm vs 1.01 mm (p<0.0001), though most studies had unclear/high risk of bias.
+
 ## 한줄요약
 SR+MA(22편: 15 RCT + 7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭이 변연골 소실 유의하게 감소; 이질성으로 신중한 해석 필요
 
