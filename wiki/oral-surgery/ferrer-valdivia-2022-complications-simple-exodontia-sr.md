@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review (3 included studies from 1,446 screened) of complications after simple (non-surgical) exodontia: trismus, alveolitis (dry socket), and retained roots are the most prevalent, driven by surgeon inexperience, surgery duration, and tissue trauma; reveals a marked research gap in this area.
+
 ## 한줄요약
 체계적 문헌고찰(포함 연구 3편): 단순 발치 (Simple Exodontia) 후 합병증 중 개구제한 (Trismus), 치조염 (Alveolitis), 잔존치근 (Retained Root)이 가장 흔하며, 술자 경험·수술 시간·조직 손상과 관련.
 
