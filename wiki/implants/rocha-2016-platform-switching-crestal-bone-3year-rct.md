@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Multicentre RCT (63 patients, 135 implants, 3-year follow-up) in the posterior mandible: platform switching (PS) vs platform matching (PM) gave significantly less marginal bone loss (0.28±0.56 vs 0.68±0.64 mm, p=0.002; 0.39 mm advantage, 95% CI 0.15–0.64), with no difference in implant survival.
+
 ## 한줄요약
 다기관 RCT(n=63명, 135 임플란트, 3년): PS 0.28 mm vs PM 0.68 mm MBL(p=0.002); 플랫폼 스위칭이 하악 후방부 변연골 보존에 유의하게 유리
 
