@@ -13,6 +13,9 @@ source_collection: external
 tags: [peri-implantitis, peri-implant-mucositis, epidemiology, prevalence]
 ---
 
+## One-line Summary
+SR+MA (11 studies): weighted mean population prevalence of peri-implant mucositis 43% (95% CI 32–54%) and peri-implantitis 22% (95% CI 14–30%), with extreme heterogeneity (I²=96–98%); prevalence rises with longer implant function time and varies strongly with the case definition (bone-loss threshold) used.
+
 ## 한줄요약
 SR+MA (11개 연구): 임플란트 주위 점막염 유병률 43%, 임플란트 주위염 22%; 기능 기간이 길수록 유병률 증가, 케이스 정의에 따라 큰 차이.
 
