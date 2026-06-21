@@ -13,6 +13,9 @@ source_collection: external
 tags: [3d-printing, additive-manufacturing, crown, bond-strength, cad-cam, in-vitro]
 ---
 
+## One-line Summary
+SR of 6 in-vitro studies (5 photopolymerized resin, 1 zirconia) on bond strength of additively manufactured (AM) crown materials: AM photopolymer crowns showed bond strength comparable to milled crowns, with alumina (Al₂O₃) airborne-particle abrasion most consistently recommended for surface pretreatment; no clinical cementation data exists yet.
+
 ## 한줄요약
 3D 프린팅(주로 광경화 레진) 크라운 6개 in vitro 연구 SR: AM 크라운의 결합강도는 밀링 크라운과 동등하며, 알루미나 샌드블라스팅이 가장 권장됨. 임상 적용 전 임상 연구 필요.
 
