@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Multi-institution expert consensus (15+ Chinese medical centers, ENT plus dentistry) on odontogenic maxillary sinusitis (OMS): CT-based studies attribute 45–72% (meta-analysis ~51%) of unilateral maxillary opacification to dental causes; OMS resists conventional rhinosinusitis therapy and requires multidisciplinary dental-cause elimination plus sinus drainage (ESS), with a standardized classification, diagnostic criteria, and treatment algorithm.
+
 ## 한줄요약
 중국 다기관 전문가 합의 (베이징 퉁런 병원 외 15개 기관): CT 기준 단측 상악동 혼탁의 45–72%가 치성; OMS는 기존 비부비동염 치료에 저항적; 치과·이비인후과 다학제 협진 + 표준화된 분류·진단·치료 알고리즘 제시.
 
