@@ -4,8 +4,8 @@ authors: Mario Alovisi, Paolo G Arduino, Stefano Petti
 year: 2026
 doi: 10.1111/iej.70135
 category: [endodontics/regenerative]
-pdf_path: /Users/oracleneo/llm-wiki/papers/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
-pdf_filename: galler-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
+pdf_filename: alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
 source_collection: external
 ---
 

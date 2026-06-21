@@ -4,11 +4,11 @@ authors: Mario Alovisi, Paolo G Arduino, Stefano Petti
 year: 2026
 date: 2026-03-01
 doi: 10.1111/iej.70135
-source: galler-2026-intracanal-medicaments-regenerative-endo-sr-ma.md
+source: alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.md
 category: [endodontics/regenerative]
 confidence: sr+ma
-pdf_path: /Users/oracleneo/llm-wiki/papers/galler-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
-pdf_filename: galler-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
+pdf_filename: alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma.pdf
 source_collection: external
 tags: [regenerative-endodontics, intracanal-medicament, TAP, DAP, calcium-hydroxide, REP, SR-MA]
 ---
