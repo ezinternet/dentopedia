@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA (15 publications, 1439 implants, 642 patients) comparing platform switching (PS) vs platform matching (PM): most studies showed significantly less marginal bone loss (MBL) around PS implants with no difference in implant failure rates, confirming PS as effective for limiting crestal bone resorption.
+
 ## 한줄요약
 SR+MA(15편, 1439 임플란트, 642명): PS 임플란트 MBL이 PM 대비 유의하게 낮음; 임플란트 실패율 차이 없음; 플랫폼 스위칭 변연골 보존 효과 확인
 
