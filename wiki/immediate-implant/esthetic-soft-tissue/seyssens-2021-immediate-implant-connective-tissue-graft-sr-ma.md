@@ -13,6 +13,9 @@ source_collection: external
 tags: ['connective tissue graft', 'CTG', 'midfacial soft tissue', 'IIP', 'Cosyn']
 ---
 
+## One-line Summary
+SR+MA (Cosyn group; 5 RCTs + 3 NRSs, 409 implants: IIP+CTG 246 vs IIP 163) showing that adding a connective tissue graft (CTG) at single immediate implant placement (IIP) significantly reduces vertical midfacial soft tissue recession, with a pooled benefit of ~0.4–0.7 mm in midfacial level preservation.
+
 ## 한줄요약
 SR+MA (Cosyn 그룹, 5 RCT + 3 NRS, n=409 임플란트 IIP+CTG 246 vs IIP 163, follow-up 12-?개월): 협측 vertical midfacial 연조직 변화 — IIP+CTG 군이 recession 유의하게 적음.
 
