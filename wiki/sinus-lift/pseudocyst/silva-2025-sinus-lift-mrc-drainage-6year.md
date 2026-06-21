@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, sinus-lift, drainage, guided-implant, 6-year-follow-up, histology, case-report]
 ---
 
+## One-line Summary
+Case report (Cureus 2025, USP-ARDEC, n=1, 6-year follow-up): simultaneous mucous retention cyst (MRC) drainage + lateral sinus floor elevation (SFE) followed by guided delayed implant; at 6 years the implant, grafted bone volume (CBCT), and sinus health remained stable, with histology showing active new bone formation — a rare longitudinal + histologic datapoint.
+
 ## 한줄요약
 Case report (Cureus 2025, USP-ARDEC): MRC 환자 simultaneous drainage + lateral SFE → guided implant. **6년 추적 + 조직학** — implant·grafted bone·sinus health 모두 안정.
 
