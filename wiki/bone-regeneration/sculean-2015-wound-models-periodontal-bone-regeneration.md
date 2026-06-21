@@ -13,6 +13,9 @@ source_collection: external
 tags: [wound-healing, GTR, bone-regeneration, research-models, EMD, PDGF, BMP-2, periodontics]
 ---
 
+## One-line Summary
+Narrative review (Periodontol 2000, 2015): overview of periodontal and bone-regeneration research models (in vitro → animal → human RCT); GTR and EMD are well-supported, BMP-2 is effective for vertical ridge augmentation, and PDGF is RCT-supported for bone defects, with emphasis on the limits of animal-to-human translation.
+
 ## 한줄요약
 narrative-review(Periodontol 2000 2015): 치주·골 재생 연구모델(세포배양→동물→임상) 총론 — GTR·EMD 근거 충분; BMP-2 수직증대 유효; PDGF 골결손 RCT지지; 동물→인체 번역 한계 강조.
 
