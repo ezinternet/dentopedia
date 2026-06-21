@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, aspiration, sinus-elevation, one-stage, cohort, Testori, Del-Fabbro]
 ---
 
+## One-line Summary
+Prospective clinical cohort (Testori/Del Fabbro/Wang group; n=15 patients, 18 sinuses): needle aspiration of a pre-existing mucosal (retention) cyst followed by immediate same-surgery sinus elevation, reported as a safe and effective one-stage protocol with minimal aspiration-related complications — standardizing aspiration as a middle option between cyst removal and leaving it untreated.
+
 ## 한줄요약
 Cohort n=15 환자/18 sinuses (Testori 그룹): pre-existing mucosal cyst에 **needle aspiration 후 즉시 sinus elevation** — safe·effective 프로토콜로 보고. 흡인이라는 중간 옵션의 임상 표준화.
 
