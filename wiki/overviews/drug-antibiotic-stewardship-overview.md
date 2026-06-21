@@ -47,6 +47,10 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 약물 선택: Amoxicillin이 1차 (부작용 21.5/million, 치명률 0.1/million), Clindamycin은 회피 (치명률 2.9/million 최고, 대부분 C. difficile) — Thornhill 2019 NHS 7년 데이터. [근거강함]
 > - 우리 클리닉 즉시 적용 5룰: ① 단순 발치 예방 처방 폐지 ② 임플란트는 술전 단일 2g만 ③ AP에 광범위 항생제 금지 (근관치료 1차) ④ Clindamycin 1차 회피 ⑤ 치주 깊은 낭에는 국소 전달 항생제 우선 (전신 대신).
 
+## One-line Summary
+
+Synthesis of 21 papers (8 SR-MA, 3 umbrella reviews, 2 guidelines/position, 2 RCTs, 4 prescribing-behavior, 2 narrative) on dental antibiotic stewardship. Core thesis: the first principle is restrictive prescribing — infective-endocarditis (IE) prophylaxis is limited to the 4 highest-risk cardiac groups, simple extractions in intact dentition need no prophylaxis (Lodi 2021 Cochrane), and single perioperative dosing suffices for most oral surgery (>24 h extension only raises antimicrobial resistance). Clinical takeaway: amoxicillin is first-line, clindamycin avoided; local antibiotic delivery is preferred over systemic for deep periodontal pockets; audit-and-feedback/clinical-decision-support are the most effective stewardship interventions.
+
 ## 한줄요약
 치과 항생제 처방의 1차 원칙은 **제한 (restrictive)** — 감염성 심내막염 (Infective Endocarditis, IE) 고위험군·면역저하·IV BP·방사선 두경부·매복 발치·임플란트 일부에 한정. 단순 발치·치근단치주염(Apical Periodontitis)에는 prophylaxis 효과 없음. 1차 선택은 Amoxicillin (최저 부작용·치명률), Clindamycin은 회피. 치주 깊은 낭에는 전신 대신 국소 전달 항생제 우선.
 
