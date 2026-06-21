@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Methodological systematic review (118 studies, 2015–2024, non-decalcified plastic-embedded specimens): in bone-regeneration histomorphometry the most-used animal models are rat > rabbit > sheep > dog, toluidine blue is the dominant stain, and outcomes center on new-bone formation, residual graft, and MAR (Mineral Apposition Rate via calcein green) — highlighting the need for methodological standardization.
+
 ## 한줄요약
 체계적 문헌고찰(118편, 2015–2024, 비탈회 plastic-embedded specimens): 골재생 연구의 동물모델은 rat>rabbit>sheep>dog 순; 염색은 toluidine blue 우세; 평가지표는 신생골 형성·잔존 이식재·MAR(Mineral Apposition Rate, calcein green) 중심 — 연구방법론 표준화 필요성 지적.
 
