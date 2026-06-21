@@ -13,6 +13,9 @@ source_collection: external
 tags: [piezo-surgery, rotary-drill, initial-osteotomy, heat-generation, irrigation-temperature, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (315 osteotomies, IR thermal camera + SEM): piezo-surgical inserts generated drastically higher heat during initial osteotomy than rotary drills (ΔT 53–65°C vs <2°C, p<0.001), exceeding the 47°C necrosis threshold; lower saline temperature reduced peak heat while increased irrigation volume did not — though a constant 9.8 N overload may have biased piezo results upward.
+
 ## 한줄요약
 인비트로(J Maxillofac Oral Surg 2023, 315 prep, IR 카메라): 초기 osteotomy에서 piezo insert가 회전 drill 대비 압도적으로 높은 발열(ΔT 53–65°C vs <2°C, p<0.001) — 단, 9.8 N 과부하 적용이 piezo 결과 왜곡 가능; 차가운 saline은 효과적, irrigation volume 증가는 무효.
 
