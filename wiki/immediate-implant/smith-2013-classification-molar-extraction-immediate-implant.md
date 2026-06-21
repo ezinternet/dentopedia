@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Landmark technical note (Smith & Tarnow) introducing the A/B/C classification of molar extraction sockets for immediate implant placement based on inter-radicular bone available for primary stability (type A: septum fully engages; type B: partial engagement; type C: insufficient) — the standard classification operationalized by virtually all subsequent molar-IIP literature.
+
 ## 한줄요약
 랜드마크 technical note: 구치 발치와를 type A(격중격으로 안정 확보), type B(부분 의존), type C(불가)로 3분류 — 이후 molar IIP planning의 표준 분류 체계가 됨.
 
