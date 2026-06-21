@@ -13,6 +13,9 @@ source_collection: external
 tags: [transcrestal, hydraulic-sinus-lift, alloplast, simultaneous-implant, posterior-maxilla]
 ---
 
+## One-line Summary
+Case report (n=1, 58-year-old female, atrophic posterior maxilla): transcrestal (indirect) sinus floor elevation using a hydraulic (saline-pressure) lift system with alloplastic phosphosilicate putty graft and simultaneous implant placement; no intraoperative perforation, implant integrated, prosthesis delivered — positioned as lower-perforation-risk vs classical osteotome (Summers) technique.
+
 ## 한줄요약
 위축된 우측 상악 구치부 (Atrophic Posterior Maxilla)에서 유압식 거상 시스템 (Hydraulic Lift System)과 인산규소염 퍼티 (Phosphosilicate Putty) 골이식, 동시 임플란트 식립을 보고한 경치조 접근 (Transcrestal Approach) 케이스 리포트.
 
