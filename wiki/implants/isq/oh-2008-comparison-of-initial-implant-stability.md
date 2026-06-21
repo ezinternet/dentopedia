@@ -14,6 +14,9 @@ tags: [resonance-frequency-analysis, RFA, ISQ, implant-stability-quotient, prima
 ---
 
 
+## One-line Summary
+Prospective/in vivo RFA study comparing initial stability across implant systems: establishes practical ISQ thresholds for loading decisions — ISQ <60 delayed loading, 60–70 early loading with monitoring, >70 immediate/early loading possible.
+
 ## 한줄요약
 ISQ 임계값 실용 가이드: <60 지연부하, 60–70 조기부하+모니터링, >70 즉시/조기부하 가능
 
