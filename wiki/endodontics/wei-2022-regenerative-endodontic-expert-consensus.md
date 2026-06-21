@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Chinese expert Delphi consensus on regenerative endodontic procedures (REP) for immature necrotic teeth: protocol of 1.5% NaOCl irrigation, TAP/DAP antibiotic paste, blood-clot induction, and MTA barrier; reported success rates of 85–90% periapical healing, 60–80% root maturation, and 30–60% vitality response.
+
 ## 한줄요약
 REP 중국 전문가 합의 — NaOCl 1.5% 세정, TAP/DAP 유치, 혈전 유도, MTA 차폐; 성공률 85–90%.
 
