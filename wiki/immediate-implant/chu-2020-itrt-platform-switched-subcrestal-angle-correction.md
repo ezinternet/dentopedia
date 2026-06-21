@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Comparative prospective study (~12-month follow-up) of a variable platform-switched subcrestal angle-correction implant for immediate tooth replacement therapy (ITRT) in postextraction sockets: the angle-correction geometry reconciles prosthetic-driven positioning with bony-housing constraints, reducing socket perforation and yielding favorable soft-tissue and esthetic outcomes even with shorter implants.
+
 ## 한줄요약
 전향적 비교 연구: subcrestal angle correction이 가능한 platform-switched 임플란트는 단축 임플란트에서도 즉시식립 + 즉시 임시보철 시 socket perforation 회피와 양호한 ITRT 결과 가능.
 
