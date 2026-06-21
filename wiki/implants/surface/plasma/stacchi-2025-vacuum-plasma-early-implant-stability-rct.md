@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/stacchi-2025-vacuum-plasma-early-impl
 pdf_filename: stacchi-2025-vacuum-plasma-early-implant-stability-rct.pdf
 source_collection: external
 tags: [plasma, vacuum-plasma, human-rct, ISQ, early-stability, split-mouth, chairside]
+relations:
+  - type: refines
+    target: pesce-2020-photo-plasma-activation-titanium-sr-ma
 ---
 
 ## One-line Summary
