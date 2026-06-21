@@ -13,6 +13,9 @@ source_collection: external
 tags: [biological-aging, TiO2, nano-hybrid, electropositivity, UV-photofunctionalization, anti-aging]
 ---
 
+## One-line Summary
+In vitro study (Int J Nanomedicine 2011): a TiO2 micro-nano-hybrid surface (300 nm nanonodules on micropits) sustains bioactivity for ≥7 days after UV photofunctionalization — versus 30–50% bioactivity decay on micropit-only surfaces — via sustained electropositivity rather than hydrophilicity (the hybrid became hydrorepellent by day 7 yet stayed bioactive; Cl⁻ neutralization of electropositivity abolished bioactivity, confirming the mechanism).
+
 ## 한줄요약
 인비트로(IJN 2011): TiO2 나노결절(300 nm) + 마이크로피트 하이브리드 표면 → UV 광기능화 (Photofunctionalization) 후 7일까지 생체활성 유지 (마이크로 단독 대비 30–50% 감소 방지); 기전은 친수성이 아닌 양전하 (Electropositivity) 지속.
 
