@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of the biological response of the PDL and alveolar bone to orthodontic force, summarizing the roles of neurotransmitters (Substance P, CGRP, VIP), arachidonic acid metabolites (PGE₂, leukotrienes), cytokines, and enzymes (cathepsin K, MMPs), and framing the optimal orthodontic force concept (insufficient → no movement; excessive → necrosis/hyalinization).
+
 ## 한줄요약
 교정력에 대한 PDL·치조골 반응 요약 — 신경전달물질·사이토카인·cathepsin K·MMP 역할.
 
