@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, mechanism, review]
 ---
 
+## One-line Summary
+
+Narrative review of PDRN (50–1500 kDa salmon/trout sperm-derived DNA fragments) in dentistry: maps its dual mechanism (A2A receptor signaling + nucleotide salvage pathway) onto adjunctive applications across GBR, soft-tissue, TMJ, peri-implantitis, and MRONJ, concluding that consistent preclinical signals are not yet matched by RCT-grade evidence for protocolization.
+
 ## 한줄요약
 
 Narrative review. PDRN은 salmon/trout sperm 유래 50-1500 kDa DNA fragment로 A2A receptor + nucleotide salvage pathway 통해 angiogenesis·osteogenesis 촉진. GBR, TMJ, peri-implantitis, MRONJ adjunct로 시도되나 RCT-grade evidence 부재.
