@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of burning mouth syndrome (BMS) pathogenesis integrating peripheral small-fiber neuropathy, central sensitization, hormonal (estrogen decline), and psychological factors, proposing an ICD-11-based diagnostic algorithm distinguishing primary (diagnosis of exclusion) from secondary BMS.
+
 ## 한줄요약
 BMS 병인론 최신 업데이트 + ICD-11 기반 진단 알고리즘 — 신경병증·심리·호르몬 통합 모델.
 
