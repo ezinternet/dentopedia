@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia-drill, steel-drill, heat-generation, drill-material, systematic-review, meta-analysis]
 ---
 
+## One-line Summary
+SR+MA (10 in vitro studies, inverse-variance pooling) of zirconia (Zr) vs stainless-steel (SS) implant drills: Zr drills produced significantly lower bone temperature variation than SS during implant site preparation — a quantitative material-pair signal that qualifies (rather than contradicts) the broader chakraborty-2024 "drill material inconclusive" SR.
+
 ## 한줄요약
 SR+MA(Saudi Dent J 2024, 10편 in vitro): 지르코니아(Zr) drill이 스테인리스스틸(SS) drill보다 골내 온도 변화 유의하게 낮음(IV pooling) — chakraborty의 "material 결론 불가" 결과와 대립되는 특정 material pair에 대한 정량적 신호.
 
