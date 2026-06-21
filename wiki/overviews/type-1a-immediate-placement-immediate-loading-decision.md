@@ -28,6 +28,10 @@ relations:
 > - 의사결정 알고리즘: CBCT 평가 → BBT<1mm/얇은 생체형이면 Type 1B(즉시+지연부하) 또는 Type 2A로 downgrade → 1차 안정성 <25 Ncm이면 Type 2A 또는 중단 → 한 조건이라도 빠지면 downgrade.
 > - 한계 [claude해석]: 구치부 Type 1A evidence 얇음, ≥10년 RCT 부족, PES 측정자 간 변동 큼, selection criteria 교호작용 미평가, 아시아(한국·일본) cohort 적어 생체형·골질 차이로 일반화 불확실.
 
+## One-line Summary
+
+Synthesis of 12 wiki entries, anchored on the ITI 2023 consensus (Hamilton SR+MA), into a staged decision algorithm for Type 1A (immediate placement + immediate loading). It quantifies the selection bundle — facial gap ≥2 mm, absence of endodontic infection, thick biotype, intact buccal plate (BBT ≥1 mm), primary stability ≥35 Ncm / ISQ ≥70, atraumatic extraction — under which Type 1A yields ~97% 5-year survival and acceptable midfacial-recession risk, mostly in the maxillary anterior single-tooth site. If any criterion is unmet the algorithm downgrades to Type 1B (immediate + delayed loading) or Type 2A; large buccal defects (≥5 mm) remain feasible with concurrent GBR (Meijer 2024 10-yr RCT), with molar and long-term (≥10-yr) evidence still thin.
+
 ## 한줄요약
 ITI 2023 consensus (Hamilton SR+MA) 중심으로 12편을 정리 — Type 1A (즉시식립 + 즉시부하)의 적응증 정량화: facial gap ≥2 mm·근관 감염 부재·thick biotype·intact buccal plate (BBT ≥1 mm)·1차 안정성 ≥35 Ncm 충족 시 5년 생존율 ≥97%·midfacial recession 위험 허용 범위; 한 조건이라도 빠지면 Type 1B/2A로 downgrade하는 단계 의사결정 알고리즘.
 
