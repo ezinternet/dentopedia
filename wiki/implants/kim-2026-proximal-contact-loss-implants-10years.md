@@ -13,6 +13,9 @@ source_collection: external
 tags: [proximal-contact-loss, PCL, long-term-implant, periodontal, molar, mesial, maintenance]
 ---
 
+## One-line Summary
+Cross-sectional study (JPIS 2026, n=142 implants, 101 patients, all >10 years in function): proximal contact loss (PCL) occurred in 53.7% of long-term implants, predominantly mesial (65.6% vs 28.3% distal), with molar location and poor periodontal condition of adjacent teeth as significant risk factors (P<0.05).
+
 ## 한줄요약
 cross-sectional(JPIS 2026;56:31-38, n=142 임플란트, >10년): 인접면 접촉 소실률 53.7%; 근심 65.6% > 원심 28.3%; 구치부 위치·인접치 치주상태 불량이 유의한 위험인자.
 
