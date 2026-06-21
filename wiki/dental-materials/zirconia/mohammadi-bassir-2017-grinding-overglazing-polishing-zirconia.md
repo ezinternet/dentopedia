@@ -13,6 +13,9 @@ source_collection: external
 tags: [Y-TZP, grinding, overglazing, polishing, flexural-strength, surface-roughness, phase-transformation]
 ---
 
+## One-line Summary
+In vitro study (J Prosthet Dent 2017, 5 groups) on Y-TZP: coarse grinding plus overglazing or two polishing systems produced significant differences in surface roughness (Ra, Rz) and flexural strength (p<0.001); polishing after grinding partially restored the surface while overglazing alone was insufficient to compensate for grinding damage.
+
 ## 한줄요약
 in-vitro(J Prosthet Dent 2017): 연삭+오버유약/연마 2종 vs 기준 — Ra·Rz·굴곡강도 유의차(p<0.001); 연삭 후 연마가 부분적으로 표면 회복; 오버유약 단독으로는 불충분.
 
