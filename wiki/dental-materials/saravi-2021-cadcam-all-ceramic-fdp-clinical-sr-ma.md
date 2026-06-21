@@ -13,6 +13,9 @@ source_collection: external
 tags: [cadcam, all-ceramic, fdp, fixed-dental-prosthesis, zirconia, lithium-disilicate, feldspathic, chipping, fracture, survival-rate, clinical-performance]
 ---
 
+## One-line Summary
+SR+MA (RCTs + cohort studies; Materials 2021): for CAD/CAM all-ceramic tooth-supported fixed dental prostheses (FDPs), 5-year survival is generally >90%, zirconia framework fracture is rare with veneering-ceramic chipping the predominant technical complication, lithium disilicate carries higher fracture risk in long-span FPDs, and biological complications are comparable to metal-ceramic.
+
 ## 한줄요약
 CAD/CAM 전부도재 치아지지 FPD(Fixed Dental Prosthesis) 임상성적 SR+MA (Materials 2021): 지르코니아 FPD 프레임 파절 드묾; 베니어 세라믹 칩핑(Chipping)이 주요 합병증; 리튬 디실리케이트는 장경간에서 파절 위험 증가.
 
