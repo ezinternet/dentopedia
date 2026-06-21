@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Five-year prospective cohort (n=13 head-and-neck cancer patients, 44 implants): short dental implants placed in microvascular bone free flaps achieved 97.1% survival (95% CI 80.9–99.6%) and 88.2% success at 63 months, with significant quality-of-life gains in food intake and articulation — demonstrating clinical viability in oncologic-reconstruction jaws.
+
 ## 한줄요약
 5년 전향 연구(n=13명, 44 implants): 두경부 종양 후 microvascular free flap 재건부에 short implant 식립 — survival 97.1% (95% CI 80.9–99.6%), success 88.2%, QoL(저작·언어) 유의 개선. 종양 재건 환자에서 short implant의 임상적 유효성 입증.
 
