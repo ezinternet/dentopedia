@@ -13,6 +13,9 @@ source_collection: external
 tags: [spt, supportive-periodontal-therapy, recall-interval, periodontal-maintenance, tooth-retention, compliance, 3-month, 6-month, evidence-gap]
 ---
 
+## One-line Summary
+Systematic review (8 cohort studies, 0 RCTs; 1,095 abstracts screened) on the appropriate periodontal maintenance (PM) recall interval: shorter 3–6 month intervals favor tooth retention in compliant patients, with significantly more tooth loss as intervals approach 12 months; evidence for a uniform prescribed interval is weak, and risk-stratified intervals plus RCTs are needed.
+
 ## 한줄요약
 치주유지치료(PM) 적정 주기 SR (JEBDP 2015): 8편 코호트, RCT 없음; 3–6개월 단기 주기 → 치아보존 유리; 모든 환자 일률적 주기 권고 근거 부족; RCT 필요.
 
