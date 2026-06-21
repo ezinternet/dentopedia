@@ -13,6 +13,10 @@ source_collection: external
 tags: [sinus-lift, lateral-window, schneiderian-membrane, perforation, prf, collagen-membrane, antral-pseudocyst]
 ---
 
+## One-line Summary
+
+Case report (70-year-old male, non-restorable maxillary molar, lateral window approach with incidentally discovered antral pseudocyst): a Schneiderian membrane perforation created during pseudocyst removal was repaired with platelet-rich fibrin (PRF) plus a resorbable collagen membrane; re-entry showed a thickened intact fibrotic membrane, and sinus elevation with implant placement proceeded uneventfully.
+
 ## 한줄요약
 증례 보고 (70세 남성, 비복원성 상악 대구치, 측방창 (Lateral Window) 접근, 우연히 발견된 상악동 가성낭종 (Antral Pseudocyst)): 가성낭종 제거 중 발생한 슈나이더 막 (Schneiderian Membrane) 천공을 혈소판 풍부 피브린 (Platelet-Rich Fibrin, PRF) + 흡수성 콜라겐 막 조합으로 봉합하여 재진입 시 두꺼워진 섬유성 막이 유지되었고, 상악동 거상술 (Sinus Lift) 및 임플란트 식립 성공.
 
