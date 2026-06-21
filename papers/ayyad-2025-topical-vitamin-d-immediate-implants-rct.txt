@@ -1,0 +1,108 @@
+Source: PubMed Central PMC12228272 — DOI 10.1186/s12903-025-06465-6
+
+Title: Clinical and radiographic evaluation of topical vitamin D application on immediate dental implants: a randomized clinical trial
+Authors: Ayyad BM, Hamed MS, Elrody A, Hanna PA, Younis AA
+Journal: BMC Oral Health, 2025
+PMID: 40618145 | PMCID: PMC12228272 | DOI: 10.1186/s12903-025-06465-6
+Trial registration: ClinicalTrials.gov NCT06806423 (registered January 28, 2025)
+
+=== ABSTRACT ===
+
+Background
+Immediate dental implants reduced treatment time and improved patient satisfaction, but achieving optimal osseointegration remained challenging. Bioactive agents, such as growth factors, cytokines and vitamins, are explored for their roles in enhancing bone healing and implant osseointegration. Vitamin D3 (calcitriol) showed promising potential in promoting these processes. This study aimed to evaluate the clinical and radiographic effects of topical vitamin D3 (calcitriol) gel on immediate dental implants.
+
+Methods
+Twenty-four immediate implants were placed in healthy patients (aged 21–40 years) requiring replacement of single-rooted teeth in the anterior mandible. Patients were randomly allocated to either the control group (Group I: 12 implants inserted after tooth extraction) or the study group (Group II: 12 implants inserted after tooth extraction with topical vitamin D3 (calcitriol) gel). Clinical evaluations, including peri-implant probing depth, bleeding index, pain score and implant stability, were performed at baseline, 3 and 6 months postoperatively. Radiographic evaluation, represented by bone density analysis was conducted at the same intervals.
+
+Results
+After 6 months, the Vitamin D group showed significant improvement in soft tissue healing with greater reductions in probing depth and bleeding index (1.17 mm and 0.58 vs. 1.83 mm and 1.42, respectively). Postoperative pain scores were significantly lower in the Vitamin D group by day 7 (1.00 vs. 2.50), reflecting an 81.2% reduction compared to the control group. Implant stability significantly reached 80 ISQ in the Vitamin D group compared to 75 ISQ in the control group. Bone density was significantly higher in the Vitamin D group (139.01 vs. 121.01 GSV), increasing by 18.1% vs. 6.4% in the control group.
+
+Conclusions
+The reductions in peri-implant probing depth and bleeding index reflected improved soft tissue healing. The decrease in postoperative pain scores suggested potential analgesic effects. The increase in implant stability and bone density indicated enhanced osseointegration. These findings support the clinical application of topical vitamin D3 for immediate dental implant placement to promote peri-implant soft and hard tissue healing.
+
+=== FULL TEXT ===
+
+Background
+
+Immediate dental implant placement has gained popularity for replacing extracted teeth due to its advantages, including shorter treatment time, better preservation of alveolar bone volume and enhanced aesthetic outcomes. However, the success of immediate implants largely relies on achieving optimal osseointegration, defined as the direct structural and functional bond between living bone and the surface of a load-bearing implant. Factors such as implant surface properties, surgical techniques and patient-specific variables like bone quality influence this process.
+
+Extensive research has aimed to enhance bone-to-implant contact (BIC), a key factor for successful osseointegration. Strategies include modifying implant surface morphology and applying bioactive agents, both intended to improve BIC and support long-term implant integration.
+
+Among these agents studied, vitamin D has shown significant potential as a promising candidate. Originally identified as a substance in cod liver oil that cured rickets in dogs, it exists as cholecalciferol (D3) and ergocalciferol (D2), with D3 synthesized in the skin via UV exposure or obtained from diet. It becomes biologically active after hydroxylation in the liver (to 25(OH)D) and kidneys (to 1,25(OH)D or calcitriol). Calcitriol promotes osteogenesis and bone remodeling by interacting with vitamin D receptors (VDR) on osteoblasts and osteoclast precursors. This interaction regulates the production of osteogenic markers and enhances the expression of Receptor Activator of Nuclear Factor Kappa-B Ligand (RANKL), a key factor in bone resorption and remodeling.
+
+Calcitriol has shown promise in promoting bone regeneration. In vitro studies using a sustained-release delivery system enhanced osteogenesis, proliferation and migration of bone mesenchymal stromal cells from ovariectomized rats. In vivo, this system promoted bone regeneration in rats with femoral bone defects. Similarly, sustained-release vitamin D3 via poly-lactic acid (PLA) nanoparticles improved bone growth and implant integration around titanium implants in sheep, especially with bone grafts. In diabetic patients, topical vitamin D3 on implants reduced crestal bone loss and slightly increased bone density. Mixing vitamin D with xenografts during alveolar ridge augmentation has been shown to enhance bone formation and implant stability.
+
+Despite increasing interest, limited research has examined vitamin D efficacy for immediate implant placement. Most existing studies focus on animal models or in vitro experiments, leaving a gap in clinical evidence for human applications. This study aimed to evaluate the clinical and radiographic outcomes of topical vitamin D application on immediate dental implants in healthy patients undergoing single-rooted tooth extractions in the anterior mandibular region.
+
+Methods
+
+Study design: Randomized clinical trial at the Oral and Maxillofacial Surgery Department, Faculty of Dentistry, Suez Canal University, Egypt. Research Ethics Committee approval (REC/534/2022). Declaration of Helsinki. CONSORT-compliant. Trial registered at ClinicalTrials.gov.
+
+Sample size: Calculated with G*Power 3.1.9.6; effect size 0.39, partial eta squared 0.13, power 80%, alpha 0.05. Total 24 implants (12 per group).
+
+Patient selection: Patients requiring extraction of non-restorable single-rooted teeth in the mandibular anterior region. ASA I, aged 21–40 years, thick soft tissue phenotype, minimum keratinized tissue width (KTW) of 2 mm. Excluded: pregnant/lactating, poor oral hygiene, severe periodontal disease, bone/soft tissue defects, heavy smoking, bruxism, infections/pathology at implant sites.
+
+Study groups and randomization: 24 immediate implants in anterior mandible. Randomly assigned in equal numbers.
+- Group I (Control): implants inserted immediately after extraction.
+- Group II (Study): implants inserted immediately after extraction + topical vitamin D3 (calcitriol) gel.
+
+Preparation of calcitriol gel: Emulgel formulated from disodium hydrogen phosphate, citric acid, cremophor RH 40, tween 80, Cellosize K100M, PVP K90, glycerol; drug oily solution (1 µg/mL, 8 mL). Sterilised via aseptic mixing + heat sterilisation. HPLC (Temova and Roškar method) used to detect calcitriol. pH targeted to physiological 7.2–7.4. Viscosity, spreadability, extrudability, drug content, and in vitro release evaluated.
+
+Surgical phase: Chlorhexidine 0.1% rinse, povidone-iodine. Infiltration anesthesia with 4% articaine 1:100,000 epinephrine. Atraumatic extraction with periotomes. Osteotomy at 950–1100 rpm, 35 Ncm torque under irrigation. In study group, sterile vitamin D3 (calcitriol) gel applied to both implant surface and osteotomy site immediately before placement. ROOTT R-line implants (TRATE AG, Switzerland). No bone grafting at the jumping gap in either group (to isolate vitamin D effect). ISQ measured immediately with Osstell device. Large healing abutments placed; 3-0 Vicryl sutures.
+
+Postoperative: Cataflam 50 mg (diclofenac potassium) twice daily for 4 days; Hexitol 0.12% chlorhexidine mouthwash twice daily for 7 days. Examiners blinded to group. Follow-up first week, 3 months, 6 months.
+
+Outcomes:
+- Probing depth (PD) and bleeding index (BI) at 3 and 6 months.
+- Pain via Visual Analog Scale (VAS) at days 1, 3, 7.
+- Implant stability (ISQ) via Osstell at immediate, 3, 6 months.
+- Bone density via standardized digital periapical radiographs (Rinn XCP parallel technique), analyzed with IDRISI Kilimanjaro software (Gray Scale Value, GSV) at baseline, 3, 6 months.
+
+Statistical analysis: SAS JMP 17.2. Independent Student's t-tests at each time point. 95% CI, p<0.05 significant.
+
+Results
+
+Demographics: ASA I, mean age 35 ± 1.69 years. 24 implants, 12 per group. Control mean age 35.17 ± 2.04; Vit D 34.83 ± 1.34 (p=0.64). All completed 6-month follow-up without implant failures or major complications. Teeth involved: mandibular anterior (31, 32, 33, 41, 42, 43).
+
+Probing depth (mm):
+- 3 months: Control 2.42 ± 0.51; Vit D 2.00 ± 0.60 (p=0.0827, NS)
+- 6 months: Control 1.83 ± 0.72; Vit D 1.17 ± 0.72 (p=0.033, significant)
+- 41.5% reduction in Vit D group vs 24.4% in control.
+
+Bleeding index:
+- 3 months: Control 2.50 ± 0.52; Vit D 1.75 ± 0.45 (p=0.0011, significant)
+- 6 months: Control 1.42 ± 0.51; Vit D 0.58 ± 0.51 (p=0.0007, significant)
+- 66.9% reduction in Vit D vs 43.2% in control.
+
+Postoperative pain (VAS):
+- Day 1: Control 6.17 ± 1.47; Vit D 5.33 ± 0.98 (p=0.1185, NS)
+- Day 3: Control 3.83 ± 0.94; Vit D 2.58 ± 0.67 (p=0.0012, significant) — 51.6% vs 37.9% reduction
+- Day 7: Control 2.50 ± 0.67; Vit D 1.00 ± 0.74 (p<0.0001, significant) — 81.2% vs 59.5% reduction
+
+Implant stability (ISQ):
+- Immediate: Control 50.00 ± 5.59; Vit D 53.92 ± 5.93 (p=0.1103, NS)
+- 3 months: Control 60.58 ± 2.27; Vit D 64.25 ± 3.39 (p=0.0057, significant)
+- 6 months: Control 75.00 ± 2.13; Vit D 80.00 ± 3.86 (p=0.0011, significant)
+
+Bone density (GSV):
+- Immediate: Control 114.30 ± 16.75; Vit D 118.06 ± 13.73 (p=0.5532, NS)
+- 3 months: Control 111.24 ± 14.07; Vit D 108.97 ± 9.87 (p=0.653, NS)
+- 6 months: Control 121.01 ± 13.03; Vit D 139.01 ± 13.76 (p=0.0257, significant)
+
+Percentage change in bone density:
+- 1st quarter (0–3 mo): Control -2.33 ± 5.28%; Vit D -7.27 ± 6.54% (p=0.0543) — both decreased
+- 2nd quarter (3–6 mo): Control 9.26 ± 8.00%; Vit D 27.60 ± 5.69% (p<0.0001)
+- Overall (0–6 mo): Control 6.44 ± 5.12%; Vit D 18.07 ± 5.65% (p<0.0001)
+
+Emulgel characterization: White colour (plain gel clear/transparent), homogeneous, no greasy globules. pH 7.28 ± 0.10 (physiological). Viscosity 3912.7 ± 234.79 cps. Spreadability 15.43 ± 0.85 g.cm/sec. Extrudability 16.47 ± 1.66 s (0.5 cm extruded within 15 s). Drug content 97.94 ± 3.19% (range 95.47–101.54%). In vitro release: biphasic — rapid initial release followed by sustained release.
+
+Discussion (selected points):
+- Vitamin D regulates osteoblast differentiation/function, promotes bone formation, modulates osteoclast activity.
+- Anterior mandible chosen for uniform bone density, consistent occlusal forces, comparable socket dimensions, precise localized gel application with minimal spread.
+- Improved soft tissue healing attributed to vitamin D anti-inflammatory effects and role in collagen synthesis.
+- Pain reduction attributed to modulation of inflammatory responses.
+- Findings align with Amr (2019, topical vitamin D3 + bone grafts), Heeba et al. (2019, diabetic patients), Salomó-Coll et al. (2018, 9% BIC increase with 10% vitamin D in Foxhound dogs). Bozoğlan & Dundar (2021) found no significant BIC difference in rats — variability by model.
+
+Limitations: Focus on anterior mandible reduces generalizability to other regions. CBCT not used (ALARA principle; could allow broader bone evaluation). Marginal bone loss and keratinized mucosa width not assessed — suggested for future research.
+
+Conclusions: Significant reductions in peri-implant probing depth and bleeding index suggested improved soft tissue healing. Notable decrease in postoperative pain indicated potential analgesic effects. Significant improvements in implant stability and bone density highlighted enhanced osseointegration. Topical vitamin D3 supports inclusion in clinical protocols for implant dentistry, especially immediate placement.
