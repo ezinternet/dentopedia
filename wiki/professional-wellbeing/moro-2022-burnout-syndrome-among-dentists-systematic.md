@@ -13,6 +13,9 @@ source_collection: external
 tags: [burnout, prevalence, MBI, emotional-exhaustion, meta-analysis, dentist]
 ---
 
+## One-line Summary
+MBI-only SR+MA (37 studies, 31 meta-analyzed) of dentist burnout: full-syndrome (all 3 subscales) prevalence ~13% (95% CI 0.6–21%, I²=97.1%) but emotional exhaustion (EE) alone ~28% — EE is far more common and the earliest clinical warning sign, making it the operational early-detection target.
+
 ## 한줄요약
 MBI 기반 SR+MA — 치과의사 번아웃 전체 유병률 13%, 그러나 정서적 소진(EE) subscale은 28%. EE 단독 노출이 압도적이고, 이게 번아웃의 진입 신호다.
 
