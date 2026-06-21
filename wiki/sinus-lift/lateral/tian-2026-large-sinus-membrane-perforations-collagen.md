@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, lateral-window, membrane-perforation, collagen-membrane, tack-fixation]
 ---
 
+## One-line Summary
+Technical note / case report describing a lateral-window sinus floor elevation (SFE) technique for repairing large (>10 mm) Schneiderian membrane perforations by stabilizing a resorbable collagen membrane with fixation tacks on the mesial and lateral sinus walls, creating a stable subantral compartment that permits simultaneous bone grafting and, when primary stability allows, implant placement instead of aborting the case.
+
 ## 한줄요약
 대형 (>10 mm) 슈나이더리안 막 (Schneiderian membrane) 천공 시 콜라겐 막을 상악동 내측·외측벽에 택 (tack)으로 고정해 동시 골이식을 가능하게 하는 측방창 (Lateral window) 술기 노트.
 
