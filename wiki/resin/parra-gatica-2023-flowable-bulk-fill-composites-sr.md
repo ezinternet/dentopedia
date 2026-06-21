@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review (53 in vitro studies) of contemporary flowable bulk-fill resin-based composites found extreme inter-product heterogeneity — degree of conversion 19.4–93.7%, polymerization shrinkage 1.3–10.5%, shrinkage stress predominantly 2–3 MPa, flexural strength >80 MPa for most — concluding the materials meet bulk-fill requirements but variability precludes generalizing across products, with clinical studies lacking.
+
 ## 한줄요약
 53개 in vitro 연구 체계적 문헌고찰: 유동성 벌크필 레진(flowable bulk-fill RBC)의 전환율(DC) 19–94%, 중합수축 1.3–10.5%, 수축응력 2–3 MPa, 굴곡강도 대부분 80 MPa 초과로 재료 간 편차가 크며 임상연구 부재.
 
