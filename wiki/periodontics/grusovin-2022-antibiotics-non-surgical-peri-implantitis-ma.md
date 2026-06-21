@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of 6 RCTs on antibiotic adjuncts to non-surgical peri-implantitis therapy: local antibiotics improved PPD (-0.6 mm), BOP (-0.15), and success rate (RR 9.89), whereas systemic antibiotics improved only PPD (-1.15 mm) and PAL (-1.10 mm) with no success-rate change; peri-implantitis resolution remained low (~20–30%) even with local adjunct.
+
 ## 한줄요약
 SR+MA (6 RCT): 비외과 peri-implantitis 치료에 항생제 adjunct — 국소 항생제는 PPD(-0.6mm), BOP(-0.15), success rate(RR 9.89) 모두 유의 개선; 전신 항생제는 PPD(-1.15mm)·PAL(-1.10mm)만 개선, success는 차이 없음. peri-implantitis resolution은 국소 adjunct 시 20–30%로 여전히 낮음.
 
