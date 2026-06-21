@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, insertion-torque, immediate-loading, extraction-socket, fresh-socket, tapered, stability]
 ---
 
+## One-line Summary
+Retrospective study (41 tapered immediately-loaded implants, 22 fresh sockets vs 19 healed bone): fresh-socket implants started with significantly lower ISQ (57.6 vs 72.9, p<0.001) but converged by 4 months, with 100% survival — showing insertion torque (ITV ≥35 Ncm), not ISQ alone, is the reliable immediate-loading criterion in fresh sockets.
+
 ## 한줄요약
 후향적 연구(41 임플란트): 신선 발치와 초기 ISQ 57.6 vs 치유골 72.9(p<0.001); 4개월에 수렴; 발치와 즉시 부하 결정은 ITV(≥35Ncm) 우선, ISQ 단독 기준 불충분
 
