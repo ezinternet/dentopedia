@@ -13,6 +13,9 @@ source_collection: external
 tags: [drill-wear, osteotomy, heat-generation, SEM, TiN-coating, drill-replacement, in-vitro]
 ---
 
+## One-line Summary
+In vitro CNC-controlled study (PLOS ONE 2025; two drill protocols, 150 holes each without irrigation): drill-bit wear (tracked by SEM TiN-coating loss) correlated directly and progressively with peak intraosseous drilling temperature, while hole-geometry deviation was only weakly affected — supporting strict adherence to drill-replacement protocols since heat rise begins well before the manufacturer's ~25–30-use limit.
+
 ## 한줄요약
 인비트로(PLOS ONE 2025, CNC 통제, 150 hole/set): drill bit 마모(SEM, TiN 코팅 손실)와 골내 온도 상승이 직접 정비례; hole geometry와의 상관은 약함 — "제조사 권장 25–30회보다 훨씬 일찍 발열은 시작된다."
 
