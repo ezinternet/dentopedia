@@ -13,6 +13,9 @@ source_collection: external
 tags: [composite, longevity, direct, indirect, posterior, RCT]
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (5 RCTs, 627 posterior restorations) found significantly lower failure risk for direct vs indirect composite restorations (RR=0.61 [0.47; 0.79]), contrasting with prior reviews; all studies were high risk of bias and evidence certainty very low (indirect AFR 0–15.5%, direct 0–5.4%).
+
 ## 한줄요약
 구치부 직접 vs 간접 복합레진 5 RCT 627 수복 SR+MA — 직접 수복 실패 위험 유의하게 낮음(RR=0.61), 모든 연구 high risk of bias.
 
