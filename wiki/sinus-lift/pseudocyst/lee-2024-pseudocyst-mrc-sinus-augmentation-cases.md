@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, pseudocyst, mucous-retention-cyst, sinus-augmentation, subtype-classification, decision-tree, korean]
 ---
 
+## One-line Summary
+Case series (Seoul National Univ OMFS, J Craniofac Surg 2024, n=3): proposes a sinus-pathology decision tree — type 1 (pseudocyst, PsC) → spontaneous drainage, type 2 (MRC <20 mm) → aspiration, type 3 (MRC >20 mm) → enucleation — each followed by augmentation; all 3 implants integrated at 1-year, though the 20 mm cut-off is hypothetical and case-derived.
+
 ## 한줄요약
 Case series (서울대 치병원 OMFS, J Craniofac Surg 2024, n=3): sinus pathology를 **type 1 (PsC), type 2 (MRC <20mm), type 3 (MRC >20mm)**로 분류, 각각 spontaneous drainage·aspiration·enucleation 차등 적용 — 의사결정 트리 직접 case 시각화.
 
