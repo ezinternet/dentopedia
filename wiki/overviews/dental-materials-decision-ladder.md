@@ -31,6 +31,10 @@ relations:
 > - 축 4 — 시멘트: 표준 단관(abutment ≥4mm)은 자가접착(TheraCem·RelyX U200) 합리적, 짧은 abutment(<4mm)·인레이/온레이는 adhesive resin(Panavia V5)+primer 필수. Abutment 높이-유지력 r=0.95(Soleimani 2026)가 임계값.
 > - 확신도: 축 1·2·3 = 근거강함(SR+MA·big data 다수), 축 4 = 합의수준(대부분 in vitro, 임상 RCT 부족). 본 세션 zirconia-inlay-bonding 인터랙티브의 학술 backbone.
 
+## One-line Summary
+
+Synthesis/decision-ladder page that decomposes dental restorative/prosthetic material decisions into four axes — (1) zirconia bonding (APC protocol: air-abrade, prime, cement; saliva-contamination cleaning), (2) CAD/CAM all-ceramic crowns/FPDs vs PFM, (3) posterior amalgam vs composite, and (4) self-adhesive vs adhesive resin cement selection — each with a spine paper and clinical threshold. Built from SR+MA plus recent in-vitro SBS/µSBS data; serves as the academic backbone of the session's zirconia-inlay-bonding interactive.
+
 ## 한줄요약
 
 치과재료 4축 (지르코니아 접착·CAD/CAM vs PFM·아말감 vs 복합레진·시멘트 선택)의 결정 ladder. SR+MA + 최근 in vitro 정량 데이터(SBS·µSBS) 통합. 본 세션 zirconia-inlay-bonding 인터랙티브의 spine.
