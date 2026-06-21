@@ -13,6 +13,10 @@ source_collection: external
 tags: [ian, inferior-alveolar-nerve, paresthesia, third-molar, impaction, risk-factors, recovery, age, horizontal-impaction, trainee-surgeon, radiographic-signs]
 ---
 
+## One-line Summary
+
+Literature review of inferior alveolar nerve (IAN) injury after mandibular third molar extraction (14 of 84 sources analyzed); IAN paresthesia incidence ranges 0.35–8.4% with permanent injury very rare and most cases recovering, and identifies age >24, horizontal impaction, and trainee surgeon as key risk factors alongside radiographic OPG signs of intimate canal-root contact.
+
 ## 한줄요약
 하악 제3대구치 발치 후 하치조신경(IAN) 손상 문헌 고찰 (JOMR 2014): 14편 분석; 유병률 0.35–8.4%; 24세 초과·수평매복·수련의 시술이 위험인자; 영구적 손상 드묾; 대부분 회복.
 
