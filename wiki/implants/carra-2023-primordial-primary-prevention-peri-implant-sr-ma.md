@@ -14,6 +14,9 @@ source_collection: external
 tags: [peri-implant, primordial-prevention, primary-prevention, risk-factor-control, EFP, JCP, SR-MA, smoking-cessation, periodontitis-history]
 ---
 
+## One-line Summary
+SR+MA (PRISMA, observational + interventional studies with ≥6-month follow-up) anchoring the EFP S3 peri-implant prevention guideline: both primordial prevention (controlling smoking, periodontitis, and glycemia *before* placement) and primary prevention (supportive peri-implant care and oral hygiene *after* placement) reduce peri-implant mucositis and peri-implantitis incidence.
+
 ## 한줄요약
 JCP 2023 EFP/AAP Workshop SR+MA (Univ Paris, Carra): peri-implant 질환 — primordial (식립 전 위험인자 통제) + primary (식립 후 health 유지) 예방 효과; 흡연 중단·치주염 사전 관리·구강위생 강화가 peri-implant mucositis·peri-implantitis 예방 효과 입증.
 
