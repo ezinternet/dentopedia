@@ -14,6 +14,9 @@ source_collection: external
 tags: [early-loading, hydrophilic, tapered, maxilla, 6-week, ISQ, bone-quality, RCT]
 ---
 
+## One-line Summary
+RCT (30 patients, 41 maxillary posterior implants) comparing 6-week vs 12-week loading of hydrophilic tapered implants: 97.56% success and equivalent MBL (<1mm) in both groups; bone quality was the only significant predictor of stability in the 6-week group, so 6-week loading is acceptable when bone quality is verified.
+
 ## 한줄요약
 RCT(30명, 상악 41개): 친수성 테이퍼 임플란트 6주 부하 vs 12주 부하 — 성공률 97.56%, MBL 동등; 6주 군에서 골질만 안정성 상관; 골질 주의 시 6주 부하 가능
 
