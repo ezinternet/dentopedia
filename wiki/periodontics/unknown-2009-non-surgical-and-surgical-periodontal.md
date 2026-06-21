@@ -14,6 +14,9 @@ tags: [chronic-periodontitis, non-surgical-therapy, surgical-therapy, scaling-ro
 ---
 
 
+## One-line Summary
+Evidence-based literature review establishing the chronic periodontitis treatment hierarchy: non-surgical therapy (SRP + biofilm control) is primary with surgery only adjunctive, a mandatory 4–6 week re-evaluation precedes any surgical decision, and supportive periodontal therapy (SPT, recall every 3–6 months) is required indefinitely regardless of treatment type.
+
 ## 한줄요약
 근거기반 위계: 비외과적 치료 우선, 외과는 보조; SRP 후 4–6주 재평가 필수; SPT 무기한 유지
 
