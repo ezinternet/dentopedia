@@ -13,6 +13,9 @@ source_collection: external
 tags: [systematic-review, meta-analysis, heterogeneity, i-squared, publication-bias, korean, biostatistics]
 ---
 
+## One-line Summary
+Korean-language systematic review / meta-analysis (SR/MA) methodology primer (Hanyang Med Rev 2015) covering the full pipeline: search/selection/quality assessment (Cochrane Risk of Bias), effect-size pooling, heterogeneity (I² 25/50/75 heuristic, Cochran Q), fixed- vs random-effects model choice, and publication bias (funnel plot, Egger's test).
+
 ## 한줄요약
 한양의대 신우종 (마취통증의학과)의 한국어 SR/MA 방법론 입문 (Hanyang Med Rev 2015): 검색·선정·질평가부터 효과크기 통합·이질성(I², Cochran Q)·고정/랜덤 모형·출판편향(funnel plot, Egger)까지 한 편으로 정리.
 
