@@ -13,6 +13,9 @@ source_collection: external
 tags: [meta-analysis, systematic-review, critical-appraisal, korean, biostatistics]
 ---
 
+## One-line Summary
+Korean-language educational tutorial (Korean Association for the Study of the Liver 2009 invited lecture) on critically interpreting meta-analysis (MA): grounds MA in a prior well-conducted systematic review, distinguishes continuous (SMD) vs categorical (OR/RR) effect-size pathways, and names homogeneity (Cochran Q), publication bias (funnel plot), and effect-direction consistency as the key diagnostics.
+
 ## 한줄요약
 2009 대한간학회 추계학술대회 초청강의 (한국어): 메타분석의 정의·필요성·전제조건·효과크기 산정·이질성 검정·출판편향까지 임상의 비판적 해석을 위한 입문 핸드아웃.
 
