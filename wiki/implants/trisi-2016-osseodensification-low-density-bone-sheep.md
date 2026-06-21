@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, sheep, low-density-bone, bone-volume, removal-torque, micromotion, ridge-expansion]
 ---
 
+## One-line Summary
+In vivo sheep study (2 sheep, 20 implants, 2-month healing) comparing conventional drilling (3.8mm) vs osseodensification (OD, 5mm Versah) in low-density iliac bone: OD gave ~30% higher bone volume, better removal torque, less micromotion under lateral load, and greater ridge width, but the different implant diameters confound the drilling-protocol effect with implant size.
+
 ## 한줄요약
 동물 실험 (Sheep, n=2, implants=20, 치유 2개월) — 통상 드릴링 (3.8 mm, 좌측) vs 골밀도화 (Osseodensification, OD; 5 mm, Versah, 우측). OD에서 골량 (%BV)이 약 30% 더 높고, 제거 토크 우수·측방 하중 미세동요 감소·치조정 폭경 증가. 다만 임플란트 직경이 달라 OD 효과와 직경 효과가 혼재된 교란이 존재.
 
