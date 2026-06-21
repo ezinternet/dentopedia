@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, piezoelectric, rct]
 ---
 
+## One-line Summary
+Randomized controlled trial (RCT, NCT06055127): for transcrestal sinus floor elevation with delayed implant placement, osseodensification (OD) outperformed piezoelectric internal sinus elevation (PISE) on bone gain, bone density, surgery time, and patient satisfaction, while PISE gave superior day-of-surgery primary stability — both effective, differing in strengths.
+
 ## 한줄요약
 경치조골 상악동 거상 RCT(NCT06055127): OD가 골량·골밀도·수술시간·만족도에서 우수, 피에조(PISE)는 수술 당일 1차 안정성에서 우수 — 둘 다 유효하나 강점이 다름.
 
