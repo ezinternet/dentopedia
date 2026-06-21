@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Critical appraisal (narrative commentary) challenging the classification of oral lichen planus (OLP) as an oral potentially malignant disorder (OPMD), arguing that dysplastic lichenoid lesions misclassified as OLP inflate malignant transformation rate (MTR) estimates; true OLP MTR is likely <1% under strict WHO histopathological criteria.
+
 ## 한줄요약
 OLP를 OPMD로 분류하는 근거의 한계 비판 — 진단 오류 가능성으로 전환율 과대추정.
 
