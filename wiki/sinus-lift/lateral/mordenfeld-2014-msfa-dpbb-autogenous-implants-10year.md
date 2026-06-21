@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+10-year prospective cohort (20 patients, 108 turned-surface implants) of maxillary sinus floor augmentation (MSFA) with an 80% deproteinized bovine bone (DPBB) + 20% autogenous bone mixture: 10-year cumulative survival rate 86% (15/108 lost) and mean marginal bone loss 1.6 mm, with failures concentrated in a critical first-2-year window and no significant 10-year MBL/ISQ/pocket-depth difference between grafted vs residual bone or smokers vs non-smokers.
+
 ## 한줄요약
 10년 전향적 cohort (20명, 108 turned-surface 임플란트): 80% DPBB(Deproteinized Bovine Bone) + 20% 자가골 MSFA(Maxillary Sinus Floor Augmentation) — 누적 생존율 86%, 평균 변연골 흡수 1.6 mm; 식립 후 첫 2년이 critical window; 이후 흡연·증대골 여부와 무관하게 안정.
 
