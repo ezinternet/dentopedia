@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+RCT of flapless immediate implant placement with vs without xenograft filling of the buccal gap (anterior and premolar sites): the xenograft group showed significantly less buccal bone resorption at 6 and 12 months, with no implant failures in either group.
+
 ## 한줄요약
 무피판 즉시식립 협측 틈새 이종골 충전 RCT — 충전군에서 6·12개월 협측 골 흡수 유의 감소.
 
