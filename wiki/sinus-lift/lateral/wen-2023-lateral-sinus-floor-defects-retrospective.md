@@ -13,6 +13,9 @@ source_collection: external
 tags: [lateral-sinus-elevation, sinus-floor-defect, long-term-follow-up, collagen-membrane, peking-university]
 ---
 
+## One-line Summary
+Retrospective single-center cohort (35 patients / 36 sinuses, 1–9 year follow-up) of lateral sinus floor elevation (LSFE) with a membrane-first collagen seal in patients with pre-existing sinus floor defects achieved a 97.2% first-attempt completion rate, 27.8% Schneiderian membrane perforation rate, and implant cumulative survival of 96.5% through 7 years (dropping to 64.3% at 8 years with a small denominator), showing LSFE is predictable in defect-bearing sinuses when properly managed.
+
 ## 한줄요약
 후향적 cohort (Retrospective, n=35 patients/36 sinuses, 1–9년 추적): 기존 상악동저 결손 (Sinus Floor Defect) 환자에서 측방 상악동 거상술 (Lateral Sinus Floor Elevation, LSFE) + 흡수성 콜라겐막 (Resorbable Collagen Membrane) 으로 결손 봉합 후 골이식 — 1차 완성률 97.2%, 슈나이더 막 (Schneiderian Membrane, SM) 천공 27.8%, 임플란트 누적 생존율 (Cumulative Survival Rate, CSR) 1/3/5/7년 96.5%, 8년 64.3%. 결손이 있어도 적절히 관리하면 LSFE 가 예측 가능한 결과.
 
