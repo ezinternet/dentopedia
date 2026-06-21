@@ -13,6 +13,9 @@ source_collection: external
 tags: [flapless, flap, vascularity, peri-implant mucosa, animal study, soft tissue]
 ---
 
+## One-line Summary
+Canine animal study (n=6 dogs, 12 implant pairs, paired Wilcoxon): flapless implant surgery yielded significantly greater peri-implant mucosal vascularity than flap surgery at 3 months (vessel number 51.4 vs 38.2, vessel area fraction 1.7% vs 1.2%, both p<0.05); vessels >40 µm and zero clinical inflammation were seen only in the flapless group (vs 5/12 flap implants inflamed).
+
 ## 한줄요약
 성견(n=6) 동물실험에서 무피판 (Flapless) 임플란트 수술 후 임플란트 주위 점막의 혈관분포 (Vascularity)가 피판 (Flap) 수술보다 유의하게 높음 (혈관 수 51.4 vs 38.2개, p<0.05).
 
