@@ -14,6 +14,9 @@ source_collection: external
 tags: [lateral-pterygoid, anatomy, ultrasound, BoNT-A, injection-guidance, mandibular-notch, infratemporal-fossa, korean-anatomy]
 ---
 
+## One-line Summary
+Anatomical/ultrasonographic cross-sectional study (60 healthy young Korean women, 120 hemifaces) quantifying lateral pterygoid muscle (LPM) skin-to-muscle depth (30.9 ± 1.9 mm) and a mandibular-notch approach landmark (39.6 mm anterior, 7.8 mm inferior to the tragus), with 100% visualization of masseter/temporalis/LPM — operationalizing radiation-free US-guided BoNT-A LPM injection.
+
 ## 한줄요약
 건강한 한국인 여성 60명(120 hemiface)의 초음파 영상을 통해 외측익돌근(LPM)의 피부-근육 깊이(약 31 mm)와 하악절흔 경유 접근 좌표(이주 전방 39.6 mm, 하방 7.8 mm)를 정량화한 해부학적 연구.
 
