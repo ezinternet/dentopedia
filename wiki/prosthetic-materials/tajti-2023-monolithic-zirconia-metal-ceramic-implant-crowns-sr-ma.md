@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of RCTs comparing monolithic zirconia vs metal-ceramic posterior implant-supported single crowns: equivalent survival (RR 1.0) and marginal bone loss (MD -0.05mm), with significantly fewer technical complications for monolithic zirconia (OR 0.31, mainly chipping).
+
 ## 한줄요약
 구치부 임플란트 단관 단일층 지르코니아 vs 금속도재 SR+MA — 기술적 합병증 OR 0.31(지르코니아 우위).
 
