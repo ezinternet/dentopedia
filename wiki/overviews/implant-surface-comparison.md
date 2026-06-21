@@ -32,6 +32,10 @@ relations:
 > - 한계: 표면 직접 비교 임상 SR+MA·다기관 RCT 부재; 암절제·방사선 환자는 UV-PF로도 7년 22.2%로 불충분(병태생리적 손상 보상 불가).
 > - 골질별 알고리듬: D1/D2 → SLA/SA, D3 → CA/친수성, D4 → CA/SLActive + OD 또는 UV-PF, 노화 임플란트 → UV-PF 역전 후 사용.
 
+## One-line Summary
+
+Synthesis matrix comparing dental implant surface treatments (15 `implants/surface/` papers + 3 cross-cited) across SLA/SA, hydrophilic (SLActive/CA), UV photofunctionalization (UV-PF), and osseodensification (OD). Core thesis: SLA/SA remains the clinical standard (8y survival 94.8%), hydrophilic/bioactive surfaces remove the D3/D4 stability dip rather than raising absolute ISQ, UV-PF is first-line for atrophic/complex sites (complex-case ISQ +21.9, 7y 100%), OD is an osteotomy technique (not a surface) complementary to surface choice — and the true mechanism of surface efficacy is hydrocarbon removal reversing biological aging, not hydrophilicity per se.
+
 ## 한줄요약
 **SLA = 임상 표준**, **친수성 (SLActive/CA) = D3/D4 골에서 stability dip 제거**, **UV 광기능화 (Photofunctionalization) = 위축골·복잡증례에서 ISQ +21.9 상승 (7년 100% 성공)**, **골밀도화 (Osseodensification, OD) = 표면이 아닌 술기 — TSFE에서 ISQ 우위**; 표면처리의 핵심 기전은 친수성보다 **탄화수소 (Hydrocarbon) 제거를 통한 생물학적 노화 (Biological Aging) 역전** (Hayashi 2014, Minamikawa 2016).
 
