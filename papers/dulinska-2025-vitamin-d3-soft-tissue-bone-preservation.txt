@@ -1,0 +1,10 @@
+ABSTRACT-ONLY (full text not retrieved from PMC) — source: PubMed PMID 40644203
+
+Title: Influence of the soft tissue thickness and the levels of vitamin D3 as important factors in bone preservation around the dental implant platform: A retrospective observational study.
+Authors: Dulinska-Litewka J, Wilisowski D, Felkle D
+Journal: Dental and Medical Problems (2025)
+DOI: 10.17219/dmp/179004
+PMID: 40644203
+
+ABSTRACT:
+Most dental implants are made of titanium (Ti) or, more recently, ceramic. Both of these materials are safe and biocompatible. Maintaining healthy bone around the dental implant platform is a key component of any modern implant therapy. Understanding the impact of various external factors on marginal bone preservation is essential for accurate diagnosis before any planned procedure. The aim of the present study was to assess the preservation of the alveolar bone near the implant platform with regard to varying parameters of gingival thickness over the implant site and different serum vitamin D3 levels. The study analyzed the records of 72 patients who had a total of 115 dental implants inserted with the simultaneous preoperative determination of vitamin D3 levels and the soft tissue thickness between January 2022 and February 2023 at a private medical facility. Patients with vitamin D deficiency showed significantly higher levels of bone loss around implants as compared to those with normal vitamin D levels. Moreover, the thickness of the gingival tissue over the implant site had a significant effect on the preservation of the alveolar bone around the implant platform, regardless of the vitamin D3 status. Monitoring the concentration of 25-hydroxycholecalciferol (25(OH)D), along with the radiological assessment of the gingival tissue thickness, may be a simple and reliable method to achieve predictable outcomes in dental implantology.
