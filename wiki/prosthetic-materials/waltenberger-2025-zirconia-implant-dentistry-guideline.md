@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, guideline, all-ceramic, implant, lithium-disilicate, DGI, DGZMK, S3, monolithic, translucent-zirconia]
 ---
 
+## One-line Summary
+German DGI/DGZMK S3 clinical guideline on implant-supported all-ceramic restorations: for single crowns, lithium disilicate, silicate ceramics, and all zirconia generations are recommended (~96–97% 3-year survival), while only 3Y-TZP has sufficient evidence for short-span FDPs and full-arch; polymer-infiltrated ceramics are not recommended and high-translucency zirconia lacks long-term implant data.
+
 ## 한줄요약
 DGI/DGZMK S3 가이드라인: 단관은 리튬 디실리케이트·모든 세대 지르코니아 권장(3년 생존율 96–97%), 단위 브릿지·전악 수복은 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기, 고투명 지르코니아는 임플란트에서 장기 데이터 부족.
 
