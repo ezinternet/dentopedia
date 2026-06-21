@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, immediate-implant, gbr, bone-regeneration, animal]
 ---
 
+## One-line Summary
+
+In vivo beagle study (6 dogs, buccal dehiscence defect at immediate implant placement) showing CBCP graft soaked in PDRN significantly increased new-bone area and proportion in the buccal augmented zone at 2 and 6 weeks, with no difference in bone-to-implant contact (BIC) or BAFO — PDRN's effect was confined to early new-bone fraction.
+
 ## 한줄요약
 
 Beagle 6마리 즉시식립 + buccal dehiscence defect 모델에서 CBCP+PDRN soaking이 2주·6주 시점 new bone area·proportion을 유의하게 증가시킴. BIC·BAFO는 차이 없음 — PDRN 효과는 new bone fraction에 한정.
