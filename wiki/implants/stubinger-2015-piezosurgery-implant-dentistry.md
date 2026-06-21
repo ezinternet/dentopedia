@@ -13,6 +13,9 @@ source_collection: external
 tags: [piezosurgery, piezoelectric, implant-dentistry, sinus-elevation, ridge-splitting, IAN-lateralization, narrative-review]
 ---
 
+## One-line Summary
+Narrative clinical review (Clin Cosmet Investig Dent 2015) of piezoelectric bone surgery in implant dentistry: outlines its claimed advantages (precise selective cutting of mineralized tissue, soft-tissue/nerve/membrane preservation, improved visibility) across implant site prep, bone grafting, sinus floor elevation, ridge splitting, and IAN lateralization, while noting longer surgical time, learning curve, and cost — its "avoidance of thermal damage" claim is later partly contradicted by Aquilanti 2023 and Jain 2024.
+
 ## 한줄요약
 서술적 고찰(Clin Cosmet Investig Dent 2015): piezo bone surgery 임상 overview — 정밀·선택적 cutting, 연조직 보존, 임플란트 site prep·골이식·sinus floor·ridge split·하치조신경 lateralization 적용; 단 "열손상 회피" 주장은 후속 연구(aquilanti, jain)와 모순.
 
