@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, loading-protocol, Neoss, insertion-torque, early-loading, stability-dip, MBL, 1-year]
 ---
 
+## One-line Summary
+Prospective 1-year study (48 Neoss ProActive Tapered single implants): a simplified protocol loading at 6–8 weeks when insertion torque (IT) >40 Ncm (met by 96%) showed no stability dip, stable ISQ, marginal bone loss of −0.47 mm at 1 year, and 100% survival.
+
 ## 한줄요약
 전향적 연구(48 Neoss ProActive 테이퍼 임플란트): IT>40Ncm 96%에서 달성; 6–8주 조기 부하; ISQ 안정적 유지(dip 없음); MBL −0.47mm; 0 실패
 
