@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, sinus-augmentation, lateral-window, one-stage, two-stage, RCT]
 ---
 
+## One-line Summary
+RCT (Peking University; n=31 patients, 33 sinuses): after antral pseudocyst (AP) removal, lateral sinus floor elevation (LSFE) performed immediately (one-stage) vs delayed 3 months (two-stage) showed no significant difference in new bone proportion (6-month histomorphometry), implant survival (100% both), postoperative pain, or soft-tissue complications — supporting a one-stage approach.
+
 ## 한줄요약
 RCT (n=31, 33 sinuses): 상악동 점액낭종 (Antral Pseudocyst, AP) 제거 후 측방창 상악동 거상술 (Lateral Sinus Floor Elevation, LSFE)을 즉시 vs 3개월 지연 비교 — 신생골·임플란트 생존율·합병증 모두 유의차 없음. One-stage 접근 타당.
 
