@@ -27,6 +27,10 @@ tags: [orthodontics, otm, tooth-movement, pdl, rankl, opg, bone-remodeling, biol
 > - **임상 가속화(corticotomy·MIO·진동·저강도 레이저)**: 동물에서 효과 강하나 인체 RCT 부족 → 미검증.
 > - **확신도**: 축 1·2 분자/PDL = 합의수준(narrative review 중심, RCT 부재); 축 3 동물 형질전환 = 근거강함(인과); 임상 가속화 = 미검증(인체 RCT 부족).
 
+## One-line Summary
+
+Synthesis of 8 orthodontic-tooth-movement (OTM) biology papers: OTM is a sequential periodontal-ligament (PDL) compression-tension → molecular signaling (OPG/RANK/RANKL triad plus sclerostin/DKK1/BMP/TNF-α) → alveolar bone-remodeling process; optimal light/intermittent force avoids hyalinization and root resorption, NSAIDs and bisphosphonates impair movement, and surgical/pharmacologic/vibratory acceleration shows strong animal but limited human-RCT evidence.
+
 ## 한줄요약
 
 교정적 치아이동(Orthodontic Tooth Movement, OTM) 생물학 8편 합성. 압박측 파골세포·인장측 골형성의 고전 모형은 OPG/RANK/RANKL triad + sclerostin·DKK1·BMP·TNF-α 신호로 분자 수준 정리됨. 임상 가속화 개입은 동물 근거 강하나 사람 임상은 제한적.
