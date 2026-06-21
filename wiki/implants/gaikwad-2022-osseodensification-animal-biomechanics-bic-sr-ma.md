@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, animal-study, sr+ma, bic, bafo, insertion-torque, syrcle]
 ---
 
+## One-line Summary
+SR+MA of 9 in-vivo animal studies (dog/sheep/rabbit) comparing osseodensification (OD) vs conventional drilling: OD significantly increases insertion torque (WMD 2.27, 95% CI 1.15–3.39, P<.001), while bone-to-implant contact (BIC) and bone area fraction occupancy (BAFO) at 3/6 weeks favor OD numerically but with P-values mostly exceeding .05 — primary stability gain is well supported, histomorphometric advantage is uncertain.
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 동물 연구 9편 — 골밀도화 (Osseodensification, OD)가 삽입 토크 (Insertion Torque)를 통계적으로 유의하게 (WMD 2.27, 95% CI 1.15–3.39, P < .001) 상승; 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)과 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 3·6주 시점에서 효과 크기는 양의 방향이나 P값이 0.05를 일관되게 넘지 않아 결론은 신중히 해석. 임상 적용 한계: 동물 (dog/sheep/rabbit) 데이터로 인체 치유와 직접 비교 불가하며 P값·신뢰구간 (Confidence Interval, CI) 불일치 부분이 있어 저자 결론보다 보수적으로 읽어야 함.
 
