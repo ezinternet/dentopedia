@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cochrane SR (RCTs only, 3rd edition) comparing surgical techniques for mandibular wisdom tooth removal (flap design, lingual nerve protection, bone removal method, tooth sectioning); outcomes assessed include alveolar osteitis, wound infection, permanent altered sensation (nerve injury), pain, swelling, and trismus, with evidence certainty generally low and most technique differences not definitively established.
+
 ## 한줄요약
 코크란 체계적 문헌고찰: 하악 사랑니 발치 수술기법(피판 디자인, 설신경 보호, 골삭제 방법 등)을 비교한 RCT 종합; 치조염·감염·신경손상·통증·부종·개구제한을 결과지표로 평가.
 
