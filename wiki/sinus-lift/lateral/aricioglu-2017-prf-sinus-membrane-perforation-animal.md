@@ -13,6 +13,9 @@ source_collection: external
 tags: [prf, platelet-rich-fibrin, schneiderian-membrane, perforation, collagen-membrane, rabbit, sinus-lift]
 ---
 
+## One-line Summary
+Preclinical animal study (42 rabbits, 84 sinuses) comparing platelet-rich fibrin (PRF) membrane vs resorbable collagen membrane for repair of standardized 1 cm Schneiderian membrane perforations: at 1, 2, and 4 weeks histological cell counts showed no significant difference between PRF and collagen (both significantly better than untreated controls), establishing autologous PRF as a low-cost alternative for small/medium perforation closure.
+
 ## 한줄요약
 가토 동물실험 (n=42, 84 부비동): 슈나이더 막 (Schneiderian membrane) 천공 시 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF) 막과 콜라겐막 (Collagen Membrane, CM) 조직학적 치유 결과 동등 — PRF가 CM의 대안 가능.
 
