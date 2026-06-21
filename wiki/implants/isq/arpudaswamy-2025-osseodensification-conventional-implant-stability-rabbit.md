@@ -13,6 +13,9 @@ source_collection: external
 tags: [implants, isq, osseodensification, primary-stability, animal, rabbit]
 ---
 
+## One-line Summary
+Split-body animal RCT in low-density (D4) rabbit femoral condyle (8 rabbits, 16 implants): osseodensification (OD) vs conventional drilling significantly raised insertion torque (33.0 vs 31.1 Ncm, p=0.028) and 3-month secondary ISQ (75 vs 67.3, p=0.035) but not placement-day ISQ (~63.6, NS) — the gain was in secondary stability.
+
 ## 한줄요약
 토끼 대퇴골(D4 저밀도) split-body RCT(n=8, 16 implant): OD가 삽입 토크와 3개월 ISQ를 유의하게 높였으나, 식립 시점 ISQ는 차이 없음 — 2차 안정성 이득이 핵심.
 
