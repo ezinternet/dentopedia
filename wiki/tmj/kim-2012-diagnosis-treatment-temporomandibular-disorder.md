@@ -14,6 +14,9 @@ source_collection: external
 tags: [TMD, TMJ, masticatory-muscle-disorder, myofascial-pain, trigger-point, disc-displacement, arthrocentesis, stabilizing-splint, trigger-point-injection, KDA-journal, narrative-review]
 ---
 
+## One-line Summary
+Single-author narrative clinical review (Korean Dental Association Journal, 2012) on TMD diagnosis and treatment: a seven-step bedside exam differentiating masticatory muscle vs intracapsular joint disorders (end-feel, opening-pathway deviation/deflection, loading test, diagnostic anesthesia) and a reversible-first treatment ladder (NSAIDs/physiotherapy/stabilization splint → arthrocentesis/lavage → arthroscopy → open surgery).
+
 ## 한줄요약
 KDA Journal 임상가 특집 (Dong-A 의대 OMFS): 측두하악장애 (TMD) 진단·치료 narrative review — "정상기능 + 자극 > 생리적 내성 → TMD" 공식, 근육·관절장애 감별(end-feel·개구경로 deflection/deviation·하중검사·진단마취), 치료는 가역적 술식 우선(NSAID·물리치료·교합안정장치 → 관절천자세정술 → 관절경 → 개방수술).
 
