@@ -14,6 +14,9 @@ tags: [biofilm-management, professional-oral-hygiene, plaque-control, periodonta
 ---
 
 
+## One-line Summary
+Longitudinal clinical study (2014 doctoral dissertation) showing that recurring professional oral health care demonstrably improves patients' independent plaque control ability (faster removal, reduced inter-visit accumulation), supporting a paradigm shift from passive professional cleaning to active patient-skill training for periodontal/SPT outcomes.
+
 ## 한줄요약
 전문 구강건강관리로 환자 플라크 조절 능력 향상 입증; 수동 청소에서 능동 능력 향상으로 패러다임 전환
 
