@@ -51,7 +51,10 @@ calcium silicate 기반·10-MDP 함유 2-step self-etch(SE) 상아질·법랑질
 - 2-step의 술식 번거로움 대 1-step universal의 편의성 사이 trade-off가 제품 선택의 핵심 쟁점. [claude해석]
 
 ## 관련 항목
-[[10-MDP]] [[Self-etch adhesive]] [[Universal adhesive]] [[Selective enamel etching]] [[Resin-dentin bond durability]] [[TheraCem]]
+
+**연관 페이지:** [[resin/theracem-bisco-product-reference]]
+
+**연관 개념:** 10-MDP · Self-etch adhesive · Universal adhesive · Selective enamel etching · Resin-dentin bond durability
 
 ## 출처 (PubMed)
 - Tang C, et al. J Adhes Dent. 2024. doi:10.3290/j.jad.b4949669
