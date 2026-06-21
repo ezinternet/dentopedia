@@ -13,6 +13,9 @@ source_collection: external
 tags: [mronj, denosumab, breast-cancer, bone-metastasis, cumulative-dose, tooth-extraction, roc-threshold]
 ---
 
+## One-line Summary
+Retrospective cohort (n=324 breast cancer patients with bone metastases on denosumab 120 mg q4w): MRONJ developed in 31.2%, with ROC analysis identifying ≥32 cumulative doses as the optimal risk threshold (AUC 0.83); multivariate analysis confirmed cumulative dose (OR 1.047/dose, ~4.7% increased odds per dose) and tooth extraction history (OR 4.40) as the only independent predictors.
+
 ## 한줄요약
 유방암 골전이 환자 denosumab 120mg 324명 후향 코호트: MRONJ 31.2%, ROC 분석으로 누적 32회 투여 임계치 확인(AUC 0.83), 발치력 OR 4.40, 매 1회 추가 투여 시 MRONJ 오즈 4.7% 증가.
 
