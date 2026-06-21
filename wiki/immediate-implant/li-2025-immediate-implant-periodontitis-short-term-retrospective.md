@@ -14,6 +14,9 @@ source_collection: external
 tags: [immediate-implant, periodontitis, 2018-AAP-EFP-classification, Stage-Grade, Bio-Oss, Bio-Gide, retrospective, China, Jinan-Univ]
 ---
 
+## One-line Summary
+Retrospective study (n=95 patients / 234 implants, 12-month follow-up) of immediate implant placement in periodontitis patients without prior systematic periodontal treatment (2018 AAP/EFP classification, Bio-Oss/Bio-Gide augmentation): overall 1-year survival 97.86%, with significantly lower survival in Stage IV and Grade C cases.
+
 ## 한줄요약
 Jinan Univ 후향 연구 (FCIMB 2025, n=95/234 implants, 평균 58.6세, 2018 AAP/EFP 분류 사용): 치주염 환자 systematic 치주 치료 없이 즉시 식립 + Bio-Oss/Bio-Gide — 1년 생존율 97.86%; Stage IV·Grade C에서 유의하게 낮은 생존 (Kaplan-Meier).
 
