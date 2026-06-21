@@ -1,0 +1,71 @@
+Source: PubMed Central PMC10819660 — DOI 10.3390/nu16020209
+
+Title: Impact of Vitamin D on Osseointegration in Dental Implants: A Systematic Review of Human Studies
+Authors: Buzatu BLR, Buzatu R, Luca MM
+Journal: Nutrients, 2024 (2024-01-09)
+PMID: 38257102 | PMCID: PMC10819660 | DOI: 10.3390/nu16020209
+
+ABSTRACT
+
+This systematic review evaluates the impact of Vitamin D levels on dental implant osseointegration, hypothesizing that optimal Vitamin D enhances success rates, and aims to synthesize data on its relationship with clinical outcomes in implantology. A comprehensive search across PubMed, Cochrane Library, and Web of Science databases included seven peer-reviewed articles meeting the criteria for the review. These studies, conducted between 2008 and 2021, included human subjects and explicitly correlated serum Vitamin D levels with dental implant outcomes, following PRISMA guidelines. The selected studies involved 1462 participants and examined 4450 dental implants. Key findings included a varied implant loss rate ranging from 3.9% to 11.4% across the studies. One study reported a 9.8% implant loss rate, yet found no significant association between Vitamin D receptor polymorphism and implant success. Another study indicated successful implantation following Vitamin D3 supplementation, even in severe deficiency cases. The highest implant loss rate (11.1%) was observed in severely Vitamin D-deficient patients, particularly when compounded by risk factors such as smoking and periodontal disease. Additionally, one study noted significantly improved bone density following post-surgical Vitamin D supplementation for up to 12 weeks. The review supports a link between sufficient Vitamin D levels and successful dental implant osseointegration, suggesting Vitamin D deficiency as a potential risk factor for increased failure and advocating for Vitamin D evaluations in pre-surgical planning to potentially enhance implantology outcomes.
+
+FULL TEXT
+
+1. Introduction
+
+Dental implants have become a cornerstone in the field of restorative dentistry, offering a durable and aesthetically pleasing solution for tooth replacement. Globally, the demand for dental implants is on the rise, with a market valued at approximately USD 10 billion in 2018 and projected to reach more than USD 13 billion by the end of 2023, growing at a compound annual growth rate of 6% from 2021 to 2026. This surge is attributed to an increasing prevalence of dental diseases, a rising geriatric population, and growing awareness about oral hygiene, with a 14% increase among elderly individuals. Despite the high success rate of dental implants, reported to be around 95%, failures due to lack of osseointegration remain a significant challenge. Osseointegration, the direct structural and functional connection between living bone and the surface of a load-bearing artificial implant, is critical for the long-term success of dental implants.
+
+Recent research has indicated that systemic health factors, particularly nutritional status, can significantly influence the process of osseointegration. Among various nutrients, Vitamin D, a fat-soluble vitamin essential for bone health, is particularly noteworthy in the context of bone healing and dental implant success. Its role in regulating calcium and phosphate metabolism makes it a key player in bone remodeling and repair, since it promotes the differentiation and activity of osteoblasts (cells responsible for bone formation) and modulates osteoclasts (which resorb bone tissue). Adequate levels of Vitamin D are not only essential for maintaining bone density but also for enhancing the healing process in bone tissues affected by dental implant procedures. Research indicates that optimal Vitamin D levels can accelerate bone healing by improving the quality and quantity of bone formation around the implant, thereby promoting better and faster osseointegration.
+
+Epidemiological data suggest that Vitamin D deficiency is widespread, affecting about 1 billion people worldwide. This deficiency is especially prevalent in older adults, a group that also forms a significant portion of the dental implant recipient population. The relationship between Vitamin D and osseointegration in dental implants, however, is not fully understood. While some studies suggest adequate Vitamin D levels can enhance bone healing and implant integration, others show no significant correlation.
+
+Hypotheses: (1) adequate Vitamin D levels positively influence the osseointegration of dental implants; (2) Vitamin D supplementation in deficient individuals can improve the success rate of dental implants. Objective: systematic review of the literature to investigate the impact of Vitamin D on osseointegration of dental implants in humans, identifying rate of osseointegration, implant success rate, bone density around the implant, and reported complications in the context of Vitamin D levels.
+
+2. Materials and Methods
+
+2.1. Protocol and Registration
+Search across PubMed, Cochrane Library, and Web of Science, literature scope up to December 2023. Keywords included "Vitamin D", "Osseointegration", "Dental Implants", "Bone Healing", "Implant Success", "Implant Failure", "Vitamin D Receptors in Bone", "Bone Metabolism and Implants", "Oral Rehabilitation", "Nutritional Status and Dental Surgery", "Vitamin D Deficiency", and "Implant Osseointegration in Humans". Adheres to PRISMA guidelines; registered with PROSPERO and on the Open Science Framework (osf.io/dx5sm).
+
+2.2. Eligibility Criteria
+Inclusion: (1) studies specifically investigating the impact of Vitamin D on osseointegration in dental implants in human subjects; (2) measurement of serum Vitamin D levels correlated with implant success rate; (3) clear and detailed methodology for Vitamin D measurement and osseointegration assessment; (4) peer-reviewed articles published in English.
+Exclusion: (1) non-human studies (in vitro or animal); (2) lack of specific focus on the Vitamin D–osseointegration relationship; (3) insufficient data on Vitamin D and osseointegration outcomes; (4) non-peer-reviewed sources (preprints, conference proceedings, general reviews, commentaries, editorials).
+
+2.3. Data Collection Process
+Initial database search yielded 677 articles. Of 195 screened, 106 were duplicates and removed. After abstract screening and full-text review (two authors, third resolving disagreements), a total of seven articles met the criteria. Data extraction (R.B. and B.A.B.) covered study design, participant demographics, implant type, osseointegration features, vitamin D assessment, and outcomes.
+
+2.4. Quality Assessment
+Newcastle–Ottawa Scale for cohort studies and Cochrane Collaboration's tool for randomized trials. Two independent researchers; scores rated low, medium, or high.
+
+3. Results
+
+3.1. Study Characteristics
+Seven studies, conducted in Brazil, the USA, the United Kingdom, Germany, Italy, and Poland. Research spanned 2008 to 2021. Earliest: Alvim-Pereira et al. (Brazil, 2008); most recent: Kwiatek et al. (Poland, 2021). Designs: two case–control, three case reports, one case series, one retrospective cohort, and one randomized trial. Quality of evidence: two studies (Brazil) and one (Italy) rated medium; three (USA, UK, Germany) rated low; the Poland study (the sole randomized trial) was the only one rated high quality.
+
+3.2. Participants' Characteristics
+Total participants: 1462. Largest study: Mangano et al. (885 individuals). Case studies: Flanagan et al. (1), Bryce et al. (1), Fretwurst et al. (2). Alvim-Pereira et al. compared 137 individuals with implants to 70 without. Pereira et al. studied 81 individuals with a Vitamin D receptor mutation vs 163 controls. Kwiatek et al. categorized 122 participants into three groups by Vitamin D levels and supplementation. Average age ranged from 29 years (Bryce et al.) to 57.3 years (Mangano et al.). Studies predominantly featured male participants.
+
+3.3. Implant Assessment
+Total implants: 4450. Alvim-Pereira et al. accounted for 1367 implants (1232 healthy, 135 lost). Mangano et al.: 1740 implants. Pereira et al.: 1193 implants. Bryce et al.: 1; Flanagan et al.: 18. In Alvim-Pereira et al., 50.9% of healthy implants in the maxilla and 55.4% in posterior region vs 37.5% and 64.7% for lost implants. Kwiatek et al. reported mandible locations: premolars 25.8%, molars 74.2%. Implant size varied (e.g., Alvim-Pereira healthy: avg diameter 3.99 mm, length 13.16 mm; lost: diameter 4.03 mm, length 12.35 mm). Follow-up ranged from 4 months (Mangano et al.) to estimated survival of 250 weeks (Pereira et al.). Alvim-Pereira: avg 43 weeks; Flanagan: 7 weeks; Kwiatek: 6–12 weeks.
+
+3.4. Outcomes
+- Alvim-Pereira et al.: 9.8% implant loss rate; no significant association between Vitamin D TaqI receptor polymorphism and implant loss.
+- Flanagan et al.: successful implantation after extraction in a patient undergoing Vitamin D3 supplementation and other treatments; low serum Vitamin D may not pose significant risk if calcium levels are adequately managed.
+- Bryce et al.: successful implantation in the context of severe Vitamin D deficiency; low Vitamin D contributes to challenges but is not an insurmountable barrier.
+- Fretwurst et al.: failure in two of nine implants in the context of Vitamin D deficiency, with successful replacement after Vitamin D supplementation.
+- Mangano et al.: 3.9% overall implant loss rate, increasing to 11.1% among patients with severe Vitamin D deficiency; ~four times higher prevalence of early implant loss with low serum Vitamin D, especially with smoking and periodontal disease.
+- Pereira et al.: 11.4% implant loss rate in the context of Vitamin D deficiency due to receptor mutation; Vitamin D allele G of rs3782905 significantly associated with poor osseointegration.
+- Kwiatek et al.: no specific implant loss rates reported, but significantly higher bone density in patients with Vitamin D supplementation after 12 weeks.
+Overall average implant loss rate across all studies: 8.37%.
+
+4. Discussion
+
+4.1. Summary of Evidence
+Diverse study designs and participant demographics highlight global research interest. Alvim-Pereira et al. (9.8% loss, no association with TaqI polymorphism) suggests Vitamin D's impact may not be directly tied to genetic VDR variations. Flanagan et al. and Fretwurst et al. show that managing Vitamin D levels can positively influence implant success. Mangano et al. is particularly noteworthy: a four-fold increase in early implant loss with low serum Vitamin D, compounded by smoking and periodontal disease — smoking alone can increase implant failure rate by more than 140%. Pereira et al. suggests a genetic predisposition (specific Vitamin D allele) influencing patient-specific strategies. Kwiatek et al. (high-quality RCT) noted a significant increase in bone density following Vitamin D supplementation. Anatomical particularities: one study showed higher osseointegration in anterior maxilla (~90%) vs posterior maxilla (~70%).
+
+Supplementation regimens were poorly standardized. Kwiatek et al. monitored Vitamin D from 23.9 ng/mL on the day of surgery to 33.1 ng/mL after 12 weeks. Flanagan et al. used Vitamin D3 supplements with other treatments. Fretwurst et al. did not give exact regimen but noted one patient's vitamin D rose to 46 μg/L; time between supplementation and successful implant surgery was 6 months for one patient. In vitro and animal studies are more common and show more diverse outcomes; many animal studies showed systemic Vitamin D supplementation enhanced new bone formation around implants, but not universally. Patients sufficient or insufficient in Vitamin D derive less benefit from supplementation than those deficient; high-dose supplementation may reduce bone mineral density in healthy subjects. In diabetic animal models, Vitamin D supplementation alone showed no significant difference in BIC and new bone formation, but combined insulin + Vitamin D increased bone area and osseointegration.
+
+4.2. Limitations
+Notable heterogeneity (study designs, Vitamin D assessment methods, osseointegration evaluation). Potential publication bias given the small number of included studies. Possible language bias (English-only, peer-reviewed). Variation in data reporting. Scope limited to human studies. Observational nature of most studies limits causal inference. Future research should focus on prospective and intervention studies.
+
+5. Conclusions
+This systematic review reveals no significant association between Vitamin D levels and the osseointegration of dental implants, highlighting notable heterogeneity among included studies. This contrasts with the more consistent findings in animal research. Current evidence suggests that while Vitamin D status may have a role in bone health, and its association with several risk factors can impact osseointegration and cause implant failure, its direct influence on dental implant osseointegration remains inconclusive. Further research with more uniform methodologies is needed.
