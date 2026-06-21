@@ -14,6 +14,9 @@ source_collection: external
 tags: [infective-endocarditis, IE-prophylaxis, AHA, antibiotic-prophylaxis, amoxicillin, viridans-streptococcus, cardiac-risk]
 ---
 
+## One-line Summary
+2021 AHA Scientific Statement reaffirming the 2007 infective endocarditis (IE) prophylaxis guidelines unchanged: antibiotic prophylaxis recommended only for 4 highest-risk cardiac conditions (prosthetic valve, prior IE, certain congenital heart disease, cardiac transplant with valvulopathy); 14 years of data show no increase in viridans group streptococcal (VGS) IE frequency or mortality, with amoxicillin 2g as universal first choice.
+
 ## 한줄요약
 2021 AHA 과학성명: 2007년 IE 예방 가이드라인 변경 없이 유지; 4개 최고위험 심장 상태에만 예방적 항생제 권고; 2007년 이후 VGS-IE 빈도·사망률 증가 없음이 확인됨
 
