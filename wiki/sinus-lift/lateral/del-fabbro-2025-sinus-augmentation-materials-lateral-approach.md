@@ -14,6 +14,9 @@ source_collection: external
 tags: [sinus-lift, graft-material, dbbm, implant-survival, lateral-approach, systematic-review, rct]
 ---
 
+## One-line Summary
+Systematic review (49 RCTs, 1,722 maxillary sinus floor augmentations via lateral approach) finding implant survival of 84.6–100% with no significant difference among graft materials — DBBM (xenograft), autogenous bone ± DBBM, and synthetic HA/β-TCP perform equivalently for short-term survival, so graft choice should rest on biological risk, source, and cost; long-term bone-stability data remain insufficient.
+
 ## 한줄요약
 SR (49 RCTs, 1,722 MSFA): DBBM·자가골·합성 HA/β-TCP 단기 생존 동등(84.6–100%); 장기 안정성 데이터 부족
 
