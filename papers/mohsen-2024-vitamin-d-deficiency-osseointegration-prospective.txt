@@ -1,0 +1,101 @@
+Source: PubMed Central PMC11340851 — DOI 10.4103/ams.ams_165_23
+
+Title: Is Vitamin D Deficiency a Risk Factor for Osseointegration of Dental Implants - A Prospective Study
+Authors: Mohsen KA, AbdEl-Raouf MN, Makram K, ElKassaby M, Khairy M, AbdelAziz M, El-Messiry H, Gaber R
+Journal: Annals of Maxillofacial Surgery, 2024
+PMID: 39184430 ; PMCID: PMC11340851 ; DOI: 10.4103/ams.ams_165_23
+
+== ABSTRACT ==
+
+Introduction:
+Early dental implant failure (EDIF) can occur even when optimal materials are used, surgical protocols are strictly followed and the quantity and quality of bone at the recipient site are sufficient. The existence of specific patient-related risk factors require an investigation into the regulatory mechanisms controlling bone metabolism, bone remodelling and bone turnover as well as serum Vitamin D. The implant stability quotient is used as a prognostic indicator for possible implant failure. The aim of the study is to investigate the relationship between serum Vitamin D levels and EDIF.
+
+Materials and Methods:
+A total of 143 implant placement sites were identified in 53 patients enrolled in this study. All patients had the assessments of serum Vitamin D levels side by side with assessments of primary and secondary implant stability at proposed implant sites at the time of implant placement and after 12 weeks using a resonance frequency analysis device.
+
+Results:
+Ten early failures (7%) were recorded. There was no correlation between gender, age, smoking, hyperglycaemia or an increased incidence of early failures. Statistical analysis reported two early failures (4.5%) in patients with serum levels of Vitamin D >30 ng/mL, two early failures (2.3%) in patients with levels between 10 and 30 ng/mL and six early failures (46.2%) in patients with levels <10 ng/mL.
+
+Discussion:
+The role of Vitamin D as a risk factor for early implant failure should be considered in patients with Vitamin D deficiency. The incidence of early implant failures was higher in patients with low serum levels of Vitamin D. Patients with low serum Vitamin D levels had a greater rate of early implant failure.
+
+== FULL TEXT ==
+
+Introduction
+
+Dental implants are a common treatment option for those who have lost teeth because they offer both a cosmetic and functional solution. However, not all implants are expected to be successful, and unfavourable outcomes requiring implant removal are unavoidable in everyday practice due to the presence of multiple contributing factors. Recently, research found that Vitamin D deficiency (VDD) increased the risk of early implant failure by 300%.
+
+Vitamin D is a fat-soluble steroid hormone that can be obtained from two sources: sunlight and food supplementation. By activating osteoclasts and osteoblasts, Vitamin D regulates mineral (calcium and phosphate) homeostasis, bone metabolism and bone mineralisation. By combining bone resorption with osteoblast bone matrix formation, it forms and maximises bone remodelling. Because it enhances calcium absorption in the intestine, it reduces parathyroid hormone (PTH) release and systemic bone resorption while possibly inhibiting osteoclastogenesis.
+
+The mechanisms through which VDD affects the mineralisation of teeth and bones have been covered in detail elsewhere. The biological explanation is that hypophosphataemia, hypocalcaemia and secondary hyperparathyroidism (resulting from hypocalcaemia) are all induced by severe VDD (<10 ng/mL). This hyperparathyroidism promotes bone turnover. Finally, mineralisation defects arise from the loss of Vitamin D signalling pathways in tooth cells with low Ca2+ and Pi ion concentrations. The purpose of this research is to look into the relationship between serum Vitamin D levels and early dental implant failure (EDIF).
+
+Materials and Methods
+
+A prospective observational, cross-sectional study was designed. Carried out in accordance with the Helsinki Declaration and STROBE recommendations. Power analysis estimated sample size: at least 132 implants required to achieve power of 80% (alpha two-tailed 0.05), allowing for 10% dropouts. This research involved 53 adult patients with a total of 143 implant implantation sites between September 2020 and April 2023. Ethical Committee Clearance number OMS863/2020.
+
+Inclusion criteria: patients aged over 18 with at least three months following tooth extraction and appropriate oral hygiene. Excluded: patients requiring/having pre-surgical augmentation for the alveolar ridge, sinus lift or immediate implant placement; history of intravenous and/or oral bisphosphonate use, head-and-neck irradiation, infection, pregnancy, immunocompromised and uncontrolled diabetes.
+
+CBCT was performed using identical exposure parameters for implant simulation. Bone density in grey scale (GS) values at 1 mm (outside) around the virtual implant site measured using the verification tab in the PLANMECA programme. Every patient had Vitamin D level measured using an enzyme immunoassay (EIA) test right before implant insertion. Results sorted by mean serum Vitamin D level into three categories: sufficient (>30 ng/mL), insufficient (10–30 ng/mL) and deficient (<10 ng/mL).
+
+Surgical phase: (A) biopsy for histological assessment before implant insertion using a hollow trephine bur (1.7 mm diameter), stained with Masson trichrome (MT) stain for histomorphometric analysis of percentage of immature collagen to mature collagen (IM/M). (B) Only patients receiving the same implant system following manufacturer's insertion protocol included. The implant stability quotient (ISQ) value was calculated with an Osstell radiofrequency device by screwing a transducer peg into the implant. A periapical radiograph taken as baseline to assess marginal bone loss (MBL). At 12-week follow-up all patients assessed clinically, radiographically and with the radiofrequency device.
+
+Early implant failures determined until 12 weeks postoperatively by presence of at least one of: (A) lack of osseointegration and consequent implant movement in absence of clinical infection; (B) infection of bone tissue surrounding the implant (fistula, pain, oedema, pus and/or exudate); (C) bleeding pocket depth more than 6 mm; (D) MBL >2.5 mm.
+
+Statistical analysis: SPSS version 22.0. Independent sample t-test to compare two means. One-way ANOVA across three groups. Chi-square and Fisher's exact test to calculate influence of cofactors on incidence of early implant failure.
+
+Results
+
+Mean age 40.6; 36 (67.9%) females and 17 (32.1%) males. Females had lower mean serum Vitamin D levels than men, no statistically significant difference. Six smokers (<10 cigarettes) with 25 implants; 10 diabetic patients with 46 implants with HBA1c <6.5.
+
+Demographic variables (Table 2):
+- Smoker patients 6 (11.3%) / 25 implants (17.5%)
+- Non-smoker patients 47 (88.7%) / 118 implants (82.5%)
+- Diabetic patients 13 (24.5%) / 46 implants (32.2%)
+- Healthy patients 40 (75.5%) / 97 implants (67.8%)
+- Sufficient Vitamin D: 11 patients (20.8%) / 44 implants (30.8%)
+- Insufficient Vitamin D: 36 patients (67.9%) / 86 implants (60.1%)
+- Deficient Vitamin D: 6 patients (11.3%) / 13 implants (9.1%)
+- Implant site: posterior maxilla 52 (36.36%), anterior maxilla 23 (16.08%), posterior mandible 56 (39.16%), anterior mandible 12 (8.39%)
+
+Pre-operative bone density GS values differed significantly between serum Vitamin D groups (p=0.003). Mean bone density in sufficient and insufficient groups significantly greater than deficient group.
+
+Table 3 — Bone density, implant stability and IM/M by Vitamin D level:
+- Bone density: Sufficient 660.3 (SD 294.1), Insufficient 643.22 (282.02), Deficient 370.66 (204.16); p=0.003
+- ISQ (T1, placement): Sufficient 77.52 (3.05), Insufficient 75.33 (2.71), Deficient 71.54 (8.69); p=0.000003 (significant difference in T1 between sufficient and insufficient groups)
+- ISQ (T2, 12 weeks): Sufficient 78.02 (2.59), Insufficient 76.09 (2.52), Deficient 73.50 (4.62); p=0.000002 (significant difference in T2 between both insufficient and deficient groups vs sufficient group)
+- IM/M in mandibular biopsies: Sufficient 0.68% (0.42), Insufficient 6.39% (0.75), Deficient 30.1% (7.83); p<0.001
+- IM/M in maxillary biopsies: Sufficient 2.36% (0.47), Insufficient 17.92% (5.9), Deficient 48.7% (3.5); p<0.001
+
+Histomorphometric study: statistically significant difference in proportion of immature collagen per mature collagen (IM/M) in relation to Vitamin D level groups (ANOVA, p<0.001 for both mandible and maxilla). ISQ T1 and T2 differed significantly across Vitamin D groups.
+
+Early failure in relation to Vitamin D level and other variables (Table 4):
+From a total of 143 implants, the frequency of early failure was 10 (6.9%). Chi-square analysis revealed a statistically significant difference (p=0.0007) in frequency of early implant failure across Vitamin D level groups. Differences between the deficient group (6/13 = 46.2%) and both the insufficient group (2/86 = 2.3%) and the sufficient group (2/44 = 4.5%) were statistically significant (p<0.001 and p<0.001). Difference between sufficient and insufficient groups statistically insignificant.
+
+No differences in early implant failure rates between males and females, nor between age and other comorbidities (smoking, diabetes mellitus history):
+- Age <40: 61 implants, 4 failures (6.6%); 40–60: 66 implants, 5 (7.6%); >60: 16 implants, 1 (6.3%); p=0.968
+- Gender: Male 56 implants, 4 (7.1%); Female 87 implants, 6 (6.9%); p=0.955
+- Serum Vitamin D: Sufficient 44 implants, 2 (4.5%); Insufficient 86 implants, 2 (2.3%); Deficient 13 implants, 6 (46.2%); p=0.0007
+- Smoking: Smoker 25 implants, 0 (0%); Non-smoker 118 implants, 10 (8.5%); p=0.131
+- Diabetes mellitus: Diabetic 46 implants, 6 (13%); Non-diabetic 97 implants, 4 (4.1%); p=0.051
+
+(Note: abstract gives "2 early failures (4.5%) in patients with Vitamin D >30 ng/mL"; Table 4 lists sufficient subgroup as 44 implants with 2 failures = 4.5%. Detailed failure case Table 1 lists 10 failures with serum levels: 25, 35, 11, 6, 31, 9, 8, 7, 4, 8 ng/mL — signs: infection/pain, infection, infection/pain, FO (failure to osseointegrate), MBL/pain, MBL, MBL/pain, MBL, infection/pain, MBL/pain.)
+
+Discussion
+
+EDIF primarily caused by initial phase disruption where fibrous scar tissue grows between surrounding bone and implant surface; occurs 3–4 months after placement before prosthetic abutment connection and functional loading. Inadequate surgical/prosthetic protocols, low bone volume/quality, behaviours (smoking, parafunctions) or systemic disorders may contribute.
+
+At nine weeks following implant placement, one of the early failures was due to loss of integration with full implant loss, in addition to 5 implants with MBL and 4 implants with evidence of infection. No significant link between implant failure and sociodemographic factors or comorbidities for failed implants. Findings consistent with Guido Mangano et al. (no significant correlation between age, gender or smoking and early implant failure).
+
+24.5% diabetic individuals (46 implants); only 13% had EDIF, no significant relationship with diabetes. Early failure rate 6.99%, slightly higher than Kang et al. (1.3%–6.36%), attributed to sample size and different cut-off (up to 16 weeks).
+
+Significant relationship between Vitamin D level and bone density around virtual implant sites. Grey level values in deficient patients substantially lower than sufficient/insufficient. Consistent with CBCT-predicting-osteoporosis findings (Sghaireen and Al Habib; Barngkgei et al.).
+
+Bone histomorphometry: increase in percentage of IM/M in patients with VDD from MT-stained bone samples (mandible and maxilla), consistent with increased osteoid in VDD (Bhan et al.; Priemel et al.; Parfitt on osteomalacia).
+
+Literature variability: Guido Mangano and Mangano et al. (822 and 885 humans) found no significant relationship between implant failure and VDD; however dramatic increase in EDIFs with lowering of Vitamin D reported. Boas and Casado: VDD not a true contraindication. Bryce and MacBeth: failure of osseointegration after 5 months in one patient with extremely low Vitamin D. Fretwurst et al.: Vitamin D treatment improved implant success in VDD individuals with previous failure. Nastri (2020) scoping review: strong correlation between VDD, poor osseointegration and EDIF, necessitating supplementation. Schulze-Späte et al.: no significant difference in bone growth/graft resorption by supplementation, but histological correlation between increasing Vitamin D and bone-resorbing osteoclasts.
+
+Conclusion
+
+Since a large increase in EDIFs has been linked to a decrease in Vitamin D levels, findings confirm the significance of Vitamin D as a risk factor for early implant failure in patients with VDD. Patients with low serum Vitamin D levels had a greater rate of early implant failure. Authors advocate for a better-designed randomised clinical trial.
+
+Conflicts of interest: None. Financial support: Nil.
