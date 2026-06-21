@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, osteotomy, primary-stability, ISQ, insertion-torque, systematic-review]
 ---
 
+## One-line Summary
+Systematic review of osseodensification (OD) vs conventional drilling for implant site preparation: insertion torque is consistently higher with OD, ISQ advantage is present but variable, the greatest benefit is in low-density (D3/D4) bone, survival rates do not differ, and overall evidence quality is low-to-moderate — with OD applications classified into four clinical scenarios (sub-antral augmentation, narrow ridges, low-density bone, immediate placement).
+
 ## 한줄요약
 체계적 고찰(JCM 2023): OD vs 전통 골절제 비교 — OD 1차 안정성(삽입토크) 일관되게 향상; ISQ 이점 가변적; 저밀도 골에서 효과 최대; 전반적 근거 수준 낮음–중등.
 
