@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Case report (2 cases, mandibular second molars) demonstrating the stamp technique — fabricating a flowable composite index of the intact occlusal surface before preparation and imprinting the final composite increment — achieving accurate anatomical reproduction, minimal finishing, and reduced chair time; indicated for Class I caries with preserved occlusal anatomy.
+
 ## 한줄요약
 Stamp technique 2증례: 교합면 해부학이 보존된 깊은 우식 케이스에서 flowable composite으로 인덱스를 미리 떠 두고 최종 적층 시 압인 → 자연스러운 교합면 재현, finishing 시간 단축, chair time 감소. 적응증: Class I + 교합면 보존. 한계: 교합면 결손·중합 수축 응력 집중 우려.
 
