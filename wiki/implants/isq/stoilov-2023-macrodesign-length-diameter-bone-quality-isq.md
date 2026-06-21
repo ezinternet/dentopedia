@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, macro-design, tapered, diameter, length, bone-quality, PU-foam, primary-stability, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (PU foam blocks at 4 densities D1–D4, 3 implant systems across multiple lengths/diameters): diameter > length as the primary stability (ISQ) driver, and tapered (TE) macro-design consistently outperforms parallel-walled implants in all bone density conditions; drilling protocol must be adapted to bone quality.
+
 ## 한줄요약
 In vitro PU foam(4밀도): 직경>길이로 ISQ 결정; 테이퍼 거시디자인이 모든 밀도에서 평행형보다 우세; 골밀도별 드릴링 프로토콜 적응 필수
 
