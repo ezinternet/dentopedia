@@ -13,6 +13,9 @@ source_collection: external
 tags: [provisional-crown, temporary-crown, TOC, finish-line, chamfer, shoulder, CAD-CAM, 3D-printing, thermocycling, saudi-dent-j]
 ---
 
+## One-line Summary
+In-vitro 2×2×2 factorial study (Saudi Dent J 2024; 8 groups × n=10 = 80 aged provisional molar crowns, 5000 thermocycles) of TOC (10° vs 20°) × finish line (chamfer vs shoulder) × manufacturing (CAD/CAM milled vs 3D printed): 3D-printed provisionals retained ~2–3× better than milled (6.6–7.65 vs 2.35–3.52 MPa), with the highest retention from 3D-printed + 20° TOC + chamfer (7.65 MPa).
+
 ## 한줄요약
 in-vitro (Saudi Dent J 2024;36:1477-1482, Saudi 다기관, 8그룹×n=10): 10° vs 20° TOC × chamfer vs shoulder × CAD/CAM milled vs 3D printed 임시 대구치 크라운 유지력 (5000 thermocycle 후) — 3D 프린팅 > 밀링 (6.6-7.65 vs 2.35-3.52 MPa); 최고: 3D 프린팅 + 20° TOC + chamfer (7.65 MPa) 또는 shoulder (장기 유지 우위).
 
