@@ -1,0 +1,22 @@
+Trends in management of myofacial pain.
+
+Pal US, Kumar L, Mehta G, Singh N, Singh G, Singh M, Yadav HK.
+National Journal of Maxillofacial Surgery. 2014;5(2):109-116.
+DOI: 10.4103/0975-5950.154810
+PMID: 25937719  PMCID: PMC4405950
+
+Source basis: PubMed Central full text (JATS).
+
+ABSTRACT
+We systematically reviewed the myofascial pain publications in the literature. The aim of this article is to review the methods of management and their outcome and factors associated with prognosis. The topics of interest in the diagnostic process are myofascial trigger points electromyography, jaw tracking, joint sound recorder, sonography, and vibratography, exclusion of other orofacial pain and temporomandibular disorders. Management modalities are occlusal therapy, physiotherapy, multidimensional rehabilitation antinociceptive therapy, anti-inflammatory and analgesics, muscle relaxants, stretch, and spray technique, transcutaneous electric nerve stimulation, and in severe cases botulinum toxin may be tried. The disease required interdisciplinary interaction in terms of occlusal therapy, antinociceptive therapy and physiotherapy.
+
+KEY FULL-TEXT POINTS
+- Frames myofascial pain (MTrP pain, Travell & Rinzler 1952) within the TMD/masticatory-muscle disorder classification (Bell/Okeson); distinguishes it from myofascial pain dysfunction syndrome (Laskin 1969) and fibromyalgia (localized taut band + referred pain vs generalized).
+- Facial-region trigger points refer pain to maxillary/mandibular teeth, alveolar ridge, tongue, palate, temporal/frontal region, TMJ, ear, pharynx, lateral mandible, occiput; aggravated by stress and cold, associated with bruxism and occlusal trauma.
+- Diagnosis = history + palpation (active vs latent TrP, jump sign, local twitch response) as gold standard; jaw-tracking/sonography/vibratography/sEMG and RDC/TMD (Dworkin & LeResche 1992) are adjuncts with limited reliability/specificity.
+- Stated goals of management: reduce/eliminate pain, restore normal mouth opening, improve quality of life. Two-phase treatment algorithm.
+- Physical therapy modalities reviewed: deep stroking massage, ultrasound (high-power vs conventional debate), TENS (gate-control; high-frequency/high-intensity reduces pain), low-level laser therapy (LLLT), biofeedback (EMG of frontalis/masseter), chiropractic/ischemic compression, and stretch-and-spray technique.
+- Occlusal splint therapy to establish neuromuscular harmony and protect against parafunction.
+- Trigger-point injections (saline, local anesthetic, botulinum toxin A) disrupt the TrP mechanically/chemically; evidence for injection modest; ultrasound-guided injection appears more effective.
+- Pharmacology: muscle relaxants (tizanidine first-line; thiocolchicoside topical), tricyclic antidepressants (amitriptyline, cardio-safe ≤75 mg/day) for sleep + central sensitization.
+- Refractory cases: re-evaluate etiology, psychogenic factors, concomitant TMJ internal derangement; consider botulinum toxin; adjunct yoga/pranayama.
