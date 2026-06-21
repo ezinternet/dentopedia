@@ -13,6 +13,10 @@ source_collection: external
 tags: [reamer-drill, lateral-window, sinus-augmentation, schneiderian-membrane, perforation, lateral-wall-thickness]
 ---
 
+## One-line Summary
+
+Double-center retrospective case series on the reamer-drilling lateral window approach (LWA) for maxillary sinus augmentation: Schneiderian membrane perforation rate was 12.5% (lower than the historical 20–30% with conventional bur/piezo), with lateral wall thickness ≥1.25 mm as the threshold below which perforation risk rises — judged a safe, effective alternative.
+
 ## 한줄요약
 이중센터 후향 케이스시리즈: 리머 드릴 (Reamer Drill) 기반 측방 접근 (Lateral Window Approach, LWA) 슈나이더 막 (Schneiderian membrane) 천공률 12.5% — 측벽 두께 ≥1.25 mm일 때 안전하고 효과적인 대체 술식.
 
