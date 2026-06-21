@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2025-tissue-vs-bone-level-peri-
 pdf_filename: atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: reinforces
+    target: mortazavi-2021-bone-loss-tissue-bone-level-implants
 ---
 
 ## 한줄요약
