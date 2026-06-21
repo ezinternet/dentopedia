@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cochrane systematic review (CD009376.pub2; no meta-analysis due to heterogeneity) of supportive periodontal therapy (SPT) interventions after active treatment, across three comparisons (specialist vs non-specialist, antimicrobial vs mechanical-alone, photonic vs mechanical-alone): very limited, mostly low-quality RCT evidence with high/unclear risk of bias, precluding definitive conclusions for any SPT protocol.
+
 ## 한줄요약
 치주치료 후 유지관리(SPT) 관련 코크란 체계적 문헌고찰로, 전문의 vs 비전문의, 항균제 보조, 광치료 보조 등 비교에서 RCT 증거가 극히 제한적이고 확정적 결론 도출이 어려움을 확인.
 
