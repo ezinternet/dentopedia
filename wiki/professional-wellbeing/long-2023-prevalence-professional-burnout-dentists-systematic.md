@@ -13,6 +13,9 @@ source_collection: external
 tags: [burnout, prevalence, meta-analysis, geography, longitudinal, dentist]
 ---
 
+## One-line Summary
+Independent SR+MA (15 studies, n=6,038 dentists) finding pooled professional-burnout prevalence of 13% (95% CI 6–23%), corroborating Moro 2022; subgroups show Europe > Asia > Americas, longitudinal designs report higher prevalence than cross-sectional (cross-sectional underestimates), and a downward decade-over-decade trend (search ended Oct 2021, pre-full-pandemic).
+
 ## 한줄요약
 독립 SR+MA(15편, n=6,038) — 치과의사 번아웃 전체 유병률 13%로 Moro 2022와 동일. 유럽 > 아시아 > 미주 순, 종단연구 > 단면연구, 그리고 최근 10년이 그 이전 10년보다 낮은 하향 추세.
 
