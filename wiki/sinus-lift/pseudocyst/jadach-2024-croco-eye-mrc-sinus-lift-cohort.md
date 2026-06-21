@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, croco-eye, MRC-excision, immediate-open-sinus-lift, technique]
 ---
 
+## One-line Summary
+Retrospective cohort describing the standardized "Croco Eye" technique for enucleating large mucous retention cysts (MRC, >20 mm) through a lateral window with simultaneous open sinus lift augmentation in one stage; positions transantral enucleation as a surgical option in the large-MRC branch of the treatment decision tree, with safe immediate augmentation reported.
+
 ## 한줄요약
 Retrospective cohort (Wrocław Poland, JCM 2024): 대형 MRC를 측방창 통해 enucleation하는 **"Croco Eye" technique** 표준화 + 동시 open sinus lift. 의사결정 트리의 enucleation 분기에서 술식 anchor.
 
