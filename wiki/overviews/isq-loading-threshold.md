@@ -29,6 +29,10 @@ source_wiki:
 > - 측정 신뢰성: Osstell 급내상관계수 (ICC)=0.97로 단회 측정 충분, Osstell vs Osseo 100 호환 (r>0.95). SmartPeg 한 번 체결·협설 1회 측정이면 충분 (4방향 평균 불필요).
 > - 6대 임상원칙: ① ISQ ≥70 표준 안전선, ② 즉시부하 ISQ ≥70+IT ≥35 Ncm, ③ 6–8주 조기부하 IT >40 Ncm, ④ D4 골 ISQ 58–65 정상, ⑤ 신선 발치와 ITV 우선, ⑥ 상악동 동시식립 OD 시 ISQ ~10 상승. ISQ 절대 단독 사용 금지.
 
+## One-line Summary
+
+Cross-category synthesis (27 ISQ-citing pages) building a confidence-graded matrix for the Implant Stability Quotient (ISQ) loading-decision threshold. Core thesis: the robust threshold is <70 risky / ≥70 safe (Andersson 2019, n=745, 5y CSR 97.3%), with immediate loading requiring ISQ ≥70 + insertion torque (IT) ≥35 Ncm (Wittneben 2023 SR); but ISQ is never a standalone decision metric — it must be read together with bone quality, IT, surface treatment, and timing (ISQ–IT correlation only r=0.44, I²>90%, Tisci 2026 SR+MA), Type IV bone normally runs ISQ 58–65 (do not auto-delay), fresh sockets read artificially low (use ITV), and surface treatment changes the speed of reaching threshold (stability dip) rather than the threshold itself.
+
 ## 한줄요약
 ISQ 부하 결정의 견고한 임계값은 **<70 위험·≥70 안전**(Andersson 2019, n=745, 5년 CSR 97.3%)이고, ITV ≥35 Ncm 동반 시 즉시부하 가능(Wittneben 2023 SR); 단, ISQ는 단독 결정 지표가 아닌 골질·삽입토크·표면처리·시점과 함께 해석해야 함 (ISQ–IT 상관 r=0.44, I²>90%, Tisci 2026 SR+MA).
 
