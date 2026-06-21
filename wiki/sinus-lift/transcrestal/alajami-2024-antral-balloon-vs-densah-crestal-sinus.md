@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, antral-balloon, rct]
 ---
 
+## One-line Summary
+RCT (12-month, posterior maxilla, crestal sinus lift + simultaneous implant): Densah osseodensification (OD) bur gave significantly higher primary stability (p=0.004) and bone density, while the antral membrane balloon achieved greater immediate vertical bone gain that significantly resorbed by 6 months (p<0.0001) — both techniques reached 100% implant success at 12 months.
+
 ## 한줄요약
 경치조골 상악동 거상 RCT(12개월): Densah(OD)가 1차 안정성(p=0.004)·골밀도 우수, antral balloon은 즉시 수직 골높이 이득이 크나 6개월에 유의하게 흡수 — 둘 다 12개월 성공.
 
