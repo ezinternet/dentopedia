@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of lichen planus (LP) as a chronic immune-mediated inflammatory disorder affecting skin, oral mucosa, nails, and scalp, centered on CD8+ cytotoxic T cell damage to basal keratinocytes; topical corticosteroids are first-line and tacrolimus for refractory cases, with oral LP being chronic, relapsing, and not curable.
+
 ## 한줄요약
 편평태선(LP) 전신 임상양상 및 T세포 매개 면역병리기전 고찰 — 피부·구강·모발 침범.
 
