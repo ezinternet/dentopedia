@@ -13,6 +13,9 @@ source_collection: external
 tags: [convergence-angle, TOC, retention, FPD, multi-unit, Ni-Cr, in-vitro, prosthodontics, zinc-phosphate]
 ---
 
+## One-line Summary
+In vitro study (Ni-Cr single crowns and 3/6/9-unit FPDs at 12° vs 20° TOC) of tensile dislodgement: 12° significantly outperformed 20° for canines (101.7→59.7 N) and molars (100.8→81.2 N) but not premolars (NS); retention scaled with FPD unit count, documenting per-tooth-type convergence sensitivity.
+
 ## 한줄요약
 in-vitro (Contemp Clin Dent 2015;6(3):409, Narayana Dental College): 12° vs 20° 총교합수렴각 × 단일/3·6·9유닛 FPD 인장 탈락력 — 견치(101.7→59.7N) 대구치(100.8→81.2N) 12° 우위 유의(p<0.01), 소구치는 NS; 유닛 수 증가에 따라 유지력 비례 증가(20° 그룹 3↔6 유닛은 NS).
 
