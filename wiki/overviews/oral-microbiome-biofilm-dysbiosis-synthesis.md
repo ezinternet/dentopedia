@@ -28,6 +28,10 @@ tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dys
 > - 임상 결정점 3 — 치주염은 '특정 세균 박멸'이 아니라 'dysbiosis 역전'(host modulation·생태 회복), SRP가 1차. 4 — 구강-전신 연관(F. nucleatum–OSCC, P. gingivalis–류마티스/심혈관)은 인과 단정 금물('연관 있음·인과 미확정'으로 구분), Fn 양성 OSCC는 역설적 양호 예후.
 > - 핵심 함의: 합리적 개입점은 항생제 표적이 아니라 매트릭스·종간 신호·식이당 차단. 매트릭스 표적 치료는 대부분 in-vitro/전임상 단계로 임상 전환 미성숙.
 
+## One-line Summary
+
+Synthesis of 15 oral-microbiology reviews (anchored on Socransky 1998 community-complex and Costerton 1999 biofilm paradigms) framing both caries and periodontitis as community dysbiosis across three axes — EPS/matrixome matrix (glucan-driven acidic microenvironment, pH 4.5–5.5), microbial ecology (health=generalist → disease=specialist), and pathogenesis (periodontitis as P. gingivalis keystone-driven polymicrobial synergy & dysbiosis [PSD]; caries as a sucrose-EPS feedforward loop) — implying the rational intervention points are the matrix, inter-species signaling, and dietary sugar rather than antibiotic targeting.
+
 ## 한줄요약
 
 구강 미생물·바이오필름 review 15편 통합 (Socransky 1998 complex paradigm + Costerton 1999 biofilm paradigm 두 historical foundation 포함). 3축 — ①매트릭스(EPS/matrixome): glucan이 caries 바이오필름의 핵심 virulence이며 국소 산성 미세환경(pH 4.5–5.5)을 만든다. ②생태(microbiome): ~1,000종 중 site당 ~50종, 건강=generalist·질환=specialist. ③병인(dysbiosis): 치주염은 keystone pathogen(P. gingivalis, <0.01%)이 주도하는 PSD 모델, caries는 sucrose-EPS feedforward loop — 둘 다 '단일 종 감염'이 아닌 군집 dysbiosis. 임상 함의: 항생제 표적이 아니라 매트릭스·종간 신호·식이당 차단이 합리적 개입점.
