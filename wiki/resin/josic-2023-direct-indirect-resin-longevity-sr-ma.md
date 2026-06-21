@@ -13,6 +13,9 @@ source_collection: external
 tags: [composite, longevity, direct, indirect, posterior]
 ---
 
+## One-line Summary
+Updated systematic review and meta-analysis (23 studies qualitative, 8 meta-analyzed) of direct vs indirect posterior resin composite longevity found no statistically significant difference at short- (RR=1.54), medium- (RR=1.87), or long-term (RR=0.95) follow-up; certainty of evidence rated very low (GRADE).
+
 ## 한줄요약
 구치부 직접 vs 간접 복합레진 23편 SR+MA — 단기·중기·장기 모두 유의한 수명 차이 없음 (근거 수준 매우 낮음).
 
