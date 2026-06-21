@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA quantifying hard and soft tissue changes after immediate implant placement plus immediate loading in the esthetic zone; marginal bone loss at 1 year was -0.30mm (95%CI -0.42 to -0.18) and survival was 95.1–98.9%, with acceptable outcomes contingent on careful patient selection (intact socket walls, Type I/II).
+
 ## 한줄요약
 심미부 즉시식립+즉시부하 연·경조직 변화 SR+MA — MBL 1년 -0.30mm, 생존율 95.1–98.9%.
 
