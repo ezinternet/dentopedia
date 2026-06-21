@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+1-year RCT (n=24): tuberosity autograft vs xenograft for filling buccal defects at immediate implant sites are equally effective (buccal bone resorption 0.61 vs 0.58 mm; 100% survival at 1 year), with autograft avoiding additional donor-site morbidity.
+
 ## 한줄요약
 즉시임플란트 협측 결손부 결절 자가골 vs 이종골 1년 RCT — 두 재료 동등(협측 골 흡수 0.61 vs 0.58mm).
 
