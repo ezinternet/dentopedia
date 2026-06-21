@@ -1,0 +1,19 @@
+Comparison of Dry Needling and Cold-Spray-Stretching Treatments by Ultrasonography and Electrophysiology: Prospective, Randomized Controlled Trial.
+
+Ustun B, Yorulmaz E, Geler-Kulcu D.
+Journal of Ultrasound in Medicine. 2024;43(7):1211-1221.
+DOI: 10.1002/jum.16445
+PMID: 38459670
+
+Source basis: PubMed abstract (full text not retrieved — abstract-only).
+
+ABSTRACT
+Objective: To compare the efficacy of dry needling (DN) and cold-spray-stretching treatments using surface electromyography (sEMG) and ultrasound (US) in the treatment of patients with myofascial pain syndrome (MPS) with active trigger point (ATrP) in the upper trapezius muscle.
+
+Methods: This prospective randomized single-blind study included 60 MPS patients aged 18-65 years who have ATrP in the upper trapezius muscle. Patients were randomized into two treatment groups as DN and cold spray stretching. Both treatment groups received 1 treatment per week and totally 3 sessions. Evaluation parameters were pain level assessed by Numeric Rating Scale and algometer, neck range of motion angles, neck disability index (NDI). The effects of the treatments on ATrP were evaluated by sEMG and US histogram. All parameters were evaluated at the beginning of the treatment and at the end. Algometer and sEMG were performed also before and after the first and third sessions.
+
+Results: There was no significant difference between the two groups regarding demographic data. The mean age of the participants was 39.7 ± 11.6 years. Fifty-one patients were female. Significant improvement in terms of pain level, functionality, sEMG, and US histogram were achieved in both groups (P < .05). When comparing the two groups, algometer scores and the NDI score were statistically higher in the cold-spray-stretching group than in the DN group (P < .008 and P < .028, respectively).
+
+Conclusions: Both treatment options should be preferred. The efficacy of both treatments was observed via sEMG and US histograms.
+
+MeSH/keywords: dry needling; pain threshold; spray and stretch; trigger point; ultrasonography; cryotherapy; muscle stretching exercises; myofascial pain syndromes (upper trapezius).
