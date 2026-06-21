@@ -13,6 +13,9 @@ source_collection: external
 tags: [peri-implantitis, magnesium-membrane, GBR, biodegradable-membrane, case-report, treatment, Zagreb]
 ---
 
+## One-line Summary
+Narrative review plus 3 case reports (MDPI Dentistry 2026;14:112) covering peri-implantitis treatment options and introducing a novel biodegradable magnesium (Mg) membrane for guided bone regeneration (GBR) in peri-implantitis defects; clinical outcomes described as favorable but evidence is case-report level only — no comparative or control data.
+
 ## 한줄요약
 narrative-review(MDPI Dentistry 2026;14:112, Zagreb/Osijek): 임플란트 주위염 치료 총론 + 마그네슘막 GBR 증례보고 3건 — 생분해성 Mg막 신개념 장벽 적용; 예비 임상 단계; 대조연구 없음.
 
