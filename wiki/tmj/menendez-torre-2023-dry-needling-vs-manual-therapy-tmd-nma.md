@@ -81,6 +81,7 @@ League table — significant pairwise MDs [95% CI] (negative favours the better 
 
 - [[tmj/martin-pintado-2014-spray-stretch-postneedling-soreness-rct]] — shares senior co-author Aitor Martín Pintado-Zugasti; the dry-needling side of the same myofascial-TMD literature (post-needling soreness management).
 - [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — reinforces the manual-therapy/physiotherapy efficacy signal that tops this NMA's ranking.
+- [[tmj/calixtre-2015-manual-therapy-tmd-pain-rom-sr]] — earlier SR of manual therapy for TMD (pain/MMO/PPT); this NMA extends it with a head-to-head DN-vs-MT comparative ranking.
 - [[tmj/ustun-2024-dry-needling-cold-spray-stretching-rct]] — RCT comparing dry needling vs cold-spray-and-stretch; this NMA frames the DN-vs-other-conservative-modality question.
 - [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — myogenous-TMD review; this NMA supplies the comparative-effectiveness ranking for its conservative-care section.
 - [[overviews/spray-and-stretch-tmd-myofascial-synthesis]] — synthesis page that this NMA's DN-vs-MT ranking feeds into.
