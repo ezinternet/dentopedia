@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, sinus-augmentation, lateral-window, remove-vs-retain, volumetric, immediate-implant]
 ---
 
+## One-line Summary
+Retrospective cohort (n=26 patients, 38 implants) comparing antral pseudocyst removal (RC, n=13) vs retention (LC, n=13) during lateral-window maxillary sinus floor augmentation with immediate implant placement, tracked by 3D volumetric CBCT from immediate to 2–5 years; both strategies allowed implant placement and survival, supporting immediate implant even when the pseudocyst is retained (interpreted as both options feasible rather than equivalent, given small n and possible selection bias).
+
 ## 한줄요약
 후향 코호트 (n=26, 38 implants, 2016-2021): 점액낭종 제거군 (RC, n=13) vs 잔존군 (LC, n=13) — 측방창 거상술 + 즉시 임플란트. T1~T4 (2-5년) 다시점 3D 부피 추적 — **잔존 시에도 immediate implant 가능** (조건부).
 
