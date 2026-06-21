@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, immediate-provisionalization, anterior-maxilla, esthetic, HA-coated]
 ---
 
+## One-line Summary
+Prospective study (Int J Oral Maxillofac Implants 2003; n=35) of immediate placement + immediate provisionalization of HA-coated implants in maxillary anterior single-tooth sites at 1 year: 100% survival, MBL -0.26 mm, midfacial gingival recession -0.55 mm, 100% patient satisfaction.
+
 ## 한줄요약
 prospective(Int J Oral Maxillofac Implants 2003): n=35 즉시식립+즉시 임시치관, 상악 전치부 1년 — 100% 생존; MBL -0.26mm; 치은연 퇴축 -0.55mm; 환자 만족도 100%.
 
