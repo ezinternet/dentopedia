@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Three-arm RCT comparing jumping-gap fillers (PRF vs xenograft vs alloplastic) at immediate implant placement; no significant difference between groups on buccal bone-change endpoints at follow-up, supporting PRF as a low-cost autologous alternative without donor-site morbidity.
+
 ## 한줄요약
 RCT: 즉시 식립 시 잔여 갭(jumping gap)을 PRF·xenograft·alloplastic 중 무엇으로 채우느냐의 비교 — 모두 임상적으로 수용 가능, PRF는 비용·이차 부위 없는 옵션으로 비열등.
 
