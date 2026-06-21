@@ -13,6 +13,9 @@ source_collection: external
 tags: [burnout, commentary, MBI, JEBDP, emotional-exhaustion]
 ---
 
+## One-line Summary
+JEBDP-commissioned commentary/critical appraisal of Moro et al. 2022 (the dentist burnout SR+MA) — no new data; it endorses the MBI-only inclusion criterion and the EE/DP/PA subscale frame and reinforces emotional exhaustion (EE) ~28% as the dominant signal, providing a published peer-reviewer perspective to cite alongside the primary SR+MA.
+
 ## 한줄요약
 JEBDP가 Moro 2022 SR+MA에 붙인 공식 reviewer 코멘터리 — 새 데이터 없음, 그러나 동지(同誌) 비평을 통해 핵심 finding(EE 28% 압도)에 편집권위적 무게를 더한다. 인용 가치는 reviewer 입장 정리.
 
