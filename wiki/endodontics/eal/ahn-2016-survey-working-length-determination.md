@@ -14,6 +14,9 @@ source_collection: external
 tags: [working-length, EAL, apex-locator, apical-limit, survey, Korean]
 ---
 
+## One-line Summary
+Cross-sectional questionnaire survey of Korean dental-school endodontic faculty (90% response rate): 89% prefer electronic apex locators (EAL) over radiography for working length, 78% favor an apical limit 0.5–1.0 mm short of the radiographic apex, and 74% trust the EAL over the radiograph when they conflict.
+
 ## 한줄요약
 설문조사(치과대학): EAL 89%가 근관장 측정 우선; 방사선적 근단 0.5–1.0mm 단에서 근관장 설정(78%)
 
