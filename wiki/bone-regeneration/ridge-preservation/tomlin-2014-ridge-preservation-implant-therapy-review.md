@@ -14,6 +14,9 @@ source_collection: external
 tags: [ridge-preservation, socket-grafting, bone-graft, barrier-membrane, horizontal-resorption, review]
 ---
 
+## One-line Summary
+Narrative literature review: unassisted post-extraction healing loses ~0.5–0.9 mm vertical and ~4.5–6.1 mm horizontal (~50%) ridge dimension over 12 months, with two-thirds of the loss within 3 months; all validated ridge-preservation techniques outperform blood clot alone, but no single best technique exists.
+
 ## 한줄요약
 리뷰: 자연치유 = 수직 1mm + 수평 4–6mm(50%) 소실, 2/3가 3개월 내; 모든 치조제보존술이 혈전보다 우수; 단일 우수술식 없음
 
