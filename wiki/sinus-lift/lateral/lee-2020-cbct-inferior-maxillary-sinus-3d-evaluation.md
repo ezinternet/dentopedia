@@ -13,6 +13,10 @@ source_collection: external
 tags: [cbct, maxillary-sinus, 3d-visualization, nasal-cavity-floor, anatomy, sex-difference, korean]
 ---
 
+## One-line Summary
+
+Retrospective 3-D CBCT study (n=60 young Korean adults, 30 M / 30 F, 20s): all inferior maxillary sinus dimensions (height, width, volume) measured relative to the nasal cavity floor reference plane were significantly larger in males than females, and bizygomatic breadth (≥127 mm) correlated with larger inferior sinus size.
+
 ## 한줄요약
 한국인 20대 60명 (남30/여30) 원뿔형 빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 3차원 분석: 비강저 (Nasal Cavity Floor, NCF) 기준 상악동 하부 부피·높이·폭 모두 남성이 유의하게 크며, 협골 폭 (Bizygomatic Breadth)과 상관 — 임플란트 수술 전 해부학적 평가 시 성차 고려 필요.
 
