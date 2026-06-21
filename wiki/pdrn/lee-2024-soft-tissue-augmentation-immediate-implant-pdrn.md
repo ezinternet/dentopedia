@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, immediate-implant, soft-tissue, animal, conflicting-result]
 ---
 
+## One-line Summary
+
+Preclinical canine study (4 mongrel dogs, split-mouth) comparing SCTG, VCMX, and VCMX+PDRN versus control for soft-tissue augmentation in immediate implant placement (IIP): PDRN produced no additional soft-tissue volume gain (all groups showed volume decrease on STL), with its only advantage in keratinized-tissue height; wound dehiscence in over half of test sites limited interpretation.
+
 ## 한줄요약
 
 Mongrel dog 4마리 IIP 모델에서 SCTG / VCMX / VCMX+PDRN / control 비교. PDRN은 soft-tissue volume gain에는 효과 없음. KT height에서만 우위. Wound dehiscence가 빈번해 결과 해석 제한.
