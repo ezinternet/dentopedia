@@ -13,6 +13,9 @@ source_collection: external
 tags: [cbct, immediate-implant, maxillary-molar, inter-radicular-septum, sinus-floor, treatment-planning]
 ---
 
+## One-line Summary
+Retrospective CBCT study (427 maxillary molar sites, 223 patients): only 61.7% of first molars and 34% of second molars had an inter-radicular septum (IRS) large enough for a ≥5 mm immediate molar implant (IMI) to be fully contained, and the mean furcation-to-sinus-floor distance (~9-9.7 mm) means concurrent sinus elevation is often needed — mandating pre-extraction CBCT for IMI planning.
+
 ## 한줄요약
 원뿔형 빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향연구 (n=427 부위): 상악 1대구치 61.7%, 2대구치 34%만 직경 ≥5 mm 즉시 대구치 임플란트 (Immediate Molar Implant, IMI) 가능한 치근간 격벽 (Inter-Radicular Septum, IRS) 크기 보유; 평균 함기화후 잔존골 (Furcation-Sinus-Floor distance, FSD) ~9 mm로 다수에서 상악동거상술 필요.
 
