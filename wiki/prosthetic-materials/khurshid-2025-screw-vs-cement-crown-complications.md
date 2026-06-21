@@ -14,6 +14,9 @@ source_collection: external
 tags: [screw-retained, cement-retained, implant-crown, complications, prospective, screw-loosening, marginal-gap, peri-implantitis]
 ---
 
+## One-line Summary
+Prospective 12-month comparison (n=100; 50 screw-retained vs 50 cement-retained single implant crowns): opposing complication profiles — screw-retained have more screw loosening (18% vs 4%), cement-retained have more marginal gap (20% vs 8%) and cement washout (14% vs 2%); peri-implantitis trended higher in cement-retained but was non-significant at 12 months.
+
 ## 한줄요약
 전향적 연구(100명, 12개월): 나사 유지형 풀림 18% > 시멘트형 4%; 변연 간격·시멘트 용해는 시멘트형 더 높음 — 합병증 프로파일이 반대 방향
 
