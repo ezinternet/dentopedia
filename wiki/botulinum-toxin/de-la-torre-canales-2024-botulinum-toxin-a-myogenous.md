@@ -17,6 +17,9 @@ relations:
     target: zhu-2020-btx-painful-tmd-sr-ma
 ---
 
+## One-line Summary
+Umbrella review of 18 high-quality systematic reviews of BoNT-A for myogenous TMD (M-TMD): BoNT-A reduces pain more than placebo but is not superior to standard treatments and gives no MMO benefit, while carrying meaningful adverse events (muscle atrophy/fatty infiltration, reduced bite force, mandibular/condylar bone-volume loss) — recommending BoNT-A as last-line therapy.
+
 ## 한줄요약
 18개 고품질 SR을 모은 umbrella review — BoNT-A는 위약보다는 우월하나 표준치료엔 비우월, 근육·골조직 부작용 위험으로 "마지막 옵션" 권고.
 
