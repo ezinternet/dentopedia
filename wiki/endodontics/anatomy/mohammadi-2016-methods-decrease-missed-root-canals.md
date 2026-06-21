@@ -14,6 +14,9 @@ source_collection: external
 tags: [missed-canal, CBCT, DOM, ultrasonic, access-cavity, transillumination, canal-detection]
 ---
 
+## One-line Summary
+Narrative review synthesizing 5 clinical strategies to reduce missed root canals (a major cause of endodontic failure): pre-op/angled radiographs, CBCT, adequate access cavity design, ultrasonic tips, and dental operating microscope (DOM) magnification — with transillumination as an adjunct; a combined stepwise approach is recommended.
+
 ## 한줄요약
 서술적 리뷰: 놓친 근관 감소를 위한 5가지 전략(술전 CBCT, 접근와동 디자인, 초음파, DOM 확대, 투과조명) 종합 정리
 
