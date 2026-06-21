@@ -13,6 +13,9 @@ source_collection: external
 tags: ['immediate provisionalization', '5-year', 'maxillary esthetic', 'Groningen', 'prospective']
 ---
 
+## One-line Summary
+5-year prospective comparative study (Groningen) of maxillary esthetic-zone single immediate implants with immediate vs delayed provisionalization: small 5-year MBL difference with high survival in both arms, and a slight buccal bone thickness (BBT) / midfacial mucosa preservation advantage for the immediate-provisionalization group.
+
 ## 한줄요약
 5년 prospective 비교 연구 (Groningen): 상악 심미부 단일 즉시식립 + 즉시임시치관 vs 즉시식립 + 지연임시치관 — 5년 MBL, BBT, PES, 환자만족도; 즉시임시치관 군 약간의 BBT 보존 우위.
 
