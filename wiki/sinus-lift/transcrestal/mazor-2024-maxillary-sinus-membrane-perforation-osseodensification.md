@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Multicenter cross-sectional study (6 centers, 621 patients / 670 sites): osseodensification (OD)-mediated transcrestal sinus floor elevation (TSFE) gave a 7.31% Schneiderian membrane perforation rate — at the favorable end of the historical 7–58% range — with residual bone height (RBH) ≤3 mm the dominant independent risk factor; tooth region and socket state (healed/fresh) were not predictive.
+
 ## 한줄요약
 Multicenter cross-sectional (6개 센터, 621명·670 sites): 골밀도화(Osseodensification, OD) 버 기반 경치조골 상악동 거상술(Transcrestal Sinus Floor Elevation, TSFE) — 슈나이더막 천공률 7.31%로 기존 보고치(7–58%) 하단. 잔존 골높이(Residual Bone Height, RBH) ≤3 mm가 천공의 독립 위험인자, 부위(전치/구치)·socket 상태(healed/fresh)는 영향 없음.
 
