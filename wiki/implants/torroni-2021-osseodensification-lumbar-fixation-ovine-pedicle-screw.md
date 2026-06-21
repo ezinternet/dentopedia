@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, pedicle-screw, orthopaedic, lumbar-fusion, animal-study, sheep, pullout-strength]
 ---
 
+## One-line Summary
+Ovine ex-vivo/in-vivo spine study (8 sheep, 64 pedicle screws) extending osseodensification (OD) to orthopedic lumbar fixation: OD pullout strength (387 N at 6wk, 312 N at 12wk) exceeded conventional drilling (292 N, 212 N) by ~32–47%, with OD trending upward and conventional declining over time, while BAFO showed no difference; small sample, exact P-values unreported.
+
 ## 한줄요약
 양 척추 ex-vivo 연구 (n=8 sheep, 64 pedicle screws) — 골밀도화 (Osseodensification, OD)군 pullout 강도가 6주 387 N / 12주 312 N으로 conventional drilling 군 (292/212 N)을 능가하며 시간에 따라 OD는 증가·R은 감소. 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음 — 정확한 P-값 미보고, 표본 크기 작음.
 
