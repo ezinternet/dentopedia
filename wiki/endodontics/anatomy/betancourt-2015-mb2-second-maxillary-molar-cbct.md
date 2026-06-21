@@ -13,6 +13,9 @@ source_collection: external
 tags: [mb2, cbct, second-molar, chilean]
 ---
 
+## One-line Summary
+Cross-sectional in vivo CBCT study (n=225 Chilean maxillary second molars): MB2 prevalence was 48%, with PMB2 located ~2.2 mm palatal and ~0.98 mm mesial to PMB1 and more frequent in males (63%); serves as the methodological precursor to the same group's larger 2016 1,100-molar study.
+
 ## 한줄요약
 Cross-sectional CBCT (n=225 Chilean 2nd maxillary molars): MB2 prevalence 48%; PMB2 located 2.2 mm palatal + 0.98 mm mesial to PMB1; more frequent in males (63%); precursor to the same group's 2016 1,100-molar study.
 
