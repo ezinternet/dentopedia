@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of 32 studies (2015–2020) on oral leukoplakia (OLK) malignant transformation: pooled transformation rate 3.5% (95%CI 2.2–5.1%), with non-homogeneous OLK at OR 4.1 vs homogeneous; excision does not eliminate risk so long-term surveillance is mandatory.
+
 ## 한줄요약
 최근 5년 OLK 악성전환 SR+MA — pooled rate 3.5%, 비균질형 OR 4.1.
 
