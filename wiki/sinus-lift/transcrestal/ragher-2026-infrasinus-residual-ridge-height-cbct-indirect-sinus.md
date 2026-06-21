@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, cbct, residual-bone-height, prospective]
 ---
 
+## One-line Summary
+Prospective observational study (n=50, CAS kit): cone-beam CT (CBCT) systematically underestimated infra-sinus residual ridge height (RBH) by ≈1.86 mm versus intraoperative measurement (4.66 vs 6.50 mm, p<0.001) — cautions against CBCT-only reliance in borderline transcrestal sinus-lift cases and recommends dual-modality verification.
+
 ## 한줄요약
 전향 관찰연구(n=50, CAS kit): CBCT가 잔존 골높이(RBH)를 실측 대비 약 1.86 mm 과소평가(4.66 vs 6.50 mm, p<0.001) — borderline 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
 
