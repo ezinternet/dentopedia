@@ -1366,6 +1366,7 @@ tags: []
 - [[tmj/wang-2024-tmj-ovd-elevation-occlusal-loss-rats]] — 동물 연구 (쥐, 8주): OVD 증가는 교합 상실보다 과두 연골 손상 더 빠르고 심함; 연골하골 회복 지연 (J Oral Rehabil 2024)
 - [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] — SR+NMA (57 RCT): TMD-관절에 NSAIDs/IA corticosteroid·hyaluronate; TMD-근육에 cyclobenzaprine; BMS에 clonazepam·capsaicin — GRADE 근거 낮음 (J Oral Rehabil 2017)
 - [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — SR (15 RCT): 수기치료+운동치료 병용이 TMD 물리치료 중 최선; 모든 physiotherapy 모달리티 효과적 (J Clin Med 2023)
+- [[tmj/koole-2019-spray-stretch-technique-mouth-opening]] — 전향 임상연구 (n=121: 통증 60+대조 61): vapocoolant 분사신장이 최대개구량(MMO) 즉시 증가, 통증군>대조군(P<.001); 통증 없는 stretch 대안 (J Prosthet Dent 2019, 초록 기반)
 - [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] — SR (20연구): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%+ 비수술 관리 가능 (Cureus 2024)
 - [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]] — Narrative review: TMD 생물심리사회적 3영역 모델; OPPERA 성인 36% 유병률; DC/TMD 12진단; 보존적 다학제 치료 표준 (Oral Surg 2020)
 - [[tmj/mauro-2024-tmj-management-whats-new-scoping]] — Scoping review (109 SR): TMD 치료 2024 evidence map — PT·CBT 비침습 최강; PRP·오존 신흥; 수술 최후 (Dent J 2024)
