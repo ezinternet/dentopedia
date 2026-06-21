@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+5-year equivalence RCT (n=60 patients, 128 implants): platform-switching (PS) implants showed 0.23 mm lower marginal bone loss than platform-matching (p=0.025) with 96.6% overall survival, and the two groups were declared non-equivalent — confirming PS superiority for peri-implant bone preservation at 5 years.
+
 ## 한줄요약
 등가성 RCT 5년 추적(n=60명, 128 임플란트): PS 생존율 96.6%; PS MBL 0.23 mm 낮음(p=0.025); 두 군 비동등 선언 — PS가 골보존 면에서 우수
 
