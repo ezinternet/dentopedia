@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Prospective cohort (n=20 patients, 439 restorations, up to 12.4-year follow-up) of minimally invasive glass-ceramic full-mouth rehabilitation: 5-year restoration survival 96.6% and patient-level survival 86.4% (Kaplan-Meier), with technical complications 3% and high patient satisfaction (VAS esthetics 9.5, function 9.3).
+
 ## 한줄요약
 전악 최소침습 유리세라믹 수복 전향적코호트(n=20, 439개 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자); 탈락 및 파절 3%; 환자만족도 심미 9.5/기능 9.3
 
