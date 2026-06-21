@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective study (87,203 lithium disilicate restorations, IPS e.max CAD/CEREC, 5 years) — overall cumulative survival 85.08%; inlay/onlay (99.4%) and veneers (98.6%) performed excellently, while fixed partial dentures (FPDs) were significantly inferior at 52.9% (p<0.00001); mean time to failure 52.4 months.
+
 ## 한줄요약
 후향적연구(n=87,203 수복물, 5년): IPS e.max CAD CEREC 4종 — 전체 생존율 85.08%; 인레이/온레이 99.4%·베니어 98.6% 우수; FPD 52.9%로 유의하게 낮음(p<0.00001)
 
