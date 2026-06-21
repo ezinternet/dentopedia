@@ -13,6 +13,9 @@ source_collection: external
 tags: [bone density, unilateral mastication, CBCT, Hounsfield unit, alveolar bone, orthodontics]
 ---
 
+## One-line Summary
+Cross-sectional CBCT study (n=25 adults with unilateral mastication): alveolar bone density (Hounsfield units) was significantly higher on the chewing side at canine, premolar, and molar regions (p<0.05) but not at incisors, with the mandibular molar region showing the largest asymmetry (~100 HU).
+
 ## 한줄요약
 편측 저작 습관 성인(n=25) 대상 콘빔CT (CBCT) 연구에서 저작측 치조골 골밀도 (Bone Density)가 반대측보다 견치·소구치·대구치 부위에서 유의하게 높음 (p<0.05), 하악 대구치 부위 차이 최대.
 
