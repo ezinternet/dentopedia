@@ -14,6 +14,10 @@ source_collection: external
 tags: [sinus-lift, lateral-window, dsp, digital-planning, systemic-conditions, piezo, complications, state-of-art]
 ---
 
+## One-line Summary
+
+Narrative state-of-the-art review of lateral-window sinus floor elevation with ridge augmentation, covering systemic-condition risk (smoking complicates but is not a contraindication; chronic sinusitis is a contraindication), digital surgical planning (DSP), piezo vs rotary instrumentation, grafting materials, complication and postoperative management.
+
 ## 한줄요약
 내러티브 리뷰: 전신상태(흡연·당뇨·항흡수제)·디지털 가이드·피에조 vs 회전기·수술후 관리 — 측방창 상악동거상 최신 현황
 
