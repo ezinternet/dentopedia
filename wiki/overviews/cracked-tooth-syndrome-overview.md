@@ -26,6 +26,10 @@ source: synthesis
 > - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort 부족.
 > - 환자 설명 framework: "crack은 시간이 지나면 split tooth로 진행 가능 → 교두 덮음이 진행 차단의 핵심 → 신경치료는 case-by-case → 정기 점검 필수" (Ferracane 3년 cohort 기반).
 
+## One-line Summary
+
+Synthesis of 13 papers (8 original + later additions) building a classification, diagnosis, and treatment-decision map for Cracked Tooth Syndrome (CTS), which is not a standalone diagnosis but the incomplete-fracture entry within the 5-type longitudinal-fracture spectrum. Core thesis: diagnosis requires a multi-modal framework (visual, transillumination, bite test, CBCT, QLF — no single tool confirms), and the central clinical tension is whether to perform endodontic treatment — international evidence (Kaur 2026 umbrella, Ferracane 2023 PBRN cohort) favors endo + full cuspal coverage, while Korean JKDA (Kwak 2024) favors avoiding unnecessary endo, a split partly explained by sample population. Clinical takeaway: cuspal coverage is standard across all positions (with newer evidence shifting the design from full crown toward conservative onlay/inlay), the endo decision is case-by-case, and a Kwak-default-with-trigger-escalation (spontaneous pain, periapical pathology, cuspal mobility) framework fits Korean primary care.
+
 ## 한줄요약
 균열치 증후군 (Cracked Tooth Syndrome, CTS) 신규 8편 통합 — (1) longitudinal fracture 5-type 분류, (2) 진단 multi-modal framework (visual·bite test·transillumination·CBCT·QLF), (3) 치료 결정의 핵심 tension — Kaur 2026 umbrella "endo + full cuspal coverage 최고 prognosis" vs Kwak 2024 "unnecessary endo 회피" 보수적 입장. 한국 임상 적용 framework 제시.
 
