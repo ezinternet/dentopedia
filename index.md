@@ -234,6 +234,16 @@ tags: []
 - [[implants/surface/abraham-2014-historical-perspective-dental-implant-surfaces-treatments]] — narrative review(Open Dent J 2014): 임플란트 표면 발달사 — ~2500 BC 이집트 금사 결찰 → Brånemark 티타늄 골유착 → 현대 표면(machined/etched/SLA/HA/fluoride/statin). 정량적 근거 없음, 교육·맥락 자료
 - [[implants/surface/witek-2019-osseodensification-trabecular-tantalum-implants-sheep]] — 동물(양 ilium, 3주, n=3마리/18 임플란트): 표준 vs OD-CW vs OD-CCW × 다공성 트라베큘러 탄탈럼 — OD-CCW가 BAFO 유의↑, BIC 등 다른 지표 NS. 3마리·3주 한계
 
+## 임플란트 — 비타민 D·골유착 (Vitamin D / Osseointegration) (added 2026-06-21)
+- [[implants/vitamin-d/miron-2025-vitamin-d-deficiency-early-implant-failure]] — Miron 2025 · sr · 비타민 D 결핍이 조기 임플란트 실패를 최대 4배 증가시키고, 수술 전 보충이 당뇨 등 고위험군에서도 BIC·골유착을 개선 (43편 = 동물 16 + 사람 27) (DOI 10.1111/prd.70017)
+- [[implants/vitamin-d/tallon-2024-vitamin-d-osseointegration-umbrella-review]] — Tallon 2024 · sr+ma · 우산형 종설(SR 5편 통합, 351건→8 1차연구): 비타민 D는 골유착·임플란트 실패 감소에 긍정적이나 근거 질 제한적(메타분석 없음) (DOI 10.3390/healthcare12181867)
+- [[implants/vitamin-d/werny-2022-vitamin-d-osseointegration-dental-implants-sr]] — Werny 2022 · sr · 18편(동물실험 13+임상 2+증례 3, 타이타늄 임플란트 24~1740개) — 비타민 D 결핍은 BIC·신생골 형성 저하, 보충은 전신질환 동물에서 골융합 향상; 사람 근거는 미약 (DOI 10.1186/s40729-022-00414-6)
+- [[implants/vitamin-d/buzatu-2024-vitamin-d-osseointegration-human-studies-sr]] — Buzatu 2024 · sr · 사람 7편(1462명·임플란트 4450개) SR; 임플란트 소실률 3.9–11.4%, 중증 비타민 D 결핍+흡연·치주염 시 최고 11.1%, 술전 선별검사 권고 (DOI 10.3390/nu16020209)
+- [[implants/vitamin-d/mohsen-2024-vitamin-d-deficiency-osseointegration-prospective]] — Mohsen 2024 · prospective · 임플란트 143부위/53명, 조기 실패 7%이나 혈청 비타민 D <10 ng/mL군 46.2% vs 4.5%(>30)·2.3%(10–30), 결핍군 ISQ·골밀도 낮음 (DOI 10.4103/ams.ams_165_23)
+- [[implants/vitamin-d/ayyad-2025-topical-vitamin-d-immediate-implants-rct]] — Ayyad 2025 · rct · 하악 전치부 즉시 임플란트 24개 RCT, 국소 비타민 D3(칼시트리올) 겔이 6개월 탐침깊이·출혈지수·7일 통증(81.2%↓)·ISQ(80 vs 75)·골밀도(+18.1% vs +6.4%) 유의 개선 (DOI 10.1186/s12903-025-06465-6)
+- [[implants/vitamin-d/francis-2024-low-serum-vitamin-d-early-implant-failure]] — Francis 2024 · prospective · 코호트(임플란트 174개/109명)에서 낮은 혈청 비타민 D와 조기 실패 간 유의 상관 **없음** — 실패군 평균(42.54 ng/mL)이 오히려 성공군(31.92)보다 높았던 음성 결과 (DOI 10.1563/aaid-joi-D-23-00168)
+- [[implants/vitamin-d/dulinska-2025-vitamin-d3-soft-tissue-bone-preservation]] — Dulinska-Litewka 2025 · retrospective · 환자 72명/임플란트 115개, 비타민 D 결핍군 주위 골소실 유의 증가 + 연조직 두께는 비타민 D 상태와 무관하게 변연골 보존에 독립적 영향 (DOI 10.17219/dmp/179004)
+
 ## 골재생 (Bone Regeneration / Ridge Preservation)
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — Dog histology landmark paper: buccal > lingual resorption; Phase 1 bundle bone loss + Phase 2 external surface resorption; immediate implant cannot prevent buccal collapse
 - [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — Review: natural healing = 1mm vertical + 4–6mm horizontal (50%) loss; 2/3 within 3mo; all ridge preservation techniques beat blood clot alone; no single superior technique
