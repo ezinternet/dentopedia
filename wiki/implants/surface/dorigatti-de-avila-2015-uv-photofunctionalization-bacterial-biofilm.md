@@ -13,6 +13,9 @@ source_collection: external
 tags: [uv-photofunctionalization, biofilm, bacteria, peri-implantitis, superhydrophilic, anti-adhesion]
 ---
 
+## One-line Summary
+In vitro study (Biomaterials 2015): UV photofunctionalization (UV-PF) renders machined titanium superhydrophilic and significantly reduces oral polymicrobial bacterial attachment and biofilm formation under saliva/blood conditions via an anti-adhesion (not bactericidal) mechanism — bacterial viability is unchanged, function persists after liquid storage, but microbial communities converge as biofilm matures (delay, not permanent prevention).
+
 ## 한줄요약
 인비트로(Biomaterials 2015): UV 광기능화 (Photofunctionalization) Ti → 초친수성 표면 → 구강 다균종 세균 부착 및 생물막 (Biofilm) 형성 유의 감소; 살균 효과 없음; 액체 보관 후에도 항균 부착 기능 유지.
 
