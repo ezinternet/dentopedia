@@ -1,0 +1,20 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC open access). PMID 35718433]
+
+TITLE: The effect of coenzyme Q10 on periodontitis: A systematic review and meta-analysis of clinical trials.
+AUTHORS: Rasoolzadeh Elaheh Akhavan; Shidfar Farzad; Rasoolzadeh Raheleh Akhavan; Hezaveh Zohreh Sajadi
+JOURNAL: The Journal of Evidence-Based Dental Practice. 2022;22(2):101710.
+DOI: 10.1016/j.jebdp.2022.101710
+PROSPERO: CRD42020212424
+
+ABSTRACT:
+Coenzyme Q10 gel might be beneficial for periodontitis. However, the results have been controversial. We designed a systematic review and meta-analysis to explore the efficacy of coenzyme Q10 in periodontitis patients.
+
+A systematic review of controlled trials was performed from 1980 to August 2020 by 2 separate investigators through Embase, CENTRAL, PubMed/MEDLINE, Scopus, Web of Science, Google Scholar, and ProQuest. Hand search of reference lists was also performed. Of 269 records, eleven trials were included in the meta-analysis using a random-effect model.
+
+Coenzyme Q10 could significantly reduce Plaque Index (SMD -0.64; CI -1.03 to -0.26, P = .002; I² = 85.7%), Bleeding Index (SMD -1.05; CI -1.70 to -0.41, P = .001; I² = 89.5%), Pocket Depth (SMD -0.96; CI -1.35 to -0.58, P < .001, I² = 84.7%), clinical attachment level (SMD -0.73; CI -1.23 to -0.22, P = .005; I² = 87.8%), and gingival index (SMD -0.63; CI -0.97 to -0.28, P = .001; I² = 72.8%) in periodontitis. Subgroup analysis showed that coenzyme Q10 had a stronger reduction effect if administered intra-pocket rather than topical. Studies with high risk of bias reported a greater positive effect of coenzyme Q10 compared to studies with unclear risk.
+
+Conclusion — Our findings encourage administration of coenzyme Q10 gel in periodontitis based on its meaningful effect on Plaque Index, Bleeding Index, gingival index, clinical attachment level and Pocket Depth. Future studies with better qualities are required for a better conclusion.
+
+MeSH: Humans; Periodontitis; Ubiquinone.
+Article types: Meta-Analysis; Systematic Review.
+NOTE: High heterogeneity (I² 72-89%) throughout; pooled local + systemic routes together and pooled gingivitis-leaning indices (Plaque/Bleeding/Gingival index), which is why its pro-gel conclusion conflicts with the route-stratified Fernandez 2025 SR.
