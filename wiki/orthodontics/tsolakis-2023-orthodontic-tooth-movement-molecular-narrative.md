@@ -13,6 +13,9 @@ source_collection: external
 tags: [orthodontic-tooth-movement, otm, rankl, opg, rank, corticotomy, lipus, stem-cell, gene-therapy, biomarker, acceleration]
 ---
 
+## One-line Summary
+Narrative review (Cochrane, PubMed, Scopus through June 2023) of the molecular biology of orthodontic tooth movement (OTM) centered on the OPG/RANK/RANKL triad, surveying surgical (corticotomy/decortication, RAP), pharmacological, physical (LIPUS, vibration), gene therapy, and stem cell interventions to accelerate or control OTM; clinical translation is limited by scarce human studies and high cost/complexity.
+
 ## 한줄요약
 교정적 치아이동(Orthodontic Tooth Movement, OTM) 분자·생물학적 기전 + 바이오엔지니어링 개입 가능성 narrative review (Bioengineering 2023): OPG/RANK/RANKL triad 중심; 외과·약물·진동 개입법; 인체 연구 부족으로 임상 적용 제한적.
 
