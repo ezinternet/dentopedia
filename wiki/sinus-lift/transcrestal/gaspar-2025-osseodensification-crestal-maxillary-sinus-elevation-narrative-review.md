@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, Densah, CSFE, narrative-review]
 ---
 
+## One-line Summary
+Narrative review (lead OD-TSFE researchers): proposes three residual-bone-height (RBH)-stratified osseodensification (OD) transcrestal sinus floor elevation (TSFE) protocols applicable down to RBH ~2 mm, identifies RBH ≤2–3 mm as the dominant Schneiderian membrane perforation risk factor, and reports OD advantages over lateral window/osteotome (higher primary ISQ, lower perforation, better PROMs) — framed as a paradigm shift, with conflict-of-interest caveats.
+
 ## 한줄요약
 경치조골 상악동 거상술(Transcrestal Sinus Floor Elevation, TSFE) + 골밀도화(Osseodensification, OD) 종합 서술리뷰 — 잔존 골높이(Residual Bone Height, RBH) 기반 3가지 프로토콜 제안(≥2 mm까지 적용). RBH ≤2–3 mm가 슈나이더막 천공 위험인자. 측방창 대비 환자보고결과(Patient-Reported Outcome Measures, PROMs) 우수, 합병증률 낮음 — paradigm shift로 평가.
 
