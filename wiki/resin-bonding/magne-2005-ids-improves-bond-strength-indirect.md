@@ -13,6 +13,10 @@ source_collection: external
 tags: [ids, dds, microtensile-bond-strength, optibond-fl, sem, in-vitro, magne]
 ---
 
+## One-line Summary
+
+JPD 2005 in-vitro µTBS study (15 human molars, OptiBond FL 3-step E&R): immediate dentin sealing (IDS) reached 58.25 MPa, statistically equivalent to direct control (55.06 MPa, P>.05) and ~5× higher than delayed dentin sealing (DDS) at 11.58 MPa (P=.0081); SEM showed well-organized 3–5 µm hybrid layers for IDS/control vs marked disruption for DDS.
+
 ## 한줄요약
 
 JPD 94(6), 2005 in-vitro µTBS (15 human molars, OptiBond FL 3-step E&R): IDS 58.25 MPa ≈ direct control 55.06 MPa (P>.05) >> DDS 11.58 MPa (P=.0081). SEM에서 IDS·C는 잘 조직된 hybrid layer 3–5 µm; DDS는 marked disruption.
