@@ -13,6 +13,9 @@ source_collection: external
 tags: [drilling, heat-generation, internal-factors, external-factors, ex-vivo-methods, mini-review]
 ---
 
+## One-line Summary
+Narrative mini-review (In Vivo 2021) categorizing bone-drilling heat generation into internal (drill diameter/shape/material/speed/feed) and external (irrigation, bone density, anatomy) factors, comparing temperature measurement methods (thermocouple, IR thermography, fiber optic), and advocating standardized ex vivo protocols to reduce animal experimentation; cites the 47°C osteonecrosis threshold.
+
 ## 한줄요약
 Mini-review(in vivo 2021): medical drilling 발열을 internal(drill 직경·형상·재질·속도·feed)과 external(irrigation·골밀도·해부) 요인으로 분류; ex vivo 표준 측정법 도입으로 동물실험 감소 제안.
 
