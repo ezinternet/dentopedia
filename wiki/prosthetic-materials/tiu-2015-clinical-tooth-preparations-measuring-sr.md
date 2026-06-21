@@ -13,6 +13,9 @@ source_collection: external
 tags: [systematic-review, TOC, taper, tooth-preparation, measurement-methodology, jpd, otago]
 ---
 
+## One-line Summary
+SR (1006→23 articles, 20 reporting taper of convergence, TOC) documenting that recommended TOC drifted from an unrealistic 2–5° (1960s textbook) to a clinically realistic 10–22° over four decades; in-mouth preparations consistently exceed recommendations and no standardized cross-section measurement protocol exists.
+
 ## 한줄요약
 sr (J Prosthet Dent 2015;113(3):175-184, Otago NZ, 1006→23편): 임상 치관 prep 기하 SR — 권장 TOC가 1960년대 비현실적인 2-5°에서 현재 10-22°로 4-decade 동안 이동; in-mouth prep이 out-of-mouth보다 일관되게 TOC 높음; 표준화된 cross-section 측정 프로토콜 부재.
 
