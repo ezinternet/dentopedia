@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+1-year prospective case series of immediate implant placement + simultaneous GBR in maxillary anterior sites with pre-existing buccal bone dehiscence: 100% short-term survival with acceptable PES/WES and contained radiographic bone change, with recession the main residual esthetic risk.
+
 ## 한줄요약
 1년 전향적 case series: 협측 골열개를 동반한 전치부 즉시식립도 적절한 GBR과 함께 임상·방사선·심미적으로 수용 가능한 결과 — 단, "절대 금기"가 아니라 risk-managed 시술임을 강조.
 
