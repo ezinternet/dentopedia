@@ -36,6 +36,10 @@ tags: [vertical-ridge-augmentation, gbr, titanium-mesh, ptfe, collagen-membrane,
 > - **상악동거상 동시 VRA**는 합병증이 높아 동시 식립보다 **지연 식립** 권고 (Kang 2019, 생존 81.8%). [합의수준]
 > - **갭**: collagen membrane 효용의 인체 head-to-head RCT 부족(SR vs 단일 RCT 충돌), PRI vs 개방치유 인체 RCT 부재, CAD/CAM Ti-mesh 장기(>5y) PBL 데이터 부족.
 
+## One-line Summary
+
+Synthesis of 8 vertical ridge augmentation (VRA) papers along 4 axes — technique-specific long-term peri-implant bone loss (PBL), barrier-material choice, the contested utility of an added collagen membrane, and dehiscence prevention — built on the premise that VRA failure is driven by barrier exposure / soft-tissue dehiscence rather than bone regeneration itself. Long-term PBL ranks simultaneous sinus bone graft (0.66) < GBR (1.06) < onlay (1.31) < inlay (1.72) < osteodistraction (1.81 mm) (Cucchi 2024 SR+MA); customized CAD/CAM titanium mesh is non-inferior to Ti-reinforced d-PTFE on complications (PTFE higher regeneration rate); collagen-membrane benefit is undecided (SR vs RCT conflict); and tension-free closure / pre-augmentation soft-tissue expansion is the key dehiscence-prevention variable.
+
 ## 한줄요약
 
 수직골증대(VRA) 4축 — 술식별 장기 peri-implant bone loss (SBB < GBR < Onlay < Inlay < distraction) · 차폐재 선택 (CAD/CAM Ti-mesh ≈ Ti-PTFE) · collagen membrane 부가 효용 논쟁 · 열개(dehiscence) 예방의 핵심은 연조직 관리. RCT 2 + SR+MA 1 + SR 1 + 동물 2 spine.
