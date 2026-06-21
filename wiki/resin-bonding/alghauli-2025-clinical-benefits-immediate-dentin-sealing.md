@@ -13,6 +13,10 @@ source_collection: external
 tags: [ids, indirect-restoration, clinical-outcome, survival, postoperative-sensitivity, sr-ma]
 ---
 
+## One-line Summary
+
+JPD 2025 SR+MA (11 clinical studies): immediate dentin sealing (IDS) for indirect restorations reduced complications versus non-IDS, with survival 96.4–100% vs 81.8–96.7% and significantly lower postoperative sensitivity (POS) intensity and incidence (P<.05) — though this POS benefit directly conflicts with the Josic 2022 SR+MA no-difference conclusion.
+
 ## 한줄요약
 
 JPD 2025 SR+MA (11 clinical studies): IDS 적용 indirect restoration은 non-IDS 대비 complication ↓, survival 96.4–100% vs 81.8–96.7%, POS intensity·incidence 유의 감소 (P<.05). 단 josic-2022 SR+MA는 POS no-difference 결론 — 직접 충돌.
