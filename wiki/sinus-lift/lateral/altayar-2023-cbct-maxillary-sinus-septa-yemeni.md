@@ -13,6 +13,9 @@ source_collection: external
 tags: [cbct, sinus-septa, sinus-floor-elevation, perforation-risk, anatomy]
 ---
 
+## One-line Summary
+CBCT cross-sectional study (440 Yemeni patients, 880 maxillary sinuses) of sinus septa anatomy before sinus floor elevation (SFE): one of the highest reported prevalences — septa in 63.9% of patients and 47% of sinuses, mean height 5.2 mm, mostly floor-origin (54.5%), middle-located (43%), coronal-oriented (66%), complete (58.2%); no demographic/dental covariate significantly associated, supporting mandatory preoperative CBCT due to elevated Schneiderian membrane perforation risk.
+
 ## 한줄요약
 예멘 인구 440명 880개 상악동의 콘빔CT (Cone-Beam CT, CBCT) 단면 연구. 환자 63.9%, 상악동 47%에서 격벽 (Septa)이 존재하며 평균 높이 5.2 mm, 대부분 바닥에서 기시 (54.5%)·중간부 (43%)·관상방향 (66%)·완전형 (58.2%)으로, 측방 상악동거상술 전 CBCT 평가의 필요성을 뒷받침.
 
