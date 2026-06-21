@@ -14,6 +14,9 @@ source_collection: external
 tags: [screw-retained, cement-retained, implant-crown, systematic-review, biological-complications, mechanical-complications, retrievability]
 ---
 
+## One-line Summary
+Systematic review (12 studies) comparing screw- vs cement-retained implant-supported reconstructions: no significant difference in survival rate, but cement-retained shows more biological complications (peri-implantitis, cement remnants) while screw-retained shows more mechanical complications (screw loosening/fracture) — selection should be driven by complication profile, with screw retention favored for retrievability.
+
 ## 한줄요약
 SR(12편): 나사 vs 시멘트 유지형 생존율 차이 없음; 생물학적 합병증은 시멘트형 ↑, 기계적 합병증은 나사형 ↑ — 합병증 프로파일 기반 선택 필요
 
