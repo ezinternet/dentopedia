@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+5-year RCT (n=50) comparing zirconia-based vs metal-based abutment+crown for premolar implant-supported restorations: survival (96% vs 96%) and marginal bone loss (~-1.1mm) comparable, with zero chipping and zero abutment fractures in the zirconia group.
+
 ## 한줄요약
 소구치 임플란트 단관 지르코니아 기반 vs 금속 기반 5년 RCT — 생존율·MBL 동등, 지르코니아 칩핑 없음.
 
