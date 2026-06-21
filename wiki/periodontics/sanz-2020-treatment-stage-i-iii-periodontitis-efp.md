@@ -16,6 +16,9 @@ relations:
     target: smiley-2015-nonsurgical-periodontitis-srp-guideline
 ---
 
+## One-line Summary
+EFP S3 level clinical practice guideline (based on 15 commissioned systematic reviews + GRADE methodology) for treating stage I–III periodontitis, introducing a stepwise therapy framework aligned with the 2018 classification: Step 1 behavioural change/biofilm control/risk-factor management → Step 2 subgingival instrumentation (SRP) ± adjunctive antibiotics → Step 3 periodontal surgery → Step 4 supportive periodontal therapy (SPT).
+
 ## 한줄요약
 EFP S3 수준 임상 지침(15개 SR 기반): 1기–3기 치주염의 단계적 치료(행동 변화 → SRP ± 보조요법 → 수술 → SPT) 표준 프로토콜.
 
