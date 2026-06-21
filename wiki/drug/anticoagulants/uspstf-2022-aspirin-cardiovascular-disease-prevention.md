@@ -14,6 +14,9 @@ source_collection: external
 tags: [aspirin, cardiovascular-prevention, primary-prevention, USPSTF, guideline, bleeding-risk, antiplatelet, CRC]
 ---
 
+## One-line Summary
+2022 USPSTF recommendation statement narrowing low-dose aspirin for primary cardiovascular disease (CVD) prevention: adults 40–59 y with ≥10% 10-year CVD risk = Grade C (individualize), adults ≥60 y = Grade D (recommend against initiation), reversing the 2016 statement because age-related bleeding harms now outweigh the small CVD benefit; applies only to primary prevention, not established secondary prevention.
+
 ## 한줄요약
 USPSTF 2022 권고 (JAMA): 저용량 aspirin 1차예방 — 40-59세 ≥10% 10년 CVD 위험 성인은 C등급 개별 결정; ≥60세 신규 시작 권고 안 함 (D등급) — 2016년 권고에서 후퇴, 출혈 위험 (GI·뇌출혈) > 이득.
 
