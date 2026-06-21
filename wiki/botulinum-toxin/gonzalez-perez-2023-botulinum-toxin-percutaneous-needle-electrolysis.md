@@ -14,6 +14,9 @@ source_collection: external
 tags: [BTA, PNE, percutaneous-needle-electrolysis, chronic-masticatory-myalgia, head-to-head-RCT, trigger-points, EMG]
 ---
 
+## One-line Summary
+Single-center head-to-head RCT (n=52) in refractory chronic localized masticatory myalgia: both bilateral BTA (100 U) and single-session percutaneous needle electrolysis (PNE, 0.5 mA × 3 s × 3) reduced VAS pain (≈6.5 → ≈2.6) and improved MIO (+4 mm), sustained through 90 days, with no between-group difference; only PNE caused mild adverse events (4 cases of bruising/pain).
+
 ## 한줄요약
 RCT (n=52) — chronic masticatory myalgia에서 BTA 100U와 PNE (0.5mA/3s ×3회) 모두 VAS 6.5→2.6, MIO +4mm, 90일 유지, 두 치료 간 차이 없음.
 
