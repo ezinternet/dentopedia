@@ -13,6 +13,9 @@ source_collection: external
 tags: ['HA coating', 'immediate loading', 'early loading', 'long-term', '7-year']
 ---
 
+## One-line Summary
+7-year prospective RCT (n=50 implants in 42 patients; 42 implants completed): hydroxyapatite (HA)-coated implants under immediate vs early (3-week) loading showed comparable outcomes (cumulative survival 98.0%; immediate 100% / early 95.5%) with no MBL difference between 2 and 7 years.
+
 ## 한줄요약
 전향적 RCT 7년 (n=50, 42명): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음; 두 프로토콜 동등.
 
