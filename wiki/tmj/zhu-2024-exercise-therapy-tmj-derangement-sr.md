@@ -13,6 +13,9 @@ source_collection: external
 tags: [exercise-therapy, tmj-internal-derangement, postoperative, rehabilitation, mouth-opening]
 ---
 
+## One-line Summary
+Systematic review (Journal of Oral Rehabilitation, 2024; mostly prospective cohorts/case series) of exercise therapy in postoperative TMJ internal derangement patients (after arthrocentesis, arthroscopy, open surgery): structured rehabilitation significantly improves maximum mouth opening (MMO) recovery and reduces pain vs surgery alone, with early initiation (≤1 week) and passive mobilization devices (TheraBite, Dynasplint) favored.
+
 ## 한줄요약
 악관절 내장증(TMJ Internal Derangement) 수술/시술 후 운동치료 효과에 관한 SR: 조기 운동치료가 하악 최대개구량(MMO) 회복과 통증 감소에 유의하게 기여.
 
