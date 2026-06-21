@@ -13,6 +13,9 @@ source_collection: external
 tags: [resin-cement, partial-coverage, inlay, onlay, laminate-veneer, cementation]
 ---
 
+## One-line Summary
+Narrative systematic review (68 articles, 1991–2023) of resin-cement selection for partial coverage restorations (PCRs — inlay/onlay/laminate veneer/endocrown): self-cure or dual-cure for metallic PCRs, light-cure conventional resin cement for thin/translucent low-strength ceramics, and self-etch / self-adhesive dual-cure cements contraindicated for laminate veneers.
+
 ## 한줄요약
 부분피개 수복물(PCR — 인레이/온레이/베니어/엔도크라운)을 위한 레진 시멘트 선택 가이드 narrative SR (68편): 금속 PCR엔 self/dual-cure, 얇고 투명한 세라믹엔 light-cure conventional, 라미네이트 베니어엔 self-etch/self-adhesive dual-cure 금기.
 
