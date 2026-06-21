@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Systematic review (BMC Oral Health 2025) of RCTs/controlled trials: platelet-rich fibrin (PRF) placed in extraction sockets significantly reduces alveolar osteitis (dry socket) incidence, postoperative pain (VAS at 24h–7d), facial edema, and trismus versus controls, with accelerated wound healing and no adverse events.
+
 ## 한줄요약
 체계적 문헌고찰: 발치 후 소켓에 PRF(혈소판풍부피브린) 적용 시 건성치조염(dry socket), 부종, 개구제한, 통증이 대조군 대비 유의하게 감소함.
 
