@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, ivoclean, monobond-plus, primer, water-aging, bond-strength, Y-TZP, 1-year]
 ---
 
+## One-line Summary
+In vitro study (Eur J Dent 2017) on two Y-TZP brands (Katana, ZirCAD): combined Ivoclean + Monobond Plus gave the highest shear bond strength for Katana at 24h, but all protocols lost ~50% bond strength after 1 year of water storage — long-term aging degradation was universal.
+
 ## 한줄요약
 in-vitro(Eur J Dent 2017): Ivoclean+Monobond Plus 병용 → Katana 지르코니아 최고 BS; 1년 수중보관 후 전군 ~50% 강도저하 — 장기 안정성이 핵심 과제.
 
