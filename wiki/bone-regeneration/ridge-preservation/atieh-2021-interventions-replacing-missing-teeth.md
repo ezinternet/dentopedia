@@ -16,6 +16,8 @@ relations:
     target: bassir-2018-alveolar-ridge-preservation-meta-analysis
   - type: refines
     target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
+  - type: refines
+    target: troiano-2018-bone-graft-membrane-ridge-preservation
 ---
 
 ## One-line Summary
