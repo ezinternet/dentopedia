@@ -13,6 +13,9 @@ source_collection: external
 tags: [tmj-osteoarthritis, tmd, occlusal-splint, arthrocentesis, nsaids, hyaluronic-acid, conservative-treatment, korean-review]
 ---
 
+## One-line Summary
+Korean narrative clinical review (2023) on TMJ osteoarthritis (TMJ OA) treatment: a conservative-first ladder — self-care → NSAIDs (celecoxib if GI risk) → hard full-arch occlusal stabilization splint (upper/lower equivalent) → arthrocentesis with hyaluronic acid (HA) + steroid → surgery as last resort — with hands-on arthrocentesis technique detail; disease-modifying agents remain experimental.
+
 ## 한줄요약
 대한치과의사협회지 2023 특집 종설(narrative review): TMJ 골관절염은 보존적 치료 우선 — 자가관리 → NSAIDs(GI 위험 시 celecoxib) → 교합안정장치(경성·전악·상하악 효능 동등) → 관절강세정술(HA+스테로이드) → 수술은 최후. 술기 디테일(주사 자입점, 이개측두신경 마취 시 안면신경 측두가지 동반마취 주의) 포함.
 
