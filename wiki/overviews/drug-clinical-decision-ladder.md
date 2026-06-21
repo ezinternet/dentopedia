@@ -28,6 +28,10 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 한국 임상 조정: Opioid 처방 거의 없음(Tramadol 정도), Clindamycin 대신 Cephalexin·Azithromycin 검토, 임신 시 Felypressin 함유 제제 회피하고 Lidocaine + 1:200,000 Epinephrine만 사용.
 > - 본 페이지는 허브이므로 paper 직접 wikilink는 5개 sub-overview로 위임.
 
+## One-line Summary
+
+Hub overview splitting the 75-paper drug category into five clinical-decision-axis sub-overviews — anticoagulant/antiplatelet perioperative, MRONJ/antiresorptive, antibiotic stewardship, postoperative analgesics, and systemic-disease/polypharmacy/local-anesthesia. Core thesis: route by the decision point at the chair, not by drug class (e.g., NSAIDs appear under both the analgesic and aspirin-interaction axes). Clinical takeaway: provides entry points to each sub-overview plus the five spine claims, decision branches, and Korea-specific prescribing adjustments; paper-level wikilinks are delegated to the sub-overviews.
+
 ## 한줄요약
 drug 카테고리 75개 paper를 5개 임상 결정축별 sub-overview로 분할한 허브 페이지. 각 sub-overview의 진입점 + 5축 핵심 명제 + 결정 분기 요약 + 한국 임상 조정.
 
