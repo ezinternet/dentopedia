@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+AO/AAP 2024 international consensus (Oak Brook, Illinois) synthesizing 8 systematic reviews into a unified framework for peri-implant disease prevention and management: Group 1 (risk factors — periodontitis history, smoking, uncontrolled diabetes, obesity, implant malposition, unfavorable prosthetics, thin mucosal phenotype) and Group 2 (treatment), with a staged algorithm of non-surgical debridement + risk-factor control for mucositis escalating to individualized non-reconstructive/reconstructive surgery for advanced peri-implantitis.
+
 ## 한줄요약
 Academy of Osseointegration / American Academy of Periodontology (AO/AAP) 2024 합의 (Oak Brook, Illinois, 2024-08): peri-implant disease (PID) 예방 + 관리 통합 framework. Group 1=위험인자(전신·국소), Group 2=치료(비외과·외과). 핵심 risk: 치주염 병력, 흡연, 조절 불량 당뇨, 비만, 임플란트 malposition, 부적절 보철, 얇은 점막 phenotype. Peri-implant mucositis는 비외과적 데브리망 + 위험인자 통제로 치료 가능 — peri-implantitis 1차 치료의 출발점. 진행 사례는 개별화된 외과 (비재건적/재건적).
 
