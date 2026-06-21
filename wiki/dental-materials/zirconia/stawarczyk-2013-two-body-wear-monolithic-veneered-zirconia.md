@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, monolithic, veneered, glazed, two-body-wear, enamel-wear, chewing-simulator, Weibull]
 ---
 
+## One-line Summary
+In vitro two-body wear study (Acta Odontol Scand 2013; 6 zirconia surface conditions, 1.2 million chewing-simulator cycles): polished monolithic zirconia caused the least antagonist enamel volume loss (27 µm) and glaze-ceramic the most (118 µm), but polished zirconia paradoxically produced enamel cracks in 100% of antagonists; surface material—not the base—determined wear behavior.
+
 ## 한줄요약
 in-vitro(Acta Odontol Scand 2013): 1.2M사이클 저작시뮬레이터 — 연마 단일체 Zr(27μm): 최소 대합치 마모; 유약도재(GZC 118μm): 최대; 연마 Zr군: 대합치 에나멜 균열 100%; 표면재료가 결정인자.
 
