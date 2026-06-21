@@ -12,6 +12,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/ji-2025-socket-shield-conventional-ne
 pdf_filename: ji-2025-socket-shield-conventional-network-ma.pdf
 source_collection: external
 tags: [socket-shield-technique, SST, network-meta-analysis, esthetic-zone, JPD, multi-intervention, Liaoning]
+relations:
+  - type: refines
+    target: ogawa-2022-socket-shield-technique-systematic-review
 ---
 
 ## 한줄요약
