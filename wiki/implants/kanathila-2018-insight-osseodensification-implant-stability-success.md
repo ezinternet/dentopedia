@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, densah, primary-stability, narrative-review, low-density-bone]
 ---
 
+## One-line Summary
+Narrative review (JCDR 2018) introducing the concept and rationale of osseodensification (OD): counterclockwise-rotating multi-fluted Densah burs compact and autograft bone rather than cutting it, with the cited inventor data showing insertion torque ~49 Ncm (OD) vs ~25 Ncm (conventional drilling) in low-density bone; a conceptual primer, not a formal evidence synthesis.
+
 ## 한줄요약
 서술적 종설 (narrative review) — 골밀도화 (Osseodensification, OD)의 개념을 정리: 다중날 (multi-fluted) Densah 버 (bur)를 반시계방향으로 회전시켜 골 (bone)을 절삭하지 않고 압축·자가이식 (autograft)하며, 저밀도 골에서 삽입 토크 (Insertion Torque, IT)가 약 49 Ncm로 일반 드릴링의 약 25 Ncm 대비 상승했다고 보고. 임상 적용 한계: 발명자(Huwais) 측 연구·인용에 크게 의존하고 정형 systematic review가 아니므로 정량적 효과 크기는 후속 메타분석 (Meta-Analysis)으로 보완 필요.
 
