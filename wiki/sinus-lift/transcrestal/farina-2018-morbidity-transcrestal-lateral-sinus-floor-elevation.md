@@ -14,6 +14,9 @@ source_collection: external
 tags: [tSFE, lSFE, RCT, morbidity, VAS-pain, sinus-lift, postoperative]
 ---
 
+## One-line Summary
+RCT (29 transcrestal [tSFE] vs 28 lateral [lSFE] sinus floor elevation; residual bone height [RBH] 3–6 mm, same xenograft + simultaneous implant): on day 0 lSFE was less painful, but over days 1–14 tSFE produced significantly less swelling, bruising, nasal discharge, and functional limitation — making tSFE overall more tolerable when RBH permits.
+
 ## 한줄요약
 RCT (29 tSFE vs 28 lSFE, RBH 3–6mm): 수술 당일 lSFE 통증 낮음; 이후 14일간 tSFE 부종·타박·비출혈 유의하게 적음
 
