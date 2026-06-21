@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+In vitro study (n=64, after 5000 thermocycles) of 3-unit ceramic FDPs: zirconia inlay-retained FDP (672±123N) had fracture load equivalent to full-coverage Zr-FDP (672±183N), feldspathic-coated Zr-IRFPD (638N) was not significantly different, but zirconia-reinforced lithium silicate IRFPD (391N) was significantly weaker; all failures occurred at the connector.
+
 ## 한줄요약
 인비트로(n=64, 5000회 열순환): 지르코니아 IRFPD 파절강도 672N ≈ 전통 FDP와 동등; ZrC-IRFPD 638N; VS-IRFPD 391N으로 유의하게 낮음; 커넥터 파절이 주 실패 양식
 
