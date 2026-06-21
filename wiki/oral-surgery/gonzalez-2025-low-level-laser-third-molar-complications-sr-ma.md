@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Systematic review and meta-analysis (JADA 2025) of RCTs: low-level diode laser therapy (LLLT/photobiomodulation, 800–940 nm most effective) significantly reduces postoperative pain, facial edema, and trismus after mandibular third molar extraction (moderate-to-large effect size), with no adverse events reported.
+
 ## 한줄요약
 체계적 문헌고찰 및 메타분석(JADA 2025): 저출력 다이오드 레이저(LLLT)는 하악 제3대구치 발치 후 통증, 부종, 개구제한을 대조군 대비 유의하게 감소시키며, 중등도 이상의 효과 크기를 보임.
 
