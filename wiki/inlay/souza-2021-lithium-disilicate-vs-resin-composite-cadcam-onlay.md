@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Split-mouth RCT (n=20, 1-year) comparing IPS e.max CAD (lithium disilicate) vs Lava Ultimate (resin composite) CAD/CAM onlays: no failures and no significant overall clinical difference, but e.max CAD showed within-group deterioration in surface lustre (p=0.020) and color match/translucency (p=0.039); longer-term studies needed.
+
 ## 한줄요약
 스플릿마우스 RCT(n=20, 1년): e.max CAD vs Lava Ultimate 온레이 — 1년 임상 성능 유사; e.max에서 표면광택·색조일치 일부 저하; 장기 연구 필요
 
