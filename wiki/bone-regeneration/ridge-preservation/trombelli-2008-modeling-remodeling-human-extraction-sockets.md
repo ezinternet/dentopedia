@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Human histological biopsy series (27 extraction-socket biopsies across 2–24 weeks): granulation tissue dominant at 2–4 weeks is replaced by provisional matrix and woven bone by week 6, with osteoblast density peaking at weeks 6–8, but the timing of mineralized bone deposition is highly variable between individuals.
+
 ## 한줄요약
 인체 발치공 6개월 조직학 연구 (27 biopsy): 발치 2–4주에 우세하던 육아조직 (granulation tissue)이 6주 전후로 잠정 기질 (provisional matrix)과 직조골 (woven bone)로 대체되며, 골모세포 (osteoblast) 활성은 6–8주에 정점을 찍고 이후 안정 상태로 유지되지만 무기질화의 시점은 개인차가 매우 크다.
 
