@@ -13,6 +13,9 @@ source_collection: external
 tags: [mronj, bronj, bisphosphonate, denosumab, antiresorptive, aaoms-position-paper, drug-holiday, romosozumab, korean-review]
 ---
 
+## One-line Summary
+Narrative review tracing the evolution of the AAOMS jaw-osteonecrosis position papers (2007 BRONJ → 2014 MRONJ → 2022 update), highlighting three clinically significant 2022 changes: immunomodulators (e.g., romosozumab) added to the disease definition, operative therapy extended to all stages (1, 2, 3), and the pre-surgical drug holiday recommendation no longer supported.
+
 ## 한줄요약
 대한치과의사협회지 2023 종설: AAOMS MRONJ 권고안 변천(2007 BRONJ → 2014 MRONJ → 2022 update) 해설. 2022 핵심 변경 3가지 — (1) 정의에 면역조절제(Romosozumab 등) 추가, (2) 수술적 치료를 전 stage(1·2·3)로 확대, (3) 수술 전 약물 휴지기(drug holiday) 권고가 2022 paper에서 사라짐.
 
