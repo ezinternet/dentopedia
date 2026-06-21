@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/azadi-2025-soft-tissue-grafting-immed
 pdf_filename: azadi-2025-soft-tissue-grafting-immediate-implant-bayesian-nma.pdf
 source_collection: external
 tags: ['immediate implant', 'CTG', 'PRF', 'xenogenic collagen', 'allogenic graft', 'network meta-analysis']
+relations:
+  - type: refines
+    target: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma
 ---
 
 ## 한줄요약
