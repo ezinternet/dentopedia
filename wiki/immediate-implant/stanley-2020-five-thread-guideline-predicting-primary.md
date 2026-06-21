@@ -13,6 +13,9 @@ source_collection: external
 tags: [primary stability, five thread guideline, immediate implant, CBCT, virtual planning, socket stabilization]
 ---
 
+## One-line Summary
+Case letter (3 immediate-placement cases): proposes the Five Thread Guideline (5-TG) — at least five implant threads must engage native bone to predict adequate primary stability — applied via CBCT virtual planning (SIMPLANT 17, bone rendering toggled off) plus a "socket stabilization" (bi-/tri-socket wall) concept; all 3 cases achieved successful osseointegration without complications.
+
 ## 한줄요약
 즉시식립 3증례 케이스 레터로, 임플란트 나사산 (Thread) 최소 5개 이상이 원래 골에 접촉해야 1차 안정성 (Primary Stability)을 예측할 수 있다는 '5-TG' 가이드라인을 CBCT 가상 계획으로 적용함.
 
