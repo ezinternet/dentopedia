@@ -13,6 +13,9 @@ source_collection: external
 tags: [transcrestal-sinus-lift, immediate-implant, infected-socket, bicortical-fixation, osteotome]
 ---
 
+## One-line Summary
+Case series (n=10): trans-socket transcrestal sinus floor elevation (TSFE) through infected/periapically-lesioned maxillary extraction sockets with ≥5 mm residual bone — graftless osteotome fracture/perforation of the Schneiderian membrane and immediate implant placement with apical bicortical fixation; 10/10 high primary stability, no reported sinusitis or failure.
+
 ## 한줄요약
 증례 시리즈 (Case Series, n=10) — 상악 발치와의 치근단 병소 (Periapical Radiolucency) 잔존 골 5 mm 이상에서, 발치와를 통한 경치조 상악동거상술 (Trans-socket Transcrestal Sinus Floor Elevation, TSFE)·골이식 없이 골절·천공으로 슈나이더 막 (Schneiderian Membrane, SM)을 거상하고 임플란트 첨단을 동피질 (bicortical) 고정한 새로운 술식을 제시.
 
