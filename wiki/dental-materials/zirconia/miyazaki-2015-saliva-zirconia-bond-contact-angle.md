@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, saliva-contamination, cleaning, ivoclean, contact-angle, bond-strength]
 ---
 
+## One-line Summary
+In vitro study (Dent Mater J 2015) on saliva-contaminated zirconia: Ivoclean (NaOH/ZrO2) cleaning achieved the lowest contact angle and highest shear bond strength, outperforming phosphoric acid and acetone, with contact angle serving as a predictor of post-contamination bondability.
+
 ## 한줄요약
 in-vitro(Dent Mater J 2015): 타액오염 지르코니아 — Ivoclean(NaOH/ZrO2) 세정 후 접촉각 최저·결합강도 최고; 인산·아세톤보다 우수; 접촉각 = 접착 예측 지표.
 
