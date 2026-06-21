@@ -27,6 +27,10 @@ tags: [overview, canal-shaping, glide-path, niti-file, cyclic-fatigue, canal-tra
 > - 임상 결정 ladder: 글라이드패스는 비용 기준 rotary 1종 / 본 성형은 곡관에선 low-taper(TruNatomy) 우선 / file 폐기 기준은 멸균 횟수가 아니라 사용 횟수+곡률 노출 / heat-treated NiTi는 표준 autoclave 그대로.
 > - 한계: RCT·코호트 0건, resin block 의존, 단일 균종(E. faecalis)·단근치, in-vivo 파절률·flare-up 연결 데이터 없음.
 
+## One-line Summary
+
+Synthesis of 7 in-vitro/ex-vivo canal-shaping studies: manual stainless-steel K-files cause greater glide-path transportation than any rotary pathfinder (rotary systems mutually equivalent), no kinematics avoids apical bacterial extrusion, low-taper TruNatomy best preserves curved canals while ProTaper Gold is the comparator floor for both transportation and cyclic fatigue, and autoclave sterilization does not weaken (and may strengthen) heat-treated NiTi — so file-discard SOPs should track use count plus curvature exposure, not sterilization cycles; all evidence is bench-level with no clinical endpoints (healing, in-vivo fracture, post-op pain).
+
 ## 한줄요약
 근관 성형(canal shaping) in-vitro/ex-vivo 7편 종합: (1) glide path는 수동 SS K-file이 어떤 rotary pathfinder보다 transportation이 크고, rotary 시스템끼리는 동등 — 단 어떤 kinematics도 apical 세균 압출(bacterial extrusion)을 피하지 못함; (2) 본 성형 단계에서 low-taper TruNatomy가 곡관 보존·시간·삭제량에서 ProTaper Gold보다 우수하고, ProTaper Gold는 transportation·fatigue 양쪽에서 비교군 하한; (3) autoclave는 heat-treated NiTi의 cyclic fatigue를 약화시키지 않고 일부는 강화 — 재사용 SOP는 멸균 횟수가 아니라 사용 횟수·곡률로 판단. 전 근거 bench-only, 임상 종점(success·healing·in-vivo fracture·post-op pain) 없음.
 
