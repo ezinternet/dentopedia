@@ -14,6 +14,9 @@ source_collection: external
 tags: [MB2, DOM, microscope, ultrasonic, CBCT, maxillary-molar, sensitivity, specificity, in-vivo]
 ---
 
+## One-line Summary
+In vivo 3-stage validity study (n=84 patients, CBCT as gold standard): MB2 prevalence 79%; detection sensitivity rose explorer 79% → dental operating microscope (DOM) 82% → DOM + ultrasonic selective dentin removal 86%, with 100% specificity at every stage.
+
 ## 한줄요약
 In vivo 84명(CBCT 기준): MB2 유병률 79%; 탐침 민감도 79% → DOM 82% → DOM+초음파 86%; 특이도 모든 단계 100%; CBCT를 gold standard로 사용한 엄격한 타당도 연구
 
