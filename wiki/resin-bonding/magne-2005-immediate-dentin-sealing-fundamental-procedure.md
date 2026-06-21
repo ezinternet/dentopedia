@@ -13,6 +13,10 @@ source_collection: external
 tags: [ids, indirect-restoration, narrative-review, foundational, magne, biomimetic]
 ---
 
+## One-line Summary
+
+JERD 2005 single-author narrative review (Pascal Magne, 30+ articles): the foundational paper that named and codified the immediate dentin sealing (IDS) protocol — apply and light-cure the dentin bonding agent immediately after preparation (before impression), optionally with a filled adhesive resin liner — claiming improved bond strength, fewer gaps, less leakage, and reduced sensitivity; the primary citation for all subsequent IDS reviews.
+
 ## 한줄요약
 
 Pascal Magne 단독 narrative review (JERD 17(3), 2005, 30+ articles): IDS 용어·protocol 정립한 foundational paper — DBA를 인상 채득 전 즉시 도포·중합 + filled adhesive resin liner 권장. 후속 모든 IDS SR의 1차 citation.
