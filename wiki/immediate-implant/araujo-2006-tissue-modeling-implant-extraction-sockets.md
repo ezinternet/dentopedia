@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, buccal-bone, bundle-bone, dog-model, sla]
 ---
 
+## One-line Summary
+Beagle dog experimental study (n=7, mandibular premolar sockets with immediate SLA implant placement): woven-bone bone-to-implant contact (BIC) formed at the marginal gap by 4 weeks, but buccal-wall resorption from bundle-bone loss shifted the buccal crest >2 mm apical of the implant shoulder by 12 weeks, exposing previously osseointegrated surface — immediate implants do not prevent buccal ridge collapse.
+
 ## 한줄요약
 비글견 동물실험 (7마리, 하악 소구치 발치와에 즉시 즉시식립 (Immediate Implant Placement, IIP)): 4주에 형성된 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)이 12주에는 협측 골벽 흡수로 인해 부분적으로 소실되어, 협측 변연골 (Buccal Crest)이 임플란트 어깨 (Shoulder) 보다 2 mm 이상 치근단 방향으로 이동.
 
