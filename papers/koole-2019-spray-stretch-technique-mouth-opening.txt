@@ -1,0 +1,25 @@
+Spray and stretch technique and its effects on mouth opening.
+
+Koole P, Zonnenberg AJJ, Koole R.
+The Journal of Prosthetic Dentistry. 2019;123(3):455-460.
+DOI: 10.1016/j.prosdent.2019.05.032
+PMID: 31326152
+
+ABSTRACT (PubMed — full text not retrieved)
+
+Statement of problem:
+Mandibular mouth opening through passive stretching may be an awkward and painful experience for patients with orofacial pain. Whether a spray technique would reduce such discomfort is unclear.
+
+Purpose:
+The purpose of this clinical study was to determine whether the use of a spray technique would be an effective method of increasing maximal mouth opening (MMO) without passive stretching to avoid patient discomfort.
+
+Material and methods:
+A sample of 61 participants (33 men, 28 women) without orofacial pain was selected from a general dental office, and a sample of 60 participants (30 men, 30 women) was selected from a cohort of over 750 patients with orofacial pain from an oral surgery department. The presence of orofacial pain in the patient group was verified and recorded by means of palpation of the temporomandibular joints (TMJs) and masticatory, neck, and shoulder muscles. All participants were instructed to open their mouth maximally to permit insertion of a TMJ equilateral triangle and the measurement of their MMO twice. Then, participants were informed that a vapocoolant would be sprayed twice on both cheeks from the mandibular angle to the temple area. After spraying, participants were requested to open their mouth maximally, and again the interincisal distance was measured twice. For analysis of the variables, a 2-way ANOVA was used with estimates for group effects and a correction for sex. A covariance model was used to test the effect of age (alpha=.05).
+
+Results:
+Testing for age revealed an effect for both study groups (P=.032), but not for sex (P=.074). Testing baseline values of maximal mouth opening for the studied groups revealed no significant difference (P=.175), although for sex it did (P=.008). The relative gain as a percentage of increase in mouth opening led to similar results, comparable with the values of the absolute increase in magnitude (P<.001 for the study groups and P=.090 for sex). Testing the effect of age in a covariance model did not lead to a significant result (P=.73).
+
+Conclusions:
+The spray and stretch technique increased maximal mouth opening in most participants, more so in participants with orofacial pain than in the control group and more in women than in men. Pain from passive stretching can be prevented.
+
+MeSH: Facial Pain; Mandible; Mouth; Temporomandibular Joint; Temporomandibular Joint Disorders.
