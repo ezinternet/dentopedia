@@ -13,6 +13,9 @@ source_collection: external
 tags: [cortical-bone, primary-stability, ISQ, insertion-torque, RFA, osseointegration, MBL, CBCT]
 ---
 
+## One-line Summary
+SR (13 clinical studies): most studies show a positive correlation between cortical bone thickness and implant primary stability (higher ISQ and insertion torque, e.g. Miyamoto r=0.84, Salimov r=0.935 for IT), with bicortical anchorage yielding the highest stability; the relationship between cortical thickness and marginal bone loss (MBL) remains inconclusive.
+
 ## 한줄요약
 SR (13연구): 피질골 두께↑ → ISQ·삽입토크↑ 양의 상관; 양측피질 고정 = 최고 안정성; MBL 상관 불명확
 
