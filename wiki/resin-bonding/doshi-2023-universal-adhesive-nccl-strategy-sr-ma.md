@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Updated SR+MA of 17 RCTs (13 meta-analyzed) on universal adhesives in noncarious cervical lesions (NCCLs): no significant difference between total-etch (TE) and self-etch (SE) strategies for any of five clinical outcomes (retention, marginal adaptation, marginal discoloration, secondary caries, postoperative sensitivity) at 18/24/36 months (p>0.05, I²=0%).
+
 ## 한줄요약
 비우식성 치경부 병소(NCCL)에서 유니버설 접착제의 전부산부식(Total-Etch)과 자가산부식(Self-Etch) 전략 간 유지율·변연적합도·변연착색 등 5가지 임상 지표 모두에서 유의한 차이 없음을 17개 RCT 메타분석(I²=0%)으로 확인.
 
