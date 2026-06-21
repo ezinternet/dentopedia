@@ -13,6 +13,9 @@ source_collection: external
 tags: [hydroxyapatite, HA-coating, nano, BIC, soft-tissue-infiltration, osseointegration]
 ---
 
+## One-line Summary
+Animal study (rat femur) showing nanopolymorphic crystalline hydroxyapatite (HA) coating (Ca/P=1.66, 55% crystallinity) on microroughened titanium increases BIC and push-in force at both early (2-week) and late (4-week) healing and reduces soft-tissue infiltration; the effect is spatially confined to within ≤50 µm of the implant surface.
+
 ## 한줄요약
 동물실험(쥐, IJN 2012): 나노다형성 결정질 수산화인회석 (Hydroxyapatite, HA) 코팅(Ca/P=1.66, 55% 결정화도) → 골-임플란트 접촉률 (BIC) 및 강도 조기·후기 모두 향상, 연조직 침투 감소; 효과는 임플란트 표면 50 µm 이내로 한정.
 
