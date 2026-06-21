@@ -13,6 +13,9 @@ source_collection: external
 tags: [ridge-resorption, extraction-socket, dimensional-change, weighted-mean, baseline-data]
 ---
 
+## One-line Summary
+Systematic review (12 human studies): after non-preserved post-extraction socket healing, weighted-mean horizontal alveolar ridge width reduction was 3.87 mm vs mid-buccal vertical loss 1.67 mm and radiographic crestal loss 1.53 mm — horizontal resorption exceeds vertical, the canonical baseline justifying ARP/immediate implant decisions.
+
 ## 한줄요약
 체계적 문헌고찰 (Systematic Review, SR): 12편의 사람 연구에서 발치 후 자연 치유 시 치조제 폭은 가중평균 3.87 mm, 중앙 협측 높이는 1.67 mm 감소 — 수평 흡수가 수직 흡수보다 크다.
 
