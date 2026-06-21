@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review on guided implant surgery for dental rehabilitation in jaws reconstructed with microvascular free flaps (fibula, iliac crest, scapula) after oncologic resection, arguing guided surgery is essential — not optional — for positioning implants in the highest-quality bone, avoiding osteosynthesis hardware, and enabling prosthetically-driven planning under anatomic constraints.
+
 ## 한줄요약
 악골 재건(fibula/iliac crest/scapula free flap) 환자에서 guided implant surgery의 역할 종설 — flap의 가장 골조건 좋은 영역과 osteosynthesis 자재를 회피하는 위치 선정에 guided 방식이 필수, esthetic+functional 결과의 예측가능성을 끌어올림.
 
