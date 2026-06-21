@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, RBH, sinus-floor-elevation, macro-design, tapered-effect, in-vitro, bovine-rib]
 ---
 
+## One-line Summary
+In vitro study (160 bovine-rib specimens, 4 residual bone heights × 4 Straumann implant macro-designs) on placement stability in sinus floor elevation: ISQ rises with residual bone height (RBH), and at RBH 6–9 mm the Tapered Effect (TE) design yields the highest ISQ vs SP/BL/BLT (p<0.01), attributed to apical engagement compressing low-density type-IV cancellous bone.
+
 ## 한줄요약
 In vitro (160 bovine rib, 4종 RBH × 4 macro-design): ISQ ∝ RBH↑; RBH 6–9mm에서 Tapered Effect 디자인 ISQ 유의하게 최고(p<0.01)
 
