@@ -27,6 +27,10 @@ tags: [burnout, mental-health, wellbeing, dentists, dcp, hygienists, mbi, profes
 > - **임상 ladder(개입)**: ①Maslach Burnout Inventory(MBI) 자가 평가(EE/DP/PA 3축) → ②개인 차원(mindfulness·CBT·운동·수면, 부작용 없음) → ③조직 차원(진료시간 통제·동료 분담·행정 자동화) → ④우울·불안 의심 시 정신건강의학과 의뢰 → ⑤만성+회복 무 시 진료 강도 조정/전환.
 > - **확신도**: 축 1 유병률 = 근거강함(두 SR+MA 일치); 축 2·3 = 합의수준(개입 효능은 미검증); 축 4 retraction = 근거강함(retraction 사실 자체).
 
+## One-line Summary
+
+Synthesis page integrating 7 systematic reviews/meta-analyses on burnout and mental health among dentists and dental care professionals (DCPs), organized along four axes — prevalence, determinants/workforce, interventions, and critical appraisal/retraction. Core thesis: overall burnout ~13% (emotional exhaustion 28%, depersonalization 18%, reduced personal accomplishment 30-50%), consistent across pre/during/post COVID and highest in Europe, with burnout driven more by system factors (time, finance, medico-legal load) than individual mental health; workplace intervention evidence is weak (little primary prevention), and the Panagioti 2018 "burnout → patient harm" claim is RETRACTED and must not be cited.
+
 ## 한줄요약
 
 치과의사·DCP 번아웃 SR+MA 7편 통합. 전체 번아웃 13%; 감정적 소진(Emotional Exhaustion, EE) 28%/탈인격화(DP) 18%/저성취 30~50%. COVID 전후 일관; 유럽 최고·아메리카 최저. 직장 개입 근거 부족; 1차 예방 데이터 거의 없음. 1편(Panagioti 2018)은 retracted — 환자 안전 연결 주장은 제거.
