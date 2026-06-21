@@ -13,6 +13,9 @@ source_collection: external
 tags: [implant-bed-preparation, drilling, laser, piezoelectric, osteotome, osseodensification, BIC, histomorphometry, microcracks, systematic-review]
 ---
 
+## One-line Summary
+PRISMA SR (J Clin Med 2025, 29 articles) comparing five implant bed preparation methods (drilling, laser, piezoelectric, osteotome, osseodensification) on histological/histomorphometric outcomes: classical rotary drilling produced the most microcracks, osteocyte/thermal damage, and lowest %BIC, while alternatives gave higher %BIC — though drilling can match alternatives with optimal speed, cooling, and load, making the penalty largely protocol-mediated.
+
 ## 한줄요약
 SR(J Clin Med 2025, 29편): 5개 implant bed prep 방법(drilling, laser, piezo, osteotome, osseodensification) 조직학·조직형태계측 비교 — 전통 drilling이 microcracks·부정 골연·osteocyte 손상·발열 최다, %BIC 최저; 대체법이 우수하나 — 적절 parameter 사용 시 drilling도 동등 가능.
 
