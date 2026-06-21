@@ -13,6 +13,9 @@ source_collection: external
 tags: [alveolar-ridge-preservation, bone-graft, resorbable-membrane, meta-analysis, tsa, gbr]
 ---
 
+## One-line Summary
+SR+MA (7 studies) with trial sequential analysis (TSA) showing that alveolar ridge preservation using allogenic/xenogenic bone graft plus a resorbable membrane reduces horizontal ridge width loss by 2.19 mm (95% CI −2.67 to −1.71) and vertical height loss by 1.72 mm (95% CI −2.14 to −1.30) vs spontaneous healing, with TSA confirming sufficient evidence despite high heterogeneity.
+
 ## 한줄요약
 체계적 문헌고찰 및 메타분석(7편) + 시험 순차 분석(Trial Sequential Analysis, TSA): 발치 후 동종/이종골 이식 + 흡수성 차폐막 조합이 자연치유 대비 치조제 수평 폭 흡수를 2.19 mm, 수직 높이 흡수를 1.72 mm 감소시키며, TSA로 결론이 충분히 입증됨(이질성 높음에도).
 
