@@ -13,6 +13,9 @@ source_collection: external
 tags: [uv-photofunctionalization, hydrocarbon, soft-tissue, biofilm, VUV, osseointegration]
 ---
 
+## One-line Summary
+Comprehensive narrative review of UV photofunctionalization (UV-PF) of titanium implants across three biological interfaces — bone (osseointegration), soft tissue (epithelial sealing), and bacteria (biofilm inhibition); UV-PF removes hydrocarbon pellicles to restore superhydrophilicity, and VUV (1-minute) is introduced as a next-generation alternative to conventional 15-minute UV.
+
 ## 한줄요약
 서술적 고찰(J Prosthodont Res 2025): UV 광기능화 (Photofunctionalization) — 골유착·연조직·세균 3개 계면 종합 리뷰; VUV(1분) 차세대 방법 소개; 탄화수소 제거 → 초친수성 → 세포·조직 반응 개선.
 
