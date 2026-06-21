@@ -13,6 +13,9 @@ source_collection: external
 tags: [osteotomy, heat-generation, drill-design, drill-material, drill-wear, irrigation, bone-quality, systematic-review]
 ---
 
+## One-line Summary
+Narrative SR (34 articles, 1992–2015): osteotomy heat generation is multifactorial — drill design, material, and wear; drilling method (intermittent/continuous/sequential); irrigation type and temperature; and bone quality all act independently and interactively, so controlling any single factor is insufficient and heat management requires a multi-factor approach.
+
 ## 한줄요약
 SR(Indian J Dent Res 2018, 34편, 1992-2015): osteotomy 발열은 multifactorial — drill 디자인·재질·마모, drilling method, irrigation, 골질이 모두 독립적·상호작용적으로 작용. 단일 요인 통제만으로는 부족.
 
