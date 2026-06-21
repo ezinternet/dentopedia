@@ -13,6 +13,9 @@ source_collection: external
 tags: [botulinum-toxin, btx-a, tmd, myofascial-pain, meta-analysis]
 ---
 
+## One-line Summary
+SR+MA (20 RCTs qualitative, 6 pooled) showing botulinum toxin type A (BTX-A) injection to masticatory muscles is significantly superior to placebo for myofascial pain in painful temporomandibular disorder (TMD), but provides no significant benefit for maximum mouth opening (MMO) — indicating it acts on muscle-origin pain rather than joint mechanics.
+
 ## 한줄요약
 20개 RCT SR+MA(6개 메타분석): 보툴리눔독소(BTX-A)는 근막통(Myofascial Pain)에서 위약 대비 유의한 통증 감소를 보이나, 하악 최대개구량(MMO) 개선은 없음.
 
