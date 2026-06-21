@@ -13,6 +13,9 @@ source_collection: external
 tags: [osteotomy, thermal-necrosis, drill-design, BIC, osseointegration, minipig, in-vivo]
 ---
 
+## One-line Summary
+Preclinical in vivo minipig study (n=36 implants, 4 drilling protocols): optimized novel test drills with a shortened sequence lowered peak intraosseous temperature (35.4 vs 46.5°C, p=.0021) and drill time (4.5 vs 10.3 s) and raised bone-to-implant contact (BIC) at 2 weeks (44.9 vs 31.3%, p<.0001), giving direct evidence that reduced drill heat improves osseointegration.
+
 ## 한줄요약
 미니피그 in vivo(COIR 2021, n=36): 최적화된 표면처리 신형 drill + 축약 시퀀스 → 골내 최고온도 35.4°C vs 대조 46.5°C(p=.0021), drill 시간 4.5 vs 10.3초, BIC 2주 44.9 vs 31.3%(p<.0001) — drill 발열 감소가 실제 골유착 향상으로 이어진다는 직접 증거.
 
