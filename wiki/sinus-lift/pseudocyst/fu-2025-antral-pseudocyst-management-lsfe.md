@@ -17,6 +17,9 @@ relations:
     target: fu-2022-pseudocyst-removal-retainment-msfa-cohort
 ---
 
+## One-line Summary
+Retrospective cohort (n=107, small ≤20 mm antral pseudocysts, lateral sinus floor elevation with immediate implant) comparing removal vs aspiration vs no treatment found 6-month grafted bone resorption differed significantly by management (untreated -18.31% > aspiration -16.55% > removal -14.11%, P<.001) while implant survival was uniform and sinusitis was 0% across all arms.
+
 ## 한줄요약
 Retrospective n=107 (소형 ≤20mm AP, LSFE + 즉시 implant): **제거 vs 흡인 vs 미처치 3-arm 비교**. 6개월 grafted bone resorption — 미처치 -18.31% > 흡인 -16.55% > 제거 -14.11% (P<.001). 모든 군 implant 생존·sinusitis 0%.
 
