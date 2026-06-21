@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+International 3-round Delphi consensus (n=31 experts, ≥75% agreement threshold) recommending renaming burning mouth syndrome (BMS) to Burning Mouth Disorder (BMD) and refining ICD-11 criteria (≥3 months burning/paresthesia/dysgeusia with normal mucosa).
+
 ## 한줄요약
 BMS → BMD(Burning Mouth Disorder) 명칭 변경 + ICD-11 기준 개선 국제 Delphi 합의.
 
