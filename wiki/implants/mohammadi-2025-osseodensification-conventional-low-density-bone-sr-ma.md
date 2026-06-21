@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA (7 studies) of osseodensification (OD) vs conventional drilling in low-density bone: no significant ISQ difference for primary (MD=4.13, p=0.13) or secondary (MD=1.78, p=0.11) stability, nor for MBL or plaque index; OD favored only on 12-month probing depth and palatal crestal bone level — narrowing OD's defensible advantage and challenging claims of universal stability benefit.
+
 ## 한줄요약
 SR+MA (7개 연구): 저밀도골에서 골밀도화(Osseodensification, OD) vs 일반 절삭드릴(Conventional Drilling, CD) — 임플란트 안정성 지수(Implant Stability Quotient, ISQ) 기준 1차(MD=4.13, p=0.13)·2차(MD=1.78, p=0.11) 안정성 모두 유의차 없음. 변연골소실(Marginal Bone Loss, MBL)·치태지수(Plaque Index, PI)도 차이 없음. 12개월 prob depth(Probing Depth, PD)만 OD 유의 낮음, 구개측 치조정골(Crestal Bone Level, CBL)도 OD 유리. 결론: 장기 우월성 입증 부족 — 더 많은 RCT 필요.
 
