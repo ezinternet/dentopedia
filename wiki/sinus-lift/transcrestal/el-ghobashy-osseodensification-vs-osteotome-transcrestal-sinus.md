@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, osteotome, RCT, ISQ, Densah]
 ---
 
+## One-line Summary
+RCT (n=11, 12 implants, RBH 5–8 mm, 6-month): osseodensification (OD, Densah burs) vs osteotome for transcrestal sinus floor elevation — OD yields significantly higher primary stability ISQ (66.17 vs 54.83, p=0.043) and significantly superior secondary stability, with shorter operating time (p=0.002) and equivalent postoperative pain/edema.
+
 ## 한줄요약
 RCT(n=11, 12개 임플란트, RBH 5–8mm, 6개월): Densah OD vs 오스테오톰 경치조골 거상 — OD 1차 안정성 ISQ 유의하게 높음(66.17 vs 54.83); 수술 시간도 단축.
 
