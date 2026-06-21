@@ -16,6 +16,9 @@ relations:
     target: derks-2015-peri-implant-health-disease-epidemiology
 ---
 
+## One-line Summary
+AO/AAP SR+MA (102 studies, 13,030 patients) of peri-implant disease epidemiology and risk indicators: prevalence of peri-implant mucositis 46% (CI 41–51%) and peri-implantitis 21% (CI 17–24%); periodontitis and smoking are consistent risk indicators for both, with obesity (mucositis) and diabetes/alcohol (peri-implantitis) also significant.
+
 ## 한줄요약
 SR+MA(102개 연구, 13,030명): 임플란트 주위 점막염 46%, 임플란트 주위염 21%; 치주염·흡연이 두 질환 모두의 위험지표, 당뇨·비만·알코올도 유의미.
 
