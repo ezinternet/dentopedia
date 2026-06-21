@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative consensus review (Korean Academy of Periodontology, J Periodontal Implant Sci 2024) on peri-implant diseases: peri-implant mucositis prevalence 43%, peri-implantitis 22%; key risk indicators are poor oral hygiene, periodontitis history, diabetes, and smoking; treatment hierarchy is non-surgical for mucositis and mechanical/chemical debridement plus surgical access for peri-implantitis, with removal and reconstruction for failed implants.
+
 ## 한줄요약
 대한치주과학회 합의안 narrative review (J Periodontal Implant Sci 2024): peri-implant mucositis 43% + peri-implantitis 22% 유병률. 위험인자: 구강위생 불량, periodontitis 병력, 당뇨, 흡연. 치료: mucositis는 비외과, peri-implantitis는 mechanical+chemical debridement + 외과 access; 실패한 implant는 제거 후 결손 복원. 한국 임상 가이드 정리.
 
