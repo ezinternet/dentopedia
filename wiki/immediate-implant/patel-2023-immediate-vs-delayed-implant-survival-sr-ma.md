@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/patel-2023-immediate-vs-delayed-impla
 pdf_filename: patel-2023-immediate-vs-delayed-implant-survival-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: reinforces
+    target: ragucci-2020-immediate-implant-molar-extraction-sockets
 ---
 
 ## One-line Summary
