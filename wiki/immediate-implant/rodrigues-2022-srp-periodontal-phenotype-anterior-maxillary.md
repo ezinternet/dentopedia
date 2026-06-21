@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Combined clinical and CBCT cross-sectional study of maxillary anterior teeth finding significant associations between Kan-class sagittal root position (SRP) and periodontal phenotype (gingival biotype, bone wall thickness); thinner phenotypes were overrepresented in Class I and Class IV, the highest-risk profiles for IIP recession.
+
 ## 한줄요약
 임상+CBCT 통합 분석: SRP class와 치주 phenotype(gingival biotype, bone thickness) 사이 연관 — Class IV/얇은 phenotype 조합은 즉시식립 시 high-risk profile.
 
