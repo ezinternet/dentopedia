@@ -13,6 +13,9 @@ source_collection: external
 tags: [mini-implant, MDI, overdenture, attachment, telescopic, MBL, bite-force]
 ---
 
+## One-line Summary
+SR+MA (6 RCTs, 101 patients, 234 mini dental implants): in mini dental implant (MDI, <3 mm) retained mandibular overdentures, ball, bar, and ERA® attachments yield equivalent marginal bone loss (MBL) while telescopic attachments cause significantly greater MBL (p<0.05); maximum bite force and implant survival do not differ by attachment, and ball attachments have the lowest 1-year prosthetic maintenance.
+
 ## 한줄요약
 SR+MA(RCT 6편, 101명·234 미니임플란트): 미니임플란트(MDI, <3 mm) 오버덴쳐에서 **볼·바·ERA 어태치먼트는 변연골소실(MBL) 동등, 텔레스코픽은 유의하게 MBL 큼(p<0.05)**; 최대교합력·생존율 차이 없음; 볼이 1년 합병증 최저.
 
