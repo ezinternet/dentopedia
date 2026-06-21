@@ -13,6 +13,9 @@ source_collection: external
 tags: [socket-augmentation, prf, ridge-preservation, growth-factors, bone-regeneration]
 ---
 
+## One-line Summary
+Narrative review: combining autologous platelet-rich fibrin (PRF) with bone grafts in alveolar ridge preservation (ARP) accelerates soft- and hard-tissue healing via growth-factor release (PDGF/TGF-β/VEGF/IGF) and angiogenesis; ~50% of implant sites overall (75% in the anterior maxilla) require augmentation, and PRF is framed as a bio-enhancer of scaffolds rather than a standalone graft.
+
 ## 한줄요약
 발치 후 치조제 보존 (Alveolar Ridge Preservation, ARP)에서 자가 혈소판풍부피브린 (Platelet-Rich Fibrin, PRF)을 골이식재와 병용하면 성장인자 방출과 혈관신생을 통해 연·경조직 치유를 가속한다고 정리한 서술적 종설.
 
