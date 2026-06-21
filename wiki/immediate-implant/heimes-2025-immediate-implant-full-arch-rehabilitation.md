@@ -13,6 +13,9 @@ source_collection: external
 tags: [full-arch, immediate-implant, immediate-loading, All-on-4, MBL, prosthesis-survival, QoL, rehabilitation]
 ---
 
+## One-line Summary
+Narrative review (Int J Prosthodont 2025) of immediate implant placement and restoration in full-arch situations: implant survival >97%, success >95%, marginal bone loss (MBL) 0.29–1.48 mm over 1–5 years, prosthesis survival often >98%, and significantly improved quality of life, with mechanical complications remaining clinically significant.
+
 ## 한줄요약
 narrative-review(Int J Prosthodont 2025 Suppl, Mainz/Berlin): 전악 즉시식립·즉시수복 — 임플란트 생존율 >97%·성공율 >95%; MBL 0.29–1.48mm(1-5년); 보철 생존율 >98%; QoL 유의하게 향상; 기계적 합병증 상존.
 
