@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Comprehensive narrative review of oral potentially malignant disorders (OPMD), covering WHO classification (leukoplakia, erythroplakia, OLP, OSF, actinic cheilitis), risk factors, malignant transformation rates (OLP ~0.5–1.4%, leukoplakia ~3–17.5% with non-homogeneous highest), and management via risk-factor elimination, excision, and surveillance.
+
 ## 한줄요약
 OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
 
