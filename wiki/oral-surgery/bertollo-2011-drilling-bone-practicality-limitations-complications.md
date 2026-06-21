@@ -13,6 +13,9 @@ source_collection: external
 tags: [bone-drilling, thermal-necrosis, drill-geometry, osseodensification-rationale, biomechanics]
 ---
 
+## One-line Summary
+Orthopaedic engineering book chapter (narrative review) on the biomechanics of bone drilling, consolidating the time–temperature osteonecrosis thresholds (47 °C/1 min, 50 °C/30 s, 56 °C) that underpin all irrigation and drill-sequencing protocols; provides the thermodynamic rationale for implant osteotomy cooling and compaction (osseodensification) drilling, though most data derive from large-diameter orthopaedic drills rather than dental implant burs.
+
 ## 한줄요약
 정형외과 공학 단행본 챕터 (narrative review) — 골 (bone) 드릴링 시 열에너지 변환 메커니즘과 골괴사 (Osteonecrosis) 임계값 (47°C/1분, 50°C/30초, 56°C 이상)을 정리; 임플란트 골삭제 (osteotomy) 시 관주 (irrigation)·전진속도 (feed-rate)·버 (bur) 기하학 설계 근거의 기초 자료. 임상 적용 한계: 치과 임플란트(2–6 mm 직경, 50–1500 rpm)가 아닌 정형외과 큰 직경 드릴 데이터가 다수이므로 직접 외삽 시 주의.
 
