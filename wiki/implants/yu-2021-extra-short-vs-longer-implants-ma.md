@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (21 RCTs) comparing extra-short (≤6 mm) vs longer (≥8 mm) implants: no survival difference at 1y (RR 1.002) or 3y (RR 0.996), longer implants higher survival at 5y (RR 0.970, p<0.05) but parity in the bone-augmentation subgroup; extra-short favored for marginal bone loss (WMD −0.22 mm) and biological complications (RR 0.321) — extra-short implants are an acceptable alternative to augmentation + long implants.
+
 ## 한줄요약
 SR+MA (21 RCT): extra-short ≤6mm vs long ≥8mm — 1·3년 survival 차이 없음, 5년에는 longer가 우세(RR 0.970). 단 augmentation 동반 5년 비교에서는 short가 비열등. MBL과 biological complications는 short가 유리. 결론: short implant는 augmentation 대안으로 수용 가능.
 
