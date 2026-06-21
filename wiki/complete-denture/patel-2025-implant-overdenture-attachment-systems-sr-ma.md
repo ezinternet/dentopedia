@@ -13,6 +13,9 @@ source_collection: external
 tags: [overdenture, attachment, locator, bar, telescopic, magnet, prosthodontic-complications]
 ---
 
+## One-line Summary
+SR+MA (14 RCT/crossover trials, all low risk of bias): among implant overdenture attachment systems, bar gives the highest retention, telescopic the highest patient satisfaction, locator is favorable for limited interarch space or angulated implants, and magnet performs worst on both retention and soft-tissue response; implant survival is independent of attachment type.
+
 ## 한줄요약
 SR+MA(RCT/크로스오버 14편): 임플란트 오버덴쳐 어태치먼트 중 **바**는 유지력 최고, **텔레스코픽**은 환자만족도 최고, **로케이터**는 협소한 악간공간·경사 임플란트에 유리, **자석**은 유지력·연조직 반응 모두 열위; 임플란트 생존율은 어태치먼트 종류와 무관.
 
