@@ -18,6 +18,8 @@ tags: [schneiderian-membrane, transcrestal-sinus-elevation, graftless, membrane-
 relations:
   - type: reinforces
     target: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
+  - type: reinforces
+    target: guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus
 ---
 
 ## One-line Summary
