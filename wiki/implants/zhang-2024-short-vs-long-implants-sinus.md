@@ -13,6 +13,9 @@ source_collection: external
 tags: [short-implant, sinus-floor-elevation, posterior-maxilla, network-meta-analysis, marginal-bone-loss]
 ---
 
+## One-line Summary
+Network meta-analysis (17 studies, 1,076 patients, 1,751 implants) of posterior-maxilla strategies — short implants (4–8 mm) without sinus elevation vs long implants (≥8 mm) with immediate or delayed sinus floor elevation (SFE): implant survival statistically indistinguishable (failure long vs short OR 1.26, NS) but short implants showed significantly less marginal bone loss (MBL), with complication trends also favoring short.
+
 ## 한줄요약
 네트워크 메타분석 (Network Meta-Analysis, NMA), 17건/환자 1,076명/임플란트 1,751개: 후방 상악동 거상술 (Sinus Floor Elevation, SFE)에서 단축형 임플란트 (Short Implant, 4–8 mm)는 장축형 (≥8 mm) 대비 생존율은 차이 없지만 변연골소실 (Marginal Bone Loss, MBL)이 통계적으로 유의하게 적음.
 
