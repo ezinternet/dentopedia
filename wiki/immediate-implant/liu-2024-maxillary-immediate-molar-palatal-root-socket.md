@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Case report (2-year follow-up) of maxillary immediate molar implant placement using the palatal root socket as primary anchorage when the inter-radicular septum is inadequate, with stable implant integration and peri-implant bone at 2 years.
+
 ## 한줄요약
 Case report (2년 추적): 상악 대구치 발치 시 palatal root socket을 단일 지지부로 사용한 즉시 식립 — 격중격이 불충분한 경우의 대안 기법.
 
