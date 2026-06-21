@@ -13,6 +13,9 @@ source_collection: external
 tags: [composite, amalgam, cochrane, posterior, survival, secondary-caries]
 ---
 
+## One-line Summary
+Cochrane systematic review (2021 update) of direct composite vs amalgam fillings in permanent posterior teeth found comparable 5-year survival but a slightly higher secondary-caries trend for composite with uncertain non-inferiority; heterogeneity high and blinding inherently difficult.
+
 ## 한줄요약
 구치부 영구치 직접 복합레진 vs 아말감 Cochrane SR (2021 업데이트): 5년 생존율 유사하나 복합레진의 이차우식 위험 비열등성 불확실.
 
