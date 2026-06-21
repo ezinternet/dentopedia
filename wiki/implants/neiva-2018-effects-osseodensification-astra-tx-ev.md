@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Conference e-poster abstract (sheep iliac bone, 6 animals, n=36/system) comparing osseodensification (OD, Densah CCW) vs standard drilling vs Densah CW on Astra TX and EV implants: OD substantially raised insertion torque (IT) and RFA regardless of system, but improved bone-to-implant contact (BIC)/BAFO mainly on the EV (newer, aggressive-thread) system — OD efficacy is implant-design dependent.
+
 ## 한줄요약
 EAO 2018 e-poster abstract (sheep, 6마리·hip): Astra TX vs EV 임플란트에 골밀도화(Osseodensification, OD, Densah CCW) vs 표준 절삭(R) vs Densah CW — IT/RFA는 OD가 압도적 우위(시스템 무관), 골-임플란트 접촉률(Bone-to-Implant Contact, BIC)/BAFO는 EV에서 OD가 R보다 크게 우위(TX는 차이 미미). EV가 두 시스템 비교에서 모든 protocol에서 OD 활용도 우월.
 
