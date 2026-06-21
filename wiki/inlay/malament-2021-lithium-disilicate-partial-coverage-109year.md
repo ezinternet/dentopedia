@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Long-term retrospective study (n=551 pressed acid-etched lithium disilicate partial-coverage restorations: 246 inlays, 305 onlays; up to 10.9 years) reporting 95.6% 10-year cumulative survival and 0.3% annual failure rate, with onlays outperforming inlays (98.3% vs 93.9%), higher molar failure risk, and bulk fracture as the only failure mode (no debonding).
+
 ## 한줄요약
 후향적연구(n=551, 최대 10.9년): 프레스 리튬디실리케이트 인레이/온레이 — 10년 생존율 95.6%; 연간실패율 0.3%; 인레이 93.9% vs 온레이 98.3%; 대구치 위험 높음; 파절이 유일 실패 양식
 
