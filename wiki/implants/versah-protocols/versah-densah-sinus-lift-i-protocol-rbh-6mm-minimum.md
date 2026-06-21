@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Versah Densah manufacturer protocol card (narrative-review, 2-page, REV09) for osseodensification (OD)-facilitated crestal sinus floor elevation when residual bone height (RBH) ≥6 mm and crestal width ≥4 mm: pilot drill (1 mm below sinus) → Densah 2.0 OD (CCW, 1000 rpm) → staged 3.0/4.0/5.0 expansion up to 3 mm past the sinus floor, lifting the membrane via compaction autografting; Densah-specific, no quantitative outcomes.
+
 ## 한줄요약
 Versah Densah® 골밀도화(Osseodensification, OD) 경치조골 상악동 거상(Crestal Sinus Lift) 프로토콜 I — 잔존 골높이(Residual Bone Height, RBH) ≥6 mm, 치조정 폭 ≥4 mm 적응. 순서: pilot drill(상악동 1 mm 아래) → Densah 2.0 OD(CCW 1000 rpm, irrigation) → 3.0/4.0/5.0 단계적 확장(상악동 바닥 3 mm 통과까지). Compaction autografting으로 점진 막 거상.
 
