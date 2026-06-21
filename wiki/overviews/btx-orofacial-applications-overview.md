@@ -31,6 +31,10 @@ tags: [botulinum-toxin, btx, bonta, masseter, tmd, bruxism, gummy-smile, lip-rep
 > - 흔한 오판: ① "BoNT-A는 안전한 미용 시술" (반복주사 부작용 명확), ② "TMD 통증에 BoNT-A 1차" (표준치료·스플린트 대비 NS), ③ "임플란트 환자에 BoNT-A 무관" (동물 BIC↓). 모두 교정 필요.
 > - 임상 결론: 단기 효과·수면질 개선은 명확하나 반복주사·교근위축·임플란트 골유착 부정 영향은 환자 동의 필수 항목. 스플린트와 BoNT-A는 목표에 따라 선택 (통증=동등, 치아보호=스플린트 우선).
 
+## One-line Summary
+
+Synthesis integrating ~27 papers (wiki/botulinum-toxin 24 + tmj 3) on Botulinum Toxin Type A (BoNT-A) orofacial applications across 6 axes — gummy smile, myogenous TMD/myofascial pain, masseter hypertrophy/bruxism, lateral pterygoid injection guidance, implant/skeletal effects, and sleep quality. Core thesis: BoNT-A efficacy varies sharply by indication, so the framing of "a safe cosmetic procedure" is misleading — gummy smile improves a pooled ~3.2 mm but decays by 6 months (Rojo-Sanchis 2023 SR+MA), TMD pain beats placebo but is non-significant vs splint/standard care (so BoNT-A is second-line), and repeated masseter injection carries a clear trade-off (atrophy + temporalis compensatory hypertrophy + reduced bone density, with animal data showing lower bone-to-implant contact). Clinical takeaway: short-term symptom relief and sleep-quality gains are real, but repeated-injection atrophy and implant osseointegration risk must be explicit consent items.
+
 ## 한줄요약
 
 보툴리눔독소 A(Botulinum Toxin Type A, BoNT-A) 구강안면 응용 24편 통합. ①gummy smile/lip — pooled 3.2mm 개선, 효과 2주 발현·3개월 peak; ②근원성 TMD/myofascial pain — placebo 우위, 표준치료·스플린트 대비 동등; ③브럭시즘·수면질 — PSQI 지속 개선 2편 추가; ④마스세터 위축 vs 탄성 회복 타임라인(USE); ⑤하악골 피질골 리모델링 — BoNT-A 치료군 cortical thickness↑; ⑥임플란트 골유착 부정 — 동물 데이터.
