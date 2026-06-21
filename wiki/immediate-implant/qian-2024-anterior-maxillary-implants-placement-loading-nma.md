@@ -13,6 +13,9 @@ source_collection: external
 tags: ['anterior maxilla', 'placement timing', 'loading timing', 'network meta-analysis']
 ---
 
+## One-line Summary
+Systematic review and network meta-analysis (Semmelweis group) comparing all placement (type 1–4) × loading (immediate/early/conventional) protocol combinations for single anterior maxillary implants on survival, MBL, PES, and patient satisfaction; type 1A/1B are equivalent to conventional protocols under appropriate case selection but more operator/case-dependent.
+
 ## 한줄요약
 SR+NMA (Semmelweis): 상악 전치부 단일 임플란트 — type 1/2/3/4 placement × immediate/early/conventional loading 조합 — 생존율·MBL·심미·PROMs 비교; 다양한 프로토콜 직접·간접 비교.
 
