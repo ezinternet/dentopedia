@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+20-year prospective cohort (n=112) showing significantly lower implant survival in periodontitis-history patients (81.0%) vs non-periodontitis patients (91.2%, p<0.05) and greater MBL (2.1mm vs 1.3mm), with periodontitis history a significant risk factor (HR ≈2 for failure) and regular SPT compliance the critical modifying factor.
+
 ## 한줄요약
 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
 
