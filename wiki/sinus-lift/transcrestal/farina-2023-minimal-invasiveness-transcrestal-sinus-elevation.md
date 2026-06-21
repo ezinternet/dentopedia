@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review (19 articles / 15 studies): transcrestal sinus floor elevation (tSFE) is minimally invasive and clinically effective for the atrophic posterior maxilla, and invasiveness is further reduced by powered pressure-controlled instruments, standardized RBH-adapted drill/trephine sequences, and combining procedures — supporting immediate tSFE + implant placement at molar extraction sites with interradicular septum ≥4 mm (postoperative VAS pain typically <12/100).
+
 ## 한줄요약
 체계적 문헌고찰 (19편): 경치조골 상악동거상술 (transcrestal Sinus Floor Elevation, tSFE)에서 회전 동력 기구 + 스톱 장치 + 표준화된 드릴 시퀀스(트레핀 포함)는 임상 효과를 유지하면서 침습성을 유의하게 낮추며, 잔존골 (Residual Bone Height, RBH) 4 mm 이상의 대구치 발치공 격벽이 있으면 즉시식립까지 함께 시행할 수 있다.
 
