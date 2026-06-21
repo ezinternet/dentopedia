@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Retrospective culture analysis of 63 consecutive Ludwig's angina cases (predominantly odontogenic) showing Gram-positive streptococci — intrinsically resistant to aminoglycosides — as the dominant organisms; concludes empirical aminoglycoside use is not microbiologically justified and β-lactam-based regimens (e.g., ampicillin-sulbactam or β-lactam + metronidazole) are more appropriate, in a population with high diabetes and HIV prevalence.
+
 ## 한줄요약
 후향적 연구(n=63): 루드비히 앙기나의 균 배양 결과는 아미노글리코사이드에 내성인 연쇄구균이 주요 원인균으로, 경험적 아미노글리코사이드 사용은 미생물학적 근거가 부족함.
 
