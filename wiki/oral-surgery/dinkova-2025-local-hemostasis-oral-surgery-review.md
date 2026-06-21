@@ -13,6 +13,9 @@ source_collection: external
 tags: [hemostasis, bleeding, oral-surgery, tranexamic-acid, PRP, fibrin-sealant, anticoagulant]
 ---
 
+## One-line Summary
+Narrative review (51 studies, 1990–2023) of local hemostatic agents in oral surgery: oxidized cellulose/gelatin sponges control >85% of standard cases, tranexamic acid (TXA) mouthwash reduces bleeding 50–60%, and fibrin sealants achieve 70–90% reduction in high-risk anticoagulated patients without raising thromboembolic risk.
+
 ## 한줄요약
 서술적 고찰 (51편): 산화셀룰로오스·젤라틴 스폰지 표준 85% 이상 지혈; 트라넥삼산 구강세정 50–60% 출혈 감소; 피브린 실란트 고위험 환자 70–90% 효과.
 
