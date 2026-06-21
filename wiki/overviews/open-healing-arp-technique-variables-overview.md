@@ -27,6 +27,10 @@ tags: [overview, alveolar-ridge-preservation, open-healing, flapless, suture-tec
 > - 근거 한계: Park 그룹 연작은 모두 소규모(n=11~20) 단일기관 RCT — 검정력 한계, 환자중심결과(PROM) 거의 부재, 장기(>5년) 추적 빈약.
 > - 최종 판단은 원장 몫 — ladder는 임상 근거의 외삽이며 PROM 직접 근거는 빈약함.
 
+## One-line Summary
+
+Synthesis of open-healing alveolar ridge preservation (ARP) technique variables (flap, suture, membrane layers, graft compressive force): bone-dimension outcomes are driven by the graft+open-healing protocol and site anatomy while micro-technique is largely equivalent — what technique actually moves is soft tissue, since flap elevation costs ~3.21 mm keratinized gingiva width vs flapless (Lee 2018 SR+MA); "statistical dimensional preservation ≠ patient benefit" (Adams 2022) argues for narrower indications, and the evidence base is mostly small single-center RCTs lacking patient-reported outcomes (PROMs).
+
 ## 한줄요약
 Open-healing(노출 치유) 치조제 보존술(ARP) 술기 변수 종합: 골 치수 보존의 큰 결과는 graft+개방치유 프로토콜과 부위 해부가 좌우하고, 미세 술기(막 층수·압축력)는 대체로 등가다. 술기 선택이 실제로 움직이는 건 연조직 — 무판막·hidden X suture·노출막이 각화치은(KT)을 지킨다. 단 "통계적 치수 보존 ≠ 환자 이득"(Adams 2022)이라 적응증은 좁혀야 한다. 근거는 대부분 소규모 단일군 RCT + PROM 부재.
 
