@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+3D finite element analysis (FEA) of five crown–abutment material combinations on a mandibular molar implant (vertical 600 N / oblique 225 N @ 45°): a CAD/CAM zirconia crown + 3D-printed ceramic-filled hybrid abutment minimized stress, reducing custom-abutment von Mises stress by ~90% and Ti-base stress by ~27%, while peri-implant cortical/cancellous bone stress was relatively insensitive to material choice.
+
 ## 한줄요약
 3D FEA: CAD/CAM zirconia crown + 3D-printed ceramic-filled hybrid abutment 조합이 custom abutment 응력 -90%, Ti-base 응력 -27%로 가장 우수. cortical/cancellous bone 응력은 그룹 간 큰 차이 없음.
 
