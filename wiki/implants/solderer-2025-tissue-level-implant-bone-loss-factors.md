@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective cohort (University of Zurich, tissue-level implants; n=106 implants at 1yr, 59 at 3yr): mean marginal bone loss (MBL) was 0.93 mm at 1 year and 1.04 mm at 3 years, with smoking and jaw of treatment significantly associated with greater bone loss, while age, sex, and periodontitis history were not significant predictors (elastic net regression).
+
 ## 한줄요약
 후향적연구(n=106 임플란트, 1년/59개 3년): 조직수준 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 골소실과 유의하게 연관
 
