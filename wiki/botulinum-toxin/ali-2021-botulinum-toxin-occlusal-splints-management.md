@@ -14,6 +14,9 @@ source_collection: external
 tags: [BTX, occlusal-splint, sleep-bruxism, implant-overdenture, PSQI, Bruxoff, RCT, 12-month-follow-up]
 ---
 
+## One-line Summary
+3-arm RCT (n=42, 12 months) in implant-overdenture sleep bruxers: both BTX and occlusal splint significantly improved PSQI sleep quality and patient satisfaction over overnight-OD-removal control (p≤0.0013), with BTX achieving the lowest scores at 9–12 months.
+
 ## 한줄요약
 3-arm RCT (n=42, 12개월) implant overdenture bruxer — BTX와 splint 모두 PSQI·환자만족도 유의 개선 (p≤0.0013), BTX가 9-12개월 시점에서 가장 우수.
 
