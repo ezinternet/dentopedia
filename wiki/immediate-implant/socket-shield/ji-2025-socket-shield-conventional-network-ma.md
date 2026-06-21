@@ -17,6 +17,9 @@ relations:
     target: ogawa-2022-socket-shield-technique-systematic-review
 ---
 
+## One-line Summary
+Systematic review and network meta-analysis — the first major NMA in the field — comparing the socket-shield technique (SST) against multiple conventional implantation approaches (immediate/early/delayed and variants) in the esthetic zone, providing direct-plus-indirect ranking that signals SST esthetic (PES) superiority and serving as the highest-evidence anchor for esthetic-zone implant decisions.
+
 ## 한줄요약
 Network MA (General Hospital Northern Theater Command + Dalian/China Medical Univ, JPD 2025): SST vs conventional implantation in **esthetic zone** — multi-intervention network MA, SST 분야 최고 evidence-level. Pairwise MA보다 정밀한 ranking 제공.
 
