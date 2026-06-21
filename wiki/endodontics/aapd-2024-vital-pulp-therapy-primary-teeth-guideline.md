@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+AAPD 2024 consensus guideline on vital pulp therapy (VPT) for primary teeth (IPC, DPC, pulpotomy): MTA is the first-choice pulpotomy material (~93% 24-month success) with formocresol still acceptable (85–92%) when MTA is unavailable, and MTA/Biodentine preferred over Ca(OH)₂ for direct pulp capping.
+
 ## 한줄요약
 AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
 
