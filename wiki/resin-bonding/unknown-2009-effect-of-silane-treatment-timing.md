@@ -14,6 +14,9 @@ tags: [silane-coupling-agent, saliva-contamination, ceramic-resin-cement, adhesi
 ---
 
 
+## One-line Summary
+In vitro bond-strength study showing saliva contamination of a silane-treated ceramic surface for more than 1 second significantly reduces ceramic–resin cement bond strength (p<0.05); pre-try-in silane application, or recleaning plus silane reapplication after contamination under rubber-dam isolation, is required to protect the bond.
+
 ## 한줄요약
 타액 노출 1초 이상 → 세라믹-레진 결합강도 유의 감소(p<0.05); 시적 전 실란 도포 또는 오염 후 재도포 + 러버댐 차단 필수
 
