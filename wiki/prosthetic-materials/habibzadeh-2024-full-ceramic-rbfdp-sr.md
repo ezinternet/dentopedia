@@ -13,6 +13,9 @@ source_collection: external
 tags: [rbfdp, resin-bonded-bridge, all-ceramic, zirconia, cantilever, debonding]
 ---
 
+## One-line Summary
+Systematic review (14 studies, 2010–2020) of full-ceramic resin-bonded fixed dental prostheses (RBFDPs): 3–10-year survival 76–100%, cantilever single-abutment design outperforming two-abutment fixed-fixed, zirconia frameworks (IPS e.max ZirCAD / In-Ceram zirconia) superior to In-Ceram alumina, retentive features (box/groove/pinhole) improving survival, and debonding the most common failure mode.
+
 ## 한줄요약
 Full-ceramic 레진본드 보철물(RBFDP) 14편 SR: 3–10년 생존율 76–100%, cantilever (단일 abutment) 디자인이 fixed-fixed보다 우세, IPS e.max ZirCAD·In-Ceram zirconia·CAD/CAM 지르코니아가 주류 framework, debonding이 최다 실패 양상.
 
