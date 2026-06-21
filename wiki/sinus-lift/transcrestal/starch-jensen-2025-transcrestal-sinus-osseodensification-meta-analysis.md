@@ -14,6 +14,9 @@ source_collection: external
 tags: [TSMEOD, osseodensification, OMSFE, MSFA, ISQ, sinus-lift, SR-MA, GRADE-low]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (SR+MA, 6 RCTs, high bias, low GRADE): osseodensification-mediated transcrestal sinus floor elevation (TSMEOD) significantly raised implant stability quotient (ISQ) at placement and abutment connection versus osteotome (OMSFE) or lateral window (MSFA), with equal implant survival and reduced surgery time, complications, and analgesic use — but less endo-sinus bone gain than MSFA.
+
 ## 한줄요약
 SR+MA (6 RCTs, low GRADE): TSMEOD(osseodensification)가 osteotome·측방창 대비 식립시·지대주 연결시 ISQ 유의하게 높음; 생존율 동등
 
