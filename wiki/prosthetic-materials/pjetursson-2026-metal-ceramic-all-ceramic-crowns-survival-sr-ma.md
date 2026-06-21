@@ -13,6 +13,9 @@ source_collection: external
 tags: [crown, metal-ceramic, zirconia, lithium-disilicate, survival-rate, chipping, monolithic]
 ---
 
+## One-line Summary
+SR+MA (64 studies, 11,560 tooth-supported single crowns) of crown material/design survival: monolithic lithium disilicate had the highest 5-year survival (98.5%), statistically comparable to veneered zirconia (97.3%) and metal-ceramic (97.1%); monolithic designs showed significantly fewer ceramic fractures and chipping than veneered alternatives.
+
 ## 한줄요약
 SR+MA (64편, 11,560개 크라운): 단일체 리튬 디실리케이트가 5년 생존율 98.5%로 최고, 지르코니아·금속도재관(97.1%)과 유사; 단일체 디자인이 베니어 방식 대비 세라믹 파절·치핑을 유의하게 감소.
 
