@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, transcrestal, osseodensification, osteotome, sr+ma, complication-rate]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (SR+MA; 13 studies, 519 sites — 10 osteotome [OST], 3 osseodensification [OD]): bone gain was similar (OD 3.37 mm vs OST 3.18 mm) and implant survival equivalent (94.1–100%), but the complication rate was ~5× lower with OD (2.78%) than OST (14.32%); interpretation is limited by sparse OD evidence (n=3) and higher baseline residual bone height (RBH) in the OD arm (5.94 vs 5.00 mm).
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 13 연구 / 519 부위 (osteotome 10, 골밀도화 (Osseodensification, OD) 3) — 골 (bone) 증가량은 유사 (OD 3.37 mm vs OST 3.18 mm), 임플란트 생존율 94.1–100%로 동등했으나 합병증 발생률이 OST 14.32% vs OD 2.78%로 약 5배 낮았음. 임상 적용 한계: OD 연구 수 (n=3)가 적고 잔존골높이 (Residual Bone Height, RBH) 기저값이 OD군에서 더 높아 (5.94 vs 5.00 mm) 결과 해석 시 baseline 편차 고려 필요.
 
