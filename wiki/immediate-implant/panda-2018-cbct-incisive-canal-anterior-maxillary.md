@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cross-sectional CBCT study evaluating incisive canal dimensions and anterior maxillary labial/palatal bone thickness, quantifying how palatal immediate implant placement (IIP) trajectories may approach the canal walls and highlighting the incisive canal as an under-appreciated anatomic constraint in central incisor IIP.
+
 ## 한줄요약
 CBCT 단면(인도 인구): 절치공(incisive canal) 위치 및 전치부 골 두께 평가 — 즉시 식립 시 절치공 침범 위험과 협측·구개측 골 잔량을 정량.
 
