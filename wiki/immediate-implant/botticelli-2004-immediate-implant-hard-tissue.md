@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, ridge-resorption, buccal-bone, extraction-socket, hard-tissue]
 ---
 
+## One-line Summary
+Prospective human in-vivo study (18 subjects, 21 immediate implants, J Clin Periodontol 2004) with 4-month surgical re-entry and no membrane or grafting: buccal bone height was reduced by ~56% and lingual/palatal by ~30% despite immediate placement (marginal gap filled with woven bone) — immediate implant placement does NOT substitute for ridge preservation.
+
 ## 한줄요약
 in-vivo(J Clin Periodontol 2004): 18명 21개 즉시식립, 막/골이식 없이 4개월 — 협측골 56% 흡수, 구개/설측 30%; 즉시식립은 치조제 보존 불가.
 
