@@ -1369,6 +1369,8 @@ tags: []
 - [[tmj/koole-2019-spray-stretch-technique-mouth-opening]] — 전향 임상연구 (n=121: 통증 60+대조 61): vapocoolant 분사신장이 최대개구량(MMO) 즉시 증가, 통증군>대조군(P<.001); 통증 없는 stretch 대안 (J Prosthet Dent 2019, 초록 기반)
 - [[tmj/pal-2014-trends-management-myofascial-pain]] — Narrative review (악안면): 마스티케이션 근막통 2단계 치료 알고리즘 — 분사신장·교합스플린트·물리치료(초음파·TENS·LLLT)·트리거포인트 주사·근이완제·TCA·BTX (Natl J Maxillofac Surg 2014, 전문)
 - [[tmj/vazquez-delgado-2010-myofascial-pain-differential-diagnosis-treatment]] — Narrative review (구강안면통증 유닛): 트리거포인트 치료 중 분사신장+직접 주사가 최선; 만성 시 정신사회 개입·예후 악화 (Med Oral Patol Oral Cir Bucal 2010, 초록 기반)
+- [[tmj/ustun-2024-dry-needling-cold-spray-stretching-rct]] — RCT (n=60, **상부 승모근**·전이가능 근거): 분사신장 vs 건침 3주 — 둘 다 호전, 분사신장이 압통역치·NDI에서 건침보다 우수(P<.008, P<.028); 분사신장 비열등 (J Ultrasound Med 2024, 초록 기반)
+- [[tmj/martin-pintado-2014-spray-stretch-postneedling-soreness-rct]] — RCT (n=70 건강인, **승모근 잠복 TrP**·전이가능): 분사신장이 건침후통증 감소하나 효과 <6h, 압통역치 무변화; 심리 디스트레스↔처치후 통증 상관 (Arch Phys Med Rehabil 2014, 초록 기반)
 - [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] — SR (20연구): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%+ 비수술 관리 가능 (Cureus 2024)
 - [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]] — Narrative review: TMD 생물심리사회적 3영역 모델; OPPERA 성인 36% 유병률; DC/TMD 12진단; 보존적 다학제 치료 표준 (Oral Surg 2020)
 - [[tmj/mauro-2024-tmj-management-whats-new-scoping]] — Scoping review (109 SR): TMD 치료 2024 evidence map — PT·CBT 비침습 최강; PRP·오존 신흥; 수술 최후 (Dent J 2024)
@@ -1672,6 +1674,7 @@ tags: []
 - [[overviews/orthodontic-tooth-movement-biology]] — OTM 4축 (분자 모형·PDL biomechanics·동물 인과·임상 ladder) (2026-05-26 신설, 8편): OPG/RANK/RANKL triad + Li 2021 4단계 모형 + Jeon 2021 형질전환 동물 + 임상 가속화 인체 RCT 부족.
 - [[overviews/miniscrew-stability-overview]] — TAD 3축 (실패율·부위별·재사용) (2026-05-26 신설, 3편): Alharbi 2018 SR+MA 13.5% 실패; Mohammed 2018 midpalatal 1.3% vs zygomatic 16.4%; Jahanbin 2025 재사용 in-vitro NS 임상 ↑.
 - [[overviews/tmd-management-evidence-ladder]] — TMD 5축 (역학·보존·중재·이갈이·BTX) (2026-05-26 신설, 13편): BMJ 2023 Rapid Rec + Singh 2024 Cochrane + Zhang 2021 운동≥스플린트 + IJOMS 2023 arthrocentesis MMO +1.12mm + Minakuchi 2022 이갈이.
+- [[overviews/spray-and-stretch-tmd-myofascial-synthesis]] — Synthesis 2026-06-21 (5편): 마스티케이션 근막통 분사신장(vapocoolant) 종합 — 효과는 실재하나 즉시·단시간(<6h)·증상특이적. 마스티케이션 직접근거 비무작위 1편(Koole 2019 MMO↑), RCT는 전부 승모근(Ustun 2024 건침에 비열등, Martín-Pintado 2014 효과<6h), 리뷰 2편이 다모달리티 사다리 속 저비용 보조로 위치. 단독 근치요법 아님.
 - [[overviews/vital-pulp-therapy-decision-ladder]] — VPT 생활치수요법 decision ladder (2026-06-06 신설, 11편): Biodentine OR 4.41·MTA OR 3.02 vs Ca(OH)₂; 전체 성공률 >93%; ESE 2019 IPC→DPC→partial/full pulpotomy 단계; Vital Pulpectomy (Endoseem ≥3mm, WL 근단 2-3mm 단축); SUCRA Biodentine > MTA > TheraCal > Ca(OH)₂.
 - [[overviews/regenerative-endodontics-rep-overview]] — 재생근관치료(REP) 종합 (2026-06-06 신설, 6편): REP ≈ MAP 생존율 97%, 치근 길이·벽 두께 REP 유의 우위; LPRF 비권장(재치료 실패); 1.5% NaOCl + 17% EDTA 2회 세션 표준; F.nucleatum·T.denticola·E.faecalis 100% 검출.
 - [[overviews/cold-plasma-endodontic-disinfection-synthesis]] — 냉대기압 플라즈마(CAP)/비열 플라즈마 근관소독 종합 (2026-06-19 신설, 7편): 40°C 이하 ROS/RNS로 E. faecalis 바이오필름 사멸·내성 비유발; 직접 ≥8–12분 성숙 바이오필름 완전 제거(Li 2015 0 CFU, Armand 2019 ~5.2 log); 위계 NaOCl·TAP > CAP > Ca(OH)₂·PDT·propolis, NaOCl/CHX 병용 시너지; 상아질 미세경도 불변; 유일 사람 RCT 파일럿(Lyu 2025 UDP vs 6% NaOCl, n=28) 4개월 통증·PAI 동등·부작용 0이나 과소검정.
