@@ -13,6 +13,10 @@ source_collection: external
 tags: [miniscrew, TAD, reuse, sterilization, failure-rate, insertion-torque, fracture-torque]
 ---
 
+## One-line Summary
+
+Systematic review and meta-analysis (18 studies; 13 retrieved+sterilized, 5 unused+sterilized) of reused orthodontic miniscrews: in vitro insertion, removal, and fracture torque show no significant difference vs new miniscrews, but reused miniscrews have a significantly higher clinical failure rate (RR 0.46, 95% CI 0.24–0.69), with sterilization method, insertion technique, and patient anatomy as modifying factors.
+
 ## 한줄요약
 SR+MA (18편): 재사용 미니스크류는 체외 삽입·파절 토크에서 새 것과 유의한 차이 없으나, 임상 실패율은 유의하게 높음 (위험비 0.46, 95% CI 0.24–0.69); 멸균 방법·삽입 술기·해부학적 요인이 결과에 영향.
 
