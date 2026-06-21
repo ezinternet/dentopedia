@@ -14,6 +14,9 @@ source_collection: external
 tags: [soft-tissue, keratinized-tissue, fgg, ctg, peri-implant, mucositis, mbl, augmentation]
 ---
 
+## One-line Summary
+SR+MA showing peri-implant soft tissue augmentation (FGG/CTG) significantly increases keratinized tissue (KT) width by 3–4 mm; KT <2mm is associated with higher plaque, bleeding, and marginal bone loss (MBL), so maintaining KT ≥2mm is favorable for long-term implant health.
+
 ## 한줄요약
 SR+MA: FGG/CTG로 각화조직 3–4mm 증가; KT<2mm → 플라크·출혈·MBL↑; 임플란트 건강 위해 ≥2mm 유지 필요
 
