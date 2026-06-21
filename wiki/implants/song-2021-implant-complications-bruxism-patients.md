@@ -14,6 +14,9 @@ source_collection: external
 tags: [implants, bruxism, late-failure, occlusal-overload, fixture-fracture, screw-loosening, occlusal-splint, botulinum-toxin, btx, jkaoms, editors-opinion, jeju-univ]
 ---
 
+## One-line Summary
+JKAOMS Editor's Opinion (2-page narrative commentary): bruxism is a risk factor for late implant complications after osseointegration — fixture/screw/prosthesis fracture, screw loosening, severe marginal bone loss (MBL), and decementation — and the author recommends pre-implant screening (clinical signs plus EMG/polysomnography) with occlusal splint and/or botulinum toxin (BoNT) as preventive management.
+
 ## 한줄요약
 JKAOMS Editor's Opinion(2 pages): 이갈이는 임플란트 late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인이며 식립 전 EMG·PSG 기반 진단 + 교합스플린트·보툴리눔 톡신으로 사전 관리 권고.
 
