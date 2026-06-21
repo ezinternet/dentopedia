@@ -14,6 +14,9 @@ source_collection: external
 tags: [screw-retained, cement-retained, zirconia, implant-crown, sr+ma, MBL, complications, marginal-bone-loss]
 ---
 
+## One-line Summary
+SR+MA (7 studies, 334 zirconia implant crowns, 3–10 years) of screw- vs cement-retained zirconia implant crowns: screw-retained had significantly lower marginal bone loss at 6 months (SMD -0.63, p=0.002) and 46% lower complication risk (RR 0.54, p=0.02), with long-term (1–5 year) MBL comparable between retention types.
+
 ## 한줄요약
 SR+MA(7편, 334개 지르코니아 임플란트 크라운, 3–10년): 나사 유지형 6개월 MBL 유의하게 낮음(SMD -0.63); 장기적 MBL 차이 없음; 합병증 위험 46% 감소
 
