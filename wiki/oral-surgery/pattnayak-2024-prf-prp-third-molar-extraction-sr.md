@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Systematic review (6 studies) comparing platelet-rich fibrin (PRF) vs platelet-rich plasma (PRP) after mandibular third molar extraction: PRF was superior for soft tissue healing and bone density in 4/6 studies (no significant difference in 2/6), and both positively influenced healing, with PRF favored for simpler, fully autologous, additive-free preparation.
+
 ## 한줄요약
 체계적 문헌고찰(6편): 하악 제3대구치 발치 후 혈소판풍부섬유소 (PRF)와 혈소판풍부혈장 (PRP, Platelet-Rich Plasma) 비교 시, 4/6 연구에서 PRF가 연조직 치유 및 골밀도 개선에 유리하며, 준비 용이성·완전 자가 유래 측면에서 PRF가 우수.
 
