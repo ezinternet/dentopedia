@@ -13,6 +13,9 @@ source_collection: external
 tags: [evidence-based-dentistry, ebd, rct-appraisal, sr-appraisal, dentistry-methodology]
 ---
 
+## One-line Summary
+Dentistry-specific evidence-based dentistry (EBD) primer (Progress in Orthodontics 2014) anchored on the three-domain ADA definition (research evidence + clinician expertise + patient values), laying out the 5-step EBD workflow (focused question → identify/synthesize → appraise → apply → audit) and chairside critical-appraisal checklists for RCTs and systematic reviews.
+
 ## 한줄요약
 치과의사용 EBD 입문 리뷰: ADA의 EBD 정의 (evidence + clinician judgment + patient preferences) → 5단계 EBD 실행 프레임 → RCT/SR 비판적 평가 체크리스트로 이어지는 교과서적 가이드 (Progress in Orthodontics 2014).
 
