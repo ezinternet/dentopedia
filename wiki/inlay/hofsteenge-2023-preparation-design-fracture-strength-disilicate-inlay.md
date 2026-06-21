@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+In vitro + FEA study (n=64 human molars) comparing four lithium disilicate preparation designs (Undermined Inlay, Extended Inlay, Restricted Overlay, Extended Overlay) on compromised molars: overlay (cusp-coverage) designs showed significantly superior fracture resistance, and FEA confirmed cusp coverage reduces tooth deformation; IDS was applied to all groups.
+
 ## 한줄요약
 인비트로+FEA(n=64 대구치): 리튬디실리케이트 수복 시 4가지 와동형성 디자인(UI/EI/RO/EO) 비교 — 오버레이 디자인이 파절강도 우수; IDS 적용; FEA에서 교두 피개 시 치아 변형 감소
 
