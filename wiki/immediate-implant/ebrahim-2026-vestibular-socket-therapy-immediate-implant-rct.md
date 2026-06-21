@@ -14,6 +14,9 @@ source_collection: external
 tags: [immediate-implant, vestibular-socket-therapy, VST, Type-II-socket, pericardium-membrane, GBR, PES, Pink-Esthetic-Score, RCT, esthetic-zone]
 ---
 
+## One-line Summary
+RCT (n=20 implants, Elian Type II maxillary non-molar sockets) comparing modified vestibular socket therapy (VST) with pericardium membrane vs open-flap GBR; buccal bone thickness/height gains were equivalent between groups, but VST achieved a significantly higher Pink Esthetic Score at 6 months (12.78±0.83 vs 11.56±1.24, p=0.03), driven mainly by superior mesial/distal papilla.
+
 ## 한줄요약
 Alexandria Univ RCT (BMC Oral Health 2026, n=20 implants, Type II socket 상악 비구치): modified VST(pericardium membrane) vs open-flap GBR — buccal bone 두께·높이는 군간 동등하나 Pink Esthetic Score는 VST 유의 우수 (12.78±0.83 vs 11.56±1.24, p=0.03), 주로 근·원심 papilla.
 
