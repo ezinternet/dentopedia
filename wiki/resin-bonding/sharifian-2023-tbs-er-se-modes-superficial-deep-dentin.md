@@ -14,6 +14,9 @@ source_collection: external
 tags: [microTBS, etch-and-rinse, self-etch, universal-adhesive, deep-dentin, Clearfil-SE-Bond, Scotchbond, in-vitro]
 ---
 
+## One-line Summary
+In vitro µTBS study (40 third molars) comparing Adper Single Bond 2, Clearfil SE Bond, and Scotchbond Universal across etch-and-rinse (E&R) and self-etch (SE) modes: superficial dentin bonded higher than deep dentin (p=0.005), Scotchbond Universal in E&R mode gave the highest overall µTBS, and the universal adhesive's E&R mode significantly outperformed its SE mode.
+
 ## 한줄요약
 In vitro 40개 제3대구치: 표층>심층 덴틴 µTBS(p=0.005); Scotchbond Universal E&R 모드 최고; Universal은 E&R 모드가 SE 모드보다 유의하게 우수; Clearfil SE Bond·Adper Single Bond 2 비교
 
