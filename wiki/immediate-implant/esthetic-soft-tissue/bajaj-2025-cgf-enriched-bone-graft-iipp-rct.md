@@ -13,6 +13,9 @@ source_collection: external
 tags: ['IIPP', 'CGF', 'jump space', 'esthetic zone', 'bone graft']
 ---
 
+## One-line Summary
+RCT (n=40, 12 months) of immediate implant placement with provisionalization (IIPP) in the maxillary esthetic zone, comparing CGF-enriched bone graft vs no graft in the jump space; the CGF group showed significantly better hard-tissue preservation (ridge width, vertical/jump-space and ridge-area dimensions) and a higher Testori esthetic score.
+
 ## 한줄요약
 RCT (n=40, 12개월): 상악 심미부 즉시식립+즉시임시치관 (IIPP) 시 jump space에 CGF 강화 골이식재 사용 vs 비사용 — RW, VD-distal, JS-mesial/distal/buccal, RA-mesial/buccal, Testori 심미점수 (TS)에서 시험군 유의 우위.
 
