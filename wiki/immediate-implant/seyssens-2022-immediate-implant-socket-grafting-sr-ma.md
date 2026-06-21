@@ -16,6 +16,9 @@ relations:
     target: sanz-2017-bone-graft-gap-immediate-implant-rct
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (15 RCTs; 577 patients, 604 implants; IIP+socket grafting 298 vs IIP-only 306; follow-up 4–36 months) showing that grafting the implant-socket gap during single immediate implant placement significantly reduces horizontal hard tissue loss and preserves buccal bone, with equivalent implant survival.
+
 ## 한줄요약
 SR+MA (Cosyn, 15 RCT, n=577명, 604 임플란트 IIP+SG 298 vs IIP 306, follow-up 4-36개월): IIP 시 implant-socket gap에 골이식 (SG) 동반 vs 비동반 — hard tissue·일부 soft tissue 보존 유의.
 
