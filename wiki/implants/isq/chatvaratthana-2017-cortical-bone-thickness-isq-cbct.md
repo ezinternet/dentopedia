@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, CBCT, cortical-bone, bone-thickness, stability, Conelog, prospective]
 ---
 
+## One-line Summary
+Prospective CBCT-to-ISQ correlation study (19 Conelog implants): crestal cortical bone thickness is the dominant ISQ predictor (p<0.001) and bucco-lingual cortical bone at 3 mm is significant (p=0.018), while subcrestal bone at 6–9 mm depth is non-significant — ISQ reflects marginal (cortical) bone quality, not total bone volume.
+
 ## 한줄요약
 전향적 연구(19 Conelog 임플란트, CBCT 상관): 치조정 피질골 두께가 가장 강한 ISQ 예측인자(p<0.001); 협설측 3mm 피질골 유의; 심부 6–9mm 비유의 — ISQ는 변연부 골의 지표
 
