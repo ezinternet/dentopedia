@@ -13,6 +13,9 @@ source_collection: external
 tags: [implant-timing, immediate-implant, early-implant, delayed-implant, loading-protocol, survival-rate, esthetic-complication]
 ---
 
+## One-line Summary
+Narrative review (JCM 2025, Aristotle University; 9,774 articles screened) comparing immediate (survival 93.8–100%), early, and delayed implant placement timing plus loading protocols: immediate placement carries the highest esthetic risk and delayed the lowest, with no single superior timing — patient selection determines outcomes.
+
 ## 한줄요약
 narrative-review(JCM 2025, Aristotle U): 즉시(93.8-100%)·조기·지연 식립 타이밍 + 부하 프로토콜 비교 — 즉시는 최고 심미위험; 엄격한 환자선택이 결과 결정; 단일 최우수 타이밍 없음.
 
