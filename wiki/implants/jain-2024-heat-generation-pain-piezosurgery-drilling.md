@@ -13,6 +13,9 @@ source_collection: external
 tags: [piezosurgery, conventional-drilling, heat-generation, postoperative-pain, VAS, systematic-review]
 ---
 
+## One-line Summary
+Systematic review (9 studies from 2,279 hits; RCT/non-RCT/in vitro, appraised with RoB 2.0/ROBINS-I/QUIN): piezosurgery significantly reduces postoperative pain (VAS) versus conventional rotary drilling but generates higher intraoperative bone temperature — a clear pain-vs-heat trade-off for implant osteotomy.
+
 ## 한줄요약
 SR(Cureus 2024, 9편 from 2,279 hits): 피에조서저리는 술후 통증 유의 감소시키지만 — 술중 골내 온도는 회전 drilling보다 더 높음 → 명확한 pain-vs-heat trade-off.
 
