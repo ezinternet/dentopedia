@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Case report: a novel digitally-guided Abutment Bending Verification Guide (ABVG) for predictable bending of one-piece compressive implant abutments (RealGuide.5 software, NeoBiotech NEO NAVIGUIDE KIT), achieving accurate abutment angulation matched to the pre-designed crown path of insertion without complications.
+
 ## 한줄요약
 증례보고: 원피스 압축 임플란트 지대주 굴곡을 위한 디지털 유도 'Abutment Bending Verification Guide(ABVG)' 신기술 — RealGuide.5 소프트웨어·NeoBiotech 가이드키트 적용
 
