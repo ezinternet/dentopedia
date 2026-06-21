@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Case study (n=2) of the subperiosteal peri-implant augmented layer (SPAL) technique applied at immediate implant placement (IIP) to correct peri-implant bone dehiscence (PIBD), achieving buccal bone-volume restoration and primary closure without membrane exposure.
+
 ## 한줄요약
 Case study: SPAL(subperiosteal peri-implant augmented layer) 기법으로 IIP 동시 peri-implant bone dehiscence(PIBD) 교정 — 막 노출 없이 봉합 가능한 dehiscence 관리 옵션.
 
