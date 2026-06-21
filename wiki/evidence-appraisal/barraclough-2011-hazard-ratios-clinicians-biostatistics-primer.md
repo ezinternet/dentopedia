@@ -13,6 +13,9 @@ source_collection: external
 tags: [hazard-ratio, kaplan-meier, survival-analysis, biostatistics, ebm-tutorial]
 ---
 
+## One-line Summary
+Narrative biostatistics primer (J Thoracic Oncology 2011) for clinicians on hazard ratios (HR): defines HR as an instantaneous hazard-rate ratio time-averaged under the proportional-hazards (PH) assumption, contrasts it with relative risk (RR), and explains how PH violation (crossing/diverging Kaplan-Meier curves) makes a single HR misleading.
+
 ## 한줄요약
 J Thoracic Oncology의 임상의 대상 통계 primer (2011): HR이 무엇이고 무엇이 아닌지 — 즉시 hazard rate 비율로서의 정의, KM curve와의 관계, proportional hazards 가정 위반 시 해석 무력화까지 짚는 5쪽짜리 표준 튜토리얼.
 
