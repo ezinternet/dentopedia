@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, lateral-sinus-lift, immediate-implant, case-report, 1-year-follow-up]
 ---
 
+## One-line Summary
+Case report (n=1, 1-year follow-up) documenting management of a mucous retention cyst (MRC) with simultaneous lateral-window sinus lift and immediate implant placement; the implant osseointegrated without complications and survived at 1 year with maintained sinus health, providing a surgical narrative anchor consistent with cohort/SR safety data.
+
 ## 한줄요약
 Case report (Beirut, 2023): MRC 환자에서 lateral sinus lift + 즉시 implant, 1년 후 정착·생존 확인. 의사결정 트리의 surgical narrative anchor.
 
