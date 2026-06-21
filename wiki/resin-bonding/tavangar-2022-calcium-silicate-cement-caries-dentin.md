@@ -13,6 +13,9 @@ source_collection: external
 tags: [calcium-silicate, self-adhesive-cement, caries-affected-dentin, remineralization, bond-strength, TheraCem]
 ---
 
+## One-line Summary
+In vitro study comparing calcium silicate-based vs conventional self-adhesive resin cement for shear bond strength (SBS) to caries-affected dentin (CAD): the calcium silicate cement (e.g., TheraCem) had lower immediate SBS but induced CAD remineralization at 6 months, whereas the conventional self-adhesive cement had higher immediate SBS but no remineralization benefit.
+
 ## 한줄요약
 in-vitro(Clin Exp Dent Res 2022): 칼슘실리케이트 자가접착형 시멘트 vs 전통 자가접착형 — CaSi 즉시 SBS 낮지만 6개월 우식 상아질 재광화 유도; 전통 시멘트: 즉시 SBS 높지만 재광화 없음.
 
