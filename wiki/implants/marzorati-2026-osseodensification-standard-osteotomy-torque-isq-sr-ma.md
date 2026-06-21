@@ -16,6 +16,9 @@ relations:
     target: mello-machado-2021-osseodensification-low-quality-bone-rct
 ---
 
+## One-line Summary
+SR+MA (555 patients / 685 implants, 343 osseodensification vs 342 standard) restricted to counterclockwise OD vs subtractive drilling in human trials: OD raised insertion torque (45.75 vs 38.00 N·cm, P<0.001) and ISQ (mean difference 3.24, 95% CI 0.72–5.95, P=0.024) — statistically significant but clinically modest, with insufficient longitudinal data to assess the stability dip or survival/MBL outcomes.
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Meta-Analysis), n=555 환자 / 685 임플란트 — 골밀도화 (Osseodensification, OD)군이 conventional drilling 대비 삽입 토크 45.75 vs 38.00 N·cm (P<0.001), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 평균차 3.24 (95% CI 0.72–5.95, P=0.024). ISQ 효과 크기는 통계적 유의이나 임상적으로 작음 (~5 미만), 종단 데이터 부족으로 stability dip 시기 영향은 평가 불가.
 
