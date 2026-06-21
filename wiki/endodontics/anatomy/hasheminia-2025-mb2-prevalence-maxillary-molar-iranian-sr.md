@@ -13,6 +13,9 @@ source_collection: external
 tags: [MB2, prevalence, maxillary-molar, Iranian, CBCT, microscope, detection-method]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (29 Iranian-population studies): second mesiobuccal canal (MB2) prevalence 60% (95% CI 53–67%) in maxillary first molars and 33% (25–42%) in second molars; detection ranges from microscope-highest (78%/61%) to periapical-radiograph-lowest (15%/4%), with very high heterogeneity (I²=97%).
+
 ## 한줄요약
 SR+MA (29개 이란인 연구): MB2 유병률 상악 제1대구치 60%, 제2대구치 33% — 현미경으로 최고 (78%/61%), 치근단 방사선으로 최저 (15%/4%); I²=97% 매우 높음.
 
