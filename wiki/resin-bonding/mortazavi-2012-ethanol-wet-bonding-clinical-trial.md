@@ -14,6 +14,9 @@ source_collection: external
 tags: [ethanol-wet-bonding, Clearfil-SE-Bond, OptiBond-FL, NCCL, RCT, clinical, 12-month]
 ---
 
+## One-line Summary
+1-year RCT (36 noncarious cervical lesions, NCCLs, in 12 patients) comparing three adhesive strategies — OptiBond FL (3-step E&R), Clearfil SE Bond (2-step SE), and ethanol wet bonding (EWB): all groups 100% retention at 6 months; at 12 months OptiBond FL and SE Bond remained 100% while EWB fell to 91.67%, with no significant between-group difference (p=0.358).
+
 ## 한줄요약
 RCT (NCCL 36개, 12개월): 에탄올 습윤접착법·OptiBond FL·Clearfil SE Bond 3군 모두 6개월 100% 유지율; 12개월 에탄올군 91.67%; 군간 유의차 없음(p=0.358)
 
