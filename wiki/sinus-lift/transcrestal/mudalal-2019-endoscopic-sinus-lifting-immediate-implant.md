@@ -13,6 +13,9 @@ source_collection: external
 tags: [transcrestal, sinus-lift, endoscope, prf, pess, immediate-implant, low-rbh]
 ---
 
+## One-line Summary
+Case report (40F, #16, residual bone height [RBH] 3.53 mm): combined PESS protocol (platelet-rich fibrin [PRF] + endoscope + simultaneous implant + sinus floor elevation) achieved 12 mm transcrestal elevation with a 4.8×12 mm implant; implant stability quotient (ISQ) rose 67.4 (3 mo) → 71.0 (6 mo), compressing a 12-month workflow to 3 months.
+
 ## 한줄요약
 잔존골 높이(Residual Bone Height, RBH) 3.5 mm 케이스 리포트: 혈소판 풍부 피브린(Platelet-Rich Fibrin, PRF) + 내시경 + 즉시식립 + 상악동거상술(PESS) 조합으로 12 mm 거상, 임플란트 안정성 지수(Implant Stability Quotient, ISQ)가 3개월 67.4 → 6개월 71.0로 상승, 치료 기간을 12개월에서 3개월로 단축.
 
