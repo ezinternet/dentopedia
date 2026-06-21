@@ -51,6 +51,10 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 > - 저밀도골(D3–D4)·상악동저 보강이 가장 active한 두 시나리오, 좁은 ridge·즉시식립은 단독 SR 부재로 spoke pending(추가 ingest 우선순위 P1).
 > - 한계: search cutoff 2023, RCT 부족·follow-up 짧음, Versah Inc. 후원 연구 다수 → 환자 동의서에 "근거 수준 낮음–중등" 언급 권장.
 
+## One-line Summary
+
+Hub-and-spoke synthesis using Fontes Pereira 2023 SR as spine to map osseodensification (OD) — counterclockwise (CCW) 800–1500 rpm Densah-bur bone compaction/autografting — across its 4 clinical scenarios (sub-antral augmentation, narrow ridge, low-density D3–D4 bone, immediate placement). Core thesis: the consistent OD benefit is raised insertion torque (IT) [strong] and ~3× BIC in vitro, survival equals conventional, but the ISQ benefit is contested — Mohammadi 2025 SR+MA found no significant primary or secondary ISQ difference in low-density bone, so gains should be framed as mechanical (IT) certain / ISQ (RFA) mixed; thermal safety caps bur reuse (~23 uses) and RPM (47 °C osteonecrosis threshold), and overall evidence quality is low–moderate with many Versah-sponsored studies.
+
 ## 한줄요약
 골밀도화 (Osseodensification, OD)는 반시계회전 (Counterclockwise, CCW) 800–1500 rpm으로 Densahbur가 자가골을 압축·자가이식하여 4개 임상 시나리오 (상악동저 보강·좁은 ridge·저밀도골 D3–D4·즉시식립)에 적용된다 — 삽입토크 (Insertion Torque, IT) 일관되게 상승 [근거강함], 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)는 **저밀도골 인체 SR+MA(mohammadi 2025)에서 유의차 없음 — 논쟁적** [합의수준, 하향], 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) in vitro 3배 상승 [근거강함]; 전반적 임상 근거 수준은 낮음–중등 (Fontes Pereira 2023 결론). 발열 안전: 버 재사용 ≥23회 + 고RPM 시 골괴사 임계(47°C) 초과 (soldatos 2024).
 
