@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Narrative review of biological events in periodontal ligament (PDL) and alveolar bone under orthodontic force: pressure side undergoes ischemia, osteoclast recruitment and resorption while tension side shows increased blood flow, osteoblast activity and bone deposition, with IL-1, TNF-α, PGE₂ and the RANK/RANKL axis mediating osteoclastogenesis; optimal force avoids complete PDL vascular occlusion whereas heavy force causes hyalinization and delayed movement.
+
 ## 한줄요약
 교정력 적용 시 PDL·치조골 생물학적 사건 — 혈류 변화·세포 활성·사이토카인 신호.
 
