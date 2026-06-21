@@ -13,6 +13,9 @@ source_collection: external
 tags: [odds-ratio, relative-risk, absolute-risk, nnt, biostatistics, ebm-tutorial]
 ---
 
+## One-line Summary
+Tutorial (IJERPH 2021) framing odds ratio (OR), relative risk (RR), absolute risk (AR), and number-needed-to-treat (NNT = 1/ARR) as four lenses on the same 2×2 table; states the OR-RR divergence rule (OR increasingly overestimates RR as baseline outcome risk rises above ~10%), directly relevant to common dental outcomes like peri-implantitis.
+
 ## 한줄요약
 OR / RR / AR / NNT 4종 효과측정치 영어 튜토리얼 (IJERPH 2021): 같은 데이터에서 네 지표가 어떻게 다르게 나오는지 — 특히 baseline risk가 클수록 OR이 RR을 과대평가하는 현상을 worked example로 보여줌.
 
