@@ -14,6 +14,9 @@ source_collection: external
 tags: [SA-surface, SLA, Osstem, long-term, MBL, survival, complications, retrospective, ISQ]
 ---
 
+## One-line Summary
+Retrospective study (96 Osstem SA/SLA implants, 45 patients, ≥8 years) reporting 94.8% survival; occurrence of complications and MBL >1mm within the first year after prosthetic completion were both significant independent failure predictors.
+
 ## 한줄요약
 후향적 연구(96개 Osstem SA 임플란트, 45명, 8년 이상): 생존율 94.8%; 합병증 발생 및 보철 완료 1년 내 MBL >1mm 모두 유의한 실패 예측인자
 
