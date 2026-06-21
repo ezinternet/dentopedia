@@ -73,6 +73,10 @@ Key principles:
 - Adjunctive agents (CHX, local antibiotics, NaOCl, probiotics, bioactive agents): within-group improvement but NO consistent statistically significant added benefit over PMPR alone
 - Clinical bottom line: establish PMPR protocol first; adjunctives do not substitute for mechanical removal [합의수준]
 
+**Brunello 2026 (systematic review, 21 studies — 19 RCTs + 2 NRCTs, n=1068):** reinforces Mauriello with systematic evidence — all non-surgical protocols *including mechanical debridement alone* reduced BoP; mucositis resolution ranged 9%–100% across studies; adjuncts gave only minor 6-month gains; only one-third of studies had low risk of bias and heterogeneity precluded a network meta-analysis. Same conclusion: mechanical debridement is the backbone, adjuncts add little. [근거중간]
+
+> **How to remove the biofilm** (powder/instrument choice, erythritol vs glycine, surface-safety, and the air-polishing emphysema caveat) is detailed in [[overviews/professional-biofilm-management-gbt-air-polishing-overview]]. For *early peri-implantitis*, Eraydın-Tüfek 2026 (5-arm RCT, 80 implants) found glycine powder air abrasion numerically best but with no statistically significant superiority over mechanical instrumentation.
+
 ---
 
 ## Surgical Treatment: Surface Decontamination
@@ -226,6 +230,8 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/jepsen-2015-primary-prevention-periimplantitis-managing-mucositis]] — mucositis = primary prevention, European consensus
 - [[implants/peri-implantitis/baima-2022-surface-decontamination-protocols-surgical-periimplantitis]] — decontamination SR+MA
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — adjunctive therapy for mucositis
+- [[implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr]] — nonsurgical mucositis therapy SR (21 studies, n=1068): mechanical debridement alone suffices
+- [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] — 5-arm RCT: glycine air abrasion no significant superiority over mechanical instrumentation
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — prosthetic MBL levers SR+MA
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — emergence angle >30° / convex profile → peri-implantitis (SR, 3 studies)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — RM-AC ≤1.5 mm → 3.42× MBL; IDRA threshold validation (retrospective)
@@ -238,3 +244,4 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/jervoe-storm-2024-photodynamic-therapy-periodontal-periimplant-diseases]] — aPDT Cochrane SR
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — GBR broader context
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
+- [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — how to mechanically manage biofilm (GBT/air polishing) across teeth and implants
