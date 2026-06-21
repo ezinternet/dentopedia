@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, rct, third-molar, oral-surgery, postop-pain, split-mouth]
 ---
 
+## One-line Summary
+
+Split-mouth RCT of submucosal PDRN injection after bilateral impacted mandibular third molar (IMTM) extraction: postoperative pain was significantly lower on the PDRN side at POD3 and POD7 (P < 0.05), while pain duration did not differ (a split-mouth attribution limitation) — the first human evaluation of PDRN for oral-surgery postoperative outcomes.
+
 ## 한줄요약
 
 Split-mouth RCT. 매복 하악 제3대구치 양측 발치 후 submucosal PDRN injection 시 POD3·POD7 통증이 대조 측 대비 유의 감소. Pain duration은 split-mouth 한계로 분리 어려움.
