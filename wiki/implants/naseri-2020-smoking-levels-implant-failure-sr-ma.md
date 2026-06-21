@@ -14,6 +14,9 @@ source_collection: external
 tags: [smoking, implant-failure, dose-response, SR-MA, JCP, cigarettes-per-day, risk-factor]
 ---
 
+## One-line Summary
+SR+MA (Naseri, J Clin Periodontol 2020; 23 studies) of smoking dose and implant failure: implant failure risk (RR) rises dose-dependently with cigarettes/day, with heavy smokers at significantly higher risk than non-smokers — smoking amount itself is a risk modifier.
+
 ## 한줄요약
 JCP 2020 SR+MA (Naseri, 23편): 흡연 dose (cigarettes/day) 증가 → 임플란트 실패 위험 dose-dependent 증가; heavy smoker가 non-smoker 대비 유의하게 높은 위험 — 흡연 양 자체가 risk modifier.
 
