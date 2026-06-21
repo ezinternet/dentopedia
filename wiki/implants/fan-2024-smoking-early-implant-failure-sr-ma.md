@@ -14,6 +14,9 @@ source_collection: external
 tags: [smoking, early-implant-failure, SR-MA, dose-response, J-Dent, OR-2.59, observational]
 ---
 
+## One-line Summary
+SR+MA (32 observational studies, 59,246 implants / 14,115 patients, 1994–2024) of smoking and early dental implant failure: smoking carries an implant-level OR of 2.59 (95% CI 2.08–3.23) vs non-smoking, with patient-level analysis also significantly positive — the current best single-paper quantitative anchor for the smoking → early implant failure relationship.
+
 ## 한줄요약
 SR+MA (J Dent 2024, Fan, 32 observational studies, n=59,246 implants / 14,115 patients, 1994-2024): 흡연 → 조기 임플란트 실패 implant 단위 OR 2.59 (95% CI 2.08-3.23) — 흡연-임플란트 조기 실패 정량 anchor.
 
