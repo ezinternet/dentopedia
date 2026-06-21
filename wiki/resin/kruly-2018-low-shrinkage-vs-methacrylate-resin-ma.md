@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (21 RCTs, follow-up up to 60 months) comparing low-polymerization-shrinkage composites (silorane, ormocer, bulk-fill) with conventional methacrylate composites found clinical equivalence on all outcomes except marginal adaptation at 12 months (favoring methacrylate), concluding that low shrinkage is not the principal determinant of clinical resin superiority.
+
 ## 한줄요약
 21개 RCT(최장 60개월) 메타분석: 실로란(silorane)·오르모서(ormocer)·벌크필 포함 저수축 레진은 전통 메타크릴레이트 레진과 임상적으로 동등; 12개월 변연적합도만 메타크릴레이트 레진이 유의하게 우수하며, "저수축=임상 우월"은 성립하지 않음.
 
