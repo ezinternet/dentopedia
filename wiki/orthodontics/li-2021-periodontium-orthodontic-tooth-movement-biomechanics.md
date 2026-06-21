@@ -13,6 +13,9 @@ source_collection: external
 tags: [orthodontic-tooth-movement, otm, pdl, pdlc, osteocyte, mechanosensing, rankl, sterile-inflammation, root-resorption, optimal-orthodontic-force, biomechanics]
 ---
 
+## One-line Summary
+Structured literature review (6,808 → 170 studies) updating orthodontic tooth movement (OTM) periodontium biomechanics/biology for the 2020s: proposes PDL cells (PDLCs) and osteocytes as primary mechanosensors within a 4-step sequential model (extracellular mechanobiology → cell strain → cell activation/differentiation → tissue remodeling), with clinical implications for optimal orthodontic force (OOF), acceleration, and root resorption prevention.
+
 ## 한줄요약
 교정적 치아이동(OTM) 치주조직 생역학·생물학 종합 리뷰 (IJOS 2021): 6,808편 → 170편; PDL세포·골세포 일차 기계감지 새 가설; 4단계 순차 모델(세포외 기계생물학→세포변형→세포활성화→조직재형성); 최적교합력·가속·치근흡수 임상 의의.
 
