@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, ridge-expansion, plastic-deformation, compaction-autografting, ISQ, insertion-torque, retrospective, multicenter]
 ---
 
+## One-line Summary
+Multicenter retrospective study (n=21 patients/28 implants): osseodensification (OD) achieved coronal alveolar ridge expansion greatest in the narrowest ridges (2.83±0.66 mm in 3–4 mm ridges), with high insertion torque (61.2±13.9 Ncm) and ISQ (77±3.74) at placement but 92.8% implant survival (2/28 failures); uncontrolled design and inventor conflict of interest temper the findings.
+
 ## 한줄요약
 다기관 후향 연구 (retrospective), n=21 환자/28 임플란트 — 골밀도화 (Osseodensification, OD)로 좁은 능선(3–4 mm)에서 평균 2.83±0.66 mm의 능선 폭 확장이 가능했고 평균 삽입토크 61.2±13.9 Ncm, 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 77±3.74를 보였으나 임플란트 생존율 92.8% (28개 중 2개 실패)로 표준 임플란트 시리즈 대비 낮고 비교군 없는 후향 디자인이 한계.
 
