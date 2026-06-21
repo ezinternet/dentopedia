@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Practical narrative review of oral lichen planus (OLP) diagnosis and management, comparing WHO 2003 and Van der Meij 2003 diagnostic criteria, describing six clinical subtypes (reticular, papular, plaque, erosive, atrophic, bullous), and a treatment ladder from topical corticosteroids to tacrolimus to systemic immunosuppression; erosive/atrophic forms are most symptomatic and highest-risk.
+
 ## 한줄요약
 OLP 진단 기준(WHO/Van der Meij)·임상 유형 6가지·1차 치료(국소 스테로이드) 실용 고찰.
 
