@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Systematic review (Guillaumet-Claure 2022): iatrogenic mandibular fracture after lower third molar extraction has an overall incidence of 0.0034%–0.075%, with postoperative fractures (premature chewing) more common than intraoperative; mandibular angle is the most frequent site (40%), and the typical at-risk patient is a male aged 40–60 with deeply impacted mesioangular molars.
+
 ## 한줄요약
 체계적 문헌고찰: 하악 제3대구치 발치 후 의인성 하악골 골절 (Iatrogenic Mandibular Fracture) 발생률은 0.0033%–0.075%이며, 술후 골절이 술중보다 흔하고 40–60세 남성·깊은 매복치에서 위험 증가.
 
