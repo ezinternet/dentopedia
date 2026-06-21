@@ -13,6 +13,9 @@ source_collection: external
 tags: [miniscrew, TAD, anchorage, failure-rate, anatomical-site, palate, interradicular, root-contact]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (61 studies) of orthodontic miniscrew implant (OMI) failure rates stratified by anatomical insertion site: midpalatal lowest (1.3%) and zygomatic buttress highest (16.4%), with root contact the dominant modifiable risk factor (RR 8.7, 95% CI 5.1–14.7, moderate quality evidence).
+
 ## 한줄요약
 SR+MA (61편): 정중구개 삽입 실패율 1.3%로 최저, 광대뼈 지지부 16.4%로 최고; 치근 접촉 시 실패 위험비 8.7배 상승 (moderate quality evidence).
 
