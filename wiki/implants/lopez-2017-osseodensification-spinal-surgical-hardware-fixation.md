@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, spinal-hardware, pullout-strength, BIC, BAFO, sheep, orthopaedics, cross-domain]
 ---
 
+## One-line Summary
+Animal study (paired-design sheep, n=12, cervical vertebrae C2–C4, 0/3/6 weeks) applying osseodensification (OD) to spinal hardware fixation: OD significantly outperformed conventional drilling on pullout strength (p<0.01), bone-to-implant contact (BIC, p<0.01), and bone area fraction occupancy (BAFO, p=0.024); an orthopaedic model proving OD principle transfer, but dental extrapolation requires caution.
+
 ## 한줄요약
 동물 실험 (Sheep, n=12, 양측 paired, 경추 C2·C3·C4, 0/3/6주 시점) — 골밀도화 (Osseodensification, OD)가 통상 드릴링 대비 척추 hardware의 발탈강도(pullout strength)를 유의하게 높이고 (p<0.01), 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) p<0.01·골면적분율 (Bone Area Fraction Occupancy, BAFO) p=0.024로 모두 우수. 다만 정형외과/척추 hardware 모델이라 치과 임플란트로 외삽 시 별도 추론 단계가 필요.
 
