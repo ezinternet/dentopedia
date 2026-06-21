@@ -13,6 +13,10 @@ source_collection: external
 tags: [ian, inferior-alveolar-nerve, iac, canal-position, lingual, buccal, third-molar, nerve-injury, paresthesia, meta-analysis, cbct, opg, risk-factor]
 ---
 
+## One-line Summary
+
+Systematic review and meta-analysis (Healthcare 2022; 11 studies) of inferior alveolar canal (IAC) position relative to lower third molars: a lingual IAC position is significantly associated with higher inferior alveolar nerve (IAN) injury risk than a buccal position, supporting CBCT-based pre-surgical nerve-position assessment.
+
 ## 한줄요약
 하치조신경관(IAC) 위치(설측 vs 협측)와 하치조신경(IAN) 손상 연관성 SR+MA (Healthcare 2022): 11편 포함; 설측 위치 → 신경 손상 위험 유의하게 높음; 사전 영상평가로 고위험군 식별 가능.
 
