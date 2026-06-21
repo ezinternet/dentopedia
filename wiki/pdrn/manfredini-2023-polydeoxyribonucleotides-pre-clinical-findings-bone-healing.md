@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, scoping-review, bone-regeneration, in-vitro, animal]
 ---
 
+## One-line Summary
+
+Scoping review of PDRN preclinical bone-healing evidence (in vitro + animal): PDRN consistently raised osteoblast proliferation, ALP activity, and mineralization in vitro, and improved new-bone area, vascularization, and BIC in animal defect models, but heterogeneity in dose, vehicle, and timing precluded meta-analysis.
+
 ## 한줄요약
 
 Scoping review. PDRN의 골치유 preclinical evidence를 in vitro·animal 두 갈래로 정리. Osteoblast proliferation·differentiation 촉진과 동물모델 new bone area·BIC 향상이 비교적 일관되나 dose/vehicle/timing의 standardization 부재.
