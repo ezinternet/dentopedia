@@ -14,6 +14,9 @@ source_collection: external
 tags: [sinus-lift, lsa, vsa, short-implant, residual-bone-height, treatment-selection, review]
 ---
 
+## One-line Summary
+Narrative review comparing three maxillary sinus floor augmentation strategies — lateral sinus augmentation (LSA), vertical/osteotome sinus augmentation (VSA), and short implants — all reporting high implant survival and new bone formation; proposes a residual bone height-based selection algorithm (LSA for <5 mm, VSA or short implants for 5–8 mm, short implants preferred for ≥8 mm).
+
 ## 한줄요약
 리뷰: LSA(<5mm), VSA/osteotome(5–8mm), 단임플란트(≥5mm); 모두 높은 생존율; 잔존골높이가 술식 선택 기준
 
