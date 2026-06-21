@@ -13,6 +13,9 @@ source_collection: external
 tags: [implant-drill, surface-roughness, micromorphology, tribology, heat-generation, wear]
 ---
 
+## One-line Summary
+In vitro study (BioMed Res Int 2018, Ø 2.0 mm drills from 5 manufacturers): white-light laser interferometry plus multivariate discriminant analysis showed microstructural surface roughness statistically distinguishes every manufacturer, implying drill micromorphology — not just macroscopic geometry — predicts clinical heat generation and wear.
+
 ## 한줄요약
 인비트로(BioMed Res Int 2018, n=5 제조사 2.0 mm drill): 백색광 간섭계로 측정한 미세표면 거칠기가 제조사별로 유의하게 다르며 — 발열·마모·내구성 예측 가능. 즉, "같은 직경 drill이라도 표면 미세구조가 임상 성능을 가른다."
 
