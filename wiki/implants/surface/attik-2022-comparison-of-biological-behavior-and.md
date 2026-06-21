@@ -15,6 +15,9 @@ tags: [최소침습-임플란트, MagiCore, NobelParallel, 생물학적-특성, 
 ---
 
 
+## One-line Summary
+In vitro cell-culture study comparing a minimally invasive implant (MagiCore®, Ra 2.02 µm) versus a standard implant (NobelParallel™, Ra 1.28 µm): despite the surface-roughness difference, the two showed equivalent cell viability, proliferation, and ALP activity (gingival fibroblasts and osteoblast-like cells), with denser cell adhesion on MagiCore — supporting biocompatibility of minimally invasive implants for space-restricted anatomy, though clinical/long-term outcomes were not assessed.
+
 ## 한줄요약
 최소침습 vs 표준 임플란트 생체적합성 동등; 공간 제한 해부학 부위에서 최소침습 임플란트 고려 가능
 
