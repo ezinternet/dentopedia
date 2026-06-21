@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, RFA, literature-review, influencing-factors, bone-quality, macro-design, clinical-significance]
 ---
 
+## One-line Summary
+Narrative literature review of factors influencing ISQ: identified 17 factors total, of which only 6 are clinically predictive and only 2 (local bone quality and implant macro-design) have a well-documented scientific basis — ISQ should be interpreted together with bone type, not in isolation.
+
 ## 한줄요약
 서술적 문헌고찰: 17개 ISQ 영향인자 확인; 임상 예측력 있는 인자 6개; 근거 충분한 인자 2개(국소 골질·거시디자인); ISQ는 단독보다 골 타입과 함께 해석
 
