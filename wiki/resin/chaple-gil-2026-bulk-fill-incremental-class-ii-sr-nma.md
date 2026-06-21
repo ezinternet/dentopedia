@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and network meta-analysis (12 RCTs) of Class II posterior restorations found no statistically significant difference between any bulk-fill subtype and incremental layering for marginal adaptation, fractures, or retention at 6, 12, or 24 months; risk ratios clustered around unity, with ormocer-based and overlay bulk-fill composites ranking highest (non-significantly) at 12–24 months.
+
 ## 한줄요약
 12개 RCT 네트워크 메타분석(NMA): 2급 구치부 수복에서 벌크필 전 아형(ormocer, overlay, flowable 등)과 적층충전 간 6·12·24개월 모든 시점에서 변연적합도, 파절, 유지율 유의차 없음; ormocer 기반 벌크필이 비통계적으로 최고 순위.
 
