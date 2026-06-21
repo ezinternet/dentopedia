@@ -14,6 +14,9 @@ source_collection: external
 tags: [Clearfil-SE-Bond, microTBS, thermal-cycling, mechanical-cycling, fatigue, dentin-bond, in-vitro]
 ---
 
+## One-line Summary
+In-vitro study (42 molars, Clearfil SE Bond): both thermal and mechanical load cycling significantly reduced microtensile bond strength (µTBS) to superficial dentin (p<0.001); mechanical cycling became significant at a 100K-cycle threshold, and combined cycling added no further effect.
+
 ## 한줄요약
 In vitro 42개 구치(Clearfil SE Bond): 열·기계적 하중 사이클링 모두 µTBS 유의하게 감소(p<0.001); 기계적 사이클링 유의 역치 100K회; 복합 사이클링 추가 효과 없음
 
