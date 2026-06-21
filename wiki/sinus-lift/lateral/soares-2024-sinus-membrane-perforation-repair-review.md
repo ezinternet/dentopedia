@@ -13,6 +13,9 @@ source_collection: external
 tags: [systematic-review, meta-analysis, sinus-membrane-perforation, repair, implant-loss, collagen-membrane, sinusitis]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (130 studies / 1,972 sinuses) of Schneiderian sinus membrane perforation (SMP) repair: pooled implant loss at properly repaired sites was 4% (95% CI 2–8%), statistically indistinguishable from non-perforated controls, with no association between perforation size and implant loss (P=0.86); resorbable collagen membrane was the dominant repair material and sinusitis the leading complication.
+
 ## 한줄요약
 체계적 문헌고찰·메타분석 (Systematic Review + Meta-Analysis, SR+MA, 130개 연구 / 1,972 부비동): 슈나이더 막 천공 (Sinus Membrane Perforation, SMP) 적절 수복 시 임플란트 소실률 4% (95% 신뢰구간 2–8%) — 무손상 대비 차이 없음; 천공 크기와 임플란트 소실 간 관련성 없음 (P=0.86).
 
