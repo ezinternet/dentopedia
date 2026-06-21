@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Case report: a modification of Biologically-oriented Alveolar Ridge Preservation (BioARP) applied to correct buccal bone dehiscence at immediate implant placement (IIP), reporting successful dehiscence resolution and acceptable peri-implant bone outcomes; case-level evidence with no comparator.
+
 ## 한줄요약
 Case study: bone dehiscence를 동반한 즉시 식립에서 BioARP(modified ridge preservation) 적용 — 골 재형성과 연조직 두께 회복 가능성 제시, 그러나 case-level evidence.
 
