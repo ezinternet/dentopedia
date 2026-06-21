@@ -13,6 +13,9 @@ source_collection: external
 tags: ['flapless', 'mucoperiosteal flap', 'IIP', 'buccal soft tissue', 'esthetic']
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (RCTs only, Cosyn group) comparing mucoperiosteal flap vs flapless surgery for single immediate implant placement (IIP); flapless tends to favor buccal hard/soft tissue preservation while clinical and esthetic differences are small and operator-dependent.
+
 ## 한줄요약
 SR+MA (Cosyn 그룹): 단일 즉시식립 시 mucoperiosteal flap vs flapless — 협측 hard/soft tissue 변화, 임상·심미·PROMs 비교; RCT만 포함.
 
