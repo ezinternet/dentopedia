@@ -13,6 +13,9 @@ source_collection: external
 tags: [post-extraction, bundle-bone, facial-bone-wall, socket-healing, esthetic, soft-tissue, bone-remodeling]
 ---
 
+## One-line Summary
+Narrative review (Periodontol 2000 2017) synthesizing animal/human evidence on post-extraction dimensional bone and soft tissue alterations in esthetic sites; the facial bone wall is <1mm in 90% of the anterior maxilla, bundle bone resorbs completely regardless of implant placement, a ~2mm facial wall is needed to maintain dimensions after immediate implant, and up to 50% of ridge width is lost in year one with two-thirds occurring within the first 3 months.
+
 ## 한줄요약
 narrative-review(Periodontol 2000 2017;73): 발치 후 골·연조직 변화 생물학 종합 — 전방 상악 90%에서 협측골 <1mm; bundle bone 완전 소실; 즉시식립·소켓이식 영향; 2mm 협측벽 필요; 발치 후 치조골 2/3가 3개월 내 흡수.
 
