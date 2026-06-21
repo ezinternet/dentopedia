@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, failure-rate, MBL, PES, esthetic-zone, sr-ma, Biology-MDPI, Spain]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (Biology 2021): quantifies failure rate, marginal bone loss (MBL), and pink esthetic score (PES) for socket-shield technique (SST) immediate implants in the esthetic zone, signaling esthetic and bone-preservation advantage over conventional placement; provides baseline data later reinforced by Lin 2022, Gharpure 2022, and Ji 2025.
+
 ## 한줄요약
 SR+MA (Universidad Alfonso X El Sabio Spain, Biology 2021): SST esthetic zone 즉시 임플란트 — **failure rate, MBL, PES 3 outcome 정량**. SST 분야 baseline data 제공, conventional 대비 미용·골보존 우월 신호.
 
