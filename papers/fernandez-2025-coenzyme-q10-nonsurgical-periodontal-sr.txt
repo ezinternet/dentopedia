@@ -1,0 +1,17 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC open access). PMID 39920883]
+
+TITLE: Clinical efficacy of adjunctive use of coenzyme Q10 in non-surgical periodontal treatment: A systematic review.
+AUTHORS: Fernandez Matheus Dos Santos; Martins Thiago Marchi; Meza-Mauricio Jonathan; Ribeiro Mauro Cardoso; Silva Francisco Hecktheuer; Casarin Maísa; Muniz Francisco Wilker Mustafa Gomes
+JOURNAL: European Journal of Oral Sciences. 2025;133(2):e70002.
+DOI: 10.1111/eos.70002
+PROSPERO: CRD42022311286
+
+ABSTRACT:
+This systematic review evaluated the effects of coenzyme Q10 (CoQ10) in non-surgical periodontal treatment. Five databases were screened (up to May 2024). It included only randomized controlled trials (RCTs) of subgingival scaling and root planing (SRP) with or without adjunct use of the antioxidant CoQ10 in adults with periodontitis. The risk of bias and the certainty of the evidence were assessed. Meta-analyses were conducted to estimate mean differences for probing depth (PD) and clinical attachment level (CAL) between baseline and follow-up.
+
+Ten studies were included, of which four administered CoQ10 locally (topical [n = 1]; intra-pocket [n = 3] modalities), and six used oral supplementation. There was no significant effect of local use of CoQ10 on reduction of PD and gain in CAL. Daily oral supplementation (120 mg/day) with CoQ10 resulted in a greater mean reduction of PD by 0.41 mm (95% CI: 0.02-0.80) and a greater mean CAL gain by 0.52 mm (95% CI: 0.26-0.78) than seen in controls.
+
+Conclusion — Based on very low certainty of evidence, there was no significant effect of locally delivered CoQ10 gel on PD/CAL, but daily oral supplementation with CoQ10 resulted in better periodontal health after 12 weeks.
+
+MeSH: Humans; Ubiquinone; Root Planing; Dental Scaling; Periodontitis; Randomized Controlled Trials as Topic; Treatment Outcome; Vitamins.
+Article types: Systematic Review; Meta-Analysis.
