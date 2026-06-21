@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective histomorphometric study (n=24, 4 months): Bio-Oss + calcium sulphate (CalMatrix) 50:50 socket preservation yielded significantly more vital bone (62.5% vs 31.25%) and less acellular bone (5% vs 32.91%) than Bio-Oss alone (p<0.05), the fast-resorbing carrier improving early new-bone quality.
+
 ## 한줄요약
 후향적 조직형태계측(n=24, 4개월): Bio-Oss + 황산칼슘(Calcium Sulphate, CalMatrix) 50:50 병용군이 Bio-Oss 단독군 대비 생활골 62.5% vs 31.25%, 무세포골 5% vs 32.91% — 빠르게 흡수되는 carrier가 초기 신생골 질을 유의하게 개선.
 
