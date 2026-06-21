@@ -14,6 +14,9 @@ source_collection: external
 tags: [self-etch, total-etch, hydrophilic, HEMA, water-blister, bond-degradation, dentin-adhesive, narrative-review]
 ---
 
+## One-line Summary
+Foundational narrative review (Tay & Pashley 2003) establishing the "too hydrophilic" concept for simplified dentin adhesives: progressive simplification (3-step total-etch → 2-step → 1-step self-etch) increases hydrophilicity and water permeability, causing water-blister formation, postoperative sensitivity, hybrid-layer degradation, and dual-cure incompatibility, with 3-step total-etch systems most durable.
+
 ## 한줄요약
 서술적 리뷰(Tay & Pashley 2003): 간편화된 자가산부식 접착제일수록 과도한 친수성 → 수분 투과·수포 형성·결합 열화; 3단계 산부식 시스템이 가장 안정적
 
