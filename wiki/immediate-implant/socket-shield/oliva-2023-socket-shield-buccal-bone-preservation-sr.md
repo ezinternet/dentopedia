@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, BBPR, MBL, PES, JPIS, PROSPERO, Italy, buccal-bone-plate]
 ---
 
+## One-line Summary
+Systematic review (PROSPERO CRD42020180637) of 17 studies / 656 implants on the socket-shield technique (SST): 98.6% survival, buccal bone plate resorption 0.32 mm (SST) vs 1.05 mm (conventional) — a >3-fold (~-70%) reduction — with superior MBL (0.39 vs 1.00 mm) and PES (12.08 vs 10.77), and 3.81% complications.
+
 ## 한줄요약
 SR (D'Amario et al., JPIS 2023, PROSPERO CRD42020180637, 17 studies / 656 implants): SST 협측 골판 흡수 감소 — **생존율 98.6%, BBPR 0.32 (SST) vs 1.05 mm (conventional) — 3배+ 감소**, MBL·PES 모두 우월.
 
