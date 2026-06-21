@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Versah manufacturer protocol (narrative-review, 2-page) for immediate implant placement into extraction sockets via osseodensification (OD), codifying the apical-engagement principle: implant diameter > tooth apex and final Densah bur ≥ socket apex, so primary stability comes from the apical socket; extraction → pilot drill (CW) → Densah OD mode (CCW, 800–1500 rpm) staged expansion → socket fill with 70/30 cancellous/cortical composite allograft compacted by the second-to-last bur.
+
 ## 한줄요약
 Versah OD 즉시식립 프로토콜 — 핵심 원칙: **임플란트 직경은 발치치 apex보다 약간 큼**, **마지막 Densah® 버는 발치와 apex 직경 ≥** (apical engagement 우선). 발치 → pilot drill(CW) → Densah OD 모드(CCW 800–1500 rpm) 점진 확장 → 70/30 cancellous/cortical hydrated composite allograft로 소켓 충전 → 마지막 버보다 한 단계 작은 버로 allograft densify → 1차 안정성은 소켓 apical 부분에서 확보.
 
