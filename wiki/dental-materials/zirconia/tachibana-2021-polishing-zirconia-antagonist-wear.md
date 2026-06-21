@@ -13,6 +13,9 @@ source_collection: external
 tags: [Y-TZP, zirconia, polishing, occlusal-adjustment, enamel-wear, contact-condition, Kyushu]
 ---
 
+## One-line Summary
+In vitro study (Dent Mater J 2021; polished vs ground Y-TZP under 3 contact conditions): polished zirconia produced the lowest antagonist enamel wear across all contact conditions, with polishing dominating over contact type—polishing after any grinding/occlusal adjustment is clinically mandatory.
+
 ## 한줄요약
 in-vitro(Dent Mater J 2021): Y-TZP 3접촉조건 × 연마/연삭 — 연마 지르코니아: 전 접촉조건서 최소 대합치 마모; 연삭 후 반드시 연마; 구내 연마키트 임상 필수.
 
