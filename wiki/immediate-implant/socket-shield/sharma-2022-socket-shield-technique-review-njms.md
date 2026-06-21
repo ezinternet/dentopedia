@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, conventional-comparison, treatment-outcome, esic-dental-college, NJMS]
 ---
 
+## One-line Summary
+Narrative review of 19 eligible studies directly comparing the socket-shield technique (SST) versus conventional immediate implant placement: SST signals superior esthetics (PES) and buccal bone preservation (reduced bundle bone resorption), offset by SST-specific complications (shield mobility, exposure, infection, migration) and persistently limited long-term comparative data.
+
 ## 한줄요약
 Review (ESIC Dental College Delhi, NJMS 2022, 19 eligible studies): SST vs conventional immediate implant 직접 비교 — SST가 미용·골보존 우월 신호, 단 SST 특유 합병증 (shield 관련) 존재.
 
