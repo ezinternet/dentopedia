@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+In vitro study (n=52, 13 per group) comparing marginal/internal fit and 3D accuracy of Class II inlays made by four methods (conventional resin, milled hybrid ceramic, milled zirconia, 3D-printed resin): all CAD/CAM methods showed clinically acceptable marginal fit (<120 μm) with no significant internal-fit differences, and 3D-printed inlays were comparable to milled options.
+
 ## 한줄요약
 인비트로(n=52): 전통레진·밀링 하이브리드(Lava Ultimate)·밀링 지르코니아·3D프린팅(NextDent) 인레이 4그룹 변연·내부 적합도 및 3D 정확도 비교; 모든 CAD/CAM 방식 허용 범위 내
 
