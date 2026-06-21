@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/marzorati-2026-osseodensification-sta
 pdf_filename: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.pdf
 source_collection: external
 tags: [osseodensification, systematic-review, meta-analysis, insertion-torque, ISQ, primary-stability, dental-implants]
+relations:
+  - type: reinforces
+    target: mello-machado-2021-osseodensification-low-quality-bone-rct
 ---
 
 ## 한줄요약
