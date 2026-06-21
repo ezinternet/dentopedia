@@ -13,6 +13,9 @@ source_collection: external
 tags: ['molar', 'early loading', 'guided surgery', 'flapless', 'ISQ', 'screw-retained zirconia']
 ---
 
+## One-line Summary
+RCT (27 patients, 30 implants): immediate molar implant placement with flapless fully-guided surgery, comparing early loading at 6 weeks (G1) vs conventional loading at 3 months (G2) — 100% survival in both groups (p=1) with no significant ISQ/RFA or DCA difference, supporting 6-week early loading as feasible.
+
 ## 한줄요약
 RCT (n=27 환자, 30 임플란트): 구치부 즉시식립 + 무피판 가이드 수술 후 6주(G1) vs 3개월(G2) 부하 — 생존율 양군 100% (p=1); ISQ/RFA·DCA 차이 없음; 6주 조기부하 가능.
 
