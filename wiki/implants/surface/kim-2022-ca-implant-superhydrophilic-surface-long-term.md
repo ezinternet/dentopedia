@@ -14,6 +14,9 @@ source_collection: external
 tags: [CA-surface, superhydrophilic, SLA, Osstem, long-term, MBL, survival, retrospective]
 ---
 
+## One-line Summary
+Retrospective study (258 Osstem CA super-hydrophilic calcium-modified SLA implants, 120 patients, mean 62-month follow-up) reporting 97.3% survival, 94.2% success, and mean MBL of 0.074mm — excellent long-term outcomes consistent with the hydrophilic surface advantage.
+
 ## 한줄요약
 후향적 연구(258개 Osstem CA 임플란트, 120명, 평균 62개월): 생존율 97.3%, 성공률 94.2%, 평균 MBL 0.074mm — 초친수성 칼슘 처리 표면의 우수한 장기 예후
 
