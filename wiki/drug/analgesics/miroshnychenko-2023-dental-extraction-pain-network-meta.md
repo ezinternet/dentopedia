@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/miroshnychenko-2023-dental-extraction
 pdf_filename: miroshnychenko-2023-dental-extraction-pain-network-meta.pdf
 source_collection: external
 tags: [NSAIDs, opioids, ibuprofen, acetaminophen, network-meta-analysis, extraction-pain, postoperative-pain, ADA-guideline]
+relations:
+  - type: reinforces
+    target: moore-2015-single-dose-oral-analgesics-cochrane-overview
 ---
 
 ## One-line Summary
