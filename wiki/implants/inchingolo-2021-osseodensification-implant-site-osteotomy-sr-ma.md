@@ -11,7 +11,12 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/inchingolo-2021-osseodensification-im
 pdf_filename: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma.pdf
 source_collection: external
 tags: [osseodensification, meta-analysis, primary-stability, BIC, BAFO, insertion-torque, clockwise-vs-counterclockwise]
+superseded_by: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma, lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma
+superseded_scope: partial
 ---
+
+> [!note] Partially superseded → [[marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]], [[lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]]
+> This page's meta-analysis was ANIMAL-ONLY and explicitly flagged human magnitude as unquantified ("await RCTs not yet in the wiki"). Newer human-pooled SR+MAs now fill that gap and show the human OD effect is modest and fading — ISQ MD ~3.24 (clinically small) and non-significant by secondary stability / in low-density bone. For human clinical decisions prefer the newer pages. Retained for its unique animal pooling + clockwise-vs-counterclockwise BAFO synthesis (not replicated elsewhere). (set 2026-06-21)
 
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), n=16편 (그 중 임상연구 11편: 동물 8 + 인간 3) — 골밀도화 (Osseodensification, OD)는 통상 드릴링 대비 삽입 토크와 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC)을 유의하게 높이고, 시계방향(절삭) vs 반시계방향(다짐) OD 간에는 BIC·토크는 차이 있으나 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음. 메타분석이 동물 데이터에 한정되어 인간 임상 외삽은 여전히 RCT가 필요.
@@ -48,9 +53,11 @@ PubMed-Medline-only systematic search per PRISMA. 16 papers included. The meta-a
 ## Living Document Notes
 - Use as the **best current pooled estimate** of OD vs conventional drilling — but treat the animal-only meta-analytic effect as a ceiling, not a clinical promise.
 - Cite alongside [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] when discussing OD evidence base evolution 2018→2021.
-- For human clinical decisions, await Hindi & Bede 2020 prospective and subsequent RCTs (not yet in the wiki).
+- For human clinical decisions, prefer the now-held human-pooled SR+MAs: [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] (ISQ MD 3.24, clinically small) and [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] (human benefit fades by secondary stability). The animal-only ceiling on this page over-states human gains.
 
 ## Related Papers
+- [[implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]] — supersedes (partial): human OD-only pooling, modest ISQ effect
+- [[implants/lima-monteiro-2024-osseodensification-biomechanics-histomorphometry-sr-ma]] — supersedes (partial): human ISQ fades by secondary stability
 - [[implants/padhye-2020-osseodensification-systematic-review-qualitative-analysis]] — earlier qualitative SR superseded by this one quantitatively
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — primary technique source
 - [[implants/trisi-2016-osseodensification-low-density-bone-sheep]] — included sheep histology study
