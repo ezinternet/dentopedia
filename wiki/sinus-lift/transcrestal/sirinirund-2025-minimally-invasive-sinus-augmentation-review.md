@@ -14,6 +14,9 @@ source_collection: external
 tags: [minimally-invasive, vsa, lsa, sinus-lift, endoscope, digital-planning, balloon, hydraulic]
 ---
 
+## One-line Summary
+Systematic review (SR, 36 studies, 2,732 maxillary sinus floor augmentations [MSFA]): classifies minimally invasive vertical (VSA) and lateral (LSA) sinus augmentation, recommending VSA for residual bone height ≥5 mm and LSA for <5 mm; stopper-drills, balloon, hydraulic, endoscope, and microscope techniques all achieved adequate bone gain, though perforation rates were mostly unreported.
+
 ## 한줄요약
 SR (36연구, 2,732 MSFA): 잔존골 ≥5mm = VSA, <5mm = LSA; 스토퍼·풍선·수압·내시경·현미경 — 모든 최소침습기법에서 충분한 골증량
 
