@@ -30,6 +30,10 @@ relations:
 > - **임상 ladder(재광화)**: 성인 비활성 WSL → 불소 바니시(22,600 ppm) 3개월 + CPP-ACP 자가 + 식이 교육; 고위험 root caries → SDF 보조(변색 동의); 3–6개월 재평가 후 진행 시 수복.
 > - **확신도**: 축 1·2·5 = 근거강함(SR+MA 다수); 축 3 = 합의수준; 축 4 = "차이 없음" 결론에 근거강함.
 
+## One-line Summary
+
+Synthesis integrating 8 caries SR/SR+MA into a decision ladder across 5 axes — detection, white spot lesions (WSL), remineralization, root caries, and secondary caries. Core thesis with key findings: DIAGNOdent Pen is the most sensitive detection method (0.81–0.89) while occlusal radiography is near-useless (0–0.29), with ICDAS as the clinical standard (Foros 2021, Ekstrand 2018); resin infiltration (Icon) is the top-ranked NMA option for WSL esthetics (SMD 1.24 over fluoride varnish; Xie 2023); fluoride + CPP-ACP combination is most effective for remineralization; root-caries restorative/adhesive strategies show no statistical winner (Schmidt 2024 NMA); and for secondary caries GIC = composite ≥ amalgam (Ge 2023). Clinical takeaway: detect with vision+ICDAS+DIAGNOdent rather than radiographs, favor resin infiltration when esthetics drive WSL treatment, and select root-caries materials by access/patient factors.
+
 ## 한줄요약
 
 우식 탐지·예방·관리 SR/SR+MA 8편 통합. ①탐지 — DIAGNOdent Pen 민감도 최고(0.81–0.89), 교합면 방사선 최저; ICDAS 재현성·정확도 양호. ②WSL — Resin infiltration NMA 최상위 외관 개선. ③재광화 — 불소 + CPP-ACP 병용 최선; SDF·HAP·레이저 보조. ④근관거리 우식 — 4–5개 전략 모두 유의차 없음. ⑤2차 우식 — GIC = 레진 ≥ 아말감.
