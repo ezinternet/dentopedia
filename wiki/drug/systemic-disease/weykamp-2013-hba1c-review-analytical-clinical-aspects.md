@@ -13,6 +13,9 @@ source_collection: external
 tags: [hba1c, glycemic-control, assay-methods, standardization, ngsp, ifcc, poc]
 ---
 
+## One-line Summary
+Narrative review of HbA1c measurement covering 5 assay methods (ion exchange chromatography, capillary electrophoresis, affinity chromatography, immunoassay, enzymatic), IFCC/NGSP dual standardization, Hb variant/HbF interference, and clinical application (diagnostic ≥6.5% threshold, pregnancy, point-of-care) — including the quality limitations of chairside POC testing relevant to dental screening.
+
 ## 한줄요약
 서술적 고찰 (Ann Lab Med 2013) — HbA1c 측정 5개 방법(IEC, CE, AC, 면역측정, 효소법)의 원리·강약, IFCC/NGSP 표준화, Hb 변이체·HbF·유도체 간섭, 진단(≥6.5%)·임신·POC 임상 응용 종합. 치과 chairside POC 검사의 한계도 언급.
 
