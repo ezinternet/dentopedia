@@ -13,6 +13,9 @@ source_collection: external
 tags: [convergence-angle, TOC, all-ceramic, bonded-crown, dubai, private-practice, clinical-survey, intraoral-scanner]
 ---
 
+## One-line Summary
+Cross-sectional clinical practice survey (J Clin Exp Dent 2018, Dubai; 154 dentists, 206 all-ceramic bonded crown preps, digitally scanned) finding mean total occlusal convergence (TOC) of 24.6° mesio-distal (SD 11.8) and 32.6° bucco-lingual — both far exceeding the Shillingburg 6° ideal and the Tiu 2015 SR realistic 10–22° range, documenting that real-world prep taper is much more over-tapered than textbook/SR recommendations.
+
 ## 한줄요약
 cross-sectional (J Clin Exp Dent 2018;10(12):e1192-7, MBRU Dubai, 154 dentist × 206 prep): 두바이 개원의 all-ceramic bonded crown prep 평균 수렴각 MD 24.6° (SD 11.8) / BL 32.6° — Shillingburg 이상치 6°와 Tiu 2015 SR의 현실치 10-22° 둘 다 초과; 실제 임상은 교과서·SR 권장보다 훨씬 더 over-tapered.
 
