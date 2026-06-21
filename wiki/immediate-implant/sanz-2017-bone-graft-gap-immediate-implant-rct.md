@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+RCT (n=20, 12-month CBCT) at immediately placed implants showing that filling a buccal gap ≥3mm with xenograft significantly reduces buccal bone resorption (-0.46 vs -0.84 mm, p<0.05); 100% implant survival in both groups.
+
 ## 한줄요약
 즉시식립 임플란트 협측 틈새(≥3mm) 이종골 충전 RCT — 충전군 협측 골 흡수 유의 감소(-0.46 vs -0.84mm).
 
