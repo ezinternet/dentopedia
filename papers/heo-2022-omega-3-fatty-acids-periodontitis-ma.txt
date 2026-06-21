@@ -1,0 +1,18 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC open access). PMID 35141945]
+
+TITLE: Supplemental or dietary intake of omega-3 fatty acids for the treatment of periodontitis: A meta-analysis.
+AUTHORS: Heo Hyojin; Bae Ji-Hyun; Amano Atsuo; Park Teajun; Choi Youn-Hee
+JOURNAL: Journal of Clinical Periodontology. 2022;49(4):362-377.
+DOI: 10.1111/jcpe.13603
+
+ABSTRACT:
+Aim — To evaluate the intervention effect of omega-3 fatty acids on changes in periodontal parameters.
+
+Materials and Methods — This meta-analysis included studies published in English between 2010 and 2020, extracted from the Cochrane Library, EMBASE, and PubMed databases. The effects of omega-3 fatty acid intervention were investigated using the amount of omega-3 intake, periodontal pocket depth (PPD), clinical attachment loss (CAL), and bleeding on probing (BOP). A random-effects model was generated for data analysis. To obtain robustness of the model, sensitivity analysis was implemented. Subgroup analyses were performed based on the intervention period for each parameter.
+
+Results — All 13 studies included in the meta-analysis were interventional, randomized controlled trials. Two studies implemented omega-3 fatty acid-rich diets, while 11 studies used supplements. Risk of bias was low, and publication bias was not shown. Meta-analysis showed a statistically significant PPD reduction (standardized mean difference [SMD] = -0.81, absolute mean difference [MD] = -0.44 mm), CAL gain (SMD = -0.77, MD = -0.51 mm), and BOP reduction (SMD = -0.65, MD = -9.45%) for the omega-3 fatty acid intervention overall.
+
+Conclusion — This study suggests that supplemental or dietary intake of omega-3 fatty acids for the treatment of periodontitis may have a positive impact on the disease.
+
+MeSH: Fatty Acids, Omega-3; Humans; Periodontal Pocket; Periodontitis.
+Article types: Meta-Analysis; Review.
