@@ -28,6 +28,10 @@ tags: [endodontics, vital-pulp-therapy, regenerative-endodontics, dpc, pulpotomy
 > - 균열치 사다리: craze line→관찰·교합조정, fractured cusp→수복/onlay, cracked(증상 무)→banding 후 monitoring, cracked+치수증상→근관+crown, split·수직치근파절→발치.
 > - 확신도: VPT·REP = [근거강함], 균열치 = [합의수준](narrative), 나노로봇 등 미래 = [추정](현 임상 적용 없음).
 
+## One-line Summary
+
+Synthesis decision-ladder over 21 endodontics papers on four axes — vital pulp therapy (VPT), regenerative endodontics (REP/revitalization), cracked tooth, and primary-tooth pulp therapy. Core thesis: first-line VPT material is Biodentine or MTA, not Ca(OH)₂ (Hatipoglu 2025 Bayesian NMR: Biodentine OR 4.41, MTA OR 3.02); for immature non-vital permanent teeth, REP is preferred over apexification because it preserves root length and dentin-wall thickness with equivalent survival. Clinical takeaway: AAPD 2025 now allows VPT even for selected irreversible pulpitis, primary teeth get MTA pulpotomy first-line (~93% success), and procedural depth is delegated to sub-categories (anatomy/eal/irrigation).
+
 ## 한줄요약
 
 근관 의사결정 4축 — VPT (Vital Pulp Therapy: DPC·pulpotomy) · 재생근관치료 (REP/revitalization) · cracked tooth · 유치 치수 치료. AAPD 2024/2025 + AAE 2021 + ESE 2019 + Cochrane spine. Endodontics는 별도 sub-category (anatomy·eal·irrigation)에서 더 깊이 다룸.
