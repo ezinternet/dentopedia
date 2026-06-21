@@ -13,6 +13,9 @@ source_collection: external
 tags: [bone-density, D3-bone, D4-bone, low-density, implant-design, survival]
 ---
 
+## One-line Summary
+Prospective clinico-radiographical study (n=14, D3/D4 low-density bone, square-thread Maestro™ implants, 12 months): 92.3% survival rate with statistically non-significant bone loss, demonstrating that poor bone quality is not an absolute contraindication when appropriate implant design is used.
+
 ## 한줄요약
 전향적 연구(n=14, D3/D4 골, Maestro™ 임플란트, 12개월): 생존율 92.3%; 골소실 통계적 유의차 없음 — 저밀도 골에서 특수 설계 임플란트의 임상 가능성 입증.
 
