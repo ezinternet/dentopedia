@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Three-year RCT in two-piece implants comparing platform switching (PS) vs platform matching (PM): PS produced significantly less crestal bone loss, maintained through 36 months with no difference in implant survival — extending the typically 12-month PS evidence to 3 years.
+
 ## 한줄요약
 3년 RCT: 플랫폼 스위칭(PS) vs 플랫폼 매칭(PM) — PS군에서 변연골 소실 유의하게 적음; 2피스 임플란트에서 PS의 골보존 효과 확인
 
