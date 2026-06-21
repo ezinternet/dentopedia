@@ -13,6 +13,9 @@ source_collection: external
 tags: [osteotomy, drill-material, heat-generation, drill-wear, thermal-necrosis, systematic-review]
 ---
 
+## One-line Summary
+Systematic review (PICO appraisal, 11 in vitro studies) of whether implant drill material independently affects osteotomy heat generation: the material question is inconclusive due to heterogeneous methodology and confounding, while the consistent signal is that drill wear — not material per se — predicts temperature rise, redirecting clinical attention to drill replacement protocols.
+
 ## 한줄요약
 체계적 고찰(Eur J Dent 2024, 11편 in vitro): drill 재질(세라믹 vs 금속)과 발열의 인과관계는 결론 불가; 일관된 신호는 "drill wear가 클수록 발열 증가" — 재질보다 마모/교체주기가 임상적으로 더 중요.
 
