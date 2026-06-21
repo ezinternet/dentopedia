@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, esthetic-zone, provisionalization, socket-shield, ovate-pontic, anterior-maxilla]
 ---
 
+## One-line Summary
+Narrative review / clinical guide (IntechOpen book chapter 2023) on anterior immediate implant placement + immediate loading: in well-selected cases (intact buccal plate, thick biotype, no apical pathology), atraumatic extraction, palatal-axis placement, gap grafting, and an out-of-occlusion ovate-pontic provisional preserve buccal bone and gingival architecture, with midfacial recession (~0.5–1 mm) the main residual risk.
+
 ## 한줄요약
 서술적 리뷰 (IntechOpen 챕터): 전치부 즉시식립·즉시부하 — 적절히 선택된 케이스에서 협측 골·연조직 보존 가능; 사전 진단·외상최소 발치·구개측 축 진입·골 이식·즉시 임시치관(emergence profile 조각)으로 합병증 최소화.
 
