@@ -14,6 +14,10 @@ source_collection: external
 tags: [ISQ, RFA, sinus-lift, BBM, PBM, bovine-HA, porcine-HA, split-mouth, ISQ-trajectory, crystallinity]
 ---
 
+## One-line Summary
+
+Split-mouth prospective study (10 patients, 60 implants) quantifying ISQ trajectory after sinus lift with bovine HA (BBM) vs porcine HA (PBM): BBM 63.8 (placement) → 73.5 (3 mo) → 74.65 (6 mo); higher graft crystallinity (BBM) drives faster early stability gain, with PBM catching up by 6 months.
+
 ## 한줄요약
 분할구강 전향 (10명, 60임플란트): ISQ 실측 — T0(식립)=63.8 → T2(3mo)=73.5 → T3(6mo)=74.65(BBM); 결정화도↑→ 초기 안정성 빠른 증가
 
