@@ -13,6 +13,9 @@ source_collection: external
 tags: ['peri-implant soft tissue dehiscence', 'PSTD', 'mucosal recession', 'meta-regression', 'AO/AAP']
 ---
 
+## One-line Summary
+AO/AAP systematic review + meta-regression (221 studies) of soft tissue dehiscences at implant sites in the absence of disease: mean peri-implant soft tissue dehiscence (PSTD) prevalence 46.2% and mucosal recession (MREC) 23.1%; risk factors include thin biotype, lack of keratinized mucosa, buccal implant position, immediate placement, and smoking, while ≥2 mm keratinized tissue and connective-tissue grafting (CTG) are protective.
+
 ## 한줄요약
 AO/AAP SR+meta-regression (221 연구): peri-implant soft tissue dehiscence (PSTD)·mucosal level apical shift·mucosal recession (MREC) prevalence·incidence — PSTD 평균 46.2%, MREC 23.1%; 위험·보호인자 다층 회귀로 식별.
 
