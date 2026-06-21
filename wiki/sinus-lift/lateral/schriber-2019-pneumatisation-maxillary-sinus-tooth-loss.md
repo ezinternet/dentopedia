@@ -13,6 +13,9 @@ source_collection: external
 tags: [maxillary-sinus, pneumatisation, cbct, volumetric-analysis, edentulous-maxilla, alveolar-resorption]
 ---
 
+## One-line Summary
+Retrospective CBCT volumetric study (100 posterior maxillae: 50 dentate vs 50 edentulous) found no significant difference in maxillary sinus volume, surface area, or maximum diameter between dentate and edentulous sides, indicating that post-extraction vertical bone loss in the posterior maxilla is driven by alveolar crest resorption rather than sinus pneumatisation; males had significantly larger sinuses than females.
+
 ## 한줄요약
 후향적 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT) 체적 분석 (유치악 50명 vs 무치악 50명 후방 상악): 상악동 부피·표면·최대 직경에서 유의차 없음 → 발치 후 후방 상악의 수직 골량 감소는 상악동 함기화 (Pneumatisation)가 아닌 치조정 흡수 (Alveolar Crest Resorption)에 기인함을 시사. 남성이 여성보다 상악동이 유의하게 큼.
 
