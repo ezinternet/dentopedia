@@ -13,6 +13,9 @@ source_collection: external
 tags: [history, implant-surfaces, narrative-review, education, surface-treatment]
 ---
 
+## One-line Summary
+Narrative historical-perspective review tracing dental implants across ~4,500 years — from ancient gold ligature wire (Egyptians ~2500 BC) and Mayan shell implants through early modern pioneers (Maggiolo, Greenfield, the Strock brothers' Vitallium screws, Formiggini) to Brånemark's titanium osseointegration and modern surface treatments (machined, acid-etched, SLA, hydroxyapatite, fluoride, statin). No quantitative/comparative data; suitable for teaching context only, not for surface-selection decisions.
+
 ## 한줄요약
 서술적 리뷰 (narrative review) — 치과 임플란트의 ~2500 BC 이집트 금사 결찰부터 Brånemark 티타늄 골유착 (Osseointegration)과 현대 표면처리 (machined, acid-etched, SLA, hydroxyapatite, fluoride, statin)까지 약사. 정량적 근거 없음, 교육·맥락 자료로만 사용 권장.
 
