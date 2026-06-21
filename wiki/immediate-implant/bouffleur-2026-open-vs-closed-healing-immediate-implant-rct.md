@@ -14,6 +14,9 @@ source_collection: external
 tags: [immediate-implant, open-healing, closed-healing, PES, Pink-Esthetic-Score, RCT, Heidelberg, soft-tissue, volumetric-change]
 ---
 
+## One-line Summary
+RCT (Int J Implant Dent 2026, 46 patients / 48 implants, 12-month follow-up): open vs closed (submerged) healing in immediate implant placement — the open-healing group achieved significantly higher Pink Esthetic Score (PES) (mean difference 1.49 favoring open, 95% CI -2.36 to -0.62, p=0.0014).
+
 ## 한줄요약
 Heidelberg Univ RCT (Int J Implant Dent 2026, n=46/48 implants): 즉시 임플란트 open vs closed healing — Pink Esthetic Score (PES) open group이 closed보다 유의하게 우수 (MD -1.49, 95% CI -2.36 to -0.62, p=0.0014). 12개월 결과.
 
