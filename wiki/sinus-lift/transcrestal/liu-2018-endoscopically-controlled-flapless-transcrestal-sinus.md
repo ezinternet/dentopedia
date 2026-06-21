@@ -14,6 +14,9 @@ source_collection: external
 tags: [TSFE, endoscope, flapless, PRF, RBH-low, ISQ, simultaneous-implant, case-report]
 ---
 
+## One-line Summary
+Case report (26F, #16, residual bone height [RBH] 3.5 mm): endoscope-controlled flapless transcrestal sinus floor elevation (TSFE) with platelet-rich fibrin (PRF) only and simultaneous 12 mm implant; placement implant stability quotient (ISQ) 72.6, final crown at 12 weeks — demonstrates TSFE feasibility below the conventional 4–5 mm RBH threshold.
+
 ## 한줄요약
 증례보고 (RBH 3.5mm): 내시경 무피판 TSFE + PRF + 동시 12mm 임플란트 식립; 식립 ISQ=72.6; 12주에 최종 보철 완료
 
