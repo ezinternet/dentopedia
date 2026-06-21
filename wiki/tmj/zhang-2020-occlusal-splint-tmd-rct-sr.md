@@ -13,6 +13,9 @@ source_collection: external
 tags: [occlusal-splint, tmd, stabilization-splint, rct-review]
 ---
 
+## One-line Summary
+Systematic review of RCTs finding that occlusal (stabilization) splints significantly reduce pain in temporomandibular disorder (TMD) versus no treatment, but show no clinically meaningful superiority over non-occluding/placebo splints, with GRADE certainty rated low to moderate due to blinding limitations.
+
 ## 한줄요약
 RCT 체계적 문헌고찰: 교합안정장치(Occlusal Splint)가 악관절증(TMD) 환자에서 통증을 유의하게 감소시키나, 플라시보 장치 대비 우월성 증거는 낮은 수준임.
 
