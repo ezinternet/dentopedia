@@ -13,6 +13,9 @@ source_collection: external
 tags: [periodontitis, NSPT, cardiovascular-disease, CRP, IL-6, systemic-effects]
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (21 RCTs) on non-surgical periodontal therapy (NSPT/SRP) and cardiovascular risk markers in periodontitis patients: NSPT significantly reduces CRP (low certainty), IL-6 (moderate), and systolic blood pressure (moderate), but produces no significant change in LDL, HDL, total cholesterol, TG, DBP, TNF-α, IL-1β, or FMD.
+
 ## 한줄요약
 SR+MA(21개 RCT): 치주 비수술 치료(SRP) 후 CRP·IL-6·수축기혈압 유의하게 감소; 지질(LDL·HDL·TC·TG) 및 이완기혈압은 유의미한 변화 없음.
 
