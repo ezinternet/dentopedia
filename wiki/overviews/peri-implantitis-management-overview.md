@@ -204,7 +204,10 @@ Surgical:
     Non-contained / horizontal loss → Resective or access surgery
     Surface decontamination: no single superior protocol; combine mechanical + chemical
     aPDT: low-certainty adjunct
+    Local antibiotic (2% minocycline ointment): adjunct to debridement reduces PD/BoP at 12 wk (Lu 2026 RCT)
 ```
+
+**Non-surgical adjunct — local antibiotic:** Lu 2026 (multicenter single-blind RCT, n=46) found adjunctive subgingival **2% minocycline ointment** reduced probing depth and BoP at 12 weeks versus debridement alone in established peri-implantitis, with transient microbiologic benefit at 8 weeks but follow-up too short for radiographic/bone conclusions. This mirrors the mucositis evidence (adjuncts give modest short-term gains over a mechanical backbone) — local antibiotics are a reasonable non-surgical adjunct but do not replace PMPR or surgery for advanced defects. [근거중간]
 
 ---
 
@@ -232,6 +235,8 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[implants/peri-implantitis/mauriello-2026-peri-implant-mucositis-adjunctive-narrative-review]] — adjunctive therapy for mucositis
 - [[implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr]] — nonsurgical mucositis therapy SR (21 studies, n=1068): mechanical debridement alone suffices
 - [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] — 5-arm RCT: glycine air abrasion no significant superiority over mechanical instrumentation
+- [[implants/peri-implantitis/lu-2026-minocycline-local-delivery-peri-implantitis-multicenter-rct]] — multicenter RCT (n=46): adjunctive 2% minocycline ointment reduces PD/BoP at 12 wk vs debridement alone; follow-up too short for radiographic conclusions
+- [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — sibling: long-term SPT / maintenance recall after active treatment
 - [[implants/peri-implantitis/lin-2025-influence-of-prosthetic-designs]] — prosthetic MBL levers SR+MA
 - [[implants/peri-implantitis/soulami-2022-implant-abutment-emergence-angle-peri-implantitis-sr]] — emergence angle >30° / convex profile → peri-implantitis (SR, 3 studies)
 - [[implants/peri-implantitis/basak-2024-restoration-margin-alveolar-bone-distance-implant]] — RM-AC ≤1.5 mm → 3.42× MBL; IDRA threshold validation (retrospective)

@@ -81,6 +81,8 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 
 이 메커니즘이 4개 적용 시나리오의 공통 분모다. ISQ가 항상 오르는 건 아니라는 점은 Huwais 2016에서도 이미 명시 — OD의 차별점은 IT와 BIC, ISQ는 부수효과 [근거강함].
 
+**기구 공학적 기반 (patent layer):** OD 버의 핵심 설계는 특허 문헌에 정의돼 있다. [[implants/huwais-2017-autografting-tool-enhanced-flute-profile]] (PCT WO 2017/124079, Versah/Densah)는 *연속적 음의 레이크각 (negative rake angle)* 과 날마다 절삭면+압밀면을 둔 구조로, 한 방향(CW)은 절삭·반대 방향(CCW)은 골 압축/유압식 자가이식을 구현 — 위 CW/CCW 메커니즘의 공학적 근거다. [[implants/kim-2019-double-spiral-condensing-screw-implant]] (KR 특허, HaeNaem)은 이중나선(압축 thread + 골분 유도 grooves + 하부 압축 dome)으로 측방·치근단 압밀을 한 번에 달성해 경치조골 상악동거상까지 노린 대체 OD 기구의 설계 기반이다. 즉 Versah(미국)·HaeNaem(한국) 두 계열 모두 "절삭 대신 압밀+자가이식"이라는 동일 원리를 서로 다른 기하로 구현한다.
+
 **발열·버 재사용 안전** [[wiki/implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw|Soldatos et al. 2024 (cadaver tibiae, 360 osteotomy)]] [합의수준]: CCW(densification) 모드에서 **3.0/4.0 버를 23회 이상 재사용 + 800/1200 RPM 조합 시 ΔT가 골괴사 임계 47°C 초과**. **1000 RPM이 두 모드 모두 최저 발열**. → 임상 규칙: ① 버는 ~23회에서 교체, ② 저밀도골이라도 RPM을 무작정 높이지 말 것(1000 rpm 부근 권장), ③ 관수 보조. 무관수 고RPM + 마모 버 조합이 가장 위험.
 
 ---
@@ -227,6 +229,8 @@ graph LR
 ## Related Papers
 - [[implants/fontes-pereira-2023-osseodensification-osteotomy-alternative-sr]] — spine SR
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — 메커니즘 원위논문
+- [[implants/huwais-2017-autografting-tool-enhanced-flute-profile]] — Versah/Densah 버 특허 (음의 레이크각·절삭/압밀 양면 날) — 기구 공학적 기반
+- [[implants/kim-2019-double-spiral-condensing-screw-implant]] — HaeNaem 이중나선 condensing screw 특허 — 한국형 OD 기구 설계 기반
 - [[implants/isq/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — ISQ outcome SR
 - [[implants/isq/konuklu-2026-five-osteotomy-protocols-isq-rct]] — 최근 RCT
 - [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] — sub-antral SR+MA

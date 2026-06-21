@@ -68,10 +68,13 @@ The notable shift is the **expansion of pulpotomy into irreversible pulpitis**: 
 | Comparison | Finding | Evidence |
 |---|---|---|
 | Hall technique (HT, no anaesthesia/prep/caries removal) vs conventional | Faster (7.1 vs 17.4 min), less child pain, better parental acceptability | [[mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct]] |
+| HT vs conventional — 12-mo clinical outcomes | Both 100% success and 100% survival (P=1.0, non-inferiority confirmed); HT-induced OVD rise (1.18 mm) self-resolved within 1 month | [[caries/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct]] |
 | HT vs modified HT (selective caries removal first) | Equal 24-mo success (86.6% vs 92.8%, NS); **SSC fit decisive** (insufficient → 40% major failure vs 7.3%) | [[konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] |
 | Prefabricated zirconia crown (PZC) vs SSC | Comparable retention/success (OR 0.96 NS; RR 0.99) but **PZC retention lower** (RR 0.95) and PZC better gingival health/esthetics | [[chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]]; [[muller-bolla-2025-zirconia-vs-ssc-primary-molars-split-mouth-rct]] |
 
-The operator-controllable success lever for crowns is **marginal fit** (Konukman 2026). Zirconia buys esthetics and gingival health at the price of retention, cost, technique-sensitivity, and possible antagonist wear.
+The operator-controllable success lever for crowns is **marginal fit** (Konukman 2026). Zirconia buys esthetics and gingival health at the price of retention, cost, technique-sensitivity, and possible antagonist wear. For **luting pediatric zirconia crowns**, a conventional GIC (95.3% retention) is a clinically acceptable alternative to self-adhesive resin cement (100%) — no significant 36-month difference in retention or gingival health ([[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]], primary incisors).
+
+**Non-restorative arrest (when restoration is not feasible/indicated):** for cavitated dentinal lesions in primary molars, **silver diamine fluoride (SDF)** may give favourable short-term (≤12 mo) caries arrest versus conventional restoration, but the randomised base is thin (2 RCTs, no pooling) — a minimal-intervention option for pre-cooperative children or as an interim measure, not a crown substitute ([[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]]).
 
 ### Decision axes (synthesis)
 
@@ -100,3 +103,6 @@ Restoration:
 - [[caries/mohamed-2025-conventional-vs-hall-pmc-primary-molars-rct]] — conventional vs Hall (experience)
 - [[caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] — zirconia vs SSC SR+MA
 - [[caries/muller-bolla-2025-zirconia-vs-ssc-primary-molars-split-mouth-rct]] — zirconia vs SSC split-mouth RCT
+- [[caries/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct]] — conventional vs Hall, 12-mo outcomes (both 100% success; OVD self-resolves) — companion to mohamed-2025
+- [[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]] — GIC vs resin cement for luting pediatric zirconia crowns (36-mo RCT, NS)
+- [[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]] — SDF for cavitated primary molars (SR, 2 RCTs) — non-restorative arrest option
