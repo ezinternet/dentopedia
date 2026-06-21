@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, abutment-height, retention, TheraCem, glass-ionomer, short-clinical-crown, self-adhesive-cement]
 ---
 
+## One-line Summary
+In vitro pull-out retention study (IJOD 2026; monolithic zirconia crowns, abutment height 2 mm vs 4 mm × TheraCem vs glass ionomer): abutment height strongly correlated with retention (r=0.95) and TheraCem self-adhesive resin cement outperformed glass ionomer at both heights, supporting its use for short clinical crowns.
+
 ## 한줄요약
 in-vitro(IJOD 2026): 지대치 높이(2mm vs 4mm) × TheraCem vs 글라스아이오노머 단일체 지르코니아 유지력 — 지대치 높이-유지력 r=0.95; TheraCem > GI 전 높이; 짧은 임상 크라운에서도 자가접착 레진시멘트 권장.
 
