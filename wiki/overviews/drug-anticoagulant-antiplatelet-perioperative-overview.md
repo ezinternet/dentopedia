@@ -40,6 +40,10 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 아스피린 1차 예방 환자도 이미 복용 중이면 중단 금지 원칙 동일 적용 (USPSTF 2022).
 > - **근거 수준**: VKA 중단 vs 지속 동등(낮음, 이질성 높음), DOAC 단순 발치 지속(중간), NSAID-아스피린 차단(강함, RCT+약역학). 처치 전 체크리스트로 약물 목록 확인·처방의 사전 연락·국소 지혈 준비를 표준화.
 
+## One-line Summary
+
+Synthesis of 15 papers on perioperative management of anticoagulants and antiplatelets for dental procedures. Core thesis: do not routinely interrupt these drugs — thromboembolic risk (stroke, MI, stent thrombosis) outweighs dental bleeding risk, and bridging therapy only increases bleeding without thrombotic benefit. Clinical takeaway: continue VKA when INR ≤3.5, continue DOACs for simple extractions, obtain cardiology consult before altering dual antiplatelet therapy (DAPT), use 4.8% tranexamic-acid (TXA) mouthwash as first-line local hemostasis, and prefer acetaminophen over ibuprofen for post-op analgesia in aspirin patients (NSAID–aspirin antiplatelet interaction).
+
 ## 한줄요약
 항응고제·항혈소판제는 루틴 치과 처치 시 중단 불필요 — 중단에 따른 혈전 위험 > 치과 출혈 위험. INR ≤3.5 VKA 지속, DOAC 단순 발치 지속, DAPT 심장내과 협진, 트라넥삼산(Tranexamic Acid, TXA) 양치액이 1차 국소 지혈제.
 
