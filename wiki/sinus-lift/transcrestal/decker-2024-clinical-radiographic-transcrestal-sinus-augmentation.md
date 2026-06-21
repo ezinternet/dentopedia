@@ -14,6 +14,9 @@ source_collection: external
 tags: [TSFE, scoping-review, osteotome, ISQ, MBL, implant-failure, 25-year-review]
 ---
 
+## One-line Summary
+PRISMA-ScR scoping review (Michigan group; 633 records → 37 included) of 25 years of transcrestal sinus floor elevation (TSFE): classifies 4 treatment modalities (osteotome + 3 alternatives) and synthesizes radiographic bone levels and implant failure beyond 5 years, plus ISQ at placement and complications as secondary outcomes — a landscape map with no statistical pooling.
+
 ## 한줄요약
 TSFE 25년 scoping review (37논문): 4가지 transcrestal 술식 분류; 5년 이상 방사선적 골소실·실패율·ISQ·합병증 종합
 
