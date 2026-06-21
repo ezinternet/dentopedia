@@ -13,6 +13,9 @@ source_collection: external
 tags: ['PES', 'immediate provisionalization', 'pink esthetic score', 'IIP', 'mid-facial recession']
 ---
 
+## One-line Summary
+PRISMA SR+MA (GRADE-rated) of soft-tissue esthetic outcomes in anterior maxillary immediate implants with vs without immediate provisionalization (IP): the IP group trends toward better Pink Esthetic Score (PES) and reduced midfacial mucosal recession with equivalent survival (concordant with Pitman 2022 and Qin 2023).
+
 ## 한줄요약
 SR+MA: 즉시식립에서 즉시임시치관 (IP) 유무에 따른 PES (pink esthetic score) 중심 연조직 심미 결과 — BoP, PD, plaque index, papilla recession, midfacial mucosal recession 보조 평가; GRADE 적용.
 
