@@ -14,6 +14,9 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, incobotulinumtoxin-a, xeomin, lip-repositioning-surgery, combined-approach, hypermobility, longitudinal]
 ---
 
+## One-line Summary
+Experimental single-arm series (n=10 female): pre-surgical incobotulinumtoxinA → lip repositioning surgery → repeat BTX-A at 2/4/8 months reduced gingival display from 5.12 to 0 mm (sustained 14 days–8 months) with only 0.78 mm relapse at 12 months (p<0.0001) — a combined protocol claimed more durable than BTX-A alone or surgery alone.
+
 ## 한줄요약
 Experimental n=10 female: IncoBotulinumTox A 사전 주입 → 입술 재배치 수술 → 2/4/8개월 반복 BTX-A; 잇몸노출 5.12 → 0 mm (14일~8개월 유지), 12개월 0.78 mm minimal relapse — BTX-A 단독·수술 단독보다 안정적이라 주장한 1년 follow-up 단일군 연구.
 
