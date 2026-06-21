@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, transcrestal-sinus-lift, posterior-maxilla, early-loading, baosfe]
 ---
 
+## One-line Summary
+Retrospective case series (19 patients, 22 maxillary molar implants): immediate implant placement (IIP) combined with simultaneous transcrestal sinus floor elevation (Summers' BAOSFE) and early loading at 6-8 weeks showed, over a mean 33.12-month follow-up, 100% implant survival, 95.45% success (Buser criteria), and negligible mean crestal bone loss (−0.054 ± 0.56 mm).
+
 ## 한줄요약
 후향적 케이스 시리즈(상악구치부 즉시식립 22개): 즉시식립(Immediate Implant Placement, IIP) + 동시 경치조골 상악동거상술(Bone-Added Osteotome Sinus Floor Elevation, BAOSFE) + 조기 부하 프로토콜에서 평균 33.12개월 추적 시 생존율 100%, 성공률 95.45%, 변연골 흡수 평균 −0.054 mm로 보고.
 
