@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of oral lichen planus (OLP) malignant transformation: erosive/atrophic subtypes carry the highest risk and tobacco/alcohol co-exposure amplifies it, with a transformation rate ~1% under strict criteria; 6-month clinical and histological surveillance is recommended.
+
 ## 한줄요약
 OLP 악성전환 위험인자·추적 프로토콜 고찰 — 6개월 주기 임상+조직학적 평가 권고.
 
