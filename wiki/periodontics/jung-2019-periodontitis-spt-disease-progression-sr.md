@@ -13,6 +13,9 @@ source_collection: external
 tags: [spt, supportive-periodontal-therapy, disease-progression, cal-loss, clinical-attachment-level, compliance, smoking, oral-hygiene, long-term, periodontitis]
 ---
 
+## One-line Summary
+Systematic review (17 publications, 14 investigations, 964 patients, 5–15 year follow-up) of periodontal disease progression after supportive periodontal therapy (SPT): 10/14 studies showed mean CAL loss ≤0.5 mm (stable), sites with ≥2 mm CAL loss were 3–20%, and poor oral hygiene, smoking, and poor SPT compliance were the main progression predictors.
+
 ## 한줄요약
 치주지지치료(SPT) 후 치주질환 진행 SR (JPIS 2019): 17편·14연구·964명·5–15년 추적; 10/14 연구 CAL 손실 ≤0.5mm(안정); 구강위생불량·흡연·SPT 불순응이 진행 예측인자.
 
