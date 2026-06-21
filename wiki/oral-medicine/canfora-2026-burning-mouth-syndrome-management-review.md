@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Comprehensive management review of burning mouth syndrome (BMS): no single cure, with topical clonazepam rinse-and-spit holding the strongest RCT evidence for pain reduction, plus CBT and low-dose TCAs/gabapentinoids in a multimodal combination approach.
+
 ## 한줄요약
 BMS 포괄적 관리 전략 — clonazepam 국소 1차 치료, CBT, 저용량 TCA 다학제 접근.
 
