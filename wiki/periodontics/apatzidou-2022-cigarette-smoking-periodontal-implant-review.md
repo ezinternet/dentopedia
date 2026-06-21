@@ -14,6 +14,9 @@ source_collection: external
 tags: [smoking, periodontitis, peri-implantitis, mechanism, host-response, microbiome, MMPs, Periodontology-2000]
 ---
 
+## One-line Summary
+Periodontology 2000 narrative review on the mechanisms by which cigarette smoking damages periodontal and peri-implant tissue homeostasis — impaired neutrophil function, elevated MMPs (especially MMP-8), subgingival microbial community shifts, and compromised wound healing — providing the mechanistic basis for the ~2-6x periodontitis risk and significantly elevated peri-implantitis risk.
+
 ## 한줄요약
 Periodontology 2000 review (Apatzidou 2022): 흡연이 치주질환과 임플란트 결과에 미치는 영향의 기전 종합 — neutrophil 기능 손상, MMPs 상승, 치주미생물군 변화, 조직 항상성 손상. Periodontitis 2-6배, peri-implantitis 위험 유의 증가의 mechanistic 근거.
 
