@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA (103 articles, laboratory studies + RCTs): bulk-fill composites show significantly less polymerization shrinkage, polymerization stress, and cusp deflection than conventional composites, with flowable bulk-fill having superior degree of conversion at >2 mm depth but lower microhardness at ≤2 mm; clinical performance in RCTs over 1–10 years was equivalent to conventional composites.
+
 ## 한줄요약
 103개 논문(실험실+RCT) 메타분석: 벌크필 레진은 중합수축, 중합응력, 교두편향이 적고 유동성 벌크필은 2 mm 초과 깊이에서 전환율 우수하나, 2 mm 이하에서 미세경도 낮음; 임상시험(1–10년)에서는 기존 레진과 동등.
 
