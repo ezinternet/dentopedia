@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Pragmatic multicenter RCT comparing immediate-loading post-extractive single implants vs delayed placement (after 4 months socket preservation) in the anterior maxilla; at 1 year no significant difference in failure rates or esthetic/clinical outcomes, given adequate primary stability gating (≥35 Ncm).
+
 ## 한줄요약
 실용주의 다기관 RCT (Eur J Oral Implantol 2015): 전치부 즉시 부하 IIP vs 4개월 healing 후 지연 식립 — 1년 시점 implant 실패율과 esthetic outcome은 유의차 없음, 단 충분한 insertion torque(≥35 Ncm) 전제.
 
