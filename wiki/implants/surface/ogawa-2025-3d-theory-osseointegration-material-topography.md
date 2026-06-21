@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseointegration, UV-photofunctionalization, surface, biological-aging, titanium, topography]
 ---
 
+## One-line Summary
+Narrative review introducing the 3D Theory of Osseointegration, framing bone-implant integration as governed by three interdependent dimensions — material composition (D1), surface topography/roughness (D2), and time/biological aging via hydrocarbon accumulation (D3); UV photofunctionalization resolves D3, leaving topography (D2) as the primary remaining frontier.
+
 ## 한줄요약
 서술적 고찰: 골유착 3차원 이론 — 재료(D1)·표면형상(D2)·시간/노화(D3)의 상호의존성; UV 광기능화로 티타늄 생물학적 노화 완전 역전.
 
