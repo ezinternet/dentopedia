@@ -14,6 +14,9 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, electromyography, c-map, llsan, zygomaticus, prospective, subtype-tailored]
 ---
 
+## One-line Summary
+Prospective single-arm clinical study (n=10) of subtype-tailored low-dose BTX-A (1.25 U/site) for gummy smile: gingival display fell from 6.20 → 3.30 mm at 2 weeks (−2.90 mm, p<0.001) with C-MAP dropping 254.7 → 114.8 µV; both returned toward baseline by 6 months. First study to use EMG (C-MAP) to objectively quantify upper-lip elevator blockade by BTX-A.
+
 ## 한줄요약
 Prospective n=10: subtype별 1.25 U/site BTX-A 주입 후 잇몸노출 6.20 → 3.30 mm (-2.90, p<0.001), C-MAP 254.7 → 114.8 µV (2주차) — EMG로 muscle blockade 객관 확인한 첫 임상연구; 6개월 baseline 근접 회복.
 
