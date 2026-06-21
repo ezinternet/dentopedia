@@ -13,6 +13,9 @@ source_collection: external
 tags: [tmj-osteoarthritis, tmd, pathophysiology, epidemiology, diagnosis, cbct, dc-tmd, condyle-bone-change, korean-review]
 ---
 
+## One-line Summary
+Korean narrative review (2023) on TMJ osteoarthritis (TMJ OA) pathophysiology, epidemiology, and diagnosis: overload → hypoxia/HIF-1 → VEGF/MMP → cartilage and bone destruction; female/age-predominant but inconsistent epidemiology; CT is the diagnostic gold standard (κ=0.71 vs MRI 0.46 vs panoramic 0.16), with cortical continuity (erosion/subchondral cyst) more diagnostic than condylar flattening, and DC/TMD clinical criteria (sens 0.55/spec 0.61) requiring imaging.
+
 ## 한줄요약
 대한치과의사협회지 2023 특집 종설: TMJ 골관절염 기전(과부하 → 저산소증/HIF-1 → VEGF·MMP → 연골·골 파괴), 역학(여성·고령 우세하나 비일관), 진단(CT가 gold standard: κ=0.71 vs MRI 0.46 vs 파노라마 0.16). DC/TMD 임상 기준 민감도 0.55·특이도 0.61로 영상 필수; 침식·연골하낭종(피질골 연속성 소실)이 단순 편평화보다 진단적.
 
