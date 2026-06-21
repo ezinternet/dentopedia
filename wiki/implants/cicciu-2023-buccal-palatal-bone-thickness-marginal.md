@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Multi-center prospective study (90 implants, maxillary premolar area) of buccal/palatal bone thickness and post-surgical marginal bone change: mean buccal thickness fell 2.42 → 1.92 mm from placement (T0) to 3-month uncovering (T1) (p<0.001) with negligible vertical loss, and thicker initial bone correlated inversely with horizontal resorption — supporting the ≥2 mm buccal bone rule of thumb.
+
 ## 한줄요약
 상악 소구치부 implant 90개 전향적 다기관 연구: T0 협측 평균 골 두께 2.42 mm → T1 1.92 mm로 유의 감소(p<0.001), T0 골 두께가 두꺼울수록 EMBL이 작아지는 역상관 — 1mm 미만의 얇은 협측골은 위험 인자.
 
