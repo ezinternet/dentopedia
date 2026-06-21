@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review of 23 high-quality studies (histopathologically confirmed oral lichen planus, OLP, with ≥5-year follow-up under WHO/Li criteria): true malignant transformation rate (MTR) is 0.5–1.4% — substantially lower than earlier ~5% estimates — with median time to transformation ~5 years and higher risk in erosive/atrophic subtypes.
+
 ## 한줄요약
 고품질 연구만 선별: 구강편평태선(OLP)의 진정한 악성전환율은 0.5–1.4%.
 
