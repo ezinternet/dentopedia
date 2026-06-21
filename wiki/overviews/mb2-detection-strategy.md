@@ -24,6 +24,10 @@ source: synthesis
 > - 성별은 집단·치아별로 방향이 엇갈려(한족 남성 우세 vs 칠레·사우디 PMFM 여성 우세) MB2 사전확률 보정에 부적합 — 성별 무관 탐지가 안전.
 > - 임상 플로우: 방사선 판독 → 탐침 → DOM → DOM+초음파 홈형성 → 술중 CBCT, 실패 시 치료 범위 문서화+환자 설명. I²>95% 고이분산 — "몇 %"보다 "어떤 방법으로 측정했나"가 더 중요.
 
+## One-line Summary
+
+Synthesis mapping second mesiobuccal canal (MB2) detection in maxillary molars as a population-prevalence × detection-technique matrix. Core thesis: MB2 should be assumed present (not absent) and actively hunted — first-molar prevalence is ~47–79% across populations (Han CBCT 63.7%, Iranian 60%, Chilean 69.8%) and second-molar ~23–48%, while detection sensitivity rises stepwise from periapical radiograph 15% → probing 79% → dental operating microscope (DOM) 82% → DOM + ultrasonics 86% → CBCT (gold standard) ~100%, so the measurement method largely determines the reported prevalence; the chair-side flow is radiograph → probing → DOM → DOM+ultrasonic troughing (~2.4–2.7 mm palatal to MB1) → intraoperative CBCT.
+
 ## 한줄요약
 상악 제1대구치 MB2 유병률 60–64%(한족·이란인), 제2대구치 23–33% — 탐지 민감도는 치근단 방사선 15% → 탐침 79% → DOM 82% → DOM+초음파 86%로 단계적 상승; CBCT가 gold standard.
 
