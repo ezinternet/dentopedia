@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, crown-retention, hot-acid-etching, hydrofluoric-acid, nitric-acid, panavia-sa, GC-linkforce, MDP, adhesive-cement, mansoura, zurich]
 ---
 
+## One-line Summary
+In-vitro 2×2 factorial study (Materials 2021, n=40 maxillary premolars) of zirconia crown retention: air-abrasion ± hot-acid etching (48% HF + 69% HNO₃) × Panavia SA Cement vs GC LinkForce — hot-acid etching significantly improved retention (p=0.001) while cement type alone was non-significant (p=0.882); strongest combination was air-abrasion + hot-acid + Panavia SA, though hot-acid handling is impractical for routine clinical use.
+
 ## 한줄요약
 in-vitro (Materials 2021;14:960, Mansoura/Zurich, n=40 maxillary premolar, 2×2 factorial): 지르코니아 크라운 air-abrasion ± 핫애시드 에칭 (48% HF + 69% HNO₃) × Panavia SA Cement vs GC LinkForce — 핫애시드 에칭 유지력 유의 향상 (p=0.001), 시멘트 종류 단독 NS (p=0.882); 최강 조합: air-abrasion + 핫애시드 + Panavia SA (AHP); 실패 양상: Panavia SA mixed, LinkForce adhesive.
 
