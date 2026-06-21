@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Cross-sectional CBCT study (Pakistani population, n=196 maxillary anterior teeth) found Kan sagittal root position (SRP) Class I in 81.7% and labial bone thickness (LBT) mostly 0.5–0.9 mm, indicating most patients are anatomically suitable for immediate implant placement but thin buccal bone often warrants augmentation.
+
 ## 한줄요약
 파키스탄인 CBCT 단면 연구: SRP Class I이 81.7%로 압도적이고 LBT는 대부분 0.5–0.9 mm로 얇음 — 인구 다수가 immediate implant 호적자이나 얇은 협측골은 추가 augmentation 필요성을 시사.
 
