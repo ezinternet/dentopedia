@@ -14,6 +14,8 @@ tags: [cochrane, systematic-review, meta-analysis, ARP, GRADE-very-low]
 relations:
   - type: refines
     target: bassir-2018-alveolar-ridge-preservation-meta-analysis
+  - type: refines
+    target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
 ---
 
 ## One-line Summary
