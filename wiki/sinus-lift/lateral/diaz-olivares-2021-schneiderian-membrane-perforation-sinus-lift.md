@@ -14,6 +14,9 @@ source_collection: external
 tags: [schneiderian-membrane, perforation, sinus-lift, implant-survival, lateral-window, complication]
 ---
 
+## One-line Summary
+SR+MA (7 studies, 3604 implants): Schneiderian membrane perforation rate during lateral-window sinus floor augmentation was 30.6%; implant survival under repaired perforations was 97.68% vs 98.88% for non-perforated sites — no significant difference, indicating that an adequately repaired perforation is not a risk factor for implant failure.
+
 ## 한줄요약
 SR+MA: 천공률 30.6%; 봉합 후 생존율 97.68% vs 무손상 98.88% — 유의차 없음; 적절히 봉합하면 천공이 위험인자 아님
 
