@@ -32,6 +32,10 @@ source_wiki:
 > - 연결부 선택: 내부 연결 (Internal Connection, IC) 특히 모스 테이퍼 (Morse taper) 가 외부 육각형 (External Hexagon, EH) 대비 마이크로갭 (microgap) 이 치조정 골에서 멀어져 세균 오염 감소 + 나사 안정성 우수 — 플랫폼 스위칭과 조합 시 변연골소실 (MBL) 최소화 (Seong 2016 대한치과의사협회지 서술리뷰). [합의수준]
 > - 임상 메모: 단일 임플란트 10년 추적에서 인접접촉상실 (Proximal Contact Loss, PCL) 이 흔하므로 "5–10년 사이 보철 조정이 필요할 수 있다"를 환자 설명에 포함한다.
 
+## One-line Summary
+
+General-implant clinical decision ladder integrating ~130 papers (implants top-level + surface + ISQ) across 6 axes — patient risk factors (smoking/periodontitis/bone density/systemic disease), implant design (short implants/platform switching/tissue-vs-bone level/connection), drill thermal & preparation protocol, peri-implant soft tissue, peri-implantitis prevention/diagnosis/treatment, and prosthetic format. Core thesis: stratify by risk (peri-mucositis 43–46%/peri-implantitis 21–22%; smoking early-failure OR 2.59; Type IV bone failure 1.5–1.9×), prefer short implants and platform switching where augmentation can be avoided, maintain keratinized tissue ≥2 mm, and manage thermal stress; ISQ, surface, and OD depth are delegated to dedicated overviews.
+
 ## 한줄요약
 
 임플란트 일반 5축 — 환자 위험인자(흡연·치주염력·골밀도·전신질환) · 임플란트 디자인(short·platform switching·tissue vs bone level) · Drill thermal·preparation protocol · 연조직 · peri-implantitis 예방·진단·치료. EFP/AAP Workshop SR + Cochrane + 2024–2026 신규 SR-MA를 thesis 분기·결정 트리에 통합.
