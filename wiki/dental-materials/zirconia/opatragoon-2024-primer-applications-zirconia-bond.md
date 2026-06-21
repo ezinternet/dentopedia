@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, MDP, primer, application-number, SBS, bond-strength, protocol]
 ---
 
+## One-line Summary
+In vitro study (Eur J Dent 2024) comparing 1, 2, and 3 applications of MDP-containing primer on dental zirconia shear bond strength: additional primer coats did not significantly increase SBS (no dose-response), so a single application is sufficient.
+
 ## 한줄요약
 in-vitro(Eur J Dent 2024): 지르코니아 MDP 프라이머 적용 횟수(1·2·3회) — 추가 도포 횟수가 SBS를 유의하게 증가시키지 않음; 1회 도포로 충분.
 
