@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Retrospective cross-sectional CBCT study (35 patients, 40 sinuses) of edentulous maxillary molar regions before lateral-window sinus floor augmentation: mean sinus mucosal thickness (SMT) was 1.09 ± 1.30 mm, with 25% above the 2 mm threshold and 50% below the 0.8 mm threshold; sex, time since extraction, reason for extraction, sinus septa, and nasal septum deviation were significant factors influencing SMT (all P < .05).
+
 ## 한줄요약
 무치악 상악 구치부 35명 (40 상악동) 콘빔 컴퓨터 단층촬영 (Cone-Beam Computed Tomography, CBCT) 후향 분석: 상악동점막두께 (Sinus Mucosal Thickness, SMT) 평균 1.09 ± 1.30 mm, 천공 위험 임계치인 2 mm 초과가 25%·0.8 mm 미만이 50%였으며 성별, 발치 후 경과 시간, 발치 사유, 상악동 격벽 (sinus septa), 비중격 편위 (nasal septum deviation)가 유의한 영향 인자였다.
 
