@@ -14,6 +14,9 @@ source_collection: external
 tags: [burnout, COVID, dentist, management, occupational-health, workplace-dynamics]
 ---
 
+## One-line Summary
+PROSPERO-registered systematic review (narrative synthesis, Newcastle-Ottawa quality) of dental-professional burnout across the full pre-/intra-/post-COVID arc: high EE/DP/reduced-PA persist in all three phases (no return to baseline), pandemic stressors amplify impact, and workplace dynamics & professional relationships emerge as the leading modifiable factor — authors call for occupational-health (organizational) strategies over individual coping programs.
+
 ## 한줄요약
 COVID 전·중·후 전 구간을 담은 첫 dentist 번아웃 SR — 모든 phase에서 EE/DP/PA 저하 확인, pandemic-related stress가 증폭 인자. 핵심 모디파이어블 레버는 **workplace dynamics & professional relationships**. 개인 코핑보다 occupational health strategy 권고.
 
