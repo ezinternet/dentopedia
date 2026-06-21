@@ -14,6 +14,10 @@ source_collection: external
 tags: [ISQ, RFA, sinus-lift, beta-TCP, hydroxyapatite, Astra-Tech, two-stage]
 ---
 
+## One-line Summary
+
+Prospective study (92 patients, 170 Astra Tech OsseoSpeed implants, two-stage protocol): ISQ at 4 months post-placement was statistically equal between sinus-augmented (β-TCP or HA+β-TCP) and non-augmented native posterior maxilla (p=0.789), and graft material chemistry did not affect ISQ outcome.
+
 ## 한줄요약
 전향연구 (92명, 170 Astra Tech): 상악동거상(β-TCP/HA+β-TCP) 후 4mo ISQ = 비증대 자연골과 동등(p=0.789); 이식재 종류 무관
 
