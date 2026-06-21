@@ -13,6 +13,9 @@ source_collection: external
 tags: [resistance-form, auxiliary-features, proximal-groove, short-molar, overtapered, JPD, manchester]
 ---
 
+## One-line Summary
+In vitro study (Ivorine short molar, 22° TOC × 3.0 mm height × chamfer; 3 groups, n=10 each) of two rescue strategies for overtapered short molars: both proximal grooves (156.75 N mean dislodgement force) and cervical-only TOC reduction (22°→4° in cervical 1.5 mm) significantly restored resistance form versus control.
+
 ## 한줄요약
 in-vitro (J Prosthet Dent 2011;106(5):305-309, Manchester): 짧은 대구치(3.0 mm 높이) × 22° TOC × chamfer 기본형에 (1) 인접면 grooves 추가 OR (2) cervical 1.5 mm에서 TOC 22°→4°로 줄이기 — 두 방식 모두 control 대비 저항형 회복 (proximal grooves 156.75N 평균); 임상에서 prep이 ideal에서 벗어났을 때 실용적 보완 옵션.
 
