@@ -13,6 +13,9 @@ source_collection: external
 tags: [periodontitis, implant, peri-implantitis, survival-rate, bone-loss, pocket-depth, history-of-periodontitis, risk-factor, meta-analysis]
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (Dent J 2024; 5 databases, 10,775 articles screened, 8 qualitative / 10 quantitative) on implant health in treated periodontitis patients: a history of treated periodontitis confers ~4.8× higher odds of peri-implantitis, plus reduced implant survival and greater pocket depth and peri-implant bone loss versus periodontally healthy controls.
+
 ## 한줄요약
 치주염 기왕력 환자 임플란트 건강 SR+MA (Dent J 2024): MEDLINE+Embase+Cochrane 등 5개 DB, 10,775편 검색; 8편 정성·10편 정량; 치주염 기왕력 → 치주위임플란트염(Peri-implantitis) ~4.8배, 임플란트 생존율 감소.
 
