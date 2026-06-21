@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Human split-mouth RCT (Murcia): DBBM (techBiomat bone®) alveolar ridge preservation achieved CBCT bone-fill >75% in 87% of test sites vs 7% of natural-healing controls, with new bone 42% vs 25% and residual graft <9% at 6 months.
+
 ## 한줄요약
 인체 split-mouth RCT (Murcia 대학): techBiomat bone® 탈단백 우골(DBBM) 치조제 보존술 결과 — 콘빔CT(CBCT) 골충전 >75%가 시험군 87% vs 대조군 7%; 신생골 42% vs 25%; 6개월 시점 잔존 이식재 <9%.
 
