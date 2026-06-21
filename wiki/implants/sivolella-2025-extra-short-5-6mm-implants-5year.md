@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective 5-year follow-up of extra-short (5–6 mm) posterior implants (56 implants, 34 patients): overall survival 89% (immediate loading 94% vs conventional 87%), with immediate loading associated with higher MBL (+0.21 mm, p=0.02) and intermediate abutment use with lower MBL (−0.23 mm, p=0.003).
+
 ## 한줄요약
 5–6 mm extra-short implant 5년 추적(n=56/34명): 전체 survival 89% (즉시부하 94% vs conventional 87%), 즉시부하는 MBL ↑(+0.21mm), intermediate abutment는 MBL ↓(-0.23mm) — 부하 프로토콜과 abutment 선택이 MBL에 직접 영향.
 
