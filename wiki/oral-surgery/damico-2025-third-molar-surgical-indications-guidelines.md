@@ -13,6 +13,9 @@ source_collection: external
 tags: [third-molar, wisdom-tooth, impaction, nice-guidelines, aaoms, pericoronitis, coronectomy, ian, surgical-indications, pell-gregory, angulation]
 ---
 
+## One-line Summary
+Narrative guideline review (NICE, AAOMS; Pell & Gregory and Winter classifications) of clinical and surgical indications for third molar removal: absolute indications include recurrent pericoronitis, cysts/tumors, and adjacent root resorption, with coronectomy considered when the inferior alveolar canal (IAC) is in high-risk contact with roots to reduce IAN injury.
+
 ## 한줄요약
 제3대구치(Third Molar, 사랑니) 발치 임상·수술 적응증 및 가이드라인 개요 (Eng Proc 2025): NICE·AAOMS 검토; 절대적응증 — 반복 관주위염·낭종·인접치 흡수; 하치조신경 고위험 시 치관절제술(Coronectomy) 고려.
 
