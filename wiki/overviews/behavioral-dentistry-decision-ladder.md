@@ -30,6 +30,10 @@ tags: [behavioral-dentistry, motivational-interviewing, mi, patient-communicatio
 > [!note] Part of a larger synthesis → [[behavioral-dentistry-overview]]
 > 이 페이지는 MI·커뮤니케이션·attendance 3축에 집중한 decision ladder다. 2026-06-02 환자 커뮤니케이션·PRO·치과불안 논문 13편이 추가되며 카테고리가 4 하위축으로 확장됐다. 전체 18편 통합은 master overview [[behavioral-dentistry-overview]] 참조.
 
+## One-line Summary
+
+Synthesis/overview building a 3-axis behavioral-dentistry decision ladder — motivational interviewing (MI), patient–dentist communication skills, and dental attendance promotion — from 5 spine papers; the core thesis is that behavioral factors (patient behavior change, regular attendance, communication quality) drive treatment outcomes on a different plane than surgical/material decisions. MI shows SR+MA-level efficacy for early childhood caries (ECC) prevention (Jahanshahi 2022, 6 RCTs, n=2,776) and works in general medicine even as brief MI (Lundahl 2013, OR 1.55, 95% CI 1.40–1.71, 48 RCTs), but adult periodontal MI evidence is inconclusive (only bleeding on probing −6.41pp significant; Cartes-Velasquez 2024) — meaning "MI doesn't work in adults" is a misread, not a finding. Communication is mapped as 26 skills × 4 categories (Khalifah 2019 SR), and pain-only attendance (≈1/3 of the population) has very thin intervention evidence (Currie 2021, 3 SRs); the clinical takeaway is a staged, stratified approach (recall systems, trust-building, insurance/policy triggers, high-risk-group prioritization).
+
 ## 한줄요약
 
 행동치의학 3축 — 동기면담 (MI) 효과 · 치과의사-환자 커뮤니케이션 스킬 framework · 통증-only 환자 정기검진 유도. Jahanshahi 2022 SR+MA (ECC) + Cartes-Velasquez 2024 SR+MA (성인 치주) + Lundahl 2013 SR+MA (의료 일반).
