@@ -13,6 +13,9 @@ source_collection: external
 tags: [legal, constitutional-court, constitutional-complaint, dentist, korea, practice-management, korean-review]
 ---
 
+## One-line Summary
+Narrative review (대한치과의사협회지 2023, Jeonbuk National University Oral Medicine) cataloguing Korean Constitutional Court (헌법재판소) decisions and constitutional complaints (헌법소원) relevant to dentists and dental practice; a practice-management/legal context entry (individual case holdings not machine-extractable from the PDF — embedded CID-font encoding broke text extraction).
+
 ## 한줄요약
 대한치과의사협회지 2023 리뷰: 치과의사·치과 진료 관련 한국 헌법재판소 결정례·헌법소원을 정리. (본문 세부 판시는 PDF 폰트 인코딩 문제로 자동 추출 불가 — 제목·저자·키워드·범위만 확인됨; [미검증])
 
