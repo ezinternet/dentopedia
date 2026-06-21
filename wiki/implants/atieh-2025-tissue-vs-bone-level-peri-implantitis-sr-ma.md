@@ -14,6 +14,8 @@ tags: []
 relations:
   - type: reinforces
     target: mortazavi-2021-bone-loss-tissue-bone-level-implants
+  - type: reinforces
+    target: cosola-2020-bone-tissue-level-radiological-sr
 ---
 
 ## 한줄요약
