@@ -16,7 +16,7 @@ relations:
   - type: applies-to
     target: mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear
   - type: applies-to
-    target: muller-2022-self-adhesive-resin-cements-zirconia-marginal
+    target: muller-2022-resin-cements-zirconia-bulk-ageing
   - type: reinforces
     target: tavangar-2022-calcium-silicate-cement-caries-dentin
 ---
