@@ -28,6 +28,10 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 > - ARP만으로 부족한 경우: 이미 수평 ≤ 4 mm ridge는 치조골 분리술(ridge split, Ayoub 2018) 또는 block graft; peri-implantitis 동반 발치는 CAD/CAM Ti mesh GBR + 재식립 (Tallarico 2025).
 > - 임상 takeaway: ARP 결정의 분모는 자연 치유다. ARP intervention 효과(수평 1.86–2.19 mm 감소)를 자연 치유 baseline과 비교해 net gain이 충분할 때만 시행.
 
+## One-line Summary
+
+Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsynthesized bone-regeneration papers across 5 axes — socket healing biology, ARP critical appraisal (when NOT to graft), ARP-then-implant failure predictors, adjunct materials, and beyond-ARP scenarios. Core thesis: Alveolar Ridge Preservation (ARP) is a scenario-dependent intervention, not a universal recommendation — post-extraction buccal resorption is biologically inevitable (bundle-bone dependence; Araujo 2005), ARP preserves dimension but not vital-bone quality (residual graft particles), and the single significant predictor of post-ARP implant failure is Pristine Bone Engagement (PBE) < 1.1 mm → HR 2.50 (Kang 2025, n=528). Clinical takeaway: judge ARP's net gain against the natural-healing baseline and plan implant length to engage ≥1.1 mm of native bone beyond the graft zone.
+
 ## 한줄요약
 
 발치 socket 자연 치유 생물학 (Araujo·Cardaropoli·Schropp 고전 axis) + 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의 한계·실패·과잉치료 비판 axis 를 합성. [[bone-regeneration-protocol-ladder]] (do-ARP) 의 counterpoint 페이지 — "언제 안 해도 되나·왜 실패하나·무엇을 더할 수 있나" 의 spine.
