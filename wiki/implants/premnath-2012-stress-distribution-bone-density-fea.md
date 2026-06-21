@@ -13,6 +13,9 @@ source_collection: external
 tags: [bone-density, FEA, implant-design, threaded, cylindrical, stress-distribution]
 ---
 
+## One-line Summary
+3D finite element analysis (FEA; 8 models, D1–D4 bone × threaded/cylindrical): maximum Von Mises stress concentrates at the crestal/neck region in all models, with threaded implants generating higher stress than cylindrical and the cylindrical design distributing stress more favourably in low-density D3/D4 bone.
+
 ## 한줄요약
 3D 유한요소분석(8개 모델): 나사형·원통형 임플란트 모두 치조정 부위에 최대 응력 집중; 원통형이 D3·D4 저밀도 골에서 응력분산 유리.
 
