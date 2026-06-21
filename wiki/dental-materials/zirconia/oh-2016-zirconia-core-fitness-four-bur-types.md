@@ -14,6 +14,9 @@ source_collection: external
 tags: [zirconia, cad-cam, marginal-fitness, internal-fitness, bur, preparation, crown, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (Korean J Dent Mater 2016) comparing CAD/CAM zirconia core fit across abutments prepared with 4 bur tip designs: torpedo and deep chamfer burs (0/10 seating failures) gave significantly superior marginal/internal fit, while the shoulder bur failed full seating in 9/10 specimens and was clinically unsuitable.
+
 ## 한줄요약
 In vitro: torpedo·deep chamfer bur → 우수한 변연/내부 적합도; shoulder bur → 90% 완전 안착 실패; 임상 부적합
 
