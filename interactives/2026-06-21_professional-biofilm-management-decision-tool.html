@@ -1,0 +1,309 @@
+<!--
+---
+title: "전문가 치면세균막관리 의사결정 도구 (Professional Biofilm Management Decision Tool)"
+type: interactive
+date: 2026-06-21
+status: done
+agenda: agenda/2026-06-21_professional-biofilm-management-decision-tool.md
+source_wiki:
+  - wiki/overviews/professional-biofilm-management-gbt-air-polishing-overview.md
+  - wiki/periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr.md
+  - wiki/periodontics/cyris-2024-guided-biofilm-therapy-versus-conventional.md
+  - wiki/periodontics/stahli-2024-clinical-evaluation-novel-protocol-supportive.md
+  - wiki/periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers.md
+  - wiki/periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review.md
+  - wiki/periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr.md
+  - wiki/periodontics/ifrim-2026-edta-air-polishing-root-surface-sem.md
+  - wiki/periodontics/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case.md
+  - wiki/implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr.md
+  - wiki/implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.md
+  - wiki/implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>전문가 치면세균막관리 의사결정 도구</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --ink: #1a1a2e;
+    --muted: #5a6478;
+    --line: #e2e7ef;
+    --accent: #1f7a6b;
+    --accent-soft: #e3f3ef;
+    --warn: #b4452b;
+    --warn-soft: #fbe9e4;
+    --gold: #b8860b;
+    --gold-soft: #fbf2dc;
+    --shadow: 0 2px 10px rgba(20,30,55,.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--ink);
+    padding: 22px 16px 60px; min-height: 100vh; line-height: 1.55;
+  }
+  .container { max-width: 760px; margin: 0 auto; }
+  header h1 { font-size: 1.45rem; letter-spacing: -.02em; }
+  header p { color: var(--muted); font-size: .9rem; margin-top: 6px; }
+  .crumb { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin: 18px 0 14px; font-size:.82rem; color:var(--muted);}
+  .crumb b { color: var(--accent); }
+  .crumb span.sep { opacity:.5; }
+  .panel { background: var(--card); border:1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 20px; }
+  .q { font-size: 1.05rem; font-weight: 700; margin-bottom: 16px; }
+  .opts { display: grid; gap: 11px; }
+  .opt {
+    text-align: left; background: var(--card); border:1.5px solid var(--line);
+    border-radius: 11px; padding: 15px 16px; cursor: pointer; transition: all .14s;
+    font-size: .96rem; color: var(--ink); display:flex; flex-direction:column; gap:3px;
+  }
+  .opt:hover { border-color: var(--accent); background: var(--accent-soft); transform: translateY(-1px); }
+  .opt b { font-size: 1rem; }
+  .opt small { color: var(--muted); font-size:.82rem; }
+  .opt .ic { font-size:1.15rem; margin-right:4px; }
+  button.back {
+    margin-bottom: 14px; background:none; border:1px solid var(--line); border-radius:8px;
+    padding:7px 13px; cursor:pointer; color:var(--muted); font-size:.85rem; transition:all .14s;
+  }
+  button.back:hover { border-color:var(--accent); color:var(--accent); }
+  /* result */
+  .rec { border-left: 5px solid var(--accent); background: var(--accent-soft); border-radius: 10px; padding: 16px 18px; margin-bottom: 14px; }
+  .rec .tag { display:inline-block; background:var(--accent); color:#fff; font-size:.72rem; font-weight:700; padding:3px 9px; border-radius:20px; letter-spacing:.02em; }
+  .rec h2 { font-size:1.15rem; margin:10px 0 6px; }
+  .rec p { font-size:.93rem; }
+  .block { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:12px; }
+  .block h3 { font-size:.82rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin-bottom:8px; }
+  .block ul { margin:0; padding-left:18px; }
+  .block li { font-size:.92rem; margin-bottom:5px; }
+  .powder { border-left:4px solid var(--gold); background:var(--gold-soft); }
+  .powder h3 { color:var(--gold); }
+  .caution { border-left:4px solid var(--warn); background:var(--warn-soft); }
+  .caution h3 { color:var(--warn); }
+  .safety { border:1.5px solid var(--warn); background:var(--warn-soft); border-radius:10px; padding:15px 17px; margin-bottom:12px; }
+  .safety h3 { color:var(--warn); font-size:.95rem; display:flex; align-items:center; gap:7px; margin-bottom:10px; }
+  .safety label { display:flex; gap:9px; align-items:flex-start; font-size:.9rem; margin-bottom:8px; cursor:pointer; }
+  .safety input { margin-top:3px; accent-color: var(--warn); }
+  .cite { font-size:.78rem; color:var(--muted); }
+  .cite b { color:var(--ink); }
+  .evidence-note { font-size:.83rem; color:var(--muted); font-style:italic; margin-top:4px; }
+  footer { margin-top:24px; font-size:.76rem; color:var(--muted); border-top:1px solid var(--line); padding-top:14px; }
+  footer a { color:var(--accent); text-decoration:none; }
+  .pill { display:inline-block; font-size:.72rem; background:var(--line); color:var(--muted); padding:2px 8px; border-radius:12px; margin-left:6px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>전문가 치면세균막관리 의사결정 도구</h1>
+    <p>Professional Biofilm Management — GBT · Air Polishing · Mechanical Debridement · 근거 기반 chairside 가이드</p>
+  </header>
+  <div class="crumb" id="crumb"></div>
+  <div id="app"></div>
+  <footer>
+    공통 원칙: GBT·에어폴리싱의 이득은 <b>편안함·시술시간·치질 보존</b>이며, PPD/CAL/BoP 임상지표는 SRP/PMPR와 <b>동등(우월하지 않음)</b>입니다 (Yein 2026 SR).
+    근거 종합: <a href="../wiki/overviews/professional-biofilm-management-gbt-air-polishing-overview.md">professional-biofilm-management-gbt-air-polishing-overview</a> ·
+    근거수준 전반 낮음(GRADE), 장기 RCT 필요.
+  </footer>
+</div>
+
+<script>
+const ERYTHRITOL = {
+  cls: "powder",
+  title: "권장 분말: 에리스리톨 (Erythritol, 14 µm)",
+  items: [
+    "탄산수소나트륨(Sodium Bicarbonate, 40 µm)과 바이오필름 제거력 동등(OD 0.130 vs 0.129)하면서 표면 손상이 적음 — 치아·치근·임플란트 표면 모두 기본값 (Pujarern 2024).",
+    "저연마 분말이라도 <b>초(秒)당 치질 손실은 에어폴리싱이 가장 큼(평균 8.65 µm)</b> — 한 부위에 오래 머무르지 말 것 (Dvorská 2026)."
+  ]
+};
+
+const DATA = {
+  tooth: {
+    label: "치아 (Tooth)",
+    scenarios: {
+      spc: {
+        label: "치은연상 · 유지치주치료 (SPC)",
+        tag: "에어폴리싱/GBT 최적",
+        title: "에어폴리싱 / GBT 우선",
+        lead: "유지치주·치은연상 단계에서는 에어폴리싱(GBT)이 가장 적합합니다 — 편안함, 시술시간, 치질 보존, 공시제 기반 동기부여에서 우수.",
+        steps: [
+          "바이오필름 공시(disclosing)",
+          "에리스리톨 에어폴리싱(치은연상)",
+          "잔존 치석에만 초음파 슬림 팁 적용"
+        ],
+        powder: ERYTHRITOL,
+        evidence: "Stähli 2024 RCT(SPC 1년, 임상 동등) · Yein 2026 SR · Lodigkeit/Dvorská 2026(에어폴리싱 최소 마모)",
+        caution: null,
+        note: "임상지표(BoP)는 SRP와 동등 — '더 효과적'이 아니라 '더 편하고 치질 보존적'이라서 선택."
+      },
+      nspt: {
+        label: "활동성 NSPT (stage III/IV)",
+        tag: "SRP = GBT 동등 · 선택 자유",
+        title: "SRP 또는 GBT (임상적 동등)",
+        lead: "활동성 비외과치주치료에서 GBT와 전통 SRP는 포켓 폐쇄 등 임상결과가 동등합니다. 술자·환자 선호와 효율로 선택하되, 치석 제거가 핵심입니다.",
+        steps: [
+          "초음파/손기구로 <b>치석 제거(필수)</b>",
+          "에어폴리싱으로 바이오필름 관리",
+          "GBT 프로토콜 채택 시 사분악당 ~4분 단축 가능"
+        ],
+        powder: ERYTHRITOL,
+        evidence: "Cyris 2024 split-mouth RCT(n=60, 동등; 30.3 vs 34.6분/사분악) · Yein 2026 SR(우월성 없음)",
+        caution: {
+          title: "주의",
+          items: ["치석(calculus)은 에어폴리싱으로 제거되지 않음 — 반드시 초음파/손기구 병용."]
+        },
+        note: "GBT가 GI·PI·GCF IL-1β는 더 낮춘다는 신호도 있음(Dönertaş 2026, stage 1–2) — 염증 부담이 큰 증례에 참고."
+      },
+      sub: {
+        label: "치은연하 심부낭 (subgingival deep pocket)",
+        tag: "병용 + 안전관리",
+        title: "에어폴리싱(바이오필름) + 기계적(치석) 병용",
+        lead: "치은연하 심부낭은 에어폴리싱으로 바이오필름을, 기계적 기구로 치석을 처리합니다. 단, 피하기종 안전관리가 필수입니다.",
+        steps: [
+          "치은연하 전용 노즐로 에리스리톨 에어폴리싱",
+          "치석은 초음파/손기구로 별도 제거",
+          "dwell time 최소화 (초당 손실 최대)"
+        ],
+        powder: ERYTHRITOL,
+        evidence: "Ifrim 2026 SEM(에리스리톨 기구흔↓; SRP+EDTA는 smear layer 잔존, p=0.950) · Dvorská 2026(초당 손실 주의)",
+        caution: null,
+        safety: true,
+        note: null
+      }
+    }
+  },
+  implant: {
+    label: "임플란트 (Implant)",
+    scenarios: {
+      mucositis: {
+        label: "임플란트주위 점막염 (peri-implant mucositis)",
+        tag: "PMPR 핵심",
+        title: "기계적 청결관리(PMPR) 단독으로 충분",
+        lead: "점막염은 기계적 debridement(PMPR)가 핵심이며, 단독으로도 임상지표가 개선됩니다. 보조요법의 추가 이득은 6개월 시점에 미미합니다.",
+        steps: [
+          "기계적 debridement (큐렛/초음파)",
+          "보조로 에리스리톨/글리신 에어아브레이전(선택)",
+          "환자 자가관리 강화"
+        ],
+        powder: ERYTHRITOL,
+        evidence: "Brunello 2026 SR(21편·n=1068; 기계적 단독 개선, 보조 미미, NMA 불가) · Mauriello 2026 narrative(9 RCT)",
+        caution: {
+          title: "주의",
+          items: ["CHX·국소항생제·NaOCl·프로바이오틱스 등 보조요법은 일관된 추가 이득이 없음."]
+        },
+        note: null
+      },
+      periimplantitis: {
+        label: "초기 임플란트주위염 (early peri-implantitis)",
+        tag: "비외과 기계적 우선",
+        title: "비외과 기계적 instrumentation ± 에어아브레이전",
+        lead: "초기 주위염은 비외과 기계적 instrumentation을 우선합니다. 글리신/에리스리톨 에어아브레이전이 보조로 합리적이나 명확한 우월성 근거는 없습니다.",
+        steps: [
+          "비외과 기계적 instrumentation",
+          "± 글리신/에리스리톨 분말 에어아브레이전",
+          "재평가 — 비반응 시 외과적 접근 고려"
+        ],
+        powder: ERYTHRITOL,
+        evidence: "Eraydın-Tüfek 2026 5군 RCT(임플란트 80개; 글리신 에어아브레이전 최선이나 군간 유의차 없음) · Pujarern 2024(에리스리톨 선호)",
+        caution: {
+          title: "주의",
+          items: ["모든 방법이 6개월에 개선되나 보조요법의 통계적 우월성은 없음 — 비반응 시 외과적 치료 고려."]
+        },
+        note: null
+      }
+    }
+  }
+};
+
+const SAFETY = [
+  "치은연하 <b>전용 노즐</b> 사용 여부 확인",
+  "기기·프로토콜별 사용지침 엄수 (장비 간 안전성 일반화 금지)",
+  "증례 선별 — 깊은 낭·연조직 천공·해부학적 위험 부위 주의",
+  "시술 중·후 안면 부종·염발음(crepitus) 조기 인지",
+  "출혈(BOP)·배농이 없는 유지치료 부위에서도 발생 가능함을 인지"
+];
+
+let state = { site: null, scenario: null };
+const app = document.getElementById('app');
+const crumbEl = document.getElementById('crumb');
+
+function crumb() {
+  let h = '<b>시작</b>';
+  if (state.site) h += ' <span class="sep">›</span> <b>' + DATA[state.site].label + '</b>';
+  if (state.scenario) h += ' <span class="sep">›</span> ' + DATA[state.site].scenarios[state.scenario].label;
+  crumbEl.innerHTML = h;
+}
+
+function renderSite() {
+  state = { site: null, scenario: null };
+  crumb();
+  app.innerHTML = `
+    <div class="panel">
+      <div class="q">① 어디를 관리하나요?</div>
+      <div class="opts">
+        <button class="opt" onclick="pickSite('tooth')"><b><span class="ic">🦷</span>치아 (Tooth)</b><small>치주 비외과치료 · 유지치주치료 · 치은연하</small></button>
+        <button class="opt" onclick="pickSite('implant')"><b><span class="ic">🔩</span>임플란트 (Implant)</b><small>임플란트주위 점막염 · 초기 주위염</small></button>
+      </div>
+    </div>`;
+}
+
+function pickSite(s) { state.site = s; state.scenario = null; renderScenario(); }
+
+function renderScenario() {
+  crumb();
+  const sc = DATA[state.site].scenarios;
+  let opts = Object.keys(sc).map(k =>
+    `<button class="opt" onclick="pickScenario('${k}')"><b>${sc[k].label}</b><small>${sc[k].tag}</small></button>`
+  ).join('');
+  app.innerHTML = `
+    <button class="back" onclick="renderSite()">← 처음으로</button>
+    <div class="panel">
+      <div class="q">② 임상 상황은? <span class="pill">${DATA[state.site].label}</span></div>
+      <div class="opts">${opts}</div>
+    </div>`;
+}
+
+function pickScenario(k) { state.scenario = k; renderResult(); }
+
+function renderResult() {
+  crumb();
+  const r = DATA[state.site].scenarios[state.scenario];
+  let html = `<button class="back" onclick="renderScenario()">← 상황 다시 선택</button>`;
+
+  html += `<div class="rec">
+    <span class="tag">${r.tag}</span>
+    <h2>${r.title}</h2>
+    <p>${r.lead}</p>
+  </div>`;
+
+  html += `<div class="block"><h3>술식 순서</h3><ul>${r.steps.map(s=>`<li>${s}</li>`).join('')}</ul></div>`;
+
+  if (r.powder) {
+    html += `<div class="block ${r.powder.cls}"><h3>${r.powder.title}</h3><ul>${r.powder.items.map(s=>`<li>${s}</li>`).join('')}</ul></div>`;
+  }
+
+  if (r.caution) {
+    html += `<div class="block caution"><h3>⚠ ${r.caution.title}</h3><ul>${r.caution.items.map(s=>`<li>${s}</li>`).join('')}</ul></div>`;
+  }
+
+  if (r.safety) {
+    html += `<div class="safety"><h3>🚨 치은연하 에어폴리싱 안전 체크리스트 — 피하기종(SFE) 위험</h3>`;
+    html += SAFETY.map((s,i)=>`<label><input type="checkbox" id="sf${i}"><span>${s}</span></label>`).join('');
+    html += `<div class="cite" style="margin-top:8px">근거: <b>Hussein 2026</b> — 5 mm 치주낭 글리신 치은연하 에어폴리싱 후 안면 피하기종 발생·3일 입원.</div></div>`;
+  }
+
+  if (r.note) html += `<div class="block"><div class="evidence-note">💡 ${r.note}</div></div>`;
+
+  html += `<div class="block"><h3>근거 (Evidence)</h3><div class="cite">${r.evidence}</div></div>`;
+
+  app.innerHTML = html;
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+
+renderSite();
+</script>
+</body>
+</html>
