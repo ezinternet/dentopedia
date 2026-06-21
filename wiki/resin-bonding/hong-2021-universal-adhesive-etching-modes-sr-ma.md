@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of 13 RCTs comparing etch-and-rinse (E&R) vs self-etch (SE) modes of universal adhesives in clinical restorations: E&R was significantly superior for retention (OR 0.35, p=0.003), marginal adaptation (OR 0.49, p<0.001), and marginal staining (OR 0.49, p<0.001), with no significant difference in secondary caries or postoperative sensitivity.
+
 ## 한줄요약
 유니버설 접착제(Universal Adhesive)를 임상에서 사용 시 산부식-세척법(Etch-and-Rinse)이 자가산부식법(Self-Etch)보다 유지율, 변연적합도, 변연착색 모두에서 통계적으로 유의하게 우수함을 13개 RCT 메타분석으로 확인.
 
