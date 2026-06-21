@@ -13,6 +13,9 @@ source_collection: external
 tags: [drill-design, drill-material, twisted-blade, DLC-coating, drill-wear, heat-generation, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (3 drill groups — SS straight, DLC straight, DLC twisted — 50 drillings each, 800 rpm, no irrigation, automated press) decomposing drill material, design, and wear contributions to bone heating: drill design (twisted < straight) dominates over material (SS ≈ DLC, NS overall), initial/pilot drills heat more than progressive/final, and temperature rises progressively with wear across 50 uses.
+
 ## 한줄요약
 인비트로(Materials 2020, 800 rpm, irrigation 없음, 자동press): drill **design**(twisted < straight)이 **material**(SS ≈ DLC)보다 발열에 큰 영향; initial·pilot drill > progressive·final drill 발열; 50회 drilling 동안 점진적 온도 상승.
 
