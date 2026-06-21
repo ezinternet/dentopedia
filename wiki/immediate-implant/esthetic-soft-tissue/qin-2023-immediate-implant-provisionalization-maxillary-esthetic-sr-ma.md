@@ -13,6 +13,9 @@ source_collection: external
 tags: ['immediate provisionalization', 'midfacial mucosal level', 'esthetic zone', 'RCT only']
 ---
 
+## One-line Summary
+SR+MA (RCTs only) of maxillary esthetic-zone single immediate implants comparing immediate vs delayed loading/provisionalization, focused on midfacial mucosal level: immediate provisionalization trends toward better midfacial mucosa preservation, with small differences in PES, MBL, and survival (concordant with Pitman 2022).
+
 ## 한줄요약
 SR+MA (RCT only): 상악 심미부 단일 즉시식립 시 즉시 부하 (= immediate provisionalization) vs 지연부하 — midfacial mucosal level 중심 비교; PES·MBL·생존율 보조 평가.
 
