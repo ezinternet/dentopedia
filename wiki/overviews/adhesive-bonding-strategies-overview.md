@@ -30,6 +30,10 @@ source_wiki:
 > - **혼성층(hybrid layer) 품질 → µTBS 직접 예측**: SEM 나노누출(nanoleakage)이 낮을수록 즉각 결합강도(µTBS) 높음 — 2-step 자가부식(Clearfil SE Bond) 최우수, 1-step E&R(Adper Single Bond)은 완전한 콜라겐 노출에도 불구하고 최대 나노누출·최저 결합강도 (Salvio 2013, in-vitro). 2-step SE 우위의 기계론적 확증.
 > - **확신도**: 축 1·2·3·4·6 = 근거강함(in-vitro 한정); 축 5 stamp = 미검증(case report).
 
+## One-line Summary
+
+Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes (adhesive fatigue/aging, silane timing & contamination, saliva-contamination handling with MDP & decontamination, indirect-restoration bonding incl. 3D-printed crowns, the direct-composite stamp technique, and hybridization quality vs immediate bond strength); core thesis is that bond durability is governed primarily by isolation/contamination control, adhesive-system choice, and surface pretreatment rather than by procedure length — clinically, rubber-dam isolation is first priority, 2-step self-etch (SE, e.g. Clearfil SE Bond) is contamination-tolerant and gives the best microtensile bond strength (µTBS) with the least SEM nanoleakage, while 1-step universal adhesives require decontamination after saliva exposure (evidence is strong but in-vitro–limited; the stamp technique remains case-report level).
+
 ## 한줄요약
 
 접착 전략 관련 4편(미연결) + 직접레진 술기(stamp) 1편 통합. ①Clearfil SE Bond는 thermal·mechanical fatigue로 µTBS 유의 저하; 100K cycle부터; ②실란 처리 timing·타액 오염은 결합력에 영향; ③MDP-함유 2-step SE는 타액 오염 dentin에서 강도 유지, 1-step universal은 decontamination 필요; ④3D-printed crown은 airborne abrasion 전처리 시 밀링 동등.
