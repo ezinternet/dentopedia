@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Prospective human histomorphometric biopsy study (n=11 re-entry biopsies at mean 11.5 years after maxillary sinus floor augmentation [MSFA] with 80% deproteinized bovine bone [DPBB] + 20% autogenous bone): tissue composition was lamellar bone 44.7%, marrow 38%, DPBB 17.3%, with DPBB-bone contact 61.5%; particle length/area did not differ from 6-month or pristine particles, indicating DPBB does not resorb but integrates as a permanent osteoconductive scaffold.
+
 ## 한줄요약
 11년 후 인체 biopsy (n=11, 80% DPBB + 20% 자가골 MSFA): 라멜라골 44.7% / 골수강 38% / DPBB 17.3%; DPBB-bone contact 61.5%; 입자 크기 6개월 시점·미사용 입자와 차이 없음 — DPBB는 흡수되지 않고 영구 osteoconductive scaffold로 통합.
 
