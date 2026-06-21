@@ -14,6 +14,9 @@ source_collection: external
 tags: [sinus-augmentation, early-implant-failure, nested-case-control, risk-factors, multi-center, Germany, JCP, multivariable]
 ---
 
+## One-line Summary
+Multi-center nested case-control study (8 German centers, 2016–2021; 129 cases + 273 matched controls) of early implant failure (≤12 months) in the sinus augmentation context, using multivariable logistic regression to estimate confounder-adjusted ORs for risk factors (smoking, periodontitis history, simultaneous vs delayed placement, sinus anatomy, augmentation material).
+
 ## 한줄요약
 JCP 2025 다기관 nested case-control (8 독일 센터, 2016-2021, n=129 case + 273 control): sinus augmentation 후 조기 임플란트 실패 (≤12 month) — multivariable logistic regression으로 위험인자 OR 산출.
 
