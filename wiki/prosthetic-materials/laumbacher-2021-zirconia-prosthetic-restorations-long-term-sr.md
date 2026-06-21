@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, crown, FDP, chipping, veneering, monolithic, implant, survival-rate, long-term]
 ---
 
+## One-line Summary
+Overview of 38 systematic reviews (~10,000 zirconia restorations) covering tooth- and implant-supported single crowns and FDPs: satisfactory 5-year survival across all types (91–100%), with veneering-ceramic chipping the most frequent technical complication — addressable by monolithic design.
+
 ## 한줄요약
 38개 체계적 문헌고찰 개요(~10,000개 지르코니아 수복물): 치아지지·임플란트지지 단관 및 고정성 국소의치 모두 5년 생존율 양호, 베니어 도재 치핑이 가장 흔한 기술적 합병증이며 단일체 디자인으로 해결 가능.
 
