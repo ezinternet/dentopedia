@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Umbrella review of systematic reviews on tooth- and implant-supported lithium disilicate (LD) single crowns: 5-year survival 95–98% for tooth-supported LD; monolithic LD eliminates veneering-related chipping, and implant-supported LD evidence is growing with comparable outcomes to conventional ceramics.
+
 ## 한줄요약
 리튬 디실리케이트 단단관 보철 임상 결과 SR 개요 — 5년 생존율 95–98%, 임플란트 지지 LD 근거 증가.
 
