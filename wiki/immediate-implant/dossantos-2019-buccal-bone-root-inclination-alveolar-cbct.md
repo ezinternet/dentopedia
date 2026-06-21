@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Descriptive cross-sectional CBCT study mapping buccal bone plate thickness, root inclination, and alveolar bone dimensions site-by-site across both jaws; buccal plate is predominantly thin in the anterior maxilla, providing a per-site fenestration/dehiscence risk reference for immediate implant planning.
+
 ## 한줄요약
 CBCT 기술 연구: 상하악 buccal bone plate 두께, root inclination, alveolar dimension 종합 매핑 — IIP 부위별 위험 데이터 제공.
 
