@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of recurrent aphthous stomatitis (RAS), covering epidemiology (~20% adult prevalence), pathogenesis, trigger factors (trauma, stress, iron/B12/folate deficiency, gluten sensitivity), and a step-up treatment algorithm from topical to systemic agents, with nutritional correction resolving a subset.
+
 ## 한줄요약
 RAS 임상양상·병인론(면역·유전·영양·스트레스)·치료 단계적 접근 고찰.
 
