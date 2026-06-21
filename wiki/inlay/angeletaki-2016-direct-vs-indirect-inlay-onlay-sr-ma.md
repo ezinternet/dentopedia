@@ -13,6 +13,9 @@ source_collection: external
 tags: [inlay, onlay, direct, indirect, composite, RCT, longevity]
 ---
 
+## One-line Summary
+SR+MA (3 RCTs; 248 inlay and 176 onlay restorations) of direct vs indirect composite inlays/onlays in posterior teeth: no significant difference in failure risk at 5 years (RR=1.54, p=0.52) or 11 years (RR=0.95, p=0.92); only 11-year marginal discoloration marginally favored direct inlays (RR=0.41, p=0.04); onlay 5-year survival 87%.
+
 ## 한줄요약
 구치부 직접 vs 간접 레진 인레이/온레이 SR+MA (RCT 3편): 5년·11년 모두 실패율 유의차 없음; 직접 인레이가 11년 변연 착색 소폭 유리.
 
