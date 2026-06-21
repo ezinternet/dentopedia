@@ -16,6 +16,9 @@ relations:
     target: strietzel-2015-platform-switching-mbl-sr-ma
 ---
 
+## One-line Summary
+SR+MA (9 studies, 475 platform-switching vs 462 conventional-platform implants): platform switching showed significantly less peri-implant bone loss (MD 0.255 mm, p<0.05) and a slightly greater, non-significant probing-depth increase (MD 0.082 mm).
+
 ## 한줄요약
 SR+MA(9편, PS 475 vs 일반 462 임플란트): PS에서 변연골 소실 0.255 mm 유의하게 적음; 탐침 깊이는 PS에서 0.082 mm 증가(유의차 없음)
 
