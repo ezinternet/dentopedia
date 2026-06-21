@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Historical and molecular narrative review tracing orthodontic tooth movement biology from Sandstedt's 1904 pressure-tension theory to the RANKL-RANK-OPG paradigm, with osteocytes as primary alveolar mechanosensors and an integrin-FAK-MAPK-RANKL PDL signaling cascade.
+
 ## 한줄요약
 Sandstedt(1904) 100주년 고찰 — 고전 압박/장력 이론부터 현대 RANKL/OPG 기전까지.
 
