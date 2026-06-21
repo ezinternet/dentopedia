@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, RFA, SmartPeg, torque, Osstell, reliability, in-vitro]
 ---
 
+## One-line Summary
+In vitro PU-foam study (4 implant types, 3 SmartPeg types): SmartPeg tightening torque had no significant effect on ISQ between hand tightening (2–11 Ncm) and machine tightening (2–6 Ncm) (p=0.343 mesial / p=0.890 buccal) — hand-tightening SmartPegs is clinically reliable for RFA measurement.
+
 ## 한줄요약
 In vitro PU foam: 수동 스마트팩 조임(2–11 Ncm)과 기계 조임(2–6 Ncm) 간 ISQ 차이 없음(p=0.343/0.890); 임상에서 수동 조임 신뢰 가능
 
