@@ -14,6 +14,9 @@ source_collection: external
 tags: [CBCT, calcified-canal, intraoperative, canal-localization, obliteration, gutta-percha]
 ---
 
+## One-line Summary
+3-case clinical technique report: for clinically inaccessible calcified/obliterated canals, gutta-percha (GP) reference points are placed at the estimated orifice, an intraoperative CBCT is taken, and the 3D distance from GP to true orifice is measured to guide targeted dentin removal without perforation.
+
 ## 한줄요약
 3증례 보고: 임상적으로 찾기 어려운 석회화 근관에 대해 GP point 기준 삽입 후 술중 CBCT 촬영으로 3D 거리 계산 → 정밀 근관 위치 확인 프로토콜 제시
 
