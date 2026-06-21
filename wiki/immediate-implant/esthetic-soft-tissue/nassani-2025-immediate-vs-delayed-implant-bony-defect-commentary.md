@@ -14,6 +14,9 @@ source_collection: external
 tags: [immediate-implant, delayed-implant, bony-defect, aesthetic-zone, buccal-wall, RCT-commentary, UMCG, GBR, delayed-provisionalization]
 ---
 
+## One-line Summary
+EBD 2025 critical commentary (Nassani) on the Meijer et al. 10-year RCT (UMCG, n=40, aesthetic-zone sockets with buccal bony defect ≥5 mm): immediate placement + GBR + delayed provisionalization vs ridge preservation then delayed placement both gave acceptable 10-year outcomes, challenging the dogma that an intact buccal wall is mandatory for immediate placement.
+
 ## 한줄요약
 EBD 2025 Commentary (Nassani) — Meijer JPeriodontol 2025 10년 RCT (UMCG, n=40, 협측골 결손 ≥5mm 심미부위): immediate + GBR + 지연 provisionalization vs 능선 보존 후 지연 식립 — 10년 결과 양 군 acceptable; "intact buccal wall 필수" dogma 약화.
 
