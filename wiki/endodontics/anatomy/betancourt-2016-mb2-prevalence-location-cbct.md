@@ -18,6 +18,9 @@ relations:
     target: wu-2025-mb2-prevalence-maxillary-molar-han-cbct-sr
 ---
 
+## One-line Summary
+Cross-sectional in vivo CBCT survey (n=1,100 Chilean maxillary molars): MB2 prevalence 69.8% in first molars (1MM) vs 46.9% in second molars (2MM); mean PMB1-PMB2 distance 2.68 mm (1MM) / 2.41 mm (2MM); 1MM MB2 more frequent in females, 2MM MB2 more frequent in males.
+
 ## 한줄요약
 CBCT cross-sectional (n=1,100 Chilean maxillary molars): MB2 prevalence 1MM 69.8% vs 2MM 46.9%; PMB1-PMB2 average distance 2.68 mm (1MM) / 2.41 mm (2MM); 1MM more frequent in females, 2MM more frequent in males.
 
