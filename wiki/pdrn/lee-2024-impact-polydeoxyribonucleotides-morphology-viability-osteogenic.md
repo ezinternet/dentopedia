@@ -18,6 +18,10 @@ relations:
     target: ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review
 ---
 
+## One-line Summary
+
+In vitro study on human gingiva-derived mesenchymal stem cell (GMSC) spheroids: PDRN was non-cytotoxic across all tested doses and significantly increased calcium deposition at 75 μg/mL by Day 14, with a marker-specific dose-response (RUNX2 peaked at 25 μg/mL, COL1A1 at 75 μg/mL).
+
 ## 한줄요약
 
 GMSC spheroid in vitro에서 PDRN의 osteogenic effect 검증. D14, 75 μg/mL에서 calcium deposition 유의 증가. RUNX2는 25 μg/mL, COL1A1은 75 μg/mL에서 peak — marker별로 최적 농도가 다름.
