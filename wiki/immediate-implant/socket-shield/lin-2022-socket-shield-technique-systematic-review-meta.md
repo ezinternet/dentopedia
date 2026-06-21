@@ -13,6 +13,9 @@ source_collection: external
 tags: ['socket shield', 'SST', 'partial extraction therapy', 'esthetic', 'buccal bone']
 ---
 
+## One-line Summary
+Systematic review and meta-analysis of the socket-shield technique (SST) — retaining a buccal root fragment at immediate placement to prevent buccal bone resorption — pooling mostly case series/reports with limited RCTs: SST shows a buccal-bone-width preservation trend but non-negligible complications (membrane mobility, infection, exposure, migration, apical resorption) and low overall evidence quality, so routine use should be deferred until high-quality RCTs accumulate.
+
 ## 한줄요약
 SR+MA: socket shield technique (SST) — 즉시식립 시 협측 root membrane 일부 잔존 → 협측 골 흡수 방지 시도; 임상 case report·RCT 포함; 합병증 (membrane mobility/infection/exposure/migration, apical resorption) 보고; 장기 high-quality 근거 부족.
 
