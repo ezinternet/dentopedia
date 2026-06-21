@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, transcrestal, sinus-lift, lateral-window-alternative, RBH, case-report, densah]
 ---
 
+## One-line Summary
+Case series (n=3, residual bone height [RBH] 0.4–1.5 mm): an osseodensification (OD)-based "crestal sinus window" (Densah Ø4.0→Ø5.3, 1 mm increments) achieved 10.3–13.6 mm vertical sinus bone gain with 0/3 membrane perforations, proposed as a transcrestal alternative to the lateral window in severely atrophic posterior maxilla — hypothesis-generating only given n=3, single operator, no comparator.
+
 ## 한줄요약
 증례 보고 (case report), n=3 — 잔존 치조골 (Residual Bone Height, RBH) 0.4~1.5 mm의 극도 위축 후방 상악동 부위에 골밀도화 (Osseodensification, OD) 기반 치조정 접근법 (Transcrestal approach)을 적용, Densah Ø4.0→Ø5.3 단계로 1 mm씩 진입하여 수직 골증대 10.3~13.6 mm 달성·점막 천공 0/3·통상 측방창 (Lateral Window) 수준과 비교 가능하다고 주장. 단 n=3·단일 술자·동시 비교군 없음으로 일반화는 불가.
 
