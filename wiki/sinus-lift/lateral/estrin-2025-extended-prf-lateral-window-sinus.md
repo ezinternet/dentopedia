@@ -13,6 +13,10 @@ source_collection: external
 tags: [lateral-window, sinus-lift, e-prf, autologous-membrane, schneiderian]
 ---
 
+## One-line Summary
+
+Multicenter case series (22 patients / 22 lateral window sinus lifts / 31 implants): heat-treated extended platelet-rich fibrin (e-PRF) used as the sole barrier membrane over the lateral antrostomy achieved 100% uneventful healing at ~6 months with mean post-op sinus height 12.3 mm and mean endosinus bone gain 8.0 mm; all 31 implants survived to second-stage surgery.
+
 ## 한줄요약
 다기관 케이스 시리즈(22 명/22 측방창 거상술/31 임플란트)에서 확장형 혈소판 풍부 피브린(extended Platelet-Rich Fibrin, e-PRF) 단독 차폐막을 측방창 위에 사용한 결과 6개월 시 합병증 없이 평균 부비동 높이 12.3 mm, 부비동 내 골 증대량 평균 8.0 mm 달성.
 
