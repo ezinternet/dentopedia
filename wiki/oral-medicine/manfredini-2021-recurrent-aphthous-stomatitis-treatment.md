@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of recurrent aphthous stomatitis (RAS) treatment, covering classification (minor/major/herpetiform) and a stepwise ladder from topical corticosteroids (triamcinolone acetonide) and hyaluronic acid first-line to systemic agents (colchicine, dapsone, thalidomide) for severe/frequent disease, with trigger correction.
+
 ## 한줄요약
 재발성 아프타 구내염(RAS) 치료 고찰 — 국소 스테로이드 1차, 콜히친·탈리도마이드 중증 적응증.
 
