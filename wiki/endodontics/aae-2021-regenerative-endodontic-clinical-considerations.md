@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+AAE 2021 revised consensus clinical considerations for regenerative endodontic procedures (REP): Visit 1 uses 1.5% NaOCl + 17% EDTA with Ca(OH)₂ or low-concentration triple antibiotic paste (TAP, 1 mg/mL), Visit 2 induces a scaffold (blood clot/PRP/PRF) capped by an MTA/Biodentine barrier; Ca(OH)₂ is preferred over TAP to minimize crown discoloration, with expanded indications including select mature teeth.
+
 ## 한줄요약
 AAE REP 임상 고려사항 2021 개정 — Ca(OH)₂ TAP 대안으로 강조, 항생제 최소 농도(1mg/mL), 적응증 확장.
 
