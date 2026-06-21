@@ -14,6 +14,9 @@ source_collection: external
 tags: [gummy-smile, botulinum-toxin-a, narrative-review, yonsei-point, dosing, mazzuco-hexsel, indications, complications]
 ---
 
+## One-line Summary
+Narrative review of 28 studies on BTX-A for muscular-etiology gummy smile, establishing standard dosing of 2.0-2.5 IU per muscle region (gender/severity-adjusted), Yonsei-point and subtype-specific (Mazzuco-Hexsel) injection technique, onset at 1-2 weeks, and 4-6 month duration, with ptosis/smile asymmetry as dose-dependent complications.
+
 ## 한줄요약
 Narrative review (28편): 검토 결과 muscular-etiology gummy smile에서 BTX-A 2.0-2.5 IU/region, 효과 onset 1-2주, 지속 4-6개월; Yonsei point + 부위별 4-point 기법이 표준; ptosis·smile 비대칭은 dose-dependent 합병증.
 
