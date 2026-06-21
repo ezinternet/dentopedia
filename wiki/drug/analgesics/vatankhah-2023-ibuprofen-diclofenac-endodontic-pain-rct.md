@@ -14,6 +14,9 @@ source_collection: external
 tags: [endodontic-pain, irreversible-pulpitis, ibuprofen, diclofenac-potassium, NSAIDs, RCT, postoperative-pain, first-molar]
 ---
 
+## One-line Summary
+RCT (Eur Endod J 2023; first molars with irreversible pulpitis, single doses): diclofenac potassium 50 mg gave a significantly higher pain-free rate and lower mean VAS scores than ibuprofen 400 mg for postoperative endodontic pain, supporting it as a second-line alternative when ibuprofen response is inadequate.
+
 ## 한줄요약
 RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
 
