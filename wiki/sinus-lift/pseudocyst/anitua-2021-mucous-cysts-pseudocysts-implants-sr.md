@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, mucous-retention-cyst, antral-pseudocyst, dental-implants, risk-factor, systematic-review]
 ---
 
+## One-line Summary
+SR (Anitua group, Med Oral 2021): on whether maxillary sinus mucous retention cysts / antral pseudocysts are a risk factor for dental implants or sinus lift outcomes — no clinically significant increase in risk was demonstrated (implant survival generally remained high, cyst presence was not a strong risk signal), though high study heterogeneity and lack of RCTs mean a stratified, procedurally cautious approach is still needed.
+
 ## 한줄요약
 SR (Anitua 그룹, Med Oral 2021): 상악동 점액낭종/위낭종이 implant 또는 sinus lift outcome에 미치는 risk factor 여부 — **임상적으로 유의한 위험 증가 미입증**, 단 stratified approach 필요.
 
