@@ -13,6 +13,9 @@ source_collection: external
 tags: [ids, immediate-dentin-sealing, indirect-restoration, prehybridization, bond-strength]
 ---
 
+## One-line Summary
+Literature review (88 of 26,222 screened articles) on Immediate Dentin Sealing (IDS): IDS is advantageous over Delayed Dentin Sealing (DDS) for bond strength, gap formation, bacterial microleakage during the provisional phase, and dentin hypersensitivity; impression-material interaction, provisional cement choice, and pre-cementation conditioning remain unresolved, with no documented contraindications.
+
 ## 한줄요약
 즉시상아질봉쇄(IDS) 1990–2020 문헌 88편 리뷰: 결합강도·간격형성·세균미세누출·상아질 과민증에 유리하나 인상재 상호작용, 임시수복 단계, 최종접착 전 조건화 방법은 추가 연구 필요. 임상 적용 금기 없음.
 
