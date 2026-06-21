@@ -13,6 +13,9 @@ source_collection: external
 tags: [ISQ, osteotomy, osseodensification, bone-condensation, drilling-speed, primary-stability, RCT]
 ---
 
+## One-line Summary
+Five-group parallel RCT (n=100, 20/group; 800/300/50 rpm, osseodensification, bone condensation) with 3-month ISQ trajectory: moderate-speed 300 rpm achieved the highest ISQ at T4 (p<0.05), high-speed 800 rpm gave the highest initial insertion torque in dense bone, osseodensification showed only transient mid-healing ISQ gains, and bone condensation showed progressive ISQ decline.
+
 ## 한줄요약
 RCT (n=100, 5개 골형성 프로토콜, 3개월 추적): 중속 드릴링(300rpm)이 T4 최고 ISQ; 고속(800rpm)이 고밀도골에서 최고 삽입토크; 골밀도화(OD)는 중간 치유기 일시적 ISQ 상승(유지 안됨); 골농축(bone condensation)은 ISQ 점진적 하락 (CIDRE 2026).
 
