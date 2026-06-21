@@ -13,6 +13,9 @@ source_collection: external
 tags: [transcrestal-sinus-lift, osseodensification, compaction-grafting, multicenter, 5-year-follow-up, schneiderian-membrane]
 ---
 
+## One-line Summary
+Multicenter retrospective study (3 centres, 222 patients, 261 implants; follow-up 6–64 months, mean 35): osseodensification (OD) transcrestal sinus floor elevation via compaction grafting achieved 7.0 ± 2.49 mm vertical bone gain from a baseline residual bone height (RBH) of 5.4 ± 1.9 mm, with 0/261 Schneiderian membrane perforations, no late implant failures, and 97% cumulative survival — the largest OD clinical anchor, though inventor-led and non-RCT.
+
 ## 한줄요약
 다기관 후향연구 (Multicenter Retrospective), 3 센터 / 222 환자 / 261 임플란트, 추적 6–64개월 (평균 35개월) — 골밀도화 (Osseodensification, OD) 경치조골 (transcrestal) 상악동거상술로 잔존골높이 (Residual Bone Height, RBH) 5.4 ± 1.9 mm에서 수직 7.0 ± 2.49 mm 골 (bone) 증가, 슈나이더막 (Schneiderian membrane) 천공 0건, 후기 임플란트 실패 0건, 누적 생존율 97%. 임상 적용 한계: 발명자 주도 후향연구로 무작위대조시험 (RCT)이 아니며 0/261 천공률은 외부 검증 필요.
 
