@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, monolithic, crown, retention, Panavia, Multilink, thermocycling, primer-cement]
 ---
 
+## One-line Summary
+In vitro retention strength study (BMC Oral Health 2022; monolithic zirconia crowns × 3 primer-cement systems after 10,000 thermocycles): Panavia V5 + Clearfil Ceramic Primer Plus gave the highest retention, showing that matched same-manufacturer primer-cement systems outperform cross-brand combinations.
+
 ## 한줄요약
 in-vitro(BMC Oral Health 2022): 단일체 지르코니아 크라운 3종 프라이머-시멘트 시스템 유지력 비교(10,000 열순환) — Panavia V5+Clearfil Ceramic Primer Plus 최고; 프라이머-시멘트 시스템 매칭이 핵심.
 
