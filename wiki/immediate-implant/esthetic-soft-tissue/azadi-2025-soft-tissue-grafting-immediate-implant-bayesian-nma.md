@@ -16,6 +16,9 @@ relations:
     target: seyssens-2021-immediate-implant-connective-tissue-graft-sr-ma
 ---
 
+## One-line Summary
+Systematic review + Bayesian network meta-analysis (21 RCTs) of soft-tissue grafts (CTG, L-PRF, allogenic, xenogenic) at immediate implant placement; only CTG significantly increased soft-tissue thickness (STT), with CTG ranking best on SUCRA for MIBL/KTW/STT/PH/MGML and uni-layer xenogenic collagen matrix best for PES, though most between-material differences were not statistically significant.
+
 ## 한줄요약
 SR + Bayesian NMA (21 RCT, PROSPERO CRD42024568586): 즉시식립 시 연조직 이식재 (CTG·L-PRF·동종·이종) 비교 — CTG만 STT 유의 증가; SUCRA 순위에서 CTG가 MIBL/KTW/STT/PH/MGML 우위, 단층 이종 콜라겐 매트릭스가 PES 우위; 통계적 유의차 대부분 없음.
 
