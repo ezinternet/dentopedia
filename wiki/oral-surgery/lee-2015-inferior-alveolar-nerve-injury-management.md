@@ -14,6 +14,10 @@ source_collection: external
 tags: [IAN-injury, inferior-alveolar-nerve, dexamethasone, steroid, third-molar, neuropraxia, oral-surgery]
 ---
 
+## One-line Summary
+
+Case report: an inferior alveolar nerve (IAN) exposed during mandibular third molar extraction and diagnosed as neuropraxia achieved complete recovery within 36 days using topical dexamethasone application, a tapering oral prednisolone regimen, and NSAIDs.
+
 ## 한줄요약
 증례보고: 하치조신경 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
 
