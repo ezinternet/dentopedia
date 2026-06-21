@@ -13,6 +13,9 @@ source_collection: external
 tags: [ic-rpd, implant-surveyed-crown, removable-partial-denture, disabled-patients, marginal-bone-loss, korean-review]
 ---
 
+## One-line Summary
+Narrative special-feature review (J Korean Dent Assoc 2023): introduces IC-RPD (implant surveyed crown retained removable partial denture) for severely disabled patients who tolerate neither conventional dentures nor full fixed implant rehabilitation, using implant-supported surveyed crowns as abutments to improve RPD retention and stability; reviews marginal bone loss (MBL) and survival considerations (specific figures require full Korean-text extraction).
+
 ## 한줄요약
 대한치과의사협회지 2023 특집: 통상 의치·전악 고정성 보철이 어려운 중증 장애 환자를 위한 IC-RPD(임플란트 써베이드 크라운 유지 국소의치) 소개 — 임플란트 지지 써베이드 크라운을 지대치로 활용해 RPD 유지·안정 향상, MBL·생존 고찰. (구체 수치는 본문 정밀추출 필요 [미검증])
 
