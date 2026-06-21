@@ -27,6 +27,10 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - **전신 효과·peri-implantitis**: SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Simpson 2022 Cochrane), 심혈관 위험표지자(CRP·IL-6·SBP)도 감소; 치주염력 환자는 임플란트 주위염 위험 ~4.8배 → 안정화 후 식립 + 3개월 SPT 종신.
 > - **근거 약한 보조제**: 오존 겔은 소규모 RCT(n=12/군)에서 방사선학적 골결손 within-group 이점만 있어 [근거약함]; 오옥시스테롤(oxysterol) BMP-2 대안은 [전임상 단계]. "심한 치주염은 바로 외과로"는 오판 — step-wise는 비외과 first.
 
+## One-line Summary
+
+Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ axes — 2017 classification → non-surgical (SRP ± adjunct) → surgical/regeneration (GTR/EMD) → acute/combined lesions → supportive periodontal therapy (SPT) → mucogingival surgery, with peri-implantitis and systemic-effect threads. Core thesis: every diagnosis starts from 2017 World Workshop Staging I–IV × Grading A–C; treatment is step-wise per EFP S3 (behavior change → SRP → surgery → SPT) with SRP strongly recommended and systemic doxycycline adding little; intrabony defects regenerate better with GTR/EMD + graft (combination > monotherapy); SPT runs 3–6-month cadence risk-stratified; SRP lowers diabetic HbA1c ~0.4–0.6% and cardiovascular markers; periodontitis history raises peri-implantitis risk ~4.8× — built on EFP S3 + Cochrane SR + 2017 World Workshop spine, with ozone gel only weakly supported.
+
 ## 한줄요약
 
 치주치료 6축 — 2017 새 분류 (Staging I-IV × Grading A-C + 전신질환 발현·치은점막 상태) · 비외과 치료 (SRP ± 보조) · 외과·재생 (GTR/EMD) · SPT · 급성/복합 병소 (농양·괴사·치수치주병변) · 치주성형 (APF/FGG/CTG). EFP S3 guideline + Cochrane SR + 2017 World Workshop spine.
