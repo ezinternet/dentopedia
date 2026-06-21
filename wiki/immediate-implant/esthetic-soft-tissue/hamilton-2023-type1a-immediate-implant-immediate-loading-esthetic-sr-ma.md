@@ -14,6 +14,9 @@ source_collection: external
 tags: [Type-1A, immediate-implant, immediate-loading, esthetic-zone, ITI-consensus, selection-criteria, SR-MA, facial-gap, HDD, COIR, maxillary]
 ---
 
+## One-line Summary
+ITI Consensus SR+MA (COIR 2023 Suppl 26, Hamilton; 3,118 screened / 68 included, mean 37.2 implants/study, follow-up 2.8 y): maxillary esthetic-zone single-tooth immediate placement + immediate loading (Type 1A) shows high survival under strict patient/site selection, with facial gap >2 mm (+3.1 PP, p=0.04), absence of endodontic infection (+2.6 PP, p=0.004), and post-2012 technique (+1.9 PP, p=0.02) as significant favorable modifiers.
+
 ## 한줄요약
 ITI Consensus SR+MA (COIR 2023 Suppl 26, Hamilton, 3,118 screened / 68 included, mean 37.2 implants/study, follow-up 2.8 y): 상악 심미부위 single tooth 즉시식립 + 즉시부하 (Type 1A) — 엄격한 환자·부위 선정 시 high survival; **facial gap >2 mm** (+3.1 PP, p=0.04), **근관 감염 부재** (+2.6 PP, p=0.004), **post-2012 술기** (+1.9 PP, p=0.02)이 유의한 우호 인자.
 
