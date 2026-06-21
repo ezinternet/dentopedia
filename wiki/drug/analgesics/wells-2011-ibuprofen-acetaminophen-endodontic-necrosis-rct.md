@@ -14,6 +14,9 @@ source_collection: external
 tags: [endodontic-pain, pulp-necrosis, ibuprofen, acetaminophen, APAP, RCT, OSU, emergency-endodontics]
 ---
 
+## One-line Summary
+Prospective double-blind RCT (J Endod 2011; n=71 emergency endodontic patients with pulp necrosis, apical radiolucency, and moderate-to-severe pain): postoperative ibuprofen 600 mg + acetaminophen 1000 mg combination produced significantly less pain and less rescue-medication use than ibuprofen 600 mg alone.
+
 ## 한줄요약
 RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
 
