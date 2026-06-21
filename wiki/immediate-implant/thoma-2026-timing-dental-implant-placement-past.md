@@ -13,6 +13,9 @@ source_collection: external
 tags: [implant-timing, immediate-implant, early-placement, delayed-placement, ITI-classification, GBR, periodontal-phenotype, AI-dentistry]
 ---
 
+## One-line Summary
+Narrative review / perspective (Univ. of Zurich): reviews the ITI Type 1–4 implant-placement timing classification with reported survival (immediate Type 1 95–98%, early Type 2 4–8 wk 96–99%, early Type 3 12–16 wk 97–99%, delayed Type 4 >6 mo >95%), clinical gray zones, and the future shift toward AI-guided personalized "safe earliest placement."
+
 ## 한줄요약
 ITI 관점 (Type 1–4): 즉시(95–98%) → 조기4–8주(96–99%) → 조기12–16주(97–99%) → 지연>6mo(>95%); 미래 = AI 가이드 '안전한 최조기 식립'
 
