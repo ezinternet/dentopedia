@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, untreated, 15-year-follow-up, sinus-floor-augmentation, dental-implant, longitudinal]
 ---
 
+## One-line Summary
+Case report (n=1, 15-year follow-up) of an antral pseudocyst that predated sinus floor augmentation and was left untreated during implant placement; over 15 years the implant remained stable with maintained sinus health and no major complications despite dynamic radiographic changes in the pseudocyst, serving as a long-term anchor for the "untreated" management option.
+
 ## 한줄요약
 Case report (Danube Private University Austria, IJSCR 2023): AP가 sinus augmentation 이전부터 존재, **15년 추적** — radiographic feature 동적 변화 있었으나 implant 안정·sinus health 유지. "Untreated 옵션도 장기 안전" anchor.
 
