@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/pezzella-2026-beta-tcp-alveolar-ridge
 pdf_filename: pezzella-2026-beta-tcp-alveolar-ridge-preservation-sr.pdf
 source_collection: external
 tags: [beta-TCP, tricalcium-phosphate, alveolar-ridge-preservation, ARP, alloplast, CBCT, RCT-SR]
+relations:
+  - type: reinforces
+    target: majzoub-2019-influence-different-grafting-materials
 ---
 
 ## One-line Summary
