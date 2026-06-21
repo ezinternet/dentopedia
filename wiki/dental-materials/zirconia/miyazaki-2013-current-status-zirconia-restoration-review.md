@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, CAD-CAM, Y-TZP, Ce-TZP, veneer-bond, resin-cement, enamel-wear, clinical-review]
 ---
 
+## One-line Summary
+Narrative review (J Prosthodont Res 2013) of zirconia restorations covering Y-TZP vs Ce-TZP/Al2O3 material properties, CAD/CAM workflow, veneering-porcelain chipping as the main complication, MDP-primer-dependent zirconia-resin bonding, surface finish and antagonist enamel wear, and clinical FDP performance.
+
 ## 한줄요약
 narrative-review(J Prosthodont Res 2013): Y-TZP·Ce-TZP 성질, CAD/CAM, 지르코니아-도재 결합(칩핑 주 합병증), 지르코니아-레진 결합(MDP primer 필수), 표면처리+대합치마모, 임상결과 종합 고찰.
 
