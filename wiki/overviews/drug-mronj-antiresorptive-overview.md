@@ -46,6 +46,10 @@ relations:
 > - 임플란트: 항흡수제 시작 **후** 식립 시 실패율 23%, 실패의 83%가 MRONJ (Li 2024 SR, 445개). 평균 잠복기 34개월, 후방 하악이 최다 부위 → 신규 식립은 매우 신중·case-by-case.
 > - 한국 종설 anchor: Choi/JKDA 2022 (BMA 환자 implant 결정 4단계 framework, cut-off RCT 부재), Kim 2026 (골다공증 경구 BP는 MRONJ 저위험·임플란트 비금기이나 장기 생존율 82.6–94.1%로 하락 — MRONJ 저위험이 장기 성공을 보장하지 않음).
 
+## One-line Summary
+
+Synthesis of papers (SR, position papers, cohorts, narrative) on MRONJ and antiresorptive-drug dental management. Core thesis: the first prevention strategy is dental clearance BEFORE starting antiresorptive therapy; once started, avoid extractions, use minimally invasive technique, antibiotic prophylaxis, and regular follow-up. Clinical takeaway: denosumab risk is driven by cumulative dose (MRONJ surges at ≥32 doses), AAOMS 2022 expands surgical treatment to all stages and drops the drug-holiday recommendation, the Korean 2025 position statement codifies drug-specific holidays, and implants placed after antiresorptive initiation carry ~23% failure (83% MRONJ-related) so new placement must be case-by-case.
+
 ## 한줄요약
 약물관련악골괴사 (Medication-Related Osteonecrosis of the Jaw, MRONJ) 예방의 1차 전략은 항흡수제 시작 **전** 치과 클리어런스. 시작 후에는 발치 회피·최소침습·항생제 prophylaxis·정기 추적. Denosumab은 누적 dose가 위험 지표 (≥32 doses에서 위험 급증).
 
