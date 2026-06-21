@@ -18,6 +18,9 @@ relations:
     target: cosola-2020-bone-tissue-level-radiological-sr
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (5 studies, 501 implants, 241 participants, 1–5 years): tissue-level (TL) vs bone-level (BL) implants show comparable outcomes — TL had lower peri-implantitis and failure rates (both RR 0.59) but the differences were not statistically significant, with no significant PPD or MBL differences.
+
 ## 한줄요약
 SR+MA(5편, 501 임플란트, 241명, 1-5년): 조직수준 임플란트 치주염·실패율 낮음(RR 0.59) — 통계적 유의차 없음; TL·BL 임상결과 유사
 
