@@ -13,6 +13,9 @@ source_collection: external
 tags: [botulinum-toxin, btx, tmd, meta-analysis, myofascial-pain]
 ---
 
+## One-line Summary
+SR+MA (PLoS ONE, 2024) of botulinum toxin (BTX) for TMD: BTX is significantly superior to placebo for pain reduction across TMD subtypes (most pronounced in myofascial pain), with modest MMO improvement in some disc-displacement subgroups; GRADE certainty low to moderate. Updates and extends Zhu 2020.
+
 ## 한줄요약
 2024년 PLoS ONE SR+MA: 보툴리눔독소(BTX)가 악관절증(TMD) 여러 아형에서 위약 대비 통증을 유의하게 감소시킴; Zhu 2020 결과를 더 큰 증거 기반으로 재확인.
 
