@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, ridge-expansion, osteotome, animal-study, porcine, BIC, BAFO]
 ---
 
+## One-line Summary
+In vivo animal study (atrophic porcine mandible, 12 implants, 6 per arm, 4-week healing) comparing osseodensification (OD) vs conventional Summers osteotome for alveolar ridge expansion: OD nearly doubled BIC (62.5% vs 31.4%, P=0.018) but BAFO was unchanged (P=0.198), indicating denser interface intimacy without added bone volume; small sample and single early time point limit clinical extrapolation.
+
 ## 한줄요약
 동물 in vivo 연구 (atrophic 돼지 하악, n=12 임플란트, 4주 치유) — 골밀도화 (Osseodensification, OD) 군이 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 62.5% vs 일반 osteotome 31.4% (P=0.018)로 우월. 단 표본이 6/6에 불과하고 골면적분율 (Bone Area Fraction Occupancy, BAFO)은 차이 없음 (P=0.198) — 짧은 관찰기간·소표본 한계 명시.
 
