@@ -27,6 +27,10 @@ tags: [inlay, onlay, partial-coverage, lithium-disilicate, e-max, cad-cam, 3d-pr
 > - IRFPD: 지르코니아 IRFPD는 672N으로 전통 FDP 동등, 지르코니아강화 리튬실리케이트는 391N으로 유의하게 약함 → 후자 권장 안 함(Kermanshah 2020, in-vitro 한정).
 > - 확신도: 축1 [근거강함](다수 후향 ≥7년+SR+MA), 축2 단기 [근거강함]/장기 [합의수준], 축3 [합의수준], 축4 [미검증].
 
+## One-line Summary
+
+Synthesis/decision-ladder over 13 posterior partial-coverage restoration papers (inlay/onlay/overlay) across 4 axes — long-term survival, head-to-head material comparison, cavity/design, and manufacturing. Core thesis: lithium disilicate (e.max) is first-line with ≥95% 10-year survival (Malament 2021, n=551), CAD/CAM indirect resin composite matches ceramic at 5 years but diverges sharply by 7+ years (96.8% vs 84.9%), and partial coverage equals or outperforms full crowns on survival while conserving tooth structure — so "if this much is removed, just do a full crown" is a misjudgment; cusp-covering overlay > box inlay for fracture strength, with immediate dentin sealing recommended.
+
 ## 한줄요약
 
 후방부 부분피개 수복(인레이·온레이·overlay) 13편 종합. 리튬디실리케이트(Lithium Disilicate, e.max)가 10년 95% 이상 생존으로 1선; CAD/CAM 간접레진은 5–7년에 격차 벌어지며 장기적 열위. 풀크라운보다 부분피개가 치질보존·예후 모두 우위 시사.
