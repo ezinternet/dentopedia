@@ -13,6 +13,9 @@ source_collection: external
 tags: [bone-level-implant, tissue-level-implant, MBL, marginal-bone-loss, platform-switching, SLActive, Morse-taper, abutment-connection, systematic-review]
 ---
 
+## One-line Summary
+Systematic review (38 clinical trials) of marginal bone loss (MBL) around bone-level (BL) vs tissue-level (TL) implants: high heterogeneity prevents a definitive BL-vs-TL verdict, but platform-switching, Morse taper connection, and SLActive surface each significantly reduce MBL, and most total MBL occurs within the first year.
+
 ## 한줄요약
 SR (38연구): BL vs TL MBL 비교; platform-switching·Morse taper·SLActive가 MBL 감소 핵심; 1년 내 MBL이 전체 대부분
 
