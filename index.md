@@ -1367,6 +1367,8 @@ tags: []
 - [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] — SR+NMA (57 RCT): TMD-관절에 NSAIDs/IA corticosteroid·hyaluronate; TMD-근육에 cyclobenzaprine; BMS에 clonazepam·capsaicin — GRADE 근거 낮음 (J Oral Rehabil 2017)
 - [[tmj/gonzalez-sanchez-2023-tmj-physiotherapy-treatment-sr]] — SR (15 RCT): 수기치료+운동치료 병용이 TMD 물리치료 중 최선; 모든 physiotherapy 모달리티 효과적 (J Clin Med 2023)
 - [[tmj/koole-2019-spray-stretch-technique-mouth-opening]] — 전향 임상연구 (n=121: 통증 60+대조 61): vapocoolant 분사신장이 최대개구량(MMO) 즉시 증가, 통증군>대조군(P<.001); 통증 없는 stretch 대안 (J Prosthet Dent 2019, 초록 기반)
+- [[tmj/pal-2014-trends-management-myofascial-pain]] — Narrative review (악안면): 마스티케이션 근막통 2단계 치료 알고리즘 — 분사신장·교합스플린트·물리치료(초음파·TENS·LLLT)·트리거포인트 주사·근이완제·TCA·BTX (Natl J Maxillofac Surg 2014, 전문)
+- [[tmj/vazquez-delgado-2010-myofascial-pain-differential-diagnosis-treatment]] — Narrative review (구강안면통증 유닛): 트리거포인트 치료 중 분사신장+직접 주사가 최선; 만성 시 정신사회 개입·예후 악화 (Med Oral Patol Oral Cir Bucal 2010, 초록 기반)
 - [[tmj/alowaimer-2024-noninvasive-therapies-tmj-sr]] — SR (20연구): 수기치료+상담+스플린트 병용 최선; TENS·LLLT 단독 효과 제한; TMD 80%+ 비수술 관리 가능 (Cureus 2024)
 - [[tmj/kapos-2020-temporomandibular-disorders-aetiology-diagnosis-review]] — Narrative review: TMD 생물심리사회적 3영역 모델; OPPERA 성인 36% 유병률; DC/TMD 12진단; 보존적 다학제 치료 표준 (Oral Surg 2020)
 - [[tmj/mauro-2024-tmj-management-whats-new-scoping]] — Scoping review (109 SR): TMD 치료 2024 evidence map — PT·CBT 비침습 최강; PRP·오존 신흥; 수술 최후 (Dent J 2024)
