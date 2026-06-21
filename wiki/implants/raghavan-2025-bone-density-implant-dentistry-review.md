@@ -13,6 +13,9 @@ source_collection: external
 tags: [bone-density, Misch, D1-D4, CBCT, Hounsfield-units, treatment-planning]
 ---
 
+## One-line Summary
+Narrative review of bone density in implant dentistry: covers classification (Misch D1–D4, Lekholm-Zarb), CBCT Hounsfield-unit ranges, and clinical adaptation for low-density bone (undersized osteotomy, modified healing, implant-design selection, OD benefit in D4).
+
 ## 한줄요약
 서술적 고찰: Misch D1–D4·Lekholm-Zarb 골질 분류, CBCT HU 기준값, 저밀도 골 임플란트 술식 조정(언더사이즈 드릴링·부하지연) 임상 지침 정리.
 
