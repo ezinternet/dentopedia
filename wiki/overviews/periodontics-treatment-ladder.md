@@ -96,6 +96,8 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 
 **오판 패턴**: "심한 치주염은 바로 외과로" — Sanz 2020 step-wise가 비외과 first. 외과는 재평가 후 잔존 pocket에만. [근거강함]
 
+> **기구·술식 선택 (the *how* of SRP)**: GBT/에어폴리싱 vs 전통 SRP는 임상지표(PPD/CAL/BoP)에서 동등하며 GBT는 시술시간·치질 보존에서만 우위 — 분말 선택(에리스리톨)·치질 마모·치은연하 안전까지 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] 참조 (Yein 2026 SR; Cyris 2024 RCT). [근거중간]
+
 ### 축 3 — 외과·재생 (GTR · EMD · Implants in Periodontitis Patients)
 
 | Spine paper | Evidence | Key finding |
@@ -166,6 +168,8 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 3. **Stage III-IV + Grade C 또는 흡연 미중단 또는 당뇨 조절 불량** → SPT 2-3mo.
 4. **임플란트 + 치주염력** → SPT 3mo 종신 (Roccuzzo 2022).
 5. **SPT 순응도 불량 (no-show 빈번)** → recall 시스템 강화, 책임 동의서, 환자 교육 재실시.
+
+> **SPT 중 치면세균막관리 방식**: 유지치주 단계에서는 에어폴리싱/GBT가 편안함·시술시간·치질 보존에서 가장 적합(Stähli 2024 RCT, 1년 임상 동등) — 술식·분말·치은연하 안전은 [[overviews/professional-biofilm-management-gbt-air-polishing-overview]]. [근거중간]
 
 ### 축 6 — 치주성형 (Mucogingival Surgery: APF · FGG · CTG)
 
@@ -300,6 +304,7 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 - [[overviews/implants-clinical-decision-ladder]] — 임플란트 위험·peri-implantitis (본 카테고리와 연계)
 - [[overviews/drug-clinical-decision-ladder]] — drug 카테고리 허브 (항생제 adjunct·NSAIDs·BP·DM·항응고)
 - [[overviews/bone-regeneration-protocol-ladder]] — 외과·재생 술식 (축 3)
+- [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — 전문가 치면세균막관리 (GBT·에어폴리싱·debridement) — 축 2 SRP·축 5 SPT의 *기구·술식* 상세
 
 확신도 등급:
 - 축 1 classification = [근거강함] (2017 World Workshop consensus).
