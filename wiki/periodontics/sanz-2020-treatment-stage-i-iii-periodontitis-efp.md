@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2020-treatment-stage-i-iii-perio
 pdf_filename: sanz-2020-treatment-stage-i-iii-periodontitis-efp.pdf
 source_collection: external
 tags: [periodontitis, treatment-guideline, EFP, stepwise-therapy, SRP, SPT]
+relations:
+  - type: refines
+    target: smiley-2015-nonsurgical-periodontitis-srp-guideline
 ---
 
 ## 한줄요약
