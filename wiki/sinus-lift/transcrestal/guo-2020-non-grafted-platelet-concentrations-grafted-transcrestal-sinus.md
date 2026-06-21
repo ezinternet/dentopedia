@@ -14,6 +14,9 @@ source_collection: external
 tags: [TSFE, non-grafted, platelet-concentrate, PRF, PRP, CGF, PRGF, ISR, sinus-lift, SR-MA]
 ---
 
+## One-line Summary
+SR+MA (18 studies: 13 non-grafted + 5 platelet-concentrate-grafted transcrestal sinus floor elevation, TSFE): 1-year implant survival is equivalent — non-grafted 97% (CI 0.96–0.99) vs PC-grafted 99% (CI 0.97–1.00), no significant difference — implying that with adequate residual bone height (≥5 mm) grafting may be optional.
+
 ## 한줄요약
 SR+MA (18연구): TSFE 1년 생존율 — 비이식 97% vs 혈소판농축물 99%, 유의차 없음; 잔존골 충분하면 이식재 선택적
 
