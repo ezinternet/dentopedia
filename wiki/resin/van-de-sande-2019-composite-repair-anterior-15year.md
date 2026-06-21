@@ -13,6 +13,9 @@ source_collection: external
 tags: [composite, repair, anterior, longevity, retrospective]
 ---
 
+## One-line Summary
+Practice-based retrospective 15-year study (144 patients, 634 anterior direct composite restorations) showed Class III/IV survival of 69% (AFR 2.4%) when repair was counted as non-failure vs 64% (AFR 2.9%) when counted as failure, supporting composite repair as a suitable conservative alternative to replacement.
+
 ## 한줄요약
 전방부 복합레진 수복 후향적 15년 연구(634 수복): 수리(repair)는 생존율을 높이는 유효한 대안 — Class III/IV 15년 생존 69%, AFR 2.4%.
 
