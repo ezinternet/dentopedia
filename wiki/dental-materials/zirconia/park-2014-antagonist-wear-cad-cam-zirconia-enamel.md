@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, CAD-CAM, enamel-wear, antagonist-wear, glazing, polishing, Y-TZP, wear-testing]
 ---
 
+## One-line Summary
+In vitro wear study (J Prosthet Dent 2014; 3 CAD/CAM Y-TZP ceramics ± stain/glaze + feldspathic, 240,000 masticatory cycles vs human enamel): polished zirconia caused the least antagonist enamel wear (1.11 mm³), stained+glazed zirconia the most among zirconia groups (3.07 mm³), and feldspathic ceramic the most overall; surface roughness predicted wear.
+
 ## 한줄요약
 in-vitro(J Prosthet Dent 2014): CAD/CAM Zr 3종 ± 착색/유약, 240,000사이클 — 연마 Zr: 최소 대합치 마모(1.11mm³); 착색+유약 Zr: 최대(3.07mm³); 장석도재: 전체 최대; 표면조도=마모 예측인자.
 
