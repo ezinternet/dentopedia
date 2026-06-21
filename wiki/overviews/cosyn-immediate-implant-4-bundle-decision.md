@@ -25,6 +25,10 @@ source: synthesis
 > - 의사결정: ISQ <70 또는 구치부 large socket → 지연 임시치관; 협측 결손 → flap + GBR 필수(≥5mm 결손도 IIP 가능하나 advanced).
 > - 한계: 4변수 factorial RCT 없음, 장기(≥5년) 데이터 부족, 구치부 evidence sparse(Cosyn 대부분 상악 전치 single).
 
+## One-line Summary
+
+Synthesis of 11 wiki entries — anchored on 4 Cosyn-group SR+MA (Pitman 2022/2023, Seyssens 2021/2022) plus 7 newer RCT/NMA — quantifying the effect sizes of the 4 surgical variables performed after Immediate Implant Placement (IIP) is chosen: flap vs flapless, immediate vs delayed provisionalization (IP), connective tissue graft (CTG), and socket grafting (SG). Core thesis: each variable independently preserves hard/soft tissue (flapless ~0.2–0.4 mm, IP ~0.3–0.5 mm midfacial, CTG ~0.4–0.7 mm in thin biotype, SG ~0.4 mm horizontal) but effect sizes should not be simply summed; the anterior single-tooth default is Flapless + IP + optional CTG + SG (jump space ≥2 mm). Clinical takeaway: CTG gives the largest gain in thin biotype, SG is near-mandatory at jump space ≥2 mm (material choice matters little), and buccal defects require flap + GBR — with the caveat that no 4-variable factorial RCT, scant long-term (≥5 yr) data, and sparse posterior evidence exist.
+
 ## 한줄요약
 즉시식립 (Immediate Implant Placement, IIP) 결정 후 시행되는 4개 술식 변수 — flap vs flapless, immediate vs delayed provisionalization, connective tissue graft (CTG) 동반 여부, socket grafting (SG) 동반 여부 — 를 Cosyn 그룹 SR+MA 4편 (Pitman 2022/2023, Seyssens 2021/2022)을 anchor로 + 신규 RCT/NMA 7편을 추가해 정량 effect size 매트릭스로 묶고, 4변수 의사결정을 case category별 (thick/thin biotype × intact/defective wall × 전치/구치)로 알고리즘화한 페이지.
 
