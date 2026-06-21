@@ -13,6 +13,9 @@ source_collection: external
 tags: [dental-implant, coating, antibacterial, osseointegration, peri-implantitis, in-vivo, systematic-review]
 ---
 
+## One-line Summary
+Systematic review (16 in vivo studies — 1 clinical + 15 animal across 5 species) of dual-biofunctional (antibacterial + osseointegration) implant coatings: substantial protocol heterogeneity precluded meta-analysis, 6 studies used peri-implantitis challenge models, and clinical evidence is limited to a single short-term 15-patient trial, prompting a call for standardized methods.
+
 ## 한줄요약
 Systematic review (16 in vivo studies, 1 clinical + 15 animal across 5 species): substantial heterogeneity in dual-biofunctional (antibacterial + osseointegration) implant coatings; 6 studies use peri-implantitis challenge models; only one short-term clinical trial; calls for protocol standardization.
 
