@@ -13,6 +13,9 @@ source_collection: external
 tags: ['periapical pathology', 'infected socket', 'IIP', 'long-term', 'antibiotic']
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (109 publications screened, 22 full-text reviewed) comparing immediate implant placement into sockets with vs without periapical pathology; with thorough debridement and antibiotic prophylaxis, survival of immediate implants in infected sites is comparable to non-infected sites.
+
 ## 한줄요약
 SR+MA: 발치와에 periapical 병변 있는 부위 즉시식립 vs 없는 부위 즉시식립 — 장기 임상 결과 비교; 적절한 debridement·항생제 동반 시 감염치 IIP가 비감염치와 동등 가능성 시사.
 
