@@ -13,6 +13,9 @@ source_collection: external
 tags: [burnout, wellbeing, intervention, workplace, UK, dentist, prevention]
 ---
 
+## One-line Summary
+Systematic review (narrative synthesis) of mental-health/wellbeing interventions in the dental sector, framed by the primary/secondary/tertiary prevention taxonomy: the primary-prevention (organizational/systems-level) cell is near-empty while evidence concentrates on individual-level secondary prevention (mindfulness, CBT, psychoeducation) — exposing a mismatch between the structural stressors dentists name and the individual-coping interventions deployed.
+
 ## 한줄요약
 치과 인력 정신건강 개입 SR — 1차 예방(조직·시스템 차원) 연구는 거의 전무, 대부분 2차 예방(개인 대상 마음챙김·CBT)에 편중. 정작 번아웃의 구조적 원인(규제·NHS 노동조건·소송 공포)을 다루는 개입은 비어있다.
 
