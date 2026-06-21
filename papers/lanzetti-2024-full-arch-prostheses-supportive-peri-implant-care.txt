@@ -1,0 +1,15 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC). PMID 38501398]
+
+TITLE: How often should implant-supported full-arch dental prostheses be removed for supportive peri-implant care to maintain peri-implant health? A systematic review.
+AUTHORS: Lanzetti Jacopo; Crupi Armando; Gibello Umberto; Ambrogio Giulia; Longhi Beatrice; Roccuzzo Andrea; Pera Francesco
+JOURNAL: International journal of oral implantology (Berlin, Germany). 2024 Mar 19.
+DOI: none indexed
+
+ABSTRACT:
+To systematically screen and summarise the available literature on when and how often it is advisable to perform supportive peri-implant care on implant-supported full-arch dental prostheses to maintain peri-implant health.
+
+The authors employed the Preferred Reporting Items for Systematic reviews and Meta-Analyses statement and the Population, Intervention, Comparison and Outcomes tool. A literature search was conducted on PubMed for randomised controlled trials, controlled clinical trials and cohort studies, reporting results on supportive peri-implant care for full-arch dental prostheses with a follow-up period of at least 1 year. The studies were selected in a blind process with an agreement rate of 100%. For all the included studies, quality assessment was performed according to the Cochrane Handbook for Systematic Reviews of Interventions.
+
+The application of the search terms on PubMed led to the selection of 915 results. Only 11 studies were included in the review. Eight of these reported the frequency of supportive peri-implant care, and three detailed the procedures adopted. The number of patients included ranged from 15 to 85, with a mean age from 60.4 to 68.4 years. None of the included studies were judged to be at low risk of bias.
+
+Removal of implant-supported prostheses is a crucial aspect in the long-term care of patients rehabilitated with full-arch restorations. Although no specific indications can be drawn with respect to the frequency at which supportive peri-implant care should be delivered and the regime used to do so, practitioners should consider performing professional oral hygiene measures every 6 months and removing prostheses at least once per year. All interventions should be tailored to the patient's risk profile and characteristics.
