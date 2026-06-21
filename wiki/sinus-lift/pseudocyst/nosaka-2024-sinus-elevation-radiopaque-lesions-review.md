@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, radiopaque-lesion, sinus-floor-elevation, differential-diagnosis, CBCT, clinical-review, Japan, Showa]
 ---
 
+## One-line Summary
+Clinical review (Nosaka, Showa University, JCM 2024): a differential-diagnosis and decision framework for maxillary sinus floor elevation in patients with well-defined faintly radiopaque antral lesions — cautions against defaulting to "antral pseudocyst," maps AP/MRC/odontogenic cyst/antrolith/mucocele/tumor against imaging features, and defines ENT-consultation triggers (e.g. lesion >20 mm near ostium, full-sinus involvement).
+
 ## 한줄요약
 Clinical review (Nosaka·Showa University, JCM 2024): 상악동 내 well-defined faintly radiopaque lesion의 sinus floor elevation 결정 framework — AP/MRC 외 다양한 mass 감별진단·차등 접근 가이드.
 
