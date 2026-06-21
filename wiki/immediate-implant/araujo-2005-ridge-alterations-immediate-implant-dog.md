@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, ridge-resorption, bundle-bone, beagle, SLA, histomorphometry]
 ---
 
+## One-line Summary
+Beagle dog experimental study (n=5, J Clin Periodontol 2005) placing SLA implants immediately into fresh extraction sockets: at 3 months, buccal bone resorption exceeded lingual (buccal BIC 2.6±0.4 mm vs lingual 0.2±0.5 mm apical to the SLA margin) and bundle bone resorbed completely — immediate implant placement does NOT prevent post-extraction ridge resorption.
+
 ## 한줄요약
 animal(J Clin Periodontol 2005): 비글견 즉시식립(SLA)·발치창 — 협측골 흡수 > 설측; bundle bone 완전소실; 즉시식립은 발치 후 치조제 흡수 예방 불가.
 
