@@ -13,6 +13,9 @@ source_collection: external
 tags: [arthrocentesis, hyaluronic-acid, prp, corticosteroid, tmd, injectable]
 ---
 
+## One-line Summary
+Systematic review (BMC Oral Health, 2024) of injectable agents added to arthrocentesis for TMD: hyaluronic acid (HA) has the strongest evidence (significant pain and MMO improvement vs lavage alone), platelet-rich plasma (PRP) is a promising emerging alternative, and corticosteroids give short-term relief but risk cartilage damage with repeated use.
+
 ## 한줄요약
 BMC Oral Health 2024 SR: 관절천자(Arthrocentesis) 시 히알루론산(HA) 병용이 가장 높은 근거; PRP는 유망한 신흥 옵션; 스테로이드는 단기 효과 있으나 반복 시 연골 손상 우려.
 
