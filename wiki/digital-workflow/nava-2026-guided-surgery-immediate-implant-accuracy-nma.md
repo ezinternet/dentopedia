@@ -14,6 +14,9 @@ source_collection: external
 tags: [digital-workflow, immediate-implant, guided-surgery, CAIS, dynamic-navigation, robotic-surgery, sCAIS, dCAIS, rCAIS, network-meta-analysis, accuracy]
 ---
 
+## One-line Summary
+Systematic review and network meta-analysis (Clin Oral Implants Res 2026; 18 studies, 780 immediate implants) of guided surgery accuracy in immediate implant placement (IIP): all guided protocols (static/dynamic/robotic) significantly outperformed freehand on angular, platform, and apex deviation—with rCAIS and dCAIS ranking highest—though overall CINeMA certainty was low due to predominance of non-RCT designs.
+
 ## 한줄요약
 Univ Michigan SR + network MA (Clin Oral Implants Res 2026, 18연구·780 즉시 임플란트): 즉시 식립(IIP)에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수, rCAIS·dCAIS 최상위. 단 비-RCT 다수로 전반 근거 certainty는 LOW.
 
