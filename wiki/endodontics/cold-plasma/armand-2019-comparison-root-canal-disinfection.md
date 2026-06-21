@@ -66,5 +66,5 @@ He/O₂ plasma delivered a ~5.2 log CFU reduction — near-complete eradication 
 
 ## Related Papers
 
-- [[endodontics/irrigation/overview-root-canal-irrigation]] — irrigation overview context for adjunct disinfection methods; He/O₂ plasma data extend the NaOCl/CHX baseline comparisons
-- [[endodontics/cold-plasma/evaluation-cold-plasma-enterococcus-faecalis-biofilm]] — companion in vitro study evaluating cold plasma safety and efficacy against 3-week E. faecalis biofilm (if ingested)
+- [[overviews/irrigation-activation-comparison]] — irrigation overview context for adjunct disinfection methods; He/O₂ plasma data extend the NaOCl/CHX baseline comparisons
+- [[endodontics/cold-plasma/li-2015-cold-plasma-efaecalis-biofilm-safety]] — companion in vitro study evaluating cold plasma safety and efficacy against E. faecalis biofilm
