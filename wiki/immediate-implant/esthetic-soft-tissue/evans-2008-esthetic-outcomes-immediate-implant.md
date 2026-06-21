@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, esthetic-outcome, recession, shoulder-position, biotype]
 ---
 
+## One-line Summary
+Retrospective review of 42 immediate single-unit implant restorations (mean 18.9 months); buccal implant shoulder position caused ~3× greater midfacial recession than lingual (1.8 vs 0.6mm, p<0.001), making shoulder position the dominant determinant of esthetic outcome, while tissue biotype was a non-significant trend.
+
 ## 한줄요약
 retrospective(Clin Oral Implants Res 2008): 42개 즉시식립 단일치 보철, 평균 18.9개월 — 협측 숄더 위치 시 설측 대비 3배 퇴축(1.8 vs 0.6mm, p=0.000); 심미결과는 술식·위치 선정에 절대적으로 의존.
 
