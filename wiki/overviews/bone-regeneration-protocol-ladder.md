@@ -27,6 +27,10 @@ tags: [bone-regeneration, arp, ridge-preservation, gbr, socket-seal, graft, memb
 > - 임상 takeaway: 발치 후 임플란트 계획이 있으면 자연 치유만으로는 수평 폭이 가장 흔히 부족해지므로, 협측 thin (협측골 두께 BBT < 1 mm) 부위에서는 ARP의 이득이 가장 크다.
 > - 본 페이지는 발치 후 ARP에 집중하며, 이미 흡수된 능선을 재건하는 수평·수직 골증대 (GBR) 와 즉시 식립 결정 ladder는 별도 페이지로 위임한다.
 
+## One-line Summary
+
+Synthesis/overview decomposing the post-extraction alveolar ridge preservation (ARP) decision into a 4-axis protocol ladder — natural-healing resorption, ARP effect size, graft-material comparison, and membrane/flap/soft-tissue-seal combinations; the core thesis is that untreated sockets lose ≈−3.79 mm horizontal width (29–63%) and ≈−1.24 to −1.67 mm buccal vertical height at 6 months (horizontal loss dominant), ARP reduces horizontal resorption by ≈1.86–2.19 mm (so ARP is first-line when immediate placement is impossible and 4–6 months of healing are needed), graft materials (allograft/xenograft/alloplast) differ little clinically with DBBM/Bio-Oss ≈ autogenous bone, and collagen membrane + DBBM is the standard combination with autologous soft-tissue grafts (FGG) best for esthetic-zone height preservation. The clinical takeaway is a socket-defect-driven decision tree (intact 4-wall → flapless Bio-Col; buccal defect → flap + DBBM + dPTFE; esthetic defect → add FGG/CTG), with GBR of already-resorbed ridges and immediate-placement decisions delegated to separate pages.
+
 ## 한줄요약
 
 치조제 보존술 (Alveolar Ridge Preservation, ARP) 의사결정 ladder. 자연 치유 dimensional change · graft material 비교 · membrane/flap 조합 · soft tissue seal 4축. EFP/AO consensus + Cochrane review spine.
