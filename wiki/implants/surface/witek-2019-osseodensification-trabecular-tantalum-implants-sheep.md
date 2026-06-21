@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, trabecular-tantalum, porous-implant, sheep, BIC, BAFO, low-density-bone]
 ---
 
+## One-line Summary
+Sheep iliac-crest animal study (3 sheep, 18 porous trabecular tantalum implants, 3-week healing) comparing Regular vs osseodensification (OD) clockwise vs counterclockwise drilling: OD-CCW (densifying) significantly raised BAFO% versus Regular by packing bone chips into the porous network, while BIC and other measures showed no significant difference; proof-of-concept for OD × porous-implant interaction only.
+
 ## 한줄요약
 동물 실험 (Sheep ilium, 3주 치유), n=3마리 (양측 장골 6개 부위, implant 18개) — 통상 드릴링 vs 골밀도화 (Osseodensification, OD) 시계방향 vs 반시계방향을 비교, 다공성 트라베큘러 탄탈럼 임플란트에서 OD-CCW가 골면적분율 (Bone Area Fraction Occupancy, BAFO)을 Regular 대비 유의하게 높였으나 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC) 등 다른 지표는 유의차 없음. 3마리·3주만으로 표본·기간 모두 한계.
 
