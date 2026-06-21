@@ -14,6 +14,9 @@ source_collection: external
 tags: [bone-quality, lekholm-zarb, survival-rate, meta-analysis, bone-type-IV, ISQ, primary-stability]
 ---
 
+## One-line Summary
+SR+MA (49 studies, 12,056 patients, 29,905 implants): Lekholm-Zarb type IV bone has significantly higher implant failure than types I–III (RR ~1.5–1.9), with types I and II equivalent; the gap is driven by lower primary stability (ISQ 58–65 for type IV vs 72–80 for type I), and the posterior maxilla is the highest-risk site.
+
 ## 한줄요약
 SR+MA (49연구, 29,905임플란트): 4형 골 실패율 1.5–1.9배↑; 상악구치부 최고위험; 골질이 임플란트 생존 결정
 
