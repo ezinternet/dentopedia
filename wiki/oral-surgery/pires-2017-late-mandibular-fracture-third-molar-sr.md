@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Systematic review of 124 published cases of late mandibular fracture occurring >24 hours after mandibular third molar extraction; fractures peak at 1–3 weeks postoperatively, occur almost exclusively at the mandibular angle, are usually triggered by normal mastication, and are strongly associated with deep impaction (horizontal/mesioangular, Pell-Gregory Class III/C), thin lingual plate, and aggressive bone removal — most managed by ORIF with favorable outcomes.
+
 ## 한줄요약
 체계적 문헌고찰: 제3대구치 발치 후 지연성 하악 골절 124증례 분석 결과, 대부분 발치 후 1–3주 내 하악각 부위에서 발생하며, 깊은 매복(Pell-Gregory Class III/C), 수평 매복, 얇은 설측판이 주요 위험인자임.
 
