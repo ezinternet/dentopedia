@@ -1,0 +1,120 @@
+Source: PubMed Central PMC11431482 — DOI 10.3390/healthcare12181867
+
+Title: Can Vitamin D Levels Influence Bone Metabolism and Osseointegration of Dental Implants? An Umbrella Review
+Authors: Tallon E, Macedo JP, Faria A, Tallon JM, Pinto M, Pereira J
+Journal: Healthcare (Basel), 2024 (published 2024-09-17)
+PMID: 39337208 | PMCID: PMC11431482 | DOI: 10.3390/healthcare12181867
+
+=== ABSTRACT ===
+
+Introduction: Due to the large amount of scientific evidence on the subject and the limitations and incongruities in previous reviews, the primary aim of this umbrella review is to gather all the information regarding the importance of vitamin D levels in the osseointegration of dental implants. Methods: The literature search was performed in PubMed, Web of Science, CINAHL Plus, Cochrane Library, and Academic Search Complete throughout the search expression ["vitamin D" AND ("dental implant" OR "dental implants")]. Results: The initial search yielded 351 results, but at the end of the process, only five systematic reviews were selected. Conclusions: Vitamin D seems to have a positive effect on the osseointegration of dental implants and on the reduction of dental implant failures; however, it is recommended that future studies take into account the limitations mentioned in this study in order to increase the validity and quality of scientific evidence on the subject.
+
+=== FULL TEXT ===
+
+1. Introduction
+
+1.1. Vitamin D
+
+Vitamin D is a fat-soluble vitamin, and its name refers to both vitamin D2 (ergocalciferol) and vitamin D3 (cholecalciferol). Vitamin D2 comes from the ultraviolet-B irradiation of ergosterol, a steroid found in some plants and, mainly, fungi (vegetable origin), and vitamin D3 is synthesized through ultraviolet irradiation in the skin of animals and humans (animal origin). Furthermore, foods like egg yolks, fatty fish, and fish liver oil are rich in vitamin D3; however, nutrition is usually only a minor source of it.
+
+Both function as prohormones and are used identically by the body. They are transformed through two enzymatic hydroxylation reactions, in the liver and in the proximal renal tubule, into their most active form—1,25-dihydroxyvitamin D2 or D3.
+
+In addition to other functions related to other systems, vitamin D regulates calcium phosphate homeostasis and bone mineral metabolism, stimulating the production of osteoblastic bone matrix and optimizing bone remodeling. It increases intestinal calcium absorption, leading to a reduction in parathyroid hormone secretion and less systemic bone resorption, with a possible inhibition of osteoclastogenesis. It is well recognized that prolonged vitamin D deficiency is detrimental to the skeleton and may lead to bone loss. For example, a correlation has been found between low levels of vitamin D and the presence of rheumatic diseases, such as osteoarthritis of the temporomandibular joint, which is associated with severe pain.
+
+In this way, vitamin D is associated with cancer, heart disease, high blood pressure, diabetes, arthritis, and others but is mainly crucial for musculoskeletal health, namely for its repair and regeneration. Agoncillo et al. (2023) demonstrated that vitamin D supplementation improves muscle strength after exercise-induced muscle damage and Cochet et al. (2023) suggest that its combination with whey proteins or BCAA can be effective in increasing muscle mass, muscle strength, or performance, even in sarcopenic patients. Furthermore, low levels of vitamin D seem to negatively influence the quality of life.
+
+Despite existing knowledge regarding the importance of vitamin D, there is still a high inconsistency in the definition of vitamin D values. The US Institute of Medicine considers that people with a serum value < 12 ng/mL (30 nmol/L) are at risk of vitamin D deficiency, considers serum levels between 12 and 20 ng/mL as corresponding to a risk of insufficiency, and levels above (≥) 20 as being sufficient. The Endocrine Society, together with the European Calcified Tissues Society, International Osteoporosis Foundation, or American Geriatrics Society, established the threshold of deficiency at ≤20 ng/mL (50 nmol/L) and designates levels ≤ 10 as severe deficiency. The Endocrine Society determines that only levels ≥ 30 ng/mL are to be considered normal, designating levels between 21 and 29 ng/mL as insufficient.
+
+In Portugal, the estimated national prevalence of vitamin D ≤ 10 ng/mL and <20 ng/mL is 21.2% and 45.4%, respectively. Only 33.4% of the adult population presents values ≥ 20 ng/mL, and no more than 3.6% present values ≥ 30 ng/mL.
+
+1.2. Bone Metabolism
+
+Bone formation occurs through the processes of endochondral ossification and intramembranous ossification. During the first process, mesenchymal cells differentiate into chondrocytes—chondrogenesis—responsible for the formation of the cartilage growth plate that is gradually replaced by bone. The remaining bones are formed by intramembranous ossification, in which mesenchymal stem cells differentiate directly into osteoblasts—osteoblastogenesis.
+
+In order to preserve the strength and integrity of the bone, it must be constantly replaced. Bone formation by osteoblasts produces organic bone matrix, and bone resorption by osteoclasts dissolves bone mineral and extracellular matrix. Osteogenesis and angiogenesis are two closely associated processes involved in bone growth, remodeling, and repair. The gold standard in the evaluation of bone microarchitectonics is histomorphometric study.
+
+1.3. Dental Implants
+
+The dental implant is made of alloplastic materials and is implanted in the oral tissues. Therapy with dental implants has a high success rate (over 97%). Over an observation period of 10 years, a survival rate of 85–95% can be estimated, and in 5% the absence of primary implant integration results in implant failure.
+
+Dental implant failure (DIF) can occur early—associated with impaired bone healing—or late—after a latency of six months. Early failure is due solely to biological complications that usually involve soft and hard tissue resorption. There are many risk factors associated with DIF, such as iatrogenic, material-associated, patient-related, and systemic factors.
+
+Mainly in the last five years, the existing literature on the influence of vitamin D on the osseointegration of dental implants has been increasing; however, there are still studies that argue that there is not enough evidence to establish a correlation or causal relationship between the two factors.
+
+2. Materials and Methods
+
+2.1. Study Design
+
+This document consists of an umbrella review—a review and qualitative analysis of all information documented only in SRs regarding the influence of vitamin D levels on bone metabolism and consequent success of osseointegration of dental implants. This umbrella review was carried out from January to April 2023, in accordance with PRISMA guidelines. The protocol was registered in the Open Science Framework.
+
+2.2. Search Strategy
+
+The literature search was performed in five databases: PubMed, Web of Science, CINAHL Plus, Cochrane Library, and Academic Search Complete. The search expression was ["vitamin D" AND ("dental implant" OR "dental implants")]. No limitation was established on year of publication.
+
+2.3. Eligibility Criteria
+
+Inclusion: (i) SR or meta-analysis (MA); (ii) SR/MA of studies assessing the influence of vitamin D on bone metabolism and osseointegration; (iii) SR/MA of studies performed in humans or animals; (iv) SR/MA published in Portuguese, English, or Spanish. Exclusion: (i) SR/MA of studies that only include humans/animals with pathology; (ii) abstracts and commentaries; (iii) irrelevant outcomes; (iv) duplicated or incomplete data.
+
+3. Methodological Quality Assessment
+
+The methodological quality of the included SRs was assessed by two researchers independently using the Joanna Briggs Institute (JBI) instrument for SR (11 questions, answered yes/no/unclear/not applicable). The choice of instrument considered that the SRs included other study designs in addition to RCTs.
+
+5. Results
+
+5.1. Study Selection
+
+The initial research yielded 351 results; after removing duplicates (51) it boiled down to 300 different studies. After reading titles and abstracts, 292 were eliminated. One study was eliminated for impossibility of access. Through full reading, three more were eliminated. Thus, five SRs were included. The included SRs were published between 2021 and 2022. After analyzing all bibliographic references, no additional SR was found.
+
+5.2. Methodological Quality
+
+The final score of the included SRs varied between 4 (low) and 9 (high). The others had moderate (6) and high (7, 8) methodological quality. The most frequently satisfied items were 4, 8, 10, and 11; the least frequently satisfied were 6 and 7. Item 6 relates to "lack of a risk of bias assessment" bias; item 7 relates to "selective outcome reporting" bias. Item 9 (publication bias) was not applied in any of the SRs since none performed a MA.
+
+5.3. Characteristics of the Included Studies
+
+SRs that analyzed studies with any type of study design were included due to the small number of RCTs published. The sum of primary studies included in the five SRs corresponds to 51 studies, of which 22 are duplicates. Of the remaining 29, only eight primary studies (published 2014–2021) met the eligibility criteria and moved to qualitative analysis. Makke (2022) and Bazal-Bonelli et al. (2022) included three of them; Hakim et al. (2021) and Werny et al. (2022) included four; Alsulaimani et al. (2022) included five of the eight studies.
+
+Werny et al. (2022), in an SR, included the largest number of primary studies—18—and the most recent SR included the least (four). None of the SRs included all existing primary studies.
+
+Four of the five SRs defined "success of dental implants" with outcome measures: survival rate and marginal bone loss; implant survival; dental implant failure, peri-implant marginal bone loss, biological/mechanical complications; bone-to-implant contact (BIC), new bone formation, implant resistance, bone volume/tissue volume. Makke (2022) was the only study that did not mention outcome measures.
+
+Vitamin D reference levels varied between SRs. According to Bazal-Bonelli (2022), Alsulaimani (2022), and Makke (2022), serum <10 ng/mL = deficient/inadequate; 10–30 ng/mL = insufficient; >30 ng/mL = sufficient/optimal. According to Hakim et al. (2021), 25(OH)D <10 ng/mL = severe deficiency; 10–24 ng/mL = deficiency; 25–80 ng/mL = normal. Werny et al. (2022) did not mention vitamin D reference levels.
+
+6. Outcome Measure Analysis
+
+6.1. Vitamin D Deficiency and Dental Implant Failure
+
+According to Hakim et al. (2021), 6 of 12 investigated studies found a significant association between vitamin D deficiency and DIFs. Bazal-Bonelli et al. (2022) observed that patients with sufficient serum vitamin D underwent significantly less bone loss at one year compared with deficient levels; however, according to Mangano et al. (2018), no significant differences in implant survival were found between deficient and sufficient vitamin D patients.
+
+In the Tabrizi et al. (2022) study, mean marginal bone loss (MBL) was higher in patients with deficient serum vitamin D (1.38 ± 0.33 mm; 8.13 ± 0.78 ng/mL) than in patients with sufficient vitamin D (0.78 ± 0.12 mm; 35.37 ± 3.66 ng/mL). For 50.6% of patients, mean MBL could be accounted for by low serum vitamin D (R = 0.506, p = 0.001); for every one-unit increase in serum vitamin D, mean MBL decreased by 0.02 mm (p < 0.001). However, the difference in mean MBL between sufficient and deficient at 1-year follow-up was 0.60 mm, which may not be clinically significant.
+
+Re-analysis of the Mangano et al. (2018) study found a tendency for early DIF (EDIF) to increase in patients with vitamin D deficiency, although the difference was not statistically significant (p = 0.105). The conclusion: although there is a positive association between low vitamin D and EDIF, the results are not statistically significant.
+
+6.2. Optimal Level of Vitamin D and Success of Dental Implants
+
+Hakim et al. (2021) showed some evidence of association between vitamin D levels and success rate in dental implantation. Alsulaimani et al. (2022) stated it is difficult to find a direct relation or causality between low serum vitamin D and EDIF, and that vitamin D may play a role through effects in modulating the immune system and healing process.
+
+Individual analysis of relevant primary studies suggested: implant placement can be successful after vitamin D supplementation; vitamin D supplementation has beneficial effects on bone turnover and regeneration in patients with deficit; and a clear association exists among vitamin D deficit, reduced osseointegration, and increased EDIF in both animal and human studies.
+
+Werny et al. (2022) stated that vitamin D supplementation appears to enhance osseointegration in animals with systemic diseases, with only slight evidence that humans similarly benefit. The literature suggests local vitamin D supplementation enhances BIC, and systemic supplementation enhances new bone formation around dental implants in humans. Bazal-Bonelli et al. (2022) found patients supplemented with vitamin D underwent less bone reduction than non-supplemented. Makke (2022) found contradictory results: one human study with favorable results and two human studies with no significant relationship.
+
+6.3. Supplemented Doses of Vitamin D
+
+None of the SRs (including experimental or case-report studies) mentioned the supplemented dose of vitamin D. Of the four primary studies that should have mentioned dose, only the two RCTs did. In Garg P et al. (2020), the experimental group was supplemented with a cholecalciferol sachet of 60,000 IU/month for three months (≈2000 IU/day). In Kwiatek et al. (2021), patients took 8000 IU/daily for 12 weeks. Both studies concluded that vitamin D supplementation is an effective approach to improving osseointegration. Cumulative dose: Garg ≈540,000 IU vs. Kwiatek ≈672,000 IU.
+
+6.4. Vitamin D Theories
+
+According to Hakim et al. (2021) and Makke (2022), vitamin D's role in the calcium economy is important: during osseointegration, calcitriol affects activation and differentiation of osteoblasts and osteoclasts. Vitamin D is essential for maturation and proper functioning of bone cells, increasing osteoid mineralization (important in the implant stabilization phase), has potent anti-inflammatory effects, and may modulate innate/adaptive immune responses and the antibacterial response. There was a significant correlation between infection rate and vitamin D <20 ng/mL. DIFs decrease threefold when implants are placed by digitally guided surgery vs. freehand (2.25% vs. 6.42%) (Bazal-Bonelli et al., 2022).
+
+7. Discussion
+
+This umbrella review brought together five SRs that allowed analysis of eight primary studies (although they gathered 29 different studies). Numerous methodological limitations were identified in the included SRs: only one mentioned that literature search and/or data extraction were carried out by two researchers independently; only one mentioned evaluating the methodological quality of primary studies; inconsistency in vitamin D reference values; failure to report supplemented dose; and confirmation/selective-reporting bias (e.g., Werny et al. (2022) and Hakim et al. (2021) reporting only positive results while hiding non-significant findings of Mangano (2018) and Salomó-Coll (2016)).
+
+Many other factors may influence the process (age, diet, smoking, alcohol, stress, oral hygiene). The threshold of statistical significance (p = 0.05) was sometimes abused: results with p > 0.05 were treated as "valueless," ignoring inappropriate study design, imprecise measurement, erroneous statistical analysis, or small sample size. p > 0.05 only means "no evidence of difference," not "no difference."
+
+Despite methodological differences, consistency was found in most conclusions: it is difficult to find a direct causal relation between vitamin D and implant failure, but some research showed a clear association between vitamin D and osseointegration, marginal bone loss, dental implant survival, and EDIF. Vitamin D supplementation appears to enhance osseointegration in animals with vitamin D deficiency, with only slight evidence in humans. Additional large-scale human prospective clinical studies and RCTs are required. In patients with severely compromised vitamin D levels, supplementation is recommended to ensure optimal treatment outcomes.
+
+8. Conclusions
+
+Publication of studies on the effect of vitamin D on osseointegration has been increasing, evolving from pre-clinical to clinical studies with greater methodological quality. Vitamin D may have a positive effect on osseointegration, in reducing bone loss, dental implant survival, and consequently the reduction of EDIF (i.e., the success of dental implants). However, inconsistency in results remains. Vitamin D is not the only factor influencing osseointegration and should be seen as a contributing factor, not the sole determinant. Given the high percentage of patients with vitamin D deficiency, it may be advisable to determine serum vitamin D level before placing dental implants. Further higher-level studies (prospective clinical research and especially RCTs) with larger sample sizes and different follow-up periods are recommended.
+
+Source: According to PubMed Central (PMC11431482). DOI: https://doi.org/10.3390/healthcare12181867
