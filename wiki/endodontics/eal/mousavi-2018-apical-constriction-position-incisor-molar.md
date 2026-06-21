@@ -14,6 +14,9 @@ source_collection: external
 tags: [apical-constriction, apical-foramen, working-length, CDJ, incisor, molar, anatomy, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (90 extracted teeth) measuring apical constriction (AC)–apical foramen (AF) distance under 25× microscopy: incisors had significantly greater AC–AF distance than molars (0.847 vs 0.709 mm, p=0.035), supporting tooth-type-specific working-length termination (~0.85 mm short of AF for incisors, ~0.70 mm for molars) rather than a uniform 0.5 mm rule.
+
 ## 한줄요약
 In vitro 90개 치아(이란 인구): AC–AF 거리 전치 0.847mm vs 구치 0.709mm(p=0.035 유의차); 근관치료 종지점은 전치 0.85mm, 구치 0.70mm 단(근첨공 기준)으로 치종별 다르게 적용 권장
 
