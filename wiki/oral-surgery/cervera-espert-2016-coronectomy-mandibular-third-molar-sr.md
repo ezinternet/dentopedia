@@ -13,6 +13,9 @@ source_collection: external
 tags: [coronectomy, third-molar, IAN, nerve-injury, dry-socket, root-migration]
 ---
 
+## One-line Summary
+SR+MA (12 studies): for impacted mandibular third molars in contact with the inferior alveolar canal, coronectomy significantly reduced inferior alveolar nerve (IAN) sensory loss and dry socket compared with complete extraction, with no significant difference in pain or infection; the retained root fragment migrates ~2 mm coronally within 2 years and rarely requires reintervention.
+
 ## 한줄요약
 SR+MA (12편): 관상절제술은 완전 발치 대비 하치조신경 감각 손실·건성발치창 유의하게 감소 — 치근편 평균 2년 내 2mm 이동, 동통·감염 차이 없음.
 
