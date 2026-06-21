@@ -14,6 +14,9 @@ source_collection: external
 tags: [iti-classification, type1-4, immediate-implant, esthetic-outcome, survival-rate, recession, consensus]
 ---
 
+## One-line Summary
+ITI 4th consensus systematic review (91 studies) of implants in post-extraction sites; survival exceeds 95% across all timing types (Type 1–4), but Type 1 (immediate) shows frequent midfacial mucosal recession, with thin tissue biotype, facial implant malposition, and thin/damaged buccal wall as the three key esthetic risk factors and Type 2 being more esthetically predictable.
+
 ## 한줄요약
 ITI 4차 컨센서스 (91연구): 전 타입 생존율 >95%; Type 1 점막퇴축 빈번; 위험인자 3가지 — 얇은 생체형·협측 근심위치·협측벽 얇거나 손상
 
