@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+3D finite element analysis (FEA) of a single anterior-maxilla implant across clinical scenarios (bone availability, loading angle, restoration protocol): stress patterns are sensitive to bone thickness and loading angle, identifying high-risk geometric scenarios that inform immediate vs delayed placement decisions.
+
 ## 한줄요약
 3D FEA: 전치부 단일 임플란트의 임상 시나리오(골량·loading angle·protocol)에 따른 응력 분포 — 전치부 IIP 결정 시 biomechanical input.
 
