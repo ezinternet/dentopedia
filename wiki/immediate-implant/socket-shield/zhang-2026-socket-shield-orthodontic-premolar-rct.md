@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, orthodontic-extraction, premolar, paired-RCT, bone-preservation, guangzhou-medical]
 ---
 
+## One-line Summary
+Paired RCT (n=26 patients; OMFS 2026): first randomized trial of the socket-shield technique (SST) in the orthodontic-extraction context (first premolar), with extracted teeth paired SST vs conventional and shield removed as the adjacent tooth approaches; evaluates expansion of SST indications into bone preservation for orthodontics.
+
 ## 한줄요약
 RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, paired allocation): 교정 발치 (first premolar) 맥락에서 **SST 첫 RCT**. 발치 치아를 시험군 (SST) vs 대조군 paired. Shield는 인접치 근접 시 제거. SST 적응증의 교정 분야 확장 가능성 평가.
 
