@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+First standalone AAPD 2025 consensus guideline on vital pulp therapy (VPT) for permanent teeth: VPT may be considered even for symptomatic irreversible pulpitis in select teeth, with MTA/Biodentine as first-choice materials for direct pulp capping (≥90% 5-year success in mature teeth) and full pulpotomy (80–90% success), avoiding root canal treatment in select cases.
+
 ## 한줄요약
 AAPD 2025 영구치 VPT 최초 가이드라인 — 비가역 치수염도 VPT 고려 가능, MTA/Biodentine DPC·절단 1차 재료.
 
