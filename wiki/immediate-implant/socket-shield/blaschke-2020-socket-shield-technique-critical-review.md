@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, critical-review, controversies, bundle-bone, esthetic-zone, IJID]
 ---
 
+## One-line Summary
+Critical literature review (Blaschke & Schwass, ~12 included studies) acknowledging the socket-shield technique's (SST) potential benefits — buccal bone preservation, esthetic gains, avoidance of invasive grafting — but emphasizing critical limitations (lack of long-term outcomes, unclear complication patterns, insufficient evidence for routine use), concluding SST adoption is premature.
+
 ## 한줄요약
 Critical review (Blaschke & Schwass, Int J Implant Dent 2020, 12 studies): SST 잠재 이점 (협측 골보존·미용·invasive graft 회피)을 인정하되 **장기 outcome·합병증 패턴·routine use 근거 부족**의 critical limitation 강조. SST 도입 의사결정의 cautious anchor.
 
