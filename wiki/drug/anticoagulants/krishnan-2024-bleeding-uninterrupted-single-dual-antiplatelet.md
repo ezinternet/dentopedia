@@ -14,6 +14,9 @@ source_collection: external
 tags: [SAPT, DAPT, antiplatelet, aspirin, clopidogrel, dental-extraction, bleeding-time, uninterrupted, hemostasis, India]
 ---
 
+## One-line Summary
+Comparative single-center study (Kerala, India) of bleeding time after dental extractions under uninterrupted single (SAPT) vs dual antiplatelet therapy (DAPT): DAPT bleeding time was longer than SAPT but all extractions were controlled by local hemostasis without clinically significant bleeding, supporting that DAPT need not be discontinued for routine extractions.
+
 ## 한줄요약
 인도 Amrita Vishwa Vidyapeetham 비교연구 (Ann Maxillofac Surg 2024): 단일/이중 항혈소판제 지속하 단순 발치 — DAPT가 출혈 시간 다소 길지만 모두 국소 지혈로 통제; DAPT 발치 전 중단 불필요라는 umbrella review 권고와 일치.
 
