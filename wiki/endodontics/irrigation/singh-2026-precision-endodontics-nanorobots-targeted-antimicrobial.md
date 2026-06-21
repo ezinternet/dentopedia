@@ -13,6 +13,10 @@ source_collection: external
 tags: [endodontics, irrigation, nanotechnology, editorial, aspirational]
 ---
 
+## One-line Summary
+
+Editorial / narrative review (J Conserv Dent Endod 2026) proposing precision endodontics with nanorobots and engineered nanoagents (AgNPs, ZnO, chitosan, bioactive glass, PLGA carriers) for targeted disinfection of dentinal tubules and apical ramifications that conventional NaOCl/chlorhexidine irrigation cannot reach; the technology remains aspirational, with biocompatibility, cytotoxicity, long-term safety, cost, and regulatory pathway unresolved.
+
 ## 한줄요약
 
 J Conserv Dent Endod 2026 editorial. Nanorobot/nanozyme/biodegradable nanoparticle을 통한 dentinal tubule + apical ramification 단위 targeted disinfection 비전 제시. 임상 도달 전, 안전성·biocompatibility·regulatory 미해결.
