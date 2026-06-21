@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA comparing onlays/partial crowns vs full crowns for posterior teeth: equivalent 5-year survival (93.5% vs 94.2%, no significant difference), with onlays offering a minimally invasive tooth-structure-preservation advantage but a higher fracture rate.
+
 ## 한줄요약
 구치부 온레이/부분관 vs 완전관 비교 SR+MA — 5년 생존율 93.5% vs 94.2%(동등), 치질 보존 이점.
 
