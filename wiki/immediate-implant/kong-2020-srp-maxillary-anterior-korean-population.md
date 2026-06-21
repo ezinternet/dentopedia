@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective CBCT study (Korean population, n=120) reporting Kan sagittal root position (SRP) prevalence of Class I 81.1%, II 10.3%, III 1.9%, IV 6.7%, with substantial sagittal angulation (>42.7% of canines ≥20°) that poses trajectory risk during immediate implant placement.
+
 ## 한줄요약
 한국인 CBCT 후향 분석(n=120): SRP Class I 81.1%, II 10.3%, III 1.9%, IV 6.7% — 다수가 협측 cortex에 근접, 일부는 angulation ≥30°로 immediate implant 시 trajectory 위험. 한국인 데이터.
 
