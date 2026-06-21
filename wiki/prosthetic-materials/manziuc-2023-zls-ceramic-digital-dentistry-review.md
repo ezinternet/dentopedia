@@ -13,6 +13,9 @@ source_collection: external
 tags: [zls, lithium-silicate, zirconia-reinforced, vita-suprinity, celtra, cad-cam, all-ceramic]
 ---
 
+## One-line Summary
+Comprehensive literature review of zirconia-reinforced lithium silicate (ZLS; Vita Suprinity, Celtra Duo/Press): mechanically superior to lithium disilicate but less translucent and weaker than zirconia (an intermediate hybrid), with HF etching, air abrasion, or laser etching plus silane/resin cement as standard bonding.
+
 ## 한줄요약
 지르코니아 강화 리튬실리케이트(ZLS — Vita Suprinity, Celtra Duo/Press) 종합 리뷰: 리튬디실리케이트보다 기계적 강도↑, 지르코니아보다 투명도↑이지만 사이의 절충형. 본딩엔 HF etching·샌드블라스팅·레이저 etching이 표준.
 
