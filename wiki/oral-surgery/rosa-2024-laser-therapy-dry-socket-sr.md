@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Systematic review and meta-analysis (3 of 50 identified studies) evaluating laser therapy (primarily low-level laser therapy, LLLT) for treating established dry socket (alveolar osteitis); laser was effective versus Alvogyl though the correlation was not highly significant, offering single-session, minimally invasive treatment with less pain and faster healing, on a very limited and non-standardized evidence base.
+
 ## 한줄요약
 체계적 문헌고찰·메타분석(3편): 저출력 레이저 치료 (Low-Level Laser Therapy, LLLT)는 건조치조염(치조골염) 치료 시 Alvogyl 대비 유효하나 상관관계가 뚜렷하지 않아, 기존 소독드레싱의 최소침습 대안으로 가능성 제시.
 
