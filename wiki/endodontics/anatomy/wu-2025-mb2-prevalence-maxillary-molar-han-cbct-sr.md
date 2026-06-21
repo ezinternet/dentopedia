@@ -13,6 +13,9 @@ source_collection: external
 tags: [MB2, CBCT, maxillary-molar, canal-morphology, Han, prevalence]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (14 CBCT studies, 15,639 participants / 35,929 teeth, Han population): pooled second mesiobuccal canal (MB2) prevalence 63.7% in maxillary first molars (PMFM) and 23.3% in second molars (PMSM); males had significantly higher odds (OR 1.53 PMFM, 1.79 PMSM), no left-right difference, with very high heterogeneity (I²>95%).
+
 ## 한줄요약
 SR+MA (14개 CBCT 연구, 35,929치): 한족 상악 제1대구치 MB2 유병률 63.7%, 제2대구치 23.3% — 남성이 유의하게 높은 오즈비 (OR 1.53–1.79), 이분산성 매우 높음.
 
