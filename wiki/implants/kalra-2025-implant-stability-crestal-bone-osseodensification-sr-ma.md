@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, sr+ma, isq, crestal-bone-level, low-density-bone, human, null-finding]
 ---
 
+## One-line Summary
+SR+MA (5 studies, 109 patients, 198 implants) in low-density bone: osseodensification (OD) yielded significantly higher implant stability quotient (ISQ) than conventional drilling at both baseline and follow-up (P<.05), but crestal bone level (CBL) change did not differ between groups (P>.05) — first OD SR+MA to pool CBL, though n=198 leaves a genuine-null vs underpowered ambiguity unresolved.
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Systematic Review + Meta-Analysis, SR+MA), 5편 / 109 환자 / 198 임플란트, 저밀도 골 (low-density bone) — 골밀도화 (Osseodensification, OD)가 임플란트 안정성 지수 (Implant Stability Quotient, ISQ) 초기·추적 시점 모두에서 일반 드릴링 대비 유의하게 높음 (P<.05); 그러나 변연골 수준 (Crestal Bone Level, CBL) 변화는 두 군 사이 유의차 없음 (P>.05). 임상 적용 한계: 표본수가 작아 (n=198) CBL의 "차이 없음"이 진정한 음성 결과인지 검정력 부족인지 분리 불가.
 
