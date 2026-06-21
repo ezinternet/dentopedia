@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (21 longitudinal studies, ≥3-year follow-up) on tooth loss in molars with furcation involvement (FI) during SPT: FI was borderline associated with tooth loss at ≤10 years (RR 1.46, p=0.06) and significantly doubled the risk at 10–15 years (RR 2.21, p<0.0001), yet most molars — even grade III FI — responded well to periodontal therapy, supporting tooth preservation.
+
 ## 한줄요약
 21개 종단 연구 메타분석 결과, 치근분지부 침범(Furcation Involvement) 대구치는 유지관리(SPT) 10–15년 시 발치 위험이 약 2.21배이나, 3도 포함 대부분은 치주치료로 보존 가능.
 
