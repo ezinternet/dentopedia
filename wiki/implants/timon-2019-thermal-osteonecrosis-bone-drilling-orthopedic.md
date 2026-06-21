@@ -13,6 +13,9 @@ source_collection: external
 tags: [thermal-osteonecrosis, orthopedic-drilling, external-irrigation, bone-drilling, narrative-review, cross-specialty]
 ---
 
+## One-line Summary
+Narrative literature review (orthopedic perspective) on thermal osteonecrosis during bone drilling: identifies a 50°C critical temperature threshold and concludes that, although heat generation is multifactorial, external irrigation is the single most important mitigation variable; Level V evidence translatable to implant drilling.
+
 ## 한줄요약
 서술적 고찰(Cureus 2019, 정형외과): bone drilling thermal osteonecrosis 50°C critical value; 발열은 multifactorial이지만 **external irrigation이 단일 가장 중요한 mitigation 변수**. 임플란트 분야의 47°C 기준보다 보수적.
 
