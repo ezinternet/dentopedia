@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review of contemporary implant dentistry: surface modifications (SLA, SLActive, UV photofunctionalization), zirconia vs titanium implants (zirconia 3-year survival 95–97%, esthetic advantage in thin biotype), and digital guided surgery (<1 mm positioning accuracy); titanium remains the gold standard.
+
 ## 한줄요약
 현대 임플란트 치의학 서술적 고찰 — 표면 처리(SLA·SLActive·UV), 지르코니아 임플란트, 디지털 가이드 수술.
 
