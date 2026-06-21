@@ -13,6 +13,9 @@ source_collection: external
 tags: [Y-TZP, grinding, heat-treatment, flexural-strength, monoclinic-phase, phase-transformation, UNESP]
 ---
 
+## One-line Summary
+In vitro study (Braz Oral Res 2016; Y-TZP ground at 200/160/25 μm ± heat treatment 1200 °C 2h): grinding increased monoclinic phase and characteristic strength, while heat treatment reversed the monoclinic transformation back to a controlled level; coarse-to-fine grinding sequence and post-heavy-grinding heat treatment recommended.
+
 ## 한줄요약
 in-vitro(Braz Oral Res 2016): Y-TZP 연삭(200·160·25μm) ± 열처리(1200°C 2h) — 연삭: 단사정 상↑·특성강도↑; 열처리: 단사정 역변환→제어 수준; 조립→세립 순서 마감; 과도 연삭 후 열처리 권장.
 
