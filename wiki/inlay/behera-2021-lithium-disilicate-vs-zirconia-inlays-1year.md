@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+1-year prospective RCT (n=30; 15 per group) comparing pressed lithium disilicate (IPS e.max Press) vs zirconium dioxide (Dentcare) Class II inlays: both materials achieved satisfactory 1-year clinical performance with no statistically significant difference and no failures/debonding at 12 months; longer follow-up needed to differentiate materials.
+
 ## 한줄요약
 전향적 RCT(n=30, 1년): 리튬디실리케이트(IPS e.max Press) vs 지르코니아(Dentcare) 클래스II 인레이 — 양군 모두 1년 임상 성능 만족; 장기 비교 연구 필요
 
