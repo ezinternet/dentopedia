@@ -13,6 +13,9 @@ source_collection: external
 tags: [CBCT, posterior-maxilla, edentulous, ridge-dimension, sinus-floor-obliqueness, implant-planning, augmentation-need]
 ---
 
+## One-line Summary
+Retrospective CBCT study (349 edentulous posterior-maxilla sites, 250 patients): over half of sites had inadequate horizontal width (<6 mm), most molar sites had inadequate vertical height (<8 mm), and 54.14% had an oblique sinus floor — so augmentation (sinus elevation/GBR) is frequently required before standard implant placement, supporting routine pre-implant CBCT.
+
 ## 한줄요약
 콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 후향 분석 (349개 무치악 부위, 250명): 상악 구치부 부위의 절반 이상이 수평 폭 < 6 mm·수직 골 높이 < 8 mm이며 54.14%가 경사진 상악동 저부 → 표준 임플란트 식립 전 증대술이 빈번하게 필요함.
 
