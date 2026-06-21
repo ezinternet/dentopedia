@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, MDP, primer, Z-prime-plus, universal-adhesive, bond-strength, SBS]
 ---
 
+## One-line Summary
+In vitro shear bond strength study (J Dent Shiraz 2018; zirconia-to-resin-cement): the dedicated conventional MDP primer Z-Prime Plus (22.45 MPa) outperformed the universal MDP-containing adhesive All-Bond Universal (17.51 MPa), and both greatly exceeded the unprimed control (7.58 MPa).
+
 ## 한줄요약
 in-vitro(J Dent Shiraz 2018): MDP 프라이머 비교 — Z-Prime Plus(22.45 MPa) > All-Bond Universal(17.51) > 무처리(7.58); 전용 MDP 프라이머가 범용 접착제보다 우수.
 
