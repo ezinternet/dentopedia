@@ -13,6 +13,9 @@ source_collection: external
 tags: [onlay, inlay, ceramic, lithium-disilicate, feldspathic, leucite, hybrid, composite-resin, survival-rate, posterior, indirect-restoration, meta-analysis]
 ---
 
+## One-line Summary
+SR+MA (29 studies qualitative, 27 quantitative) of posterior onlay restorations: overall weighted mean survival ~94.2%, with ceramic onlays (lithium disilicate, feldspathic, leucite) showing highest survival, composite resin significantly lower, and hybrid/nanoceramic intermediate; material type and follow-up duration were significant survival predictors.
+
 ## 한줄요약
 세라믹·하이브리드·복합레진 온레이(Onlay) 임상성적 SR+MA (IJERPH 2020): 29편 정성·27편 정량; 전체 생존율 94.2%; 세라믹 > 하이브리드 > 복합레진 순; 추적기간과 재료가 생존 예측인자.
 
