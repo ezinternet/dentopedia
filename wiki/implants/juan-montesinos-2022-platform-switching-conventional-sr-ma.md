@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/juan-montesinos-2022-platform-switchi
 pdf_filename: juan-montesinos-2022-platform-switching-conventional-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: refines
+    target: strietzel-2015-platform-switching-mbl-sr-ma
 ---
 
 ## 한줄요약
