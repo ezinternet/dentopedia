@@ -23,6 +23,10 @@ source: synthesis
 > - 결정 트리: ①해부 복잡도 평가(PA + 필요시 CBCT) → 단순이면 TEC 직선 접근 / 복잡이면 CBCT 처방 후 유도 근관치료(SN 또는 DN) → 탐지 실패 시 술중 CBCT → 여전히 실패면 범위 문서화·환자 설명·전문의 의뢰.
 > - 근거 수준: TEC 확립(기초+임상), ConsAC debris/탐지 저하는 낮음(scoping 10편 이질성↑), MIA 파절 저항 향상은 낮음·불확실, 유도 근관치료는 전도유망하나 RCT 부재(주로 in vitro·증례).
 
+## One-line Summary
+
+Synthesis decision tree for endodontic access cavity design comparing three strategies — traditional straight-line access (TEC), minimally invasive access (MIA), and guided endodontics (static SN or dynamic DN navigation). Core thesis: normal anatomy → TEC is the standard; conservative MIA has insufficient evidence (no clinical RCT; risks more residual debris, missed canals, perforation) and cannot replace TEC; calcified canals (PCO) or complex anatomy → guided endodontics. Clinical takeaway: assess complexity (PA ± CBCT) → TEC for simple cases, guided endodontics for complex, intraoperative CBCT as backup on detection failure, then document and refer if still unsuccessful.
+
 ## 한줄요약
 정상 해부학 → TEC(전통 직선 접근) 표준; 보존 MIA는 근거 불충분; 석회화(PCO)·복잡 해부 → 유도 근관치료(정적 3D 가이드 또는 동적 실시간 내비게이션) 적용.
 
