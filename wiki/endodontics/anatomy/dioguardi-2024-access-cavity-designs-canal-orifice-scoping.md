@@ -14,6 +14,9 @@ source_collection: external
 tags: [access-cavity, ConsAC, TradAC, conservative-access, canal-orifice, debris, scoping-review]
 ---
 
+## One-line Summary
+PRISMA-ScR scoping review (10 studies from 3,697 records): conservative access cavities (ConsAC) trend toward more residual debris, while traditional/guided access (TradAC) offers superior canal orifice localization precision.
+
 ## 한줄요약
 Scoping review (3,697건 → 10연구): conservative access cavity(ConsAC) → 잔류 debris 증가 경향; traditional/guided access(TradAC) → 근관구 위치 정확도 우위
 
