@@ -29,6 +29,10 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 > - 한국 임상 조정: Bio-Oss + Cytoplast dPTFE 기본 GBR set-up(1.0g+1매 약 35–40만원 환자 부담), immediate provisional crown 보험 미적용(약 30–50만원), Socket Shield는 국내 학회 공식 인정 절차 없음.
 > - 근거 등급: 축 1 timing·축 2 site·축 3 술식·축 5 loading 모두 [근거강함]. 축 4 SST는 [합의수준]+합병증 인지. 한국 가용성·비용은 [미검증].
 
+## One-line Summary
+
+Synthesis/decision-ladder over the immediate implant placement (IIP) literature (~90 papers), organizing post-extraction Type 1 placement along 5 axes — placement timing (ITI Type 1–4), site selection (buccal plate/defect), surgical execution (flap/palatal position/jumping gap/GBR), soft-tissue augmentation (CTG/provisional/socket shield), and loading (immediate/early/conventional). Core thesis: with proper case selection esthetic-zone single-tooth IIP + immediate provisionalization (Type 1A) is safe (5y survival 97.1%, 1y MBL −0.32 mm, PES 7.2), primary stability — not timing per se — governs the loading decision, and even buccal defects ≥5 mm can match delayed placement when expert GBR and patient compliance allow.
+
 ## 한줄요약
 
 즉시식립 (Immediate Implant Placement, IIP) 의사결정 ladder. ITI 4-type classification spine + Hamilton 2023 ITI consensus + Meijer 2024 10y RCT + Cosyn 그룹 SR+MA. 5축 (placement timing · site · 술식 · soft tissue · loading).
