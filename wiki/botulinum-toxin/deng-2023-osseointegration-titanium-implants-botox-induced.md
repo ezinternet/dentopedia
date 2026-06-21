@@ -14,6 +14,9 @@ source_collection: external
 tags: [BoNT-A, animal, rat, osseointegration, BIC, SLAnano, semaphorin-3A, bone-loss, click-hydrogel, mechanical-unloading]
 ---
 
+## One-line Summary
+Rat femur animal study (botox-induced muscle-paralysis/mechanical-unloading model) showing botox degrades trabecular and cortical bone and impairs osseointegration of smooth (PT) titanium implants (removal torque ↓56% in rough Ti), while biomimetic SLAnano surfaces preserve BIC and local semaphorin 3A (sema3A) hydrogel further enhances BIC for SLAnano (no effect on smooth implants).
+
 ## 한줄요약
 Rat femur 동물실험 — botox 유발 근마비는 trabecular/cortical bone 모두 손상시키고 smooth (PT) 임플란트 osseointegration을 망가뜨리나, biomimetic SLAnano 표면 + 국소 sema3A hydrogel은 BIC 회복.
 
