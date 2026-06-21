@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+5-year prospective RCT comparing translucent zirconia (4Y–5Y-TZP) vs metal-ceramic posterior crowns in a digital workflow: equivalent 5-year survival (zirconia 96% vs metal-ceramic 97%) with zero chipping events in the zirconia group vs 3 in metal-ceramic, and similar USPHS clinical acceptability.
+
 ## 한줄요약
 디지털 워크플로우 반투명 지르코니아 vs 금속도재 구치부 전관 5년 RCT — 생존율 동등, 지르코니아 칩핑 없음.
 
