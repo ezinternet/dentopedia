@@ -1,0 +1,1077 @@
+Background
+
+Periodontitis is a multifactorial inflammatory disorder of the periodontium associated with microbial dysbiosis [,]. According to the updated guidelines for the treatment of periodontitis stages I-III, a stepwise therapeutic approach should be adapted. Following establishment of the diagnosis, initial therapy should address the patient’s behavior and motivation, while targeting modifiable local and systemic risk factors [,]. Subsequently, a supra- and subgingival professional mechanical plaque removal (PMPR) is advocated to disrupt the dysbiotic microbial biofilm, with the aim of shifting the subgingival ecology and host response to a state compatible with periodontal health [–].
+
+Platelet-rich fibrin (PRF) is a autologous biological matrix rich in fibrin, platelets, leucocytes, biomolecules as fibroblast growth factor-β (FGF-β), insulin like growth factor (IGF), platelet-derived growth factor (PDGF), transforming growth factor-β (TGF-β), vascular endothelial growth factor (VEGF) and interleukins (IL)-1β, -4 and − 6 [–], with the ability to function as a drug-delivery vehicle for a variety of biomolecules [–]. Using a “low-speed centrifugation concept”, reducing g-force (~ 60 g) and time (~ 3 min), a liquid injectable PRF (I-PRF) was introduced, harboring a variety of cytokines and growth factors with positive impacts on inflammation, neovascularization and periodontal wound healing [–]. Remarkably, I-PRF possesses the ability to remain in a fluid stage for up to 15 min before hardening in the tissue it is transferred to, with clear clinical handling advantages [,].
+
+A variety of active biomolecules were explored as adjuncts to PMPR [,]. Local parabiotics significantly decreased the percentage of the “Red Complex” periodontal pathogens [], while a postbiotic-based gel reduced gingival inflammation []. Vitamin C is a water-soluble antioxidant, pivotal during periodontal wound healing [–], functioning as a co-enzyme during synthesis and stabilization of collagen of the periodontal ligament, gingiva, cement and alveolar bone [,]. It further, similar to vitamin A [], promotes neovascularization, extracellular matrix formation and cellular pluripotency, migration, proliferation and differentiation [–]. Recently, vitamin C incorporated into PRF demonstrated remarkable periodontal healing/regeneration in the surgical treatment of intraosseous defects of stage-III periodontitis patients [].
+
+In light of the aforementioned properties of vitamin C and the potential of I-PRF to act as its sustained release delivery vehicle, while being adaptable to the intrasulcular environment, the current randomized controlled trial aimed to asses for the first time the potential of vitamin C loaded I-PRF to affect the outcome of non-surgical periodontal therapy (NSPT) of stage-II grade A periodontitis patients. Bleeding on probing (BOP) was defined as the study’s primary outcome, while clinical attachment level (CAL), probing depth (PD), gingival margin (GM), plaque index (PI), as well as horizontal, vertical and total alveolar bone gain/loss and their changes between baseline and three as well as six months follow ups, in addition to postoperative pain perception were defined as the study’s secondary outcomes.
+
+Methods
+
+Study design and registration
+
+The present investigation was designed as double-blinded, parallel arms, randomized controlled clinical trial, with a 1:1 allocation ratio to compare clinical, radiographic parameters and patient reported outcomes of PMPR alone (control group 1) and PMPR with injectable platelet-rich fibrin (PMPR + I-PRF; control group 2), to PMPR with vitamin C incorporated into injectable platelet-rich fibrin (PMPR + I-PRF/VitC; test group) in NSPT of stage-II periodontitis patients. The research protocol was registered onin November 2021 (). Research protocol and informed consent templates were approved by the Ethics Committee of Faculty of Dentistry, Cairo University in July 2021 (Approval number:13|7|21). The study was conducted and the results presented in accordance with the Fortaleza 2013 revisions to the Helsinki Declaration of ethical standards and the EQUATOR criteria for medical research involving human subjects.
+
+Participants
+
+Patients admitted to the department of Oral Medicine and Periodontology at the Faculty of Dentistry, Cairo University, Egypt, were screened to identify suitable volunteers. Systemically healthy adult patients diagnosed with stage-II (interdental CAL of maximum 3–4 mm with radiographic bone loss not exceeding 33% and no tooth loss) grade A periodontitis [], who accepted to be enrolled in the trial with a six-months follow-up period and provided informed consent were recruited until the desired sample size was achieved after accounting for any dropouts. Participants were evaluated, treated and monitored from December 2021 till July 2023. Participants with prosthetics, extensive restorations, or patients subjected to periodontal surgical or non-surgical therapy within the last 12 months, undergoing orthodontic treatment, under any drug therapy or consuming antibiotics or anti-inflammatory drugs one month prior to the procedure and till the end of the six months of follow-up, as well as smokers and pregnant females were excluded from the study [].
+
+Sample size
+
+The sample size was calculated for BOP as the primary outcome based upon the results of a previous investigation [], where means and standard deviations (SD) of the examined groups were 0.15 (0.18) and 0.33 (0.12), respectively. Using alpha α = 5% and 1-β = 0.8 the calculated effect size was 1.177 and the minimum estimated sample size was deemed to be 13 subjects per group. Sample size was increased to 15 patients per group to compensate for possible drop-outs (drop-out rate of 15%), with a total sample size of 45 patients. Sample size calculation was performed using G*Power version 3.1.9.2. (Heinrich-Heine-Universität, Düsseldorf, Germany).
+
+Randomization and blinding
+
+Participants were randomly assigned to either test or control groups using a computer-generated randomization sequence (), which was concealed. Sites were allocated to either test or control groups 1 or 2. Participants were equally prepared for all three clinical procedures, then were allocated to either PMPR + I-PRF/VitC, PMPR + I-PRF or PMPR according to the randomized numbers placed in opaque sealed envelopes. Randomization and allocation procedures were carried out by CG. Due to the nature of the trial, blinding of the operator or participants was not applicable. Outcome assessor and biostatistician were blinded.
+
+Outcomes
+
+The site with the deepest probing depth (PD) in each patient was treated (PMPR alone (control group 1), PMPR with injectable platelet-rich fibrin (PMPR + I-PRF; control group 2), or PMPR with VitC incorporated into injectable platelet-rich fibrin (PMPR + I-PRF/VitC; test group)) and evaluated in the present trial. Bleeding on probing (BOP, primary outcome) was assessed by gentle probing of the orifice of the gingival crevice of the studied site, at baseline, three and six months postoperatively []. Probing depth (PD) was measured from the gingival margin (GM) to the bottom of the gingival sulcus. Gingival marginal level (GM) assessed from the free gingiva to the cementoenamel junction (CEJ). Clinical attachment level (CAL) was measured from the CEJ to the bottom of the gingival sulcus []. Plaque Index (PI), the four surfaces of the tooth with the treated site (buccal, lingual, mesial and distal) were dried with a blast of air, recorded with scores 0, 1, 2, 3 [] and averaged. All these secondary outcomes were measured at baseline, three and six months postoperatively. Measurements were taken using a William’s graduated periodontal probe (Martin™ periodontal probe No. 43-357-00, KLS Martin, Tuttlingen, Germany).
+
+Intraoral radiographic evaluation was done using a paralleling technique and customized acrylic x-ray positioning stents to ensure the accuracy and reproducibility of the readings. At baseline, all radiographs were screened to detect the presence of interdental alveolar bone loss at the site of treatment and the following landmarks were identified:
+
+CEJ of the tooth with the interdental alveolar bone loss (A).
+
+Top of alveolar bone crest (B), defined as the most coronal part of the alveolar bone.
+
+Bottom of the alveolar bone crest (C), defined as the most apical part of the alveolar bone defect, where the periodontal ligament space starts to regain its normal width.
+
+The long axis of the tooth was identified as a line running from the tooth apex to its crown (D–E). Perpendicular lines were projected from points A to C to the long axis of the tooth on points A1, B1, and C1, respectively. The horizontal bone loss component was defined as the distance A1–B1, the vertical bone loss component was measured as the distance B1–C1, while total bone loss was defined as A1–C1. The radiographic defect angle was identified as the angle formed between the intersection of the lines AC and CB []. All radiographs were digitalized using a standard scanner imported and analyzed using customized image analysis software (DBSWIN 5.14.1 Build 14807. Air Techniques, Inc. New York, USA) at baseline, three and six months postoperatively (Fig.). Post-operative pain was recorded using a Visual Analogue Scale (VAS) with numbers ranging from 0 ‘no pain’ to 10 ‘worst pain imaginable’ on the second and third day postoperatively [,].
+
+Fig. 1
+
+Clinical and radiographic baseline, three and six-month follow-up for the three groups.PMPR + I-PRF/VitC group clinical baseline, and follow-up.PMPR + I-PRF group clinical baseline, and follow-up.PMPR + I-PRF/VitC group radiographic baseline, and follow-up.PMPR + I-PRF group radiographic baseline, and follow-up.PMPR group clinical baseline, and follow-up.PMPR group radiographic baseline, and follow-up
+
+Calibration
+
+Two blinded, trained and calibrated investigators (MS and EA) measured all outcomes. Prior to the start of the trial, calibration was completed by measuring parameters on a patient not included in the study twice, one week apart. Measurements yielded intra-examiner agreement scores for CAL, PD, and RD of 0.89 and for radiographic outcomes of 0.84.
+
+Preoperative phase
+
+Participants who met al.l inclusion criteria underwent radiographic examination, received phase-I periodontal therapy consisting of ultrasonic supragingival PMPR (Woodpecker Medical Instrument Co., Guilin, China), signed the informed consent form and were instructed about their self-performed plaque control activities, which included using the modified Bass brushing technique with a soft toothbrush, regular toothpaste twice a day and interdental cleaning once a day [], to ensure that the sites of I-PRF application would not be inflamed. A custom-made plastic transparent vacuum stent was fabricated for every patient to retain the locally delivered I-PRF for 15 min.
+
+Treatment procedures
+
+After three days, full-mouth PMPR was conducted for all participant, consisting of ultrasonic supra- and subgingival debridement followed by hand instrumentation for tactile sensation [,]. Following PMPR, the allocation was revealed (CG). For I-PRF preparation, a venipuncture of the antecubital vein was done to withdraw 10 ml of fresh blood into a plastic blood collection tube without anticoagulant (Voma Med, Chongqing, China). In the PMPR + I-PRF/VitC group, 2500 µg pure VitC (Panpharma GmbH, Trittau, Germany) was added to the fresh blood to achieve a concentration of 250 µg/ml [], and the tube was centrifuged at 60 g (700 rpm) for 3 min at room temperature with a centrifugation device (45° rotor angulation, SCILOGEX DM0412, CT, USA). The upper yellowish liquid layer, the I-PRF, was withdrawn using an insulin syringe. Following PMPR and air-drying of the periodontal pocket, the I-PRF was delivered through the stent to the bottom of the deepest single pocket in each patient at the tooth with interdental alveolar bone loss with the insulin syringe (KFE). After 15 min, the stent was removed (Fig.). Patients were followed up on the second and third days postoperatively and every month for the study duration to perform professional supragingival plaque control and motivate the participants to ensure the importance of continuing their oral hygiene measures using the modified Bass brushing technique with a soft toothbrush, regular toothpaste twice a day, interdental cleaning once a day and adhere to the follow-up appointments [].
+
+Fig. 2
+
+Clinical steps in representative cases of test group (PMPR + I-PRF/VitC) and control group 2 (PMPR + I-PRF),withdrawal of 2500 µg of vitamin C by insulin syringe to be added to the blood sample in the test group,withdrawal of I-PRF/VitC or I-PRF by insulin syringe according to the group,injecting the I-PRF/VitC or I-PRF to the pocket through a stent according
+
+Statistical analysis
+
+Numerical data were explored for normality by checking the distribution of data and using tests of normality (Kolmogorov-Smirnov and Shapiro-Wilk tests). Base line defect angle and PD data showed normal (parametric) distribution, while all other outcomes showed non-normal (non-parametric) distribution. Data were presented mean, standard deviation (SD) or median and range values. For parametric data, repeated measures ANOVA test was used to compare between PD of the three groups as well as to study the changes by time within each group. Bonferroni’s post-hoc test was used for pair-wise comparisons when ANOVA test is significant. For the rest of the non-parametric data; Kruskal-Wallis test was used to compare between the three groups. Friedman’s test was used to study the changes by time within each group. Dunn’s test was used for pair-wise comparisons when Kruskal-Wallis test or Friedman’s test is significant. Wilcoxon signed-rank test was used to study the changes by time in pain scores within each group. Qualitative data were presented as frequencies and percentages. Chi-square test was used to compare between the three groups. Binary logistic regression analysis was used to determine significant predictors of bleeding on probing at six months. The independent variables were group, age, gender, base line defect angle, PD, CAL, gingival margin level and total bone height. The significance level was set at≤ 0.05. Statistical analysis was performed with IBM SPSS Statistics for Windows, Version 23.0. Armonk, NY: IBM Corp.
+
+Results
+
+Baseline characteristics
+
+The present trial included a study population of 45 participants (= 45) randomly assigned into three equal groups;= 15 treated with PMPR alone,= 15 treated with PMPR + I-PRF, versus= 15 treated with PMPR + I-PRF/VitC (Figure). The PMPR group included 5 females and 10 males (mean age: 34.9 ± 8.6 years), with baseline defect angles of 61.5 ± 32.6°, the PMPR + I-PRF group included 8 females and 7 males (mean age: 35.9 ± 7.6 years) with baseline defect angles of 77.5 ± 22.6°, while the PMPR + I-PRF/VitC group included 11 females and 4 males (mean age: 33.7 ± 8.7) with baseline defect angles of 67.4 ± 33.5°. All 45 participants completed the six months follow-up period without dropouts (Table).
+
+Table 1
+
+Descriptive statistics of base line characteristics in the three groups
+
+Base line characteristics
+
+PMPR + I-PRF/VitC (= 15)
+
+PMPR + I-PRF(= 15)
+
+PMPR(= 15)
+
+Gender [n, (%)]
+
+Male
+
+4 (26.7%)
+
+7 (46.7%)
+
+5 (33.3%)
+
+Female
+
+11 (73.3%)
+
+8 (53.3%)
+
+10 (66.7%)
+
+Age [Mean, (SD)]
+
+33.7 (8.7)
+
+35.9 (7.6)
+
+34.9 (8.6)
+
+Base line defect angle [Mean, (SD)]
+
+67.4 (33.5)
+
+77.5 (22.6)
+
+61.5 (32.6)
+
+*: Significant at≤ 0.05
+
+Bleeding on probing (BOP)
+
+At three and six months no significant differences were notable between the three groups regarding BOP (= 0.185, effect size = 0.274 and= 0.301, effect size = 0.231 respectively). In all groups, a significant change in prevalence of BOP was noted over time (= 0.042, effect size = 0.211,= 0.002, effect size = 0.408 and= 0.001, effect size = 0.479, respectively), with an increase in prevalence of BOP after three months followed by a decrease at six months (Table).
+
+Table 2
+
+Frequencies (n), percentages (%) and results of Chi-square test for comparison between BOP in the three groups and McNemar’s test for the changes within each group
+
+Time
+
+PMPR + I-PRF/VitC (= 15)
+
+PMPR + I-PRF(= 15)
+
+PMPR(= 15)
+
+Inter-group-value
+
+Effect size (v)
+
+n
+
+%
+
+n
+
+%
+
+n
+
+%
+
+Base line
+
+0
+
+0
+
+0
+
+0
+
+0
+
+0
+
+Not computed
+
+3 months
+
+5
+
+33.3
+
+8
+
+53.3
+
+10
+
+66.7
+
+0.185
+
+0.274
+
+6 months
+
+3
+
+20
+
+5
+
+33.3
+
+7
+
+46.7
+
+0.301
+
+0.231
+
+Intra-group-value
+
+0.042*
+
+0.002*
+
+0.001*
+
+Effect size (w)
+
+0.211
+
+0.408
+
+0.479
+
+*: Significant at≤ 0.05
+
+Probing depth (PD in mm)
+
+No significant differences regarding PD measurements were notable between the three groups at base line, three or six months (= 0.697, effect size = 0.017,= 0.348, effect size = 0.049, and= 0.460, effect size = 0.036, respectively; table). In the three groups, a significant reduction in PD over time was evident (< 0.001, effect size = 0.792,< 0.001, effect size = 0.769, and< 0.001, effect size = 0.783, respectively). Pair-wise comparisons between the time periods revealed a significant decrease in PD after three months followed by a non- significant change from three to six months (> 0.05; Table).
+
+Table 3
+
+Descriptive statistics and results of repeated measures ANOVA for comparison for reduction in PD, change in GM, CAL gain and increase in PI scores in the three groups relative to baseline
+
+Outcome
+
+Time
+
+PMPR + I-PRF/VitC(= 15)
+
+PMPR + I-PRF(= 15)
+
+PMPR(= 15)
+
+Inter-group-value
+
+Effect size (Eta squared)
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Mean
+
+SD
+
+Reduction in PD (mm)
+
+3 months
+
+1.73
+
+0.59
+
+1.60
+
+0.51
+
+1.67
+
+0.49
+
+0.833
+
+0.011
+
+6 months
+
+1.73
+
+0.59
+
+1.67
+
+0.49
+
+1.73
+
+0.59
+
+0.961
+
+0.003
+
+Change in GM (mm)
+
+3 months
+
+0.4
+
+0.51
+
+0.33
+
+0.49
+
+0.67
+
+0.62
+
+0.258
+
+0.071
+
+6 months
+
+0.4
+
+0.51
+
+0.33
+
+0.49
+
+0.73
+
+0.70
+
+0.205
+
+0.090
+
+CAL gain (mm)
+
+3 months
+
+1.33
+
+0.49
+
+1.07
+
+0.59
+
+0.93
+
+0.59
+
+0.160
+
+0.086
+
+6 months
+
+1.33
+
+0.49
+
+1.20
+
+0.56
+
+0.93
+
+0.59
+
+0.159
+
+0.089
+
+Increase in PI scores
+
+3 months
+
+0.67
+
+0.49
+
+0.60
+
+0.51
+
+0.47
+
+0.52
+
+0.536
+
+0.028
+
+6 months
+
+0.60
+
+0.51
+
+0.60
+
+0.51
+
+0.4
+
+0.51
+
+0.456
+
+0.036
+
+Gingival margin level (GM in mm)
+
+No significant differences regarding GM were notable between the groups at base line, at three or six months (= 0.942, effect size = 0.001,= 0.454, effect size = 0.041 and= 0.293, effect size = 0.057, respectively; table). However, there was a significant change regarding GM in the three groups over time (= 0.002, effect size = 0.4,= 0.007, effect size = 0.333, and< 0.001, effect size = 0.581, respectively). Pair-wise comparisons revealed a significant decrease in GM after three months followed by non-significant change from three to six months (> 0.05; Table).
+
+Clinical attachment level (CAL in mm)
+
+Regarding CAL, at base line as well as after six months, no significant difference was evident between the three groups (= 0.368, effect size = 0.045, and= 0.056, effect size = 0.129, respectively). After three months, a significant difference between CAL measurements in the three groups was yet notable, with the PMPR + I-PRF/VitC group showing the best CAL measurements (= 0.029, effect size = 0.145; table). Still, in all groups, a significant improvement in CAL was evident over time (< 0.001, effect size = 1,< 0.001, effect size = 0.857, and< 0.001, effect size = 0.8, respectively), with a significant improvement in CAL after three months followed by a non-significant change from three to six months (> 0.05; Table).
+
+Plaque index (PI)
+
+Regarding PI, no significant differences were notable between the groups at any of the examined time points (= 1, effect size = 0,= 0.536, effect size = 0.028 and= 0.456, effect size = 0.0365, respectively), with a significant increase in PI scores noted over time (< 0.001, effect size = 0.607,< 0.001, effect size = 0.6 and= 0.002, effect size = 0.43, respectively). Pair-wise comparisons between time periods revealed a significant increase in PI after three months followed by a non-significant change from three to six months (table). No significant differences were notable between the three groups for the increase in PI scores relative to baseline at three and six months (> 0.05; Table).
+
+Pain (VAS scores)
+
+At two days a significant difference between pain scores was evident between the three groups (= 0.021, effect size = 0.220), with no significant difference between PMPR + I-PRF/VitC and PMPR + I-PRF groups, both demonstrating significantly lower pain scores. In contrast, the PMPR group showed the highest pain scores. After three days a significant difference between pain scores in the three groups was further notable (= 0.001, effect size = 0.345), with the PMPR group continuing to exhibit the highest pain scores. The PMPR + I-PRF/VitC group continued to show a significant decrease in pain scores after three days (= 0.010, effect size = 1.796), while in the PMPR + I-PRF and PMPR groups, no significant changes in pain scores were notable (= 0.102, effect size = 0.93 and= 0.317, effect size = 0.535, respectively; Table).
+
+Table 4
+
+Descriptive statistics and results of Kruskal-Wallis test for comparison between pain (VAS) scores. Wilcoxon signed-rank test for the changes within each group for pain (VAS) scores
+
+Outcome
+
+Time
+
+PMPR + I-PRF/VitC(= 15)
+
+PMPR + I-PRF(= 15)
+
+PMPR(= 15)
+
+Inter-group-value
+
+Effect size (Eta squared)
+
+Median
+
+(Range)
+
+Median
+
+(Range)
+
+Median
+
+(Range)
+
+Pain VAS scores
+
+2 days
+
+1
+
+(0, 4)
+
+0
+
+(0, 6)
+
+4
+
+(0, 8)
+
+0.021*
+
+0.22
+
+3 days
+
+0
+
+(0, 2)
+
+0
+
+(0, 6)
+
+4
+
+(0, 8)
+
+0.001*
+
+0.345
+
+-value
+
+0.010*
+
+0.102
+
+0.317
+
+Effect size (d)
+
+1.796
+
+0.93
+
+0.535
+
+*: Significant at≤ 0.05. Different superscripts in the same column indicate statistically significant change by time.: better performing group at the same time point
+
+Horizontal bone gain/loss
+
+At base line, after three as well as six months; there were no significant differences between horizontal bone width in the three groups (= 0.982, effect size = 0.007,= 0.578, effect size = 0.034 and= 0.529, effect size = 0.037, respectively). In the PMPR + I-PRF/VitC group a significant increase in horizontal bone width was notable over time (< 0.001, effect size = 0.804). Pair-wise comparisons between time periods revealed a significant increase in horizontal bone width at three months followed by non-statistically significant change in horizontal bone width at six months. In the PMPR + I-PRF group, a non-significant change in horizontal bone width was notable over time (= 0.225, effect size = 0.099). In the PMPR group, a significant change in horizontal bone width measurements was evident over time (= 0.018, effect size = 0.268), with a non-significant change in horizontal bone width at three months followed by a significant increase in horizontal bone width at six months. The mount of change was calculated as:
+
+Horizontal width after 3 or 6 months– baseline horizontal width
+
+Negative values indicate bone gain while positive values indicate bone loss. After three as well as six months there was no significant differences were evident between the three groups (= 0.075, effect size = 0.091 and= 0.116, effect size = 0.090, respectively; Table).
+
+Table 5
+
+Descriptive statistics and results of Kruskal-Wallis test for comparison between horizontal bone height measurements (mm), amounts of change in horizontal bone height measurements (mm), vertical bone height measurements (mm), amounts of change in vertical bone height measurements (mm), total bone height measurements (mm) and amounts of change in total bone height measurements (mm) in the three groups. Friedman’s test for the changes within each group for horizontal bone height measurements (mm), vertical bone height measurements (mm) and total bone height measurements (mm)
+
+Outcome
+
+Time
+
+PMPR + I-PRF/VitC(= 15)
+
+PMPR + I-PRF(= 15)
+
+PMPR(= 15)
+
+Inter-group-value
+
+Effect size (Eta squared)
+
+Median
+
+(Range)
+
+Median
+
+(Range)
+
+Median
+
+(Range)
+
+Horizontal bone width measurements within each group
+
+Base line
+
+2.5
+
+(0.9, 4.1)
+
+2.9
+
+(0.1, 5.5)
+
+2.5
+
+(0, 6.1)
+
+0.982
+
+0.007
+
+3 months
+
+2.4
+
+(0.8, 3.8)
+
+2.5
+
+(0.3, 5.1)
+
+2.5
+
+(0, 5.5)
+
+0.578
+
+0.034
+
+6 months
+
+2.4
+
+(0.6, 3.8)
+
+2.5
+
+(0, 4.6)
+
+2.3
+
+(0, 5.5)
+
+0.529
+
+0.037
+
+Intra-group-value
+
+< 0.001*
+
+0.225
+
+0.018*
+
+Effect size (w)
+
+0.804
+
+0.099
+
+0.268
+
+Change in horizontal bone width measurements in the three groups
+
+3 months
+
+-0.3
+
+(-1.4, 0)
+
+-0.2
+
+(-1.9, 0.4)
+
+-0.1
+
+(-0.8, 0.5)
+
+0.075
+
+0.091
+
+6 months
+
+-0.5
+
+(-1.6, 0)
+
+-0.2
+
+(-1.9, 1.1)
+
+-0.1
+
+(-1.3, 1.0)
+
+0.116
+
+0.06
+
+Vertical bone height measurements within each group
+
+Base line
+
+2.7
+
+(1.3, 4.1)
+
+1.2
+
+(0.8, 1.5)
+
+1.8
+
+(0.6, 2.3)
+
+0.028*
+
+0.474
+
+3 months
+
+2.7
+
+(1.7, 4)
+
+1.2
+
+(0.9, 1.5)
+
+1.6
+
+(0.6, 3.1)
+
+0.029*
+
+0.441
+
+6 months
+
+2.5
+
+(1.7, 2.8)
+
+0.85
+
+(0, 2.1)
+
+1.6
+
+(0.6, 3.1)
+
+0.047*
+
+0.398
+
+Intra-group-value
+
+0.607
+
+0.627
+
+0.174
+
+Effect size (w)
+
+0.033
+
+0.031
+
+0.117
+
+Change in vertical bone height measurements in the three groups
+
+3 months
+
+-0.1
+
+(-0.2, 0.4)
+
+-0.05
+
+(-0.3, 0.5)
+
+0.1
+
+(-0.5, 0.8)
+
+0.49
+
+0.035
+
+6 months
+
+0
+
+(-1.3, 0.4)
+
+-0.35
+
+(-0.8, 0.6)
+
+0.1
+
+(-0.6, 0.8)
+
+0.353
+
+0.129
+
+Total bone measurements within each group
+
+Base line
+
+3.8
+
+(0.9, 7.3)
+
+2.9
+
+(1.1, 7)
+
+4.2
+
+(0.9, 6.1)
+
+0.516
+
+0.026
+
+3 months
+
+3
+
+(0.8, 6.5)
+
+2.5
+
+(0.7, 6.6)
+
+4.3
+
+(0.9, 7.1)
+
+0.264
+
+0.063
+
+6 months
+
+3
+
+(0.6, 5.6)
+
+2.5
+
+(0, 6.7)
+
+3.9
+
+(0.9, 7.1)
+
+0.274
+
+0.065
+
+Intra-group-value
+
+< 0.001*
+
+0.019*
+
+0.092
+
+Effect size (w)
+
+0.649
+
+0.263
+
+0.159
+
+Change in total bone measurements in the three groups
+
+3 months
+
+-0.4
+
+(-1.4, 0.3)
+
+-0.2
+
+(-1.9, 0.4)
+
+-0.1
+
+(-0.8, 3)
+
+0.083
+
+0.114
+
+6 months
+
+-0.5
+
+(-1.9, 0.3)
+
+-0.3
+
+(-2.1, 1.1)
+
+-0.1
+
+(-1.3, 3)
+
+0.103
+
+0.1
+
+*: Significant at≤ 0.05. Different superscripts in the same column indicate statistically significant change by time.: better performing group at the same time point
+
+Vertical bone gain/loss
+
+Significant differences regarding vertical bone height were evident between the three groups at baseline, three and six months (= 0.028, effect size = 0.474 and= 0.029, effect size = 0.441, respectively). At six months a significant difference between vertical bone height measurements in the three groups was further notable (= 0.047, Effect size = 0.398). with highest values in the PMPR + I-PRF/VitC group followed by the PMPR + I-PRF group and the PMPR group. In all groups, no significant changes in vertical bone height measurements were notable over time (= 0.607, effect size = 0.033,= 0.627, effect size = 0.031 and= 0.174, effect size = 0.117, respectively). Amount of change was calculated as:
+
+Vertical height after 3 or 6 months– baseline vertical height
+
+Negative values indicate bone gain while positive values indicate bone loss. At three and six months no significant differences in vertical bone height were evident between the groups (= 0.490, effect size = 0.035 and= 0.353, effect size = 0.129, respectively; Table).
+
+Total bone gain/loss
+
+At base line, after three as well as six months; there were no significant differences between total bone measurements in the three groups (= 0.516, effect size = 0.026,= 0.264, effect size = 0.063 and= 0.274, effect size = 0.065, respectively). In the PMPR + I-PRF/VitC and PMPR + I-PRF groups, a significant gain in total bone was evident over time (< 0.001, effect size = 0.649 and= 0.019, effect size = 0.263, respectively), with the pair-wise comparisons between time periods revealing a significant increase in total bone measurements at three months followed by a non-significant change in total bone from three to six months. In the PMPR group, no change in total bone height measurements was evident over time (= 0.092, effect size = 0.159). Amount of change was calculated as:
+
+Total bone height after 3 or 6 months– baseline total bone height
+
+Negative values indicated bone gain while positive values indicated bone loss. At three as well as six months no significant changes in total bone measurements were evident between the three groups (= 0.083, effect size = 0.114 and= 0.103, effect size = 0.100, respectively; Table).
+
+Binary logistic regression analysis
+
+Binary logistic regression model was constructed using bleeding on probing (BOP) after six months as the dependent variable. Treatment group, age, gender, base line defect angle, PD, CAL, GM and total bone height after three months were the independent variables. Model fitting was tested by several methods; first is the statistically significant − 2 Log Likelihood test (-2 Log Likelihood = 48.27,< 0.001). Secondly; pseudo-R-square tests results were as follows: Cox and Snell = 0.369, Negelkerke = 0.459. Values of these tests indicate good model fit. Results of the regression model showed that gender was the only statistically significant predictor for bleeding on probing. An odds ratio of 0.059 indicates that there is 5.9% decrease in the odds of having BOP if the patient was female (Table).
+
+Table 6
+
+Results of binary logistic regression analysis model showing predictors of BOP at six months
+
+Variables
+
+Unstandardized Coefficients
+
+-value
+
+Odds Ratio
+
+95% Confidence Interval for B
+
+B
+
+SE
+
+Lower limit
+
+Upper limit
+
+Group (reference category: PMPR + I-PRF/VitC Group)
+
+PMPR + I-PRF Group
+
+-0.327
+
+1.109
+
+0.768
+
+0.721
+
+0.082
+
+6.336
+
+PMPR Group
+
+2.042
+
+1.362
+
+0.134
+
+4.704
+
+0.534
+
+11.189
+
+Age
+
+0.137
+
+0.078
+
+0.080
+
+1.147
+
+0.984
+
+1.338
+
+Gender (reference category: female)
+
+-2.828
+
+1.377
+
+0.040*
+
+0.059
+
+0.004
+
+0.878
+
+Baseline defect angle
+
+0.017
+
+0.020
+
+0.411
+
+1.017
+
+0.977
+
+1.058
+
+Baseline PD
+
+1.213
+
+1.002
+
+0.226
+
+3.365
+
+0.472
+
+7.982
+
+Baseline CAL
+
+1.518
+
+0.788
+
+0.054
+
+4.564
+
+0.975
+
+11.370
+
+Baseline gingival margin level
+
+-0.132
+
+0.041
+
+0.715
+
+0.135
+
+0.014
+
+2.648
+
+Baseline total bone height
+
+-0.451
+
+0.370
+
+0.223
+
+0.637
+
+0.309
+
+1.316
+
+*: Significant at≤ 0.05, SE: Standard Error
+
+Discussion
+
+Non-surgical periodontal therapy represents an evidence-based “gold standard” conservative approach, with a number of studies demonstrating its clear efficacy in periodontitis treatment []. Through its action, PMPR causes mechanical disruption of the supra- as well as subgingival plaque biofilm with calculus removal from the root surface and sulcus/pocket microenvironment, reducing the microbial load []. A subsequent reduction in microbial number, virulence factors and tissue breakdown products, along with a decreased periodontal inflammatory reaction, reduced edema and lower gingival crevicular fluid flow, a decrease in pocket depth, and a reversal of the subgingival hypoxic environment, renders the subgingival habitat less hospitable for periodontal pathogens of the dysbiotic plaque and more amenable to a biofilm associated with health, periodontal wound healing and new attachment formation [,,,]. Following PMPR, the intrapocket wound undergoes five biological stages, namely bleeding, inflammation, granulation tissue formation and finally maturation and remodeling []. In this context a variety of local intrasulcular sustained release medications/biomolecules [], including enamel matrix derivatives (EMD) [–], have been proposed to be subsequently applied into the debrided subgingival environment in an attempt to foster the local microenvironment and boost the aforementioned periodontal healing events.
+
+Relying on its ability to provide a three-dimensional fibrin scaffold for periodontal cellular wound healing events, through harboring leucocytes, platelets, and via its continues release of pivotal growth factors and cytokines, autologous platelets concentrates were introduced as promising biological agents in the management of periodontal defects with remarkable clinical results [,–]. I-PRF preparation through a low-speed centrifugation concept, is believd to result in a higher and more uniform distribution of leucocytes and platelets and growth/differentiation factors concentrations [] and an enhanced sustained release of these factors over a period of about ten days [,].
+
+Local degradable drug delivery systems maximize the pharmaceutical potential of the applied drug, reduce any possibility for side effects, in addition to negating patients’ compliance related to drug intake [,,]. The anatomy of the periodontal pocket creates an ideal target site for the application of local delivery biomolecules, being easily accessible with a confined anatomy. Ideally, locally applied agents should possess properties that allow their easy flow into the pocket followed by gelation to provide a high bioavailability for an extended time. I-PRF in addition to providing the advantage of an extended working time of up to 15 min, to be applied into the periodontal pocket prior to setting, offers great plasticity that allows it to adapt closely to the root surface and intrapocket anatomy. The incorporated VitC would be expected to be released at the same I-PRF degradation rate into the surrounding periodontal tissues. Earlier in vitro investigations demonstrated that VitC could boost cellular pluripotency, regenerative intracellular signaling pathways, clonogenic abilities, proliferation and multilineage differentiation of periodontal progenitor cells [,]. A further trial loading PRF with the same VitC concentration and applying it surgically into intra-osseous periodontal defects of stage-III periodontitis patients demonstrated enhanced healing with significant improvement in CAL and PD []. A bioavailability of VitC in the current trial’s defects was expected to exert similarly positive effects in the context of NSPT. Thus, the current trial tested for the first time the effect of an intrapocket I-PRF/VitC in contrast to I-PRF application or PMPR on BOP (primary outcome) as well as CAL, PD, GM, PI, pain score and radiographic bone changes in stage-II grade A periodontitis patients.
+
+While the diagnosis of periodontitis relies primarily on the detection of a loss in CAL, further clinical signs are of utmost importance for early detection of active periodontal disease, especially in stage-II periodontitis with moderate PD. In this context, BOP was chosen as the current trial’s primary outcome being indicative of an altered host response and persistent inflammation, with active periodontal destruction. Results of the regression analysis revealed that gender was the only significant predictor for bleeding on probing, with females having a 5.9% decrease in the odds of having BOP. No significant differences were notable regarding BOP values between the PMPR + I-PRF/VitC, PMPR + I-PRF or PMPR at three or six months. Yet, in spite of the increased PI values in the three groups, PMPR + I-PRF/VitC showed the lowest rise in BOP, in contrast to PMPR + I-PRF or PMPR. This could be attributed to the favorable properties of VitC, which in additional to exerting an anti-oxidant, immune-modulatory reactive-oxygen-species scavenging effect, could have enhanced the local collagen and extracellular matrix production [], thus reduced the BOP propensity in the test group. In this context, it is further important to note that although successful periodontal therapy and longstanding disease stability requires a long-term commitment and compliance by the patient [], patients who visit the periodontology department of the Faculty of Dentistry, Cairo University are usually interested in symptomatic treatment, and despite being thoroughly instructed into self-performed plaque control prior as well as following NSPT, are not ideally compliant in their self-performed care. Thus, an elevation in PI was evident over the study period. Yet, it could be also plausibly assumed that female patients were more adherent to the oral hygiene instructions, which reflected in their lower likelihoods for BOP.
+
+In line with earlier findings on the effect of EMD application as an adjunct to NSPT of moderate depth pockets [,,], I-PRF did not significantly improve the CAL, PD, GM or radiographic bone measurements in the current trial. The non-conformity of the present findings with recent systematic reviews results [,], demonstrating the significant positive effect autologous platelet concentrates could exert on periodontal clinical healing parameters, could be partly explained by the difference in the periodontal disease severity. In contrast to these reviews, including mainly clinical trials with stage-III periodontitis or moderate to severe periodontitis patients, the present trial included stage-II periodontitis patients, with lower expected periodontal healing effects in terms of absolute CAL-gain and PD-reduction. Although CAL, PD and radiographic bone measurements improved in each of the three groups over time, with significantly better CAL measurements evident in the PMPR + I-PRF/VitC at three months, no significant differences were evident in the changes over time between them. Finally, as an increasing interest exists in recording patient centered outcomes in clinical trials [], in accordance with an earlier investigation [] patient reported pain scores were monitored for the second and third day using the VAS scores. Similar to earlier findings, PMPR resulted in moderate pain perception by the patients [,,]. Yet, significantly lower pain was notable in the PMPR + I-PRF/VitC and the PMPR + I-PRF in contrast to PMPR, which could be primarily attributed to the favorable effect of I-PRF on periodontal wound healing events depicted above and the associated patients’ perception of pain.
+
+Still, the present randomized controlled trial’s findings should be carefully interpreted in light of its limitations which could affect their validity. First, the inclusion of shallow to moderate stage-II periodontitis defects with a wide range of morphologies and angles of the intraosseous defects, although randomized, could have influenced the results. Second, as the preparation of I-PRF entails the withdrawal of the subjects’ blood, and subjects who were concerned about blood sampling refused to take part in this investigation. Third, in the assumption that patients would not be experiencing pain prior to PMPR, similar to the referenced earlier investigation, no recording of pre-operative VAS pain scores was done. This may have given more accurate results regarding this patient reported outcome. Fourth, patients included in the study stemmed from a younger age group, which would be linked to higher tissue response and probing depth reduction following the PMPR (control group). Fifth, the trial included patients from lower socio-economical levels solely interested in a symptomatic therapy, with lack of complete understanding of the potential outcomes of periodontitis. Despite their rigorous instructions into oral hygiene measures, pre- as well as post PMPR, it was not possible achieve a better plaque control. It was their first periodontal therapeutic regime of their newly diagnosed periodontitis, which could have further strengthened their tissue’s biological responses to the supra- and subgingival PMPR. Sixth, the choice of I-PRF, in contrast to newer alternative liquid PRF formulations, could have reduced the observed clinical periodontal healing effects []. Recent alternatives including concentrated PRF (C-PRF), although more technically sensitive and utilizing greater centrifugal forces, is reported to enhance the concentration of platelets and leukocytes, with a three-fold higher growth/differentiation factors’ release, thereby improving tissue healing capabilities []. Additionally, an application of albumin gel combined with liquid PRF (Alb-PRF or extended-PRF) could have offered a PRF formulation that can be injected for localized treatment into the tested periodontal defects with longer sustained release of growth/differentiation factors, promoting prolonged regenerative effects []. Further, a horizontal centrifugation during the I-PRF preparation could have yielded a more favorable distribution of platelets and leukocytes with minimized cellular damage, enhancing the biological properties of the applied I-PRF []. Finally, the current use of a two-dimensional instead of a three-dimensional radiographic imaging technique (which is more appropriate for radiographic evaluation of defects with various morphologies), although providing much lower radiation dosage for the patient’s health, bear the limitations of representing distorted two-dimensional images of a complex three-dimensional defect morphologies.
+
+Conclusions
+
+Apart from a positive effect on the patients’ post operative pain perception, I-PRF with or without the addition of VitC does not additionally improve the clinical outcomes of PMPR alone in stage-II grade A periodontitis patients. Further clinical trials with larger sample sizes and better self-performed plaque control by the patients are warranted to verify the observed effects. The cost-effectiveness of the procedures and the potential of I-PRF itself as an autologous carrier of various biomolecules and drugs in conjunction with non-surgical periodontal therapy deserves further investigations. In future objectives, it is important to consider proactive strategies for the long-term maintenance of periodontal patients. Implementing preventive measures, such as patient education, regular professional monitoring, and personalized maintenance protocols, and the incorporation of innovative approaches, such as the local application of in injectable PRF in conjunction with active biomolecules, including ozone and postbiotics, may contribute to enhanced periodontal healing and stability. The findings suggest that the proactive use of natural substances may serve as a valuable preventive strategy in maintaining periodontal health, particularly in patients demonstrating good compliance, potentially reducing the incidence of future periodontal lesions.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
+
+Supplementary Material 2
