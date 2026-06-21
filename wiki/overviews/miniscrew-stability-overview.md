@@ -28,6 +28,10 @@ tags: [orthodontics, miniscrew, tad, temporary-anchorage-device, failure, reuse,
 > - 임상 표준: 신품 + 정중구개부/후방 상악 우선 + root proximity 회피. [합의수준]
 > - 보조 근거: 협골하능선 미니스크류 pooled 성공률 92%(Katyal 2024), 피질골 두께가 1차 안정성을 견인(Marquezan 2012·2014, r=0.409)해 부위 선택 기준으로 활용.
 
+## One-line Summary
+
+Synthesis integrating 3 core SR+MAs (plus spokes) on orthodontic miniscrew (Temporary Anchorage Device, TAD) stability across 3 axes — overall failure rate, anatomical-site differences, and reuse safety. Core thesis: overall failure is ~13.5% (≈1 in 6–7) with smoking and gingival-tissue type the only consistent risk factors, site dominates outcome (midpalatal 1.3% lowest vs zygomatic buttress 16.4% highest, root proximity a strong predictor), and reused miniscrews show no in-vitro torque difference yet significantly higher clinical failure — so the clinical standard is new screws at midpalatal/posterior-maxilla sites with root-proximity avoided (≥1 mm safety margin on CBCT).
+
 ## 한줄요약
 
 교정 미니스크류(Temporary Anchorage Device, TAD) SR+MA 3편 통합. 전체 실패율 13.5%; midpalatal 1.3%로 가장 안전, zygomatic buttress 16.4%로 위험. 재사용 미니스크류는 in-vitro torque 차 없으나 임상 실패율 유의 상승.
