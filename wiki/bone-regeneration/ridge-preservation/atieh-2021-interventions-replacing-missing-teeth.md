@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/atieh-2021-interventions-replacing-mi
 pdf_filename: atieh-2021-interventions-replacing-missing-teeth.pdf
 source_collection: external
 tags: [cochrane, systematic-review, meta-analysis, ARP, GRADE-very-low]
+relations:
+  - type: refines
+    target: bassir-2018-alveolar-ridge-preservation-meta-analysis
 ---
 
 ## One-line Summary
