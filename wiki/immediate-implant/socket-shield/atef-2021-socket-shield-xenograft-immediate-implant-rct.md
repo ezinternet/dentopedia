@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+RCT (n=40, 20 per group, 12-month follow-up) of socket shield vs xenograft around single immediate implants in the esthetic zone: socket shield gave significantly less buccal bone resorption (-0.28 vs -0.94 mm) and less buccal mucosal recession (0.18 vs 0.52 mm), with 100% survival in both groups.
+
 ## 한줄요약
 소켓실드 vs 이종골 이식 심미부 즉시임플란트 RCT — 협측 골 흡수 소켓실드 -0.28 vs 이종골 -0.94mm.
 
