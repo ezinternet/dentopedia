@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, RFA, survival, Neoss, 5-year, univariate, unadjusted-OR, clustering-unmodelled, failure-risk, loading-threshold]
 ---
 
+## One-line Summary
+Retrospective univariate analysis (745 Neoss implants, 334 patients; 5-year CSR 97.3% implant-level / 95.8% patient-level): low ISQ at placement or loading was associated with higher implant failure on UNADJUSTED odds ratios (e.g., ISQ<75 at loading OR 17.9), but the analysis is univariate with within-patient clustering unmodeled, so it cannot establish independent prediction.
+
 ## 한줄요약
 후향적 단변량 분석(745 Neoss, 334명; 5년 CSR 97.3% 임플란트수준 / 95.8% 환자수준): 식립·로딩 시 ISQ<70/<75가 실패 위험↑(비보정 OR). ⚠ 다변량 회귀 아님 — 카이제곱·Fisher + 비보정 OR이며 환자내 군집 미보정.
 
