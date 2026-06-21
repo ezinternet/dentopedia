@@ -16,6 +16,8 @@ relations:
     target: nkenke-2003-implant-stability-histomorphometry-cadaver-correlation
   - type: reinforces
     target: chatvaratthana-2017-cortical-bone-thickness-isq-cbct
+  - type: reinforces
+    target: di-stefano-2021-stability-dental-implants-cortical-bone
 ---
 
 ## One-line Summary
