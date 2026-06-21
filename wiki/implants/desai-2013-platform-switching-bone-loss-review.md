@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review / short communication explaining the platform switching concept: placing a smaller-diameter abutment on a larger-diameter implant collar displaces the microgap away from crestal bone and redistributes stress, preserving marginal bone — a conceptual overview without original clinical data.
+
 ## 한줄요약
 서술적 단보(J Indian Soc Periodontol 2013): 플랫폼 스위칭 개념·메커니즘·임상 적용 개요 — 미세간극 이동·응력 분산을 통한 변연골 보존 원리 해설
 
