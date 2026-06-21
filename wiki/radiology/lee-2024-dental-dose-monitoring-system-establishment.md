@@ -13,6 +13,9 @@ source_collection: external
 tags: [dental-radiology, dose-monitoring, cbct, panoramic, intraoral, korea, public-health]
 ---
 
+## One-line Summary
+J Korean Dent Assoc 2024 narrative-review (Yonsei OMFR): proposes a national-level dose monitoring system for Korean dental radiography across three modalities (intraoral, panoramic, CBCT) — surveys equipment architecture, builds an integrated data-collection plan, and completes a pilot operation, with future extension to be confirmed via expert input.
+
 ## 한줄요약
 J Korean Dent Assoc 2024 (Yonsei OMFR): national-level dose monitoring system for Korean dental radiography (intraoral, panoramic, CBCT) — system architecture surveyed, integrated data-collection plan, pilot operation completed; future extension to be confirmed via expert input.
 
