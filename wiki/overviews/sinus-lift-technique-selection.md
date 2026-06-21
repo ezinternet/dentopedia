@@ -30,6 +30,10 @@ source: synthesis
 > - 술전 콘빔CT (CBCT) 체크리스트 6항목: RBH·격벽·측벽 두께·협구개 폭·막 상태(부종/낭종)·상악동 저형성 (Hypoplasia, MSH); 합병증은 TSFE가 수술 당일만 불리하고 이후 2주는 LSA가 불리 (Farina 2018) — 환자 설명 시 분리 안내.
 > - 단임플란트 대안: RBH 5–7mm에서 짧은 (≤6mm) 임플란트가 표준+거상과 동등하고 MBL이 더 적어 거상 회피 옵션이 된다 (Toledano 2022).
 
+## One-line Summary
+
+Synthesis of 22 sinus-lift papers (12 lateral-window + 10 transcrestal) building a residual-bone-height (RBH) algorithm and risk-factor matrix across 4 decision axes: RBH-based technique choice (RBH ≥5 mm → transcrestal/TSFE first, <5 mm → lateral window, extendable to 4 mm with osseodensification), within-transcrestal technique (osseodensification > osteotome on ISQ and complications), perforation risk/management, and graft/barrier-membrane necessity. Implant survival is equivalent (97–99%) across techniques; septa and lateral-wall thickness >2 mm are key perforation predictors (OR >2); an appropriately repaired perforation does not affect survival (97.68% vs 98.88% intact); and graft material/routine barrier membranes are largely optional when residual bone is adequate.
+
 ## 한줄요약
 RBH (Residual Bone Height) ≥5mm = 경치조골 거상 (TSFE) 1순위, <5mm = 측방창 (LSA) 1순위; 모든 술식 생존율 97–99% 동등; **격벽 존재·측벽 두께 >2mm가 천공 위험인자 (OR >2)**; 적절히 봉합된 천공은 생존율에 영향 없음 (97.68% vs 무손상 98.88%); 잔존골 충분 시 이식재 선택적.
 
