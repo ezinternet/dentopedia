@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective study (n=91 restorations, mean 7.8-year follow-up) comparing lithium disilicate vs indirect resin-based composite partial posterior restorations: lithium disilicate had significantly higher survival (96.8% vs 84.9%, p<0.05) and 5× lower annual failure rate (0.2% vs 1.0%), with RBC survival dropping to ~60% by year 15 while LidiSi remained >95%.
+
 ## 한줄요약
 후향적연구(n=91, 평균 7.8년): 리튬디실리케이트 생존율 96.8% vs 간접레진 84.9%; 연간실패율 LidiSi 0.2% vs RBC 1.0%; 15년째 RBC 60%로 급락
 
