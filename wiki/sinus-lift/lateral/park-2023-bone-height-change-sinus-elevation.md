@@ -13,6 +13,10 @@ source_collection: external
 tags: [crestal-approach, lateral-approach, sinus-elevation, 3-year-follow-up, bone-resorption, korea]
 ---
 
+## One-line Summary
+
+Retrospective longitudinal cohort (n=103 Korean patients, 3-year follow-up) comparing two sinus floor elevation approaches: the lateral (Tatum) window achieved greater graft height gain (12.00 mm) than the crestal (Summers) approach (8.07 mm), but 3-year resorption was nearly identical (0.95 vs 0.98 mm) and concentrated in Year 1 — so approach choice by residual bone height does not affect long-term graft stability.
+
 ## 한줄요약
 후향적 종단 코호트 (Retrospective longitudinal, n=103 Korean patients, 3-year follow-up): 측방 접근 (Lateral Window) 12.00 mm vs 치조정 접근 (Crestal Approach, Summers) 8.07 mm 의 graft height gain — 그러나 3년간 흡수 (Resorption) 는 거의 동일 (0.95 vs 0.98 mm), 대부분 1년차에 발생. 잔존 골 높이 (Residual Bone Height, RBH) 에 따른 술식 선택이 장기 안정성에는 차이를 주지 않는다.
 
