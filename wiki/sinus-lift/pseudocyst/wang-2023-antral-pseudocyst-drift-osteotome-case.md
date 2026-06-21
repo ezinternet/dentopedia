@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, antral-pseudocyst, osteotome-sinus-elevation, transcrestal, drift, simultaneous-implant, literature-review]
 ---
 
+## One-line Summary
+Case report + literature review (Sichuan University, JCM 2023, n=1): after osteotome sinus floor elevation (OSFE) with simultaneous implant placement, an antral pseudocyst (AP) drifted to a new position within the sinus yet the implant integrated and functioned normally with no added complications — a rare transcrestal (vs lateral) AP-handling datapoint.
+
 ## 한줄요약
 Case report + literature review (Sichuan University, JCM 2023): **OSFE (osteotome sinus floor elevation) + 동시 implant** 후 AP가 sinus 내에서 drift — implant 안정 유지. Transcrestal 접근에서의 AP 핸들링 datapoint.
 
