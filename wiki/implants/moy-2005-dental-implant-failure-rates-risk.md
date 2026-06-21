@@ -14,6 +14,9 @@ source_collection: external
 tags: [implant-failure, risk-factors, diabetes, smoking, radiation, age, cohort-study, UCLA]
 ---
 
+## One-line Summary
+Retrospective cohort (4,680 implants, single operator, 21 years): diabetes (RR 2.75), head-and-neck radiation (RR 2.73), post-menopausal HRT (RR 2.55), age 60–79 (RR 2.24), and smoking (RR 1.56) were significant implant failure risk factors, while hypertension/cardiac disease/steroids were not; failure was highest in the posterior maxilla (~8.9–9.7%) and lowest in the anterior mandible (2.89%).
+
 ## 한줄요약
 코호트 (4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 하악전치부 최저 실패율(2.89%)
 
