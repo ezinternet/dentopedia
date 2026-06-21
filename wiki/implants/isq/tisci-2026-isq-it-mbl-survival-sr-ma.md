@@ -13,6 +13,9 @@ source_collection: external
 tags: [ISQ, RFA, insertion-torque, MBL, implant-survival, SR+MA, primary-stability]
 ---
 
+## One-line Summary
+PRISMA-compliant SR+MA (48 studies; 20 for quantitative ISQ-IT synthesis): ISQ correlates moderately with insertion torque (pooled Pearson r=0.44, 95% CI 0.32–0.55, p<0.001) but with substantial heterogeneity (I²>90%); surviving implants trend toward higher baseline ISQ (MD=10.22, NS), and MBL/success were not quantifiable — ISQ is a useful complementary primary-stability indicator but not an independent predictor of MBL or survival.
+
 ## 한줄요약
 ISQ–삽입토크 상관관계 SR+MA (48편): 중등도 유의 상관(r=0.44, p<0.001)이나 I²>90% — ISQ는 1차 안정성의 보조 지표로 유효하지만 MBL·생존율의 독립 예측인자로 쓰기엔 근거 불충분 (CIDRE 2026).
 
