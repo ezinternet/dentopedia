@@ -13,6 +13,9 @@ source_collection: external
 tags: [short-implants, bone-augmentation, atrophic-mandible, marginal-bone-loss, umbrella-review, meta-analysis, GBR, biological-complications]
 ---
 
+## One-line Summary
+Umbrella review + meta-analysis (15 primary studies, 281 patients, 595 implants) in the atrophic posterior mandible: short implants (<10 mm) in native bone may reduce implant failure, MBL, and biological complications vs regular implants placed after bone augmentation, with patient preference favouring short implants — though GRADE certainty is very low to low.
+
 ## 한줄요약
 우산형 리뷰: 위축 하악구치부에서 단임플란트(<10mm)가 골증대+표준임플란트 대비 실패·MBL·합병증 감소; 근거수준 낮음
 
