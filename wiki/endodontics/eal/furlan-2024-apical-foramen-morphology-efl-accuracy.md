@@ -14,6 +14,9 @@ source_collection: external
 tags: [EAL, EFL, apical-foramen, foramen-morphology, rootzx, raypex, working-length, in-vitro]
 ---
 
+## One-line Summary
+In vitro study (30 mandibular premolars, alginate model) of 4 electronic foramen locators (EFL): all accurate in fully formed apices, but divergent (open) apical foramina significantly reduced Raypex 6 and CanalPro accuracy (p<0.05) while RootZX II and EPex Pro were unaffected; penetration depth (0.0 vs −1.0 mm) had no effect.
+
 ## 한줄요약
 In vitro 30개 소구치: 4종 EFL 모두 정상 근첨에서 정확; 발산형(divergent) 근첨공에서 Raypex 6·CanalPro 정확도 저하(p<0.05); RootZX II·EPex Pro는 영향 없음
 
