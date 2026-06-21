@@ -13,6 +13,9 @@ source_collection: external
 tags: [biological-aging, titanium, hydrocarbon, hydrophilicity, carbon-contamination, long-term]
 ---
 
+## One-line Summary
+In vitro study of acid-etched cpTi extending the titanium biological aging timeline from 4 weeks to 6 months: osteoblast attachment, spreading, density, and ALP activity declined progressively and remained significantly reduced at 6 months, implicating hydrocarbon (carbon) contamination rather than hydrophilicity as the primary aging driver.
+
 ## 한줄요약
 인비트로(Materials 2016): 티타늄 생물학적 노화 (Biological aging)는 4주가 아닌 6개월까지 지속; 세포 부착·증식·분화 지속 감소; 친수성보다 탄화수소 (Hydrocarbon) 오염이 주된 노화 구동자.
 
