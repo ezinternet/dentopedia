@@ -13,6 +13,9 @@ source_collection: external
 tags: [lateral-window, sinus-lift, msfe, hopeless-tooth, pre-extraction, immediate-implant]
 ---
 
+## One-line Summary
+3-year case report of Modified Lateral Sinus Floor Elevation (MSFE) performed before extraction of a periodontally hopeless maxillary molar (#16), augmenting residual bone height from 1–2 mm to 12–14 mm; the tooth was retained 13 months, then extracted with immediate implant placement, with histology showing predominantly new bone and <2 mm bone resorption and no peri-implantitis after 3 years of loading.
+
 ## 한줄요약
 3년 추적 케이스 리포트: 치주적 예후 불량 상악 #16에 발치 전 변형 측방 상악동거상술(Modified Sinus Floor Elevation, MSFE)을 시행해 잔존골 1–2 mm를 12–14 mm로 증대시킨 뒤 13개월 후 발치 + 즉시식립; 조직학적으로 신생골 우세, 3년 부하 후 골흡수 2 mm 미만, 치주염성 임플란트(peri-implantitis) 없음.
 
