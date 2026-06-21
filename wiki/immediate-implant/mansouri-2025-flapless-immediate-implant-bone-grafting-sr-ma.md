@@ -13,6 +13,9 @@ source_collection: external
 tags: ['flapless', 'immediate implant', 'bone graft', 'jump space', 'peri-implant gap']
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (RCTs only) evaluating flapless immediate implant placement (IIP) with vs without bone grafting of the peri-implant gap on hard/soft tissue changes, suggesting a trend toward better hard-tissue preservation with grafting (e.g., jump space ≥2 mm) but limited by few RCTs and variable follow-up.
+
 ## 한줄요약
 SR+MA: flapless 즉시식립 시 peri-implant gap에 골이식 추가 vs 비추가 — hard/soft tissue 변화를 평가; RCT 한정.
 
