@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, soft-tissue, gingival-phenotype, animal]
 ---
 
+## One-line Summary
+
+Preclinical canine study (5 mongrel dogs, box-type gingival defect model) comparing SCTG versus xenogeneic collagen matrix soaked with PDRN (2.0 mg/mL): STL superimposition and histomorphometry showed no significant difference between groups, indicating XCM+PDRN produces SCTG-comparable gingival phenotype modification (no XCM-only control included).
+
 ## 한줄요약
 
 Mongrel dog 5마리 box-type gingival defect 모델에서 SCTG vs XCM+PDRN(2.0 mg/mL) 비교. STL superimposition·histomorphometry 모두에서 양군 유의차 없음 → XCM+PDRN이 SCTG에 comparable.
