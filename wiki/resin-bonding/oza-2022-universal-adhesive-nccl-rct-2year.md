@@ -14,6 +14,9 @@ source_collection: external
 tags: [universal-adhesive, Clearfil-SE-Bond, NCCL, RCT, self-etch, etch-and-rinse, selective-etch, 24-month, clinical]
 ---
 
+## One-line Summary
+2-year 5-arm RCT (234 noncarious cervical lesions (NCCLs), 34 patients): Clearfil Universal Bond Quick in self-etch (SE) mode was clinically unacceptable (6 restorations lost), whereas selective-enamel-etch (SLE) and etch-and-rinse (E&R) modes were acceptable — confirming universal adhesives should not be used in SE-only mode for NCCLs with enamel margins.
+
 ## 한줄요약
 RCT (NCCL 234개, 34명, 24개월): Clearfil Universal Bond Quick SE 모드 임상적 부적합(6개 탈락); SLE·E&R 모드는 허용; Clearfil SE Bond 4개 탈락; SE 단독 모드 보편접착제에 부적합 확인
 
