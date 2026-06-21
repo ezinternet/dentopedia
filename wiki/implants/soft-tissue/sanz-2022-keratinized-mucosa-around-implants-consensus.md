@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/sanz-2022-keratinized-mucosa-around-i
 pdf_filename: sanz-2022-keratinized-mucosa-around-implants-consensus.pdf
 source_collection: external
 tags: []
+relations:
+  - type: reinforces
+    target: thoma-2018-soft-tissue-augmentation-periimplant-health
 ---
 
 ## One-line Summary
