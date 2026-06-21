@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Versah manufacturer clinical protocol (narrative-review, 2-page) for upper-molar immediate implant placement with simultaneous crestal sinus lift in sockets with an intact interradicular septum ≥4 mm: flapless septum-preserving extraction → Densah osseodensification (OD) burs (CCW) for combined septum expansion + Schneiderian membrane elevation → implant placement → graft fill → wide healing abutment for socket sealing; eliminates staged sinus augmentation.
+
 ## 한줄요약
 Versah 상악 구치부 즉시식립 + 동시 상악동 거상 프로토콜 — 상악 구치 septum 폭 ≥4 mm 적응. CBCT로 ridge 폭·상악동까지 높이 측정 → flapless 무외상 발치(septum 보존) → Densah OD 버(CCW, 800–1500 rpm, irrigation) 단계 확장으로 septum expansion + 슈나이더막 거상 동시 → 임플란트 식립 → 골이식 충전 → wide healing abutment로 소켓 sealing.
 
