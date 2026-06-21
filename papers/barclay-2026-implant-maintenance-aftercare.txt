@@ -1,0 +1,9 @@
+[ABSTRACT-ONLY — PubMed, full text not retrieved (no PMC). PMID 41577778]
+
+TITLE: Implant maintenance and aftercare.
+AUTHORS: Barclay Craig
+JOURNAL: British dental journal. 2026 Jan.
+DOI: 10.1038/s41415-026-9524-y
+
+ABSTRACT:
+As increasing numbers of dental implants are being placed in the general population, the need to develop a maintenance protocol that caters to the needs of these patients has become essential. Historically, dental implants were predominantly placed in the early edentulous population; however, the shift of placements to the wider population means that a patient-focused approach to peri-implant maintenance therapy and the effect this has on biological complications and implant survival need to be considered. This has been considered in the new periodontal classification (2018), which includes peri-implant diseases and conditions for the first time.
