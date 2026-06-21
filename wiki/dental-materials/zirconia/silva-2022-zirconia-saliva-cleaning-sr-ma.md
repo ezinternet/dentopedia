@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, saliva-contamination, sandblasting, Ivoclean, bond-strength, cleaning, sr+ma]
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (J Adhes Dent 2022; 804 screened → 11 included) on cleaning saliva-contaminated zirconia before adhesive cementation: Al₂O₃ sandblasting gave the highest resin bond strength (significantly above Ivoclean, p<0.01), Ivoclean outperformed water, and alcohol/phosphoric acid offered no benefit over water rinsing.
+
 ## 한줄요약
 SR+MA(J Adhes Dent 2022, 11편): 타액 오염 지르코니아 (Zirconia) 세정 — 산화알루미늄 (Al₂O₃) 샌드블라스팅 (Sandblasting) 접착강도 최우수; Ivoclean > 물/알코올/인산 (물·알코올·인산 간 유의차 없음).
 
