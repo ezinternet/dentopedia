@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative review (Korean Dental Association, 2025) on peri-implantitis management, synthesizing the 2017 World Workshop definition with the 2024 Korean Academy of Periodontology consensus classification (BOP/PPD/peri-implant bone status); both non-surgical and surgical therapy aim for plaque/calculus removal, inflammation control, and attachment recovery, with reinforced SPT importance in the Korean clinical context.
+
 ## 한줄요약
 2017 World Workshop 정의 + 2024 대한치주과학회 합의안 기반의 peri-implantitis 분류·치료 종설(KDA): BOP/PPD/주변 골 상태로 분류, 비외과+외과 치료 모두 plaque·calculus 제거 + 염증 통제 + 부착 회복이 목표. 한국 임상 맥락 정리.
 
