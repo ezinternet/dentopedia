@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (62 in vitro studies, 58 meta-analyzed) of composition strategies for reducing polymerization shrinkage stress in resin-based materials found resin matrix modification contributes most to stress reduction, while alternative photoinitiators alone showed no significant benefit (p=0.29); SDR (Stress Decreasing Resin) chemistry highlighted as a validated approach.
+
 ## 한줄요약
 7개 데이터베이스 62개 in vitro 연구 SR+MA: 레진 기질(matrix) 개질이 중합수축응력 감소에 가장 큰 기여; 대체 광개시제 단독은 유의미한 효과 없음(p=0.29); SDR™ 화학 및 저수축·벌크필 소재가 유망한 임상 적용.
 
