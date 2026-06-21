@@ -13,6 +13,9 @@ source_collection: external
 tags: [biostatistics, common-mistakes, p-value, hazard-ratio, confounding, mediator, immortal-time-bias, critical-appraisal]
 ---
 
+## One-line Summary
+Narrative review (Clin Kidney J 2024) cataloguing 10 common biostatistics mistakes — wrong descriptive metric, p-value misreading, 95% CI misinterpretation, HR mistaken for prognostic accuracy, ignored sample-size calculation, subgroup-analysis abuse, correlation-vs-causation, confounder-vs-mediator over-adjustment, poor variable coding, and immortal-time/future-exposure bias — with worked examples transferable to dental retrospective and survival studies.
+
 ## 한줄요약
 임상 통계 흔한 오류 10가지 정리 (Clin Kidney J 2024): 잘못된 지표 선택·p값 오해·95% CI 오해·HR을 예후 정확도로 오해·표본수 무시·subgroup 사냥·상관-인과 혼동·confounder-mediator 혼동·변수 코딩 불량·미래 노출 기반 분류 편향(immortal time bias).
 
