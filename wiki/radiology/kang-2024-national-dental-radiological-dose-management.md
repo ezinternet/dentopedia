@@ -13,6 +13,9 @@ source_collection: external
 tags: [dental-radiology, drl, dose-management, justification, optimization, icrp, korea]
 ---
 
+## One-line Summary
+Narrative review of national-level dental radiation dose management in South Korea framed around diagnostic reference levels (DRLs): maps DRL evolution (ICRP 60 → 73 → 135) and the Korean adoption timeline (intraoral/panoramic 2009, dental CBCT 2018), arguing for 3–5-year DRL revision cycles (shorter after major technology change).
+
 ## 한줄요약
 J Korean Dent Assoc 2024 (SNU OMFR): national-level dental radiation dose management based on diagnostic reference levels (DRLs); Korea established DRLs for intraoral/panoramic radiography in 2009 and for dental CBCT in 2018; ICRP recommends DRL revision every 3-5 years, more frequently after technological change.
 
