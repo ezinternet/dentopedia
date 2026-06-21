@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, transcrestal-sinus-lift, rct, maxillary-molar, ridge-preservation]
 ---
 
+## One-line Summary
+One-year RCT in maxillary molar sites comparing immediate vs delayed implant placement (both with transalveolar/osteotome sinus floor elevation and nonsubmerged healing): both groups reached 100% survival, but immediate placement significantly preserved buccal dimensions (horizontal shrinkage 0.65 vs 1.23 mm; vertical resorption 0.60 vs 1.53 mm, both P < .0001).
+
 ## 한줄요약
 1년 추적 무작위대조시험(Randomized Controlled Trial, RCT, 상악구치부): 즉시식립(Immediate Implant Placement, IIP) + 경치조골 상악동거상술 + 비매몰 치유 vs 지연식립 동일 프로토콜에서 양 군 모두 생존율 100%, 그러나 즉시식립군이 협측 수평/수직 흡수를 약 0.6 mm 더 보존(P < .0001).
 
