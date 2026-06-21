@@ -13,6 +13,9 @@ source_collection: external
 tags: [botulinum-toxin, orofacial, bruxism, tmd, injection-protocol, dosing]
 ---
 
+## One-line Summary
+Narrative review (University of Sevilla, 2020) on botulinum toxin (BTX) in orofacial clinical practice: a practical indication map (TMD myofascial pain, sleep bruxism, neuralgia, sialorrhea, gummy smile, aesthetics) with per-muscle dosing (masseter 25–75 U, temporalis 15–50 U OnabotulinumtoxinA), injection landmarks, product equivalence, and long-term masseter atrophy (20–40% volume loss with repeated use).
+
 ## 한줄요약
 세비야대학 서술적 고찰: 구강안면 임상에서 보툴리눔독소(BTX) 적응증, 주사 프로토콜, 용량 지침을 포괄적으로 정리; 교근 주사 25–75U 권고.
 
