@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, Y-PSZ, saliva-contamination, cleaning, phosphoric-acid, XPS, MDP, air-abrasion]
 ---
 
+## One-line Summary
+In vitro XPS + bond strength study (Dent Mater J 2018; saliva-contaminated Y-PSZ high-translucency zirconia): air abrasion achieved the highest resin cement bond strength and phosphoric-acid cleaning left phosphorous residues that chemically interfered with MDP bonding, warning against phosphoric acid for zirconia cleaning.
+
 ## 한줄요약
 in-vitro(Dent Mater J 2018): Y-PSZ 고투명 지르코니아 — 인산세정 후 인산 잔류물이 MDP 화학결합 방해; 에어어브레이전 > Ivoclean > 인산; XPS로 표면 원소 확인.
 
