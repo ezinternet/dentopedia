@@ -13,6 +13,9 @@ source_collection: external
 tags: [MTA, pulpotomy, permanent-teeth, carious-exposure, adult]
 ---
 
+## One-line Summary
+Prospective study (52 mature permanent molars, 43 patients aged 11–51) of full pulpotomy with Mineral Trioxide Aggregate (MTA) for carious pulp exposures with reversible pulpitis: short-term success ~80%, supporting the feasibility of vital pulp therapy (VPT) in mature adult teeth when indication selection is accurate.
+
 ## 한줄요약
 성인(11–51세) 영구 구치 우식 노출 MTA full pulpotomy(52개): 단기 성공률 ~80%, 성숙치에서 VPT 가능성 제시.
 
