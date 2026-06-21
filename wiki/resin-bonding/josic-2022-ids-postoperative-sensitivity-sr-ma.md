@@ -13,6 +13,10 @@ source_collection: external
 tags: [ids, postoperative-sensitivity, sr-ma, grade-low, breschi, prisma]
 ---
 
+## One-line Summary
+
+JERD 2022 SR+MA (4 clinical trials qualitative, 2 quantitative): immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) showed no significant difference in postoperative sensitivity (POS) at baseline or 2 years (P>.05; GRADE very-low to low), concluding no clinical evidence favors IDS over DDS for POS — directly conflicting with the Magne narrative and the Alghauli 2025 SR+MA.
+
 ## 한줄요약
 
 JERD 34(1), 2022 SR+MA (4 clinical trials qualitative, 2 quantitative): IDS vs DDS POS 차이 P>.05 (baseline·2년), GRADE very-low/low. 결론: "IDS does NOT reduce POS, no clinical evidence to favor IDS over DDS". Magne narrative 및 alghauli-2025와 직접 충돌.
