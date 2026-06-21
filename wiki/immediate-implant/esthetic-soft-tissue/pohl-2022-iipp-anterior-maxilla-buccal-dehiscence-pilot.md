@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Comparative pilot study of immediate implant placement + immediate provisionalization (IIPP) in maxillary anterior sites with vs without buccal dehiscence: esthetic indices (PES/WES) were comparable across arms within the small sample, with recession trending higher but not significantly in the dehiscence arm.
+
 ## 한줄요약
 파일럿 비교 연구: 협측 dehiscence가 있는 전치부에서도 IIPP의 esthetic outcome이 무결 socket과 통계적으로 큰 차이 없이 수용 가능 — 단, 표본 작음.
 
