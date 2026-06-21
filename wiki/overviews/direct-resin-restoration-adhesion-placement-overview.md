@@ -25,6 +25,10 @@ source_collection: synthesis
 > - 수리(repair)가 교체보다 우월 — 15년 후방 복합레진 SR은 없으나 전치부 데이터 강력(van de Sande 2019, 수리를 비실패로 보면 15년 생존 69%) — 국소 결함은 수리가 1차 선택.
 > - 간접 수복으로의 escalation은 근거가 아니라 해부(교두 피개·교두간 거리 ½ 접근·근관치료 후 후방치 변연융선 소실+과중 교합)로 결정 — 일상적 Class II에 간접 수복은 강제되지 않는다.
 
+## One-line Summary
+
+Synthesis over Cochrane SR, umbrella reviews, multiple SR+MA/NMA and large RCTs covering two decisions in every direct composite restoration — how to bond (adhesion strategy) and how to place (incremental vs bulk-fill, low-shrinkage chemistry, repair). Core thesis: when enamel margins exist, selective enamel etching or 3-step etch-and-rinse (EAR) consistently outperforms universal-adhesive self-etch (SE) alone, while bulk-fill and incremental placement are clinically equivalent through ≥24 months and "low-shrinkage = superior" is not supported by RCT MA. Clinical takeaway: protocol execution, not material selection, drives outcome; escalation to indirect restoration is decided by anatomy, not evidence.
+
 ## 한줄요약
 일반 직접 컴포짓 수복의 두 축 종합 — ① 접착방식: 법랑질 가장자리가 있으면 선택적 법랑질 산부식 또는 3-step EAR이 SR+MA·RCT에서 일관되게 우세, 유니버설 SE 단독은 NCCL 24개월 RCT에서 임상 부적합; ② 충전방식: 벌크필과 적층충전은 9 RCT MA·12 RCT NMA·우산형 리뷰 모두에서 임상 동등, "저수축 = 임상 우월" 명제는 21 RCT MA로 부정. 둘 다 "재료 선택"보다 "프로토콜 실행"이 결과를 좌우.
 
