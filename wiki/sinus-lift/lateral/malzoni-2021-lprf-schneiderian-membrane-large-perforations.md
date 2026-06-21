@@ -13,6 +13,10 @@ source_collection: external
 tags: [L-PRF, sinus-membrane-perforation, lateral-window, sinus-augmentation, case-series, DBBM, long-term-followup]
 ---
 
+## One-line Summary
+
+Long-term case series (9 patients with large Schneiderian membrane perforations during lateral-window sinus floor augmentation): perforations were repaired with L-PRF membranes plus DBBM (Bio-Oss) graft and a collagen membrane over the window; all 9 perforations sealed, 13 implants placed at 8 months, and all 13 remained osseointegrated with no sinus infection at 3–5 year follow-up.
+
 ## 한줄요약
 9건의 대형 슈나이더리안 막 (Schneiderian Membrane, SM) 천공 사례에서 백혈구·혈소판풍부피브린 (Leukocyte- and Platelet-Rich Fibrin, L-PRF) 막 + 탈단백우골미네랄 (Deproteinized Bovine Bone Mineral, DBBM, Bio-Oss) + 콜라겐 막 조합으로 봉합 → 8개월 후 임플란트 13개 식립, 3–5년 추적에서 전부 골유착·감염 없음.
 
