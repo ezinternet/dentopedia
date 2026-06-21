@@ -14,6 +14,9 @@ source_collection: external
 tags: [buccal-resorption, alveolar-crest, ridge-remodeling, study-model, single-tooth, clinical-study]
 ---
 
+## One-line Summary
+Prospective study-model analysis (50 patients, single-tooth extraction, ≥6-month healing): buccal resorption peaked at the midpoint (39.1 ± 10.4%) — roughly double that of the mesial/distal aspects (~20%) — and the alveolar crest shifted palatally/lingually by 56-65% (greatest at the midpoint), indicating immediate implants must account for concentrated mid-buccal bone loss.
+
 ## 한줄요약
 스터디모델 (50명, ≥6mo): 협측 중간부 흡수 39.1% — 근원심의 2배; 치조정이 구개/설측으로 56–65% 이동
 
