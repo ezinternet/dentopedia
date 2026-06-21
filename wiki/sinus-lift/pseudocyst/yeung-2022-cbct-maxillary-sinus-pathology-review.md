@@ -14,6 +14,9 @@ source_collection: external
 tags: [maxillary-sinus, CBCT, pathology, mucosal-thickness, antral-pseudocyst, MRC, sinusitis, imaging-review]
 ---
 
+## One-line Summary
+Narrative review (HKU OMFS, Diagnostics 2022): a comprehensive guide to CBCT evaluation of maxillary sinus health and pathology — normal anatomy, the sinus mucosal thickness (SMT) ≥2 mm pathology threshold, and imaging mapping of antral pseudocyst (AP), MRC, mucocele, septa, ostium patency, and Schneiderian membrane — framing the "step-zero" accurate-diagnosis phase of sinus lift decision-making.
+
 ## 한줄요약
 Review (HKU OMFS, Diagnostics 2022): CBCT를 통한 상악동 건강·병변 평가의 종합 review — 정상 해부·SMT 임계값·AP/MRC/sinusitis/odontogenic/tumor pathology 영상 매핑. Sinus pathology의 imaging 결정 가이드.
 
