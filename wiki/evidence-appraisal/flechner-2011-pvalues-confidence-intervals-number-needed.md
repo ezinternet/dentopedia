@@ -13,6 +13,9 @@ source_collection: external
 tags: [p-value, confidence-interval, nnt, biostatistics, ebm-tutorial]
 ---
 
+## One-line Summary
+EBM tutorial (Indian J Urol 2011) arguing that p-value, 95% confidence interval (CI), and number-needed-to-treat (NNT = 1/ARR) should be read together rather than in isolation, using a prostate-cancer chemoprevention scenario; distinguishes statistical significance from clinical importance and positions the 95% CI as the most informative single lens.
+
 ## 한줄요약
 임상의를 위한 p-value, 95% CI, NNT 3종 세트 튜토리얼 (Indian J Urol 2011): 전립선암 화학예방 시나리오로 세 지표가 같은 데이터의 다른 측면임을 보여주는 EBM 입문.
 
