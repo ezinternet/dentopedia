@@ -13,6 +13,9 @@ source_collection: external
 tags: [peri-implantitis, peri-implant-mucositis, EFP, clinical-guideline, prevention, SPIC]
 ---
 
+## One-line Summary
+EFP S3-level clinical practice guideline (consensus, based on 13 commissioned systematic reviews + GRADE): provides a full-lifecycle standard protocol for preventing and treating peri-implant diseases, from pre-placement planning through supportive peri-implant care (SPIC) and active mucositis/peri-implantitis management, built on the 2018 Berglundh case definitions.
+
 ## 한줄요약
 EFP S3 임플란트 주위 질환 예방·치료 지침(13개 SR 기반): 임플란트 계획 단계부터 SPIC 프로그램까지 전주기 표준 프로토콜 제시.
 
