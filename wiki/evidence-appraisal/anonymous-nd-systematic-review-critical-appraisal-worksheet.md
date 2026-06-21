@@ -13,6 +13,9 @@ source_collection: external
 tags: [systematic-review, critical-appraisal, worksheet, forest-plot, heterogeneity, anonymous]
 ---
 
+## One-line Summary
+Anonymous, undated 4-page systematic-review critical-appraisal worksheet (presumed CASP/PHRU-style) providing a Yes/No/Unclear checklist (PICO, search comprehensiveness, inclusion criteria, study quality, heterogeneity, forest-plot interpretation) with a worked 5-trial example; a teaching/journal-club artifact only — not citable (no author, date, or journal).
+
 ## 한줄요약
 4쪽짜리 익명 SR 비판적 평가 체크리스트 (CASP/PHRU 양식 추정): PICO·검색·포함기준·질평가·heterogeneity·forest plot 해석을 Yes/No/Unclear로 점검; 출처 미상이므로 인용 불가, 학습용으로만 사용.
 
