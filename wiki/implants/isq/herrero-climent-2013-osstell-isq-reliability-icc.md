@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, Osstell, reliability, ICC, repeatability, SmartPeg, measurement]
 ---
 
+## One-line Summary
+Cross-sectional reliability study of the Osstell Mentor ISQ device (85 implants, 23 patients): ICC = 0.97 (excellent reliability, mean ISQ 72.4), a single measurement is statistically sufficient, and SmartPeg types I and II produce equivalent readings.
+
 ## 한줄요약
 횡단면 연구(85 임플란트, 23명): Osstell ISQ ICC=0.97(탁월); 단회 측정으로 충분; SmartPeg I·II 동등; 평균 ISQ 72.4
 
