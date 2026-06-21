@@ -13,6 +13,9 @@ source_collection: external
 tags: [RFA, ISQ, mathematical-modeling, FEA, electromagnetic, micro-displacement, primary-stability]
 ---
 
+## One-line Summary
+Engineering in-vitro mathematical model (two-degree-of-freedom mass-spring-damper + FEA-derived stiffness/damping): sweeping 5–15 kHz electromagnetic excitation in MATLAB with FFT recovers an implant's resonance frequency and micro-displacement, showing resonance frequency rises with peri-implant stiffness — a theoretical validation of the electromagnetic RFA/ISQ principle.
+
 ## 한줄요약
 공학·인비트로 수학적 모델(2 자유도+FEA): 5–15 kHz 입력 주파수 범위에서 임플란트 공진주파수 및 미세변위를 MATLAB·FFT로 추출 — 전자기 공진주파수분석(RFA)의 원리·정확도를 이론적으로 검증; ISQ의 공학적 기반 제공.
 
