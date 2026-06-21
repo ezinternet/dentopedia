@@ -14,6 +14,9 @@ source_collection: external
 tags: [masseter-hypertrophy, masseter, masticatory-performance, ultrasound, emg, adverse-effects, abobotulinumtoxinA, aesthetic, functional-loss]
 ---
 
+## One-line Summary
+Triple-blinded RCT (n=26 women) on masseter hypertrophy: a single 75 U abobotulinumtoxinA injection per masseter caused transient thinning and EMG suppression that recovered by 6 months, whereas a second injection produced persistent masseter thinning and EMG suppression (p<0.05) without additional aesthetic (Merz) benefit, while masticatory performance was impaired in both groups — multiple injections add functional cost without incremental cosmetic gain.
+
 ## 한줄요약
 교근비대에 보툴리눔 A 주사는 효과적이나 반복 주사 시 교근 두께·EMG 활성·저작효율의 지속적 저하가 발생함을 보인 삼중맹검 RCT (n=26).
 
