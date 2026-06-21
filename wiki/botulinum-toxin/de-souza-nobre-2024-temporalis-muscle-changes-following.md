@@ -14,6 +14,9 @@ source_collection: external
 tags: [masseter-hypertrophy, temporalis, compensatory-hypertrophy, ultrasound, emg, adverse-effects, abobotulinumtoxinA, aesthetic]
 ---
 
+## One-line Summary
+Triple-blinded, placebo-controlled RCT (n=26 women with masseter hypertrophy) showing repeated masseter abobotulinumtoxinA injection induces dose-cumulative compensatory temporalis hypertrophy (greater thickness, p<0.02, and EMG, p<0.01, at 6 mo) plus emergent temporalis-localized pain (7/12 in the multiple-injection group at 6 mo, p<0.02).
+
 ## 한줄요약
 교근비대 환자에서 보툴리눔 톡신 반복 주사 시 측두근(temporalis)이 보상성으로 두꺼워지고 EMG 활성·통증이 증가함을 보인 삼중맹검 RCT (n=26).
 
