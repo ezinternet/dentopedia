@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, esthetic-outcome, narrative-review, JISP, Banaras-Hindu-Univ, critical-evaluation]
 ---
 
+## One-line Summary
+Narrative review critically evaluating whether the socket-shield technique (SST) delivers genuine esthetic success, arguing that neither implant alone nor bone substitute plus immediate implant fully preserves peri-implant hard/soft tissue, while questioning SST's complication patterns and long-term outcome certainty.
+
 ## 한줄요약
 Narrative review (Banaras Hindu Univ, JISP 2020): "Socket shield: An esthetic success?" — SST esthetic outcome의 비판적 평가. 인도 임상의 perspective의 review. [[immediate-implant/socket-shield/blaschke-2020-socket-shield-technique-critical-review]]와 같은 cautious cluster.
 
