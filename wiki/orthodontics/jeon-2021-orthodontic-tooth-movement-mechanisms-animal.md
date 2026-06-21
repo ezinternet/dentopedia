@@ -13,6 +13,10 @@ source_collection: external
 tags: [orthodontic-tooth-movement, otm, rankl, tnf-alpha, dkk1, sclerostin, tgf-beta, bmp, mechanosensing, osteoclastogenesis, transgenic-animal, pdl]
 ---
 
+## One-line Summary
+
+Critical review of transgenic animal model studies on orthodontic tooth movement (OTM) mechanisms (JCM 2021): compression-side osteoclastogenesis driven by sterile inflammation (TNF, IL-1, IL-6, PGE₂), RANKL, and Wnt inhibitors DKK1/sclerostin, versus tension-side bone formation via BMP/Runx2, with FAK, cilia, and ion channels as PDL mechanosensors; conditional knockout/overexpression models establish cause-and-effect not obtainable from human GCF or in vitro studies.
+
 ## 한줄요약
 교정적 치아이동(OTM) 기전 형질전환 동물 연구 critical review (JCM 2021): 압박측 파골세포생성(RANKL·TNF-α)·인장측 골형성(BMP·Runx2); DKK1·sclerostin Wnt 억제; 기계감지(FAK·cilia·이온채널) 경로 규명.
 
