@@ -14,6 +14,9 @@ source_collection: external
 tags: [ridge-resorption, cbct, thin-wall-phenotype, buccal-bone, esthetic-zone, prospective]
 ---
 
+## One-line Summary
+Prospective CBCT 3D study (n=39, 8 weeks) of post-extraction ridge alterations in the maxillary esthetic zone; thin-wall phenotype (≤1mm buccal plate) lost a median 7.5mm of vertical bone vs 1.1mm for thick walls (~3.5× more), with buccal bone thickness the only significant predictor and the central buccal site most affected.
+
 ## 한줄요약
 CBCT 3D (39명, 8주): 얇은 협측벽(≤1mm) 수직소실 중앙값 7.5mm vs 두꺼운 벽 1.1mm; 협측 두께가 유일한 유의 예측인자
 
