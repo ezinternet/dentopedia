@@ -32,6 +32,10 @@ relations:
 > - 축5 골 drilling 열: 임계 47°C/1min·50°C/30s → osteonecrosis(Bertollo 2011); 충분한 saline irrigation·sharp bur·intermittent drilling. 의인성 하악 골절은 0.0033–0.075%로 드물지만 발생 시 중대.
 > - 확신도: 축1·2·4 [근거강함](SR+MA·NMA·prospective), 축3 [합의수준](narrative), 축5 [근거강함](고전 임계값).
 
+## One-line Summary
+
+Oral-surgery decision ladder synthesizing 22 `oral-surgery/` papers across 5 axes — third molars & inferior alveolar nerve (IAN), post-extraction complication reduction (PRF/antibiotics/LLLT/dry socket), hemostasis, deep neck infection, and bone-drilling thermal/reconstruction. Core thesis: extract third molars for absolute indications (recurrent pericoronitis, cyst, adjacent resorption) and use coronectomy for high IAN risk (IAN injury 0.59% vs full extraction); antibiotic prophylaxis is reserved for surgical/impacted extractions (NNT≈25, single preop amoxicillin 2g); PRF benefits early healing (2–3 mo) but equals natural healing by 6 months; hemostasis escalates suture+gauze → oxidized cellulose/gelatin → tranexamic acid → fibrin sealant; deep neck infections are ~43% odontogenic requiring airway vigilance + source control; drilling exceeding 47 °C/1 min risks osteonecrosis.
+
 ## 한줄요약
 
 구강외과 5축 — 제3대구치 적응증·합병증·IAN 손상·관상절제술 · 발치 후 PRF/dry socket · 항생제·LLLT 합병증 감소 · 지혈 · 심경부 감염. Camps-Font 2024 NMA + Peixoto 2024 SR+MA + Bailey 2020 Cochrane spine.
