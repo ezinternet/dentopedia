@@ -13,6 +13,9 @@ source_collection: external
 tags: [calcified-canal, PCO, CBCT, microscope, chelating-agent, algorithm, case-reports]
 ---
 
+## One-line Summary
+Systematic review of 34 case reports (41 patients, PeerJ 2025): non-surgical management of calcified canals (pulp canal obliteration, PCO) is most effective when combining CBCT localization, dental operating microscope (DOM) + ultrasonics, and EDTA chelation with small-taper flexible NiTi; a stepwise decision algorithm escalates to guided endodontics then surgery on failure.
+
 ## 한줄요약
 석회화 근관 관리 SR(증례 34개, 41명, PeerJ 2025): 비외과적 접근 + CBCT + 현미경 + EDTA가 핵심; 의사결정 알고리즘 제시.
 
