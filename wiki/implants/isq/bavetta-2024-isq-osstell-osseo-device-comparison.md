@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, Osstell, Osseo-100, device-comparison, bone-density, D1-D4, prospective, stability-trajectory]
 ---
 
+## One-line Summary
+Prospective 1-year study (50 patients, 80 implants): Osstell ISQ and Osseo 100 RFA devices were equivalent (r>0.95) and interchangeable, ISQ rose gradually through healing, and dense bone (D1–D2) gave significantly higher ISQ than D3–D4 at every timepoint.
+
 ## 한줄요약
 전향적 연구(50명, 80 임플란트): Osstell ISQ vs Osseo 100 기기 동등(r>0.95); ISQ 시간에 따라 점진 상승; D1-D2 군이 D3-D4보다 모든 시점에서 유의하게 높은 ISQ
 
