@@ -15,6 +15,9 @@ tags: [immediate-implant-placement, primary-stability, extraction-socket, osseoi
 ---
 
 
+## One-line Summary
+Clinical case report with literature review documenting successful osseointegration of an immediately placed implant despite the absence of primary stability, arguing that biological factors (bone density, cortical bone, healing potential) can compensate for mechanical deficiency when delayed loading (6+ months) and a modified surgical protocol are used.
+
 ## 한줄요약
 증례보고: 1차 안정성 없이도 생물학적 요소(골밀도·피질골·치유잠재력)로 보상 가능; 6개월 이상 지연부하 + 변형 수술프로토콜 필요
 
