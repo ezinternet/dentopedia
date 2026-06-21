@@ -13,6 +13,9 @@ source_collection: external
 tags: [ISQ, bioactive-surface, D3-bone, D4-bone, stability-dip, loading-protocol]
 ---
 
+## One-line Summary
+Prospective controlled clinical trial (n=36 patients, 60 implants in D3/D4 bone): nano-superhydrophilic bioactive surface maintained ISQ stability with no stability dip, whereas traditional SLA-type surface implants showed significant ISQ decrease at 30 and 45 days; bioactive group required fewer delayed-loading cases (0 vs 6 at 180 days).
+
 ## 한줄요약
 전향적 임상시험(n=36, D3/D4, 60개 임플란트): 생체활성 나노표면 = ISQ 안정 유지(딥 없음) vs 전통표면 ISQ 30·45일 유의하게 감소; 생체활성군 조기 부하 가능성 증가.
 
