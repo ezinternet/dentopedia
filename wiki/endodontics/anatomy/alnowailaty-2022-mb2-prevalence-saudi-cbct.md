@@ -13,6 +13,9 @@ source_collection: external
 tags: [mb2, cbct, saudi, ethnic-variation]
 ---
 
+## One-line Summary
+Retrospective CBCT study (n=1,200 Saudi maxillary molars): MB2 prevalence was 46.7% in first molars and 17.7% in second molars (32.2% overall) — markedly lower than Chilean and many pooled SR estimates — with PMB1–PMB2 distance ~1.87 mm in first molars.
+
 ## 한줄요약
 Retrospective CBCT (n=1,200 Saudi maxillary molars): MB2 prevalence 1MM 46.7% / 2MM 17.7% — markedly lower than Chilean (69.8/46.9%) and many SR pooled estimates; PMB1-PMB2 1.87 mm (1MM).
 
