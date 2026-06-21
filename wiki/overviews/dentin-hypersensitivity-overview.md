@@ -28,6 +28,9 @@ relations:
 > - 한국 임상 workflow: 1회차 history+visual+bite test로 잠정진단, 2회차 4–8주 재평가로 escalate 결정; 환자 동의서·hygienist 체크리스트 포함.
 > - Gap: 옵션별 head-to-head RCT 부분적, Korean cohort 유병률·외래 분포 데이터 없음(JKDA는 narrative review).
 
+## One-line Summary
+Synthesis/overview page integrating dentin hypersensitivity (DH) evidence — the JKDA 2022 special-issue trio plus the adjacent noncarious cervical lesion (NCCL)/adhesive cluster and 11 laser/desensitizer/toothpaste papers added 2026-06 — into a Korean clinical decision framework. It covers (1) the Brännström hydrodynamic-theory mechanism (with a neuroplasticity/TRP-CGRP layer), (2) an outpatient treatment ladder (at-home → in-office sealing → restorative, "conservative first, escalate only if fails"), and (3) iatrogenic-DH prevention in Class II direct composite and NCCL restoration, where adhesive technique plus slow curing is key and the etch-and-rinse (long-term retention) vs self-etch (lower postop sensitivity) trade-off guides adhesive choice.
+
 ## 한줄요약
 시린이 (Dentin Hypersensitivity, DH) 통합 overview — JKDA 2022 특집 3편 + 인접 NCCL (Noncarious Cervical Lesion) 카테고리 통합. (1) Hydrodynamic theory 기반 메커니즘, (2) 외래 진단·치료 ladder (at-home → in-office sealing → restorative), (3) iatrogenic DH 예방 (Class II direct composite postop + NCCL restoration). 한국 임상 외래 의사결정 framework.
 
