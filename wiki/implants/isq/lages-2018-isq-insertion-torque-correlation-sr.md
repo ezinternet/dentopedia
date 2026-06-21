@@ -18,6 +18,9 @@ superseded_scope: full
 > [!warning] Superseded (full) → [[tisci-2026-isq-it-mbl-survival-sr-ma]]
 > 48-study SR+MA (pooled r=0.44, p<0.001, moderate significant) overturns this 12-study NS result (r=0.366, p=0.079). Prefer Tisci 2026 for the IT–ISQ correlation question. (set 2026-05-31)
 
+## One-line Summary
+PRISMA systematic review (12 studies): insertion torque (IT) and resonance frequency analysis (ISQ) show no statistically significant correlation (pooled Pearson r=0.366, p=0.079, LOW certainty) — IT and RFA measure independent biomechanical aspects and are not interchangeable; use one method per implant. (Superseded by Tisci 2026.)
+
 ## 한줄요약
 SR (12편, PRISMA): 삽입토크와 ISQ 간 유의한 상관관계 없음(r=0.366, p=0.079); 두 측정법은 독립적·비교 불가 — 임상 결정 시 한 가지 방법만 사용할 것 권고; 근거 확실도 낮음 (CIDRE 2018).
 
