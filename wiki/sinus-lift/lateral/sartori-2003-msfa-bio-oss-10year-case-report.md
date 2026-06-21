@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Single-patient case report with serial trephine biopsy histomorphometry at 8 months / 2 years / 10 years after Bio-Oss-only maxillary sinus floor augmentation (MSFA): bone tissue (incl. marrow space) increased 29.8% → 69.7% → 86.7% while Bio-Oss particles progressively resorbed (~70% → ~30% → ~13%) — a rare human long-term remodeling trajectory.
+
 ## 한줄요약
 단일 환자 case report — Bio-Oss 단독 MSFA 후 8개월 / 2년 / 10년 시점 trephine biopsy histomorphometry: 골조직(골수강 포함) 29.8% → 69.7% → 86.7%로 증가, Bio-Oss 입자는 점진적 흡수 — 10년 remodeling을 시간순으로 시각화한 교과서적 trajectory.
 
