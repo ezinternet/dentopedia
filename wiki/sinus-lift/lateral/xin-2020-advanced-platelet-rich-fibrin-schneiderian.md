@@ -13,6 +13,9 @@ source_collection: external
 tags: [a-prf, schneiderian-membrane, perforation, animal, dbbm, sinus-elevation]
 ---
 
+## One-line Summary
+Randomized animal study (n=24, 12/group) comparing advanced platelet-rich fibrin (A-PRF) vs absorbable collagen membrane (CM) for repair of an intentionally perforated Schneiderian membrane during lateral-window sinus elevation with DBBM grafting: A-PRF achieved a fully reconstituted membrane by 1 week, fewer inflammatory cells, and significantly more new osteoid at both 1 and 4 weeks (p<0.0001), supporting bioactive over purely barrier repair materials.
+
 ## 한줄요약
 동물 실험 (Animal Study, n=24, 1:1 무작위) — 상악동거상술 시 슈나이더 막 (Schneiderian Membrane, SM) 인위적 천공 후 진보된 혈소판 풍부 피브린 (Advanced Platelet-Rich Fibrin, A-PRF)이 흡수성 콜라겐 막 (Collagen Membrane, CM)보다 1주 시 막을 완전히 재형성하고, 1주·4주 모두 신생 골양조직 (Osteoid)이 유의하게 더 많이 형성되었다 (p<0.0001).
 
