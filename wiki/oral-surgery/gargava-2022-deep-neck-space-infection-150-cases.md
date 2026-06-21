@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Prospective observational study (n=150) of deep neck space infection (DNSI) at an Indian tertiary hospital: odontogenic origin is the leading etiology (42.66%), Ludwig's angina the most common space involved (24.66%), Streptococcus the dominant organism (31.33%); I&D required in 38% with emergency tracheostomy in airway-compromised cases.
+
 ## 한줄요약
 전향적 연구(n=150): 심경부 감염의 원인은 치성(42.66%)이 가장 많고, 루드비히 앙기나가 가장 흔한 침범 공간(24.66%)이며, 주요 원인균은 연쇄구균(31.33%), 절개배농 38%, 응급기관절개술 일부에서 시행.
 
