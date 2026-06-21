@@ -13,6 +13,9 @@ source_collection: external
 tags: [surface-modification, SLA, SLActive, osseointegration, hydrophilic, DCD, laser, growth-factors]
 ---
 
+## One-line Summary
+Comprehensive narrative review of dental implant surface modifications (SLA, super-hydrophilic SLActive, DCD, laser ablation, protein and growth-factor coatings) and their impact on osseointegration; identifies SLA and SLActive as clinical gold standards and reviews strategies for compromised bone (diabetes, osteoporosis, bisphosphonates, radiotherapy).
+
 ## 한줄요약
 서술적 고찰: SLA·SLActive·DCD·레이저·단백질·성장인자 코팅 등 임플란트 표면처리 종합 리뷰; 정상 및 전신 취약 골에서의 골유착 최적화 전략.
 
