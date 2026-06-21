@@ -13,6 +13,9 @@ source_collection: external
 tags: [peri-implantitis, treatment-protocol, flowchart, nonsurgical, surgical, surface-decontamination, SPT, antibiotics, GBR]
 ---
 
+## One-line Summary
+Narrative review (Yonsei/SNU/Sanz-Martín) proposing a phased peri-implantitis treatment protocol and flowchart modeled on EFP periodontitis step-care: classify failed (extract) vs failing implants, then nonsurgical debridement ± antibiotics, then defect-morphology-guided surgery (resective/access/reconstructive) with combined surface decontamination, followed by risk-based supportive peri-implant therapy (SPT).
+
 ## 한줄요약
 narrative-review(JPIS 2024;54:295-308, 연세대/서울대): 치주염 단계적 치료 틀 기반 임플란트 주위염 프로토콜 제안 — 실패vs실패중 분류→비수술(소파±항생제)→수술(절제·접근·재생: 결손 형태별)→SPT; 플로우차트 포함.
 
