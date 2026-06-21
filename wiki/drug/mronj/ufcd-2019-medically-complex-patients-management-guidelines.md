@@ -14,6 +14,9 @@ source_collection: external
 tags: [guideline, systemic-disease, ASA-classification, vasoconstrictor, anticoagulant, bisphosphonate, diabetes, hypertension, medical-consult, MRONJ, infective-endocarditis]
 ---
 
+## One-line Summary
+148-page institutional clinical practice guideline (University of Florida College of Dentistry) covering dental management of 23 systemic disease categories plus ASA classification, vasoconstrictor use, and medical-consultation indications — the most comprehensive single-source reference for medically compromised patient protocols (anticoagulants, bisphosphonate/MRONJ, diabetes, hypertension, infective endocarditis, prosthetic joints).
+
 ## 한줄요약
 UF 치과대학 임상 가이드라인(148쪽): 23개 전신질환 카테고리 × 치과 관리 프로토콜; ASA 분류; 혈관수축제 사용 지침; 의과 협진 적응증 — 가장 포괄적인 단일 레퍼런스 문서
 
