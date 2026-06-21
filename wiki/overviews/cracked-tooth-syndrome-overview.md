@@ -21,6 +21,7 @@ source: synthesis
 > - 양 입장 모두 교두피개 (full crown 또는 onlay) 는 endo 여부와 무관하게 standard로 동의 — 진짜 갈리는 질문은 "근관치료를 할 것인가"이다. [합의수준]
 > - 입장 차이는 sample population으로 부분 설명: Kaur/Ferracane은 전문진료·academic 환경 (deep crack·증상성 위주), Kwak은 일반 개원 (early/mild 비율 높음).
 > - 통합 결정: 자발통 또는 치근단 병변 (periapical pathology) → endo + crown (양측 일치); bite-only pain + 생활치수 (vital pulp) + 얕은 crack → 갈라짐 (환자 선호·임시 처치 후 재평가, Kwak 입장 우위).
+> - 수복 디자인 (Cluster 4, 2024–2025 신규): "덮느냐"는 이론 없음 (zhang 2024 — 무피개 direct는 발치 8–11×) 이나 "무엇으로"는 full crown → **보존적 간접수복 (onlay/inlay)** 로 이동 — wang 2025 RCT (인레이 > 크라운)·gavriil 2025 (onlay > crown). 잔존 치질이 적거나 다수 교두 침범이면 full crown 유지. 경증 vital case는 external splinting (12개월 치수생존 85%) 도 보존 카드.
 > - 한국 일차 임상 권장: Kwak의 보수적 framework을 default로 하되, 결정 trigger (자발통·치근단 병변·교두 동요 cuspal mobility) 발생 시 즉시 Kaur/Ferracane 입장으로 전환.
 > - 약점·gap: CTS는 primary RCT가 절대 빈약 ([미검증]) — umbrella·SR도 결국 동일 base에 의존하며, Kaur 2026 CCA 17% (중복 사용) 로 true heterogeneity 평가 한계, 5년+ 장기 cohort 부족.
 > - 환자 설명 framework: "crack은 시간이 지나면 split tooth로 진행 가능 → 교두 덮음이 진행 차단의 핵심 → 신경치료는 case-by-case → 정기 점검 필수" (Ferracane 3년 cohort 기반).
@@ -128,6 +129,21 @@ CTS overview의 가장 임상적으로 중요한 부분 — **endo 진입 여부
 
 ---
 
+## Cluster 4 — 수복 디자인: full crown vs 보존적 간접수복 (2024–2025 신규 근거)
+
+Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지를 답하지 않는다. 2024–2025 신규 4편 (SR+MA 3 + RCT 1)이 그 빈칸을 채우며, "full crown 최고"라는 단순 결론을 **gradient (보존적 간접수복 우위 가능성)**로 정련한다.
+
+| Paper | Type | 핵심 결과 | 방향 |
+|---|---|---|---|
+| [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] | sr+ma (27편) | 생활치 direct(무피개) vs full crown: 치수합병증 RR 3.2·발치 RR 8.1; 근관치료 균열치 무피개 시 발치 11.3× | cuspal coverage 필요성 **재확인** |
+| [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] | rct (n=106, 근관치료 후) | 포세린 인레이 > full crown — 성공률·통증(VAS 1/3/7d)·치은지수·저작효율·교합력 모두 우수 (P<0.05; 초록만·중국어) | full crown보다 **보존적 간접수복** |
+| [[cracked-tooth/gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp]] | sr+ma (14 코호트) | single vs multi-stage 치수생존 무차이; single+간접수복 치수성공 최고, **onlay > crown**, direct 열등, 임시기간 짧을수록(1–2주) 유리; 1년 치아생존 96–100% | 간접·onlay·신속 |
+| [[cracked-tooth/fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival]] | sr+ma (10편, 711치) | external splinting 12개월 치수생존 85% (CI 79–91), 교정밴드 미사용 89% vs 79%·direct 89% vs stepwise 81% | 경증 vital case **치수보존 보수옵션** |
+
+**Synthesis [claude해석]:** 신규 근거는 두 층위로 정리된다 — (1) **"덮느냐"는 이론(異論) 없음**: zhang 2024가 무피개 direct의 발치 위험(8–11×)을 정량화해 Cluster 3 합의를 강화. (2) **"무엇으로 덮느냐"는 full crown → 보존적 간접수복(onlay/inlay)으로 이동**: wang RCT와 gavriil SR-MA 모두 onlay/inlay가 full crown과 동등하거나 우수(치수성공·통증·기능)하면서 치질 보존이 크다. 단, wang은 *근관치료 후* 균열치(치질 손실 큼), gavriil은 *증상성 생활* 균열치 대상이라 적응증이 다르고 확실성 매우 낮음(very low GRADE). fiyaz-ghani의 splinting은 정상치수/가역성 치수염의 *임시·보존* 카드로, Kwak의 보수적 입장과 결이 같다. **임상 적용: 균열치 cuspal coverage의 default를 full crown에서 onlay/overlay(가능한 치질 보존)로 재설정하되, 잔존 치질이 적거나 다수 교두 침범이면 full crown을 유지한다.**
+
+---
+
 ## 한국 임상 적용 framework (Practical Workflow)
 
 ### 외래 1회차 (진단)
@@ -165,7 +181,7 @@ CTS overview의 가장 임상적으로 중요한 부분 — **endo 진입 여부
 - [근거강함] Raj 2025의 longitudinal fracture 5-type 분류 standard
 
 ### 약점·gap
-- [미검증] CTS primary RCT 절대 빈약 — umbrella·SR도 결국 동일 base에 의존
+- [부분보강 2026-06] CTS primary RCT 빈약 문제는 wang 2025 RCT(인레이 vs 크라운)와 zhang/gavriil/fiyaz-ghani SR+MA로 *부분* 해소 — 단 신규 SR-MA 다수가 abstract-only·very low GRADE certainty라 근거 질 한계는 지속
 - [claude해석] Kaur 2026 CCA 17%는 primary study 중복 사용 — true heterogeneity 평가 한계
 - [미검증] QLF의 균열치 specific RCT 부족 — Son 2024 review는 가능성 제시 단계
 - [미검증] Long-term (≥5년) cohort 부족 — Ferracane 3년이 가장 큼
@@ -179,7 +195,14 @@ CTS overview의 가장 임상적으로 중요한 부분 — **endo 진입 여부
 
 ---
 
-## Related Papers (본 overview에 통합된 8편)
+## Related Papers (본 overview에 통합된 13편)
+
+### 신규 추가 — 수복 디자인·치수보존 근거 (2026-06, 4편)
+
+- [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] — SR+MA (27편): 무피개 direct의 치수합병증·발치 위험 정량화 → cuspal coverage 필요성 재확인
+- [[cracked-tooth/wang-2025-crown-vs-porcelain-inlay-cracked-teeth-rct]] — RCT (n=106): 근관치료 후 균열치에서 포세린 인레이 > full crown (성공·통증·기능)
+- [[cracked-tooth/gavriil-2025-single-vs-multiple-stage-cracked-teeth-pulp]] — SR+MA (14 코호트): onlay > crown, single-stage+간접수복 치수성공 최고, 임시기간 짧을수록 유리
+- [[cracked-tooth/fiyaz-ghani-2025-cracked-teeth-external-splinting-pulp-survival]] — SR+MA (10편, 711치): external splinting 12개월 치수생존 85% — 경증 vital case 보존옵션
 
 ### 신규 추가 (2026-06)
 
