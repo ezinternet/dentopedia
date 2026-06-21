@@ -16,6 +16,9 @@ relations:
     target: zhang-2020-occlusal-splint-tmd-rct-sr
 ---
 
+## One-line Summary
+Cochrane systematic review (2024) of occlusal interventions for TMD: very low to low certainty (GRADE) evidence overall, with stabilization splints showing minimal benefit vs no treatment and no advantage over non-occluding splints, and a strong recommendation against irreversible occlusal modifications (grinding, crowns for TMD).
+
 ## 한줄요약
 Cochrane 체계적 문헌고찰(2024): 교합 중재(Occlusal Interventions)가 악관절증(TMD)에 미치는 효과의 근거 수준은 매우 낮음; 비가역적 교합 처치는 강하게 반대.
 
