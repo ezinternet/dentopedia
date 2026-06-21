@@ -13,6 +13,9 @@ source_collection: external
 tags: [peri-implant-mucositis, pmpr, chlorhexidine, local-antibiotics, probiotics, adjunctive-therapy]
 ---
 
+## One-line Summary
+Narrative review (Quintessence Int 2026; 9 RCTs, 414 patients) of adjuncts for peri-implant mucositis: professional mechanical plaque removal (PMPR) remains the gold standard, while chlorhexidine, local antibiotics, sodium hypochlorite, probiotics, and bioactive agents show within-group improvement but no consistent statistically significant added benefit over PMPR alone.
+
 ## 한줄요약
 Narrative review (Quintessence Int 2026, 9 RCTs / 414 patients): professional mechanical plaque removal (PMPR) remains the gold standard for peri-implant mucositis; chlorhexidine, local antibiotics, sodium hypochlorite, probiotics, and bioactive agents show within-group improvements but no consistent statistically significant added benefit over PMPR alone.
 
