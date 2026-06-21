@@ -14,6 +14,9 @@ source_collection: external
 tags: [implant-failure, implant-retrieval, removal-technique, counter-torque, trephine, piezo, bone-preservation, scoping-review]
 ---
 
+## One-line Summary
+Scoping review (Front Oral Health 2025) of implant failure and retrieval: bridges failure definition/classification with removal techniques (counter-torque/reverse-torque, trephine bur, piezo-surgery, combined), favouring minimally invasive bone-preserving approaches selected by failure type, location, and crestal bone architecture.
+
 ## 한줄요약
 Scoping review (Front Oral Health 2025, Manipal): 임플란트 실패 정의·분류 + 실패 임플란트 retrieval (제거) 기술 종합 — early/late, counter-torque vs trephine vs piezo, bone-preserving minimally invasive protocols.
 
