@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA (12 studies, 946 restorations, 1–7 year follow-up) comparing intracoronal indirect restorations of gold, lithium disilicate, leucite, and indirect resin composite: indirect resin composite showed higher failure rates, while gold and lithium disilicate had superior long-term longevity and leucite performed satisfactorily.
+
 ## 한줄요약
 SR+MA(12편, 946개 수복물, 1-7년): 교내 간접수복물 4재료 비교 — 간접레진 실패율 높음; 금·리튬디실리케이트 장기 생존율 우수; 루사이트도 양호
 
