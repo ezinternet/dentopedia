@@ -13,6 +13,9 @@ source_collection: external
 tags: [srp, scaling-root-planing, probing-depth, initial-probing-depth, clinical-attachment-level, chronic-periodontitis, non-surgical-treatment, multi-rooted, single-rooted, attachment-gain]
 ---
 
+## One-line Summary
+Prospective clinical study (JIUFD 2016; 15 chronic periodontitis patients, 1,672 pockets of 3–9 mm IPD) on initial probing depth (IPD) and SRP response: PD reduction was significant in all groups except IPD=3 mm and correlated positively with IPD; single-rooted teeth gained attachment (AG) significantly at all IPD ≥4 mm, whereas multi-rooted teeth showed significant AG only at IPD ≥7 mm.
+
 ## 한줄요약
 초기 탐침 깊이(IPD)와 SRP 치료반응 전향적 연구 (JIUFD 2016): 1,672포켓/15명; IPD=3mm 제외 전 군 PD 감소 유의; 단근치 부착획득(Attachment Gain, AG) 전 군 유의; 다근치 AG는 IPD≥7mm만 유의.
 
