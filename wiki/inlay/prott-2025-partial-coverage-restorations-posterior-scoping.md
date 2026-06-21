@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Scoping review of survival rates for posterior partial coverage restorations: ceramic inlays/onlays 5-year survival 93–96% (lithium disilicate highest), endocrowns 92–95%, resin composite 88–94% — ceramic comparable to full crowns.
+
 ## 한줄요약
 구치부 부분 피개 수복물(인레이·온레이·엔도크라운) 생존율 스코핑 리뷰 — 세라믹 93–96%, 엔도크라운 92–95%.
 
