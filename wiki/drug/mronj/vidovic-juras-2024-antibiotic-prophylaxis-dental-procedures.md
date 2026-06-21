@@ -14,6 +14,9 @@ source_collection: external
 tags: [antibiotic-prophylaxis, amoxicillin, infective-endocarditis, prosthetic-joint, immunocompromised, bisphosphonate, antibiotic-resistance]
 ---
 
+## One-line Summary
+2024 narrative review on antibiotic prophylaxis (AP) before dental procedures: indications have been significantly narrowed due to antibiotic-resistance concerns, with AP now reserved for high-risk infective endocarditis (the 4 AHA categories), immunocompromised patients, IV bisphosphonate/antiangiogenic therapy, and head/neck irradiation — prosthetic joint patients no longer routinely qualify (AAOS/ADA 2012); standard regimen amoxicillin 2g single pre-procedure dose.
+
 ## 한줄요약
 서술적 고찰(2024): 항생제 내성 우려로 예방적 항생제 적응증 대폭 축소; IE 고위험·면역저하·IV 비스포스포네이트·방사선 조사 환자에만 적용; 인공관절 환자는 더 이상 루틴 적응증 아님
 
