@@ -13,6 +13,9 @@ source_collection: external
 tags: [EAL, apex-locator, working-length, generations, accuracy, SR+MA]
 ---
 
+## One-line Summary
+SR+MA (15 studies) of electronic apex locator (EAL) accuracy across generations: fourth-generation multi-frequency devices (e.g., Apex ID, Raypex 6) achieved the highest working-length accuracy, with progressive improvement across successive generations; all generations stayed within clinically acceptable ±0.5mm.
+
 ## 한줄요약
 EAL 4세대 정확도 SR+MA(15개 연구): 4세대(multi-frequency) 최고 정확도, 세대 진보에 따라 점진적 개선.
 
