@@ -14,6 +14,9 @@ source_collection: external
 tags: [peri-implantitis, guided-bone-regeneration, titanium-mesh, digital-workflow, CAD-CAM, CBCT, OneGuide, re-implantation, zirconia]
 ---
 
+## One-line Summary
+Case report (44-year-old female): peri-implantitis + periodontitis managed by implant/tooth explantation → customized CAD/CAM titanium-mesh vertical GBR (autogenous bone + bovine HA, 9-month healing) → fully guided re-implantation (OneGuide, hydrophilic SOI implants) → monolithic zirconia, demonstrating a successful fully digital retreatment workflow.
+
 ## 한줄요약
 증례보고(44세 여성): 치주염+치주임플란트염 → 임플란트+치아 발거 → CAD/CAM 티타늄 메시 GBR(9개월) → 완전 가이드 임플란트 재식립(친수성 SOI) → 모노리식 지르코니아 — 완전 디지털 워크플로우 성공
 
