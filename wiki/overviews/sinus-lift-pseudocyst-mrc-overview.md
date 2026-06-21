@@ -25,6 +25,10 @@ source: synthesis
 > - ENT 협진 trigger: lesion >20mm + ostium 근접, 부비동 전체 침범 의심, 침습성·일측성 만성 sinusitis 동반.
 > - 한계: 20mm cut-off는 가설적(RCT validation 없음), transcrestal + AP/MRC RCT 없음, 한국 cohort·10년+ 대규모 cohort 부족.
 
+## One-line Summary
+
+Synthesis of 15 papers (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) into a unified decision framework for implant-directed sinus floor elevation in sinuses harboring an antral pseudocyst (AP) or mucous retention cyst (MRC). A 4-step decision tree — (0) diagnosis/differential, (1) risk appraisal (Anitua 2021 SR: no proven clinically significant risk, not an absolute contraindication), (2) treatment-option selection (removal vs aspiration vs no-treatment, stratified by subtype/size; one-stage immediate augmentation equals two-stage per Yu 2023 RCT), (3) long-term trajectory monitoring — anchored by 1-year (Berberi), 6-year (Silva), and 15-year untreated (Grün) datapoints, with the 20 mm size cut-off flagged as hypothetical pending RCT validation.
+
 ## 한줄요약
 상악동 점액낭종 (Antral Pseudocyst, AP)·점액저류낭종 (Mucous Retention Cyst, MRC) 동반 상악동거상술 + 임플란트 의사결정의 통합 framework — 15편 (1 SR + 1 RCT + 4 cohort + 7 case + 2 review) 종합. **4단계 결정 트리**: (0) 진단·감별 → (1) 위험 자체 평가 (Anitua 2021 SR: 임상적 유의 위험 미입증) → (2) 처치 옵션 결정 (제거·흡인·미처치 중 subtype·크기 기반) → (3) 장기 trajectory 모니터링. 1년 (Berberi)·6년 (Silva)·15년 (Grün) datapoint로 trajectory anchor.
 
