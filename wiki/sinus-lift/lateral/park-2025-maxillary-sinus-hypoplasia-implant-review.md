@@ -13,6 +13,10 @@ source_collection: external
 tags: [maxillary-sinus, sinus-hypoplasia, MSH, sinus-atelectasis, ethmomaxillary-sinus, CBCT, anatomy, implant-planning]
 ---
 
+## One-line Summary
+
+Narrative review (JPIS 2025;55:425-435) on maxillary sinus hypoplasia (MSH) describing three clinically relevant variants — chronic maxillary sinus atelectasis, inferior meatus pneumatization, and ethmomaxillary sinus — and their impact on sinus floor elevation planning; CBCT 3D imaging is mandatory for diagnosis.
+
 ## 한줄요약
 narrative-review(JPIS 2025;55:425-435): 상악동 저형성(MSH) 3가지 임상 변형(만성 무기폐·하비도 함기화·사골상악동) — 각 변형이 상악동거상술 계획에 미치는 영향; CBCT 3D 진단 필수.
 
