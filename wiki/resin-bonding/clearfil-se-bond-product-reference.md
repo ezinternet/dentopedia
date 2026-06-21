@@ -14,7 +14,7 @@ source_collection: internal-synthesis
 tags: [10-MDP, self-etch, universal-adhesive, product-reference]
 relations:
   - type: applies-to
-    target: jad-2024-tang-hema-bpa-free-universal-adhesives
+    target: tang-2024-hema-bpa-free-universal-adhesives-dentin
   - type: applies-to
     target: hurtado-2023-universal-adhesives-long-term-dentin
   - type: applies-to
