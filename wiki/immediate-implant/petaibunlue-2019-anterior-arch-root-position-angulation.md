@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective CBCT cross-sectional study (n=98 anterior arches) showing that combining anterior arch form with Kan-class sagittal root position (SRP) predicts root-to-bone angulation better than either variable alone (p<0.05), refining IIP planning in the maxillary esthetic zone.
+
 ## 한줄요약
 CBCT(n=98): anterior arch shape와 SRP의 조합이 root-to-bone angulation 예측력 ↑ — 단일 변수보다 두 변수 조합이 임상 의사결정에 유리.
 
