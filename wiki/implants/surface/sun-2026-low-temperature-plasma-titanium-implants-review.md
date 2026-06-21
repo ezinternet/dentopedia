@@ -13,6 +13,9 @@ source_collection: external
 tags: [titanium-implant, surface-modification, plasma, ltp, osseointegration, antibacterial]
 ---
 
+## One-line Summary
+Narrative review (Biomaterials Advances 2026) of low-temperature plasma (LTP) surface modification of titanium dental implants: LTP alters only outermost surface chemistry (reactive functional groups, increased wettability) without affecting bulk properties, enhancing osteoblast adhesion/proliferation/differentiation and reducing bacterial colonization, while plasma aging and lack of standardized parameters limit clinical translation.
+
 ## 한줄요약
 Narrative review (Biomaterials Advances 2026): low-temperature plasma (LTP) alters titanium surface chemistry without affecting bulk properties — increases wettability, introduces reactive functional groups, reduces initial bacterial adhesion, and enhances osteoblast adhesion/proliferation/differentiation; plasma-aging and clinical-translation barriers remain unresolved.
 
