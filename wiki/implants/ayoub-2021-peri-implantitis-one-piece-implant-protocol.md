@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Case series: a peri-implantitis management protocol specific to one-piece implants combining diode-laser decontamination of infected crestal bone, albumin-coated allograft, sticky bone, and platelet-rich fibrin (PRF), with documented clinical and radiographic improvement.
+
 ## 한줄요약
 증례 시리즈: 원피스 임플란트 치주염 관리 프로토콜 — 다이오드레이저 변연골 소독·알부민 동종골·스티키본·PRF 복합 적용; 임상·방사선적 평가
 
