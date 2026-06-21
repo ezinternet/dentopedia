@@ -13,6 +13,9 @@ source_collection: external
 tags: [dual-cure-cement, light-curing, self-curing, dentin, µTBS, durability, TheraCem, Nexus3, RelyX]
 ---
 
+## One-line Summary
+In-vitro study (Front Bioeng Biotechnol 2025) comparing 6 dual-cure resin cements × light-curing vs self-curing × 3 time points (24h/3mo/6mo) for µTBS to dentin: curing mode was the dominant variable (F=1237.5), with light-curing significantly improving both µTBS and long-term durability; Nexus 3 (N3) performed best overall and all dual-cure cements should be light-activated.
+
 ## 한줄요약
 in-vitro(Front Bioeng Biotechnol 2025): 이중경화형 레진시멘트 6종 × 광중합 vs 자가중합 × 3시점 — 광중합이 µTBS와 장기 내구성 유의하게 향상; N3(Nexus 3) 전반 최우수; 모든 이중경화 시멘트는 광조사 권장.
 
