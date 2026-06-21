@@ -52,6 +52,10 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 구강작열감증후군(Burning Mouth Syndrome, BMS): 단계적 protocol — 습관조절→타액대체→심리상담→Clonazepam 국소→아연(Lee 2024). 2차 원인(빈혈·DM·Sjögren·Candida) 감별 우선.
 > - Corticosteroid: 단기 적응(술후 부종·OLP·아프타) 좁게 유지, 만성 복용자 침습 처치 시 부신위기 case-by-case 고려(routine stress dose 비권고). 이식·면역저하 환자는 이식 전 치과 클리어런스 필수.
 
+## One-line Summary
+
+Synthesis of papers on dental management of medically compromised patients across four axes — disease-specific modification, drug-drug-interaction (DDI) screening, local-anesthetic vasoconstrictor safety, and HbA1c interpretation limits. Core thesis: controlled diabetes (HbA1c <7.0%) is not an implant contraindication (overall DM failure OR 1.78, T1DM OR 4.48), and 1:200,000 epinephrine matches 1:80,000 analgesia while being hemodynamically safer. Clinical takeaway: stratify implant decisions by HbA1c (but never trust HbA1c alone — Hb variants/anemia/CKD confound), screen elderly polypharmacy for DDIs (40.7% prevalence), and use only 1:100,000–200,000 epinephrine in pregnancy (felypressin contraindicated).
+
 ## 한줄요약
 전신질환 환자 치과 관리는 (a) DM·CVD·간·신 등 질환별 modification, (b) 약물상호작용 (Drug-Drug Interaction, DDI) 점검, (c) 국소마취제 vasoconstrictor 안전성, (d) HbA1c 해석 한계 인식의 4축. 조절 DM 임플란트는 정상 환자와 동등, 비조절 DM은 임플란트 실패 OR 1.78.
 
