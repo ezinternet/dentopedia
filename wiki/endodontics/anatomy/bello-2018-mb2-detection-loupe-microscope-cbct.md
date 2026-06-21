@@ -13,6 +13,9 @@ source_collection: external
 tags: [mb2, cbct, microscope, loupe, diagnostic-accuracy]
 ---
 
+## One-line Summary
+Ex-vivo diagnostic-accuracy study (n=147 extracted maxillary molars) comparing four MB2-detection methods against a sectioning reference standard: CBCT (sensitivity 0.88, specificity 0.88) and the 16× operating microscope were statistically equivalent to the reference standard, while 3.5× loupes and naked-eye clearly under-detected MB2.
+
 ## 한줄요약
 Ex-vivo diagnostic study (n=147 extracted maxillary molars): CBCT sensitivity 0.88 / specificity 0.88, statistically equivalent to 16× microscope and to the sectioning reference standard; loupe and naked-eye perform clearly worse.
 
