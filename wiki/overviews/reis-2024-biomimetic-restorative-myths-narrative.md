@@ -27,6 +27,10 @@ tags: [biomimetic-dentistry, brd, evidence-based, ids, deep-margin-elevation, ch
 > - 임상 takeaway: 특정 outcome에 대해 RCT 수준 근거가 없으면 BRD 주장을 회의적으로 보고, 잘 수행된 표준 접착치의학이 BRD outcome과 임상적으로 대등할 가능성이 큼.
 > - 가치: 사례보고·실험실 연구가 지배하는 BRD 문헌에서 드문 근거-회의적 목소리, 임상 의사결정의 counterweight 참조로 유용.
 
+## One-line Summary
+
+Critical narrative review (Reis/Loguercio group) evaluating 9 biomimetic restorative dentistry (BRD) protocols against RCT/SR-level evidence: only deep margin elevation (DME) is supported, while caries-detector dyes, aluminum-oxide air abrasion, posterior enamel beveling, "elected" gold-standard adhesives, time "decoupling", and pulpal-floor fiber inserts lack evidence of superiority over well-executed standard adhesive dentistry, and immediate dentin sealing (IDS) and chlorhexidine MMP-inhibition remain in-vitro-supported but clinically unproven.
+
 ## 한줄요약
 Reis/Loguercio 그룹의 BRD(Biomimetic Restorative Dentistry) 9개 프로토콜 비판적 narrative 리뷰: caries dye·알루미나 air abrasion·posterior bevel·CHX MMP 억제·"elected" 어드히시브·IDS·deep margin elevation·decoupling·fiber inserts 중 deep margin elevation만 임상 근거 있음, 나머지는 RCT/SR-수준 우월 근거 부족.
 
