@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/wang-2024-association-between-halitos
 pdf_filename: wang-2024-association-between-halitosis-and.pdf
 source_collection: external
 tags: [halitosis, periodontitis, volatile-sulfur-compounds, organoleptic-test, meta-analysis]
+relations:
+  - type: reinforces
+    target: silva-2017-periodontitis-associated-with-halitosis
 ---
 
 ## One-line Summary
