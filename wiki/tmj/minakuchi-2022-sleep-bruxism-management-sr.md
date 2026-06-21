@@ -13,6 +13,9 @@ source_collection: external
 tags: [sleep-bruxism, occlusal-splint, biofeedback, botulinum-toxin, polysomnography]
 ---
 
+## One-line Summary
+Systematic review (Okayama University, 2022) of adult sleep bruxism management: occlusal splints protect teeth but do not reduce bruxism episode frequency, biofeedback has the strongest evidence for reducing episodes, botulinum toxin (BTX) lowers muscle activity/pain but is equivocal for episode frequency, and no current treatment permanently eliminates sleep bruxism.
+
 ## 한줄요약
 오카야마대 SR: 수면이갈이(Sleep Bruxism) 성인 관리에서 교합안정장치는 이갈이 자체를 줄이지 않고 치아를 보호할 뿐; 바이오피드백이 이갈이 빈도 감소에 가장 높은 근거 수준.
 
