@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and meta-analysis pooling CBCT-based alveolar bone thickness measurements from healthy maxillary and mandibular dentitions: anterior teeth carry the thinnest buccal plates (often ≤1 mm), with thickness increasing posteriorly, and no consistent gender or smoking association — supporting buccal-plate reinforcement before anterior immediate implant placement.
+
 ## 한줄요약
 SR+MA: 건강한 치아의 협측 치조골은 전치부에서 가장 얇고(평균 ≤1 mm 다수), 후방으로 갈수록 두꺼워짐 — 성별·흡연은 일관된 연관성 없음. 전치 즉시식립 시 buccal plate 보강 전제 권고.
 
