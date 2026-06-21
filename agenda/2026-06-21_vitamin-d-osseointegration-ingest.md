@@ -2,7 +2,7 @@
 title: "비타민 D × 임플란트 골유착 논문 감시·인제스트"
 type: agenda
 date: 2026-06-21
-status: in-progress
+status: done
 owner: 원장
 tags: [vitamin-d, osseointegration, implants, ingest]
 source_wiki:
@@ -42,7 +42,7 @@ PubMed MCP 검색 (query: vitamin D AND dental implant/osseointegration/implant 
 
 # Done Criteria
 
-- [ ] 8편 sources/ + wiki/ 작성 (bilingual 한줄요약 · Why Ingested · relations)
-- [ ] index.md 8항목 추가
-- [ ] lint.py + orphan-check.py 통과
-- [ ] per-file commit + push + qmd embed (ingest-one.py --finish ×8)
+- [x] 8편 sources/ + wiki/ 작성 (bilingual 한줄요약 · Why Ingested · relations)
+- [x] index.md 8항목 추가
+- [x] lint.py + orphan-check.py 통과
+- [x] per-file commit + push + qmd embed (ingest-one.py --finish ×8)
