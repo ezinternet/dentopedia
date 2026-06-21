@@ -13,6 +13,9 @@ source_collection: external
 tags: [universal-adhesive, dentin-bonding, mmp-inhibitor, scrubbing, ethanol-wet-bonding, selective-etching]
 ---
 
+## One-line Summary
+In-vitro SR+MA of 61 studies on strategies to improve universal adhesive bond strength to dentin: ten strategies significantly increased bond strength (prior MMP inhibitor, prolonged application, scrubbing, selective dentin etching, non-atmospheric plasma, ethanol-wet bonding, prolonged air-blowing, multiple layers, prolonged curing, hydrophobic overlay), while shortened application time and pre-bonding dentin desensitizers significantly reduced it.
+
 ## 한줄요약
 유니버설 접착제의 상아질 결합강도를 높이는 전략 in vitro SR/MA (61편): MMP 억제·길게 도포·scrubbing·선택적 산부식·플라즈마·에탄올 습윤본딩·길게 air-blow·다층 도포·길게 광중합·hydrophobic overlay가 효과적, 짧게 도포·상아질 desensitizer는 결합강도↓.
 
