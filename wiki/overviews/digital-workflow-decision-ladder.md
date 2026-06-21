@@ -27,6 +27,10 @@ tags: [digital-workflow, intraoral-scanner, cad-cam, guided-surgery, ai, llm, de
 > - CBCT 기반 상악동 부피 자동측정(Luz 2018, SMOP)은 sinus lift 계획에 직접 활용 가능하나 측정 정확도 cross-validation 필요.
 > - 확신도 등급: IOS·CAIS = [근거강함](다수 SR+NMA), AI 진단 정확도·LLM = [합의수준](대부분 retrospective+narrative, 단일 SR+MA).
 
+## One-line Summary
+
+Synthesis decision-ladder over 28 digital-dentistry papers organized on four axes — intraoral scanner (IOS) accuracy, computer-assisted implant surgery (CAIS), AI diagnostics, and LLM patient communication. Core thesis: IOS is the clinical standard for single crowns/short spans but accuracy degrades on full-arch/edentulous; CAIS (dynamic or full-static) beats freehand for immediate/esthetic/multiple implants; AI and LLM are diagnostic/educational aids only (clinician review mandatory, no patient-identifying data, no autonomous treatment decisions). IOS/CAIS rest on strong SR+NMA evidence; AI/LLM are consensus-level.
+
 ## 한줄요약
 
 디지털 치의학 4축 — 구강내 스캐너 (IOS) 정확도·컴퓨터지원 임플란트 외과 (CAIS)·AI 임상 적용·LLM/ChatGPT 환자 응답. Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
