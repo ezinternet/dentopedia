@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective Korean NHIS Health Checkup Cohort analysis (n=63,880, age 75): claimed dental-implant utilization rose across coverage phases (3.4% → 6.3% → 7.0%), with higher phase giving ~1.9× implant odds and annual oral-exam attenders ~2× more likely to receive an implant.
+
 ## 한줄요약
 NHIS Health Checkup Cohort 분석(n=63,880, 75세 대상): 임플란트 급여 이용률 Phase 1 3.4% → Phase 2 6.3% → Phase 3 7.0%로 지속 상승. 연 1회 구강검진자는 임플란트 시술 가능성 2배. 정책 결정 시 청구 추이·요인 검토 필요.
 
