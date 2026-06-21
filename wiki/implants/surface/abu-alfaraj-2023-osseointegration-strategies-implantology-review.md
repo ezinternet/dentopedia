@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseointegration, surface, biologics, PRF, growth-factors, implant-design, digital-workflow]
 ---
 
+## One-line Summary
+Cross-disciplinary narrative review (Cureus 2023) of strategies for optimizing osseointegration: synthesizes implant macro-/micro-geometry (tapered favored in soft bone), surface modifications (SLA/SLActive gold standard, emerging nanotopography), systemic modulators (diabetes, smoking, osteoporosis), biologic adjuncts (PRF, PRP, BMP-2, PDGF), and CBCT-guided digital workflow.
+
 ## 한줄요약
 다학제 서술적 고찰(Cureus 2023): 골유착 최적화 전략 — 임플란트 설계·표면처리(SLA/나노)·전신인자·생물학적 보조제(PRF·BMP-2)·디지털 워크플로우 종합.
 
