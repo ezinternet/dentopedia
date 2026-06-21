@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative literature review of recurrent aphthous stomatitis (RAS) treatment: topical corticosteroids (triamcinolone, clobetasol) remain the gold standard for pain and healing-time reduction, with low-level laser therapy (LLLT) a safe effective adjunct and chlorhexidine giving modest reduction in ulcer frequency.
+
 ## 한줄요약
 RAS 치료 문헌 고찰 — 국소 스테로이드·항균제·NSAIDs·LLLT 효과 비교.
 
