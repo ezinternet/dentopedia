@@ -13,6 +13,9 @@ source_collection: external
 tags: [ISQ, RFA, Osstell, Periotest, damping-capacity, implant-stability, diameter]
 ---
 
+## One-line Summary
+Clinical trial (213 one-stage implants, 65 patients) comparing Osstell RFA (ISQ) head-to-head with Periotest damping-capacity assessment (PTV): ISQ 57.66±8.19 vs PTV −5.08±2.02, inversely correlated (Pearson −0.64); Osstell is more precise (single-measure ICC 0.99 vs 0.88); implant diameter correlated significantly with both measurements while length did not.
+
 ## 한줄요약
 임상시험(213 임플란트, 65명): **Osstell ISQ vs Periotest PTV** 직접 비교 — ISQ 57.66±8.19, PTV -5.08±2.02; 상관 -0.64; ICC Osstell 0.99 vs Periotest 0.88 — **Osstell이 더 정밀**; 임플란트 직경은 두 기법 모두 유의, 길이는 무관.
 
