@@ -13,6 +13,10 @@ source_collection: external
 tags: [cbct, sinus-perforation, schneiderian-membrane, lateral-window, risk-factors]
 ---
 
+## One-line Summary
+
+Retrospective CBCT case-control study (n=39 CBCT scans, study vs control by intraoperative perforation status) of lateral-window maxillary sinus augmentation (MSA): of 11 anatomic parameters, only maxillary sinus floor width was statistically significant (p<0.05, narrower in the perforation group); thin sinus floor, retention pseudocyst, septae, concave floor, and triangular sinus shape were trend-level risk patterns proposed as a preoperative CBCT Schneiderian-membrane perforation checklist.
+
 ## 한줄요약
 후향적 환자-대조 (Retrospective case-control, n=39 CBCT): 측방 접근 (Lateral Window) 상악동 거상술 (Maxillary Sinus Augmentation, MSA) 시 슈나이더 막 (Schneiderian Membrane, SM) 천공의 원뿔빔 전산화 단층 촬영 (Cone-Beam Computed Tomography, CBCT) 예측 인자 — 얇은 상악동저, 잔류 가성낭종 (Retention Pseudocyst), 격벽 (Septae), 오목한 sinus floor, 삼각형 sinus shape; 통계적 유의성은 **MS floor width** 만 도달 (p<0.05).
 
