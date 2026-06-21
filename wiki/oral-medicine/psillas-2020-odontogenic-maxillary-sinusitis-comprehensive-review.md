@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Comprehensive narrative review of odontogenic maxillary sinusitis (OMS): ~30% (up to 51.8%) of unilateral maxillary sinusitis has a dental cause, most commonly dentoalveolar surgery/OAF, apical periodontitis, and implants; maxillary 2nd/1st molars are anatomically closest to the sinus floor, and treatment combines dental cause elimination with functional endoscopic sinus surgery (ESS) via a multidisciplinary ENT-dental team.
+
 ## 한줄요약
 서술 고찰 (아리스토텔레스대, 그리스): 단측 상악동염의 약 30%가 치성 원인; 가장 흔한 원인은 발치·치성감염·OAF; 치과 수술 + 기능적 내시경 부비동 수술(ESS) 병행이 표준; ENT-치과 다학제팀 필수.
 
