@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Network meta-analysis (16 RCTs, 2158 patients, 2428 lower third molars) of antibiotic prophylaxis (amoxicillin ± clavulanate, metronidazole, azithromycin, clindamycin) after lower third molar extraction: prophylaxis statistically reduces dry socket (NNT=25) and surgical site infection (NNT=18), but the high NNT plus adverse-effect/resistance concerns argue against routine use in healthy, low-risk patients.
+
 ## 한줄요약
 네트워크 메타분석(16 RCT, 2158명): 하악 제3대구치 발치 후 항생제 예방투여 (Antibiotic Prophylaxis)는 건조치조염 (Dry Socket)과 수술부위감염 (Surgical Site Infection, SSI) 위험을 통계적으로 유의하게 감소시키나, 치료 필요 수(NNT)가 각각 25·18로 높아 건강한 환자에서 일상적 처방은 권장되지 않음.
 
