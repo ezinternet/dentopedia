@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, ISQ, RFA, bone-density, primary-stability, osteotomy, SR]
 ---
 
+## One-line Summary
+Systematic review (PubMed/Scopus/EMBASE/Cochrane/EBSCO, Jan 2013–Dec 2022): most included studies showed osseodensification (OD) drilling yielded significantly higher primary implant stability (ISQ/RFA) and bone density than conventional drilling, but the included RCTs carried HIGH overall risk of bias (RoB 2), limiting confidence and signaling the need for well-designed low-RoB RCTs.
+
 ## 한줄요약
 SR (Cureus 2023, PubMed/Scopus/EMBASE/Cochrane, 검색 Jan 2013–Dec 2022): 다수 연구에서 골밀도화(OD) 드릴링이 기존 방식 대비 ISQ·골밀도 유의하게 높음; 단, 포함 RCT들의 비뚤림위험(RoB 2) 전반적으로 높아 강한 결론 주의 요망.
 
