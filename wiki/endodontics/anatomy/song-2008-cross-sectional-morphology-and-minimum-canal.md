@@ -14,6 +14,9 @@ tags: [C-shaped-canal, root-canal-anatomy, cross-sectional-analysis, mandibular-
 ---
 
 
+## One-line Summary
+Cross-sectional anatomical morphology study of C-shaped canals in mandibular molars (30–50% prevalence in Asian populations): the canal wall lies very close to the external root surface at the buccal concavity/central-C groove, leaving minimum dentin thickness and high perforation risk, so conservative, anatomy-adapted instrumentation is required.
+
 ## 한줄요약
 C형 근관 아시아인 30–50% 유병률; 협측 오목부 최소 상아질 두께 → 천공 고위험; 보존적 기구조작 필수
 
