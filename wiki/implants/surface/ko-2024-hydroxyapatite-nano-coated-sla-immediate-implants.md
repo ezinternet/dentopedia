@@ -13,6 +13,9 @@ source_collection: external
 tags: ['HA nano-coating', 'SLA', 'immediate placement', 'maxillary posterior', 'ISQ', 'guided surgery']
 ---
 
+## One-line Summary
+Single-blind RCT (n=40, Seoul National University) comparing HA nano-coated SLA vs uncoated SLA implants in maxillary posterior immediate placement via guided surgery, evaluating ISQ, volumetric changes, and PROMs; HA nano-coating trended toward better stability recovery and volumetric stability.
+
 ## 한줄요약
 단일맹검 RCT (n=40, SNU 서울대): 상악 구치부 즉시식립 시 HA 나노코팅 SLA 임플란트 vs 무코팅 SLA — ISQ·volumetric changes·PROMs 평가; 가이드 수술 적용.
 
