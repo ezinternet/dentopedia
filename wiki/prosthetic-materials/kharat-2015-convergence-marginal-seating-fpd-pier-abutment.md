@@ -13,6 +13,9 @@ source_collection: external
 tags: [convergence-angle, marginal-fit, FPD, pier-abutment, multi-unit, cast-metal, jcdr]
 ---
 
+## One-line Summary
+In vitro study (4 convergence angles 0°/6°/12°/20° × single crown, 3-unit FPD, and multi-unit FPD with pier abutment) of marginal seating: extends convergence-angle research to multi-unit FPDs, showing the convergence-angle × FPD-configuration interaction and that pier-abutment cases require careful convergence management.
+
 ## 한줄요약
 in-vitro (J Clin Diagn Res 2015;9(7):ZC56-60, Triveni India): 0°·6°·12°·20° 수렴각 × 단일 크라운/3유닛 FPD/pier abutment 다유닛 FPD 변연 안착 평가; 수렴각이 클수록 단일은 안착 양호, 다유닛은 수렴각·구성 상호작용이 복잡.
 
