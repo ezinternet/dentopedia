@@ -14,6 +14,9 @@ source_collection: external
 tags: [immediate-implant, periapical-pathology, chronic-periapical-lesion, GBR, sinus-lift, retrospective, BMC, Turkey]
 ---
 
+## One-line Summary
+Retrospective study (Turkey, BMC Oral Health 2023, 69 patients / 124 implants) comparing survival of immediate implants placed in extraction sockets with chronic periapical pathology across three strategies — G1 immediate placement alone, G2 immediate + GBR, G3 sinus lift + immediate — providing evidence that immediate placement in chronic periapical lesion sockets is feasible with appropriate debridement and augmentation.
+
 ## 한줄요약
 Turkey 후향 연구 (BMC Oral Health 2023, Çolak n=69 환자/124 implants): 만성 근첨병변 (chronic periapical pathology) 발치 소켓에 즉시 식립 — 3 그룹 (G1 즉시 식립, G2 즉시+GBR, G3 sinus lift+즉시) 생존율 비교. 만성 근첨병변 즉시 식립의 contributing 임상 근거.
 
