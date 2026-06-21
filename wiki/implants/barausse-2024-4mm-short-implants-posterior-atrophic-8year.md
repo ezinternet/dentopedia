@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective study (n=212 patients, 496 implants, mean 8.02-year follow-up) of 4-mm short implants in posterior atrophic jaws: 95.36% survival (CI 93.12–97.04). Maxillary placement raised failure (p=0.02), more frequent hygiene sessions lowered it (p<0.001), and MBL stayed minimal (0.47 mm at 1y → 0.59 mm at 10y) — 4-mm short implants are a stable long-term option for posterior vertical atrophy.
+
 ## 한줄요약
 4mm short implant 후향 연구(n=212명, 496 implants, 평균 8년): survival 95.36% (CI 93.12–97.04). 상악 실패율 ↑(p=0.02), 정기 hygiene 세션 많을수록 실패율 ↓(p<0.001). 1년 MBL 0.47mm → 10년 0.59mm. 후방 위축악 재활에서 4mm short implant는 장기간 안정적 옵션.
 
