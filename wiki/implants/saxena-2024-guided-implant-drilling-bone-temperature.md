@@ -13,6 +13,9 @@ source_collection: external
 tags: [guided-surgery, osteotomy, heat-generation, irrigation, thermal-necrosis, systematic-review, digital-workflow]
 ---
 
+## One-line Summary
+Systematic review (Cureus 2024; 11 studies) of guided vs non-guided implant osteotomy temperature: guide sleeves obstruct external irrigation and raise peak bone temperature (guided ≥ non-guided in all studies), mostly below the 47°C necrosis threshold but with documented breaches at 1500–2000 RPM, with chilled (10°C) saline the most consistent mitigation.
+
 ## 한줄요약
 체계적 고찰(Cureus 2024, 11편): 가이드 드릴링이 비가이드 대비 골내 온도 유의하게 더 상승 — 슬리브가 cooling saline 도달을 차단; 대부분 47°C 미만이지만 1500–2000 RPM 가이드 setting에선 괴사역치 초과 사례 존재. 차가운 saline(10°C)이 가장 일관된 완화책.
 
