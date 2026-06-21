@@ -13,6 +13,10 @@ source_collection: external
 tags: [coronectomy, third-molar, IAN, nerve-injury, oral-surgery]
 ---
 
+## One-line Summary
+
+Systematic review of 16 studies (2,176 coronectomy cases) reporting an inferior alveolar nerve (IAN) injury rate of only 0.59% (vs 0.5–8% for complete extraction), lingual nerve injury 0.22%, infection 3.95%, dry socket 1.12%, and root re-extraction in 5.28%; concludes coronectomy is a safe and feasible alternative when third molar roots contact the IAN, though most included studies were of low methodological quality.
+
 ## 한줄요약
 SR 16편 2,176례: 부분 치관절제술(관상절제술)의 하치조신경 손상률 0.59% — 하치조신경 근접 하악 제3대구치에서 안전하고 실행 가능한 대안 술식.
 
