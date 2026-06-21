@@ -13,6 +13,9 @@ source_collection: external
 tags: [CBCT, sinus-septa, Underwood-septa, lateral-window, perforation-risk, classification, Turkish-cohort]
 ---
 
+## One-line Summary
+Retrospective cross-sectional CBCT study (300 individuals) of maxillary sinus septa found 91.7% were mediolateral and 40.0% located in the premolar region; using a modified seven-class radiographic risk system, predicted Schneiderian membrane (SM) perforation risk was most often Class I (33.0%) and Class III (32.7%), with septum location significantly associated with predicted risk (p<0.001) while posterior dentition status and septum orientation were not.
+
 ## 한줄요약
 콘빔 전산화 단층촬영 (Cone Beam Computed Tomography, CBCT) 후향 분석 (300명): 상악동 격벽은 91.7%가 내외측 (mediolateral) 방향이고 40.0%가 소구치 영역에 위치, 변형 7급 방사선학적 위험 분류 상 슈나이더리안 막 (Schneiderian Membrane, SM) 천공 위험 1급 33.0%·3급 32.7%가 가장 흔함. 격벽 위치는 위험과 유의한 연관 (p < 0.001), 잔존 치아 수 및 격벽 방향은 무관.
 
