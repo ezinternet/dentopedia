@@ -13,6 +13,9 @@ source_collection: external
 tags: [composite, longevity, posterior, failure-rate, systematic-review]
 ---
 
+## One-line Summary
+Systematic review (8 prospective trials, 62,030 restoration-months) of posterior resin composite longevity in adults: overall failure incidence was 1.55 lost restorations per 100 restoration-years, with secondary caries the most common biological failure cause (often appearing after 3 years); evidence quality rated low.
+
 ## 한줄요약
 성인 구치부 복합레진 SR (8편, 62,030 수복-월): 전체 실패 발생률 **1.55/100 수복-년**, 이차우식이 주요 실패 원인.
 
