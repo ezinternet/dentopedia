@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review of immediately placed and immediately loaded single-tooth implant restorations: 5-year survival 97.1%, 1-year marginal bone loss (MBL) −0.32 mm, anterior pink esthetic score (PES) 7.2; ISQ ≥70 and insertion torque ≥35 N·cm recommended for immediate loading, with buccal bone grafting associated with better MBL stability.
+
 ## 한줄요약
 즉시식립+즉시부하 단일치 임플란트 SR — 5년 생존율 97.1%, MBL -0.32mm(1년), 전치부 PES 7.2.
 
