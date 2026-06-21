@@ -13,6 +13,9 @@ source_collection: external
 tags: [statistical-test-selection, t-test, anova, regression, cox-regression, korean, biostatistics]
 ---
 
+## One-line Summary
+Korean-language statistical-test-selection guide (J Korean Med Assoc 2012) presenting a "which test do I use?" flowchart driven by dependent-variable measurement scale, sample dependency (paired vs independent), and number of independent variables — covering t-test/ANOVA families, non-parametric analogues, chi-square, log-rank, and multivariable/logistic/Cox regression.
+
 ## 한줄요약
 연세의대 예방의학·의학통계학과 (남정모·정수연)의 한국어 통계검정 선택 가이드 (JKMA 2012): 종속변수 척도 + 표본 의존성 + 독립변수 수에 따라 t-test/ANOVA/비모수/카이제곱/log-rank/다중·로지스틱·Cox 회귀 어느 것이 맞는지 가상 시나리오로 정리.
 
