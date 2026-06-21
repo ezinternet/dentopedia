@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, keratinized-tissue, soft-tissue, animal, dose-response]
 ---
 
+## One-line Summary
+
+Canine preclinical study (5 dogs, 20 buccally positioned implants) comparing FGG vs XCM vs XCM+PDRN 2 mg/mL vs 4 mg/mL for keratinized-tissue (KT) regeneration: PDRN 2 mg/mL approached FGG on histomorphometric KT outcomes with no added benefit from 4 mg/mL, but FGG still produced the greatest clinical KT height.
+
 ## 한줄요약
 
 Canine 5마리 buccally positioned implant 모델에서 FGG/XCM/XCM+PDRN 2mg/4mg 비교. PDRN 2 mg/mL이 FGG와 비슷한 KT 형성을 보였으나 FGG가 clinical KT height에서 여전히 우위. 4 mg/mL은 추가 이득 없음.
