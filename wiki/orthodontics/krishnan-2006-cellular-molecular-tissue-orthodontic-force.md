@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Comprehensive narrative review integrating cellular, molecular, and tissue-level reactions to orthodontic force: the pressure-tension theory updated with cytokine and molecular signaling (IL-1β, TNF-α, PGE₂, substance P, CGRP, RANKL/OPG axis), where pressure-side osteoclast activation drives resorption and tension-side osteoblast activation drives bone apposition; optimal force remodels bone without vascular occlusion while heavy force causes hyalinization and delayed movement.
+
 ## 한줄요약
 교정력 반응 포괄 고찰 — 압박측 파골세포·장력측 조골세포 활성, 사이토카인(IL-1β·TNF-α·PGE₂) 신호.
 
