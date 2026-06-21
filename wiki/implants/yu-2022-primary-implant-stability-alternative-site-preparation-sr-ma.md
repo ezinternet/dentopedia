@@ -13,6 +13,9 @@ source_collection: external
 tags: [systematic-review, meta-analysis, ISQ, primary-stability, osseodensification, osteotome, piezosurgery, under-drilling, low-density-bone]
 ---
 
+## One-line Summary
+Four-arm systematic review + meta-analysis (17 studies, 12 RCTs) of alternative implant-site preparations vs conventional drilling by primary ISQ: osseodensification (OD) +10.25 ISQ (95% CI 4.97–15.52), osteotome +6.34, under-drilling +11.43 (all significant), piezosurgery +1.50 (NS); the OD subgroup is only 3 small studies with a wide CI, so the large OD estimate is likely magnitude-inflated (cf. Marzorati 2026 OD MD +3.24).
+
 ## 한줄요약
 체계적 문헌고찰 + 메타분석 (Meta-Analysis), 17 연구 (12 RCT) — 골밀도화 (Osseodensification, OD) ISQ +10.25, osteotome +6.34, under-drilling +11.43 (all 유의), piezosurgery +1.50 (비유의). OD 서브그룹은 3 연구뿐이며 신뢰구간이 넓고 (4.97–15.52), 추후 Marzorati 2026 SR이 더 엄격한 inclusion으로 OD 효과를 +3.24로 보고 — Yu의 OD 추정치는 과대평가 가능성.
 
