@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Prospective cohort study showing that labial bone thickness significantly affects PES/WES esthetic outcomes after immediate implant placement + provisionalization (IIPP) in the esthetic zone, with a clinically meaningful inflection around the 1–2 mm labial plate threshold.
+
 ## 한줄요약
 전향적 cohort: IIPP 시 labial bone thickness가 esthetic outcome(PES/WES)을 유의하게 좌우 — 1–2 mm 권고가 임상적으로 정당화되는 근거.
 
