@@ -13,6 +13,9 @@ source_collection: external
 tags: [zirconia, saliva-contamination, ivoclean, air-abrasion, self-adhesive-cement, MDP, bond-strength]
 ---
 
+## One-line Summary
+In vitro shear bond strength study (Indian J Dent Res 2017; saliva-contaminated zirconia, 4 cleaning protocols × 2 resin cements): air abrasion gave the highest SBS, Ivoclean outperformed water rinsing, and self-adhesive MDP-containing cement exceeded conventional resin cement across all cleaning groups.
+
 ## 한줄요약
 in-vitro(Indian J Dent Res 2017): 타액오염 지르코니아 4가지 세정×2종 시멘트 — 에어어브레이전 최고 SBS; Ivoclean > 수세; 자가접착형 MDP 시멘트 > 일반 레진시멘트.
 
