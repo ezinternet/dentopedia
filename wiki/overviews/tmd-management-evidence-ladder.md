@@ -28,6 +28,10 @@ tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, 
 > - **편측저작 축(축 10)**: 습관저작측 = TMD 통증측(Kappa=0.767), 위험비 4.5 (Santana-Mora 2021); 이명 동반 TMD에서 편측저작 선호(CSP) 유병률 90.7% vs 76.0%, 이명측=저작측 동측성 (Ma 2025); 후방 과두 위치 단독은 신뢰할 TMD 지표 아님 (Ma 2022, p=0.054 trend); 하악 편위 환자는 비편위측 단독 저작이 TMJ 응력 최고 → 양측/편위측 저작 권고 (Zheng 2025 FEA, 소규모).
 > - **확신도**: 역학·비약물 보존·BMJ NMA = 근거강함; 약물·arthrocentesis·이갈이·OA·QoL = 합의수준; 편측저작·과두·이명 = 합의수준-하(단면+동물+FEA, 인과 미확인).
 
+## One-line Summary
+
+Synthesis of 32 temporomandibular disorder (TMD) papers (27 SR+MA/guideline + 5 on unilateral chewing/condyle morphology/tinnitus) organized into a 10-axis management ladder placing conservative, non-pharmacological care first and irreversible occlusal therapy last. Highest-certainty treatments (Yao 2023 BMJ NMA, 233 RCTs) are CBT+biofeedback, therapist-assisted jaw mobilization, and manual trigger-point therapy; splints equal or trail exercise; occlusal adjustment is unsupported (Cochrane 2024); pharmacotherapy is low-GRADE adjunctive; and arthrocentesis is reserved for conservative failure. Added axes cover myogenous TMD, quality-of-life, occlusal vertical dimension, and a chewing-side-preference → condyle/tinnitus mechanical-neural risk axis.
+
 ## 한줄요약
 
 TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편 통합(2026-06-15 업데이트). BMJ NMA 2023 (233 RCT, 59 개입): CBT+운동·하악 가동화 최우수 → 약물 낮은 근거 → arthrocentesis 보존 실패 시. 근육형 TMD 특화·QoL 정량화·MAD/VD 축 신설. 편측저작 → 과두 위치·형태 변화·이명(동측) 상관 5편 추가(축 10).
