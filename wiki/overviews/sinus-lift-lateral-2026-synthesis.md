@@ -24,6 +24,10 @@ source: synthesis
 > - **술전 만성부비동염이 막천공보다 우선하는 감염 예방 변수** — Kozuma 2017: 121-sinus 코호트의 합병증 8건(6.6%) 전부가 만성부비동염 양성군에서 발생. 부비동 clearance가 측방거상술 전 필수.
 > - 두꺼운 점막(<10mm)은 금기 아님 — Khiabani 2024에서 6개월 후 3.4mm로 정상화, 비부비동염 0건(단 술중 출혈·거상 저항↑ 예상). 술후 일시적 상악동 자연공(MSO) 협착(1주 19.4%)은 정상 생리이지 부비동염 아님(Sakuma 2020).
 
+## One-line Summary
+
+A 2026 synthesis of 37 wiki pages on lateral-window maxillary sinus floor elevation (SFE), organized into 5 clusters: Schneiderian membrane perforation repair, preoperative perforation prediction (anatomy/CBCT/behavior), procedural variants and timing, sinusitis prevention/management, and graft-material/PRF selection. Core theses: a competently repaired perforation is not a contraindication to implant placement (implant loss ~4%, OR 1.35 NS); septa and mucous retention cysts are the dominant anatomical perforation predictors while smoking is the dominant modifiable one; preoperative chronic sinusitis outranks membrane perforation as the infection-prevention priority; and PRF added to DBBM reliably improves histomorphometric new bone (+7–12%) without an ISQ-at-loading benefit, with BCP a credible synthetic alternative to DBBM.
+
 ## 한줄요약
 측방창 (Lateral Window) 상악동거상술 (Sinus Floor Elevation, SFE)에서 슈나이더 막 (Schneiderian Membrane) 천공 (Sinus Membrane Perforation, SMP)과 부비동염 (Sinusitis) 예방·관리를 다룬 34편에 이식재 선택 및 PRF (Platelet-Rich Fibrin) 보조 근거 3편을 추가해 총 37편으로 확장한 종합 페이지 — L-PRF·A-PRF 보조 시 신생골 +7~11% 유의 증가, BCP가 DBBM 대비 신생골 형성 우수.
 
