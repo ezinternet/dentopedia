@@ -14,6 +14,9 @@ source_collection: external
 tags: [sinus-lift, barrier-membrane, lateral-window, gbr, implant-survival, rct, meta-analysis]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis (6 RCTs) of lateral-window maxillary sinus floor augmentation with vs without barrier membrane coverage of the lateral window found no significant difference in implant survival, new bone formation, or complications, providing insufficient evidence to support routine membrane use.
+
 ## 한줄요약
 SR+MA (6 RCTs): 측창 차폐막 사용 vs 미사용 — 생존율·골형성·합병증 모두 유의차 없음; 루틴 사용 근거 부족
 
