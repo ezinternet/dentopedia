@@ -13,6 +13,9 @@ source_collection: external
 tags: [sinus-lift, lateral-window, graftless, immediate-implant, blood-clot, CBCT]
 ---
 
+## One-line Summary
+Prospective clinical pilot CBCT study (n=10, 4–7 mm residual bone) of graftless lateral sinus floor elevation (LSFE) with immediate implant placement as a space maintainer confirmed reliable new bone formation around all implants using only the blood clot, while quantifying ~35–43% bone height contraction and a mean blood-clot volume contraction of 16.52% ± 8.60% over 6 months.
+
 ## 한줄요약
 인간 임상 파일럿 (n=10): 측방창 상악동거상술 (Lateral Sinus Floor Elevation, LSFE) + 즉시 임플란트 식립으로 무이식재 (graftless) 신생골 형성 확인. 6개월간 혈병 (Blood Clot) 부피 평균 16.52% ± 8.60% 수축, 골 높이 35–43% 수축.
 
