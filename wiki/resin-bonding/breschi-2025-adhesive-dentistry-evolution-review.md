@@ -13,6 +13,9 @@ source_collection: external
 tags: [universal-adhesive, hybrid-layer, mmp, etch-and-rinse, self-etch, biomodification]
 ---
 
+## One-line Summary
+Dental Materials 2025 narrative review (Breschi/Bologna group) synthesizing 70 years of adhesive dentistry — etch-and-rinse (EAR) vs self-etch (SE) classification, evolution to universal adhesives, hybrid-layer (HL) degradation mechanisms (hydrolysis, endogenous MMPs/cysteine cathepsins), and 10+ HL-stabilization strategies (MMP inhibitors, ethanol-wet bonding, collagen cross-linkers) — concluding universal adhesives are not truly universal and remain operator-dependent.
+
 ## 한줄요약
 Breschi 그룹의 접착 치의학 종합 narrative review: 산부식-세척과 자가산부식, 유니버설 접착제까지 70년 진화 정리 + 하이브리드 층(HL) 분해 메커니즘과 안정화 전략(MMP 억제, 에탄올 습윤본딩, 콜라겐 가교) 종합.
 
