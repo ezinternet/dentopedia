@@ -14,6 +14,9 @@ source_collection: external
 tags: [NSAIDs, ibuprofen, COX-inhibitor, pain, analgesic, anti-inflammatory, orofacial-pain, dental-surgery, topical-NSAIDs]
 ---
 
+## One-line Summary
+Narrative review (Med Sci Monit 2023) of preclinical and clinical evidence for NSAIDs across all dental specialties: NSAIDs are WHO first-line drugs for orofacial pain/inflammation, act beyond COX inhibition (NF-κB, iNOS, oxidative stress), and topical NSAIDs are a promising direction to avoid systemic side effects.
+
 ## 한줄요약
 서술적 고찰: NSAIDs는 WHO 1차 치과 진통제; 모든 진료과에 적용; COX 외 NF-kB·iNOS·산화스트레스 추가 기전; 국소 NSAIDs가 전신 부작용 없는 미래 방향
 
