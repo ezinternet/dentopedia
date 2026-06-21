@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Narrative overview mapping oral potentially malignant disorder (OPMD) subtypes (OLK, OLP, OE, OSF, actinic cheilitis) to their risk factors, malignant transformation rates (OLK ~3–17%, OLP ~0.5–3%), and therapies (OLP: topical corticosteroids first-line, tacrolimus second-line; OSF: surgery when mouth opening <35mm).
+
 ## 한줄요약
 OPMD 위험인자부터 치료까지 개요 — 각 병소별 악성전환 위험도 및 치료 옵션 비교.
 
