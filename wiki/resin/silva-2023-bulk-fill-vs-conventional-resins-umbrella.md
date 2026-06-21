@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Umbrella review (AMSTAR 2: included SRs low-to-moderate quality) of bulk-fill vs conventional resin composites for posterior direct restorations: the pooled meta-analysis directionally favored conventional resin (~5× odds) but was not statistically significant, and the two showed similar behavior on abrasion, microleakage, modulus of elasticity, and polymerization shrinkage — bulk-fill's main advantage being clinical simplification.
+
 ## 한줄요약
 우산형 리뷰(AMSTAR 2, 낮음~보통 수준): 전반적 메타분석은 통계적 비유의 범위 내에서 기존 레진 쪽으로 약 5배 유리하나, 마모·미세누출·탄성계수·중합수축 등 대부분의 물성에서 벌크필과 기존 레진은 유사한 거동을 보임.
 
