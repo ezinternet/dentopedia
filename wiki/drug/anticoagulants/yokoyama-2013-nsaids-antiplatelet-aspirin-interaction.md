@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+In vitro study of 9 clinically available NSAIDs at therapeutic plasma concentrations: only ibuprofen (48.1% reduction) and mefenamic acid (22.7% reduction) significantly interfered with aspirin's antiplatelet effect when given before aspirin, while no NSAID interfered when aspirin was given first; naproxen and flurbiprofen had independent antiplatelet activity without blocking aspirin's COX-1 acetylation.
+
 ## 한줄요약
 인비트로 (9종 NSAIDs, 임상 정상혈장농도): 이부프로펜(-48.1%)·메페남산(-22.7%)만 아스피린 앞 복용 시 항혈소판 효과 유의하게 감소; 나프록센·플루르비프로펜은 자체 항혈소판 효과 있으나 아스피린 간섭 없음.
 
