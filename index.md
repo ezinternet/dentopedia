@@ -1668,6 +1668,7 @@ tags: []
 - [[overviews/regenerative-endodontics-rep-overview]] — 재생근관치료(REP) 종합 (2026-06-06 신설, 6편): REP ≈ MAP 생존율 97%, 치근 길이·벽 두께 REP 유의 우위; LPRF 비권장(재치료 실패); 1.5% NaOCl + 17% EDTA 2회 세션 표준; F.nucleatum·T.denticola·E.faecalis 100% 검출.
 - [[overviews/cold-plasma-endodontic-disinfection-synthesis]] — 냉대기압 플라즈마(CAP)/비열 플라즈마 근관소독 종합 (2026-06-19 신설, 7편): 40°C 이하 ROS/RNS로 E. faecalis 바이오필름 사멸·내성 비유발; 직접 ≥8–12분 성숙 바이오필름 완전 제거(Li 2015 0 CFU, Armand 2019 ~5.2 log); 위계 NaOCl·TAP > CAP > Ca(OH)₂·PDT·propolis, NaOCl/CHX 병용 시너지; 상아질 미세경도 불변; 유일 사람 RCT 파일럿(Lyu 2025 UDP vs 6% NaOCl, n=28) 4개월 통증·PAI 동등·부작용 0이나 과소검정.
 - [[overviews/peri-implantitis-management-overview]] — 임플란트주위염 역학·예방·치료 종합 (2026-06-06 신설, 7편): 환자 단위 유병률 19.5%; 점막염 관리 = 1차 예방; PMPR 금본위; 단일 제염 프로토콜 우위 없음; Lin 2025 플랫폼스위칭·원추형 연결·어버트먼트 ≥2mm·one-abutment-one-time MBL↓.
+- [[overviews/supportive-peri-implant-therapy-maintenance-overview]] — synthesis(2026-06-21, 4편): SPiT는 고정 연 1회가 아닌 위험도 기반 개별화 recall(3~12개월)이라야 효과 — 진단 측정(탐침 ≤0.15 N·%BoP·방사선)이 주기를 산출, 그 recall이 PD −1.0~1.5 mm·BoP −10~25%p·임플란트주위염 40~70%↓ (Mojaver 25편); full-arch는 6개월 OH+≥연 1회 보철 제거(Lanzetti 11편, 저비뚤림 0); 방향 일관하나 메타분석 불가
 - [[overviews/cbct-diagnostic-performance-overview]] — CBCT 진단 성능·적응증 종합 (2026-06-06 신설, 25편): 외흡수 민감도 78%·특이도 79%; 근관치료 계획 24-56% 변경; 결과 추적 CBCT 불필요 가능성; 임플란트 선량 파노라마 2-200배; FOV·복셀 적응증별 선택 지침.
 - [[overviews/korean-dental-practice-management-overview]] — 한국 치과 개원 환경 종합 (2026-06-06 신설, 2편): 치과의사 연 2.39% 증가·지역 격차(2012-2022); 헌법재판소 결정례 카탈로그.
 - [[overviews/btx-orofacial-applications-overview]] — BTX 5축 (gummy smile·TMD·masseter·LPM·임플란트 영향) (2026-05-26 신설, 17편): Rojo-Sanchis 2023 SR+MA -3.22mm + de la Torre-Canales 2024 umbrella + Nobre 2024 masseter 위축 + Deng 2023 BIC↓ 동물.
@@ -2408,6 +2409,7 @@ tags: []
 
 ### Overview (added 2026-06-14, batch b)
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — **NEW Overview**: 각화점막(KM) 위험인자·증대술 종합 (10편). ~2 mm 역치 수렴; 연조직 대리지표(플라크·염증·퇴축)는 근거 강함, hard endpoint(주위염·MBL)는 방향성 있으나 근거 질 낮음/TSA 미달; FGG 기준 술식(xenograft 대안). Ravidà TSA의 "무결론"은 생물학적 무효가 아니라 검정력 부족으로 해석.
+- [[overviews/abutment-emergence-profile-peri-implant-tissue-overview]] — synthesis(2026-06-21, 5편): 임플란트주위 조직 4축(지대주 표면·분리정책·맞춤형치유지대주·출현윤곽) 중 출현윤곽 **형태**가 지배 레버 — 전치부 볼록은 오목 대비 점막퇴축 ~13배(OR 12.69), 구치부 W/H기반 ~32° 각도는 퇴축 0.13 vs 0.63mm; 표면처리·OAOT는 연·경조직 무효(단 지대주높이 ≥2mm는 골보존 p=.002), 맞춤형 치유지대주는 동등이상·불리함 없음.
 
 ## Batch ingest (added 2026-06-14, batch c) — KM augmentation effect sizes & soft-tissue dehiscence / immediate-implant STA
 
