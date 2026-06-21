@@ -14,6 +14,9 @@ source_collection: external
 tags: [BoNT-A, bruxism, overview, AMSTAR-2, methodological-quality, bite-force, sleep-bruxism]
 ---
 
+## One-line Summary
+Overview of 14 systematic reviews of BoNT-A for bruxism: although most SRs report reduced pain (10/14), bruxism event frequency (7/14), and maximum bite force (5/14), 13/14 SRs score AMSTAR-2 "critically low" with high primary-study overlap (CCA = 10.11%), so evidence-based recommendations cannot be supported.
+
 ## 한줄요약
 14개 SR overview — BoNT-A는 통증·이갈이 빈도·교합력 감소 보고 다수지만 13/14가 AMSTAR-2 "critically low", CCA 10.11% 중복 — 결론 단정 불가.
 
