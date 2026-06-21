@@ -13,6 +13,10 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+
+Narrative review of cytoskeletal and extracellular matrix (ECM) biomechanics in periodontal ligament (PDL) cell response to orthodontic force: actin cytoskeletal remodeling and ECM proteins (fibronectin, vitronectin, collagen I/III) transmit force via integrin-FAK-MAPK outside-in mechanotransduction, driving adaptive gene expression for bone remodeling.
+
 ## 한줄요약
 교정적 치아이동 시 PDL 세포골격(actin)·ECM(fibronectin·collagen) 생체역학 — integrin 기계신호 전달.
 
