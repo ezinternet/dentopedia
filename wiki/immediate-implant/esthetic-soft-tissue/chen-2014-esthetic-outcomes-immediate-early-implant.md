@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, anterior-maxilla, esthetics, midfacial-recession, cbct, contour-augmentation]
 ---
 
+## One-line Summary
+ITI consensus systematic review (50 studies) of esthetic outcomes after immediate (Type 1) vs early (Type 2/3) implant placement in the anterior maxilla; Type 1 showed >1mm midfacial recession in 9–41% of sites (median 26%) at 1–3 years with the facial bone wall undetectable on CBCT in 36–57% of grafted sites, whereas Type 2/3 with simultaneous contour augmentation preserved a detectable facial wall in >90% of cases and reported no >1mm recession.
+
 ## 한줄요약
 체계적 문헌고찰 (50편, 단일치 상악 전치/소구치 임플란트): 즉시식립 (Type 1, Immediate)은 1–3년 시점에 1 mm 이상 협측 변연 점막 퇴축 (Midfacial Recession)이 사이트의 9–41% (중앙값 26%)에서 발생하고, 콘빔 컴퓨터단층촬영 (Cone-Beam Computed Tomography, CBCT)에서 협측 골판 (Facial Bone Wall)이 36–57% 사이트에서 감지되지 않은 반면, 조기식립 (Type 2/3, Early)과 윤곽 증대술 (Contour Augmentation) 병행 시 90% 이상에서 골판이 유지되고 1 mm 이상 퇴축은 보고되지 않음.
 
