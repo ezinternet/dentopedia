@@ -27,6 +27,10 @@ tags: [prosthetic-materials, zirconia, lithium-disilicate, screw-vs-cement, over
 > - 오판 패턴: ① "베니어가 심미 우월" (단일체가 칩핑 유의 감소·심미 차이 미미), ② "상악 6 implant가 더 안전" (4 vs 6 NS).
 > - 근거 한계: 축 1–3은 [근거강함] (다수 SR+MA), 축 4 지대주·삭제는 [합의수준] (FEA·단면연구·narrative 혼합).
 
+## One-line Summary
+
+Synthesis page over 32 prosthetic-materials papers organizing crown/bridge/implant-prosthesis material choice along 4 axes: single-crown material (lithium disilicate vs zirconia vs PFM), screw- vs cement-retention, overdenture attachment system, and abutment design. Monolithic lithium disilicate gives the highest 5-year single-crown survival (~98.5%, Pjetursson 2026 SR+MA) with monolithic designs reducing chipping vs veneered; screw retention is the default implant-prosthesis choice (lower 6-month MBL, ~46% fewer complications, retrievable); mandibular overdenture defaults to 2-implant ball attachments and maxillary 4 vs 6 implants are equivalent — anchored on multiple SR+MAs plus the DGI/DGZMK S3 guideline.
+
 ## 한줄요약
 
 보철 재료 4축 — 단관 material (LDS vs 지르코니아 vs PFM) · screw vs cement retention · overdenture attachment system · abutment 디자인. Pjetursson 2026 SR+MA + DGI/DGZMK S3 guideline spine.
