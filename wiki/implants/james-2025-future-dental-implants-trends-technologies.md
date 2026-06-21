@@ -13,6 +13,9 @@ source_collection: external
 tags: [future-implants, AI, robotics, 3D-printing, zirconia-implant, smart-implants, bioactive-surface, Ti-Zr, digital-dentistry]
 ---
 
+## One-line Summary
+Narrative review (Cureus 2025, 2015–2025) of future dental implant trends: material evolution (zirconia, Ti-Zr alloys), AI/robotics/3D-printing for surgical precision, bioactive surfaces, and smart implants with embedded sensors; high cost, steep learning curves, and limited long-term data remain practical barriers.
+
 ## 한줄요약
 narrative-review(Cureus 2025, 2015-2025): 임플란트 미래 트렌드 — 지르코니아·Ti-Zr 합금 소재, AI·로보틱스·3D프린팅 정밀도↑, 바이오액티브 표면, 스마트 임플란트; 비용·학습곡선·장기데이터 부족이 현실적 장벽.
 
