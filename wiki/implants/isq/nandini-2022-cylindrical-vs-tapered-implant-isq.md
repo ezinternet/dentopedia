@@ -14,6 +14,9 @@ source_collection: external
 tags: [ISQ, tapered, cylindrical, macro-design, split-mouth, peri-implant, in-vivo]
 ---
 
+## One-line Summary
+Split-mouth in vivo study (30 patients, 60 implants): tapered implants showed significantly higher ISQ at all timepoints (T0, 3mo, 6mo) plus lower pain VAS and better peri-implant tissue health than cylindrical implants; 100% survival in both groups.
+
 ## 한줄요약
 분구강 in vivo 연구(30쌍): 테이퍼 임플란트가 모든 시점에서 원통형보다 유의하게 높은 ISQ; 통증 VAS 및 치주 지표도 테이퍼 우세; 두 군 생존율 100%
 
