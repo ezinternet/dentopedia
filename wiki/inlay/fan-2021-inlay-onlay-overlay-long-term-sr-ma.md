@@ -13,6 +13,9 @@ source_collection: external
 tags: [inlay, onlay, overlay, ceramic, composite, longevity, survival]
 ---
 
+## One-line Summary
+SR+MA (13 observational studies) of composite resin and ceramic inlays/onlays/overlays: composite resin cumulative survival 91% at 5 years (84% success), ceramic 90% at 5 years and 85% at 10 years (88% and 77% success); nonvital teeth and multi-surface restorations raised failure risk, with no direct bruxism–fracture association.
+
 ## 한줄요약
 복합레진 및 세라믹 인레이·온레이·오버레이 장기 SR+MA (13편): 레진 5년 91%, 세라믹 10년 85% 생존 — 높은 장기 성적.
 
