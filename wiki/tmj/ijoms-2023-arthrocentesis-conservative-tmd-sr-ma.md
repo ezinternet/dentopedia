@@ -13,6 +13,9 @@ source_collection: external
 tags: [arthrocentesis, conservative-management, tmd, meta-analysis, mouth-opening]
 ---
 
+## One-line Summary
+SR+MA of 7 RCTs (448 patients): arthrocentesis vs conservative management for painful TMD yields a statistically significant but clinically modest maximum mouth opening (MMO) gain of +1.12 mm (95% CI 0.46–1.78, p=0.001), with borderline pain benefit and high heterogeneity.
+
 ## 한줄요약
 7개 RCT(448명) SR+MA: 관절천자(Arthrocentesis)가 보존적 치료 대비 하악 최대개구량(MMO)을 1.12mm 유의하게 개선하나(p=0.001), 임상적 차이는 제한적임.
 
