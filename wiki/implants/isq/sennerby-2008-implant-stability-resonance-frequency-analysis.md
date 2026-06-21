@@ -14,6 +14,9 @@ source_collection: external
 tags: [rfa, isq, stability-dip, osseointegration, early-loading, immediate-loading, implant-stability]
 ---
 
+## One-line Summary
+Narrative review of RFA/ISQ biological and biomechanical principles: ISQ is governed by three factors (bone mechanical properties, implant-bone contact strength, effective exposed length) and exhibits a stability dip during the primary-to-secondary stability transition; clinical thresholds ISQ <55–60 delayed loading, >65–70 immediate/early loading, with serial ISQ monitoring more informative than a single reading.
+
 ## 한줄요약
 RFA 원리 리뷰: ISQ 결정 3인자(골질·BIC·유효노출길이); stability dip 원리; ISQ<60 지연, >70 즉시부하 기준
 
