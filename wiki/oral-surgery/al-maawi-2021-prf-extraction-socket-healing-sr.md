@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review (20 randomized/controlled studies, no meta-analysis due to heterogeneity) finding platelet-rich fibrin (PRF) improves early extraction-socket healing — reduced postoperative pain (66.6% of studies), better soft-tissue healing (75%), and greater socket fill (85%) within 2–3 months — but shows no significant dimensional bone-loss benefit at 6 months and lacks long-term implant outcome data.
+
 ## 한줄요약
 체계적 문헌고찰(20편): 혈소판풍부섬유소 (Platelet-Rich Fibrin, PRF)는 발치 후 초기 2–3개월 동안 통증 감소(66.6%), 연조직 치유(75%), 골 충전(85%) 개선 효과가 있으나, 6개월 이후에는 자연 치유와 차이 없음.
 
