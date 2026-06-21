@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+RCT (n=40 IR-FDPs, 36-month follow-up) comparing monolithic zirconia vs fiber-reinforced composite (FRC) cantilever inlay-retained FDPs for missing mandibular premolar: overall survival 97.5% and success 96.6%, with no significant difference between materials (p>0.05) — both viable for minimally invasive posterior single-tooth replacement.
+
 ## 한줄요약
 RCT(n=40, 36개월): 지르코니아 vs FRC 캔틸레버 IR-FDP — 생존율 97.5%·성공률 96.6%; 양군 유의차 없음; 최소침습 후방부 결손에서 두 재료 모두 유효
 
