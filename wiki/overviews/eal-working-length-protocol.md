@@ -26,6 +26,10 @@ source: synthesis
 > - 정확도 저하 조건 3 — NaOCl 존재: 측정값이 더 짧게 나옴(p<0.05) → flooding 전 측정하거나 후 재확인.
 > - 임상 takeaway: cervical flaring 후 건조 → 적정 K-file → APEX "0.5" 도달·5초 안정 확인 → 전치 −0.85mm/구치 −0.70mm 설정 → 방사선 확인(충돌 시 EAL 우선) → NaOCl 후 재측정. 개별 근거 수준은 낮으나 방향성은 일관됨.
 
+## One-line Summary
+
+Synthesis of 6 papers on electronic apex locator (EAL) working-length protocol. Core thesis: the EAL "0" reading marks the apical foramen (AF), but the ideal obturation endpoint is the apical constriction (AC), so a fixed distance must be subtracted — anatomically AC–AF averages 0.85 mm for anterior and 0.70 mm for posterior teeth (Mousavi 2018), making the common −0.5 mm rule an under-correction. Clinical takeaway: EAL accuracy is generation-independent and device-robust, but degrades with divergent/wide foramina (file-size matching matters) and in the presence of NaOCl (re-measure), so confirm a stable ≥5-second reading and set WL at −0.85 mm anterior / −0.70 mm posterior.
+
 ## 한줄요약
 EAL 프로토콜 6편 합성: EAL "0"=대공(AF) 위치; 종지점은 협부(AC)이므로 전치 −0.85mm·구치 −0.70mm가 해부학적으로 정확; 발산형·광근첨공에서 기기별·파일 크기 매칭이 정확도 결정
 
