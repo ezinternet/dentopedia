@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+CBCT cross-sectional study (Saudi population) quantifying alveolar bone anatomy of maxillary and mandibular molars — inter-radicular septum dimensions, buccal/lingual bone thickness, and distance to maxillary sinus floor / mandibular canal — as decision inputs for molar immediate implant placement (IIP). A significant fraction of maxillary molar sites have septum width sufficient for primary stability; mandibular molars are often constrained by lingual concavity and canal proximity.
+
 ## 한줄요약
 Saudi 인구 CBCT 단면: 상·하악 대구치의 inter-radicular bone, 협측·설측 thickness, 상악동 floor·하악관까지 거리 등을 정량 — molar IIP 적응증 결정 입력 데이터.
 
