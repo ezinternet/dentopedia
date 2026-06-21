@@ -33,6 +33,10 @@ relations:
 > - 동종 조혈모세포이식 병력+태선양 점막염·구강건조·개구장애 → 구강 만성 GVHD(NIH 2014 기준, 국소→전신 면역억제, 악성전환 monitoring, Dean 2022).
 > - 근거 등급: 축 2 OLK·축 6 OMS [근거강함], 축 3 OLP·축 4 BMS·축 5 RAS [합의수준](narrative 위주). 구강내과는 전반적으로 narrative review 비중이 높다.
 
+## One-line Summary
+
+Oral-medicine decision ladder synthesizing the `oral-medicine/` papers across 7 axes — OPMD in general, leukoplakia (OLK) malignant-transformation monitoring, oral lichen planus (OLP), burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), odontogenic maxillary sinusitis (OMS), and vesiculo-ulcerative/immune-mediated mucosal disease (HSV/EM/GVHD/PFAPA). Core thesis: stratify by lesion type and risk — OLK pooled MT 6.64% (non-homogeneous RR 4.23, dysplasia RR 2.75, post-surgical recurrence RR 7.39) drives biopsy-vs-monitor; OLP true MT is only 0.5–1.4% (avoid overstating risk); unilateral maxillary sinus opacification is 30–72% odontogenic; built on WHO consensus + Cochrane SR+MA + Delphi spine, with much of the field resting on narrative reviews.
+
 ## 한줄요약
 
 구강내과 7축 — OPMD 일반 · OLK 악성전환 monitoring · OLP 진단·관리 · BMS · RAS · OMS · 수포·궤양성 면역매개 점막질환(HSV·EM·GVHD·PFAPA). WHO consensus + Cochrane SR+MA + Delphi 합의 spine.
