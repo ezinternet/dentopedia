@@ -13,6 +13,9 @@ source_collection: external
 tags: [prevalence, tmd, epidemiology, meta-analysis, disc-displacement]
 ---
 
+## One-line Summary
+SR+MA (largest TMD prevalence synthesis at publication) reporting ~31% pooled prevalence for any temporomandibular disorder (TMD) sign/symptom, ~11–13% for painful TMD, ~30% for disc displacement, with women affected 1.5–2× more than men and a peak in the 20–45 year age group (I²>80%).
+
 ## 한줄요약
 SR+MA: 악관절증(TMD) 전반적 유병률 약 31%; 통증성 TMD 약 11–13%; 여성이 남성보다 1.5–2배 높은 유병률; 20–45세 호발.
 
