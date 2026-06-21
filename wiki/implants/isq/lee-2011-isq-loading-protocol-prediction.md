@@ -13,6 +13,9 @@ source_collection: external
 tags: [ISQ, insertion-torque, loading-protocol, bone-density, early-loading, immediate-loading]
 ---
 
+## One-line Summary
+Prospective 5-month clinical study: ISQ (Osstell) correlates significantly with insertion torque and bone density (D1/D2 > D3/D4), and ISQ ≥65 at placement supports early/immediate loading; ISQ shows a typical stability dip at 3–4 weeks recovering by 8–12 weeks.
+
 ## 한줄요약
 전향적 연구(5개월, 아산의료원): ISQ와 삽입토크·골밀도 상관관계 확인; 식립 시 ISQ≥65 → 조기/즉시부하 예측 가능.
 
