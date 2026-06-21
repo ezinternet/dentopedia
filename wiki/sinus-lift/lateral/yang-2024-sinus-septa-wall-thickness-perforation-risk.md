@@ -14,6 +14,9 @@ source_collection: external
 tags: [sinus-septa, lateral-wall-thickness, perforation-risk, cbct, sinus-lift, complication]
 ---
 
+## One-line Summary
+Systematic review + meta-analysis on anatomical perforation risk in maxillary sinus lift surgery found that the presence of sinus septa more than doubles the perforation odds (OR >2) and that lateral wall thickness >2 mm increases perforation risk, reinforcing the need for preoperative CBCT assessment of septa and wall thickness.
+
 ## 한줄요약
 SR+MA: 상악동 격벽 존재 → 천공 OR >2배; 측벽 두께 >2mm → 천공 위험 증가; 수술 전 CBCT 평가 필수
 
