@@ -13,6 +13,9 @@ source_collection: external
 tags: [hydrocarbon, carbon-contamination, osteoblast, BIC, titanium, biological-aging]
 ---
 
+## One-line Summary
+In vitro study (J Dent Res 2014, MC3T3-E1 osteoblasts): first direct dose-response evidence that hydrocarbon deposition on titanium concentration-dependently suppresses osteoblast attachment, spreading, ALP activity, and calcium mineralization (>40% reduction at C/Ti=1.0) — mechanistically explaining the clinical Bone-to-Implant Contact (BIC) plateau of 45–65% on commercial implants (17.9–76.5% surface carbon) and providing the rationale for UV-PF.
+
 ## 한줄요약
 인비트로(J Dent Res 2014): 탄소/티타늄 (C/Ti) 비율이 높을수록 골아세포 (Osteoblast) 부착·증식·분화 농도 의존적 감소; C/Ti=1.0에서 알칼리인산분해효소 (ALP)·칼슘 무기화 >40% 감소 — 탄화수소 오염이 골-임플란트 접촉률 (BIC) 정체의 직접 원인임을 최초 실증.
 
