@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective single-center study (n=100 single posterior implant patients, ≥1-year follow-up) finding single implant-supported fixed prostheses exert measurable stress on neighboring dentition: increased distal adjacent-tooth mobility (p<0.05), more antagonist periapical lesions and adjacent-tooth cracks in non-unilateral-mastication patients, more alveolar bone loss in diabetics, and (where the antagonist lacked occlusal contact) less bone loss but more adjacent cusp fractures (all p<0.05).
+
 ## 한줄요약
 강원대 후향(n=100, 1년 이상 추적): 단일 구치 implant 보철의 대합치·인접치 영향 — distal 인접치 mobility ↑(p<0.05), 편측저작 환자에서 대합치 periapical lesion·인접치 crack ↑(p<0.05), 당뇨 환자 골 흡수·치료 이력 ↑(p<0.05), 대합 occlusal contact 없으면 골 흡수 ↓이나 인접치 cusp fracture ↑. Implant 보철은 주변 dentition에 측정 가능한 부담 유발.
 
