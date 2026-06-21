@@ -4,11 +4,11 @@ authors: M. Abusamak, A. Elananza, I. Alshdaifat, F.S. Al-Hamed, H. Al-Waeli
 year: 2025
 date: 2025-09-01
 doi: 10.1177/23800844251365539
-source: goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.md
+source: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.md
 category: [drug/antibiotics]
 confidence: sr+ma
-pdf_path: /Users/oracleneo/llm-wiki/papers/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
-pdf_filename: goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
+pdf_filename: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 source_collection: external
 tags: [NSAIDs, corticosteroids, perioperative-analgesia, periodontal-surgery, pain-VAS, swelling, rescue-medication, SR-MA, dexamethasone, ibuprofen]
 relations:

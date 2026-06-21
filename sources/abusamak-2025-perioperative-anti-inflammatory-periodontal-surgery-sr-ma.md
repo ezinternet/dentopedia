@@ -4,8 +4,8 @@ authors: M. Abusamak, A. Elananza, I. Alshdaifat, F.S. Al-Hamed, H. Al-Waeli
 year: 2025
 doi: 10.1177/23800844251365539
 category: [drug/antibiotics]
-pdf_path: /Users/oracleneo/llm-wiki/papers/goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
-pdf_filename: goncalves-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
+pdf_path: /Users/oracleneo/llm-wiki/papers/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
+pdf_filename: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 source_collection: external
 relations:
   - type: reinforces
