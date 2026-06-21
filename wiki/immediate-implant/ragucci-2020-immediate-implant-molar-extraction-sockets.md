@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of immediate implant placement (IIP) in molar extraction sockets: pooled implant survival ~97–98%, comparable to delayed placement, with inter-radicular septum anchorage and primary stability identified as the key technique variables.
+
 ## 한줄요약
 SR+MA: 구치부 즉시 식립의 생존율은 통상 ≥97%로 지연 식립과 동등 수준이며, 격중격(inter-radicular septum) 이용·primary stability 확보가 핵심 변수.
 
