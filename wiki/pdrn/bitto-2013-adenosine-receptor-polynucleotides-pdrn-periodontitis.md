@@ -13,6 +13,9 @@ source_collection: external
 tags: [pdrn, A2A-receptor, periodontitis, anti-inflammatory, animal, mechanism]
 ---
 
+## One-line Summary
+Rat experimental periodontitis study showing PDRN gel reduces periodontal inflammation and apoptosis via A2A adenosine receptor stimulation; the A2A antagonist DMPX abolishes the effect — the foundational mechanistic anchor for PDRN's anti-inflammatory action.
+
 ## 한줄요약
 랫 실험적 치주염 모델: PDRN 젤이 A2A 아데노신 수용체를 통해 염증·세포자멸을 억제(항염), A2A 길항제 DMPX가 효과를 소거 — PDRN 항염 기전의 원전 근거.
 
