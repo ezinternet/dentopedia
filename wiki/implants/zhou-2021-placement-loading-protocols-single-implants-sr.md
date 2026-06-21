@@ -13,6 +13,9 @@ source_collection: external
 tags: ['placement timing', 'loading protocol', 'single implant', 'site-specific', 'ITI']
 ---
 
+## One-line Summary
+Systematic review (45 publications: 13 RCTs + 21 prospective + 11 retrospective; ITI Group 2) of single-implant placement × loading protocols across four sites (anterior/posterior maxilla and mandible), computing weighted survival per protocol per location (e.g. anterior maxilla 97.5–99.6% across 35 studies, 1,391 implants) and finding immediate placement + conventional loading generally safe while Type 1A (immediate placement + immediate loading) remains selection-sensitive and case-specific.
+
 ## 한줄요약
 SR (45 publications: 13 RCT + 21 prospective + 11 retrospective): site-specific (anterior maxilla / anterior mandible / posterior maxilla / posterior mandible) 별 placement × loading protocol — 가중 생존율 산출 (전치 상악 97.5–99.6%); ITI Hamilton 시리즈의 한 축.
 
