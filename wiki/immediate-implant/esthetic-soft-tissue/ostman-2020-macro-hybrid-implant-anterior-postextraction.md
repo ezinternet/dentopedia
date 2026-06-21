@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Single-cohort prospective study (18–24 month follow-up) of maxillary anterior immediate placement + immediate provisional restoration using a novel macro-hybrid implant design: high survival, acceptable peri-implant bone stability and esthetic outcomes, with recession lower than historical IIPP series — suggesting implant geometry can help mitigate esthetic risk.
+
 ## 한줄요약
 18~24개월 전향적 단일군: 신형 macro-hybrid 디자인 임플란트로 전치부 즉시식립+즉시 임시 보철 시 양호한 esthetic outcome과 골 안정성 — 디자인 선택이 esthetic 위험 완화에 기여 가능성 제시.
 
