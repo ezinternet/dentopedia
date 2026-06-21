@@ -14,6 +14,9 @@ source_collection: external
 tags: [vasoconstrictor, epinephrine, felypressin, levonordefrin, pregnancy, local-anesthesia, uteroplacental]
 ---
 
+## One-line Summary
+Systematic review (9 studies/guidelines, 2000–2025) comparing vasoconstrictor safety in dental anesthesia during pregnancy: epinephrine 1:100,000–1:200,000 is the only acceptable agent, felypressin is contraindicated (oxytocic effect → uterine contractions), and levonordefrin lacks sufficient safety data.
+
 ## 한줄요약
 SR(9편, 2000–2025): 임신 중 치과마취 혈관수축제 비교 — 에피네프린 1:100,000–1:200,000만 허용; 레보노르데프린 근거 불충분; 펠리프레신 옥시토신 유사 작용으로 절대 금기
 
