@@ -20,6 +20,9 @@ This paper has been **RETRACTED** by JAMA Internal Medicine (a correction was al
 2. Recognize the paper when it shows up in others' references.
 3. Look for newer, non-retracted analyses on the same question.
 
+## One-line Summary
+[RETRACTED] SR+MA (originally 47 observational studies, 42,473 physicians) that reported physician burnout associated with ~2-fold odds of unsafe care, unprofessional behavior, and lower patient satisfaction — now retracted by JAMA Internal Medicine; the effect estimates must NOT be cited, and burnout→patient-outcome causal claims require separate non-retracted evidence. Page kept only as a retraction flag.
+
 ## 한줄요약
 [RETRACTED] 원래 medic burnout이 환자 안전·전문직업성·환자 만족도 저하와 2배 odds로 연관된다는 SR+MA였으나 JAMA Intern Med에서 철회됨. effect size는 인용 금지. burnout → 환자 outcome 인과 추론에는 retraction 이후 nondisputed evidence를 별도 확인할 것.
 
