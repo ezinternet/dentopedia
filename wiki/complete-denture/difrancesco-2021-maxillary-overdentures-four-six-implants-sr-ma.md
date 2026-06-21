@@ -13,6 +13,9 @@ source_collection: external
 tags: [overdenture, maxillary, splinted-bar, implant-number, satisfaction, survival]
 ---
 
+## One-line Summary
+SR+MA (15 comparative studies, 1–10 yr follow-up): for splinted bar-supported maxillary overdentures, four versus six implants show no significant difference in implant survival (p=0.34), overdenture survival (p=0.74), prosthodontic complications, or patient satisfaction across both random-effects and Fisher's-test analyses — four splinted implants are a viable, more conservative choice.
+
 ## 한줄요약
 SR+MA(15편, 1–10년 추적): 상악 오버덴쳐를 **4개 vs 6개 스플린트 임플란트**로 지지할 때 임플란트·보철 생존율, 보철 합병증, 환자만족도 모두 유의차 없음 — 4개 스플린트가 보수적·합리적 선택.
 
