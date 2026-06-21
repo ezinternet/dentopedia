@@ -14,6 +14,9 @@ source_collection: external
 tags: [TSFE, long-term, narrative-review, osteotome, primary-stability, clinical-checklist, Periodontology-2000]
 ---
 
+## One-line Summary
+Narrative review (Periodontology 2000): synthesizes 4+ decades of transcrestal sinus floor elevation (TSFE) evolution from osteotome condensation onward, identifying the long-term stability drivers (patient selection, surgical execution, postoperative care) and proposing a standardized clinical and outcome-reporting checklist.
+
 ## 한줄요약
 Periodontology 2000 내러티브 리뷰: TSFE 장기 안정성 결정 인자(환자선택·술기·술후 관리) 종합; 표준화 임상·결과보고 체크리스트 제안
 
