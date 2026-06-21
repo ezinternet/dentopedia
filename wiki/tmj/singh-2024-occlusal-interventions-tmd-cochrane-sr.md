@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/singh-2024-occlusal-interventions-tmd
 pdf_filename: singh-2024-occlusal-interventions-tmd-cochrane-sr.pdf
 source_collection: external
 tags: [occlusal-splint, occlusal-adjustment, tmd, cochrane, irreversible-treatment]
+relations:
+  - type: reinforces
+    target: zhang-2020-occlusal-splint-tmd-rct-sr
 ---
 
 ## 한줄요약
