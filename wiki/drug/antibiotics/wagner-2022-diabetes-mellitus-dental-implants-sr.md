@@ -14,6 +14,9 @@ source_collection: external
 tags: [diabetes, HbA1c, implant-failure, peri-implantitis, glycemic-control, prediabetes, antibiotics, CHX]
 ---
 
+## One-line Summary
+Systematic review (56 publications): poorly controlled diabetes (HbA1c ≥9%) increases peri-implantitis and long-term implant loss, whereas controlled DM (HbA1c <8%) shows implant success similar to healthy controls; perioperative antibiotics + CHX are standard, and DM is not a contraindication when glycemic control is adequate.
+
 ## 한줄요약
 SR(40 임상연구): 조절 불량 당뇨 → 치주염 증가·장기 임플란트 실패율 증가; 조절 양호 당뇨 = 정상 대조군과 유사 성공률; 술전 항생제+CHX 표준; 당뇨는 조절 시 임플란트 금기 아님
 
