@@ -13,6 +13,9 @@ source_collection: external
 tags: [NSAIDs, cardiovascular-risk, rheumatoid-arthritis, ankylosing-spondylitis, inflammatory-arthritis, COX-2, drug-safety]
 ---
 
+## One-line Summary
+Narrative review: in inflammatory arthritis (RA/AS), NSAIDs do NOT increase cardiovascular (CV) risk as they do in the general population and may be cardioprotective via suppression of systemic inflammatory burden — indirect support for not over-restricting dental NSAID prescribing in RA/AS patients on CV-risk grounds.
+
 ## 한줄요약
 서술적 고찰: 염증성 관절염(RA·AS) 환자에서 NSAIDs가 일반인구와 달리 CV 위험을 증가시키지 않으며 전신염증 억제를 통해 심보호 효과 가능 — RA·AS 환자 치과 NSAID 처방 시 CV 위험을 과도하게 우려하지 않아도 된다는 간접 근거 (Semin Arthritis Rheum 2025).
 
