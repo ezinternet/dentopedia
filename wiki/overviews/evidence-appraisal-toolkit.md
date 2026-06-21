@@ -25,6 +25,10 @@ tags: [evidence-appraisal, ebm, ebd, biostatistics, sr-ma-methodology, critical-
 > - 카테고리 신설 근거: 9편 모두 EBM·biostatistics 방법론 paper로 기존 23 카테고리(method/procedure 기반)에 안 맞아, 비판적 평가 자체를 method로 보고 evidence-appraisal 신설.
 > - Caveat: 외부 9편 중 7편이 narrative-review/tutorial이라 individual confidence는 낮으나 다루는 원리는 Cochrane Handbook·BMJ Best Practice 표준에 합치 — 실전 사례로 Insadol 한국 임상시험 통계 타당성 비판(Choi 2015)이 "표준 처방 ≠ 근거 충분"을 시연한다.
 
+## One-line Summary
+
+Synthesis toolkit integrating 10 papers into five axes — SR/MA methodology, effect measures, statistical-test selection, common errors, and an abbreviation quick-reference — for the clinical dentist critically reading SR+MA, RCT, and observational studies. Core thesis: most of the wiki's 800+ clinical papers are SR+MA/RCT/retrospective cohorts, so this page is the operational backbone of the living-document principle of not citing conclusions uncritically. Clinical takeaway: check heterogeneity (I²), PRISMA/a-priori protocol, whether the effect measure fits the design, and pre-specified subgroups; translate OR/HR into ARR/NNT for patient counseling; and watch the recurring errors (treating p>0.05 as "no effect", subgroup hunting, correlation≠causation, immortal-time bias).
+
 ## 한줄요약
 임상 치과의사가 SR+MA·RCT·observational 연구를 비판적으로 읽기 위해 알아야 할 통계·방법론을 10편 (한국어 2편·영어 6편·익명 worksheet 1편·내부 synthesis cheatsheet 1편)에서 5축 (SR/MA 방법론·효과측정치·검정 선택·흔한 오류·약자 빠른 참조)으로 통합한 toolkit.
 
