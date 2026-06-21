@@ -13,6 +13,9 @@ source_collection: external
 tags: [DCP, hygienist, therapist, wellbeing, UK, job-satisfaction]
 ---
 
+## One-line Summary
+Systematic review (n=12 UK studies, 11 of medium-to-high quality) of health and wellbeing in Dental Care Professionals (DCPs — hygienists, therapists, clinical dental technicians, orthodontic therapists): evidence is sparse and skewed to hygienists/therapists, with clinical dental technicians and orthodontic therapists nearly absent; determinants mirror the dentist macro/meso/micro framework (job satisfaction and career most-studied), but overall wellbeing is essentially unmeasured directly.
+
 ## 한줄요약
 UK DCP(위생사·therapist·dental technician·orthodontic therapist) 웰빙 SR — 단 12편, 대부분 hygienist/therapist 대상. 결정인자 구조(macro/meso/micro)는 치과의사와 동일하나 전체 wellbeing 자체를 측정한 연구는 사실상 없음.
 
