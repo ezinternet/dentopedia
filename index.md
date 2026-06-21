@@ -1655,6 +1655,7 @@ tags: []
 - [[overviews/socket-shield-technique-overview]] — 소켓실드(SST) 13편 종합 (synthesis, 2026-05-31): 정량 anchor (BBPR 0.32 vs 1.05 mm −70%·MBL 0.39 vs 1.00 mm·PES +1.31, Oliva 2023 sr) + RCT 2편 (Atef 2021 esthetic·Zhang 2026 ortho) + Ji 2025 network MA; 협측 골·미용 우월하나 case-report 우세·장기근거 부족·실드 합병증 4–17% → 숙련자·선별 심미부 한정. immediate-implant-decision-ladder 축4 확장판.
 - [[overviews/implants-clinical-decision-ladder]] — 임플란트 일반 4축 (위험 stratification·디자인·연조직·peri-implantitis). Galarraga-Vinueza 2025 + Rosa 2024 + Yu 2021 spine.
 - [[overviews/periodontics-treatment-ladder]] — 치주치료 4축 (2017 분류·비외과·외과/재생·SPT). EFP S3 + Cochrane + KDA 합의안 spine.
+- [[overviews/otc-periodontal-adjunct-drugs-insadol-igatan]] — OTC 잇몸약 인사돌(옥수수 불검화물±후박)·이가탄(CELC: 비타민C/E·리소짐·카르바조크롬) 9편 종합: 기전·동물 항염 신호는 일관되나 사람은 GI/BoP만 개선·PD/CAL은 SRP 이상 효과 근거 없음, 전달경로(국소>정제)가 효과를 가름
 - [[overviews/prosthetic-materials-decision-ladder]] — 보철 4축 (단관 재료·screw vs cement·overdenture·abutment). Pjetursson 2026 SR+MA + DGI/DGZMK S3 spine.
 - [[overviews/digital-workflow-decision-ladder]] — 디지털 치의학 4축 (IOS·CAIS·AI·LLM). Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 - [[overviews/oral-medicine-decision-ladder]] — 구강내과 6축 (OPMD·OLK·OLP·BMS·RAS·OMS). WHO consensus + Aguirre-Urizar 2021 SR+MA spine.
