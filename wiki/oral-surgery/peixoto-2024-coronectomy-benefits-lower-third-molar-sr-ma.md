@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/peixoto-2024-coronectomy-benefits-low
 pdf_filename: peixoto-2024-coronectomy-benefits-lower-third-molar-sr-ma.pdf
 source_collection: external
 tags: []
+relations:
+  - type: reinforces
+    target: cervera-espert-2016-coronectomy-mandibular-third-molar-sr
 ---
 
 ## 한줄요약
