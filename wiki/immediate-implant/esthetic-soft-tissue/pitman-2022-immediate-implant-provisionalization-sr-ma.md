@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA comparing immediate implant placement with vs without immediate provisionalization: ~97% 5-year survival in both groups (equivalent), with immediate provisionalization favoring soft-tissue/papilla stability while buccal jumping-gap (graft) management remains the key driver of hard-tissue outcomes.
+
 ## 한줄요약
 즉시식립 임시치관 유무 비교 SR+MA — 생존율 동등, 임시치관군에서 연조직 안정성 유리.
 
