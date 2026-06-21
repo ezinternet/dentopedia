@@ -16,6 +16,10 @@ relations:
     target: cervera-espert-2016-coronectomy-mandibular-third-molar-sr
 ---
 
+## One-line Summary
+
+Systematic review and meta-analysis comparing coronectomy versus complete extraction for mandibular third molars with high inferior alveolar nerve (IAN) proximity; coronectomy significantly reduces IAN injury risk (permanent injury effectively eliminated), with predictable coronal root migration (~2–3 mm over 2 years) and reoperation/root retrieval needed in ~5–12% of cases and no significant difference in infection or dry socket.
+
 ## 한줄요약
 체계적 문헌고찰 및 메타분석: 하악 제3대구치의 하치조신경(IAN) 근접 고위험군에서 관상절제술(coronectomy)은 완전 발치 대비 IAN 손상 위험을 유의하게 낮추며, 재수술률은 약 5–12%로 수용 가능한 수준임.
 
