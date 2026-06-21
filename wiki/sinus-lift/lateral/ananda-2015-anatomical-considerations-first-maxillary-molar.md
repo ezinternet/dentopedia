@@ -13,6 +13,9 @@ source_collection: external
 tags: [cbct, maxillary-first-molar, sinus-floor, anatomy, east-asian]
 ---
 
+## One-line Summary
+Cross-sectional CBCT study (60 East Asian patients — 30 Malay, 30 Chinese) of maxillary first-molar extraction sockets: mean socket width 11.4 mm, length 7.7 mm, height ~6.5–6.9 mm, with the sinus floor extending anterior to the first molar in 95%, inter-radicular dipping in 72%, and root apices protruding into the sinus in ~50% — implants >7 mm risk sinus perforation without sinus lift or osseodensification (OD), making preoperative CBCT effectively mandatory.
+
 ## 한줄요약
 횡단연구 (Cross-sectional, n=60 East Asian CBCT): 상악 제1대구치 발치와 (Extraction Socket)의 평균 골 높이 약 7 mm, 95%에서 상악동저가 제1대구치보다 전방으로 확장, 약 50%에서 치근첨이 상악동저로 돌출 — 7 mm 이상 임플란트는 추가 술식 (상악동거상술 (Sinus Lift, SL), 골밀도화 (Osseodensification, OD)) 없이 식립 시 상악동 천공 (Sinus Perforation) 위험.
 
