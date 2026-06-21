@@ -13,6 +13,9 @@ source_collection: external
 tags: [ids, immediate-dentin-sealing, indirect-restoration, bond-strength, etch-and-rinse, flowable-resin]
 ---
 
+## One-line Summary
+In-vitro SR+MA of 21 studies on immediate dentin sealing (IDS) vs delayed dentin sealing (DDS) for indirect restoration cementation: IDS improved bond strength for both immediate (p<0.001) and aged (p=0.001) testing, with the advantage driven mainly by 3-step etch-and-rinse adhesives and adhesive + flowable resin overlay combinations.
+
 ## 한줄요약
 IDS의 결합강도 효과를 정량화한 in vitro SR/MA (21편): IDS가 즉시·노화 모두에서 DDS 대비 결합강도 우세, 가장 큰 효과는 3-step EAR 또는 (접착제 + flowable resin) 조합에서.
 
