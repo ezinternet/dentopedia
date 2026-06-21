@@ -13,6 +13,9 @@ source_collection: external
 tags: [ISQ, implant-location, implant-length, implant-diameter, maxilla, mandible, primary-stability, retrospective]
 ---
 
+## One-line Summary
+Retrospective observational study (n=200 NobelReplace Tapered implants, 143 patients, UCLA): intraoral location is the most significant determinant of ISQ (mandible > maxilla at placement and follow-up); implant length trends toward a clinically relevant effect (p=0.08/0.09, NS); diameter, gender, and age do not affect ISQ; overall survival 98%.
+
 ## 한줄요약
 후향적 연구(n=200 NobelReplace Tapered, UCLA): 구강 내 위치(하악>상악)가 ISQ의 가장 유의한 결정 인자; 임플란트 길이는 임상적으로 유의미한 경향(p=0.08/0.09); 직경·성별·나이는 ISQ에 영향 없음; 생존율 98% (OOOO 2016).
 
