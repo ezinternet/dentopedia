@@ -44,6 +44,10 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - 처치별 매트릭스: 단순발치·매복치는 Opioid X + Ibuprofen/APAP alternate, 임플란트·치주는 술전 preemptive 추가, 근관치료(술전 통증)는 Ibuprofen 600 기반 + Diclofenac K 대안.
 > - 한국 임상은 미국 대비 opioid 처방 낮으나(Tramadol 정도) Tramadol도 Network MA에서 위약 동등이라 처방 정당화 어려움 — ADA opioid-sparing 원칙 동일 적용.
 
+## One-line Summary
+
+Synthesis of 19 papers (3 network MA, 3 SR+MA, 2 Cochrane overviews, 5 RCTs, 6 narrative) on postoperative dental pain management. Core thesis: combined ibuprofen 400 mg + acetaminophen (APAP) 1000 mg is first-line with the lowest number-needed-to-treat (NNT ≈1.5); opioids are not superior to non-opioids and should be avoided (ADA opioid-sparing); alternate dosing beats concurrent. Clinical takeaway: preemptive analgesia helps implant/periodontal but not impacted third molars; endodontic pain (high preop prevalence) is managed with ibuprofen 600 mg ± diclofenac potassium, and NSAIDs are avoided in renal impairment in favor of APAP.
+
 ## 한줄요약
 치과 술후 통증 1차 선택은 **Ibuprofen 400mg + Acetaminophen 1000mg 병용** — Network MA에서 가장 낮은 NNT (~1.5). Opioid는 비-opioid 대비 우월하지 않으며 부작용·중독 위험 → 회피. Preemptive analgesia는 third molar에선 약함, 치주·임플란트엔 효과 있음.
 
