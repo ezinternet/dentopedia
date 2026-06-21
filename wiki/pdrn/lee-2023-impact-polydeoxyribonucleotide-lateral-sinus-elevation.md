@@ -13,6 +13,10 @@ source_collection: external
 tags: [pdrn, sinus-lift, lateral, bone-regeneration, animal]
 ---
 
+## One-line Summary
+
+Split-sinus in vivo study (4 beagles, lateral sinus floor elevation with simultaneous implant placement) showing a PDRN-soaked synthetic graft significantly improved new-bone area and apical bone-to-implant contact (BIC_a apical 76.7% vs 55.6%, P = 0.038) in the membrane-adjacent apical zone, with no effect in coronal/middle zones.
+
 ## 한줄요약
 
 Beagle 4마리 lateral sinus floor elevation 모델에서 PDRN-soaked synthetic graft가 Schneiderian membrane 근접 apical zone에서 new bone area·BIC apical을 유의하게 향상. Coronal/middle zone은 효과 없음.
