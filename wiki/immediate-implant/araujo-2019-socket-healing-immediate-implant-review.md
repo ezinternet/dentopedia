@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, socket-healing, ridge-modeling, bundle-bone, latin-america]
 ---
 
+## One-line Summary
+Narrative review (Periodontology 2000 2019) synthesizing Latin-American clinical and dog-model studies on socket healing with vs without immediate implant placement (IIP): IIP achieves high osseointegration and >95% 1-3 year survival but does NOT arrest post-extraction buccal bundle-bone resorption (~1.5-2 mm vertical buccal loss at 12 weeks in dog models); adjunctive gap grafting and connective tissue grafting reduce but do not abolish ridge collapse. Reframes immediate placement as a restorative, not preservative, technique.
+
 ## 한줄요약
 즉시식립 (Immediate Implant Placement, IIP) 라틴아메리카 임상·동물 연구 리뷰: 즉시식립은 골유착·생존율은 우수하나 발치 후 치조제 흡수 자체는 막지 못하며, 연조직·경조직 그라프트 동반 시 협측 함몰을 일부 보완할 수 있다.
 
