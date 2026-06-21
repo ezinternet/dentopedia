@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Versah Immediate Dentoalveolar Restoration (IDR) II manufacturer protocol (narrative-review, 2-page, REV06) for severely compromised sockets with full buccal-wall loss plus thin biotype/gingival recession: atraumatic extraction → Densah osseodensification (OD) prep → palatal-wall implant anchorage → combined bone+soft-tissue ("triple") graft harvested from the maxillary tuberosity to fill the gap → mandatory screw-retained provisional (cemented contraindicated) → ≥4-month healing → screw-retained final crown.
+
 ## 한줄요약
 Versah IDR II 프로토콜 — 협측골 완전 소실 + 얇은 치주 biotype/gingival recession 임플란트 즉시식립. **상악 결절(maxillary tuberosity)에서 triple graft 채취**(골+연조직) → OD 버로 식립와 준비 → palatal wall에 임플란트 정착 → triple graft로 gap 충전 → 즉시 screw-retained 임시보철(cement 보철 금지) → 최소 4개월 치유 후 최종 porcelain crown(screw-retained).
 
