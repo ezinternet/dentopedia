@@ -13,6 +13,9 @@ source_collection: external
 tags: [osseodensification, primary-stability, bench-study, bic, bmd, foundational, huwais]
 ---
 
+## One-line Summary
+Foundational in vitro bench study (72 porcine tibial osteotomies, 2 implant diameters): osseodensification (OD) using the same multi-fluted bur run counterclockwise significantly raised insertion/removal torque and roughly tripled bone-to-implant contact (BIC) vs standard drilling and formed a peri-osteotomy layer of increased bone mineral density (BMD), while implant stability quotient (ISQ) and temperature did not differ between groups.
+
 ## 한줄요약
 시험관 벤치 연구 (in vitro), 돼지 경골 (porcine tibia) 72 골삭제 (osteotomy) — 같은 다중날 (multi-fluted) 버 (bur)를 반시계방향으로 회전시키는 골밀도화 (Osseodensification, OD)가 표준 드릴링 대비 삽입·제거 토크 (Insertion/Removal Torque)와 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC, 약 3배)을 유의하게 상승시키고 골삭제 둘레에 골밀도 (Bone Mineral Density, BMD) 증가층을 형성했으나, 임플란트 안정성 지수 (Implant Stability Quotient, ISQ)와 온도 상승은 군간 차이 없음. 임상 적용 한계: 생체 외 모델로 치유반응 미반영이며 발명자 주도 연구이므로 후속 동물·임상 메타분석 (Meta-Analysis)으로 보완 필요.
 
