@@ -27,6 +27,10 @@ tags: [statistics, cheatsheet, abbreviations, biostatistics, critical-appraisal,
 > - 임상시험 분석군: 배정대로 분석 (Intention-to-Treat, ITT, 보수적·무작위화 이점 보존) vs 프로토콜 준수자만 (Per-Protocol, PP, 효능 과대평가 위험). 둘이 갈리면 탈락이 결과 관련일 가능성.
 > - 5대 오용 (논문 읽을 때 red flag): ① 흔한 결과에서 OR을 RR로 해석, ② p<0.05를 임상유의로 혼동, ③ CI 폭 무시, ④ SD↔SE 혼동, ⑤ ITT↔PP 차이 무시.
 
+## One-line Summary
+
+A reference cheatsheet that organizes the statistical abbreviations common in dental literature by analytical context — descriptive, inferential, effect size, diagnostic accuracy, meta-analysis, regression, survival, reliability/agreement, and clinical-trial analysis sets — pairing each term with its standard definition and most frequent misinterpretation. It flags the 5 highest-yield reading red flags: interpreting OR as RR for common outcomes, conflating p<0.05 with clinical significance, ignoring CI width, confusing SD with SE, and overlooking ITT–PP discrepancies.
+
 ## 한줄요약
 치과 논문에서 자주 만나는 통계 약자(descriptive·inferential·effect size·diagnostic·meta-analysis·regression·survival·agreement·trial set)를 카테고리별로 정리하고, 임상 해석에서 가장 자주 오용되는 5개 패턴(OR↔RR 혼동, p<0.05=임상유의 오역, CI 폭 무시, SD↔SE 혼동, ITT↔PP 차이 무시)을 신호로 표시.
 
