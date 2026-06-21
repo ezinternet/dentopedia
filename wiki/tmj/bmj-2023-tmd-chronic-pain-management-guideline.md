@@ -13,6 +13,9 @@ source_collection: external
 tags: [guideline, tmd, chronic-pain, conservative-first, botulinum-toxin, occlusal-splint]
 ---
 
+## One-line Summary
+BMJ Rapid Recommendations clinical practice guideline (2023, GRADE EtD) for chronic TMD pain: strong recommendation for conservative reversible care first, strong recommendation against irreversible occlusal modification, and conditional recommendation for botulinum toxin (BTX) in refractory myofascial pain.
+
 ## 한줄요약
 BMJ 2023 임상진료지침: 만성 악관절증(TMD) 통증에 보존적·가역적 치료 우선 원칙; 비가역적 교합처치 강력 반대; 불응성 근막통에 보툴리눔독소(BTX) 조건부 권고.
 
