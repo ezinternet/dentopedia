@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR (20 qualitative / 17 quantitative studies; 1161 patients, 2933 implants — 1427 tissue-level, 1506 bone-level): both bone-level and tissue-level dental implants had survival and success rates >90%, with no statistically significant between-group difference in radiological marginal bone loss.
+
 ## 한줄요약
 SR(20편 질적/17편 정량, 1161명 2933 임플란트): 골수준·조직수준 임플란트 생존율·성공율 >90%; 방사선적 변연골 소실에 유의한 그룹간 차이 없음
 
