@@ -13,6 +13,9 @@ source_collection: external
 tags: ['CAD-CAM', 'socket sealing abutment', 'SSA', 'posterior immediate implant', 'soft tissue']
 ---
 
+## One-line Summary
+RCT comparing CAD-CAM socket sealing abutments (SSA) vs standard care at immediate posterior implant placement; the digitally designed, chairside-milled anatomical SSA achieved superior peri-implant soft tissue conditioning and emergence profile formation without flap reflection in large/irregular posterior sockets.
+
 ## 한줄요약
 RCT: 구치부 즉시식립 시 CAD-CAM socket sealing abutment (SSA) 사용으로 점막 emergence profile 형성 — 무피판 sealing 어려운 큰 발치와에 해부학적 healing abutment 적용; 연조직 conditioning 우위 평가.
 
