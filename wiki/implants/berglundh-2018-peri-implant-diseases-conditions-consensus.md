@@ -13,6 +13,9 @@ source_collection: external
 tags: [peri-implantitis, peri-implant-mucositis, classification, case-definition, consensus]
 ---
 
+## One-line Summary
+Consensus report (Workgroup 4, 2017 AAP/EFP World Workshop) establishing the standardized case definitions and classification for peri-implant health, peri-implant mucositis, peri-implantitis, and peri-implant soft/hard tissue deficiencies — now the universal reference for clinical guidelines and epidemiological studies.
+
 ## 한줄요약
 2017 세계 워크숍 컨센서스: 임플란트 주위 건강·점막염·임플란트 주위염·연/경조직 결손에 대한 표준 케이스 정의 및 분류 체계 확립.
 
