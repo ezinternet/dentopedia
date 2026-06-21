@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/galarraga-vinueza-2025-peri-implant-d
 pdf_filename: galarraga-vinueza-2025-peri-implant-disease-risk-factors.pdf
 source_collection: external
 tags: [peri-implantitis, peri-implant-mucositis, epidemiology, risk-factors, prevalence, sr+ma]
+relations:
+  - type: reinforces
+    target: derks-2015-peri-implant-health-disease-epidemiology
 ---
 
 ## 한줄요약
