@@ -13,6 +13,9 @@ source_collection: external
 tags: [immediate-implant, timing, ITI, esthetic-zone, early-implant, risk-factors, Type-I-IV]
 ---
 
+## One-line Summary
+ITI narrative review (Periodontol 2000 2017) of implant placement timing in esthetic single-tooth sites, defining Type I–IV (immediate/early/late) protocols; Type I (immediate) carries 20–30% risk of >1mm midfacial recession without strict selection criteria, survival exceeds 95% across all timings, and the three dominant esthetic-failure risk factors are thin biotype, buccal implant malposition, and thin/damaged facial wall.
+
 ## 한줄요약
 narrative-review(Periodontol 2000 2017;73): ITI 즉시/조기/지연 식립 역사적 고찰 — Type I(즉시) 20-30% 퇴축 위험; 선택기준 충족 시 위험 감소; Type II/III 조기식립 더 예측가능; 생존율은 모든 시점 >95%.
 
