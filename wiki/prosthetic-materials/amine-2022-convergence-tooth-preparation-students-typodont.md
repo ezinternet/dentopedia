@@ -13,6 +13,9 @@ source_collection: external
 tags: [convergence-angle, TOC, dental-education, preclinical, typodont, simulator, student-skills, casablanca]
 ---
 
+## One-line Summary
+Preclinical in-vitro study (Int J Dent 2022, Casablanca; 35 third-year students × 4 preps = 140, optically scanned) of single-crown preparation TOC: typodont 11.99° ± 4.48 vs simulator 11.31° ± 4.16 (essentially equivalent), both within the 6–16° clinically achievable band with BL slightly > MD — the textbook 6° ideal is unattainable even in a controlled preclinical setting.
+
 ## 한줄요약
 in-vitro/preclinical (Int J Dent 2022:7615892, Casablanca, 35명×4 prep=140편): 3학년 학생 단일 크라운 prep TOC — 타이포돈트 11.99° ± 4.48, 시뮬레이터 11.31° ± 4.16 — 모두 권장 6-16° 범위 내; BL 약간 > MD; 6° 이상적 taper는 학생 환경에서도 거의 달성 불가.
 
