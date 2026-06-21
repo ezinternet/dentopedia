@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective cohort (STROBE; n=88 short ≤6.5 mm + 88 longer ≥7.5 mm; single surgeon; follow-up 11–117 months): no significant differences in survival, marginal bone level changes, or prosthetic complications between short and longer implants for posterior single-crown restorations, supporting short implants as a reasonable option.
+
 ## 한줄요약
 STROBE 후향 cohort (n=88+88, follow-up 11–117개월): 단일 크라운 보철에서 short(≤6.5mm) vs long(≥7.5mm) 임플란트 사이 survival·MBL·보철 합병증 차이 없음 — short implant가 후방 단일 보철에서 합리적 옵션.
 
