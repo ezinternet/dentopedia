@@ -44,6 +44,10 @@ relations:
 > - **Ali 2026 추가 (분할구 RCT, n=7, 상악 전치부)**: Densah bur OD → ISQ 70.1 (즉시부하 임계 달성), Magnetic Mallet OD → ISQ 49.0 (미달) (p<0.001). 상악 전치부 얇은 치조제에서 Magnetic Mallet은 합병증(협측골판 파절, 구개측 균열) 2건 발생 — 학습곡선 급격함. Densah bur가 심미 구역 OD의 1차 선택. [rct, n=7 — 예비적]
 > - 도구 비교는 [합의수준], 임계값은 [근거강함], 영향 변수는 [근거강함]. 상세 ladder와 chairside 시뮬레이터는 isq-loading-threshold 및 ISQ·RFA 시뮬레이터 참조.
 
+## One-line Summary
+
+Synthesis/decision-ladder over the `implants/isq/` sub-category (~31 papers) organizing Implant Stability Quotient (ISQ) / Resonance Frequency Analysis (RFA) along 3 axes — measurement device (Osstell vs Periotest, SmartPeg torque), loading threshold, and influencing variables (cortical thickness, macro-design, bone quality). Core thesis: ISQ ≥70 at placement or ≥65 after 4–6 weeks of healing is the early/immediate-loading threshold (with +3 for MSFA/GBR, +2 for Type IV bone), cortical bone thickness and tapered/platform macro-design are the dominant determinants of ISQ while length/diameter matter less, and Osstell is the recommended first-line tool — preassess cortical thickness on CBCT to predict ISQ.
+
 ## 한줄요약
 
 ISQ (Implant Stability Quotient) / RFA (Resonance Frequency Analysis) 의사결정 3축 — 측정 도구 (Osstell vs Periotest) · 임계값 (loading decision) · 변수 (cortical 두께·macro-design·bone quality). 본 wiki sub-category `implants/isq/` 31 paper의 spine.
