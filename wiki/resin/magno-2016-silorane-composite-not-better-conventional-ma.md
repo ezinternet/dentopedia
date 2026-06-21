@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Systematic review and meta-analysis (11 RCTs) found silorane-based composites (SBC) clinically equivalent to methacrylate-based composites (MBC) for posterior restorations across all parameters, with non-significant heterogeneity and the same conclusion in the ≥24-month subgroup, indicating that low polymerization shrinkage alone does not confer clinical superiority.
+
 ## 한줄요약
 11개 RCT 메타분석: 실로란(silorane) 기반 복합레진(SBC)은 구치부 수복에서 메타크릴레이트 기반 복합레진(MBC)과 임상 성적 동등; 모든 지표에서 I² 비유의, 24개월 이상 하위분석에서도 동일 결론 — "저중합수축 = 임상 우월"은 성립하지 않음.
 
