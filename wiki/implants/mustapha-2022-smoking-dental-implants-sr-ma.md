@@ -14,6 +14,9 @@ source_collection: external
 tags: [smoking, dental-implant, SR-MA, marginal-bone-loss, MBL, implant-failure, Malmö]
 ---
 
+## One-line Summary
+SR+MA (Malmö University, Medicina 2022) on smoking and dental implants: smokers show significantly higher implant failure rates and greater marginal bone loss (MBL) than non-smokers, confirming a negative smoking effect on both endpoints.
+
 ## 한줄요약
 SR+MA (Malmö Univ, Medicina 2022): 흡연 + 임플란트 — 실패율과 MBL 모두 흡연자에서 유의하게 높음; 흡연이 implant 결과에 부정적 영향 확정.
 
