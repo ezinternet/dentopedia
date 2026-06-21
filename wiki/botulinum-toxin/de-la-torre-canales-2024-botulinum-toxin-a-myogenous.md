@@ -12,6 +12,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/de-la-torre-canales-2024-botulinum-to
 pdf_filename: de-la-torre-canales-2024-botulinum-toxin-a-myogenous.pdf
 source_collection: external
 tags: [BoNT-A, M-TMD, umbrella-review, myogenous-TMD, adverse-events, masseter, muscle-atrophy, mandibular-bone-loss]
+relations:
+  - type: refines
+    target: zhu-2020-btx-painful-tmd-sr-ma
 ---
 
 ## 한줄요약
