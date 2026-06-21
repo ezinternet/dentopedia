@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of 20 RCTs (PROSPERO-registered) on universal adhesives in noncarious cervical lesions (NCCLs): etch-and-rinse (E&R) outperformed self-etch (SE) for medium-term (12–36 month) retention, marginal adaptation, marginal discoloration, and secondary caries, whereas SE produced lower postoperative sensitivity — a durability-vs-sensitivity trade-off.
+
 ## 한줄요약
 비우식성 치경부 병소(NCCL) 20개 RCT 메타분석 결과, 유니버설 접착제 산부식-세척법(E&R)이 자가산부식법(SE) 대비 중기(12–36개월) 유지율·변연적합도·변연착색에서 우수하나, SE는 술후 과민증이 더 낮음.
 
