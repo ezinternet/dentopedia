@@ -13,6 +13,9 @@ source_collection: external
 tags: [post-extraction, ridge-resorption, prospective, foundational, schropp]
 ---
 
+## One-line Summary
+Prospective clinical-radiographic study (n=46): over 12 months after single premolar/molar extraction, buccolingual ridge width decreased ~50%, with about two-thirds of that loss occurring within the first 3 months — the most-cited human benchmark for unassisted post-extraction resorption and the rationale for alveolar ridge preservation (ARP).
+
 ## 한줄요약
 전향적 임상·방사선학 추적 (Prospective Clinical-Radiographic Study, n=46) — 단일 소구치/대구치 발치 후 12개월간 치조제 흡수의 약 2/3가 첫 3개월 내 발생하며 협설측 폭은 약 50% 감소하여, 발치 후 치조제 보존술 (Alveolar Ridge Preservation, ARP) 필요성의 가장 인용도 높은 임상 근거를 제공한다.
 
