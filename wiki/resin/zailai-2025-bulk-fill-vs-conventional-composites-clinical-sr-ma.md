@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+SR+MA of 9 RCTs (632 restorations, posterior permanent teeth, ≥12-mo follow-up): bulk-fill resin composite vs incremental composite shows no significant difference in restoration failure (RR = 0.82, 95% CI 0.33–2.01, p = 0.67), with equivalence at both <24-mo and ≥24-mo follow-up.
+
 ## 한줄요약
 9개 RCT(632개 수복물) 메타분석: 구치부 영구치에서 벌크필 레진(bulk-fill resin)과 적층충전 레진(incremental resin)의 수복물 실패율 차이 없음 (RR = 0.82; p = 0.67), 단기~장기 추적 모두 동등한 임상 성적.
 
