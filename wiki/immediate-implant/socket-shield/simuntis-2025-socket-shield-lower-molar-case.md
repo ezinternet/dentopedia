@@ -14,6 +14,9 @@ source_collection: external
 tags: [socket-shield-technique, SST, lower-molar, posterior, proof-of-principle, case-report, Lithuania, Dentistry-Journal]
 ---
 
+## One-line Summary
+Case report (proof of principle, n=1; Dentistry Journal 2025): first application of the socket-shield technique (SST) in a lower molar site, extending an esthetic-zone-centered framework to the posterior; tissue preservation suggested but requires RCT/cohort validation.
+
 ## 한줄요약
 Case report (Vilnius Univ + Lithuanian Univ of Health Sciences, Dent J 2025): 하악 대구치 SST **proof of principle** — esthetic zone 중심 framework를 후방 대구치로 확장하는 첫 시도.
 
