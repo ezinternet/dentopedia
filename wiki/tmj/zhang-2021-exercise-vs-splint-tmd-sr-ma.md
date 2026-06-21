@@ -13,6 +13,9 @@ source_collection: external
 tags: [exercise-therapy, occlusal-splint, tmd, meta-analysis, painful-tmd]
 ---
 
+## One-line Summary
+SR+MA directly comparing exercise therapy to occlusal splint therapy for painful temporomandibular disorder (TMD): exercise was non-inferior to splints for pain reduction (pooled MD ≈ 0, p>0.05), numerically superior for maximum mouth opening (MMO) in several analyses, and had higher patient adherence (GRADE moderate).
+
 ## 한줄요약
 SR+MA: 운동치료는 교합안정장치(Occlusal Splint)와 동등한 통증 감소 효과를 보이며, 하악 최대개구량(MMO) 개선에서 일부 우월한 결과를 나타냄.
 
