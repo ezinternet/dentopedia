@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+Retrospective CBCT cross-sectional study classifying maxillary molar inter-radicular septum (IRS) morphology and dimensions as objective criteria for ideal immediate implant placement (IIP), with substantial site-to-site variability in "ideal IIP" anatomy.
+
 ## 한줄요약
 CBCT 단면: 상악 대구치 격중격(IRS) 형태·크기를 morphological criterion으로 분류, ideal molar IIP 적응 결정에 활용 가능한 입력 데이터 제공.
 
