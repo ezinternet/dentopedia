@@ -13,6 +13,9 @@ source_collection: external
 tags: [surface-topography, meso-micro-nano, acid-etching, hierarchical, osseointegration, osteoblast]
 ---
 
+## One-line Summary
+In vitro + in vivo study (Int J Mol Sci 2020): sulfuric-acid etching at 140°C creates a hierarchical meso+micro+nano-scale rough titanium surface (Ra 6–12× micro-only) that significantly enhances osteoblast differentiation and in vivo bone-implant integration strength without compromising cell attachment, overcoming the proliferation–differentiation tradeoff of conventional microrough surfaces; meso-spike size/density predicts osteoconductivity, with 140°C optimal.
+
 ## 한줄요약
 인비보+인비트로(Int J Mol Sci 2020): H2SO4 140°C 산부식으로 메조+마이크로+나노 계층형 거칠기 표면 제작 — 골아세포 (osteoblast) 분화 유의 향상, 부착 손상 없음, 골유착 (osseointegration) 강도 마이크로 단독 대비 최대 향상.
 
