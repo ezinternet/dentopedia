@@ -13,6 +13,9 @@ source_collection: external
 tags: []
 ---
 
+## One-line Summary
+3D finite element analysis comparing two internal implant-abutment connections (star tube-in-tube vs Morse+internal hex) × four abutment materials (Ti, Co-Cr, Co-Cr-S, Zr) under axial and oblique loading: stresses concentrated in crestal cortical bone, oblique > axial, with titanium abutments consistently producing the lowest and most stable stress.
+
 ## 한줄요약
 3D FEA: 내부 connection 두 종류(star tube-in-tube vs Morse+internal hex) × abutment 재료 네 종(Ti, Co-Cr, Co-Cr-S, Zr) 조합 시 응력 분포 비교 — Ti abutment가 일관되게 응력 최저, 가장 안정적.
 
