@@ -13,6 +13,9 @@ source_collection: external
 tags: ['facial bone wall', 'BBT', 'esthetic risk', 'immediate restoration', 'anterior maxilla']
 ---
 
+## One-line Summary
+Systematic review (12 studies, ≥12 mo follow-up) of immediate implant placement + immediate restoration (IIP + IR) in anterior maxilla: a thin or deficient facial bone wall (BBT) is associated with greater alveolar resorption and esthetic/recession risk, only partially mitigated by bone and soft-tissue grafting.
+
 ## 한줄요약
 SR (12 연구): 상악 전치부 즉시식립 + 즉시수복 시 facial bone plate가 얇거나 결손되면 alveolar 흡수·심미 위험 증가; thinner facial plate → higher alveolus loss; ≥12개월 추적 연구 한정.
 
