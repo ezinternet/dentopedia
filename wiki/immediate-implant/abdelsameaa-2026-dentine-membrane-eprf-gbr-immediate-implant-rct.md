@@ -14,6 +14,9 @@ source_collection: external
 tags: [immediate-implant, GBR, barrier-membrane, DDBM, dentine-derived-membrane, e-PRF, Alb-PRF, posterior-mandible, ISQ, marginal-bone-loss, RCT]
 ---
 
+## One-line Summary
+RCT (BMC Oral Health 2026, n=40, immediate implant + GBR in non-restorable posterior mandibular molars, 24-month follow-up): autogenous dentine-derived barrier membrane (DDBM) vs extended/albumin PRF (e-PRF) membrane over identical allograft — no significant intergroup difference in implant stability (ISQ), PPD, marginal bone loss, or bone density; both arms 100% survival. The two autogenous biological membranes are equivalent.
+
 ## 한줄요약
 Mansoura Univ RCT (BMC Oral Health 2026, n=40, 하악 구치 즉시 식립 + GBR, 24개월): 자가 DDBM(상아질 유래 차폐막) vs e-PRF 차폐막 — implant stability·PPD·MBL·골밀도 전부 군간 유의차 없음, 둘 다 100% 생존. 두 생물학적 자가 막이 동등.
 
