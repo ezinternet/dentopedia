@@ -78,4 +78,4 @@ Key mechanistic note: DB relies on rolling-sliding plastic deformation and autog
 
 - [[implants/versah-protocols/althobaiti-2023-osseodensification-conventional-drilling-isq-sr]] — SR confirming OD superior ISQ vs conventional drilling; this RCT extends to DB vs MM comparison
 - [[implants/versah-protocols/versah-densah-sinus-lift-i-protocol-rbh-6mm-minimum]] — Versah protocol family; complementary OD application context
-- [[implants/isq]] — ISQ loading threshold literature reinforced by DB achieving ≥70 at placement in esthetic zone
+- [[overviews/isq-loading-threshold]] — ISQ loading threshold literature reinforced by DB achieving ≥70 at placement in esthetic zone
