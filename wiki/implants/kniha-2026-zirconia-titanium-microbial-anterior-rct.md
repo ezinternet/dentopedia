@@ -78,5 +78,5 @@ The authors explicitly caution against interpreting these microbiome differences
 
 ## Related Papers
 
-- [[implants/peri-implantitis]] — microbial composition links to peri-implantitis risk; this RCT provides material-dependent microbiome baseline data
-- [[oral-microbiology]] — oral microbiome ecology, red complex pathogens, biofilm maturation dynamics
+- [[overviews/peri-implantitis-management-overview]] — microbial composition links to peri-implantitis risk; this RCT provides material-dependent microbiome baseline data
+- [[overviews/oral-microbiome-biofilm-dysbiosis-synthesis]] — oral microbiome ecology, red complex pathogens, biofilm maturation dynamics
