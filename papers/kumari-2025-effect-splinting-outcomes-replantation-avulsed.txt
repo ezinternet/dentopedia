@@ -1,0 +1,16 @@
+Source: PubMed (abstract only — full text not retrieved)
+PMID: 41026553
+DOI: 10.4103/jisppd.jisppd_213_25
+Journal: J Indian Soc Pedod Prev Dent 2025;43(3):307-321
+Title: Effect of splinting on outcomes of replantation of avulsed permanent teeth in children: A systematic review.
+Authors: Kumari B, Singh RK, Khanna R, Arumugam A, Yadav D, Singh BP (King George's Medical University, Lucknow, India).
+Registration: PROSPERO CRD42023414888
+
+ABSTRACT:
+Tooth avulsion is the complete displacement of a tooth from its socket and is a severe traumatic dental injury (TDI). Stabilization using splints is essential for healing. However, there is no consensus regarding the optimal splint type or duration. This systematic review aimed to evaluate the effectiveness of different splinting methods and durations on the outcomes of replanted avulsed permanent teeth in pediatric patients, with the goal of informing evidence-based clinical practice.
+
+Methods: PRISMA-guided; PROSPERO-registered (CRD42023414888). Systematic search of PubMed, Cochrane Library, Embase, Google Scholar. Risk of bias assessed using Newcastle-Ottawa Scale. Meta-analysis performed using RevMan v5.4 where appropriate; GRADE applied to assess quality of evidence.
+
+Results: From 734 identified records, 7 studies were included in qualitative synthesis and 4 in the meta-analysis, encompassing 708 participants and 975 avulsed teeth. Replanted teeth were stabilized with various splint types and durations. While trends supported the use of FLEXIBLE splints and SHORTER durations for better periodontal and pulp outcomes, most findings lacked statistical significance. GRADE analysis rated the overall evidence as VERY LOW.
+
+Conclusion: Current evidence tentatively supports the International Association of Dental Traumatology (IADT) guidelines favoring flexible, short-term splinting, but high-quality research is needed to establish definitive protocols.
