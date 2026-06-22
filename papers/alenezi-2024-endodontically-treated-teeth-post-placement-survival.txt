@@ -1,0 +1,15 @@
+Title: Clinical behavior and survival of endodontically treated teeth with or without post placement: a systematic review and meta-analysis.
+Authors: Alenezi AA, Alyahya SO, Aldakhail NS, Alsalhi HA.
+Journal: Journal of Oral Science. 2024;66(4):207-214.
+DOI: 10.2334/josnusd.24-0098
+PMID: 39231718
+Source: PubMed (abstract only — no PMC full text)
+
+ABSTRACT
+Non-vital teeth usually exhibit substantial loss of coronal and radicular tooth structure, and use of posts after root canal treatment is controversial. This review examined whether placement of posts influences clinical behavior and survival probability of endodontically treated teeth (ETT).
+
+Methods: An electronic search, without time restrictions, for publications written in English was undertaken in PubMed, Scopus, and Web of Science. Terms related to four main components (endodontically treated teeth, fixed prosthesis, post restoration, and survival rate) were used for the database search strategies.
+
+Results: 57 studies met the inclusion criteria and were included in the qualitative analysis. Of the publications chosen for qualitative analysis, 17 clinical studies (11 prospective and 6 retrospective studies) were found to be suitable for quantitative analysis. These studies included 7,278 patients (7,330 ETT), with a mean age ± SD of 45.46 ± 12.1 years. There was a statistically significant difference in survival rate between ETT with or without posts (P < 0.001).
+
+Conclusion: As compared with teeth with no posts, post placement on ETT may improve clinical performance and survival probability of endodontically treated teeth.
