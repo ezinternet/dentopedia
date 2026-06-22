@@ -14,7 +14,7 @@ text_filename: frank-2021-internal-bleaching-agents-efficacy.txt
 
 ## Why Ingested
 
-단일 변색치(근관치료된 비생활치)는 외부 미백과 다른 적응증 — walking-bleach/internal bleaching이 필요하다. 새 `tooth-whitening` 카테고리에서 "비생활치 미백" 축을 담당하며 근관치료 후 심미 관리와 연결된다. abstract-only — full text not retrieved.
+단일 변색치(근관치료된 비생활치)는 외부 미백과 다른 적응증 — walking-bleach/internal bleaching이 필요하다. 새 `tooth-whitening` 카테고리에서 "비생활치 미백" 축을 담당하며, 생활치 외부 미백을 다루는 [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]]와 대비되고 [[overviews/tooth-whitening-clinical-decision-overview]]의 비생활치 분기를 보강한다. abstract-only — full text not retrieved.
 
 ## One-line Summary
 
