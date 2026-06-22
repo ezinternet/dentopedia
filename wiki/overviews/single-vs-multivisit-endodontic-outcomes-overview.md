@@ -42,7 +42,7 @@ The question "should I finish this canal in one visit or two?" has accumulated a
 
 ### 1. The high-level evidence: efficacy is equivalent
 
-The two reviews anchor the conclusion. The Cochrane review (**Mergoni 2022**, 47 RCTs, n=5805) — the largest and most current synthesis on this question — found **no clinically meaningful difference in radiological failure at ≥1 year (RR 0.93, 95% CI 0.81–1.07, moderate certainty)** and no difference in tooth extraction. **Schwendicke 2017** (29 RCTs, n=4341), the first to apply Trial Sequential Analysis (TSA), reported equivalent long-term complications (RR 1.00, 0.75–1.35) and equivalent post-operative pain (RR 0.99, 0.76–1.30, moderate GRADE — the most reliable estimate in that review). Critically, TSA showed the Diversity-Adjusted Required Information Size was **not** reached for any outcome — i.e., the accrued trial evidence cannot yet confirm a firm difference, but the point estimates sit squarely on equivalence.
+The two reviews anchor the conclusion. The Cochrane review (**Mergoni 2022**, 47 RCTs, n=5805) — the largest and most current synthesis on this question — found **no clinically meaningful difference in radiological failure at ≥1 year (RR 0.93, 95% CI 0.81–1.07, moderate certainty)** and no difference in tooth extraction. **Schwendicke 2017** (29 RCTs, n=4341), the first to apply Trial Sequential Analysis (TSA), reported equivalent long-term complications (RR 1.00, 0.75–1.35) and equivalent post-operative pain (RR 0.99, 0.76–1.30, moderate GRADE — the most reliable estimate in that review). A still higher tier of synthesis now corroborates this: **Gupta 2026** (umbrella SR of 12 SRs, AMSTAR 2 + ROBIS, inception–Dec 2025) found **no consistent or clinically important post-operative pain difference** between visit strategies in its higher-confidence reviews, while explicitly cautioning that primary-study overlap and heterogeneous pain definitions limit confidence — i.e. the apparent volume of evidence is partly redundant, and visit choice should be driven by case complexity, infection control, and logistics rather than expected pain. Critically, TSA showed the Diversity-Adjusted Required Information Size was **not** reached for any outcome — i.e., the accrued trial evidence cannot yet confirm a firm difference, but the point estimates sit squarely on equivalence.
 
 ### 2. The new RCTs: equivalence holds for apical periodontitis, pain, AND retreatment
 
@@ -73,6 +73,7 @@ Because efficacy is equivalent, the decision is driven by **case factors and log
 
 | Study | Design | n | Primary outcome | Single vs Multiple result | Significance |
 |---|---|---|---|---|---|
+| Gupta 2026 | Umbrella SR (12 SRs, AMSTAR 2 + ROBIS) | (SR-level) | Post-operative pain | No consistent/clinically important difference | NS (limited by overlap) |
 | Mergoni 2022 | Cochrane SR+MA (47 RCTs) | 5805 | Radiological failure ≥1 yr | RR 0.93 (0.81–1.07) — equivalent | NS (moderate certainty) |
 | Mergoni 2022 | (secondary) | 638 | Pain within 1 week | RR 1.55 (1.14–2.09) — single higher; vital subgroup RR 2.16 | Significant (moderate) |
 | Schwendicke 2017 | SR+MA+TSA (29 RCTs) | 4341 | Long-term complications ≥1 yr | RR 1.00 (0.75–1.35) — equivalent | NS (weak; TSA: DARIS not reached) |
@@ -85,6 +86,7 @@ Because efficacy is equivalent, the decision is driven by **case factors and log
 
 ## Related Pages
 
+- [[endodontics/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — umbrella SR of 12 SRs (Gupta 2026); reinforces no consistent post-op pain difference, flags primary-study overlap
 - [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]] — largest Cochrane SR+MA; equivalent healing, transient single-visit early-pain signal
 - [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]] — SR+MA+TSA; equivalence with TSA-corrected flare-up signal
 - [[endodontics/visit-protocol/bobba-2026-single-multiple-visit-rct-apical-periodontitis]] — RCT; equivalent PAI healing in primary apical periodontitis
