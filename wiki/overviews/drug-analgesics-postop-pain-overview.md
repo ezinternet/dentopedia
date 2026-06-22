@@ -133,6 +133,8 @@ p=0.002, 명확한 차이.
 
 [근거강함] **Gousias 2025 SR-MA** (J Clin Periodontol, 18 RCT, n=1,995) — **치주·임플란트 수술**에서 preemptive analgesia 일부 시점(1·3·6·8·24·72h)에서 유의한 통증 감소.
 
+[합의수준] **Abusamak 2025 SR-MA** (6 RCT, n=262) — 치주수술 후 NSAIDs vs 코르티코스테로이드(SAIDs) 직접 비교: NSAIDs가 초기 통증(0–6h)에 우월, SAIDs가 48h 통증에 우월하며 부종·rescue 복용은 동등 (근거 중등도-낮음). 약동학적 설명: NSAIDs(ibuprofen 발현 30–60분)는 빠르고 SAIDs(dexamethasone 발현 3–4h)는 느려 술전 1일 전~1–2h 투여해야 perioperative coverage 확보. GBR·연조직증대 등 복합/성형 치주수술엔 무장력 치유 위해 SAIDs 선호.
+
 [claude해석] 시술별 차이의 가능성:
 - Third molar: 술중 통증 자체가 낮고, 술후 통증의 peak가 12–24h라 술전 dose가 그 시점까지 작용 못함.
 - 치주·임플란트: 술중 trauma가 술후 통증의 트리거. 술전 NSAID가 inflammatory cascade를 차단.
@@ -201,7 +203,7 @@ p=0.002, 명확한 차이.
 | **단순 발치** | — (또는 환자 통증 prevalence 시 술전 Ibuprofen 400) | Ibuprofen 400 / APAP 1000 alternate q4h × 48h | Opioid X |
 | **매복 third molar** | Costa 2015 — 약함, 권고 안 함 | 동상 + day 3까지 연장 | Opioid X |
 | **임플란트** | Ibuprofen 400 술전 30–60min (Gousias 2025) | Ibuprofen 400 / APAP 1000 alternate × 48h | COX-2 selective 회피 |
-| **치주 수술** | Ibuprofen 400 술전 30–60min | 동상 | |
+| **치주 수술** | Ibuprofen 400 술전 30–60min | 동상; 복합/성형 수술(GBR·연조직)은 SAID(dexamethasone) 고려 | NSAID 초기·SAID 48h 우위 (Abusamak 2025) |
 | **근관치료 (술전 통증)** | Ibuprofen 600 (Smith 2017) | Ibuprofen 600 / APAP 1000 alternate × 2–3일 | Diclofenac K 대안 |
 | **응급 비가역 치수염** | Diclofenac K 50mg (Vatankhah 2023) | + corticosteroid 보조 가능 | |
 
@@ -260,6 +262,7 @@ p=0.002, 명확한 차이.
 ### Preemptive Analgesia
 - [[drug/costa-2015-preemptive-nsaids-third-molar-pain-meta]] — Third molar Meta 무효
 - [[drug/gousias-2025-preemptive-analgesia-periodontal-implant-sr-ma]] — 치주·임플란트 SR-MA 효과 있음
+- [[drug/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — 치주수술 후 NSAIDs vs SAIDs 직접 비교 SR-MA: NSAIDs 초기 통증(0–6h)·SAIDs 48h 통증 우위, 부종·rescue 동등 (sr+ma, 2025)
 
 ### NSAID 안전성·기전
 - [[drug/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — NSAID 종합 narrative
