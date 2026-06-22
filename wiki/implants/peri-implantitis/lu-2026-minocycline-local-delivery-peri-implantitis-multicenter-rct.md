@@ -70,4 +70,4 @@ abstract-only — full text not retrieved; sample size justification, randomizat
 
 ## Related Papers
 
-- [[implants/peri-implantitis]] — category index for peri-implantitis treatment evidence
+- [[overviews/peri-implantitis-management-overview]] — category index for peri-implantitis treatment evidence
