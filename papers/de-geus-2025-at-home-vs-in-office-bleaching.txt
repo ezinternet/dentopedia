@@ -1,0 +1,17 @@
+Title: At-home vs In-office Bleaching: An Updated Systematic Review and Meta-analysis.
+Authors: de Geus JL, Martins ACR, Reis A, Rezende M.
+Journal: Operative Dentistry (Oper Dent), 2025.
+DOI: 10.2341/24-078-LIT
+PMID: 40485133
+Source: PubMed / PubMed metadata (abstract only — no PMC full text available).
+
+ABSTRACT
+To conduct a systematic review and meta-analysis to compare the efficacy, risk, and intensity of tooth sensitivity of at-home and in-office bleaching. This is an update of a systematic review first published in 2016, adding new evidence.
+
+A comprehensive search was performed in seven databases, including MEDLINE, EMBASE, and Cochrane Library. Additionally, other sources were screened manually for any additional trials, and the reference lists and citation lists of included trials and relevant reviews were manually searched. We included randomized clinical trials that compared the risk/intensity of tooth sensitivity or bleaching efficacy of in-office and at-home treatments in adult patients. After data extraction and risk of bias assessment, mean differences or relative risks and the corresponding 95% confidence intervals were calculated and assessed with the Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach.
+
+A total of 910 articles were identified via databases and registers. After title and abstract screening, 11 studies remained. In addition, another 11 records were identified through websites, organizations, and citation searches. Including the previous studies from the earlier systematic review, 26 studies remained for qualitative analyses and 23 for meta-analysis. In 2024, six studies were added, totaling 32 studies included for qualitative analysis. The intensity of tooth sensitivity was significantly lower for at-home bleaching (standardized mean difference [SMD] -0.78; 95% confidence interval [CI] -1.53 to -0.03; p=0.04). There was no significant difference in the risk of tooth sensitivity (relative risk [RR] 0.82; 95% CI 0.61 to 1.10; p=0.19) or bleaching efficacy in ΔSGU (SMD 0.04; 95% CI -0.17 to 0.25; p=0.68). The color change in ΔE was significantly higher for at-home bleaching (SMD 0.49; 95% CI 0.14 to 0.84; p=0.006).
+
+Although there was a difference in the intensity of tooth sensitivity and color change in ΔE favoring at-home bleaching, the quality of the evidence was considered low. Neither the risk of tooth sensitivity nor the color change in shade guide units (ΔSGU) was influenced by the bleaching technique.
+
+Attribution: Retrieved via PubMed (https://pubmed.ncbi.nlm.nih.gov/40485133/). DOI 10.2341/24-078-LIT.
