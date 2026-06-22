@@ -33,7 +33,7 @@ SITE_BASE = "/llm-wiki"
 # 순서 = 카드 표시 순서(임상 흐름). 키워드는 stem 부분일치.
 DOMAINS = [
     ("임플란트 · 안정성 · 표면", [
-        "isq", "implant-surface", "plasma-surface", "implant-design", "implant-length",
+        "isq", "implant-surface", "plasma-surface", "photofunctionalization", "implant-design", "implant-length",
         "implant-loading", "implant-occlusion", "implants-", "narrow-diameter",
         "tissue-level", "zirconia-implant", "osseodensification", "versah",
         "robotic-vs-navigation", "bone-quality-implant"]),
