@@ -62,7 +62,7 @@ Across 10 papers, odontogenic maxillary sinusitis is a treat-the-source disease:
 
 2. **진단(Dual confirmation)** — 단일 신호로 OMS를 단정하면 안 된다. ENT 관점의 핵심은 **이중확인** — 부비동 영상 소견 + 명확한 치성 원인(치근단/치주/의인성)을 함께 확인해야 한다(Craig 2022). CBCT가 그 연결고리다: 치근단병소 인접 치아는 상악동 점막두께가 유의하게 두껍고(3.95 vs 1.23 mm, Dumitrescu 2021), 더 중요하게 **치주골소실이 치근단병소보다 점막비후의 강한 예측인자**(OR 2.2, Bisla 2022)라는 점은 "치근단만 보던" 통념을 교정한다. 즉 CBCT는 부비동 평가이자 동시에 원인치 탐색 도구다.
 
-3. **치료(Source control first, FESS as adjunct)** — 항생제 단독은 치료 가능한 치성 병변에 실패한다(Craig 2022). **치과적 감염원 제거(근관치료·발치·치주처치·의인성 이물 제거)와 부비동 처치를 병행할 때 90–100% 해소**된다(Craig 2022). 내시경 부비동수술(FESS)은 그 자체로 96.5% 성공·SNOT-22 급속 개선(De Corso 2022)을 보이지만, 어디까지나 **원인 제거 위에 얹는 보조**이며 — 증상 부담이 큰 경우 1차 ESS도 유효한 선택지가 된다(Craig 2022).
+3. **치료(Source control first, FESS as adjunct)** — 항생제 단독은 치료 가능한 치성 병변에 실패한다(Craig 2022). **치과적 감염원 제거(근관치료·발치·치주처치·의인성 이물 제거)와 부비동 처치를 병행할 때 90–100% 해소**된다(Craig 2022). 내시경 부비동수술(FESS)은 그 자체로 96.5% 성공·SNOT-22 급속 개선(De Corso 2022)을 보이지만, 어디까지나 **원인 제거 위에 얹는 보조**이며 — 증상 부담이 큰 경우 1차 ESS도 유효한 선택지가 된다(Craig 2022). 최신 종합 리뷰도 이 명제를 재확인한다 — Albu 2025(narrative review, 6 SR + 24 임상연구)는 경험적 amoxicillin/amox-clav를 1차로 두되 항생제는 비치료적 보조이고, 치과 원인 제거 + ESS를 **한 번에(one-stage) 병행할 때 ~97% 성공**(recurrence <1–6%)이라고 정리한다.
 
 마지막으로, OMS의 가장 흔한 의인성 후유증인 **구강상악동루(OAF)**의 폐쇄는 별도 결정 트리를 따른다: 결손 크기 기반 선택(작으면 자연치유/단순봉합, 커지면 피판)과 **타이밍이 결과를 좌우** — 급성 1차 폐쇄 ~95% vs 만성 2차 폐쇄 최저 67%(Lazow 1999). 피판 선택에서는 네트워크 메타분석상 **협측지방패드(BFP)가 협측전진피판·구개회전피판보다 우월**(OR 15, Oliva 2024)하다.
 
@@ -179,3 +179,4 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 - [[oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma]]
 - [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]]
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]]
+- [[oral-medicine/albu-2025-treatment-landscape-odontogenic-sinusitis]] — 2025 종합 리뷰; 항생제 비치료적·치과+ESS 병행 ~97% 성공으로 source-control-first 명제 재확인
