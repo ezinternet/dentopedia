@@ -1,0 +1,17 @@
+Title: Color Change of Resin-based Composites After In Vitro Bleaching Protocols: A Systematic Review and Meta-analysis.
+Authors: Vidal ML, Pecho OE, Collares K, Brandeburski SBN, Della Bona A.
+Journal: Operative Dentistry (Oper Dent), 2022.
+DOI: 10.2341/20-234-LIT
+PMID: 35029690
+Source: PubMed metadata (abstract only — no PMC full text available).
+
+ABSTRACT
+To systematically review the literature on color stability of resin-based composites (RBC) after in vitro bleaching protocols and to assess the influence of bleaching protocols by meta-regression analysis on RBC color stability, and the association with clinical and experimental characteristics.
+
+The electronic search was conducted in MEDLINE/PubMed, Scopus, and Web of Science databases and included English language studies that evaluated and reported color differences (CIELAB values) of RBC after in vitro bleaching procedures using hydrogen peroxide and/or carbamide peroxide.
+
+Database search for color change of RBC after bleaching retrieved 1335 eligible papers after removing duplicates. After initial screening, 66 articles were assessed for full-text reading with final inclusion of 23 published papers. A meta-regression analysis showed that storage time (p<=0.01), color measuring device (p<=0.01), and background color (p<=0.01) had influence on color changes of RBC. The bleaching protocol (bleaching agent and time of application) did not influence on color changes of RBC (p>0.01).
+
+There is evidence that RBC change color after bleaching, but the change is not clinically significant.
+
+Attribution: Retrieved via PubMed (https://pubmed.ncbi.nlm.nih.gov/35029690/). DOI 10.2341/20-234-LIT.
