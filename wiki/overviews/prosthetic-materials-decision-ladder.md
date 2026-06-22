@@ -115,6 +115,7 @@ Synthesis page over 32 prosthetic-materials papers organizing crown/bridge/impla
 | [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]] | cross-sectional | All-ceramic prep TOC 평균 MD 21° |
 | [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]] | sr (14편 3-10y) | RBFDP 생존 76-100%. Cantilever > fixed-fixed. e.max ZirCAD 등 |
 | [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]] | rct (36mo) | Zr vs FRC cantilever IR-FDP — 생존 97.5%, 성공 96.6% NS |
+| [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]] | rct (8y, 64 RBFDP) | 캔틸레버 지르코니아 RBFDP — 비침습 나노알루미나코팅(NAC) 유지율 88.4% ≈ 분사연마(APA) 89.1% (p=0.99), 보철 생존 100% |
 | [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]] | prospective (12y, 439 restorations) | 전악 최소침습 유리세라믹 — 5y 생존 96.6%. 환자만족도 9.5/9.3 |
 | [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]] | sr (68편) | PCR (inlay·onlay·veneer·endocrown) cement 선택 — 금속 PCR self/dual, 얇은 세라믹 light-cure |
 
@@ -123,7 +124,7 @@ Synthesis page over 32 prosthetic-materials papers organizing crown/bridge/impla
 2. **Zr abutment** — 전치부 심미 우선. FEA가 cortical bone 응력 우려 → high-load 부위 회피.
 3. **CAD/CAM Zr crown + hybrid abutment** — Chan 2026 FEA가 우수. 신기술 옵션.
 4. **Crown prep TOC** — 10-22° (Tiu 2015). 1960s 2-5°는 비현실적.
-5. **RBFDP (cantilever)** — Kasem 2025 36mo + Habibzadeh 2024 SR이 fixed-fixed 우위. 최소침습 옵션.
+5. **RBFDP (cantilever)** — Kasem 2025 36mo + Habibzadeh 2024 SR이 fixed-fixed 우위. 최소침습 옵션. 지르코니아 RBFDP 표면 전처리는 분사연마(APA)가 표준이나, Malgaj 2026 8년 RCT는 비침습 나노알루미나코팅(NAC)이 APA와 동등한 유지율(88.4% vs 89.1%, p=0.99)·100% 생존을 달성 — APA의 표면결함 유발 우려가 큰 translucent zirconia에서 대안 가능성.
 6. **전악 최소침습** — Hjerppe 2025 prospective 12y가 가능성 입증. 단 케이스 선택 신중.
 
 ## Phase 2 확장 후보 (Stub)
@@ -165,6 +166,7 @@ Synthesis page over 32 prosthetic-materials papers organizing crown/bridge/impla
 - [[prosthetic-materials/abdulla-2018-convergence-all-ceramic-crowns-dubai-practice]]
 - [[prosthetic-materials/habibzadeh-2024-full-ceramic-rbfdp-sr]]
 - [[prosthetic-materials/kasem-2025-frc-vs-zirconia-cantilever-irfdp-36month]]
+- [[dental-materials/zirconia/malgaj-2026-cantilever-zirconia-rbfdp-alumina-coating]]
 - [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]]
 - [[prosthetic-materials/ghodsi-2023-resin-cement-partial-coverage-sr]]
 
