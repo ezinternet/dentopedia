@@ -1,0 +1,285 @@
+<!--
+---
+title: "조기 임플란트 실패(보철 로딩 전) 툴킷 (Early Implant Failure Toolkit)"
+type: interactive
+date: 2026-06-22
+status: done
+category: surgery
+agenda: agenda/2026-06-22_early-implant-failure-interactives.md
+source_wiki:
+  - wiki/overviews/early-implant-failure-risk-prevention-overview.md
+  - wiki/implants/yari-2023-risk-factors-early-implant-failure.md
+  - wiki/implants/uesugi-2024-risk-factors-early-failure-all-on-four.md
+  - wiki/drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure.md
+  - wiki/implants/fan-2024-smoking-early-implant-failure-sr-ma.md
+  - wiki/implants/moy-2005-dental-implant-failure-rates-risk.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>조기 임플란트 실패 툴킷</title>
+<style>
+  :root{
+    --bg:#f4f6f9; --card:#fff; --ink:#1a1a2e; --muted:#5a6478; --line:#e2e7ef;
+    --accent:#284b63; --accent-soft:#e8eef3; --teal:#3a8a7a; --teal-soft:#e3f3ef;
+    --warn:#b4452b; --warn-soft:#fbe9e4; --gold:#b8860b; --gold-soft:#f7eed6;
+    --ok:#1e7e34; --ok-soft:#e6f4ea;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;font-family:"Noto Sans KR",-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;
+    background:var(--bg);color:var(--ink);line-height:1.6;-webkit-font-smoothing:antialiased;}
+  .wrap{max-width:880px;margin:0 auto;padding:32px 18px 72px;}
+  header{border-bottom:2px solid var(--accent);padding-bottom:16px;margin-bottom:8px;}
+  h1{font-size:1.55rem;margin:0 0 6px;color:var(--accent);letter-spacing:-.01em;}
+  .sub{color:var(--muted);font-size:.9rem;margin:0;}
+  .sub a{color:var(--teal);text-decoration:none;}
+  .tabs{display:flex;flex-wrap:wrap;gap:6px;margin:22px 0 0;}
+  .tab{flex:1 1 auto;min-width:150px;text-align:center;cursor:pointer;border:1px solid var(--line);
+    background:var(--card);padding:10px 12px;border-radius:10px 10px 0 0;font-weight:600;font-size:.88rem;
+    color:var(--muted);transition:all .12s;}
+  .tab.active{background:var(--accent);color:#fff;border-color:var(--accent);}
+  .panel{display:none;background:var(--card);border:1px solid var(--line);border-radius:0 12px 12px 12px;padding:24px;}
+  .panel.active{display:block;}
+  h2{font-size:1.12rem;color:var(--accent);margin:0 0 4px;}
+  .lead{color:var(--muted);font-size:.86rem;margin:0 0 18px;}
+  .factor{display:flex;align-items:center;justify-content:space-between;gap:12px;
+    padding:11px 14px;border:1px solid var(--line);border-radius:9px;margin-bottom:8px;cursor:pointer;
+    transition:all .12s;background:#fcfdfe;}
+  .factor:hover{border-color:var(--teal);}
+  .factor.on{background:var(--teal-soft);border-color:var(--teal);}
+  .factor .lbl{font-size:.9rem;font-weight:500;}
+  .factor .lbl small{display:block;color:var(--muted);font-weight:400;font-size:.74rem;}
+  .factor .or{font-family:"JetBrains Mono",monospace;font-weight:600;font-size:.82rem;color:var(--accent);
+    background:var(--accent-soft);padding:3px 9px;border-radius:999px;white-space:nowrap;}
+  .factor.on .or{background:var(--teal);color:#fff;}
+  .toggle{width:38px;height:22px;border-radius:999px;background:#cfd6e0;position:relative;flex:0 0 auto;transition:.15s;}
+  .factor.on .toggle{background:var(--teal);}
+  .toggle::after{content:"";position:absolute;top:2px;left:2px;width:18px;height:18px;border-radius:50%;background:#fff;transition:.15s;}
+  .factor.on .toggle::after{left:18px;}
+  .result{margin-top:18px;padding:18px;border-radius:11px;background:var(--accent-soft);text-align:center;}
+  .result .big{font-size:2.1rem;font-weight:700;font-family:"JetBrains Mono",monospace;line-height:1.1;}
+  .result .band{display:inline-block;margin-top:8px;padding:4px 16px;border-radius:999px;font-weight:700;font-size:.9rem;}
+  .b-low{background:var(--ok-soft);color:var(--ok);}
+  .b-mod{background:var(--gold-soft);color:var(--gold);}
+  .b-high{background:var(--warn-soft);color:var(--warn);}
+  .b-vhigh{background:#7a1f1f;color:#fff;}
+  .note{font-size:.78rem;color:var(--muted);margin-top:12px;padding:11px 13px;background:#fafbfc;border-left:3px solid var(--gold);border-radius:0 7px 7px 0;}
+  .q{padding:16px;border:1px solid var(--line);border-radius:10px;margin-bottom:12px;}
+  .q p{margin:0 0 10px;font-weight:600;font-size:.92rem;}
+  .opt{display:flex;gap:8px;flex-wrap:wrap;}
+  .opt button{flex:1 1 auto;min-width:120px;cursor:pointer;border:1px solid var(--line);background:#fcfdfe;
+    padding:9px 12px;border-radius:8px;font-size:.85rem;font-weight:500;color:var(--ink);transition:all .12s;}
+  .opt button:hover{border-color:var(--teal);}
+  .opt button.sel{background:var(--accent);color:#fff;border-color:var(--accent);}
+  .rec{margin-top:10px;padding:16px;border-radius:11px;font-size:.9rem;display:none;}
+  .rec.show{display:block;}
+  .rec h3{margin:0 0 6px;font-size:1rem;}
+  .rec.green{background:var(--ok-soft);} .rec.green h3{color:var(--ok);}
+  .rec.amber{background:var(--gold-soft);} .rec.amber h3{color:var(--gold);}
+  .rec.red{background:var(--warn-soft);} .rec.red h3{color:var(--warn);}
+  .bars{margin-top:8px;}
+  .barrow{margin-bottom:14px;}
+  .barrow .cap{display:flex;justify-content:space-between;font-size:.84rem;margin-bottom:4px;}
+  .barrow .cap b{font-family:"JetBrains Mono",monospace;}
+  .track{height:26px;background:#eef1f5;border-radius:7px;overflow:hidden;}
+  .fill{height:100%;border-radius:7px;transition:width .4s ease;display:flex;align-items:center;justify-content:flex-end;
+    padding-right:8px;color:#fff;font-size:.74rem;font-weight:600;font-family:"JetBrains Mono",monospace;}
+  .fill.fail{background:var(--warn);}
+  .pfbtn{display:inline-flex;align-items:center;gap:8px;cursor:pointer;border:1px solid var(--line);background:#fcfdfe;
+    padding:8px 14px;border-radius:999px;font-size:.85rem;font-weight:600;margin-bottom:6px;}
+  .pfbtn.on{background:var(--teal-soft);border-color:var(--teal);color:var(--teal);}
+  table{width:100%;border-collapse:collapse;font-size:.83rem;margin-top:6px;}
+  th,td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line);}
+  th{background:var(--accent-soft);color:var(--accent);font-weight:600;}
+  td .v{font-family:"JetBrains Mono",monospace;font-weight:600;padding:2px 7px;border-radius:6px;}
+  .v.hi{background:var(--warn-soft);color:var(--warn);}
+  .v.md{background:var(--gold-soft);color:var(--gold);}
+  .v.lo{background:var(--ok-soft);color:var(--ok);}
+  .v.ns{background:#eef1f5;color:var(--muted);}
+  .src{font-size:.74rem;color:var(--muted);}
+  footer{margin-top:26px;font-size:.76rem;color:var(--muted);text-align:center;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1>조기 임플란트 실패 툴킷</h1>
+    <p class="sub">보철 로딩 전(EIF) 위험인자·예방 · 근거: Yari 2023 · Uesugi 2024 · Momand 2024 SR+MA · Fan 2024 · Moy 2005 · <a href="../wiki/overviews/early-implant-failure-risk-prevention-overview.html">overview</a></p>
+  </header>
+
+  <div class="tabs">
+    <div class="tab active" data-t="t1">① 위험 스코어러</div>
+    <div class="tab" data-t="t2">② 항생제 결정</div>
+    <div class="tab" data-t="t3">③ all-on-four 비교</div>
+    <div class="tab" data-t="t4">④ 근거 매트릭스</div>
+  </div>
+
+  <!-- TOOL 1 -->
+  <div class="panel active" id="t1">
+    <h2>조기 실패 위험 스코어러</h2>
+    <p class="lead">해당 인자를 켜면 기준 위험(환자 단위 ≈3%)에 교차비(OR)를 누적해 상대적 위험을 추정합니다. <b>검증된 예측모델이 아닌 교육용 누적기</b>입니다.</p>
+    <div id="factors"></div>
+    <div class="result">
+      <div class="big" id="riskPct">≈ 3.0%</div>
+      <div class="band b-low" id="riskBand">기준 위험</div>
+      <div style="font-size:.78rem;color:var(--muted);margin-top:8px;">누적 OR ×<span id="orProd">1.00</span> · 기준 EIF ≈3% (코호트 환자 단위)</div>
+    </div>
+    <div class="note">OR 출처: Yari 2023 다변량(즉시잠정보철 3.42·후방상악 2.96·4형골 2.88·치주발치 2.53·증대부위 2.24·흡연 1.84). 당뇨·방사선은 Moy 2005 RR(다른 연구·RR≈OR 근사). 실제 인자는 독립 곱셈으로 검증되지 않았으므로 절대 % 아닌 <b>상대적 가중</b>으로만 해석.</div>
+  </div>
+
+  <!-- TOOL 2 -->
+  <div class="panel" id="t2">
+    <h2>항생제 예방 결정 도구</h2>
+    <p class="lead">Momand 2024 SR+MA: 건강한 환자 비복잡 식립에서 술전 항생제 예방은 조기 실패를 유의하게 줄이지 못함(RR 0.66, NNT 143, GRADE 중간).</p>
+    <div class="q">
+      <p>1. 전신상태 — 심내막염 예방 적응·면역저하·조절 안 된 당뇨 등 의학적 항생제 적응이 있는가?</p>
+      <div class="opt" data-q="q1">
+        <button data-v="no">아니오 (건강)</button>
+        <button data-v="yes">예 (의학적 적응)</button>
+      </div>
+    </div>
+    <div class="q">
+      <p>2. 술식 유형은?</p>
+      <div class="opt" data-q="q2">
+        <button data-v="simple">비복잡 식립 (치유된 치조제)</button>
+        <button data-v="socket">즉시 발치와 / 감염·대규모 이식</button>
+      </div>
+    </div>
+    <div class="rec" id="rec2"></div>
+  </div>
+
+  <!-- TOOL 3 -->
+  <div class="panel" id="t3">
+    <h2>all-on-four 즉시로딩 1년 조기 실패</h2>
+    <p class="lead">Uesugi 2024 (임플란트 단위). 상악이 하악보다 유의하게 높은 조기 실패율(다변량 상악 OR 3.12). 광기능화는 보호 경향이나 비유의(p=0.25).</p>
+    <div class="pfbtn" id="pfToggle"><span class="toggle" style="pointer-events:none"></span> 광기능화(UV) 적용</div>
+    <div class="bars" id="bars3"></div>
+    <div class="note">조기 실패율(=100−생존율). 광기능화 OR 0.51(p=0.237, 비유의). 즉시로딩 full-arch는 단일 임플란트 실패가 전체 보철을 위협 → 상악·흡연자에서 특히 신중. 출처: Uesugi 2024.</div>
+  </div>
+
+  <!-- TOOL 4 -->
+  <div class="panel" id="t4">
+    <h2>위험인자 근거 매트릭스</h2>
+    <p class="lead">조기 임플란트 실패 위험인자별 효과크기(OR/RR)와 출처. 색: <span class="v hi">≥2.5 높음</span> <span class="v md">1.8–2.5 중등도</span> <span class="v ns">비유의</span>.</p>
+    <table>
+      <thead><tr><th>위험인자</th><th>효과크기</th><th>출처 (설계)</th></tr></thead>
+      <tbody id="matrix"></tbody>
+    </table>
+    <p class="src" style="margin-top:12px;">RR≈OR는 저빈도 결과에서 근사. 흡연은 세 연구에서 일관(보정 후에도 유의). 항생제 예방은 RR 0.66이나 비유의(보호인자 아님).</p>
+  </div>
+
+  <footer>LLM Wiki · 교육·임상참고용, 개별 진단 대체 불가 · 2026-06-22</footer>
+</div>
+
+<script>
+// ---- tabs ----
+document.querySelectorAll('.tab').forEach(t=>t.onclick=()=>{
+  document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+  document.querySelectorAll('.panel').forEach(x=>x.classList.remove('active'));
+  t.classList.add('active');
+  document.getElementById(t.dataset.t).classList.add('active');
+});
+
+// ---- TOOL 1: risk scorer ----
+const FACTORS=[
+  {k:'imm', l:'즉시 잠정보철 / 즉시로딩', s:'Yari OR 3.42 (최강 단일인자)', or:3.42},
+  {k:'max', l:'후방 상악 부위', s:'Yari OR 2.96 · Uesugi 3.12', or:2.96},
+  {k:'b4',  l:'4형 골 (저밀도)', s:'Yari OR 2.88', or:2.88},
+  {k:'perio',l:'치주문제로 발치한 부위', s:'Yari OR 2.53', or:2.53},
+  {k:'aug', l:'기존 골증대 / 이식 부위', s:'Yari OR 2.24', or:2.24},
+  {k:'smoke',l:'흡연', s:'Yari adj 1.84 · Fan pooled 2.59', or:1.84},
+  {k:'dm',  l:'당뇨 (조절 불량)', s:'Moy RR 2.75 (별도 연구)', or:2.75},
+  {k:'rad', l:'두경부 방사선 기왕력', s:'Moy RR 2.73 (별도 연구)', or:2.73},
+];
+const BASE=0.03, baseOdds=BASE/(1-BASE);
+const fc=document.getElementById('factors');
+FACTORS.forEach(f=>{
+  const d=document.createElement('div'); d.className='factor'; d.dataset.k=f.k;
+  d.innerHTML=`<div class="lbl">${f.l}<small>${f.s}</small></div>
+    <div style="display:flex;align-items:center;gap:10px;"><span class="or">×${f.or}</span><span class="toggle"></span></div>`;
+  d.onclick=()=>{d.classList.toggle('on');calc1();};
+  fc.appendChild(d);
+});
+function calc1(){
+  let prod=1;
+  document.querySelectorAll('.factor.on').forEach(d=>{
+    prod*=FACTORS.find(f=>f.k===d.dataset.k).or;
+  });
+  const odds=baseOdds*prod, p=odds/(1+odds), pct=(p*100);
+  document.getElementById('orProd').textContent=prod.toFixed(2);
+  document.getElementById('riskPct').textContent='≈ '+pct.toFixed(1)+'%';
+  const band=document.getElementById('riskBand');
+  let cls,txt;
+  if(prod<1.01){cls='b-low';txt='기준 위험';}
+  else if(pct<8){cls='b-low';txt='낮음';}
+  else if(pct<18){cls='b-mod';txt='중등도';}
+  else if(pct<35){cls='b-high';txt='높음';}
+  else{cls='b-vhigh';txt='매우 높음';}
+  band.className='band '+cls; band.textContent=txt;
+}
+calc1();
+
+// ---- TOOL 2: antibiotic decision ----
+const ans={q1:null,q2:null};
+document.querySelectorAll('.opt').forEach(o=>{
+  o.querySelectorAll('button').forEach(b=>b.onclick=()=>{
+    o.querySelectorAll('button').forEach(x=>x.classList.remove('sel'));
+    b.classList.add('sel'); ans[o.dataset.q]=b.dataset.v; rec2();
+  });
+});
+function rec2(){
+  const r=document.getElementById('rec2');
+  if(!ans.q1||!ans.q2){r.classList.remove('show');return;}
+  r.classList.add('show');
+  if(ans.q1==='yes'){
+    r.className='rec show red';
+    r.innerHTML='<h3>⚠ 의학적 적응 — 본 도구 범위 밖</h3>심내막염 예방·면역저하 등은 별도 가이드라인(AHA/ESC, 전신질환 프로토콜)을 따르세요. EIF 예방 목적의 통상 권고와 구분됩니다.';
+  }else if(ans.q2==='simple'){
+    r.className='rec show green';
+    r.innerHTML='<h3>✓ 통상적 항생제 예방 불필요</h3>건강한 환자 비복잡 식립: 술전 예방이 조기 실패를 유의하게 줄이지 못함(RR 0.66, NS · NNT 143 · GRADE 중간, Momand 2024). 스튜어드십상 생략 권장.';
+  }else{
+    r.className='rec show amber';
+    r.innerHTML='<h3>△ 예외 신호 — 단일 전처치 고려</h3>즉시 발치와/감염 소켓: 위약군 실패율이 더 높았던 유일한 시나리오. amoxicillin 2g 술전 1시간 단일 투여 고려(이는 예방보다 \"잠재 감염 치료\"에 가까움). 연장 투여는 근거 약함.';
+  }
+}
+
+// ---- TOOL 3: all-on-four bars ----
+// implant-level early failure % (Uesugi). PF on/off.
+const D3={maxilla:{on:0.6,off:1.3},mandible:{on:0.3,off:0.4}};
+let pf=false;
+document.getElementById('pfToggle').onclick=function(){pf=!pf;this.classList.toggle('on');draw3();};
+function draw3(){
+  const c=document.getElementById('bars3');const key=pf?'on':'off';
+  const rows=[['상악 (maxilla)',D3.maxilla[key]],['하악 (mandible)',D3.mandible[key]]];
+  const maxv=1.3;
+  c.innerHTML=rows.map(([n,v])=>`
+    <div class="barrow">
+      <div class="cap"><span>${n}</span><b>${v}% 조기실패 / 생존 ${(100-v).toFixed(1)}%</b></div>
+      <div class="track"><div class="fill fail" style="width:${Math.max(v/maxv*100,8)}%">${v}%</div></div>
+    </div>`).join('');
+}
+draw3();
+
+// ---- TOOL 4: matrix ----
+const M=[
+  ['흡연','OR 2.59','hi','Fan 2024 SR+MA (32편, 59,246 임플란트)'],
+  ['흡연 (보정 후)','OR 1.84','md','Yari 2023 다변량'],
+  ['흡연 (all-on-four)','OR 2.92','hi','Uesugi 2024 다변량'],
+  ['즉시 잠정보철/로딩','OR 3.42','hi','Yari 2023 다변량'],
+  ['후방 상악','OR 3.12','hi','Uesugi 2024 (Yari 2.96)'],
+  ['4형 골 (저밀도)','OR 2.88','hi','Yari 2023 다변량'],
+  ['치주문제 발치부위','OR 2.53','hi','Yari 2023 다변량'],
+  ['기존 골증대 부위','OR 2.24','md','Yari 2023 다변량'],
+  ['당뇨','RR 2.75','hi','Moy 2005 코호트 (21년)'],
+  ['두경부 방사선','RR 2.73','hi','Moy 2005 코호트'],
+  ['항생제 예방 (보호?)','RR 0.66','ns','Momand 2024 SR+MA — 비유의'],
+  ['광기능화 (보호?)','OR 0.51','ns','Uesugi 2024 — 비유의 (p=0.25)'],
+];
+document.getElementById('matrix').innerHTML=M.map(([f,v,c,s])=>
+  `<tr><td>${f}</td><td><span class="v ${c}">${v}</span></td><td class="src">${s}</td></tr>`).join('');
+</script>
+</body>
+</html>
