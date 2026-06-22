@@ -112,7 +112,7 @@ Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes
 
 1. **격리** — Rubber dam 1순위. 오염은 결합력 결정자.
 2. **시스템 선택** — Universal adhesive는 selective etch 모드 안정; 2-step SE는 오염 내성 우위; 3-step E&R은 long-term µTBS 우위 (참조 [[overviews/direct-resin-restoration-adhesion-placement-overview]]).
-3. **간접 수복 전처리** — 세라믹: HF + 실란; 지르코니아: airborne abrasion + MDP primer; 3D-printed crown: airborne abrasion.
+3. **간접 수복 전처리** — 세라믹: HF + 실란; 지르코니아: airborne abrasion + MDP primer; 3D-printed crown: airborne abrasion; 티타늄/티타늄합금: 기능성 단량체 primer(MDP·MEPS·6-MHPA·4-META) — Kodaira 2022 narrative review가 이 monomer family가 실란화+트라이보화학 실리카코팅과 동등한 레진-티타늄 결합을 achieve하며 MDP·4-META/MMA-TBB가 열순환 내구성 최우수임을 정리(인산 에칭은 monomer 흡착 저해이므로 회피).
 4. **오염 시 대응** — system별 차별; 2-step SE는 maintain, 1-step universal은 decontamination.
 5. **임시 — Stamp** — 인택트 교합면 case에서만 활용.
 
@@ -163,3 +163,4 @@ Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes
 - [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — Cochrane SR+MA (6 RCTs, 1342 participants, all high risk of bias): rubber dam isolation may increase survival of direct composite restorations of NCCL … (sr+ma, 2021)
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — In vitro microtensile study (60 third molars, 4 solvent groups): acetone wet-bonding preserved bond strength after thermocycling/collagenase aging (p< … (in-vitro, 2023)
 - [[resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — SR+MA (14 in vitro studies, 11/14 low RoB) showing collagen crosslinkers (EDTA, IP6, PA, RA … (sr+ma, 2025)
+- [[resin-bonding/kodaira-2022-resin-bonding-titanium-adhesive-monomers-review]] — narrative review (11 studies): functional monomers (MDP, MEPS, 6-MHPA, 4-META) bond resin to titanium as effectively as silanization + tribochemical silica coating; extends the MDP/functional-monomer surface-treatment theme to the titanium substrate (narrative-review, 2022)
