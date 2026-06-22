@@ -1,0 +1,25 @@
+Source: PubMed (abstract only — full text not retrieved)
+PMID: 40887721
+DOI: 10.1111/iej.70025
+Journal: International Endodontic Journal (Int Endod J) 2025;58(12):1814-1834
+Title: Pre-Operative Factors on Prognosis of Regenerative Endodontic Procedures: A Systematic Review and Meta-Analysis.
+Authors: Vitali FC, Dos Reis-Prado AH, Santos PS, Zeno APP, de Risso PA, Maia LC, Benetti F, da Teixeira CDS (Univ. Federal de Santa Catarina; UFMG; UFRJ, Brazil).
+
+ABSTRACT:
+Although regenerative endodontics has advanced in recent years, the influence of pre-operative factors on treatment outcomes remains poorly understood.
+
+Aim: To evaluate the effect of pre-operative factors — including age, gender, tooth type, aetiology of pulp necrosis, stage of root development, clinical signs/symptoms, and periradicular status — on the treatment outcomes of regenerative endodontic procedures (REPs) in immature permanent teeth.
+
+Methods: Literature search on six electronic databases plus grey literature. Risk of bias assessed using Newcastle-Ottawa Scale (observational) and Cochrane RoB 2 (RCTs). Meta-analyses of proportions to estimate pooled rates for 'clinical and radiographic healing', 'root development', and 'apical closure' across pre-operative factors. Associations assessed via meta-analyses of effect sizes. Certainty via GRADE.
+
+Results: Twenty studies included (13 observational, 7 RCTs). Most moderate to high risk of bias.
+- Pooled success rate for clinical and radiographic healing: exceeded 81% across all pre-operative factors.
+- Root development achieved in 52%–95% of cases.
+- Complete apical closure ranged from 32% to 91%.
+- No significant association between pre-operative factors and clinical/radiographic healing.
+- Teeth with pulp necrosis due to TRAUMA: 3.59x higher relative risk of root development failure vs necrosis due to anatomic anomaly (RR = 3.59, 95% CI 1.21–10.67, p = 0.02).
+- INCISORS: 1.90x higher RR of root development failure (RR = 1.90, 95% CI 1.37–2.63, p < 0.01) and 1.98x higher RR of incomplete apical closure (RR = 1.98, 95% CI 1.34–3.13, p = 0.02) vs premolars.
+- Presence of an APICAL LESION: 2.55x higher RR of root development failure (RR = 2.55, 95% CI 1.63–4.86, p = 0.01).
+- Certainty of evidence rated VERY LOW.
+
+Conclusion: Pre-operative factors were not significantly associated with clinical and radiographic healing in REPs. However, trauma-related pulp necrosis, tooth type (incisors), and the presence of apical lesions were associated with an increased risk of root development failure. Interpret with caution due to between-study heterogeneity, moderate-to-high risk of bias, and very low certainty.
