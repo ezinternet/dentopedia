@@ -1,0 +1,30 @@
+Source: PubMed (abstract only — full text not retrieved)
+PMID: 32344468
+DOI: 10.1111/edt.12564
+Journal: Dental Traumatology (Dent Traumatol) 2020;36(5):453-476
+Title: Storage of an avulsed tooth prior to replantation: A systematic review and meta-analysis.
+Authors: De Brier N, O D, Borra V, Singletary EM, Zideman DA, De Buck E (Centre for Evidence-Based Practice (CEBaP), Belgian Red Cross; Cochrane First Aid; KU Leuven).
+
+ABSTRACT:
+It is crucial to store an avulsed tooth appropriately to preserve the viability of the periodontal ligament (PDL) cells prior to replantation. The aim of this systematic review was to identify the best available evidence for the effectiveness of any technique available to laypeople for storing an avulsed tooth compared with storage in milk or saliva.
+
+Databases searched (September 2019): Cochrane Library, MEDLINE, Embase. Two reviewers independently considered trial eligibility, extracted and analyzed data, and assessed risk of bias. Certainty of the body of evidence appraised via GRADE.
+
+Out of 4118 references, 33 studies were included, reporting 23 comparisons of which 10 were synthesized in a meta-analysis. The limited evidence available favors storing an avulsed tooth in:
+- Hank's balanced salt solution (HBSS): pooled SMD 2.47, 95% CI [1.59; 3.34], P < .00001
+- Propolis solution: pooled SMD 1.73, 95% CI [1.12; 2.33], P < .00001
+- Oral rehydration salts (ORS): pooled SMD 4.16, 95% CI [2.10; 6.23], P < .0001
+- Rice water, and cling film
+...all compared with storage in MILK.
+
+Cell viability rate was significantly LOWER (vs milk) in teeth stored in:
+- Saline solutions: pooled SMD -4.35, 95% CI [-7.55; -1.14], P = .008
+- Tap water, buttermilk, castor oil, GC Tooth Mousse, turmeric extract
+
+There is insufficient evidence to recommend for or against temporary storage in saliva compared with alternative solutions.
+
+The certainty of evidence was low to very low (limitations in study design, indirect populations and outcome measures, imprecision).
+
+CONCLUSION: Although milk was shown to extend PDL cell viability before replantation compared with saline or tap water, the following media also demonstrated efficacy at preserving cell viability: HBSS, propolis, oral rehydration salts, rice water, and cling film.
+
+Note: Outcome measure throughout is in-vitro/ex-vivo PDL cell viability (surrogate), not clinical replantation healing endpoints.
