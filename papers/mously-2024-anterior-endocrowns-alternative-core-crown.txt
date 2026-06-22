@@ -1,0 +1,25 @@
+Title: Anterior Endocrowns as An Alternative to Core Crown restorations: A Systematic Review.
+Authors: Mously HA, Naguib GH, Abougazia AO, Almabadi AA, Qutub OA, Hamed MT.
+Journal: International Dental Journal. 2025;75(1):59-74.
+DOI: 10.1016/j.identj.2024.07.1216
+PMID: 39306490
+PMCID: PMC11806310
+Source: PubMed Central (full text retrieved)
+
+ABSTRACT
+Restoring extensively damaged endodontically treated teeth presents a challenging task due to the state of biomechanical deterioration affecting long-term prognosis. The study aims to assess and compare the biomechanical performance of endocrowns and post core-crown restorations in anterior endodontically treated teeth with severe coronal structure loss. Following PRISMA guidelines, a systematic search was conducted using PubMed, Scopus, Web of Science, and Google Scholar for articles published from January 2014 to March 2024. Two independent reviewers screened and selected studies. The included studies were analyzed using the QUIN tool for risk of bias assessment in in-vitro studies. Twelve studies were included. In most studies, endocrowns demonstrated comparable fatigue resistance under load to failure to post core-crown restorations. Endocrowns without ferrule exhibited a higher rate of debonding but had significantly more repairable failures. Conversely, post core-crown restorations demonstrated higher fracture resistance with the presence of ferrule, but were associated with more catastrophic failure patterns. Endocrowns generated lower stress levels in both the restorative material and the luting material compared to post core-crown restorations. Among the tested materials, lithium disilicate ceramics provided the best biomechanical properties. Endocrowns are a viable and conservative approach for restoring endodontically treated anterior teeth, offering comparable biomechanical performance to traditional post core-crown restorations and less catastrophic failures.
+
+KEY FULL-TEXT POINTS
+- Post-retained core-and-crown (PCC) remains the most commonly practiced rehabilitation for ETT. The main advantage of post insertion is RETENTION OF THE CORE foundation, NOT reinforcement of the tooth.
+- Metal posts (high elastic modulus) tend to cause root fractures; fiber posts produce more favorable in-vitro failure outcomes.
+- Posterior ETT: post role less critical (vertical compressive loads). Anterior teeth: obliquely loaded, so post placement influences flexural behavior and fracture resistance more.
+- Endocrown (introduced Pissis 1995; refined Bindl & Mörmann 1999): adhesive monolithic ceramic restoration encompassing pulp chamber + cavity margins; macro-mechanical anchorage from pulp cavity + micro-mechanical adhesive bonding. Single unit (crown + core).
+- 12 studies included (8 in-vitro fatigue + load-to-failure; FEA studies). Risk of bias: all medium (QUIN 50-70%, most 59-63%). Meta-analysis not possible due to heterogeneity → narrative synthesis.
+- Findings: Most studies — endocrowns showed similar or greater fracture resistance and more repairable (non-catastrophic) failures than PCC. PCC with ferrule showed higher fracture resistance but more catastrophic (vertical root fracture) failures.
+- Lithium disilicate ceramic (flexural strength ~400 MPa, fracture toughness 3.3 MPa·m^1/2) gave the best biomechanical properties; resin nano-ceramic endocrowns had ~7% fewer catastrophic failures than lithium disilicate due to lower modulus.
+- Zirconia endocrowns: highest fracture resistance but rigid (modulus 210 GPa vs dentin 18.6 GPa) → stress accumulation in root → catastrophic failures.
+- Ferrule (1-2 mm) was the dominant factor in fatigue resistance regardless of material or technique. In absence of ferrule, endocrowns with 3 mm intracanal extension gave best stress distribution.
+- Intracanal extension depth 3-5 mm recommended; deeper extension (5-6 mm) increases pull-out bond strength but may increase marginal/internal gap.
+- One 1-year double-blind RCT (El-Enein): e.max press endocrowns vs e.max PCC — no statistical significance in gross fracture; endocrowns showed 33% marginal discrepancy (NS); authors still recommended PCC for anterior ETT.
+- Long posts PCC (10 mm) recorded the highest number of non-repairable fractures; short posts (5 mm) with adhesive crowns viable.
+- Conclusion: both endocrowns and PCC are viable; ideal endocrown candidates have significant coronal loss but sufficient remaining dentin walls; cases requiring substantial ferrule effect may benefit more from traditional methods.
