@@ -22,6 +22,7 @@ source: synthesis
 > - Iqbal 2025 umbrella review(17편): ChatGPT-in-healthcare SR 대다수가 AMSTAR-2 중간 5편·낮음 12편 — 방법론 품질 낮음, 무비판 인용 금지.
 > - 임상 적용 단계: 즉시 도입 검토(영상 보조 진단, MFDS 인허가·보험 별도 확인) → 신중 활용(LLM 환자 응답은 front-desk 초안+임상의 검수, 한국어 성능 미검증) → 미성숙 회피(자율 술식 로봇·end-to-end 자동화).
 > - 법적 원칙: AI가 보조해도 진단·치료 책임은 의사 귀속, AI 출력은 확진이 아닌 screening 도구로만, 개인정보보호법(PIPA) 적용.
+> - 소아치과 AI 확장(2026, `artificial-intelligence/` 신설): 엄브렐러 리뷰(Garg 2026)에서 영상용 합성곱 신경망(Convolutional Neural Network, CNN) 민감도/특이도 80–83%·곡선하면적(AUC) 0.87–0.91이나 포함 SR 대부분 AMSTAR-2 낮음/매우 낮음 — 성인 cluster와 동일하게 "영상 진단 우위 + 근거 품질 경고" 패턴 재확인(Gómez-Ríos 2025 머신러닝 SR은 우식 예측 14/20편 집중).
 > - 공통 공백: AI 도입 vs 미도입을 비교한 환자-결과 RCT 부재, 한국어·한국 인구 검증 부재, 5년 이상 장기 추적 데이터 부재.
 
 ## One-line Summary
@@ -98,6 +99,16 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 
 **기능 2 — 인접 통합 기술 매핑 (Mizna 2025, Faiyazuddin 2025).** 로봇 보조 수술·재활·증강현실 (Augmented Reality, AR)·가상현실 (Virtual Reality, VR)·사물인터넷 (Internet of Things, IoT)·웨어러블 분석. 치과 직접 적용은 제한적이나, 만성질환 환자(당뇨·심혈관)의 웨어러블 데이터가 치과 사전 처치 위험도 평가로 흘러오는 시나리오는 5–10년 시야에서 현실적. [추정]
 
+## Cluster 5 — Pediatric-dentistry AI (2026 extension)
+
+본 종합은 2026-05-21 9편으로 시작했으나, 2026년에 신설된 `artificial-intelligence/` 카테고리의 소아치과 AI 2편이 cluster 1(정량 anchor)·cluster 4(메타-품질 audit)의 핵심 명제를 **독립적으로 재확인**한다.
+
+**Garg 2026 (umbrella review, 7 SR / 1차 109편)** — 소아치과 인공지능 (Artificial Intelligence, AI), 특히 영상용 합성곱 신경망 (Convolutional Neural Network, CNN)이 통합 민감도/특이도 80–83%·곡선하면적 (Area Under the Curve, AUC) 0.87–0.91을 달성. 그러나 포함 SR 대부분이 A MeaSurement Tool to Assess systematic Reviews v2 (AMSTAR-2) 기준 낮음/매우 낮음 질, 중복은 보정중복면적 (Corrected Covered Area, CCA) 8.27%로 중등도. **Iqbal 2025와 동일한 메타-품질 경고 — 강한 영상 진단 metric이 약한 1차 근거 위에 서 있다.** [근거강함 for the metric, 근거약함 for underlying SR quality]
+
+**Gómez-Ríos 2025 (sr, PRISMA·QUADAS-2; 1945→20편)** — 소아치과 머신러닝 (Machine Learning, ML)은 우식 예측(20편 중 14편, 사회인구·행동·생물학적 예측인자)에 집중; ML 비용분석은 실란트+불소가 비용 절감에 유리. ML 전용 보고지침·질 평가 척도 부재를 명시. [합의수준]
+
+**Synthesis [claude해석]** — 두 편은 cluster 2의 "영상 라벨링 작업이 가장 성숙"이라는 공통 결론을 소아 인구에서 재현하면서(영상 CNN > 비영상 ML), 동시에 cluster 4의 "방법론 품질이 낮아 무비판 인용 금지"를 강화한다. 즉 AI 성숙도 지형(영상 진단 우위)과 근거 품질 경고(낮은 SR 질)는 성인·소아를 가로질러 일관된다.
+
 ## Evidence quality audit (cluster-wide)
 
 | 차원 | 분포 |
@@ -151,3 +162,5 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 - [[digital-workflow/srinivasan-2025-artificial-intelligence-dental-implants-review]] — 임플란트 AI 2025 narrative
 - [[digital-workflow/altalhi-2023-artificial-intelligence-impact-dental-implantology]] — 임플란트 AI 2023 narrative
 - [[digital-workflow/saeed-2023-robotic-artificial-intelligence-implant-dentistry]] — 임플란트 로보틱스·AI
+- [[artificial-intelligence/garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review]] — 소아치과 AI 엄브렐러 리뷰 (CNN 영상 80–83%/AUC 0.87–0.91, SR 질 낮음); cluster 1·4 재확인 (sr, 2026)
+- [[artificial-intelligence/gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr]] — 소아치과 ML SR (우식 예측 14/20편); 영상 우위·근거 품질 경고 reinforce (sr, 2025)
