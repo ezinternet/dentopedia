@@ -68,5 +68,5 @@ Per-case (Table 1):
 - Update this page when a prospective multi-center accuracy study of stackable guides appears.
 
 ## Related Papers
-- [[digital-workflow]] — broader category for guided surgery accuracy literature
+- [[overviews/digital-workflow-decision-ladder]] — broader category for guided surgery accuracy literature
 - (Add links to specific implant-guide accuracy studies as they enter the wiki)
