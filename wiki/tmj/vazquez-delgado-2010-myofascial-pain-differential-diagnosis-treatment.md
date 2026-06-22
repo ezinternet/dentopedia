@@ -57,4 +57,4 @@ The review also stresses two clinical realities: a **broad differential** (many 
 - [[tmj/koole-2019-spray-stretch-technique-mouth-opening]] — reinforces: provides the immediate MMO evidence for the spray-and-stretch technique this review ranks first.
 - [[tmj/pal-2014-trends-management-myofascial-pain]] — reinforces: a broader management catalog covering the same modalities with an orofacial focus.
 - [[tmj/chan-2022-myogenous-tmd-diagnosis-treatment-review]] — related: current DC/TMD-based myogenous-TMD diagnosis and treatment.
-- [[oral-medicine]] — related: orofacial pain / differential-diagnosis context.
+- [[overviews/oral-medicine-decision-ladder]] — related: orofacial pain / differential-diagnosis context.
