@@ -20,6 +20,7 @@ tags: [VPT, vital-pulp-therapy, direct-pulp-capping, pulpotomy, MTA, Biodentine,
 > - 가장 중요한 임상 takeaway: 진단이 술식보다 결과를 좌우한다 — 가역성 치수염 진단이 핵심 게이트, 올바르게 선별된 증례 안에서만 재료·술식이 결과를 최적화.
 > - 재료 위계: Biodentine·MTA가 1차 재료; 직접치수복조(DPC)서 수산화칼슘 Ca(OH)₂ 대비 교차비 OR 4.41(Biodentine)·3.02(MTA)(Hatipoglu 2025), SUCRA 순위 Biodentine > MTA > TheraCal > Ca(OH)₂.
 > - Ca(OH)₂는 어떤 VPT 술식에서도 1차 재료로 비권장 — MTA 대비 2.3–2.5배 실패율(Komora 2024); Biodentine·Totalfill은 MTA와 동등.
+> - 단, 올바르게 선별된 가역성 치수염 증례에서는 재료 차이가 사라진다 — 3-way 직접치수복조(DPC) RCT(Hu 2026, n=120, 12개월): iRoot BP Plus(바이오세라믹) 88.5%·MTA 93.1%·Ca(OH)₂ 84.6%로 유의차 없음(p=0.6); 실패의 최강 예측인자는 재료가 아니라 근심면 우식(Proximal Lesion, OR=18.18) — 재료 선택보다 증례 선택(case selection)이 결과를 좌우.
 > - 전체 VPT 성공률 >93%(Elmsmari 2026 Bayesian NMA + CINeMA, 35 RCT); MTA vs Ca(OH)₂ HIGH certainty 우월, silicate끼리(MTA vs Biodentine)는 우열 없음.
 > - 유럽치내치료학회(ESE 2019) 4단계 위계: 간접치수복조(IPC) → 직접치수복조(DPC) → 부분치수절단술 → 전부치수절단술(침습도 순).
 > - 임상 pearl — 생활치수절단술(Vital Pulpectomy, Jang 2026): 치관부+상부치근 치수만 제거하고 근첨 생활치수 보존; Endoseem(바이오세라믹) ≥3 mm 차폐, 작업장 근첨서 2–3 mm 짧게, 충전관(crown) 필수.
@@ -90,6 +91,18 @@ Conclusion: Ca(OH)₂ fails at 2.3–2.5× the rate of MTA across all time point
 - DPC MTA vs Biodentine: NS
 - Partial vs full pulpotomy: NS
 
+**Hu 2026 (RCT, n=120, single-blind, 12-mo) — DPC, mature permanent teeth, caries-induced reversible pulpitis:**
+
+Direct 3-way comparison of iRoot BP Plus (bioceramic) vs ProRoot MTA vs Calxyl Ca(OH)₂:
+
+| Material | 12-mo success |
+|---|---|
+| iRoot BP Plus | 88.5% |
+| MTA | 93.1% |
+| Ca(OH)₂ | 84.6% |
+
+No significant difference between materials (p=0.6; log-rank p=0.66). The decisive finding is prognostic, not material: **proximal lesion location was the dominant failure predictor (OR=18.18, p=0.001)** — shifting attention from material selection to case selection. This nuances the silicate-vs-Ca(OH)₂ hierarchy above: in a *correctly selected* reversible-pulpitis case the three materials performed equivalently (the Ca(OH)₂ rate here, 84.6%, is far above its long-term failure signal in Komora/Hatipoglu), and the difference between Calxyl here and Dycal in Kundzina 2017 may explain why this RCT did not reproduce MTA's superiority. iRoot BP Plus matched MTA without MTA's discoloration/handling drawbacks. (32.5% dropout, COVID-related, limits power for small between-material differences.) [근거강함 for case-selection; material equivalence underpowered]
+
 **Reparative dentin bridge — Nowicka 2015 (in vitro, micro-CT, 44 teeth):**
 - Bridge formation: Biodentine > MTA > Ca(OH)₂ >> Single Bond Universal
 - SBU showed toxic/inflammatory response — DPC 금기 [in-vitro]
@@ -138,6 +151,7 @@ All three NMA confirm success rates decline over time regardless of material (Ha
 - [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] — vital pulpectomy clinical protocol
 - [[endodontics/vpt/pusa-2025-clinical-success-vital-pulp-therapy]] — independent SR+MA
 - [[endodontics/vpt/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct]] — adult DPC RCT
+- [[endodontics/vpt/hu-2026-direct-pulp-capping-materials-rct-12mo]] — 3-way DPC RCT (iRoot BP Plus/MTA/Ca(OH)₂); materials equivalent at 12 mo, proximal lesion location dominant failure predictor (OR=18.18)
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — adult full pulpotomy prospective
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — micro-CT dentin bridge
 - [[overviews/endodontics-comprehensive-ladder]] — broader endodontics overview
