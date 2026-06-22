@@ -1,0 +1,15 @@
+Title: Randomized controlled trial comparing glass-fiber versus metal posts in single-crowned teeth: 15 Year follow-up.
+Authors: Van Landuyt KL, Wouters E, Zicari F, Debels E, Naert I, Van Meerbeek B, Peumans M.
+Journal: Journal of Dentistry. 2025;156:105694.
+DOI: 10.1016/j.jdent.2025.105694
+PMID: 40096878
+Source: PubMed (abstract only — no PMC full text)
+
+ABSTRACT
+This randomized controlled trial compared the 15-year clinical success and survival rate of endodontically treated teeth restored with glass-fiber or metal posts.
+
+Methods: 131 patients in need of 182 post and single-crown restorations were included. Teeth were randomly assigned to the control group (metal post, Parapost XT, Coltène) or test group (glass-fiber post). Teeth in the test group were further divided based on the size and shape of the root canal (RC). Teeth with a small RC were restored with prefabricated glass-fiber posts (Parapost Fiberlux, Coltène) and teeth with a wide oval canal with custom-made glass-fiber posts (Everstick, StickTech). Patients had follow-up appointments at 3, 5 and 15 years. Success (original post present) and survival (present after intervention) probability lifetime curves, corrected for clustering, were calculated (Kaplan-Meier).
+
+Results: The mean follow-up time was 179.6 ± 7 months, and the recall rate was 91.6%. Success rate was 48.0% for metal posts, 59.2% for prefabricated glass-fiber posts and 49.5% for custom glass-fiber posts. Survival rate was 53.6% for metal posts, 68.5% for prefab glass-fiber posts and 55.3% for custom glass-fiber posts. No statistically significant effect of post material was observed. There was, however, a trend towards better success/survival for teeth with prefabricated glass-fiber posts. Teeth with metal posts failed more frequently due to root fracture than teeth with glass-fiber posts.
+
+Conclusions: There was a trend towards better clinical success and survival rate for teeth restored with glass-fiber posts, even though post material had no statistically significant effect on the clinical outcome. After 15 years, teeth restored with glass-fiber posts tended towards better clinical success and survival than teeth restored with gold-alloy posts. The difference was not statistically significant, probably due to a low effect size of the post material on success and survival.
