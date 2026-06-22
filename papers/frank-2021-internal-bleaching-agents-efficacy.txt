@@ -1,0 +1,17 @@
+Title: Comparison of the Bleaching Efficacy of Different Agents Used for Internal Bleaching: A Systematic Review and Meta-Analysis.
+Authors: Frank AC, Kanzow P, Rödig T, Wiegand A.
+Journal: Journal of Endodontics (J Endod), 2021.
+DOI: 10.1016/j.joen.2021.10.011
+PMID: 34762968
+Source: PubMed metadata (abstract only — no PMC full text available).
+
+ABSTRACT
+The aim of this study was to analyze and compare the efficacy of different bleaching agents typically used for internal bleaching of endodontically treated discolored teeth.
+
+Electronic databases (PubMed, Web of Science, and Cochrane Library) were searched by 2 reviewers for clinical trials in which the color of endodontically treated discolored teeth before and after internal bleaching was examined using shade guide units (ΔSGU) or a spectrophotometer/colorimeter (ΔE). The efficacies of the bleaching agents were compared using subgroup analyses. Statistical heterogeneity was assessed with the Cochran Q test and I2 statistic. Publication bias was evaluated using funnel plots.
+
+Eight studies were included in the systematic review, 6 of which could be included in the meta-analyses. Internal bleaching led to a significant change in tooth shade (ΔSGU: 6.27 [95% confidence interval, 5.36-7.17], ΔE: 12.83 [95% confidence interval, 9.46-16.20]). With regard to ΔSGU, the use of carbamide peroxide (35% or 37%), hydrogen peroxide (35%), and the combination of sodium perborate and hydrogen peroxide (3% or 30%) led to a better bleaching effect than sodium perborate (adjusted P value <= .026). Regarding ΔE, there were no significant differences between carbamide peroxide (37%), hydrogen peroxide (35%), and sodium perborate mixed with hydrogen peroxide (P = .051). The risk of bias of the included studies was classified as moderate to high.
+
+Carbamide peroxide, hydrogen peroxide, and sodium perborate have a significant bleaching effect on discolored, root canal-treated teeth. For a valid assessment of shade stability and a comparison of bleaching agents and their concentrations, further studies with long-term recalls are necessary.
+
+Attribution: Retrieved via PubMed (https://pubmed.ncbi.nlm.nih.gov/34762968/). DOI 10.1016/j.joen.2021.10.011.
