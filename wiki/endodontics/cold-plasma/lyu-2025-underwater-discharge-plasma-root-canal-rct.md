@@ -81,5 +81,5 @@ The device (PLAZEN RCT®) is commercially available in Korea; institutional COI 
 
 ## Related Papers
 
-- [[endodontics/irrigation]] — NaOCl protocols and irrigant activation methods; UDP is positioned as a next-generation alternative addressing NaOCl's cytotoxicity and penetration limits
-- [[endodontics/cold-plasma]] — broader cold plasma endodontic context (in vitro studies on E. faecalis, C. albicans)
+- [[overviews/irrigation-activation-comparison]] — NaOCl protocols and irrigant activation methods; UDP is positioned as a next-generation alternative addressing NaOCl's cytotoxicity and penetration limits
+- [[overviews/cold-plasma-endodontic-disinfection-synthesis]] — broader cold plasma endodontic context (in vitro studies on E. faecalis, C. albicans)
