@@ -41,4 +41,4 @@ No empirical results. The piece is a positioning document for the journal commun
 
 ## Related Papers
 
-- Existing [[endodontics/irrigation]] papers — PUI / ANP / sonic activation evidence base that precision-endo would supplement or eventually replace
+- Existing [[overviews/irrigation-activation-comparison]] papers — PUI / ANP / sonic activation evidence base that precision-endo would supplement or eventually replace
