@@ -1,0 +1,125 @@
+A Study of the Associated Risk Factors for Early Failure and the Effect of Photofunctionalisation in Full-Arch Immediate Loading Treatment Based on the All-on-Four Concept.
+Uesugi T, Shimoo Y, Munakata M, Kataoka Y, Sato D, Yamaguchi K, Sanda M, Fujimaki M, Nakayama K, Watanabe T, Malo P.
+Bioengineering (Basel). 2024 Feb 27;11(3):223.
+DOI: 10.3390/bioengineering11030223
+PMID: 38534497  PMCID: PMC10968038
+
+[FULL TEXT retrieved from PubMed Central (PMC10968038).]
+
+ABSTRACT
+Early implant failure occurring within 1 year after implantation has been attributed to various
+factors. Particularly, early failure can lead to challenges in maintaining a full-arch prosthetic
+device, necessitating prompt intervention, including reoperation. This study aimed to retrospectively
+examine implant- and patient-related factors and the effects of photofunctionalisation associated
+with early failure in patients who underwent treatment using the all-on-four concept in both the
+maxilla and mandible. We conducted this retrospective study comprising 561 patients with 2364 implants
+who underwent implant-supported immediate loading with fixed full-arch rehabilitation using the
+all-on-four concept. We aimed to assess the survival rate within 1 year after implantation and
+determine the risk factors influencing early failure. The 1-year survival rates after implantation
+were 97.1% (patient level) and 98.9% (implant level) for the maxilla and 98.5% (patient level) and
+99.6% (implant level) for the mandible. There was a significant difference in the implant-level
+survival rates between the maxilla and mandible, with a lower rate in the maxilla (p = 0.043). The
+risk factors associated with early implant failure according to the all-on-four concept included the
+maxilla (implant level) and smoking (patient level). We could not find a significant effect of
+photofunctionalisation on early failure (p = 0.25) following this treatment protocol.
+
+1. INTRODUCTION
+Implant failure is influenced by multiple factors and categorised into early and late failure
+depending on the timing of implant loss. Late failure is attributed to peri-implantitis caused by
+bacterial infection and overloading due to bruxism or inappropriate implant design. Conversely, early
+failure results from multifaceted causes: surgeon-related factors (skill/experience, surgical
+technique), patient-related factors (sex, age, location, bone quality, smoking, systemic diseases,
+parafunction), and implant-related factors (diameter, length, surface characteristics).
+
+Early failure of a single implant can lead to difficulties in maintaining the full-arch prosthesis,
+imposing a significant burden, particularly on patients receiving implant-supported immediate loading
+with fixed full-arch rehabilitation using the all-on-four concept.
+
+Surface properties are an implant-related factor causing early failure. Compared to machined surfaces,
+moderately rough surfaces retain fibrin matrix, facilitate osteoconductive responses and osseointegration.
+Photofunctionalisation (UV treatment) was first reported in 2009 to increase attachment, diffusion,
+proliferation, and differentiation of osteoblasts and to increase protein adsorption up to three times;
+in vivo it promotes osseointegration approaching ~100% bone-to-implant contact. It removes hydrocarbons,
+improves hydrophilicity (reverses titanium "ageing"), reduces pathogen adhesion/biofilm.
+
+Despite being a burdensome procedure, there are few reports on risk factors affecting early failure in
+all-on-four, including the presence/absence of photofunctionalisation. The objective was to determine
+risk factors for early implant failure of the all-on-four concept and analyse whether photofunctionalisation
+reduces early failure.
+
+2. MATERIALS AND METHODS
+Retrospective study. Patients who underwent tooth extraction with all-on-four-based implant placement
+and immediate loading for fixed full-arch reconstruction at a private clinic (Malo Dental and Medical
+Tokyo) between September 2005 and October 2020. Exclusions: no follow-up at clinic; zygomatic implants;
+immunosuppression; active malignancy treatment; intravenous bisphosphonate therapy; uncontrolled systemic
+disease (e.g., diabetes).
+
+Surgical protocol: all implants had anodic-oxidation surface (Nobel Speedy Groovy, Nobel Biocare).
+Photofunctionalisation performed chairside just before implantation, 1 min, Super Osseo Integration
+Excimer UV system (172 nm, 20 mW/cm2), for implants placed after August 2016 (when system introduced).
+All surgery/prosthetics by five surgeons with >10 years implant experience. Local anaesthesia. Standard
+all-on-four protocol (posterior tilted implants ≥4.0 mm, anterior ≥3.3 mm; straight or 17°/30° angled
+abutments). If implant ≥10 mm length or ≥35 Ncm initial fixation not achievable, additional implants
+placed. Antibiotic: amoxicillin 250 mg 4×/day for 5 days; benzethonium chloride mouthwash; loxoprofen
+analgesic. Same-day provisional (Co-Cr reinforced acrylic). Final prosthesis 6 months later.
+
+Clinical outcome: early failure within 1 year of implantation. Failure = removal of implant within 1
+year owing to mobility, persistent pain, swelling, or inflammation/abscess. Patient-level failure = ≥1
+implant lost in a single patient.
+
+Statistics: univariate chi-square; multivariate logistic regression; odds ratios. SPSS 20. p<0.05
+significant.
+
+3. RESULTS
+Study included 617 patients (345 maxilla, 272 mandible) with 2453 fixtures (1376 maxilla, 1077 mandible).
+320 male / 297 female; mean age 56.8 ± 10.8 years. (Abstract reports 561 patients / 2364 implants for the
+all-on-four cohort analysed.)
+
+1-year survival (early failure) rates:
+- Maxilla patient level 97.1% (2.9% early failure); maxilla implant level 98.9% (1.1%).
+- Mandible patient level 98.5% (1.5%); mandible implant level 99.6% (0.4%).
+- Maxilla significantly lower survival at implant level (p=0.043).
+
+Photofunctionalisation (Table 2): Maxilla — Yes 0.6% (3/486 implants), No 1.3% (12/890); patient level
+Yes 2.4% (3/126), No 3.2% (7/219). Mandible implant level Yes 0.3% (1/333), No 0.4% (741/744). Reduced
+early failure at all levels but NOT statistically significant.
+
+Implant variables (Table 3, total n=2453, 19 failures): photofunctionalisation Yes 0.5% vs No 0.9%
+(p=0.25); implant angulation straight 0.6% vs tilted 1.0% (p=0.24); implant length, diameter, primary
+stability — no significant differences.
+
+Patient factors: sex — male 3.4% vs female 1.0% (p=0.043, higher in males, univariate). Smoking —
+smokers 4.1% vs non-smokers 1.3% (p=0.023). Systemic disease — no significant difference for diabetes/
+cardiovascular; osteoporosis trend (p=0.051 <0.1).
+
+Multivariate logistic regression (items with univariate significance + photofunctionalisation):
+- Maxilla treatment area: OR 3.12, p=0.0444 (implant level) — most influential, significant.
+- Smoking: OR 2.92, p=0.0296 (patient level) — significant.
+- Male sex: OR 1.25, p=0.649 — NS.
+- Photofunctionalisation: OR 0.51, p=0.237 (implant level) — protective trend but NS.
+
+4. DISCUSSION (key points)
+All-on-four medium-long-term survival 93.9-100% (maxilla) and 91.7-100% (mandible) over 3-18 years.
+Context: Derks et al. (Swedish population) overall 9-year failure 7.6%, of which failure before
+superstructure attachment 4.4%. Lin et al. (18,199 patients / 30,959 implants): patient survival 98.0%,
+implant 98.7%; 194 implants (0.6%) lost before abutment connection; early failures (within first 6 months)
+= 48.1% of all lost implants. Understanding/avoiding early failure is crucial.
+
+Definition of "early failure" varies: ① before abutment connection; ② before loading; ③ within 1 year
+of loading; ④ within 1 year after upper structure installation. As this study uses immediate loading in
+all cases, early failure was defined as within 1 year of loading.
+
+Maxilla as a risk factor: consistent with Wu et al. meta-analysis of early failure in immediate loading.
+Higher maxillary early failure attributed to bone quality, opposing-teeth state, and parafunction
+(especially with immediate loading). Smoking negatively impacts early failure; smoking cessation guidance
+crucial. Osteoporosis showed trend; bisphosphonate-treated osteoporosis higher implant-failure risk (Malo).
+
+Limitations: single implant-surface type (anodic oxidation) only, so photofunctionalisation effect by
+surface type not assessable; opposing-teeth/parafunction not investigated; systemic-disease medications
+not considered.
+
+5. CONCLUSIONS
+Multivariate analysis of implant- and patient-related factors plus photofunctionalisation on early failure
+within 1 year of all-on-four full-arch immediate loading: maxilla (implant level) and smoking (patient
+level) were significant risk factors for early failure; photofunctionalisation showed a protective trend
+(OR 0.51) but was not statistically significant.
