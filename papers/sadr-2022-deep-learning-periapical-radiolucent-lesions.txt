@@ -1,0 +1,12 @@
+Deep Learning for Detection of Periapical Radiolucent Lesions: A Systematic Review and Meta-analysis of Diagnostic Test Accuracy.
+Sadr S, Mohammad-Rahimi H, Motamedian SR, Zahedrozegar S, Motie P, Vinayahalingam S, Dianat O, Nosrat A. J Endod. 2023;49(3):248-261.e3. doi:10.1016/j.joen.2022.12.007. PMID 36563779.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+Aim: To investigate the overall accuracy of deep learning models in detecting periapical (PA) radiolucent lesions in dental radiographs, compared to expert clinicians.
+
+Methods: Databases searched: Medline (PubMed), Embase (Ovid), Scopus, Google Scholar, arXiv. Quality assessed with QUADAS-2. Quantitative analyses via hierarchical logistic regression for diagnostic accuracy meta-analyses. Subgroup analyses on image modalities (PA radiographs, panoramic radiographs, CBCT) and DL tasks (classification, segmentation, object detection). Certainty of evidence assessed via GRADE.
+
+Results: 932 studies screened. 18 included in systematic review, 6 selected for quantitative analyses. 6 studies low risk of bias; 12 studies had risk of bias. Pooled (all modalities, all tasks): sensitivity 0.925 (95% CI 0.862-0.960), specificity 0.852 (95% CI 0.810-0.885), positive likelihood ratio 6.261, negative likelihood ratio 0.087, diagnostic odds ratio 71.692. No publication bias (Egger P=.82). GRADE: "high" certainty of evidence for meta-analysis studies.
+
+Conclusions: Compared to expert clinicians, deep learning showed highly accurate results in detecting PA radiolucent lesions. Most studies had risk of bias; lack of prospective studies.
