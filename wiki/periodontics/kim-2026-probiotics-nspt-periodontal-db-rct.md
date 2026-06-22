@@ -100,5 +100,5 @@ Sixty-one participants completed the trial. The primary microbiological outcome 
 
 ## Related Papers
 
-- [[periodontics]] — broad periodontal disease category; this paper fills the probiotics-adjunct-to-NSPT evidence slot
-- [[oral-microbiology]] — microbiome methodology (16S rRNA + metagenomics) and red/orange complex pathogen ecology connect to this domain
+- [[overviews/periodontics-treatment-ladder]] — broad periodontal disease category; this paper fills the probiotics-adjunct-to-NSPT evidence slot
+- [[overviews/oral-microbiome-biofilm-dysbiosis-synthesis]] — microbiome methodology (16S rRNA + metagenomics) and red/orange complex pathogen ecology connect to this domain
