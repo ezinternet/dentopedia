@@ -39,7 +39,7 @@ Diagnostic effectiveness for pulpitis judged low. No reliable preoperative indic
 
 ## Clinical Application
 - Treat a single test (cold/EPT) as a weak signal, not a verdict — corroborate with history, percussion, radiographs.
-- Because preoperative pulp-status prediction is unreliable, vital pulp therapy decisions ([[endodontics/vpt]]) carry irreducible diagnostic uncertainty; consent and follow-up should reflect that.
+- Because preoperative pulp-status prediction is unreliable, vital pulp therapy decisions ([[overviews/vital-pulp-therapy-decision-ladder]]) carry irreducible diagnostic uncertainty; consent and follow-up should reflect that.
 
 ## Related Papers
 - [[endodontics/diagnosis/patro-2022-diagnostic-accuracy-of-pulp-vitality]] — reinforces: quantifies the relative accuracy of the individual tests this SR discusses.
