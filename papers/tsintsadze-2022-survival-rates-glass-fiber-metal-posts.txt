@@ -1,0 +1,17 @@
+Title: Comparing survival rates of endodontically treated teeth restored either with glass-fiber-reinforced or metal posts: A systematic review and meta-analyses.
+Authors: Tsintsadze N, Margvelashvili-Malament M, Natto ZS, Ferrari M.
+Journal: The Journal of Prosthetic Dentistry. 2022;131(4):567-578.
+DOI: 10.1016/j.prosdent.2022.01.003
+PMID: 35430048
+Source: PubMed (abstract only — no PMC full text)
+
+ABSTRACT
+When restoring endodontically treated teeth, a post system is indicated to retain a core. Clinicians can choose from different post materials and types. However, the literature is inconclusive on the long-term clinical performance of available post systems.
+
+Purpose: The purpose of this systematic review and meta-analysis was to analyze the survival and failure rates of endodontically treated teeth restored either with glass-fiber-reinforced or metal posts.
+
+Material and methods: The research question was formulated by following the PRISMA guidelines by using the PICOS tool. Medline (PubMed), Embase, and Scopus searches complemented by manual search were performed for randomized controlled clinical trials with a follow-up of at least 2 years. Two independent authors performed screening and data extraction. Meta-analyses were performed with the RevMan software. Homogeneity was checked by using chi-square and I-square tests, and random-effects meta-analyses were applied. Odds ratio and 95% confidence interval were calculated (alpha=.05). Publication bias was evaluated by using funnel plots and the Begg and Egger tests.
+
+Results: A total of 184 studies were retrieved through electronic searches, plus 4 through hand search. After title/abstract exclusion, 23 studies remained for full-text analysis, of which 7 were selected for data extraction. Meta-analyses revealed an overall survival rate of 92.8% for endodontically treated teeth restored with glass-fiber-reinforced posts compared with 78.1% of those restored with metal posts. No statistically significant difference (P>.05) was found in survival, success, or failure rates.
+
+Conclusions: No statistically significant differences were found between the survival and failure rates of endodontically treated teeth restored either with glass-fiber-reinforced or metal posts. The overall survival rate was 92.8% for glass fiber posts and 78.1% for metal posts. Both are reliable materials when a significant amount of coronal tooth structure is missing and treatment with a post is indicated.
