@@ -1,0 +1,12 @@
+ARTIFICIAL INTELLIGENCE PLATFORMS IN DENTAL CARIES DETECTION: A SYSTEMATIC REVIEW AND META-ANALYSIS.
+Abbott LP, Saikia A, Anthonappa RP. J Evid Based Dent Pract. 2024;25(1):102077. doi:10.1016/j.jebdp.2024.102077. PMID 39947783.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+Objective: To assess AI platforms, machine learning methodologies and associated accuracies used in detecting dental caries from clinical images and dental radiographs.
+
+Methods: Systematic search of 8 electronic databases (Scopus, Web of Science, MEDLINE, ERIC, IEEE Explore, Science Direct, DOAJ, JSTOR) from January 2000 to March 2024. AI platforms, ML methodologies and associated accuracies extracted. Quality assessed using QUADAS-2 and the CLAIM checklist. Meta-analysis performed to obtain a quantitative estimate of AI accuracy.
+
+Results: Of 2538 studies identified, 45 met inclusion criteria for qualitative synthesis. 33 used dental radiographs, 12 used clinical images. 21 different AI platforms reported. Accuracy ranged 41.5% to 98.6% across platforms. Quantitative meta-analysis across 7 studies: mean sensitivity 76% [95% CI 65%-85%], specificity 91% [95% CI 86%-95%], AUC 92% [95% CI 89%-94%], with high heterogeneity.
+
+Conclusions: Significant variability exists in AI performance for detecting dental caries across platforms. Meta-analysis shows AI has superior sensitivity and equal specificity for detecting caries from clinical images compared to bitewing radiography. AI promising for caries detection but further refinement needed for consistent, reliable performance across imaging modalities.
