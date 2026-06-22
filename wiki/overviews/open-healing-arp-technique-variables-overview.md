@@ -79,7 +79,7 @@ Adams 2022(BDJ, narrative review + 2 증례)는 수정주의적 균형추다. 5~
 ## Phase 2 확장 후보 (Stub)
 - Park 그룹 압축력 충돌(Cho 2017 vs Lee 2020)을 정량 force–신생골 dose-response로 재검증하는 RCT ingest 시 축 2 보강.
 - PROM 포함 ARP RCT ingest 시 축 4의 "통계≠이득" 간극 정량화.
-- 즉시 식립([[immediate-implant]] 카테고리)과 ARP의 의사결정 분기 overview로 확장.
+- 즉시 식립([[overviews/immediate-implant-decision-ladder]] 카테고리)과 ARP의 의사결정 분기 overview로 확장.
 
 ## Related Papers
 - [[bone-regeneration/ridge-preservation/park-2016-hidden-x-suture-ridge-preservation]] — 봉합법(hidden X) → 협측 KT 보존 (축 1)
