@@ -1,0 +1,21 @@
+Source: PubMed (abstract only — full text not retrieved)
+PMID: 38576393
+DOI: 10.1111/edt.12956
+Journal: Dental Traumatology (Dent Traumatol) 2024;40(5):482-498
+Title: Risk of pulp necrosis and related complications in the permanent anterior teeth with lateral luxation: A systematic review and meta-analysis.
+Authors: Tewari N, Lauridsen E, Atif M, Srivastav S, Tsilingaridis G, Haldar P, Andersson L (AIIMS New Delhi; Dental Trauma Guide/Rigshospitalet Copenhagen; Karolinska Institutet; Malmo University).
+Registration: PROSPERO
+
+ABSTRACT:
+This systematic review aimed to evaluate the evidence related to the occurrence of pulp necrosis and related complications in permanent anterior teeth with lateral luxation. It was envisaged to address the ambiguity related to the recommendation for pulp extirpation in teeth with mature root apex.
+
+Methods: A priori protocol per best practices of evidence-based medicine, registered in PROSPERO. Comprehensive electronic search in PubMed, LILACS, Web of Science, EMBASE, Scopus, Cochrane on July 10, 2023, without restriction of language or year. Screening of titles/abstracts then full-text. Data extraction via self-designed sheet, risk of bias (ROB) assessment, meta-analysis, GRADE for quality of evidence.
+
+Results: Qualitative synthesis on 13 studies done from 1985 to 2020 in hospital settings. Variability in observation periods, sample sizes, and sample population characteristics.
+- Overall pooled prevalence of pulp necrosis: 57% (95% CI: 42, 72%)
+- In IMMATURE teeth: 12% (95% CI: 8%, 18%, I2 = 0%)
+- In MATURE teeth: 58% (95% CI: 42, 73%, I2 = 86%)
+- Pooled prevalence of external inflammatory root resorption (EIRR): 11% (95% CI: 4, 27%, I2 = 95%), with greater risk in mature-apex teeth (RR: 1.26, 95% CI: 1.12, 1.42, I2 = 0%)
+- ROB moderate or high in 9 studies; GRADE very low in 14 of 15 outcomes.
+
+Conclusion: There are greater chances of pulp necrosis in teeth with lateral luxation, especially with mature apex. However, it can still be less than 60% in most cases, with prevalence of EIRR less than 20%. Hence, an absolute recommendation for endodontic intervention in mature teeth with lateral luxation must be interpreted with slight caution.
