@@ -100,6 +100,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 | **rct (n=30)** | [[implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading]] | 친수성 테이퍼 | 6주/12주 부하 모두 97.56% 성공 | 1년 |
 | **retrospective(n=258, 5.2yr)** | [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] | **Osstem CA** | 생존 97.3%, 성공 94.2%, MBL 0.074mm | 평균 62개월 |
 | **retrospective(n=96, 8yr)** | [[implants/surface/kim-2020-sa-implant-acid-etched-alumina-long-term]] | **Osstem SA** | 생존 94.8%; 합병증·1년 MBL>1mm = 실패 예측 | ≥8년 |
+| **prospective(early-loading)** | [[implants/surface/cochran-2002-reduced-healing-iti-sla-surface]] | **ITI SLA** | 4.1 mm SLA 솔리드스크류를 ~6주(class IV는 ~12주)에 보철 — abutment 35 Ncm 성공 99.3%, 1·2년 생명표 성공 99.1% | 1–2년, n=110/326 |
 | **prospective (D3/D4)** | [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] | 나노 생체활성 | **Stability dip 제거** (T0=74.57 → T45=74.97 vs SLA T0=77.12 → T45=73.44, p<0.05) | 45일 |
 | **case-report** | [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] | UV-PF | 1–4주 조기부하 가능 | — |
 | **animal** | [[implants/surface/yamada-2012-nanopolymorphic-hydroxyapatite-titanium-implant]] | 나노 HA 코팅 | BIC·강도 조기·후기 모두 향상; 효과 표면 50 µm 이내 | 쥐 |
@@ -108,7 +109,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 **합성 결론** [근거강함]:
 
-- **SLA/SA = 임상 표준** — 8년 94.8% 생존 (Kim 2020 retrospective)
+- **SLA/SA = 임상 표준** — 8년 94.8% 생존 (Kim 2020 retrospective); 그 표준의 출발점인 **SLA 단축 치유(~6주 부하)**의 최초 다기관 임상 근거는 Cochran 2002 (n=110/326 prospective, abutment 35 Ncm 성공 99.3%, 1·2년 성공 99.1%)로, 친수성·UV-PF 가속 부하 프로토콜이 비교되는 역사적 baseline
 - **CA (초친수성) = 더 안정적** — 5.2년 97.3% 생존, MBL 거의 무 (Kim 2022 retrospective)
 - **UV-PF = 가장 강한 7년 임상 근거** — 복잡증례에서 ISQ +21.9 (Hirota 2020 prospective)
 - **임상 SR+MA 부재** — 직접 비교 RCT 데이터 부족 [claude해석]
@@ -251,6 +252,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 ### 신규 추가 (2026-06)
 
+- [[implants/surface/cochran-2002-reduced-healing-iti-sla-surface]] — reinforces: landmark prospective multicenter trial (n=110/326) establishing SLA reduced healing time (~6wk; class IV ~12wk) with 99.3% abutment-placement success and 99.1% 1–2yr life-table success — historical early-loading baseline for the SLA→SLActive→CA→UV-PF accelerated-loading timeline (prospective, 2002)
 - [[implants/surface/bonfante-2012-calcium-phosphate-coatings-plasma-spray]] — reinforces: plasma-spray PSHA (71% crystalline HA) vs ACP (<1% HA) — BIC/BAFO statistically equivalent at 6+12 weeks despite large physicochemical differences; macrogeometry may dominate over CaP coating type (animal, 2012)
 - [[implants/surface/witek-2020-boronized-surface-osseointegration]] — extends: boronized CP-Ti (BM, BAA) implants showed declining BIC/BAFO over 3→6 weeks vs increasing controls; osteoid demineralization adjacent to TiB/TiB₂ surface — cautionary evidence that superior mechanical properties do not guarantee osseointegration (animal, 2020)
 - [[implants/surface/zhang-2025-dual-biofunctional-implant-coatings-in-vivo-sr]] — SR (English, Medline/Scopus/WoS, up to Dec 2024): 16편 in vivo (1 clinical 15 animal … (sr, 2025)
