@@ -1,0 +1,19 @@
+Title: Assessment of color changes and adverse effects of over-the-counter bleaching protocols: a systematic review and network meta-analysis.
+Authors: de Oliveira MN, Vidigal MTC, Vieira W, Lins-Candeiro CL, Oliveira LM, Nascimento GG, da Silva GR, Paranhos LR.
+Journal: Clinical Oral Investigations (Clin Oral Investig), 2024.
+DOI: 10.1007/s00784-024-05595-5
+PMID: 38430338
+Source: PubMed metadata (abstract only — no PMC full text available).
+
+ABSTRACT
+To assess color change efficacy and the adverse effects of varied over-the-counter (OTC) bleaching protocols.
+
+The study included randomized clinical trials evaluating color changes from OTC bleaching agents. Nine databases were searched, including the partial capture of the grey literature. The RoB2 tool analyzed the individual risk of bias in the studies. Frequentist network meta-analyses compared treatments through common comparators (ΔEab* and ΔSGU color changes, and tooth sensitivity), integrating direct and indirect estimates and using the mean and risk differences as effect measures with respective 95% confidence intervals. The GRADE approach assessed the certainty of the evidence.
+
+Overall, 37 remaining studies constituted the qualitative analysis, and ten composed the meta-analyses. The total sample included 1,932 individuals. ΔEab* was significantly higher in groups 6% hydrogen peroxide (HP) strips (>= 14 h). ΔSGU was significantly higher in groups at-home 10% carbamide peroxide (CP) (>= 14 h), followed by 6% HP strips (>= 14 h) and 3% HP strips (>= 14 h). At-home 10% CP (7-13 h) and placebo showed lower risks of tooth sensitivity without significant differences between these treatments.
+
+Considering the low level of evidence, OTC products presented satisfactory short-term effects on tooth bleaching compared to the placebo, with little to no impact on dentin hypersensitivity and gingival irritation.
+
+OTC products are proving to be practical alternatives for tooth whitening. However, patients should be advised about the possible risks of carrying out such procedures without professional supervision.
+
+Attribution: Retrieved via PubMed (https://pubmed.ncbi.nlm.nih.gov/38430338/). DOI 10.1007/s00784-024-05595-5.
