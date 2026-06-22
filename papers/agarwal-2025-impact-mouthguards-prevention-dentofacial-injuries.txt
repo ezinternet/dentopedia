@@ -1,0 +1,15 @@
+Source: PubMed (abstract only — full text not retrieved)
+PMID: 40586455
+DOI: 10.4103/jisppd.jisppd_55_25
+Journal: J Indian Soc Pedod Prev Dent 2025;43(2):163-172
+Title: Impact of mouthguards on the prevention of dentofacial injuries and sports performance among athletes: An umbrella review.
+Authors: Agarwal A, Saleem S, Khanna R, Singh RK, Doley S, Neerugattu N (King George Medical University, Lucknow; Sathyabama Dental College, Chennai, India).
+
+ABSTRACT:
+Question: Does the use of mouthguards (MGs) effectively prevent dentofacial injuries in athletes?
+
+Research protocol: An umbrella review of systematic reviews (SRs) with or without meta-analyses. Followed the Preferred Reporting Items for Overviews of Reviews guidelines; AMSTAR 2 tool used for methodological quality assessment. Comprehensive search across MEDLINE, EMBASE, CINAHL, Scopus, Web of Science, Cochrane Library, and gray literature. Studies on nonorofacial trauma, protective equipment other than MGs, and non-English publications excluded. Two independent reviewers extracted data; discrepancies resolved by discussion. Corrected Covered Area (CCA) Index used to assess overlap among SRs. AMSTAR 2 applied to evaluate methodological quality (risk of bias, data synthesis, transparency).
+
+Results: Out of 466 records, nine SRs met inclusion criteria. MGs significantly reduced dentofacial injuries, particularly AVULSIONS and FRACTURES, with CUSTOM-MADE MGs offering superior protection and comfort. The impact of MGs on athletic performance showed mixed results, with some evidence suggesting improved occlusion and neuromuscular alignment. Methodological variability and low-quality evidence in several reviews limited the strength of findings.
+
+Conclusion: MGs, especially custom-made designs, are effective in orofacial injury prevention and may have potential performance benefits. The study recommends mandatory MG-use policies and athlete education to enhance compliance and safety. Further high-quality research is needed to optimize MG design and address evidence gaps.
