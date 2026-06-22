@@ -1,0 +1,104 @@
+Is routine antibiotic prophylaxis warranted in dental implant surgery to prevent early implant failure? — a systematic review.
+Momand P, Naimi-Akbar A, Hultin M, Lund B, Gotrick B.
+BMC Oral Health. 2024 Jul 25;24(1):842.
+DOI: 10.1186/s12903-024-04611-0
+PMID: 39054434  PMCID: PMC11270919
+
+[FULL TEXT retrieved from PubMed Central (PMC11270919).]
+
+ABSTRACT
+Background: Whether antibiotic prophylaxis should be administered routinely for dental implant surgery
+is unresolved. Antibiotics are often given to reduce infection risk that could lead to early implant
+failure. Increasing antibiotic resistance makes reducing antibiotic use important. Aim: evaluate the
+efficacy of preoperative antibiotics in preventing early implant failure in overall healthy patients.
+Methods: electronic search of PubMed (Medline), Web of Science, Cochrane Library up to 1 Oct 2023 for
+RCTs comparing antibiotic prophylaxis with no antibiotics/placebo in healthy patients. Primary outcome:
+patients with early implant failure. Risk of bias assessed; meta-analysis; GRADE certainty. RR, RD, 95% CI.
+Results: After duplicate removal, 1086 abstracts screened, 17 full-text reviewed. Seven RCTs (moderate/low
+risk of bias), 1859 patients, 3014 implants in meta-analysis. Early implant failure at patient level —
+no statistically significant difference (RR 0.66, 95% CI 0.30-1.47) between antibiotic and placebo. Risk
+difference -0.007 (95% CI -0.035-0.020), NNT 143.
+Conclusion: Antibiotic prophylaxis does not seem to have a substantial effect on early implant failure;
+results do not support routine antibiotic prophylaxis for dental implant surgery.
+
+BACKGROUND
+Dental implants replace teeth lost to caries, periodontal disease, or trauma. Biological complications
+may be early or late. Early failure = loss of implant within first months after insertion, usually due to
+lack of osseointegration; attributed to bacterial contamination during surgery, but also surgical
+technique, implant characteristics (size, length, surface), surgeon experience, history of periodontitis,
+smoking. Antibiotics given to reduce infection/failure; original routine was pre- and postoperative
+antibiotics for all patients, questioned 25 years ago. No single placebo-controlled RCT has shown a
+statistically significant association between prophylaxis and reduced early failure; underpowering is one
+explanation but two RCTs had large samples (506, 473 patients). Reviews/meta-analyses pooling
+non-significant results have shown statistical reduction, but statistical significance ≠ clinical
+relevance — need the risk difference. Antibiotic resistance is a major global concern.
+Some SRs conclude prophylaxis is indicated; others conclude routine use not warranted in healthy patients.
+Previous SRs/MAs included non-placebo-controlled, non-blinded, or high-risk-of-bias studies; new RCTs in
+the last two years allow a meta-analysis restricted to low-risk-of-bias placebo-controlled RCTs, plus
+certainty of evidence. Aim twofold: efficacy of preoperative antibiotics in preventing early failure in
+healthy patients, and certainty of evidence.
+
+METHODS
+PRISMA. Protocol registered PROSPERO CRD42021292610. Focused question (PICO): effect of antibiotic
+prophylaxis vs placebo/no antibiotics in overall healthy patients undergoing dental implant surgery on
+implant failure.
+Inclusion: ≥20 patients; RCTs; ≥2 months follow-up.
+Exclusion: mini-implants/orthodontic mini-screws; immediate implant placement at sites with apical
+pathology; patients whose medical history indicated need for prophylaxis.
+Three databases (PubMed, Cochrane, Web of Science) up to 1 Oct 2023, plus hand searches and
+clinicaltrials.gov. Two reviewers screened titles/abstracts independently; full-text by ≥2 of 5 reviewers.
+Data extraction by PM & BG, checked by others; trial authors contacted for missing data. RoB-2 used
+(low/moderate/high). Studies with low/moderate risk included in meta-analysis. Random-effects (Hedges)
+model; RR and RD; heterogeneity I2 and Q. Subgroups: amoxicillin-only studies; and all studies excluding
+the two with immediate implant placement into extraction sockets. Stata 16 SE. GRADE for certainty.
+
+RESULTS
+Search: 1267 records; after removing 182 duplicates, 1085 titles/abstracts screened; 1069 excluded; 16
+full-text reviewed; +1 from hand search. Five excluded (not randomized or lacked no-antibiotic/placebo
+control). Twelve studies eligible for risk-of-bias; seven ultimately in meta-analysis.
+Risk of bias: 5 high (excluded), 4 low, 3 moderate (moderate in "conflict of interest" domain).
+Characteristics: six of seven were multicenter; six conducted in Europe, one in Asia; treated Jan 2006-
+June 2021; all double-blinded. Five RCTs: 2 g amoxicillin 1 h preop vs placebo; one: 2 g amoxicillin 1 h
+preop + 500 mg ×3 days 1-3 postop vs placebo; one: 600 mg clindamycin 1 h preop vs placebo. Three RCTs
+single implants without augmentation; two included some implants into fresh extraction sockets (19.5%,
+14.0%); one included some minor augmentation/sinus lift/GBR (29.9%); one only simultaneous GBR.
+Outcome "early implant failure" = loss of implant within first few months after placement and before
+loading with supraconstruction. Most studies refer to 3-6 month healing; integration typically 6-12 weeks.
+Timing of early failure not clearly reported in any RCT. Implant stability tested at final follow-up
+(3-6 months, 4 months, 3 months, or 2 months). In all, 1859 patients and 3014 implants analyzed; implant
+failure in 51 patients (2.7%).
+
+In the 7 studies: 929 received antibiotics, 930 placebo. Early failures: 20 (2.2%) antibiotic group vs
+31 (3.3%) placebo group. Four RCTs lower failure with antibiotics; two lower with placebo; one equal.
+Failure rates ≤6.5% in any group. Two RCTs measured PROMs (pain/QoL). No individual RCT showed a
+significant difference.
+
+Synthesis:
+- Overall (7 studies): RR 0.66 (95% CI 0.30-1.47); RD -0.007 (95% CI -0.035-0.020); NNT 143 (95% CI 29-∞).
+- Amoxicillin subgroup (6 studies): RR 0.60 (95% CI 0.27-1.31); RD -0.011 (95% CI -0.029-0.006).
+- Excluding the two immediate-placement-in-socket studies (5 studies): RR 1.10 (95% CI 0.35-3.45);
+  RD 0.002 (95% CI -0.027-0.030).
+- None of the subgroup meta-analyses showed a significant difference.
+Certainty: certainty that "the effect of antibiotic prophylaxis in preventing implant failure is small"
+was MODERATE (GRADE).
+
+DISCUSSION (key points)
+Seven placebo-controlled double-blinded RCTs (low/moderate RoB); none individually significant. Meta-
+analysis: routine prophylaxis to prevent early failure not needed. NNT 143 (CI to infinity = no effect);
+routine prophylaxis would mean very many patients receive antibiotics unnecessarily. Differs from prior
+reviews that included high-RoB / non-placebo RCTs. Lund et al. 2015 NNT 50 (no benefit in uncomplicated
+surgery); Rodriguez Sanchez et al. 2018 NNT 67 (effective). EAO 2015 consensus: prophylaxis not recommended
+for uncomplicated implant surgery; Italian Academy of Osseointegration recommended single dose in
+uncomplicated cases — contradictory recommendations. Amoxicillin 2 g 1 h preop aligns with Esposito
+Cochrane review; clindamycin 600 mg for penicillin allergy.
+Limitations: only seven low/moderate-RoB studies; two small RCTs; design differences (follow-up timing,
+chlorhexidine use as confounder, inadequate periodontal reporting, varied placement procedures, varied
+smoker proportion 9.3-34%). The two RCTs with immediate post-extraction implants had higher placebo-group
+failure (5.1%, 4.7%) — may underlie EAO's note of possible benefit for immediate placement into fresh
+sockets. Salgado-Peralvo 2021 recommended extended prophylaxis for immediate implants (treat extracted
+tooth as potentially infected) — better described as antibiotic treatment than prophylaxis.
+
+CONCLUSION
+Based on high-quality RCTs, the benefit of antibiotic prophylaxis for implant surgery is likely very
+limited. Given rising antibiotic resistance, prophylaxis should be avoided in most cases of implant
+surgery. Could form the foundation of clearer guidelines.
