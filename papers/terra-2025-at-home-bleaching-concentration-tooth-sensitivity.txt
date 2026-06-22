@@ -1,0 +1,21 @@
+Title: Effect of at-home bleaching agents and concentrations on tooth sensitivity: A systematic review and network meta-analysis.
+Authors: Terra RMO, Favoreto MW, Morris T, Loguercio AD, Reis A.
+Journal: Journal of Dentistry (J Dent), 2025.
+DOI: 10.1016/j.jdent.2025.105891
+PMID: 40484311
+Source: PubMed metadata (abstract only — no PMC full text available).
+
+ABSTRACT
+This systematic review and network meta-analysis (NMA) evaluated the risk and intensity of tooth sensitivity (TS) of at-home bleaching agents and concentrations in patients with permanent dentition (PROSPERO 2021 CRD42021265220).
+
+Randomized clinical trials (RCTs) comparing any two at-home bleaching systems were considered eligible. A Bayesian NMA assessed TS risk and intensity for different hydrogen peroxide (HP) and carbamide peroxide (CP) concentrations, using two pain scales: the 0-10 Visual Analog Scale (VAS) and the 0-4 Numerical Rating Scale (NRS). The risk of bias (RoB) was assessed using the Cochrane Collaboration's tool 2.0, and the quality of evidence (QoE) was evaluated by the GRADE approach.
+
+A comprehensive search was conducted in PubMed, Cochrane Central, LILACS/BBO, SCOPUS, Web of Science, EMBASE, and grey literature.
+
+77 studies were included, and 50 of these were eligible for meta-analysis. Most studies had high RoB. The NMA showed a higher TS risk with CP 20-22% and HP 14-16% compared to HP 2-4% (RR [95% CrI]: 2.8 [1.15-8.16], 2.9 [1.06-9.21]) and CP 20-22% vs. CP 10-11% (2.0 [1.07-4.31]). On the NRS scale, CP 20-22% (MD [95% CrI]: 0.51 [0.14-0.91]) and HP 7-8% (0.50 [0.10-0.84]) had greater TS intensity than CP 10-11%. No statistically significant differences were found on the VAS scale. The QoE was low.
+
+High at-home bleaching concentrations increase the risk and intensity of TS. On average, TS is mild for all bleaching agents and concentrations. The findings should be interpreted cautiously due to the low QoE and variability in the study protocols.
+
+At-home bleaching agents typically cause low tooth sensitivity. However, higher concentrations, such as HP 14-16% and CP 20-22%, may slightly increase the risk compared to lower concentrations like CP 10%, and should be prescribed with care and under closer supervision.
+
+Attribution: Retrieved via PubMed (https://pubmed.ncbi.nlm.nih.gov/40484311/). DOI 10.1016/j.jdent.2025.105891.
