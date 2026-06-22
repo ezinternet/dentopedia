@@ -59,6 +59,8 @@ Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes
 
 **임상 함의**: 결합력 in-vitro 결과는 단기 측정만으로는 위험. 임상 5년+ 보는 long-term 관점 필수. [합의수준]
 
+The fatigue/aging picture is sharper once universal adhesives are compared head-to-head under the same aging stress. Brkanovic (2023) showed that both thermocycling and the choice of universal-adhesive system significantly affect dentin shear bond strength (p=0.018 and p=0.001 respectively), with bonds still at a comparable level after one year of storage — i.e. system choice is a real lever, not noise. Hurtado (2023) extended aging to 6-month water storage and found the 10-MDP systems Clearfil SE Bond and Scotchbond Universal retained higher µTBS and lower nanoleakage than Xeno Select, again pinning durability to MDP chemistry rather than to the number of steps. Demir (2024) complements these by linking the upstream cause to the readout: dentin surface treatment and bonding type (E&R vs SE) alter the surface elemental composition, and those compositional shifts track with the resulting bond strength — a mechanistic bridge between pretreatment and the fatigue behavior the other studies measure.
+
 ### 축 2 — Silane Timing & Contamination
 
 | Spine paper | Evidence | Key finding |
@@ -79,6 +81,10 @@ Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes
 3. **1-step universal 사용 중** — Katana Cleaner 또는 phosphoric acid 재처리로 decontamination 후 재본딩.
 4. **혈액 오염** — 어떤 시스템이든 decontamination 필수. [근거강함]
 
+**격리(isolation)의 임상 근거 — rubber dam이 1순위인 이유**: The "isolation-first" thesis now has a clinical anchor beyond the in-vitro contamination work. Miao (2021), a Cochrane SR+MA of 6 RCTs (1342 participants, all high risk of bias), found rubber-dam isolation may increase survival of direct composite NCCL restorations at 6 months (OR 2.29, 95% CI 1.05–4.99; low certainty), with the evidence becoming very uncertain at later time points — modest, bias-limited, but the best clinical signal we hold that moisture control translates into restoration survival.
+
+**오염·열화 상아질의 전처리 보조(adjuncts) — 격리가 불완전할 때**: When the dentin substrate itself is compromised, solvent and reconditioning adjuncts stabilize the bond rather than boosting it acutely. Comba (2024) showed ethanol pre-treatment of radicular dentin raised push-out bond strength of a multi-mode adhesive (p<0.01) and lowered hybrid-layer MMP activity (p<0.01), while etch time (15 vs 30 s) did not affect strength — and the 30 s etch actually raised MMP activity, an argument against over-etching. Zhao (2023) positioned acetone as a lower-viscosity alternative wet-bonding solvent: it did not change immediate µTBS but preserved strength after thermocycling/collagenase aging (p<0.05) with less nanoleakage and suppressed MMP collagenolysis — the durability metric that matters. At the endodontic-restorative interface, Zhou (2025), an SR+MA of 14 in-vitro studies (11/14 low RoB), found collagen crosslinkers (EDTA, phytic acid, proanthocyanidin, rosmarinic acid, sodium ascorbate) generally restore the bond strength of NaOCl-oxidized dentin, with the effect modulated by NaOCl concentration and exposure time. For the related question of pre-restorative desensitizer use, Anithakumari (2022), an SR of 23 in-vitro human-tooth studies, concluded the effect of desensitizing agents on dentin-bonding-agent bond strength is agent- and protocol-dependent and not uniformly harmful — so desensitizer-adhesive compatibility must be judged case by case rather than assumed.
+
 ### 축 4 — Indirect Restoration Bonding (3D-Printed Crown)
 
 | Spine paper | Evidence | Key finding |
@@ -86,6 +92,8 @@ Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes
 | [[resin-bonding/kagaoan-2024-additively-manufactured-crown-bond-sr]] | sr (6 in-vitro) | Airborne particle abrasion(알루미나)으로 전처리 시 밀링 동등 결합력 |
 
 **임상 함의**: 3D-printed crown 임상 적용 시 전처리(airborne abrasion)는 표준; HF·실란 추가 시 더 강한 결합 가능. [근거강함 in-vitro]
+
+**지르코니아 합착·자가접착 시멘트(self-adhesive resin cement)**: For zirconia and other indirect restorations luted with self-adhesive resin cements, both the cement chemistry and the dentin-side pretreatment matter. The 10-MDP/calcium-silicate cement TheraCem ([[resin/theracem-bisco-product-reference]]) anchors this branch: Mahrous (2020) found it out-bonded a non-MDP cement on enamel, dentin and zirconia, and Muller (2022) reported TheraCem among the strongest cements in dry and several aged (thermocycled) conditions, while also showing that build-up technique (incremental vs bulk) and mould use independently influence the bond. On the dentin side, Cotert (2024) tested desensitizers applied before luting zirconia with a self-adhesive cement (80 molars, thermocycled) and found resin/glutaraldehyde-type agents (Admira, Smart Protect, Gluma) *increased* shear bond strength while oxalate/fluoride agents performed worst — so desensitizer selection is part of the indirect-bonding decision, not a contraindication to it. Material choice also carries a biocompatibility trade-off: Deniz (2025), an L929/MTT study, found all three dual-cure self-adhesive cements reduced cell viability, with light-curing markedly less cytotoxic than autopolymerization (light-cured SpeedCem Plus least toxic, TheraCem Ca next) — favoring photopolymerization when access permits.
 
 ### 축 5 — Stamp Technique (Direct Composite 술기)
 
@@ -107,6 +115,8 @@ Synthesis/overview of adhesive and resin-cement bonding strategies across 6 axes
 - **E&R 나노누출 기전**: 인산 에칭 상아질에서 수지농도 gradient → 혼성층 저부가 수분 풍부·수지 부족 → 투과성 최고
 
 **임상 함의**: 접착제 평가 시 혼성층 깊이만 보는 것은 불충분 — SEM 나노누출이 결합강도의 더 강한 예측인자. 2-step SE를 오염 내성뿐 아니라 hybridization 품질 면에서도 선호해야 하는 근거. [근거강함 in-vitro]
+
+The 2-step SE arm that wins on hybridization quality, fatigue and contamination tolerance across these axes is the same de facto gold-standard control product detailed in [[resin-bonding/clearfil-se-bond-product-reference]] (Clearfil SE Bond / SE Bond 2, the 10-MDP self-etch reference against which the universal and HEMA-free systems above are benchmarked).
 
 ## 임상 ladder (접착 전체)
 
