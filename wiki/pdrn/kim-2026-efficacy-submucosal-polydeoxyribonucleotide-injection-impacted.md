@@ -49,4 +49,4 @@ This split-mouth randomized controlled trial evaluates whether submucosal PDRN i
 
 - [[pdrn/ku-2025-polydeoxyribonucleotide-pdrn-dentistry-narrative-review]] — explicitly identifies the RCT-evidence gap that this paper begins to close
 - [[pdrn/lee-2023-effect-polydeoxyribonucleotide-early-bone-formation]] — animal bone-formation evidence that motivated human translation
-- Existing [[oral-surgery]] papers on third-molar postoperative management — clinical context
+- Existing [[overviews/oral-surgery-decision-ladder]] papers on third-molar postoperative management — clinical context
