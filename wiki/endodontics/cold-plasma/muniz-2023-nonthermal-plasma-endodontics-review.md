@@ -86,5 +86,5 @@ The two main device categories are **dielectric barrier discharge (DBD)** — ge
 
 ## Related Papers
 
-- [[endodontics/irrigation]] — conventional NaOCl/CHX irrigants whose limitations motivate NTPP as adjunct
-- [[endodontics/cold-plasma]] — category hub for cold-plasma endodontic papers
+- [[overviews/irrigation-activation-comparison]] — conventional NaOCl/CHX irrigants whose limitations motivate NTPP as adjunct
+- [[overviews/cold-plasma-endodontic-disinfection-synthesis]] — category hub for cold-plasma endodontic papers
