@@ -104,8 +104,9 @@ Synthesis of bruxism as a shared upstream driver: excess masticatory-muscle forc
 | [[dental-materials/zirconia/alfrisany-2019-occlusal-adjustments-zirconia-enamel-wear]] | in-vitro (500k cycle) | 연마 Zr이 유약·PVZ보다 대합치 마모 ↑; 재료 표면이 마모 결정 |
 | [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] | sr | 지르코니아 장기 보철 — 이갈이는 파절·합병증 위험 변수 |
 | [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] | sr+ma | inlay/onlay 장기 생존 — parafunction이 실패 인자 |
+| [[dental-materials/zirconia/bomicke-2026-ceramic-crowns-sleep-bruxism-rct]] | rct (n=109, 3y) | EMG 확진 수면이갈이 × 모놀리식 LDS/지르코니아 대구치 단일관 — 교합장치 미사용에도 기술적 합병증·생존·성공 모두 SB 영향 NS (기술 합병증 0건) |
 
-요약: 이갈이는 보철 **재료·설계 의사결정의 입력 변수**다. Bruxer에서 veneered ceramic보다 monolithic, 단일치 균열 위험 인지, 교합력 분산 설계가 따라온다.
+요약: 이갈이는 보철 **재료·설계 의사결정의 입력 변수**다. Bruxer에서 veneered ceramic보다 monolithic, 단일치 균열 위험 인지, 교합력 분산 설계가 따라온다. 단 **반직관적 nuance**: Bömicke 2026 RCT(n=109, 3년)는 EMG 확진 수면이갈이가 교합장치 없이도 모놀리식 LDS·지르코니아 *대구치 단일관*의 기술 합병증·생존을 단기(3년)에 유의하게 악화시키지 않았다고 보고 — 충분 두께(교합 ≥1.3mm) 모놀리식 단일관에 한정된 신호이며, 다단위 보철·임플란트·장기(>3년) 피로 파절에는 외삽 금지(저자 명시). [근거강함, 단 단기·단일관 한정]
 
 ### 하류 ③ — 임플란트 (late failure)
 
