@@ -62,6 +62,7 @@ Synthesis of 5 dental-erosion papers (narrative reviews + in-vitro studies + an 
 2. **산성 음료/사탕 상담 — citrus sweets·이중산 제품 경고.** 콜라만 위험하다는 통념 교정: 오렌지주스·신맛 젤리(이중산)도 동등 이상 [근거강함, in-vitro→임상 외삽 [claude해석]].
 3. **산 노출 직후 칫솔질 회피, 중화·재광화 보조.** 산 직후 연화된 법랑질의 마모 가속 — 30분 대기, 무가당 우유/치즈/물 헹굼, 불소 도포. 침식 위험 환자는 **stannous(SnF₂) 함유 치약**을 우선(NaF/NaMFP보다 일관 우위, Gómez 2026 umbrella). (in-vitro/in situ 기반 권고, 임상 ETW RCT는 제한)
 4. **내인성(GERD·구토) 의심 시 의과 의뢰.** 구개측(palatal) 마모 패턴은 내인성 시사 — 식이 교정만으로 불충분.
+5. **Restorative management when wear is already established/localized — fixed Dahl restorations.** Prevention (acid-frequency control, neutralization/remineralization, no brushing for 30 min post-acid) is first-line, but once localized tooth wear is established and restorative space is needed, the evidence-based option is a fixed Dahl-type restoration that re-establishes posterior occlusion via relative axial tooth movement (increasing OVD with localized supra-occlusal restorations) without removing sound tooth structure. The first SR+MA on this — Fan (2026), 11 studies, 8 low / 3 moderate RoB — found indirect restorations had significantly lower annual failure rates (0–0.7%) than direct (0–8.7%, P<.05) and that complete posterior occlusal re-establishment occurred in a pooled 86.9% of patients (low–moderate GRADE certainty), so **prefer indirect fixed Dahl restorations** for established localized wear [[occlusion/fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma]].
 
 ## Gaps & Future Research
 
@@ -75,3 +76,4 @@ Synthesis of 5 dental-erosion papers (narrative reviews + in-vitro studies + an 
 - [[overviews/caries-detection-remineralization-overview]] — 법랑질 탈회/재광화 공통축 (complements)
 - [[dental-erosion/west-2014-enamel-mineral-loss]] — 무기질 소실 화학 (spine)
 - [[caries/moynihan-2016-sugars-dental-caries-threshold-intake]] — 식이당·산성음료 노출 빈도 (applies-to)
+- [[occlusion/fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma]] — restorative/rehabilitation arm: fixed (preferably indirect) Dahl restorations for established localized tooth wear; first SR+MA, indirect < direct annual failure, 86.9% complete posterior occlusal re-establishment (extends prevention axis into management)
