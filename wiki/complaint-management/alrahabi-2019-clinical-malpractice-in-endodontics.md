@@ -37,4 +37,4 @@ Identifies endodontics as the dental discipline with the most malpractice claims
 ## Related Papers
 - [[complaint-management/thomas-2018-complaints-about-dental-practitioners]] -- applies-to: treatment-related complaints dominate dental epidemiology.
 - [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] -- reinforces: procedural errors as litigation triggers.
-- [[endodontics/shaping]] -- applies-to: shaping errors (transportation, fracture) underlying claims.
+- [[overviews/canal-shaping-glidepath-niti-fatigue-overview]] -- applies-to: shaping errors (transportation, fracture) underlying claims.
