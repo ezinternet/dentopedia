@@ -49,7 +49,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 핵심 명제 6개:
 
-1. **골유착 임플란트는 PDL이 없어 충격흡수·고유감각이 결여 — 과부하 보호의 부담이 전적으로 교합 설계로 넘어온다.** — Stilwell 2024(파절률 ~0.5%). [합의수준]
+1. **골유착 임플란트는 PDL이 없어 충격흡수·고유감각이 결여 — 과부하 보호의 부담이 전적으로 교합 설계로 넘어온다.** — Stilwell 2024(파절률 ~0.5%). 이 감각 결여는 정량화된다: Singh 2026 SR(임상 6편)은 단일 임플란트의 능동 촉각 감수성(active tactile sensibility) 역치가 10–100 µm로 자연치(<10–50 µm)보다 일관되게 높아(둔감) PDL 기계수용기 소실을 골유착감각(osseoperception)이 부분적으로만 보상함을 보였다 — 임플란트 보철에 더 가벼운 교합접촉을 부여하는 신경생리학적 근거. 단 이 골유착감각은 기능부하와 함께 시간경과로 개선되며 즉시부하·자연치 대합이 회복을 가속한다. [합의수준]
 2. **임플란트 교합접촉은 부하 후 6-12개월에 걸쳐 변동(대개 인접 자연치 대비 상대 저위교합).** — Mao 2024 SR+MA(단관), Assoratgoon 2025 SR(고정성, 6개월 내). [합의수준]
 3. **"약교합(light occlusion)"은 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고, 교합력은 계속 증가 → 장기 추적 필수.** — Zhang 2022 prospective(n=50, T-Scan III). [근거강함]
 4. **교합 과부하와 임플란트주위 골소실의 연관은 시사되나 근거 질이 낮다(정량 교합분석 표준화 부재).** — Di Fiore 2022 SR(7편). [합의수준/미검증]
@@ -66,6 +66,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 | 축 | Spine paper | Evidence | Key finding |
 |---|---|---|---|
 | 생역학 전제 | [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] | narrative | PDL 없음 → 충격흡수·고유감각 결여; 연간 교합점검 |
+| 감각 전제(osseoperception) | [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] | sr (6편) | 단일 임플란트 능동 촉각 역치 10–100 µm vs 자연치 <10–50 µm (둔감); 골유착감각이 기능부하로 점진 회복, 즉시부하·자연치 대합이 가속 — 약교합의 신경생리 근거 |
 | 접촉 변화 | [[occlusion/mao-2024-occlusal-changes-implant-supported-single-crowns]] · [[occlusion/assoratgoon-2025-occlusal-contact-changes-implant-supported-prostheses]] | sr+ma·sr | 단관·고정성 모두 6-12개월 내 접촉 변동 |
 | 약교합 | [[occlusion/zhang-2022-two-occlusal-patterns-posterior-implant-crowns-prospective]] | prospective (n=50) | light occlusion 힘↓ 그러나 불안정; 장기 추적 필요 |
 | 과부하-골소실 | [[occlusion/di-fiore-2022-periimplant-bone-loss-overload-occlusal-analysis]] | sr (7편) | 연관 시사, 근거 질 낮음 |
@@ -115,6 +116,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 - [[occlusion/sippy-2021-condylar-incisal-guidance-canine-group-function-schemes]] — Clinical/articulator study evaluating how condylar and incisal guidance interact within canine-guided vs group-function occlusal schemes … (cross-sectional, 2021)
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
+- [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — SR (6편): 단일 임플란트 능동 촉각 역치 10–100 µm > 자연치 <10–50 µm; osseoperception이 기능부하로 점진 회복(즉시부하·자연치 대합 가속) — 약교합 설계의 신경생리 근거(명제 1 보강) (sr, 2026)
 - [[implants/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
 
 ### 실험적 로딩-골반응 축 추가 (2026-06-14)
