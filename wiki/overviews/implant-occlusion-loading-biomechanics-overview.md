@@ -51,7 +51,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 1. **골유착 임플란트는 PDL이 없어 충격흡수·고유감각이 결여 — 과부하 보호의 부담이 전적으로 교합 설계로 넘어온다.** — Stilwell 2024(파절률 ~0.5%). 이 감각 결여는 정량화된다: Singh 2026 SR(임상 6편)은 단일 임플란트의 능동 촉각 감수성(active tactile sensibility) 역치가 10–100 µm로 자연치(<10–50 µm)보다 일관되게 높아(둔감) PDL 기계수용기 소실을 골유착감각(osseoperception)이 부분적으로만 보상함을 보였다 — 임플란트 보철에 더 가벼운 교합접촉을 부여하는 신경생리학적 근거. 단 이 골유착감각은 기능부하와 함께 시간경과로 개선되며 즉시부하·자연치 대합이 회복을 가속한다. [합의수준]
 2. **임플란트 교합접촉은 부하 후 6-12개월에 걸쳐 변동(대개 인접 자연치 대비 상대 저위교합).** — Mao 2024 SR+MA(단관), Assoratgoon 2025 SR(고정성, 6개월 내). [합의수준]
-3. **"약교합(light occlusion)"은 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고, 교합력은 계속 증가 → 장기 추적 필수.** — Zhang 2022 prospective(n=50, T-Scan III). [근거강함]
+3. **"약교합(light occlusion)"은 상대 교합력을 낮추나(4.91→10.34% vs 정상 10.45→18.15%) 시간이 지나며 유지되지 않고, 교합력은 계속 증가 → 장기 추적 필수.** — Zhang 2022 prospective(n=50, T-Scan III). [근거강함] The periodic re-check this implies is only as good as the recording method, and the recording method matters: Didier (2026) found that an intraoral-scanner occlusogram (iTero Element 2) agrees poorly with an 8 µm carbon-paper record (Cohen κ 0.07–0.20 across 840 teeth, n=35), with the scanner's red+orange definition overestimating contacts by ~70% while red-only underestimates them, so the digital occlusogram and carbon paper are complementary, not interchangeable — implant occlusal verification should not be established from an IOS scan alone ([[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]]). [근거강함]
 4. **교합 과부하와 임플란트주위 골소실의 연관은 시사되나 근거 질이 낮다(정량 교합분석 표준화 부재).** — Di Fiore 2022 SR(7편). [합의수준/미검증]
 5. **교합양식·보철 구성(캔틸레버·tooth-implant 연결·재료·부기능)이 임플란트주위 응력을 좌우한다 — FEA 일관.** — Ambili 2024·Yesilyurt 2021 FEA, Berzaghi 2025 narrative(full-arch 위험요인), Packaeser 2025(교합접촉 양상이 세라믹 크라운 피로). [claude해석/미검증(임상)]
 6. **무치악/full-arch 임플란트 교합 설계는 견치유도·과두관계·하중 분산을 고려.** — Zhang Xueyang 2018(무치악 교합 설계), Bhambhani 2020(총의치 교합 양식). [합의수준]
@@ -84,7 +84,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 
 1. **설계 원칙** — 하중 최소화·분산. 자연치 대비 약교합(light contact)·후접촉을 부여하되, 시간이 지나며 교합력이 따라잡으므로 영구적 보호로 과신 금지(Zhang 2022).
 2. **교합양식** — 단관·소수 보철은 인접치 유도 활용; full-arch는 캔틸레버 최소화·재료·부기능 고려(Berzaghi 2025). 단일 우월 양식 근거는 약함.
-3. **정기 재점검** — 부하 후 0.5/3/6/12개월 교합 재평가(T-Scan/교합지). 접촉 변동·정출이 흔하므로 maintenance 필수(Mao/Assoratgoon/Stilwell).
+3. **정기 재점검** — 부하 후 0.5/3/6/12개월 교합 재평가(T-Scan/교합지). 접촉 변동·정출이 흔하므로 maintenance 필수(Mao/Assoratgoon/Stilwell). 단, 구강스캐너(IOS) 교합도 단독으로 교합을 확정하지 말 것 — Didier 2026은 IOS 교합도가 카본지와 일치도가 낮아(κ 0.07–0.20) 보완적으로만 함께 써야 함을 보였다.
 4. **bruxer** — [[overviews/bruxism-muscle-overload-axis]]의 과부하 보호(스플린트 우선) 연계. FEA상 tooth-implant 연결·부기능 하중이 응력 취약(Ambili 2024).
 5. **식립 각도·대합치** — 가능하면 축방향(prosthetically driven) 식립; 비축이 불가피하면 특히 상악·대합치가 임플란트 보철인 조합에서 교합 조정·각도 보정에 더 주의(Kim 2026). 각도는 근원심뿐 아니라 협설 방향까지 본다.
 
@@ -118,6 +118,7 @@ Synthesis of the occlusion cluster through the implant lens: because an osseoint
 - [[occlusion/velasquez-2022-occlusal-analysis-natural-dentition-sr]] — SR (10 studies) - digital occlusal analysis is more objective than articulating paper (which remains subjective) … (sr, 2022)
 - [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — SR (6편): 단일 임플란트 능동 촉각 역치 10–100 µm > 자연치 <10–50 µm; osseoperception이 기능부하로 점진 회복(즉시부하·자연치 대합 가속) — 약교합 설계의 신경생리 근거(명제 1 보강) (sr, 2026)
 - [[implants/kim-2026-implant-angulation-peri-implant-bone]] — 비축 식립 각도(CAD 3D)와 MBL 상관: 비축 0.22 vs 축 0.10 mm(P<.05), 각도×implant-FDP 대합 상호작용 Δ0.373 mm; 과부하-골소실 축에 geometry 인자 추가 (retrospective, 2026)
+- [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — Method caveat for the periodic-recheck lever (명제 3·ladder 3): IOS occlusogram (iTero) vs 8 µm carbon paper poor agreement (κ 0.07–0.20, 840 teeth, n=35); scanner red+orange overestimates ~70%, red-only underestimates → complementary not interchangeable, do not establish implant occlusion from IOS alone (cross-sectional, 2026)
 
 ### 실험적 로딩-골반응 축 추가 (2026-06-14)
 
