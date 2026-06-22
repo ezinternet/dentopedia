@@ -106,7 +106,7 @@ Synthesis/overview decomposing the post-extraction alveolar ridge preservation (
 **임상 ladder (graft 선택)**:
 1. 일반 ARP → DBBM (Bio-Oss) + collagen 막. evidence-rich, 한국 가용성 양호.
 2. 비용 민감 + 일반 케이스 → β-TCP (KoreaBone 등) + collagen 막. evidence 다소 약함.
-3. 자가골 가용 (발치 같은 부위 osteotomy / 다른 부위 chip) → 자가 + 이종골 mix.
+3. 자가골 가용 (발치 같은 부위 osteotomy / 다른 부위 chip) → 자가 + 이종골 mix. Intraoral autogenous bone can be collected intra-operatively during osteotomy/drilling with bone-collector drills, and device refinements exist — e.g. a depth-indicating, contact-pressure-softening collector drill claimed to reduce patient pain vs rigid-cup collectors ([[oral-surgery/kim-2019-bone-collector-drill-assembly]], a granted Korean device patent; an instrument-design claim, NOT clinical efficacy evidence).
 4. 자가치아입자 (APDM, Korea Tooth Bank 또는 chairside) → 발치 치아를 즉시 처리 (Smart Dentin Grinder) 가능 시 우수. Feng 2024 SR+MA가 DBBM 대등.
 5. 동종골 (DemBone) → 미국 evidence rich. 한국 가용성·수입 비용·종교적 issue로 선택 제한적.
 
@@ -163,6 +163,7 @@ Synthesis/overview decomposing the post-extraction alveolar ridge preservation (
 - [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Multicentre RCT (40 subjects, 10 centres) of ridge preservation in posterior sockets with substantial buccal dehiscence: DBBM-collagen + native bilaye … (rct, 2016)
 - [[bone-regeneration/ridge-preservation/siawasch-2025-autologous-platelet-concentrates-alveolar-ridge]] — SR with meta-analyses of 35 papers (33 RCTs; PRP/PRGF/L-PRF) finding autologous platelet concentrates alone in alveolar ridge preservation generally a … (sr+ma, 2025)
 - [[bone-regeneration/ridge-preservation/suarez-lopez-del-amo-2022-efficacy-biologics-alveolar-ridge]] — AAP Best Evidence Consensus systematic review of 39 RCTs (qualitative only, heterogeneity precluded meta-analysis) concluding biologics (ABP, EMD … (consensus, 2022)
+- [[oral-surgery/kim-2019-bone-collector-drill-assembly]] — Device patent (NOT clinical evidence): granted Korean patent (KR 10-2327565 B1, HaeNaem Co.) for an autogenous bone-collector drill with a depth-indicating, pressure-softening elastic stopper; tooling note for intra-operative autogenous bone harvesting in Axis 3 (patent, 2019)
 
 ### spine (본문 인용)
 
