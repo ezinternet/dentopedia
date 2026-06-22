@@ -106,3 +106,6 @@ Restoration:
 - [[caries/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct]] — conventional vs Hall, 12-mo outcomes (both 100% success; OVD self-resolves) — companion to mohamed-2025
 - [[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]] — GIC vs resin cement for luting pediatric zirconia crowns (36-mo RCT, NS)
 - [[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]] — SDF for cavitated primary molars (SR, 2 RCTs) — non-restorative arrest option
+
+Contrast (developmental defect, not caries — same materials, different substrate):
+- [[caries/gizani-2026-restorative-mih-primary-permanent-molars-sr]] — SR (20 studies, 1,231 children) of restorative interventions for MIH-affected first permanent molars + hypomineralized second primary molars (HSPM): same material set as Step 3 (GIC/HVGIC, composite, PMC, ceramic, Hall technique) but on porous hypomineralized enamel. Overall success 84%(12mo)→83%(36mo); GIC lowest (53% at 12mo), ceramic/PMC highest (100%). The single HSPM study uses Hall-technique PMCs (overlaps Konukman 2026/Chavhan 2026's crown evidence; ~1/3 gingival deterioration from subgingival margins). Heterogeneity precluded a best-approach recommendation. Use to extend the restoration material hierarchy from carious to MIH/hypomineralized molars — not part of the caries pulp-diagnosis tree.
