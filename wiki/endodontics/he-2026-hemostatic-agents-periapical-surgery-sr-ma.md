@@ -72,5 +72,5 @@ No relationship was detected between hemostatic efficacy and periapical surgery 
 
 ## Related Papers
 
-- [[endodontics/cold-plasma]] — alternative disinfection modality for endodontic surgery context
-- [[endodontics/irrigation]] — irrigant protocols relevant to periapical surgical field management
+- [[overviews/cold-plasma-endodontic-disinfection-synthesis]] — alternative disinfection modality for endodontic surgery context
+- [[overviews/irrigation-activation-comparison]] — irrigant protocols relevant to periapical surgical field management
