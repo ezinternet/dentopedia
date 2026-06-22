@@ -1,0 +1,17 @@
+Title: Effect of a circumferential ferrule on the survival and success of endodontically treated teeth restored with fiber posts: A systematic review and meta-analysis.
+Authors: Al-Dabbagh RA, Sindi MA, Sanari MA, Manna AI, Al-Dabbagh MA.
+Journal: The Journal of Prosthetic Dentistry. 2024;132(6):1251-1259.
+DOI: 10.1016/j.prosdent.2023.12.002
+PMID: 38216376
+Source: PubMed (abstract only — no PMC full text)
+
+ABSTRACT
+The success of endodontically treated teeth (ETT) is influenced by factors that include the use of prefabricated glass fiber posts. A consideration for success is the presence of a circumferential ferrule, but systematic reviews and meta-analyses are lacking.
+
+Purpose: The purpose of this systematic review and meta-analysis was to assess the impact of the presence or absence of a circumferential ferrule on the survival and success rates of ETT restored with prefabricated fiber posts.
+
+Material and methods: Adhering to PRISMA guidelines, a comprehensive search of the major scientific literature databases was conducted. Eligible studies included randomized clinical trials and prospective cohort studies with a minimum 6-month follow-up, focusing on ETT restored with fiber posts either with or without a uniform circumferential ferrule. Relative risks (RRs) and 95% confidence intervals (CIs) were calculated to compare outcomes. The degree of variability among studies was assessed using the chi-squared test (alpha=.05).
+
+Results: Of 3731 identified records, 8 were eligible for inclusion. Direct analysis of success rates (2 studies, 123 teeth) showed a significant increase in success when a uniform circumferential ferrule was present (RR=1.28, 95% CI: 1.06, 1.54, P<.05). However, indirect analysis of survival and success rates (8 studies, 407 teeth) indicated no significant differences in outcomes between the ferrule and no ferrule groups (P>.05).
+
+Conclusions: A uniform circumferential ferrule had a positive effect on the success rates of ETT restored with prefabricated fiber posts. However, further high-quality studies are required to provide more robust evidence and to allow potential confounding factors to be considered.
