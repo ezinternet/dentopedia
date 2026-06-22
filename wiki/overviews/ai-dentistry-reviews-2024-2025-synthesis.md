@@ -23,6 +23,7 @@ source: synthesis
 > - 임상 적용 단계: 즉시 도입 검토(영상 보조 진단, MFDS 인허가·보험 별도 확인) → 신중 활용(LLM 환자 응답은 front-desk 초안+임상의 검수, 한국어 성능 미검증) → 미성숙 회피(자율 술식 로봇·end-to-end 자동화).
 > - 법적 원칙: AI가 보조해도 진단·치료 책임은 의사 귀속, AI 출력은 확진이 아닌 screening 도구로만, 개인정보보호법(PIPA) 적용.
 > - 소아치과 AI 확장(2026, `artificial-intelligence/` 신설): 엄브렐러 리뷰(Garg 2026)에서 영상용 합성곱 신경망(Convolutional Neural Network, CNN) 민감도/특이도 80–83%·곡선하면적(AUC) 0.87–0.91이나 포함 SR 대부분 AMSTAR-2 낮음/매우 낮음 — 성인 cluster와 동일하게 "영상 진단 우위 + 근거 품질 경고" 패턴 재확인(Gómez-Ríos 2025 머신러닝 SR은 우식 예측 14/20편 집중).
+> - 과제별 영상진단 정량 anchor 확보(2026-06-22, cluster 6): 우식 검출 민감도 76%·특이도 91%·AUC 92%(Abbott 2024), 치근단 병소 민감도 0.925·dOR 71.7로 **유일 GRADE high**(Sadr 2023), 치주골소실 민감도 87%(Khubrani 2025), 두부계측 2D 오차 1.39 mm(Hendrickx 2024), OMFS ChatGPT GPT-4 MCQ 76.8%(de Menezes Torres 2025) — "영상 진단 우위"가 정성 주장에서 과제별 풀링 수치로 격상, 단 풀링비율 낮고 RoB·이질성 높아 근거 품질 경고는 유지.
 > - 공통 공백: AI 도입 vs 미도입을 비교한 환자-결과 RCT 부재, 한국어·한국 인구 검증 부재, 5년 이상 장기 추적 데이터 부재.
 
 ## One-line Summary
@@ -49,7 +50,7 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 
 ## Cluster 1 — Quantitative anchors (the load-bearing numbers)
 
-이 클러스터에서 풀링 효과 추정치를 제시하는 논문은 **Zhang 2025만 하나**이다. 나머지는 정성 또는 단일 연구 인용. 따라서 정량적 결론을 인용할 때 무게중심은 Zhang에 둔다.
+이 클러스터에서 (LLM 도메인의) 풀링 효과 추정치를 제시하는 논문은 **Zhang 2025만 하나**였다. 나머지는 정성 또는 단일 연구 인용. **단 2026-06-22 surveillance 추가로 영상 진단 과제별 풀링 정확도(우식·치근단·치주·두부계측)가 cluster 6에 확보되어, 이제 정량 anchor는 LLM(Zhang)뿐 아니라 영상 진단 4과제로 확장되었다** — 아래 cluster 6 참조.
 
 **Zhang 2025 (sr+ma, J Prosthodont 2025 Early View, 25편)** — 치과 환자 응답에서 대형 언어 모델 (Large Language Model, LLM)의 풀링 정확도 81.87% (95% 신뢰구간 (Confidence Interval, CI) 77.24–86.51%), 임상 수용 가능 응답 69.9% (95% CI 57.3–82.6%). ChatGPT-3.5는 Microsoft Bing보다 유의하게 높았고, GPT-4.0/Google Bard와는 차이 없음. [근거강함]
 
@@ -109,6 +110,18 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 
 **Synthesis [claude해석]** — 두 편은 cluster 2의 "영상 라벨링 작업이 가장 성숙"이라는 공통 결론을 소아 인구에서 재현하면서(영상 CNN > 비영상 ML), 동시에 cluster 4의 "방법론 품질이 낮아 무비판 인용 금지"를 강화한다. 즉 AI 성숙도 지형(영상 진단 우위)과 근거 품질 경고(낮은 SR 질)는 성인·소아를 가로질러 일관된다.
 
+## Cluster 6 — Per-task image-diagnosis accuracy anchors (2026-06-22 surveillance addition)
+
+이전까지 본 종합의 정량 무게중심은 Zhang 2025(LLM)뿐이었다. 2026-06-22 surveillance 인제스트로 **영상 진단 4대 과제별 풀링 진단정확도 SR+MA**가 확보되어, cluster 2가 정성적으로 주장한 "영상 라벨링 = 가장 성숙"이 이제 **과제별 풀링 수치로 뒷받침**된다.
+
+- **Abbott 2024 (sr+ma)** — 우식 검출 AI 21개 플랫폼: 통합 민감도 76%·특이도 91%·곡선하면적 (Area Under the Curve, AUC) 92%(45편 중 7편만 풀링, 이질성 높음); 임상사진 입력이 교익(bitewing)보다 우수. [근거강함 for the pooled metric, 합의수준 for heterogeneity]
+- **Sadr 2023 (sr+ma)** — 치근단(periapical) 방사선투과병소 deep learning: 민감도 0.925·특이도 0.852·진단오즈비 (diagnostic Odds Ratio, dOR) 71.7, **클러스터 전체에서 유일한 GRADE high**. 영상 진단 과제 중 근거 강도가 가장 단단한 사례. [근거강함]
+- **Khubrani 2025 (sr+ma)** — 2D 방사선 치주골소실/치주염 ML·DL(APPRAISE-AI 적용): 민감도 87%·특이도 76%·정확도 84%; 30편 중 "매우우수" 0편. 성능은 임상 유용하나 방법론 품질은 여전히 낮음. [근거강함 for metric, 근거약함 for study quality]
+- **Hendrickx 2024 (sr+ma)** — AI 측모두부계측(cephalometric) 자동화: 2D 평균방사오차 1.39 mm(<2 mm 임상허용 기준)·1분 미만, 3D는 1.0–5.8 mm로 편차 큼; 비뚤림위험(Risk of Bias, RoB) 높음. 2D는 임상 사용 가능 수준에 도달. [근거강함 for 2D]
+- **de Menezes Torres 2025 (sr)** — LLM 도메인 확장: 구강악안면외과 (Oral and Maxillofacial Surgery, OMFS)에서 ChatGPT(10편) — GPT-4 객관식 (Multiple-Choice Question, MCQ) 76.8%, 동의서 작성·환자 소통은 강점이나 복잡한 임상 의사결정은 취약. Zhang 2025의 LLM anchor를 OMFS 맥락으로 보강. [합의수준]
+
+**Synthesis [claude해석]** — 네 영상 과제(우식·치근단·치주·두부계측)의 풀링 수치가 모두 임상 유용 범위(민감도 76–93%·특이도 76–91%, 2D 계측오차 <2 mm)에 들어오면서, "영상 진단 우위"는 더 이상 정성 주장이 아니라 **수치로 확인된 성숙 영역**이다. 그러나 (1) 풀링 비율이 낮고 이질성·RoB가 높으며(Abbott 7/45편, Khubrani "매우우수" 0편), (2) GRADE high는 Sadr 치근단 1과제에 불과하고, (3) 여전히 임상 결과(환자-아웃컴) RCT는 전무하다. 즉 **진단 metric은 성숙·근거 품질은 미성숙**이라는 본 종합의 핵심 이중 명제가 과제별 데이터로 재확인된다. 정량 인용 시 무게중심은 Sadr 2023(GRADE high)과 Zhang 2025(LLM 풀링)에 둔다.
+
 ## Evidence quality audit (cluster-wide)
 
 | 차원 | 분포 |
@@ -164,3 +177,8 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 - [[digital-workflow/saeed-2023-robotic-artificial-intelligence-implant-dentistry]] — 임플란트 로보틱스·AI
 - [[artificial-intelligence/garg-2026-artificial-intelligence-pediatric-dentistry-umbrella-review]] — 소아치과 AI 엄브렐러 리뷰 (CNN 영상 80–83%/AUC 0.87–0.91, SR 질 낮음); cluster 1·4 재확인 (sr, 2026)
 - [[artificial-intelligence/gomez-rios-2025-machine-learning-data-analysis-pediatric-dentistry-sr]] — 소아치과 ML SR (우식 예측 14/20편); 영상 우위·근거 품질 경고 reinforce (sr, 2025)
+- [[artificial-intelligence/abbott-2024-ai-platforms-dental-caries-detection]] — cluster 6 우식 검출 풀링 anchor (민감도 76%/특이도 91%/AUC 92%) (sr+ma, 2024)
+- [[artificial-intelligence/sadr-2022-deep-learning-periapical-radiolucent-lesions]] — cluster 6 치근단 병소, 유일 GRADE high (sens 0.925) (sr+ma, 2023)
+- [[artificial-intelligence/khubrani-2025-periodontal-bone-loss-periodontitis-detection]] — cluster 6 치주골소실 (APPRAISE-AI, sens 87%) (sr+ma, 2025)
+- [[artificial-intelligence/hendrickx-2024-ai-cephalometric-analysis-manual-tracing]] — cluster 6 두부계측 자동화 (2D 오차 1.39 mm) (sr+ma, 2024)
+- [[artificial-intelligence/de-menezes-torres-2025-chatgpt-oral-maxillofacial-surgery]] — cluster 6 LLM 확장 (OMFS ChatGPT, GPT-4 76.8%) (sr, 2025)
