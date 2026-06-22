@@ -1,0 +1,38 @@
+Risk factors associated with early implant failure: A retrospective review.
+Yari A, Fasih P, Alborzi S, Nikzad H, Romoozi E.
+J Stomatol Oral Maxillofac Surg. 2023 Dec 23;125(4):101749.
+DOI: 10.1016/j.jormas.2023.101749
+PMID: 38145835
+
+[ABSTRACT-ONLY — full text not retrieved (Elsevier, not in PMC). Source: PubMed abstract.]
+
+ABSTRACT
+
+The purpose of this study was to investigate the association between possible risk
+factors and early implant failure.
+
+This retrospective cohort study included consecutive patients receiving dental implant
+treatment in a four-year timeframe. Patient-related variables (age, sex, smoking, and
+systemic disease), local factors (area, reason for tooth extraction, and bone quality),
+surgical variables (bone augmentation, time of implant placement, staging, and antibiotic
+prophylaxis), and implant-related factors (brand, length, and diameter) were analyzed.
+Bivariate analyses and multivariate logistic regression model were used to determine the
+variables associated with early implant failure.
+
+The study group comprised 1323 implants in 738 patients with a mean of 1.8 implants/patient
+of which, 53 failed in 52 patients in the early stage (before final prosthetic loading).
+According to the multivariate model, smoking (Odds Ratio=1.836, P=0.031), posterior maxillary
+region (OR=2.958, P=0.006), implantation in place of teeth extracted due to periodontal
+problems (OR=2.531, P=0.004), bone type IV (OR=2.881, P=0.008), implant in previously
+augmented site (OR=2.239, P=0.014), and immediate provisional prosthesis (OR=3.418, P=0.019)
+were associated with a significantly higher risk of early implant failure. Narrow implants
+showed a significantly higher risk of early failure in bivariate analyses (P=0.012). However,
+the effect was no longer significant in the multivariate model (OR=2.322, P=0.068).
+
+Early implant failure would be more expected in smokers, posterior maxilla, history of
+periodontal problems, type IV bone, augmented bone, and immediately loaded cases.
+
+Keywords: Dental implant; Osseointegration; Risk assessment; Risk factor; Survival rate.
+Journal: Journal of stomatology, oral and maxillofacial surgery, vol 125, issue 4, p101749.
+MeSH: Humans; Retrospective Studies; Risk Factors; Dental Restoration Failure; Dental Implants;
+Smoking; Dental Implantation, Endosseous; Tooth Extraction.
