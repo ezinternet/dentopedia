@@ -26,6 +26,7 @@ source: synthesis
 > - 대천공 (≥10mm) 후 즉시 재시도는 동물실험상 신생골 50% 감소 → 2단계로 전환 권장. [claude해석]
 > - 이식재 (graft) 종류는 생존율·최종 ISQ에 영향 없음 (DBBM·자가골·합성 HA/β-TCP 동등); 결정화도 (crystallinity) 가 높으면 ISQ 회복이 빠르고, 선택은 흡수 프로파일·비용 기준 (Del Fabbro 2025). [근거강함]
 > - 비이식 (graft-free) TSFE: 잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요 — 혈병/PRF만으로 생존율 97.9%, 수직 골증대 (VBG) 3.8mm (Duan 2017 SR+MA). [근거강함]
+> - 비이식 경치조골 거상의 천공 안전성은 **술식 의존적** — 통합 슈나이더막 천공률 1% (95% CI 0–6%)로 낮으나(Huang 2026 SR+MA, 14편/2,119부위), 천공 이질성의 66.9%를 잔존골 높이가 아닌 술식이 설명: 전통 오스테오톰 (OSFE) 0% vs 모터구동 골밀도화 (motor-driven Osseodensification, OD) 34% — graftless 자체보다 *어떤* 경치조골 술식인지가 천공을 좌우 (GRADE 매우 낮음). [근거중간]
 > - 차폐막 (barrier membrane) 루틴 사용은 근거 부족 — 생존·골형성·합병증 모두 유의차 없어 천공 봉합·연조직 차단 시에만 선택적 사용 (Starch-Jensen 2019). [근거강함]
 > - 술전 콘빔CT (CBCT) 체크리스트 6항목: RBH·격벽·측벽 두께·협구개 폭·막 상태(부종/낭종)·상악동 저형성 (Hypoplasia, MSH); 합병증은 TSFE가 수술 당일만 불리하고 이후 2주는 LSA가 불리 (Farina 2018) — 환자 설명 시 분리 안내.
 > - 단임플란트 대안: RBH 5–7mm에서 짧은 (≤6mm) 임플란트가 표준+거상과 동등하고 MBL이 더 적어 거상 회피 옵션이 된다 (Toledano 2022).
@@ -101,8 +102,9 @@ CBCT RBH 측정
 |---|---|
 | **sr+ma (18 studies)** [[sinus-lift/transcrestal/guo-2020-non-grafted-platelet-concentrations-grafted-transcrestal-sinus]] | TSFE 1년 생존율: **비이식 97% vs 혈소판농축물 99%, 유의차 없음** |
 | **sr+ma (22 studies, 864 implants)** [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] | 무이식 거상(측방창+경치조골) 동시식립 **생존율 97.9%, 수직 골증대 3.8mm**; VBG 최대 결정인자 = 즉시 돌출 임플란트 길이(PILi, R² 83.9%) |
+| **sr+ma (14 studies, 2,119 sites)** [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] | **무이식 경치조골 거상 슈나이더막 천공 1% (95% CI 0–6%)**·12개월 조기실패 1%·술후 부비동염/비출혈 0건; 천공 이질성의 66.9%를 **술식**이 설명(잔존골 높이 무관) — 모터구동 OD 34% vs 전통 OSFE 0% (GRADE 매우 낮음) |
 
-[근거강함] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생.
+[근거강함] **잔존골이 임플란트 길이의 약 50% 이상 확보되면 이식재 불요**. PRF/혈액응고만으로 endo-sinus bone gain 가능. 단, OD 적용 시 골밀도화로 자가골 효과 동시 발생. **천공 안전성은 술식 의존적**: graftless TSFE의 통합 천공률은 1%로 낮으나(Huang 2026 SR+MA, 14편/2,119부위) 이 안전성은 전통 osteotome(OSFE 천공 0%)에 한정되며, **모터구동 골밀도화(motor-driven OD)는 34% 천공**으로 술식이 잔존골 높이보다 천공의 지배적 결정인자(이질성의 66.9% 설명)다 — graftless라는 사실보다 *어떤* 경치조골 술식인지가 천공 위험을 좌우한다. [claude해석]
 
 ### 2.3 동반 합병증 — tSFE vs LSA
 
@@ -263,3 +265,4 @@ CBCT에서 반드시 확인할 6항목:
 - [[sinus-lift/transcrestal/stacchi-2022-transcrestal-sinus-complications-low-rbh]] — Retrospective multicenter (n=430, RBH≤5mm): early implant failure 2.8%; bucco-palatal sinus width >12mm (OR 8.5) and membrane perforation (OR 4.21) are the only independent predictors; perforation narrow 1.1% vs wide 16.1%. (retrospective, 2022)
 - [[sinus-lift/transcrestal/duan-2017-graft-free-maxillary-sinus-floor-elevation-sr-ma]] — SR+MA (22 studies, 864 implants): graft-free SFE with simultaneous placement → ISR 97.9%, VBG 3.8mm; PILi explains 83.9% of VBG variance. Foundational graftless evidence. (sr+ma, 2017)
 - [[sinus-lift/transcrestal/al-aroomi-2024-cgf-maxillary-sinus-augmentation-sr]] — SR (13 studies, transcrestal+lateral): CGF appears to enhance new bone formation, reduce sequelae, support survival, but heterogeneous and RCT-poor. (sr, 2024)
+- [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — SR+MA (14 studies, 2,119 graftless transcrestal sites): pooled membrane perforation 1% (95% CI 0–6%), early implant failure 1%, no postop sinusitis; technique explains 66.9% of perforation heterogeneity — motor-driven OD 34% vs conventional OSFE 0%. (sr+ma, 2026)
