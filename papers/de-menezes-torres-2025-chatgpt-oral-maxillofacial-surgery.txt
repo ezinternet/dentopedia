@@ -1,0 +1,10 @@
+The impact of the large language model ChatGPT in oral and maxillofacial surgery: a systematic review.
+de Menezes Torres LM, de Morais EF, Fernandes Almeida DRM, Pagotto LEC, de Santana Santos T. Br J Oral Maxillofac Surg. 2025;63(5):357-362. doi:10.1016/j.bjoms.2025.03.006. PMID 40251084.
+
+[ABSTRACT-ONLY — full text not retrieved]
+
+This systematic review evaluates the impact of the LLM ChatGPT in oral and maxillofacial surgery. PRISMA-guided, registered PROSPERO CRD42024625882. Searched PubMed/Medline, Embase, Scopus, Science Direct. Inclusion: ChatGPT use in clinical decision-making, surgical planning, patient education, research.
+
+Results: Ten studies reviewed, assessing ChatGPT performance in diagnostic accuracy, surgical efficiency, patient satisfaction. GPT-4 achieved highest accuracy (76.8%) in multiple-choice questions but showed variability, with lower performance in pharmacology and complex clinical scenarios. It excelled in generating informed consent documents, outperforming other AI models and human residents in accuracy, completeness, readability. Also provided accurate, supportive responses in postoperative follow-up. Limitations in handling complex clinical decisions and personalised advice (e.g. oral cancer, orthognathic surgery).
+
+Conclusion: ChatGPT shows potential in improving patient communication, reducing healthcare workloads, providing up-to-date information, but current limitations in accuracy and personalisation underscore need for human supervision and integration with clinical databases. AI tools like ChatGPT can complement, not replace, human judgment in OMFS.
