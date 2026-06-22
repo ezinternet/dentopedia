@@ -2557,3 +2557,9 @@ tags: []
 - [[post-and-core/van-landuyt-2025-rct-glass-fiber-versus-metal-posts]] — Van Landuyt 2025 · rct(15년, 182개) · 파이버 생존 경향 우위(68.5% vs 53.6%, NS); 금속은 치근파절로 실패 (DOI 10.1016/j.jdent.2025.105694)
 - [[post-and-core/mously-2024-anterior-endocrowns-alternative-core-crown]] — Mously 2025 · sr(12 in-vitro/FEA) · 전치부 엔도크라운 ≈/> 포스트-코어-크라운 파절저항·복구 가능 실패, ferrule 지배·리튬디실리케이트 최적 (DOI 10.1016/j.identj.2024.07.1216)
 - [[overviews/post-and-core-fiber-post-decision-overview]] — **NEW Overview**: 포스트앤코어·파이버포스트 결정 종합 (5편+FEA). ETT 수복은 순차 결정 — ①포스트 필요여부(치질소실 조건부, ferrule 있으면 엔도크라운이 대안)→②ferrule 보존(최강 가변 예후인자, 재료보다 우선)→③포스트 재료(글라스파이버 ≈ 금속 비유의, 진짜 차이는 실패양상: 금속/강성=치근파절 파국, 파이버/엔도크라운=복구가능). susita-2026 FEA가 탄성계수 정합 앵커로 합류 (2026-06-22)
+
+## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
+- [[implants/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
+- [[implants/uesugi-2024-risk-factors-early-failure-all-on-four]] — Uesugi 2024 · retrospective(환자 561명/임플란트 2364개, all-on-four 즉시로딩) · 1년 생존 상악 98.9% vs 하악 99.6%; 다변량 위험인자 상악 OR 3.12·흡연 2.92, 광기능화 OR 0.51(NS) (DOI 10.3390/bioengineering11030223)
+- [[drug/antibiotics/momand-2024-antibiotic-prophylaxis-early-implant-failure]] — Momand 2024 · sr+ma(위약대조 이중맹검 RCT 7편, 환자 1859명/임플란트 3014개) · 술전 항생제 예방이 조기 실패 못 줄임 RR 0.66(NS)·NNT 143·GRADE 중간 — 통상 예방 근거 부족 (DOI 10.1186/s12903-024-04611-0)
+- [[overviews/early-implant-failure-risk-prevention-overview]] — **NEW Overview**: 조기 임플란트 실패(보철 로딩 전) 위험인자·예방 종합 (7편). EIF는 골유착 *획득* 실패(후기 실패와 구분), 발생률 임플란트 단위 ≈1~4%. 결정인자는 숙주(흡연 OR 2.59·당뇨 RR 2.75·방사선 2.73)×골질/부위(후방상악·4형골·증대/부비동부위)×술식(즉시로딩 OR 3.42). 핵심 레버는 금연·부위/골질 인지 계획·보수적 로딩이며, 통상적 항생제 예방은 무효(NNT 143)·스튜어드십상 지양 (2026-06-22)
