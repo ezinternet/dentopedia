@@ -1,0 +1,257 @@
+Introduction
+
+Dental implant therapy is a well-established procedure for replacing missing teeth. The success of implants largely depends on achieving osseointegration, a process influenced by bone quality, implant surface properties, and surgical technique []. Currently, efforts are being made to enhance the success rate of implant osseointegration in patients with poor bone quality by improving the characteristics of the implant surface. Ideal modifications should enhance the interaction between the implant surface and surrounding bone to facilitate osseointegration while reducing the risk of bacterial colonization to minimize biofilm formation [].
+
+Osseointegration primarily relates to the macro surface of the implant, including its geometry and physical properties. The decreased hydrophilic properties on the implant surface is a significant factor that reduces the success rate of osseointegration. To improve outcomes, surface modifications of titanium (Ti) implants are continually explored. Photofunctionalization (PF) using UV light transforms Ti surfaces from hydrophobic to superhydrophilic, thereby enhancing protein adsorption, osteoblast adhesion, and antibacterial properties. UV treatment has been shown to improve bone-to-implant contact and accelerate osseointegration [–]. It has been reported that the osseointegration process is accelerated four-fold and the bone-implant contact is nearly 100% in implants treated with PF []. Given this information, PF with UV light may be regarded as a potential application that can enhance dental implant success and osseointegration.
+
+Panoramic radiography (PR) and cone-beam computed tomography (CBCT) are widely used for the radiological evaluation of implant osseointegration []. Fractal dimension analysis (FDA) has been proposed to assess bone quality before surgery and primary stability following surgery.The FDA is a mathematical method that describes complex shapes and structural patterns. It consists of inerconnected trabecular structures with a geometric pattern in spongy alveolar bone and is suitable for fractal definition. The FDA also quantitatively demonstrates the complexity of these structures [].
+
+FDA is a non-invasive radiographic method for assessing trabecular bone structure. It is used in periapical and panoramic radiographs to describe the complex architecture of trabecular bone surrounding teeth. In dentistry, it is used for the assessment of trabecular bone surrounding dental implant, evaluation of root canal treatment, and detection of many pathological conditions such as osteoporosis and sickle cell anemia.
+
+[,]. It quantifies the complexity of bone patterns using image analysis, particularly useful in panoramic radiographs to evaluate bone quality pre- and post-implant placement.
+
+This study aims to evaluate the effects of PF on the quality of bone around implants by applying FDA to panoramic radiographs taken before and after implant surgery. The hypothesis is that UV-treated implants would show a greater increase in FD values compared to non-treated implants, indicating improved osseointegration.
+
+Materials and methods
+
+Study design and sample selection
+
+This randomized, split-mouth, double-blind clinical trial was conducted at Ankara University Faculty of Dentistry. The study protocol was approved by the Clinical Research Ethics Committee (Approval No: 36290600/34/2021) and complied with the Declaration of Helsinki. All subjects were informed and provided written consent before being involved in the research. The trial was registered on “clinicaltrials.gov” (United States National Library of Medicine), with the identification number. This study adhered to the CONSORT guideline.
+
+Twenty-one patients (12 females, 9 males; mean age 50.43 ± 9.22 years) with bilateral edentulous posterior mandibles were enrolled. Sample size was calculated using G*Power (v3.1, Heinrich Heine University Düsseldorf) based on a two-tailed paired-samples t-test to detect a medium effect size (Cohen’s d = 0.5) in fractal dimension (FD) values between the photofunctionalized (test) and control groups. With a significance level (α) of 0.05 and a power (1–β) of 0.80, the required sample size was calculated to be 21 implants per group (total= 42).
+
+Patients with systemic conditions affecting bone metabolism, or those with lesions/fractures in the study area were excluded. The study, which commenced on January 2022, concluded on June 2023, following the completion of patients’ treatments and designated follow-up periods. Notably, no participants withdrew from the study during the follow-up phase, ensuring the integrity and completeness of the collected data. Implants (= 42) from the same manufacturer (Gravis Dental Implants, STARK, Turkey) and packaged at least 6 months prior, were inserted by a single clinician (H.F.). The test group implants were subjected to the PF process for 10 s to the according to the manufacturer’s recommendation (Dentis Co. LTD, South Korea) and then immediately inserted into the bone. The coin flip method was employed as a randomization technique. If the coin landed on heads, the test group received an implant, whereas if it landed on tails, the control group received an implant. This approach minimized bias, ensured a probabilistically balanced distribution of groups, and enhanced the internal validity of the study. The study coordinator enrolled patients, and two independent investigators (F.K., Z.D.G.) assigned interventions. The implanting clinician was blinded to the analysis, which was performed by another investigator (E.P.B.), also blinded to group assignment.
+
+Image acquisition and ROI determination
+
+All panoramic radiographs were acquired using the same digital imaging system (Planmeca ProMax, Helsinki, Finland) under standardized settings (Planmeca Oy, 00880 Helsinki, Promax modeli 64 kV, 10 mA, 10s). The images were exported in uncompressed TIFF format at a resolution of 300 dpi. Spatial calibration was not applied in ImageJ as the Regions of interest (ROI) size was defined in pixels and kept constant across all images to ensure consistency in FDA.
+
+Regions of interest (ROIs) were defined apical to the implant using MicroDicom software. ROIs were aligned using anatomical landmarks such as adjacent teeth and the mental foramen to ensure consistent placement. The ROI size was selected as 25 × 25 pixels to ensure a standardized and repeatable measurement area across all radiographs. This dimension was chosen based on prior studies employing fractal analysis in dental imaging [,], where similar ROI sizes were found to provide an optimal balance between image resolution and noise suppression. Additionally, this size allowed consistent placement within the trabecular region without overlap with cortical bone or neighboring structures.
+
+In the PR, the region of interest (ROI) selected at the apical region of the implant with dimensions of 25 × 25 pixels is shown in Fig..
+
+Fig. 1
+
+Illustration of the ROI area defined based on the selected anatomical landmarks according to the implant position in the follow-up radiograph
+
+The ROI selected in the study for analysis was standardized using the MicroDicom DICOM viewer program on radiographs obtained after implant placement. In the MicroDicom program, the horizontal and vertical lengths were determined by drawing a horizontal line to the nearest adjacent tooth and a vertical line along the long axis of the implant. These reference lines enabled precise localization of the apical region of the implant, which was then selected as the ROI for fractal analysis (Fig.).
+
+The same standardized ROI was re-identified on the pre-implant radiograph using the previously determined horizontal and vertical reference lines, and the other fractal sample was taken from this region as well (Fig.).
+
+Fig. 2
+
+Illustration of the ROI area defined using previously identified reference points on the radiograph taken before implant placement
+
+Fractal dimension analysis (FDA)
+
+The primary outcome of the study was to assess the impact of photofunctionalized implant placement on bone formation quality, while the secondary outcome was to evaluate the effect of the osseointegration process on bone formation quality. To achieve this, bone fractal analysis was employed as the assessment method. FD was assessed using ImageJ 1.49x software following the White and Rudolph box-counting method. ROIs were cropped, upsampled 400% using interpolation [], then processed: Gaussian blur (σ = 35), subtraction, brightness normalization (threshold = 128), binarization, erosion/dilation, inversion, and skeletonization. FD was calculated from slope plots of box sizes 2–64 pixels. (Fig.b)
+
+Fig. 3
+
+Stepwise preprocessing pipeline for FDA. Each step is illustrated visually from () to (): () Up-sampling (400%) and Gaussian blur, () Subtraction from original image, () Addition of 128 Gy value, () Binarization, () Erosion, () Dilation, () Inversion, () Skeletonization
+
+The saved image was duplicated, and Gaussian filter (sigma = 35 pixels) was applied to the duplicated image to blur it. (Fig.a) The blurred image obtained by applying the Gaussian filter was extracted from the original image using the image processing (image calculator) to remove soft tissue variations. (Fig.b) A 128 Gy value was added to each pixel location, and 128 brightness level was set as the threshold value regardless of the initial brightness level of the image. (Fig.c) The image with the threshold value of 128 brightness level was then converted to binary (black-white) format.(Fig.d) The boundaries of the bone marrow and trabecular structure were then made distinguishable. Erosion and dilation operations were applied to the image to remove noise from the image.(Figuree and f) The image was inverted and skeletonized.( Fig.g and h) The skeletal structure (black areas) represented the bone model, and the non-skeletal structure (white areas) represented the bone marrow. For the FD calculation, the image was divided into squares of sizes 2, 3, 4, 6, 8, 12, 16, 32, and 64 pixels using the box counting method (Fractal Box Counter). The number of squares containing trabeculae and the total number of squares in the image were determined for various pixel sizes. These values were plotted on a logarithmic scale, and the slope of the line that best fit the points on the graph determined the bone FD.
+
+Statistical analysis
+
+Data analysis was performed using SPSS 26 with 95% confidence. Normality was tested using the Shapiro-Wilk test. As data were non-normally distributed, Wilcoxon signed-rank test was used for intra-group comparisons, and Mann-Whitney U test for inter-group comparisons. Kruskal-Wallis was used for group/gender interactions. Intra-observer agreement was assessed by repeat analysis on 20 randomly selected images one month apart using Spearman correlation.
+
+Results
+
+A total of 21 patients (12 females, 9 males) completed the study. The age distribution was homogeneous across groups (mean age 50.43 ± 9.22 years;= 0.999). The Shapiro-Wilk test indicated non-normal distribution; thus, non-parametric tests were used. Intra-observer reliability was confirmed with Spearman’s rho (> 0.05) on repeated measurements of 20 cases.
+
+For this study, correlation coefficients were calculated for intra-observer reliability. Consistency was observed between the evaluations of the 1st and 2nd panoramic images (> 0.05). The FD values measured from the selected Regions of Interest (ROIs) pre- and post-implant treatment are presented in Table. There is no significant difference in the pre-treatment FD values measured in the selected ROI regions (Table). Generally, an increase in the FD values was observed in the selected ROIs following treatment. However, a significant increase in trabecular bone following treatment was observed specifically in the 45th dental region subjected to the PF process (= 0.046 < 0.05).
+
+Table 1
+
+Comparison of panoramic measurements of patients according to implant groups, by change
+
+Implant Group
+
+Group
+
+35 (control)
+
+36 (control)
+
+45 (test)
+
+46 (test)
+
+Gender
+
+1,091 ± 0,051 (1,095)
+
+1,123 ± 0,069 (1,108)
+
+1,067 ± 0,046 (1,059)
+
+1,080 ± 0,076 (1,052)
+
+,
+
+Age
+
+1,131 ± 0,056 (1,119)
+
+1,111 ± 0,056 (1,097)
+
+1,131 ± 0,060 (1,135)
+
+1,088 ± 0,033 (1,086)
+
+,
+
+Δ1–2. panoramic p(W)
+
+,
+
+,
+
+,
+
+,
+
+*< 0.05 indicates a significant difference,> 0.05 indicates no significant difference; Wilcoxon (W), Kruskal-Wallis (KW) test
+
+When comparing panoramic measurements of patients in the test and control groups based on selected ROIs; a statistically significant difference was found between the 1st panoramic measurement and the 2nd panoramic measurement in the test group patients (= 0.044 < 0.05), showing an increase in bone fractal score (1.103). In the control group, although an increase in bone fractal score was observed, this difference was not statistically significant (= 0.794 > 0.05) (Table).
+
+Table 2
+
+Comparison of patients’ panoramic measurements by groups
+
+Implant Group
+
+Group
+
+Control Side
+
+Test Side
+
+1. panoramic(MW)
+
+1.113 ± 0.064 (1.102)
+
+1.075 ± 0.067 (1.053)
+
+0.021*
+
+2. panoramic(MW)
+
+1.118 ± 0.056 (1.105)
+
+1.103 ± 0.047 (1.092)
+
+0.428
+
+Δ1–2.panoramic p(W)
+
+0.794
+
+0.044*
+
+*< 0.05 indicates a significant difference, while> 0.05 indicates no significant difference; Wilcoxon (W), Mann-Whitney (MW) test
+
+When stratified by gender, no significant differences were found between male and female subgroups in either group (> 0.05). There was also no statistically significant difference between the 1st and 2nd panoramic measurements in both women and men across all implant groups (> 0.05). (Table) These findings suggest that PF is associated with greater enhancement of trabecular bone complexity, as measured by FDA.
+
+Table 3
+
+Comparison of panoramic measurements of test and control group patients by gender
+
+Sex
+
+Group(MW)
+
+Female
+
+Male
+
+Group control
+
+1. Panoramic
+
+2. Panoramic
+
+1. 121 ± 0.048 (1.109)
+
+1. 121 ± 0.058 (1.112)
+
+1. 102 ± 0.083 (1.075)
+
+1. 113 ± 0.056 (1.089)
+
+0.227
+
+0.722
+
+Δ1–2.panoramic p(W)
+
+0,937
+
+0,859
+
+Group test
+
+1. Panoramic
+
+2. panoramic
+
+1. 077 ± 0.0453(1.072)
+
+1. 099 ± 0.055 (1.086)
+
+1. 073 ± 0.085 (1.044)
+
+1. 107 ± 0.035(1.093)
+
+0.355
+
+0.546
+
+Δ1–2.panoramic p(W)
+
+0.286
+
+0.110
+
+*< 0.05 indicates a significant difference, while> 0.05 indicates no significant difference; Wilcoxon (W), Mann-Whitney (MW) test
+
+Discussion
+
+Dental implantation is a common clinical procedure used for replacing missing teeth. However, there are certain risk factors that might contribute to the failure of dental implants, which in turn can lead to the loss of the implants. Clinical procedures are a significant contributing factor to implant loss. Implant success relies heavily on factors such as the sterility of the application site, surgical techniques, and surface properties of implants. A study evaluating the survival of 563 implants in 219 patients found that the early failure rate was reported to be 4.3% without PF and decreased to 1.3% with PF []. The enhanced osseointegration of dental implants following PF is attributed to the increased hydrophilicity and removal of hydrocarbon contamination from the implant surface [].
+
+Recent studies have shown that treatment of Ti implant surfaces with UV light enhances osseointegration capacity, strengthens the Ti-implant interface, especially in the early stages, increases bone formation capacity, and has a positive effect on osteoconductivity. It has been reported that treatment of implant surfaces with UV light is beneficial for the primary stability of implants, especially in the posterior maxillary region. Similar to the study by Choi et al., our study did not include clinical evaluations or stability measurements. While Choi et al. utilized the ISQ value for bone assessment, our study employed the FD []. Our findings demonstrate that UV PF improves osseointegration, in line with studies showing enhanced bone-implant contact and accelerated healing after UV treatment [,]. However, we are unable to assess its effect on stability. Increased bone quality is the primary determinant for osseointegration and implant stability. Based on our study data, PF has the potential to offer clinical benefits.
+
+The use of UV irradiation has been recorded as a simple and cost-effective solution that facilitates osseointegration in areas with low success rates and structurally vulnerable regions. The advantages of PF include its effectiveness in cases with low or no primary stability. Studies by Kitajima and Ogawa demonstrated that a 15-minute PF procedure provided a rapid stability increase in implants with low or no initial stability []. Similar to the results of Kitajima and Ogawa, who observed rapid stability gains in cases with low primary stability, our data suggest enhanced trabecular organization post-UV treatment as indicated by increased FD values. PF is an effective method for improving stability in implants with poor initial stability. A study by Saita et al. found that the PF process was effective in depositing nano-scale hydroxyapatite on TiO surfaces more rapidly []. The optimal UV wavelength for biological effectiveness is approximately 250 nm.
+
+However, the method of UV application to implant surfaces is also important. The UV does not significantly penetrate glass. Therefore, to ensure that implant surfaces are exposed to all wavelengths, implants should be removed from glass or plastic containers before UV irradiation and treated according to the manufacturer’s recommendations. In our study, a single UV device was used, and the procedure was carried out in accordance with the manufacturer’s recommendations. Prior research has demonstrated that the implementation of PF has produced favorable outcomes, even in situations where the bone is insufficient [].
+
+The sterilization and hydrophilization of implant surfaces have been shown to increase the success of implants. In this study, none of the implants showed signs of bone or implant loss (those subjected to the PF process or not). Since clinical evaluation was not performed during implant placement, we are unable to provide an assessment of stability. However, our subsequent radiographic examination confirms the success of all implant surgeries and healing processes. In this sense, it may be stated that the early survival rate was 100% for both the test and control groups. One of the important factors affecting implant stability is bone quality. Systemic conditions and disorders affecting bone metabolism, as well as age are factors that affect bone quality []. There were no systemic factors affecting bone structure in our study groups, and the distribution of age was homogeneous.
+
+Studies evaluating the effectiveness of PF have generally focused on clinical success. Cellular-level studies are typically animal studies [,]. This study is the first study to demonstrate this positive effect using fractal analysis to evaluate bone fractal structure in humans. Increased FD values in the photofunctionalized group suggest improved bone quality and potential for faster or more predictable osseointegration.
+
+Sawase et al. reported in their animal studies in 2007 that UV application to implant surfaces did not make any difference in 4 weeks []; however, in similar studies published by the same researchers in 2008, they stated that UV application in the second week made a significant difference in bone apposition []. The study results indicated that UV application was beneficial for early bone apposition. Similarly, Yamauchi et al. and Lee et al. reported that the PF process supported high bone performance in the early stage of osseointegration [,].
+
+The only study in the literature that reports that UV PF does not provide additional benefits to osseointegration is conducted by Mehl et al. [] The researchers conducted a study on pigs using 48 titanium implants to assess implant stability using the implant stability quotient (ISQ) and half of the implants were photofunctionalized with intense UV light before implantation. Three months later, they reported that UV application did not provide any additional benefit in the ISQ values. The researchers noted that their results were from a 9-week study, while comparison studies were generally 4 weeks, suggesting that positive differences in osseointegration could be significant in the early period. Although Mehl et al. [] did not observe improvements in ISQ scores, they noted that early-stage evaluations might be more relevant. Our use of FDA supports early bone quality gains through PF.
+
+Fractal analysis has been used in many studies to examine trabecular bone in the medical and dental fields []. Soylu et al. reported that the FD method is a promising and non-invasive method to predict osseointegration of dental implants based on dental radiographs []. Furthermore, they suggest that implementing this method could potentially shorten the total treatment time. Clinical studies on the effect of UV PF on implant osseointegration have been limited to cellular-level and animal studies. Human clinical studies have been limited to evaluating stability using the ISQ value measurement or CBCT for assessing bone quality. To our knowledge, this study is the first to use FDA on panoramic radiographs to evaluate the effects of PF on peri-implant bone in humans. There has been no comparative study that has utilized the FA analysis method to evaluate osseointegration of implants and the bone structure around the implant in clinically photofunctionalized cases.
+
+Based on the studies conducted, FA could be a useful tool for determining the primary stability of implants and the quality of the adjacent bone tissue. Our study is the first to provide numerical evidence of the positive contribution of the PF procedure using the FA method, independent of clinical stability values. As trabecular patterns can be clearly seen in dense bone, FD evaluation from panoramic radiographs has been shown to be most reliable in the mandibular premolar region []. Therefore, implants placed in the mandibular premolar and molar regions were included in this study. Additionally, standard ROIs were used for FD determination. Many studies in the literature have used Mandibular cortical index(MCI), Resonance frequency analysis (RFA), FD, and ISQ to evaluate bone quality, peri-implantitis, implant primary stability, and changes in bone resorption resulting from early loading.
+
+However, few studies have attempted to establish a relationship between pre- and post-operative conditions. This study investigated whether the FD value of the bone before implant placement correlated with the FD values of the bone 12–16 weeks after implant placement and demonstrated the effectiveness of the applied PF protocol []. The positive relationship between ISQ measured following implant placement and the FD value measured before placement suggests a potential for FA to become a standard clinical protocol for evaluating this process. In our research, we observed increases in FD values following implant placement. However, this increase was found to be significant for FD values in implants with PF applied. This outcome corroborates existing literature indicating a rise in bone fractal after implantation and underscores the influence of PF on this effect. The findings suggest that the PF method offers potential for enhanced osseointegration and bone formation. Although clinical measures such as ISQ were not collected, FD may offer a surrogate imaging marker for clinicians evaluating implant success postoperatively.
+
+FD may help guide decisions regarding early loading protocols or patient selection in compromised cases.
+
+Sansare et al. [] noted a notable increase in FD support following implant storage, attributed to augmented bone microstructure and trabecular quantity around the implant. This increase can be attributed to the healing pattern, implying that FD mirrors enhanced bone formation and trabecular patterning post-bone healing, consistent with our study’s findings. Various FD methods exist in fractal analysis, with our study employing the box counting method, the most prevalent in literature, to assess bone’s internal structure. The ROI was standardized at 25 × 25 pixels based on prior validation studies [,]. FDA using ImageJ and the box-counting method provides a reproducible, non-invasive tool for assessing trabecular complexity in 2D images. Additionally, we applied a 400% enlargement using the interpolation method to the images alongside fractal analysis. This step, proven to enhance accuracy [,] may offer guidance for future research endeavors.
+
+Yaşar et al. [] reported a 5% information loss in data due to varied formats during image cutting and transfer, which cannot be irreversibly recovered. Hence, in our study, all radiographs were edited in TIFF format to mitigate data loss, followed by FA measurements. The PF update procedure holds clinical promise in supporting early bone osteoconductivity, potentially expediting the decision-making process. While the implant loading protocol advises loading at least 8 weeks post-implantation to mitigate complications, this timeline may vary. Soylu et al. [] demonstrated that evaluating FD could complete osseointegration and bone healing within 2 months. Our study suggests that additional PF may expedite this process, presenting clinical benefits.Moreover, with recommendations from our study and diverse literature sources, the FA method, a simple technique, could evolve into a standard clinical protocol for evaluating this process.
+
+Kış and Gürbulak reported in their study that differences in implant crown-root ratios could affect the FD values. In our study, only standard implants were included to eliminate potential variations that could arise from implant length and diameter variations. Additionally, implants with any adjacent bone defects or augmentations applied during implant placement were excluded from the study []. Additionally, in retrospective studies, the evaluation of observer agreement is important for calibration and reliability. In our study, a randomly selected set of 20 images was re-analyzed 1 month later to test intra-observer reliability, and the intra-observer reliability was found to be satisfactory.
+
+This study has some limitations. In this study, sample size was small (= 42 implants) and based on a single center, which may limit generalizability. Due to the use of similar implants, the total number of included implants was low, and no further measurements were taken. However, it can be said that by the third or fourth month, all implants had successfully integrated with the surrounding bone, as evidenced by the placement of healing abutments on all implants. This study could be useful as a pilot study for further research with a larger sample size. Our second limitation is that in this study, we used panoramic images instead of CBCT, which may affect spatial resolution and measurement precision. Panoramic radiographs were preferred over CBCT due to several practical and ethical considerations. CBCT, while offering superior spatial resolution, involves higher radiation exposure and is not routinely indicated for follow-up of conventional implant cases in clinical practice. Additionally, previous studies have shown that 2D radiographs can provide reliable fractal analysis results when image acquisition parameters are standardized [].
+
+ROI selection was based on pre-implantation radiographs, and then post-implantation images were used for the selection process. The effect of ROI location and size on FD measurements is uncertain. It has been shown that the exact determination of ROI location and size may not create a significant difference, but there is no consensus on this matter. Third limitation of this study is that it did not include ISQ or other mechanical stability measurements, thus limiting interpretation of functional results. In addition, although acceptable reproducibility was confirmed, intraobserver variability may affect measurements. Ultimately, although the positive effect of the PF process was demonstrated in our study, the positive contribution to FD values could not be supported by a clinical measurement method. Therefore, it is necessary to augment the number of prospective clinical studies.
+
+Conclusion
+
+The PF process positively affects bioactivity, supporting new bone formation and contributing to the faster completion of the osseointegration process. Although fractal analysis is a promising and noninvasive method to predict dental implant osseointegration based on two-dimensional dental radiographs, more prospective clinical studies are needed.
