@@ -52,4 +52,4 @@ This retrospective observational study (University of Valencia, 2013–2018) eva
 ## Related Papers
 
 - [[endodontics/irrigation/jkda-2025-63-2-005]] — complements canal-disinfection/irrigation evidence; this paper situates disinfection within the broader prognostic picture where coronal seal is decisive.
-- [[endodontics/anatomy]] — anatomy/access affects debridement quality; this outcome study shows how upstream disinfection and downstream coronal seal jointly determine periapical healing.
+- [[overviews/endodontic-access-cavity-decision-tree]] — anatomy/access affects debridement quality; this outcome study shows how upstream disinfection and downstream coronal seal jointly determine periapical healing.
