@@ -1,0 +1,109 @@
+Dental Antibiotic Prescribing Practices and Antimicrobial Resistance Knowledge in Singapore
+
+Authors: Low JQ, Taylor M, Loh BJK, Chew JRJ, Teoh L, Goh CE
+Journal: International Dental Journal 2026;76(4):109654
+DOI: 10.1016/j.identj.2026.109654
+PMID: 42229148 | PMCID: PMC13254855
+Publication date: 2026-06-02
+
+ABSTRACT
+
+Introduction and aims
+While dental antibiotic prescribing accounts for approximately 10% of all antibiotic prescriptions across human healthcare worldwide, up to 80% are inappropriate. These contribute to the growing global health threat of antimicrobial resistance (AMR). Effective antibiotic stewardship requires an up-to-date understanding of antibiotic prescribing practices and knowledge. This study aimed to assess the antibiotic prescribing practices, knowledge and attitudes among dentists in Singapore.
+
+Methods
+A survey was distributed in 2024 to dentists using convenience sampling through the mailing lists of professional dental organisations. Appropriate use was assessed by comparing the responses with dental prescribing guidelines and stratified by clinical specialty. Multivariable logistic regressions were used to identify dentist characteristics predicting appropriate prescribing.
+
+Results
+Two hundred and eighty dentists completed the questionnaire. Appropriate antibiotic prescribing varied widely, ranging from 6.5% to 97.7% across clinical scenarios. The lowest appropriate prescribing rates were observed for periodontal scenarios (30.4% ± 37.5%). Rates were similarly low for oral surgery scenarios (34.0% ± 29.0%) but higher for restorative (58.3% ± 28.6%) and for the management of medically complex patients (56.6% ± 18.0%). When faced with nonclinical pressures (eg, patient request for antibiotics, lack of a definitive diagnosis), only 21.1% to 37.5% practised appropriate prescribing. In multivariable regressions, locally trained dentists, those in the public sector, and those with fewer years of experience showed higher rates of appropriate prescribing.
+
+Conclusions
+Although dentists recognised the importance of appropriate antibiotic use and the threat of AMR, many demonstrated inappropriate prescribing and gaps in their understanding of AMR. Future training interventions could increase awareness of recently published local guidelines and offer digital resources to address knowledge gaps and meet training demand. Implementation strategies are also needed to translate interventions into practice.
+
+Clinical Relevance
+Understanding antibiotic prescribing practices, knowledge, and attitudes among dentists in Singapore can guide targeted interventions to enhance antibiotic stewardship within the dental profession.
+
+FULL TEXT
+
+Introduction
+
+Antimicrobial resistance (AMR) is a critical global public health threat. In 2019, 1.27 million deaths worldwide were caused by antimicrobial-resistant bacterial infections, with an additional 4.95 million deaths associated with AMR-related complications. As antimicrobial-resistant infections become increasingly challenging to treat, patients experience prolonged hospital stays and higher morbidity and mortality rates, placing greater strain on healthcare systems. By 2050, AMR is estimated to cost the global economy as much as $3 trillion in lost gross domestic product.
+
+Inappropriate and excessive use of antibiotics in healthcare, is one of the key drivers of this global health crisis. In an Australian survey, approximately 55% of antibiotics were reported to be inappropriately prescribed by dentists, such as in the management of localised odontogenic infections. With the dental profession responsible for around 10% of antibiotic prescriptions across human healthcare worldwide, dentists play a key role in appropriate prescribing and thus combating AMR. Yet, several international surveys have reported significant gaps in the profession's literacy on antibiotic use, and concerning levels of inappropriate prescribing of up to 80%. These findings highlight the need for stronger antibiotic stewardship interventions in dentistry worldwide.
+
+A recent 2024 systematic review of studies across multiple countries found that inappropriate prescribing in dentistry is mainly driven by modifiable factors such as inadequate knowledge, complacency towards patient expectations, time pressure, and fear of adverse patient outcomes and medico-legal complications. However, the review identified no studies from Singapore, revealing a lack of local data. The last Singapore-based study examining antibiotic prescription practices was conducted a decade ago, and focused only on antibiotic prophylaxis for the prevention of infective endocarditis. The larger patterns of antibiotic use in routine dental practice are unknown. Addressing these knowledge gaps is essential to inform and design targeted educational interventions to support effective antibiotic stewardship in dentistry in Singapore.
+
+This study aims to assess the current antibiotic prescribing practices and knowledge of antibiotic use among dentists in Singapore, and to examine how dentist characteristics influence prescribing behaviour. We further explore the factors that shape prescribing decisions, assess dentists' knowledge and attitudes toward antimicrobial resistance, and identify their sources of knowledge and interest in additional training on antibiotic use.
+
+Materials and methods
+
+Study design and population
+This cross-sectional study was conducted in 2024 among registered dentists in Singapore using convenience sampling. A self-administered online survey questionnaire (Qualtrics) was distributed through the mailing lists of professional dental organisations, including the Singapore Dental Association (SDA) and College of General Dental Practitioners Singapore (CGDP). Additional dissemination was carried out through each of the dental specialist associations in Singapore. Participation was voluntary, informed consent was obtained electronically, and all responses were anonymous.
+
+Sample size calculation
+A conservative estimate of 50% appropriate prescribing was assumed. Based on the population of 2690 registered dentists in Singapore, a minimum sample size of 337 respondents was needed to achieve a 95% confidence level with a 5% margin of error.
+
+Questionnaire
+The questionnaire comprised 5 sections: (1) Demographics (6 items), (2) Antibiotic prescribing preferences (4 items), (3) Prescribing practices for clinical indications and prophylaxis and nonclinical scenarios (29 items), (4) Knowledge and attitudes towards antimicrobial resistance (7 items), and (5) Sources of prescribing knowledge and training needs (4 items). Clinical scenarios were categorised by clinical context: restorative, oral surgery, periodontal and implant-related, and the management of medically complex patients. Nonclinical scenarios explored common pressures: patient expectations, time pressure, ineffective local anaesthetic, inability to arrive at a diagnosis, and medico-legal conflicts.
+
+Statistical analysis
+Independent samples t-tests or one-way ANOVA with Bonferroni adjustments compared appropriate prescribing rates across clinician characteristics. Multivariable logistic regression evaluated associations between dentist characteristics and appropriate prescribing for each clinical scenario. SPSS v27, significance p < .05.
+
+Results
+
+Study demographics
+A total of 352 dentists responded; after excluding 72 incomplete surveys, 280 responses remained, corresponding to 10.4% of practising dentists in Singapore. The majority (79.6%) were under 50 years old, female (60.4%), and 75% received basic dental training in Singapore. The sample included a higher proportion of public sector dentists (34.6%) and specialists (32.9%) than the national demographics. 18.2% had 0 to 5 years of experience.
+
+Characteristics of antibiotic prescription practices
+The prevailing practice was to prescribe antibiotics for 5 days (86.8%), with Amoxicillin and Augmentin being the most commonly prescribed (97.1%). 14.9% reported always or often prescribing multidrug regimens, with the most common combination being amoxicillin and metronidazole (89.0%).
+
+Knowledge and prescribing preferences for clinical and nonclinical scenarios
+There was substantial variability in dentists' knowledge and preferences across clinical scenarios. Appropriate use ranged from 6.5% to 97.7%.
+
+For 4 commonly misunderstood medical indications for preprocedural antibiotic prophylaxis, only 25.4% of respondents correctly identified that none of the 4 listed conditions required antibiotic prophylaxis. More than half incorrectly identified mitral valve prolapse (52.9%) and unrepaired septal defects (62.5%) as indications, reflecting limited familiarity with updated AHA guidelines.
+
+When faced with nonclinical pressures such as patient requests, time constraints, difficulties in achieving anaesthesia, or diagnostic uncertainty, only 21.2% to 37.5% of dentists self-reported they would consistently adhere to appropriate practices. Only 6.8% reported prescribing defensively to avoid medico-legal conflicts. Across all nonclinical scenarios, approximately half of respondents indicated they would prescribe antibiotics at least occasionally to rarely.
+
+Clinician characteristics associated with appropriate antibiotic prescribing
+Mean appropriate prescribing rates were highest for restorative scenarios (58.3% ± 28.6%) and management of medically complex patients (56.6% ± 18.0%), and lowest for periodontal scenarios (30.4% ± 37.5%) and oral surgery scenarios (34.0% ± 29.0%). In general, locally trained dentists and those practising in the public sector had higher appropriate prescription rates. Senior dentists with ≥21 years of experience were more likely to prescribe inappropriately for restorative, oral surgery, and periodontal scenarios.
+
+Main practice sector: Public-sector dentists were more likely to prescribe appropriately for most clinical scenarios, except for dental implant placement (OR = 0.16, p < .001) and tooth extraction in a patient with a history of head and neck radiotherapy (OR = 0.34, p = .015).
+
+Clinical experience: Senior dentists (≥21 years) were more likely to prescribe inappropriately. Those with 11 to 20 years were more likely to avoid unnecessary antibiotics after surgical extractions in healthy patients (OR 2.61, p = .039) and CABG patients (OR 2.67, p < .001).
+
+Location of basic dental training: Overseas-trained dentists were more likely to prescribe appropriately for patients on antiresorptive agents (OR = 9.79, p = .030), postextraction antibiotics in healthy patients (OR = 2.57, p = .012), and alveolar osteitis (OR = 2.69, p = .007), but more likely to prescribe inappropriately for extractions in patients with head and neck radiotherapy history (OR = 0.32, p = .014).
+
+Sex: Male dentists were significantly more likely to inappropriately prescribe for pulp necrosis with chronic apical abscesses (OR = 0.47, p = .017).
+
+Antibiotic prophylaxis prescribing in commonly misunderstood medical indications
+For infective endocarditis and prosthetic joint infection prophylaxis, public sector dentists prescribed more appropriately (OR 2.34-5.03, p < .05). Senior dentists (≥21 years) prescribed prophylactic antibiotics inappropriately for total joint replacements (OR = 0.30, p = .001); overseas-trained dentists did so for mitral valve prolapse (OR = 0.49, p = .025).
+
+Common nonclinical pressures
+Senior dentists (≥21 years) were less likely to prescribe without definitive diagnoses (OR = 3.87, p = .004) but more likely to prescribe defensively to avoid medicolegal conflicts (OR = 0.38, p = .034). Defensive behaviour was also more likely among public sector dentists (OR = 0.38, p = .045).
+
+Knowledge and attitudes towards antimicrobial resistance
+Although 80% of respondents demonstrated a positive attitude towards AMR, notable knowledge gaps were observed. More than half (59.3%) were unaware that antimicrobial-resistant bacteria can be easily transmitted, particularly when infection control is compromised.
+
+Sources of prescribing knowledge and training needs
+Only 25.7% of respondents had previously attended training/courses on this topic. Most (88.2%) indicated interest in further initiatives to improve antibiotic prescribing, with locally developed guidelines (83.6%) and mobile prescribing applications (70.4%) being the most well-received.
+
+Discussion
+
+This is the first study in Singapore to assess antibiotic prescribing practices, knowledge, and attitudes among dentists. Inappropriate prescribing was most common in oral surgery, periodontal, and implant-related scenarios. 71.2% reported always or often prescribing prophylactic antibiotics after surgical removal of impacted third molars in healthy individuals, despite evidence that this is unnecessary; a Singapore intervention study found no increase in postoperative infection after reducing antibiotic use for third molar surgery from 84% to 21%. 73.5% reported routinely prescribing prophylactic antibiotics when placing dental implants, despite an absolute risk reduction of only 2.9% for early failure and no benefit in systemically healthy patients.
+
+Inappropriate prescribing for periapical and periodontal abscesses without systemic involvement was common: pulp necrosis with acute apical abscess (40.1%) and localised periodontal abscess (24.7%), comparable to international ranges (37.9-88.7% and 10.0-82.7%).
+
+Public-sector dentists demonstrated more appropriate prescribing, likely reflecting structured continuing education and clinical practice guidelines. Inappropriate prescribing was more prevalent among senior dentists (≥21 years), particularly for prophylaxis, an area with multiple guideline revisions over the past decade.
+
+The most preferred strategy for improving prescribing was development of local prescribing guidelines. The first antibiotic prescribing CPG for dentistry was released by the Academy of Medicine Singapore midway through data collection, but limited awareness was observed. Guideline dissemination alone is insufficient; behaviour change frameworks such as COM-B and implementation science strategies, plus audit-based strategies with personalised feedback, are needed. Digital resources such as mobile apps (e.g., Drugs4dent) were the second most preferred mode of content delivery.
+
+Knowledge on AMR mechanisms was consistently poor across all groups, regardless of experience or practice sector, possibly reflecting longstanding deficiencies in AMR-related dental education.
+
+Limitations: convenience sampling (response rate uncalculable), possible nonresponse bias (engaged dentists overrepresented), fewer responses (n=280) than the targeted 337 (margin of error ~5.5% with finite population correction), inability to compare general dentists vs specialists or among individual specialties.
+
+Conclusions
+Despite widespread recognition of AMR as a major threat, many dentists demonstrated gaps in AMR understanding and inappropriate prescribing. Improved dissemination of updated local guidelines and digital learning, plus strengthened foundational knowledge at undergraduate and continuing education levels, may support rational prescribing. Nearly all respondents expressed strong interest in further training.
+
+Conflict of interest: L.T. is recognised as an inventor of MIMS Drugs4dent at the University of Melbourne (commercial product, future royalties). All other authors report no conflicts.
+
+Source: PubMed Central (PMC13254855). DOI: 10.1016/j.identj.2026.109654
