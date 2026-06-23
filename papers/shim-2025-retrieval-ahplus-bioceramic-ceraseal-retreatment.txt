@@ -1,0 +1,65 @@
+Retrieval of AH Plus Bioceramic and Ceraseal Versus AH Plus in Endodontic Retreatment
+Authors: (J Clin Med 2025;14:1826) — Shim et al., Kyung Hee University
+DOI: 10.3390/jcm14061826 | PMID: 40142636 | PMCID: PMC11942721
+Source: PubMed Central full text (JATS), refs trimmed.
+
+ABSTRACT
+Since biomineralization by calcium silicate-based sealers (CSBSs) was reported, retrieving canal filling materials may be challenging during endodontic retreatment due to their adhesion to dentin. This study aimed to evaluate the possibility of removing residual mineral deposits from two kinds of CSBSs compared to the AH Plus Jet (AHJ). Root canals of mandibular premolars were prepared, obturated with the sealer-based obturation method using a WOG medium gutta-percha cone and one of the following sealers: AHJ, AH Plus Bioceramic (AHB), and Ceraseal (CER) (n = 12/group). After 3 weeks, endodontic retreatment was conducted with the WOG files, followed by instrumentation with XP-endo Finisher (XPF). Micro-computed tomography scanning was obtained after canal filling, after retreatment with WOG, and after the use of XPF. The percentage of the removed filling volume was calculated. One-way ANOVA with Tukey's test and a non-parametric test with Bonferroni's correction were performed. Root canal dentin after retreatment was examined using a scanning electron microscope (SEM). Results: After supplementary instrumentation with XPF, the mean residual filling volumes for the AHJ, AHB, and CER groups were 1.35 mm3, 0.55 mm3, and 0.82 mm3, respectively. The AHJ group showed greater residual volume compared to the AHB group (p < 0.05). The AHB and CER groups demonstrated higher mean percentages of removed filling volume at 94.8%, and 92.5%, respectively, compared to 87.1% for the AHJ group (p < 0.05). More mineral deposits were observed in the CER group with SEM. Conclusions: AHB and CER are retrievable during endodontic retreatment, with CER preferable due to greater mineral deposits in dentinal tubules.
+
+1. INTRODUCTION
+Calcium silicate-based cement (e.g., MTA) introduced as root-end filling material for sealing ability and biocompatibility. Calcium silicate-based sealer (CSBS) derived from these cements shows cytocompatibility, alkalinity after setting, calcium release, and osteogenic induction. Single-cone (sealer-based obturation) technique uses a gutta-percha cone matching final preparation; with CSBSs it has gained popularity for simplicity vs lateral compaction or continuous-wave condensation.
+
+Ceraseal (CER; Metabiomed, Cheongju, South Korea): single-syringe CSBS composed of tricalcium silicate, dicalcium silicate, tricalcium aluminate; zirconium oxide radiopacifier 45-50%. Meets ISO for flow/radiopacity; favorable cytocompatibility, calcium release, alkalinizing up to 28 days. Filling success rates 83-99%.
+
+AH Plus Bioceramic (AHB; Dentsply Sirona): CSBS using tricalcium silicate exclusively as reactive component, dimethyl sulfoxide vehicle; zirconium oxide 50-70%. Meets ISO 6876:2012; cytocompatibility surpasses AH Plus; alkaline after 28 days; releases more calcium than AH Plus but less than EndoSequence BC.
+
+Root canal treatment failure rate 10-22%. Removal of previously filled material crucial for retreatment. Mineralized deposits form on canal walls filled with CER/AHB after PBS immersion 14 days; both promote osteoblastic differentiation and calcium deposition. Residual mineral deposits may hinder subsequent sealer penetration. Conflicting prior evidence on CSBS retrievability (some show less residual than AH Plus; Oltra et al. — EndoSequence BC MORE residual; Romeiro et al. — no difference). Studies on CER/AHB retrievability scarce.
+
+XP-endo Finisher (XPF; FKG Dentaire): highly flexible martensite-austenite electropolished NiTi (MaxWire), ISO #25 tip, zero taper. Straight (martensite) at room temp, semicircular (austenite) at body temp; scraping action in apical 10 mm; used as supplementary instrument to remove filling material.
+
+Aim: compare retrievability of two CSBSs (AHB, CER) vs epoxy resin-based AH Plus via micro-CT, and effect of additional XPF on filling-material removal. Null hypotheses: (i) no difference in removed-volume ratio between sealers; (ii) no difference in retrieval efficiency after supplementary XPF.
+
+2. MATERIALS AND METHODS
+Sample size: effect size 0.89; G*Power; one-way ANOVA, alpha 0.05, power 0.95; minimum 8/group. 36 specimens in 3 groups designed (n=12 each).
+
+2.1 Specimen prep / RCT: IRB Kyung Hee University Dental Hospital (KH-DT23017); Aug-Dec 2023. Permanent human premolars with single oval canal; excluded root caries, severe curvature, open apices, resorption, prior treatment, cracks. Single endodontist operator. Crown reduced to 20 mm tooth length, flat occlusal. #10 K-file to apical foramen. Prepared with WaveOne Gold (WOG): primary (#25, 7% taper) then medium (#35, 6% taper) to apical size #35. Apical patency with #10 K-file; irrigation 5 mL 3% NaOCl after each file. Final irrigation 1 mL 17% EDTA, then 10 mL saline; dried with paper points.
+
+3 groups (n=12): AH Plus Jet (AHJ), AHB, CER. Sealer-based obturation with WOG medium gutta-percha cones. AHJ self-mixing tip/syringe; AHB and CER single-syringe injected via manufacturer tip. Heated instrument removed excess GP; condenser applied at orifice. Periapical radiography buccolingual + mesiodistal. Coronal temporary filling. Stored 36.5 C, 95% humidity, 3 weeks for complete setting.
+
+2.2 Retreatment (two phases): WOG primary and medium files remove filling; complete when WOG medium reaches WL, apical patency verified with #15 K-file; irrigate 3% NaOCl after each file. Then XPF: 1 minute at 1000 rpm, slow up/down over 7-8 mm, to 2 mm short of WL; irrigated with 3% NaOCl warmed to 36 C to drive phase transformation.
+
+2.3 Micro-CT: SkyScan 1273 at 110 kV, 136 uA, 0.3 deg rotation; 3 time points (after obturation, after WOG retreatment, after XPF). Pixel size / intersection 25 um. NRecon reconstruction; DataViewer overlay/align to initial fill reference; CTAn ROI + 3D volume of filling material (GP + sealer) in mm3. No significant difference in initial filling volume between groups (ANOVA). Removed-volume ratio used to control anatomical diversity.
+% removed after retreatment = volumetric ratio vs initial. % removed by supplementary XPF = considering residual after WOG as 100%. Assessed for total canal length, middle-cervical, and apical (4 mm) regions.
+
+2.4 SEM: one specimen/group with minimal residual examined by FE-SEM (Apero S) at x1500, x3000; EDS (Xflash 6160) for elemental composition at x3000.
+
+2.5 Statistics: initial/residual volumes by one-way ANOVA + Tukey. % removed after WOG by Kruskal-Wallis + Bonferroni (non-normal). % removed after WOG+XPF by ANOVA + Tukey. % removed by XPF by Kruskal-Wallis + Bonferroni. Three-way ANOVA (sealer x root region x instrument). Alpha 5%, SPSS 29.
+
+3. RESULTS
+3.1 Filling volumes:
+Mean initial filling volumes: AHJ 10.56 +/- 2.95, AHB 10.79 +/- 2.73, CER 11.26 +/- 2.47 mm3; no significant difference (apical, middle-cervical, total) (p > 0.05).
+No significant difference in residual filling volume after WOG retreatment among groups (total, middle-cervical, apical) (p > 0.05).
+After XPF: AHJ residual > AHB and CER in middle-cervical and total length (p < 0.05); AHJ > AHB in apical region (p < 0.05).
+Mean residual filling volumes after XPF (total): AHJ 1.35 mm3, AHB 0.55 mm3, CER 0.82 mm3.
+
+3.2 Removed-volume ratio:
+% removed after WOG: AHJ 76 +/- 7.1%, AHB 84.4 +/- 7.2%, CER 81.6 +/- 7.7%. AHB > AHJ in middle-cervical (p < 0.05). No significant difference for total or apical (p > 0.05).
+% removed after WOG + XPF: AHJ 87.1 +/- 4.4%, AHB 94.8 +/- 2.1%, CER 92.5 +/- 3.1%. AHB and CER > AHJ for apical, middle-cervical, and total (p < 0.05).
+% removed by supplementary XPF (residual after WOG = 100%): AHB > AHJ in middle-cervical (p < 0.05). No significant differences in apical or total (p > 0.05).
+
+3.3 Three-way ANOVA: sealer, root region, instrument each significantly affected % removed filling volume. Interactions not significant except 'root region x instrument'.
+
+3.4 3D visualization: WOG and XPF reduce filling material; AHJ retained greatest residue after retreatment.
+
+3.5 FE-SEM: AHJ — AH Plus sealer plugged dentinal tubule orifices. AHB — a few globular particles within tubules. CER — numerous mineral deposits within dentinal tubules. EDS: AHJ and CER particles contained nitrogen and fluoride; AHB did not. AHB and CER higher Ca:P atomic ratio; AHJ higher P:Ca. Zirconium and silica not detected (likely remained on canal wall, removed during retreatment).
+
+4. DISCUSSION
+AHB and CER groups showed greater retrievability than AHJ; supplementary XPF enhanced removal; both null hypotheses rejected. Reasons for higher AH Plus retention: (1) covalent bond between AH Plus epoxy and dentin collagen amine groups; (2) higher push-out bond strength of AH Plus vs AHB/EndoSequence BC; (3) higher solubility of AHB facilitates removal (AHB exceeded ISO solubility limit; highest % removed after WOG); (4) superior wettability of CSBSs (water contact angle AHB 0 deg, Ceraseal 16.8 deg, AH Plus 64.9 deg) lets irrigants infiltrate.
+
+Oval-canal retreatment challenging; reciprocating WOG file cannot fully remove old material; supplementary XPF (MaxWire flexibility, expansion at body temp) improved retrieval in recess and apical areas. AHB remained least filling material after retreatment; AHB contains only 5-15% tricalcium silicate vs conventional CSBS (7-15% dicalcium + 20-35% tricalcium silicate), so weaker chemical interaction. Retreatment performed only 3 weeks after filling — insufficient to form mineralized layer (clinically retreatment usually later → stronger bond). CER showed more mineral deposits in dentinal tubules (contains both di- and tricalcium silicate).
+
+Strength: micro-CT non-destructive, repeatable, overlap of pre/post scans gives precise removed-volume quantification.
+Limitations: (1) retreatment at 3 weeks (real clinical interval longer → stronger bond); (2) canal not enlarged beyond original preparation size during retreatment; (3) canals dried with paper points before filling (AH Plus bond increases when dry; CSBS prefers slightly moist).
+
+5. CONCLUSIONS
+Retrievability depends on sealer type. % removed filling volume higher for AHB and CER than the epoxy resin-based AH Plus (AHJ). Both AHB and CER are retrievable during endodontic retreatment → safe options for canal filling. CER appears a more suitable bioceramic sealer (forms more mineral deposits within dentinal tubules). Supplementary XPF enhanced removal of filling material in oval-shaped canal retreatment.
