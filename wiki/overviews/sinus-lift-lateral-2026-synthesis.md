@@ -228,6 +228,8 @@ These are working hypotheses from the synthesis, not protocol.
 - [[sinus-lift/lateral/wen-2023-lateral-sinus-floor-defects-retrospective]] — collagen-first LSFE for sinus floor defects
 - [[sinus-lift/lateral/yue-2022-sinus-floor-elevation-before-extraction]] — pre-extraction sequencing
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — sinusitis rates by technique: lateral 1.35%, transcrestal 0.00%, sinus-slot ZI 21.62%
+- [[sinus-lift/transcrestal/fettouh-2025-graftless-lateral-transcrestal-sinus-rct]] — RCT (graftless, RBH 4–6 mm): lateral vs transcrestal 12-mo ISQ equal (80.92 vs 80.19) & MBL equal, but lateral greater vertical bone gain (3.82 vs 2.42 mm) at cost of more complications/discomfort
+- [[sinus-lift/transcrestal/farina-2023-effectiveness-morbidity-costs-transcrestal-lateral-rbh]] — RCT re-analysis (RBH-stratified): both reach median 100% totCON%; at RBH ≥4 mm tSFE wins chair time/cost/morbidity, at RBH <4 mm trade-off (tSFE early pain vs lSFE bruising/cost)
 
 **Cluster 4 — Sinusitis prevention and management**
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — preop chronic sinusitis → #1 risk for infection + implant loss
