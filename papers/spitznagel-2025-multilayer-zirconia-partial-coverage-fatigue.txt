@@ -1,0 +1,137 @@
+Fatigue Performance and Failure Loads of Composition-Gradient Multilayer Zirconia: Partial-Coverage Restorations Versus Single Crowns at Different Thicknesses
+
+Spitznagel FA, Marksteiner A, Prott LS, Zhang Y, Blatz MB, Alves LMM, Campos TMB, Gierthmuehlen PC
+J Esthet Restor Dent. 2025 Dec 3;38(3):539-552.
+DOI: 10.1111/jerd.70066 | PMID: 41334980 | PMCID: PMC13062717
+
+== ABSTRACT ==
+
+Objective: This study investigated the influence of restoration type (partial-coverage versus crown) and ceramic-layer thickness on the fatigue behavior and failure load of monolithic composition-gradient multilayer zirconia (4Y-PSZ/5Y-PSZ) molar restorations.
+
+Material and Methods: Seventy-two CAD/CAM-fabricated monolithic zirconia restorations (IPS e.max ZirCAD-Prime-Esthetic, Ivoclar-Vivadent) were assigned to six groups (n=12), based on restoration type-partial-coverage restoration (PCR) or crown (C)-and ceramic thickness (occlusal/buccal: 0.5/0.4, 1.0/0.6, or 1.5/0.8 mm). All restorations were adhesively bonded to standardized dentin-analogue dies. Specimens underwent thermomechanical fatigue (1.2 million cycles, 49 N, 1.6 Hz, 5C-55C), followed by single load to failure testing. Data were analyzed using ANOVA, Tukey's post hoc test, and independent t-tests (alpha=0.05).
+
+Results: All specimens survived fatigue. Evident cracks were observed post-fatigue; one each in PCR-0.5 and C-0.5 groups, resulting in an overall success rate of 97.22%. Mean failure loads (N) were: PCR-0.5: 2047, PCR-1.0: 2018, PCR-1.5: 2777, C-0.5: 695, C-1.0: 1957, C-1.5: 3503. Ultrathin (0.5 mm) PCRs demonstrated significantly higher failure loads than ultrathin crowns (p<0.001), whereas crowns at 1.5 mm thickness outperformed PCRs (p=0.005). No significant difference was observed at 1.0 mm thickness (p=0.634).
+
+Conclusion: At ultrathin thicknesses (0.5 mm), partial-coverage designs showed superior failure loads over crowns. Both restoration types are mechanically viable at 1.0 mm and 1.5 mm thicknesses.
+
+Clinical Significance: Composition-gradient multilayer-zirconia demonstrates high fatigue resistance and is well-suited for minimally invasive, non-retentive PCR molar restorations. However, a minimum thickness of 1.0 mm should be maintained for single crowns.
+
+== FULL TEXT ==
+
+1 INTRODUCTION
+
+Minimally invasive restorative approaches are gaining increasing importance in contemporary fixed prosthodontics, particularly for preserving sound tooth structure while maintaining mechanical integrity.
+
+Partial-coverage restorations (PCRs) have emerged as a conservative alternative to full-coverage crowns, particularly in posterior regions subjected to high biomechanical stresses and loads. The clinical success of these restorations, however, is influenced by multiple factors, including material properties, restoration design, and thickness.
+
+Occlusal veneers with non-retentive preparations provide a minimally invasive solution for restoring occlusal surfaces compromised by bio-corrosive defects. When such defects extend to buccal and cervical regions, conventional treatment approaches such as full-coverage crowns or occlusal restorations combined with Class V fillings are often used; however, they involve extensive tooth reduction and may exhibit compromised long-term performance. In such cases, extended PCRs covering occlusal, buccal, and proximal surfaces-also referred to as "full veneers"-offer a tissue-preserving alternative that supports both functional and esthetic rehabilitation in a single restoration.
+
+Lithium disilicate glass-ceramics (LDS) are widely regarded as a material of choice for minimally invasive restorations, primarily due to their favorable adhesive bonding properties and clinical long-term evidence.
+
+However, recent advances in zirconia ceramics offer esthetic alternatives with improved durability. Increasing the yttria content-from 3 mol% yttria-stabilized tetragonal zirconia polycrystals (3Y-TZP) to 4 mol% and 5 mol% partially stabilized zirconia (4Y-PSZ and 5Y-PSZ)-along with a higher cubic phase and reduced alumina content, has enhanced translucency and optical appearance.
+
+This improvement in esthetics, however, comes at the cost of reduced mechanical strength and fracture toughness. To address this trade-off and balance the positive mechanical and optical properties of different zirconia compositions, multilayer zirconia disks with strength and translucency gradient technology have been developed to mimic the natural tooth structure. These typically combine a highly translucent 5Y-PSZ incisal/occlusal layer with a high-strength 3Y-TZP or 4Y-PSZ cervical layer to withstand functional loads.
+
+Consequently, yttria-gradient multilayer zirconia ceramics offer a versatile and esthetic solution suitable for a wide range of indications-from single crowns to multi-unit bridges-making them a viable alternative to LDS ceramics in minimally invasive restorations. Their high strength renders them particularly advantageous in posterior regions with increased masticatory load or parafunctional activity.
+
+In vitro studies evaluating minimally invasive occlusal onlays with non-retentive designs made from materials such as LDS, 3Y-TZP, 4Y-PSZ, and 5Y-PSZ zirconia have demonstrated that minimal ceramic thicknesses of 0.3-0.6 mm are feasible. Currently, only limited data are available on occlusal veneers made from gradient multilayer zirconia. However, so far, no studies have investigated the minimally invasive layer thicknesses required for composition-gradient multilayer zirconia in partial-coverage restorations involving both occlusal and buccal surfaces.
+
+This evidence gap underscores the need for further investigation. While clinical trials provide the highest level of evidence, they are costly and time-intensive. In contrast, advanced in vitro models allow controlled simulation of the oro-facial environment. Fatigue testing and accelerated aging in moist environments, which are known to significantly compromise ceramic strength, can provide predictive insights into long-term material performance. Such fatigue data serve as a valuable baseline for long-term clinical performance, and cyclic thermomechanical loading has been validated to reproduce clinically relevant failure modes.
+
+Therefore, the present study aimed to evaluate the fatigue performance and failure load of composition-gradient multilayer zirconia restorations in molar applications. A standardized preparation and loading protocol with two restoration types-partial-coverage (PCR) and crown (C)-was investigated at three ceramic thicknesses (0.5 mm, 1.0 mm, and 1.5 mm). The research hypothesis was that (i) restoration type and (ii) ceramic thickness would not significantly affect the failure loads under simulated masticatory conditions.
+
+2 MATERIAL AND METHODS
+
+In this in vitro study, 72 specimens were randomly assigned to two restoration types: partial-coverage (PCR, test) and full-crown (C, control). Each group was further stratified by ceramic thickness (occlusal/buccal: 0.5/0.4 mm, 1.0/0.6 mm, 1.5/0.8 mm), resulting in six subgroups (n=12).
+
+2.1 Specimen Preparation
+A maxillary first molar from a typodont model (Frasaco) was used as the basis for all preparations. A single experienced prosthodontist performed all preparations under 4.5x magnification, using coarse and fine diamond burs with continuous air-water spray cooling. Six master dies were prepared to represent the two restoration types at three occlusal/buccal ceramic thicknesses: 0.5/0.4 mm, 1.0/0.6 mm, and 1.5/0.8 mm. The PCR design followed a non-retentive approach, involving occlusal, buccal, and proximal surfaces without box preparations ("full-veneer design"). Two shallow diagonal notches (0.2 mm depth) were incorporated into each PCR preparation to aid seating/cementation. A chamfer finish line at the cervical margin was applied. Crown preparations followed the same dimensional criteria but omitted notches. 72 abutment dies were fabricated from a resin-based composite (Filtek Z100, 3M ESPE) with elastic modulus ~18 GPa closely matching natural dentin; cured, stored in distilled water at 37C for 3-5 weeks, then embedded in self-curing epoxy resin to simulate alveolar bone elastic support.
+
+2.2 Fabrication of All-Ceramic Restorations
+Restorations were CAD-designed (DentalCAD, exocad) with a 50 um virtual spacer, milled from pre-sintered multilayered zirconia blanks (IPS e.max ZirCAD Prime Esthetic, Shade A2) on a 5-axis machine. The material features a seamless gradient: 4Y-PSZ in the dentin zone and 5Y-PSZ in the incisal zone (incisal zone 3 mm, then 4 mm transition zone with no discrete layers, remainder dentin zone). The occlusal surface of each restoration was positioned within the transition layer, 3.3 mm from the top surface of the blank.
+
+2.3 Adhesive Cementation
+Intaglio surfaces air-particle abraded with 50 um aluminum oxide at 1 bar for 10 s, then phosphate monomer-containing ceramic primer (Monobond Plus) for 60 s. Resin dies pretreated with pumice, cleaned with 70% ethanol; light-curing adhesive (Adhese Universal) applied. Adhesive cementation with dual-cure resin cement (Variolink Esthetic DC). Stored in distilled water at 37C for 24 h.
+
+2.4 Fatigue Analysis
+Cyclic mechanical loading combined with thermocycling (5C-55C in distilled water, 120 s dwell) using a chewing simulator (CS 4.8). A 49 N occlusal load applied to the disto-palatal cusp for 1.2 million cycles at 1.6 Hz, with steatite spheres (d=3 mm) moving 0.5 mm horizontally from cusp to central fissure. This in vitro setup mimics ~5 years of clinical use. Specimens inspected at least twice daily for cracks, fractures, debonding. Success = no damage; survival = cracks/debonding but still functional; non-survival = catastrophic fracture.
+
+2.5 Single-Load-To-Failure Testing
+Following fatigue, single-cycle load-to-failure (SLF) testing using a universal testing machine (Zwick Z010). A steel ball (d=3 mm) applied axial load at same contact point, crosshead speed 1.5 mm/min. Failure = visible crack, fracture, or >=20% drop in Fmax.
+
+2.6 Failure and Fractographic Analysis
+Polarized light microscopy + SEM. Failure modes: (I) Crack formation within ceramic; (II) cohesive ceramic fracture with intact tooth; (III) combined fracture of ceramic and tooth structure; (IV) severe longitudinal tooth fracture extending into root.
+
+2.7 Statistical Analysis
+2x3 factorial design; n=12 per group (n=72) to detect medium effect (f=0.26), 80% power, alpha=0.05. ANOVA + Tukey post hoc + two-sample t-tests.
+
+3 RESULTS
+
+3.1 Fatigue Performance
+All restorations exhibited wear facets. Both restoration types showed 100% survival rate, no debonding or catastrophic fractures. One crown of Group C-0.5 and one restoration of Group PCR-0.5 developed visible cracks during fatigue, overall success rate 97.22%.
+
+TABLE 1 - Success rates after simulated 5-year fatigue:
+- C-1.5: 12/12 (100%)
+- C-1.0: 12/12 (100%)
+- C-0.5: 11/12 (91.67%) - one crack after 802,485 cycles
+- PCR-1.5: 12/12 (100%)
+- PCR-1.0: 12/12 (100%)
+- PCR-0.5: 11/12 (91.67%) - one crack after 551,960 cycles
+Crowns overall 35/36; PCRs overall 35/36; overall 97.22%.
+
+3.2 Single Load to Failure
+Mean failure loads (N) ranked: C-1.5 (3503) > PCR-1.5 (2777) > PCR-0.5 (2047) > PCR-1.0 (2018) > C-1.0 (1957) > C-0.5 (695).
+
+Both restoration type [F(1,66)=5.72, p=0.02] and ceramic layer thickness [F(1,66)=117.63, p<0.001] significantly affected failure load. Crossed interaction between restoration type and thickness [F(2,66)=40.14, p<0.001]: the failure-load advantage for crowns vs PCRs at 1.5 mm reversed into a disadvantage at 0.5 mm.
+
+Post hoc (per design): increasing thickness strongly improved failure load in crowns (all pairwise p<0.001). In PCRs, thickest variants higher than thinner (PCR-0.5 vs PCR-1.5 p<0.001; PCR-1.0 vs PCR-1.5 p<0.001), but NO difference between 0.5 and 1.0 mm (p=0.983).
+Per thickness (t-tests): ultrathin PCRs (0.5 mm) had significantly HIGHER failure loads than ultrathin crowns (t=-12.55, p<0.001); at 1.5 mm, crowns outperformed PCRs (t=3.12, p=0.005); no difference at 1.0 mm (t=-0.48, p=0.63).
+
+TABLE 2 - Failure load (N): Min / 1stQu / Median / Mean / 3rdQu / Max / SD
+- C-1.5: 2540 / 3104 / 3380 / 3503 / 3902 / 4800 / 628
+- C-1.0: 1370 / 1783 / 1890 / 1957 / 2130 / 2420 / 274
+- C-0.5: 393 / 553 / 594 / 695 / 837 / 1101 / 224
+- PCR-1.5: 1900 / 2453 / 2915 / 2777 / 3100 / 3370 / 509
+- PCR-1.0: 1606 / 1798 / 1974 / 2018 / 2238 / 2700 / 346
+- PCR-0.5: 1665 / 1857 / 2047 / 2047 / 2236 / 2470 / 298
+
+3.3 Failure and Fractographic Analysis
+Fatigue cracks: radial cracks in one specimen each from C-0.5 and PCR-0.5, originating from the intaglio cementation surface beneath the contact point, confined to the ceramic layer, not reaching occlusal surface.
+Post-SLF: crowns C-1.5 and C-1.0 predominantly severe longitudinal fractures involving resin die (Type IV); ultrathin C-0.5 mainly cohesive ceramic fractures with intact dies (Type II). PCRs regardless of thickness primarily combined ceramic+die fractures (Type III).
+
+TABLE 3 - Failure mode occurrence (%): I / II / III / IV
+- C-1.5: 0 / 0 / 25.0 / 75.0
+- C-1.0: 0 / 0 / 33.3 / 66.7
+- C-0.5: 0 / 83.4 / 16.7 / 0
+- PCR-1.5: 0 / 8.3 / 75.0 / 16.7
+- PCR-1.0: 0 / 0 / 91.7 / 8.3
+- PCR-0.5: 0 / 16.7 / 83.3 / 0
+
+4 DISCUSSION
+
+Research hypothesis rejected: both restoration type and ceramic thickness significantly influenced failure load. 100% survival, 97.2% overall success. Aligns with clinical reports of 99.1%-100% survival for monolithic zirconia single crowns posterior 3-7 yrs; no clinical data yet for monolithic zirconia PCRs.
+
+Except C-0.5, all groups exceeded normal posterior masticatory force range (289-700 N). 0.5 mm crowns failure load ~695 N nears upper threshold of physiological/parafunctional forces (up to 900 N), suggesting limitations under intensified loads.
+
+Mechanical strength decreases non-linearly for monolithic zirconia crowns with reduced thickness, especially below 1 mm (higher tensile stresses at intaglio surface, manufacturing/cementation/function flaws). At 0.5 mm, PCRs significantly outperformed crowns (2047 vs 695 N, p<0.001) - mechanical advantage of non-retentive PCR design under ultrathin conditions (more favorable stress distribution, lower internal tension). At 1.0 mm no significant difference; at 1.5 mm crowns superior (p=0.005). Therefore PCRs clinically suitable at all tested thicknesses, whereas crowns should have minimum 1 mm thickness in molars.
+
+Comparative studies: 3Y-TZP (ZirCAD LT) PCRs 1 mm occlusal, one PCR debonded. Occlusal veneers ZirCAD Prime 0.3-0.6 mm and ZirCAD Prime Esthetic 0.5-1.5 mm exceeded masticatory forces; 5Y-PSZ-only veneers showed isolated/partial failures (7.8%); 0.5 mm veneer success dropped to 50%. Full-contour crowns 1.5 mm: 3Y-TZP 3708 N, 4Y-PSZ 3172 N, multilayer 5Y/3Y 2461 N, 5Y/4Y 2393 N - yttria concentration at occlusal surface is primary determinant of fracture resistance. C-1.5 here (3503 N) higher, attributed to restoration positioning within gradient. 1 mm crowns: 3Y-TZP 7530 N > 4Y-PSZ 5000 N > 5Y-PSZ 3700 N (transformation toughening reduced with higher yttria; metal abutments increase stiffness). 0.5 mm crowns various zirconia 1211-3952 N with no post-fatigue failures (vs 695 N here). First in vitro study evaluating full-veneer molar crowns from composition-gradient multilayer zirconia; cross-study benchmarking limited by abutment material/geometry/loading/cementation differences.
+
+4Y-PSZ higher flexural strength/fracture toughness (tetragonal phase, transformation toughening); 5Y-PSZ greater translucency but reduced mechanical reliability (cubic microstructure). Composition strength-gradient multilayer zirconia balances both. 5Y-PSZ resistant to low-temperature degradation (LTD); 3Y-TZP and 4Y-PSZ susceptible. 5Y top layer mitigates aging at restoration surface. Bilayer 4Y core + 5Y top demonstrated superior mechanical performance before/after aging vs monolithic 5Y without sacrificing translucency.
+
+Failure analysis: PCRs mainly combined ceramic+substrate fractures (Type III); crowns extensive longitudinal cracks (Type IV) - crowns more robust at 1.0/1.5 mm but transmit higher stresses to substrate during catastrophic failure, potentially compromising remaining tooth.
+
+Limitations: in vitro design; resin-composite dies instead of extracted teeth; only one commercial material (IPS e.max ZirCAD Prime Esthetic) tested.
+
+Manufacturer currently recommends minimum occlusal thickness 1.0 mm and restricts indication to single crowns. The superior performance of ultrathin PCRs (0.5 mm) vs crowns at same thickness challenges this paradigm.
+
+5 CONCLUSIONS
+- PCRs demonstrated superior failure load after fatigue vs full-coverage crowns at 0.5 mm, supporting ultrathin minimally invasive use.
+- At 1.0 mm and 1.5 mm, both designs reliable; crowns higher failure loads than PCRs at 1.5 mm.
+- Composition-gradient multilayer zirconia exhibited high fatigue reliability, suitable for non-retentive posterior applications.
+- Minimum thickness 1.0 mm should be maintained for single crowns.
+
+Funding: International College of Prosthodontists (ICP).
+COI: F.S. lectures sponsored by Ivoclar Vivadent.
+
+Source: PubMed Central PMC13062717. DOI: 10.1111/jerd.70066
