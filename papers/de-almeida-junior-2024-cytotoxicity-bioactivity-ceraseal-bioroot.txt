@@ -1,0 +1,68 @@
+Analysis of the cytotoxicity and bioactivity of CeraSeal, BioRoot™ and AH Plus sealers in pre-osteoblast lineage cells
+
+Authors: Luciano Aparecido de Almeida-Junior, Giuliana de Campos Chaves Lamarque, Henry Herrera, Maya Fernanda Manfrin Arnez, Francine Lorencetti-Silva, Raquel Assed Bezerra Silva, Léa Assed Bezerra Silva, Francisco Wanderley Garcia Paula-Silva
+Journal: BMC Oral Health 2024;24(1):262. DOI: 10.1186/s12903-024-04021-2. PMID 38389110, PMCID PMC10882839.
+Source: PubMed / PubMed Central (PMC) full text.
+
+== ABSTRACT ==
+Objective: to evaluate in vitro the cytotoxicity and bioactivity of various endodontic sealers (CeraSeal, BioRoot™ and AH Plus) in pre-osteoblast mouse cells (MC3T3 cells).
+Methods: MC3T3 cells (ATCC CRL-2594) were plated at 1×10^? cells/well in 96-well plates in contact with endodontic sealers at concentrations of 1:10 and 1:100. Cell viability was evaluated by MTT assay after 24 and 48 h. Sealer bioactivity was measured by RT-PCR for mediators of inflammation (Tnf, Ptgs2) and mineralization (Runx2, Msx1, Ssp1 and Dmp1) after 24 h and by Alizarin Red S assay of mineralization after 28 days. Data analyzed by one-way ANOVA + Tukey's post-test at 5% significance.
+Results: BioRoot™ presented 24-hour cytotoxicity (p<0.05) at 1:10 concentration. At 48 h, no endodontic cement was cytotoxic compared to control (p>0.05). TNF-α (Tnf) gene expression was induced by AH Plus (p<0.05), while Ptgs2 was induced by CeraSeal and BioRoot™ (p<0.05). Runx2 expression was stimulated by BioRoot™ and AH Plus (p<0.05). In contrast, Dmp1 expression was higher for CeraSeal and BioRoot™ (p<0.05). The sealers did not impact the formation of mineralization nodules (p>0.05).
+Conclusion: CeraSeal, BioRoot™ and AH Plus sealers were not cytotoxic to MC3T3 cells within 48 h, but differentially induced the expression of genes related to inflammation and mineralization without impacting biomineralization by the cells.
+
+== BACKGROUND ==
+Non-surgical root canal treatment involves removal of necrotic tissue, cleaning/decontaminating the root canal, and placement of a tissue-compatible material that seals and promotes repair — usually the gutta-percha cone with an endodontic filling sealer. Endodontic sealers fill the space between dentin walls and gutta-percha along the entire root canal; properties should include dimensional stability, biological sealing and biocompatibility. Sealers are classified by chemical constituents: zinc oxide–eugenol, calcium hydroxide, glass ionomer, silicone, resin and bioceramic-based.
+
+One of the greatest challenges in endodontics is finding bioactive materials that promote formation of mineralized tissue.
+
+AH Plus is an epoxy-resin-based sealer, considered the gold standard for comparison due to excellent physico-chemical properties, strength and dimensional stability; however its bioactivity within tissues is limited. Bioceramic sealers were developed to improve apical/periapical tissue response; these may contain alumina, zirconia, bioactive glass, glass-ceramics, hydroxyapatite and calcium phosphates, grouped as calcium silicate–based or calcium phosphate–based cements.
+
+BioRoot™ (RCS) is a calcium silicate–based root canal sealer with high solubility and without cytotoxic effects in vitro and mild antibacterial activity; usable in single-cone or lateral condensation; induces synthesis of angiogenic and osteogenic growth factors by periodontal ligament cells; can stimulate mineralized tissue formation; demonstrated significantly more solubility than other sealers.
+
+CeraSeal (Meta Biomed Co., Cheongju, Korea) is a PRE-MIXED calcium silicate–based bioceramic material. Because it was released more recently, literature knowledge is scarce in both in vitro and in vivo studies. Calcium silicate–based cements favor the biomineralization process. Studies show bioceramic materials are more biocompatible and have greater capacity to induce osteoblast differentiation compared to AH Plus.
+
+Aim: evaluate in vitro the cytotoxicity and bioactivity of CeraSeal, BioRoot™ and AH Plus endodontic sealers in pre-osteoblast mouse cells.
+
+== METHODS ==
+Performed in accordance with ISO 10993-5:2009. Extraction method used to place materials in contact with cells.
+Materials (Table 1):
+- CeraSeal: calcium silicates, zirconium oxide, thickening agent. MetaBiomed, Korea.
+- BioRoot RCS: powder based on tricalcium silicate, zirconium oxide and povidone; aqueous solution of calcium chloride and polycarboxylate. Septodont, France.
+- AH Plus sealer: Paste A — Bisphenol-A epoxy resin, Bisphenol-F epoxy resin, calcium tungstate, zirconium oxide, silica, iron oxide pigments. Paste B — dibenzyldiamine, aminoadamantane, tricyclodecane diamine, calcium tungstate, zirconium oxide, silica, silicone oil. Dentsply Maillefer, Switzerland.
+
+Prefabricated matrices 2 mm diameter × 3 mm height; volume 37.68 mm^3. Materials kept under UV light 1 h to eliminate contamination, then placed in polypropylene tubes with 2 ml α-MEM, stored at 37 °C for 24 h. Extract filtered through 0.22 μm Millipore filter; serial dilutions 1:10 and 1:100 prepared from initial 1:1 extract.
+
+Cell culture: Mouse pre-osteoblast cell line MC3T3 (ATCC CRL-2594; BCRJ). Maintained in α-MEM with 5% FBS, penicillin and 1% streptomycin; humidified incubator 37 °C, 5% CO2; medium changed every 2 days; cells used between 5th and 10th passage.
+For experiments, 1×10^4 cells/well plated into 96-well plates, attached overnight. Experiments in triplicate.
+
+MTT colorimetric assay: Cells stimulated for 24 and 48 h. Groups: CeraSeal 1:10, CeraSeal 1:100, BioRoot™ RCS 1:10, BioRoot™ RCS 1:100, AH Plus 1:10, AH Plus 1:100, positive control (DMSO), negative control (cells without FBS). 10 µL MTT + 150 µL RPMI (0.5 mg/mL), incubated 4 h at 37 °C; formazan dissolved in DMSO 30 min; absorbance read at 570 nm.
+
+RT-PCR: 1:100 dilution selected after viability evaluation. mRNA levels evaluated for Tnf, Ptgs2 (inflammation) and Runx2, Msx1, Ssp1, Dmp1 (mineralization/osteo-odontogenic). RNA extracted with RNeasy Mini kit, quantified by NanoDrop; cDNA synthesized; qRT-PCR by TaqMan in StepOne Plus (95 °C 20 s; 40 cycles 95 °C 1 s, 60 °C 20 s). Normalized to Gapdh and beta-actin reference genes; relative expression by 2^-ΔΔCt method. Done in duplicate.
+TaqMan assays referenced: Mm00443258_m1, Mm00478374_m1, Mm00501584_m1, Mm00440330_m1, Mm00436767_m1, Mm01208363_m1.
+
+Mineralization assay: Cells cultured 28 days under mineralization conditions in α-MEM + 10 mM β-glycerophosphate, 50 µg/mL ascorbic acid, 5% FBS, penicillin/streptomycin. 2×10^4 cells/well in 96-well plates. After subconfluence, stimulated with CeraSeal 1:100, BioRoot™ RCS 1:100, AH Plus 1:100. Medium changed every 3 days. Alizarin Red S: fixed 70% ethanol 10 min; stained 2% alizarin red (pH 4.0) 5 min; quantified with 100 mM cetylpyridinium chloride 1 h; absorbance 570 nm normalized by total protein.
+
+Statistics: GraphPad Prism 8.0; one-way ANOVA + Tukey's post-test; significance 5%.
+
+== RESULTS ==
+Cell viability (MTT):
+- 24 h: BioRoot™ reduced viability at 1:10 concentration (p<0.05). CeraSeal and AH Plus were similar (p>0.05) or higher (p<0.05) than control respectively.
+- 48 h: viability similar in BioRoot™ and AH Plus groups (p>0.05), except groups stimulated with CeraSeal or DMSO (positive control; p<0.05).
+
+Inflammation/mineralization gene expression (1:100, 24 h):
+- Tnf (TNF-α): up-regulated by AH Plus (p<0.05); CeraSeal and BioRoot™ similar to control (p>0.05).
+- Ptgs2: up-regulated by CeraSeal and BioRoot™ compared to control and AH Plus (p<0.05).
+- Runx2 (early osteogenesis marker): induced by AH Plus (p<0.05); CeraSeal and BioRoot™ similar to control (p>0.05). [Abstract states Runx2 stimulated by BioRoot™ and AH Plus.]
+- Dmp1 (dentin matrix protein): stimulated by CeraSeal and BioRoot™, different from AH Plus and control (p<0.0001).
+- Msx1 and Ssp1: not modulated by any sealer (p=0.1769).
+
+Mineralization nodules (Alizarin Red S, 28 days):
+- Nodule formation similar among all sealer groups compared to control (p>0.05), except DMSO which showed reduced formation (p<0.0001).
+
+== DISCUSSION (key points) ==
+Evaluated sealers were not cytotoxic to MC3T3 cells and did not induce formation of mineralization nodules, but induced gene expression related to inflammation and mineralization. MC3T3-E1 is a well-known osteoblast lineage representing a pre-osteoblast phenotype. Cytotoxicity of endodontic sealers changes with time and depends on material concentration, explaining differences across 24/48 h and 1:10/1:100. Only BioRoot™ reduced viability at 24 h, not at 48 h. This is the first study to demonstrate AH Plus is not cytotoxic to MC3T3 osteoblast lineage cells. AH Plus induced higher Tnf-α expression than BioRoot™ RCS and CeraSeal, with possible negative inflammatory effects (high TNF-α can enhance osteoclast formation, bone resorption, and osteoblast apoptosis). CeraSeal showed greater calcium release and alkalizing activity than NeoSealer Flo (prior study). Limitation: in vitro; extrapolation to clinical practice limited.
+
+== CONCLUSION ==
+AH Plus, CeraSeal and BioRoot™ RCS sealers were not cytotoxic to MC3T3 cells, but differentially induced the expression of genes related to inflammation and mineralization without impacting the biomineralization function of these cells.
+
+(References trimmed.)
