@@ -1,0 +1,64 @@
+Emergence Angle and Emergence Profile in Implant-Supported Restorations: A Scoping Review
+Prpic V, Gojsovic S, Kosec P, Skec S, Catic A. Dentistry Journal (Basel) 2026;14(4):236.
+DOI: 10.3390/dj14040236 | PMID: 42041689 | PMCID: PMC13114707
+OSF registration DOI: 10.17605/OSF.IO/Q7VDS
+
+1. Introduction
+
+Implant abutments serve as the connecting components between the implant body and the implant-supported restorations. These components are typically made from titanium or all-ceramic materials and serve as transgingival structures that stay in constant contact with the peri-implant soft tissue. More specifically, implant abutments are positioned in a critical, bacteria-rich zone between the peri-implant bone and the oral cavity. Selection and design of an adequate implant abutment is critical for attaining efficiency, aesthetic excellence, and long-term stability in implant prosthodontic therapy. The most common types of implant abutments are prefabricated, customized, and two-piece structures made of biomaterials and designed to support cement-retained or screw-retained prosthodontic restorations. Titanium is a well-established implant abutment material with high biological compatibility and mechanical strength. Zirconia became the favored ceramic alternative for the anterior region. The hybrid implant abutment concept combines the esthetics/biocompatibility of zirconia with the mechanical performance of titanium without unfavorable impact on the implant-abutment interface.
+
+With the rapid development of CAD/CAM technologies, design and production of implant abutments has increasingly moved towards digitally driven workflows. Generative design (algorithm-driven optimization) requires definition of key parameters in advance to guide the process and determine the final shape of the hybrid implant abutment.
+
+Peri-implant mucositis is a reversible inflammatory response confined to the soft tissues; peri-implantitis is a progressive, nonreversible condition affecting soft tissue and underlying alveolar bone, leading to loss of osseointegration and potential implant failure. Compared with natural teeth, peri-implant soft tissues have a diminished ability to form effective epithelial and connective tissue seals. Prosthodontic characteristics such as emergence angle and emergence profile influence short-term performance and long-term health of surrounding hard and soft tissues.
+
+The emergence profile represents the part of the implant-abutment-restoration system extending from the alveolar bone to the free gingival margin. The subgingival contour is divided into three zones: E (esthetic) zone — subgingival area 1 mm below the free gingival margin, should resemble a natural crown; B (bounded) zone — 1-2 mm apical to the E zone, determined by soft tissue thickness and implant position; C (crestal) zone — nearest the implant platform, 1-1.5 mm. The EBC zones guide emergence profile design for optimal esthetics while maintaining stable tissues and minimizing alveolar bone loss and soft tissue recession.
+
+Emergence profile contours are classified as convex, concave, or straight. Convex profiles provide enhanced mechanical support to peri-implant soft tissues but may promote biofilm retention if not precisely tailored. Concave profiles gradually narrow from the implant platform toward the restoration, creating space that allows soft tissue expansion and improved vascularization, useful in the anterior zone, minimizing marginal bone changes. Straight profiles have a neutral linear shape, most frequently used in distal regions where esthetic demands are lower and cleanability is prioritized.
+
+The emergence angle is the angle formed between the average tangent of the transitional contour and the implant body's long axis. An excessively wide emergence angle may be linked to early marginal bone loss.
+
+Platform-switching, implant-abutment connection type (internal vs external), and esthetic-vs-posterior site differentiation were explicitly NOT included within the primary scope of this review, as these factors have already been comprehensively examined elsewhere.
+
+Purpose: review the scientific evidence on emergence angles and profiles of implant-supported restorations to determine ideal values, morphological characteristics, and impact on surrounding tissues; the main objective was to outline the preparatory processes for successful application of generative design in implant prosthodontics.
+
+2. Materials and Methods
+
+Registered in OSF (10.17605/OSF.IO/Q7VDS) and reported per PRISMA-ScR (scoping review). Studies published in the past five years focused on emergence angle and emergence profile of implant-supported restorations were considered. Risk-of-bias assessment was NOT conducted (scoping review). Five-year publication window. Inclusion: full text, English, human subjects. Exclusion: case series, editorials, interview articles. Systematic search of PubMed and Scopus up to 1 December 2025. Keywords: "emergence angle of implant restoration" and "emergence profile of implant restoration". Two reviewers (V.P., S.G.) screened titles, then abstracts, then full text; disagreements resolved by two supplementary reviewers (S.S., A.C.). Data extracted: authors, year, title, study type, sample size, outcomes.
+
+3. Results
+
+791 studies initially retrieved. 650 removed before screening (640 by automation tools, 10 duplicates). 141 records screened, 124 excluded. 17 studies in final analysis.
+
+Ten studies dealt with the emergence angle of implant-supported restoration.
+Five studies suggest maintaining an emergence angle < 30° contributes to minimizing marginal bone loss and lowering peri-implant inflammation risk:
+- Neckel et al. — cross-sectional, 462 implants: combination of emergence angle < 30° AND a concave emergence profile was associated with significant reduction in annual peri-implant bone loss.
+- Lin et al. — systematic review + meta-analysis: emergence angles below 30°, combined with concave or straight emergence profile, associated with reduced risk of peri-implantitis.
+- Misch et al. — retrospective, 192 implants: abutment height > 2 mm significantly reduces peri-implantitis/marginal bone loss associated with restoration emergence angles >=30° around bone-level implants (i.e., the biological risk of a >30° angle becomes clinically significant only when transmucosal abutment height < 2 mm).
+- Majzoub et al. — retrospective, 83 implants: restoration emergence angles > 30° significantly associated with early-stage (up to 2 years) peri-implant marginal bone loss in peri-implantitis-affected implants.
+- Yu et al. — digital comparative, 100 implants: cantilever implant-supported restorations for first molar replacements exhibit more favorable (smaller) emergence angles vs non-cantilever, with significantly lower proportion exceeding the 30° threshold.
+
+Four other studies (one prospective cohort, three retrospective) did NOT demonstrate evident correlation between emergence angle and peri-implant soft-tissue health or marginal bone loss; one comprehensive review (Izzetti) stated there is still no consensus on the relationship between emergence angle and marginal bone loss.
+- Tang et al. — emergence angle 36.7 ± 13.7° of 57 implant-supported restorations: no meaningful link to buccal vertical bone loss within this range; differences may relate to measurement on periapical radiographs without considering relationship to gingival margin.
+- Maghsoudi et al. — implant-supported fixed prostheses, baseline ~8 weeks after definitive restoration: emergence angle not linked to increased peri-implant probing depth; no difference between < 30° and >= 30°; effect may be less evident in well-maintained patients.
+- Lops et al. (two studies) — peri-implant soft tissue stability seems unaffected by emergence angle value as long as an appropriate (concave) profile is achieved for anterior restorations, even when angle exceeds 30°. When the implant-abutment interface is mechanically strong/stable, an emergence angle between 30° and 50° is unlikely to affect marginal bone preservation; same applies to angles < 30°.
+
+Seven studies focused on the emergence profile.
+Four studies state that concave emergence profile is associated with reduced marginal bone loss and increased soft tissue margin stability:
+- Neckel et al. — cross-sectional: angle < 30° + concave profile = significant reduction in annual bone loss; the profile shape becomes particularly important when emergence angle exceeds 30°, while no significant effect is seen for angles < 30°.
+- Lin et al. — SR+MA: concave or straight profiles associated with reduced marginal bone loss / lower peri-implantitis risk.
+- Siegenthaler et al. — RCT, 47 implants (anterior maxilla, 3 groups: convex, concave, control healing abutment): provisional restorations with concave emergence profile gave greater peri-implant mucosal margin stability vs convex, up to 1 year post-loading.
+- Endres et al. — RCT, 47 implants (single implant esthetic zone, 3-year outcomes): concave profile conferred superior soft tissue stability, particularly preventing mid-facial recessions; a concave profile may encourage coronal soft tissue creeping by creating extra space; recommended in the esthetic zone to preserve the mid-facial mucosal margin and lower recession risk.
+
+Remaining three studies (review — Gervyte; review — Hamilton; comprehensive review — Izzetti) emphasized the importance of carefully considering the emergence profile due to its impact on peri-implant health (implant positioning, thin soft-tissue phenotype management, prosthodontic design closely associated with long-term peri-implant tissue health).
+
+Note: Convex emergence profiles in implant-supported restorations were generally associated with larger emergence angles, whereas straight or concave profiles tended to have smaller angles.
+
+4. Discussion / Conclusions
+
+A thorough parametrization procedure (identifying and quantifying biomechanical and anatomical factors) is essential before applying generative design to hybrid implant abutments.
+
+Conclusions: A notable proportion of studies indicate that an emergence angle < 30° may be beneficial in reducing marginal bone loss, but this trend is not consistently supported across all included data; the evidence is inconclusive and needs confirmation through RCTs. Included studies suggest that a concave emergence profile is associated with soft tissue stability and reduced marginal bone loss. These findings (emergence angle below 30° and concave emergence profile) provide evidence-based guidance for designing hybrid implant abutments and a foundation for parametric models in generative design.
+
+Limitations: (1) heterogeneous studies (design, methods, outcomes) limiting generalizability; (2) possible missing data (only English, two databases); (3) absence of risk-of-bias analysis (not required for scoping review).
+
+Future directions: personalized design approaches; generative design in implant prosthodontics still under active development, with standardized technical methodologies and clinically established protocols yet to be realized.
