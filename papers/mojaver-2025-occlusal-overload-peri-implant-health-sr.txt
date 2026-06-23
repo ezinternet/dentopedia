@@ -1,0 +1,85 @@
+Under pressure: Unraveling the impact of occlusal overload on peri-implant health – A systematic review
+
+Authors: Sean Mojaver, Nupur Patel, Hector Sarmiento, Joseph P. Fiorellini
+Journal: Journal of Prosthodontics 2025;34(8):784-795
+DOI: 10.1111/jopr.14088 | PMID: 40571905 | PMCID: PMC12541295
+
+ABSTRACT
+
+Purpose: To evaluate the impact of occlusal trauma and excessive occlusal loading on dental implant health, with a focus on marginal bone loss and the incidence of peri-implantitis. The review aims to clarify how nonphysiological occlusal forces influence stress distribution around implants and contribute to clinical complications.
+
+Methods: A systematic search was conducted across PubMed, Scopus, Web of Science, and the Cochrane Library for studies published between January 2000 and October 2023. Inclusion criteria encompassed randomized controlled trials (RCTs), cohort studies, case-control studies, experimental investigations, and systematic reviews that investigated the effects of occlusal overload on peri-implant tissues. Of 160 initially identified references, 80 studies met the inclusion criteria and were analyzed for relevant outcomes.
+
+Results: Quantitative findings revealed that marginal bone loss associated with occlusal factors ranged from approximately 0.65 mm to 1.20 mm. In contrast, traumatic occlusal forces produced bone level changes of 1.0 mm to 3.0 mm and were associated with peri-implantitis rates ranging from 20% to 50%. Variations in occlusal scheme design and the presence of parafunctional habits such as bruxism were identified as significant modulators of biomechanical stress and clinical outcomes. The review also identified a synergistic relationship between mechanical overload and bacterial biofilm in accelerating peri-implant tissue breakdown.
+
+Conclusions: Excessive occlusal loading and trauma are critical contributors to marginal bone loss and peri-implantitis. These findings underscore the importance of meticulous occlusal management and individualized treatment planning, particularly in patients with parafunctional habits. Further high-quality studies are needed to establish evidence-based occlusal protocols that mitigate biomechanical risks and enhance long-term implant success.
+
+INTRODUCTION (key points)
+
+- Dental implants lack a periodontal ligament — the structure that cushions occlusal forces and provides sensory feedback to modulate bite forces. This absence renders implants inherently more vulnerable to occlusal trauma and overload.
+- Nonphysiological occlusal forces disrupt balanced stress distribution in peri-implant bone, initiating localized strain, bone resorption, and inflammatory responses.
+- Excessive occlusal loading may create stress concentrations at the bone-implant interface → marginal bone loss and even implant failure. FEA shows nonphysiological loading patterns generate uneven stress distributions.
+- Parafunctional habits (bruxism) subject implants to forces exceeding physiological limits, intensifying inflammation and accelerated bone loss; lack of mechanoreceptors prevents force modulation.
+- Optimal occlusal scheme for implant-supported restorations remains debated; canine guidance may offer better outcomes by reducing localized stress and bone loss vs. group function occlusion.
+
+METHODS
+
+- PICO: In adult patients with dental implants, does exposure to occlusal trauma or increased occlusal loading, compared to normal occlusal forces, increase the risk of developing peri-implantitis or other peri-implant pathologies?
+- PRISMA guidelines.
+- Databases: PubMed, Scopus, Web of Science, Cochrane Library. (Abstract states 2000–Oct 2023; inclusion criteria text states Jan 2010–Jan 2025 — internal inconsistency in the paper.)
+- Keywords/MeSH: "dental implants," "occlusal trauma," "occlusal loading," "peri-implantitis," "peri-implant pathology," "adult patients" with Boolean operators.
+- Inclusion: adults ≥18y with dental implants; effects of occlusal trauma/increased loading on peri-implant health; comparison of increased loading/trauma vs normal/physiologic forces; outcomes = incidence/prevalence of peri-implantitis, marginal bone loss, or other peri-implant pathologies; designs = RCTs, prospective/retrospective cohort, case-control, longitudinal, SR/MA; English.
+- Quality assessment: Cochrane RoB for RCTs, Newcastle-Ottawa Scale for cohort/case-control; ROBVIS RoB 2.0 visualizer; overall low to moderate risk of bias.
+- Data synthesis: NARRATIVE synthesis only — NO meta-analysis performed.
+- Sensitivity analysis: reanalysis excluding high-RoB studies. Egger's test for publication bias mentioned but "not included."
+
+RESULTS
+
+- 160 potential references identified → 80 studies selected for detailed analysis.
+- Overall low to moderate risk of bias.
+
+TABLE 1 — Studies on marginal bone loss related to occlusal factors (range ~0.65–1.50 mm):
+Selected entries —
+- Ahmed: clinical trial, 40 pts, occlusal adjustment, 12 mo, MBL 0.85±0.20 — occlusal overloading correlated with vertical bone height changes.
+- Radaelli et al.: longitudinal, 150 implants, occlusal interferences, 12 mo, MBL 1.00±0.30 — interferences linked to increased MBL.
+- Jafari et al.: experimental, 20 implants, MBL 1.00±0.30 — overloading linked to peri-implantitis WHEN inflammation present.
+- El-asfahani et al.: clinical, 60 pts, early loading, 5y, MBL 0.70±0.15 — early loading promotes better remodeling, fewer complications.
+- Bahaa et al.: clinical trial, 40 pts, occlusal scheme comparison, 12 mo, MBL 0.85±0.20 — canine guidance reduced crestal bone loss vs group function.
+- Lind et al.: case report, occlusal overload, MBL 1.50±0.50 — significant structural implant damage.
+- Kumari et al.: clinical trial, 30 implants, 6y, MBL 0.65±0.15 — lingualized occlusion less MBL than monoplane.
+- Dellepiane et al.: clinical, 50 implants, occlusal overload, 1y, MBL 1.20±0.40 — overload linked to significant peri-implant bone loss.
+- Rismanchian et al.: clinical, 40 implants, 1y, MBL 0.80±0.20 — NO significant difference between early and standard loading.
+- den Hartog et al.: RCT, 50 implants, immediate loading, 1y, MBL 0.75±0.20 — immediate nonocclusal loading comparable survival.
+- (Table also includes many FEA/experimental implant-stress studies, several immediate/early-loading clinical studies, and case reports of overload trauma 1.50±0.50 mm.)
+
+TABLE 2 — Impact of traumatic occlusal forces on bone level change and peri-implantitis (%):
+- Naert et al.: systematic review, 50 studies, BLC 1.5–3.0 mm, peri-implantitis 30% — marked bone loss in INFLAMED sites with occlusal overload.
+- Radaelli et al.: longitudinal, 100 pts, BLC 1.2 mm, 25% — bone loss with inadequate anterior guidance and lateral contacts.
+- Lai et al.: retrospective, 80 implants, BLC 1.0–2.5 mm, 20% — forces concentrated at implant neck → MBL.
+- Mattheos et al.: experimental, 15 dogs, BLC 1.8 mm, 33% — excessive loading caused LOSS OF OSSEOINTEGRATION WITHOUT marginal bone loss.
+- Xu et al.: experimental, 20 rats, BLC 1.0 mm, 50% — occlusal trauma exacerbated bone loss in periodontal disease.
+- Bahaa et al.: experimental, 30 pts, BLC 1.7 mm, 38% — group function occlusion more bone loss than canine guidance.
+- Garaicoa-Pazmiño et al.: systematic review, 40 studies, BLC 1.5 mm, 32% — occlusal overload identified as risk factor for peri-implant tissue breakdown.
+- Koller et al.: comparative, 50 pts, BLC 1.3 mm, 25% — greater MBL for cemented vs screw-retained.
+- Delgado-Ruiz et al.: review, BLC 1.3 mm, 28% — occlusal forces → adaptive remodeling OR loss depending on magnitude.
+- Range across Table 2: bone level change 1.0–3.0 mm; peri-implantitis incidence 20%–50%.
+
+DISCUSSION (key points)
+
+- Consolidates evidence that occlusal trauma/excessive loading significantly compromise peri-implant health via measurable MBL (0.65–3.0 mm) and increased peri-implantitis incidence (20%–50%).
+- Interplay between mechanical overload and biological factors (biofilm-induced inflammation) is a critical driver of peri-implant tissue breakdown — dual-pathway model.
+- Parafunctional habits (bruxism) amplify biomechanical stress; optimized occlusal schemes (canine guidance) mitigate bone loss vs group function.
+- Absence of PDL-mediated force modulation in implants underlies overload-bone loss correlation.
+- Conflicting evidence: Rismanchian et al. found no significant difference in bone loss between early and standard loading — timing of loading may interact with occlusal design.
+- Mattheos (dogs): excessive loading caused loss of osseointegration WITHOUT marginal bone loss — overload effect may manifest differently depending on inflammation status.
+
+LIMITATIONS
+
+1. Heterogeneity in study designs (clinical trials vs FEA) and inconsistent definitions of "occlusal overload" complicate direct comparisons.
+2. Most clinical studies had short follow-up (≤3 years), limiting long-term insight.
+3. Reliance on surrogate measures (radiographic bone loss) rather than direct biomechanical assessment may introduce bias.
+4. Publication bias toward positive associations could overstate effect sizes.
+
+CONCLUSION
+
+Occlusal trauma and excessive loading significantly elevate risks of marginal bone loss (0.65–3.0 mm) and peri-implantitis (20%–50%) by disrupting biomechanical equilibrium and synergizing with inflammatory processes. Underscores meticulous occlusal management — preoperative assessment, tailored adjustments, optimized occlusal schemes. Future research: biomechanical-biological interplay and standardized protocols.
