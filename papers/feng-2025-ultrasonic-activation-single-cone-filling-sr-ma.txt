@@ -1,0 +1,23 @@
+Effect of ultrasonic activation of endodontic sealers on root canal filling quality during the single-cone obturation procedure: a systematic review and meta-analysis of laboratory-based studies
+Feng S, Zhou W, Chu X, Xu S, Zeng X.
+Odontology 2025;113(4):1380-1403.
+PMID: 40193004  DOI: 10.1007/s10266-025-01075-8
+Source: PubMed abstract (full text not retrieved — abstract-only).
+
+ABSTRACT
+This review aimed to investigate the potential of ultrasonic activation of sealers in improving the filling quality of single-cone obturation. A systematic search was conducted across 6 electronic databases. Data extraction and quality assessment were performed. Twenty studies were included, with 11 meeting the criteria for meta-analysis.
+Meta-analyses revealed lower porosity with ultrasonic activation (UA) compared to non-ultrasonic activation (NA):
+- micro-CT: MD = -1.21 (95% CI -1.69 to -0.74), I2 = 28%
+- stereomicroscopy coronal: MD = -0.05 (95% CI -0.82 to -0.18), I2 = 0%
+- stereomicroscopy middle: MD = -0.44 (95% CI -1.56 to 0.68), I2 = 89%
+- stereomicroscopy apical: MD = -0.50 (95% CI -0.78 to -0.21), I2 = 0%
+Confocal laser scanning microscopy showed significantly higher sealer penetration (%) with UA at:
+- apical third: SMD = 2.28 (95% CI 1.17 to 3.40), I2 = 71%
+- middle third: SMD = 2.69 (95% CI 1.16 to 4.22), I2 = 87%
+However, studies examining other penetration indicators and push-out bond strength yielded inconsistent results.
+Conclusion: Ultrasonic activation of sealers positively influences filling quality during single-cone obturation, evidenced by decreased porosity. Further research is required to explain variations in sealer penetration and bond strength. Ultrasound-activated root canal sealers have demonstrated significant potential to achieve complete obturation in single-cone obturation.
+
+KEYWORDS: calcium silicate-based sealers, resin-based sealers, single-cone technique; filling quality; obturation; root canal therapy; ultrasonic.
+MeSH: Root Canal Filling Materials; Root Canal Obturation; Humans; Ultrasonics; Ultrasonic Waves.
+Article types: Journal Article; Systematic Review; Meta-Analysis.
+NOTE: abstract-only — full text not retrieved.
