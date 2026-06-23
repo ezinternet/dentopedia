@@ -1,0 +1,91 @@
+Title: Evaluating the Impact of Occlusal Adjustment on Post-Orthodontic Outcomes: Insights from T-Scan III Analysis
+Authors: Arezoo Jahanbin, Maryam Omidkhoda, Farnaz Zia, Azam Sadat Madani, Ali Koohrokhi, Zahra Hosseini
+Journal: Journal of Dentistry (Shiraz, Iran) 2026;27(2):125-131
+DOI: 10.30476/dentjods.2025.105593.2604
+PMID: 42253836  PMCID: PMC13242045
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13242045/)
+
+=== ABSTRACT ===
+
+Background: Occlusal changing, spacing, and tooth movement are common problems caused by premature contact after orthodontic treatment. Occlusal adjustment has been suggested to help stabilize orthodontic treatment. T-Scan III system is a rapid and accurate diagnostic tool for digital occlusal analysis in different fields of dentistry, particularly in orthodontics.
+
+Purpose: This study aimed to evaluate the impact of occlusal adjustment on post-orthodontic occlusal parameters using the T-Scan III system, focusing on force distribution and occlusal contact dynamics.
+
+Materials and Method: This interventional randomized controlled trial included 30 patients (17 females and 13 males) aged 17-28 years with Class I malocclusion and severe crowding. The patients were divided into intervention and control groups. All patients underwent fixed orthodontic treatment with the extraction of the first four premolars. The intervention group received occlusal adjustments one month after debonding, while the control group received no intervention. Occlusal relationships were recorded at debonding (T0), one month (T1), and six months (T2) post-debonding using the T-Scan III system. The analyzed key parameters included the occlusal contact intensity, number, and distribution. Independent and paired t-tests, the Mann-Whitney test, the Chi-square test, and the Wilcoxon statistic were used. The significance level for statistical tests was set at P < 0.05.
+
+Results: No statistically significant differences were observed between the groups in occlusal force intensity or number of contacts at T1 and T2. However, these trends suggest an improved posterior force distribution in the intervention group, highlighting the clinical benefits of the occlusal adjustment.
+
+Conclusion: Although not statistically significant, the results suggest that occlusal adjustments supported by T-Scan III analysis may enhance occlusal stability and force distribution after orthodontic treatment. Future studies with larger cohorts and longer follow-up periods are recommended to validate these findings.
+
+=== INTRODUCTION (key points) ===
+
+Occlusion refers to static contact between the upper and lower teeth, influenced by dynamic factors; TMJ and muscles control mandibular motion. Occlusal adjustment is often a trial-and-error approach. Techniques: removal of premature contacts in centric relation (CR), eliminating interferences to align maximum intercuspation position (MIP) with CR, removing premature contacts on non-working side.
+
+Orthodontic treatment aims to restore normal occlusion. Many quantitative occlusal indicators have been used (alginate, silicone putty, polyether, articulating paper, silk strips, Shimstock films, occlusal sprays, occlusal ultrasonography). Digital technologies such as T-Scan III increasingly favored because traditional methods fail to capture peak bite force precisely.
+
+T-Scan III: sensor detects relative intensity and timing of occlusal contacts; provides detailed info on pressure distribution. Lin's concordance correlation coefficient (CCC) and ICC show great reliability for successive readings. Evaluates force distribution in anterior, premolar, molar areas; compares left/right sides. Detects peak contacts, tooth-type contacts, mandibular deviations, occlusion timing, contact discrepancies between working/non-working sides.
+
+Even minor post-treatment occlusal change can cause functional problems if unaddressed. Conventional orthodontic indices mainly assess alignment and overlook timing/force of occlusal contact. Slight premature contact or uneven force -> functional imbalance, TMJ strain, chewing issues. Studies using T-Scan III show clinically acceptable occlusions can still be functionally unstable; digitally guided finishing improves long-term balance.
+
+=== MATERIALS AND METHOD ===
+
+Interventional clinical trial (interventional RCT). Approved by Ethics Committee Mashhad University of Medical Sciences (IR.MUMS.DENTISTRY.REC.1401.143); registered Iranian Registry of Clinical Trials IRCT20230310057665N1. CONSORT guidelines followed. Written informed consent.
+
+Sample size: pilot study with 5 patients per group; greatest pre/post score difference observed in intermolar distance (IMD): 1.95+-1.80 (intervention) vs -1+-2.5 (control). 95% confidence, 80% power -> 10 per group; increased to 15 per group = 30 total. Authors note small pilot sample may limit variance estimation accuracy and power to detect subtle differences.
+
+Inclusion: both sexes, 17-28 years, Class I dental malocclusion, crowding >8 mm, needing fixed orthodontic treatment with extraction of four first premolars in both arches, treated with MBT 0.022 prescription. Referred to Orthodontics Department of Mashhad Dental School.
+Exclusion: systemic diseases, poor oral hygiene, gingivitis, periodontitis, deep caries to CEJ, medications affecting bone metabolism (e.g. antiresorptives), parafunctional habits, history of TMJ disorders.
+
+Two groups: control and intervention (n=15 each). At end of orthodontic treatment: bands/brackets removed, composite/cement removed, scaling. Occlusal relationships recorded with T-Scan III (Tekscan Inc., South Boston, MA, USA) at three intervals: immediately after debonding (T0), one month (T1), six months (T2) post-debonding, in centric relation.
+
+Both groups received upper and lower Essix retainer within max one week; 1.5 mm transparent PETG thermoplastic (Crystal Plate, Bio Art Dental). First 4 months worn all day except eating/brushing, then night only. No fixed retainers (to avoid interference in occlusal contact analysis). At one-month follow-up: occlusal adjustment performed in intervention group only. Both groups evaluated at 1 and 6 months. At T0 all patients exhibited acceptable static intercuspation; specific occlusal patterns (canine guidance/group function) not clinically classified but T-Scan III confirmed comparable anterior/posterior contact distributions between groups -> similar baseline.
+
+Occlusal adjustment: performed by orthodontics post-graduate student under specialist supervision. Muscles deprogrammed with cotton rolls; centric relation achieved using Dawson approach (bimanual manipulation, four fingers along inferior border of mandible, pinky supporting mandibular angle, thumbs over symphysis in "C" shape; hinge open/close until CR seated without resistance). Occlusal contacts identified using 8-micron articulation paper (Arti-Fol, Germany) to mark premature contacts. Heavy contacts = thick continuous markings on articulating film AND confirmed by T-Scan III showing contact force >20% of total occlusal load. Average enamel reduction per adjustment 50-100 microns. Heavy contacts removed with egg-shaped 833F (Jota, Switzerland) and high-speed handpiece. Correction continued until all centric cusp tips contact opposite fossa with mandible unchanged. Second stage: eccentric interference corrected in lateral/forward movements; all working- and balancing-side interference removed to achieve canine guidance. Fluoride therapy to prevent sensitivity.
+
+Occlusal scanning: sensor positioned identically across sessions. Patients seated with Frankfort plane parallel to ground; mandible guided to CR via physiological swallowing technique. Sensor: 85-micron polyester, 2,500 pressure-sensitive cells. Anterior part on midsagittal line. Patient closed three times in a row; 3-minute break between bites to prevent muscle fatigue; mean used. Single trained operator (no inter-examiner variability). Software captured location, number, strength of occlusal contacts in 2D/3D; distributed occlusal force across arch; time between first contact and MIP; jaw pathway during closure. Green = biting force left side, red = right.
+
+Data analysis: SPSS v25. Independent and paired t-tests, Mann-Whitney, Chi-square, Wilcoxon. P < 0.05.
+
+=== RESULTS ===
+
+30 patients: 17 women (56.7%), 13 men (43.3%). Average age 20.20+-3.20 years (range 17-28).
+Intervention: mean age 20.57+-3.45; control 19.83+-3.00 (P=0.624, NS).
+Intervention 8 women (53.3%)/7 men; control 9 women (60%)/6 men. No significant group differences (P=0.713).
+
+Shapiro-Wilk: all data normally distributed. Occlusal contact intensity and number each measured three times in anterior and posterior regions on both sides; categorized by tooth type (molar, premolar, central, lateral, canine).
+
+Table 1 - Changes in INTENSITY of occlusal contact (Group 2=Intervention, Group 1=Control; n=15 each):
+- T1-T0 anterior: Interv -1.43+-5.43; Control 0.60+-5.78; T-test, P=0.329 (NS)
+- T1-T0 posterior: Interv 1.10+-6.10; Control -0.60+-5.78; P=0.440 (NS)
+- T2-T0 anterior: Interv -2.17+-6.34; Control 0.23+-4.15; P=0.230 (NS)
+- T2-T0 posterior: Interv 2.17+-6.34; Control -0.23+-4.15; P=0.230 (NS)
+- T2-T1 anterior: Interv -0.73+-4.42; Control -0.37+-4.08; P=0.815 (NS)
+- T2-T1 posterior: Interv 1.07+-4.51; Control 0.37+-4.08; P=0.659 (NS)
+
+Table 2 - Changes in NUMBER of occlusal contacts:
+- T1-T0 anterior: Interv -0.600+-1.638; Control 0.133+-1.125; P=0.164 (NS)
+- T1-T0 posterior: Interv 1.33+-1.345; Control 0.466+-2.474; P=0.243 (NS)
+- T2-T0 anterior: Interv -0.266+-1.667; Control -0.133+-1.245; P=0.806 (NS)
+- T2-T0 posterior: Interv 0.733+-1.980; Control 0.466+-1.959; Mann-Whitney Z=-0.127, P=0.902 (NS)
+- T2-T1 anterior: Interv 0.333+-1.632; Control -0.266+-0.883; Z=-1.226, P=0.250 (NS)
+- T2-T1 posterior: Interv 0.483+-1.956; Control 0.000+-1.690; Z=-1.097, P=0.285 (NS)
+
+T0 = immediately after treatment (debonding), T1 = one-month, T2 = six-month follow-up.
+
+NO statistically significant differences between intervention and control groups in occlusal force intensity or number of contacts at any interval. Trend toward improved posterior force distribution in intervention group.
+
+=== DISCUSSION (key points) ===
+
+T-Scan III provides precise quantitative data on occlusal forces and distribution. Aligning CR with MIP enhances comfort and treatment success; balanced occlusal contact reduces periodontal strain and long-term relapse. T-Scan III offers dynamic recordings (force distribution, timing, symmetry in real time) superior to static articulating paper. T-Scan III sensors primarily measure RELATIVE occlusal forces but show high intra-session reliability under standardized conditions; for evaluating temporal changes in force distribution (not absolute force), relative force output sufficient.
+
+Results showed no statistically significant differences in force distribution or contact number changes between groups. Similar non-significant findings: Bonadio et al. (no difference in occlusal stability/relapse between occlusal-adjustment and no-adjustment patients despite long-term follow-up; 77 Class I non-extraction patients, Little's irregularity index and PAR index no difference). Fathalla et al. (no significant change in bite force distribution before/after orthodontic treatment with premolar extractions, despite improved posterior force balance). Trend of improved posterior balance in intervention group underscores clinical benefits.
+
+Koval et al. case report: 29-year-old woman, occlusal overload on right molars (30% of total pressure); occlusal adjustment with foils shortened primary closing cycle and resolved overload -> occlusal adjustments at end of orthodontic therapy minimize overload, achieve bilateral balance. In present study, occlusal adjustment managed severe contacts; immediately after adjustment posterior contacts became more severe, but at six months due to continuing tooth settling situations differed.
+
+Mahmoud Helal et al. (T-Scan III): orthodontic group (non-extraction) had heavier contacts in central occlusion vs untreated; premature contacts on premolars (balancing side) in orthodontic group, on molars in control; orthodontic group exhibited more premature contacts on centric occlusion and balancing sides.
+
+Limitations: small sample (pilot-based), short 6-month follow-up may limit statistical significance, specific orthodontic subgroup limits generalization. Future: larger/diverse cohorts, extended follow-up (12 months+), patient-reported outcomes.
+
+=== CONCLUSION ===
+
+Occlusal adjustment did not demonstrate a statistically significant improvement in occlusal stability within the six-month follow-up. Trends suggest occlusal adjustments supported by digital technologies (T-Scan III) help refine occlusal contact relationships and enhance post-orthodontic stability. Larger studies with extended follow-ups recommended.
