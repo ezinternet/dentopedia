@@ -1,0 +1,78 @@
+Impact of Occlusal Schemes on Implant-Supported Overdentures
+Kuriakose R, Nair A, Bamigdad MS, Pai DR, Rahman NA, Paul L.
+J Pharm Bioallied Sci. 2024 Sep 5;16(Suppl 4):S3257-S3259.
+PMID: 39926779 | PMCID: PMC11805083 | DOI: 10.4103/jpbs.jpbs_795_24
+
+ABSTRACT
+
+Background:
+The occlusal scheme is a crucial factor in the success and patient satisfaction of implant-supported overdentures. Different occlusal schemes, such as balanced, lingualized, and monoplane occlusion, can influence the functional and biomechanical outcomes.
+
+Materials and Methods:
+A randomized controlled trial was conducted with 60 edentulous patients who received mandibular implant-supported overdentures. The patients were divided into three groups based on the occlusal scheme: Group A (balanced occlusion), Group B (lingualized occlusion), and Group C (monoplane occlusion), with 20 patients in each group. All patients received two implants in the mandibular canine regions. The overdentures were fabricated and adjusted according to the assigned occlusal scheme. Clinical assessments, including bite force measurement and masticatory efficiency, were performed at baseline, 3 months, and 6 months post-insertion. Patient satisfaction was evaluated using a validated questionnaire.
+
+Results:
+At 6 months, Group A (balanced occlusion) exhibited the highest mean bite force (200 N ± 20), followed by Group B (lingualized occlusion) with 180 N ± 15, and Group C (monoplane occlusion) with 160 N ± 10. Masticatory efficiency was significantly higher in Group A (80% ± 5) compared to Group B (75% ± 4) and Group C (70% ± 3). Patient satisfaction scores were highest in Group A (9.0 ± 0.5), followed by Group B (8.5 ± 0.4) and Group C (8.0 ± 0.3). There were statistically significant differences between the groups in terms of bite force, masticatory efficiency, and patient satisfaction (< 0.05).
+
+Conclusion:
+Balanced occlusion provided superior functional outcomes and higher patient satisfaction for implant-supported overdentures compared to lingualized and monoplane occlusion schemes.
+
+---
+
+INTRODUCTION
+
+The rehabilitation of edentulous patients with implant-supported overdentures has become a widely accepted treatment modality due to its enhanced stability and retention compared to conventional dentures. One of the critical factors influencing the success of implant-supported overdentures is the occlusal scheme, which can significantly affect the functional and biomechanical outcomes of the prosthesis. The choice of occlusal scheme plays a vital role in distributing occlusal forces, which in turn impacts the performance and longevity of the overdentures as well as patient satisfaction.
+
+Balanced occlusion, lingualized occlusion, and monoplane occlusion are commonly used occlusal schemes in prosthodontics. Balanced occlusion aims to achieve simultaneous bilateral contact during centric and eccentric movements, thereby distributing forces evenly. Lingualized occlusion, on the other hand, focuses on achieving a harmonious relationship between the maxillary palatal cusps and the mandibular fossae, providing a balance between stability and functional efficiency. Monoplane occlusion utilizes flat occlusal surfaces to minimize lateral forces and simplify denture adjustments.
+
+Previous studies have shown varying results regarding the effectiveness of these occlusal schemes. Some research suggests that balanced occlusion provides better masticatory performance and patient satisfaction compared to monoplane and lingualized occlusion.
+
+MATERIALS AND METHODS
+
+A total of 60 edentulous patients were recruited for the study.
+Inclusion criteria: Completely edentulous mandible; good general health with no contraindications for implant surgery; adequate bone volume in the mandibular canine regions to accommodate implants; willingness to participate and comply with study protocols.
+Exclusion criteria: History of systemic conditions that could affect bone healing (e.g., uncontrolled diabetes, osteoporosis); previous implant treatment in the mandible; significant maxillofacial deformities; psychological or neurological disorders affecting the ability to follow instructions.
+
+Participants were randomly assigned to one of three groups (20 patients each) based on the occlusal scheme:
+Group A: Balanced occlusion.
+Group B: Lingualized occlusion.
+Group C: Monoplane occlusion.
+
+All patients received two implants in the mandibular canine regions. Clinical assessments were performed at baseline (pre-insertion), 3 months, and 6 months post-insertion.
+
+Parameters evaluated:
+- Bite force: Measured using a bite force transducer (Occlusal Force Meter GM10, Nagano Keiki, Japan) at the first molar region bilaterally. The average of three measurements was recorded.
+- Masticatory efficiency: Assessed using a colorimetric method with a standardized test food (two-color chewing gum) to determine the degree of color mixing after a specified number of chewing strokes.
+- Patient satisfaction: Evaluated at 6 months post-insertion using a validated questionnaire (OHIP-EDENT) consisting of 19 items covering aspects such as comfort, stability, ease of cleaning, and overall satisfaction. Responses recorded on a Likert scale from 1 (very dissatisfied) to 10 (very satisfied).
+
+Statistical analysis: Data analyzed using SPSS software (version 25.0, IBM Corp., USA).
+
+RESULTS
+
+Bite force measurement (Table 1) — Mean Bite Force (N) at Baseline, 3 Months, 6 Months:
+Baseline:  Group A 100±15 | Group B 95±10 | Group C 90±12
+3 Months:  Group A 150±18 | Group B 140±13 | Group C 130±15
+6 Months:  Group A 200±20 | Group B 180±15 | Group C 160±10
+Increase in bite force from baseline to 6 months statistically significant for all groups (p < 0.05).
+
+Masticatory efficiency (Table 2) — Masticatory Efficiency (%) at Baseline, 3 Months, 6 Months:
+Baseline:  Group A 50±7 | Group B 48±6 | Group C 45±5
+3 Months:  Group A 65±6 | Group B 62±5 | Group C 58±4
+6 Months:  Group A 80±5 | Group B 75±4 | Group C 70±3
+Significant improvements in all groups; between-group differences significant (p < 0.05).
+
+Patient satisfaction (Table 3) — Patient Satisfaction Scores at 6 Months:
+Group A (Balanced) 9.0±0.5 | Group B (Lingualized) 8.5±0.4 | Group C (Monoplane) 8.0±0.3
+Between-group differences statistically significant (p < 0.05).
+
+DISCUSSION
+
+The superior bite force in the balanced occlusion group aligns with previous studies highlighting the advantages of balanced occlusion in evenly distributing occlusal forces and enhancing masticatory performance. Simultaneous bilateral contact in balanced occlusion may contribute to more effective force distribution, reducing the load on individual implants and improving overall bite strength. Masticatory efficiency was highest in balanced occlusion (80%) vs lingualized (75%) and monoplane (70%), consistent with Rizzatti-Barbosa CM. Patient satisfaction highest in balanced (9.0) vs lingualized (8.5) and monoplane (8.0), in line with Kapur and van Kampen FMC.
+
+CONCLUSION
+
+This study highlights the superiority of balanced occlusion in enhancing bite force, masticatory efficiency, and patient satisfaction in implant-supported overdentures. The findings suggest that balanced occlusion should be the preferred occlusal scheme for clinicians aiming to improve the functional and subjective outcomes of implant-supported overdentures.
+
+Conflicts of interest: None.
+
+Source: According to PubMed. DOI: 10.4103/jpbs.jpbs_795_24
