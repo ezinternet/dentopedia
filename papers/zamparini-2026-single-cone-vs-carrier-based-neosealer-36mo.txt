@@ -1,0 +1,24 @@
+Single cone versus carrier-based obturation using a premixed bioceramic sealer in postgraduate master cohort: a 36 months retrospective evaluation
+Zamparini F, Spinelli A, Tosco V, Gandolfi MG, Prati C.
+Clinical Oral Investigations 2026;30(6).
+PMID: 42113044  PMCID: PMC13161296  DOI: 10.1007/s00784-026-06900-0
+Source: PubMed Central full text.
+
+ABSTRACT
+Aim: Evaluate 36-month clinical outcome and occurrence of sealer apical extrusion of teeth obturated with a premixed CaSi-based sealer with single-cone or carrier-based technique.
+Methodology: Retrospective cohort. Consecutive healthy patients treated by a postgraduate master cohort. Teeth shaped with NiTi rotary (primary) or reciprocating (retreatment), irrigated 5% NaOCl + 10% EDTA, final irrigation sterile water. Obturated with premixed bioceramic sealer NeoSealer Flo (Avalon Biomed) using either warm carrier-based (Thermafil, Dentsply) or cold single-cone. Recall at 3, 6, 24, 36 months. Preoperative PAI and signs/symptoms, PAI at follow-up. 'Healthy' = PAI <=2, no signs/symptoms; 'endodontic lesion' = PAI >=3, signs/symptoms, retreated. Two calibrated blinded examiners (weighted kappa 0.90). Chi-square for outcome. Apical extrusion measured digitally (BlueSkyPlan cephalometric tool).
+Results: 53 root canal treatments in 48 subjects (mean age 45.4+/-12.1 y). 29 single-cone, 24 carrier-based. 36-month healing 88% (carrier-based) and 93% (single-cone), no significant difference (P>0.05). Apical extrusion 18/24 (75%) carrier-based vs 14/29 (48.2%) single-cone. Mean extrusion size 1.49 mm. Significantly higher extrusion (mm) in PAI>=3 teeth and carrier-based group. Radiographic modification of extruded sealer in 5/32 extruded cases (15.6%).
+Conclusion: High rate of survived and healed teeth with both obturation techniques. Apical extrusion can be frequent with carrier-based technique or in presence of large diameters and periapical radiolucencies.
+
+KEY FULL-TEXT DETAILS
+- NeoSealer Flo composition: tricalcium silicate (<25%), dicalcium silicate (<10%), calcium aluminate (<25%), grossite (<6%), tricalcium aluminate (<5%), tantalite (radiopacifier), trace calcium sulfate (<1%). Manufacturer indicates warm AND cold single-cone; no prior studies on carrier-based use.
+- STROBE-guided observational study; patients treated 2020-2022; 9 postgraduate master operators, each trained on ONE technique (carrier-based or single-cone), technique by operator preference, supervised by tutors. Ethics OUTENDO 2020 (461/2020/OSS/AUSLBO).
+- Sealer applied with K-file to working length -3 mm; carrier-based excess removed with heated instrument; provisional Coltosol; ~2 weeks later restored with Clearfil SE Bond + G-aenial flowable composite.
+- Healing: single-cone 27/29 (93%; 95% CI 78.0-98.1%); carrier-based 21/24 (87.5%; 95% CI 69.0-95.7%). Absolute difference 5.6% (95% CI -10.5% to 21.7%); not significant.
+- Extrusion: more frequent/larger in carrier-based; significantly higher extrusion (mm) with carrier-based technique AND preoperative PAI>3. Larger apical diameters (45-60) trended higher but not significant vs 25-40.
+- Radiographic modification of extruded sealer over time: 5/53 cases (9.4%) [text]; abstract reports 5/32 extruded (15.6%) — 3 single-cone, 2 carrier-based; majority remained radiographically stable.
+- Discussion benchmarks (premixed CaSi sealers): 88.6% at 24 mo carrier-based + Ceraseal; 85.4% at 3 y single-cone + Ceraseal (Spinelli); 90.9% at 3 y single-cone + EndoSequence; 89.6% at 4 y single-cone + BioRoot RCS. This study extends evidence to 36-mo carrier-based vs single-cone with NeoSealer Flo.
+- Thermal concern addressed: in-canal temperature rise with Thermafil negligible (<1 C); 37-77 C insufficient to alter flow/setting of CaSi sealer; no detrimental clinical effect of warm technique observed.
+- Bioactivity rationale: alkalizing activity, Ca-ion release, apatite nucleation, antimicrobial (E. faecalis susceptible to freshly mixed CaSi via calcium hydroxide formation) may compensate for reduced gutta-percha compaction in cold technique and explain limited inflammatory response to extruded sealer.
+- Null hypotheses: H1 (no outcome difference) NOT rejected; H2 (technique does not influence extrusion) PARTIALLY rejected — technique affected extrusion frequency/extent but not radiographic modification.
+- Limitations: retrospective, heterogeneous selection, small sample, few unfavorable events (no multivariable analysis). Calls for prospective/RCT confirmation.
