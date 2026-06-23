@@ -1,0 +1,111 @@
+Resorbable scaffolds for alveolar ridge augmentation procedures: A systematic review
+
+Authors: Marcus Seiler, Alessandro Cucchi, Markus Tröltzsch, Matthias Tröltzsch, P. W. Kämmerer, Bilal Al-Nawas, Amely Hartmann
+Journal: International Journal of Implant Dentistry 2026;12(1)
+DOI: 10.1186/s40729-026-00679-1
+PMID: 42223759 | PMCID: PMC13226745
+Publication date: 2026-06-01
+
+According to PubMed. DOI: https://doi.org/10.1186/s40729-026-00679-1
+
+=== ABSTRACT ===
+
+Purpose
+To systematically review the efficacy and safety of resorbable scaffolds for bone augmentation of alveolar bone defects.
+
+Methods
+A specific PICO question was formulated: In partially or fully edentulous patients requiring alveolar ridge augmentation (P), how do resorbable scaffolds (I), compared with non-resorbable devices (e.g., titanium meshes) or conventional bone augmentation techniques (C), perform in terms of clinical outcomes including bone gain, implant loss and success, and complication rates (O)? A PubMed/MEDLINE electronic search was conducted to identify clinical studies published until December 2025. No restrictions on publication date were imposed, and only studies published in the English language were considered. Selected studies were all studies on humans using resorbable devices for alveolar ridge augmentation; in vivo and in vitro studies were excluded. Study characteristics, operative techniques, materials, and clinical outcomes including complications, bone augmentation techniques, implant stability, survival and success rates were extracted and analyzed. Resorbable materials evaluated included polylactide (PLA), polycaprolactone (PCL), Polylactic Acid-Polyglycolic Acid (PLGA), and beta-tricalcium phosphate (β-TCP).
+
+Results
+A total of 3704 articles were found, but only 7 studies met the pre-established inclusion criteria and were considered suitable for analysis. These studies included 39 patients and 45 edentulous ridges. Implant loss was only reported in one study. Complications occurred in three studies, with graft loss in 5 cases. Primary implant stability values averaged 35Ncm. Degradation time is an important determinant, but remains insufficiently studied/evaluated in the included evidence base.
+
+Conclusions
+Resorbable scaffolds seem to represent viable alternatives to conventional bone grafting approaches. Customized scaffolds may offer additional esthetic advantages. However, larger randomized controlled trials with longer follow-up periods and standardized outcome measures—including CBCT-based volumetric and linear bone gain, clearly defined complication categories, and implant-related outcomes such as stability, survival, and success—are required to enable robust evidence-based clinical recommendations.
+
+Keywords: Alveolar ridge augmentation; Bone augmentation; Guided bone regeneration; Meshes; Resorbable scaffold
+
+=== FULL TEXT ===
+
+Background
+
+Successful dental implant osseointegration depends on an adequate and stable bone volume to ensure long-term survival. However, insufficient alveolar bone—stemming from trauma, post-extraction atrophy, or periodontal disease—remains a frequent clinical challenge and often necessitates bone augmentation for optimal implant positioning. Guided Bone Regeneration (GBR) has emerged as one of the most established and well-validated augmentation techniques in contemporary practice.
+
+A recent systematic review on peri-implant bone loss following vertical bone augmentation identified guided bone regeneration (GBR) as the most extensively investigated technique and reported favorable outcomes across different follow-up periods, with mean peri-implant bone loss of 0.76 mm in the short term, 1.12 mm in the medium term, and 1.11 mm in the long term.
+
+Central to GBR protocols is the use of barrier membranes, which function as physical barriers to prevent soft tissue infiltration into the augmented site and thereby facilitate bone regeneration. In cases of severe, three-dimensional alveolar bone deficiencies, non-resorbable membranes—such as expanded polytetrafluoroethylene (ePTFE) and dense polytetrafluoroethylene (dPTFE) or customized titanium meshes—have demonstrated superior structural stability and predictable outcomes for successful bone regeneration due to their space-making effect.
+
+Despite their high performance in regenerating adequate bone volume, non-resorbable barriers present clinical limitations. Most notably, they require a second surgical intervention for removal with increase of operating time and costs. This additional procedure increases patient morbidity and surgical burden, particularly when unintended osseointegration of the mesh occurs at the crestal margins of the augmented area. Furthermore, soft tissue management around non-resorbable materials can be technically challenging, and exposure or infection during healing represents a well-documented complication.
+
+Resorbable meshes offer a compelling alternative by obviating the need for a second surgical procedure and potentially a lower risk of infection. These materials may provide adequate space maintenance, stabilize graft material, and undergo gradual physiologic degradation. A potential challenge relates to the precise control of degradation kinetics, which is hypothesized to align with the timeline of bone healing. Various biocompatible materials have been explored in the literature to address these concerns and optimize clinical outcomes.
+
+This systematic review aimed to evaluate the current evidence regarding resorbable scaffolds used for alveolar ridge augmentation in implant dentistry. The primary objective was to describe the efficacy and safety of resorbable devices, while the secondary objective was to identify material characteristics and long-term outcomes.
+
+Material and methods
+
+Protocol and registration: PROSPERO (CRD420250650843), conducted according to PRISMA-P 2020.
+
+Focus question (PICO): In partially or fully edentulous patients requiring alveolar ridge augmentation (P), how do resorbable scaffolds (I), compared with non-resorbable devices (e.g., titanium meshes) or conventional bone augmentation techniques (C), perform in terms of clinical outcomes including bone gain, implant survival and success, and complication rates (O)?
+
+(P) Population: totally or partially edentulous patients with alveolar ridge deficiencies in need of bone regeneration to place implants. Systemically healthy. Smokers and non-smokers included.
+(I) Interventions: vertical and/or horizontal alveolar ridge augmentation using resorbable scaffolds/barriers/devices. "Resorbable scaffolds" defined as biodegradable, three-dimensional biomaterial constructs intended to support GBR by providing temporary structural support and facilitating tissue ingrowth, gradually degraded and replaced by newly formed bone. Osteoconductive scaffold matrices (block-type scaffolds) as customized bone grafts were excluded.
+(C) Comparison: alternative surgical procedures with non-resorbable devices.
+(O) Outcomes: primary outcome = vertical/horizontal bone gain; secondary = complication rates (early resorption, exposure, infection, graft loss), opportunity to place implants in grafted site, survival/success rates.
+
+Search strategy: PubMed/MEDLINE, Cochrane Library, Web of Science. Supplementary grey literature via Google Scholar. Search performed 06 Mar 2025, updated 22 Nov 2025. First 200 results per query screened. English only, no date restrictions. All kinds of clinical human studies (RCTs, prospective, cohort, case-control, cross-sectional, case-series, case reports). Preclinical in vitro and in vivo animal studies excluded; non-original research excluded; studies exclusively evaluating non-resorbable scaffolds excluded. EndNote X9 for management.
+
+Study selection and data extraction: Two reviewers (M.S., A.H.) screened title/abstract; disagreements resolved by consensus; third author (P.W.K.) resolved unclarity. Full-text evaluated independently.
+
+Risk of bias: RCTs evaluated with revised Cochrane Risk of Bias tool (Higgins & Altman). Non-randomized comparative studies assessed with Newcastle–Ottawa Scale (NOS). Case series and case reports assessed with Joanna Briggs Institute (JBI) critical appraisal tools.
+
+Results
+
+Study selection: Search identified 3704 records across three databases. After removal of 999 duplicates, 2705 records screened on title/abstract, 2515 excluded. 190 records assessed in detail, 39 full-text articles evaluated for eligibility. 35 excluded (inappropriate design, outcomes, publication type). Manual search identified 42 records; 12 sought for retrieval, 5 assessed, 2 excluded (only in vitro outcomes). In total, 7 studies met inclusion criteria.
+
+Study characteristics: 7 studies, all in English, 5 countries. Majority from Japan (n=3), one each from Australia, Germany, Switzerland, Taiwan. All employed resorbable scaffolds (customized and non-customized) in complex defects (horizontal/vertical/combined, ≥3 mm). Except one RCT (Bartols et al.), all were clinical prospective and retrospective studies (case reports/series). Across studies, 39 participants and 45 sites met eligibility. Small sample sizes.
+
+Follow-up varied and inconsistently reported. Longest follow-up 48 months (Schönegg et al.); 6–7 months (Takahara et al.). Ogata et al. and Ivanovski et al. did not report follow-up. Reference point for follow-up not consistently specified.
+
+Included interventions: (i) PLA-based materials; (ii) patient-specific β-TCP scaffolds; (iii) poly(lactide-co-caprolactone) P(LA/CL); (iv) PCL scaffolds (two studies); (v) PLGA materials; (vi) poly(L-lactide) devices.
+
+Intervention characteristics: Complex defect types ranged from single-tooth defects to larger defects with both vertical and horizontal bone loss, including Benic et al. type 4 defects. One study reported lateral ridge defects. Some studies placed implants simultaneously with augmentation. Treated areas: maxillary anterior region in some, molar/mandible region in others.
+Scaffold materials: Polycaprolactone (PCL), Poly(lactide-co-glycolide) (PLGA), Poly-D-Lactide, β-TCP, Poly(lactic-co-caprolactone), Bilayer Polylactide/Cl membrane.
+Fixation: titanium tack pins (TTP), self-drilling titanium mini-screws, resorbable pins (three studies).
+Customized products applied in two articles; control group in two.
+Surgical approach: full-thickness flap elevation, particulate bone graft + stabilizing scaffold. Coverage with resorbable collagen membranes in some. Some used periosteal releasing incisions. Most frequent biomaterials: xenogeneic particulate grafts and autogenous bone.
+Antibiotic regimens varied (extended ≥1 week to short perioperative prophylaxis; one study did not report). Healing times before second-stage surgery 3–4 months (less complex lateral/single-tooth defects) to 7–9 months (extensive 3D defects). Histologic evaluation in only three studies.
+
+Outcomes characteristics:
+- Implant survival not reported in two studies. Four studies reported 100% survival. One study reported 20% implant loss.
+- Primary stability: Ivanovski et al. and Hsu et al. reported 35 Ncm; Shido et al. reported equal ISQ for all groups. Others did not report.
+- Bone augmentation volume varied between studies (different imaging modalities, definitions, units, time points) → pooling not straightforward.
+- Complication reporting inconsistent. Four studies had no early or late complications (two used customized scaffolds). Complications ranged from mucosal rubefaction and fistula to exposures and bone decrease to graft loss. In five studies, complication management not reported or not required. Management: local curettage and irrigation (0.2% CHX gel, Takahara et al.); systemic antibiosis 4 days (Ogata et al.).
+- Aesthetics: "satisfying" (Schönegg et al.); PES 7 and WES 9 (Ivanovski et al.).
+- Degradation time not mentioned in any study. Remaining scaffold particles investigated by Schönegg et al.; Ivanovski et al. reported bone grafting particles.
+
+Meta-analysis: NOT performed across all outcomes due to substantial clinical and methodological heterogeneity: (1) different outcome metrics (volumetric vs linear bone gain), (2) inconsistent reporting of dispersion (SD/CI), (3) variable follow-up/healing periods, (4) different materials (PCL, poly-D-L-lactide, P(LA/CL), PLGA, β-TCP). Descriptive analysis used instead.
+
+Descriptive analysis: One RCT (Germany, 30 patients) comparing autogenous bone block grafts vs resorbable Poly-D-L-Lactide foil over 24 months. One prospective clinical study (Japan, 20 patients, 15 implant sites) receiving collagen or P(LA/CL) scaffolds, max follow-up 6 months. Remaining five: three case series and two case reports (1–5 individuals, follow-up 5–48 months). Overall evidence limited by moderate-to-high risk of bias.
+
+Risk of bias (Cochrane / Higgins & Altman): Bartols et al. only study with trial-compatible methodology — adequate sequence generation and allocation concealment (low risk), standardized radiographic measurements and examiner calibration. But incomplete outcome data (graft/implant failures → informative missingness) = high risk in that domain, preventing unequivocally low overall risk. Shido et al. more debatable — simple randomization but methodology insufficiently detailed; selection/performance/selective-reporting bias unclear or high. Remaining five studies: N/A under this framework (observational descriptive designs); overall high risk.
+
+NOS: Shido et al. (prospective comparative cohort) intermediate score; weak Comparability domain. Bartols et al. mapped conservatively — superior methodological quality but penalized by incomplete outcome data. Three case series: low NOS scores (lack comparability, no control groups, small samples). Case reports cannot be meaningfully assessed.
+
+JBI (case series): Ogata et al. (first-in-human pilot case series) — clear inclusion criteria, detailed intervention, standardized outcomes; unclear consecutive inclusion (selection bias). Takahara et al. — better recruitment reflecting routine practice but small uncontrolled series (n=4). Hsu et al. — small sample (n=3), private clinic, CARE-compliant, rigorous serial CBCT + volumetric analyses; representativeness/inclusion uncertain, no comparator.
+
+JBI (case reports): Schönegger et al. — thorough documentation, long-term follow-up; adverse-event reporting largely narrative ("uneventful healing"). Ivanovski et al. — clear demographics, CBCT, intervention, take-home messages. Both well-documented but inherently limited by no comparators, publication bias, hypothesis-generating only.
+
+Discussion (key points):
+- Resorbable, often patient-specific, space-maintaining frameworks (container-type scaffolds) may be a feasible emerging approach for alveolar ridge augmentation; based on limited, predominantly non-comparative data.
+- Container-type scaffolds function as biological cage/barrier providing mechanical stability and maintaining regenerative space, typically combined with additional grafting materials (particulate bone substitutes as primary osteoconductive substrate). Contrasts with osteoconductive scaffold matrices (block-type scaffolds) that act as 3D ingrowth matrix.
+- Customized additive-manufactured devices (PCL, β-TCP, polymer-ceramic composites, bioresorbable meshes) consistently provided effective space maintenance, enabled volumetric bone gain, allowed implant placement with satisfactory early stability and soft-tissue integration.
+- "Cage effect": accurately contoured scaffold stabilizes particulate graft (mostly xenogeneic and autogenous), resists soft-tissue collapse, creates protected osteoconductive chamber favoring vascular infiltration and bone formation. Vaquette et al. preclinical work shows pore architecture, interconnectivity, material composition (PCL–hydroxyapatite blends) influence early cell ingrowth, angiogenesis, mineralization kinetics.
+- Recurrent concern: scaffold degradation kinetics. Several reports documented residual scaffold material at intermediate follow-up (slower resorption than anticipated). No overt foreign-body reactions reported, but long-term consequences of persistent polymer fragments (low-grade inflammation, mechanical interference with remodeling/load transfer) insufficiently characterized. Degradation time NOT reported in any included study = significant gap.
+- Complication reporting inconsistent: most described none; infrequent minor complications (small membrane exposures, transient mucosal irritation, superficial dehiscence); few described partial/total graft loss in subsets. Definition/classification varied.
+- Methodological limitations: mostly case reports/series or small pilot RCTs with limited statistical power, variable follow-up. Histology inconsistent and opportunistic. Few preregistered or with sample-size calculations. Blinding infrequent.
+- Resorbable customized scaffolds may be a potential option for complex 3D alveolar reconstruction, especially when avoiding donor-site morbidity and eliminating second-stage mesh removal is desired. Interpret with caution given limited/heterogeneous data.
+- Material selection should be individualized (defect size/containment, space-maintenance need, degradation characteristics, fixation options, clinician experience) — practice-oriented observations, not evidence-based recommendations.
+- Future research: adequately powered RCTs comparing defined resorbable scaffold systems with established methods (titanium meshes, autogenous block grafts, split bone block); volumetric CBCT, histomorphometric endpoints (vital bone %, residual scaffold %), prespecified complication reporting, PROs, cost-effectiveness, degradation product/host-response/long-term mechanical integration.
+
+Limitations: Only seven studies, mostly case reports/small case series, one RCT and one prospective comparative study; limited sample sizes, low power. High risk of bias in most studies; even the RCT had incomplete outcome data. Marked clinical/methodological heterogeneity precluded meta-analysis. Degradation kinetics and long-term device behavior poorly reported or absent. Histology and long-term follow-up only in a minority.
+
+Conclusion: Resorbable scaffolds can support bone regeneration and enable implant placement across a range of augmentation procedures with generally acceptable safety profiles. Heterogeneity in materials, surgical protocols, outcome reporting, plus methodological limitations and mainly short-to-intermediate follow-up prevent definitive conclusions about relative superiority of particular scaffold types. Standardized, longer-term RCTs needed. Degradation time is a key determinant of long-term performance warranting systematic investigation.
