@@ -1,0 +1,58 @@
+Comparative evaluation of wettability of AH plus, Ceraseal and Guttaflow bioseal root canal sealers on root canal dentin: An in vitro study
+PMID: 39583278 | PMCID: PMC11581372 | DOI: 10.4103/JCDE.JCDE_484_24
+Journal: J Conserv Dent Endod, 2024 (2024-10-05)
+
+ABSTRACT
+Context: Effective root canal treatment relies on the ability of sealers to wet and penetrate the root canal system, ensuring a tight seal and preventing bacterial leakage. The current study investigates the wetting ability of newer root canal sealers by evaluating their contact angle.
+Aim: To evaluate and compare the wetting behavior of Guttaflow bioseal, Ceraseal, and AH plus root canal sealers.
+Materials and Methods: Decoronation and apical third resections of thirty extracted single-rooted human mandibular premolars were done. The roots were split longitudinally into two halves buccolingually. The root dentin surfaces were treated using 10 mL 3% sodium hypochlorite for 5 min, 10 mL of 17% ethylenediaminetetraacetic acid for 5 min, and 2% chlorhexidine for 10 min. Then, these sixty dentin bars were randomly divided into three groups (n = 20): Group 1 – AH Plus, Group 2 – Ceraseal, and Group 3 – Guttaflow bioseal. The controlled volume of 0.1 mL sealer was dispensed onto the dentin specimen using a micropipette. The contact angle of a drop of sealer was measured after 5 min using Ossila goniometer.
+Statistical Analysis Used: The data were analyzed using one-way analysis of variance and Tukey post hoc tests. The statistical significance was at P < 0.05.
+Results: The mean contact angle values for AH Plus sealer were lower when compared to the other two sealer groups which is statistically highly significant.
+Conclusions: AH Plus showed lesser contact angle thereby better wettability than Ceraseal and Guttaflow bioseal on the root canal dentin surface.
+
+INTRODUCTION
+The success of endodontic therapy depends on proper cleaning, shaping, obturation, and maintenance of the coronal seal to create a fluid-impervious seal. To prevent reinfection, a fluid-tight barrier prevents bacteria and their by-products from penetrating the periapical tissues. To improve the fluid-tight seal, root canal sealers have been used with solid core obturating materials.
+
+Root canal sealers are used to attain a hermetic seal and to seal the spaces and irregularities between the dentinal wall and the core obturating material. Satisfactory wetting and adequate flow are essential properties for root canal sealers to establish a fluid impervious seal.
+
+Wettability is defined as the ability of a liquid drop to spread on a solid surface; it gives an idea of the potential of interaction with the dentin substrate. The wetting ability of root canal sealers, measured by the contact angle, influences their adaptability to the radicular dentin. Wettability depends on surface tension, thickness, flow, and viscosity of the root canal sealer.
+
+AH Plus sealer (Dentsply, De Trey, Konstanz, Germany) is a resin-based, paste-to-paste epoxy resin system; it is used as the control group due to its good flowability, proper film thickness, and viscosity, and contains silicone oils. Guttaflow (Colténe/Whaledent, Altstätten, Switzerland) is an injectable silicone-based root canal-filling paste, a variation of RoekoSeal incorporating gutta-percha particles as filler. Ceraseal sealer (Meta Biomed Co., Cheongju, Korea) is a pure bioceramic sealant with excellent biocompatibility and antimicrobial action. Its setting reaction begins by absorbing water from the dentinal tubules: calcium silicate hydrates to calcium silicate gel, forms calcium hydroxide, and releases Si4+, Ca++, and OH− ions during setting, producing calcium silicate hydrogel and hydroxyapatite that bond chemically with dentin without shrinkage during setting.
+
+Sodium hypochlorite (NaOCl) and chlorhexidine (CHX) are the most common irrigants used in root canal disinfection. Root canal irrigation with 17% EDTA followed by NaOCl effectively removes the smear layer. To date, the wetting ability of Ceraseal and Guttaflow bioseal compared to AH Plus had not been reported.
+
+MATERIALS AND METHODS
+Sealers tested: AH Plus, Ceraseal, Guttaflow bioseal.
+Sample preparation: Thirty intact single-rooted human mandibular premolar teeth extracted for orthodontic purposes (institutional ethical committee approval). Stored in saline. Decoronation and apical third resections with high-speed diamond disk under water spray. Root segments split longitudinally buccolingually with diamond disk at low speed. The 60 root halves were smoothened with Sof-lex disks (3M Sof-Lex) and stored in normal saline. Mounted on cold-cure resin blocks. All samples surface treated with 10 mL of 3% NaOCl for 5 min, 10 mL of 17% EDTA for 5 min, and 2% CHX for 10 min, then dried with blotting paper. Randomly divided into three groups: Group 1 – AH Plus (n = 20), Group 2 – Ceraseal (n = 20), Group 3 – Guttaflow bioseal (n = 20).
+Contact angle measurement: Specimens blot-dried and stabilized. Contact angle measured 5 min after a controlled volume of 0.1 mL sealer was dispensed onto treated root canal dentin using a micropipette. Measured with an Ossila goniometer.
+Statistical analysis: One-way ANOVA and Tukey post hoc tests; significance at P < 0.05.
+
+RESULTS
+Mean contact angles (degrees) on root canal dentin:
+Group 1 – AH Plus: mean 47.3995, SD 5.73024, SE 1.28132 (n=20)
+Group 2 – Ceraseal: mean 61.6353, SD 4.53076, SE 1.01311 (n=20)
+Group 3 – Guttaflow bioseal: mean 95.6425, SD 3.89777, SE 0.87157 (n=20)
+F = 537.74, P = 0.000 (highly significant).
+
+Pairwise mean differences (Tukey, all P = 0.000 HS):
+Group 1 vs Group 2 (AH Plus vs Ceraseal): −14.23575
+Group 1 vs Group 3 (AH Plus vs Guttaflow bioseal): −48.24300
+Group 2 vs Group 3 (Ceraseal vs Guttaflow bioseal): −34.00725
+
+AH Plus recorded statistically significantly lower contact angle values than the other two sealers regardless of dentinal wall treatment. Ceraseal showed a statistically significant lower contact angle than Guttaflow bioseal.
+
+DISCUSSION
+When the contact angle is <90° the liquid wets the surface; >90° is nonwetting; zero is complete wetting. A lower contact angle (greater surface free energy) means higher wettability and better spreading/interaction of sealer.
+
+AH Plus (47.40°) wet the dentin best. Superior wetting attributed to penetration of microirregularities and chemical bonding to root dentin by reacting with exposed amino groups in collagen forming covalent bonds between epoxy resin and collagen. Result agrees with Tummala et al. (AH Plus lower contact angle than ZOE and Guttaflow bioseal) and Tammineedi et al. (AH Plus better wettability than MTA Fillapex).
+
+Ceraseal (61.64°) showed lesser wettability than AH Plus but greater than Guttaflow bioseal. Ceraseal is a pure bioceramic sealant of zirconium oxide, thickening agent, calcium aluminate, and tricalcium silicates; it can creep past dentinal walls and penetrate lateral micro-canals due to small grain size, attraction for water, and low contact angle.
+
+Guttaflow bioseal (95.64°) showed poor wetting (>90°, nonwetting) due to silicone producing high surface tension forces making spreading challenging; hydrophobic gutta-percha on setting pulls away the sealer.
+
+LIMITATIONS
+- Influence of irrigants and irrigation techniques on wettability was not evaluated.
+- No load was applied while measuring contact angle; sealers may behave differently under pressure during obturation.
+
+CONCLUSIONS
+AH Plus showed a lesser contact angle, thereby better wettability, than Ceraseal and Guttaflow bioseal on the root canal dentin surface.
