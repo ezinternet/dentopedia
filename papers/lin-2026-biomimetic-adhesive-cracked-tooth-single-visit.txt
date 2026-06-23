@@ -1,0 +1,81 @@
+A Biomimetic Adhesive Approach for Restoring a Cracked Tooth in a Single Visit: A Case Report
+
+PMID: 41767975 | PMCID: PMC12948722 | DOI: 10.1155/crid/5525524
+Journal: Case Reports in Dentistry | Published: 2026-02-27
+Source: PubMed Central full text (JATS).
+
+ABSTRACT
+
+Objective: This report evaluates the morphology-driven preparation technique (MDPT) for biomimetic restoration of a cracked maxillary first molar, focusing on its tooth-preserving benefits and clinical outcomes.
+
+Case Presentation: A 36-year-old male presented with 2 months of masticatory pain and recent spontaneous pain in the upper right posterior region (Tooth 16). Examination revealed occlusal cracks, confirmed as cracked tooth syndrome radiographically. Treatment included microscopic root canal therapy (biomechanical preparation, irrigation, and hybrid obturation) followed by MDPT-based restoration. The minimally invasive approach preserved natural morphology using digital impressions (3Shape TRIOS 5) and placed a lithium disilicate veneer with dual-cure resin cement under optimized bonding protocols.
+
+Results: MDPT achieved a complete pain resolution and functional restoration while preserving maximum dentin structure. Minimal preparation and immediate dentin sealing enhanced stability and reduced microleakage risk, with excellent esthetic integration.
+
+Conclusion: MDPT represents an effective biomimetic solution for cracked teeth, combining minimal invasiveness with optimal clinical outcomes. The technique demonstrates significant advantages in tooth structure preservation and restoration longevity. Comparative studies are needed to further validate its clinical benefits.
+
+1. INTRODUCTION
+
+Cracked tooth syndrome poses a diagnostic and restorative challenge due to its subtle clinical presentation and the risk of further structural compromise, driving the need for minimally invasive yet durable restorative approaches. One such approach is the morphology-driven preparation technique (MDPT), which emphasizes using the natural tooth morphology to guide preparation design. This technique adopts a minimally invasive approach by customizing the preparation to the tooth's anatomical characteristics and functional needs, thereby preserving as much healthy tooth structure as possible.
+
+MDPT is especially beneficial in cases requiring indirect restorations, such as ceramic crowns, onlays, and veneers, where precise preparation is crucial for achieving an accurate fit and ensuring long-term success. Unlike traditional preparation methods, which typically follow a uniform reduction pattern, MDPT takes into account the unique morphology of each tooth. This allows for a more conservative removal of tooth structure and enhanced biomechanical performance. By focusing on the individual characteristics of each tooth, this patient-centered approach not only preserves the tooth's structural integrity but also improves esthetic outcomes and reduces the risk of postoperative complications.
+
+Cracked tooth syndrome is a common clinical challenge that often presents with pain during mastication. In recent years, with advancements in dental bonding and material science, many research studies have reported the use of occlusal veneers to treat cracked teeth. Accurate diagnosis and appropriate restorative strategies are crucial to prevent further structural compromise and alleviate symptoms. MDPT offers a conservative and precise approach to preparing teeth for restorations while preserving maximum tooth structure. This case report describes the diagnosis and management of a patient presenting with a cracked maxillary first molar, treated using MDPT and a porcelain laminate veneer restoration.
+
+2. CASE PRESENTATION
+
+A 36-year-old male patient presented with a 2-month history of pain in the upper right posterior tooth (Tooth 16) when biting down on hard objects, accompanied by recent onset of nocturnal and spontaneous pain for 1 day. Initially, the patient did not seek treatment, but as the pain worsened, he decided to consult a dental professional. Due to imminent relocation for work, the patient specifically requested completion of treatment in a single visit whenever possible. The patient was otherwise in good general health, with no known history of systemic diseases.
+
+Written informed consent was provided. Treatment procedures were conducted in accordance with the Declaration of Helsinki; protocol approved by the Ethics Committee of the Fujian Provincial Governmental Hospital (Approval No.: RL2024-02).
+
+Clinical examination: Tooth 16 showed no response to percussion or probing, and a positive response to cold testing (+). Visible cracks were observed on the occlusal surface, but there was no evidence of gingival inflammation or tooth mobility. Periapical radiograph revealed no significant low-density areas at the root apex of Tooth 16. Diagnosis: cracked tooth syndrome with reversible pulpitis affecting Tooth #16. Based on the American Association of Endodontists (AAE) classification, the crack was identified as extending into the pulp chamber but not involving the pulpal floor upon microscopic examination, warranting endodontic treatment followed by a restoration. Methylene blue staining clearly revealed the crack line on the maxillary right first molar. (Of note: the contralateral left first molar had been endodontically treated and crowned, having cracked 1 year prior.) Proposed plan: root canal therapy, followed by restoration of Tooth 16 using a porcelain laminate veneer (occlusal veneer), utilizing MDPT.
+
+2.1 Restorative Phase: MDPT Protocol
+Goal: preserve healthy tooth structure while ensuring optimal adhesion and biomechanical support for the lithium disilicate IPS e.max Press (Ivoclar Vivadent) restoration. Preparation focuses on butt-joint margins (1.2-1.3 mm) in the proximal boxes and inclined planes (hollow chamfer) on the buccal and palatal walls, maintaining closed proximal contacts.
+
+2.2 Initial Evaluation and Preparation
+Tooth assessed for crack extent, remaining dentin thickness, and periodontal health. A provisional restoration may be placed if the tooth requires stabilization.
+
+2.3 Proximal Box Preparation (Butt-Joint Margins)
+After local anesthesia (articaine 1:100,000 epinephrine infiltration at Tooth #16), proximal box preparations initiated using a tapered cylindrical diamond bur (medium grit, 1.2-mm tip diameter). Proximal walls reduced to 1.2-1.3 mm, establishing well-defined 90 degree cavosurface margins without beveling. Internal line angles rounded to reduce stress concentration; natural proximal contact areas preserved.
+
+2.4 Occlusal Reduction
+Occlusal surface reduced anatomically using a rounded-end diamond bur, following the natural fissure pattern. Uniform reduction of 1.0-1.5 mm maintained, guided by a silicone index from the diagnostic wax-up. Sharp angles eliminated; smooth transitions created between cusps and proximal boxes.
+
+2.5 Buccal and Palatal Axial Walls (Inclined Planes - Hollow Chamfer)
+Buccal and palatal walls prepared based on position relative to the maximum contour line (equator). For areas coronal to the equator, a hollow chamfer (concave bevel) created using a chamfer bur, maintaining a 20-30 degree inclination to optimize enamel prism exposure for bonding. If the axial wall extends apical to the equator, a butt-joint margin is prepared instead. Transitions blended with curved "slip roads" to avoid sharp edges.
+
+2.6 Finishing and Verification
+Margins refined with fine-grit diamond burs and polished with rubber wheels. Final preparation checked for uniform thickness (1.2-1.5 mm minimum), absence of undercuts (silicone index), and proper marginal continuity.
+
+2.7 Impression and Laboratory Communication
+Digital impression taken using 3Shape TRIOS 5 intraoral scanner. Margin design specified (butt-joint proximally, hollow chamfer axially); monolithic e.max Press restoration requested with minimum thickness 1.2 mm. Shade 2R2.5 selected under neutral lighting using VITA 3D-Master guide. During root canal treatment, the technician performs chairside fabrication of the restoration.
+
+2.8 Root Canal Treatment Procedure
+Absolute isolation with latex rubber dam (Hygienic Dental Dam, Coltene/Whaledent). Access cavity prepared with 1.5-mm reduction using a high-speed diamond fissure bur (Brasseler 856-014) with water cooling, refined with ultrasonic tips (P5 XS Newtron, Satelec). Canal orifices identified under 16x magnification (OMS2380, Zumax) using DG-16 endodontic explorers. Microscopic examination confirmed no extension of the crack to the pulpal floor.
+Electronic apex locator (Raypex 6, VDW), cross-verified with parallel periapical radiographs: working lengths MB-16, MB2-16, DB-17, P-19 mm. Instrumentation with thermally treated NiTi reciprocating file (Reciproc Blue R25/0.06; VDW) per manufacturer parameters (150 degree counterclockwise/30 degree clockwise). 17% EDTA gel (VDW Clean) as lubricant. Irrigation alternated 0.5% NaOCl (5 mL/canal) and 17% EDTA (3 mL/canal), with ultrasonic activation (Irrisafe Satelec tips, 30 s/canal at 30 kHz).
+Canals dried with sterile absorbent points (Dentsply Sirona); master cone adaptation verified (25/0.06 GP cone tug-back at 0.5 mm from radiographic apex). Obturation: hybrid technique - preheated System B plugger (200 C +/- 5 C) delivered thermoplasticized gutta-percha (Dentsply Thermafil), forming a 4-mm apical seal; epoxy resin-based sealer (AH Plus, Dentsply Sirona). Buchanan hand spreaders for incremental backfilling; homogeneous radiodensity on immediate postoperative radiographs.
+
+2.9 Cementation Protocol
+e.max Press pretreatment: intaglio surface etched with 5% hydrofluoric acid for 20 s, then 90-s application of silane coupling agent (Monobond Plus). After rubber dam isolation and 37% phosphoric acid etching of enamel for 30 s, Single Bond Universal Adhesive (3M ESPE) applied to enamel and dentin, covered with a thin layer of flowable composite light-cured 20 s at 1200 mW/cm2. The access cavity restored with short-fiber-reinforced composite resin (SFRC) filled to 1 mm below the occlusal surface of the access opening, light-cured 20 s at 1200 mW/cm2, to facilitate direct bonding with the e.max restoration. Dual-cure resin cementation using RelyX Ultimate (3M ESPE) under finger pressure. Excess cement removed before sectional light curing (20 s per buccal/lingual quadrant, polywave LED). Final polishing with Sof-Lex discs (coarse to superfine).
+The entire procedure adhered to minimally invasive principles; both endodontic and restorative phases under rubber dam isolation with microscopic assistance (ZEISS OPMI PROergo).
+Trial placement verification: occlusal contacts evenly distributed (8-micrometer articulating paper); marginal adaptation < 40-micrometer discrepancy (20x magnification); proximal contact allowed dental floss passage with moderate resistance.
+
+RESULTS / FOLLOW-UP
+Clinical and radiographic evaluation at 15-month follow-up demonstrated optimal restoration integrity, preserved tooth structure, and healthy periodontal conditions; follow-up periapical radiograph confirmed normal periapical and periodontal status.
+
+3. DISCUSSION (key points)
+- Cracked tooth syndrome is multifactorial: parafunction (bruxism/clenching), pre-existing structural weaknesses (large/failing restorations, deep grooves, endodontically treated teeth), occlusal factors (premature contacts, steep cusps, malocclusion), age-related dentin brittleness. The patient denied bruxism; complex occlusal morphology and possible chronic occlusal overload were the likely inciting factors.
+- Single-visit decision was patient-driven (imminent relocation), aligning with patient-centered care. Pulpal inflammation with no periapical involvement made single-visit biologically appropriate. Immediate restoration after endodontic treatment improves adhesive interface quality (prevents interim contamination); prompt definitive restoration prevents crack propagation.
+- Occlusal veneer chosen over full crown: Magne et al. showed occlusal veneers (1.0-1.5 mm reduction) preserve more tooth structure; critical for endodontically treated teeth. MDPT butt-joint proximal (1.2-1.3 mm) and hollow chamfer axial optimize preservation while ensuring material thickness.
+- Lithium disilicate (e.max Press) preferred over zirconia: superior optical/translucency; fracture toughness (2.75 MPa.m^1/2) adequate for occlusal veneers in premolars/molars; adhesive bonding via HF etching + silanization creates a monoblock effect, beneficial for cracked teeth.
+- SFRC for access cavity restoration: superior fracture resistance vs conventional composites; modulus of elasticity (12-15 GPa) closer to dentin (18 GPa) than conventional composite, reducing stress concentration at the interface; 1-mm sub-occlusal placement for ceramic support and adhesive integrity.
+- Digital intraoral scanning ensured accurate impressions, improving fit and esthetics.
+- Future research: long-term outcomes of MDPT across diverse populations and tooth types; comparative studies vs conventional preparation.
+
+4. CONCLUSION
+MDPT principles combined with contemporary materials and digital workflows successfully addressed cracked tooth syndrome while maximizing tooth structure preservation. Excellent short-term outcomes. Long-term follow-up needed, particularly regarding SFRC-ceramic interface performance under functional loading.
+
+Nomenclature: MDPT = morphology-driven preparation technique.
+Funding: Fujian Provincial Department of Science and Technology Guiding Project (2024Y0034).
+Conflicts of Interest: none declared.
