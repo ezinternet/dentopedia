@@ -1,0 +1,114 @@
+Title: Efficacy of tenoxicam for postoperative dental pain: a systematic review of randomized controlled trials
+Authors: Maryam Altuhafy, Diya Kamdar, Junad Khan
+Journal: Journal of Dental Anesthesia and Pain Medicine 2026;26(2):91-107
+DOI: 10.17245/jdapm.2026.26.2.91
+PMID: 41952911
+PMCID: PMC13053197
+Source: PubMed Central full text (JATS), retrieved 2026-06-24
+
+==================================================================
+ABSTRACT
+==================================================================
+Postoperative pain commonly follows dental procedures, and appropriate analgesic selection plays a critical role in its management. This systematic review evaluated the efficacy and safety of tenoxicam compared with other pharmacological agents for postoperative dental pain control. Indexed databases, including PubMed, EMBASE, Ovid, Scopus, Web of Science, and the Cochrane Library, were searched through August 2025. Risk of bias was assessed using the Cochrane Risk of Bias tool for interventions. Nine randomized controlled trials met the inclusion criteria and covered a range of dental procedures, including third molar extraction, endodontic treatment, orthodontic adjustment, and implant surgery. Comparators included placebo, ibuprofen, diclofenac, flurbiprofen, meloxicam, methylprednisolone, and rofecoxib. Pain outcomes were measured primarily with the Visual Analogue Scale at multiple postoperative time points. Across studies, tenoxicam showed analgesic efficacy that was generally superior or comparable to other agents, with several trials reporting statistically significant reductions in pain scores at both early and later postoperative intervals. Most studies had low overall risk of bias, although some raised concerns related to allocation concealment and outcome reporting. Tenoxicam appears to be an effective and well-tolerated option for postoperative dental pain management. Study heterogeneity and domain-level bias concerns indicate a need for additional high-quality trials to confirm these findings and support routine clinical use.
+
+==================================================================
+FULL TEXT
+==================================================================
+
+INTRODUCTION
+
+Pain is a commonly anticipated and frequently reported experience associated with dental procedures. Many patients maintain a persistent association between dental treatment and nociceptive discomfort, a perception reinforced by individual variability in pain thresholds and prior clinical encounters. The likelihood and intensity of orofacial pain depend on the underlying diagnosis, the invasiveness of the intervention, and the physiological and psychological state of the patient. Anticipatory pain and actual nociception therefore require effective management through a multidisciplinary approach that integrates both pharmacological and non-pharmacological strategies.
+
+Exposure to painful medical or dental events, including acute procedural pain and recurrent minor trauma such as abrasions, contusions, or musculoskeletal injuries, can shape future pain perception and coping responses. These cumulative experiences contribute to pain memory and central sensitization, which can amplify responses during subsequent healthcare encounters. Prior episodes of inadequately managed dental pain strongly contribute to dental anxiety and phobia, conditions that promote avoidance, delay treatment, and worsen oral health status. This context expands the role of dental healthcare professionals beyond technical intervention to proactive prevention, assessment, and management of pain. Evidence-based analgesic regimens, preemptive pain control strategies, and patient-centered communication reduce procedural distress, improve compliance, and enhance clinical outcomes.
+
+Local anesthetics remain the primary modality for intraoperative analgesia in dental procedures, acting through reversible blockade of peripheral nerve conduction. Their duration is limited, however, and they often do not adequately control postoperative nociceptive stimuli, particularly after invasive interventions such as dental extractions, endodontic therapy, or orthodontic manipulations. Adjunctive systemic oral analgesics therefore play a central role in maintaining effective pain control during the recovery phase.
+
+Among pharmacological agents, nonsteroidal anti-inflammatory drugs (NSAIDs) are widely used for their dual analgesic and anti-inflammatory effects, mediated through inhibition of cyclooxygenase (COX) enzymes and subsequent suppression of prostaglandin synthesis. These actions attenuate both peripheral and central sensitization pathways involved in postoperative dental pain. In addition to pharmacotherapy, non-pharmacological interventions such as behavioral distraction techniques, cognitive-behavioral therapy, and cold therapy complement analgesic regimens, particularly in pediatric or anxious patients.
+
+NSAIDs represent a cornerstone of acute dental pain management because of their proven ability to provide moderate to substantial analgesia. Their therapeutic benefit derives from combined anti-inflammatory and analgesic mechanisms, which are especially valuable when inflammatory processes drive nociceptive stimuli. NSAIDs act primarily through inhibition of COX-1 and COX-2 enzymes, thereby reducing prostaglandin biosynthesis, a key mediator of peripheral and central pain sensitization. Reduced prostaglandin levels attenuate inflammation, decrease vascular permeability, and limit nociceptor sensitization. This mechanism supports frequent NSAID use in oral surgical settings, including third molar extraction and periodontal therapy, where tissue trauma and inflammation contribute substantially to postoperative pain. Strong evidence and favorable safety profiles, when used appropriately, support NSAIDs as a first-line option for acute and subacute dental pain management.
+
+Tenoxicam is a potent NSAID of the oxicam class and is chemically classified as an enolic acid derivative. Its mechanism of action involves non-selective inhibition of COX-1 and COX-2 enzymes, which mediate the conversion of arachidonic acid to prostaglandins, key lipid mediators of inflammation, pain, and fever. In addition to COX inhibition, tenoxicam also inhibits the lipoxygenase pathway, thereby reducing leukotriene synthesis involved in inflammatory and hypersensitivity responses. This dual pathway blockade contributes to its broad anti-inflammatory activity.
+
+Tenoxicam also reduces oxidative stress by decreasing the formation of reactive oxygen species and other active oxygen radicals that perpetuate tissue injury and inflammation. The drug modulates immune activity by inhibiting leukocyte chemotaxis, adhesion, and transmigration, which limits leukocyte accumulation at inflammatory sites. It also suppresses phagocytic activity and pro-inflammatory cytokine release, further supporting an immunomodulatory effect.
+
+Beyond its anti-inflammatory properties, tenoxicam provides analgesic effects through reduction of peripheral nociceptor sensitization and modulation of central pain pathways. Its antipyretic action results from inhibition of prostaglandin E2 synthesis within the hypothalamic thermoregulatory center. Like many NSAIDs, tenoxicam reversibly inhibits platelet aggregation by suppressing thromboxane A2 synthesis, although this effect is less pronounced than that of acetylsalicylic acid.
+
+A long half-life and favorable pharmacokinetic profile support once-daily dosing of tenoxicam, which can improve adherence in clinical practice. Clinical use includes management of acute and chronic inflammatory conditions such as rheumatoid arthritis, osteoarthritis, ankylosing spondylitis, and postoperative pain. These pharmacological and clinical characteristics make tenoxicam a suitable candidate for evaluation in postoperative dental pain and other acute pain settings.
+
+Despite widespread use of tenoxicam tablets for analgesia after dental treatment, comparative effectiveness versus other analgesics or placebo remains unclear. No systematic review has consolidated evidence comparing tenoxicam with alternative medications in the post-dental setting within a single analysis. This systematic review aims to address this gap by directly comparing the efficacy of tenoxicam with NSAIDs, corticosteroids, and placebo for postoperative pain control after dental procedures. The review also evaluates adverse effects and the need for additional rescue medication after treatment across groups.
+
+METHODS
+
+Reporting format: PRISMA-guided systematic review, registered in PROSPERO. Substantial heterogeneity among included studies precluded meta-analysis.
+
+Focused question: "Is tenoxicam more effective for control of postoperative dental pain than other medications?"
+
+PICO: Population = patients undergoing dental treatment; Intervention = tenoxicam; Comparator = other medications or placebo; Outcome = postoperative pain; Study design = RCTs.
+
+Eligibility: (a) children or adults undergoing dental treatment; (b) experimental group receiving tenoxicam; (c) control group receiving another medication or placebo; (d) direct comparison; (e) RCTs. Excluded: case reports, case series, letters, retrospective studies, non-randomized studies.
+
+Search: PubMed, EMBASE, Scopus, ISI Web of Knowledge, Cochrane Library; published up to August 2025. Terms: tenoxicam, dental pain, tooth pain, analgesics, NSAIDs. Two reviewers (MA, DK) screened; disagreements resolved by third reviewer (JK).
+
+Heterogeneity: assessed qualitatively (differences in dental procedures, tenoxicam dose/route, comparators, pain assessment tools, timing/frequency). Exploratory I2 calculations where VAS 0-100 at fixed time points comparable. Clinical/methodological diversity substantial; not pooled.
+
+RESULTS
+
+Study selection: Initial search identified 92,787 records (81,104 PubMed, 8,788 Embase, 229 Scopus, 1,689 Web of Science, 585 Cochrane, 392 Ovid). After duplicate removal, 240 remained for screening, 202 excluded. 38 reports sought, 25 could not be obtained. 13 full-text assessed; 3 excluded for not matching PICO, 1 for not being RCT. NINE RCTs included in final qualitative analysis.
+
+General characteristics: All 9 RCTs in different countries. Comparator groups received placebo, placebo + ibuprofen, diclofenac potassium, methylprednisolone with isotonic sodium chloride, diclofenac sodium, flurbiprofen with diclofenac sodium, meloxicam, or rofecoxib. Sample sizes 35-100 participants; ages 16-52 years. Eight studies both sexes; one female-only. Study duration not reported. Procedures: 2 orthodontic, 5 third molar extraction, 1 endodontic, 1 dental implant surgery. Funding: 1 reported, 2 reported none, rest unreported.
+
+Control group medications/dosing:
+- Ibuprofen 200 mg (one study)
+- Diclofenac potassium 50 mg
+- Diclofenac sodium 100 mg orally (one); 75 mg IM followed by 50 mg oral (another)
+- Flurbiprofen 200 mg
+- Meloxicam 15 mg
+- Methylprednisolone 80 mg IV
+- Rofecoxib 50 mg preoperatively then 25 mg daily
+- Placebo: sugar tablets / xylitol-based chewing gum
+Timing: mostly preoperative, some extending postoperatively. One prolonged diclofenac sodium regimen (preop IM, immediate postop oral, evening dose, then TID x6 days). Flurbiprofen/diclofenac once daily x7 days after preop dose. Meloxicam 1h preop + 2 more days. Rofecoxib 50 mg before then 25 mg daily x3 days.
+Six studies oral; one IM+oral diclofenac; one IV methylprednisolone. Self-administration in 7 studies; 2 did not report mode.
+
+Tenoxicam intervention:
+- Most studies: standard oral dose 20 mg
+- One study: 40 mg IV preoperatively then 20 mg oral postop
+Dosing schedules varied: several single preoperative dose (Arslan, Basam, Cebi). One: before treatment, immediately after, again at 24h and 48h. Extended regimen: 40 mg IV preop then 20 mg oral postop, continued once-daily oral day 2-7. One: 1h before surgery, continued once daily x7 days. Another: similar with 2 additional postop days. Two-step: 40 mg orally before surgery then 20 mg once daily x3 postop days.
+Seven studies oral; two (Ilhan, Roelofse) IV then oral. Self-administration in 7 studies; 2 unspecified.
+
+Outcome variables: All 9 RCTs used VAS (0-10 or 0-100), patient self-report. Multiple postoperative time points from 1, 2, 6 hours to up to 7 days.
+
+Key findings per study:
+- Preemptive + postoperative tenoxicam superior to placebo in orthodontic cohort, statistically significant at several time points (P < 0.001 to 0.044).
+- Significantly lower pain at 6 hours after endodontic treatment with tenoxicam vs placebo (P < 0.05); later differences not significant.
+- Efficacy comparable to non-pharmacological chewing gum across multiple time points; no clear tenoxicam superiority in that setting.
+- Tenoxicam produced significantly lower VAS than diclofenac potassium from 8 hours onward.
+- Comparable analgesic efficacy between tenoxicam and methylprednisolone, no significant difference.
+- Tenoxicam outperformed diclofenac sodium in reducing pain from third postoperative day (P < 0.05).
+- Significant effect only on second postoperative day, favorable tenoxicam, no adverse events.
+- No significant difference between tenoxicam and meloxicam, both well tolerated.
+- Rofecoxib provided better overall pain control than tenoxicam but more gastrointestinal side effects.
+Overall: tenoxicam showed consistent analgesic benefit with low incidence of adverse outcomes.
+
+Rescue medication: most commonly paracetamol, but indications/dosing/timing inconsistently defined. One allowed paracetamol 750 mg up to QID; two reported no additional analgesics; one provided amoxicillin 625 mg + 0.2% chlorhexidine; one amoxicillin 500 mg TID + paracetamol 500 mg TID + chlorhexidine; one 4% chlorhexidine TID + paracetamol 500 mg; one paracetamol 500 mg QID; one paracetamol 1 g; one incompletely reported.
+
+Adverse events: generally infrequent and mild (nausea, GI discomfort, dizziness, skin irritation). Several trials reported no AEs with tenoxicam; one reported higher GI symptoms with rofecoxib than tenoxicam. Multiple studies did not report AE data. No serious AEs attributable to tenoxicam.
+
+Risk of bias (Cochrane RoB 2.0, 5 domains): All studies low risk for randomization. Allocation concealment adequate in 7, some concerns in 2. Deviations from intended interventions low in 8, some concerns in 1. Missing outcome data low in 8, some concerns in 1. Selective reporting concerns in 8, low risk in 1. Other bias low in 2, some concerns in 7. Most studies overall low risk; 2 with some concerns (incomplete reporting, potential detection bias).
+
+GRADE: Certainty for early postoperative pain reduction MODERATE for 1-6 hours and 12-24 hours. Tenoxicam comparable to other NSAIDs and superior to placebo. Downgraded for heterogeneity in populations, interventions, comparators, outcomes. Later time points (48-72 hours) LOW certainty (indirectness, imprecision). Rescue medication certainty LOW (inconsistent reporting). Adverse events mild, moderate certainty.
+
+DISCUSSION
+
+Preoperative NSAID administration can suppress inflammatory cascade early via COX inhibition. Several trials showed lower early postoperative pain with tenoxicam, supporting preemptive analgesia role, though results not uniform. First postoperative hours often peak discomfort.
+
+Tenoxicam long half-life sustains analgesia after single dose, advantage where repeated dosing impractical. Relative COX-2 selectivity may improve GI tolerability vs traditional NSAIDs, though direct dental comparative safety data limited. Lower tissue accumulation may reduce toxicity in older adults, hepatic/renal impairment.
+
+Comparative results: Basam et al. and Roelofse et al. demonstrated greater pain reduction with tenoxicam than comparators in early hours and later follow-up. One study showed preemptive + postoperative benefit over placebo in orthodontic pain. One trial: tenoxicam outperformed placebo early but did not differ from ibuprofen beyond 6 hours. Ilhan et al. and Cebi et al. reported superior outcomes with tenoxicam. Rofecoxib stronger pain control but more GI AEs. No significant difference vs meloxicam. One trial significant benefit only day 2. An additional study outside core dental set: tenoxicam reduced pain at 2, 4, 6, 24 hours and lowered morphine consumption (44.8 +/- 17.4 mg) vs paracetamol and placebo (P < 0.05), similar side effects aside from mild nausea.
+
+Route: most oral; Roelofse et al. and Ilhan et al. IV then oral, affecting onset and plasma concentration. No consistent pattern of significant adverse effects; mild side effects (GI discomfort, skin irritation), appearing less frequent/severe than some NSAIDs like diclofenac. Favorable patient-reported outcomes in a few trials (possibly once-daily dosing).
+
+Heterogeneity substantial: exploratory I2 among comparable VAS outcomes 62% to 89%, supporting decision not to perform meta-analysis. Geographic concentration: most trials in Turkey, India, South Africa, New Zealand, Brazil; generalizability to North America, Europe, East Asia may be limited. Most studies relied on subjective pain scores without objective biomarkers.
+
+CONCLUSION
+
+Tenoxicam is a viable and often advantageous option for postoperative dental pain management, particularly when gastrointestinal tolerability, dosing convenience, or longer duration of analgesia are priorities. Efficacy broadly comparable to other NSAIDs. Future standardized-protocol studies with larger, more diverse populations should clarify comparative effectiveness and safety.
