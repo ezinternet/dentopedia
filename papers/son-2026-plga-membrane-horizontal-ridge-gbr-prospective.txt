@@ -1,0 +1,92 @@
+Title: Simultaneous implant placement with guided bone regeneration for horizontal ridge augmentation using a 3D-preformed resorbable PLGA membrane: A prospective single-arm clinical study
+Authors: Sang-Hyun Son, Kyeong-Ok Lim, Seo-Hee Han, Gwi-Hyeon Min, Jooseong Kim, Tadeusz Morawiec, Won-Pyo Lee
+Journal: Clinical Oral Investigations 2026;30(6)
+DOI: 10.1007/s00784-026-06959-9
+PMID: 42240865
+PMCID: PMC13236836
+Source: PubMed Central full text (JATS)
+
+=== ABSTRACT ===
+
+Objectives
+This study aimed to evaluate the clinical effectiveness and safety of guided bone regeneration (GBR) using a three-dimensional preformed resorbable Polylactic-co-glycolic acid membrane (3D-PRPM) with simultaneous implant placement.
+
+Materials and methods
+Twenty patients (21 sites) with localized ridge defects were treated using implants placed concurrently with GBR using a 3D-PRPM. Cone-beam computed tomography scans were taken preoperatively, immediately postoperatively, and at 5 months. Horizontal bone augmentation (BA), hard tissue gain (HG), bone resorption (BR), and hard tissue gain rate (HGR) were assessed. Changes beyond the original bony envelope were evaluated. Statistical analyses included the Wilcoxon signed-rank and Friedman tests.
+
+Results
+Mean BA was 2.99 ± 1.15 mm, and mean HG at 5 months was 2.64 ± 1.10 mm. Mean BR was 0.35 ± 0.23 mm, and mean HGR was 87.2% ± 8.2%. Envelope analysis confirmed a significant increase after augmentation with partial reduction during healing; however, ridge dimensions at 5 months remained significantly greater than baseline (P < 0.001). No membrane exposure, infection, or wound dehiscence occurred.
+
+Conclusion
+3D-PRPM enabled predictable horizontal ridge augmentation with excellent volumetric stability and favorable short-term safety.
+
+Clinical relevance
+A 3D-PRPM may provide a stable, fixation-free resorbable barrier for horizontal ridge augmentation, potentially simplifying GBR procedures and reducing the need for secondary removal.
+
+=== FULL TEXT ===
+
+Introduction
+
+Insufficient alveolar ridge volume remains one of the most critical challenges for successful implant placement. Guided bone regeneration (GBR) is a well-established surgical approach to overcome this limitation by excluding non-osteogenic tissues and ensuring space maintenance for new bone formation. Central to this technique is the barrier membrane, broadly classified as either non-resorbable or resorbable.
+
+Non-resorbable membranes, particularly titanium meshes, provide excellent stability, space maintenance, and highly predictable outcomes. Nevertheless, their clinical use is limited by frequent exposure, reported in 15–25% of cases and up to 40–50% in some studies. Such exposure may result in infection, wound dehiscence, or graft loss, and secondary removal is often necessary, increasing both patient morbidity and surgical complexity.
+
+Resorbable collagen membranes were introduced to overcome these drawbacks. While they offer favorable biocompatibility and ease of handling, their low rigidity predisposes them to collapse in large or non-contained defects, often leading to loss of space and compromised outcomes. These limitations underscore the need for resorbable membranes that combine mechanical stability with the advantage of spontaneous degradation, eliminating the requirement for removal.
+
+Polylactic-co-glycolic acid (PLGA) is a synthetic copolymer with tunable degradation properties and an excellent safety record in diverse medical applications. Preliminary investigations have suggested its feasibility in GBR. To build on this, a three-dimensional (3D) preformed resorbable PLGA membrane (3D-PRPM) was developed to merge the rigidity of titanium meshes with the resorbability of collagen membranes. The aim of this study was to evaluate the clinical effectiveness and short-term safety of 3D-PRPM in localized horizontal alveolar ridge defects.
+
+Materials and methods
+
+Characterization of a 3D-PRPM
+PLGA (PURASORB PLG 8218, Corbion, The Netherlands; MW 90,000; L-lactide:glycolide ratio 82:18) was used for the fabrication of 3D-PRPM (r-Builder; Osstem Implant Co., Ltd., Seoul, Korea). The 3D-PRPM was fabricated by injection molding, with a standardized thickness of approximately 0.3 mm and 1.0-mm pores to facilitate vascularization and tissue integration. Each membrane was preformed with dimensions sufficient to cover buccal bone defects around dental implants.
+
+In vitro mechanical and degradation tests
+Compressive stiffness of the 3D-PRPM was evaluated using a universal testing machine, with five specimens loaded vertically at 1 mm/min until permanent deformation. For degradation studies, specimens were incubated in PBS (pH 7.4) at 37 °C under gentle agitation and retrieved at 0, 2, 4, and 6 months. Weight loss was determined gravimetrically. Mechanical integrity was reassessed at each interval, and pH of the degradation medium was measured for both 3D-PRPM and a lower molecular weight PLGA (50,000) control.
+
+Study design and ethical approval
+This prospective, single-arm clinical trial was conducted at the Department of Periodontology, Chosun University Dental Hospital, Gwangju, Republic of Korea. The study protocol was approved by the IRB (CUDHIRB 2405-006).
+
+Patient selection
+Twenty patients with localized alveolar ridge defects requiring implant placement with simultaneous GBR were enrolled. Inclusion criteria: ≥18 years, systemically healthy, localized horizontal alveolar ridge defects requiring GBR at implant placement, informed consent. Exclusion: systemic diseases affecting bone metabolism/wound healing, heavy smoking (≥10 cigarettes/day), alcohol/substance abuse, active periodontal disease, pregnancy/lactation, concurrent trial.
+
+Surgical procedure
+All procedures by a single experienced periodontist (WPL) under local anesthesia. After mid-crestal incision and full-thickness flap elevation, implants (TS III, Osstem) were placed. A 1-mm anchor screw was connected to the implant fixture, peri-implant defects were filled with particulate xenogeneic bone graft (A-Oss, Osstem), and grafted sites were covered with a 3D-PRPM stabilized by the cover cap. An additional resorbable collagen membrane (OssMem soft, Osstem) was placed over the 3D-PRPM to enhance soft tissue adaptation and provide an additional barrier against epithelial migration. Flaps were repositioned for tension-free primary closure. Analgesics (aceclofenac 100 mg) twice daily for one week. Sutures removed ~2 weeks. After a 5-month healing period, second-stage surgery and final prosthetic restoration.
+
+Radiological evaluation
+CBCT scans (FOV 10 cm diameter; 5.6 cm height; 90 kV; 8.0 mA; voxel 0.2 mm) by a single blinded examiner (JSK). Cross-sectional images through the center of each implant used for linear measurement. Bone augmentation (BA) = horizontal thickness immediately after augmentation; hard tissue gain (HG) = thickness at 5 months. Bone resorption (BR) = BA − HG. Hard tissue gain rate (HGR) = HG/BA × 100. One-sample t-test of HGR against reference value 80% (titanium mesh literature 80–88%). Bony envelope = line connecting the most labial alveolar bone of adjacent teeth; outside envelope = negative, inside = positive. Intra-examiner ICC > 0.90.
+
+Statistical analysis
+SPSS v27. Shapiro–Wilk for distribution. BA vs HG by Wilcoxon signed-rank. Bony envelope across 3 time points by Friedman + pairwise Wilcoxon with Bonferroni. Two-tailed p < 0.05.
+
+Results
+
+Characterization of 3D-PRPM
+Compressive strength decreased with progressive degradation. The 3D-PRPM maintained compressive loads above the 16 N threshold through 4 months, but no measurable strength thereafter. >50% of original weight retained at 4 months in PBS, with substantial weight reduction by 6 months. PLGA MW 50,000 showed marked pH decrease from rapid degradation/acidic by-products; 3D-PRPM (MW 90,000) showed only gradual pH changes, indicating slower degradation.
+
+Patient characteristics
+20 patients with 21 implant sites in final analysis. Mean age 60.5 ± 16.6 years (range 25–83); 11 men (11 sites), 9 women (10 sites). Defects: 5 anterior, 16 posterior. All completed 5-month follow-up without systemic/local complications. No membrane exposure, infection, or wound dehiscence.
+
+Radiographic outcomes (n = 21)
+- BA (mm): 2.99 ± 1.15; median 2.75; range 1.17–5.26
+- HG (mm): 2.64 ± 1.10; median 2.37; range 0.84–4.92
+- BR (BA–HG) (mm): 0.35 ± 0.23; median 0.36; range 0.07–1.04
+- HGR (%): 87.2 ± 8.2; median 89.1; range 71.2–97.4
+Wilcoxon: BA significantly > HG (Z = −4.016, p < 0.001), large effect size (r = 0.88). Hodges–Lehmann median difference 0.35 mm (95% CI 0.21–0.50).
+
+Hard tissue gain rate
+Mean HGR 87.2% ± 8.2% (95% CI 83.4–90.8%; median 89.09%; range 71.2–97.4%). One-sample t-test vs 80% reference: HGR significantly higher (t = 3.99, p < 0.001, Cohen's d = 0.87). Mean difference 7.2% (95% CI 3.4–10.9). Most sites clustered above 85%.
+
+Changes in the bony envelope (n = 21)
+Friedman p < 0.001. Distance from bony envelope to regenerated hard tissue:
+- Baseline: 2.60 ± 1.35 mm (median 2.28; range 0.63–5.14)
+- Post-augmentation: −0.39 ± 1.18 mm (median −0.32; range −2.98–2.32)
+- 5 months: −0.04 ± 1.16 mm (median 0.03; range −2.41–2.77)
+(Positive = within envelope, negative = beyond it.) All sites within envelope at baseline; 14 sites (66.7%) extended beyond the envelope immediately after augmentation, and 10 of these (71.4%) continued to exhibit negative values at 5 months.
+
+Discussion
+First clinical study to evaluate 3D-PRPM for GBR with simultaneous implant placement. Mean horizontal augmentation ~3 mm, 5-month HG 2.64 mm, HGR ~87%. No exposure/infection/dehiscence. Comparable to or slightly higher than titanium mesh outcomes (2–4 mm gain, ~78.6% retention; recent studies 2.9 mm/83% and 3.1 mm/82%; SRs ~3–4 mm). Titanium mesh exposure 15–25% (up to 40–50%); 3D-preformed Ti mesh 5–12%. 3D-PRPM showed favorable augmentation/retention without exposure or secondary removal. Collagen membranes collapse in large/non-contained defects; 3D-PRPM retains PLGA biocompatibility/degradability while providing mechanical stability and preformed design. Additional collagen membrane improved soft tissue adaptation and provided superficial barrier against epithelial downgrowth over the porous structure. Envelope analysis: collagen-membrane GBR contour regresses within envelope during healing, whereas preformed Ti meshes maintain contour outside envelope; 3D-PRPM showed comparable stability (−0.39 mm post-augmentation, −0.04 mm at 5 months). Benefits: simultaneous placement, no fixation needed, resorbable (no secondary removal). Degradation profile (compressive strength >16 N for 4 months) aligns with bone regeneration timeline. Potential applicability in vertical augmentation warrants investigation.
+
+Limitations: small sample, no control group, 3D-PRPM combined with collagen membrane (no membrane-type comparison), 5-month follow-up only (no long-term stability/survival), no histology. Future RCTs with larger samples, longer follow-up, histological assessment needed.
+
+Conclusion
+Within the limitations of this prospective single-arm study, GBR using 3D-PRPM demonstrated predictable horizontal ridge augmentation with high volumetric stability and absence of major complications. Stable space maintenance without fixation or secondary removal.
