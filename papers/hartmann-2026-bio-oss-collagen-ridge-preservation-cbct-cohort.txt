@@ -1,0 +1,96 @@
+Title: Volumetric Analysis of Ridge Preservation Using Bio-Oss Collagen: A Retrospective Cohort Study Based on CBCT and Panoramic Radiographs
+Authors: Katharina Hartmann, Markus Tröltzsch, Amely Hartmann, Sven Otto, Matthias Tröltzsch
+Journal: Medicina (Kaunas, Lithuania) 2026;62(5):888
+DOI: 10.3390/medicina62050888
+PMID: 42195141
+PMCID: PMC13208974
+Publication date: 2026-05-05
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13208974/)
+
+== ABSTRACT ==
+
+Tooth loss affects quality of life and chewing ability and is associated with natural ridge resorption after extraction. Implants are a viable option for the anchorage of removable or fixed prostheses. Successful implant placement requires adequate bone availability. To minimize bone loss after extraction and to avoid the need for additional augmentation before implant placement, ridge preservation techniques are employed. The aim of this study was to assess volume changes in extraction sockets after ridge preservation with a collagen-based bovine/porcine xenogenic material, Bio-Oss Collagen (Geistlich, Switzerland), in molar and premolar regions.
+
+A retrospective study was designed and implemented. Subjects who underwent tooth extraction and consecutive ridge augmentation with Bio-Oss Collagen between 2018 and 2022 and complied with the inclusion criteria were selected. The volume of the tooth root prior to extraction (alveolar socket volume surrogate) was estimated from pre-extraction CBCT scans and panoramic radiographs (predictor variable). The volume of the socket after extraction and ridge preservation was measured in CBCT datasets (outcome variable). The results were tabulated and analyzed (p < 0.05).
+
+The study sample was composed of 80 subjects (37 female, 43 male; 20 premolars, 60 molars; average age: 59 ± 12.5 years). Of those, 60 cases qualified for comparative analyses (27 female, 33 male; 15 premolars, 45 molars; avg. age 59 ± 12.7 years). Compared with the pre-extraction alveolar socket volume in this subset of 60 subjects (maxillary premolar: 195.20 ± 33.40 mm³, maxillary molar: 470.41 ± 99.92 mm³, mandibular premolar: 220.42 ± 102.03 mm³, mandibular molar: 544.76 ± 137.32 mm³), ridge preservation cases still exhibited a volume loss of approximately 3–18% due to residual resorption depending on the location of the augmentation site (volume after ridge preservation: maxillary premolar: 192.07 ± 63.50 mm³, maxillary molar: 381.96 ± 81.38 mm³, mandibular premolar: 199.86 ± 73.70 mm³, mandibular molar: 475.85 ± 152.26 mm³). The highest resorption rates were observed in maxillary molar sites (approximately 18%), whereas maxillary premolar sites showed the lowest rates (around 3%). The study demonstrates that ridge preservation with the xenograft Bio-Oss Collagen (Geistlich, Switzerland) can reduce ridge resorption following tooth extraction.
+
+== FULL TEXT ==
+
+1. Introduction
+
+Tooth loss can negatively affect the quality of life and chewing ability. Implants can restore both the function and aesthetics of the stomatognathic system. The success of oral implants relies on the quality and quantity of the residual alveolar bone.
+
+Naturally, tooth loss leads to progressive ridge resorption as part of the alveolar remodeling process. This process is dynamic and typically lasts approximately 3 months. It leads to significant dimensional alterations, primarily observed as a reduction in bone volume. Resorption is more pronounced horizontally than vertically. In the bucco-oral dimension, the ridge typically decreases by around 4 mm, corresponding to a 30–60% reduction, whereas vertical bone loss averages 1–1.5 mm, or roughly 10–20%.
+
+The buccal alveolar plate is particularly susceptible to resorption, as it depends on the blood supply from the periodontal ligament and the periosteum, which are disrupted by the extraction. It is critical to maintain the alveolar bone support of the buccal plate after extraction for superior implant site development.
+
+Ridge preservation involves techniques aimed at minimizing alveolar ridge resorption. The main goal is to maintain a ridge with a healthy bone structure and sufficient volume, enabling successful implant placement without the need for further augmentation procedures. During ridge preservation, the extraction socket is filled with an appropriate grafting material, which stabilizes the initial blood clot and supports vascularization of surrounding bone.
+
+Collagenated xenografts exhibit promising results in ridge preservation. Most available evidence is from animal studies or small human studies with cohorts of fewer than 30 patients. Volume analyses are rarely performed because they usually require CBCT. However, volume analyses are the only effective method to confirm the true efficacy of alveolar grafting, revealing both horizontal and vertical volume gain or loss.
+
+The aim of this retrospective cohort study was to quantitatively assess volumetric changes in the alveolar ridge following socket preservation with a collagenated bovine xenograft (Bio-Oss Collagen, Geistlich, Switzerland; BO) using CBCT or panoramic radiographs (PR) through manually controlled, validated volume measurements. Hypothesis: the alveolar volume (pre-extraction root volume) could be maintained by alveolar grafting using a collagenated bovine xenograft. Secondary hypothesis: patient- and/or treatment-related factors could be associated with the degree of volumetric preservation.
+
+2. Materials and Methods
+
+Retrospective cohort study. All patients who visited a private practice for oral and maxillofacial surgery in Ansbach, Germany, between 2018 and 2022 and met inclusion criteria were included.
+Inclusion: (1) age > 18 years, (2) carious or periodontally compromised premolars or molars, (3) ridge preservation with Bio-Oss Collagen, (4) no other augmentation in region of interest.
+Exclusion: (1) severe periodontitis, (2) current anti-resorptive medication, (3) absence of preoperative radiographic data and/or incomplete documentation, (4) objection to inclusion.
+IRB: Ethics Committee of Ludwig-Maximilians University of Munich, application number 23-0322.
+
+Predictor variable: original volume of tooth roots within alveolar ridge (apex to crestal bone) in mm³ before extraction (surrogate for ideal volume).
+Primary outcome: postoperative alveolar volume (mm³) after ridge preservation, including periapical region (often with pre-existing periapical osteolysis) and periodontal ligament space — both subsequently filled with newly formed bone and/or BO, so postoperative volume might exceed original root volume in some cases.
+Secondary outcomes: age, tooth location, reason for extraction, diabetes, anticoagulant therapy, success of consecutive implant placement.
+Covariates: sex, perioperative antibiotic administration, periodontitis, smoking status, anticoagulants.
+
+Treatment protocol: Preoperative X-rays (CBCT or PR) + informed consent. Chlorhexidine rinse, local anesthesia (articaine with epinephrine). Atraumatic extraction, alveolus curetted to remove granulation tissue/cysts. Bio-Oss Collagen (BO) 100 mg or 250 mg (collagenated bovine/porcine bone substitute) used to fill alveolus densely but without pressure. Marginal gingiva mobilized, wound edges approximated, sutured with silk 2-0 or 3-0. Postoperative antibiotics at surgeon's discretion (amoxicillin 1000 mg tid, amoxicillin/clavulanic acid 875/125 mg tid, or clindamycin 600 mg tid, max 3 days). Analgesics ibuprofen 600 mg tid. Sutures removed after 7–10 days.
+
+Volume analysis: 3D Slicer (Version 5.3.0) open-source software. Segments: "alveolus" (tooth root apex to crestal bone) and "alveolar ridge"; after preservation "socket", "alveolar ridge", "Bio-Oss Collagen". BO differentiated from socket by being more radiopaque. Total alveolar volume after preservation = socket + xenograft segments. If no pre-extraction CBCT, estimated tooth volume computed from PR using validated estimation protocol. Validated correlation factor applies only to molars; for premolars a dimensionless correlation factor (5.38) was derived from the eight premolars with both pre-extraction CBCT and PR.
+
+Statistics: SPSS v31. Parametric (t-test, ANOVA). Significance p < 0.05. Normality assessed (Kolmogorov–Smirnov, Shapiro–Wilk). Pearson correlation. Regression analysis for covariates. Post hoc power analysis (G-Power 2).
+
+3. Results
+
+Sample: 80 subjects, 43 male, average age 59 ± 12.55 years. Descriptive analyses on full cohort (n = 80); all comparative pre-/postoperative volumetric analyses on subset with complete imaging data (n = 60).
+
+20 subjects had premolars extracted (10 maxilla, 10 mandible). 61 teeth were molars (11 maxilla, 49 mandible). Most common reason for extraction: failed endodontic treatment with apical periodontitis or radicular cyst. Antibiotic prophylaxis for 69 subjects. Vast majority nonsmokers. Relevant medical conditions (diabetes, renal failure, immunosuppression) in 10 subjects; 19 subjects on anticoagulant/antithrombotic therapy.
+
+17 cases had pre-extraction CBCT. Digital PR in 43 cases. 20 subjects had only analog PR or periapical radiograph (could not be evaluated) → excluded from comparative analyses → subset of 60 with complete radiological documentation.
+
+Comparative volume analysis on subset of 60 (33 males, 27 females; mean age 59 ± 12.7 years), 15 premolars and 45 molars. Postoperative augmentation volumes available for all 80.
+
+Average volume of alveolus after ridge preservation (entire cohort): 410.01 ± 192.42 mm³ (premolars: 203.96 ± 59.00 mm³; molars: 478.69 ± 171.08 mm³).
+
+Subset (n=60) analysis:
+- Average tooth root volume (predictor, surrogate for relevant alveolar volume): 451.64 ± 186.86 mm³ (premolars 192.57 ± 42.60 mm³; molars 538.04 ± 125.31 mm³).
+- Average volume after ridge preservation: 394.86 ± 174.85 mm³ (premolars 187.92 ± 57.22 mm³; molars 463.84 ± 143.15 mm³). Of this, on average 334.70 ± 175.36 mm³ was augmented with BO within the alveolus.
+
+These volumes were only slightly smaller or equal to preoperative root volumes.
+
+Difference between root volume and alveolar volume after ridge preservation ranged from 3% to 18%, depending on tooth type and patients' underlying medical conditions (p < 0.008). A significant decrease between predictor and outcome volumes was noted (p < 0.001, t-test). Main volumetric decrease occurred in maxillary molar sites (~18%); maxillary premolar sites lowest (~3%).
+
+Abstract site-specific data (subset n=60):
+Pre-extraction socket volume: maxillary premolar 195.20 ± 33.40 mm³, maxillary molar 470.41 ± 99.92 mm³, mandibular premolar 220.42 ± 102.03 mm³, mandibular molar 544.76 ± 137.32 mm³.
+After ridge preservation: maxillary premolar 192.07 ± 63.50 mm³, maxillary molar 381.96 ± 81.38 mm³, mandibular premolar 199.86 ± 73.70 mm³, mandibular molar 475.85 ± 152.26 mm³.
+
+In 13 cases, a relative volume gain was observed — due to alveolar volume changes during extraction (loss of interdental septum), excessive filling of PDL space, and/or periradicular osteolytic lesions not considered in preoperative root volume calculation. Most likely measurement artifacts rather than true biological volume gain.
+
+Multivariable regression: none of the covariates reached statistical significance (all p > 0.05). Anticoagulant therapy showed largest coefficient (B = 110.1, p = 0.075) but not significant. Antibiotic administration, sex, smoking status, cause of tooth loss: no meaningful associations.
+
+Post hoc power: observed effect size Cohen's d = 0.63; minimum 22 matched pairs needed for 80% power at α = 0.05. Analysis included 60 matched pairs → adequately powered.
+
+The bone volume obtained through ridge preservation was sufficient for implant placement in 78 cases. In remaining 2 cases, bony quality too low to achieve primary implant stability.
+
+4. Discussion
+
+Significant alveolar resorption of 3–18% occurred despite ridge augmentation. Most extensive volume reduction in maxillary molar sites (18%). Null hypothesis rejected. Resorption dependent on tooth type and location; univariate statistics indicated dependency on general medical condition, but regression revealed no independent influence of covariates — initial significance likely driven by confounding (tooth type, defect size).
+
+These resorption rates (3–18%) seem acceptable compared to resorption without ridge preservation (bucco-oral loss ~40–60%, vertical loss ~10–20%). Clinically, what matters is whether an implant can be placed without additional augmentation — achieved in 78/80 subjects.
+
+Limitations: retrospective; uneven distribution of tooth types (molar/premolar, maxilla/mandible); selection bias from imaging availability; pre-extraction root volume surrogate did not include PDL and/or periapical/periodontal osteolytic lesions (may underestimate true defect size → overestimate ridge preservation success). Some cases showed higher post-preservation volume due to bone fill in previously lytic/void areas (measurement artifacts). Premolar calibration factor (5.38 ± 1.94) derived from small subset. No other study examined alveolar volume after ridge preservation in humans with BO at comparable sample size.
+
+5. Conclusions
+
+Within limitations: ridge preservation with a collagenated bovine/porcine bone xenograft was associated with reduced post-extraction alveolar resorption. Resorption rate 3–18%. Most cases proceeded to implant placement without further augmentation, but this is cohort-specific and should not be interpreted as universal. Further (prospective) studies needed.
+
+Keywords: alveolar ridge resorption; cone-beam imaging; tooth extraction; volumetric analysis; xenogeneic bone substitute; xenogeneic collagenous graft
