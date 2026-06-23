@@ -1,0 +1,97 @@
+Title: Impact of Bone Particle Size on Alveolar Ridge Preservation in Periodontally Compromised Molar Extraction Sites
+Authors: Xinbo Yu, Ziang Wu, Chaolun Li, Yiqun Wu
+Journal: International Dental Journal 2026;76(3):109515
+DOI: 10.1016/j.identj.2026.109515
+PMID: 41865493
+PMCID: PMC13019792
+Source: PubMed / PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13019792/)
+
+=== ABSTRACT ===
+
+Introduction and aims
+The clinical efficacy of alveolar ridge preservation (ARP) is well-documented in the literature. However, there is a lack of evidence regarding ARP in the posterior area and in periodontally compromised sites. There is no clinical decision-making guideline on the choice of bone substitute particle size for ARP in periodontally compromised molar sockets. This study aimed to compare the radiographic outcomes and implant feasibility of two deproteinized bovine bone mineral (DBBM) particle sizes for alveolar ridge preservation (ARP) in periodontally compromised molar extraction sockets.
+
+Methods
+A total of 96 patients (96 sites) with stage III/IV periodontitis requiring molar extraction were divided according to DBBM particle size (small particle [SP]: 0.25-1 or large particle [LP]: 1-2 mm). Dimensional and volumetric changes of the alveolar ridge and level of implant placement difficulty (LIPD) were evaluated. Multivariable linear regression was used to adjust for potential confounders.
+
+Results
+LP-DBBM showed a non-significant trend toward increased vertical central socket height (VC; 8.54 ± 2.34 vs 7.76 ± 1.93 mm; P = .077). No significant differences between SP and LP groups were observed for the remaining alveolar dimensional and volumetric changes. However, multivariable linear regression found that socket integrity (number of socket walls with height ≥5 mm; P < .001), jaw (P = .007), and particle size (P = .041) showed significant effects on VC.
+
+Conclusion
+A trend of higher VC using LP after ARP in periodontally compromised molar extraction sockets was observed. The choice of DBBM particle size should be considered alongside site-specific factors, especially socket integrity.
+
+Clinical Relevance
+Understanding the impact of graft particle size on ridge dimensional changes and implant placement feasibility can provide clinical decision-making guidance for ARP in periodontally compromised molar sockets. Larger particle size facilitates superior VC and increases the predictability of subsequent implant treatment.
+
+=== FULL TEXT ===
+
+Introduction
+
+Resorption of the alveolar ridge after tooth extraction is a well-documented and inevitable process. Although dental implants are a reliable option for oral rehabilitation, long-term outcomes are dependent on initial bone quantity and quality. In the posterior region, it has been reported that in the absence of additional intervention after tooth extraction, both horizontal and vertical bone resorption was prominent in molars ranging from 1.20 to 3.61 mm. The proximity of critical anatomical structures in the posterior area including the maxillary sinus and inferior alveolar nerve further complicates implant placement.
+
+The clinical efficacy of alveolar ridge preservation (ARP) in maintaining alveolar ridge dimensions and enabling prosthetically-driven implant placement is well-documented in the literature. However, there is a marked lack of evidence regarding ARP in the posterior area and particularly in patients with severe periodontitis. According to a secondary analysis of the Global Burden of Disease 2021 study, severe periodontitis is projected to affect 1.56 billion individuals in 2050, highlighting that further understanding of treatment options for this patient population is of paramount importance. It has been reported that substantial reduction in ridge height in periodontally compromised sockets (~60%) is present compared to intact sockets (35%). A previous retrospective study also found that delayed cortical changes were present in extraction sites with periodontal bone damage. Although ARP in periodontally compromised sockets is safe, results on dimensional changes remain controversial.
+
+Autogenous bone is recognized as the material of choice for bone grafting procedures due to its biocompatibility and osteoinductive properties. However, the difficulty and increased patient morbidity during bone harvesting has necessitated the use of bone substitute materials. Deproteinized bovine bone mineral (DBBM) is commonly used as an autogenous bone substitute in ARP. Although DBBM is commercially available in two particle sizes (0.25-1 and 1-2 mm), there is no clinical decision-making guideline on the choice of particle size for ARP in periodontally compromised molar sockets, which present marked anatomical variations compared with intact non-molar anterior sockets. Radiographic outcomes of different bone particle sizes have been compared for lateral sinus floor elevation (LSFE) and lateral ridge augmentation (LRA). Large bone particle size significantly improved augmentation stability after one-stage LSFE, but no statistically significant differences in dimensional change were observed between groups after LRA, underscoring the need to investigate its impact at different anatomical locations and baseline ridge morphologies.
+
+To the best of the authors' knowledge, no studies have documented the effect of bone particle size on ARP in periodontally compromised molar extraction sites. Therefore, the present retrospective study aimed to compare the radiographic outcomes and implant feasibility of two DBBM particle sizes for ARP in periodontally compromised molar extraction sites.
+
+Materials and methods
+
+Study design
+This retrospective cohort study included patients diagnosed with periodontitis stage III/IV who underwent tooth extraction and subsequent ARP in molar sites at the Second Dental Center of Shanghai Ninth People's Hospital between January 2020 and December 2024. The study protocol was approved by the Institutional Review Board at Shanghai Ninth People's Hospital (SH9H-2025-T423-1) and adhered to the STROBE guidelines. All patients signed an informed consent form prior to tooth extraction in accordance with the Declaration of Helsinki (1975, revised in 2013).
+
+Inclusion criteria
+(a) ≥18 years of age; (b) need for molar extraction due to periodontitis stage III/IV; (c) the extraction socket was present with a bone dehiscence on at least one wall extending over 50% of the root length; (d) presence of one adjacent tooth; (e) CBCT scans acquired within 3 months of tooth extraction (T0) and 4 to 8 months after ARP (T1).
+
+Exclusion criteria
+(a) presence of systemic diseases; (b) consumption of medication (eg, bisphosphonates, immunosuppressives) that may alter bone metabolism; (c) history of chemotherapy or radiotherapy in the past 5 years; (d) smoking; (e) pregnancy or lactation; (f) low quality CBCT data or artifacts.
+
+Treatment procedure
+Individualized oral hygiene instructions were provided. After local anaesthesia, minimally traumatic flapless extraction was performed using periotomes, elevators, and forceps. Granulation tissue was thoroughly removed during extraction socket debridement, and the socket was rinsed with sterile saline. The extraction sockets were filled with particulate DBBM (Bio-Oss [granulometry 0.25-1 mm or 1-2 mm], Geistlich Pharma AG), covered with a resorbable collagen membrane (Bio-Gide, Geistlich), and secured with simple interrupted and criss-cross sutures (5-0 Vicryl). Healing occurred through secondary intention. All sockets healed uneventfully.
+
+Digital imaging assessments
+A single calibrated examiner (X.Y.) measured both linear and volumetric outcomes in 10 randomly selected patient samples at two time points 2 weeks apart. Formal data assessment commenced once an intra-class correlation coefficient of over 0.9 was achieved.
+
+Linear measurements
+Paired (T0 and T1) CBCT DICOM files were imported into imaging software (Romexis 6.4.7), superimposed after matching at least five anatomical landmarks, and manually adjusted. Buccal and lingual/palatal bone plate thickness was measured at 1 mm below the alveolar crest. Horizontal alveolar bone width changes were measured at 1 (HW1), 3 (HW3), and 5 (HW5) mm below the mid-buccal/lingual/palatal alveolar crest at T0 (Aimetti method). Vertical alveolar bone height changes were measured from the horizontal reference line drawn at the socket apex level to the alveolar bone crest at the buccal (VB) and lingual/palatal (VL) bone plates in mm and percentages. Vertical mesial and distal alveolar bone height were also measured for evaluation of socket integrity. The primary outcome, central height (VC), was measured from the socket apex to the most coronal point of the grafted socket at T1.
+
+Volumetric measurements
+Performed using 3D Slicer 5.7.0; paired CBCTs (T0 and T1) imported, dento-maxillo-facial segmentation used, models superimposed, cropped to socket-of-interest using identical region-of-interest bounding box, and volume quantified. Volumetric changes calculated in cubic millimetres (absolute) and percentages (relative).
+
+Feasibility of implant placement (LIPD criteria)
+Level I: standard implant placement without ancillary bone augmentation (1.5 mm bone surrounding implant); Level II: implant placement with simultaneous bone augmentation and/or osteotome sinus floor elevation (OSFE; ≥5 mm RBH); Level III: staged GBR or lateral sinus floor elevation (LSFE; RBH <5 mm); Level IV: implant placement not possible (RBH <6 mm, extensive vertical augmentation needed, nerve transposition, etc.).
+
+Statistical analysis
+Power calculation (G*Power 3.1), significance 0.05, power 0.90. Assuming a mean VC difference of 0.7 mm between groups, SD 0.345, effect size 0.88; two-tailed analysis found at least 56 patients (28 per group) necessary. SPSS 30.0, MATLAB R2025A. Shapiro–Wilk for normality. Chi-squared for categorical; independent t-tests / Mann–Whitney for continuous; paired t-tests / Wilcoxon signed rank for T0 vs T1. Multivariate linear regression adjusting for age, gender, jaw, tooth position, healing duration, socket wall thickness, socket integrity (number of socket walls with height ≥5 mm), and particle size on VC.
+
+Results
+
+Demographics
+Initially, 589 patients screened. A total of 96 patients (96 extraction sockets) included (37 female, 59 male), mean age 48.89 years (SD 10.66, range 25-73). 1:1 distribution: 48 patients treated with ARP using exclusively small DBBM particles (SP) and 48 with exclusively large DBBM particles (LP). Baseline variables (healing duration, jaw, tooth location, socket wall thickness, number of socket walls ≥5 mm) comparable between groups, no significant differences. Bone resorption to root apex at furcation zone observed for all cases.
+
+Comparison between particle size groups
+No statistical significance was observed in both SP and LP groups at T0 and T1 for all variables of interest (P > .05). All postoperative data for VB, VL, HW1, HW3, HW5 decreased significantly at T1 while volume increased significantly at T1 for both particle size groups (P < .05). At T1, greater VC in the LP group (8.54 ± 2.34 mm) vs SP group (7.76 ± 1.93); statistical significance between groups NOT observed (P = .077). Changes in VB, VL, HW1, HW3, HW5, and volume not statistically significant between SP and LP for both absolute (mm) and relative (%) values (P > .05).
+
+Stratification by baseline VB–VL discrepancy threshold of 2 mm (intergroup and intragroup): intergroup not significant. Intragroup: VC, VB, VL, HW5, volume not significant; significant absolute and relative changes in HW1 (P < .05) and HW3 (P < .05) in both SP and LP groups. For LP group specifically, significant differences between VB–VL discrepancies >2 vs ≤2 mm for HW1 and HW3 at T1 (P < .05).
+
+Buccal vs lingual height resorption (both groups): buccal bone height resorption superior to lingual (−1.90 and −1.97 mm [−23.9 and −31.69%] vs −0.97 and −0.99 mm [−16.42 and −18.74%]). Mean healing duration 6.4 months.
+
+Volume increase superior in LP group (369.44 mm3 [23.78%] vs 239.13 mm3 [17.73%]), no statistical significance.
+
+Feasibility of implant placement
+Based on LIPD criteria, standard-length (≥8 mm) implant placement without bone augmentation (Level I) could be achieved in most sites (70/96, 73%). A total of 26 ARP sites required ancillary bone augmentation: 13 Level II and 13 Level III. Slightly larger number of Level III in SP group vs LP group (8/48 vs 5/48). All Level III designations were in maxillary molar sites requiring LSFE. No sites designated Level IV. LIPD distribution similar between groups (P = .500).
+
+Multivariate linear regression
+With VC as outcome: age, gender, tooth position, healing duration, and socket wall thickness — no significant effect. Significant effects: socket integrity (number of socket walls with height ≥5 mm; Coefficient = 1.027, SE = 0.220, P < .001), jaw (C = 1.077, SE = 0.391, P = .007), and particle size (C = 0.788, SE = 0.380, P = .041). For each additional intact bone wall per socket, VC increased by 1.027 mm. Mean VC after ARP 7.394 mm in maxilla vs 8.844 mm in mandible (favouring mandibular sites).
+
+Discussion
+First study to evaluate radiographic changes and implant feasibility after ARP in periodontally compromised molar extraction sockets using two DBBM particle sizes. Findings: (1) trend that LP DBBM resulted in greater central socket height and volume vs SP, but no significant differences; (2) buccal/lingual ridge height and horizontal ridge width changes similar between groups; (3) in sockets with VB–VL discrepancies >2 mm, significant reductions in HW1 and HW3 vs ≤2 mm for both groups; (4) although similar, fewer sites required complex bone augmentation in the LP group.
+
+Vertical central socket height gain substantial and comparable between groups (7.76-8.54 mm), in line with prior studies (∼8.5 mm). LP graft advantages attributed to better mechanical resistance preventing graft displacement, greater porosity hastening new bone formation, and reduced osteoclastic resorption vs SP. Frequency of ARP sites needing LSFE (within range of prior studies 8.3%-38.9%). Socket integrity profound impact on central socket height; effect of particle size less pronounced than jaw and socket integrity.
+
+Limitations: retrospective design (could not calibrate surgical procedures, baseline characteristics not entirely consistent); CBCTs not taken immediately after extraction; soft tissue/histomorphometric/PRO outcomes unavailable; limited sample size — future large-sample RCTs warranted; smokers excluded (applicability to smokers unknown).
+
+Conclusion
+Within limitations, alveolar ridge dimensions could be maintained regardless of DBBM particle size in periodontally compromised molar extraction sockets undergoing ARP. While large particle DBBM appears to support central socket height gain, baseline anatomical factors such as socket integrity are more critical and should be prioritized during treatment planning.
+
+Source: According to PubMed / PMC (PMC13019792). DOI: https://doi.org/10.1016/j.identj.2026.109515
