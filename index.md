@@ -677,6 +677,7 @@ tags: []
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — El Haddad 2026 · cross-sectional (n=69, 20–29세, 87% 이쑤시개 사용) — **나무 이쑤시개(치간청소)의 위해**: 습관적 사용이 상악 전치부 치간유두를 유의 소실(PPI, P<.05)시켜 블랙트라이앵글 유발; 수직(상하)기법·하루>3회·>3년에서 악화, 치조골·접촉면길이는 무영향. (※ 와타나베 *칫솔질* 토스픽법과는 무관·반대방향) (DOI 10.3290/j.qi.b6912614)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma]] — Dolcezza 2024 · sr+ma · 비외과적 치주치료가 RA 활성도(DAS28 −0.56)와 CAL(−0.41mm)을 유의하게 개선 (RCT 6편)
 - [[periodontics/qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma]] — Qiao 2020 · sr+ma · 치주염이 류마티스관절염(RA) 위험 69%↑(OR 1.69, 13편 >100만명); incident·>5년 RA서 최강 (DOI 10.1016/j.jbspin.2020.04.024)
 - [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — Sooampon 2026 · rct · 무작위 교차시험(n=11): 에리트로신 대체 치태착색제로 D&C Red No.33 비교 — 치태감소율 동등, 잔류착색·맛·제거 우수; FDA 2025.1 에리트로신 식품/내복약 금지 맥락 (DOI 10.1186/s12903-026-08786-6)
 - [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]] — Gusseva 2026 · rct · 교차 파일럿(n=30): 1일 10분 이중광 항균광역학(aPDT) 부가가 치태 ~21%↓(p=0.0001), 통상관리 단독은 무의 (DOI 10.1016/j.jdent.2026.106641)
@@ -1045,6 +1046,7 @@ tags: []
 - [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — Moura 2020 in vitro 3-way factorial: only HF concentration significant (10% > 5%) for Vita Mark II bond strength after 90 days; etching time and phosphoric acid + NaHCO₃ neutralization both non-significant
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
+- [[drug/systemic-disease/sharma-2024-orofacial-complications-systemic-sclerosis]] — Sharma 2024 · narrative-review · 전신경화증 구강 합병증: 소구증·구강건조증·치주염·하악과두 흡수, 임플란트는 혈관병증 평가 전제 시 가능
 - [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Moreno Rabie 2023 (Dentomaxillofac Radiol) · 후향적 case–control(암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT로 MRONJ 위험예측 — MRONJ 환자 32%; 항흡수제군 치조백선 비후·치주인대강 확장·골경화·골용해·격리골↑; 위험인자=다수치 동시발치(p=0.006)·흡연(p=0.004)·짧은 휴약(p=0.021); BP→골경화 우세(74% vs 45%); 골막반응·격리골=pre-clinical MRONJ 표지자
 - [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
 - [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — Maftei 2021 (Antioxidants) · case-control(n=86, 건강 45 + T2DM 41): 타액 8종 마커(OPG/RANKL/HGF/TNF-α/IL-18/MMP-9/TOS/TAC) 발치 전·3개월 후 측정 — baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG가 HbA1c>6.5% 예측(RANKL AUC 0.999), 발치 후 TOS r=+0.777·TAC r=−0.475; 타액=비침습 혈당/치유 지표
@@ -1187,6 +1189,9 @@ tags: []
 - [[resin/jkda-2025-63-9-001]] — In vitro (조선대 소아치과 박소영·지명관 그룹, JKDA 2025, KIAT 지원): 국산 flowable resin composite의 상아질 SBS 평가 — 한국 시장 제품 quality benchmark
 
 ## 인레이 (Inlay)
+- [[inlay/spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue]] — Spitznagel 2025 · in-vitro · 멀티레이어 지르코니아 0.5mm 초박형은 부분피개(PCR)가 크라운보다 파절하중 우위(2047 vs 695N), 크라운은 ≥1.0mm 필요
+- [[inlay/basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping]] — Basheer 2026 · sr · 인레이·온레이·비니어 30편 스코핑, CAD/CAM·3D프린팅 모두 임상허용 변연적합(<120µm), 비니어는 3D프린팅 강점
+- [[inlay/chen-2026-mod-inlay-preparation-material-stress-fea]] — Chen 2026 · in-vitro · MOD 인레이 36모델 FEA: 응력=재료 탄성계수×깊이·폭 상호작용, RBCs 가장 균일·지르코니아 치경부 집중, 깊이4/폭4mm 최소
 - [[inlay/wang-2025-foundation-restoration-onlay-mandibular-molar-endodontic-fea]] — Wang 2025 (FEA, BMC): 근관치료치 온레이 하부 composite foundation — 응력분산↑, 전피개>부분피개, 과도 교합력 주의
 - [[inlay/griffis-2022-tooth-cusp-preservation-lithium-disilicate-onlay-fatigue]] — Griffis 2022 (in-vitro fatigue, JERD): 교두 보존 lithium disilicate 온레이 양호한 피로저항
 - [[inlay/kincses-2023-ceramic-dentin-thickness-luting-intrapulpal-temperature-inlay]] — Kincses 2023 (in-vitro, IJMS): 세라믹 인레이 합착 치수내 온도상승 — 두께·레진시멘트 의존
@@ -1313,6 +1318,7 @@ tags: []
 - [[overviews/food-impaction-proximal-contact-loss-overview]] — 식편압입·임플란트 PCL 종합 (9편 합성, 2026-06-08 신규 카테고리): 임플란트는 mesial drift 미추종 → 시간의존·mesial 우위 PCL이 inevitable·progressive; 통합 mesial 44.2% vs distal 27.5%(Sheba), >5년 29–83.3%(Abduo), 절반 19.2개월 내(Kim 2025); 예방보다 조기 감시·재형성, 고위험(기존 interproximal gap OR 2.7–3.3·인접치 치주상태·기능기간) 식별; prosthesis design RCT 공백
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
+- [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Warnakulasuriya 2025 · narrative-review · 구강편평태선 환자는 당뇨·갑상선·셀리악·간염·우울/불안 위험 유의 상승, 무증상 많아 선별·의뢰 필요
 - [[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — García-Ríos 2022 · sr · SLE 구강증상 SR(15편): 구강궤양 최다(11/14편)·경구개 호발·타액분비저하/Sjögren 동반 흔함 (DOI 10.3390/ijerph191911910)
 - [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
 - [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — Poudel 2026 · sr · 구강건조증(Sjögren 포함)이 수복물 실패 ~2.6–2.9배(재발우식); 임플란트 생존 >90%(방사선성은 낮음); 16편/1227명 (DOI 10.1186/s12903-026-07815-8)
@@ -1364,6 +1370,11 @@ tags: []
 - [[orofacial-pain/pathirathna-2005-t-type-calcium-gaba-neurosteroids]] — Animal(rat) in vivo+in vitro: 5α-환원 신경스테로이드 말초진통은 주로 T-type Ca²⁺ 차단; GABA-A는 증폭 역할 — 폐경 BMS 신경스테로이드 가설 접점 (2005)
 
 ## 악관절·구강안면통증 (TMJ)
+- [[tmj/valenzuela-fuenzalida-2026-arthrocentesis-vs-other-modalities-tmd-sr-ma]] — Valenzuela-Fuenzalida 2026 · sr+ma · 32 RCT(1247명): 관절천자가 다른 치료 대비 통증·MMO·MIO 우월성 없음(VAS p=0.55), 근거 매우 낮음
+- [[tmj/ferland-2026-patient-education-self-management-tmd-sr-ma]] — Ferland 2026 · sr+ma · 47 RCT 환자교육·자기관리 vs 비수술치료: 단기 통증·QoL만 타치료 우세(SMD 0.67·0.61), 전반 우열 불명 very low
+- [[tmj/bader-alzamanan-2026-arthrocentesis-iprf-tmd-meta-tsa]] — Bader Alzamanan 2026 · sr+ma · 관절천자+i-PRF가 TMD 통증 유의 감소(VAS -1.62)·개구량 +5.03mm, TSA로 결정적 확인
+- [[tmj/liu-2026-monoblock-vs-twinblock-splint-addwr-rct]] — Liu 2026 · rct · 신규 단일블록 전방재위치장치가 트윈블록보다 관절잡음 감소(6개월 82% vs 54%)·편안함 우월, 통증·개구량 동등(n=118)
+- [[tmj/fuentes-barria-2026-heterogeneity-tmd-meta-analytic-interpretability]] — Fuentes-Barría 2026 · narrative-review · TMD 관절천자 메타분석 비판 서한: I²=85–98% 극단 이질성·비교군 혼합으로 통합추정치 해석 불가
 - [[tmj/zheng-2023-unilateral-chewing-tmj-structure-tmd-review]] — 서술적 고찰(中 浙江大学学报 2023): 편측저작(Chewing-side Preference)이 TMD 주요 위험인자 — 偏向側 髁突 단소·상방변위(관절 후상방 간극↓)·관절결절 경사도·관절와 깊이↑; TMD 환자 편측저작 비율↑(56.5% vs 건강군), 중증도와 비례(36.8%→65.0%); 기전 3축 — 생물역학(BMP-2·VEGF)·咀嚼筋(CaN Type II→I 전환)·신경원성(P물질·CGRP)
 - [[tmj/santana-mora-2021-asymmetry-chewing-chronic-tmd]] — Santana-Mora 2021 (Ann Anat) · cross-sectional double-blind(n=24, 무처치 정상교합): 습관적 저작측 = TMD 통증측(Kappa=0.767); 환측이 더 가파른 과두 경로(50.5° vs 45.5°)·더 평탄한 측방유도(38.0° vs 47.5°)
 - [[tmj/decarli-2023-mandibular-condyle-unilateral-masticatory-function]] — De Carli 2023 (Orthod Craniofac Res) · animal(rat micro-CT, n=56): 편측 상악대구치 발치로 교합기능 감소 시 성장기 발치측 과두 단면적 증가 못함(길이 유지·박화), 성인 과두는 거의 불변; 악골 측방변위 없는 기능적 비대칭만으로는 과두 비대칭 미발생
@@ -1465,6 +1476,12 @@ tags: []
 
 
 ## 식편압입·치간이개 (Food Impaction / Proximal Contact Loss)
+- [[food-impaction/atieh-2026-open-proximal-contacts-peri-implant-diseases]] — Atieh 2026 · sr+ma · 개방근위접촉 5편·4882임플란트: 주위점막염 위험↑(RR 1.74)이나 골소실·탐침깊이·주위염은 비유의
+- [[food-impaction/cui-2025-prevalence-risk-factors-interproximal-contact-loss]] — Cui 2025 · retrospective · 임플란트 보철 ICL 환자수준 59.8%, mesial 40.0%>distal 24.1%; 위험인자 식편압입·기능기간·이갈이·기계적합병증
+- [[food-impaction/liu-2025-risk-factors-proximal-contact-loss-implant-prosthetic]] — Liu 2025 · retrospective · PCL 독립인자: 식편압입(HR 2.75)·잔존치조제 높이차(HR 2.51)·인접치 골소실>3/8(HR 5.83); 발생률 40.3%
+- [[food-impaction/alsaloum-2026-proximal-contact-loss-interproximal-caries-implants-review]] — Alsaloum 2026 · narrative-review · PCL을 인접면 우식의 직접 위험인자로 재규정, mesial>distal·연 ~10% 진행, Essix로 PCL 감소
+- [[food-impaction/liu-2025-mm-dd-occlusal-adjustment-preventing-open-contacts]] — Liu 2025 · retrospective · MM-DD 교합조정 기법으로 구치부 임플란트 open contact 46.7%→2.7% 격감(15년 접촉생존 96.2%)
+- [[food-impaction/liu-2025-open-contacts-posterior-implants-preventive-concepts]] — Liu 2025 · narrative-review · 후방 임플란트 개방접촉 원인·예방 종합 + MM-DD 교합조정 개념(11.5% vs 통상 34–66%)
 - [[food-impaction/fathi-2022-prevalence-proximal-contact-loss-umbrella]] — Fathi 2022 (umbrella review, 5 SR/MA): 임플란트-인접치 PCL은 주로 open contact, mesial·하악 우위; 성별·전후방 차이 없음
 - [[food-impaction/sheba-2023-interproximal-contact-loss-systematic-meta]] — Sheba 2023 (SR+single-arm MA, 15편): 통합 ICL mesial 44.2%(95% CI 30.6–58.6) vs distal 27.5%; I²=87.8%; 연령·성별·악궁 무관
 - [[food-impaction/ghasemi-2022-prevalence-proximal-contact-loss-meta-analysis]] — Ghasemi 2022 (SR+MA): PCL 유병률·인자 독립 메타분석, mesial 우위; pooled % figure 기반 [미검증]
@@ -1727,6 +1744,11 @@ tags: []
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (2026-06-01 신설, 8편): 근거 2층 구조 — in-vitro 결합강도 강함(Hardan 2022 SR+MA 21편·Magne 2005/2007·Abo-Alazm 2022 universal+치수압) ↔ 임상 POS 정면충돌(Alghauli 2025 11편 감소 P<.05+survival 우위 vs Josic 2022 4편 GRADE low 차이없음). 결론: 간접수복 표준 채택 정당화하나 환자에게 POS 감소 약속 금지.
 - [[overviews/nccl-etiology-diagnosis-management-overview]] — 비우식성 치경부 병소(NCCL) 종합 (2026-06-07 신설, 16편): 병인=stress·friction·biocorrosion 다인성(Grippo 2012 schema·Roberts 2022 demineralization), abfraction 단독원인설 미입증(Nascimento 2016) but SEM microfracture 일부 관찰(Worawongvasu 2021); 무증상 ≥6mo monitoring 원칙; 수복 시 유지력=접착·산부식 단계 의존 — universal adhesive E&R≈SEE(Peumans 2023 RCT 251), selective enamel etching 유리(Omoto 2025 RCT 200), self-adhesive flowable 6mo 33% 실패(Celik 2015). 병인·진단·관찰vs수복 의사결정 ladder.
 ## 교합 (Occlusion)
+- [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] — Jahanbin 2026 · rct · 디본딩 후 교합조정해도 T-Scan 교합접촉 강도·개수 6개월까지 유의차 없음(n=30)
+- [[occlusion/mojaver-2025-occlusal-overload-peri-implant-health-sr]] — Mojaver 2025 · sr · 교합 과부하·외상은 임플란트 변연골소실(0.65–3.0mm)·주위염(20–50%)과 연관(80편, 메타분석 無); 염증 동반 시 증폭
+- [[occlusion/kuriakose-2024-occlusal-schemes-implant-supported-overdentures]] — Kuriakose 2024 · narrative-review · 하악 2-임플란트 오버덴처에서 균형교합이 설측·단일평면교합보다 교합력·저작효율·만족도 우수
+- [[occlusion/gozen-2025-occlusal-force-distribution-digital-analysis-implant-in-vivo]] — Gözen 2025 · in-vivo · 단일 구치부 임플란트 수복 후 교합력 전악 재분배(후방 감소>전방), Medit i700 IOS와 OccluSense 강한 상관
+- [[occlusion/diao-2026-centralized-occlusal-scheme-implant-overdentures-edentulous]] — Diao 2026 · prospective · 견치 정중접촉 추가한 집중교합형이 임플란트 오버덴처 교합접촉·저작효율 ~22% 향상(n=5, abstract-only)
 - [[occlusion/panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication]] — Panagiotopoulou 2023 (Phil Trans R Soc B) · animal: 영장류(rhesus macaque) 하악의 완전한 저작 개구주기 첫 동적 3D FEM — 주기 ~40%에서 최대 strain/moment, 음식물 의존(견과>포도>건과일); 정적 단일시점 FEM이 놓치는 하악 strain을 동적모델이 포착
 - [[occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth]] — Hayashi 2014 (PLoS ONE) · animal(rat n=24): 교합 무자극(hypofunction)이 PDL 두께·치조골 BMD↓; 저출력 레이저(904–910nm) 조사로 대조군 수준 회복 + bFGF·VEGF 양성세포↑
 - [[overviews/occlusal-trauma-periodontitis-overview]] — **Overview**: 교합외상·치주염 종합(4편) — 교합은 발병원인 아닌 수식인자, 스플린팅 생존이득 없음, 교합조정 선택적·제한이득, PDL 확장은 감별폭 넓음 (2026)
