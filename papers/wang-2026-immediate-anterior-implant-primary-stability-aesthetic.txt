@@ -1,0 +1,78 @@
+Title: The success rate and aesthetic outcomes of immediate anterior implant placement based on primary stability: A retrospective study
+Authors: Jinliang Wang, Chunqing Ye, Hongting Li, Mingli Li
+Journal: Medicine (Baltimore) 2026;105(19):e48502
+DOI: 10.1097/MD.0000000000048502
+PMID: 42116334  PMCID: PMC13166788
+
+1. Introduction
+
+Implant rehabilitation in the anterior aesthetic zone carries substantial clinical significance and unique challenges. In this highly visible region, even minor restorative discrepancies can markedly affect patient satisfaction. Loss of a single anterior tooth compromises appearance and speech function and may lead to localized alveolar bone resorption and migration of adjacent teeth. Consequently, reconstructing a natural, harmonious appearance with stable function in the anterior region has long been a central yet difficult objective in implant dentistry.
+
+With respect to the timing of implant placement for missing teeth, 2 strategies are commonly used: immediate and delayed implant placement. Immediate implant placement refers to inserting the implant directly into the extraction socket at the time of tooth removal, whereas delayed implant placement is performed approximately 3 to 6 months after extraction, once soft and hard tissues have healed and stabilized. Immediate placement can shorten the overall treatment course and reduce the number of surgical procedures, while maximizing preservation of the alveolar bone and soft-tissue contours at the extraction site; it is therefore favored by patients in aesthetically demanding anterior cases. However, it also poses specific challenges. Fresh sockets often have thin bony walls and residual gaps, limiting the available bone-to-implant contact for secure anchorage and making adequate primary stability more difficult to achieve.
+
+Although numerous studies have reported outcomes for immediate and delayed placement, results are not entirely consistent and important gaps remain. Most publications indicate survival rates exceeding 95% for both strategies, yet some suggest a slightly higher early failure risk with immediate placement. Aesthetic findings also vary. Some studies report that, without adjunctive tissue management, immediate placement may carry a risk of slight gingival mucosal margin recession; others have shown bone stability and aesthetic outcomes of immediate placement comparable to delayed placement.
+
+Primary stability (i.e., stability at placement) is widely recognized as a key determinant of implant success. During the early post-placement phase, the implant relies on primary stability to resist micromotion, which is a prerequisite for uneventful osseointegration. The insertion torque value (ITV) and the initial stability quotient (ISQ) can be used as indicators of primary stability. Evidence indicates that greater primary stability increases the likelihood of successful osseointegration; conversely, insufficient stability predisposes the implant to micromotion during healing and may compromise osseointegration. Therefore, regardless of whether placement is immediate or delayed, clinicians prioritize optimizing primary stability to support subsequent bone healing and long-term success.
+
+Based on this background, the present study investigates the impact of primary stability on the success rate and aesthetic outcomes of immediate anterior implant placement by comparing immediate and delayed implant placement in the maxillary anterior teeth. A retrospective analysis of 120 patients who underwent either immediate or delayed implant placements was performed. The primary stability, aesthetic outcomes, and overall success rate were assessed at implant insertion and 12 months post-implantation. The aim was to determine whether primary stability influences the success rate of immediate implant placement, offering evidence-based guidance for timing implant placement in the anterior aesthetic zone.
+
+2. Materials and methods
+
+2.1. Study design and participants
+
+This retrospective cohort study included 60 patients who underwent immediate implant placement (observation group) and 60 patients who underwent delayed implant placement (control group). All participants were treated at the Department of Oral Implantology, Wuhan University Stomatological Hospital, for single maxillary anterior tooth (incisor or canine) implant restoration between January 2022 and December 2024. All patients had completed implant surgery at the time of enrollment. The study documented each patient's basic information, including age, gender, tooth loss location, cause of tooth loss, and ITV and ISQ values. The study was conducted in full accordance with the principles of the Declaration of Helsinki and approved by the Medical Ethics Committee of the Hospital of Stomatology, Wuhan University (approval no. WDKQ2026 [B12]), and written informed consent was obtained from all participants. Because this was a retrospective cohort study, no formal a priori sample size calculation was performed. The sample consisted of consecutive eligible patients treated during the study period who met the predefined inclusion and exclusion criteria.
+
+Inclusion criteria: ages 18 to 60 years; medically healthy or well-controlled systemic diseases; single maxillary anterior tooth loss (incisor or canine) with no adjacent or opposing teeth restored; complete postoperative data, including ITV (>=20 N·cm) and stability index (ISQ >= 50); good oral hygiene with stable occlusion and no nocturnal bruxism; intact labial bone plate at the extraction site with no severe soft- or hard-tissue defects; gingival thickness >1 mm with a thick-gingival biotype. Exclusion criteria: uncontrolled active infection at the extraction site (e.g., acute apical periodontitis); severe periodontitis or bone defect at the extraction site; untreated occlusal abnormalities such as severe occlusal trauma or deep overbite; psychiatric disorders affecting treatment compliance; absence of postoperative clinical data and examination records.
+
+2.2. Clinical procedures
+
+All tooth extractions and implant surgeries were performed by experienced surgeons using minimally invasive techniques. After atraumatic extraction, the socket was thoroughly debrided to remove residual periodontal ligament and granulation tissue, irrigated with sterile saline, and inspected to confirm the integrity of the labial bone plate.
+
+In the observation group, immediate implant placement with immediate provisional restoration was performed. Implant size was selected according to socket depth, width, and the distance from adjacent teeth. Implant positioning was prosthetically guided to achieve an appropriate 3-dimensional position and axial orientation. Osteotomy preparation was initiated from the palatal aspect of the extraction socket with a pilot drill and then enlarged sequentially before insertion of a threaded implant (WeGo, Weihai Wego Jericom Biomaterials Co., Ltd.). The implant was placed at the crestal level or 1.0 to 3.0 mm below the alveolar crest, while maintaining an interproximal distance of approximately 2.0 mm from adjacent teeth and a gap of >1.5 mm between the implant neck and the labial bone plate. Final ITV was recorded at placement, and ISQ was measured with an Osstell device. For implants that met the predefined primary stability threshold, deproteinized bovine bone mineral (Geistlich Bio-Oss, Geistlich Pharma AG) was placed around the implant and covered with a collagen membrane (Geistlich Bio-Gide, Geistlich Pharma AG). After abutment adjustment and suturing, a provisional restoration was delivered for temporary aesthetic rehabilitation. Anti-infective therapy was administered for 3 to 5 days postoperatively, sutures were removed after 7 days, and definitive restoration was completed 6 months after implant placement.
+
+In the control group, socket preservation was performed immediately after atraumatic extraction. The extraction socket was grafted with deproteinized bovine bone mineral to approximately 0.5 mm above the alveolar crest and contoured to align with the adjacent bony surface, followed by coverage with a collagen membrane and suturing. Postoperative anti-infective therapy was administered for 3 to 5 days, and sutures were removed after 7 days. After 6 months of healing, implant placement was performed under local anesthesia, followed by immediate provisional restoration. ITV and ISQ were recorded at implant placement. Postoperative management after implant insertion was the same as that in the observation group, and definitive restoration was completed 6 months later.
+
+2.3. Outcomes and follow-up assessments
+
+All patients were examined and data were recorded by 2 trained clinicians at the time of implant placement and 12 months post-placement (i.e., 6 months after final restoration).
+
+2.3.1. Primary stability: ITV recorded at implant placement using the implant motor or a torque wrench, and the ISQ measured with an Osstell IDx resonance frequency analyzer. ISQ was measured once each in the mesial and distal directions, and the mean value was used for analysis.
+
+2.3.2. Implant survival and success: At 12 months after implant placement, implant survival was defined as the implant remaining in situ, regardless of biological or technical complications. Implant success was defined as the absence of clinical mobility, recurrent peri-implant infection with suppuration, persistent pain or discomfort, continuous peri-implant radiolucency, and implant removal. Any implant presenting mobility or requiring removal during follow-up was classified as a failure.
+
+2.3.3. Alveolar (marginal) bone resorption: Standardized, parallel-technique digital periapical radiographs were obtained immediately after implant placement (baseline) and at 12 months. The vertical distance from the nearest crestal bone peak at the implant neck to the abutment interface was measured on the mesial and distal aspects. The mean of the 2 values represented MBL for that implant.
+
+2.3.4. Peri-implant soft-tissue health and aesthetics: Plaque index, mucosal recession, bleeding on probing, and probing depth were recorded. Aesthetic outcomes were evaluated 12 months after implant placement using the PES, which comprises 7 items – mesial papilla height, distal papilla height, labial mucosa curvature, labial mucosa height, labial root area convexity, soft-tissue color, and soft-tissue texture – each graded 0 to 2 (total score 0–14; higher = better). Mean of 2 independent examiners' PES ratings was used.
+
+2.3.5. Patient-reported satisfaction: A visual analogue scale (0–10 per item) was administered 12 months after implant placement.
+
+2.4. Statistical analysis: SPSS. Independent-samples t test for continuous variables and chi-square test for categorical variables. P < .05 significant.
+
+3. Results
+
+3.1. General results: Observation group 34 men/26 women, mean age 36.31 ± 8.43 yr (20–58). Control group 32 men/28 women, mean age 35.69 ± 8.89 yr (19–60). No significant baseline differences in age (P=.696), sex (P=.714), tooth sites (P=.850), causes of loss (P=.816). Sites: incisor 35.0%/33.33%, lateral incisor 55.0%/53.33%, canine 10.0%/13.33%. Causes: injury 25.0%/26.67%, caries 63.33%/58.33%, chronic apical periodontitis 11.67%/15.0%.
+
+3.2. Implant success: 12-month success 98.33% (59/60) observation vs 96.67% (58/60) control, P=.559. 3 failed implants (1 observation, 2 control).
+
+3.3. Stability: Peri-implantitis in 3 patients (1 observation, 2 control) with significant MBL; removed at patient request after conservative management failed; classified as failures. 117 patients (59 observation, 58 control) available for 12-month in-situ outcomes.
+- Primary ITV: 31.53 ± 8.72 vs 36.27 ± 7.95 N·cm, P=.003
+- Primary ISQ: 63.10 ± 5.72 vs 71.46 ± 4.28, P<.001
+- Final ITV (12mo): 36.49 ± 7.28 vs 37.15 ± 5.77, P=.588
+- Final ISQ (12mo): 69.74 ± 9.17 vs 70.62 ± 8.35, P=.589
+- MBL (12mo): 0.48 ± 0.07 vs 0.85 ± 0.18 mm, P<.001
+
+3.4. Soft-tissue and aesthetic outcomes (12mo): No significant differences in plaque index (P=.583), mucosal recession (P=.078), bleeding on probing (P=.417), probing depth (P=.323). Significant aesthetic advantages for immediate group: labial mucosa curvature (1.25 vs 1.08, P=.006), labial mucosa height (1.83 vs 1.72, P=.032), soft-tissue texture (1.88 vs 1.75, P<.001), PES total (11.47 ± 0.96 vs 10.05 ± 1.36, P<.001). Non-significant PES items: mesial papilla (P=.707), distal papilla (P=.810), labial root convexity (P=.603), soft-tissue color (P=.707).
+
+3.5. Patient-reported satisfaction (VAS): Significantly higher in observation group for peri-implant keratinized mucosal height (8.73 vs 7.87, P=.024), overall aesthetics (9.19 vs 8.25, P=.004), treatment duration perception (9.21 vs 7.05, P<.001), number of surgical procedures perception (8.48 vs 6.85, P<.001), total VAS score (54.47 vs 46.24, P<.001). No difference in color (P=.844), masticatory function (P=.756).
+
+3.6. Adverse events: Both groups <10% mild adverse events (gingivitis, early wound infection). Peri-implantitis 1 observation/2 control → removed when conservative therapy failed. No metal exposure. Total AE incidence 10.0% vs 13.33%, P=.570.
+
+4. Discussion (key points)
+
+Despite significantly lower primary stability at insertion (both ITV and ISQ) in the immediate group, 12-month success exceeded 96% in both groups without significant difference, and the ISQ gap resolved by 12 months. Under strict indications and sufficient primary stability (ITV >= 20 N·cm and ISQ >= 50; text also cites ITV >= 30 N·cm as adequate), immediate anterior implant placement achieves biologic outcomes comparable to delayed placement with superior aesthetic/experiential benefits. Patel et al pooled survival 97.4% immediate vs 97.5% delayed. Granić et al reported mean ISQ ~61.4 at immediate vs 64.2 at healed sites, with the difference resolving over time — consistent with this cohort. Aesthetic advantage attributed to reduced post-extraction ridge remodeling and immediate provisionalization supporting peri-implant soft tissue / emergence profile. MBL difference modest (0.37 mm) but potentially clinically meaningful in esthetic zone; PES difference 1.42 points. Socket-shield was NOT used.
+
+Limitations: applicable only to selected cases with adequate intraoperative primary stability; single-center with strict inclusion (intact labial plate, thick biotype, good hygiene); modest sample size, short (12-month) follow-up, no a priori sample size calculation; inter-examiner reliability for PES not formally assessed.
+
+5. Conclusions
+
+In the anterior aesthetic region, under strict indications and adequate primary stability, immediate implant placement achieves 1-year survival and osseointegration stability comparable to delayed placement, while better preserving soft- and hard-tissue contours, improving aesthetic outcomes, and enhancing patient satisfaction by shortening the timeline and reducing surgical procedures.
