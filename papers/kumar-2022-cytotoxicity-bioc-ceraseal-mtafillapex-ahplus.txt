@@ -1,0 +1,87 @@
+Cytotoxicity evaluation of Bio-C, CeraSeal, MTA-Fillapex, and AH Plus root canal sealers by microscopic and 3-(4,5 dimethythiazol-2yl)-2,5-diphenyltetrazolium bromide (MTT) assay
+
+Journal of Conservative Dentistry (J Conserv Dent)
+PMID: 36908731 | PMCID: PMC10003288 | DOI: 10.4103/jcd.jcd_320_22
+Source: PubMed Central full text (PMC10003288)
+
+ABSTRACT
+
+Aim:
+The aim of this study was to compare the cytotoxic effect of calcium silicate-based Bio-C, CeraSeal, and mineral trioxide aggregate (MTA)-based (MTA-Fillapex) sealers to a widely used resin-based sealer (AH Plus) using MTT assay and microscopic examination.
+
+Materials and Methods:
+A total of n = 36 samples divided into four groups with three sealer samples per time period of 0 h, 24 h, and 7 days after mixing were extracted in cell culture medium using Dulbecco's Modified Eagle's Medium. The cytotoxicity of these sealers was evaluated using an MTT assay on L929 mouse fibroblasts, and changes in cell morphology were observed under an inverted phase-contrast microscope (x20). Values were analyzed using one-way ANOVA, Tukey's post hoc, and Bonferroni's test.
+
+Results:
+Bio-C and CeraSeal showed a reduction in cytotoxicity from severe at 0 h to no cytotoxicity at 24 h and 7 days. AH Plus showed severe cytotoxicity at all time periods. MTA-Fillapex showed severe cytotoxicity at 0 h which decreased to moderate at 24 h and 7 days. Between-group differences were statistically significant (P < 0.05).
+
+Conclusions:
+Resin-constituent sealers (AH Plus and MTA-Fillapex) showed severe-to-moderate cytotoxicity at different time periods, whereas calcium silicate-based sealers (Bio-C and CeraSeal) were relatively biocompatible as their cytotoxicity decreased significantly from severe initially to noncytotoxic with time.
+
+INTRODUCTION
+
+Leaching of extracts/elutes of sealers from the root canal due to contact with extracellular fluids, or inadvertent periradicular extrusion during obturation, may cause persistent inflammation (pain, tenderness, swelling, delayed healing). Hence, a root canal sealer should be biocompatible and well tolerated.
+
+AH Plus (Dentsply, Germany) is a two-paste conventional epoxy resin-based sealer, widely used and employed as the "gold standard" due to excellent physicochemical properties; however, poor cytocompatibility is its biggest limitation.
+
+MTA-Fillapex (Angelus, Brazil) is a salicylate resin-based sealer containing MTA particles, bismuth trioxide, pigments, and silica. It has suitable physicochemical properties (good radiopacity, flow, alkaline pH), but biocompatibility results conflict across studies.
+
+Bio-C Sealer (Angelus, Brazil) and CeraSeal (Meta Biomed, Korea) are premixed ready-to-use bioceramic sealers based on calcium silicate and its compounds plus various metal oxides. Both have good physicochemical properties. Comparative biological data are limited, so cytotoxicity needs evaluation.
+
+Objective: compare cytotoxicity and microscopic cell-morphology changes of calcium silicate-based (Bio-C, CeraSeal) and MTA-based (MTA-Fillapex) sealers vs resin-based AH Plus on L929 mouse fibroblasts using MTT assay. Hypothesis tested: all sealers have the same cytotoxic effect on L929 mouse fibroblasts.
+
+MATERIALS AND METHODS
+
+Growing cell cultures:
+L929 mouse fibroblasts (ATCC, USA) in 25-cm2 culture flasks, cultured in Dulbecco's Modified Eagle's Medium (HiMedia) with 10% fetal bovine serum, 4 mmol/L glutamine, 100 IU/ml penicillin, 100 ug/ml streptomycin. After trypsinization, cells seeded (5 x 10^4 cells per well) in 96-well plates, incubated 24 h in 5% CO2/95% air at 37C to a subconfluent monolayer.
+
+Sample preparation and elution:
+All sealers mixed per manufacturer directions, placed into sterile Teflon molds (4 mm x 2 mm). Eluted per ISO-10993-12:2021 by adding 1 ml of serum-containing media per vial at extraction ratio 0.1 g/ml.
+
+Addition of elute/extract to cells:
+Cytotoxicity test using extract on cells per ISO 10993-5:2009. Three discs per material per time period: 0 h (freshly mixed), 24 h, 7 days. Hence 9 samples per material, total 36 (9 x 4) samples. 100 ul test elute added to 6 wells per material per time period of already cultured L929 fibroblasts in 96-well plates. Positive control: 6 wells per material with 100 ul of 130 mg% phenol. Negative control: equal number of cell wells without addition. Cells incubated 48 h in 5% CO2 at 37C.
+
+MTT assay:
+MTT solution prepared as 1 mg/mL in PBS just before use. 100 uL MTT dye added to each well. Plates incubated in CO2 incubator 3 h. Optical density determined by eluting dye; spectrophotometric absorbance measured at 550 nm using Bio-Rad ELISA plate reader. Percentage cell viability calculated relative to control.
+
+Cytotoxicity rated based on % cell viability relative to control group: severe (<30%), moderate (30%-60%), slight (61%-90%), or noncytotoxic (>90%).
+
+Microscopic examination:
+After 48 h incubation with test elutes, before MTT assay, cells observed under phase-contrast inverted microscope (Leica DM IL) for morphology, photographed at x20 (Leica DFC 180), assessing vacuolization, cell lysis, membrane integrity, confluency, empty spaces between cells. Graded per US Pharmacopeia Reactivity Grades for Elution Test.
+
+Statistical analysis:
+SPSS v22.0. Descriptive: % cell viability as mean +/- SD. One-way ANOVA + Tukey's post hoc to compare mean % cell viability between four groups at each time interval. Repeated-measures ANOVA + Bonferroni to compare across time intervals within each group. Significance P < 0.05.
+
+RESULTS
+
+TABLE 2 — Mean % cell viability (n=6 per cell) by group and time interval:
+
+Bio-C:        0 h = 29.797 +/- 2.343 (min 25.76, max 32.76); 24 h = 91.433 +/- 1.339 (89.88-93.65); 7 days = 93.575 +/- 2.602 (89.98-96.87). Across-time P < 0.001. T0 vs T1 P<0.001; T0 vs T2 P<0.001; T1 vs T2 P=0.55.
+CeraSeal:     0 h = 29.943 +/- 0.899 (28.79-31.34); 24 h = 96.390 +/- 1.447 (93.76-97.65); 7 days = 97.193 +/- 1.506 (94.65-98.88). Across-time P < 0.001. T0 vs T1 P<0.001; T0 vs T2 P<0.001; T1 vs T2 P=0.02.
+MTA-Fillapex: 0 h = 14.935 +/- 1.487 (12.78-16.54); 24 h = 51.467 +/- 2.993 (46.98-54.76); 7 days = 59.650 +/- 2.188 (56.43-61.65). Across-time P < 0.001. T0 vs T1 P<0.001; T0 vs T2 P<0.001; T1 vs T2 P=0.02.
+AH Plus:      0 h = 12.492 +/- 2.569 (9.93-16.61); 24 h = 22.730 +/- 2.727 (19.09-26.98); 7 days = 28.888 +/- 1.998 (25.98-30.87). Across-time P < 0.001. T0 vs T1 P=0.01; T0 vs T2 P<0.001; T1 vs T2 P=0.001.
+
+TABLE 1 — Selected between-group mean differences (Tukey's):
+0 h: Bio-C vs CeraSeal -0.147 (P=0.99, NS); Bio-C vs MTA-Fillapex +14.862 (P<0.001); Bio-C vs AH Plus +17.305 (P<0.001); MTA-Fillapex vs AH Plus +2.443 (P=0.16, NS).
+24 h: Bio-C vs CeraSeal -4.957 (P=0.006); CeraSeal vs MTA-Fillapex +44.923 (P<0.001); CeraSeal vs AH Plus +73.660 (P<0.001); MTA-Fillapex vs AH Plus +28.737 (P<0.001).
+7 days: Bio-C vs CeraSeal -3.618 (P=0.04); CeraSeal vs AH Plus +68.305 (P<0.001); MTA-Fillapex vs AH Plus +30.762 (P<0.001).
+
+Summary: Bio-C and CeraSeal showed higher mean cell viability than AH Plus and MTA-Fillapex at all time intervals (P < 0.001). All sealers showed severe cytotoxicity at 0 h (<30% viable). Cytotoxicity greatly reduced at 24 h and 7 days for Bio-C and CeraSeal, becoming noncytotoxic (>90% viable). MTA-Fillapex was moderate at 24 h and 7 days (<60% viable). AH Plus remained severely cytotoxic even after 7 days.
+
+Microscopy (x20): At 0 h all groups showed empty spaces filled with debris/particulate matter, few normal cells, majority small/rounded/granulated/vacuolated (severe cytotoxicity). Bio-C and CeraSeal at 24 h and 7 days: normal morphology, subconfluent monolayers, no cell lysis (noncytotoxic). MTA-Fillapex at 24 h: smaller cells, more numerous than 0 h, mostly round with few spindle-shaped, normal morphology (moderate toxicity); at 7 days increased in number/size but with vacuolization and membrane disruption in few cells, overall <60% lysed (moderate). AH Plus continued severe cytotoxic morphology at 24 h and 7 days.
+
+DISCUSSION
+
+Null hypothesis rejected: Bio-C, CeraSeal, MTA-Fillapex significantly less toxic than AH Plus; Bio-C and CeraSeal showed comparative cytotoxicity, severe at 0 h, decreasing to noncytotoxic at 24 h and 7 days. Differences in toxicity at various elution times may relate to degree of setting (per Huang et al). L929 fibroblast MTT assay gives quantifiable, reproducible results.
+
+Both Bio-C and CeraSeal are calcium-silicate-based; on hydration form calcium silicate gel and calcium hydroxide, releasing Si, Ca, OH ions during setting. Freshly mixed elutes release very high Ca2+ and OH- affecting calcium homeostasis (raised pH, high Ca), driving apoptosis/cell death — explaining severe toxicity at 0 h. Bio-C, compared to CeraSeal, has traces of aluminum, tungsten, iron oxide (slightly cytotoxic), accounting for slightly lower viability of Bio-C vs CeraSeal. CeraSeal viability significantly increased at 24 h vs other groups. Consistent with Lopez-Garcia et al (CeraSeal higher cell viability, attachment, migration, ion-release) and Oh et al (CeraSeal higher TGF-beta, an anti-inflammatory cytokine, than AH Plus).
+
+MTA-Fillapex is salicylate resin-based; should not be regarded as a tricalcium silicate sealer — no intrinsic bioactive potential, composition primarily resin with 15% MTA powder as a minor additive. Toxicity attributed to salicylate resin matrix and bismuth oxide (both induce apoptosis). Absorbs less water, releases significantly less Ca, less alkalinizing/apatite-deposition activity than calcium silicate sealers; resin renders MTA component relatively inert. High flowability/setting time from unbalanced resin:MTA ratio may prolong dissolution of toxic compounds.
+
+AH Plus fresh extract exerted severe cytotoxicity at all time periods. AH Plus contains formaldehyde, Bisphenol A, epoxy resins (all cytotoxic). Cytotoxicity of resin materials attributed to leaching of unpolymerized monomers from incomplete polymerization; epoxy resin is mutagenic, may break cellular DNA. Although fresh AH Plus gradually became less cytotoxic over time, it remained severely detrimental to cell viability even fully set.
+
+Limitations: in-vitro study; did not account for products leached periapically being constantly washed by circulating blood. Future in-vivo work (subcutaneous tissue implantation, endodontic usage test models) needed.
+
+CONCLUSIONS
+
+Calcium silicate-based sealers are less cytotoxic and more biocompatible than MTA-Fillapex and AH Plus. Resin-constituent sealers (AH Plus, MTA-Fillapex) showed severe-to-moderate cytotoxicity; calcium silicate-based sealers (Bio-C, CeraSeal) were relatively biocompatible, with cytotoxicity decreasing significantly from severe initially to noncytotoxic with time.
