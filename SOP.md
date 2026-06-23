@@ -3,7 +3,7 @@
 
 논문 1편 추가부터 사이트 반영까지의 표준 작업 절차. 본인 참고용.
 
-작성: 2026-05-21 · v1
+작성: 2026-05-21 · v1 / 개정: 2026-06-23 · v2
 
 ---
 
@@ -61,12 +61,13 @@ Claude가 자동 수행 (CLAUDE.md Step 1~4):
 
 ```bash
 cd ~/llm-wiki
-python3 scripts/lint.py            # frontmatter 필수 9개 필드
-python3 scripts/orphan-check.py    # PDF ↔ sources 1:1 매칭
-python3 scripts/find-no-wiki.py    # 모든 paper에 wiki 페이지
+python3 scripts/lint.py                          # frontmatter 필수 9개 필드
+python3 scripts/orphan-check.py                  # PDF ↔ sources 1:1 매칭
+python3 scripts/find-no-wiki.py                  # 모든 paper에 wiki 페이지
+python3 scripts/supersession-audit.py --ci       # 깨진 링크·배너 desync → exit 1
 ```
 
-3개 모두 ✅이면 GitHub Actions도 통과 확신.
+4개 모두 ✅이면 GitHub Actions도 통과 확신. `--ci`는 decay 후보는 무시하고 hard error(dangling / desync / transitivity chain)만 잡는다.
 
 ### Step 4 — git commit + push
 
@@ -233,14 +234,15 @@ agenda 채우고 Cowork 세션 열어서 "이 agenda 진행해줘"라고 하면 
 
 agenda 없이 슬라이드부터 만들지 말 것. 출처 추적이 끊긴다. Lint(`operations-lint.py`)가 잡아낸다.
 
-### Lint 4종 한 번에
+### Lint 5종 한 번에
 
 ```bash
 cd ~/llm-wiki
 python3 scripts/lint.py && \
 python3 scripts/orphan-check.py && \
 python3 scripts/find-no-wiki.py && \
-python3 scripts/operations-lint.py
+python3 scripts/operations-lint.py && \
+python3 scripts/supersession-audit.py --ci
 ```
 
 `operations-lint.py`가 검사하는 것:
@@ -471,6 +473,81 @@ gh run list --workflow=deploy-pages.yml --limit 3   # gh CLI 설치 시
 
 ---
 
+## 2-ter. Supersession CI 편입 (v2 추가)
+
+`supersession-audit.py --ci`가 GitHub Actions lint workflow의 5번째 step으로 편입됐다.
+
+| 검사 유형 | --ci 동작 | 일반 실행 |
+|---|---|---|
+| Dangling link (target stem 없음) | **exit 1** (CI fail) | 로그만 |
+| Banner desync (필드↔배너 불일치) | **exit 1** (CI fail) | 로그만 |
+| Transitivity chain stale (A→B, B→C인데 A가 B 가리킴) | **exit 1** (CI fail) | 로그만 |
+| Decay 후보 (5년↑ 고근거, 미대체) | exit 0 (pass) | 로그만 |
+
+fix 절차: 로컬에서 `python3 scripts/supersession-audit.py --stdout` 실행 → ⚠ 항목 수정 → 재커밋.
+
+---
+
+## 2-quater. OPERATIONS 폴더 민감도 정책 (v2 추가)
+
+현재 `agenda/`·`note-meeting/`·`peer-review/` 등 OPERATIONS 폴더는 public repo에 올라가지만 사이트에는 노출 안 된다(deploy workflow가 `wiki/`만 복사). 진짜 민감 자료(환자 식별 가능 정보, 법적 분쟁 자료)는 별도 처리:
+
+**단기**: `private/` 폴더 사용 (이미 `.gitignore` + `quartz ignorePatterns` 등록).
+
+**장기(선택)**: OPERATIONS 폴더를 private repo로 분리.
+1. `git subtree split --prefix=agenda/ -b split-agenda` 등으로 폴더별 히스토리 분리
+2. private repo `llm-wiki-ops` 생성 후 push
+3. `llm-wiki` 에서 OPERATIONS 폴더 제거 + `.gitignore` 갱신
+4. Claude 세션에서는 두 repo 모두 접근 (별도 작업 디렉토리)
+
+이 마이그레이션은 수동 작업이며 SOP에서 완료 시 이 항목을 갱신한다.
+
+---
+
+## 2-quinquies. 근거 등급 단일 참조 (v2 추가)
+
+등급 정의·supersession 규칙은 **`references/evidence-ladder.md`** 가 유일한 출처다. `confidence:` 값 선택, supersession 판단 기준, `rob:` 보조 필드 모두 이 파일 참조. CLAUDE.md·SOP.md 내 인라인 설명은 요약이고, 충돌 시 `evidence-ladder.md` 우선.
+
+RoB 필드 (옵션, rct 이상 논문에서 동등 등급 충돌 시 판단 보조):
+```yaml
+rob: low         # low | some-concerns | high
+```
+
+---
+
+## 6-bis. Quartz 버전 drift 관리 (v2 추가)
+
+Quartz는 `npm` 패키지로 관리된다. 커스텀 수정(`quartz/` 하위 직접 편집)이 있으면 upstream 업그레이드 시 충돌이 날 수 있다.
+
+### 주기적 점검 (분기 1회)
+
+```bash
+cd ~/llm-wiki
+npm outdated          # 현재 버전 vs latest 확인
+```
+
+Quartz 패치 버전(4.5.x → 4.5.y) → 직접 `npm update` 후 로컬 빌드 확인 후 push.  
+Quartz 마이너(4.5 → 4.6) → 변경 노트 먼저 확인, 커스텀 파일과 충돌 검토 후 적용.
+
+### 커스텀 파일 격리 패턴
+
+Quartz 원본 파일을 직접 수정하지 말고, 커스텀 파일을 별도 경로로 유지:
+
+```
+quartz/
+  quartz.config.ts       ← upstream 원본 (minimal edit만)
+  quartz.layout.ts       ← upstream 원본 (minimal edit만)
+  custom/                ← 우리 커스텀만 (새 컴포넌트, 테마 오버라이드)
+    CustomFooter.tsx
+    custom.scss
+```
+
+업그레이드 후 `quartz/custom/`만 다시 연결하면 충돌 최소화.
+
+현재 버전: Quartz v4.5.2 (2026-05-21 기준). 다음 점검: 2026-09.
+
+---
+
 ## 10. 다음 작업 후보 (선택 사항)
 
 1. **자동 watcher 확장** — `.claude/scripts/ingest-watcher` 기능 검토, PDF만 떨어뜨려도 자동 ingest되게
@@ -481,4 +558,4 @@ gh run list --workflow=deploy-pages.yml --limit 3   # gh CLI 설치 시
 
 ---
 
-마지막 업데이트: 2026-06-19 (1-bis Literature Surveillance 섹션 추가)
+마지막 업데이트: 2026-06-23 · v2 (6개 개선 반영: supersession CI·OPERATIONS 정책·근거사다리 통합·transitivity chain·버전 drift)
