@@ -1,0 +1,66 @@
+Wide Restorative Emergence Angle Increases Marginal Bone Loss and Impairs Integrity of the Junctional Epithelium of the Implant Supracrestal Complex: A Preclinical Study
+Strauss FJ, Park JY, Lee JS, Schiavon L, Smirani R, Hitz S, Chantler JGM, Mattheos N, Jung R, Bosshardt D, Cha JK, Thoma D.
+J Clin Periodontol. 2024;51(12):1677-1687. doi:10.1111/jcpe.14070. PMID 39385502. PMCID PMC11651719.
+Source: PubMed Central full text (PMC11651719). DOI https://doi.org/10.1111/jcpe.14070
+
+== ABSTRACT ==
+Aim: To assess the influence of the emergence angle on marginal bone loss (MBL) and supracrestal soft tissue around dental implants.
+Materials and Methods: In six mongrel dogs, the mandibular premolars and molars were extracted. After 3 months of healing, four dental implants were placed in each hemimandible. The implants were randomly allocated to receive one of four customized healing abutments, each with a different value of the restorative emergence angle: 20°, 40°, 60° or 80°. Intra-oral radiographs were taken after placing the healing abutments and at 6, 9, 16 and 24 weeks of follow-up. Then, micro-CT and undecalcified histology and synchrotron were performed. MBL over time was analysed with generalized estimating equations (GEEs) and adjusted for baseline soft-tissue thickness.
+Results: From implant placement to 24 weeks, GEE modelling showed that the MBL at mesial and distal sites consistently increased over time, indicating MBL in all groups (p<0.001). The model indicated that MBL varied significantly across the different restorative angles (angle effect, p<0.001), with 80° showing the greatest bone loss. Micro-CT, histology and synchrotron confirmed the corresponding trends and showed that wide restorative angles (60° and 80°) impaired the integrity of the junctional epithelium of the supracrestal tissue.
+Conclusions: A wide restorative angle increases MBL and impairs the integrity of the junctional epithelium of the implant supracrestal complex.
+
+== INTRODUCTION ==
+The influence of an implant-supported crown's restorative angle on peri-implant health has become a trending topic. Suboptimal prosthetic design with poor cleansability contributes to peri-implant tissue inflammation. There are currently no evidence-based implant prosthetic guidelines for single crowns. The emergence (restorative) angle is defined as the angle between the average tangent of the transitional contour relative to the long axis of the implant (Glossary of Prosthodontic Terms 2023). It has been postulated that an emergence angle threshold above 30° may increase the risk of peri-implantitis (Katafuchi et al.; Schwarz et al.; Yi et al.). Prospective clinical studies suggested angles exceeding 40° could contribute to increased initial MBL. MBL remains a major success criterion. In cases of thread exposure, progressive vertical bone loss occurs in 50% of cases and may lead to mucosal recession and BOP. Most existing evidence derives from cross-sectional or cohort studies (confounding). The commonly cited 30°/40° thresholds were arbitrarily chosen from one preclinical tooth-supported crown study (30°) or the mean implant restorative angle (40°). There is a lack of histological studies on the buccal aspect. Aims: (i) test whether emergence angle affects initial MBL and supracrestal soft tissue; (ii) determine an emergence angle threshold below which MBL is attenuated.
+
+== MATERIALS AND METHODS ==
+Animals: Six male mongrel dogs (12-17 kg). 3Rs principle, ARRIVE guideline. IACUC approved (Yonsei Medical Center, Seoul; IRB No. 2022-0174).
+Surgery 1 (extraction): mandibular P1-P4 and M1 extracted after hemisection; ridge flattened, primary healing.
+Surgery 2 (implant placement): 3 months after extraction. Full-thickness flap, soft tissue thickness measured (UNC 15 probe). Four implants per hemimandible (Conelog screw-line, Camlog, 7 mm length, 3.8 mm diameter), placed at bone level, min insertion torque 15 Ncm. Each implant randomly allocated to immediately receive one of four customized abutments: 20°, 40°, 60° or 80°. Flap sutured 5.0 non-resorbable.
+Surgery 3 (sacrifice): 24 weeks after implant placement. Euthanized; specimens fixed in 10% formaldehyde.
+2D radiographic analysis: periapical radiographs (paralleling) at abutment insertion and 6, 9, 16, 24 weeks. MBL = distance from implant shoulder to first bone-to-implant contact. Inter-thread pitch 0.7 mm for calibration. ImageJ. ICC = 0.99.
+Micro-CT: SkyScan 1072, 35 μm, 100 kV / 100 μA. fBIC measured at mesial, distal, buccal sites.
+Clinical parameters (24 weeks): BOP and plaque control record (PCR), dichotomous, 4 sites.
+Histology: undecalcified, 48 implant sites. PMMA-embedded, 50-60 μm sections (Donath & Breuner), Toluidine blue. fBIC at mesial/distal/buccal. Descriptive buccal soft tissue. Distance from apical termination of thickest inflammatory infiltrate to fBIC measured.
+Synchrotron: 24-week samples (Pohang Light Source-II Beamline 6C). Amira reconstruction.
+Statistics: GEE adjusted for soft-tissue thickness, Bonferroni. Kruskal-Wallis + Dunn for histomorphometry. Significance 5%.
+
+== RESULTS ==
+All implants osseointegrated; no losses or technical complications during 24 weeks.
+
+Influence on Marginal Bone Level — Radiographic:
+- MBL increased over time in all groups (time effect, p<0.001).
+- MBL varied significantly across angles (angle effect, p<0.001), 80° greatest. Wider angle → greater MBL.
+- Interaction time × angle, p<0.001.
+- Adjusting for baseline soft tissue thickness: similar findings, no significant influence of soft tissue thickness (p=0.915).
+- Mean MBL at 24 weeks: 20° = 0.07 ± 0.20 mm; 40° = 0.11 ± 0.27 mm; 60° = 0.23 ± 0.31 mm (>double); 80° = 0.38 ± 0.27 mm (~4× the 20° group).
+
+Micro-CT fBIC:
+- Mesial/distal sites: 20° = 0.10 (0.25); 40° = 0.13 (0.33); 60° = 0.20 (0.35); 80° = 0.40 (0.33) mm. Inter-group p<0.0001. 80° highest.
+- Buccal sites: 20° = 0.99 (1.20); 40° = 2.09 (2.28); 60° = 1.16 (0.86); 80° = 1.66 (1.42) mm. p=0.637 (NS); tended to rise with angle.
+
+Synchrotron: 3D reconstructions confirm trend; minimizes artefacts, better depiction of buccal bone loss as angle increases.
+
+Clinical parameters (24 weeks):
+- BOP: 20°=14%, 40°=25%, 60°=31%, 80°=25%.
+- Plaque: 20°=66.6%, 40°=66.6%, 60°=91.7%, 80°=100% (rises with angle).
+
+Influence on Marginal Soft-Tissue Level — Histology:
+- Histomorphometric buccal fBIC (median): 20°=0.44 mm (IQR 0.13-1.4); 40°=0.84 (0.41-1.32); 60°=0.90 (0.46-1.25); 80°=0.97 (0.34-1.46). p=0.588 (NS).
+- Descriptive: all samples had keratinized oral epithelium stopping at the peri-implant mucosal margin. Continuity/integrity of junctional epithelium varied by angle: most 20° and 40° samples had a continuous, intact junctional epithelium and well-organized connective tissue. In contrast, 60° and 80° samples showed disorganized connective tissue with more inflammatory cell infiltrate, often with partial or lacking junctional epithelium formation. Bacterial biofilm noted against abutment surfaces.
+- Distance from inflammatory infiltrate to fBIC (buccal): 20°=1.69 ± 0.57 mm; 40°=1.67 ± 0.78; 60°=1.09 ± 0.63; 80°=1.00 ± 0.86 mm. Trend toward difference 20° vs 80° (p=0.065). Distance decreases as angle increases.
+
+== DISCUSSION ==
+Positive association between MBL and emergence angle — wider angle = greater bone resorption, especially 80° buccally. Consistent with reports that implant-abutment geometry influences MBL. Emergence angle >40° may limit self-cleansability → plaque accumulation → higher BOP. (60° showed more BOP than 80°, possibly due to inability to probe adequately under wide angle, underestimating inflammation.) Consistent with cross-sectional study (Rungtanakiat) and RCT (de Tapia) on suboptimal cleansability and BOP recurrence.
+Waerhaug "radius of action of plaque" hypothesis: plaque triggers bone loss within ~1 mm; distance from infiltrate to bone decreased as angle increased — wider angle favors plaque/inflammation closer to bone (speculative).
+"Cuff-like" soft tissue barrier seals the transmucosal segment. Mature barrier epithelium forms in dogs within 6-8 weeks. Occurred consistently with narrow angles (20-40°) but not wider angles (60-80°): wide angle prevented continuous junctional epithelium and impaired its integrity, with progressive disorganization of supracrestal connective tissue. Compromised barrier likely increases susceptibility to peri-implant disease and contributes to MBL. May give histological support for clinical RCT (Siegenthaler) where convex profiles (resembling wide angles) showed more mucosal recession than concave (narrow) profiles.
+
+Clinical implications: maintain angle as narrow as clinically possible (20-40°). Restoratively-driven implant position prioritized. Emergence angle dictated by implant position and restoration shape: labial implant → concave initial profile; crest-centred → slightly concave/flat; palatal → convex. Narrow-angle contour requires more vertical distance between implant platform and crown margin; shallow placement forces wide angle/ridge lap. Anterior esthetic emphasis on cervical contour can result in markedly wider angles. Clinical judgement needed.
+
+Strengths/limitations: Standardized confounders; buccal sites assessed; synchrotron technology. Limited by preclinical design, no blinding, no customized film holders, small sample/power, short follow-up, no implant loading with conventional crowns (e.g., zirconia). Random allocation per hemimandible → slight imbalance (more 40° at narrower P2 ridge, explaining 40° outliers). Junctional epithelium impairment could partly be histological artefact (tissue compression/tearing). Statistical differences may not imply clinical relevance; MCID not established.
+
+Future: would wide angle placed 1-2 mm more coronal (tissue-level implant) avoid these complications by increasing plaque-to-bone distance beyond 1 mm? May explain why tall straight emergence profiles show less bone resorption.
+
+== CONCLUSION ==
+Wide restorative angles induce more MBL and impair the integrity of the junctional epithelium at implant sites. Narrow restorative angles attenuate MBL and facilitate formation of a continuous junctional epithelium, limiting mucosal inflammation. It seems reasonable to maintain the angle as narrow as clinically possible (<40°).
+
+Keywords: CAD/CAM; dental implant; dental implant-abutment design; emergence profile; histology; prosthodontics; restorative angle; titanium abutments.
