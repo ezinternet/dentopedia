@@ -1,0 +1,48 @@
+Impact of Open Proximal Contacts on Peri-Implant Diseases: A Systematic Review and Meta-Analysis
+Atieh MA, Shah M, Hakam A, Bohamedi K, Tawse-Smith A, Alsabeeha NHM
+Clinical and Experimental Dental Research. 2026 Feb;12(1):e70278.
+DOI: 10.1002/cre2.70278 | PMID: 41587408 | PMCID: PMC12834509
+Source: PubMed / PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12834509/)
+
+=== ABSTRACT ===
+Objectives: To evaluate the impact of open proximal contacts (OPC) on peri-implant tissue changes, specifically marginal bone levels (MBL), probing pocket depth (PPD), and the incidence of peri-implant diseases.
+
+Methods: Electronic databases searched for non-randomized observational studies comparing open and closed proximal contacts. Risk of bias assessed using Cochrane ROBINS-I V2; data analyzed in RevMan 5.3 (random-effects).
+
+Results: Out of 276 studies identified, five met inclusion criteria, involving 4882 dental implants (1050 with OPC). Meta-analysis indicated OPC associated with greater but NOT statistically significant marginal bone changes (MD 0.07; 95% CI -0.09 to 0.24; p=0.38); probing pocket depths (MD 0.11; 95% CI -0.29 to 0.51; p=0.59); and higher incidence of peri-implantitis (RR 1.63; 95% CI 0.88-3.02; p=0.12). OPC associated with a SIGNIFICANT increase in incidence of peri-implant mucositis (RR 1.74; 95% CI 1.06-2.86; p=0.03).
+
+Conclusions: Open proximal contacts are associated with increased PPD and MBL changes and could be a risk indicator for peri-implant mucositis. Further research needed for long-term effects and preventive measures.
+
+=== KEY METHODS ===
+- PROSPERO CRD420251089277. PRISMA + Cochrane guidelines. Searched CENTRAL, MEDLINE (PubMed), EMBASE, ClinicalTrials.gov up to July 08, 2025.
+- PICO: Adults >=18 with implant-supported fixed prostheses; intervention = OPC between implant prosthesis and natural tooth OR two adjacent non-splinted implants; comparison = closed proximal contacts (CPC); outcomes = MBL change, PPD, peri-implant mucositis/peri-implantitis incidence; non-randomized observational studies.
+- Implants in function >= 1 year. Proximal contact assessed with dental floss (closed/"tight" if resistance, open if none).
+- Risk of bias: ROBINS-I V2 (7 domains). GRADE for certainty.
+- Statistical unit = implant. Continuous = MD; dichotomous = RR. Random-effects. I2 > 60% = significant heterogeneity. Leave-one-out sensitivity.
+
+=== INCLUDED STUDIES (n=5) ===
+1. Alhakeem et al. — Tehran University, Iran. Retrospective cohort (RCS). 88 part / 186 CPC implants, 164 OPC... (note: table interleaved); follow-up 84 mo. OPC prevalence 11.8% at 8 yr. Peri-implantitis: CPC 15/164 (9.1%), OPC 3/22 (13.6%).
+2. Byun et al. — Chonbuk National University, Korea. Cross-sectional (CSS). 94 part / 191 implants. Follow-up 57 mo. ~50% contacts lost by 9 yr. MBL CPC 0.66±0.88 / OPC 0.88±1.11. PPD CPC 3.37±0.99 / OPC 3.37±1.23. Food impaction 63% (OPC) vs 39% (CPC) embrasures. Moderate risk of bias (only study blinded assessors).
+3. French et al. — University of Alberta, Canada. Cross-sectional. 4325 CPC / 729 OPC implants (largest). Follow-up 54 mo. OPC prevalence 17% (short follow-up). MBL CPC 0.40±0.65 / OPC 0.43±0.74. Mesial>distal; mandible>maxilla (20% vs 15%); anterior>posterior (18% vs 14%). Serious risk of bias.
+4. Ko et al. — Chi Mei Medical Center, Taiwan. Case-control (CCS). 26 part / 39 CPC, 24 OPC. Single implant crowns. Follow-up 24 mo. MBL CPC 0.13±0.41 / OPC 0.02±0.39. PPD CPC 2.60±0.93 / OPC 2.40±0.51. No significant association OPC vs peri-implant condition. Serious risk of bias.
+5. Latimer et al. — University of Washington, Seattle, USA. Cross-sectional. 61 part / 142 implants (65 CPC / 77 OPC). Follow-up 60 mo. OPC prevalence 54.2% at >10 yr. MBL CPC 0.80±1.30 / OPC 1.30±1.80. PPD CPC 3.60±1.00 / OPC 4.10±1.30. Peri-implant mucositis CPC 16 (24.6%) / OPC 33 (42.8%). Peri-implantitis CPC 9 (13.9%) / OPC 18 (23.4%). OPC associated with increased PPD and MBL. Patient awareness 32.6%, food impaction 56.5%. Serious risk of bias.
+
+One study (Jeong and Chang) excluded - did not report relevant outcomes. Four other studies (Gasser, Saber, Wang, Yen) could not be included (data not provided separately for OPC/CPC or no response).
+
+=== META-ANALYSIS RESULTS (GRADE summary) ===
+- Changes in MBL (mm): 4 studies (Byun, French, Ko, Latimer). MD 0.07 (95% CI -0.09 to 0.24), p=0.38. I2=48% (moderate). NOT significant. GRADE: very low.
+- Changes in PPD (mm): 3 studies (Byun, Ko, Latimer). MD 0.11 (95% CI -0.29 to 0.51), p=0.59. I2=68% (substantial). NOT significant. GRADE: very low.
+- Peri-implant mucositis: 1 study (Latimer). RR 1.74 (95% CI 1.06-2.86), p=0.03. SIGNIFICANT. 182 more per 1000. GRADE: low.
+- Peri-implantitis: 2 studies (Alhakeem, Latimer). RR 1.63 (95% CI 0.88-3.02), p=0.12. I2=0%. NOT significant. 58 more per 1000. GRADE: low.
+
+Leave-one-out (MBL): pooled MD ranged 0.03-0.16, I2 23-63%, remained non-significant throughout.
+
+=== KEY DISCUSSION POINTS ===
+- OPC prevalence in implant restorations 34-66% (Varthis); included studies ranged 11.8% (8 yr) to 54.2% (>10 yr). Strong positive correlation between longer follow-up and OPC rate.
+- Mesial > distal (Sheba: 2.1x more likely mesial). Food impaction 2.2x more frequent at OPC sites (Byun); but food impaction NOT significantly associated with peri-implant outcomes in included studies.
+- Etiology: natural teeth mesial drift vs static osseointegrated implant; occlusal changes, flaring, craniofacial/jaw growth.
+- Prevention: splinting adjacent teeth, occlusal guards, Essix retainers. Screw-retained restorations preferred for easy retrieval/correction.
+- Good oral hygiene / supportive periodontal care in included patients may have mitigated negative effects (contrast with Koori, Saber which found significant effects).
+- Limitations: cross-sectional designs limit causality; retrospective bias; methodological heterogeneity in contact assessment; some treated periodontitis patients; mixing implant-tooth and implant-implant contacts.
+
+MeSH: Humans, Peri-Implantitis, Dental Implants, Incidence, Alveolar Bone Loss, Dental Implant-Abutment Design.
