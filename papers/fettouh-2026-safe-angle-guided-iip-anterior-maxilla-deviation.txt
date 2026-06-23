@@ -1,0 +1,99 @@
+The deviation between the planned and actual positions of immediate implants placed in the anterior maxilla using the virtual safe angle concept and a novel computer-guided drilling protocol: A prospective clinical trial
+
+Authors: Ahmed Ibrahim Aboul Fettouh, Ahmed Fouad, Khaled Keraa, Rafik Nasser, Nael Adel, Ingy Kastour, Inas El-Zayat
+Journal: BMC Oral Health 2026;26(1)
+DOI: 10.1186/s12903-026-08408-1
+PMID: 42087162 / PMCID: PMC13159268
+ClinicalTrials.gov: NCT05750004 (registered 19-February-2023)
+Source: PubMed Central full text (PMC13159268)
+
+== Abstract ==
+
+Background: Anatomical complexities and socket configuration in anterior maxilla often results in challenging immediate implant placement, where implants tend to be facially positioned. Implants with facially placed shoulders exhibited three times more midfacial recession. Despite using surgical guides, osteotomy drills tend to follow the least resistance path dictated by socket anatomy. This prospective clinical trial aimed to measure the deviation from the planned implant position during immediate implant placement in the anterior maxilla and its impact on esthetic outcomes, utilizing a new computer-guided plateau drilling protocol.
+
+Methods: Twenty-six patients (7 males and 19 females, ages 20-42) with non-restorable maxillary anterior teeth participated in this study. Virtual planning was done using the Safe Angle Concept and the implants were placed with a partially guided approach. Standard tessellation language files obtained from scanned casts and initial computed tomography scans were used to plan the virtual position of the implants and surgical guides fabrication. Angular, global platform and global apex deviations from the planned implant position were measured after three-months. Bone formed labial to the implant and pink esthetic score were assessed after nine-months.
+
+Results: The current investigation showed that the use of the new computer-guided plateau drilling protocol resulted in clinically acceptable ranges of angular, global platform, and global apex deviation 4.56 ± 3.14°, 0.91 ± 0.61 mm, 1.47 ± 0.88 mm respectively. Radiographic analysis revealed mean mm amount of bone formed labial to the implant of 2.13 ± 0.99 mm and pink esthetic score displayed a mean of 11.89 ± 1.75, with a median of 12.5 after nine months.
+
+Conclusions: The virtual safe angle planning concept combined with plateau drilling protocol showed promising accuracy in immediate implant placement in the anterior maxilla. The resultant deviation had no influence on the esthetic outcomes. The trial was registered at ClinicalTrials.gov (NCT05750004, 19-February-2023).
+
+Keywords: Esthetic zone; Guided implant surgery; Immediate implant; Implant deviation; Safe angle concept
+
+== Introduction ==
+
+Immediate implant placement (IIP) in the esthetic zone presents a significant challenge in routine clinical practice. IIP offers reduced treatment duration, improved cost-effectiveness and satisfying patient esthetic expectations; however, clinicians must remain cognizant of associated risks and potential complications. Ideal implant positioning is the key factor to prevent esthetic complications. Multiple anatomical challenges hinder proper implant position in the anterior maxilla: the labial concavity angle, the slope of the palatal socket wall, different sagittal position of anterior teeth in alveolar bone, and palatal inclination of incisal edges. Despite the use of surgical guides, immediate implants in the esthetic zone tend to be facially positioned because socket morphologies cause drills to follow the least resistance pathways.
+
+Implants placed with facially positioned shoulders showed mid-facial mucosal recession. Angled abutments are often used to correct facially positioned implant shoulders in the anterior maxilla. The use of angled abutments was reported in 84% and 76% respectively to correct implant labial inclination in virtually simulated studies at IIP sites in the anterior maxilla. Botermans et al. reported 80% incidence of labial perforation when implants were placed according to prosthetic-driven positioning.
+
+A CBCT study proposed the "Safe Angle Concept" as a standardized method for planning the proper immediate implant position in the anterior maxilla. This concept uses the incisal root angle to determine a safe range where the implant shoulder should be placed, potentially reducing surgical complications and limiting the use of angled abutments.
+
+Several methods achieve correct implant position: computer static guided, computer dynamic navigated, robotics assisted systems, and free-hand surgery. The accuracy of implant placement using computer static guided surgery can be affected by surgical techniques, alveolar ridge anatomy, and different designs of the surgical guide.
+
+Various techniques counteract drilling slippage and deviation in IIP: the apico-palatal free-hand guiding slot using a 2 mm round bur at the lower half of the palatal slope of extraction sockets; a recent study implemented the apico-palatal guiding slot through initial virtual planned osteotomy while using digital dynamic navigation. Literature lacks clinical approaches that reduce deviation during IIP in the anterior maxilla. The aim was to measure the deviation from the planned implant position using a novel computer-guided plateau drilling protocol based on the standardized virtual planning method "Safe Angle Concept."
+
+== Methods ==
+
+Prospective clinical trial registered at ClinicalTrials.gov (NCT05750004), approved by the Research Ethics Committee, Misr International University (MIU-IRB-2223-222), conducted per Helsinki Declaration. Twenty-six patients (7 males, 19 females, ages 20-42) recruited from the outpatient clinic of Misr International University and a private practice in Cairo, Egypt, between February and August 2023.
+
+Inclusion: adults >18 years; ≥1 non-restorable maxillary anterior site (canine-to-canine) bordered by natural teeth; thin intact labial bone plate (<1 mm) extending 7 mm apically; minimum 3-5 mm of apical bone. Exclusion: chemotherapy/radiotherapy within past 2 years, uncontrolled diabetes, smoking, pregnancy, periapical pathology, active periodontal disease.
+
+Data acquisition / virtual planning: Conventional additional silicone impressions (two-step), stone casts optically scanned extra-orally (Medit T700) to STL. Small-volume CBCT (Cranex SOREDEX) before extraction, DICOM imported into OnDemand3DApp then Implant Studio (3Shape). STL/DICOM superimposed by three-point cloud registration + ICP refinement, verified via color map. Virtual crown designed for esthetics/occlusion, followed by virtual implant planning based on the safe angle concept.
+
+The 2-Guide System Protocol: A drilling guide was constructed following the final planned implant position. A separate plateau guide followed the same long axis but only reached the socket apex to create a flat surface to decrease drilling slippage. Guides fabricated by 3D resin printer (Crality); T-Sleeves (Straumann) inserted/glued; seating verified on stone cast.
+
+Plateau drilling protocol steps: (1) socket after flapless extraction; (2) flat miller cutter (plateau drill) reaching socket apex; (3) flat surface created at palatal wall slope of socket; (4) subsequent drilling engaging 3-4 mm of apical and palatal bone for primary stability; (5) osteotomy preparation; (6) implant placement.
+
+Surgical procedure: All surgeries by one expert surgeon (AA). Atraumatic extraction with periotomes/luxators, preserving papillary tissues. Plateau drilling created a near-flat surface at the palatal wall slope using a flat milling cutter slightly narrower than implant diameter, reaching socket apex; plateau location verified clinically. Subsequent guided drilling with the second guide, then a tapered bone-level titanium-zirconium implant (Straumann BLT Roxolid SLA) inserted free-hand, engaging 3-4 mm of apical and palatal bone, ≥35 Ncm, allowing non-functional immediate loading. Customized healing abutment (flowable composite on Variobase) for all patients.
+
+Postoperative: amoxicillin 500 mg q12h (from 24h pre-op, 5 days), cold packs, NSAID prn, chlorhexidine 0.12% for 2 weeks. After 3 months, open-tray impression for prosthesis; scan body (CARES) scanned to virtual model of actual implant position. Three-point cloud registration + ICP best-fit on Exocad. One week later, final screw-retained zirconia crown delivered.
+
+Trial outcomes: Primary outcomes — Angular deviation (between central axes of planned vs actual implants); Global platform deviation (linear 3D displacement at platform center); Global apex deviation (linear 3D displacement at apex center). All deviation measurements on Exocad.
+
+Radiographic assessment: postoperative CBCT at 9 months. Bone labial to implant measured at platform, 2 mm, and 5 mm. Pre-op and 9-month DICOM superimposed via Fusion module (OnDemand3D, subvoxel accuracy). Assessed whether implant position lay within the safe angle. Root inclination angle measured (angle between palatal surface of palatal bone and a line tangent to root palatally).
+
+Esthetic assessment: Pink Esthetic Score (PES) at 9 months from IIP by two trained examiners (intra-examiner k=0.82). Seven domains (mesial papilla, distal papilla, soft tissue margin level, contour, deficient alveolar process, color, texture), each 0-2, total 0-14.
+
+Clinical assessment: Full-mouth plaque score (FMPS) and full-mouth bleeding score (FMBS) at pre-extraction and 9 months. Implant survival per established criteria.
+
+Statistics: Paired t-test (FMPS/FMBS). Linear regression for predictors of platform, apical, angular deviations; ANOVA model fit. Significance ≤0.05. SPSS v23.
+
+== Results ==
+
+26 implants in 26 patients (19F, 7M). Mean age 32.69 ± 6.27 (20-42).
+
+Sites: central incisor 7 (26.9%), lateral incisor 15 (57.7%), canine 4 (15.4%).
+Implant length: 12 mm 7 (26.9%), 14 mm 18 (69.3%), 16 mm 1 (3.8%).
+Implant diameter: 3.3 mm 5 (19.2%), 4.1 mm 20 (77%), 4.8 mm 1 (3.8%).
+Implant survival: 26 (100%) reported in baseline table; however the Clinical assessment text states "two implants that failed" — there is an internal inconsistency in the published paper between the 100% survival figure and the narrative of two failures.
+
+Deviation (mean ± SD):
+- Angular deviation: 4.56 ± 3.14°
+- Global platform deviation: 0.91 ± 0.61 mm
+- Global apex deviation: 1.47 ± 0.88 mm
+Per-implant angular deviation ranged ~1.4° to 7.5°; platform ~0.27 to 2.79 mm; apex ~0.25 to 3.71 mm.
+
+Radiographic (9 months): bone labial to implant — platform 2.45 ± 1 mm, 2 mm level 2.14 ± 1.03 mm, 5 mm level 1.79 ± 1.03 mm; overall average 2.13 ± 0.99 mm. ALL implants lay within the safe angle on post-op CBCT. Root inclination angle 26.64 ± 5.43°.
+
+Esthetic: PES 11.89 ± 1.75, median 12.5 (min 8, max 14) at 9 months. Domain means: mesial papilla 1.62, distal papilla 1.58, soft tissue margin 1.73, contour 1.85, alveolar process deficiency 1.54, color 1.77, texture 1.81. All restored with straight abutments — no angled abutments needed.
+
+Clinical: no peri-implant inflammation; FMPS dropped 15.54 → 10.0 (p<0.001, d=1.71); FMBS 11.08 → 7.04 (p<0.001, d=1.73).
+
+Linear regression:
+- Platform deviation model: R=0.593, overall p=0.003. Significant predictors: implant site (lateral/canine > central by 0.609 mm; β=0.609, p=0.001) and gender (female > male by 0.909 mm; β=0.909, p=0.001).
+- Apical deviation model: R=0.355, overall p=0.036. Significant predictors: implant site (lateral/canine > central by 0.904 mm; β=0.904, p=0.007) and gender (female > male by 0.412 mm; β=0.412, p=0.048).
+- Angular deviation model: ANOVA non-significant (p=0.114) — model unfit, regression not performed.
+
+== Discussion ==
+
+The plateau drill (flat milling cutter) eliminates the palatal bone slope of the socket prior to conventional drilling, minimizing slippage and final deviation. Results align with a SR+MA on computer-guided accuracy (~1 mm entry, 1.6 mm apex, 5-6° axis). Two lateral incisor sites had higher angular deviation, attributed to narrow labio-palatal socket dimension, long/wide roots, and limited apical bone. Some clinical studies reported lower angular deviation (e.g., partially guided cadaver 3.11 ± 1.55°; another 3.07 ± 2.18°); difference partly explained by deviation assessment method (this study used actual implant scanning vs CBCT elsewhere).
+
+All implants restored with straight abutments (no angled abutments needed for labial inclination). PES 11.89 exceeded the clinically acceptable threshold of 7 and aligned with the high esthetic level of 11. Sufficient labial bone plate (>1 mm) is vital; mean labial bone 2.13 mm.
+
+Implant site was a significant positive predictor of platform and apical deviations (lateral/canine > central). Gender (female) was also a positive predictor.
+
+Limitations: single surgeon; no comparison group; small sample; recommend RCTs with larger samples, longer follow-up, multiple operators; intraoral scanning would give more reliable deviation measure; 2-guide protocol needs experienced clinicians and extra cost.
+
+== Conclusions ==
+
+- The Plateau Guide System with IIP in the anterior maxilla may help reduce labial implant inclination.
+- The plateau drilling protocol combined with virtual planning using the Safe Angle Concept appears to assist in achieving accurate implant positioning and acceptable esthetic outcomes in the anterior maxilla.
