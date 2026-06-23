@@ -1,0 +1,58 @@
+Oral Mucositis Management in Children under Cancer Treatment: A Systematic Review
+Braguès R, Marvão MF, Correia P, Silva RM. Cancers (Basel). 2024;16(8):1548.
+PMID: 38672630 | PMCID: PMC11048343 | DOI: 10.3390/cancers16081548
+
+1. Introduction
+Improved supportive care and therapeutic regimens have increased pediatric cancer survival and decreased side effects. Antineoplastic therapy (chemotherapy, radiotherapy, or both) is most used; surgery, immunotherapy, and stem cell transplantation may also be necessary. Oral adverse effects include caries, periodontal disease, decreased salivary flow, dysgeusia, dysphagia, oral infections, spontaneous bleeding, osteoradionecrosis, trismus, neurotoxicity, and oral mucositis.
+
+Oral mucositis = oral mucosa inflammation triggered by antineoplastic therapies. Incidence 40-100% depending on malignancy type, chemotherapy treatment, radiation dosage, patient age, oral health, neutrophil count. Chemo drugs most associated: doxorubicin, bleomycin, fluorouracil, methotrexate. Five stages: initiation, signaling, amplification, ulceration, healing. Pathogenesis: reactive oxygen species damage mucosa, activate NF-kB, increase pro-inflammatory cytokines -> ulceration, bacterial colonization. Leads to malnutrition, dehydration, QoL impact, may interfere with cancer treatment duration/intensity; risk of sepsis.
+
+Clinical practice guidelines reviewed for: oral cryotherapy; growth factors/cytokines (KGF/palifermin); low-level laser therapy (LLLT)/photobiomodulation; anti-inflammatory agents (benzydamine oral rinses); antimicrobial, analgesic, natural compounds (e.g. curcumin). Lack of evidence in pediatric patients; most studies in adults. Aim: identify therapies for prevention and treatment of oral mucositis specifically in pediatric patients.
+
+2. Materials and Methods
+Registered PROSPERO CRD42022347208. PRISMA guidelines, PICO strategy. Question: which treatments are most effective in treatment and prevention of cancer-induced oral mucositis in pediatric patients?
+Search: PubMed/MEDLINE, NICE, ICTRP, Embase, Scopus, Web of Science, up to March 2024. MeSH + Boolean. Human studies, English or Portuguese, last 20 years. Rayyan tool for screening.
+Inclusion: observational or experimental studies, pediatric population (up to 18 years), completed/undergoing oncologic treatment, outcomes for an oral mucositis therapeutic intervention.
+Exclusion: SR/MA, narrative reviews, case reports, opinion articles; no cancer treatment / no oral mucositis; no age range or control group; animal/in vitro.
+Two independent screeners (R.B., R.M.S.), third (P.C.) for consensus. Cohen's kappa 0.82 (almost perfect).
+Quality: Modified Newcastle-Ottawa Scale (NOS), 0-9 stars: selection (0-4), comparability (0-2), outcome/exposure (0-3). High quality >5. Bias: high (<=5), moderate (6-7), low (>=8).
+
+3. Results
+3.1 Study selection: 2655 unique records -> 59 after title/abstract -> 39 articles included. Most excluded studies were adults or mixed children+adults (>=19 years).
+3.2 Characteristics: antineoplastic therapies = chemotherapy, radiotherapy, hematopoietic stem cell transplantation, or combination. Sample size 14 (lowest) to 148 (highest). Mostly gender-balanced, slight male excess. Most studies in Brazil (8), Italy (6), India (3).
+Therapies described: LLLT most frequent (8 studies, 20%), followed by palifermin (3), zinc-containing compounds (3), honey (3), calcium phosphate (3, 8%), olive oil (2), oral cryotherapy (2), vitamin E (2), glutamine (2), chlorhexidine (2, 5%). Single-study interventions: andiroba orabase; bovine colostrum; chewing gum; high-power laser therapy; ketamine; Mucosamin oral spray; Mucosyte mouthwash; gel; TGF-beta 2; pycnogenol; honey+olive oil-propolis extract+beeswax mixture. Treatment duration 3 to 29 days.
+
+3.3 Therapeutic efficacy by intervention:
+- Calcium phosphate: NO effect on oral mucositis symptoms.
+- Chlorhexidine: decreased incidence AND severity.
+- Glutamine: decreased incidence AND severity.
+- Palifermin: reduced incidence, severity, AND duration.
+- Honey: decreased severity, duration, AND pain.
+- Olive oil: decreased incidence, severity, AND pain.
+- Zinc-based compounds: all outcomes, with some reports of no effect.
+- LLLT, oral cryotherapy, vitamin E: had reports without effects on outcomes.
+Most effective for INCIDENCE: chlorhexidine.
+For SEVERITY: chlorhexidine, honey, palifermin, olive oil, vitamin E, glutamine similar.
+For DURATION: honey most effective.
+For PAIN: olive oil highest efficacy; honey, LLLT, zinc-based equally effective.
+
+3.4 Quality: high bias 9 articles, low bias 14 articles, moderate bias remaining 16. High-bias studies: small samples, small intervention/control groups, study design, low patient acceptance.
+
+4. Discussion (key points by therapy)
+4.1 LLLT/photobiomodulation: low-power red/near-infrared light without raising tissue temp; promotes collagen synthesis, fibroblast production, reduces inflammation and pain. Most studies addressed LLLT; decreased incidence, severity, or pain. Only oldest study found no effect (wavelength/exposure/technique differences). 5 in Brazil, 2 Italy, 1 Egypt. Recent guidelines recommend LLLT for pediatric HSCT or radiotherapy. Extraoral light application may increase adherence in children refusing intraoral protocols.
+4.2 Palifermin: recombinant human KGF; stimulates epithelial cell proliferation/differentiation, protects against apoptosis. Decreases incidence, severity, duration of OM in acute leukemia; considered safe. Conflicting reports - one recent report highlights possible adverse side effects and does not recommend use; Morris et al. found safe/tolerable dose with good safety profile. Latest SR+MA supports palifermin. Further studies needed.
+4.3 Zinc: trace metal, antioxidant; cell division, tissue repair, immunity, protein/DNA synthesis. Zinc gluconate reduced severity, duration, pain (50 mg) in one study; another (1 mg/kg/day, max 30 mg) found no effect. Polaprezinc (zinc L-carnosine) in sodium alginate decreased incidence; safe but unpleasant flavor/texture led to refusals. Need to compare zinc gluconate vs polaprezinc.
+4.4 Chlorhexidine: antimicrobial mouthwash, prophylactic. MOST effective to reduce OM incidence in children. Oldest studies (2003, 2006) but already part of oral care protocols, especially severe cases when brushing not supported. Works via preventive removal of pathogenic oral bacteria.
+4.5 Honey: natural, anti-inflammatory and antimicrobial. Natural (flower nectar) honey decreased severity and duration; manuka honey decreased severity and pain. Olive oil similar to honey but unpleasant taste. Natural honey cheaper than manuka, both safe. Pleasant taste increases adherence. Works by decreasing pro-inflammatory cytokines, eliminating pathogenic bacteria.
+4.6 Calcium phosphate (Caphosol): suggested to improve healing, reduce inflammation, promote epithelial proliferation. NO effect in all 3 studies; supported by clinical practice guidelines (not pediatric-limited).
+4.7 Oral cryotherapy: cooling mouth during chemo -> local vasoconstriction -> reduced chemo absorption by mucosa -> less toxicity. Reduced incidence and severity when administered WITH propantheline, but NO effect alone. Ineffectiveness may relate to low compliance (discomfort, nausea, refusals). Flavored ice cubes may increase compliance.
+4.8 Olive oil: natural, anti-inflammatory, antibacterial. Topical application MOST effective to decrease PAIN; also decreased incidence and severity. Similar to honey but unpleasant taste. Works via inhibition of pro-inflammatory cytokines in acute stage.
+4.9 Vitamin E: antioxidant, protects cell membranes from oxidative stress. One study no effect; Khurana et al. decreased severity. Conflicting.
+4.10 Glutamine: improves immune system, promotes hexosamine (mucosa barrier). Used in acute lymphoblastic leukemia after high-dose methotrexate. 400 mg/kg/day (oral or IV): significant reduction in incidence in both studies, few side effects. IV may increase compliance.
+4.11 Other therapies: TGF-beta 2, chewing gum, ketamine mouthwash had NO effect. Single-study interventions (70% solution, Mucosyte mouthwash, pycnogenol, bovine colostrum, Mucosamin oral spray, 3% andiroba orabase, high-power laser, 1% gel, honey+olive oil-propolis+beeswax) reduced one or more outcomes.
+4.12 Limitations: small sample sizes, sample heterogeneity, study design biases, low treatment adherence, diversity of cancer types, varying clinical protocols, OM treatment duration, diverse outcome measures limiting comparability.
+
+5. Conclusions
+Cryotherapy needs further pediatric studies (lacks evidence). Palifermin: conflicting reports, further studies needed. LLLT alone or with photochemotherapy favors healing, reduces infections, improves QoL. Glutamine, olive oil, honey are safe; chlorhexidine effective in controlling OM in pediatric population. Oral mucositis is a challenge for pediatric oncologists and pediatric dentists. Regular oral cavity assessment by pediatric dentist is important. Evidence still inconclusive to establish accurate clinical protocols.
+
+Source: PubMed. DOI: 10.3390/cancers16081548
