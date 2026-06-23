@@ -1,0 +1,33 @@
+The Evaluation of Enamel Matrix Derivative on the Bone Regenerative Potential of the Dental Implant with the Transcrestal Sinus Floor Elevation Approach: A Randomized, Parallel CBCT Study.
+
+Ozbay D, Tunc S, Uraz Corekci A, Guler Ayyildiz B, Cula S.
+Int J Oral Maxillofac Implants. 2024;39(4):615-624. doi:10.11607/jomi.10506
+PMID: 38788135.
+
+ABSTRACT (abstract-only — PMC full text not available)
+
+To evaluate the clinical and radiographic results of simultaneous implant placement using
+transcrestal sinus floor elevation (TSFE) with and without enamel matrix derivative (EMD)
+application.
+
+Twenty-four patients were randomly assigned into two groups: The EMD+TSFE group
+(n = 13 patients, 20 implants) received TSFE with EMD application, and the TSFE group
+(n = 11 patients, 20 implants) received TSFE without EMD application. The patients were
+recalled at 3 (T3) and 12 (T12) months postsurgery. The residual bone height (RBH),
+implant protrusion length (IPL), peri-implant sinus bone level (SBL), endo-sinus bone gain
+(ESBG), and implant stability (ISQ) were measured. Multivariate regressions were performed
+for the groups.
+
+At T3, the ESBG was 3.72 +/- 0.85 mm in the EMD+TSFE group and 3.10 +/- 0.05 mm in the
+TSFE group, and there were statistically significant differences (P < .05). However, there
+were no statistically significant differences in ESBG at T12 between the groups (P > .05).
+ISQ values did not show a statistical difference between the groups at T1 and T3, but at
+T3 in the TSFE+EMD group, there was a statistical increase in the intragroup evaluation
+compared to the TSFE group.
+
+The use of EMD in TSFE procedures is effective in new bone formation at the apical part of
+the implant during the early healing period, but in the long term, no significant
+difference was shown between cases in which EMD was or was not used in terms of new bone
+formation and primary and secondary stabilization.
+
+Source: PubMed / Int J Oral Maxillofac Implants. https://doi.org/10.11607/jomi.10506
