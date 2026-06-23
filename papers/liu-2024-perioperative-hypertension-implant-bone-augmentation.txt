@@ -1,0 +1,31 @@
+Source: PubMed Central PMC10845188 (PMID 38318902)
+DOI: 10.19723/j.issn.1671-167X.2024.01.015
+Journal: Beijing Da Xue Xue Bao Yi Xue Ban (Journal of Peking University. Health Sciences) 2024;56(1):93-98
+Language: Chinese (English structured abstract below; PMC full body text not retrievable — abstract only)
+
+=== ENGLISH STRUCTURED ABSTRACT (from PubMed metadata) ===
+
+[Risk factors of perioperative hypertension in dental implant surgeries with bone augmentation]
+Liu Xiaoqiang, Zhou Yin.
+Department of Prosthodontics / Department of Anesthesiology, Peking University School and Hospital of Stomatology & National Center for Stomatology & National Clinical Research Center for Oral Diseases & National Engineering Research Center of Oral Biomaterials and Digital Medical Devices, Beijing 100081, China.
+
+Objective: To investigate the characteristics and risk factors of perioperative hypertension during dental implant surgeries with bone augmentation.
+
+Methods: A retrospective cohort study was conducted. Seven hundred and twenty-eight cases underwent dental implant placement and bone augmentation in Peking University School and Hospital of Stomatology from September 2021 to August 2022 were recruited in this study according to the inclusion and exclusion criteria. They were divided into different groups according to the exposure factors which were gender, age, surgical time, and surgical approach. The correlation between perioperative hypertension and the exposure factors was analyzed.
+
+Results: The average systolic blood pressure variability was 9.93%±6.63% (maximum 50.41%), the average diastolic blood pressure variability was 12.45%±8.79% (maximum 68.75%), and the average mean arterial pressure variability was 10.02%±6.61% (maximum 49.48%). The incidence rate of perioperative hypertension was 26.77%. Male, age ≥ 60 years, and surgical time > 60 minutes were risk factors for perioperative hypertension (P < 0.05), and the relative risks (95%CI) were 1.74 (1.21-2.50), 2.35 (1.54-3.58), and 1.65 (1.15-2.38), respectively. There was no significant difference in the incidence of perioperative hypertension among the guided bone regeneration, sinus floor elevation with transalveolar approach, and sinus floor elevation with lateral window approach (P > 0.05). However, the risk factors varied according to bone augmentation approaches. For the patients underwent guided bone regeneration, the risk factors for perioperative hypertension included male, age ≥ 60 years, and surgical time > 60 minutes (P < 0.05). For the patients underwent maxillary sinus lift with transalveolar approach, the risk factor for perioperative hypertension was age ≥ 60 years (P < 0.05). For the patients underwent maxillary sinus lift with lateral window approach, male, age ≥ 60 years, and surgical time > 60 minutes were not risk factors for perioperative hypertension (P > 0.05).
+
+Conclusion: There was a certain risk of perioperative hypertension in oral implantation with bone augmentation. The influence of male, age ≥ 60 years and surgical time > 60 minutes on perioperative hypertension was related to the approach of bone augmentation.
+
+Keywords: Blood pressure; Bone regeneration; Cohort studies; Dental implantation; Risk factors.
+MeSH: Humans; Male; Middle Aged; Sinus Floor Augmentation; Dental Implants; Retrospective Studies; Risk Factors; Hypertension; Dental Implantation, Endosseous.
+
+=== 中文摘要 (original) ===
+
+目的: 探索牙种植同期植骨术中, 围术期高血压的特点及相关危险因素。
+
+方法: 对北京大学口腔医院某门诊科室2021年9月至2022年8月的728例牙种植及植骨术患者进行回顾性队列研究, 分析研究对象围术期高血压与性别、年龄、手术时长、植骨术式4种暴露因素的关联性。
+
+结果: 牙种植同期植骨术中, 收缩压平均波动幅度为9.93%±6.63%(最大值50.41%), 舒张压平均波动幅度为12.45%±8.79%(最大值68.75%), 平均动脉压平均波动幅度为10.02%±6.61%(最大值为49.48%)。围术期高血压的发病率为26.77%。男性、年龄≥60岁、手术时长＞60 min是围术期高血压的危险因素(P＜0.05), 相对危险度(95%CI)分别为1.74(1.21~2.50)、2.35(1.54~3.58)和1.65(1.15~2.38)。引导性骨再生术、上颌窦内提升术、上颌窦外提升术3种植骨术式围术期高血压发病率差异无统计学意义(P＞0.05), 但不同植骨方式下围术期高血压的影响因素不同。引导性骨再生术围术期高血压的危险因素为男性、年龄≥60岁和手术时长＞60 min(P＜0.05);上颌窦内提升术围术期高血压的危险因素为年龄≥60岁(P＜0.05);而对于上颌窦外提升术, 男性、年龄≥60岁、手术时长＞60 min都不是围术期高血压的危险因素(P＞0.05)。
+
+结论: 牙种植同期植骨术中存在一定的围术期高血压风险, 男性、年龄≥60岁和手术时间＞60 min对围术期高血压的影响程度与植骨方式有关。
