@@ -1,0 +1,86 @@
+Title: Prevalence and risk factors of interproximal contact loss between implant-supported prostheses and adjacent teeth in posterior dentitions: a retrospective study
+Authors: Xiaoyi Cui, Chunmiao Zhang, Yuanyuan Li, Guike Zou, Ruifang Wang, Xiaolei Zhang, Yunyun Zuo, Chenguang Niu, Baojie He
+Journal: BMC Oral Health 2025; 25(1):1445
+PMID: 41013537 | PMCID: PMC12465378 | DOI: 10.1186/s12903-025-06783-9
+Publication date: 2025-09-26
+Source: PubMed / PMC full text
+
+== ABSTRACT ==
+
+Background: Dental implant therapy is widely used to restore dentition defects or loss, however, as a complication of it, interproximal contact loss (ICL) has not been adequately studied.
+
+Objective: To explore the prevalence of ICL between implant-supported prostheses and adjacent teeth, and to analyze the risk factors for ICL.
+
+Methods: Two hundred and four participants who received 445 implant-supported prostheses from January 2011 to December 2020 were enrolled in the study. Aluminum strips of different thicknesses were used to determine the interspace between the implant-support prostheses and the adjacent teeth. Medical records of implant prostheses and participants were reviewed. Periodontal condition, occlusion, and additional factors were examined. Statistical analyses were performed to estimate the prevalence rate of ICL and its influential factors.
+
+Results: The prevalence of ICL was 59.8% at the patient level for 10-years function duration and increased over time. For the mesial site, the prevalence of ICL was 40.0% and food impaction (OR = 4.991, P < 0.001), adjacent teeth status (OR = 4.062, P = 0.042), function duration (OR = 1.299, P < 0.001) and bruxism (OR = 2.098, P = 0.034) were independent risk factors. For the distal site, the prevalence of ICL was 24.1% and food impaction (OR = 2.809, P = 0.002), mechanical complications (OR = 7.041, P < 0.001), bruxism (OR = 2.356, P = 0.019) and peri-implantitis (OR = 2.385, P = 0.021) were independent risk factors for ICL.
+
+Conclusions: ICL was found to increase over time and was more common at the mesial site than at the distal site. Food impaction, function duration, adjacent teeth status, implant mechanical complications, bruxism and peri-implantitis were risk factors for ICL.
+
+== FULL TEXT ==
+
+INTRODUCTION
+
+Dental implant therapy has become a cornerstone for restoring dentition defects due to its high predictability and long-term success. However, its complications are frequently encountered, such as peri-implantitis, veneer porcelain chipping, interproximal contact loss (ICL), etc. ICL, the deterioration of physiological contact between implant-supported prostheses and adjacent natural teeth or implants, may result in food impaction, increasing the risk of tissue inflammation or caries in the adjacent tooth and reducing the implant longevity.
+
+Several studies have investigated the prevalence and risk factors of ICL. Data showed ICL prevalence rates ranged from 15.0 to 59.9%, which correlated with age, gender, opposing dentition, functional duration, adjacent tooth vitality, splinted implants, mesial sites, etc. However, significant heterogeneity existed in prevalence rates and risk factors across studies, potentially due to differences in measurement protocols (e.g., dental floss vs. aluminum strips) and analytical frameworks (e.g., patient-level vs. site-level analyses). Notably, all studies were limited by small sample sizes. Therefore, the epidemiology of ICL after implant restoration should be further explored. We conducted this study by investigating the prevalence and risk factors of ICL in 204 patients with implant-supported prostheses.
+
+METHODS
+
+Subjects: Participants who received implant-supported prostheses between January 2011 and December 2020 were included. Exclusion criteria: (1) functional time < 1 year; (2) undocumented proximal contact status at prosthesis delivery; (3) ongoing orthodontic treatment; (4) adjacent teeth mobility >= Grade II (Miller's); (5) defective crown restorations (e.g. veneer porcelain chipping); (6) edentulous arches; (7) refusal to participate. Power calculation: Z=1.96, p=0.15, E=0.05 yielded n=196; target sample size 215 assuming 10% loss to follow-up. Approved by IRB of Henan SATH Hospital of Stomatology, Henan University (HUSOM2020-295).
+
+Medical record review: age, gender, implant location (mandible/maxilla), implant site (molar/premolar), retention type (screw/cement), restoration material (PFM, resin-porcelain, porcelain), function duration, connection type (internal/external).
+
+Questionnaire: bruxism history, unilateral mastication habits, smoking history, diabetes history, regular periodontal maintenance.
+
+Clinical assessment: implant probing depth and bleeding at six sites with 0.25 N force probe; peri-implantitis defined as BOP and/or suppuration with radiographic bone loss > 2 mm beyond physiologic remodeling; gingival papilla recession via Jemt Papilla Index (0-4). Occlusion classified as canine guidance vs group function using 200-um articulating paper. Occlusal wear graded by Tooth Wear Index (0-3). Adjacent teeth status (implant/natural tooth, implant/crown, implant/implant), endodontic conditions (vital/nonvital/absent), food impaction (vertical/horizontal), mechanical complications (abutment dislocation, screw fracture, implant fracture, loose implant crown).
+
+Radiography: Parallel X-ray to calculate bone loss; bone level at mesial and distal sites measured separately, implant length as calibration.
+
+ICL measurement: Aluminum strips 20-100 um thick inserted into interspace between prosthesis and adjacent tooth until resistance. Final thickness recorded. If thickness exceeded 50 um, classified as ICL; otherwise proximal contact close. At delivery, initial interspace checked for dental floss to pass with high resistance.
+
+Statistical analysis: SPSS 24.0. Prevalence calculated at three levels (patient, mesial, distal). Chi-square and U tests. Logistic regression for independent factors; multivariate linear regression for interspace thickness association. Significance 0.05.
+
+RESULTS
+
+Patient characteristics: 204 participants (93 females, 111 males) with 445 implants. 140 aged <= 60, 64 > 60. 32 diabetes, 55 smoking, 23 bruxism, 84 unilateral mastication, 83 regular periodontal maintenance. 445 implants: 204 maxilla, 241 mandible; 396 molar, 49 premolar. 358 prostheses (289 single crowns, 69 bridges). 565 contact sites: 345 mesial, 220 distal.
+
+Prevalence of ICL: 122/204 (59.8%) had at least one ICL site at patient level. Site-level: 138/345 mesial (40.0%) ICL vs 53/220 distal (24.1%). Mesial interproximal space significantly thicker than distal (P < 0.001). ICL prevalence increased with functional duration; mesial > distal (P < 0.001). Mesial 37.1% at 4 years; distal 25.3% at 2 years.
+
+Factors at PATIENT level (chi-square, all NS): age (P=0.402), gender (P=0.453), diabetes (P=0.624), smoking (P=0.929), regular periodontal maintenance (P=0.267), bruxism (P=0.912), unilateral mastication (P=0.167).
+
+Factors at MESIAL site (univariate significant): food impaction (P<0.001), implant location (P=0.038), connection type (P=0.033), adjacent teeth status (P=0.007), endodontic conditions (P=0.009), function duration (P<0.001). NS: implant site (P=0.252), prostheses retained (P=0.829), bone loss (P=0.411).
+
+Mesial logistic regression (independent factors): function duration (OR=1.299, 95%CI 1.161-1.453, P<0.001) and adjacent teeth status (P<0.001) were risk factors. Implant/Crown (OR=4.062, 95%CI 1.053-15.67, P=0.042) higher risk than natural tooth; implant/implant (OR=0.314, 95%CI 0.078-1.269, P=0.104) protective. External connection (OR=2.066, 95%CI 0.858-4.975, P=0.106). Hosmer-Lemeshow chi-square 3.35 (P=0.908).
+
+Mesial cross-sectional risk model (with food impaction + gingival papilla recession): keratinized gingival width (OR=1.131, P=0.015), food impaction (OR=4.991, 95%CI 2.809-8.867, P<0.001), bruxism (OR=2.098, 95%CI 1.058-4.158, P=0.034), full mouth wear (OR=1.875, P=0.04), adjacent teeth status (P<0.001; implant/implant OR=0.233, P=0.042 protective). After removing food impaction + recession: adjacent teeth status (P<0.001) and bruxism (OR=1.905, P=0.05) remained.
+
+Mesial multivariate linear regression (adjusted R2=0.154) interspace thickness: food impaction (B=17.152, P=0.041), function duration (B=6.870, P<0.001), adjacent teeth status implant/implant (B=-34.241, P<0.001, protective), gingival papilla recession (B=26.532, P=0.001), connection type external (B=34.927, P=0.003).
+
+Factors at DISTAL site (univariate significant): food impaction (P=0.025), mechanical complications (P<0.001), occlusion (P<0.001), opposing teeth wear (P=0.013), full-mouth wear (P=0.035), gingival papilla recession (P=0.039). NS: restoration material (P=0.577), probing depth (P=0.146), probing bleeding (P=0.678).
+
+Distal logistic regression (independent factors): mechanical complications (OR=7.041, 95%CI 3.093-16.028, P<0.001) and peri-implantitis (OR=2.385, 95%CI 1.139-4.993, P=0.021). Hosmer-Lemeshow chi-square 5.199 (P=0.736).
+
+Distal cross-sectional risk model (with food impaction + recession): food impaction (OR=2.809, 95%CI 1.444-5.464, P=0.002), peri-implantitis (OR=3.258, 95%CI 1.484-7.151, P=0.003), bruxism (OR=2.356, 95%CI 1.153-4.814, P=0.019). After removing food impaction + recession: peri-implantitis (OR=2.991, P=0.004) and bruxism (OR=2.450, P=0.008) remained.
+
+Distal multivariate linear regression (adjusted R2=0.059): mechanical complications (B=39.434, P=0.006) and gingival papilla recession (B=38.150, P<0.001).
+
+DISCUSSION
+
+Patient-level ICL prevalence 59.8%, higher than 43.5% in prior meta-analyses, partly because this study reports at both site and patient levels. Site-level 40.0% mesial and 24.1% distal align with historical 34.0-78.2% range. Graded aluminum strips (20-100 um) refine Pang's method for objective incremental measurement.
+
+Mesial ICL (40.0%) exceeded distal (24.1%) by 1.66-fold. Mechanism: mesial drift of natural teeth under occlusal anterior force as physiological compensation for interproximal attrition, contrasts with implant ankylosis; differential mobility permits mesial drift of pre-implant teeth while restraining post-implant distal teeth. Distal ICL pathogenesis: flattened proximal surfaces accelerating functional wear; anatomical complexity impeding oral hygiene, plaque accumulation, gingival recession, interproximal caries.
+
+ICL increased with function duration. Transient decline in distal ICL in third year possibly from selection bias (participants retained beyond 3 years likely have higher oral hygiene adherence). Limited long-term data (n<30 for >3 years).
+
+Adjacent teeth status: implant-crown contact (OR=4.062) higher mesial ICL risk than implant-implant (OR=0.314), attributed to higher crown hardness causing hard-hard friction and microleakage corrosion. Implant-implant protective (B=-34.241) because osseointegrated implant behaves akin to ankylotic tooth with minimal drift. External connection increased ICL risk (more micromotion, mechanical complications, lateral force joint instability).
+
+Distal: mechanical complication strongly related (OR=7.041) - ICL may predispose to mechanical failures and vice versa. Occlusion key distal risk factor; reduced occlusal loading / anterior guidance protocols redirect forces to adjacent natural teeth; distal implant sites have diminished capacity to dissipate occlusal stress due to reduced adjacent support. Bruxism increased ICL at mesial (OR=2.098) and distal (OR=2.450) - parafunctional supraphysiological forces, lack of sensory feedback in osseointegrated implants.
+
+Food impaction and gingival papilla recession: hypothesized synergistic relationship where ICL manifests first then results in food impaction and papilla recession which exacerbate ICL. Sensitivity analysis: model fit deteriorated when these factors excluded (mesial adjusted R2 0.183 vs 0.111; distal 0.123 vs 0.061), suggesting contributing role. Significant positive correlation food impaction-ICL at mesial (OR=4.991) and distal (OR=2.809).
+
+Limitations: (1) measurement disturbed by natural-tooth mobility and examiner force; (2) precise moment of ICL onset indeterminable (underestimation); (3) incomplete baseline parameters at implantation (floss type/thickness, interproximal space, food impaction, gingival recession, adjacent caries, implant quality/fit). Retrospective design limits causal inference.
+
+CONCLUSION
+
+Prevalence of ICL was 59.8% at the patient level. ICL significantly more prevalent at mesial site (40.0%) than distal site (23.4%/24.1%). Identified risk factors: food impaction, function duration, status of adjacent teeth, mechanical complications, bruxism, and peri-implantitis.
