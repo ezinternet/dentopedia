@@ -1,0 +1,130 @@
+Three-year Clinical Outcome of Root Canal Treatment Using a Single-cone Technique and Ceraseal Premixed Bioceramic Sealer: A Prospective Cohort Study
+
+Spinelli A, Zamparini F, Lenzi J, Gandolfi MG, Prati C.
+European Endodontic Journal. 2024 Dec;9(4):383-393.
+DOI: 10.14744/eej.2024.75537 | PMID: 39704630 | PMCID: PMC11685523
+Source: PubMed / PubMed Central (PMC11685523).
+
+=====================================================================
+ABSTRACT
+=====================================================================
+Objective: To evaluate the outcome of teeth filled with a single cone technique and a premixed bioceramic sealer at 3 years of follow-up.
+
+Methods: Healthy patients were consecutively treated by a cohort of postgraduate operators. Root canal filling procedures were performed with NiTi rotary instrumentation, while non-surgical retreatments were performed using NiTi reciprocating instruments. Root canal filling procedures were performed using Ceraseal and the single cone technique. Post-endodontic restorations were performed after 15 days. Provisional and definitive crowns were positioned in case of non-sufficient coronal structure. Periapical radiographs were made before treatment, after filling, and at each follow-up visit (6, 12, 24 and 36 months). The periapical Index (PAI) was used to assess the presence of periapical lesions and their modifications over time. Success (absence of periapical radiolucency, PAI <3) and survival rates were evaluated. The presence of apical extrusion was also radiographically assessed. Linear regression analysis was used to investigate changes in mean PAI scores, and logistic regression analysis was used to investigate changes in the percentage of healed cases. All analyses were replicated using two distinct approaches: per protocol (PP) (treatments who completed the follow-up) and intention to treat (ITT) (all root canal treatments). A significance level of 5% was used for all statistical tests (alpha=0.05).
+
+Results: Fifty-eight endodontic treatments in 52 patients were performed (ITT). Thirty-eight endodontic treatments in 33 patients completed the 3 years of follow-up with a survival rate of 92.7%. The success rate was 85.4% (PP).
+
+Conclusion: The use of Ceraseal associated with the single cone technique was safe in maintaining endodontically affected teeth.
+
+=====================================================================
+HIGHLIGHTS
+=====================================================================
+- This study supports the use of Ceraseal in combination with the single cone technique as a safe and effective method for preserving endodontically affected teeth.
+- Teeth with necrosis and periapical lesions showed 100% healing at 36 months.
+- The morphology modification of periapical sealer extrusion can be a possible event over time.
+
+=====================================================================
+INTRODUCTION
+=====================================================================
+Hydraulic calcium silicate-based materials have gained increasing popularity in endodontic treatment due to their favourable biological, physical, and clinical properties, such as biocompatibility, good flowability, and minimal post-obturation pain. Traditionally, these materials have been utilised in a powder-liquid form, requiring a careful preparation but reliable setting.
+
+In recent years, thanks to the properties of calcium silicate-based materials, the use of the single cone technique has gained new popularity and makes them suitable to be used as root canal sealers for cold obturation techniques, overcoming the limitations of the traditional single cone technique associated to epoxy resin based or zinc oxide eugenol sealers, such as its inability to control the filling of the irregularities of the root canal and the consequent possibility of leaving many gaps between the sealer and the gutta-percha.
+
+Recently, a new category of premixed and ready-to-use root canal sealers (bioceramics) has been developed. Among these, Ceraseal is a premixed calcium silicate-based bioceramic sealer that contains tricalcium silicate (20-30%) as bioactive components. The radiopacifier used in Ceraseal is zirconium dioxide (45-50%). The chemical, physical, and biological properties of Ceraseal have been examined in just a few studies. These studies found that Ceraseal had lower radiopacity and setting time compared to AH Plus, while its flowability was similar. Furthermore, Ceraseal can release calcium ions and alkalise the surrounding environment. These sealers' characteristics could prove a great advantage in relation to extensive bone defects, such as in the presence of acute or chronic periapical lesions. Finally, a recent study with a confocal laser scanning microscope demonstrated that the sealer showed significant penetration into dentinal tubules and produced effective endodontic sealing.
+
+Despite their promising characteristics, the available clinical investigations are limited to short-term studies up to 24 months. No studies have prospectively investigated the single cone technique associated with Ceraseal premixed sealer in a longer follow-up. Further research is necessary to comprehensively understand their long-term clinical outcome.
+
+This prospective cohort study aimed to evaluate the three-year results of teeth treated with Ceraseal using the single-cone technique. Furthermore, the study analysed the impact of pre-, intra-, and post-operative factors on the outcome.
+
+=====================================================================
+MATERIALS AND METHODS
+=====================================================================
+Study Design and Sample
+Single-arm prospective cohort study conducted from May 2019 to June 2023. Patients treated in the endodontic department of Bologna University by postgraduate students under supervision of experienced master tutors following standard protocols. Local ethical committee approved (OUTENDOPROSP; CE 20079). Aligned with modified 2013 Declaration of Helsinki. Design adhered to STROBE checklist and Dodson 2007 guidelines.
+
+Patient Enrolment
+Enrolment May 2019 to February 2020. 67 patients attended requiring root canal treatment. 15 excluded (unable to attend regular follow-up due to geographical location or medical condition). Final: 52 patients requiring 58 root canal treatments enrolled.
+
+Inclusion criteria: Age 18-75 years; no antiresorptive/antiangiogenic drug; healthy status (ASA 1 or 2); needing one or more root canal treatment; teeth with less than 2 walls of structural integrity.
+Exclusion criteria: ASA >3; any pathology that could compromise bone healing/immune response; pregnancy/breastfeeding; heavy smoking (>15 cigarettes/day); exposure to radiation therapy on head/neck and malignant disease involving jaws; lack of occlusal contacts.
+
+Root Canal Treatment Procedures
+Local anaesthesia (Carboplyne 30 mg/ml) and rubber dam in all treatments. Working length (WL) established with electronic apex locator (Root ZX, Morita) confirmed with periapical radiograph. Glide path with stainless steel K-File up to size #15.02. NiTi instruments (Mtwo, VDW or Rotate, VDW) for canal shaping. 5 mL of 5% NaOCl irrigant. In calcified canals, 3.0 mL 10% EDTA chelating agent. Final rinse with 1.0 mL sterile water before filling.
+
+Retreatments: reciprocating NiTi system (Reciproc Blue, VDW) with Silver Reciproc Endomotor in "Reciproc All" mode. Apical enlargement with Reciproc Blue #25 or #40; manual stainless-steel K-files if apical size >40 suspected. 5 mL 5% NaOCl; 3.0 mL 10% EDTA if calcified; final rinse 1.0 mL sterile water.
+
+Root Canal Filling Technique
+Premixed calcium silicate-based sealer (Ceraseal, MetaBiomed, Cheongju, South Korea) used with single-cone technique and gutta-percha cones (Mynol, Gyeonggi-do, South Korea). Paper point to dry canal. Sterile stainless-steel K-file inserted to 3 mm short of WL, rotated gently to spread sealer. Single gutta-percha cone inserted slowly to WL with appropriate tug-back. Excess gutta-percha cut with heated instrument and compacted vertically with plugger. Cotton pellet + thin layer of temporary restorative material (Coltosol) in access cavity.
+
+Tooth Restoration
+One week after filling, post-endodontic restoration under rubber dam. Self-etching dentinal bonding (Clearfil SE BOND) + photopolymerisation (Elipar) 30s. Incremental flowable (G-Aenial Flow) and composite resins (G-Aenial), ~1.5 mm layers. Post placed where coronal structure insufficient. Provisional crowns 1-3 months after restoration; definitive prosthetic crowns ~6 months or more after filling. Temp Bond for provisional, polycarboxylate-based cement for definitive crowns.
+
+Radiological Evaluation
+Periapical radiographs preoperatively, intraoperatively, immediately after filling, and at recall using parallel technique. Filling quality "adequate" if gutta-percha within 0-2.0 mm of radiological apex. Overfilling, underfilling, sealer extrusion recorded. Follow-up at 6, 12, 24, 36 months. Radiographs digitised at >=960 dpi. Periapical Index (PAI) scored at initial and final stages by two independent single-blind evaluators. Sealer extrusion measured in mm along longitudinal axis using ImageJ.
+
+Definition of Success and Survival Criteria
+- Success: teeth free from symptoms with no periapical radiolucency; or symptom-free teeth with reduction in size of radiographic periapical lesions.
+- Failure: may/may not show radiographic periapical lesions, be non-functional, or present symptoms; or symptom-free but unchanged, newly formed, or enlarged lesions.
+
+Statistical Analysis
+Linear regression for mean PAI changes; logistic regression for percentage healed (PAI <=2). Two-way clustering (teeth and patients) adjustment. Time as categorical covariate. Barnard CSM exact unconditional test for 2x2 tables correlating baseline characteristics with PAI at 36 months (healed <=2 vs >2). Per-protocol and intention-to-treat (LOCF imputation) analyses. Significance 5%, two-sided. Stata 18 and R 4.3.1.
+
+=====================================================================
+RESULTS
+=====================================================================
+52 patients undergoing 58 root canal treatments (14 incisors, 8 canines, 15 premolars, 21 molars).
+Baseline: high number of teeth with periapical lesion (58.6%) due to pulp necrosis (24.1%) or previous treatment failure / exacerbated apical lesion (34.5%). Apical diameter >40 in 46.6%.
+
+Diagnosis distribution: Pulpitis 21 (36.2%), Pulp necrosis 14 (24.1%), Exacerbated periapical lesion 23 (39.7%).
+Tooth location: Maxilla 43 (74.1%), Mandible 15 (25.9%).
+Obturation quality: Underfilled 5 (8.6%), Adequate 50 (86.2%), Overfilled 3 (5.2%).
+
+Sealer extrusion observed in 14/58 treatments (24.2%; reported as 24%). Three of these (5.2% of total; 21% of extrusions) showed complete radiographical resorption of the sealer over time. (Table 2: No extrusion 44 = 75.9%; Yes without resorption 11 = 19.0%; Yes with resorption 3 = 5.2%.)
+
+Follow-up: 38/58 (65.5%) completed 36-month follow-up. 20 (34.5%) lost: premature death 2 (3.5%), extraction due to horizontal root fracture 3 (5.2%), unknown 15 (25.9%). After excluding deaths and unknown dropouts, observed survival = 38/41 = 92.7%.
+
+Intention-to-treat (n=58):
+- Mean PAI baseline 2.5 (95% CI 2.1-2.9); at 36 months 1.5 (95% CI 1.3-1.8); reduction -1.0 (95% CI -1.4 to -0.6).
+- Cases with PAI <=2: baseline 41.4% (29.1-54.8); 36 months 79.3% (66.5-88.1); OR 5.43 (2.74-10.76).
+
+Per-protocol (n=38):
+- Mean PAI baseline 2.4 (95% CI 2.0-2.9); at 36 months 1.2 (95% CI 1.0-1.4); reduction -1.3 (95% CI -1.7 to -0.8).
+- Cases with PAI <=2: baseline 42.1% (27.2-58.7); 36 months 92.1% (77.5-97.5); OR 16.04 (4.79-53.74).
+
+Abstract reports overall PP success rate 85.4% and survival rate 92.7%.
+
+Patient-related characteristics (age, sex, tooth location, type) did not influence healing percentage.
+Outcome by diagnosis (per protocol): Pulpitis 100% success, Pulp necrosis 100% success, Retreatment (exacerbated periapical lesion) 80.0%.
+Intention-to-treat by diagnosis: Pulpitis 100%, Necrosis 71%, Retreatment 65%.
+
+Significant baseline associations with PAI <=2 at 36 months (ITT, Barnard CSM):
+- Pulpitis diagnosis: +46% (18, 59), p=0.002 (favourable)
+- Exacerbated periapical lesion: -34% (-57, -2), p=0.034 (unfavourable)
+- Sealer extrusion (No): +33% (3, 59), p=0.028 (favourable)
+- Sealer extrusion (Yes without resorption): -39% (-65, -11), p=0.003 (unfavourable)
+- Composite definitive restoration: +28% (0, 55), p=0.045 (favourable)
+- Crown restoration: -30% (-57, -1), p=0.036 (unfavourable)
+
+No post-surgical clinical symptoms (post-operative pain, fistulas, swelling) noted.
+
+=====================================================================
+DISCUSSION (key points)
+=====================================================================
+- Clinical success rate over 90% after 36 months (per protocol PAI <=2 = 92.1%); comparable to a prior retrospective single-cone study with another premixed sealer.
+- Only three prior clinical studies with shorter follow-up reported Ceraseal outcomes: 99.1% success at mean 19.7 months (warm gutta-percha, loose criteria); 87% healing / 100% survival at 3 months (single cone); 97.8% survival at 24 months (carrier-based).
+- Teeth with no lesions had significantly higher healed status (100% healthy, PAI 1-2). Previous root canal treatment (retreatment) showed lower healing (80%). Unexpectedly, all teeth with pulp necrosis and a prior periapical lesion showed 100% healing at 36 months.
+- Supports premixed bioceramic sealers (Ceraseal) in presence of periapical lesions and necrotic pulp where apical diameter and wet apices hinder set of hydrophobic (epoxy-resin) sealers.
+- Sealer extrusion of CaSi-based sealers is higher than epoxy resin; extrusion of CaSi sealer may have positive rationale due to bioactive/osteoconductive/osteoinductive properties.
+- This study: moderate extrusion (24%), relatively low resorption (21% of extrusions completely resorbed). Similar sealer with warm techniques: 15% extrusion, 50% resorbed. AH Plus Bioceramic with warm techniques: 46% extrusion, 50% resorbed. Endosequence BC with single cone: 47.4% extrusion, 50% partial/complete absorption. Different sealer compositions (calcium silicate / radiopacifier %) influence physical properties; AH Plus Bioceramic has higher solubility, flowability, apparent porosity vs Ceraseal.
+- All treatments by postgraduate operators under tutor supervision; technical expertise did not affect outcomes; no iatrogenic complications.
+- Rotary NiTi for primary RCT; reciprocating for retreatment.
+
+Limitations: no control group, limited cohort, relatively brief 36-month follow-up. No CBCT (ALARA principle); PAI prognostic value confirmed. ESE recommends minimum 4-year observation to conclusively determine healing.
+
+=====================================================================
+CONCLUSION
+=====================================================================
+- Roots filled with single cone technique and Ceraseal premixed bioceramic sealer showed high survival and healing rates after 36 months.
+- All teeth with initial diagnosis of pulpal disease or pulpal necrosis completely healed after 36 months.
+- A high percentage of teeth with a previous root canal treatment and periapical exacerbation were healed.
+- Findings support clinical use of Ceraseal premixed bioceramic sealer with single cone technique, suggesting a potential therapeutic indication in pulpal necrosis.
