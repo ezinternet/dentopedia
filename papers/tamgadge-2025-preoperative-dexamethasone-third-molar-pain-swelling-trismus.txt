@@ -1,0 +1,74 @@
+Efficacy of Single-Dose Preoperative Dexamethasone in Managing Pain, Swelling, and Trismus After Impacted Mandibular Third Molar Surgery: A Clinical Study
+
+Authors: Prashant B Tamgadge, Bhavik Ramanlal Patel, Eklavya Sharma, Harish Kumar, Parth Tushar Parekh, Sameer Gupta, Amardeep Arun
+Journal: Journal of Pharmacy & Bioallied Sciences (J Pharm Bioallied Sci) 2025;18(2):105-107
+PMID: 42005489
+PMCID: PMC13086388
+DOI: 10.4103/jpbs.jpbs_466_25
+Source: PubMed Central full text (PMC13086388)
+
+== ABSTRACT ==
+
+Objective:
+To evaluate the efficacy of a single preoperative intramuscular injection of dexamethasone in reducing trismus, swelling, and pain following the surgical removal of impacted mandibular third molars.
+
+Materials and Methods:
+This research had 60 participants aged 18-30 years, all requiring bilateral extraction of mandibular third molars. A single-blind methodology was employed, assigning the right side as the test site to receive 4 mg of intramuscular dexamethasone, while the left side served as the control, receiving a placebo of sterile water. Assessments for pain, mouth opening, and swelling were conducted before the procedure and again on the 2nd and 7th postoperative days, utilizing the Visual Analog Scale (VAS), interincisal distance measurements, and specific facial landmarks for swelling evaluation.
+
+Results:
+The test site exhibited significantly lower pain scores compared to the control site on both the 2nd and 7th days. Mouth opening was significantly improved in the dexamethasone group, and facial swelling was significantly reduced by the 7th day (< 0.05). No adverse reactions were reported.
+
+Conclusion:
+A single preoperative dose of dexamethasone effectively reduces postoperative trismus, swelling, and pain, enhancing recovery and patient satisfaction. Its use is recommended for third molar surgeries to manage postoperative sequelae.
+
+== INTRODUCTION ==
+
+The removal of impacted mandibular third molars is a routine procedure in dental practice; however, it is frequently accompanied by postoperative challenges such as trismus, swelling, and pain, which can adversely impact a patient's quality of life. These complications may interfere with daily functions such as eating, speaking, and working, emphasizing the need for effective strategies to manage postoperative outcomes. Dexamethasone, a corticosteroid with powerful anti-inflammatory properties, works by suppressing the production and release of pro-inflammatory mediators such as prostaglandins and leukotrienes. When administered preoperatively, dexamethasone has demonstrated efficacy in reducing inflammation and related symptoms in various surgical contexts. Its long duration of action, potent anti-inflammatory effects, and minimal mineralocorticoid impact make it a favorable option over other corticosteroids. This research investigates the impact of a single preoperative intramuscular injection of dexamethasone on reducing postoperative trismus, swelling, and pain associated with third molar surgeries, to enhance recovery and patient satisfaction.
+
+== MATERIALS AND METHODS ==
+
+This prospective clinical research had 60 patients aged 18-30 years requiring bilateral surgical extraction of impacted mandibular third molars. Ethical approval was obtained, and informed consent was acquired from all participants. Patients with medical comorbidities, pregnancy, or symptomatic third molars were excluded. A single-blind design was adopted, wherein the right side was designated as the test site, receiving a preoperative intramuscular injection of 4 mg dexamethasone, while the left side served as the control, receiving 1 cc of sterile water as a placebo. The two extractions were separated by a minimum of three weeks.
+
+Pain was assessed using a VAS; mouth opening was measured interincisally with a Vernier caliper, and facial swelling was quantified by marking fixed anatomical points. Measurements were recorded preoperatively, and on the 2nd and 7th postoperative days. Data were analyzed using appropriate statistical tests to evaluate the efficacy of dexamethasone in reducing postoperative complications.
+
+== RESULTS ==
+
+A total of 60 patients participated, with 34 males (56.7%) and 26 females (43.3%). The majority (53.3%) of surgical extractions were in the 27-30 age group. Mesioangular impaction was the most common type (41.66%), followed by vertical (30%), horizontal (21.66%), and distoangular (6.66%) impactions.
+
+The test site (dexamethasone) demonstrated significantly lower pain scores on the VAS compared to the control site on both the 2nd and 7th postoperative days (< 0.05).
+
+The test site showed statistically significant improvement in mouth opening compared to the control site on both the 2nd and 7th days (< 0.05).
+
+Facial swelling was significantly reduced at the test site by the 7th day (< 0.05), though no significant difference was observed on the 2nd day.
+
+Table 1. Pain scores (VAS)
+Day      | Test site | Control site | P
+2nd day  | 1.2±0.5   | 2.3±0.7      | <0.001
+7th day  | 0.4±0.2   | 1.6±0.6      | <0.001
+
+Table 2. Mouth opening and swelling
+Parameter          | Test site | Control site | P
+Mouth opening (cm) | 3.5±0.3   | 2.7±0.4      | <0.001
+Swelling (cm)      | 2.1±0.3   | 2.8±0.5      | 0.04
+
+== DISCUSSION ==
+
+The extraction of impacted mandibular third molars frequently results in notable postoperative discomfort, including pain, swelling, and restricted mouth opening (trismus). These complications can disrupt daily routines and negatively impact quality of life, emphasizing the need for effective management strategies. In the present research, dexamethasone significantly reduced postoperative complications, aligning with outcomes reported in prior studies.
+
+Dexamethasone, a highly potent glucocorticoid, achieves its anti-inflammatory effects by suppressing the production of pro-inflammatory mediators such as prostaglandins and leukotrienes. A systematic review and meta-analysis conducted by O'Hare highlighted its efficacy in mitigating pain, trismus, and swelling after mandibular third molar surgeries, establishing it as a reliable option for postoperative management. Similarly, Lima demonstrated that oral dexamethasone was more effective than diclofenac in reducing postoperative discomfort, reinforcing its utility in improving patient recovery outcomes.
+
+This research observed significantly lower pain scores in the dexamethasone-treated group on both the 2nd and 7th postoperative days, corroborating findings by Grossi, who demonstrated the efficacy of submucosal dexamethasone in reducing postoperative pain. Neupert also emphasized the prolonged analgesic effect of dexamethasone due to its extended half-life.
+
+Improvements in mouth opening and reductions in facial swelling were also significant in the dexamethasone group. Aljohani's comparative research demonstrated similar benefits, reinforcing its utility in enhancing functional recovery after third molar extractions. The ability of dexamethasone to mitigate postoperative swelling was also supported by Grossi, who noted decreased edema in their research population.
+
+This research aligns with previous research on surgical techniques, as reported by Pillai, which emphasized the importance of minimizing postoperative sequelae for patient satisfaction. Furthermore, Maiti highlighted alternative methods such as laser surgery, which can also reduce postoperative swelling, indicating that combining dexamethasone with advanced techniques could yield optimal results.
+
+In contrast, Mazhar compared pre-emptive oral ketorolac and local tramadol, demonstrating the importance of tailoring pharmacological interventions based on patient needs and procedural specifics. These findings highlight the growing emphasis on personalized approaches to postoperative care.
+
+While the current research used a bilateral design to minimize inter-individual variability, limitations such as a moderate sample size and reliance on subjective pain measurements were noted. Objective methods, such as biomarkers of inflammation, could enhance the robustness of future studies.
+
+== CONCLUSION ==
+
+In conclusion, the preoperative administration of a single dose of dexamethasone is a safe and effective strategy for managing postoperative sequelae associated with third molar extractions. Its ability to significantly reduce trismus, swelling, and pain underscores its clinical utility. Further large-scale studies are warranted to validate these findings and establish standardized dosing protocols for routine practice.
+
+Conflict of interest: There are no conflicts of interest.
