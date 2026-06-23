@@ -1,0 +1,110 @@
+Determining the optimal irrigation activation or agitation techniques for postoperative pain control: A network meta-regression of clinical trials
+
+Hatipoğlu FP, Öksüzer MÇ, Karobari MI, Hatipoğlu Ö.
+The Japanese dental science review (Jpn Dent Sci Rev). 2025;62:26-45.
+DOI: 10.1016/j.jdsr.2025.12.001
+PMID: 41510144 | PMCID: PMC12774670
+
+== ABSTRACT ==
+
+Postoperative pain after root canal treatment remains a frequent clinical problem despite advances in instruments and irrigants. This Bayesian systematic review and network meta-regression compared seven irrigation activation/agitation techniques—positive pressure, manual dynamic, sonic, ultrasonic, multisonic, negative-pressure and laser-activated irrigation—with respect to Day-1 postoperative pain. Electronic searches of PubMed, Cochrane Library, Scopus and Web of Science were conducted up to 10 December 2024; 57 trials (2595 patients) were included qualitatively and 31 contributed to the quantitative network. Pain scores were rescaled to a 0–10 scale and analysed as mean differences, with symptomatic status modelled as an ordinal covariate and treatment rankings summarised using SUCRA values. Laser-activated irrigation (LAI) produced the lowest Day-1 pain and showed a clinically important advantage over manual dynamic irrigation (MDI) exceeding the 1.0-point minimal clinically important difference, while also outperforming positive pressure and ultrasonic irrigation with smaller, statistically but not clinically important effects. Multisonic and negative-pressure irrigation also ranked favourably, whereas MDI consistently showed the highest pain scores and the lowest SUCRA values. Baseline symptomatic status was a strong effect modifier, with symptomatic teeth experiencing substantially higher pain irrespective of technique. Overall CINeMA confidence was low to very low for most contrasts, indicating that these findings should be interpreted cautiously and highlighting the need for larger, better-designed trials with standardised pain-assessment protocols.
+
+== 1. INTRODUCTION ==
+
+Postoperative pain is a common and clinically significant complication following root canal treatment (RCT). Etiology is multifactorial — microbial, mechanical, and chemical. Microbial persistence or apical extrusion of bacteria/debris provokes periapical inflammation; prostaglandins and cytokines contribute to localized pain. Over-instrumentation and apical extrusion of irrigants exacerbate tissue irritation.
+
+Effective irrigation reduces microbial load, removes debris and smear layer, and minimizes apical extrusion. NaOCl is the most common irrigant; EDTA and CHX are adjuncts. Newer agents: phytic acid, QMix.
+
+Activation/agitation techniques largely determine clinical effectiveness. Conventional positive pressure irrigation (PPI) may inadequately clean the apical third. Advanced systems: passive ultrasonic irrigation (PUI), sonic irrigation (SI), negative pressure irrigation (NPI), laser-activated irrigation (LAI), multisonic platforms (e.g., GentleWave). PUI improves disinfection via acoustic streaming; NPI reduces apical extrusion via controlled suction; LAI and multisonic deliver energy deeper. Because all modalities target similar biological pathways (nociceptor activation secondary to inflammation), expected differences in pain are inherently small.
+
+No prior review has simultaneously compared the full spectrum of contemporary irrigation activation/agitation techniques within a single connected evidence network, nor incorporated preoperative symptomatic status as a formal effect modifier within a Bayesian framework. This Bayesian network meta-regression jointly analyses seven irrigation approaches with covariate adjustment, probabilistic treatment ranking (SUCRA), and clinical interpretation anchored to a 1-point VAS MCID.
+
+== 2. METHODOLOGY ==
+
+PRISMA-NMA guidelines. Registered in OSF. PICOS framework. Population: patients undergoing endodontic treatment with postoperative pain assessment. Interventions: LAI, SI, UI, MDI, MI, NPI, with PPI as the primary comparator. Primary outcome: pain intensity (VAS or NRS). Only clinical trials included.
+
+Exclusions: no endodontic patients, no postoperative pain outcomes, non-original publications, in vitro/animal models. For NMR: incomplete quantitative data, single-arm without comparator, categorical/non-continuous pain outcomes, retracted publications, low-level laser therapy (LLLT) directed at tissue analgesia rather than irrigant activation, combined irrigation/activation techniques not assignable to a single mechanistic node.
+
+Search: PubMed, Cochrane Library, Scopus, Web of Science. MeSH + keywords. No date/language restriction (in practice only English and Turkish captured). Manual searches + grey literature. Final search December 10, 2024.
+
+Two independent reviewers (M.Ç.Ö., F.P.H.); third reviewer (Ö.H.) for discrepancies. EndNote X9.
+
+Risk of bias: revised JBI Critical Appraisal Tool for RCTs, five domains. Overall: High Risk if ≥1 domain high; Moderate if no domain high but ≥1 moderate/unclear; Low only if all low.
+
+Within-study bias for pairwise comparisons: CINeMA-aligned, RoB to numeric (1=low, 2=some concerns, 3=high), inverse-variance weights for direct contrasts, two-step indirect pathways (A-C-B) for indirect.
+
+Publication/reporting bias: ROB-MEN tool.
+
+Transitivity/indirectness: structured comparison of effect modifiers (NaOCl concentration/volume, EDTA use, pre/post-op NSAID policies, tooth type, symptomatic status, visit protocol). Absolute Standardized Differences (ASD): green (<1.00), amber (1.00–2.00), red (>2.00).
+
+Data synthesis: pain scores linearly rescaled to 0–10 (0–100 VAS divided by 10). Median±IQR or range converted to mean±SD (Luo et al. for mean; Wan et al. for SD). Day-1 selected as the sole quantitative outcome — only timepoint uniformly reported across all eligible trials, allowed complete network connectivity, maintained transitivity/consistency. Bayesian random-effects network meta-regression in R (bnma). Symptomatic status modeled as ordinal covariate (0=asymptomatic, 1=mixed, 2=symptomatic) with exchangeable slopes. Inverse-variance weighting for multi-arm same-treatment. Weakly informative priors (half-normal for heterogeneity σ ~ |N(0,5)|). ≥40,000 post-burn-in MCMC iterations per chain. Results: mean differences with 95% credible and prediction intervals; SUCRA rankings (lower = less pain).
+
+Node-splitting diagnostics: REML netmeta; p<0.05 inconsistent, p<0.10 borderline. Leave-one-out (LOO) and leave-one-design-out (LOD) influence analyses.
+
+CINeMA confidence: six domains (within-study bias, reporting bias, indirectness, imprecision, heterogeneity, incoherence) assessed manually. MCID = ~10 mm on 100-mm VAS = 1.0 point on 0–10 VAS/NRS (Myles et al.). Equivalence range −1.0 to +1.0 = "no important clinical difference."
+
+== 3. RESULTS ==
+
+Study selection: 1088 records (PubMed 439, Web of Science 141, Scopus 152, Cochrane 295, grey literature 61). After 423 duplicates removed, 665 title/abstract screened, 542 excluded. 123 full-text reviewed, 67 ineligible → 57 studies qualitative. 31 studies in the network meta-regression; 26 excluded (non-comparable/categorical scales, no extractable continuous data, single technique, LLLT-only, unmappable combined protocols).
+
+Network geometry: 31 studies, 2595 patients. Seven interventions, 21 possible pairwise comparisons, 14 with direct evidence. Connected network. 19 two-arm + 12 multi-arm studies. Average outcome 2.186.
+
+Study characteristics: 57 studies (53 journal articles, 4 theses). Ages 5–89 years. Rotary instrumentation most common; mandibular molars and single-rooted teeth most frequent. NaOCl + EDTA primary irrigants. Mostly single/two-visit. Pain assessed by VAS (n=40), NRS (n=9), Verbal Rating Scale (n=4); 6 h to 7 days. No routine preoperative analgesic. Postop pain managed with PRN NSAIDs (most commonly ibuprofen 200–600 mg; paracetamol alternative). Rescue medication only if moderate-to-severe.
+
+Intervention characteristics (study count, patients, mean outcome):
+- PPI (positive pressure): 25 studies, 863 patients, mean 2.57 — most frequently examined
+- SI (sonic): 15 studies, 517 patients, mean 1.54
+- UI (ultrasonic): 15 studies, 421 patients, mean 2.26
+- LAI (laser-activated): 12 studies, 478 patients, mean 1.88 (range 0.3–5.3)
+- MDI (manual dynamic): 5 studies, 214 patients, mean 3.12 (range 0.91–7.02) — highest average pain
+- MI (multisonic): 2 studies, 30 patients, mean 0.84
+- NPI (negative pressure): 2 studies, 72 patients, mean 1.65
+
+Risk of bias within studies: 16 (28%) low, 34 (60%) moderate, 7 (12%) high. Outcome assessment consistently low risk. Common issues: insufficient statistical detail, missing power analyses.
+
+Synthesis of results — Day-1 pairwise:
+- Only ONE contrast clearly clinically important (>1 VAS MCID): LAI vs MDI. LAI markedly lower (MD −2.46; 95% CrI −3.64 to −1.27; 95% PI −5.22 to 0.31; Pr(|MD|>1.0)=0.99).
+- MDI vs MI: MD 2.33 (95% CrI 0.01–4.63)
+- MDI vs NPI: MD 2.17 (95% CrI 0.06–4.26)
+- MDI vs SI: MD 1.58 (95% CrI 0.43–2.72)
+- MDI vs UI: MD 1.58 (95% CrI 0.48–2.68)
+- LAI vs PPI: MD −1.47 (95% CrI −2.25 to −0.69)
+- LAI vs UI: MD −0.87 (95% CrI −1.75 to −0.01)
+Prediction intervals for these contrasts were wide and often crossed zero.
+
+SUCRA ranking (median; lower pain = higher rank):
+- LAI: 85% (95% CrI 50–100) — highest
+- MI: 73% (CrI 16.7–100)
+- NPI: 70% (CrI 16.7–100)
+- UI: ≈50% (CrI 16.7–83.3)
+- SI: ≈50% (CrI 16.7–83.3)
+- PPI: 21% (CrI 0–50)
+- MDI: 1.5% (CrI 0–16.7) — last
+
+Covariate effects (symptomatic status as effect modifier): all treatment-specific slopes positive, 95% CrI not crossing zero — symptomatic teeth consistently higher pain. Steepest gradients: UI (β=4.13; CrI 3.92–4.35), LAI (β=3.25; CrI 2.71–3.80), SI (β=2.59; CrI 2.32–2.86). More modest: MI, NPI, PPI, MDI (β ≈ 0.88–1.42).
+
+Publication/reporting bias: no significant evidence (ROB-MEN). No small-study effects.
+
+Transitivity: most contrasts "green." Amber: MDI vs PPI, NPI vs SI, MI vs SI, MI vs UI (single modifier driven). Red: MI vs UI only (EDTA use, tooth categorical; sparse, indirect).
+
+Node-splitting: most consistent (p≥0.10). Significant inconsistency: contrasts involving LAI and MDI, and MDI vs SI/UI/NPI (p<0.05). Borderline: PPI vs SI, MDI vs PPI (0.05<p<0.10). Influence: exclusion of Elzainy et al. resolved inconsistency across MDI comparisons; Mittal et al. and Abbara et al. reduced LAI inconsistency.
+
+Sensitivity analysis: effect estimates broadly consistent. Two comparisons changed MCID category: LAI vs MDI attenuated from "clinically important (>MCID)" to "uncertain vs MCID" (LAI still favoured); MDI vs PPI shifted from "uncertain vs MCID" to "no important difference."
+
+CINeMA confidence: generally low to very low. Only LAI vs MDI reached MODERATE confidence. MI and NPI especially fragile (often single study/indirect) → very low.
+
+== 4. DISCUSSION (key points) ==
+
+Principal finding: LAI associated with substantially lower Day-1 pain vs MDI, exceeding MCID of 1.0 VAS. LAI also statistically superior to PPI and UI but below MCID. Enhanced hydrodynamic activation, photoacoustic streaming, improved intraradicular penetration of LAI may attenuate early inflammation.
+
+PPI: most widely used but generally inferior for early postop pain (lower SUCRA, higher mean pain) — restricted fluid penetration, suboptimal apical flow, greater apical extrusion potential. Only LAI showed a clearly superior SUCRA profile; PPI/SI/UI/MI/NPI overlapped considerably.
+
+MDI: performed even worse than PPI; ranked last. Repetitive in-and-out piston motion may increase apical pressure, promote debris/irrigant extrusion, amplify mechanical irritation. Reliance on purely mechanical agitation appears suboptimal/counterproductive for minimizing postop pain.
+
+UI and SI (acoustic streaming): lower Day-1 pain than conventional but rarely reached MCID; wide prediction intervals. MI (only 2 studies) ranked among top performers. NPI performed favorably (minimizes apical extrusion via controlled suction) — but limited trials reduce certainty.
+
+Symptomatic status: strong, consistent effect modifier across all strategies — may overshadow differences between activation methods. Underscores need for symptom-based risk stratification and tailored analgesic regimens.
+
+== 5. CONCLUSION ==
+
+LAI provides the most consistent reduction in Day-1 postoperative pain, with a clinically important advantage demonstrated only over MDI (highest pain, ranked last). Other systems (UI, SI, MI, NPI) generally outperformed conventional PPI and MDI, but effects were modest and often failed to exceed the 1.0 VAS MCID with wide prediction intervals. Baseline symptomatic status is a strong effect modifier. Predominantly low to very low CINeMA confidence — interpret cautiously; larger, rigorously designed RCTs with standardised protocols and pain-assessment schedules needed.
