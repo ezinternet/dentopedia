@@ -1,0 +1,53 @@
+Which is the best adhesive system for primary tooth enamel? A systematic review and network meta-analysis of bond strength data
+
+Authors: Francisca Jennifer Duarte de Oliveira, Maria Larissa da Silva Flor, Boniek Castillo Dutra Borges (et al.)
+Journal: Japanese Dental Science Review
+Year: 2025
+DOI: 10.1016/j.jdsr.2025.11.005
+PMID: 41458471 | PMCID: PMC12741287
+Source: PubMed Central full text (JATS)
+
+== ABSTRACT ==
+Purpose: Evaluate the bond strength performance of the different types of adhesive systems to the primary tooth enamel.
+Methods: Registered in OSF. Two-stage literature search by two independent reviewers on PubMed/MEDLINE, Embase, Web of Science, Scopus, and gray literature, to identify in vitro studies evaluating the bond strength of different adhesive systems to primary tooth enamel. Risk of bias evaluated with the QUIN tool. Bayesian network meta-analysis conducted to evaluate the bond strength at 24 h.
+Results: Final sample = 14 articles. The 2-bottle universal adhesive system with phosphoric acid etching (PAE) was statistically similar to the 3-step etch-and-rinse (E&R). Self-etch and etch-and-rinse adhesives with the same number of steps had similar performances. In the SUCRA ranking, 3-step E&R had the highest probability of being ranked the best adhesive, while 1-step self-etch without PAE had the lowest. All studies had a low risk of bias.
+Conclusion: 2-bottle universal adhesive systems with PAE can probably provide similar bond strength to primary tooth enamel compared to 3-Step E&R. The similar performance of some tested adhesive systems indicates the possibility to reduce clinical steps.
+
+Highlights:
+- 3-Step etch-and-rinse has the highest probability of providing better adhesion to primary enamel.
+- Two-bottle Universal adhesives provide satisfactory bond strength to primary enamel.
+- For primary enamel, self-etch and etch-and-rinse adhesives may have similar performances.
+
+== METHODS (detail) ==
+PICO: P = primary tooth enamel; I = any dental adhesive; C = different adhesive systems/strategies; O = bond strength.
+Inclusion: studies investigating bond strength of different adhesive systems/strategies in primary tooth enamel; no year/language limit.
+Exclusion: pre-treatment before adhesion, studies comparing primary vs permanent enamel, variations of etching agents/time, bovine enamel, saliva contamination.
+Databases searched Jan 2025; Rayyan platform. Two calibrated reviewers (k = 0.83).
+Risk of bias: QUIN tool, 12 domains; all 14 studies graded LOW risk (>70%). Most penalized domains: C2 (sample size calculation), C6 (operator details), C7 (randomization).
+Statistics: Mixed treatment comparison (MTC) Bayesian network meta-analysis; mean difference effect measure; 3-step etch-and-rinse (3_Step_ER) as reference treatment. Random-effects model chosen (lower DIC). Inconsistency via node-split; SUCRA for ranking. MetaInsight software.
+Outcome: shear / microshear / microtensile bond strength at 24 h. Studies with thermocycling/aging (Kensche, Tichy, Kim, Marquezan 2007) excluded from quantitative analysis → 10 studies eligible for NMA. 8 treatment nodes compared.
+
+== RESULTS (detail) ==
+- 331 articles retrieved → 14 included (published 2001–2024; Brazil 5, Iran 2, China 2, USA 1, Portugal 1, Germany 1, Czech Rep 1, South Korea 1).
+- 35 different adhesive systems tested (etch-and-rinse and self-etch modes). 6 studies had ≥1 universal-adhesive group.
+- Human deciduous teeth (exfoliated or orthodontically removed). Stored distilled water 24 h before testing. 3 studies thermocycled.
+- 11 shear bond strength, 3 microtensile. Failure: mostly mixed adhesive failures; most adhesive failures with self-etch mode.
+- Substrate: 5 studies aprismatic (no sanding), 9 prismatic (SiC-sanded).
+- Network connected, 8 treatments.
+- vs reference (3_Step_ER): only 2b_Univ_PAE (two-bottle universal + phosphoric acid etch) was statistically SIMILAR to 3_Step_ER. All other systems statistically INFERIOR.
+- All pairwise: 3_Step_ER superior to 2_Step_SE_noPAE, 2_Step_ER, 2b_Univ_noPAE, 1b_Univ_noPAE, 1b_Univ_PAE, 1_Step_SE_noPAE. Also 2_Step_ER and 2b_Univ_PAE superior to 1_Step_SE_noPAE. No significant difference among other systems → comparable.
+- SUCRA ranking: 3_Step_ER best; 1_Step_SE_noPAE worst.
+- No inconsistency detected (node-split p>0.05); deviance plot near equality line.
+
+== DISCUSSION KEY POINTS ==
+- Primary teeth differ from permanent: thinner, less mineralized enamel/dentin; ~30 μm aprismatic surface layer resists acid etching → more challenging adhesion.
+- 3_Step_ER best for primary enamel too (consistent with permanent-tooth literature).
+- 2b_Univ_PAE comparable to gold standard → prior phosphoric acid etching + 10-MDP (stable Ca-MDP salts, H-bonds with collagen, resists MMP degradation) elevates performance.
+- BUT 2_Step_ER NOT similar to 3_Step → phosphoric acid etching alone cannot fully explain results. Separate primer application (3-step) and thicker, less hydrophilic adhesive layer favor durability/stress dissipation.
+- Within same number of steps, self-etch ≈ etch-and-rinse → for primary enamel, acid etching does not significantly improve adhesion across all strategies; simplification possible.
+- NOT a clinical recommendation: immediate (24 h) in vitro bond strength only; no aging/thermocycling/saliva simulation in quantitative pool.
+
+== LIMITATIONS ==
+- Exclusive reliance on immediate in vitro bond strength; no simulation of hydrolytic degradation, thermal cycling, mechanical stress, salivary activity.
+- Cannot provide direct clinical evidence in humans.
+- Future work: artificial aging, emerging adhesives, RCTs.
