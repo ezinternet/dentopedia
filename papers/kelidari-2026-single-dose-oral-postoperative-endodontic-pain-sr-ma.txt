@@ -1,0 +1,81 @@
+Efficacy and safety of single-dose oral postoperative medications in reducing pain after endodontic treatment: a systematic review and meta-analysis
+Kelidari K, Samani D. BMC Oral Health. 2026;26(1):339. PMID 41588508; PMCID PMC12918069; DOI 10.1186/s12903-025-07458-1
+Source: PubMed Central full text (PMC12918069). According to PubMed.
+
+ABSTRACT
+Background: Post-endodontic pain is a common complication that negatively impacts patients' daily lives. Single-dose oral analgesics are often prescribed after non-surgical root canal treatments to manage discomfort; however, their relative efficacy remains unclear. This systematic review and meta-analysis aimed to evaluate the effectiveness of different single-dose postoperative medications for pain relief following root canal treatment (RCT).
+Methods: A comprehensive search of PubMed, Scopus, Embase, and Cochrane CENTRAL up to February 2025 was conducted to identify randomized controlled trials (RCTs) comparing single-dose postoperative analgesics with placebo in patients undergoing non-surgical endodontic treatment. Pain outcomes were assessed using Visual Analog Scales (VAS) at 6-8, 12, and 24 h post-treatment. Risk of bias was evaluated using the Cochrane RoB 2 tool. Pairwise and frequentist network meta-analyses were performed, and treatments were ranked using P-scores.
+Results: Ten RCTs were qualitatively analyzed, while five of them were eligible for quantitative analyses and were included in the meta-analysis. They were from four countries with a combined sample size of 347 participants. At 6-8 h, Diclofenac + Acetaminophen provided the greatest pain reduction (MD: -6.28, 95% CI: -11.99 to -0.56), followed by Novafen and Ibuprofen + Acetaminophen. At 12 and 24 h, Novafen and Naproxen consistently demonstrated superior analgesic effects, whereas Tramadol and Ibuprofen offered moderate relief. Ibuprofen combinations with Acetaminophen or Alprazolam showed variable efficacy. Sensitivity analyses confirmed the robustness of these findings.
+Conclusions: Single-dose oral medications administered after non-surgical root canal treatments effectively reduce post-endodontic pain. Diclofenac + Acetaminophen is most effective for immediate short-term relief, while Novafen and Naproxen provide sustained efficacy at later time points.
+Keywords: postoperative endodontic pain; network meta-analysis; pain management; endodontic treatment
+Trial registration: PROSPERO CRD420251001005.
+
+INTRODUCTION
+Dental pain negatively affects daily life; toothache is a major oral health condition impeding daily activities; 27% of patient reports cite pain as chief complaint. A central aim of endodontic therapy is prevention/resolution of dental pain. Post-endodontic pain is multifactorial (gender, tooth type, timing/dosage of agents, instrumentation/obturation). Primary pharmacologic strategies: NSAIDs and glucocorticoids (inhibit inflammatory mediators sensitizing pulpal nociceptors), agents impeding peripheral nerve impulse transmission, and agents modulating central pain mechanisms. Previous studies (varying pre/intra/post timing) reached no consensus on timing/dosage. This review limits to single-dose POSTOPERATIVE medications because of adverse effects, financial burden, and (most importantly) compromised adherence with multiple-drug therapies. No prior SR specifically examined single-drug administration following RCT.
+
+METHODS
+PRISMA 2020. PROSPERO CRD420251001005. PICO: P = patients receiving endodontic treatment; I = single-dose oral medication after root-canal therapy; C = placebo after root-canal therapy; O = pain following endodontic treatment.
+Search: PubMed, Scopus, Embase, Cochrane CENTRAL up to Feb 19, 2025; MeSH for (1) pain-relieving medications, (2) non-surgical endodontic treatments, (3) pain assessment. No date/type/language limits. Reference lists hand-searched.
+Two reviewers screened titles/abstracts independently. VAS chosen as pain measure (sensitive, reliable, applicable across ages/cultures). RoB 2 tool used for risk of bias (randomization, deviations, missing data, measurement, selective reporting). Low = all domains low; Moderate = any unclear; High = any high.
+Statistics: R v4.4.3. Primary outcome = reduction of postoperative pain at 6-8 h, 12 h, 24 h. Treatment effects = mean differences (MD) with 95% CI. Frequentist NMA (netmeta package). Common-effect and random-effects models explored; I^2 for heterogeneity; random-effects applied when I^2 > 50%. Transitivity assessed; global inconsistency via design-by-treatment interaction model. Sensitivity analysis excluding Islam et al. Publication bias by funnel plots + Egger test. Treatments ranked by P-scores. GRADE for NMA. Two-sided p < 0.05 significant.
+
+RESULTS - STUDY CHARACTERISTICS
+Initial search 4681 articles (4610 database + 71 manual). 35 full-text assessed; 10 studies met inclusion for qualitative SR. Five OMITTED from quantitative analysis (no SD reported, no reliable conversion/imputation): Nekoofar 2003, Rogers 1999, Akpinar 2021, Madani 2013, Elzaki 2016. Five INCLUDED in meta-analysis: Menhinick 2004, Islam 2018, Mehrvarzfar 2012, Baradaran 2014, Makkar 2012.
+10 RCTs published 1999-2021; countries: Iran, USA, Pakistan, Turkey, India, Sudan. Sample size range 30-170. Participants had moderate-to-severe preoperative endodontic pain, most commonly irreversible pulpitis; some pulpal necrosis or symptomatic apical periodontitis. Female predominant (36.6%-71.92%). Mean/median age ~25-40 y. Anterior, premolar, molar teeth. All assessed analgesic regimens (NSAIDs, acetaminophen, tramadol, combinations) as single dose immediately after RCT. Pain by VAS or NRS at 1-72 h. No analgesics pre-treatment for defined period.
+Five quantitatively analyzed RCTs: four countries (USA, Pakistan, India, Iran), combined n=347, 2004-2018, all VAS.
+
+RISK OF BIAS (RoB 2)
+Low risk all domains: Elzaki 2016, Madani 2013, Makkar 2011, Menhinick 2004.
+Moderate risk in two domains (Randomization, Selective reporting): Baradaran 2014, Islam 2021, Mehrvarzfar 2021, Nekoofar 2003, Rogers 1999.
+Some concerns (Missing outcome data, Measurement): Akpinar 2021.
+Overall moderate to good methodological quality.
+
+NETWORK META-ANALYSIS (random-effects) vs placebo
+
+6-8 HOURS:
+Greatest reduction: Diclofenac + Acetaminophen. Then Novafen, then Ibuprofen + Acetaminophen. Naproxen and Ibuprofen alone favorable but smaller. Top 3 by ranking: Diclofenac+Acetaminophen, Novafen, Ibuprofen+Acetaminophen.
+MDs: Diclofenac+Acetaminophen MD -6.28 (95% CI -11.99 to -0.56); Novafen MD -3.46 (-5.27 to -1.65); Ibuprofen+Acetaminophen MD -3.05 (-4.80 to -1.30); Naproxen MD -2.62 (-3.97 to -1.27); Ibuprofen+Alprazolam MD -1.75 (-3.56 to 0.07; NS).
+
+12 HOURS:
+Most pronounced relief: Novafen and Naproxen. Ibuprofen-Alprazolam, Ibuprofen alone, Tramadol also significant. Diclofenac/Acetaminophen combos less consistent, wider uncertainty. Leading options by ranking: Diclofenac+Acetaminophen, Ibuprofen+Acetaminophen, Novafen.
+MDs: Ibuprofen MD -1.64 (-2.57 to -0.71); Naproxen MD -2.58 (-3.44 to -1.73); Novafen MD -2.70 (-3.87 to -1.52); Tramadol MD -1.46 (-2.35 to -0.57); Ibuprofen+Alprazolam MD -2.39 (-3.75 to -1.04, now significant - delayed onset). Diclofenac+Acetaminophen and Ibuprofen+Acetaminophen NO LONGER significant.
+
+24 HOURS:
+Strongest: Novafen and Naproxen; then Tramadol and Ibuprofen (moderate). Diclofenac+Acetaminophen, Ibuprofen+Acetaminophen, Ibuprofen+Alprazolam NOT significantly different from placebo. Top 3 by P-score: Novafen, Naproxen, Tramadol.
+MDs: Ibuprofen MD -1.32 (-2.28 to -0.37); Naproxen MD -2.48 (-3.42 to -1.54); Novafen MD -2.89 (-4.14 to -1.63); Tramadol MD -1.39 (-2.41 to -0.38); Diclofenac+Acetaminophen MD 0.50 (p=0.93, favoring placebo).
+
+SENSITIVITY ANALYSIS
+Islam et al. identified as source of global inconsistency (wide CIs, divergent Diclofenac+Acetaminophen arm). Excluding it: direction/magnitude largely unchanged; global inconsistency p improved 0.0038 -> 0.3030 at 6-8 h, 0.0139 -> NS at 12 h, 0.0059 -> NS at 24 h. Findings robust.
+
+OVERALL INTERPRETATION
+Diclofenac + Acetaminophen ranked highest for SHORT-TERM (6-8 h); Naproxen and Novafen strong at LATER time points (12-24 h). Tramadol and Ibuprofen moderate. Ibuprofen+Acetaminophen and Ibuprofen+Alprazolam variable across time.
+Publication bias: funnel plots symmetrical, no major small-study effects.
+
+DISCUSSION
+Time-dependent efficacy: At 6-8 h most meds beat placebo; combinations targeting multiple pathways (COX + central) deliver rapid relief. At 12 h, Naproxen/Novafen sustained (longer half-lives); Diclofenac+Acetaminophen and Ibuprofen+Acetaminophen lost significance; Ibuprofen+Alprazolam delayed onset. At 24 h, only Ibuprofen, Naproxen, Novafen, Tramadol superior to placebo; Diclofenac+Acetaminophen MD favored placebo (needs redosing/longer-acting alternatives).
+Novafen = fixed-dose ibuprofen + acetaminophen + CAFFEINE; caffeine adjuvant enhances CNS stimulation and absorption, prolonging action -> sustained efficacy unlike plain ibuprofen+acetaminophen.
+Ibuprofen+Alprazolam modest; benzodiazepine benefit primarily psychogenic (anxiety reduction) not pharmacological analgesia.
+High heterogeneity I^2 > 70% at 6-8 h and 24 h (variable designs, pain types, dosing).
+NSAIDs (especially naproxen and ibuprofen) consistently reliable across time. Tramadol stable but balance against opioid side effects. Findings support preferential use of NSAIDs and select combinations - particularly naproxen, ibuprofen, Novafen.
+
+MECHANISMS
+NSAIDs: inhibit COX -> reduce prostaglandin synthesis; also central pathways (opioid, nitric oxide). First-line for acute dental pain. Ibuprofen = first-line, acts within hours. Acetaminophen acts centrally (PG synthesis inhibition, serotonergic/NO pathways) - complementary to peripheral NSAIDs, hypothesized synergy, but combo efficacy diminished after 8 h in this analysis.
+Tramadol: atypical opioid, weak mu-opioid + NE/serotonin reuptake inhibition; moderate significant effect up to 24 h.
+Alprazolam: short-acting benzodiazepine, anxiolytic/sedative, not true analgesia; useful only for anxiety-related pain amplification.
+
+CLINICAL IMPLICATIONS
+First-line: For QUICK relief -> Diclofenac+Acetaminophen or Novafen. For lasting 24-h effect -> Naproxen (and Ibuprofen, sustained). Personalization: breakthrough pain -> redose Ibuprofen+Acetaminophen; extended coverage -> Novafen or Naproxen.
+
+SAFETY
+NSAIDs: GI irritation (dyspepsia, gastritis, ulcers/bleeding), renal effects, cardiovascular risk, allergic reactions, platelet inhibition. Acetaminophen fewer side effects. In Baradaran et al., ibuprofen group had more nausea/vomiting than ibuprofen+alprazolam (benzodiazepine anti-nausea). Ibuprofen = standard, preferred for post-endodontic pain. NSAIDs primary option for acute dental pain in outpatient settings (opioids cause more adverse effects).
+Tramadol: nausea, vomiting, dizziness, drowsiness, headache, constipation, CNS depression, seizures (high dose), serotonin syndrome, dependence; prescribe cautiously, short durations.
+Alprazolam: sedation, drowsiness, dizziness, cognitive dysfunction, respiratory depression with CNS depressants, dependence/withdrawal, paradoxical reactions; generally NOT advised for postoperative dental pain.
+
+LIMITATIONS
+Dose differences (ibuprofen 400 vs 600 mg) cause heterogeneity. VAS subjective; pain overestimation. Menhinick gave no pain scores after 8 h. Varying assessment intervals. Intracanal medications (Ca(OH)2, NaOCl, EDTA), instrumentation technique (crown-down = less apical extrusion), file type, working length affect pain. Variable pre-treatment analgesic abstinence; local anesthesia lingering (min 2 h elapsed); intrapulpal anesthesia (Mehrvarzfar). Non-uniform tooth types and pulpal/periapical states; periapical inflammation prolongs healing and pain. Possible self-medication/escape medication. Global inconsistency at 6-8 h and 24 h but SIDE analyses showed no direct-indirect discrepancy (p > 0.05). GRADE: most comparisons moderate-to-high certainty, some downgraded for inconsistency/imprecision. Sex/age differences not addressed (women report more severe pain).
+
+FUTURE DIRECTIONS
+Dose-response studies (Novafen vs matched monotherapy). Separate meta-analyses for pre/intra-procedure medications. Extended follow-up 48-72 h. Patient-reported outcomes/QoL. Non-pharmacological methods and placebo effect (endogenous opioid, dopamine/serotonin systems).
+
+CONCLUSION
+Diclofenac + Acetaminophen and Novafen best for INITIAL pain relief; Naproxen and Ibuprofen offer LONGER-LASTING benefit. Clinicians should weigh effectiveness, duration, and safety. Future studies should investigate medications administered before/during RCT.
