@@ -245,6 +245,14 @@ tags: []
 - [[implants/vitamin-d/dulinska-2025-vitamin-d3-soft-tissue-bone-preservation]] — Dulinska-Litewka 2025 · retrospective · 환자 72명/임플란트 115개, 비타민 D 결핍군 주위 골소실 유의 증가 + 연조직 두께는 비타민 D 상태와 무관하게 변연골 보존에 독립적 영향 (DOI 10.17219/dmp/179004)
 
 ## 골재생 (Bone Regeneration / Ridge Preservation)
+- [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — Xu 2026 · rct · 탈회상아질기질(DDM) vs 이종골 ARP(n=50): DDM 초기흡수 빠르나 6개월 차원안정성 동등·조직통합 우수
+- [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — Yu 2026 · retrospective · 중증치주염 대구치 DBBM ARP(96): 대입자(1–2mm) 중심골높이 비유의 증가경향(P=.077), 입자크기보다 소켓무결성 중요
+- [[bone-regeneration/ridge-preservation/hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort]] — Hartmann 2026 · retrospective · Bio-Oss Collagen ARP 후에도 잔여 골흡수 3~18%(상악대구치 최대), 78/80 추가증대 없이 임플란트
+- [[bone-regeneration/rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct]] — Rao 2026 · rct · 동종 탈회망상골 plug vs DBBM(n=25): 6개월 차원·생활골 동등, 잔존 graft는 ACBP 유의 낮음(11.2% vs 19.8%)
+- [[bone-regeneration/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr]] — Seiler 2026 · sr · 흡수성 scaffold(PLA/PCL/β-TCP)는 2차 메쉬제거 피하는 Ti-mesh 대안이나 7편·이질성으로 근거 약함
+- [[bone-regeneration/son-2026-plga-membrane-horizontal-ridge-gbr-prospective]] — Son 2026 · prospective · 3D 흡수성 PLGA막 동시식립 GBR로 수평 골증대 2.99mm·노출 0건 (20명/21부위)
+- [[bone-regeneration/bujda-2026-carp-collagen-membrane-gbr-rat-femoral]] — Bujda 2026 · animal · 잉어피부 콜라겐막 단독이 rat 대퇴골 결손에서 우세경향·비자극성, Bio-Oss 병용 이득 없음
+- [[bone-regeneration/zhou-2026-metal-phenolic-electrospun-membrane-alveolar-gbr]] — Zhou 2026 · in-vitro · 커큐민-스트론튬 금속-페놀 전기방사 GBR막이 골형성·혈관신생·M1→M2 면역전환 시너지(쥐 최고 BV/TV)
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — Dog histology landmark paper: buccal > lingual resorption; Phase 1 bundle bone loss + Phase 2 external surface resorption; immediate implant cannot prevent buccal collapse
 - [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — Review: natural healing = 1mm vertical + 4–6mm horizontal (50%) loss; 2/3 within 3mo; all ridge preservation techniques beat blood clot alone; no single superior technique
 - [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — Systematic review (20 studies, 525 implants): BBT 1.10–3.18mm intact vs 1.18–3.00mm non-intact; survival >90–100% both; low evidence quality for non-intact sockets
@@ -1318,6 +1326,11 @@ tags: []
 - [[overviews/food-impaction-proximal-contact-loss-overview]] — 식편압입·임플란트 PCL 종합 (9편 합성, 2026-06-08 신규 카테고리): 임플란트는 mesial drift 미추종 → 시간의존·mesial 우위 PCL이 inevitable·progressive; 통합 mesial 44.2% vs distal 27.5%(Sheba), >5년 29–83.3%(Abduo), 절반 19.2개월 내(Kim 2025); 예방보다 조기 감시·재형성, 고위험(기존 interproximal gap OR 2.7–3.3·인접치 치주상태·기능기간) 식별; prosthesis design RCT 공백
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
+- [[oral-medicine/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — Jian 2024 · sr+ma · 탈리도마이드 21 RCT(1668명): 완전반응·재발간격 개선하나 부작용↑, major/난치성 RAS에 25mg/d 한정
+- [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — D'Amario 2025 · narrative-review · RAS 치료 RCT 45편: 비약물(LLLT·오메가-3·천연젤)이 코르티코스테로이드급 효과, LLLT 통증완화 최속
+- [[oral-medicine/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — Andriakopoulou 2024 · sr+ma · 소아암 구강점막염 34 RCT: 국소 꿀이 입원기간 단축(MD −4.33일), LLLT는 무효 (abstract-only)
+- [[oral-medicine/bragues-2024-oral-mucositis-children-cancer-management-sr]] — Braguès 2024 · sr · 소아 항암 구강점막염: 발생률↓ 클로르헥시딘·기간↓ 꿀·통증↓ 올리브유, 전반 근거 불충분
+- [[oral-medicine/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — Hassanein 2025 · rct · L-아르기닌·L-글루타민 모두 방사선 구강점막염 중증도·통증·체중감소 감소, 아르기닌은 글루타민에 비열등
 - [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Warnakulasuriya 2025 · narrative-review · 구강편평태선 환자는 당뇨·갑상선·셀리악·간염·우울/불안 위험 유의 상승, 무증상 많아 선별·의뢰 필요
 - [[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — García-Ríos 2022 · sr · SLE 구강증상 SR(15편): 구강궤양 최다(11/14편)·경구개 호발·타액분비저하/Sjögren 동반 흔함 (DOI 10.3390/ijerph191911910)
 - [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
@@ -2073,6 +2086,7 @@ tags: []
 - [[overviews/suture-wound-closure-decision-ladder]] — Synthesis 2026-06-04 (15편 종합): 창상 장력으로 분기 — 저장력 발치와(sutureless 안전·치주 무관, 패턴>봉합유무)vs 고장력 GBR/mesh(무장력 폐쇄=재생 성패; 골막이완절개 +5.5mm, CALF 노출 83.3%→0%, 노출 1건=골증대 ~6배 손실); bridge=봉합패턴 생역학(pulley 견인·lattice 분산·cyanoacrylate 면접착); SR+MA 부재가 최대 공백
 
 ## 임플란트 — 수직 골증대술 (Implants: Vertical Ridge Augmentation)
+- [[implants/vertical-ridge-augmentation/alshikh-2026-titanium-mesh-peek-mesh-horizontal-ridge-rct]] — Alshikh 2026 · rct · 수평골증대(14명/28부위) prebent Ti vs 맞춤 PEEK 메시: 선형증대 동등, PEEK 골량·흡수량↑(비율흡수 ~동일)
 
 ### implants/vertical-ridge-augmentation (added 2026-06-04, NEW subcategory)
 
