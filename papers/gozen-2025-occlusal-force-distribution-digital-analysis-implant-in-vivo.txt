@@ -1,0 +1,127 @@
+Comparison of occlusal force distribution and digital occlusal analysis methods of single posterior implant restorations: an in vivo study
+
+Authors: Mehmet Gözen, Neslihan Güntekin (Department of Prosthodontics, Faculty of Dentistry, Necmettin Erbakan University, Konya, Turkey)
+Journal: BMC Oral Health. 2025 May 26;25(1):795.
+DOI: 10.1186/s12903-025-06205-w
+PMID: 40420258 | PMCID: PMC12105290
+ClinicalTrials.gov: NCT06862973 (first posted 2025-03-07, retrospectively registered)
+
+Source: PubMed full text (PMC12105290). According to PubMed; DOI: https://doi.org/10.1186/s12903-025-06205-w
+
+=== BACKGROUND ===
+
+Occlusion = static and dynamic relationship between teeth. Stable occlusion is an important marker of masticatory and temporomandibular joint (TMJ) health. Occlusal stability = balanced occlusal contacts, absence of pain during function, no tooth loss, acceptable clinical vertical dimension. Force-distribution changes exceeding physiological limits can cause pain, tenderness, implant loss, or TMD.
+
+Implant-supported single crowns are frequently used for single-tooth deficiencies; high survival/success but not complication-free. The key difference vs natural teeth is the absence of the periodontal ligament around an osseointegrated implant, leading to excessive stress on implant components if implant-protected occlusion is not adopted. To reduce biomechanical stress in single implant prostheses, maximum intercuspidation is desired on neighbouring teeth with light contact on the crown — but whether this light-contact state is maintained over time (stability) is questionable. Prior studies found significant changes in bilateral bite-force distribution after posterior implant restorations, with force gradually increasing on the implant restoration. Single-tooth implant restorations cause biomechanical changes affecting the whole masticatory system (anterior + opposing arch force patterns, TMJ load), not just a localized solution.
+
+Recent work shows scanning components (scannable healing abutments vs conventional scan bodies) and design software choice significantly affect accuracy of interproximal/occlusal contacts in single posterior implant restorations.
+
+Traditional vs digital methods for fitting restorations:
+- Articulating paper: most common traditional method; qualitative only, subjective, paper size gives no info on force magnitude — insufficient to interpret load.
+- Digital methods: software gives number of contacts, contacted area size, and amplitude of generated force; static + dynamic data both qualitatively and quantitatively.
+
+Digital occlusal analysers:
+- OccluSense (Dr. Jean Bausch GmbH & Co. KG, Cologne, Germany): sensor with built-in articulation paper, marks contacts directly on teeth. Records distribution + intensity of occlusal force and exact moment of tooth contact. Color-coded scale + percentage values; red = high-amplitude force, green = normal, yellow = minimal-intensity. Functional alternative to articulating paper offering both qualitative and quantitative insight.
+- Medit i700 (MEDIT, Seoul, South Korea): primarily a digital intraoral scanner; detects occlusal contacts via software-based analysis. Quantitative assessment of contact surface AREAS but does NOT capture force intensity or dynamic nature of occlusion. High-resolution visualization of occlusal morphology; limited for functional/load analysis.
+- Medit Occlusion Analyzer software (Medit link v3.1.4): computes total contact areas from IOS scans; can evaluate contact-area change after rehabilitation.
+
+Reliability of IOS and OccluSense for static/dynamic occlusal recording is still uncertain.
+
+AIM: Evaluate static and dynamic occlusal recordings using a Medit i700 IOS and OccluSense, and examine occlusal force distributions after completion of a single posterior implant-supported restoration.
+
+Null hypotheses:
+H1: no significant difference in bite-force distributions after placement of single-member implant-supported restorations.
+H2: recordings obtained with the IOS and OccluSense would be parallel.
+
+=== METHODS ===
+
+Design: Prospective clinical study (comparative / observational). Necmettin Erbakan University, Faculty of Dentistry, Dept of Prosthodontics. Ethics approval Decision no. 471, dated 26.09.2024. Informed consent per Declaration of Helsinki.
+
+Sample size: G*Power 3.1; α=0.05, power 1-β=0.90, 10% loss to follow-up → minimum 19 patients.
+
+Measurement timepoints: before restoration placement (pre-prosthetic) and after restoration completed (post-prosthetic). Both pre- and post-prosthetic measurements done the same morning to avoid diurnal variation. Post-prosthetic recordings taken AFTER final occlusal adjustments completed.
+
+Standardization/calibration:
+- Patients upright in same dental chair. Measurements by an experienced prosthodontist; data analysis by a separate researcher.
+- Operators trained on OccluSense and Medit i700 before study.
+- Calibration: one patient underwent 10 repeated measurements pre-study, analyzed in ImageJ to confirm >80% agreement.
+- All restoration designs by a single digital dental technician using the same software (Exocad DentalCAD v3.1, Darmstadt, Germany), standardized protocol.
+
+Measurement protocol:
+- Appliance from Jauregi M. et al. reproduced to set midline and anteroposterior reference points; calibrated before each patient.
+- OccluSense recording mode: 100 Hz for 6 s; patients bite with maximum force → max intercuspation. Analysis based on time frame with highest number of contact points.
+- Full-arch Medit i700 scans per manufacturer instructions, saved as STL, taken in parallel with OccluSense without changing patient position.
+
+Data processing:
+- STL files → CloudCompare v2.13.1 to generate occlusal contact surface maps. OccluSense sensor thickness 60 µm, so surface map adjusted to include only areas within 60 µm threshold (regions beyond excluded).
+- OccluSense data → ImageJ 1.54f; contact-point areas calculated on a pixel basis.
+- Surface groups: M = Medit i700 contact surfaces; O1 = OccluSense contact surfaces; O2 = OccluSense force distribution. Measurement surfaces classified into 4 groups (anterior, posterior, opposing arch, total).
+- Percentage change between pre- and post-prosthetic measurements calculated for all areas; absolute numerical area sizes NOT assessed (ratio of total occlusal area to occlusal contact area analyzed).
+
+Statistics: IBM SPSS 23. Shapiro–Wilk (normality), Levene (homogeneity). Non-normal → Kruskal–Wallis test (p<0.05). Region differences → Dwass-Steel-Critchlow-Fligner (DSCF) with Bonferroni correction. Method agreement → Kendall's Tau-B correlation (p<0.05).
+
+=== RESULTS ===
+
+20 patients enrolled; 2 excluded during observation (procedures that could affect measurements) → 18 analyzed.
+
+Observation: IOS measurements showed contact points clearly but could not analyze intensities. OccluSense allowed force-intensity analysis (visual + percentage) but contact-point exact locations were less distinct.
+
+Percentage change pre→post treatment (significant differences between regions, p<0.001):
+
+Medit i700 IOS (contact AREA):
+- Anterior region: decreased 47.8 ± 1.02%
+- Posterior region: decreased 65.5 ± 1.39%
+- Opposing arch: increased 30.04 ± 1.82%
+- Total contact area: increased 17.66 ± 1.09%
+
+OccluSense (contact AREA):
+- Anterior: decreased 16.36 ± 2.2%
+- Posterior: decreased 34.39 ± 0.8%
+- Opposing arch: increased 110.02 ± 3.76%
+- Total contact area: increased 36.71 ± 1.92%
+
+OccluSense (FORCE distribution):
+- Anterior: decreased 18.54 ± 1.58%
+- Posterior: decreased 30.77 ± 2.66%
+- Opposing arch: increased 30.29 ± 4.82%
+- Total force distribution: increased 7.3 ± 3.36%
+
+Correlation: high/strong correlation between Medit i700 and OccluSense measurements (p<0.001).
+
+=== DISCUSSION ===
+
+Significant changes in contact surface areas and contact intensity between segments after single-tooth implant restoration. Correlation found between methods → H1 rejected (forces DO change), H2 accepted (methods parallel).
+
+Increase in contact surface may distribute chewing forces over a broader area → helps maintain occlusal balance; but improper contacts harm restoration success and chewing function. Force distribution across the entire arch changes after a single-tooth restoration → potential long-term biomechanical effects; unbalanced excessive load can cause implant failure and TMD over time.
+
+OccluSense color code: red = high-amplitude force, green = normal, yellow = minimal. Medit i700 color map reflects DISTANCE between arches, not force distribution → direct comparison challenging, so analyses used measurement-surface-area change rather than color.
+
+Significant increase in total surface areas in both Medit i700 and OccluSense; increase in force distribution noted. Expansion of contact surface → more chewing force/efficiency. Restored hemi-arch surface area increases, so percentage of force on teeth anterior/posterior to the restoration decreases.
+
+Posterior reduction significantly greater than anterior (p<0.001). With a missing posterior tooth, load on remaining posterior teeth increases (posterior contacts first during closure); rehabilitating the missing tooth and doing occlusion analysis is crucial to restore balance and avoid TMD from occlusal trauma.
+
+Comparison to literature:
+- Zhou T et al. (2021): decrease in anterior-segment force after single-unit implant restorations (similar to this study) — posterior teeth take larger role at max intercuspation, redistributing pressure away from anterior.
+- Kim et al. (2021): increased occlusal force in the contralateral (opposing) arch after posterior single-implant restorations.
+- Roque et al. (2017): occlusal pressures redistributed over time after implant restorations during closure; adaptation varies among patients.
+This study: similar increase in both force and contact area in the opposing arch post-op → balancing of occlusion and bilateral force distribution → increased opposing-arch functional efficiency. But early post-prosthetic redistribution may overload contralateral muscles/joint → possible asymmetry and TMJ discomfort → early TMJ monitoring at follow-up important.
+
+Some studies report increased posterior-segment load (occlusal adaptation). This study suggests a DECREASE in posterior load especially during the initial adaptation period after implant placement, with gradual reshaping of chewing patterns over time → long-term follow-up needed.
+
+Patient individual chewing habits matter — patients may unconsciously avoid chewing on the implant side, reshaping forces over time; larger samples needed.
+
+=== LIMITATIONS ===
+- Relatively small sample size.
+- Individual chewing habits / tendency to avoid implant region not accounted for.
+- Medit i700 and OccluSense analyze different parameters → direct comparison limited (methodological differences).
+- Single-tooth implant restorations only; multiple-implant and full-arch prostheses need study.
+- Controlled clinical environment; dynamic daily functional chewing not fully assessed.
+- Conventional articulating paper NOT included (intentional: study aimed at intra-/inter-method reliability between digital systems only).
+
+=== CONCLUSION ===
+- After single implant-supported restoration, significant force-distribution changes occur not only at the restoration site but throughout the entire dental arch.
+- OccluSense and Medit i700 data correlate with each other.
+- OccluSense force-amplitude data may be a more practical choice during clinical occlusal adjustment of the restoration.
+
+Keywords: Dental implant, Medit i700, OccluSense, Occlusal analysis, Occlusion.
+MeSH: Bite Force; Dental Implants, Single-Tooth; Dental Impression Technique; Dental Occlusion; Dental Prosthesis, Implant-Supported; Prospective Studies.
