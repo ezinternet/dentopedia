@@ -1,0 +1,121 @@
+Characteristics of cracks in posterior teeth and factors associated with symptoms: a cross-sectional practice-based observational study
+
+Authors: P. Renner et al.
+Journal: Australian Dental Journal, 2025
+DOI: 10.1111/adj.13075
+PMID: 40272058 | PMCID: PMC12368304
+
+== ABSTRACT ==
+
+Background: Cracks in teeth are the third most common reason for tooth loss. The primary aim of this study was to identify the patient-specific and tooth-specific characteristics of individuals who presented to a private general dental practice with cracked posterior teeth. The secondary aim was to explore the relationship between the above characteristics and investigate their influence on signs and symptoms.
+
+Materials and Methods: A total of 147 records were analysed in terms of patient-specific, tooth-specific and crack-specific characteristics. Initial data analysis involved the use of descriptive statistics and chi-square tests. Stepwise logistic regression was used for model building, and further data analysis was performed using binomial and multinomial logistic regression.
+
+Results: Most cracked teeth were asymptomatic (55.1%) and were not visible before removal of restoration. Unrestored marginal ridges (OR 2.89), cracks visible before restoration removal (OR 3.04) and cracks involving both the body and cusps of teeth (OR 3.11) were associated with cold sensitivity. Not all cracked teeth were positive for the bite test. Molar teeth (OR 8.79) and those with amalgam restoration (OR 4.81) were associated with intersecting cracks.
+
+Conclusion: The presentation of teeth with cracks in general dental practice seems to differ from that reported in the literature from specialist practice.
+
+== INTRODUCTION (key points) ==
+
+Cracks in teeth are the third most common reason for tooth loss in industrialised countries. Global prevalence of cracked teeth difficult to estimate (ranging ~10% in 2007 to 70% in 2011). Incidence varies by tooth type: mandibular molars 28-70%, maxillary molars 19-57%. Dentists estimate they treat ~3.2 cracked teeth per week, with a recent increase reported during the Covid pandemic.
+
+Identifying cracks and discerning which require intervention is difficult due to three factors: variability of symptoms, poor localisation of pain, symptoms mistaken as dentine hypersensitivity, and inconsistent diagnostic test results. Symptoms range from asymptomatic to cold sensitivity, pain on biting, sensitivity to heat, spontaneous pain and long-term constant aches. Inability to localise pain due to poor two-point discrimination and pain referral (central sensitisation). Diagnostic tests can yield false positives.
+
+No pathognomonic symptoms. Anecdotally pain on biting considered consistently present, but practice-based network studies show cold sensitivity is the predominant symptom. In a recent survey of Australian dentists, only 0.6% considered cold sensitivity as a possible standalone symptom of cracked teeth.
+
+NDPBRN (national dental practice-based research network) studies: in general practice the majority of cracked teeth were asymptomatic (55%). More severe/complex cases referred to specialist practices. NDPBRN crack study included only teeth with externally visible cracks, potentially missing some cracked teeth (likely underreported).
+
+== MATERIALS AND METHODS ==
+
+Ethics approval: University of Queensland, 2022. Cracked tooth defined as a thin surface disruption of enamel and dentin, and possibly cementum, of unknown depth or extension. Cracks classified by position: under a cusp = cuspal crack; along the middle of the tooth (buccolingually or mesiodistally) = body crack. Cracks joining each other = intersecting cracks. Categorisations often made after restoration removal and examination of pulp floor and base of cusps.
+
+Convenience sample from consecutive patient records 2014-2017, one general dental practice in Australia, diagnosed with cracks in teeth. All examined by same practitioner (PR) with Carl Zeiss Eyemag loupes 5.5X with light. Preoperative and intraoperative photographs (Nikon D850 DSLR, 105 macro lens). Pulp sensibility tests with Frost Bite (ADM, Australia) on a #2 cotton pellet, mid-buccal surface. Bite test with Tooth Slooth loading individual cusps; pain on release = positive test.
+
+Exclusion criteria: endodontically treated teeth, split teeth, fractured cusps, vertical root fractures, anterior teeth, external cracks found to have no dentin extension after restoration removal, traumatic dental injuries, necrotic pulp, symptomatic irreversible pulpitis, periradicular pathosis.
+
+152 records obtained; 5 excluded for incomplete records → 147 final.
+Variables: patient-specific (age, gender, symptoms, periodontal status), tooth-specific (occlusion, lateral excursive guidance, wear, tooth type and jaw, type of restoration, crack visibility before dismantling, pulp sensibility test, bite test, opposing teeth), crack-specific (direction, number of cracks, location, staining).
+
+Data analysis: Jamovi. Chi-square test for association of variables with symptom status (asymptomatic vs symptomatic). Binomial and multinomial logistic regression. p<0.05 significant.
+
+== RESULTS ==
+
+Patient-specific:
+- Mean age 62.3 (±10) years; 51.7% above 60 years.
+- Female 57.1%, male 42.9%.
+- Asymptomatic 55.1%. Symptomatic had: thermal sensitivity (18.4%), pain on biting (15%), combined thermal + bite (11.6%).
+- Among symptomatic (n=66): thermal sensitivity 40% (27/66), pain on biting 33% (22/66), combined 25% (17/66).
+
+Tooth-specific:
+- Most common cracked tooth: mandibular second molar (23.8%); least: maxillary third molar (0.7%).
+- Molars 80.3% vs premolars 19.7%. Maxillary 47.6% vs mandibular 52.4%.
+- Amalgam restoration in 69.4% (single-surface occlusal amalgam most common, 22.4%). Composite 23.8% (3-surface composite most common, 10.2%).
+- Cracks NOT visible before restoration removal 55.1%; visible 44.9%.
+- Cold test normal in 94.6%; lingered 10 s in 5.4%.
+- Bite test negative 51.7%; positive 48.3%.
+- Opposing tooth: composite resin 36.1%, amalgam 32.7%, others remaining.
+
+Crack-specific:
+- Direction: mesiodistal 48.3%, buccolingual only 1.4%, both MD+BL 50.3%.
+- Single cracks 44.2%. Multiple intersecting 27.9%.
+- Location: body 72.8%, standalone incomplete cusp 3.4%, body + cusp 23.8%.
+- Not stained 53.7%; stained 46.3%.
+
+Table 1 - chi-square: factors significantly associated with symptom status:
+- Age: <60 yrs 52.4% symptomatic vs >60 yrs 35.7% symptomatic (p=0.04). Younger = more symptomatic.
+- Crack visible before removal: visible 57.6% symptomatic vs not visible 30.9% symptomatic (p<0.001).
+- Staining: no stain 50.6% symptomatic vs stained 33.8% symptomatic (p=0.04). Stained = less symptomatic.
+- Location: body or cusp 37.5% symptomatic vs body & cusp 60.0% symptomatic (p=0.01).
+
+Table 2 - binomial logistic regression, factors associated with COLD SENSITIVITY:
+- Marginal ridge (unrestored vs restored): OR 2.89 (1.06-7.82), p=0.03
+- Crack visible before dismantling (yes-no): OR 3.04 (1.14-8.12), p=0.02
+- Status of antagonist tooth (unrestored vs restored): OR 2.31 (0.87-6.12), p=0.09 (NS)
+- Staining of crack (stained vs non-stained): OR 0.30 (0.11-0.74), p=0.01 (negative association)
+- Body & cusp cracks (yes-no): OR 3.11 (1.13-8.54), p=0.02
+
+Table 3 - binomial logistic regression, factors associated with POSITIVE BITE TEST:
+Half of sample (51.7%) had negative bite test. Among positive bite tests: 36.1% symptomatic, 12.2% asymptomatic.
+- Tooth (molar vs premolar): OR 3.71 (1.16-11.78), p=0.02
+- Pain on biting (presence vs absence): OR 36.96 (7.79-175.34), p<0.001
+- Crack visible before restoration removal (yes vs no): OR 3.44 (1.49-7.92), p=0.00
+- Number of cracks (multiple vs single): OR 2.24 (0.95-5.30), p=0.06 (NS)
+
+Table 4 - multinomial logistic regression, NUMBER/TYPE of cracks:
+Multiple vs single:
+- Tooth (molar vs premolar): OR 1.51 (0.58-3.92), p=0.38
+- Jaw type (mandibular vs maxillary): OR 0.40 (0.16-0.95), p=0.04 (mandibular negatively associated with multiple cracks)
+- Type of restoration (amalgam vs others): OR 2.17 (0.89-5.25), p=0.08
+Intersecting vs single:
+- Tooth (molar vs premolar): OR 8.79 (1.83-42.10), p=0.01
+- Jaw type (mandibular vs maxillary): OR 0.52 (0.21-1.28), p=0.15
+- Type of restoration (amalgam vs others): OR 4.81 (1.68-13.78), p=0.00
+
+Table 5 - binomial logistic regression, LOCATION (body & cusp cracks):
+- Marginal ridge (restored vs intact): OR 3.22 (1.18-8.77), p=0.02
+- Type of restoration (amalgam vs others): OR 1.85 (0.71-4.82), p=0.20
+- Crack visible before restoration removal (yes vs no): OR 3.27 (1.40-7.63), p=0.01
+
+== DISCUSSION (key points) ==
+
+Both NDPBRN and this study: ~55% of patients asymptomatic. Most cracked teeth in general practice are asymptomatic, contrasting with specialist endodontic practice. Among symptomatic, thermal sensitivity (esp. cold) predominant, followed by pain on biting. Combination of symptoms: 25% (this study) vs 35% (NDPBRN).
+
+Age: symptoms (esp. cold sensitivity) more likely in those <60. Aging stiffens collagen matrices, affects apatite density; crack initiation toughness and growth resistance decline ~5% per decade. Increased crack initiation/propagation in older dentine allows limited time for persistent odontoblast stimulation → acute toothache rather than cold sensitivity. Younger dentine allows inelastic deformation, microcracking of peritubular dentine, unbroken ligaments behind advancing crack → slower process, more time, often cold sensitivity. Above 60: reduced odontoblast number and odontoblast apoptosis → fewer symptoms.
+
+Cracks visible before restoration removal: KEY differentiating factor — 55.1% of cracks only visible AFTER restoration removal (NDPBRN required externally visible cracks). Cracks not visible before removal usually asymptomatic. Need diligent examination of remaining tooth structure after routine restoration replacement. Where cracks visible before removal, look specifically at cuspal base — visible cracking more likely to have both body and cuspal cracks.
+
+Staining: stained cracks inversely associated with symptoms and cold sensitivity. Likely stained cracks are stable/long-standing → reactionary dentine formation and tubule sclerosis.
+
+Marginal ridge: higher OR (2.89) cold sensitivity in cracked teeth with unrestored marginal ridges (though unrestored, they were cracked). Loss of marginal ridge integrity increases cuspal deflection; continuous occlusal loading/parafunction → deflected cusp needs more recovery time. Cracks may facilitate odontoblasts acting as mechanosensory receptors expressing thermo-TRP channels → hyperalgesia/temperature sensitivity. Fluid movement in dentinal tubules, sensitisation of A-delta fibres, upregulation of sodium channels.
+
+Body and cusp cracks: strong association with cold sensitivity and positive bite test. Two explanations: (1) severe cuspal deflection — body+cuspal cracks considered a type of cuspal isolation (Panitvisai & Messer) producing maximum deflection; (2) algoneurons — A-delta fibre low threshold mechanoreceptors (LTMs) stimulated by air puffs, light pressure, vibration, tactile sensation; body+cuspal cracks provide mechanical instability for stimulation.
+
+Crack number/location: molars associated with intersecting cracks (deep occlusal fissures, buccal/lingual grooves provide surface defects for crack initiation). Restorative implications of intersecting cracks unknown. Restored marginal ridge associated with body+cuspal cracks. Cracks visible before restoration removal associated with body+cuspal cracks — easy to miss, careful evaluation of cavity floor AND base of cusps after restoration removal needed.
+
+== LIMITATIONS ==
+
+Cross-sectional, no control group → limited external validity. Results predominantly characteristics of cracks ASSOCIATED WITH RESTORATIONS from a convenience sample; unrestored teeth only 6.8% of sample. Differentiation between cracks in unrestored vs restoration-associated teeth explains differences across literature. Unrestored teeth subgroup mixed intact + unrestored carious (clustered due to low number). Did not use CO2 ice for pulp testing nor transillumination for crack detection. Unlike NDPBRN, external crack was NOT an inclusion criterion → more realistic sample for general practice.
+
+== CONCLUSION ==
+
+In general dental practice, wide range of cracked tooth presentations, from mostly asymptomatic to cold sensitivity, pain on biting, combined symptoms and acute toothache. After routine restoration replacements (especially asymptomatic teeth), comprehensively evaluate remaining tooth structure to rule out cracks. Highlights difference between cracked teeth seen routinely in general practice vs those reported in specialist-practice literature.
