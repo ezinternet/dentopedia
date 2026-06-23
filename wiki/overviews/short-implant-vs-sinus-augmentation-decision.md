@@ -105,6 +105,7 @@ Decision logic in prose:
 - [[sinus-lift/lateral/mester-2023-short-vs-standard-implants-sinus-floor-elevation-sr-ma]] — ≥5 y subset, short favored on MBL & biological complications.
 - [[sinus-lift/lateral/aleman-2025-short-vs-long-implants-sinus-lift-5yr-sr-ma]] — ≥5 y, high-RoB, imprecise estimate (certainty caveat).
 - [[sinus-lift/lateral/derbishi-2026-maxillary-sinus-augmentation-implant-survival-sr-ma]] — augmentation survival benchmark >97%.
+- [[sinus-lift/transcrestal/kadkhodazadeh-2024-transcrestal-maxillary-sinus-elevation-sr-ma]] — transcrestal survival anchor for the "RBH adequate for transcrestal" branch: pooled 100% (95% CI 99–100%) across 17 RCTs (hand-osteotome perforation/vertigo caveat).
 - [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] — PROM axis: graftless/transcrestal lower morbidity.
 - [[sinus-lift/lateral/thoma-2024-short-6mm-vs-long-implants-sinus-elevation-10year-rct]] — 10-year RCT: the long-term anchor (96.0% vs 100%, 0.00 mm MBL).
 - [[implants/arbildo-vega-2025-short-vs-standard-implants-edentulous-umbrella-review]] — umbrella review of 60 SRs: high-confidence equivalence + short-implant MBL advantage.
