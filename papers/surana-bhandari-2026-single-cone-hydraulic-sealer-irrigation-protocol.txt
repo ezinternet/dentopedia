@@ -1,0 +1,16 @@
+Optimised clinical protocol for root canal obturation using single cone and hydraulic cement sealer
+Surana Bhandari S, Palin WM, Kuehne SA, Camilleri J.
+Dental Materials 2026;42(6):1001-1013.
+PMID: 41702775  DOI: 10.1016/j.dental.2026.02.011
+Source: PubMed abstract (full text not retrieved — abstract-only).
+
+ABSTRACT
+Objective: Establish an optimised clinical protocol based on matching root canal preparation, irrigation and obturation by choosing an adequate irrigation that prepared the dentin and reduced microbial load, followed by a root canal obturation that maintained the seal.
+Methods: A split-tooth model assessed irrigation and obturation quality. Three irrigation sequences: sodium hypochlorite, EDTA, and HEDP, with water as control. Four commercial sealers (AH Plus, BioRoot RCS, BioRoot Flow, TotalFill) used to obturate with single-cone technique. Ultrastructure and chemical properties of dentin, sealers, and dentin-sealer interface assessed before/after obturation and contact with irrigation sequences using SEM, EDS, and FTIR. Microbiological analysis by direct contact test and minimum inhibitory concentration, with and without dentin contact. Two-way ANOVA + Tukey post hoc (p<0.05).
+Results: Irrigation with HEDP resulted in less erosion of dentin and a larger mineral concentration zone at the interface of hydraulic cements with dentin. Continuous chelation with HEDP improved the antimicrobial properties of the hydraulic cement sealers. All sealers exhibited a reduction in antimicrobial effectiveness when in contact with irrigated dentin.
+Conclusion: Irrigation techniques affected the interfacial characteristics and antimicrobial properties of root canal sealers, indicating that selection of appropriate irrigation protocols for clinical practice is required to optimize treatment outcomes.
+
+KEYWORDS: antimicrobial characteristics; continuous chelation; dentine characterisation; hydraulic cements; irrigation protocol; root canal obturation; split tooth model.
+MeSH: Root Canal Obturation; Root Canal Filling Materials; Microscopy, Electron, Scanning; Root Canal Irrigants; Materials Testing; Spectroscopy, Fourier Transform Infrared; Dentin; Sodium Hypochlorite; In Vitro Techniques; Surface Properties; Root Canal Preparation; Spectrometry, X-Ray Emission; Microbial Sensitivity Tests.
+Affiliations: University of Birmingham (Camilleri group); Nottingham Trent University.
+NOTE: abstract-only — full text not retrieved.
