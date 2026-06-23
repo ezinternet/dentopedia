@@ -1,0 +1,273 @@
+1
+
+Introduction
+
+The temporomandibular joint (TMJ) is a bilateral synovial joint that connects the mandible to the temporal bone. Both structures function in coordination, enabling essential activities such as mastication, phonation, and swallowing through combined rotational and translational movements,. Unlike other synovial joints, the TMJ is distinguished by the presence of a fibrocartilaginous articular disc that divides the joint space into an upper and a lower compartment, separating the articular surfaces of the mandibular condyle and the temporal bone fossa. This disc, together with the fibrocartilage and synovial fluid, plays a fundamental role in adapting joint surfaces, distributing mechanical loads, and reducing friction during movement, thereby allowing proper joint function under conditions of repetitive loading.
+
+Temporomandibular disorders (TMDs) comprise a group of conditions affecting the structures of the TMJ and are associated with a multifactorial etiology, in which biomechanical, functional, and degenerative factors may be involved. Among the most frequent manifestations are articular disc displacement and degenerative joint changes, which can compromise load distribution and normal function. Clinically, these alterations commonly present as pain, limited mandibular mobility, and joint sounds, significantly impairing patients’ quality of life,,. Therapeutic management is initially directed toward a conservative approach, considering the multifactorial nature of these disorders and their generally benign course. First-line strategies include patient education, behavioral modifications, physical therapy, the use of occlusal splints, and pharmacological treatment, all aimed at pain relief and restoration of mandibular function. Although a substantial proportion of patients respond favorably to these measures, outcomes may be variable, and a significant percentage fail to achieve adequate symptom control, with persistent pain and functional limitation despite appropriately implemented conservative management. In patients who do not respond to conservative treatment, minimally invasive therapeutic alternatives have been proposed, among which TMJ arthrocentesis has gained particular attention. This procedure involves lavage of the joint space using sterile solutions, with the aim of reducing inflammatory mediators, improving intra-articular lubrication, and facilitating articular disc mobility. According to available evidence and current clinical guidelines, arthrocentesis is considered an intermediate therapeutic option, primarily indicated for articular disorders that show insufficient response to conservative measures, prior to the consideration of more invasive surgical interventions. Several studies have reported clinical improvements following TMJ arthrocentesis, including reductions in pain and increases in mandibular mobility. However, the available evidence demonstrates considerable heterogeneity, attributable to differences in indications, techniques, treatment protocols, and follow-up durations. This variability limits direct comparison across studies and hinders the ability to draw definitive conclusions regarding the effectiveness of the procedure, highlighting the need for a critical synthesis of the existing evidence,. The aim of this study was to evaluate the effectiveness of temporomandibular joint arthrocentesis in patients with temporomandibular disorders, specifically in terms of pain reduction and improvement in mandibular function.
+
+2
+
+Methods
+
+2.1
+
+Protocol and registration
+
+This systematic review and meta-analysis were conducted and reported in accordance with the PRISMA 2020 statement (Preferred Reporting Items for Systematic Reviews and Meta-Analyses). The completed PRISMA 2020 checklist is provided in the. The registration number in the International Prospective Register of Systematic Reviews (PROSPERO) is CRD420251272475.
+
+The research question was structured according to the PICO framework. The Population (P) comprised patients diagnosed with intra-articular temporomandibular disorders. The Intervention (I) was temporomandibular joint arthrocentesis, performed alone or in combination with adjunctive intra-articular agents. The Comparator (C) included conservative therapies (e.g., occlusal splints, physiotherapy, pharmacological treatment), intra-articular injections, arthroscopy, or alternative arthrocentesis protocols. Due to the clinical diversity of comparator interventions, analyses were conducted using direct pairwise comparisons within each individual trial, without constructing a synthetic pooled comparator arm. The Outcomes (O) were pain intensity (primarily assessed using the visual analog scale) and functional measures, including maximum mouth opening (MMO), maximum incisal opening (MIO), mandibular movements, and masticatory efficiency.
+
+2.2
+
+Literature search
+
+A systematic literature search was conducted in the following electronic databases: MEDLINE (via PubMed), EMBASE, SCOPUS, Web of Science, CINAHL, and Google Scholar. The search included studies from database inception until December 2025. No restrictions on publication date were applied. Only language restrictions (English and Spanish) were used. Only randomized controlled trials (RCTs) and controlled clinical trials published in English or Spanish were considered eligible. The search strategy combined controlled vocabulary (e.g., MeSH terms) and free-text terms related to temporomandibular disorders and arthrocentesis. Boolean operators (“AND,” “OR”) were used to combine search terms appropriately. For CINAHL, both subject headings and free-text terms were used, and filters for clinical trials were applied when available. For Google Scholar, results were sorted by relevance and only the first 200 records were screened, in accordance with methodological recommendations for systematic reviews using this database. The complete electronic search strategies for all databases, including Boolean operators and applied filters, are provided into ensure full reproducibility in accordance with PRISMA 2020 guidelines. Two independent reviewers (FA and UK) screened the titles and abstracts of all retrieved records. Full-text articles were obtained for studies considered potentially eligible by either reviewer. Disagreements were resolved through discussion and, when necessary, consultation with a third reviewer (EB).
+
+2.3
+
+Study selection
+
+The following inclusion criteria were applied for studies included in this meta-analysis: patients diagnosed with temporomandibular disorders; patients who underwent temporomandibular joint arthrocentesis; and studies reporting outcomes related to pain and temporomandibular joint functional movement. Eligible study designs included randomized controlled trials (RCTs). During the screening process, only randomized controlled trials met the predefined eligibility criteria and were included in the quantitative synthesis. Temporomandibular disorders (TMD) were defined according to the diagnostic criteria reported in each individual primary study. The included trials encompassed a range of intra-articular TMD conditions, including disc displacement with reduction, disc displacement without reduction, degenerative joint disease (osteoarthritis), and arthralgia. No single standardized diagnostic classification system (e.g., RDC/TMD or DC/TMD) was consistently applied across all included trials. Comparator interventions included conservative therapies (e.g., occlusal splints, physiotherapy, pharmacological treatment), intra-articular injections, arthroscopy, or variations of arthrocentesis protocols. Given the diversity of comparator interventions, analyses were interpreted within a broad therapeutic framework. Studies were excluded if they met any of the following criteria: letters to the editor, case reports or case series, review articles, or non-human studies; studies enrolling patients with comorbid conditions other than temporomandibular disorders; studies in which additional therapeutic interventions were administered beyond the defined comparison groups; or studies lacking a control group for comparison. No minimum sample size threshold was applied as an exclusion criterion. All eligible randomized controlled trials meeting the predefined inclusion criteria were considered for inclusion. The potential impact of small sample sizes was addressed through the risk of bias assessment and reflected in the GRADE evaluation of imprecision.
+
+2.4
+
+Data extraction and bias assessment
+
+Two authors (JD and JJV-F) independently extracted relevant data from each included trial. The extracted variables comprised authors and year of publication; study design and total number of participants; results; statistical values and main outcomes; geographic region; gender distribution; and intervention dose and route of administration. The risk of bias of the included studies was assessed using the Cochrane Risk of Bias (RoB) tool. This instrument evaluates bias across seven domains: random sequence generation, allocation concealment, blinding of participants and personnel, blinding of outcome assessment, incomplete outcome data, selective outcome reporting, and other sources of bias. Each domain was rated as having a “low,” “unclear,” or “high” risk of bias. Any disagreements were resolved through discussion or, when consensus could not be reached, by consultation with a third reviewer (JJV-F). Inter-reviewer agreement was calculated using Cohen’s kappa statistic, demonstrating substantial agreement with a kappa value of 0.91.
+
+2.5
+
+Data synthesis and outcome measures
+
+This systematic review synthesized the main outcome parameters reported in the included studies with the aim of identifying, describing, and analyzing the most commonly used measures in the assessment of temporomandibular joint (TMJ) disorders. Priority was given to outcomes most consistently reported across trials. For analytical purposes, outcomes were grouped into three main categories: pain, mandibular mobility, and masticatory function. Pain associated with the TMJ was one of the most frequently evaluated outcomes and was primarily assessed using the visual analogue scale (VAS). This scale quantifies patient-perceived pain intensity on a continuous scale ranging from 0 to 10, where 0 indicates the absence of pain and 10 represents the worst pain imaginable. The VAS is widely validated for musculoskeletal pain assessment and is commonly used to evaluate symptoms both at rest and during mandibular function.
+
+Mandibular mobility was assessed using several clinical measurements reflecting the functional capacity of the TMJ. Maximum mouth opening (MMO) was commonly recorded and defined as the greatest interincisal distance achieved during unassisted maximal opening. Some studies also reported maximum incisal opening (MIO), corresponding to the direct measurement between the incisal edges of the maxillary and mandibular teeth. Both parameters are widely used to identify limitations in oral opening. In healthy adults, normal maximal opening is generally reported between approximately 40 and 55 mm. In addition to mouth opening, mandibular lateral and protrusive movements were evaluated. Lateral excursion was defined as the maximum displacement of the mandible to the right or left from the position of maximum intercuspation, providing an assessment of condylar translational function. In adults without temporomandibular dysfunction, lateral movements are typically reported in the range of approximately 7–10 mm per side,. Protrusive movement corresponds to the maximum anterior displacement of the mandible and reflects the translational capacity of the mandibular condyles, with normal values generally reported between approximately 6 and 10 mm,. Finally, masticatory function was assessed through measures of masticatory efficiency, a parameter describing the ability to effectively comminute food. Depending on the study protocol, this outcome was evaluated using subjective questionnaires or objective performance-based methods. Interpretation was therefore conducted comparatively within each individual study design. Normal masticatory efficiency is typically characterized by chewing without pain, fatigue, or significant functional limitation and reflects adequate neuromuscular coordination, occlusal stability, and joint integrity.
+
+2.6
+
+Rating the quality of evidence
+
+The synthesis and quality of evidence for each outcome were assessed using the Grading of Recommendations, Assessment, Development, and Evaluation (GRADE) approach. The quality of the evidence was classified into four levels: high, moderate, low, and very low. The GRADE Profiler software was used to import data from Review Manager (RevMan) version 5.4 and to generate a “Summary of Findings” table, which is presented in,.
+
+3
+
+Results
+
+3.1
+
+Study selection
+
+The database search yielded 180 records. After removal of duplicates, 91 records were screened based on titles and abstracts, resulting in the exclusion of 90 studies that did not meet the inclusion criteria. The full texts of 58 articles were assessed for eligibility, and no additional studies were identified through trial registries or other sources. Ultimately, 32 randomized controlled trials (RCTs),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,were included in the systematic review and meta-analysis. The included studies evaluated various interventions for temporomandibular joint disorders, including arthrocentesis alone or in combination with intra-articular injections, such as hyaluronic acid, platelet-rich plasma (PRP), and injectable platelet-rich fibrin (i-PRF). Outcomes assessed across studies included pain measured by VAS, MMO, TMJ sounds, and mandibular function. The study selection process is illustrated in the PRISMA flow diagram (). The main characteristics of the included studies are summarized in, and a list of full-text articles excluded after eligibility assessment, along with the reasons for exclusion, is provided in().
+
+3.2
+
+Study characteristics
+
+summarizes the characteristics of the included studies. A total of 32 studies compared TMJ arthrocentesis with other treatment modalities. The studies were published between 1996 and 2023 and were conducted across multiple countries, including the United States, Switzerland, Turkey, India, Brazil, the Netherlands, Norway, Japan, Egypt, and Syria. The overall study population comprised 1247 patients, of whom 640 underwent arthrocentesis and 607 received alternative treatments. The mean age of participants was 43.3 years in both the arthrocentesis and comparison groups. The mean follow-up duration across studies was 53 weeks. A total of 32 studies were eligible and included in the meta-analysis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,. All were randomized controlled trials.
+
+The category “other treatment” encompassed a heterogeneous group of comparator interventions, including conservative therapies (such as occlusal splints, physiotherapy, and pharmacological management), intra-articular injections, arthroscopy, and alternative arthrocentesis-based protocols. Meta-analyses were conducted using direct pairwise comparisons within each individual trial, without constructing an artificial pooled comparator arm. Nevertheless, given the diversity of comparator strategies across studies, this clinical variability may have contributed to the substantial statistical heterogeneity observed in pooled analyses. A random-effects model was therefore applied to account for between-study variability.
+
+3.3
+
+Risk of bias assessment in individual studies
+
+The risk of bias assessment was conducted using the Cochrane Risk of Bias tool and indicated that the overall methodological quality of the included studies was moderate, with variability observed across domains. Regarding random sequence generation, several studies were judged to be at low risk of bias, including,,,,,,,,,,,,,,, as they reported appropriate randomization methods. In contrast, the randomization process was assessed as unclear in most of the remaining studies due to insufficient methodological detail, while a high risk of bias was identified in a limited number of studies. With respect to allocation concealment, a low risk of bias was identified in studies,,,,,,,,. Allocation concealment was considered unclear in the majority of studies, whereas a high risk of bias was observed in,,,. Blinding of participants and personnel represented the most frequent source of bias. Due to the nature of surgical and minimally invasive interventions, most studies, including,,,,,,,,,,,,,,,,,,,,,,,,,,, were judged to be at high risk of performance bias. Only studies,,were classified as having a low risk in this domain. Regarding blinding of outcome assessors, several studies demonstrated a low risk of detection bias, including,,,,,,,,,,,. However, a high risk of bias was identified in some studies, while the remaining studies were classified as unclear due to insufficient reporting. For incomplete outcome data, most studies were judged to be at low risk of attrition bias, reflecting adequate follow-up and complete outcome reporting. A high risk of bias related to incomplete outcome data was identified only in study. Concerning selective reporting, the majority of studies were classified as low risk of bias, as all prespecified outcomes were reported.
+
+A small number of studies were rated as unclear risk due to the absence of a published protocol or insufficient methodological information. Finally, with regard to other potential sources of bias, most studies were assessed as having low or unclear risk. A high risk of other bias was identified in studies,,,,, primarily due to small sample sizes, methodological limitations, or insufficient information to exclude additional sources of bias. Overall, although the lack of blinding of participants and personnel was common, this limitation is inherent to the type of interventions evaluated. Most studies demonstrated appropriate handling of outcome data and selective reporting, supporting their inclusion in the quantitative synthesis, with methodological limitations appropriately addressed through sensitivity analyses (,).
+
+3.4
+
+Synthesis of results
+
+The results of this meta-analysis were calculated using continuous outcomes in Review Manager (RevMan) version 5 (Cochrane Collaboration). For each study, the total number of participants per group, the mean value for each outcome, and the corresponding standard deviation (SD) were extracted and entered into the software. When SDs were not directly reported in the primary studies, they were estimated using methods recommended in the Cochrane Handbook for Systematic Reviews of Interventions. Specifically, when confidence intervals (CIs), standard errors (SEs), p-values, or interquartile ranges (IQRs) were available, SDs were derived using established conversion formulas as described by Higgins et al. When dispersion measures were insufficiently reported, attempts were made to derive SDs from the available statistical data; no non-validated or ad hoc imputation formulas were applied. No imputation of missing outcome data at the participant level was performed. All analyses were based exclusively on summary statistics reported in the primary studies.
+
+Meta-analyses of continuous variables were performed using the inverse variance method. Mean differences (MD) or standardized mean differences (SMD) were calculated with corresponding 95% confidence intervals (CI), depending on whether outcomes were measured using the same or different scales across studies. For interpretative consistency, a decrease in outcome values was considered indicative of a beneficial effect when applicable (e.g., pain reduction). Effect estimates favoring greater reductions are therefore represented by a shift of the pooled summary effect (diamond) toward the group demonstrating the largest decrease. Formal assessment of publication bias (e.g., funnel plot analysis) was not performed for several outcomes due to the limited number of studies per comparison (<10), in accordance with recommendations from the Cochrane Handbook.
+
+3.4.1
+
+Outcomes
+
+To reduce clinical heterogeneity and obtain a more accurate interpretation of the results, each outcome was divided into four subgroups according to the pathologies presented by the patients: temporomandibular joint (TMJ) disc displacement, osteoarthritis, arthralgia, and other pathologies. The latter subgroup includes juvenile idiopathic arthritis (JIA) of the TMJ, condylar fractures, TMJ dysfunction syndrome, and internal TMJ disorders. TMJ disc displacement is a condition in which the articular disc is not in its normal position between the condyle and the articular fossa, but rather in an anterior position. There is disc displacement with reduction, where the disc returns to its normal position upon opening the mouth, and disc displacement without reduction, where the disc does not return to its normal position and may cause limited mouth opening. Osteoarthritis is a degenerative disease in which the articular cartilage and bone progressively wear away, and arthralgia is pain present in the joint without signs of inflammation.
+
+3.4.1.1
+
+Pain assessed by the visual analog scale (VAS) global
+
+Arthrocentesis was compared with other treatment modalities for the outcome of pain assessed using the visual analog scale (VAS). Evidence from the pooled analysis of 26 studies showed no statistically significant difference between groups (MD = −0.25; 95% CI: −1.09–0.59; p = 0.55) (),,,,,,,,,,,,,,,,,,,,,,,,,. Although several individual studies reported effect estimates favoring arthrocentesis, the direction of effect was not uniform across all trials, and confidence intervals frequently overlapped the line of no effect. Substantial statistical heterogeneity was observed (I² = 96%; p < 0.00001). According to the GRADE approach, the overall certainty of the evidence for this outcome was rated as very low (). The pooled estimate suggests a mean reduction in VAS score of approximately 0.25 points in favor of arthrocentesis compared with other treatments. However, this difference did not reach statistical significance and is unlikely to represent a clinically meaningful improvement given the magnitude of effect and the high degree of heterogeneity.
+
+3.4.1.1.1
+
+VAS with disc displacement
+
+In patients with temporomandibular joint disc displacement 13 studies,,,,,,,,,,,,, no statistically significant difference was observed between arthrocentesis and comparator interventions (MD = −0.79; 95% CI: −2.10–0.51). Considerable statistical heterogeneity was detected (I² = 98%; p < 0.00001). Although several individual studies showed point estimates favoring arthrocentesis, the direction of effect was inconsistent and confidence intervals frequently crossed the line of no effect. Therefore, no definitive advantage of arthrocentesis can be established in this subgroup.
+
+3.4.1.1.2
+
+VAS with osteoarthritis
+
+In the osteoarthritis subgroup 7 studies,,,,,,, the pooled analysis demonstrated no statistically significant difference between treatment groups (MD = 0.39; 95% CI: −0.97–1.74). Substantial statistical heterogeneity was observed (I² = 86%; p < 0.00001). The pooled estimate numerically favored comparator interventions; however, the confidence interval crossed zero, indicating statistical non-significance. These findings suggest that arthrocentesis does not provide superior pain reduction compared with alternative treatments in patients with TMJ osteoarthritis.
+
+3.4.1.1.3
+
+VAS with arthralgia
+
+In patients diagnosed with arthralgia 2 studies,, no statistically significant difference was detected between groups (MD = −0.22; 95% CI: −1.53–1.09). No statistical heterogeneity was observed (I² = 0%; p = 0.99), indicating consistency between the included studies. The direction of effect slightly favored arthrocentesis; however, the magnitude of effect was small and did not reach statistical significance.
+
+3.4.1.1.4
+
+VAS with other pathologies
+
+In the subgroup categorized as other pathologies 4 studies,,,, which included conditions such as juvenile idiopathic arthritis, condylar fractures, and TMJ dysfunction syndromes, no statistically significant difference was observed between groups (MD = 0.60; 95% CI: −0.27–1.48). Moderate to substantial heterogeneity was detected (I² = 68%; p = 0.03). The pooled estimate favored comparator interventions; however, the confidence interval crossed the null value.
+
+3.4.2
+
+Mandibular mobility outcomes
+
+3.4.2.1
+
+Maximum mouth opening (MMO) global
+
+Arthrocentesis was compared with other treatment modalities for maximum mouth opening (MMO). In the overall pooled analysis of 14 studies, a statistically significant difference was observed between groups (SMD = −0.67; 95% CI: −1.14 to −0.20; p = 0.005) (),,,,,,,,,,,,,,,,,,,,,,,,,. Considerable statistical heterogeneity was detected (I² = 85%; p < 0.00001). The pooled estimate indicates that arthrocentesis was associated with a significantly lower improvement in maximum mouth opening compared with alternative therapeutic modalities. Although the effect reached statistical significance, the magnitude of the standardized mean difference corresponds to a moderate effect size, and the high level of heterogeneity should be considered when interpreting these findings. According to the GRADE approach, the overall certainty of the evidence for this outcome was rated as very low (). To explore potential sources of heterogeneity, subgroup analyses were conducted according to underlying temporomandibular disorder pathology.
+
+3.4.2.1.1
+
+MMO with disc displacement
+
+In patients with temporomandibular joint disc displacement 7 studies,,,,,,, no statistically significant difference was observed between arthrocentesis and comparator interventions (SMD = −0.48; 95% CI: −1.10–0.14). Substantial statistical heterogeneity was detected (I² = 82%; p < 0.00001). Although several individual studies showed point estimates favoring comparator interventions, confidence intervals frequently crossed the line of no effect. Therefore, no definitive advantage of either treatment approach can be established in this subgroup.
+
+3.4.2.1.2
+
+MMO with osteoarthritis
+
+In the osteoarthritis subgroup 4 studies,,,, the pooled analysis did not demonstrate a statistically significant difference between treatment groups (SMD = −1.27; 95% CI: −2.87–0.33). Considerable heterogeneity was observed (I² = 92%; p < 0.00001). Although the pooled estimate numerically favored comparator interventions, the wide confidence interval crossing zero indicates statistical non-significance.
+
+3.4.2.1.3
+
+MMO with arthralgia
+
+In patients diagnosed with arthralgia 2 studies,, no statistically significant difference was detected between groups (SMD = −0.30; 95% CI: −0.76–0.17). Low to moderate heterogeneity was observed (I² = 20%; p = 0.26). The direction of effect favored comparator interventions; however, the magnitude of effect was small and did not reach statistical significance.
+
+3.4.2.1.4
+
+MMO with other pathologies
+
+In the subgroup categorized as other pathologies 1 study, a statistically significant difference was observed favoring comparator interventions (SMD = −1.00; 95% CI: −1.54 to −0.46; p = 0.0003). As only one study contributed to this analysis, heterogeneity was not applicable. Although the effect size appears large, the result is based on a single study and should therefore be interpreted with caution.
+
+3.4.2.2
+
+Maximum incisal opening (MIO) global
+
+Arthrocentesis was compared with other treatment modalities for maximum incisal opening (MIO). In the overall pooled analysis of eleven studies, a statistically significant difference was observed between groups (SMD = −2.93; 95% CI: −4.54 to −1.32; p = 0.0004) (),,,,,,,,,,. Considerable statistical heterogeneity was detected (I² = 96%; p < 0.00001). According to the GRADE approach, the overall certainty of the evidence for this outcome was rated as very low (). The pooled estimate indicates that arthrocentesis was associated with a significantly lower improvement in maximum incisal opening compared with alternative therapeutic modalities. The magnitude of the standardized mean difference corresponds to a large effect size; however, the very high heterogeneity substantially limits the certainty and interpretability of these findings. To explore potential sources of heterogeneity, subgroup analyses were conducted according to underlying temporomandibular disorder pathology.
+
+3.4.2.2.1
+
+MIO with disc displacement
+
+In patients with temporomandibular joint disc displacement 6 studies,,,,,, a statistically significant difference was observed favoring comparator interventions (SMD = −5.07; 95% CI: −7.38 to −2.75). Extremely high heterogeneity was detected (I² = 95%; p < 0.00001). The magnitude of the standardized mean difference corresponds to a very large effect size. However, the wide dispersion of individual study estimates and the substantial heterogeneity indicate considerable variability across trials, limiting the precision of the pooled estimate.
+
+3.4.2.2.2
+
+MIO with osteoarthritis
+
+In the osteoarthritis subgroup 4 studies,,,, no statistically significant difference was observed between treatment groups (SMD = −1.33; 95% CI: −3.42–0.76). Considerable heterogeneity was detected (I² = 94%; p < 0.00001). Although the pooled estimate numerically favored comparator interventions, the confidence interval crossed the line of no effect, indicating statistical non-significance. The variability in effect size magnitude across studies further contributes to uncertainty in this subgroup.
+
+3.4.2.2.3
+
+MIO with other pathologies
+
+In the subgroup categorized as other pathologies 1 study, a statistically significant difference was observed favoring comparator interventions (SMD = 2.06; 95% CI: 1.32–2.81; p < 0.00001). As only one study contributed to this analysis, heterogeneity was not applicable. Despite the large effect size, the result should be interpreted cautiously due to the absence of replication across studies.
+
+3.4.3
+
+Masticatory function
+
+3.4.3.1
+
+Masticatory efficiency
+
+Arthrocentesis was compared with other treatment modalities for masticatory efficiency. In the pooled analysis of two studies, a statistically significant difference was observed between groups (MD = 1.15; 95% CI: 0.22–2.08; p = 0.02) (),. Considerable statistical heterogeneity was detected (I² = 98%; p < 0.00001). According to the GRADE approach, the overall certainty of the evidence for this outcome was rated as very low (). The pooled estimate suggests a modest improvement in masticatory efficiency favoring arthrocentesis. However, given that the analysis was based on only two studies and was accompanied by extremely high heterogeneity, the statistical significance of the pooled result should be interpreted with caution. The limited number of studies, potential variability in measurement methods, and very low certainty of evidence preclude drawing definitive conclusions regarding the clinical effectiveness of arthrocentesis for this outcome.
+
+3.4.4
+
+Mandibular movement outcomes
+
+3.4.4.1
+
+Overall mandibular movement global
+
+Arthrocentesis was compared with other treatment modalities for overall mandibular movement. In the pooled analysis of 22 studies, no statistically significant difference was observed between groups (MD = −0.40; 95% CI: −0.93–0.14; p = 0.14) (),,,,,,,,,. Extremely high statistical heterogeneity was detected (I² = 100%; p < 0.00001). According to the GRADE approach, the overall certainty of the evidence for this outcome was rated as very low (). The pooled mean difference suggests a small effect favoring comparator interventions; however, the absence of statistical significance and the extremely high heterogeneity substantially limit confidence in this estimate, indicating that arthrocentesis was associated with slightly lower improvement in mandibular movement compared with other treatments; however, this difference did not reach statistical significance. The very high heterogeneity substantially limits confidence in the pooled estimate.
+
+3.4.4.2
+
+Lateral mandibular with movement (Overall)
+
+In the subgroup analysis of overall lateral movement 5 studies,,,, no statistically significant difference was observed between groups (MD = −0.52; 95% CI: −1.13–0.09; p = 0.09) (). Substantial heterogeneity was detected (I² = 96%; p < 0.00001). Although the pooled estimate favored comparator interventions, the confidence interval crossed zero, indicating statistical non-significance.
+
+3.4.4.3
+
+Right lateral mandibular movement
+
+In the subgroup analysis of right lateral movement 3 studies,,, no statistically significant difference was observed between groups (MD = −1.54; 95% CI: −3.64–0.55; p = 0.15) (). Extremely high heterogeneity was detected (I² = 100%; p < 0.00001). Although the pooled estimate numerically favored comparator interventions, the confidence interval crossed the line of no effect.
+
+3.4.4.4
+
+Left lateral mandibular movement
+
+In the subgroup analysis of left lateral movement 3 studies,,, no statistically significant difference was observed between groups (MD = −0.42; 95% CI: −3.10–2.26; p = 0.76) (). Extremely high heterogeneity was detected (I² = 100%; p < 0.00001). The wide confidence interval indicates substantial variability across studies, limiting interpretability.
+
+3.4.4.5
+
+Ipsilateral mandibular movement
+
+In the subgroup analysis of ipsilateral movement 2 studies,, no statistically significant difference was observed between groups (MD = −0.14; 95% CI: −1.02–0.75; p = 0.76) (). Substantial heterogeneity was detected (I² = 96%; p < 0.00001). The limited number of studies and high variability preclude definitive conclusions.
+
+3.4.4.6
+
+Contralateral mandibular movement
+
+In the subgroup analysis of contralateral movement 3 studies,,, no statistically significant difference was observed between groups (MD = 0.04; 95% CI: −0.50–0.58; p = 0.90) (). Substantial heterogeneity was detected (I² = 97%; p < 0.00001). The pooled estimate was close to zero, indicating minimal difference between treatment groups.
+
+3.4.4.7
+
+Protrusive mandibular movement
+
+In the subgroup analysis of protrusive movement 6 studies,,,,,, no statistically significant difference was observed between groups (MD = 0.01; 95% CI: −0.99–1.02; p = 0.98) (). Extremely high heterogeneity was detected (I² = 99%; p < 0.00001). The pooled estimate suggests no meaningful difference between arthrocentesis and comparator interventions.
+
+3.5
+
+Adverse effects
+
+All 32 studies summarized inwere evaluated for the reporting of adverse effects. Only one study explicitly reported treatment-related adverse events. The remaining studies did not provide detailed information regarding adverse event monitoring or reporting. The absence of reported complications in these trials should not be interpreted as confirmation that no adverse effects occurred, but rather as a lack of explicit reporting. In the single study that reported adverse effects, four patients, two in the control group and two in the experimental group experienced temporary and reversible facial nerve paresis. This condition was characterized by a transient reduction in the mobility of certain facial muscles, without evidence of permanent nerve damage. Clinically, it manifested as difficulty in raising the eyebrows, closing the eyes, or performing facial expressions, and was not associated with severe pain or sensory disturbances. The reported episodes lasted no longer than 30 min, and no serious or permanent complications were observed. Recovery was spontaneous and complete, with no need for additional medical intervention. The authors suggested that this adverse effect was likely caused by diffusion of the local anesthetic into branches of the facial nerve or by extravasation of the irrigation fluid used during arthrocentesis, possibly due to the anatomical proximity of the temporomandibular joint to the facial nerve.
+
+.
+
+3.6
+
+Meta-regression
+
+For the following outcomes, the variables age and proportion of women were represented in fewer than three studies (K < 3), as only two studies were available for each comparison:and. Because of this limited number of studies, these datasets were considered not suitable for meta-regression with inferential validity. Although they could be explored descriptively, any results would lack statistical robustness and would not permit reliable estimates, as a minimum of three studies is required to adequately assess heterogeneity and to evaluate associations between effect size and covariates. Among the available analyses, only one covariate demonstrated a statistically significant association with the outcome. Specifically, age was found to influence lateral temporomandibular joint movement, with a positive association (β = 0.16; 95% CI: 0.056–0.263;= 0.0024) (). Given the limited number of studies available for several outcomes, exploration of heterogeneity was restricted to meta-regression analyses where statistically appropriate. No additional subgroup analyses were performed due to insufficient statistical power.
+
+4
+
+Discussion
+
+Arthrocentesis did not demonstrate statistically significant superiority over alternative therapeutic modalities for pain reduction in patients with temporomandibular disorders. Although improvements were observed across treatment groups, pooled analyses frequently showed either no significant differences or results favoring comparator interventions, particularly for maximum mouth opening and maximum incisal opening. Furthermore, the substantial statistical heterogeneity and predominantly low to very low certainty of evidence limit the strength of the conclusions that can be drawn. Therefore, the findings of this meta-analysis should be interpreted with caution.
+
+A substantial number of previous systematic reviews have investigated arthrocentesis, reflecting both the scientific interest in this procedure and its widespread clinical use. Zhang et al.conducted a network meta-analysis comparing different arthrocentesis regimens and adjunctive intra-articular agents in patients with TMD. Their findings suggested that specific combinations, such as hyaluronic acid in the short term and injectable platelet-rich fibrin in the medium term, may enhance pain reduction. However, these analyses focused primarily on variations of arthrocentesis protocols rather than direct comparisons with alternative treatment modalities. Thorpe et al.evaluated arthrocentesis versus conservative management and concluded that arthrocentesis did not significantly reduce pain compared with non-surgical therapy, although a slight improvement in MMO was observed. Similarly, Hu et al.reported short- and medium-term pain reduction favoring arthrocentesis but found no significant differences in MMO. Tang et al.suggested potential short-term benefits in pain during movement and mandibular function; however, improvements in MMO were not clinically meaningful. Collectively, prior evidence indicates that arthrocentesis may offer symptom relief, yet its functional superiority remains uncertain.In the present meta-analysis, no statistically significant difference in pain reduction was observed between arthrocentesis and comparator interventions (MD = −0.25; 95% CI −1.09–0.59; p = 0.55), consistent with previous reviews suggesting comparable pain relief to conservative therapies. Although the direction of effect favored arthrocentesis, the difference did not reach statistical significance, and the certainty of evidence was rated as very low. For maximum mouth opening (MMO), the pooled standardized mean difference (SMD = −0.67; p = 0.005) statistically favored comparator interventions rather than arthrocentesis. This indicates that although both groups experienced improvement, the magnitude of increase in mouth opening was greater in patients receiving alternative treatments. Similarly, for maximum incisal opening (MIO), the pooled standardized mean difference (SMD = −2.93; p = 0.0004) also favored comparator therapies. Although the standardized mean difference indicates a statistically significant effect favoring comparator interventions, the clinical interpretability of this effect size is limited, particularly in the context of substantial heterogeneity and variability in baseline functional status across studies. Masticatory efficiency demonstrated a statistically significant improvement favoring arthrocentesis (MD = 1.15; p = 0.02); however, this result was based on only two studies and was accompanied by extreme heterogeneity (I² = 98%) and very low certainty of evidence. In addition, the unit of measurement for masticatory efficiency varied across studies, and no standardized minimal clinically important difference has been established for this outcome. Therefore, despite statistical significance, the clinical relevance of this magnitude of change remains uncertain. No statistically significant differences were observed for lateral, ipsilateral, contralateral, or protrusive mandibular movements. Across these outcomes, pooled estimates frequently showed trends favoring comparator interventions, although differences did not reach statistical significance. Importantly, statistical heterogeneity was extreme in nearly all functional outcomes (I² values frequently exceeding 85–100%). The extremely high levels of heterogeneity suggest that the included studies may not be estimating a single underlying treatment effect. This variability likely reflects important clinical and methodological differences, including heterogeneity in TMD subtypes (e.g., disc displacement, osteoarthritis, arthralgia), baseline severity, arthrocentesis techniques (single versus double puncture), use of adjunctive intra-articular agents, comparator interventions (conservative therapy, splints, injections, arthroscopy), and duration of follow-up. Additionally, some studies included overlapping or mixed diagnostic categories, which may have influenced baseline pain severity, functional limitation, and response to intervention. This diagnostic variability may have contributed to clinical heterogeneity and should be considered when interpreting pooled estimates. Although stratified analyses by TMD subtype, arthrocentesis technique, comparator type, or follow-up duration would have been clinically informative, such subgroup analyses were not feasible in a statistically robust manner due to the limited number of studies within each specific category and the substantial variability in diagnostic criteria and reporting. Conducting multiple subgroup analyses under these conditions could have generated unstable or misleading estimates. Therefore, we opted for overall pooled analyses while explicitly acknowledging the underlying clinical heterogeneity. Given this variability, pooled estimates should be interpreted as exploratory summaries rather than definitive indicators of treatment superiority. An additional source of variability relates to differences in follow-up duration across included studies. Although some primary trials reported short-term outcomes, others evaluated mid-term or longer-term follow-up, and definitions of these temporal categories were not uniform. Given that treatment effects may evolve over time, this variability in follow-up intervals may have influenced pooled estimates and further contributed to heterogeneity. Therefore, interpretations regarding temporal effectiveness should be made cautiously. An additional methodological limitation concerns the conceptual heterogeneity of comparator groups and the scope of the PICO framework. Although the review question was framed as arthrocentesis versus other therapeutic modalities, several included trials compared arthrocentesis combined with adjunctive intra-articular agents versus arthrocentesis alone, or different post-arthrocentesis strategies. These comparisons represent variations within arthrocentesis protocols rather than pure contrasts between arthrocentesis and entirely distinct therapeutic modalities. We acknowledge that the inclusion of such comparisons broadens the clinical scope of the analysis. While these studies were incorporated to comprehensively evaluate the therapeutic landscape surrounding arthrocentesis and reflect real-world clinical practice, this conceptual overlap limits the interpretability of pooled comparisons and may partially contribute to the observed heterogeneity. Therefore, results should be interpreted within the context of this expanded clinical framework rather than as strictly dichotomous modality comparisons. An important consideration relates to the reporting of adverse events. Only one included study explicitly described treatment-related complications, while the remaining trials did not provide detailed information regarding harm monitoring. The absence of reported adverse effects should not be interpreted as confirmation of safety, but rather as inadequate reporting in the primary literature. Consequently, the safety profile of arthrocentesis cannot be reliably established based on the currently available evidence. At the review level, additional limitations include potential publication bias, restriction to English and Spanish publications, and the inability to perform robust subgroup analyses due to inconsistent reporting across primary studies. Compared with previous systematic reviews, the present study incorporates a large number of randomized controlled trials and evaluates a broad range of functional outcomes. However, the certainty of evidence across most outcomes was rated as low or very low according to GRADE. Consequently, conclusions must remain cautious. Overall, arthrocentesis should be regarded as a minimally invasive intervention whose clinical effectiveness remains uncertain in light of the current evidence. Based on available data, it cannot be considered superior to alternative therapeutic modalities for most functional outcomes. Its role within the management of temporomandibular disorders should therefore be interpreted cautiously and individualized according to patient characteristics and response to conservative therapy. Future well-designed, adequately powered randomized controlled trials with standardized diagnostic criteria, clearly defined comparators, and consistent outcome reporting are required to clarify its precise role within the therapeutic algorithm for temporomandibular disorders.
+
+4.1
+
+Limitations
+
+The limited reporting of adverse events across primary studies should not be interpreted as evidence of safety. Rather, it likely reflects incomplete or inconsistent harm reporting in the included trials. Therefore, the safety profile of arthrocentesis cannot be reliably established based on the available data. Several additional limitations must be acknowledged. Many included studies had small sample sizes and incomplete reporting of allocation concealment and blinding procedures. The inclusion of small trials may have increased imprecision and contributed to variability in effect estimates; however, in the context of meta-analysis, weighting by inverse variance reduces the influence of smaller studies on pooled results. Follow-up periods varied substantially across studies, and outcome measures were not fully standardized. Variability in the timing of outcome assessment may have influenced pooled estimates. Pain assessment using the visual analog scale (VAS) should also be interpreted cautiously, as this instrument captures only intensity and does not reflect the multidimensional nature of pain. At the review level, additional limitations include potential publication bias, restriction to studies published in English and Spanish, and the inability to perform statistically robust subgroup analyses due to inconsistent reporting and heterogeneity in diagnostic criteria and intervention protocols. Additionally, no formal assessment of small-study effects using funnel plots was performed for most outcomes due to the limited number of studies per comparison (<10), which may limit the ability to fully evaluate publication bias.
+
+5
+
+Conclusions
+
+This systematic review and meta-analysis indicates that arthrocentesis did not demonstrate statistically significant superiority over alternative therapeutic modalities for pain reduction in patients with temporomandibular disorders. Across most functional outcomes, including maximum mouth opening, maximum incisal opening, and mandibular movements, pooled analyses either showed no significant differences or favored comparator interventions. Although arthrocentesis remains a minimally invasive therapeutic option, the current evidence does not support clear superiority in either pain reduction or functional improvement when compared with other treatment strategies. The substantial statistical heterogeneity, variability in study design, and predominantly low to very low certainty of evidence further limit the strength of conclusions that can be drawn. Therefore, the role of arthrocentesis in the management of temporomandibular disorders should be interpreted cautiously and individualized according to patient characteristics and response to conservative therapy. Future well-designed, adequately powered randomized controlled trials with standardized diagnostic criteria, clearly defined comparators, and consistent long-term outcome reporting are required to better define its clinical value.
+
+Declaration of Competing Interest
+
+The authors of the manuscript;declare that they have no known competing financial interests or personal relationships that could have appeared to influence the work reported in this paper.
