@@ -1,0 +1,22 @@
+TITLE: [A clinical study on the centralized occlusal scheme for implant-supported overdentures in edentulous patients].
+Chinese title: 牙列缺失种植覆盖义齿集中𬌗型的临床研究
+Authors: Diao C, Wang S, Li M, Pan S, Liu Y
+Affiliation: Department of Prosthodontics, Peking University School and Hospital of Stomatology, Beijing 100081, China.
+Journal: Beijing Da Xue Xue Bao Yi Xue Ban (Journal of Peking University. Health Sciences), 2026 Feb 18; 58(1): 133-138.
+PMID: 41633595 | PMCID: PMC12872305 | DOI: 10.19723/j.issn.1671-167X.2026.01.017
+Article types: Journal Article; English Abstract; Randomized Controlled Trial (crossover)
+Language: Chinese (English abstract)
+Keywords: Implant overdenture; Masticatory efficiency; Occlusal scheme
+MeSH: Humans; Denture, Overlay; Dental Prosthesis, Implant-Supported; Male; Female; Dental Occlusion; Denture Design; Middle Aged; Aged; Mastication; Mouth, Edentulous
+
+ABSTRACT (English, from PubMed metadata):
+
+Objective: To address the mismatch between the support center and the occlusal load center in implant-supported overdentures, this study proposed a novel centralized occlusal scheme. This design aimed to utilize the supportive capacity of the anterior mandibular implants and the maxillary canine pillars by establishing occlusal contacts in the canine region. A preliminary evaluation of the clinical feasibility of this new occlusal scheme was conducted.
+
+Methods: In this study, five completely edentulous patients received two implants in the mandible. Each participant was provided with two complete prosthetic sets: mandibular implant-supported overdentures and corresponding complete maxillary dentures featuring either a conventional bilateral balanced occlusion or the novel centralized occlusal scheme, delivered in a randomized crossover sequence. For the new scheme, the maxillary canines were reshaped referencing the premolars, while preserving their labial contour and occlusal balance, the lingual fossa was modified to establish centric occlusal contacts. A comprehensive evaluation was conducted using standardized methods: chewing efficiency was measured using the two-color chewing gum method, occlusal contact area was calculated digitally using virtual articulating paper method, and patient satisfaction was assessed using validated questionnaires, and stress distribution patterns were examined through detailed three-dimensional finite element analysis.
+
+Results: Compared with the conventional occlusal scheme, the centralized occlusal scheme achieved improvements of 21.22% (17.48%, 26.01%) in occlusal contact area and 21.87% (17.51%, 24.18%) in masticatory efficiency, with the latter reaching 55.13% (43.73%, 59.09%) of the level observed in complete natural dentitions. Patient subjective evaluations indicated that the centralized scheme was comparable to the conventional scheme in terms of overall satisfaction, speech, and aesthetics. Finite element analysis revealed that the centralized scheme expanded the denture support area to the maxillary canine region.
+
+Conclusion: The proposed novel centralized occlusal scheme can enhance occlusal contact area and chewing efficiency by utilizing the support capacity of the anterior mandibular implants and the maxillary canine pillars, while maintaining denture stability, balance, aesthetics, and patient satisfaction. This study provides a new approach and preliminary evidence for improving the occlusal design of implant-supported overdentures.
+
+NOTE: PMC full text (JATS body) not retrievable — abstract-only ingest. Values are reported as median (IQR-style 95% range) in the abstract.
