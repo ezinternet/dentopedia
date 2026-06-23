@@ -1,0 +1,78 @@
+Risk factors for proximal contact loss after implant-supported prosthetic restoration in adjacent natural teeth
+
+Liu L, Jiang Y, Xu H, Zheng Y, Han XJ.
+BMC Oral Health. 2025 Dec 17;26(1):129.
+PMID: 41402875 | PMCID: PMC12821840 | DOI: 10.1186/s12903-025-07480-3
+Departments of Stomatology / Public Health, Hebei Medical University Third Hospital, Shijiazhuang, Hebei, China.
+
+Keywords: Alveolar bone loss; Cox regression; Dental implants; Food impaction; Implant-supported restoration; Proximal contact loss (PCL); Residual ridge discrepancy.
+
+== ABSTRACT ==
+Background: Proximal contact loss (PCL) between implant-supported restorations and adjacent natural teeth is a frequent clinical complication, potentially leading to food impaction, caries, and periodontal issues. However, the risk factors contributing to PCL remain incompletely understood.
+Methods: This retrospective cohort study included patients who received single implant-supported crowns adjacent to natural teeth between June 2015 and June 2025. Eligible cases met stringent inclusion criteria based on radiographic, clinical, and periodontal assessments. PCL was diagnosed using floss resistance and radiographic separation tests, and quantified via calibrated shim stock measurements. Data on demographic, prosthetic, anatomical, and periodontal variables were extracted. Univariate and multivariate Cox proportional hazards regression analyses were used to identify independent predictors of PCL.
+Results: A total of 206 patients (395 contact points) were included. The incidence of PCL was 67.5% at the patient level and 40.3% at the contact-point level. Multivariate analysis revealed that clinical food impaction (HR 2.75; 95% CI, 1.70–4.58; P<0.001), residual ridge height discrepancy (HR 2.51; 95% CI, 1.37–4.58; P=0.003), and advanced alveolar bone loss in adjacent teeth (HR 5.83; 95% CI, 1.05–32.33; P=0.044) were independently associated with PCL.
+Conclusions: PCL is a prevalent complication following implant-supported prosthetic restoration. Local anatomical and prosthetic factors—particularly food impaction, ridge discrepancy, and bone loss—are key predictors. Proactive identification and management of these risk factors may help preserve interproximal contact integrity over time.
+
+== INTRODUCTION (key points) ==
+PCL reported in up to 50% of cases within five years after prosthesis placement; predisposes to food impaction, secondary caries, periodontitis, and marginal bone loss around both implant and natural tooth.
+Osseointegrated implants lack periodontal proprioception/remodeling → prosthetic contacts susceptible to spontaneous opening. Physiologic mesial tooth migration ~20–30 μm/year, driven by occlusal forces, PDL remodeling, age-related migration.
+Factors implicated: crown emergence profile, axial implant inclination, restorative material, occlusal loading, timing of crown insertion. Patient variables: age-related migration, parafunction, oral hygiene.
+Prior retrospective cohort: distal contacts adjacent to second molars more prone to opening than mesial contacts near incisors. Inter-implant distance and angulation correlated with contact stability.
+
+== METHODS ==
+Retrospective cohort, single institution, June 2015–June 2025.
+Inclusion: ≥18 y at prosthesis insertion; single implant-supported crown adjacent to ≥1 natural tooth, definitive restoration; osseointegration (insertion torque ≥35 N·cm, no mobility at delivery); high-quality periapical radiographs + intraoral photos at baseline; adjacent natural teeth with intact proximal contacts and periodontal health (PD ≤3 mm, no pathologic bone loss).
+Exclusion: moderate-severe periodontitis (Stage III/IV) or active perio therapy within 6 mo; adjacent tooth mobility Grade ≥II or interdental bone defects at baseline; systemic conditions/medications affecting bone metabolism or soft tissue healing; current heavy smoking (≥10 cig/day) or cessation within 12 mo.
+
+Diagnostic criteria for PCL:
+- Floss Resistance Test: 25-µm waxed floss or 8-µm shim-stock passes through contact without resistance or with audible "snap" (vs firm engagement at baseline).
+- Radiographic Separation: ≥0.2 mm increase in horizontal interproximal separation at mid-contact between delivery and follow-up periapical radiographs.
+
+Quantification: 50 μm-thick metal shim stock strips inserted into interproximal gap until light resistance; max strips × 50 μm = PCL gap width.
+Bone support = ratio of alveolar bone height to total root length = (CEJ-to-alveolar-crest distance) / (CEJ-to-root-apex distance), from standardized periapical radiographs.
+
+Plunger cusp: cusp tip on opposing/adjacent tooth projecting into interproximal embrasure during function, exerting compressive force on marginal ridge → food impaction or PCL.
+Residual ridge height discrepancy: vertical difference >1 mm between alveolar crest at implant platform and at adjacent natural tooth on standardized periapical radiographs.
+
+Unit of analysis: each contact point (implant crown–adjacent natural tooth interface) = independent observational unit ("contact-point level"). Multiple sites per patient analyzed separately.
+First investigator (prosthodontist, >10 y experience) did measurements; second examiner reviewed 20% for consistency; discrepancies resolved by third investigator.
+
+Statistics: SPSS 26.0. Univariate log-rank tests; variables P<0.05 entered into multivariate Cox proportional hazards regression.
+
+== RESULTS ==
+206 patients (86 male, 120 female), ages 21–83 (mean 51). 395 adjacent interproximal contact points total.
+PCL incidence: patient-level 67.5% (139/206); contact-point level 40.3% (159/395).
+
+Baseline (n=395 contacts): female 64.1%; age 20–39 21.0%, 40–59 48.6%, ≥60 30.4%; food impaction present 40.3%; edentulism <5 y 64.8%, ≥5 y 35.2%; site premolar 30.1%, molar 69.9%; maxilla 37.2%, mandible 62.8%; free-end 36.7%; single crown 68.9%, connected crowns 17.5%, fixed bridge 13.7%; ridge height discrepancy present 11.4%; plunger cusp 5.8%; bone support <1/8 6.6%, 1/8–2/8 77.2%, 2/8–3/8 14.2%, >3/8 2.0%; contact position mesial 68.1%, distal 31.9%.
+
+Univariate (significant, PCL vs No-PCL):
+- Food impaction: 89/159 vs 27/236; χ²=90.83, P<0.001
+- Edentulism duration <5 y: 119/159 vs 142/236; χ²=9.13, P=0.003
+- Mesial contact location: 139/159 vs 138/236; χ²=38.00, P<0.001
+- Ridge height discrepancy present: 33/159 vs 21/236; χ²=11.32, P<0.001
+- Alveolar bone support (gradient): χ²=12.51, P=0.005
+- Plunger cusp present: 22/159 vs 11/236; χ²=10.45, P=0.001
+NOT significant (all P>0.05): sex, age, smoking, alcohol, diabetes, hypertension, bruxism, occlusal stability, placement site, jaw arch, free-end span, additional surgery, restoration format, pulp vitality, adjacent tooth type, opposing wear, opposing tooth type.
+
+Multivariate Cox proportional hazards — independent predictors:
+- Food impaction: HR 2.75 (95% CI 1.70–4.58), P<0.001 (B=1.012)
+- Residual ridge height discrepancy (present): HR 2.51 (95% CI 1.37–4.58), P=0.003 (B=0.92)
+- Alveolar bone support >3/8 root length: HR 5.83 (95% CI 1.05–32.33), P=0.044 (B=1.762); 2/8–3/8 HR 2.48 (0.57–12.12), P=0.244
+NOT retained: edentulism ≥5 y HR 0.67 (0.41–1.11) P=0.115; distal contact HR 1.46 (0.73–2.95) P=0.288; plunger cusp HR 1.75 (0.92–3.32) P=0.087.
+
+== DISCUSSION (key points) ==
+40.3% contact-level prevalence consistent with literature (30–58%; ~50% in long-term). Wong et al. 43% PCL in 186 contacts, mesial predominance in mandible.
+Local biomechanical factors dominate over systemic/behavioral. PCL ↔ food impaction bidirectional/self-perpetuating: impaction is both sequela of PCL and aggravating factor (food wedging → lateral stress → widened gap + inflammation/bone remodeling).
+Ridge height discrepancy → abnormal contour, high/narrow contact areas → restore ideal ridge anatomy before/during prosthetic rehab.
+Severe bone loss (>3/8 root) → ↑ mobility/mesial drift of natural tooth → gaps. Needs comprehensive periodontal evaluation/management.
+Mesial contacts: 87% of PCL cases at mesial sites (physiologic mesial drift disrupted by implant immobility); lost multivariate significance likely due to collinearity. Byun et al. also found contact location non-significant after adjustment; Pappous et al. inconsistent.
+Prosthetic variables minimal impact (restoration type, site, opposing dentition). Liang et al. greater susceptibility in bridge-type but disappeared in multivariate.
+
+Clinical recommendations: contact assessment at 3 months post-restoration then semiannually. High-risk (perio bone loss, ridge discrepancy, food impaction signs) → individualized prevention. Optimize adjacent periodontal status pre-prosthetically; bone augmentation or prosthetic modification for vertical deficiency; enameloplasty for broader contacts; occlusal splints / interproximal restorations; correct plunger cusps.
+
+Limitations: retrospective (information/measurement bias, mild PCL underreporting); single-center (limited generalizability); variable follow-up duration; unmeasured occlusal force magnitude and 3D contact morphology; clinical/radiographic detection less accurate than digital 3D; risk identification only — prospective prevention/management trials needed.
+
+== CONCLUSIONS ==
+PCL is common after implant-supported prosthetic restoration adjacent to natural teeth. Food impaction, residual ridge height discrepancy, and severe alveolar bone loss in adjacent teeth are significant risk factors. Early recognition and targeted intervention for high-risk cases are essential.
+
+Source: PubMed Central full text (PMC12821840). DOI: 10.1186/s12903-025-07480-3
