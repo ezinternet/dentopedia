@@ -1,0 +1,106 @@
+Carp collagen membrane for guided bone regeneration: evaluation in a rat femoral defect model
+
+Authors: Bujda M, Suchý T, Bartoš M, Lunáčková J, Dušková J, Žaloudková M, Foltán R
+Journal: Biomaterials and Biosystems (Biomater Biosyst). 2026;22:100139
+DOI: 10.1016/j.bbiosy.2026.100139
+PMID: 42181027  PMCID: PMC13197808
+Publication date: 2026-05-09
+Keywords: Bone regeneration; Carp collagen; Collagen membrane; GBR
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13197808/)
+
+== ABSTRACT ==
+
+Highlights:
+- Carp-derived collagen membrane supports bone healing in a rat femoral defect model with good biocompatibility.
+- Membrane-only treatment showed a consistent trend toward higher bone formation and healing scores.
+- Addition of Bio-Oss did not improve healing outcomes in this non–critical-size defect model.
+- Further studies in clinically relevant models are required to confirm these findings.
+
+Background: Guided bone regeneration (GBR) relies on barrier membranes to stabilize the blood clot and maintain a protected healing space. Collagen membranes are typically derived from mammalian sources; however, concerns regarding zoonotic transmission, ethics, and cost have driven interest in alternative materials. Fish-derived collagen has emerged as a potential substitute. A novel membrane from European carp skin has shown favorable soft-tissue outcomes, but its performance in bone healing has not yet been evaluated.
+
+Methods: Standardized cortical defects were created in the femora of 21 Wistar rats. Four treatments were evaluated: empty defect, carp collagen membrane alone, Bio-Oss + carp collagen membrane, and Bio-Oss + Bio-Gide. Animals were euthanized at 4, 12, and 16 weeks. Healing was assessed by micro-CT and histology. Descriptive statistics (median, IQR) were used, and group comparisons were performed using non-parametric Kruskal–Wallis tests with Dunn's post-hoc testing; effect sizes were reported as η².
+
+Results: Defects treated with the carp collagen membrane alone showed a consistent trend toward higher median healing scores, greater new bone formation, and smaller residual defect size, although differences were not statistically significant. When combined with Bio-Oss, outcomes were less favorable than with Bio-Oss + Bio-Gide.
+
+Conclusions: The carp collagen membrane supported bone healing in a non–critical-size rat femoral defect model and demonstrated favorable biocompatibility. These findings suggest that fish-derived collagen may represent a promising alternative membrane material, particularly in indications where membrane function alone is sufficient. Further validation in large-animal critical-size defect models is required.
+
+== FULL TEXT ==
+
+1. Introduction
+
+Guided bone regeneration (GBR) is a well-established approach for promoting bone formation in sites with insufficient bone volume, most commonly applied in maxillofacial surgery prior to dental implant placement. A key component of GBR is the barrier membrane, whose primary function is to maintain a protected space for healing and to stabilize the blood clot by preventing micromovements during the early phases of regeneration. Beyond its barrier function, membrane properties such as biocompatibility, degradation profile, porosity, and mechanical stability may substantially influence the quality and predictability of bone healing.
+
+Collagen-based membranes are widely used in GBR due to their favorable biological properties and resorbability. However, most commercially available membranes are derived from mammalian sources (porcine and bovine), which may raise concerns related to potential zoonotic disease transmission (e.g., bovine spongiform encephalopathy), religious restrictions (e.g., avoidance of porcine products in Islam and bovine products in Hinduism), as well as economic and ethical considerations. Alternative collagen sources therefore represent an area of growing interest. Fish-derived scaffolds have been shown to be biocompatible and exhibit lower immunogenicity when compared to bovine collagen. They also minimize the risk of zoonoses transmission and avoid religious constraints. They represent cost-effective option, as they can be produced from waste products (skin, scales, fins, etc.).
+
+In our previous work, we introduced a collagen membrane derived from European carp skin and characterized its properties, biocompatibility, and degradation behavior in a rat subcutaneous model, demonstrating a degradation profile comparable to commonly used collagen membranes.
+
+A study by other authors have demonstrated that this collagen material can be effectively loaded with gentamicin and allows its gradual release during collagen degradation. In the field of bone tissue engineering, incorporation of bioactive molecules into collagen scaffolds is a commonly used strategy to enhance regenerative outcomes, including growth factors (e.g., BMPs, VEGF), inorganic components such as hydroxyapatite, and pharmacological agents such as bisphosphonates. More recently, advanced approaches involving nucleic acids (DNA, RNA) and exosomes have emerged as promising strategies for bone regeneration. However, prior to such modifications, it is essential to establish the baseline in vivo performance of the native carp collagen membrane in bony environment.
+
+Evaluation of membrane performance in a bone defect model is essential to assess its functional behavior under conditions relevant to GBR. The present study aimed to investigate the behavior of the carp collagen membrane in a standardized femoral bone defect model in rats. Bone healing was assessed using micro-computed tomography (micro-CT) and histological scoring systems, allowing evaluation over time. In addition, local soft-tissue response was analyzed to further characterize the biocompatibility of the material in a bone-associated environment.
+
+Specifically, the primary objective was to determine whether coverage of a bone defect with the carp collagen membrane influences bone healing compared with spontaneous healing of an untreated defect. A secondary objective was to compare the performance of the carp collagen membrane with that of a widely used porcine collagen membrane (Bio-Gide) when both were applied in combination with a bovine xenograft material (Bio-Oss) in a typical GBR configuration.
+
+Rats represent a commonly used and well-characterized model for experimental bone-healing studies. Although rodent bone lacks a classical Haversian system, the sequence and biological principles of bone repair have been shown to resemble those observed in larger animals. Wistar rats, in particular, have shown similarities to human anatomy and are therefore the optimal first-line model due to their manageable size and reduced ethical and economic burden.
+
+2. Methods
+
+2.1 Carp collagen membrane preparation
+The preparation of the carp collagen membrane has been described in detail in a previous study. For the present experiment, a membrane identical to membrane type A from the previous work was used. Aqueous collagen dispersion (4 wt%) was homogenized and left for 60 min at 20 °C. The resulting dispersion was placed in separate containers frozen at −70 °C for 5 h and then lyophilized. Collagen was crosslinked subsequently by N-ethyl-N'-(3-dimethylaminopropyl)carbodiimide (EDC) and N-hydroxysuccinimide (NHS) at an EDC/NHS ratio of 4/1 (wt/wt) for 24 h. Finally, the membranes were washed, frozen (−30 °C) and lyophilized.
+All membranes were packed in indicator bags, sealed, and sterilized by gamma irradiation (nominal dose 25 kGy). Immediately before implantation, membranes were cut under sterile conditions to a standardized size of 8 × 6 × 2 mm.
+
+2.2 Experimental animals and ethical approval
+Twelve-week-old male Wistar rats were used. Procedures complied with Czech animal-protection law; protocol approved by the Ethics Committee of the First Faculty of Medicine, Charles University (Approval No MSMT-26,149/2022–4); experiments followed Directive 2010/63/EU.
+
+2.3 Experimental design and surgical procedure
+A total of 21 rats were randomly assigned to three experimental groups (n = 7 per group). Each animal underwent surgery under general anesthesia (isoflurane). Cortical bone defects measuring 4 × 2 mm were created on each lateral femoral region using a 1 mm round burr at low speed under continuous saline irrigation. The defect depth corresponded to the thickness of the cortical bone. In each animal, two defects per femur were created (four defects in total): one in the proximal metaphysis (trochanteric region) and one in the distal metaphysis.
+
+Four treatment groups (fixed anatomical locations to minimize cross-contamination):
+- Proximal defect, right femur: untreated (empty defect control)
+- Distal defect, right femur: carp collagen membrane alone
+- Proximal defect, left femur: Bio-Oss + carp collagen membrane
+- Distal defect, left femur: Bio-Oss + Bio-Gide (porcine collagen membrane)
+
+Postoperative analgesia: subcutaneous ketoprofen 5 mg/kg. No postoperative infection, necrosis, or systemic illness; no animals excluded for postoperative complications. Animals were euthanized: group 1 at 4 weeks, group 2 at 12 weeks, group 3 at 16 weeks.
+
+2.4 Evaluation
+
+2.4.1 micro-CT
+Formaldehyde-fixed specimens scanned with SkyScan 1272 micro-CT (pixel size 21 μm, 100 kV, 100 μA, Cu 0.11 mm filter). Semiquantitative healing score from 1 (poor) to 4 (excellent). A regeneration ratio was calculated for Bio-Oss groups (2D area of augmentation/regeneration). During micro-CT, fractures at the defect site were found in four animals (three with one distal-femoral-defect fracture; one with both distal femora fractured). Fractured-defect data were excluded from micro-CT and histological analyses. Reduced sample sizes (n < 7) indicated where relevant.
+
+2.4.2 Histological analysis
+Decalcified, paraffin-embedded, serial sections (5–7 µm). Bone healing scored using the system of Han et al. Four parameters: newly formed bone, newly formed cartilage, newly formed fibrous tissue, remnant defect size. Newly formed bone and remnant defect normalized to original defect area; cartilage and fibrous tissue normalized to remnant defect size. Each parameter scored 0–10; final healing score = sum of four parameters (range 0–40); 40 = complete osseous healing, 0 = no healing.
+Soft tissue overlying defects evaluated using an adapted Lindner et al. irritation scoring system. Empty defect = internal control ("control irritancy score"; trauma only). "Final irritancy score" = treated-defect irritancy score − corresponding control irritancy score. Classification: non-irritant (0.0–2.9), slight irritant (3.0–8.9), moderate irritant (9.0–15.0), severe irritant (>15.0). Negative values interpreted as zero (non-irritant).
+In total, 14 defects excluded from histological evaluation (including five defects in four animals excluded for femoral fractures). Number of evaluable defects (n) varies by group and time point.
+
+2.4.3 Statistical analysis
+RStudio. Sample size (7 animals/group) per 3R principles. Data non-normally distributed; medians with IQR reported. Individual defects treated as independent experimental units (anatomically separated). Kruskal-Wallis tests for between-group and temporal within-group comparisons; post-hoc Dunn's test with Holm correction when p < 0.05. Effect sizes (η²) for non-significant results: small (η² < 0.06), medium (0.06 ≤ η² < 0.14), large (η² ≥ 0.14).
+
+3. Results
+
+3.1 micro-CT of bone defects
+At 4 weeks: no significant differences (p = 0.055), healing scores 2–4. Medians: control 3 (IQR 3–3, n=7), carp membrane 3 (n=6), Bio-Oss+carp 3 (n=7), Bio-Oss+Bio-Gide 2.5 (IQR 2–3, n=6). Large effect size (η² = 0.20).
+At 12 weeks: not significant (p = 0.060), large effect (η² = 0.19). Medians: control 3 (IQR 3–4, n=7), carp membrane 4 (IQR 4–4, n=6), Bio-Oss+carp 3 (n=7), Bio-Oss+Bio-Gide 3 (n=7).
+At 16 weeks: no significant differences (p = 0.731), moderate effect (η² = 0.08). Medians: control 3 (IQR 3–4, n=7), carp membrane 4 (IQR 3.25–4, n=6), Bio-Oss+carp 3 (IQR 3–4, n=7), Bio-Oss+Bio-Gide 3.5 (IQR 2.25–4, n=6).
+Over time, statistically significant change only in carp-collagen-membrane-alone defects (p = 0.012); post-hoc significant increases 4→12 wk (p = 0.010) and 4→16 wk (p = 0.020). No significant temporal change in control, Bio-Oss+carp, or Bio-Oss+Bio-Gide groups.
+
+3.2 Histology of bone defects
+At 4 weeks: no significant differences (p = 0.064), large effect (η² = 0.18). Highest median healing score 32/40 in carp-membrane-alone group; in 5 of 6 evaluable cases that group's defect was 80–90% filled with newly formed bone (score 9 in "newly formed bone"). Lowest median 17/40 in untreated controls. Newly-formed-bone-score difference not significant (p = 0.29; small effect η² = 0.03).
+At 12 weeks: healing scores significantly differed between groups (p = 0.020). Post-hoc: significant difference between carp-membrane-alone and Bio-Oss+carp (p = 0.007). Carp-membrane-alone again highest medians; in 5 of 6 evaluable cases ≥90% defect filled with newly formed bone (score 10/10). Newly-formed-bone difference not significant (p = 0.073) but large effect (η² = 0.24).
+At 16 weeks: between-group differences not significant (p = 0.28; small effect η² = 0.03). Carp-membrane group's median newly-formed-bone reached max (10/10); newly-formed-bone difference non-significant (p = 0.060) but large effect (η² = 0.18).
+Over time: significant change only in untreated control (p = 0.025); significant increase 4→12 wk (p = 0.010); medians 17.0 → 24.5 → 25.0 but 4→16 wk not significant (p = 0.12). No significant temporal change in any treated group.
+
+3.3 Soft-tissue reaction to implanted biomaterials
+Carp-membrane-alone defects: non-irritant at all time points. Median irritancy scores 0 at 4 wk (n=6) and 12 wk (n=6), 2 at 16 wk (n=5). Significant increase over time (p = 0.017; post-hoc 4→16 wk p = 0.012, 12→16 wk p = 0.018).
+Bio-Oss + carp membrane: slight irritant (median 6) at 4 wk (n=7); decreased to 2 at 12 wk (n=5) and 1 at 16 wk (n=5) → non-irritant later. Time change not significant (p = 0.17; moderate effect η² = 0.11).
+Bio-Oss + Bio-Gide: non-irritant throughout; medians 2.5 at 4 wk (n=6), 3 at 12 wk (n=7), 1 at 16 wk (n=6). Not significant (p = 0.47; small effect).
+Between-group irritancy differences significant at 4 wk (p = 0.025) and 12 wk (p = 0.018); none at 16 wk. Post-hoc 4 wk: carp-alone vs Bio-Oss+carp significant (p = 0.011); carp-alone vs Bio-Oss+Bio-Gide borderline (p = 0.085). 12 wk: carp-alone vs Bio-Oss+Bio-Gide significant (p = 0.0075). No significant difference between the two Bio-Oss groups at any time point.
+
+4. Discussion
+This study evaluated a European-carp-skin collagen membrane in a rat femoral defect model. Fish-derived collagen offers a potentially safer/sustainable alternative to porcine/bovine membranes (minimal zoonotic risk, fewer ethical/religious constraints). Across time points, carp-membrane-alone defects showed consistently favorable healing (higher new bone, smaller residual defect); composite healing scores highest at 4 and 12 weeks, comparable to Bio-Oss+Bio-Gide at 16 weeks. Despite no statistical significance, several comparisons had moderate-to-large effect sizes favoring carp-membrane-alone, especially early. These trends were NOT observed when carp membrane was combined with Bio-Oss. Under a non–critical-size metaphyseal defect, the membrane alone may provide sufficient stabilization without graft. Consistent with literature: Araújo et al. found Bio-Oss did not enhance new bone vs controls; Heberer et al. found xenograft in sockets could even impair healing vs ungrafted; Chen et al. found barrier membrane alone sufficient for periodontal intrabony defects without graft benefit. In small contained defects, slowly resorbing graft particles may delay defect resolution. Bio-Oss+carp consistently showed lower healing scores, less new bone, larger residual defect than Bio-Oss+Bio-Gide (non-significant trends): carp membrane did not match the established porcine membrane when combined with particulate graft. Histology detected differences earlier/more distinctly than micro-CT (especially 4 wk). Soft-tissue: carp membrane excellent biocompatibility (non-irritant all time points), consistent with prior subcutaneous study.
+
+Limitations: small n per time point; fractures reduced evaluable samples; fewer histology than micro-CT samples; metaphyseal defects NOT critical-size (substantial spontaneous healing in controls by 16 wk reduced intergroup separation); enlarging defects risks fracture; multiple defects per animal → partial pseudoreplication; proximal vs distal metaphysis differ in vascularity/turnover; four-walled metaphyseal defect does not replicate clinical vertical/horizontal ridge augmentation. Future: large-animal critical-size defect / true augmentation models.
+
+5. Conclusion
+Within study limitations, a European-carp-skin collagen membrane supported bone healing in a non–critical-size defect model. Used alone it had higher median values across outcomes (new bone formation, defect fill), though not statistically significant. Less favorable results when combined with particulate graft vs standard Bio-Oss + Bio-Gide. Fish-derived collagen may be a promising alternative GBR membrane, particularly where membrane function alone is sufficient. Further studies in larger, more clinically relevant models needed.
+
+Competing interests: Tomas Suchy has patent CZ308862B6 licensed to Institute of Rock Structure and Mechanics. Funding: Ministry of Health of the Czech Republic; micro-CT support from Charles University Institute of Dental Medicine.
