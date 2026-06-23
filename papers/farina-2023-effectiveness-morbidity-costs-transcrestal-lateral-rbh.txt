@@ -1,0 +1,33 @@
+Effectiveness, Morbidity, and Costs of Transcrestal and Lateral Sinus Floor Elevation at Sites with Different Residual Bone Heights: A Re-Analysis of Data from a Parallel-Arm Randomized Trial.
+
+Farina R, Franzini C, Minenna L, Trombelli L, Simonelli A.
+Int J Oral Maxillofac Implants. 2023;38(6):1123-1138. doi:10.11607/jomi.10354
+PMID: 38085743.
+
+ABSTRACT (abstract-only — PMC full text not available)
+
+To comparatively evaluate transcrestal sinus floor elevation (tSFE) and lateral sinus
+floor elevation (lSFE) at sites with different residual bone heights (RBHs).
+
+A re-analysis of data from a parallel-arm, randomized trial comparatively evaluating tSFE
+and lSFE was performed. Within each RBH interval (< 4 mm or >= 4 mm), tSFE and lSFE groups
+were compared for chair time, surgery-related costs, morbidity, and radiographic
+parameters (including the proportion of the implant surface in direct contact with the
+radiopaque area [totCON%]).
+
+The intention-to-treat (ITT) population consisted of 29 and 28 patients in the tSFE and
+lSFE groups, respectively. Irrespective of RBH, both tSFE and lSFE lead to a median
+totCON% of 100%. At sites with RBH < 4 mm, pain severity was significantly higher at days
+0 and 1 in the tSFE group, with no intergroup difference in the dose of analgesics. lSFE
+was associated with a significantly higher frequency of bruising and greater cost. At
+sites with RBH >= 4 mm, a significantly lower frequency of postoperative signs/symptoms,
+less chair time, and lower costs were observed in the tSFE group.
+
+The selection of tSFE or lSFE within the investigated RBH intervals seems to be supported
+by differences in chair time, costs, and morbidity between the two techniques. At sites
+with RBH < 4 mm, clinicians preferring tSFE should encourage the administration of
+analgesics according to a predefined plan in the early postoperative phase. At sites with
+RBH >= 4 mm, tSFE should be preferred to lSFE due to reduced chair time, costs, and
+morbidity.
+
+Source: PubMed / Int J Oral Maxillofac Implants. https://doi.org/10.11607/jomi.10354
