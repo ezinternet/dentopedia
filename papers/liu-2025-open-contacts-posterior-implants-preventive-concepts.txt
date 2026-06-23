@@ -1,0 +1,87 @@
+Open contacts adjacent to posterior dental implants: Current understanding and emerging preventive concepts
+Chiun-Lin (Steven) Liu, Shih-Cheng Wen, Ching-Jung Chang Chien, Je-Kang Du
+Journal of Dental Sciences. 2025;21(1):9-18. Published online 2025-09-03.
+PMID: 41585145 | PMCID: PMC12825511 | DOI: 10.1016/j.jds.2025.08.035
+Article types: Journal Article, Review
+Keywords: Biomechanics, Dental implant, MM-DD technique, Occlusal adjustment, Open contacts, Posterior restoration
+
+(Source: PubMed / PMC full text, retrieved via PubMed MCP.)
+
+== ABSTRACT ==
+Open proximal contacts between posterior dental implant restorations and adjacent natural teeth are a common yet underappreciated complication. This review examines the multifactorial etiology of open contact formation, including biomechanical discrepancies, prosthetic and surgical factors, occlusal force dynamics, and natural tooth migration. The clinical consequences-ranging from food impaction and gingival inflammation to proximal bone loss and diminished patient satisfaction-are also analyzed. These complications not only affected oral hygiene and comfort but might also contribute to peri-implant tissue breakdown and increased maintenance needs. Existing preventive and corrective strategies, such as prosthetic over-contouring, splinted restorations, and occlusal equilibration, are reviewed with attention to their limitations in long-term effectiveness. In response, this article introduces biomechanically informed occlusal adjustment concepts, including the mesial-mesial/distal-distal (MM-DD) technique, as a potential proactive approach. While preliminary clinical observations suggest that the MM-DD technique may help preserve proximal contact integrity and reduce implant-related complications, further prospective validation is required. This review provides a balanced synthesis of current evidence and evolving strategies to enhance the long-term stability of proximal contacts in posterior implant therapy.
+
+== INTRODUCTION ==
+Dental implants are a predictable long-term solution for missing teeth, but open proximal contacts between implant-supported restorations and adjacent natural teeth remain a frequent and underappreciated complication, particularly in the posterior region. Reported incidence ranges from 34% to 66%, highest in mandibular molars and premolars due to pronounced mesial drift of natural teeth.
+
+The phenomenon arises from the biomechanical disparity between ankylosed (osseointegrated, rigid) implants and natural teeth, which possess periodontal-ligament-mediated mobility. Over time, physiologic tooth movement under functional occlusal loading separates the original proximal contact. Prosthetic contour, surgical positioning, and occlusal force distribution further contribute.
+
+Open contact creates an environment for food impaction, plaque accumulation, and localized inflammation, which may progress to caries, periodontal destruction, or bone loss. Proposed strategies (contact over-contouring, splinting of adjacent crowns, periodic occlusal equilibration) each have durability/maintenance limitations.
+
+The mesial-mesial/distal-distal (MM-DD) occlusal adjustment technique is proposed as a novel strategy to promote proximal contact stability by modifying occlusal contacts on adjacent natural teeth. It remains preliminary and requires clinical validation.
+
+== MATERIALS AND METHODS ==
+Literature search: PubMed, Scopus, Google Scholar; articles Jan 2000 - Mar 2024. Keywords/Boolean: "open contact" OR "proximal contact loss" AND "dental implant," "posterior implant complications," "implant occlusion," "proximal bone loss."
+
+Study selection: After duplicate removal, 183 articles identified; 92 full-text reviewed; 56 studies met eligibility and were included (PRISMA-style flow).
+
+Clinical observations (retrospective, 25 years, 1999-2024): MM-DD technique applied in single-unit posterior implant restorations. 148 implant cases (92 mandibular, 56 maxillary), patients aged 24-78 (mean 51.6 +/- 10.9 yr), minimum 12-month follow-up. All implants in healed sites; screw-retained (n=87) or cement-retained (n=61). Materials: zirconia (n=82), PFM (n=39), lithium disilicate (n=27). Implants 3.5-6.0 mm diameter, 8.5-13 mm length.
+
+Inclusion: adults >=24 yr, single-unit posterior implant restoration, at least one adjacent natural tooth on mesial side (often distal too). Exclusion: systemic bone disease, severe/uncontrolled periodontal disease, bruxism without splint therapy/parafunction without occlusal guards, incomplete follow-up.
+
+Outcome measures: proximal contact integrity via dental floss and 21-50 um shim stock; marginal bone levels via standardized periapical radiographs at baseline and follow-up; patient-reported VAS (0-10) for food impaction, discomfort, and satisfaction.
+
+MM-DD technique detail: targeted occlusal modification of natural teeth adjacent to implant - occlusal contact REMOVED from the MESIAL occlusal surface of the MESIAL adjacent tooth and the DISTAL occlusal surface of the DISTAL adjacent tooth. This creates space for physiologic migration of natural teeth TOWARD the implant crown, maintaining contact. Occlusion evaluated with 42 um articulating paper in maximum intercuspation and excursions. Implant crown adjusted for primary contact at central fossa and secondary contact just >1 mm inside the marginal ridge.
+
+Ethics: IRB Kaohsiung Medical University Hospital (KMUHIRB-E(I)-20250203).
+
+== RESULTS ==
+Etiology: Open proximal contacts between posterior implant restorations and adjacent teeth are prevalent and multifactorial. Incidence 34-66%, mandibular posterior most affected (enhanced mesial drift). Eight major categories of etiologic factors identified.
+
+Incidence factors: younger age, single-unit restorations, longer time since restoration, and mandibular arch location all positively associated with increased risk.
+- Arch location: mandibular posterior > maxillary posterior (greater mesial migration in mandible).
+- Time: more likely over time, particularly within first year after restoration.
+- Restoration type: multi-implant fixed restorations less prone than single-tooth restorations.
+- Patient age: younger patients = more tooth movement.
+- Occlusal scheme: pattern of occlusal contacts affects direction/magnitude of forces on adjacent teeth.
+- Type of opposing dentition (natural teeth vs fixed prostheses vs removable partial/complete dentures) influences incidence/progression.
+
+Consequences: food impaction (reported up to 86.7% of cases), discomfort, gingival inflammation, proximal bone loss, reduced patient satisfaction. More pronounced in longer follow-up cohorts and patients lacking regular maintenance.
+
+Preventive/corrective strategies (5 domains):
+1. Prosthetic design: over-contouring of proximal contact areas; pressure-responsive impression materials; digital workflows for precise proximal contact design.
+2. Surgical placement: proper 3D positioning relative to adjacent teeth; bone density/quality assessment; timing of placement (immediate/early/delayed) affects interdental space and soft tissue.
+3. Occlusal management: equilibration of occlusal forces; occlusal splints/night guards in parafunction/bruxism; regular occlusal assessment and timely adjustment at maintenance.
+4. Corrective measures: replace restoration to reestablish contour/contact; composite resin to close minor open contacts; orthodontic intervention to realign teeth in severe displacement.
+5. Biomechanical interventions: strategic occlusal loading protocols to reduce differential movement; prosthetic designs anticipating physiologic tooth movement; splinted restorations in high-risk scenarios.
+
+MM-DD technique (Dr. Liu): novel preventive occlusal adjustment modulating biomechanical environment around posterior implant restorations. Implants are ankylosed and do not participate in adaptive movement, so adjacent natural teeth migrate mesially over time, forming open contacts. By selectively removing occlusal contacts (mesial of mesial tooth / distal of distal tooth), the technique creates directional forces encouraging adjacent teeth to maintain/move TOWARD the implant restoration rather than away, preventing open contacts. Preliminary observations: lower rate of open contact development, improved patient-reported comfort, stable proximal contact integrity vs conventional approaches.
+
+== DISCUSSION (key data) ==
+Recent SR: incidence 17-66%, particularly mandibular molar region. Multifactorial. Wang et al. quantified food impaction in up to 78.6% of cases with proximal contact loss.
+
+Limitations of existing strategies: over-contoured contacts may compromise plaque control and increase caries risk; splinted prostheses complicate hygiene access and increase maintenance. Bruxism associated with increased risk of PCL (elevated occlusal load disrupting implant-tooth interface).
+
+Crown material: zirconia-based restorations have higher fracture resistance and better long-term dimensional stability vs metal-ceramic -> potentially better contact preservation. Resin-based materials more susceptible to wear -> loss of interproximal contact stability.
+
+MM-DD comparative retrospective data:
+- 148 posterior implant cases with MM-DD: open proximal contact incidence 11.5% (17/148), vs historical 34-66%.
+- Matched retrospective control (n=102, conventional occlusal adjustment): open contact 38.2% (39/102), food impaction in 76.9% of those cases.
+- MM-DD group food impaction rate 18.4%; discomfort VAS 1.9 +/- 1.4 vs control 4.2 +/- 2.3 (p<0.01).
+- Mean VAS food impaction 1.6 +/- 1.2, discomfort 1.9 +/- 1.4 in MM-DD group overall.
+
+Subgroup analysis (retrospective cohort):
+- Mandibular implants 15.2% contact loss vs maxillary 7.1%.
+- Likelihood increases with longer post-restoration duration, especially after 12 months.
+- Single-unit 13.9% vs splinted 4.8%.
+- Patients <50 yr 16.7% vs older 9.3%.
+- Cases WITH open contacts: VAS food impaction 4.9 +/- 1.8, discomfort 4.2 +/- 2.3 vs intact contacts 1.5 +/- 1.1 and 1.6 +/- 1.4 (p<0.01).
+
+MM-DD advantages: minimally invasive, easily applicable, no additional materials/chair time/lab procedures; proactively alters occlusal force vectors without prosthetic bulk. Leverages biologic mesial drift to maintain contact, a more sustainable alternative to over-contouring or periodic re-establishment.
+
+Limitations: retrospective design, no RCTs, variability in populations, patient-specific factors (occlusal schemes, parafunction, maintenance compliance). Aligns with Misch (occlusal force directionality and implant stability) and Fickl (adult mesial tooth drift under occlusal imbalance). A companion retrospective clinical study with up to 25-year follow-up, intraoral photos, and procedural diagrams is referenced.
+
+Future research: prospective RCTs with standardized outcomes, calibrated examiners, long follow-up; comparative trials vs established measures; biomechanical/FEA modeling of force dynamics.
+
+Conclusion: prevention of open proximal contacts adjacent to posterior implants remains a complex multifactorial challenge. Biomechanically informed strategies like MM-DD may improve long-term outcomes, but robust clinical evidence is needed before widespread adoption. A multidisciplinary approach (prosthetic design, surgical placement, occlusal management, individualized care) remains paramount.
+
+Declaration: no conflicts of interest.
