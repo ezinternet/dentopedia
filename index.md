@@ -1000,6 +1000,8 @@ tags: []
 - [[resin-bonding/cotert-2024-desensitizing-agents-zirconia-bond-strength]] — in-vitro SBS(80치·8군·열순환): Admira/Smart Protect/Gluma가 지르코니아-상아질 SBS 증가(~9–11MPa), 옥살산/불소계 최저 (2024)
 - [[resin-bonding/anithakumari-2022-desensitizing-agents-bond-strength-sr]] — SR(in vitro 23편): 탈감작제의 dentin bonding agent 결합강도 영향은 제제·프로토콜 의존적, 결과 상충 (2022)
 - [[resin-bonding/zhou-2025-collagen-crosslinkers-naocl-dentin-bond-strength-sr-ma]] — SR+MA(14편): collagen crosslinker가 NaOCl 처리 상아질 결합강도 회복, NaOCl 농도·시간 의존 (2025)
+- [[resin-bonding/neves-2026-ab-type-proanthocyanidin-primers-nano-dma]] — Neves 2026 · in-vitro(1년 nano-DMA, Bedran-Russo그룹): AB형 proanthocyanidin(PAC-DESIGNER) 프라이머가 혼성층·하부 상아질 complex modulus↑·미세투과도↓, 삼량체(DP3)>사량체(DP4) — collagen 가교 내구성 기전 (DOI 10.1016/j.jdent.2026.106594)
+- [[resin-bonding/oliveira-2025-best-adhesive-primary-enamel-nma]] — Oliveira 2025 · sr+ma(network MA, 14편): 유치 법랑질 결합강도 — 3단계 E&R 최우수(SUCRA 1위), 2병형 universal+인산부식이 동등, 같은 단계 수면 self-etch≈E&R → 단계 축소 여지 (DOI 10.1016/j.jdsr.2025.11.005)
 - [[resin/theracem-bisco-product-reference]] — Product reference: TheraCem(BISCO) MDP·칼슘/불소 방출 self-adhesive resin cement (internal-synthesis)
 - [[resin-bonding/mortazavi-2012-ethanol-wet-bonding-clinical-trial]] — RCT (12mo, NCCLs): ethanol wet bonding, OptiBond FL, Clearfil SE Bond — all acceptable; no significant difference (p=0.358)
 - [[resin-bonding/sharifian-2023-tbs-er-se-modes-superficial-deep-dentin]] — In vitro: superficial > deep dentin µTBS; Scotchbond Universal E&R mode highest; universal E&R > SE mode
