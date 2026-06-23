@@ -1,0 +1,82 @@
+Effect of low-level laser therapy versus calcium hydroxide intra-canal medication on postoperative pain and inflammatory mediator reduction in symptomatic apical periodontitis: a randomized clinical trial
+
+Authors: Radhwa Refaat Otaify, Sarah Samir Abouelenien, Angie Galal Ghoneim, Olfat Gamil Shaker
+Journal: BMC Oral Health (2026), 26(1)
+DOI: 10.1186/s12903-026-08642-7
+PMID: 42186077  PMCID: PMC13231713
+Trial registration: NCT04594317 (Clinicaltrials.gov, 13 Oct 2020)
+
+== Introduction ==
+
+Post-operative pain remains a prevalent complication following endodontic therapy, with incidence rates reported between 3% and 58%. Pre-operative pain, particularly in symptomatic irreversible pulpitis and symptomatic apical periodontitis, is a strong predictor of post-operative pain severity.
+
+Pain and inflammation from apical periodontitis (AP) is primarily triggered by intra-radicular bacteria and their byproducts. Interleukin-8 (IL-8) is a key proinflammatory mediator directing granulocytes to the infection site, promoting osteoclast activation, periapical bone resorption, abscess formation, and neutrophil activation. The neurogenic inflammation concept involves activation of nociceptors and release of neuropeptides such as substance P (SP), triggering vasodilation, increased vascular permeability, and mast cell degranulation. SP stimulates macrophages to produce prostaglandins and pro-inflammatory cytokines (IL-1, IL-6, TNF), perpetuating inflammation and pain.
+
+Strategies to mitigate post-endodontic pain include long-acting anesthetics, pre-emptive analgesics, and intracanal medicaments (Calcium Hydroxide being most common). Low-level laser therapy (LLLT), developed by Mester 1968, uses non-thermal red/near-infrared light (600-1000 nm), acting through modulation of ATP production and oxidative stress. This RCT is the first to directly compare LLLT and calcium hydroxide intracanal medication, with concomitant evaluation of clinical pain outcomes and inflammatory biomarker expression in symptomatic apical periodontitis. Null hypothesis: no significant differences between treatments in pain relief or biochemical modulation.
+
+== Materials and methods ==
+
+Comparative parallel-design RCT, CONSORT 2025. IRB approval 30-10-20. Sample size 48 (24/group) calculated on primary outcome (postoperative pain intensity), using PS software v3.1.6, uncorrected chi-square, alpha 0.05, 80% power, 15% dropout. 1:1 computer-generated randomization with concealed allocation (sealed opaque envelopes). Molecular biologist and statistician blinded; participants not blinded to intervention but unaware of which was more effective.
+
+Eligible: healthy, age 20-55, mature single-canalled permanent teeth (anterior and single-rooted posterior), symptomatic apical periodontitis with percussion pain. Exclusion: medical conditions, pregnancy, recent analgesic/antibiotic use, bruxism, abscess/swelling/mobility (Grade II+), deep pockets, non-restorable, immature apices, resorption/fracture/perforation/calcification.
+
+Recruited from Cairo University Faculty of Dentistry. Two-visit treatment. Preoperative pain and percussion pain assessed at first visit (modified VAS). Local anesthesia: 1.8 ml 4% Articaine 1:100,000 epinephrine, buccal infiltration. Rubber dam isolation, field disinfected with 5.25% NaOCl. Access with carbide/Endo-Z burs. Patency #10/#15 K-files. Working length by E-pex Pro apex locator, confirmed radiographically 0.5 mm short of apex. Shaping with M-Pro rotary files: 18/0.09 orifice opener, then 20/0.04, 25/0.06, 35/0.06 to WL (500 rpm/3 Ncm first file, 300 rpm/1.5 Ncm subsequent). Irrigation with 2.5% NaOCl (5 ml/1 min) via side-vented 30 G needle, 1 mm short of WL; total 25 ml. Dried with paper points, flushed with 5 ml saline to inactivate NaOCl.
+
+Post-instrumentation periapical sample PS-1 collected with sterile size 20 paper point 2 mm beyond canal terminus for 1 min, x3, stored at -80 C.
+
+Intervention (LLLT) group (n=24): 976 ± 20 nm diode laser (Woodpecker LX16 plus), 0.5 W, 10 Hz, ~10 mm from buccal tissue around root apex, circular movement, calibrated spacer, pulse duration 0.5 s, pulse pause 50%, total 30 s per tooth, 200-µm optical tip. Single operator. Protocol per Arslan et al. 2018 (30 s per root).
+
+Control (Calcium Hydroxide) group (n=24): Metapaste CH inserted into canal 1-2 mm short of WL.
+
+Temporary seal with cotton + MD-Temp, recall 1 week. Pain self-reported at 6, 12, 24, 48 h (modified VAS). At recall: percussion pain reassessed; canal re-accessed, irrigated with saline before second periapical sample PS-2. CH removed by copious saline irrigation + ultrasonic activation (Ultra-X) until clear, inspected with loupes + radiograph to confirm absence of CH residue (equivalent intracanal conditions both groups before PS-2). Final rinse 5 ml 2.5% NaOCl + 5 ml 17% EDTA both groups. Obturation: modified cold lateral compaction, Adseal epoxy sealer, GP #35 0.04 master + #25 auxiliary. Composite restoration.
+
+ELISA for Substance P and IL-8 (Bioassay Technology Laboratory, China; E1528Hu and E0089Hu). Samples eluted in 200 µl PBS, read at 450 nm.
+
+Protocol deviations: Laser device Biolase Epic X (protocol) -> Woodpecker LX16 (actual; institutional availability, equivalent specs); age 25-50 -> 20-55; sampling 2 paper points/saline -> 3 paper points/dry; added correlation analyses.
+
+Outcomes: PRIMARY = postoperative pain intensity (modified VAS at 6, 12, 24, 48 h) and percussion pain at 1 week. SECONDARY = change in periapical SP and IL-8 (ELISA), PS-1 to PS-2. EXPLORATORY = correlation of IL-8/SP with pain (post-hoc).
+
+Statistics: SPSS v25.0. Shapiro-Wilk normality. Non-parametric (Mann-Whitney U, Wilcoxon, Friedman + Dunn). Chi-square for categorical. Significance <= 0.05.
+
+== Results ==
+
+85 assessed (Dec 2021-Jan 2023), 48 enrolled, randomized 24/group. Two lost to follow-up -> 46 analyzed (23/23).
+
+Demographics comparable: mean age intervention 33.3 ± 9.3, control 32.5 ± 8.5 (p=0.603). Females predominated (intervention 91.3%, control 69.6%; p=0.111). Tooth location NS (p=0.194). Posterior teeth significantly more prevalent in intervention group (73.9% vs 43.5%; p=0.049).
+
+PAIN INTENSITY: Preoperative intervention 8.1 ± 1.4, control 7.6 ± 2.7 (p=0.840). No significant intergroup differences at 6, 12, 24, 48 h (all p>0.05):
+- 6 h: intervention 3.0 ± 3.2, control 3.2 ± 2.4 (p=0.773)
+- 12 h: intervention 2.4 ± 2.8, control 2.8 ± 3.2 (p=0.751)
+- 24 h: intervention 1.5 ± 2.0, control 1.7 ± 2.6 (p=0.885)
+- 48 h: intervention 0.6 ± 1.3, control 1.1 ± 1.8 (p=0.644)
+Both groups: significant reduction from preoperative at all time points; 48 h significantly lower than 6 and 12 h.
+
+PERCUSSION PAIN: No significant intergroup difference preoperatively (p=0.297) or at 1 week (p=0.708). Both groups significant reduction: intervention 5.9 ± 2.8 -> 2.9 ± 2.4 (p<0.001); control 5.1 ± 2.7 -> 2.8 ± 2.9 (p=0.039).
+
+IL-8 reduction (intergroup): NS (p=0.123). Mean reduction intervention 15.3 ± 52.5, control 24.7 ± 42.9.
+IL-8 intragroup: LLLT 111.0 ± 61.6 (PS-1) -> 95.7 ± 25.0 (PS-2), NS (p=0.064). Control 86.7 ± 20.5 -> 61.9 ± 33.5, significant (p=0.044).
+
+Substance P reduction (intergroup): NS (p=0.385). Mean reduction intervention 25.2 ± 45.6, control 38.7 ± 56.0 (greater numerically in control).
+SP intragroup: BOTH significant. LLLT 137.3 ± 34.0 -> 112.1 ± 39.8 (p=0.04). Control 97.5 ± 30.1 -> 58.8 ± 42.0 (p=0.013).
+
+Exploratory correlations (Spearman): no significant correlation between preoperative IL-8/SP and preoperative pain or percussion pain; no significant correlation between postoperative biomarkers and 1-week percussion pain (all weak/negligible).
+
+== Discussion ==
+
+LLLT (laser bio-stimulation, 630-1300 nm) penetrates tissue to stimulate mitochondria via photon absorption (photo-bio-stimulation), no heat. Shifts cellular redox from anaerobic to aerobic, activates mitochondrial respiratory chain, increases ATP. Tissue/neurogenic effects: localized vasodilation, improved lymphatic drainage, elevated pain receptor threshold; stimulates anti-inflammatory prostaglandins (PGL2), increases immunoglobulin/lymphokine; enhanced beta-endorphin/enkephalin release (neurogenic basis for postoperative pain reduction).
+
+First study directly comparing LLLT vs Calcium Hydroxide intracanal medication in symptomatic apical periodontitis with simultaneous patient-reported pain and objective biochemical markers. Single-canalled teeth chosen for standardized periapical sampling.
+
+Postoperative pain consistently lower numerically in LLLT group at all intervals but not statistically significant. Both groups significant reduction from baseline. Significant preoperative SP difference between groups (p<0.001) noted as potential confounder.
+
+Lack of IL-8 reduction in LLLT may relate to IL-8's dual role (early angiogenesis/neutrophil recruitment vs delayed healing if persistently elevated). SP reduction with LLLT may relate to TRPV1 channel modulation.
+
+Clinical implication: LLLT may enable a shift toward predictable single-visit endodontics, providing immediate analgesic and anti-inflammatory effects without mandatory CH intracanal medicament, avoiding inter-appointment flare-ups, coronal leakage, and recontamination risk of multi-visit therapy.
+
+Limitations: no participant blinding (performance bias); restricted to single-canalled teeth (generalizability); subjective pain; sample size powered for primary outcome, possibly underpowered for biomarker analysis; biomarkers measured at only two time points. CH remains gold standard for well-established antimicrobial properties (NOT evaluated here) — LLLT is a viable single-visit symptom-management option but not a direct substitute for CH's long-term disinfecting role. The LLLT group used an empty canal vs CH-filled canal (different biological environment for sampling), a deliberate design to isolate laser bio-stimulation.
+
+== Conclusion ==
+
+LLLT may be considered a viable single-visit treatment option and an effective alternative to Calcium Hydroxide for management of symptomatic apical periodontitis, as both demonstrated comparable clinical pain relief and biochemical modulation of IL-8 and Substance P. Further research needed in asymptomatic lesions and long-term periapical healing.
+
+Source: PubMed Central PMC13231713. DOI: 10.1186/s12903-026-08642-7
