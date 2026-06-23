@@ -1,0 +1,95 @@
+Oral Lichen Planus and Systemic Diseases
+Warnakulasuriya S, Ramos-García P, González-Moles MÁ.
+J Dent Res. 2025;105(1):31-41.
+PMID: 41254953 | PMCID: PMC12701911 | DOI: 10.1177/00220345251385966
+
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+ABSTRACT
+
+The mouth is referred to as "the mirror of health and disease in the body." This review critically examines the comorbidity between systemic diseases and oral lichen planus, an autoimmune disorder affecting the oral mucosa with malignant potential and of high worldwide prevalence. Research has indicated that patients with oral lichen planus are significantly predisposed to diabetes mellitus (pooled proportion [PP] = 9.77%, odds ratio [OR] = 1.64, <0.001), Hashimoto thyroiditis (PP = 8.60%, OR = 2.2, <0.001), hypothyroidism (PP = 8.14%, OR = 1.65, =0.02), hyperthyroidism (PP = 2.84%, OR = 2.11, =0.007), celiac disease (PP = 7.14%, OR = 4.09, <0.001), hepatitis C (PP = 7.14%, OR = 4.09, <0.001), hepatitis B (PP = 3.90%, OR = 1.62, =0.02), steatohepatitis (PP = 7.06%, OR = 5.71, =0.05), liver cirrhosis (PP = 4.27%, OR = 5.8, =0.002), depression (PP = 31.19%, OR = 6.15, <0.001), anxiety (PP = 54.76%, OR = 3.51, <0.001), and stress (PP = 41.10%, OR = 3.64, =0.005). A good knowledge of these associations may assist primary care physicians, dentists, and other oral health professionals involved in the management of patients with oral lichen planus since many patients may be unaware of these associations and could have an impact on their general health. Some of these diseases, such as diabetes, have a role in the development of oral lichen planus. In addition, most of these comorbidities act as risk factors for cancer of different locations: liver, thyroid, small intestine, and the oral cavity. Current evidence indicates a high prevalence and a higher risk of systemic diseases in patients with oral lichen planus compared with the general population. Future research is recommended to increase our knowledge of pathobiology and clinical management of these associations.
+
+KEYWORDS: autoimmunity; diabetes; evidence-based dentistry/health care; oncology; oral lichen planus; oral-systemic disease(s)
+MeSH: Humans; Lichen Planus, Oral; Diabetes Mellitus; Autoimmune Diseases; Comorbidity; Celiac Disease; Hashimoto Disease
+Article type: Journal Article; Review (critical review)
+
+INTRODUCTION
+
+Lichen planus is a mucocutaneous disease with a primary involvement of the oral mucosa. Clinicians should be aware that lichen planus may co-manifest orally and at other mucosal and nonmucosal body sites (e.g., genitals, esophagus, skin, nose, etc.). Oral lichen planus (OLP) affects 1% of the general population, and is classified under oral potentially malignant disorders with a malignant transformation ranging from 1.14% to 2.28%. The diagnosis of OLP is by clinical examination—the presence of white reticular lesions is a mandatory requirement for the diagnosis of OLP—and pathology should demonstrate vacuolizing degeneration of the basal layer in the oral epithelium, apoptotic keratinocytes, and an inflammatory infiltrate mostly packed with lymphocytes in a bandlike arrangement in the superficial chorion.
+
+The immunologic events involved in OLP begin with the recognition of antigens expressed by basal keratinocytes by CD8+ T lymphocytes and their subsequent activation, which finally generates cytotoxicity mediated by these cells directed toward the basal keratinocytes that develop notable morphological alterations (vacuolizing degeneration) and in some cases apoptosis (Civatte bodies). The nature of the antigen is usually unknown, although hepatitis C virus as well as autoantigens generating immune cross-reactions have been implicated, such as Hashimoto's thyroiditis or hypothyroidism. Most subepithelial and intraepithelial lymphocytes in OLP lesions are CD8+ T cells. Basal keratinocyte apoptosis is triggered by cytotoxic signals induced by the proinflammatory signaling pathway (TNF-α, granzyme-B, Fas-L, etc.), while mast cell degranulation is induced by T-cell–derived RANTES, which releases TNF-α and chymase, promoting lymphocyte infiltration and basal membrane damage, thus perpetuating the autoimmune response.
+
+Recent evidence has shown that OLP patients may present with a significant increase in the risk of developing systemic diseases, some of which significantly impair the patient's general health and quality of life and may also have a direct effect on oral health, behaving in many cases as chronic diseases. Suffering from these comorbidities may also increase the risk of developing different types of cancer, including oral cancer. Often, these comorbidities are unknown to the patient and consequently have not been investigated or managed prior to seeing a dentist or an oral physician. The aim of this critical review is to present the current knowledge based on evidence on the relationships between OLP and systemic diseases, excluding those with insufficient current evidence (e.g., Sjögren's syndrome).
+
+TABLE 1 — SYSTEMIC DISEASES AND OLP (Prevalence %, 95% CI; OR, 95% CI; p; reference)
+- Depression: 31.19% (22.27–40.82); OR 6.15 (2.72–13.89), <0.001 — De Porras-Carrique et al. (2022)
+- Anxiety: 54.76% (42.06–67.17); OR 3.51 (2.10–5.85), <0.001 — De Porras-Carrique et al. (2022)
+- Stress: 41.10% (32.18–50.32); OR 3.64 (1.48–8.94), =0.005 — De Porras-Carrique et al. (2022)
+- Diabetes mellitus: 9.41% (8.16–10.74); OR 1.64 (1.34–2.00), <0.001 — De Porras-Carrique et al. (2023)
+- Hypertension: 24.17% (21.45–27.00); OR 1.28 (1.01–1.63), =0.04 — De Porras-Carrique et al. (2024)
+- Fibromyalgia: 3.95% (0.07–11.17); OR 1.74 (0.06–50.43), =0.75 — De Porras-Carrique et al. (2023)
+- Inflammatory bowel disease: 5.01% (1.07–10.85); OR 5.08 (0.24–106.80), =0.30 — De Porras-Carrique et al. (2023)
+- Celiac disease: 8.66% (4.71–13.43); OR 18.44 (2.40–141.43), =0.005 — De Porras-Carrique et al. (2023)
+- Rheumatoid arthritis: 2.40% (0.77–4.65); OR 2.34 (0.34–16.13), =0.34 — De Porras-Carrique et al. (2023)
+- Sjögren's syndrome: 2.96% (0.77–6.14); OR 4.41 (0.68–28.43), =0.12 — De Porras-Carrique et al. (2023)
+- Lupus erythematosus: 1.65% (0.10–4.35); OR 3.02 (0.12–74.90), =0.50 — De Porras-Carrique et al. (2023)
+- Psoriasis: 0.82% (0.04–2.20); OR 0.50 (0.04–5.54), =0.57 — De Porras-Carrique et al. (2023)
+- Vitiligo: 1.83% (0.02–5.33); OR 3.05 (0.12–76.26), =0.50 — De Porras-Carrique et al. (2023)
+- Hashimoto's thyroiditis: 8.60% (3.78–14.94); OR 2.23 (1.76–2.82), <0.001 — De Porras-Carrique et al. (2023); also OR 2.29 (1.43–3.67), <0.001 — Serni et al. (2024)
+- Hyperthyroidism: 2.84% (1.31–4.87); OR 2.11 (1.22–3.63), =0.007 — De Porras-Carrique et al. (2023)
+- Hypothyroidism: 8.14% (6.07–10.45); OR 1.65 (1.08–2.53), =0.02 — De Porras-Carrique et al. (2023)
+- Hepatitis B: 3.90% (1.90–6.44); OR 1.62 (1.01–2.40), =0.02 — González-Moles et al. (2023)
+- Hepatitis C: 7.14% (5.46–9.00); OR 4.09 (2.77–6.03), <0.001 — González-Moles et al. (2023); also OLP in HCV patients 9.42% (7.27–11.58), OR 4.48 (3.48–5.77) — García-Pola et al. (2023)
+- Steatohepatitis: 7.06% (1.51–15.47); OR 5.71 (0.97–33.60), =0.05 — González-Moles et al. (2023)
+- Liver cirrhosis: 4.27% (1.22–8.58); OR 5.58 (1.83–16.96), =0.002 — González-Moles et al. (2023)
+- Hepatocellular carcinoma: 9.13% (4.12–15.66); OR 0.94 (0.37–2.40), =0.90 — González-Moles et al. (2023)
+
+OLP AND DIABETES MELLITUS
+
+Meta-analysis on 116 studies / 17,609 patients: 9.77% of OLP patients are diabetic; OLP patients have significantly higher DM risk than the general population (OR = 1.64, <0.001). Data mainly derive from type 2 DM. Type 1 DM reported in only 5 primary studies / 489 patients (prevalence 1.62% in OLP). Indirect estimate: 7.8 million OLP patients worldwide are diabetic and 2.8 million of these are unaware. Mechanisms not fully elucidated; OLP shares autoimmune etiopathogenesis with type 1 DM and latent autoimmune diabetes in adults (LADA) — a "state of systemic autoimmunity." OLP + type 2 DM share a chronic systemic inflammatory state (elevated TNF-α, IL-6, IL-1β). Association may be bidirectional: chronic inflammation/autoimmunity may predispose to OLP, while corticosteroids used to treat OLP may raise blood glucose. Clinical: interdisciplinary management for glycemic control; glucose monitoring in diabetics on corticosteroid therapy.
+
+OLP AND HYPERTENSION
+
+Grinspan (1966) reported a syndromic association between OLP, DM, and hypertension. Evidence (104 studies / 16,587 cases): OLP patients develop hypertension in 24.2% (95% CI 21.45–27.00); risk 1.28× higher (95% CI 1.01–1.63, =0.05). Evidence considered weak. No meta-analysis on concomitant hypertension+DM prevalence in OLP; Grinspan's syndrome currently in question. Plausible mechanisms: chronic immune activation/proinflammatory state → endothelial dysfunction and peripheral vascular resistance; emotional disturbances (depression, anxiety, stress) → catecholamine/cortisol release, sympathetic hyperactivity. Association appears unidirectional (OLP → hypertension). Corticosteroids can further elevate blood pressure. Clinical: monitor blood pressure, especially with corticosteroid therapy.
+
+OLP AND THYROID DISEASE
+
+Meta-analysis on 75 studies / 15,176 OLP patients.
+- Hashimoto's thyroiditis: most prevalent thyroid pathology (8.60%); risk 2.2× higher (<0.001). Autoimmune; progressively destroys thyroid → hypothyroidism, or asymptomatic. Hashimoto's carries risk of thyroid, colon, breast, uterus, prostate cancers and thyroid lymphomas. No evidence yet on oral cancer risk in OLP + Hashimoto's.
+- Hypothyroidism: second most prevalent (8.14%); risk 1.65× higher (=0.02). Insidious onset; some OLP patients unaware. Dentist should suspect symptoms (fatigue, weight gain, bradycardia, hoarseness). May be subclinical.
+- Hyperthyroidism: 2.84%; risk 2.11× higher (=0.007). Most common cause in general population is Graves–Basedow disease (autoimmune). Symptoms: weight loss, muscle weakness, tremor, tachycardia, atrial fibrillation, neuropsychiatric disorders, insomnia.
+Mechanism: cross-immunity — shared/structurally similar antigens in thyroid gland and oral mucosa; thyroglobulin/thyroperoxidase peptides may resemble oral epithelial proteins → cross-immune response. TSHR (thyroid-stimulating hormone receptor) highly expressed in OLP lesions of thyroid-disease patients vs healthy mucosa, suggesting TSHR involvement in OLP pathogenesis. Direction of causality unknown.
+
+OLP AND CELIAC DISEASE
+
+OLP patients have celiac disease in 8.66%; risk 18.44× higher (=0.005). General population celiac prevalence ~1.4%; frequently goes unnoticed (variable symptomatology, can be asymptomatic). Mechanism: cross-autoimmunity / molecular mimicry — tissue transglutaminase (celiac target enzyme) may share structural homology with oral epithelial proteins; gluten-activated T lymphocytes may recognize similar oral mucosal antigens. Immune response to gluten may attack oral mucosa (documented decrease in epithelial junction protein expression compromising mucosal barrier). Evidence weaker than for other diseases; no causal direction established. Systematic celiac screening in OLP not yet recommended; clinicians should remain alert to GI/extraintestinal symptoms.
+
+OLP AND LIVER DISORDERS
+
+Evidence: 146 studies / 21,187 OLP patients (hepatitis C, hepatitis B, steatohepatitis, liver cirrhosis). These are risk factors for hepatocellular carcinoma (HCC).
+- Hepatitis C: 7.14%; risk 4.09× higher (<0.001). Geographic differences — highest in Europe (9.29% of OLP cases). HCV is the most common liver disease associated with HCC in North America, Europe, Japan. HCV is an RNA virus that does not integrate its genome; oncogenicity via cirrhosis not insertional mutation. HCV goes unnoticed in 45%–85% of patients. HCV also increases oral cancer risk in OLP (RR = 3.67, =0.005). Direct-acting antiviral therapy → sustained virological response and reduces HCC risk by 50%–80%. HCV patients also have high OLP prevalence (9.42%; OLP risk 4.48× higher).
+- Hepatitis B: 3.90%; risk 1.62× higher (=0.02). Geographic differences — Europe highest (5.97% of European OLP). Often asymptomatic; 25% of chronic untreated HBV patients die from cirrhosis or HCC.
+- Steatohepatitis: 7.06%; risk 5.71× higher (=0.05). Risk factor for cirrhosis and HCC. NASH is the most common cause of cirrhosis in many areas; 15%–20% of HCC in Western countries derive from steatohepatitis. Asymptomatic by nature.
+- Liver cirrhosis: 4.27%; risk 5.8× higher (=0.002). Likely derives from high prevalence of precancerous liver diseases in OLP. 90% of liver carcinomas derive from cirrhosis.
+Mechanism: HCV could be a target antigen presented by Langerhans cells → T-lymphocyte aggression of basal cells; HCV replicates in extrahepatic tissues and HCV RNA demonstrated in lichen planus lesions. HCV/HBV infection induces chronic inflammatory response (TNF-α, IL-1, IL-6). Antiviral therapy improves OLP, reinforcing causal (unidirectional, hepatitis → OLP) relationship. Limited evidence on whether OLP patients benefit from liver disease screening.
+
+OLP AND EMOTIONAL DISORDERS
+
+Evidence: 51 studies / 6,815 OLP patients (depression, anxiety, stress).
+- Depression: 31.2%; risk 6.15× higher (<0.001).
+- Anxiety: 54.8%; risk 3.51× higher (<0.001).
+- Stress: 41.1%; risk OR 3.64, =0.005.
+Plausibility: emotional disorders/chronic stress → cytokine release and systemic proinflammatory state → trigger/exacerbate OLP flare-ups. Abnormal cytokine and chronic stress marker expression found in oral lesions, serum, saliva. Worsening of OLP during emotional flare-ups commonly reported. Causal direction appears predominantly unidirectional (emotional disorders → OLP). Clinical: remain alert to depression/anxiety/stress; early identification and referral to mental health specialists; coordinated management may reduce OLP flare severity/frequency and improve quality of life.
+
+LIMITATIONS AND STRENGTHS
+
+Diagnostic criteria for OLP variable across primary studies (WHO 1978; van der Waal 2003–2007; AAOMP position paper — published recently, not adopted by earlier studies). All primary studies required reticular white lesions; most performed biopsies. Some studies excluded dysplasia cases (controversial). Lack of uniform diagnostic criteria; ongoing expert controversy. Authors hold internal validity of OLP–comorbidity associations robust. Lack of evidence directly supporting comorbidity-tailored management strategies. Differential value vs prior reports: synthesizes recent high-quality meta-analytic evidence (past 3 years) on prevalence and magnitude of OLP–systemic disease associations plus underlying etiopathogenic mechanisms. Quality/risk of bias assessed in most SRs using Joanna Briggs Institute prevalence tool (10 domains, confounding and selection bias). Future studies should account for variables such as whether OLP patients are more health conscious (detection bias).
+
+CONCLUSIONS
+
+OLP is associated with several comorbidities that must be recognized by dentists, family doctors, and other oral health professionals. Current evidence points to high prevalence and higher risk of DM, thyroid pathologies, celiac disease, liver pathologies, and emotional disorders in OLP vs the general population. Clinical implications: monitor glycemia and blood pressure; awareness of thyroid dysfunction or celiac symptoms; vigilance for asymptomatic liver disorders (hepatitis B/C, steatohepatitis); referral to mental health specialists for emotional disorders. Future methodologically well-designed studies needed to clarify causal pathways and define evidence-based management.
+
+AUTHORS / AFFILIATIONS
+- S. Warnakulasuriya — Faculty of Dental, Oral & Craniofacial Sciences, King's College London, UK; WHO Collaborating Centre for Oral Cancer, London, UK.
+- P. Ramos-García — School of Dentistry, University of Granada, Spain; ibs.GRANADA.
+- M.Á. González-Moles — School of Dentistry, University of Granada, Spain; ibs.GRANADA.
