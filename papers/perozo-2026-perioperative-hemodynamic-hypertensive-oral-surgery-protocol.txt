@@ -1,0 +1,58 @@
+Perioperative Hemodynamic Responses in Hypertensive Patients Undergoing Oral Surgery and Development of the Perozo Protocol
+Perozo-Quiroz J, Perozo Gonzalez DJ, Beltran D, Rizvi SAA, Sanchez-Gonzalez M
+Cureus 2026;18(4):e107163. DOI: 10.7759/cureus.107163
+PMID: 42147593  PMCID: PMC13179726
+Source: PubMed / PMC full text. https://pmc.ncbi.nlm.nih.gov/articles/PMC13179726/
+
+=== ABSTRACT ===
+Background: Arterial hypertension (AH) is a highly prevalent systemic condition affecting approximately one-third of adults worldwide and is commonly encountered in patients undergoing oral surgical procedures. Despite its clinical significance, perioperative cardiovascular management in hypertensive dental patients remains inconsistently standardized. The Perozo protocol is a structured three-phase perioperative management framework proposed to address this gap.
+Objectives: To characterize perioperative hemodynamic responses in normotensive and controlled hypertensive patients undergoing oral surgery, evaluate the influence of anesthetic selection, surgical timing, and preoperative anxiety, and propose a structured perioperative management framework (the Perozo protocol).
+Methods: Retrospective analysis of prospectively collected, de-identified observational clinical data from patients undergoing oral surgical procedures at two public hospitals in Maracaibo, Venezuela. SBP, DBP, MAP, HR recorded at four perioperative time points: (1) preoperative baseline; (2) during local anesthetic administration; (3) active intraoperative phase; (4) immediate postoperative period. Preoperative anxiety assessed with State-Trait Anxiety Inventory (STAI). Local anesthetics: 2% lidocaine + 1:100,000 epinephrine or 3% plain mepivacaine. Procedures stratified by timing (morning vs afternoon). Repeated-measures ANOVA, Pearson Chi-squared, Pearson correlation (alpha=0.05).
+Results: 39 patients: normotensive (n=21), treated hypertensive (n=18). Baseline BP status was primary determinant of perioperative hemodynamic variability (eta-squared=0.33). Mean preoperative SBP 159 mmHg (HTN) vs 128 mmHg (NT). Intraoperative SBP peaks >170 mmHg in HTN. Hemorrhagic complications 66.7% (HTN) vs 9.5% (NT); Cramer's V=0.55; p=0.008. Epinephrine-containing anesthesia produced greater BP/HR increases than plain mepivacaine. Preoperative anxiety associated with greater SBP increases in HTN and greater HR responses in NT. Pilot cohort informed the proposed Perozo protocol; formal validation not yet performed.
+Conclusions: Baseline hypertensive status is a major determinant of perioperative hemodynamic variability during oral surgery. Anesthetic selection, surgical timing, anxiety management, and structured monitoring represent modifiable risk factors. The Perozo protocol is a pilot, hypothesis-generating framework; multicenter prospective validation required.
+
+=== KEY NUMERIC RESULTS (Table 2) ===
+Variable | Normotensive (n=21) | Hypertensive (n=18) | Test | Statistic | p
+Preoperative SBP (mmHg) | 128 +/- 9 | 159 +/- 12 | RM-ANOVA | F=8.41 | 0.006
+Intraoperative SBP (mmHg) | 136 +/- 10 | 170 +/- 15 | RM-ANOVA | F=9.02 | 0.004
+Intraoperative DBP (mmHg) | 82 +/- 7 | 97 +/- 9 | RM-ANOVA | F=6.75 | 0.013
+Peak HR (beats/min) | 86 +/- 8 | 85 +/- 9 | RM-ANOVA | F=0.14 | 0.71
+Hemorrhagic complications (%) | 9.5% | 66.7% | Chi-squared | 7.02 | 0.008
+Anxiety score vs SBP change | - | - | Pearson r | r=0.58 | 0.01
+
+Surgical timing (peak intraoperative SBP): Morning HTN >250 mmHg vs NT 196 mmHg (+34%); Afternoon HTN 187 mmHg vs NT 168 mmHg (+11%). Greater morning-to-afternoon decline in HTN (enhanced circadian variability).
+
+Anxiety-mediated responses:
+- HTN (SBP increase): low 1.5+/-2.0; moderate 14.7+/-2.5; high 24.9+/-2.8 mmHg
+- NT (HR increase): low 1.0+/-0.6; moderate 6.5+/-1.0; high 9.6+/-1.5 bpm
+STAI thresholds: low <=37, moderate 38-44, high >=45.
+
+=== THE PEROZO PROTOCOL (Table 1) — structured three-phase, 20-step framework ===
+PHASE I — Preoperative risk stratification (4 levels):
+- Low risk: SBP <140 and DBP <90 -> proceed routine, standard precautions
+- Moderate risk: SBP 140-159 or DBP 90-99 -> minor procedures only; reduce anxiety; monitor BP
+- High risk: SBP 160-179 or DBP 100-109 -> short procedures with strict BP monitoring
+- Very high risk: SBP >=180 or DBP >=110 -> defer procedure; urgent medical consultation
+PHASE II — Intraoperative / emergency medications:
+- Captopril 25 mg sublingual -> hypertensive crisis
+- Nifedipine (bitten capsule) -> acute BP surge
+- Nitroglycerin sublingual -> coronary symptoms
+- Clonidine -> refractory hypertension
+- Epinephrine limit: max 0.04 mg (two cartridges of 1:100,000) in controlled hypertensives
+PHASE III — Postoperative care:
+- Vital signs monitoring during recovery
+- Analgesic selection: AVOID NSAIDs (reduce cardiovascular risk)
+- Antibiotics if indicated (clinical judgment)
+- Written discharge instructions
+- Educate patient on warning signs / red flags
+- Structured follow-up for continuity of care
+
+=== INCLUSION / EXCLUSION ===
+Include: adults undergoing oral surgery with complete perioperative hemodynamic data; HTN group = established primary AH with documented control.
+Exclude: uncontrolled HTN (SBP>=180 or DBP>=110 at baseline), acute CV event within prior 3 months, pregnancy, anesthetic contraindications.
+
+=== LIMITATIONS ===
+n=39 (limited power, no causal inference); single-country two-center Venezuelan public hospitals (limited generalizability to US/high-income); retrospective on prospectively-collected data (unmeasured confounding: antihypertensive class, HTN duration, target-organ damage, trait anxiety). Protocol NOT validated — hypothesis-generating only; multicenter prospective validation required.
+
+=== ATTRIBUTION ===
+According to PubMed. DOI: https://doi.org/10.7759/cureus.107163
