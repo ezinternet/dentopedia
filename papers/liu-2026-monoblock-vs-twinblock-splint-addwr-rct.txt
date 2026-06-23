@@ -1,0 +1,70 @@
+Effectiveness of a Novel Mono-Block Splint Versus a Twin-Block Splint for Anterior Disc Displacement With Reduction: A Randomised Controlled Trial
+
+Authors: Zhilei Liu, Antong Wu, Wenyi Cai, Jiaqian Fan, Yunyi Yuan, Yufu Lin, Rong Zhang, Qingbin Zhang, Wei Cao
+Journal: Journal of Oral Rehabilitation 2026;53(7):1275-1285
+DOI: 10.1111/joor.70179 | PMID: 41793287 | PMCID: PMC13261787
+Publication date: 2026-03-07
+Affiliation: Department of Temporomandibular Joint, School and Hospital of Stomatology, Guangzhou Medical University, Guangzhou, China
+
+Source: According to PubMed Central (PMC13261787). DOI: https://doi.org/10.1111/joor.70179
+
+== ABSTRACT ==
+
+Background: Anterior disc displacement with reduction (ADDwR) is a common subtype of temporomandibular disorders (TMD). Anterior repositioning splint (ARS) serves as a key conservative treatment modality. This study aimed to compare the clinical efficacy of a novel Mono-Block splint (nMB) with that of a Twin-Block (TB) splint in the management of ADDwR.
+
+Methods: A total of 118 patients with ADDwR were randomised to receive either an nMB or TB splint. Clinical outcomes were assessed at baseline (T0), 1 month (T1), 3 months (T3) and 6 months (T6). CBCT scans were obtained at T0 and T6, and patient satisfaction was evaluated at T6.
+
+Results: Joint noise: The nMB group showed significantly greater improvement than the TB group at T1 and T6. Joint pain: Greater symptom relief was observed in the nMB group at the third time point (T3). MMO: The nMB splint induced a significantly greater increase in MMO only at T1. The condyle-fossa relationship: CBCT evaluation revealed comparable outcomes between the two groups, with no significant difference. Patient satisfaction: The nMB splint achieved significantly higher ratings in general satisfaction, comfort and stability, while no significant differences were noted in cleaning and retention.
+
+Conclusion: The nMB splint demonstrated superior effectiveness in reducing joint noise and improving patient comfort compared to the TB splint, while both splints exhibited similar efficacy in relieving joint pain and enhancing MMO. The nMB design offers a promising, patient-oriented approach for conservative treatment of ADDwR.
+
+== KEY METHODS ==
+
+- Open-label RCT, single centre (Guangzhou Medical University Affiliated Stomatology Hospital), Dec 2023 – Dec 2024.
+- 118 patients with ADDwR, randomised 1:1 (computer-generated, variable block sizes 4 and 6, SNOSE allocation concealment). nMB n=59, TB n=59. No stratification.
+- Statistician blinded; patients/clinicians/assessors NOT blinded (apparent design differences).
+- Diagnosis: DC/TMD + MRI-confirmed ADDwR. Exclusions: MMO < 20 mm, significant tooth loss, prior TMD/orthognathic/trauma, severe systemic/psychological conditions.
+- nMB = one-piece full-arch ARS with anterior breathing space. TB = modified Twin-Block ARS (no arch-expansion elements). Both fabricated by single technician, single clinician.
+- Mandible guided to minimal protruded position eliminating joint noise (therapeutic protrusion). Worn nighttime only.
+- Outcomes at T0/T1/T3/T6: joint noise (palpation), joint pain (0-5 VAS), MMO (interincisal mm). CBCT (Kamelchuk method, ln(P/A), Pullinger criteria) at T0/T6. Patient satisfaction (5 domains, 0-5 VAS) at T6.
+- Demographics: 32 M (27.1%) / 86 F (72.9%), age 12-68 y; early adulthood (25-44 y) largest group (53.4%). No baseline group differences in gender (p=0.679) or age (p=0.937).
+- Completion: 118/118, no loss to follow-up, no adverse events.
+
+== KEY RESULTS ==
+
+JOINT NOISE (primary efficacy signal):
+- Baseline: nMB 56/59 (94.9%), TB 57/59 (96.6%), p=1.000.
+- nMB improvement rates: T1 66.1%, T3 71.4%, T6 82.1% (all p<0.001 vs baseline).
+- TB improvement rates: T1 47.4%, T3 54.4%, T6 54.4% (all p<0.001 vs baseline).
+- Inter-group: nMB significantly better at T1 (p=0.040) and T6 (p=0.001); T3 approached significance (p=0.055).
+
+JOINT PAIN (0-5 VAS):
+- nMB: 2.69±1.83 (T0) → 1.32±0.84 (T1) → 0.71±0.49 (T3) → 0.27±0.49 (T6), all p<0.001.
+- TB: 2.71±1.94 (T0) → 1.51±0.92 (T1) → 0.98±0.57 (T3) → 0.41±0.56 (T6), all p<0.001.
+- Inter-group: no diff at T0 (0.884), T1 (0.195), T6 (0.161); nMB significantly better only at T3 (p=0.009).
+
+MMO (mm):
+- nMB: 35.83±6.31 (T0) → 39.51±2.30 (T1) → 41.26±1.32 (T3) → 42.38±1.42 (T6), all p<0.001.
+- TB: 35.56±4.60 (T0) → 38.91±3.02 (T1) → 40.79±1.58 (T3) → 41.99±1.55 (T6), all p<0.001.
+- Inter-group: significant at T0 (0.022) and T1 (0.035, nMB slightly better early); no diff at T3 (0.083), T6 (0.156).
+
+CBCT CONDYLE-FOSSA ln(P/A):
+- nMB: -0.45±0.31 (T0) → -0.38±0.29 (T6), p=0.737.
+- TB: -0.54±0.51 (T0) → -0.56±0.22 (T6), p=0.601.
+- Inter-group T0 p=0.300, T6 p=0.231. No significant change in disc/condyle position with either splint.
+- Positive rate condyle posterior position (ln(P/A) < -0.25): nMB 75%→56% (p=0.264); TB 78%→78% (p=1.000). No significant inter-group or intra-group change.
+
+PATIENT SATISFACTION (0-5 VAS, T6):
+- General satisfaction: nMB 3.83±1.04 vs TB 3.05±1.02 (p<0.001, nMB better).
+- Comfort: nMB 3.78±1.00 vs TB 3.27±1.03 (p=0.005, nMB better).
+- Stability: nMB 4.07±1.16 vs TB 3.08±0.87 (p<0.001, nMB better).
+- Ease of cleaning: nMB 3.85±0.89 vs TB 3.80±0.92 (p=0.771, ns).
+- Retention: nMB 3.22±1.33 vs TB 2.88±1.45 (p=0.195, ns).
+
+== DISCUSSION / LIMITATIONS ==
+
+- nMB advantages (joint noise, comfort, stability) attributed to stable integrated one-piece structure that maintains mandibular advancement during sleep; TB relies on separate maxillary/mandibular occlusal inclines, prone to displacement in mouth-breathers / muscular relaxation during sleep.
+- Disc recapture (condyle position) NOT durably achieved by either splint; conservative therapy goal is symptom relief, not disc repositioning. Disappearance of joint noise could also signal progression to ADDwoR (without reduction).
+- Limitations: open-label (no patient/clinician/assessor blinding except statistician); single centre, homogeneous population; only 6-month follow-up (TMD is chronic, relapse not assessed); CBCT not MRI (gold standard for disc soft tissue) — disc morphology/position unknown; no placebo/conservative-care control group (cannot isolate from natural course/placebo); no orthodontic follow-up (possible occlusal change / unwanted tooth movement from prolonged ARS unassessed).
+
+Source: PubMed Central, DOI https://doi.org/10.1111/joor.70179
