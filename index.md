@@ -327,6 +327,11 @@ tags: []
 - [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
 
 ## 즉시식립 (Immediate Implant)
+- [[immediate-implant/esthetic-soft-tissue/araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct]] — Araújo 2026 · retrospective · 전치부 즉시식립 CBCT(n=28): DBBM 협측 gap >2mm은 치조제 단면 90%↑ 보존, ≤2mm는 ~41% 흡수 (gap폭 유일 예측인자)
+- [[immediate-implant/esthetic-soft-tissue/wang-2026-immediate-anterior-implant-primary-stability-aesthetic]] — Wang 2026 · retrospective · 1차안정성(ITV≥20·ISQ≥50) 충족 시 전치부 즉시식립 12개월 성공률 동등(98.3%), MBL↓·PES↑(11.47 vs 10.05)
+- [[immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation]] — Fettouh 2026 · prospective · Safe Angle+plateau-drill 2가이드 전상악 즉시식립 편차 각도 4.56°·platform 0.91mm, 전 증례 safe angle 내·PES 11.89
+- [[immediate-implant/esthetic-soft-tissue/cosyn-2026-buccal-dehiscence-morphotype-regenerative-strategy-iip]] — Cosyn 2026 · narrative-review · 협측열개 11 morphotype(수직×수평×연조직) 분류로 즉시식립 금기 2개·재생전략 3단계 매핑
+- [[immediate-implant/esthetic-soft-tissue/nechita-2026-guided-provisionalization-emergence-profile-esthetic-zone]] — Nechita 2026 · retrospective · 디지털 가이드 즉시 프로비저널 emergence profile(n=20): 유지율 75%·1년 골소실 0.37mm·협측 +1.41mm·완전유두 70%
 - [[immediate-implant/yuan-2018-biomechanics-immediate-postextraction-osseointegration]] — 동물(쥐 구개치근 발치와 모델): 저변형률+PDL 유래 Wnt 반응세포가 즉시식립 골유착 구동, 고변형률→골세포사·흡수; 상악대구치 구개치근와 식립의 생역학적 근거
 - [[immediate-implant/witoonkitvanich-2025-immediate-implant-stability-maxilla-mandible]] — 통제 전향(n=30): 가이드 즉시 대구치 상·하악 ISQ 24주 비교 — 양악 1차 ISQ>73, 24주 하악>상악(81.5 vs 78.2, P=0.018), 상악만 2–4주 stability dip
 - [[immediate-implant/esthetic-soft-tissue/deng-2024-posterior-open-wound-healing-immediate-implant]] — 후향 코호트(40 후방 즉시식립): 반응성 연조직(RST) vs 흡수성 콜라겐 스폰지(ACS) 개방창 치유 ~6개월 동등(ACS 색조↑, RST 섬유성 회복↑)
@@ -685,6 +690,9 @@ tags: []
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — El Haddad 2026 · cross-sectional (n=69, 20–29세, 87% 이쑤시개 사용) — **나무 이쑤시개(치간청소)의 위해**: 습관적 사용이 상악 전치부 치간유두를 유의 소실(PPI, P<.05)시켜 블랙트라이앵글 유발; 수직(상하)기법·하루>3회·>3년에서 악화, 치조골·접촉면길이는 무영향. (※ 와타나베 *칫솔질* 토스픽법과는 무관·반대방향) (DOI 10.3290/j.qi.b6912614)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — da Silveira 2026 · sr+ma · 16 RCT(712명): NSPT에 약제 치은연하세척 추가해도 PPD·CAL·BOP 추가이득 없음(근거 낮음)
+- [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — Angelopoulou 2026 · sr+ma · 당뇨병성 치주염 NSPT에 전신 멜라토닌(3mg) 보조: PPD·CAL·HbA1c·hs-CRP 유의 개선(2 RCT 풀링, 근거 낮음)
+- [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — Jungbauer 2026 · rct · 재기구조작에 AA-NaOCl+xHA(clean&seal) 보조 시 6개월 PD +0.50mm·CAL +0.57mm 추가 개선, 포켓폐쇄 88% vs 38%
 - [[periodontics/dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma]] — Dolcezza 2024 · sr+ma · 비외과적 치주치료가 RA 활성도(DAS28 −0.56)와 CAL(−0.41mm)을 유의하게 개선 (RCT 6편)
 - [[periodontics/qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma]] — Qiao 2020 · sr+ma · 치주염이 류마티스관절염(RA) 위험 69%↑(OR 1.69, 13편 >100만명); incident·>5년 RA서 최강 (DOI 10.1016/j.jbspin.2020.04.024)
 - [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — Sooampon 2026 · rct · 무작위 교차시험(n=11): 에리트로신 대체 치태착색제로 D&C Red No.33 비교 — 치태감소율 동등, 잔류착색·맛·제거 우수; FDA 2025.1 에리트로신 식품/내복약 금지 맥락 (DOI 10.1186/s12903-026-08786-6)
@@ -1054,6 +1062,9 @@ tags: []
 - [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — Moura 2020 in vitro 3-way factorial: only HF concentration significant (10% > 5%) for Vita Mark II bond strength after 90 days; etching time and phosphoric acid + NaHCO₃ neutralization both non-significant
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
+- [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — Low 2026 · cross-sectional · 싱가포르 치과의사 280명: 적절 처방률 6.5~97.7%(치주·구강외과 최저), 사랑니(71%)·임플란트(74%) 예방적 항생제 과처방
+- [[drug/antibiotics/kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups]] — Kinzel 2026 · cross-sectional · 독일 치과의사 537명: 심내막염·면역억제군만 예방투여 양성 trend, 당뇨·관절치환은 음성, 전군 아목시실린·클린다마이신
+- [[drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz]] — Nazari 2026 · cross-sectional · Shiraz 일반의 103명: 근관 항생제 지식 중상이나 면역저하 환자 69.9% 부적절 처방 등 과잉처방, 84.5% 가이드라인 무인지
 - [[drug/systemic-disease/sharma-2024-orofacial-complications-systemic-sclerosis]] — Sharma 2024 · narrative-review · 전신경화증 구강 합병증: 소구증·구강건조증·치주염·하악과두 흡수, 임플란트는 혈관병증 평가 전제 시 가능
 - [[drug/mronj/moreno-rabie-2023-3d-mronj-risk-oncologic-tooth-extraction]] — Moreno Rabie 2023 (Dentomaxillofac Radiol) · 후향적 case–control(암환자 47명·발치 87건 vs 대조 50명·발치 106건): 발치 전 CBCT로 MRONJ 위험예측 — MRONJ 환자 32%; 항흡수제군 치조백선 비후·치주인대강 확장·골경화·골용해·격리골↑; 위험인자=다수치 동시발치(p=0.006)·흡연(p=0.004)·짧은 휴약(p=0.021); BP→골경화 우세(74% vs 45%); 골막반응·격리골=pre-clinical MRONJ 표지자
 - [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
