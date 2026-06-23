@@ -49,6 +49,10 @@ tags: []
 - [[implants/mortazavi-2021-bone-loss-tissue-bone-level-implants]] — Systematic review (38 studies): BL vs TL implant MBL 비교; platform-switching·Morse taper·SLActive가 MBL 감소 핵심; 1년 내 MBL이 전체의 대부분 차지
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — 코호트(4,680개, 21년): 당뇨 RR 2.75·두경부방사선 RR 2.73·흡연 RR 1.56 유의; 고혈압·심질환·스테로이드 무관; 하악 전치부 최저 실패율(2.89%)
 - [[implants/soft-tissue/thoma-2018-soft-tissue-augmentation-periimplant-health]] — SR+MA: FGG/CTG increases keratinized tissue 3-4mm; KT <2mm → higher plaque, bleeding, MBL; ≥2mm threshold for peri-implant health
+- [[implants/soft-tissue/prpic-2026-emergence-angle-profile-implant-restorations-scoping]] — Prpic 2026 · sr · emergence angle <30°는 변연골흡수 감소에 유리할 수 있으나 근거 불확실, concave profile은 일관되게 연조직 안정과 연관(17편 스코핑)
+- [[implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium]] — Strauss 2024 · animal · 개 모델: 보철 emergence angle 넓을수록 MBL↑(80°군 4배)·≥60°는 접합상피 손상, <40° 권고
+- [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] — Misch 2025 · retrospective · 골수준 임플란트 192개: REA ≥30°는 지대주 <2mm일 때만 MBL·주위염(~4배) 위험, 지대주 1mm당 MBL odds 37%↓
+- [[implants/soft-tissue/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants]] — Lee 2025 · animal · 연결 임플란트: 넓은 출현각(60°)이 결합조직 부착 손상·변연골 개조 촉진해 안정적 연조직 봉쇄 방해
 - [[implants/strietzel-2015-platform-switching-mbl-sr-ma]] — SR+MA(22편: 15 RCT+7 PCCS): PS MBL 0.49 mm vs PM 1.01 mm(p<0.0001); 플랫폼 스위칭 변연골 소실 유의하게 감소
 - [[implants/di-girolamo-2016-platform-switching-matching-sr-ma]] — SR+MA(15편, 1439 임플란트): PS MBL 유의하게 낮음; 임플란트 실패율 차이 없음; 플랫폼 스위칭 효과 확인
 - [[implants/juan-montesinos-2022-platform-switching-conventional-sr-ma]] — SR+MA(9편, PS 475 vs 일반 462): PS 골소실 MD 0.255 mm 유의하게 적음; 탐침깊이 NS
@@ -553,6 +557,7 @@ tags: []
 - [[sinus-lift/pseudocyst/yeung-2022-cbct-maxillary-sinus-pathology-review]] — Review (HKU OMFS, Diagnostics 2022): CBCT를 통한 상악동 health·pathology 평가 — 정상 해부·SMT 임계값·AP/MRC/sinusitis/odontogenic/tumor 영상 매핑. 진단 트리 0단계
 
 ## 근관치료 — 근관장 측정 (Endodontics: EAL / Working Length)
+- [[endodontics/eal/usman-sultan-2026-eal-vs-radiographic-working-length-postoperative-pain-sr]] — Usman Sultan 2026 · sr · RCT 4편(n=414): EAL vs 방사선 근관장측정 술후 통증 차이 없음, hybrid(SLC)는 초기 통증 감소 가능성
 - [[endodontics/eal/ahn-2016-survey-working-length-determination]] — Korean dental school survey: EAL preferred 89% for working length; apical limit 0.5–1.0 mm short of radiographic apex (78%)
 - [[endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy]] — In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% accuracy at ±0.5mm; no significant difference (P=.61); clinically equivalent
 - [[endodontics/eal/pisano-2024-eal-accuracy-modern-endodontics-umbrella]] — Umbrella review (7 SRs): EAL = radiography overall; generations 3–6 no difference; NaOCl shortens EAL reading
@@ -573,6 +578,9 @@ tags: []
 - [[endodontics/eal/versiani-2022-wireless-apex-locator-micro-ct-accuracy]] — In vivo micro-CT: Wirele-X 90.9% vs RootZX II 81.8% 정확도(±0.5mm); 유의차 없음(p=0.61); 임상적 동등
 
 ## 근관치료 — 세정·활성화 (Endodontics: Irrigation)
+- [[endodontics/irrigation/hatipoglu-2025-irrigation-activation-postoperative-pain-network-meta]] — Hatipoğlu 2025 · sr+ma · 세정 활성화 7기법 NMA: 레이저활성화세정(LAI) 술후1일 통증 최저(SUCRA 85%), 수동역동(MDI) 최하위
+- [[endodontics/irrigation/zarei-2026-final-irrigation-postoperative-pain-necrotic-molar-rct]] — Zarei 2026 · rct · 괴사 하악대구치 단일내원: 측방배출침·수동초음파세정 모두 일반침세정보다 통증·부종↓, 둘 사이 차이 없음(n=45)
+- [[endodontics/irrigation/otaify-2026-lllt-vs-calcium-hydroxide-postoperative-pain-rct]] — Otaify 2026 · rct · LLLT와 수산화칼슘 첩약 술후 통증·치근단 IL-8·물질P 감소 동등(n=46, 군간 모두 p>0.05)
 - [[endodontics/irrigation/kumar-2023-irrigant-activation-working-length-sr-meta-analysis]] — SR+MA: irrigant WL delivery ranking ANP > PUI > sonic > MDA > CNI; all IATs superior to conventional needle
 - [[endodontics/irrigation/orozco-gallego-2025-irrigation-protocols-endodontic-umbrella]] — Umbrella review (4SR+9MA): PUI best for microbial reduction (RD −0.15) and apical healing (RD −0.09); p<0.05
 - [[endodontics/irrigation/tonini-2022-irrigating-solutions-activation-methods-sr]] — SR of 7 RCTs: activation methods (PUI/XP-endo/EndoVac) > CNI for biofilm; NaOCl+HEDP/MTAD no extra antimicrobial benefit
@@ -746,6 +754,7 @@ tags: []
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — Aimetti 2025, rct, BOOST 전처치(수술 2주 전 국소 독시사이클린)가 MIST 재생술 결과를 유의하게 개선: CAL 획득 4.1 대 3.2 mm, 복합성공률 83.3% 대 46.7%(NNT=2.73), 방사선 골충전 3.5 대 2.7 mm
 
 ## 보철재료 (Prosthetic Materials)
+- [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — Mikulás 2025 · sr · 임플란트주위 emergence profile 캡처는 간접 스캐닝(provisional 추출 후 합성)이 가장 정확, 직접 스캐닝은 연조직 붕괴로 부정확
 - [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
 - [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — 전향적(100명, 12mo): 나사 유지형 풀림 18% vs 시멘트 4%; 변연 간격·시멘트 용해는 시멘트형↑ — 합병증 프로파일 반대 방향
 - [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR(12편): 나사 vs 시멘트 유지형 생존율 동등; 생물학적 합병증 시멘트형↑, 기계적 합병증 나사형↑; 재진입성 나사형 우수
@@ -1087,6 +1096,11 @@ tags: []
 - [[drug/anticoagulants/inchingolo-2024-anticoagulation-therapy-dental-practice-sr]] — SR(25편): VKA·DOAC·항혈소판제 복용 환자 치과 처치 시 중단 불필요; 트라넥사민산 양치액 1차 지혈제
 - [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR (7 studies): continuous vs discontinuous anticoagulant and vs bridging — no significant bleeding difference; HAS-BLED/CHA₂DS₂-VASc risk scores guide decisions
 - [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — 서술적 고찰: NSAIDs WHO 1차 진통제; 전 치과분야 적용; COX 외 NF-kB·iNOS 기전; 국소 NSAIDs 금기·대체약 정리
+- [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]] — Magesty 2026 · sr+ma · 사랑니 발치 단회 경구진통제 NMA: NSAID 단독 이상반응 최다(SUCRA 86.5%), 3제 병용 최저(15.5%), 노세보 주도
+- [[drug/analgesics/ping-2026-ketorolac-root-canal-pain-sr-ma]] — Ping 2026 · sr+ma · 케토롤락은 근관치료 후 통증 6시간엔 우수(SMD -0.82)·추가진통제 절반(RR 0.50), 12·24시간엔 차이 없음
+- [[drug/analgesics/kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma]] — Kelidari 2026 · sr+ma · 근관치료 후 단회투여: 즉각진통은 디클로페낙+아세트아미노펜, 12–24h 지속은 노바펜·나프록센 우수
+- [[drug/analgesics/altuhafy-2026-tenoxicam-postoperative-dental-pain-sr]] — Altuhafy 2026 · sr · 치과 술후통 tenoxicam: 위약 우월, 타 NSAID·코르티코스테로이드 동등~우월, rofecoxib보단 열등(9 RCT)
+- [[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — Tamgadge 2025 · rct · 술전 dexamethasone 4mg IM 1회가 사랑니 발치 후 통증·개구제한·부종을 위약 대비 유의 감소(분악 n=60)
 - [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
 - [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
 - [[drug/systemic-disease/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
@@ -1961,6 +1975,7 @@ tags: []
 
 - [[overviews/canal-shaping-glidepath-niti-fatigue-overview]] — Synthesis 2026-05-29: shaping 7편 종합 — (1) glide path 수동 K-file > rotary transportation, rotary끼리 동등, 단 모든 kinematics가 세균 압출; (2) 본 성형 low-taper TruNatomy 곡관 보존 우위, PTG는 transportation·fatigue 하한; (3) autoclave는 heat-treated NiTi fatigue 비악화·일부 강화 → 재사용은 사용횟수·곡률 기준. 전 근거 bench-only
 - [[endodontics/shaping/kim-2021-protaper-waveone-trunatomy-canal-transportation]] — HyeWon Kim 2021 · in-vitro · S-shaped resin block (n=60) — TruNatomy < WaveOne GOLD < ProTaper GOLD transportation; TruNatomy shortest shaping time
+- [[endodontics/shaping/singh-2026-rotary-reciprocating-kinematics-postoperative-pain-retreatment-sr]] — Singh 2026 · sr · RCT 5편(n=554): 재근관치료 술후통은 회전 vs 왕복 NiTi 차이 없음, 경미·시간경과로 감소
 - [[endodontics/shaping/pui-yii-2021-glide-path-apical-bacteria-extrusion]] — Ng Lim Pui-Yii 2021 · in-vitro · E. faecalis apical extrusion — manual K vs One G vs WaveOne Gold Glider all extrude measurable bacteria (biological side of glide path)
 - [[endodontics/shaping/aflaki-2020-glide-path-pathfile-scoutrace-cbct]] — Sareh Aflaki 2020 · in-vitro · Extracted mandibular molars (n=51, 25-45° curve) — manual SS K > PathFile/Scout RaCe transportation; rotary systems equivalent
 - [[endodontics/shaping/aminsobhani-2022-glide-path-pathfinder-s-canal]] — Mohsen Aminsobhani 2022 · in-vitro · 5-system S-shape comparison (n=100) — manual K-file inferior in all thirds; Scout RaCe/One G/PathFile/GPS equivalent
