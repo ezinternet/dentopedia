@@ -1,0 +1,140 @@
+The Effect of Restorative Emergence Angle on Soft and Hard Tissue Around Splinted Implants: A Preclinical Study
+Authors: Seung-Ju Lee, Yuseung Yi, Frank Schwarz, Jungwon Lee, Ki-Tae Koo
+Journal: Clinical Oral Implants Research. 2025;36(12):1603-1613.
+DOI: 10.1111/clr.70035
+PMID: 40859745  PMCID: PMC12669426
+
+ABSTRACT
+
+Objective
+To investigate the impact of the restorative emergence angle and splinting configurations on peri-implant soft and hard tissues.
+
+Materials and Methods
+Thirty implants were placed in the mandibular premolars (P2, P3, P4) of five beagle dogs. In a split-mouth design, each animal received both narrow (NE) (emergence angle = 30°) and wide (WE) (emergence angle = 60°) abutments on each side of the mandible. The implants were subsequently splinted. Radiographic images were captured at 0, 4, 12, and 24 weeks post-restoration. Biopsy samples were then collected for histomorphometric analysis and circularly polarized light examination. All analyses were performed based on the splinted positions: either the mesial or distal end of the terminal implant, the splinted zone of the terminal implant, or the splinted zone of the middle implant.
+
+Results
+Radiographic evaluation showed more pronounced bone remodeling in the WE group. In histomorphometric analysis, both the vertical distance from the implant shoulder to the alveolar bone crest and the infiltrated connective tissue areas were significantly larger in the WE group. Conversely, the NE group exhibited a longer connective tissue attachment. Analysis using circularly polarized light indicated a significantly reduced area fraction of collagen fibers in the peri-implant epithelium of the WE group, as well as in the oral epithelium of the splinted zone.
+
+Conclusion
+A wide emergence angle of implant prostheses can compromise connective tissue attachment, hinder the formation of an adequate soft tissue seal, and potentially lead to marked bone remodeling.
+
+Keywords: dental implant, emergence angle, histology, polarization, splinted
+
+---
+
+1 Introduction
+
+The long-term success of dental implant treatments is influenced by various factors, with early peri-implant marginal bone loss being a crucial consideration (Galindo-Moreno et al.). Early bone loss is considered as a process of bone remodeling to establish a stable soft tissue barrier (biologic width) around implants (Berglundh and Lindhe). Bone remodeling primarily occurs within the first year after loading, and it typically ranges from 0.6 to 1.1 mm (Oh et al.). However, according to Galindo-Moreno et al., bone loss > 0.5 mm after 6 months of loading is associated with future bone loss. In other words, early bone loss plays a significant role in the long-term success of implants.
+
+Recent studies have focused on the impact of implant prosthesis characteristics, particularly the emergence profile and emergence angle, on marginal bone loss (Katafuchi et al.; Yi et al.). The emergence angle is the angle formed between the implant platform and the margin of the prosthesis. Clinically, this angle significantly influences the response of the soft tissue and the stability of the marginal bone (Yi et al.).
+
+The correlation between emergence angles and peri-implantitis continues to be a contentious topic. Some studies indicate a higher incidence of peri-implantitis with emergence angles over 30° (Katafuchi et al.; Yi et al.), while others propose a threshold of 40° (Strauss et al.). Splinted prostheses are believed to distribute the load on implants, reducing stress on the surrounding bone (Bergkvist et al.). Despite these advantages, a particular study showed that, in cases where three implants are placed and splinted together, the middle implant tends to have a higher rate of peri-implantitis, possibly due to reduced accessibility for maintaining oral hygiene (Yi et al.). However, there is still a lack of biological evidence to support this hypothesis.
+
+Objective: to explore how the emergence angle of the implant prosthesis affects the peri-implant soft and hard tissues, and additionally to assess the impact of the splinting position of implants. Null hypothesis: the emergence angle of the implant prosthesis would not significantly affect the peri-implant bone remodeling.
+
+2 Materials and Methods
+
+Preclinical split-mouth study at Seoul National University, Republic of Korea. IACUC approval SNU-210308-3, ARRIVE 2.0 guidelines.
+
+2.1 Animals
+Five beagle dogs, aged 1-2 years, weighing 10-12 kg. General anesthesia. Mechanical plaque control biweekly (toothbrush + ultrasonic scaler) until euthanasia.
+
+2.2 Sample Size Calculation
+Based on primary outcome (distance implant shoulder to bone crest in histology). Mean difference 1.5 mm, SD 0.5 mm (from de Souza Batista et al.). Type I error 0.05, power 80%. Required: 5 animals per group. G*Power.
+
+2.3 Surgical Interventions
+Scaling for oral hygiene. One week later, bilateral mandibular premolars (P2, P3, P4) extracted (hemisected with diamond bur, removed with elevators/forceps; sockets curetted, sutured 5/0 Monosyn). Two-month healing. Implants placed under general anesthesia: mid-crestal incision, full-thickness flap, osteotomy. Three implants at equicrestal level on each side of mandibular edentulous area. Total 30 implants, six per dog. Implants 3.1 mm diameter × 7 mm height (NR line, Dentium, Suwon, Korea), minimum inter-implant distance 3 mm. Healing abutments (2.7 mm diameter, 3.5 mm height) for non-submerged healing.
+
+Two months after implant placement: intraoral scanning for custom abutment fabrication (scan bodies). Three months post-implant placement: custom abutments + implant prostheses connected. Custom abutments milled from cylindrical titanium grade V abutments with two emergence angles: narrow (30°) and wide (60°). Randomly assigned to each side of mandible. NE abutments in one hemi-mandible, WE in opposite hemi-mandible. Tightened to 30 Ncm. Three splinted resin crowns cemented with glass ionomer luting cement (FujiCEM 2). Occlusal adjustment to avoid occlusal contact.
+
+After 6 months of function, dogs euthanized (KCl into carotid). Tissue samples harvested, fixed in 10% formaldehyde for 1 week.
+
+2.4 Outcome Measures
+Primary: vertical distance between implant shoulder and alveolar bone crest in histology.
+Secondary: crestal bone remodeling (radiographs); peri-implant soft/hard tissue dimensions (histology); area fraction of peri-implant collagen fibers (circularly polarized microscopy).
+
+2.5 Histological Preparation
+Technovit 7200 Resin; EXAKT diamond cutter (mesiodistal cross-section); initial 300 ± 50 μm, polished to 40 ± 5 μm. H&E and Picrosirius red staining. Digital slide scanner (PANNORAMIC 250).
+
+2.6 Analysis
+Analysis segmented into three areas by splinted position: mesial/distal end of terminal implant (T-end), splinted zone of terminal implant (T-splint), splinted zone of middle implant (M-splint).
+
+2.6.1 Radiographic Analysis
+Radiographs at baseline, 4, 12, 24 weeks. ImageJ. Crestal bone remodeling = distance implant shoulder to most coronal point of bone-to-implant contact (mesial and distal). Expressed as percentage of actual implant fixture length. Adjusted vs baseline. Categorized high (> 0.5 mm) vs low (≤ 0.5 mm) at 24 weeks.
+
+2.6.2 Histomorphometric Analysis
+Undecalcified H&E specimens, CaseViewer. Five landmarks (per Valles et al.): margin of peri-implant mucosa (PM), apical extension of junctional epithelium (aJE), implant shoulder (IS), bone crest (BC), first bone-to-implant contact (fBIC). Six distances: IS-fBIC, IS-BC, PM-aJE, aJE-fBIC, PM-fBIC, IS-PM. Area of infiltrated connective tissue (ICT) quantified.
+
+2.6.3 Circularly Polarized Light Microscopy Analysis
+Picrosirius red, circularly polarized light microscope, ×40. Five regions: oral epithelium (OE), oral connective tissue (OCT), peri-implant sulcular epithelium (PISE), peri-implant epithelium (PIE), peri-implant infiltrated connective tissue (PICT). Collagen fibers identified by hue (2-256); area as proportion of total.
+
+2.7 Statistical Analysis
+Statistical unit = animal specimen (n = 5). Nonparametric tests. Friedman test for implant position differences within each group, Dunn's post hoc. Wilcoxon signed-rank between two angles at each position. Cochran's Q test for bone remodeling levels (high vs low) across six experimental groups, McNemar's test with Bonferroni for pairwise. SPSS 29, GraphPad Prism 10.5.
+
+3 Results
+
+3.1 Radiographic Outcomes: Crestal Bone Remodeling
+At 4 weeks, significant difference only at M-splint: NE 0.25 ± 0.26 mm vs WE 0.51 ± 0.26 mm.
+By 24 weeks, WE group exhibited greater bone remodeling at all sites:
+- T-end: WE 0.90 ± 0.70 mm vs NE 0.12 ± 0.35 mm
+- T-splint: WE 1.4 ± 0.88 mm vs NE 0.57 ± 0.37 mm
+- M-splint: WE 1.03 ± 0.28 mm vs NE 0.61 ± 0.48 mm
+
+In NE group at 24 weeks, M-splint (0.61 ± 0.48 mm) significantly greater bone remodeling than T-end (0.12 ± 0.35 mm). In WE group, significant differences between T-end and T-splint at 4 weeks (0.25 ± 0.33 vs 0.55 ± 0.52 mm), 12 weeks (0.48 ± 0.43 vs 1.09 ± 0.70 mm), and 24 weeks (0.90 ± 0.70 vs 1.4 ± 0.88 mm).
+
+Distribution of bone remodeling levels (high vs low) among six groups at 24 weeks significant (Q = 14.487, p = 0.013). Post hoc McNemar with Bonferroni: no significant pairwise differences. Pattern: WE group showed greater frequency of high bone remodeling. Within WE group, splinted configuration (T-splint and M-splint) had highest occurrence of high bone remodeling.
+
+3.2 Histological Outcomes
+NE group: peri-implant soft tissue (junctional epithelium + connective tissue) in close contact with implant abutment, shoulder, thread; thin junctional epithelium; firm connective tissue attachment.
+WE group: junctional epithelium did not establish proper contact with implant; only some underlying connective tissue contacted fixture; residual plaque in gap between implant and surrounding tissue; widespread inflammatory cell infiltration; thickening of junctional epithelium; junctional epithelium extended down to fixture threads; extensive infiltrated connective tissue.
+
+3.3 Histomorphometric Outcomes
+IS to BC vertical distance greater in WE group at all locations:
+- T-end: WE 0.95 ± 1.04 vs NE 0.50 ± 1.20 mm
+- T-splint: WE 1.43 ± 0.82 vs NE 1.01 ± 1.12 mm
+- M-splint: WE 1.33 ± 0.74 vs NE 0.74 ± 1.10 mm
+
+ICT area significantly larger in WE group at:
+- T-splint: WE 2.76 ± 0.73 vs NE 1.34 ± 0.69 mm²
+- M-splint: WE 3.79 ± 2.20 vs NE 1.56 ± 0.89 mm²
+
+Connective tissue attachment (aJE-fBIC) significantly longer in NE group at:
+- T-end: NE 1.10 ± 0.32 vs WE 0.55 ± 0.21 mm
+- T-splint: NE 1.23 ± 0.36 vs WE 0.83 ± 0.34 mm
+
+Splint position: NE group greater IS to fBIC at T-splint (1.29 ± 0.94 mm) vs T-end (0.80 ± 1.00 mm).
+
+Biologic width comparison: NE group epithelial attachment ~2.1 mm and connective tissue attachment ~1.1 mm (appropriate biologic width). WE group epithelial attachment increased to ~2.7 mm and connective tissue attachment decreased to ~0.7 mm (failure to form appropriate biologic width).
+
+3.4 Circularly Polarized Light Outcomes: Quantitative Analysis of Collagen Fiber
+Total collagen fibers in PIE region — WE lower than NE:
+- T-end: WE 34.7% ± 15.12% vs NE 48.09% ± 21.73%
+- T-splint: WE 30.23% ± 14.74% vs NE 38.51% ± 15.62%
+- M-splint: WE 29.17% ± 16.83% vs NE 42.66% ± 11.72% (only M-splint statistically significant)
+
+Splinted positions, OE region only significant:
+- NE group: M-splint (63.98% ± 21.4%) significantly lower than T-end (83.45% ± 8.12%)
+- WE group: T-end (85.46% ± 7.02%) > T-splint (54.13% ± 27.75%) > M-splint (33.77% ± 20.45%)
+
+4 Discussion
+
+A wide emergence angle promotes peri-implant bone remodeling. Histological analysis revealed narrow emergence angle prostheses establish a more stable soft tissue seal, preventing spread of infection to peri-implant connective tissue.
+
+First animal research to explore effects of implant restorative emergence angle on peri-implant tissues (most prior animal studies focused only on abutment configuration, not prostheses). Aligns with prior animal study on healing abutments with 15° and 45° angulations (Souza et al.): 45° group experienced increased bone remodeling, attributed to apical shift of peri-implant biologic width.
+
+WE group tended to be more frequently classified as high bone remodeling. All splinted zones (T-splint and M-splint) in WE group categorized as high bone remodeling — aligns with Yi et al. (middle implant splinted to adjacent implants on both sides shows greater bone loss with wide emergence angle).
+
+Peri-implant soft tissue seal (biologic width) = epithelial + connective tissue attachment; physical barrier between oral environment and underlying bone. Inflammation disrupts attachment, leading to junctional epithelium down-growth: epithelial length increases, connective tissue attachment decreases. 2017 World Workshop: epithelial attachment ~2 mm, connective tissue adhesion 1-2 mm (animal study). Inadequate biologic width and junctional epithelium in WE group may have facilitated bacterial infection, leading to bone remodeling.
+
+Splinting impact debated. Some meta-analyses (Al Amri and Kellesarian; de Souza Batista et al.) and a retrospective study suggest splinting does not affect marginal bone loss. A 10-year RCT (Vigolo et al.) and retrospective (Yi et al.) reported greater bone loss in splinted implants, especially both sides splinted. In this study, adequate inter-implant distance (≥3 mm) maintained → contact point in incisal region → splinting unlikely to restrict oral hygiene access. Lower collagen in OE region at M-splint/T-splint likely because these areas were interdental gingiva (parakeratinized/non-keratinized, more susceptible to bacterial invasion), with mild-to-moderate inflammation.
+
+Limitations:
+1. Analysis confined to mesial/distal interproximal regions (buccal/lingual not examined).
+2. Focus solely on prosthetic emergence angle (not emergence profile).
+3. No non-splinting group included.
+4. Clinical parameters (probing depth, BOP, plaque scores) not measured.
+5. Small sample size limited ability to detect splinting configuration effects; could only demonstrate trend.
+
+Conclusion: within limitations of this preclinical study, restorative emergence angle may influence crestal bone remodeling. Implant prostheses with a wide emergence angle could compromise connective tissue attachment, adversely affecting formation of a stable soft tissue seal and potentially promoting bone remodeling around the implant.
+
+Conflicts of Interest: none declared.
