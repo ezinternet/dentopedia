@@ -1,0 +1,96 @@
+Effect of working length determination on postoperative pain using Electronic Apex Locator versus Radiographic method: a systematic review of randomized control trials
+
+Authors: Muhammad Usman Sultan, Muhammad Anas, Aamna Mansur, Jaber Hamad Jaber Amin
+Journal: The Saudi Dental Journal 2026;38(5)
+DOI: 10.1007/s44445-026-00158-8
+PMID: 42101759 | PMCID: PMC13156390
+PROSPERO: CRD420251247626
+
+Source: PubMed Central full text (PMC13156390), retrieved via PubMed MCP.
+
+=== FULL TEXT ===
+
+Introduction
+
+Root canal treatment (RCT) is an essential part of endodontics used to save natural teeth by removing the infected or inflamed pulp tissue, performing a thorough cleaning and shaping of the root canal system, and sealing it with an obturating material to prevent the re-invasion of microorganisms and support the healing of the periapical area (Goldberg). The major aims of a root canal treatment include pain relief, treating an infection, and retaining the function of the tooth in the mouth that might otherwise result in extraction and subsequent replacement by a prosthetic (Blum; Yeng et al.). The success of RCT depends on several interrelated factors, including effective microbial control through chemo mechanical debridement, hermetic obturation, and an adequate coronal seal (Gulabivala & Ng). Among them, proper measurement of the working length (WL), which will be considered as the distance between a coronal reference point and the apical location at which instrumentation and obturation should end is central to them, and its inaccuracy may result in under-instrumentation (leaving behind residual infected tissue) or excessive instrumentation (apical extrusion of debris and irritants, which may lead to increased postoperative pain and worse healing opportunities (Sadaf & Ahmad; Sethi et al.; Verma et al.). Research suggests that RCT has high success rates, ranging between 85 to 97 percent survival rates in the long run, and long-term tooth retention rates up to 93 percent at four years of follow-up of the treatment, but the failures are frequently attributed to errors of WL, proving its extreme significance in the results of the procedures (Lopez-Valverde et al.; Torabinejad et al.). Various methods exist for determination of WL, including tactile sensation, radiographic techniques, electronic apex locators (EALs), and advanced imaging like cone-beam computed tomography (CBCT), each offering distinct approaches to achieving precision (Van Pham; Yildirim et al.).
+
+The radiographic method, one of the classical methods of WL determination, is still widely applied, based on the fundamental requirement of anatomy visualization in RCT protocols (Burch & Hulen). In this method, a file is inserted in the canal, a periapical radiograph is taken and the distance is measured to adjust the WL, usually 0.5-1 mm is subtracted off the radiographic apex to estimate the apical constriction. The benefits of it are that it gives a visual representation of root morphology, canal curvature and possible anatomical variations, which is helpful in comprehensive treatment planning and verification. Nonetheless, drawbacks are considerable: it exposes the patient to ionizing radiation, produces two-dimensional images prone to distortion and superimposition, increases the duration of treatment as it requires film processing or digital manipulation, and sometimes cases show variations in the coincidence of the radiographic apex and the actual apical constriction because of foramen offset or root resorption, which could create errors in WL.
+
+Electronic apex locators (EALs) have developed to overcome the weaknesses of radiographic techniques as a consistent alternative by exploiting the concept of electrical impedance or resistance to real-time detection of the apical constriction without the use of imaging. EALs work by establishing an electrical circuit across the tooth, and measuring variations in conductivity as the file approaches the periodontal ligament, is an alternative or supplement to radiographs that is non-invasive. Their benefits include high accuracy (up to 90 percent in apical constriction localization), no radiations exposure, less time spent on treatment, and improved comfort to patients, especially when they have complex anatomy or during pregnancy. However, its potential weaknesses are potential interference with the contents of the canals such as irrigants, blood or metallic restorations which may produce false measurements and also restricted use in highly curved or obliterated canals where positioning of the probe would be difficult.
+
+The recent two systematic reviews fail to present a sufficient answer to this daily question that is often posed by clinicians: Does an electronic apex locator (EAL) alone or radiography alone have an impact on postoperative pain following root canal treatment? The study of Kaur et al. concentrated on the quality of accuracy and obturation, including extracted teeth, and pain was only a secondary outcome, and three trials with very low-certainty evidence were performed. Kumar et al. studied pain, but hybridized methods with independent ones, leading to a high level of heterogeneity and vague results on pure EAL versus pure radiography.
+
+This systematic review fills this gap exactly by including only randomized trials that directly compare standalone EAL versus standalone radiographic working length determination, with postoperative pain as the primary outcome, it provides the first accurate, clinically oriented synthesis. With recent trials on symptomatic pulpitis and multi-rooted teeth, it establishes that there is no difference in the pain between the methods but highlights the early pain-reducing nature of hybrid method which provide dentists offering straightforward, evidence-based guidance for everyday practice.
+
+This systematic review aimed at establishing, through randomized controlled trials, whether working length determination using electronic apex locator is better than radiography with regard to the outcomes of postoperative pain after root canal therapy.
+
+Materials and methods
+
+The present systematic review was conducted and reported in accordance with the PRISMA 2020 guidelines. In PROSPERO, the review protocol was pre-registered with identification number CRD420251247626.
+
+Eligibility criteria (PICOS):
+- Population: Patients of any age undergoing root canal treatment in permanent teeth requiring accurate working length determination.
+- Intervention: Determining working length using EAL, including any generation or type of device.
+- Comparison: Working length determination using radiographic methods, such as conventional periapical radiographs or digital radiography.
+- Outcomes (primary): Postoperative pain levels (assessed via VAS, NRS, or other validated pain measurement tools) at various time points (e.g., 24 h, 48 h, 7 days post-treatment). Secondary: Working length accuracy, procedural time, radiation exposure, periapical healing, tooth survival, and side effects like instrumentation errors or patient discomfort.
+- Study design: Only RCTs published in peer-reviewed journals.
+
+Exclusion: non-randomized, quasi-experimental, or observational studies; case reports, reviews, conference abstracts, editorials; animal or in vitro studies; studies not clearly comparing EAL and radiography; publications lacking quantitative postoperative pain data.
+
+Information sources: Cochrane Library (CENTRAL), ScienceDirect (Elsevier), and PubMed (MEDLINE) searched from January 1, 2000 to November 17, 2025. Manual searches on ResearchGate, SpringerLink, Elsevier journal sites, and reference lists. Human studies in English only. No conference abstracts, theses, or grey literature.
+
+Search strategy: PRISMA 2020; MeSH + free-text, Boolean AND/OR. Citations imported to EndNote (duplicate removal) then Rayyan for blinded screening.
+
+Selection: Two reviewers (M.A. and M.U.S.) screened titles/abstracts; full texts assessed with PICOS criteria; disagreements settled by consensus or third reviewer. Cohen's kappa for inter-reviewer reliability.
+
+Risk of bias: Cochrane RoB 2.0 tool, two reviewers (U.S. and M.A.), five domains, each rated low risk / some concerns / high risk.
+
+Results
+
+Searches returned 368 records (PubMed = 72; ScienceDirect = 189; Cochrane Library = 107). After 38 duplicates removed, 330 unique records screened. 308 excluded at title/abstract; 22 full-texts assessed; 19 excluded (ongoing trials, deciduous teeth, no postoperative pain data, lack of quantitative outcomes, non-randomized design, one from other sources). Final: FOUR RCTs (Kara Tuncer & Gerek; Khan et al.; Naeem et al.; Saha et al.) included in qualitative synthesis. NO meta-analysis (heterogeneity).
+
+Characteristics of included studies:
+- Four RCTs published 2014-2024, conducted in Egypt, Pakistan, India, Turkey.
+- Sample sizes 54 to 220 patients; total n = 414. Gender: female 200, male 214.
+- All parallel-group; three two-arm (EAL vs radiographic DRG), one three-arm RCT additionally evaluated a simultaneous length control (SLC) hybrid method (Khan et al. described as three-arm in text; SLC arm attributed to Saha et al.).
+- Follow-up 72 h to 1 week.
+- Only Naeem et al. reported double blinding; others unclear/lacking blinding.
+- No funding/COI reported in any study.
+
+Participants: age 14-60 years. Three trials single-rooted teeth; Naeem et al. evaluated multi-rooted mandibular molars. Pulp status mostly vital teeth with asymptomatic irreversible pulpitis or teeth for prosthetic RCT. Saha et al. enrolled only symptomatic irreversible pulpitis. Excluded: root resorption, incomplete root formation, curved roots, periapical radiolucency, pregnancy, alignment issues, cardiac pacemaker.
+
+Interventions/comparators:
+- EALs (third-generation): DentaPort ZX (J. Morita) - Naeem et al.; Root ZX (J. Morita) - Khan et al.; Propex Pixi (Dentsply Maillefer) - Saha et al.; Tuncer & Gerek used unspecified resistance-based EAL. WL accepted at "0.5"/"apex" mark, confirmed 0.5-1 mm short.
+- Radiographic (DRG) digital systems: SOREDEX DIGORA Optime (Naeem); unspecified digital sensor (Khan); Sopix2 Acteon (Saha); Kodak RVG 5100 (Tuncer & Gerek). File to radiographic apex minus 0.5-1 mm.
+- Saha et al. third arm = simultaneous length control (SLC) combining EAL + radiography.
+- All single-visit RCT under LA with rubber dam; rotary NiTi (ProTaper/ProFile); NaOCl 2.5-5.25% + EDTA; obturation cold lateral or warm vertical compaction with AH Plus/resin sealer.
+- Rescue analgesia only: ibuprofen 200-400 mg or flurbiprofen 100 mg, only for unbearable pain.
+- Pain patient-reported: 4- or 5-point verbal rating scale or 100-mm VAS at 4, 6, 12, 24, 48, 72 h. Analgesic intake documented.
+
+Primary outcome - postoperative pain:
+- 4-point scale: 1 = absence of pain; 2 = slight discomfort, no treatment needed; 3 = pain alleviated with analgesics; 4 = pain/swelling not diminished by basic analgesics, urgent intervention needed.
+- Overall pain low to moderate throughout.
+- Naeem et al.: cumulative VAS EAL 0.96 +/- 1.25 vs digital radiography 0.73 +/- 1.37, no significant difference (p = 0.29).
+- Khan et al.: 48 h mean VAS EAL 4.27 +/- 0.48 vs radiographic 4.35 +/- 0.39, no significant difference.
+- Kara Tuncer & Gerek: 4-point scale, summed scores first 48 h EAL 1.26 +/- 0.31 vs radiographic 1.20 +/- 0.31, no significant difference (p > 0.05).
+- Saha et al. (n = 60, symptomatic): SLC (hybrid) group showed LOWER pain intensity at 6, 24, 48, 72 h vs standalone methods, statistically significant at select early time points. But no meaningful difference between standalone EAL vs radiographic at any time point.
+- Across all four RCTs: similar pain profiles, no statistically significant difference between EAL and radiographic methods in pain occurrence or intensity.
+
+Secondary outcomes:
+- Analgesic intake: Naeem et al. mean 0.96 +/- 1.241 tablets (EAL) vs 0.73 +/- 1.37 (radiographic), no significant difference (p = 0.529). Saha et al.: 8 patients radiographic, 3 EAL, 2 SLC needed analgesics, no significant difference (p > 0.05).
+- Time to complete pain resolution: 24-26 h to 1.35-3.88 days, no significant difference by method.
+- No serious adverse events, flare-ups, or complications. Only minor self-limiting postoperative discomfort.
+
+Risk of bias (RoB 2.0): Every study showed "some concerns" in at least one domain; NO study rated high risk overall. Naeem et al.: some concerns D1a, D2; low D3-D5. Khan et al. and Saha et al.: some concerns D1a, D2, D4; low D3, D5. Tuncer & Gerek: some concerns D2, D4; low elsewhere. Concerns mostly randomization, blinding, outcome measurement. Moderate methodological quality; lack of blinding/randomization reporting weakens confidence.
+
+Discussion (key points):
+- Standalone EAL does not significantly differ from radiographic methods in postoperative pain after single-visit RCT (n = 414, four RCTs). Pain low-to-moderate, no significant inter-group differences in intensity, analgesic use, or resolution time (4 h to 7 days).
+- Equivalence attributed to comparable accuracy of both techniques in chemo-mechanical debridement and hermetic obturation (minimizing apical extrusion).
+- One three-arm trial (Saha et al.) suggested hybrid SLC reduced early pain, but small (n = 60), interpret cautiously.
+- Extends Kaur et al. (obturation/accuracy focus, pain secondary, three trials, extracted teeth, very low certainty) and Kumar et al. (conflated hybrid + standalone, high heterogeneity). This review limited to standalone comparisons with pain as primary outcome.
+- Strengths: PRISMA 2020, PROSPERO registration, multi-database search, manual screening, patient-centered pain outcomes, RCT-only, inter-reviewer kappa.
+- Limitations: only 4 studies, small total sample, no meta-analysis possible (heterogeneity of pain methods, tooth types - mostly single-rooted, follow-ups). All trials "some concerns" RoB; English-only post-2000, no grey literature; inconsistent reporting of procedure time/radiation.
+- Clinical: clinicians can choose EAL or radiographic WL based on context (radiation sensitivity e.g. pregnancy/pediatric, complex anatomy, resources) without affecting postoperative pain. EAL reduces ionizing radiation and procedural time (ALARA). Hybrid methods may reduce early discomfort - multimodal potential.
+- Future: large multi-center high-quality blinded RCTs, standardized pain protocols, long-term follow-up (periapical healing, tooth survival); subgroups (necrotic, curved canals, pediatric); EAL vs CBCT cost-effectiveness.
+
+Conclusion: Systematic review of four RCTs (n = 414) with methodological concerns and VERY LOW certainty shows NO significant differences in postoperative pain intensity, analgesic use, or resolution time between standalone EAL vs radiographic WL determination in single-visit RCT. Both yield similar low-to-moderate pain - clinicians have freedom of choice based on patient factors (radiation exposure, anatomy complexity). Preliminary evidence: hybrid methods may reduce early pain, but larger high-quality trials needed.
