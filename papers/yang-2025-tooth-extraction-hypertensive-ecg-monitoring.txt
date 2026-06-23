@@ -1,0 +1,143 @@
+Risk analysis of tooth extraction in hypertensive patients under ECG monitoring: a single-center retrospective study
+
+Authors: Yifan Yang, Wenying Wang, Ying Ji, Xiangliang Xu, Chengge Liu, Jingyi Li
+Journal: BMC Oral Health 2025;25(1):904
+DOI: 10.1186/s12903-025-06076-1
+PMID: 40462087  PMCID: PMC12135401
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12135401/)
+
+=== ABSTRACT ===
+
+Objectives
+This study aimed to identify risk factors associated with intraoperative hypertension and new-onset electrocardiographic (ECG) abnormalities in hypertensive patients undergoing tooth extraction.
+
+Materials and methods
+This case-control study included 2,059 cases of tooth extractions performed in hypertensive patients under intraoperative ECG monitoring at Peking University School and Hospital of Stomatology. Blood pressure (BP) and heart rate (HR) were recorded at four key time points. We specifically analyzed patients who required antihypertensive intervention and those with new-onset intraoperative ECG abnormalities, employing logistic regression to identify independent risk factors. Additionally, ROC curves were used to determine the optimal cutoff points for linear variables, thereby developing the most effective predictive model.
+
+Results
+A total of 8.01% of patients required temporary intraoperative antihypertensive medication for blood pressure control, while 37.20% exhibited transient intraoperative ECG abnormalities. Only two cases resulted in temporary procedure termination due to inadequate blood pressure control, while all other procedures were successfully completed. Preoperative systolic blood pressure(SBP) >= 159 mmHg (AUC = 0.91, Sensitivity = 84.24%, Specificity = 88.75%) and operative time (OR = 3.620, P<0.001) were significantly associated with intraoperative blood pressure fluctuations. In addition, sex (OR = 0.796, P = 0.019), age (OR = 1.024, P < 0.001), history of cerebrovascular disease (OR = 1.301, P = 0.020), SBP at the start of the operation (OR = 1.011, P = 0.006), number of teeth extracted per session (OR = 1.182, P < 0.001), and estimated operative time (OR = 1.236, P = 0.017) were all significantly associated with new-onset intraoperative ECG abnormalities.
+
+Conclusions
+Intraoperative hypertension was strongly associated with preoperative SBP >= 159 mmHg and prolonged operative time. New-onset intraoperative ECG abnormalities were significantly associated with both patient-related factors (age, sex, cerebrovascular disease, baseline BP) and procedural variables (number of teeth extracted, and operative time).
+
+Clinical relevance
+This study provides evidence-based recommendations for optimizing cardiovascular risk management in hypertensive patients undergoing oral procedures, highlighting the need for individualized monitoring strategies.
+
+=== INTRODUCTION ===
+
+With the accelerating pace of population aging, the demand for tooth extraction treatments is steadily increasing. Ensuring the safety and efficacy of these procedures remains a major challenge for dental practitioners, particularly when managing high-risk populations. Among these, hypertensive patients require special attention due to their increased susceptibility to cardiovascular complications during surgery.
+
+Hypertension is one of the most prevalent chronic diseases, especially among older individuals. In China, approximately 24.7% of the population had been diagnosed with hypertension as of 2018, with a significant proportion being elderly. Hypertension is closely linked to elevated cardiovascular risks, especially during physiologically stressful procedures such as tooth extraction. Given these risks, effective preoperative assessment and intraoperative blood pressure management are essential for ensuring procedural safety.
+
+Despite the availability of general perioperative guidelines, such as the 2014 ACC/AHA classification of dental procedures as low-risk, no specific risk assessment tools exist for hypertensive patients undergoing tooth extraction. Previous studies have emphasized the role of dynamic blood pressure and electrocardiogram (ECG) monitoring in mitigating risks, yet the lack of a standardized protocol limits clinical decision-making. Existing research has explored factors potentially influencing cardiovascular risks during tooth extraction. Lu et al. examined the risks of tooth extraction in elderly patients with cardiovascular diseases, concluding that advanced age and comorbidities elevate surgical risks and recommending dynamic ECG monitoring during treatment. Li et al. identified key factors influencing cardiovascular responses during tooth extractions, including age, gender, systemic diseases, and the number of teeth extracted. Ma et al. suggested that blood pressure and psychological factors are important indicators for predicting cardiovascular risks during tooth extraction. However, current evidence remains fragmented, and a consensus on the key determinants of cardiovascular risk in hypertensive patients undergoing tooth extraction has yet to be established.
+
+These gaps highlight the urgent need for further research to identify and mitigate the specific risks faced by hypertensive patients during dental procedures. This study retrospectively analyzes hypertensive patients undergoing tooth extraction under ECG monitoring, focusing on preoperative characteristics influencing intraoperative cardiovascular risks.
+
+=== MATERIALS AND METHODS ===
+
+Study design
+This case-control study was conducted by collecting blood pressure (BP) and continuous electrocardiogram (ECG) monitoring data from hypertensive patients during oral treatment. Fluctuations in blood pressure and electrocardiographic abnormalities during treatment were analyzed to identify risk factors associated with cardiovascular responses. Approved by the Ethics Committee of the Peking University School of Stomatology (PKUSSIRB-202385014). All patients signed informed consent.
+
+Patient selection
+This retrospective study collected 3,312 consultation records from the electrocardiographic monitoring clinic of Peking University School of Stomatology in 2022. After data screening, 1,253 records were excluded: 1,003 records involved patients without a confirmed diagnosis of hypertension, 235 records corresponded to non-extraction procedures, and 15 records were excluded due to incomplete intraoperative monitoring data. (Of these 15: 9 patients rescheduled for elective surgery due to severe local inflammation or poor cooperation, 6 cases lacked intraoperative monitoring data.) Telephone follow-up revealed none of these patients experienced major cardiovascular adverse events during follow-up.
+
+Ultimately, 2,059 consultation records from 1,314 unique hypertensive patients undergoing tooth extraction with complete ECG and blood pressure monitoring were included. Among these, 745 were repeat visits by the same patients. Each consultation was treated as an independent event.
+
+All patients underwent comprehensive preoperative evaluation, including ECG, medical history review, and physical examination by a cardiologist. BP and ECG data were continuously monitored throughout treatment.
+
+Inclusion criteria: (1) confirmed diagnosis of hypertension based on patient medical history and medication history; (2) at least one dental treatment procedure performed under ECG monitoring with complete medical records. Patients with fewer than three intraoperative HR and BP recordings were excluded, as procedures lasting less than 10 min did not provide sufficient monitoring data.
+
+Data collection
+Monitoring data from cardiologist's continuous ECG (NIHON KOHDEN, BSM-2351 C) and BP records. BP recorded at 5-10-minute intervals throughout the procedure.
+
+Independent variables grouped into three categories:
+- Basic patient information: Gender, age, systemic comorbidities (coronary heart disease, arrhythmia, diabetes, cerebrovascular disease).
+- Preoperative clinical parameters: BP, HR, ECG findings at initial consultation and start of surgery.
+- Surgical characteristics: Procedural complexity (number of teeth extracted, use of high-speed turbine handpieces), surgical incision, periodontitis as cause, estimated operative time.
+
+Risk analysis
+Two aspects: (1) patients requiring intraoperative antihypertensive intervention vs not; (2) patients with new intraoperative ECG abnormalities vs without.
+
+Intraoperative intervention criteria: (1) oral antihypertensive medications to patients with SBP exceeding 180 mmHg during surgery; (2) oral antihypertensive medications to patients whose SBP remained above 170 mmHg after at least two intraoperative measurements.
+
+Definition of intraoperative ECG abnormalities: Newly detected ECG abnormalities not present in preoperative ECG but observed for the first time during intraoperative ECG monitoring.
+
+Statistical analysis: SPSS v27.0. Continuous variables as mean +/- SD, independent-samples t-tests (Welch's correction where equal-variance violated). Categorical as n (%). Multivariate logistic regression (enter method). ROC curves for predictive accuracy. Significance P < 0.05.
+
+=== RESULTS ===
+
+Demographic characteristics
+Of 2,309 medical records of hypertensive patients at ECG monitoring clinic, 250 excluded (non-extraction). 1,314 hypertensive patients who underwent tooth extractions included, contributing 2,059 medical records. 702 patients (53.42%) female, 612 (46.58%) male. Mean age 74.62 +/- 11.42 years (range 27-99).
+
+Antihypertensive regimens: CCBs most frequent; 332 patients (25.27%) CCB monotherapy. Most common combination: CCB + beta-blocker, 156 cases (11.87%). All patients continued regular regimens without modification. Temporary medication only when intraoperative SBP >= 180 mmHg.
+
+925 patients (70.40%) had at least one other systemic chronic condition. Most common comorbidities: coronary heart disease (425, 32.34%), arrhythmia (217, 16.51%), diabetes (388, 29.53%), cerebrovascular disease (295, 22.45%).
+
+Of 2,059 visits, two surgeries terminated due to excessively elevated intraoperative BP. 945 visits (45.90%) single-tooth extraction; one patient had up to eight teeth in a single session. Incisions in 101 cases (4.91%), high-speed turbine handpiece in 47 cases (2.28%). Periodontitis ~37.77% of indications. Most procedures lasted 20-30 min (56.63%); <=20 min 42.06%; >30 min 1.31%.
+
+Number of teeth extracted: 1 = 945 (45.90%); 2 = 616 (29.92%); 3 = 308 (14.96%); 4-8 = 188 (9.13%).
+
+Blood pressure and heart rate values (n=2,059), maximum values at three timepoints
+Total preoperative: SBP 141.74+/-19.06, DBP 70.61+/-12.31, HR 76.27+/-12.58
+Total at start of operation: SBP 143.16+/-17.01, DBP 71.17+/-11.48, HR 78.28+/-12.83
+Total intraoperative: SBP 146.80+/-17.33, DBP 72.41+/-11.55, HR 74.47+/-12.50
+
+By sex: Female significantly higher SBP and HR, lower DBP than male across all timepoints (all P<0.001).
+By age: Patients >=76 years had consistently higher SBP, lower DBP, slower HR than <76 (all P<0.001).
+Coronary heart disease: significantly lower SBP, DBP, HR throughout perioperative period.
+Cerebrovascular disease: lower DBP and HR.
+Diabetes: lower DBP, modestly lower HR.
+Arrhythmia: slight reduction in intraoperative SBP (intraoperative SBP P=0.021).
+
+Risk analysis - Blood pressure intervention group
+Of 2,059 records, 167 patients assessed high-risk by internist requiring medication. 165 followed by successful surgery; 2 cases too high-risk -> treatment terminated. Thus 165 (8.01%) in medication intervention group.
+
+Of these, 164 cases involved intraoperative SBP peaks exceeding 180 mmHg. In one case, temporary nitroglycerin (0.3 mg) given for two consecutive SBP readings above 170 mmHg with upward trend (170/74 then 175/67 mmHg). 86.06% used nitroglycerin (doses 0.3-0.5 mg). A few used captopril, metoprolol, or combinations.
+
+Intervention drug types (n=165): Nitroglycerin 142 (86.06%); Captopril 1 (0.61%); Captopril + Nitroglycerin 4 (2.42%); Metoprolol 4 (2.42%); Metoprolol + Nitroglycerin 5 (3.03%); Metoprolol + Captopril 7 (4.24%); Nitroglycerin + Metoprolol + Captopril 2 (1.21%).
+
+Multivariate logistic regression - intraoperative medication intervention (significant variables):
+- Preoperative SBP: OR 1.138 (95%CI 1.117-1.159), P<0.001
+- SBP at start of operation: OR 1.019 (1.002-1.036), P=0.028
+- HR at start of operation: OR 1.064 (1.021-1.110), P=0.004
+- Estimated operative time: OR 3.620 (2.341-5.599), P<0.001
+Non-significant: sex, age, coronary heart disease, diabetes, cerebrovascular disease, arrhythmia, preoperative HR (P=0.053), number of teeth, high-speed handpiece, surgical incision (P=0.068), periodontitis.
+
+ROC: Preoperative SBP highest predictive efficiency, AUC = 0.91. Threshold 158.5 mmHg gave highest Youden index 0.73. Using 159 mmHg cut-off: sensitivity 84.24%, specificity 88.75% for predicting need for intraoperative medication intervention.
+
+Risk analysis - ECG abnormality group
+Of 2,059 records, 766 cases (37.20%) exhibited new ECG abnormalities during surgery. Most frequent: supraventricular premature atrial contraction (44.39%) and ventricular premature contraction (42.30%), together 86.69%. Less common: sinus arrhythmia (5.61%), VPC + premature atrial contraction (4.31%), supraventricular tachycardia (0.91%), atrioventricular conduction block (0.78%), etc.
+
+Abnormal cardiac rhythm types (n=766): Supraventricular premature atrial contraction 340 (44.39%); Ventricular premature contraction 324 (42.30%); Sinus arrhythmia 43 (5.61%); VPC + premature atrial contraction 33 (4.31%); AV conduction block 6 (0.78%); Supraventricular tachycardia 7 (0.91%); VPC + AV conduction block 1 (0.13%); VPC + sinus arrhythmia 5 (0.65%); Supraventricular premature atrial contraction + sinus arrhythmia 6 (0.78%); Sinus arrhythmia + supraventricular premature atrial contraction 1 (0.13%).
+
+(Arrhythmia comorbidity excluded from this regression to avoid interference.)
+Multivariate logistic regression - new intraoperative ECG abnormalities (significant variables):
+- Sex: OR 0.796 (0.658-0.963), P=0.019 (females higher risk)
+- Age: OR 1.024 (1.015-1.034), P<0.001
+- Cerebrovascular disease: OR 1.301 (1.042-1.624), P=0.020
+- SBP at start of operation: OR 1.011 (1.003-1.019), P=0.006
+- Number of tooth extractions per time: OR 1.182 (1.082-1.290), P<0.001
+- Estimated operative time: OR 1.236 (1.038-1.471), P=0.017
+Non-significant: coronary heart disease, diabetes, preoperative SBP, preoperative HR, HR at start, high-speed handpiece, surgical incision, periodontitis.
+
+ROC: Age highest predictive ability, AUC = 0.57. Optimal cutoff 79.5 years, Youden index 0.10, sensitivity 48.83%, specificity 61.56%.
+
+=== DISCUSSION ===
+
+Investigated cardiovascular risks of tooth extractions in hypertensive patients, underscoring need for effective preoperative BP management and continuous intraoperative ECG monitoring. Most intraoperative BP and cardiac rhythm abnormalities were manageable; certain subgroups need enhanced monitoring. Patients with preoperative SBP >= 159 mmHg or prolonged procedures should receive intensified BP monitoring with temporary antihypertensive treatment as needed. Female, elderly, cerebrovascular disease history, multiple-teeth extraction, and prolonged procedures associated with new-onset intraoperative ECG abnormalities.
+
+Per current guidelines, elective surgery should be postponed at SBP >= 180 mmHg or DBP >= 110 mmHg unless urgent. Continuous ECG monitoring crucial; psychological stress and local anesthetic may provoke arrhythmias. Most common arrhythmia: premature contraction. Ventricular premature beats statistically associated with increased all-cause mortality in hypertensive patients with underlying heart disease.
+
+In this cohort, ~8.01% required intraoperative pharmacologic BP intervention, 37.20% developed new-onset ECG abnormalities. All arrhythmias non-lethal. Only two procedures temporarily terminated for excessive BP; no life-threatening emergencies. Overall, tooth extraction in hypertensive patients appears relatively safe, but close intraoperative monitoring remains essential.
+
+Female patients had significantly higher SBP and HR, lower DBP. No significant sex-based difference in incidence of intraoperative hypertension, but women more likely to develop new-onset intraoperative ECG abnormalities (possibly higher emotional stress). Patients >=76 had higher SBP, lower DBP, greater pulse pressure (arterial stiffness). Age not independent predictor of intraoperative hypertension requiring medication, but older patients more likely to experience intraoperative arrhythmias.
+
+Preoperative SBP >= 159 mmHg more likely to require intraoperative antihypertensives; elevated SBP and HR at start increased risk of new-onset ECG abnormalities. Aligns with prior data that preoperative SBP >= 160 mmHg predicts inadequate long-term BP control. Cerebrovascular disease history more likely to develop new-onset intraoperative ECG abnormalities. No significant association of intraoperative BP/ECG abnormalities with coronary heart disease or diabetes.
+
+Operative time significantly associated with both intraoperative BP fluctuations and new-onset ECG abnormalities; number of teeth extracted per session associated with ECG changes. Reducing extractions per visit and shortening operative duration may minimize intraoperative cardiovascular stress. Surgical incision showed trend toward association with intraoperative hypertension (P=0.068, not significant). No significant association between periodontitis cause and intraoperative BP/ECG changes.
+
+Limitations: single-center retrospective (selection bias, no causality). Not generalizable. Key variables not assessed: local anesthetic dosage, time interval between last antihypertensive intake and surgery start, postoperative complications (bleeding, infection). Future prospective longitudinal studies warranted.
+
+=== CONCLUSION ===
+
+Investigated cardiovascular risks of tooth extractions in hypertensive patients, highlighting importance of preoperative BP control and continuous intraoperative ECG monitoring. Patients with preoperative SBP exceeding 159 mmHg, elevated SBP and HR at start of procedure, and longer operative times were more likely to experience intraoperative hypertension requiring pharmacological intervention. Female patients, older individuals, cerebrovascular disease history, elevated SBP at start, greater number of teeth extracted per session, and longer surgical times were at increased risk of intraoperative arrhythmias.
