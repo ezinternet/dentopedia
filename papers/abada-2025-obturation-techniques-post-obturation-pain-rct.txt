@@ -1,0 +1,87 @@
+The effect of different obturation techniques on post-obturation pain and sealer extrusion in single-visit root canal treatment: a prospective clinical randomized study
+
+Authors: Hisham Mahmoud Hamdy Abada; Mohamed Abd El Rahman El Shreif; Faten Mohamed Ahmed Ghonimy; Ebtesam Osama Abo El-Mal; Dana Saeed Abd Elmonem El Gemaie
+Journal: Clinical Oral Investigations (Clin Oral Investig) 2025; 29(10):445
+DOI: 10.1007/s00784-025-06487-y | PMID: 40931202 | PMCID: PMC12422989
+Source: PubMed / PMC full text.
+
+=== ABSTRACT ===
+
+Objectives
+Postoperative pain remains a significant concern in endodontics. The main aim of this clinical trial was to assess the impact of various obturation technique and sealer types on post-obturation pain and sealer extrusion in single-visit nonsurgical root canal treatments.
+
+Materials and methods
+Study participants were recruited through consecutive sampling from patients referred to the Endodontic Department, Faculty of Dentistry, diagnosed as asymptomatic irreversible pulpitis. The study was conducted on 150 cases that were equally and randomly allocated to each of the studied groups (30 for each group) as following; Group 1 - cold lateral compaction with CeraSeal (CLC-CS); Group 2 - continuous wave compaction with CeraSeal (CWC-CS); Group 3 - single cone technique with CeraSeal (SC-CS); Group 4 - Cold lateral compaction with AH Plus (CLC-AH); and Group 5 - continuous wave compaction with AH Plus (CWC-AH). All endodontic procedures were performed by a single experienced endodontist to standardize treatment protocols. The main outcomes were the post-obturation pain which was assessed using a visual analog scale (VAS) scale (0-10), and the incidence of sealer extrusion among the studied groups.
+
+Results
+At 6, 24, and 72 h the postobturation pain score did not differ significantly between all studied groups. After 12 and 48 h CWC-CS and CLC-CS showed the lowest significant postobturation pain score respectively, and CWC-AH had the most significant postobturation pain score. During the study, none of the patients needed an emergency visit, the pain score ranged from (0:1.4). Within the same group, the pain intensity began to significantly decrease for gp1 (CLC-CS) after 24 h, for gp3, gp4, and gp5 (SC-CS, CLC-AH, and CWC-AH, respectively) after 12 h, and for gp2 (CWC-CS) after 6 h. After 72 h, the level of pain in each group was around 0. Regardless of the type of sealer used, no significant difference was found between the type of obturation technique and the postoperative pain intensity (p = 0.124), while regardless of the type of obturation technique used, there was a significant difference in postoperative pain intensity and sealer type (p < 0.001). The incidence of sealer extrusion did not differ significantly between the tested groups (p = 0.499), the results showed that the presence of sealer extrusion was associated with higher significant pain score (p < 0.001).
+
+Conclusion
+The postoperative pain score after Single-Visit RCT for patient diagnosed as asymptomatic irreversible pulpitis was low to moderate pain score, presence of sealer extrusion increased the postoperative pain intensity. Regardless the type of sealer, different obturation techniques did not associated with postoperative pain intensity, while regardless the obturation technique, AH Plus sealer was associated with higher postoperative pain intensity than CeraSeal sealer. Postoperative pain was related to presence of sealer extrusion.
+
+Keywords: Bioceramic sealer; Postoperative pain; Root canal treatment (RCT); Single-visit treatment.
+
+=== INTRODUCTION (excerpt) ===
+
+Root canal treatment (RCT) aims to disinfect, fill, and preserve teeth at risk of extraction due to pulp infection or damage. Many cases can now be completed in a single visit. Reported rates of postoperative pain range from 3 to 58%. The choice of endodontic sealer is a crucial intra-treatment parameter. Bioceramic sealers (BS), also known as calcium silicate-based endodontic sealers, have gained prominence due to exceptional biocompatibility and intrinsic osteoinductive properties, valuable for decreasing inflammatory responses in cases of overfilling. Cold lateral compaction (CLC) remains the predominant obturation technique (simple, reliable, cost-effective) but can leave voids. Continuous warm compaction (CWC) gives a more homogeneous mass conforming to canal anatomy. The single-cone (SC) approach is recommended with bioceramic sealers. The objective of this prospective RCT was to assess the impact of sealer type and obturation technique on postoperative pain and sealer extrusion in single-visit nonsurgical RCT. Null hypothesis: no significant difference between groups.
+
+=== MATERIALS AND METHODS ===
+
+Prospective, randomized clinical trial; institutional ethical board approval; ClinicalTrials.gov registered; CONSORT guidelines. Consecutive sampling, Endodontic Department, December 2023 to June 2024. Power analysis (G*Power; type I error 0.05, power 80%) required minimum 27 patients/group; 30 per group included. Total 150.
+
+Inclusion: systemically healthy (ASA I or II), aged 18-60, requiring nonsurgical RCT for a mandibular lower first molar diagnosed as asymptomatic irreversible pulpitis (no clinical symptoms; deep caries lesion extending to pulp; three separate root canals confirmed on 3 digital periapical radiographs — 1 straight, 2 angled; no pain on percussion; delayed positive response to thermal and electric pulp tests; pulpal perforation during caries excavation with bleeding not stopping after 5 min NaOCl-soaked cotton). All teeth periodontally healthy (probing depths <= 3 mm).
+
+Exclusion: diabetes mellitus, immunocompromised, pregnancy/lactation; antibiotics/analgesics/anti-inflammatories within 7 days; necrotic or symptomatic pulp; calcified canal or root resorption; non-restorable; previously initiated/treated canals; periapical pathosis (PAI score > 2); immature root; root fractures/cracks (transillumination); periodontal involvement (mobility > grade 1).
+
+Randomization: 150 patients allocated by computer-generated sequence (Random Allocation Software v2.0) into five groups (n=30 each) by obturation technique and sealer type. Sealed-envelope concealment; operator blinded to intervention until biomechanical preparation finished.
+
+Groups:
+- Group 1: CLC-CS — cold lateral compaction with CeraSeal (META BIOMED CO., LTD, Korea)
+- Group 2: CWC-CS — continuous wave compaction with CeraSeal
+- Group 3: SC-CS — single cone technique with CeraSeal
+- Group 4: CLC-AH — cold lateral compaction with AH Plus (Dentsply DeTrey GmbH, Konstanz, Germany)
+- Group 5: CWC-AH — continuous wave compaction with AH Plus
+
+Clinical procedure: single experienced endodontist. LA: 1.7 mL 4% articaine HCl with 1:100,000 epinephrine, IANB. Rubber dam. NaOCl 5.25% chamber irrigation. ProTaper Next rotary files — mesial canals to X2 (25/.06), distal to X3 (30/.06). Working length via electronic apex locator (Tri Auto-ZX), 0.5 mm short of "0.0" reading, confirmed radiographically. Irrigation: 2 mL 5.25% NaOCl between files via 30-gauge side-vented needle 1 mm short of WL; final 2 mL 17% EDTA for 60 s then 5 mL sterile saline. For AH Plus: canals dried completely; for CeraSeal: canals kept slightly wet (stop drying when 3-4 mm from paper-point tip is wet).
+- CLC: size-matched gutta-percha master cone to WL, finger spreader (stop 1 mm short of WL), accessory cones laterally compacted.
+- CWC: System B (SybronEndo) at 200 C down-pack, plugger binding ~5 mm short of WL; Obtura III at 160 C backfill.
+- SC: size-matched master gutta-percha point only, coronal part condensed with endodontic plugger.
+Access sealed with glass ionomer (Fuji IX GP). Immediate postoperative radiographs standardized.
+
+Evaluation: Post-obturation pain by VAS (0-10): 0 no pain, 1-3 mild, 4-6 moderate, 7-9 severe, 10 worst possible. Recorded at 6, 12, 24, 48, 72 h post-treatment; automated SMS reminders. Sealer extrusion on standardized digital periapical radiographs immediately after obturation; two calibrated endodontists (>=10 y experience, blinded; Cohen kappa > 0.8). "Present" if radiopaque material beyond radiographic apex; cases with extrusion > 2 mm excluded; third endodontist consulted on disagreement.
+
+Statistics: chi-square for categorical; Shapiro-Wilk normality; Kruskal-Wallis + Dunn post hoc (intergroup, non-parametric pain); Friedman + Nemenyi (intragroup); one-way ANOVA for age. FDR adjustment for multiple comparisons. Significance p < 0.05. R v4.4.2.
+
+=== RESULTS ===
+
+150 cases, 30 per group. No significant difference in age or gender between groups (p > 0.05).
+
+Pain score (mean +/- SD) by interval and group:
+- 6 h: CLC-CS 1.00+/-0.79; CWC-CS 1.00+/-0.64; SC-CS 1.10+/-0.55; CLC-AH 1.00+/-0.45; CWC-AH 1.40+/-0.50; KW=9.47, p=0.068 (NS)
+- 12 h: CLC-CS 0.90+/-0.71; CWC-CS 0.70+/-0.47; SC-CS 0.90+/-0.55; CLC-AH 0.90+/-0.31; CWC-AH 1.20+/-0.41; KW=13.95, p=0.018* (CWC-CS lowest; CWC-AH highest)
+- 24 h: CLC-CS 0.70+/-0.47; CWC-CS 0.50+/-0.51; SC-CS 0.50+/-0.51; CLC-AH 0.60+/-0.50; CWC-AH 0.80+/-0.61; KW=6.40, p=0.171 (NS)
+- 48 h: CLC-CS 0.10+/-0.31; CWC-CS 0.20+/-0.41; SC-CS 0.20+/-0.41; CLC-AH 0.40+/-0.50; CWC-AH 0.50+/-0.51; KW=15.96, p=0.015* (CLC-CS lowest; CWC-AH highest)
+- 72 h: CLC-CS 0.00; CWC-CS 0.10+/-0.31; SC-CS 0.00; CLC-AH 0.00; CWC-AH 0.10+/-0.31; KW=9.31, p=0.068 (NS)
+
+No emergency visits. Pain intensity ranged 0 to 1.4 (no pain to mild). Intragroup significant decrease over time (p < 0.001 each group): CLC-CS decreased after 24 h; SC-CS, CLC-AH, CWC-AH after 12 h; CWC-CS after 6 h. By 72 h all ~0.
+
+Sealer extrusion incidence (intergroup): no significant difference (chi=3.37, p=0.499). Highest with SC-CS 60% (18/30); lowest with CLC-CS 40% (12/30); CWC groups 50%.
+- By obturation technique: CLC 40% (24/60), CWC 50% (30/60), SC 60% (18/30); chi=3.37, p=0.186 (NS)
+- By sealer type: CeraSeal 50% (45/90), AH Plus 45% (27/60); chi=0.36, p=0.548 (NS)
+- Sealer type within technique: both sealers 40% with CLC and 50% with CWC; CeraSeal 60% with SC. No significant difference (p=0.436 for CS and AH Plus).
+
+Associations with pain score:
+- Gender: females had significantly higher pain (0.75+/-0.66) than males (0.36+/-0.48), p < 0.001.
+- Obturation technique (overall): CLC 0.56+/-0.61, CWC 0.65+/-0.64, SC 0.54+/-0.61; p=0.124 (NS).
+- Sealer type (overall): CeraSeal 0.53+/-0.62 vs AH Plus 0.69+/-0.61; p < 0.001 (AH Plus higher).
+- Technique within sealer: with CeraSeal, no difference between CLC/CWC/SC (p=0.890); with AH Plus, CWC (0.80+/-0.67) significantly higher pain than CLC (0.58+/-0.53), p=0.010.
+- Sealer within technique: with CLC no difference (p=0.330); with CWC, AH Plus significantly higher pain than CeraSeal (p < 0.001).
+- Sealer extrusion: presence of extrusion associated with significantly higher pain regardless of sealer (extrusion-yes 0.67+/-0.62 vs no 0.52+/-0.61, p < 0.001); within each sealer (CeraSeal p=0.004; AH Plus p=0.030).
+
+=== DISCUSSION (key points) ===
+
+Null hypothesis rejected for postobturation pain (significant sealer-type difference). CWC-AH had significantly higher pain than CWC-CS and CLC-AH. Both obturation technique and sealer type may influence postoperative pain. AH Plus higher pain attributed to cytotoxicity (release of toxic monomers — epoxy resin, bisphenol A diglycidyl ether), unpolymerized residues, ~7-h delayed setting, and heat-induced changes during CWC (loss of amine setting initiators at 100 C, retarded polymerization, increased film thickness). CeraSeal (bioceramic, resin-free) supported by biocompatibility evidence (no foreign-body/inflammatory response on histology per Ricucci et al.); high pH may encourage hard-tissue formation and inhibit osteoclasts. Sealer extrusion most frequent with SC-CS but did not translate into higher pain for CeraSeal groups, supporting biocompatibility claim. Extrusion incidence reportedly more affected by operator, canal preparation, and obturation technique than by sealer type. Pain highest at 6 h, decreasing thereafter; consistent across groups.
+
+Clinical implications: similar pain profiles give clinicians flexibility in choosing obturation method; bioceramic and resin-based sealers both viable; patients can be told to expect moderate pain in first 24 h decreasing afterward; single-visit treatment viable even for multirooted teeth with asymptomatic irreversible pulpitis.
+
+Limitations: short 72-h follow-up; long-term outcomes not assessed; operator experience, canal anatomy, pain thresholds uncontrolled; single-center. Future: longer follow-up, multi-center, 3D imaging to quantify extruded volume.
