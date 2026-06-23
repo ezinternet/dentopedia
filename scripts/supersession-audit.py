@@ -127,6 +127,11 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--decay-years", type=int, default=5)
     ap.add_argument("--stdout", action="store_true")
+    ap.add_argument(
+        "--ci",
+        action="store_true",
+        help="CI mode: exit 1 on dangling links / banner-desync. Decay candidates still exit 0.",
+    )
     args = ap.parse_args()
 
     if not WIKI_DIR.exists():
@@ -138,11 +143,12 @@ def main() -> int:
     today = datetime.combine(date.today(), datetime.min.time())
     decay_cutoff = today.replace(year=today.year - args.decay_years)
 
-    dangling = []      # (stem, bad_target)
+    dangling = []        # (stem, bad_target)
     banner_missing = []  # field set, no banner
     banner_orphan = []   # banner present, no field
-    banner_mismatch = []  # field/banner target stems differ
+    banner_mismatch = [] # field/banner target stems differ
     superseded_ok = []   # (stem, scope, targets)
+    chain_stale = []     # (stem, direct_target, chain_tail) — transitivity issue
     decay = []           # (years, stem, confidence, date_str)
 
     for stem, path in pages.items():
@@ -191,6 +197,25 @@ def main() -> int:
     # centrality(inbound) 우선, 동률이면 age — "남이 많이 의존하는 오래된 고근거" 먼저
     decay.sort(key=lambda x: (-x[5], -x[0]))
 
+    # (D) TRANSITIVITY — A → B, but B is also superseded (B → C). A's pointer is stale.
+    superseded_stems = {stem for stem, _, _ in superseded_ok}
+    field_map = {}  # stem → [target_stems]
+    for stem, _, targets in superseded_ok:
+        field_map[stem] = targets
+    for stem, _, targets in superseded_ok:
+        for t in targets:
+            if t in field_map:
+                # follow chain to the tail
+                visited = {stem, t}
+                node = t
+                while node in field_map:
+                    nexts = [x for x in field_map[node] if x not in visited]
+                    if not nexts:
+                        break
+                    node = nexts[0]
+                    visited.add(node)
+                chain_stale.append((stem, t, node))
+
     LOGS_DIR.mkdir(exist_ok=True)
     log_path = LOGS_DIR / f"{date.today().isoformat()}_supersession.log"
 
@@ -202,6 +227,7 @@ def main() -> int:
     L.append(f"  banner MISSING          : {len(banner_missing)}")
     L.append(f"  banner ORPHAN (no field): {len(banner_orphan)}")
     L.append(f"  field/banner MISMATCH   : {len(banner_mismatch)}")
+    L.append(f"  TRANSITIVITY chain stale: {len(chain_stale)}")
     L.append(f"decay candidates (≥{args.decay_years}y, {'/'.join(sorted(DECAY_CONFIDENCE))}, not superseded): {len(decay)}")
     L.append("")
 
@@ -230,6 +256,12 @@ def main() -> int:
         for stem, ft, bt in banner_mismatch:
             L.append(f"  {stem}  field={ft}  banner={bt}")
         L.append("")
+    if chain_stale:
+        L.append("=== ⚠ TRANSITIVITY — pointer points to already-superseded page ===")
+        L.append("    (A → B, but B is also superseded. Update A to point to chain tail.)")
+        for stem, direct, tail in sorted(chain_stale):
+            L.append(f"  {stem}  →  {direct}  (should be → {tail})")
+        L.append("")
     if decay:
         # 카테고리별 집계
         from collections import defaultdict
@@ -252,14 +284,18 @@ def main() -> int:
     body = "\n".join(L) + "\n"
     log_path.write_text(body, encoding="utf-8")
 
-    issues = len(dangling) + len(banner_missing) + len(banner_orphan) + len(banner_mismatch)
+    issues = len(dangling) + len(banner_missing) + len(banner_orphan) + len(banner_mismatch) + len(chain_stale)
     flag = "⚠" if issues else "✓"
     print(f"🔁  Supersession: {len(superseded_ok)} superseded, {issues} sync issues {flag}, {len(decay)} decay candidates")
     print(f"      log → logs/{log_path.name}")
     if args.stdout:
         print()
         print(body)
-    return 0  # signal — always non-blocking
+
+    if args.ci and issues:
+        print(f"  [CI] {issues} hard error(s) — dangling/desync/chain. Fix and re-push.")
+        return 1
+    return 0  # signal — always non-blocking (no --ci)
 
 
 if __name__ == "__main__":
