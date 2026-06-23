@@ -1,0 +1,53 @@
+"Prevalence of Peri-Implant Diseases in Patients With Type 2 Diabetes Mellitus: A Cross-Sectional Study"
+Sbricoli L, Feltracco G, Cavallin F, D'Arienzo D, Bergamin S, Stellini E, Bressan E.
+Clin Exp Dent Res. 2026 Apr;12(2):e70352. doi:10.1002/cre2.70352. PMID:42035463 PMCID:PMC13110833
+
+ABSTRACT
+Objectives: Type 2 diabetes mellitus (T2DM) is a major systemic disease, predisposing patients to inflammatory conditions, and it is considered a grade modifier of periodontitis. However, its association with peri-implant diseases is still under investigation. This study aimed to investigate the possible association between diabetes and peri-implant disease.
+Material and Methods: Seventy patients (35 with T2DM and 35 non-diabetic) were included, for a total of 227 dental implants in function for at least 1 year. Patient characteristics, implant features, and peri-implant diseases (including peri-implant mucositis and peri-implantitis) were recorded.
+Results: The overall prevalence of peri-implant diseases was not statistically different between diabetic and non-diabetic subjects (80% vs. 77%, p=0.99). When distinguishing between peri-implant mucositis and peri-implantitis, the prevalence of peri-implant mucositis (51% in diabetic patients vs. 63% in non-diabetic individuals; p=0.47) and peri-implantitis (51% in diabetic patients vs. 43% in non-diabetic individuals; p=0.63) did not differ significantly between the two groups.
+Conclusions: Our findings did not suggest different occurrence of peri-implant mucositis and peri-implantitis in diabetic and non-diabetic subjects. Therefore, type 2 diabetes may not play a relevant role in peri-implant diseases.
+
+1. INTRODUCTION
+Dental implants have become widely used to replace missing teeth, with high survival rates. Peri-implant mucositis and peri-implantitis are inflammatory diseases of infectious origin leading to loss of peri-implant bone support. Peri-implant mucositis is limited to soft tissue (Heitz-Mayfield and Salvi), whereas peri-implantitis also involves bone tissue (Berglundh et al.).
+Diabetes mellitus is a common chronic condition; global prevalence estimated at 9.3% (463 million) in 2019, projected to 10.9% (700 million) by 2045 (Saeedi et al.). There is a bidirectional relationship between diabetes and periodontal disease; periodontal disease is the sixth most frequent complication of diabetes (Loe). Diabetes impairs wound healing via exacerbated immune response, releasing IL-1, IL-6, IL-8 and TNF-alpha. Hyperglycemia leads to accumulation of advanced glycation end products (AGEs) and increased expression/activation of RAGE; AGE-RAGE interaction negatively influences cellular phenotype/function, increasing inflammation, reduced neutrophil function, ROS/oxidative stress, altered collagen homeostasis and impaired tissue repair.
+According to the 2017 World Workshop (Caton et al.), data on the association between peri-implant diseases and diabetes were inconclusive and further investigation required (Schwarz et al.).
+
+2. METHODS
+Design: single-center, cross-sectional, observational study on peri-implant diseases among diabetic and non-diabetic patients treated at the Odontostomatology Department of Saint Giacomo hospital in Castelfranco Veneto (Italy) from March 15, 2024 to August 23, 2024. Approved by Ethics Committee of the Northern Veneto Area (CET-ANV) (0005306/24).
+Participants: patients >=30 years, rehabilitated with dental implants in function for >=1 year. T2DM patients = exposed group; non-diabetic = unexposed group. All diabetics had pre-existing diagnosis confirmed via HbA1c from most recent blood tests and were on pharmacological therapy. Excluded: prediabetes, metabolic syndrome, gestational diabetes, pregnant/breastfeeding.
+Procedures: six-site periodontal chart per tooth and implant (PCP-UNC 15 probe). PPD measured at six sites. Plaque index (PI) = full-mouth plaque score (FMPS). BoP = full-mouth bleeding score (FMBS, % sites bleeding within 15s). Exudation/suppuration, peri-implant mucosal hyperplasia, clinical mobility recorded. Periapical radiograph per implant; marginal bone resorption (Gualini et al.) via ImageJ; implant shoulder = reference point for original bone level (=0); distance >0 mm recorded as % bone loss at distal and mesial aspects. All clinical measurements by single experienced operator (G.F.).
+Outcome Measures: diagnosis of peri-implant health, mucositis, or peri-implantitis per EFP S3 Clinical Practice Guidelines (Herrera et al.). In absence of previous examination data, peri-implantitis defined as: bleeding and/or suppuration on gentle probing + PPD >=6 mm + bone levels >=3 mm apical of most coronal portion of intraosseous part of implant.
+Statistical Analysis: a priori sample size (R 4.4): 70 patients (35 diabetic, 35 non-diabetic) for 80% power at 5% level to detect difference in peri-implantitis prevalence from 8% (unexposed) to 35% (exposed) (based on Sabanci et al.). Numerical variables = median (IQR); categorical = absolute/relative frequency. Subject-level: Mann-Whitney, Chi Square or Fisher's exact. Implant-level: logistic regression with cluster-robust standard errors (implants nested within subjects). Two-sided, p<0.05 significant.
+
+3. RESULTS
+70 subjects (32 males, 38 females; median age 73 years, IQR 66-80), total 235 dental implants. 8 implants excluded (4 not loaded, 4 in function <1 year); 227 analyzed. Implants per subject: 1 (n=14), 2 (n=21), 3 (n=10), 4 (n=10), 5 (n=8), 7 (n=3), 8 (n=2), 9 (n=1), 15 (n=1).
+Diabetic subjects older than non-diabetic (median 77 vs 71 years, p=0.004); other subject characteristics and implant features not statistically different.
+Peri-implant diseases found in 55 subjects: mucositis only (n=15), peri-implantitis only (n=22), or both (n=18).
+Prevalence of peri-implant diseases NOT statistically different between diabetic and non-diabetic subjects (80% vs 77%, p=0.99).
+Peri-implant mucositis: 51% diabetic vs 63% non-diabetic, p=0.47.
+Peri-implantitis: 51% diabetic vs 43% non-diabetic, p=0.63.
+Implant-level analysis confirmed diabetes not associated with peri-implant diseases (62% diabetic vs 66% non-diabetic, p=0.67), mucositis (28% vs 31%, p=0.73), or peri-implantitis (34% vs 35%, p=0.91).
+PI higher in subjects with peri-implant diseases (median 27%, IQR 16-46%) vs without (median 14%, IQR 8-18%) (p=0.003).
+Peri-implant disease associated with longer loading period (median 13 vs 10 years, p=0.02); mucositis also (median 14 vs 11 years, p=0.04). Type of prosthesis (screw/cement) NOT statistically associated with peri-implant disease occurrence overall.
+Sub-analysis stratified by loading time (1-5, 6-10, >10 years) confirmed occurrence of mucositis and peri-implantitis not statistically different in diabetic vs non-diabetic with comparable loading time.
+
+TABLE 1 (subject characteristics / implant features, diabetic n=35 vs non-diabetic n=35):
+Male 43% vs 66%; Female 57% vs 34% (p=0.09). Age median 77 (71-83) vs 71 (63-75) (p=0.004). Smokers 3% vs 11% (p=0.36). History of periodontitis 83% vs 94% (p=0.26). Supportive peri-implant therapy 100% vs 100%.
+Implants diabetic n=104, non-diabetic n=123. Prosthesis: screw 35% vs 20%; cement 65% vs 80% (p=0.17). Loading time median 10 (7-17) vs 13 (9-18) years (p=0.17). Marginal bone loss % median 0 (0-27) vs 0 (0-27) (p=0.40). PPD median 3.0 (2.2-4.0) vs 3.2 (2.5-4.2) mm (p=0.64). BoP 69% vs 63% (p=0.57).
+
+TABLE 2 (outcome measures, exposed vs unexposed):
+Subjects (35 vs 35): peri-implant disease 28 (80%) vs 27 (77%), p=0.99; mucositis 18 (51%) vs 22 (63%), p=0.47; peri-implantitis 18 (51%) vs 15 (43%), p=0.63.
+Implants (104 vs 123): peri-implant disease 64 (62%) vs 81 (66%), p=0.67; mucositis 29 (28%) vs 38 (31%), p=0.73; peri-implantitis 35 (34%) vs 43 (35%), p=0.91.
+
+TABLE 3 (outcomes by implant features):
+Prosthesis screw (n=61) vs cement (n=166): peri-implant disease 61% vs 65% (p=0.63); mucositis 39% vs 26% (p=0.08); peri-implantitis 21% vs 39% (p=0.08).
+Loading time (median IQR years): peri-implant disease No 10 (7-14) / Yes 13 (9-19), p=0.02; mucositis No 11 (7-16) / Yes 14 (10-20), p=0.04; peri-implantitis No 11 (7-18) / Yes 11 (9-18), p=0.72.
+
+4. DISCUSSION
+No different prevalence of peri-implant diseases between diabetic and non-diabetic subjects. Literature conflicting: Dalago et al. (183 patients, 916 implants) found diabetes NOT associated with peri-implantitis; Weinstein et al. (248 patients, 1162 implants) reported significant association; Wagner et al. 2022 SR concluded implant rehab in T2DM safe and predictable. Results consistent with recent studies suggesting that with well-controlled glycemia, peri-implant tissue response in T2DM is comparable to healthy individuals - quality of metabolic control, rather than disease itself, is the key determinant. Peri-implant mucositis prevalence consistent with Reis et al. SR (weighted mean 63% using 2017 World Workshop). Koldsland et al.: prevalence varied with diagnostic criteria. Higher PI in diseased subjects (agreement with Ferreira, Konstantinidis). Contrary to Lagunov (BoP 56% vs 44.5% and higher PPD in T2DM), this study showed no significant difference in BoP or PPD between groups; consistent with Tawil et al. (controlled diabetes vs non-diabetic, no PPD difference). Cement-retained implants higher peri-implantitis (39%) vs screw-retained (21%) - cement remnants as rough substrate for biofilm; screw-retained slight trend toward mucositis (39% vs 26%) - micro-gap at implant-abutment interface. Longer functional loading associated with peri-implant disease (mucositis). High prevalence of history of periodontitis in both groups (diabetic 83%, non-diabetic 94%) may have acted as confounder, masking the specific impact of T2DM; underscores importance of strict supportive periodontal therapy.
+
+LIMITATIONS: cross-sectional design precludes causality; small sample size; observed peri-implantitis prevalence higher than expected and close between groups, so study underpowered to detect actual difference; no examiner calibration nor controlled probing force.
+
+5. CONCLUSIONS
+Implant rehabilitation is a safe and predictable procedure in patients with T2DM; they did not show significantly higher prevalence of peri-implant diseases vs non-diabetic subjects. Further prospective research with larger cohorts and standardized protocols warranted.
