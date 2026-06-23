@@ -1,0 +1,56 @@
+Hypertension and Dental Implants: A Systematic Review and Meta-Analysis
+Authors: Liljan Hamadé, Salma El-Disoki, Bruno Ramos Chrcanovic
+Journal of Clinical Medicine 2024;13(2):499
+DOI: 10.3390/jcm13020499 | PMID: 38256633 | PMCID: PMC10816909
+Source: PubMed Central full text — https://pmc.ncbi.nlm.nih.gov/articles/PMC10816909/
+
+ABSTRACT
+Purpose: The aim of the present systematic review was to investigate the influence of hypertension on the dental implant failure rate. Methods: An electronic search was undertaken in four databases, plus a manual search of journals. The I2 statistic was used to check heterogeneity and the inverse-variance method was used for the meta-analysis. The estimate of relative effect for dichotomous outcome was expressed as an odds ratio (OR). Results: The review included 24 publications. There were 4874 implants (257 failures) placed in hypertensive patients and 16,192 implants (809 failures) placed in normotensive patients. A pairwise meta-analysis showed that implants in hypertensive patients did not have a higher risk of failure than implants placed in normotensive patients (OR 1.100, p = 0.671). The log OR of implant failure between hypertensive and normotensive patients did not significantly change with the follow-up time (p = 0.824). Conclusions: This review suggests that implants in hypertensive patients do not present higher odds of failure in comparison to normotensive patients. However, further research on this topic, with the use of more rigorous criteria to diagnose patients as being hypertensive, as well as clearer information about the pharmacological management of the condition in the patients, is recommended.
+
+1. INTRODUCTION
+Hypertension or high blood pressure is the condition in which blood pressure is high due to the high force of the circulating blood being continuously elevated in the walls of arteries. The prevalence of hypertension among adults between 30 and 79 years of age in 2019 was 32% in women and 34% in men, making it one of the most common chronic medical conditions worldwide and a major cause of premature death. Its etiology is associated with genetic and behavioral factors, including older age, obesity, physical inactivity, a diet with a high content of salt, the excessive consumption of alcohol, smoking, etc. The condition is usually called a "silent killer", since most people with the condition do not experience any symptoms, and an estimated 46% of hypertensive adults are unaware that they have the condition.
+
+Persistent high blood pressure without proper treatment may lead to angina, heart attacks, heart failure, irregular heartbeat, stroke, kidney damage, damage to the heart, and sudden death. Moreover, there is evidence to suggest the condition is associated with negative effects on bone health due to its connection with many biochemical and physiological pathways. Hypertension may also have a negative effect on microvascular remodeling and angiogenesis.
+
+The effects of hypertension on bone metabolism and angiogenesis raised questions regarding the condition, which poses a risk regarding oral rehabilitation with dental implants, since these two processes are important for the process of osseointegration as well as the long-term maintenance of implants into bone. A recent umbrella review evaluated the possible influence of medications on dental implant osseointegration, but without a focus on hypertension. Another systematic review evaluated the possible effects of the condition on dental implants, but the electronic search was restricted to two databases and inclusion criteria were limited to studies reporting the type of antihypertensive medication used, resulting in only three studies being included. The aim of the present systematic review was, therefore, to test the null hypothesis of no difference in the implant failure rates in hypertensive patients in comparison to normotensive patients, with more comprehensive inclusion criteria.
+
+2. MATERIALS AND METHODS
+Followed PRISMA 2020. PROSPERO registration: CRD42023487489.
+Objective (PICO): In patients being rehabilitated with dental implants, what is the effect of hypertension on the implant failure rates in comparison to normotensive patients?
+Search: electronic search without time restrictions, first undertaken August 2022, last updated October 2023, in PubMed/Medline, Web of Science, Scopus, and Ebsco. Scopus limited to 'Article'. Manual search of dental-implants-related journals plus reference-list checking.
+Inclusion: clinical human studies providing information on implant failure rates in hypertensive and normotensive individuals. Only cases rehabilitated with cylindrical, screw-type, modern dental implants of titanium (c.p.Ti) or its alloys.
+Exclusion: case reports, technical reports, animal studies, in vitro studies, review papers; mini-implants, zygomatic, orthodontic, zirconia, subperiosteal, or hollow implants.
+Quality assessment: NIH Quality Assessment Tool; "good" quality = at least 7 points.
+Definitions: normotension = systolic/diastolic blood pressure lower than 120/80 mm Hg; hypertension = blood pressure equal or higher than 130/80 mm Hg. An implant was considered a failure if signs/symptoms led to implant removal (lost implant); failure could be early (failure to establish osseointegration) or late (failure of established osseointegration or function); a fractured implant was also considered a failure.
+Meta-analysis: implant failure was the dichotomous outcome; statistical unit = the implant. Heterogeneity checked using I2. Inverse variance method used for random-effects (heterogeneity p < 0.10) or fixed-effects model (heterogeneity p >= 0.10). Effect expressed as OR. Meta-regression performed to verify how OR associated with time of follow-up. Funnel plot drawn. Software: OpenMeta[Analyst] and OpenMEE.
+
+3. RESULTS
+Literature search: 889 papers (46 PubMed/Medline, 44 Web of Science, 722 Scopus, 77 Ebsco). After exclusion of 96 duplicates, 693 articles excluded as not related; 34 studies excluded for exclusion reasons. Of remaining 66 full-text reports including hypertensive patients (or patients with cardiovascular disease), authors of 51 studies were contacted up to three times for missing information; authors of 36 publications did not reply (lack of information on number of failures or total implants) and were excluded. 11 studies excluded as they reported "cardiovascular disease" without specifying whether hypertensive patients were included. Hand-searching yielded 10 articles, of which 5 were eligible. Thus, 24 studies were included.
+
+Description: 24 included studies published between 2005 and 2021. Two were multicenter, the other 22 unicenter; 8 prospective, 16 retrospective. Sixteen conducted in a university, seven in private practices, one in dental public service. Mean follow-up +/- SD of 16 studies was 30.0 +/- 21.6 months (min-max, 6-85); for the other 8 studies there was no precise/mean follow-up information.
+
+Considering the studies, there were 4874 implants (257 failures) in hypertensive patients and 16,192 implants (809 failures) in normotensive patients.
+
+Quality assessment: All included studies classified as "good". Main issues: statistical methods not well described, inclusion of non-consecutive patients.
+
+Meta-analysis: A random-effects model was used due to heterogeneity (tau2 = 0.526, Chi2 = 85.063, I2 = 72.961, p < 0.001). The pairwise meta-analysis showed implants placed in hypertensive patients did not have a higher risk of failure than implants placed in normotensive patients: OR 1.100 (95% CI 0.709, 1.707; p = 0.671).
+
+Meta-regression: performed with the 16 studies with clear follow-up data, follow-up as covariate. OR did not significantly change with follow-up time (p = 0.824). Intercept = 0.065 (-0.650, 0.780), SE 0.365, p = 0.858. Follow-up = -0.002 (-0.021, 0.017), SE 0.010, p = 0.824.
+
+Publication bias: funnel plot did not show clear asymmetry, indicating possible absence of publication bias.
+
+4. DISCUSSION
+The null hypothesis was not rejected: use of dental implants in hypertensive patients does not have higher odds of failure than in normotensive patients. This may be surprising given known effects of high blood pressure on bone metabolism and angiogenesis.
+
+High blood pressure elevates angiotensin II, catecholamines, and PTH; sustained PTH elevation increases osteoclast formation/differentiation by upregulating RANKL, contributing to bone resorption. Hypertension is connected to decreased intestinal calcium absorption, increased urinary calcium excretion, and decreased plasma vitamin D, all promoting continuous PTH secretion. Decreased vitamin D inhibits proliferation of vascular smooth cells, vascular calcification, and the renin-angiotensin system. Hypertension may result in low bone turnover, a mechanism leading to osteoporosis. An animal study showed hypertension can alter expression of RANK, RANKL, and OPG and delay socket-bone-healing after tooth extraction. OPG binds RANKL preventing it from binding RANK, inhibiting osteoclast maturation.
+
+Hypertension may also negatively affect microvascular circulation and angiogenesis — loss of capillary endothelium function, constriction of microvessels, microvascular rarefaction in animal models, increasing peripheral resistance and reducing blood flow.
+
+Despite these potential mechanisms, the present results failed to suggest hypertension increases odds of dental implant failure. Unanswered questions remain due to lack of rigor in classifying hypertensive patients, whether patients are properly controlled (proper intake of antihypertensive medication with effective clinical results), and whether patients presented other cardiovascular diseases.
+
+Intake of antihypertensive drugs may counteract negative effects of high blood pressure on bone. Some animal studies suggest antihypertensive drugs may reduce bone loss; some clinical studies show favorable results (slowing cortical bone loss, beneficial skeletal effects) though benefits could be small and observed in elderly/postmenopausal women. Other clinical studies failed to observe benefits or observed negative effects. Studies included in this review did not provide clear information about controlled status of patients and majority included young adults. Current evidence is insufficient to establish causal associations for use of antihypertensive drugs with bone health outcomes.
+
+Limitations: low specificity concerning hypertension and antihypertensive-drug intake; confounding factors (diabetes, smokers, bruxers, radiotherapy/chemotherapy, SSRIs, proton-pump inhibitors, bisphosphonates) that may impact implant failure rates; implants placed by different operators; many retrospective studies with incomplete information; small sample sizes and short follow-up.
+
+5. CONCLUSIONS
+The findings suggest the use of dental implants in hypertensive patients does not present higher odds of failure in comparison to normotensive patients. Further research with more rigorous criteria to diagnose hypertension and clearer information about pharmacological management is needed.
