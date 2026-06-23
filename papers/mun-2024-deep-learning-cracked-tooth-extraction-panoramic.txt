@@ -1,0 +1,99 @@
+Deep learning-based prediction of indication for cracked tooth extraction using panoramic radiography
+
+PMID: 39152384 | PMCID: PMC11328441 | DOI: 10.1186/s12903-024-04721-9
+Journal: BMC Oral Health | Date: 2024-08-16
+First author: Mun
+
+According to PubMed (DOI: https://doi.org/10.1186/s12903-024-04721-9)
+
+=== ABSTRACT ===
+
+Background
+We aimed to determine the feasibility of utilizing deep learning-based predictions of the indications for cracked tooth extraction using panoramic radiography.
+
+Methods
+Panoramic radiographs of 418 teeth (group 1: 209 normal teeth; group 2: 209 cracked teeth) were evaluated for the training and testing of a deep learning model. We evaluated the performance of the cracked diagnosis model for individual teeth using InceptionV3, ResNet50, and EfficientNetB0. The cracked tooth diagnosis model underwent fivefold cross-validation with 418 data instances divided into training, validation, and test sets at a ratio of 3:1:1.
+
+Results
+To evaluate the feasibility, the sensitivity, specificity, accuracy, and F1 score of the deep learning models were calculated, with values of 90.43–94.26%, 52.63–60.77%, 72.01–75.84%, and 76.36–79.00%, respectively.
+
+Conclusion
+We found that the indications for cracked tooth extraction can be predicted to a certain extent through a deep learning model using panoramic radiography.
+
+=== FULL TEXT ===
+
+Background
+
+A cracked tooth is defined as a plastic deformation that appears as a break within the tooth structure without actual separation or loss of hard dental tissue. Cracked teeth can cause pain and structural loss; therefore, early detection is important. Several methods have been proposed for classifying cracked teeth. In the past, the term "cracked tooth syndrome," suggested by Cameron, was used. Subsequently, concepts such as "horizontal," "vertical," or "oblique" were introduced to classify the direction of cracks within the fracture plane of the tooth. The five most commonly used crack entities are enamel craze lines, fractured cusps, cracked teeth, split teeth, and vertical root fracture (VRF). This was suggested by the American Association of Endodontics. However, as cracks are often irregular, defining the directions of their fracture plane is often difficult. According to this classification, cases that required extraction could be classified as VRF.
+
+Various treatment methods are used to manage cracks. The diverse therapeutic measures can be broadly divided into two treatment modalities for monitoring pulpal conditions: single-stage and multi-stage treatment. Single-stage treatments include direct or indirect cuspal coverage restoration, root canal treatment, and extraction. Orthodontic bands are also used in multi-stage treatment.
+
+Several methods have been used to diagnose cracked teeth. First, the clinician gathers the patient's history and examines the tooth surface using magnification, staining, and transillumination. Typically, periapical and/or panoramic radiographs are obtained. The bite test is a standard clinical technique that can reproduce the pain felt during biting. However, the absence of pain during the test does not necessarily guarantee the absence of cracks. Crack lines are often difficult to identify on plain radiography.
+
+A variety of images are used for diagnosis in the field of dentistry. However, despite the advancement of various imaging techniques, diagnosing VRF is not easy. Accurate diagnosis of VRF requires a careful clinical examination, meticulous evaluation of the case, and imaging examination that allows the assessment of both bone and tooth structures. In particular, when the X-ray beam is parallel to the crack line, it is difficult to detect with plain radiographs alone, so cone beam computed tomography (CBCT) is often used. Therefore, diagnosing cracked teeth is not an easy task even for human experts.
+
+Recently, research applying deep learning to dentistry and maxillofacial surgery has been actively conducted. Thus, in some studies, the difficulty of third molar extraction and the possibility of paresthesia following third molar extraction were predicted. Plain radiography alone has demonstrated the capability to predict the osseointegration of dental implants to some extent. Photography and radiography are also used to predict the necessity and outcomes of orthognathic surgery.
+
+Meanwhile, Fukuda et al. attempted to detect VRF on panoramic radiography with an artificial intelligence system. They used DetectNet with DIGITS version 5.0 as a deep learning model. In this study, we sought to determine whether predictions of indications for VRF extraction are possible in various deep learning models. This study focuses specifically on VRF, which represents only a subset of cracked teeth.
+
+Methods
+
+Dataset and data preparation
+
+This study was performed in accordance with the guidelines of the World Medical Association Helsinki Declaration and was approved by our Institutional Review Board. Because this study had a non-interventional retrospective design, and all data were analyzed anonymously, our Institutional Review Board waived the need for individual informed consent.
+
+Panoramic radiographs of 200 patients (113 men, 87 women; age range, 21–89 y) with 418 teeth (209 cracked teeth, 209 normal teeth) who visited our hospital from January 2019 to April 2023 for the treatment of cracked teeth were evaluated for the training and testing of a deep learning model. A single endodontist in the department of conservative dentistry evaluated and diagnosed cracked teeth using the same criteria. He obtained the patient's history and performed periodontal probing, a pulp sensibility test, and a bite test. Periapical and/or panoramic radiographs were also obtained. If necessary, an examination was conducted using a microscope, and a transillumination test was performed. In addition, CBCT was also taken in selected cases with proper indication. Cases requiring extraction due to VRF were selected. Cases selected through this process were referred to the department of oral and maxillofacial surgery for extraction. Then, an oral and maxillofacial surgeon confirmed VRF again through oral examination and plain radiography prior to extraction.
+
+Teeth that had caries, prosthesis, fillings, or previous endodontic treatment other than VRF were excluded as both healthy and VRF-affected. VRFs are generally less prevalent than other conditions in panoramic radiography. To accurately set the ratio to 1:1, normal teeth equal to the number of VRFs from the same patient were used as samples. For example, if a patient's maxillary right first molar was affected by VRF, the patient's healthy maxillary left first molar was sampled as normal teeth.
+
+Panoramic radiographs were obtained in all cases. Panoramic views were obtained using a PCH-2500 (Vatech, Hwaseong, Republic of Korea; current, 10 mA; voltage, 72 kV; exposure time, 13.5 s) or Promax (Planmeca, Helsinki, Finland; current, 12 mA; voltage, 72 kV; exposure time, 15.8 s). Data from panoramic radiographs consisted of a 12-bit DICOM file with a height ranging from 1,316 to 1,504 and a width ranging from 2,570 to 2,872. Group 1 comprised 209 normal teeth without cracks. Group 2 included 209 teeth that required extraction due to cracks.
+
+Preprocessing
+
+The deep learning system consisted of four NVIDIA RTX A5000 GPUs, 250 GB RAM, and 20-core Intel Xeon Gold 5218R CPU (2.10 GHz). The training was performed using Python 3.7.16 TensorFlow 2.6.0 frameworks on Ubuntu 20.04.6. SimpleITK 2.2.1 and OpenCV 3.4.7 libraries were used for data loading and preprocessing.
+
+To construct the learning data, manually numbered tooth polygons and index data for teeth with cracks were collected. Using polygon data collected from the panoramic radiograph data, the individual areas of each tooth were cropped and saved in PNG format. The cropped image was zero-padded to a square to fix the data ratio. Zero-padding images were resampled to 224 × 224 pixels, and all data were normalized to values between 0 and 1.
+
+A model was developed to diagnose cracks in individual tooth areas. Pre-processing was conducted for groups 1 and 2 based on the total data. The training dataset was created by dividing the data from groups 1 and 2 into a 3:1:1 ratio for the training, validation, and test sets. Fivefold cross-validation was performed.
+
+Model implementation
+
+InceptionV3, ResNet50, and EfficientNetB0 were used as two-dimensional classification networks to develop a cracked diagnosis model for individual teeth. InceptionV3 is a network developed by Google that uses filters of various sizes called 'Inception' at once. ResNet50 is a variant of the Residual Network developed by Microsoft Research and is based on residual learning, overcoming the gradient loss problem using residual blocks. EfficientNet is a model proposed by Google that aims to balance network performance and efficiency by adjusting model size using coefficients controlling depth, width, and resolution.
+
+The proposed model was trained for 400 epochs on a single GPU at a learning rate of 1e-5. A mini-batch size of eight was used, and the learning rate was adjusted by periodically monitoring the loss of the validation dataset during training. Adam was selected as the optimization algorithm, and early stopping was applied to prevent overfitting. The mean absolute error was used as a loss function. The models were trained using pre-trained weights on the ImageNet dataset (transfer learning).
+
+Evaluation of the performance
+
+For performance assessment, the classified results were compared using a confusion matrix to calculate TP, FP, TN, and FN. Using the confusion matrix, sensitivity, specificity, accuracy, and F1 score were measured.
+Sensitivity = TP/(TP+FN) × 100
+Specificity = TN/(FP+TN) × 100
+Accuracy = (TP+TN)/(TP+TN+FP+FN) × 100
+F1-score = (2 × Precision × recall)/(precision + recall)
+
+Results
+
+We evaluated the performance of a cracked diagnosis model for individual teeth using InceptionV3, ResNet50, and EfficientNetB0, with fivefold cross-validation. 418 data instances divided into training, validation, and test sets at a 3:1:1 ratio.
+
+Performance evaluation (Table 1):
+                sensitivity   specificity   accuracy   f1 score
+InceptionV3     94.26         52.63         73.44      78.02
+ResNet50        90.91         60.77         75.84      79.00
+EfficientNetB0  90.43         53.59         72.01      76.36
+
+Across models: sensitivity 90.43–94.26%, specificity 52.63–60.77%, accuracy 72.01–75.84%, F1 76.36–79.00%.
+
+AUC-ROC values for all models ranged from 0.80 to 0.82. ResNet50 model exhibited the highest value at 0.82, demonstrating slightly superior performance compared to InceptionV3 and EfficientNetB0. ResNet50 was identified as the most suitable model. Optimal cutoff values were calculated using Youden's Index.
+
+Discussion
+
+We investigated whether cracked teeth requiring extraction (VRF) could be detected using panoramic radiographs alone through deep learning. This study focuses specifically on VRF, which represents only a subset of cracked teeth. Panoramic radiographs obtained using different devices were combined; the authors focused on whether cracked teeth can be detected in various clinical environments.
+
+All models achieved an accuracy of over 72% in cross-validation. Sensitivity is significantly higher than specificity. High sensitivity implies the model is effective in identifying VRF cases, ensuring VRF are not missed. Lower specificity suggests a tendency for teeth without VRF to be misclassified as having VRF (false positives), which can lead to unnecessary additional examinations.
+
+To address these issues, multi-center data training is recommended. VRFs have three-dimensional structures, yet panoramic X-rays represent them as two-dimensional images; this information loss can hinder accurate recognition. Boundaries of VRF can be unclear with low contrast. Building a model with sensitivity of 94.26% based on low-resolution panoramic X-ray images demonstrates clinical utility. While low specificity is a concern, it can help prevent overlooking cracked teeth and serve as a basis for recommending additional CBCT imaging.
+
+Limitations: focused solely on technical aspects of the deep learning model without much insight into clinical implications and patient care; relatively small sample size from a single center. A larger, multi-center dataset would be needed to improve generalizability.
+
+Conclusions
+
+Indications for cracked tooth extraction can be predicted to some extent through deep learning using panoramic radiography, and such predictions are possible in various deep learning models. This is expected to complement currently widely used evaluation methods for cracked tooth diagnosis.
