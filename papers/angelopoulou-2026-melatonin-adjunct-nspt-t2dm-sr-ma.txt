@@ -1,0 +1,87 @@
+PubMed full text — PMID 42278933 | PMCID PMC13257706 | DOI 10.3390/jcm15114071
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC13257706/
+Journal: Journal of Clinical Medicine 2026;15(11):4071 (publication date 2026-05-25)
+Authors: Thaleia Angelopoulou, Yiorgos A. Bobetsis
+Title: Effect of Melatonin as an Adjunct to Non-Surgical Periodontal Therapy on Periodontal and Systemic Outcomes in Patients with Type 2 Diabetes Mellitus: A Systematic Review and Meta-Analysis of RCTs
+
+(Retrieved via PubMed get_full_text_article. According to PubMed; cite DOI https://doi.org/10.3390/jcm15114071)
+
+1. Introduction
+
+Periodontitis is a chronic multifactorial inflammatory disease defined by the progressive breakdown of the tooth-supporting tissues, driven by a complex and dynamic interplay between dysbiotic plaque biofilms and the host's immune response. Periodontitis and type 2 diabetes mellitus (T2DM) exhibit a well-established bidirectional relationship; evidence suggests that individuals with poorly controlled diabetes demonstrate an increased prevalence and severity of periodontitis, whereas periodontitis has been associated with impaired glycemic control and an elevated risk of diabetes-related complications. This reciprocal link can be attributed to shared inflammatory, immunological, and metabolic mechanisms that contribute to the initiation and progression of both conditions.
+
+In T2DM, chronic hyperglycemia promotes the accumulation of advanced glycation end products (AGEs) and enhanced AGE-RAGE binding, leading to elevated levels of oxidative stress and pro-inflammatory mediators, such as TNF-alpha, IL-1beta, IL-6, and PGE. The resulting persistent low-grade systemic inflammatory state, accompanied by impaired host defenses due to dysfunctional neutrophil and macrophage activity, facilitates periodontal inflammation. In addition, collagen degradation, fibroblast dysfunction and diabetes-associated microangiopathy collectively impair periodontal tissue integrity and healing capacity. At the same time, periodontitis has been consistently associated with impaired glycemic control in patients with diabetes; periodontal inflammation facilitates the systemic dissemination of pathogens, endotoxins, and pro-inflammatory mediators, increasing systemic inflammatory burden and oxidative stress and promoting insulin resistance.
+
+Non-surgical periodontal therapy (NSPT), primarily delivered through scaling and root planing (SRP), has been associated with favorable systemic effects and improved glycemic control in patients with T2DM. Numerous adjunctive strategies have been employed to overcome limitations in challenging cases and non-responsive sites, as well as in patients with systemic conditions that adversely affect periodontal healing such as T2DM. Local or systemic delivery of probiotics, antibiotics, and host-modulating agents can be used in conjunction with NSPT.
+
+Melatonin, a hormone regulating circadian rhythms, also has antioxidant, anti-inflammatory, and immunomodulatory functions. Within the oral environment, melatonin is detectable in saliva and gingival crevicular fluid (GCF); decreased melatonin levels have been associated with periodontal inflammation. Melatonin has been used adjunctively with NSPT via local delivery systems (orabase formulations, gels, melatonin-loaded nanoparticles) as well as by systemic administration in the form of oral tablets. Favorable outcomes are attributed to enhancement of antioxidant defense, stimulation of collagen synthesis and angiogenic activity, promotion of osteoblast proliferation/differentiation, and suppression of osteoclast activity. Diabetes has been associated with suppressed melatonin secretion and reduced circulating levels; melatonin supplementation improves insulin sensitivity, reduces systemic inflammation, and attenuates oxidative stress.
+
+Aim: to explore whether melatonin supplementation as an adjunct to NSPT provides additional periodontal and systemic benefits compared with NSPT alone or NSPT plus placebo in patients with T2DM.
+
+2. Materials and Methods
+
+PRISMA 2020. Prospectively registered in PROSPERO (CRD420251155847).
+Review question: "Does systemic melatonin administration as an adjunct to NSPT improve clinical and biochemical periodontal parameters and the metabolic profile of patients with T2DM and periodontitis compared with NSPT or NSPT plus placebo?"
+
+PICOS: P = adults (>=18y) with T2DM + periodontitis; I = systemically administered melatonin (oral tablets) adjunctive to NSPT; C = NSPT or NSPT + placebo; O = periodontal parameters (+ biochemical/systemic); S = RCTs. Minimum follow-up 1.5 months. English only. Exclusions: local melatonin (orabase/gel/nanoparticles), systemic comorbidities beyond T2DM, periodontal Tx within 6 months, smokers, recent antibiotics/anti-inflammatory/antioxidant drugs, pregnant/lactating, in vitro/animal studies.
+
+Databases: PubMed, Web of Science, Scopus, Cochrane Library (through 5 February 2026) + gray literature (Base, ProQuest, ResearchGate, Google Scholar). Two independent reviewers; Cohen's kappa for agreement.
+
+Risk of bias: Cochrane RoB 2. Certainty: GRADE.
+
+Meta-analysis: standardized mean difference (SMD, Cohen's d) with 95% CI, random-effects model, RevMan 5.3. Mean changes (pre- vs post-) extracted. Single follow-up time point (8 weeks post-treatment) pooled. Heterogeneity via Cochran's Q and I-squared (low <25%, moderate 25-50%, high >50%); funnel plot / Egger's where appropriate.
+
+3. Results
+
+3.1 Study Selection
+182 records from databases + 1 from gray literature. After deduplication and title/abstract screening, 13 reports to full-text; 7 excluded (melatonin administration protocol n=1, intervention protocol n=2, population n=3, study design n=1). Cohen's kappa > 0.90. THREE studies in qualitative synthesis. Bazyar et al. results reported across three separate publications; Anton et al. across two papers (different outcomes, same population). Sarac Gul et al. published in one paper but could NOT be meta-analyzed (differences in melatonin supplementation protocol, follow-up duration, lack of exact numerical data). Therefore TWO studies (Bazyar, Anton) pooled in quantitative synthesis (PPD, CAL, HbA1c, hs-CRP, TNF-alpha, IL-6, TAC).
+
+3.2 Study Characteristics
+All RCTs, English, 2019-2024. Total 149 subjects across the 3 included studies; 94 in the 2 pooled trials.
+
+- Bazyar et al. (Iran): double-blind, placebo-controlled RCT. n=44 (1:1 melatonin vs placebo). 8-week follow-up. Eke et al. criteria for mild/moderate periodontitis; ADA guidelines for T2DM. Excluded insulin/immunosuppressive patients. Test group: two 250 mg tablets each containing 3 mg melatonin, once daily 1 h before bedtime x 8 weeks, adjunct to NSPT. (Sample size calculated on IL-6.)
+- Anton et al. (Romania): double-blind, placebo-controlled RCT. n=50 (25 placebo). Mild/moderate periodontitis + T2DM. 8-week follow-up. Same melatonin regimen (two 250 mg tablets x 3 mg, once daily 1 h before bed x 8 weeks). Control = placebo + NSPT. Eke criteria + ADA. Excluded insulin/immunosuppressive. (Power analysis on HbA1c.)
+- Sarac Gul et al. (Turkey): single-blind RCT. n=55. Stage III or IV grade C periodontitis + T2DM (Tonetti et al. 2018 classification; ADA: FBS >=126 mg/dL and HbA1c >=6.5%, or 2-h glucose >=200 mg/dL). Excluded night-shift workers. Melatonin: 250 mg tablets containing 3 mg, once daily 1 h before bed x 30 days, adjunct to NSPT; control = NSPT alone. Follow-up 3 and 6 months. (G*Power on PPD; >=52 required.)
+
+All NSPT = SRP + oral hygiene instructions (OHI). Follow-up 2 months (pooled trials) to 6 months (Sarac Gul). All had ethics approval + informed consent.
+
+3.3 Risk of Bias
+One study (Sarac Gul) "low risk" across all domains. The two pooled trials (Bazyar, Anton) "some concerns" mainly due to inadequate reporting of preregistered protocols.
+
+3.4 Synthesis & Certainty
+
+Periodontal outcomes (clinical):
+- Bazyar (n=44): CAL significantly decreased in both groups at 8 wk; PPD significantly reduced only in test group. Melatonin group greater improvement (p<0.001). BoP/PI no significant change. Test PPD 4.45+/-0.96 -> 2.59+/-1.04 mm (p<0.001); test CAL 3.04+/-0.78 -> 1.59+/-0.59 mm (p<0.001). Placebo PPD 4.54 -> 4.36 mm (NS); placebo CAL 3.00 -> 2.77 mm (p=0.021).
+- Anton (n=50): PPD and CAL decreased significantly only in melatonin group (p<0.001); BoP/PI decreased in both (test p<0.001, control p<0.05). Significant intergroup difference for PPD and CAL (p<0.001) but not BoP/PI. Test PPD 4.65 -> 2.27 mm, test CAL 3.05 -> 1.24 mm (p<0.001); placebo PPD 4.53 -> 4.40 mm, placebo CAL 3.02 -> 2.98 mm (NS).
+- Sarac Gul (n=55): significant improvements in both groups at 3 and 6 months (p<0.05). Melatonin greater reductions in PPD, BoP, GI at 3 months and PI, BoP at 6 months (p<0.05). GCF MMP-8 and RANKL decreased at 3 and 6 mo in both groups; GCF OPG lower only at 6 mo and only in control; RANKL/OPG ratio similar between groups. Melatonin greater reduction in MMP-8 and RANKL at 3 months.
+
+POOLED periodontal (2 RCTs, 8 wk):
+- PPD: SMD = -1.99 (95% CI -2.54 to -1.43, p<0.00001), moderate-to-large effect, moderate heterogeneity I2=48%. Quality LOW.
+- CAL: SMD = -1.49 (95% CI -2.03 to -0.95, p<0.00001), substantial heterogeneity I2=69%. Quality LOW.
+
+Systemic - Glycemic control:
+- Bazyar: HbA1c test 8.64% -> 7.67% (p=0.004 within; mean change test -0.97% vs control -0.18%, p=0.02). FBG nonsignificant decrease.
+- Anton: HbA1c test 7.62% -> 6.28% (p<0.001), greater than placebo (p<0.001).
+- POOLED HbA1c: SMD = -1.15 (95% CI -1.63 to -0.68, p<0.00001), moderate effect favoring melatonin, moderate heterogeneity I2=38%. Quality LOW.
+
+Systemic - Oxidative stress:
+- Bazyar: serum MDA reduced only in melatonin (17.2 -> 16.13 uM, p<0.001; intergroup p=0.008). SOD, GPx, CAT, TAC all increased significantly in melatonin vs control. (TAC 0.289 -> 0.313 mM, p=0.02.)
+- Anton: saliva/serum TAC increased and TOS reduced only in melatonin (p<0.001 / p<0.05).
+- POOLED serum TAC: SMD = 0.08 (95% CI -0.05 to 0.20, p=0.23) NS, considerable heterogeneity I2=83%. Quality LOW.
+
+Systemic - Inflammation:
+- Bazyar: IL-6 (2 -> 1.42 pg/mL, p=0.008) and hs-CRP (2.53 -> 1.6, p=0.017) decreased only in melatonin; intergroup IL-6 p=0.04, hs-CRP p=0.007. IL-1beta decreased only in melatonin (2.41 -> 2.06 pg/mL, p=0.008; intergroup NS).
+- Anton: saliva/serum IL-6 and hs-CRP reduced significantly only in melatonin (p<0.001); TNF-alpha nonsignificant.
+- Sarac Gul: serum IL-1beta significantly lower in both groups at 3 and 6 mo; greater reduction in melatonin at 6 mo (p<0.05).
+- POOLED hs-CRP: SMD = -0.97 (95% CI -1.22 to -0.73, p<0.00001), moderate consistent effect, NO heterogeneity I2=0%. Quality LOW.
+- POOLED serum TNF-alpha: SMD = -0.51 (95% CI -1.92 to 0.90, p=0.48) NS, I2=0%.
+- POOLED serum IL-6: SMD = -5.04 (95% CI -13.97 to 3.89, p=0.27) NS, considerable heterogeneity I2=99%.
+
+4. Discussion
+Adjunctive systemic melatonin + NSPT associated with more favorable periodontal and systemic outcomes than NSPT alone or NSPT + placebo. Significant pooled improvements in PPD, CAL, HbA1c, hs-CRP favoring melatonin; non-significant for TAC, TNF-alpha, IL-6 (high heterogeneity for IL-6 I2=99%). Biological plausibility: antioxidant/anti-inflammatory/immunomodulatory properties, collagen synthesis, angiogenesis, osteoblastic activity, wound healing. Even modest additional periodontal improvement may matter clinically (residual pocket depth/attachment loss = stability/treatment-need indicators); additional HbA1c reduction may be an additive metabolic benefit beyond NSPT.
+
+4.2 Limitations: very small evidence base (only 3 RCTs eligible, only 2 pooled); small cumulative sample; HbA1c meta-analysis on change-from-baseline (no baseline-adjusted estimates); clinical heterogeneity (Bazyar/Anton mild-moderate periodontitis by Eke vs Sarac Gul Stage III/IV grade C by 2018 classification); follow-up 8 wk vs 3-6 mo; control = placebo+NSPT (2 trials) vs NSPT alone (1 trial); 2/3 trials "some concerns" RoB; overall LOW certainty (GRADE). Findings exploratory, not confirmatory.
+Strengths: PICOS, prospective PROSPERO registration, PRISMA 2020, 4 databases + gray literature, RCT-only, dual independent reviewers, RoB 2 + GRADE, both periodontal and systemic outcomes.
+
+5. Conclusions
+Systemic melatonin supplementation as an adjunct to NSPT appears to provide additional benefits in T2DM + periodontitis patients, particularly clinical periodontal improvement (PPD, CAL), glycemic control (HbA1c), and selected systemic inflammatory/oxidative outcomes (hs-CRP). Limited evidence; further well-designed, adequately powered RCTs with standardized protocols and longer follow-up needed.
