@@ -21,6 +21,8 @@ import shutil
 import subprocess
 import sys
 
+REPO_ROOT = "/Users/oracleneo/llm-wiki"
+
 # ── ANSI colors (disabled when not a TTY or NO_COLOR set) ──────────────
 _TTY = sys.stdout.isatty() and os.environ.get("NO_COLOR") is None
 
@@ -93,6 +95,62 @@ def parse_blocks(raw: str):
     return blocks
 
 
+def read_gist(rel_path):
+    """Open the actual file and pull a human-readable (title, one-liner).
+
+    qmd anchors hits on frontmatter lines (:2, :10), so the raw chunk snippet
+    is just YAML. Instead we read the file locally (no tokens) and extract the
+    frontmatter `title:` plus the `## 한줄요약` / `## One-line Summary` body —
+    the actual "what is this page about" line.
+    """
+    full = os.path.join(REPO_ROOT, rel_path)
+    title, gist = "", ""
+    try:
+        with open(full, encoding="utf-8") as f:
+            lines = f.read().splitlines()
+    except OSError:
+        return title, gist
+
+    # ── frontmatter title ──
+    if lines and lines[0].strip() == "---":
+        for ln in lines[1:]:
+            if ln.strip() == "---":
+                break
+            m = re.match(r"\s*title:\s*(.+)", ln)
+            if m:
+                title = m.group(1).strip().strip('"').strip("'")
+                break
+
+    # ── one-liner: prefer Korean 한줄요약, then English One-line Summary ──
+    def section_body(header):
+        for i, ln in enumerate(lines):
+            if ln.strip() == header:
+                buf = []
+                for nxt in lines[i + 1:]:
+                    s = nxt.strip()
+                    if s.startswith("## "):
+                        break
+                    if s in ("", "---"):
+                        if buf:
+                            break
+                        continue
+                    buf.append(s)
+                return " ".join(buf)
+        return ""
+
+    gist = (section_body("## 한줄요약")
+            or section_body("## One-line Summary")
+            or section_body("## Summary"))
+    # overview pages: fall back to first 한국어 핵심요약 bullet
+    if not gist:
+        for ln in lines:
+            s = ln.strip()
+            if s.startswith("> -"):
+                gist = s.lstrip("> -").strip()
+                break
+    return title, gist
+
+
 def score_color(s):
     if s is None:
         return GREY
@@ -115,6 +173,20 @@ def shorten_path(p):
     return p[len("wiki/"):] if p.startswith("wiki/") else p
 
 
+def wrap(text, width, indent):
+    """Soft-wrap text to width, prefixing each line with indent."""
+    words, line, lines = text.split(), "", []
+    for w in words:
+        if line and len(line) + 1 + len(w) > width:
+            lines.append(line)
+            line = w
+        else:
+            line = f"{line} {w}".strip()
+    if line:
+        lines.append(line)
+    return [indent + ln for ln in lines]
+
+
 def render(blocks, max_results, show_snippet, snippet_lines):
     term_w = shutil.get_terminal_size((100, 24)).columns
     out = []
@@ -124,24 +196,24 @@ def render(blocks, max_results, show_snippet, snippet_lines):
         scol = score_color(sc)
         score_txt = f"{sc:>3}%" if sc is not None else "  · "
         path = shorten_path(b["path"])
+        # read the real title + one-liner from the file (local, no tokens)
+        title, gist = read_gist(b["path"])
+        if not title:
+            title = b["title"]  # fall back to qmd's matched section header
         header = (f"{BOLD}{i:>2}{RESET}  {scol}{score_txt}{RESET} "
-                  f"{scol}{bar(sc)}{RESET}  {CYAN}{path}{RESET}{DIM}:{b['line']}{RESET}")
+                  f"{scol}{bar(sc)}{RESET}  {CYAN}{path}{RESET}")
         out.append(header)
-        if b["title"]:
-            out.append(f"      {BOLD}{b['title']}{RESET}")
-        if show_snippet:
-            shown_lines = 0
-            for sl in b["snippet"]:
-                if not sl.strip():
-                    continue
-                text = sl.strip()
-                budget = term_w - 6
-                if len(text) > budget:
-                    text = text[:budget - 1] + "…"
-                out.append(f"      {GREY}{text}{RESET}")
-                shown_lines += 1
-                if shown_lines >= snippet_lines:
-                    break
+        if title:
+            for wl in wrap(title, term_w - 6, "      "):
+                out.append(f"{BOLD}{wl}{RESET}")
+        if show_snippet and gist:
+            budget = term_w - 6
+            wrapped = wrap(gist, budget, "      ")[:snippet_lines]
+            # mark truncation if the one-liner overflowed the line budget
+            if len(wrap(gist, budget, "")) > snippet_lines and wrapped:
+                wrapped[-1] = wrapped[-1].rstrip() + " …"
+            for wl in wrapped:
+                out.append(f"{GREY}{wl}{RESET}")
         out.append("")
     return "\n".join(out)
 
@@ -153,8 +225,8 @@ def main():
                     help="show only top N results (default: all)")
     ap.add_argument("-s", "--search", action="store_true",
                     help="use BM25 `qmd search` (fast, no LLM) instead of `qmd query`")
-    ap.add_argument("--snippet-lines", type=int, default=2, metavar="K",
-                    help="snippet lines per result (default 2)")
+    ap.add_argument("--snippet-lines", type=int, default=3, metavar="K",
+                    help="one-liner lines per result (default 3)")
     ap.add_argument("--no-snippet", action="store_true", help="titles + paths only")
     args = ap.parse_args()
 
