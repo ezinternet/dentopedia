@@ -1,0 +1,92 @@
+Treatments for Recurrent Aphthous Stomatitis: A Literature Review
+D'Amario M, Foffo G, Grilli F, Capogreco M, Pizzolante T, Rastelli S.
+Dentistry Journal (Basel). 2025;13(2):66. Published 2025-01-31.
+PMID: 39996939 | PMCID: PMC11853750 | DOI: 10.3390/dj13020066
+Source: PubMed / PMC full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC11853750/)
+
+ABSTRACT
+Background/Objectives: This literature review aims to provide guidance on the treatment of recurrent aphthous stomatitis (RAS) based on studies published over the past 10 years.
+Methods: This study included randomized clinical trials involving human patients from 2013 and 2023, published in any language. The trials examined both pharmacological and non-pharmacological treatments for aphthous lesions, mainly focusing on the adult population, with pain management as the primary outcome. The research was conducted using PubMed, EMBASE, and CINHAL databases.
+Results: Most of the 45 analyzed studies focused on non-pharmacological therapies, which led to positive results with minimal adverse effects or contraindications, even when compared to cortisone-based treatments. Laser therapy also showed excellent results, particularly in the immediate post-treatment period. Non-pharmacological therapies appeared to offer the best risk-benefit ratio for patients suffering from RAS.
+Conclusions: Treatment should be individualized based on the patient's specific form of RAS, and laser therapy can be used either as a standalone treatment or as an adjunct to other treatments considered in the review.
+
+Keywords: SAIDs, aphthous stomatitis, healing, laser therapy, pain, therapeutics
+
+1. INTRODUCTION
+Recurrent aphthous stomatitis (RAS) is one of the most common conditions affecting the oral mucosa, with an average prevalence of 20% in the population. It is characterized by recurring ulcers in the oral cavity that can persist for several years.
+
+The destruction of the mucosa is driven by a T cell-mediated immune response, leading to the production of tumor necrosis factor-alpha (TNF-alpha), a key inflammatory mediator. This, in turn, triggers cytotoxic T cells (CD8+) which destroy epithelial cells. Although the pathogenetic mechanism is well understood, the precise etiology of RAS lesions remains unknown. Several factors have been proposed as potential triggers. Each of these agents can initiate an immune reaction, resulting in the destruction of epithelial cells and the formation of characteristic ulcers. Additionally, systemic diseases such as Behcet's disease can present as RAS.
+
+There are three clinical variants of RAS, distinguished by the size, number, and duration of the lesions. Regardless of the form, RAS lesions are highly painful, often disproportionately so in relation to their size. This review aims to provide guidance on the treatment of aphthous lesions, whether idiopathic or related to systemic diseases, based on studies conducted over the past 10 years. It will examine both pharmacological and non-pharmacological treatments for RAS in adults, comparing outcomes with those of placebo or untreated groups. The primary focus will be on pain management during ulcer healing.
+
+2. MATERIALS AND METHODS
+2.1. Protocol and Registration. PRISMA reference; PROSPERO registration CRD42023382368.
+2.2. Eligibility Criteria. Only randomized clinical trials with a comparison therapy (placebo or other active substance) were included.
+2.3. Sources of Information. PubMed, EMBASE, and CINHAL databases. Only studies published within the past 10 years (up to January 2023).
+2.4. Research and Selection of Studies. Randomized clinical trial publications from 2013-2023, human patients, any language. Key terms: "treatment", "recurrent aphthous stomatitis", "RAS", "cortisone", "laser", "clorexidine", "complementary therapies". Boolean operators AND, OR, NOT.
+Studies addressing therapies for primary diseases where RAS was a secondary effect were excluded.
+The search yielded 123 studies. After eliminating 28 duplicates, 95 studies remained for evaluation by title and abstract. 47 excluded for not focusing on RAS treatment or pain management. Three additional studies excluded (RAS as part of complex pathology such as Crohn's or Behcet's; polytherapy/single therapy for other conditions affecting healing; or adjuvant to more complex multi-agent therapy). In conclusion, 45 studies met eligibility criteria.
+2.5. Data Extraction. Independently by two authors (first author, publication date, study design, sample size, intervention/comparison, pathological variant, administration method, outcomes). Results analyzed separately for single-blind and double-blind trials.
+2.6. Risk of Bias. Two authors independently assessed selection, performance, detection, attrition, and reporting bias. Cochrane RevMan v5.4.
+
+3. RESULTS
+3.1. Risk of Bias. Low risk for selection, performance, and attrition bias. Detection and reporting bias often unclear. High risk in a few studies, limited to certain parameters. Overall, reduced risk of bias.
+
+3.2. Topical Treatments
+- Bhalang K. et al.: acemannan (Aloe vera extract). Pain relief average score 7.5; control 6.5; corticosteroid group 8.3.
+- Mansour G. et al.: 0.5% extracts of myrrh and Aloe vera, mucoadhesive oral gels. Ulcer size, pain, erythema, exudation on days 4 and 6. Aloe vera: 76.6% complete ulcer healing; 86.7% disappearance of erythema; 80% disappearance of exudation by day 6. Myrrh: 76.7% reported almost no pain on day 6.
+- Bakhshi M. et al.: 1% curcumin nanomicelle gel and 2% plant-based curcumin gel on 48 patients. VAS day 4: 3.75 +/- 0.9 (curcumin gel) vs 2.58 +/- 0.93 (nanomicelle), statistically significant. Both groups reached zero by day 7.
+- Deshmukh R.A. et al.: curcumin vs triamcinolone acetonide (corticosteroid). No statistically significant difference. VAS day 4: 0.4 +/- 0.67 (experimental) vs 0.5 +/- 1.07 (control); day 5: 0.06 +/- 0.20 vs 0.2 +/- 0.61; both zero by day 7.
+- RCT with 125 patients: four products (silver nitrate, propolis, rhubarb extract, walnut extract) vs placebo. Statistically significant symptom resolution, particularly silver nitrate (mean symptom resolution time 1.16 days). No VAS values reported.
+- Ofluoglu D. et al.: glycerol oxide gel (Triester, TGO) as alternative to 0.1% triamcinolone acetonide, with placebo. TGO showed greater reduction in pain on days 2, 4, 6, higher efficacy index, significant lesion size reduction on days 4 and 6.
+
+3.3. Systemic Supplements
+- Hadian Z. et al.: omega-3 supplement. VAS after 3 months: 4.9 +/- 0.96 (test) vs 7.2 +/- 1.39 (placebo). After 6 months: 3.65 +/- 1.78 vs 7.2 +/- 1.36. Significantly better in test group at both intervals.
+- Nosratzehi T. et al.: omega-3 PUFA supplement (50 patients). VAS at 6 months: placebo 4.64 vs test 3.04.
+- El Khouli A.M. et al.: systemic omega-3 (1000 mg soft gelatin capsules). Placebo VAS: 6.76 +/- 3.32 (2mo), 6.40 +/- 3.40 (4mo), 6.60 +/- 4.31 (6mo); test: 5.80 +/- 3.16, 3.04 +/- 2.31, 1.48 +/- 2.31.
+
+3.4. Laser Treatments
+- Prasad and Pai A: single session CO2 laser vs placebo. Pain dropped from pretreatment 8.48 +/- 0.71 to immediately after 0.68 +/- 0.6 (p<0.001), better healing time.
+- Soliman and Mostafaa: low-energy laser (660 nm diode). Day 4 VAS: 91.82 +/- 18.34 (experimental, on scaled index) vs 8.00 +/- 13.98 (control). Day 6 efficacy index 100 in all study cases; control average 48.00 +/- 31.55.
+- Huo X. et al.: laser vs conventional pharmacological treatment. VAS day 1: laser 2.04 +/- 0.44 vs pharmacological 4.85 +/- 0.40. Day 3: 0.60 +/- 0.25 vs 3.00 +/- 0.44 favoring laser. By day 7, near zero and comparable.
+- Bardellini E. et al.: diode laser in 60 children with MiRAS, days 4, 7, 10. Statistically significant from first day (VAS T1: 1 +/- 0.72 intervention vs 3 +/- 1.38 placebo, p=0.0001).
+- Randomized study: low-level laser therapy (809 nm, 60 mW, 1800 Hz, 80 s, 6.3 J/cm2). VAS dropped from 84.7 (day 0) to 31.5 (day 2); placebo minor change 81.7 to 76.1.
+- Yilmaz H.G. et al.: Er,Cr:YSGG laser irradiation. Significant improvement, most notable immediately after treatment (p<0.01).
+
+Both single-blind and double-blind designs published for RAS and mucosal inflammatory RAS (MiRAS).
+
+3.5. Single-Blind Studies
+- Dharmavaram A.T. et al.: ozonized oil, sesame oil, placebo (n=30). Ozonized oil reduced ulcer size, pain, and improved healing; placebo limited.
+- Xue Y et al.: levamisole, prednisolone, placebo (n=350). Both levamisole and prednisolone significantly reduced ulcer number, size, and pain vs placebo; single-blind design introduces observer bias.
+- Soliman and Mostafaa: diode laser significantly reduced pain and ulcer size (n=20, MiRAS).
+- Sharda N. et al.: levamisole, levamisole + low-dose prednisolone, placebo (n=50). Improvements in ulcer pain, number, size, frequency of episodes. Limited blinding could influence subjective outcomes.
+
+3.6. Double-Blind Studies (more reliable)
+- Bhalang K. et al. (n=180): triamcinolone and acemannan in Carbopol vs placebo. Both significantly reduced ulcer size, pain, improved satisfaction.
+- Ofluoglu D et al. (n=180): triamcinolone acetonide gel, TGO gel, placebo. Triamcinolone notably reduced ulcer size and pain vs placebo.
+- Pedersen AML et al. and Hadian et al.: probiotics, omega-3 supplements, placebo. Significant improvements in ulcer healing, pain reduction, frequency; omega-3 and probiotics outperformed placebo.
+- Bakhshi M. et al.: curcumin nanomicelle gel; Tavangar et al.: pomegranate flower gel. Significant reductions in ulcer size and pain vs placebo.
+- Huo X. et al.: diode laser vs triamcinolone. Both effective in reducing pain intensity and promoting healing.
+Double-blind studies offered more reliable evidence (stronger control of observer bias and patient expectations).
+
+4. DISCUSSION
+Pain management was the common parameter across all studies and the primary focus. Among treatments, low-level laser therapy (LLLT) emerged as the most promising approach.
+Among 45 studies: natural-origin materials frequently used; pharmacological evaluations also conducted. Most natural-compound studies showed notable results in pain and lesion size. Aloe vera, curcumin, and propolis stood out; honey, pomegranate, ginger, fenugreek, and ozonated oil also favorable.
+- Bhalang: Aloe vera (acemannan) positive vs placebo, though corticosteroids more effective; Aloe vera a good alternative.
+- Mansour: myrrh performed better than Aloe vera.
+- Bakhshi: both 1% and 2% curcumin effective; 1% curcumin nanomicelle particularly positive.
+- Dharmavaram: ozonated oil outperformed placebo from day 4 (small sample limits generalizability).
+- Omega-3 in three long-term studies (6 months): excellent results without side effects, reducing RAS recurrence (Hadian, Nosratzehi, El Khouli).
+- Other plant-based: ageratin, coriacea, punica, cinnamaldehyde, tobacco leaves studied. Chitosan was the only naturally derived material that did NOT show satisfactory results.
+- Triester glycerol oxide surpassed corticosteroid control, partly due to mucosal adhesive properties (formulation importance).
+- Multiple laser studies all statistically significant. Primary advantage: effectiveness from the first day (also achievable with caustic chemicals such as silver nitrate). LLLT shows rapid pain relief and lesion reduction, no significant adverse effects, non-invasive.
+Main limitations: risk of bias between studies (different patient numbers, age ranges); low amount of data on systemic and other recent local treatments.
+
+5. CONCLUSIONS
+Some compounds already obtainable; others not yet suitable for oral treatments. Results support integration of low-level laser therapy (LLLT) as a viable treatment for RAS, given immediate effectiveness and minimal side effects.
+For clinical use: focus on products with validated formulations from reference trials. Treatment should be specific to the patient's RAS characteristics:
+- Short-term treatments (Aloe vera, hyaluronic acid in mucoadhesive formulas) recommended for minor and infrequent lesions.
+- Long-term treatments (omega-3, probiotics) suggested for recurrent cases.
+- Laser therapy or silver nitrate effective for both forms of RAS, good pain control. Laser offers rapid onset of pain relief, for both acute and chronic cases.
+
+According to PubMed. DOI: 10.3390/dj13020066 (https://doi.org/10.3390/dj13020066)
