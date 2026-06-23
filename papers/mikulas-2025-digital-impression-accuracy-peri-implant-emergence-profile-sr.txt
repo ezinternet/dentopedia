@@ -1,0 +1,95 @@
+Accuracy of Digital Impression Methods for Capturing the Peri-Implant Emergence Profile: A Systematic Review
+Mikulás K, Qian X, Tajti P, Agócs G, Gallucci GO, Pedrinaci I, Hermann P.
+Clinical Oral Implants Research. 2025;36(8):930-943.
+PMID: 40219691 | PMCID: PMC12319379 | DOI: 10.1111/clr.14441
+PROSPERO: CRD42023459484
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12319379/)
+
+=== ABSTRACT ===
+
+Background: Accurately replicating the emergence profile (EP) of conditioned soft tissue is pivotal for the success of implant-supported restorations. In the field of digital technology, various methods have emerged to capture EP. This review aims to critically assess current digital methodologies for capturing peri-implant EP.
+
+Material and Methods: Prospective interventional or observational clinical studies focusing on digitally mapping the emergence profile (EP) around single implant-supported restorations were included. Systematic reviews, in vitro and animal studies, and those not emphasizing EP capture were excluded. A systematic search across four databases (MEDLINE, CENTRAL, Embase, Web of Science) was conducted on 7th August 2024 based on a previously registered protocol (PROSPERO registration number: CRD42023459484). Risk of bias was assessed with RoB 2, ROBINS-I, and JBI critical appraisal tools. Qualitative and quantitative analyses were carried out.
+
+Results: Twenty-four eligible studies were identified, comprising 5 dental techniques, 12 case reports, 1 randomized controlled study, 2 cross-sectional studies, and 4 cross-over studies. The studies reported semi-digital pathways, direct scanning, indirect scanning, coded-healing abutments, and individualized use of scan bodies. Notably, the direct scanning technique showed considerable soft tissue collapse. Similar results can be achieved with indirect scanning and the conventional method.
+
+Conclusions: Indirect EP scanning appears as the most promising method for capturing peri-implant EP. However, a confirmation of this finding requires a quantitative analysis through randomized clinical trials.
+
+=== 1. INTRODUCTION ===
+
+Implant-supported restorations are a well-established option for restoring a single tooth in the esthetic zone, but esthetic success depends on a well-contoured prosthesis blending with adjacent teeth while keeping hard and soft tissues healthy. Achieving a natural peri-implant emergence profile (EP) during the provisional phase is paramount in the esthetic zone. Implant-supported provisional restorations (ISPR) and customized healing abutments help establish the desired EP for the definitive restoration.
+
+Accurately transferring implant positions is pivotal for long-term success and mitigating mechanical/biological complications, but the precise translation of soft tissue information onto the working cast to faithfully reproduce the preestablished EP is challenging. Both analog and digital methods are available. The conventional method (CM) uses elastomeric impression materials with individualized open-tray impression copings — long used but with disadvantages (patient discomfort, extended chairside time). Digital methods replace conventional impressions with intraoral scans (IOS), gaining importance for single-unit restorations.
+
+The scanning procedure for a definitive single-unit restoration involves three distinct scans: (1) initial scan of the ISPR with surrounding soft tissue; (2) direct EP scanning of the peri-implant soft tissue taken immediately after ISPR removal; (3) a scanbody screwed to the implant for precise 3D localization. However, contradictory data exist on digital scanning accuracy of the soft-tissue profile after ISPR removal — ISPR removal can induce considerable, time-dependent alteration in the submucosal contour due to rapid peri-implant soft tissue collapse. The indirect method, involving additional extraoral scanning of the ISPR, has been proposed to eliminate the inaccuracies of direct scanning.
+
+Primary objective: assess the precision of direct and indirect digital impression methods in capturing peri-implant EP compared to the conventional impression around single implant-supported crowns.
+
+Workflow figure (Figure 1):
+- Conventional (A,B,C): customized open-tray impression coping replicating EP → open-tray elastomeric impression with technical analog → epoxy-resin cast with resilient gingival mask.
+- Direct digital (D,E,F): intraoral full-arch scan with ISPR in situ → direct EP scan immediately after ISPR removal (final EP follows soft tissue profile captured here) → register implant position with scanbody.
+- Indirect digital (G,H,I): scan with ISPR in situ → scanbody → extraoral indirect EP scan of the ISPR, overlapped with the in-situ scan to obtain subgingival EP at CAD phase.
+
+=== 2. MATERIALS AND METHODS ===
+
+Conducted per Cochrane Handbook, reported per PRISMA 2020. Registered PROSPERO CRD42023459484 (10 Oct 2023).
+
+PICO: How accurate (O) are direct and indirect digital impression methods (I1, I2) for capturing peri-implant emergence profiles in patients with single implant-supported crowns (P) compared to the conventional impression (C)?
+
+Inclusion: clinical trials, case reports, case series of patients needing implant-supported single restoration(s) describing a method for digital EP replication.
+Exclusion: questionnaires, in vitro and animal studies, systematic reviews, conference abstracts.
+
+Search 7 Aug 2024 in MEDLINE, EMBASE, Web of Science, CENTRAL. Keywords: (dental implant) AND digital AND (impression OR replication OR capturing OR scan*) AND ((emergence profile) OR (soft tissue) OR (peri-implant mucosa)).
+
+Two reviewers (KM, XQ) selected articles. Extracted: first author, year, study type, n participants, implant type/position, phenotype, impression technique, type of cast, IOS applied, definitive restoration, esthetic outcomes, main findings, numerical EP-discrepancy data. Qualitative and quantitative analyses (quantitative details in Appendix).
+
+=== 3. RESULTS ===
+
+24 articles eligible: 5 dental techniques, 12 case reports, 1 pilot RCT, 2 cross-sectional studies, 4 cross-over studies (2 of which pilot studies).
+
+Included (author): Agnini, Canullo, Crockett, da Silva Marques, Dada, Dhingra, Doliveux, Duran, Galibourg, Joda, Joda et al., Lee, Li, Lin, Ling, Liu, Mesquida, Mino, Monaco, Monaco, Tanaka, Xiong, Yilmaz & Abou-Ayash, Zimmermann.
+
+Scanners reported: 3Shape TRIOS (most common), iTero, Carestream CS3600, Cerec Omnicam, Planmeca, 3M ESPE. Implants mostly Straumann, maxillary esthetic zone (positions 11-24), some 36/46/47. Phenotype mostly NR.
+
+3.1 Conventional replication: 4 comparative studies used CM as control (Canullo, da Silva Marques, Duran, Xiong). Canullo: traditional analog impression with customized implant impression coping (CIIC) + indirect EP scanning of provisional crown → full ceramic single crowns; both methods minimal bone loss and esthetic success at 3 years (PES analog 8, digital 9). Da Silva Marques: customized stock impression coping incorporating the well-designed provisional crown impression to replicate EP. Duran and Xiong directly used the provisional restoration to take the impression, poured stone cast immediately. All stone casts scanned for comparison to digital models.
+
+3.2 Semi-digital replication: CM applied at some point; impressions digital but crowns hand-veneered on 3D-printed/milled casts for esthetics. Zimmermann: impression containing ISPR, scanned to replicate submucosal EP contour. Lin: impression with ISPR in situ used as index to create removable resilient gingival mask on milled cast. Doliveux: same but 3D-printed an ISPR replica (avoids holding patient's ISPR).
+
+3.3 Direct scanning: 10 studies — immediate intraoral scanning of soft tissue following ISPR removal (da Silva Marques, Dhingra, Duran, Galibourg, Joda, Li, Ling, Monaco, Xiong, Zimmermann).
+
+3.3.1 Soft tissue collapse in direct scanning: ALL clinical studies reported significant soft tissue collapse immediately after ISPR removal, extent depending on 3D implant position, amount of vertical/horizontal soft tissue, phenotype, implant diameter.
+- da Silva Marques: ~244 μm collapse (vs CM with CIIC; specifically prevented 243.89 μm change). Differences below 1 mm detectable threshold; null hypothesis not rejected (small sample, n=6).
+- Xiong: ~415 μm (414.7 ± 116.0 μm) direct EP scanning vs conventional; IOS+ISPR (indirect) 230.6 ± 85.5 μm vs conventional. Peri-implant mucosa collapsed ~500 μm after 20 s of ISPR removal regardless of phenotype — ISPR crucial to preserving soft-tissue architecture.
+- Li: smaller but significant collapse — immediately ~200 μm, up to ~1 mm at 20 min vs indirect EP scanning. Statistically significant discrepancy 0.08–0.18 mm immediately after ISPR removal (non-keratinized, less rigid mucosa). Papilla/mucosal zenith displacement up to 0.07 mm immediate, 0.27 mm at 20 min (statistically significant but clinically minimal).
+- Galibourg: EP volume decreased over time — 5% at 30 s, 10% at 2 min, 14% at 5 min vs immediate direct scan.
+- Joda: 5.5% deviation at 5 min, 21.7% at 10 min vs immediate direct scan. (Galibourg and Joda 5-min values coherent after conversion to % EP area decrease.)
+- Duran: dimensional changes immediately after ISPR removal vs conventional cast (pick-up impression with patient's ISPR); primarily midlevel gingiva buccolingual, coronal+midlevel mesiodistal; range 0.51 mm (coronal) to 1.35 mm (midlevel). (Larger because they measured whole cross-sectional MD/BL distances incl. mucosa both sides + space between, not inner surface — not comparable to others.)
+- Ling (RCT): definitive crowns from direct vs indirect EP scanning vs original provisional EP. Mean volumetric difference 1.87 mm (direct) vs 0.75 mm (indirect) labially, 1.66 mm (direct) vs 0.65 mm (indirect) palatally — more significant soft tissue collapse in direct scanning (changes not statistically significant within groups). Thickening more prominent apically than coronally. PES: direct 7.89 ± 1.52, indirect 8.09 ± 2.27.
+
+3.4 Indirect scanning: 17 studies — require multiple scans superimposed (Agnini, Canullo, Crockett, Dada, Dhingra, Doliveux, Lee, Li, Ling, Liu, Mesquida, Mino, Monaco, Monaco, Tanaka, Xiong, Zimmermann). Xiong: indirect scanning replicated EP as accurately as CM, with ISPR serving as impression coping. Ling RCT: slight deviations but indirect technique allows acceptable replication of provisional crown's submucosal contour. Canullo: 3-year outcomes of anterior crown made digitally with indirect scanning similar to conventional. Dada: no scanbody — indirect scan with ISPR in repositionable analog (may cause inaccuracies in implant position). Lee: scanbody scan then attempted to scan ISPR in situ continuing extraorally; software struggled with such info (risk of false data). Mesquida: Boolean operation merging indirect EP scan onto EP mapped around scanbody.
+
+3.5 Special scanbodies: 2 studies. Joda et al. customized stock scanbodies (replicates outer contour/margin only, not submucosal EP). Yilmaz & Abou-Ayash: special implant system with coded anatomical stock healing abutments + attachable scanbody (no accuracy measurements reported).
+
+3.6 3D-printed and milled casts: some used virtual models only; others 3D-printed or milled casts for checking/veneering. Doliveux and Lin used provisional crown + elastomeric impression as index for resilient gingival mask. Monaco, Liu, Dada used 3D-printed casts for veneered crowns on zirconia abutments (no resilient gingival masks).
+
+=== 4. DISCUSSION ===
+
+First systematic review aimed at determining the best method for capturing peri-implant EP. Marked heterogeneity in study types.
+
+4.1 Collapse of peri-implant mucosa: Duran reported 0.51–1.35 mm deviation but measured whole cross-sectional distances → larger, not comparable. Joda used conventional impressions (mucosa could be compressed); Li directly scanned mucosa with IOS — different measurement techniques explain differences.
+
+4.2 Conventional vs digital scanning: IOS trueness for soft tissue — Wei et al. ~80 μm labial to natural dentition; Gan et al. trueness 130.54 ± 33.95 μm, precision 55.26 ± 11.21 μm for palatal soft tissue; Deferm et al. trueness 0.02 ± 0.07 mm, precision 80 μm. 3D volumetric accuracy of IOS for soft tissue still needs investigation. da Silva: significant soft tissue differences with IOS (likely collapse without ISPR support); CIIC prevented 243.89 μm change; differences below 1 mm threshold, null hypothesis not rejected (small n). Xiong: greater discrepancy between direct EP scanning (414.7 μm) and conventional, and between IOS+ISPR (230.6 μm) and conventional — attributed partly to silicone gingival mask material in casting. ISPR-as-impression-coping technique impractical for everyday use (cast must be poured immediately to recover ISPR).
+
+4.3 Indirect scanning: enables a predictable definitive restoration in esthetic zone, shortening clinical procedures; no time pressure from soft tissue collapse. Monaco suggested protocolizing (subjective experience, no conclusive evidence per phenotype). Limitations: multiple scan files superimposed; scanner software may struggle with large/complex files (Lee). Ling RCT: direct-scan crowns could not support peri-implant mucosa like ISPRs → significant soft-tissue deviation (decreased vertical, increased horizontal). Accuracy of indirect scanning and similarity of definitive EP to interim restoration still uncertain due to low number of heterogeneous, low-evidence studies.
+
+4.4 Special scanbodies: Joda et al. customized scanbody replicates only outer contour/margin, not submucosal EP. Coded healing abutments allow EP shaping + impression without removing healing abutment (shortens workflow) — promising but limited data.
+
+4.5 3D-printed and milled casts: hybrid workflow with digital impression still needs a physical model for veneering. Lin/Doliveux: resilient EP gingival mask fabrication on milled/printed casts. Tanaka: multilayered zirconia crowns may preclude need for veneering on a physical cast (staining sufficient) → fully digital workflows possible with improved multilayered zirconia esthetics.
+
+4.6 Strengths and limitations: Strengths — pre-established/published methodology, first review on topic. Limitations — limited well-designed studies, high heterogeneity in study characteristics/types, moderate-to-high risk of bias in most studies; planned quantitative analyses not interpretable (published in appendix for transparency). Need more homogeneous studies (phenotype, implant diameter/depth, distance to neighboring teeth, IOS accuracy, measurement programs, IOS protocols) with larger samples comparing indirect scanning to gold standard.
+
+=== 5. CONCLUSION ===
+
+Based on available literature, indirect scanning may be indicated as an optimal digital technique for EP scanning, while direct scanning is less advised due to possible inaccuracies caused by soft tissue collapse when compared to the conventional method. Future well-designed RCTs should focus on the discussed parameters for higher-level quantitative analyses.
+
+Conflicts of interest: none declared.
