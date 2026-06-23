@@ -1,0 +1,134 @@
+The impact of preparation dimensions and material choice on stress distribution in MOD inlays: a 3D finite element study
+
+Authors: Sensen Chen, Ruizhen Chen, Yao Chen, Zhiqiang Zheng, Jie Lin
+Journal: BMC Oral Health 2026;26(1):259
+DOI: 10.1186/s12903-025-07613-8
+PMID: 41519748 | PMCID: PMC12882518
+Publication date: 2026-01-10
+
+== ABSTRACT ==
+Objective: To explore the influence of different inlay materials, depth, and width variations on stress distribution using the finite element method, and to provide a quantitative theoretical basis for the selection of clinical inlay restoration schemes.
+Method: A three-dimensional finite element model of the mandibular first molar was established. The models were organized into four main groups based on the restorative material: Zirconia, Lithium Disilicate (LD), Gold Alloy (GA), and Resin-Based Ceramics (RBCs). Each material group was further divided into nine subgroups, simulating MOD inlay restorations with different preparation parameters: inlay depth (d = 2 mm, 4 mm, or 6 mm) and width (w = 2 mm, 4 mm, or 6 mm). A total of 36 groups of models were constructed. A vertical and oblique static load of 100 N was applied to the occlusal surface, and the distribution characteristics of the maximum principal stress (MPS) under different variable combinations were analyzed.
+Results: The MPS of the four types of inlays were all concentrated on the stress-bearing contact surface and the bottom of the inlays. In terms of materials, under vertical loading, when d = 2 mm and w = 2 mm, the Zirconia group had the highest MPS (143.2 MPa), the RBCs group had the lowest (115.5 MPa), and the values of the LD group (127.9 MPa) and the GA group (128.3 MPa) were between the two.
+Conclusion: According to this finite element study, the stress distribution is influenced by the complex interaction between the material properties and the geometry of the preparation. Moreover, the stress distribution of RBCs is more uniform than that of high-modulus materials. In clinical applications, the restorative materials and preparation parameters should be comprehensively selected according to the conditions of the affected teeth, and the long-term effects still need in-depth research.
+
+== INTRODUCTION ==
+Tooth defects, primarily caused by caries and trauma, compromise dental function and aesthetics. For moderately to extensively damaged teeth, indirect restorations such as inlays and onlays offer superior mechanical properties and marginal adaptation compared to direct fillings. Inlays are conservative intracoronal restorations; onlays provide cuspal coverage for more extensive defects. There is currently no standard on when to design an inlay and when to design an onlay.
+
+The clinical longevity of these restorations is critically dependent on their biomechanical performance. Material selection and preparation dimensions (depth and width) directly influence stress distribution within both the restoration and the remaining tooth structure. Current preparation guidelines often focus on single-factor parameters (e.g., minimum depth 1.5 mm) or generalized recommendations. There is a lack of systematic, quantitative research on how materials with different mechanical properties should be coordinated with specific preparation dimensions to optimize stress distribution in MOD inlays.
+
+FEA enables simulation of stress states under complex conditions. This study selected four restorative materials representing a spectrum of elastic moduli: high-strength zirconia, medium-strength lithium disilicate (LD) and gold alloy (GA), and low-strength resin-based ceramics (RBCs) whose modulus is close to that of dentin.
+
+Hypothesis: both the elastic modulus of the restorative materials and the geometric dimensions (width and depth) of the MOD preparation would have a significant and interactive effect on the stress distribution within the restoration and the surrounding tooth structure.
+
+== MATERIALS AND METHODS ==
+Geometry derived from anonymized CBCT scan of an intact, caries-free mandibular first molar with normal occlusion. DICOM -> Mimics Research 21.0 (threshold segmentation, region growing) -> STL -> Geomagic Studio 2021 (smoothing, repair) -> SolidWorks 2021 (assembly). Model includes enamel, dentin, pulp. Approved by Research Ethics Committee, Fujian Medical University.
+
+Inlay restoration model design: MOD cavity on occlusal surface. Preparation depths d = 2/4/6 mm and widths w = 2/4/6 mm. Resin cement thickness 50 μm (ISO 4049). Four materials: Zirconia, LD, RBCs, GA. Total 36 3D FE models.
+
+Model components: inlay restoration, resin cement, prepared tooth (enamel, dentin), alveolar bone. Alveolar bone simplified to homogeneous cortical cuboid 15 x 16 x 11 mm (no cancellous bone). Meshed in Ansys Workbench 24.0 (ANSYS 2024 R2) using ten-node quadratic tetrahedral elements (SOLID187). Node/element counts ranged from ~1.55M nodes (d2/w2) to ~3.98M nodes (d6/w6).
+
+Material properties (Young's modulus / Poisson's ratio):
+- Zirconia: 210,000 MPa / 0.31
+- RBCs: 37,800 MPa / 0.24
+- LD: 95,000 MPa / 0.21
+- GA: 90,000 MPa / 0.31
+- Enamel: 80,000 MPa / 0.30
+- Dentin: 15,000 MPa / 0.31
+- Pulp: 2 MPa / 0.45
+- Alveolar cortical bone: 13,700 MPa / 0.30
+- Resin cement: 8,000 MPa / 0.30
+
+All materials assumed homogeneous, continuous, isotropic, linear elastic; no relative sliding; small deformation. Boundary: top and bottom of alveolar bone fully fixed, no buccolingual constraint.
+
+Loading: static. (1) Vertical load to center of occlusal surface, total 100 N, central patch. (2) Oblique load at 30 deg to vertical, total 100 N, same central patch.
+
+Primary indicator: Maximum Principal Stress (MPS) on inlays, enamel, dentin. Peak MPS recorded; contour plots analyzed.
+
+== RESULTS ==
+MPS distribution characteristics similar across inlay materials: stress concentration at the force-bearing contact surface and the bottom of the inlay.
+
+Peak MPS values (MPa) for each inlay material — full Table 3:
+Format: Material, Depth, Width | Vertical: Inlay/Enamel/Dentin/RemainingTooth | Oblique: Inlay/Enamel/Dentin/RemainingTooth
+
+ZIRCONIA
+2/2 | V 143.2/35.9/25.3/35.9 | O 127.9/53.8/26.8/53.8
+2/4 | V 109.7/27.4/16.4/27.4 | O 94.4/57.9/30.1/57.9
+2/6 | V 111.8/23.0/17.8/23.0 | O 96.0/54.4/31.1/54.4
+4/2 | V 95.9/25.8/19.1/25.8 | O 95.0/45.0/32.0/45.0
+4/4 | V 72.4/16.3/16.1/16.3 | O 60.8/35.4/32.0/35.4
+4/6 | V 77.7/16.9/17.8/17.8 | O 64.7/40.2/31.9/40.2
+6/2 | V 94.4/18.3/18.8/18.8 | O 110.3/15.1/27.2/27.2
+6/4 | V 78.6/18.8/15.9/18.8 | O 67.4/26.7/34.2/34.2
+6/6 | V 82.5/5.5/17.5/17.5 | O 71.9/10.2/33.4/33.4
+
+LD
+2/2 | V 127.9/39.1/25.1/39.1 | O 111.6/51.9/26.7/51.9
+2/4 | V 94.7/30.9/16.4/30.9 | O 86.7/58.3/30.0/58.3
+2/6 | V 93.2/24.7/17.7/24.7 | O 84.7/57.3/30.9/57.3
+4/2 | V 102.9/27.3/19.0/27.3 | O 104.0/47.8/32.1/47.8
+4/4 | V 78.1/19.8/16.0/19.8 | O 67.4/42.0/31.9/42.0
+4/6 | V 80.8/21.4/17.6/21.4 | O 69.2/47.0/31.7/47.0
+6/2 | V 105.6/25.8/18.4/25.8 | O 109.9/17.6/27.2/27.2
+6/4 | V 82.3/14.1/15.6/15.6 | O 71.6/26.1/34.1/34.1
+6/6 | V 84.1/5.1/17.4/17.4 | O 74.1/11.0/29.4/29.4
+
+GA
+2/2 | V 128.3/40.6/25.1/40.6 | O 108.8/52.1/26.7/52.1
+2/4 | V 83.9/31.9/16.5/31.9 | O 84.0/57.7/30.0/57.7
+2/6 | V 90.7/24.7/17.7/24.7 | O 81.9/56.9/30.9/56.9
+4/2 | V 99.5/27.3/19.0/27.3 | O 96.7/47.6/32.1/47.6
+4/4 | V 77.1/19.8/16.0/19.8 | O 65.5/41.7/31.9/41.7
+4/6 | V 79.9/21.3/17.6/21.3 | O 67.5/46.5/31.7/46.5
+6/2 | V 102.0/26.4/18.4/26.4 | O 102.5/19.7/27.2/27.2
+6/4 | V 81.5/13.7/15.6/15.6 | O 70.0/26.3/34.1/34.1
+6/6 | V 83.2/5.1/17.4/17.4 | O 72.7/11.2/29.4/29.4
+
+RBCs
+2/2 | V 115.5/45.9/25.0/45.9 | O 95.6/56.1/26.6/56.1
+2/4 | V 86.5/31.0/16.4/31.0 | O 76.1/57.4/29.9/57.4
+2/6 | V 84.2/28.3/17.7/28.3 | O 73.3/59.0/30.7/59.0
+4/2 | V 108.6/48.9/18.9/48.9 | O 94.7/48.3/32.2/48.3
+4/4 | V 82.0/23.3/15.9/23.3 | O 70.4/46.2/31.6/46.2
+4/6 | V 82.5/25.0/17.2/25.0 | O 71.2/52.2/31.5/52.2
+6/2 | V 109.3/49.5/17.9/49.5 | O 96.6/35.3/27.1/35.3
+6/4 | V 85.4/11.5/15.3/15.3 | O 73.6/18.8/33.9/33.9
+6/6 | V 84.6/7.1/17.0/17.0 | O 74.6/15.9/29.3/29.3
+
+Stress differences between materials:
+Under vertical load, peak MPS within inlays (at d=2/w=2): Zirconia 143.2, LD 127.9, GA 128.3, RBCs 115.5 MPa. Under oblique load: 127.9, 111.6, 108.8, 95.6 MPa respectively.
+RBCs group generally had the LOWEST internal inlay stress under most parameter combinations; Zirconia had the HIGHEST. Inverse relationship for remaining tooth structure: at d=2/w=2 vertical, remaining tooth MPS highest in RBCs (45.9) and LOWEST in Zirconia (35.9). LD and GA intermediate. Zirconia inlay stress concentrated in the neck (cervical) of the inlay; RBCs stress distribution more uniform.
+
+Influence of depth/width on inlay stress:
+Width effect (vertical): predominant trend — inlay MPS smallest at w=4 mm for most material/depth combos (e.g., Zirconia d=4: w2=95.9, w4=72.4, w6=77.7). Exceptions: LD at d=2 mm lowest at w=6 mm (93.2 vertical, 84.7 oblique).
+Depth effect (vertical): inlay MPS minimized at d=4 mm for many combos (e.g., LD w=2: d2=127.9, d4=102.9, d6=105.6). Exception: Zirconia at w=2 mm minimum at d=6 mm (94.4).
+
+Influence on remaining tooth structure (vertical):
+Width: at d=2 mm, remaining-tooth MPS decreases with increasing width; at d=4 and 6 mm, minimum at w=4 mm. Exception noted for Zirconia at 6 mm depth.
+Depth: remaining-tooth MPS decreases as depth increases. Exceptions: RBCs at w=2 mm and Zirconia at w=4 mm.
+
+Stress under oblique loading:
+Distribution pattern generally consistent with vertical; stress concentrated on loaded contact surface and bottom of inlay. For remaining tooth structure under oblique loading, relationship complex/material-dependent; no universal trend. RBCs: max MPS at d=2 occurs at w=6 (59.0); max at d=6 occurs at w=2 (35.3). Notably, a consistent oblique trend: for any given width, remaining-tooth MPS decreased as depth increased from 2 to 6 mm, across all materials.
+
+== DISCUSSION (key points) ==
+- MPS = maximum principal stress (max tensile / min compressive normal stress); σ1 ≥ σ2 ≥ σ3; used as the key index.
+- Prior work: Yang et al. — MOD cavity generates highest stress vs MO/O; increased cavity depth/width raises stress concentration (excessive prep weakens tooth) — matches the d6/w2 vertical-load case here. Durand et al. — thicker inlay favors stress distribution; low-modulus base raises stress concentration on inner ceramic surface; increasing ceramic thickness favorable. Chen et al. — larger width reduces peak MPS (isthmus as wide as possible). Mei et al. — increasing inlay width increases inlay stress. The present study partially agrees with both.
+- d = 4 mm and w = 4 mm often a favorable configuration for minimizing inlay stress, but trends are material-specific (e.g., LD/RBCs at d=2 lower at w=6; Zirconia at w=2 lower at d=6).
+- MPS minimized at depth 6 mm / width 4 mm in some cases is a "dangerous optimization": forms a deeply embedded rigid core that supports the cusp but severely damages cervical peripheral dentin -> root prone to occult fractures not predicted by the model. For deep preparations, use high-strength material like zirconia (minimum at d=4/w=4) or, preferably, switch to onlay or full-coverage crown for mandatory cuspal protection.
+- Material-stress relationship: high-modulus zirconia bears larger load share -> intensified stress INSIDE restoration but REDUCED stress in surrounding tooth tissue. Low-modulus RBCs (elasticity close to dentin) -> more uniform stress transfer, lower inlay stress but higher stress absorbed by tooth. RBCs wear resistance lower than zirconia — must balance stress distribution vs long-term service life.
+
+== LIMITATIONS ==
+- Simplified alveolar bone; no cancellous bone or periodontal ligament (PDL) -> may overestimate bone-supported stress (authors cite minor PDL/bone differences in FE literature).
+- All materials/tissues assumed homogeneous, isotropic, linear elastic; mainly static loading; oblique analysis limited in scope. Future: dynamic/non-axial loads, mass density.
+- Numerical simulation only — needs in vitro and long-term clinical validation.
+
+== CLINICAL IMPLICATIONS ==
+- Prioritize biomechanical compatibility with dentin over strength alone. RBCs (modulus close to dentin) facilitate uniform stress distribution and reduce tooth-fracture risk — preferred choice.
+- Zirconia restorations may induce high stress concentration at the cervical region -> potentially elevated tooth-fracture risk -> cautious application.
+- Tooth preparation: ~4-mm depth and width often a mechanical advantage for high-modulus ceramics; be aware of exceptions; for RBCs preparation can be more adaptive but avoid excessively deep preparations.
+- Clinical decision pathway: choose restoration by defect depth (inlay for depths ≤ 4 mm, onlay for depths > 4 mm), then select material by remaining tooth structure.
+
+== CONCLUSION ==
+Stress distribution in MOD inlays is not determined by a single geometric parameter; it depends on the interaction between material selection and preparation dimensions. In deep caries / extensive defects, excessively deep inlays cause significant stress concentration — use higher-strength/higher-modulus materials (LD, GA, zirconia) or switch to onlay/full crown. Preparation width must be carefully controlled to prevent stress overload at the tooth neck.
+
+Source: PubMed / PubMed Central. DOI: https://doi.org/10.1186/s12903-025-07613-8
