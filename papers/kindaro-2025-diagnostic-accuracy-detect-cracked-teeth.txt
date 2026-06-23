@@ -1,0 +1,107 @@
+Diagnostic Accuracy of Methods Used to Detect Cracked Teeth
+PMID: 40304312 | PMCID: PMC12042108 | DOI: 10.1002/cre2.70138
+Journal: Clinical and Experimental Dental Research (2025)
+
+ABSTRACT
+
+Objectives
+Cracked tooth diagnosis is challenging due to the unknown diagnostic accuracy of tools, resulting in misdiagnosis and suboptimal treatment outcomes. The primary objective of this study was to determine the diagnostic accuracy of four commonly used visual tests in diagnosing cracked teeth based on clinical appearance, independent of patient symptoms. The secondary objective was to assess if clinical experience influences the ability to accurately identify the presence of a crack. The tertiary objective was to assess the ability of the index tests to accurately determine the location of the crack.
+
+Material and Methods
+The test sample included 30 teeth extracted due to a suspected crack. Index tests included macrophotography, surgical microscope, transillumination, and DIAGNOcam. Microcomputed tomography (micro-CT) served as the gold standard. Four examiners of varying experience assessed images of each tooth paired with each index test. The examiner's findings were compared against micro-CT to determine the diagnostic accuracy of index tests. The relationship between clinical experience and diagnostic accuracy was explored.
+
+Results
+Transillumination demonstrated the highest accuracy (65.3%) and sensitivity (68.8%) for diagnosing cracks. Macrophotography and high-magnification microscope had the highest specificity of 92.9%. Positive predictive value (PPV) was greatest with high-magnification microscope (96.7%). The low-magnification microscope demonstrated the lowest accuracy (52.2%). Intra-rater reliability was moderate to substantial, and inter-rater reliability was fair. Experienced dentists were more accurate in detecting cracked teeth.
+
+Conclusions
+Visual diagnostic methods cannot definitively diagnose cracks. Further studies are required to explore the impact of a combination of tools in diagnosing cracked teeth.
+
+---
+
+1 INTRODUCTION
+
+Cracks are ubiquitous in biomineralised structures subjected to loading. Cracks that extend into dentine are potential portals of entry for microorganisms into the dental pulp. Depending on the demographic observed, the prevalence of cracked teeth can range from 10% to 70% (Krell and Rivera). Although the incidence and prevalence of cracks have historically been greater in restored teeth than in unrestored teeth, recent studies have demonstrated that the prevalence of cracks in unrestored teeth has risen (Yap et al.). It has been reported that approximately 46% of cracked teeth present symptomatically, including pain on biting and release, sensitivity to cold, tenderness to percussion and headaches. However, the symptoms can vary considerably and mimic orofacial pain, headaches and trigeminal autonomic cephalgias. These symptoms are not exclusive to cracked teeth and may suggest other dental conditions, including symptomatic pulpitis, apical periodontitis or occlusal trauma, causing diagnostic difficulties. A recent survey of Australian dentists confirmed that the primary method used to identify cracked teeth is to test for pain on biting, despite evidence that such symptoms are insufficient to exclude other differential diagnoses (Fong et al.). No clinically relevant studies have followed the STARD guidelines for testing the diagnostic accuracy of such tools.
+
+Macrophotography is a more affordable alternative to microscopy and has not been evaluated for diagnostic accuracy at crack detection. Magnification has been proven to increase precision and accuracy; 77% of recently surveyed dentists routinely use magnification. Surgical microscopes provide a standardized way of studying cracks. Fiber-optic transillumination has been adapted as a diagnostic tool for cracked teeth; 57% of dentists were found to use transillumination when a cracked tooth is suspected. Transillumination can emphasize craze lines that do not require intervention. DIAGNOcam (KaVo Dental, Germany) is primarily marketed as a caries detection tool; it uses near-infrared light (850 nm) from two opposing sources to detect cracks, and has a multi-image capture feature (plain, transillumination, fluorescence; fluorescence disabled for crack detection).
+
+For this study, a crack has been defined as a discontinuity in the coronal tooth structure that extends into the dentin. The aim was to investigate the accuracy of macrophotography, a surgical microscope, fiber-optic transillumination (Microlux 2, AdDent Inc.), and DIAGNOcam in detecting cracks that extend past the dentino-enamel junction in posterior teeth.
+
+2 METHODOLOGY
+
+2.1 Ethics and Sample Collection
+A low or negligible risk (LNR) ethics clearance was obtained (project number 2023). 30 teeth that were extracted due to suspected cracks were used. The retention period after extraction varied from 3 to 9 months.
+
+2.2 Study Design and Setting
+This is an ex vivo quantitative diagnostic accuracy study designed with the STARD Guidelines and the QUADAS-2 quality assessment tool as a guideline.
+
+2.3 Data Collection
+All extracted teeth were initially stored in formalin and later transferred to physiological saline; kept hydrated. The individual tooth was placed in silicone putty and mounted in an endodontic sextant in a phantom head on a dental chair. Fiber-optic transillumination and macrophotography images were captured using a Nikon D850 camera and a Nikon 105 macro lens with a 20 mm extension tube. A CJ-Optik Flexion Basic Dental Microscope was used at 0.4x, 0.6x, and 2.5x microscope turret settings, equating to 5.1x (low-magnification), 12.5x (medium-magnification) and 21.25x (high-magnification). The multi-image capture setting was used for DIAGNOcam (fluorescence image not shown to examiners).
+
+Micro-CT images of each tooth served as the gold standard (Skyscan 1272, Bruker; acquisition time 2.68 min, pixel size 0.007 mm, 100 kV source voltage, 100 uA source current, 0.11 mm Cu filter). An endodontist assessed the micro-CT results, blinded to the four examiners' data. Cracks confined to the enamel were ignored. Samples with crack extension into dentine were considered true positives.
+
+A pilot study used 20 sample images. Four examiners were selected: two recent dental graduates with less than 5 years of experience and two senior dentists with over 20 years of experience.
+
+A total of 13 index test images (one macrophotography, two DIAGNOcam, four microscope images, and six transillumination) were captured of each tooth and compiled into a PowerPoint slideshow. Photos were randomized. Two Zoom sessions scheduled 2 weeks apart were hosted per examiner, with 10% overlap to calculate intra-rater reliability. Kappa statistics were used to calculate intra-rater and inter-rater reliability.
+
+2.4 Data Analysis
+Enamel cracks and unsure responses were re-coded to "no crack." Jamovi software was used to perform accuracy, specificity, sensitivity, PPV, and NPV calculations. Fleiss' kappa was used to assess agreement across all four examiners. Location accuracy was calculated as the percentage of correctly identified surfaces (e.g. if micro-CT shows an MODL crack and examiner identifies MO, location accuracy = 50%; no crack identified correctly as no crack = 100%).
+
+3 RESULTS
+
+Of the 30 teeth examined under micro-CT, 80% demonstrated cracks extending past the dentino-enamel junction (i.e., 6 teeth / 20% had no DEJ-crossing crack despite being extracted on crack suspicion).
+
+Transillumination demonstrated the highest accuracy (65.3%) and sensitivity (68.8%). Low-magnification microscope demonstrated a significantly lower accuracy of 52.2% and sensitivity of 48.0%. Macrophotography and high-magnification microscopes had the highest specificity of 92.9%. The high-magnification microscope had the highest PPV (96.7%), followed by macrophotography (96.4%). Transillumination was most accurate, and the low-magnification microscope was least accurate, in identifying crack location.
+
+Table 1 — Accuracy of index tests (% with 95% CI; location accuracy as %):
+- Macrophotography: Accuracy 60.6 (51.7-69.0), Sensitivity 51.9 (41.9-61.8), Specificity 92.9 (76.5-99.1), PPV 96.4 (87.7-99.6), NPV 34.2 (23.7-46.0), Location 51.0
+- Low-Mag Microscope (5.1x): Accuracy 52.2 (43.5-60.8), Sensitivity 48.0 (38.0-58.2), Specificity 64.7 (46.5-80.3), PPV 80.3 (68.2-89.4), NPV 29.3 (19.4-41.0), Location 43.4
+- Medium-Mag Microscope (12.5x): Accuracy 55.1 (46.4-63.7), Sensitivity 50.0 (40.4-59.6), Specificity 79.2 (57.8-92.9), PPV 91.8 (81.9-97.3), NPV 25.3 (16.0-36.7), Location 44.4
+- High-Mag Microscope (21.25x): Accuracy 62.5 (53.8-70.6), Sensitivity 54.6 (44.8-64.2), Specificity 92.9 (76.5-99.1), PPV 96.7 (88.7-99.6), NPV 34.7 (24.0-46.5), Location 49.9
+- DIAGNOcam: Accuracy 64.4 (55.6-72.5), Sensitivity 65.4 (55.4-74.4), Specificity 60.7 (40.6-78.5), PPV 86.1 (76.5-92.8), NPV 32.1 (19.9-46.3), Location 51.5
+- Transilluminator: Accuracy 65.3 (56.3-73.6), Sensitivity 68.8 (58.5-77.8), Specificity 53.6 (33.9-72.5), PPV 83.5 (73.5-90.9), NPV 33.3 (20.0-49.0), Location 54.6
+
+Table 2 — Intra-rater reliability (% agreement, Kappa, p-value), 19 overlapping trials per examiner:
+- Examiner 1: 74% (kappa 0.481, p 0.027)
+- Examiner 2: 79% (kappa 0.596, p 0.005)
+- Examiner 3: 79% (kappa 0.513, p 0.025)
+- Examiner 4: 84% (kappa 0.650, p 0.004)
+Examiners 1, 2, 3 = moderate (0.4-0.6); Examiner 4 = substantial (>0.6).
+
+Table 3 — Inter-rater reliability:
+- Senior dentists (1 and 2): 66% (kappa 0.306, p < 0.001) — fair
+- New dentists (3 and 4): 61% (kappa 0.252, p < 0.001) — fair
+- All dentists (1, 2, 3, 4): 33% (Fleiss' kappa 0.275) — fair
+
+Table 4 — Accuracy by examiner at determining presence of crack (% with 95% CI):
+- Examiner 1: 64.3 (57.2-71.0)
+- Examiner 2: 64.8 (57.8-71.4)
+- Examiner 3 (new grad): 43.2 (36.2-50.4) — lowest
+- Examiner 4 (new grad): 70.4 (63.5-76.6) — highest
+- Experienced average (1 and 2): 64.6 (59.7-69.3)
+- Inexperienced average (3 and 4): 56.8 (51.8-61.7)
+- Chi-square test = 6.54 (p = 0.011); Log odds ratio (Exact) 0.428 (p 0.013)
+
+PPV and NPV were plotted at prevalence rates of cracks ranging from 0% to 100%. High-magnification microscope and macrophotography performed better across a wide range of prevalence; low magnification (5.1x) performed least.
+
+4 DISCUSSION
+
+None of the four tools can consistently and accurately diagnose cracked teeth. Visual aids detect crack location accurately only around 50% of the time vs micro-CT.
+
+Transillumination was most accurate but had high false positives (decreased specificity), likely from highlighting minute physiological craze lines (transillumination was performed from six angles). Clinicians should not solely rely on transillumination. Out of 100 teeth without cracks, transillumination would falsely identify 47 as cracked — risk of overtreatment.
+
+DIAGNOcam had the second-highest accuracy. A prior study (Hausdorfer et al.) reported DIAGNOcam superior to fiber-optic transillumination and microscopy, but used ground sections (less accurate than micro-CT). Light intensity for both DIAGNOcam and transillumination is fixed; manufacturers should consider allowing adjustment.
+
+High-magnification microscopy (21.25x) and macrophotography had high accuracy and PPV. Findings concur with Clark et al. that magnifications greater than 14x aid accurate crack diagnosis. Higher magnifications (21.25x and 12.5x) were ~10% more accurate than 5.1x. Only 25% of dentists use loupes more than 3.5x.
+
+Clinical experience: when images were re-evaluated weeks later, examiners agreed with prior answers only 74%-86% of the time. Experienced dentists (64.6%) were more accurate than inexperienced (56.8%); statistically significant (p = 0.011). Undergraduate endodontic curriculum places limited emphasis on cracked teeth. The European Society of Endodontology position statement (Patel et al.) is noted as promising.
+
+Crack location: crack propagation is nonlinear and multi-dimensional (crack blunting, bridging, micro-cracking). Available tools are vastly inferior to micro-CT at diagnosing location (only 11.1% difference between best tool transillumination and worst low-mag microscope). Clinicians should consider removing existing restorations to better visualize crack location.
+
+Prevalence: both specificity and sensitivity depend on prevalence. High-magnification microscope and macrophotography perform well in both high- and low-prevalence situations. A National practice-based research network study (Hilton et al.) of 2601 cracked teeth over 3 years found only 3% developed a fracture; of 1889 untreated teeth, only 12% showed crack progression. Slow crack advancement and low complication rates, plus inaccurate diagnostics, should encourage minimally invasive management.
+
+5 CONCLUSION
+This study highlighted the deficiencies of visual aids in establishing accurate and reproducible crack diagnosis when used in isolation. Future research should focus on using a combination of diagnostic tools to detect cracks.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
+
+Source: According to PubMed. DOI: 10.1002/cre2.70138
