@@ -1,0 +1,89 @@
+Combined Effect of Abutment Height and Restoration Emergence Angle on Peri-Implant Bone Loss Progression: A Retrospective Analysis
+Misch J, Abu-Reyal S, Lohana D, Mandil O, Saleh MHA, Li J, Wang HL, Ravidà A.
+Clin Oral Implants Res. 2025;36(5):600-612.
+PMID: 39927705 | PMCID: PMC12066925 | DOI: 10.1111/clr.14408
+Source: PubMed Central full text (PMC12066925), https://pmc.ncbi.nlm.nih.gov/articles/PMC12066925/
+
+==== ABSTRACT ====
+Introduction: This study aimed to investigate the combined effect of trans-mucosal abutment height (TmAH) and restorative emergence angle (REA) on marginal bone loss (MBL) around bone-level implants.
+
+Methods: Implant radiographs 12-18 months after crown placement (T0) and at least one year later (T1) were retrospectively analyzed. Sites were separated into four groups: Long/Narrow-Angle (LN) with TmAH > 2 mm and REA < 30°, Long/Wide-Angle (LW) with TmAH > 2 mm and REA ≥ 30°, Short/Narrow-Angle (SN) with TmAH < 2 mm and REA < 30°, and Short/Wide-Angle (SW) with TmAH < 2 mm and REA ≥ 30°. MBL was calculated, and multiple linear regression analysis was performed to control for patient-level and implant/prosthesis-level factors.
+
+Results: 192 implants pertaining to 119 patients were included. Group significantly influenced MBL experience (p < 0.001). Group SW experienced on average 0.48 mm (95% CI: 0.25-0.71, p < 0.001), 0.43 mm (95% CI: 0.18-0.68, p = 0.001), and 0.25 mm (95% CI: 0.00-0.45, p = 0.013) greater MBL compared to Groups LN, LW, and SN, respectively. Group was also a significant factor impacting the development of peri-implantitis (p = 0.041), with Group SW displaying a roughly 4× greater likelihood of having peri-implantitis (PI) diagnosed compared to Groups LN (OR: 4.04; p = 0.091) and LW (OR: 4.19; p = 0.013). Every 1 mm increase in TmAH significantly decreased the likelihood of MBL > 0 mm (OR = 0.63; p = 0.003).
+
+Conclusions: Abutment height > 2 mm may play a role in reducing PI and MBL related to ≥ 30° REA around bone-level implants. REA was found to only be a significant factor when TmAH is less than 2 mm.
+
+==== FULL TEXT (PMC JATS) ====
+
+1 INTRODUCTION
+
+Establishing a stable peri-implant crestal bone level is a requirement to ensure the long-term success of dental implants. Crestal bone remodeling, which occurs following implant surface exposure to the oral environment, is recognized as a physiological rather than pathological process. The formation of a biologic seal between soft tissues and implant components, known as the supracrestal tissue height or supracrestal tissue adhesion (STAd), can be accompanied by marginal bone loss (MBL). This process is distinct from peri-implantitis, an otherwise pathological condition causing progressive bone loss.
+
+Investigations into the factors that influence bone loss around dental implants have identified a significant impact from the height of the prosthetic abutment. When Galindo-Moreno et al. reported this in 2014, they noted that the abutment height (TmAH) was the variable with the most influence on the marginal bone loss at both 6 and 18 months [post-loading], with a TmAH of > 2 mm resulting in significantly less bone loss. Several clinical studies and randomized control trials have since supported the necessity of selecting an appropriate TmAH to accommodate the crown margin while providing sufficient space for STAd formation. While a recent study argued that the vertical mucosal thickness can be a protective factor against a shorter abutment (Linkevicius et al.), the majority of randomized control trials that have controlled for this factor and measured vertical tissue thickness before implant placement have reported that the establishment of STAd is influenced by TmAH regardless of vertical mucosal thickness.
+
+Although initial bone loss is physiologically driven, its rate of progression has been identified as a significant predictor of peri-implantitis development since excessive physiological remodeling may lead to the exposure of the implant's roughened surface and threads, facilitating plaque accumulation.
+
+Prosthetic factors, such as a restoration emergence angle (REA) of > 30°, have been recognized as risk factors for peri-implantitis due to their plaque-retentive nature. A study by Katafuchi et al. reported a 2× greater prevalence of peri-implantitis for bone-level implants restored with emergence angles of > 30° than ≤ 30 degrees; however, there is limited evidence that suggests tissue-level implants may not be affected by the same correlation.
+
+The critical role of abutment height in peri-implant tissue response to restoration emergence angles necessitates further investigation. Apico-coronal implant platform positioning determines the space available for abutment height and influences crown emergence angle. Shallow placement requires shorter abutments and excessive crown emergence, while deeper placement allows for longer abutments and more gradual crown emergence. Considering both prosthetic factors is essential to determine whether the crown emergence or the use of a short abutment impacts disease onset.
+
+Consequently, this study aims to investigate the impact of abutment height on peri-implant bone response to various restoration emergence angles around bone-level implants.
+
+2 METHODS
+
+Retrospective radiographic study, Declaration of Helsinki, IRB HUM00223052 (University of Michigan School of Dentistry). All patients treated with bone-level implants placed and restored at University of Michigan Periodontics, Oral Surgery, and Prosthodontics clinics between January 2012 and December 2020 were screened.
+
+Inclusion: partially edentulous patients receiving ≥1 bone-level implant; periapical radiographs at crown placement, 12-18 months after crown placement (T0), and ≥1-year follow-up after T0 (T1); implant length in chart (calibration); maintenance at UM; patient info on diabetes, smoking, periodontitis history; opposing dentition.
+
+Exclusion: implants placed/restored outside UM; full arch restorations; portion of implant/abutment/crown not visible at T0 or T1; non-diagnostic radiographs; missing data; implant-level fixtures; implants treated for peri-implantitis; tissue-level implants.
+
+Data: age, gender, smoking, diabetes (medical records), number of maintenance visits, periodontitis history (CDC-AAP moderate/severe case definitions per Eke et al.). Implant data: site, jaw, length, diameter, connection type, retention (cement/screw), splinted/non-splinted. Survival from placement to last clinic date. Failure = removed, lost, mobile, or fractured implant.
+
+One calibrated examiner (JM) measured MBL, REA, and TmAH. MiPACS plugin (Medicore Imaging) on axiUm. Implant length used for calibration. Marginal bone levels measured at T0 (12-18 mo after crown) and T1 (>1 yr after T0) on mesial and distal aspects. MBL = difference. Measurements repeated 2× ≥30 days apart, blinded, ICC computed. Differences >0.5 mm resolved with second examiner. Positive MBL (gain) assumed radiographic error, adjusted to no MBL.
+
+PI definition: 2017 World Workshop — progressive bone loss > 0.5 mm + deepening probing depth + clinical inflammation (BOP/suppuration).
+
+Four study groups by radiographically measured TmAH and REA, mesial and distal sites grouped independently:
+- LN (Long/Narrow): TmAH > 2 mm and REA < 30°
+- LW (Long/Wide): TmAH > 2 mm and REA ≥ 30°
+- SN (Short/Narrow): TmAH < 2 mm and REA < 30°
+- SW (Short/Wide): TmAH < 2 mm and REA ≥ 30°
+
+Statistics: primary outcomes mesial and distal MBL (independent). Secondary: implant failure and PI. MBL via simple binary linear regression using Generalized Estimating Equations (GEE) for non-independence; PI via binary logistic regression with GEE (ORs, CIs). Multi-level models for confounders. Significance 5%. Post hoc power 86.2% to detect MBL group differences. STROBE-compliant.
+
+3 RESULTS
+
+3.1 Clinical characteristics: 192 implants, 119 patients, 54 males (45.4%) / 65 females (54.6%), mean age 64.1 ± 11.6 years (range 33-91). 384 sites (mesial+distal): 78 LN, 61 LW, 83 SN, 162 SW. Smoking: non-smoker 66 (55.5%), former 41 (34.5%), current 12 (10.0%). Diabetes yes 20 (16.8%). Periodontitis history yes 63 (52.9%). Total follow-up 7.43 ± 2.73 years.
+
+3.2 Measurement validation: mean MBL T0→T1 = 0.43 (SD 1.09) first measurement, 0.44 (SD 1.08) second; ICC = 0.95.
+
+3.3 Homogeneity: most factors no significant group difference. Significant differences: sector (p=0.049), arch (p=0.034), implant length (p=0.014), connection type (p=0.001) — controlled in multivariate analyses.
+
+3.4 Factors influencing MBL (multivariate GEE, Table 3): significant — radiographic follow-up period (Beta 0.06/yr, p<0.001), implant length (11-12 mm vs <11 mm Beta -0.25, p=0.040), study group (p=0.001), >3 maintenance visits/yr (Beta 0.50, p=0.011). Group betas vs LN reference: LW 0.08 (p=0.444), SN 0.29 (p=0.004), SW 0.48 (p<0.001).
+
+3.5 Group impact on MBL amount: Short TmAH had greater mean MBL than Long; ≥30° REA greater than <30° at similar TmAH. Mean MBL by group: LN 0.26 ± 0.83 mm (95% CI 0.08-0.45), LW 0.27 ± 0.53 mm (0.14-0.41), SN 0.46 ± 0.53 mm (0.34-0.57), SW 0.79 ± 1.02 mm (0.63-0.94). GEE significant univariate (p<0.001) and multivariate (p=0.001).
+Pairwise (adjusted, Table 4): SW vs LN +0.48 mm (95% CI 0.25-0.71, p<0.001); SW vs LW +0.43 mm (0.18-0.68, p=0.001); SW vs SN +0.25 mm (0.00-0.45, p=0.013); SN vs LN +0.29 mm (0.09-0.49, p=0.004); SN vs LW +0.18 mm (-0.04-0.39, p=0.108); LN vs LW no significant difference (0.08 mm, p=0.444).
+
+3.6 Failure & PI factors: only 5 failure cases (inferential stats inapplicable); all failed sites associated with Group SW (9/10 sites SW); mean lifespan of failed implants 7.93 yr; severe peri-implantitis main failure cause. PI predictors (adjusted): history of periodontitis (OR 4.81, 95% CI 1.31-17.7, p=0.018), maintenance visits/yr (OR 2.64, 1.44-4.84, p=0.002), study group (p=0.041); internal hex protective vs external hex (OR 0.17, 0.04-0.79, p=0.024).
+
+3.7 Group impact on PI: PI prevalence 19.3% patient-level (23/119), 18.8% implant-level (36/192). Of total PI cases: LN 11.4%, LW 8.6%, SN 14.3%, SW 65.7%. Intra-group PI rate: LN 13.3%, LW 9.1%, SN 13.2%, SW 25.6%. Study group significant (p=0.041). Pairwise (Table 6): SW vs LW OR 4.19 (95% CI 1.35-13.0, p=0.013); SW vs LN OR 4.04 (0.80-20.3, p=0.091); SN vs LN OR 3.22 (0.28-36.5, p=0.345).
+
+3.8 TmAH vs REA on probability of MBL > 0 mm: prevalence MBL>0 by group LN 35.1%, LW 47.5%, SN 69.9%, SW 67.7%. Multiple binary logistic regression (Table 7): TmAH only significant covariate (OR 0.63, 95% CI 0.46-0.85, p=0.003) — every 1 mm TmAH increase reduces odds of positive MBL ~37%. REA not significant (OR 0.99, p=0.991). Interaction term REA×TmAH not significant (p=0.276). Logistic equation: p/(1-p) = 2.87 × (0.99)^REA × (0.63)^TmAH. Minimum pMBL>0 reached at largest TmAH + smallest REA. When TmAH small, REA has virtually no influence (worst pMBL>0); when TmAH large, REA gains prominence.
+
+4 DISCUSSION
+
+Key finding: regarding MBL, REA ≥ 30° only becomes significant when TmAH < 2 mm in bone-level implants. Implants with TmAH > 2 mm experienced ~4× less peri-implantitis regardless of REA (SW vs LW OR 4.19 p=0.013; SW vs LN OR 4.04 p=0.091). While REA not significant on prevalence of MBL>0 mm, every 1 mm TmAH increase decreased prevalence of MBL>0 by 37%.
+
+Subgrouping TmAH with REA is an important consideration. Majzoub et al. reported significant association between REA and MBL in PI-affected bone-level implants. Yi et al. found 0.56 mm greater MBL in bone-level implants with ≥30° REA but not in tissue-level group — potentially supports that REA only plays a role when TmAH < 2 mm (tissue-level / longer TmAH provides more STAd space). Strauss et al. suggested REA has time-dependent effect (significant first year, gone at 5 years); current study agrees REA does not affect incidence of MBL after first year (logistic p=0.991) but found significant impact on severity (linear models) due to subgrouping.
+
+Interaction interpretation (per model, though interaction term p=0.276): as REA increases, protective effect of longer TmAH diminishes — at REA 20°, 1 mm TmAH increase reduces pMBL>0 by 41%; at 40°, 30%; at 60°, 16%. Effect of TmAH is multiplicative, not additive.
+
+Short abutment (<2 mm) does not allow sufficient space for supracrestal tissue height establishment → increased MBL, exposure of rough surface/threads → plaque accumulation → greater PI risk. Derks et al.: ≤1.5 mm prosthetic-margin-to-crest distance gave 2.3× greater moderate-to-severe PI in Swedish population; current study found more dramatic 4× association. Narrower REA decreases plaque accumulation (Pelekos et al.: increasing emergence angle increases plaque and BOP). Tissue-level implant or bone-level with long transmucosal abutment may protect via improved soft tissue adaptation, greater distance from bone crest to restorative margin (bone coupling — inflammatory lesions farther from bone less likely to cause resorption). Convergent transmucosal contours associated with less MBL than divergent.
+
+Limitations: initial crown emergence level not documented; paradoxical finding that more maintenance visits associated with greater MBL (p=0.011) and higher PI risk (p=0.002) — interpreted retroactively (more bone loss → more maintenance recall, not vice versa); radiographic beam angulation error (mitigated by Rinn-type film holders, well-matched pairs, ICC 0.95); negative bone level changes all counted as MBL. Future: prospective design, 3D imaging, control for initial crown emergence and transmucosal contour.
+
+5 CONCLUSION
+
+Within limitations, abutment height > 2 mm plays a significant role in reducing PI and MBL related to ≥ 30° REA around bone-level implants. REA becomes significant only when TmAH < 2 mm. Probability of MBL > 0 mm inversely related to TmAH and no significant relationship with REA.
+
+Conflicts of interest: none declared.
