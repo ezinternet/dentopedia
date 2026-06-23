@@ -1,0 +1,99 @@
+Comparative analysis of the inflammatory response of human gingival fibroblasts to NeoSEALER Flo and CeraSeal bioceramic sealers: an in vitro study
+Gaafar et al. (2025) BMC Oral Health
+DOI: 10.1186/s12903-025-05692-1 | PMID: 40098184 | PMCID: PMC11917106
+Source: PubMed Central full text (JATS)
+
+== ABSTRACT ==
+
+Background
+Therapeutic quality of endodontic sealers plays a critical role in promoting the success of root canal therapy by blocking entrance of microbes as well as facilitating tissue reparative process. The bioceramic sealers NeoSEALER Flo and CeraSeal have been on the rise owing to their biocompatibility and bioactivity. However, their relations with periapical tissues especially human gingival fibroblasts (HGFs) are still significant determinants of treatment outcomes. This in vitro case intends to analyze the inflammatory reaction of HGFs towards NeoSEALER Flo and CeraSeal bioceramic sealers and AH plus resin sealer as control.
+
+Materials and methods
+HGFs were cultured and treated with eluates of tested sealers at different dilutions; 25%, 50%, 75% and 100%. The extracts were left in incubator for 1, 3, and 7 days. Cell death was determined by the MTT assay, and the secretion levels of pro-inflammatory cytokines such as IL-6, IL-8, and TNF-α, were measured using qRT-PCR. Furthermore, mRNA and protein levels of some inflammatory markers were also estimated by qRT-PCR.
+
+Results
+Analysis of the data showed that NeoSEALER Flo was cytotoxic in a concentration-dependent manner to HGFs, though it appeared marginally more toxic than CeraSeal when tested at the same ratios and same time. The high levels of all the measured pro-inflammatory cytokines in HGFs treated with both sealers at a higher concentration with NeoSEALER Flo showing a more intense effect. Having said so, gene expression profiles endorsed these results by showing that both sealers increase the level of IL-6, IL-8, and TNF-α at the higher concentrations.
+
+Conclusions
+The study indicates that both NeoSEALER Flo and CeraSeal bioceramic sealers activate HGFs inflammatory response with a slight preference for CeraSeal biocompatibility. Therefore, it becomes important and relevant to assess the cytotoxic and inflammatory propensity of various endodontic materials in order to guide enrolment of these endodontic products in clinical practice and improve the quality of endodontic treatment. Subsequent in vivo works should be done to confirm these in vitro findings as well as to examine the chronic effects of sealer-tissue interaction.
+
+== INTRODUCTION (key points) ==
+
+The main objective of endodontic treatment is to avoid the entry of bacteria into the crown and root apex. Endodontic sealers come into direct contact with periapical tissues including the periodontal ligament, so their biological impact must be assessed.
+
+AH Plus is an epoxy-resin root canal sealer, considered the gold standard of resin sealers (minimizes microleakage, adheres to dentin, antibacterial against E. faecalis, minimal polymerization shrinkage).
+
+Calcium silicate-based "bioceramic" sealers interact positively with periapical tissues. CeraSeal (MetaBiomed, South Korea): premixed; 20–30% tricalcium silicate, 1–10% dicalcium silicate (bioactive), 1–10% tricalcium aluminate, 45–50% zirconium dioxide (radiopacifier), thickening agents, PEG. NeoSEALER Flo (Avalon BioMed / Nusmile, USA): premixed; <25% tricalcium silicate, <10% dicalcium silicate, up to 25% calcium aluminate, <6% calcium aluminum oxide (grossite), <5% tricalcium aluminate, 50% tantalite (radiopacifier), <1% calcium sulfate, PEG. NeoSEALER Flo is engineered to promote hydroxyapatite generation.
+
+HGFs are first responders to sealer extrusion and leakage; their inflammatory response must be evaluated for material safety/efficacy.
+
+Aim: investigate HGF inflammatory reactions to NeoSEALER Flo and CeraSeal by evaluating cytotoxicity (MTT) and measuring IL-6, IL-8, TNF-α pro-inflammatory cytokines (qRT-PCR). Null hypothesis: no statistically significant difference between tested sealers.
+
+== MATERIALS AND METHODS ==
+
+In vitro experimental study. Two bioceramic sealers (NeoSEALER Flo, CeraSeal) vs AH Plus resin control on HGFs.
+
+Ethics: approved by IRB of Sinai University Faculty of Oral and Dental Medicine (Kantara, Egypt), approval no. SU.REC.2024 (12). HGFs obtained from VACsera ATCC (HGF-1, ATCC CRL-2014); no human participants. Setting: Department of Endodontics, Faculty of Dentistry, Sinai University, Sinai, Egypt; late 2024, 3-month duration.
+
+Sample size: PASS 15 software, one-sample t-test, alpha 0.05, power 80% → 60 RCS discs, 10 discs per subgroup.
+
+Sealer sample prep: Teflon disks 5 mm × 2 mm; eluates extracted before complete setting. 24 h incubation at 37 °C, 5% CO₂. 10 disks per group UV-sterilized 30 min, then submerged in DMEM + 10% FBS + 1% penicillin-streptomycin. Eluates incubated 24 h at 37 °C, filtered through 0.22 μm syringe filter.
+
+HGF culture: HGF-1 (ATCC CRL-2014); DMEM + 10% FBS + 1% pen-strep; 37 °C, 5% CO₂; sub-passaged at 80% confluence with 0.05% trypsin–EDTA; plated in 96-well dishes at 1×10⁴ cells/well, 24 h adhesion before treatment.
+
+Experimental groups: Group A = AH Plus (control); Group N = NeoSEALER Flo; Group C = CeraSeal. Eluate concentrations 25%, 50%, 75%, 100% (v/v). Cytotoxicity evaluated at extract immersion times of 1, 3, 7 days.
+
+Cytotoxicity: MTT assay. After 1/3/7 days, 20 µL MTT reagent (5 mg/mL), 4 h incubation at 37 °C; formazan dissolved in 100 µL DMSO; OD at 570 nm (ELX-800 ELISA reader). Cell viability % calculated.
+
+Inflammatory cytokines: qRT-PCR for IL-6, IL-8, TNF-α gene expression. RNA isolated with TRIzol; reverse transcription with 1 µg RNA/sample; SYBR green-based qRT-PCR with primers for IL-6, IL-8, TNF-α and housekeeping GAPDH. Relative expression by 2^-ΔΔCt.
+
+QC: contamination control; instruments per manufacturer; all experiments repeated 3 times.
+
+Statistics: SPSS v25.0; Shapiro-Wilk for normality; one-way ANOVA + Tukey post hoc; Kruskal-Wallis for non-parametric + Tukey multiple comparison. Significance p<0.05. Mean ± SD.
+
+== RESULTS ==
+
+CYTOTOXICITY (concentration): Both NeoSEALER Flo and CeraSeal showed concentration-dependent cytotoxicity on HGFs. Viability decreased as eluate concentration rose 25% → 100% (p<0.05). At 100%, NeoSEALER Flo showed 45% reduction in cell viability vs control; CeraSeal showed 35% reduction.
+
+CYTOTOXICITY (time) — Table 2, cell viability (% ± SD):
+Day 1: NeoSEALER Flo 88.78 ± 3.84 | CeraSeal 93.32 ± 2.88 | AH Plus 87.95 ± 5.53 (F=1.402, p=0.317)
+Day 3: NeoSEALER Flo 78.02 ± 1.89 | CeraSeal 82.74 ± 2.56 | AH Plus 77.81 ± 4.49 (F=2.311, p=0.18)
+Day 7: NeoSEALER Flo 71.89 ± 3.44 | CeraSeal 75.43 ± 2.14 | AH Plus 69.80 ± 1.97 (F=3.602, p=0.094)
+All sealers showed minimal cytotoxicity at days 1, 3, 7 (between-group p>0.05). CeraSeal had significantly higher viability than AH Plus on day 7 (Py=0.028). Within-material across-time differences significant (NeoSEALER Flo p=0.002; CeraSeal p=0.0001; AH Plus p=0.006).
+(P1 = day1 vs day3, P2 = day1 vs day7, P3 = day3 vs day7; Px: NeoSEALER Flo vs CeraSeal, Py: CeraSeal vs AH Plus, Pz: NeoSEALER Flo vs AH Plus)
+
+PRO-INFLAMMATORY CYTOKINES (pg/mL) — Table 3 (mean ± SD):
+25%: IL-6 — Neo 50±5, Cera 45±4, AH 65±8 | IL-8 — Neo 40±3, Cera 35±3, AH 55±6 | TNF-α — Neo 30±2, Cera 25±2, AH 35±2
+50%: IL-6 — Neo 90±7, Cera 80±6, AH 110±12 | IL-8 — Neo 70±6, Cera 60±5, AH 90±5 | TNF-α — Neo 55±4, Cera 45±3, AH 65±2
+75%: IL-6 — Neo 120±10, Cera 100±8, AH 140±3 | IL-8 — Neo 100±8, Cera 80±7, AH 120±7 | TNF-α — Neo 75±5, Cera 60±4, AH 90±11
+100%: IL-6 — Neo 150±12, Cera 130±10, AH 190±20 | IL-8 — Neo 120±10, Cera 100±8, AH 140±8 | TNF-α — Neo 90±6, Cera 80±5, AH 100±4
+Higher concentrations elicited greater cytokine production; AH Plus produced the highest cytokine levels (p<0.05). At 100%: NeoSEALER Flo IL-6 150, IL-8 120, TNF-α 90 pg/mL; CeraSeal IL-6 130, IL-8 100, TNF-α 80 pg/mL.
+
+GENE EXPRESSION (fold change, concentration) — Table 4:
+At 100%, relative to AH Plus control:
+NeoSEALER Flo: IL-6 3.5±0.5, IL-8 2.8±0.3, TNF-α 2.2±0.2
+CeraSeal: IL-6 3.0±0.4, IL-8 2.5±0.3, TNF-α 1.9±0.2
+AH Plus: IL-6 4.2±0.8, IL-8 3.2±0.7, TNF-α 2.7±0.6
+(Text states NeoSEALER Flo induced 3.5-fold IL-6, 2.8-fold IL-8, 2.2-fold TNF-α; CeraSeal 3.0-, 2.5-, 1.9-fold respectively. Higher concentrations → greater expression, p<0.05.)
+
+GENE EXPRESSION (fold change, time) — Table 5:
+Day 1: Neo IL-6 1.3, IL-8 1.4, TNF-α 1.4 | Cera IL-6 1.2, IL-8 1.3, TNF-α 1.4 | AH IL-6 1.6, IL-8 1.5, TNF-α 1.7
+Day 3: Neo IL-6 1.6, IL-8 1.7, TNF-α 1.6 | Cera IL-6 1.3, IL-8 1.5, TNF-α 1.5 | AH IL-6 2.7, IL-8 2.6, TNF-α 2.0
+Day 7: Neo IL-6 2.1, IL-8 2.6, TNF-α 1.9 | Cera IL-6 1.8, IL-8 2.4, TNF-α 1.7 | AH IL-6 3.4, IL-8 2.9, TNF-α 3.1
+Substantial variation between sealing materials and control (p<0.05). AH Plus vs both bioceramics significant (p=0.013 and 0.006). Non-significant variation between the two bioceramic sealers (p>0.05). AH Plus showed the most upregulated inflammatory markers; CeraSeal the least.
+
+== DISCUSSION / CONCLUSIONS (key points) ==
+
+Both bioceramic sealers had dose- and time-dependent cytotoxicity on HGFs; NeoSEALER Flo slightly more cytotoxic than CeraSeal. AH Plus (control) had the highest cytotoxic effect and highest cytokine/gene expression. Both bioceramics upregulated IL-6, IL-8, TNF-α with NeoSEALER Flo inducing a stronger inflammatory response than CeraSeal.
+
+Greater cytotoxicity of NeoSEALER Flo attributed to its chemical composition / faster setting kinetics releasing more cytotoxic byproducts; CeraSeal's refined formulation / improved setting reduces solubility and leaching. NeoSEALER Flo may release more calcium ions / reactive species (per Zamparini et al.); CeraSeal may have more balanced ion release.
+
+IL-6 regulates immune status, IL-8 promotes neutrophil migration, TNF-α orchestrates acute inflammatory response. CeraSeal's milder response favors more controlled inflammation and better healing.
+
+Null hypothesis rejected (statistically significant difference among sealers).
+
+Clinical significance: In scenarios needing minimal tissue irritation (apical periodontitis, compromised periapical tissue, high sealer-extrusion risk), CeraSeal may be more suitable due to lower cytotoxicity / inflammatory response. Both bioceramics inherently cytotoxic/pro-inflammatory → careful selection and precise application needed.
+
+Limitations: in vitro only; single cell type (HGFs). Future: longitudinal, in vivo animal models, diverse cell populations (osteoblasts, immune cells), additional bioceramic formulations.
+
+Conclusions: Concentration- and time-dependent cytotoxicity of NeoSEALER Flo and CeraSeal; NeoSEALER Flo slightly more cytotoxic. Both triggered IL-6, IL-8, TNF-α; NeoSEALER Flo a stronger inflammatory response. CeraSeal has a more favorable biocompatibility profile and may be preferable where minimal tissue irritation is critical. In vivo validation needed.
