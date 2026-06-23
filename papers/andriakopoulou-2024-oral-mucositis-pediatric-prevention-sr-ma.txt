@@ -1,0 +1,26 @@
+Title: Prevention and Treatment of Oral Mucositis in Pediatric Patients: Systematic Review and Meta-Analysis of Randomized Controlled Trials
+
+Authors: Chrysi Stefania Andriakopoulou, Christos Yapijakis, Ioannis Koutelekos, Pantelis Perdikaris
+Journal: In Vivo (Athens, Greece). 2024;38(3):1016-1029.
+PMID: 38688628
+PMCID: PMC11059879
+DOI: 10.21873/invivo.13535
+Article types: Journal Article; Meta-Analysis; Systematic Review
+Keywords: Oral mucositis; cancer; children; meta-analysis; review
+MeSH: Child; Humans; Antineoplastic Agents; Disease Management; Honey; Low-Level Light Therapy; Neoplasms; Quality of Life; Randomized Controlled Trials as Topic; Stomatitis; Treatment Outcome
+
+NOTE: PMC full text body was NOT retrieved (full_text field empty from PubMed MCP get_full_text_article). Only the abstract below was available. This .txt is the authoritative captured text for this ingest; Summary/Results are abstract-level only.
+
+ABSTRACT
+
+Background/Aim
+Oral mucositis (OM) is a common and serious side effect of cancer treatment. The incidence of chemotherapy-induced OM in pediatric patients can reach up to 91.5% and has a major impact on patients' quality of life. The aim of the study was to assess the efficacy of current interventions and agents for the management of OM in children undergoing chemo/radiotherapy or hematopoietic stem cell transplantation (HSCT).
+
+Materials and Methods
+A systematic search of randomized controlled trials (RCTs) was conducted in the MEDLINE and Scopus databases from January 2000 until March 2023. Thirty-four randomized studies meeting the inclusion criteria were identified and five RCTs investigating the efficacy of Low Level Laser Therapy (LLLT) intervention or the agent honey were included in the meta-analysis.
+
+Results
+The meta-analysis of two RCTs indicated that topical application of honey on oral mucosa was effective in shortening the mean duration of hospital stay in children with severe OM (MD=-4.33, p=0.002). However, LLLT was not found to be effective for the prevention or treatment of OM grade >=II (RR=0.99, p=0.99). Moreover, the therapeutic application of LLLT did not show significant benefit for lower risk of OM grade >=II (RR=0.48, p=0.58).
+
+Conclusion
+Various interventions and agents were examined in the present study for the management of OM. Honey could be a promising candidate for the treatment of OM in pediatric patients. Further high-quality RCTs are required to enhance our findings.
