@@ -9,6 +9,7 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
 - [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
 - [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
 - [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
@@ -1062,6 +1063,16 @@ tags: []
 - [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — Moura 2020 in vitro 3-way factorial: only HF concentration significant (10% > 5%) for Vita Mark II bond strength after 90 days; etching time and phosphoric acid + NaHCO₃ neutralization both non-significant
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
+- [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
+- [[drug/anticoagulants/xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma]] — Xiang 2026 · sr+ma · 최소출혈 시술(발치 포함) continuous DOAC이 대출혈↓(OR 0.57)이나 RCT만 보면 차이 없음 — 비중단 허용
+- [[drug/anticoagulants/izzetti-2024-doac-bleeding-management-tooth-extraction-prospective]] — Izzetti 2024 · prospective · DOAC 발치(49명/136발치) 출혈 술후1일 46.9% 최고지만 전부 경미·국소지혈로 조절, 중단 불필요
+- [[drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] — Kim 2024 · retrospective · 발치 시 DOAC 유지군 vs 중단군 출혈 차이 없음(4.9% vs 0%, n=293), INR 무관·국소지혈 핵심
+- [[drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant]] — Al-Suliman 2025 · prospective · 항응고 환자 발치 분악시험(40명/80소켓): Surgicel이 Gelfoam보다 지혈·지연출혈·치유·통증 모두 우수
+- [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — Hamadé 2024 · sr+ma · 24편·임플란트 21,066개: 고혈압은 임플란트 실패 위험 증가 없음(OR 1.10, p=0.671)
+- [[drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol]] — Perozo 2026 · retrospective · 고혈압 구강수술 기저혈압이 혈역학 변동 최대인자·출혈 7배↑; 3단계 Perozo 프로토콜 제안(미검증)
+- [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — Yang 2025 · retrospective · 고혈압 발치 2,059건: 8.0% 혈압강하제 필요(술전 SBP≥159 AUC0.91), 37.2% 일과성 부정맥(전부 비치명적)
+- [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — Liu 2024 · retrospective · 임플란트 동기 골증대 728명 중 26.8% 围术期 고혈압; 남성·60세↑·수술60분↑ 위험(술식별 상이, abstract-only)
+- [[drug/systemic-disease/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — Guadarrama Bello 2026 · narrative-review · 당뇨·골다공증이 임플란트 주위 골치유를 손상시키는 기전 + 티타늄 표면처리 회복 전략
 - [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — Low 2026 · cross-sectional · 싱가포르 치과의사 280명: 적절 처방률 6.5~97.7%(치주·구강외과 최저), 사랑니(71%)·임플란트(74%) 예방적 항생제 과처방
 - [[drug/antibiotics/kinzel-2026-german-dentists-prophylactic-antibacterial-risk-groups]] — Kinzel 2026 · cross-sectional · 독일 치과의사 537명: 심내막염·면역억제군만 예방투여 양성 trend, 당뇨·관절치환은 음성, 전군 아목시실린·클린다마이신
 - [[drug/antibiotics/nazari-2026-general-dentists-antibiotic-prescription-endodontic-shiraz]] — Nazari 2026 · cross-sectional · Shiraz 일반의 103명: 근관 항생제 지식 중상이나 면역저하 환자 69.9% 부적절 처방 등 과잉처방, 84.5% 가이드라인 무인지
