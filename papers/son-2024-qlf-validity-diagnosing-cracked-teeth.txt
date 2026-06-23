@@ -1,0 +1,87 @@
+Investigation of validity and inter examiner agreement of quantitative light induced fluorescent images in diagnosing cracked teeth
+
+PMID: 39738743 | PMCID: PMC11685572 | DOI: 10.1038/s41598-024-83803-8
+Journal: Scientific Reports | Published: 2024-12-30
+Source: PubMed Central full text (JATS)
+
+ABSTRACT
+
+The images of the Quantitative Light induced Fluorescent (QLF) device, which provides both natural color images similar to those from intraoral cameras and fluorescent images using 405 nm light in a single shot, were evaluated for the validity and inter examiner reliability in detecting tooth cracks. QLF images of 26 cracked teeth before and after removing crack lines were taken. Two examiners assessed the QLF images before removing the crack line with natural color images, fluorescent images, and combination images showing both images simultaneously, and recorded the crack's location after observing images. The reference standard of the crack's location was established by a trained dentist based on QLF images after removing the crack line. The agreement between examiners and the reference standard of the crack line was calculated by kappa value. Inter examiner agreement of natural color images showed at 0.394, while fluorescent and combination images showed at 0.449 and 0.493. Compared with the reference standard, the combination and fluorescent images showed higher agreement at 0.742 and 0.662, while the natural color images showed the lowest agreement, at 0.164. Determining crack location using only natural colored QLF images is challenging, but fluorescent and combination images improved agreement between examiners and the reference standard.
+
+INTRODUCTION
+
+The American Association of Endodontists recommends starting the diagnosis of cracked teeth with a patient interview, followed by clinical examinations, such as visual inspection, bite tests, periodontal probing, and pulp vitality tests. The location of the cracks is confirmed by removing the old restorations or opening the gingival flap to observe the root and adjacent alveolar bone. These processes indirectly aid in estimating the extent of damage to the hard dental tissue and pulp vitality due to tooth cracks.
+
+However, early microcracks may not be easily diagnosed, and no consistent global diagnostic method currently exists for accurately predicting their location and depth. Among the various clinical examinations for diagnosing cracked teeth, visual inspection, encompassing tooth surface observation, crack detection, and determining the direction and depth of cracks is recommended. Visual information obtained from visual inspection helps identify the presence and location of cracks. Tools that magnify teeth, such as microscopes and intraoral scanners, images obtained through transillumination, and cone beam computed tomography (CBCT) are used for diagnosis. In particular, various optical technologies have introduced non-invasive diagnostic methods that utilize optical properties.
+
+The intraoral capture-type QLF device provides a natural color image similar to that of an intraoral camera, and a fluorescence image using 405 nm blue light in a single shot. The natural color image offers an enlarged view of the oral cavity, facilitating observation of the teeth. The fluorescent image reveals a loss of fluorescence due to light scattering in the microscopic gaps of the hard tissue caused by tooth cracks, while also showing red fluorescence in response to metabolic products produced by microorganisms that have penetrated the microscopic gaps. This fluorescent response has been used to obtain imaging information on the location of tooth cracks and microbial infiltration. It has been reported that these can effectively detect crack lines on the tooth surface, around restorations, and within cavities after restoration removal.
+
+However, prospective clinical studies on the validity and reliability of diagnosing teeth with cracks using QLF images are lacking. This study aimed to evaluate the inter-observer agreement and agreement with the reference standard when using QLF images taken with an intraoral capture-type QLF device to determine crack lines in teeth with cracks. Additionally, this study investigated the usefulness of natural color images, fluorescent images, and combination images presenting both images provided by the QLF device in diagnosing the locations of crack lines.
+
+RESULTS
+
+57.7% of the participants were female. The most common age group was 50-59 years, accounting for 42.3% of patients. The maxillary first molar was the most common target tooth (11 of 26 teeth), followed by the mandibular first, mandibular second, and maxillary second molars.
+
+Among the 26 teeth, four had no restorations. For those with restorations, gold was the most commonly used restorative material (38.5%), followed by composite resin (23.1%) and amalgam (9.2%). Teeth diagnosed with irreversible pulpitis were the most frequent (69.2%), followed by those with pulpal necrosis (19.2%) and reversible pulpitis (11.5%). The types of restorations were as follows: class I, 53.8%; class II, 30.8%; and no restoration, 15.4%.
+
+Inter examiner agreement (kappa, examiner A vs B):
+- Natural color image: 0.394 (lowest)
+- Fluorescent image: 0.449
+- Combination image: 0.493 (highest)
+
+Agreement with reference standard:
+- C-R group (combination vs reference): 0.742 (substantial, highest)
+- F-R group (fluorescent vs reference): 0.662 (substantial)
+- N-R group (natural color vs reference): 0.164 (slight, lowest)
+
+Agreement by crack-line location (five occlusal zones: central, mesial, distal, buccal, lingual):
+- N-R group: lingual cracks lowest at 0.283; mesial cracks highest at 0.615.
+- F-R and C-R groups: mesial cracks 0.923 each.
+- C-R group: lingual cracks perfect agreement 1.000.
+
+Results by restoration material (true vs false):
+- N-R group: 6 of 26 true, 20 false. Among false, 19 underestimated, 1 overestimated (more than one tooth overestimated). Gold group had highest number of underestimations (seven teeth).
+- F-R group: 18 of 26 true. Among false, 5 overestimated, more than underestimated (underestimated vs overestimated = 3:5).
+- C-R group: 20 teeth true, gold group highest number of true cases. Among false, 4 underestimated, 2 overestimated. Overestimated cases highest in gold group.
+
+Results by presence/absence of restoration:
+- N-R group: false more frequent than true; all 4 teeth without restorations judged false (100% false).
+- F-R group: all 4 teeth without restorations judged true (100% true).
+- C-R group: 20 teeth judged true, of which 17 had restorations; without restoration 75% true.
+
+DISCUSSION
+
+The QLF device provides both natural color image (like a general intraoral camera) and a fluorescent image generated by 405 nm light in a single capture. The crack lines in fluorescent images are depicted as red autofluorescence, reflecting the fluorescent response to specific metabolites produced by microorganisms that penetrate micro gaps of tooth cracks.
+
+Cohen kappa interpretation: <=0 no agreement, 0.01-0.20 none to slight, 0.21-0.40 fair, 0.41-0.60 moderate, 0.61-0.80 substantial, 0.81-1.00 almost perfect.
+
+Inter examiner agreement: natural color lowest 0.394 (fair); fluorescent 0.449 and combination 0.493 (moderate). Vs reference standard: C-R 0.742 highest (substantial), F-R 0.662 (substantial), N-R lowest 0.164 (slight). Natural color images can be adversely affected by angle to tooth surface, fog, restorative materials, and saliva on tooth surface, making it challenging to accurately determine crack location using natural color image alone.
+
+Fluorescence images advantageous for distinguishing lingual cracks (far from camera lens) and mesial cracks (close). Fluorescent images created by filtering fluorescent reactions through a special filter when 405 nm visible light transmits through hard tooth tissues; red fluorescence provides positional information on micro tooth cracks infiltrated by microorganisms and shows crack lines more clearly via light transmission.
+
+Surface dryness, tooth material, and restoration cause light interference and reflection affecting LED light. Light reflection from gold-restored tooth seen in natural color image but reduced in fluorescence. In F-R group, fluorescent images can contribute to overestimated crack-line readings. In C-R group, combined fluorescent and natural color images provide higher proportion of true readings (76.9% true) than each image presented independently.
+
+Crack lines were confused with original anatomical grooves in cases with no restorations. The type and material of restorations affected interpretation of QLF images. Findings consistent with previous reports showing higher incidence of cracked teeth with Class I and non-bonded restorative materials.
+
+METHODS
+
+Teeth selection and QLF image capturing:
+Prospective clinical trial following STARD 2015 guidelines. Examined 81 teeth from 59 patients at Department of Conservative Dentistry, university dental hospital. Approved by Pusan National University IRB (PNUDH-2021-006-MD); followed Declaration of Helsinki. Single dentist recruited subjects and captured QLF images. Teeth with cracks observed via microscopic inspection (after assessing chewing pain patterns from interviews) included. All samples radiographically examined. Teeth diagnosed with cracked tooth or pulpitis via clinical exams including biting tests and pulp vitality (hot/cold) tests (n=37). Among them, 26 teeth with crack lines requiring removal of existing restorations or root canal treatment based on pulp diagnosis were finally selected.
+
+26 teeth imaged using Q-ray penC (AIOBIO, Seoul, Korea) per manufacturer manual; natural color and fluorescent images for each tooth. QLF images of tooth interior also acquired after removing superficial crack lines or old restorations.
+
+Establishing reference standard and image interpretation:
+An experienced dentist recorded crack-line locations in 26 teeth by comparing QLF images before and after removing crack lines/restorations, differentiating cracks from anatomical grooves or superficial craze lines. Crack location recorded by dividing occlusal surface into five zones: central, mesial, distal, buccal, lingual.
+
+Two first-year residents from Conservative Dentistry reviewed image interpretation. Pre-training and education on interpreting QLF images provided (method/principles of capturing, how to interpret natural color and fluorescent images). Natural color, fluorescent, and combination images of 26 teeth (before crack-line/restoration removal) provided independently to examiners A and B at intervals of one day. Examiners identified presence of crack lines in each occlusal zone, differentiating anatomical grooves, craze lines, restoration margins; 'X' mark if no crack detected. After independent evaluations, the two examiners discussed image interpretations and derived final interpretation results for natural color, fluorescent, and combination images for each of the 26 teeth.
+
+Statistical analysis:
+Inter examiner agreement between A and B for natural color, fluorescent, combination images (each n=26). Agreement between final reading after discussion of each image and reference standard for crack location analyzed. N-R: natural color vs reference (n=26); F-R: fluorescent vs reference (n=26); C-R: combination vs reference (n=26). Kappa index used. Agreement results evaluated as true or false; if false, further classified as overestimated or underestimated based on number of crack lines. Cross-analysis on N-R, F-R, C-R groups by material and presence of restorations. All data analyzed using SPSS version 20 (SPSS Inc., Chicago, IL, USA).
+
+LIMITATIONS
+
+A W block (AIOBIO, Seoul, Korea) applied to anterior teeth to assist mouth opening during shooting without a rubber dam. Influence of fog inside mouth; shooting angles did not always match perfectly due to patient's oral condition. Only 26 teeth analyzed, which may affect statistical power of inter-observer agreement. Natural color images from Q-ray penC did not provide high-resolution images such as those from a DSLR camera.
+
+CONCLUSION
+
+Diagnosing crack lines using fluorescent images from a QLF device was closer to the reference standard than using natural color images alone, and combined information from natural color and fluorescent images showed substantial agreement. The type and material of restorations affected interpretation of QLF images. QLF images, including fluorescent images, provide reliability and validity for the location detection of tooth crack lines.
