@@ -1,0 +1,54 @@
+Effect of rotary and reciprocating instrumentation kinematics on postoperative pain following endodontic retreatment: a systematic review
+
+Singh P, Bhatnagar A, Alam S, Rathore K. Journal of Dental Anesthesia and Pain Medicine. 2026;26(3):185-198.
+PMID: 42266423 | PMCID: PMC13243737 | DOI: 10.17245/jdapm.2026.26.051
+PROSPERO: CRD420261325110
+
+ABSTRACT
+This review aimed to systematically evaluate whether rotary or reciprocating nickel-titanium instrumentation systems influence postoperative pain after nonsurgical endodontic retreatment. Conducted per PRISMA 2020, registered in PROSPERO. Electronic search of PubMed, Scopus, Web of Science, Embase. RCTs comparing rotary and reciprocating systems for nonsurgical endodontic retreatment reporting postoperative pain outcomes were included. Risk of bias assessed using Modified Cochrane RoB-2. Due to clinical and methodological heterogeneity, qualitative synthesis was performed. 194 records identified; five RCTs fulfilled inclusion criteria. Most studies reported no statistically significant differences in incidence or intensity of postoperative pain between rotary and reciprocating retreatment systems at 24, 48, and 72 h. However, one RCT reported significantly higher early postoperative pain with the reciprocating system than the rotary system during the initial postoperative period, with no significant difference at longer follow-up. No significant differences in analgesic intake between rotary and reciprocating kinematics. Rotary and reciprocating instrumentation systems appear to produce comparable postoperative pain following nonsurgical endodontic retreatment; discomfort is generally mild, decreases over time, and does not demonstrate consistent dependence on instrumentation kinematics.
+
+INTRODUCTION
+Root canal therapy seeks to reduce intracanal microbial load via removal of pulp tissue, infected dentin, necrotic debris, organic remnants. Postoperative pain/swelling following root canal procedures remains a clinical challenge. Nonsurgical endodontic retreatment pooled success 76.7-77.8%. During nonsurgical retreatment, debris, residual filling materials, irrigants, remaining pulp tissue, and microorganisms may be extruded beyond the apical foramen. Apical extrusion associated with periradicular inflammation, postoperative pain, flare-ups, delayed healing. Extent of apical debris extrusion varies by instrumentation system. NiTi instruments operate via continuous rotation (uninterrupted 360 deg single direction), reciprocation (alternating CW/CCW), or hybrid. Martins et al. SR+MA: reciprocating associated with reduced frequency of postoperative pain vs rotary. da Silveira et al.: rotary associated with lower severity of postoperative pain. Some studies: no significant difference. No prior SR has exclusively evaluated instrumentation kinematics on postoperative pain in RETREATMENT. Retreatment findings cannot be extrapolated from primary treatment (filling material removal, increased debris extrusion risk).
+
+METHODS
+PRISMA 2020. PROSPERO registered.
+PICO: P = patients undergoing nonsurgical endodontic retreatment; I = reciprocating NiTi; C = rotary NiTi; O = incidence and intensity of postoperative pain.
+Eligibility: RCTs on humans comparing reciprocating vs rotary NiTi during nonsurgical retreatment of permanent teeth with clearly described pain assessment. Excluded: non-English, follow-up <48h, no full text, lab/animal/case-report/review.
+Databases: PubMed/MEDLINE, Scopus, Embase, Web of Science. Published Feb 25 2016 - Feb 25 2026.
+Two reviewers (PS, AB) independent search/selection/extraction; third reviewer (SA) verification.
+Risk of bias: Modified Cochrane RoB-2 (randomization, deviations from intended interventions, missing outcome data, measurement of outcome, selection of reported results). Categorized low / some concerns / high.
+Data synthesis: qualitative narrative synthesis due to clinical/methodological heterogeneity (VAS, NRS, verbal rating scale; differing timing/reporting). No meta-analysis. GRADE used for certainty.
+
+RESULTS
+Search: 194 records (PubMed 66; Scopus 81; Embase 12; Web of Science 35). 78 duplicates removed; 116 screened by title/abstract; 108 excluded; 8 full texts assessed; 3 excluded (ineligible design or different comparator). Five RCTs included.
+
+Population: 5 RCTs, 554 participants. One in Brazil, remainder in Turkiye. Tooth types: single-rooted anterior, mandibular premolars, combination maxillary/mandibular. All teeth required nonsurgical retreatment due to post-treatment endodontic disease. Radiographic criteria varied (chronic apical periodontitis; PAI > 4; asymptomatic with PAI > 2). Three trials enrolled asymptomatic patients; two included with and without preoperative pain. Most excluded systemic disease, recent analgesic intake.
+
+Intervention: Four studies compared rotary vs reciprocating; one also compared with hand-file instrumentation.
+Rotary systems: Mtwo retreatment files, ProTaper Universal Retreatment files, Hyflex EDM, One Shape, Revo-S, One Curve Mini.
+Reciprocating systems: Reciproc, Reciproc Blue, WaveOne Gold, WaveOne, One RECI.
+One study used hand SS files as comparison.
+All used electronic apex locators + radiographic working length. NaOCl primary irrigant (most 2.5%; one 5.25%). Final irrigation 17% EDTA.
+Most single-visit; one two-visit with calcium hydroxide intracanal medicament.
+
+Outcome assessment: Postoperative pain primary in all. Tools: VAS (0-10), NRS (0-10), verbal rating scale (categorical), four-point verbal pain scale (two studies). Time points most commonly 24, 48, 72 h; some at 6, 12 h and 7-14 days. Analgesic consumption secondary (ibuprofen / NSAIDs). GRADE for certainty.
+
+Risk of bias: Overall low-to-moderate. Two studies low risk. Three studies "some concerns" (insufficient info on blinding of participants/operators). Operator blinding not feasible due to nature of instrumentation procedures.
+
+Data synthesis: Postoperative pain highest within first 24 h, gradually decreased over time, irrespective of technique. No statistically significant difference between rotary and reciprocating at 24, 48, 72 h in most trials. Eyuboglu and Ozcan reported higher early postoperative pain scores with reciprocating instrumentation, but difference not significant (P > 0.05) at later follow-up. One RCT comparing hand files vs rotary vs reciprocating: hand instrumentation produced significantly higher postoperative pain during first 48 h (P < 0.05); no significant difference between rotary and reciprocating (P > 0.05). By 7-14 days pain minimal regardless of technique. Analgesic intake generally low and comparable across techniques (ibuprofen most prescribed). No quantitative meta-analysis (heterogeneity).
+
+DISCUSSION
+Evidence did not indicate uniform superiority of either kinematic approach. One trial favored rotary; others found no significant differences. Postoperative pain after retreatment is multifactorial: preoperative status, extrusion of infected debris, apical tissue irritation, operator technique, working length control, irrigation regimen, tooth anatomy, periapical condition. Arias et al.: preoperative and treatment-related factors important predictors. Siqueira and Rocas: microbial and inflammatory factors in persistent disease. Instrumentation motion is only one component.
+Apical debris extrusion: experimental studies conflicting (some say reciprocating increases extrusion due to filing dynamics; others no difference or less than rotary). Clinical pain outcomes do not consistently parallel in vitro extrusion results -> pain determined by interaction between extruded irritants and host response, not extrusion alone.
+Trial differences: Comparin et al. (mixed-tooth, preoperative pain and sex influenced pain more than technique). Eyuboglu and Ozcan (three shaping systems, broader tooth types; WaveOne higher pain). Canakci et al. (asymptomatic single-rooted incisors, tighter standardization, no significant differences).
+Analgesic intake generally low, no consistent differences. Comparin et al. and Canakci et al. no significant difference in ibuprofen consumption.
+GRADE certainty: low to very low (limited number of RCTs, heterogeneity, variations in outcome assessment).
+
+LIMITATIONS
+Differences in pain assessment methods, follow-up intervals, sample characteristics, treatment protocols reduced comparability. Categorical vs continuous scales limited pooling.
+
+CLINICAL IMPLICATIONS
+Neither rotary nor reciprocating definitively superior for postoperative pain after retreatment. Rotary may offer early postoperative advantage (Eyuboglu and Ozcan) but not consistently reproduced. Instrument selection should depend on canal anatomy, filling removal efficiency, operator familiarity, treatment objectives.
+
+CONCLUSION
+Within limitations, no consistent difference in postoperative pain between rotary and reciprocating instrumentation systems following nonsurgical endodontic retreatment. Limited number of studies and heterogeneity reduce certainty. Further well-designed RCTs needed.
