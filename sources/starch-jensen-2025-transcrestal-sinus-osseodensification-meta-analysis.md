@@ -3,8 +3,8 @@ title: "Transcrestal Maxillary Sinus Membrane Elevation using Osseodensification
 authors: Thomas Starch-Jensen, Kimie Bols Østergaard, Niels Henrik Bruun, Inleel Lundgaard Shino, Malene Halskov Hallund
 year: 2025
 date: 2025-06-30
-doi: 10.5037/jomr.2025.16101
-journal: Journal of Oral & Maxillofacial Research 16(1):e1
+doi: 10.5037/jomr.2025.16201
+journal: Journal of Oral & Maxillofacial Research 16(2):e1
 category: [sinus-lift/transcrestal]
 pdf_path: /Users/oracleneo/llm-wiki/papers/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.pdf
 pdf_filename: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.pdf
