@@ -1,0 +1,91 @@
+Comparative evaluation of surgicel and gelfoam in controlling post-extraction bleeding in patients on anticoagulant therapy: a clinical study
+Al-Suliman W, Wehbeh I, Al-Hafyan S. BMC Oral Health. 2025;25(1):1393.
+PMID: 40890693 | PMCID: PMC12403306 | DOI: 10.1186/s12903-025-06777-7
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+== Introduction ==
+
+Tooth extraction is one of the most common procedures in dentistry; however, it is often associated with complications such as bleeding, pain, inflammation, and infection. Post-extraction bleeding presents a particular challenge in patients on anticoagulants such as aspirin and warfarin, as these medications increase the risk of prolonged bleeding, especially during the first few days following extraction.
+
+The blood clot at the extraction site is crucial to wound healing; if displaced it results in delayed healing and increased pain. Uncontrolled bleeding may require emergency interventions such as transfusions and heightens infection risk.
+
+Aspirin is typically used at low doses as an antiplatelet agent, while warfarin is an effective anticoagulant in conditions like atrial fibrillation and heart valve disease. Topical hemostatic agents achieve immediate local hemostasis without affecting systemic coagulation, allowing patients to continue therapy without an increased risk of bleeding or thrombosis.
+
+Gelatin-based hemostatic materials were first developed in 1945. Gelfoam is a highly absorbent gelatin sponge acting as a mechanical barrier, gradually enhancing clot formation and being biologically resorbable over time. Surgicel is composed of oxidized cellulose, accelerating clotting through direct interaction with platelets and providing a protective barrier against infection.
+
+This study aims to evaluate and compare the effectiveness of Gelfoam and Surgicel in controlling bleeding in patients on aspirin and warfarin therapy.
+
+== Materials and methods ==
+
+Study design: prospective, single-blinded, split-mouth, active-controlled clinical trial. Conducted per Declaration of Helsinki and CONSORT reporting standards. Department of Oral and Maxillofacial Surgery, Faculty of Dentistry, Damascus University, between November 2022 and March 2025. Ethical approval DN-150525-H27. Retrospectively registered in ISRCTN registry (ISRCTN19155058) on 29/05/2025.
+
+Sample size: G*Power, effect size f = 0.47, alpha = 0.05, 95% power, ANOVA. Minimum 40 patients. Pilot study on 10 patients to estimate effect size.
+
+Inclusion criteria: age 40-75 years; aspirin 80 mg/day OR oral warfarin; warfarin patients must have stable INR within therapeutic range (2-3.5); written informed consent with commitment to maintain anticoagulant doses unchanged; need for simple extraction of paired teeth without complex surgery.
+
+Exclusion criteria: uncontrolled systemic disease contraindicating extraction; participation in other trials; unstable INR (outside 2-3.5); severe alcohol or tobacco dependence.
+
+Groups:
+- Group A (Aspirin users, n=20): Gelfoam (G) applied to right side (R), Surgicel (S) to left side (L).
+- Group W (Warfarin users, n=20): Gelfoam (G) to right (R), Surgicel (S) to left (L).
+Split-mouth design — each patient treated on both sides.
+
+Dressings: Gelfoam (Hemosponge) 10x10x10 mm from India; Surgicel (SURGICEL) 0.5x2 cm from Switzerland.
+
+Therapeutic procedure: INR measured pre-extraction with CoaguChek XS (Roche). All extractions by skilled surgeon. Local anesthesia 2% lidocaine with 1:80,000 epinephrine. Atraumatic extraction with periotomes. Hemostatic dressing placed directly into socket and secured with figure-of-8 suture using 3.0 silk. Clinical photos taken after extraction, after dressing, day 3, day 7.
+
+== Outcome measures ==
+
+Bleeding severity: Validated Intraoperative Bleeding Scale (VIBe), first FDA-validated bleeding severity scale. Grades 0 (no visible bleeding) to 5 (acute life-threatening). Measured at T0 (immediately post-extraction, primary bleeding) and T1 (two hours post-extraction, reactionary bleeding).
+
+Delayed bleeding: monitored up to 24 h post-extraction via clinical evaluation and follow-up phone calls.
+
+Gingival Healing Index (Landry et al.): five levels (very poor to excellent healing), assessed day 3 (D3) and day 7 (D7).
+
+Pain: Visual Analog Scale (VAS), 11 levels, at D1, D3, D7. If VAS > 6, 500 mg paracetamol three times daily (1.5 g total) advised. 0 = no pain, 1-3 mild, 4-6 moderate, 7-9 severe, 10 worst. Inter-rater Kappa > 0.8.
+
+Statistics: GraphPad Prism. Independent t-test (between groups), ANOVA (between time points within group), descriptive stats, Chi-square (categorical). Significance p < 0.05.
+
+== Results ==
+
+40 patients recruited (20 aspirin, 20 warfarin), 80 teeth extracted (2 paired teeth per patient). Of 80 teeth: 48 molars (60%), 20 premolars (25%), 12 anterior (15%); balanced across treatment sides.
+
+Demographics: female 22 (55%), male 18 (45%). Mean age 58.1 ± 6.89 years (range 40-75). Mean INR 2.58 ± 0.32 (range 2.1-3.1).
+
+VIBe bleeding severity (mean ± SD):
+- Aspirin T0: Gelfoam 2.0 ± 1.03, Surgicel 1.8 ± 0.95
+- Aspirin T1: Gelfoam 2.2 ± 1.10, Surgicel 1.75 ± 0.79
+- Warfarin T0: Gelfoam 2.45 ± 1.00, Surgicel 2.1 ± 1.02
+- Warfarin T1: Gelfoam 2.65 ± 0.99, Surgicel 2.4 ± 1.05
+
+ANOVA repeated measures: significant temporal difference (p < 0.0001). Independent t-tests: warfarin > aspirin bleeding at all time points (p < 0.0001). Paired t-tests: Surgicel more effective than Gelfoam at reducing bleeding (p < 0.0001).
+
+Subgroup analysis INR 2.1-2.5 vs 2.6-3.1: trend toward more bleeding in higher INR subgroup, NOT statistically significant (p > 0.05).
+
+Delayed bleeding (within 24 h):
+- Aspirin: Gelfoam 10% (2/20), Surgicel 5% (1/20)
+- Warfarin: Gelfoam 15% (3/20), Surgicel 10% (2/20)
+Chi-square: Surgicel significantly better than Gelfoam at controlling delayed bleeding (p < 0.05); delayed bleeding more common in warfarin group (p < 0.05).
+
+Gingival Healing Index (mean ± SD):
+- Aspirin Gelfoam: D3 3.0 ± 1.07, D7 3.6 ± 0.99
+- Aspirin Surgicel: D3 3.35 ± 1.03, D7 3.85 ± 0.93
+- Warfarin Gelfoam: D3 2.25 ± 0.85, D7 3.25 ± 0.91
+- Warfarin Surgicel: D3 2.85 ± 1.13, D7 3.55 ± 0.94
+Paired t-test: Surgicel > Gelfoam within each group (p < 0.05). Independent t-test: warfarin lower healing than aspirin at D7 (p < 0.05).
+
+Pain (VAS mean):
+- D1: Warfarin Gelfoam 8.25, Surgicel 6.9; Aspirin Gelfoam 8.05, Surgicel 5.85
+- D3: Warfarin Gelfoam 5.6, Surgicel 4.55; Aspirin Gelfoam 4.75, Surgicel 3.5
+- D7: Warfarin Gelfoam 3.65, Surgicel 2.15; Aspirin Gelfoam 2.65, Surgicel 1.65
+Repeated-measures ANOVA: time-dependent pain reduction (p < 0.0001). Independent t-test: warfarin > aspirin pain at all points (p < 0.0001). Paired t-test: Surgicel < Gelfoam pain (p < 0.0001).
+
+== Discussion / Limitations ==
+
+Surgicel superior to Gelfoam across hemostasis, delayed bleeding, healing, and pain. Warfarin patients bleed more and heal slower than aspirin patients. Topical hemostatic agents allow continuation of anticoagulant therapy without dose adjustment, maintaining the hemostasis-anticoagulation balance and reducing thrombotic risk from drug withdrawal.
+
+Limitations: postoperative bleeding after extraction is relatively rare even in anticoagulated patients; overall low event count limits generalizability. No suture-only (no-hemostat) control arm — baseline healing/bleeding without hemostatic intervention not assessed. Pain localization compromised because both sides treated in single session (split-mouth). No DOAC patients included — future research should add direct oral anticoagulants. Larger multicenter long-term studies recommended.
+
+== Conclusions ==
+
+Surgicel provides superior hemostatic control compared to Gelfoam — reduces delayed bleeding, accelerates gingival healing, and minimizes pain — making it the preferred topical hemostatic option for patients on aspirin or warfarin undergoing dental extraction, without compromising anticoagulant efficacy.
