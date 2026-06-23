@@ -1,0 +1,51 @@
+Long-term nano-dynamic mechanical analysis and micro-permeability of adhesive interface components using four AB-type proanthocyanidin neutral primers
+
+Authors: José Guilherme Neves, Walleska F Liberato, Mahmoud Sayed, Shu-Xi Jing, Shao-Nong Chen, Guido F Pauli, Ana K Bedran-Russo
+Journal: Journal of Dentistry
+Year: 2026 (e-pub 2026-02-27)
+DOI: 10.1016/j.jdent.2026.106594
+PMID: 41765221 | PMCID: PMC13247832
+Funding: NIH (Research Support, N.I.H., Extramural)
+Source: PubMed Central full text (JATS)
+
+== ABSTRACT ==
+Objective: Investigated the long-term biomodulatory roles of trimeric and tetrameric AB-type PAC-DESIGNER primers on the viscoelastic properties and stability of dentin-resin components over 1-year aging.
+Methods: PAC-DESIGNER primers prepared from Pinus massoniana (PM) and Cinnamomum verum (CV) extracts, designed to enrich trimeric (PM-AB, CV-AB) and tetrameric (PM-ABA, CV-ABB) proanthocyanidins. Adhesive interfaces prepared on dentin under etch-and-rinse protocol. Specimens sectioned, processed immediately or stored in simulated body fluid for one year. Unprimed adhesive restoration = control. Nano-mechanical properties (complex modulus E* and damping capacity Tan δ) of adhesive layer, hybrid layer, underlying dentin assessed by triboindentation (nano-DMA). Interfacial micro-permeability by fluorescent microscope. ANOVA + post-hoc (α = 0.05).
+Results: No significant E* differences among adhesive layers of PAC groups vs control at immediate and 6-month (p≥0.05). After 1-year aging, E* higher for CV-ABB and PM-AB adhesive layers than control (p<0.05). AB-type PAC primers increased viscoelastic properties of hybrid layer and underlying dentin, trimeric compounds performing better at all timepoints (p<0.05). Biomodulation did not alter the viscoelastic nature of the layers. PAC primers reduced rhodamine infiltration vs control (p<0.05).
+Conclusion: AB-type PAC-DESIGNER primers enhanced viscoelastic properties and stability over time for both hybrid layer and underlying dentin. Trimeric proanthocyanidins superior to tetrameric (distinct molecular configuration/shape).
+Clinical Significance: Plant-derived biomodulator primers can stabilize dentin-resin interfaces by increasing mechanical properties and sealing of the hybrid layer and underlying dentin.
+
+== BACKGROUND ==
+- Proanthocyanidins (PAC): natural biopolymers interacting with type I collagen → enhance mechanical properties, reduce biodegradability of dentin and dentin-adhesive interfaces. Amphiphilic (hydrophilic phenolic groups + aromatic rings).
+- Interflavan linkages (IFLs): A-type (≥1 double bond, more conformational rigidity, key regulator of long-term stability) vs B-type (single C-bond, more flexible). AB-type = both linkages.
+- Degree of polymerization (DP): trimeric (DP3) and tetrameric (DP4) have optimal 3D dimensions to fit collagen interfibrillar spaces; DP3 induces highest dentin matrix stiffness.
+- DESIGNER concept (Depletion and Enrichment of Select Ingredients Generating Normalized Extract Resources): standardized, reproducible, scalable, cost-effective botanical mixtures from natural waste materials.
+- Prior work: rinse-out primers with trimeric/tetrameric AB-type PAC-DESIGNER showed stable resin-dentin tensile bond strength after 1-year aging.
+
+== METHODS (detail) ==
+- 25 extracted sound human molars (IRB 2023-0717); mid-coronal dentin, standardized smear layer (600 grit).
+- 5 groups (n=5): unprimed control, CV-AB, PM-AB, CV-ABB, PM-ABA.
+- Protocol: etch 35% glycolic acid (pH 1.3) 15 s → rinse 15 s → blot dry → active rinse-out neutral primer (20 mmol/L HEPES buffer pH~7, 6.5% w/v PAC-DESIGNER) 1 min → rinse 30 s → model methacrylate adhesive (Bis-GMA 37.7%, TEGDMA 20.6%, HEMA 10.3%, CQ 0.5%, EDMAB 0.5%, DPIHP 1.0%, ethanol vehicle) 2 layers → cure → Filtek Supreme Ultra composite buildup.
+- Aging: simulated body fluid (SBF, pH~7.4) 37°C; analyses at 24 h (immediate), 6 months, 1 year. SBF replaced every 2 weeks.
+- Nano-DMA: TI980 triboindenter, fluid-cell Berkovich tip, 50 Hz; E* and tan-delta of adhesive (AD), hybrid layer (HL), underlying dentin (UD, 10 μm below HL) under hydration.
+- Micro-permeability: 0.1 mM rhodamine-B, fluorescence emission intensity (FEI) at HL and UD.
+
+== RESULTS (detail) ==
+- Hybrid layer (HL): all PAC groups higher E* vs control (p<0.05), sustained at 6 months. After 1 year: CV-AB and PM-AB highest, then PM-ABA, CV-ABB, control. PM-AB stable over time; others decreased after 6 months.
+- Underlying dentin (UD): PAC primers higher E* vs control (some exceptions immediate/6 months). After 1 year all PAC > control, PM-AB highest. Trimeric better than tetrameric.
+- Adhesive layer (AD): no diff vs control at immediate/6 months. At 1 year CV-ABB and PM-AB higher than control & PM-ABA. CV-AB lower E* immediate (inverse to HL/UD).
+- Damping capacity: biomodulation preserved native viscoelastic behavior; UD damping decreased for high-E* primers but stayed within native dentin range (0.02–0.3).
+- Micro-permeability: all PAC groups LESS rhodamine infiltration at HL and UD vs control (p<0.001). Control increased micropermeability at UD after 1 year.
+
+== DISCUSSION KEY POINTS ==
+- Both null hypotheses rejected: DP affects viscoelastic changes; aging affects groups differently.
+- Trimeric (DP3) > tetrameric (DP4): better diffusion/fit into interfibrillar collagen spaces.
+- Mechanism: collagen cross-linking stabilizes triple helix → resists enzymatic cleavage, reduces collagen affinity for water, displaces unbound water → lower micropermeability, higher stability.
+- IFL configuration matters: CV-ABB (2 B-type) → higher E* in adhesive layer; PM-ABA (A-type predominance) → better HL stability at 1 year.
+- Terminal monomer matters: PM-AB (catechin) > CV-AB (epicatechin) for HL stability.
+- Glycolic acid etch (mild α-hydroxyl acid): shallower demineralization than phosphoric acid but similar pattern.
+- UD reinforcement persisting at 1 year may explain long-term resin-dentin bond stability.
+
+== LIMITATIONS ==
+- In vitro design only.
+- High-resolution nano-DMA / micro-permeability surrogate endpoints; no clinical/bond-strength outcome in this study (bond strength reported in companion prior study).
