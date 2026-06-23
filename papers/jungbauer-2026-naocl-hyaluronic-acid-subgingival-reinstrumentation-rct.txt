@@ -1,0 +1,94 @@
+Effect of sodium hypochlorite and hyaluronic acid in subgingival re-instrumentation – a randomized clinical trial
+
+Authors: Gert Jungbauer, Fabienne Stalder, Steffen Müller, Anton Sculean, Sigrun Eick, Holger Jentsch
+Journal: BMC Oral Health 2026;26(1)
+DOI: 10.1186/s12903-026-08694-9
+PMID: 42218449  PMCID: PMC13262014
+Trial registration: German Clinical Trials Register DRKS00017415
+
+Source: PubMed Central full text (PMC13262014). According to PubMed; DOI: https://doi.org/10.1186/s12903-026-08694-9
+
+== ABSTRACT ==
+
+Background
+Adjunctive antimicrobials may improve the outcome of subgingival instrumentation, but due to the lack of evidence no antimicrobial agent is recommended for subgingival re-instrumentation (SRI). The aim of this study was to clinically, immunologically and microbiologically evaluate the potential additional effects of amino-acid sodium hypochlorite (AA-NaOCl) and cross-linked hyaluronic acid (xHA) to SRI at 3 and 6 months.
+
+Methods
+At the time point of reevaluation during systematic periodontal therapy, eligible patients were allocated to either control group receiving SRI of residual pockets, or test group with the adjunctive AA-NaOCl and xHA. Per patient 2 study sites were selected and clinical periodontal parameters (PD, CAL, BOP, and pocket closure), immunological biomarkers and 8 major periopathobionts were analyzed at baseline, after 3 and 6 months. Detection of IL-1β and MMP-8 was carried out using ELISA, the abundance of the periopathobionts by qPCR.
+
+Results
+Improvements in the clinical parameters were demonstrated in all 42 included patients. In the test group an additional PD reduction by 0.50 mm (1.38, 95% CI range: 1.11–1.65 vs. 0.88, 95% CI range: 0.62–1.14; p = 0.008) and CAL gain by 0.57 mm (1.07, 95% CI range: 0.70–1.44 vs. 0.50, 95% CI range: 0.24–0.76; p = 0.017) was found compared to the control group. The percentage of residual pockets decreased by 88.1% (n = 37) in the test, and 38.1% (n = 16) in the control group. There was no significant change in the immunological parameters. The abundance of 5 periopathobionts significantly decreased in the test group.
+
+Conclusions
+The adjunctive application of AA-NaOCl and xHA significantly improved the clinical and microbiological outcome 3 and 6 months after SRI.
+
+== FULL TEXT ==
+
+Introduction
+
+Periodontal disease is considered the most common chronic inflammatory, non-communicable disease with a prevalence of approximately 50% for mild to severe forms. The decisive treatment factor is the mechanical removal of the subgingival periopathogenic biofilm and calculus to reestablish the ecological balance in the pocket microenvironment. Studies revealed a high percentage of uncleaned surface in multi-rooted teeth and in deep pockets after non-surgical debridement. Many attempts were made to support the subgingival instrumentation (SI) with adjunctive antimicrobials. Currently, no recommendation for any of the established adjuncts exists due to the lack of scientific evidence, neither for physical methods, like lasers or photodynamic therapy, nor locally administered antimicrobials including antibiotics. Regarding adjuvant antimicrobials after subgingival re-instrumentation (SRI), a systematic review failed to show differences in the clinical outcomes for any of the adjuvants. Periodontal pockets with residually increased probing depths are recolonized by periopathogens within a few weeks. Therefore, the application of biofilm-degrading sodium hypochlorite (NaOCl) and hyaluronic acid (HA) might be an innovative approach.
+
+Sodium hypochlorite (2.5–5.25%) is widely used in endodontic treatment due to its strong antibacterial capacity, but also evidence of further indications, including periodontal and peri-implant diseases, is growing. A gel formulation with lower concentrations mixed with an amino-acid buffer (AA-NaOCl; Perisolv, Regedent, Dettelsbach, Germany) was developed for application in the periodontal pocket; in-vitro effects against a pre-formed periodontal multi-species biofilm and the extracellular matrix were shown. The anti-biofilm activity decreased time-dependently, showing sufficient efficiency within 20 min after mixing.
+
+Hyaluronic acid (HA) is a macromolecule consisting of the disaccharides D-glucuronic acid and N-acetyl-D-glucosamine or N-acetylglucosamine with different chain lengths. Hyaluronan exhibits high hydrophilicity and water retention and demonstrated a proliferative, migratory and wound healing effect on human gingival fibroblasts, periodontal ligament cells, and cementoblasts, and upregulated collagen-maturation related genes (MMP-1, TIMP-1, LOX) in vitro.
+
+The "clean and seal" protocol by means of application of an AA-NaOCl gel for bacterial clearance and a cross-linked HA (xHA) gel for blood clot stabilization, is supposed to improve the clinical outcome of SI and SRI. Histologically the formation of new periodontal attachment could be demonstrated after the non-surgical application of AA-NaOCl and xHA in an animal model. To our knowledge, there is no data on the change of periodontal microbiota after application of AA-NaOCl and xHA during SRI. The aim of this clinical trial was to investigate the effect of the adjunctive application AA-NaOCl and xHA on the additional reduction of probing depth, but also on further clinical, microbiological and immunological outcomes during SRI.
+
+Materials and methods
+
+Study design
+This single-center, prospective randomized clinical trial (RCT) was registered in the German Clinical Trials Register (ID: DRKS00017415), conducted according to the Declaration of Helsinki and the CONSORT criteria and approved by the Ethics committees of the Universities of Leipzig (427/17-ek, 23/01/2018) and Regensburg, Germany (21-2666-103, 02/11/2021). Participants diagnosed with periodontitis stage III or IV grade B or C were recruited in a private dental practice in Germany from February 2022 to December 2023. After a written informed consent was obtained, patients at the time-point of re-evaluation at least 3 months after step 2 or 3 or during step 4 (SPC) of the systematic periodontal therapy regime according to the EFP S3 clinical guidelines were included. The inclusion criteria were completion of the active periodontal therapy, ≥ 16 teeth, ≥ 40 years of age, 2–8 sites with PD ≥ 5 mm, or PD ≥ 4 mm and positive for BOP for non-adjacent teeth, good oral hygiene indicated by an interproximal plaque index (API) ≤ 35%. Exclusion criteria were periodontitis associated with systemic diseases, intake of immunosuppressive or immunomodulating drugs, antibiotic therapy within the last 3 months, pregnancy or lactation, cancer, cigarette consumption (> 5 cigarettes per day), allergy to components of the used adjuncts, special dietary habits (e.g. vegan diet). Participants were randomly assigned to either test or control group (1:1; two parallel treatment arms) using a computer-generated block randomization (block size of 2). The allocation was concealed until the end of statistical analysis.
+
+Treatment
+All clinical assessments and periodontal treatments were performed by one experienced periodontist (G.J.). At all three timepoints (baseline, after 3 and 6 months) a periodontal chart was recorded including PD, CAL, and BOP. PD and CAL were measured using a 1-mm-scaled periodontal probe (PCP UNC15, HuFriedy).
+
+All patients were enrolled in a SPC program. The session consisted of oral health reinstruction and remotivation and a supragingival professional plaque removal using air polishing (Airflow Handy 3.0, EMS) and erythritol powder. Mineralized biofilm was removed with an air scaler, if present.
+
+SRI was performed at all sites (between 2 and 8 sites per patient) with PD ≥ 5 mm or PD ≥ 4 mm and BOP+ (residual pockets). In every patient the two sites with the highest PD (non-adjacent, single- and multi-rooted teeth) were selected as study sites. If PD was equal in 2 or more pockets, the more distal site was chosen. The SRI was performed in local anesthesia (articaine + epinephrine) and instrumentation using Gracey curettes (mini five), air scaler, and air polishing with erythritol powder. To remove the debris and the remaining powder, the pockets were rinsed with 0.9% saline.
+
+In the test group, additionally freshly mixed (< 20 min before application) AA-NaOCl gel (Perisolv) was instilled for 60 s prior to instrumentation, when changing from hand curettes to air scaler, and after completing the mechanical cleaning. Then, the pocket was thoroughly rinsed with 0.9% saline and xHA (hyaDent BG, Regedent) was applied. After one week, xHA was again subgingivally instilled. Three months later (T1), the persisting pockets in both groups were again retreated in the allocated therapy regime.
+
+Biomarker and microbiology
+Samples for biomarkers and microbial diagnostics of the study sites were collected at T0, T1, and T2. Gingival crevicular fluid (GCF) was sampled with paper strips (Periopaper). Sterile endodontic paper points (ISO 60) were inserted into the pocket; paper points contaminated with blood were discarded. IL-1β and MMP-8 were quantified using ELISA (R&D Systems). The abundance of 8 major periopathobionts (including Aggregatibacter actinomycetemcomitans and others) was determined by qPCR, expressed by log10 counts/sample, and categorized as non-detectable, detectable < 6 log units/sample, and detectable ≥ 6 log units/sample. The scientist who carried out laboratory analysis was blinded to group assignment.
+
+Intra-examiner calibration
+Intra-rater reliability for PD and CAL measurements was good (ICC 0.8). The systematic method error was 0.06 mm for PD and 0.10 mm for CAL.
+
+Statistics
+Primary outcome was the reduction of PD (ΔPD). Secondary outcomes were ΔCAL, BOP, plaque, pocket closure, IL-1β and MMP-8 levels and periopathobionts. A priori power analysis (≥ 80% power for difference of 1 mm ΔPD at T2, 20% dropout) determined sample size. Friedman's two-way ANOVA by ranks was used for intragroup changes; Mann–Whitney U tests for intergroup comparison with Bonferroni correction; Pearson Chi-square for nominal data. Significance set at p < 0.05.
+
+Results
+
+Baseline data
+77 patients screened; 44 randomized (22 per arm); 1 dropout per group → 21 per group analyzed (42 total). In both groups 71% female. Mean age 62.95 (±7.46) control vs. 67.23 (±12.67) test years; 25.48 (±2.86) vs. 23.28 (±4.1) mean teeth; 4.19 (±1.36) vs. 4.29 (±1.38) mean residual pockets. Proportion of multi-rooted study-site teeth: 78.6% (n=33) control vs. 69.0% (n=29) test (p=0.321). Full-mouth BOP and API comparable.
+
+Clinical parameters
+PD control: 4.93 mm (±1.05) baseline → 4.26 mm (±1.04) T1 → 4.05 mm (±0.96) T2.
+PD test: 4.69 mm (±0.87) baseline → 3.60 mm (±0.73) T1 → 3.31 mm (±0.72) T2.
+Additional ΔPD in test group: 0.43 mm at T1 (test ΔPD 1.10, 95% CI 0.87–1.32 vs. control 0.67, 95% CI 0.46–0.87; p=0.007) and 0.50 mm at T2 (test ΔPD 1.38, 95% CI 1.11–1.65 vs. control 0.88, 95% CI 0.62–1.14; p=0.008).
+Additional ΔCAL at T2: 0.57 mm (test 1.07, 95% CI 0.70–1.44 vs. control 0.50, 95% CI 0.24–0.76; p=0.017).
+BOP+ at study sites decreased by 78.6% in test vs. 19.0% in control at T2 (intergroup p<0.001).
+Pocket closure (PD ≤4 mm and BOP-): residual pockets decreased by 88.1% (n=37) in test vs. 38.1% (n=16) in control at 6 months (intergroup p<0.001).
+
+Biomarkers and microbiology
+IL-1β and MMP-8: reduction did not reach significance at any time-point; no intergroup difference.
+Periopathobionts: trend to reduced abundance for every periopathobiont over time; statistically significant decrease of 5 of the 8 periopathobionts in the test group only.
+
+Discussion (key points)
+- Both groups improved vs. baseline; no adverse effects observed.
+- Control PD reduction of 0.88 mm at 6 months is consistent with reported 0.7–1.9 mm range.
+- Adjunctive AA-NaOCl + xHA added 0.50 mm ΔPD and 0.57 mm ΔCAL at 6 months vs. SRI alone.
+- Effect more pronounced in deeper pockets (subgroup analysis); adjuncts have more impact at higher PD.
+- Comparison: AA-NaOCl alone added ~0.21–0.31 mm ΔPD; HA alone added ~0.2 mm; sustained-release CHX/tetracycline fibres added 0.6–0.7 mm; flapless EMD added 0.79 mm. The combined cumulative effect here likely reflects both adjuncts.
+- For initial therapy (SI, not SRI), AA-NaOCl + xHA added 1.1 mm ΔPD in moderate pockets (4–6 mm) and 2.1 mm in deep pockets (≥7 mm); SRI sites are previously treated non-responders, explaining lower magnitude.
+- Reduction of periopathobiont counts (incl. A. actinomycetemcomitans, a negative predictive factor) may facilitate periodontal healing.
+
+Limitations
+- Blinding of treatment impossible (NaOCl taste/smell); analysis was blinded.
+- Single center, single experienced operator, limited n (21/group).
+- Only the 2 highest-PD pockets per patient treated/included (to balance sites, avoid overtreatment), reducing number of investigated sites.
+- Confounders (initial PD, root number, furcation, defect angulation) not fully assessable with this sample size.
+- Need for larger studies and longer follow-up.
+
+Conclusion
+The adjunctive application of AA-NaOCl and xHA in combination with SRI resulted in an additional benefit for ΔPD and ΔCAL and a higher rate of pocket closure compared to SRI alone. PD reduction was more pronounced in sites with higher initial PD. A decrease in 5 of 8 analyzed periopathobionts occurred in the test group. The application may be a reasonable method to achieve a better clinical outcome in sites needing SRI, but should be predominantly used in pockets with higher probing depths.
