@@ -1,0 +1,30 @@
+Extreme heterogeneity undermines the clinical interpretability of meta-analytic estimates in temporomandibular disorder interventions
+
+Author: Héctor Fuentes-Barría
+Affiliation: Centro de Investigación en Medicina de Altura (CEIMA), Universidad Arturo Prat, Iquique, Chile.
+Journal: The Japanese Dental Science Review (Jpn Dent Sci Rev), 2026; 62: 141-142.
+Article type: Letter to the Editor
+DOI: 10.1016/j.jdsr.2026.04.004
+PMID: 42064356 / PMCID: PMC13125894
+Keywords: Arthrocentesis; Mandibular function; Pain measurement; Temporomandibular disorders
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13125894/)
+
+---
+
+Dear Editor:
+
+We read with interest the article by Valenzuela-Fuenzalida et al. on the effectiveness of arthrocentesis in temporomandibular disorders. However, we are concerned that key methodological choices in the meta-analytic approach substantially undermine the validity and clinical interpretability of the findings.
+
+The most critical limitation is the pooling of markedly heterogeneous comparator interventions within a single quantitative framework. The analysis combines treatments with fundamentally different mechanisms of action, indications, and expected effects—including occlusal splints, physiotherapy, intra-articular injections (PRP and hyaluronic acid), arthroscopic surgery, and multiple variants of arthrocentesis. Such aggregation extends beyond acceptable clinical diversity and effectively conflates distinct therapeutic questions into a single summary estimate. Under these conditions, the pooled effect lacks a clear clinical referent and cannot be meaningfully interpreted as reflecting the efficacy of any specific intervention or comparison.
+
+This concern is reinforced by the extremely high levels of statistical heterogeneity reported (I² ranging from 85% to 98%), which are observed across most outcomes. While random-effects models were applied, heterogeneity of this magnitude severely weakens the assumption of a shared underlying effect and renders the pooled estimates of limited inferential value. In this context, statistically significant results—particularly those of large magnitude—are at high risk of being driven by between-study dispersion rather than reflecting a consistent treatment effect. Notably, the study does not provide sufficiently robust or pre-specified subgroup analyses capable of explaining this variability, leaving the principal source of heterogeneity largely unaddressed.
+
+Additional methodological concerns further limit interpretability. Variability in outcome definitions and measurement across studies introduces additional inconsistency; even when analyzed separately, outcomes such as maximum mouth opening and maximum interincisal opening are not necessarily comparable across settings. Moreover, the use of standardized mean differences for outcomes measured on a common and clinically interpretable scale (millimeters) is difficult to justify, as it reduces clinical interpretability and may artificially influence effect sizes due to its dependence on within-study variance.
+
+Finally, the inclusion of populations with heterogeneous diagnostic entities—such as disc displacement, osteoarthritis, arthralgia, and other joint conditions—introduces further clinical variability that is not adequately accounted for in the analysis. The aggregation of these conditions into overall estimates further obscures the applicability of the findings to specific patient groups.
+
+Taken together, these issues suggest that the pooled estimates presented may not constitute clinically meaningful summaries of the available evidence, but rather reflect the statistical aggregation of fundamentally non-comparable data. Greater emphasis on clinically coherent comparisons, rigorous handling of heterogeneity, and outcome standardization would be necessary to support valid and actionable conclusions.
+
+Declaration of Generative AI and AI-assisted technologies in the writing process: During the preparation of this work, the author used ChatGPT to refine language, improve clarity, and correct spelling and grammatical errors. After using this tool, the author reviewed and edited the content as needed and takes full responsibility for the content of the publication.
+
+Declaration of Competing Interest: The author declares no conflicts of interest.
