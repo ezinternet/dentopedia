@@ -1,0 +1,78 @@
+Title: Arthrocentesis Plus Injectable Platelet-Rich Fibrin in Patients With Temporomandibular Joint Dysfunction: An Updated Meta-Analysis With Trial Sequential Analysis
+Authors: Maryam Bader Alzamanan, Dhari Mohammed Alhajri, Fay Hamed Alduaij, Khaled Walled Abdullah, Mohammad Homoud Alnoumas, Yousef Abdulghafour, Athoub Almousawi, Maryam Nasser Alshammari, Sarah Alajmy
+Journal: Cureus 2026;18(6):e110871
+PMID: 42306021 | PMCID: PMC13266797 | DOI: 10.7759/cureus.110871
+Source: PubMed / PMC full text (JATS). According to PubMed; DOI: https://doi.org/10.7759/cureus.110871
+
+=== ABSTRACT ===
+Temporomandibular joint (TMJ) dysfunction (TMD) is a common disorder associated with chronic pain, impaired mandibular movement, and reduced quality of life (QoL). Arthrocentesis is widely used as a minimally invasive treatment for symptomatic TMD; however, incomplete symptom resolution remains common. Injectable platelet-rich fibrin (i-PRF) has recently emerged as a biologic adjunctive therapy with potential regenerative and anti-inflammatory effects. We conducted an updated systematic review and meta-analysis to evaluate the efficacy of arthrocentesis combined with i-PRF in patients with TMD. A comprehensive literature search was performed using PubMed, Scopus, Web of Science (WoS), and Cochrane CENTRAL from inception to May 1, 2026. RCTs comparing arthrocentesis plus i-PRF with control interventions were included. The primary outcome was change in pain score (VAS). Secondary outcomes included maximum mouth opening (MMO), lateral excursion, protrusive movement, and QoL. Pooled estimates were calculated using a random-effects model and expressed as mean differences (MDs) with 95% CIs. Nine RCTs involving 320 patients (374 joints) were included. Arthrocentesis combined with i-PRF significantly reduced pain scores compared with control (MD -1.62, 95% CI: -2.28 to -0.96; p<0.001; I2=73.55%). TSA confirmed the conclusive and sufficient confidence levels of the results. Significant improvements were also observed in MMO (MD 5.03 mm, 95% CI: 2.99 to 7.07; p<0.001; I2=84.87), contralateral excursion (MD 0.94 mm, 95% CI: 0.41 to 1.48; p<0.001), and protrusive movement (MD 1.08 mm, 95% CI: 0.48 to 1.69; p<0.001). No significant differences in right or left lateral excursion or overall QoL. Arthrocentesis combined with i-PRF appears to significantly improve pain and mandibular functional outcomes in patients with TMD; larger RCTs with longer follow-up are warranted.
+
+=== INTRODUCTION (key points) ===
+- TMD: chronic pain, limited mandibular movement, joint sounds, impaired QoL; spectrum includes internal derangement, disc displacement, degenerative joint disease.
+- Arthrocentesis = widely accepted minimally invasive procedure for symptomatic TMD (internal derangement / osteoarthritis refractory to conservative Rx). But symptom recurrence and incomplete functional recovery remain → interest in adjunctive biologic therapies.
+- i-PRF = second-generation autologous platelet concentrate; high platelets, leukocytes, fibrin matrix, growth factors. Prepared WITHOUT anticoagulants; sustained release of bioactive mediators (angiogenesis, anti-inflammatory, tissue regeneration). Vs conventional PRP.
+- Prior SR/MAs suggested platelet concentrates as adjuncts may improve pain, MMO, function — but limited by few RCTs, heterogeneity in prep protocols, variable follow-up, inconsistent outcome reporting. Specific effectiveness of i-PRF after arthrocentesis not comprehensively synthesized.
+- Hypothesis: arthrocentesis + i-PRF → greater pain reduction and mandibular function vs arthrocentesis alone.
+
+=== METHODS ===
+- PRISMA + Cochrane Handbook.
+- Search: PubMed, Scopus, WoS, Cochrane CENTRAL from inception to May 1, 2026. English filter only. Backward citation screening.
+- PICO: Population = symptomatic TMD internal derangement; Intervention = arthrocentesis of upper joint space (Ringer's lactate or saline lavage) + intra-articular i-PRF; Comparator = arthrocentesis alone or conservative/no active treatment; Outcome = ≥1 predefined outcome.
+- Exclusions: observational studies, reviews, conference abstracts without full text.
+- Primary outcome: change in pain score baseline→end of follow-up (VAS).
+- Secondary: mean change MMO, contralateral / right / left lateral excursion, protrusive movement, QoL (OHIP-14).
+- Quality: Cochrane ROB-2.
+- Stats: mean change ± SD; MD with 95% CI; random-effects model; I2 >50% = substantial heterogeneity. Leave-one-out sensitivity; DOI plot + LFK index for asymmetry; subgroup by follow-up (3, 6, 9-12 mo); exploratory pain-type subgroup (chewing, jaw movements, palpation).
+- TSA for primary outcome: alpha 0.05, power 95% (beta=0.05). Conclusive if Z-curve crosses both conventional boundary AND sequence monitoring boundary.
+- GRADE for strength of evidence. Random-effects meta-regression between pain effect size and baseline MMO.
+- Stata/MP 19; two-sided p<0.05.
+
+=== RESULTS ===
+Screening: 151 records → 27 duplicates removed → 124 screened → 108 excluded + 1 not retrieved → 15 full-text → 9 included.
+
+Included: 9 RCTs, 320 patients (374 joints), published 2021-2026, 5 countries (Turkey, Egypt, India, Brazil). Parallel-group; 7 two-arm, 2 three-arm. Follow-up 3-12 mo. Conditions: TMJ internal derangement (Wilkes I-V), disc displacement ± reduction, osteoarthritis. Sample 14-76 participants. Female predominance 64-93%. Baseline pain VAS 5.9-8.3; MMO 25-42 mm.
+ROB-2: 5 low risk, 4 some concern (randomization process, deviations from intended intervention, selection of reported results).
+
+PRIMARY OUTCOME — Pain (8 studies):
+- Pooled MD -1.62 points (95% CI -2.28 to -0.96, p<0.001; I2=73.55%), favoring i-PRF.
+- Leave-one-out: no single study disproportional.
+- DOI plot: no asymmetry, LFK index 0.92.
+- Subgroup by follow-up: 3 mo MD -2.13 (95% CI -3.75, -0.51); 6 mo MD -1.83 (-2.43, -1.24); 9-12 mo MD -1.13 (-2.13, -0.12). Significant at ALL periods.
+- Pain-type exploratory: chewing MD -1.49 (-1.99, -0.99); jaw movements MD -1.61 (-2.26, -0.95); palpation MD -1.66 (-2.18, -1.14). All significant.
+- Meta-regression: baseline MMO no significant effect on pain change (coef 0.0232, 95% CI -0.2078 to 0.2542, p=0.844).
+- TSA: Z-curve crossed BOTH conventional boundary AND sequence monitoring boundary → CONCLUSIVE and sufficiently powered; no further trials needed for pain primary outcome.
+
+SECONDARY OUTCOMES:
+- MMO (7 studies): MD +5.03 mm (95% CI 2.99 to 7.07, p<0.001; I2=84.87). Leave-one-out robust.
+- Contralateral excursion (3 studies): MD +0.94 mm (95% CI 0.41 to 1.48, p<0.001) — significant.
+- Right lateral excursion (2 studies): MD +2.05 mm (95% CI -0.63 to 4.74, p=0.13) — NS.
+- Left lateral excursion (2 studies): MD +0.68 mm (95% CI -1.57 to 2.94, p=0.55) — NS.
+- Protrusive movement (3 studies): MD +1.08 mm (95% CI 0.48 to 1.69, p<0.001) — significant.
+- QoL OHIP-14 (2 studies): MD -3.61 points (95% CI -10.87 to 3.65, p=0.33) — NS.
+
+GRADE: moderate certainty for ALL clinical outcomes (downgraded for imprecision only).
+
+=== INCLUDED STUDIES ===
+1. Chaulagain 2025 (India), RCT, unilateral TMJ pain/dysfunction Wilkes II-IV (MRI), n=32. AC+i-PRF vs AC alone. FU 3 mo. AC+i-PRF reduced pain, improved MIO and QoL vs AC or i-PRF alone; i-PRF alone NOT superior to AC.
+2. Ghoneim 2022 (Egypt), 2-arm RCT, DDWR (MRI), n=40. AC+i-PRF (1.5 mL) vs AC alone. FU to 6 mo. Greater pain reduction, MIO/lateral gains, lower clicking vs AC alone at all FU.
+3. Isik 2022 (Turkey), single-blind RCT, TMJ-OA (DC/TMD+CBCT), MMO<35, n=36. AC + 4 weekly i-PRF vs AC alone. FU to 12 mo. i-PRF lower pain, larger jaw movement to 12 mo; AC-only benefits decay after 6 mo.
+4. Isik 2023 (Turkey), single-blind RCT, DDWoR (DC/TMD+MRI), n=76. AC + 4 weekly i-PRF vs AC alone. FU to 12 mo. Success 100% (i-PRF) vs 73.7% (AC). Greater pain relief + jaw motion, sustained 12 mo; AC-only declined after 6 mo.
+5. Karadayi 2021 (Turkey), prospective RCT, unilateral internal derangement Wilkes III-V, n=36. AC + single i-PRF (2 mL) vs AC alone. FU 3 mo. Better pain + dysfunction at all FU; greatest difference Wilkes III.
+6. Nasef 2024 (Egypt), 2-arm RCT, bilateral DDWoR, all got anterior repositioning splint (ARS), n=30. ARS+AC+single i-PRF vs ARS+AC. FU to 6 mo. i-PRF improved MMO and pain at 3 & 6 mo; disc position unchanged in both.
+7. Metello Neves 2026 (Brazil), double-blind placebo-controlled RCT, articular TMD joint sounds + clinical disc displacement, n=36. 3 monthly i-PRF (1 mL each, NO AC) vs lactated Ringer's (no AC). FU to 6 mo. i-PRF reduced joint sounds -83%, resolved DDWR/DDWoR signs vs control at 6 mo; MMO +13% vs +6%.
+8. Sharma 2023 (India), RCT, internal derangement Wilkes I-V, n=14 (28 joints). All AC once then 6-monthly i-PRF vs 6-monthly PRP. FU 9 mo. Both improved; i-PRF faster/greater pain & MMO; effusion decreased more in i-PRF.
+9. Yilmaz 2026 (Turkey), prospective 3-arm RCT, Wilkes >=III internal derangement, n=20. AC alone / AC+i-PRF / (C-PRF). FU 3 mo. NO statistically significant between-group difference at 3 mo; clinically i-PRF slightly better pain, C-PRF earlier pain/MMO improvement.
+
+=== DISCUSSION (key points) ===
+- AC + i-PRF → significant improvement in pain reduction and mandibular function vs control; lower VAS, greater MMO, improved contralateral excursion + protrusive movement.
+- Pain benefit significant across ALL follow-up periods. TSA confirmed primary outcome conclusive + sufficiently powered.
+- Mechanism: i-PRF regenerative + anti-inflammatory; high platelets/leukocytes/fibrin/growth factors; intra-articular i-PRF after AC may improve synovial repair, reduce inflammatory mediators, restore function; fibrin scaffold = gradual mediator release → sustained improvement.
+- Moderate-to-high heterogeneity in several outcomes (patient populations, Wilkes stage, lavage protocols, centrifugation methods, injection techniques, follow-up). But leave-one-out robust.
+- Clinical relevance: AC alone reduces intra-articular pressure + removes inflammatory mediators, but residual symptoms/recurrence persist. i-PRF adds dual effect (mechanical lavage + biologic healing). Simple prep, autologous, minimally invasive → practical adjunct for persistent symptomatic TMD not responding to conservative Rx.
+
+=== STRENGTHS / LIMITATIONS ===
+Strengths: only RCTs; multiple complementary analyses (subgroup, sensitivity, meta-regression, DOI plot, TSA, GRADE); consistency across follow-up periods.
+Limitations: small sample sizes; short-to-intermediate follow-up; substantial heterogeneity in some analyses; QoL reported by few studies (imprecise); possible small-study effects / publication bias; no patient-level data (limited subgroup by severity).
+
+=== CONCLUSION ===
+Arthrocentesis combined with i-PRF provides significant improvement in pain reduction and mandibular functional outcomes in TMD vs control. i-PRF = promising minimally invasive adjunctive therapy. Larger RCTs with longer follow-up needed to confirm long-term benefit and standardize protocols.
