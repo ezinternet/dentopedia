@@ -1,0 +1,97 @@
+Adverse events of oral analgesics after third molar extraction: A network meta-analysis of randomized controlled trials
+
+Magesty R-A, de-Souza G-M, Fernandes I-A, de-Almeida R-S, Meireles M-R, Al-Moraissi E-A, Galvão E-L, Falci S-G
+Med Oral Patol Oral Cir Bucal. 2026;31(3):e431-e445.
+PMID: 41578906 | PMCID: PMC13135298 | DOI: 10.4317/medoral.27956
+Source: PubMed Central full text (PMC13135298)
+
+== ABSTRACT ==
+
+Background
+Choosing analgesics after third molar surgery requires balancing efficacy with safety. This network meta-analysis (NMA) aimed to compare and rank the safety profiles, measured by adverse events (AEs) related to medication use, of various single-dose oral analgesic regimens.
+
+Material and Methods
+Electronic databases were searched for randomized controlled trials (RCTs) assessing single-dose oral analgesics following third molar surgery. The primary outcome was the incidence of any AE reported before discharge. A frequentist NMA was performed to estimate relative risks (RR) and SUCRA-based probabilistic rankings. The certainty of the evidence was assessed using CINeMA.
+
+Results
+Twenty-eight RCTs involving 5306 patients were included. NSAID monotherapy demonstrated a significantly higher risk of AEs compared to other non-opioid analgesics and opioid analgesics alone. Conversely, few significant differences were found between most active drugs and placebo. Probabilistic ranking indicated that both nonsteroidal anti-inflammatory drugs (NSAIDs) and placebo had a higher probability of ranking among the least safe options. Significant global inconsistency was detected across the network, and the certainty of the evidence was generally very low to low.
+
+Conclusions
+The safety profile of single-dose analgesics in this model is complex. While pairwise comparisons and rankings suggested that NSAIDs might be associated with a higher frequency of adverse events, these findings are based on very low to low certainty evidence and likely reflect minor, transient events such as nausea. Additionally, the high incidence of events in the placebo group suggests that the nocebo effect plays a predominant role in event perception. Therefore, results regarding the comparative safety of NSAIDs should be interpreted with caution, balancing this potential risk against their superior analgesic efficacy.
+
+== FULL TEXT ==
+
+Introduction
+
+The surgical removal of impacted third molars is one of the most common procedures in dentistry worldwide. This intervention is frequently associated with acute postoperative pain, typically manifesting with moderate to severe intensity. Inadequate pain management leads to functional limitations, such as difficulty in mastication and speech, and negatively impacts the patient's quality of life by affecting their general well-being, sleep, and daily activities.
+
+The management of this pain relies primarily on pharmacological intervention, with multimodal analgesia being the current standard of care. This strategy combines drugs with distinct mechanisms of action to enhance analgesic efficacy. Commonly used regimens involve non-steroidal anti-inflammatory drugs (NSAIDs), either alone or in combination with analgesics such as acetaminophen or weak opioids like codeine and tramadol. Therefore, selecting the optimal regimen requires a careful assessment of the balance between analgesic efficacy and the safety profile of each therapeutic option.
+
+However, the efficacy of these regimens is counterbalanced by the incidence of adverse events (AEs) that can compromise patient recovery. NSAIDs are associated with known risks of gastrointestinal, renal, and cardiovascular complications, even with short-term use, whereas opioids frequently induce central nervous system effects, such as nausea, vomiting, dizziness, and somnolence. Crucially, the occurrence of AEs can decrease patient adherence to the prescribed therapy, leading to inadequate pain control and a negative perception of the received care.
+
+Although the safety profile of these drugs has been evaluated in traditional systematic reviews and meta-analyses, such studies are inherently limited by their reliance on direct, pairwise comparisons. This approach precludes a simultaneous and ranked comparison of all competing treatments. Furthermore, a comprehensive assessment of the certainty of evidence regarding the comparative safety of multiple regimens, evaluated through a network meta-analysis (NMA), remains a significant gap in the literature.
+
+Therefore, the objective of this study is to conduct a network meta-analysis to assess and compare the tolerability profile, measured by the risk of adverse events, of various single-dose oral pharmacological regimens for the management of moderate to severe pain following third molar extraction.
+
+Material and Methods
+
+Protocol and register
+This NMA was conducted according to the PRISMA protocol, with Extension for Network Meta-analysis of Health Care Interventions and the Cochrane Handbook. The protocol was previously registered in PROSPERO (CRD420251045775).
+
+Search strategy
+An electronic search was performed by four independent reviewers, including studies indexed through June 2024 in the following databases: MEDLINE (PubMed), Cochrane Central Registry of Controlled Trials (CENTRAL), Virtual Health Library (VHL), Embase, and Web of Science. Clinical trial records were verified in clinicaltrials.gov, and gray literature was assessed through Google Scholar. Complementary handsearching was conducted.
+
+Study selection (PICOS)
+(P) Patients who experienced moderate to severe pain after extraction of the lower third molar under local anesthesia; (I) Drugs (anti-inflammatory and/or analgesics) in any dosage, administered orally in a single dose; (C) Placebo or other oral medications, or the same drug at different doses; (O) Adverse events related to medication use reported up to the time of discharge; (S) Parallel, cross-over or split-mouth RCTs.
+Excluded: herbal/homeopathic/enzymatic preparations, non-oral routes, nitrous oxide/fentanyl/benzodiazepines, experimental/withdrawn drugs, duplicates, conference abstracts, letters, case reports, non-randomized trials, observational studies.
+
+Risk of bias: Cochrane RoB 2.0 for RCTs.
+
+Statistical analysis
+Analgesia protocols classified by pharmacological class as combination therapies (Non opioid analgesic plus Opioid; NSAID plus Non opioid analgesic; NSAID plus Non opioid analgesic plus Opioid; Opioid plus NSAID) or monotherapies (Non opioid analgesic; NSAIDs; Opioid analgesic). Placebo used as common comparator. Categorization by pharmacological class (not specific molecule) was a strategic methodological decision to ensure network connectivity — analyzing individual drugs would have produced a sparse disconnected network. A 'class effect' assumption was employed to maximize statistical power and transitivity. For multiple arms within the same class, events (n) and participants (N) were aggregated. NMA conducted in R (netmeta package), frequentist random-effects framework. Binary outcome (adverse events) effect estimates presented as relative risk (RR) with 95% CI. SUCRA percentages (frequentist analogue) presented for rankings.
+
+Certainty of evidence: CINeMA (Confidence in Network Meta-Analysis), six domains (within-study bias, reporting bias, indirectness, imprecision, heterogeneity, incoherence), summarized as very low/low/moderate/high.
+
+Results
+
+Literature search overview
+6677 studies initially found. 3631 duplicates removed. 3046 assessed by title/abstract; 2677 excluded. 369 read in full; 329 excluded. 40 articles included in systematic review; 28 met criteria for NMA.
+
+Overall risk of bias
+Ten RCTs "low risk of bias", 19 "some concerns", 11 "high risk of bias". Lowest-risk domain: "measurement of the outcome". Most failed domain: "selection of the reported result" (17 some concerns, 7 high risk).
+
+NMA for adverse events
+5306 third molar surgeries in 28 RCTs (7 low risk, 13 some concerns, 8 high risk). Placebo (n=1078; 23 RCTs) compared to seven interventions.
+
+KEY PAIRWISE RESULTS:
+- Only the combination of a non-opioid analgesic plus an opioid demonstrated significantly higher risk of AEs vs placebo: RR=1.71 (95% CI 1.05 to 2.77), low certainty.
+- NSAIDs alone vs other non-opioid analgesics: RR=1.82 (95% CI 1.24 to 2.68), low certainty (NSAID higher risk).
+- NSAIDs alone vs (non-opioid analgesic + opioid): RR=1.42 (95% CI 1.03 to 1.96), low certainty (NSAID higher risk).
+- Opioid analgesics alone vs NSAIDs alone: RR=0.61 (95% CI 0.41 to 0.89), very low certainty (opioid alone LOWER risk than NSAID alone).
+
+SUCRA SAFETY RANKING (higher % = higher probability of being UNSAFE / least safe):
+- NSAIDs: 86.5% (highest probability of being unsafe / least safe)
+- Placebo: 81.7% (second-least safe)
+- ... (intermediate active regimens)
+- NSAID + non-opioid analgesic + opioid (triple combination): 15.5% (SAFEST protocol)
+
+Consistency assessment
+Design-by-treatment interaction model revealed significant global inconsistency (Q=47.27, df=31, p=0.0309), primarily driven by between-design divergence (Q=32.01, df=17, p=0.0150) rather than within-design heterogeneity (Q=15.26, df=14, p=0.3607). SIDE method found no statistically significant local inconsistency (p>0.05) for any pairwise comparison; marginal trends for "Non opioid analgesic plus Opioid: Non opioid analgesic" (p=0.0782) and "NSAID plus Non opioid analgesic plus Opioid: Non opioid analgesic" (p=0.0759).
+
+Discussion (key points)
+
+- NSAID monotherapy had highest AE risk among active treatments; SUCRA ranked NSAIDs least safe. But SUCRA reflects relative probabilities, not absolute risk differences.
+- Placebo also ranked highly among least-safe options — manifestation of the NOCEBO response (negative patient expectations induce perception of real AEs; informed consent process can trigger it). Surgical trauma releases prostaglandins with emetic potential; without an inhibitory drug, nausea arises naturally and is attributed to placebo.
+- NSAID monotherapy's unfavorable ranking is unlikely to reflect serious GI/CV risks (those require prolonged exposure in older/comorbid populations); single-dose acute use in young healthy patients → likely driven by common, short-term, less severe AEs (nausea, vomiting, headache). Non-selective COX-1/COX-2 inhibition (e.g., ibuprofen) associated with these. A recent MA comparing selective COX-2 inhibitors vs ibuprofen found similar overall AE rates but ibuprofen had significantly higher nausea/vomiting.
+- Opioid + NSAID combination: advantageous safety profile via complementary peripheral/central pathways, allows lower opioid doses → reduces dose-dependent opioid AEs. Combinations containing NSAIDs better tolerated than opioid/acetaminophen combinations.
+- Opioid + acetaminophen: opioid component increases AE burden (nausea, vomiting, somnolence). Nausea most prevalent AE across acetaminophen-opioid combinations. Tramadol combination better tolerated than hydrocodone combination → AEs driven by opioid component.
+- Nausea/vomiting/dizziness/somnolence characteristic of opioid CNS action; opioids may stimulate central prostaglandin production (proemetic), inhibited by NSAID. But these AEs also frequent with placebo → nocebo as concurrent mechanism.
+
+Strengths: first NMA focused on safety of single-dose oral analgesics in third molar model; CINeMA certainty assessment; strict inclusion (single-dose oral, local anesthesia only, excluded sedation/GA); standardized young healthy population reduces comorbidity/polypharmacy confounding.
+
+Clinical translation: NSAIDs' 'safety cost' is mostly mild transient symptoms; efficacy balance remains favorable (Cochrane NMAs show NSAIDs NNT as low as 1.5–3 for significant pain relief; opioid combinations have higher NNT/lower efficacy relative to side-effect burden). NSAIDs should remain first-line therapy.
+
+Limitations: variability/under-reporting of local anesthetics (long-acting articaine affects immediate outcomes); heterogeneity in third molar classification (surgical difficulty); variation in baseline pain intensity (severe pain itself triggers autonomic nausea/vomiting); composite AE outcome (no sub-analysis by event type due to sparse/disconnected networks); temporal scope limited to immediate postoperative period (delayed events like alveolar osteitis/SSI not captured); class-level aggregation may mask molecule-level differences (e.g., selective COX-2 vs non-selective NSAID); serious-risk evidence comes from long-term studies (CNT Collaboration 2013) — direct extrapolation to acute single-dose in young healthy population should be cautious; significant global inconsistency (driven by design-by-treatment interaction); very low to low certainty of evidence overall.
+
+Conclusions
+Complex tolerability profile. Probabilistic ranking suggested NSAIDs associated with higher AE frequency, but very low to low certainty. Absence of significant differences between most drugs and placebo in direct comparisons + high placebo event incidence reinforces predominant nocebo role. Clinical decisions should not rely solely on probabilistic safety rankings — must balance mild transient AE risk against well-established superior NSAID analgesic efficacy.
