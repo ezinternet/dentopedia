@@ -1,0 +1,110 @@
+Continuous vs interrupted direct oral anticoagulants for minimal bleeding-risk surgical procedures—a systematic review and meta-analysis
+Xiang A, Popatia S, Sadafi SL, Rao M, Shaikh A, Nowrouzi M, Li A, Eshaghpour A, Crowther M.
+Research and Practice in Thrombosis and Haemostasis. 2026;10(3):103419.
+DOI: 10.1016/j.rpth.2026.103419 | PMID: 42027304 | PMCID: PMC13099467
+PROSPERO: CRD42024621729
+
+== ABSTRACT ==
+Background: Evidence supporting the perioperative interruption of direct oral anticoagulants (DOACs) is varied, especially for procedures with minimal bleeding risk.
+Objectives: This review compared the risk of bleeding events and thromboembolism in patients undergoing minimal bleeding-risk procedures, in whom DOACs were interrupted or continued.
+Methods: Prospective, retrospective, and randomized trials examining a continuous or interrupted DOAC strategy in patients undergoing minimal bleeding-risk surgeries were included. Primary outcomes included rates of venous or arterial thromboembolism and rates of major and minor bleeding events. Secondary outcomes included rates of surgical complications, mortality, and hospital length of stay.
+Results: We retrieved 24 studies (n=8663 patients). Cardiac ablations were the most common procedure (n=13), followed by pacemaker insertion (n=4) and dental procedures (n=4). Nineteen studies examined thromboembolic events, with a pooled odds ratio (OR) favoring continuous DOAC use (OR 0.54; 95% CI 0.33-0.91; I2=60%), although these results failed to persist in the high-quality randomized clinical trial data. Twenty studies examined bleeding events, with a significant reduction in major bleeds favoring continuous DOACs (OR 0.57; 95% CI 0.37-0.87; I2=0%), which failed to reach significance in the randomized data. There were no difference in minor bleeding (OR 0.93; 95% CI 0.69-1.24; I2=0%) events. No differences were noted in the rates of total complications or mortality.
+Conclusions: While our meta-analysis found an improvement in thrombotic and major bleeding events with continuous perioperative DOAC use, these results were likely subject to selection bias with no significant differences in all outcomes in the high-quality randomized trials. The findings in the randomized data noted no significant differences between a continuous and interrupted DOAC strategy, although further research is required to provide a more definitive conclusion.
+
+Essentials:
+- The risks of continuing oral anticoagulation for minimal bleeding risk surgeries are unknown.
+- This study reviewed articles comparing continuing vs stopping anticoagulation in minimal risk surgery.
+- High-quality data found no differences in bleeding and clotting between the 2 regimens.
+- We found no difference between the 2 regimens in minimal risk surgery, but more data are needed.
+
+== INTRODUCTION ==
+Direct oral anticoagulants (DOACs) are factor (F)Xa or direct thrombin inhibitors that have become the most common form of anticoagulation in the general population. By 2019, ~3.5 million individuals in the United States were receiving DOACs for venous thromboembolism (VTE) and nonvalvular atrial fibrillation. DOAC treatment has been associated with fewer drug interactions, reduced monitoring requirements, and lower bleeding risks compared with vitamin K antagonists.
+
+The high incidence of DOAC use presents a challenge in the periprocedural period, with over 250,000 patients each year assessed for preprocedural anticoagulant management prior to elective surgery. The continued use of a DOAC in the perioperative period has been theorized to increase the risk for major and minor bleeding, reoperation, and postoperative complications such as hematoma formation that may increase morbidity and mortality. Nevertheless, these adverse outcomes must be balanced against the risks of thromboembolism during anticoagulation interruption.
+
+Considering the opposing risks associated with DOAC interruption in the perioperative period, current guidelines largely recommend interruption of DOAC therapy for most elective major surgical procedures. Guidelines from sources such as Thrombosis Canada recommend stopping dabigatran, apixaban, and rivaroxaban for 1 day prior to a low- to moderate-risk procedure and 2 days for procedures with a high bleeding risk. Longer discontinuations between 3 and 5 days for high bleeding-risk procedures have also been recommended, although decisions may also be influenced by other patient-specific factors, such as active cancer or a bleeding history.
+
+While these recommendations regarding perioperative DOAC management have been widely adopted into clinical practice, the evidence supporting these decisions is limited, especially for procedures with a minimal risk of bleeding such as ablations, pacemaker insertions, and cataract surgery. Most guidelines suggest continuing DOACs is safe, although withholding them on the day of the procedure is also acceptable.
+
+== METHODS ==
+PRISMA 2020. PROSPERO CRD42024621729. Searched Ovid Medline, CENTRAL, EMBASE, CINAHL, and trial registries from inception until September 11, 2025.
+
+Eligibility: prospective cohort, retrospective cohort, and RCTs that (1) examined both continuous and interrupted DOAC use in the perioperative period; (2) enrolled patients undergoing any minimal-risk bleeding procedure, including cardiac device implantation, catheter ablation, coronary angiography with radial access, minor dermatological procedures, cataract procedures, or minor dental procedures; (3) evaluated outcomes related to VTE/arterial thromboembolism, major bleeding, surgical complications, and mortality.
+
+Bleeding risk determined a priori from American College of Chest Physicians Clinical Practice Guideline on Perioperative Management of Antithrombotic Therapy and 2019 ISTH subcommittee. Minimal bleeding risk procedures: cardiac device implantation, coronary angiography using radial artery access, minor dermatologic procedures, cataract procedures, and minor dental procedures.
+Minor dental procedures classified as: dental extractions, restorations, prosthetics, endodontics, dental cleanings, and fillings.
+
+Continuous regimen = DOAC continued on the morning of procedure. Interrupted strategy = discontinued 1 or more doses. Durations classified by interval: day of, 24 hours, 48 hours, or longer.
+
+Primary efficacy outcome: composite pooled rate of arterial and venous thromboembolism. Primary safety outcome: rate of bleeding events (major and minor). Secondary: hospital length of stay, mortality, other surgical complications.
+
+DerSimonian-Laird random-effects model. Heterogeneity via Cochrane chi-squared and I2 (0-30% low, 30-60% moderate, 60-90% substantial, 90-100% critical). Subgroup analyses: procedure type, timing of interruption, study design (RCT/prospective/retrospective). ICEMAN for subgroup credibility. Egger/Harbord tests if >=10 studies. Stata 18.
+
+Quality: Cochrane RoB 2.0 for RCTs; ROBINS-I v2 for nonrandomized; GRADE for overall certainty.
+
+== RESULTS ==
+3428 results, 587 duplicates removed, 2755 excluded at title/abstract, 86 full texts assessed, 62 excluded, 24 studies included (n=8663 patients).
+
+Study characteristics:
+- 8 retrospective cohort (n=2624)
+- 8 prospective cohort (n=2928)
+- 8 RCTs (n=3111)
+- 11 interventional (n=3541), 13 observational (n=3460)
+- Among observational, only 2 reported a priori periprocedural DOAC protocol (both left to attending physician discretion)
+- Countries: Japan (8), USA (4), Germany (2), South Korea (2), Italy (2)
+- Procedures: ablations (13 studies), pacemaker insertion (4), dental procedures (4)
+- DOACs: apixaban (n=2991), rivaroxaban (n=2479), dabigatran (n=2042), edoxaban (n=786)
+- Most on DOAC for atrial fibrillation (n=8448)
+- Timing of interruption: 6 studies morning of, 9 studies 24h prior, 5 studies 48h, 1 study 72h
+- Major bleeding definition: ISTH criteria (9 studies); rest study-specific
+
+PRIMARY EFFICACY (thrombotic events): 19 studies (n=8164).
+- All endpoints: 5.7% vs 6.3%; OR 0.54; 95% CI 0.33-0.87; I2=52% (favors continuous; moderate heterogeneity)
+- At 30 days: 4.9% vs 4.5%; OR 0.57; 95% CI 0.28-1.16; I2=34% (NS)
+
+PRIMARY SAFETY (bleeding events): 20 studies (n=7001).
+- Overall bleeding: 2.4% vs 3.2%; OR 0.79; 95% CI 0.62-1.01; I2=0% (NS)
+- Major bleeding: 19 studies (n=6172); 1.0% vs 2.2%; OR 0.57; 95% CI 0.37-0.87; I2=0% (favors continuous, significant)
+- Minor bleeding: 12 studies (n=4185); 4.6% vs 4.8%; OR 0.93; 95% CI 0.69-1.24; I2=0% (NS)
+
+SECONDARY:
+- Mortality: 4 studies (n=1672); 0.3% vs 0.8%; OR 0.33; 95% CI 0.08-1.41; I2=0% (NS, low event rate)
+- Total complications: 9 studies (n=2021); 6.1% vs 5.9%; OR 1.05; 95% CI 0.71-1.54; I2=0% (NS)
+
+SUBGROUP — STUDY DESIGN:
+- 8 RCTs: thrombotic OR 0.53 (0.17-1.64) NS; major bleeding OR 0.82 (0.42-1.61) NS; minor bleeding OR 1.02 (0.71-1.45) NS
+- 8 prospective: thrombotic OR 0.50 (0.27-0.92) significant; major OR 0.65 (0.26-1.65) NS; minor OR 0.99 (0.62-1.60) NS
+- 8 retrospective: thrombotic OR 0.56 (0.23-1.38) NS; major OR 0.43 (0.15-1.19) NS; minor OR 0.74 (0.38-1.45) NS
+- Total bleeding: RCT OR 0.96 (0.70-1.32) vs nonrandomized OR 0.56 (0.38-0.81); subgroup difference p=.03
+
+SUBGROUP — PROCEDURE TYPE:
+- Ablations: thrombotic OR 0.53 (0.34-0.84) significant; major OR 0.70 (0.37-1.34) NS; minor OR 0.98 (0.69-1.39) NS
+- Pacemaker: thrombotic OR 0.41 (0.06-2.95) NS; major OR 0.57 (0.18-1.76) NS; minor OR 1.12 (0.47-2.68) NS
+- Dental procedures: major OR 1.02 (0.08-12.70) NS; minor OR 1.44 (0.11-18.47) NS (very wide CIs, underpowered)
+
+SUBGROUP — DURATION OF INTERRUPTION:
+- Morning of: thrombotic OR 0.51 (0.29-0.93) significant; major OR 0.56 (0.27-1.19) NS; minor OR 1.01 (0.68-1.49) NS
+- 24h: thrombotic OR 0.68 (0.24-1.91) NS; major OR 0.66 (0.27-1.60) NS; minor OR 0.72 (0.43-1.20) NS
+- 48h: thrombotic OR 0.41 (0.17-0.96) significant; major OR 0.48 (0.17-1.36) NS
+
+POST HOC — stroke/TIA: OR 0.73; 95% CI 0.26-2.04; p=.55; I2=0 (underpowered, NS)
+
+RISK OF BIAS:
+- 16 nonrandomized (ROBINS-I v2): 15 high risk (mostly confounding/lack of adjustment), 1 moderate
+- 8 RCTs (Cochrane RoB 2.0): 4 high risk, 2 some concerns, 2 low risk
+
+GRADE: very low certainty for thrombotic events and all bleeding events; low certainty for minor/major bleeding, total complications, mortality. Rated down for large number of nonrandomized studies and high-RoB studies; thrombotic + all bleeding further rated down for moderate heterogeneity.
+
+== DISCUSSION ==
+Significant reduction in composite thrombotic outcomes favoring continuous regimen failed to reach significance in high-quality RCT data; primarily driven by low-quality observational data. Low-certainty evidence found no differences in minor bleeding, total complications, mortality. Signal of reduced major bleeding with continuous anticoagulation across all studies failed to reach significance in RCTs. Significant subgroup difference in total bleeding between randomized and nonrandomized data hints at selection bias.
+
+Selection bias interpretation: in nonrandomized data, low-bleeding-risk patients likely offered continuous anticoagulation whereas high-risk patients had anticoagulation held; healthier patients (less thrombotic risk) more likely offered continuous regimen. Sheikh et al noted more comorbid patients tended to be offered interrupted regimen. Observed benefit lost in randomized subanalysis due to blinding.
+
+All but 2 nonrandomized studies failed to report a priori protocol for regimen selection. RCT subgroup is most robust dataset. Limitations: moderate heterogeneity in thrombotic/overall bleeding outcomes; most studies did not report race/ethnicity; did not separate patients by specific DOAC (diverse half-lives).
+
+Strengths: 11 additional trials vs previous reviews; subgroup analyses for interruption duration, procedure type, study design; even in randomized data, pooled measures failed to indicate harmful effect of continuing perioperative DOAC use (both thromboembolic and bleeding outcomes); broad range of patient-important outcomes; large sample with narrow CIs.
+
+Consistent with prior smaller reviews (Mendoza et al cardiac device implantation; Basu-Ray et al catheter ablation; Ha et al AF ablation) finding continuous DOAC noninferior to interrupted.
+
+== CONCLUSIONS ==
+While overall analysis found very low-certainty evidence suggesting reduction in thrombotic and major bleeding events with continuous DOAC use in minimal bleeding-risk procedures, these effect measures were limited by study design and potential selection bias. Among high-quality randomized data, there were no observed differences between continuous and interrupted DOAC strategy in all outcome measures. These findings suggest that both a continued and interrupted DOAC strategy may be acceptable in the perioperative period for patients undergoing minimal bleeding-risk procedures, although higher-quality studies are needed.
