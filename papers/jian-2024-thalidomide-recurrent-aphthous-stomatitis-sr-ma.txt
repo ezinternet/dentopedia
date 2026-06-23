@@ -1,0 +1,92 @@
+Efficacy and safety of thalidomide for recurrent aphthous stomatitis: a systematic review and meta-analysis of randomized controlled trials
+Jian Y, Wang F, Zhao M, Han X, Wang X. BMC Oral Health. 2024;24(1):1149.
+DOI: 10.1186/s12903-024-04923-1 | PMID: 39342210 | PMCID: PMC11438041
+Source: PubMed Central full text (PMC11438041)
+
+== ABSTRACT ==
+
+Background
+Recurrent aphthous stomatitis (RAS) is considered as the most common oral mucosal lesion affecting up to 25% of people worldwide. Thalidomide has been reported for the treatment of RAS, but the evidence has not been systematically evaluated. We first systematically reviewed the efficacy and safety of thalidomide for the treatment of RAS.
+
+Methods
+We searched The Cochrane Library, PubMed, Scopus, Web of Science, Embase, China National Knowledge Infrastructure (CNKI), Chinese BioMedical Literature Database (CBM), Wanfang Data, and VIP information from inception to December 2023. Randomized controlled trials (RCTs) comparing thalidomide with control for RAS were included in the analysis. The primary outcome were complete response and overall response, and the secondary outcome were recurrence interval (RI), ulcer number and size, healing time, visual analogue scale (VAS), immunological data, and adverse events. Meta-analysis was conducted using the Review Manager 5.4 software.
+
+Results
+Twenty-one trials involving 1668 patients were included in this review. The results of our meta-analysis showed that thalidomide significantly improved the complete response rate and overall response rate, prolonged the recurrence interval, accelerated the healing process, reduced the number and size of ulcers, and lowered TNF-α levels in the treatment of RAS. However, thalidomide significantly increases adverse events.
+
+Conclusion
+Thalidomide has a significant benefit in the treatment of RAS. However, considering the potential side effects of thalidomide, it may be an optimal treatment option for major RAS patients or cases that do not respond to topical agents.
+
+Trial registration: PROSPERO registration number: CRD42024495038.
+
+== FULL TEXT ==
+
+Introduction
+
+Recurrent aphthous stomatitis is a common chronic disease of the oral mucosa with a prevalence of 5–25% and up to half of patients have a recurrence within three months. The ulcers usually occur on the non-keratinized oral mucosa with a yellow or white, crater-shaped base surrounded by an erythematous halo, and usually heal spontaneously within 7–10 days. Continuous and recurrent oral ulcers and severe pain influence the life quality of patients. RAS is classified as minor RAS, major RAS, and herpetiform RAS. The aetiology of RAS remains unclear and it is thought to be multifactorial. The current research suggests that genetically mediated innate and acquired immune dysregulation play a key role in the disease development. Factors that modify the immune response include: trauma, drugs, nutritional deficiency, hormonal changes, food allergies, stress, tobacco, and oral micro-organisms. Aphthous-like ulcerations may also occur in systemic diseases, including gastrointestinal disorders, Behçet disease, and immunodeficiencies. The aim of treating RAS is to reduce the number and size of ulcers, relieve symptoms and prolong disease-free periods. For some mild patients, palliative treatment for pain relief and maintaining good mouth hygiene is sufficient. For individuals who experience multiple episodes and/or severe pain and eating difficulties, medication treatment should be considered. The recommended treatment for RAS includes topical agents and systemic medications. The topical agents are the first option of the treatment of RAS. For systemic drugs, corticosteroids, thalidomide, levamisole, dapsone, colchicine, seem to exert certain effects through different mechanisms. In addition, the Consensus of China also recommends Traditional Chinese Medicine (TCM) for RAS. Thalidomide, a synthetic derivative of glutamic acid, was used to relieve morning sickness in pregnant women, and was eventually banned because of its teratogenic effects. In recent years, thalidomide has attracted the attention of researchers as its immunomodulatory effects. Thalidomide has significant therapeutic effects in many diseases including cutaneous lesions of systemic lupus, β-thalassemia, ankylosing spondylitis and multiple myeloma. Thalidomide has gradually been introduced into the treatment of oral mucosal diseases with certain therapeutic effects. However, the clinical application of thalidomide is limited because the current evidence is not as strong as other therapies such as corticosteroids. Meanwhile, in addition to embryonic toxicity, thalidomide also has other significant side effects, such as peripheral neurotoxicity, venous thromboembolism and somnolence. Thalidomide for RAS treatment has not been systematically evaluated, so to better balance the benefits and risks, we conducted a review of all RCTs, aiming to evaluate the efficacy and safety profile of thalidomide for treatment of RAS.
+
+Methods
+
+This systematic review and meta-analysis were performed according to the PRISMA guideline.
+
+Search strategies: The following electronic databases were searched by two independent researchers (Jian and Zhao) for published studies from inception to December 2023: PubMed, Scopus, Embase, Web of Science, The Cochrane Library, China National Knowledge Infrastructure (CNKI), Chinese BioMedical Literature Database (CBM), VIP information, Wanfang Data. The main search strategy: (thalidomide OR sedoval) AND (recurrent aphthous stomatitis, stomatitis, aphthous, recurrent aphthous ulcers, aphthous stomatitis, recurrent oral ulcers).
+
+Eligibility criteria (PICOS):
+P: individuals diagnosed with RAS, including patients with RAS who also suffer from basic diseases such as AIDS, Behçet's disease or acute leukaemia.
+I: treatment groups received oral thalidomide alone or thalidomide combined with other interventions.
+C: placebo or any form of medical intervention except thalidomide, whether topical or systemic.
+O: primary — complete response and overall response (overall response = complete response plus partial response); secondary — recurrence interval, number of ulcers, days to ulcer healing, VAS score, ulcer diameter, immunological data, adverse effects.
+S: Randomized controlled trials and controlled clinical trials.
+Exclusion: uncontrolled trials, reviews, posters, secondary research, meeting abstracts, in vitro or animal studies, and papers without full text.
+
+Quality assessment: Cochrane Risk of Bias Assessment Tool (seven criteria).
+
+Statistical analysis: RevMan 5.4. Dichotomous data (e.g. complete response) as risk ratio (RR) using Mantel-Haenszel method. Continuous variables (recurrence interval, number of ulcers, days to ulcer healing, VAS score, ulcer diameter) as mean difference (MD). 95% CIs. Heterogeneity via I² statistics; I² ≤ 50% fixed-effect model, otherwise random-effects. For cross-over trial, data from first phase analyzed.
+
+Results
+
+Search results and study characteristics: 1242 articles found in nine databases. After removing duplicates, screening titles and abstracts, and reading entire articles, 21 studies with 1668 patients met the inclusion criteria. 15 publications in Chinese, 6 in English. 17 trials conducted in China; the other four in the United States, France, Mexico, and Brazil. Three compared thalidomide with placebo; seven compared with other medical measures (prednisone, vitamin B1, montmorillonite powder, dapsone, colchicine, etc.); nine evaluated combination therapy of thalidomide and other drug vs other drug alone; two triple-arm trials compared combination of thalidomide and TCM, thalidomide alone, and TCM alone. Treatment duration ranged from 5 days to 6 months.
+
+Included studies (Table 1): Chen H (major RAS, 3-arm RCT, thalidomide ± TCMD); Deng YW (minor RAS, 5-arm RCT, thalidomide 25 vs 50 mg/d, 4 vs 8 wk); Gao Q (major RAS, thalidomide 50 mg×2/d vs levamisole); Jacobson 1997 (HIV-RAU, thalidomide 200→100 mg/d vs placebo); Lin YH (RAS, thalidomide taper vs vitamin B1, 6 mo); Mimura (major RAS, 4-arm: thalidomide vs dapsone vs colchicine vs pentoxifylline, 6 mo); Peng Y (RAS, thalidomide vs montmorillonite powder); Ramirez-Amador (HIV-RAS, thalidomide 200→100 mg/d vs placebo); Revuz (major RAS, thalidomide 100 mg/d vs placebo, 2 mo); Tian FQ (acute-leukaemia RAS, thalidomide+vitB1 vs vitB1, 5 d); Wang PH (RAS, thalidomide taper +vitB1+vitAD vs vitamins); Xu HX (RAS, thalidomide + total glucosides of Paeony vs Paeony + Tripterygium); Xu HY (minor RAS, thalidomide 25 mg/d + multivitamin vs multivitamin); Xu JC (minor RAS, 3-arm: thalidomide, Paeony, combination); Xu Q (RAS, thalidomide taper + vitB1 vs vitB1, 6 mo); Xu Q (RAS, thalidomide + cimetidine vs cimetidine); Zeng QX (minor RAS, thalidomide taper 100→50→25 mg/d vs prednisone, 30 d); Zhang J (RAS, thalidomide + multivitamin vs multivitamin); Zhong JJ (major RAS, thalidomide vs levamisole, 30 d); Zhou H (major RAS, thalidomide taper + vitB1 vs vitB1, 6 mo); Zhong ZQ (RAS, thalidomide 50 mg/d + prednisone vs prednisone, 1 mo).
+
+Risk of bias: All randomized, but only two reported allocation concealment (low risk). Only three (detection bias) and four (performance bias) judged low risk. All low-risk on selective reporting and incomplete outcome. Other bias unclear.
+
+Meta-analysis results (subgroup by comparison):
+
+Complete response:
+- thalidomide vs placebo (3 studies): RR = 6.95, 95% CI 3.04–15.92, I² = 39%, p < 0.00001, fixed-effect — significant.
+- thalidomide vs other drug (8 trials): RR = 2.18, 95% CI 1.38–3.45, I² = 68%, p = 0.008, random-effect — significant.
+- thalidomide + other medicine vs other medicine alone (10 trials): RR = 2.44, 95% CI 1.55–3.84, I² = 59%, p = 0.0001, random-effect — significant.
+
+Overall response:
+- vs placebo (1 study): RR = 3.59, 95% CI 1.87–6.89.
+- vs other medicine (7 studies): RR = 1.18, 95% CI 0.99–1.41, I² = 80%, p = 0.07, random-effect — NOT significant.
+- combination vs other drug alone (10 studies): RR = 1.32, 95% CI 1.23–1.42, I² = 0%, p < 0.00001, fixed-effect — significant.
+
+Recurrence interval (3 studies): MD = 26.91 (days), 95% CI 2.29–51.54, p = 0.03, I² = 99%, random-effect — thalidomide significantly prolongs RI.
+
+Healing time (4 studies): MD = -1.31 days, 95% CI -2.06 to -0.56, I² = 70%, p = 0.0006, random-effect — thalidomide accelerates healing.
+
+Number of ulcers (4 studies): MD = -0.98, 95% CI -1.87 to -0.08, p = 0.03, I² = 91%, random-effect — significant reduction.
+
+Ulcer size (2 RCTs, mean diameter): MD = -0.85, 95% CI -1.02 to -0.68, I² = 4%, p < 0.00001, fixed-effect — significant reduction.
+
+VAS score (3 studies): MD = -0.64, 95% CI -1.75 to 0.47, I² = 91%, p = 0.26, random-effect — NO significant difference (no pain-relief advantage).
+
+Immunological data (5 trials): TNF-α, IgA, IgG, IgM. Four studies assessed TNF-α; three reported reduction by thalidomide, one an unexpected increase. Heterogeneity and data abnormality precluded meta-analysis of TNF-α. Xu Q et al. found thalidomide + cimetidine significantly reduced IgA, IgG, IgM vs cimetidine alone.
+
+Adverse events: Patients with severe underlying disease (AIDS, Behçet's, acute leukaemia) excluded from adverse-event analysis. Four trials reported withdrawals due to adverse reactions: 12 patients in thalidomide group total vs only 1 in control. Eight studies did not report adverse events. Remaining nine studies evaluated constipation, somnolence, dizziness, rash, peripheral neurotoxicity, etc. Meta-analysis: thalidomide-containing regimens significantly increased adverse events, RR = 1.87, 95% CI 1.17–2.99, p = 0.009, I² = 36%, fixed-effect.
+
+Discussion
+
+RAS management remains challenging with no definitive treatment. Topical agents (glucocorticoids, corticosteroids, anesthetics, antibiotics) are first option, but no evidence-based guidelines indicate which systemic treatment is first-line for topical-refractory RAS. Th1-type cytokines (TNF-α, IL-2, IL-12) drive autoimmunity; TNF-α is higher in RAS patients (peripheral blood and saliva). Thalidomide blocks TNF-α expression via NF-κB blockade, MyD88 downregulation (inhibiting LPS-induced TNF-α), and enhanced mRNA degradation. A prior Cochrane review of systemic interventions for RAS did not explicitly recommend thalidomide.
+
+Findings: thalidomide significantly improved complete and overall response, prolonged recurrence interval, accelerated healing, reduced ulcer number and size, and lowered TNF-α; but did NOT provide pain-alleviation advantage (VAS NS) and significantly increased adverse events (peripheral neuropathy, thrombosis/embolism, constipation, somnolence).
+
+Dosing: Zeng concluded thalidomide had longer recurrence-interval effect than prednisone. Early studies used high doses (Jacobson/David 200 mg/d) with high adverse-reaction incidence; high dose/long-term use increases thromboembolism and peripheral neuropathy. Zeng's taper 100→50→25 mg/d (10 d each) had mild-moderate reactions. Deng compared 25 vs 50 mg/d and found 25 mg/d had long-term effect on prolonging recurrence interval with better safety. Wei found 50 mg/d not superior to 25 mg/d as maintenance after prednisone. Authors conclude 25 mg/d is a good choice. Peripheral neuropathy symptoms (poor sensation, distal limb numbness, muscle weakness, hypotonia) should be carefully monitored; stop thalidomide immediately if these occur to avoid irreversible peripheral-nerve damage. Future RCTs could test every-other-day or twice-weekly dosing for better safety.
+
+Limitations: low quality of most studies (poor blinding/allocation-concealment reporting); considerable heterogeneity (RAS type, underlying disease, doses, comparison groups, outcomes, treatment duration, follow-up, participants); most trials performed in China (limits generalizability).
+
+Conclusions
+
+No guidelines indicate which systemic treatment to choose first for topical-refractory RAS. This review firstly systematically demonstrated that thalidomide significantly improves response rate, prolongs recurrence interval, accelerates healing, reduces TNF-α, and reduces ulcer number and size in RAS treatment. However, thalidomide therapy is associated with significant increase in adverse events. Results provide clinicians an optimal treatment option for RAS patients not responding to topical medication. Due to low quality and heterogeneity of included trials, large-sample randomized, controlled, multicenter clinical trials are warranted.
