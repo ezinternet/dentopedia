@@ -1,0 +1,35 @@
+Clinical outcomes of implants placed with transcrestal maxillary sinus elevation: a systematic review and meta-analysis.
+
+Kadkhodazadeh M, Alimardani Y, Azadi A, Daneshvar A, Amid R, Khaleghi A.
+Br J Oral Maxillofac Surg. 2024;62(8):685-703. doi:10.1016/j.bjoms.2024.05.006
+PMID: 39098575. PROSPERO CRD42024504513.
+
+ABSTRACT (abstract-only — PMC full text not available)
+
+This systematic review and meta-analysis assesses the clinical outcomes of implants
+inserted during or following transcrestal sinus lifts. The study protocol was
+prospectively registered on PROSPERO (CRD42024504513). PubMed, Web of Science, Embase,
+and Scopus databases were searched up to 21 February 2024, and randomised clinical
+trials utilising transcrestal sinus lifts were included. Qualitative and quantitative
+syntheses were conducted. A random effects model was used to pool the survival rate of
+implants placed with transcrestal sinus lifts using hand osteotomes without grafting,
+along with meta-regression and subgroup analyses. Funnel plots and Egger's linear
+regression were used to explore possible publication bias. Probabilities of less than
+0.05 were considered significant.
+
+A total of 1807 records were identified after the initial search. Seventeen studies were
+included with 10 of them considered for meta-analysis. Studies used hand osteotomes, a
+combination of piezoelectric and hand osteotomes, drills, and smart lifts for sinus
+elevation. Only studies that used hand osteotomes reported subsequent vertigo and
+dizziness in patients. The meta-analysis showed a 100% (95% CI: 99% to 100%) survival
+rate for both grafted and non-grafted transcrestal sinus lifts using hand osteotomes.
+Meta-regression showed that follow-up time did not significantly affect the implants'
+survival. Subgroup analyses showed no significant difference between bone-level and
+tissue-level implants and one-stage or two-stage implants.
+
+On considering the limitations of this study it can be concluded that closed maxillary
+sinus elevation can be considered a relatively safe technique that is associated with a
+high survival rate. However, caution should be taken when using hand osteotomes because
+of a higher rate of sinus lining perforation and reported patient vertigo.
+
+Source: PubMed / Br J Oral Maxillofac Surg. https://doi.org/10.1016/j.bjoms.2024.05.006
