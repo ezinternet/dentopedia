@@ -10,6 +10,7 @@ on:
       - "scripts/lint.py"
       - "scripts/orphan-check.py"
       - "scripts/find-no-wiki.py"
+      - "scripts/supersession-audit.py"
   pull_request:
     paths:
       - "wiki/**/*.md"
@@ -37,3 +38,6 @@ jobs:
 
       - name: Find papers without wiki
         run: python3 scripts/find-no-wiki.py
+
+      - name: Supersession audit (dangling links & banner-desync → fail; decay → pass)
+        run: python3 scripts/supersession-audit.py --ci
