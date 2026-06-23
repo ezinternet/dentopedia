@@ -1,0 +1,76 @@
+Title: Calcium Silicate-Based Sealers: Apatite Deposition on Root Canal Dentin and pH Variation Analysis
+Authors: Indah Yulianto Maharti et al. (Universitas Indonesia)
+Journal: European Journal of Dentistry, 2024 Sep 09
+DOI: 10.1055/s-0044-1788685 | PMID: 39251206 | PMCID: PMC12020572
+Source: PubMed Central full text (cite PubMed; DOI https://doi.org/10.1055/s-0044-1788685)
+
+== Introduction ==
+
+Endodontic treatment failure generally occurs due to microleakage between filling materials, sealer, and root dentin, allowing microorganisms to penetrate the treated root canal and enter the periapical tissues. Root canal obturation forms a fluid-tight barrier to protect periapical tissue from microorganisms and create a conducive environment for healing. A notable recent advancement involves biomaterials designed to integrate with living tissues, promoting functionality while minimizing adverse reactions.
+
+Biomaterials in endodontics now focus on regenerative concepts, aiming not only to form a mechanical seal but also a biological seal that stimulates and modulates healing. "Biological seal" describes biocompatible and bioactive properties of a material in contact with tissue; "mechanical seal" reflects adhesive strength and physical properties. Biological seal formation aligns with the monobloc principle (homogenous fluid-tight unit of the root canal).
+
+Epoxy resin-based sealers are widely recognized as the gold standard. However, studies identify drawbacks: Najafzadeh et al found epoxy resin-based sealers exhibit lower marginal adaptation and tubular penetration than calcium silicate-based sealers. Silicone oils in AH Plus may cause shrinkage between sealer and dentin, facilitating bacterial penetration. Calcium silicate-based sealers achieve greater tubular penetration, possibly due to smaller bioceramic particle size. Calcium silicate-based sealers are bioactive materials and a relevant alternative to epoxy resin-based sealers.
+
+Bioactive materials elicit specific biological responses from the material surface, leading to a bond between tissue and material. Biomineralization is the material's ability to form an apatite-like layer on the surface when in contact with physiological fluid; this involves a pH increase, mineral ion release, and apatite structure formation. Apatite formation enhances sealing ability, fills porous areas, contributes to dentin biomineralization, and protects the root canal from bacteria and toxins.
+
+Calcium silicate-based sealers can induce hydroxyapatite precipitation on root dentin and form a mineral layer. The latest generation is available premixed, providing uniform consistency without mixing. Ceraseal (Meta Biomed Co., Cheongju, Korea) is a premixed calcium silicate-based endodontic sealer. AH Plus Bioceramic (Dentsply Sirona, United States) is another premixed calcium silicate-based sealer, an innovation over the previous AH Plus generation.
+
+Several parameters indicate biomineralization ability: induction of carbonate apatite formation on the surface and changes in pH values during ion release. Reyes-Carmona et al (2009) found Portland cement soaked in PBS formed petal-like crystal precipitation on day 14. Biomineralization analysis examines the interfacial apatite layer between dentin and cement using SEM, confirmed by EDX. Calcium silicate-based materials reach their peak on day 7 and decrease on day 14. Apatite formation occurs simultaneously with pH changes due to ion exchange during setting; pH measurement thus assesses biomineralization ability.
+
+This study investigated and compared the biomineralization ability of two premixed calcium silicate-based sealers (AH Plus Bioceramic and Ceraseal) via apatite deposition on root canal dentin and pH increases after immersion in PBS. Null hypothesis: no significant differences in apatite deposition and pH values between the sealers.
+
+== Materials and Methods ==
+
+Ethical approval: KEPKG-FKGUI 07/Ethical Approval/FKGUI/III/2023, protocol 050100223. Experimental laboratory study at the Faculty of Dentistry, Universitas Indonesia, Jakarta, and BRIN Serpong Laboratory, Feb–Mar 2023. Two tests: apatite deposition test and pH value test.
+
+Sample size — apatite deposition test: 15 mandibular second premolars extracted for orthodontic needs. Inclusion: ~25 mm long, single straight root, single root canal, closed apex. Exclusion: fractures/cracks/defects, root resorption, previously treated canals. pH value test: sealers placed into molds, three molds per group (n = 3 per group; measured three times per sample, average recorded).
+
+Apatite deposition test: Postextraction teeth immersed in 0.9% saline at room temperature. Endodontic access with endo access bur; cleaning and shaping by crown-down with ProTaper Gold up to F3. Final irrigation: 2.5% NaOCl and 17% EDTA activated by sonic activation (Endoactivator). Canals dried with endodontic suction (5 s) and paper points (1 s). Gutta-percha cone F3 inserted. Samples randomly assigned to three groups (total n = 15):
+- Group I: AH Plus Bioceramic sealer (n = 5)
+- Group II: Ceraseal sealer (n = 5)
+- Group III: root canal dentin without sealer, immersed in PBS as control (n = 5)
+
+Obturation per manufacturer guidelines. After obturation, specimens placed in incubator at 37°C, 100% humidity for 24 h to set. Then immersed in PBS for 14 days, PBS changed every 5 days. After 14 days, roots cut horizontally perpendicular to root axis, 5 mm from apex, using water-cooled diamond saw; dried 12 h; coated with platinum; observed with SEM/EDX (Jeol/Korea).
+
+Apatite layer area at the dentin–sealer interface determined from EDX composition and morphology. Measurement: 50 lines drawn perpendicular to the outer boundary of dentin and root canal filling to find average thickness; repeated twice per group; average apatite deposition at interfacial layer calculated with ImageJ.
+
+pH value determination: Sealers placed in molds (height 2 mm, diameter 5 mm), incubated at 37°C, 100% humidity for 24 h to set. After setting, removed from molds and placed in PBS. Baseline PBS pH measured first. pH measured on days 0, 7, and 14 using a calibrated digital pH meter (Hanna, United States).
+
+Statistics: Mann–Whitney post hoc test for apatite deposition differences between AH Plus Bioceramic and Ceraseal (µm). ICC for inter-observer consistency. One-way ANOVA for pH differences among the three groups. Significance p < 0.05.
+
+== Results ==
+
+SEM at ×1,000 distinguished three areas: dentin, interfacial layer, and root canal filling. Apatite mineral deposits found on root canal dentin surface in both sealer groups after 14 days.
+
+AH Plus Bioceramic: interfacial layer showed thin apatite with cloud-like morphology and irregular edges precipitated on dentin walls. Average Ca/P ratio in interfacial layer = 2.01; Ca/P in root canal dentin = 1.61.
+
+Ceraseal: interfacial layer showed apatite deposits with granular, irregular morphology and uneven contours, mixed gray and white coloration. Average Ca/P ratio in interfacial layer = 4.01; Ca/P in root canal dentin = 1.71.
+
+ICC = 0.998 (reliable). Significant difference in interfacial-layer apatite deposition area between groups (p < 0.05); Ceraseal had higher average deposition.
+
+Apatite deposition (median [min–max], µm):
+- AH Plus Bioceramic: 18.49 (18.02–19.43)
+- Ceraseal: 23.65 (21.93–25.78)  [significantly higher, p < 0.05]
+
+pH values (mean ± SD):
+Time | Control | Ceraseal | AH Plus Bioceramic
+0 h  | 7.4 ± 0.005 | 7.4 ± 0.01  | 7.43 ± 0.02
+7 d  | 7.39 ± 0.003 | 11.29 ± 0.08 | 9.32 ± 0.79
+14 d | 7.39 ± 0.004 | 11.48 ± 0.04 | 9.19 ± 0.73
+
+AH Plus Bioceramic increased on day 7 then decreased; Ceraseal continued to increase through day 14. At days 7 and 14, significant pH differences among control, AH Plus Bioceramic, and Ceraseal (p < 0.05); Ceraseal highest, AH Plus Bioceramic lower alkalizing activity. Within-group differences between days 7 and 14 were not statistically significant for either sealer.
+
+== Discussion (key points) ==
+
+PBS (phosphate 9–10 mM, body-like pH/osmolarity) modulates biomineralization better than distilled water. Both sealers deposited apatite on root canal dentin. Cloud-like thin apatite on day 14 is consistent with Gandolfi et al (2010); morphology becomes denser/more compact with prolonged immersion (Reyes-Carmona 2009). EDX showed Ca, P, O with small Si in the interfacial layer; PBS contains no Ca, so Ca in the interfacial layer indicates a precipitation reaction. Both Ca/P ratios (2.01, 4.01) exceed hydroxyapatite (Ca/P = 1.67), attributed to ongoing biomineralization with low phosphorus content (cf. Prati & Gandolfi 2015). Mineral infiltration zone forms on dentin walls.
+
+Ceraseal particle size 0.3–68 µm (AH Plus Bioceramic particle size not yet studied). Ceraseal has a higher calcium silicate proportion than AH Plus Bioceramic, explaining greater apatite deposition and higher pH; AH Plus Bioceramic reduced calcium silicate and increased zirconium dioxide. High calcium silicate forms more silanol groups (nucleation sites for hydroxyapatite). Zirconium dioxide enhances biological properties (osteoblast adhesion/proliferation, mineral deposition) but high calcium hydroxide is toxic at high alkalinity.
+
+pH rises in the first 24 h from early hydration releasing calcium hydroxide. AH Plus Bioceramic pH decreased days 7→14 (hydroxide combining with OH sites in apatite, forming precipitation; not statistically significant). Ceraseal pH increased days 7→14 (higher calcium silicate → more ion release; not statistically significant). Results differ from Zamparini et al (2022), which showed a pH decrease for both from 24 h (possibly different measurement methods); but consistent with Zamparini in Ceraseal showing higher alkalinity and calcium release than NeoSealer Flo and AH Plus Bioceramic. Null hypothesis rejected.
+
+Limitations: restricted observation period; analysis confined to SEM/EDX (mineral phase unidentified); in-vitro only — in-vivo validation needed.
+
+== Conclusion ==
+
+Ceraseal demonstrated superior biomineralization potential vs AH Plus Bioceramic: higher average interfacial apatite deposition and consistently higher pH at days 7 and 14. AH Plus Bioceramic pH decreased days 7→14 while Ceraseal increased.
