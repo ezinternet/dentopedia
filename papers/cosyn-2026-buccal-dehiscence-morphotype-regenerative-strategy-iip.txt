@@ -1,0 +1,113 @@
+Impact of the Buccal Dehiscence Morphotype on the Regenerative Strategy in Immediate Implant Placement
+Jan Cosyn, Thomas De Bruyckere
+Department of Periodontology and Oral Implantology, Ghent University, Gent, Belgium
+J Esthet Restor Dent. 2026;38(6):1140-1153. doi:10.1111/jerd.70115
+PMID: 41578628 | PMCID: PMC13193359
+
+ABSTRACT
+
+Objective: To propose buccal dehiscence morphotypes and discuss their impact on the regenerative potential and strategy in immediate implant placement (IIP).
+
+Clinical Considerations: Eleven buccal dehiscence morphotypes could be identified based on vertical and lateral extent, and facial soft tissue support. Two morphotypes should not be treated with IIP given a high risk of esthetic failure. These include a buccal dehiscence combined with facial recession and extended defects. Nine morphotypes may be amenable to IIP and appropriate regenerative strategy. Sockets with a relatively high regenerative potential can be treated by slightly modifying the trimodal approach for intact sockets. Sockets with a moderate regenerative potential require the additional use of a non-supportive barrier, whereas those with a low regenerative potential require a supportive barrier and composite bone graft. Comprehensive diagnosis, expertise, and surgical skills are key to identify the correct morphotype, to select the appropriate regenerative strategy and to put it into practice.
+
+Conclusions: The identification of two morphotypes that contraindicate IIP is the first and most crucial step in the clinical decision-making process. Other morphotypes may be amenable to IIP, yet require comprehensive diagnosis, expertise, and surgical skills. Clinical studies are needed to validate the concepts presented in this article.
+
+1. INTRODUCTION
+
+A recent network meta-analysis showed a considerable esthetic advantage for immediate implant placement (IIP) combined with immediate restoration (IR) over any other treatment concept. This may be explained by the ability to support the soft tissues immediately after surgery, while collapse is inevitable when applying IIP without IR or early/delayed implant placement. Although the body of evidence is weaker, the same could be attained by means of an anatomical abutment when IR is not possible due to poor primary implant stability. Apart from the esthetic advantage, IIP and IR are also in the patients' best interest because there is only one surgical intervention, and maximum comfort is provided since a removable partial denture can be avoided. Meticulous implant positioning may be considered the biggest challenge in IIP as it requires considerable expertise and surgical skills. These two qualities are of critical importance since IIP performed by non-experts has been shown to result in lower esthetic outcomes and patient satisfaction when compared to IIP performed by experts.
+
+Buccal bone thickness and midfacial recession are crucial outcome parameters in IIP. The specific interest in the former can be explained by the fact that IIP fails to alleviate post-extraction bone remodeling, usually resulting in substantial buccal bone loss. Grafting the buccal bone gap has been shown to mitigate buccal bone resorption and midfacial recession to some extent. Soft tissue augmentation and IR have also been shown to contribute to facial soft tissue stability and esthetics. As a result, a trimodal approach based on grafting the buccal bone gap, soft tissue augmentation, and IR has become the state of the art for IIP in the esthetic zone.
+
+According to a recent CBCT analysis of 100 single implant cases in the maxillary incisor/cuspid area, compromised sockets are common. A buccal fenestration was found in 21% of the cases, yet a buccal dehiscence was seen in 40% of the cases. The latter comprises bone loss at the most critical cervical aspect, which may have a negative impact on buccal bone regeneration, facial soft tissue levels and therefore esthetics. Recent systematic reviews indicate promising clinical and esthetic outcomes for IIP in sockets with a buccal dehiscence. However, the level of evidence is low since it is based on heterogeneous data from case series and cohort studies. In addition, most studies do not report the vertical and lateral extent of a buccal dehiscence, although these dimensions largely determine its regenerative potential and the appropriate regenerative approach. Consequently, current systematic reviews merely support a proof of principle for IIP in compromised sockets.
+
+The objective of the present article was to propose a conceptual framework for the classification and treatment of compromised sockets in the context of IIP. This conceptual review is based on a synthesis of existing evidence and expert experience rather than on empirical research. Therefore, future clinical studies are needed to validate the regenerative concepts presented in this article.
+
+2. THE SAFE ZONE, THE DANGER ZONE AND THE FAILURE ZONE
+
+A perfect implant position is the most important prerequisite for a predictable outcome. An immediate implant can be installed in the safe zone, the danger zone, or the failure zone.
+
+2.1 The Safe Zone
+Definition: A narrow zone that delineates the perfect implant position. Prosthetically driven — the implant's long axis aligns with the cingulum of incisors and cuspids, or the center of the crown in premolars.
+Vertical/horizontal boundaries: In the vertical dimension the safe zone starts 4 mm below the facial soft tissue margin to accommodate space for an optimal emergence profile. In the horizontal dimension the safe zone is bounded by a buccal bone gap greater than 2 mm.
+Clinical implications: Implant installation in the safe zone results in maximal bone and soft tissue preservation, a perfect emergence profile and esthetic outcome.
+
+2.2 The Danger Zone
+Definition: A narrow zone at the coronal and buccal aspect of the safe zone.
+Boundaries: Vertical height 2 mm; horizontal width 1 mm.
+Clinical implications/risks: When positioned in the vertical area, the implant shoulder may no longer be surrounded by bone and emergence-profile space is reduced. In the buccal area, an incomplete and thin buccal bone wall is expected after healing; buccal soft tissues become thinner at abutment level, with esthetic consequences.
+
+2.3 The Failure Zone
+Definition: Located at the coronal and buccal aspect of the danger zone.
+Boundaries: Vertical height 2 mm, coronally delineated by the facial soft tissue margin; horizontal width variable, buccally delineated by the buccal bone wall.
+Clinical implications/risks: In the vertical area, the implant shoulder will be exposed with no emergence-profile space. In the buccal area, there will be no buccal bone wall after healing, resulting in advanced facial recession and esthetic failure.
+
+Attaining a perfect bucco-palatal implant position with free-hand surgery is challenging since the safe zone deviates from the alveolus in most cases; drills tend to follow the root track, easily resulting in buccal positioning. Computer-Assisted Implant Surgery and a bone track drill are of fundamental importance to avoid buccal positioning and tilting, and both should be standard of care in IIP.
+
+3. THE TRIMODAL APPROACH IN INTACT SOCKETS
+
+In an intact socket the trimodal approach (grafting the buccal bone gap + soft tissue augmentation with CTG + immediate screw-retained provisional) provides the most stability to the regeneration chamber, favoring a buccal bone wall that supports the facial soft tissues. Flapless surgery is strongly recommended — raising a flap disrupts the blood supply of the fragile buccal bone wall, resulting in additional buccal bone loss. An autogenous tooth may be used as a provisional restoration (hollowed, chemically conditioned, flowable composite to build the emergence profile with C/B/E zones).
+
+4. HEALING OF A SOCKET WITH A BUCCAL DEHISCENCE
+
+An intact buccal bone wall provides optimal structural stability to the regeneration chamber. This is impaired in a socket with a buccal dehiscence and cannot be fully compensated by a bone graft. On a cellular level, mesenchymal stem cells migrate from surrounding bone and periosteum to participate in osteoblast differentiation and bone formation. A compromised socket lacks at least one bone wall, so cellular migration and differentiation are affected. Both the lack of structural stability and reduced cellular migration impair the regenerative potential of a compromised socket. The trimodal approach is therefore insufficient to treat sockets with a buccal dehiscence.
+
+5. THE VERTICAL EXTENT OF A BUCCAL DEHISCENCE
+
+Classified by Elian et al.: Type I = intact socket; Type II = buccal dehiscence with intact soft tissues; Type III = buccal dehiscence + facial recession. Chu et al. further classified Type II into three subtypes: Type II-a = vertical extent < 4 mm; Type II-b = 4-6 mm; Type II-c = > 6 mm.
+
+Regenerative potential decreases as the vertical extent increases. Deep dehiscences require a more complex strategy. Type I-a, Type II-b, and Type II-c sockets can be treated with an immediate implant and a suitable regenerative method, while Type III sockets should not be — the regeneration chamber stability relies mainly on facial soft tissue, which is lacking in Type III. Type III would require vertical soft tissue augmentation with coronal flap advancement, which causes wound healing complications and poor esthetics.
+
+CBCT overreports dehiscences (low specificity / positive predictive value) because a very thin buccal wall may not be visible. Pocket probing and especially bone sounding better approximate true crestal anatomy, but must be confirmed intrasurgically.
+
+6. THE LATERAL EXTENT OF A BUCCAL DEHISCENCE
+
+The lateral extent has received less attention than the vertical, despite potentially greater influence due to cervical involvement. Kan et al. classified dehiscences as V-shaped (facial portion only), U-shaped (also mesial or distal), and UU-shaped (extends to the adjacent tooth). A new classification is proposed based on morphology and regenerative potential:
+- Contained defect: limited to the facial portion of the buccal wall; highest regenerative potential.
+- Partially contained defect: also occupies the mesial OR distal area; regenerative potential reduced at the interproximal aspect.
+- Non-contained defect: occupies mesial AND distal areas; regenerative potential reduced on both sides.
+- Extended defect: extends to the adjacent tooth with complete interproximal bone loss; NO regenerative potential, high risk of esthetic failure → should NOT be treated with IIP.
+
+Lateral extent is assessed on an axial CBCT slice immediately below the anticipated buccal bone crest (level determined at the contralateral tooth). Pocket probing/bone sounding at the interproximal aspect of neighboring teeth identifies extended defects clinically; intrasurgical inspection confirms true lateral extent.
+
+7. BUCCAL DEHISCENCE MORPHOTYPES
+
+Eleven morphotypes identified from vertical extent (II-a/II-b/II-c), lateral extent (C/PC/NC), and facial soft tissue support. Two are absolute contraindications for IIP (high risk of esthetic failure): Type III defects and extended defects. The remaining nine are amenable to IIP, classified into three regenerative-potential categories (relatively high, moderate, low); regenerative potential is inversely related to risk of complications.
+
+8. MODIFIED TRIMODAL APPROACH — RELATIVELY HIGH REGENERATIVE POTENTIAL
+
+Type II-a defects and Type II-b contained defects have relatively high regenerative potential → treated with slight modifications to the trimodal approach:
+- Flapless approach is mandatory in a compromised socket.
+- A barrier separating bone graft from facial soft tissues can be OMITTED; even for Type II-a non-contained defects, the vertical extent is too limited to apply a barrier. Reduced regenerative potential is compensated by a THICK CTG (wider buccal bone gap + slightly thicker CTG).
+- Additional soft tissue augmentation occasionally required to restore a convex buccal profile, mainly for Type II-a non-contained defects (most prone to cervical collapse).
+
+9. FOUR-PILLAR APPROACH WITH NON-SUPPORTIVE BARRIER — MODERATE REGENERATIVE POTENTIAL
+
+Type II-b partially contained defects and Type II-c contained defects have moderate regenerative potential → require a barrier. A NON-SUPPORTIVE barrier (e.g., native collagen membrane) suffices because these defects still have sufficient support from surrounding bone. Applied against facial soft tissues without a lateral or apical pouch. A positioning suture at the cervical aspect and partial bone graft placement before implant installation may be practical. Additional soft tissue augmentation may be needed for non-contained defects.
+
+10. FOUR-PILLAR APPROACH WITH SUPPORTIVE BARRIER AND COMPOSITE BONE GRAFT — LOW REGENERATIVE POTENTIAL
+
+Type II-b non-contained defects, Type II-c partially contained defects, and Type II-c non-contained defects lack major bone support → least predictable. A SUPPORTIVE barrier is needed for stability — either autogenous (cortico-cancellous bone shell from the tuberosity) or porcine-derived supportive barriers, placed over the bony edges. A COMPOSITE bone graft (moldable bone graft material + autogenous bone chips) is advocated to boost regeneration. Additional soft tissue augmentation may be required for non-contained defects.
+
+A 10-year RCT comparing immediate to delayed placement treated compromised sockets (buccal dehiscence vertical extent >= 5 mm) with a cortico-cancellous bone shell from the tuberosity, with successful bone regeneration up to 10 years and minimal midfacial recession of only 0.13 mm with concomitant CTG.
+
+11. DISCUSSION
+
+IIP was once reserved for ideal cases with an intact socket and thick bone wall phenotype. The inclusion of compromised sockets is pushing the limits. Comprehensive diagnosis is essential because vertical and lateral extent determine regenerative potential; expertise to select strategy; surgical skill because a dehiscence substantially increases complexity. Per the SAC classification, IIP in an intact socket is "advanced" but always becomes "complex" in a compromised socket.
+
+The first and most crucial step is to identify the two contraindicating morphotypes (Type III; extended defect). The basal bone anatomy may also contraindicate IIP — when the tooth is outside the bony envelope, prosthetically driven positioning without an apical fenestration is generally not feasible.
+
+Alveolar ridge preservation (ARP) + late implant placement is the least invasive alternative and easier surgically; inexperienced clinicians should defer IIP. Recent SRs show a larger, more robust evidence base (RCTs and meta-analyses) for ARP + late placement than for IIP in compromised sockets (only case series/cohort studies, low-level evidence). IIP in compromised sockets is a viable option for experienced/skilled surgeons, weighing benefits vs risks — especially for low-regenerative-potential morphotypes.
+
+The morphotype model translates complex peri-implant tissue characteristics into a structured, reproducible framework for everyday decision-making, supporting case selection and integration into digital workflows for preoperative planning and patient communication / informed consent.
+
+LIMITATIONS
+- Regenerative strategies for nine morphotypes still need validation in clinical studies (CBCT correlation, outcome tracking, histology).
+- Regenerative potential was estimated/classified (high/moderate/low) — a model that may need future adjustment.
+- Strategies discussed only for IIP, not alternatives (early placement, ARP + late placement).
+- Sockets with apical fenestration and acute infection are beyond the scope.
+
+12. CONCLUSIONS
+
+Identifying the two morphotypes that contraindicate IIP (buccal dehiscence + facial recession; extended defects) is the first and most crucial decision-making step. Other morphotypes may be amenable to IIP but require comprehensive diagnosis, expertise, and surgical skills. Regenerative potential determines the complexity of the regenerative strategy and is inversely related to the risk of complications. Benefits and risks of IIP should always be weighed against alternatives, especially for low-regenerative-potential morphotypes. Clinical studies are needed to validate these concepts.
+
+Conflicts of Interest: Prof. Dr. Jan Cosyn has a collaboration agreement with Institut Straumann AG (Basel, Switzerland).
