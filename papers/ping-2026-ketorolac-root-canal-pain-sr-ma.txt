@@ -1,0 +1,62 @@
+The Effectiveness of Ketorolac in Relieving Pain Associated With Root Canal Therapy: A Systematic Review and Meta-Analysis
+Ping R, Kang X, Fang R, Wang H, Wu LA. Clin Exp Dent Res. 2026 Apr;12(2):e70295.
+PMID: 41704089 | PMCID: PMC12914131 | DOI: 10.1002/cre2.70295
+PROSPERO CRD42024535882
+
+ABSTRACT
+Objectives: Effective management of post-endodontic pain is crucial for patient comfort. Although ketorolac is used for this purpose, its efficacy relative to other analgesics remains uncertain. This study systematically assesses evidence from randomized clinical trials that investigate the comparative effectiveness of ketorolac and other analgesic agents for the control of post-endodontic pain.
+Material and Methods: Comprehensive search across PubMed, Web of Science, ScienceDirect, Cochrane Library, Embase, Scopus, SinoMed, CNKI, Webvpn, and Wanfang Data. Search deadline around August 2025. Inverse variance approach + random effects model for continuous data (SMD). For dichotomous data: risk ratio (RR), fixed-effect model, Mantel-Haenszel methods.
+Results: 386 potentially relevant studies identified. Seven studies selected for qualitative analysis, five for quantitative analysis. Qualitative: five favored ketorolac, one reported similar effects, one concluded ketorolac less effective. Quantitative: statistically significant difference favoring ketorolac at 6 h post-administration; no significant difference at 12 or 24 h. Lower proportion of patients required supplementary drug after ketorolac.
+Conclusion: Ketorolac is effective for managing post-endodontic pain within the first 6 h and reduces need for rescue medication compared to alternatives, supporting its use following root canal treatment.
+
+1 BACKGROUND
+Root canal treatment (RCT) is the primary intervention for symptomatic pulpitis, aimed at complete eradication of the infectious source and resolution of acute symptoms. As an invasive procedure it induces iatrogenic inflammation in periapical tissues, leading to postoperative pain, making adjunctive analgesia critical. NSAIDs are widely used for post-endodontic pain control. A single oral dose of Naproxen and Novafen (paracetamol + ibuprofen + caffeine) immediately after treatment was more effective than oral Tramadol after pulpectomy. Dexamethasone orally or intraligamentary/supraperiosteal injection can relieve symptomatic irreversible pulpitis pain up to 24 h. A recent survey indicated ketorolac is among preferred prescriptions for dental pain management due to rapid onset and effectiveness.
+
+Ketorolac is an NSAID with potent analgesic properties plus moderate anti-inflammatory and antipyretic effects. In standard animal models its analgesic activity is 800 times greater than aspirin, surpasses indomethacin and naproxen, comparable to/exceeds prednisone. Clinically alleviates moderate-severe pain (renal colic, migraine, musculoskeletal, sickle cell crisis), efficacy equivalent to opioids like morphine and meperidine. Advantage over opioids: no adverse respiratory effects, no CNS side effects/abuse/addiction potential. Most common AEs: dizziness, nausea, vomiting (mild/manageable). Routes: oral (tromethamine), periapical, IV, IM. Only NSAID deliverable via nasal route (Sprix intranasal). Acular = ophthalmic formulation.
+
+Current meta-analyses support ketorolac analgesic efficacy in oral surgery: 30 mg postop reduces pain after third molar extraction with favorable side-effect profile. Pretreatment with ketorolac before RCT may enhance efficacy of standard alveolar nerve block for irreversible pulpitis. Scarcity of SR/MA evidence on ketorolac post-endodontic pain efficacy motivated this study.
+
+2 MATERIALS AND METHODS
+2.1 PRISMA-compliant. Pre-registered PROSPERO CRD42024535882.
+2.2 Search: PubMed, Web of Science, ScienceDirect, Cochrane Library, Embase, Scopus, SinoMed, CNKI, Webvpn, Wanfang. Deadline ~August 2025. Terms: (Ketorolac OR Ketorolac Tromethamine OR Acular OR Toradol) AND (Pulpitis OR Endodontic Inflammation...) AND (Pain OR Ache OR Toothache OR Odontalgia OR Acute/Chronic Pain...).
+2.3 PICOS framework inclusion/exclusion criteria.
+2.4 Risk of bias: two independent reviewers, third for consensus. Cochrane Handbook 5.1.0 (7 domains: random sequence generation, allocation concealment, blinding participants/personnel, blinding outcome assessment, incomplete outcome data, selective reporting, other bias).
+2.5 Statistics: RevMan 5.3. Inverse variance + random effects model for continuous data (SMD). RR + fixed-effect + Mantel-Haenszel for dichotomous. Heterogeneity: I-statistic and Cochran Q. Significance 95%.
+
+3 RESULTS
+3.1 Study Selection: 386 studies identified, 290 after deduplication, 13 after title/abstract screen. After full text, 6 lacked complete data; 7 studies included for qualitative analysis (Akhlaghi, Penniston & Hargreaves, Praveen, Rogers, Sekhar, Sethi, Turner). Two lacked extractable data; 5 included for quantitative analysis (Akhlaghi, Penniston & Hargreaves, Praveen, Rogers, Sethi).
+
+3.2 Characteristics: 7 studies published 1994-2024. Heterogeneous administration protocols and pain scales. Administration timing: 5 pre-operative, 1 intracanal medicament, 1 postoperative. Routes: 3 oral, 3 local injection, 1 intranasal. Pain scales: Heft-Parker, Verbal Rating Scale, 0-10 VAS, 0-100 VAS, 0-170 VAS. Three studies used additional medications (lower incidence of supplementary drug use after ketorolac). Only one study (Sethi) reported side effects: mild headache, dizziness, sweating, pain at injection site.
+
+INCLUDED STUDIES TABLE:
+- Penniston & Hargreaves: RCT therapy for pain from vital/nonvital tooth, Heft-Parker >=30mm (0-160). Group A IM placebo + periapical placebo (n=14); Group B 30mg IM ketorolac + periapical placebo (n=10); Group C 30mg IM placebo + periapical ketorolac (n=18); Group D IM placebo + periapical LA 2% mepivacaine 1:20000 levonordefrin (n=10). VAS 0-100 + Heft-Parker. IM + periapical infiltration. Pain at 15/30/45/60 min and 3/4/5/6 h after pulpotomy. Conclusion: intraoral ketorolac injection useful adjunct for endodontic pain. Additional meds: A=10, B=2, C=6, D=5.
+- Rogers et al.: irreversible pulpitis or normal needing endodontic therapy. Group A 600mg oral ibuprofen (n=12); Group B placebo (n=12); Group C 4mg/mL dexamethasone (n=12); Group D 60mg/2mL ketorolac tromethamine (n=12). VAS 0-100. Intracanal medication. Pain at 6/12/24/48 h. Conclusion: no significant differences between ibuprofen and either dexamethasone or ketorolac. Additional meds: A=3, B=6, C=2, D=1.
+- Turner et al.: verbal numerical score >=3/10, symptomatic irreversible pulpitis or pulp necrosis or normal/acute/chronic periapical periodontitis/abscess. Group A 30mg/mL ketorolac (n=10); Group B placebo (n=11). Categoric, VAS 0-100, Heft-Parker 0-170. Intranasal delivery. Pain at 15/30 min after initial IN dosing (before treatment); 30 min after treatment; 4/8/12 h after initial IN spray. Conclusion: IN ketorolac may provide novel efficacious pain relief.
+- Sethi et al.: symptomatic irreversible pulpitis, baseline pain >3cm VAS. Group A 100mg tapentadol (n=18); Group B 400mg etodolac (n=19); Group C 10mg ketorolac (n=19). VAS 0-10. Oral medication. Pain at 0/6/12/18/24 h after RCT. Conclusion: single oral 10mg ketorolac and 100mg tapentadol as pretreatment analgesic significantly reduced postop pain vs 400mg etodolac. Side effects: mild headache, mild dizziness.
+- Praveen et al.: pulpal necrosis or irreversible pulpitis. Group A 20mg ketorolac (n=29); Group B 30mg prednisolone (n=30); Group C placebo (n=27). VAS 0-10. Oral medication. Pain at 6/12/24/48 h. Conclusion: single pretreatment prednisolone dose has more sustained effect reducing postendodontic pain vs placebo or ketorolac.
+- Akhlaghi et al.: irreversible pulpitis, HP-VAS >54. Group A 30mg/mL ketorolac tromethamine (n=30); Group B normal saline (n=30). Heft-Parker. Periapical infiltration injection. Pain at 2/4/6/24 h. Conclusion: ketorolac buccal infiltration reduced postop pain in symptomatic irreversible pulpitis. Additional meds: A=12, B=17.
+- Sekhar et al.: symptomatic irreversible pulpitis. Group A 2mL sterile saline (n=30); Group B 4mg/mL dexamethasone (n=30); Group C 30mg/mL ketorolac tromethamine (n=30). VRS. IM injection. Pain at 4/24/48 h. Conclusion: effective complete debridement provides predictable gradual reduction of post-endodontic pain.
+
+3.3 Risk of Bias: 3 studies low risk (Akhlaghi, Praveen, Sekhar). Allocation concealment unclear in 4 (Penniston & Hargreaves, Rogers, Sethi, Turner). Blinding of participants/operators unclear in 1 (Penniston & Hargreaves). One high risk for blinding due to different administration methods (Rogers).
+
+4 META-ANALYSIS
+4.1 Qualitative: 7 reports, 5 favored ketorolac (Akhlaghi, Penniston & Hargreaves, Sekhar, Sethi, Turner). One (Rogers) no significant differences among ketorolac/dexamethasone/ibuprofen. One (Praveen) prednisolone reduces postendodontic pain more effectively over time.
+4.2 Quantitative:
+- 6 h pain (3 studies: Akhlaghi, Praveen, Sethi): SMD = -0.82, I2 = 47%, Z = 4.47, 95% CI -1.18 to -0.46, p < 0.00001. Statistically significant favoring ketorolac.
+- 12 h pain (2 studies: Praveen, Sethi): SMD = -0.29, I2 = 92%, Z = 0.53, 95% CI -1.36 to 0.78, p = 0.59. No significant difference.
+- 24 h pain (3 studies: Akhlaghi, Praveen, Sethi): SMD = -0.25, I2 = 90%, Z = 0.61, 95% CI -1.07 to 0.56, p = 0.54. No significant difference.
+- Additional medication needed (3 trials: Akhlaghi, Penniston & Hargreaves, Rogers): RR = 0.50, I2 = 0%, Z = 3.66, 95% CI 0.35-0.73, p = 0.0002. Fewer patients needed extra medication after ketorolac.
+
+5 DISCUSSION
+Ketorolac effective for postendodontic pain, significantly superior to dexamethasone, ibuprofen, tapentadol, etodolac, prednisolone, particularly early postoperative period. Consistent across administration routes (oral, intranasal, local injection). 6h superiority attributed to pharmacokinetics: ketorolac inhibits cyclooxygenase, reducing prostaglandin synthesis. Rapid absorption/onset: IM/IV analgesia begins ~10 min, peaks 75-150 min; IN peak ~45 min; oral onset 30-60 min, peak 1.5-4 h. Comparators slower to peak: dexamethasone ~60 min, etodolac ~80 min, ibuprofen 1.5-3 h, prednisolone ~2 h, tapentadol more delayed. At 12 h no difference, likely due to plasma half-life ~6 h after which inflammation may exacerbate.
+
+Intranasal advantages: large mucosal surface area, rapid bloodstream absorption, quicker onset. Ketorolac only NSAID approved for nasal delivery. IN spray superior to IV after mandibular fracture surgery; comparable to IV in pediatric migraine. Turner: IN ketorolac significantly reduced pre/postop pain during pulp treatment. Stentz: IN ketorolac + N2O/O2 did not significantly enhance IANB success rate but offered valuable alternative.
+
+Heterogeneity attributed to: varied pain scales (0-10/0-100/0-170 VAS, Heft-Parker, VRS); varied administration methods (IM, oral, intranasal, root canal sealant, periapical injection).
+
+Limitations: limited number of RCTs; variations in comparison groups; inability of some studies to provide raw data; small sample sizes precluding subgroup analyses on dosing frequency and route. Recommend larger samples and rigorous RCTs.
+
+6 CONCLUSION
+Ketorolac effective in alleviating postendodontic pain within 6 h vs placebo and other medications, with reduced number requiring additional analgesics. Favorable therapeutic option for post-endodontic pain. Future research: large-sample, multicenter RCTs with standardized pain assessment.
+
+Source: PubMed / PMC12914131. DOI: 10.1002/cre2.70295
