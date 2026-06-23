@@ -1,0 +1,98 @@
+Evaluation of Knowledge and Performance of General Dentists in Shiraz, Iran, Regarding Antibiotic Prescription in Endodontic Treatments (2024)
+
+Authors: Mobarakeh Nazari, Maryam Bakhtiar, Fahime Alimardani, Seyed Ali Mirhoseini Sarvestani, Bahar Asheghi
+Journal: Journal of Dentistry (Shiraz, Iran) 2026;27(2):111-119
+DOI: 10.30476/dentjods.2025.105820.2614
+PMID: 42253831  PMCID: PMC13242050
+
+== ABSTRACT ==
+Background: Inappropriate antibiotic prescribing in dentistry contributes significantly to global antibiotic resistance. Clinical guidelines published by the American association of endodontists (AAE) explicitly state that clinicians should avoid prescribing antibiotics for uncomplicated dentoalveolar infections unless systemic symptoms are present. Evaluation of compliance with current antibiotic prescribing guidelines and identifying the gaps between knowledge and clinical performance of clinical practitioners is essential.
+
+Purpose: This study was conducted to assess the knowledge and clinical performance regarding antibiotic use in endodontic treatments among general dentists in Shiraz, Iran, regarding the latest AAE guidelines.
+
+Materials and Method: A cross-sectional study was conducted using a validated questionnaire (Content Validity Index= 0.89, Cronbach's alpha= 0.82) distributed to 140 general dentists and residents in Shiraz via random sampling. The questionnaire assessed (1) demographic characteristics, (2) knowledge of current guidelines, and (3) clinical prescribing performance through case scenarios. We analyzed data from 103 completed responses using IBM SPSS v27.0 with descriptive statistics, chi-square tests, and binary logistic regression (Value < 0.05).
+
+Results: While participants demonstrated moderate to good theoretical knowledge (70.9% correctly identified first-line antibiotics), significant gaps existed in clinical application. Notably, 69.9% of participants prescribed antibiotics inappropriately for immunocompromised patients. Residents exhibited significantly better practical guideline compliance than general practitioners (=0.019). No significant associations were found with gender, clinical experience, or workplace. Also, 88.3% expressed need for further training.
+
+Conclusion: Considering moderate to good knowledge, coupled with a low to moderate performance level, significant deviations from AAE guidelines highlight the need for targeted educational interventions, including workshops and curriculum integration, to improve antibiotic stewardship.
+
+== FULL TEXT ==
+
+Introduction
+Various bacteria inhabit the oral cavity. When the epithelial barrier is compromised, these bacteria may enter the bloodstream, potentially causing systemic infections such as bacterial endocarditis. Antibiotics used appropriately can reduce the duration of bacterial infection and its consequences. Antibiotics are the most frequently prescribed medications in dentistry. Substantial evidence demonstrated a significant correlation between antibiotic use and increasing antimicrobial resistance.
+
+According to the WHO, antibiotic resistance is a major global health challenge; bacterial antimicrobial resistance was directly responsible for 1.27 million global deaths in 2019 and contributed to 4.95 million deaths.
+
+Clinical guidelines published by the American association of endodontists (AAE) explicitly state that clinicians should avoid prescribing antibiotics for uncomplicated dentoalveolar infections unless systemic symptoms are present. Despite guidelines emphasizing operative interventions, studies report overuse of antibiotics in routine dental care.
+
+No prior study has assessed guideline adherence among general dentists in Shiraz in 2024.
+
+Materials and Method
+Questionnaire designed based on AAE guidelines (2017) and peer-reviewed literature, validated by three board-certified endodontists (CVI=0.89), internal consistency Cronbach's alpha=0.82. Inclusion: general dentists and residents practicing in Shiraz with at least 2-5 years of endodontic experience. Exclusion: specialists or non-practicing clinicians. Simple random sampling to recruit 140 general dental practitioners from public and private facilities. Sample size calculated (d=5%, alpha=0.05, power=80%) = 103 participants. Questionnaire covered: (1) demographic data, (2) self-assessment, (3) knowledge of antibiotic prescription principles, (4) clinical case-based performance.
+
+Scoring: one point per correct answer (incorrect/unknown=0). Final scores 0-14. <half correct = weak; half correct = moderate; >half = good; all = excellent.
+
+Ethical approval: Shiraz University of Medical Sciences (I.R.SUMS.DENTAL.REC.1402.005).
+
+Statistical Analysis: SPSS v22 then re-run on v27. Descriptive stats, Spearman's correlation, Kruskal-Wallis, chi-square, binary logistic regression. Significance < 0.05.
+
+Results
+140 questionnaires distributed; 103 correctly completed (response rate 73.6%). Dentists' knowledge of antibiotic prescription principles was moderate to good; performance in evidence-based prescribing low to moderate. No significant correlation between knowledge and clinical performance.
+
+Participants: 70 general dentists (67.9%), 33 residents (32.1%). Residents' performance scores significantly higher (=0.019), likely due to academic supervision. 68 (66%) women, 35 (34%) men. Experience: 73.8% had 2-5 years, 26.2% over five years. Antibiotic prescribing frequency: 44.7% less than twice/week, 31% two-to-four times/week, 24.3% never prescribed.
+
+Sources of information: 51.4% guidelines and textbooks, 36% no specific references, 12.6% CE courses and online resources.
+
+Workplace: 63.1% public healthcare, 29.2% private practice, 7.7% both.
+
+87 participants (84.5%) demonstrated NO awareness of current antibiotic prescription guidelines; only 16 (15.5%) reported familiarity with updated protocols. No significant correlation between demographics and knowledge/performance. Only residents demonstrated significantly better adherence to guidelines.
+
+Self-assessment: no significant correlation between self-reported responses and actual knowledge/performance (>0.05). 49.5% thought their knowledge sufficient; 88.3% felt need for further education.
+
+Knowledge assessment - first-line antibiotic for non-penicillin-allergic patients: Amoxicillin most frequently reported (35.9%); amoxicillin+metronidazole combination chosen by 70.9% (deviation from guideline); penicillin V (10.7%). For penicillin-allergic patients: clindamycin selected by majority (50.5%); 56.3% selected the three correct options (clindamycin, azithromycin, moxifloxacin); only 5.8% identified azithromycin; none selected moxifloxacin.
+
+Duration: 50.5% recommended 7-10 days; 43.7% considered 3-7 days (text also states 43.7% selected a seven-day course). Only a small proportion selected incorrect 10-20 days; none prescribed until pain subsided.
+
+Second-line choices for non-allergic patients when initial therapy failed: penicillin V / amoxicillin+metronidazole (27.2%), co-amoxiclav (22.3%), cefalexin (8.7%, deviation), clindamycin (8.7%).
+
+Prophylactic antibiotics prior to RCT in adults: amoxicillin 2g one hour preoperatively first-line (90.3%); 7.8% lacked awareness of correct protocol. Penicillin-allergic: clindamycin most frequently selected (66%); high concordance with guidelines.
+
+== TABLE 1 - Indications for prescribing antibiotics (Yes% / No%) ==
+A. Irreversible symptomatic pulpitis: 1% / 99%
+B. Pulpal necrosis: 9.7% / 90.3%
+C. Pulpal necrosis with radiolucency or PDL widening: 12.6% / 87.4%
+D. Symptomatic apical periodontitis: 7.8% / 92.2%
+E. Non-symptomatic apical periodontitis: 1.9% / 98.1%
+F. Acute apical abscess with localized swelling: 51.5% / 48.5%
+G. Chronic apical abscess with sinus tract and apical radiolucency: 20.4% / 79.6%
+H. Diffuse facial swelling: 70.9% / 29.1%
+I. After all root canal treatments: 0% / 100%
+J. Between two sessions: 5.8% / 94.2%
+K. After all retreatments: 4.9% / 95.1%
+L. When patients insist: 1% / 99%
+M. When pain starts 2-3 days after RCT: 17.5% / 82.5%
+N. When patient feels pain exactly after RCT: 1.9% / 98.1%
+O. Acute apical abscess with fever or trismus: 77.7% / 22.3%
+P. Acute localized apical abscess in immunocompromised patients: 70.9% / 29.1%
+Q. No idea: 5.8% / 94.2%
+
+Figure 1: Distribution of total knowledge (TK) scores
+Figure 2: Distribution of total performance (TP) scores
+
+Discussion
+Knowledge moderate to good; performance low to moderate. Consistent with Nabavizadeh et al. and Zahabiyoun et al. (Shiraz/Iran) showing knowledge needs enhancement. No significant gender-based differences. No significant difference in knowledge between residents and general dentists, but residents' performance significantly higher (academic supervision by faculty). No significant difference by experience (2-5y vs >5y).
+
+First-choice antibiotic for adults without penicillin allergy: amoxicillin+metronidazole combination chosen by 70.9% (significant deviation from AAE); amoxicillin (35.9%) and penicillin V (10.7%) - the recommended first-line - chosen less often.
+
+Penicillin-allergic: 56.3% selected three correct options; only 5.8% azithromycin, none moxifloxacin.
+
+Indications: most frequently prescribed for acute apical abscess with fever or trismus (O, 77.7%), localized apical abscess in immunocompromised patients (P, 70.9%), diffuse facial swelling (H, 70.9%) - all valid indications. None prescribed postoperatively after RCT. BUT more than half (51.5%) prescribed for acute apical abscess with localized swelling - non-compliant, unnecessary. AAE recommends antibiotics when pain develops 2-3 days post-procedure, yet only 17.5% aware.
+
+Performance case 1 - diffuse facial swelling from acute apical abscess: 41.7% prescribed antibiotics prior to RCT when immediate treatment feasible (non-compliant - RCT should not be delayed).
+Performance case 2 - severe pain on mastication/cold for 1 hour (irreversible pulpitis): 84.5% appropriately selected RCT without antibiotics.
+Performance case 3 - immunocompromised patient: only 30.1% adhered to guidelines (RCT without antibiotic); 69.9% prescribed antibiotics (suboptimal stewardship).
+
+Limitation: self-reported questionnaire = response bias; dentists may overestimate compliance.
+
+Conclusion
+Critical gap between knowledge and practice. 70.9% correctly identified first-line antibiotics; 69.9% inappropriately prescribed for immunocompromised patients. Residents outperformed general practitioners. Concerns: unnecessary prescriptions for localized infections, frequent use of non-guideline antibiotic combinations (amoxicillin+metronidazole as first-line). 88.3% requested further education. Targeted interventions (mandatory workshops, curriculum reforms) urgently needed to improve guideline adherence and combat antibiotic resistance.
