@@ -1,0 +1,103 @@
+Title: Effect of the Buccal Gap Width on Alveolar Process Reduction Following Immediate Implant Placement: A Retrospective CBCT Study
+Authors: Maurício G. Araújo, Debora R. Dias, Ping Wang, Robert A. Levine
+Journal: Clinical Oral Implants Research 2026;37(5):630-642
+DOI: 10.1111/clr.70106
+PMID: 41823398
+PMCID: PMC13155278
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13155278/)
+
+=== ABSTRACT ===
+
+Objectives
+To evaluate the effect of the width of the buccal gap on the alveolar process reduction after immediate implant placement (IIP) at maxillary central incisor sites, compared to contralateral pristine tooth sites.
+
+Material and Methods
+Twenty-eight subjects who were treated with IIP to replace a maxillary central incisor and presented a pristine contralateral tooth site were included in this retrospective cohort study. The width of the gap between the implant and the inner walls of the socket was measured and grafted with deproteinized bovine bone mineral (DBBM). Subjects were divided into 2 groups: wide gap: > 2 mm (n = 14); Narrow gap: ≤ 2 mm (n = 14). CBCT scans were obtained after a mean follow-up of 6 (± 4) years and evaluated by a calibrated examiner. Dimensional measurements of the healed alveolar ridge (implant site) and alveolar process (tooth site) were compared between the two groups.
+
+Results
+The Narrow gap group showed significantly greater ridge resorption (41.1% ± 20.2%) in relation to the corresponding pristine tooth sites than the wide gap group (8.5% ± 11%). The width of the alveolar ridge at 3 and 5 mm below the crest and the height of the buccal wall were also significantly reduced in the narrow gap group.
+
+Conclusions
+A buccal gap > 2-mm wide grafted with DBBM after IIP may preserve more than 90% of the dimensions of the alveolar process. Conversely, a grafted narrow gap frequently results in significantly reduced ridge preservation.
+
+=== FULL TEXT ===
+
+1. Introduction
+
+Following tooth extraction, the alveolar process undergoes marked reduction (Araújo and Lindhe; Couso-Queiruga, Stuhr, et al.; Misawa et al.). Clinical and pre-clinical studies have demonstrated that placing an implant in a fresh extraction socket per se does not prevent dimensional changes in the alveolar ridge (Araújo et al.; Blanco et al.; Botticelli et al.; Discepoli et al.; Tomasi et al.; Vignoletti et al.). To counteract such changes, several techniques of ridge preservation procedures (RP) have been proposed in the literature, defined as interventions that aim to preserve the ridge volume within the bone envelope existing at the time of tooth extraction (Hämmerle et al.).
+
+In the context of immediate implant placement (IIP), grafting of the gap between the implant surface and the socket walls is considered a RP procedure. A randomized clinical trial (RCT) showed that socket grafting with deproteinized bovine bone mineral (DBBM) can reduce the horizontal bone changes that occur following tooth extraction, irrespective of whether IIP was performed or not (Clementini et al.). Moreover, there is considerable evidence supporting grafting of the gap to reduce the bone dimensional changes that take place following tooth extraction when placing implants immediately (Araújo et al.; Chen et al.; Sanz et al.; Seyssens et al.). A systematic review and meta-analysis (Seyssens et al.) reported that among 15 included RCTs, IIP and socket grafting resulted in 54% less horizontal buccal bone resorption compared to IIP alone. The authors also noted a reduced incidence of mid-buccal recession, suggesting that socket grafting should be considered an important adjunct to IIP in clinical practice.
+
+On the other hand, a 10-year prospective study (Seyssens et al.) in which IIP was performed in intact sockets within the aesthetic zone (maxillary premolars to premolars) using flapless surgery and socket grafting with DBBM, reported suboptimal long-term outcomes. Among 18 patients and implants, 33% demonstrated ≥ 1 mm mid-buccal recession and 17% had no visible buccal bone wall on cone-beam computed tomography (CBCT) reconstructions, indicating that socket grafting alone might not always ensure a successful preservation around the implant. The study identified implants in a buccal shoulder position (shoulder ≤ 0.5 mm from a reference line connecting the buccal outline of the adjacent teeth), with a lack of connective tissue grafts (CTG), and in the maxillary central incisor position as putative risk factors for ≥ 1 mm mid-buccal recession. Araújo et al. evaluated, in a pre-clinical study, the healing of implants placed immediately without any bone graft at premolar (narrow gap) and molar sites (wide gap). The authors observed that after 3 months, the amount of bone covering the buccal implant surface was significantly greater at wide than narrow gap sites. Furthermore, Levine et al. found that a > 2 mm-wide gap grafted with DBBM resulted in a thicker buccal wall covering a higher percentage of the implants' buccal aspect after an average of 5 years in function, compared to narrower gaps. In accordance with these results, a recent systematic review (Hamilton et al.) assessed the available evidence for Type 1A (immediate implant placement and immediate loading) for single tooth replacement in the maxillary esthetic zone. The buccal gap was identified as a criteria influencing implant survival. Sites with a gap of over 2 mm between the buccal bone wall and implant at the time of implant placement were associated with significantly higher implant survival rates.
+
+This study aimed to assess how the buccal gap width influences the alveolar ridge reduction following immediate implant placement and socket grafting, compared to the contralateral tooth, at maxillary central incisor sites. The study hypothesized that a wider gap, providing more space for bone substitute integration, would lead to superior ridge preservation.
+
+2. Material and Methods
+
+2.1 Study Design and Sample Population
+This retrospective cohort study included 28 patients treated in a private periodontal office for a single failing maxillary central incisor. Ethics approval (IRB, State University of Maringá, Brazil; protocol 3.909.980). STROBE guidelines followed. Dental records of patients rehabilitated with implant-supported crowns since 2003 were screened.
+
+2.2 Intervention Procedures
+All sites treated following the clinical protocol of Levine et al. Minimally invasive tooth extraction; granulation tissue removed. Implant bed prepared using a surgical guide; implant placed (Straumann AG; Nobel Biocare AG) positioned 3 mm apically from the anticipated margin of the future restoration. Conical healing abutment; DBBM particles (Geistlich Bio-Oss) soaked in sterile water packed firmly into the buccal gap until resistance was achieved. For patients with gingival thickness < 1 mm, a connective tissue graft (CTG) was harvested from the palate (premolar region) and tunneled on the buccal aspect of the socket. All surgeries performed by the same experienced periodontist (R.A.L.). Chlorhexidine 0.12% twice daily 14 days; antibiotics and analgesics prescribed; sutures removed after 2-3 weeks. After 3-month healing, soft tissue conditioning with screw-retained fixed provisional; final ceramic crown 2-3 months later. Individualized supportive periodontal therapy. Final examination (6 ± 4 years later) with CBCT scan.
+
+Patients categorized into 2 groups by gap width measured at implant placement with a periodontal probe (UNC 15) and confirmed via intraoperative photographs: Wide gap > 2 mm; Narrow gap ≤ 2 mm.
+
+2.3 Reconstruction Measurements
+Post-treatment CBCT (CS 9300; FOV 8 × 8 cm; voxel 0.09 mm) encompassing both implant and contralateral tooth sites. Linear measurements with CS 3D Dental Imaging; a 3D implant template matching installed implant inserted/aligned. Cross-sectional area (Image J). Single calibrated examiner blinded to group allocation (D.R.D.). Landmarks: BC (buccal crest), PC (palatal crest), A (root apex), NF (nasal fossa floor). Borders of alveolar process (AP), alveolar ridge (AR), basal bone (BB) defined.
+
+Cross-sectional area of AP and AR assessed by outlining apical/coronal/buccal/palatal margins; divided into coronal/middle/apical thirds. Basal bone area outlined similarly.
+
+Dimensional changes: cross-sectional area of AP at contralateral tooth sites vs alveolar ridge at implant sites, expressed as percentages; linear measurements compared, expressed in mm and/or %.
+
+2.4 Outcomes
+Primary: total reduction in cross-sectional area of the alveolar process (%). Secondary: changes in cross-sectional area of basal bone; linear changes in height/width of AP, thickness of buccal bone, width of basal bone.
+
+2.5 Calibration: ICC ≥ 0.9 (10 patients, 1-week interval).
+
+2.6 Statistical Analysis: Shapiro-Wilk confirmed normal distribution of cross-sectional measurements (parametric); linear measurements non-normal (Mann-Whitney). Intragroup paired-test/Wilcoxon. Linear regression (simple + multiple) for total reduction in cross-sectional area of AP vs treatment group, age, gender, implant diameter, implant design, time in function, CTG, baseline AP width and buccal bone thickness. jamovi 2.3; significance 5%.
+
+3. Results
+
+3.1 Patient and Implant Characteristics
+14 patients/implants wide gap (>2 mm), 14 narrow gap (≤2 mm). 68% women, mean age 57 (SD 16). Mean time in function 6 ± 4 years (range 2-14). CTG: 64.3% wide group, 57.1% narrow group. No significant baseline differences between groups.
+- Age: wide 62.6 ± 16.7 vs narrow 52.1 ± 13.4 (p=0.08)
+- Female: wide 8 (57.1%) vs narrow 10 (71.4%)
+- Time in function: wide 7.1 ± 4.7 vs narrow 5.1 ± 3.4 (p=0.284)
+- Implant manufacturer: wide had 3 Nobel + 11 Straumann; narrow all 14 Straumann
+- Tapered vs parallel: wide 7 tapered (50%); narrow 4 tapered (28.6%) [11 tapered, 17 parallel overall]
+
+3.2 Cross-Sectional Area
+Pristine alveolar process (tooth sites) similar between groups: wide 82.2 mm² (SD 22.6), narrow 79.1 mm² (SD 21.3), NS.
+Implant sites significantly different: wide 75.7 mm² (SD 24.3) vs narrow 47.2 mm² (SD 23.2), p=0.004.
+PRIMARY OUTCOME — total reduction in cross-sectional area of AP: significantly higher in narrow than wide: narrow 41.1% (SD 20.2) vs wide 8.5% (SD 11), p<0.001. Reduction decreased gradually from coronal to middle to apical thirds.
+- Coronal third reduction: wide -28.4% ± 22.6% vs narrow -66.8% ± 25.4% (p<0.001)
+- Middle third: wide -0.5% ± 7.4% vs narrow -37.1% ± 24.3% (p<0.001)
+- Apical third: wide +6.9% ± 9.7% vs narrow -17.6% ± 19.8% (p<0.001)
+Basal bone cross-sectional area: NS between/within groups (wide +2% ± 17.9%, narrow +3.2% ± 13.5%).
+
+3.3 Linear Measurements
+Width of AP at tooth sites similar except at 3 mm below crest (wide 9 ± 0.5 vs narrow 8.3 ± 0.8, p=0.031). At implant sites, width significantly reduced in narrow group at all levels:
+- Width reduction at 1 mm below crest: wide -48.4% vs narrow -71.2% (p=0.052)
+- Width reduction at 3 mm: wide -7.4% (SD 8.3) vs narrow -52.9% (SD 31.9), p=0.001
+- Width reduction at 5 mm: wide -1.2% (SD 9.2) vs narrow -42.8% (SD 27.2), p<0.001
+Height of buccal bone wall reduction at implant sites: wide -1.1% ± 9.5% vs narrow -52.3% ± 41.5% (p<0.001). [abstract: 51.7% ± 42.3%]
+Palatal bone wall: NS between groups (wide -11.3% ± 18.3% vs narrow -9.7% ± 17.5%).
+Basal bone width at tooth apex: wide +7% ± 18.3% vs narrow -13.5% ± 16% (p=0.008). At 3 mm below: NS.
+Buccal bone THICKNESS at implant sites: significantly thicker in wide group at all levels. Overall median: wide 2.1 mm [1.7; 2.4] vs narrow 0.5 mm [0; 1]. Tooth sites both thin (median 0.7 [0.5; 0.9]).
+- Thickness at 1 mm implant: wide 1.8 ± 0.8 vs narrow 0.6 ± 0.7 (p=0.001)
+- Thickness at 3 mm implant: wide 2.3 ± 0.8 vs narrow 0.7 ± 0.8 (p<0.001)
+- Thickness at 5 mm implant: wide 2.3 ± 0.8 vs narrow 0.5 ± 0.6 (p<0.001)
+Subgroup analyses (CTG, implant design, time in function): no significant effect on AP reduction.
+
+3.4 Linear Regression
+Simple regression: treatment group (gap) significantly influenced AP reduction (p<0.001); no other covariate significant. Multiple regression adjusting for implant diameter + buccal bone thickness at 3 mm: gap remained significant. Gap >2 vs ≤2 mm: simple beta 32.6 (95% CI 19.9-45.2, p<0.001); adjusted beta 31.20 (95% CI 16.55-45.8, p<0.001). Interaction GAP × function (p=0.513) and GAP × CTG (p=0.092) NS.
+
+4. Discussion
+Wide gap (>2 mm) grafted with DBBM = >90% preservation of ridge dimensions; narrow (≤2 mm) = ~40% reduction. Focus exclusively on maxillary central incisors with intact buccal walls (wider AP, thin buccal wall that quickly disappears). Wide group aligns with ridge preservation studies (Araújo et al. DBBM RCT: 3% reduction vs 25% control). Narrow group similar to no-grafting sites — lack of space for compacting biomaterial → incomplete defect filling; once thin buccal wall resorbs, wound instability → resorption. In wide group, original thin buccal wall (median 0.7 mm) completely resorbed; the 2-mm-thick healed buccal wall is entirely new bone formed within the grafted gap (thin bundle bone acts as a resorbable barrier maintaining ridge shape). Buccal bone thickness had NO significant effect on resorption here (contrast Yang et al. <0.5 mm; Cosyn et al. no association). CTG NOT a determinant of ridge resorption (benefits soft tissue/esthetics, limited hard-tissue effect; Zuiderveld, Cosyn). Basal bone largely stable; apex width more diminished in narrow group, likely from sagittal root position / implant design (parallel implants extend closer to buccal wall apically).
+
+Limitations: retrospective convenience sample (post hoc power 99.9%); single experienced periodontist; wide follow-up range (2-14 y); evolving implant designs over time; CBCT artifacts for thin buccal walls; contralateral-tooth design cannot substitute baseline 3D data at implant sites.
+
+5. Conclusions
+Grafting a buccal gap > 2 mm following IIP may promote >90% preservation of ridge dimensions; narrow gaps (≤2 mm) associated with significant AP reduction. A wider, properly grafted buccal gap is crucial to minimizing dimensional changes following tooth extraction.
+
+Conflicts of Interest: none declared.
