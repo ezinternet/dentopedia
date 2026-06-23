@@ -128,6 +128,70 @@ PMC 없는 건(Elsevier·JOMI 등)은 Unpaywall·self-archive를 더 탐색 → 
 
 ---
 
+## 1-ter. Supersession 판단 — ingest 시 결론 충돌 처리 (2026-06-23 추가)
+
+> **이 위키의 핵심 가치.** 논문은 누구나 쌓는다. "옛 결론과 새 결론이 충돌할 때 어느 쪽이 현재 정설인가"의 지도(`superseded_by`)만이 이 위키 고유의 자산이다. 이게 없으면 검색 시 2018년·2024년 논문이 동등한 무게로 튀어나와 모순 더미가 된다. CLAUDE.md `superseded_by:` 스펙(영어)을 임상 판단 순서로 풀어쓴 것.
+
+**새 논문 인제스트마다 한 번 묻는다: "이게 기존 어느 페이지의 결론을 흔드나?"** forward-only — 과거 전수조사는 안 함, 들어올 때 한 번만 판단.
+
+### 판단 4단계 (위에서부터 순서대로)
+
+**0단계 — 충돌 후보를 찾는다**
+- `## Why Ingested`에 거는 `[[wikilink]]` 대상 페이지가 1차 후보.
+- QMD 의미검색으로 "같은 임상 질문을 다루는 기존 페이지"를 끌어온다.
+- 여기서 안 걸리면 supersession 대상 없음 → 새 지식 추가로 끝.
+
+**1단계 — 같은 질문에 *반대 답*인가?**
+| 관계 | 처리 |
+|---|---|
+| 같은 질문 + 같은 결론 | `reinforces` (보강). 대체 아님 |
+| 같은 질문 + **반대 결론** | → 2단계로 (supersession 검토 시작) |
+| 범위만 넓힘 | `extends`. 대체 아님 |
+| 조건 좁힘("이 하위집단에선") | `refines`. 대체 아님 |
+| 다른 질문 | 무관 |
+
+⚠️ "더 많은 걸 말한다" ≠ 대체. *범위 확장*은 `extends`다.
+
+**2단계 — 근거 무게(evidence weight)를 비교 ← 가장 중요**
+
+결론이 충돌해도 **새 논문이 더 강한 근거일 때만** 대체. "최신 ≠ 우월."
+
+```
+sr+ma > sr > rct > prospective > retrospective
+      > cross-sectional > case-report > ... > narrative-review
+```
+- 새 논문이 사다리 **위** → 대체 강력 후보 (예: 옛 RCT 1건 ↔ 새 48-study SR+MA)
+- 같은 등급인데 새 논문이 **더 큼/최신** (12-study SR → 48-study SR) → 대체 후보
+- 새 논문이 사다리 **아래** → **대체 안 함** (2026 narrative-review는 2022 SR+MA 못 이김)
+- 약한 근거가 강한 옛 결론에 반대 → **무시**(본문에 "한 in-vitro는 반대했으나" 정도만)
+
+**3단계 — `full`이냐 `partial`이냐**
+- `full` — 옛 페이지 결론이 통째로 교체. "현재 결정은 새 페이지를 따르라."
+- `partial` — 일부만 낡음, 또는 옛 페이지가 고유 가치 유지(최초 종합·역사적 기준점·특정 하위집단). 애매하면 과장 말고 `partial`.
+
+**4단계 — 표식은 *옛(older)* 페이지에 박는다**
+
+frontmatter:
+```yaml
+superseded_by: tisci-2026-isq-it-mbl-survival-sr-ma   # 새 stem, >1이면 콤마
+superseded_scope: full                                 # full | partial
+```
+본문 최상단(frontmatter 직후, `## One-line Summary` 앞) 배너 — **왜 대체됐는지 수치를 적어** 나중에 1초 검증 가능하게:
+```markdown
+> [!warning] Superseded (full) → [[tisci-2026-isq-it-mbl-survival-sr-ma]]
+> 48-study SR+MA (r=0.44, p<0.001) overturns this 12-study NS result. (set 2026-06-23)
+```
+`partial`은 `> [!note] Partially superseded → [[...]]` + 옛 페이지가 아직 주는 게 뭔지 명시.
+
+### 검증
+- `python3 scripts/supersession-audit.py` — 깨진 링크 + 필드↔배너 sync + decay 후보(5년↑ 미대체 SR/RCT).
+- 현재 상태(2026-06-23): 9 superseded, sync 이슈 0, decay 후보 200(2026-06-21 ib≥7 전수검증 완료 → ~2027 전 재검토 불필요).
+
+### 한 줄 규칙
+> **"같은 질문에 반대 답인가" → "새 쪽이 근거가 더 무거운가" → 둘 다 yes일 때만, 옛 페이지에 표식.** 이 두 관문이 "최신이 무조건 이기는" 실수를 막아 모순이 애초에 안 쌓이게 한다.
+
+---
+
 ## 2. 자동화 수준별 옵션
 
 | 옵션 | 사용자 작업 | Trade-off |
