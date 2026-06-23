@@ -1,0 +1,78 @@
+L-arginine vs. L-glutamine oral suspensions for radiation-induced oral mucositis: a triple-blind randomized trial
+Hassanein FEA, Mikhail C, Elkot S, Abou-Bakr A. J Cancer Res Clin Oncol. 2025;151(7):198.
+PMID: 40603739 | PMCID: PMC12222376 | DOI: 10.1007/s00432-025-06213-x
+
+Introduction
+
+Radiation-induced oral mucositis (RIOM) is recognized as a frequent and severe complication among patients with head and neck cancer (HNC) who undergo radiotherapy (RT). It manifests as damage to healthy tissues, specifically inflammation and/or ulceration of the oral mucosa, affecting over 80% of these patients receiving radiation therapy.
+
+RIOM manifests as a normal tissue injury lasting from 7 to 98 days, initiated by acute inflammation in the oral mucosa, tongue, and pharynx following RT exposure. This inflammation is accompanied by accumulation of inflammatory cells and secretion of cytokines, chemotactic agents, and growth factors. RIOM may escalate into a life-threatening condition due to significant blockages that restrict intake of food and water, leading to weight loss and septic issues from loss of protective epithelial and basement membrane layers. These complications can disrupt cancer treatment and necessitate changes in the radiation dose, thus impacting local tumor control.
+
+The pathogenesis of RIOM unfolds through a complex, multi-stage process. Initially, ionizing radiation directly damages cellular DNA within the radiation field, resulting in lethal double-strand breaks leading to apoptosis. Concurrently, radiation stimulates endothelial cells and fibroblasts to produce reactive oxygen species (ROS), which exacerbate DNA damage and disrupt cellular functions. When excessive ROS accumulate, they cause oxidative stress. Chemoradiation activates NF-kappa B, heightening pro-inflammatory cytokine levels that drive progression to mucosal ulceration.
+
+L-arginine and L-glutamine are immune-enhancing amino acids. Glutamine maintains integrity of the mucosal barrier and immunological responses, particularly in stressful situations like radiation therapy. L-arginine increases synthesis of nitric oxide (NO) and stimulates fibroblast activity, collagen formation, and wound healing.
+
+L-glutamine is the most abundant free amino acid in human blood, needed for protein synthesis and as an energy source. It is crucial for powering lymphocytes and the gastrointestinal tract, helping protect against infections and maintaining the mucosal barrier. Several studies indicated glutamine could decrease both frequency and intensity of OM.
+
+L-arginine, a conditionally essential amino acid, is metabolized by nitric oxide synthase (NOS), arginine decarboxylase, and arginase (ARG), contributing to synthesis of proteins and bioactive molecules like NO, proline, creatine, and polyamines. L-arginine enhances wound healing through collagen synthesis, anti-inflammatory effects, fibroblast proliferation, improved circulation, and immune support.
+
+Maltodextrin is a polysaccharide frequently used in supplements as a stabilizer and energy source. Despite lacking direct anti-inflammatory qualities, its function in providing energy warrants its use as a neutral comparator. Combining amino acids with a carbohydrate source such as maltodextrin may improve tolerance and mucosal absorption.
+
+There is a dearth of clinical studies assessing L-arginine's therapeutic benefits as oral suspension for RIOM. Previous trials often failed to include a true placebo or neutral control group. This study evaluates the effect of L-arginine oral suspension versus glutamine oral suspension on management of RIOM and its associated symptoms, and their effects on oral health-related quality of life in HNC patients.
+
+Hypothesis: oral supplementation with L-arginine or glutamine, combined with maltodextrin, will significantly reduce severity of RIOM, pain intensity, and weight loss, and improve OHRQoL compared to maltodextrin alone.
+
+Subjects and methods
+
+Study design: triple-blind, parallel-arm, randomized controlled clinical trial with 1:1:1 allocation. Conducted per Declaration of Helsinki, CONSORT guidelines. Approved by University Research Ethics Committee (FUE.REC 2582024). Registered at ClinicalTrials.gov NCT06764420, registered 08/01/2024.
+
+Sample size: Based on WHO scale reductions observed by Ibrahim et al., sample size sufficient to detect effect size of 0.8 with 90% power, Z-test, alpha 0.05; 23 patients per group.
+
+Randomization and blinding: Central randomization center used computer-generated tables to assign 69 patients with stages I-IV head and neck cancers to one of three groups in 1:1:1 ratio. Allocation concealed in sequentially numbered sealed opaque envelopes. All treatments appeared identical. Patients, primary investigator, and outcomes assessor were all blinded.
+
+Patients' recruitment criteria: HNC patients undergoing radiotherapy and experiencing oral mucositis (during 2nd to 3rd week of treatment) were recruited from radiotherapy unit at Ahmed Maher Teaching Hospital. All received conventional radiotherapy using IMRT with three-dimensional techniques, after tumor surgically removed. Treatment: five sessions/week, 2 Gy/fraction, total dose 50-70 Gy over 5-7 weeks (25-35 sessions). Minimum 50 Gy to oral cavity. Aged 20-70 years. Excluded if diabetes mellitus, salivary gland tumors, renal/hepatic insufficiency, prior irradiation, sepsis, distant metastases.
+
+Treatment protocol and grouping:
+Group I (L-arginine + maltodextrin): 5 g L-arginine + 5 g maltodextrin in cold distilled water.
+Group II (glutamine + maltodextrin): 5 g glutamine + 5 g maltodextrin in cold distilled water.
+Group III (maltodextrin): 10 g maltodextrin only (neutral calorie source / non-therapeutic control).
+
+Participants instructed to swish and swallow, covering oral and pharyngeal mucosa, 30 min before meals, three times daily, from 2nd to 7th week of RT. All received standard oral healthcare including antifungal and analgesic medications as required.
+
+Evaluation outcomes:
+- WHO oral toxicity scale: Grade 0 (no lesion) to Grade 4 (oral feeding impossible, requiring parenteral nutrition).
+- Pain Visual Analogue Scale (Pain-VAS): 0 (no pain) to 10 (most severe).
+- Effectiveness Index (EI): reduction in WHO and VAS scores; categorized: no improvement (<30%), moderate (30-<70%), marked (70-<95%), healed (>=95%).
+- BMI (kg/m2).
+- OHIP-14 (Arabic version): seven domains, 5-point scale, total 0-56; lower = better.
+Assessed at 2nd, 5th, 7th week of RT.
+
+Statistical analysis: ANOVA for parametric; repeated measures ANOVA + paired t-test for post hoc; Kruskal-Wallis for non-parametric between three independent groups; Friedman + Wilcoxon signed-rank for within-group. Significance p<=0.05. Non-inferiority t-tests to evaluate whether L-arginine not clinically worse than Glutamine. Non-inferiority margins: 5 units WHO, 1.0 unit VAS and BMI, 3 points OHIP-14; binary outcomes margin -10%. SPSS v20.
+
+Results
+
+Patient characteristics: Three groups well-balanced (all p>0.05). Mean age: Arginine 52.81+/-15.77; Glutamine 51.14+/-15.09; Maltodextrin 52.15+/-14.88 (p=0.95). Males 56.5%, 60.9%, 60.9% (p=0.82). Oral cavity tumors most common (39.2%, 39.1%, 43.5%, p=0.89). Mean total radiation dose: 64.57, 64.55, 65.38 Gy (p=0.97). Mean BMI 21.32, 21.24, 21.55 (p=0.94). Opioid use 60.9%, 52.3%, 56.5% (p=0.85).
+
+WHO scale: At 2nd week, no significant differences (p=0.6861). By 5th week, significant differences among groups (p<0.001). All groups showed significant change across time. Pairwise: no significant difference between arginine and glutamine at 5th and 7th weeks (p=0.5217 and 0.3096). Maltodextrin significantly worse than arginine at both 5th and 7th weeks (p<0.001). Maltodextrin worse than glutamine (p<0.001 and 0.0041). At 7th week, WHO stage 0 (complete): arginine 52%, glutamine 43%, maltodextrin 0%. Maltodextrin group: 70% at stage III by week 7.
+Favorable WHO stage (0 or I): Day 5 = 39.1% both arginine and glutamine (diff 0.0, non-inferiority p=0.002). Day 7 = 82.6% arginine vs 69.6% glutamine (diff 0.13, 95% CI -0.05 to 0.30, non-inferiority p=0.048). L-arginine non-inferior to glutamine.
+Strong positive correlation between total radiation dose and RIOM severity (coefficient 0.0003, p=0.012).
+
+Pain-VAS: 2nd week similar (5.3, 5.17, 5.65; p=0.7982). 5th week: 4.2, 4.3, 6.3 (p=0.0037). 7th week: 1.6, 2.4, 4.9 (p=0.0001). No significant difference arginine vs glutamine at 5th/7th week (p=0.8852, 0.2253). Maltodextrin worse than arginine (p=0.0013, <0.001) and glutamine (p=0.0122, 0.0011). L-arginine non-inferior to glutamine (mean diff -0.13 at wk5, -0.78 at wk7).
+
+Effectiveness Index: By week 5, both arginine and glutamine moderate improvement in ~43% of patients; all maltodextrin patients no improvement (p<0.001). By week 7, arginine 56% healed vs glutamine 13% healed; maltodextrin no improvement (p<0.001). Difference descriptive, not statistically significant for superiority; non-inferiority confirmed L-arginine not inferior (diff 0.16, 95% CI above -10% margin).
+
+BMI: 2nd week similar (21.14, 21.21, 21.56; p=0.699). By 7th week significant differences (p=0.001). Arginine 21.17 (p=0.87 vs baseline, NS), glutamine 21.38 (p=0.170, NS), both maintained. Maltodextrin decreased to 18.93 (p=0.000475, significant decline). L-arginine non-inferior to glutamine in maintaining BMI.
+
+OHIP-14: 2nd week no difference (28.67, 28.36, 28.25; p=0.98). 5th week: arginine 25.02, glutamine 26.98, maltodextrin 35.58 (p<0.001). 7th week: arginine 20.89, glutamine 21.59, maltodextrin 34.74 (p<0.001). Strong positive correlation WHO-OHIP-14 (r=0.885, p<0.001). L-arginine non-inferior to glutamine (one-sided p=0.031 wk5, 0.022 wk7).
+
+Discussion
+
+RIOM is a frequent dose-limiting toxic reaction during radiotherapy for head and neck tumors. Both glutamine and L-arginine significantly decreased pain, stabilized BMI, and lessened RIOM severity vs maltodextrin-only control, and improved OHRQoL (lower OHIP-14). This is the first study to assess arginine oral suspension on RIOM severity; arginine is as effective as glutamine. Arginine benefits stem from anti-inflammatory properties via NO production and modulation of inflammatory pathways, immune cell function, and wound healing (collagen synthesis, angiogenesis). Strong positive correlation between WHO and Pain-VAS (r=0.75, p<0.001). Arginine supplementation reduces pro-inflammatory cytokines (TNF-alpha, IL-6), boosts anti-inflammatory IL-10.
+
+Study limitations: Small sample size may have limited detection of clinically meaningful differences. Short follow-up restricted analysis to acute effects; long-term outcomes (mucosal recovery, survival) unknown. Lack of biochemical validation (inflammatory markers) precludes mechanistic conclusions. Exclusion of patients with systemic comorbidities and single-center design may reduce generalizability.
+
+Conclusion
+
+Both L-arginine and glutamine supplementation significantly reduced severity of RIOM, alleviated pain, helped maintain body weight, and improved OHRQoL in HNC patients vs maltodextrin. No statistically significant differences between the two amino acids in most outcomes; L-arginine showed numerically higher proportion achieving 'healed' status by week 7. Non-inferiority analysis indicated L-arginine not clinically worse than glutamine. Both amino acids support symptom management during radiotherapy.
+
+Source: PubMed / PMC full text (PMC12222376). DOI: 10.1007/s00432-025-06213-x
