@@ -1,0 +1,25 @@
+Clinical and radiographic success of single-cone bioceramic obturation versus traditional techniques: a systematic review and meta-analysis of randomized controlled trials
+Elmsmari F, Elsayed Y, Aboubakr A, Kaafarani M, Nour O, Pawar AM.
+Journal of Oral Biology and Craniofacial Research 2025;15(6):1422-1432.
+PMID: 40948576  PMCID: PMC12424407  DOI: 10.1016/j.jobcr.2025.08.031
+Source: PubMed Central full text.
+
+ABSTRACT
+Background: Bioceramic sealers, known for their bioactivity and biocompatibility, offer a promising alternative to traditional resin-based sealers. However, clinical evaluations are lacking. This systematic review and meta-analysis compared the clinical and radiographic outcomes of bioceramic single-cone obturation with those of conventional treatment and sealers.
+Methods: Systematic search of PubMed, ScienceDirect, and the Cochrane Library for RCTs published up to March 2024. Protocol registered in PROSPERO. Included studies compared bioceramic single-cone obturation with conventional obturation in permanent teeth with follow-up >=6 months. Risk of bias assessed with Cochrane RoB 2.0. Random-effects meta-analysis to calculate pooled success rates, ORs, 95% CIs. Heterogeneity and publication bias via I2 statistics and Egger's test.
+Results: Three RCTs involving 259 participants met inclusion criteria. Success rates for the bioceramic group were 88.7%, 87.1%, and 92.0% at 6, 12, and 18 months; controls were 76.4%, 76.4%, and 90.7%. All three studies reported higher success in bioceramic groups but between-group differences were not statistically significant (overall OR range 1.12-2.09; p>0.05). Moderate heterogeneity at early follow-ups, negligible at 18 months.
+Conclusion: Single-cone obturation with bioceramic sealers may result in small but clinically relevant advantages; however, more high-quality RCTs with longer-term follow-up are needed.
+
+KEY FULL-TEXT DETAILS
+- PICO / PRISMA 2020, PROSPERO-registered. Databases searched to March 31, 2024: PubMed (2,874), ScienceDirect (2,042), Cochrane (1,439) + 2 hand-searched. After 1,543 duplicates removed, 4,812 records screened; 18 full texts assessed; 3 RCTs finally included.
+- Included RCTs: Cosar et al. (low RoB), Kim et al. (some concerns, randomization), Bardini et al. (high RoB — protocol deviations, unclear allocation concealment; used BioRoot RCS, showed most pronounced bioceramic advantage).
+- 259 participants (69-100 per study); anterior, premolar, molar; initial treatment and retreatment; comparators were warm vertical compaction or single-cone with resin-based sealers. Outcome = absence of pain/swelling/sinus tract + radiographic periapical healing (PAI or equivalent).
+- Meta-analysis (random-effects):
+  6 mo: bioceramic 88.7%+/-4.6% vs control 76.4%+/-15.6%; OR 2.09 (95% CI 0.76-5.87; p=0.154); I2 63.3% (bioceramic), 96.1% (control).
+  12 mo: 87.1%+/-3.7% vs 76.4%+/-15.6%; OR 1.62 (95% CI 0.50-5.31; p=0.424); I2 57.5%.
+  18 mo: 92.0%+/-3.0% vs 90.7%+/-3.2%; OR 1.12 (95% CI 0.38-3.25; p=0.845); I2 0%.
+- Publication bias: funnel plot symmetric; Egger intercept -0.619, p=0.84 (no bias).
+- GRADE: overall certainty LOW (risk of bias, inconsistency, imprecision). Trend favors bioceramic but not significant.
+- Concept framing: monoblock (Tay & Pashley) — bioceramic sealers chemically bond to dentin via hydroxyapatite formation (secondary monoblock); single-cone leverages sealer properties, reduces technique sensitivity vs lateral condensation / warm vertical compaction.
+- Limitations: only 3 RCTs (no subgroup analysis), short-to-mid follow-up (6-18 mo; >=24 mo needed for periapical bone healing), single-cone-only focus (excludes WVC/carrier-based comparisons), no patient-reported outcomes (ESE S3 guidelines emphasize PROs/postop pain).
+- Notes other bioceramic evidence: Zamparini et al. SR/MA (improved radiographic healing, reduced extrusion for premixed bioceramics); lower postoperative pain than resin-based sealers reported elsewhere.
