@@ -1,0 +1,669 @@
+1
+
+Introduction
+
+Although current generations of bone implants demonstrate reliable performance and have been extensively studied in healthy individuals, their integration under medically compromised conditions remains insufficiently understood. In fact, the effectiveness of novel implant designs is typically initially evaluated under normal physiological conditions, with an implicit assumption that results are broadly applicable to a range of health states.
+
+Medically compromised conditions occur during aging, disease or genetic alterations and encompass a panoply of systemic diseases, metabolic disorders, chronic inflammatory conditions, and other health states that impair normal body function [,]. To better understand their impact on the success of orthopedic and dental implants, we will (1) overview normal bone formation in craniofacial and long bones to establish a baseline understanding for impaired bone healing; (2) focus specifically on osteoporosis and diabetes, as these two conditions are not only highly prevalent but also serve as well‐characterized models for studying the impact of systemic disease on bone regeneration and implant osseointegration, contrasting normal healing processes with the impairments observed under these conditions; (3) cover in vitro and in vivo models used to evaluate the impact of these conditions on osteogenic events; (4) subsequently consider normal and pathological bone healing around dental and orthopedic implants; (5) address the role of surface modifications in osseointegration and mitigating complications associated with systemic conditions; and finally (6) present future perspectives for improving outcomes in medically compromised patients. By integrating insights from biomaterials science, bone cellular biology, and clinical research, this encompassing review seeks to provide a unified view for developing more effective implants (a) tailored to diverse patient populations, and (b) designed to respond to patient‐specific biological cues. These strategies have the potential to bridge the gap between impaired healing capacity and clinical success and offer the perspective for personalized bone implant therapy.
+
+1.1
+
+Health Challenges in Aging: Diabetes, Osteoporosis, and Medically Compromised Conditions
+
+The global population is aging at an unprecedented rate, with a significant rise in individuals over the age of 65 []. This demographic shift has profound implications for healthcare systems, especially in fields such as orthopedics and dentistry, where the demand for bone implants continues to grow []. One of the major challenges in orthopedics is the increasing need for implant revisions due to the longer life expectancy of elderly individuals and the growing number of younger patients requiring implants. Many of these individuals will likely undergo at least one, if not multiple, implant replacements throughout their lifetime. Since these interventions often take place later in life, the natural decline in bone regenerative capacity, overall health, and healing potential associated with aging can lead to higher complication rates, ultimately undermining the currently high success observed with primary implants []. This trend raises serious concerns about increased morbidity and even mortality, as aggressive surgical interventions in elderly patients carry a heightened risk of systemic complications, prolonged recovery, and reduced overall quality of life.
+
+Compared to younger individuals, aging (a) accentuates the release of inflammatory mediators [,] (b) affects new tissue formation and angiogenesis [] and (c) reduces the stem and progenitor cell numbers [] all needed for new bone formation []. The health status of aging patients is often complicated by other underlying medical issues that impair their physiological function and further weaken their ability to function normally or to respond effectively to medical or dental procedures. This review focuses on individuals affected by systemic diabetes mellitus and osteoporosis, the two most prevalent compromised metabolic/endocrine conditions that directly impair bone metabolism and regenerative capacity []. Together, these age‐related and systemic conditions create a suboptimal biological environment for implant integration.
+
+Diabetes mellitus is particularly relevant due to its high prevalence and well‐documented impact on bone metabolism and wound healing. This chronic metabolic condition that derives from the body's impaired ability to produce (type 1) or use (type 2) insulin. Approximately 415 million people worldwide, or ∼9% of adults aged 20–79 years, are estimated to have diabetes, with type 2 (T2DM) comprising 90% of all cases [].
+
+Osteoporosis, the most prevalent metabolic bone disorder, affects over 200 million individuals globally [,] and is characterized by low bone mass and microarchitectural deterioration, leading to increased fracture risk. Unlike diabetes, which primarily alters bone repair through metabolic dysregulation, osteoporosis directly compromises the structural integrity of bone by reducing both quantity and quality [,]. At the cellular level, an imbalance between bone resorption and formation, driven by heightened osteoclast activity and insufficient osteoblast function, results in impaired bone healing []. These changes not only predispose patients to fragility fractures but also pose significant challenges for implant osseointegration and long‐term stability in compromised bone sites.
+
+1.2
+
+Normal Bone Healing in Craniofacial and Long Bones
+
+A variety of mechanisms, including trauma, infection, tumors, and compromised blood supply can lead to bone injury and require new bone formation. Bone healing in both craniofacial and long bones are complex physiological processes [] that involve several cell types and intracellular and extracellular molecular‐signalling pathways with a definable temporal and spatial sequence [,,].
+
+During skeletal development, in response to injury, or as part of continuous remodeling throughout adult life, bone possesses the intrinsic capacity to repair and regenerate[,]. Consistent with differential developmental processes, it has been considered that repair of craniofacial and long bones may proceed through different healing patterns and employ specific cellular and molecular mechanisms [], while the ultimate functional result is the same. However, this notion remains a subject of ongoing debate.
+
+1.2.1
+
+Bone Healing in Compromised Systemic Conditions
+
+Age‐related changes impair not only bone homeostasis but also fracture healing. The biological process by which bone repairs itself following a break or fracture is impaired by diabetes and osteoporosis []. While glucose is a primary energy source for cells, in general, in diabetes, the presence of abnormally high levels of glucose in the blood (chronic hyperglycemia) disrupts the bone healing cascade by impairing osteoblast function, promoting inflammation, and delaying angiogenesis, which collectively compromise bone []. Similarly, osteoporosis, a multifactorial skeletal disease, delays callus formation and reduces mechanical strength [].
+
+A comparative clinical overview of the key differences in bone healing mechanisms between healthy individuals and patients affected by diabetes and/or osteoporosis in both long bones and the craniofacial region is presented in Table. The emerging clinical evidence highlighted in the table raises the question of whether the biological impact of osteoporosis and diabetes, as well as the effectiveness of implant surface modification strategies, may differ between dental and orthopedic implants, underscoring the potential importance of site‐specific interpretation of preclinical and clinical data.
+
+TABLE 1
+
+Comparative overview of bone healing mechanisms in normal conditions versus compromised conditions (Diabetes and Osteoporosis) in long bones and craniofacial bones, based on clinical evidence.
+
+Parameter
+
+Normal Fracture Healing (Long bones)
+
+Normal Intramembranous Healing (Craniofacial bones)
+
+Diabetic Healing (Long & craniofacial)
+
+Osteoporotic Healing (Long & craniofacial)
+
+Primary healing mechanism
+
+‐ Follows the classic endochondral ossification sequence: hematoma formation → soft cartilaginous callus → hard (woven bone) callus → remodeling into lamellar bone
+
+‐ Well‐coordinated inflammatory, reparative, and remodeling phases
+
+‐ Stable mechanical environment supports timely and predictable union []
+
+‐ Healing occurs predominantly through intramembranous ossification, involving direct differentiation of mesenchymal cells into osteoblasts
+
+‐ Minimal or no cartilage intermediate (very limited endochondral contribution)
+
+‐ Bone forms directly from periosteal and endosteal surfaces, leading to relatively rapid bridging when vascularity is adequate []
+
+‐ Disrupted endochondral ossification (long bones)
+
+‐ Impaired intramembranous ossification (craniofacial bones)
+
+‐ Prolonged inflammatory phase
+
+‐ Reduced or delayed cartilage resorption
+
+‐ Impaired vascularization
+
+‐ Poor matrix mineralization
+
+‐ Increased risk of delayed union or fibrous non‐union [,]
+
+‐ Mechanisms preserved (endochondral ossification in long bones; intramembranous ossification in craniofacial bones)
+
+‐ Reduced callus size and decreased mechanical strength
+
+‐ Slower mineralization and delayed progression to mature bone
+
+‐ Impaired remodeling phase due to high bone turnover imbalance (↑ resorption, ↓ formation)
+
+‐ Healing generally reaches union if mechanical stability is adequate, but at a slower rate [,]
+
+Inflammatory phase
+
+Intense but self‐limited inflammatory response; M1→M2 macrophage transition occurs within days, enabling timely progression to repair [,]
+
+Milder and shorter inflammatory phase with rapid resolution, reflecting high vascularity of craniofacial tissues []
+
+Prolonged and exaggerated inflammation with persistent M1 phenotype, elevated TNF‐α / IL‐6, impaired resolution; higher susceptibility to peri‐implantitis []
+
+Moderately prolonged inflammatory phase: elevated TNF‐α / IL‐6 but partial resolution preserved; increased susceptibility to infection []
+
+Callus formation
+
+Large, well‐organized soft callus progressing to robust hard callus; mechanical strength typically restored by ∼6 months []
+
+Minimal or absent callus; healing occurs mainly by direct intramembranous bone apposition []
+
+Small, fragile callus with delayed mineralization and impaired transition to hard callus; reduced stability (implant survival typically 90%–95% with glycemic control) []
+
+Reduced callus volume and decreased mechanical stability; delayed mineralization, though major peri‐implant bone loss differences are often not significant []
+
+Key signaling pathways
+
+Strong activation of Wnt/β‐catenin, BMP, VEGF, IGF‐1; intact PI3K/Akt []
+
+High Wnt, BMP, FGF signaling; rapid neural‐crest‐driven osteogenesis []
+
+Wnt↓↓, BMP↓, IGF‐1↓↓; AGE–RAGE activation; impaired PI3K/Akt []
+
+Wnt↓, BMP↓, sclerostin↑↑; estrogen‐deficiency disruption of OPG/RANKL []
+
+Oxidative stress (ROS)
+
+Physiological, rapidly cleared; no adverse impact []
+
+Wery low; supports osteoblast proliferation [,]
+
+Severe and persistent ROS→ osteoblast apoptosis; ↑ failure in uncontrolled DM []
+
+Mildly elevated; contributes to skeletal fragility []
+
+Advanced Glycation End‐products
+
+Minimal; intact collagen matrix []
+
+Minimal; optimal matrix deposition []
+
+High → collagen crosslinking, RAGE activation; ↑MBL (∼0.032 mm/month) []
+
+Moderate (aging‐related) []
+
+Angiogenesis
+
+Robust (VEGF/HIF‐1α peak at 7–14 days); full vascularization []
+
+Rapid early vascularization supports intramembranous ossification [,]
+
+Markedly impaired; hypoxic microenvironment and ↓VEGF in uncontrolled DM []
+
+Reduced but functional; generally adequate for osseointegration []
+
+Osteoblast activity (Runx2, Osterix)
+
+High and sustained; complete regeneration []
+
+Very high periosteal activity; efficient intramembranous formation []
+
+Strongly suppressed; ↓Runx2 under hyperglycemia []
+
+Reduced (senescence + sclerostin) []
+
+Osteoclast activity (RANKL/OPG)
+
+Transient increase during remodeling; balanced turnover []
+
+Generally low; limited resorption []
+
+Excessive and prolonged; RANKL↑, inflammatory bone loss []
+
+Increased resorption (RANKL↑, OPG↓); bone loss elevated but survival similar []
+
+Final bone quality
+
+Full restoration of strength and architecture []
+
+Complete structural and functional regeneration []
+
+Poor‐quality bone; fibrous tissue, low strength; ↑failure in uncontrolled DM []
+
+Fragile, low‐density bone; implant outcomes largely maintained []
+
+John Wiley & Sons, Ltd.
+
+1.3
+
+Osseointegration in Medically Compromised Conditions
+
+The alteration in bone repair mechanisms have direct implications for implant integration. Originally, implant integration was believed to occur through the formation of an intervening fibrous tissue layer that mechanically anchored the implant to bone [,]. However, this concept was later replaced according to Brånemark, who described osseointegration as a direct structural and functional connection between living bone and the surface of a load‐bearing implant, without intervening soft tissue [,]. This definition is fundamentally based on histomorphometric parameters of bone‐to‐implant contact observed in preclinical models. Because such assessment is not feasible in clinical practice, clinical osseointegration is instead inferred indirectly through implant stability, radiographic evaluation and measurements, and the absence of pain or infection. These processes are governed by a complex interplay of local and systemic factors, including the physicochemical properties of the implant material and the patient's overall health status [].
+
+1.4
+
+Preclinical Models of Diabetes and Osteoporosis for Studying Implant Osseointegration
+
+Individual variability in medical history, genetic predisposition and healing capacity, combined with strict ethical constraints on experimentation in patients, make direct clinical studies of implant performance in diabetic or osteoporotic individuals extremely challenging. Well‐controlled prospective trials with truly equivalent systemic health status are rarely feasible. Consequently, investigators rely heavily on preclinical in vitro and in vivo models to elucidate mechanisms and test biomaterial strategies under disease‐like conditions. Although these models cannot fully recapitulate human pathophysiology, they remain essential for generating mechanistic insights and guiding the rational design of implants for compromised patients. The following subsections summarize the most widely used in vitro and in vivo approaches, their key findings relevant to osseointegration, and their direct translational.
+
+1.4.1
+
+In Vitro Models
+
+In diabetic models, a common strategy involves elevating the glucose concentration in culture media from physiological levels (∼5.5 m) to diabetic ranges (20–25 m). This hyperglycemic environment significantly affects key cell types involved in bone regeneration, such as mesenchymal stem cells (MSCs), periodontal ligament stem cells (PDLSCs), osteoblasts, and macrophages but results are somewhat divergent [,,]. For instance, high glucose levels have been shown to induce cellular senescence primarily via activation of the Akt/mTOR pathway [,]. Concurrently, hyperglycemia triggers mitochondrial ROS overproduction, endoplasmic reticulum stress through CHOP induction in osteoblasts, and sustained NF‐κB‐driven inflammation, all of which contribute to reduced osteogenic differentiation []. Noteworthy, while immortalized MSCs may exhibit increased proliferation and osteogenesis under high glucose, primary MSCs do not. When cultured with serum from diabetic patients, MSCs showed limited proliferation and significantly reduced osteogenic differentiation, regardless of glycemia levels [].
+
+Similarly, PDLSCs under hyperglycemia exhibit reduced proliferation and osteoblastic differentiation []. In osteoblasts, high glucose induces endoplasmic reticulum stress and upregulation of C/EBP‐homologous protein (CHOP), leading to apoptosis and impaired mineralization. MC3T3 osteogenic cells cultured with glucose levels comparable to diabetic mice also display altered gene expression linked to the osteoblast phenotype. In parallel, macrophages exposed to high glucose shift toward a pro‐inflammatory phenotype, with increased expression of inflammatory cytokines and a heightened susceptibility to programmed cell death []. This M1‐like pro‐inflammatory phenotype is mediated by AGE–RAGE‐induced NF‐κB activation and is a key contributor to the chronic inflammatory microenvironment observed around implants in diabetic conditions [,] Altogether, these alterations suggest that hyperglycemia disrupts cell viability, phenotype, and function, creating an unfavorable microenvironment for osseointegration, ultimately predicating long‐term failure.
+
+In osteoporotic models, the goal is to replicate the multifactorial cellular dysregulation of bone remodeling, a process governed by the interplay between osteoblast‐mediated bone formation, osteoclast‐mediated bone resorption, and macrophage‐driven immune response. Mono‐ and co‐cultures of these cell types are used to investigate direct signaling pathways and cellular cross‐talks that underlie osteoporotic bone loss []. In particular, co‐culture protocols, using either direct contact or trans‐well systems, allow investigation of the bidirectional communication between osteoblasts and osteoclasts. Osteoblasts release factors regulating osteoclast differentiation and activity, while osteoclasts modulate osteoblastic ALP expression and the recruitment of progenitor cells []. Such systems often utilize primary cells isolated from osteoporotic donors, which inherently display disease‐associated alterations []. Alternatively, estrogen deficiency (a major driver of postmenopausal osteoporosis) is simulated in vitro through targeted culture interventions to perturb osteoblast–osteoclast interactions and skew the remodeling balance toward bone resorption []. Estrogen withdrawal rapidly increases the RANKL/OPG ratio in osteoblasts and elevates sclerostin secretion by osteocytes, thereby inhibiting Wnt/β‐catenin signaling and shifting bone remodeling strongly toward resorption []. This level of complexity stands in marked contrast to the modeling of diabetes, where the in vitro induction of a disease‐like state is frequently achieved through a relatively straightforward elevation of extracellular glucose concentration to mimic hyperglycemia. While hyperglycemic conditions can trigger well‐documented metabolic and oxidative stress responses in a wide range of cell types [], [] osteoporosis modeling requires the orchestration of multi‐lineage cellular interactions and hormone‐sensitive signaling networks, making its faithful recreation in vitro inherently more challenging and mechanistically demanding.
+
+Most studies rely on conventional 2D cultures for simplicity, reproducibility and control over environmental conditions, conventional monolayer systems lack the complex 3D extracellular matrix (ECM) and mechanical stimuli present in vivo, potentially altering cell morphology, signaling, and function. Also, in vitro responses are typically assessed on standard culture plastic, which does not reproduce the chemical, topographical, or mechanical features of clinically used implant materials. Since surface properties play a pivotal role in modulating cell adhesion, differentiation, and immune responses, the evaluation of cellular behavior under diabetic or osteoporotic conditions must therefore include interactions with implant‐relevant surfaces. In line with this, a growing number of studies have investigated how hyperglycemic environments influence cellular behavior on titanium and other clinically relevant implant surfaces and 3D cultures systems and bioengineered scaffolds have been also developed []. For example, 3D bone models incorporate co‐ or tetra‐cultures within ECM‐like hydrogels (e.g., collagen, Matrigel) enriched with calcium phosphate nanoparticles, replicating both the cellular and mineral components of bone []. Microfluidics‐based platforms such as bone‐on‐a‐chip further enhance physiological relevance by enabling controlled delivery of nutrients, oxygen, and mechanical stimuli []. Additionally,human bone tissue cultures are used to better preserve native tissue characteristics, improving the translational relevance of in vitro findings [].
+
+A study conducted by Kheur et al. [] used three commercially available titanium implant surfaces with various nano‐ and microstructural alterations (laser‐etched implant surface, titanium‐zirconium alloy surface and air‐abraded, acid‐etched surface) to evaluate the response of osteoblasts under conditions that simulate diabetes. The study showed enhanced osteoblast adhesion (MG‐63), viability, and mineralization even under high‐glucose conditions, in comparison with untreated implant surfaces. On the other hand, a study [] with MC3T3‐E1 cells grown on mechanically polished, sandblasted and acid‐etched (SLA) and anodic oxidized TiOnanotubes surfaces under various glucose levels (5.5–22 m), showed that high glucose inhibited cell adhesion, proliferation, induced reactive oxygen species (ROS) overproduction and apoptosis. The TNT surface alleviated the osteogenetic inhibition induced by high‐glucose states by reversing the overproduction of ROS in vitro. Along this line, a recent report explicitly addressed the critical interplay between nanotopographical cues and hyperglycemic environment using human MG63 osteoblastic cells cultured on precisely engineered titanium nanotubular surfaces (25 and 82 nm inner diameter nanotubes plus a two‐tiered honeycomb architecture) under varying glucose concentrations (5.5–45 m) [] Remarkably, all nanostructured surfaces mitigated the detrimental effects of high glucose on viability, metabolism, proliferation, migration, and osteogenic differentiation (Figure). The 82 nm nanotubes (NT2) and honeycomb substrates elicited the strongest rescue of cell migration and late‐stage differentiation events, whereas 25 nm nanotubes provided the most stable response across the entire glucose range. Importantly, the beneficial influence of nanotopography consistently dominated over the negative impact of hyperglycemia, demonstrating that carefully designed nanoscale features can override disease‐like biochemical challenges in vitro.
+
+A pivotal in vitro study directly demonstrated that osteoblast adhesion to titanium surfaces was markedly reduced following exposure to serum from streptozotocin‐induced diabetic rats and from diabetic patients (both controlled and uncontrolled). The recovery of osteoblast aggregates following aminoguanidine (advanced glycation end products (AGE) inhibitor) treatment indicates that AGEs contribute to this detrimental effect. This interpretation is further supported by the observation that fractionated sera from diabetic rats or humans, which contain AGEs, impair osteoblast adhesion on titanium surfaces []. Altogether, these studies highlight the importance of integrating both systemic pathological cues and material surface characteristics into in vitro models. Only by considering the biomaterial–cell–disease environment triad can we better predict implant performance and guide the development of optimized surfaces for compromised clinical scenarios such as diabetes and osteoporosis. Representative in vitro models of diabetic and osteoporotic conditions and their reported cellular effects are summarized in Table.
+
+FIGURE 1
+
+In vitro osteogenic differentiation of MG63 osteoblast‐like cells on titanium surfaces under low‐glucose (LG) and high‐glucose (HG) conditions. a) Total alkaline phosphatase (ALP) activity at 7 and 14 days of culture on untreated Ti, NT1 (25 nm nanotubes), NT2 (82 nm nanotubes), and honeycomb (HC) surfaces. b) ALP synthesis rate, calculated as the difference in ALP activity between the late phase (days 7–14) and early phase (days 0–7), normalized per day of culture. c) Extracellular matrix mineralization at 21 days, quantified by Alizarin Red S staining and colorimetric measurement after dye extraction. d) Representative Western blot bands and e) densitometric quantification of osteopontin (OPN), Runx2, and osteocalcin (OCN) protein expression at day 14 under LG and HG conditions. Data are presented as mean ± SD (n ≥ 3); statistical significance markers as reported in the original study. Reproduced with permission. [] from the Royal Society of Chemistry.
+
+TABLE 2
+
+In vitro cell models in diabetic and osteoporotic conditions with reported effects.
+
+Cell Line / Model
+
+Condition
+
+Observed Effects
+
+MC3T3‐E1 []
+
+High glucose (15–50 mmol/l)
+
+Decreased proliferation, ALP activity, mineralization, and osteogenic gene expression
+
+MC3T3‐E1 []
+
+High glucose (5.5–25mmol/l)
+
+Reduced proliferation, increased apoptosis, ROS generation, mitochondrial damage, and autophagy
+
+Human Periodontal Ligament Fibroblast /Stem cells (PDL cells) [,]
+
+High glucose
+
+Lower viability, reduced migration, inhibited proliferation and osteoblastic differentiation and increased mRNA/protein expression of pro‐inflammatory cytokines.
+
+MC3T3‐E1 []
+
+High glucose, ERα/β signaling disruption
+
+Reduced ER transcriptional activity, decreased Wnt/β‐catenin signaling, lower ALP activity, reduced mineralization.
+
+BMSCs (OVX‐derived) []
+
+Osteoporosis (OVX model)
+
+Decreased osteogenic differentiation and proliferation, impaired mineralization.
+
+Primary osteoblasts (OVX‐derived) []
+
+Osteoporosis (OVX model)
+
+Differences in cell ultrastructure, proliferation, differentiation, adenosine triphosphate (ATP) and ROS concentrations in osteoblasts from the OVX group compared with those from the sham group.
+
+John Wiley & Sons, Ltd.
+
+1.4.2
+
+In Vivo (Animal) Models
+
+In vitro models of diabetic and osteoporotic bone environments serve as indispensable platforms for dissecting disease‐related alterations in cellular function and for evaluating therapeutic strategies under clinically relevant conditions. While they provide critical foundational insights into both physiological and impaired cellular responses, their findings must be interpreted with caution. These models fall short of reproducing essential aspects of the in vivo milieu, such as inflammatory responses and mechanical loading, which play a decisive role in osteoblast activity and bone healing. Thus, to gain a more comprehensive understanding of bone regeneration under systemic disease conditions, animal models remain essential. They allow for the study of bone repair and implant integration in the context of whole‐organism physiology, providing critical information on disease progression, therapeutic responses, and the long‐term performance of biomaterials under diabetic and osteoporotic conditions.
+
+To replicate clinical scenarios, several well‐established animal models have been developed (Table). These models can be broadly classified into three categories: (i) genetically modified, (ii) chemically induced, and (iii) miscellaneous based on specific experimental objectives []. Streptozotocin (STZ)‐induced models are widely used to mimic Type 1 diabetes through selective β‐cell destruction, while high‐fat diet (HFD) models and genetically modified strains such as db/db mice are commonly employed to study Type 2 diabetes [,,,]. A large variety of animal species, including rodents, rabbits, dogs, and primates, have been used as animal models in osteoporosis research []. Among these, ovariectomized (OVX) rodents remain the gold standard, as they reliably reproduce the bone loss characteristic of postmenopausal osteoporosis []. OVX animals display significant reductions in bone mass and quality, especially in trabecular‐rich regions such as the femur and spine [].
+
+The consistent findings of reduced bone‐to‐implant contact, impaired biomechanical stability, and exaggerated peri‐implant bone loss observed in STZ, HFD, db/db, and OVX models closely mirror the higher early and late failure rates reported clinically in diabetic and postmenopausal osteoporotic patients, validating these models as predictive tools for screening next‐generation implant designs.
+
+TABLE 3
+
+Overview of most common in vivo models for studying bone healing in diabetic and osteoporotic conditions.
+
+Condition
+
+Animal Model
+
+Type
+
+Key Features
+
+Common Applications / Therapeutic Strategies
+
+Diabetes
+
+Type 1 Diabetes [,]
+
+STZ‐induced rodents
+
+Chemically induced
+
+β‐cell destruction, hyperglycemia, poor bone healing, impaired osseointegration
+
+Growth factors (BMP‐2, VEGF), surface‐modified implants, MSCs, antioxidants
+
+Type 2 Diabetes [,]
+
+High‐fat diet + STZ; db/db mice
+
+Metabolic + genetic
+
+Insulin resistance, obesity, chronic inflammation
+
+Bioactive scaffolds, exosome therapy, anti‐inflammatory coatings
+
+Osteoporosis
+
+Osteoporosis [,]
+
+Ovariectomized (OVX) rodents
+
+Hormone‐deficiency induced
+
+Estrogen loss, reduced bone mass and density, high turnover
+
+Bisphosphonates, PTH analogs, strontium‐based materials, bioactive ceramics
+
+Glucocorticoid‐Induced [,,,]
+
+Steroid‐treated rodents
+
+Drug‐induced osteoporosis
+
+Impaired osteoblastogenesis, increased resorption
+
+Anti‐resorptives, slow‐release drug delivery systems
+
+John Wiley & Sons, Ltd.
+
+2
+
+Bone Healing Around Dental and Orthopedic Implants
+
+2.1
+
+General Considerations
+
+Several medically relevant metals have been used for bone implants []. Among these, titanium and its alloys are widely used due to their physiochemical properties, such as high fatigue strength, excellent corrosion and wear resistance, and biocompatibility []. For this reason, the present review focuses on titanium‐based implants.
+
+Although osseointegration and anchorage of medically relevant metals with direct bone‐implant contact is well‐established [,,,,] bone healing surrounding implants remains a complex and dynamic physiological process, characterized by local cellular responses and stimuli. At the time of implant placement, ‘sufficient’ bone anchorage is crucial for primary implant stability []. Subsequently, bone resorption and new bone formation will occur in response to mechanical stress and strain ensuring a long‐term clinical outcome [].
+
+Despite the overall success of bone implants, a proportion of implants fail due to poor bone integration, often associated with the formation of fibrous tissue and sometimes cartilage at the bone‐implant interface []. Fibrous encapsulation occurs around unstable and/or overloaded dental implants, often resulting from inadequate initial fixation (primary stability) or excessive mechanical stress, which prevents proper osseointegration []. In the case of dental implants, peri‐implant inflammation (reminiscent of periodontal disease) is now recognized as a major contributing factor to implant failure. This condition, known as peri‐implantitis, involves the alteration of the peri‐implant epithelium by oral bacteria followed by inflammatory destruction of the supporting bone that can compromise the stability and longevity of the implant []. Like orthopedic implants, dental implants are not immune to complications that may necessitate revision or replacement [].
+
+Since osteoclasts play an important role for peri‐implant bone remodeling [,], targeting their activity is a promising therapeutic strategy to modulate bone turnover, particularly in compromised situations []. Bisphosphonates, potent anti‐resorptive agents that induce osteoclast apoptosis and disrupt their function, have been used for this purpose. However, prolonged use of bisphosphonates could impair the bone remodeling dynamics needed to sustain biomechanical forces []. As an alternative to controlling osteoclast differentiation and activation, monoclonal antibodies offer a more selective approach to modulating bone turnover and support implant success in patients with compromised bone healing. As an example, denosumab, a fully human monoclonal antibody against receptor activator of nuclear factor‐κB ligand (RANKL), is in use for the prevention of fractures in osteoporotic patients []. In addition, other targeted therapies, such as Romosozumab, a monoclonal antibody that binds sclerostin, are being touted for their dual capacity in stimulating formation and inhibiting resorption of bone [,].
+
+2.2
+
+Hyperglycemic and Osteoporotic Conditions
+
+2.2.1
+
+Hyperglycemia
+
+In vivo studies consistently demonstrate that hyperglycemia disrupts both early and late stages of osseointegration. Diabetic models show reduced bone implant contact (BIC) and lower local bone mineral density (BMD) at various timepoints. For example, von Wilmowsky et al. [] reported significantly lower BIC and BMD in diabetic pigs compared to controls at both early (4 weeks) and late (12 weeks) stages post‐implantation. McCracken et al., [] using STZ‐induced diabetic rats, found an unusual pattern of bone remodeling, with increased peri‐implant bone volume but reduced direct bone‐implant contact, accompanied by altered expression of bone‐related markers such as alkaline phosphatase and osteocalcin.
+
+Beyond impaired mineralization, diabetic animals present a compromised osteogenic environment characterized by impaired angiogenesis, persistent inflammation, and increased bone resorption activity []. Histological and biomechanical analyses consistently reveal thinner trabeculae, decreased cortical thickness, and diminished implant pull‐out strength in diabetic animals. Furthermore, time‐course evaluations suggest that while initial implant placement may trigger a healing response, sustained hyperglycemia blunts this regenerative process, leading to structurally inferior peri‐implant bone tissue. These findings underscore the dysregulated bone turnover in diabetic conditions, where new bone may form, but fails to integrate properly with the implant surface.
+
+2.2.2
+
+Osteoporosis
+
+Implant studies using OVX animal models have shown marked decreases in BIC, peri‐implant bone volume, and mechanical anchorage compared to healthy controls []. For example, studies in OVX rats report delayed new bone formation at the implant interface and lower early BIC values compared with sham animals []. Other OVX studies document a progressive deterioration of peri‐implant trabecular architecture and bone volume (BV/TV) over several weeks after ovariectomy, accompanied by reduced removal‐torque or push‐out strength of implants []. The mechanistic basis for impaired osseointegration in osteoporotic animals involves a shift in the remodeling balance toward resorption, decreased osteoblast activity, and diminished bone turnover. In these models, bone healing is not only delayed but often results in the formation of low‐density, mechanically weak bone formation incapable of sustaining implant loading. The compromised microenvironment also limits the recruitment and differentiation of osteoprogenitor cells, further impairing new bone formation. For example, studies of aged OVX rats show marked reductions in BIC, peri‐implant bone volume, and biomechanical anchorage [,,].
+
+Altogether, diabetic and osteoporotic models remain essential platforms for assessing the biological compatibility and functional performance of implants in compromised hosts. They allow systematic evaluation of healing timelines, tissue organization, and structural integration, offering valuable preclinical data to guide the development of therapeutic strategies aimed at improving implant outcomes in patients with systemic bone disorders.
+
+3
+
+Effect of Implant Surface Modifications on Osseointegration in Medically Compromised Conditions
+
+3.1
+
+Rationale for Surface Modification
+
+Given that clinical osseointegration cannot be evaluated histologically and instead depends on achieving stable and predictable bone–implant anchorage, controlling the cellular and molecular activities at the bone‐implant interface to favor overall bone formation and limit inflammation and fibrous encapsulation has become a central therapeutic objective. This is true not only under healthy physiological conditions but also in patients with systemic comorbidities, where impaired healing, inflammation, or fibrous encapsulation can jeopardize implant success.
+
+Modifications, including physico‐chemical ones, biochemical functionalization, and coatings with bioactive molecules, have been widely investigated for their potential to improve cellular adhesion, promote osteogenic differentiation, and modulate inflammatory responses, features critical for successful osseointegration [,,,,].
+
+3.2
+
+Physico‐Chemical Surface Modifications
+
+In current clinical practice and research, purely physical or purely chemical modifications are rarely applied in isolation; the most effective and widely used implant surfaces result from the combination of both approaches.
+
+, such as sandblasting, acid etching, laser texturing, or their combinations, enhance osseointegration by promoting osteoblast adhesion, spreading, and activation of osteogenic signaling pathways []., including acid etching, micro‐arc oxidation (MAO), anodization, and hydrothermal processing, further regulate surface energy, wettability, oxide‐layer thickness, and crystallinity, while enabling the controlled incorporation of bioactive ions [,,]. Together, theseaim at producing surfaces with optimized topography (micro‐ and nanoscale roughness, porosity, hierarchical structures) and tailored surface chemistry (oxide‐layer composition, wettability, surface energy, and bioactive ion content), maximizing the biological response at the bone–implant interface.
+
+3.2.1
+
+Diabetes
+
+Animal studies consistently demonstrate that implant surface morphology plays a decisive role in modulating peri‐implant healing under diabetic conditions. In a preclinical study using Göttingen minipigs, tight‐fitting sand‐blasted, acid‐etched implants were placed in both the maxilla and mandible of animals with metabolic syndrome (MS) and T2DM. Histomorphometric analysis after six weeks revealed significantly reduced bone formation around implants in the T2DM group compared to healthy and MS groups (Figure), indicating a detrimental effect of hyperglycemia on early osseointegration. Interestingly, bone healing trends suggested better outcomes in the mandible across all conditions, suggesting site‐specific differences in regenerative capacity [].
+
+Ajami et al. [] evaluated the effects of hyperglycemia on bone healing using two in vivo models in a femoral osteotomy model, hyperglycemia significantly delayed trabecular bone formation and mineralization compared to healthy controls. In a bone in‐growth chamber model, implants with combined micro–nanotopographic surfaces enhanced BIC hyperglycemic animals achieved BIC levels comparable to healthy rats receiving only microtopographic implants.
+
+Consistent with these observations, a recent T2DM rat study [] directly compared three implant types, hydroxyapatite (HA)‐coated, sandblasted and acid‐etched (SLA), and conventional machined titanium surfaces, within the same metabolic environment. After four weeks of healing, both HA and SLA implants demonstrated superior osseointegration relative to machined controls. Histomorphometric analyses revealed that SLA surfaces achieved the highest volume of newly formed bone (nBV/TV) (Figure), whereas HA‐coated implants produced the highest bone‐to‐implant contact (nB.I/Im.I). Notably, despite differences in surface chemistry and roughness, all modified implants showed a consistent regional pattern of new bone formation along the implant length.
+
+Strontium incorporation via hydrothermal treatment has been shown to enhance osseointegration under compromised systemic conditions. In a diabetic rat model, SLA‐Sr surfaces significantly improved bone‐to‐implant contact compared to conventional SLA implants at both 4 and 8 weeks and promoted early osseointegration in healthy animals. Mechanistically, Sr‐modified surfaces reduced early peri‐implant inflammation and upregulated osteogenic signaling pathways, including osteoprotegerin (OPG) and the Wnt5a/receptor tyrosine kinase‐like orphan receptor 2 (ROR2) axis, suggesting a dual effect on bone formation and inflammatory modulation [].
+
+FIGURE 2
+
+Representative histological images showing the maxilla and mandible under different systemic conditions. Green arrows indicate areas of newly formed bone, while yellow arrows highlight active bone remodeling units. Reproduced with permission. [] 2023, Wiley periodicals LLC.
+
+FIGURE 3
+
+Quantification of newly formed bone around implant surfaces. Bone formation was assessed within a standardized region of interest (ROI) extending a fixed distance from the implant surface. The percentage of new bone within this ROI (nBV/TV) is shown for the overall peri‐implant region as well as for three anatomically distinct subregions: the periosteal zone, the cortical compartment, and the medullary area. This segmentation illustrates how implant surface characteristics influence bone regeneration across different microenvironments along the implant interface [].
+
+3.2.2
+
+Osteoporosis
+
+The mechanical fragility and impaired bone turnover of osteoporotic bone represent major challenges to implant stability. Given that osteoporosis is characterized by reduced bone mass and deteriorated bone microarchitecture, factors that can compromise both primary and secondary implant stability, several studies have investigated its impact on osseointegration. Du et al. [] evaluated the influence of osteoporosis on the integration of machined and micro‐rough titanium implants in ovariectomized rats (Figure). Their findings indicated that osteoporotic conditions negatively affected the early osseointegration of machined implants. In contrast, implants with micro‐rough surfaces promoted osteogenic responses.
+
+Lotz et al. [] investigated the role of surface hydrophilicity and nanostructuring in implant osseointegration under osteoporotic conditions. Three surfaces – microstructured/hydrophobic (SLA), microstructured/nanostructured/hydrophobic (SLAnano), and microstructured/nanostructured/hydrophilic (mSLA) – were tested in ovariectomized rats (Figure). While all surfaces supported osseointegration, mSLA produced the highest BIC and removal torque values, indicating that the combination of multiscale roughness and hydrophilicity synergistically enhances bone regeneration under estrogen‐deficient conditions.
+
+FIGURE 4
+
+SEM images of implant surfaces. (a, b) Machined and (b, c) micro‐rough. Adapted with permission [], Elsevier.
+
+FIGURE 5
+
+SLA, SLAnano, and mSLA substrates were examined by scanning electron microscopy (SEM) at 35x (A–C), 20Kx (D–F) and 100Kx (G–I). Surface roughness (Sa) was assessed using laser confocal microscopy measured using a 106.2µm x 106.2µm scan size (J). Surface chemical composition was assessed using X‐Ray Photoelectron Spectroscopy (XPS) with spectra of O, Ti, and C shown (K). Reproduced with permission []. 2020, John Wiley and Sons.
+
+3.3
+
+Biological Surface Modifications
+
+Biological surface modifications aim to enhance osseointegration by directly incorporating bioactive molecules or living components onto implant surfaces to modulate the peri‐implant healing environment. Common methods include cell‐based coatings, where osteoblasts, stem cells, or their derivatives are applied to the implant surface, as well as biomolecule functionalization using peptides, growth factors, extracellular matrix components, or bioactive proteins. These biologically inspired modifications seek to actively guide tissue integration, particularly in compromised healing conditions where endogenous regenerative capacity is reduced.
+
+3.3.1
+
+Diabetes
+
+A prominent challenge in diabetic conditions is the excessive production of reactive oxygen species (ROS) around titanium implants, which triggers persistent inflammation, disrupts osteoblast activity, and ultimately leads to poor osseointegration or implant failure. To address this specific hostile microenvironment, multifunctional biologically active coatings that combine ROS‐scavenging capacity with immunomodulatory and osteogenic properties have recently emerged. A representative example is the incorporation of cerium‐containing mesoporous bioactive glass nanoparticles (Ce‐MBGNs) onto titanium surfaces via electrophoretic deposition []. The reversible Ce/Ceredox couple confers potent antioxidant nanoenzyme‐like activity, enabling efficient ROS clearance even under high‐glucose diabetic conditions. Simultaneously, the controlled release of bioactive Si, Ca, and Ce ions, together with markedly improved surface hydrophilicity and nanotopography, promotes mesenchymal stem cell proliferation and osteogenic differentiation while driving macrophage polarization toward an anti‐inflammatory (M2) phenotype. In vivo validation in streptozotocin‐induced diabetic rats confirmed that Ce‐MBGN‐modified implants significantly inhibit peri‐implant inflammation and accelerate early osseointegration compared with unmodified titanium, demonstrating the clinical translational potential of ROS‐responsive biological coatings for diabetic patients.
+
+Further exemplifying biomolecule functionalization, polydopamine‐assisted coating of the antimicrobial/chemotactic peptide LL‐37 on micro‐arc oxidized and hydroxyapatite‐deposited micro‐structured titanium implants has been shown to enhance MSC recruitment and bone formation in diabetic‐like compromised environments []. In a rat femur defect model, these modified implants induced rapid migration of CD29+/CD90+ positive MSCs to the implant site within one week post‐implantation and promoted substantial new bone formation by 4 weeks, as evidenced by histochemical (Figure), and complementary immunohistochemical staining for OCN, OPN, and collagen I, outperforming unmodified titanium by facilitating targeted cellular homing and osteogenic differentiation [].
+
+Complementing this, nano‐hydroxyapatite/chitosan (nano‐HA/CS) composite coatings on porous titanium implants target diabetes‐induced ROS overproduction by reactivating the FAK‐mediated BMP‐2/Smad signaling pathway to restore osteoblast adhesion and function []. In vivo implantation in diabetic sheep demonstrated that these coatings reversed hyperglycemia‐associated impairments in F‐actin and vinculin organization, FAK phosphorylation, and Smad1/5/8 activation, yielding improved osteointegration via micro‐CT (higher bone volume fraction) and histological analyses compared to bare titanium.
+
+Another effective biomolecule‐based approach uses simple physisorption of fibronectin‐bound adipose‐derived stem cell extracellular vesicles (ADSC‐EVs) on titanium []. This EV‐functionalized implants in diabetic rat models, significantly improve early osseointegration, with higher bone‐implant contact and new bone volume at 4–8 weeks compared to uncoated Ti.
+
+FIGURE 6
+
+In vivo osseointegration at 4 weeks in diabetic rats. (A) H&E (top) and Masson's trichrome (bottom) staining of peri‐implant bone. Black circle: implant cavity after Ti rod removal. Scale bar = 500 µm. (B, C) Quantification of new bone area (%) from H&E and Masson's trichrome staining. Mean ± SD (= 6);< 0.05,< 0.01. Reproduced with permission. []. 2018, Elsevier.
+
+3.3.2
+
+Osteoporosis
+
+Duan et al. [] evaluated the efficacy of coating polished titanium implants with mesenchymal stem cell (BMSC) sheets derived from healthy bone marrow. In osteoporotic (ovariectomized) rats, BMSC‐coated implants demonstrated improved bone volume and a significant increase in BIC after eight weeks, highlighting the regenerative potential of biologically active coatings (Figure).
+
+In a related approach, [] a titanium implant coated layer‐by‐layer with hyaluronic acid/ε‐polylysine and parathyroid hormone‐related protein (PTHrP) was tested in an ovariectomized rat model. Micro‐CT and histological analyses showed enhanced bone formation and osseointegration around the coated implants compared to controls (Figure), suggesting that PTHrP delivery may help overcome osteoporotic deficits [].
+
+Across these two medically compromised conditions, implant surface modifications actively counteract the molecular disturbances that impair osseointegration. Micro‐ and nano‐engineered surfaces modulate inflammatory signaling, enhance angiogenesis, promote osteoblast differentiation, and rebalance osteoclast activity through pathways such as Wnt/β‐catenin, MAPK, PI3K/Akt, BMP/Smad, and RANKL/OPG. Although the underlying defects differ between diseases, optimized surface designs consistently reorient the peri‐implant environment toward regeneration.
+
+The impaired osseointegration observed in diabetes is closely linked to dysregulated inflammatory and regenerative signaling pathways at the bone–implant interface. A central defect involves macrophage dysfunction, where hyperglycemia limits polarization toward the pro‐healing M2 phenotype and sustains a pro‐inflammatory milieu. Recent in vivo evidence shows that implant surface modifications can partially rescue these immune impairments. For example, hydrophilic nanostructured modSLA surfaces promote M2 polarization, increase IL‐10 secretion, and suppress pro‐inflammatory cytokines by activating macrophage autophagy and inhibiting the PI3K/Akt/mTOR pathway []. This shift toward a reparative immune profile supports downstream processes essential for bone healing, including enhanced osteoblast activity, improved matrix deposition, and greater bone‐to‐implant contact. Collectively, these findings underscore that the beneficial effects of micro‐ and nano‐textured surfaces in diabetic environments are not only structural but also mechanistically rooted in the modulation of inflammatory signaling, immune cell phenotype, and host–implant molecular crosstalk.
+
+Similarly, impaired osseointegration in osteoporosis arises from disrupted osteogenic, osteoclastic, and angiogenic pathways that weaken bone formation and early implant stability. A central defect involves exaggerated osteoclast activity and insufficient osteoblast recruitment, where reduced Wnt/β‐catenin signaling and an elevated RANKL/OPG ratio shift remodeling toward net bone resorption. Recent in vivo studies demonstrates that implant surface modifications can partially rescue these remodeling defects. Calcium‐phosphate–enriched and nanostructured titanium surfaces enhance osteoblast differentiation, increase β‐catenin activation, and suppress excessive osteoclastogenesis by modulating RANKL expression and promoting OPG secretion. This restoration of a balanced remodeling environment supports improved matrix deposition, enhanced angiogenesis, and increased bone‐to‐implant contact. These findings highlight that the beneficial effects of engineered surface features in osteoporotic bone derive from their capacity to recalibrate osteoblast–osteoclast coupling, normalize Wnt signaling, and reestablish regenerative crosstalk at the implant interface. Taken together, evidence across diabetic and osteoporotic models indicates that next‐generation surface designs hold the potential to overcome systemic barriers to osseointegration by directly targeting the molecular pathways that govern inflammation, angiogenesis, and bone remodeling.
+
+FIGURE 7
+
+Histological evaluation at the bone‐implant interface at eight weeks of implantation. Tissue sections surrounding Ti and BMSC‐coated Ti implants were stained using Masson‐Ponceau Trichrome (A–D) and Van Gieson's stain (E–H). Panels B, D, F, and H show ×20 magnifications of the corresponding boxed regions in panels A, C, E, and G, respectively. Reprinted with permission from a publication licensed under a Creative Commons Attribution‐NonCommercial‐NoDerivs license [].
+
+FIGURE 8
+
+Image 3D, micro‐computed tomography (CT) and quantitative analysis of the in vivo study about 3 types of implants in Sprague Dawley rat models: titanium (Ti), titanium by technique layer‐by‐layer (Ti‐LBL), technique layer by layer with parathyroide hormone related protein (Ti‐LBL‐PTHrP). (a) 3D image of bone formation around implant, (b,c,d,f,g) bone formation parameters. Reprinted with permission from []. Copyright 2020, IOP Publishing.
+
+3.4
+
+Molecular and Cellular Signaling Pathways Modulated by Implant Surface Modifications
+
+Building on these mechanisms, this section outlines the major signaling pathways that control inflammation, angiogenesis, osteogenesis, and bone remodeling at the bone–implant interface, highlighting how they differ in healthy, diabetic, and osteoporotic healing. Implant surface modifications influence macrophage phenotype, osteoblast differentiation, oxidative stress responses, and extracellular matrix organization through key pathways including Wnt/β‐catenin, BMP/Smad, MAPK, PI3K/Akt, VEGF, and Nrf2.
+
+Understanding how these pathways shift across physiological and compromised conditions provides the mechanistic basis for engineering surfaces that restore deficient healing responses.
+
+The following table (Table) summarizes the key molecular and cellular parameters that regulate osseointegration under normal, osteoporotic, and diabetic conditions, and highlights the surface modification strategies that have been shown to rescue specific pathway defects.
+
+Readers are referred to Tablefor the healing mechanisms observed without implants.
+
+Although the major canonical pathways governing impaired osseointegration in diabetes and osteoporosis are now well‐characterized (Wnt/β‐catenin, RANKL/OPG, oxidative stress, AGE‐RAGE, etc.), transcriptomic studies in both healthy and compromised hosts consistently reveal that a substantial proportion of differentially expressed genes remain unannotated or of unknown function [,,]. This large pool of unidentified regulators strongly suggests that truly innovative therapeutic targets will only emerge once these ‘dark’ genomic elements are deciphered. Among these, non‐coding RNAs, particularly microRNAs (miRNAs) and long non‐coding RNAs (lncRNAs), are increasingly recognized as master regulators of osteoblast differentiation, osteoclastogenesis, macrophage polarization, and responses to hyperglycemia and estrogen deficiency []. For instance, miR‐214‐3p, miR‐26a, and lncRNA H19 have been implicated in diabetic bone disease and postmenopausal osteoporosis, where they disrupt osteoblast–osteoclast coupling and exacerbate inflammatory microenvironments [,,,,]. Preliminary data from implant‐focused transcriptomics also confirm differential expression of several miRNAs and lncRNAs at the bone–implant interface under compromised conditions [,,].
+
+TABLE 4
+
+Key Signaling Parameters at the Bone–Implant Interface Under Normal, Osteoporotic, and Diabetic Healing, and Surface Modifications Shown to Rescue Impaired Pathways.
+
+Parameter
+
+Normal (Healthy) Healing
+
+Osteoporotic Healing
+
+Diabetic Healing
+
+Surface Modifications Proven to Rescue the Defect (Mechanism & Examples)
+
+Inflammation & Immune Polarization (M1/M2 balance)
+
+Rapid transition from pro‐inflammatory M1 macrophages to pro‐regenerative M2; balanced cytokines (TNF‐α↓, IL‐10↑) [].
+
+Prolonged inflammation; impaired M2 polarization; increased TNF‐α and IL‐1β promote bone resorption [].
+
+Sustained M1 dominance; chronic inflammation driven by AGE–RAGE and NF‐κB activation; IL‐10 suppressed [].
+
+Micro‐/nano‐rough surfaces: promote M2 polarization, reduce TNF‐α/IL‐6, increase IL‐10; modulate NF‐κB []. Hydrophilic modSLA: induces M2 via autophagy activation and PI3K/Akt/mTOR inhibition []. Bioactive ion incorporation (Mg, Sr): suppresses inflammatory cytokines and enhances M2 phenotype [,].
+
+Oxidative Stress & Redox Balance (ROS / Nrf2 axis)
+
+Controlled ROS supports early signaling; robust antioxidant responses maintain redox homeostasis [].
+
+Elevated ROS impairs osteoblast function and increases osteoclastogenesis; Nrf2 activity reduced [].
+
+High ROS due to hyperglycemia; oxidative damage to osteoblasts; suppressed antioxidant enzymes [].
+
+Nanostructured Ti, MAO, or hydrothermal surfaces: enhance Nrf2 activation and antioxidant enzymes; reduce ROS load []. Strontium or zinc coatings: reduce oxidative stress while promoting osteogenesis []. Chitosan or polydopamine‐based coatings: strong antioxidant scavenging effects [].
+
+Osteogenic Signaling (Wnt/β‐catenin and BMP/Smad pathways)
+
+Strong Wnt/β‐catenin and BMP/Smad activation; high osteoblast differentiation and matrix deposition [].
+
+Reduced Wnt signaling; low RUNX2/ALP/OCN expression; impaired matrix mineralization [].
+
+Suppressed osteoblast differentiation due to ERK/FAK dysregulation and hyperglycemia‐induced inhibition of Wnt/BMP [,].
+
+Micro‐rough surfaces: reactivate β1‐integrin–FAK–ERK signaling; increase RUNX2, ALP, OCN []. Nanotopographies: enhance Wnt/β‐catenin stabilization []. BMP‐functionalized coatings: directly boost Smad phosphorylation and osteogenic commitment [,].
+
+Osteoclast Regulation (RANK/RANKL/OPG axis)
+
+Balanced bone turnover; physiological RANKL/OPG ratio prevents excessive bone resorption [].
+
+Elevated osteoclastogenesis; high RANKL/OPG ratio; accelerated peri‐implant bone loss [,].
+
+Diabetes promotes early osteoclast hyperactivation and uncoupled remodeling; RANKL/OPG skewed toward resorption.
+
+Micro‐ and nano‐rough surfaces: reduce RANKL, increase OPG; restore balanced remodeling []. Strontium‐modified surfaces: suppress RANKL‐induced osteoclastogenesis. MAO surfaces: create micro/nanoporosity that downregulates osteoclast activity.
+
+Angiogenesis (HIF‐1α / VEGF pathway & microvascularization)
+
+Adequate vessel ingrowth; strong VEGF and HIF‐1α activation; good perfusion and oxygenation [].
+
+Reduced angiogenesis due to compromised osteoblast–endothelial coupling; low VEGF.
+
+Hyperglycemia inhibits HIF‐1α stabilization and VEGF signaling; impaired vessel maturation (CD31+↓).
+
+Hydrophilic surfaces (e.g., modSLA, UV‐treated Ti): upregulate HIF‐1α/VEGF; increase microvascular density. Nanotubular/nanoporous Ti: enhances endothelial adhesion and tubulogenesis. Sr‐ or Cu‐doped MAO coatings: angiogenic ion release stimulates endothelial migration and VEGF expression.
+
+Bone‐to‐Implant Contact (BIC)
+
+High BIC (60–80%) by 4–8 weeks (species‐dependent)
+
+Lower BIC; delayed maturation; weaker interfacial strength [].
+
+Significantly reduced BIC due to combined inflammation, oxidative stress, and impaired osteogenesis [].
+
+Multi‐scale roughness (SLA, SLActive, laser‐nanostructured Ti): consistently increases BIC in osteoporotic and diabetic models []. Ion‐incorporated MAO surfaces: improve early bone apposition. Bioactive coatings (collagen, BMPs, chitosan): accelerate matrix deposition and mineralization [,,,,].
+
+John Wiley & Sons, Ltd.
+
+3.5
+
+Implant Stability and Micromotion in Medically Compromised Conditions
+
+3.5.1
+
+General Considerations
+
+Although the animal models presented in Sectionhave recognized limitations, they have nonetheless provided important insights into how systemic bone disorders alter local responses to implanted biomaterials. Notably, most studies have been conducted under unloaded or static conditions, which may not fully replicate clinical scenarios where implants are subjected to early or progressive functional loading. Only a few studies [] have addressed these biomechanical aspects by introducing controlled micromotion or forces to better mimic the oral and orthopedic implant environment.
+
+Implant stability is a critical determinant of implant success and is traditionally categorized into primary and secondary stability [,]. Primary stability refers to the immediate mechanical engagement between the implant and the surrounding bone upon placement. It is influenced by factors such as bone quality and quantity, implant geometry and material, and surgical technique []. When primary stability is high, micromotion at the implant–bone interface is minimized, a key prerequisite for early healing and successful osseointegration [].
+
+Secondary stability, in contrast, is biologically driven and develops over time as new bone forms and remodels around the implant surface. This process provides long‐term anchorage and functional stability. However, both types of stability can be compromised in the presence of systemic conditions such as diabetes and osteoporosis, which are associated with impaired bone metabolism, delayed healing, and reduced bone regeneration capacity.
+
+Micromovements and the resulting mechanical stress and strain at the bone–implant interface are particularly detrimental during the initial healing phase. A landmark review by Brunski [] emphasized that excessive interfacial micromotion early after implantation (>100–150 µm) disrupts local healing and predisposes to fibrous encapsulation instead of osseointegration. Moreover, once healing has progressed, excessive strains in the peri‐implant bone, particularly immature woven bone, can provoke microdamage and resorption, a phenomenon that is sometimes mistakenly attributed solely to physiological “adaptation” rather than frank mechanical overload of a still‐maturing tissue [].
+
+A clinically relevant rat maxillary model developed by de Barros E Lima Bueno et al. [] directly demonstrated the critical importance of the number of daily load cycles during the second week of healing. After an initial 7‐day unloaded period, a single daily session of 60 cycles at 1.5 N had no deleterious effect and even appeared compatible with normal healing, whereas doubling the daily sessions (2 × 60 cycles) caused cumulative interfacial damage and severely disrupted osseointegration. Finite‐element analysis confirmed that the resulting compressive/tensile strains exceeded the tolerable threshold for healing maxillary bone (Figure), underscoring that the total accumulated mechanical insult, not just peak force, is a decisive factor in early implant failure. Although clinical thresholds for tolerable micromotion remain empirically defined, it is generally accepted that minimizing implant movement in the early phase is essential for osseointegration. This becomes even more critical in medically compromised bone, where primary mechanical interlocking may be insufficient, and biological healing responses are subdued.
+
+In osteoporotic conditions, reduced bone mineral density and altered bone microarchitecture can lead to lower primary stability and delayed secondary integration []. Similarly, in diabetes, chronic hyperglycemia triggers systemic inflammation, which can impair both osteoblast function and vascularization at the implant site, further challenging osseointegration []. Hence, understanding the mechanical and biological thresholds of implant stability in these populations is essential for improving treatment protocols.
+
+Emerging evidence also points to the beneficial role of mechanical stimulation in enhancing implant integration. Low‐magnitude high‐frequency (LMHF) loading has been reported to stimulate bone formation and improve bone–implant contact in osteoporotic models, particularly when combined with pharmacological agents such as parathyroid hormone (PTH) or bisphosphonates []. Other studies have shown that immediate controlled loading during early healing may promote osseointegration, although excessive mechanical load can have the opposite effect, that is, disrupt bone formation and lead to implant failure [,].
+
+FIGURE 9
+
+Finite‐element analysis of peri‐implant strain distributions in the rat maxillary model under a single axial load of 1.5 N applied to the implant abutment (gap tissue Young's modulus = 1 MPa, representing early healing tissue at ∼7 days). (a) Third principal (maximum compressive) strain (b) First principal (maximum tensile) strain (c) Distortional (shear) strain (d) Hydrostatic strain Color scales represent strain magnitude (µε); positive values = tension, negative values = compression. Reproduced with permission [].
+
+3.6
+
+Clinical Evidence from Implant Outcomes in Diabetic and Osteoporotic Patients
+
+Following the insights gained from preclinical research, several studies have examined the impact of systemic conditions like diabetes and osteoporosis on dental and orthopedic implant outcomes. Collectively, the clinical evidence confirms that patients affected by these conditions tend to experience compromised bone regeneration and osseointegration, although implant survival may remain high under controlled circumstances [,].
+
+In diabetic patients, particularly those with poorly controlled glycemia, indicate a higher risk of impaired healing, peri‐implantitis, and marginal bone loss []. Hyperglycemia and its downstream consequences, such as the accumulation of advanced glycation end‐products (AGEs), oxidative stress, and increased production of inflammatory cytokines, are associated with prolonged inflammatory responses following implant placement. These mechanisms contribute to diminished osteoblast function, increased osteoclastogenesis, and overall disruption of bone remodeling dynamics. While clinical evidence shows that the risk of implant failure is significantly higher in individuals with uncontrolled diabetes, when well‐managed, implant success rates can approach those of healthy individuals [,].
+
+Similarly, in patients with osteoporosis, studies have demonstrated that bone quality significantly influences implant stability and early osseointegration [,]. Reduced bone mineral density and altered bone turnover rates, characteristic of osteoporotic bone, lead to lower bone‐to‐implant contact and decreased primary stability compared to individuals with healthy bone. Some studies have reported slightly increased marginal bone loss in osteoporotic patients, though overall dental implant survival rates remain relatively high (often exceeding 90%) when appropriate protocols and patient selection criteria are applied []. Nonetheless, delayed bone remodeling and reduced mechanical stability emphasize the need for individualized treatment planning in this population applied [].
+
+Importantly, these clinical observations are consistent with the pathophysiological mechanisms identified in preclinical models. The systemic inflammation seen in both diabetic and osteoporotic conditions—mediated by elevated TNF‐α, IL‐1β, and RANKL/OPG imbalance‐appears to play a central role in modulating the bone‐implant interface [,]. Thus, while current implant protocols may be effective in many medically compromised patients, the biological burden of these systemic conditions necessitates a tailored approach to implant therapy, incorporating stricter glycemic control, anti‐resorptive therapies when appropriate, and modified loading protocols.
+
+3.7
+
+Nanoscale Surface Modifications: a Promising Strategy
+
+Nanostructured surfaces represent one of the most promising strategies for rescuing implant success in challenging clinical conditions such as diabetes and osteoporosis. Several studies have shown that nanoscale surface features can modulate cellular behavior, promote bone integration, reduce inflammatory responses, and provide antibacterial properties [,,,,], all of which are critical in vulnerable patient populations.
+
+Our in vitro work [,,] demonstrated that nanoporous titanium surfaces (< 25 nm) reduce the inflammatory response and offer alternative adhesion mechanisms in genetically impaired cells (Figure) These effects are solely attributed to the intrinsic physicochemical characteristics of the surface, and consequent mechanotransductive signaling, without the need for bioactive coatings. This capacity of nanostructured surfaces to ‘reprogram cell activity’ suggests they could be especially valuable for patients with impaired cellular function or healing capacity.
+
+Furthermore, in a recent in vivo study using healthy animals, we found that nanostructured titanium implants maintained high levels of bone formation under mechanical loading while simultaneously limiting the inflammatory response (Figure) []. These findings rise the possibility that implants with nanostructured surfaces may better withstand challenging loading conditions during initial bone healing. The knowledge gained from these studies could be highly beneficial for a large segment of the population affected by poor bone quality resulting from aging and/or medically compromised conditions.
+
+Along this same line, the work by Ajami et al. [], described above, have demonstrated that tailoring implant surfaces with nanoscale topography effectively mitigates the negative impact of hyperglycemia on early‐stage bone healing and osseointegration. Indicating that topographical and chemical optimization of implant surfaces can mitigate the effects of diabetes and osteoporosis without any additional surface functionalization, underscoring the potential of surface nanotexture as a promising strategy to enhance implant integration.
+
+FIGURE 10
+
+Fluorescence micrographs of CHO‐K1 and mutated cells (S273A) cultured for 24 h on polished (Ti‐Control) and nanotextured titanium (Ti‐Nano). Error bars represent the standard deviation, * indicates statistically significant differences and ns indicate no significant difference. Reproduced with permission []. Copyright 2020 American Chemical Society.
+
+FIGURE 11
+
+Histomorphometric analyses of bone formation in Nano Unloaded, Nano Micromotion 1x and Nano Micromotion 2x groups at 7 days post‐surgery. The Nano Micromotion 2x group showed (A) overall lower BFAo; (B) lower bone‐implant contact (BIC), and (C) larger BID compared to the other two groups. Asterisks indicate statistically significant differences. Reproduced with permission [].
+
+4
+
+Discussion and Conclusions
+
+As global populations age, the prevalence of systemic conditions such as diabetes and osteoporosis continues to rise, increasing the number of medically compromised patients that will need access to dental and orthopedic implants. This integrative review highlights how these conditions impair normal bone healing processes and compromise osseointegration, leading to challenges in achieving both initial stability and long‐term implant success. In vitro and in vivo models have provided valuable mechanistic insights; however, many animal studies focus on early time points limiting understanding of long‐term implant performance. Importantly, mechanical stability is often assessed using unloaded implants, and very few studies simultaneously incorporate compromised systemic conditions, functional loading, and advanced surface modifications. While clinical evidence demonstrates that implant outcomes are influenced by implant stability and surface characteristics, the picture in patients is complexed by the health status of patients and by multifactorial local and systemic interactions. Metabolic dysregulation altered inflammatory status, comorbidities, pharmacological interventions, and disease‐associated changes in systemic immune function can all fundamentally modify the host–implant interface. Together, these observations underscore the need to view bone healing and the resulting osseointegration within a broader, patient‐specific immunometabolic context.
+
+4.1
+
+The Role of Comorbidities and Medications
+
+Disease progression in humans is often gradual and shaped by long‐term treatment, making acute experimental models only partially representative of clinical reality. Medications commonly used to manage diabetes (e.g. SGLT2 inhibitors) and osteoporosis (e.g. bisphosphonates) can themselves modulate bone cell behavior []. Investigating their interaction with implant surfaces will be critical for accurately predicting clinical performance.
+
+4.2
+
+Evolution of In Vitro Models
+
+Promising approaches [] include co‐culture systems of osteoblasts, osteoclasts and macrophages under dynamic fluid flow; organ‐on‐a‐chip platforms with vascular channels and perfusable scaffolds; and the use of patient‐derived serum or metabolic conditions. Patient‐specific induced pluripotent stem cells (iPSCs) offer opportunities to create personalized bone cell populations that retain donor‐specific genetic traits, while 3D bioprinted bone constructs enable spatially organized deposition of multiple cell types within a controlled extracellular matrix for high‐content analysis of implant‐tissue interactions [].
+
+4.3
+
+The Role of In Vivo Studies
+
+While even advanced in vitro systems provide valuable mechanistic insights, they cannot fully recapitulate the complexity of living organisms. In vivo animal models remain an essential intermediate step for preclinical assessment of osseointegration under diabetic or osteoporotic conditions []. These models account for systemic influences such as vascularization, hormonal regulation, immune responses, and drug metabolism, which are difficult to mimic in vitro. Importantly, diabetic and osteoporotic animal models consistently demonstrate delayed bone formation, reduced bone‐to‐implant contact, and compromised mechanical stability []. Nevertheless, their limitations‐including acute disease induction, species‐specific differences, and simplified pharmacological contexts‐must be recognized. Therefore, in vivo findings should be interpreted as obligatory complements to in vitro studies, providing a necessary bridge toward more clinically relevant predictions.
+
+4.4
+
+Mechanical Loading in Compromised Conditions
+
+Bone formation and remodeling are affected by mechanical stimulation and therefore the mechanical environment during functional implant loading is bound to impact on their success. Yet relatively few (e.g. []) studies have investigated implant osseointegration in controlled loading models and what consists acceptable, beneficial and detrimental loading remains empirical [], more so under compromised systemic conditions. Thus, some in vivo models fail to capture the critical interplay between mechanical cues, bone quality, and systemic disease. Diabetes‐ and osteoporosis‐associated alterations in bone turnover, microarchitecture, and vascularization may profoundly modify the mechanobiological response to implant loading. Addressing this gap by integrating controlled loading regimens into systemic disease models will provide a more realistic understanding of implant performance under clinically relevant conditions.
+
+4.5
+
+High‐Throughput and Translational Approaches
+
+The development of high‐throughput screening platforms capable of simultaneously evaluating multiple surfaces under different simulated disease conditions could significantly accelerate the discovery of context‐specific implant strategies []. Integrating automated imaging and data analysis would enable rapid identification of surfaces optimized for pathological states. Notably, translational success will also depend on integrating these findings with optimized implant macro‐designs, surgical protocols and rehabilitation regimens. For example, pairing surface modifications with loading strategies tailored to the patient's bone quality may maximize functional recovery while minimizing risk of implant failure.
+
+4.6
+
+Promises of Surface Modifications
+
+Although most implant surface modification strategies have been developed and validated under healthy conditions, there remains a paucity of data on their performance in medically compromised models. Surface modifications, especially at the nanoscale, have already demonstrated the capacity to partially offset genetic defects or overload conditions without additional interventions [,], suggesting their potential to improve implant performance in challenging biological environments. Nevertheless, their clinical translation has not yet been fully explored, and further research is needed to validate long‐term efficacy under realistic, clinically relevant loading conditions. Importantly, the capacity to sustain excessive loading and tissue deformation is particularly relevant to bone changes during diabetes and osteoporosis.
+
+5
+
+Future Directions
+
+The implant development continuum should adopt multidimensional approaches that integrate advanced in vitro platforms any clinically relevant animal models.
+
+Funding
+
+This research was funded by the Canadian Institute of Health Research (CIHR‐ PJT‐195727). Antonio Nanci holds a Canada Research Chair in Calcified Tissues, Biomaterials, and Structural Imaging (CRC‐2021‐00525).
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
