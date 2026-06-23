@@ -1204,6 +1204,20 @@ tags: []
 - [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] — SR+MA(13편, Oper Dent 2021): 레진 5년 생존 91%, 세라믹 10년 85%; 이차우식/파절 주요 실패 원인
 
 
+## 근관치료 — 충전·실러 (Endodontics: Obturation / Bioceramic Sealers)
+
+### Ceraseal / 생체활성 실러 cluster (added 2026-06-23, PubMed full-text)
+- [[endodontics/spinelli-2024-three-year-single-cone-ceraseal-cohort]] — Spinelli 2024 · prospective · Ceraseal + single-cone: 92.7% survival, 92.1% PP healing at 36 mo; 100% in pulpitis/necrosis
+- [[endodontics/zamparini-2023-premixed-calcium-silicate-carrier-based-2year]] — Zamparini 2023 · prospective · Ceraseal warm carrier-based matched AH Plus on 24-mo healing/survival; lower extrusion, some resorbed radiographically
+- [[endodontics/abada-2025-obturation-techniques-post-obturation-pain-rct]] — Abada 2025 · rct · AH Plus caused more post-obturation pain than CeraSeal; obturation technique irrelevant; extrusion raised pain
+- [[endodontics/song-2022-sealer-based-obturation-epoxy-calcium-silicate-rct]] — Song 2022 · rct · 4-arm RCT (71 teeth): calcium-silicate (CeraSeal/EndoSeal TCS) ≈ epoxy-resin (AH Plus/ADseal) — no void/extrusion/3-mo pain difference
+- [[endodontics/shim-2025-retrieval-ahplus-bioceramic-ceraseal-retreatment]] — Shim 2025 · in-vitro · AH Plus Bioceramic (94.8%) and Ceraseal (92.5%) more retrievable than epoxy AH Plus (87.1%) after WOG+XPF
+- [[endodontics/kunam-2024-wettability-ahplus-ceraseal-guttaflow]] — Kunam 2024 · in-vitro · AH Plus wets dentin best (47.4°) < Ceraseal (61.6°) < Guttaflow bioseal (95.6°, nonwetting)
+- [[endodontics/maharti-2024-calcium-silicate-apatite-deposition-ph]] — Maharti 2024 · in-vitro · Ceraseal deposits more interfacial apatite (23.65 vs 18.49 µm) and higher pH (11.48 vs 9.19) than AH Plus Bioceramic
+- [[endodontics/kumar-2022-cytotoxicity-bioc-ceraseal-mtafillapex-ahplus]] — Kumar 2022 · in-vitro · CeraSeal/Bio-C drop from severe to noncytotoxic (>90%) by 24h; AH Plus stays severely cytotoxic
+- [[endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]] — de Almeida-Junior 2024 · in-vitro · CeraSeal/BioRoot/AH Plus all non-cytotoxic to MC3T3 osteoblasts at 48h; differential Tnf/Ptgs2/Dmp1 induction
+- [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Gaafar 2025 · in-vitro · CeraSeal > NeoSEALER Flo for HGF biocompatibility; both bioceramics dose-dependently cytotoxic/pro-inflammatory, AH Plus highest cytokines
+
 ## 근관치료 — 근관외과·기타 (Endodontics: Periapical Surgery / Protocols)
 - [[endodontics/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (J Endod 2026): hemostatic agents (epinephrine/ferric sulfate/AlCl₃/bone wax/TXA) in periapical surgery — bleeding control, healing
