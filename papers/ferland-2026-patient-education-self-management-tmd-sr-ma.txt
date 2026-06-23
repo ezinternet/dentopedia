@@ -1,0 +1,75 @@
+Patient Education and Self-Management in Adults With Temporomandibular Disorders: Results From a Systematic Review With Meta-Analysis
+Ferland G, Vincent R, Desmeules F, Cormier AA, Huon M, Pitance L
+J Oral Rehabil. 2026;53(7):1394-1408. DOI: 10.1111/joor.70187. PMID: 41858088. PMCID: PMC13261784.
+PROSPERO: CRD42024529862
+
+== ABSTRACT ==
+Objective: To evaluate the efficacy of education and self-management (ED and SM) interventions delivered by a health care provider, either alone or in combination with other non-surgical interventions for improving pain, function, or health-related quality of life (HRQoL) in adults with temporomandibular disorders (TMDs).
+Design: Systematic review with meta-analysis.
+Literature Search: Six databases were searched up to March 2025.
+Study Selection Criteria: RCTs comparing the efficacy of ED and SM with any non-surgical other interventions such as splints, manual therapy, electrotherapy or multimodal approaches in adults with TMDs. Eligible studies had to report outcomes on pain, function or HRQoL.
+Data Synthesis: Risk of bias assessed using Cochrane RoB-1 tool. Pooled treatment effects calculated using random-effects models with standardized mean differences (SMD). Certainty of evidence evaluated using GRADE.
+Results: Forty-seven RCTs (n=3238 participants; 77% female; mean age 34.4 +/- 7.3 years), none had low risk of bias. ED and SM interventions generally delivered as standardized programs and often served as control conditions. Based on very low-certainty evidence, other non-surgical interventions may be more effective than ED and SM alone for short-term pain reduction (SMD=0.67, 95% CI: 0.13-1.20, 6 studies, 323 patients) or HRQoL improvement (SMD=0.61, 95% CI: 0.20-1.01, 2 studies, 124 patients). When combined with ED and SM, non-surgical interventions may also result in moderate additional HRQoL improvements (SMD=0.50, 95% CI: 0.18-0.82, 3 studies, 154 patients). Other comparisons—such as ED and SM alone versus ED and SM combined with other non-surgical interventions—showed comparable effects between groups on pain, function and HRQoL over short-, medium- and long-term. Certainty of evidence remains low to very low.
+Conclusion: Certainty of evidence supporting ED and SM interventions for TMDs is very low to low across all outcomes. While some short-term clinically relevant benefits may favour other non-surgical treatments, no consistent superiority or inferiority of ED and SM was found. Combining ED and SM with other interventions did not consistently improve outcomes. High-quality trials needed.
+
+== INTRODUCTION ==
+TMDs are leading cause of non-dental orofacial pain, second most prevalent musculoskeletal disorder after chronic low back pain. Symptoms: pain in TMJ region, masticatory muscles, inner/outer ear, neck; joint noises, difficulty opening mouth, disability with chewing/talking. Impact HRQoL. Complex multifactorial conditions: somatization, mood disorders, parafunctional habits, stress, pain sensitivity. Comorbidities: depression, anxiety, cervical spine dysfunction, headaches. Best managed within biopsychosocial framework. Management involves dentists, physiotherapists, physicians. Dentists often prioritize occlusal splints but empirical effectiveness data inconclusive. Clinical guidelines advocate multimodal interventions: patient education, reassurance, relaxation therapy, manual therapy, exercises. Prior SRs concluded ED and SM may reduce pain/disability and improve HRQoL based on low-moderate quality trials, comparable to other conservative treatments. Earlier reviews lacked consistent definition of ED and SM. Delphi consensus (Durham) and scoping review (van der Meer) clarified definition: education on general TMD mechanisms, masticatory muscle overuse, postural awareness, psychosocial contributors, therapeutic exercises. No prior MA systematically appraised ED/SM vs other non-surgical treatments.
+
+== METHODS ==
+PRISMA. PROSPERO CRD42024529862 (registered March 2024). Databases: MEDLINE, PubMed, Embase, Cochrane Central, CINAHL, PsycINFO, up to March 2025, no date restriction. PICOS framework. Cochrane RCT Classifier in Covidence used to pre-exclude non-RCTs. Dual-reviewer screening (MH/RV or GF/RV); third reviewer (LP or FD) for disagreements.
+Inclusion: adults with TMD diagnosed per RDC/TMD or DC/TMD; interventions = education and advice for self-management per Durham et al. and van der Meer et al., standalone or combined; >=1 outcome on pain, disability, or HRQoL; RCT in English or French. Interventions delivered by physiotherapist, dentist, or chiropractor, compared to any other conservative treatment.
+Exclusion: dysphagia, tinnitus, migraine participants; CBT delivered by psychologists or requiring advanced training (to keep interventions simple/accessible/broadly implementable).
+Risk of bias: Cochrane RoB 1 (seven domains). GRADE for certainty.
+Analysis: Random-effects model meta-analyses in RevMan 5.4. SMDs (different tools for similar outcomes). Alpha 0.05, 95% CI. Time periods: short (1-6 weeks), medium (7-26 weeks), long (27-52 weeks). Negative SMD = beneficial effect favouring ED and SM. Heterogeneity: Cochrane Q, I^2. Effect sizes: <0.2 trivial, 0.2-0.49 small, 0.5-0.79 moderate, >=0.8 large.
+
+== RESULTS ==
+Study selection: 17859 records found; 6106 duplicates removed; 9010 auto-marked non-RCT; 2743 screened on title/abstract; 187 full-text reviewed; 47 included; 140 excluded.
+Characteristics: 47 trials, 3238 participants, 76.8% women. Sample sizes 19-186. Mean age 34.4 +/- 7.3 years. 22 trials mixed TMD diagnostic categories (myofascial pain, disc displacement, joint disorders). 19 studies only myofascial pain. 4 RCTs disc displacement with reduction. 1 study disc displacement without reduction. 15 RCTs persistent pain (>=3 months). Trials 2000-2025. Settings: university clinics 62%, hospitals 11%, private clinics 6%.
+Providers: dentists/dental hygienists (n=21) or physiotherapists (n=12). ED and SM (n=34) most often combined with occlusal splints, unsupervised home exercise, or manual therapy compared to ED and SM alone. 15 trials ED and SM vs standalone treatments (splints, electrotherapy, multimodal). 2 trials ED+SM added to other tx vs those tx alone.
+SM most commonly unsupervised exercises (ROM, strengthening, motor control), often based on Carlsson & Magnusson or Rocabado's 6x6 regime, typically without clear rationale. ED focused on behavioural modification to reduce masticatory overuse, biomedical foundations of TMD, lifestyle/psychosocial factors, posture education. About half recommendations explicitly sourced (n=24). Posture instructions generally vague.
+Delivery: brief one-on-one sessions (n=43, 91%); leaflets/visual aids 57% (n=27). Standardized programs; only 6% (n=3) individualized. Session duration rarely specified (n=8); when reported 15-75 min. Multiple in-person sessions uncommon (n=16); phone follow-ups in only 3 trials.
+
+TABLE 1 - ED/SM components (n=117 total):
+1.1 Biomedical foundations of TMD (anatomy, physiology, aetiology, diagnostic, prognosis, pain physiology): 20 (17%)
+1.2 Overuse of masticatory system modification (parafunctions, excessive movement, diet, avoid clenching): 28 (24%)
+1.3 Posture education (body, tongue, mandible): 14 (12%)
+1.4 Lifestyle and psychosocial education (sleep, physical activity, psychosocial): 19 (16%)
+1.5 Self-management instructions (exercise, thermotherapy, additional support): 36 (31%)
+Delivery methods (n=78): Education session 43 (55%); Personalized sessions 3 (4%); Video-based 1 (1%); Written materials 27 (35%); Not reported 4 (5%); contextual example/group interaction/self-reflection 0.
+
+Outcome measures: Pain intensity primary in 45 studies (VAS or NRS at rest). Function: JFLS-8/JFLS-20 (n=6), Mandibular Function Impairment Questionnaire (n=2), or perceived functional status scales. HRQoL: Oral-Health Impact Profile (n=4) or WHOQOL-BREF (n=2). 35 RCTs short-term (1-6 wk), 22 medium-term (7-26 wk), 5 long-term (27-52 wk).
+
+Risk of bias: 47 included. No RCT low risk. 3 unclear risk. 44 high risk. Selection bias in 3 (inadequate randomization/allocation - e.g., order of arrival). All but 4 high performance bias (lack of blinding). 6 detection bias. 16 attrition bias. 5 selective reporting. 2 group exchange. 1 excluded participants post-randomization. 2 inadequate sample size/low power.
+
+EFFICACY of ED+SM COMPARED TO OTHER INTERVENTIONS (15 RCTs; 8 pooled):
+- Short-term pain: other interventions significantly superior. SMD=0.79, 95% CI 0.27-1.32, I^2=78%, 7 studies, 359 patients. (GRADE summary: SMD 0.67, 0.13-1.20, 323 patients, 6 RCTs, very low)
+- Medium-term pain: SMD=0.43, 95% CI -0.25-1.10, I^2=82%, 4 studies, 144 patients (NS)
+- Medium-term function: SMD=0.36, 95% CI -0.46-1.18, I^2=78%, 2 studies, 132 patients (NS)
+- Short-term HRQoL: other interventions significantly superior. SMD=0.61, 95% CI 0.20-1.01, I^2=0%, 2 studies, 124 patients.
+7 trials not pooled (high RoB), qualitative analysis did not change conclusions.
+
+ADDITION of ED+SM to ANOTHER INTERVENTION vs INTERVENTION ALONE (2 RCTs):
+- Short-term pain: no significant benefit. SMD=-0.44, 95% CI -2.11-1.23, I^2=89%, 2 studies, 61 patients.
+
+ED+SM COMBINED WITH ANOTHER INTERVENTION vs ED+SM ALONE (34 high-RoB RCTs; 19 pooled):
+For all outcomes/follow-ups except short-term HRQoL, combination NOT significantly superior to ED+SM alone.
+- Short-term pain: SMD=0.25, 95% CI -0.06-0.56, 816 patients, 15 RCTs, very low (NS)
+- Medium-term pain: SMD=0.48, 95% CI -0.29-1.26, 364 patients, 5 RCTs, very low (NS)
+- Long-term pain: SMD=-0.10, 95% CI -0.44-0.25, 133 patients, 3 RCTs, low, I^2=0% (NS)
+- Short-term function: SMD=0.41, 95% CI -0.03-0.85, 247 patients, 6 RCTs, very low (NS)
+- Medium-term function: SMD=-0.10, 95% CI -0.91-0.71, 88 patients, 2 RCTs, very low (NS)
+- Long-term function: SMD=0.15, 95% CI -0.27-0.57, 87 patients, 2 RCTs, low, I^2=0% (NS)
+- Short-term HRQoL: combination superior. SMD=0.50, 95% CI 0.18-0.82, I^2=0%, 3 studies, 154 patients.
+14 trials not pooled; qualitative analyses did not change conclusions.
+
+Certainty of evidence (GRADE): very low for most outcomes; low for long-term pain and long-term function. Downgrades primarily for risk of bias and imprecision.
+
+== DISCUSSION ==
+While some short-term benefits favour other non-surgical interventions (pain, HRQoL), overall certainty low to very low; no strong/consistent indication ED and SM superior or inferior to splints, manual therapy, supervised exercises, or multimodal approaches. ED and SM generally delivered as standardized programs, often as control conditions lacking grounding in best practice/guidelines. Limited high-quality trials, substantial heterogeneity. First SR+MA to assess ED/SM vs other non-surgical interventions in TMD. ED/SM remain potentially beneficial, low-cost first-line treatment offering comparable clinically relevant effects to more complex/resource-intensive approaches. Most trials used standardized generic programs as control with limited theoretical grounding/personalization, contrasting with patient-centered care recommendations - may account for inconsistent findings. Short follow-up duration a limitation.
+
+== STRENGTHS AND LIMITATIONS ==
+Strengths: rigorous alignment with TMD diagnostic criteria, PRISMA and Cochrane guidelines, comprehensive 6-database search, qualitative+quantitative synthesis, GRADE.
+Limitations: subgroup analyses (by diagnosis or delivery method) not possible due to variability; most trials myofascial TMD (caution generalizing to disc displacement/arthrogenic); English/French language restriction; RoB 1 used (less granular than RoB-2).
+
+== CONCLUSION ==
+Certainty of evidence for ED and SM in adults with TMD very low to low across all outcomes/time points. Some short-term clinically relevant benefits may favour other non-surgical interventions for pain and HRQoL; no consistent evidence ED/SM inferior or superior to other non-surgical treatments. Combining ED/SM with other interventions did not consistently improve outcomes vs ED/SM alone. More rigorous, high-quality, theory-informed, patient-centered trials needed, especially for medium-/long-term outcomes.
