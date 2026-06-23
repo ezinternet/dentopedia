@@ -1,0 +1,128 @@
+The mesial–mesial/distal–distal (MM-DD) occlusal adjustment technique: A 2–21.5-year retrospective study on preventing open contacts in posterior implant restorations
+
+Authors: Chiun-Lin (Steven) Liu, Shih-Cheng Wen, Ching-Jung Chang Chien, Je-Kang Du
+Journal: Journal of Dental Sciences. 2025;20(4):2163-2175.
+PMID: 41040578 | PMCID: PMC12485439 | DOI: 10.1016/j.1016/j.jds.2025.06.026 (10.1016/j.jds.2025.06.026)
+Publication date: 2025-07-21
+
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+== ABSTRACT ==
+
+Background/purpose: Open contacts adjacent to posterior dental implants are a common clinical complication, often resulting in food impaction, discomfort, and periodontal deterioration. This study aimed to evaluate the long-term clinical effectiveness of the mesial–mesial/distal–distal (MM-DD) occlusal adjustment technique in preventing open contacts adjacent to posterior implant restorations.
+
+Materials and methods: This retrospective study analyzed 124 single-tooth posterior implants in 100 patients over a 2–21.5-year follow-up period. The MM-DD technique involved selectively modifying occlusal contacts on the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth to influence mesial tooth movement and maintain proximal contact with implant restorations. Clinical and radiographic data were assessed for contact integrity, food impaction, discomfort, bone levels, and other outcomes. A control group with conventional occlusal adjustment was included for comparison.
+
+Results: The MM-DD group demonstrated a significantly lower incidence of open contacts (2.7 %) compared to the control group (46.7 %, p<0.001). Patients treated with the MM-DD technique reported reduced food impaction and lower discomfort scores, with less proximal bone loss around adjacent teeth. Kaplan–Meier analysis showed high rates of long-term contact stability in the MM-DD group, with 96.2 % of contacts remaining intact at 15 years.
+
+Conclusion: With its straightforward application, sound biological foundation, and minimal need for specialized equipment, the MM-DD technique presents a practical and effective solution for preserving proximal contact in posterior implants and is well-suited for widespread adoption in daily dental practice.
+
+Keywords: Implant prosthodontic; Mesial drift; Mesial–mesial/Distal–distal (MM-DD) occlusal adjustment technique; Occlusal adjustment; Open contact; Posterior implants.
+
+== INTRODUCTION ==
+
+Dental implants are widely regarded as the standard of care for replacing missing posterior teeth due to their high survival rates, load-bearing capacity, and favorable esthetic and functional outcomes. Despite their biomechanical advantages, implant-supported prostheses are prone to specific complications that differ from those affecting natural teeth. One frequently reported issue is the progressive loss of interproximal contact between the implant crown and adjacent natural teeth, especially in posterior sites.
+
+The incidence of open proximal contacts in posterior implant restorations has been reported to range from 34 % to 66 %, with mandibular implants being more susceptible. This phenomenon is attributed to the lack of periodontal ligament in implants, which prevents natural movement, while adjacent teeth continue to migrate mesially due to functional occlusal forces and physiologic drift. Resulting contact loss can lead to food impaction, gingival inflammation, interproximal bone loss, caries formation, and decreased patient satisfaction.
+
+Several restorative techniques, including splinted restorations, periodic adjustments, and over-contoured proximal surfaces, have been proposed to manage or delay contact loss. However, these solutions are often reactive, require long-term maintenance, and have not demonstrated consistent long-term efficacy. There remains a need for a preventive, evidence-based strategy that addresses the biomechanical etiology of contact loss.
+
+The mesial–mesial/distal–distal (MM-DD) occlusal adjustment technique was developed as a proactive approach to mitigate open contact development. The technique involves specific occlusal adjustments on the adjacent natural teeth to facilitate their mesial movement toward the implant crown, thereby preserving contact. This retrospective study evaluates the long-term clinical outcomes of the MM-DD technique over a follow-up period of up to 21.5 years, with a focus on proximal contact integrity, patient-reported symptoms, and peri-implant bone stability.
+
+== MATERIALS AND METHODS ==
+
+Study design and patient selection: Retrospective study of patients who received posterior dental implant restorations at a private dental practice between July 2000 and January 2022. Approved by the IRB of Kaohsiung Medical University Hospital (KMUHIRB-E(I)-20250203).
+
+Inclusion criteria:
+1. Patients aged 24 years or older.
+2. Single-tooth posterior implant restorations with natural teeth.
+3. Adjacent to both the mesial and distal aspects or mesial aspects only.
+4. Implant restorations in function for a minimum of 2 years and up to 21.5 years.
+5. Complete clinical and radiographic records available.
+6. Regular maintenance appointments (at least once annually).
+
+Exclusion criteria:
+1. Severe periodontal disease (clinical attachment loss >6 mm).
+2. Parafunctional habits not managed by occlusal appliances.
+3. Implants adjacent to other implant restorations.
+4. Systemic conditions affecting bone metabolism.
+5. Implants with severe angulation (>30° from ideal).
+6. Inadequate follow-up records.
+7. Significant modifications to the occlusal scheme after implant restoration.
+8. History of orthodontic treatment after implant restoration.
+
+Sample size and demographics: 100 patients (52 females, 48 males), 124 single-unit posterior implant crowns. Distribution: 28 maxillary premolars, 32 maxillary molars, 18 mandibular premolars, 46 mandibular molars. 124 mesial contact surfaces and 110 distal contact surfaces evaluated. Patient age 24–84 years (mean 54.2 ± 12.1 years).
+
+All implants placed in healed alveolar ridges, delayed implant placement, or immediate implant placement (IIP). Implant dimensions 3.5–6.0 mm diameter, 8.5–13 mm length. Restorations: single-unit screw- or cement-retained crowns, porcelain-fused-to-metal, zirconia, or lithium disilicate.
+
+Surgical and prosthetic protocols: All implants placed by the same clinician (CLL) using a standardized protocol. Implants from three major manufacturers, all moderately rough surfaces. After osseointegration confirmed (5–6 months post-placement), final impressions taken with polyvinyl siloxane in custom tray or digital impression. Screw- or cement-retained (resin-modified glass ionomer cement).
+
+Dr. Liu's MM-DD occlusal adjustment technique: Applied at the time of crown delivery. Occlusal contacts recorded using 42 μm articulating paper (2 layers of 21 μm articulating paper) in maximum intercuspation and during lateral and protrusive mandibular movements.
+
+For control purposes, a subset of posterior implant restorations received conventional occlusal adjustment without the MM-DD technique during the first five years of the study period (2000–2005). These cases were analyzed separately to compare outcomes. The technique aims to create functional occlusal relief zones that accommodate physiologic mesial drift.
+
+Control group and group allocation: Control group identified from cases treated between 2000 and 2005, conventional occlusal adjustment without MM-DD modifications.
+- MM-DD group: Received MM-DD occlusal adjustment at crown delivery using 40–50 μm articulating paper.
+- Control group: Conventional occlusal adjustment without targeted mesial or distal contact relief.
+
+In the MM-DD group, implant occlusion adjusted to provide firm central fossa contact on the crown and light axial contact on adjacent teeth, minimizing lateral force transmission to the implant structure.
+
+Outcome measures (primary):
+- Proximal contact integrity evaluated using dental floss and 21 μm articulating paper. Classified into three categories: tight contacts (notable resistance to floss passage), normal contacts (floss passes with light resistance), open contacts (no resistance, often with visible spacing or patient-reported food impaction).
+- Patient-reported outcomes: food impaction and discomfort (VAS) and 5-point Likert satisfaction score.
+- Radiographic assessment of marginal bone levels around implants and adjacent teeth.
+
+Follow-up protocol: Examined at 2 weeks, 3 months, 6 months post-restoration, then annual reviews. Parameters: proximal contact integrity (floss + 21 μm paper), standardized periapical radiographs annually (crestal bone levels, proximal bone height, pathology), clinical periodontal parameters (probing depths, BoP, recession, mobility of adjacent teeth), patient-reported outcomes (food impaction presence/absence, discomfort VAS 0–10, satisfaction 5-point Likert).
+
+Statistical analysis: SPSS v26.0. Kaplan–Meier method for survival of proximal contacts (time to open contact). Chi-square / Fisher's exact for categorical; independent t-tests / Mann–Whitney U for continuous. Multivariate regression for factors associated with open contact. Significance p<0.05. Post-hoc power >80 % to detect ≥20 % difference in open contact incidence (α=0.05).
+
+== RESULTS ==
+
+Incidence of open contacts:
+- Of 124 posterior implants, 75 received MM-DD occlusal adjustment, 49 served as conventional control cases.
+- At final evaluation, only 2 open contacts (2.7 %) in MM-DD group vs 23 open contacts (46.7 %) in control group (p<0.001).
+- By location: 1.9 % maxillary posterior, 2.8 % mandibular posterior.
+- Mean time to open contact in MM-DD group: 8.3 ± 3.4 years (range 4.2–16.8 years).
+- Kaplan–Meier MM-DD survival: 99.1 % intact at 5 years, 97.5 % at 10 years, 96.2 % at 15 years.
+
+Control group (conventional): 46.7 % developed open contacts. Mean time to open contact 3.6 ± 1.8 years (range 0.9–8.1 years). Kaplan–Meier: 66.7 % intact at 5 years, 53.3 % at 10 years. Difference between MM-DD (2.7 %) and control (46.7 %) highly significant (p<0.001).
+
+Risk factors: Multivariate regression identified several variables significantly associated with increased risk of open contact formation.
+
+Clinical outcomes:
+- Food impaction reported in 86.7 % of patients WITH open contacts vs 3.2 % WITHOUT open contacts (p<0.001).
+- Discomfort (VAS) significantly greater in open contact group (4.7 ± 2.0) than closed contact group (0.8 ± 0.5, p<0.001).
+- Patient satisfaction (5-point Likert) lower with open contacts (2.5 ± 0.7 vs 4.7 ± 0.4, p<0.001).
+- MM-DD group: less food impaction (VAS 0.8 ± 0.6) and higher satisfaction (Likert 4.7) than control (VAS 4.7 ± 1.1; Likert 2.5; p<0.001).
+- Implants with open contacts: greater proximal bone loss (mean difference 0.83 ± 0.31 mm, p<0.001) and deeper probing depths around adjacent teeth (mean difference 1.1 ± 0.4 mm, p<0.001).
+- MM-DD group: marginal bone level change <0.3 mm at 5 years vs 0.9 mm in control (p<0.05).
+- No implant failures in either group.
+
+Long-term outcomes and subgroup analysis:
+- Among implants with >10 years follow-up: open contacts in MM-DD group remained low at 2.9 % vs 60.0 % in control (p<0.001).
+- Patient age and implant location significantly associated with open contact formation.
+- Younger patients (24–40 years) lower incidence (1.8 %) vs >60 years (2.9 %, p=0.042).
+- Implant location: second molars higher incidence (3.4 %) than first molars (2.6 %) and premolars (2.0 %, p=0.021).
+- No significant differences by gender or restorative material (PFM, zirconia, lithium disilicate).
+
+== DISCUSSION (key points) ==
+
+The MM-DD technique is a biologically driven, clinically effective method for preserving proximal contact integrity. Open contact reduced from 46.7 % (control) to 2.7 % (MM-DD). Consistent with literature attributing proximal contact loss to physiologic mesial drift of adjacent natural teeth vs the ankylotic stability of osseointegrated implants. The MM-DD technique creates controlled occlusal relief zones on the mesial occlusal surface of the mesial adjacent tooth and the distal occlusal surface of the distal adjacent tooth, accommodating differential mobility and mitigating the implant–dentition mechanical mismatch.
+
+Prior incidence (Koori, Byun) up to 66 % in posterior regions. Conventional management (periodic occlusal reshaping, over-contoured proximal contacts, splinted restorations) is reactive with limited long-term efficacy. MM-DD is proactive and biomechanically informed: selective occlusal relief facilitates physiologic mesial migration of adjacent teeth toward the implant crown.
+
+Biomechanical rationale: natural teeth (PDL-supported) undergo continuous mesial drift under functional loading; osseointegrated implants are rigidly ankylosed. MM-DD reduces occlusal interference inhibiting mesial drift while preserving central fossa/marginal ridge contacts to maintain masticatory efficiency. Contrasts with Greenstein & Cavallaro (static reinforcement of proximal contacts) and Wat et al. (proximal morphology modification) — both ignore occlusal force dynamics.
+
+Mandibular posterior implants showed slightly higher open contact rates even with MM-DD (stronger mesial drift, denser bone, greater masticatory forces). Advantages: simple modification to conventional occlusal adjustment, no specialized instruments or extra chairtime, preventive (not corrective), applied at final crown delivery. Should be balanced with functional preservation, especially in parafunction.
+
+Corrective strategies for the 2.7 % that still developed open contacts: proximal recontouring of implant crown, occlusal re-adjustment (reapply MM-DD, more aggressive reduction), crown replacement with enhanced proximal contours, interdental monitoring (watch-and-wait for mild cases). Early intervention yields better outcomes than delayed, especially mandibular posterior implants.
+
+Subgroup guidance: younger patients (24–40) lower rates; premolars lowest, second molars highest. MM-DD especially beneficial in high-risk locations (second molars, older populations).
+
+== LIMITATIONS ==
+
+Single private practice, one experienced clinician (limits generalizability). Retrospective design (selection and recall bias). Individual variations in tooth morphology, arch form, bone density, occlusal force, parafunction not fully controlled. Exclusive focus on single-tooth posterior implant restorations (applicability to multiple adjacent implants/anterior unknown). Conventional occlusal marking only; no digital occlusal analysis (T-Scan) or finite element modeling. Future: prospective RCTs vs conventional, digital occlusal measurement, biomechanical modeling, multi-unit/anterior adaptations.
+
+== CONCLUSION ==
+
+The MM-DD occlusal adjustment technique offers a clinically validated, biologically adaptive, biomechanically sound solution to open proximal contacts adjacent to posterior dental implants. Over up to 21.5 years, open contact incidence reduced from 46.7 % (conventional) to 2.7 % (MM-DD) (p<0.001), with reduced food impaction, lower discomfort, decreased marginal bone loss, improved satisfaction. Simple, reproducible, no specialized tools or extended chair time. Particularly beneficial in high-risk cases (mandibular molars, older patients, parafunction). Proper occlusal adjustment at crown delivery + regular maintenance are key. Limited by retrospective single-clinician design; multi-center prospective trials warranted.
