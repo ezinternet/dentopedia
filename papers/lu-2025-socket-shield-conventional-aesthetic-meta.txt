@@ -1,0 +1,48 @@
+Title: Clinical efficacy of socket shield technique compared to conventional immediate implant placement in the aesthetic zone: a meta-analysis
+Authors: Lu W, Du S, Su J, Wu Y, Yao X, Zhang C, Yu H
+Journal: International Journal of Implant Dentistry. 2025 Dec 19;11(1):72.
+DOI: 10.1186/s40729-025-00657-z
+PMID: 41417433
+PMCID: PMC12717328
+Source: PubMed Central (PMC) full text via PubMed MCP
+
+== ABSTRACT ==
+Objective: To systematically evaluate and compare the clinical effects of the socket shield technique (SST) and conventional immediate implant placement (CIIP) in the esthetic zone through meta-analysis.
+Methods: A systematic search was conducted in PubMed, EMBASE, Cochrane Library, Web of Science, CNKI, VIP, and Wanfang from database inception to October 9, 2024. Two investigators independently screened, extracted data, and assessed risk of bias. Analyses in RevMan 5.4.
+Results: 27 studies (22 RCTs + 5 NRSI), 1307 implants (647 SST / 660 CIIP). SST significantly outperformed CIIP in horizontal buccal bone loss (MD = -0.50, 95%CI [-0.60, -0.41], I2 = 97%) and vertical buccal bone loss (MD = -0.56, 95%CI [-0.64, -0.48], I2 = 78%), and improved PES (MD = 1.25, 95%CI [0.93, 1.57], I2 = 90%) and ISQ (MD = 5.83, 95%CI [4.08, 7.57], I2 = 69%). No difference in implant success rate (RR = 1.00, 95%CI [0.98, 1.02], I2 = 0%).
+Conclusion: SST showed favorable buccal bone, esthetic, and stability outcomes with comparable success vs CIIP, but is technique-sensitive and lacks standardized protocols; apply with caution.
+
+== KEY NUMBERS ==
+- Included: 27 studies (22 RCT, 5 NRSI), 1307 implants (647 SST / 660 CIIP). 13 Chinese, 14 English. Follow-up >= 4 months; all esthetic zone (to second premolars).
+- Horizontal buccal bone loss: MD -0.50 [-0.60, -0.41], I2=97% (22 studies, 1155 implants). Short-term MD -0.48; long-term (>12mo) MD -0.62.
+- Vertical buccal bone loss: MD -0.56 [-0.64, -0.48], I2=78% (8 studies, 252 implants).
+- ISQ: MD +5.83 [4.08, 7.57], I2=69% (8 studies, 456 implants, all <=12mo).
+- PES: MD +1.25 [0.93, 1.57], I2=90% (21 studies, 1001 implants). Short-term +1.28; long-term +1.17.
+- Implant success rate: RR 1.00 [0.98, 1.02], I2=0% (18 studies, 883 implants). 4 total failures (1 SST [Hana], 3 CIIP).
+
+== SUBGROUP ANALYSES (horizontal buccal bone loss) ==
+- Shield height vs crest: above MD -0.59; at crest -0.46; below -0.28. SST superior in ALL three positions.
+- Shield thickness: <=1.5mm MD -0.55; >1.5mm MD -0.66. SST superior regardless.
+- Bone grafting in gap: with grafting MD -0.59; without MD -0.22. SST superior either way.
+- Publication language: English MD -0.31; Chinese MD -0.60 (both significant).
+
+== RISK OF BIAS ==
+RCTs: 3 "Low", remainder "Some concerns" (blinding of operators impossible due to technique specificity; randomization often under-described). NRSI: 3 "Moderate", 2 "High" (Li 2022, Yao 2022 — confounding / participant selection / intervention classification).
+
+== COMPLICATIONS (from discussion, citing Ogawa 2022) ==
+Ogawa et al. 2022: internal shield exposure most common (46%), osseointegration failure (19%), external shield exposure (15%), shield mobility/infection (12%), shield migration (4%), apical root resorption (4%). Most complications non-progressive, emerge within first year, resolvable. Internal exposure linked to shield positioned above crestal bone + insufficient space to subgingival crown contour; prevent by keeping shield <= crest height or adding small CTG into sulcus; Gluckman S-shape emergence profile.
+
+== GAP MANAGEMENT / SHIELD DESIGN NOTES ==
+- Hurzeler (2010, originator): retain root 1mm coronal to crest; no implant-shield gap.
+- Gluckman: shield <1.5mm compromises stability + technically challenging; fill gap >1mm with graft.
+- Botticelli: no graft needed if gap 0.5-1mm; graft if >1mm.
+- Abdullah 2022 (outlier — only study where SST NOT superior): implant in direct contact with shield (no gap) + grafting only in CIIP group → confounded, more labial implant position.
+- Animal data: shield 0.5-1.5mm thicker = less bone loss; >2mm increases displacement risk.
+
+== LIMITATIONS ==
+NRSI lower quality than RCT; operator blinding unachievable; long-term (>12mo, and especially >5y) data scarce — no high-quality RCT beyond 5 years; bone-grafting protocol variation introduces bias. Interpret with caution.
+
+== CONCLUSION (verbatim sense) ==
+SST reduces horizontal/vertical buccal bone loss, improves PES and ISQ, with success comparable to CIIP. But technically demanding, requires expertise, and no consensus on shield height/thickness or gap management. Largest SST-vs-CIIP pool to date but evidence still limited by short follow-up and absent standardized protocols.
+
+According to PubMed. DOI: https://doi.org/10.1186/s40729-025-00657-z
