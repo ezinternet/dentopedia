@@ -1,0 +1,47 @@
+Efficacy of subgingival irrigation with chemical agents as adjuvants to non-surgical periodontal therapy: systematic review and meta-analysis
+da Silveira MI, Maciel CCM, Grant MM, Chapple ILC, De Marco AC, Rovai EDS
+Clin Oral Investig 2026;30(6). PMID 42126682; PMCID PMC13171656; DOI 10.1007/s00784-026-06909-5
+
+ABSTRACT
+Objective: assess the efficacy of chemical agents (CA) in subgingival irrigation as an adjunct to non-surgical periodontal treatment (NSPT) in periodontitis.
+Methods: MEDLINE/PubMed, Web of Science, LILACS up to March 2025. RoB 2.0. Random-effects meta-analyses for CAL, PPD, BOP.
+Results: From 1244 studies screened, 16 RCTs included. Agents: Povidone-iodine (PVP-I), Essential Oils (EOs), Chlorhexidine (CHX), Ozonated water (OW), Boric Acid (BA). Overall, adjunctive CA subgingival irrigation gave NO additional benefit in PPD reduction, CAL gain, or BOP vs controls (P>0.05). Most studies some concerns RoB; 2 high RoB.
+Conclusion: Adjunctive CA subgingival irrigation during NSPT does not appear to provide additional benefit over NSPT alone; evidence low to very low.
+
+KEY NUMBERS
+- 16 RCTs; 712 patients (336 male, 376 female); age 26-72y; follow-up 3-12 months (7 studies 3mo, 6 studies 6mo, 3 studies 12mo).
+- 13 parallel design, 3 split-mouth. 13 used ultrasonic scaler delivery, 3 used syringe. 15 excluded smokers (1 included).
+- Overall pooled (13 studies):
+  - PPD change: MD 0.01 mm (95% CI -0.11 to 0.14; P=0.82; I2=73%) — NS, low quality
+  - CAL gain: MD 0.09 mm (95% CI 0.00 to 0.18; P=0.05; I2=0%) — NS, low quality
+  - BOP reduction: MD -1.48 (95% CI -5.84 to 12.88; P=0.51; I2=0%) — NS, low quality
+- By agent (PVP-I, CHX, EO, BA): no additional benefit in any parameter.
+- OW (single study) subanalysis: slight but significant PPD reduction (~0.40 mm) — caution, original RCT found no significant effect; clinically marginal.
+- Follow-up subgroups: no difference in PPD or BOP at any time. CAL gain at 12 months (non-furcation studies): small but significant MD 0.25 mm (95% CI 0.09-0.40; P=0.002; I2=0%) — only 2 studies, one with unequal groups; caution.
+- Irrigation method (syringe vs ultrasonic): no difference in PPD, CAL, BOP.
+- Furcation-involvement studies (3): PPD MD 0.02 (95% CI -0.44 to 0.48), CAL MD -0.08 (95% CI -0.53 to 0.38), BOP MD 0.56 (95% CI -6.98 to 8.11) — all NS.
+- No substantial publication bias (funnel plots).
+
+AGENTS / CONCENTRATIONS
+- PVP-I: 10% (3), 1% (1), 0.5% (2), 0.1% (1), unreported (1)
+- EOs: 3 studies (thymol/eucalyptol/methyl salicylate/menthol/ethanol formulations)
+- CHX: 0.2% (4), 0.12% (1)
+- BA: 0.75% (1)
+- OW: ozonated water (1)
+
+INCLUDED STUDIES (16)
+Al-Saeed & Babay 2009 (Saudi Arabia, split, 3mo, PVP-I 1%, ultrasonic); Cosyn 2013 (Belgium, parallel, 3mo, EOs, ultrasonic, smokers); Chapple 1992 (UK, split, 6mo, CHX 0.2%, ultrasonic); do Vale 2016 (Brazil, parallel, 6mo, PVP-I 10%, ultrasonic); Feng 2011 (Brazil, parallel, 6mo, EOs, ultrasonic); Al Habashneh 2015 (Jordan, parallel, 3mo, OW, syringe); Kruck 2012 (Germany, parallel, 12mo, CHX 0.12% + PVP-I 7.5%, ultrasonic); Leonhardt 2006 (Sweden, split, 6mo, PVP-I 0.5%, ultrasonic); Perrella 2016 (Brazil, parallel, 3mo, PVP-I 10%, syringe); Ribeiro 2010 (Brazil, parallel, 6mo, PVP-I 10%, ultrasonic, furcation); Ribeiro 2006 (Brazil, parallel, 6mo, PVP-I 10%, ultrasonic, furcation); Rosling 2001 (USA, parallel, 12mo, PVP-I 0.1%, ultrasonic, HIGH RoB); Saglam 2013 (Turkey, parallel, 3mo, CHX 0.2% + BA 0.75%, syringe, HIGH RoB); Vitt 2019 (Belarus, parallel, 12mo, CHX 0.2%, ultrasonic); Yilmaz 2012 (Cyprus, parallel, 3mo, CHX 0.2% + EOs, ultrasonic, furcation); Zanatta 2006 (Brazil, parallel, 3mo, PVP-I 0.5%, ultrasonic).
+
+RISK OF BIAS / GRADE
+- 14 studies "some concerns" (mainly Domain 5, no prospective registration); 2 high RoB (Rosling 2001 Domain 2; Saglam 2013 Domain 3+5).
+- GRADE: low to very low for all outcomes.
+
+DISCUSSION HIGHLIGHTS
+- Updates Van der Sluijs 2016 (which had reported slight significant CAL gain with PVP-I — NOT confirmed here after adding 8 RCTs and stricter eligibility).
+- Supragingival efficacy of antiseptics does not translate to subgingival environment (GCF washout, host response, biofilm complexity).
+- Excluded: gel vehicles, full-mouth disinfection, additional mouthwash in test group, follow-up <3mo, extracts/phytotherapy, systemic antibiotics/corticosteroids.
+- Adverse effects reported in only 2 studies (pain/hypersensitivity/ulceration with EO; sensitivity post-ultrasonic). Only 1 study reported a PRO (VAS — no difference CHX vs water). No validated PROMs.
+- CHX/antiseptic stewardship: caution re microbial tolerance/resistance; no benefit + stewardship → routine adjunctive subgingival irrigation not supported.
+- High heterogeneity in PPD (I2 73%): variable concentrations, full-mouth vs deep-pocket reporting, non-standardized volume/duration.
+
+Source: PubMed full text (PMC13171656). DOI https://doi.org/10.1007/s00784-026-06909-5
