@@ -1,0 +1,113 @@
+Clinical, radiographic, and histological evaluation of autogenous demineralized dentin matrix versus xenograft in alveolar ridge preservation: a randomized controlled trial
+
+Authors: Yin Xu, Hui Zhang
+Journal: International Journal of Implant Dentistry, 2026;12(1)
+DOI: 10.1186/s40729-026-00682-6
+PMID: 42174333  PMCID: PMC13216369
+Publication date: 2026-05-22
+
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+
+Purpose
+This randomized controlled trial aimed to evaluate the clinical and histological efficacy of autogenous demineralized dentin matrix (DDM) compared with deproteinized bovine bone mineral (DBBM) for alveolar ridge preservation (ARP), with a specific focus on dimensional stability and remodeling dynamics over a 6-month follow-up period.
+
+Methods
+Fifty patients requiring single-tooth extraction were randomized to receive ARP with either DDM (test group, n = 25) or DBBM (control group, n = 25). Dimensional changes were assessed by CBCT at baseline, 3 months, and 6 months. Histomorphometric analysis was performed on bone core biopsies harvested at 6 months.
+
+Results
+Fifty patients were enrolled and randomly assigned to the test (DDM, n = 25) or control (DBBM, n = 25) group. At 3 months post-surgery, the test group exhibited significantly greater horizontal bone resorption at the mid-socket level (50%) compared with the control group (p = 0.006). However, at 6 months, no statistically significant differences were observed between the two groups regarding horizontal width reduction at any level (coronal, middle, apical) or vertical height reduction (p > 0.05). Histomorphometric analysis at 6 months revealed active new bone formation and good integration of graft particles in the DDM group, confirming its biodegradability and osteoconductive potential.
+
+Conclusions
+Although autogenous DDM exhibited a faster remodeling rate and dimensional contraction in the early healing phase (3 months), it achieved long-term (6-month) dimensional stability comparable with that of the gold-standard xenograft. Furthermore, histological evidence of superior tissue integration suggests that DDM is a biologically viable and cost-effective alternative for alveolar ridge preservation.
+
+=== FULL TEXT ===
+
+Background
+
+According to the World Health Organization (WHO), oral diseases affect approximately 3.5 billion people worldwide, with caries and periodontal disease being the primary causes of tooth loss. Issues with masticatory function, phonetics, and esthetics also exert a significant negative impact on the patient's psychological well-being and quality of life. With the advancement of dental technology, implant-supported prostheses have become the preferred treatment modality for edentulism, with an estimated 20 million implants placed globally each year. However, the long-term success of implant therapy is fundamentally dependent on the availability of adequate bone volume and quality at the recipient site.
+
+The alveolar process is a tooth-dependent tissue; its development and maintenance rely on physiological stimulation from the teeth. Following tooth extraction, the disruption of blood supply to the bundle bone inevitably leads to irreversible physiological resorption and dimensional alterations of the alveolar ridge. Schropp et al. reported that rapid remodeling occurs within the first 3 months post-extraction and continues up to 6 months. According to landmark systematic reviews, post-extraction healing is characterized by pronounced osseous resorption. The horizontal width reduction has been reported to range from 3.79 to 3.87 mm, while the vertical height loss typically exceeds 1 mm within the first 6 months. This substantial volumetric loss poses significant challenges for subsequent implant placement. Consequently, alveolar ridge preservation (ARP) at the time of extraction has become a standard clinical protocol for minimizing ridge atrophy. Currently, deproteinized bovine bone mineral (DBBM) is widely considered the gold standard xenograft for ARP due to its volume stability. However, DBBM is primarily osteoconductive and exhibits a slow biodegradation rate, which may interfere with the quality of bone-implant contact (BIC).
+
+In search of an ideal graft material that combines volume stability with regenerative potential, autogenous demineralized dentin matrix (DDM) has emerged as a promising alternative. Embryologically, teeth and alveolar bone share a common origin from neural crest cells, resulting in a high degree of biochemical similarity. Studies have confirmed that the inorganic component of dentin is primarily low-crystalline hydroxyapatite (HA) and tricalcium phosphate (TCP), which facilitates resorption by osteoclasts and participation in the remodeling process.
+
+Ideally, the grafting material should possess osteoinductive properties. DDM retains a rich reservoir of bioactive molecules preserved within the mineralized matrix. Studies have shown that the dentin matrix contains type I collagen and various non-collagenous proteins, particularly bone morphogenetic proteins (BMPs), transforming growth factor-beta (TGF-beta), and osteopontin (OPN). Upon demineralization, these growth factors are exposed and released, recruiting mesenchymal stem cells and inducing osteogenic differentiation. Structurally, the inherent dentinal tubules (typically 2-4 micrometers in diameter) create a natural microporous scaffold. This interconnected network facilitates angiogenesis and nutrient transport, further supporting the bone regeneration process.
+
+Although pre-clinical and case studies have demonstrated the osteogenic capacity of DDM, high-level evidence directly comparing its clinical and histological outcomes with the gold standard (DBBM) in alveolar ridge preservation remains limited. Therefore, this randomized controlled trial (RCT) aimed to systematically evaluate the dimensional stability, bone remodeling dynamics, and histological quality of newly formed bone using autogenous DDM versus DBBM.
+
+Methods
+
+Study design: prospective, randomized controlled clinical trial. Ethical approval from the Ethics Committee of The People's Hospital of Liaoning Province (Approval No. 2025-H006).
+
+Participants: 50 patients requiring single-tooth extraction, recruited from the Department of Stomatology, The People's Hospital of Liaoning Province, between February 2025 and June 2025. 21 males and 29 females, age 21-70 years (mean 47.2 years).
+
+Randomization: computer-generated random number sequence; allocation concealment via sequentially numbered, opaque, sealed envelopes (SNOSE). Single-blind design (surgeon not blinded due to distinct graft appearance; radiographic and histological assessors blinded).
+
+Inclusion criteria: Age 18-70, good general health; single non-restorable premolar or molar (positions 4-7) with adjacent teeth present; at least 3 mm residual bone height apically; sufficient autogenous tooth structure for DDM preparation; no acute infection at the site; compliance with follow-up.
+
+Exclusion criteria: uncontrolled systemic disease; heavy smoking (>10 cigarettes/day); bone-metabolism-affecting drugs (bisphosphonates, corticosteroids) within 6 months; head/neck radiation history; metabolic bone disease or local pathology; severe untreated periodontal disease/poor hygiene; pregnancy/lactation; participation in other trials within 3 months.
+
+Sample size: based on prior dimensional-change ARP studies; to detect a clinically significant difference in ridge width reduction (power 0.80, alpha 0.05), minimum 20 subjects/group; with 20% dropout allowance, 50 patients (25/group) enrolled.
+
+Surgical procedure: all by the same experienced surgeon. Minimally invasive flapless extraction preserving buccal/lingual plates. Thorough curettage.
+- Test group (DDM): extracted tooth mechanically cleaned (calculus, caries, PDL remnants removed), processed using an autogenous tooth bone graft preparation system (TSBK-ATB-01, Beijing Topstissue Biotechnology Co., Ltd.) to obtain dentin particles (400-800 micrometers), partially demineralized and sterilized per manufacturer protocol, rinsed with saline, densely packed into socket.
+- Control group (DBBM): socket grafted with deproteinized bovine bone mineral (Bio-Oss).
+Both groups: graft covered with resorbable collagen membrane (Bio-Gide, Geistlich Pharma AG) and stabilized with crisscross non-resorbable sutures.
+
+Clinical assessment: soft tissue healing at 7 days, 3 months, 6 months using the Landry et al. healing index (1 very poor to 5 excellent; tissue color, bleeding response, granulation tissue, incision margin).
+
+Radiographic evaluation: CBCT at immediately post-op (T0), 3 months (T1), 6 months (T2). DICOM imported into Mimics 21.0 for 3D reconstruction. Standardized reorientation based on stable anatomical landmarks (mandibular canal/maxillary sinus floor) per Chappuis et al. and Timock et al. Proportional measurement protocol: at baseline (T0) total ridge height (H_ref) measured from fixed reference plane to alveolar crest midpoint; three standardized horizontal levels defined at 25% (apical), 50% (middle), 75% (coronal). Vertical coordinates fixed and applied to T1, T2 so width measurements occur at identical spatial coordinates throughout.
+
+Outcome variables: horizontal width reduction at 25/50/75% levels; vertical (buccal, lingual) height reduction.
+
+Reliability: single calibrated examiner; 20% re-measured at 2 weeks; ICC > 0.9 (excellent).
+
+Statistics: SPSS v27. Shapiro-Wilk normality test. Normal: mean ± SD, independent samples t-test; Levene's for variance homogeneity. Non-normal: median (IQR), Mann-Whitney U. Categorical: Chi-square/Fisher exact. ICC for intra-examiner reliability. Two-tailed p < 0.05 significant.
+
+Results
+
+Baseline: 50 patients, test (DDM, n=25), control (DBBM, n=25). 21 males, 29 females; age 21-70 (mean 47.2 ± 13.6 years). No significant baseline differences (age, gender, jaw position, tooth type; p>0.05). All completed 3- and 6-month follow-up, no dropouts. Subset of 10 patients (5/group) underwent bone core biopsy for histology.
+
+Dimensional changes at 3 months:
+- Horizontal, middle (50%) level: significant difference (p=0.006). Test (DDM) greater loss 0.77 ± 0.59 mm vs control (DBBM) 0.44 ± 0.45 mm.
+- Apical (25%) level: test 0.55 ± 0.43 mm vs control 0.36 ± 0.26 mm; NS (p=0.069).
+- Coronal (75%) level: test 1.16 ± 0.84 mm vs control 1.26 ± 1.39 mm; NS (p=0.684).
+- Vertical buccal height reduction: test 1.50 ± 1.19 mm vs control 1.06 ± 0.75 mm; NS (p=0.197).
+- Vertical lingual height reduction: test 0.91 ± 0.82 mm vs control 0.85 ± 0.67 mm; NS (p=0.846).
+
+Dimensional changes at 6 months (all NS between groups):
+- Vertical buccal: test 2.12 ± 1.30 mm vs control 1.72 ± 0.84 mm; p=0.205.
+- Vertical lingual: test 1.47 ± 0.83 mm vs control 1.21 ± 0.68 mm; p=0.238.
+- Horizontal coronal (75%): test 2.10 ± 1.71 mm vs control 1.95 ± 1.59 mm; p=0.628.
+- Horizontal middle (50%): test 1.42 ± 1.10 mm vs control 1.14 ± 0.74 mm; p=0.426.
+- Horizontal apical (25%): test 0.85 ± 0.49 mm vs control 0.73 ± 0.51 mm; p=0.118.
+Despite accelerated initial DDM remodeling, 6-month dimensional stability comparable to control.
+
+Clinical soft tissue healing: at 7 days, test (DDM) Landry healing score 3.88 ± 0.33 vs control (DBBM) 3.76 ± 0.52; better soft tissue closure / less marginal inflammation in DDM but NS (p=0.419). No severe infection or graft rejection.
+
+Clinical re-entry / implant: at 6 months, on flap reflection sockets completely filled with newly regenerated hard tissue in both groups; well-preserved width and height for implant placement. All implants placed with satisfactory primary stability; no surgical complications.
+
+Histological and immunohistochemical analysis (6-month core biopsies):
+- Test (DDM): HE staining showed residual graft particles undergoing active remodeling, intimately surrounded by mature new bone (NB) and highly vascularized connective tissue (CT). Ki-67 staining: dense positive cells in matrix and vascular endothelium (active turnover and angiogenesis). SATB2: strong nuclear expression in osteoblasts adjacent to new bone matrix (robust osteogenic differentiation). Osteoclastic lacunae visible on some particle surfaces (biodegradation, conversion to host bone).
+- Control (DBBM): new bone formation primarily along surface of DBBM particles (BP); tissue relatively quiescent (minimal Ki-67 in CT). SATB2-positive osteoblasts lining new bone around particles. No evident particle resorption (stable osteoconductive scaffold).
+
+Discussion (key points)
+
+DDM and DBBM both limited resorption but with distinct kinetics: DDM faster early (3-month) dimensional contraction, but 6-month volume maintenance comparable to DBBM. Early volumetric reduction reflects physiological "creeping substitution" rather than failure — DDM is an organic matrix (mainly type I collagen) whose degradation is linked to new bone formation rate. DBBM is purely osteoconductive inorganic xenograft with negligible resorption, better early volumetric stability.
+
+Histology: DBBM particles surrounded by new bone trabeculae or bridged by connective tissue, no particle resorption (stable scaffold). DDM particles intimately fused with new bone, osteoclastic lacunae present (biodegradation and conversion to host bone). Aligns with Beca-Campoy et al. (autogenous tooth grafts promote high-quality de novo mineralized bone). Inchingolo et al. attribute superior response to type I collagen scaffold and endogenous growth factors (e.g., BMP-2) in dentin matrix, which recruit osteoblasts and may accelerate woven-to-lamellar bone transition.
+
+Radiographic: at 6 months DBBM particles remained clear high-density radiopaque with distinct boundaries; DDM radiodensity gradually merged with host bone (blurred boundaries) — "tissue integration" (Minetti et al.), evidence of active remodeling rather than artifact.
+
+Standardized H_ref-based percentage measurement protocol (25/50/75% levels referenced to fixed anatomical planes) eliminated measurement-level shifts from crestal resorption, improving reliability over crest-only measurement.
+
+Vertical resorption exceeding 2 mm seen in some cases in both groups, possibly due to thin buccal bone phenotype predominance; bundle bone resorption is physiologically inevitable post-extraction (Araujo et al.) regardless of graft. Despite vertical reduction, preserved width remained sufficient for implant placement in all cases.
+
+Clinical significance: DDM is autogenous — excellent biocompatibility, eliminates disease-transmission and immune-rejection risks of xenografts. Chairside-prepared autogenous tooth grafts induce favorable new bone and rigid support (Kim). Waste-to-resource strategy: recycles extracted teeth, cost-effective.
+
+Limitations: relatively small sample size; 6-month follow-up only; long-term marginal bone stability under implant loading needs further tracking.
+
+Conclusions
+
+Within study limitations, autogenous DDM achieves alveolar ridge dimensional preservation comparable to DBBM despite more active early remodeling kinetics. Histological and radiographic evidence confirms superior osteoinductive potential and tissue integration, promoting high-quality de novo bone formation. Given safety, biological advantages, and cost-effectiveness via recycling extracted teeth, DDM is a viable, sustainable ARP alternative.
