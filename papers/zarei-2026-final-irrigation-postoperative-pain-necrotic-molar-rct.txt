@@ -1,0 +1,53 @@
+Different final irrigation protocols on postoperative pain and swelling following single-visit non-surgical root canal treatment in necrotic mandibular first molars: a randomized controlled trial
+Zarei M, Javidi M, Farrokhi R, Tajdini Y, Peighoun M
+Saudi Dent J. 2026;38(5). DOI: 10.1007/s44445-026-00179-3
+PMID: 42118228 | PMCID: PMC13168466
+Source: PubMed Central full text (PMC13168466)
+
+== ABSTRACT ==
+Postoperative flare-ups remain a frequent complication after root canal treatment, particularly in teeth with necrotic pulps. This RCT evaluated postoperative pain, swelling, and analgesic intake following single-visit endodontic treatment of necrotic mandibular molars using three irrigation approaches: conventional needle irrigation (CNI), side-vented needle irrigation (SNI) and passive ultrasonic irrigation (PUI).
+
+Methods: Single-blind, parallel-group RCT, 45 patients with necrotic mandibular first molars equally assigned to CNI, SNI, or PUI (n=15 each). All single-visit, standardized rotary instrumentation (ProTaper Gold), 5.25% NaOCl primary irrigant. Pain on 0-10 VAS at 6, 24, 48, 72 h; swelling present/absent; analgesic intake. Kruskal-Wallis, Fisher's exact, Cochran's Q; alpha 0.05.
+
+Results: Pain in CNI significantly higher at 24, 48, 72 h vs both SNI and PUI (p<=0.008). At 24 h swelling more frequent in CNI (46.7%) than SNI (0%) and PUI (6.7%) (p=0.002). Analgesic patterns consistent with pain. No significant differences between SNI and PUI.
+
+Conclusions: Both SNI and PUI associated with reduced postoperative pain, swelling, and analgesic use vs CNI in necrotic mandibular molars. Improved irrigant delivery may minimize postoperative flare-ups.
+
+Trial registration: Iranian Registry of Clinical Trials (IRCT20100110003036N2).
+
+== KEY DATA ==
+Setting: Dept of Endodontics, Mashhad University of Medical Sciences, Iran, 5 Aug 2020 - 27 Jul 2021.
+Population: mature mandibular first molars with pulp necrosis (no thermal/EPT response), asymptomatic, no acute apical periodontitis, periapical radiolucency < 5 mm. Excluded swelling/sinus tract/spontaneous pain, recent analgesics, pregnancy, ASA III+, etc.
+Sample size: a priori on 24h VAS, Cohen d=0.8, alpha 0.05, power 80% -> 15/group (45 total). Block randomization (blocks of 3), sealed opaque envelopes, allocation concealment. Single-blind (patient + assessor blinded; operator not blinded). Single operator (3-yr endo resident).
+
+Standardized protocol: ProTaper Gold rotary (Sx,S1,S2,F1,F2; F3 for single distal). 5 mL 5.25% NaOCl per canal during prep. Final irrigant: each canal 5 mL 5.25% NaOCl + 5 mL 17% EDTA. Needle/tip 1-2 mm short of WL, flow 1-2 mL/min, room temp.
+- CNI: 30-G open-ended needle, NaOCl and EDTA each delivered passively 3 min.
+- SNI: 30-G side-vented needle (Zenplus), NaOCl and EDTA each 3 min.
+- PUI: 5 mL NaOCl activated 30-60 s/canal, cordless ultrasonic (Ultra X, Eighteeth) silver tip #20/.00, then EDTA passive 3 min via conventional needle.
+Obturation: cold lateral condensation, gutta-percha + AH-26 sealer (warm techniques avoided). Single visit.
+
+POSTOP PAIN (VAS median, IQR):
+6 h: PUI 2.0, CNI 3.0, SNI 2.0; p=0.206 (NS)
+24 h: PUI 0.0, CNI 2.0, SNI 0.0; p=0.003; CNI > both PUI & SNI
+48 h: PUI 0.0, CNI 0.0(IQR 3.0), SNI 0.0; p=0.008; CNI higher
+72 h: PUI 0.0, CNI 0.0(IQR1.0), SNI 0.0; p=0.001; CNI higher residual
+Within-group: significant decline over time all groups (p<0.001); PUI & SNI resolved faster/more completely.
+
+SWELLING (% present):
+6 h: PUI 33.3%, CNI 46.7%, SNI 20%; p=0.30 (NS)
+24 h: PUI 6.7%, CNI 46.7%, SNI 0%; p=0.002; CNI > PUI (p=0.035) and SNI (p=0.003); PUI vs SNI NS
+48 h: CNI 6.7% only; p>0.99
+72 h: all 0%.
+
+ANALGESIC CONSUMPTION (% yes):
+6 h: PUI 26.7%, CNI 46.7%, SNI 13.3%; p=0.162 (NS)
+24 h: PUI 0%, CNI 33.3%, SNI 0%; p=0.007; CNI > both (p=0.042); PUI vs SNI NS
+48 h: CNI 6.7% only; p>0.99
+72 h: all 0%.
+
+Demographics: 26 F / 19 M, mean age 34.8+/-9.4 (18-57). No sig group differences in age (p=0.158) or gender (p=0.233).
+
+== CONCLUSION ==
+Both PUI and SNI reduced postop pain, swelling, analgesic use vs CNI after single-visit RCT of asymptomatic necrotic mandibular first molars. NO meaningful clinical difference between SNI (current safe standard) and PUI. Null hypothesis (SNI = PUI) accepted; rejected for CNI comparisons at 24 h+. Authors suggest minimizing apical extrusion may be as relevant as acoustic agitation; SNI a simpler, cost-effective option. Limitations: small n, single operator/center, patient-reported binary swelling.
+
+According to PubMed. DOI: https://doi.org/10.1007/s44445-026-00179-3
