@@ -1,0 +1,163 @@
+<!--
+---
+title: "치과 예약 미내원(no-show) 위험 플래그 도구 (Dental No-Show Risk-Flag Tool)"
+type: interactive
+date: 2026-06-25
+status: done
+agenda: agenda/2026-06-25_dental-no-show-risk-flag-tool.md
+source_wiki:
+  - wiki/practice-management/alkhurayji-2024-factors-patient-failure-attend-dental.md
+  - wiki/practice-management/khries-2024-identifying-barriers-pediatric-dental-appointments.md
+  - wiki/overviews/korean-dental-practice-management-overview.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치과 예약 미내원 위험 플래그 도구</title>
+<style>
+  :root {
+    --bg: #f4f6f9; --card: #ffffff; --ink: #1a1a2e; --muted: #5a6478; --line: #e2e7ef;
+    --accent: #1f5f8b; --accent-soft: #e6eff6; --warn: #b4452b; --warn-soft: #fbe9e4;
+    --gold: #b8860b; --gold-soft: #fbf2dc; --ok: #2e7d52; --ok-soft: #e3f3ea;
+    --shadow: 0 2px 10px rgba(20,30,55,.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--ink); padding: 22px 16px 70px; min-height: 100vh; line-height: 1.55; }
+  .container { max-width: 780px; margin: 0 auto; }
+  header h1 { font-size: 1.4rem; letter-spacing: -.02em; }
+  header p { color: var(--muted); font-size: .9rem; margin-top: 6px; }
+  .disclaimer { background: var(--warn-soft); border:1px solid #e9c4ba; border-left:4px solid var(--warn);
+    border-radius: 10px; padding: 13px 15px; margin: 16px 0; font-size: .85rem; color:#7a2e1c; }
+  .disclaimer b { color: var(--warn); }
+  .group { background: var(--card); border:1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow);
+    padding: 18px 20px; margin: 16px 0; }
+  .group.adult { border-top:4px solid var(--accent); }
+  .group.child { border-top:4px solid var(--gold); }
+  .group h2 { font-size: 1.08rem; display:flex; align-items:center; gap:8px; }
+  .group h2 small { font-weight:400; color:var(--muted); font-size:.78rem; }
+  .src { font-size:.76rem; color:var(--muted); margin: 4px 0 14px; }
+  .flag { display:flex; gap:11px; align-items:flex-start; padding:11px 12px; border:1px solid var(--line);
+    border-radius:10px; margin-bottom:9px; cursor:pointer; transition:all .13s; }
+  .flag:hover { border-color: var(--accent); background: var(--accent-soft); }
+  .child .flag:hover { border-color: var(--gold); background: var(--gold-soft); }
+  .flag input { margin-top:3px; width:17px; height:17px; flex-shrink:0; accent-color: var(--accent); }
+  .child .flag input { accent-color: var(--gold); }
+  .flag .lbl { flex:1; }
+  .flag .lbl b { font-size:.96rem; }
+  .flag .lbl .stat { display:block; font-size:.78rem; color:var(--muted); margin-top:2px; }
+  .flag .sig { font-size:.7rem; padding:2px 7px; border-radius:20px; font-weight:600; white-space:nowrap; margin-top:1px; }
+  .sig.yes { background:var(--ok-soft); color:var(--ok); }
+  .sig.no { background:#eef0f4; color:var(--muted); }
+  .result { position:sticky; bottom:0; background: var(--card); border:1px solid var(--line); border-top:3px solid var(--accent);
+    border-radius: 14px 14px 0 0; box-shadow: 0 -3px 14px rgba(20,30,55,.09); padding:16px 20px; margin-top:18px; }
+  .count { font-size:1.15rem; font-weight:800; }
+  .count .a { color: var(--accent); } .count .c { color: var(--gold); }
+  .band { font-size:.85rem; color:var(--muted); margin-top:5px; }
+  .prompts { margin-top:12px; display:none; }
+  .prompts.show { display:block; }
+  .prompts h3 { font-size:.85rem; color:var(--ink); margin-bottom:7px; }
+  .prompt { font-size:.83rem; background:var(--ok-soft); border-radius:8px; padding:8px 11px; margin-bottom:6px; color:#1f5e3e; }
+  .reset { margin-top:12px; background:none; border:1px solid var(--line); border-radius:8px; padding:7px 14px;
+    cursor:pointer; color:var(--muted); font-size:.83rem; }
+  .foot { font-size:.74rem; color:var(--muted); margin-top:22px; text-align:center; line-height:1.7; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>치과 예약 미내원(no-show) 위험 플래그 도구</h1>
+    <p>해당하는 위험 요인에 체크하세요 — 위험 <b>점수가 아니라 플래그 개수</b>를 보여줍니다.</p>
+  </header>
+
+  <div class="disclaimer">
+    <b>⚠️ 검증된 위험 예측 점수가 아닙니다.</b> 이 도구는 2024년 단일기관 2편(alkhurayji 성인 사우디·khries 소아 요르단)의
+    <b>기술적(descriptive) 프로파일</b>에 기반합니다. alkhurayji는 비교군(내원 예약)이 없어 미내원 <i>확률·기저율</i>을 산출할 수 없고,
+    인구특성×시간대 연관검정이 <b>전부 비유의(p=0.50~0.97)</b>였습니다. 따라서 확률·0–100 점수를 만들 수 없으며, 플래그 개수는
+    "주의 정도"의 참고치일 뿐입니다. 두 집단을 한 모델로 합산하지 마세요.
+  </div>
+
+  <div class="group adult" id="adult">
+    <h2>🧑 성인 환자 플래그 <small>alkhurayji-2024 (미내원 1,364건의 구성비)</small></h2>
+    <div class="src">출처: alkhurayji-2024-factors-patient-failure-attend-dental · 모든 수치 = 미내원 건의 %(미내원 확률 아님)</div>
+    <label class="flag"><input type="checkbox" class="aflag">
+      <span class="lbl"><b>미혼(single)</b><span class="stat">미내원 건의 56.2%(767/1,364)가 미혼 — 기혼 43.3%</span></span><span class="sig no">연관 비유의</span></label>
+    <label class="flag"><input type="checkbox" class="aflag">
+      <span class="lbl"><b>여성</b><span class="stat">미내원 건의 60.7%(828)가 여성 — 남성 39.3%</span></span><span class="sig no">연관 비유의</span></label>
+    <label class="flag"><input type="checkbox" class="aflag">
+      <span class="lbl"><b>연령 ≤35세</b><span class="stat">≤25세 36.7% + 26–35세 30.6% = 미내원의 67.3%; ≥56세는 3.8%</span></span><span class="sig no">연관 비유의</span></label>
+    <label class="flag"><input type="checkbox" class="aflag">
+      <span class="lbl"><b>신환(초진)</b><span class="stat">요일별 미내원의 83–86%가 초진(예: 일 86.0% 초진 vs 재진 14.0%)</span></span><span class="sig no">연관 비유의</span></label>
+    <label class="flag"><input type="checkbox" class="aflag">
+      <span class="lbl"><b>오전(8시–오후 3시) 예약</b><span class="stat">미내원 대부분 오전 슬롯 — 오후 4–8시는 적음</span></span><span class="sig no">연관 비유의</span></label>
+  </div>
+
+  <div class="group child" id="child">
+    <h2>🧒 소아 환자 플래그 <small>khries-2024 (미내원율 44%, n=265)</small></h2>
+    <div class="src">출처: khries-2024-identifying-barriers-pediatric-dental-appointments · 85% 보험가입에도 44% 미내원</div>
+    <label class="flag"><input type="checkbox" class="cflag">
+      <span class="lbl"><b>어린 연령</b><span class="stat">아동 연령과 미내원 유의 상관 (P=0.0041), 평균 6.85±1.7세</span></span><span class="sig yes">유의 P=0.004</span></label>
+    <label class="flag"><input type="checkbox" class="cflag">
+      <span class="lbl"><b>대중교통 의존</b><span class="stat">교통수단 유형이 미내원과 유의 상관 (P=0.002); 표본 79%가 대중교통</span></span><span class="sig yes">유의 P=0.002</span></label>
+    <label class="flag"><input type="checkbox" class="cflag" data-mod="forget">
+      <span class="lbl"><b>망각 경향</b><span class="stat">장벽 빈도: 망각 11.2% (수정 가능)</span></span><span class="sig no">빈도</span></label>
+    <label class="flag"><input type="checkbox" class="cflag" data-mod="comm">
+      <span class="lbl"><b>직원 소통 오류 이력</b><span class="stat">장벽 빈도: 직원 miscommunication 10.3% (수정 가능)</span></span><span class="sig no">빈도</span></label>
+    <label class="flag"><input type="checkbox" class="cflag" data-mod="gap">
+      <span class="lbl"><b>긴 내원 간격</b><span class="stat">장벽 빈도: follow-up 간 긴 간격 5.2% (수정 가능)</span></span><span class="sig no">빈도</span></label>
+  </div>
+
+  <div class="result">
+    <div class="count">성인 <span class="a" id="acount">0/5</span> &nbsp;·&nbsp; 소아 <span class="c" id="ccount">0/5</span></div>
+    <div class="band" id="band">요인에 체크하면 해당 플래그 수가 집계됩니다. 플래그가 많을수록 주의 — 확률 예측은 아님.</div>
+    <div class="prompts" id="prompts">
+      <h3>💡 수정 가능 장벽 → 개입 프롬프트</h3>
+    </div>
+    <button class="reset" onclick="resetAll()">초기화</button>
+  </div>
+
+  <div class="foot">
+    근거: alkhurayji-2024 (사우디 단일기관, 미내원 1,364건, descriptive — 검증 점수 없음) · khries-2024 (요르단 소아 265명, 미내원 44%) ·
+    한국 맥락은 wiki/overviews/korean-dental-practice-management-overview.md 참조.<br>
+    이 도구는 임상 판단을 보조하는 참고용 체크리스트이며, 개별 환자의 미내원 확률을 예측하지 않습니다.
+  </div>
+</div>
+
+<script>
+  var PROMPTS = {
+    forget: "망각 → 예약 전일 SMS/카카오 리마인더 + 당일 확인콜 (망각 11.2%, khries-2024)",
+    comm: "소통 오류 → 예약 확정 시 일시·준비사항 재확인 스크립트 표준화 (직원 miscommunication 10.3%, khries-2024)",
+    gap: "긴 간격 → follow-up 내원주기 단축·자동 재예약 (긴 간격 5.2%, khries-2024)"
+  };
+  function update() {
+    var a = document.querySelectorAll('.aflag:checked').length;
+    var c = document.querySelectorAll('.cflag:checked').length;
+    document.getElementById('acount').textContent = a + '/5';
+    document.getElementById('ccount').textContent = c + '/5';
+    var total = a + c;
+    var band = document.getElementById('band');
+    if (total === 0) band.textContent = '요인에 체크하면 해당 플래그 수가 집계됩니다. 플래그가 많을수록 주의 — 확률 예측은 아님.';
+    else band.innerHTML = '<b>' + total + '개</b> 플래그 해당 — 주의 정도의 참고치(확률 아님). 수정 가능 장벽이 있으면 아래 개입을 우선 적용하세요.';
+    // modifiable prompts
+    var box = document.getElementById('prompts');
+    box.querySelectorAll('.prompt').forEach(function(n){ n.remove(); });
+    var anyMod = false;
+    document.querySelectorAll('.cflag:checked').forEach(function(cb){
+      var m = cb.getAttribute('data-mod');
+      if (m && PROMPTS[m]) { anyMod = true;
+        var d = document.createElement('div'); d.className = 'prompt'; d.textContent = '• ' + PROMPTS[m]; box.appendChild(d); }
+    });
+    box.classList.toggle('show', anyMod);
+  }
+  function resetAll() {
+    document.querySelectorAll('input[type=checkbox]').forEach(function(cb){ cb.checked = false; });
+    update();
+  }
+  document.querySelectorAll('input[type=checkbox]').forEach(function(cb){ cb.addEventListener('change', update); });
+  update();
+</script>
+</body>
+</html>
