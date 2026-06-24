@@ -1,0 +1,22 @@
+Contraction and Hydroscopic Expansion Stress of Dental Ion-Releasing Polymeric Materials
+Sokolowski et al. (2018) Polymers (Basel) 10(10):1093. DOI 10.3390/polym10101093. PMID 30961019, PMCID PMC6403603.
+Source: PubMed Central full text (JATS).
+
+ABSTRACT
+Ion-releasing polymeric restorative materials seem to be promising solutions, due to their possible anticaries effect. However, acid functional groups (monomers) and glass filler increase hydrophilicity and, supposedly, water sorption. The purpose of the study was to evaluate the influence of water sorption of polymeric materials on the stress state at the restoration-tooth interface. Beautifil Bulk Fill Flow, Beautifil Flow Plus F00, Beautifil Flow F02, Dyract eXtra, Compoglass Flow, Ionosit, Glasiosite, TwinkiStar, Ionolux and Fuji II LC were used for the study. The stress state was measured using photoelastic analysis after: 0.5, 24, 72, 96, 168, 240, 336, 504, 672, 1344 and 2016 h. Moreover, water sorption, solubility and absorption dynamic were assessed. The water sorption, solubility and absorption dynamic of ion-releasing restorative materials are material dependent properties. The overall results indicated that the tested restorative materials showed significant stress decrease. The total reduction in contraction stress and water expansion stress was not observed for materials with low value of water sorption (Beautifil Bulk Fill, Dyract eXtra, Glasionosit and Twinky Star). The photoelastic method turned out to be inadequate to evaluate stress changes of resin modified glass-ionomer cement (RMGI, Fuji II LC and Ionolux).
+
+KEY POINTS (full text, JATS)
+- Material classes tested: RMGIC (Fuji II LC, Ionolux); compomers / polyacid-modified composites (Dyract eXtra, Compoglass Flow, Ionosit, Glasiosite, Twinky Star); giomers (Beautifil Bulk Fill Flow, Beautifil Flow Plus F00, Beautifil Flow F02).
+- Ionosit is explicitly classified as a COMPOMER (polyacid-modified composite).
+- Water sorption/absorption: Ionosit and Beautifil Flow F02 exhibited the HIGHEST water sorption; absorption rose up to ~3 wt% for Beautifil Flow F02 and Ionosit. Beautifil Bulk Fill Flow showed the lowest sorption (13.6 µg/mm^3). RMGI sorption >115 µg/mm^3. Twinky Star showed the lowest absorption after 2016 h.
+- "Ionosit showed the highest values of water sorption among all tested materials. After polymerization the volume of material increased and this process compensated the polymerization contraction of polymer phase."
+- "However, Ionosit (compomer) produced a significant radial pressure after 56 days of water storage." Corresponded with McCabe compomer (F2000) high displacement force/radial pressure after 1 month.
+- Photoelastic stress (Timoshenko equation; 3mm x 4mm orifice in epoxy resin plate mimicking cavity). All ion-releasing materials shrank during hardening (contraction stress), then significant stress decrease due to hygroscopic expansion.
+- Absolute values of stress changes amounted from 6.2 up to 21.4 MPa across materials.
+- Upon water aging, most tested materials showed total decrease in stress state (100%); four materials showed additional opposite-direction (expansion) stress.
+- Materials with LOW water sorption (Beautifil Bulk Fill, Dyract eXtra, Glasiosite, Twinky Star) did NOT reach total contraction-stress reduction or expansion stress. Dyract eXtra: low water absorption and slow consequent reduction in contraction stress only up to 1.6 MPa after 21 days.
+- Higher filler content -> lower sorption/solubility (reduced free volume in polymer matrix). Beautifil Flow F02 (giomer) showed greatest swelling/radial pressure (osmotic effect from pre-reacted glass-polyacid S-PRG zones).
+- No significant difference between giomers and compomers overall; discrepancies depended on material composition.
+- Photoelastic method inadequate for RMGI (Fuji II LC, Ionolux) — isochromes from contraction still visible during contraction->expansion transition (acid-base remodeling after 24h).
+
+METHODS: in-vitro lab study. Water absorption dynamic (ISO 4049, n=5, 15mm x 1mm cylinders); water sorption & solubility (ISO 4049, n=5); modified photoelastic analysis in circular transmission polariscope FL200 (n=3 per material). Light cure 1250 mW/cm^2, 2mm increments. Time points up to 2016 h (84 days).
