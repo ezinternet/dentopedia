@@ -1,0 +1,84 @@
+Title: Are dentists aware of post-traumatic trigeminal neuropathic pain? A web-based epidemiological survey
+Authors: Domenico Viscuso, Marco Storari, Cinzia Casu, Alessandra Scano, Eleonora Aru, Germano Orrù, Valentino Garau
+Journal: Journal of Oral & Facial Pain and Headache 2025;39(1):103-111
+DOI: 10.22514/jofph.2025.009
+PMID: 40129427 | PMCID: PMC11934745
+
+Source: PubMed Central full text (PMC11934745). According to PubMed; DOI https://doi.org/10.22514/jofph.2025.009
+
+=== ABSTRACT ===
+Post-traumatic trigeminal neuropathic pain (PTTN) represents neuropathic pain in the distribution of the trigeminal nerve caused by trauma to the trigeminal nerve. Dental traumatic interventions, such as root-canal therapy and extractions, are reported to precede, in some cases, the onset of the disease. The study aims to investigate how much dentists are trained to recognize, treat or properly address patients suffering from PTTN. Data were collected from a large sample of Italian dentists in 2021 via a web-based Google Forms questionnaire. 634 dentists participated. 29% declared being unaware of the existence of PTTN. 70% reported having had patients suspicious of such pain in their clinical activity, following endodontic treatment (60%), tooth extraction (43%), spontaneously (37%) or other dental therapies (21%). When encountered, only one out of three cases were referred to a pain specialist, and in most cases dentists performed irreversible therapies at the site of pain. The study evidences a major public health problem: incapability of clinicians to correctly diagnose and manage PTTN, costing patients mistaken irreversible surgical therapies and delays in diagnosis, with high socioeconomic costs.
+
+=== KEY BACKGROUND ===
+- PTTN (anaesthesia dolorosa / painful post-traumatic trigeminal neuropathy): unilateral or bilateral oral and/or facial pain whose onset follows trauma to the trigeminal nerve, with other signs/symptoms of trigeminal dysfunction; pain persists or recurs >3 months.
+- Commonly arises after traumatic interventions in the trigeminal system: root-canal treatment, extractions.
+- Patients typically report intraoral, localized, aching, heavy, continuous pain of moderate intensity in a tooth, in the site where a tooth was previously present, or in surrounding tissues.
+- Differential diagnosis with Persistent Idiopathic Dentoalveolar Pain (PIDP, "phantom-tooth pain") is among the most challenging in orofacial pain; PTTN can rarely be extraoral whereas PIDP is intraoral.
+- International Classification of Orofacial Pain (ICOP) separated the various forms; older terms (phantom tooth pain, atypical facial pain, atypical odontalgia) were ambiguous.
+- Prevalence: PTTN occurs in 3-6% of patients after endodontic treatment; higher in females and after 4th-5th decade; maxillary molar/premolar regions mostly affected. Some authors report up to 12% after successful root canal treatment.
+- Risk factors: preoperative pain ≥3 months, prior chronic pain anywhere, previous painful orofacial treatment; depression, anxiety, psychotic, bipolar disorders.
+- No standardized therapy: anticonvulsants, local anesthetics, antidepressants known for neuropathic pain; topical therapy prevalent due to systemic side effects (silicon stent for intraoral delivery); surgical techniques and onabotulinum toxin under study.
+
+=== METHODS ===
+- Web-based epidemiological survey (described as prospective cohort/epidemiological survey), Declaration of Helsinki, IRB University of Cagliari, code PROT. NP/2021/5460.
+- Population: large sample of Italian dentists, 2021; eligibility Oct-Dec 2021; recruited via social media; anonymous answers; informed consent.
+- Google Forms questionnaire "University of Cagliari: Epidemiological Study on the Level of Knowledge of Italian Dentists About Post-traumatic trigeminal neuropathic pain"; ~3 minutes; multiple-choice (ordinal/nominal).
+- Questions: (1) dentist eligibility; (2) aware of PTTN existence; (3) received teachings on PTTN during under/postgraduate studies; (4) aware of need for differential diagnosis between orofacial neuropathic pain and primary odontogenic pain; (5) ever had PTTN patients; (6) ever referred patient to pain specialist for suspected neuropathic pain; (7) triggering events; (8) management after root canal; (9) management after extraction.
+- Statistics: Python (Pandas, SciPy); chi-square and Fisher's exact test; alpha 0.05.
+
+=== RESULTS (verbatim numbers) ===
+Baseline (n=634 dentists):
+- 71.3% knew of the existence of PTTN; 28.7% unaware.
+- Almost one out of five (~20%) had received no teachings about PTTN (>80% did not receive any teaching about PTTN during their studies per discussion).
+
+Clinical experience:
+- 88.3% aware of need to perform differential diagnosis between orofacial neuropathic pain and primary odontogenic (dental/periodontal) pain.
+- 49% had referred patients with suspected neuropathic pain to a pain specialist; 51% had not.
+- 71.7% of Italian dentists had encountered cases of suspected PTTN in clinical practice.
+
+Causes of PTTN (412 participants defined triggering event; multiple answers allowed):
+- 37.10% reported PTTN arose spontaneously without dental procedure.
+- Well-performed root canal therapy: 60.7% (most frequent trigger).
+- Well-executed extractions: 42.7%.
+- Other dental procedures: 21.4%.
+
+Approach to PTTN after well-performed root canal therapy (370 clinicians answered):
+- Treated pharmacologically: 57.6%.
+- Endodontic retreatment: 48.6%.
+- Extracted the previously devitalized tooth: 22.4%.
+- Apicectomy: 8.6%.
+- Treated/extracted neighboring teeth (thinking dental pain): ~similar to apicectomy.
+- Referred to pain specialist: <1 in 3 (~30%).
+- Did not know how to proceed: 13.8%.
+
+Approach to PTTN after well-performed extraction (339 replies):
+- Treated pharmacologically: 70.8%.
+- Surgical revision of post-extraction site: ~25% (one out of four).
+- Treated/extracted neighboring teeth: 4.10%.
+- Did not know how to proceed: 11.4%.
+- Referred to pain specialist: 30.7%.
+
+Inferential:
+- Participants unaware of PTTN existence responded negatively to all other questions (p<0.05).
+- Unawareness of differential-diagnosis need significantly associated with not being aware of PTTN, never receiving teachings, never meeting PTTN patients, never referring (p<0.05).
+- Referral filtered: only those aware of PTTN existence sent patient to a pain specialist; referral happened only for pain after well-performed root canal (p=0.003).
+
+=== DISCUSSION HIGHLIGHTS ===
+- 1 in 3 dentists did not even know PTTN exists.
+- Diagnostic delay of >2 years before correct diagnosis reported in PTTN patients.
+- >80% of dentists received no teaching about PTTN during studies (educational gap).
+- Nixdorf et al. estimated 3.4% of patients after canal therapy developed PTTN.
+- Applying 60.7% to root canal therapies performed worldwide → >150,000,000 individuals at risk of developing PTTN.
+- Main consequence of missing differential diagnosis: ineffective, unnecessary, irreversible dental procedures (root canal therapy, apicectomy, extraction) of the suspected tooth or adjacent teeth.
+- PTTN patients have higher frequency of psychiatric disorders (depression, somatization) and reduced quality of life.
+- Costs: Belgian study median annual direct cost €1396/patient over 5y post-diagnosis; neuropathic pain direct costs €1939 (Italy) to €3131 (Spain); indirect costs (productivity loss) €9305 (Italy) to €14,446 (Germany) per patient.
+- Italian law no. 38/2010 guarantees access to pain therapy but application is lacking.
+- Proposal (3 levels): (1) awareness campaigns for physicians and population, (2) strengthen under/postgraduate orofacial pain programs, (3) introduce orofacial pain specialists in dental schools and hospitals.
+
+=== LIMITATIONS ===
+- Did not investigate dentists' habit to evaluate patients' psychological state.
+- Single-country sample (Italy); limited generalizability.
+- Further study needed on practice patterns and enabling factors.
+
+=== CONCLUSIONS ===
+Major lack of knowledge of dentists about PTTN despite most encountering it clinically. Crucial to intensify teaching/awareness about PTTN, a preventable disease often resulting from routine dental procedures. Healthcare systems and universities should cooperate to facilitate access to adequate diagnosis and therapy given high socio-economic costs.
