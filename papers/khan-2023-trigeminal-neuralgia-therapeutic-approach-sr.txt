@@ -1,0 +1,98 @@
+Therapeutic Approach for Trigeminal Neuralgia: A Systematic Review
+Khan et al. (2023). Biomedicines 11(10):2606. DOI: 10.3390/biomedicines11102606
+PMID 37892981 | PMCID PMC10604820
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP get_full_text_article.
+
+1. INTRODUCTION
+Trigeminal neuralgia (TN, tic douloureux) affects the trigeminal nerve; sudden, repetitive waves
+of pain lasting seconds to minutes, triggered by sensory stimulus on face/lips/oral mucosa or during
+functional movements. Debilitating chronic condition following injury/inflammation of peripheral
+trigeminal nerve. Divided into three major types: classical, secondary, or idiopathic.
+- Classical TN: most common; vascular compression of trigeminal nerve at root entry zone.
+  Microvascular decompression (MVD) is first-line surgical treatment for classical TN.
+- Secondary TN: tumors or vascular abnormalities in posterior fossa, or multiple sclerosis.
+- Idiopathic TN: no cause found.
+Some TN patients experience concomitant continuous pain (dull ache) in same area as paroxysmal pain.
+Treatment challenging; therapies focus on symptomatic relief. Modalities: pharmacological,
+interventional, alternative medicine. Antiepileptics are first-line. Carbamazepine used since early 1960s.
+>30 pharmacological interventions used. 2019 European Academy of Neurology survey emphasized need for more study.
+
+2. METHODOLOGY
+Umbrella/systematic review per PRISMA 2009. PROSPERO CRD42023408948. PICOS method.
+Inclusion: reviews and meta-analyses of RCTs involving drug therapy for TN.
+Exclusion: rapid reviews, non-English, lab studies, uncontrolled trials, qualitative, case reports/series.
+Databases: PubMed, CRD, EBSCO, Web of Science, Scopus, Cochrane Library. Collection ended 1 Dec 2022.
+Two independent reviewers; third reviewer settled discord.
+
+3. RESULTS
+588 titles initially -> 370 after duplicate removal -> 127 full texts -> 11 review articles finally included.
+A total of 31 pharmacological interventions evaluated.
+
+3.1 DRUG DETAILS
+3.1.1 Carbamazepine and Oxcarbazepine: first line for pain management. Oxcarbazepine fewer adverse effects
+  than carbamazepine. Oxcarbazepine may be first-line for secondary TN; MS patients need monitoring.
+  Daily recommended doses (Discussion): carbamazepine 0.4-1.2 g; oxcarbazepine 0.9-1.8 g.
+  Common side effects: sleepiness, vertigo, nausea, double vision, reduced neuromuscular control,
+  cognition issues (esp. females). Elevated transaminases and hyponatremia at higher doses.
+3.1.2 Eslicarbazepine: third-generation antiepileptic (dibenzazepine family with carbamazepine/oxcarbazepine).
+  Side effects: dizziness, nausea, vomiting, drowsiness. Insufficient evidence. Retrospective/open-label
+  reported effectiveness at dose 200-1200 mg/day. Option for cranial neuralgia non-responders to first line.
+3.1.3 Gabapentin: meta-analysis of RCTs, n=1331 patients, efficacy comparable to carbamazepine with
+  considerably fewer side effects. Second-line drug; refractory therapy. Superior life satisfaction index B
+  over carbamazepine.
+3.1.4 Ropivacaine + Gabapentin: ropivacaine = long-acting amide local anesthetic. Ropivacaine peripheral
+  nerve block in trigger zone + oral gabapentin induced analgesia, improved QoL. Combination with low-dose
+  gabapentin superior to ropivacaine alone. (Only high-grade-evidence combination noted.)
+3.1.5 Ropivacaine + Carbamazepine: reduced side effects/limitations of carbamazepine.
+3.1.6 Lamotrigine: second-level drug. Adverse effects similar to carbamazepine/oxcarbazepine; high incidence
+  of dermatological reactions (reducible by dose regulation). Can treat secondary TN but may aggravate MS.
+  Generally low evidence.
+3.1.7 Levetiracetam: targets high-voltage N-type calcium channels and synaptic vesicle protein 2A.
+  Acceptable efficacy/tolerability; mostly open-label/pilot/short-term, dose ~3-4 g/day. Needs more RCTs.
+3.1.8 Phenytoin: antiepileptic; insufficient evidence for TN.
+3.1.9 Pregabalin: GABA(B) analog, structurally similar to gabapentin. Little evidence in TN; fewer side
+  effects than other antiepileptics. Pregabalin + carbamazepine effective in refractory TN.
+  Beneficial in TN patients after a year of follow-up.
+3.1.10 Topiramate: SR+MA of RCTs indicated efficacy similar to carbamazepine, acceptable tolerability,
+  but low-grade evidence. (Alves: not different from placebo, one study only; Wang 2011: improved after 2 months.)
+3.1.11 Proparacaine: ophthalmic anesthetic drops 0.5% did not significantly improve TN vs placebo. Ruled out.
+3.1.12 Dextromethorphan: cough suppressant compared with lorazepam; ineffective for TN.
+3.1.13 Tizanidine: low-grade evidence (double-blind cross-over, n=11) adequate analgesia vs placebo but
+  efficacy lost after few months. Side effects (dizziness, drowsiness, tiredness) not significant.
+  Lower efficacy than carbamazepine. Max doses in study: tizanidine 18 mg, carbamazepine 900 mg.
+3.1.14 Pimozide: antipsychotic; appeared superior to carbamazepine for noncompliant TN but significant CNS
+  side effects (hand shivers, diminished cognition). Yang F. et al.: pimozide inferior to other 7 drugs and placebo.
+3.1.15 Tocainide: antiarrhythmic; palliative outcome comparable to carbamazepine but side effects
+  (nausea, paresthesia, dermatological) limited use.
+3.1.16 Lidocaine: topical (8%) oral mucosa, nasal spray, local infiltration in trigger zones, IV infusion.
+  Combination with ropivacaine/carbamazepine/gabapentin better than carbamazepine alone.
+3.1.17 Baclofen: effective for TN secondary to MS; relieves spasticity. Side effects: momentary drowsiness,
+  muscular hypotonia; sudden withdrawal can cause convulsions/delirium. Levorotatory baclofen more effective,
+  fewer side effects than racemic. Baclofen alone slightly superior to carbamazepine alone; combination
+  significantly superior (low-grade evidence, 30% dropout).
+3.1.18 Sumatriptan: SC injection (3 mg) + oral (100 mg/day) significant analgesia improvement, sustained a
+  week after termination. Rankogram: superior to intranasal lidocaine, IV lidocaine, botulinum toxin,
+  ophthalmic proparacaine, and placebo.
+3.1.19 Botulinum Toxin A (BTX-A): intradermal or submucosal injection, dose range 25-75 U; effective analgesia.
+  Can affect neuromuscular abilities. Hu et al. SR: response in ~70-100% of patients, mean pain intensity and
+  frequency reduced ~60-80%, no major adverse events.
+3.1.20 Minocycline: second-generation tetracycline; central analgesic action; nanoparticle delivery investigated.
+3.1.21 Novel agents: Basimglurant (mGlu5 negative allosteric modulator); Aimovig/erenumab (anti-CGRP receptor
+  antibody, FDA-approved for migraine prevention, trialed for TN). Vixotrigine awaited.
+
+4. DISCUSSION (key points)
+Conservative pharmacological management is first-line for TN. 11 articles, 31 interventions.
+Carbamazepine and oxcarbazepine remain first-line for classical TN despite side effects.
+Concomitant continuous pain hardest to treat; gabapentin and pregabalin may help.
+Di Stefano 2018 = most comprehensive review to date.
+
+5. CONCLUSIONS
+- Carbamazepine and oxcarbazepine = first-line for classical TN (doses 0.4-1.2 g / 0.9-1.8 g daily).
+- Lamotrigine and baclofen = second-line for non-responders or intolerable carbamazepine side effects.
+- Carbamazepine can combine with gabapentin, ropivacaine, tizanidine, or pimozide for better/equivalent
+  results and improved tolerance.
+- IV lidocaine for acute exacerbations; botulinum toxin A for refractory cases.
+- Proparacaine, dextromethorphan, tocainide = inappropriate for TN.
+- Except carbamazepine, most drugs inadequately studied; few high-level-evidence studies.
+- New research awaited on combination therapies and newer formulations (vixotrigine).
+- Surgical: microvascular decompression (MVD) is first-line for classical TN (vascular compression at root entry zone).
