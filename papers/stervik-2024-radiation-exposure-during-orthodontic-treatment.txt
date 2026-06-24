@@ -1,0 +1,90 @@
+Radiation exposure during orthodontic treatment: risk to children and adolescents
+
+Authors: Christina Stervik, Agneta Lith, Annika Ekestubbe
+Journal: Acta Odontologica Scandinavica. 2024;83:296-301.
+DOI: 10.2340/aos.v83.40571
+PMID: 38745537 | PMCID: PMC11302648
+Publication date: 2024-05-15
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC11302648/)
+
+==================================================================
+ABSTRACT
+==================================================================
+
+Objectives
+To estimate radiation risk to children and adolescents during orthodontic treatment by retrieving number and type of radiographs from the patient records.
+
+Material and methods
+Radiographs, along with justifications for radiation exposure, were obtained retrospectively from the patient records of 1,790 children and adolescents referred to two Swedish orthodontic clinics. Data were grouped according to treatment stage: treatment planning, treatment, and follow-up. Estimated risk was calculated using the concept of effective dose.
+
+Results
+Each patient had received around seven radiographs for orthodontic purposes. The most common exposures during treatment planning were one panoramic, one lateral, and three intraoral periapical radiographs. A small number of patients received a tomographic examination (8.2%). Few justifications for treatment planning and follow-up, but more in the actual treatment stage, had been recorded. The most common examinations were to assess root resorption and the positions of unerupted teeth, or simply carry out an unspecified control. The estimated risk of developing fatal cancer was considered low. The radiation risk from orthodontic treatment was equivalent to about 5–10 days of natural background radiation.
+
+Conclusions
+Children and adolescents sometimes undergo multiple radiographic examinations, but despite the low radiation burden, accumulated radiation exposure should be considered and justified in young patients.
+
+==================================================================
+FULL TEXT (PMC)
+==================================================================
+
+Introduction
+
+In developed countries, orthodontic treatment is a common procedure for correcting a malocclusion of the deciduous and permanent teeth. Treatment usually begins at 12–14 years of age after all permanent teeth have erupted. At this age, the patient is also considered to possess a sense of autonomy in being able to accept or reject orthodontic treatment.
+
+In the four Nordic countries, between 11% and 35% of children and adolescents receive orthodontic treatment; however, variations between areas and countries are large. In Sweden, nearly every fourth child or adolescent – approximately 400,000 of the 6–19-year-olds – receives some kind of orthodontic treatment. Patients considering orthodontic treatment will first undergo a clinical examination to inform diagnosis and therapy planning. As a diagnostic aid, radiography will often supplement the examination and is considered valuable for diagnostic and treatment decisions. Bruks et al., however, found that radiographs are not always necessary for treatment planning; in most cases, a clinical examination, study casts, and photographs provide adequate information. Despite these findings, a recent questionnaire study found that nearly all orthodontists take radiographs, especially during treatment planning and treatment.
+
+Radiation risk is age dependent: younger individuals are more sensitive than adults. Unlike adults, children are still growing and thus have more tissue undergoing rapid cell growth; their expected remaining lifetime is also longer. Furthermore, healthy children and adolescents rarely have oral diseases, which can be relevant and a reason for radiographic examination in older individuals.
+
+Before any radiographic examination, a clinical examination must be done in order to avoid unnecessary exposure to radiation. To avoid radiographs being taken simply because it is 'routine', the justification should conclude that the needed information is not available elsewhere and that radiography is the most suitable method for obtaining the information. The Swedish National Board of Health and Welfare has developed evidence-based guidelines for both adult and child dental care for promoting equity in oral health and dental care. However, no such guidelines for children and adolescent concerning orthodontic treatment are yet available.
+
+Thus, as a step in this direction, the present study estimates radiation risk to children and adolescents during orthodontic treatment by retrieving number and type of radiographs from the patient records.
+
+Subjects and methods
+
+The present study is retrospective and includes 1,790 children and adolescents who completed orthodontic treatment at two clinics (A and B). Data collection occurred between 2004 and 2005 at clinic A, and between 2011 and 2012 at clinic B. Both clinics were located within a metropolitan catchment area in the same county council. Both employed specialist-trained orthodontists and offered specialist treatment; clinic A also offered post-graduate education.
+
+Patients with a cleft palate and other craniofacial disorders were excluded from the study. Other exclusion criteria were incomplete patient records, incomplete treatment, and moving from the area.
+
+Study cohort characteristics: Total 1,790 patients; mean age 14.8 ± 2.57 years; 1,063 female, 727 male. Clinic A: 1,125 patients (mean age 14.1 ± 2.45); Clinic B: 665 patients (mean age 16.0 ± 2.37).
+
+Effective dose and risk calculation
+
+The stochastic risk of inducing fatal cancer is associated with the effective dose. Effective dose, as reported in Granlund et al., Ludlow et al., and Radiation Protection No. 172 was used to calculate the stochastic risk of the various dental examinations. The risk factor for fatal cancer was calculated as 15% per Sievert (Sv) for children under 10 years and 10% per Sv for patients between the age of 10 and 20 years. Risk estimations for the present study cohort were made for each age group.
+
+Effective doses for various radiographic techniques (µSv/image):
+- Panoramic radiograph: 14.2–36
+- Lateral cephalogram: 5.6
+- Intraoral (single): 0.8
+- CBCT dento-alveolar 10-year-old: 43
+- CBCT dento-alveolar adolescent: 32
+
+Results
+
+Of the 1,790 children and adolescents, mere 1% (20) entered treatment without radiographs. At the treatment planning stage, the most common radiographic examination was panoramic radiography, together with a lateral cephalogram and approximately three intraoral periapical radiographs. Clinic B took more intraoral radiographs (IO) per individual than clinic A during treatment planning (mean IO/patient 4.0 vs 2.2; p < 0.001), and follow-up (0.7 vs 0.02; p < 0.001).
+
+In the study cohort, 8.2% (146) of the patients received a tomographic examination. CBCT with a 4 × 4 cm FOV was used in 110 (6.1%), and a 6 × 6 cm FOV in 20 (1.1%). Five patients were examined with CT and 11 with conventional motion tomography.
+
+The most common justifications were simply to check (unspecified, 48%), to determine root resorption (39%), or position of unerupted teeth (9%). Retakes were 2%.
+
+Estimated risk of fatal cancer: a group of young subjects under 10 years who received one panoramic radiograph would have a theoretical risk of 0.54 radiation-induced fatal cancers per 100,000 irradiated individuals; individuals between 10 and 20 years would have a theoretical risk of only 0.36 per 100,000 irradiated individuals.
+
+Risk of fatal cancer by age group and technique (induced fatal cancer per 100,000 persons):
+<10 years (0.015%/mSv): Panoramic 14.2 µSv → 0.21; Panoramic 36 µSv → 0.54; Lateral 5.6 µSv → 0.10; Intraoral 0.8 µSv → 0.01; CBCT 43 µSv → 0.65.
+10–20 years (0.01%/mSv): Panoramic 14.2 µSv → 0.14; Panoramic 36 µSv → 0.36; Lateral 5.6 µSv → 0.06; Intraoral 0.8 µSv → 0.01; CBCT 32 µSv → 0.32.
+
+Discussion
+
+In the study cohort 14,306 radiographs or approximately seven radiographs per individual were exposed for purposes of orthodontic treatment. Thus, in Sweden, around 2.8 million radiographs (panoramic, lateral, and intraoral) are exposed during orthodontic treatment of 400,000 individuals.
+
+The present study estimated the risk of fatal cancer later in life from one panoramic radiograph; using the effective dose concept, that risk was 0.5 per 100,000 children and adolescents, indicating a probability of two fatal cancers in a population of 400,000 individuals.
+
+To minimise radiation-induced risks, each radiation exposure must be justified and optimised. The recommended principle, 'As Low As Reasonably Achievable' (ALARA) should be applied on a daily basis. The present study found that documented indications varied between 5% and 60% in the treatment stages.
+
+It is well known that exposure to high radiation doses can affect health, and doses below 100 milligray (mGy) are in the low-dose range where mainly stochastic effects occur. The linear non-threshold model is used in low-dose ranges to estimate stochastic effects; it assumes that there is no threshold dose below which there is no additional health risk. Radiation doses in dental radiographic examinations are in the low-dose range, and compared with background radiation, the dose is negligible.
+
+VERBATIM (background-radiation equivalent):
+"Annual exposure from natural background radiation in Sweden has been calculated as 1–2 mSv []; thus, the additional radiation dose to children and adolescent in orthodontic treatment corresponds to 5–10 days of background radiation. Furthermore, a panoramic examination delivers a dose that is six times higher than a lateral cephalogram and 4–5 times higher than an intraoral image."
+
+Until there is clear evidence for a threshold dose below 100 mGy, we must assume that radiography involves a small albeit real risk to the patient. In 2007, the ICRP revised estimates of the radiosensitivity of tissues and organs, resulting in reassessments of earlier estimations of risk from dental radiographic examinations.
+
+For the individual, dental radiography is associated with low doses and risks; however, on the population level, it is considered a 'high-volume procedure'. Accumulated radiation exposure should be considered when scheduling children and adolescents for radiographic examinations. Clinicians should always justify the need for a radiographic examination, citing how the benefits outweigh the potential harm.
