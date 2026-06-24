@@ -1,0 +1,72 @@
+Comparison of osseodensification and standard drilling methods on implant stability quotient and insertion torque values of implants
+
+Moghaddas O, Banazadeh V. J Adv Periodontol Implant Dent. 2025;17(2):59–64.
+DOI: 10.34172/japid.025.3475 | PMID: 40673121 | PMCID: PMC12261070
+
+Source: Retrieved from PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12261070/)
+
+=== ABSTRACT ===
+
+Background. This study aimed to compare insertion torque (IT) and implant stability quotient (ISQ) values immediately and three months after surgery with standard drilling (SD) and osseodensification (OD) drilling methods.
+
+Methods. In this prospective study, 39 implants with the same diameter and length were placed in 21 patients using SD (23 implants) and OD (16 implants) methods in the posterior maxilla. The amounts of IT after surgery and ISQ after surgery and three months later were evaluated. The data were extracted and statistically analyzed with PASS2 software. The difference between IT and ISQ was determined by the two-way repeated-measures ANOVA at a significance level of 0.001.
+
+Results. Immediately after surgery, the amount of IT using the OD drilling method was 37% higher than the SD drilling (<0.001). ISQ values after surgery did not show a significant difference between SD and OD (1<0.176). Three months after surgery, the ISQ values in both groups were not significantly different. ISQ values for all OD and SD group experimental parameters remained above the threshold value of 68. IT values showed a positive correlation with ISQ values at baseline.
+
+Conclusion. In the present study, the OD technique provided a higher IT rate after surgery compared to the SD method; however, no difference was seen between the two groups regarding ISQ value either after surgery or three months later.
+
+=== INTRODUCTION ===
+
+Osseointegration is the formation of a structural and functional bone-to-implant interface, without soft tissue interference. Achieving the best degree of primary stability during surgery, defined as bone-to-implant biomechanical engagement with a micromotion < 150 μm, is necessary for successful osseointegration and to predict loading time. Clinically, the degree of implant stability can be estimated by insertion torque (IT) values using surgical handpieces or implant stability quotients (ISQ) using resonance frequency analysis. IT values > 35 Ncm or ISQ values > 68 have been considered reasonable for predictable osseointegration and earlier loading.
+
+Bone density in the peri-implant vicinity, implant macro-geometry, and related surgical instrumentation are critical morphometric predictors of IT and healing kinetics. Osseodensification (OD) drills are counterclockwise drills used to increase bone density; in the clockwise direction they also have the efficiency of conventional drills. OD is a non-subtractive method that increases bone density while expanding the implant site. The OD osteotomy technique uses uniquely designed burs that cause lateralization of autogenous bone into the surrounding cancellous structure and expand the surrounding bone space by rolling and sliding contact with controlled bone deformation, with minimal heat elevation. It is based on bone's elastic and plastic properties, causing bone bulk preservation and compaction (autografting of osseous material into the trabecular space), which may be especially useful in clinical scenarios with poor bone quality. Preclinical biomechanical and histological data show significantly higher IT and temporal removal torque for OD compared to standard conventional drilling (SD).
+
+=== METHODS ===
+
+Study design: prospective evaluation of two osteotomy techniques, OD (test group) and SD (control group), on clinical implant osseointegration parameters after surgery and three months later, per CONSORT guidelines. Followed ethical standards and the Helsinki Declaration. Sample size calculated with two-sample t-test (PASS2): 5% α error, 20% β error, effect size 18 at n=8 implants, increased by 20% for losses → ~20 implants per factor (20 OD, 20 SD), total ≥ 40.
+
+This study used the original kit by Versah Company (USA) for site preparations. Patients needing dental implants in the posterior maxilla recruited 2021–2022. Inclusion: ≥18 years, sufficient residual bone for placement without augmentation (minimum ridge height ≥ 9 mm and width ≥ 6 mm), healed sites ≥ 4 months post-extraction. Exclusion: alcoholism, smoking, illicit drugs, heart disease, diabetes, previous bone regeneration/augmentation, bleeding disorders, compromised immune system, irradiated patients, steroids or bisphosphonates.
+
+Radiographic evaluation: periapical radiographs and CBCT before placement. Implant system: MEGAGEN ANYONE (South Korea) — internal conical connection, tapered macro-geometry, sandblasted surface. The operator performing IT and ISQ readings was blinded as to the drilling protocol used.
+
+Surgical technique: rinse 0.2% chlorhexidine 1 min. Local anesthesia (lidocaine 1:100,000 epinephrine). Full-thickness flaps elevated; osteotomies with saline irrigation at 1100 rpm using sequential burs of similar diameter for both techniques (SD conventional burs or OD drilling burs), maximum torque 50 Ncm. OD performed per densifying reference guide. Implant insertion initiated with motor handpiece without irrigation at 20–50 rpm; completed with manual surgical torque wrench. In both groups, implants placed 1 mm subcrestal; diameter and length 4 × 10. IT recorded as maximum torque value (Ncm) at termination of insertion. Smartpeg used and resonance frequency analysis with MEGA ISQ (Megagen, South Korea) recorded ISQ at all surfaces. Healing abutments inserted; sutures removed 10 days postop. ISQ also recorded after 3 months during follow-up. Amoxicillin 500 mg every 8 h for 7 days, starting 1 h before surgery.
+
+Statistical analysis: two-way repeated-measures ANOVA for IT and ISQ in two groups at different times (data normally distributed).
+
+=== RESULTS ===
+
+Twenty-one patients (10 women, 11 men), average age 40 years. In total, 39 implants placed in the posterior maxilla, including 18 OD implants and 20 SD implants, same diameter (4 mm). [Abstract reports 16 OD / 23 SD; body reports 18 OD / 20 SD; 20 implants in each group statistically analyzed.] Final healing proceeded without signs of inflammation or infection and without implant mobility at second-stage surgery. In follow-ups, two patients (two implants) could not cooperate and were excluded.
+
+At the time of surgery, IT by OD drilling was 37% higher than SD drilling (50.31 ± 5.90 Ncm vs. 36.09 ± 11.07 Ncm) (<0.001), statistically significant.
+
+ISQ values at surgery did not show significant difference between SD and OD groups (OD 76.13 ± 6.07 vs. SD 71.74 ± 2.42) (1<0.134 and 1<0.176). After three months, ISQ in both groups did not change much or differ significantly (OD 75.13 ± 6.44 vs. SD 73.43 ± 1.67) (4<0.488 and 4<0.471). ISQ values for OD and SD groups were high at baseline and remained high. ISQ for all OD and SD parameters remained above the threshold value of 68. IT values showed a positive correlation with ISQ values at zero time.
+
+Table 1 — Average ISQ immediately after surgery and three months later:
+OD group: after surgery 76.13; three months later 75.13
+SD group: after surgery 71.74; three months later 73.43
+
+=== DISCUSSION ===
+
+Selecting surgical instrumentation that improves implant stability in alveolar bone is necessary for successful osseointegration. Instead of removing bone particles as in conventional SD, OD preserves bone by compacting particles into the osteotomy wall. IT and ISQ are clinically accepted parameters for primary stability; both higher values are positive indicators, necessary for immediate loading and osseointegration.
+
+The OD technique increases primary stability and bone volume by creating a layer of mineralized bone around the osteotomy site (also reported by Bergamo et al). Data showed higher IT in OD than SD. OD preserves bone in two ways: densifying cancellous bone with viscoelastic and plastic deformation, and autograft densification of bone particles along the length and apex of the osteotomy. OD improves bone quality as osteotomy size is expanded and guarantees greater physical interlocking at the implant interface (spring-back effect creating reversed compression / sealing into intra-thread spaces).
+
+Comparisons with prior literature:
+- Tretto et al review: OD higher in IT, RT (removal torque), and ISQ vs. SD; unlike the present study there was a significant ISQ difference.
+- Bergamo et al (56 patients): OD increased primary stability and bone density; unlike present study, ISQ increased significantly in OD vs SD.
+- Huwais and Meyer (animal): IT increased significantly (twice) in OD vs SD; no significant ISQ difference between groups (consistent with present study); bone around OD ~3× standard.
+- Lahens et al (animal, low-density bone, SD vs CW-OD vs CCW-OD with Densah): IT higher for OD (100 Ncm) than SD (25 Ncm); BIC significantly higher; ISQ not investigated.
+- Mello-Machado et al (16 individuals, D3/D4 bone, RCT): OD higher IT than SD; ISQ similar to present study; after six months implant survival similar, ISQ higher; unlike present study ISQ remained stable after 3 months.
+- Trisi et al (animal): increased ridge width and ~30% more bone volume in OD; better RT for OD; IT and ISQ not measured.
+- Pai et al systematic review (195 articles screened): Densah burs cause undersized osteotomy vs conventional burs, improved bone density, increased bone volume and bone-to-implant contact, improving implant stability.
+
+=== LIMITATIONS ===
+
+Only the posterior maxilla was evaluated (anterior region not considered). Limited number of patients. Long-term prospective studies needed across different bone types and implant micro/macro-geometries.
+
+=== CONCLUSION ===
+
+OD — by maintaining bone structure and volume and increasing bone density — was effective in improving and increasing implant stability compared to SD, allowing passive placement in the prepared site without stress despite high stability.
+
+Ethical Approval: Islamic Azad University, Dental Branch, Tehran, approval ID IR.IAU.DENTAL.REC.1401.1402.
+Competing Interests: none declared.
