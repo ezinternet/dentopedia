@@ -1103,6 +1103,7 @@ tags: []
 - [[drug/systemic-disease/hamade-2024-hypertension-dental-implants-sr-ma]] — Hamadé 2024 · sr+ma · 24편·임플란트 21,066개: 고혈압은 임플란트 실패 위험 증가 없음(OR 1.10, p=0.671)
 - [[drug/systemic-disease/perozo-2026-perioperative-hemodynamic-hypertensive-oral-surgery-protocol]] — Perozo 2026 · retrospective · 고혈압 구강수술 기저혈압이 혈역학 변동 최대인자·출혈 7배↑; 3단계 Perozo 프로토콜 제안(미검증)
 - [[drug/systemic-disease/yang-2025-tooth-extraction-hypertensive-ecg-monitoring]] — Yang 2025 · retrospective · 고혈압 발치 2,059건: 8.0% 혈압강하제 필요(술전 SBP≥159 AUC0.91), 37.2% 일과성 부정맥(전부 비치명적)
+- [[drug/systemic-disease/kumari-2025-hemodynamic-fluctuations-during-tooth-extraction]] — Kumari 2025 · prospective(n=50) · 리도카인+아드레날린 발치 중 SBP/DBP/HR 상승; 코호트는 정상혈압이라 고혈압 권고는 외삽(주의) (PMC full text)
 - [[drug/systemic-disease/liu-2024-perioperative-hypertension-implant-bone-augmentation]] — Liu 2024 · retrospective · 임플란트 동기 골증대 728명 중 26.8% 围术期 고혈압; 남성·60세↑·수술60분↑ 위험(술식별 상이, abstract-only)
 - [[drug/systemic-disease/guadarrama-bello-2026-bone-healing-implants-diabetes-osteoporosis-review]] — Guadarrama Bello 2026 · narrative-review · 당뇨·골다공증이 임플란트 주위 골치유를 손상시키는 기전 + 티타늄 표면처리 회복 전략
 - [[drug/antibiotics/low-2026-dental-antibiotic-prescribing-practices-singapore]] — Low 2026 · cross-sectional · 싱가포르 치과의사 280명: 적절 처방률 6.5~97.7%(치주·구강외과 최저), 사랑니(71%)·임플란트(74%) 예방적 항생제 과처방
@@ -1113,6 +1114,7 @@ tags: []
 - [[drug/mronj/koth-2017-clinical-radiographic-haematological-bisphosphonate-therapy]] — Koth 2017 (Dentomaxillofac Radiol) · 후향적: BRONJ vs 비-BRONJ BP 사용자 — ALP·ESR↑, 빈혈/백혈구증가, 흡연·발치력; 방사선상 잔존 발치와·골용해·골경화·하악관 협착; CTX/PTH/Ca/P는 군간차 없음
 - [[drug/systemic-disease/maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] — Maftei 2021 (Antioxidants) · case-control(n=86, 건강 45 + T2DM 41): 타액 8종 마커(OPG/RANKL/HGF/TNF-α/IL-18/MMP-9/TOS/TAC) 발치 전·3개월 후 측정 — baseline RANKL/TNF-α/IL-18/MMP-9/TOS/OPG가 HbA1c>6.5% 예측(RANKL AUC 0.999), 발치 후 TOS r=+0.777·TAC r=−0.475; 타액=비침습 혈당/치유 지표
 - [[drug/systemic-disease/enteghad-2024-diabetes-mellitus-periodontal-periimplant-disease-review]] — Enteghad 2024 (narrative, Int Dent J): 당뇨↔치주/임플란트주위 양방향·인과; 중증도가 혈당조절(HbA1c)과 비례; 조절 당뇨서 임플란트 성공 가능
+- [[drug/systemic-disease/elhusseiny-2024-oral-health-children-chronic]] — Elhusseiny 2024 · narrative-review · 소아 만성콩팥병(CKD)/혈액투석/신이식 구강증상·치과관리 (CKD 신규 sub-topic, 소아 한정) (PMC full text)
 - [[drug/mronj/ufcd-2019-medically-complex-patients-management-guidelines]] — 임상 가이드라인(148쪽): 23개 전신질환 × 치과 관리 프로토콜; ASA 분류; 혈관수축제·항응고제·비스포스포네이트 프로토콜 (UF 치과대학)
 - [[drug/anticoagulants/gupta-2022-dental-management-cardiovascular-disease]] — 서술적 고찰: 고혈압·IHD·MI(30일 금기)·부정맥·IE·심부전·뇌졸중·박동기 치과 관리 + 약물 상호작용 표
 - [[drug/mronj/ghimire-2022-medically-compromised-prosthodontic-patients]] — 서술적 고찰: 관절염·CVD·당뇨·비스포스포네이트·방사선골괴사·CKD·간경화 등 보철과 특화 수정 지침
@@ -1126,6 +1128,7 @@ tags: []
 - [[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — Tamgadge 2025 · rct · 술전 dexamethasone 4mg IM 1회가 사랑니 발치 후 통증·개구제한·부종을 위약 대비 유의 감소(분악 n=60)
 - [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
 - [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
+- [[drug/systemic-disease/andrade-2021-survival-rate-peri-implant-evaluation]] — Andrade 2021 · sr+ma(5편) · 혈당조절 시 즉시하중 임플란트 생존·MBL 당뇨서 비당뇨와 차이 없음 (PMC full text)
 - [[drug/systemic-disease/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
 - [[drug/systemic-disease/weykamp-2013-hba1c-review-analytical-clinical-aspects]] — 서술적 고찰(Ann Lab Med 2013): HbA1c 5측정법(IEC·CE·AC·면역·효소) 강약·표준화(NGSP/IFCC)·Hb 변이체 간섭·POC 한계 종합; chairside HbA1c 검사 적용 근거
 - [[drug/systemic-disease/chen-2022-interpretation-hba1c-analytical-methodology-hematology]] — 서술적 고찰(Exp Ther Med 2022): HbA1c 3축 간섭 프레임(측정법×생화학×혈액학); 빈혈·CKD·HbS/C/D/E·임신·약물(아스피린·비타민C·dapsone)별 위양성/위음성 방향 카탈로그 + 대안 마커(fructosamine·glycated albumin·1,5-AG·CGM-TIR)
@@ -1170,6 +1173,7 @@ tags: []
 - [[drug/anticoagulants/guardieiro-2023-chitosan-cellulose-hemostasis-dapt-rct]] — Within-person 단일맹검 RCT (J Evid Based Dent Pract 2023): DAPT 환자 발치 시 chitosan-기반 국소 지혈제가 cellulose oxidized gauze보다 출혈시간 단축 + 치유 개선 — DAPT 지속 발치의 지혈 옵션으로 chitosan 우위.
 - [[drug/mronj/iwata-2025-amoxicillin-duration-mronj-extraction-japan-retrospective]] — 일본 4기관 후향 비교 연구 (J Bone Miner Metab 2025, n=160 저용량 BP 환자): 발치 시 MRONJ 예방 amoxicillin (AMPC) — 술전 단일 500mg vs 3일 코스 — MRONJ 발생률 **동등** → AMR 회피 목적 단일 술전 dose로 충분.
 - [[drug/anticoagulants/krishnan-2024-bleeding-uninterrupted-single-dual-antiplatelet]] — 인도 Amrita Vishwa Vidyapeetham 비교연구 (Ann Maxillofac Surg 2024): 단일/이중 항혈소판제 지속하 단순 발치 — DAPT가 출혈 시간 다소 길지만 모두 국소 지혈로 통제; DAPT 발치 전 중단 불필요라는 umbrella review 권고와 일치.
+- [[drug/anticoagulants/yari-2023-bleeding-after-dental-extraction]] — Yari 2023 · prospective(n=100, 초록기반) · PCI 후 단일 vs 이중 항혈소판 지속 발치 — 출혈 유의차 없음·전부 국소지혈로 통제 (full_text:false)
 - [[drug/anticoagulants/lim-2020-antithrombotic-gi-endoscopy-korean-guideline]] — 한국 12개 종합병원 다학제 합의 임상진료지침 (KJG 2020): 내시경 시술 전후 warfarin/DOAC/aspirin/clopidogrel/DAPT 관리 — 시술 출혈 위험 × 환자 혈전 위험 매트릭스 기반 중단/지속 결정. 치과에 직접 적용은 불가하지만 동일 약물 클래스 한국어 reference.
 - [[drug/anticoagulants/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet]] — Blood 기초·중개 연구 (Columbia/LMU/MGH/Broad): JAK2V617F clonal hematopoiesis of indeterminate potential (CHIP) — 골수 클론 변이가 platelet 활성화와 cross-talk을 통해 동맥혈전증 위험을 증가시키는 기전 규명. 치과 직접 적용보다 노인 환자 CHIP-driven 혈전 배경 지식으로 보유.
 - [[drug/anticoagulants/lu-2018-warfarin-antiplatelet-dental-extraction-management]] — 대규모 단일기관 후향 코호트 (Kaohsiung Chang Gung, Taiwan, n=1,331/1,816 extractions, 2018): warfarin 지속군 (INR<4.0) 발치 후 출혈률 9.1%; warfarin 중단+heparin bridging, 단일/이중 항혈소판 (DAPT) 지속 모두 국소 지혈로 통제 가능 — 발치 위해 항혈전제 중단 불필요라는 현대적 입장의 대만 임상 근거.
@@ -1894,6 +1898,9 @@ tags: []
 
 **방사선방호·선량 벤치마크**
 - [[radiology/benavides-2023-patient-shielding-dentomaxillofacial-radiography]] — Benavides 2023 (consensus, AAOMR/JADA): 생식선·태아·갑상선 차폐 모두 중단 권고
+- [[radiology/berkhout-2015-justification-and-good-practice-using]] — Berkhout 2015 · consensus(EADMFR, 초록기반) · 휴대용 구내 X-ray 정당화·조작자/ALARA 방호 입장서 (full_text:false)
+- [[radiology/rottke-2018-operator-safety-during-the-acquisition]] — Rottke 2018 · in-vitro(초록기반) · 휴대용 구내 X-ray(NOMAD Pro 2) 조작자 산란 미미·관리구역 기준 이하 (full_text:false)
+- [[radiology/makdissi-2016-effects-device-position-operators-radiation]] — Makdissi 2016 · in-vitro(초록기반) · 휴대용 장비 파지 위치가 조작자 선량에 유의 영향(phantom/TLD) (full_text:false)
 - [[radiology/lee-2021-dental-imaging-doses-web-dose-calculator]] — Lee&Badal 2021 (narrative, FDA): 평균 유효선량 구내 1.32·파노라마 17.93·CBCT 121.09µSv; dentaldose.org 계산기
 
 **CBCT 선량 최적화·dosimetry**
@@ -1901,6 +1908,7 @@ tags: []
 - [[radiology/hidalgo-rivas-2015-low-dose-cbct-anterior-maxilla-children]] — Hidalgo Rivas 2015 (phantom, BJR): 소아 전치부 CBCT 저선량 프로토콜 ~50%↓ (DAP≥127·CNR≥4.8)
 - [[radiology/charuakkra-2023-low-dose-cbct-image-dose-comparison]] — Charuakkra 2023 (phantom, DMFR): ULD/LD CBCT 선량 ~6배↓ '수용~양호' 화질; 고관전압 활용
 - [[radiology/ozaki-2021-cbct-effective-dose-monte-carlo-simulation]] — Ozaki 2021 (MC, DMFR): step-and-shoot 5°/10° 충분; 소형 FOV 6회 ≈ 대형 1회 1.2배
+- [[radiology/yeh-2018-estimated-radiation-risk-cancer-dental]] — Yeh 2018 · in-vitro(MC+BEIR-VII) · 교정 CBCT 발암위험(REID) 추정, 소아가 성인 ~2배 (PMC full text)
 - [[radiology/lee-2019-cbct-dose-osl-monte-carlo-comparison]] — Lee 2019 (phantom, PLoS One): CBCT OSLD vs MC 유효선량 차 4.0-14.3%, FOV 작을수록 감소
 
 **파노라마 선량·기하·수용체**
