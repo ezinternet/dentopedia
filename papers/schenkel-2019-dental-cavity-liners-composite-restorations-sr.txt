@@ -1,0 +1,49 @@
+Source: PubMed Central (PMC6399099) via get_full_text_article. PMC returned abstract + plain-language summary only (full_text body empty / paywalled — full_text:false). DOI 10.1002/14651858.CD010526.pub3.
+
+TITLE: Dental cavity liners for Class I and Class II resin-based composite restorations
+AUTHORS: Schenkel AB, Veitz-Keenan A
+JOURNAL: Cochrane Database of Systematic Reviews, 2019 (update of 2016 review)
+PMID: 30834516 | PMCID: PMC6399099 | DOI: 10.1002/14651858.CD010526.pub3
+
+=== ABSTRACT (verbatim) ===
+
+Background
+Resin-based composite (RBC) is currently accepted as a viable material for the restoration of caries for posterior permanent teeth requiring surgical treatment. Despite the fact that the thermal conductivity of the RBC restorative material closely approximates that of natural tooth structure, postoperative hypersensitivity is sometimes still an issue. Dental cavity liners have historically been used to protect the pulp from the toxic effects of some dental restorative materials and to prevent the pain of thermal conductivity by placing an insulating layer between restorative material and the remaining tooth structure. This is an update of the Cochrane Review first published in 2016.
+
+Objectives
+The objective of this review was to assess the effects of using dental cavity liners in the placement of Class I and Class II resin-based composite posterior restorations in permanent teeth in children and adults.
+
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane Oral Health's Trials Register (to 12 November 2018), the Cochrane Central Register of Controlled Trials (CENTRAL; 2018, Issue 10) in the Cochrane Library (searched 12 November 2018), MEDLINE Ovid (1946 to 12 November 2018), Embase Ovid (1980 to 12 November 2018) and LILACS BIREME Virtual Health Library (1982 to 12 November 2018). No restrictions were placed on the language or date of publication.
+
+Selection criteria
+We included randomized controlled trials assessing the effects of the use of liners under Class I and Class II posterior resin-based composite restorations in permanent teeth (in both adults and children). We included both parallel and split-mouth designs.
+
+Data collection and analysis
+We utilized standard methodological procedures prescribed by Cochrane for data collection and analysis. Two review authors screened the search results and assessed the eligibility of studies for inclusion against the review inclusion criteria. We conducted risk of bias assessments and data extraction independently and in duplicate. Where information was unclear we contacted study authors for clarification.
+
+Main results
+Eight studies, recruiting over 700 participants, compared the use of dental cavity liners to no liners for Class I and Class II resin-based composite restorations.
+
+Seven studies evaluated postoperative hypersensitivity measured by various methods. All studies were at unclear or high risk of bias. There was inconsistent evidence regarding postoperative hypersensitivity (either measured using cold response or patient-reported), with a benefit shown at some, but not all, time points (low-quality evidence).
+
+Four trials measured restoration longevity. Two of the studies were judged to be at high risk and two at unclear risk of bias. No difference in restoration failure rates were shown at 1 year follow-up, with no failures reported in either group for three of the four studies; the fourth study had a risk ratio (RR) 1.00 (95% confidence interval (CI) 0.07 to 15.00) (low-quality evidence). Three studies evaluated restoration longevity at 2 years follow-up and, again, no failures were shown in either group.
+
+No adverse events were reported in any of the included studies.
+
+Authors' conclusions
+There is inconsistent, low-quality evidence regarding the difference in postoperative hypersensitivity subsequent to placing a dental cavity liner under Class I and Class II posterior resin-based composite restorations in permanent posterior teeth in adults or children 15 years or older. Furthermore, no evidence was found to demonstrate a difference in the longevity of restorations placed with or without dental cavity liners.
+
+=== PLAIN LANGUAGE SUMMARY (verbatim) ===
+
+Dental cavity liners under tooth-colored resin fillings placed into permanent teeth in the back of the mouth.
+
+Review question: This review was conducted to assess the effects of using liners under tooth-colored resin fillings in cavities on the biting surface (Class I) and the biting surface and side(s) (Class II) of permanent teeth in the back of the mouth in children and adults.
+
+Background: Tooth decay is the most common disease affecting children and adults worldwide. A number of techniques and materials can be used to restore teeth affected by decay; one is tooth-colored resin-based composite (RBC), increasingly used as an alternative to amalgam. Since the 19th century liners have often been placed in cavities under the filling material. The liners are thought to protect the living pulp from filling materials and from their potential to allow more heat or cold through than natural tooth would. Although RBC is thought to be similar to natural tooth in how it conducts heat, sensitivity to temperature change is sometimes still an issue after treatment.
+
+Study characteristics: Evidence up to date as of 12 November 2018. Eight studies, with over 700 participants, were included. Two studies were conducted in the USA, two in Thailand, two in Germany and one each in Saudi Arabia and Turkey. The studies compared the use of liners under RBC fillings in permanent posterior teeth to no liners for Class I and Class II fillings. One of the two USA studies took place in dental practices, the others in university-based dental schools. All participants were over 15 years of age.
+
+Key results: Very little evidence was found to show that a liner under Class I and II RBC fillings reduced sensitivity in adults or children 15 years or older. No evidence was found to show any difference in the length of time fillings lasted when placed with or without a cavity liner. No adverse events were reported.
+
+Quality of evidence: The body of evidence does not allow for robust conclusions about the effects of dental cavity liners. The quality of evidence is low and there is a lack of confidence in the effect estimates.
