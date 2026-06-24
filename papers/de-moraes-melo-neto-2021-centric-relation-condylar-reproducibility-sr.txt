@@ -1,0 +1,64 @@
+Comparison of Techniques for Obtaining Centric Relation Based on the Reproducibility of the Condylar Positions in Centric Relation—A Systematic Review
+de Moraes Melo Neto et al. | European Journal of Dentistry | 2021
+DOI: 10.1055/s-0041-1735903 | PMID: 34921385 | PMCID: PMC9339936
+Source: PubMed Central full text (JATS)
+
+INTRODUCTION
+Centric relation (CR) is a maxillomandibular relationship, independent of tooth contact, in which the condyles articulate in the anterior-superior position against the posterior slopes of the articular eminences; the mandible is restricted to purely rotary movement; a clinically useful, repeatable reference position (Glossary of Prosthodontic Terms). CR is individual to each person; the dentist must gently guide the mandible posterior to maximum intercuspation until anatomical/physiological limits establish CR. CR must NOT be forcibly established. CR is important for both dentate and edentulous individuals (prosthetic rehabilitation, TMD therapy, orthodontic/maxillofacial planning, occlusal rehabilitation). A CR technique that generates the greatest reproducibility of condylar positions in CR is clinically important.
+
+Most commonly used CR classical techniques by method:
+- Guided method: bilateral (bimanual) manipulation and chin point guidance.
+- Graphic method: intraoral and extraoral gothic arch tracing.
+- Physiologic method: swallowing technique and tongue retrusion along the palate.
+
+A prior SR (de Moraes Melo Neto et al) compared CR techniques across DIFFERENT methods. This SR compares CR techniques WITHIN the SAME method (guided, graphical, or physiological), to verify which technique within each method generates greatest reproducibility of condylar (or mandibular) positions in CR.
+
+METHODS
+PRISMA-compliant systematic review; registered on PROSPERO (CRD42018097285).
+PICO:
+- P: individuals submitted to CR techniques.
+- I: techniques for obtaining CR.
+- C: comparison between CR techniques belonging to the same method.
+- O: which CR technique within each method generates greatest reproducibility of CR.
+
+Search: PubMed, Cochrane Library, SciELO, Scopus, Web of Science, up to May 5, 2021. Terms: "dental centric relation" (MeSH) combined individually with "reproducibility of findings" (MeSH), "jaw relation record" (MeSH), "chin point", "gothic arch", "bimanual manipulation", "swallowing" (MeSH), "jig".
+
+Inclusion: clinical studies in English; individuals without TMD; complete/nearly complete dentition (Angle class I/II/III) or complete edentulism; ≥5 individuals; compare ≥2 CR techniques belonging to the same method based on reproducibility of CR. Techniques considered — graphic: intraoral & extraoral gothic arch; physiologic: swallowing & tongue retrusion; guided: bimanual manipulation & chin point guidance (traditional and modified three-finger version).
+Exclusion: duplicated; removable partial denture wearers; studies not informing dental condition; incomplete data; literature reviews; systematic reviews; case reports.
+
+Reviewer agreement assessed with Kappa. Study quality assessed with Jadad scale (randomized, double-blind, dropouts; 0–2 low quality, 3–5 high quality).
+Data collected: sex/age; sample size; dental condition; CR techniques; randomization; period of day; patient position; number of CR repetitions; instrument/apparatus; number of operators.
+
+RESULTS
+1692 studies identified → 12 articles full-text (Kappa=1.00) → 6 clinical studies included (Kappa=1.00).
+All 6 articles were LOW quality on Jadad scale (max score 2; only Simon and Nicholls and Teo and Wise were randomized). Double-blinding not applicable (operator must know which technique is performed).
+NONE of the 6 studies evaluated edentulous individuals — all evaluated complete dentition.
+ALL comparisons were ONLY between the bimanual and chin point guidance techniques (guided method). No included study compared graphic or physiologic techniques.
+
+Outcomes by study:
+- Kantor et al: bimanual > chin point (greater reproducibility).
+- Hobo and Iwata: bimanual > chin point.
+- Keshvad and Winstanley: bimanual > chin point.
+- Simon and Nicholls: no difference between bimanual and chin point.
+- Galeković et al: no difference.
+- Teo and Wise: chin point > bimanual.
+
+Summary: 3 studies bimanual superior, 2 studies equivalent, 1 study chin point superior.
+
+Study data:
+- Kantor et al: 15 (3W/12M), age 21–45, complete dentition; chin point with/without jig vs bimanual; 6 records; articulator + mechanical microscope.
+- Simon and Nicholls: 5 (5W), third decade; chin point (jig)/bimanual (jig); randomized; 5 records; custom aluminum plate with 3 measuring points.
+- Teo and Wise: 7, age 17–29; chin point (jig)/bimanual (jig); randomized; supine; 3 records; Whip-Mix articulator, Buhnergraph-based instrument, microscope.
+- Hobo and Iwata: 10, age 21–32; chin point (jig)/bimanual (jig); 3 records; experimental electronic mandibular recording microcomputer; 1 operator; jig 20 min.
+- Keshvad and Winstanley: 14 (7W/7M), age 26.61±4.2; chin point (jig)/bimanual (jig); upright; 4 records (initial, 1h, 1day, 1week); Denar D4A articulator + custom mandibular position indicator + modified Olympus stereomicroscope; 1 operator; jig 15 min; same time of day.
+- Galeković et al: 32 (16W/16M), age 20–33; chin point (jig=cotton pellet)/bimanual; 4 records (initial, next day, 1week, 1month); SAM mandibular position indicator; jig 5 min; same time of day.
+(Other studies used Lucia's jig.)
+
+DISCUSSION
+All studies poor quality (Jadad); CR comparison studies cannot be double-blind. Randomization (gold standard) used in only 2/6. Half the articles showed bimanual superiority — theoretically because the bimanual technique stabilizes/guides the mandible with both hands (lower chance of manipulation error) vs chin point (one hand). Guided-method techniques are more dentist-dependent than graphic/physiologic methods; greater operator experience → correct technique.
+Patient position (supine vs upright) influences mandibular position (supine → more posterior due to gravity). Only 1 operator should perform all techniques; patient position standardized. Period of day may influence condylar positions; should be standardized. Time intervals (repeat records) provide methodological standardization. Jig (Lucia jig) deprograms proprioceptive memory and relaxes masticatory muscles before CR technique — recommend reporting jig duration.
+
+Limitations: missing methodological info (operators, position); lack of device standardization (no statistical pooling between articles); no studies comparing graphic or physiologic techniques; no studies on completely edentulous individuals.
+
+CONCLUSION
+The bimanual technique was often superior (greater reproducibility of CR) or at least equivalent to the chin point guidance technique. Therefore, for individuals with complete dentition and without TMD, the bimanual technique is more recommended.
