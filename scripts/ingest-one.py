@@ -27,6 +27,7 @@ REPO = Path(__file__).resolve().parent.parent
 PAPERS = REPO / "papers"
 SOURCES = REPO / "sources"
 WIKI = REPO / "wiki"
+PAPERS = REPO / "papers"
 QUEUE_FILE = REPO / ".ingest-queue"
 INDEX = REPO / "index.md"
 
@@ -133,6 +134,14 @@ def cmd_finish(stem: str):
         files_committed += 1
     else:
         print(f"  [warn] sources/{stem}.md not found — skipping")
+
+    # papers artifact — only .txt is tracked (PDFs are gitignored).
+    # PubMed-text ingests (source_collection: pubmed-text) carry a .txt that
+    # must be committed; PDF ingests have no .txt and this block is skipped.
+    paper_txt = PAPERS / f"{stem}.txt"
+    if paper_txt.exists():
+        commit_file(str(paper_txt.relative_to(REPO)), f"papers: {stem} text artifact")
+        files_committed += 1
 
     for wf in sorted(wiki_files):
         rel = wf.relative_to(REPO)
