@@ -1,0 +1,73 @@
+Effect of undersized drilling on the stability of immediate tapered implants in the anterior maxillary sector. A randomized clinical trial
+Sierra-Rebolledo A, Tariba-Forero D, Rios-Calvo M, Gay-Escoda C.
+Med Oral Patol Oral Cir Bucal. 2021;16(2):e187-94.
+DOI: 10.4317/medoral.24107  PMID: 33395401  PMCID: PMC7980290
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC7980290/)
+
+Introduction
+
+Peri-implant tissue preservation is crucial when planning restorations on implants placed in aesthetics areas such as the anterior sector of the maxilla. As is well known, tooth extraction is followed by progressive loss of height and thickness of the alveolar bone walls. Specifically, in the anterior sector of the maxilla, a decrease of about 37% in alveolar bone volume has been reported one year after tooth extraction.
+
+Immediate implant placement has been proposed as a way to avoid soft and hard tissue dimensional loss. However, this way of placing implants in aesthetically sensitive sectors requires tooth extraction with minimum trauma to both the soft tissues and the bone surrounding the implants. Furthermore, the surgeon must be able to place the implants in circumstances of limited available bone, reaching primary stability conditions equal to or better than 35 Ncm of insertion torque (IT) or an implant stability (IS) of 65 ISQ determined by resonance frequency analysis (RFA).
+
+Modifications in drilling speed or diameter have been suggested with the purpose of ensuring primary stability parameters capable of guaranteeing osseointegration under conditions characterized by deficient bone quantity and density. Specifically, reduction of the final diameter of the implant bone bed by means of an incomplete drilling sequence known as "undersized drilling" has been proposed to increase IT when placing implants in bone of deficient quality or quantity. Studies in animal models have biomechanically and histologically evaluated the effect of undersized drilling upon implant healing. The results reflect an increase in IT as the final drilling diameter is reduced. However, at histological level, no statistically significant differences were observed in terms of bone-implant contact (BIC) at the end of the osseointegration period. Furthermore, a variable healing pattern was recorded, capable of affecting implant stability during the period between 3-6 weeks after placement.
+
+To date, few data have been published on the benefits of undersized drilling. The technique has been regarded as safe in cases characterized by poor bone density, with no significant differences in percentage osseointegration versus conventional drilling. Nevertheless, comparatively greater cortical bone loss at cervical level has been reported with the undersized drilling approach.
+
+Limited information is available on the effects of undersized drilling in cases of immediate or early implant placement. A follow-up study based on tomographic imaging of three immediate implants showed no variations in bone quality beyond 6 months after the immediate placement of implants with an undersized drilling discrepancy of 28% in the anterior maxilla. A previous study on the effect of four different undersized drilling protocols under conditions similar to those of immediate implant placement in a model of human bone analogs with different density types recorded an increase in IT and ISQ determined by RFA as the final drilling diameter was reduced. However, the differences among the protocols were not statistically significant, and the authors moreover concluded that primary stability under conditions of immediate implant placement could be more associated to bone density than to the drilling protocol used.
+
+Material and Methods
+
+Study design: A randomized, comparative parallel-group clinical trial was carried out in a series of adults requiring single implant treatment and the extraction of a maxillary anterior tooth. The patients were selected according to the enrollment criteria of the population seen in the clinic of the Master of Dentistry and Dental Implantology (Santa Maria University, Dental School, Caracas, Venezuela). The study was approved by the Bioethics Committee of Santa Maria University Dental School (Ref. CBB-FO-USM31032015), and the protocol was registered with ClinicalTrials.gov.
+
+Patient selection: Patients over 18 years of age, with no history of ischemic heart disease, uncontrolled diabetes, coagulation disorders, head or neck radiotherapy, intravenous bisphosphonate use or uncontrolled periodontal disease. CBCT required to confirm bone >= 5 mm from the tooth apex to the lower cortical layer of the nasal fossa / maxillary sinus, with no vertical defects greater than 4 mm at the buccal or palatine alveolar crest.
+
+Implant designs: Thirty tapered conical connection grade 23 titanium alloy (Ti 6Al 4V Eli) implants with a dual acid etching and sandblasting rough surface, 3.75 mm in diameter and 13 mm in length (C1 Implants, MIS Implants Technologies Ltd., Bar Levi, Israel).
+
+Interventions: Two operators calibrated for immediate implant placement performed minimally traumatic tooth extraction under local anesthesia with 4% articaine and 1:100,000 epinephrine.
+
+Sample size: Significance 5% type I error and 10% type II error. Minimum expected effect size in ISQ values of 7 with SD of 5, assuming a 15% dropout rate, a minimum of 28 subjects (14 per group) were required.
+
+Random group assignment: Simple randomization with 1:1 allocation. An external observer tossed a coin just before the start of the drilling sequence.
+
+A) Conventional drilling sequence group (CD): complete drilling protocol: 1) Marking drill diameter 1.9 mm at 1500 rpm; 2) Pilot drill diameter 2.4 mm and 13 mm length at 800 rpm; 3) Twist drill diameter 3 mm at 400 rpm.
+
+B) Undersized drilling sequence group (UD): undersized drilling protocol: 1) Marking drill diameter 1.9 mm at 1500 rpm; 2) Pilot drill diameter 2.4 mm and 13 mm length at 400 rpm. (twist drill 3 mm omitted)
+
+Implant insertion: Surgical motor with 20:1 reducing implant handpiece to insert implants at 20 rpm speed and 10 Ncm torque. Final position achieved with a ratchet, up to depth of 4 mm from the gingival margin.
+
+Study variables:
+- Insertion torque: Two torque meters (MIS MT-RI040 and MT-RT070) to measure the maximum IT reached on positioning.
+- Implant stability assessed by RFA: Smart-peg Nro 49; Osstell ISQ used to obtain ISQ at three timepoints: at insertion (RFA1), at 6 weeks (RFA2) and at 12 weeks (RFA3) post-implantation.
+
+Statistical analysis: SPSS version 20.0. Kolmogorov-Smirnov for normality. Student t-test to compare mean IT. ANOVA for repeated measures to compare ISQ at three timepoints. Significance p < 0.05.
+
+Results
+
+Thirty patients, 19 females (63.3%) and 11 males (36.7%), mean age 48.87 +/- 14.84 years. Thirty tapered implants - 16 CD group (53.3%) and 14 UD group (46.7%) - successfully placed immediately after tooth extraction in the anterior maxilla. No adverse events or implant failures recorded during the 12 weeks of follow-up.
+
+Insertion torque: Median IT of overall implants was 35 Ncm, mean 39.80 +/- 7.14 Ncm (range 17-75 Ncm). Mean IT higher in UD group (41.36 +/- 18.86 Ncm) than CD group (38.44 +/- 15.99 Ncm), difference NOT statistically significant (p = 0.654).
+
+Implant stability assessed by RFA: Progressive and similar increase in implant stability over the weeks in all cases. ISQ values ranged 50.0-79.5. Overall ISQ at insertion mean 64.83 +/- 6.63 (range 50-70). No statistically significant differences between groups at the three timepoints. However, CD group always showed higher ISQ values than UD group. At insertion: CD 65.50 +/- 6.03 vs UD 64.07 +/- 7.41. At 12 weeks overall mean ISQ reached 68.10 +/- 6.21.
+
+ANOVA for repeated measures showed a progressive and similar increase in ISQ over the weeks in both groups with no significant differences between them.
+
+Discussion
+
+Modification of the drilling sequence to increase primary stability in poor density bone was first proposed by Friberg in 1999. Experimental studies in biomechanical analogs of bone, animal models and cadaveric human bone have demonstrated an inversely proportional relationship between reduced final drilling diameter and primary implant stability assessed on the basis of IT or RFA.
+
+This study is probably the first randomized comparative clinical trial to assess the effect of undersized drilling upon the primary stability of immediate implants. The IT (mean 39.80, range 17-75 Ncm) and RFA (mean 64.83, range 50-70 ISQ) confirmed the viability of the immediate implantation technique. The comparative analysis confirmed that reducing the diameter of drilling increases the IT values (41.36 in UD vs 38.44 in CD). These results are similar to previous studies in analog human bone and animal models where undersized drilling was associated with increased IT, though no differences were found in BIC or BAFO. Toia et al. evaluated 108 implants in fully healed bone and confirmed a difference in IT between undersized and conventional drilling, particularly under low bone density - but IT increments with undersized drilling failed to reach statistical significance.
+
+Several publications suggest no clear association between IT and RFA. Our results support this: mean RFA in CD group (lower IT) was greater than UD group (65.50 vs 64.07). Increasing IT does not necessarily imply increased stability as assessed by RFA.
+
+Greater IT values with undersized drilling attributed to higher bone compression, therefore greater bone remodeling during osseointegration, which could affect implant stability. Kim used RFA in first 10 weeks and recorded a decrease in ISQ during the first three weeks in mature bone, followed by recovery from week 4 and gradual increase from week 6 to 12. After week 6 of follow-up higher mean ISQ values were recorded in both groups versus at placement.
+
+Throughout follow-up, the CD group presented greater stability as assessed by RFA than the UD group. These results could support Coelho and Norton, who suggested that increased IT could cause a loss of stability in early osseointegration due to increased bone remodeling from bone compression and warming secondary to friction.
+
+Twelve weeks after placement, mean ISQ reached 68.10 +/- 6.21, still lower in UD than CD. From the clinical perspective it could be assumed that undersized drilling during immediate implant placement in the maxilla was not necessary.
+
+The mean RFA values during follow-up did not reach ISQ 70 (defined as optimum for immediate occlusal loading). Therefore, regardless of IT at insertion, occlusal loading of immediate implants in the anterior maxilla should take place after 12 weeks when osseointegration has occurred.
+
+Conclusions
+
+Based on the results obtained, undersized drilling does not appear to afford significantly improved stability of immediate implants placed in the anterior sector of the maxilla during the osseointegration period.
