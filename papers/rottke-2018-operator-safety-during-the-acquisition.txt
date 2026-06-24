@@ -1,0 +1,28 @@
+Operator safety during the acquisition of intraoral images with a handheld and portable X-ray device
+
+Authors: Dennis Rottke, Lisa Gohlke, Robert Schrödel, Stefan Hassfeld, Dirk Schulze
+Journal: Dentomaxillofacial Radiology (Dentomaxillofac Radiol). 2018;47(3):20160410.
+Publication date: 2018-02-07
+DOI: 10.1259/dmfr.20160410
+PMID: 29319336
+PMCID: PMC6047632
+
+NOTE: PMC full-text body was not retrievable via PubMed MCP (get_full_text_article returned an empty body). The content below is the journal ABSTRACT only, retrieved from PubMed article metadata. Sources/wiki pages built from this txt are marked full_text: false (abstract-only).
+
+ABSTRACT
+
+Objectives:
+The present study aims at investigating different radiation protection issues and dose values while acquiring intraoral images with a handheld X-ray device.
+
+Methods:
+An Aribex NOMAD Pro 2, a RANDO male head phantom, a consistency testing body, a PTW NOMEX Multimeter, and a PTW Farmer Ionization Chamber Type 30010 were used to investigate: (1) dose area products; (2) the expansion of the control area (CA); (3) the scattering pattern and (4) the potential risk for operators of the X-ray device.
+
+Results:
+Dose area products at different exposure times were distributed linearly with a high correlation factor (>0.9). At 4000 simulated exposures, the greatest extent of the CA was 42 cm (mean = 16.7 cm, SD = 10.8 cm). The highest occurrence of scattering radiation resulted between the RANDO phantom and the X-ray device. No scattered radiation was measured at the dorsal part of the phantom or on the operator site of a virtual vertical plane through the focal spot of the X-ray.
+
+Conclusions:
+Through this study, we could demonstrate that the application of an Aribex NOMAD Pro 2 device for intraoral imaging does not increase the risk for the operator if the device is controlled according to the manufacturer's specifications. Furthermore, we were able to show that the CA was significantly smaller than specified by European and other international radiation protection standards.
+
+MeSH terms: Equipment Design; Occupational Health; Phantoms, Imaging; Radiation Dosage; Radiation Protection; Radiography, Dental.
+
+Source: PubMed / PubMed Central. DOI: https://doi.org/10.1259/dmfr.20160410
