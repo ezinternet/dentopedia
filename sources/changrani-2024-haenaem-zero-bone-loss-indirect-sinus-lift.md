@@ -9,6 +9,9 @@ pdf_filename: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 source_collection: external
 ---
 
+> [!warning] RETRACTED — do not cite
+> This article (Cureus 2024, DOI 10.7759/cureus.73130) was Corrected on 2024-11-21 (cureus.c200) and was **subsequently retracted**. The held PDF predates the retraction and shows only the correction; retraction confirmed by the maintainer. Full text retained **for completeness only** (sole prospective HaeNaem indirect-sinus-lift dataset) under a deliberate exception to the CLAUDE.md retraction policy. Do **NOT** cite these findings as clinical evidence. (set 2026-06-24)
+
 ## Why Ingested
 
 기존 경치조골 상악동 거상 문헌(OD 계열)은 Densah 버 시스템(반시계방향, CCW) 중심으로 구축되어 있음. [[sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]] 등의 SR/MA도 Densah 데이터 위주이다. 본 논문(Changrani 2024)은 시계방향(CW) 정방향 회전을 사용하는 대안 버 시스템인 HaeNaem Zero Bone Loss Kit의 유일한 임상 데이터를 제공함으로써 버 메커니즘 다양성을 문서화한다.
