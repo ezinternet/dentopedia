@@ -648,6 +648,10 @@ tags: []
 - [[halitosis/huang-2022-efficacy-of-probiotics-in]] — SR+MA of 7 RCTs showing probiotics reduce OLP scores and VSC levels short-term (≤4 weeks); only OLP improvement sustained long-term
 
 ## 근관치료 — 해부·접근·진단 (Endodontics: Anatomy / Access / Detection)
+- [[endodontics/anatomy/aung-2022-three-rooted-mandibular-first-molars-prevalence-ma]] — Aung 2022 · sr+ma · 하악 제1대구치 3근(원심설측근) 전세계 유병률 치아 8.85%·환자 10.3%, 동아시아>유럽 인종 그라디언트 (DOI 10.1155/2022/9411076)
+- [[endodontics/anatomy/al-rammahi-2023-mandibular-first-molar-microct-anatomy-sr]] — Al-Rammahi 2023 · sr+ma · micro-CT 30편 하악 제1대구치: 근심근 Vertucci Type IV·원심근 Type I 우세, MMC 최대 46%, isthmus 10–100% (DOI 10.1186/s12903-023-03036-5)
+- [[endodontics/anatomy/wolf-2024-maxillary-canines-root-canal-configuration-sr-ma]] — Wolf 2024 · sr+ma · 상악 견치 근관형태 22편: Vertucci I(단일 근관) 75.4–100% 우세, 최대 ~25% 변이 (DOI 10.1186/s12903-024-04682-z)
+- [[endodontics/anatomy/gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma]] — González-Mancilla 2022 · sr+ma · CBCT 치내치 통합 유병률 9.0% (2D의 약 2배), 상악 측절치 호발·Oehlers Type I 최다 (DOI 10.4317/jced.59849)
 - [[endodontics/anatomy/tulegenova-2025-cshaped-canal-second-mandibular-premolar-sr-ma]] — Tulegenova 2025 · sr+ma · 하악 제2소구치 C-형 근관 유병률 풀링 1.31%(환자)/0.96%(치아); 남미 최고·호주 최저, I²=90–93% (DOI 10.4103/ijdr.ijdr_682_24)
 - [[endodontics/anatomy/song-2008-cross-sectional-morphology-and-minimum-canal]] — C-shaped canal morphology 30–50% prevalence in Asian populations; buccal concavity minimum dentin thickness creates high perforation risk; conservative instrumentation essential
 - [[endodontics/anatomy/jo-2017-fundamentals-and-clinical-applications]] — Anatomical variation is fundamental constraint, not challenge to overcome; 16+ years experience reveals MORE complexity, not less; realistic expectations and case selection critical
@@ -1371,6 +1375,9 @@ tags: []
 - [[overviews/food-impaction-proximal-contact-loss-overview]] — 식편압입·임플란트 PCL 종합 (9편 합성, 2026-06-08 신규 카테고리): 임플란트는 mesial drift 미추종 → 시간의존·mesial 우위 PCL이 inevitable·progressive; 통합 mesial 44.2% vs distal 27.5%(Sheba), >5년 29–83.3%(Abduo), 절반 19.2개월 내(Kim 2025); 예방보다 조기 감시·재형성, 고위험(기존 interproximal gap OR 2.7–3.3·인접치 치주상태·기능기간) 식별; prosthesis design RCT 공백
 
 ## 구강내과 — 구강점막질환 (Oral Medicine: OPMD / OLP / BMS / RAS)
+- [[oral-medicine/khan-2023-trigeminal-neuralgia-therapeutic-approach-sr]] — Khan 2023 · sr · 삼차신경통 약물 사다리, 1차 카르바마제핀·옥스카르바제핀, 2차 라모트리진·바클로펜, 난치성 BoNT-A·MVD (DOI 10.3390/biomedicines11102606)
+- [[oral-medicine/alkhutari-2023-post-traumatic-trigeminal-neuropathy-endodontic-sr]] — Alkhutari 2023 · sr · 근관치료는 외상성 삼차신경병증(PTTN)의 6-8% 원인, 40대 여성 호발·치료 후 3-48개월 발현 (DOI 10.7759/cureus.32675)
+- [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — Viscuso 2025 · cross-sectional · 이탈리아 치과의 634명 중 29%가 PTTN을 모르고 대부분 비가역 치료로 오대응, 의뢰는 3명 중 1명뿐 (DOI 10.22514/jofph.2025.009)
 - [[oral-medicine/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — Jian 2024 · sr+ma · 탈리도마이드 21 RCT(1668명): 완전반응·재발간격 개선하나 부작용↑, major/난치성 RAS에 25mg/d 한정
 - [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — D'Amario 2025 · narrative-review · RAS 치료 RCT 45편: 비약물(LLLT·오메가-3·천연젤)이 코르티코스테로이드급 효과, LLLT 통증완화 최속
 - [[oral-medicine/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — Andriakopoulou 2024 · sr+ma · 소아암 구강점막염 34 RCT: 국소 꿀이 입원기간 단축(MD −4.33일), LLLT는 무효 (abstract-only)
