@@ -1,0 +1,27 @@
+Justification and good practice in using handheld portable dental X-ray equipment: a position paper prepared by the European Academy of DentoMaxilloFacial Radiology (EADMFR)
+
+Authors: W E R Berkhout (1), A Suomalainen (2), D Brüllmann (3), R Jacobs (4), K Horner (5), H C Stamatakis (6)
+
+Affiliations:
+1. Department of Oral Radiology, Academic Center for Dentistry Amsterdam (ACTA), Amsterdam, Netherlands.
+2. Department of Radiology, HUS Medical Imaging Center, Helsinki University Central Hospital and University of Helsinki, Helsinki, Finland.
+3. Department of Oral Surgery, University Medical Center, Mainz, Germany.
+4. Oral Imaging Center, OMFS-IMPATH Research Group, Department of Imaging and Pathology, Faculty of Medicine, University of Leuven, Leuven, Belgium.
+5. School of Dentistry, University of Manchester, Manchester Academic Health Science Centre, Manchester, UK.
+6. Department of Orthodontics, University Medical Center of Groningen, Groningen, Netherlands.
+
+Journal: Dentomaxillofacial Radiology (Dento maxillo facial radiology)
+Volume 44, Issue 6, pages 20140343
+Publication date: 2015-02-24
+DOI: 10.1259/dmfr.20140343
+PMID: 25710118
+PMCID: PMC4628399
+Article types: Journal Article; Consensus Statement
+Keywords: X-ray; dental; handheld; portable
+MeSH terms: Humans; Occupational Exposure; Patient Safety; Radiation Dosage; Radiation Monitoring; Radiation Protection; Radiography, Dental; Scattering, Radiation
+
+ABSTRACT (retrieved via PubMed; PMC full body text not retrieved — abstract-only)
+
+Handheld portable X-ray devices are increasingly used for intraoral radiography. This development introduces new challenges to staff and patient safety, for which new or revised risk assessments must be made and acted upon prior to use. Major issues might be: difficulties in using rectangular collimation with beam aiming devices, more complex matching of exposure settings to the X-ray receptor used (e.g. longer exposure times), movements owing to the units' weight, protection of the operator and third persons, and the use in uncontrolled environments. These problems may result in violation of the "as low as reasonably achievable", that is, ALARA principle by an increase in (re)exposures compared with the other available intraoral X-ray devices. Hence, the use of handheld portable X-ray devices should be considered only after careful and documented evaluation (which might be performed based on medical physics support), when there is evidence that handheld operation has benefits over traditional modalities and when no new risks to the operators and/or third parties are caused. It is expected that the use of handheld portable X-ray devices will be very exceptional, and for justified situations only. Special attention should be drawn to beam-aiming devices, rectangular collimation, the section of the X-ray receptor, focus-skin distance, and backscatter shielding, and that the unit delivers reproducible dose over the full set of environmental conditions (e.g. battery status and temperature).
+
+Source: PubMed / PMC — https://pmc.ncbi.nlm.nih.gov/articles/PMC4628399/
