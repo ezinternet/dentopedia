@@ -1,0 +1,35 @@
+The effects of device position on the operator's radiation dose when using a handheld portable X-ray device
+
+Authors: Jimmy Makdissi, Ravikiran R Pawar, Ben Johnson, Bun S Chong
+Journal: Dentomaxillofacial Radiology (Dentomaxillofac Radiol), 2016; 45(3): 20150245
+DOI: 10.1259/dmfr.20150245
+PMID: 26764582  PMCID: PMC4846146
+Publication date: 2016-01-14
+
+Affiliations:
+1. Dental and Maxillofacial Radiology, Queen Mary University of London, Barts and The London School of Medicine and Dentistry, Institute of Dentistry, London, UK.
+2. Radiation Protection Group, Medical Physics, Southampton General Hospital, Southampton, UK.
+3. Restorative Dentistry, Adult Oral Health, Queen Mary University of London, Barts and The London School of Medicine and Dentistry, Institute of Dentistry, London, UK.
+
+Keywords: NOMAD, dental, dentistry, handheld, portable, radiation dose
+MeSH: Algorithms; Equipment Design; Fingers; Hand; Humans; Occupational Exposure; Phantoms, Imaging; Radiation Dosage; Radiation Protection; Radiography, Dental; Relative Biological Effectiveness; Scattering, Radiation; Thermoluminescent Dosimetry; Thyroid Gland; Torso
+
+NOTE: PMC full-text body was not retrievable (empty full_text field; access restricted). The text below is the complete structured abstract retrieved verbatim via PubMed/PMC.
+
+=== ABSTRACT (structured, verbatim) ===
+
+Introduction:
+
+Handheld X-ray devices are now offered in dental practice. Handheld X-ray units challenge the concept of a restricted access to the "controlled area" as they are held by the operator. Although an integral lead shield is provided, the distance from the body is variable, dependent on how the device is held. The aim of this article was to investigate the level of operator dose when using a handheld X-ray device in various positions.
+
+Material and Methods:
+
+A NOMAD Pro™ Handheld X-ray system (Aribex Inc., Charlotte, NC) fitted with a remote control and mounted on a tripod was used in this study. A maxillofacial phantom ATOM(®) Max Dental and Diagnostic Phantom, model 711 HN (CIRS Inc., Norfolk, VA) was used to simulate the patient's head position. A mannequin was used to represent the operator. Pre-calibrated thermoluminescent dosemeters (TLDs) (Qados, Agar Scientific, Stansted, UK) were placed on the mannequin close to the eyes and at the level of thyroid, trunk, waist, hand (right finger + left palm) and feet, and three TLDs were used for background radiation. Three test scenarios were investigated; Position 1, close to operators' body and parallel to the ground; Position 2, away from the body with the arms fully extended (approximately 40 cm distance) and parallel to the ground; Position 3, perpendicular to the ground while the arms are partially extended. 30 exposures each of 1 s were performed in each test.
+
+Results:
+
+Background radiation was measured at 0.0110 mGy. The highest exposure after subtracting background radiation was recorded on the palm of the left hand (0.0310 mGy) at Position 3. The estimated dose to the operator was calculated based on an average workload of 100 intraoral radiographs weekly for a dental practitioner working 46 weeks a year.
+
+Conclusions:
+
+There is a negligible increase in operator exposure levels using handheld X-ray devices which remain well below the recommended levels of the Ionizing Radiation Regulations 1999. They could however represent an increase from what should be a nil exposure when using a wall-mounted machine. The position of the device relative to the operator has a significant effect on the overall operator's radiation exposure. The use of personal dosemeters is highly recommended to ensure a continuity of low radiation dose exposure. Furthermore, guidance, training and protocols on usage must be in place, strictly adhered to and regular audits are necessary to ensure compliance.
