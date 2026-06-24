@@ -3,8 +3,10 @@ title: "Saving the split: An umbrella review on therapeutic approaches for crack
 authors: Supreet Kaur, Lakshmi Puzhankara, Neetha Shenoy, Sandya Kini K, Deepak Kumar Singhal
 year: 2026
 date: 2026-01-01
-doi: 10.4103/JCDE.JCDE_404_25
-journal: Journal of Conservative Dentistry and Endodontics 29(1):11-?
+doi: 10.4103/JCDE.JCDE_796_25
+pmid: "41660023"
+pmcid: "PMC12880780"
+journal: Journal of Conservative Dentistry and Endodontics 29(1):11-19
 source: kaur-2026-cracked-tooth-syndrome-umbrella-review.md
 confidence: sr
 category: [cracked-tooth]
