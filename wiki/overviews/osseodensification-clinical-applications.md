@@ -18,6 +18,8 @@ source_papers:
   - wiki/implants/mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma.md
   - wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary.md
   - wiki/implants/neiva-2018-effects-osseodensification-astra-tx-ev.md
+  - wiki/implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification.md
+  - wiki/implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant.md
   - wiki/implants/el-kholey-2019-drilling-technique-low-density-bone-sr.md
   - wiki/implants/tabassum-2021-undersized-axial-compression-primary-stability.md
   - wiki/implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling.md
@@ -48,6 +50,7 @@ agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 > - 발열 안전(Soldatos 2024): 3.0/4.0 버를 23회 이상 재사용+800/1200 RPM 시 ΔT가 골괴사 임계 47°C 초과, 1000 RPM이 최저 발열 → 버 ~23회 교체·무작정 고RPM 금지·관수 보조.
 > - 상악동저 보강: TSFE 적응(잔존골 높이(Residual Bone Height, RBH) 4–8mm), Starch-Jensen 2025 SR+MA(6 RCT, low GRADE)에서 OD가 ISQ 우위·생존 동등, 천공률 7.31%(Mazor 2024)이나 RBH ≤3mm가 천공 독립 위험인자.
 > - CBCT가 RBH를 약 1.86mm 과소평가(Ragher 2026) → borderline 케이스에서 CBCT 단독 의존 경고, 이중 모달리티 권장.
+> - Bench 보강(2026-06-24): Tao 2025(CNC, Type IV foam)는 OD가 토크는 크게 올리되 임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 동등(47.1 vs 46.7, p=0.86)임을 통제 환경에서 재현하며 드릴링 파라미터 권고(1500 rpm·0.04 mm·z⁻¹·관수)를 신설; Barberá-Millán 2021은 OD가 기존 언더드릴링(Under-Drilling, UD) 대조군조차 삽입토크(21.72 vs 8.87 Ncm)·ISQ(69.75 vs 65.16) 모두 능가 — 저밀도골 1차 안정성 이득 보강.
 > - 저밀도골(D3–D4)·상악동저 보강이 가장 active한 두 시나리오, 좁은 ridge·즉시식립은 단독 SR 부재로 spoke pending(추가 ingest 우선순위 P1).
 > - 한계: search cutoff 2023, RCT 부족·follow-up 짧음, Versah Inc. 후원 연구 다수 → 환자 동의서에 "근거 수준 낮음–중등" 언급 권장.
 
@@ -97,8 +100,8 @@ Hub-and-spoke synthesis using Fontes Pereira 2023 SR as spine to map osseodensif
 
 | Outcome | OD vs Conventional | Consistency | Confidence | 비고 |
 |---------|--------------------|-------------|------------|------|
-| Insertion Torque (IT) | OD ↑ 유의 | High | [근거강함] | 모든 included studies에서 일관; bergamo 2021 multicenter CCT도 재확인 |
-| ISQ (식립 시점, 1차) | OD ↑ 대부분 / **저밀도골 SR+MA에서는 NS** | **Low–Moderate ↓ (하향)** | [합의수준, 논쟁적] | althobaiti 2023 SR·bergamo 2021은 ↑; **mohammadi 2025 SR+MA (7편) 1차 MD=4.13 p=0.13 NS**, al-ahmari 2022 split-mouth도 NS |
+| Insertion Torque (IT) | OD ↑ 유의 | High | [근거강함] | 모든 included studies에서 일관; bergamo 2021 multicenter CCT도 재확인; **bench에서도 재현 — Tao 2025 (CNC, Type IV foam) IT 11.73 vs 7.77 N·m·RT 9.28 vs 6.65 N·m p<0.001; Barberá-Millán 2021 (돼지경골 D4)은 OD 21.72 vs under-drilling 8.87 Ncm p=0.000으로 under-drilling 대조군조차 능가** |
+| ISQ (식립 시점, 1차) | OD ↑ 대부분 / **저밀도골 SR+MA에서는 NS** | **Low–Moderate ↓ (하향)** | [합의수준, 논쟁적] | althobaiti 2023 SR·bergamo 2021은 ↑; **mohammadi 2025 SR+MA (7편) 1차 MD=4.13 p=0.13 NS**, al-ahmari 2022 split-mouth도 NS; **Tao 2025 bench도 ISQ NS (47.1 vs 46.7, p=0.86) — torque↑·ISQ NS divergence를 통제된 CNC 환경에서 재현**. 단 Barberá-Millán 2021은 OD ISQ 69.75 vs UD 65.16 p=0.001로 ↑ (대조군이 plain drilling이 아닌 under-drilling이라 baseline이 이미 높았음에도) |
 | ISQ (2차/치유 후) | OD ↑ (동물 RCT·CCT) | Moderate | [합의수준] | arpudaswamy 2025 (rabbit, 3mo ISQ↑), bergamo 2021 (전 기간 ISQ≥68) — **이득은 1차보다 2차 안정성에 있을 가능성** |
 | BIC | OD ↑ (인비트로 ×3, 인비보 제한적) | Low–Moderate | [근거강함, in-vitro] / [합의수준, in vivo] | 인비보 휴먼 데이터 부족; 척추 모델 lopez 2017·torroni 2021이 OD BIC·pullout 우위 보강(외삽 주의) |
 | Survival rate | OD = Conventional | High | [근거강함] | 단기 follow-up |
@@ -173,6 +176,8 @@ graph LR
 - [[wiki/implants/bergamo-2021-osseodensification-effect-implants-primary-secondary|Bergamo et al. 2021 multicenter CCT (56명·150 임플란트)]] [합의수준] — OD가 IT·ISQ 모두 유의 우위, ISQ 3주 dip 후 6주 회복하나 OD는 전 기간 ISQ≥68 유지. **단 short 임플란트는 예외(차이 없음)**.
 - [[wiki/implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit|Arpudaswamy 2025 (토끼 D4 split-body RCT)]] [animal] — 식립 시점 ISQ는 차이 없으나 **3개월 ISQ·IT 유의 ↑ → 이득은 2차 안정성**.
 - [[wiki/implants/neiva-2018-effects-osseodensification-astra-tx-ev|Neiva 2018 (sheep e-poster)]] [animal] — IT/RFA OD 압도적 우위, EV 시스템에서 BIC/BAFO도 ↑.
+- [[wiki/implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification|Barberá-Millán et al. 2021 (in vitro, 돼지경골 Type IV, n=55/group)]] [근거강함, in-vitro] — **대조군이 plain drilling이 아닌 conventional under-drilling(UD)**이라는 점에서 가장 엄격한 D4 비교: OD가 UD 대비 IT 21.72 vs 8.87 Ncm (≈2.4배, p=0.000)·ISQ 69.75 vs 65.16 (p=0.001) 모두 유의 우위. torque–ISQ는 sigmoid 관계로 ISQ가 ~75.6에서 plateau (그 이상의 torque는 추가 안정성 없음). 즉 **이미 under-sizing한 soft-bone 프로토콜조차 OD가 능가** — D4에서 OD의 1차 안정성 이득을 보강.
+- [[wiki/implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant|Tao et al. 2025 (in vitro CNC, Type IV foam 0.160 g/cm³)]] [근거강함, in-vitro] — **드릴링 파라미터 최적화** 관점을 추가: OD vs CD(BLT tapered)에서 IT 11.73 vs 7.77 N·m·RT 9.28 vs 6.65 N·m (모두 p<0.001)로 torque 우위·골벽 결함 적음·발열 낮음이나 **ISQ는 동등(47.1 vs 46.7, p=0.86)** — torque↑/ISQ NS divergence를 CNC 통제 환경에서 깔끔하게 재현. 권장 OD 셋팅 **1500 rpm·0.04 mm·z⁻¹·관수 동반**(Type IV).
 - [[wiki/overviews/d4-bone-densah-protocol|d4-bone-densah-protocol]] — **D4 전용 chairside 인터랙티브**.
 
 **반례 (논쟁) — living-document 갱신 핵심**:
@@ -180,6 +185,8 @@ graph LR
 - [[wiki/implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw|Al-Ahmari 2022 split-mouth (20명·40 임플란트)]] [합의수준, 반례] — **골밀도만 OD↑, 1차·2차 안정성·PI·BOP·PD·MBL은 NS**.
 
 **임상 종합**: Fontes Pereira 2023은 D3–D4를 "greatest OD benefit" 시나리오로 명시했으나, **2025 인체 SR+MA(mohammadi)는 ISQ 이득을 재현하지 못함**. 현재 합의: IT(1차 기계적 고정)는 일관되게 ↑, 그러나 **RFA로 측정되는 ISQ 이득은 인체에서 불확실**하고 이득이 있다면 2차 안정성(동물 RCT)에 가까움. 환자 설명 시 "삽입 토크는 확실히 개선, 안정성 수치(ISQ) 이득은 근거 혼재"로 분리 권장.
+
+이 torque-vs-ISQ 분리는 2026년 bench 근거가 더 또렷하게 만든다. **Tao 2025**가 CNC로 hand-pressure noise를 제거한 통제 환경에서 OD가 torque는 크게 올리되 ISQ는 동등(p=0.86)임을 재현 — divergence가 측정 노이즈가 아니라 두 지표가 측정하는 물리량이 다르다는 구조적 현상임을 시사한다. 동시에 Tao 2025는 기존 overview에 없던 **드릴링 파라미터 축**(속도·feed·관수)을 추가: Type IV에서 1500 rpm·0.04 mm·z⁻¹·관수 동반이 권장 OD 셋팅이며, 무관수는 양 술식 모두 thermal damage 위험(§1 Soldatos 발열 규칙과 정합). 한편 **Barberá-Millán 2021**은 ISQ 결과의 nuance를 더한다 — 인체 SR+MA가 NS인데도 이 bench에서는 OD ISQ가 유의 우위(p=0.001)였는데, 대조군이 plain drilling이 아닌 이미 under-sizing한 UD였음에도 OD가 능가했다는 점이 핵심이다. 종합하면: **저밀도골에서 OD의 1차 기계적 고정(IT/RT) 이득은 bench·cadaver·동물에서 매우 견고**하고 under-drilling 대조군조차 능가하지만, **ISQ 이득은 in-vitro에서는 관찰되다가 인체 SR+MA에서 사라지는** 모순이 남아 있어, "torque는 확실, ISQ는 혼재" 프레이밍을 유지한다.
 
 ### 3-4. 즉시식립 (post-extraction immediate placement)
 
@@ -213,6 +220,7 @@ graph LR
 - **Search cutoff 2023**: 2024–2026 추가 RCT·SR (예: [[konuklu-2026-five-osteotomy-protocols-isq-rct]], [[starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis]]) 반영 필요 — 본 overview는 이미 반영, Fontes Pereira 2023 페이지 자체는 그대로.
 - **저밀도골 ISQ 명제 하향 (2026-06-01 갱신)**: [[mohammadi-2025-osseodensification-conventional-low-density-bone-sr-ma]] SR+MA가 저밀도골 1차·2차 ISQ 모두 NS로 보고 — Fontes Pereira 2023의 "greatest benefit" 프레이밍과 충돌. Outcome matrix ISQ 행을 1차/2차로 분리하고 confidence를 하향. [[al-ahmari-2022-osseodensification-conventional-low-density-jaw]] split-mouth도 반례. **이득은 IT(기계적)에 확실, ISQ(RFA)는 인체 근거 혼재**로 재정식화.
 - **발열 안전 변수 추가**: [[soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — 버 재사용 횟수·RPM이 골괴사 위험의 결정 변수. 향후 인체 thermal RCT 들어오면 갱신.
+- **저밀도골 bench 보강 + 파라미터 축 신설 (2026-06-24 갱신)**: [[tao-2025-optimizing-osseodensification-drilling-implant]]와 [[barbera-millan-2021-primary-stability-low-density-osseodensification]] 두 in-vitro Type IV 연구가 ① IT/RT 이득의 견고성(Tao CNC·Barberá-Millán under-drilling 대조군조차 능가)과 ② torque↑/ISQ NS divergence(Tao p=0.86)를 재확인. Tao 2025는 overview에 없던 **드릴링 파라미터 권고(1500 rpm·0.04 mm·z⁻¹·관수)**를 더해 Soldatos 발열 규칙과 정합. 단 Barberá-Millán은 bench에서 OD ISQ 유의 우위(p=0.001)라 mohammadi 2025 인체 SR+MA(NS)와 in-vitro↔in-vivo 모순이 잔존 — 인체 RCT로만 해소 가능.
 - **Included studies 이질성**: protocol·bur 사이즈·rpm·골질 정의가 일관되지 않음 — RCT가 들어올 때마다 outcome matrix의 confidence 재평가.
 - **Conventional drilling 정의 모호**: 일부 included studies가 "standard"를 명확히 정의하지 않음 — 본 overview는 OD vs. CW + irrigation으로 가정 [추정].
 - **저자 conflict of interest**: Versah Inc. 후원 연구 다수 included — independent RCT 추가 시 갱신.
@@ -244,6 +252,8 @@ graph LR
 - [[implants/isq/al-ahmari-2022-osseodensification-conventional-low-density-jaw]] — split-mouth 반례 (안정성 NS)
 - [[implants/isq/arpudaswamy-2025-osseodensification-conventional-implant-stability-rabbit]] — 토끼 D4 RCT (2차 안정성↑)
 - [[implants/neiva-2018-effects-osseodensification-astra-tx-ev]] — sheep (IT/RFA·BIC 우위)
+- [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — in-vitro 돼지경골 D4: OD가 conventional **under-drilling** 대조군조차 IT(21.72 vs 8.87 Ncm)·ISQ(69.75 vs 65.16) 모두 능가 — D4 1차 안정성 이득 보강
+- [[implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant]] — in-vitro CNC Type IV: OD torque↑(IT 11.73 vs 7.77 N·m)·ISQ NS(47.1 vs 46.7) divergence 재현 + 드릴링 파라미터 권고(1500 rpm·0.04 mm·z⁻¹·관수)
 - [[implants/soldatos-2024-temperature-changes-osseodensification-cadaver-tibiae-cw-ccw]] — 발열·버 재사용 안전 (47°C 임계)
 - [[implants/torroni-2021-osseodensification-lumbar-fixation-ovine-pedicle-screw]] — 척추 pedicle screw pullout (외삽 주의)
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 척추 hardware pullout·BIC (외삽 주의)
