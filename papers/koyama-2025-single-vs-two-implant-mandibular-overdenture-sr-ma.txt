@@ -1,0 +1,95 @@
+Single versus two implant-supported mandibular overdentures: a systematic review and meta-analysis of implant survival and prosthetic complications
+Koyama et al., 2025. International Journal of Implant Dentistry.
+DOI: 10.1186/s40729-025-00647-1 | PMID: 41003876 | PMCID: PMC12474779
+Source: PubMed Central full text (PMC12474779)
+
+=== BACKGROUND ===
+
+The restoration of occlusion using complete dentures has long been the most common treatment modality for patients with edentulism. However, conventional complete dentures often significantly reduce masticatory efficiency, particularly in the mandible, where issues such as poor denture stability and insufficient retention pose major clinical challenges.
+
+Implant-supported overdentures (IODs) for patients with mandibular edentulism have been reported to offer superior stability and retention compared with conventional removable dentures, thereby improving masticatory efficiency, occlusal force, and patient satisfaction. The McGill Consensus Statement in 2002 and the York Consensus Statement in 2009 recommended the use of two IODs (2-IODs) as the first-choice treatment for edentulous mandibles. These statements have contributed to the widespread adoption of 2-IODs as the standard treatment for mandibular IOD. However, the cost of 2-IODs has been reported to be approximately 1.56 to 2.4 times higher than that of conventional complete dentures, which constitutes a significant financial burden for patients.
+
+Recently, single IODs (1-IODs) have garnered attention as potential alternatives to conventional complete dentures. Several studies have reported that 1-IOD can enhance masticatory performance compared with conventional dentures (Pinheiro and Kashyap). A systematic review by Nogueira et al. demonstrated that the use of 1-IOD in patients with edentulism significantly improves their quality of life and satisfaction. Additionally, AlSourori et al. reported that the placement of a single implant in the mandibular midline improves denture retention.
+
+If 1-IODs can serve as a viable alternative to conventional complete dentures, it may offer advantages over 2-IODs in terms of reduced invasiveness and lower treatment costs.
+
+Aim: this systematic review aimed to evaluate and compare the implant survival and prosthetic complication rates of 1- and 2-IODs based on the existing literature.
+
+=== METHODS ===
+
+PRISMA guidelines. Protocol prospectively registered in PROSPERO (CRD420250644169).
+
+PICOT:
+[P] Patients with complete edentulism wearing 1- or 2-IODs.
+[I] 1-IOD.
+[C] 2-IOD.
+[O] Implant and prosthesis failures.
+[T] Follow-up period > 12 months.
+
+Eligibility: Only randomized controlled trials (RCTs) comparing 1- and 2-IODs.
+
+Search: PubMed, Google Scholar, CENTRAL, Web of Science. Final search April 2025. Key terms: (A) dental implant, (B) denture, (C) mandible, (D) single or double, (E) randomized.
+
+Statistics: Dichotomous outcomes analyzed using risk ratios (RR) with 95% CIs; continuous outcomes as mean differences (MDs) with 95% CIs. Significance p < 0.05. Random-effects model used for all meta-analyses. Heterogeneity assessed using chi-square test and I². RevMan version 5.4.1. Funnel plots for publication bias.
+
+Risk of bias: Cochrane Risk-of-Bias 2 (RoB 2) tool. Studies in which no events occurred in either group were excluded from the meta-analysis (RR could not be calculated).
+
+=== RESULTS ===
+
+Search results: 1,083 articles identified. After excluding 289 duplicates, 794 remained. After title/abstract screening, 762 excluded, leaving 32 for full-text review. Of these, 15 excluded (two unavailable full text, six duplicate data, six observation period < 1 year, one insufficient data). Finally 17 articles included.
+
+Included studies — follow-up periods ranged 12–60 months; patient ages mid-50s to mid-60s; attachments ball or Locator; loading immediate, 2W, 21D, 6W, or 3M. Implant systems included Neobiotech, Sterngold, Dentis, Straumann (SLA/SLActive/Roxolid), ADIN, Neodent, Brånemark TiUnite, Conexão, Implantium.
+
+--- Implant failure (1Y / 3Y / 5Y) ---
+No statistically significant differences in implant survival rates between 1- and 2-IOD groups at 1-, 3-, and 5-year follow-ups. Subgroup analyses by loading protocols revealed no significant differences between groups.
+
+--- Denture fracture (1Y / 3Y / 5Y) ---
+1 year: statistically significant difference, RR 2.28 (95% CI 1.01–5.14, p = 0.05, I² = 0%, P heterogeneity = 0.88).
+3 years: no significant difference, RR 2.08 (95% CI 0.82–5.28, p = 0.12, I² = 40%, P heterogeneity = 0.20), mild heterogeneity.
+5 years: RR 2.10 (95% CI 1.21–3.64, p = 0.008, I² = 0%, P heterogeneity = 0.80) — risk of denture fracture in 1-IOD group approximately twice as high as 2-IOD group.
+
+--- New denture fabrication (3Y / 5Y) ---
+No cases of denture replacement within 1 year reported in any included study; no meta-analysis for that period.
+3 years: RR 2.29 (95% CI 0.76–6.90, p = 0.14, I² = 0%, P heterogeneity = 0.19), no significant difference.
+5 years: RR 2.57 (95% CI 1.11–5.94, p = 0.03, I² = 0%, P heterogeneity = 0.94) — denture replacement more common in 1-IOD group.
+
+--- Relining (1Y / 3Y / 5Y) ---
+No statistically significant differences in frequency of mandibular IOD relining at 1, 3, and 5 years.
+
+--- O-ring replacement (1Y / 3Y / 5Y) ---
+No statistically significant differences in frequency of O-ring replacement at 1, 3, and 5 years.
+
+--- Reattachment of metal housing (1Y / 3Y / 5Y) ---
+1 year: no statistically significant difference.
+3 years: RR 2.29 (95% CI 1.04–5.04, p = 0.04, I² = 56%, P heterogeneity = 0.10) — significant.
+5 years: RR 2.31 (95% CI 1.03–5.18, p = 0.04, I² = 84%, P heterogeneity = 0.01) — significant, but substantial heterogeneity.
+
+Risk of bias: Most studies low risk across several domains. Some studies "some concerns" for randomization process. 5-year follow-up studies had high proportion of missing outcome data → "some concerns" for missing outcome data.
+
+Publication bias: Funnel plot symmetrical → low risk of publication bias.
+
+=== DISCUSSION (key points) ===
+
+By 2030 one in six people worldwide will be aged ≥ 60 years; people aged ≥ 60 expected to rise from ~1 billion (2020) to 2.1 billion by 2050; ≥80 population projected to triple to ~426 million. Demand for implant overdentures may rise.
+
+No difference in implant survival between 1- and 2-IOD groups. Longer follow-up: 1-IOD associated with higher rates of denture fractures, fabrication of new dentures, and reattachment of metal housings vs 2-IOD.
+
+A previous systematic review (Ahmed et al.) reported a higher implant survival rate for 1-IODs than 2-IODs; however, after including the most recent RCTs published since 2017, this updated analysis found no significant difference in implant survival. Subgroup analyses by loading protocols also no significant difference.
+
+Denture fractures occurring around the attachment area during function/insertion thought related to changes in distribution of occlusal forces. Implant–abutment junction may function as a fulcrum during rotational movement of the overdenture under load. Because no significant difference in relining frequency between groups, the increased fracture incidence with 1-IOD is more likely due to differences in structural strength rather than increased denture mobility. Use of a metal framework should be considered to reinforce mechanical strength.
+
+El-Zawahry et al. FEA (100 N vertical load on right first molar): total deformation of 1-IOD model ~50% greater than 2-IOD model. Denture movement patterns differed; in 1-IOD, rotational movement under occlusal force not limited to a single axis. Von Mises stress within the overdenture higher in 1-IOD than 2-IOD, potentially increasing risk of denture fractures.
+
+In 2-IOD, denture movement is restricted along the line connecting the two implants, reducing rotation and distortion. 1-IOD lacks such restriction. Reinforcing the implant area with a metal framework may reduce fracture/remake risk. FEA of 1-IOD with metal framework: insertion of framework reduced tensile stress around the implant housing by 61.8%. Incorporation of a metal framework into 1-IOD recommended for long-term prevention of denture fractures.
+
+Cost: Hartmann et al. reported cost of 1-IOD approximately 75% of 2-IOD. 1-IOD requires ~half the number of implants and prosthetic abutments → lower initial cost. However, long-term increased prosthetic complications may raise maintenance costs; metal-framework reinforcement raises initial cost, narrowing the difference.
+
+Patient satisfaction: multiple studies consistently report 1-IOD significantly improves patient satisfaction vs conventional complete dentures. Several studies found better outcomes for 2-IOD in OHRQoL, OHIP scores; others reported no significant difference between 1- and 2-IODs. Mixing ability tests (two-colored gums): significant masticatory improvement for both 1- and 2-IOD vs baseline CD, no significant difference between 1- and 2-IODs. Almond masticatory test: both groups improved vs CD; 2-IOD greater improvement than 1-IOD.
+
+Limitations: Most RCTs comparing 1- and 2-IODs had follow-up ≤ 5 years; long-term prognosis uncertain. Reports on prosthetic complications limited. Insufficient sample sizes prevented subgroup analyses by implant length, diameter, type.
+
+Decision factors: required level of retention, degree of prosthetic rotational freedom, psychological/social/economic aspects. Given increased maintenance demands, 1-IOD may suit patients who can attend frequent follow-up and wish to reduce initial costs, or cases where 2-IOD placement is difficult due to significant alveolar ridge asymmetry (severe bone resorption in canine/lateral incisor regions). 2-IOD may provide greater stability for patients requiring stronger retention/support or with difficulty attending regular maintenance.
+
+=== CONCLUSIONS ===
+
+1-IOD may serve as an alternative to 2-IOD. However, 1-IOD may be associated with a higher incidence of prosthetic complications (denture fractures, need for new denture fabrication) than 2-IOD. Further long-term RCTs warranted.
