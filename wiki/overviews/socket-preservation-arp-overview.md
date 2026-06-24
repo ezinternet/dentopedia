@@ -25,6 +25,8 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **이종골 추가가 보존을 양차원으로 확장** — Cerabone + PRF + 콜라겐 플러그로 폭경 손실 1.47 vs 2.75 mm (Kollati 2019); 콜라겐화 DBBM(DBBM-C) ± 유리치은이식(FGG) 봉합이 만기 부피 유지 + 치관부 1 mm 수평 흡수 감소 (Kim 2024).
 > - **흡연자**: A-PRF가 콜라겐 플러그보다 연조직 폐쇄·치유지수 우월(p=0.012); 끈끈한 뼈(sticky bone)는 A-PRF 단독 대비 추가 이득 없음 → **성장인자 성분이 이득의 동력** (Alrayyes 2022).
 > - **임플란트 충분성(중요)**: DBBM ARP는 폭경을 평균 1.13 mm 늘리나(통계적 유의·임상적으로는 작음), 추가 GBR 없이 식립 가능한 확률은 직경별 6–19%(3.25 mm 19% / 4.0 mm 14% / 5.0 mm 6%) — 즉 약 **5명 중 4명은 식립 시 추가 골증대가 여전히 필요** (Fischer 2022).
+> - **심미부 조기식립**: ARP는 식립 시 추가 골유도재생(Guided Bone Regeneration, GBR) 필요를 ~30% vs 68.4%로 절반 감소시키나, 1년 협측 볼록도(buccal convexity) 회복의 최강 인자는 ARP 자체가 아니라 **식립 시 동시 GBR**(72.7% vs ARP-only 36.0%, p=0.042) — ARP는 GBR 대체재가 아님 (Strauss 2024). CBCT 체적분석에서 ARP는 치관부 수평폭 손실을 절반(0.86 vs 2.03 mm)·핑크심미점수(PES) 향상(11.6 vs 9.9)시킴 (De Angelis 2022).
+> - **치주적으로 손상된(감염) 발치와**: ARP는 임플란트 식립 불가율을 ~6배 낮추고(0.8% vs 4.7%) 후속 골이식 범위를 줄이며, 변연부 변파괴·재감염 위험도 낮음(감염 2.7%, 재감염 0.7%) — 감염 소켓에서는 ARP가 과잉치료가 아니라 합당한 기본 술식 (Lee 2021).
 > - **임상 takeaway**: ARP의 가치는 "골증대 회피 보장"이 아니라 **결손 복잡도 감소·임플란트 위치 최적화·marginal case에서 GBR 회피**다 — 환자 동의 시 이 틀로 기대치를 설정.
 
 ## One-line Summary
@@ -155,6 +157,30 @@ Late-phase (84–180 day) subperiod analysis favored DBBM-C groups (p=0.026). Th
 
 Key practical distinction: DBBM-C (collagen-containing mouldable block/syringe form) can be placed without a separate membrane (open healing), simplifying the surgical protocol compared to loose particulate + resorbable membrane.
 
+#### Xenograft + Resorbable Membrane: CBCT Volumetric Confirmation (De Angelis et al. 2022)
+
+A retrospective comparative study (n=45 single-tooth sites; 23 spontaneous healing vs 22 ARP with cortico-spongious bovine granules + resorbable pericardium membrane) adds **3D volumetric quantification** to the linear-only ARP picture, using CBCT superimposition of pre-extraction (T0) and 6-month (T1) digital models:
+
+| Outcome (6 mo) | Spontaneous healing | ARP | p |
+|---|---|---|---|
+| Horizontal width loss at 1 mm | 2.03 ± 0.54 mm | 0.86 ± 0.49 mm | <0.001 |
+| Horizontal width loss at 3 mm | 1.35 ± 0.50 mm | 0.55 ± 0.42 mm | <0.001 |
+| Horizontal width loss at 5 mm | 0.94 ± 0.46 mm | 0.46 ± 0.37 mm | <0.001 |
+| Volumetric loss | 106.41 ± 24.32 mm³ | 62.66 ± 17.50 mm³ | 0.004 |
+| Buccal vertical loss | 0.9 ± 0.7 mm | 0.31 ± 0.1 mm | <0.05 |
+
+ARP roughly **halved** both crestal horizontal shrinkage (0.86 vs 2.03 mm at 1 mm) and total volumetric loss (62.66 vs 106.41 mm³). The benefit gradient is steepest at the crestal 1 mm level — converging with Kim et al. 2024's finding that the FGG seal's advantage concentrates at the same crestal zone. De Angelis et al. 2022 also surfaces two phenotype modifiers (thick FSTT and thick buccal bone independently predict less HW-1 loss) and a procedural one: in the spontaneous-healing group, **flapless** management preserved more width than flap elevation (p<0.001) — a caution that flap reflection itself contributes to resorption. The soft-tissue/esthetic layer is covered below (PES improvement); 1-year implant survival was 100% in both arms.
+
+#### Early-Placement Esthetic Zone: ARP Reduces But GBR Drives Contour (Strauss et al. 2024)
+
+A radiographic-and-profilometric secondary analysis of a three-arm parallel RCT (n=75, 1:1:1; 55 datasets at 1 year) isolates a distinction the dimensional studies above cannot: **ARP at extraction vs additional GBR at implant placement**. Failing single anterior-maxillary teeth were randomized to ARP with DBBM-C sealed by a collagen matrix (ARP-CM) or a free palatal graft (ARP-PG), versus unassisted healing (control); all arms received **early (type-2) implant placement at 8 weeks**, with simultaneous GBR when the residual ridge required it.
+
+| Outcome | ARP-CM | ARP-PG | Control |
+|---|---|---|---|
+| Additional GBR needed at placement | 31.6% | 29.4% | 68.4% |
+
+ARP roughly halved the proportion of sites needing additional GBR at placement (~30% vs 68.4%). But the 1-year facial-contour message is the caveat: restored **buccal convexity** was driven not by whether ARP was done but by whether **GBR was performed at placement** — convexity reached 72.7% (8/11) in ARP sites that also received GBR vs only 36.0% (9/25) in ARP-only sites (p=0.042). Residual buccal bone height and additional GBR were the significant adjusted predictors; profilometric (STL surface-scan) outcomes agreed with the CBCT picture. The lesson for the esthetic zone: ARP attenuates ridge change and lowers the GBR burden, but **early placement with simultaneous GBR yields the best contour regardless of whether ARP preceded it** — reinforcing the overview thesis that ARP reduces rather than eliminates the augmentation requirement.
+
 ---
 
 ### Axis 4 — PRF Adjunct: Role and Limits
@@ -202,6 +228,18 @@ The sobering meta-analytic perspective from 9 RCTs (177 ARP-DBBM vs 130 spontane
 
 High heterogeneity (I²=68%) was driven by DBBM formulation variation (plain granules vs collagenated), membrane use, healing duration, and measurement methods — suggesting meta-analysis pooling across protocol variants may underestimate best-case ARP outcomes with optimized protocols (e.g., DBBM-C + FGG seal per Kim et al. 2024).
 
+#### Real-World Feasibility: ARP Lowers Implant-Placement Infeasibility (Lee et al. 2021)
+
+Fischer et al. 2022 measures the *millimeter* sufficiency question; Lee et al. 2021 reframes it as a *binary clinical* one — can the implant be placed at all? — and extends the evidence into the **periodontally/endodontically compromised (infected) socket** subgroup that dominates real-world extractions but is largely absent from the intact-socket ARP trials. This single-center retrospective cohort (418 compromised extraction sites in 287 patients; 247 ARP via immediate GBR + resorbable membrane, secondary-intention healing, vs 171 no-ARP) found:
+
+- **Implant-placement infeasibility**: ARP **0.8%** vs no-ARP **4.7%** — a ~6-fold reduction in the chance the site could not receive an implant.
+- **Augmentation severity attenuated, not just feasibility**: on multivariable logistic regression, *absence* of ARP was an independent predictor of greater horizontal, vertical, and total bone-augmentation need at implant placement (alongside location and sex).
+- **Safety in infected sockets** (linked prior cohort): 2.7% infection, 0.7% reinfection requiring biomaterial removal — confirming ARP with debridement + systemic antibiotics is defensible even in non-intact sockets.
+
+Lee et al. 2021 thus complements Fischer's SR+MA on two fronts: it converts the dimensional benefit into a clinically meaningful endpoint (placement feasibility) with real-world retrospective data, and it specifically rebuts the "ARP is over-treatment" framing for the compromised-socket population — where the downstream benefit is clearest. De Angelis et al. 2022 echoes the same downstream-simplification direction (additional grafting needed 9% ARP vs 26% spontaneous healing) although that trend did not reach significance in its small, non-randomized sample (p=0.11). Strauss et al. 2024 quantifies the same effect prospectively at early placement (additional GBR ~30% with ARP vs 68.4% without), making the feasibility/burden-reduction benefit one of the most consistently reproduced ARP findings across retrospective, RCT, and meta-analytic designs.
+
+A registered RCT in this space — Zhang et al. 2022, a protocol for ARP at severe-periodontitis molar extraction sockets (n=70) — remains in the pipeline with results pending, and will be the first randomized test of ARP benefit specifically in the periodontally-compromised molar socket ([[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]]).
+
 ---
 
 ## Clinical Decision Threads [Claude interpretation]
@@ -224,7 +262,15 @@ Prioritize soft-tissue healing. A-PRF as socket coverage significantly outperfor
 
 **Thread 5 — Anterior esthetic implant, optimal crestal tissue volume needed**
 
-DBBM-C + FGG socket seal (Kim 2024): the FGG adds a statistically significant reduction in crestal horizontal resorption (p=0.049) at the 1 mm sub-crest level — the dimension most critical for esthetic implant emergence profile. This adds operative time and palatal morbidity but is defensible when the site demands maximum horizontal crest width. ISQ ≥70 is expected regardless of ARP method (Kim 2024).
+DBBM-C + FGG socket seal (Kim 2024): the FGG adds a statistically significant reduction in crestal horizontal resorption (p=0.049) at the 1 mm sub-crest level — the dimension most critical for esthetic implant emergence profile. This adds operative time and palatal morbidity but is defensible when the site demands maximum horizontal crest width. ISQ ≥70 is expected regardless of ARP method (Kim 2024). Volumetric CBCT confirmation supports this: ARP roughly halves crestal HW-1 loss (0.86 vs 2.03 mm) and improves the Pink Esthetic Score (11.6 vs 9.9, p=0.007) versus spontaneous healing (De Angelis 2022).
+
+**Thread 5b — Esthetic zone planned for early (type-2) implant placement**
+
+When the plan is ARP at extraction followed by early placement at ~8 weeks, set expectations on *two* surgical decisions. ARP (DBBM-C + collagen matrix or palatal seal) roughly halves the chance of needing additional GBR at placement (~30% vs 68.4%), but the dominant driver of restored 1-year buccal convexity is whether **simultaneous GBR is performed at placement**, not whether ARP preceded it (72.7% convexity with GBR vs 36.0% ARP-only, p=0.042) (Strauss 2024). Practical consequence: do not treat ARP as a substitute for placement-time GBR in the esthetic zone — plan to augment at placement whenever residual buccal bone height is deficient, and use ARP to make that augmentation smaller and more predictable.
+
+**Thread 5c — Periodontally/endodontically compromised (infected) socket**
+
+For the infected socket — mobility, deep probing, or combined endo–perio lesion — ARP via immediate GBR (resorbable membrane, secondary-intention healing) with thorough debridement and systemic antibiotics is safe (2.7% infection, 0.7% reinfection) and reduces implant-placement infeasibility ~6-fold (0.8% vs 4.7% no-ARP), while attenuating the horizontal/vertical/total augmentation needed later (Lee 2021). This is the population where the over-treatment objection is weakest; ARP is a defensible default rather than an optional add-on.
 
 **Thread 6 — Pre-operative ARP consent and expectation setting**
 
@@ -243,3 +289,7 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/alrayyes-2022-prf-socket-preservation-smokers-rct]] — A-PRF in smokers; collagen plug insufficient in high-risk population
 - [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] — DBBM-C ± FGG RCT (SNU); late-phase volume maintenance + FGG crestal advantage + ISQ ≥70 safety
 - [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA of 9 RCTs; 1.13 mm mean width gain; 6–19% augmentation-free placement probability
+- [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] — retrospective (418 compromised sockets); ARP cuts implant-placement infeasibility 0.8% vs 4.7% and attenuates augmentation need; extends Axis 5 to the infected-socket subgroup
+- [[bone-regeneration/ridge-preservation/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric]] — retrospective + CBCT volumetric superimposition; ARP halves HW-1 (0.86 vs 2.03 mm) and volume (62.66 vs 106.41 mm³) loss, improves PES (11.6 vs 9.9); 3D confirmation of Axis 3 dimensional benefit
+- [[bone-regeneration/ridge-preservation/strauss-2024-ridge-preservation-early-implant-aesthetic]] — RCT secondary analysis (n=75, early placement, esthetic zone); ARP halves additional-GBR need (~30% vs 68.4%) but placement-time GBR drives 1-year buccal convexity; profilometric + radiographic
+- [[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]] — registered RCT protocol (severe-periodontitis molar ARP, n=70, results pending); pipeline evidence for the compromised-molar socket
