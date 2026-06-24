@@ -1390,9 +1390,9 @@ tags: []
 - [[oral-medicine/viscuso-2025-dentist-awareness-post-traumatic-trigeminal-neuropathic-pain-survey]] — Viscuso 2025 · cross-sectional · 이탈리아 치과의 634명 중 29%가 PTTN을 모르고 대부분 비가역 치료로 오대응, 의뢰는 3명 중 1명뿐 (DOI 10.22514/jofph.2025.009)
 - [[oral-medicine/jian-2024-thalidomide-recurrent-aphthous-stomatitis-sr-ma]] — Jian 2024 · sr+ma · 탈리도마이드 21 RCT(1668명): 완전반응·재발간격 개선하나 부작용↑, major/난치성 RAS에 25mg/d 한정
 - [[oral-medicine/damario-2025-recurrent-aphthous-stomatitis-treatments-review]] — D'Amario 2025 · narrative-review · RAS 치료 RCT 45편: 비약물(LLLT·오메가-3·천연젤)이 코르티코스테로이드급 효과, LLLT 통증완화 최속
-- [[oral-medicine/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — Andriakopoulou 2024 · sr+ma · 소아암 구강점막염 34 RCT: 국소 꿀이 입원기간 단축(MD −4.33일), LLLT는 무효 (abstract-only)
-- [[oral-medicine/bragues-2024-oral-mucositis-children-cancer-management-sr]] — Braguès 2024 · sr · 소아 항암 구강점막염: 발생률↓ 클로르헥시딘·기간↓ 꿀·통증↓ 올리브유, 전반 근거 불충분
-- [[oral-medicine/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — Hassanein 2025 · rct · L-아르기닌·L-글루타민 모두 방사선 구강점막염 중증도·통증·체중감소 감소, 아르기닌은 글루타민에 비열등
+- [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — Andriakopoulou 2024 · sr+ma · 소아암 구강점막염 34 RCT: 국소 꿀이 입원기간 단축(MD −4.33일), LLLT는 무효 (abstract-only)
+- [[oral-medicine/mucositis/bragues-2024-oral-mucositis-children-cancer-management-sr]] — Braguès 2024 · sr · 소아 항암 구강점막염: 발생률↓ 클로르헥시딘·기간↓ 꿀·통증↓ 올리브유, 전반 근거 불충분
+- [[oral-medicine/mucositis/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct]] — Hassanein 2025 · rct · L-아르기닌·L-글루타민 모두 방사선 구강점막염 중증도·통증·체중감소 감소, 아르기닌은 글루타민에 비열등
 - [[oral-medicine/warnakulasuriya-2025-oral-lichen-planus-systemic-diseases]] — Warnakulasuriya 2025 · narrative-review · 구강편평태선 환자는 당뇨·갑상선·셀리악·간염·우울/불안 위험 유의 상승, 무증상 많아 선별·의뢰 필요
 - [[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]] — García-Ríos 2022 · sr · SLE 구강증상 SR(15편): 구강궤양 최다(11/14편)·경구개 호발·타액분비저하/Sjögren 동반 흔함 (DOI 10.3390/ijerph191911910)
 - [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
@@ -1797,6 +1797,7 @@ tags: []
 - [[overviews/prosthetic-materials-decision-ladder]] — 보철 4축 (단관 재료·screw vs cement·overdenture·abutment). Pjetursson 2026 SR+MA + DGI/DGZMK S3 spine.
 - [[overviews/digital-workflow-decision-ladder]] — 디지털 치의학 4축 (IOS·CAIS·AI·LLM). Vankos 2026 + Schiavon 2025 NMA + Najeeb 2025 + Zhang 2025 spine.
 - [[overviews/oral-medicine-decision-ladder]] — 구강내과 6축 (OPMD·OLK·OLP·BMS·RAS·OMS). WHO consensus + Aguirre-Urizar 2021 SR+MA spine.
+- [[overviews/oral-mucositis-cancer-therapy-overview]] — Synthesis (3편, 2026): 항암치료 유발 구강점막염(OM). 소아 결과지표별 약제(발생률→클로르헥시딘·기간→꿀·통증→올리브유), LLLT 소아 풀링 무효(RR 0.99), 성인 방사선 OM L-아르기닌≈글루타민>대조군. oral-medicine ladder와 분리된 therapy-induced toxicity 토픽
 - [[overviews/oral-surgery-decision-ladder]] — 구강외과 5축 (제3대구치·IAN·coronectomy·합병증·심경부 감염). Camps-Font 2024 NMA + Peixoto 2024 SR+MA spine.
 - [[overviews/evidence-appraisal-toolkit]] — 근거 평가 toolkit (SR/MA 방법론·효과 지표·EBD). 본 wiki 다른 overview의 confidence tag baseline.
 - [[overviews/endodontics-comprehensive-ladder]] — 근관 4축 (VPT·REP·cracked tooth·future). Hatipoglu 2025 NMR + AAPD 2025 + AAE 2021 + Cochrane spine.
