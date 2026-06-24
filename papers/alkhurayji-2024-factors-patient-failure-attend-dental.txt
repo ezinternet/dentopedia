@@ -1,0 +1,74 @@
+Factors Associated With Patient Failure To Attend Dental Appointments: A Retrospective Analysis
+
+Authors: Khalid Alkhurayji, Abdullah Alharbi, Ibrahim Walbi, Ahmed AlShpep, Yousef Almuhawwis, Abdullah Alalwan, Alya Alnoaimi, Abdulrahman Redwan, Ghadeer Alshehri, Naif Almalki
+Affiliation: Dental Center, Prince Sultan Military Medical City, Riyadh, SAU
+Journal: Cureus 2024;16(8):e67061
+DOI: 10.7759/cureus.67061  PMID: 39286712  PMCID: PMC11405065
+Publication date: 2024-08-17
+
+Abstract
+Nonattendance at scheduled dental appointments has a significant impact on healthcare systems worldwide. This study examines the factors associated with missed appointments at the Dental Center in the Department of Oral and Dental Health in Riyadh, Saudi Arabia, through a retrospective secondary data analysis. Existing medical records from January 1, 2024, to May 1, 2024 were analyzed to identify patterns or factors contributing to nonattendance. Data were collected using a standardized sheet and analyzed with statistical methods, including correlation analysis, ANOVA, and chi-square tests, to determine significant associations and factors affecting nonattendance. The results indicated that the majority of nonattendees were single (56.2%), with a higher proportion of females (60.7%) compared to males (39.3%). Only 3.8% of those who missed their appointments were over 55 years old. Tuesdays had the highest incidence of nonattendance (331 cases). No significant association was found between age groups and the time (F = 0.224, p = 0.925) or date (F = 0.840, p = 0.500) of appointments. Patients were less likely to attend morning appointments compared to evening ones. The high rate of missed appointments reduces the effectiveness and efficiency of the Dental Center's resources. The identified patterns and factors can guide managers and policymakers in developing strategies to reduce missed appointments and improve overall appointment adherence.
+
+Introduction
+Nonattendance at scheduled dental appointments significantly impacts healthcare systems worldwide. Globally, there is a persistent demand for cost reduction, coupled with pressures to enhance the efficiency of dental services. Understanding the factors associated with nonattendance is crucial for developing strategies to improve appointment adherence and optimize dental care. Furthermore, the increasing rate of nonattendance exacerbates the challenge of fully utilizing healthcare services.
+
+A previous systematic review identified young age, insurance coverage, and distance from the clinic as key factors contributing to nonattendance at dental appointments. Additionally, a history of previous nonattendance was significantly associated with future nonattendance. A study conducted in Saudi Arabia emphasized the importance of retrospective data analysis in predicting nonattendance rates.
+
+Understanding the factors that lead to patient nonattendance is crucial for developing strategies to improve appointment adherence and enhance the efficiency of patient care delivery. This study aims to determine the factors affecting patient nonattendance at the Dental Center in the Department of Oral and Dental Health.
+
+Materials and methods
+Study design
+This study employed a retrospective secondary data analysis design to examine the association between various factors and nonattendance among patients receiving dental services at the Dental Center, Department of Oral and Dental Health in Riyadh, Saudi Arabia. The research involved collecting and analyzing existing medical records to identify patterns or factors contributing to patient nonattendance.
+
+Study setting and population
+The target population comprised patients accessing dental services at the Dental Center, Department of Oral and Dental Health in Riyadh City. It included all patients with scheduled appointments at the Dental Center during the study period from January 1, 2024, to May 1, 2024. Inclusion criteria were patients of all ages and genders with appointments documented in the center's records, including those with a history of nonattendance. Exclusion criteria were patients without documented appointment records at the Dental Center during the study time frame and those with incomplete or missing information in their appointment records.
+
+Data collection
+Data was collected using a standardized data sheet, which facilitated the extraction of relevant information from patients' medical records. The standardized data sheet recorded variables such as appointment dates and times, patient demographics, previous attendance history, and any pertinent clinical information that might have influenced appointment adherence. The process involved systematically reviewing appointment records to identify patterns of nonattendance. Data regarding nonattendance was then recorded and coded for subsequent analysis.
+
+Data analysis
+The independent variables included demographics (e.g., age, gender, and health status), previous appointment attendance history, appointment times, and the type of dental service scheduled. Data analysis was conducted using IBM SPSS Statistics for Windows, Version 25.0 (IBM Corp., Armonk, NY, USA). Statistical methods such as correlation analysis, ANOVA, and chi-square tests were employed. Descriptive statistics summarized the characteristics of the study population, while inferential statistics determined the strength and direction of relationships between the independent variables and patient nonattendance.
+
+Ethical considerations
+Written consent was not required, as the data was de-identified and used solely for research purposes. All procedures followed the principles of the Declaration of Helsinki and received approval from the Institutional Review Board of the Prince Sultan Military Medical City and Dental Center.
+
+Results
+The results revealed that the majority of patients who did not attend their appointments were single (56.2%), with females accounting for 60.7% of this group. Among the nonattending patients, healthy individuals (59.4%) were more common than those with medical issues. The largest age group of nonattendees were those under 25 years old (36.7%), followed by patients aged 26 to 35 (30.6%). Only 3.8% of nonattendees were over 55 years old (Table 1).
+
+Figure 1 illustrates the times of day during which patients failed to attend appointments. Nonattendance was most common for morning appointments between 8:00 AM and 3:00 PM, with fewer instances of nonattendance occurring from 4:00 PM to 8:00 PM.
+
+Table 2 illustrates the characteristics of nonattending patients by day of the week. Tuesdays exhibited the highest incidence of nonattendance (331 cases), while nonattendance was similar on Mondays (274 cases), Wednesdays (273 cases), and Thursdays (251 cases). Sunday had the lowest rate of nonattendance (234 cases). Additionally, married individuals were less likely to miss appointments on Thursdays compared to other days.
+
+Gender analysis showed no significant variation in nonattendance across the days of the week, with male nonattendance rates ranging from 38% to 41.7% and female rates from 58.3% to 62%. Regarding appointment type, new patients were more likely to miss appointments on Sunday (86%) compared to follow-up patients (14%). Monday also had a high rate of nonattendance among new patients (83.2%). The association test indicated no significant relationship between patient characteristics and the days of the week.
+
+Figure 2 illustrates the times of day when appointments were missed, categorized by patient age group. There was no significant association between age group and the time of appointment (F = 0.224, p-value = 0.925).
+
+Figure 3 illustrates the dates of nonattended appointments by patient age group. There was no significant association between age group and date of appointment (F = 0.840, p-value = 0.500). A positive relationship was observed between age and the date of appointment (r = 0.029), while appointment time showed a negative correlation with age (r = -0.011).
+
+Table 1. Characteristics of patients who failed to attend appointments (N=1,364)
+Marital status: Married 591 (43.3%); Single 767 (56.2%); Divorced 2 (0.1%); Widow 4 (0.3%).
+Gender: Male 536 (39.3%); Female 828 (60.7%).
+Health status: Fit 810 (59.4%); Unfit 554 (40.6%).
+Age (years): <=25: 500 (36.7%); 26-35: 417 (30.6%); 36-45: 271 (19.9%); 46-55: 124 (9.1%); >=56: 52 (3.8%).
+
+Table 2. Descriptive statistics by day of week (Sun/Mon/Tue/Wed/Thu)
+Totals: Sunday 234; Monday 274; Tuesday 331; Wednesday 273; Thursday 251.
+Marital status p=0.919; Gender p=0.908; Health status p=0.971; Age p=0.954; Visit type p=0.137.
+Visit type New (%): Sunday 86.0; Monday 83.2; Tuesday 77.6; Wednesday 81.3; Thursday 80.9.
+Visit type Follow-up (%): Sunday 14.0; Monday 16.8; Tuesday 22.4; Wednesday 18.7; Thursday 19.1.
+
+Discussion
+The study found that neither the time nor the date of the visit was significantly associated with the patient's age, and no relationship was observed between the days of the week and patient characteristics. The analysis revealed that single patients aged 35 and under were most likely to miss dental clinic appointments. Additionally, patients were less likely to attend morning appointments compared to those scheduled later in the day.
+
+Alkhuwaiter et al. suggest that fear and anxiety might contribute to missed first appointments. This study supports this, noting a pattern of nonattendance at initial visits. Furthermore, previous research from provincial hospitals indicated that patients often missed appointments due to difficulties taking time off work, which aligns with our finding that morning appointments had higher nonattendance rates.
+
+Younger patients are more likely to miss appointments, as highlighted in studies from various regions. However, this study did not find a correlation between age and appointment time. Factors such as the date of the appointment may also influence nonattendance rates. Bhatia et al. identified multiple factors, including appointment timing, as contributing to missed dental visits.
+
+To our knowledge, this study represents the first retrospective secondary analysis of dental appointment nonattendance conducted among Riyadh City dental centers, addressing gaps in both demographic and methodological knowledge. Despite its contributions, the study has limitations. Expanding the analysis to include more variables and extending the study period to a full year could provide a more comprehensive understanding of nonattendance patterns.
+
+To reduce appointment no-shows, clinics could consider offering evening appointments, which may better accommodate patients' work schedules. Additionally, providing walk-in slots could help decrease missed appointments.
+
+Future research should focus on further retrospective analyses to explore additional variables and improve the generalizability of the findings.
+
+Conclusions
+This study revealed a high rate of nonattendance at dental appointments, affecting the effectiveness and efficiency of the Dental Center's resources. The identified patterns and variables offer valuable insights for managers and policymakers to design interventions aimed at reducing missed appointments. By highlighting the characteristics of patients and the timing of appointments, the study provides clear recommendations for enhancing the efficiency and effectiveness of the appointment system.
