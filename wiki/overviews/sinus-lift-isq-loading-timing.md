@@ -96,7 +96,7 @@ ISQ
 |---|---|---|---|
 | TSFE + PRF (내시경) | **72.6** (Liu 2018, RBH 3.5mm) | **12주** | ISQ >70 확인 필수 |
 | TSMEOD (osseodensification) | **>70 유의하게 높음** | 12주 목표 가능 | Starch-Jensen 2025 SR+MA |
-| HaeNaem CW-OD (경치조 간접) | ISQ 미보고 — 4mo CBCT 골고↑ 확인 | 데이터 없음 | Changrani 2024 (n=12, RCBH 6–8mm, 무이식); ISQ 미측정으로 부하 시기 권고 도출 불가 [낮은 근거] |
+| HaeNaem CW-OD (경치조 간접) | ISQ 미보고 — 4mo CBCT 골고↑ 확인 | 데이터 없음 | Changrani 2024 (n=12, RCBH 6–8mm, 무이식) — **RETRACTED/철회됨, 인용 금지**; ISQ 미측정 + 철회로 부하 시기 권고 도출 불가 [근거 무효] |
 | Osteotome TSFE | ISQ ↑ but < TSMEOD | 12–16주 | TSMEOD보다 낮음 |
 
 **핵심**: 경유돌은 동시식립이므로 식립 즉시 ISQ가 70 이상이면 12주(3개월) 조기부하 가능. ISQ 60대이면 2단계와 마찬가지로 추가 대기.
@@ -176,4 +176,4 @@ RBH 확인
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]]
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]
 - [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] — 경치조골 간접 상악동거상 4-arm RCT (n=64): i-PRF·NovaBone → 6mo ISQ ≥70; 정맥혈 ≡ 무이식 (ISQ 55–62); 증대재 선택이 ISQ 회복의 결정인자
-- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — HaeNaem CW-OD 버 경치조 간접 거상 (n=12, RCBH 6–8mm): 4mo CBCT 골고↑ 확인; ISQ 미측정으로 부하 시기 데이터 없음 [낮은 근거]
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(retracted/철회됨 — 인용 금지)** HaeNaem CW-OD 버 경치조 간접 거상 (n=12, RCBH 6–8mm): 4mo CBCT 골고↑ 확인; ISQ 미측정으로 부하 시기 데이터 없음 [근거 무효]
