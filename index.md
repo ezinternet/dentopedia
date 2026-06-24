@@ -1785,6 +1785,8 @@ tags: []
 ## 종합 (Overviews) — 임상 의사결정 ladder
 
 - [[overviews/dental-imaging-radiation-dose-optimization-overview]] — 치과 영상 선량 최적화 종합 (18편, 2026-06-05 신설): modality 위계(구내~1.3≪파노라마~18≪CBCT~121µSv, Lee&Badal 2021) 위 4개 술자 레버 — FOV/collimation(Benchimol 2018, Ozaki 2021), 고관전압 ULD/LD ~6배↓(Charuakkra 2023), 작은 복셀 유지+노출↓로 소아 ~45%↓(Oenning 2019), 파노라마 빔높이(Lee 2019); 차폐 중단 합의(Benavides 2023 AAOMR + Schindler 2025 실측); 비전리 0.55T MRI 대안(Willershausen 2025). 2단 의사결정 ladder
+- [[overviews/dental-imaging-effective-dose-background-equivalent-overview]] — 치과 영상 선량 = 자연방사선 며칠분 환산 종합 (14편, 2026-06-25 신설): 위 최적화 ladder의 **환자소통 companion**. lee-2021 연 3110µSv 배경값으로 환산 — 구내 PA ~0.15일(~3.7h)·파노라마 ~2.1일·CBCT ~3.6~46일(소아 대형FOV 392µSv=연간 13%, 논문 진술과 일치). REID 소아~2배(yeh-2018). ⚠️ 비행/우주방사선 비교값은 보유 논문에 없어 공백 명시(Rule#1)
+
 - [[overviews/drug-clinical-decision-ladder]] — drug 카테고리 허브 (2026-05-27 분할 후 재정의): 5개 sub-overview 진입점 + 5축 핵심 명제 + Cross-cutting Themes (NSAID-Aspirin 상호작용·RA/SLE·고령자·임신·이식) + 한국 임상 조정. paper wikilink는 sub-overview로 위임.
 - [[overviews/drug-mronj-antiresorptive-overview]] — MRONJ·항흡수제 종합 (9편, 2026-05-27 신설·2026-06-01 보강): AAOMS 2022 staging 유지·drug holiday 합의 없음·CTX 권고 제외; Denosumab 누적≥32 dose MRONJ 31.2% (Yokoo 2025); 항흡수제 후 임플란트 23% 실패 83% MRONJ (Li 2024); 단일 vs 3일 AMPC prophylaxis 동등 (Iwata 2025); 4-level prevention framework
 - [[overviews/drug-antibiotic-stewardship-overview]] — 항생제 stewardship 종합 (13편, 2026-05-27 신설): IE prophylaxis 4개 최고위험군만 (Wilson 2021 AHA, Sperotto 2024 SR-MA n=1.15M); 단순 발치 prophylaxis 무효 (Lodi 2021 Cochrane); 임플란트 단일 Amoxicillin 2g (Torof 2023); AP 항생제 과잉처방 (Mendez-Millan 2024); Amoxicillin 1차·Clindamycin 회피 (Thornhill 2019 NHS 7년)
