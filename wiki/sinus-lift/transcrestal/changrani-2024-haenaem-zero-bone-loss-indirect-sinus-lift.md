@@ -10,11 +10,14 @@ confidence: prospective
 pdf_path: /Users/oracleneo/llm-wiki/papers/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 pdf_filename: changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift.pdf
 source_collection: external
-tags: [HaeNaem, osseodensification, indirect-sinus-lift, zero-bone-loss, CW-bur]
+tags: [HaeNaem, osseodensification, indirect-sinus-lift, zero-bone-loss, CW-bur, retracted]
 relations:
   - type: applies-to
     target: starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis
 ---
+
+> [!warning] RETRACTED — do not cite
+> This article (Cureus 2024, DOI 10.7759/cureus.73130) was issued a **Correction** on 2024-11-21 (cureus.c200, one citation added to the conclusions) and was **subsequently retracted**. The held PDF predates the retraction and shows only the correction; retraction confirmed by the maintainer. The full text below is retained **for completeness only** — as the sole prospective clinical dataset on the HaeNaem indirect-sinus-lift kit — under a deliberate exception to the CLAUDE.md retraction policy (which otherwise requires a stub). Do **NOT** cite these findings as clinical evidence; the "more favorable risk-to-benefit ratio vs Densah" claim was untested and the study has no comparator arm. (set 2026-06-24)
 
 ## One-line Summary
 
