@@ -1,0 +1,1518 @@
+TITLE: The efficacy and safety of pharmacological treatment of desquamative gingivitis: a systematic review
+PMID: 40604637 | PMCID: PMC12220169 | DOI: 10.1186/s12903-025-06369-5
+
+Introduction
+
+Desquamative gingivitis (DG) derives its name from the Latin word “desquamare,” reflecting scraping fish flakes []. This condition is characterized by the chronic loss of epithelial elements in the gingiva, manifesting as desquamation, vesicular formation, atrophy and erosion, and often accompanied by diffuse erythema of the marginal and keratinized gingivae []. However, DG is considered as a clinical observation, and not a standalone diagnosis, which could manifest diversely, from slight gingival redness to ulcerative gingival lesions. This condition is typically observed in individuals over the age of 30 years and the condition is more prevalent in women []. While DG could occur in any part of the gingivae, it is most commonly found in the labial gingiva of the anterior teeth as well as the mucosa on edentulous alveolar ridges []. The symptoms of DG could range from minimal discomfort to severe pain, particularly when consuming acidic foods, leading to limitations in oral function and speech [].
+
+The differential diagnoses of DG include a wide array of conditions, such as chemical and electrical burns, allergic reactions, hormonal disorders and mucocutaneous diseases []. Similar clinical patterns may arise from oral reactions to mouthwashes, chewing gums, cosmetics, medications, cinnamon and dental materials []. Some studies indicated that DG may occur in conjunction with estrogen or progesterone deficiency []. Additionally, idiopathic gingival desquamative lesions can present without identifiable aetiological factors. Notably, many studies have reported a strong association between DG and conditions such as oral lichen planus (OLP), mucous membrane pemphigoid (MMP) and pemphigus vulgaris (PV), with reported links in 88–98% of cases []. Accurate diagnosis of DG typically requires a combination of clinical examination, histopathological assessment and further laboratory tests to rule out systemic conditions.
+
+While a variety of non-pharmacological strategies have been employed in the management of DG, their primary role remains supportive []. These include the identification and elimination of contributing factors, tailored plaque control measures, professional periodontal therapy, dietary modifications, psychological support and regular follow-up care to maintain oral health [,,]. Emerging approaches such as biofilm-targeted therapies have also shown potential in managing the gingival inflammation associated with DG []. Particularly in cases with potential systemic associations, a multidisciplinary approach that includes dermatological input is often essential to ensure thorough and effective care []. Surgical interventions such as mucogingival surgeries, although less commonly used, have been explored to optimize the gingival tissue architecture in cases of extensive tissue loss or chronic irritation []. However, these measures are often adjunctive and do not address the immunopathological mechanisms of DG [,,]. In contrast, pharmacological interventions remain the cornerstone of treatment, particularly in immune-mediated presentations, due to their ability to modulate inflammatory pathways, control symptoms and promote mucosal healing [].
+
+Thus, owing to this significance, therapeutic approach has led to the development and application of a diverse array of pharmacological agents tailored to the clinical and pathological features of DG. Among the most commonly used agents are topical corticosteroids, which effectively reduce inflammation and promote healing of the affected gingivae []. In cases associated with autoimmune disorders, immune-modulators such as cyclosporine, clobetasol and tacrolimus could be particularly beneficial [–]. Additionally, evidence suggests that both topical and systemic antimicrobials could be effective in treating DG [,].
+
+In recent years, newer treatments like platelet-rich plasma (PRP) therapy have emerged, showing promise in enhancing healing and reducing inflammation due to the growth factors present in PRP. This approach, alongside traditional therapies, highlights the evolving landscape of treatment for DG []. The choice of treatment typically depends on the specific causes of DG, the severity of symptoms, and the individual patient’s health status, underscoring the importance of a tailored approach that incorporates both established and innovative therapies.
+
+Despite the range of pharmacological therapies available, there is a significant lack of comprehensive systematic reviews specifically addressing the efficacy and safety of these treatment options for DG. While individual studies had provided valuable insights into particular therapies, the fragmented nature of the existing literature complicates clinicians’ efforts to identify the most effective and safe treatment options. This gap in cohesive information accentuates the necessity for a systematic synthesis of the evidence. The objectives of this systematic review were to systematically evaluate the efficacy and safety of pharmacological treatments for DG in clinical practice. Therefore, defining these aspects, the review sought to assess pain reduction, clinical improvements gingival parameters, quality of life (QoL) improvements, recurrence rates as well as the safety profiles of the pharmacological treatments for DG. Thus, the outcomes of this systematic review would aid bridging the existing gap in knowledge, enhancing the understanding of effective management strategies. Furthermore, the findings will ultimately enrich the clinical practice while paving the way for future research in this field.
+
+Methods
+
+Title and protocol registration
+
+The title and protocol of this systematic review was registered in the International Prospective Register of Systematic Reviews (PROSPERO) registry (Ref. CRD42024556589) on the 24th of June 2024. The reporting adhered to the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines [] and the Cochrane Handbook for Systematic Reviews of Interventions [].
+
+Review question
+
+The review question was formulated using the PICO framework, where the population of interest (P) were patients diagnosed with DG, the intervention of interest (I) were pharmacological agents that were administered in the management of DG, the comparison (C) was between DG patients who received pharmacological treatments and those DG patients who either did not receive any pharmacological treatment or who were placed on placebo, and the outcomes of interest were (O) the efficacy (which includes improvement in gingival condition, reduction in symptoms [such as pain, burning sensation, erythema and discomfort], the impact on the QoL of patients and the recurrence rates of DG after pharmacological treatment) and safety of the administered pharmacological treatments (which includes the adverse effects associated with pharmacological treatments on DG).
+
+Based on the above, the review question is “Among patients diagnosed with DG, which pharmacological treatments are effective and safe in improving clinical outcomes compared to no treatment or placebo?”.
+
+Eligibility criteria
+
+The review included studies involving patients diagnosed with DG. The eligibility of including any retrieved study was based on the inclusion and exclusion criteria set for this systematic review. The detailed criteria are as follows:
+
+Inclusion criteria
+
+Only original research articles with randomized controlled trial (RCT), non-randomized clinical trial (NRCT), cohort, case-control or cross-sectional study design, which were published in English, in peer reviewed journals, with accessible full texts and which investigated the pharmacological treatments of DG in humans, with relevant outcomes were considered eligible for inclusion into this systematic review.
+
+Exclusion criteria
+
+Original research articles reporting pharmacological intervention studies on the treatment of conditions other than DG, original research articles reporting non-pharmacological intervention studies on DG, non-original research articles (e.g. reviews, case reports, commentaries, editorials, commentaries), original research articles without accessible full text, articles reporting animal studies, and grey literatures were considered ineligible for inclusion into this systematic review.
+
+Search strategy
+
+For a comprehensive literature search, two primary sources, databases and reference list of the included articles, were used for the search process.
+
+Database search
+
+On 24 June 2024, a systematic electronic search to identify all relevant literature published from January 1990 to December 2023 was carried out on seven major databases (including PubMed, SCOPUS, CINAHL Complete, CINAHL Ultimate, Dentistry and Oral Sciences Source, AMED– The Allied and Complementary Medicine Database and Web of Science). The search strategy followed the PICO framework. Details on the populations of interest, interventions of interest, comparison and outcomes of interest has been earlier identified in the “Review Question” subsection of this “Methods” section. Several relevant terms on the safety and efficacy of pharmacological treatments of DG, which were identified via Medical Subject Heading (MeSH) Dictionary and the Thesaurus, were used to conduct the literature search, and it was done with the aid of Boolean operators (“OR” and “AND”) and truncations (“*”). The search terms used were as follows: desquam*, gum, gingiv*, periodont*, pharmac*, medic*, drug, antimicrob*, antibiotic, antiviral, prescri*, treat* and manage*. The search strings used for the search are depicted in Tables S1 to S3 (supplementary file).
+
+Reference lists of included literature
+
+An additional article which was not retrieved through database searches was retrieved through manual searches of reference lists of the included articles. This was achieved after inclusion of all the relevant articles retrieved from the database search, after completing the literature selection process.
+
+Literature selection process
+
+All the retrieved literature records that were obtained from the database search were imported into the Rayyan web application to remove duplicate entries []. Subsequently, the deduplicated records were screened by at least two blinded independent reviewers (DL, PMP, CK, CB) in a two-stage process. In the first stage, titles and abstracts of the deduplicated literature records were screened (by DL and CK) and the obviously irrelevant records were excluded. The records of those literatures which were not excluded in the first stage proceeded to the second stage, where their full texts were obtained and screened by PMP and CB. Following blind removal, all existing conflicts were resolved by a third reviewer (RDJ).
+
+Quality assessment of included literature
+
+As the systematic review included peer-reviewed original research articles which adopted different study designs, the Mixed Methods Appraisal Tool (MMAT) version 2018 was used to assess the quality of each study design []. This appraisal tool was designed to appraise diverse empirical research designs, including quantitative randomized controlled trials, quantitative non-randomized studies, quantitative descriptive studies, qualitative studies, and mixed methods studies. The tool consists of two generic screening questions and five specific questions tailored for each study design including sampling strategy, adequacy of measurements collected, risk of non-response bias, representativeness of the sample and adequacy of statistical analyses []. Accordingly, for each question, with ‘Yes’ receiving a score of 1, ‘Can’t tell’ receiving a score of 0.5 and ‘No’ receiving a score of 0, the total MMAT score ranged from 0 to 7. The quality of each study was appraised as ‘below average’ if the score was < 3.5, ‘average’ if the score was 3.5 and ‘above average’ if the score was > 3.5. The discrepancies were resolved through discussions among evaluators. Each of the article included into this systematic review was critically appraised by a pair of reviewers ([CK & PMP] or [YJ & DL]). To resolve any conflicts, a final decision was made by consensus between these two reviewers. Overall, the outcomes of the screening processes were vetted and approved by a senior reviewer (KKK) before proceeding to data extraction and synthesis stage of this systematic review.
+
+Data extraction and synthesis
+
+Data extraction was done using a data extraction sheet which was developed based on the Joanna Briggs Institute’s guidelines for data extraction in systematic reviews []. Data extraction of all the included articles was performed independently by two assessors (AP and DL). The following data were extracted from the included articles: names of the authors, year of publication, country of the study, study design, aims and objectives, sample size, participants’ characteristics, diagnosis criteria, type of the pharmacological agent(s), dosage, duration, efficacy of the pharmacological treatment(s) (which includes improvement in gingival condition, reduction in symptoms [such as pain, burning sensation, erythema and discomfort], the impact on quality of life of patients and the recurrence rates of DG after pharmacological treatment), safety of the administered pharmacological treatments (which includes adverse effects associated with pharmacological treatments on DG), follow-up duration, conclusion/s of the study and limitations. The extracted data were synthesized using a systematic narrative synthesis approach [].
+
+Results
+
+A total of 624 literature records were obtained from the database search (PubMed = 173, SCOPUS = 339, Psychology and Behavioural Sciences Collection = 0, AMED (The Allied and Complementary Medicine Database) = 0, Dentistry & Oral Sciences Source = 88, CINAHL Ultimate = 23, Child Development & Adolescent Studies = 1, APA PsycInfo = 0, and APA PsycArticles = 0). Following removal of duplicate records (= 239), the titles and abstracts of the remaining 368 literature records were screened for relevance based on the predefined inclusion and exclusion criteria of this review. Of the 17 articles selected for full text screening, only 14 articles met the review’s inclusion criteria. A manual search through the reference lists of these included 14 articles retrieved one additional article which met the review’s inclusion criteria; hence, a total of 15 articles/studies were finally included into this review. The literature search, deduplication, screening, and selection processes are illustrated in the flow chart displayed in Fig..
+
+Fig. 1
+
+PRISMA flow chart
+
+Study characteristics
+
+Study designs
+
+The 15 included articles described studies with methodological diversity, comprising both interventional and observational research. Only two articles were randomized controlled trials [,], while five were non-randomized interventional studies [,,,,]. The remaining eight articles employed observational designs [,,], including retrospective and prospective cohort study design, cross-sectional analytic study design [,,] and retrospective case series design []. Although interventional studies were included, sample sizes were generally small while no qualitative studies were identified. Further details on the study design of the included articles are provided in Table.
+
+Table 1
+
+Characteristics of the included studies
+
+No.
+
+Author (year)
+
+Country
+
+Study design
+
+Sample size and gender distribution
+
+Types of diagnostic criteria applied
+
+Details of the diagnostic criteria applied
+
+Main disease presentation/s
+
+Age range/Mean (years)
+
+Follow up period
+
+1
+
+Santonocito et al. (2024)*
+
+Italy
+
+Retrospective Case Series
+
+= 13 (9 Females and 4 Males)
+
+Clinical + histological
+
+Clinically diagnosed MMP, without extraoral bullous lesions. No specific diagnostic criteria mentioned.
+
+Histological: diagnosed as Pemphigoid.
+
+MMP and localized DG
+
+38–81
+
+12 weeks
+
+2
+
+Gabusi et al. (2024)*
+
+Italy
+
+Cross- sectional descriptive study
+
+= 9 (7 Females and 2 Males)
+
+Clinical + histological + DIF
+
+Clinically diagnosed MMP, confirmed via histological assessments.
+
+DIF: Linear deposits of IgG and/or C3 along the basement membrane.
+
+MMP with refractory gingival lesions unresponsive to conventional therapies for at least six months
+
+35–90
+
+12 weeks
+
+3
+
+Torrezani et al. (2024)*
+
+Brazil
+
+Non-randomized controlled trial
+
+= 13 (12 Females and one Male)
+
+Clinical + histological
+
+Clinically and histologically diagnosed as OLP and MMP.
+
+No specific diagnostic guidelines mentioned.
+
+OLP and MMP
+
+Females: 39–83 (mean 52.8)
+
+Male- 55
+
+48 weeks
+
+4
+
+González-Serrano et al. (2023)
+
+Spain
+
+Randomized, double-blind, controlled clinical trial
+
+= 22 (All Females)
+
+Clinical + histological
+
+Clinical: Presence of erythema, epithelial desquamation, atrophy, painful erosions, or ulceration of the free and/or attached gingiva.
+
+Guidelines used: For OLP: 2016 Ameri- can Academy of Oral and Maxillofacial Pathology criteria
+
+For MMP: 2015 World Workshop on Oral Medicine criteria
+
+OLP (= 18), MMP (= 4)
+
+Test group: 62.82 ± 13.86
+
+Control group: 68.18 ± 12.98
+
+4 weeks
+
+5
+
+Balighi et al. (2022)
+
+Iran
+
+Cohort study (Retrospective study)
+
+= 31 (29 Females and 2 Males)
+
+Clinical + histological + DIF and/or ELISA tests (for anti-Dsg1 and anti-Dsg3 Ab)
+
+Clinical: Erythematous gingiva, desquamation and erosion of the gingival epithelium, and blister formation.
+
+Histological: Suprabasilar acantholysis and intra-epidermal blister formation.
+
+DIF: Intercellular immunoglobulin G and/or C3 deposition within the epidermis.
+
+Pemphigus with only gingival involvement
+
+42 ± 10.3
+
+24 weeks
+
+6
+
+Kavlakova (2022)
+
+Bulgaria
+
+Non-randomized controlled trial
+
+= 20 (18 Females and 3 Males)
+
+Clinical + histological
+
+Clinical: pain and burning sensation, secondary to an atrophic or erosive form of OLP.
+
+Histological: No specific features mentioned.
+
+OLP with DG
+
+31- over 61 years
+
+12 weeks
+
+7
+
+Sultan et al. (2017)
+
+USA
+
+Cohort study (Retrospective study)
+
+= 57 (44 Females, 13 Males)
+
+Clinical + histological + DIF
+
+Clinical and histological features are not specified.
+
+Confirmed with DIF.
+
+MMP (= 26), PV (= 31)
+
+MMP group- 37–89 (58 as median)
+
+2-262 weeks
+
+8
+
+Carcieri et al. (2016)
+
+Italy
+
+Cohort study (Prospective study)
+
+= 20 (17 Females, 3 Males)
+
+Clinical + histological
+
+Clinical: desquamative gingivitis. Criteria are not specified.
+
+Histological: confirmed OLP, PCG, MMP and PV.
+
+OLP (= 9), PV (= 6), PCG (= 4), MMP (= 1)
+
+56.95 ± 16.75
+
+8 weeks
+
+9
+
+Leite et al. (2015)
+
+Brazil
+
+Cohort study (Retrospective study)
+
+= 15 (13 Females, 2 Males)
+
+Clinical + histological + DIF
+
+Clinical: presence of erythematous and erosive gingivitis involving marginal and/or attached gingiva in the absence of destructive periodontal disease.
+
+Histological:
+
+OLP- dense sub-epithelial lympho-histiocytic infiltrate, increased intra-epithelial lymphocytes and degeneration of basal keratinocytes, presence of parakeratosis, acanthosis, fibrinogen and fibrin deposition in a linear pattern in the basement membrane zone.
+
+MMP: subepithelial blister, chronic inflammatory infiltrate in the lamina propria composed of eosinophils, lymphocytes and neutrophils.
+
+PV: intercellular edema in the suprabasal portion of the stratum spinosum, with the formation of clefts and acantholysis, leading to blisters.
+
+DIF:
+
+MMP: presence of homogeneous IgG and C3-complement deposits along the junction between the connective tissue and epithelium.
+
+PV: presence of immunoglobulin G deposits on the keratinocyte membrane.
+
+DG
+
+39–76 (Mean = 55.2)
+
+48 weeks
+
+10
+
+Motta et al. (2009)
+
+Brazil
+
+Non-randomized controlled trial
+
+= 22 (17 Females, five Males)
+
+Clinical + histological + DIF
+
+Clinical: erythema, atrophy, vesicobullous areas, erosions, ulcerations and desquamative lesions.
+
+Histological: Not specifically described. DIF: Not specifically described.
+
+DG (PV = 8, MMP = 5, OLP = 9)
+
+25–78 (Mean 50.6 ± 16.38_
+
+5 weeks
+
+11
+
+Guiglia et al. (2007)
+
+Italy
+
+Non-randomized controlled trial
+
+= 30 (25 Females, 5 Males)
+
+Clinical + histological
+
+Clinical: erythematous and erosive gingival lesions.
+
+Histological: hyperkeratosis, varying thickness of the epithelium, a subepithelial lymphocytic band-like infiltrate and focal signs of basal layer degeneration.
+
+OLP with DG
+
+41–82 (Mean 61.37 ± 11.22)
+
+4 weeks
+
+12
+
+Corrocher et al. (2006)
+
+Italy
+
+Randomized, double-blind, controlled clinical trial
+
+= 24 (18 Females, 6 Males)
+
+Clinical + Histological + DIF
+
+Clinical: blistering gingiva with marked erythema of marginal and attached gingiva, in the absence of other mucosal lesions.
+
+DIF: was used to exclude patients with IgG, IgA, or complement factor C3 along the basement membrane indicating OLP, MMP, Linear IgA, PV, chronic ulcerative stomatitis, and/or PCG.
+
+moderate to severe DG
+
+21–65
+
+8 weeks
+
+13
+
+Gonzalez-Moles et al. (2003)
+
+Spain
+
+Cross-sectional descriptive study
+
+= 33 (25 Females, 8 Males)
+
+Clinical + histological + DIF
+
+Clinical: painful erosive gingival lesions with extensive gingival ulcerations.
+
+Histological and DIF features are not described.
+
+Erosive DG (MMP = 22, OLP = 11)
+
+34–79 (Mean = 61)
+
+48 weeks
+
+14
+
+Thornhill et al. (2000)
+
+United Kingdom
+
+Non-randomized controlled trial
+
+= 25 (15 Females, 10 Males)
+
+Clinical + histological + DIF
+
+Clinical and histological not specifically described.
+
+DIF: Linear pattern of IgG and/or IgA binding of autoantibodies to the epithelial basement membrane.
+
+Oral MMP
+
+47–76
+
+14 weeks
+
+15
+
+Rønbeck et al. (1990)
+
+Norway
+
+Cross-sectional analytic study
+
+= 14 (11 Females, 3 Males)
+
+Clinical + histological + DIF
+
+Clinical: Painful erythematous gingiva, desquamation, and a positive Nikolsky sign.
+
+Histological: Not specifically described.
+
+DIF: Checked for tissue deposits of complement (C3), immunoglobulin G (IgG), IgA, and IgM.
+
+OLP/MMP/EM with DG
+
+48–75 (Mean = 59.9)
+
+7.1 weeks
+
+*Ahead of print version of these articles were published in 2023, and the print versions were published in 2024; hence, we used the print version as soon as they were available, MMP: Mucous Membrane Pemphigoid, OLP: Oral Lichen Planus, PV: Pemphigus Vulgaris, PCG: Plasma Cell Gingivitis, DG: Desquamative Gingivitis, EM: Erythema Multiform, Ab: Anti-bodies, DIF: direct immunofluorescence
+
+Publication trend
+
+The included articles span a wide publication timeframe, with the earliest one published in the year 1990 [] and the most recent articles (including ahead-of-print and e-publications) published in the year 2023 [,,]. Notably, the majority of these articles (93.3%) were published after the year 2000, with a noticeable increase in research interest in the past decade.
+
+Geographical distribution
+
+The geographic analysis revealed that most studies were conducted in Europe, particularly in Italy [,,,,] and Spain [,]. South America was represented by two studies from Brazil [,] and one study originated from Iran, Asia [].
+
+However, no studies were identified from Africa, Australia, and the Oceania. This highlights a potential geographical gap in the research literature.
+
+A summary of the key characteristics of the studies included in the review is presented in Box 1, while detailed data on each study are provided in Table.
+
+Box 1
+
+Key study characteristics
+
+A total of 15 studies were included [2 RCTs (13.3%), 5 non-RCTs (33.3%), 8 observational (53.3%)]
+
+Study periods spanned 1990 to 2023, with most published after the year 2000
+
+Study periods spanned 1990 to 2023, with most published after the year 2000
+
+Predominantly European studies, especially from Italy and Spain
+
+No studies from Africa, Australia, and the Oceania
+
+Participants’ mean age: 42–62 years; majority were around 60 years
+
+Female participants constituted the majority (221 females versus 53 males)
+
+Participants’ characteristics
+
+The included studies featured adult participants across a wide age range and with notable gender imbalance. Most studies reported mean participant ages clustered between 42 and 62 years, with the majority around 60 years [,,,–,,]. A strong female predominance was observed across the studies. A summary of key participants’ characteristics is presented in Box 1 and further details are included in Table.
+
+Diagnostic criteria used in patient selection
+
+A considerable heterogeneity in the application and reporting of diagnostic criteria was noted across the studies included in this review. All the 15 studies applied at least clinical and histological criteria for the identification of DG. The commonly reported clinical features included erythema, epithelial desquamation, pain (or burning sensation), and ulceration of the marginal and/or attached gingiva. The histological findings typically corresponded to the underlying immune-mediated condition.
+
+A total of 9 studies (60%) incorporated direct immunofluorescence (DIF) as part of the diagnostic workup, particularly in cases involving MMP and PV [,,,,–,]. Notably, only one study referenced specific diagnostic guidelines: the 2016 American Academy of Oral and Maxillofacial Pathology criteria for OLP and the 2015 World Workshop on Oral Medicine criteria for MMP [].
+
+Further details on the diagnostic criteria applied across studies are provided in Table.
+
+Characteristics of Pharmacological approaches
+
+There is a wide variation in the use of different pharmacological agents, formulations, dosages, administrative routes and duration of the treatment. These pharmacological agents could be broadly categorized into topical corticosteroids, immunosuppressants, antibiotics, emerging biologic therapies and adjunctive treatments (Table).
+
+Topical corticosteroids
+
+The use of topical corticosteroids was the most frequently used treatment option, with clobetasol propionate 0.05% emerging as the most studied agent, and it was used as an ointment in eight studies (53.3%) [,,,,,,,]. Although it was typically applied twice daily [,], one study adopted three times daily applications []. Other topical corticosteroids used include triamcinolone 0.1% [] and dexamethasone 0.5 mg/5 ml rinses [].
+
+Immunosuppressants
+
+The use of tacrolimus 0.1% was indicated in four studies and demonstrated comparable efficacy to clobetasol in reducing symptoms [,,,]. The drug was applied either in the ointment form or using custom trays [].
+
+Antibiotics and antimicrobials
+
+Systemic and topical antibiotic therapies were noted as standalone or adjunctive treatments. Sulphamethoxypyridazine (SMXP), which is a sulfonamide antibiotic, showed a marked symptom reduction in a group of patients with MMP, unresponsive to more than 4 months of topical steroid treatment []. They were treated initially at 500 mg/day, increasing to 1 g daily after two weeks.
+
+Fusidic acid (2%) ointment, applied four times daily for six weeks, demonstrated significant pain and lesion reduction with no reported recurrence at 12 months []. Tetracycline (100 mg/day for 4–11 weeks) was tested in an early observational study, showing a positive treatment response [].
+
+Emerging biological therapies
+
+Newer treatment approaches aimed to enhance healing as well as to provide corticosteroid-sparing alternatives; these include PRP and bio-adhesive gels with nano-vitamins (Table).
+
+Table 2
+
+Summary of Pharmacological agents & treatment regimens
+
+Author (year)
+
+Topical/systemic therapy
+
+Pharmacological agent applied
+
+Dosage and application
+
+Any additional treatments
+
+Treatment duration
+
+1
+
+Santonocito et al. (2024)*
+
+Topical
+
+Clobetasol propionate oral gel 0.05%
+
+Twice daily, direct apply on the lesion x 90 days
+
+Professional oral hygiene procedures
+
+3 months (90 days)
+
+Systemic
+
+• Nicotinamide
+
+• Oral probiotics (Bifidobacterium lactis HN019, Kluyveromyces marxianus fragilis B0399, colostrum and biotin)
+
+• Doxycycline
+
+• Nicotinamide: 500 mg, twice daily x 90 days
+
+• Oral probiotic: one tablet a day x 90 days
+
+• Doxycycline 100 mg: two tablets daily x 5 days
+
+2
+
+Gabusi et al. (2024)*
+
+Topical
+
+Heterologous PRP adjunctive to conventional therapies
+
+PRP, prepared from a compatible donor, applied using sterile gauze on the affected gingiva for at least 1 h, once a week
+
+• Betamethasone 1 mg rinses 3 times/day + Clobetasol 0.05% 3 times/day (= 2)
+
+• Local corticosteroids + Prednisone 5 mg/day) + Dapsone (50 mg twice/day) (= 7)
+
+2 months
+
+3
+
+Torrezani et al. (2024)*
+
+Topical
+
+0.1% Tacrolimus in carboxymethyl-
+
+cellulose gel
+
+• 2 g of gel applied using a custom silicone tray, twice daily for the first 45 days, then once daily for another 45 days.
+
+• Each application for 20 min
+
+• Following application, absolute fasting maintained for 30 min.
+
+Periodontal treatments
+
+90 days
+
+4
+
+González-Serrano et al. (2023)
+
+Topical
+
+Test group: A bio-adhesive gel containing 2% propolis extract, 0.2% ascorbic acid and 0.2% tocopherol acetate.
+
+Control group: same gel base
+
+• Direct application on lesions, three times per day
+
+• A total of 30 g of gel per patient
+
+Professional supragingival prophylaxis with oral hygiene instructions
+
+4 weeks
+
+5
+
+Balighi et al. (2022)
+
+Topical
+
+Triadent (triamcinolone 0.1%) or Clobetasol 0.05%
+
+• Using a gauze pad, placed on the gingiva for 5–10 min, 2–3 times per day.
+
+None reported
+
+Not clearly defined
+
+Systemic
+
+Corticosteroids, azathioprine, mycophenolate mofetil, methotrexate and rituximab (RTX)
+
+• Initiated with corticosteroids (0.5–1 mg/kg).
+
+• Refractory cases underwent Rituximab 2 g dose
+
+6
+
+Kavlakova (2022)
+
+Topical
+
+• Clobetasol propionate 0.05% cream
+
+• Tacrolimus 0.1% ointment
+
+Both agents were applied twice daily using a custom tray for 20 min
+
+None reported
+
+3 weeks
+
+7
+
+Sultan et al. (2017)
+
+Topical (88%)
+
+Topical corticosteroids e.g.:
+
+• Dexamethasone 0.5 mg per 5 ml rinses
+
+• Clobetasol 0.05% rinses
+
+• Fluocinonide 0.05% gel
+
+• Clobetasol 0.05% gel
+
+• Tacrolimus 0.1% ointment
+
+• Intralesional triamcinolone
+
+acetonide 10 mg injection
+
+Direct application or using custom tray (41%).
+
+None reported
+
+Varied durations
+
+Topical + Systemic (12%)
+
+• Prednisone
+
+• Mycophenolate mofetil
+
+• Rituximab
+
+• Dapsone
+
+• Prednisone 0.5–1 mg kg
+
+• Mycophenolate mofetil 500–1000 mg bd
+
+• Rituximab 375 mg minfusion
+
+• Dapsone 50 mg QD
+
+8
+
+Carcieri et al. (2016)
+
+Topical
+
+Sodium iodide and salicylic acid solution
+
+5 ml solution, applied using a gauze, for 15 min
+
+None reported
+
+Weekly for three weeks
+
+9
+
+Leite et al. (2015)
+
+Topical
+
+2% Fusidic acid ointment.
+
+• Four times a day, 5 min application
+
+• Avoided eating or drinking for 60 min after each application.
+
+Oral hygiene instructions and full-mouth scaling
+
+6 weeks
+
+10
+
+Motta et al. (2009)
+
+Topical
+
+Clobetasol propionate 0.05% ointment
+
+• 3 times a day for 2 weeks, then, once in alternative days in the third week, followed by 2 weeks washout
+
+5 patients treated systemically with prednisone and/or azathioprine for at least 6 months
+
+3 weeks
+
+11
+
+Guiglia et al. (2007)
+
+Topical
+
+Clobetasol 0.05% ointment
+
+• Direct application, one/two/ three times daily depending on the severity.
+
+• Followed by a maintenance dosage of one application of 5 min at alternate days.
+
+Professional and self-oral hygiene regimen, 10 ml of Chlorhexidine digluconate 0.2%), bd for 7 days
+
+Up to 3 months
+
+12
+
+Corrocher et al. (2006)
+
+Topical
+
+2 ml Tacrolimus 0.1% in pectin ointment or
+
+2 ml Clobetasol propionate 0.5% ointment
+
+• Once daily, direct application, using a latex glove
+
+• Refrain from eating or drinking for at least 30 min after application
+
+None reported
+
+4 weeks
+
+13
+
+Gonzalez-Moles et al. (2003)
+
+Topical
+
+0.05% Clobetasol propionate + 100,000 IU/cc of nystatin in Orabase paste
+
+• Apply using a custom tray for 5 min, three times daily (post-breakfast, post-lunch, post-dinner), followed by maintenance dose of one 5-minutes application on alternate days.
+
+Professional oral prophylaxis
+
+48 weeks
+
+14
+
+Thornhill et al. (2000)
+
+Systemic
+
+Sulphamethoxypyridazine (a long-acting sulphonamide antibiotic) on patients previously unresponsive for topical steroids
+
+500 mg daily, increased to 1 g daily after 2 weeks
+
+None reported
+
+14 weeks
+
+15
+
+Rønbeck et al. (1990)
+
+Systemic
+
+Tetracycline (doxycycline monohydrate)
+
+100 mg/day
+
+None reported
+
+4–11 weeks
+
+*Ahead of print version of these articles were published in 2023, and the print versions were published in 2024; hence, we used the print version as soon as they were available, PRP: Platelet-rich Plasma
+
+PRP was applied weekly for two months, with reported symptom relief and improved gingival healing []. However, long-term effects remain unstudied.
+
+A bio-adhesive gel containing propolis, nano-vitamin C and nano-vitamin E was evaluated in a double-blind randomized trial []. The preparation was applied three times daily for four weeks, which demonstrated significant improvements in DG clinical scores and Oral Health Impact Profile (OHIP)-14 QoL scores []. However, the outcomes were not statistically significant compared to the control group which used only the gel base. Another article highlighted the use of sodium iodide and salicylic acid solution as a topical antiseptic which demonstrated short-term symptom reduction and improved gingival health [].
+
+Adjunctive and combination treatments
+
+Several studies combined multiple pharmacological agents to enhance efficacy. Most of the combination treatments were systemic agents, which were applied in severe or autoimmune-associated cases, though their higher adverse event risk necessitates careful monitoring.
+
+For instance, in the management of MMP, clobetasol was combined with systemic nicotinamide, probiotics and doxycycline []. In cases where patients were at risk of candidiasis, topical clobetasol was used in combination with nystatin in Orabasepaste []. Severe autoimmune-associated DG was managed with a combination of prednisone, azathioprine, methotrexate, mycophenolate mofetil and rituximab []. Similarly, prednisolone was combined with mycophenolate mofetil or rituximab infusions in some cases [] highlighting the need for individualized treatment strategies based on the disease severity and patient responses.
+
+Different Pharmacological preparations and modes of applications
+
+The included articles displayed a vast variation in the type of treatment; topical, systemic and as an adjunctive treatment, delivery method and formulations (Table).
+
+Topical applications
+
+As the topical corticosteroids, clobetasol and immunosuppressant, commonly, tacrolimus, were the most frequently used treatment modality and different preparations were noted.
+
+Ointments and creams were administered through direct application [,,], custom tray application [,,] and applying with a gauze pad [].
+
+As a mouth rinse, one study used dexamethasone (0.5 mg/5 mL) [] while sodium iodide and salicylic acid solution was applied via gauze pads []. A combination of propolis, nano-vitamin C and nano-vitamin E used as a bio-adhesive gel was applied directly onto lesions []. Moreover, biological preparations also were directly applied with or without the use of gauze pads [].
+
+Systemic Pharmacological agents
+
+Systemic pharmacological agents were primarily used in autoimmune-related DG, particularly in PV and MMP. These therapies included prednisone with or without immunosuppressants [,], antibiotic preparations [,] and probiotics [].
+
+Evaluation of outcomes based on efficacy, safety and quality of life
+
+Efficacy of the Pharmacological agents
+
+A widespread efficacy was observed across the included studies, particularly in terms of pain reduction, erythema, burning sensation and lesion size. These outcomes were assessed through both subjective (e.g., Visual Analog Scale scores) and objective parameters (e.g., lesion size, mucosal index, reduction in burning sensations, plaque scores), with notable symptom relief reported in the majority of cases (see Table, and Box 2 for summary).
+
+Table 3
+
+Summary of the clinical outcomes, adverse effects and limitations
+
+Author (year)
+
+Pain reduction [Visual Analog Scale (VAS) score or any other scales]
+
+Gingival improvement
+
+Quality-of-Life (QoL) impact
+
+Use of validated tool to assess the QoL [Yes/No/Not Assessed (NA)]
+
+Recurrence
+
+Adverse effects reported
+
+Study limitations
+
+1
+
+Santonocito et al. (2024)*
+
+Not specifically assessed
+
+• Significant reduction in erythema and inflammation
+
+• Complete response to treatment;= 7, 53.8%
+
+• Partial response to treatment;= 4, 30.8%
+
+• No benefit from therapy;= 2, 15.4%
+
+Not specifically assessed
+
+NA
+
+Not specifically reported
+
+• Fungal infection (one patient with comorbidities such as hypertension, dyslipidemia and breast cancer)
+
+• Small sample size,
+
+• Retrospective study design,
+
+• Lack of data on the efficacy of drugs on pain and lesion size
+
+2
+
+Gabusi et al. (2024)*
+
+• 100% significant reduction
+
+• Average VAS score reduction = 6.4 to 2.0 (Wilcoxon signed rank test, z = 2.684< 0.05 mean, pain reduction 4.4 ± 2, range 1–7).
+
+• VAS = 0 (= 2)
+
+• Reduction in Oral Disease Severity Score (ODSS) (= 8, 89%)
+
+• Mean ODSS reduction 8.2 ± 5.3, range 0–16, z = 2.620,< 0.05
+
+Not specifically assessed
+
+NA
+
+Not defined. Reports on transitory relapses.
+
+No adverse effects reported.
+
+• Small sample size
+
+• Lack of a control group and randomization,
+
+• No long-term follow-up to evaluate the recurrence of gingival lesions or long-term effects of the treatment.
+
+3
+
+Torrezani et al. (2024)*
+
+60% reduction in pain and 65.5% reduction in burning sensation (Wilcoxon test for paired samples,< 0.01)
+
+• 30.76% achieved complete response.
+
+• Partial remission in 69.24% of the patients; Excellent (30.76%), good (30.76%) and regular (7.69%)
+
+Not specifically assessed
+
+NA
+
+2 patients with recurrence, mild symptoms, treated with corticosteroids
+
+• Transient taste sensitivity,
+
+• oral candidiasis (= 1)
+
+• No control group
+
+• No evaluation has been done to assess the systemic absorption of tacrolimus
+
+• Limited sample size
+
+4
+
+González-Serrano et al. (2023)
+
+• From baseline to 2 weeks VAS mean reduction = 1.69±2.36 (= 0.12),
+
+• From baseline to 4 weeks VAS mean reduction = 2.73±2.49 (= 0.23)
+
+• Within three groups; Significant reduction (= 0.001)
+
+• Significant reductions in Desquamative Gingivitis Clinical Score (DGCS) (
+
+• Significant improvements probing depths, bleeding on probing and plaque score.
+
+• Significant reduction in total OHIP-14 scores (= 0.002).
+
+• Main components demonstrated reduction.
+
+• physical pain (= 0.001)
+
+• psychological disability (= 0.009)
+
+• social disability (= 0.003)
+
+Yes
+
+Not reported
+
+No adverse effects reported.
+
+• Small sample size
+
+• Short follow-up period
+
+• Positive impact of the professional plaque debridement and oral hygiene improvements may have hindered the drug effect
+
+5
+
+Balighi et al. (2022)
+
+Not assessed
+
+• At 6 months.
+
+-In 24 patients underwent Rituximab treatment, mean pemphigus disease area index (PDAI) for gingiva; reduced from 4.76 ± 0.74 to 3.26 ± 0.63
+
+-Complete resolution 12.5% (= 3),
+
+-Partial resolution 45.83% (= 11)
+
+-Disease progression 29.17% (= 7)
+
+Not specifically assessed
+
+NA
+
+Not reported
+
+No adverse effects reported.
+
+• Lack of evaluation of personal and professional oral hygiene and periodontal status
+
+• No data on smoking and past medical history
+
+• Lack of data for anti-Dsg1/3 at the time of the first presentation of lesions on the gingiva
+
+• Small sample size.
+
+6
+
+Kavlakova (2022)
+
+Reduction in Pain and Discomfort (VAS Scores):
+
+Clobetasol group:
+
+Pre-treatment; 7.80 ± 1.22 to 3.30 ± 1.94 post treatment. 57% reduction.
+
+Tacrolimus group: Pre-treatment; 6.70 ± 3.02 to 0.70 ± 1.76 post-treatment. 74% reduction;= 0.435.
+
+Efficacy Index (EI):
+
+• Clobetasol group:
+
+Moderate improvement (25% ≤ EI < 75%); 70%
+
+Significant improvement (75% ≤ EI < 100%); 20%
+
+• Tacrolimus group:
+
+Moderate improvement; 80%
+
+Significant improvement; 20%
+
+• Differences not statistically significant (= 0.587).
+
+• No complete remission in either group.
+
+Not specifically assessed
+
+NA
+
+30% recurrence after 3 months in Tacrolimus group. Clobetasol group no relapse.
+
+• Clobetasol group: No adverse effects reported.
+
+• Tacrolimus group: stomach discomfort (= 2, 20%)
+
+• Small sample size
+
+• Short follow-up period
+
+7
+
+Sultan et al. (2017)
+
+• Significant reduction in pain scores
+
+• From baseline to first follow-up;
+
+• MMP group; from 1.4 ± 1.8 to 0.3 ± 0.8
+
+• PV group; from 3.2 ± 2.5 to 1.6 ± 2.8
+
+• Both improved desquamative gingivitis, significant reduction in lesion sizes.
+
+• MMP group: 68% reduction in lesion size
+
+• Disease controlled in 85%
+
+• PV group: disease controlled in 80%
+
+Not specifically assessed
+
+NA
+
+• Recurrence or progression to extra-oral involvement occurred in 16% of PV cases.
+
+• MMP: only one patient developed cutaneous lesions.
+
+• Oral candidiasis (12% of MMP cases and 6% of PV cases) secondary to corticosteroid therapy.
+
+• Anemia (from dapsone or intravenous immunoglobulin)
+
+• Alopecia (from mycophenolate mofetil)
+
+• Retrospective design
+
+• Small sample size
+
+• Inclusion of patients with ongoing treatments
+
+8
+
+Carcieri et al. (2016)
+
+VAS score decreased from 5 ± 1.32 at baseline to 2.44 ± 1.42 after 2 months (= 0.000)
+
+• Decreased gingival inflammation and bleeding.
+
+• Gingival lesion activity score: Reduced from 6.48 ± 1.20 at baseline to 2.81 ± 1.79 after 2 months (= 0.005).
+
+• Bleeding score; reduced from 59.00 ± 16.25% at baseline to 23.88 ± 11.11% after 2 months (= 0.032).
+
+• Improvement in gingival health;
+
+• Plaque score reduced from 45.02 ± 13.63% at baseline to 29.20 ± 2.73% after 2 months (= 0.038).
+
+• Probing Depth (PD): No significant change was observed (= 0.791).
+
+Not specifically assessed
+
+NA
+
+Not specifically reported.
+
+Unpleasant taste (100%, all patients)
+
+• Lack of control group
+
+• No blinding or intra-reliability analysis of the examiner.
+
+• Small sample size.
+
+9
+
+Leite et al. (2015)
+
+• Pain score reduced from 5.4 ± 1.12 to 1.16 ± 0.97 at 6 weeks and to 2.11 ± 0.98 at 12 months
+
+• Pain frequency; with pain more than 3 times per week: reduced from 53.33–13.33%
+
+Lesion size 72.47% reduction at 6 weeks, remained at 60.12%reduction at 12-month follow-up.
+
+Reports improvements in emotional well-being and social interactions
+
+No
+
+No significant recurrence reported during the 12-months
+
+Allergic reaction leading to small ulcerations in the lip mucosa (= 1)
+
+• Small sample size
+
+• The possibility of confounding factors due to the systemic diseases associated with DG
+
+• No placebo or comparison
+
+• Self-administered medication
+
+10
+
+Motta et al. (2009)
+
+• Clobetasol phase:
+
+• complete improvement: 9.1% (= 2),
+
+• partial improvement:
+
+54.5% (= 12),
+
+• no response: 31.8% (= 7)
+
+• worsening symptoms:= 1
+
+Placebo phase:
+
+• Partial improvement: 36.4% (= 8),
+
+• no response: 54.5% (= 12),
+
+• worsening symptoms: 9.1% (= 2)
+
+Clobetasol:
+
+Some improvement: 77.2% (= 17),
+
+Worsened in 22.7% (= 5)
+
+Placebo:
+
+Some improvement: 63.6% (= 14),
+
+Worsened in 36.4% (= 8)
+
+Not specifically assessed
+
+NA
+
+No significant recurrence reported.
+
+Candidiasis (= 2, 9.1%)
+
+• Small sample size,
+
+• Short follow-up period
+
+11
+
+Guiglia et al. (2007)
+
+Not specifically assessed.
+
+• A significant reduction bleeding on probing sites; (22.94% reduction;< 0.0001)
+
+• General improvement of gingival lesions
+
+Not specifically assessed
+
+NA
+
+Not specifically reported.
+
+No adverse effects reported.
+
+• Lack of long-term follow-up
+
+• Limited sample size
+
+12
+
+Corrocher et al. (2006)
+
+Not specifically assessed.
+
+Tacrolimus group:
+
+• Significantly greater clinical improvement in both erythema and desquamation compared to the clobetasol group;
+
+• 91.7% patients (= 11) achieved remission of erythema and/or desquamation by week 4. At week 8, 75% patients achieved this level.
+
+Clobetasol group:
+
+• none achieved remission
+
+Not specifically assessed
+
+NA
+
+• No recurrence reported
+
+Tacrolimus group:
+
+• Mild burning sensation (= 6, 50%)
+
+Clobetasol group:
+
+• Mild mouth dryness (= 6, 50%)
+
+• Small sample size,
+
+• Short treatment duration,
+
+• Lack of patient-reported outcomes
+
+13
+
+Gonzalez-Moles et al. (2003)
+
+100% Complete remission of pain and ulcerations (95% CI = 89.4-100%).
+
+Remission of atrophy: 21.2% of patients (95% confidence interval = 9.0-38.9%).
+
+Recovery of daily activities in 93.9% of patients (95% confidence interval = 79.8-99.3%) noted. Otherwise not specifically assessed.
+
+No
+
+Not reported.
+
+No adverse effects reported.
+
+• Absence of a control group
+
+14
+
+Thornhill et al. (2000)
+
+Significant improvement in pain scores (< 0.001).
+
+Complete resolution; 62%
+
+Complete resolution of oral ulceration: 65%
+
+Significant improvement in Objective clinical scores
+
+Not specifically assessed
+
+NA
+
+Slight relapse reported in some cases, managed with occurred but was successfully managed with topical steroids or another short course of SMXP (= 2).
+
+• Allergic reaction (= 1),
+
+• Significant haemolysis (= 2),
+
+• Mild haemolysis in most of the patients
+
+• Small sample size,
+
+• Non-randomized, open-label design,
+
+• Potential for serious side effects
+
+15
+
+Rønbeck et al. (1990)
+
+Not specifically reported.
+
+78.57% (= 11) reported improvement in symptoms (reductions in soreness, bleeding, erythema and desquamation of the gingiva).
+
+Mucosal index score; decreased from 2.86 ± 0.95 to 2.07 ± 0.92 (< 0.035)
+
+Not specifically assessed
+
+NA
+
+Not specifically reported.
+
+• Minor abdominal discomfort,
+
+• Oral candidiasis (= 1)
+
+• Small sample size,
+
+• Short duration
+
+*Ahead of print version of these articles were published in 2023, and the print versions were published in 2024; hence, we used the print version as soon as they were available, EI: Efficacy Index, MMP: Mucous Membrane Pemphigoid, NA: Not Assessed, QoL: Quality-of-Life, VAS: Visual Analog Scale
+
+Changes in symptoms with the use of Pharmacological agents
+
+Reduction in pain, erythema and inflammation were frequently reported. Heterologous PRP demonstrated significant pain relief, with all patients experiencing a decrease in Visual Analog Scale (VAS) scores from 6.4 to 2.0 []. Similarly, topical tacrolimus delivered in custom trays led to a 60% reduction in pain and a 65.5% decrease in burning sensation, with statistically significant improvements (< 0.01) [].
+
+Clobetasol and tacrolimus both demonstrated notable pain reduction across several comparative studies []. In addition, clobetasol combined with nystatin led to complete pain remission in all participants by the end of the study [].
+
+Other pharmacological interventions such as Fusidic acid [], SMXP [], Tetracycline [], Sodium iodide and salicylic acid [] and systemic corticosteroids [] also contributed to sustained symptom improvement. However, not all patients achieved consistent pain relief [,] while some studies did not specifically report changes to pain [,,].
+
+Improvement in gingival condition
+
+Most studies reported marked reductions in gingival inflammation and desquamation [,,,,,,]. Objective measures such as gingival lesion activity score, plaque indices, bleeding score [], probing depths [], lesion dimensions [] and mucosal index [] were reported variably. Corrocher et al.’s study utilized tacrolimus once daily in pectin ointment demonstrated significant improvement in erythema and desquamation compared to clobetasol [].
+
+Improvement in quality of life
+
+Only two studies (13.33%) assessed QoL using a validated tool or indirect measures [,]. Out of that, González-Serrano et al. reported a significant improvement in OHIP-14 scores, particularly in physical pain, psychological disability and social disability domains, in the test group treated with a bio-adhesive gel containing 2% propolis extract, 0.2% ascorbic acid (nano-vitamin C) and 0.2% tocopherol acetate (nano-vitamin E) []. Leite et al.’s study found that Fusidic acid-treated patients experienced better emotional well-being, social interactions and daily functioning [] (Table).
+
+Although not explicitly measured, Gonzalez-Moles et al.’s study observed that 93.9% of clobetasol-treated patients resumed normal daily activities, suggesting a positive impact on QoL [].
+
+While other studies did not directly assess QoL as an outcome, reductions in pain, lesion severity and burning sensation may have contributed to improved daily functioning and psychological well-being.
+
+Recurrence
+
+Recurrence rates varied significantly across the reported studies. However, nine studies (60%) have not reported any information on recurrence of the disease condition [,,,,,,–] (Table).
+
+Torrezani et al. reported two recurrences at the end of their study, although the associated symptoms were mild and were managed with corticosteroids []. Similarly, Thornhill et al. found that most SMXP-treated patients had remission, but some required topical steroids or another short course of SMXP for relapse control []. Further, depending on the initial presentation, recurrence or progression to extra-oral involvement occurred in 16% of PV cases []. Leite et al. found no significant recurrence at 12 months following fusidic acid treatment, suggesting long-term remission potential []. Kavlakova reported that 30% of patients in the tacrolimus group relapsed within 3 months, whereas clobetasol-treated patients showed no relapses at 2–3 months post-treatment [].
+
+Safety of the Pharmacological agents used
+
+Among topical corticosteroids, clobetasol was associated with oral candidiasis [,,] and mouth dryness (xerostomia) [] particularly with prolonged use.
+
+Tacrolimus used topically via ointment or custom trays was associated with mild burning sensations [], candidal infections [] and abdominal discomfort []. Altered taste sensations were noted with sodium iodide and salicylic acid applications [] as well as in patients applied tacrolimus using custom trays [].
+
+Among the systemic treatments, corticosteroid-based combined regimens contributed to oral candidiasis, anaemia (with the use of dapsone or intravenous immunoglobulin) and alopecia (with the use of mycophenolate mofetil) [].
+
+Among the antimicrobial agents, SMXP was linked to mild to significant haemolysis in some patients leading to treatment cessation in severe cases []. Fusidic acid was found to be associated with allergic reactions leading to ulcerations in one case [] while doxycycline monohydrate was associated with minor abdominal discomfort and a single case of oral candidiasis [].
+
+Some combination treatments were better tolerated. A formulation of clobetasol with nystatin in Orabasepaste was specifically reported to reduce secondary fungal infections, with no observed adverse effects [].
+
+Notably, emerging therapies such as PRP [] and propolis-containing gels [] demonstrated a favourable safety profile, with no adverse effects reported during or after treatment.
+
+A concise summary of treatment-specific safety profiles is presented in Box 3 and a detailed overview is outlined in Table.
+
+Box 2
+
+Summary of Pharmacological Efficacy and Clinical Outcomes
+
+was consistently reported across most studies, particularly for pain, erythema, ulceration and burning sensations.
+
+demonstrated reliable pain relief and improvement in lesion severity.
+
+achieved significant VAS score reductions (from 6.4 to 2.0), with improved healing outcomes.
+
+, such as Clobetasol with Nystatin or systemic agents, were effective in severe or autoimmune-associated DG.
+
+were reported in lesion size, bleeding scores and mucosal indices, particularly in studies using Tacrolimus, Clobetasol or bio-adhesive gels.
+
+was assessed in two studies, both reporting significant improvements (OHIP-14 and emotional/social functioning scores).
+
+was inconsistent; however, where reported, relapse occurred in up to 30% of Tacrolimus-treated cases, while Clobetasol-treated groups showed minimal short-term recurrence.
+
+Box 3
+
+Safety Profiles of Pharmacological Treatments in Desquamative Gingivitis
+
+Topical corticosteroids
+
+Clobetasol propionate 0.05%: Commonly associated with oral candidiasis and xerostomia, particularly with extended use.
+
+Topical immunosuppressants
+
+Tacrolimus 0.1% ointment: Frequently caused transient burning sensation, altered taste perception and candidal superinfection. Abdominal discomfort was also reported in isolated cases.
+
+Antibiotics and antimicrobials
+
+Sulphamethoxypyridazine: Associated with dose-dependent haemolysis, requiring treatment discontinuation in moderate to severe cases.
+
+Fusidic acid (2% ointment): Linked to localized allergic reactions, including ulceration.
+
+Tetracycline (100 mg/day): Reported mild gastrointestinal discomfort and a single instance of oral candidiasis.
+
+Systemic therapies and immunosuppressants
+
+Prednisone, azathioprine, methotrexate, mycophenolate mofetil, rituximab: Associated adverse events included oral candidiasis, anaemia and alopecia, particularly in autoimmune-associated DG cases (e.g., PV and MMP).
+
+Combination regimens and adjuncts
+
+Clobetasol + nystatin (Orabase): Reported to prevent secondary candidiasis, with no adverse effects observed.
+
+Propolis-based nano-vitamin gel and platelet-rich plasma: No adverse events reported in the included studies, suggesting a favourable safety profile.
+
+Quality appraisal outcomes
+
+All the included 15 articles were found to have above average quality, with all having a MMAT score ranging from 5 to 7 and a mean score of 5.57. Randomized controlled trials had the highest ratings (mean MMAT score: 6.5), followed by non-randomized studies (5.75) and descriptive studies (6.17). Two RCTs, including those by González-Serrano et al. (2023) and Corrocher et al. (2006), scored 7/7 and 6/7, respectively [,]. The full details of the quality appraisal outcomes are provided in the Supplementary file, under Tables S4 to S7.
+
+Discussion
+
+This systematic review provides a comprehensive synthesis of existing empirical evidence on the pharmacological management of desquamative gingivitis, focusing on efficacy, safety, QoL and recurrence outcomes. Thus, by integrating findings from a diverse range of study designs, including randomized controlled trials, non-randomized clinical trials and cohort studies, this review offers important perspectives on pharmacological treatment strategies highlighting the gaps requiring further research, particularly in long-term efficacy, safety and QoL outcomes.
+
+Several recent reviews have also addressed certain aspects of DG management. A systematic review conducted in 2019 by Cabras et al. which focused only on randomized controlled trials, emphasized on the roles of plaque control and topical corticosteroids in the management of DG []. In 2023, a scoping review by Scribante et al. explored the correlation between oral hygiene and autoimmune gingival diseases, and the review concluded that appropriate oral hygiene education may help to improve patient-reported outcomes in autoimmune conditions presented with gingival manifestations []. A very recent systematic review on the treatment protocols for the management of DG highlighted the importance of personalized approach, depending on the diagnosis, to achieve a better clinical outcome []. While all these three reviews provided valuable insights, this present review focused more on the evaluation of pharmacological treatment approaches to DG, covering diverse therapeutic agents such as immunosuppressants, PRP and nano-formulated gels, alongside an assessment of their safeties, recurrence and possible QoL outcomes.
+
+Furthermore, although there are no international guidelines specifically dedicated to the management of DG as a distinct clinical entity, clinical protocols and recommendations are derived from broader guidelines addressing the underlying conditions that manifest as DG []. Those guidelines emphasize a personalized approach based on the accurate diagnosis of the underlying cause, often achieved through clinical examination, histopathological analysis and direct immunofluorescence studies [].
+
+Efficacy of Pharmacological agents
+
+Pharmacological approaches identified in this review varied widely in terms of agents, dosages and treatment durations. Clobetasol and tacrolimus emerged as the most frequently studied agents, with clobetasol typically applied topically at 0.05% concentration twice daily and tacrolimus administered via custom trays at 0.1% concentration. Additionally, novel therapies such as PRP [] and bio-adhesive gels containing propolis and nano-vitamin formulations [] demonstrated promising outcomes. These variations emphasize the evolving nature of treatment strategies and the need for standardized protocols to facilitate direct comparisons. Moreover, the limited sample sizes and short follow-up periods in these studies highlight the need for better planned clinical trials to confirm these findings.
+
+All reviewed pharmacological agents demonstrated effectiveness in alleviating the hallmark symptoms of DG, including pain, erythema and inflammation. Clobetasol, cited in over half of the included studies (53.3%), consistently yielded significant improvements in lesion size and gingival inflammation [,,,,,,,]. Similarly, tacrolimus reported comparable efficacy, with certain studies indicating superior outcomes over clobetasol particularly in patients who have not responded well for conventional corticosteroid treatments []. Other agents, such as propolis-containing gels and PRP also showed promising results in improving gingival healing and reducing the severity of symptoms [,].
+
+Impact on quality of life
+
+While clinical outcomes were the primary focus in most of the included studies, formal and standardized QoL assessments were highly limited. Among the reviewed literature, only one study employed a validated QoL instrument, namely OHIP-14, which reported a significant improvement in QoL scores in patients treated with a bio-adhesive gel containing propolis, nano-vitamin C and nano-vitamin E []. However, short follow-up period of one month limits its ability to assess the long-term sustainability of these QoL improvements.
+
+Leite et al. indirectly reported improvements in QoL, noting enhanced emotional well-being and social interactions as patients experienced significant reductions in pain and lesion sizes compared to baseline []. Nevertheless, QoL was not assessed using validated tools and the open-label study design may have introduced bias []. Similarly, in other studies, while symptom relief and clinical improvements indirectly suggest positive impacts on QoL, direct evaluation using validated instruments were lacking.
+
+Overall, the assessment of QoL across the included studies was inconsistent, often limited by the absence of standardized tools and short follow-up durations. This represents a significant gap in the current literature, as QoL outcomes are essential to understanding the full impact of interventions beyond clinical parameters. Future research should prioritize the integration of validated QoL measures with extended follow-up periods to comprehensively capture patient-centred outcomes in DG management.
+
+Recurrence
+
+The recurrence rates following treatment for DG varied across studies while some studies had not reported any recurrence rate. Among the reported studies, clobetasol local applications demonstrated relatively low recurrence rates, with no relapses observed during the study period in certain cases [,]. However, tacrolimus, while effective in reducing symptoms, exhibited a 30% relapse rate within three months in one study [] indicating the importance of regular monitoring. Nevertheless, the low recurrence rates associated with topical treatments, suggest their suitability for long-term management.
+
+For systemic treatments, mixed results were observed. In most of the studies, maintenance therapy may have contributed to sustain remission in conditions like mucous membrane pemphigoid and pemphigus vulgaris [,]. Emerging therapies, such as PRP, recorded cases of transitory relapses, though detailed recurrence data were lacking [].
+
+Safety of the Pharmacological agents
+
+Topical agents such as clobetasol and tacrolimus were generally well-tolerated, with most side effects being mild and localized. The fungal infections associated with clobetasol are likely due to its immunosuppressive effects, which could disrupt the oral microbiome. Thus, although clobetasol remains a highly effective and commonly used treatment, its safety profile requires careful consideration, particularly regarding the risk of fungal infections and the mode of application. Similarly, tacrolimus was also linked to local side effects such as taste sensitivity and burning sensations.
+
+In contrast, systemic treatments posed a greater risk for adverse effects, particularly in autoimmune associated cases. This ranged from severe haemolysis, anaemia, alopecia to local effects [,]. The higher safety profiles of the newer systemic therapies are worth noting [,], suggesting their potential role as safer alternatives in selected patient populations.
+
+Overall, the safety profiles of pharmacological treatments varied, with most adverse effects being mild and transient, particularly in the use of topical agents. However, systemic treatments carried a higher risk of significant side effects, requiring careful patient monitoring. These risks could be minimized by tailored treatment plans to suit individual patient needs, following proper usage guidelines, such as limiting treatment duration, concurrent antifungal prophylaxis and regular monitoring.
+
+Strengths of the evidence
+
+The studies included in this review exhibited significant heterogeneity in their designs, including randomized controlled trials, non-randomized studies, and retrospective case series. However, the evidence synthesized revealed robust methodological rigor, with most studies rated as “above average” in the quality assessment done using the MMAT. Nevertheless, it is also important to emphasize that several non-randomized studies did not account for confounding factors, potentially introducing bias.
+
+In contrast, two randomized controlled trials including those by González-Serrano et al. [] and Corrocher et al. [], scores demonstrated robust designs with clear protocols, appropriate randomization and blinding of outcome assessors, providing strong evidence for the efficacy of pharmacological treatments. Further, the studies included span across multiple decades, reflecting previous and recent advancements in pharmacological management.
+
+Limitations
+
+This systematic review highlights multiple limitations that need to be considered when interpreting the findings. The heterogeneity of the studies included into this review might have impacted the synthesis of evidence and the ability to draw definitive conclusions about the efficacy and safety of the pharmacological agents that have been used for the management of DG. Moreover, the inconsistency in the reporting and application of diagnostic protocols across the included studies, particularly the varied use of direct immunofluorescence and the minimal reference to standardized diagnostic guidelines, may limit the comparability and reproducibility of the findings. Thus, future research would require more standardized diagnostic protocols in clinical trials evaluating desquamative gingivitis.
+
+A common limitation across the included non-randomized studies was the failure to account for confounders in their study designs and analyses, as reflected in 33.33% of studies receiving a “No” rating on this criterion. Additionally, variations in outcome assessments and sample sizes impacted overall study comparability. However, despite these limitations, the inclusion of both randomized and non-randomized studies allowed for a broader synthesis of available evidence.
+
+Further, it was also noted that the parameters used to assess efficacy and safety outcomes were varied among the studies, limiting comparability across studies. Many studies had limited follow-up durations, which constrained the ability to evaluate long-term efficacy, recurrence rates and safety of the pharmacological intervention. Moreover, the use of small sample size in the included studies reduces the generalizability of their findings. Hence, large-scale, multicentre trials would be needed in the future.
+
+The geographical distribution of studies was predominantly focused on Europe and Brazil, with no contributions from Africa, Australia, and the Oceania. This represents a significant gap in understanding the global presentation of DG treatment.
+
+Although innovative treatments such as PRP and bio-adhesive gels could be good alternatives, yet the evidence base remains limited, due to lack of studies evaluating their long-term effectiveness and safety.
+
+Therefore, the above-identified limitations emphasize the need for future research to prioritize standardized outcome measures, extended follow-up periods, larger sample sizes and broader geographical representation. These improvements will enhance the reliability and applicability of evidence to clinical practice.
+
+Clinical implications
+
+Based on the synthesized evidence, and within the limitations highlighted in this review, clobetasol could still be considered as a cornerstone of treatment of DG due to its consistent efficacy in reducing pain, inflammation and lesion size. Tacrolimus, as an alternative, demonstrated comparable effectiveness, particularly in patients unresponsive to corticosteroids. Therefore, both agents could be considered as first-line treatments. The newest pharmacological agents, such as bio-adhesive gels containing propolis and nano-vitamin formulations [] and PRP [], have the potential to be considered as adjuncts for the cases with insufficient response for the traditional treatments or as an alternative if it is contraindicated.
+
+The review also emphasizes the need for individualized treatment plans considering patient-specific factors such as age, comorbidities and previous treatment responses, facilitating tailored interventions to optimize outcomes while minimizing adverse effects.
+
+Recommendations for future research
+
+This review highlights key areas for further exploration. Conducting larger multi-centre trials which incorporate standardized protocols is essential to enhance the generalizability of findings and enable direct comparisons between treatments. Research in underrepresented regions is needed to address the geographical gaps. Extended follow-ups using validated tools are crucial to assess recurrence rates and QoL outcomes comprehensively. Additionally, further investigation into nanotechnology-based therapies and other novel agents holds promise for expanding therapeutic options and advancing the management of DG.
+
+Conclusion
+
+This systematic review reflects the understanding of pharmacological management for DG by synthesizing evidence on efficacy, safety and QoL outcomes. Clobetasol and tacrolimus remain the most effective agents, while emerging pharmacological agents like PRP and nano-vitamin and propolis-containing gels offer promising alternatives for specific cases. However, significant gaps remain, including the need for larger, multi-centre trials, research in underrepresented populations and long-term evaluations of treatment outcomes. Addressing these gaps will enhance clinical decision-making and improve patient outcomes in the management of desquamative gingivitis.
+
+Electronic supplementary material
+
+Below is the link to the electronic supplementary material.
+
+Supplementary Material 1
