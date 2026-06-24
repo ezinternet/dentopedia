@@ -36,11 +36,13 @@ DOMAINS = [
         "isq", "implant-surface", "plasma-surface", "photofunctionalization", "implant-design", "implant-length",
         "implant-loading", "implant-occlusion", "implants-", "narrow-diameter",
         "tissue-level", "zirconia-implant", "osseodensification", "versah",
-        "robotic-vs-navigation", "bone-quality-implant"]),
+        "robotic-vs-navigation", "bone-quality-implant",
+        "implant-failure", "implant-macrogeometry", "macrogeometry", "osseointegration", "vitamin-d"]),
     ("즉시식립 · 타이밍", [
-        "immediate-implant", "placement-timing", "socket-shield", "type-1a"]),
+        "immediate-implant", "placement-timing", "socket-shield", "type-1a", "socket-iip"]),
     ("임플란트주위 연조직", [
-        "keratinized-mucosa", "peri-implant-soft", "peri-implantitis"]),
+        "keratinized-mucosa", "peri-implant-soft", "peri-implantitis", "peri-implant",
+        "emergence-profile", "supportive-peri-implant"]),
     ("골재생 · GBR · ARP", [
         "bone-regeneration", "dbbm", "gbr-", "open-healing-arp",
         "socket-preservation", "vertical-ridge"]),
@@ -51,23 +53,26 @@ DOMAINS = [
         "regenerative-endodontics", "single-vs-multivisit", "vital-pulp"]),
     ("치주 · 교합외상", [
         "periodontics", "occlusal-trauma", "toothpick", "toothbrush", "watanabe",
-        "plaque-control", "oral-hygiene", "interdental-cleaning", "interdental"]),
+        "plaque-control", "oral-hygiene", "interdental-cleaning", "interdental",
+        "periodontal", "biofilm-management", "gbt", "air-polishing"]),
     ("교합 · TMJ · 이갈이", [
         "bruxism", "tmd-", "unilateral-mastication"]),
     ("보철 · 수복재료 · 심미", [
         "adhesive-bonding", "ceramic-bonding", "crown-preparation", "dental-materials",
         "direct-resin", "immediate-dentin", "lithium-disilicate", "prosthetic-materials",
         "reis-2024", "veneer", "zirconia-material", "zirconia-types", "resin-dentin",
-        "complete-denture", "food-impaction"]),
+        "complete-denture", "food-impaction",
+        "post-and-core", "gothic-arch", "jaw-relation", "tooth-whitening", "restorative-margin"]),
     ("우식 · 경조직 · 시린이 · 균열", [
         "caries", "cracked-tooth", "dental-erosion", "dentin-hypersensitivity",
         "glass-ionomer", "nccl"]),
     ("구강외과 · 마취 · 통증", [
         "buffered-modified", "mandibular-anesthesia", "oral-surgery", "third-molar",
-        "topical-anesthetic", "suture-wound"]),
+        "topical-anesthetic", "suture-wound", "dental-trauma"]),
     ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease"]),
     ("구강내과 · 미생물 · 노년 · 구강안면통증", [
-        "oral-medicine", "oral-microbiome", "oral-frailty", "bms", "orofacial-pain"]),
+        "oral-medicine", "oral-microbiome", "oral-frailty", "bms", "orofacial-pain",
+        "halitosis", "mucositis"]),
     ("교정", ["miniscrew", "orthodontic-tooth", "clear-aligner", "aligner", "myofunctional", "elastodontic"]),
     ("방사선 · 디지털 · AI", [
         "cbct", "dental-imaging", "digital-workflow", "ai-dentistry"]),
