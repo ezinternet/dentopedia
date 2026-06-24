@@ -1,0 +1,88 @@
+Title: Jaw relation recording using nick and notch technique with intraoral gothic arch tracing in completely edentulous patients: A clinical study
+Authors: Singh et al.
+Year: 2026
+Journal: Bioinformation
+DOI: 10.6026/973206300222521
+PMID: 42282410
+PMCID: PMC13252300
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC13252300/)
+
+Abstract:
+Recording centric and protrusive jaw relations in completely edentulous patients remain a critical yet challenging step in complete denture fabrication. Therefore, it is of interest to compare the consistency of jaw relation records obtained using Nick and Notch, intraoral Gothic arch tracing and extraoral Gothic arch tracing methods with split-cast mounting on a semi-adjustable articulator. Hence, twenty edentulous subjects (45-60 years) were evaluated and discrepancies were measured at right lateral, left lateral and anterior points using a digital Vernier caliper. Statistical analysis using one-way ANOVA and Tukey's post hoc test demonstrated that the Nick and Notch technique exhibited the least discrepancy, while extraoral Gothic arch tracing showed the highest inconsistency, with intraoral tracing demonstrating intermediate values. The Nick and Notch technique was found to provide the most reliable jaw relation records, with intraoral Gothic arch tracing being more accurate than extraoral tracing, likely due to reduced muscular interference and closer approximation to the condylar rotational axis.
+
+Background:
+The transfer of maxillomandibular relationship between the patient and the articulator is critical in the successful rehabilitation of entirely edentulous patients with complete dentures. The registration of centric relation may be considered one of the most important steps in complete denture construction; errors at this stage propagate to all later stages and may compromise function, comfort and prosthesis lifespan. Centric relation is described as the position where the condyles line up with the thinnest avascular structure of their respective discs in the most anterior-superior position relative to the posterior slopes of the articular eminences — a reproducible, bone-braced reference posture where mandibular movements start and end during swallowing and habitual closure.
+
+Proprioceptive information of the periodontal ligament offers accurate control of mandibular positioning in dentate individuals. This proprioceptive system is lost entirely with loss of natural dentition; positional sense is handed over largely to the temporomandibular joint and surrounding musculature. This change in sensory feedback makes correct identification of centric relation in edentulous patients much more difficult than in dentate patients. Long-term edentulism, chronic closure behavior, neuromuscular impairment and temporomandibular disorders further reduce the clinician's ability to position the mandible consistently.
+
+Methods to record centric relation are broadly categorized as static or functional.
+- Nick and Notch wax registration (static): the mandible is positioned in centric relation and the relationship between opposing occlusal rims is recorded via an interocclusal recording medium. Valued for ease, low base displacement, and reliance on the patient's natural habitual closure pattern.
+- Functional methods involve active mandibular movements during recording and include graphic tracing techniques. Gothic arch tracing (intraoral or extraoral devices) is one of the most frequently used graphic techniques. When the mandible performs lateral excursive movements from the retruded position, the tracing stylus traces an arrow-shaped mark; the apex of the arrowhead is the centric relation position.
+
+Intraoral vs extraoral: the intraoral device places the recording apparatus inside the oral cavity in close proximity to the condylar axis of rotation, whereas the extraoral device projects the recording platform forward of the oral cavity. Proponents of the intraoral technique argue that positioning closer to the condylar axis minimizes amplification of error and that the oscillatory action of oral muscles is relatively ineffective during recording. Proponents of the extraoral method argue that the wider tracing platform makes apex identification and patient guidance easier.
+
+Few three-way comparisons exist using split-cast mounting as the verification standard. Split-cast mounting (introduced by Needles) gives an accurate, repeatable way of assessing accuracy of interocclusal records by measuring the difference between split surfaces when records are placed on top of each other.
+
+Materials and Methods:
+- Study design: clinical comparative study, Prosthodontics Department of a dental teaching institution, over 6 months.
+- Population: twenty entirely edentulous patients selected by stratified random sampling from the outpatient department.
+  - Inclusion: fully edentulous, aged 45-60 years, both sexes, adequate mouth opening, good residual ridges, no maxillofacial deformities, willing to consent.
+  - Exclusion: compromised systemic health, TMJ disorders, severely resorbed ridges, inability/unwillingness to open mouth.
+- Design: within-subject; each patient acted as their own control. Centric and protrusive jaw relationship recorded by all three methods → total 60 records.
+  - Group NN: Nick and Notch technique (n=20)
+  - Group NE: Extraoral Gothic arch tracing (n=20)
+  - Group NI: Intraoral Gothic arch tracing (n=20)
+- Standard prosthodontic procedures: primary impressions (impression compound, stock trays); custom self-cure acrylic trays, border molding with green stick, final impressions with zinc oxide eugenol paste; master casts in dental stone; heat-cured acrylic record bases with wax occlusion rims. Plaster index method duplicated each record base into three identical record bases per patient (one per technique); occlusion rims also standardized by index duplication.
+- Face-bow transfer: arbitrary face-bow record per patient transferred to a Hanau Wide-Vue semi-adjustable articulator; maxillary cast mounted via face-bow. First mandibular cast mounting done with the Nick and Notch centric record, used as the REFERENCE mounting for all subsequent tests.
+
+Recording techniques:
+- Nick and Notch: 2-3 mm wax removed bilaterally at premolar region of mandibular rim, surface grooved; corresponding V-shaped notches/nicks on maxillary rim; lubricated; patient closes in retruded position; zinc oxide eugenol paste in mandibular troughs records the relationship. Recorded five times; most repeated record selected.
+- Extraoral Gothic arch: maxillary rim aligned with occlusal plane, upper bearing plate fixed; mandibular rim reduced 3 mm, lower tracing platform connected; tracing table coated with lamp black; centric and lateral excursive movements until a definite Gothic arch with apex achieved; perforated transparent plastic placed on apex; centric and protrusive positions recorded with type III dental stone between rims.
+- Intraoral Gothic arch: mandibular rim reduced 3 mm; intraoral tracing device positioned on occlusion rims; bearing pin advanced to contact upper plate at correct vertical dimension; upper plate inked (permanent marker); eccentric movements until clean trace with definite apex; perforated transparent sheet at apex; centric and protrusive records made with type III dental stone.
+
+Split-cast evaluation: after Nick and Notch reference mounting, the upper cast was separated with orthodontic plaster off the mounting disc. Three reference points on the upper split cast: an anterior point in front of the incisive papilla and two posterolateral points 10 mm in front of the posterior border of each maxillary tuberosity. Interocclusal records of each technique interposed sequentially between mounted casts, articulator closed, difference at each reference point measured with a digital Vernier caliper (0.01 mm). Centric and protrusive positions measured.
+
+Outcome measures (discrepancy at centric and protrusive):
+[1] Right lateral discrepancy (RLD)
+[2] Left lateral discrepancy (LLD)
+[3] Anterior discrepancy (AD)
+[4] Overall discrepancy (average of RLD, LLD, AD)
+
+Statistics: SPSS 22.0; Shapiro-Wilk (normality), Levene (homogeneity of variance); descriptive stats as mean ± SD; one-way ANOVA + Tukey HSD post hoc for pairwise; significance p < 0.05.
+
+Results:
+At all measurement sites, Nick and Notch had the smallest mean discrepancy and extraoral Gothic arch tracing the largest; intraoral tracing intermediate.
+
+Centric position (overall mean discrepancy):
+- Nick and Notch: 0.15 ± 0.03 mm
+- Intraoral tracing: 0.42 ± 0.10 mm
+- Extraoral tracing: 0.74 ± 0.12 mm
+- ANOVA overall F = 200.90, p < 0.001
+- Per-site ANOVA: RLD F = 162.50 (p<0.001), LLD F = 83.27 (p<0.001), AD F = 91.21 (p<0.001)
+
+Protrusive position (overall mean discrepancy):
+- Nick and Notch: 0.23 ± 0.08 mm
+- Intraoral tracing: 0.51 ± 0.13 mm
+- Extraoral tracing: 0.86 ± 0.14 mm
+- ANOVA overall F = 146.70, p < 0.001
+- Per-site ANOVA: RLD F = 99.94 (p<0.001), LLD F = 53.13 (p<0.001), AD F = 53.20 (p<0.001)
+
+Tukey post hoc: ALL pairwise differences statistically significant at both centric and protrusive. Extraoral significantly higher than both intraoral and Nick and Notch; intraoral significantly higher than Nick and Notch but significantly lower than extraoral, at all sites. Protrusive discrepancies consistently higher than centric for all three methods.
+
+Discussion (key points):
+- Hierarchy: Nick and Notch (least) < intraoral Gothic arch < extraoral Gothic arch (most) discrepancy vs reference mounting, at both centric and protrusive.
+- Nick and Notch advantage: static recording in a stationary, habitual closed position avoids functional excursive movements that displace record bases relative to ridges (a major error source in functional methods); zinc oxide eugenol gives a firm, dimensionally stable record.
+- Intraoral < extraoral: intraoral apparatus places the bearing point/recording plate closer to the transverse hinge axis, so any angular condylar movement produces correspondingly smaller linear movement at the recording plate (less magnification of error); smaller apparatus keeps oral musculature more relaxed; extraoral device's forward-projecting platform adds weight/leverage that can tilt or displace record bases (worse with resorbed ridges/weak bases) and alter neuromuscular behavior and tongue positioning.
+- Protrusive > centric error for all methods: eccentric registration is more complex — bilateral condylar translation along articular eminences adds variables (disc-condyle relationships, retrodiscal viscoelasticity); inconsistency in direction/extent of protrusion is exaggerated at the occlusion-rim/split-cast interface.
+- Clinical magnitudes: Nick and Notch 0.15-0.23 mm is within clinically acceptable range for complete denture fabrication; intraoral 0.42-0.51 mm statistically different but clinically manageable with routine remounting/occlusal adjustment; extraoral ~0.74-0.86 mm may translate to clinically perceptible errors needing larger correction.
+- Caveat: Nick and Notch depends on clinician's ability to guide the mandible and on patient neuromuscular cooperation. Graphic tracing may be advantageous in patients with impaired neuromuscular control, habitual protrusive closure, or greater ridge resorption, because of visual confirmation of centric at the Gothic arch apex. Method choice must be individualized to clinical conditions, patient factors and operator experience.
+
+Limitations:
+- Small sample (n=20) — sufficient for statistical significance but limited generalizability.
+- Age limited to 45-60 years, excluding older patients with the most difficult edentulous situations.
+- Single operator for all recordings — operator bias possible, does not capture inter-operator variability.
+- Split-cast assessment is objective/quantitative but measures discrepancy in one plane, may not capture full three-dimensional positional errors.
+- Future studies should use larger samples, multiple operators, 3D analysis tools, and correlation with clinical outcomes.
+
+Conclusion:
+Accurate recording of centric and protrusive jaw relations remains a fundamental yet technique-sensitive step in complete denture prosthodontics. Among the evaluated methods, the Nick and Notch technique demonstrated superior consistency, while intraoral Gothic arch tracing proved more reliable than extraoral tracing, though none of the techniques were entirely free from error. Selection of a jaw relation recording method should be individualized, balancing accuracy, clinical feasibility and patient-specific factors.
