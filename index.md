@@ -828,6 +828,7 @@ tags: []
 - [[veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]] — Gonzalez-Martin 2024 in-vitro pilot SEM: HF etching time for ultrathin feldspathic veneers — 120 s (platinum foil) vs 90 s (refractory die) optimal (Int J Periodontics Restorative Dent)
 
 ## 치과재료 (Dental Materials)
+- [[dental-materials/mukaibo-2026-peek-plasma-mma-luting-bond-strength]] — Mukaibo 2026 · in-vitro · PEEK에 MMA계 luting(Super-Bond·Beautylink) 접착 — 샌드블라스팅+플라즈마 표면처리가 결합강도·내구성 향상 (DOI 10.3390/bioengineering13050507)
 - [[dental-materials/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] — Seung-Eun Lee 2023 (대한치과의사협회지) · in-vitro · Cention N(alkasite) vs Fuji IX GP·Fuji II LC: 3개월 지속 불소 유리 + 항균성 보유, pH 최고; 단 S. mutans 항균력은 GIC보다 낮고 불소 유리량은 Fuji IX GP가 최다
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — 후향적 빅데이터(이스라엘 Maccabi, 650k명, 2014–2021): 아말감 연간실패율 3.5% vs 레진 4.5%; HR 1.29; 다면 수복에서만 유의한 차이
 - [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] — SR(Cureus 2025, 1990–2024): 아말감 중앙생존 >16년 vs 레진 ~11년; 최신 연구에서 격차 축소; 이차우식이 레진 주요 실패 원인
@@ -998,6 +999,10 @@ tags: []
 - [[endodontics/regenerative/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
 
 ## 레진접착 (Resin Bonding)
+- [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] — Delgado 2025 · narrative-review · 4-META는 카르복실산계 단량체로 수용액서 4-MET로 가수분해(pKa 2.9), 10-MDP·GPDM보다 결합·가수분해안정성 열세 (DOI 10.3290/j.jad.c_2297)
+- [[resin-bonding/kikuta-2025-fillers-4-meta-mma-tbb-resin-root-caries]] — Kikuta 2025 · in-vitro · 4-META/MMA-TBB(슈퍼본드) 수지 filler 비교, 노인 root caries엔 유기 복합 filler가 최적(경화↓·접착↑) (DOI 10.3290/j.jad.c_2428)
+- [[resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr]] — Corbella 2025 · sr · VRF 외과적 관리 6연구 중 4개가 4-META/MMA-TBB(Super-Bond) 단편 접착, 근거는 case series·저질 (DOI 10.1111/aej.12923)
+- [[resin-bonding/li-2025-crown-root-fracture-super-bond-case-report]] — Li 2025 · case-report · 상악 중절치 치관-치근 파절을 Super-Bond(4-META/MMA-TBB)로 파절편 재접착, 55개월 무탈착·치주건강 유지 (DOI 10.1155/crid/6104187)
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — **종합 오버뷰** (15편): 레진-상아질 결합 내구성·열화 — hybrid layer 붕괴(가수분해+MMP/cathepsin)·water-tree·MMP억제(CHX)·MDP nanolayering·에탄올습윤·conditioner 6축; in-vitro 우월성↔임상 괴리
 - [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — Borouziniat 2024 · sr+ma · 26편 SR+MA: 지르코니아에 self-adhesive ≈ self-etch 레진시멘트(차이 없음), total-etch는 유의 낮음(p=.00) (DOI 10.4103/JCDE.JCDE_225_23)
 - [[resin-bonding/musharbash-2025-cleaning-agents-contaminated-zirconia]] — Musharbash 2025 · in-vitro · 타액오염 지르코니아: 에어입자분사(APC) 최고 SBS, Katana Cleaner/Ivoclean/Zirclean는 대안 가능, thermocycling 시 전반 감소 (DOI 10.1111/jerd.13512)
