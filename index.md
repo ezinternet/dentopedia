@@ -1927,6 +1927,7 @@ tags: []
 - [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)
 - [[implants/versah-protocols/versah-immediate-implant-placement-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Implant Placement Protocol
 - [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — Ali 2026 · RCT · Split-mouth RCT: Densah bur vs Magnetic Mallet OD in maxillary anterior zone — DB higher ISQ (70.1 vs 49.0) and labial plate thickness; bone density equivalent at 6 months
+- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Rittipakorn 2025 · in-vitro · Human cadaveric tibia (40 implants, D3/D4): novel clockwise OD (800 rpm) vs standard drilling — higher but NS ISQ (67.5 vs 62.9) & IT (34 vs 29.5 Ncm), tighter IQR, significant IT–ISQ correlation only in OD (ρ=0.577)
 
 ### periodontics (added 2026-05-28, batch e)
 
