@@ -1,0 +1,101 @@
+Influence of Bioactive, Inorganic, and Organic Fillers on Basic Properties of 4-META/MMA-TBB Resin as Restorative Materials for Root Caries
+PMCID: PMC12709080 | PMID: 41400633 | DOI: 10.3290/j.jad.c_2428
+Journal: J Adhes Dent, 2025
+Source: PubMed Central full text (PMC)
+
+ABSTRACT
+
+Purpose
+This study aimed to evaluate the effects of bioactive, inorganic, and organic fillers on the curing time, mechanical properties, mineralization ability, and shear bond strength to dentin of 4-methacryloxyethyl trimellitate anhydride/methyl methacrylate-tri-n-butylborane (4-META/MMA-TBB) resin-based restorative materials.
+
+Materials and Methods
+Experimental resins were prepared by incorporating 3 wt% organic composite filler, bioactive glass, or aluminosilicate glass into 4-META/MMA-TBB resin. A commercial organic-filler-containing 4-META/MMA-TBB resin (Bondfill SB Plus (BSP)) was also tested for comparison. The curing time, three-point flexural strength, and shear bond strength to root dentin were measured and statistically analyzed with a significance level of alpha = 0.05. The mineralization ability of groups containing bioactive glass was evaluated based on the formation of hydroxyapatite in simulated body fluid.
+
+Results
+The bioactive glass group exhibited prolonged curing times and reduced flexural strengths compared to BSP. Bioactive glass induced slight mineralization. Organic composite filler reduced the curing time and significantly increased the shear bond strength to dentin. After thermal cycling, the organic composite filler groups retained higher bond strengths than the other groups.
+
+Conclusion
+Incorporating organic composite fillers into 4-META/MMA-TBB resin may improve clinical handling by reducing the curing time while maintaining or enhancing the bond strength to dentin, suggesting their suitability for restorative applications, particularly in moisture-compromised environments.
+
+FULL TEXT
+
+In recent years, population aging and improved dental care have led to an increased number of retained teeth among older adults. However, in a 1-year follow-up study of 186 dental patients aged 65 years or older in Okayama Prefecture, Japan, a majority (59.6%) had at least one root surface carious lesion. Similarly, a survey conducted in Hubei Province, China, involving 1080 participants aged 35-44 or 65-74 years from both urban and rural areas, reported a 13.1% prevalence of root caries in the middle-aged group and 43.9% among older adults. These findings indicate that the prevalence of root caries increases with age and has become a growing concern in clinical dentistry.
+
+Treating root caries in older adults presents several clinical challenges. This population is susceptible to gingival recession, plaque accumulation on root surfaces, and gingival bleeding associated with periodontitis, which complicates moisture control in the operative field. Additionally, older adults with cognitive impairment may struggle to understand and follow dental instructions, exacerbating the difficulty of maintaining a dry working environment. Moisture negatively affects the bonding efficacy and mechanical properties of restorative materials, which may lead to marginal degradation, microleakage, and eventual debonding of the restoration. These issues can ultimately result in recurrent caries or restoration failure.
+
+In this context, restorative materials must be carefully selected for managing root caries in older adults, necessitating a thorough understanding of their properties. Composite resins and glass ionomer (GI) cements are widely used in clinical practice. Composite resins are preferred owing to their favorable mechanical properties and esthetic qualities. However, achieving adequate adhesion with composite resins requires a dry environment. As a result, GI cements are commonly used for restorations in older adults. GI cements are favored for their biocompatibility, chemical bonding to dental hard tissues, and fluoride release, all of which may contribute to the prevention of recurrent caries. Nevertheless, GI cements generally exhibit lower bond strengths to dentin than resin-based materials and are highly sensitive to moisture during the setting process, which may compromise their clinical performance. Furthermore, conventional GI cements have limited mechanical properties, including relatively low flexural and tensile strengths.
+
+Recently, resin-based restorative materials such as 4-methacryloxyethyl trimellitate anhydride/methyl methacrylate-tri-n-butylborane (4-META/MMA-TBB) have gained attention as promising alternatives to conventional composite resins and GI cements. These materials have superior bonding performance to conventional composite resins and are particularly effective in moisture-compromised environments. Furthermore, research has shown that 4-META/MMA-TBB resins have long-term bonding durability. However, the effects of reinforcing fillers and bioactive agents on their physical and functional properties remain poorly understood.
+
+This study investigates the effects of organic composite filler, bioactive glass, and aluminosilicate glass on the physical properties of 4-META/MMA-TBB resin-based restorative materials. These fillers were selected because previous reports have indicated that they may improve the physical properties of resin-based restorative materials: organic composite fillers may provide mechanical reinforcement; bioactive glasses exhibit ion-releasing and remineralizing potential; and aluminosilicate glasses may improve the flexural strength. The curing time, mechanical properties, and shear bond strength to root surface dentin were evaluated and compared with those of conventional materials. In addition, the mineralization ability of materials with bioactive glass was explored. The null hypothesis was that organic composite filler, bioactive glass, and aluminosilicate glass have no effect on the curing time, mechanical properties, or shear bond strength of 4-META/MMA-TBB resin-based restorative materials. The second null hypothesis was that bioactive glass has no effect on the mineralization ability of 4-META/MMA-TBB resin-based restorative materials.
+
+MATERIALS AND METHODS
+
+Materials
+Experimental groups were prepared by adding 3 wt% of filler to 4-META/MMA-TBB resin. The fillers used were: organic composite filler (OC, multi or opacious; radiopaque polymer-coated filler, particle size: 15 um, density: 7.0 g/cm3), bioactive glass (BG, multi or opacious; 45S5, particle size: 5 um, density: 2.8 g/cm3), and aluminosilicate glass (AS; particle size: 1 um, density: 2.4 g/cm3). The volume fractions (vol%), as calculated based on the nominal weight fractions (3 wt%), powder compositions, and filler density, were 6.84 vol% for OC, 1.61 vol% for BG, and 1.87 vol% for AS. The multi and opacious variants of the organic composite filler and bioactive glass differed only in pigment composition, which accounted for less than 1 wt% of the total formulation; the remaining components (>99 wt%) were identical. A commercial organic-filler-containing 4-META/MMA-TBB resin (denoted as BSP; Bondfill SB Plus, Sun Medical, Shiga, Japan) was also tested for comparison. The number of samples was determined with reference to previous literature (curing time: n = 3 per group; three-point flexural strength and shear bond strength: n = 15 per group; mineralization ability: n = 10 per group).
+
+Curing Time
+The curing behavior of the 4-META/MMA-TBB resin-based materials was evaluated using isothermal differential scanning calorimetry (DSC; DSC-60, Shimadzu Corporation, Kyoto, Japan). The resin was cured by heating within the DSC instrument at a constant temperature of 37C. Because 4-META/MMA-TBB resin is not photocurable, no light-curing unit was used. The time at which the maximum exothermic peak appeared during the polymerization process was taken as the curing time.
+
+Three-point Flexural Strength
+The flexural strength was assessed using three-point bending tests. Building on previous studies, the 4-META/MMA-TBB resin-based materials were incrementally applied to Teflon molds using a brush to create rod-shaped specimens (2 mm x 2 mm x 25 mm) in accordance with ISO 4049. The specimens were stored at 37C and 100% relative humidity for 1 week, after which they were tested using a universal testing machine (EZ-LX, Shimadzu Corporation, Kyoto, Japan) at a crosshead speed of 1 mm/min. The span length was set at 20 mm.
+
+Evaluation of Mineralization Ability
+Mineralization tests were performed for the BSP, BG_multi, and BG_opacious groups. Disk-shaped specimens (10 mm diameter x 2 mm thickness) were prepared by incrementally applying the resin to a mold using a brush. The specimens were then immersed in simulated body fluid (SBF), prepared according to ISO 23317, and incubated at 37C for 4 or 8 weeks. The deposition of crystalline phases on the surfaces of the specimens was assessed. The surface morphology and elemental composition were analyzed by scanning electron microscopy (SEM; JSM-7900F, JEOL, Tokyo, Japan) and energy-dispersive X-ray spectroscopy (EDS; JED-2300, JEOL). Before the EDS analysis, the surfaces of the specimens were coated with carbon. SEM observations were conducted at an accelerating voltage of 15.0 kV and a current of 7.475 nA. Semi-quantitative elemental analysis was performed on the crystalline deposits observed on the specimen surfaces. In addition, grazing incidence X-ray diffraction (GIXRD; PANalytical X'pert PRO MPD, PANalytical, Almelo, Netherlands) was performed with Cu Kalpha radiation (45 kV, 40 mA). The measurements were conducted with a fixed incidence angle of 1.0 degree, 2theta scanning range of 2-55 degrees, step size of 0.02 degrees, and time per step of 1.00 s.
+
+Shear Bond Strength to Root Surface Dentin
+The shear bond strength to root surface dentin was evaluated using extracted human teeth. To ensure consistency across specimens, only teeth with sound, intact root dentin were used. In addition, all carious tissue was removed, because controlling the quality of specimens is difficult with selective caries removal. This approach is consistent with previous studies and allows reliable shear bond strength evaluation. Ethical approval for the use of human teeth was granted by the Ethics Review Committee of the Faculty of Dentistry at the Institute of Science Tokyo (D2016-025). After the periodontal tissue was removed, the teeth were stored in a 0.5% chloramine T solution. The teeth were sectioned sagittally using a precision cutting machine (Preciso CL40, Sankei, Tokyo, Japan) and embedded in a room-temperature-curing resin (Unifast III Clear, GC, Tokyo, Japan). The exposed root dentin surfaces were flattened using a trimmer (Y-230, Yoshida, Tokyo, Japan) and then polished with waterproof abrasive paper (DCCS-600, Sankyo Rikagaku Co., Saitama, Japan).
+
+Following the manufacturer's instructions, a primer (Teeth Primer, Sun Medical) was coated on the root dentin for 20 s and air-dried using a three-way syringe. A mixture of base and catalyst was then applied to the bonding surface to enhance the wettability. A cylindrical mold (Bonding Mold Insert, Ultradent Products, South Jordan, UT, USA) with an internal diameter of 2.4 mm and a height of 2.5 mm was used to apply the resin to the dentin surface. The specimens were allowed to cure at room temperature for 30 min before demolding.
+
+The specimens were divided into two groups: one group was stored in ultrapure water at 37C for 24 h prior to testing (24 h group), while the other underwent thermal cycling (TC group) by alternately immersing the specimens in water baths at 5 +/- 1 and 55 +/- 1C, with an immersion time of 30 s and transfer time of 2 s between baths. This process was repeated for a total of 10,000 cycles. The samples were then subjected to shear bond strength tests using a universal testing machine (EZ-LX, Shimadzu Corporation, Kyoto, Japan) at a crosshead speed of 1 mm/min.
+
+Following the shear bond tests, the fracture surfaces were examined by optical microscopy (Stemi 305, ZEISS, Jena, Germany). The fracture modes were classified as adhesive failure, cohesive failure, or mixed failure.
+
+Statistical Analysis
+Depending on the results of Shapiro-Wilk's test for normality, the curing time was analyzed using either one-way analysis of variance (ANOVA) followed by Tukey's post hoc test, or Kruskal-Wallis's test followed by Dunn's post hoc test. The flexural strength data were evaluated by Weibull analysis using the maximum likelihood estimation (MLE) method implemented in the WeibullR package, with confidence intervals calculated by the likelihood ratio method; statistical differences between Weibull distributions were assessed by comparing likelihood contour lines. The shear bond strength was analyzed using a linear mixed-effects model, treating individual teeth as random effects. All analyses were performed in R (version 4.3.1), with the level of significance set at alpha = 0.05.
+
+RESULTS
+
+Curing Time
+The OC_multi (P < 0.001), OC_opacious (P < 0.001), and AS (P < 0.001) groups exhibited significantly shorter curing times than the BSP, BG_multi, and BG_opacious groups. BG_opacious showed a significantly longer curing time than BG_multi (P = 0.00808). No significant differences in curing time were observed among the OC_multi, OC_opacious, and AS groups (P > 0.05), or among the BG_multi, BG_opacious, and BSP groups (P > 0.05).
+
+Three-point Flexural Strength
+The OC_opacious, BG_multi, BG_opacious, and AS groups exhibited significantly lower flexural strengths than BSP. OC_multi also showed lower flexural strength than BSP; however, the difference was not significant. Although no significant differences were observed between the AS group and the BG_multi, BG_opacious, or OC_opacious groups, the AS group exhibited slightly higher flexural strength.
+
+Mineralization Ability
+EDS analysis conducted at 4 and 8 weeks revealed prominent peaks corresponding to C and O, as well as multiple M and L lines attributed to Yb. In contrast, peaks corresponding to Ca and P, which are key components of hydroxyapatite, were extremely weak. No notable differences in Ca or P content were observed among groups. SEM imaging revealed needle-like crystalline structures on the surfaces of some specimens in the BG_multi and BG_opacious groups. However, GIXRD analysis did not detect crystalline hydroxyapatite peaks.
+
+Shear Bond Strength To Root Surface Dentin
+After immersion in ultrapure water for 24 h at 37C, no significant differences in shear bond strength were observed among groups (P > 0.05). In contrast, after thermal cycling for 10,000 cycles between 5 and 55C, the OC_multi (P < 0.05) and OC_opacious (P < 0.05) groups exhibited significantly higher shear bond strengths than the other groups. Intragroup comparisons between the 24 h immersion and thermal cycling conditions revealed a significant decrease in shear bond strength after thermal cycling for the BSP (P = 0.0041) and BG_multi (P = 0.0050) groups, whereas no significant differences were observed for the BG_opacious (P > 0.05) or AS (P > 0.05) groups. Notably, the OC_multi (P = 0.0376) and OC_opacious (P = 0.0075) groups exhibited a significant increase in shear bond strength following thermal cycling.
+
+Mixed and adhesive failure modes were observed; however, cohesive failures were not detected in any group. Overall, the proportion of adhesive failures was higher after 24 h of immersion, whereas more mixed failures were observed following thermal cycling.
+
+Table 1. Distribution of failure modes (Adhesive% / Cohesive% / Mixed%); 24h = stored 24 h in ultrapure water at 37C; TC = thermal cycling 10,000 cycles 5-55C.
+BSP        24h: 20 / 0 / 80     TC: 20 / 0 / 80
+BG_multi   24h: 46.7 / 0 / 53.3 TC: 20 / 0 / 80
+BG_opacious 24h: 53.3 / 0 / 46.7 TC: 13.3 / 0 / 86.7
+OC_multi   24h: 66.7 / 0 / 33.3 TC: 45.7 / 0 / 53.3
+OC_opacious 24h: 53.3 / 0 / 46.7 TC: 46.7 / 0 / 53.3
+AS         24h: 46.7 / 0 / 53.3 TC: 53.3 / 0 / 46.7
+
+DISCUSSION
+
+The null hypothesis was rejected for: bioactive glass (curing time, flexural strength, and bond strength); organic filler (curing time and bond strength); and aluminosilicate glass (curing time and flexural strength). It was retained for bioactive glass (mineralization ability); organic filler (flexural strength); and aluminosilicate glass (bond strength). Filler incorporation selectively affects certain physical and adhesive properties of 4-META/MMA-TBB resin.
+
+A significant increase in curing time was observed in groups with bioactive glass. Because 4-META/MMA-TBB resin contains acidic monomers as adhesive components, an increase in pH (induced by 45S5 bioactive glass) may reduce monomer reactivity, thereby inhibiting the TBB-initiated polymerization process. The three-point flexural strength decreased significantly after adding bioactive or aluminosilicate glass, suggesting these additives may compromise the mechanical integrity of the resin.
+
+No significant differences in mineralization ability were found when bioactive glass was added. No hydroxyapatite peaks were detected by GIXRD in any group; the apatite phase, if present, was below the limit of detection. Kohda et al added 0-50 wt% bioactive glass to 4-META/MMA-TBB resin; with 30-50 wt% bioactive glass, enamel adjacent to the bonded area maintained significantly higher Knoop hardness than control. The relatively low BG concentration in this study (3 wt%), compared to the 30-50 wt% used by Kohda et al, may explain the limited hydroxyapatite formation observed.
+
+After thermal cycling, the shear bond strengths of the groups with organic composite filler were significantly higher than those of the groups with bioactive or aluminosilicate glass, suggesting that inorganic fillers may negatively affect bonding performance. The OC_multi and OC_opacious groups showed significantly higher shear bond strengths after thermal cycling compared with the 24 h immersion condition. This favorable performance can be explained by the presence of pre-polymerized organic filler, which reduces polymerization shrinkage stress and improves interfacial properties. Saeki et al reported that Bondfill SB had a significantly higher shear bond strength than a conventional 4-META/MMA-TBB adhesive, ascribed to a reduction in the interfacial inhibition layer and a more favorable stress distribution.
+
+Limitations: experiments were conducted in vitro; bonding was performed on sound root dentin after complete caries removal (not infected dentin); only ultrapure water was used as the storage/thermal-cycling medium (not PBS or SBF). Future studies should identify the optimal bioactive glass concentration that promotes dentin remineralization without compromising curing time, bond strength, or mechanical properties.
+
+CONCLUSION
+
+The incorporation of bioactive glass prolonged the curing time and reduced the flexural and shear bond strengths. Slight crystal formation was observed, but the extent of deposition was insufficient to clearly demonstrate hydroxyapatite formation or enhanced mineralization. In contrast, the incorporation of organic composite filler shortened the curing time and increased the shear bond strength without significantly affecting the flexural strength. The addition of aluminosilicate glass also reduced the curing time, but slight decreases in the flexural and shear bond strengths were observed. These findings suggest that organic composite fillers are the most suitable additives for 4-META/MMA-TBB resin-based restorative materials.
+
+Clinical Relevance
+Organic composite fillers reduce the curing time of 4-META/MMA-TBB resin while maintaining adequate bond strength, suggesting favorable clinical applicability for restoring root caries in older adults, particularly in situations where moisture control is challenging. In contrast, bioactive and aluminosilicate glasses reduce bond strength and mechanical properties, and should therefore be used with caution.
+
+Funding: Funded in part by Sun Medical Co.; supported by a Grant-in-Aid for Research Activity Start-up from JSPS (22K20986).
