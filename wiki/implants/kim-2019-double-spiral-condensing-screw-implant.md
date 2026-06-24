@@ -28,7 +28,7 @@ Korean patent application (KR 10-2021-0014513 A; applicant HaeNaem Co., inventor
 
 ## Summary
 
-This is the **(주)해냄 (HaeNaem Co.) patent** behind the HaeNaem 골밀도화 (Osseodensification, OD) bur discussed clinically in [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]]. It is a patent disclosure, not a clinical study — it documents *how the instrument is built and why*, not patient outcomes.
+This is the **(주)해냄 (HaeNaem Co.) patent** behind the HaeNaem 골밀도화 (Osseodensification, OD) bur. The only prospective clinical study of this bur, [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]], was **subsequently RETRACTED — do not cite it as clinical evidence.** This patent itself is a disclosure, not a clinical study — it documents *how the instrument is built and why*, not patient outcomes, and remains valid as an engineering reference independent of the retracted clinical paper.
 
 The core problem it addresses: a conventional OD bur forms its thread **opposite to the rotation direction**, so on rotation the released bone powder cannot escape and is pressed against the osteotomy wall — densifying without cutting bone away (the OD principle). But this gives strong *lateral* densification (side-wall zone thickness d1) and weak *apical/inner* densification (floor zone d2 ≪ d1), which is insufficient for transcrestal sinus elevation; it also applies continuous lateral pressure that hurts the patient.
 
@@ -54,7 +54,7 @@ No clinical or bench measurements (patent document). Asserted effects only: grea
 
 ## Related Papers
 
-- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — the only clinical data on this HaeNaem bur (prospective, n=12); this patent is its engineering basis
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(RETRACTED/철회됨 — do not cite)** the only prospective clinical data on this HaeNaem bur (n=12); subsequently retracted, so no valid clinical evidence remains. This patent is its engineering basis (unaffected)
 - [[implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]] — Densah/Versah OD bur mechanism (CW=extraction / CCW=densify); contrasting reversible-direction design
 - [[implants/kim-2019-bone-collector-drill-assembly]] — companion (주)해냄 / Kim Seong-ju patent (bone collector drill)
 - [[overviews/osseodensification-clinical-applications]] — OD evidence overview
