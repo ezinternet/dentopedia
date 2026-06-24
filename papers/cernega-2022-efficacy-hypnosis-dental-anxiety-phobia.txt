@@ -1,0 +1,88 @@
+Efficacy of Hypnosis on Dental Anxiety and Phobia: A Systematic Review and Meta-Analysis
+
+PMID: 35624907
+PMCID: PMC9138388
+DOI: 10.3390/brainsci12050521
+Journal: Brain Sciences (Brain Sci.) 2022;12(5):521
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC9138388/)
+
+ABSTRACT
+
+Hypnosis is a commonly used therapy option in dentistry and medicine for fear and pain reduction. Nevertheless, it is viewed very critically, as there is still insufficient evidence for a treatment effect. Specific phobia of dental treatment and dental anxiety are prevalent conditions that can cause an oral health impairment. This paper critically reviews 19 clinical trials aimed at reducing dental anxiety and fear avoidance in adults, published in peer-reviewed journals between 1979 and 2021. The search identified 257 papers; 223 were selected after removing duplicates. A total of 188 articles were excluded after title and abstract evaluation; 35 full text articles were assessed for eligibility. Another 10 papers were discharged after full text evaluation, as these were case reports and questionnaires. Six papers were discharged due to the lack of a comparable scale to measure dental anxiety. The following treatment techniques were reviewed: various forms of cognitive-behavioral therapy (CBT), relaxation training, benzodiazepine premedication, self-hypnosis by audio therapy, hypnotherapy, hypnosis, and nitrous oxide sedation. CBT delivered in a variety of formats, including one-session treatment, showed the most evidence for the efficacy of reducing anxiety. A wide heterogeneity of methods allowed only the inclusion of five studies to the performed meta-analysis, showing contrasting results for the application of hypnosis. The main reason for this issue is the great variety in methods used, making a distinct assessment of hypnotic interventions difficult. However, the results of the systematic review are promising in that hypnosis can also be regarded as powerful and successful method for anxiety reduction, while there are also studies with a small or even slightly negative effect. Therefore, further research is needed. Within the limitations of the current study, a more consistent use of methods to examine anxiety for hypnosis research is recommended.
+
+1. INTRODUCTION
+
+Neuroscientific evidence interprets hypnotic trance as a modified state of consciousness that accentuates concentration, attention, and the setting free of thoughts. The American Psychological Association (APA) Division 30 defines hypnosis as "a state of consciousness involving focused attention and reduced peripheral awareness characterized by an enhanced capacity for response to suggestion."
+
+The phenomenology of hypnosis can be considered as the result of intentional introspective activity; it enables the patient to improve control over his mind and body, the main effects being hypnotic analgesia and reduction of anxiety.
+
+Dental anxiety or dental phobia must be differentiated. Dental phobias show severity of their physiological and psychological symptoms. Triggers of fear are the perception of the visual, olfactory, and sensory stimuli during dental treatment (sound of drill, dentist's chair). Good cooperation/rapport is necessary. Dental procedures are often carried out under sedation or general anesthesia in order to achieve adequate treatment conditions for both doctor and patient. Regardless of all dental progress, one of the major challenges of treating patients is the management of pre- and intraoperative anxiety of the patient. Therefore, another option for treating patients with dental phobia is needed. Visualization, suggestion, and hypnosis strategies train the patients to put themselves on a level of focused consciousness so that suggestions can be easily accepted. Regardless of the technique used, its effectiveness depends heavily on how it is applied, including the empathic abilities demonstrated by the dentist.
+
+The good acceptance of hypnosis and the effectiveness in reducing anxiety in patients with dental phobia is reported by several authors. Positive effects of hypnosis in patients with dental phobias include reduction of fear and anxiety, prevention of avoidance behavior and the resulting lack of dental treatment, reduction of felt pain, less bleeding during tooth extractions, and better and faster wound healing.
+
+The present paper was aimed to provide a comprehensive overview of hypnosis interventions for patients with severe levels of anxiety and dental phobia that are implementable in general dental practice before or during dental procedures. As an ancillary aim, the quantification of the efficacy of non-pharmacological intervention to reduce dental anxiety in patients undergoing dental procedures in comparison to standard care alone or to attention-control groups was also evaluated. To fulfill these aims, a systematic review with meta-analysis of the data was performed.
+
+2. MATERIALS AND METHODS
+
+2.1. Review Design
+This systematic review follows the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. The review protocol was registered with the international prospective register of systematic reviews (PROSPERO) system on 14 July 2020 with ID-CRD42020172052.
+
+2.2. Eligibility Criteria
+Randomized controlled trials (RCTs), cross-sectional studies, comparative studies, validation studies and evaluation studies, reporting hypnosis effects for dental anxiety and phobia in patients of any age were searched and evaluated. Only papers in English published from the 1st of January 1979 to the 31 of December 2021 were collected.
+
+2.3. Information Sources
+Electronic databases were screened for articles without any further restriction regarding language. Additionally, grey literature was retrieved (accessed on 10 April 2022).
+
+2.4. Search Strategy
+PICO/PECO model. The search strategy included a combination of MeSH terms and key words: dental anxiety OR dental fear OR dental phobia, OR hypnosis OR hypnotic OR dental hypnosis OR hypnotherapy OR sedation.
+
+2.5. Study Selection
+Repeated or duplicate papers were excluded after completing the search string comparing the results using the five databases. All authors independently examined all abstracts of the papers. All papers meeting the inclusion criteria were obtained in the full-text format.
+
+2.6. Data Collection, Summary Measures, and Synthesis of Results
+Data collection was carried out using an ad hoc designed data extraction form without masking journal title or authors. Data were extracted and synthesized by three authors (G.C., T.G.W., and S.S.) independently. For each paper, the following data were searched and recorded when available: (a) publication year and study duration; (b) details/characteristics of the participants at baseline; (c) hypnotherapy data, including actual dental fear survey/scale such as Dental Anxiety Scale, Visual Analog Scale, modified Dental Anxiety Scale, Spielberger State-Trait Anxiety Inventory, or Harvard group scale of Hypnotic Susceptibility; and (d) the presence of hypnotherapy or hypnosis. For the primary outcome, data from different studies were compared on the use of different scales to evaluate the effect of hypnosis to treat patients with dental anxiety and dental phobia. Results were analyzed considering the following subgroups: adults with dental phobia vs. adults without dental phobia and dental treatment with hypnosis or hypnotherapy or without any hypnosis.
+
+The meta-analysis of the data was carried out using the ProMeta 3 Software (IdoStatistics, accessed on 19 April 2022, Cesena, Italy). Odds ratio (OR) and mean difference (MD) were chosen for calculating effect size. The I statistic was calculated to describe the percentage of variation across studies due to heterogeneity rather than chance. Due to the heterogeneous methods of the studies included in the systematic review and due to missing or incomplete data documentation, especially using scales such as the Dental Anxiety Scale in several studies, the meta-analysis could only be performed with studies that all used the State-Trait Anxiety Inventory (STAI). The heterogeneity was categorized as follows: <30% not significant; 30-50% moderate; 51-75% substantial; and 76-100% considerable. The random effects model (REM) with 95% confidence intervals was chosen as the meta-analysis model. The level of significance was set at < 0.05.
+
+2.7. Assessment of Bias across Studies
+The risk of bias assessment was conducted by three authors (G.C., T.G.W., and S.S.). The methodological quality of the included RCTs was scored according to the customized quality assessment tool developed by the National Heart, Lung, and Blood Institute and Research Triangle Institute International. If the study was at the lowest risk for bias, each study/paper was rated good; if the study was predisposed to some bias, it was rated as moderate; and if there was a possibility that the study was biased, it was rated as poor.
+
+3. RESULTS
+
+The search strategy identified 257 papers in the five databases; 223 were selected after removing duplicates. A total of 188 articles were excluded after title and abstract evaluation; 35 were assessed by full text, and 25 were full text assessed for eligibility after removing 10 papers of questionnaire studies and case reports. Another six papers were discharged after full text evaluation, as these were papers without hypnotherapy or parameters for measure anxiety reduction. Regarding reducing dental anxiety by using hypnosis, 15 papers were ranked as being of good quality, 4 were classified of fair quality, and none was classified of poor quality. (19 included studies total.)
+
+3.1. Measurement of Anxiety Reduction
+A total of 15 different methods were used to record the dental anxiety or dental fear.
+
+3.2. DAS (Dental Anxiety Scale)
+In this review, the DAS is the most utilized anxiety scale. Twelve studies using the Dental Anxiety Scale have been published. This result reflects the theory that the DAS is generally the most-used scale in dentistry to measure anxiety.
+
+3.3. Visual Analogue Scale (VAS)
+Visual Analogue Scale (VAS) is a psychometric measuring instrument used to document and compare the characteristics of disease-related symptom severity in individual patients. A Visual Analogue Scale is usually a 100 mm long horizontal line with verbal descriptors at each end. In this systematic review, nine of all included studies evaluated dental anxiety as measured by the Visual Analogue Scale.
+
+3.4. STAI - State-Trait Anxiety Inventory
+In seven of all included studies, the STAI (State-Trait Anxiety Inventory) verified the level of dental anxiety. The included studies involved dental procedures such as endodontic treatment, tooth filling, tooth removal, removal of third mandibular molars, oral surgery, or dental treatment showed in a video. Five studies on tooth extraction under hypnosis have also been published.
+
+3.5. Technique for Hypnosis
+Different types of hypnosis and hypnotherapy were emphasized, such as hypnosis with an audiotape, hypnosis as progressive muscle relaxation, cognitive behavioral therapy (CBT), or standardized optical hypnosis method Chiasson's technique. No meaningful differences have been observed when characteristics of hypnosis, group therapy as hypnosis by an audiotape, and individual systematic desensitization were compared. The most common hypnotic technique used in the studies was the standardized hypnosis by using an audiotape. As seen in this review, it becomes the simplest and most used method for anxiety reduction using hypnosis. Self-hypnosis by an audiotape can be performed either live or by means of sound recording. In ten articles, the experimental group used an audio recording as self-hypnosis to reduce dental anxiety prior to surgery or dental treatment. Seven papers showed a significant effect of dental anxiety reduction by using an audiotape. One article showed only a marginal effect of anxiety reduction. One article suggests that CBT is the treatment of choice for dental phobia patients when comparing the effectiveness and acceptability of CBT, standard hypnosis, individualized hypnosis, and general anesthesia.
+
+3.6. Anxiety Reduction by Using Hypnosis
+The effectiveness of hypnosis is discussed in various studies. This literature review proves that hypnosis shows a positive effect on reduction of dental fear. Hypnosis used for dental anxiety has often not only marginal effect, but it also shows a meaningful and significant effect for anxiety reduction during dental treatment. One paper underlines the decrease of the average diastolic blood pressure and heart rate during surgery during hypnotherapy by an audio pillow with relaxation music. In the control group without hypnosis, these parameters increased. Only one paper examined showed no significant reduction of dental anxiety by using hypnosis (results examined using the STAI).
+
+That hypnosis sustains an effect on brain activity was shown in the study by Halsband and Wolf. In a group of patients with dental phobias, the main effects of anxiety were found in the left amygdala and bilaterally in the anterior cingulate cortex (ACC), insula, and hippocampus (R < L). During hypnosis, the phobic subjects showed significantly reduced activation in all these areas. No amygdala activation was detected in healthy subjects under either of the two experimental conditions. The results suggest that anxiety-inducing stimuli, such as dental surgery, endodontic treatment, or inadequate anaesthesia, under hypnosis can be effectively reduced. This study provides scientific evidence that hypnosis is an effective and successful method to inhibit the fear reaction in the brain.
+
+META-ANALYSIS: The results of the meta-analysis of only five studies using the State-Trait Anxiety Inventory (STAI). Due to the low numbers of studies included in the data synthesis, a high grade of heterogeneity was observed. The effect size ranges from -4.30 to 6.20.
+
+4. DISCUSSION
+
+The present study aimed to systematically review studies about effects of reducing dental anxiety by using hypnosis during or prior to the dental treatment. Different types of questionnaires and test parameters to prove an anxiety reduction were exploited. There is no standard hypnosis therapy. The results were mostly heterogeneous, probably due to the study design, the sampling methods, the application of the questionnaire, and the settings as well as cultural attitudes and socio-economical variations. Comparing hypnotic effects is difficult without any interindividual standard parameter measuring anxiety and fear. Parameters such as suggestibility or previous experience with hypnosis have an additional influence on the effect. Randomized clinical studies are difficult to conduct because there is no possibility to perform a double-blind study.
+
+A limitation is the quantitative measurement of dental anxiety, which has not been carried out with a questionnaire specifically designed for this purpose. Two included studies have been conducted in children; here, children tolerate only a very short treatment time, and questionnaires are often completed together with the parents.
+
+A further limiting aspect is the heterogeneity of hypnosis therapies. Probably the easiest therapy to implement and most frequently used method is the audio procedure, which does not require a trained hypnotist and is easily applicable for general dentists. The audiotape enables standardization and reproducibility. A disadvantage is the lack of active psychological support and individual adaptation. Although individual live hypnosis needs more effort compared to audiotape, the therapeutic effectiveness of live hypnosis is higher than hypnosis by audiotape.
+
+The effect of hypnosis on brain activity during fMRI was shown by Halsband and Wolf. Medical hypnosis efficacy and safety in somatic medicine was investigated in a systematic review of meta-analyses of randomized clinical trials; it could be determined that hypnosis is a safe and effective complementary technique for use in medical procedures.
+
+5. CONCLUSIONS
+
+Our findings confirm that hypnosis shows positive effects for reducing dental anxiety and fear during dental treatment. It can be beneficial as an adjunct intervention. Many hypnosis strategies promise suitable approaches to counteract dental fear. However, despite positive effects of hypnotic interventions in the systematic review, the results of the meta-analysis are very heterogeneous. There is no real measurable effect due to the heterogeneity of the only five studies included in the meta-analysis. There is a need to verify the actual effects of hypnosis through further clinical studies. A more consistent use of methods to examine anxiety for hypnosis research is recommended. CBT delivered in a variety of formats (including one-session treatment) showed the most evidence for the efficacy of reducing anxiety.
