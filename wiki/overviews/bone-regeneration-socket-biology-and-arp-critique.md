@@ -22,6 +22,7 @@ tags: [bone-regeneration, arp, socket-healing, biology, overtreatment, failure-m
 > - ARP를 **하지 말아야 할** 시나리오: ①후방부 두꺼운 협측 골벽(BBT ≥ 1.5 mm) + 식립 예정 ②즉시식립 가능 부위 ③이미 GBR 예정인 큰 결손 ④임플란트 계획 없는 가철식/FPD (심미부위 예외).
 > - ARP 후 임플란트 실패의 단일 유의 예측인자는 **순수골 결합(Pristine Bone Engagement, PBE) < 1.1 mm → HR 2.50** (Kang 2025, n=528). 임플란트 길이가 graft zone보다 ≥1.1 mm 더 native bone에 박히도록 계획.
 > - ARP는 **차원(dimension) 보존**이 목적이지 골 quality 향상이 아니다 — 잔류 이식 입자 때문에 신생골(vital bone) %는 오히려 늦거나 적다 (Mardas 2023, Poli 2017 6mo 신생골 16%·잔류 이종골 32%).
+> - **과잉치료 비판은 socket 상태 의존적이다** — Mardas 2023의 overtreatment 논증은 intact socket 전제이고, 치주적으로 손상된(감염) 발치와에서는 ARP의 실익이 분명하다: Lee 2021(후향, 418부위/287명)에서 ARP는 임플란트 식립 불가율을 4.7%→0.8%로 낮추고 식립 시 골이식 필요·범위도 감소시켰다.
 > - 보조 재료: 빠르게 흡수되는 황산칼슘(calcium sulphate, CalMatrix) 50:50 혼합은 4개월 시점 신생골 62.5% vs 31.25%로 quality 개선 (Signoriello 2025); PRF는 narrative 근거만 있어 SR 수준 효과는 미입증.
 > - ISQ는 ARP 영역에서 신생골 quality proxy로 작동하지 않는다 — ARP 후 ISQ 60+여도 장기 골 quality를 보장하지 않음 (Jung 2025 동물, ISQ↔신생골 NS).
 > - 5–13년 후 **만기 이종골 실패**(만성 섬유 포함·peri-implantitis 양상)는 보고되나 SR에서 빠진다 (Adams 2022) → 장기 follow-up·환자 사전 고지 필요.
@@ -90,6 +91,9 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 | [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] | narrative-review + case (BDJ) | **수정주의 counterpoint**. 5-13y 후 xenograft 만성 섬유 포함·peri-implantitis 양상 case. "통계적 dimensional preservation" ≠ "long-term patient benefit". 상업적 압력 (BSM 시장 ARP 29%) 환기 |
 | [[bone-regeneration/ridge-preservation/che-2024-alveolar-ridge-preservation-review]] | narrative-review (KDA J 2024) | granulation 제거 → 적절 이식재 → socket sealing ideal protocol. 그러나 이식재·식립 timing 명확 가이드라인 부재 |
 | [[bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]] | narrative-review (Perio 2000) | **심미부위 3-window framework**: 6-8주 (연조직만) / 4-6mo (경+연조직) / 6mo+ (경조직만). 협측 골판 integrity · 치은 phenotype 이 선택 driver. ITI Type 1/2/3/4 와 매칭 |
+| [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] | retrospective (인간 n=418 부위, 287명, SNU) | **감염 socket subgroup 에서 ARP 실익 입증** — 치주적으로 손상된 발치와에서 ARP 가 임플란트 식립 불가율 4.7%→0.8% 로 유의 감소. 식립 시 수평·수직·총 골이식 필요를 다변량 회귀에서 "no-ARP" 가 독립 예측 (location · sex 와 함께). overtreatment 비판의 socket-condition-dependent 반례 |
+
+**Mardas 2023 의 overtreatment 비판은 socket 상태에 의존한다 (Lee 2021 의 nuance)**: Mardas 2023 의 "ARP 는 흔히 과잉치료" 논증은 **intact socket** 을 전제로 한다 — 두꺼운 협측 골벽·즉시식립 가능 부위에서는 net gain 이 작다는 것이 핵심이다. 그러나 실제 임상에서 발치되는 치아의 다수는 치주·치주-치내 병변으로 상실된 **감염 (compromised) socket** 이다. Lee 2021 (후향, 418 부위 / 287 명, SNU) 은 바로 이 subgroup 에서 ARP 가 임플란트 식립 불가율을 4.7%→0.8% 로 낮추고, 식립 시점의 골이식 필요·범위 (수평·수직·총) 까지 attenuate 한다는 것을 보였다 — 다변량 logistic regression 에서 "no-ARP" 가 location · sex 와 함께 독립 예측인자였다. 즉 **overtreatment 라는 비판은 보편적 명제가 아니라 socket 상태에 조건부**다: intact socket 에서는 Mardas 2023 의 회의론이 타당하지만, 감염·치주 손상 socket 에서는 ARP 가 식립 자체를 enable 하는 tangible benefit 을 갖는다. "when to NOT graft" 의 ladder 는 이 socket 상태 축을 반드시 포함해야 한다. [근거강함 (단일센터·비무작위 confounder 한계)]
 
 **임상 ladder — when NOT to grafte**:
 
@@ -98,6 +102,8 @@ Synthesis (counterpoint to the do-ARP protocol-ladder page) organizing ~20 unsyn
 3. **이미 GBR 예정 (4벽 결손·심각한 horizontal deficiency)** → ARP 만으로 부족, full GBR 로 직행.
 4. **임플란트 계획 없음 + 가철식 의치 / FPD** → ARP 의 임상 net gain 미미. 심미부위만 예외.
 5. **장기 follow-up 우려 사례 (high commerce-driven settings)** → late xenograft failure 가능성 환자 고지. Adams 2022.
+
+> **Socket-condition exception (Lee 2021)**: 위 1-4 의 "NOT graft" 권고는 모두 **intact socket** 가정이다. **치주적으로 손상된 (감염) socket** 에서는 ARP 가 식립 불가율을 4.7%→0.8% 로 낮추고 골이식 필요를 줄이므로, 두꺼운 협측벽·후방부라도 ARP 를 default 회피 대상에서 제외하고 case-by-case 로 판단한다 (단, 철저한 debridement + 전신 항생제 전제 — Lee 2021 linked cohort: 감염 2.7%·재감염 0.7%).
 
 **Mardas 2023 의 4 목표별 evidence 정리**:
 | Objective | Evidence weight | Caveat |
@@ -172,6 +178,9 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 - [ ] `wiki/overviews/prf-bioactive-adjuncts.md` — PRF · L-PRF · A-PRF + LED 광활성·기타 bioactive adjunct 전반.
 - [ ] `wiki/overviews/pristine-bone-engagement-implant-planning.md` — PBE 1.1 mm rule 확장 — graft zone 포함 implant 길이 선택의 단독 페이지.
 
+**Registered upcoming trials (pipeline — results pending, do NOT cite for outcomes)**:
+- [[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]] — **RCT protocol** (ChiCTR2200056335, Peking Univ, n=70): 중증 치주염 (stage III/IV) **대구치** 발치와에서 ARP vs 자연치유 직접 비교. CBCT 수직·수평 + 3D 연조직 윤곽 + 조직학 endpoint. 본 페이지가 노출한 "severe-periodontitis molar ARP" evidence gap 을 채울 등록 시험 — 결과 보고 시 축 2 (감염 socket ARP 실익, Lee 2021 보강) 및 축 4 갱신 예정. **현재 outcome 없음.**
+
 ## 한국 임상 환경 조정 사항
 
 - DBBM (Bio-Oss) — 정식 수입. 1.0g 25-30만원. Manfro 2013 의 head-to-head 이점.
@@ -194,6 +203,7 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 - [[bone-regeneration/ridge-preservation/adams-2022-clinical-evidence-alveolar-ridge-preservation]] — late failure case + 회의론
 - [[bone-regeneration/ridge-preservation/che-2024-alveolar-ridge-preservation-review]] — KDA J ARP review
 - [[bone-regeneration/ridge-preservation/jung-2018-alveolar-ridge-preservation-esthetic-zone]] — 심미부위 3-window framework
+- [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] — 감염 socket subgroup ARP 실익 (식립 불가율 4.7%→0.8%) — overtreatment 비판의 socket-condition-dependent 반례
 - [[bone-regeneration/ridge-preservation/kang-2025-implant-failure-predictors-ridge-preservation]] — PBE 1.1 mm rule
 - [[bone-regeneration/ridge-preservation/jung-2025-arp-peri-implantitis-isq-preclinical]] — ISQ ↔ 신생골 NS
 - [[bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric]] — 이종골 head-to-head
@@ -203,6 +213,10 @@ ARP 가 부족한 시나리오 — 이미 흡수된 ridge 재건 (수평 부족)
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — ridge split case
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — peri-implantitis GBR digital
 - [[bone-regeneration/ridge-preservation/couso-queiruga-2021-post-extraction-dimensional-changes-systematic]] — 시간별 흡수 곡선 SR+MA (correct stem)
+
+### pipeline (registered trial — results pending)
+
+- [[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]] — RCT protocol (ChiCTR2200056335, n=70): 중증 치주염 대구치 socket ARP vs 자연치유, CBCT+3D 연조직+조직학. severe-periodontitis molar ARP gap 채울 등록 시험 — outcome 미보고 (Phase 2 stub 참조).
 
 ### Additional Spokes — bone biology basic science (sub-cat bone-biology)
 
