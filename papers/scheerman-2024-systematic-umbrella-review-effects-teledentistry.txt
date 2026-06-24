@@ -1,0 +1,90 @@
+A Systematic Umbrella Review of the Effects of Teledentistry on Costs and Oral-Health Outcomes
+Authors: Janneke F M Scheerman, Alaa H Qari, Benoit Varenne, Harmen Bijwaard, Laura Swinckels, Nicolas Giraudeau, Berno van Meijel, Rodrigo Mariño
+Journal: International Journal of Environmental Research and Public Health (Int J Environ Res Public Health) 2024;21(4):407
+DOI: 10.3390/ijerph21040407
+PMID: 38673320 | PMCID: PMC11050059
+Publication date: 2024-03-28
+
+ABSTRACT
+Teledentistry offers possibilities for improving efficiency and quality of care and supporting cost-effective healthcare systems. This umbrella review aims to synthesize existing systematic reviews on teledentistry and provide a summary of evidence of its clinical- and cost-effectiveness. A comprehensive search strategy involving various teledentistry-related terms, across seven databases, was conducted. Articles published until 24 April 2023 were considered. Two researchers independently reviewed titles, abstracts and full-text articles. The quality of the included reviews was critically appraised with the AMSTAR-2 checklist. Out of 749 studies identified, 10 were included in this umbrella review. Two reviews focusing on oral-health outcomes revealed that, despite positive findings, there is not yet enough evidence for the long-term clinical effectiveness of teledentistry. Ten reviews reported on economic evaluations or costs, indicating that teledentistry is cost-saving. However, these conclusions were based on assumptions due to insufficient evidence on cost-effectiveness. The main limitation of our umbrella review was the critically low quality of the included reviews according to AMSTAR-2 criteria, with many of these reviews basing their conclusions on low-quality studies. This highlights the need for high-quality experimental studies (e.g., RCTs, factorial designs, stepped-wedge designs, SMARTs and MRTs) to assess teledentistry's clinical- and cost-effectiveness.
+
+1. INTRODUCTION
+
+1.1. The Need for Cost-Effective Care
+Due to an expanding and aging population, the global healthcare sector faces major public health challenges, such as an increase in non-communicable diseases (NCDs), a higher demand for care, healthcare workforce shortages, a lack of access to care and long waiting lists. These challenges require a transformation of the healthcare system, as healthcare costs continue to rise, and the current healthcare system seems unsustainable in the long term. There is a need for cost-effective innovations that increase efficiency, reduce pressure on healthcare systems and maintain the quality of care. Digital technologies offer possibilities for improving the efficiency and quality of care and supporting healthcare systems to provide cost-effective care.
+
+1.2. Telehealth
+The onset of the COVID-19 pandemic has increased the use of digital technologies, as the world transitioned to telehealth services to provide healthcare to patients remotely, while staying safe. Telemedicine is a branch of telehealth, referring to the provision of healthcare services through the use of information and communication technologies in situations where a health provider and a patient (or another health provider) are not in the same location. Examples of telemedicine are continuous home monitoring, involving the transfer of patient health data, and teleconsultations for remote practitioner-patient consultations.
+In a recent systematic umbrella review on telemedicine, Eze and co-authors found that telemedicine interventions were at least as effective as face-to-face care. Nevertheless, the authors concluded that caution is warranted, since in certain disease and specialty areas, telemedicine may be a less effective way to deliver care.
+
+1.3. Definition of Teledentistry and Related Terms
+Teledentistry is a subfield of telehealth, along with telemedicine, that is specifically dedicated to oral healthcare. The term teledentistry is often incorrectly used interchangeably for the umbrella term telehealth, which encompasses both remote healthcare delivery and the delivery of distance learning and training of healthcare providers. Published dental articles have reported multiple definitions of teledentistry and related terms, and used several definitions interchangeably, like m-health, teledentistry, tele-oral medicine and telehealth.
+To define teledentistry and its related definitions, the first author organized a meeting with the e-oral health network of the International Association of Dental Research (IADR) and other experts in this field. According to the terminology consensus report, teledentistry was defined as:
+"Teledentistry represents the uses of information and telecommunication technology to provide oral healthcare services between an oral healthcare provider and a patient/recipient or other health care providers, who are separated by distance."
+The prefix "tele" to common dental clinical disciplines describes the application of teledentistry to dental specialties, e.g., "teleperiodontology", "teleorthodontics" and "telepaedodontics". Like telemedicine, teledentistry encompasses subunits such as tele-triage, tele-consultation, tele-assistance, tele-diagnosis and tele-monitoring.
+
+1.4. The Current Study
+The growing use of teledentistry has led to many studies investigating teledentistry applications in different settings. With the increasing number of literature reviews on teledentistry available, the next step in providing policy makers, academics and healthcare providers with evidence is to conduct a review of the existing systematic reviews, i.e., an umbrella review. An umbrella review also helps to identify areas in which research is currently lacking, and to formulate recommendations for practice and for future research. Consequently, the aim of this umbrella review is to synthesize existing systematic reviews on teledentistry and provide a summary of the evidence on its clinical and cost-effectiveness.
+
+2. MATERIALS AND METHODS
+This umbrella review is consistent with the PRISMA guidelines and the umbrella review methodology described by Aromataris and colleagues. The protocol was registered in PROSPERO on 17 May 2023 (CRD42023363204) with no deviation.
+
+2.1. Data Sources and Search Strategy
+Seven databases were searched from inception to 24 April 2023: (1) PubMed/MEDLINE; (2) EMBASE; (3) CINAHL; (4) ISI/Web of Science; (5) Scopus; (6) Cochrane Database of Systematic Reviews (CDSR); and (7) NHSEED & HTA. Other sources included the JBI Database of Systematic Reviews and Implementation Reports, the Database of Abstracts of Reviews of Effects, and the PROSPERO register. A comprehensive search strategy was designed in collaboration with a librarian, using teledentistry/telemedicine and oral health/dentistry terms as MeSH or free-text words. Manual cross-referencing and citation tracking were used. The search was not limited to English.
+
+2.2. Eligibility Criteria
+Reviews that measured the costs and oral-health outcomes of teledentistry, compared to traditional alternatives or in addition to usual care, both interventional or observational, were included.
+Design: Only peer-reviewed published systematic reviews of primary studies with a described search in Medline/PubMed plus at least one other international database. Position papers, editorial letters, opinion pieces, book chapters excluded.
+Teledentistry interventions: Included reviews where original studies measured the effect of teledentistry interventions meeting the e-oral health network definition. Reviews focused on training of oral health professionals were excluded (telehealth, not teledentistry). Included if synchronous (real-time) or asynchronous (store-and-forward) communication between patient/caregiver and provider, or between providers, separated by distance. Reviews focusing on no direct provider interaction or unidirectional communication (e.g., automated text-message reminders) were excluded.
+Population/setting: Humans (patients, providers, caregivers) of any age/condition; dental practice, specialist dental, healthcare setting or home care.
+Outcomes: Oral-health outcomes (oral health, oral hygiene levels, periodontal status, oral-health-related behaviours, OHRQoL) and costs (economic evaluations, direct costs, indirect costs e.g. reduced waiting lists, hours per patient, referrals, travel time). Partial economic evaluations (cost description, cost-consequence description, cost analysis) also selected.
+Language: English, Dutch, Spanish, German.
+
+2.3. Study Selection
+Two stages after deduplication in Rayyan. Two authors (JS and AQ) independently screened titles/abstracts then full-texts. Conflicts (7) and "maybe" (37) resolved by discussion; third reviewer (RM) consulted 10 times.
+
+2.4. Data Extraction
+First author extracted; co-authors (AQ, BV, LS, BvM, RM) verified.
+
+2.5. Quality Assessment
+Methodological quality (critical appraisal) assessed with AMSTAR-2 (7 critical, 9 non-critical domains). Chosen for content validity and ability to assess systematic reviews of randomized and non-randomized studies.
+
+2.6. Data Analysis
+Per Aromataris et al. (2015), the analytical unit is the literature review, not primary studies (except when an outcome is informed by only one study). Overlap of original articles was tracked. Results presented narratively with tables/figures. Meta-analysis precluded by heterogeneity of teledentistry interventions, populations and outcomes.
+
+3. RESULTS
+After removing duplications, combined searches yielded 880 articles. Screening titles/abstracts yielded 171 full-text articles. Reviews lacking key information on design, intervention or outcomes were excluded; one review's cost conclusion contradicted the original article and was excluded. In total, 10 reviews were included.
+[Abstract states "Out of 749 studies identified, 10 were included." The body reports 880 after deduplication then 171 full-texts; the 749 figure is the abstract count.]
+All included reviews used qualitative analysis. In only one study did the primary research aim align with this study's aim and exclusively address the outcome of interest; the rest reported the outcomes of interest as secondary measures.
+Modality (synchronous vs asynchronous) was reported in only two included reviews; tele-consultation was a common real-time interaction. Aquilanti et al. 2020 stated the asynchronous (store-and-forward) model was always the least costly, followed by real-time, then face-to-face dental visits. Joshi et al. 2020 stated real-time consultation had better outcomes concerning costs.
+
+3.1.1. Oral-Health Outcomes
+Two reviews assessed teledentistry effectiveness on oral-health outcomes vs traditional alternatives.
+Ben-Omran et al. (2021) reported no significant difference between intervention and control groups in Geriatric Oral Health Assessment Index (OHRQoL) scores; concluded insufficient evidence for long-term clinical effectiveness.
+Estai et al. (2018) included nine articles; three addressed the clinical outcome of interest (DFS scores, periodontal indices, oral hygiene scores). Teledentistry was comparable to or had advantages over non-telemedicine approaches, but overall conclusion was that there is not yet enough conclusive evidence of effectiveness and long-term use.
+
+3.1.2. Economic Evaluations and Costs
+Ten reviews focused on costs/economic evaluations; only five reported costs as outcomes of interest and included a review of true economic evaluations (per Drummond et al. 2005). Aquilanti et al. included three studies reporting economic evaluations; Estai et al. also included three; both used Drummond's checklist. Despite different years they included different studies (only one overlapping), and for the overlapping study gave disparate scores using the same tool.
+Emami et al. identified seven studies with some elements of economic evaluation (Oxford CEBM level of evidence). Daniel et al. and Ben-Omran et al. each included two economic-evaluation studies but mentioned no evaluation tool.
+Overall, the ten reviews encompassed a total of only five different studies incorporating some form of economic evaluation (cost descriptions; cost analysis; cost-minimization analysis; time-effectiveness).
+The remaining four reviews did not report true economic evaluations but summarized cost information, mostly reduction of costs via reduced travel/waiting times and related features (reduced loss of productivity, less unnecessary travel, fewer accommodation expenses, reduced service time); found teledentistry likely cost-effective/cost-saving vs face-to-face. Two reviews stated cost-effectiveness was an assumption based on cost reduction without substantiating evidence; another emphasized the need for further economic evaluation. Estai et al. found that cost-minimization claimed in two studies was, on examination, more like cost-analysis; none of the included studies considered cost-benefit, cost-effectiveness, cost-utility or incremental economic analyses.
+
+3.2. Results of Quality Appraisal
+Per AMSTAR-2, all reviews were of critically low or low quality. Most common weakness: poor description of original studies (missing outcomes, study design, intervention info). Low scores especially in Q3 (study design selection), Q7 (reasons for exclusions/search limitations), Q8 (insufficient description), Q13 (risk of bias in interpretation), Q14 (heterogeneity). None reported funding sources for primary studies (Q10).
+
+4. DISCUSSION
+Main findings: Ten articles selected. Most reviews described positive effects of teledentistry on oral-health outcomes, but findings must be interpreted cautiously due to overall critically low quality. Studies focusing on clinical effectiveness and immediate clinical implications are limited.
+Teledentistry is commonly perceived as cost-saving and cost-effective, but often only based on assumptions. Most reviews based conclusions on low-quality observational studies without clear methodologies, small samples, or self-reports/subjective opinions; these do not allow evidence-based cost-effectiveness conclusions. RCTs and quasi-experimental designs are best for assessing efficacy/cost-effectiveness, but digital health interventions are complex and RCTs may not be the most effective evaluation method. Alternatives (Hrynyschyn et al. 2022 scoping review): factorial designs, stepped-wedge designs, SMARTs, MRTs.
+Economic evaluations are essential for informing policymakers and dental practitioners. This study found a comparatively restricted number of cost-analyses/economic assessments for teledentistry (n=10 reviews) vs other telemedicine sectors (Bergmo identified 33 economic evaluations in telemedicine 1990-2007). Economic evaluations in teledentistry showed low adherence to Drummond's standards.
+This is the first ever umbrella review on the effects of teledentistry on costs and oral-health outcomes. Findings consistent with telemedicine reviews (Eze et al.): 92% of included systematic reviews were low to critically low quality (same AMSTAR tool); telemedicine can be cost-effective and improve outcomes (glycaemic control, diet/nutrition) but generalizability hindered by poor quality.
+
+4.2. Quality Assessment of the Included Reviews
+All included reviews "low" or "critically low" quality -> high risk of bias. Mostly due to poor reporting quality or unavailable data. Selection bias possible: nine reviews excluded for lacking key information. Recommendation: use EQUATOR network reporting guidelines.
+
+4.3. Strengths, Limitations and Recommendations
+Strength: umbrella review identifies research gaps. Limitation: validity depends on quality of eligible reviews; low AMSTAR-2 quality limits validity. Strength: used IADR e-oral health network teledentistry definition to label interventions rather than authors' terms. Recommendation: universal terminology for teledentistry. Heterogeneity precluded subgroup/meta-analyses. High prevalence of oral disease and unmet needs among people with disabilities, mental illness, institutionalized/hospitalized and older people; these could benefit from teledentistry (e.g., teleconsultation with small cameras) but teledentistry rarely applied and no experimental effectiveness study performed on special-needs populations. AI (machine/deep learning) has potential to revolutionize remote dental care (risk-assessment predictive models, remote screening, diagnosis, triage, monitoring).
+
+5. CONCLUSIONS
+Ten reviews researched the promising potential of teledentistry; evaluations on cost and oral-health outcomes are scarce. Only five studies incorporated some form of economic evaluation. There is insufficient qualitative evidence to support conclusions on cost-effectiveness or long-term effectiveness of teledentistry. Main limitation: low/critically low quality of included reviews (AMSTAR-2). High-quality experimental studies (RCTs, factorial designs, stepped-wedge designs, SMARTs, MRTs) on clinical- and cost-effectiveness of teledentistry are needed. Recommendation: universal use of teledentistry terminology (e-oral health network) to standardize and compare results.
+
+Source: PubMed Central, PMC11050059. DOI: 10.3390/ijerph21040407
