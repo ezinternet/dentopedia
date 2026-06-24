@@ -1,0 +1,134 @@
+Title: Oral Health in Children with Chronic Kidney Disease, Hemodialysis, and Renal Transplantation: A Comprehensive Narrative Review of the Oral Manifestations and Dental Implications
+Authors: Ghada A Elhusseiny, Wafaa Saleh
+Journal: Clinical medicine insights. Pediatrics (Clin Med Insights Pediatr), 2024; 18: 11795565241271689
+PMID: 39206206
+PMCID: PMC11350538
+DOI: 10.1177/11795565241271689
+Publication date: 2024-08-27
+Source: PubMed Central full text (via PubMed MCP)
+
+ABSTRACT
+
+Chronic kidney disease (CKD) in children presents multifaceted challenges, impacting various aspects of health, including oral health. This narrative review provides a comprehensive synthesis of literature focusing on the oral health status of pediatric CKD patients, encompassing oral manifestations, dental considerations, and management challenges associated with hemodialysis and kidney transplantation. A comprehensive search strategy was employed, utilizing databases such as PubMed, Scopus, Web of Science, and Google Scholar, to identify relevant literature on oral manifestations in children with CKD, including those undergoing hemodialysis or renal transplantation. Search terms were carefully selected to capture studies examining enamel hypoplasia, dental caries, delayed tooth eruption, gingival diseases, periodontal diseases, radiographic alterations, craniofacial development, dry mouth, and changes in the oral mucosa. Our narrative review meticulously selected articles through a systematic process. Ultimately, 12 studies meeting the inclusion criteria were included in the review. Relevant data from each included study were independently extracted and synthesized, focusing on oral manifestations and their implications in pediatric CKD patients. The synthesized findings were organized and presented in a structured manner within the review article, considering their clinical implications and informing recommendations for dental management of children with CKD. This article highlights the importance of a coordinated effort between nephrologists, dentists, and other healthcare professionals in providing holistic care for pediatric CKD patients. A comprehensive understanding of the oral health status of these children, along with proactive dental management strategies, contributes to improved overall health outcomes and a better quality of life. This review aims to serve as a valuable resource for the oral healthcare providers involved in the care of pediatric CKD patients.
+
+BACKGROUND
+
+The kidney is a principal organ that plays pivotal roles in the homeostasis of blood and blood pressure regulation, acid-base balance, and bone integrity. The diseased kidney was shown to disturb the integration between energy balance, neuroendocrine signaling, and innate immunity, which results in a high-risk clinical profile including protein-energy wasting, inflammation, altered function of the autonomic and central nervous systems in addition to vascular, cardiopulmonary, and bone diseases.
+
+Chronic kidney disease (CKD), a condition characterized by a gradual loss of kidney function, affects millions of children worldwide. While the primary focus in the management of CKD is often centered around renal function, the implications of this disease on oral health are frequently overlooked. However, the interconnected nature of the human body means that oral health is intimately linked with systemic health, and children with CKD face a myriad of oral health challenges, which are often exacerbated by their underlying medical conditions and the treatments they receive.
+
+The prevalence of oral diseases in children with CKD is a significant concern within the pediatric healthcare landscape. Numerous studies have demonstrated a notably higher incidence of oral health issues in this population compared to their healthy counterparts. One of the key factors contributing to this increased prevalence is the systemic nature of CKD and its various complications, which can impact the oral cavity. Dry mouth, a side effect of CKD and certain medications, predisposes these children to dental caries and gingival diseases.
+
+This review addresses the relationship between CKD and oral health in children, serving as a comprehensive guide for pediatric oral health providers. It covers the impact of CKD and its treatments on oral health, specific oral manifestations of CKD, and tailored guidelines for dental management in children undergoing hemodialysis and renal transplantation.
+
+METHODS
+
+A comprehensive search strategy was employed by 2 independent reviewers, GAE and WS. The databases searched included PubMed, Scopus, Web of Science, and Google Scholar. Search terms included combinations of: "oral manifestations," "oral health," "children," "pediatric," "chronic kidney disease," "CKD," "renal disease," "hemodialysis," "renal transplantation," "enamel hypoplasia," "dental caries," "delayed tooth eruption," "gingival diseases," "periodontal diseases," "radiographic alterations," "craniofacial development," "dry mouth," and "oral mucosa."
+
+Inclusion criteria: studies focused on oral manifestations and dental implications in children with CKD (including hemodialysis or renal transplantation); studies examining enamel hypoplasia, dental caries, delayed tooth eruption, gingival/periodontal diseases, radiographic alterations, craniofacial development, dry mouth, oral mucosa changes; articles and clinical guidelines in peer-reviewed journals; English language; up to the current year.
+
+Exclusion criteria: studies focused solely on adult populations; not relevant to oral health/dental implications in children with CKD; insufficient detail; interventions/treatments unrelated to oral health; case reports and case series.
+
+Article selection (PRISMA): 54 records identified; 18 duplicates removed; 36 unique records screened; 22 reports assessed for eligibility; 10 excluded (not meeting inclusion criteria or non-English); 12 studies ultimately included.
+
+TABLE 1 — OVERVIEW OF INCLUDED STUDIES ON ORAL MANIFESTATIONS IN CHILDREN WITH CKD
+
+Nakhjavani and Bayramy (Iran): 53 patients, 5-18 y, 20 M / 33 F. CKD children 33% caries-free; mean DMF 2.25 (SD 2); no absence of gingival inflammation; gingivitis related to anemia (p=.0002) and dialysis duration (p=.007); moderate/severe gingivitis 5x more prevalent than mild after 1 y dialysis; anemic patients higher moderate/severe gingivitis.
+
+Silva et al (Brazil): 100 CKD + 100 healthy controls, 13.04 +/- 2.75 y, 66 F / 134 M. CKD: lower caries prevalence, poorer oral hygiene, more gingival inflammation, severe enamel defects vs non-CKD; significant differences in caries, plaque index, gingival inflammation, enamel defects (p<.001); CKD associated with caries, moderate/severe gingival inflammation, enamel defects (p=.015).
+
+Martins et al (Brazil): 30 renal group + 30 healthy, 7-19 y. Positive correlation saliva flow rates in RG (r=.75, p<.05); similar DMFT RG vs HG; no significant difference in caries-free subjects; RG had significantly higher dental calculus than HG.
+
+Tuma et al (Brazil): 120, mean 12.78 +/- 3.9 y, 63 M / 57 F. Gingival bleeding 95.8%, dental calculus 57.5%, enamel defects 40.8%, dental caries 42.5%; DMFT mean 0.85 +/- 1.42, dmft 1.64 +/- 2.85; drug-induced gingival overgrowth 16.7% (mostly degree 1); soft tissue lesions post-kidney transplant 4.2% (oral wart, oral ulcers, geographic tongue).
+
+Subramaniam et al (India): 36 CKD, 4-15 y, 28 M / 8 F. Normal soft tissue all children; mean OHI-S 1.56; DMFT 0.5; salivary pH 6.92, buffering capacity 9.86; enamel defects in 58.3%; hypoplasia of primary maxillary anterior teeth.
+
+Tadakamadla et al (India): 74 CKD (16-70 y) + 150 healthy controls (18-67 y). CKD significantly lower caries experience; CKD mean gingival index 1.88 vs control 0.92; oral hygiene/gingival status worsened with advancing CKD stages; diseased subjects higher periodontal pockets (70.3%) vs controls.
+
+Wondimu et al (Sweden): 32, 2.5-18 y, 19 M / 13 F. 13% gingival overgrowth + inflammation; no loss of periodontal attachment; children with gingival overgrowth received significantly higher total cyclosporine A (CsA) doses in first 6 post-transplant months; CsA-induced gingival overgrowth positively associated with total drug dose in first 6 months.
+
+Ertugrul et al (Turkey): study 38 + control 38, 4-17 y. 89.5% high salivary buffer capacity; salivary S. mutans and lactobacilli significantly lower in study group.
+
+Al-Nowaiser et al (England): 70 CRF children + 70 controls, 4-13.6 y, 43 M / 27 F. CRF higher caries-free rate (40%) vs controls (8.5%); mean plaque scores significantly higher in CRF; 8 CRF children gingival enlargement; enamel defects 57% CRF vs 33% controls; CRF higher buffering capacity (pH 6.4) vs controls (pH 5.6); salivary urea 11.6 mmol/l CRF vs 3.6 controls; S. mutans isolation higher in controls (p=.002).
+
+Nunn et al (England): 38 CKD children, 2-16 y. Periodontal disease rare; gingival hyperplasia in 22 children (unrelated to immunosuppressant therapy); 2 patients required surgical removal due to excessive gingival overgrowth; low caries; enamel defects common (diffuse opacities 83%, enamel hypoplasia 22%).
+
+Koch et al (Germany): 62 CKD + 86 healthy controls, 1.1-13.9 y. Enamel defects 12 children (31%); localized hypoplasia of primary canines in 6 (19%) vs healthy 3%.
+
+Peterson et al (United States): 21 CKD + 15 healthy, 5-18 y. Chronic renal failure higher salivary urea nitrogen than transplanted; plaque pH correlated with salivary urea nitrogen, more alkaline in CRF; transplanted patients with normal renal function (esp. enamel hypoplasia + poor hygiene) at increased caries risk.
+
+ORAL MANIFESTATIONS OF CHILDREN WITH CKD
+
+Enamel hypoplasia: white/brown discoloration; more widespread in CKD than healthy. Developmental defects of enamel (DDE) incidence 31%-83%. Caused by hypocalcemia disrupting mineralization, decreased serum 1,25-dihydroxycholecalciferol, elevated serum phosphate, parathyroid, and fluoride. Preeruptive DDE typical; incidence depends on patient age and early renal disease management.
+
+Dental caries: notably LOW occurrence despite high-carbohydrate diet. Reasons: high salivary buffering capacity, elevated salivary urea (split into ammonia + CO2 raising pH above critical demineralization level), antibacterial effects of urea. Lower caries experience and fewer decayed/missing teeth than healthy individuals.
+
+Delayed tooth eruption: identified in multiple cross-sectional studies; etiology unclear (possibly decreased somatic growth); oral iron supplements for anemia cause delayed eruption + dental discoloration. Generally does not adversely affect oral health; periodic clinical/radiographic surveillance recommended.
+
+Gingival and periodontal diseases: more prevalent; impaired immune function. Higher plaque, gingival inflammation, faster dental calculus accumulation. Calculus rise from high salivary urea/pH/phosphorus causing calcium phosphate and calcium oxalate precipitation. Reduced salivary flow a significant risk factor. Higher prevalence attributed to weakened infection resistance, slow wound healing, alveolar bone damage from renal osteodystrophy, diabetes, bleeding diathesis, malnutrition.
+
+Radiographic alterations: loss of lamina dura, narrowing of dental pulp chamber, DDE, hypercementosis, poorly calcified bone with ground-glass appearance — from increased osteoclastic activity, hyperparathyroidism, renal osteodystrophy, low vitamin D metabolite. Demineralization in maxilla/mandible, loss of trabeculation, giant cell lesions. Cephalometric: decreased cranial base length, shorter mandible, more obtuse mandibular angle.
+
+Craniofacial development: impaired growth from protein malnutrition, growth hormone deficiency, renal osteodystrophy, anemia, metabolic acidosis. ADPKD 3D facial photos: vertical facial lengthening, mild midface hypoplasia, moderate nose lengthening. Short cranial base, increased lower facial height, short mandibular length, obtuse mandibular angle, retrusive mandible.
+
+Dry mouth (xerostomia): from fluid intake restriction, electrolyte imbalance, diuretics. Anticholinergic, cytotoxic, sympathomimetic drugs cause salivary dysfunction. Increases caries, gingival disease, oral fungal infection risk.
+
+Changes in oral mucosa: 90% of kidney disease patients experience oral symptoms. Uremic odor, metallic taste, dry mouth common; oral stomatitis/ulcerations/leukoplakia uncommon. Urea-to-ammonia breakdown causes atypical breath odor + metallic taste. Anemia (reduced erythropoietin) causes mucosal pallor. Anticoagulants in hemodialysis cause hemorrhage, petechiae, ecchymosis. Bacterial/candida infections cause glossitis, mucositis, stomatitis, dysgeusia.
+
+DENTAL MANAGEMENT OF CKD CHILDREN
+
+PRETREATMENT CONSIDERATIONS
+
+Multidisciplinary collaboration: thorough medical history (CKD stage/severity, underlying cause, complications, transplant/dialysis status). Collaboration between pediatric nephrologists, pediatric dentists, other professionals essential.
+
+Bleeding risk assessment: consult physician on timing/complications; assess coagulation parameters before bleeding procedures; modify drug doses for reduced renal secretion/metabolism; CKD causes platelet dysfunction/clotting factor deficiencies; use local hemostatic agents or sutures.
+
+Medication awareness: multiple drugs (immunosuppressants, antihypertensives, phosphate binders). Avoid nephrotoxic aminoglycosides and tetracyclines. Antibiotic prophylaxis before invasive procedures (immunodeficiency from cellular immunity alterations + malnutrition). Treat orofacial infections aggressively with dose adjustment. Monitor antihypertensive patients for hypertension during treatment (adrenaline in LA + stress). Topical thrombin for local coagulation. Analgesics: paracetamol preferred for episodic pain; AVOID aspirin (antiplatelet); reduce/avoid NSAIDs (ibuprofen, diclofenac, naproxen, indomethacin) in severe renal failure (prostaglandin suppression -> hypertension); benzodiazepines without dose change (severe sedation possible); narcotic analgesics (codeine, morphine, fentanyl) liver-metabolized — dose adjustment typically not needed.
+
+Anesthesia considerations: local anesthesia should be amide type (lidocaine/xylocaine) due to liver resorption.
+
+Infection control measures: compromised immune systems; strict sterilization, standard precautions, PPE; early evaluation to eliminate septic foci.
+
+Fluid and electrolyte balance: caution with dehydration/overhydration; corticosteroid cover for patients on corticosteroids (e.g., nephrotic syndrome) undergoing invasive procedures to prevent adrenal crisis.
+
+TREATMENT CONSIDERATIONS
+
+Bacteremia from dental procedures/oral infections can cause morbidity/death; carious teeth, oral ulcers, plaque, calculus are entry points. Avoid excessive stress (raises BP); antianxiety medication for fearful patients; monitor BP before/during/after. Record allergies (e.g., penicillin). Avoid nephrotoxic doxycycline. Antibiotics via IM injection (poor GI resorption).
+
+Halitosis: professional cleaning + enhanced home care + oral mouth rinses. Xerostomia: sugar-free gum, topical treatments, pilocarpine (initial therapy) or cevimeline as sialagogue therapy. Enamel hypoplasia: bonded composite restorations or full-coverage restorations; FLUORIDE SUPPLEMENTATION CONTRAINDICATED (retained due to renal impairment). Not all DDE-affected teeth require filling; abrasive paste for extrinsic stains.
+
+PATIENTS ON HEMODIALYSIS
+
+Hemodialysis removes nitrogen waste; majority receive it 3x/week; causes dehydration + persistent dry mouth -> increased caries + periodontal disease. Immunosuppressants -> gingival overgrowth.
+
+Greater risk of excessive bleeding/infection: anticoagulants + vascular access maintenance; lower platelet counts, platelet adhesiveness, platelet factor 3, higher prostacyclin, capillary fragility. For severely increased bleeding/clotting times or anticoagulant therapy: fresh-frozen plasma, vitamin K, platelet replacement. Post-procedure local hemostasis: topical thrombin, mechanical compression, sutures, microfibrillar collagen, oxidized regenerated cellulose. Desmopressin for severe bleeding; conjugated estrogens for longer-term hemostasis; tranexamic acid rinse or oral 10-15 mg/kg/day in 2-3 doses.
+
+TIMING: dental procedures should be performed on the DAY FOLLOWING dialysis (intravascular volume large, heparin byproducts optimal); heparin anticoagulant effects last only 3-5 hours post-infusion.
+
+Infection risk: HIV, HBV, HCV (multiple transfusions + immunosuppression); liver function tests before extractions/minor oral surgery. Avoid tight postures (access obstruction risk); allow patient to stand/move. Preventive care: dental check-ups every 3-6 months.
+
+DENTAL MANAGEMENT OF CHILDREN WITH KIDNEY TRANSPLANTATION
+
+Before transplant: immunosuppressive therapy (corticosteroids, calcineurin inhibitors [cyclosporine, tacrolimus], lymphocyte proliferation inhibitors [azathioprine, mycophenolate mofetil]); lifelong unless identical-twin donor. Comprehensive clinical + radiographic exam before transplant; eliminate all sources of oral infection (restorations, root canals, calculus removal, extractions). Regular treatment resumes in posttransplant maintenance phase. Antibiotic prophylaxis when bleeding/septicemia anticipated (extractions, periodontal therapy, endodontics, periapical surgery, implant surgery, reimplantation of avulsed teeth). Corticosteroid supplementation to prevent adrenal crisis.
+
+Post-transplant: AVOID elective dental procedures during FIRST 6 MONTHS (infection risk); focus on prevention. Caries risk increases after successful transplant (pH drops to normal, biofilm changes).
+
+Gingival overgrowth (GO): linked to immunosuppressive + antihypertensive drugs (cyclosporine A, nifedipine); problematic in adolescents/females. Ideal management: substitute drug; cyclosporine -> tacrolimus reduces GO severity with minimal graft dysfunction risk. Surgery for severe cases (recurs if drug not adjusted). High-quality home care critical; gingival reduction by conventional cutting/electrosurgery under LA.
+
+Oral stomatitis: from mTOR inhibitors (sirolimus, everolimus); transient ulceration, resolves 10-15 days; topical steroids; discontinue drug if severe/recurrent. Treatments: pain management, nutrition, oral decontamination, dry mouth relief, topical anesthetic mouthwash (2% viscous lidocaine + diphenhydramine).
+
+Viral/fungal infections: HSV most frequent (manifests 2-6 weeks post-transplant; 0%-11.3% of recipients); acyclovir 400 mg PO 3x/day for 10+ days, or IV acyclovir/valacyclovir/famciclovir. Oral candidiasis 4%-43% of recipients (palate, tongue, buccal mucosa; erythematous, pseudomembranous, hyperplastic forms); chlorhexidine or 0.1% hypochlorite rinse, topical nystatin, systemic fluconazole/itraconazole.
+
+Oral cancers: increased risk of Kaposi's sarcoma and squamous cell carcinoma (compromised immune control of malignant cells + viral oncogenes); may develop in GO areas. Regular oral health monitoring crucial.
+
+BARRIERS / DISCUSSION
+
+Children with CKD: dietary restrictions, nutritional deficiencies weakening tooth structure; phosphate binders and calcimimetics cause xerostomia + altered taste; limited dental access (financial, transportation, prioritization of medical appointments). Barriers: limited integration of oral health into healthcare policies, inadequate insurance coverage, interdisciplinary collaboration challenges, limited specialized care access, lack of parental education. Strategies: policy integration, expanded insurance, interdisciplinary training, improved referral systems, parental education.
+
+CONCLUSION
+
+Oral health in children with CKD cannot be overlooked. Dentist and medical team must collaborate to alleviate oral health issues, prevent systemic infections originating in the mouth, and monitor for oral disease. Pediatric oral health providers play a crucial role. Preventive measures (regular check-ups, oral hygiene education, dietary counseling) significantly reduce caries and periodontal disease. Collaboration between pediatric nephrologists and dentists essential.
+
+LIMITATIONS
+
+Limited number of studies meeting inclusion criteria, particularly in pediatric CKD/hemodialysis/renal transplantation populations, restricting breadth of findings and generalizability. Potential for selection bias in included studies; included studies may not fully represent diversity of populations and settings.
