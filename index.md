@@ -2287,6 +2287,8 @@ tags: []
 - [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] — Kern 2018 · rct (24mo): 하악 정중부 단일 임플란트 즉시하중 비열등성 미입증 — 즉시군 조기실패 9개 vs 지연군 1개
 
 #### caries — prevention / nonrestorative
+- [[caries/ahovuo-saloranta-2017-pit-fissure-sealants-permanent-teeth]] — Ahovuo-Saloranta 2017 · sr+ma (CD001830.pub5; RCT 38편, 7924명): 레진계 열구전색이 무전색 대비 24개월 교합면 우식 11–51% 감소(OR 0.12, 중등도 확실성)
+- [[caries/kashbour-2020-sealants-versus-fluoride-varnishes-decay]] — Kashbour 2020 · sr+ma (CD003067.pub5; RCT 11편, 3374명): 전색 vs 불소바니시 우열 판정 불가(OR 0.67, I²=84%, 매우 낮은 확실성); 전색+바니시 병용 우수 가능성(OR 0.30)
 - [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]] — Chestnutt 2017 · rct (1016 children, 36mo): 점열구실란트 vs 불소바니시 상아질우식 예방 동등(19.6% vs 17.5%); 프로그램에선 바니시 비용효과적
 - [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — Urquhart 2019 · sr+ma (NMA, ADA 지침 근거): 비복원 우식치료 순위화 — SDF·실란트+불소가 병변 정지/역전에 최상위
 - [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — Buskermolen 2018 · in-vitro: organotypic 치은 모델 — 타액유래 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유도(항균제 스크리닝 플랫폼)
