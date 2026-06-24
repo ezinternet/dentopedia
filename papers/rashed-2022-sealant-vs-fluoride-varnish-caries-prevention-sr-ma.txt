@@ -1,0 +1,36 @@
+According to PubMed. DOI: 10.1155/2022/8635254
+Pit and Fissure Sealant versus Fluoride Varnish for the Prevention of Dental Caries in School Children: A Systematic Review and Meta-Analysis
+PMID 36263239 | PMCID PMC9553663 | Int J Clin Pract 2022
+
+ABSTRACT
+Children's dental health has become the main concern, due to the increase in caries prevalence amongst children. Pit and fissure sealant (PFS) and fluoride varnish (FV) are effective measures for preventing dental caries. However, the clinical efficacy of these interventions when compared to one another is uncertain. The aim of the present systematic review with meta-analysis was to compare pit and fissure sealants with fluoride varnish for caries prevention of first permanent molars among schoolchildren. This is a meta-analysis, which involves randomized control trials that compare the effectiveness of PFS with FV within 24 months of follow-up. Five databases were searched to identify studies published in Arabic or English language. The risk ratio (RR) and 95% confidence intervals (CIs) were calculated using a random-effects model. A total number of 4 studies were included with overall of 1249 children in both groups. Three included trial reported caries increment of first permanent molars (FPM) with 24 months of follow-up, there was no statistical significance (RR: 0.65; 95% CI 0.31 to 1.35; p = 0.26; I2 = 89%). As regards DMFS increment, the analysis showed no statistical differences between FV and PFS in terms of lowering DMFS increment (MD: 0.09; 95% CI: -0.03 to 0.21). Findings of this meta-analysis proved there is no significant difference between PFS and FV in caries prevention efficacy of FPMs at 2 years' follow-up, emphasizing the use of FV since it is more affordable and easier to apply.
+
+METHODS
+PRISMA-reported; PROSPERO registered 7 July 2022 (CRD42022146807).
+Inclusion: RCTs with at least 24 months follow-up. Split-mouth, quasi-randomized, non-randomized, observational excluded (split-mouth excluded due to FV carryover/contamination across mouth halves).
+Participants: schoolchildren aged 6-12 with sound occlusal surface in first permanent molars.
+Intervention: resin-based sealants (RBS) vs fluoride varnish. GIC/glass-ionomer sealant vs FV comparisons EXCLUDED (low GIC retention).
+Outcomes: incidence of dental caries on FPM surfaces; DMFS increment.
+Databases: Embase, Google Scholar, CENTRAL, MEDLINE via Ovid; January 1980 to May 2022.
+Risk of bias: Cochrane Collaboration tool, 7 domains.
+Statistics: RevMan 5.4. Continuous = weighted mean difference + 95% CI. Dichotomous = RR + 95% CI. Heterogeneity = I2; random-effects model when I2 > 50%.
+
+RESULTS
+Initial search: 231 candidates (Embase 68, Google Scholar 32, CENTRAL 21, MEDLINE/Ovid 110). 140 duplicates removed. After title/abstract screen 64 excluded. 27 assessed for eligibility; 4 RCTs met criteria.
+4 RCTs published 1996 to 2014; 1249 subjects aged 6 to 8.
+Risk of bias: selective reporting low risk in all. Half of studies high risk for blinding of participants/personnel, half unclear. Bravo et al. and Salem et al. stated random selection but did not describe randomization method.
+
+Primary outcome (caries incidence in FPM): 3 trials, 2,622 FPMs, all 24-month follow-up. Initial study favored PFS over FV; more recent study showed no difference. Pooled: RR 0.65; 95% CI 0.31 to 1.35; p = 0.26; I2 = 89% (no statistical significance, very high heterogeneity).
+
+Secondary outcome (DMFS increment): 2 studies. Bravo et al. favored PFS (MD -0.64; 95% CI -1.07 to -0.21). Salem reported PFS higher occlusal caries increment than FV. Pooled (driven by large Bravo n): MD 0.09; 95% CI -0.03 to 0.21 (no significance). Heterogeneity Chi2 = 11.69, I2 = 91%.
+
+DISCUSSION
+PFS as effective as FV in preventing caries in FPMs. Consistent with Li et al. (6-9 yr, PFS or FV, no significant difference in caries incidence or DMFS at 2-3 yr). PFS harder to apply in school setting (needs steady child + isolation); FV faster and more affordable.
+Prior meta-analyses conflicted: Feifei et al. mixed different follow-up times and included GIC-vs-FV (unreasonable). 2016 MA (Wright et al.) found PFS > FV but included PFS-vs-water-fluoridation trials and mixed 5-yr with 2-yr studies without subgroups. Another MA favored PFS at 2-yr but its updated version concluded no certainty either way.
+GIC lower retention than RBS as PFS; RBS retention ~82% over 7 yr (Fross et al.); caries-increment differences small despite retention difference. GIC excluded from this MA.
+
+LIMITATIONS
+Significant heterogeneity despite strict criteria; interpret with caution. Most studies did not control confounders (fluoride exposure, socioeconomic status, parental education). Only 4 studies, all 2-yr follow-up; long-term efficacy not established.
+
+CONCLUSION
+No significant difference between PFS and FV in preventing caries in FPMs at 2 years' follow-up; FV emphasized as more affordable and easier to apply. High-quality studies with longer follow-up needed, especially in low- and middle-income populations.
