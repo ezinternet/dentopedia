@@ -1,0 +1,45 @@
+PubMed full-text retrieval (PMC9894803) returned ABSTRACT ONLY — PMC body not available.
+Source: PubMed / PMC9894803 | PMID 36718696 | DOI 10.19723/j.issn.1671-167X.2023.01.015
+Journal: Journal of Peking University (Health Sciences) / 北京大学学报(医学版), 2023.
+
+TITLE (Chinese): 数字化制作简易口内哥特式弓在全口义齿修复正中关系确定中的应用
+TITLE (English): A clinical application study of a digitally manufactured simple intraoral
+Gothic arch-tracing device in determining the centric relation of complete dentures.
+
+ABSTRACT (Chinese original):
+目的: 验证数字化制作简易口内哥特式弓与传统口内哥特式弓在全口义齿修复正中关系确定中的一致性。
+方法: 选择门诊无牙颌患者10例，分别采用数字化制作简易口内哥特式弓(T1)与传统口内哥特式弓(T2)两种方法
+确定每例的正中关系；记录两种方法临床操作时间的差异；扫描两种上下无牙颌石膏模型的正中关系，将
+Standard Triangle Language (STL)文件导入Geomagic studio软件中，上无牙颌模型多点完全最佳拟合后，
+测量T1组与T2组下颌中线区和磨牙区垂直向及唇(颊)舌向最大位置偏差；临床试戴牙时观察T1组与T2组口内
+有无中线偏斜和后牙区咬合是否稳定。
+结果: T1、T2组临床确定正中关系时间分别为(41.90±2.64) min和(57.50±2.37) min，配对检验，P<0.01，
+差异有统计学意义；T1组与T2组在下颌中线区唇舌向的最大位置偏差为(0.32±0.14) mm，垂直向的最大位置
+偏差为(0.40±0.23) mm；磨牙区颊舌向的最大位置偏差为(0.35±0.23) mm，垂直向的最大位置偏差为
+(0.33±0.20) mm，在垂直向及水平向，T1组下颌相对T2组下颌的最大位置偏差均控制在0.5 mm内。在临床
+试戴牙过程中，T1组及T2组均未发现全口义齿中线偏离及翘动、摆动等稳定性不良现象。
+结论: 数字化制作简易口内哥特式弓可以用于临床全口义齿修复正中关系的确定，不仅可以节约临床操作时间，
+而且也能保证正中关系的准确性。
+
+ABSTRACT (English translation):
+Objective: To verify the consistency between a digitally manufactured simple intraoral
+Gothic arch tracer and a conventional intraoral Gothic arch tracer in determining the
+centric relation (CR) of complete dentures.
+Methods: Ten edentulous outpatients were selected. For each patient, CR was determined by
+two methods — a digitally manufactured simple intraoral Gothic arch device (T1) and a
+conventional intraoral Gothic arch device (T2). The difference in clinical operating time
+between the two methods was recorded. Maxillary and mandibular edentulous casts in CR were
+scanned for both methods; the STL files were imported into Geomagic Studio. After a
+multi-point complete best-fit alignment of the maxillary cast, the maximum positional
+deviation of the mandible between T1 and T2 was measured in the midline region and molar
+region, in the vertical and labial(buccal)-lingual directions. During clinical try-in,
+midline deviation and posterior occlusal stability were observed for both groups.
+Results: Clinical CR-determination time was (41.90±2.64) min for T1 vs (57.50±2.37) min for
+T2 (paired test, P<0.01, statistically significant). Maximum positional deviations of the
+mandible (T1 vs T2): midline region labial-lingual (0.32±0.14) mm, vertical (0.40±0.23) mm;
+molar region buccal-lingual (0.35±0.23) mm, vertical (0.33±0.20) mm — all deviations in both
+vertical and horizontal directions were controlled within 0.5 mm. During clinical try-in,
+neither group showed denture midline deviation or instability (tipping/rocking).
+Conclusion: A digitally manufactured simple intraoral Gothic arch device can be used to
+determine the centric relation for complete-denture prosthodontics; it saves clinical
+operating time while ensuring the accuracy of the centric relation.
