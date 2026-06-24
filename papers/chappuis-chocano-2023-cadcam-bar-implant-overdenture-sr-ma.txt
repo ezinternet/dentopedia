@@ -1,0 +1,45 @@
+A systematic review and meta-analysis of the clinical performance of implant-supported overdentures retained by CAD-CAM bars
+Chappuis-Chocano AP, et al. J Appl Oral Sci. 2023. DOI 10.1590/1678-7757-2023-0054. PMID 37646715. PMCID PMC10501751.
+Source: PubMed Central full text (JATS).
+
+INTRODUCTION
+Edentulism is a physical disability associated with tooth loss leading to functional, aesthetic, and psychological challenges. Implant-supported overdentures (IODs) improve stability, chewing efficiency, and oral health-related quality of life and preserve bone. Mandibular IODs with two interforaminal implants are the standard; maxillary rehabilitation is more challenging and may require >=4 implants. Attachments include ball, Locator, Novaloc, magnetic, or a bar fixed between implants. Per Slot et al. (2010), bars represent the most predictable approach, especially maxilla — high retention, better force distribution via splinting, preferred when implant parallelism is difficult. Conventional soldered distal extensions often fracture under occlusal load. CAD-CAM milled bars (single block of metal or polymer) eliminate soldering/fusion, providing greater mechanical stability with extensions, better quality, precision, passive fit, biological acceptance. Null hypothesis: CAD-CAM bars do NOT improve clinical performance of IODs.
+
+METHODOLOGY
+PROSPERO CRD 42021284190. PRISMA + Cochrane Handbook v6.2. Inclusion: clinical studies (RCTs, prospective, retrospective) evaluating IOD performance with CAD-CAM (printed/milled) bars; English/Spanish/Portuguese; published up to May 2023. Databases: MEDLINE, PubMed, Cochrane Library, SciELO, Web of Science. PICO: population = edentulous patients with IODs; intervention = IODs retained by CAD-CAM (printing/milling) bars; comparison = conventional-method IODs and CAD-CAM prostheses with baseline data; outcomes = survival rates, marginal bone loss, complications (biological + prosthodontic), OHIP, plaque/bleeding indices, patient/practitioner satisfaction. Kappa k=1.0 for selection. Quality: Newcastle-Ottawa Scale (NOS), ROBINS-I for nonrandomized, RoB tool for RCTs, GRADE for evidence quality. Random-effects meta-analysis. Comprehensive Meta-Analysis software v3.0. Statistical significance p<0.05. Heterogeneity via Q method and I^2.
+
+RESULTS — SEARCH
+127 references -> 91 after duplicates -> 13 full-text -> 10 studies included.
+
+RESULTS — STUDIES (n=10)
+Nine specifically examined bar types: CAD-CAM milled titanium, BioHPP, PEEK, zirconia bars. ALL studies reported 100% implant survival. Eight assessed prosthesis survival. No complications in milled Ti bars/prosthesis bases after 1-2y.
+- Katsoulis, Brunner, Mericske-Stern (2011), prospective, 2y, Maxilla/41: maxillary prosthesis fracture in CAD-CAM milled Ti bar group; higher complication rates in conventional bars after 2y. Maxillary overdentures had lower complication incidence than mandibular. Milled Ti bars had lowest complication rates.
+- Katsoulis et al. (2015), retrospective, 3-4y, Mandible/213: no significant difference in prosthesis survival between CAD-CAM milled Ti bars and conventional bars in mandible. Ti-bar required matrix activation 2.4x less often. 9 bar / 4 prosthesis fractures each group.
+- Zuercher et al. (2022), prospective, 1y, Mandible/15, CAD-CAM zirconia bars: no prosthesis/bar fractures. Five patients reported sore spots; three showed superficial brown discoloration of zirconia bar at lingual margin. No prosthodontic maintenance required. Generalized mucosal hyperplasia in one patient.
+- Mangano et al. (2019), prospective, 1y, Maxilla/15, PEEK: no PEEK bar fractures; 3/15 PEEK bars lacked sufficient passive fit/adaptation (intraoral scanning issues); two overdentures repaired (tooth fractures). Two fixtures with peri-implantitis in one patient.
+- Al-Asad et al. (2023), prospective, 18mo, Mandible/20, BioHPP bars: prosthesis fractures in two IODs, no significant difference vs hybrid (p=0.531). Hybrid had two fractured crowns, IOD none. Peri-implantitis: 3 hybrid patients, 2 bar patients. Hyperplasia: 3 under frameworks, 2 under bars.
+- Toia et al. (2019), prospective, 2y, Maxilla/15 + Mandible/25, milled Ti: two prosthetic screws lost tightness in mesostructure (one patient); chipping of resin lower incisor (one patient). Only 1/185 implants had peri-implant mucositis.
+- Pozzi, Tallarico, Moy (2016), prospective, 1y, Maxilla/9 Mandible/9, milled Ti: no technical/biologic complications, prosthetic success.
+- Cordaro et al. (2013), retrospective, Locator (13mo) vs CAD-CAM milled Ti bar (18mo), Mandible: bar group required extra visits for passive fit; 4 Locator patients had soft tissue discomfort; 1 bar patient required reline.
+- Srinivasan et al. (2020), RCT, 1y, Mandible/38: CAD-CAM milled Ti bar with distal extension + gold clip vs retentive anchors + gold matrices. No prosthesis complications.
+
+META-ANALYSIS 1 — complications, CAD-CAM milled Ti bars (n=113) vs conventional gold bars (n=128): 9 complications CAD-CAM, 13 conventional. RR=0.638 (95% CI 0.108-3.755; p=0.619), no significant difference. Mean accuracy fit 0.638 suggests lower probability of complications in CAD-CAM Ti group. Q=1.804 (p=0.179), I^2=44.561 (homogeneous).
+
+META-ANALYSIS 2 — bar-level complication event rate, CAD-CAM milled Ti: 4 studies, 171 IODs, 11 complications at bar level. Event rates 4.2%-12.6%. Pooled event rate 7.4% (random; 95% CI 4.2-12.6). Q=1469 (p=0.689), I^2=0.0 (homogeneous). Low fracture probability.
+
+META-ANALYSIS 3 — biological complication rate, CAD-CAM milled Ti: 3 studies, 159 IODs, 4 biological complications. Event rates 1.1%-6.9%. Pooled event rate 2.8% (random; 95% CI 1.1-6.9). Q=0.026 (p=0.987), I^2=0.0. Low probability.
+
+META-ANALYSIS 4 — peri-implant marginal bone loss (MBL), CAD-CAM Ti or zirconia bars: 4 studies, 324 implants, follow-up 12-24 months. Mean MBL rate 0.061-0.587. Pooled mean 0.324 mm (random; 95% CI 0.061-0.587). HIGH heterogeneity: Q=120.308 (p=0.0), I^2=97.506. Zirconia and Ti bars had similar bone loss; Ti comparable to conventional bars. Bone loss independent of bar metal type.
+MBL per-study (Table 3): Srinivasan 2020 (1y) milled Ti+gold clip n=38: 0.137+/-0.671; retentive anchors+gold matrices n=38: 0.205+/-0.64 (p=0.754). Pozzi 2016 (1y) milled Ti n=72: 0.64+/-0.21 (p=0.003). Toia 2019 (2y) milled Ti n=185: 0.27+/-0.35 (p>0.05). Zuercher 2022 (1y) zirconia n=30: 0.20+/-0.67 (NR).
+
+BIOLOGICAL COMPLICATIONS (6 studies): two studies evaluating BioHPP and PEEK bars reported peri-implantitis. Titanium and zirconia CAD-CAM bars had fewer biological complications (4y and 1y follow-up). Polymer-based bars (BioHPP, PEEK) may be associated with peri-implantitis after 18 months. Per Wiessner et al. (2023) greater microbial accumulation on polymer bars vs Ti/zirconia; Hahnel et al. (2015) PEEK adhesion equal/lower than zirconia/Ti; Barkamo et al. (2019) no difference PEEK vs Ti but increased roughness increased adhesion.
+
+PLAQUE/BLEEDING (5 studies): four reported favorable indices for CAD-CAM milled Ti bars; one (Cordaro 2013) favored Locator (smaller dimensions, easier cleaning). Zuercher 2022: zirconia bars had no plaque accumulation/bleeding (but abstract notes zirconia had higher plaque/bleeding indices than Ti).
+
+OHIP (4 studies): all reported significant improvement in OHIP scores; CAD-CAM milled Ti bars substantially improved quality of life. OHIP decreased as early as week 2 in milled Ti group. Katsoulis 2011: significantly lower OHIP in implant-fixed prosthesis group (better aesthetics/phonetics/chewing).
+
+SATISFACTION (5 studies): three showed positive patient satisfaction with CAD-CAM milled Ti bars. One favored Locator for easier hygiene. Altonbary & Emera (2021): higher satisfaction with zirconia bars (appearance, comfort, hygiene) vs conventional Co-Cr bars. No significant difference BioHPP bar vs BioHPP fixed hybrid. Practitioners highly satisfied with milled Ti bars; one preferred Locator (soft tissue/hygiene).
+
+QUALITY: most studies good methodological quality. NOS scores 6-9. Cohort studies scored 7 for inadequate follow-up (up to 2y). GRADE quality of evidence very low to moderate; technical complications and MBL rated low.
+
+CONCLUSION: IODs retained by titanium bars designed via CAD-CAM have optimal daily clinical performance — high implant survival, minimal biological/mechanical complications, significantly improved patient quality of life. PEEK, BioHPP, zirconia bars are promising. Further long-term RCTs needed.
