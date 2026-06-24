@@ -1,0 +1,87 @@
+Source: PubMed Central PMC13203191 (PMID 42194264)
+DOI: 10.3390/bioengineering13050507
+Title: Effect of Alumina Airborne-Particle Abrasion Followed by Plasma Treatment on Bond Strength of Dental PEEK to MMA-Based Luting Systems
+Journal: Bioengineering (Basel), 2026
+
+ABSTRACT
+
+Poly (ether ether ketone) (PEEK) has attracted increasing attention for dental applications because of its favorable mechanical properties, physicochemical stability, and biocompatibility. However, its inherently poor bonding characteristics remain a major limitation in clinical practice. This study investigated the effect of sequential alumina airborne-particle abrasion (sandblasting) followed by plasma treatment on the bonding performance of methyl methacrylate (MMA)-based luting systems to dental CAD-CAM PEEK. PEEK specimens were prepared as plates and divided into four surface-treatment groups: untreated, airborne-particle abraded, plasma-treated, and airborne-particle abraded followed by plasma treatment. Surface characteristics were evaluated using SEM–EDX analysis and surface roughness measurements, and surface wettability was assessed by contact angle measurements using primers from two MMA-based luting systems (Beautylink [BL] and Super-Bond [SB]). Shear bond strength (SBS) between treated PEEK and each luting system was determined after 24 h of water storage (initial) and after 20,000 thermocycles (aged). Airborne-particle abrasion significantly increased surface roughness, whereas plasma treatment enhanced surface wettability without altering roughness. The combined treatment resulted in the highest surface roughness and the lowest contact angles and demonstrated superior or comparable SBS compared with the single treatments. After aging, the combined treatment significantly improved bonding durability. These findings indicate that airborne-particle abrasion followed by plasma treatment enhances the bonding performance and durability of MMA-based luting systems to PEEK.
+
+1. INTRODUCTION
+
+Poly (ether ether ketone) (PEEK) is a high-performance thermoplastic polymer that has attracted increasing attention for dental applications because of its favorable mechanical properties, physicochemical stability, and biocompatibility. PEEK exhibits high toughness and impact resistance, contributing to resistance against fracture under force loading. In addition, its relatively low elastic modulus compared with ceramics and metals may provide a stress-mitigating "cushioning" effect under functional loading. PEEK also demonstrates excellent chemical stability and high resistance to water absorption, dissolution, and discoloration or staining, supporting its use in the oral environment. From a biological perspective, PEEK exhibits minimal elution of unreacted monomers or additives, resulting in excellent biocompatibility and low irritation potential for oral mucosa and gingival tissues. Moreover, the hydrophobic surface and low surface free energy of PEEK have been reported to reduce bacterial adhesion and plaque accumulation. Owing to these characteristics, dental-grade PEEK has been applied to a wide range of prosthodontic and implant-related indications, including crowns, bridges, implant components, endodontic posts, removable prostheses, and orthodontic devices.
+
+Despite these advantages, reliable adhesion to PEEK remains a major clinical challenge. PEEK is chemically inert and lacks reactive functional groups, resulting in limited chemical interaction with conventional dental adhesive systems. Consequently, insufficient bonding to luting agents may lead to debonding of PEEK restorations and compromise long-term clinical outcomes. To address this limitation, extensive research has investigated surface pretreatments and adhesive strategies for improving bonding to PEEK. Among dental adhesive systems, methyl methacrylate (MMA)-containing primers and luting agents have been reported to provide higher bond strength and improved durability. Several studies have demonstrated that MMA-containing primers, such as Signum PEEK Bond and Visio.link, enhance the bonding of PEEK to resin-based veneering materials. In addition, MMA-based luting systems (resin cements), such as Super-Bond and Block HC Cem, when used in combination with MMA-containing primers, have shown more favorable bonding performance to PEEK than composite-based resin cements. These findings indicate that MMA-based luting systems are promising options for achieving reliable adhesion to PEEK.
+
+Surface pretreatment of PEEK is a critical determinant of bonding effectiveness. Numerous physical and chemical surface modification methods have been evaluated, including airborne-particle abrasion (sandblasting), plasma treatment, ultraviolet irradiation, laser treatment, chemical etching (e.g., sulfuric acid), and various coating approaches. Among these methods, both high-concentration sulfuric acid etching and alumina airborne-particle abrasion have been reported to effectively increase surface roughness and promote micromechanical interlocking, thereby enhancing bond strength. However, the clinical applicability of concentrated sulfuric acid is limited due to safety and handling concerns, making airborne-particle abrasion a more practical pretreatment for routine clinical use.
+
+Based on current evidence, a commonly recommended approach for PEEK bonding is airborne-particle abrasion followed by the application of an MMA-based luting system. However, airborne-particle abrasion alone primarily provides micromechanical retention and does not sufficiently increase surface energy or introduce reactive functional groups on the PEEK surface. This limitation may restrict effective interaction with MMA-based luting systems. Consequently, debonding of PEEK restorations, such as crowns and bridges, remains a clinical concern.
+
+To further modify the airborne-particle-abraded PEEK surface, plasma treatment has attracted attention as an additional surface modification method because it can increase surface energy and introduce polar functional groups without the use of hazardous chemicals. Therefore, plasma treatment is expected to complement the limitations of airborne-particle abrasion by enhancing surface wettability and chemical affinity without altering the microretentive morphology.
+
+The purpose of this study was to evaluate the effect of combined alumina airborne-particle abrasion and plasma treatment on the bond strength between dental PEEK and an MMA-based luting system. The null hypotheses were that additional plasma treatment after airborne-particle abrasion would not affect the surface roughness and wettability of PEEK, and would not improve the bond strength between PEEK and MMA-based luting systems.
+
+2. MATERIALS AND METHODS
+
+2.1. Surface Treatment of PEEK
+Two commercial MMA-based luting systems were employed. Beautylink (BL) is a dual-cure, composite-based resin cement used in combination with an MMA-containing primer. Super-Bond (SB) is a self-cure, MMA-based resin cement also used with an MMA-containing primer.
+
+Commercial CAD-CAM PEEK blocks were sectioned into plates with a thickness of 2 mm using a diamond wheel saw. The plates were sequentially polished with #600 emery papers. After polishing, a total of 244 specimens were ultrasonically cleaned in distilled water for 5 min and air-dried. The prepared specimens were then randomly assigned to four surface-treatment groups (n = 61 per group):
+- UT: untreated
+- PT: plasma-treated
+- AB: airborne-particle abrasion (alumina sandblasting)
+- AB + PT: airborne-particle abrasion followed by plasma treatment
+Plasma treatment was performed in an air atmosphere.
+
+2.2. SEM-EDX Observation
+Surface morphology and elemental analysis examined using SEM–EDX (ERA-600, ELIONIX INC., Tokyo, Japan) at 15 kV (n = 1 per group). Specimen surfaces sputter-coated with gold.
+
+2.3. Surface Roughness Measurement
+Surface roughness (Ra) measured using a stylus profilometer (HANDYSURF+, Tokyo Seimitsu Co., Ltd.). Measurements at the center of each specimen over a 10 mm tracing length. Ten independent specimens measured once per group (n = 10).
+
+2.4. Contact Angle Measurement
+Wettability of each treated PEEK surface evaluated by measuring the contact angle of the primers from the MMA-containing luting systems using the static sessile drop method (DMe-211, Kyowa Interface Science) at 25 °C. Ten independent specimens measured once per group (n = 10).
+
+2.5. Shear Bond Strength (SBS) Test
+A Teflon tube (inner diameter: 5 mm) was fixed onto the PEEK surface using double-sided tape to standardize the bonding area. After primer application, the luting agent was filled into the tube. For the BL luting system (dual-cure resin cement), light polymerization was performed using a light-curing unit (α LIGHT II N, J. Morita), followed by storage at 25 °C for 1 h. For the SB luting system (self-cure resin cement), specimens were stored at 25 °C for 1 h without light irradiation. After polymerization, the Teflon tube was removed, and specimens were immersed in distilled water at 37 °C for 24 h (initial group). For bonding durability evaluation, additional specimens were subjected to 20,000 thermocycles between 5 °C and 55 °C with a dwell time of 60 s in each bath (aged group). SBS measured using a universal testing machine (AGS-H, Shimadzu) at a crosshead speed of 1.0 mm/min. Sample size n = 10 per group. Failure modes observed under optical microscopy at ×30 and classified as: (1) adhesive failure at the PEEK–cement interface; (2) cohesive failure within the luting agent; (3) mixed failure.
+
+2.6. Statistical Analysis
+Analyses performed using R version 4.5.2. Surface roughness and contact angle data analyzed separately for each luting system (BL and SB) using one-way ANOVA followed by Tukey's post hoc test. SBS data analyzed separately for each luting system using two-way ANOVA to evaluate the effects of surface treatment (four levels) and aging condition (two levels: initial and aged), and their interaction. Significance set at p < 0.05.
+
+3. RESULTS
+
+3.1. Surface Modification of PEEK
+EDX: UT spectrum exhibited carbon and oxygen from PEEK matrix, plus titanium and oxygen from the TiO2 filler. PT did not produce noticeable spectral changes. AB introduced additional aluminum and silicon peaks (alumina particles + trace silica impurities from abrasion). AB + PT spectrum similar to AB.
+
+SEM: UT exhibited polishing scratches. PT did not produce noticeable morphological change. AB generated a roughened surface with randomly distributed concave–convex microstructures; AB + PT similar. Elemental mapping: UT showed homogeneous carbon, oxygen, titanium (TiO2 fillers dispersed in PEEK matrix); AB exhibited aluminum signals (residual alumina particles); AB + PT same tendency.
+
+Surface roughness (Ra): PT did not significantly change roughness vs UT. AB significantly increased roughness. AB + PT also significantly increased roughness vs UT, with no significant difference vs AB. → Plasma treatment did not affect roughness of abraded PEEK.
+
+Contact angle / wettability:
+- BL primer: PT significantly reduced contact angle vs untreated. AB also reduced contact angle. The combined treatment (AB + PT) resulted in a significantly lower contact angle than either PT or AB alone. → Combination gave greater improvement in wettability than either treatment alone.
+- SB primer: contact angle could NOT be measured in any group because values were too low to accurately determine (immediate spreading upon contact prevented stable droplet formation).
+
+3.2. Bonding Performance (Shear Bond Strength)
+NOTE: Numeric MPa values per group are reported in the article's figures/tables, which were not captured in the JATS full-text extraction. Verbatim qualitative findings below.
+
+BL system: two-way ANOVA — significant effects of surface treatment (p < 0.001, ηp² = 0.400), aging condition (p = 0.003, ηp² = 0.128), and a significant interaction (p = 0.022, ηp² = 0.114). Under the INITIAL condition, no significant differences in SBS among treatment groups. After AGING, significant differences among treatments: AB + PT group exhibited significantly higher SBS than the PT and AB groups, whereas the UT group showed COMPLETE DEBONDING after thermocycling. → Combined treatment markedly improved bonding durability in the BL system.
+
+SB system: two-way ANOVA — significant effects of surface treatment (p < 0.001, ηp² = 0.595), aging condition (p < 0.001, ηp² = 0.466), and their interaction (p = 0.012, ηp² = 0.139). Under the INITIAL condition, AB + PT exhibited significantly higher SBS than UT. After AGING, AB and AB + PT showed significantly higher SBS than UT, whereas the PT group did NOT maintain bonding performance comparable to the AB group. → AB plays a dominant role in bonding durability in the SB system.
+
+Failure modes: predominantly adhesive failures in all groups. Mixed failures observed in a small number of AB + PT specimens: one specimen in the BL system and one in the SB system under the initial condition, and two in the BL system under the aged condition.
+
+4. DISCUSSION (key points)
+Airborne-particle abrasion provided effective micromechanical roughening; subsequent plasma treatment enhanced surface wettability. Combined treatment improved bonding performance, particularly durability. Degree of improvement varied between BL and SB. Null hypotheses rejected in part: plasma after AB did not significantly alter roughness, but improved wettability and enhanced bonding performance, particularly durability.
+
+Alumina airborne-particle abrasion generated micrometer-scale grooves and irregular structures; MMA-based luting agent penetrates and polymerizes within microgrooves → micromechanical anchoring/interlocking (primary reason for increased bond strength). Residual alumina particles remained on the PEEK surface (confirmed by SEM–EDX), could not be removed by air blowing or ultrasonication.
+
+Plasma treatment (air atmosphere) generated oxygen-containing reactive species that remove contaminants and introduce polar functional groups (–C=O, –COOH, –OH) onto PEEK; these can participate in chemical interactions with adhesive components (e.g., silane coupling agents, potentially Si–O–C bonds). Note: contact angle for SB primer not feasible (immediate spreading) → interpretations of wettability role in SB bonding must be cautious.
+
+Superior performance after aging suggests chemical activation by plasma may improve interfacial stability against hydrolytic degradation. Mixed failures in AB + PT groups suggest interfacial bond strength locally approached cohesive strength of the materials. Predominance of adhesive failure overall confirms the interface remains the "weakest link."
+
+Clinically feasible: both procedures simple, short processing times, commercially available devices, fewer safety concerns than chemical etching (sulfuric/hydrofluoric acid). Plasma-treated polymer surface energy decreases over time → recommend plasma treatment chairside, immediately before the luting procedure.
+
+Limitations: (1) SBS test produces non-uniform stress distributions (tensile/peeling components) not fully reflecting clinical loading; (2) aging limited to thermocycling, no cyclic mechanical fatigue loading; (3) SEM–EDX limited to qualitative assessment.
+
+5. CONCLUSIONS
+The combined treatment of airborne-particle abrasion followed by plasma treatment significantly increased surface roughness and wettability (where measurable). This combination improved the bond strength and durability between PEEK and MMA-based luting agents. The sequential application of airborne-particle abrasion and plasma treatment in conjunction with MMA-based luting systems represents a promising approach for enhancing the long-term clinical success of PEEK restorations.
