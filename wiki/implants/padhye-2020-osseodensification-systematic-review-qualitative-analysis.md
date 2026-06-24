@@ -11,12 +11,12 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/padhye-2020-osseodensification-system
 pdf_filename: padhye-2020-osseodensification-systematic-review-qualitative-analysis.pdf
 source_collection: external
 tags: [osseodensification, primary-stability, systematic-review, densah, BIC, BAF, insertion-torque]
-superseded_by: inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma
+superseded_by: marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma
 superseded_scope: full
 ---
 
-> [!warning] Superseded (full) → [[inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]]
-> This earlier qualitative SR (no pooled effect sizes) is superseded quantitatively by Inchingolo 2021 (SR+MA). Prefer the meta-analytic estimates there. (set 2026-05-31)
+> [!warning] Superseded (full) → [[marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma]]
+> This earlier qualitative SR (no pooled effect sizes) is superseded quantitatively by later OD meta-analyses. Pointer updated from the now-superseded [[inchingolo-2021-osseodensification-implant-site-osteotomy-sr-ma]] to the chain tail — Marzorati 2026 (SR+MA, torque/ISQ). Prefer the meta-analytic estimates there. (set 2026-05-31; chain-tail update 2026-06-24)
 
 ## One-line Summary
 Systematic review (SR, qualitative; 12 studies — 8 animal histologic, 2 human clinical) of osseodensification (OD): OD trends toward higher insertion torque, bone-to-implant contact (BIC), and bone area fraction occupancy (BAFO) vs conventional drilling, but the animal-dominated evidence base precludes conclusions on long-term clinical success (no pooled effect sizes).
