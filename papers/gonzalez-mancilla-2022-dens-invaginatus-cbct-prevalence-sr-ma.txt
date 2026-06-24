@@ -1,0 +1,59 @@
+Prevalence of Dens Invaginatus assessed by CBCT: Systematic Review and Meta-Analysis
+González-Mancilla et al. — J Clin Exp Dent 2022 — DOI 10.4317/jced.59849
+PMID 36458027 | PMCID PMC9701346
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC9701346/)
+
+== ABSTRACT ==
+Background: Dens invaginatus is a developmental dental anomaly resulting from an invagination of dental tissues folding from the outer surface towards dental pulp. Aim: determine prevalence of dens invaginatus using cone beam computed tomography (CBCT).
+Methods: SR following PRISMA. Question: prevalence of dens invaginatus in adult population assessed by CBCT. MeSH search of PubMed. Risk of bias assessed.
+Results: Four studies included, 2009 CBCT images. Overall prevalence 9.0% (95% CI 7.2-10.8%; p<0.001). Three studies low risk of bias.
+Conclusions: Prevalence using CBCT higher than previous estimations with conventional radiographs. Teeth with dens invaginatus should always be studied using CBCT.
+Keywords: Dens invaginatus, Dens in dente, Dental anomalies, CBCT, Cone beam computed tomography.
+
+== INTRODUCTION ==
+Dens invaginatus (dens in dente): invagination into the tooth, dental tissues fold from outer surface towards pulp prior to calcification.
+Etiopathogenic theories: retarded proliferation of cell group (Kronfeld); embryological proliferation of enamel organ into papilla (Rushton); mechanical external forces on tooth germ from adjacent germs e.g. central incisors/canines developing >=6 months before lateral incisors pressing lateral incisor germ (Atkinson); trauma; infection; genetic (found in several family members).
+Prevalence ranging 0.25% to 7.7% (conventional), more common in permanent dentition. Maxillary lateral incisors most frequently involved, sometimes bilaterally; frequent in supernumerary teeth.
+
+Oehlers 1957 classification (radiographic extension crown to root):
+- Type I: minimal invagination, enamel-lined, confined within crown. Most common, frequency 79%.
+- Type II: invagination extends apically to amelocemental line; blind dead-end, may/may not communicate with pulp, remains within root canal, no communication with periodontal ligament.
+- Type III: invagination extends through root, normally no pulp communication. IIIa = communicates laterally with periodontal space through pseudo-foramen; IIIb = communicates with periodontal ligament at apical foramen.
+
+CBCT: 3D image of canal system, overcomes distortion/overlap of periapical radiography. Reveals more endodontic findings than conventional. ALARA principle. ESE/AAE recommend CBCT for diagnosis, surgical/non-surgical retreatment, resorptions, dentoalveolar traumatology.
+
+== METHODS ==
+CoCoPop question. Inclusion: adults, dens invaginatus diagnosed by CBCT. Exclusion: conventional radiography diagnosis, no prevalence determined, case reports.
+PRISMA. Two reviewers searched PubMed and SCOPUS until 21 Oct 2021, no language/year restriction.
+Search: (dens invaginatus OR dens in dente) AND (prevalence OR frequency) AND (cone OR CBCT OR tomography).
+Outcome: prevalence with 95% CI. OpenMeta Analyst. Tau2 and Higgins I2. Heterogeneity: low <25%, slight 25-50%, moderate 50-75%, high >75%. Oxford evidence scale. Hoy Risk of Bias Tool for prevalence studies (10 items).
+
+== RESULTS ==
+Seven articles identified in PubMed. Four met inclusion (three excluded: one no CBCT, one no prevalence, one assessed Vertucci internal anatomy).
+Three studies CBCT only; Capar et al. is comparative CBCT vs rendered panoramic.
+Capar: detection of dens invaginatus lower on panoramic (3%) vs CBCT (10.7%).
+
+Meta-analysis: four studies = 2009 CBCT images. From Capar only CBCT data used.
+Tau2 = 0.00 (df=5.332; p=0.149) not significant. I2 = 43.73% slight heterogeneity. Random effects model.
+Overall pooled prevalence of dens invaginatus = 0.090 (9.0%) (95% CI = 0.072-0.108; p<0.001).
+179 dens invaginatus diagnosed in 2009 CBCT images. All four included studies retrospective.
+
+Individual studies:
+- Chen et al.: CBCT of 1004 patients (493 men, 511 women), 17-73 yrs, Chinese/Beijing. Dens invaginatus in 85/1004 patients (8.47%). More prevalent in males (10.75% males vs 6.68% females).
+- Alkadi et al.: CBCT of 505 patients (218 men, 287 women), 8-70 yrs, Saudi. 2790 maxillary anterior teeth evaluated. Dens invaginatus in 37/505 patients (7.3%). No significant gender difference.
+- Mabrouk et al.: CBCT of 200 patients (98 men, 102 women), 16-89 yrs, Tunisian. 4945 maxillary+mandibular anterior teeth. 25/200 patients (12.5%). Men more prevalent, not statistically significant.
+- Capar et al.: CBCT of 300 patients (151 men, 149 women), 8-71 yrs, Turkish. CBCT: 32/300 patients (10.7%). Panoramic: 9/300 (3%). No significant gender difference.
+
+All studies: anomaly most frequent in upper (maxillary) lateral incisor, followed by upper central incisor. Type I (Oehlers) most frequent form of presentation.
+
+Quality: Oxford level 3b (all retrospective), moderate. Hoy Risk of Bias: 80% reported parameters = low overall risk of bias.
+
+== DISCUSSION ==
+CBCT prevalence (9%) significantly higher than 2D imaging (0.25-7.7%). CBCT effective/essential for accurate diagnosis and treatment. Consistent with Capar (CBCT 10.7% vs conventional 3%).
+First SR analyzing prevalence of dens invaginatus using CBCT.
+Conventional radiography limitations: anatomical noise, geometric distortion, 2D nature, overlapping. CBCT overcomes these (3D) but lower spatial resolution than periapical, image-quality decrease with radiopaque objects (metal restorations, posts, gutta-percha), higher radiation.
+Three of four studies specify voxel size (small voxel = higher resolution).
+
+== LIMITATIONS / CONCLUSIONS ==
+Only four studies met inclusion (low number) but acceptable quality, low-moderate risk of bias. Chen (Beijing sample), Alkadi (convenience sample) may not be representative. Large-scale multi-centre studies needed.
+Conclusion: prevalence of dens invaginatus by CBCT significantly higher than 2D. CBCT key for identification and prevalence. Early identification/management critical for prognosis; suspicion should be investigated by CBCT.
