@@ -1,0 +1,86 @@
+Interventions for treating cavitated or dentine carious lesions
+Schwendicke F, Walsh T, Lamont T, Al-Yaseen W, Bjørndal L, Clarkson JE, Fontana M, Gomez Rossi J, Göstemeyer G, Levey C, Müller A, Ricketts D, Robertson M, Santamaria RM, Innes NPT.
+Cochrane Database of Systematic Reviews 2021, Issue 7. Art. No.: CD013039.
+DOI: 10.1002/14651858.CD013039.pub2
+PMID: 34280957 | PMCID: PMC8406990
+Source: According to PubMed (PMC8406990). https://pmc.ncbi.nlm.nih.gov/articles/PMC8406990/
+
+[NOTE: PMC full text (JATS body) was NOT retrievable via get_full_text_article — full_text field returned empty (paywalled). Only the structured abstract + plain-language summary below were retrieved. full_text: false.]
+
+== ABSTRACT ==
+
+Background
+Traditionally, cavitated carious lesions and those extending into dentine have been treated by 'complete' removal of carious tissue, i.e. non-selective removal and conventional restoration (CR). Alternative strategies for managing cavitated or dentine carious lesions remove less or none of the carious tissue and include selective carious tissue removal (or selective excavation (SE)), stepwise carious tissue removal (SW), sealing carious lesions using sealant materials, sealing using preformed metal crowns (Hall Technique, HT), and non-restorative cavity control (NRCC).
+
+Objectives
+To determine the comparative effectiveness of interventions (CR, SE, SW, sealing of carious lesions using sealant materials or preformed metal crowns (HT), or NRCC) to treat carious lesions conventionally considered to require restorations (cavitated or micro-cavitated lesions, or occlusal lesions that are clinically non-cavitated but clinically/radiographically extend into dentine) in primary or permanent teeth with vital (sensitive) pulps.
+
+Search methods
+An information specialist searched four bibliographic databases to 21 July 2020 and used additional search methods to identify published, unpublished and ongoing studies.
+
+Selection criteria
+We included randomised clinical trials comparing different levels of carious tissue removal, as listed above, against each other, placebo, or no treatment. Participants had permanent or primary teeth (or both), and vital pulps (i.e. no irreversible pulpitis/pulp necrosis), and carious lesions conventionally considered to need a restoration (i.e. cavitated lesions, or non- or micro-cavitated lesions radiographically extending into dentine). The primary outcome was failure, a composite measure of pulp exposure, endodontic therapy, tooth extraction, and restorative complications (including resealing of sealed lesions).
+
+Data collection and analysis
+Pairs of review authors independently screened search results, extracted data, and assessed the risk of bias in the studies and the overall certainty of the evidence using GRADE criteria. We measured treatment effects through analysing dichotomous outcomes (presence/absence of complications) and expressing them as odds ratios (OR) with 95% confidence intervals (CI). For failure in the subgroup of deep lesions, we used network meta-analysis to assess and rank the relative effectiveness of different interventions.
+
+Main results
+We included 27 studies with 3350 participants and 4195 teeth/lesions, which were conducted in 11 countries and published between 1977 and 2020. Twenty-four studies used a parallel-group design and three were split-mouth. Two studies included adults only, 20 included children/adolescents only and five included both. Ten studies evaluated permanent teeth, 16 evaluated primary teeth and one evaluated both. Three studies treated non-cavitated lesions; 12 treated cavitated, deep lesions, and 12 treated cavitated but not deep lesions or lesions of varying depth.
+
+Seventeen studies compared conventional treatment (CR) with a less invasive treatment: SE (8), SW (4), two HT (2), sealing with sealant materials (4) and NRCC (1). Other comparisons were: SE versus HT (2); SE versus SW (4); SE versus sealing with sealant materials (2); sealant materials versus no sealing (2).
+
+Follow-up times varied from no follow-up (pulp exposure during treatment) to 120 months, the most common being 12 to 24 months.
+
+All studies were at overall high risk of bias.
+
+Effect of interventions
+
+Sealing using sealants versus other interventions for non-cavitated or cavitated but not deep lesions
+There was insufficient evidence of a difference between sealing with sealants and CR (OR 5.00, 95% CI 0.51 to 49.27; 1 study, 41 teeth, permanent teeth, cavitated), sealing versus SE (OR 3.11, 95% CI 0.11 to 85.52; 2 studies, 82 primary teeth, cavitated) or sealing versus no treatment (OR 0.05, 95% CI 0.00 to 2.71; 2 studies, 103 permanent teeth, non-cavitated), but we assessed all as very low-certainty evidence.
+
+HT, CR, SE, NRCC for cavitated, but not deep lesions in primary teeth
+The odds of failure may be higher for CR than HT (OR 8.35, 95% CI 3.73 to 18.68; 2 studies, 249 teeth; low-certainty evidence) and lower for HT than NRCC (OR 0.19, 95% CI 0.05 to 0.74; 1 study, 84 teeth, very low-certainty evidence). There was insufficient evidence of a difference between SE versus HT (OR 8.94, 95% CI 0.57 to 139.67; 2 studies, 586 teeth) or CR versus NRCC (OR 1.16, 95% CI 0.50 to 2.71; 1 study, 102 teeth), both very low-certainty evidence.
+
+CR, SE, SW for deep lesions
+The odds of failure were higher for CR than SW in permanent teeth (OR 2.06, 95% CI 1.34 to 3.17; 3 studies, 398 teeth; moderate-certainty evidence), but not primary teeth (OR 2.43, 95% CI 0.65 to 9.12; 1 study, 63 teeth; very low-certainty evidence).
+
+The odds of failure may be higher for CR than SE in permanent teeth (OR 11.32, 95% CI 1.97 to 65.02; 2 studies, 179 teeth) and primary teeth (OR 4.43, 95% CI 1.04 to 18.77; 4 studies, 265 teeth), both very low-certainty evidence. Notably, two studies compared CR versus SE in cavitated, but not deep lesions, with insufficient evidence of a difference in outcome (OR 0.62, 95% CI 0.21 to 1.88; 204 teeth; very low-certainty evidence).
+
+The odds of failure were higher for SW than SE in permanent teeth (OR 2.25, 95% CI 1.33 to 3.82; 3 studies, 371 teeth; moderate-certainty evidence), but not primary teeth (OR 2.05, 95% CI 0.49 to 8.62; 2 studies, 126 teeth; very low-certainty evidence).
+
+For deep lesions, a network meta-analysis showed the probability of failure to be greatest for CR compared with SE, SW and HT.
+
+Authors' conclusions
+Compared with CR, there were lower numbers of failures with HT and SE in the primary dentition, and with SE and SW in the permanent dentition. Most studies showed high risk of bias and limited precision of estimates due to small sample size and typically limited numbers of failures, resulting in assessments of low or very low certainty of evidence for most comparisons.
+
+== PLAIN LANGUAGE SUMMARY ==
+
+Comparing treatments for advanced tooth decay
+
+Key messages
+For decayed baby (primary) teeth, putting an off-the-shelf metal crown over the tooth or only partially removing decay before placing a filling may be better than the conventional treatment of removing all decay before filling.
+For decayed adult (permanent) teeth, partial removal of decay before filling the tooth, or adding a second stage to this treatment where more decay is removed after several months, may be better than conventional treatment.
+
+What is the condition?
+Dental caries (tooth decay) is very common and can cause pain, eating and speaking difficulties, and self-consciousness. Teeth are made up of three layers: enamel (hard outer layer), dentine (hard inner layer), and pulp (nerves and blood vessels). Our mouths contain bacteria, which grow in a sticky film over our teeth known as dental plaque. The bacteria live on sugar from our diet and turn it into acid that dissolves the teeth. Saliva can reverse this process, but if there is too much sugar in the diet or bacteria are not removed often enough by toothbrushing then the acids continue to erode the teeth. This can progress into the dentine, eventually causing a hole in the tooth (known as a cavitated carious lesion). If it reaches the pulp, it can cause infection.
+
+How is the condition treated?
+Dentine/cavitated carious lesions can be treated by complete removal of decayed parts of the tooth and placement of a filling. Dentists call this non-selective carious tissue removal and conventional restoration (CR). Although effective, this risks weakening the tooth or causing problems if the pulp of the tooth is exposed. Newer alternatives involve removing less or none of the carious tissue:
+1. Selective carious tissue removal (or selective excavation (SE)): decay around the edges of the cavity is fully removed, but close to the pulp, some softened dentine is left. A filling is then put in.
+2. Stepwise carious tissue removal (SW): as with SE, most of the decayed parts are removed, but soft dentine is left in areas close to the pulp and the cavity is filled using materials such as composite. After a gap of several months, more of the softened dentine is removed.
+3. Sealing carious lesions using sealant materials: a thin coating made from resin or glass ionomer is painted over the decayed tooth, hardens in a few minutes and makes the caries inactive by stopping bacteria reaching it.
+4. Sealing using preformed metal crowns (Hall Technique, HT): a preformed metal crown is pushed over the decayed tooth to seal in the carious lesion.
+5. Non-restorative cavity control (NRCC): cavities are made easier to clean, and patients helped to develop good tooth care and eating habits to reduce the risk of the decay progressing.
+
+What did we find?
+We included 27 studies with 3350 participants (4195 teeth/lesions), mostly children. Treatment success or failure was usually evaluated at 12 to 24 months.
+Sealing using sealants versus other interventions for non-cavitated or cavitated but not deep lesions: The evidence is very uncertain, so we do not know whether sealing with sealants is better, worse or the same as conventional treatment, SE or no treatment.
+HT, CR, SE, NRCC for cavitated, but not deep lesions in baby teeth: The results showed HT may be more likely to be successful than conventional treatment or NRCC. The evidence is very uncertain for SE versus HT and CR versus NRCC.
+CR, SE, SW for deep lesions: SW is probably better than conventional treatment for permanent teeth. The evidence is very uncertain for primary teeth. SE may be better than conventional treatment for permanent teeth and possibly primary teeth (but the evidence is very uncertain for lesions that are cavitated but not deep). SE is probably better than SW for permanent teeth. The evidence is very uncertain for primary teeth.
+For deep lesions, network meta-analysis showed failure was most likely with conventional treatment compared with SE, SW and HT.
+
+What are the limitations of the evidence?
+Most studies did not involve many people, and most people had no problems with their fillings regardless of which treatment they received. All studies were at high risk of being biased in some way. Currently, we only have low to very low certainty in most findings.
+
+How up-to-date is this evidence?
+We found studies up to 21 July 2020.
