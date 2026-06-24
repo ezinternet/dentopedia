@@ -1,0 +1,34 @@
+Pit and fissure sealants versus fluoride varnishes for preventing dental decay in the permanent teeth of children and adolescents
+Kashbour W, Gupta P, Worthington HV, Boyers D.
+Cochrane Database of Systematic Reviews 2020, Issue 11. Art. No.: CD003067 (pub5).
+DOI: 10.1002/14651858.CD003067.pub5 | PMID: 33142363 | PMCID: PMC9308902
+Source: PubMed metadata + abstract/plain-language summary (full body text via PMC open access; retrieved 2026-06-24).
+
+=== ABSTRACT ===
+
+Background
+Most of the detected increment in dental caries among children above the age of six years and adolescents is confined to occlusal surfaces of posterior permanent molars. Dental sealants and fluoride varnishes are much used to prevent caries. As the effectiveness of both interventions in controlling caries as compared with no intervention has been demonstrated previously, this review aimed to evaluate their relative effectiveness. It updates a review published originally in 2006 and updated in 2010 and in 2016.
+
+Objectives
+Primary: evaluate the relative effectiveness of dental sealants (fissure sealant) compared with fluoride varnishes, or fissure sealants plus fluoride varnishes compared with fluoride varnishes alone, for preventing dental caries in the occlusal surfaces of permanent teeth of children and adolescents. Secondary: whether effectiveness is influenced by sealant material type and length of follow-up; adverse events; cost effectiveness.
+
+Search methods
+Cochrane Oral Health's Trials Register (to 19 March 2020), CENTRAL (2020, Issue 2), MEDLINE Ovid (1946 to 19 March 2020), Embase Ovid (1980 to 19 March 2020); ClinicalTrials.gov and WHO ICTRP for ongoing trials. No language/date restriction.
+
+Selection criteria
+RCTs with ≥12 months follow-up comparing fissure sealants, or fissure sealants plus fluoride varnishes, versus fluoride varnishes, for preventing caries in occlusal surfaces of permanent posterior teeth, participants <20 years at start.
+
+Data collection and analysis
+≥2 review authors independently screened, extracted, assessed risk of bias. Grouped by sealant material (resin-based vs glass ionomer-based) and follow-up. OR for caries risk; Becker-Balagtas OR for split-mouth; RR for one cluster-RCT; MD for continuous outcomes. Random-effects model when ≥4 studies. 95% CIs. GRADE certainty.
+
+Main results
+11 trials, 3374 participants aged 5-10 at start. Three trials new since 2016. Two trials did not contribute data.
+- Resin-based fissure sealants vs fluoride varnishes: 7 trials (5 contributing data). Uncertain whether resin sealant better than varnish or vice versa at 2-3 years (OR 0.67, 95% CI 0.37-1.19; I²=84%; 4 studies, 1683 children). DMFS MD -0.09 (95% CI -0.15 to -0.03); DMFT MD -0.08 (-0.14 to -0.02); 542 participants at 2 years (may not be clinically significant). One small high-RoB study: sealant benefit at 4 years RR 0.42 (0.21-0.84) and 9 years RR 0.48 (0.29-0.79), 75 children. All very low certainty.
+- Glass ionomer-based sealants vs fluoride varnishes: 3 trials (1 chemically cured GIC, 2 RMGI). Clinically diverse, no meta-analysis. Generally no benefit of one over another at 1/2/3 years; one study (with oral-health education) suggested sealant benefit in high-caries-risk children. Very low certainty.
+- Sealant plus fluoride varnish vs fluoride varnish alone: one split-mouth trial, 92 children at 2 years, favored resin sealant + varnish over varnish only (OR 0.30, 95% CI 0.17-0.55), ~77% caries reduction at 2 years. Very low certainty.
+- Adverse events: 5 trials (1801 participants; 4 resin-based, 1 RMGI) reported none over 1-9 years. Others did not mention.
+
+Authors' conclusions
+Applying fluoride varnish or resin-based fissure sealants to first permanent molars helps prevent occlusal caries, but it was not possible to reach reliable conclusions about which is better. Available studies do not suggest either intervention is superior (very low certainty). Very low-certainty evidence that placing resin-based sealant as well as applying fluoride varnish works better than fluoride varnish alone. Fourteen studies ongoing.
+
+Evidence current to March 2020.
