@@ -1,0 +1,73 @@
+Minimal intervention dentistry for managing carious lesions into dentine in primary teeth: an umbrella review
+BaniHani A, et al. Eur Arch Paediatr Dent. 2021. DOI 10.1007/s40368-021-00675-6
+PMID 34784027 | PMCID PMC9637620
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP get_full_text_article.
+
+=== ABSTRACT ===
+Purpose: This umbrella review systematically appraised published systematic reviews on Minimal Intervention Dentistry interventions carried out to manage dentine carious primary teeth to determine how best to translate the available evidence into practice, and to provide recommendations for what requires further research.
+
+Method: An experienced information specialist searched MEDLINE, Embase, Cochrane Database of Systematic Reviews, Epistemonikos, Joanna Briggs Institute Database of Systematic Reviews and Implementation Reports, and the NIHR Journals Library. In addition, the PROSPERO database was searched to identify forthcoming systematic reviews. Searches were built around the following four concepts: primary teeth AND caries/carious lesion AND Minimal Intervention Dentistry AND systematic review/meta-analysis. Searches were restricted to English language, systematic reviews with/without meta-analyses published between January 2000 and August 2020. Two reviewers independently screened all titles and abstracts. Interventions included involved no dentine carious tissue removal (fissure sealants, resin infiltration, topical application of 38% Silver Diamine Fluoride, and Hall Technique), non-restorative caries control, and selective removal of carious tissue involving both stepwise excavation and atraumatic restorative treatment. Systematic reviews were selected, data extracted, and risk of bias assessed using ROBIS by two independent reviewers. Studies overlap was calculated using corrected covered area.
+
+Results: Eighteen systematic reviews were included in total; 8 assessed the caries arresting effects of 38% Silver Diamine Fluoride (SDF), 1 on the Hall Technique (HT), 1 on selective removal of carious tissue, and eight investigated interventions using atraumatic restorative treatment (ART). Included systematic reviews were published between 2006 and 2020, covering a defined time frame of included randomised controlled trials ranging from 1969 to 2018. Systematic reviews assessed the sealing efficacy of fissure sealants and resin infiltration in carious primary teeth were excluded due to pooled data reporting on caries arrest in both enamel and outer third of dentine with the majority of these carious lesions being limited to enamel. Therefore, fissure sealants and resin infiltration are not recommended for the management of dentinal caries lesions in primary teeth. Topical application of 38% SDF showed a significant caries arrest effect in primary teeth (<0.05), and its success rate in arresting dental caries increased when it was applied twice (range between 53 and 91%) rather than once a year (range between 31 and 79%). Data on HT were limited and revealed that preformed metal crowns placed using the HT were likely to reduce discomfort at time of treatment, the risk of major failure (pulp treatment or extraction needed) and pain compared to conventional restorations. Selective removal of carious tissue particularly in deep carious lesions has significantly reduced the risk of pulp exposure (77% and 69% risk reduction with one-step selective caries removal and stepwise excavation, respectively). ART showed higher success rate when placed in single surface compared to multi-surface cavities (86% and 48.7-88%, respectively, over 3 years follow-up).
+
+Conclusion: Minimal Intervention Dentistry techniques, namely 38% SDF, HT, selective removal of carious tissue, and ART for single surface cavity, appear to be effective in arresting the progress of dentinal caries in primary teeth when compared to no treatment, or conventional restorations. There is clear need to increase the emphasis on considering these techniques for managing carious primary teeth as a mainstream option rather than a compromise option in circumstances where the conventional approach is not possible due to cooperation or cost.
+
+=== KEY VERBATIM PASSAGES (sealant / fissure sealant surveillance) ===
+
+[Introduction] "Methods to control enamel carious lesions include the use of additional fluoride (e.g. gel, varnish), pits and fissures sealants and resin infiltration. With respect to carious lesions into dentine, these measures are often no longer sufficient, and further minimally invasive (operative) interventions should be considered."
+
+[Introduction] "Specifically for primary teeth, minimal intervention caries control strategies include a wide range of approaches, including those where carious tissue removal is not involved, such as non-restorative cavity control (NRCC), sealing the carious lesion with fissure sealants (FS) and resin infiltration, topical application of silver diamine fluoride (38% SDF mainly), and the Hall Technique (HT)."
+
+[Discussion - the verdict] "As the current umbrella review aimed to investigate the outcomes of MID interventions in the management of dentine rather than enamel caries, SRs assessed the sealing efficacy of fissure sealants and resin infiltration in carious primary teeth were excluded due to pooled data reporting on caries arrest in both enamel and outer third of dentine with the majority of these carious lesions being limited to enamel. Therefore, based on the results of the current review, both fissure sealants and resin infiltration are not recommended for the management of dentinal caries lesions in primary teeth."
+
+[Abstract - verdict restated] "Systematic reviews assessed the sealing efficacy of fissure sealants and resin infiltration in carious primary teeth were excluded due to pooled data reporting on caries arrest in both enamel and outer third of dentine with the majority of these carious lesions being limited to enamel. Therefore, fissure sealants and resin infiltration are not recommended for the management of dentinal caries lesions in primary teeth."
+
+=== METHODS ===
+- Umbrella review of SRs (Cochrane methodology v6). PROSPERO CRD42020202434.
+- PICO: Children with primary dentition, untreated carious lesion into dentine (ICDAS 4 and 5), no local anaesthetic, no pre-existing restorations. Interventions: no dentine removal (FS, resin infiltration, 38% SDF, HT), NRCC, selective removal (stepwise + ART). Comparator: conventional non-selective caries removal to hard dentine, vital pulp therapy, placebo, no treatment.
+- Search Jan 2000-Aug 2020, English. 252 records -> 177 after dedup -> 181 eligible -> 19 full text -> 18 SRs included (5 without MA, 13 with MA), reporting 95 studies total.
+- Risk of bias of SRs: ROBIS tool. Overlap: Corrected Covered Area (CCA): 0-5 slight, 6-10 moderate, 11-15 high, >15 very high.
+
+=== RESULTS BY TECHNIQUE ===
+
+18 SRs: 8 SDF, 1 HT, 8 ART, 1 selective caries removal. Published 2006-2020; RCTs from 1969-2018.
+
+Risk of bias of the 18 SRs (ROBIS): 10 high risk of bias, 6 low risk of bias (Ricketts; Innes; Dorri; Tedesco; Trieu; Tolba), 2 unclear (Gao; Tedesco 2018).
+
+SDF (38%) - 8 SRs (33 RCT/CCT). 3 with meta-analysis (Gao, Chibinski, Trieu), 5 without. Main outcome: caries arrest. Weak CCA overlap.
+- 38% SDF significant caries arrest; more effective than 5% NaF varnish and GIC sealing (p<0.05).
+- Single application arrest 31-79%; biannual 53-91%.
+- Mean arrested surfaces higher with SDF (2.5-4.5) vs comparators (1.3-1.8).
+- 38% SDF > 12% SDF (p<0.001). Excavation prior did not significantly affect arrest (Duangthip); one SR (Trieu) found prior soft-dentine excavation shortened arrest time.
+- Comparator effectiveness: 41% (5% NaF varnish), 82% (GIC), 15-34% (no treatment).
+- One MA: overall caries arrest 81% (Gao, p<0.001). Another: OR 2.44-3.63 favouring SDF (Trieu).
+- Adverse: black staining only; one SR no significant carer dissatisfaction (Trieu); one study reversible small white mucosal lesions 0.6% (Contreras).
+- None of the included primary studies compared 38% SDF to conventional restorations.
+
+Hall Technique (HT) - 2 SRs / 3 RCTs (Ricketts, Innes); same primary studies overlapping. Comparators: non-selective or selective caries removal + restoration (GIC, amalgam, composite, PMC) or NRCC. Ages 3-10y, primary molars, follow-up 1-5y.
+- HT vs non-selective removal to hard dentine: no significant difference in signs/symptoms of pulpal disease.
+- Significant reduction in restoration failure favouring HT: 3% (HT) vs 37% (control).
+- 77% of children and 83% of carers preferred HT to non-selective removal.
+- Pain (dentist-assessed): 89% HT children "no pain/discomfort" to "mild" vs 78% control.
+- PMCs favoured over conventional restoration, especially with HT - reduce risk of major failure/pain. PMCs caused more gingival bleeding but inconclusive (RR 1.09, CI 0.42-2.86).
+- Limited data on whether PMCs better than non-restorative caries treatment.
+
+Selective caries removal - 1 SR / 3 RCTs (Ricketts). Stepwise + selective vs non-selective to hard dentine. Single/multi-surface, caries to pulpal half/quarter, primary molars, ages 3-11y, 12-month follow-up.
+- Stepwise: no pulp exposure at first entry vs 14.5% at second entry. 69% risk reduction of pulp exposure vs non-selective (RR 0.31, 95% CI 0.17-0.57, p=0.0002).
+- Pulp necrosis: 1.8% (stepwise) vs 5.5% (control).
+- Selective caries removal: 77% risk reduction of pulp exposure (RR 0.24, 95% CI 0.06-0.90, p=0.03); no difference in pulpal disease (RR 0.27, 95% CI 0.05-1.60, p=0.15).
+
+ART - 8 SRs / 56 clinical trials. All 8 had meta-analyses. Weak CCA overlap. Outcomes: survival, caries arrest, success/failure.
+- Single-surface ART success 1y: 95-100%; 2y 91-96.7%; 3y 86%.
+- Multi-surface ART significantly lower (p<0.0001): 1y 73-100%; 2y 52-93%; 3y 48.7-88%.
+- Conventional restoration (amalgam/composite/GIC) success over 3y: 100-33.6% single, 100-42% multi.
+- Mean annual failure rate higher for multi-surface (17%) vs single-surface (4.7-5%) in primary molars over 3y.
+- 3 SRs: ART similar survival to amalgam/composite (p>0.05). 1 SR (Dorri): ART may increase failure risk (OR 1.60, CI 1.13-2.27) regardless of surfaces vs conventional over 12-24m.
+- No significant adverse events. ART associated with less discomfort (ages 6-8) vs conventional + LA (OR 0.95, CI 0.51-1.79, Dorri).
+- Single-surface ART/HVGIC survival significantly higher over 3y than multi-surface.
+
+=== HETEROGENEITY ===
+Substantial heterogeneity across 18 SRs (subject characteristics, lesion depth/extension, restorative materials, outcome measures). Most studies considerable risk of bias.
+
+=== CONCLUSION & RECOMMENDATION ===
+MID techniques (38% SDF, HT, selective removal, single-surface ART) effective in arresting dentinal caries in primary teeth vs no treatment or conventional restorations. Some improved patient-reported outcomes. Clear need to increase emphasis on MID as a mainstream option rather than a compromise option when conventional approach prohibited by cost or cooperation. Fissure sealants and resin infiltration NOT recommended for dentinal caries lesions in primary teeth (excluded - efficacy data dominated by enamel/outer-third-dentine lesions).
