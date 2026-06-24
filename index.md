@@ -255,6 +255,10 @@ tags: []
 - [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — Xu 2026 · rct · 탈회상아질기질(DDM) vs 이종골 ARP(n=50): DDM 초기흡수 빠르나 6개월 차원안정성 동등·조직통합 우수
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — Yu 2026 · retrospective · 중증치주염 대구치 DBBM ARP(96): 대입자(1–2mm) 중심골높이 비유의 증가경향(P=.077), 입자크기보다 소켓무결성 중요
 - [[bone-regeneration/ridge-preservation/hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort]] — Hartmann 2026 · retrospective · Bio-Oss Collagen ARP 후에도 잔여 골흡수 3~18%(상악대구치 최대), 78/80 추가증대 없이 임플란트
+- [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] — Lee 2021 · retrospective (418 sites, 287 pts) · 치주염 발치와에서 ARP가 임플란트 식립 불가율↓(0.8% vs 4.7%) — 식립 가능성 개선
+- [[bone-regeneration/ridge-preservation/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric]] — De Angelis 2022 · retrospective volumetric (CBCT 중첩) · ARP(이종골+흡수성막) vs 자연치유 경·연조직·PES·만족도 비교
+- [[bone-regeneration/ridge-preservation/strauss-2024-ridge-preservation-early-implant-aesthetic]] — Strauss 2024 · RCT 2차분석 (n=75, 3군 1:1:1) · 심미부 조기식립 ± ARP(DBBM10%콜라겐/타기법), 1년 방사선·프로파일로메트리
+- [[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]] — Zhang 2022 · RCT protocol (n=70, 결과 無) · 중증치주염(III/IV기) 대구치 발치와 ARP vs 자연치유, CBCT+3D연조직+조직학 endpoint
 - [[bone-regeneration/rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct]] — Rao 2026 · rct · 동종 탈회망상골 plug vs DBBM(n=25): 6개월 차원·생활골 동등, 잔존 graft는 ACBP 유의 낮음(11.2% vs 19.8%)
 - [[bone-regeneration/seiler-2026-resorbable-scaffolds-alveolar-ridge-augmentation-sr]] — Seiler 2026 · sr · 흡수성 scaffold(PLA/PCL/β-TCP)는 2차 메쉬제거 피하는 Ti-mesh 대안이나 7편·이질성으로 근거 약함
 - [[bone-regeneration/son-2026-plga-membrane-horizontal-ridge-gbr-prospective]] — Son 2026 · prospective · 3D 흡수성 PLGA막 동시식립 GBR로 수평 골증대 2.99mm·노출 0건 (20명/21부위)
@@ -1947,6 +1951,8 @@ tags: []
 - [[implants/versah-protocols/versah-idr-ii-immediate-dentoalveolar-restoration-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Dentoalveolar Restoration (IDR) II Technique (REV06)
 - [[implants/versah-protocols/versah-immediate-implant-placement-protocol]] — Versah LLC 2024 · narrative-review · Osseodensification Immediate Implant Placement Protocol
 - [[implants/versah-protocols/ali-2026-osseodensification-techniques-implant-stability-maxilla]] — Ali 2026 · RCT · Split-mouth RCT: Densah bur vs Magnetic Mallet OD in maxillary anterior zone — DB higher ISQ (70.1 vs 49.0) and labial plate thickness; bone density equivalent at 6 months
+- [[implants/versah-protocols/tao-2025-optimizing-osseodensification-drilling-implant]] — Tao 2025 · in-vitro (PFB Type IV, 48블록) · OD/Densah가 CD 대비 삽입토크↑(11.73 vs 7.77 N·m)·벽결함↓·발열↓이나 ISQ 동등(47.1 vs 46.7, NS); 권장 1500rpm/0.04mm·z/관주
+- [[implants/versah-protocols/barbera-millan-2021-primary-stability-low-density-osseodensification]] — Barberá-Millán 2021 · in-vitro (돼지경골 D4, n=55/군) · OD vs 통상 under-drilling: OD 삽입토크 21.72 vs 8.87 Ncm·ISQ 69.75 vs 65.16 모두 우월(p≤.001)
 - [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — Rittipakorn 2025 · in-vitro · Human cadaveric tibia (40 implants, D3/D4): novel clockwise OD (800 rpm) vs standard drilling — higher but NS ISQ (67.5 vs 62.9) & IT (34 vs 29.5 Ncm), tighter IQR, significant IT–ISQ correlation only in OD (ρ=0.577)
 
 ### periodontics (added 2026-05-28, batch e)
@@ -2534,6 +2540,7 @@ tags: []
 - [[occlusion/fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma]] — Fan 2026 · sr+ma (J Prosthet Dent, abstract-only): 고정성 Dahl 수복(국소 치아마모) 첫 SR+MA(11편) — 간접 연간실패율(0–0.7%) < 직접(0–8.7%); 후방 교합접촉 완전 재형성 통합 86.9% (DOI 10.1016/j.prosdent.2025.12.028)
 - [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — Singh 2026 · sr (J Prosthet Dent, abstract-only): SR 6편 — 단일 임플란트 능동 촉각 역치(10–100µm)는 자연치(<10–50µm)보다 둔감하나 기능·즉시부하·자연치 대합으로 골유착감각 개선 → 임플란트 경(輕)교합 접촉의 생리 근거 (DOI 10.1016/j.prosdent.2025.12.019)
 - [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — Didier 2026 · cross-sectional (Orthod Craniofac Res): iTero 구강스캐너 교합도 vs 8µm 카본지 일치도 낮음(κ 0.07–0.20) — 교환 불가, 보완적 병용 필요 (DOI 10.1111/ocr.70088)
+- [[occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth]] — Kwak 2025 · prospective 10년 추적(n=16, Oral Biol Res): 전악수복 시 고딕아치트레이서로 정상화한 치료위치(CM-H)와 MICP 63% 일치 — 저작위치·교합 장기안정성 확인
 
 ### Overview (added 2026-06-14)
 - [[overviews/tissue-level-vs-bone-level-implant-outcomes]] — **NEW Overview**: 조직수준 vs 골수준(TL/BL) 임플란트 변연골·주위염·연조직·생존 결과 종합 (9편: SR+MA·SR·전향/케이스-대조·후향·동물). SR은 MBL·주위염 무차이지만 head-to-head 임상은 일관되게 TL이 변연골 보존 우세; thin mucosa가 양쪽 공통 최강 예측인자.
