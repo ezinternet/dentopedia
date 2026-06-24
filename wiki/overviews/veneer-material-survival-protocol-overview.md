@@ -27,6 +27,9 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survi
 > - 제작기법이 HF 에칭 시간을 결정 — 백금박 120초, refractory die 90초(9.6% HF); 150초는 추가 이득 없음(Gonzalez-Martin 2024 SEM) → 기공 처방을 술자에게 통보 필요.
 > - 결합강도(Hajeer 2026 in-vitro): LDS 25.4 MPa vs 투명 지르코니아 12.1 MPa(약 2배); 법랑질 21.1 vs 복합레진 코어 11.3 MPa — LDS는 HF 에칭 + 실란화, 지르코니아는 silica network 없어 MDP에 의존.
 > - 복합레진 비니어: 88% 생존(direct 91% > indirect 84%, Lim 2023) — 가역성·수리성 필요 시 옵션이나 유지 부담 큼; 지르코니아는 단기 100%지만 장기(≥5년) 임상 데이터 부재.
+> - 무삭제(No-Prep) vs 통상(Conventional) 적응증(Chandode 2026): 둘 다 생존 91~100%(무삭제 평균 ~97% vs 통상 ~92%, 법랑질 접착 시 무삭제 성공률 최대 97.4%); 단 내인성 변색·부정정렬·큰 형태 수정은 무삭제 부적응(overcontour 위험) → 경쟁이 아닌 상호보완, 법랑질 중심 환자별 선택.
+> - 최소삭제 장기 실증(Reis 2025 case report): 법랑질 한정 ~0.2mm 치경부 삭제 + <0.5mm thin 장석 라미네이트가 12년+ 추적에서 파절·우식·과민·재수복 0 — Axis 3 최소침습 원칙(법랑질 confinement·≥50% 법랑질 본딩·≥70% 법랑질 변연)의 single-case 장기 근거.
+> - 제작 방식 축 확장(Basheer 2026 scoping, 30편·대부분 in-vitro): CAD/CAM 절삭과 3D 프린팅 적층 모두 임상 허용 변연적합(<120µm) 달성 — 밀링 LDS가 강도·색안정성 우수(빠름, 45~90분), 3D 프린팅은 적합·맞춤성 우수(특히 비니어, 단 90~150분·경도/색안정성 낮음); 비니어가 3D 프린팅 최대 기회 영역이나 장기 임상시험 부재.
 
 ## One-line Summary
 
@@ -84,6 +87,8 @@ Note: Morimoto (2016) survival values appear lower than Klein (2025) partly due 
 
 Resin composite (Lim et al. 2023, SR+MA of 7 studies): 88% overall (95% CI: 81–94%) at 24–97 months, with direct 91% vs indirect 84%. Composite veneers are competitive in short-medium follow-up but the evidence horizon is shorter than for ceramics.
 
+A long-term single-case data point corroborates the pooled feldspathic survival: Reis et al. (2025) documented thin (<0.5 mm) feldspathic laminates on enamel-confined minimally invasive preparations (~0.2 mm cervical) surviving **12+ years with zero fracture, secondary caries, sensitivity, or repair** — the only finding was subtle marginal staining attributed to age-related gingival recession. As a case report (n=1, lowest comparative weight) it cannot generalize, but it puts a concrete long-term clinical face on the SR+MA feldspathic survival figure when the preparation stays enamel-confined.
+
 **Key interpretation**: All four ceramic materials and resin composite deliver clinically acceptable survival. The material choice decision should therefore be driven by complication burden (see Axis 2), esthetic requirements, and substrate condition.
 
 ### Axis 2 — Complications
@@ -121,6 +126,10 @@ Ali (2023), SR of 4 comparative studies, compared conventional veneers (CV; 0.3�
 
 Preparation thickness: MPV 0.2–0.5 mm (contact-lens ultra-thin: 0.2–0.3 mm) vs CV 0.3–1.0 mm. Feldspathic porcelain is the material of choice for true MPV due to its ability to be fabricated at ≤0.3 mm thickness while remaining HF-etchable for reliable bonding.
 
+Chandode et al. (2026), a narrative clinical-considerations review, sharpens this into a no-preparation (no-prep) vs conventional (CV) indication map. Both techniques show high survival (91–100%), with no-prep slightly higher on average (~97% vs ~92%) and fewer catastrophic failures, and no-prep success reaching **up to 97.4% when bonded to enamel** in well-selected cases. The decisive boundary is case selection, not survival: no-prep is favored for well-aligned teeth with minimal esthetic demand (preserving enamel, avoiding anesthesia/temporaries, lower postoperative sensitivity), but is **contraindicated for intrinsic discoloration, misalignment, or major morphological/contour correction** — situations where the controlled reduction of CV (cited at 0.3–1.0 mm) is needed for masking and to avoid over-contouring (the key no-prep pitfall). Chandode reframes the two as complementary rather than competing, with enamel as the deciding substrate. (Note: this is narrative-level evidence with heterogeneous, sometimes trauma-inclusive failure definitions, and long-term [>10 yr] no-prep-specific data remains less characterized than for CV.)
+
+Reis et al. (2025) supplies a concrete long-term exemplar of the enamel-confined minimally invasive end of this spectrum: a 12+ year case of thin (<0.5 mm) feldspathic laminates on ~0.2 mm cervical knife-edge preparations, with the explicit adhesion threshold restated (ideal when ≥50% bonding substrate is enamel AND ≥70% of margin remains in enamel). Survival was complication-free over the follow-up — illustrating, at single-case level, that conservative depth combined with strict enamel confinement is the durable combination, consistent with the El-Mowafy/Gurel penalty below.
+
 The critical caveat (El-Mowafy 2018, Gurel et al. data): regardless of overall preparation invasiveness, any preparation that exposes a dentin or composite margin carries a 10× higher failure rate than enamel-confined margins. Minimally invasive does not mean margin-careless — enamel confinement is non-negotiable for prognosis.
 
 Klein et al. (2025) recorded preparation design across their 29-study cohort (no-prep, window/feather, butt joint, palatal chamfer; 4 arms used no-prep) but the data were insufficient for a separate meta-analysis. This is an evidence gap that future research must close.
@@ -153,6 +162,18 @@ The two fabrication techniques produce structurally different intaglio surfaces,
 This is the first evidence that laboratory technique choice propagates downstream to cementation protocol — a workflow linkage that laboratory prescriptions should specify explicitly.
 
 El-Mowafy (2018) adds the clinical context: the evolution from hand-stacked feldspathic to pressed ceramic to CAD/CAM milled LDS (IPS e.max) has progressively reduced internal voids and improved accuracy. Recommended intaglio surface treatment across all glass-ceramic types remains sandblasting + HF etching + silanization; ultrasonic seating is recommended to minimize cement film thickness.
+
+**Digital fabrication: subtractive milling vs additive 3D printing (Basheer 2026 scoping review).** Basheer & Peeran (2026) extend the fabrication axis from the analog platinum-foil/refractory-die divide to the digital milled-vs-printed divide, mapping 30 studies (27 in-vitro, 3 case reports; 2000–2025) across inlays, onlays, and veneers. *This is a scoping review spanning all three restoration classes, not a veneer-specific study — the veneer-relevant findings are extracted here; its survival/fracture data for inlays/onlays belong to the inlay category and are not synthesized in this veneer overview.* For veneers specifically:
+
+| Outcome | CAD/CAM milling | 3D printing (additive) |
+|---|---|---|
+| Marginal fit | Within ≤120 µm (ISO-acceptable); CAD/CAM zirconia best overall fit in one comparison (Ioannidis 2022) | Within ≤120 µm; 40–100 µm reported; **lower marginal discrepancy / better adaptation than milled** for veneers (Daghrery, p=0.001) |
+| Strength | Higher ceramic strength (milled LDS) | 3D-printed zirconia high load-bearing (Ioannidis: F_initial 1650 N, F_max 2026 N — exceeds ultrathin occlusal-veneer thresholds); printed resin/hybrid lower (900–1800 N) |
+| Esthetics / hardness | Better hardness + color stability | Lower hardness; composite translucency highly variable (Vichi) → material-selection caution |
+| Fabrication time | 45–90 min (faster) | 90–150 min (one outlier: Paqué 2024 reported 67 min milled vs 701 min printed for veneers) |
+| Build parameter | — | Build angle critical (optimal ~30°, worst 90°); cement type significant (Elkaffas p<0.001) |
+
+Basheer identifies **veneers as the strongest opportunity for 3D printing** (best adaptation/customization, validated load-bearing for printed zirconia), while CAD/CAM milling remains the validated default for ceramics (strength, color stability, speed). The overriding caveat mirrors zirconia's status in Axis 1: the evidence is overwhelmingly in-vitro with **no long-term clinical trials** comparing milled vs printed restorations, so this axis informs workflow choice, not long-term survival expectation.
 
 ### Axis 5 — Cementation Bond Strength (LDS vs Zirconia)
 
@@ -208,3 +229,6 @@ Composite laminate veneers (Lim 2023: 88% survival, 24–97 months) are a legiti
 - [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — narrative synthesis covering clinical workflow, the 10× dentin-margin failure penalty, and material evolution from feldspathic to CAD/CAM
 - [[veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]] — SEM pilot establishing technique-specific optimal HF etching times (platinum foil 120 s, refractory die 90 s; 9.6% HF); first demonstration that fabrication technique affects optimal cementation protocol
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — in-vitro SR (10 studies) showing resin cement shade/translucency is an active optical determinant of final veneer color (ΔE often >3.3); extends Axis 5 cementation from bond strength to color, most pronounced in thin/high-translucency veneers
+- [[veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations]] — narrative review giving Axis 3 a no-prep vs conventional indication map (survival 91–100%, no-prep ~97% vs CV ~92%, no-prep up to 97.4% on enamel) and the contraindication boundary (intrinsic discoloration / misalignment / major contour change → conventional); reframes the two as complementary, enamel-centered choices
+- [[veneers/reis-2025-minimally-invasive-feldspathic-laminate-12year-followup]] — 12+ year case report of thin (<0.5 mm) enamel-confined feldspathic laminates with zero complication; long-term clinical face on the Axis 1 feldspathic survival figure and the Axis 3 enamel-confinement / ≥50% enamel-bonding threshold
+- [[inlay/basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping]] — scoping review (30 studies, mostly in-vitro) mapping CAD/CAM milling vs 3D printing across inlays/onlays/veneers; extends Axis 4 fabrication to the digital milled-vs-printed divide (both ≤120 µm fit; milled = strength/speed, printed = adaptation/customization, veneers the top 3D-printing opportunity; no long-term trials). Primary category is inlay — only veneer-relevant findings integrated here
