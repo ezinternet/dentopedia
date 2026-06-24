@@ -52,5 +52,6 @@ output_wiki:
 # Notes / Decisions
 
 - 두 킷의 densifying 회전방향이 **반대**(Densah=CCW, HaeNaem=CW)라는 점이 임상 안전상 핵심 — Densah reverse 프로토콜을 해냄에 그대로 적용 금지.
-- **철회 처리 (2026-06-24):** `changrani-2024` (Cureus, DOI 10.7759/cureus.73130)는 2024-11-21 정정(Correction, cureus.c200 — 결론부 인용 1건 추가) 후 **이후 철회(RETRACTED)** 됨 (사용자/maintainer 확인). 로컬 PDF는 철회 이전 스냅샷이라 정정까지만 찍혀 있어 Rule #1(무웹검색)로는 정정만 확인 가능했음 — 한때 'PMID 39575356 ↔ 이 논문' 매핑이 불확실해 '철회 아님(정정)'으로 잠시 오기재했으나, 사용자 확인으로 철회 확정 후 되돌림.
+- **철회 처리 (2026-06-24):** `changrani-2024` (Cureus, DOI 10.7759/cureus.73130)는 2024-11-21 정정(Correction, cureus.c200 — 결론부 인용 1건 추가) 후 **이후 철회(RETRACTED)** 됨. 로컬 PDF는 철회 이전 스냅샷이라 정정까지만 찍혀 있었고, 한때 'PMID 39575356 ↔ 이 논문' 매핑이 불확실해 '철회 아님(정정)'으로 잠시 오기재했음.
+- **PMID↔DOI 매핑 + 철회 확정 (2026-06-24, PubMed MCP):** PubMed 조회로 **PMID 39575356 = DOI 10.7759/cureus.73130** (동일 논문) 확정, 그리고 `article_types`에 **"Retracted Publication"** 명시 → 철회 권위 출처로 확인. PubMed MCP는 서지 메타데이터 조회로 CLAUDE.md Step 1-T가 정식 도구로 인정 — Rule #1(무웹검색=WebSearch/WebFetch)을 위반하지 않음. 이로써 '검증 불가' 한계 해소.
 - **보관 형태 결정:** CLAUDE.md 철회정책은 원칙상 'RETRACTED 스텁'만 허용하나, HaeNaem 유일 임상 데이터라는 점을 고려해 **전체 본문 유지 + 상단 `[!warning] RETRACTED` 배너**의 정책 예외로 보관(사용자 결정). wiki/sources 페이지에 배너 + `retracted` 태그, 인바운드 인용(osseodensification-clinical-applications, sinus-lift-isq-loading-timing 두 overview + kim-2019 페이지/소스)에 '(retracted/철회됨 — 인용 금지)' 주석. bone-regeneration-protocol-ladder는 changrani 미인용(kim-2019 bone-collector 특허만 참조)이라 해당 없음.
