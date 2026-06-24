@@ -7,8 +7,8 @@ doi: 10.4317/jced.59849
 source: gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.md
 category: [endodontics/anatomy]
 confidence: sr+ma
-pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.txt
-pdf_filename: gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.txt
+text_path: /Users/oracleneo/llm-wiki/papers/gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.txt
+text_filename: gonzalez-mancilla-2022-dens-invaginatus-cbct-prevalence-sr-ma.txt
 source_collection: pubmed-text
 full_text: true
 pmid: "36458027"
