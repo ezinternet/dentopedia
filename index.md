@@ -1666,6 +1666,10 @@ tags: []
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — Ji-Woo Ha 2023 (대한치과의사협회지, 전북대 구강내과) · narrative-review · 치과의사 관련 한국 헌법재판소 결정례·헌법소원 리뷰 (본문 폰트 인코딩으로 세부 판시 자동추출 불가 [미검증])
 - [[practice-management/jkda-2024-62-6-001]] — Original (KDA 치과의료정책연구원 임유빈·전지은, JKDA 2024): 한국 활동 치과의사 수·지역 분포 2012-2022, 연 평균 증가율 2.39%, 지역간 ANOVA. 치과대학 정원 정책 evidence
 - [[practice-management/nosrat-2025-endodontist-gp-nsrct-clinical-approaches-cohort]] — 전향 코호트(US PBRN PREDICT): NSRCT에서 근관전문의가 GD보다 >5×확대경·러버댐·NaOCl·EDTA/H2O2/CHX 사용 유의 높음 (2025, DOI 10.1111/iej.14264)
+- [[practice-management/scheerman-2024-systematic-umbrella-review-effects-teledentistry]] — Scheerman 2024 · sr(umbrella) · 원격치과 비용절감은 가정일 뿐 근거 저질·결론보류; 임상결과 동등 시사 (PMC full text)
+- [[practice-management/gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systematic]] — Gurgel-Juarez 2022 · sr-of-SRs · 원격치과 의뢰·치료계획·모니터링에 정확·효과적; 서비스전달 모델 근거 (PMC full text)
+- [[practice-management/alkhurayji-2024-factors-patient-failure-attend-dental]] — Alkhurayji 2024 · retrospective(n=1,364) · 치과 no-show 프로파일(미혼·여성·≤35세·오전); 예약 미내원 운영 근거 (PMC full text)
+- [[practice-management/khries-2024-identifying-barriers-pediatric-dental-appointments]] — Khries 2024 · cross-sectional · 소아 예약 미내원 44%(85% 보험가입에도); 연령·성별·교통 장벽 (PMC full text)
 
 ### resin (added 2026-05-24, batch c)
 
@@ -1720,6 +1724,9 @@ tags: []
 - [[behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management]] — Cristea 2026 · narrative-review · 소아 평가도구 선택 + 비약물 관리(tell-show-do·modeling·VR distraction)
 - [[behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct]] — Pandey 2025 · observational(n=76) · 성인 근관치료 중 HR↑(국소마취·드릴링); 과거 부정경험이 불안↑(p=0.018). ※RCT=root canal treatment
 - [[behavioral-dentistry/dental-anxiety/jkda-2021-60-1-003]] — Review (연세대 정지은, JKDA 2022): 성인 dental phobia 외래 의사소통·sedation·전신마취 단계적 framework
+- [[behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia]] — Cernega 2022 · sr+ma · 최면이 성인 치과불안에 유망하나 이질성 큼; CBT가 최강 비약물 옵션 (PMC full text)
+- [[behavioral-dentistry/dental-anxiety/barros-padilha-2023-virtual-reality-and-behaviour-management]] — Barros Padilha 2023 · sr(22 RCT) · 몰입형 3D VR distraction이 소아 치과불안·통증 감소 (PMC full text)
+- [[behavioral-dentistry/dental-anxiety/ghobadi-2024-effect-virtual-reality-reducing-patients]] — Ghobadi 2024 · rct · 성인 임플란트수술 중 VR distraction이 통증·불안 감소 (PMC full text)
 
 #### body-dysmorphic-disorder (NEW subcategory, added 2026-06-12)
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
