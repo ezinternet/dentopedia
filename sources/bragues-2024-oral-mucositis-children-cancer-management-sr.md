@@ -3,7 +3,7 @@ title: "Oral Mucositis Management in Children under Cancer Treatment: A Systemat
 authors: Braguès R, Marvão MF, Correia P, Silva RM
 year: 2024
 doi: 10.3390/cancers16081548
-category: oral-medicine
+category: [oral-medicine/mucositis]
 source_collection: pubmed-text
 full_text: true
 pmid: "38672630"
