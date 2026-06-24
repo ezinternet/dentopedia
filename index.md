@@ -1412,6 +1412,7 @@ tags: []
 - [[oral-medicine/lv-2025-anti-hsv1-agents-update]] — 약리 리뷰: 항-HSV-1 약물 60년 업데이트 — 뉴클레오시드 유사체·헬리카제-프라이메이스 억제제·면역조절제; 내성 문제와 부재한 백신 (Front Pharmacol 2025)
 - [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
 - [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] — 미니리뷰: 구강 만성 GVHD(동종 HCT 30–50%) — 태선양 점막염·타액선 기능저하·조직경화 3주체, NIH 2014 기준, 국소→전신 면역억제 (Front Oral Health 2022)
+- [[oral-medicine/bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr]] — Bandara 2025 · sr · 박리성 치은염(desquamative gingivitis, OLP/MMP/PV) 약물치료 SR(15편): clobetasol·tacrolimus 국소 1차(통증·병변 유의 감소), 전신제는 부작용 부담↑; PRP·프로폴리스/나노비타민 겔 보조 유망
 
 ## 구강안면통증·통증 신경기전 (Orofacial Pain — Nociception Mechanisms)
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — Narrative review: NKCC1/KCC2 음이온 수송체가 GABA-A·glycine 억제를 좌우; 탈억제(disinhibition)성 통각과민·이질통 기전 — topical clonazepam 근거 (2009)
@@ -2174,6 +2175,9 @@ tags: []
 - [[oral-surgery/di-spirito-2025-re-intervention-rate-timing-indications]] — Di Spirito 2025 · sr · Umbrella review (6 SRs, 5896 subjects): coronectomy re-intervention 4.45%, mean 10.4 mo, IAN injury 0.76%
 - [[oral-surgery/rico-barroso-2026-coronectomy-alternative-technique-complete-extraction]] — Rico-Barroso 2026 · sr · SR (16 studies, 2551 pts): IAN injury 0.56% coronectomy vs 6.53% extraction; 6.22% conversion failure
 - [[oral-surgery/derbishi-2026-coronectomy-versus-total-extraction-third]] — Derbishi 2026 · sr+ma · SR+MA (8 studies, 1488 teeth): IAN injury Peto OR 0.23 (TSA-conclusive), re-operation 1.2%
+- [[oral-surgery/schmidt-2021-pericoronitis-management-antibiotic-prescribing-recommendations]] — Schmidt 2021 · sr · 관주위염(pericoronitis) 근거기반 관리 + 항생제 처방 SR: 치과의사 ~75%가 항생제 처방하나 국소세정·판막절제(operculectomy)가 1차; 항생제는 중증·전신침범에 한정 (amoxicillin·metronidazole 최다)
+- [[oral-surgery/ye-2021-mandibular-third-molar-impaction-pathologies]] — Ye 2021 · retrospective · 하악 제3대구치 매복 432개: 연조직·수직매복→관주위염(82.4%), 근심경사 얕은 매복→인접 제2대구치 원심우식, 근심·수평 깊은 매복→제2대구치 원심치주병변 (모두 p<0.05)
+- [[oral-surgery/sun-2026-third-molar-health-management-expert-consensus]] — Sun 2026 · consensus · 제3대구치 관리 중국 다기관 전문가 합의(Int J Oral Sci): 관주위염·치성간극감염 최다 호발치; 분류·발치 적응증 3단계·치관절제술(coronectomy)·소켓재생·합병증 처치·자가치아이식(~95%)
 - [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — 후향 증례군(소아 28명, Pediatr Dermatol 2012): 치성 피부누공(CST)은 주로 우식 있는 하악 제1대구치→하악-하악하부 피부; 평균 6.5개월 진단 지연; 근관치료/발치로 빠른 치유, 병변 장기화 29%에서 흉터 교정술 필요
 
 ### Orthodontics — miniscrew/TAD
