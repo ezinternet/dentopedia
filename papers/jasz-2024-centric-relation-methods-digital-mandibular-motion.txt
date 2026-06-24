@@ -1,0 +1,98 @@
+Title: Different methods of determining centric relation – comparison with a digital mandibular motion analyser
+Authors: Jász et al.
+Year: 2024
+Journal: BMC Oral Health
+DOI: 10.1186/s12903-024-04131-x
+PMID: 38500122
+PMCID: PMC10946198
+Source: PubMed Central full text (JATS)
+
+== Abstract ==
+
+Background
+Finding and registering the maxillary–mandibular jaw relation is crucial in dental practice. Several comparative studies have been conducted to investigate the reproducibility and accuracy of techniques for determining the centric relation (CR) position of the mandible. The aim of our study was to determine which of seven different CR determination methods had the smallest deviation from the theoretical zero with the help of a digital mandibular motion analyser. The chosen theoretical zero position, the maximal intercuspal position (MIP), is the most reproducible and widely used position.
+
+Methods
+Thirty-four volunteers (24 females and 10 males) with a mean (SD) age of 29.1 (± 7.3) years with a negative history of temporomandibular disorder (TMD) participated in the study. A digital mandibular motion analyser was used to register the condylar position after the use of each technique for the determination of CR. The calibration was performed to the maximal intercuspal position (MIP) for each volunteer. The investigated techniques were (A) the gothic arch tracer, (B) the adduction field method, (C) Dawson’s bimanual manipulation, (D) the patient placing the tongue tip on the palatal rugae, (E) the patient placing the tongue tip to the border of the hard and soft palate, (F) the patient actively pulling the chin backwards, and (G) the examiner pushing the patient’s chin back.
+
+Results
+The position of the mandibular condyle was illustrated in a three-dimensional coordinate system, where the origin represented the MIP. Among the seven methods examined, five showed significant deviations compared to the MIP. Among these, two methods resulted in posterior deviation of the condyles. Methods C and E coincided with the MIP in all directions.
+
+Conclusions
+Within the limitations of our study, we found that the smallest deviations from our theoretical zero (MIP) among the investigated centric relation determining methods were obtained with the bimanual mandibular manipulation technique derived from Dawson and the placement of the tongue tip on the border of the hard and soft palate (linguomandibular homotrophy theory).
+
+== Background ==
+
+The term centric relation (CR), which describes the relationship between the mandibular condyle and the articular fossa, has undergone significant changes in recent decades. While the first to fourth editions (1977) of the Glossary of Prosthodontic Terms (GPT) defined the most posterior position of the condyle as the CR, from the fifth edition (1987) to the latest ninth edition (2017), the anterior-superior position has been indicated as the centric position. This repeatable maxillomandibular relationship is used in various fields of dentistry, including extensive prosthodontic rehabilitation, temporomandibular disorders (TMD) and orthodontic treatment. As a result, numerous methods for determining the CR position of the mandible have been developed since the 1950s. Several comparative studies have been conducted to determine the most appropriate technique. Not only the definition but also the role of CR has changed and continues to change. In recent years, in addition to the CR, the importance of the MIP has become increasingly prominent, as has the need to maintain the original jaw relationship for as long as possible.
+
+Some studies have focused on the reproducibility of the methods, while others have focused on their accuracy. Accuracy was defined as the determination of the location of the condyle as close as possible to the current CR position. The majority of these studies use orthopantomograms, cone beam computed tomography (CBCT) or magnetic resonance imaging (MRI) examinations of the temporomandibular joint or traditional (average value) articulators. By involving digital technology, new opportunities for the comparative analysis of techniques for reproducing the CR position have opened up. In our study, we used a digital mandibular motion analyser (KaVo Arcus Digma 2). A recent review revealed ultrasound motion analyser devices to be sufficiently accurate. The device used in this study is one of these instruments.
+
+In comparative studies of procedures for determining the CR position, there should be a distinction between studies performed on edentulous patients and patients with a stable maximum intercuspal position (MIP). Patients with a stable MIP were recruited for this study. The study aimed to determine the extent to which the condylar positions obtained through different methods deviated from the MIP along the three axes. The null hypothesis was that none of the condyle positions determined by the different methods are different from the reference position.
+
+== Methods ==
+
+The study was conducted at the Department of Prosthodontics of Semmelweis University (Budapest, Hungary). Ethical approval No. 92/2013. The study was performed between 2014 and 2018. There were 34 volunteers (24 females and 10 males). Mean (SD) age 29.1 (± 7.3) years. Selected from staff and students of the Faculty of Dentistry of Semmelweis University.
+
+Selection criteria: (1) general good health and absence of dental and jaw developmental disorders; (2) preserved or restored dentition (excluding wisdom teeth); (3) in restored dentition, occluding surfaces of the restoration are not guiding surfaces; (4) no previous orthodontic treatment; (5) no medical history of TMD and no complaints at examination; (6) no bruxism/parafunctions and no abnormal tooth guidance. DC-TMD protocol used. Examiner (MD, DMD) with twenty years in gnathology.
+
+First session: putty-wash impressions (Zetaplus, Oranwash, Zhermack), poured with type IV die stone (Fuji Rock). Intraoral gothic arch tracer produced — pin on upper jaw, tracing table on lower jaw, table parallel to occlusal plane.
+
+Second session: KaVo Arcus Digma 2 digital motion analyser (KaVo Gmbh, Biberach, Germany). Paraocclusal clutch fixed on vestibular surface of mandibular teeth with cold polymerizing composite (Structure 2 SC, Voco). Ultrasound transmitter attached to clutch with magnets. Facebow positioned using left infraorbital point — reference plane = Frankfort horizontal plane. Arbitrary axis calibration with calibration pin of known length. Intercondylar axis: lateral poles of condyles zeroed.
+
+Electronic position analysis (EPA) module used; calibration to MIP. Examiner determined CR using seven methods, registering mandible position relative to maxilla and corresponding condylar position after each.
+
+Seven CR determination techniques:
+(A) gothic arch tracer
+(B) adduction field method
+(both A and B registered at a slightly open position / elevated OVD due to gothic arch tracer characteristics; smallest possible increase achieved)
+(C) Dawson's bimanual manipulation
+(D) patient places tip of tongue on palate at palatal rugae and closes until first tooth contact
+(E) patient withdraws tip of tongue to border of hard and soft palate and closes until first tooth contact (D and E based on linguomandibular homotrophy theory)
+(F) patient closes jaw until first contact while actively retruding the chin
+(G) examiner pushes patient's chin back during closing with a force of 20 N, fixing final position
+
+Two randomly selected patients re-examined (duplicates not in final analysis). Weighted kappa for intraexaminer reliability 0.88 to 0.93.
+
+Condylar positions exported via KaVo KiD. 3D coordinate system, origin = calibrated MIP. Sagittal x-axis: positive = anterior/forwards, negative = posterior/backwards. Vertical y-axis: positive = cranial, negative = caudal. Horizontal z-axis: positive = left, negative = right. Mean and 95% CI computed (alpha 0.05). GraphPad Prism software.
+
+== Results ==
+
+For each method, one point per condyle marked in coordinate system; deviations from origin (MIP) along x, y, z with 95% CI.
+
+Transverse z-axis: deviation 0 mm, 95% CI [-0.03, 0.03] — negligible. Distance MIP↔measuring point computed as common vector of x and y axes.
+
+x-axis (sagittal): NOT significantly different from MIP — Dawson (C) and tongue at hard-soft palate border (E) on both sides, adduction field (B) on left side. Significantly different from MIP — apex of gothic arch tracer (A), tongue at palatal rugae (D), active retrusion (F) and passive retrusion (G) on both sides; adduction field (B) on right side.
+
+y-axis (vertical): NOT significantly different from MIP — Dawson (C), tongue at hard-soft palate border (E), operator retrusion (G) on both sides; tongue at rugae (D) on right side; adduction field (B) on left side. Significantly different from MIP — apex of gothic arch tracer (A) and patient retrusion (F) on both sides; tongue at rugae (D) on left side; adduction field (B) on right side.
+
+Table 1 — RIGHT side, raw deviations (mean, 95% CI), sagittal / vertical (mm). * = significant:
+A Apex of gothic arch tracer: 0.28 [0.06, 0.51]* / -0.5 [-0.87, -0.12]*
+B Adduction field: 0.37 [0.02, 0.72]* / -0.47 [-0.88, -0.06]*
+C Dawson: 0 [-0.23, 0.23] / 0.17 [-0.11, 0.45]
+D Tongue at palatal rugae: 0.78 [0.35, 1.22]* / -0.24 [-0.54, 0.05]
+E Tongue at hard-soft palate border: 0.1 [-0.15, 0.36] / 0.23 [-0.02, 0.48]
+F Active retrusion: -0.24 [-0.37, -0.11]* / 0.34 [0.11, 0.58]*
+G Passive retrusion: -0.35 [-0.56, 0.14]* / -0.05 [-0.43, 0.33]
+
+Table 2 — LEFT side, raw deviations (mean, 95% CI), sagittal / vertical (mm). * = significant:
+A Apex of gothic arch tracer: 0.3 [0.02, 0.58]* / -0.47 [-0.89, -0.05]*
+B Adduction field: 0.29 [-0.01, 0.6] / -0.38 [-0.81, 0.05]
+C Dawson: 0.01 [-0.21, 0.22] / 0.18 [-0.06, 0.42]
+D Tongue at palatal rugae: 0.79 [0.4, 1.19]* / -0.29 [-0.57, -0.01]*
+E Tongue at hard-soft palate border: 0.13 [-0.15, 0.4] / 0.18 [-0.05, 0.41]
+F Active retrusion: -0.28 [-0.43, -0.14]* / 0.34 [0.14, 0.55]*
+G Passive retrusion: -0.46 [-0.7, -0.23]* / -0.06 [-0.39, 0.27]
+
+== Discussion ==
+
+CR remains controversial. Some authors consider CR–MIP discrepancy (centric slide) a predisposing factor for TMD; others, given the high prevalence of centric slides, do not consider it pathological and view MIP as the ideal position. Achieving CR is required for restorations in partially/completely edentulous patients, full-mouth rehabilitation, and orthodontic/orthognathic treatments.
+
+Examination procedures differ across studies: articulator mounting (simple, low cost, but inaccurate, mm scale); imaging (CBCT/MRI — accurate condyle-fossa relationship, but expensive, CBCT radiation). Digital technology is a new methodology. Axiography ~100 years old; improved with digital motion analysis. Arcus Digma 2 operates with ultrasound — four ultrasonic transmitters on lower jaw, eight ultrasonic receivers on upper jaw via arch; accuracy of 50 micrometres.
+
+This is the most comprehensive comparison to date, examining seven techniques. Five of seven showed significant differences along at least one axis vs MIP. Neither Dawson (C) nor tongue at hard-soft palate border (E) showed significant differences along the three axes. Tongue at palatal rugae (D) — not significantly different along y-axis but largest x-axis deviation, suggesting more protrusive capture than desired. Patient mandibular retrusion (F) and backwards chin pressure (G) clearly produced retrusive position — highly reproducible per literature but risk of posterior condylar position. Gothic arch tracer (A apex, B adduction field) significantly differed along at least one axis, likely due to translational movement of condyle even with minimal opening, giving anterior-downward condylar measurement; dentists must accept some inaccuracy in dentate patients.
+
+A 2021 systematic review (MEDLINE/PubMed/Cochrane/Google Scholar, 1998–2019, terms 'Centric relation techniques' AND/OR 'Retruded mandibular position'): of 958 articles, 9 met criteria (5 edentulous, 4 complete dentition). Concluded Dawson technique was most accurate overall for CR determination in dentate patients — consistent with present study.
+
+== Conclusion ==
+
+In patients with stable MIP, the smallest deviation from the reference (MIP) was the bimanual mandibular manipulation technique derived from Dawson. Second smallest: tongue tip at the border of the hard and soft palate (linguomandibular homotrophy theory). Of seven methods, five showed significant deviations vs MIP on at least one axis, but magnitudes within ±1 mm. Methods that do NOT cause posterior deviation (apex of gothic arch tracer, adduction field, Dawson, tongue at palatal rugae, tongue at hard-soft palate border) are likely applicable in clinical practice. Active and passive retrusion of the mandible both produced a more posterior position than the calibrated MIP.
