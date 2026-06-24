@@ -19,6 +19,7 @@ source_papers:
   - wiki/radiology/schindler-2025-panoramic-thyroid-eye-lens-dose.md
   - wiki/radiology/khafaji-2023-scattered-dose-eye-dentistry-cbct.md
   - wiki/radiology/makdissi-2016-effects-device-position-operators-radiation.md
+  - wiki/radiology/stervik-2024-radiation-exposure-during-orthodontic-treatment.md
 tags: [radiation-dose, effective-dose, background-radiation, cbct, panoramic, patient-safety, alara]
 relations:
   - type: extends
@@ -70,6 +71,7 @@ Synthesis of 14 held dental-dosimetry papers expressing radiographic effective d
 | schindler-2025 | phantom | Panoramic organ dose | thyroid 0.30–1.46 µSv; eye lens 0.88–4.24 µSv |
 | khafaji-2023 | SR (5 phantom) | CBCT eye-lens scatter | 0.103–8.3 mSv (FOV-dependent) |
 | makdissi-2016 | phantom/TLD | Handheld PA (operator dose only) | peak 0.0310 mGy palm vs 0.0110 mGy background |
+| stervik-2024 | retrospective (n=1,790) | **Independent background-day corroboration** + modality ratios | orthodontic imaging course (~1 pano + 1 lateral ceph + ~3 PA) "corresponds to 5–10 days of background radiation"; "panoramic … six times higher than a lateral cephalogram and 4–5 times higher than an intraoral image" |
 
 ## Effective Dose → Background-Equivalent Table
 
@@ -80,12 +82,16 @@ Denominator (single source): natural background **3110 µSv/yr ≈ 8.52 µSv/day
 | Intraoral periapical (PA) | 1.32 µSv (lee-2021) | ~0.15 day (~3.7 h) |
 | Panoramic (adult) | 17.6–17.93 µSv (benchimol-2018, lee-2021) | ~2.1 days |
 | Panoramic (paediatric) | 3.47–3.85 µSv (lee-2019) | ~0.4 day (~10 h) |
+| Lateral cephalogram | no direct µSv; "panoramic ≈ 6× lateral ceph" (stervik-2024) → ≈ pano ÷ 6 ≈ 2.9–3.0 µSv (derived) | ~0.35 day (~8 h) |
+| Orthodontic imaging course (~1 pano + 1 ceph + ~3 PA) | stated as a course, not µSv (stervik-2024) | **5–10 days (stervik-2024, stated verbatim)** |
 | CBCT — small i-CAT FOV (16×13 cm) | ~31 µSv (yeh-2018) | ~3.6 days |
 | CBCT — literature mean (all FOV) | 121.09 µSv (lee-2021) | ~14 days |
 | CBCT — device range | 3–500 µSv (fontenele-2025); 34–1073 µSv (baena-2022) | ~0.35–59 / ~4–126 days |
 | CBCT — max child large-FOV | 392.2 µSv (lee-2021) | ~46 days (lee-2021: ≈13% of annual) |
 
-**No held effective-dose value for:** bitewing, full-mouth series (FMX), lateral cephalogram, handheld/portable PA **patient** dose. These rows are intentionally omitted rather than estimated.
+**No held effective-dose value for:** bitewing, full-mouth series (FMX), handheld/portable PA **patient** dose. These rows are intentionally omitted rather than estimated. The lateral-cephalogram row is *derived* from stervik-2024's stated 6:1 panoramic:ceph ratio (not a directly measured µSv), so treat it as an approximation.
+
+**Independent corroboration:** stervik-2024 (n=1,790 orthodontic patients) independently states a full orthodontic imaging course "corresponds to **5–10 days of background radiation**" — consistent with this table (panoramic ~2 d + lateral ceph ~0.35 d + ~3 PA ~0.45 d ≈ 2.8 d per course; the 5–10 d figure uses Sweden's lower 1–2 mSv/yr background, i.e. a smaller denominator than lee-2021's 3110 µSv/yr, which widens the day count). Two independent papers converging on a "single-digit days of background" magnitude strengthens the bottom line.
 
 ## Clinical Decision Points
 

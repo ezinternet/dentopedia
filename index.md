@@ -1911,6 +1911,7 @@ tags: []
 - [[radiology/charuakkra-2023-low-dose-cbct-image-dose-comparison]] — Charuakkra 2023 (phantom, DMFR): ULD/LD CBCT 선량 ~6배↓ '수용~양호' 화질; 고관전압 활용
 - [[radiology/ozaki-2021-cbct-effective-dose-monte-carlo-simulation]] — Ozaki 2021 (MC, DMFR): step-and-shoot 5°/10° 충분; 소형 FOV 6회 ≈ 대형 1회 1.2배
 - [[radiology/yeh-2018-estimated-radiation-risk-cancer-dental]] — Yeh 2018 · in-vitro(MC+BEIR-VII) · 교정 CBCT 발암위험(REID) 추정, 소아가 성인 ~2배 (PMC full text)
+- [[radiology/stervik-2024-radiation-exposure-during-orthodontic-treatment]] — Stervik 2024 · retrospective(n=1,790) · 교정 영상 1코스(~7장) ≈ 자연방사선 5–10일; 파노라마=측방두부 6배=구내 4–5배 (PMC full text)
 - [[radiology/lee-2019-cbct-dose-osl-monte-carlo-comparison]] — Lee 2019 (phantom, PLoS One): CBCT OSLD vs MC 유효선량 차 4.0-14.3%, FOV 작을수록 감소
 
 **파노라마 선량·기하·수용체**
