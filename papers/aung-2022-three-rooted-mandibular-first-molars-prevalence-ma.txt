@@ -1,0 +1,34 @@
+Three-Rooted Permanent Mandibular First Molars: A Meta-Analysis of Prevalence
+Aung NM, Myint KK
+Int J Dent. 2022; Article ID 9411076. DOI: 10.1155/2022/9411076
+PMID 35386547 | PMCID PMC8979718
+Source: PubMed Central full text (JATS), retrieved 2026-06-24.
+
+ABSTRACT
+Introduction: Although numerous amounts of high-level evidence were present, they solely emphasized the tooth-level prevalence of three-rooted permanent mandibular first molar. Global patient-level prevalence and bilateral symmetrical distribution of this type of teeth were needed to be tackled across the world. Research question: "What is the global prevalence of three-rooted permanent mandibular first molars?"
+Materials and Methods: In vivo epidemiological studies undergone with Cone Beam Computed Tomography (CBCT) were eligible. Proportions presented in forest plots by random effect model. MetaXL version 5.3. Subgroup, sensitivity, and publication bias methods calculated.
+Results: 72 studies from 31 countries selected. 26302 patients and 37994 permanent mandibular first molars included. 9% of PMFMs worldwide demonstrated 3 roots. Found in 10% of world population, >45% of which revealed bilateral symmetry. Right-side dominance and no sexual dimorphism. Global tooth-level prevalence of Radix Entomolaris and Radix Paramolaris was 12% and 0.1%.
+Conclusion: Prevalence influenced by geographical location and widespread habitation of Mongoloid descent.
+
+KEY POOLED ESTIMATES (random effect model):
+- Global tooth-level prevalence 3-rooted PMFM: 8.85% (95%CI 6.60-11.39), I2=99%, range 0-29%. 68 studies; 5503/37994 teeth.
+- Global patient-level prevalence: 10.3% (95%CI 6.9-14.4), I2=98%, range 0-35%. 44 studies; 2535/16836 patients.
+- Global patient-level bilateral symmetry: 46.22% (95%CI 39.13-53.39), I2=90%, range 0-100%. 40 studies; 1311/2326 patients bilateral.
+
+ETHNIC/GEOGRAPHIC GRADIENT (tooth-level, objective I):
+East Asia 24.1% (23-25.2), Southeast Asia 13% (9-17.7), South Asia 4.7% (2.5-7.6), West Asia 4.4% (3.1-5.8), Europe 2% (1.3-2.9), America 1.8% (0.2-4.6), Africa 0.9% (0.3-1.9). Downgraded East->West. Mongoloid/East-Asian highest. Highest single value 29% in Chinese populations.
+
+Patient-level subgroup: East Asia 28.8% (27.3-30.4, range 22-35), South Asia 5.6%, West Asia 4.4%, America 2.1%, Europe 1%.
+Bilateral symmetry subgroup: East Asia 60.3% (56.3-64.2), South Asia 38.6%, West Asia 37.5%, America 35.1%, Europe 18.7% (lowest).
+
+SIDE: right 16% (12.2-20.2, range 1-34) vs left 12.1% (9.2-15.4, range 0-31) -> right-side predominance.
+GENDER: male 13.3% (9.8-17.3) vs female 13% (9.7-16.7) -> no sexual dimorphism.
+SENSITIVITY (terms RE/RP): RE 12.3% (9.3-15.7), I2=99%, range 0-29%; RP 0.1% (0.0-0.1), I2=30%, range 0-2%. 43 studies, 28822 teeth; RE 5056, RP 21.
+
+METHODOLOGY: In vivo CBCT only (gold-standard micro-CT needs extraction -> excluded; X-ray underestimates RE since straight distolingual root overlaps distobuccal). 5 databases (PubMed, Google Scholar, ResearchGate, ProQuest, LILACS) to Oct 30 2021; no language/time restriction; 4 foreign-language studies translated. JBI Critical Appraisal (8 of 9 items). 37 studies moderate RoB (avg JBI 53.38%), 35 high RoB (avg 32.14%). Design: 58 cross-sectional descriptive retrospective, 13 analytical retrospective, 1 analytical prospective. PROSPERO CRD42022302195. Publication bias: funnel asymmetry/major Doi asymmetry for objectives I (LFK -4.02) and III (LFK -3.19); objective II symmetric (LFK 0.05).
+
+DEFINITIONS: Radix Entomolaris (RE) = accessory distolingual root from lingual root trunk. Radix Paramolaris (RP) = root on buccal/mesiobuccal side. Both = "three-rooted PMFM". RE one canal, nearly circular x-section; up to 26% intricate canal anatomy; buccolingual curvature >30deg (Schneider) in ~60% of radix roots; trifurcation ~1mm apical to mesiodistal furcation; pulp floor trapezoidal; DL orifice ~3mm lingual to DB orifice.
+
+CLINICAL TAKE-HOME: high miss-risk of distolingual (radix) root/canal during mandibular first-molar endodontics, especially in East Asian/Mongoloid patients (~1 in 4 teeth, ~1 in 3 by side); modify access cavity (trapezoidal floor, search DL orifice ~3mm lingual to DB), expect ~30deg buccolingual root curvature (file-separation risk), and check the contralateral side given ~46% bilateral symmetry.
+
+(Full PMC JATS body retained in ingest source page; see sources/aung-2022-three-rooted-mandibular-first-molars-prevalence-ma.md)
