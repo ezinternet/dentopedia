@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Densah Bur vs HaeNaem Bur — 임상 비교</title>
+<style>
+  :root{
+    --ink:#1a1f24; --sub:#5a646e; --line:#d9dee3; --bg:#fbfcfd;
+    --densah:#1f6feb; --densah-bg:#eef4ff;
+    --haenaem:#0d8a6a; --haenaem-bg:#e9f7f1;
+    --warn:#b54708; --warn-bg:#fff4e6; --warn-line:#f0c089;
+    --tagA:#0b6b3a; --tagB:#1f6feb; --tagC:#7a5cc7; --tagD:#9a6a00; --tagE:#737d87;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:"Pretendard","Apple SD Gothic Neo","Malgun Gothic",system-ui,sans-serif;
+    line-height:1.6; -webkit-font-smoothing:antialiased;}
+  .wrap{max-width:1000px;margin:0 auto;padding:32px 24px 64px;}
+  header h1{font-size:1.55rem;margin:0 0 4px;letter-spacing:-.01em;}
+  header .sub{color:var(--sub);font-size:.92rem;margin:0;}
+  .bottom-line{margin:22px 0 28px;padding:16px 18px;border-radius:10px;
+    background:#fff;border:1px solid var(--line);border-left:4px solid var(--ink);
+    font-size:.98rem;}
+  .bottom-line b{color:var(--ink);}
+  h2{font-size:1.12rem;margin:34px 0 12px;padding-bottom:6px;border-bottom:1px solid var(--line);}
+  table{width:100%;border-collapse:collapse;font-size:.88rem;background:#fff;
+    border:1px solid var(--line);border-radius:8px;overflow:hidden;}
+  th,td{padding:10px 12px;text-align:left;vertical-align:top;border-bottom:1px solid var(--line);}
+  thead th{background:#f2f5f8;font-size:.82rem;letter-spacing:.02em;}
+  thead th.d{color:var(--densah);} thead th.h{color:var(--haenaem);}
+  tbody tr:last-child td{border-bottom:none;}
+  td.k{font-weight:600;width:140px;color:var(--ink);background:#fafbfc;}
+  .cols{display:grid;grid-template-columns:1fr 1fr;gap:16px;}
+  .card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:16px 18px;}
+  .card.d{border-top:3px solid var(--densah);}
+  .card.h{border-top:3px solid var(--haenaem);}
+  .card h3{margin:0 0 4px;font-size:1.02rem;}
+  .card .tag-line{font-size:.78rem;color:var(--sub);margin:0 0 10px;}
+  .card h4{margin:12px 0 5px;font-size:.82rem;letter-spacing:.03em;text-transform:uppercase;color:var(--sub);}
+  .card ul{margin:0;padding-left:18px;font-size:.88rem;}
+  .card li{margin:4px 0;}
+  .pro::marker{color:var(--haenaem);} .con::marker{color:var(--warn);}
+  .warnbox{margin:14px 0;padding:14px 16px;border-radius:10px;background:var(--warn-bg);
+    border:1px solid var(--warn-line);font-size:.9rem;}
+  .warnbox b{color:var(--warn);}
+  .decision{background:#fff;border:1px solid var(--line);border-radius:10px;padding:6px 18px;}
+  .decision div{padding:11px 0;border-bottom:1px dashed var(--line);font-size:.9rem;}
+  .decision div:last-child{border-bottom:none;}
+  .pick{display:inline-block;font-weight:700;padding:1px 9px;border-radius:5px;font-size:.82rem;margin-right:8px;}
+  .pick.d{background:var(--densah-bg);color:var(--densah);}
+  .pick.h{background:var(--haenaem-bg);color:var(--haenaem);}
+  .pick.e{background:#eef0f2;color:var(--sub);}
+  .tag{font-size:.7rem;font-weight:700;padding:1px 6px;border-radius:4px;white-space:nowrap;
+    vertical-align:middle;letter-spacing:.01em;}
+  .t-strong{background:#e3f4ea;color:var(--tagA);}
+  .t-cons{background:#e8f0ff;color:var(--tagB);}
+  .t-claude{background:#efe9fb;color:var(--tagC);}
+  .t-unver{background:#fbf2dd;color:var(--tagD);}
+  .t-est{background:#eef0f2;color:var(--tagE);}
+  .legend{margin-top:30px;font-size:.8rem;color:var(--sub);display:flex;flex-wrap:wrap;gap:8px 16px;}
+  .legend span{white-space:nowrap;}
+  footer{margin-top:34px;padding-top:14px;border-top:1px solid var(--line);
+    font-size:.78rem;color:var(--sub);}
+  footer a{color:var(--densah);text-decoration:none;}
+  @media(max-width:680px){.cols{grid-template-columns:1fr;}td.k{width:auto;}}
+  @media print{body{background:#fff}.wrap{max-width:none}.card,table,.decision{break-inside:avoid}}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+  <h1>Densah Bur vs HaeNaem Bur</h1>
+  <p class="sub">골밀도화 (Osseodensification, OD) 버 — 임상 비교 · 치과의사용 · 2026-06</p>
+</header>
+
+<div class="bottom-line">
+  <b>요지:</b> 두 버 모두 골밀도화 (Osseodensification, OD) 원리로 골편을 측방 압밀(autograft)해
+  1차 안정성을 올린다. 단 <b>densifying 회전방향이 반대</b>다 — Densah는 <b>반시계(CCW, 역회전)</b>,
+  HaeNaem은 <b>시계(CW, 정회전)</b>에서 압밀이 일어나므로 모터 셋업을 혼동하면 안 된다.
+  <b>Densah</b>는 Versah 원조 특허 제품으로
+  독립 임상근거가 두텁고, <b>HaeNaem(해냄)</b>은 메가젠이 유통하는 국산 대체 킷으로 가격이 낮다.
+  단, 두 킷을 직접 비교한 간접상악동거상 논문은 <b>철회(retraction)</b>됐으므로
+  "해냄이 동등/우월"이라는 head-to-head 주장은 현재 근거가 약하다. <span class="tag t-strong">근거강함</span>
+</div>
+
+<h2>1. 항목별 비교</h2>
+<table>
+  <thead>
+    <tr><th>항목</th><th class="d">Densah Bur (Versah)</th><th class="h">HaeNaem Bur (해냄)</th></tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td class="k">개발·유통</td>
+      <td>Salah Huwais 개발, Versah(미국), FDA clearance 2014. 국내 메가젠 유통 <span class="tag t-cons">합의수준</span></td>
+      <td>국산 OD 킷("Zero Bone Loss Kit"), 국내·수출 유통 <span class="tag t-unver">미검증</span></td>
+    </tr>
+    <tr>
+      <td class="k">densifying<br>회전방향</td>
+      <td><b>반시계(CCW, 역회전)</b>=골밀도화 / 시계(CW)=절삭. 800–1500 rpm <span class="tag t-strong">근거강함</span></td>
+      <td><b>시계(CW, 정회전)</b>=골밀도화 (flute handedness 반대). 800–1200 rpm <span class="tag t-cons">합의수준</span></td>
+    </tr>
+    <tr>
+      <td class="k">공통 술기</td>
+      <td colspan="2" style="background:#fff7ed;border-left:3px solid var(--warn)">방향은 반대지만 원리는 같다 — 펌핑 모션 + 충분한 관주(irrigation) 필수. <b>주의: Densah의 reverse 프로토콜을 해냄에 그대로 적용하면 회전방향이 뒤집힌다.</b> 모터 셋업을 제품에 맞게 분리할 것 <span class="tag t-cons">합의수준</span></td>
+    </tr>
+    <tr>
+      <td class="k">버 형상</td>
+      <td>테이퍼형 다중 land, negative rake angle. 0.5mm 단위 단계적 확공 <span class="tag t-cons">합의수준</span></td>
+      <td>flute handedness를 반대로 설계 → 정회전(CW) densifying. 공차·형상의 독립 검증 자료는 제한적 <span class="tag t-claude">claude해석</span></td>
+    </tr>
+    <tr>
+      <td class="k">재질</td>
+      <td>스테인리스 스틸 계열 전용 합금 <span class="tag t-unver">미검증</span></td>
+      <td>steel / stainless / tungsten carbide / diamond grit 혼용 (벤더 표기) <span class="tag t-unver">미검증</span></td>
+    </tr>
+    <tr>
+      <td class="k">주 적응증</td>
+      <td colspan="2" style="background:#f8fafb">저밀도 상악 구치부(D3·D4), 능선 확장(ridge expansion), 경치조골 상악동거상(transcrestal sinus lift), 협측 열개 예방. 양 제품 공통 <span class="tag t-cons">합의수준</span></td>
+    </tr>
+    <tr>
+      <td class="k">임상 근거</td>
+      <td>5년 이상 다기관 임상·다수 SCI 논문 축적 <span class="tag t-cons">합의수준</span></td>
+      <td>독립 근거 빈약. 대표 비교 논문(간접상악동거상)은 <b>철회됨</b> <span class="tag t-strong">근거강함</span></td>
+    </tr>
+    <tr>
+      <td class="k">가격</td>
+      <td>킷 단가 높음(프리미엄) <span class="tag t-est">추정</span></td>
+      <td>Densah 대비 현저히 저렴 — 주요 채택 동인 <span class="tag t-est">추정</span></td>
+    </tr>
+    <tr>
+      <td class="k">소모·재사용</td>
+      <td>negative rake 엣지 마모 시 densifying 효율 저하 → 교체주기 관리 핵심 <span class="tag t-claude">claude해석</span></td>
+      <td>동일 원리상 엣지 마모 관리 필요. 재질 혼용으로 로트별 편차 가능성 <span class="tag t-claude">claude해석</span></td>
+    </tr>
+  </tbody>
+</table>
+
+<h2>2. 장단점</h2>
+<div class="cols">
+  <div class="card d">
+    <h3>Densah Bur</h3>
+    <p class="tag-line">Versah 원조 · 근거 우위 · 고가</p>
+    <h4>장점</h4>
+    <ul>
+      <li class="pro">OD 효과(BIC·ISQ 상승, spring-back)에 대한 장기·다기관 근거가 가장 두텁다.</li>
+      <li class="pro">형상·공차 표준화 → 술자 간 재현성과 예측성이 높다.</li>
+      <li class="pro">교육·프로토콜·후속 fixture 매칭 자료가 풍부해 도입 시 시행착오가 적다.</li>
+    </ul>
+    <h4>단점</h4>
+    <ul>
+      <li class="con">킷·소모 비용이 높다 — 저빈도 술자엔 ROI 부담.</li>
+      <li class="con">관주·펌핑·역회전 미숙 시 발열·과압밀 위험(제품 무관한 술기 의존성).</li>
+      <li class="con">치밀골(D1) 하악에선 OD 이득이 작아 적응증이 한정적.</li>
+    </ul>
+  </div>
+  <div class="card h">
+    <h3>HaeNaem Bur (해냄)</h3>
+    <p class="tag-line">국산 대체 · 저가 · 근거 빈약</p>
+    <h4>장점</h4>
+    <ul>
+      <li class="pro">초기 도입 비용이 낮아 OD 술기 진입장벽을 크게 낮춘다.</li>
+      <li class="pro">국내 유통·A/S 접근성 — 공급·납기 측면 이점.</li>
+      <li class="pro">동일 OD 원리이므로 저밀도골 1차 안정성 개선이라는 기본 목적은 공유.</li>
+    </ul>
+    <h4>단점</h4>
+    <ul>
+      <li class="con"><b>독립 임상근거 부족</b>, 대표 비교 논문 철회로 동등성 주장 불가.</li>
+      <li class="con">버 형상·공차·재질의 표준화·로트 일관성 검증 자료가 제한적.</li>
+      <li class="con">Densah 프로토콜(드릴 시퀀스·rpm)을 그대로 차용 시 형상 차이로 결과 편차 가능.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="warnbox">
+  <b>근거 주의 —</b> "HaeNaem Zero Bone Loss Kit" 간접상악동거상 효능을 보고한 논문
+  (PubMed PMID 39575356)은 이후 <b>철회(Retraction)</b>됐다. 버 종류 간 비교 주장에 문제가 있었다는 사유.
+  따라서 제품 마케팅의 "Densah 동등/대체" 문구는 동료 검증된 임상근거로 보지 말 것. <span class="tag t-strong">근거강함</span>
+</div>
+
+<h2>3. 어떤 상황에 무엇을 — 의사결정</h2>
+<div class="decision">
+  <div><span class="pick d">Densah</span> 예측성·근거가 최우선인 케이스(상악동거상 동반, 심미부, 즉시식립과 결합), OD를 고빈도로 운용하는 클리닉.</div>
+  <div><span class="pick h">HaeNaem</span> 저밀도골 1차 안정성 개선이 목적이고 비용 민감도가 높은 환경, OD를 저빈도로 시험 도입해보려는 경우.</div>
+  <div><span class="pick e">무관</span> 치밀골(D1) 하악 — OD 이득이 작아 두 제품 모두 일반 드릴 대비 우위가 제한적. 적응증부터 재검토.</div>
+  <div><span class="pick e">공통 전제</span> 어떤 버든 결과의 큰 변수는 <b>술기</b>: 충분한 관주, 단계적 확공, 일정 압력의 펌핑 모션, 그리고 <b>제품별 densifying 방향</b>(Densah 역회전 / HaeNaem 정회전)에 맞는 모터 셋업. 제품 교체로 술기 부족을 메울 수 없다.</div>
+</div>
+
+<div class="legend">
+  <span><span class="tag t-strong">근거강함</span> RCT·SR·원전 직접</span>
+  <span><span class="tag t-cons">합의수준</span> 가이드·다수설·임상관행</span>
+  <span><span class="tag t-claude">claude해석</span> 추론·확장적용</span>
+  <span><span class="tag t-unver">미검증</span> 기억·미확인 출처</span>
+  <span><span class="tag t-est">추정</span> 가정 하 결론</span>
+</div>
+
+<footer>
+  출처: <a href="https://pubmed.ncbi.nlm.nih.gov/39575356/">PubMed 39575356 (철회됨)</a> ·
+  <a href="https://store.dentinova.co.uk/product/densah-burs-kit-alternative-haenaem-osseodensification-burs/">HaeNaem 제품 페이지</a> ·
+  <a href="https://imegagen.com/ko/?kboard_id=1&mod=document&uid=471">메가젠 Densah bur</a> ·
+  <a href="https://versah.com/content/InstructionsforUse/IFU-2023/IFU_English_10641%20REV03.pdf">Versah IFU (CCW densifying)</a> ·
+  <a href="https://www.frontiersin.org/journals/dental-medicine/articles/10.3389/fdmed.2025.1712749/full">Frontiers 2025 — clockwise OD cadaveric study</a><br>
+  최종 임상 판단은 술자 책임. 제품 사양·가격은 변동되므로 도입 전 공급사 최신 자료로 재확인할 것.
+</footer>
+</div>
+</body>
+</html>
