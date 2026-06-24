@@ -1,0 +1,272 @@
+TITLE: Pathologies associated with the mandibular third molar impaction
+PMID: 33913399 | PMCID: PMC10454952 | DOI: 10.1177/00368504211013247
+
+Introduction
+
+Prophylactic extraction of M3M is a controversial issue.M3M extraction may still present risks, the most important of which is the risk of neurological damage.Therefore, some researchers found limited evidence to extract asymptomatic M3Ms; while others suggested the prophylactic M3M removal should be applied conditionally,and sometimes the mandibular third molar may be prematurely extracted (germectomy).Therefore, well defined studies are recommended to be conducted to determine the impaction patterns of M3Ms with higher risks of producing pathologies.The pathologies include: pericoronitis, mandibular second molars (M2Ms) distal caries, and M2Ms distal periodontal pathologies. However, most previous studies focused on one or two pathologies. To our knowledge, there was no a comprehensive analysis of all the pathologies. Therefore, this study was innovatively conducted to examine the association of third molar impaction pattern with prevalent and incident pericoronitis, M2M distal caries and M2M periodontal pathologies. The core concerns in the study focused as follows: (i) What are the characteristics of lower wisdom teeth that have higher risk to cause pathologies? (ii) Regarding a specific disease, which type of wisdom teeth is more likely to produce it? (iii) What is the prognosis of the second molars after the removal of wisdom teeth with pathologies?
+
+Methods
+
+Patients and evaluations
+
+This was a retrospective study. This study was approved by Shanghai Xuhui District Dental Prevention and Control Institute Ethics Committee and was conducted in accordance with the Helsinki Declaration of 1975, as revised in 2013. All participants provided their written informed consent to participate in this study.
+
+This retrospective study searched the patients referring to Oral and Maxillofacial Surgery department of Shanghai Xuhui District Dental Disease Prevention and Control Institute between January 2019 to January 2020 in order to identify patients that fulfilled the following inclusion criteria: (i) the mandibular third molars were fully or partially impacted; (ii) clinical data, orthopantomography were available; (iii) the surgery was performed after the examinations had been undertaken. From January 2019 to January 2020, 262 cases with 432 M3Ms were included. The patients were categorized based on their ages (age < 30, age between 30 and 50, age > 50).
+
+Based on the clinical and Orthopantomography (OPG) examinations, all the teeth were categorized into three types: (i) soft tissue and bony impacted; (ii) position A, B, and C based on Pell & Gregory’s classification; (iii) vertical, horizontal, mesio-angular, transverse impactions of Winter.
+
+The inflammatory lesions associated to mandibular third molars selected in this study were: (i) pericoronitis; (ii) M2M distal caries; (iii) M2M distal periodontal pathology. Pericoronitis was diagnosed when there was pain and swelling at the third molar area. M2M distal caries were defined when the caries (pulp disease, periapical disease) were related to contacts to M3Ms. Periodontal pathologies referred to the distal bony absorptions of the adjacent M2Ms and/or external root resorptions (ERRs) of the second molars, based on the symptoms (M2M loosened), clinical probing tests, and OPG examinations.
+
+Outcome measurement
+
+Outcome criteria included (i) the success rate; (ii) the mucosa healing; (iii) M2M mobility and M2M endodontic problem. The success of the surgery referred to the successful extraction of the M3M. The mucosa around the M3M area without inflammation referred to the mucosa healing well, and it was measured at 1 week, 1 month, 3 months after the surgery. For dental mobility, Miller classification was used. The M2Ms which needed to be extracted included: (i) M2Ms in degree III; (ii) M2Ms with severe root caries. Degree III refers to the tooth with bucco-lingual, mesio-distal, and vertical mobilities.
+
+Statistics
+
+Data was analyzed using the SAS 8.2 statistical package (SAS institute Inc, USA), χtest and Fisher test were used to analyze the data, with avalue of <0.05 being considered statistically significant.
+
+Results
+
+In total, 432 teeth in 262 patients enrolled in this study. Of these, 129 were female (216 teeth), and 133 were male (216 teeth). Their ages ranged from 18 to 63 years (average, 31 years). Of all M3Ms, 91.67% were soft tissue impacted and 8.33% bony impacted; 72.22%, 20.83%, and 6.94% were in position A, B, and C; 55.56%, 24.54%, and 19.91% were in vertical, mesio-angular, and horizontal impactions. Among all, 82.41% teeth had pericoronitis, 18.75% teeth caused M2Ms distal caries, and 14.81% teeth had M2Ms distal periodontal pathologies. There were 64 teeth had two or three pathologies. The patients in different age groups and the pathologies were summarized as shown in. The impaction patterns of the impacted M3Ms and pathologies caused by them were summarized as shown in. The inflammatory lesions associated to mandibular third molars selected were illustrated on.
+
+The success rate of all extractions was 100%. All the pericoronitis recovered after surgery. In the study, the five M2Ms measured in degree III of mobility and the five M2Ms with uncurable root caries were extracted after the M3Ms removals.
+
+Table 1.
+
+Patients in different age areas and their symptoms/diseases caused by M3Ms.
+
+Age
+
+Pericoronitis
+
+Endodontic diseases
+
+Loosened M2Ms
+
+p
+
+<30
+
+208
+
+34
+
+17
+
+< 0.0001
+
+≥30, <50
+
+139
+
+40
+
+40
+
+≥50
+
+9
+
+7
+
+7
+
+*
+
+≤ 0.05 is considered statistically significant.
+
+Table 2.
+
+Impaction patterns of mandibular 3rd molars and pathologies.
+
+Classification
+
+Pathologies
+
+Pericoronitis
+
+p
+
+M2M distalcaries
+
+p
+
+M2M distalperiodontalpathology
+
+p
+
++
+
+−
+
++
+
+−
+
++
+
+−
+
+Impacted depth(case)
+
+Soft tissueimpacted
+
+332
+
+64
+
+0.0097
+
+74
+
+322
+
+0.9113
+
+55
+
+341
+
+0.0727
+
+Bonyimpacted
+
+24
+
+12
+
+7
+
+29
+
+9
+
+27
+
+Pell & Gregoryclassification(case)
+
+A
+
+259
+
+53
+
+0.7366
+
+61
+
+251
+
+0.0206
+
+35
+
+277
+
+<0.0001
+
+B
+
+72
+
+18
+
+20
+
+70
+
+15
+
+75
+
+C
+
+25
+
+5
+
+0
+
+30
+
+14
+
+16
+
+Winter’sclassification(case)
+
+Vertical
+
+219
+
+21
+
+<0.0001
+
+20
+
+220
+
+<0.0001
+
+8
+
+232
+
+<0.0001
+
+Mesial
+
+72
+
+34
+
+40
+
+66
+
+29
+
+77
+
+Horizontal
+
+65
+
+21
+
+20
+
+66
+
+27
+
+59
+
+*
+
+p ≤ 0.05 is considered statistically significant.
+
+Figure 1.
+
+The associations of impaction patterns of mandibular third molars (M3Ms) with pathologies.
+
+Discussion
+
+In oral surgeries, whether prophylactic extractions of asymmetric M3Ms were indicated had become a hotly discussed issue. To solve this problem, the first question we need to answer is: What are the characteristics of lower wisdom teeth that have higher risk to cause pathologies? The pathologies caused by lower wisdom teeth could be categorized into soft tissue disease and hard tissue disease. Soft tissue disease mainly refers to pericoronitis, whereas hard tissue disease mainly refers to M2M distal caries. Distal periodontal pathologies of M2Ms have both soft and hard tissue defects, which further lead to the mobility of M2Ms increased and distal root absorptions. Therefore, pericoronitis, M2Ms caries and distal M2M periodontal disease were evaluated as the pathologies in this study. The “soft tissue” or ‘bony” impaction was the briefest tooth classification. In this study, 91.67% of the teeth were soft tissue impacted. It was in accordance with the understanding that the loose gap between tooth and soft tissue would be an easy approach to accumulate the bacterial biofilms.Based on Pell & Gregory’s classification, 72.22%, 20.83%, and 6.94% of the teeth were in position A, B, and C. It suggested that teeth in less deep positions were more likely to cause pathologies, which was in accordance with the other studies.It might due to the teeth in high positions are closer to oral environment than those in deep positions. Based on the Winter’s classification, more than half of the M3Ms were vertically angulated, which were in accordance to the compositions of all M3Ms. The third molar in vertical position was the one with the greatest chance of presenting pericoronitis as literatures reported.It might be a reason of the high rate prevalence of pericoronitis in this study.
+
+In different age groups, the types of pathologies varied. In this study, the age of the patients ranged from 18 to 63. In this study, we found: (i) pericoronitis was the major pathology in all age groups; (ii) the frequency of carious and periodontal lesions increases with age. While similarly, there was a study showed that symptomatic M3Ms in patients over 50 were more related to M2M distal caries.M2M distal caries and periodontal disease appeared in older patients indicated that these two pathologies occurred after a long period of time when M3Ms in inadequate positions and angulations.
+
+The patients in different age groups had different concerns of pathologies, therefore, it was justified to compare M3Ms features with one specific disease. Pericoronitis is an inflammation that occurs in the soft tissues around an erupting tooth.In this study, soft tissue impacted and vertically angulated teeth were more associated with the occurrence of pericoronitis, due to the occlusal M3M faces which had grooves and fissures in contact with the pericoronary hoods. It was in accordance with the published research.We also found around 70% of the mesio-angular and horizontal impacted teeth caused pericoronitis. The most convincing explanation is that, cementoenamel junction (CEJ) distance increases of M2M and M3M, which accumulates food in the interdental space. In addition, it is difficult to brush and floss due to the lack of ideal interproximal contact point, which enhances the food and bacterial accumulations. In this study, there was no difference among the teeth in position A, B, and C which had pericoronitis. In literature, there was limited evidence that pericoronitis was related to teeth positions based on the Pell & Gregory classification, whereas teeth in position A had a relative greater risk than in position B.It might be interpreted due to the small number of samples in this study. Similar to our study, the data in the literature were collected in the hospital, and the patients included always had symptomatic M3Ms.
+
+Impaction depth and angulation of the M3M were associated with distal caries in the M2M.In this study, the frequency of M2Ms distal caries was highest in mesio-angular impacted teeth in position A, which was in accordance with the previous studies.A previous study showed that, M2Ms developed more distal caries with mesial angulations from 43° to 73°.Also, when the CEJ distance between the distal M2M and the mesial M3M ranged from 6 to 15 mm, distal caries in M2Ms occurred more frequently.This was also related to the inappropriate contact point between two teeth which increased the difficulty of daily oral hygiene.
+
+Periodontal pathology of the M2M is related to the impacted depth and inclination of M3M. In this study, we found deeper impacted teeth with mesial and horizontal angulations were more likely to cause adjacent periodontal pathologies. Progression of periodontal probing depth was reported in the literature,but only a few studies considered the impaction patterns. There was a study suggested that the prevalence and the incidence of periodontal pathologies of M2Ms varied significantly depending on whether M3Ms were absent, erupted, soft tissue impacted, or bony impacted.Second molars adjacent to soft tissue impacted third molars had significantly greater chance to cause periodontal pathologies.However, the inclinations of the M3Ms were not discussed. The periodontal pathologies might lead to external root resorptions (ERRs) of the second molars.The previous studies showed ERRs of the second molars were associated with mesio-angular and horizontally impacted M3Ms.In our study, we found the adjacent periodontal disease also related to this type of M3Ms, suggesting a potential relationship between periodontal pathology and ERR.
+
+What is the prognosis of the second molars after the removal of wisdom teeth with pathologies? In this study, uncurable root caries and severe looseness of M2Ms were the worst outcomes. Among them, most of teeth were soft tissue impacted in position A&B and were mesially and horizontally angulated. The average age in those patients was 44 years old. The severe outcomes suggested the necessity of regular oral examinations every year.
+
+This study has its limitations due to its retrospective character. The patients included in this study were those who referred to Oral and Maxillofacial Surgery department, thus almost all of them had symptoms or pathologies. When regarding to better answer whether prophylactic extraction is in necessity, a community survey with large sample or prospective study is called in the future.
+
+Conclusions
+
+Extractions of soft tissue impacted teeth in vertical angulations should be considered, while removals of mesially and horizontally angulated or bony impacted teeth could be delayed.
