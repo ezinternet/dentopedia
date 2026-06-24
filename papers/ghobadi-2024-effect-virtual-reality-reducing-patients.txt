@@ -1,0 +1,123 @@
+The effect of virtual reality on reducing patients' anxiety and pain during dental implant surgery
+
+Ghobadi A, Moradpoor H, Sharini H, Khazaie H, Moradpoor P.
+BMC Oral Health. 2024 Feb 5;24(1):186.
+PMID: 38317209 | PMCID: PMC10845398 | DOI: 10.1186/s12903-024-03904-8
+
+ABSTRACT
+
+Background
+Dental anxiety and pain pose serious problems for both patients and dentists. One of the most stressful and frightening dental procedures for patients is dental implant surgery; that even hearing its name causes them stress. Virtual reality (VR) distraction is an effective intervention used by healthcare professionals to help patients cope with unpleasant procedures. Our aim is to evaluate the use of high-quality VR and natural environments on dental implant patients to determine the effect on reducing pain and anxiety.
+
+Methods
+Seventy-three patients having two dental implant surgeries participated in a randomized controlled trial. One surgery was with VR, and one was without. Anxiety was measured with the State-Trait Anxiety Inventory and the Modified Dental Anxiety Scale tests. The pain was measured with the Numerical Rating Scales. Patient satisfaction, surgeon distress, memory vividness, and time perception were evaluated. Physiological data were collected with biofeedback and neurofeedback device.
+
+Results
+VR effectively reduced anxiety and pain compared to no VR. Physiological data validated the questionnaire results. Patient satisfaction increased, with 90.4% willing to reuse VR. VR reduced time perception and memory vividness.
+
+Conclusion
+Psychometric and psychophysiological assessments showed that VR successfully reduced patient pain and anxiety. More dental clinicians should use VR technology to manage patient anxiety and pain.
+
+FULL TEXT
+
+Introduction
+
+The history of dentistry is almost as long as the history of human civilization, and one of the most challenging aspects of dental care that dentists face today is managing patients' pain and anxiety. Despite advances in dental technologies and treatments, many people still avoid or delay dental treatments due to high levels of fear of pain and anxiety.
+
+Anxiety is a common response to surgery, especially since being awake during surgery with the help of local anesthetics can be full of specific fears and anxieties. Not only is anxiety unpleasant, but a consistent relationship has been observed between surgical anxiety, postoperative pain, an increased need for analgesics, and delayed recovery. Results from a large adult dental health survey by the National Health Service (NHS) showed that over one-third of adults (36%) suffer from moderate dental anxiety, and a further 12% suffer from extreme dental anxiety. These patients only go to the dentist when experiencing pain, thus exacerbating their anxiety too. In addition, anxious patients are less interested in keeping their routine appointments, their treatment takes longer, they feel less satisfied after treatment, and the dentists themselves experience more distress when treating anxious patients.
+
+Pain is a complex, multidimensional subjective experience involving sensory, emotional, and cognitive processes. Pain perception is influenced by a wide spectrum of dimensions and interactions between these processes, with the cognitive-evaluative, motivational-affective, and discriminative dimensions all playing a role in pain perception. Discomfort from pain is frequently reported by patients undergoing dental treatment, even during routine restorative procedures. In one population-based study, 71% of respondents reported a negative dental experience related to pain, with 30% reporting three or more painful incidents. This is compared to lifetime prevalence data, where 60% of respondents stated their last dental visit was painful. Additional evidence comes from a longitudinal study in which 40% of respondents over a 5-year period reported experiencing painful dental treatment. Painful treatment episodes lead to the development of dental fear and irregularities in routine visits. Reporting previous painful treatment episodes predicts pain during subsequent dental procedures over a 5-year follow-up. Thus, "pain begets pain," and a vicious cycle develops associated with postponing dental visits. Irregular visits prevent the treatment of minor issues, leading to the use of more stressful dental procedures and increasing the chances of further pain provocation.
+
+In recent years, 19% of the population above age 35 has undergone dental implant treatment. While implant placement is a relatively simple surgical procedure for the surgeon, it is usually associated with a high level of anxiety and discomfort for the patient. Even hearing the words "implant surgery" increases anxiety levels for many patients. In the past, the major focus for managing patient pain and anxiety was on pharmacological interventions, while articles published in the past decade have increasingly focused on non-pharmacological techniques. One such strategy is distraction, a technique based on the concept of limited human capacity for attention. Distraction techniques range from passive to active interventions, with the belief that the more interactive the distraction technique, the greater the potential for diversion from pain, as some level of attention is required to experience pain.
+
+Virtual reality is an advanced technology system that allows users to become fully immersed in a multisensory (e.g., visual, auditory and haptic) "virtual world" experience. VR is rapidly emerging in popular culture and has gained popularity as an innovative distraction technique in recent years. The cost of a VR system has dramatically decreased since the mid-1990s, while the quality, portability, and technology have markedly improved. VR's immersive and interactive aspects compete for patients' attention, thus minimizing patients' ability to process incoming signals. This highly immersive and multisensory VR experience is distinct from common forms of distraction (e.g., bubbles, books, toys), passive TV or movie watching, or a computer/gaming console video game. For example, Kipping et al. showed that VR distraction resulted in less analgesic medication being used compared to standard distractions like TV, music, or stories. The benefits of using VR to reduce dental anxiety and pain during dental procedures have been extensively addressed in the scientific literature. Earlier versions of VR have been evaluated as a means to reduce perceived pain, anxiety, and general distress during painful medical procedures such as wound care, chemotherapy, surgery, physiotherapy, dental procedures, and general medicine.
+
+Hypotheses:
+First, VR would decrease patients' overall pain and anxiety during dental implant surgery.
+Second, in line with Elaborated Intrusions (EI) theory, VR distraction would result in less vivid memories one week later.
+Third, VR distraction during dental treatment would result in lower time perception compared to no VR distraction.
+
+Material & methods
+
+Regulatory approvals
+Approved by the Ethics Committee of Human Research at Kermanshah University of Medical Sciences (IR.KUMS.REC.1402.076), clinical trial code IRCT20230612058461N1 (20/06/2023). Helsinki Declaration of 1964.
+
+Study design
+A randomized, controlled crossover clinical trial with two intervention groups. Patients scheduled for implant surgery on the lower right and left first molars. A blinded third-party statistician used computer software (List Randomizer) to assign identification numbers to two groups randomly, concealed in sealed envelopes opened on the day of surgery. Two sessions per patient. Group 1: implant surgery on first lower molar using VR, then the other first lower molar without VR. Group 2: first without VR, then the other with VR.
+
+Preliminary examination of 10 patients showed average implant surgery procedure length was 23 minutes (without preparation/anesthetic injection time). Patients with surgery length >25 min or <20 min were excluded. For patients between 20-25 min, the surgeon pretended to work to increase duration to 25 minutes so actual time was the same for all. A large clock was installed in front of the surgeon. All patients attended alone; no other patients present in waiting room; silence prevailed. Pens were new and same brand.
+
+Participants
+Patients invited from a university of medical sciences and several private clinics to the prosthodontist specialist's office (Hedaiat Moradpoor). No discrimination by race, gender, socioeconomic status. Patients received 10% discount on treatment if participating. Sample size calculated from Tanja-Dijkstra et al.: SD of Experienced pain = 1.95; mean Active VR = 2.15, control = 1.72; α=0.05, power 90%, minimum sample size 70 (PASS software). 215 patients examined, 90 met eligibility, 17 dropped out, 73 patients (36 men, 37 women), mean age 44.29 ± 12.98 years, consented.
+
+Hardware
+VR headset: Oculus Quest 2 (Meta). Display 3664×1920 px, 100-degree field of view, 90 Hz refresh, 830 g. Wireless, can fit over glasses, external speakers so patient hears movie music and surgeon's instructions.
+
+Biofeedback & neurofeedback system: psychophysiological parameters (EMG, EKG, SCR) recorded with FlexComp Infiniti - 10 Channel System (Thought Technology Ltd., Montreal). 10-channel polygraph.
+
+Procedure
+Panoramic radiography (CRANEX D, Soredex) and CBCT (NewTom Giano) to assess mandibular bone atrophy and surgical planning. Seven days before surgery: professional oral hygiene. One hour before: antibiotic prophylaxis with amoxicillin + clavulanic acid 2 g. Chlorhexidine 0.2% mouthwash from three days before first surgery until two weeks after. Eleven electrodes attached to fingers, neck, wrists for physiological data. Treatment duration 25 minutes each session.
+
+Inferior alveolar nerve block used for lower jaw. No patient experienced sudden pain during injection. WhiteSky dental implants (Bredent, Senden, Germany) placed in 36 and 46 tooth areas (right/left lower first molars). Implants placed per manufacturer's recommendations. Post-op: chlorhexidine 0.2% rinse twice/day, avoid brushing the area for two weeks. Post-op medication: amoxicillin 500 mg every 8 hours for seven days (clindamycin 300 mg every 8 hours if penicillin allergy), ibuprofen 600 mg every 8 hours for three days. Sutures removed seven days after surgery.
+
+Psychometric assessment
+
+Pain: modified single-item NRS (0 no pain to 10 worst possible pain), administered at both surgical sessions. At start of session as "expected pain," 5 minutes after surgical process as "experienced pain."
+
+Anxiety:
+STAI (State-Trait Anxiety Inventory): separate self-report scales for state and trait anxiety. Each scale 20 items scored 1 (not at all) to 4 (very much). Total STAI-S or STAI-T ranges 20 to 80. State anxiety (S) = situational/momentary; trait anxiety (T) = individual differences in response to stressful situations.
+MDAS (Modified Dental Anxiety Scale): five items, 5-point Likert scale "not anxious" to "extremely anxious." Total score 5 to 25.
+
+Satisfaction: 11-point NRS (0 completely dissatisfied to 10 completely satisfied). Patients also asked if they would want the dentist to use VR again (yes/no/not sure).
+
+Treatment Distress Rating (TDR): dentist's distress from the procedure assessed; 11-point NRS, 0 "no distress at all" to 10 "worst possible distress."
+
+Vividness of memories: one week after each session, patients contacted by phone, 11-point NRS (0 not at all to 10 completely remember) assessing vividness. Items adapted from Tanja-Dijkstra et al.: (a) how vividly imagine the visit, (b) emotions experienced, (c) discomfort of keeping mouth open, (d) sound of dental instruments, (e) smell in dental office.
+
+Time perception ratio: "How long do you think the entire process was, in minutes?" No clock visible. Sensed time expressed as fraction of actual elapsed time.
+
+Psychophysiological assessment: EMG (sternocleidomastoid muscle), EKG/ECG (heart rate, HRV), SCR/GSR (skin conductance).
+
+Statistical analysis
+Intention-to-treat approach. Descriptive + inferential. Normality via Kolmogorov-Smirnov. Independent samples T-test for age, Chi-Square for gender. Generalized Estimating Equations (GEE) model for effect of intervention type, gender, age. SPSS v18. Significance level 0.05.
+
+Results
+
+73 patients: 36 (49.3%) male, 37 (50.7%) female. Mean age 44.92 ± 12.98 years. Variables normally distributed. No significant difference in mean age (p=0.830) or age distribution (p=0.908) between groups.
+
+GEE model effects of intervention type, gender, age:
+- Expected pain: intervention NO significant effect (p=0.526). Gender p=0.446, age p=0.232 (NS).
+- Experienced pain: intervention SIGNIFICANT (p<0.001); mean experienced pain with VR was 1.712 units lower than without VR. Gender p=0.209, age p=0.496 (NS).
+- STAI-S (state anxiety): intervention SIGNIFICANT (p<0.001); STAI-S with VR was on average 3.452 units lower than without VR. Gender p=0.111, age p=0.663 (NS).
+- STAI-T (trait anxiety): intervention NO significant effect (p=0.382). Gender p=0.117, age p=0.803 (NS).
+- MDAS: intervention SIGNIFICANT (p<0.001); MDAS with VR was on average 4.548 units lower than without VR. Gender p=0.093, age p=0.165 (NS).
+- Patient satisfaction: intervention SIGNIFICANT (p<0.001); satisfaction with VR on average 1.137 units higher. Gender p=0.914 (NS). Age SIGNIFICANT (p<0.001): per year increase, satisfaction decreased 0.037 units. Education NS.
+- Vividness of memories: intervention SIGNIFICANT (p<0.001); vividness with VR on average 0.689 units lower. Gender p=0.609, age p=0.984 (NS).
+- Time perceived: intervention SIGNIFICANT (p<0.001); perceived time with VR on average 0.128 units lower. Gender p=0.513, age p=0.893 (NS).
+- Surgeon distress: intervention SIGNIFICANT (p<0.001); surgeon distress with VR on average 3.452 units HIGHER than without VR. Gender p=0.212, age p=0.296 (NS).
+- EMG RMS amplitude: SIGNIFICANT (p<0.001); with VR on average 14.158 units lower.
+- EMG Median Frequency (MF): SIGNIFICANT (p<0.001); MF with VR on average 12.766 units higher.
+- EMG power band above 100 Hz: SIGNIFICANT (p<0.001); with VR on average 18.648 units lower.
+- HRV (ms): SIGNIFICANT (p<0.001); HRV with VR on average 3.752 units lower (did NOT support hypothesis — HRV decreased).
+- Heart rate: SIGNIFICANT (p<0.001); with VR on average 10.300 units lower.
+- GSR RMS: SIGNIFICANT (p<0.001); with VR on average 5.389 units lower.
+
+Younger adults found VR more useful than middle-aged/older adults. VR decreased muscle tension, pain, fatigue (EMG), heart rate, sympathetic activity (EKG/SCR). Women were less inclined than men to use VR. Participants with higher dental anxiety showed greater decreases in memory vividness. Surgeon dissatisfaction decreased from 9.2 (first five patients) to 5.4 (last five) as he became accustomed to the device.
+
+Discussion
+Crossover design so each person compared to self in two situations. Consistent with prior studies (Ahmadpour et al. 1386 articles 2013-2019). VR equipment quality important (Hoffman et al.). Natural environment content used to increase impact. Tanja-Dijkstra: pain reduction only in coastal (nature) environment, not urban — so VR effect is not just distraction; nature-specific environments have greater effect.
+
+12 of 73 patients had severe anxiety in one/both sessions (5 men, 7 women by STAI-S). 8 reported VR very satisfactory (mean satisfaction 8); 4 (all women) lower satisfaction (mean 6.5). VR helpful when anxiety root was a specific object (anesthesia injection, room atmosphere, the word "surgery"); less helpful for those whose fear was being vulnerable/unaware during surgery. Moderate-anxiety patients (mean satisfaction 8.32) similar to low-anxiety (8.34).
+
+Anxiety levels similar in women and men. Women less inclined to use VR (claustrophobia, unawareness of surroundings) — limited sample. Younger adults found VR more useful; four women over 65 satisfied but did not want VR again ("ridiculous," unfamiliar with technology).
+
+Most participants positive — described VR as "heaven," "fun," "out of body experience," "amazing." No patient expressed discomfort at end of VR treatment; 5 noted inability to see surroundings made them uncomfortable. Some surgeons preferred to see patients' faces.
+
+EI (Elaborated Intrusions) theory: Tanja-Dijkstra found no evidence VR reduced vividness in routine treatments (low pain). In implant surgery (high anxiety/pain), VR DID impact pain memories — important because past memories influence future expectations. VR distraction has potential to break the cycle of dental anxiety by preventing formation of vivid memories.
+
+Main limitation: device bulkiness — challenges treatment, isolation, dentist's freedom of action, visibility/access to surgical site. Surgeon initially gave dissatisfaction score of 10 (15+ years of implant experience). Over time accustomed (9.2 → 5.4). Risk of harm very low; only cybersickness (rare, resolves with rest). Future studies should use higher-quality, smaller headsets.
+
+Conclusions
+Supports prior studies emphasizing VR equipment quality and content in reducing anxiety and pain. Reduced patient pain, anxiety, memory vividness, and time perception. Psychophysiological assessment confirmed questionnaire results. 90.4% of patients requested to use the headset again on next visits.
+
+Source: According to PubMed. DOI: 10.1186/s12903-024-03904-8
