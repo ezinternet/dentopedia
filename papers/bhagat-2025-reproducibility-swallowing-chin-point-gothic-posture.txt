@@ -1,0 +1,70 @@
+Comparative Evaluation of Reproducibility of Swallowing, Chin Point Guidance, and Digital Intraoral Gothic Tracing with Different Body Posture
+
+Authors: Bhagat et al.
+Year: 2025
+Journal: Journal of Pharmacy & Bioallied Sciences
+DOI: 10.4103/jpbs.jpbs_787_25
+PMID: 41164589
+PMCID: PMC12563705
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12563705/)
+
+=== ABSTRACT ===
+
+Objective:
+To compare swallowing, light chin positioning, and intraoral gothic arch tracing methods for determining centric relation (CR) using a digital intraoral tracer.
+
+Materials and Methods:
+Participants: 30 edentulous or overdenture patients with well formed ridges and adequate inter arch space. Instrumentation: A customized digital intraoral gothic arch tracer. Procedure: Mandibular movements were recorded using the tracer. Swallowing, light chin positioning, and intraoral gothic arch tracing methods were performed. X and Y coordinates of mandibular positions were compared across the three methods.
+
+Results:
+Light chin positioning was found to be more reproducible than the swallowing method and It was also reliable in the supine posture for centric relation determination.
+
+Conclusion:
+Among the tested methods, light chin positioning provided the most reproducible and reliable centric relation records, making it a preferable choice over swallowing in clinical practice.
+
+=== INTRODUCTION ===
+
+The centric relationship in dentistry has long been a topic of debate, with various methods proposed due to a lack of consensus among clinicians. Langer's concept of centric relationship has evolved over time, and different methods have emerged to fill the gaps. Shanahan's popular 1955 method is backed by radiographic evidence but is affected by muscle balance, which can impact reproducibility. Celler A.G. and Smith H.F. suggested that swallowing exercises could improve reproducibility. The objectives of this study were to compare the final positional dimension in the form of x and y coordinates for all three methods.
+
+=== MATERIALS AND METHODS ===
+
+Thirty patients were selected based on inclusion/exclusion criteria, with ethical clearance and informed consent obtained.
+
+Subjects were selected with maxillary and mandibular complete edentulous arches or overdenture-indicated arches, with no temporomandibular joint (TMJ) disorders.
+
+For Group 1, alloy copings were made over root canal-treated teeth, and permanent record bases with occlusal rims were fabricated. For Group 2, complete denture bases were made from secondary casts after zinc oxide eugenol impressions.
+
+Group 1: patients with one edentulous arch and the other requiring an overdenture.
+Group 2: patients with both arches being edentulous.
+
+Digital gothic arch tracing system:
+A digital gothic arch tracing system was developed, consisting of an intraoral sensor pad, extra-oral digitizer circuit (MAX232), and MATLAB analysis software (intraoral sensor, central bearing plate, MATLAB analysis software).
+
+Three methods compared:
+- Method 1: Swallowing
+- Method 2: Chin point guidance (light chin positioning / jaw positioning)
+- Method 3: Gothic arch tracing
+
+Recordings performed in upright and supine (back) body posture.
+
+=== DISCUSSION ===
+
+The TMJ and its role in cranio-mandibular articulation are unique because they allow for all six degrees of freedom in its movement. Accurately recording jaw relationships is essential to prosthetic treatment to ensure both the effectiveness and longevity of the prosthesis. This study aims to assess the reproducibility and effectiveness of three methods—swallowing, jaw positioning, and gothic arch tracing. The participants were divided into two groups. Group 1 included patients with one edentulous arch and the other requiring an overdenture, while Group 2 consisted of patients with both arches being edentulous. Previous studies have explored how different body positions influence centric relationships in patients. The research involved ensuring that the oral cavity was sealed and the lips were closed during swallowing.
+
+Results indicated that swallowing movements were most reliable in the upright position, with jaw positioning showing high reproducibility (0.79) and consistency (0.98). The study found that Y-coordinate measurements remained stable in the back position, highlighting its reliability. Additionally, gothic arch tracing demonstrated excellent reproducibility with no significant changes observed, making it a reliable method.
+
+=== TABLE 1 — Reproducibility of the Guidance Method 1 against Methods 2 and 3 at upright and Supine body posture ===
+
+Method 1 (Swallowing): 0.62 Reliability=76.54% (p=0.000 S, 0.05)
+Method 1 vs Method 3: 0.69 Reliability=81.65% (p=0.000 S, 0.05)
+Method 2 (Chin positioning): 0.79 Reliability=88.26% (p=0.000 S, 0.05)
+Method 2 vs Method 3: 0.78 Reliability=87.64% (p=0.000 S, 0.05)
+Method 2 vs Method 3: 0.79 Reliability=88.26% (p=0.000 S, 0.05)
+Method 3 (Gothic arch tracing): 0.98 Reliability=98.98% (p=0.000 S, 0.05)
+
+=== CONCLUSION ===
+
+The study confirms that swallowing, chin positioning, and gothic arch tracing are reliable methods for recording centric relation, with specific recommendations for the body posture during these recordings. Swallowing, while effective, is best performed in the upright position, whereas chin positioning shows higher reproducibility in the supine position. Gothic arch tracing remains a highly reliable method regardless of patient posture.
+
+Ethical clearance: Letter number G-148/IECDYPDS/2024, approved by ethical committee of DY PATIL Dental School.
+Conflicts of interest: None.
