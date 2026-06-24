@@ -1,0 +1,210 @@
+<!--
+---
+title: "치과불안 비약물 중재 의사결정 트리 (Dental Anxiety Non-Pharmacological Decision Tree)"
+type: interactive
+date: 2026-06-25
+status: done
+agenda: agenda/2026-06-25_dental-anxiety-nonpharm-decision-tree.md
+source_wiki:
+  - wiki/behavioral-dentistry/dental-anxiety/jkda-2021-60-1-003.md
+  - wiki/behavioral-dentistry/dental-anxiety/pediatric-2026-dental-anxiety-contemporary-assessment-management.md
+  - wiki/behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia.md
+  - wiki/behavioral-dentistry/dental-anxiety/barros-padilha-2023-virtual-reality-and-behaviour-management.md
+  - wiki/behavioral-dentistry/dental-anxiety/ghobadi-2024-effect-virtual-reality-reducing-patients.md
+  - wiki/behavioral-dentistry/dental-anxiety/alhomoud-2023-behavior-anxiety-levels-pediatric-patient.md
+  - wiki/behavioral-dentistry/dental-anxiety/pandey-2025-monitoring-patient-anxiety-pain-physiological-rct.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치과불안 비약물 중재 의사결정 트리</title>
+<style>
+  :root {
+    --bg: #f4f6f9; --card: #ffffff; --ink: #1a1a2e; --muted: #5a6478; --line: #e2e7ef;
+    --accent: #5a3d9a; --accent-soft: #ece6f7; --warn: #b4452b; --warn-soft: #fbe9e4;
+    --gold: #b8860b; --gold-soft: #fbf2dc; --ok: #2e7d52; --ok-soft: #e3f3ea;
+    --shadow: 0 2px 10px rgba(20,30,55,.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--ink); padding: 22px 16px 60px; min-height: 100vh; line-height: 1.55; }
+  .container { max-width: 760px; margin: 0 auto; }
+  header h1 { font-size: 1.4rem; letter-spacing: -.02em; }
+  header p { color: var(--muted); font-size: .9rem; margin-top: 6px; }
+  .crumb { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin: 18px 0 14px; font-size:.82rem; color:var(--muted);}
+  .crumb b { color: var(--accent); } .crumb span.sep { opacity:.5; }
+  .panel { background: var(--card); border:1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 20px; }
+  .q { font-size: 1.08rem; font-weight: 700; margin-bottom: 16px; }
+  .opts { display: grid; gap: 11px; }
+  .opt { text-align: left; background: var(--card); border:1.5px solid var(--line); border-radius: 11px; padding: 15px 16px;
+    cursor: pointer; transition: all .14s; font-size: .96rem; color: var(--ink); display:flex; flex-direction:column; gap:3px; width:100%; }
+  .opt:hover { border-color: var(--accent); background: var(--accent-soft); transform: translateY(-1px); }
+  .opt b { font-size: 1rem; } .opt small { color: var(--muted); font-size:.82rem; }
+  button.back { margin-bottom: 14px; background:none; border:1px solid var(--line); border-radius:8px; padding:7px 13px;
+    cursor:pointer; color:var(--muted); font-size:.85rem; transition:all .14s; }
+  button.back:hover { border-color: var(--accent); color: var(--accent); }
+  .leaf h2 { font-size:1.12rem; margin-bottom:4px; }
+  .leaf .sub { color:var(--muted); font-size:.85rem; margin-bottom:14px; }
+  .rec { border:1px solid var(--line); border-left:4px solid var(--accent); border-radius:10px; padding:12px 14px; margin-bottom:10px; }
+  .rec b { font-size:.97rem; } .rec .ev { display:block; font-size:.8rem; color:var(--muted); margin-top:3px; }
+  .rec .stem { font-size:.72rem; color:var(--accent); }
+  .esc { background: var(--warn-soft); border:1px solid #e9c4ba; border-left:4px solid var(--warn); border-radius:10px;
+    padding:12px 14px; margin:12px 0; font-size:.88rem; color:#7a2e1c; }
+  .esc b { color: var(--warn); }
+  .badge { display:inline-block; font-size:.68rem; font-weight:700; padding:2px 8px; border-radius:20px; margin-left:6px; vertical-align:middle; }
+  .badge.inf { background: var(--gold-soft); color: var(--gold); }
+  .badge.ev { background: var(--ok-soft); color: var(--ok); }
+  .note { background:#eef0f4; border-radius:9px; padding:10px 13px; font-size:.8rem; color:var(--muted); margin-top:10px; }
+  .common { margin-top:14px; }
+  .common h3 { font-size:.86rem; margin-bottom:7px; }
+  .common li { font-size:.83rem; color:var(--muted); margin-left:18px; margin-bottom:4px; }
+  .foot { font-size:.74rem; color:var(--muted); margin-top:22px; text-align:center; line-height:1.7; }
+  .restart { margin-top:16px; background:var(--accent); color:#fff; border:none; border-radius:9px; padding:10px 18px; cursor:pointer; font-size:.9rem; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>치과불안 비약물 중재 의사결정 트리</h1>
+    <p>연령 → 중증도 순으로 선택하면 근거 기반 비약물 옵션과 약물진정 escalation 지점을 안내합니다.</p>
+  </header>
+  <div id="crumb" class="crumb"></div>
+  <div id="app"></div>
+  <div class="foot" id="foot">
+    골격: jkda-2021(성인 phobia 단계 ladder — 유일한 명시적 중증도 단계) · 소아 비약물: pediatric-2026, barros-padilha-2023, alhomoud-2023 ·
+    성인 CBT/hypnosis: cernega-2022 · 성인 VR RCT: ghobadi-2024 · 스크리닝: pandey-2025.<br>
+    <span style="color:var(--gold)">⬤ inference</span> 배지 = 보유 논문에 직접 근거가 없는(추론) 분기. <span style="color:var(--ok)">⬤ evidence</span> = 논문 직접 근거.
+  </div>
+</div>
+
+<script>
+var state = { age: null, sev: null };
+
+var ASSESS = {
+  adult: "성인 평가: MDAS·STAI·DAS·VAS (cernega-2022, ghobadi-2024, pandey-2025). ※ 보유 논문에 mild/moderate/severe 수치 cut-off는 없음",
+  child: "소아 평가: Frankl·Venham·categorical (alhomoud-2023); 연령별 도구 선택 (pediatric-2026). ※ 수치 cut-off 없음"
+};
+
+function reqAdultSeverity() {
+  return [
+    { key:'mild', label:'경증 (Mild)', desc:'협조 가능, 회피 없음' },
+    { key:'mod', label:'중등도 (Moderate)', desc:'긴장·회피 경향, 시술 어려움' },
+    { key:'sev', label:'중증 · 공포증 (Severe/Phobia)', desc:'심한 회피·생리적 반응' }
+  ];
+}
+
+var LEAF = {
+  // ===== ADULT =====
+  'adult_mild': {
+    title:'성인 · 경증',
+    recs:[
+      { t:'의사소통 + 환경 개선 (음악·동행)', ev:'jkda-2021 ladder 1단계: 경증 → 의사소통·환경 개선; 시술 전 의사소통이 핵심', stem:'jkda-2021', badge:'ev' },
+      { t:'CBT (인지행동치료)', ev:'성인 SR+MA에서 모든 기법 중 가장 강력·일관된 근거(1회기 포함)', stem:'cernega-2022', badge:'ev' },
+      { t:'VR distraction (시술 중)', ev:'성인 RCT(임플란트수술): MDAS −4.548, STAI-S −3.452, NRS −1.712 (p<0.001); discrete-trigger 불안에 최적', stem:'ghobadi-2024', badge:'ev' }
+    ],
+    esc:null
+  },
+  'adult_mod': {
+    title:'성인 · 중등도',
+    recs:[
+      { t:'CBT (1회기 치료 포함)', ev:'성인 SR+MA: 가장 강력한 근거; 비약물 1차 권고', stem:'cernega-2022', badge:'ev' },
+      { t:'VR distraction (절차 중)', ev:'성인 RCT: 통증·불안 유의 감소, 90.4%가 재사용 희망. ※ 비통증 시술엔 효과 근거 약함', stem:'ghobadi-2024', badge:'ev' },
+      { t:'Hypnosis / audiotape self-hypnosis', ev:'SR+MA: 유망하나 매우 이질적(−4.30~6.20); audiotape가 GDP 실용적(10편 중 7편 유의)', stem:'cernega-2022', badge:'ev' }
+    ],
+    esc:'jkda-2021 ladder 2단계: 중등도 → conscious sedation (N2O, oral midazolam) 고려 — 비약물이 불충분하면 진정으로 escalation. 시술 전 충분한 협의 강조.'
+  },
+  'adult_sev': {
+    title:'성인 · 중증 · 공포증',
+    recs:[
+      { t:'CBT — dental phobia 치료선택', ev:'SR+MA: 한 연구는 CBT를 dental phobia의 treatment of choice로 명명', stem:'cernega-2022', badge:'ev' }
+    ],
+    esc:'jkda-2021 ladder 3단계: 중증 phobia → IV sedation 또는 전신마취(GA), 필요시 전원(referral). 비약물 단독으로는 대개 불충분 — 사전 충분한 협의 필수.'
+  },
+  // ===== CHILD =====
+  'child_mild': {
+    title:'소아 · 경증',
+    recs:[
+      { t:'Tell–Show–Do (TSD)', ev:'narrative review: TSD·modeling·보호자 지도·AV distraction·VR이 일관되게 불안↓·협조↑', stem:'pediatric-2026', badge:'ev' },
+      { t:'Modeling', ev:'동일 review의 일관 효과 목록', stem:'pediatric-2026', badge:'ev' },
+      { t:'보호자(guardian) 소통', ev:'아동·보호자 모두와 효과적 소통 + 행동관리 전략 적용 권고', stem:'alhomoud-2023', badge:'ev' },
+      { t:'Audiovisual distraction', ev:'review 일관 효과 목록', stem:'pediatric-2026', badge:'ev' }
+    ],
+    esc:null
+  },
+  'child_mod': {
+    title:'소아 · 중등도',
+    recs:[
+      { t:'몰입형 3D VR distraction', ev:'SR 22 RCT(n=2,558, ~5–12세): 불안·통증 감소, 타액 코르티솔↓(p<0.001). 경계: 비통증 시술엔 무효, IANB에선 tablet ≥ VR', stem:'barros-padilha-2023', badge:'ev' },
+      { t:'TSD · modeling · AV distraction 병용', ev:'기본 행동관리 지속 적용', stem:'pediatric-2026', badge:'ev' }
+    ],
+    esc:'소아 중증도→진정 단계 매핑은 보유 논문에 없음(추론). jkda-2021 ladder는 성인/phobia 기준 — 소아 진정/GA 결정은 별도 소아 진정 가이드라인 참조.',
+    escInf:true
+  },
+  'child_sev': {
+    title:'소아 · 중증',
+    recs:[
+      { t:'기본 비약물(TSD·modeling·VR) 시도 + 행동관리 강화', ev:'pediatric-2026 비약물 카탈로그; 단 중증 소아 전용 근거는 본 페이지들에 제한적', stem:'pediatric-2026', badge:'ev' }
+    ],
+    esc:'⚠️ 소아 중증 → 진정/전신마취 escalation은 보유 논문이 직접 다루지 않음(추론). 소아 진정·행동관리 전문 가이드라인/전문의 의뢰로 결정할 것. (참고: 성인 jkda-2021은 중증 phobia에 IV sedation/GA)',
+    escInf:true
+  }
+};
+
+var CHILD_INFNOTE = "주의: CBT·hypnosis는 성인 SR+MA(cernega-2022)의 근거이며 소아 적용은 본 자료에서 추론입니다 — 소아 옵션으로 제시하지 않습니다. 또한 어떤 페이지도 불안 척도의 수치 cut-off를 제공하지 않습니다.";
+
+function render() {
+  var app = document.getElementById('app');
+  var crumb = document.getElementById('crumb');
+  // breadcrumb
+  var c = ['<b>시작</b>'];
+  if (state.age) c.push('<span class="sep">›</span> ' + (state.age==='adult'?'성인':'소아'));
+  if (state.sev) { var sl={mild:'경증',mod:'중등도',sev:'중증'}; c.push('<span class="sep">›</span> ' + sl[state.sev]); }
+  crumb.innerHTML = c.join(' ');
+
+  // Step 1: age
+  if (!state.age) {
+    app.innerHTML = '<div class="panel"><div class="q">① 환자 연령대는?</div><div class="opts">' +
+      '<button class="opt" onclick="pick(\'age\',\'adult\')"><b>🧑 성인</b><small>성인 근거: jkda-2021 ladder · CBT/hypnosis · VR RCT</small></button>' +
+      '<button class="opt" onclick="pick(\'age\',\'child\')"><b>🧒 소아</b><small>소아 근거: TSD·modeling·AV·VR (pediatric-2026, barros-padilha-2023)</small></button>' +
+      '</div></div>';
+    return;
+  }
+  // Step 2: severity
+  if (!state.sev) {
+    var opts = reqAdultSeverity().map(function(s){
+      return '<button class="opt" onclick="pick(\'sev\',\''+s.key+'\')"><b>'+s.label+'</b><small>'+s.desc+'</small></button>';
+    }).join('');
+    var inf = (state.age==='child') ? '<div class="note">※ 중증도 단계 구분은 jkda-2021(성인 phobia 기준)에서 가져온 것으로, 소아 중증도→처치 매핑은 추론입니다. <span class="badge inf">inference</span></div>' : '';
+    app.innerHTML = '<button class="back" onclick="back(\'age\')">← 연령 다시 선택</button>' +
+      '<div class="panel"><div class="q">② 불안 중증도는?</div>' +
+      '<div class="note">'+ASSESS[state.age]+'</div><div class="opts" style="margin-top:12px">'+opts+'</div>'+inf+'</div>';
+    return;
+  }
+  // Leaf
+  var leaf = LEAF[state.age + '_' + state.sev];
+  var recs = leaf.recs.map(function(r){
+    return '<div class="rec"><b>'+r.t+'<span class="badge '+r.badge+'">'+(r.badge==='ev'?'evidence':'inference')+'</span></b>'+
+      '<span class="ev">'+r.ev+' <span class="stem">['+r.stem+']</span></span></div>';
+  }).join('');
+  var esc = leaf.esc ? '<div class="esc"><b>'+(leaf.escInf?'⬆ Escalation (추론) ':'⬆ Escalation ')+(leaf.escInf?'<span class="badge inf">inference</span>':'')+'</b><br>'+leaf.esc+'</div>' : '';
+  var childInf = (state.age==='child') ? '<div class="note">'+CHILD_INFNOTE+'</div>' : '';
+  var common = '<div class="common"><h3>모든 단계 공통</h3><ul>'+
+    '<li>과거 부정적 치과경험을 intake에서 스크리닝 — 높은 불안 예측(p=0.018) [pandey-2025]</li>'+
+    '<li>시술 후 정기 내원 + 구강보건교육으로 재발 방지 [jkda-2021]</li>'+
+    '<li>VR은 discrete-trigger(주사·진료실·"수술"이라는 말) 불안에 최적, 비통증 시술엔 효과 약함 [ghobadi-2024, barros-padilha-2023]</li>'+
+    '</ul></div>';
+  app.innerHTML = '<button class="back" onclick="back(\'sev\')">← 중증도 다시 선택</button>' +
+    '<div class="panel leaf"><h2>'+leaf.title+'</h2><div class="sub">권고 비약물 중재 (근거·출처 표기)</div>'+
+    recs + esc + childInf + common +
+    '<button class="restart" onclick="restart()">↺ 처음부터</button></div>';
+}
+function pick(k,v){ state[k]=v; render(); }
+function back(level){ if(level==='age'){state.age=null;state.sev=null;} else if(level==='sev'){state.sev=null;} render(); }
+function restart(){ state={age:null,sev:null}; render(); }
+render();
+</script>
+</body>
+</html>
