@@ -9,6 +9,8 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — Koyama 2025 · sr+ma · 하악 1 vs 2 임플란트 오버덴쳐: 생존율 5년까지 동등, 의치 파절·재제작·하우징 재부착은 1-IOD에서 ~2배 (DOI 10.1186/s40729-025-00647-1)
+- [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — Chappuis-Chocano 2023 · sr+ma · CAD-CAM 밀링 bar 오버덴쳐 10편: 임플란트 생존 ~100%, 밀링 티타늄 bar 합병증 최소·OHIP 최상, 폴리머 bar는 임플란트주위염 신호 (DOI 10.1590/1678-7757-2023-0054)
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
 - [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
 - [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
@@ -828,6 +830,7 @@ tags: []
 - [[veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]] — Gonzalez-Martin 2024 in-vitro pilot SEM: HF etching time for ultrathin feldspathic veneers — 120 s (platinum foil) vs 90 s (refractory die) optimal (Int J Periodontics Restorative Dent)
 
 ## 치과재료 (Dental Materials)
+- [[dental-materials/schenkel-2019-dental-cavity-liners-composite-restorations-sr]] — Schenkel 2019 · sr+ma · 라이너를 컴포지트 밑에 깔아도 술후 과민증·수명 개선 근거 없음(low-quality) → 라이너 통상 사용 적응증 약함 (DOI 10.1002/14651858.CD010526.pub3)
 - [[dental-materials/mukaibo-2026-peek-plasma-mma-luting-bond-strength]] — Mukaibo 2026 · in-vitro · PEEK에 MMA계 luting(Super-Bond·Beautylink) 접착 — 샌드블라스팅+플라즈마 표면처리가 결합강도·내구성 향상 (DOI 10.3390/bioengineering13050507)
 - [[dental-materials/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] — Seung-Eun Lee 2023 (대한치과의사협회지) · in-vitro · Cention N(alkasite) vs Fuji IX GP·Fuji II LC: 3개월 지속 불소 유리 + 항균성 보유, pH 최고; 단 S. mutans 항균력은 GIC보다 낮고 불소 유리량은 Fuji IX GP가 최다
 - [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] — 후향적 빅데이터(이스라엘 Maccabi, 650k명, 2014–2021): 아말감 연간실패율 3.5% vs 레진 4.5%; HR 1.29; 다면 수복에서만 유의한 차이
@@ -885,6 +888,7 @@ tags: []
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
 
 ## 글래스아이오노머 (Glass Ionomer)
+- [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — Sokolowski 2018 · in-vitro · 이온유리 수복재 10종 광탄성 응력 평가, Ionosit(컴포머) 최고 수분흡수·56일 후 팽창응력 (DOI 10.3390/polym10101093)
 - [[glass-ionomer/ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct]] — Ali Eldin 2026 · rct(유구치 124, Class II, 12mo) · HVGIC(EQUIA Forte HT) vs 지오머 주입형 컴포지트: 임상성공 88.3% vs 93.4% 동등(NS)·기능/생물학 FDI 동등, 지오머는 심미(광택 p=.002·색조 p<.001)만 우위; 우식재발·과민 0 (DOI 10.1186/s12903-026-08509-x)
 - [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] — narrative review(J Dent Sci 2024): WHO 필수의약품(2021) 등재 후 GIC 임상 적응증 종합; 수복·luting·sealant 근거 충분, liner/base는 논쟁
 - [[glass-ionomer/durrant-2024-gic-load-bearing-restorations-sr]] — SR(RCT 12편, Med Sci Monit 2024): 하중부(Class I/II) GIC가 여러 임상 지표서 기존 재료와 비교 가능
@@ -1503,6 +1507,9 @@ tags: []
 - [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
 
 ## 우식 (Caries)
+- [[caries/schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma]] — Schwendicke 2021 · sr+ma · 우식조직 절삭전략 코크란 NMA, 깊은우식서 완전절삭(CR) 실패최다·SE/SW/HT 우수, 유치 HT 우월 (DOI 10.1002/14651858.CD013039.pub2)
+- [[caries/rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma]] — Rashed 2022 · sr+ma · 레진 치면열구전색 vs 불소바니시, 제1대구치 우식예방 2년 시점 유의차 없음(RR 0.65); 더 싼 불소바니시 권장 (DOI 10.1155/2022/8635254)
+- [[caries/banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review]] — BaniHani 2021 · sr · 유치 상아질 우식 MID 우산리뷰(SR 18편): SDF·Hall·선택적제거·ART 권장, fissure sealant은 비권장 (DOI 10.1007/s40368-021-00675-6)
 - [[caries/bhandari-2026-saliva-substitute-fluoride-varnish-radiation-caries-rct]] — Bhandari 2026 · rct · 3군 RCT(n=482 두경부암 방사선치료): 타액대체제·불소바니시·병용 모두 DMFS 유의 증가(P<0.05)·군간차 없음 → 단독으로 방사선우식 진행 억제 못함, 다요소 접근 필요 (DOI 10.1007/s00520-026-10909-2)
 - [[caries/mohamed-2026-preformed-metal-crowns-conventional-vs-hall-rct]] — Mohamed 2026 · rct · 12개월 RCT(n=80 유구치): 기성금속관(PMC) 전통법 vs Hall법 모두 성공·생존 100%; Hall 교합거상은 1개월 내 해소 (DOI 10.1016/j.jdent.2026.106686)
 - [[caries/gizani-2026-restorative-mih-primary-permanent-molars-sr]] — Gizani 2026 · sr · MIH 유·영구 대구치 수복 SR(20편): 성공률 84%(12mo)→83%(36mo), GIC 최저(53%)·PMC/세라믹 최고(100%); 메타분석 불가 (DOI 10.1007/s40368-026-01221-y)
