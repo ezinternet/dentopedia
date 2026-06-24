@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/javed-2013-primary-stability-osseoint
 pdf_filename: javed-2013-primary-stability-osseointegration-factors-influence.pdf
 source_collection: external
 tags: []
+relations:
+  - type: reinforces
+    target: rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric
 ---
 
 ## One-line Summary
@@ -52,3 +55,4 @@ Narrative literature review. MEDLINE–PubMed searched 1983 to October 2013 usin
 
 - [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] — later ISQ-focused review; reinforces and updates the ISQ interpretation/thresholds this 2013 paper cites.
 - [[overviews/implants-isq-stability-ladder]] — synthesis page; this paper supplies the primary→secondary stability ladder and the bone/design/surgical-technique determinants.
+- [[implants/versah-protocols/rittipakorn-2025-clockwise-osseodensification-primary-stability-cadaveric]] — cadaveric study; this paper is its foundational reference for *why* primary stability matters (prerequisite for osseointegration) and *how* it is measured (insertion torque, ISQ/RFA). Rittipakorn's clockwise-OD insertion-torque/ISQ data empirically reinforce the three-factor (bone/design/surgical-technique) framework set out here.
