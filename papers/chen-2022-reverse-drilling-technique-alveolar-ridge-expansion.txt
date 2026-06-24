@@ -1,0 +1,62 @@
+Application of reverse drilling technique in alveolar ridge expansion
+Chen C-C, Jeng M-D. J Dent Sci. 2022;17:1180-1184.
+DOI: 10.1016/j.jds.2022.01.002 | PMID: 35784168 | PMCID: PMC9236936
+
+ABSTRACT
+
+Background/purpose
+Recently, there is a new model adjustment in the osteotomy preparation named osseodensification. This study focused on the ridge expansion results based on reversed drilling technique regarding osseodensification technique and the modified method.
+
+Materials and methods
+Twenty-seven samples were fabricated from sawbones, tailored into three different widths: 6.75 mm, 7.25 mm, and 7.75 mm, and drilled by three different protocols: osseodensification bur with 1500 rpm reverse torque, triple-bladed drill with 200 rpm reverse torque, and triple-bladed drill with 1600 rpm standard forward turning; each group contained three samples. After implants were screwed into the sawbones over 5mm or till the bone fractured, the width change of the bone was measured, the insertion depth of the implant was calculated, and the fracture of the bone was also recorded for comparison.
+
+Results
+The result showed that in narrow bone width (6.75 mm) the enlargement of bone thickness showed significant difference among the groups (< 0.05); both reverse torque group expressed a higher expansion result, but in the paired comparison, only osseodensification bur expanded the ridge significantly better than the standard drilling sequence. However, implant insertion depth of osseodensification group was significantly less than those of other two drilling protocols (0.005). Even though the bone fracture happened least in the standard drilling sequence, there is no difference among the groups.
+
+Conclusion
+The counter-clockwise rotating method possesses the ability to expand bone ridge but lead to a higher stress in the bone structure, which may affect the insertion depth of the implants.
+
+---
+
+FULL TEXT
+
+Introduction
+
+Drills are used to perform osteotomy in the alveolar bone during dental implant surgery. Abundant bone dust will be produced during the process. It seems disgrace to wash away these precious autogenous bones with cooling water. There have been numerous methods in the past trying to collect these bone dust, for example, the bone trap connected to the saliva tube to collect bone chips from suction, or a low speed drilling without irrigation to collect the bone chips.
+
+Recently, there is a new model adjustment in the osteotomy preparation named osseodensification, which was designed through a counterclockwise rotation using uniquely designed burs that promotes lateralization of autogenous bone into the surrounding cancellous structure and expands the surrounding osseous environment to provide three major effects. First, it claims to collect these bone dust on the spot and fill them around the implant socket in the purpose of increasing bone density and increasing the initial stability of the implant. Second, because of reverse drilling technique, it has the effect of alveolar ridge split at the same time. Third, if it is used in the posterior area of the upper jaw, it can push the collected bone particles into the maxillary sinus and achieve the effect of sinus lifting simultaneously.
+
+Meanwhile, another protocol of modified osseodensification using common cylinder drills with triple straight blades in a low speed sequence also proposed to possess a similar effect on ridge expansion. Therefore, the purpose of this experiment was to study the ridge splitting effect of the reverse drilling technique by means of drilling and implantation into simulated bone material. Osseodensification and modified osseodensification were compared for the effect on bone expansion.
+
+Materials and methods
+
+This study used sawbones block 35 PCF (Sawbones Inc, Vashon Island, WA, USA) as a simulated bone material to eliminate the difference in quality and density of natural bones. The sawbones blocks were cut into bone plates with a thickness of 5 mm, a length of 40.5 mm and different widths of 6.75, 7.25, and 7.75 mm, respectively. The size error is controlled within ± 0.05 mm. Different sample widths represented different alveolar bone ridge widths. We marked the center point with a pencil on the plane, step by step drilled the implant site at the central point, and then placed the implant in every sample. Nine samples of each size were made.
+
+For osteotomy, at the first step a Lindemann drill with 1600 rpm forward torque was used, and then the samples were drilled by three different protocols: a Densah bur (Versah, Jackson, MI, USA) with 1500 rpm reverse torque (osseodensification group), a triple straight blade bur with 200 rpm reverse torque (modified osseodensification group), and the same triple-bladed drill with 1600 rpm forward torque (standard group). For standardization of the osteotomy, the diameter of the final drill of each group was 4.5 mm.
+
+The IDEOSS implants (IDEOSS, Taipei, Taiwan), which had the dual sandblasted and anode oxidized surface promising clinical outcomes, were used in the study. All the implant size was 5.0 mm in diameter and 8.0 mm in length. IDEOSS implants of φ5 x 8 mm were screwed at the center of the pencil marks, until the implant depth reached 5 mm, or until the bone fractured. Then, the changes in the width of the bone block were measured by a digital vernier caliper. The results were used to compare the effect of ridge expansion. The insertion depth of the dental implant into the sawbone was calculated to compare the drilling ability of different methods. Moreover, we also compared whether the bone fractured or not.
+
+Statistically, ANOVA was used to analyze implant insertion depth and the changes of bone block width. Tukey's test was used for pairwise comparison. The success rate of implant surgery was determined by chi-square test.
+
+Results
+
+As a result of ridge expansion, a Densah bur had a better ridge expansion effect than the third group (a triple bladed drill with clockwise rotation), but it was limited to the condition of the ridge width of 6.75 mm. The effect was not obvious in the cases of wider ridge width (7.25 mm and 7.75 mm), and there was no significant difference between the Densah bur's group and the second group (triple blade drill with counterclockwise rotation).
+
+For the comparison of implant insertion depth, different combinations of drills and rotation speeds were considered in statistics. It was found that when using the Densah burs, implants were inserted at a shallower depth, reaching a statistically significant difference. Although bone fractures were least observed in the third group, the number of bone fractures caused by implant insertion did not differ significantly among the groups.
+
+Discussion
+
+In terms of bone expansion, when the width of the sawbone was compact (6.75 mm), Densah burs with counterclockwise rotation and triple-bladed drills with counterclockwise rotation both could cause bone expansion. However, the counterclockwise rotation of the Densah burs had a significant effect on expanding the alveolar bone only when compared to the standard penetrating speed with clockwise rotation.
+
+When autografts are harvested from the jaw bones, to a large degree, the bone cells vitality are affected by the different harvesting techniques. Studies have shown that the cell viability or activity of bone samples obtained by manual instruments or by low-speed drilling (200 rpm, without irrigation) is higher than that obtained by standard implant drilling process (speed >800 rpm with copious irrigation), by ultrasonic bone knife (piezosurgery), or by a bone trap. The cells in the bone fragments obtained by the former manners express a higher amount of growth factors, including bone morphogenetic protein 2 (BMP-2) and vascular endothelial growth factor (VEGF), and it presents better mineralization effect after differentiating medium induction. Thus, the autografts harvested by the low-speed drilling sequence using in the titanium mesh-guided alveolar ridge augmentation are critical for the formation of new bone by osteoblasts. In this experiment, the 200 rpm without copious irrigation mode was used to simulate the clinical osteotomy method to expand the bone ridge.
+
+When the bone ridge was wider, the effect of bone expansion by Densah burs was less obvious, and the implant insertion depth was even lower than that of the common forward rotation protocol. When the bone ridge was wider than 7.25 mm, the difference between different drills and different drilling methods cannot be distinguished.
+
+The modified osseodensification method and standard drilling procedure both expressed a significantly higher implant placement depth than the osseodensification did. It showed that when using standard drilling setting or modified osseodensification, the implant needed to be placed deeper to cause the fracture of the bone ridge. Thus, it had better drilling results and was optimal for implant placement. On the other hand, Densah bur had the ability to compact the bone, and removed less bone volume. Although it could expand the bone ridge, the elasticity of the bone ridge itself caused the preparation site bounce back, and resulting in smaller diameter of the preparation site. As this study represented, the depth of implant placement was relatively shallow.
+
+Regarding the implant survival rate, the standard drilling sequence caused less possibility of bone fractures, enabling more implants to be stably placed in the bone model, especially in wider bone ridges. When there was no need for bone expansion, using conventional drilling pattern recommended by the original manufacturer could reduce the chance of bone fracture.
+
+This experiment only focused on the bone expansion. The effect of maxillary sinus lifting and bone compression from osseodensification necessitates more experiments and studies to verify.
+
+Declaration of competing interest
+Dr. Ming-Dih Jeng is the shareholder of IDEOSS Biotech Inc., Taipei, Taiwan. The other author has no conflicts of interest relevant to this article.
