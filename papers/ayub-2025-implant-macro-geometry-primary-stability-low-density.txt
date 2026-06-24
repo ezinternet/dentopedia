@@ -1,0 +1,78 @@
+The Influence of Implant Macro-geometry in Primary Stability in Low-Density Bone: An In Vitro Study
+Ayub FA, Sunarso S, Dewi RS. J Int Soc Prev Community Dent. 2025;15:134-43.
+DOI: 10.4103/jispcd.jispcd_155_24 | PMID: 40433430 | PMCID: PMC12105814
+
+ABSTRACT
+Aim: This study assessed the primary stability of implants featuring various geometries in polyurethane bone blocks simulating low-density bone types 3 and 4.
+Methods: The study included 36 implants divided into three groups (Straumann BLT, n=12; Zimmer TSV, n=12; and Dentium Superline [DSL], n=12). Implants featuring three different thread designs, a tapered body, a diameter of 4.0-4.1 mm, and a length of 10 mm were inserted into polyurethane bone blocks (20 and 15 PCF) to simulate bone types 3 and 4. Primary stability was evaluated using implant stability quotient (ISQ), insertion torque (IT), and removal torque (RT). IT and RT were compared using ANOVA, while ISQ was analyzed using the Kruskal-Wallis test. A value < 0.05 was considered statistically significant.
+Results: For bone type 3, the highest IT (30.21 +/- 1.38 N cm) and RT (23.25 +/- 2.30 N cm) value were observed for the Zimmer TSV, and the highest ISQ values (63.29 +/- 0.54) were observed for DSL. For bone type 4, the highest IT (18.07 +/- 1.71 Ncm) and RT (14.48 +/- 1.81 Ncm) values were observed for the Zimmer TSV, and the highest ISQ values (58.46 +/- 0.78) were observed for the DSL. The ISQ, IT, and RT values of the implant groups were significantly different (< 0.001).
+Conclusions: Implant geometry and bone density were key factors influencing primary stability in this study. The outcomes of the present study may help clinicians make decisions, especially when dealing with bone that has a less favorable quality. These findings may have important clinical implications related to immediate or early loading protocols, highlighting the critical role of implant design in attaining sufficient stability.
+
+INTRODUCTION
+Implant osseointegration is the direct bond between the implant and bone, influenced by primary and secondary stability. Primary stability derives from the mechanical connection between the implant and osseous walls, whereas secondary stability emerges as new bone is generated throughout the healing process. Implant stability is affected by bone density, implant geometry, and surgical techniques, with bone density being key to long-term success. It is crucial to select implants with specific geometries and thread configurations to attain optimal primary stability in cases of poor bone quality or immediate implant placement. Low bone density increases the risk of early implant failure. The posterior maxillary region is clinically characterized by a lower bone density. Achieving primary stability in cancellous bone, frequently found in the posterior maxilla, may be challenging, and this is related to an increased risk of failure. Tapered implants demonstrate superior primary stability vs cylindrical, as evidenced by clinical and in vitro investigations. Titanium and its alloys are the most commonly used implant materials. PEEK and zirconia are gaining popularity. Polyurethane materials are often used as synthetic bones to replace human bone in implant studies. Polyurethane bone blocks are preferred for performing comparative mechanical tests on various implant designs due to their uniform characteristics and homogeneity, and can be produced in various densities and thicknesses.
+
+This study aimed to evaluate the primary stability of three dental implant geometries by measuring ISQ, insertion torque (IT), and removal torque (RT) values to determine the best option for low-density synthetic bone representing the human posterior jaw structure. The null hypothesis was that there were no significant differences in IT, ISQ, and RT values across implant geometry in low-density bone.
+
+MATERIALS AND METHODS
+Three groups of implants based on design: Straumann BLT (SBLT), Zimmer TSV (ZTSV), and Dentium Superline (DSL). Implants selected were recommended by the manufacturer for use in low-density bone and immediate loading. A hole was drilled into the polyurethane bone block following the manufacturer's instructions. After drilling, the implant was placed, and maximum IT, ISQ, and RT values were measured. All implants inserted by a clinician according to manufacturer's protocol.
+
+GEOMETRIC CHARACTERISTICS (Table 1):
+- Implant body: all Tapered
+- Body diameter: SBLT 4.1 / DSL 4.0 / ZTSV 4.1 mm
+- Apical diameter: SBLT 1.8 / DSL 3.8 / ZTSV 3.5 mm
+- Length: all 10 mm
+- Thread: SBLT single / DSL double / ZTSV triple-thread
+- Thread shape: SBLT reverse buttress / DSL reverse buttress / ZTSV V shape
+- Thread pitch: SBLT 0.8 / DSL 1.8 / ZTSV 0.6 mm
+- Thread depth: SBLT 0.3 / DSL 0.40 / ZTSV 0.36 mm
+- Micro-thread: SBLT none / DSL none / ZTSV yes
+- Self-cutting: SBLT yes / DSL yes / ZTSV none
+
+POLYURETHANE: ASTM F-1839-08 recognizes polyurethane as a standard material for bone simulations and orthopedic implant evaluation. Two densities of rigid polyurethane bone blocks (SYNBONE SDN BHD, Malaysia): 20 PCF (0.35 g/cm3) and 15 PCF (0.24 g/cm3), corresponding to bone types 3 and 4 respectively. Blocks rectangular, 5 cm x 5 cm x 5 cm. A controlled drilling and testing machine ensured precise drilling.
+
+IT/RT: IT (N cm) is the maximum force in clockwise direction causing bone stripping. RT (N cm) is the force required to remove the implant from the bone. IT and RT measured with a testing machine by Hung Ta Instrument Co., Ltd.
+
+RFA: Primary stability assessed using RFA device with MultiPeg (Osseo 100+, NSK, Japan). ISQ 0-100. RFA conducted twice per specimen in buccal and mesial, average ISQ computed. Calibration with a 4x10-mm implant in same bone block.
+
+SAMPLE SIZE: Based on study by Soror, effect size f=0.57, alpha 0.05, beta 0.2, power 80% -> 33 samples, increased 10% -> 36 samples, 12 per group. G*Power 3.1. IT and RT analyzed by one-way ANOVA, ISQ by Kruskal-Wallis with post hoc. SPSS 22.
+
+RESULTS
+IT, RT, and ISQ values differed significantly across groups (all < 0.001).
+- ZTSV had highest IT, then SBLT, DSL lowest.
+- ZTSV highest RT, then SBLT, DSL lowest.
+- DSL highest ISQ, then SBLT, ZTSV lowest.
+
+Table 2 (mean +/- SD):
+Bone Type 3:
+  IT: SBLT 26.50+/-2.36 / ZTSV 30.21+/-1.38 / DSL 22.90+/-1.60 (p<0.001)
+  RT: SBLT 21.43+/-1.59 / ZTSV 23.25+/-2.30 / DSL 14.23+/-2.33 (p<0.001)
+  ISQ: SBLT 61+/-0.52 / ZTSV 60.88+/-0.38 / DSL 63.29+/-0.54 (p<0.001)
+Bone Type 4:
+  IT: SBLT 10.93+/-0.34 / ZTSV 18.07+/-1.71 / DSL 10.37+/-1.15 (p<0.001)
+  RT: SBLT 8.86+/-1.02 / ZTSV 14.48+/-1.81 / DSL 6.34+/-0.74 (p<0.001)
+  ISQ: SBLT 57.33+/-1.05 / ZTSV 55.70+/-0.58 / DSL 58.46+/-0.78 (p<0.001)
+
+Table 3 post hoc highlights (non-significant pairs): IT SBLT vs DSL type 4 (p=0.337); RT SBLT vs ZTSV type 3 (p=0.126); ISQ SBLT vs ZTSV type 3 (p=0.270). All others significant.
+
+Table 4 (correlation R between stability and bone density, all implant types):
+  IT: SBLT 0.959 / ZTSV 0.943 / DSL 0.957
+  RT: SBLT 0.960 / ZTSV 0.830 / DSL 0.850
+  ISQ: SBLT 0.842 / ZTSV 0.968 / DSL 0.934
+Significant positive correlation between primary stability and bone density across all implant types; higher bone density associated with increased stability.
+
+DISCUSSION
+Hypothesis rejected; primary stabilities of the different implant systems were not equal. In dense bones implants attain similar initial stability regardless of design, but in less dense bones design differences affect primary stability. Thread geometry (shape, width, depth, pitch, face angle) affects biomechanical load distribution. V-shaped and reversed buttress threads convert axial forces into shear/tensile/compressive forces. FEA: V-shaped threads and broader square threads generate less stress than narrow square threads in cancellous bone; V-shaped threads (30 deg) generate higher shear than reverse buttress (15 deg).
+
+ISQ order (both bone types): DSL > SBLT > ZTSV. DSL ISQ significantly higher, probably related to double thread and 0.4 mm thread depth increasing functional surface area and bone contact (consistent with Reinaldo, Cucinelli, Menini: deeper threads -> higher ISQ / primary stability, useful in immediate loading). DSL contains a self-cutting blade in the half-apical part; self-cutting blade designs offer improved initial stability, recommended for osteoporotic/type 4 bones (aligns with Falco).
+
+IT order: ZTSV > SBLT > DSL. Optimal IT ranges 30-35 N/cm in low-density bone associated with bone growth and bone-implant contact. Micromotion should be 10-150 um. ZTSV highest IT (type 3 mean 30.21, type 4 mean 18.07), result of triple-thread design and smaller thread pitch. Double/triple-threaded implants insert faster, greater primary stability, suitable for immediate loading. Smaller thread pitch -> larger contact area -> enhanced mechanical interlocking and increased insertion resistance (consistent with Yamaguchi, Soror, Benalcazar-Jalkh: larger surface area -> higher IT).
+
+RT: positive correlation with IT. DSL low RT may relate to self-cutting apical design (Tumedei: lower RT with half-apical self-cutting blades). RT lower than IT for all systems, possibly due to deformation/compression of adjacent bone from lateral forces during placement.
+
+Recent clinical context: Supachaiyakit (tapered > cylindrical ISQ in low-density bone); Barbosa RCT (V-shaped threads better primary stability than square); Olmedo-Gaya (under-preparation technique -> superior IT and ISQ in posterior maxilla). Clinical suggestion: tapered implants with deeper threads and double/triple-thread features for reduced bone density, particularly posterior maxilla. Implants without self-cutting blades exhibited higher IT. Use IT and RFA as reference tools for monitoring short-term changes. Clinical implications are exploratory; future research must validate biomechanically.
+
+Osteoporosis is a risk factor for osseointegration. Hormones (PTH, growth hormone, estrogens/androgens) impact bone metabolism. CBCT facilitates bone density/quality assessment before placement. Customized patient-specific implants based on bone density profile proposed.
+
+LIMITATIONS: Polyurethane does not fully mimic biological/structural complexity of human bone (no remodeling, no osteocytes/vessels/mineralized matrix). Clinical factors (cortical thickness, anatomical variation, surgical technique, surgeon experience, patient systemic factors) not captured. Only primary stability investigated; secondary stability and cellular responses not assessed. Further clinical trials required.
+
+CONCLUSION: ZTSV implants had the highest IT and RT for bone types 3 and 4; DSL implants had the highest ISQ. Cannot be generalized to clinical practice until further clinical investigations. Tapered implants with deeper, more aggressive threads and double/triple-thread designs are advised, particularly for compromised bone quality.
