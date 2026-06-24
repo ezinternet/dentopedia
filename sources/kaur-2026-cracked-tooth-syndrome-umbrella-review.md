@@ -2,8 +2,10 @@
 title: "Saving the split: An umbrella review on therapeutic approaches for cracked tooth syndrome"
 authors: Supreet Kaur, Lakshmi Puzhankara, Neetha Shenoy, Sandya Kini K, Deepak Kumar Singhal
 year: 2026
-doi: 10.4103/JCDE.JCDE_404_25
-journal: Journal of Conservative Dentistry and Endodontics 29(1):11-?
+doi: 10.4103/JCDE.JCDE_796_25
+pmid: "41660023"
+pmcid: "PMC12880780"
+journal: Journal of Conservative Dentistry and Endodontics 29(1):11-19
 category: [cracked-tooth]
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2026-cracked-tooth-syndrome-umbrella-review.pdf
 pdf_filename: kaur-2026-cracked-tooth-syndrome-umbrella-review.pdf
