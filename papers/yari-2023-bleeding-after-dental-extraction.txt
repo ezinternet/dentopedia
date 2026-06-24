@@ -1,0 +1,40 @@
+Title: Bleeding After Dental Extraction in Patients Undergoing Percutaneous Coronary Intervention During Uninterrupted Single and Dual Antiplatelet Therapy
+
+Authors: Amir Yari; Hassan Rajabi Moghadam; Mahdi Erfanian Taghvaei; Mina Asadi Keshe; Paniz Fasih
+
+Journal: Journal of Maxillofacial and Oral Surgery (J Maxillofac Oral Surg), 2023; Vol 23, Issue 2, pp. 430-435.
+Publication date: 2023-12-14
+DOI: 10.1007/s12663-023-02036-w
+PMID: 38601241
+PMCID: PMC11001840
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC11001840/
+
+Affiliations:
+- Department of Oral and Maxillofacial Surgery, School of Dentistry, Kashan University of Medical Sciences, Kashan, Iran.
+- Department of Cardiovascular Medicine, School of Medicine, Kashan University of Medical Sciences, Kashan, Iran.
+- School of Medicine, Kashan University of Medical Sciences, Kashan, Iran.
+- Department of Prosthodontics, Dental Research Center, School of Dentistry, Kashan University of Medical Sciences, Qotb Ravandi Street, Kashan, Iran.
+
+Keywords: Antiplatelet drugs; Aspirin; Bleeding; Clopidogrel; Tooth extraction.
+
+Article type: Journal Article (prospective clinical study).
+
+=====================================================================
+ABSTRACT (verbatim — retrieved via PubMed/PMC; PMC full text not available, abstract-only)
+=====================================================================
+
+Purpose
+This study aimed to assess bleeding risk after exodontia in patients with recent percutaneous coronary intervention during uninterrupted single or dual antiplatelet therapy.
+
+Study design
+A total of 100 patients who had a history of percutaneous stent insertion during the past year candidate for extraction of teeth were included in the study. Fifty patients took aspirin 100 mg (monotherapy group), and 50 patients took a combination of aspirin 100 mg and clopidogrel 75 mg (dual therapy group). After exodontia, the bleeding status was categorized as "complete hemostasis," "persistent bleeding," and "delayed bleeding." Personal data, underlying diseases, number of teeth and roots extracted, and type of procedure required for exodontia were statistically analyzed.
+
+Results
+No significant difference was observed in the status of bleeding between the two groups regarding sex, age, underlying diseases, number of teeth and roots extracted, and type of procedure (> 0.05). 39/50 (78%) of monotherapy patients and 32/50 (64%) of dual therapy patients achieved complete hemostasis. Persistent bleeding was noted in 11/50 (22%) of monotherapy participants, and 14/50 (28%) of dual therapy patients. Only 4/50 (8%) of dual therapy patients experienced delayed bleeding. However, these differences were not significant (= 0.08). All persistent and delayed bleeding was easily controlled via local measures.
+
+Conclusion
+Simple or complicated extraction of multiple teeth can be performed safely during the first year after percutaneous coronary intervention without interruption of antiplatelet therapy.
+
+=====================================================================
+NOTE: PMC full-text body was not retrievable (get_full_text_article returned empty full_text). This text file contains the verbatim abstract + bibliographic metadata only. sources/ and wiki/ pages carry full_text: false accordingly.
+=====================================================================
