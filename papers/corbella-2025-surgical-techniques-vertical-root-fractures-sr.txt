@@ -1,0 +1,63 @@
+The Efficacy of Surgical Techniques for the Management of Confirmed Vertical Root Fractures: A Systematic Review
+Corbella S, Taschieri S, Tsesis I, Goldberger T, Francetti L, Rosen E. Aust Endod J. 2025.
+PMID 39891472 | PMCID PMC11997295 | DOI 10.1111/aej.12923 | PROSPERO CRD42024524356
+
+ABSTRACT
+The aim of the present systematic review was to evaluate the efficacy of surgical techniques for the preservation of a tooth with VRF. We included case series presenting techniques for the treatment of VRFs. Both electronic sources (MEDLINE, EMBASE, Cochrane Central) and reference lists/table of contents of pertinent journals were screened. Eight articles (six studies) were included. Four of the studies bonded the fractured fragments with 4-META/MMA-TBB resin, one adopted MTA, and in one study the authors used resin-ionomer cement. There was significant heterogeneity in the results regarding teeth survival rate and it was not possible to perform a quantitative synthesis. Scientific evidence concerning the treatment of vertically fractured roots is sparse and of low quality. Consequently, it is not possible to draw conclusions regarding the efficacy of the reported techniques. More studies with higher scientific standards may add validity to the techniques described here. CRD42024524356 in PROSPERO
+
+1 INTRODUCTION
+Vertical root fractures (VRFs) can be defined as axial fractures involving all the structures of the tooth root, namely the cementum, the dentin and the root canal system. The lesion may originate in either the apical or cervical regions of the root, depending on the causal factor, and may be incomplete (only one side of the root), or complete (both sides). VRFs usually occur in the bucco-lingual direction but they may also be oriented in the mesio-distal direction. The damage may evolve into a split tooth, with complete separation of the tooth structure.
+
+The presence of post restoration, the amount of residual dentin, and other factors related to tooth anatomy have all been described as possible predisposing risk factors for VRFs. However, a recent systematic review concluded that there is currently insufficient evidence for the influence of local and systemic factors (gender, tooth location and type, tooth restoration) on the development of the condition. Although VRFs occur primarily in endodontically treated teeth, they have also been described, albeit rarely, in vital teeth. There is some evidence that maxillary premolars and molars are more prone to develop VRFs than other teeth.
+
+The diagnosis of VRF can be challenging. The most characteristic clinical sign of VRF is a deep, narrow and isolated periodontal probing depth, not due to other conditions, which follows the fracture itself. Tamse et al. (1999) described radiographic characteristics: 'halo' radiolucency, and an apico-lateral (J-shaped) radiographic lesion. CBCT accuracy does not support routine use for VRF diagnosis. Confirmation may be achieved through direct visualisation after surgical flap elevation or after extracting the affected root.
+
+Single-rooted teeth with VRF are often considered a 'hopeless' clinical situation. No systematic meta-analysis of surgical techniques for management of roots with VRF was found in the literature. The present systematic review was designed to fill this gap.
+
+2 METHODS
+Protocol registered in PROSPERO (CRD42024524356); PRISMA-compliant; followed Cochrane Handbook 2nd Edition.
+Eligibility: case reports and studies reporting fewer than five treated patients were excluded.
+Sources: MEDLINE (OVID), EMBASE, Cochrane Central; grey literature (Greylit, OpenGrey); trial registers; manual search of pertinent journals (issues since 2000). No language restrictions. Last electronic search 5 January 2024.
+Selection: two authors (ST, SC) independently screened; disagreement resolved by third reviewer (ER); concordance by Cohen's kappa.
+Risk of bias: JBI Critical Appraisal Tool for case series.
+Data synthesis: comparative meta-analysis not feasible; qualitative/single-study synthesis only.
+
+3 RESULTS
+Eight articles (six studies) included; all case series, two with comparative data. In Sugaya, only the surgical group (extraction, repair, replantation) was considered. Two studies Japan, two USA, one Italy, one Taiwan. Two university setting, two private clinic.
+
+The fractured fragments in FOUR studies were bonded with 4-META/MMA-TBB resin, compared to MTA in one study, and resin-ionomer cement in the last study. Four studies described a technique for VRF repair WITHOUT extraction.
+
+Quality assessment: items most negatively affecting quality were lack of complete demographic information and depth of statistical analysis (limited by low subject numbers). All studies but one did not report presence/absence of symptoms.
+
+Hayashi et al. (2002, 2004): compared managing VRF by extracting vs not extracting fragments (extraoral vs intraoral bonding). 8 of 26 initially treated teeth (7 bonded after extraction then replanted, 1 bonded without extraction) failed after mean follow-up 34.9 months. Significantly lower success for posterior teeth and teeth with longitudinal fractures extending more than 2/3 from the cervical portion. Techniques used 4-META/MMA-TBB dentin-bonded resin. 6 successes, 12 functional with periapical lesion.
+
+Sugaya et al. (2001): extraoral bonding of fractured fragments with 4-META/MMA-TBB resin. 9 of 12 treated teeth still functional after 22 months, good prognosis. Mean probing depth reduced from 7.4 mm pre-treatment to 4.6 mm by 6 months; bleeding scores from 91% to 8.3%; radiographic bone level increased from 18.8% to 29.2%. No ankylosis, no root resorption. 3 extracted due to deep pocket/mobility and refracture.
+
+Okaguchi et al. (2019, Taiwan): extraoral bonding (4-META/MMA-TBB) and replantation (intentional replantation + root fragment resin bonding, same technique as Hayashi). Successful outcome in all teeth of six patients after 33-74 months (mean 49.5 +/- 15 / 50 +/- 15), four showing complete radiographic healing, 1 nearly complete, 1 not assessed; 6/6 clinically successful. Complete VRFs bucco-lingual.
+
+Selden (1996, USA): conservative treatment of six teeth with incomplete VRF. Full-thickness flap, ultrasonic excavation 2-3 mm, defect bonded with 4-META, fracture packed with silver glass-ionomer cement + hydroxylapatite + e-PTFE membrane (GBR). Five roots failed after 2-11 months; one survived at 12-month follow-up but split. All failed long term.
+
+Taschieri et al. (2009, 2010, Italy): same cohort. Modern surgical technique repairing incomplete VRF on maxillary anterior teeth with MTA to seal the fracture + bone defect filled with calcium sulfate. PBI flap, microscope + methylene blue, zirconium nitride retro-tips, 17% EDTA. 5 of 7 teeth successful after 33 months; 2 required extraction (lateral incisors). All successful after 1 year. Teeth with deep probing depths (>4 mm) and certain radiographic appearances were excluded.
+
+Anderegg et al. (2018, USA): full-thickness mucogingival flap, periodontal debridement, fracture enlarged with inverted cone bur, defect filled with resin-ionomer. 5 teeth (1 central incisor, 2 lateral incisors, 2 canines). ALL FAILED within 6 months. Authors: 'clinicians should be cautious in deciding to attempt repair of a VRF by using resin-ionomer cements.'
+
+TABLE 1 study list:
+- Hayashi 2002/2004 (Japan, university): 4-META/MMA-TBB resin, extraoral + intraoral; 26 teeth, 8 failed, mean f/u 34.9 mo.
+- Selden 1996 (USA, university): 4-META + silver glass-ionomer + GBR; 6 teeth, 5 failed 2-11 mo, 1 split at 12 mo.
+- Okaguchi 2019 (Taiwan, private): 4-META/MMA-TBB intentional replantation; 6 teeth, 6 successful, f/u 33-74 mo.
+- Taschieri 2009/2010 (Italy, private): MTA + calcium sulfate; 9-10 teeth, 5/7 successful at 33 mo, 2 extracted.
+- Sugaya 2001 (Japan): 4-META/MMA-TBB extraoral; 12 teeth, 9 good prognosis >22 mo, 3 extracted.
+- Anderegg 2018 (USA): resin-ionomer; 5 teeth, all failed within 6 mo.
+
+TABLE 2 Quality appraisal (JBI): all studies lacked clear demographic reporting; statistical analysis appropriate only in Sugaya.
+
+4 DISCUSSION
+Results do not allow an evidence-based conclusion about efficacy. Main limitation: all observational case series, limited sample size, significant heterogeneity in techniques. VRFs usually considered an absolute indication for extraction. Repair only feasible for incomplete VRFs, treated promptly. Two main treatment categories: (1) extraction + extraoral 4-META/MMA-TBB resin bonding + replantation; (2) direct repair via flap elevation with bioceramic material (MTA) while tooth remains attached. Intentional replantation retention rates reported 73% at 11y to 93% at 12y. Perio-endo lesion teeth survival 93%/65%/36.9% at 1/5/10y. Glass-ionomer/resin-ionomer cements NOT supported for VRF repair. Number of adverse reactions/complications close to nil.
+
+5 CONCLUSIONS
+Current evidence about surgical treatment of VRFs is not sufficient to support the described techniques as standard approaches in confirmed VRF. Further validation from randomised comparative clinical trials needed.
+
+Authors: Stefano Corbella, Silvio Taschieri, Igor Tsesis, Tomer Goldberger, Luca Francetti, Eyal Rosen.
+Conflicts of Interest: none declared.
+
+Source: PubMed / PMC11997295. DOI 10.1111/aej.12923.
