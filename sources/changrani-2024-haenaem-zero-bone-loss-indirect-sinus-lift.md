@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 > [!warning] RETRACTED — do not cite
-> This article (Cureus 2024, DOI 10.7759/cureus.73130) was Corrected on 2024-11-21 (cureus.c200) and was **subsequently retracted**. The held PDF predates the retraction and shows only the correction; retraction confirmed by the maintainer. Full text retained **for completeness only** (sole prospective HaeNaem indirect-sinus-lift dataset) under a deliberate exception to the CLAUDE.md retraction policy. Do **NOT** cite these findings as clinical evidence. (set 2026-06-24)
+> This article (Cureus 2024, DOI 10.7759/cureus.73130; PMID 39575356) was Corrected on 2024-11-21 (cureus.c200) and was **subsequently retracted**. Retraction confirmed via PubMed (article type "Retracted Publication"); the held PDF predates the retraction and shows only the correction. Full text retained **for completeness only** (sole prospective HaeNaem indirect-sinus-lift dataset) under a deliberate exception to the CLAUDE.md retraction policy. Do **NOT** cite these findings as clinical evidence. (set 2026-06-24)
 
 ## Why Ingested
 
