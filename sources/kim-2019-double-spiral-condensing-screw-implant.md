@@ -64,14 +64,14 @@ No clinical or bench measurements (patent document). Asserted technical effects 
 ## 5. Limitations and Future Work
 
 - **No evidence weight**: a patent demonstrates a design claim, not clinical efficacy or safety. All "effects" are inventor assertions.
-- Closest clinical data point is the single-arm n=12 study [[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] (HaeNaem Zero Bone Loss kit), which itself lacks a control group and ISQ values.
+- Closest clinical data point was the single-arm n=12 study [[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] (HaeNaem Zero Bone Loss kit) — **subsequently RETRACTED; do not cite.** It also lacked a control group and ISQ values, so no valid HaeNaem clinical evidence remains.
 - Direction convention: the patent describes thread geometry tuned to a single working rotation direction; it does NOT describe a reversible cut/densify dual-direction tool the way Densah (Huwais) does (CW=extraction / CCW=densify). This is the key contrast with the Versah/Densah system.
 
 ## 6. Related Work
 
 - Prior art cited in the patent: KR 10-2006-0056952 ("bone expansion and compression method ... using a thread expander to receive a dental implant") — the osteotome/expander lineage.
 - Densah/Versah OD bur mechanism: [[wiki/implants/huwais-2017-novel-osseous-densification-osteotomy-primary-stability]].
-- HaeNaem clinical application: [[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]].
+- HaeNaem clinical application: [[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(RETRACTED/철회됨 — do not cite)**.
 
 ## 7. Glossary
 
