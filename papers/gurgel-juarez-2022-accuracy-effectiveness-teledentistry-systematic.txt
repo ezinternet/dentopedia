@@ -1,0 +1,119 @@
+Accuracy and effectiveness of teledentistry: a systematic review of systematic reviews
+
+Authors: Gurgel-Juarez N, Torres-Pereira C, Haddad AE, Sheehy L, Finestone H, Mallet K, Wiseman M, Hour K, Flowers HL.
+Journal: Evidence-Based Dentistry. 2022 Jul 08; pages 1-8.
+PMID: 35804195  PMCID: PMC9264296  DOI: 10.1038/s41432-022-0257-8
+
+Key points
+
+Teledentistry is effective for dental referrals, treatment planning and dental treatment monitoring.
+
+Teledentistry can improve the accessibility and quality of care by enabling specialised consultations in various settings (eg hospitals, long-term care, remote areas), benefiting healthcare professionals and the population at large, particularly during COVID-19 recommendations.
+
+The feasibility and convenience of teledentistry involves the asynchronous communication mode and the adoption of smartphones for image capturing.
+
+Introduction
+
+The COVID-19 pandemic has urged hospitals, healthcare facilities and small practices to develop new ways to provide care in a safe way. Telehealth has become a compelling alternative as virtual and in-person care may provide comparable care outcomes. Efficient and efficacious remote screening, assessment, treatment and monitoring could protect patients, healthcare professionals and the community from COVID-19 exposure.
+
+In dentistry, professional organisations have encouraged teledentistry for long-distance triages and consultations. Teledentistry, the use of telehealth technologies for dental care provision, had its inception in 1994. The most common modalities are: 1) synchronous (real-time); and 2) asynchronous (store-and-forward) assistance.
+
+The synchronous modality involves a live interaction between the provider and the patient, caregiver, or practitioner via audiovisual telecommunications technology. Asynchronous assistance consists of health information collected at one time point and shared subsequently with a practitioner.
+
+Teledentistry modalities have been employed with diverse populations in paediatrics, orthodontics and oral medicine. Research has emerged in areas such as triage, oral health screening, caries assessment and expert consultations. Positive indicators for wider applications include its viability, feasibility and acceptance, compared to face-to-face interactions.
+
+Notwithstanding, comprehensive syntheses of the evidence for teledentistry are lacking. Dental professionals and patients may prefer virtual interactions in pandemic situations rather than risk exposure to infections. Such preferences may prove fitting for the longer term as the world adapts to ongoing changes and embraces new practices. Therefore, to help support clinical decision-making by dental professionals, we aimed to answer the following question: what is the accuracy and effectiveness of teledentistry compared to in-person consultation for screening, diagnosis and therapeutic management of dental care in children and adults?
+
+Methods
+
+Research design
+
+We conducted a review of systematic reviews (SRs). The reporting of our review adheres to the Preferred Reporting Items for Systematic reviews and Meta-Analysis (PRISMA) checklist. Review methods derived from a pre-established protocol.
+
+Search strategy
+
+Relevant databases and the search strategy were identified with consultation from a research librarian. We searched Medline (Ovid), Embase (Ovid), CINAHL (EBSCOHost) and Web of Science databases from their inception to June 2020. Additionally, we searched for studies in OpenGrey and the Brazilian Ministry of Health Virtual Library with the same time criteria. We also searched the International Association for Dental Research conference archives from 2001 onwards. We used the concepts 'teledentistry/telemedicine' and 'dentistry/oral health', combining Medical Subject Headings and indexed terms using the Boolean operands 'OR' and 'AND' for each source. We conducted the entire primary search between June 10 to June 17 2020. Once SRs were accepted for inclusion, new searches were conducted in a reiterative manner based on reference lists and citations (Google Scholar and Scopus) into September 2020.
+
+Eligibility criteria
+
+Eligible SRs included studies involving screening, diagnosis and therapeutic interventions using technology for remote communication. No restrictions on population, setting, or language were applied.
+
+Review selection
+
+NG-J conducted the literature search and organised titles/abstracts in spreadsheets (Microsoft Excel). After duplicate removal, the study selection process included three stages. First, two reviewers (NG-J, KH) independently assessed all abstracts using hierarchical coding criteria and selected studies for full-article review. Discrepancies were resolved by consensus through consultation with HLF. The second stage comprised the full-article review performed by two independent reviewers (NG-J, HLF) using specific criteria. Discrepancies were resolved based on discussion and consensus. Finally, NG-J reviewed the reference lists and citations of the accepted articles in Google Scholar and Scopus to identify additional citations, which underwent the same abstract (NG-J, KH) and full-text (NG-J, HLF) review process.
+
+Quality assessment
+
+Two independent reviewers (NG-J, HLF) critically appraised the quality of methods for the included SRs according to Assessing the Methodological Quality of Systematic Reviews (AMSTAR-2). For reviews involving screening or diagnostic accuracy trials, we applied modifications (items 1, 3, 8, 9, 11) according to a newly proposed AMSTAR-2 extension for diagnostic accuracy trials. Discrepancies for quality ratings were discussed before reaching consensus.
+
+Data extraction
+
+Two independent reviewers (NG-J, CT-P) extracted the data for each accepted SR, including review characteristics (for example, number of primary studies, sample size and telecommunication modality) and primary study outcomes (for example, diagnostic accuracy and intervention effectiveness). Divergent data extraction was resolved by consensus based on the full texts of primary studies.
+
+Analyses
+
+We planned to apply meta-analysis if the data from the accepted SRs was homogenous. Alternatively, a narrative synthesis of the results would be warranted.
+
+Results
+
+We identified 817 abstracts. After removing duplicates, 547 underwent evaluation. In total, 34 abstracts were accepted for full-article review of which three SRs were accepted for inclusion. The reference lists and citations of these SRs yielded 277 new titles, from which three additional SRs were accepted. Subsequently, the corresponding reference lists and citations of these SRs yielded 116 relevant titles from which no further SRs were accepted. Studies excluded after the full-text review with reasons for exclusion are presented in online Supplementary Table 3.
+
+Characteristics of included systematic reviews
+
+The six accepted SRs were published in English from 2013-2020. All reviews reported diagnostic outcomes, five reported screening outcomes and four reported treatment outcomes. The most common teledentistry communication modality was store-and-forward. The reviews involved 61 different primary studies (>7,000 unique participants), mostly in the areas of paediatrics and oral medicine. Thirty studies related to screening, diagnosis and treatment. Four involved randomised controlled trials and 17 used other designs (for example, cross-sectional, pre-post, cohort).
+
+Quality appraisal
+
+One SR was of low-quality, while the other five were of critically low quality, according to the AMSTAR-2 overall confidence ratings (high, moderate, low, critically low).
+
+Primary studies characteristics
+
+Over 70% of the primary studies were conducted in Europe, the United States and Brazil. Teledentistry activities occurred mostly in clinical settings (57%) and 20% were in rural areas. Remote and in-person professionals were specified in two-thirds of the primary studies. General and specialised dentists, mid-level dental professionals (that is, dental hygienists, dental therapists and dental nurses/dental assistants) and non-dental professionals were involved in remote and presential procedures. Digital cameras were the most common technology for remote image capture. Intraoral cameras were reported in 27% of studies, extraoral in 20% and smartphone cameras in 10%.
+
+Screening studies
+
+Eleven studies dealt with screening: eight for oral health indices and three for oral lesion identification. Oral health indices included: 1) dental caries; 2) number of decayed, missing, and filled permanent teeth (DMFT); 3) number of decayed and filled primary dental surfaces (DFS); and 4) periodontal indices. Oral lesion types included oral cancer, potentially malignant lesions and benign lesions. Most studies used smartphone cameras (36%), digital intraoral cameras (27%) and video cameras (9%) for image registration.
+
+The type of care professional conducting the screening was reported in 100% and 67% of the primary studies for oral health indices and for oral lesion outcomes, respectively. In studies reporting oral health indices, the screeners were mid-level dental professionals and non-dental professionals, while the expert assessors were dentists and specialists. In studies reporting oral lesion screening, the screeners were mid-level dental professionals, non-specified dental professionals and non-dental professionals, while the experts were oral medicine specialists or non-specified professionals.
+
+Screening accuracy was reported in three primary studies reporting oral health indices, with sensitivity and specificity ranging from 48-100% and 81-98%, respectively. Highest accuracy was found for DFS detection with sensitivity of 100% and specificity of 81%. Accuracy for dental caries and DMFT presented with high specificity and low sensitivity.
+
+Diagnostic studies
+
+The SRs reported 18 diagnostic studies: six involving oral lesions, three involving oral health indices, three involving oral and maxillofacial conditions/anatomical specifics, four involving diagnostic-treatment planning and two involving dental referrals. Oral lesion included oral cancer, potentially malignant lesions and benign lesions. Oral health indices included the number of DMFT and DFS. Oral and maxillofacial conditions/anatomical specifics included maxillofacial fractures, temporomandibular joint disease and dental pulp orifices location. Diagnostic-treatment planning outcomes included whether or not treatment plans established via teledentistry were followed by dentists during in-person treatment. Dental referrals included the acceptance of patients by a specialist after referral through remote versus in-person examinations.
+
+The main technology equipment used for image registration were cameras, whether digital intraoral (22% of the studies), digital extraoral (17%), smartphone (5%) or non-specified cameras (11%). The care professionals involved in all diagnostic studies were dentists and specialists for both in-person and remote examinations.
+
+Diagnostic accuracy measures were reported for six primary studies in the SRs. Highest accuracy was found for DFS detection with sensitivity ranging from 94-100% and specificity from 52-100% and for diagnostic-treatment planning with sensitivity and specificity ranging from 81-88% and 82-95%, respectively. Accuracy measures were not reported for six diagnostic studies.
+
+Treatment studies
+
+Two primary studies reported treatment outcomes, one involving interceptive orthodontics and the other involving paediatric treatment compliance. Digital intraoral cameras and video cameras were used as the main technology equipment. Care professionals involved in remote and in-person procedures were dentists and specialists for both studies.
+
+The peer assessment rating (PAR) index, a valid and reliable measure of orthodontic treatment outcome, was applied in one study. Results showed comparable PAR-indices for treatments conducted by a dentist under remote supervision (indices = 28.5 and 18.3; malocclusions improved by 36%) and by orthodontic residents under direct supervision (indices = 27.8 and 15.5; malocclusions improved by 44%). The second study measured treatment compliance following remote consultations with a paediatric dentist and in-person treatment with paediatric dental residents. Compliance rates for dentals treatment ranged from 56-100% according to the initial recommendations.
+
+Discussion
+
+Given the high number of studies evaluating telehealth applications in dentistry, dental professionals may be hard-pressed to determine which types of virtual assistance are most effective. Notwithstanding, the COVID-19 pandemic augmented the urgency of teledentistry applications and resources. We therefore sought to systematically review existing SRs to provide a comprehensive synthesis of teledentistry practices, facilitating interpretation of best evidence to best inform clinical decision-making.
+
+We found that virtual asynchronous screening and diagnosis in the areas of paediatrics and oral medicine were the most common uses of teledentistry. However, only nine primary studies (among 28) reported screening or diagnostic accuracy measures and none reported treatment efficacy.
+
+Overall, the screening and diagnostic measures demonstrated good/very good accuracy. Virtual dental assessments are therefore comparable to in-person examinations, especially for diagnostic-treatment planning and dental referrals. When assessors had similar levels of education/experience, sensitivity and specificity scores were high. Conversely, there were lower scores for mid-level dental practitioners, inexperienced professionals and professionals with different degrees/experience. Therefore, teledentistry shows good accuracy for diagnostic-treatment planning and referrals across dental professionals with similar education and experience levels.
+
+Only two primary studies reported treatment outcomes. One evaluated orthodontic treatments conducted by a general dentist under virtual supervision of an orthodontist in comparison to treatments performed by orthodontic residents under in-person supervision. Both supervision styles led to successful treatments. The second study reported high compliance rates with dental treatment recommendations by patients who had consultations with a remote paediatric dentist. Although no treatment efficacy was reported, teledentistry is promising for ensuring compliance and treatment viability.
+
+Across all studies, image quality played a key role in supporting remote assessors' decision-making. Most studies used digital cameras for image capturing, particularly intraoral cameras. Intraoral cameras, specifically designed for the oral cavity, capture detailed high-resolution images. However, image quality in smartphone technology has rapidly improved. Smartphones are popular, more affordable, user-friendly and more readily available than intraoral cameras in healthcare centres. Our review showed that several studies used smartphones for teledentistry purposes, suggesting smartphones may be compelling for research-to-practice translation.
+
+The store-and-forward modality was more frequently chosen in screening/diagnostic studies (86% of the cases). Interestingly, studies reporting treatment outcomes used the real-time modality for virtual communication. Patients may find real-time interactions more convenient and feel confident in their decision-making. However, live communication is more challenging as it requires more equipment and simultaneous availability of professionals and systems at both sites. Asynchronous assistance may be more convenient and flexible for healthcare professionals and therefore more feasible for routine implementation.
+
+Even though teledentistry was mostly applied in clinical settings for paediatric and oral medicine populations, there are clearly conceivable broader benefits to using virtual assistance. To illustrate, long-term care facilities, hospitals, primary healthcare institutions and rural service providers are some key settings where remote dental consultations could improve the accessibility and quality of care. Dental professionals could remotely assist the healthcare team with diagnostics, planning and management of oral health concerns in people with disabilities and hospitalised patients. Subsequent referrals for comprehensive dental assessments and treatments would likely be more consistent and effective for multiple levels of care.
+
+For example, vulnerable populations in palliative care or long-term care can be misdiagnosed and receive inadequate treatment of oral lesions. Teledentistry applications could provide the treating physician with appropriate diagnostic/treatment recommendations. Similarly, in tertiary or quaternary care settings, multiple healthcare professionals may manage patients' oral health. Severe oral health problems can arise post-operatively and in populations with complex medical needs, such as stroke patients. Teleconsultation with dentists would be helpful and feasible to establish a care plan. Currently, accessing dentistry services in some settings may be difficult, particularly in rural communities or long-term care facilities. A realistic scenario would involve teleconsultation with small cameras and an adequate light source (for example, smartphones), whereby a point person could initiate necessary consults between the healthcare facility and a dentist. In summary, healthcare teams without ready access to dental professionals, older people, those with mobility difficulties and the population at large, when required to remain home or self-isolate during pandemics such as COVID-19, would greatly benefit from teledentistry applications in many settings.
+
+Limitations
+
+Our study had several limitations. Given the heterogeneity of primary study samples, purpose and design, meta-analysis was neither possible nor appropriate, limiting estimates for the findings. Also, the SRs sometimes lacked key information from the primary studies (for example, study design, technology used, assessors) which limited data extraction. Additionally, the identified SRs were of low or critically low-quality and included primary studies with high risk of bias, preventing us from drawing more consistent conclusions. Nonetheless, our evidence synthesis has shown that virtual dental care is advancing and shows promise for improving oral health management.
+
+Conclusions
+
+Our review found that telehealth applications have been used most widely in paediatrics and oral medicine. Current evidence supports teledentistry as an effective means of making dental referrals, treatment planning and monitoring dental treatment. Asynchronous communication and the adoption of smartphones for image capturing are feasible and convenient for broad-based teledentistry applications. Virtual access to dental professionals would allow for improved accessibility and care quality in a variety of healthcare settings, including long-term care, hospitals and rural centres. Teledentistry is advantageous for both the population at large and healthcare providers, particularly in situations where in-person interactions are limited.
