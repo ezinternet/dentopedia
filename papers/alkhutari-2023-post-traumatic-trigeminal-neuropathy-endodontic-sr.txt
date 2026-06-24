@@ -1,0 +1,193 @@
+Source: PubMed Central PMC9848699 | PMID 36686068 | DOI 10.7759/cureus.32675
+Title: Post-traumatic Trigeminal Neuropathy Associated With Endodontic Therapy: A Systematic Review
+Journal: Cureus, 2023
+Retrieved via PubMed MCP get_full_text_article (PMC full text, JATS-derived).
+
+==================================================================
+INTRODUCTION AND BACKGROUND
+
+Persistent dentoalveolar pain (PDAP) is an idiopathic condition of chronic
+neuropathic origin that manifests as a diagnostic challenge for dental
+practitioners. Three different root cause origins are discovered: psychogenic,
+vascular, and neuropathic. Neuropathic origin is declared to be the primary due
+to the phenomena of deafferentation. The loss of the spinothalamic tract, which
+transmits somatosensory information regarding pain, itch, and rough touch, causes
+deafferentation. Even after the wounds have fully healed, deafferentation of nerve
+fibers, which usually occurs due to a severe injury, causes ongoing discomfort,
+paresthesia, and dysesthesia. PDAP is located primarily in the teeth and jaws.
+
+PDAP can originate after multiple invasive dental treatments, such as tooth
+extraction, bone grafting, dental implantation, apicoectomy, and endodontic
+treatment. It was initially discovered by McElin and Horton in 1947, and from that
+point forward, there have been numerous clinical cases in the literature,
+particularly related to root canal therapy (RCT).
+
+The initial symptom is intraoral unilateral pain but, with time, the pain extends
+bilaterally in up to one-third of the patients, which could be deep or superficial.
+Pain may vary but is usually experienced as aching, burning, or throbbing. The
+intensity of pain ranges from mild to severe. The beginning of pain that frequently
+follows dental treatments, such as tooth extraction, endodontic therapy, and sinus
+surgery, is triggered by a temperature change. The pain may occur without preceding
+events or in the absence of dental causes.
+
+The duration of persistent idiopathic facial pain, which includes atypical
+odontalgia (AO), could last for more than two hours up to three months, despite the
+absence of neurological defects. PDAP most commonly affects the upper jaw molars and
+premolars. Females have been seen to predominate in 65-85% of PDAP cases. The average
+age range is 15-80 years for female patients and 23-69 years for male patients.
+
+Earlier terminology (1974: "idiopathic periodontalgia"; 1978 Marbach: "Phantom Tooth
+Pain"; 1978: "atypical odontalgia"). The HIS recently proposed the name painful
+post-traumatic trigeminal neuropathy (PTTN) to describe neuropathic pain with a
+traumatic etiology that affects the trigeminal nerve, affecting face, mouth, and
+other areas of the head.
+
+GOAL: systematically review the possibility of developing PTTN if the patient received
+endodontic therapy and the time interval between endodontic therapy and PTTN.
+
+==================================================================
+REVIEW / METHODS
+
+Level 1 and level 2 evidence with a low-to-moderate risk of bias. All English-language
+studies linking human endodontic patients and painful PTTN: cohort, cross-sectional,
+prospective, retrospective, RCTs. High-quality research on this subject was lacking.
+IRB Riyadh Elm University (FRP/2020/278/293 (REU)).
+
+Databases: PubMed, Web of Science, Cochrane CENTRAL. Search terms: painful PTTN, PDAP,
+AO, neuropathic orofacial pain, atypical facial pain, phantom tooth pain, persistent
+idiopathic facial pain. Published 2009-2020, human subjects. Five independent reviewers.
+
+==================================================================
+STUDY CHARACTERISTICS
+
+Of the 10 articles chosen:
+- 2 (20%) retrospective clinical trials
+- 4 (40%) retrospective studies
+- 1 (10%) retrospective observational study
+- 1 (10%) retrospective + prospective cohort
+- 1 (10%) prospective cohort
+- 1 (10%) prospective longitudinal cohort
+
+Each research: 8 to 1,331 individuals. Mean age 40 to 55.4 years; gender distribution
+31% male to 64% female. Median age of PTTN is 40 years. Maxillary arch prevalence
+reported in 2/10 studies; mandibular arch in 2/10. The interval between onset of PTTN
+and start of RCT is 3-48 months.
+
+==================================================================
+DIAGNOSTIC TESTS FOR PTTN
+
+Clinical examination tests: extraoral exam of face/head/neck, periapical radiographs,
+asymmetry, tender points, auscultation/palpation of TMJs, mandibular movement. Intraoral:
+occlusion, interferences with root-filled teeth, swelling/sinus tract, periodontal
+probing depths, pain to pressure/percussion, restoration margin integrity. Most-reported
+diagnostic procedures in 8/10 papers. Clinical interviews (pain "rarely interrupted sleep",
+"non-responsive to NSAIDs") in 1/10. Diagnostic LA for tissue hyperesthesia in 2/10. CBCT
+(differentiate symptomatic apical periodontitis vs AO) in 1/10. Pain Catastrophizing Scale
++ SF-MPQ in 1/10. VAS (0-10) + S-LANSS survey (chronic pain >3 months) in 2/10. OHRQoL
+(OHIP-14) in 1/10. Pain intensity in 1/10. CT for other diagnoses in 1/10.
+
+==================================================================
+DISCUSSION — KEY NUMBERS PER STUDY
+
+Six of 10 papers used "atypical odontalgia". Treatment for pain: amitriptyline
+(50-75 mg/day) and/or carbamazepine (400-600 mg/day) + vitamin B complex.
+
+Van der Cruyssen et al. 2020 (1,331 patients, Belgium/England, retrospective clinical
+trial): Causes of trigeminal nerve damage:
+- Third molar: 519 (48%) — most frequent, females mid-40s
+- Dental implants: 146 (13%)
+- Third molar extraction: 136 (13%)
+- Local anesthesia: 125 (12%)
+- ENDODONTIC TREATMENT: 86 (8%)
+- Trauma: 74 (6-7%)
+Arch not mentioned. Mean age 46 years. 112 days between PTTN diagnosis and treatment.
+
+Females (40-55.4 years) greater predominance in PTTN than males. One paper: more common
+in females mid-40s, maxillary molar/premolar regions; mean age continuous neuropathic
+orofacial pain 54.5 years, female predominance 86.9% (n=20). Contrast: another study =
+no gender predilection, more prevalence in mandibular arch.
+
+Oshima et al. 2009 (271/Japan, retrospective): RCT causes PTTN in maxillary/posterior;
+16 endodontic follow-up patients (13 F, 3 M), mean 46.8 yrs — 14 (87.5%) maxillary pain,
+2 (12.5%) mandibular. 10 (62.5%) discomfort started right after retreatment; 5 (31.3%)
+right after pulp extirpation; 1 unclear. Onset 1-2 months.
+
+List et al.: of 46 cases of PTTN, 56% upper jaw pain vs 45% lower jaw. Upper jaw ratio
+8:2, majority molar area ratio 5:3.
+
+Klasser et al. 2011 (250 adults/USA, retrospective): 3.1% persistent non-odontogenic pain.
+22 patients maxillary non-odontogenic, 17 mandibular. Neuropathic pain higher in
+middle-aged (mean 50.6 yrs), no sex preference, HIGHER IN MANDIBULAR ARCH. 4 years.
+
+Time between PTTN and RCT: non-odontogenic pain after ≥6 months post-RCT = 34%
+(95% CI 1.4-5.5).
+
+Causes of PTTN/nerve injury after failed endodontic treatment: internal/external
+resorption defects communicating with root canal, perforation communicating with external
+root surface, root fracture, lower molar teeth with root apices close to the inferior
+dental canal and/or mental foramen, dens invaginatus, periapical lesions, cysts.
+
+Philpott et al. 2018 (198 patients/264 teeth, London): 20% of sample showed persistent
+pain. Predictive factors for PTTN: after RCT, female gender, history of chronic pain,
+teeth responsive to pulp test, teeth associated with preoperative pain, tooth crack prior
+to treatment, diameter of preoperative radiolucency. 5-14 months post-NSRCT.
+
+Conditioned pain modulation (CPM): PTTN patients showed less effective CPM than controls.
+Duration of cold pain after removal of cold stimulus significantly longer in PTTN. Impaired
+CPM linked to fibromyalgia, tension headache, TMD, migraine, IBS.
+
+Peñarrocha et al. 2012 (63/Spain, retrospective case study): trauma antecedents — impacted
+lower third molar extraction (34 patients, 54%), simple extraction (9 patients), ENDODONTIC
+TREATMENT (1 patient). Pain in 4 males, 32 females mid-40s. ≥6 months.
+
+De Poortere et al. (retrospective): treatment subgroups linked to PTTN — implant surgery
+(n=9, 31%) primary; third molar extraction (n=6); facial fractures (n=4); BSSO (n=4);
+ENDODONTIC THERAPY (n=3).
+
+3-6% of endodontic treatment patients have PTTN, prevalence highest in women (40 patients),
+per two studies.
+
+Klazen et al. 2018 (Leuven, retrospective 2-year cohort): 8,845 new patients, 53 cases of
+iatrogenic trigeminal nerve injury (36 F 68%, 17 M 32%). Endodontics-related: 6%. Avg age
+42.9 yrs F (15-80), 40.4 yrs M (23-69). Females > males.
+
+Renton and Yilmaz: iatrogenic inferior alveolar nerve injuries (IANI) brought on by
+temporomandibular surgery (60%), LA (19%), implants (18%), ENDODONTICS (8%).
+
+Nixdorf et al. 2015 (prospective longitudinal cohort, National Dental PBRN): pain present
+6 months after RCT — non-odontogenic 8 patients (7 referred TMD, 1 PDAP), mixed 2 (1 PDAP,
+1 TMD). Maxillary teeth = 53% of treated teeth, 89% posterior teeth. Females, 40s.
+38/354 (11%) met pain criteria; mean age 49.
+
+Pigg et al.: after endodontic treatment, 3.4% frequency of chronic non-odontogenic pain.
+
+Jacobs et al. (case-control): 5.7% phantom pain; women:men 9:1. Most complaints molar area
+ratio 8:2, upper jaw ratio 5:3.
+
+Melek et al.: orofacial discomfort in PTTN 66% and TN 80%. TN pain attacks more frequent
+(71%) than PPTTN (28%); TN more numbness (12%). TN patients depression signs (54%) vs PPTTN
+(36%); anxiety similar (34-39%).
+
+Benoliel et al. 2012 (145 total: 91 PTTN, 54 CTN): 96% of PPTTN cases had trigeminal sensory
+abnormalities (mostly allodynia, hyper/hypoalgesia); 1% had anaesthesia. PTTN 48.60±15.2 yrs.
+
+Diagnostic criteria (Graff-Radford and Solberg 1992) best describe the condition.
+
+DIAGNOSTIC CRITERIA FOR AO (idiopathic toothache):
+- Pain in a tooth or tooth site
+- Continuous or almost continuous pain
+- Pain persisting more than four months
+- No signs of local or referred pain
+- Equivocal somatic nerve block
+
+==================================================================
+CONCLUSIONS
+
+High-to-moderate level of evidence regarding PTTN after endodontic treatment. Pain reported
+after endodontic treatment mostly arising from non-odontogenic neuropathic origin. Evident
+symptoms: persistent pain after endodontic treatment caused by impaired endogenous analgesia,
+pronociceptive pain modulation, and failed endodontic treatment, with more female predominance
+in mid-40s. 10 articles showed a prevalence of an endodontic procedure 3-48 months following
+post-endodontic treatment, mainly affecting females mid-40s, no variation maxilla vs mandible.
+Distinguishing pulpal pain from PTTN helps practitioners properly diagnose PTTN without further
+procedures that negatively affect patient tolerance.
