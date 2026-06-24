@@ -1,0 +1,116 @@
+Virtual reality and behaviour management in paediatric dentistry: a systematic review
+
+Authors: Diana Xavier de Barros Padilha, Nélio Jorge Veiga, Anna Carolina Volpi Mello-Moura, Patrícia Nunes Correia
+Journal: BMC Oral Health 2023;23(1):995
+DOI: 10.1186/s12903-023-03595-7
+PMID: 38087294  PMCID: PMC10717698
+Publication date: 2023-12-12
+
+== ABSTRACT ==
+
+Background
+Virtual reality (VR) has emerged as an innovative tool in medicine and dentistry, improving anxiety and pain management in children. The immersive and interactive environments of VR technology facilitate positive engagement of young patients during dental procedures via distraction, potentially reducing anxiety levels and improving treatment experience. The aim of this review was to provide current evidence-based guidance on the usage of VR in the clinical practice of paediatric dentistry.
+
+Methods
+A systematic review was conducted according to the PRISMA guidelines with the following research question using the PICO format: Does VR (I) effectively manage anxiety and pain (O) during a paediatric dental consultation (P) compared to alternative behavioural control techniques (C)? PubMed/Medline®, SCOPUS and Web of Science databases were searched and analysed.
+
+Results
+A total of 22 randomised control trials were included in this review. These studies have shown that VR is a highly effective method of behaviour management, successfully alleviating pain and anxiety in children during dental treatment, surpassing traditional tools. Selected studies included participants with a large age range and dental procedures varied greatly, from first consultations to infiltration of local anaesthetic and other invasive procedures. VR was mostly used during treatment delivery and different immersive VR techniques were considered. Behaviour, anxiety and pain scales were used to determine efficacy and patient satisfaction.
+
+Conclusions
+VR offers an engaging and immersive experience, effectively diverting patients' attention away from the clinical environment, fostering a positive and enjoyable treatment experience. However, it is important to acknowledge the limitations of existing studies and the need for further research to enhance the understanding of VR's full potential in paediatric dentistry.
+
+== FULL TEXT ==
+
+Background
+
+Fear and apprehension regarding dental treatment are the most significant factors negatively impacting the daily clinical work of paediatric dentists. Dental appointments can trigger anxiety and pain, leading to treatment avoidance or refusal which can worsen the patient's overall health condition. Factors contributing to dental fear and anxiety, as noted by Dahlander et al. 2019, include parental previous negative experiences, lack of information about the treatment, type of treatment, and the dental environment itself.
+
+For anxious children, distraction can be an effective method of diverting the patient's attention from procedures that are considered unpleasant. A variety of distraction techniques are employed to mitigate anxiety and enhance the dental experience for young patients. Audiovisual distractions, such as tablet devices and smartphones, play a crucial role in engaging children and diverting attention in their daily lives, and are widely accepted by children and parents during medical procedures.
+
+With the rapid advancement of technology, audiovisual glasses emerged as a significant development in distraction techniques. These glasses allowed videos to be displayed in a two-dimensional format (2D), providing an enhanced visual experience for paediatric patients. These progressed to virtual reality glasses which unlike the 2D glasses enable the display of interactive content in a three-dimensional format (3D). This advancement immerses patients in a more realistic and engaging virtual environment, offering a heightened sense of presence and interactivity during dental procedures.
+
+Virtual reality creates an artificial environment that mimics the real world, allowing users to experience an alternate world. The virtual experience provides multi-sensory information through synchronization between the head-mounted display helmet (provides an image with a sense of space and depth), motion sensors, headphones and joysticks, for a fully immersive simulation.
+
+During the past two decades, virtual reality technologies have been used for entertainment, education, training, research and much more. Virtual reality technology is becoming increasingly accessible and powerful, and the potential uses are virtually limitless.
+
+In the medical field, as an effective and efficient tool to prevent emotional disorders such as anxiety and physical impairments in rehabilitation processes, and lately as a method of pain reduction. Like doctors, nurses and dentists in training, allowing them to experience real medical situations before treating real patients.
+
+In dentistry, although not yet widespread, VR has proven to be a beneficial tool for clinical practice in several specialties. From student training to predicting surgical complications, doctors can use virtual reality technology to show their patients the expected results before undergoing the procedure.
+
+In paediatrics, VR can be effective for oral hygiene education and maintenance, reduction of anxiety and pain.
+
+Also, using virtual reality devices during consultation/treatment visits allow patients to virtually experience the entire scenario before the commencement of the actual procedure. Thus, enabling a better understanding of the treatment and allowing fears to be confronted in a safe and controlled environment.
+
+In recent years, virtual reality has gained popularity in clinical research studies as an innovative technique for modulating paediatric behaviour. According to McCaul et al. 1992, the perception and attention to pain play crucial roles in pain experience. VR does not directly impact the pathophysiological mechanisms of pain but rather focuses on modifying patients' perception and attention to pain.
+
+While VR in dentistry is not yet widely adopted, it has demonstrated considerable benefits across various specialties. This systematic review aims to explore the current available evidence on the use of VR for controlling pain and anxiety in children during dental consultations.
+
+Methodology
+
+This systematic review adhered to the PRISMA (Preferred Reporting Items for Systematic Reviews and Meta-Analyses) guidelines, and the research question was formulated using the PICO (Population, Intervention, Comparison, Outcome) format. The objective of this review was to investigate the effectiveness of virtual reality (VR) in controlling anxiety and pain during dental appointments in the paediatric population (P), in comparison to other behavioural control techniques (C).
+
+The review protocol was registered in PROSPERO with the registration number CRD4202340967. A comprehensive literature search was conducted in January 2023, using the PubMed/Medline®, SCOPUS and Web of Science databases. The search results were exported to the Parsifal bibliography manager software, where duplicates were removed and articles were selected based on the defined objective and criteria.
+
+The search strategy employed a combination of subject heading terms, keywords and text words, utilizing Boolean operators such as 'OR' and 'AND'.
+
+Two independent researchers (DP and PC) performed the search and screening procedure for this systematic review, following the predetermined inclusion and exclusion criteria. In the event of any disagreement between the researchers, a third researcher (AM) was consulted to resolve it.
+
+To assess agreement and reliability between researchers, Cohen's Kappa coefficient was employed.
+
+Data extracted included author, year, study design, sample size, age, dental procedure, intervention used, timing of intervention, control/comparison groups, outcomes and outcome measures.
+
+The quality assessment of the included studies was conducted using the Newcastle Ottawa Scale (NOS).
+
+Results
+
+Study selection
+The search queries yielded a total of 525 abstracts from three different databases. After removing 79 duplicate articles, 446 unique abstracts remained. Upon reviewing the titles and abstracts, 392 records were deemed irrelevant and excluded. Subsequently, 54 articles were selected for full-text analysis. Among these, 32 articles were excluded as they utilized audiovisual glasses without 3D immersion. Ultimately, 22 articles were considered suitable for inclusion in this systematic review. Inter-rater agreement was determined and a kappa value of 1 was obtained during the selection process, indicating an excellent agreement.
+
+Study characteristics
+This analysis included 22 studies conducted in various countries, including Turkey, Iran, India, China, Jordan, Spain, Syria, Italy and Indonesia. All of these studies were randomised control trials. The VR equipment utilized was also included. Out of the 22 studies, two (9%) investigated the use of the Oculus Go device, a standalone virtual reality headset. Additionally, four studies (18%) selected a VR Box device and two chose a HTC device, an all-in-one headset. In four studies, the VR device utilized was not specified. The remaining studies employed various other devices that were not replicated in other research. Overall, these devices demonstrated high resolution, light weight and compact size.
+
+For each study, the risk of bias was assessed with the NOS scale. Two studies had a very low risk of bias, thirteen studies had a moderate risk of bias and seven had a high risk of bias.
+
+The studies investigated the effectiveness of different immersive VR techniques, compared to various behavioural control techniques in paediatric dentistry: passive distraction, the tell-show-do technique, including digital screen and audio-visual distraction. The total number of participants involved in the studies was 2,558, with most studies focusing on children aged between 5 and 12 years. However, some studies included children within narrower age ranges, such as 7–9 years or 5–8 years.
+
+The evaluated dental procedures varied across the studies, ranging from the delivery of local anaesthesia, to pulp therapy, tooth extractions and dental restorations. Some studies focused on specific procedures, such as inferior alveolar nerve blocks, while others assessed intervention effectiveness in a variety of dental procedures, or cooperation at the first dental appointment.
+
+Five out of 22 articles included did not specify the VR device used, which prevented data comparisons based on the devices' specifications, such as size, weight, comfort, or safety indications.
+
+Results summary
+The majority of the studies compared the usage of VR with an alternative technique, during a dental procedure or initial consultation (peri-operatively), except one where the control group included pre-operative exposure to a dental simulation game.
+
+The primary outcomes were anxiety and pain management in a paediatric dental consultation. Several scales were used for preliminary behaviour assessment and anxiety and pain evaluation during the dental appointment. Anxiety was the most investigated aspect, 16 studies, while pain perception was addressed in 12 studies. Scales for anxiety and pain measurement depend on the child's age and development. The referred anxiety scales were CPMAS, MCDAS, MCDAS(f)-r, FIS, VPT and the described pain scales were WBFS, VAS, FLACC, MBPS. Some studies also included objective physiological parameters, such as salivary cortisol, pulse oximeter and pulse rate. In a small number of studies, other aspects were also evaluated, such as fear and cybersickness, nausea and fun.
+
+Overall, the benefit of VR in controlling anxiety and pain was statistically significant in the included studies, as compared to the corresponding control group, with some exceptions. For instance, VR was comparable to other distraction techniques, such as in Felemban et al., where VR had a similar effect to screen distraction on heart-rate levels and pain during buccal infiltration anaesthesia. In the study by Al-Halabi, tablets performed better than VR in relieving anxiety and pain during inferior alveolar nerve block. In two studies, the benefit was not noticed in all the dental procedures, such as in Alshatrat et al., where there was no statistically significant reduction of pain in non-painful dental procedures and Zaidman et al. where VR decreased pain perception during rubber dam placement, but had limited benefit during local anaesthesia.
+
+Özükoç et al. found that children with MIH-affected teeth who are distracted from dental procedures using 3D VR games experienced less dental anxiety (<0.05). Concerning short time appointments, Shetty et al., Ran et al. and Kaswindiarti et al. showed a significant reduction in pain, anxiety, salivary cortisol (<0.001) and a shorter treatment time. Regarding delivery of intraoral anaesthesia, MCDAS, VAS and WBFS improved in the immersive VR group. High levels of satisfaction from children who experienced treatment with 3D video glasses were observed in the study by Nuvvula et al. and increased fun during dental procedures was reported by participant children in the study of Atzori et al.
+
+Discussion
+
+This systematic review focuses on comparing the use of VR with conventional non-pharmacological behavioural management techniques in paediatric dental consultations. The selected articles covered various dental procedures such as dental examination, restorations, pulp treatment and anaesthesia. VR was mostly used perioperatively, i.e. simultaneously to treatment delivery. There is strong evidence of the success of VR as a behaviour management tool, in the paediatric dental setting, which in many instances rates superior to conventional behaviour management techniques.
+
+None of the studies demonstrated that traditional non-screen techniques were more effective than the tested techniques in reducing anxiety and pain perception. This can be attributed to VR's ability to divert patients' attention to a pleasant virtual environment, thereby modifying the patient perception of physical pain.
+
+Three studies compared the use of digital flat panel devices with VR devices as methods of distraction during local anaesthesia administration. One study found VR devices to be more effective in reducing pain perception compared to other groups. However, two other studies concluded that tablets provided greater relief from anxiety and pain during anaesthesia.
+
+Three studies conducted in India compared the use of VR and audio. Results showed that both audio and VR distraction were effective in reducing anxiety, compared to the conventional "Tell-Show-Do" technique. However, VR proved to be more effective in reducing anxiety and pain perception. Only one study included smartphone games alongside VR, suggesting VR and smartphone gaming were the most effective distraction techniques; VR distraction was found to be more effective than smartphone game distraction.
+
+One study compared the effect of immersive and non-immersive VR on pain perception during intraoral injections. Both distraction methods were effective in reducing pain perception, with immersive VR slightly more effective. However, the study had limitations such as a small sample size and pain assessment immediately after the injection.
+
+While VR glasses can improve patient cooperation, other factors need to be addressed, such as costs, communication issues, dentists' perceptions. Some top range VR appliances are expensive; however, prices have become more accessible. VR can also interfere with communication between the dentist and patient during complex procedures. Vision blockage and absence of caregivers in the visual field can increase children's anxiety. However, one study reported a positive experience of dentists who used VR, feeling more relaxed and focused, with communication not affected.
+
+The increasing use of VR headsets raises health concerns. Prolonged use can lead to eyestrain, dry eyes, vision problems, migraines, dizziness, motion sickness and risk of photosensitive epilepsy. Responsible use of VR headsets is critical and informed consent needs to be obtained before the use of any VR device on patients.
+
+The appropriate age for using digital equipment, including smartphones, tablets and VR, has been debated. Immersive media hardware companies have established safety recommendations, with Sony, Oculus, PlayStation and Samsung stating their products are not recommended for children under 12 or 13 years old. LG sets the highest age limit at 15, while HTC has the lowest limit of 4 years without a "safe mode." All articles in this systematic review used VR glasses in children below the manufacturers' recommendations, except for studies without specified equipment brands.
+
+To mitigate adverse effects, researchers have explored strategies such as oculomotor exercises before using VR glasses which have shown effectiveness in reducing cybersickness. Taking breaks during VR use is also recommended to prevent digital eye strain. However, reviewed studies did not include a specific protocol for preventing eye injuries related to VR glasses. Among the selected articles, only one evaluated cybersickness.
+
+The cost of 3D immersion devices varies based on the type of glasses chosen. Cardboard glasses, the most economical option, use the smartphone screen for display. High-end glasses offer better immersion quality. Gaming glasses are the most expensive and required a computer connection. Overall, VR appears to be a promising behaviour management technique. Further studies are needed to compare VR with pharmacological behaviour methods, such as conscious sedation, and to assess its potential for reducing referrals for general anaesthesia.
+
+Video games and digital games served as VR content in some studies. An emerging application in dentistry is the use of serious games (SGs) for medical education, training and informative purposes. The overall quality of the evidence is good. Limitations exist due to the use of diverse pain and anxiety scales which makes direct comparisons difficult. Certain studies included participants with diverse developmental stages. Future research should incorporate qualitative studies to explore patient-reported outcomes and investigate the long-term effects of VR on anxiety and pain.
+
+Conclusion
+
+This systematic review has shown that virtual reality technology during dental treatment is an effective tool for reducing anxiety and pain in children when compared to conventional behavioural management techniques. By creating an engaging and immersive experience, VR successfully shifts the patients' focus away from the clinical environment. Therefore, it is crucial that dental professionals become familiar with VR as a valuable tool in the management of paediatric patients. Further research is required to determine the sustained benefits of VR and its integration into routine clinical practice.
