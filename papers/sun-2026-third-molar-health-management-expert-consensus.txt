@@ -1,0 +1,462 @@
+TITLE: Expert consensus on the management of third molar health
+PMID: 41980927 | PMCID: PMC13079848 | DOI: 10.1038/s41368-025-00413-4
+
+Introduction
+
+Third molars, commonly referred to as wisdom teeth, are the last teeth to develop and mature in humans. They exhibit the highest rate of impaction, cause the greatest damage to adjacent tissues, and present some of the most complex challenges in clinical management, often accompanied by considerable treatment controversies. Due to their late development and the limited space in the jaw, third molars are prone to abnormal eruption patterns, morphological variations, and pathologies such as dentigerous cysts.These irregularities frequently lead to complications, including impaction, pericoronitis,infection, delayed eruption, and disease progression,and increase the risk of periodontitis, dental caries, and external root resorption of adjacent second molars.
+
+The developmental and eruptive patterns of third molars vary substantially among individuals. Patients’ perceptions and concerns regarding their third molars are influenced by factors such as age, geographic region, cultural practices, and customs. Similarly, clinicians’ management strategies depend on their educational background, specialty, and technical expertise.Such discrepancies may result in delayed or inappropriate interventions, leading to irreversible sequelae, unnecessary iatrogenic injury, or complications from overtreatment. This expert consensus on third molar health management aims to provide evidence-based recommendations to support standardized and well-informed clinical decision-making.
+
+Developmental trajectory and impaction characteristics of third molars
+
+The development and formation of third molar tooth germs vary across populations and are influenced by factors such as sex, ethnicity, geographic region, and socioeconomic status. In Chinese individuals, mandibular third molar germs typically begin to form between the ages of 5–6 years and are initially identifiable on radiographs as shallow crypts located at the junction between the mandibular ramus and body.Calcification becomes evident around ages 7–9, indicating the initiation of crown development. During this stage, as the mandible grows rapidly, the tooth germ tends to migrate deeper into the mandibular body, with its long axis often tilting obliquely or even horizontally relative to adjacent teeth.
+
+By approximately 12 years of age, an individual’s crown formation is usually complete. Cervical formation occurs around ages 13–14, at which point the tooth germ remains beneath the occlusal plane, and the angulation between the germ and adjacent teeth begins to decrease. Simultaneously, root development commences extracapsularly. By ages 15–16, the roots reach approximately one-third of their final length, and the germ becomes radiographically visible distal to the roots of the second molars. Between the ages of 17–18, the root approaches two-thirds of its full length, the angulation continues to decline, and the crown begins to erupt into its final position. Complete root formation is typically achieved between ages 19 and 20. In healthy individuals, third molar development is delayed, with full maturation or eruption not occurring until approximately age 24.Maxillary third molars follow a broadly similar timeline, although females generally exhibit earlier development.Figurepresents a comprehensive anatomical illustration of the developmental trajectory of the mandibular third molar, emphasizing key milestones from the initiation of interdental sulcus formation to the completion of root development. Each stage provides insights into the morphological and biological processes underlying tooth maturation, which are crucial for understanding the functional and pathological characteristics of teeth in various clinical contexts.
+
+Due to their late development and spatial limitations within the jaws, third molars are susceptible to anomalies in the eruption direction, crown morphology, size, and root number or length. These abnormalities frequently result in impaction and delayed maturation. The prevalence of impacted third molars varies significantly across studies and is influenced by the geographic region, ethnicity, and dietary habits. Impaction is more common among females, whose reported prevalence is 1.16–1.5 times higher than that among males.Patients typically present with symptoms of third molar impaction during early to mid-adulthood, particularly between the ages of 20–40 years.
+
+Adolescents exhibit a particularly high rate of mandibular third molar impaction, which varies from 69.1% to 95.2% of cases with mesioangular inclination.With aging, the proportion of median-position impactions increases, whereas the proportion of low-position impactions decreases, with vertical impactions being the most prevalent, accounting for up to 42%.
+
+A study of 13 168 individuals aged 17–22 years in central China reported a mandibular third molar impaction rate of 70.3%, with mesioangular impactions accounting for 58.5% of the cases. These findings emphasize the clinical importance of impaction, which may lead to complications such as pericoronitis, infection, and delayed eruption because of the limited space in the jaw and the late development of these teeth.
+
+Clinical and radiographic examinations of third molars
+
+The evaluation of mature third molars involves both clinical and radiographic examinations, with consideration given to the patient’s local oral condition and overall systemic health status.
+
+Clinical examination
+
+The key aspects of the clinical examination include the following:
+
+Evaluation of facial symmetry and the presence of swelling, trismus, and regional lymphadenopathy.
+
+Determination of third molar visibility, the extent of soft tissue coverage, and classification of the impaction type.
+
+Assessment of the tooth structure for caries, fractures, or mobility and identification of percussion or periodontal tenderness.
+
+Examination of adjacent teeth, including their alignment and occlusal relationship with the opposing dentition.
+
+Gingival health is evaluated by examining the surrounding tissue of adjacent teeth for changes in color, texture, erythema, suppuration, fistulas, or ulcers.
+
+Radiographic examination
+
+A radiographic evaluation plays a crucial role in determining the eruption status, impaction classification, anatomical relationships, and potential indications or contraindications for extraction. Common imaging modalities include periapical radiographs, panoramic radiographs, and cone-beam computed tomography (CBCT).
+
+Periapical radiographs
+
+Periapical radiographs can provide detailed information regarding the long-axis orientation and inclination of the third molar, periapical pathology, surrounding alveolar bone, and condition of adjacent teeth. They provide preliminary insights into the relationship between the mandibular third molar and the mandibular canal, as well as the proximity of the maxillary third molar to the maxillary sinus. This technique involves a low radiation dose and is relatively simple to perform. However, it may cause discomfort, particularly in posterior regions, and some patients—especially those with a strong gag reflex—may be unable to tolerate this examination. Furthermore, its limited field of view often fails to fully capture the relationship between third molars (particularly mandibular molars) and adjacent anatomical structures. As a two-dimensional imaging method, it presents overlapping structures, which can compromise spatial accuracy. The superimposition of structures in this two-dimensional imaging method may compromise the spatial interpretation. Thus, periapical radiography is most suitable for the preliminary assessment of partially erupted third molars under favorable periodontal conditions.
+
+Panoramic radiographs
+
+Panoramic imaging offers a broad overview of the dental arches and most maxillofacial structures, enabling an assessment of the eruption direction, depth, angulation, and anatomical relationships of third molars. It is well tolerated by most patients and clearly displays the mandibular canal trajectory, making it a standard imaging modality for evaluating third molars. However, similar to periapical radiographs, panoramic images are two-dimensional and cannot accurately depict three-dimensional spatial relationships. Additionally, image distortion and magnification errors (approximately 3%–10%) may compromise the evaluation of the root number, morphology, and proximity to critical structures such as the mandibular nerve canal. Therefore, although panoramic radiographs are highly useful for initial screening, supplementary imaging—particularly CBCT—is recommended in complex or high-risk cases.
+
+Cone-beam computed tomography (CBCT)
+
+CBCT provides high-resolution, three-dimensional visualization of third molars and their anatomical surroundings, thus facilitating precise assessments of their relationships with adjacent teeth, the mandibular canal, the maxillary sinus, and other key structures. It also facilitates the identification of pathology in adjacent tissues and a full evaluation of both jaws. CBCT is indispensable for advanced surgical planning, including digital guides, navigation systems, and robotic-assisted extractions. However, its use is associated with higher costs and greater radiation exposure than conventional radiography. CBCT is particularly valuable for evaluating third molars with suspected pathology or complex anatomical relationships, and it is essential in preoperative planning for high-risk extractions.
+
+If a patient already presents with well-acquired spiral computed tomography (FBCT) images, an additional CBCT examination is generally not needed. The existing FBCT can provide sufficient anatomical detail for the assessment of impacted third molars, including their relationships with adjacent structures. Therefore, performing an additional CBCT would not offer a substantial diagnostic benefit and would expose the patient to unnecessary radiation. Consequently, the use of FBCT alone is considered adequate for preoperative planning in such cases.
+
+Classification related to impacted third molar extraction
+
+Due to discrepancies between jaw development and eruption space, as well as their late developmental timing, most third molars become impacted, except for a minority that erupts normally. Classification methods include the Winter classification and Pell & Gregory classification, which are widely used clinically.
+
+Winter classification
+
+Categorizes impactions by the axial position: vertical, mesioangular, horizontal, inverted (distoangular for upper molars), distoangular (a common terminology for lower molars), lingual/palatal, and buccal impaction. Mesioangular impaction is the most common clinical presentation. This classification guides the direction of surgical dislodgment and marginally aids in assessing the difficulty of the procedure.
+
+Pell & Gregory classification
+
+Vertical categorization relative to the second molar occlusal plane/cementoenamel junction, level A impactions dominate clinically:
+
+Level A (shallow)—Third molar crown level with/above the second molar occlusal plane;
+
+Level B (moderate)—Below the second molar occlusal plane but above the second molar cervical line;
+
+Level C (deep)—Third molar positioned below the second molar cervical line.
+
+Horizontally categorized by the ramus relationship, Class Ⅱ is the most prevalent class and facilitates the evaluation of surgical difficulty and planning:
+
+Class Ⅰ: Adequate space between the third molar and anterior ramus border;
+
+Class Ⅱ: The third molar is occupying part of the ramp space;
+
+Class Ⅲ: The third molar is entirely within the mandibular ramus.
+
+Both systems have limitations in terms of their ability to fully describe impaction status and extraction resistance. Therefore, they are often combined in clinical practice.
+
+Pell & Gregory classification modified by Rui Sun and Ji-hong Zhao
+
+Category C includes all mandibular third molars below the cervical line of the second molar, which encompasses a wide range and does not accurately reflect the impaction depth or surgical difficulty. Teeth with a linear distance from the second molar exceeding the tooth length or located below its apical one-third are further classified as Category D teeth to improve precision. This subclassification more accurately represents the impaction depth and better predicts the complexity of extraction.
+
+Archer classification
+
+Based on the relative depth of the maxillary impacted third molar within the bone, four categories have been proposed:
+
+Level A—The lowest point of the crown of the maxillary impacted third molar is at the same level as the occlusal plane of the adjacent second molar.
+
+Level B—The lowest point of the crown is located between the occlusal plane and the cervical line of the second molar.
+
+Level C—The lowest point of the crown lies between the cervical line and the apical third of the second molar.
+
+Level D—The lowest point of the crown is positioned at or above the apical third of the second molar.
+
+While the classification of maxillary impacted third molars is often adapted from the Pell and Gregory system used for mandibular third molars, it does not include the traditional Class Ⅰ to Ⅲ categories. In an attempt to address this limitation, Chinese scholars have proposed a classification scheme based on the position of the buccopalatal crown of the maxillary third molar relative to the adjacent second molar, designating the tooth as being buccally impacted, centrally impacted, or palatally impacted. This refined system provides greater clinical relevance, as it can guide surgical planning; in particular, centrally or palatally impacted cases may benefit from a palatal approach, thereby facilitating extraction and reducing the risk of traumatic injury to the labial mucosa(Fig.).
+
+Adverse effects of impacted third molars on oral health
+
+Third molars, owing to their physiological characteristics, such as an insufficient eruption space, abnormal eruption direction, and delayed eruption time, are more prone to impaction than other permanent teeth; thus, these teeth are more likely to cause complications affecting themselves and adjacent tissues. Common clinical complications are listed below.
+
+Pericoronitis
+
+Pericoronitis is most common in the mandibular bone around third molars (82.41% incidence), typically manifests with local symptoms such as swelling, pain, and limited mouth opening, and in severe cases, it may be accompanied by systemic manifestations. M3Ms with impaction level A were more likely to be accompanied by pericoronitis than those with impaction level B, whereas M3Ms with impaction class Ⅱ had a greater risk of pericoronitis than those with impaction class Ⅰ.A soft tissue inflammatory response surrounding partially erupted or impacted third molars most commonly involves mandibular third molars (reported incidence: 82.41%). Level A impactions are associated with a greater incidence of pericoronitis than level B impactions, and class Ⅱ impactions present a greater risk than class Ⅰ impactions.
+
+Infection of the maxillofacial space
+
+Impacted third molars are responsible for 50%–70% of fascial space infections. Pericoronal infections may spread via potential pathways to the submandibular, parapharyngeal, and pterygomandibular spaces. Untreated cases may progress to multiple space infections requiring urgent treatment because of the risks of Ludwig’s angina, intracranial infections, or septicemia.
+
+Osteomyelitis
+
+Osteomyelitis occurs in approximately 6% of cases involving chronic pericoronitis because of the deep spread of infection through the alveolar bone.
+
+Adjacent tooth/crevicular effects
+
+The anatomical position of third molars creates plaque-retentive niches, turning their periodontal tissues into reservoirs of pathogenic microorganisms, which can compromise the periodontal health of adjacent second molars.Persistent food impaction between the third and second molars further exacerbates periodontal destruction.Consequently, second molars adjacent to third molars exhibit a significantly higher prevalence of periodontitis than those without third molars.Moreover, third molars may contribute to distal interproximal caries of second molars, with approximately 19.5% of patients with impacted third molars presenting distal caries in adjacent second molars.Mesioangular or horizontal impactions can additionally exert sustained pressure on the roots of second molars, leading to external root resorption.
+
+Odontogenic cysts and tumors
+
+Impacted third molars are a significant potential cause of jaw cysts and tumors, with approximately 5% of patients with impacted third molars developing associated jaw cysts or tumors.These pathologies account for significant mandibular morbidity.
+
+Temporomandibular disorders (TMDs)
+
+The impaction and abnormal eruption of mandibular third molars may contribute to the onset or aggravation of temporomandibular disorders (TMDs) through multiple mechanisms. Abnormal eruption patterns can cause condylar displacement and impair the function of pterygoid muscles, leading to joint dysfunction. In adults, impacted third molars may exert pressure on adjacent teeth, alter the curve of Spee, and produce occlusal interference that predisposes patients to TMD. Similarly, ectopic eruption may induce premature occlusal contact and occlusal trauma, further exacerbating joint symptoms. Periodontal pain associated with impacted third molars often leads to unilateral mastication, resulting in masticatory muscle overload and functional imbalance. Moreover, acute or recurrent pericoronitis can induce trismus, which increases mechanical loading of the temporomandibular joint and aggravates existing TMD manifestations. Clinical and imaging studies have confirmed that pericoronitis-related inflammation and pain may radiate to the TMJ region, often manifesting as restricted mouth opening, ear pain, or masticatory muscle spasm, and may even be misdiagnosed as primary TMD without a careful differential diagnosis
+
+Indications for extraction
+
+Treatment decisions balance tooth viability with risks and benefits after a comprehensive assessment. All the extraction indicators should favor clinical outcomes.
+
+Definite pathologic indicators
+
+Third molars involving recurrent pericoronitis/space infections;
+
+Carious teeth or those causing adjacent caries;
+
+Third molars causing occlusal interference (overeruption)/chronic food impaction;
+
+Periodontal damage to second molars;
+
+Odontogenic cyst/tumor association;
+
+Moderate/severe adjacent root resorption;
+
+Therapeutic extraction needs
+
+Orthodontic demands (space needs, molar uprighting, vertical adjustment);
+
+Third molars are located on the planned orthognathic osteotomy lines;
+
+TMD management protocols;
+
+Pretreatment clearance prior to radiotherapy/chemotherapy/immunotherapy;
+
+Preemptive removal before pregnancy due to an increased risk of pericoronitis with deep periodontal involvement.
+
+Prophylactic removal of symptomatic but potentially risky third molars
+
+Partial eruption of medially or horizontally impacted third molars;
+
+Soft tissue-impacted third molars that have not yet erupted;
+
+Complete bony-impacted third molars if the distal alveolar bone of adjacent teeth is deficient up to the crown of the impacted third molar or if the adjacent tooth roots show mild external resorption.
+
+Notably, these potentially risky third molars do not inevitably lead to adjacent tooth decay, loosening, loss, or other complications. Therefore, the decision to remove them should account for the patient’s preferences, the clinician’s expertise, and potential surgical complications. For patients who are reluctant to agree to removal (e.g., over 35 years of age with complete bony impaction), observation may be advised if the degree of surgical risk is high.
+
+Preoperative preparation for impacted third molar removal
+
+Owing to the complexity and risks of third molar extraction, specialized preparation is required beyond standard tooth removal protocols:
+
+Imaging, including mandatory preoperative X-rays and CBCT, if necessary.
+
+Laboratory tests include blood analysis (including coagulation) and additional tests (glucose, ECG, and liver/kidney function) as needed.
+
+An assessment of the patient’s condition should ensure good health and avoid surgery during menstruation or pregnancy (specifically in the first/last trimesters). For the management of third molars associated with anticoagulant oral therapy, care is required for patients with a complicated medical history, and a comprehensive multidisciplinary evaluation is needed.
+
+Premedication consists of administering prophylactic antibiotics 30–60 min prior to surgery, along with NSAIDs, to provide preemptive analgesia and manage postoperative pain.
+
+Sterile supplies, including surgical instruments, drapes, and dressings, should be prepared.
+
+In terms of instruments, micropower systems are suggested. At present, reusable pneumatic handpieces are commonly used in clinical practice in China. The use of piezosurgery or a handpiece with saline irrigation is recommended for bone removal and tooth sectioning to prevent infection. Saline or sterile water should be available for irrigation and cooling.
+
+Regarding tooth socket filling materials, in most cases of extraction, bone graft substitutes or socket hemostatic agents are not necessary. Bone graft substitutes and socket hemostatic agents should be prepared as needed.
+
+Anesthetic choices for impacted third molar surgery
+
+Local anesthesia is routinely employed for impacted third molar extraction. The most commonly used agents in China include lidocaine, articaine,and mepivacaine.
+
+For maxillary impacted third molars, posterior superior alveolar nerve block and greater palatine nerve block are frequently applied. Because the surrounding bone is relatively less dense, with thinner cortical plates and an abundant vascular supply of soft and hard tissues, local infiltration anesthesia with articaine is often preferred.This approach not only provides satisfactory anesthetic effects but also effectively reduces intraoperative bleeding. Importantly, even for deeply impacted maxillary third molars, local infiltration with articaine can achieve effective anesthesia. At such depth, the diffusion pattern of the anesthetic essentially mimics the effect of block anesthesia, thereby ensuring sufficient analgesia.
+
+For mandibular impacted third molars, the surrounding bone is denser, with thicker cortical plates and the presence of internal and external oblique ridges. Therefore, inferior alveolar, buccal, and lingual nerve blocks are the first-line anesthetic techniques. Alternatively, multiple-site infiltration with a sufficient volume of articaine can also achieve satisfactory anesthesia.
+
+With respect to anxiety management, nitrous oxide inhalation or painless injection devices may be used to reduce patient discomfort.In patients with severe dental anxiety, high surgical difficulty, or simultaneous extraction of multiple impacted teeth, general anesthesia may be considered.
+
+Recommended surgical protocol for impacted third molar removal
+
+General principles
+
+Resistance analysis: Perform presurgery planning via clinical and radiographic evaluations (tooth orientation, root morphology, and bone resistance).
+
+Safety: Minimize damage to adjacent tissues, nerves (inferior alveolar, lingual), and structures (maxillary sinus).
+
+Minimally invasive: Prioritize tooth splitting over excessive bone removal; preserve alveolar crest integrity.
+
+Sterility: Asepsis is a fundamental principle of surgical procedures. Owing to the unique environment of the oral cavity, absolute asepsis is challenging to achieve during surgery.
+
+Therefore, maintaining asepsis during surgery is crucial. In accordance with the “Standard for Infection Management in Dental Outpatient Clinics” (WS/T842-2024) issued by the National Health Commission, the water used for cooling and irrigation during oral surgery must be sterile. For impacted third molars that require incisions, flap elevation, and bone removal, a piezosurgery unit and handpiece should be used with sterile saline, sterile water, or distilled water for irrigation and cooling to reduce the risk of postoperative surgical wound infection.Since the air and water pathways of high-speed dental handpieces cannot be fully sterilized, strict infection control measures should be implemented during and after their use to prevent postoperative infection.
+
+Surgical techniques for the extraction of impacted third molars
+
+(1) Indications: These techniques are appropriate for most third molar extraction procedures.
+
+(2) Incisions: Common incisions include the following:
+
+Retromolar incision (for Pell & Gregory level A)
+
+Retromolar incision extending to the buccal gingival sulcus of first/second molars (level B)
+
+Retromolar incision with mesial–vertical release (levels C and D). Palatal/lingual incisions may be added for correspondingly positioned impactions.
+
+(3) Mucoperiosteal Flap Elevation: This technique predominantly involves buccal flap elevation with 2–3 mm extension beyond the intended bone removal area. The lingual tissues should be preserved to avoid injuring the lingual or palatine nerves and vasculature.
+
+(4) Window osteotomy: For osseously impacted third molars, proper window osteotomy should be performed to expose the impacted tooth and eliminate bone resistance. The bone removal range should adequately expose the crown of impacted third molars, preferably distal to the second molar. For deeper (level C or D) impacted teeth lingual/buccal to the second molar, at least 5 mm of alveolar crest bone height should be maintained on the facial and lingual aspects of the second molar to preserve periodontal health. For Pell & Gregory class Ⅲ horizontally impacted third molars largely embedded in the mandibular ramus, significant bone removal is needed to eliminate resistance.
+
+(5) Tooth Sectioning: Sectioning effectively resolves resistance, reduces trauma, and minimizes complications. Multiple techniques exist, such as mesiodistal root separation, coronal division, cervical crown‒root sectioning, tri-segment splitting, or T-shaped sectioning. Operators should flexibly apply these methods based on the impaction patterns, resistance locations, and dislocation paths, in which context, minimal bone removal and minimal complications should be prioritized. Multiple sectioning methods or repeated divisions may be combined. In maxillary third molar extraction with limited visual/operating space, sectioning is less frequent, although single-section division is sufficient when necessary.
+
+(6) Tooth Extraction/Displacement: After resistance is reduced through osteotomy and sectioning, appropriate minimally invasive elevators or forceps should be selected to sequentially retrieve the crown and roots. Continued retention indicates residual resistance, necessitating the reassessment of retention points and an additional reduction in resistance before extraction.
+
+(7) Socket Management: After extraction, inflammatory granulation tissues/residual follicles should be curetted from the socket. Residual tooth fragments/bone debris should be removed, followed by irrigation with saline or sterile water, the achievement of hemostasis, and the optional application of bone substitutes or CGF.
+
+(8) Wound Closure: Wound closure involves thorough suturing for flap wounds; in particular, the distal cervical region of the second molars should be sealed to prevent food/saliva infiltration, which affects healing. Loose suturing should be used for sockets with questionable hemostasis to facilitate drainage. Polytetrafluoroethylene polymer sutures are superior to silk sutures for reducing bacterial biofilms in both aerobic and anaerobic evaluations after tooth surgery.
+
+Characteristics of third molar germ extraction
+
+Based on the developmental and maturational characteristics of third molars in the Chinese population, third molars in individuals younger than 18 years, with incomplete root development and unerupted crowns, are generally defined as being in the “germ stage”.Due to the considerable individual variation during this stage and the fact that the germ stage may last 13–15 years, unexpected changescan occur in the germ and surrounding tissues. Therefore, appropriate health management must be implemented during this period. For third molar germs that have been identified as potentially harmful, regular monitoring and assessments should be conducted,with timely intervention when problems arise.
+
+The procedure of third molar germ extraction is similar to the basic surgical technique described above, with the following distinctive features:
+
+(1) Patients are generally younger, exhibit poorer compliance, and experience greater preoperative anxiety. Therefore, surgeons should establish effective communication to gain the patient’s trust prior to surgery.
+
+(2) Appropriate sedation should be administered preoperatively and intraoperatively to ensure adequate local anesthesia. The operator must be technically proficient and perform maneuvers gently.
+
+(3) Younger patients tend to have third molar germs positioned more buccally, with relatively thicker lingual/palatal bone walls.The presence of interposed bone between the germ and anatomical structures (mandibular canal/maxillary sinus) typically reduces the intraoperative risk of damage to the inferior alveolar nerve, lingual nerve, or maxillary sinus.
+
+(4) Root development of the third molars is incomplete at this stage, resulting in less resistance during extraction. While the lower mineralization level of the tooth germ facilitates faster sectioning, the mobility of the dental germ within the follicle complicates the sectioning process.
+
+(5) Third molar germ extraction causes minimal trauma, results in milder postoperative complications, and enables faster tissue healing.
+
+“Root Removal First” strategy for impacted third molar extraction
+
+This strategy is indicated for deeply embedded (level C or D), mesioangular or horizontal impacted mandibular third molars, where the crown closely abuts the second molar root or the roots lie near the inferior alveolar nerve. The distal bone to the second molar is removed to expose the third molar neck and part of the roots. The tooth is sectioned along the long axis at a 60° angle from anterosuperior to posteroinferior, and the root is elevated first. The crown is then pushed apically and removed, preserving the periodontal health of the second molar (Fig.).
+
+Submaxillary sinus membrane space approach for the extraction of maxillary impacted third molars
+
+This approach is indicated for level C or D maxillary impacted third molars with significant sinus protrusion. A 10×10 mmtrapezoidal bone window is created above the apex of the second molar using ultrasonic osteotomy, and the sinus mucosa is gently elevated to form a submucosal space. The impacted tooth is exposed and removed through this space, minimizing the risk of sinus membrane injury, tooth displacement into the sinus, or damage to adjacent roots (Fig.).
+
+Orthodontic traction followed by the extraction of impacted mandibular third molars
+
+This approach is applied to vertical, mesioangular, horizontal (axial angle <30°), or distoangular (axial angle <110°) mandibular third molars in close contact with the mandibular canal. Orthodontic forces gradually displace the tooth to separate the roots from the canal before extraction, reducing the risk of inferior alveolar nerve injury and promoting distal bone formation near adjacent teeth. This procedure requires the participation of an orthodontist or a general dentist with specialized orthodontic training (Fig.).
+
+Coronectomy of the impacted mandibular third molar
+
+This approach is indicated when mandibular third molar roots are closely associated with the mandibular canal or when roots are bulbous or curved, posing a high risk of nerve injury.Only the crown is removed, retaining part of the roots within the jaw. The crown section is located at or below the pulp chamber floor and 3–5 mm below the crestal bone margin.Postoperative monitoring includes a CBCT evaluation to assess the root position, bone coverage, and potential for secondary root removal, if necessary.Coronectomy reduces the risk of inferior alveolar nerve injury and postoperative pain while maintaining the periodontal health of the second molar (Fig.).
+
+Application of digital technology in impacted third molar extraction
+
+Digital technologies have become valuable tools for complex or high-risk impacted third molar extractions, enhancing surgical precision, reducing the surgical risk, and minimizing complications. Digital guide-assisted bone window preparation ensures accurate localization and bone removal, protecting critical structures such as the inferior alveolar nerve, maxillary sinus, and adjacent roots.Digital navigation systemsand surgical robots further allow precise control of the tooth sectioning direction and depth, improving procedural safety. Although these technologies currently require additional preparation time and cost, they are particularly beneficial for high-risk patients and less experienced surgeons, with ongoing advancements expected to streamline their clinical application. Additionally, endoscope-assisted extraction improves the visualization of deep surgical sites, facilitating refined manipulation and safer removal of deeply impacted third molars where conventional direct vision and intraoperative imaging are limited. Collectively, these digital and endoscopic approaches contribute to improved surgical outcomes, reduced intraoperative trauma, and a lower incidence of postoperative complications.
+
+Clinical decision trees
+
+The selection of the surgical approach for the mandibular (Fig.) and maxillary third molars (Fig.) is shown below. However, a consensus has not been reached on the extraction timing and use of digital technology. Managing special populations, including pregnant women, elderly patients, and individuals with systemic diseases, is challenging because of the complexity of their cases. Each requires a tailored treatment plan, as reliance on simplistic decision-tree models is insufficient.
+
+Application of implant materials in alveolar sockets
+
+The extraction of impacted third molars involves flap elevation and bone removal, resulting in relatively greater surgical trauma, a prolonged operative time, and possible distal alveolar bone resorption adjacent to the second molar.Therefore, appropriate postextraction socket management is critical for promoting healing and preventing complications such as bleeding, infection, and periodontal breakdown of adjacent teeth.
+
+Placement of hemostatic materials
+
+After the extraction of impacted third molars (particularly impacted mandibular third molars), varying degrees of bleeding may occur within the alveolar socket. Significant bleeding must be controlled. For mild bleeding (20–30 s without blood completely filling the socket), hemostatic materials are generally unnecessary. For moderate bleeding (socket filled with blood within 10–15 s), materials such as collagen sponges or absorbable hemostatic gauze can be placed in the socket to achieve effective hemostasis.For arterial bleeding, bone wax or iodoform gauze should be used for compression hemostasis. For special cases, a coagulation screening test is necessary.Cyanoacrylate tissue adhesive could replace silk sutures for the closure of surgical wounds due to its beneficial hemostatic effects on postoperative bleeding.The use of this adhesive may reduce postoperative oral disability, facial swelling, and erythema after tooth extraction, with increased average and medium pain when cyanoacrylate gel is applied to the blood clot and sutured to promote recovery for secondary closure.
+
+Implantation of materials that promote alveolar bone healing
+
+After a routine impacted third molar extraction, the alveolar socket usually achieves satisfactory healing without the use of bone-promoting materials. However, if a preoperative reduction in buccolingual and distal alveolar bone height around the second molar is present or if buccolingual crestal bone removal occurs during surgery, postoperative root exposure or deep periodontal pockets at the second molar may develop.The following bone-healing materials may be implanted in the socket to preserve the periodontal health of the second molar:
+
+(1) Concentrated Growth Factor (CGF): As a third-generation platelet concentrate, CGF comprises fibrin gel embedded with growth factors that promote microvascular regeneration.Its 3D fibrous network structure supports cell adhesion, proliferation, tissue contour restoration, and regeneration.CGF can be implanted alone into the third molar socket. If buccolingual crestal bone loss at the second molar is significant, CGF should be mixed with bone substitute materials to restore the height of the alveolar crest.
+
+(2) Bone Substitute Implantation: Implanting bone substitutes into the third molar socket after extraction effectively restores the buccolingual and distal alveolar bone height at the second molar, maintains the osteogenic space, guides bone regeneration, and reduces postoperative periodontal complications.Common substitutes include autologous bone, allografts, xenografts, and synthetic materials, which are ideally absorbable within 3–6 months.The forcing of substitutes into the mandibular canal should be avoided, tension-free soft tissue closure should be ensured, and membranes should be used if primary closure is challenging.
+
+(3) Bone Lid Technique: For deeply impacted mandibular third molars requiring extensive buccal/distal bone removal near the second molar, a predesigned bone window (size/shape) is cut with the assistance of piezoelectric tools through cortical and partial cancellous bone. The harvested bone block, preserved in saline ( < 30 min), is reimplanted after extraction to restore the height of the alveolar crest and prevent periodontal complications. Stabilizing the reimplanted block by underlying tissue/material support is critical for success.
+
+Clinical guidelines for the postoperative management of the extraction site of impacted third molars
+
+Postoperative follow-up and review
+
+Postoperative follow-up: Patients should be contacted via telephone or online communication on the second day after surgery to assess their general condition and the surgical site and to provide necessary health instructions.
+
+Complication management: Patients who experience active bleeding or other postoperative complications should be advised to return to the hospital promptly for a clinical evaluation.
+
+Suture Removal and Early Healing Assessment: Soft tissue wounds generally heal within 7–10 days. A follow-up appointment should be scheduled during this period to evaluate wound healing, remove sutures, and examine adjacent teeth. Any abnormalities should be addressed in a timely manner.
+
+Bone-healing assessment: For patients with significant preoperative bone defects on the distal aspect of the adjacent tooth (second molar), a follow-up visit at approximately three months after the operation is recommended to assess alveolar bone healing through a clinical or radiographic examination. If healing is unsatisfactory, appropriate measures should be taken, or the patient should be referred to a periodontal specialist.
+
+Principles of antibiotic use
+
+Indications: Prophylactic antibiotics are generally not required for the uncomplicated extraction of impacted maxillary third molars in patients in good overall health.
+
+After complex extraction: If the procedure is complex, involves a prolonged operation time, or causes significant tissue trauma, the risk of postoperative infection increases, and prophylactic antibiotics are recommended.
+
+Regimen selection: A combination of β-lactam antibiotics and nitroimidazole agents may be used for prophylaxis. The route of administration (oral or intravenous) should be determined based on the patient’s specific condition, typically for a duration of 3–5 days.
+
+Management of common severe complications of impacted third molar extraction
+
+Due to factors such as the position of impacted third molars, the systemic or local tissue health of patients, surgical instruments, or the operator’s clinical skills, severe complications may arise.Once serious complications occur, corresponding treatment should be provided promptly if conditions permit. If managing complications is difficult,timely referrals should be arranged while ensuring patient safety.
+
+Management of nerve injury
+
+Impacted third molar extraction may lead to inferior alveolar nerve injury, lingual nerve injury, or, occasionally, greater palatine nerve injury. Most nerve injuries involve friction, contusion/laceration, or crush damage, with rare cases of complete transection. Patients with inferior alveolar or lingual nerve injuries typically experience significant numbness and require active treatment, whereas greater palatine nerve injuries often cause minimal discomfort.
+
+For contused or crushed nerves, the following steps should be considered:
+
+Administer glucocorticoids or sodium aescinate intravenously to reduce edema (1-week course).
+
+Prescribe vitamin B₁ + vitamin B₁₂ or mecobalamin tablets to promote nerve recovery (3–6 months).
+
+Recommend low-level laser therapy.
+
+Nerve anastomosis should be performed promptly for transected nerves.
+
+Management of root displacement into the mandibular canal
+
+Root fractures during the extraction of impacted mandibular third molars may occur because of the root curvature, proximity to the mandibular canal, or enlarged apices. During the process of fragment retrieval, careless maneuvers may push root fragments into the mandibular canal.
+
+For fragments <3 mm in length with a penetration of <1/3 of the canal diameter, where no neurological deficits are observed, close observation is necessary if retrieval is challenging.
+
+For fragments >3 mm in length, those penetrating ≥1/2 of the canal diameter, or those with neurological deficits, prompt removal is required.
+
+Key principles for surgery include:
+
+Preoperative CBCT imaging for precise localization.
+
+Maintenance of clear visualization or the use of an endoscope during surgery. Piezoelectric ultrasonic devices should be used to create space around the fragment, followed by minimal-force extraction with microforceps or hemostats. Levering or rocking motions should be avoided to prevent secondary nerve injury or deeper fragment displacement.
+
+Intraoral endoscopy (rigid or flexible) enhances visualization and minimizes trauma during fragment retrieval:
+
+Rigid endoscopes offer high resolution and compatibility with ultrasonic instruments.
+
+Flexible endoscopes offer adjustable angles for improved exploration.
+
+Management of root displacement into the lingual space
+
+The lingual bone plate of impacted mandibular third molars is usually thin, and partial lingual bone plate loss may occur in some roots. During the extraction of impacted mandibular third molars, roots or even entire teeth may displace into the lingual soft tissue space. Teeth or roots entering soft tissue spaces should be retrieved whenever possible.
+
+During mandibular third molar extraction, if a tooth or root “disappears” from the socket, CBCT should be performed to determine its position. If the entire tooth has shifted into the lingual space, it can often be palpated through the lingual mucosa. In an attempt to push the tooth upward, partial removal of the lingual bone plate may be necessary to extrude the tooth. If this attempt is unsuccessful or for displaced roots, a triangular incision can be made distal to the mesiolingual aspect of the second molar to reflect the lingual mucoperiosteal flap. Direct visualization allows the retrieval of the displaced tooth/root from the soft tissue space corresponding to the lingual bone plate defect using vascular forceps. Intraoral endoscopy increases safety and efficiency. The lingual nerve should be protected, and hemostasis should be ensured.
+
+For overlooked teeth/roots in soft tissue spaces, the following steps are important:
+
+Strict follow-up should be provided with periodic CBCT.
+
+Immediate intervention is needed if displacement or inflammatory changes occur.
+
+Management of tooth displacement into the maxillary sinus
+
+The impacted maxillary third molars are often adjacent to the maxillary sinus, which increases the degree of displacement risk during extraction. Immediate retrieval is strongly advised.
+
+Procedure:
+
+Confirm displacement via CBCT when a tooth/root “disappears” intraoperatively.
+
+Extend the buccal incision and flap reflection to expose the anterolateral sinus wall.
+
+Create an ~0.8 × 0.8 cmwindow in the anterolateral wall for suction-assisted retrieval.
+
+Irrigate and perform thorough aspiration of sinus fluids, particularly for patients with a history of sinusitis.
+
+Reposition and suture the mucoperiosteal flap over the window.
+
+Place the collagen sponge/CGF in the socket and achieve tight closure.
+
+Retained sinus items require the following:
+
+Regular CBCT monitoring.
+
+Prompt management of sinusitis complications.
+
+Management of alveolar bone vascular hemorrhage
+
+Uncontrolled bleeding from small vascular branches in the impacted third molar alveolus requires immediate attention.
+
+For bleeding during extraction, the following steps are needed:
+
+Apply bone wax/temperature-sensitive gel to achieve hemostasis.
+
+Clear excess materials postextraction.
+
+Consider aborting the procedure if the hemorrhage recurs.
+
+For postextraction alveolar bleeding, use bone wax or iodized gauze packing.
+
+Management of dry socket
+
+Dry socket (alveolar osteitis) is a relatively common postoperative complication following third molar extraction, particularly following the removal of mandibular third molars. Pathologically, it results from exposure of the alveolar bone walls, leading to an infection of the socket. The hallmark clinical symptom is severe, persistent pain. Therefore, the core principles of managing dry socket are infection control and pain relief.
+
+Initial clinical management involves the debridement of necrotic tissue and food debris from the socket, followed by irrigation with sterile saline and thorough suctioning. An iodoform gauze strip or minocycline hydrochloride can subsequently be placed in the socket and replaced every 3–5 days.When fresh granulation tissue or bleeding is observed within the socket, CGF can be applied to reduce the frequency of dressing changes and shorten the overall treatment course.During this period, adjunctive use of photobiomodulation therapy (PBMT) can effectively promote socket healing.For patients experiencing severe pain, appropriate analgesics should be administered.
+
+Functional utilization of impacted third molars
+
+Impacted third molars or those without opposing teeth should be preserved as much as possible if they do not cause clinical symptoms. When adjacent molars or premolars require extraction, functional recovery can be achieved through autotransplantation or orthodontic movement of the third molar.
+
+Functional utilization of third molar autotransplantation
+
+Autogenous tooth transplantation involves transferring a tooth from one position to another within the same individual.Third molars are common donor teeth that are typically transplanted to replace missing first or second molars and, occasionally, to premolar regions.
+
+A preoperative assessment (clinical examination and CBCT imaging) must evaluate transplant feasibility based on the following parameters:
+
+Root development that is ≥3/4 complete;
+
+A healthy tooth structure that can be extracted intact with minimal trauma;
+
+Adequate recipient alveolar bone volume;
+
+Compatibility between the donor tooth and the recipient site.
+
+A digitized 3D donor tooth model and surgical guide should be created preoperatively. The recipient socket is prepared using the donor model after the target tooth is extracted. The third molar is minimally extracted to preserve periodontal ligament integrity and avoid root fracture and is then immediately transplanted to the recipient site (extracorporeal time ≤15 min) and stabilized. Root canal therapy may be performed 2–4 weeks after surgery.
+
+The criteria for successfully autotransplanting third molars are listed below.
+
+Twelve-month post-operative verification of the following parameters is needed:
+
+Normal physiological mobility;
+
+A normal percussion tone;
+
+Absence of periodontal pockets/inflammation;
+
+Functional occlusion.
+
+Radiographic confirmation of the following parameters is needed:
+
+Normal periodontal ligament space;
+
+No progressive internal/external root resorption;
+
+Hard lamina at the alveolar margin.
+
+Current success rates in China have reached ~95%, demonstrating the effective functional utilization of impacted/non-functional third molars.
+
+Functional utilization of orthodontic third molar mesialization
+
+Orthodontic movement preserves the functional potential of impacted/non-functional third molars. When neighboring first/second molars require extraction or lack a long-term prognosis, the selective extraction of compromised teeth allows third molar mesialization for functional substitution.
+
+For malocclusion cases requiring premolar extraction to gain orthodontic space, the following point should be considered:
+
+Adjusted therapy prioritizes the extraction of severely damaged first/second molars (with favorable third molars), thereby preserving intact premolars.
+
+For non-orthodontic patients who require first/second molar extraction, the extraction of compromised molars with third molar mesialization preserves healthy natural dentition.
+
+Despite various challenges (technical complexity, extended treatment duration, and higher costs), compared with autotransplantation, orthodontic mesialization achieves vital pulp preservation. This strategy must be implemented by specialized orthodontists.
