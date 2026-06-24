@@ -144,8 +144,8 @@ graph LR
 - [[wiki/sinus-lift/transcrestal/mazor-2024-maxillary-sinus-membrane-perforation-osseodensification|Mazor et al. 2024 multicenter cross-sectional (6센터·670 sites)]] [합의수준] — OD 기반 TSFE **슈나이더막 천공률 7.31%** (기존 7–58% 하단). **RBH ≤3 mm가 천공 독립 위험인자**; 부위·socket 상태(healed/fresh)는 무관.
 - [[wiki/sinus-lift/transcrestal/samir-2024-osseodensification-piezoelectric-internal-sinus-elevation|Samir 2024 RCT (OD vs 피에조)]] [합의수준, RCT] — OD가 골량·골밀도·수술시간·만족도 우위, 피에조는 당일 1차 안정성 우위 — 둘 다 유효, 강점이 다름.
 
-**대안 OD 버 시스템 — HaeNaem CW-OD (시계방향 회전)**:
-[[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani et al. 2024 (Cureus, 전향적 단일군, n=12)]]은 경치조골 간접 상악동 거상에 시계방향 (Clockwise, CW) 회전 OD 버인 HaeNaem Zero Bone Loss Kit을 적용한 유일한 전향적 임상 데이터다. RCBH 6–8 mm, 무이식, 동시식립 조건에서 4개월 CBCT 4방향(근심·원심·협측·구개측) 모두 유의한 골고 증가(p<0.01). **Densah(Versah)가 반시계방향(CCW) 회전으로 bone을 burnish하는 것과 달리 HaeNaem은 CW 전진 회전으로 압축력을 전달** — 근거 수준: n=12, 대조군 없음, 단기(4개월), ISQ 수치 미보고, 낮음. 제조사 주장("Densah 대비 risk-to-benefit 우위")은 내부 비교 데이터 없는 assertion임. Densah CCW 패러다임의 유일한 현존 CW 대안 임상 시리즈로서 의의 있으나, 실용적 권고 도출에는 추가 연구 필수. [합의수준 미달, 낮은 근거]
+**대안 OD 버 시스템 — HaeNaem CW-OD (시계방향 회전)** ⚠️ **(아래 Changrani 2024는 이후 RETRACTED/철회됨 — 임상근거로 인용 금지)**:
+[[wiki/sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift|Changrani et al. 2024 (Cureus, 전향적 단일군, n=12) — RETRACTED]]은 경치조골 간접 상악동 거상에 시계방향 (Clockwise, CW) 회전 OD 버인 HaeNaem Zero Bone Loss Kit을 적용한 (현존) 유일한 전향적 임상 데이터였다. RCBH 6–8 mm, 무이식, 동시식립 조건에서 4개월 CBCT 4방향(근심·원심·협측·구개측) 모두 유의한 골고 증가(p<0.01)로 보고됐으나, **이 논문은 이후 철회(retracted)되었으므로 위 수치를 근거로 사용해서는 안 된다.** 제조사 주장("Densah 대비 risk-to-benefit 우위")은 내부 비교 데이터 없는 assertion이며, 단일군(대조군 없음)이라 Densah와의 head-to-head 비교도 아니었다. 따라서 HaeNaem CW-OD에 대한 유효한 전향적 임상근거는 **현재 부재**하다. [철회됨 — 근거 무효]
 
 **주의**:
 - ESBG (Endo-Sinus Bone Gain)는 측방창 대비 OD에서 적음. 수직 골증대가 1차 목표면 측방창 우선 [근거강함, Starch-Jensen 2025].
@@ -265,7 +265,7 @@ graph LR
 - [[implants/gehrke-2021-healing-chambers-macrogeometry-low-density-drilling]] — in-vitro: undersized는 PCF-20에서만 효과, 최저밀도 한계 + macrogeometry 보완
 - [[sinus-lift/transcrestal/yousry-2025-ozone-gel-osseodensification-transcrestal-sinus-rct]] — RCT: 경치조 OD+ozone gel 보조제 골치수 null
 - [[sinus-lift/transcrestal/sulyhan-2024-transcrestal-osseodensification-graft-radiographic-pilot]] — pilot: 경치조 OD+이식재 +6.65mm 골고, 12mo 수축 0.90mm, 성공률 100%
-- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — CW-OD 버(HaeNaem) 경치조 간접 거상 전향적 단일군 (n=12, RCBH 6–8mm, 무이식, 4mo CBCT 4방향 골고↑): Densah CCW 패러다임과 대비되는 유일한 CW OD 임상 데이터 [낮은 근거]
+- [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(retracted/철회됨 — 인용 금지)** CW-OD 버(HaeNaem) 경치조 간접 거상 전향적 단일군 (n=12, RCBH 6–8mm, 무이식, 4mo CBCT 4방향 골고↑): Densah CCW 패러다임과 대비되는 유일한 CW OD 임상 데이터였으나 이후 철회됨 [근거 무효]
 - [[overviews/d4-bone-densah-protocol]] — D4 chairside 인터랙티브
 - [[overviews/sinus-lift-technique-selection]] — sinus 술식 선택
 - [[overviews/isq-loading-threshold]] — ISQ 부하 결정
