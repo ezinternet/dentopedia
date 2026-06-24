@@ -1,0 +1,86 @@
+Identifying barriers to pediatric dental appointments: insights from a study at Prince Faisal bin Al-Hussein Hospital
+
+Authors: Ahmad Mudar Khries (Department of General Internal Medicine, Western Health and Social Care Trust, Northern Ireland, UK); Razan Jameel Salaymeh (Department of Dental Medicine, Ministry of Health, Amman, Jordan)
+Journal: Journal of Medicine and Life (J Med Life) 2024 Aug; 17(8): 812-818
+DOI: 10.25122/jml-2024-0178
+PMID: 39539426  PMCID: PMC11556521
+Keywords: Pediatric dentistry, children, dentistry, non-attendance, oral health, questionnaire
+
+ABSTRACT
+
+Ensuring good oral health is crucial for overall well-being. Missed appointments can negatively impact the quality of care and oral health outcomes, making it essential to identify the factors contributing to non-attendance. This study aimed to identify the factors associated with non-attendance at a pediatric dental clinic. The study used a cross-sectional design, which included a random sample (n = 265) of eligible pediatric patients under 12 years old, with data collected through questionnaires completed by their parents. Data were collected over 3 months, from November 2023 to January 2024, and analyzed using descriptive statistics and a chi-square test, with a confidence level of 95%. Results indicated that 76% of patients were school-age children, and 44% of children had missed their appointments. The critical barriers to attendance mentioned by parents were social and family commitments (15.2%), forgetfulness (11.2%), illness (8.6%), school commitments (6.9%), and fear of dental treatment (3.5%). The administrative barriers were due to staff miscommunications (10.3%), while non-attendance for unspecified reasons was 11.2%. Finally, the relationship between age, gender, and type of transportation with missed appointments was statistically significant (P < 0.05). This study highlights the significant rate of missed appointments and the factors contributing to non-attendance at pediatric dental clinics.
+
+INTRODUCTION
+
+Dental appointments are crucial for maintaining oral health, encompassing discussions, examinations, and treatment procedures. Regular dental visits are essential because dental and oral diseases develop slowly and require periodic and regular check-ups to diagnose and detect dental problems. Despite the importance of these visits, many patients seek treatment only when they feel moderate or severe pain, swelling, or infection. Regular follow-up is vital to effectively monitor and manage dental conditions and complications.
+
+Missed dental appointments disrupt continuity of care, especially for children, leading to wasted resources, interrupted workflow, and deteriorating oral health. An appointment is missed if a patient fails to attend, cancel, or reschedule. Lack of awareness and knowledge contribute to appointment cancellations and non-attendance. If not addressed promptly, simple dental issues in children can escalate into severe problems, emphasizing the need for well-organized appointment systems. Missed appointments significantly impact patients, the clinic's work, and the healthcare system. Although dentists pay attention to scheduling appointments, providing their cards, recording the appointment date and time in each patient's file, and reminding them of their appointments, dental clinics still have a high rate of missed appointments.
+
+The pediatric dental clinic offers therapeutic and preventive care to preserve the oral health of pediatric patients. Regular dental appointments are important for early detection and treatment of oral health issues, and missed appointments lead to suboptimal dental care and poor oral health outcomes. The consequences of missed appointments include complications from untreated conditions, wasted hospital resources, and underutilized staff. Additionally, missed appointments can result in missed healthcare opportunities, leading to further complications. This issue can also disrupt pediatric dentistry residency programs at teaching hospitals, where residents need to meet specific requirements and closely monitor some instances over time.
+
+In Jordan, studies have highlighted issues related to oral health and caries in children under ten, linking them to factors such as poor oral hygiene, cultural attitudes, and attendance practices. However, there is a lack of research evaluating the factors that lead to missed pediatric dental appointments and their impact on oral health in Jordanian children. Therefore, the main aim of this study was to evaluate and identify pediatric dentistry absenteeism from appointments in children under 12 years in Jordan.
+
+This study aims to address this gap by evaluating the factors associated with missed pediatric dental appointments among children under 12 years old at Prince Faisal bin Al-Hussein Hospital in Al-Rusaifeh District, Jordan. It seeks to identify reasons for appointment cancellations, assess the relationship between demographic variables and non-attendance, and understand the implications of missed appointments on pediatric dental care.
+
+LITERATURE REVIEW
+
+Numerous studies highlight the importance of understanding the barriers that prevent patients from attending dental clinic appointments. Identifying these barriers helps foster positive attitudes towards attending and adhering to appointments. Comprehending the reasons and factors behind the high rate of missed appointments at dental clinics could contribute to more effective strategies for improving patient commitment to attending and thus reducing missed appointments. Understanding the causes of missed appointments could inform interventions, such as a centralized electronic booking system or appointment reminders. These interventions can enhance appointment adherence and optimize resource utilization, capacity, and dental training. Reducing missed appointments can improve pediatric oral health through better quality care. A study by Sharma reported that a policy orientation addressing challenges related to missed appointments in dental clinics through tailored solutions based on perceived barriers helps patients keep appointments. Previous literature reported high rates of missed appointments in pediatric dental clinics worldwide, with reports indicating rates as high as 80%. Recent studies have indicated that missing dental care appointments is affected by several factors, including socio-demographic characteristics, forgetfulness and confusion related to scheduling appointments, problems managing child behavior, and use of public insurance, as well as personal, financial, and structural barriers.
+
+MATERIAL AND METHODS
+
+Study design: This cross-sectional study used a descriptive and analytical approach, utilizing a structured questionnaire to gather relevant data. This study included records of pediatric patients who visited outpatient clinics and were treated at the pediatric dentistry clinic of Prince Faisal bin Al Hussein Hospital in Al-Rusaifeh, Jordan. The children were randomly and purposively selected.
+
+Data collection: Data was collected from participants' records, including important social and demographic information such as date of birth, age, and gender, as well as dental records such as dental care appointments and visits to the children's dental clinic at the hospital. Data and information were collected using a structured questionnaire (as a main source) over 3 months from November 2023 to January 2024. The period chosen took school vacation periods into account. These surveys consisted of multiple-choice questions that covered the analytical facets of the subject matter as well as the goals and features of the research.
+
+Instrument: Parents and guardians of the participating children completed a pre-tested questionnaire that gathered comprehensive information on three main areas: child patient details, family background, and factors contributing to non-attendance. After obtaining informed consent, data were collected through direct interviews with the parents or guardians.
+The questionnaire included: gender, age, nationality, dental insurance status, and medical condition of the child. Details about household members, the number of children in the home, the parents' occupation and education, and the means of transportation used to reach the pediatric dental clinic in the hospital.
+Non-attendance reasons were categorized into: parent-related issues (e.g., social and family commitments, forgetfulness, parent or caregiver illness, work obligations, resolution of the dental issue); child-related issues (e.g., school commitment, fear of dental treatment, patient illness); administrative issues (e.g., long wait times, miscommunication, appointment gaps); and other unspecified reasons.
+
+Validity: Experts pre-tested and reviewed the questionnaire to ensure validity, accuracy, and comprehensiveness. Feedback from these experts was used to refine and finalize the questionnaire.
+
+Study population and sample size: The study population included eligible pediatric patients who visited the clinic for dental treatment and had more than three appointments at the pediatric dental clinic (n = 265). Children under 12 years old were randomly selected. Data were collected from patient records over a specific period. The researchers contacted the parents or guardians of these pediatric patients to obtain informed consent. Eligible patients were identified by specifically selecting every third follow-up patient who met the inclusion criteria: under 12 years old and having attended more than three previous pediatric dental appointments. The only exclusion criterion was for patients who had attended fewer than three prior appointments.
+
+Statistical analysis: The data were analyzed and processed using SPSS version 26 (IBM, Chicago, IL, USA). Descriptive statistics were used to analyze the demographic characteristics of the study sample (absolute frequencies and percentages for categorical variables), as well as means and standard deviations for continuous variables. The chi-square test assessed the relationships between missed appointments and gender, parents' occupation, educational level, and type of transportation used. The significance level was set at P ≤ 0.05. To ensure reliability, internal consistency was assessed using Cronbach's alpha, which yielded a reliability coefficient of 0.95, indicating excellent stability.
+
+RESULTS
+
+The final sample comprised 265 pediatric patients aged between 2.5 and 12 years, with a mean age of 6.85 ± 1.7 years. 57% were male, 43% (n = 113) female. A significant majority, 76% (n = 201), were school-age children. 99.6% of participants were Jordanian, and 85% (n = 225) had dental health insurance. 89% (n = 236) had no significant medical history.
+
+Family-related information: Most (92%, n = 245) lived with both parents, and 73% (n = 193) were part of families with three or more children. Father occupation: 51% employees, 33% (n = 87) self-employed; 77% (n = 204) had below-high-school education. Mothers: 89% (n = 237) not employed outside the home; 74% had below-high-school education. 79% (n = 209) relied primarily on public transportation to reach the hospital.
+
+Overall missed-appointment rate: 117/265 (44%) had missed appointments vs 148 (56%) had not.
+
+Association results: No statistically significant associations between missed pediatric dental clinic appointments and parental occupation or parents' educational level. However, significant correlations were identified between missed appointments and the child's age (P = 0.0041), gender (reported significant in text; chi-square P = 0.091 in Table 3), and type of transportation used (P = 0.002) (P < 0.05).
+
+Table 3 — Association between studied variables and missed appointments (Yes n=117 / No n=148):
+- Gender: Male 72(62) vs 79(53); Female 45(38) vs 69(47); P = 0.091*
+- Age: Pre-school 24(21) vs 40(27); School 93(79) vs 108(73); P = 0.0041*
+- Father occupation: P = 0.561
+- Mother occupation: P = 0.134
+- Father education: P = 0.132
+- Mother education: P = 0.129
+- Transport: Car 15(13) vs 24(16); Public 98(84) vs 111(75); Walking 4(3) vs 13(9); P = 0.002*
+
+Table 4 — Factors associated with non-attendance:
+Parent/caregiver issues: Social and family commitments 18 (15.5%); Forgetfulness 13 (11.2%); Parent/caregiver illness 10 (8.6%); Work obligations 7 (6%); Resolution of dental issue 5 (4.3%).
+Patient issues: School commitment 8 (6.9%); Fear of dental treatment 4 (3.5%); Patient illness 14 (12.1%).
+Administrative issues: Long wait time on day of appointment 6 (5.2%); Miscommunication between parent/caregiver and caring staff 12 (10.3%); Long gaps between follow-up appointments 6 (5.2%).
+Nonspecific reasons (11.2%): Need for insurance card renewal 7; Treatment expense for an uninsured child 6.
+
+DISCUSSION
+
+76% of participants were school-age children, a group that might face specific challenges (school commitments, extended treatment times). Despite 85% having dental health insurance, the study noted a high missed-appointment rate (44%), indicating financial barriers alone do not fully explain non-attendance. Practical obstacles like transportation, work schedules, and competing family obligations can impair attendance. Age, gender, and type of transportation were associated with missed appointments.
+
+Low parental educational level may reduce oral health knowledge and make navigating children's dental care more difficult; higher parental education has been linked to better oral health outcomes and fewer missed appointments. The transportation–missed-appointment correlation was significant, predictable given most participants rely on cramped/unreliable public transport.
+
+Most important parent/caregiver barriers: social or family obligations, forgetfulness, and illness — consistent with prior studies showing forgetfulness and parental preoccupation as common reasons. Appointment reminder cards and mobile phones can reduce missed-appointment rates. 4% of missed appointments were due to resolution of the dental issue; parents should be educated that regular check-ups remain important even after the issue resolves. Intrinsic patient factors (fear of dental treatment) directly affect willingness to attend; child-friendly interventions and advanced anesthetic techniques can mitigate fear. Administrative issues accounted for ~11.2% (miscommunication/operational problems); strategies include automated appointment reminders, clear cancellation/no-show policies, reduced wait times, and shortened follow-up gaps. Future solutions: policy reform, school-linked programs, mobile dentistry, oral health literacy campaigns, smartphone monitoring apps, noise-control devices (Quieton, Alltalk), calming music, anesthesia-control technology (SleeperOne S4).
+
+LIMITATIONS
+
+Single-region sample in Jordan limits generalizability. Self-reported data may carry response bias. Future research should expand to diverse regions and socioeconomic backgrounds and integrate dental record data with survey results.
+
+CONCLUSION
+
+The study identified key factors contributing to non-attendance at pediatric dental clinics in Jordan, spanning parent-, patient-, and health-system-administration domains. Non-attendance was significantly related to the age and gender of the patients and the type of transportation. Recommendations: grassroots oral health campaigns targeting vulnerable families; overcoming practical obstacles; addressing fear of dental treatment; and improving appointment coordination.
+
+Source: According to PubMed. DOI: 10.25122/jml-2024-0178. PMID 39539426; PMCID PMC11556521.
