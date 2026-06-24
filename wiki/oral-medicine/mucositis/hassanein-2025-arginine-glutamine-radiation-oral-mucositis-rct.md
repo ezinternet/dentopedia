@@ -5,7 +5,7 @@ year: 2025
 date: 2025-01-01
 doi: 10.1007/s00432-025-06213-x
 source: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.md
-category: [oral-medicine]
+category: [oral-medicine/mucositis]
 confidence: rct
 pdf_path: /Users/oracleneo/llm-wiki/papers/hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.txt
 pdf_filename: hassanein-2025-arginine-glutamine-radiation-oral-mucositis-rct.txt
@@ -55,4 +55,4 @@ Radiation-induced oral mucositis (RIOM) is a major dose-limiting toxicity of hea
 
 ## Related Papers
 
-- [[oral-medicine/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — companion oral-mucositis evidence in the pediatric chemo/radiotherapy prevention setting; this RCT adds adult HNC radiotherapy treatment data and a direct arginine-vs-glutamine comparison.
+- [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — companion oral-mucositis evidence in the pediatric chemo/radiotherapy prevention setting; this RCT adds adult HNC radiotherapy treatment data and a direct arginine-vs-glutamine comparison.

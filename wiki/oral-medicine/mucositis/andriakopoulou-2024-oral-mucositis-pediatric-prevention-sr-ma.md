@@ -5,7 +5,7 @@ year: 2024
 date: 2024-01-01
 doi: 10.21873/invivo.13535
 source: andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma.md
-category: [oral-medicine]
+category: [oral-medicine/mucositis]
 confidence: sr+ma
 source_collection: pubmed-text
 full_text: false

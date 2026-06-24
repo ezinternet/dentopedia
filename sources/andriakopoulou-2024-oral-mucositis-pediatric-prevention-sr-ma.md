@@ -3,7 +3,7 @@ title: "Prevention and Treatment of Oral Mucositis in Pediatric Patients: System
 authors: Chrysi Stefania Andriakopoulou, Christos Yapijakis, Ioannis Koutelekos, Pantelis Perdikaris
 year: 2024
 doi: 10.21873/invivo.13535
-category: [oral-medicine]
+category: [oral-medicine/mucositis]
 source_collection: pubmed-text
 full_text: false
 pmid: "38688628"

@@ -5,7 +5,7 @@ year: 2024
 date: 2024-04-12
 doi: 10.3390/cancers16081548
 source: bragues-2024-oral-mucositis-children-cancer-management-sr.md
-category: oral-medicine
+category: [oral-medicine/mucositis]
 confidence: sr
 pdf_path: /Users/oracleneo/llm-wiki/papers/bragues-2024-oral-mucositis-children-cancer-management-sr.txt
 pdf_filename: bragues-2024-oral-mucositis-children-cancer-management-sr.txt
@@ -60,4 +60,4 @@ Mechanistic/per-therapy notes: chlorhexidine works via removal of pathogenic ora
 
 ## Related Papers
 
-- [[oral-medicine/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — companion pediatric oral-mucositis SR; this Braguès SR covers management/treatment ranking while Andriakopoulou focuses on prevention (SR+MA), the two together spanning the pediatric OM prevention→treatment axis.
+- [[oral-medicine/mucositis/andriakopoulou-2024-oral-mucositis-pediatric-prevention-sr-ma]] — companion pediatric oral-mucositis SR; this Braguès SR covers management/treatment ranking while Andriakopoulou focuses on prevention (SR+MA), the two together spanning the pediatric OM prevention→treatment axis.
