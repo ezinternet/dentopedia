@@ -1,0 +1,66 @@
+Root and canal anatomy of mandibular first molars using micro-computed tomography: a systematic review
+Al-Rammahi HM, Chai WL, Nabhan MS, Ahmed HMA. BMC Oral Health. 2023;23(1):339. doi:10.1186/s12903-023-03036-5
+PMID 37248469 | PMCID PMC10228077
+Source: PubMed / PMC full text (JATS). OSF protocol registration 2022-06-20, reg. 10.17605/OSF.IO/EZP7K
+
+=== ABSTRACT ===
+Background: A thorough understanding of root and canal anatomy is crucial for successful root canal treatment outcomes. This systematic review aims to explore the published micro-CT studies investigating the anatomy of root and canal system in permanent mandibular first molars.
+
+Method: Electronic search on Web of Science, PubMed, and Scopus. Micro-CT journal studies investigating root and canal anatomy of permanent double-rooted mandibular first molars were included. Risk of bias (ROB) assessed with Anatomical Quality Assessment (AQUA) tool. Meta-analysis performed for prevalence of Vertucci's canal configurations, middle mesial canal (MMC) configurations, and Fan's isthmus types.
+
+Results: Amongst 1358 identified studies, thirty met the inclusion criteria. 22 (73%) reported population/ethnicity, 25 (83%) reported micro-CT specifications, 12 (40%) reported ethical approval. 28 (93%) studies did not disclose the method of sample size estimation. Only 6 (20%) calibrated the assessment approaches. Potential ROB in domain 1 (objectives & subject characteristics) and domain 3 (methodology characterization); low risk in domains 2 (study design), 4 (descriptive anatomy), 5 (reporting of results). Overall ROB "moderate" in vast majority (27/30). Meta-analysis: high heterogeneity for MMCs (I²=86%) and Fan's isthmus (I²=87%). For root canal configuration, pooled prevalence showed Vertucci type IV and type I were the most prevalent in mesial and distal root canals, respectively.
+
+Conclusion: Based on moderate ROB level of evidence, micro-CT studies have shown wide range of qualitative and quantitative data presentations of roots and canals in mandibular first molars.
+
+=== KEY VERBATIM NUMBERS (from full text) ===
+- Databases: Web of Science, PubMed, Scopus. Keywords: 'Mandibular first molar'/'Mandibular molar' AND 'Micro-CT'/'Micro-computed tomography'.
+- Screening: 1358 articles identified → 921 after duplicates removed → 831 excluded by title → 56 excluded by abstract → 34 eligible → 4 excluded on full-text (no MFM-specific data) → 30 final included.
+- Interobserver agreement (study selection): Cohen's kappa = 0.88 (almost perfect).
+- Inclusion: permanent DOUBLE-ROOTED (two-rooted) mandibular first molars only. THREE-ROOTED mandibular first molars EXCLUDED; taurodontism excluded; primary teeth, second molars, non-English, case reports, reviews excluded.
+- AQUA tool, 5 domains: (1) Objective(s) & Subject Characteristics, (2) Study Design, (3) Methodology Characterization, (4) Descriptive Anatomy, (5) Results Reporting.
+- ROB by domain: 28/30 potential ROB in domain 1 (lack of sample-size-calculation method); all studies low ROB in domain 2; all but one potential ROB in domain 3; domain 4 mostly low; domain 5 low in 25/30.
+- Overall ROB: 27 studies "moderate", 2 "low", 1 "high". No sensitivity test performed (none of meta-analysis studies at high ROB).
+- Reporting: 22/30 (73%) reported population/ethnicity (8 did NOT report); 25/30 (83%) micro-CT specs; 12/30 (40%) ethical approval; 28/30 (93%) did not disclose sample-size estimation method; 6/30 (20%) calibrated assessment.
+- Sample size range across studies: 19 to 140 teeth.
+- Micro-CT isotropic resolution range: 9.9 to 50 µm. Smallest voxel: Versiani et al 9.9 µm (MMC assessment). ~20 µm efficient for accessory foramina / apical constriction.
+
+VERTUCCI MAIN CANAL CONFIGURATION (pooled prevalence meta-analysis):
+- MESIAL root: Type IV MOST prevalent — pooled prevalence 0.587 (58.7%) (95%CI 0.186–0.627). [text states "Type IV (0.587%)" — figure is the pooled proportion 0.587]
+- DISTAL root: Type I MOST prevalent — pooled prevalence 0.830 (83.0%) (95%CI 0.623–0.880). [text "type I (0.830%)"]
+- Mesial = most frequent finding TWO canals (Type IV two separate, or Type V single→split). Distal = single canal most frequent.
+- High % of "non-classifiable" configurations reported in micro-CT studies (Vertucci system); mesial canal anatomy more complex/variable than distal.
+- 3 or 4 distal canals reported in Brazilians but not Egyptians (ethnic variation).
+
+MIDDLE MESIAL CANAL (MMC):
+- Reported prevalence up to 46%.
+- Synonyms: mesio-central, third mesial, intermediate, mesial accessory, middle mesial canal.
+- Configurations (Pomeranz): independent, fin, confluent (confluent ± isthmus). Confluent type most predominant overall; fin most frequent in Burmese population.
+- Keleş & Keskin: no troughing needed to locate 77.41% of MMC orifices (at CEJ); 1-mm troughing useful in 5.38%; 2-mm in 9.69%; 7.52% inaccessible even by deep troughing (orifice >2 mm below CEJ).
+- Meta-analysis forest plots: I²=86% (confluent, fin, independent) — high heterogeneity, diamond crosses no-effect line (no significant difference).
+- MMC closer to lingual than buccal mesial canal along its course.
+- MMC major foramen deviation from anatomical apex: highest deviation among canals; >2 mm in six cases, up to 5.67 mm; could reach 6.2 mm — MB/ML working length not applicable to MMC.
+
+ISTHMUS:
+- Definition: narrow ribbon-shaped communication between two canals containing pulp tissue.
+- Mesial-root isthmus prevalence highly variable: 10% to 100%; can occur anywhere along root.
+- More frequent in middle and apical thirds; more common in mesial than distal canals.
+- Fan's classification (4 types): I sheet connection, II separate, III mixed, IV cannular connection. Separate and mixed types more common in mandibular FIRST molars; sheet connections more common in mandibular SECOND molars.
+- Hsu & Kim 5-category classification; Weller complete/partial classification. Two studies showed Weller system more useful than Hsu-Kim for isthmus morphology.
+- Meta-analysis Fan's isthmus types: I²=87% high heterogeneity.
+- Isthmus occurrence higher in older than younger age groups.
+
+OTHER ANATOMY:
+- Root length: two-rooted MFM ~13.16 ± 1.24 mm (Chinese); 9.94 ± 0.85 mm (Theye, African ancestry, different measurement method).
+- "Danger zone" (thinnest dentine, mesial root furcal aspect): thinnest dentine directed mesially in 48% of samples, esp. apical third (Lee et al).
+- Canal curvature: MB canal larger curvature than ML; largest apically. 3-canaled two-rooted: avg curvature MB 23°, ML 25°, DB 11°. 4-canaled: MB 23°, ML 25°, DB 12°, DL 16°.
+- Canal cross-section: shifts oval → long oval in apico-coronal direction (apically more oval/flattened at 5-mm; rounder at 1-mm).
+- Apical: MAF-apex distance avg 0.85 mm (mesial canals, Keleş & Keskin). ~70% of canals no accessory apical foramina. MB canals more apical foramina than other canals.
+- Accessory canals: highly prevalent in MFM, up to 85%. Higher in mesial than distal; higher in apical third (esp most apical 3 mm); higher in two-rooted than three-rooted MFM; patent forms predominant 1–2 mm from apex, more in bifid (n=53) than non-bifid (n=30) roots. Types: patent, loop, anastomosis.
+
+CLINICAL: VRF incidence in mandibular first molar 51.8%; VRF in endodontically-treated mandibular first molars almost twice that of maxillary first molars (thin flat mesial roots).
+
+LIMITATIONS: only micro-CT studies on extracted teeth; age/gender unknown; English-only search. PRIDE / PROUD 2020 / PRISMA 2020 reporting guidelines recommended.
+
+CONCLUSION: Considerable methodological heterogeneity; root canal anatomy of permanent mandibular first molar is highly variable; complexity requires awareness even by well-trained clinicians.
+
+Source: PubMed full text (PMC10228077). DOI https://doi.org/10.1186/s12903-023-03036-5
