@@ -1,0 +1,105 @@
+Hemodynamic Fluctuations During Tooth Extraction Under Local Anesthesia
+
+Authors: Sommya Kumari, Mukesh Kumar, Kumari Sneha, Kalyan Kumar Saha, Sowmya Sree Guntipally, Aswin Suresh, Vandana Chhabra, Ajay Chhabra
+Journal: Journal of Pharmacy & Bioallied Sciences (J Pharm Bioallied Sci), 2025; 17(Suppl 3): S2767-S2769
+Publication date: 2025-07-14
+PMID: 41164587 | PMCID: PMC12563951 | DOI: 10.4103/jpbs.jpbs_687_25
+Affiliations: Department of Dentistry/Anaesthesia/Cardiology, AIIMS Kalyani (West Bengal) & AIIMS Deoghar (Jharkhand), India; H.S. Judge Dental College, Punjab University, Chandigarh.
+
+=== ABSTRACT ===
+
+Background:
+Effective management of intraoperative and perioperative pain is crucial for the success of dental practices. The use of anesthetic agents and vasoconstrictors can lead to hemodynamic alterations during surgical procedures.
+
+Aims and Objective:
+To observe hemodynamic changes during routine dental extraction done under lignocaine with adrenaline.
+
+Materials and Methods:
+This prospective, observational study was done on OPD patients requiring dental extraction. Fifty subjects in the age range of 18-65 years were evaluated for systolic blood pressure, diastolic blood pressure (DBP), heart rate (HR), and peripheral oxygen saturation before, during, and after tooth extraction. Data was evaluated using SPSS software.
+
+Results:
+Both systolic and DBP increased during anesthetic administration and extraction but decreased during postoperative period. This increase was noted more among females compared to males. HR decreased below preoperative values after extraction. This finding was similar among genders. SPO2 values did not fluctuate much during and/or after the procedure.
+
+Conclusion:
+The current findings of increased blood pressure and HR during tooth extraction warrant the use of meditation or anxiolytic drugs in anxious and hypertensive patients.
+
+=== INTRODUCTION ===
+
+Intra- and perioperative pain control is the key factor for successful dental practice. Lignocaine with/without adrenaline is the pharmacological agent, frequently used for interruption of a nerve impulse conduction. Both anesthetic agent and vasoconstrictors may induce hemodynamic changes during operative procedures. Fear and anxiety of the patient have an added effect.
+
+Adrenaline, though preferred for better hemostasis, is less favored in hypertensive and cardiac patients. It is also known to increase blood pressure in normotensives. The consequences may be life-threatening.
+
+The current study aims to observe hemodynamic changes during routine dental extraction done under lignocaine with adrenaline.
+
+=== MATERIALS AND METHODS ===
+
+This was a prospective, observational study done on OPD patients who required dental extraction. Informed and written consent was obtained from the participating subjects after explaining in detail about the study.
+
+Subject selection:
+Fifty study subjects were selected according to convenience from the patients seen in the Dental OPD of our Institute. No prior sample size calculation was done.
+
+Inclusion criteria:
+Subjects 18-65 years of age, requiring tooth extraction in their treatment plan, with no history of illness and on medication. No subjects were excluded on the basis of gender.
+
+Exclusion criteria:
+Subjects with hypertension, diabetes, pregnancy, and subjects with systemic illness and on medication.
+
+Procedure:
+Tooth extraction was done under lidocaine 2 ml in a solution of 2% with 1:100,000 adrenaline. Hemodynamic parameters (systolic blood pressure [SBP], diastolic blood pressure [DBP], heart rate [HR], peripheral oxygen saturation [SpO2]) were evaluated before, during, and after tooth extraction.
+
+Statistical analysis:
+Data was evaluated using Statistical Package for the Social Sciences (SPSS), version 20.0 (IBM Corp., Armonk, NY, USA).
+
+=== RESULTS ===
+
+A total of 50 subjects (male = female) participated toward the success of this study. The mean age of the study subjects was 45.8 years (18-65 years). The mean operative duration was 22 minutes (range = 18-33 min). The mean intraoperative pain score was 2 points (on a 10-point visual analog scale).
+
+Table 1 — Hemodynamic parameter during tooth removal (T1-T4) among gender
+[T1 = 5 min preoperative; T2 = Injection; T3 = Extraction; T4 = 5 min postoperative]
+
+SBP (mm Hg):
+  Male:   T1 131.8±1.61 | T2 131.2±1.74 | T3 130.7±1.49 | T4 125.2±1.39
+  Female: T1 121.5±1.54 | T2 123.8±1.74 | T3 125.4±1.58 | T4 118.7±1.30
+DBP (mm Hg):
+  Male:   T1 71.9±1.45 | T2 72.5±1.01 | T3 72.5±1.42 | T4 72.9±1.10
+  Female: T1 73.5±1.64 | T2 76.0±1.84 | T3 74.7±1.76 | T4 74.1±1.26
+HR (bpm):
+  Male:   T1 77.0±1.23 | T2 81.6±1.16 | T3 80.1±1.29 | T4 73.1±1.79
+  Female: T1 84.9±1.34 | T2 80.7±1.46 | T3 89.0±2.03 | T4 79.9±1.59
+SpO2 (%):
+  Male:   T1 97.0±0.27 | T2 98.3±0.20 | T3 97.9±0.41 | T4 97.3±0.91
+  Female: T1 98.1±0.44 | T2 97.4±0.08 | T3 98.2±0.58 | T4 98.9±0.59
+
+Table 2 — Overall mean values at T1-T4
+  SBP:  Preop 126.6±5.41 | Anesthesia 127.5±4.09 | Extraction 128.0±3.06 | Postop 122.0±3.51 | P=0.0001
+  DBP:  Preop 72.7±1.74  | Anesthesia 73.3±2.29  | Extraction 74.6±1.95  | Postop 73.5±1.33  | P=0.0001
+  HR:   Preop 80.9±4.18  | Anesthesia 81.1±1.38  | Extraction 84.6±4.73  | Postop 76.5±3.76  | P=0.0001
+  SpO2: Preop 97.5±0.67  | Anesthesia 97.9±0.48  | Extraction 98.0±0.53  | Postop 98.1±1.08  | P=0.0001
+
+Systolic blood pressure: SBP increased during anesthetic administration and tooth extraction but decreased during postoperative period. This variation was more evident in females compared to males. The mean difference of SBPs recorded at the four intervals was highly statistically significant (<0.0001).
+
+Diastolic blood pressure: The values of DBPs also resulted in a significant statistical difference at different time intervals (<0.0001). This again was noted to increase more among females compared to males. DBP increased after preoperative time and was again observed to be decreasing in postoperative period.
+
+Heart rate: The observed values for HR measured at different intervals showed a similar pattern during the procedure but decreased below preoperative values after extraction. This finding was similar among genders. The difference in mean values was again found to be highly statistically significant (<0.0001).
+
+Peripheral oxygen saturation: Females usually had higher SpO2 values compared to males. The SpO2 values did not fluctuate much during and/or after the procedure. However, the difference of mean was highly statistically significant.
+
+=== DISCUSSION ===
+
+Tooth extraction is indicated for various reasons like caries, trauma, and orthodontic reason. Painful stimuli from the needle, fear of surgery, and the adrenaline in local anesthetics are potential sources of fluctuating hemodynamics during tooth extraction. The present study evaluated changes in systolic and DBP, HR, and oxygen saturation in subjects requiring extraction.
+
+The variation of hemodynamic parameters is known to be oscillating with a duration of surgery and the pain experience of the patient during the surgery. The current study observed a very low mean intraoperative pain score during the procedure. Males were more tolerant to pain compared to females. Globally, the issue of reported pain during tooth extraction remained indecisive with contrast reports by different authors.
+
+The current study involved normotensive subjects. SBP was observed to be higher in males, while DBP and HR were higher in females at the preoperative stage. Both SBP and DBP increased during anesthesia administration and further during tooth removal, which returned to below normal in both the genders. A significant rise in SBP and DBP with nonsignificant change in HR during dental extraction is reported by previous researchers. The available literatures report varied results with some indicating the highest blood pressure during tooth removal associated with high stress level, while others reported it to be highest at the beginning of the procedure and related to fear and anxiety.
+
+Changes in oxygen saturation were not clinically significant and typically fluctuate in patients experiencing anxiety.
+
+The minor alterations in hemodynamics noted in this study could be linked to its low statistical power, as well as other confounding factors such as patient age and gender. The use of distraction, anxiolytics, or sedation can mitigate the cardiovascular responses triggered by patient anxiety. The application of conscious sedation may assist in hemodynamic stability in patients undergoing extractions.
+
+=== CONCLUSION ===
+
+The findings from the study indicate that there is a significant increase in SBP and pulse rate among individuals undergoing dental surgical procedures. It is essential to manage patients with a history of anxiety and hypertension with care.
+
+Conflicts of interest: There are no conflicts of interest.
+
+[Source: PubMed Central. DOI: 10.4103/jpbs.jpbs_687_25]
