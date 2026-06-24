@@ -821,6 +821,12 @@ tags: []
 - [[complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment]] — SR+MA (17 studies) establishing 5-year implant survival of 91.93% and 10-year survival of 84.62% for single implant-retained mandibular overdentures, with delayed loading optimal and locator abutments requiring most maintenance
 - [[complete-denture/leao-2018-splinted-unsplinted-overdenture-attachment-systems]] — SR+MA (9 studies, 984 implants) finding no significant difference between splinted and unsplinted overdenture attachments in marginal bone loss, prosthetic complications, or implant survival
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — PRISMA SR (20 studies, 2018–2023) mapping risk factors for implant-supported overdenture failures: arch, implant number, loading protocol, systemic health, and prosthetic design
+- [[complete-denture/potdukhe-2023-extraoral-gothic-arch-condylar-guidance-sr-ma]] — Potdukhe 2023 · sr+ma (n=325, 20편) · 무치악 수평과로각: 구외 고딕아치 vs cephalogram(+10.6°/+10.2°)·OPG(+5.1°) 유의↑, CBCT·왁스 차이없음; OPG가 최적 대체법
+- [[complete-denture/de-moraes-melo-neto-2021-centric-relation-condylar-reproducibility-sr]] — de Moraes Melo Neto 2021 · sr (6편) · 중심위 과두위치 재현성: 완전치열·비TMD에서 양손조작(bimanual)이 턱끝유도보다 우세/동등 (graphic·고딕아치 비교 연구 부재)
+- [[complete-denture/jasz-2024-centric-relation-methods-digital-mandibular-motion]] — Jász 2024 · cross-sectional (n=34) · 중심위 술식 7종 vs 디지털 하악운동분석기: Dawson 양손조작·혀끝 경구개경계법이 MIP에 최근접, 턱 후퇴법은 후방 변위(전부 ±1mm 내)
+- [[complete-denture/bhagat-2025-reproducibility-swallowing-chin-point-gothic-posture]] — Bhagat 2025 · in-vivo (n=30) · 중심위 재현성+체위: 디지털 고딕아치 ~0.98(체위 무관) > 턱끝유도 ~0.79(앙와위) > 삼킴 ~0.62(직립 한정)
+- [[complete-denture/singh-2026-nick-notch-intraoral-gothic-arch-jaw-relation]] — Singh 2026 · prospective (n=20, split-cast) · 악간관계 정확도 위계: nick-and-notch(0.15/0.23mm) < 구내 고딕아치(0.42/0.51) < 구외(0.74/0.86), 전부 p<0.001
+- [[complete-denture/zhou-2023-digital-intraoral-gothic-arch-device-centric-relation]] — Zhou 2023 · prospective (n=10, abstract-only) · 디지털 제작 간이 구내 고딕아치 장치로 총의치 중심위 결정: 전통법과 정중관계 일치(편차 <0.5mm) + 의자시간 57.5→41.9분 단축
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
