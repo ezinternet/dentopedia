@@ -3,7 +3,7 @@ title: "L-arginine vs. L-glutamine oral suspensions for radiation-induced oral m
 authors: Fatma E A Hassanein, Christine Mikhail, Sarah Elkot, Asmaa Abou-Bakr
 year: 2025
 doi: 10.1007/s00432-025-06213-x
-category: [oral-medicine]
+category: [oral-medicine/mucositis]
 source_collection: pubmed-text
 full_text: true
 pmid: "40603739"
