@@ -1,0 +1,46 @@
+Title: Survival and Complication Rates of Ceramic Partial Coverage Restorations (PCRs) and Ceramic Laminate Veneers Made of Different Types of Ceramics. Consensus Statement From SSRD, SEPES, and PROSEC Conference on Minimally Invasive Restorations
+Authors: Beuer F, Pieralli S, Spitznagel F, Knezović Zlatarić D, Bleiel H, Gierthmühlen P, Schnutenhaus S, Strub J, Rutten L, Rutten P, Jäggi M, Yilmaz B, Reuss JM, Mallat-Callis E, Jiménez J, Martinez-de-Fuentes R, Ortiz MA, Gómez-Polo M, Klein P.
+Journal: Journal of Esthetic and Restorative Dentistry 2025;37(3):664-668
+PMID: 40245384
+PMCID: PMC12076099
+DOI: 10.1111/jerd.13418
+Source: PubMed Central full text (get_full_text_article)
+
+ABSTRACT
+
+Objectives: This consensus paper aims to provide evidence-based insights into the survival and complication rates of ceramic partial coverage restorations (PCRs) and ceramic laminate veneers, focusing on various ceramic materials, including feldspathic ceramics, leucite-reinforced glass ceramics (LRGC), lithium disilicate ceramics (LDS), and resin matrix ceramics (RMC).
+
+Material and Methods: A systematic screening of the literature identified 35 publications, which were critically reviewed based on PRISMA guidelines, resulting in two systematic reviews. Consensus statements were formulated from the findings of these reviews, addressing key clinical and material-specific considerations. These statements were subsequently refined and finalized through expert discussion, ensuring alignment with the current evidence base and clinical applicability.
+
+Results: PCRs demonstrated high short-term survival rates, with 93.7% for LDS and 89.3% for RMC. LDS showed slightly better performance in terms of retention and fracture resistance. Ceramic laminate veneers exhibited excellent long-term survival rates across all materials, with feldspathic veneers at 96.13%, LRGC at 93.7%, and LDS at 96.81%. LDS ceramic veneers showed a significantly lower complication rate compared to feldspathic and LRGC veneers.
+
+Conclusions: Both PCRs and ceramic laminate veneers are reliable treatment options, offering high survival rates and manageable complication profiles. Material selection and minimally invasive techniques are key to optimizing clinical outcomes. Further research is needed to implement standardized protocols for preparation, adhesive techniques, and long-term maintenance.
+
+FULL TEXT
+
+1. Introduction
+Advancements in adhesive dentistry and ceramic materials have redefined restorative dental practices. Ceramic partial coverage restorations (PCRs) and laminate veneers have emerged as key solutions for addressing both esthetic and functional challenges, grounded in minimally invasive principles that prioritize tooth preservation. Group 1 of the Joint SSRD, SEPES, and PROSEC Consensus Conference provided clinical statements and recommendations for PCRs and laminate veneers. Two systematic reviews were prepared and reviewed by Working Group 1: (1) performance of PCRs for posterior teeth (onlays, occlusal veneers, partial crowns; materials LDS and RMC), and (2) survival/complication rates of ceramic laminate veneers (feldspathic, LRGC, LDS, zirconia) for anterior teeth.
+
+2. Systematic Review Paper 1 — Survival and Complications of Partial Coverage Restorations on Posterior Teeth (SR+MA)
+2.2 Major Findings: PCRs of LDS and RMC showed similar (not significantly different) survival rates after 3 years: 93.7% (LDS) and 89.3% (RMC).
+2.3 Answered: LDS and RMC similar in failures per 100 restoration-years (LDS 2.13; RMC 3.69), chipping (LDS 1.89; RMC 2.29), loss of retention (LDS 0.98; RMC 2.76), endodontic complications (LDS 0.53; RMC 0.92), bulk fractures (LDS 1.07; RMC 0.32). Based on 1–3y follow-up, 252 restorations (4 RCTs); loss of retention on 2–3y, 212 restorations (3 RCTs).
+2.4 Unanswered: few original studies except LDS, RMC, LRGC; little long-term data.
+2.5 Clinical Recommendations: PCRs from RMC, LDS, LRGC are a reliable option (short to mid-term, ~7 years). Clinicians must control multiple risk factors that drive variability in survival.
+2.7 Consensus Statements: all materials (LDS, RMC, LRGC) appropriate for posterior PCRs mid-term; prioritize tooth preservation over restoration durability (transfer risk to prosthetic restoration); focus on longevity of the tooth; consider repairability/maintenance before replacement.
+
+3. Systematic Review Paper 2 — Survival and Complication Rates of Feldspathic, Leucite-Reinforced, Lithium Disilicate and Zirconia Ceramic Laminate Veneers (SR+MA; = Klein et al. 2024)
+3.2 Major Findings: ceramic laminate veneers high survival across intervals (2.6Y 97.76%; 5.0Y 97.12%; 10.4Y 96.05%). LDS significantly better than feldspathic (p=0.044) and LRGC (p=0.033) for technical + biological complications. No significant difference for esthetic complications between materials at long-term (feldspathic vs LRGC p=0.972; feldspathic vs LDS p=0.117; LRGC vs LDS p=0.087).
+3.3 Answered: feldspathic, LRGC, LDS laminate veneers reliable with favorable long-term results; complications arise over time affecting longevity of the veneer-tooth complex.
+3.4 Unanswered: no clear preferable fabrication method (conventional vs CAD/CAM); no definitive bonding/adhesive cementation protocol; indication, preparation design/extension, prep vs non-prep, amount of tooth removal unknown; mid/long-term zirconia performance uncertain; limited info on thickness and monolithic vs veneered design.
+3.5 Clinical Recommendations:
+- Feldspathic, LRGC, LDS laminate veneers reveal high long-term survival and can be recommended.
+- Veneers should ideally be bonded to enamel; bonding to larger areas of dentin and/or existing restorations is more likely to cause complications over time.
+- Determine in advance whether preparation is required; if needed, flat incisal overlapping (butt-joint) may be preferred — lower failure rates than non-overlapping or palatal chamfer.
+3.6 Future research: evaluate indication criteria; RCTs on workflows (analog/digital), materials, adhesive protocols as restoration-tooth-complex; split-mouth designs, larger samples, longer follow-up; zirconia veneer potential; preparation design/thickness/extension; monolithic vs layered; PROMs and clinician-reported outcomes; FDI-criteria monitoring.
+3.7 Consensus Statements:
+- All included materials (feldspathic porcelain, LRGC, LDS) appropriate for laminate veneers.
+- Indication should be made under strict ethical considerations of preserving sound tooth structure; least-invasive options considered first.
+- A comprehensive understanding — diagnostic to preparation to precise adhesive cementation — is essential for long-term success.
+- Clinicians should recommend protective measures to enhance veneer longevity.
+
+Conflicts of Interest: The authors declare no conflicts of interest.
