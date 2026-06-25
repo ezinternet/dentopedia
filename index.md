@@ -1639,6 +1639,7 @@ tags: []
 
 - [[prosthetic-materials/ziada-2025-abutment-material-stress-distribution-fea]] — Ahmed Ziada 2025 · in-vitro · Influence of different customized abutment materials on stress distribution of different internal implant-abutment connections: finite element analysis
 - [[prosthetic-materials/chan-2026-fea-cad-cam-zirconia-3d-printed-hybrid]] — Wan Wan Chan 2026 · in-vitro · Comparative finite element analysis of stress distribution of different implant-supported crown and abutment materials
+- [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] — Bihui Ren 2024 · in-vitro · pure Morse taper (Bicon-type, 1.5°) implant-abutment locking force & abutment subsidence ("sinking-down"): subsidence ↓ with locking depth (r=−0.807, strongest) & post diameter & wall thickness, ↑ with seating load (r=0.645); locking force ↑ with load (r=0.963); recommends ≥5 seating loadings + delayed final occlusal adjustment
 
 
 <!-- BATCH INGEST 2026-05-24b: short implants + ARP + BMS + free-flap -->
