@@ -1,0 +1,71 @@
+The efficacy of alveolar ridge split on implants: a systematic review and meta-analysis
+Lin Y, Li G, Xu T, Zhou X, Luo F. BMC Oral Health. 2023. DOI: 10.1186/s12903-023-03643-2. PMID: 37986181. PMCID: PMC10662563.
+
+Source: PubMed Central full text (get_full_text_article).
+
+ABSTRACT
+
+Objectives
+To evaluate the effects of the alveolar ridge split (ARS) technique on gained horizontal width of the alveolar ridge and implant survival rate.
+
+Materials and methods
+Electronic searching was performed in six electronic databases (Pubmed, Embase, the Cochrane Central Register of Controlled Trials, Web of Science, China National Knowledge Infrastructure, and SIGLE) from January 1, 2010, to November 1, 2023. Two authors performed study selection, data extraction, and study qualities (ROBINS-I and RoB 2.0) independently. Meta-analysis was performed by Comprehensive meta-analysis 3.0.
+
+Results
+24 included studies were observational, and 1 study was a randomized controlled trial (RCT). 14 studies investigated the gained width of the horizontal alveolar ridge, and 17 examined the implants' survival rate. For assessment of risk of bias, nine studies were high risk of bias and 16 studies were moderate risk of bias. Meta-analysis demonstrated that the pooled gained alveolar ridge width was 3.348 mm (95%CI: 4.163 mm, 2.533 mm), and the implant survival rate was 98.1% (95%CI: 98.9%, 96.9%). Seven studies showed seven different complications including exposure, infection, bad split, dehiscence, fracture, paresthesia and soft tissue retraction.
+
+Conclusion
+Recent ARS technique seems to be an effective method of bone augmentation with enough gained width and a high implant survival rate. Further long-term and RCTs research remains needed to enhance the study quality.
+
+Clinical relevance
+The ARS technique could generate sufficient bone volume, and implants had a high-level survival rate. Therefore, ARS has been proposed to be a reliable horizontal bone augmentation technique that creates good conditions for the implantation of narrow alveolar crests.
+
+FULL TEXT
+
+Introduction
+
+Recently, implant surgery has become integral to dental treatment for patients with dentition defects. Dental implants have become the first choice for more people than ever before. However, not everyone is appropriate for implant surgery. The quantity and quality of alveolar ridges at the implant placement determine an implant's osseointegration and longevity. Nevertheless, alveolar bone resorption is common after tooth extraction, especially in the maxillae. The buccolingual alveolar ridge dimensions decrease by 3.1 to 5.9 mm 4 to 12 months after extraction. Besides, studies have shown an 11-22% decrease in alveolar bone height and a 29-63% decrease in alveolar bone width in the first 12 months after tooth extraction. In addition, fractures are also a common factor for jaw bone defects.
+
+Several bone augmentation approaches address horizontal bone resorption to achieve successful implantation and long-term results, including bone block grafting, guided bone regeneration (GBR), sinus augmentation and alveolar ridge split (ARS). However, bone block grafting had disadvantages like donor site morbidity and longer treatment time. GBR had the risk of infection due to exposure membrane and collapse of the regeneration membrane. The ARS technique may solve some barriers and create proper dimensions for delayed or immediate implantation in both maxillary and mandible. Bruschi et al. reported that the success rate of ARS for horizontal bone defects was 98.54% with a minimum 5-year follow-up.
+
+ARS refers to the surgical procedure of splitting the cortical bone to expand the ridge so implants can be inserted. The method of ridge expansion was first mentioned by Tatum and then modified by Summers with hand osteotomes. The strengths of ARS are shortening treatment duration, decreasing the possibility of infection and morbidity, and being more predictable. Khoury et al. reported that ARS could achieve an average of 5.2 mm horizontal gained width.
+
+Materials and methods
+
+Registered in PROSPERO (CRD42022354569). PICOS: Patients = completely/partially edentulous undergoing implant with ARS; Intervention = ARS for bone augmentation; Outcome = primary: increased horizontal bone width; secondary: implant survival rate. Study design = RCTs and nonRCTs. Exclusion: nonhuman studies, n<10, no horizontal width/survival report, no mean or SD, review studies.
+
+Search: Pubmed, Embase, Cochrane CENTRAL, Web of Science, CNKI, SIGLE grey literature. Jan 1, 2010 to Nov 1, 2023, no language restriction. Risk of bias: ROBINS-I for NRCTs, RoB 2.0 for RCTs. Begg and Egger test for publication bias. Random-effects model; I-statistic >50% = substantial heterogeneity.
+
+Results
+
+235 records after duplicate removal; 193 excluded after title/abstract/keyword screening; 42 full-text assessed; 25 studies included. Among 25 studies, 14 reported gained horizontal width, 17 discussed implant survival rate. All observational except 1 RCT (Mahmoud 2020); 12 prospective, 12 retrospective. 20 used full-thickness flaps, 3 partial-thickness, 2 flapless. 6 studies focused only on mandible, 19 involved maxillae with/without mandible. 21 used bone graft (12 autologous, 9 xenograft).
+
+Risk of bias: of 24 non-RCT studies, 8 high risk, 16 moderate. The 1 RCT (Mahmoud 2020) was high risk of bias. (Total 9 high, 16 moderate.)
+
+Meta-analysis: gained horizontal width = 3.348 mm (95%CI 2.533-4.163) among 14 studies; implant survival rate = 98.1% (95%CI 96.9-98.9) among 17 studies. Sensitivity analysis (one-study-removed) showed robust results.
+
+Individual gained-width values ranged 1.6-5.3 mm (Korsakova 1.6; Khoury 5.2; Moro 5.3; Mahmoud 4.8; Jamil 4.24; Holtzclaw 4.03; Anitua 2011 3.35; Albanese 3.25; Manekar 3.2; Teng 2.8; Nguyen 2.60; Wu 2.56; Rahpeyma 2.0; Yadav 1.98). Survival rates ranged 93.9-100% (Gurler 93.9%; Santagata 96.7%; Garcez-Filho 97%; Albanese 97.8%; Sohn 98.8%; Crespi 98.6%; Bruschi 98.5%; many 100%).
+
+Complications: seven studies reported seven complication types - exposure, infection, bad split, dehiscence, fracture, paresthesia, soft tissue retraction.
+- Exposure: Altiparmak 2.3% temporary exposure; Khoury late bone exposure (2 sites 1-3mm) + screw exposure 20.13%; Moro membrane exposure 1 case.
+- Infection: Altiparmak 4.7% mild; Jamil 11.54% minor soft tissue infection; Khoury 1 abscess/pus; Mahmoud some.
+- Bad split: Altiparmak 7.1%; Gurler 2 patients.
+- Dehiscence: Gurler 1 wound dehiscence; Jamil 4 wound (15.38%) + bony dehiscence 3 sites (5.26%); Mahmoud irrecoverable mucosal dehiscence.
+- Fracture: Moro 1 vestibular cortex fracture; Sohn thin buccal cortical plate fracture 5 patients.
+- Paresthesia: Jamil 19.23% transient; Yadav 2 patients (9.09%).
+- Soft tissue retraction: Khoury 2 cases on adjacent tooth at vertical incision.
+
+Publication bias: Begg/Egger no evidence for gained width (Begg 0.112, Egger 0.068); Egger significant for survival rate (0.020) indicating bias.
+
+Discussion
+
+ARS enhances horizontal width of alveolar bone (mean 3.63 mm, range 2.0-5.3 mm). Jensen recommended 3-4 mm expansion. Crespi: significantly greater horizontal gain in maxilla than mandible (mandibular buccal wall thinner than half of maxillary; maxillary bone D2/D3/D4 more viscoelastic/flexible; mandible D1/D2 harder to manipulate). Manekar: high-density (Type 4) alveolar bone not appropriate to expand (causes cervical bone loss).
+
+Survival rate 98.1% (93.9-100%) similar to standard implant placement. Sagittal osteotomized ridge gaps undergo spontaneous ossification like fractures. ARS (3.63 mm) achieved lower horizontal augmentation than bone block grafting (4.25 mm) but still meets requirements. Wu: U-shape splitting (2.56 mm) higher gain than GBR (0.73 mm). Altiparmak: ARS 100% vs onlay graft 92% survival (NS). Mahmoud: no significant gained-width difference between autologous bone block grafting (ABBG) and flapless piezotome crest split (FPCS), but FPCS reduced operative time >50%, postop pain and swelling.
+
+Buccal plate fracture is the most frequent intraoperative complication; fracture risk increases significantly when alveolar width <3 mm. Anitua: delayed implantation with width <3 mm minimizes buccal wall fracture risk. Goyal/Iyer: greenstick fracture in mandible not controllable due to cortical thickness -> two-stage treatment recommended in mandible. Jamil and Manekar nonetheless achieved one-stage mandibular ARS. Piezosurgery enables immediate implant placement.
+
+Limitations: most studies had no control group and were non-randomized; short follow-up; limited patient numbers; heterogeneous surgical regions, age, split technique, clinician experience.
+
+Conclusion
+Recent ARS technique seems to be an effective method for bone augmentation with enough gained width and a high survival rate. Further long-term and RCT research is needed.
