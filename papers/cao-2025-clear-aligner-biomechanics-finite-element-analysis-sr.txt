@@ -1,0 +1,114 @@
+A systematic review of biomechanics of clear aligners by finite element analysis
+Cao H, Hu X, Yang L, Li D, et al.
+DOI: 10.1186/s12903-025-06295-6 | PMID: 40604856 | PMCID: PMC12224713
+BMC Oral Health, 2025-07-02
+
+ABSTRACT
+
+Purpose: This review systematically collects the investigations on clear aligners (CA) by finite element analysis (FEA), and summarizes the biomechanical mechanism of CA including typical side effects and reformative designs of CA and auxiliary.
+
+Methods: Literatures on FEA biomechanical analysis of CA are searched on Web of Science and PubMed. The information of FEA methods and results, FEA-simulated orthodontic clinical scenarios are collected and discussed in categories.
+
+Results: Twenty-nine literatures are included. FEA are conducted with ABAQUS (13/29) or Ansys (13/29), while the data presentation forms are various without clear consensus. FEA-simulated orthodontic clinical scenarios are discussed by main targeted orthodontic directions.
+
+Conclusions: Side effects of CA treatment are essentially caused by uneven stress distribution. Auxiliaries (including attachments, power ridges, intermaxillary elastics, divots etc.) are designed to adjust orthodontic biomechanics and stress distribution to improve therapeutic efficiency. Limitations of current researches include lack of unified standard for FEA protocols and data presentation forms, and lack of long-term biomechanical analysis of CA other than its initial instantaneous effects. FEA, as an efficient way of analyzing biomechanics of CA, deserves more standardized, extensive and in-depth study.
+
+INTRODUCTION
+
+Clear aligners (CA), introduced in late 1990s as an aesthetic bracketless orthodontic appliance, exert orthodontic force by shape recoverability of polymer membrane including poly-ethylene terephthalate glycol (PETG), thermoplastic polyurethane (TPU), etc. Compared to fixed appliances (FA), CA exhibit reduced compressive stress to teeth/periodontal tissue (better pain relief). The moderate orthodontic force of CA results in narrower indications; in complex cases CA are often applied for finer adjustment after initial alignment by FA.
+
+Intraoral research (2010): CA exerts highest orthodontic force at the beginning of wearing, decreasing 20-30% by day 2 then remaining constant >2 weeks. In vitro (2020): material maintains elastic modulus/stress relaxation after 2 weeks but surface morphology shows defects (may release trace allergenic elements).
+
+Most biomechanical research of CA uses FEA. Liu et al. (2016): discrepancy of orthodontic forces between experimental value and FEA simulation <0.2 N. Ye et al. (2022): predicted CA surface strains by FEA fit linear regression to micro-CT scans — demonstrating FEA reliability.
+
+MATERIALS AND METHODS
+
+Registered in PROSPERO (ID: 425621). PICO: P = patients with malformation of dentition; I = orthodontic treatment using CA; C = different designs of CA and/or auxiliaries; O = simulated biomechanical characteristics by FEA (Von Mises stress, maximum principal stress, displacement, etc.).
+
+Keywords "clear aligner" and "finite element". Databases: Web of Science (WOS) and PubMed.
+WOS: TS=(finite element OR FEA OR FEM) AND TS=(orthodontic) AND TS=(bracketless OR invisible OR removable OR clear OR Invisalign).
+
+Two reviewers (H.C. and X.H.) independently conducted searches and study selection; disagreements resolved by discussion. Risk of bias / reliability graded using a system referencing the Swedish Council on Technology Assessment in Health Care (SBU) and the Centre for Reviews and Dissemination (CRD). Information verified by L.Y. and D.L.
+
+RESULTS
+
+PRISMA: 186 records identified, 35 duplicates removed. Excluded: 2 reviews, 2 non-English, 102 with no considerable biomechanical/CA information. 45 sought for full text; 13 excluded (lack of FEA data), 3 excluded (FEA-vs-experimental comparison with no FEA data of different designs/conditions). Final included: 29 articles.
+
+All 29 graded "B" (moderate referential integrity and reliability). FEA software: ABAQUS (13/29) or Ansys (13/29). Data presentation forms varied without consensus. 27/29 provide tooth displacement data (heatmaps with contour, vector diagram, or initial-vs-displaced comparison; or tables/histograms). 24/29 provide stress distribution data, mostly PDL (20/24), some teeth/CA membrane/attachments (6/24). Due to lack of unified standard FEA protocols/parameters/presentation forms, included researches are hard to statistically analyze.
+
+Movement categories: 18 articles involve mesiodistal movement, 13 buccolingual alignment, 8 occlusal adjustment.
+- Mesiodistal (18): 9 closing diastema after extraction, 6 opening interdental space without extraction, 3 adjusting scattered diastema of anterior teeth.
+- Buccolingual (13): 8 torque/bodily movement, 5 rotation.
+- Occlusal (8): 4 extrusion, 4 intrusion.
+
+DISCUSSION
+
+Step treatment: Typical CA treatment = series of steps; each step normally 2 weeks (extendable). Last step often 3 weeks with thicker membrane to consolidate effect. Most included literatures use one-step CA design for a specific movement direction/tooth.
+
+Three orthodontic directions: mesiodistal (diastema), vertical (occlusion), buccolingual (alignment). Basic displacement forms: bodily movement, inclined movement, rotation, extrusion, intrusion.
+
+MESIODISTAL — Diastema closing (after extraction):
+Severe insufficient space relieved by extraction (mostly first premolar, sometimes canine). Typical design: attachments on canines (3) and posterior teeth (5/6/7). Typical side effect = "roller-coaster effect (RCE)": lingual/distal tipping + extrusion of anterior teeth, mesial tipping + intrusion of posterior teeth → anchorage loss, low efficiency.
+Of 9 articles: 8 use typical attachments on 3/5/6/7, 4 use elastic appliances, 2 use power ridges, 2 concern CA membrane selection.
+- Elastics increase anchorage/efficiency but aggravate mesial tipping of posterior teeth. Moving button from mesiobuccal to mesiolingual surface of mandibular first molar minimizes mesial inclination, prevents anchorage loss.
+- Anchorage modes: direct strong anchorage (anterior retracted by elastics) and moderate anchorage (CA alone) both cause anchorage loss + posterior mesial tipping; indirect strong anchorage (posterior fixed by metallic ligation) gives anchorage protection + root control, minimizing posterior mesial tipping.
+- Membrane: single-layer hard CA produces highest tensile/compressive stress; efficiency decreases with increased soft-layer thickness, but multi-layer CA reduces impact on non-target teeth, root absorption, side effects. Multiple layers with >50% soft layer reduces lingual inclination of anterior teeth and mesial tipping of posterior teeth.
+Mechanism: CA membrane on crowns inherently gives unbalanced crown-vs-root stress (more on crown) → RCE. Membrane adjustment and posterior attachments help (root control, anchorage) but are insufficient alone. Optimized elastics neutralize unbalanced stress via location/direction/strength of force to convert tipping into translation.
+
+MESIODISTAL — Interdental space opening (without extraction):
+6 articles, all use attachment, 3 use elastics. Attachments on 3/4/5/6 or 3/4/5/6/7 provide retention/anchorage/root control but side effects: incisal buccal flaring, buccal inclination + extrusion tendency of posterior teeth.
+- Upper molar distalization: upper incisal buccal flaring alleviated (not eliminated) via Class II elastics (upper 3 to lower 6).
+- Advanced Mandibular Spring (AMS) between maxillary 6 and mandibular 3 with attachments on 3-7 → bodily mandibular protraction + maxillary retraction, reduces TMJ pressure (favorable for adolescent mandibular retrognathia).
+- Intermaxillary elastics (button or precision cut) compensate anchorage loss from incisor tipping / premolar mesial tipping+extrusion; patient-specific attachment at customized location more effective. Distal tipping of posterior teeth remains unavoidable.
+- Molar distalization without/with normal rectangular attachment → uneven stress, mesial/distal inclination. Guideline attachment reciprocates torque, evens stress, realizes bodily translation but rotation side effect remains. Kim et al.: torque attachments 45° with half-round longitudinal sections give higher force — attachment shape adjusts mesiodistal torque.
+
+MESIODISTAL — Scattered diastema:
+3 articles, all use root control attachments. Bodily movement needed; mesial tipping often occurs. Root control attachments on labial canine/incisors for torque compensation. With/without attachments shows no significant difference initially, but after sufficient time (500 iterations) bodily translation achieved by root control attachments with minimum influence on proximal teeth. Asymmetrical labial attachments (opposite orientations) provide root control torque; overhanging attachment disperses stress over gingiva.
+
+BUCCOLINGUAL — Inclination/translation:
+Incisors incline lingually during diastema closing (RCE) and tip buccally during space opening. Auxiliaries on anterior teeth: power ridges, divots, modified attachments, elastics, activation mode, overtreatment.
+Two key parameters: center of resistance (Cres, depends on periodontal morphology) and center of rotation (Crot, depends on orthodontic force). Positional relationship → controlled or uncontrolled tipping.
+Of 8 articles: 5 attachment, 2 power ridge, 2 divot, 1 elastic.
+
+Power ridge: generates buccolingual torque. Crot without ridges located between middle and apical thirds. Height adjustment moves Crot (to root apex = controlled tipping; further = bodily retraction) without bowing effect or changing Von Mises stress. Optimal ridge height relative to CA thickness.
+
+Divots: like attachments, increase anterior lingual tipping; different surface contact promotes load transfer, higher load/displacement. Single vs double divots show opposite trends (inconclusive). More popular (invisible) but manually created → lower precision than attachments.
+
+CA membrane thickness: 0.75 mm CA gives larger Crot displacement/buccolingual tipping than 0.5 mm (higher efficiency in torqued protrusion). Stress on PDL at root apex increases with CA thickness. 0.75 mm induces less incisal tipping and more even PDL stress than 0.5 mm. Power ridge height designed relative to CA thickness for bodily retraction (at expense of mesial tipping + intrusion of second premolars).
+
+Attachments and others: Overhanging vertical attachments disperse force to gingiva, avoid tipping/rotation. Balanced retraction design (appropriate activation of retraction + intrusion) reduces tipping. Overtreatment of incisors enables torque control, bodily retraction, intrusion. Linguoincisal elastics (vs labial) acquire palatal root torque relieving undesirable crown movement.
+
+BUCCOLINGUAL — Rotation (long-axial):
+5 articles, 3 use attachment. Anterior rotation achievable with CA alone without attachments; orthodontic force and Crot change positively correlated to CA thickness. Asymmetric attachments on buccal + lingual lower 1/3 crown exert maximum rotation. Posterior rotation harder (larger volume, more roots): activation should not exceed 1.2° for control/reasonable stress; under 1.2°, rotation efficiency higher with attachments on single target tooth (7) than on target+proximal (5/6/7).
+
+VERTICAL — Extrusion:
+4 articles, all use attachment. Anterior extrusion corrects open bite / intrusive side effects with buccal attachments.
+- Laohachaiaroon 2022: horizontal rectangular attachment = highest stress concentration on incisal edge = largest extrusion efficiency (vs rectangular beveled, ellipsoid).
+- Kim 2020: oblique attachments = highest contact pressure, lowest extrusion/intrusion displacement (foursquare, half-round cross/longitudinal, half-triangle, oblique tested).
+- Rossini 2021: rectangular horizontal attachments on incisors + rectangular vertical on posterior → more effective incisal extrusion.
+- Savignano 2019: buccal attachment shape (rectangular vs ellipsoid) similar; rectangular palatal attachment more effective than buccal; buccal attachments cause unexpected rotation avoidable by lingual ones.
+- Extrusion of mandibular incisors more efficient than maxillary. Indirect elastic anchorage deepens curve of Spee (suitable for anterior open bite); direct elastic anchorage flattens it (suitable for deep overbite).
+
+VERTICAL — Intrusion:
+5 articles, 3 attachment, 1 elastic. Deep overbite anterior retraction often needs simultaneous intrusion. CA alone achieves intrusion but causes stress concentration on incisor cervical area, lingual tipping + incisor extrusion, posterior mesial tipping + intrusion (buccal open bite tendency).
+- Intermaxillary elastics (mini-screw + elastics) realize intrusion + palatal root torque; labial elastics aggravate incisor root stress, linguoincisal elastics relieve root resorption / alveolar bone defect.
+- Lingual-side attachments avoid unexpected rotation during intrusion.
+- Posterior intrusion (less studied): intruding 7 with buccal and/or palatal attachments on 6 — mesial tipping of 7 in all groups; buccal+palatal attachments = highest intrusion, lowest buccolingual tipping, most even PDL stress.
+
+PERIODONTAL BIOMECHANICS:
+PDL analyzed via FEA in 20/29 included studies, all using linear elastic model (non-linear reported to improve accuracy/reliability). Worse PDL conditions → higher stress → lower displacement should be designed for severe periodontal disease. Maximum PDL stress proportional to CA thickness. Seo et al. 2021: 0.75 mm vs 0.5 mm CA → 6% and 0.03% higher principal stress on PDL for lingual inclination and axial rotation. Compressive/tensile PDL stress decrease exponentially during treatment.
+Instantaneous force of CA much greater than FA (potential pathological reaction). In extraction space closing, CA produces similar effects to FA but with larger initial pressure on anchorage teeth → up to 8-11 times PDL pressure vs FA → more side effects to teeth/occlusion/TMJ. However CA's ease of removal/cleaning → lower risk of periodontitis/gingivitis, lower gingival/plaque index, probing depth, sulcus bleeding index than FA.
+
+CLINICAL PRACTICE AND MATERIAL FATIGUE:
+Caution extrapolating FEA to clinic. Material fatigue under prolonged/repetitive loading affects long-term performance. Kuntz et al.: 5 brands, 80 samples — most maintained mechanical properties after thermal aging, but Angel® had significant reduction; all brands showed some surface degradation.
+
+LIMITATIONS:
+- Lack of unified standard FEA protocols, analytical parameters, data presentation forms (hard to statistically analyze/meta-analyze).
+- Lack of long-term biomechanical analysis beyond initial instantaneous effects.
+- Studies take no biological events into consideration (e.g., crown and root length); latest study shows close relation between crown length and CA treatment in FEA.
+- Heatmap reporting issues: some lack scale bar / index / unit; some unidentifiable (low resolution). Stress presentations: Von Mises stress, maximum principal stress; strain mainly displacement (U resultant / U magnitude).
+
+SUMMARY:
+Side effects during mesiodistal and buccolingual bodily movement generally caused by torque from uneven crown-vs-root stress; auxiliaries balance force and eliminate torque. Buccolingual movements (retraction, rotation) achieved by deliberately generating controlled torque. Occlusal movements (extrusion/intrusion) create stress concentration in crown/root respectively, requiring design to avoid torque from uneven stress. All CA treatment and auxiliaries alter stress distribution to offset or obtain torque for desired movement. Reported designs: attachments (shapes/positions), power ridges, divots, intermaxillary elastic systems (buttons/microimplants/power arms + elastics/springs), CA membrane composition and thickness. FEA deserves more standardized, extensive, in-depth research.
+
+Source: PubMed Central, full text. DOI: 10.1186/s12903-025-06295-6
