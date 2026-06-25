@@ -45,7 +45,21 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        // force the _lint folder to the very bottom; default order otherwise
+        const ra = a.slugSegment === "_lint" ? 1 : 0
+        const rb = b.slugSegment === "_lint" ? 1 : 0
+        if (ra !== rb) return ra - rb
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return !a.isFolder && b.isFolder ? 1 : -1
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -69,7 +83,21 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        // force the _lint folder to the very bottom; default order otherwise
+        const ra = a.slugSegment === "_lint" ? 1 : 0
+        const rb = b.slugSegment === "_lint" ? 1 : 0
+        if (ra !== rb) return ra - rb
+        if ((!a.isFolder && !b.isFolder) || (a.isFolder && b.isFolder)) {
+          return a.displayName.localeCompare(b.displayName, undefined, {
+            numeric: true,
+            sensitivity: "base",
+          })
+        }
+        return !a.isFolder && b.isFolder ? 1 : -1
+      },
+    }),
   ],
   right: [],
 }
