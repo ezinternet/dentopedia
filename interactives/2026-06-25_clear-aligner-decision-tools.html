@@ -1,0 +1,322 @@
+<!--
+---
+title: "투명교정(Clear Aligner) 적응증 결정 게이트 + 상악확장 over-correction 계산기"
+type: interactive
+date: 2026-06-25
+status: done
+agenda: agenda/2026-06-25_clear-aligner-decision-interactive.md
+source_wiki:
+  - wiki/overviews/clear-aligner-indications-limitations.md
+  - wiki/orthodontics/clear-aligner/de-la-rosa-gay-2025-expansion-predictability-clear-aligner.md
+  - wiki/orthodontics/clear-aligner/marinelli-2025-temporary-anchorage-devices-clear-aligner-sr.md
+  - wiki/orthodontics/clear-aligner/cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr.md
+  - wiki/orthodontics/clear-aligner/jaber-2023-clear-aligners-complex-extraction-vs-fixed-sr.md
+  - wiki/orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>투명교정 적응증 결정 게이트 + 상악확장 계산기</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#fff; --ink:#1d2733; --mut:#5b6b7c; --line:#e2e7ee;
+    --accent:#1f6f54; --warn:#b6792a; --high:#b23b3b; --low:#2f7d4f;
+    --chip:#eef2f6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Noto Sans KR",sans-serif;
+    line-height:1.6;font-size:15px}
+  .wrap{max-width:920px;margin:0 auto;padding:28px 18px 80px}
+  h1{font-size:22px;margin:0 0 4px}
+  .sub{color:var(--mut);font-size:13px;margin-bottom:18px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:16px 0;
+    box-shadow:0 1px 2px rgba(20,30,45,.04)}
+  h2{font-size:17px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  h2 .n{display:inline-flex;width:24px;height:24px;border-radius:50%;background:var(--accent);color:#fff;
+    font-size:13px;align-items:center;justify-content:center;flex:none}
+  .tabs{display:flex;gap:8px;margin:4px 0 8px;flex-wrap:wrap}
+  .tabs button{border:1px solid var(--line);background:var(--card);color:var(--mut);font-size:14px;font-weight:600;
+    padding:9px 16px;border-radius:10px 10px 0 0;cursor:pointer}
+  .tabs button.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+  .assume{background:#fff8ec;border:1px solid #f0dcb6;border-radius:10px;padding:14px 16px;font-size:13.5px;color:#6b552c}
+  .assume b{color:#8a6a23}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:6px}
+  th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+  th{background:#f2f5f8;font-weight:600}
+  td.num{white-space:nowrap;font-variant-numeric:tabular-nums}
+  .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:20px;font-weight:600;vertical-align:1px}
+  .t-strong{background:#e4f0ea;color:#1f6f54}
+  .t-claude{background:#eef0f6;color:#4b5bb0}
+  .t-est{background:#f6eee4;color:#9a6a25}
+  .grp{font-size:12px;font-weight:700;color:var(--mut);text-transform:uppercase;letter-spacing:.04em;margin:16px 0 4px}
+  .factor{display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px dashed var(--line)}
+  .factor:last-child{border-bottom:none}
+  .factor input[type=checkbox]{margin-top:5px;width:17px;height:17px;flex:none;accent-color:var(--accent)}
+  .factor .txt{flex:1}
+  .factor .txt small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
+  .factor .pts{font-size:11px;color:var(--mut);background:var(--chip);border-radius:6px;padding:1px 8px;height:fit-content;white-space:nowrap}
+  .hard .pts{background:#f6e4e4;color:var(--high)}
+  .soft .pts{background:#f6eee4;color:var(--warn)}
+  .favor .pts{background:#e6f1ea;color:var(--low)}
+  .resultbox{position:sticky;bottom:0;margin-top:14px;background:var(--card);border:2px solid var(--line);
+    border-radius:12px;padding:16px 18px}
+  .pill{display:inline-block;padding:3px 14px;border-radius:20px;font-size:14px;font-weight:700;color:#fff}
+  .rec-lab{font-weight:800;font-size:18px;margin:8px 0 4px}
+  .rec-why{font-size:13px;color:var(--mut)}
+  .rec-why li{margin-bottom:3px}
+  .field{display:flex;align-items:center;gap:12px;padding:9px 0;border-bottom:1px dashed var(--line);flex-wrap:wrap}
+  .field:last-child{border-bottom:none}
+  .field label{flex:1;min-width:160px;font-size:14px}
+  .field label small{display:block;color:var(--mut);font-size:12px}
+  .field input[type=range]{flex:2;min-width:160px;accent-color:var(--accent)}
+  .field .val{font-variant-numeric:tabular-nums;font-weight:700;min-width:62px;text-align:right}
+  .seg{display:inline-flex;border:1px solid var(--line);border-radius:8px;overflow:hidden}
+  .seg button{border:none;background:var(--card);color:var(--mut);font-size:13px;padding:6px 12px;cursor:pointer}
+  .seg button.on{background:var(--accent);color:#fff}
+  .out{background:#eef6f1;border:1px solid #cfe6da;border-radius:10px;padding:16px 18px;margin-top:14px}
+  .out .big{font-size:26px;font-weight:800;color:var(--accent);font-variant-numeric:tabular-nums}
+  .bar{height:14px;border-radius:8px;background:#e2e7ee;overflow:hidden;margin:8px 0}
+  .bar i{display:block;height:100%;background:var(--accent)}
+  .src a{color:var(--accent);text-decoration:none}
+  .src a:hover{text-decoration:underline}
+  .src li{margin-bottom:6px;font-size:13px}
+  .muted{color:var(--mut);font-size:12.5px}
+  .hide{display:none}
+  @media print{.resultbox{position:static}body{background:#fff}.card{box-shadow:none}.tabs{display:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>투명교정(Clear Aligner) 의사결정 도구</h1>
+  <div class="sub">LLM-Wiki · 투명교정 적응증·한계 종합(26편/10축) 기반 · 2026-06-25 · 개인 임상 참고용</div>
+
+  <div class="assume">
+    <b>전제:</b> 위키 보유 26편의 종합(<i>clear-aligner-indications-limitations</i>) 결론인 <b>"적응증 gradient"</b>를 chairside 참조용으로 변환한 것. 환자별 진단·세팔로 분석을 대체하지 않으며, 어떤 출력도 절대 적응/금기를 단정하지 않는다. 정량 앵커(확장 0.92&nbsp;mm 오차 등)는 원논문 값이고, 가중치·수정계수는 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이다.
+  </div>
+
+  <div class="tabs">
+    <button id="tab1" class="on" onclick="show(1)">① 적응증 결정 게이트</button>
+    <button id="tab2" onclick="show(2)">② 상악확장 over-correction 계산기</button>
+  </div>
+
+  <!-- ============ TAB 1 ============ -->
+  <div id="pane1">
+  <div class="card">
+    <h2><span class="n">1</span>증례 플래그 입력</h2>
+    <div class="muted" style="margin-bottom:6px">해당되는 항목을 모두 체크하세요. 빨강=CA 한계신호(FA 쪽), 주황=보조장치로 관리, 초록=CA 유리.</div>
+
+    <div class="grp">CA 한계 신호 (Hard — FA / hybrid 쪽)</div>
+    <div id="hardBox"></div>
+
+    <div class="grp">보조장치로 관리 가능 (Soft — CA + attachment·TAD·IPR)</div>
+    <div id="softBox"></div>
+
+    <div class="grp">CA 유리 요인 (Favor)</div>
+    <div id="favorBox"></div>
+
+    <div class="resultbox">
+      <span id="recPill" class="pill" style="background:var(--low)">CA 단독 적합</span>
+      <div id="recLab" class="rec-lab">경도~중등도, 비발치 — 투명교정 단독으로 자신 있게.</div>
+      <ul id="recWhy" class="rec-why"></ul>
+    </div>
+  </div>
+
+  <div class="card src">
+    <h2><span class="n">근</span>근거</h2>
+    <ul>
+      <li><span class="tag t-strong">합의수준</span> 효율 동등성은 경중등도 비발치에 한함; 중증·torque·rotation·extrusion엔 열등 — <b>Baneshi 2024</b>(RCT 21편) · <b>Yassir 2022</b>(18 SR 우산)</li>
+      <li>발치/복잡 증례: 결과는 동등하나 CA는 예측-실제 괴리 큼, FA가 협설경사·교합접촉 우수 — <b>Jaber 2023</b>(6 trials)</li>
+      <li>상악 대구치 원심이동 ~2&nbsp;mm 가능하나 전치 anchorage loss → TAD+IPR 병용 권장 — <b>Inchingolo 2023</b> · <b>Marinelli 2025</b>(TAD SR, 근거 low)</li>
+      <li>auxiliaries(attachment·power ridge·divot·elastics)가 치관-치근 불균등 응력을 재분배해 tipping→translation 전환 — <b>Cao 2025</b>(FEA 29편) · <b>Nucera 2022</b>(attachment SR)</li>
+      <li>횡적 골격 결손·성장기 골격확장은 conventional expander 우위(CA 확장은 주로 치조성) — <b>Fonseca-Planells 2026</b></li>
+    </ul>
+  </div>
+  </div>
+
+  <!-- ============ TAB 2 ============ -->
+  <div id="pane2" class="hide">
+  <div class="card">
+    <h2><span class="n">2</span>상악확장 입력</h2>
+
+    <div class="field">
+      <label>계획 확장량 <small>구치간폭 증가 목표 (mm)</small></label>
+      <input type="range" id="plan" min="1" max="8" step="0.5" value="4" oninput="calc()">
+      <span class="val" id="planV">4.0 mm</span>
+    </div>
+
+    <div class="field">
+      <label>주 확장 부위</label>
+      <span class="seg" id="segPos">
+        <button data-v="ant" onclick="seg('pos','ant')">전치부</button>
+        <button data-v="post" class="on" onclick="seg('pos','post')">구치부</button>
+      </span>
+    </div>
+
+    <div class="field">
+      <label>교차교합(crossbite)</label>
+      <span class="seg" id="segCb">
+        <button data-v="no" class="on" onclick="seg('cb','no')">없음</button>
+        <button data-v="yes" onclick="seg('cb','yes')">있음</button>
+      </span>
+    </div>
+
+    <div class="field">
+      <label>환자</label>
+      <span class="seg" id="segAge">
+        <button data-v="adult" class="on" onclick="seg('age','adult')">성인</button>
+        <button data-v="grow" onclick="seg('age','grow')">성장기</button>
+      </span>
+    </div>
+
+    <div class="out">
+      <div>계획 <b id="oPlan">4.0</b> mm 입력 시 예상 달성 ≈ <span class="big" id="oAchieved">3.1</span> mm
+        <span class="muted">(효율 <b id="oEff">77</b>%)</span></div>
+      <div class="bar"><i id="oBar" style="width:77%"></i></div>
+      <div style="margin-top:10px">권장: 목표를 위해 <b id="oOver">+0.9 ~ +1.2</b> mm <b>over-correction</b>하여
+        총 <b id="oTotal">4.9 ~ 5.2</b> mm를 계획에 입력 <span class="tag t-est">추정</span></div>
+      <div style="margin-top:8px">예측 불확실성: <span id="oRisk" class="pill" style="background:var(--warn)">중간</span>
+        <span class="muted" id="oRiskWhy"></span></div>
+      <div id="oCaveat" class="muted" style="margin-top:10px"></div>
+    </div>
+  </div>
+
+  <div class="card src">
+    <h2><span class="n">근</span>근거 &amp; 모델</h2>
+    <ul>
+      <li><b>정량 앵커(원논문):</b> 성인 Invisalign 확장 <b>평균 오차 0.92&nbsp;mm·부위 72.2%가 과소확장</b>; 상악·구치부·crossbite·큰 계획 확장일수록 예측성 악화 — <b>de la Rosa-Gay 2025</b>(후향코호트 n=98, multilevel GLMM)</li>
+      <li><b>성장기:</b> CA 확장 가능하나 conventional expander 대비 유의 적고 주로 <b>치조성(dentoalveolar)</b> — 골격 결손엔 conventional 우위 — <b>Fonseca-Planells 2026</b>(15편/7 pooled)</li>
+      <li><span class="tag t-est">추정</span> 기본 부족분 0.9&nbsp;mm는 원논문 평균오차. 부위·crossbite·확장량에 따른 추가 마진(+0.3&nbsp;mm/요인)과 효율 환산은 종합 방향성을 코드화한 <span class="tag t-claude">claude해석</span>이며 환자별 회귀계수가 아님.</li>
+    </ul>
+    <div class="muted">⚠ 이 계산기는 <b>성인 상악</b> 데이터 기반. 하악·성장기 골격확장에는 외삽하지 말 것.</div>
+  </div>
+  </div>
+
+</div>
+
+<script>
+/* ---------- TAB 1 : 적응증 게이트 ---------- */
+const HARD = [
+  ["ext","발치 공간폐쇄 필요","CA는 예측-실제 괴리 큼 (Jaber 2023)"],
+  ["body","다수 치아 치체이동(bodily) 필요","tipping 우세, translation 어려움 (Cao 2025 FEA)"],
+  ["extr","유의한 정출(extrusion) 필요","CA가 가장 약한 이동 (Yassir 2022)"],
+  ["transv","횡적 골격 결손(true transverse)","CA 확장은 치조성, 골격 X (Fonseca-Planells 2026)"],
+  ["sklt","중증 골격성 부정교합(severe Class II/III·수직)","camouflage 한계, 수술/FA 영역"]
+];
+const SOFT = [
+  ["torque","전치 토크 조절 필요","attachment·power ridge로 보조 (Cao 2025·Nucera 2022)"],
+  ["rot","견치/소구치 심한 회전(>30°)","원형 단면 회전엔 attachment 필수 (Nucera 2022)"],
+  ["dist","상악 대구치 원심이동(Class II)","TAD+IPR 병용 시 예측성↑ (Inchingolo 2023·Marinelli 2025)"],
+  ["deep","깊은 교합 — 전치 압하(intrusion)","근거 약하나 attachment로 일부 가능 (Nucera 2022)"],
+  ["exp","경도 상악 확장 필요","치조성 확장 가능, over-correction 필요 (탭 ② 참조)"]
+];
+const FAVOR = [
+  ["mild","경도~중등도 총생(≤4mm)","CA=FA 교합결과 동등 (Baneshi 2024)"],
+  ["nonext","비발치 증례",""],
+  ["esth","심미·편의 최우선 환자",""],
+  ["perio","치주 취약 — 위생 관리 중요","CA가 치태·치은·출혈지수 유리 (Baneshi 2024)"]
+];
+function rowHtml(arr,cls,sign){
+  return arr.map(([id,t,s])=>`<label class="factor ${cls}">
+    <input type="checkbox" id="f_${id}" onchange="gate()">
+    <span class="txt">${t}${s?`<small>${s}</small>`:""}</span>
+    <span class="pts">${sign}</span></label>`).join("");
+}
+document.getElementById("hardBox").innerHTML  = rowHtml(HARD,"hard","CA 한계");
+document.getElementById("softBox").innerHTML  = rowHtml(SOFT,"soft","보조");
+document.getElementById("favorBox").innerHTML = rowHtml(FAVOR,"favor","CA 유리");
+
+function chk(id){return document.getElementById("f_"+id).checked;}
+function gate(){
+  const hard = HARD.filter(([id])=>chk(id));
+  const soft = SOFT.filter(([id])=>chk(id));
+  const favor= FAVOR.filter(([id])=>chk(id));
+  const pill=document.getElementById("recPill"),
+        lab=document.getElementById("recLab"),
+        why=document.getElementById("recWhy");
+  let color,label,desc;
+  if(hard.length>=2){
+    color="var(--high)"; label="고정성장치(FA) 우선 고려 — 또는 숙련자 hybrid";
+    desc="복수의 CA 한계 신호. 무리하게 CA 단독 진행 시 예측-실제 괴리·치료 장기화 위험.";
+  }else if(hard.length===1){
+    color="var(--warn)"; label="CA 가능하나 신중 — hybrid / 경험 필요";
+    desc="한 가지 한계 신호. CA로도 동등 결과 보고 있으나 보조장치·over-treatment 계획과 충분한 사전 동의 필요.";
+  }else if(soft.length>=1){
+    color="var(--warn)"; label="CA + 보조장치 (attachment · TAD · IPR)";
+    desc="CA 적용 가능, 단 보조장치로 이동 효율을 확보해야 하는 증례.";
+  }else if(favor.length>=1){
+    color="var(--low)"; label="CA 단독 적합 — 자신 있게";
+    desc="경도~중등도·비발치 프로파일. 효율은 FA와 동등하고 치주·편의 우위.";
+  }else{
+    color="var(--mut)"; label="플래그를 입력하세요";
+    desc="증례 특성을 체크하면 3-tier 권고가 표시됩니다.";
+  }
+  pill.style.background=color; pill.textContent=label.split(" — ")[0].split(" (")[0];
+  lab.textContent=label;
+  let bullets=[];
+  hard.forEach(([,t,s])=>bullets.push(`<li>🔴 <b>${t}</b> — ${s}</li>`));
+  soft.forEach(([,t,s])=>bullets.push(`<li>🟠 ${t} — ${s}</li>`));
+  favor.forEach(([,t,s])=>bullets.push(`<li>🟢 ${t}${s?` — ${s}`:""}</li>`));
+  bullets.push(`<li class="muted">${desc}</li>`);
+  why.innerHTML=bullets.join("");
+}
+gate();
+
+/* ---------- TAB 2 : 상악확장 계산기 ---------- */
+const S={pos:"post",cb:"no",age:"adult"};
+function seg(k,v){
+  S[k]=v;
+  const map={pos:"segPos",cb:"segCb",age:"segAge"};
+  document.querySelectorAll("#"+map[k]+" button").forEach(b=>
+    b.classList.toggle("on", b.dataset.v===v));
+  calc();
+}
+function calc(){
+  const plan=parseFloat(document.getElementById("plan").value);
+  document.getElementById("planV").textContent=plan.toFixed(1)+" mm";
+  // 기본 부족분 0.9mm = de la Rosa-Gay 평균오차(원논문). 효율 환산은 claude해석.
+  const base=0.9;
+  let achieved=Math.max(plan-base, plan*0.40);
+  let eff=Math.round(achieved/plan*100);
+  // 위험요인 → over-correction 상단 마진 (+0.3mm/요인, claude해석)
+  let risk=0, why=[];
+  if(S.pos==="post"){risk++; why.push("구치부");}
+  if(S.cb==="yes"){risk++; why.push("crossbite");}
+  if(plan>4){risk++; why.push("큰 계획확장(>4mm)");}
+  const overLo=base, overHi=base+0.3*risk;
+  document.getElementById("oPlan").textContent=plan.toFixed(1);
+  document.getElementById("oAchieved").textContent=achieved.toFixed(1);
+  document.getElementById("oEff").textContent=eff;
+  document.getElementById("oBar").style.width=Math.min(eff,100)+"%";
+  document.getElementById("oOver").textContent=`+${overLo.toFixed(1)} ~ +${overHi.toFixed(1)}`;
+  document.getElementById("oTotal").textContent=`${(plan+overLo).toFixed(1)} ~ ${(plan+overHi).toFixed(1)}`;
+  const rl=document.getElementById("oRisk"), rw=document.getElementById("oRiskWhy");
+  let lvl,clr;
+  if(risk>=2){lvl="높음";clr="var(--high)";}
+  else if(risk===1){lvl="중간";clr="var(--warn)";}
+  else{lvl="낮음";clr="var(--low)";}
+  rl.textContent=lvl; rl.style.background=clr;
+  rw.textContent=why.length?` — ${why.join(" · ")} (예측성 ↓ 요인)`:" — 위험요인 없음";
+  const cav=document.getElementById("oCaveat");
+  if(S.age==="grow"){
+    cav.innerHTML="⚠ <b>성장기</b>: 이 계산기는 성인 데이터 기반. 성장기는 CA 확장이 conventional expander보다 유의 적고 주로 치조성(치아경사) — <b>골격성 횡적 결손이면 RPE 등 conventional expander 우선 고려</b> (Fonseca-Planells 2026).";
+  }else{
+    cav.innerHTML="원논문 기준 부위 <b>72.2%가 과소확장</b>되었으므로 over-correction을 기본으로 두고, posterior·crossbite 증례는 상단 마진을 적용. 큰 확장은 단계적 재스캔(refinement)을 전제로 계획.";
+  }
+}
+calc();
+
+/* ---------- tabs ---------- */
+function show(n){
+  document.getElementById("pane1").classList.toggle("hide",n!==1);
+  document.getElementById("pane2").classList.toggle("hide",n!==2);
+  document.getElementById("tab1").classList.toggle("on",n===1);
+  document.getElementById("tab2").classList.toggle("on",n===2);
+}
+</script>
+</body>
+</html>
