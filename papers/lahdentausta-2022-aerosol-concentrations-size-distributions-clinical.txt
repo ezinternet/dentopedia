@@ -1,0 +1,41 @@
+Aerosol concentrations and size distributions during clinical dental procedures
+Lahdentausta L, Sanmark E, Lauretsalo S, Korkee V, Nyman S, Atanasova N, Oksanen L, Zhao J, Hussein T, Hyvärinen A, Paju S.
+Heliyon. 2022 Oct 18;8(10):e11074. doi:10.1016/j.heliyon.2022.e11074
+PMID: 36303931  PMCID: PMC9593181
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC9593181/
+(Full text retrieved from PubMed Central via PubMed MCP.)
+
+== ABSTRACT ==
+Background: Suspected aerosol-generating dental instruments may cause risks for operators by transmitting pathogens, such as the SARS-CoV-2 virus. The aim of our study was to measure aerosol generation in various dental procedures in clinical settings.
+Methods: The study population comprised of 84 patients who underwent 253 different dental procedures measured with Optical Particle Sizer in a dental office setting. Aerosol particles from 0.3 to 10 μm in diameter were measured. Dental procedures included oral examinations (N=52), restorative procedures with air turbine handpiece (N=8), high-speed (N=6) and low-speed (N=30) handpieces, ultrasonic scaling (N=31), periodontal treatment using hand instruments (N=60), endodontic treatment (N=12), intraoral radiographs (N=24), and dental local anesthesia (N=31).
+Results: Air turbine handpieces significantly elevated <1 μm particle median (p=0.013) and maximum (p=0.016) aerosol number concentrations as well as aerosol particle mass concentrations (p=0.046 and p=0.006) compared to the background aerosol levels preceding the operation. Low-speed dental handpieces elevated >5 μm median (p=0.023), maximum (p=0.013) particle number concentrations, >5 μm particle mass concentrations (p=0.021) and maximum total particle mass concentrations (p=0.022). High-speed dental handpieces elevated aerosol concentration levels compared to the levels produced during oral examination.
+Conclusions: Air turbine handpieces produced the highest levels of <1 μm aerosols and total particle number concentrations when compared to the other commonly used instruments. In addition, high- and low-speed dental handpieces and ultrasonic scalers elevated the aerosol concentration levels compared to the aerosol levels measured during oral examination. These aerosol-generating procedures, involving air turbine, high- and low-speed handpiece, and ultrasonic scaler, should be performed with caution.
+Clinical significance: Aerosol generating dental instruments, especially air turbine, should be used with adequate precautions (rubber dam, high-volume evacuation, FFP-respirators), because aerosols can cause a potential risk for operators and substitution of air turbine for high-speed dental handpiece in poor epidemic situations should be considered to reduce the risk of aerosol transmission.
+Keywords: Dental aerosol; Air turbine handpiece; High- and low-speed dental handpiece; Ultrasonic scaler; Optical particle sizer.
+
+== FULL TEXT (key sections) ==
+
+INTRODUCTION
+Dentistry is considered one of the most aerosol-generating fields in medicine, since essential and commonly used instruments are rotary or ultrasonic. Aerosol-generating procedures (AGPs) may cause higher infection risk via inhalation. At the start of COVID-19, air turbine handpiece and ultrasonic scaler use were prohibited in most countries; later evidence showed dental procedures produce few particles <10 μm if high-volume suction is used. Aerosol is defined as solid/liquid particles suspended in air regardless of size; medical literature historically used <5 μm. Small aerosols (<5 μm) matter for infection because most respiratory viruses are found in them. Aim: (I) quantity of aerosols generated in various dental operations; (II) size distribution.
+
+MATERIALS AND METHODS
+84 patients (54 F / 30 M; mean age 53.3 ± 15.9 y), 253 procedures, Helsinki specialist clinic, Jul 2020–Jan 2021. Three experienced dentists, six operating rooms. Aerosol measured with Optical Particle Sizer (OPS) TSI Model 3330 (0.3–10 μm, 16 size channels), placed ~50 cm above patient head. Background measured 1 min before each procedure. Particle concentrations grouped into <1 μm, 1–5 μm, >5 μm and total. Particle mass concentrations also computed (assuming spherical droplets, density 1 g/cm³). Non-parametric Mann-Whitney / Kruskal-Wallis tests, SPSS v27. Minimum 6 procedures per class.
+
+RESULTS
+253 procedures in six rooms. Longest operation: periodontal treatment by hand (median 21.3 min); shortest: intraoral X-ray (median 1.2 min).
+- Air turbine handpiece: significantly elevated <1 μm and total particle number concentrations vs background; also elevated <1 μm particle mass concentration. Total particle mass not significant.
+- Low-speed dental handpiece: elevated >5 μm maximum particle concentrations, >5 μm particle mass, and maximum total particle mass concentrations.
+- High-speed dental handpiece: did NOT significantly elevate any class vs its own preceding background, BUT significantly elevated particle concentration vs oral examination.
+- Ultrasonic scaler: slightly elevated >5 μm maximum particle number and mass concentrations.
+- Intraoral X-ray: no elevation.
+Across procedures (Kruskal-Wallis), median <1 μm, 1–5 μm, >5 μm and total differed significantly; concentrations highest with air turbine.
+Half-life: for 22 drilling operations (air turbine + low-speed), median half-life 21.7 min (range 8.5–47.9 min). Air change rate (ACR) 2.76–6.19 /h. Estimated fallow time for air turbine ~98.5 min.
+Significant peaks: 7/8 air turbine procedures showed significant peak in particle number; ratio 2/30 for low-speed and 3/6 for high-speed handpieces; 6/12 root canal treatments. Mean particle number emission rate for air turbine ~5.2×10⁸ #/min; root canal ~1.5×10⁸ #/min.
+
+DISCUSSION
+Major finding: air turbine generated high levels of <1 μm particles and highest total particle concentration vs other instruments. High- and low-speed handpieces and ultrasonic scalers elevated aerosol vs oral examination. Higher rotational speed associated with higher aerosol generation. Smaller particles drift deeper into airways/lungs and carry more virus replicas. High-volume evacuators (≥300 l/min) effectively reduce spray mist. If a rubber dam cannot be used with the air turbine, the high-speed dental handpiece could be considered a safer, less aerosol-generating option during a pandemic. High aerosol levels after drilling take a long time to decline (mean indoor particle loss rate 0.031–0.035 /min; median half-life ~20 min) — longer than routine room turnover; good ventilation is the first tool; keeping a window open / cross-draught helps if ventilation cannot be optimized. Water/irrigant fluid forms the major portion of dental aerosols (dilutes saliva up to 200-fold); waterborne infections (legionellosis, pneumonia) have been transmitted from dental unit water lines. Maximum aerosol observed during root canal treatment (irrigant load).
+Limitations: did not measure whether aerosols contained viruses/microbes; six rooms with differing ventilation (adjusted by background subtraction); high background levels (1970s building, not surgery-level ventilation) may underestimate smaller changes; single device, size only up to 10 μm.
+Strengths: large sample, real patients in routine clinical settings with high-volume evacuators, variety of procedures.
+
+CONCLUSION
+Highest aerosol production with air turbine handpiece, mostly <1 μm. High- and low-speed dental handpieces and ultrasonic scalers elevated aerosol vs oral examination. Aerosol-generating instruments, especially air turbine, should be used with adequate precautions (rubber dam, high-volume evacuation, FFP-respirators). Substitution of air turbine for high-speed dental handpiece in poor epidemic situations should be considered.
