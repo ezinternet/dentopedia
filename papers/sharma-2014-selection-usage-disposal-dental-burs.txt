@@ -1,0 +1,13 @@
+An Epidemiological Study on the Selection, Usage and Disposal of Dental Burs among the Dental Practitioners
+Sharma S, Shankar R, Srinivas K.
+J Clin Diagn Res (JCDR). 2014 Jan 12;8(1):250-4. doi:10.7860/JCDR/2014/5916.3946
+PMID: 24596788  PMCID: PMC3939566
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC3939566/
+(NOTE: PMC returned an EMPTY full-text body for this article; content below is the structured abstract only — full_text:false.)
+
+== ABSTRACT (abstract-only; full text not retrieved) ==
+Purpose: Cross-sectional questionnaire study to evaluate local practitioners' knowledge of dental bur selection, usage, sterilization, and disposal in restorative procedures.
+Methods: 20-question proforma (4 answers each) in 3 categories — selection, usage/sterilization, disposal — mailed to practitioners with telephone follow-up. Results expressed as percentages.
+Results: 131/150 responded (87%). Most preferred DIAMOND burs (75%) over TUNGSTEN CARBIDE (15%). Most dentists used burs until worn out (85%); 33% agreed cutting efficiency decreases with use. Sterilization once daily (35%) or per patient (35%). Nearly all (100%) discarded worn burs into the dustbin.
+Conclusion: Diamond burs predominated the choice for cutting efficiency irrespective of grit size; burs were reused until worn out, and minimal coolant was used during preparation (operators believed coolant did not affect cutting efficiency).
+Keywords: Cross-sectional study; Cutting efficiency; Diamond burs; Tungsten carbide burs.
