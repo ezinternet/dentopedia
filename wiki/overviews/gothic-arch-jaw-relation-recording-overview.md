@@ -113,6 +113,9 @@ Each study judges "accuracy" against a *different* benchmark: split-cast/habitua
 - [[complete-denture/zhou-2023-digital-intraoral-gothic-arch-device-centric-relation]] — CAD/CAM intraoral GAT matches conventional (<0.5 mm), cuts chair time
 - [[occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth]] — GAT-defined chewing-centered therapeutic position; 10-year stability (function-redefined CR)
 
+### context (not yet body-cited)
+- [[occlusion/fukushima-2016-controversy-with-respect-occlusion]] — conceptual rationale for the CR→neuromuscular shift this overview documents: CR is unreliable in deformed/unstable condyles, and muscle-induced positions (muscular position, habitual-closing-movement terminal points scattering ~0.38 mm A-P / 0.27 mm lateral) substitute for it; target = a stable ICP where closure terminates **without premature contact** (25-yr case)
+
 ### Related overviews
 - [[complete-denture-ovd-determination-overview]] — the **vertical** counterpart (OVD); this page is the horizontal (CR) pair
 - [[implant-occlusion-loading-biomechanics-overview]] — occlusal scheme/loading once jaw relation is set
