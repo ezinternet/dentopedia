@@ -1,0 +1,55 @@
+Horizontal ridge augmentation through ridge expansion via osseodensification, guided bone regeneration and ridge-split: Systematic review and meta-analysis of clinical trials
+Vorovenci A, Drafta S, Petre A. Biomedical Reports 2024. DOI: 10.3892/br.2024.1827. PMID 39161939. PMCID PMC11332117.
+
+Source: PubMed Central full text (get_full_text_article).
+
+== ABSTRACT ==
+The aim of the present systematic review was to compare three ridge augmentation procedures in order to assist clinicians in finding the ideal surgical method relative to the horizontal bone gain needed and the width of the alveolar ridge available. An electronic and hand literature search was performed in the online databases PubMed-Medline, Cochrane Central Register of Controlled Trials, EMBASE, Cochrane Oral Health Group Trials Register and Web of Science, and various specialized journals, between January 2017 and December 2022. The included studies were evaluated using the Methodological Index for Non-randomized Studies score and Cochrane's RoB tool. The primary variable studied in the meta-analysis was the final bone gain. The implant survival rate and initial ridge width were the secondary variables. Then four studies on ridge expansion via osseodensification (OD), seven on guided bone regeneration (GBR) and seven on the ridge-split technique (RS) were included in the review; 17 out of 18 were selected for meta-analysis. The mean horizontal bone gain for OD was 2.151 mm [1.327-2.975 mm; 95% confidence interval (CI)], for GBR was 4.036 mm (3.351-4.772 mm 95%CI) and for RS was 3.661 mm (2.991-4.399 mm 95%CI). The results were statistically significant (P=0.002). GBR reported the most bone gain horizontally, followed closely by RS and then OD. OD is a recent technique that should be taken into account when discussing the protocols of horizontally atrophied ridge rehabilitation.
+
+== KEY NUMBERS ==
+Search window: Jan 2017 - Dec 2022. Databases: PubMed-Medline, Cochrane CENTRAL, EMBASE, Cochrane Oral Health Group, Web of Science. PRISMA + STROBE.
+Quality: MINORS (non-randomized; mean 17/24 comparative, 12.44 single-arm), Cochrane RoB (6 RCTs: 3 low, 2 medium risk). Cohen kappa 0.96.
+Initial hits 2,205 (121 duplicates); 18 studies included, 17 meta-analyzed (1 excluded: no implant count, sample 562). For meta-analysis 17 studies split into 21 independent groups (groups compared by authors split). Totals: 336 patients, 665 implants.
+Study split: OD 4 studies (5 groups, 73 pt / 93 implants); GBR 7 studies (8 groups, 149 pt / 334 implants); RS 7 studies (8 groups, 105 pt / 229 implants).
+
+FINAL HORIZONTAL BONE GAIN (primary outcome, random effects):
+- GBR 4.036 mm (3.351-4.772 95%CI)  [bimodal: low subgroup 2.504 mm, high subgroup 4.990 mm; each I2=0%]
+- RS  3.661 mm (2.991-4.399 95%CI)  [reported in abstract as 3.661; conclusion text gives RS 3.61 historical comparator]
+- OD  2.151 mm (1.327-2.975 95%CI)
+- Global mean 3.305 mm (2.211-4.399 95%CI)
+- ANOVA across techniques P=0.002 (significant). Pairwise: GBR vs OD P=0.001; GBR vs RS P=0.09 (NS); RS vs OD P=0.004.
+- Overall I2 heterogeneity 94.6%.
+
+INITIAL RIDGE WIDTH (secondary):
+- Global 3.875 mm (3.325-4.426)
+- OD 4.373 mm (3.828-4.917)  -- OD applied to WIDEST ridges
+- GBR 3.873 mm (3.418-4.327)
+- RS 3.433 mm (2.995-3.872)  -- RS applied to NARROWEST ridges
+- ANOVA P=0.03. Pairwise: GBR vs OD P=0.08; GBR vs RS P=0.18; RS vs OD P=0.001.
+- Q=418.02, I2=95.69%, tau2=0.3765.
+
+IMPLANT SURVIVAL (secondary): overall mean 99.1%. GBR 99.7% (6 studies), RS 98.7% (6), OD 98% (4). Differences NOT significant.
+
+BONE GRAFT subgroup (moderator):
+- No graft 2.465 mm (1.453-3.478)
+- Autologous/mixture 4.981 mm (4.234-5.729)  -- highest
+- Xenogeneic 3.177 mm (2.345-4.008)
+- Allogeneic 2.731 mm (1.400-4.063) [not compared]
+- Synthetic 3.694 mm (2.419-4.968) [not compared]
+- Overall P<0.001. Autologous vs no-graft P<0.001; autologous vs xeno P=0.014; no-graft vs xeno P=0.248 (NS).
+
+COMPLICATIONS:
+GBR: membrane dehiscence/exposure 20% (commonest), oedema 9.52%, hematoma 3.8%, peri-implant mucositis 0.9%.
+RS: dehiscence in augmented area 12.3%, local paresthesia 7.69%, oedema 6.15%.
+
+== INDICATIONS / MINIMUM RIDGE WIDTH (from literature, cited) ==
+GBR minimum 3 mm; RS minimum 2.5-3 mm. OD primary indication = LOW-DENSITY jawbone (D3/D4), not narrow ridges per se; OD horizontal expansion depends on basal bone at 5-10 mm from ridge crest. Required implant ridge width = implant diameter + 3 mm (1.5 mm buccal + 1.5 mm oral).
+
+== CONCLUSIONS ==
+i) GBR most bone gain, followed closely by RS, then OD.
+ii) RS applied to narrowest ridges; GBR and OD need thicker ridge.
+iii) Implant survival very high for all.
+iv) OD via Versah burs should be considered for lateral ridge augmentation -- less gain than GBR/RS but greater predictability and ease of application; GBR/RS are operator-skill dependent (dehiscence, membrane exposure, bad split common).
+Limitations: not all RCTs; unequal study numbers per technique; OD recent with few studies; high heterogeneity; short study window; initial-width-as-variable rarely reported.
+
+OD introduced by Huwais 2013. Prior MA: horizontal defect augmentation 3.31 mm (2014); RS 3.61 mm (2017); GBR xenograft 2.27 mm (2018). No prior MA existed on OD horizontal expansion.
