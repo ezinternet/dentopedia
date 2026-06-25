@@ -1872,6 +1872,7 @@ tags: []
 - [[occlusion/fornai-2022-centric-relation-matter-form-substance]] — Fornai 2022 · narrative-review(rebuttal) · Zonnenberg 반박: CR 용어는 폐기하되 과두위는 능동 모니터링해야(생물학적≠임상정상); "기준위(RP)" 제안; Pullinger 시상 활주 컷오프 ≈2mm·GPT-9 CR 정의 합의 29% (DOI 10.1111/joor.13329)
 - [[occlusion/jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy]] — Jiménez-Silva 2017 · sr(20편 관찰연구, NOS 평균 3.36 low) · CR–ICP 불일치(중심 활주)는 다수 연구서 근육·관절장애와 연관되나 이질성·낮은 질로 TMD 인과 확정 불가 (DOI 10.1080/00016357.2017.1340667)
 - [[occlusion/qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate]] — Qadeer & Türp 2023 · sr(systematised, 18편/40년) · 유치악 성인 MICP 교합접촉 수 11–70로 광범위; 검출지시재(교합지·shimstock·디지털)·집단·기법에 좌우 → 단일 "정상치" 없음 (DOI 10.1111/joor.13451)
+- [[overviews/cr-co-micp-reference-position-debate]] — **NEW Overview (2026-06-26, 9편)**: CR/CO vs MIP/ICP 기준위 논쟁 종합 — CO≠MIP가 정상·정상활주<2mm; 전악수복=재현가능 CR/CO, 안정·무증상 소량활주=기존 MIP 수용, 불안정 과두=근육유도 ICP+과두모니터링; 4-노드 결정 트리 + interactive (agenda/2026-06-26_cr-co-micp-reference-position-decision-tree.md)
 
 - [[occlusion/fukushima-2016-controversy-with-respect-occlusion]] — Fukushima 2016 · narrative-review · 변형·불안정 과두 환자에선 중심위(CR) 신뢰 불가; 조기접촉 없이 습관성 폐구운동(HCM)이 종료되는 안정적 교두감합위(ICP)를 근육 유도 하악위로 확보(증례 25년 추적) (DOI 10.1016/j.jdsr.2016.02.001)
 - [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] — Jahanbin 2026 · rct · 디본딩 후 교합조정해도 T-Scan 교합접촉 강도·개수 6개월까지 유의차 없음(n=30)
@@ -2677,6 +2678,9 @@ tags: []
 ### Overview (veneers & resin-bonding synthesis)
 - [[overviews/veneer-material-survival-protocol-overview]] — **NEW Overview**: 라미네이트 비니어 재료 선택·생존율·적응증·접착 5축 종합 (10편). 재료별 생존율 동등(93.7–96.8%) but 합병증 feldspathic 41.5% vs LDS 6.1%; 최소침습 에나멜 내 제한 시 MPV·CV 성과 유사; 백금박 etching 120 s vs refractory die 90 s; LDS 결합강도 25.4 vs 지르코니아 12.1 MPa (2026)
 - [[overviews/ceramic-bonding-hf-silane-contamination-overview]] — **NEW Overview**: 세라믹 접착 HF 조건·실란 선택·오염 제거·대안 시멘트 4축 종합 (10편). ≥3% HF 필수(feldspathic); 가열 HF는 LDS에만 이득; 대부분 universal adhesive 실란 반응성 저하(NMR); 오염 후 MEP or 5% HF 재처리만 결합강도 회복; 예열 복합레진 68°C가 resin cement 상회 (2026)
+
+### Overview (occlusal contact detection — added 2026-06-26)
+- [[overviews/occlusal-contact-detection-articulating-paper-overview]] — **NEW Overview**: 교합접촉 검출·교합 지시재 선택 종합 (5편). 교합지 진양성 81%·위양성 15%지만 술식으로 위양성 2%까지 — 200µm>100µm, 하악궁 우선, 양악일치 규칙, 교두정 마크 불신; 색강도≠교합력; 심스탁은 닿음 yes/no만; 디지털(IOS/T-Scan/OccluSense)은 카본지와 일치도 낮아(κ 0.07–0.20) 대체 아닌 보완 (2026)
 
 ## Batch ingest (added 2026-06-16) — GBR membranes, ARP/socket preservation, DBBM, zirconia
 
