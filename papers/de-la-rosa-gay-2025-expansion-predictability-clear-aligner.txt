@@ -1,0 +1,94 @@
+Title: Factors affecting expansion predictability of clear aligner treatment
+Authors: de la Rosa-Gay et al.
+Year: 2025
+DOI: 10.1007/s00784-025-06328-y
+PMID: 40257582
+PMCID: PMC12011961
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC12011961/)
+
+== Abstract ==
+
+Objectives
+To determine the clinical factors associated with expansion predictability using clear aligners.
+
+Materials and methods
+Pretreatment, prediction in the first approved ClinCheck, and pretreatment of the first refinement digital casts were recovered from Invisalign's ClinCheck software for 98 patients with permanent dentition. Arch width measurements were collected in the ClinCheck arch width table for canines, first and second premolars, and first molars. Expansion predictability was calculated by subtracting the expansion achieved from that predicted. Expansion predictors were explored using univariate and multivariate generalized linear mixed models (GLMM).
+
+Results
+Ninety-eight patients (mean age 48.7 years, standard deviation [SD] = 12.5 years) with 1440 eligible teeth (720 on each side) were assessed. The absolute difference between planned and achieved expansion was 0.92 mm (95% confidence interval [CI]: 0.86–0.99). While 72.2% of the measurements showed some degree of underexpansion, 79.3% of all overcorrections appeared in the mandible. According to the univariate analysis, the following variables were associated with expansion predictability: sex, arch, presence of posterior crossbite, absence of extractions, placement of attachments, absence of stripping, tooth type and higher predicted expansion. Those identified by GLMM were arch, tooth type, amount of predicted expansion and posterior crossbite.
+
+Conclusions
+Expansion with Invisalign aligners is more reliable in the lower jaw and in the canine region. Cases with large, planned expansions or initial posterior crossbites (unilateral or bilateral) seem less predictable.
+
+Clinical relevance
+The risk of not achieving the planned expansion is greater in the maxilla, posterior teeth, and when crossbite is present.
+
+== Introduction ==
+
+In recent years, clear aligners have become a useful and common tool for orthodontic treatments. These devices provide a more aesthetically pleasing and comfortable option than conventional fixed appliances, and are readily accepted by patients. However, predictability is one of the major concerns of clinicians when prescribing clear aligners. Several studies have calculated the predictability of different tooth movements, overbite correction and expansion with clear aligners. Since transverse constrictions of the maxillary and mandibular arches are common alterations in daily practice, many studies have focused on the predictability of orthodontic aligners in achieving expansion. In the case of Invisalign polyurethane-based clear aligners, most authors have quantified the expansion obtained with Invisalign Exceed30 (now discontinued), while more recent reports have used SmartTrack, which shows better adaptability and consistency of force transmission, despite not performing better in expansion. Invisalign clear aligners are considered to be effective in achieving arch expansion, as they increase all the inter-tooth distances. According to Tien et al. and Houle et al., more favorable outcomes are usually observed in the mandibular arch. Indeed, both of these studies found differences of over 10% between expansions in the upper and lower arches. Factors such as the number of attachments, the days of use, the need for interproximal reduction or dental extractions, could affect the expansion results. Other variables, such as the presence of posterior crossbite, implants or missing teeth, might also play an important role in the expansion achieved with aligners.
+
+The accuracy of the prediction may vary. In general, it is greater in the premolar area and the mandibular arch, as reported by Tien et al. (76.4% on the maxillary arch and 86.9% on the mandibular arch) and by Houle et al. (72.8% on the maxillary arch and 87.7% on the mandibular arch). However, the strict inclusion and exclusion criteria might limit extrapolation of the results to the general population wearing aligners, which is quite diverse. Confounding effects and interactions should be explored by using multivariate models, in order to detect cases that are less likely to achieve the predicted expansion. Most studies perform multiple comparisons at different landmarks, but do not provide a multilevel analysis, which considers variation of both patient and tooth.
+
+In addition, references exist not only to underexpansion but also to overexpansion. Planning overexpansion with ClinCheck software to compensate for anticipated underexpansion might result in greater overexpansion and/or deficient occlusal contacts. Regardless of whether overexpansion is incorporated to the treatment plans or not, it is still unclear which patients and areas are at most risk of underexpansion.
+
+Aim: to determine how clinical variables affect the expansion predictability of Invisalign aligners in adult patients, and to build an explicative model of the expansion obtained, adjusted by these factors, using multi-level analysis.
+
+== Materials and methods ==
+
+A retrospective cohort study was conducted, comprising patients treated with SmartTrack version aligners (Align Technology, San José, CA, USA) from November 2017 to December 2023 by a single orthodontist (CRG) in a private dental clinic in the metropolitan area of Barcelona (Spain).
+
+Ethics: Approved by the Ethics Committee of the Dental Hospital of the University of Barcelona (protocol number: 2024-024-1), conducted in accordance with the Declaration of Helsinki. Followed STROBE guidelines. Informed consent not required (retrospective, anonymized).
+
+Inclusion criteria: (1) adult patients (>18 years); (2) treatment completed with the aligners; (3) treatment not requiring dental extractions; (4) treatment of both arches.
+Exclusion criteria: (1) use of accessories other than attachments or class II/III elastics; (2) interruption of use of the aligners or poor compliance (misfits at most appointments); (3) lack of a first refinement.
+
+Diagnoses through clinical examination, panoramic radiographs, teleradiography, intraoral and extraoral photographs, stone or scanned casts. ClinChecks reviewed by the orthodontist and corrected when necessary. Patients treated with Invisalign Comprehensive, Moderate or Lite versions.
+
+Primary outcome: predictability of expansion = absolute difference (mm) between the expansion achieved (arch width after first stage treatment) and that planned (from the initial arch width) in canines, first and second premolars and first molars. Deviation calculations using ClinCheck.
+
+Data recorded per patient: age at approval of the ClinCheck of the first stage, sex, presence of posterior crossbite (none, unilateral, bilateral), Invisalign aligner version (Lite, Moderate, Comprehensive), number of planned aligners, treatment time from start of aligner use to first refinement, compliance (excellent if no misfits, good if occasional misfits), predicted expansion (mm), absolute discrepancy (mm), tooth extractions, predicted interproximal reduction in upper/lower jaw (0 mm; ≤1 mm; 1–2 mm; >2 mm), number of attachments upper/lower jaw (0; 1–4; 5–8; ≥9). Number of implants and missing teeth upper/lower jaw recorded (pre-treatment situation). Patients instructed to use aligners for 7 or 10 days (10 days for Lite and Moderate, 7 days for Comprehensive).
+
+Statistical analysis: Sample size with G*Power, assuming absolute discrepancy of 0.5 mm clinically significant, common SD of 0.83 mm, alpha 0.05, power 80% → 28 patients; adjusted for three-level (patient, arch, tooth) structure with intrasubject correlation 0.5, 2 arches, 8 teeth → final required sample 98 patients. IBM SPSS 29.0. Simple generalized linear mixed models (GLMM). Three levels: patient, arch, tooth. Crude mean differences with 95%CI per covariable. Multivariate GLMM with forced entry; dependent variable = absolute difference between predicted and achieved expansion; all covariates with univariate p<0.30 plus arch×tooth interaction entered; adjusted beta-coefficients and 95%CIs; significance <0.05.
+
+== Results ==
+
+102 patients initially screened, 4 excluded (treatment interruption / poor compliance). Final: 98 patients (720 analyzed tooth pairs), mean age 42.25 years (SD=12.5). [Note: abstract states mean age 48.7 years; Table 1 / text body states 42.25–42.32 years — discrepancy in the published paper.]
+
+Table 1 (patient/arch level, n=98 / 196):
+- Sex: Male 29 (29.6%), Female 69 (70.4%)
+- Posterior crossbite: None 68 (69.4%), Unilateral 21 (21.4%), Bilateral 9 (9.2%)
+- Treatment modality: Lite 55 (56.1%), Moderate 6 (6.1%), Comprehensive 37 (37.8%)
+- Treatment time: 8.17 (11.41) months
+- Compliance: Good 4 (4.1%), Excellent 94 (95.9%)
+- Predicted expansion: 2.46 (2.18) mm
+- Absolute discrepancy: 0.92 (0.84) mm
+Arch level: No. attachments Maxilla 7.67 (2.49), Mandible 6.47 (2.13); Stripping Maxilla 0.02 (0.18), Mandible 0.20 (0.59); Predicted expansion Maxilla 3.00 (2.12), Mandible 1.92 (2.11); Absolute discrepancy Maxilla 1.24 (0.93), Mandible 0.61 (0.59).
+
+Table 2 (tooth level, n=720) — Predicted / Achieved / Absolute discrepancy (mm):
+Maxilla: Canine 2.26/1.41/0.90; First premolar 3.64/2.44/1.29; Second premolar 3.64/2.28/1.44; First molar 2.56/1.43/1.37.
+Mandible: Canine 1.62/1.52/0.36; First premolar 2.21/1.89/0.69; Second premolar 2.35/2.11/0.67; First molar 1.43/1.45/0.78.
+
+Accuracy: absolute overall difference 0.92 mm (95%CI 0.86–0.99). Signed discrepancies: 72.22% of inter-canine/inter-premolar/inter-first-molar distances increased slightly less than predicted (underexpansion; 95%CI 68.84–75.37), overcorrection in 22.78% (95%CI 19.86–25.98). 130 of 164 overcorrections occurred in the mandible, distributed homogeneously among landmarks (p=0.479). [Text elsewhere: 79.3% of all overcorrections appeared in the mandible.]
+
+Univariate GLMM — variables significantly associated with greater absolute discrepancy (p<0.05): male sex, maxillary arch (coef 0.59, 95%CI 0.44–0.73, p<0.001), posterior crossbite (unilateral 0.35; bilateral 0.65, p<0.001), absence of extractions, placement of attachments (1–4: 0.24; 5–8: 0.46; ≥9: 0.80, p<0.001), absence of stripping, posterior teeth (first premolar 0.36; second premolar 0.44; first molar 0.46, p<0.001 vs canine), higher predicted expansion (0.17 per mm, 95%CI 0.12–0.21, p<0.001). Not significant: age, treatment modality, compliance, no. implants, no. missing teeth, treatment duration.
+
+Multivariate GLMM (final model) — independent variables: arch, posterior crossbite, tooth type, predicted expansion. Arch×tooth interaction not significant (F[3,709]=1.43, p=0.233).
+- Arch: Maxilla 0.47 (0.35–0.59), p<0.001
+- Posterior crossbite: Unilateral 0.26 (0.08–0.45); Bilateral 0.55 (0.20–0.90), p<0.001
+- Tooth type: First premolar 0.22 (0.10–0.35); Second premolar 0.29 (0.20–0.39); First molar 0.45 (0.32–0.57), p<0.001 (vs canine)
+- Predicted expansion: 0.14 (0.10–0.19) per mm, p<0.001
+Number of attachments excluded from multivariate model due to co-linearity (associated with posterior crossbite).
+
+== Discussion (key points) ==
+
+First study to use multilevel analysis for the discrepancy between predicted and obtained expansion. Three patient/tooth factors relevant: dental arch, crossbite, tooth position. Discrepancies higher in upper arch, in patients with posterior crossbite, and in molar area. Fourth factor: amount of predicted expansion positively correlated with discrepancy (higher predicted expansion = less predictable).
+
+Underexpansion is the common observation (related to transversal malocclusion). Overexpansion mainly in the mandible. With each aligner, 0.25–0.33 mm of tooth movement; larger planned expansions need more aligners and yield larger discrepancies. Results more reliable in lower arch because aligners expand by tipping rather than bodily translation; lower-arch compression usually accompanied by lingual version (easier to tip-correct), whereas compressed upper-arch teeth are often upright/buccally inclined and require bodily movement. In this study canine-area expansion was more reliable than premolar region (contrasting some prior studies that found premolars more predictable — attributed to those studies' restrictive inclusion criteria).
+
+Adults: if >7 mm expansion required, consider SARPE, MARPE (mini-implant assisted), or segmental osteotomies; planning overexpansion may not be the correct strategy in adults (risk of overexpansion/excessive tipping). Interproximal reduction and number of missing teeth NOT significantly related to predictability. Sex, age, number of implants, treatment duration, slight compliance differences NOT related.
+
+Limitations: retrospective design; single experienced orthodontist with one manufacturer's aligners (limits generalization); less restrictive selection criteria (improves external validity); did not assess malocclusion type/complexity, tipping, periodontal support, or simultaneous movements.
+
+== Conclusions ==
+
+Expansion with aligners is more reliable in the lower jaw and in the anterior area (canines). Cases with large, planned expansions and with initial posterior crossbites (unilateral or bilateral) seem to be less predictable.
