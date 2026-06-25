@@ -1,0 +1,64 @@
+The effect of modern devices of alveolar ridge split and expansion in the management of horizontally deficient alveolar ridge for dental implant: A systematic review
+Manekar VS, Shenoi RS, Manekar SM, Morey S
+Natl J Maxillofac Surg 2022. DOI: 10.4103/njms.njms_423_21 | PMID 38273919 | PMCID PMC10806315
+
+ABSTRACT
+The alveolar ridge split and expansion (ARSE) can be performed using conventional devices (osteotome/chisel) or modern devices (ultrasonographic [USG], motorized ridge expansion [MRE], etc.). The aim of this systematic review was to evaluate the effect of modern devices for ARSE. Registered at PROSPERO CRD42020213264. Systematic search by two reviewers in PubMed, MEDLINE, Cochrane Central Register of Controlled Trials, Grey Open, hand search of reference lists and prior SRs. Articles published until September 2020. 24 eligible studies (22 cohort + 2 RCT). 1287 dental implants installed in 634 patients, age 17-70 years, minimum 3 months follow-up. 10 USG-device articles and 7 MRE-device articles evaluated for meta-analysis. Mean ridge width gain 3.40 mm (USG) and 2.83 mm (MRE). Overall implant survival 98.07%. Mean width gain USG vs MRE significantly different (p<0.0001, HS). Heterogeneity significant (I2=88.39%, p<0.0001). No publication bias (Egger intercept 6.6634, p=0.6142, NS). Most commonly used devices USG and MRE. USG more effective for osteo-mobilization type; MRE for minimally invasive osteo-condensation.
+
+INTRODUCTION / RATIONALE
+Horizontally deficient ridge managed by GBR, ARSE, block bone grafting, etc. Ridge split concept introduced by Tatum 1986. ARSE described by Simion 1992 (split-crest, chisel/beaver blade No 62 tapped with hammer). Scipion 1994/1999 used No 64 beaver blade for intra-osseous groove. Summers proposed cylindrical/tapered osteotomes for ridge expansion osteotomy. Vercellotti 2000 introduced piezoelectric (ultrasonic) surgery for ridge split. Hand expansion screws, motorized expansion kits = new ARSE-specific devices. Modern devices reduce surgical trauma, surgical time, easier to use, better results.
+Prior SR by Jha listed traditional devices (chisel hand/electric mallet, osteotomes, surgical blade, micro-saw) vs modern (motorized ridge expanders, threaded bone expanders, expansion crest devices, lasers, ultrasonic/piezoelectric) but did NOT study width gain or implant survival with modern devices.
+Aim: evaluate effect of modern ARSE devices on ridge width gain (RWG) and implant survival.
+PICO: P horizontally deficient (2-6 mm) edentulous arches indicated for implant; I ARSE with modern devices; C conventional ARSE or GBR; O ridge width gain, survival rate.
+
+METHODS
+Inclusion: RCT/CCT/cohort/case-control; sample >=10 implants; modern ARSE device; min 3 months follow-up after prosthesis; English; abstract+full text; device mentioned.
+Exclusion: case reports, sample <10 implants.
+Two reviewers extracted; discrepancies resolved by third.
+Sources: PubMed/MEDLINE, Cochrane CENTRAL, Grey Open, hand search, prior SRs. Until Sep 2020.
+PRISMA: 1020 records from databases + 10 other = ; after dedup 110 articles; abstract screen excluded 79; 31 full-text assessed; 7 excluded (<10 implants / case reports); 24 included.
+Risk of bias: 22 observational via modified Newcastle-Ottawa; 2 RCT via modified Cochrane tool. GRADE rating "very Low."
+
+RESULTS - DEMOGRAPHICS
+634 patients total. Of studies reporting gender: 200 males, 286 females. Age range 17-70 years. Mean follow-up 13.23 months. 1287 implants.
+
+DEVICE TYPES
+HSE = hand screw expander.
+USG (ultrasonographic/piezo): USG1 = USG for osteotomies + chisel mallet for expansion; USG2 = USG for osteotomies + osteotome for expansion; USG3 = USG for crestal osteotomy + implant as expander.
+MRE (motorized ridge expander): MRE1 = disk/split + motorized expansion drills; MRE2 = USG split + motorized expansion drills.
+CCBS = crest control bone splitting system. OD = osteodensification.
+Study counts: PS=10 prospective, CS=1 case series, RS=6 retrospective series, RCT=2 (one in 24-study count; text says CS-1, RS-6, RCT-1 for one table grouping).
+
+ARSE TYPES (osteo-condensation vs osteo-mobilization)
+OC = osteo-condensation (lateral condensation of cancellous bone, increases peri-implant density).
+CO-OC = crestal osteotomy + osteo-condensation.
+OM = osteo-mobilization (precise osteotomies of residual alveolus; 2 vertical + 1/2 horizontal osteotomies).
+DOM = delayed (two-stage) osteo-mobilization.
+SOM = staged osteo-mobilization (graft added in osteotomised site, implant after 6 months / third stage).
+OC and CO-OC: simple, minimally invasive, immediate implant. OM/DOM: implants delayed (second stage). SOM: implants third stage.
+Implant insertion timing: III = immediate (same surgery), DII = delayed (second stage), TSII = third-stage. All MRE studies used immediate implant insertion; USG studies used time-consuming delayed insertion (DII). Grafting done in 15 studies.
+
+META-ANALYSIS - RIDGE WIDTH GAIN
+USG group (10 articles): mean initial ridge width 3.76 mm, mean final ridge width 7.13 mm, mean RWG 3.40 mm.
+MRE group (7 articles): mean initial 3.78 mm, mean final 5.92 mm, mean RWG 2.83 mm.
+Width gain slightly higher in USG. USG vs MRE RWG significantly different p<0.0001.
+USG width-gain meta (8 studies in forest plot, 654 total): SMD fixed -4.769 (95% CI -5.095 to -4.444), random -6.315 (95% CI -8.126 to -4.504), p<0.001. Heterogeneity Q=195.78, DF=7, I2=96.42%. Egger intercept -11.07 (p=0.0208).
+MRE width-gain meta (6 studies, 342 total): SMD fixed -3.879 (95% CI -4.297 to -3.461), random -6.396 (95% CI -9.210 to -3.583), p<0.001. Heterogeneity Q=178.70, DF=5, I2=97.20%. Egger intercept -9.92 (p=0.0442).
+
+META-ANALYSIS - IMPLANT SURVIVAL (proportion)
+USG group: mean success rate 98.42% (forest: 9 studies, n=371, pooled 97.85%, 95% CI 95.83-99.06; I2=3.31%, p=0.4072; Egger p=0.8301 no bias).
+MRE group: mean success rate 98.97% (forest: 6 studies, n=171, pooled 98.50%, 95% CI 95.41-99.73; I2=0%, p=0.4690; Egger p=0.4795 no bias).
+Overall implant survival 98.07%.
+
+KEY PER-DEVICE DATA (Table 3 highlights)
+USG width gains by study: Blus 2006 2.8mm (96.5% survival), Holtzclaw 2010 4.03mm (100%), Scarano 2015 5.17mm (96.88%), Agabiti 2016 2.7mm (100%), Zahran 2016 2.93mm (100%), Gurler 2017 2.65mm (93.9%), Li 2017 2.37mm (95.35%), Kheur grpA 3.82mm/grpB 2.57mm (100%).
+MRE width gains: Anitua 2011 3.35mm (100%), Anitua 2016 one-stage 2.2mm / two-stage 1.8mm (100%), Nguyen 2.6mm (100%), Jamil 2016 4.24mm (100%), Mustafa 3.7mm (100%), Souza 2020 2.97mm (100%), Koutouzis 2019 1.8mm (92.8%).
+
+DISCUSSION
+Jha SR concluded motorized expanders and ultrasonic systems easier and less traumatic than mallets/osteotomes, but cost limits adoption; osteotomes remain popular.
+Effect-size studies: 360 implants by USG, 202 by MRE analyzed (text; vs 10 USG + 7 MRE articles).
+OM type used with USG: extensive, technique-sensitive, more buccal-fracture risk; USG = precise bone-cutting, minimal trauma; used for horizontal+vertical osteotomies then expansion via chisel/osteotome.
+CO-OC type used with MRE: minimally invasive, crestal osteotomy + OC with non-cutting drill-like expanders at low speed; all MRE studies used immediate implant insertion -> fewer surgeries, shorter total treatment.
+Most common complication = implant failure, then buccal plate fracture / bad split, peri-implantitis. Some MRE studies noted buccal plate dehiscence.
+Mahmoud RCT compared mucosal vs mucoperiosteal flap in USG split (small n, peri-implant health focus). Kheur 2017 RCT compared graft particle type/size. Inconsistent data on buccal dehiscence, bad split, cervical bone loss, implant stability -> not meta-analyzed. No study compared conventional vs modern devices. GRADE "very Low."
+CONCLUSION: USG and MRE are the most commonly used modern ARSE devices. USG (precise osteotomy) more effective for OM type; MRE makes ARSE minimally invasive with immediate implant placement. Large RCTs with long follow-up needed.
