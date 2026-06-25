@@ -1,0 +1,94 @@
+Temporary Anchorage Devices in Clear Aligner Therapy: A Systematic Review
+Marinelli G, Inchingolo AM, Inchingolo AD, Ferrante L, Avantario P, Campanelli M, Palermo A, Inchingolo F, Dipalma G.
+Bioengineering (Basel). 2025;12(5):531. PMID: 40428150. PMCID: PMC12108709. DOI: 10.3390/bioengineering12050531.
+Source: PubMed Central full text (get_full_text_article).
+
+ABSTRACT
+This systematic review analyzed the combined use of aligners and orthodontic temporary anchorage devices (TADs) in orthodontic treatment. The aim was to evaluate the effectiveness, benefits, and potential challenges of integrating the use of miniscrews with aligners. This review was conducted according to the PRISMA statement, and the protocol was registered at PROSPERO under the ID CRD42024576712. A comprehensive search on PubMed, Scopus, and Web of Science was conducted to identify relevant papers involving patients treated with aligners and TADs, dating from 1 January 2004 to 17 July 2024. The electronic database search identified a total of 458 articles. After eligibility, 14 records were selected for qualitative analysis. The findings suggest that the combination of aligners and miniscrews significantly enhances treatment precision and control, especially in cases requiring complex tooth movements, such as intrusion, extrusion, and distalization. The use of miniscrews allows greater control of movement and stability. The integration of these two techniques presents challenges, such as the need for precise miniscrew placement and potential discomfort during insertion. However, there was high satisfaction due to the aesthetic and comfort benefits of aligners. Further research is desirable to delve deeper into the topic to optimize clinical outcomes.
+
+1. INTRODUCTION
+
+1.1. Evolution of Orthodontic Treatment
+Orthodontic treatment modalities have undergone significant advancements over the past few decades. Traditionally, fixed appliances (brackets, wires, and bands) have been the gold standard in orthodontic care.
+
+1.2. Emergence and Workflow of Clear Aligners
+In recent years, clear aligners have emerged as a popular alternative to fixed appliances, particularly among adult patients seeking more discreet treatment options. Made from transparent, medical-grade plastic, aligners are custom-designed from a digital impression. Digital impressions are obtained using intraoral scanners, capturing a 3D representation of the dentition and occlusion, enhancing accuracy and reducing chair time. Data are processed into a virtual model used in ClinCheck Pro 5.0 software, allowing orthodontists to design a step-by-step treatment plan and preview expected outcomes.
+
+1.3. Limitations of Aligners and the Role of TADs
+While aligners provide benefits (enhanced hygiene, reduced discomfort), they often face limitations in controlling complex tooth movements, particularly in cases requiring significant anchorage. To overcome these challenges, integrating temporary anchorage devices (TADs) with aligner therapy has gained increasing attention.
+
+1.4. Historical Background and Advances in TADs
+TADs, first introduced in the early 2000s. Early reports by Kanomi (1997) and Costa et al. (1998) described small titanium screws inserted into bone to serve as anchorage points. Application has expanded with improved placement techniques, stability, and compatibility with digital treatment planning.
+
+1.5. Biomechanical Benefits of TADs
+Tiny titanium screws (mini-implants or TADs) are placed temporarily into the palatal or alveolar bone. Their main purpose is to provide a solid anchorage point so regulated forces may be applied to move teeth without unwanted reciprocal movements. TADs give aligners the essential anchoring to increase effectiveness by enabling extra forces in particular directions that aligners are unable to achieve by themselves.
+
+1.6. Clinical Use and Indications
+TAD implantation is a minimally invasive treatment usually carried out under local anesthetic. Steps: choosing the right location, ensuring enough bone density, and inserting the TAD with a specific driver. Once installed, TADs facilitate complex movements in combination with coil springs, elastics, or direct attachment to the aligners. TADs are removed once outcomes are attained, leaving little to no scarring. Especially beneficial in cases requiring significant tooth movement: intrusion, extrusion, molar distalization, and correction of open bites or deep bites.
+
+1.7. Combined Use of Aligners and TADs
+The combination presents a promising approach for managing challenging malocclusions without procedures that require patient cooperation. This dual approach expands the range of treatable cases, can shorten treatment times, and improve outcomes in complex cases.
+
+1.8. Recent Advances in Antimicrobial Coatings for Orthodontic Appliances
+Increasing attention has been directed toward antimicrobial coatings (silver nanoparticles, chitosan, quaternary ammonium compounds) to reduce bacterial adhesion and biofilm formation, reducing risk of localized infection around anchorage sites.
+
+1.9. Comparison with Previous Systematic Reviews
+While several SRs have addressed either clear aligner therapy or TADs independently, only a few have focused on their combined application. This review provides a comprehensive synthesis focusing on their synergistic use, evaluating clinical effectiveness, patient-centered outcomes, and biomechanical advantages, plus recent developments in digital planning, material science, and surgical protocols.
+
+1.10. Aim of the Review
+To evaluate current literature on combined use of aligners and TADs, focusing on clinical outcomes, effectiveness, and potential complications.
+
+2. MATERIALS AND METHODS
+
+2.1. Protocol and Registration
+Followed PRISMA. Registered at PROSPERO under ID CRD42024576712.
+
+2.2. Search Processing
+Search on PubMed, Scopus, and Web of Science. Dating from 1 January 2004 to 17 July 2024, in English.
+Boolean keywords: (aligners OR clear aligners OR transparent aligners OR Invisalign) AND (Temporary Anchorage Devices OR TADs OR OrthoTADs OR Mini-implants in orthodontics OR Skeletal anchorage OR Mini-screws OR Micro-implants orthodontics OR Orthodontic anchorage systems OR Miniscrew implants OR Temporary skeletal anchorage devices OR Orthodontic biomechanics with TADs).
+
+2.3. Inclusion Criteria (PICOS applied)
+Table 3 - Inclusion: Clinical studies (RCTs, retrospective studies, case series, case reports); orthodontic treatment with aligners and TADs; English language; full-text available.
+Exclusion: Animal studies; in vitro studies; off-topic articles; reviews, letters, comments; non-English language articles.
+
+2.5. Data Processing
+Three reviewers (G.M., A.D.I., G.D.) independently collected studies. Articles downloaded into Zotero (v6.0.15). Disagreements resolved with senior reviewer (F.I.).
+
+2.6. Quality Assessment
+Quality independently assessed by two reviewers (M.C. and P.A.) using the ROBINS-I tool (risk of bias in non-randomized studies). Seven domains assessed. Disagreements resolved by third reviewer (F.I.).
+
+3. RESULTS
+
+3.1. Study Selection and Characteristics
+Electronic database search yielded 458 records (Scopus 60; PubMed 313; Web of Science 85), no additional hand-searching. After removing duplicates, 369 unique records screened by title/abstract. 355 excluded (348 off-topic, 7 reviews). 14 studies included for qualitative synthesis. Many of the included studies are case reports or small case series, reflecting the novelty of combining aligners with TADs.
+
+3.2. Quality Assessment and Risk of Bias
+Most studies showed high risk of bias due to confounding factors. Risk of bias related to measurement generally low. Most studies low risk of bias in selection of participants. Bias due to post-exposure factors could not be adequately assessed (heterogeneity). Risk of bias due to missing data low in many. High risk of bias noted in selection of reported results across most studies. Overall: one study low risk of bias, nine studies some concerns, four studies high risk of bias, remainder unclear/questionable.
+
+4. DISCUSSION
+Certain heterogeneity observed (study designs, treatment protocols, patient characteristics). Many studies limited by small sample sizes, predominance of case reports, and scarcity of RCTs, constraining strength of evidence.
+
+4.1. Integration of TADs in Clear Aligner Therapy - significant innovation; biomechanical advantages improve predictability.
+
+4.2. Applications in Class III Malocclusions and Molar Distalization - aligners + TADs effective for Class III through lower molar distalization. Non-extraction approach improves anterior overbite, establishes functional Class I occlusion, reduces total aligner stages and discomfort.
+
+4.3. Digital Orthodontics and Canine Impaction - Capuozzo et al. highlighted digital orthodontics for canine impaction; precise device positioning. Wang et al. case report of clear aligner with miniscrews as TADs for Class II Division 2 malocclusion with severe upper canine displacement; miniscrews facilitate repositioning of displaced teeth.
+
+4.4. Addressing Alveolar Protrusion and Vertical Control - Choi et al. treated alveolar protrusion with miniscrews and clear aligners. Accurate consistent tooth movements; digital orthodontic planning for personalized treatment.
+
+4.5. Treatment of Anterior Open Bites - Sabouni et al. support clear aligners in treating anterior open bites; digital software for even and progressive force distribution; excellent occlusion improvements in less time.
+
+4.6. Surgical Approaches in Advanced Cases - In advanced cases with skeletal discrepancy, skeletal anchorage + clear aligner combined with surgery-first protocol. Iodice et al.: gummy smile and Class II with mandibular retrognathia and deviation corrections. Greco et al.: G-Block TAD system enables posterior skeletal anchorage after molar distalization with aligners (adult patients). Greco et al.: aligners and TADs for impacted canines, less traumatic, more comfortable.
+
+4.7. Long-Term Stability in Hyperdivergent Cases - Lu et al. preset intrusion bulbs within clear aligners for vertical control in hyper-divergent skeletal Class II; 4-year follow-up demonstrating long-term stability. Park et al.: integration of TADs and Invisalign in complex cases; TADs act as additional apparatus with double arch wires.
+
+4.8. Forces and Limitations of TSADs - De Almeida et al. examined forces exerted by clear aligners associated with TSADs. Aligner materials (thermoplastic polymers such as polyurethane or PETG) play crucial role in treatment performance (flexibility, elastic recovery, transparency affect force delivery, durability, compliance).
+
+4.9. Molar Distalization and Asymmetries - Auladell et al.: mini-implants in molar distalization (clear aligners often underperform in molar distalization due to reliance on intraoral anchorage; mini-implants enhance accurate effective distalization). Kottemann et al.: TADs with clear aligners for dental asymmetries.
+
+4.10. Non-Extraction Approaches in Class II Malocclusions - Ojima et al.: clear aligners achieving functional occlusion without tooth extraction in Class II; excursive incisor movements achieved by combining TADs with clear aligners. Lin et al.: three-dimensional measurement and analysis of distalization of mandibular molars by micro-implant anchorage with clear aligners.
+
+4.11. Critical Analysis and Future Directions - Evidence base limited by small sample sizes, lack of control groups, short follow-up periods, predominance of descriptive designs. Few RCTs; heterogeneity hinders comparison. Need for large-scale, long-term prospective studies with standardized methodologies.
+
+5. CONCLUSIONS
+The combined use of aligners and TADs appears promising for managing complex orthodontic cases requiring significant tooth movements (intrusion, extrusion, distalization). TADs provide stable anchorage, contributing to more controlled and predictable tooth movements. Combination can enhance patient satisfaction (aesthetic and comfort advantages). However, current evidence must be interpreted with caution: limited number of studies, considerable heterogeneity, small sample sizes. Clear need for high-quality RCTs to confirm effectiveness and safety and to establish standardized clinical guidelines. Future research should focus on optimizing protocols, improving miniscrew placement accuracy, and defining case selection criteria.
