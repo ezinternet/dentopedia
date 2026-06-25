@@ -2781,3 +2781,5 @@ tags: []
 ## 치과 핸드피스·엔진 (Dental Handpiece / Engine) — NEW category (added 2026-06-25)
 - [[dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical]] — Lahdentausta 2022 · prospective(환자 84명·253건, 광학입자측정기) · 에어터빈 핸드피스가 <1 μm·총 에어로졸 최다 생성; 하이스피드·로우스피드 핸드피스·초음파 스케일러도 구강검진 대비 유의 증가; 에어터빈→하이스피드 대체·HVE 권고 (DOI 10.1016/j.heliyon.2022.e11074)
 - [[dental-handpiece/matys-2020-dental-aerosol-hazard-risk-dental]] — Matys 2020 · in-vitro(마네킹, 0.3–10 μm 3지점) · 하이스피드 핸드피스 에어로졸 최다 > 로우스피드 > Er:YAG 레이저 최소; 넓은 맞춤형 고용량 흡입기(HVE) 최대 저감(Zirc 88%) (DOI 10.3390/ma13225109)
+- [[dental-handpiece/zhang-2020-er-cr-ysgg-microleakage-cavity-preparation-sr-ma]] — Zhang 2020 · sr+ma(인비트로 13편, 11편 메타분석) · Er,Cr:YSGG 레이저 와동형성 = 전통 bur 미세누출 동등; 레이저 후 자가부식 접착제엔 산부식 추가 권고(RR=2.69) — 레이저 vs bur는 sealing이 아닌 편의/속도 적응증 (DOI 10.1186/s12903-020-01252-x)
+- [[dental-handpiece/sharma-2014-selection-usage-disposal-dental-burs]] — Sharma 2014 · cross-sectional(개원의 131명, 초록만) · 다이아몬드 bur 선호 75% > 텅스텐카바이드 15%; 마모까지 재사용 85%, 효율저하 인지 33% — bur 종류별 선택 임상현실 (DOI 10.7860/JCDR/2014/5916.3946)
