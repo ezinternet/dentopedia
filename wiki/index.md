@@ -40,13 +40,13 @@ confidence: narrative-review
   <defs>
     <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
   </defs>
-  <text x="336" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#D6453E">L</text>
-  <text x="391.2" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#DB7A26">L</text>
-  <text x="447.3" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#C99A1E">M</text>
-  <text x="559.5" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#3E9E54">W</text>
-  <text x="647.85" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#2E86C7">i</text>
-  <text x="681" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#5B53C9">k</text>
-  <text x="742.35" y="124" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#9A4FC7">i</text>
+  <text x="336" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#D6453E">L</text>
+  <text x="402.24" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#DB7A26">L</text>
+  <text x="469.56" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#C99A1E">M</text>
+  <text x="604.2" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#3E9E54">W</text>
+  <text x="710.22" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#2E86C7">i</text>
+  <text x="750" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#5B53C9">k</text>
+  <text x="823.62" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#9A4FC7">i</text>
   <line x1="339" y1="156" x2="564" y2="156" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
   <text x="340" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8B2F44" font-weight="700">Clinical Dentopedia:</text>
   <text x="341" y="238" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="19" letter-spacing="0.3" fill="#5A4A52" font-weight="500">The Single Source of Truth for Evidence-Based Dentistry.</text>
