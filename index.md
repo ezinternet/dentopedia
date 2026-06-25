@@ -1864,6 +1864,15 @@ tags: []
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (2026-06-01 신설, 8편): 근거 2층 구조 — in-vitro 결합강도 강함(Hardan 2022 SR+MA 21편·Magne 2005/2007·Abo-Alazm 2022 universal+치수압) ↔ 임상 POS 정면충돌(Alghauli 2025 11편 감소 P<.05+survival 우위 vs Josic 2022 4편 GRADE low 차이없음). 결론: 간접수복 표준 채택 정당화하나 환자에게 POS 감소 약속 금지.
 - [[overviews/nccl-etiology-diagnosis-management-overview]] — 비우식성 치경부 병소(NCCL) 종합 (2026-06-07 신설, 16편): 병인=stress·friction·biocorrosion 다인성(Grippo 2012 schema·Roberts 2022 demineralization), abfraction 단독원인설 미입증(Nascimento 2016) but SEM microfracture 일부 관찰(Worawongvasu 2021); 무증상 ≥6mo monitoring 원칙; 수복 시 유지력=접착·산부식 단계 의존 — universal adhesive E&R≈SEE(Peumans 2023 RCT 251), selective enamel etching 유리(Omoto 2025 RCT 200), self-adhesive flowable 6mo 33% 실패(Celik 2015). 병인·진단·관찰vs수복 의사결정 ladder.
 ## 교합 (Occlusion)
+
+### occlusion — CR / CO / MICP(ICP) 기준위 논쟁 (added 2026-06-26)
+- [[occlusion/kattadiyil-2021-relationship-centric-occlusion-maximal-intercuspal]] — Kattadiyil 2021 · consensus(BECS, abstract-only) · 유치악·부분유치악 대부분 CO와 MIP 불일치; 전악수복은 중심교합(CO)으로 회복 권고; CO–MIP 불일치는 교합불안정·TMD와 연관 (DOI 10.1111/jopr.13316)
+- [[occlusion/zonnenberg-2021-centric-relation-critically-revisited-clinical]] — Zonnenberg/Türp/Greene 2021 · narrative-review(abstract-only) · 70년 문헌 비판: "중심위(CR)" 용어는 의미·개념·실용적으로 결함 → 폐기 주장; 건강 유치악자는 최대교두감합위(MIP)가 생물학적으로 수용 가능 (DOI 10.1111/joor.13215)
+- [[occlusion/goldstein-2022-centric-relation-needed-reference-position]] — Goldstein 2022 · narrative-review(abstract-only) · CR은 재현 가능·필요한 기준위(전악재건)라는 반론; 문제는 개념이 아니라 정의·기록법의 비일관성; 다른 위치 쓰려면 다른 이름 붙여야 (DOI 10.1111/jopr.13603)
+- [[occlusion/fornai-2022-centric-relation-matter-form-substance]] — Fornai 2022 · narrative-review(rebuttal) · Zonnenberg 반박: CR 용어는 폐기하되 과두위는 능동 모니터링해야(생물학적≠임상정상); "기준위(RP)" 제안; Pullinger 시상 활주 컷오프 ≈2mm·GPT-9 CR 정의 합의 29% (DOI 10.1111/joor.13329)
+- [[occlusion/jimenez-silva-2017-centric-relation-intercuspal-position-discrepancy]] — Jiménez-Silva 2017 · sr(20편 관찰연구, NOS 평균 3.36 low) · CR–ICP 불일치(중심 활주)는 다수 연구서 근육·관절장애와 연관되나 이질성·낮은 질로 TMD 인과 확정 불가 (DOI 10.1080/00016357.2017.1340667)
+- [[occlusion/qadeer-2023-occlusal-contacts-maximum-intercuspation-dentate]] — Qadeer & Türp 2023 · sr(systematised, 18편/40년) · 유치악 성인 MICP 교합접촉 수 11–70로 광범위; 검출지시재(교합지·shimstock·디지털)·집단·기법에 좌우 → 단일 "정상치" 없음 (DOI 10.1111/joor.13451)
+
 - [[occlusion/fukushima-2016-controversy-with-respect-occlusion]] — Fukushima 2016 · narrative-review · 변형·불안정 과두 환자에선 중심위(CR) 신뢰 불가; 조기접촉 없이 습관성 폐구운동(HCM)이 종료되는 안정적 교두감합위(ICP)를 근육 유도 하악위로 확보(증례 25년 추적) (DOI 10.1016/j.jdsr.2016.02.001)
 - [[occlusion/jahanbin-2026-occlusal-adjustment-post-orthodontic-tscan-rct]] — Jahanbin 2026 · rct · 디본딩 후 교합조정해도 T-Scan 교합접촉 강도·개수 6개월까지 유의차 없음(n=30)
 - [[occlusion/mojaver-2025-occlusal-overload-peri-implant-health-sr]] — Mojaver 2025 · sr · 교합 과부하·외상은 임플란트 변연골소실(0.65–3.0mm)·주위염(20–50%)과 연관(80편, 메타분석 無); 염증 동반 시 증폭
@@ -2609,6 +2618,8 @@ tags: []
 - [[occlusion/fan-2026-fixed-dahl-restorations-localized-tooth-wear-sr-ma]] — Fan 2026 · sr+ma (J Prosthet Dent, abstract-only): 고정성 Dahl 수복(국소 치아마모) 첫 SR+MA(11편) — 간접 연간실패율(0–0.7%) < 직접(0–8.7%); 후방 교합접촉 완전 재형성 통합 86.9% (DOI 10.1016/j.prosdent.2025.12.028)
 - [[occlusion/singh-2026-active-tactile-sensibility-implant-natural-teeth-sr]] — Singh 2026 · sr (J Prosthet Dent, abstract-only): SR 6편 — 단일 임플란트 능동 촉각 역치(10–100µm)는 자연치(<10–50µm)보다 둔감하나 기능·즉시부하·자연치 대합으로 골유착감각 개선 → 임플란트 경(輕)교합 접촉의 생리 근거 (DOI 10.1016/j.prosdent.2025.12.019)
 - [[occlusion/didier-2026-occlusal-contacts-ios-vs-carbon-paper-concordance]] — Didier 2026 · cross-sectional (Orthod Craniofac Res): iTero 구강스캐너 교합도 vs 8µm 카본지 일치도 낮음(κ 0.07–0.20) — 교환 불가, 보완적 병용 필요 (DOI 10.1111/ocr.70088)
+- [[occlusion/rovira-lastra-2026-articulating-paper-accuracy-occlusal-points]] — Rovira-Lastra 2026 · cross-sectional (Diagnostics, n=32 자연치열): 교합지 구치부 접촉점 진양성 81%·위양성 15%; 200µm가 100µm보다 정확(위양성 9.4% vs 20.6%), 양악 일치 시 위양성 2%, 당기기 무의미 — 교합지 사용 권고 근거 (DOI 10.3390/diagnostics16101450)
+- [[occlusion/bozhkova-2021-occlusal-indicators-dental-practice-survey]] — Bozhkova 2021 · cross-sectional 설문(치과의사 228명): 교합 지시재 사용 1위 교합지 52.4% > 교합박 26.2% > 실크 16.8% ≫ 심스탁 2.45%·T-Scan 1.4%·OccluSense 0.7%; 디지털 교합분석 도입 의향 58.7% (DOI 10.1155/2021/2177385)
 - [[occlusion/kwak-2024-masticatory-positioning-occlusal-stability-full-mouth]] — Kwak 2025 · prospective 10년 추적(n=16, Oral Biol Res): 전악수복 시 고딕아치트레이서로 정상화한 치료위치(CM-H)와 MICP 63% 일치 — 저작위치·교합 장기안정성 확인
 
 ### Overview (added 2026-06-14)
