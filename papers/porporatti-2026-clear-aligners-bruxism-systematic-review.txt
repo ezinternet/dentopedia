@@ -1,0 +1,77 @@
+Clear Aligners and Bruxism: A Systematic Review
+Porporatti AL, Schroder ÂGD, Kuczera MS, de Barros AB, Boucher Y.
+J Oral Rehabil. 2026;53(6):1225-1243. doi:10.1111/joor.70189
+PMID: 41841364  PMCID: PMC13168834
+Source: PubMed Central (PMC) full text via PubMed MCP.
+
+=== ABSTRACT ===
+
+Background: Bruxism is a masticatory muscle activity that may occur during sleep (SB) or wakefulness (AB) and is not classified as a movement or sleep disorder. Clear aligner therapy, widely adopted as a removable and aesthetic orthodontic alternative, modifies occlusal contacts and mandibular dynamics, which may influence the occurrence or perception of bruxism behaviours.
+
+Objective: To systematically review the association between clear aligner therapy and bruxism (SB, AB and mixed/self-reported), with a focus on evaluating its role as neutral, protective or a potential risk factor.
+
+Methods: A systematic search of electronic databases (EMBASE, PubMed/Medline, Scopus, Web of Science) and grey literature (Google Scholar, OpenGrey) was conducted through April 15, 2025. Included studies identified bruxism using validated instrumental methods (portable EMG for SB, smartphone-based ecological momentary assessment for AB), or subjective questionnaires on behaviours and related symptoms. Risk of bias was assessed using the Joanna Briggs Institute (JBI) tool, and evidence quality was evaluated with GRADE. PROSPERO CRD420251053793. PECOS framework.
+
+Results: Eleven studies evaluated 818 patients (72.8% female). Most studies suggested a neutral effect of clear aligners on bruxism. For SB, aligners often reduced tonic contractions but showed inconsistent effects on higher phasic activity and no changes on overall SB index. AB was generally unaffected, though one study reported reduced self-reported parafunctions with altered muscle recruitment. Mixed/self-reported bruxism outcomes were conflicting. Methodological heterogeneity and risk of bias were notable; no meta-analysis was possible. GRADE certainty: moderate for randomised studies, very low for non-randomised studies.
+
+Conclusion: Current evidence remains limited and heterogeneous. Most studies suggest a neutral effect, with occasional reductions in tonic contractions or symptom improvement, but also reports of increased phasic activity or self-reported bruxism. Aligners cannot yet be classified as protective or harmful.
+
+=== STUDY SELECTION ===
+Initial database search: 857 studies → 408 after duplicate removal → 400 excluded by title/abstract → 8 articles. Plus 200 from Google Scholar, 7 from reference lists, 10 from expert suggestions; 6 selected for full-text. 14 studies in phase 2; 3 excluded → 11 included for qualitative synthesis.
+
+Across 11 studies: 818 patients. Sex available for 552 (402 female = 72.8%). Female proportion ranged 39.5% (Pereira) to 100% (Liu).
+Countries: Italy (7), Spain (1), China (1), Brazil (1), New Zealand-based team (1).
+Design: 5 RCTs; 6 non-randomised (2 cohort, 2 cross-sectional, 1 case-control, 1 quasi-experimental).
+Outcome methods: 5 studies SB via instrumental portable EMG±ECG (Bruxoff) / home EMG; 3 AB via ecological momentary assessment (smartphone app) or EMG+checklist; 3 self-reported questionnaires (not differentiating SB/AB).
+Aligner types: mostly Invisalign with ClinCheck (standard or SmartTrack); F22 (Colonna); Zendura FLX passive (Pittar); unspecified (one); Manfredini used invisible orthodontic retainers (not active aligners).
+
+=== RISK OF BIAS (JBI) ===
+1 study moderate (case-control); 10 high risk. RCTs high risk mainly due to small samples, short follow-up, incomplete allocation concealment/blinding reporting.
+
+=== INDIVIDUAL STUDY RESULTS ===
+
+RANDOMISED:
+- Pereira et al. (2021, Brazil, RCT): no change in AB frequency over 6 months (OA mean 53.5% vs FA 51.3%). Aligners vs fixed did not influence AB frequency.
+- Colonna et al. (2024, Italy, RCT, F22, EMA via BruxApp): no significant differences in AB behaviours across no-aligner / passive / active aligner sessions (relaxed jaw 64.9%/63.0%/60.0%). Neutral on AB short term.
+- Manfredini et al. (2018, Italy, RCT, invisible retainers, Bruxoff): no significant difference in SB index (3.0±1.5 without vs 3.6±1.9 with retainers) or sMMA events; passive aligner-like retainers neutral.
+- Castroflorio et al. (2018, Italy, RCT, 60 subjects, full-coverage CAT vs maxillary occlusal splint vs placebo): CAT increased phasic contractions; no significant change in SB index. Full-coverage appliances recommended during orthodontic treatment.
+- Liu et al. (2017, China, RCT, 23 females, Invisalign, OBC): OBC scores significantly lower at T1 (3 mo) and T2 (6 mo) vs T0; temporalis/SCM EMG activity increased short-term. Suggests transient improvement in parafunctional awareness.
+
+NON-RANDOMISED:
+- Bargellini et al. (2017, Italy, case-control, Bruxoff, 53 subjects): SB episodes significantly reduced after 1 month, returned to baseline at 3 months; tonic contractions reduced at 1 and 3 months. Clenching (occlusal load) reducible short-term; grinding not influenced.
+- Bargellini et al. (2024, Italy, cohort, 51 included): occlusal splint reduced SB index; clear aligners did NOT affect SB index but reduced tonic contractions at 6 and 12 months. Aligners neutral for SB index.
+- Pittar et al. (2023, New Zealand/Italy, cohort, Zendura FLX passive clear aligners, 31 subjects): episode amplitude decreased significantly over time in both LPF/HPF groups; contraction frequency and duration unchanged. Mild neuromuscular adaptation (intensity not occurrence).
+- Heleiwa-Ferioli et al. (2024, Spain, quasi-experimental, 100 patients, Invisalign, questionnaire): 64% had bruxism pre-treatment; significant association with age (most frequent 28-36 y). Significant reductions in clenching/grinding sensation, contracted muscle sensation, masticatory muscle pain, TMJ pain at 3 and 6 months. No change in headache.
+- Saccomanno et al. (2021, Italy, cross-sectional, questionnaire, 236 patients, 133 aligners): higher rate of self-reported bruxism in aligner users vs metal braces. No baseline data.
+- Saccomanno et al. (2022, Italy, cross-sectional, 175 patients, Invisalign 95.4%): 50.3% reported clenching/bruxism during treatment; 24% TMJ pain, 26.9% headache, 5.8% significant pain. Baseline parafunction unknown.
+
+=== QUALITATIVE CLASSIFICATION (Table 2) ===
+Sleep bruxism:
+- Bargellini 2017: neutral (no persistent SB reduction, phasic unchanged, return to baseline at 3 mo) + protective (↓ tonic at 1 and 3 mo)
+- Bargellini 2024: neutral (no effect on SB index) + protective (↓ tonic at 6 and 12 mo)
+- Castroflorio 2018: neutral (no SB index change) + risk (↑ phasic contractions in aligner group)
+- Manfredini 2018: neutral (passive retainers did not modify SB index or EMG short-term)
+- Pittar 2023: neutral (frequency/duration unchanged) + protective (↓ amplitude during sleep)
+Awake bruxism:
+- Colonna 2024: neutral (no AB frequency differences)
+- Pereira 2021: neutral (no group difference at 6 mo)
+- Liu 2017: neutral (OBC stable 3-6 mo; temporalis/SCM EMG increased) + protective (↓ OBC vs baseline)
+Mixed/self-reported:
+- Heleiwa-Ferioli 2024: neutral (no headache improvement) + protective (↓ clenching/grinding, ↓ muscle contraction, ↓ TMJ pain)
+- Saccomanno 2021: risk (higher prevalence of self-reported bruxism vs metal brackets)
+- Saccomanno 2022: risk-leaning (~50% reported clenching/bruxism during therapy; baseline data absent)
+
+=== GRADE ===
+Overall certainty: moderate for randomised studies, very low for non-randomised studies (downgraded for high risk of bias; non-randomised additionally downgraded 2 points for design limitations).
+
+=== KEY DISCUSSION POINTS ===
+- SB: aligners may reduce tonic contractions (clenching); effect on phasic activity (grinding) less consistent; many EMG effects transient (first month) = functional adaptation, not sustained therapeutic effect.
+- AB: majority of objective/real-time studies indicate neutral effect.
+- Subjective reports most heterogeneous; depend on individual psychological/behavioural factors (occlusal hypervigilance, anxiety, somatization).
+- Clinical implication (expert reasoning, not from included data): gradual adaptation protocol (start 2-3 h/day, increase over 1-2 weeks) for patients with high occlusal hypervigilance, instead of immediate full-time wear (22-23 h/day). Screen with validated questionnaires for hypervigilance/anxiety/catastrophizing.
+- Tran et al. (prospective, cited in discussion): aligners associated with mild tooth pain and mild masticatory muscle soreness of limited clinical relevance, no significant changes in pressure pain thresholds.
+- Cross-sectional/self-reported designs cannot establish temporality; symptoms during treatment ≠ causal increase.
+- First systematic and critical synthesis of aligner-bruxism interaction; PRISMA, PROSPERO, GRADE.
+
+=== CONCLUSION ===
+Substantial methodological heterogeneity precludes meta-analysis. Most data suggest an overall neutral effect, but evidence is contradictory (transient ↓ tonic activity and sporadic ↑ phasic grinding or subjective discomfort). Aligners cannot be defined as definitive risk or protective factor. Critical lack of standardised diagnostic protocols. Future research must prioritise harmonised diagnostic criteria (possible-probable-definite framework) and longitudinal designs.
