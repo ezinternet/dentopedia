@@ -1,0 +1,121 @@
+Transverse Ridge Expansion and the Role of Bone Grafting: A Systematic Review
+Abdallaoui Maane S, Benazza D
+Cureus 2025;17(11):e96558. DOI: 10.7759/cureus.96558. PMID: 41393660. PMCID: PMC12697002.
+Source: PubMed Central full text (get_full_text_article).
+
+== Introduction and background ==
+
+Adequate alveolar bone volume is a prerequisite for predictable implant placement and long-term stability. Tooth loss, periodontal disease, trauma, and congenital factors cause horizontal bone resorption, producing narrow alveolar ridges that complicate or preclude conventional implant insertion.
+
+Augmentation strategies: guided bone regeneration, block grafting, alveolar distraction osteogenesis. Transverse ridge expansion (TRE), first described by Scipioni et al., is a conservative, minimally invasive technique to increase alveolar crest width without extensive grafting. Osteotome sinus floor elevation (Summers) is a parallel atraumatic approach.
+
+TRE involves controlled separation of buccal and lingual/palatal cortical plates, creating a biological space that can heal spontaneously or be filled with grafting materials. TRE can yield horizontal bone gains of 4-6 mm, often sufficient to allow implant placement in ridges initially as little as 3 mm. The role of adjunctive bone grafting remains debated: some recommend grafting in nearly all expansion cases for stability/osteogenesis; others argue that in ridges ≥3 mm, expansion alone provides predictable outcomes without additional grafting.
+
+Variability in surgical technique, patient bone quality, and biomaterials complicates standardization. Piezosurgery, digital planning, and biologic adjuncts (plasma rich in growth factors, PRGF) have refined surgical performance and may influence the necessity of grafting.
+
+== Objective ==
+
+Primary: evaluate whether bone grafting during TRE improves clinical outcomes vs TRE without grafting. Secondary: compare implant stability, survival rates, marginal bone resorption, and complication incidence between the two approaches.
+
+== Materials and methods ==
+
+Design: PRISMA 2020 reporting guidelines. Prospectively registered in PROSPERO (CRD420251158137).
+
+Search strategy: PubMed, Embase, Cochrane Library. Keywords/Boolean: ("ridge expansion" OR "split-crest" OR "alveolar expansion") AND ("dental implant" OR "implant placement") AND ("bone graft" OR "bone regeneration"). Limited to human studies, English, January 2000 - December 2024.
+
+PICO:
+- Population: patients with horizontally deficient alveolar ridges requiring implant placement.
+- Intervention: TRE with adjunctive bone grafting.
+- Comparison: TRE without bone grafting.
+- Outcomes: horizontal bone gain, implant stability, survival rate, marginal bone loss, complication incidence.
+
+Selection: two independent reviewers (title/abstract + full text), consensus on discrepancies. Inter-reviewer agreement Cohen's kappa = 0.86 (excellent).
+
+Inclusion: human clinical studies (RCTs, prospective/retrospective cohorts, case series with ≥10 patients); TRE with or without bone grafting; minimum follow-up 6 months.
+Exclusion: animal/in vitro studies, case reports <10 patients, narrative reviews, expert opinions, studies lacking clinical/radiographic outcome data.
+
+Data extracted: study design and sample size, baseline ridge width/dimensions, surgical technique and grafting protocol, follow-up duration, implant survival and marginal bone loss, complications.
+
+Risk of bias: RCTs via Cochrane RoB-2; non-randomized studies via ROBINS-I. Domains: selection, performance, detection, attrition, reporting, publication bias. Categorized low/moderate/high. Two reviewers, consensus.
+
+== Results ==
+
+Study selection: 356 records identified. After deduplication and title/abstract screening, 48 full-text articles assessed. 15 studies met inclusion criteria.
+
+Included: 5 RCTs, 6 prospective cohort studies, 4 retrospective case series. Follow-up 6 months to 5 years. Baseline ridge widths 2.5-4.5 mm. Sample sizes 20-120 patients.
+(Note: Risk-of-bias subsection later states "two were RCTs, six were prospective cohorts, and seven were case series" — internal inconsistency in the paper's study-design tally.)
+
+Bone gain and implant stability:
+- All studies reported significant ridge width increase. Horizontal bone gain 3.2-6.1 mm overall.
+- Grafted sites (autogenous, xenogeneic, or alloplastic): mean gain 4.5-6.1 mm.
+- Non-grafted sites: mean gain 3.2-5.0 mm.
+- Primary stability (insertion torque or ISQ) tended greater in grafted groups, but differences not statistically significant in most studies.
+
+Implant survival and success:
+- Implant survival 92-100%, no significant difference between grafted and non-grafted groups.
+- Success (marginal bone loss <1.5 mm, no mobility, no peri-implant infection) comparable between techniques.
+
+Complications:
+- Buccal plate fractures 4-10%.
+- Soft tissue dehiscence 3-8%.
+- Occasional autogenous graft resorption.
+- Minor horizontal relapse (<1 mm) sometimes in non-grafted sites; grafted ridges showed better volume stability.
+- Overall complication rates similar between modalities.
+
+Influence of biomaterials and techniques:
+- Xenografts (e.g., Bio-Oss) and alloplastic substitutes showed better long-term dimensional stability than autogenous bone (autograft more prone to partial resorption).
+- Piezosurgery (vs rotary instruments) consistently reduced complication rates and improved expansion control.
+- Digital planning and biologic enhancers (PRGF) explored; evidence heterogeneous and limited.
+
+Overall evidence: TRE alone achieves predictable results when initial ridge width ≥3 mm; bone grafting may be advantageous in narrower ridges or when long-term stability desired.
+
+Risk of bias: of 15 studies, two RCTs (one low, one moderate), six prospective cohorts (mostly moderate), seven case series (moderate to high). Main bias sources: patient selection, surgical-technique variability, lack of assessor blinding, incomplete complication reporting. Small samples and short-/mid-term follow-up limited evidence strength.
+
+== Discussion (key data points) ==
+
+Horizontal bone gain 3.2-6.1 mm across 15 studies confirms TRE effective/predictable for widening narrow ridges.
+
+Non-grafted ridge widening:
+- Blus and Szmukler-Moncler: increase 3.25 -> 6.5 mm across 230 sites.
+- Bravi et al.: 2-5 mm gains in large multicenter cohort.
+- Waechter et al. (SR+MA): average horizontal gain 3.8 mm across 732 patients.
+
+Grafted ridge widening:
+- Nkenke et al.: 6.1 mm with autogenous block grafts.
+- Urban et al.: 5.8 mm with autografts + xenografts.
+- Altiparmak et al., Crespi et al.: greater dimensional stability with grafts.
+- Numerically greater but limited clinical relevance — implant survival comparable.
+
+TRE more effective in maxilla than mandible (lower cortical density, higher bone elasticity) — higher predictability, lower cortical plate fracture incidence in maxilla.
+
+Implant survival 92-100% regardless of grafting. González-García et al.: stable ridge width and long-term success (>2 years) in crests initially 3-4 mm wide. Baseline ridge width and surgical technique influence implant prognosis more than grafting.
+
+Complications minor: buccal plate fractures 4-10%, soft tissue dehiscence 3-8%. Autogenous grafts partial resorption; xenografts/alloplasts superior stability. Non-grafted minor horizontal relapse <1 mm without compromising survival.
+
+Piezosurgery consistently lower complication rates and more controlled expansion vs burs/chisels. Platelet concentrates (PRP, i-PRF) promising; i-PRF superior early healing/bone quality vs PRP (Ammar et al. RCT). Digital planning and PRGF may enhance healing/reproducibility; evidence limited and heterogeneous.
+
+Clinical implications: TRE alone safe and predictable for ridges ≥3 mm (no routine grafting needed). Bone grafting indicated for ridges <3 mm or when additional ridge stability and long-term volume preservation required. Grafting yields slightly greater horizontal gain but modest, limited clinical significance.
+
+== Included studies (Table 1 — 15 studies) ==
+
+1. Simion et al. (1992) — prospective case series, L4, baseline 3 mm, split-crest + GTR, membrane graft, gain 1-4 mm, FU 12 mo.
+2. Scipioni et al. (1994) — prospective case series, L4, 3 mm, transversal expansion, no graft, 3-4 mm, FU 60 mo.
+3. Ferrigno and Laureti (2005) — retrospective cohort, L3, ~3-4 mm, split-crest, no graft, 3 mm, FU 24 mo.
+4. Bravi et al. (2007) — case series, L4, 4 mm, transversal expansion, no graft, 2-3 mm, FU 24 mo.
+5. Blus and Szmukler-Moncler (2010) — prospective cohort, L3, 3.25 mm, ultrasonic split-crest, no graft, 3.5 mm, FU 36 mo.
+6. Sethi and Kaus (2000/2013) — case series, L4, 2-4 mm, maxillary ridge expansion, closed healing ± graft, 3-6 mm, FU 60 mo.
+7. Nkenke et al. (2018) — prospective cohort, L3, 2.5-3.0 mm, split-crest/piezo, autogenous block, ~6.1 mm, FU 24 mo.
+8. Blus et al. (2013) — prospective cohort, L3, ~3-4 mm, split-crest (piezo), autograft + Bio-Oss, 5-6.5 mm, FU 36 mo.
+9. González-García et al. (2011) — prospective cohort, L3, 3-4 mm, modified split-crest osteotomy, autograft, 4-5 mm, FU 24 mo.
+10. Holtzclaw et al. (2010) — case series, L4, posterior mandible, piezo hinge-assisted ridge split, no graft, 2 mm, FU 12 mo.
+11. Altiparmak et al. (2017) — RCT, L2, ridge split vs autogenous onlay bone graft, split ± graft, ±5 mm, FU 24 mo.
+12. Rahpeyma et al. (2013) — case series, L4, lateral ridge split + immediate implants, no graft, 2-3 mm, FU 12 mo.
+13. Crespi et al. (2021) — RCT, L2, atrophic arches, split-crest (maxilla and mandible), ±grafts, 3-5 mm, FU 60 mo.
+14. Manekar et al. (2022) — case series, L4, 1.5-3.0 mm (mandible), alveolar ridge split and expansion, no graft, 1-1.5 mm, FU 36 mo.
+15. Enislidis et al. (2006) — prospective cohort, L3, ~3 mm, minimally invasive lateral ridge splitting, no graft, 2-4 mm, FU 12 mo.
+
+== Conclusions ==
+
+TRE is a conservative, predictable, effective technique for narrow alveolar ridges. Horizontal bone gain 3.2-6.1 mm; implant survival 92-100%. Ridges ≥3 mm: expansion alone generally sufficient. Severe deficiency (<3 mm) or need for dimensional stability/long-term volume preservation: bone grafting beneficial. Complications (buccal plate fractures, soft tissue dehiscence) low and manageable. Grafted sites slightly greater horizontal gains, modest and not clinically significant — grafting is a selective strategy, not a routine adjunct.
+
+Emerging technologies (piezosurgery, digital planning, PRGF) may enhance predictability. Stronger RCT evidence with standardized protocols, uniform outcomes, long-term follow-up needed. TRE = minimally invasive, reliable horizontal ridge augmentation; bone grafting = case-dependent option for specific indications.
