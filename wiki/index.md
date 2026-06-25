@@ -34,35 +34,35 @@ confidence: narrative-review
   <defs>
     <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
   </defs>
-  <text x="300" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#D6453E">L</text>
-  <text x="336.8" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#DB7A26">L</text>
-  <text x="374.2" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#C99A1E">M</text>
-  <text x="449" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#3E9E54">W</text>
-  <text x="507.9" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#2E86C7">i</text>
-  <text x="530" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#5B53C9">k</text>
-  <text x="570.9" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#9A4FC7">i</text>
-  <text x="303" y="166" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="16" fill="#9A8F92">Large Language Model</text>
-  <line x1="303" y1="180" x2="452" y2="180" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
-  <text x="304" y="209" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="24" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
-  <text x="305" y="234" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" letter-spacing="2.2" fill="#8B2F44" font-weight="600">DENTISTRY · EVIDENCE-BASED CLINICAL WIKI</text>
-  <text x="305" y="268" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="19" letter-spacing="1.5" fill="#5F5A50" font-weight="600">PDF&#160;&#160;→&#160;&#160;sources&#160;&#160;→&#160;&#160;wiki</text>
+  <text x="300" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#D6453E">L</text>
+  <text x="355.2" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#DB7A26">L</text>
+  <text x="411.3" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#C99A1E">M</text>
+  <text x="523.5" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#3E9E54">W</text>
+  <text x="611.85" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#2E86C7">i</text>
+  <text x="645" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#5B53C9">k</text>
+  <text x="706.35" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#9A4FC7">i</text>
+  <text x="303" y="154" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" fill="#9A8F92">Large Language Model</text>
+  <line x1="303" y1="166" x2="528" y2="166" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
+  <text x="304" y="208" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="36" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
+  <text x="305" y="236" font-family="system-ui, -apple-system, sans-serif" font-size="18.75" letter-spacing="2.2" fill="#8B2F44" font-weight="600">DENTISTRY · EVIDENCE-BASED CLINICAL WIKI</text>
+  <text x="305" y="274" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="28.5" letter-spacing="1.5" fill="#5F5A50" font-weight="600">PDF&#160;&#160;→&#160;&#160;sources&#160;&#160;→&#160;&#160;wiki</text>
   <g transform="translate(1012,150)">
     <g transform="rotate(-7) translate(-72,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#ECEBE4" stroke="#DCDAD0" stroke-width="1.5"/>
-      <text x="14" y="26" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1.5" fill="#9A958A" font-weight="600">PDF</text>
+      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" fill="#9A958A" font-weight="600">PDF</text>
     </g>
     <g transform="rotate(-1) translate(-66,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#F2E4E8" stroke="#E2C9D0" stroke-width="1.5"/>
-      <text x="14" y="26" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1.5" fill="#9C4257" font-weight="600">SOURCES</text>
+      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" fill="#9C4257" font-weight="600">SOURCES</text>
     </g>
     <g transform="rotate(6) translate(-58,-56)">
       <rect x="0" y="0" width="146" height="116" rx="12" fill="#FFFFFF" stroke="#D6D4CA" stroke-width="1.5"/>
-      <text x="14" y="26" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1.5" fill="#8B2F44" font-weight="700">WIKI</text>
+      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" fill="#8B2F44" font-weight="700">WIKI</text>
       <rect x="14" y="42" width="106" height="7" rx="3.5" fill="#ECE7E2"/>
       <rect x="14" y="56" width="86" height="7" rx="3.5" fill="#ECE7E2"/>
       <rect x="14" y="70" width="96" height="7" rx="3.5" fill="#ECE7E2"/>
-      <rect x="14" y="90" width="40" height="16" rx="8" fill="#F2E4E8"/>
-      <text x="22" y="102" font-family="system-ui, sans-serif" font-size="9" letter-spacing="0.5" fill="#8B2F44" font-weight="600">High</text>
+      <rect x="14" y="88" width="56" height="20" rx="10" fill="#F2E4E8"/>
+      <text x="22" y="103" font-family="system-ui, sans-serif" font-size="13.5" letter-spacing="0.5" fill="#8B2F44" font-weight="600">High</text>
     </g>
   </g>
 </svg>
