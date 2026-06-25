@@ -1,0 +1,24 @@
+Centric relation: A matter of form and substance.
+
+Cinzia Fornai, Ian Tester, Kim Parlett, Cristian Basili, Helder Nunes Costa
+Journal of Oral Rehabilitation (J Oral Rehabil) 2022;49(7):687-690
+DOI: 10.1111/joor.13329
+PMID: 35377510
+PMCID: PMC9324986
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC9324986/
+Article type: Letter / Commentary (rebuttal to Zonnenberg, Türp & Greene 2021)
+
+=== ABSTRACT ===
+The recent review article by Zonnenberg, Türp and Greene 'Centric relation critically revisited – What are the clinical implications?' opens an important debate by addressing topics of central relevance in Dentistry, namely the relationship between occlusion and the condyle-to-glenoid-fossa position, and the need for diagnostic assessment and therapeutic alteration of the condylar position in orthodontic patients. Zonnenberg, Türp and Greene concluded that the mandibular condyle is correctly situated in most orthodontic patients. Thus, in their view, orthodontists can disregard this aspect during treatment, and rely on the plastic properties of the masticatory supporting structures, while aiming at finishing the cases in a good occlusal relationship. We think that this approach fails to consider that biological variation of the stomatognathic structures can also be pathological and that, as dental occlusion determines condylar relative position within the glenoid fossa, changes in the occlusion are likely to alter the original condylar-to-glenoid-fossa relation. Hence, we claim that whenever the occlusal relationship must be changed, the clinician should carefully monitor the condyle position and the mandibular function to prevent possible iatrogenic effects.
+
+=== BODY — KEY POINTS ===
+- Agrees with Zonnenberg et al. on the lack of clarity in the CR definition and controversy over recording methods, BUT argues the therapeutic-position topic is misunderstood.
+- Core critique: a "biological" condition (occurring in nature / phenotypically expressed) is NOT the same as "clinically normal." Biological variation of orofacial structures (malocclusion) can be PATHOLOGICAL. Modern food technology reduced selective pressure → high morphological variation/malocclusion; frequent ≠ functionally normal.
+- Cites Pullinger, Seligman & Gornbein: a cut-off value for sagittal occlusal slide length exists ≈ 2 mm; in their sample NONE of the asymptomatic subjects had a slide longer than 2 mm, and only 6% had slide length between 1 and 2 mm. (CR–MIP slide >2 mm is atypical of asymptomatic individuals.)
+- Because MIP determines condylar position, changing the occlusion (orthodontic/prosthodontic) can alter the original condyle-to-fossa relation → clinician should monitor condylar position & mandibular function to avoid iatrogenic effects. Relying on TMJ adaptive remodelling is risky (remodelling reduced in TMJ inflammation/degeneration, more limited in adults than children).
+- TMJ skeletal morphology is associated with disc derangement; small occlusal-treatment-derived changes in condylar relationship can improve TMD symptoms → condylar position has functional implications.
+- Proposes ABANDONING "centric relation" terminology AND replacing it with "Reference Position (RP)" — an unstrained retral border position (sensu Piehslinger/Celar/Slavicek) obtained WITHOUT exploiting the shock-absorbing retrodiscal tissues; mandible in physiologic retral border position, joint structures unloaded, ligaments not in tension, minimal muscle activity. High reproducibility reported for Reference Position. (Gerber warned against forcing a retruded mandibular position due to iatrogenic risk.)
+- Notes The Glossary of Prosthodontic Terms-9 CR definition received only 29% expert consensus.
+
+=== CONTEXT ===
+Direct published rebuttal to Zonnenberg 2021. Interesting nuance: AGREES the term "centric relation" should be abandoned, but for the OPPOSITE clinical conclusion — they want active condylar-position monitoring (vs Zonnenberg's "ignore it"), and propose "Reference Position" as replacement. Part of a 6-paper CR/CO/MICP batch.
