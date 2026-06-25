@@ -1962,6 +1962,7 @@ tags: []
 - [[interactives/2026-06-07_psd-dysbiosis-model-flow]] — PSD 모델 dysbiosis feedforward 인터랙티브 플로우 (2026-06-07 신설): 치주염(keystone pathogen)·우식(sucrose-EPS) 병렬 루프를 dysbiosis 공통 개념으로 통합, 노드 클릭 시 기전·출처. Hajishengallis 2012/2014 + Lamont 2014/2018 + Koo 2013.
 - [[interactives/2026-05-25_zirconia-inlay-bonding]] — 지르코니아 인레이 접착 의사결정 트리 (2026-05-25 신설): 재료 확인→상아질 처리→인레이 내면 처리→시적 오염→프라이머/시멘트→시멘테이션 6+ 분기, 원장 결정포인트(파랑)/위생사 어시스트(초록) 듀얼 레인 + 시멘트·프라이머 추천 매트릭스. agenda/2026-05-25_zirconia-inlay-bonding-interactive.
 - [[interactives/2026-05-31_pdrn-chairside-manual]] — PDRN(폴리뉴클레오티드) chairside 매뉴얼 (2026-05-31 신설): A2A 수용체+salvage pathway 기전, 4개 적응증 카드(근거등급·말할수있는것/없는것·trade-off·대안·출처), dose/vehicle/timing 종합표(미명시=미검증 표기). 인쇄 가능 단일 HTML. agenda/2026-05-31_pdrn-chairside-manual.
+- [[interactives/2026-06-25_forced-eruption-antagonist-wire-decision]] — 정출(forced eruption) 치료기간 중 대합치 와이어 고정 판단 기준 (2026-06-25 신설): 치료치를 ~3개월 교합 저위치로 유지할 때 무대합이 된 대합치의 과맹출 위험을 6+1 항목 위험점수로 평가→모니터링/고정 권고. Craddock 2004(정출 83.9%)·Kiliaridis 2000(18% 비정출)·Wang 2022(9mo 0.43mm·초기가속)·Livas 2016(고정 retention ≈ 부분접촉, 억제효과 약함)·Lindskog-Stokland 2012(≥2mm 4.9배) 기반. 근거는 수동 과맹출 데이터→정출 술식 전이([claude해석]). agenda/2026-06-25_forced-eruption-antagonist-wire.
 
 ## 메타 — wiki 운영 (Meta)
 

@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<!--
+  type: interactive
+  date: 2026-06-25
+  agenda: agenda/2026-06-25_forced-eruption-antagonist-wire.md
+  source_wiki:
+    - wiki/overviews/unopposed-tooth-overeruption-overview.md
+    - wiki/occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed.md
+    - wiki/occlusion/kiliaridis-2000-vertical-position-rotation-tipping-molars.md
+    - wiki/occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct.md
+    - wiki/occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption.md
+    - wiki/occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed.md
+-->
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>정출 치료기간 중 대합치 와이어 고정 판단 기준</title>
+<style>
+  :root{
+    --bg:#f6f7f9; --card:#fff; --ink:#1d2733; --mut:#5b6b7c; --line:#e2e7ee;
+    --accent:#1f6f54; --warn:#b6792a; --high:#b23b3b; --low:#2f7d4f;
+    --chip:#eef2f6;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Pretendard","Noto Sans KR",sans-serif;
+    line-height:1.6;font-size:15px}
+  .wrap{max-width:920px;margin:0 auto;padding:28px 18px 80px}
+  h1{font-size:22px;margin:0 0 4px}
+  .sub{color:var(--mut);font-size:13px;margin-bottom:18px}
+  .card{background:var(--card);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:16px 0;
+    box-shadow:0 1px 2px rgba(20,30,45,.04)}
+  h2{font-size:17px;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  h2 .n{display:inline-flex;width:24px;height:24px;border-radius:50%;background:var(--accent);color:#fff;
+    font-size:13px;align-items:center;justify-content:center;flex:none}
+  .assume{background:#fff8ec;border:1px solid #f0dcb6;border-radius:10px;padding:14px 16px;font-size:13.5px;color:#6b552c}
+  .assume b{color:#8a6a23}
+  .bottom{background:#eef6f1;border:1px solid #cfe6da;border-radius:10px;padding:16px 18px}
+  .bottom .lead{font-size:16px;font-weight:700;color:var(--accent);margin-bottom:6px}
+  table{width:100%;border-collapse:collapse;font-size:13.5px;margin-top:6px}
+  th,td{border:1px solid var(--line);padding:8px 10px;text-align:left;vertical-align:top}
+  th{background:#f2f5f8;font-weight:600}
+  td.num{white-space:nowrap;font-variant-numeric:tabular-nums}
+  .tag{display:inline-block;font-size:11px;padding:1px 7px;border-radius:20px;font-weight:600;vertical-align:1px}
+  .t-strong{background:#e4f0ea;color:#1f6f54}
+  .t-claude{background:#eef0f6;color:#4b5bb0}
+  .t-est{background:#f6eee4;color:#9a6a25}
+  .factor{display:flex;align-items:flex-start;gap:10px;padding:10px 0;border-bottom:1px dashed var(--line)}
+  .factor:last-child{border-bottom:none}
+  .factor input{margin-top:5px;width:17px;height:17px;flex:none;accent-color:var(--accent)}
+  .factor .txt{flex:1}
+  .factor .txt small{display:block;color:var(--mut);font-size:12px;margin-top:2px}
+  .factor .pts{font-size:12px;color:var(--mut);background:var(--chip);border-radius:6px;padding:1px 8px;height:fit-content;white-space:nowrap}
+  .protect .pts{background:#e6f1ea;color:var(--low)}
+  .scorebox{position:sticky;bottom:0;margin-top:14px;background:var(--card);border:2px solid var(--line);
+    border-radius:12px;padding:16px 18px;display:flex;align-items:center;gap:18px;flex-wrap:wrap}
+  .scorebox .val{font-size:30px;font-weight:800;min-width:48px;text-align:center}
+  .scorebox .rec{flex:1;min-width:220px}
+  .scorebox .rec .lab{font-weight:700;font-size:16px}
+  .scorebox .rec .desc{font-size:13px;color:var(--mut);margin-top:2px}
+  .pill{display:inline-block;padding:3px 12px;border-radius:20px;font-size:13px;font-weight:700;color:#fff}
+  .ladder li{margin-bottom:8px}
+  .src a{color:var(--accent);text-decoration:none}
+  .src a:hover{text-decoration:underline}
+  .src li{margin-bottom:6px;font-size:13px}
+  .muted{color:var(--mut);font-size:12.5px}
+  @media print{.scorebox{position:static}body{background:#fff}.card{box-shadow:none}}
+</style>
+</head>
+<body>
+<div class="wrap">
+
+  <h1>정출(Forced Eruption) 치료기간 중 대합치 와이어 고정 — 판단 기준</h1>
+  <div class="sub">LLM-Wiki · 무대합 과맹출(Unopposed Overeruption) 클러스터 기반 · 2026-06-25 · 개인 임상 참고용</div>
+
+  <div class="assume">
+    <b>전제(시나리오 정의):</b> 정출 술식으로 치료치를 교합에서 빼둔 채 ~3개월 유지하는 동안, 그 <b>대합치(Antagonist)가 일시적으로 무대합 상태</b>가 되어 그 공간으로 과맹출(Overeruption)할 위험을 평가한다. 즉 "치료치를 정출시키는 동력"이 아니라 "치료기간 중 대합치를 잡아둘지"의 결정이다.
+    위키 근거는 <b>발치/장기 무대합으로 인한 수동 과맹출</b> 데이터이며, 정출 술식 자체의 RCT는 위키에 없다 — "치료치를 빼두면 대합치가 무대합이 된다"는 메커니즘 전이로 적용한다. <span class="tag t-claude">claude해석</span>
+  </div>
+
+  <div class="card bottom">
+    <div class="lead">결론: 3개월 단독 기준이면 대부분 와이어 고정 없이 모니터링으로 충분. 고정은 "고위험 프로파일"에 한해 고려.</div>
+    <div style="font-size:13.5px;color:#3c5448">
+      무대합 후방치는 ~83%에서 과맹출하지만(Craddock 2004), <b>9개월 평균 0.43&nbsp;mm·72%가 1&nbsp;mm 미만</b>(Wang 2022)으로 크기는 작고 ~18%는 전혀 안 움직인다(Kiliaridis 2000). 더 결정적으로, 고정 sectional retainer가 부분접촉 대조군보다 정출을 더 막지 못했다(둘 다 ~0.1&nbsp;mm, Livas 2016) — <b>"와이어로 잡으면 막힌다"는 근거 자체가 약하다.</b> 다만 과맹출은 <b>초기에 가장 빠르므로</b> 3개월이라도 fast eruptor·고위험치에서는 의미 있는 양이 날 수 있다. <span class="tag t-strong">합의수준</span>
+    </div>
+  </div>
+
+  <!-- 위험 계산기 -->
+  <div class="card">
+    <h2><span class="n">1</span>대합치 과맹출 위험 점수 <span class="tag t-claude" style="margin-left:auto">claude해석 (가중치는 합의된 index가 아닌 근거 기반 합성)</span></h2>
+    <p class="muted">해당 대합치에 맞는 항목을 체크. 가중치는 아래 근거표의 modifier 강도를 반영한 임의 합성치다.</p>
+
+    <div id="risk">
+      <div class="factor">
+        <input type="checkbox" data-pts="2">
+        <div class="txt">젊은 환자 / 성장기·젊은 성인 (대략 25세 이하)
+          <small>나이 적을수록 정출 빠르고 큼 — 동물 young ~2× adult (Fujita 2009); 성인기 상실은 위험 낮음 (Kiliaridis 2000)</small></div>
+        <div class="pts">+2</div>
+      </div>
+      <div class="factor">
+        <input type="checkbox" data-pts="2">
+        <div class="txt">대합치가 <b>상악</b>치 (즉 하악치를 정출시키는 케이스)
+          <small>상악 무대합치가 하악보다 더 내려옴 (중력 방향) — Kiliaridis 2000, Lindskog-Stokland 2012</small></div>
+        <div class="pts">+2</div>
+      </div>
+      <div class="factor">
+        <input type="checkbox" data-pts="2">
+        <div class="txt">대합치에 치주염 / 치조골 지지 감소
+          <small>골지지 줄수록 정출 증가(dose-response, Lindskog-Stokland 2012); 치주침범치 유의하게 더 정출(Christou 2007, P≤0.01)</small></div>
+        <div class="pts">+2</div>
+      </div>
+      <div class="factor">
+        <input type="checkbox" data-pts="2">
+        <div class="txt">정출/드리프트 과거력 또는 이미 관찰된 fast eruptor
+          <small>소수의 빠른 정출자 존재 — 한 구치 9개월에 2.56 mm (Wang 2022)</small></div>
+        <div class="pts">+2</div>
+      </div>
+      <div class="factor">
+        <input type="checkbox" data-pts="1">
+        <div class="txt">대합치가 다른 접촉도 전혀 없는 <b>완전 무대합</b> 상태
+          <small>완전 무대합이 기준 위험 — 정출 발생률 ~83% (Craddock 2004)</small></div>
+        <div class="pts">+1</div>
+      </div>
+      <div class="factor">
+        <input type="checkbox" data-pts="1">
+        <div class="txt">치료(저위치 유지)가 3개월을 넘겨 길어질 가능성 / 정출 후 retention 장기
+          <small>정출은 시간 누적 — 3개월 초과 시 위험 창 확대</small></div>
+        <div class="pts">+1</div>
+      </div>
+      <div class="factor protect">
+        <input type="checkbox" data-pts="-1">
+        <div class="txt">대합치가 고령 환자 + 안정적 위치 이력 (장기간 같은 자리)
+          <small>성인기 상실·장기 안정은 저위험 — 단, 부분접촉의 보호효과는 논쟁(Craddock 2007: ≤30% 접촉은 무접촉과 동일) <span class="tag t-strong">합의수준</span></small></div>
+        <div class="pts">−1</div>
+      </div>
+    </div>
+
+    <div class="scorebox">
+      <div class="val" id="score">0</div>
+      <div class="rec">
+        <span class="pill" id="pill" style="background:var(--low)">저위험</span>
+        <div class="lab" id="recLab" style="margin-top:6px">모니터링 — 와이어 고정 불필요</div>
+        <div class="desc" id="recDesc">정기 사진/모형/체크로 충분. 정출 징후 시 재평가.</div>
+      </div>
+    </div>
+    <p class="muted" style="margin-top:10px">판정: <b>0–2 저위험</b> → 모니터링 · <b>3–4 중등도</b> → 강화 모니터링 ± 케이스별 고정 · <b>≥5 고위험</b> → 대합치 고정/공간관리 적극 고려.</p>
+  </div>
+
+  <!-- 3개월 정량 -->
+  <div class="card">
+    <h2><span class="n">2</span>3개월이라는 시간 — 얼마나 움직이나</h2>
+    <p>과맹출은 <b>무대합 직후 초기에 가장 빠르고</b> 이후 둔화한다(Wang 2022; Lindskog-Stokland 2012). 따라서 3개월을 9개월의 1/3으로 단순 비례하면 과소평가다.</p>
+    <table>
+      <tr><th>지표</th><th>값</th><th>출처</th></tr>
+      <tr><td>9개월 평균 정출량</td><td class="num">0.43 mm (최대 0.75 mm)</td><td>Wang 2022 (CBCT, n=68)</td></tr>
+      <tr><td>1 mm 미만 비율</td><td class="num">72%</td><td>Wang 2022</td></tr>
+      <tr><td>최대 fast eruptor</td><td class="num">2.56 mm / 9개월</td><td>Wang 2022</td></tr>
+      <tr><td>동반 협측 경사(Tipping)</td><td class="num">평균 1.7°</td><td>Wang 2022 — 순수 수직 아님(3D 이동)</td></tr>
+      <tr><td><b>3개월 추정 정출량</b></td><td class="num">≈ 0.1–0.25 mm</td><td><span class="tag t-est">추정</span> 초기 가속 가정(전체의 ~30–50%가 첫 3개월), fast eruptor는 더 큼</td></tr>
+    </table>
+    <p class="muted" style="margin-top:10px">평균적 대합치라면 3개월에 임상적으로 의미 있는 양은 거의 안 나지만, 위 1번 점수가 높은 대합치는 이 짧은 창에서도 보철 공간을 잠식할 수 있다.</p>
+  </div>
+
+  <!-- 근거표 -->
+  <div class="card">
+    <h2><span class="n">3</span>핵심 근거 요약</h2>
+    <table>
+      <tr><th>논문</th><th>설계</th><th>핵심 수치</th><th>이 결정에의 함의</th></tr>
+      <tr>
+        <td>Craddock & Youngson 2004</td><td>후향 임상 (n=120, 155부위)</td>
+        <td class="num">정출 발생 83.9%<br>0–5.39 mm</td>
+        <td>무대합치는 대부분 정출한다 — "안 움직인다" 가정은 위험</td>
+      </tr>
+      <tr>
+        <td>Kiliaridis 2000</td><td>단면 (n=53, 84 구치, ≥10년)</td>
+        <td class="num">18% 전혀 정출 안 함<br>≥2 mm은 24%뿐</td>
+        <td>정출은 보편적이지만 필연 아님 — 반사적 고정 불필요</td>
+      </tr>
+      <tr>
+        <td>Wang 2022</td><td>CBCT 코호트 (n=68)</td>
+        <td class="num">9개월 0.43 mm<br>72% &lt;1 mm</td>
+        <td>크기는 작고 초기 가속 — 3개월 창의 정량 기준</td>
+      </tr>
+      <tr>
+        <td><b>Livas 2016</b></td><td>후향 파노라마 (n=65)</td>
+        <td class="num">고정 retainer vs 부분접촉<br>둘 다 ~0.1 mm (유의차 X)</td>
+        <td><b>와이어 고정의 정출 억제 근거가 약함</b> — 핵심 반증</td>
+      </tr>
+      <tr>
+        <td>Lindskog-Stokland 2012</td><td>전향 코호트 (n=292, 12년)</td>
+        <td class="num">≥2 mm 위험 4.9배<br>골지지↓ → 정출↑</td>
+        <td>치주·골지지가 고위험 modifier</td>
+      </tr>
+      <tr>
+        <td>Craddock 2007</td><td>후향 (n=91)</td>
+        <td class="num">부분접촉 ≠ 보호<br>오히려 경사 더 큼</td>
+        <td>"부분접촉 있으니 안전" 가정 금지(논쟁점)</td>
+      </tr>
+    </table>
+  </div>
+
+  <!-- 결정 ladder -->
+  <div class="card">
+    <h2><span class="n">4</span>임상 결정 ladder</h2>
+    <ol class="ladder">
+      <li><b>위험 층화부터, 반사적 고정 금지.</b> 평균 정출은 작고(&lt;1 mm) ~18%는 전혀 안 움직인다. 저위험 대합치는 정기 모니터링이 방어 가능한 기본값.</li>
+      <li><b>고위험 프로파일에서만 적극 개입:</b> 젊음 · 상악 대합 · 완전 무대합 · 치주염/골지지 감소 · 발치 직후/초기 창. 이때 와이어 고정 또는 임시 교합접촉 부여 고려.</li>
+      <li><b>와이어 고정의 한계를 인지:</b> Livas에서 고정 retainer가 부분접촉보다 낫지 않았다. 고정한다면 "확실한 차단"이 아니라 "보험"으로 위치시킬 것.</li>
+      <li><b>대안 — 교합접촉 유지:</b> 정출시키는 치료치에 임시 교합면(또는 대합치 쪽 임시 onlay/컴포짓 stop)을 줘 접촉을 살리는 편이, 별도 대합치 splint보다 술식 부담이 적을 수 있다. <span class="tag t-claude">claude해석</span> trade-off: 정출 술식 중 치료치 접촉은 정출 동력을 방해 → 치료치는 빼두되 대합치에 stop을 주는 비대칭 설계가 합리적.</li>
+      <li><b>치료 종료 시 재평가:</b> 3개월 후 대합 공간이 잠식됐는지 모형/사진 대조 후 최종 보철 공간 확정.</li>
+    </ol>
+  </div>
+
+  <!-- 한계 -->
+  <div class="card" style="background:#fbf7f2;border-color:#ecdcc4">
+    <h2><span class="n">!</span>한계 · 정직성 (Rule #4)</h2>
+    <ul style="margin:0;padding-left:18px;font-size:13.5px;color:#6b552c">
+      <li>위키 근거는 전부 <b>발치/장기 무대합으로 인한 수동 과맹출</b>이다. <b>정출 술식 치료기간(능동적 저위치 유지) 중 대합치 거동을 직접 측정한 논문은 위키에 없다.</b> 본 자료는 메커니즘 전이로 구성한 추론이다.</li>
+      <li>1번 점수의 가중치는 합의된 validated index가 아니라 modifier 강도를 반영한 임의 합성치다(<span class="tag t-claude">claude해석</span>). 절대 cutoff가 아니라 토론 출발점으로 사용.</li>
+      <li>3개월 추정량(0.1–0.25 mm)은 초기 가속 가정 하의 <span class="tag t-est">추정</span>치 — fast eruptor는 벗어난다.</li>
+      <li>"정출 anchorage로서 대합치 와이어"(반대 시나리오)는 위키에 근거 없음 — 필요 시 해당 PDF 제공.</li>
+    </ul>
+  </div>
+
+  <!-- 출처 -->
+  <div class="card src">
+    <h2><span class="n">5</span>출처 (위키 페이지)</h2>
+    <ul style="list-style:none;padding:0;margin:0">
+      <li><a href="../wiki/overviews/unopposed-tooth-overeruption-overview.md">overviews / unopposed-tooth-overeruption-overview</a> — 종합</li>
+      <li><a href="../wiki/occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed.md">occlusion / craddock-2004</a> — 정출 발생률 83.9%</li>
+      <li><a href="../wiki/occlusion/kiliaridis-2000-vertical-position-rotation-tipping-molars.md">occlusion / kiliaridis-2000</a> — 18% 비정출</li>
+      <li><a href="../wiki/occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct.md">occlusion / wang-2022</a> — 9개월 0.43 mm, 3D</li>
+      <li><a href="../wiki/occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption.md">occlusion / livas-2016</a> — 고정 retention 효과 약함</li>
+      <li><a href="../wiki/occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed.md">occlusion / lindskog-stokland-2012</a> — ≥2 mm 위험 4.9배</li>
+      <li><a href="../wiki/occlusion/christou-2007-three-dimensional-changes-unopposed-molars-adults.md">occlusion / christou-2007</a> — 10년 3D 거동</li>
+      <li><a href="../wiki/occlusion/craddock-2007-overeruption-posterior-teeth-partial-occlusal.md">occlusion / craddock-2007</a> — 부분접촉 비보호</li>
+    </ul>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  var boxes = Array.prototype.slice.call(document.querySelectorAll('#risk input[type=checkbox]'));
+  var scoreEl = document.getElementById('score');
+  var pill = document.getElementById('pill');
+  var lab = document.getElementById('recLab');
+  var desc = document.getElementById('recDesc');
+  function update(){
+    var s = 0;
+    boxes.forEach(function(b){ if(b.checked){ s += parseInt(b.getAttribute('data-pts'),10); } });
+    if(s < 0) s = 0;
+    scoreEl.textContent = s;
+    var color, label, lead, d;
+    if(s <= 2){
+      color = 'var(--low)'; label = '저위험';
+      lead = '모니터링 — 와이어 고정 불필요';
+      d = '정기 사진/모형/체크로 충분. 정출 징후 시 재평가.';
+    } else if(s <= 4){
+      color = 'var(--warn)'; label = '중등도';
+      lead = '강화 모니터링 ± 케이스별 고정';
+      d = '짧은 간격 체크. 발치 직후/치주 동반이면 고정 또는 임시 교합 stop 검토.';
+    } else {
+      color = 'var(--high)'; label = '고위험';
+      lead = '대합치 고정 / 공간관리 적극 고려';
+      d = '와이어 splint 또는 치료치에 임시 교합 stop 부여. 단 고정의 억제 효과는 부분적임(Livas)을 전제.';
+    }
+    pill.style.background = color; pill.textContent = label;
+    scoreEl.style.color = color;
+    lab.textContent = lead; desc.textContent = d;
+  }
+  boxes.forEach(function(b){ b.addEventListener('change', update); });
+  update();
+})();
+</script>
+</body>
+</html>
