@@ -23,13 +23,18 @@ INTERACTIVES = ROOT / "interactives"
 OUT = INTERACTIVES / "index.html"
 
 # 카테고리 표시 순서 + 한글 라벨. 키는 frontmatter의 category: 값과 일치.
+# 임상 제목 기준 분류 — 수술→수복→예방→행동→메타 흐름. 잡탕 surgery/materials 해체.
 CATEGORIES = [
-    ("isq",       "ISQ · RFA · 부하 결정"),
-    ("surgery",   "수술 · 술식 의사결정"),
-    ("materials", "재료 · 접착 · 약물"),
-    ("caries",    "우식 · 예방 · 미생물"),
-    ("patient",   "환자 커뮤니케이션"),
-    ("meta",      "메타 · 위키 성장"),
+    ("implant-stability",  "임플란트 — 안정성·로딩 (ISQ·RFA)"),
+    ("implant-placement",  "임플란트 — 식립·드릴링·골질"),
+    ("bone-sinus-soft",    "골증대·상악동·연조직"),
+    ("endo-resto",         "근관·수복·접착"),
+    ("drug",               "약물·전신·알러지"),
+    ("caries-prevention",  "우식·침식·미생물"),
+    ("perio-maintenance",  "상아질과민·세균막 관리"),
+    ("ortho",              "교정"),
+    ("patient-ops",        "환자 커뮤니케이션·행동·운영"),
+    ("meta",               "메타 · 위키 성장"),
 ]
 FALLBACK_KEY = "_misc"
 FALLBACK_LABEL = "기타 · 미분류"
