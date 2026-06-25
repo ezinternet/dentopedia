@@ -8,6 +8,43 @@ category: overviews
 confidence: narrative-review
 ---
 
+<div align="center" style="margin: 0.25rem 0 1.5rem;">
+<svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%; height:auto; display:block; max-width:1100px; margin:0 auto;">
+  <title>LLM Wiki — Dentistry</title>
+  <desc>치과 임상논문 지식베이스 LLM Wiki 배너. 좌측 어금니 엠블럼, 중앙 제목과 한/영 부제, 우측 PDF→sources→wiki 3-tier 카드.</desc>
+  <rect x="1.5" y="1.5" width="1197" height="297" rx="22" fill="#F7F6F1" stroke="#E6E4DC" stroke-width="1.5"/>
+  <circle cx="160" cy="152" r="96" fill="#FFFFFF" stroke="#E6E4DC" stroke-width="1.5"/>
+  <circle cx="160" cy="152" r="88" fill="none" stroke="#8B2F44" stroke-width="2" opacity="0.20"/>
+  <path d="M160,98 C137,98 121,111 120,133 C119,145 123,152 125,160 C127,172 126,182 130,196 C133,208 139,214 144,210 C150,206 150,194 152,182 C153,174 155,170 160,170 C165,170 167,174 168,182 C170,194 170,206 176,210 C181,214 187,208 190,196 C194,182 193,172 195,160 C197,152 201,145 200,133 C199,111 183,98 160,98 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3.6" stroke-linejoin="round"/>
+  <path d="M133,119 Q147,131 160,121 Q173,131 187,119" fill="none" stroke="#8B2F44" stroke-width="2.3" opacity="0.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M127,150 Q160,159 193,150" fill="none" stroke="#8B2F44" stroke-width="2" opacity="0.32" stroke-linecap="round"/>
+  <text x="300" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" fill="#2B2230">LLM Wiki</text>
+  <line x1="302" y1="172" x2="452" y2="172" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
+  <text x="304" y="206" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="26" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
+  <text x="305" y="238" font-family="system-ui, -apple-system, sans-serif" font-size="13.5" letter-spacing="2.4" fill="#8B2F44" font-weight="600">DENTISTRY · EVIDENCE-BASED CLINICAL WIKI</text>
+  <text x="305" y="266" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="1" fill="#8A8579">PDF&#160;&#160;→&#160;&#160;sources&#160;&#160;→&#160;&#160;wiki</text>
+  <g transform="translate(1012,150)">
+    <g transform="rotate(-7) translate(-72,-58)">
+      <rect x="0" y="0" width="144" height="116" rx="12" fill="#ECEBE4" stroke="#DCDAD0" stroke-width="1.5"/>
+      <text x="14" y="26" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1.5" fill="#9A958A" font-weight="600">PDF</text>
+    </g>
+    <g transform="rotate(-1) translate(-66,-58)">
+      <rect x="0" y="0" width="144" height="116" rx="12" fill="#F2E4E8" stroke="#E2C9D0" stroke-width="1.5"/>
+      <text x="14" y="26" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1.5" fill="#9C4257" font-weight="600">SOURCES</text>
+    </g>
+    <g transform="rotate(6) translate(-58,-56)">
+      <rect x="0" y="0" width="146" height="116" rx="12" fill="#FFFFFF" stroke="#D6D4CA" stroke-width="1.5"/>
+      <text x="14" y="26" font-family="system-ui, sans-serif" font-size="12" letter-spacing="1.5" fill="#8B2F44" font-weight="700">WIKI</text>
+      <rect x="14" y="42" width="106" height="7" rx="3.5" fill="#ECE7E2"/>
+      <rect x="14" y="56" width="86" height="7" rx="3.5" fill="#ECE7E2"/>
+      <rect x="14" y="70" width="96" height="7" rx="3.5" fill="#ECE7E2"/>
+      <rect x="14" y="90" width="40" height="16" rx="8" fill="#F2E4E8"/>
+      <text x="22" y="102" font-family="system-ui, sans-serif" font-size="9" letter-spacing="0.5" fill="#8B2F44" font-weight="600">High</text>
+    </g>
+  </g>
+</svg>
+</div>
+
 > [!tip] 마지막 배포
 > <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED -->
 
