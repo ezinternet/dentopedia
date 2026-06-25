@@ -1,0 +1,50 @@
+Title: Do Clear Aligners Release Toxic Chemicals?—A Systematic Review
+PMCID: PMC12112703 | PMID: 40422837 | DOI: 10.3390/jfb16050173
+Journal: Journal of Functional Biomaterials (J Funct Biomater), 2025;16(5):173
+
+ABSTRACT
+Clear aligners are a modern orthodontic solution designed to address dental malocclusions discreetly and effectively. In terms of clinical side effects, the most reported issues among aligner users are mild irritation of the oral mucosa, localized inflammation, and hypersensitivity. The use of advanced polymer materials in clear aligners, such as polyurethane and PET-G, has gained widespread acceptance due to their mechanical properties, biocompatibility, and aesthetic appeal. However, concerns persist regarding their potential to release chemical compounds. Our goal is to understand the impact of clear aligner toxicity on the oral cavity of orthodontic patients. An extensive systematic search was conducted in the electronic databases PubMed, Scopus, and Cochrane to identify articles with relevant data. This systematic review was conducted following PRISMA guidelines to answer a question formulated according to the Population, Intervention, Comparison, and Outcomes (PICO). Four hundred and thirteen articles potentially relevant were identified and after applying PRISMA guidelines and inclusion/exclusion criteria, seven articles were included in this review. Our results suggest that clear aligners are generally safe, but concerns remain regarding the chemical leaching of thermoplastic materials, bacterial accumulation due to reduced saliva flow, and mild inflammatory responses. Our review emphasizes that although most materials are biocompatible, some exhibit moderate cytotoxicity, with the potential to impact these patients' oral health, underscoring the need for continued research and improvements in material composition.
+
+1. INTRODUCTION
+Clear aligners are made from advanced polymer materials (medical-grade polyurethane or PET-G) providing flexibility, durability, transparency. Some aligners incorporate gels with fluoride or antimicrobial agents (e.g., EverSmile WhiteFoam, OrthoFoam used inside Invisalign). Concern: degradation of aligner material could release toxic substances (mild irritation to systemic concerns). Although many aligners are BPA-free, concerns remain about leaching bisphenol A derivatives or additives under high temperatures or acidic environments. Katras et al. 2021 found several aligners still release BPA though below toxic levels. Ryokawa et al. found certain orthodontic thermoplastics can elicit inflammatory responses in human gingival fibroblasts (mild, below clinically significant). Most reported clinical side effects: mild irritation of oral mucosa, localized inflammation, hypersensitivity (attributed to friction rather than chemical toxicity, but could relate to oral pH, diet, hygiene). Manufacturers responded with BPA-free materials and alternative plasticizers; some explore biocompatible coatings.
+This SR distinguishes itself: describes ONLY clear aligners (existing SRs include aligners, retainers, other devices using metals/acrylic).
+PICO: "In patients undergoing orthodontic treatment (P) with clear aligners (I), what are the changes or effects observed in the oral cavity (O) when comparing before and after treatment (C)".
+
+2. METHODS
+Databases: PubMed, Scopus, Cochrane. PRISMA guidelines. Registered in OSF.
+Rayyan used for screening. JBI evaluation tool mentioned; QUIN Tool (Quality Assessment Tool For In Vitro Studies, 12 points) used for risk of bias.
+Search terms: (clear aligners OR Invisalign) AND (biocompatibility OR toxicity OR (biological effects)).
+Filters: Human, English (and Portuguese), last 10 years (2014–2024).
+Search results: PubMed/Medline 367; Cochrane 15; Scopus 31.
+Searched 21–22 September 2024.
+Inclusion: (1) English, (2) 2014–2024, (3) scientific research on clear aligners, (4) describe side effects of clear aligners, (5) in vitro and in vivo studies, (6) full text available.
+Exclusion: (1) case reports, (2) systematic reviews, (3) no info on toxicity/adverse effects, (4) culture methods for microbiota, (5) orthodontic appliances like retainers/breaker/expander.
+Two independent reviewers (PL, MF); disagreements resolved by third author (AG). Cohen's Kappa for agreement.
+
+3. RESULTS
+413 potentially relevant references identified (367 PubMed, 31 Scopus, 15 Cochrane). 19 duplicates excluded. 360 ineligible by title/abstract. 34 full-text reviewed. 27 excluded. FINALLY 7 ARTICLES INCLUDED.
+Cytotoxicity findings (cell viability):
+- Duran: highest cell viability 84.6%, lowest cytotoxicity
+- SmartTrack: 78.8%
+- Zendura: 74.4%
+- Biolon: most pronounced cytotoxicity, 64.6% (limited biocompatibility, caution)
+(above 4 from Martina et al. 2019)
+- Alhendi et al. 2022: dose-dependent reduction in human gingival fibroblast viability for several commercial aligners (Invisalign, SureSmile) — slight to moderate toxicity
+- Nemec et al. 2023: saliva from Invisalign patients did NOT harm viability/proliferation of hGFs or oral epithelial; Invisalign did not increase inflammatory mediators (unlike bracket patients)
+- Dinu et al. 2024: two thermoplastic aligners (CA1, CA2) maintained >82% cell viability, safe per EpiDerm model standards
+- Yu et al. 2022 and Yan et al. 2024: low cytotoxicity, preserved cell morphology (thermoplastic polyurethane and fluoride-coated plastic respectively)
+- Thermoforming processes can significantly INCREASE cytotoxicity, particularly in TPU and Zendura.
+BOTTOM LINE: Of 7 articles, FIVE concluded clear aligners safe for clinical use, TWO reported some degree of cytotoxicity.
+QUIN Tool quality: almost all aspects fulfilled except two articles (Yu 2022; Yan 2024).
+
+4. DISCUSSION
+4.1 Biocompatibility/Toxicity mechanisms: leaching of residual monomers/additives, surface degradation, oxidative stress (ROS), inflammatory cellular responses. BPA = endocrine disruptor with estrogenic activity; levels released from aligners generally within regulatory safety limits but long-term effects unclear (adolescents, pregnant women). BPA-free alternatives BPS, BPF may pose similar risks. Leaching exacerbated by thermal/mechanical stress during thermoforming and oral wear. Martina et al. 2019: increased cytotoxicity post-thermoforming in Duran, Biolon, Zendura; Biolon highest cytotoxic potential. Lo et al. 2024: polyurethane and PET generally safe; TPU after thermoforming showed reduced viability in periodontal ligament cells. Saliva acidity may enhance solubility of leachates; Dinu 2024: slight decrease in keratinocyte confluence under acidic conditions. Nemec 2023: increased IL-6, IL-8, MCP-1 in gingival fibroblasts/epithelial cells exposed to aligner-conditioned saliva, but minimal differences before/after treatment. Dose-response relationship (Alhendi 2022). Yan 2024: novel fluoride-coated aligner with antibacterial + enamel remineralization properties.
+Recommendations: avoid hot/acidic beverages while wearing aligners; regular cleaning with non-abrasive agents.
+4.2 Effects on oral health: clear aligners worn 20–22 h/day. Enclosed space favors bacterial proliferation (cariogenic/periodontal pathogens), risk of enamel demineralization/white spot lesions. Xerostomia from reduced salivary circulation. Gingival irritation/mild inflammation along gingival margins. Fluoride-coated aligners (Yan) reduce plaque.
+4.3 Preventive measures/alternatives: antimicrobial + remineralization agents (fluoride-coated, silver nanoparticles, chlorhexidine-releasing polymers); avoid hot/acidic beverages; newer thermoplastics (Dinu) excellent safety; shape-memory polymers future.
+4.4 Clinical implications: consider material composition; Biolon and certain PET-based thermoplastics show moderate cytotoxicity; emphasize hygiene; standardized testing protocols needed; long-term clinical trials on systemic effects/cumulative leachate exposure.
+
+5. CONCLUSIONS
+Clear aligners generally safe. Concerns remain: chemical leaching of thermoplastic materials, bacterial accumulation due to reduced saliva flow, mild inflammatory responses. Although most materials biocompatible, some (notably Biolon) exhibit moderate cytotoxicity. Need for continued research and improvements in material composition.
+
+The 7 included studies: Martina et al. 2019; Alhendi et al. 2022; Nemec et al. 2023; Dinu et al. 2024; Lo et al. 2024; Yu et al. 2022; Yan et al. 2024.
