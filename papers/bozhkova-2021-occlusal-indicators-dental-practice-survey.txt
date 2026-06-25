@@ -1,0 +1,32 @@
+Occlusal Indicators Used in Dental Practice: A Survey Study
+Bozhkova T, Musurlieva N, Slavchev D, Dimitrova M, Rimalovska S.
+Biomed Res Int 2021;2021:2177385. doi:10.1155/2021/2177385. PMID 34778449; PMCID PMC8580666.
+Source: PubMed Central full text (JATS).
+
+1. Introduction
+
+The function of the masticatory apparatus is complete when the dentition is intact with contact between the individual teeth and proper occlusion with the antagonists. With occlusal stability, multiple contacts are created between the teeth, the strongest contacts being on the last pair of the antagonist's teeth. Adequate assessment and control of occlusion are essential. Irregular occlusal contacts can lead to migration of teeth, cracked enamel, darkening of teeth, atrophy of periodontal tissue, gingival recession, defects in fillings or crowns, peri-implant problems, TMJ disease, migraine, and orofacial pain.
+
+For years, occlusal contacts have been studied to determine their exact location, describing various materials and methods for their registration such as paper foil, silk, shim stock foil, the T-Scan system, and more recently the OccluSense system. The occlusal indicators locate and specify the contacts. The accuracy of the applied technique depends on thickness, tensile strength, and elasticity of the recording material, the oral environment, and the interpretation of the dentist. Methods for registration are qualitative and quantitative. Quality indicators (paper, foil, silk, shim stock) are the most commonly used due to lower price and ease of use — they determine only the location and number of contacts. The sequence, time, and strength of occlusal contacts can be determined only by quantitative methods (T-Scan, OccluSense).
+
+Primary aim: which occlusal indicator is most commonly used in practice. Secondary aim: whether dentists are willing to use digital methods to examine occlusion.
+
+2. Materials and Methods
+
+Anonymous electronic questionnaires sent to 2014 dentists, randomly selected from all regions of Bulgaria. 228 questionnaires returned (response rate 14.87%). Minimum sample size established by power analysis. Self-developed questionnaire (sociodemographic/professional status + opinions on positives/negatives/effectiveness of occlusal indicators). Ethical committee MU–Plovdiv approval no. 4, 16.10.2014. Analysis: SPSS Statistics 25.0; descriptive statistics + nonparametric tests; significance p<0.05.
+
+3. Results
+
+228 dentists in 3 age groups; mean age 50.35 ± 9.85. 131 women (57.46 ± 3.27%), 97 men (42.54 ± 3.27%). Largest group aged 40–59 years; work experience 6–15 years for 34.21 ± 3.14%. No statistically significant age difference between sexes (p=0.67). 89 (31.11 ± 2.74%) had a specialty, 139 (68.88 ± 2.74%) none.
+
+"Which occlusal indicators do you use?" — Articulation paper most frequent: 52.45 ± 2.95%. Articulation foil 26.22 ± 2.6%; silk 16.78 ± 2.21%; Shimstock foil rarely used 2.45 ± 0.91%; T-Scan 1.40 ± 0.69%; OccluSense 0.70 ± 0.49%.
+
+"Would you use quantitative occlusal indicators?" — 58.74 ± 2.11% willing to use digital methods. Chi-square showed a statistically significant relationship between respondents' opinion and possession of a specialty (χ²=14.73; df=4; p=0.005).
+
+4. Discussion
+
+Sociodemographics reflect global feminization of the profession. Most commonly used indicator is articulation paper (many types differ in thickness 200/100/60/40 µm, width, material, dye). Some researchers consider silk best for registering occlusal contacts. Many authors note interpretation of paper markings is inaccurate/subjective and cannot determine strength or timing; marking intensity is an unreliable criterion for occlusal force. Silk's fibrous structure gives high color capacity and accurate marks with few false contacts. Articulation foil is the thinnest indicator and (per Sharma et al.) registers contacts more accurately than paper or silk. Shim stock foil can only determine WHETHER contact exists between antagonist teeth (it does not visualize contacts on the tooth surface) — hence it is rarely used. T-Scan quantifies occlusal forces and contact time and is regarded as reliable (Afrashtehfar & Qadeer 2016: preferred clinical tool for occlusion diagnosis). T-Scan known for 34 years; OccluSense produced 2019, relatively new with no accuracy/reliability literature yet. T-Scan must be used in combination with articulating paper to visualize contacts; OccluSense sensor stains contacts directly on the tooth surface. Growing desire among dentists to adopt quantitative/digital occlusion diagnosis.
+
+5. Conclusion
+
+In clinical practice, dentists most often use articulation paper as an occlusal indicator. There is growing interest in quantitative methods. If technically possible, digital methods would be preferred, giving more accurate and reliable data on registered occlusal contacts.
