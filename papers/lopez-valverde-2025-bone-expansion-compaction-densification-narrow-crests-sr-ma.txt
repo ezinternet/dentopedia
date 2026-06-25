@@ -1,0 +1,67 @@
+Effectiveness of bone expansion, compacting and densification in narrow alveolar crests: a systematic review and a meta-analysis
+López-Valverde N, López-Valverde A, Blanco JA
+Front Bioeng Biotechnol. 2025. PMID: 40635692. PMCID: PMC12238099. DOI: 10.3389/fbioe.2025.1630495
+PROSPERO CRD42025646738
+Source: PubMed Central full text (get_full_text_article)
+
+== ABSTRACT ==
+
+Background
+The treatment of edentulism with dental implants is a common and reliable procedure with high medium- and long-term survival rates. Primary stability in the bone is vitally important to prevent micro-movements at the beginning of healing. However, the main drawback of dental implantology is bone deficiency. To alleviate this situation, clinicians resort to surgical techniques that increase bone volume and allow the devices to be placed. Bone expansion, compaction, and densification are used to compact the bone trabeculae, densifying the bone and improving the primary stability and osseointegration of implants. The aim of the study was to evaluate the role of these surgical techniques in deficient alveolar ridges in order to prepare them to receive durable dental implants.
+
+Methods
+Searches were made of PubMed/Medline, Embase, Cochrane Central, Dentistry and Oral Sciences Source and Web of Science (WOS) databases and GreyNet International, to identify RCTs, prospective studies, retrospective studies and case series published in English in the last 15 years, which evaluated the efficacy of bone expansion, bone compaction and densification in narrow alveolar ridges and their impact on bone density (BD), alveolar ridge expansion (CE) and implant stability quotient (ISQ). Methodological quality was evaluated using the Joanna Briggs Institute for RCTs (JBI MAStARI) tool and risk of bias using the Cochrane Risk of Bias Tool (RoB2), and meta-analyses were performed using Review Manager 5.4.1 software.
+
+Results
+Ten of the 2,464 studies examined met the inclusion criteria. The meta-analysis of the parameters analyzed was favorable for the experimental group, indicating that bone expansion, compaction and densification techniques significantly increase BD (-0.71, 95% CI [-1.15 to -0.27], p = 0.002), CE (-1.12, 95% CI [-2.21 to -0.03], p = 0.04) and ISQ (-8.88, 95% CI [-13.85 to -3.91], p = 0.0005), with a high publication bias for CE and ISQ.
+
+Conclusion
+The techniques of bone expansion, compaction and densification demonstrated their effectiveness in narrow alveolar ridges, although studies are needed to validate the results found.
+
+Systematic Review Registration: CRD42025646738.
+
+== KEY FULL-TEXT POINTS ==
+
+PICOS: P = patients with horizontal atrophy of maxillary/mandibular ridges (dimension <=2.5 mm); I = expansive/bone-compaction/densification treatments; C = between different techniques or other surgical treatments; O = delta BD (HU), delta crestal expansion CE (mm), delta ISQ; s = RCT, case series, prospective, retrospective. Registered PROSPERO CRD42025646738.
+
+Inclusion: >5 adult subjects (>=18y); horizontal atrophy (<=2.5 mm); clinical-parameter data with means+SD; English; last 15 years. Excluded: case reports, animal studies, reviews, editorials.
+
+Screening: 2,464 records identified (981 PubMed/MEDLINE, 1,382 WOS, 26 EMBASE, 11 Cochrane Central, 64 DOSS). 2,116 duplicates/animal/irrelevant removed; 306 more removed; 47 full-text evaluated; 37 removed (no analyzable data / graph-only); 10 studies included.
+
+10 included studies (241 subjects total): 5 RCTs, 2 prospective, 3 retrospective.
+- BD (HU): 2 studies (Vaddamanu 2024 RCT n=32 [pre 821.3+-485.5 -> post 1126.7+-373.6 HU with ODT]; Ahmed 2022).
+- CE (mm): 8 studies.
+- ISQ: 3 studies (Ahmed 2022, Bergamo 2021, Tushar 2024).
+Follow-up: immediate post-op to 6 months.
+
+Techniques: osteodensifying drills (Huwais technique / Densah) vs manual or motorized threaded expanders, crestal corticotomy/split, ultrasonic/piezoelectric. Most used CBCT.
+
+META-ANALYSIS (standardized mean difference SMD; negative favors experimental group):
+- BD: 2 studies, I2 = 0% (homogeneous), fixed-effect. SMD -0.71, 95% CI [-1.15, -0.27], p = 0.002. Significant favor experimental.
+- CE: 8 studies, I2 >= 75% (high heterogeneity), random-effects. Before sensitivity test NOT significant (0.41, 95% CI [-1.02, 0.84], p = 0.58). After removing Yadav, Koutouzis, Anitua & Alkhraisat (5 studies remain): SMD -1.12, 95% CI [-2.21, -0.03], p = 0.04. Moderate significance favor experimental.
+- ISQ: 3 studies, I2 = 96% (high heterogeneity), random-effects. SMD -8.88, 95% CI [-13.85, -3.91], p = 0.0005. Significant favor experimental.
+
+Publication bias: funnel plot symmetric for BD; marked asymmetry (high publication bias) for CE and ISQ.
+
+JBI MAStARI methodological scores (>=7 = adequate): Rizk 12, Tofan 11, Vaddamanu/Tushar/Ahmed 7; Salman 6, Anitua 6; Yadav 5, Bergamo 5, Koutouzis 5. Lower-scored studies were prospective/retrospective lacking control group, randomization, blinding.
+
+Selected primary-study CE results:
+- Salman & Bede 2022 (prospective n=23): width 4.04+-0.7 -> 5.3+-0.51 mm with ODT, p<0.001.
+- Yadav 2022 (prospective n=22): 3.64+-0.41 -> 5.62+-0.45 mm (crestal split corticotomy), p<0.001.
+- Koutouzis 2019 (multicenter retrospective n=21): coronal expansion 3-8 mm (mean 5.2 mm) with ODT.
+- Anitua & Alkhraisat 2016 (retrospective n=20, 31 implants): transitional implants + motorized expanders, 3.1 mm -> 5.1 mm.
+- Bergamo 2021 (multicenter retrospective n=56, 150 implants): ISQ higher for ODT (osteodensifying drills) vs threaded osteotomes (74+-1.5 vs 66+-1.5).
+- Ahmed 2022 (RCT n=20): ODT zones higher insertion torque + shorter duration than crestal split; horizontal bone gain at 6 mo not significantly different (1.99+-0.68 ODT vs 2.63+-0.74 split).
+- Rizk 2024 (RCT n=14): bone-width change greater with osteodensifying drills than implant expanders (immediate p=0.018/0.022; 6 mo p=0.025/0.040).
+- Tofan 2024 (RCT n=19): no significant ridge-width difference between osteodensifying drills and threaded expanders (5.48+-0.57 vs 5.53+-0.71); ODT faster.
+- Other expansion techniques: crestal-width gains reported 1.1-2.4 mm in some studies.
+
+Discussion contrasts: literature is contradictory on ODT. Some preclinical (sheep, porcine) studies found no osseointegration/expansion difference vs conventional; a murine JDR study found condensation increases peri-implant bone density (higher BV/TV) but does NOT guarantee greater BIC nor improve stability, and compacted bone may be structurally damaged/weakened. Rizk found three implant failures attributed to over-densification of the narrow crest reducing blood supply / raising temperature, recommending expansion only when GBR/bone blocks/crestal split are not feasible.
+
+Limitations: heterogeneity of study designs (RCT + observational), publication & selection bias, varying surgical techniques/instruments, varying measurement methods, varying anatomical locations and follow-up periods. Conclusions to be taken with caution.
+
+Conclusions:
+i) 2 BD studies homogeneous, significant trend toward intervention.
+ii) 3 ISQ studies, despite heterogeneity, significant toward experimental.
+iii) 8 CE studies after sensitivity analysis showed moderate significance for experimental.
+Bone expansion, compaction and osteodensification in narrow alveolar ridges could be useful and reliable for placing long-lasting implants, but more well-designed studies are needed.
