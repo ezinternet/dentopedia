@@ -1853,6 +1853,7 @@ tags: []
 - [[occlusion/panagiotopoulou-2023-dynamic-fea-macaque-mandible-mastication]] — Panagiotopoulou 2023 (Phil Trans R Soc B) · animal: 영장류(rhesus macaque) 하악의 완전한 저작 개구주기 첫 동적 3D FEM — 주기 ~40%에서 최대 strain/moment, 음식물 의존(견과>포도>건과일); 정적 단일시점 FEM이 놓치는 하악 strain을 동적모델이 포착
 - [[occlusion/hayashi-2014-low-level-laser-periodontal-hypofunctional-teeth]] — Hayashi 2014 (PLoS ONE) · animal(rat n=24): 교합 무자극(hypofunction)이 PDL 두께·치조골 BMD↓; 저출력 레이저(904–910nm) 조사로 대조군 수준 회복 + bFGF·VEGF 양성세포↑
 - [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] — Wang 2022 · retrospective · CBCT 코호트(59명·대합치없는 대구치 68개, 전원 치주염): 발치~임플란트보철 ~9개월간 평균 0.43mm(최대 0.75mm) 정출+협측 1.7° 경사; 초기에 가장 빠름; 정출은 PDL 매개라 endo/생활치 층화 없음 (DOI 10.1186/s12903-022-02619-y)
+- [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — Livas 2016 · retrospective · 파노라마(Class II 65명): 고정 sectional wire로 잡은 대합치없는 하악 2대구치 정출이 부분접촉 대조군과 차이 없음(둘 다 ~0.1mm, 무의미); 고정 retention 근거 약함; 12년 ≥2mm 위험 4.9배·18%는 정출 안 함·상악>하악·초기최대 (DOI 10.1186/s40510-016-0119-z)
 - [[overviews/occlusal-trauma-periodontitis-overview]] — **Overview**: 교합외상·치주염 종합(4편) — 교합은 발병원인 아닌 수식인자, 스플린팅 생존이득 없음, 교합조정 선택적·제한이득, PDL 확장은 감별폭 넓음 (2026)
 - [[occlusion/fan-2018-occlusal-trauma-and-excessive-occlusal]] — Fan 2018 · narrative-review · 2017 WW 교합외상 case definition; primary occlusal trauma는 부착소실 유발 안 함, 치주염 인과는 논쟁적 (DOI 10.1002/JPER.16-0581)
 - [[occlusion/dommisch-2022-efficacy-of-tooth-splinting-occlusal]] — Dommisch 2022 · sr · 스플린팅은 동요치 생존 개선 안 함(8.4% vs 10.1%); 교합조정은 CAL 개선 가능(근거 낮음) (DOI 10.1111/jcpe.13563)
