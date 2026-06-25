@@ -1,0 +1,147 @@
+TITLE: Systematic analysis of factors that cause loss of preload in dental implants
+
+ABSTRACT:
+Screw loosening is the most common factor associated with dental implant failure. One of the major cause for screw loosening is the “loss of preload”. Several factors including screw geometry, material properties particularly stiffness, surface texture and condition of mating surfaces, degree of lubrication, rate of tightening, integrity of joint etc.
+
+Objective:
+
+This review analyses the factors that are responsible for the loss of preload.
+
+Material and Methods:
+
+Screw geometry, Implant- Abutment Connection type (external hexagon platform, morse taper), Material properties viz Stiffness, Resilience, Materials viz gold, titanium, titanium alloy, Surface texture of the abutment screw, Condition of mating surfaces, Lubrication, Torque value, Rate of tightening (10, 20, 35N and retorque after 10mins) are taken into consideration in this study. The MEDLINE-PubMed database was searched from September 2016 to 10 years previously. Several journals were hand searched and from cross references. The outcome analysed are the factors that are responsible for loss of preload.
+
+Results:
+
+The search yielded 84 articles. After excluding duplicated abstracts and applying the inclusion and exclusion criteria, 36 studies were eligible for analysis. The result shows that loss of preload can occurs depending upon the type of material used, torque method, torque sequences, abutment connection type, influence of lubrication, abutment collar length. However we detected some potential limitations in the studies selected, mainly a minimum number of samples used for the study. Hence we suggest further studies to guarantee an excellence in methodological quality.
+
+Conclusion:
+
+Based on the available data it can be summarized that the knowledge of preload loss must be known for the clinicians to avoid such screw loosening and subsequent implant failure.
+
+FULL TEXT:
+INTRODUCTION
+
+The most common failure associated with dental implant is screw loosening and fracture of implant.[] One of the major causes for screw loosening is the “loss of preload.” Preload is the axial force in the neck of the screw, which is between the first mating thread and head of the abutment screw.[] The tensile force clamps the abutment to the implant.[] The relationship between applied torque and preload depends on several factors including screw geometry, material properties, surface texture, degree of lubrication, rate of tightening, and integrity of joint.[] This study aim at determining the factors which causes loss of preload in dental implants. This systematic review is focused on the factors which cause loss of preload that leads to dental implant failure.[]
+
+METHODOLOGY
+
+Search strategies
+
+The following analysis was performed according to the guidelines and the principles of the PRISMA statement for a systematic review.
+
+Focused question (Patients, Intervention, Comparison, and Outcomes)
+
+The review is focused on: “what are the factors causing loss of preload which eventually leads to dental implant failure?”
+
+The following medical subjects headings terms: “abutment screw,” “preload,” “dental implants,” and their related entry terms were used in different combinations using the Boolean Operators “AND” and “OR” for the research. In addition, manual search was made [].
+
+([[dental implants] AND abutment screw]) AND preload.
+
+Figure 1
+
+Flowchart of the search process
+
+Figure 2
+
+Pudmed search
+
+Inclusion criteria
+
+Loss of preload, screw loosening, screw fracture, screw geometry, implant-abutment connection type (external hexagon platform, Morse taper), material properties, namely, stiffness, resilience, and materials, namely, gold, titanium (Ti), Ti alloy, surface texture of the abutment screw, condition of mating surfaces, lubrication, torque value, rate of tightening (10, 20, 35N, and retorque after 10 min), and integrity of joint.
+
+Exclusion criteria
+
+Functional habits such as bruxism, clinical syndromes (such as epilepsy, psychological disorders, and osteoporosis) implant fracture.
+
+Filters
+
+Other inclusion criteria are as follows (a) articles published in English language; (b) human studies; (c) studies which have the relationship between dental implants and loss of preload; (d) animal studies; (e) systematic reviews; (f) cohort studies; and (g) randomized controlled trial (RCT).
+
+Other exclusion criteria are as follows (a) articles published in another language other than English; (b) studies that does not have the relation between dental implants and loss of preload; (c) full text articles that were not available on the database searched; (d) duplicated articles; (e) letters to editor; and (f) commentaries. Studies other than RCT, systematic reviews and cohort studies were eliminated to reduce bias.
+
+Data extraction
+
+All studies which met the inclusion and exclusion criteria for review were obtained and screened independently and were analyzed using PRISMA guidelines []. The following data were extracted from the studies included for review reference, study design, number of implants, group specification of the study, initial torque, preload, and loss of preload. The quality of the various studies was not considered in the final analysis; therefore, no quality assessment has been done.
+
+DISCUSSION
+
+Preload is the initial load when a torque is applied to the screw. The preload is a contributing factor for the stability of screw connection parts, is affected by various mechanical factors.[] One of which is the settling effect or embedment relaxation. The settling effect occurs due to microroughness on the two contact surfaces so that when initial torquing of the screw is applied, the rough areas collapse and leads to screw loosening. Hence, preload must be maintained to prevent joints from separating.[]
+
+The present review is investigated to determine the factors that are responsible for loss of preload and screw loosening.
+
+TYPE OF MATERIAL
+
+Six articles, which includes 102 implants the preload values of different types of materials were evaluated. In comparison between gold, Ti, Ti alloys and surface treated Ti, gold exhibits higher preload value than other elements. It is then followed by Ti alloys, surface-treated Ti, and pure Ti type of material [].[]
+
+Table 1
+
+Torque sequence
+
+Table 2
+
+Type of material
+
+TORQUE METHOD
+
+Two articles, compared the efficacy of manual torque with that of the digital torque meter, out of which one article is a systematic review. By the result, researchers found that calibrated torquing devices are mandatory as the abutment should not be over tightened or under tightened to avoid misfiting of the implant abutment complex [].[]
+
+Table 3
+
+Abutment connection type
+
+Table 4
+
+Torque method
+
+TORQUE SEQUENCE
+
+Seven articles evaluated the torquing sequence for the maintenance of preload values and found that retorquing after 10 min of initial torque is efficient to maintain the preload value [].[]
+
+ABUTMENT CONNECTION TYPE
+
+Of the seven articles, two articles were concluded by doing a study in about 56 implants and found the result that design of joint was not significant in affecting the preload values. And also, other articles which includes 51 implants, showed that internal hexagon type exhibits greater preload than external hexagonal type [].[]
+
+INFLUENCE OF LUBRICATION
+
+Dry lubricant coatings such as 60–80 nm Ti nanoparticles, Vaseline, and human saliva were used as a lubricating agent in about three studies. Eighty-five implants were evaluated for this influence of lubrication on preload values. Results found that lubricants decreases the friction and thereby helps in maintenance of preload by regulating the settling effect [].[]
+
+Table 5
+
+Influence of lubricant
+
+ABUTMENT COLLAR LENGTH
+
+One article evaluated the significance of abutment collar length in a total of 15 implants and found that increase in the height of abutment collar length has a significant influence on the torque loss of abutment-implant screw after cyclic loading [].[]
+
+Table 6
+
+Abutment collar size
+
+SUMMARY
+
+As per the results of the studies include we can summarizes the following.
+
+Gold fixation screws provides higher preload values than Ti and Ti alloy screws
+
+Calibrated torquing device is mandatory to get adequate preload
+
+Retorquing of abutment screws after 10 min of the initial torque should be performed during implant abutment connection
+
+Abutments with more extensive contact areas with implant have been associated with a lower incidence of toque loss
+
+Internal connection type has higher preload value than external hexagon type
+
+Results found that lubricants decreases the friction and thereby helps in maintenance of preload by regulating the settling effect.
+
+CONCLUSION
+
+Ideally, the use of lubricated gold screws with internal connection type should be placed with calibrated torquing device and retorquing it after 10 min of the initial torque gives the maximum preload. Since screw loosening is the major reason for implant failure due to embedment relaxation, one should know the reason behind it. The knowledge of preload loss must be known for the clinicians to avoid such screw loosening and subsequent implant failure.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
