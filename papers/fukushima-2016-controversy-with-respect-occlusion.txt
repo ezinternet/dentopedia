@@ -1,0 +1,77 @@
+Title: A controversy with respect to occlusion
+Author: Shunji Fukushima (Department of Fixed Prosthodontics, Tsurumi University School of Dental Medicine, Yokohama, Japan)
+Journal: The Japanese Dental Science Review (Jpn Dent Sci Rev) 2016;52(3):49-53
+DOI: 10.1016/j.jdsr.2016.02.001
+PMID: 28408956  PMCID: PMC5390333
+Source: PubMed Central full text (JATS), retrieved 2026-06-26
+
+ABSTRACT
+There are very little controversies on occlusion in healthy individuals, where centric relation is regarded as the criterion for assessing the present occlusion and also for establishing a new occlusal relationship between the upper and the lower jaws. On the other hand, the occlusal position in patients with deformed condyles still remains to be clarified. In this review, the effectiveness and limits of centric relation in these patients are discussed. In addition, the muscle induced occlusal positions, such as the muscular position and the terminal positions of habitual closing movements, are suggested as a substitution for centric relation. Finally, the importance of a stable intercuspal position, where the habitual closing movements terminate without any premature tooth contact, is emphasized.
+
+1. INTRODUCTION
+The first step of restorative treatments is to clinically estimate the existing intercuspal position (ICP), and then determine whether to keep or correct the ICP. For quite some time, the centric relation (CR) has been used as the criterion and was applied to clinical cases in which prosthetic occlusal treatments were needed. Now, as the evidence suggests, dentists are in a situation where they need to be careful in applying the CR. The CR should be applied to patients with a normal physiological occlusion, and not to patients with deformed condyles. In the least, the definition of CR in the latest edition of the Glossary of Prosthodontic Terms (GPT) has excluded such applications in these patients.
+
+Recently, there has been great progress made in the diagnostic imaging of the temporomandibular joint (TMJ), which clearly shows that there are large number of patients with deformed condyles. These deformities may have resulted from such factors as aging, occlusal support, parafunction, and so on.
+
+For patients with condylar deformity, it is inappropriate to apply the same CR definition with normal subjects. Dawson indicated that the CR definition is still effective in patients with deformed condyles, when their condyles are comfortably seated at the highest point against the articular eminences and braced by bone at the medial pole of each condyle. This relationship of the mandible to the maxilla is called "adapted centric posture (ACP)".
+
+On the other hand, the patients with deformed condyles, that are not braced by bone and therefore are unstable on the slope of the articular eminences, have been ignored. This issue is discussed in this review.
+
+2. LIMITS OF CENTRIC RELATION
+The definition of CR in the GPT changed dramatically in 1987, from the most posterior condylar position, to the antero-superior condylar position in the glenoid fossa. However, several previous definitions were allowed to remain. Still now, some of these definitions continue in the latest GPT. These multiple definitions often cause confusion in various fields of dentistry.
+
+In 1987, the CR definition change was willingly accepted by clinicians, because oral functions are chiefly performed around the ICP. The occlusal position in the revised CR appears to be closer to the ICP.
+
+Even if the condyle becomes deformed, as Dawson described, it may be located in the stable position in the fossa. On the other hand, there should be another situation in which the deformed condyle occupies an unstable position on the slope of articular eminence without any bony support in the glenoid fossa. Furthermore, two types of occlusal situations need to be considered, with and without a stable ICP. When there is a stable ICP, nothing will generally happen, even though the condyle is unstable. On the other hand, when both the ICP and the condylar position are unstable, various disorders in the stomatognathic system may occur.
+
+We often encounter patients with deformed and/or unstable condyles in cases of TMJ osteoarthritis, malocclusion in Angle's class II, and after orthognathic surgery. In orthodontic cases, the mandible may protrude through orthodontic treatment, resulting in an anterior condylar position, and then a new stable ICP can be established. Furthermore, in orthognathic surgical cases, the separated condyle from the body of the mandible can be manipulated and repositioned again to the preoperative condylar position, sometimes with the help of a positioning device.
+
+In these patients, when we fail to secure a stable position to the dentitions, various disorders follow, such as an open bite in the dentitions and progressive condylar resorption (PCR) in TMJ.
+
+Therefore, there are some patients who have the occlusal treatment process, in which the condylar position in the glenoid fossa should not be initially determined.
+
+3. BONE CHANGE AND UNSTABLE POSITION OF THE CONDYLE
+Clinically, there is little importance to whether the condyle is deformed or not. However, it is extremely important in determining whether or not the condyle occupies a stable position in the glenoid fossa. When the condyle is unstable, it is quite possible that the ICP will be lost, even though there is a stable ICP.
+
+Stability of the condyle can be examined by guiding the mandible to the most posterior position in the glenoid fossa. When the mandible moves backwards from the ICP to that location, over approximately 1.5 mm or 2.0 mm, the condylar position can be assessed as unstable, because the distance is long enough for a wide space behind the condyle at the ICP. The unstable condyle may exist unilaterally or bilaterally.
+
+When posterior movements from the ICP are difficult for patients to perform, lateral excursions can alternatively be used. The condyle of the working-side moves backwards significantly during lateral movements, when there is a wide space behind the condyle at the ICP.
+
+The bone change of the condyle indicates the possibility of an unstable condylar position. Therefore, it is important to assess whether or not there is a condylar bone change. A number of techniques, such as TMJ radiography using panoramic equipment, tomography, computed tomography (CT), and magnetic resonance imaging (MRI) are all useful in assessing bone changes, although the accuracy is different among the respective means.
+
+It is interesting that patients with deformed condyles do not always indicate clinical symptoms. Even without TMD symptoms, this does not indicate whether or not the condyle is deformed or stable.
+
+4. EFFECTIVENESS OF HABITUAL CLOSING MOVEMENTS
+When the deformed condyles are located in the ACP, some patients cannot occlude properly, because the relationship between the upper and lower dentitions is so incompatible. In these patients, it is illogical to locate the condyle in the ACP.
+
+Therefore, various methods were proposed which could clinically determine a mandibular position for the ICP without depending on the condylar position, including the speaking method and the swallowing method. In addition, muscular position (MP), defined as the horizontal contact position of the mandible by the reflex muscle pattern, acting as a terminal point of closing movement from the rest position, can also be considered.
+
+Posselt stated "Although repeated habitual opening and closing movements do not coincide exactly, they have a fairly characteristic main course, their starting and end-point being the ICP". In a later study, Kawaguchi precisely measured the positions of the terminal points during habitual closing movements (HCMs), and found that the HCMs terminated with the distribution, averaging 0.38 mm anteroposteriorly, and 0.27 mm laterally. Therefore, the HCMs could also be available for determining a mandibular position for the ICP. Furthermore, Fukushima measured HCMs at the incisal and condylar points, and found that the condyle moved only 0.3-0.8 mm during the last 5 mm of HCMs to the ICP. This means that the condylar position, corresponding to the distribution of the HCMs, is strictly limited.
+
+These phenomena were observed in a normal population. However, it also suggests that the HCMs, in patients with deformed condyles, could keep the same characteristics. Namely the proprioceptive signals in TMJ/masticatory muscles serve to induce the mandible into the ICP by the closing muscles.
+
+Recently, Shigeta et al. measured the HCMs of subjects, including patients with TMD, through a new analysis method, and proposed a classification of HCMs on the basis of the terminal positions and their variations.
+
+Klineberg and Jagger emphasized the usefulness of the "median occlusal position (MOP)" for occlusal analysis, acquired by a snap jaw closure. These movements could be similar to the HCMs and be available for the same purpose.
+
+Terminal positions of HCMs vary to some extent, but these variations may indicate the capacities of the living body. Humans can probably accommodate the incoming ICP among the terminal positions of HCMs. It is important to settle a stable ICP within that area. When a stable ICP is determined, the condyle can follow the ICP, even changing its shape. In some cases, the morphological adaptation is provided in the radiographic imaging, as remodeling, or the double contour of the condyle.
+
+However, it is also possible that the condyle cannot follow the ICP when the demanded adaptation is too large. Then, the condyle has to remain unstable on the slope of articular eminence. Clinically, even in such severe situations, patients can generally enjoy a normal diet as long as they maintain their stable ICP.
+
+From these findings, it was suggested whether or not the HCMs terminate into the ICP without any premature contacts; they have to be continually inspected.
+
+5. A CLINICAL CASE
+A clinical case with deformed and unstable condyle in the glenoid fossa, which was managed successfully and followed up for a long period of time, is presented.
+
+A 37-year-old woman came to the clinic complaining of chewing disturbances because of missing bilateral molars in the lower jaw. Both condyles were highly deformed with bilateral dislocated discs, and occupied an anterior position in the glenoid fossa in order to achieve occlusion between the upper and lower teeth. Habitual closing movements varied considerably, but were stable enough to determine provisionally an occlusal position for an occlusal splint.
+
+The occlusal splint was seated and equilibrated until the stable HCMs could be performed. Then, the splint-induced occlusal position was transferred to the new restorations as the ICP. Finally, two 3-unit fixed partial dentures were seated in the upper jaw, and a metal crown and a removable partial denture in the lower jaw. Since this procedure, the acquired ICP has lasted for 25 years, both positionally and functionally.
+
+6. CONCLUSIONS
+In patients with deformed and positionally unstable condyle, habitual closing movements could be helpful in determining a permanent occlusal position for the ICP. There are cases where the condyle could function for a long time at the anterior position in the glenoid fossa, even though the condylar position is not supported by bone.
+
+There are cases where the ICP cannot be determined through the habitual closing movements. However, the habitual closing movements may indicate a small appropriate area for the ICP. The living body is capable of adapting to changes to some extent. It is crucial to ensure a stable intercuspation where the HCMs terminate in a stable position. In addition, when patients do not have any occlusal problems, we need to be very careful not to change the present ICP during the prosthetic procedures.
+
+The intercuspal position was originally generated in the appropriate position for proper oral function performance. However, this may not ensure a stable condylar position, due to the condylar morphological change.
+
+CONFLICT OF INTEREST: The author declares no conflict of interest related to this study.
