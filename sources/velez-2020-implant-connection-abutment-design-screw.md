@@ -15,7 +15,7 @@ text_filename: velez-2020-implant-connection-abutment-design-screw.txt
 
 ## Why Ingested
 
-User asked what abutment-screw tightening torque to use for a Morse-taper ("Astra-type") conical-connection implant. The wiki had [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] (screwless pure Morse taper, Bicon) but no page on the **screw-retained** internal-conical (Morse taper) joint and its dependence on insertion-torque magnitude. This in-vitro study directly compares 10/20/30 Ncm abutment-screw torque on a screwed 11° Morse-taper system. NB: the tested system is Mozo-Grau, not Astra Tech — no Astra-specific abutment-torque paper exists in PubMed; Astra Tech's own abutment-screw torque is 20–25 Ncm (lower than this system's 30 Ncm), so the value is system-specific, not universal.
+User asked what abutment-screw tightening torque to use for a Morse-taper ("Astra-type") conical-connection implant. The wiki had [[prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force]] (screwless pure Morse taper, Bicon) but no page on the **screw-retained** internal-conical (Morse taper) joint and its dependence on insertion-torque magnitude. This in-vitro study directly compares 10/20/30 Ncm abutment-screw torque on a screwed 11° Morse-taper system. NB: the tested system is Mozo-Grau, not Astra Tech — no Astra-specific abutment-torque paper exists in PubMed. The wiki's Astra guide [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] specifies a standardized 35 Ncm abutment-screw protocol for Astra, vs this system's 30 Ncm — confirming the value is system-specific, not universal.
 
 ## One-line Summary
 
