@@ -1,0 +1,81 @@
+Experimental study on implant-abutment locking force and abutment subsidence in a pure Morse taper connection implant system
+纯莫氏锥度连接种植系统种植体—基台锁结力及基台下沉量的实验研究
+
+Ren Bihui, Xu Yehao, Dai Jieting, Guo Shuigen, Wei Hongwu
+Dept. of Stomatology, The Fourth Affiliated Hospital of Nanchang University, Nanchang, China
+Hua Xi Kou Qiang Yi Xue Za Zhi (West China Journal of Stomatology) 2024 Jun 1;42(3):372-381
+DOI: 10.7518/hxkq.2024.2023387  PMID: 39049659  PMCID: PMC11190868
+
+NOTE: PMC full-text body was empty for this Chinese-language article. This artifact preserves the
+structured English abstract (from PubMed metadata) plus the original Chinese abstract. Page built as
+abstract-only (full_text: false).
+
+=== STRUCTURED ENGLISH ABSTRACT (PubMed) ===
+
+OBJECTIVE
+This test aimed to investigate the factors affecting the locking force between the implant and
+abutment and the amount of abutment subsidence in pure Morse taper connection implant systems.
+
+METHODS
+With reference to the Bicon implant abutment connection design, different types of implant specimens
+and their corresponding types of abutments were fabricated. The implant-abutment locking taper was
+uniformly 1.5°. The locking depths were 1.0, 2.0, and 3.0 mm. The diameters of the locking column
+were 2.5, 3.0, and 3.5 mm. The thicknesses of the outer wall of the implant were 0.15 and 0.30 mm.
+The loading forces of the testing machine were 200, 300, and 400 N. At least 10 specimens of each
+group of implant-abutment were used. All specimens were loaded in the same manner using a universal
+testing machine (finger pressure + specified loading force, five times). The total height of the
+implant-abutment was measured before finger pressure, after finger pressure, and after the testing
+machine was loaded for five times to calculate the amount of sinking of the abutment. Finally, the
+implant and abutment were pulled apart using the universal testing machine, and the subluxation
+force was observed and recorded.
+
+RESULTS
+The test loading force, locking depth, and locking post diameter had an effect on the implant-abutment
+locking force and abutment subsidence. The implant-abutment locking force increased with the increase
+in the test loading force, locking depth, and locking post diameter (r=0.963, 0.607, and 0.372,
+respectively), with the test loading force having the most significant effect. Abutment subsidence
+increased with the increase in test loading force (r=0.645) and decreased with the increase in locking
+depth and locking post diameter (r=-0.807 and -0.280, respectively), with locking depth having the
+most significant effect on abutment subsidence. No significant correlation was found between the
+thickness of the outer wall of the implant and the change in the magnitude of the implant-abutment
+locking force. However, an increase in the thickness of the outer wall of the implant decreased the
+amount of abutment subsidence, which was inversely correlated.
+
+CONCLUSION
+The locking force of the implant-abutment can be increased by adjusting the design of the pure Morse
+taper connection implant-abutment connection, increasing the locking depth and locking post diameter,
+and increasing the amount and number of times the abutment is loaded during seating. Problems, such as
+loosening or detachment of the abutment, can be reduced. The recommended abutment to be loaded should
+be no less than five times during seating to prevent the abutment from sinking and causing changes in
+the occlusal relationship in the later stages. Preliminary occlusal adjustments should only be conducted
+in the early stages of the use of temporary restorations, and final restorations and occlusal
+adjustments are recommended to be performed after using the abutment for a period of time.
+
+KEYWORDS: abutment subsidence; dental implants; implant-abutment locking force; pure Morse taper connection
+MeSH: Dental Abutments; Dental Implant-Abutment Design; Dental Stress Analysis; Dental Implants;
+Stress, Mechanical; Humans
+
+=== ORIGINAL CHINESE ABSTRACT ===
+
+目的
+探究纯莫氏锥度连接种植系统种植体与基台锁结力大小及基台下沉量的影响因素。
+
+方法
+参考Bicon种植体基台连接设计，制作不同型号的种植体试件及其对应型号的基台，种植体—基台锁结锥度统一为1.5°，
+锁结深度分别为1.0、2.0、3.0 mm，锁结柱直径分别为2.5、3.0、3.5 mm，种植体外壁厚度分别为0.15、0.30 mm，
+实验机加载力分别为200、300、400 N，每组至少10枚种植体—基台试件。所有试件均采用万能实验机进行同样的加载
+方式（指压+指定加载力5次），分别于指压前、指压后、实验机加压5次后测量种植体—基台总高度，计算基台下沉量，
+最后采用万能实验机拉开种植体与基台，观察并记录其锁结力。
+
+结果
+实验加载力、锁结深度、锁结柱直径对种植体—基台锁结力及基台下沉量均有影响，种植体—基台锁结力随实验加载力、
+锁结深度、锁结柱直径的增加而增加（r=0.963、0.607、0.372），其中实验加载力对种植体—基台锁结力的影响最为
+显著。基台下沉量随着实验加载力的增加而增加（r=0.645），随锁结深度、锁结柱直径的增加而减少（r=−0.807、
+−0.280），锁结深度对基台下沉量的影响最为明显。种植体外壁厚度与种植体—基台锁结力大小的变化无明显的相关性，
+但种植体外壁厚度的增加会减少基台的下沉量，两者呈反比关系。
+
+结论
+通过调整纯莫氏锥度连接种植体—基台连接设计，增加锁结深度及锁结柱直径，增加基台就位时的加载力大小及加载次数，
+可以增加种植体—基台锁结力，减少基台松动甚至脱落等问题。同时为防止基台下沉导致后期咬合关系的改变，建议基台
+就位时加载次数不少于5次，同时建议使用临时修复体及早期只行初步咬合调整，在使用一段时间后再行最终修复及最终的
+咬合调整。
