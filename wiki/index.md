@@ -11,41 +11,46 @@ confidence: narrative-review
 <div align="center" style="margin: 0.25rem 0 1.5rem;">
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%; height:auto; display:block; max-width:1100px; margin:0 auto;">
   <title>LLM Wiki — Dentistry</title>
-  <desc>치과 임상논문 지식베이스 LLM Wiki 배너. 좌측 입을 벌려 이빨을 드러낸 악어 엠블럼, 중앙 제목과 한/영 부제, 우측 PDF→sources→wiki 3-tier 카드.</desc>
+  <desc>LLM Wiki — Clinical Dentopedia 배너. 좌측 악어↔피라냐 양면 착시 엠블럼(전체는 피라냐, 벌린 입은 악어), 중앙 제목과 영문 태그라인, 우측 PDF→sources→wiki 3-tier 카드.</desc>
   <rect x="1.5" y="1.5" width="1197" height="297" rx="22" fill="#F7F6F1" stroke="#E6E4DC" stroke-width="1.5"/>
-  <circle cx="160" cy="152" r="96" fill="#FFFFFF" stroke="#E6E4DC" stroke-width="1.5"/>
-  <circle cx="160" cy="152" r="88" fill="none" stroke="#8B2F44" stroke-width="2" opacity="0.20"/>
-  <g stroke-linejoin="round" stroke-linecap="round">
-    <path d="M112,148 C112,134 116,126 124,122 C132,118 150,116 168,116 C196,116 214,118 228,124 C232,127 230,132 224,133 L210,131 L120,143 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-    <path d="M118,158 C118,170 122,180 132,184 C150,190 178,188 200,180 L210,176 L126,164 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-    <path d="M195.5,132 L204.5,132 L200,144 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M175.5,135 L184.5,135 L180,147 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M155.5,137.7 L164.5,137.7 L160,149.7 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M135.5,140.3 L144.5,140.3 L140,152.3 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M119.5,142.4 L128.5,142.4 L124,153 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M191.5,174 L200.5,174 L196,163 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M171.5,171.1 L180.5,171.1 L176,160.1 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M151.5,168.3 L160.5,168.3 L156,157.3 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <path d="M133.5,165.7 L142.5,165.7 L138,154.7 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-    <circle cx="130" cy="125" r="5.5" fill="#FFFFFF" stroke="#8B2F44" stroke-width="2"/>
-    <circle cx="131" cy="125" r="2.2" fill="#8B2F44"/>
-    <ellipse cx="219" cy="121" rx="2.6" ry="1.7" fill="#8B2F44" opacity="0.75"/>
+  <!-- emblem (crocodile ↔ piranha bistable), scaled 1.5x about its center -->
+  <g transform="translate(160 152) scale(1.5) translate(-160 -152)">
+    <circle cx="160" cy="152" r="96" fill="#FFFFFF" stroke="#E6E4DC" stroke-width="1.5"/>
+    <circle cx="160" cy="152" r="88" fill="none" stroke="#8B2F44" stroke-width="2" opacity="0.20"/>
+    <g stroke-linejoin="round" stroke-linecap="round">
+      <path d="M116,150 L88,131 L100,151 L88,172 L120,160 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
+      <path d="M150,120 C150,102 161,97 173,101 L188,118 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
+      <path d="M150,184 L146,202 L166,190 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
+      <path d="M112,148 C112,134 116,126 124,122 C132,118 150,116 168,116 C196,116 214,118 228,124 C232,127 230,132 224,133 L210,131 L120,143 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
+      <path d="M118,158 C118,170 122,180 132,184 C150,190 178,188 200,180 L210,176 L126,164 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
+      <path d="M195.5,132 L204.5,132 L200,144 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M175.5,135 L184.5,135 L180,147 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M155.5,137.7 L164.5,137.7 L160,149.7 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M135.5,140.3 L144.5,140.3 L140,152.3 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M119.5,142.4 L128.5,142.4 L124,153 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M191.5,174 L200.5,174 L196,163 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M171.5,171.1 L180.5,171.1 L176,160.1 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M151.5,168.3 L160.5,168.3 L156,157.3 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <path d="M133.5,165.7 L142.5,165.7 L138,154.7 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
+      <circle cx="130" cy="125" r="5.5" fill="#FFFFFF" stroke="#8B2F44" stroke-width="2"/>
+      <circle cx="131" cy="125" r="2.2" fill="#8B2F44"/>
+      <ellipse cx="219" cy="121" rx="3" ry="2" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.4"/>
+    </g>
   </g>
   <defs>
     <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
   </defs>
-  <text x="300" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#D6453E">L</text>
-  <text x="355.2" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#DB7A26">L</text>
-  <text x="411.3" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#C99A1E">M</text>
-  <text x="523.5" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#3E9E54">W</text>
-  <text x="611.85" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#2E86C7">i</text>
-  <text x="645" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#5B53C9">k</text>
-  <text x="706.35" y="122" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#9A4FC7">i</text>
-  <text x="303" y="154" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" fill="#9A8F92">Large Language Model</text>
-  <line x1="303" y1="166" x2="528" y2="166" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
-  <text x="304" y="208" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="36" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
-  <text x="305" y="236" font-family="system-ui, -apple-system, sans-serif" font-size="18.75" letter-spacing="2.2" fill="#8B2F44" font-weight="600">DENTISTRY · EVIDENCE-BASED CLINICAL WIKI</text>
-  <text x="305" y="274" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="28.5" letter-spacing="1.5" fill="#5F5A50" font-weight="600">PDF&#160;&#160;→&#160;&#160;sources&#160;&#160;→&#160;&#160;wiki</text>
+  <text x="336" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#D6453E">L</text>
+  <text x="391.2" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#DB7A26">L</text>
+  <text x="447.3" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#C99A1E">M</text>
+  <text x="559.5" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#3E9E54">W</text>
+  <text x="647.85" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#2E86C7">i</text>
+  <text x="681" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#5B53C9">k</text>
+  <text x="742.35" y="118" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="90" font-weight="600" style="fill:#9A4FC7">i</text>
+  <text x="339" y="150" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="24" fill="#9A8F92">Large Language Model</text>
+  <line x1="339" y1="163" x2="564" y2="163" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
+  <text x="340" y="213" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#8B2F44" font-weight="700">Clinical Dentopedia:</text>
+  <text x="341" y="245" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="19" letter-spacing="0.3" fill="#5A4A52" font-weight="500">The Single Source of Truth for Evidence-Based Dentistry.</text>
   <g transform="translate(1012,150)">
     <g transform="rotate(-7) translate(-72,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#ECEBE4" stroke="#DCDAD0" stroke-width="1.5"/>
