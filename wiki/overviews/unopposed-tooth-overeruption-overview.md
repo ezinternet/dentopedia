@@ -16,6 +16,24 @@ relations:
     target: wang-2022-unopposed-molar-overeruption-implant-cbct
   - type: reinforces
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
+  - type: reinforces
+    target: craddock-2004-incidence-overeruption-occlusal-interferences-unopposed
+  - type: reinforces
+    target: kiliaridis-2000-vertical-position-rotation-tipping-molars
+  - type: reinforces
+    target: christou-2007-three-dimensional-changes-unopposed-molars-adults
+  - type: reinforces
+    target: lindskog-stokland-2012-changes-molar-position-missing-opposed
+  - type: reinforces
+    target: craddock-2007-overeruption-posterior-teeth-partial-occlusal
+  - type: reinforces
+    target: craddock-2006-deviation-broadrick-occlusal-curve-posterior
+  - type: reinforces
+    target: faggion-2011-evidence-restore-posterior-bounded-edentulous-grade
+  - type: reinforces
+    target: fujita-2009-supraposition-unopposed-molars-young-adult-rats
+  - type: reinforces
+    target: fujita-2010-overeruption-periodontally-affected-unopposed-rats
 ---
 
 ## 한국어 핵심요약
@@ -49,11 +67,11 @@ Synthesis of the unopposed-tooth overeruption cluster: unopposed posterior teeth
 The clinical query "대합치 없을 때 엔도치 크라운 vs 생활치 크라운 정출 차이?" collapses two distinct questions that must be answered separately.
 
 **Q1 — Does an unopposed tooth over-erupt at all?** Yes, usually, but not always and not much.
-- ~83% of unopposed posterior teeth over-erupt (Craddock & Youngson 2004; range 0.5–5.4 mm).
-- But **~18% never over-erupt** even over long unopposed periods (cited in [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]]).
+- ~83–84% of unopposed posterior teeth over-erupt ([[occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed]], Craddock & Youngson 2004; range 0–5.4 mm).
+- But **~18% never over-erupt** even over long unopposed periods ([[occlusion/kiliaridis-2000-vertical-position-rotation-tipping-molars]], Kiliaridis 2000: 18% no movement, only ~20–24% reach ≥2 mm; also cited in [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]]).
 - Magnitude is modest: [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] measured a mean **0.43 mm (max 0.75 mm) over ~9 months** by CBCT; **72% moved < 1 mm**. A minority are fast eruptors (one molar moved 2.56 mm in 9 months).
-- It is a **3D movement** — vertical migration + ~1.7° buccal tipping + rotation — not pure extrusion, so 2D cusp-height measures underestimate it.
-- It is **fastest in the early period** after antagonist loss, then slows (short-term 0.43 mm/9 mo ≈ long-term 0.8–0.9 mm/12 y).
+- It is a **3D movement** — vertical migration + ~1.7° buccal tipping + rotation — not pure extrusion, so 2D cusp-height measures underestimate it (Wang 2022; [[occlusion/christou-2007-three-dimensional-changes-unopposed-molars-adults]] documents the vertical+palatal 3D vector over a decade).
+- It is **fastest in the early period** after antagonist loss, then slows (short-term 0.43 mm/9 mo ≈ long-term 0.8–0.9 mm/12 y, [[occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed]]).
 
 **Q2 — Does it differ for an endodontically treated (실활치) vs vital (생활치) tooth, or with a crown?** No evidence of a difference, and a clear mechanistic reason for none.
 
@@ -70,12 +88,13 @@ The documented modifiers are NOT pulp vitality but:
 
 | Modifier | Effect | Source |
 |---|---|---|
-| **Age** | Younger → faster/larger overeruption | Livas background; rat models (Denese 2020) |
-| **Arch** | Maxillary unopposed teeth descend more than mandibular | Livas background |
-| **Antagonist contact** | Full lack of contact → more; partial-contact effect debated | Livas 2016 (partial ≈ retention) vs Craddock (≤30% ≈ none) |
-| **Periodontal status** | Periodontitis amplifies (human studies; inconsistent in animals) | Wang cohort (all perio); Fujita 2009 rat |
-| **Time since antagonist loss** | Fastest early, then plateaus | Wang vs long-term cohorts |
-| **Risk of ≥2 mm** | 4.9× over 12 years in unopposed molars | Livas background |
+| **Age** | Younger → faster/larger overeruption | [[occlusion/fujita-2009-supraposition-unopposed-molars-young-adult-rats]] (young ~2× adult, P<0.01); Livas background |
+| **Arch** | Maxillary unopposed teeth descend more than mandibular | [[occlusion/kiliaridis-2000-vertical-position-rotation-tipping-molars]]; Livas background |
+| **Antagonist contact** | Full lack of contact → more; partial-contact effect debated | Livas 2016 (partial ≈ retention) vs [[occlusion/craddock-2007-overeruption-posterior-teeth-partial-occlusal]] (partial ≈ none) |
+| **Periodontal status** | Periodontitis amplifies (human studies; animal confirmation) | Wang cohort (all perio); [[occlusion/fujita-2010-overeruption-periodontally-affected-unopposed-rats]] rat |
+| **Bone support** | Overeruption increases as alveolar bone height decreases | [[occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed]] |
+| **Time since antagonist loss** | Fastest early, then plateaus | Wang vs long-term cohorts (Christou, Lindskog-Stokland) |
+| **Risk of ≥2 mm** | 4.9× over 12 years in unopposed molars | [[occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed]] (95% CI 1.5–15.3) |
 
 ### Can it be prevented?
 
@@ -92,8 +111,22 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 ## Evidence Base (wiki pages)
 
+**Magnitude & natural history**
 - [[occlusion/wang-2022-unopposed-molar-overeruption-implant-cbct]] — Wang 2022, CBCT retrospective cohort (n=68 unopposed molars): 0.43 mm mean / 0.75 mm max overeruption + 1.7° buccal tipping over ~9 months; fastest early; 3D compound movement.
+- [[occlusion/craddock-2004-incidence-overeruption-occlusal-interferences-unopposed]] — Craddock & Youngson 2004, clinical retrospective (n=120): **the foundational incidence figure** — ~84% of unopposed posterior teeth over-erupt (0–5.4 mm); occlusal interferences in ~52%; overeruption extent only weakly associated with interference.
+- [[occlusion/kiliaridis-2000-vertical-position-rotation-tipping-molars]] — Kiliaridis 2000, cross-sectional (n=53, 84 molars unopposed ≥10 y): **~18% show no overeruption at all**, ~49–58% slight (<2 mm), ~20–24% moderate-to-severe (≥2 mm) — directly refutes "every unopposed tooth over-erupts."
+- [[occlusion/christou-2007-three-dimensional-changes-unopposed-molars-adults]] — Christou & Kiliaridis 2007, prospective (n=12 adults, 22 maxillary molars, mean 10.6 y): vertical 0.8 mm + palatal 0.9 mm 3D displacement — slow and clinically minor in a healthy periodontium over a decade.
+- [[occlusion/lindskog-stokland-2012-changes-molar-position-missing-opposed]] — Lindskog-Stokland 2012, prospective population cohort (292 women, 12 y panoramic): unopposed molars carry **4.9× risk of ≥2 mm overeruption** (95% CI 1.5–15.3); mean ~0.9 mm; overeruption increases as bone support decreases.
+
+**What modulates it**
+- [[occlusion/craddock-2007-overeruption-posterior-teeth-partial-occlusal]] — Craddock 2007, retrospective (n=91): partial occlusal contact does **not** prevent overeruption (no difference vs fully unopposed); partially-opposed teeth tip more — counters "partial contact protects."
+- [[occlusion/fujita-2009-supraposition-unopposed-molars-young-adult-rats]] — Fujita 2009, rat micro-CT: supraposition 262±135 µm (young) vs 125±108 µm (adult), P<0.01; alveolar bone follows the tooth only in the young — mechanistic basis for the **age effect**.
+- [[occlusion/fujita-2010-overeruption-periodontally-affected-unopposed-rats]] — Fujita 2010, adult-rat micro-CT: experimental periodontitis amplifies unopposed-molar overeruption — **periodontal status as a modifier**.
+
+**Clinical decision / evidence quality**
 - [[occlusion/livas-2016-fixed-retention-unopposed-molar-overeruption]] — Livas 2016, panoramic retrospective (n=65 Class II): fixed sectional retention no better than partial contact (~0.1 mm); consolidates overeruption epidemiology (4.9× ≥2 mm risk/12 y; 18% non-eruptors; maxilla > mandible; fastest early).
+- [[occlusion/craddock-2006-deviation-broadrick-occlusal-curve-posterior]] — Craddock 2006, retrospective (JOR): after posterior tooth loss the occlusal plane deviates from the ideal Broadrick curve through overeruption/tipping/drift — rehabilitation must account for the deranged curve.
+- [[occlusion/faggion-2011-evidence-restore-posterior-bounded-edentulous-grade]] — Faggion 2011, GRADE systematic review (J Dent): occlusal change after a posterior bounded edentulous space is limited (avg ≤2 mm) and the evidence is **VERY LOW** quality — tooth replacement is not automatically the mainstay of therapy (the evidence backbone for "risk-stratify, don't reflex-restore").
 
 ## Related Overviews
 
@@ -101,5 +134,6 @@ The practical implication: there is **no strong, low-cost mechanical fix** that 
 
 ## Evidence gaps / next ingests
 
-- **No PMC full text** held for the foundational papers — Craddock & Youngson 2004 (83% figure), Greenstein 2018 ("replace the second molar?" decision review), Fujita 2009 rat (periodontitis amplifies), Denese 2020 rat (age effect). PDFs would strengthen this cluster.
+- **Now held** (ingested 2026-06-25): Craddock & Youngson 2004 (83% figure), Kiliaridis 2000 (18% non-eruptors), Christou 2007 (3D), Lindskog-Stokland 2012 (4.9× risk, bone support), Craddock 2006/2007 (Broadrick curve; partial contact), Faggion 2011 (GRADE review), Fujita 2009/2010 rat (age; periodontitis). This cluster is now 11 pages deep.
+- **Still missing:** Greenstein 2018 ("replace the second molar?" decision review); Denese 2020 rat (age effect, to corroborate Fujita 2009). PDFs would round out the cluster.
 - **No paper** directly comparing endo-treated vs vital tooth overeruption (the originating clinical question) — would be the single highest-value addition.
