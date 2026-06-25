@@ -30,6 +30,7 @@ tags: [veneer, laminate-veneer, feldspathic, lithium-disilicate, zirconia, survi
 > - 무삭제(No-Prep) vs 통상(Conventional) 적응증(Chandode 2026): 둘 다 생존 91~100%(무삭제 평균 ~97% vs 통상 ~92%, 법랑질 접착 시 무삭제 성공률 최대 97.4%); 단 내인성 변색·부정정렬·큰 형태 수정은 무삭제 부적응(overcontour 위험) → 경쟁이 아닌 상호보완, 법랑질 중심 환자별 선택.
 > - 최소삭제 장기 실증(Reis 2025 case report): 법랑질 한정 ~0.2mm 치경부 삭제 + <0.5mm thin 장석 라미네이트가 12년+ 추적에서 파절·우식·과민·재수복 0 — Axis 3 최소침습 원칙(법랑질 confinement·≥50% 법랑질 본딩·≥70% 법랑질 변연)의 single-case 장기 근거.
 > - 제작 방식 축 확장(Basheer 2026 scoping, 30편·대부분 in-vitro): CAD/CAM 절삭과 3D 프린팅 적층 모두 임상 허용 변연적합(<120µm) 달성 — 밀링 LDS가 강도·색안정성 우수(빠름, 45~90분), 3D 프린팅은 적합·맞춤성 우수(특히 비니어, 단 90~150분·경도/색안정성 낮음); 비니어가 3D 프린팅 최대 기회 영역이나 장기 임상시험 부재.
+> - 합의문(Beuer 2025, SSRD/SEPES/PROSEC; 2편 SR+MA·35편 기반)이 위 메타분석 수치를 임상 권고로 전환: ① feldspathic·LRGC·LDS 모두 권고(LDS 합병증 최소), ② 가능한 한 법랑질 접착(상아질·기존수복물 접착은 장기 합병증↑), ③ 삭제 시 평평한 절치 피개(butt-joint)가 non-overlap·구개부 chamfer보다 실패율 낮음 — Axis 3의 무삭제/butt-joint 선택에 합의 수준 근거 추가. 후방 부분피개수복(PCR)까지 범위 확장(LDS 93.7%/RMC 89.3% 3년).
 
 ## One-line Summary
 
@@ -134,6 +135,8 @@ The critical caveat (El-Mowafy 2018, Gurel et al. data): regardless of overall p
 
 Klein et al. (2025) recorded preparation design across their 29-study cohort (no-prep, window/feather, butt joint, palatal chamfer; 4 arms used no-prep) but the data were insufficient for a separate meta-analysis. This is an evidence gap that future research must close.
 
+The SSRD/SEPES/PROSEC consensus (Beuer et al. 2025) — built directly on the Klein SR+MA — converts this into actionable guidance where the meta-analytic data fell short: when preparation is required, a **flat incisal overlapping (butt-joint)** design is preferred over non-overlapping or palatal-chamfer designs because it showed lower restoration failure rates, and clinicians should **decide in advance whether any preparation is needed at all** (prep vs non-prep) under an ethics-of-preservation framing. The consensus reaffirms enamel bonding as the governing constraint (echoing El-Mowafy/Gurel) and extends the minimally invasive principle to posterior partial coverage restorations (onlays/occlusal veneers; LDS 93.7% vs RMC 89.3% at 3 years).
+
 ### Axis 4 — Fabrication Technique
 
 Three foundational papers (Sorensen 1992, Sim 1993, Gonzalez-Martin 2024) collectively characterize the platinum foil vs refractory die divide:
@@ -232,3 +235,4 @@ Composite laminate veneers (Lim 2023: 88% survival, 24–97 months) are a legiti
 - [[veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations]] — narrative review giving Axis 3 a no-prep vs conventional indication map (survival 91–100%, no-prep ~97% vs CV ~92%, no-prep up to 97.4% on enamel) and the contraindication boundary (intrinsic discoloration / misalignment / major contour change → conventional); reframes the two as complementary, enamel-centered choices
 - [[veneers/reis-2025-minimally-invasive-feldspathic-laminate-12year-followup]] — 12+ year case report of thin (<0.5 mm) enamel-confined feldspathic laminates with zero complication; long-term clinical face on the Axis 1 feldspathic survival figure and the Axis 3 enamel-confinement / ≥50% enamel-bonding threshold
 - [[inlay/basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping]] — scoping review (30 studies, mostly in-vitro) mapping CAD/CAM milling vs 3D printing across inlays/onlays/veneers; extends Axis 4 fabrication to the digital milled-vs-printed divide (both ≤120 µm fit; milled = strength/speed, printed = adaptation/customization, veneers the top 3D-printing opportunity; no long-term trials). Primary category is inlay — only veneer-relevant findings integrated here
+- [[veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus]] — SSRD/SEPES/PROSEC consensus statement built on the Klein SR+MA; converts Axis 1/2 survival-complication data into clinical recommendations (recommend feldspathic/LRGC/LDS, bond to enamel, prefer butt-joint when preparing) and extends scope to posterior partial coverage restorations. Adds the consensus-level "what to do" layer to Axis 3
