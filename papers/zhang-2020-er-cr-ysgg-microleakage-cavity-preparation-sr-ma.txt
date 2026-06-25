@@ -1,0 +1,33 @@
+Does Er,Cr:YSGG reduce the microleakage of restorations when used for cavity preparation? A systematic review and meta-analysis
+Zhang Y, Chen W, Zhang J, Li Y.
+BMC Oral Health. 2020 Oct 6;20(1):269. doi:10.1186/s12903-020-01252-x
+PMID: 33023550  PMCID: PMC7541249
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC7541249/
+(Full text retrieved from PubMed Central via PubMed MCP.)
+
+== ABSTRACT ==
+Background: Er,Cr:YSGG (Erbium, Chromium: Yttrium Scandium Gallium Garnet) laser has FDA approval for caries removal and cavity preparation. Controversy remains over whether laser preparation reduces restoration microleakage vs traditional burs. First SR+MA comparing microleakage of Er,Cr:YSGG-prepared vs bur-prepared cavities, plus effect of acid etching on adhesion after laser preparation.
+Methods: Search of PubMed, EBSCO, Embase, Cochrane CENTRAL.
+Results: 357 articles → 13 included, 11 meta-analyzed. All moderate risk of bias. No significant difference between Er,Cr:YSGG and traditional bur in microleakage incidence. Self-etch adhesives + prior acid etching showed less microleakage than without acid etching in laser-prepared cavities.
+Conclusions: Current studies do NOT support beneficial effects of Er,Cr:YSGG preparation on microleakage. Additional acid etching with self-etch adhesives is recommended after Er,Cr:YSGG preparation.
+
+== FULL TEXT (key sections) ==
+
+BACKGROUND
+Minimally invasive dentistry popularized new tools. Er,Cr:YSGG laser has FDA approval for caries removal/cavity preparation. Vs traditional burs, the laser does not contact tooth directly, with less vibration, noise, pressure, and thermal damage; alters cavity surface topography (may improve adhesion). Evidence on microleakage is contradictory. Aim: (1) microleakage of Er,Cr:YSGG- vs bur-prepared cavities; (2) effect of prior acid etching on self-etch and etch-and-rinse adhesives after laser preparation.
+
+METHODS
+PRISMA SR+MA. PICO question: during cavity preparation, does Er,Cr:YSGG produce less restoration microleakage than traditional burs? Search to July 2019; no language restriction. Two blinded reviewers (Cohen κ=0.93). Inclusion: RCT/quasi-RCT, human teeth, dropout <20%, comparing bur vs Er,Cr:YSGG microleakage, and laser±acid etching. RevMan 5.3, RR/MD with 95% CI; I²>50% → random-effects. Cochrane risk-of-bias tool (7 domains).
+
+RESULTS
+357 → 170 (dedup) → 21 full text → 13 included (11 meta-analyzed). Published 2001–2018 (5 Iran, 2 Turkey, 2 Brazil, others Germany/Spain/India). 5 studies primary teeth; Class V cavities in 10/13. All moderate risk of bias; only 1 described randomization, 5 described blinding of outcome assessment.
+PRIMARY (microleakage, laser vs bur): significant heterogeneity (I²=80%, p<0.00001). Random-effects: NO significant difference overall — dentin margin RR=1.26 (95% CI 0.67–2.38, p=0.47); whole margin RR=1.27 (0.44–3.67, p=0.66); microleakage slightly higher in bur groups but NS. Enamel margin: insignificant increase in laser group RR=0.87 (0.60–1.27, p=0.47). Geraldo-Martins reported HIGHER microleakage in laser group (used carious teeth; laser incompletely removed caries).
+SECONDARY (acid etching after laser, 4 studies): prior acid etching significantly improved adhesion / reduced microleakage with SELF-ETCH adhesives (I²=0%, RR=2.69, 95% CI 1.74–4.15, p<0.00001; enamel RR=3.0 [1.54–5.83]; dentin RR=2.44 [1.38–4.34]). NOT significant for etch-and-rinse adhesives (I²=81%, RR=1.18 [0.63–2.22], p=0.60).
+
+DISCUSSION
+Microleakage = bacteria/fluid/ion passage through marginal gaps → secondary caries, pulpal infection. Burs remain the most common preparation method but generate heat/pressure (pain, pulpal damage without adequate cooling). Er,Cr:YSGG cuts enamel/dentin with less vibration/noise/pain and, with water-mist spray, avoids adverse pulp thermal effects — BUT laser parameters (repetition rate, air-water ratio, mean power) are critical; overheating causes cracks/carbonization. Laser ablation produces irregular, rough, moist surface with exposed dentinal tubules, intact enamel rods, no smear layer (may aid adhesion); but enamel melting/acid-resistant surface and collagen fusion in dentin can limit adhesive penetration (impairing bonding). Net microleakage equivalence to bur. All included studies were in vitro using dye penetration. Heterogeneity from tooth/cavity/restoration/adhesive/parameter variability.
+Acid etching: lack of water after laser preparation impairs self-etch etching capacity; additional acid etching removes the laser-modified layer, increases wettability, aids hybrid layer → reduces microleakage. (Obeidi: optimal etch 40 s, not 60 s.)
+Limitations: restorative-material shrinkage differences; adhesive heterogeneity; mostly sound (not carious) teeth as models; under-reported laser parameters.
+
+CONCLUSIONS
+Er,Cr:YSGG laser application produced microleakage SIMILAR to a traditional bur, irrespective of tooth/cavity type and restorative material. Adjunctive acid etching is recommended with self-etch adhesives after Er,Cr:YSGG preparation. Further high-quality RCTs needed.
