@@ -1,0 +1,20 @@
+Comparing One-Stage Versus Two-Stage Ridge Splitting Procedures: A Systematic Review and Meta-Analysis
+
+Khanum Z, Shobha ES, Nainoor N, Shaju N
+J Maxillofac Oral Surg. 2024.
+DOI: 10.1007/s12663-024-02240-2
+PMID: 41306229  PMCID: PMC12644376
+
+[ABSTRACT-ONLY — PMC get_full_text_article returned empty body; full text not retrieved]
+
+Aim
+To determine, summarize, assess and compare one-stage with two-stage ridge split procedures by systematically reviewing the existing scientific literature in adults with a novel meta-analysis.
+
+Methods
+This review was performed in accordance with Preferred Reporting Items for the Systematic Reviews and Meta-Analysis (PRISMA) guidelines. The PubMed, Google Scholar and EBSCO Host databases were searched from January 2000 to December 2021 for prospective and follow-up studies that compared one-stage and two-stage ridge split procedures and reported the outcome in terms of mean and standard deviation (SD). Quality assessment of included studies was done using Newcastle Ottawa Scale through its domains and that of included case reports was done using the critical checklist recommended by the Joanna Briggs Institute (JBI). The standardized mean difference (SDM) was used as summary statistic measure with random effect model and value < 0.05 as statistically significant.
+
+Results
+Eleven studies fulfilling the eligibility criteria were included in qualitative synthesis, of which, three studies were suitable for meta-analysis. All the included studies had moderate to high risk of bias. The pooled estimate through the Standardized Mean Difference (SMD) on an average favours 0.89 times more to one-stage ridge split compared to two-stage ridge split. In addition, most results of heterogeneity tests were poor and most of the funnel plots showed asymmetry, indicating presence of possible publication bias.
+
+Conclusion
+The results of our meta-analysis suggests that one-stage ridge split is superior to two-stage ridge split on a comparative analysis.
