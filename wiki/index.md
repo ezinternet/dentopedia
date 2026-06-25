@@ -31,11 +31,24 @@ confidence: narrative-review
     <circle cx="131" cy="125" r="2.2" fill="#8B2F44"/>
     <ellipse cx="219" cy="121" rx="2.6" ry="1.7" fill="#8B2F44" opacity="0.75"/>
   </g>
-  <text x="300" y="150" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="600" fill="#2B2230">LLM Wiki</text>
-  <line x1="302" y1="172" x2="452" y2="172" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
-  <text x="304" y="206" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="26" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
-  <text x="305" y="238" font-family="system-ui, -apple-system, sans-serif" font-size="13.5" letter-spacing="2.4" fill="#8B2F44" font-weight="600">DENTISTRY · EVIDENCE-BASED CLINICAL WIKI</text>
-  <text x="305" y="266" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="13" letter-spacing="1" fill="#8A8579">PDF&#160;&#160;→&#160;&#160;sources&#160;&#160;→&#160;&#160;wiki</text>
+  <defs>
+    <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
+    <linearGradient id="llmTitleRainbow" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#E84B4B"/>
+      <stop offset="0.17" stop-color="#EE8C3C"/>
+      <stop offset="0.34" stop-color="#E6C13A"/>
+      <stop offset="0.5" stop-color="#4CB05B"/>
+      <stop offset="0.66" stop-color="#3E97D6"/>
+      <stop offset="0.83" stop-color="#5B5BD6"/>
+      <stop offset="1" stop-color="#9B57D4"/>
+    </linearGradient>
+  </defs>
+  <text x="300" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" letter-spacing="1.5" fill="url(#llmTitleRainbow)">LLM Wiki</text>
+  <text x="303" y="166" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="16" fill="#9A8F92">Large Language Model</text>
+  <line x1="303" y1="180" x2="452" y2="180" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
+  <text x="304" y="209" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="24" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
+  <text x="305" y="234" font-family="system-ui, -apple-system, sans-serif" font-size="12.5" letter-spacing="2.2" fill="#8B2F44" font-weight="600">DENTISTRY · EVIDENCE-BASED CLINICAL WIKI</text>
+  <text x="305" y="268" font-family="ui-monospace, 'SF Mono', Menlo, monospace" font-size="19" letter-spacing="1.5" fill="#5F5A50" font-weight="600">PDF&#160;&#160;→&#160;&#160;sources&#160;&#160;→&#160;&#160;wiki</text>
   <g transform="translate(1012,150)">
     <g transform="rotate(-7) translate(-72,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#ECEBE4" stroke="#DCDAD0" stroke-width="1.5"/>
