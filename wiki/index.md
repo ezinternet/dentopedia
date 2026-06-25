@@ -48,25 +48,25 @@ confidence: narrative-review
   <text x="750" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#5B53C9">k</text>
   <text x="823.62" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#9A4FC7">i</text>
   <line x1="339" y1="156" x2="564" y2="156" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
-  <text x="340" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="34" fill="#DE3D7A" font-weight="700">Clinical Dentopedia:</text>
-  <text x="341" y="238" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="19" letter-spacing="0.3" fill="#5A4A52" font-weight="500">The Single Source of Truth for Evidence-Based Dentistry.</text>
+  <text x="340" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="34" style="fill:#DE3D7A" font-weight="700">Clinical Dentopedia:</text>
+  <text x="341" y="238" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="19" letter-spacing="0.3" style="fill:#5A4A52" font-weight="500">The Single Source of Truth for Evidence-Based Dentistry.</text>
   <g transform="translate(1012,150)">
     <g transform="rotate(-7) translate(-72,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#ECEBE4" stroke="#DCDAD0" stroke-width="1.5"/>
-      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" fill="#9A958A" font-weight="600">PDF</text>
+      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" style="fill:#9A958A" font-weight="600">PDF</text>
     </g>
     <g transform="rotate(-1) translate(-66,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#F2E4E8" stroke="#E2C9D0" stroke-width="1.5"/>
-      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" fill="#9C4257" font-weight="600">SOURCES</text>
+      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" style="fill:#9C4257" font-weight="600">SOURCES</text>
     </g>
     <g transform="rotate(6) translate(-58,-56)">
       <rect x="0" y="0" width="146" height="116" rx="12" fill="#FFFFFF" stroke="#D6D4CA" stroke-width="1.5"/>
-      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" fill="#8B2F44" font-weight="700">WIKI</text>
+      <text x="14" y="28" font-family="system-ui, sans-serif" font-size="18" letter-spacing="1.5" style="fill:#8B2F44" font-weight="700">WIKI</text>
       <rect x="14" y="42" width="106" height="7" rx="3.5" fill="#ECE7E2"/>
       <rect x="14" y="56" width="86" height="7" rx="3.5" fill="#ECE7E2"/>
       <rect x="14" y="70" width="96" height="7" rx="3.5" fill="#ECE7E2"/>
       <rect x="14" y="88" width="56" height="20" rx="10" fill="#F2E4E8"/>
-      <text x="22" y="103" font-family="system-ui, sans-serif" font-size="13.5" letter-spacing="0.5" fill="#8B2F44" font-weight="600">High</text>
+      <text x="22" y="103" font-family="system-ui, sans-serif" font-size="13.5" letter-spacing="0.5" style="fill:#8B2F44" font-weight="600">High</text>
     </g>
   </g>
 </svg>
