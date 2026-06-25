@@ -34,7 +34,13 @@ confidence: narrative-review
   <defs>
     <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
   </defs>
-  <text x="300" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" letter-spacing="1.5"><tspan fill="#D6453E">L</tspan><tspan fill="#DC7A2A">L</tspan><tspan fill="#C99A1E">M</tspan><tspan fill="#3E9E54"> W</tspan><tspan fill="#2E86C7">i</tspan><tspan fill="#5B53C9">k</tspan><tspan fill="#9A4FC7">i</tspan></text>
+  <text x="300" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#D6453E">L</text>
+  <text x="336.8" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#DB7A26">L</text>
+  <text x="374.2" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#C99A1E">M</text>
+  <text x="449" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#3E9E54">W</text>
+  <text x="507.9" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#2E86C7">i</text>
+  <text x="530" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#5B53C9">k</text>
+  <text x="570.9" y="140" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="60" font-weight="600" style="fill:#9A4FC7">i</text>
   <text x="303" y="166" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="16" fill="#9A8F92">Large Language Model</text>
   <line x1="303" y1="180" x2="452" y2="180" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
   <text x="304" y="209" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="24" fill="#5A4A52">치과 임상 논문 지식 베이스</text>
