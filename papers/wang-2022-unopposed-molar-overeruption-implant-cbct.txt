@@ -1,0 +1,88 @@
+Three-dimensional position changes of unopposed molars before implant rehabilitation: a short-term retrospective cohort analysis
+
+Authors: Anqi Wang, Jie Cao, Haoyun Zhang, Bo Zhang, Gang Yang, Wenjie Hu, Kwok-Hung Chung
+Journal: BMC Oral Health. 2022 Dec 3;22(1):562.
+PMID: 36463135  PMCID: PMC9719205  DOI: 10.1186/s12903-022-02619-y
+
+== ABSTRACT ==
+
+Objective: To investigate the spatial changes of unopposed molars within the period between the antagonist extraction and the final implant restoration using data from cone beam computed tomography.
+
+Methods: A total of 59 patients with 68 unopposed molars were included in this study. Three-dimensional models reconstructed from cone beam computed tomography data before and after loss of the antagonist were superimposed to measure the spatial changes. The overeruption and tipping of target teeth were calculated by coordinate values.
+
+Results: The result of overeruption over the study period (9.2 +/- 4.3 months) was expressed by two values: the mean overeruption of molar cusps (0.432 mm) and the maximum overeruption of cusps (0.753 mm), which were statistically significant compared to the baseline level (< 0.001). The average tipping was 1.717 degrees in the buccal direction.
+
+Conclusions: Unopposed molars displayed overeruption throughout the study period (9.2 +/- 4.3 months), which indicates that the clinicians should pay attention to the possibilities of overeruption and make appropriate interventions in their clinical practice. The establishment of three-dimensional measuring methods using cone beam computed tomography data helps analyze spatial changes.
+
+== BACKGROUND ==
+
+Periodontal disease is one of the two major causes of tooth loss. Molars are commonly involved because of the burden of occlusal function, difficulties in plaque control, and complex anatomical structures such as root furcation. Implant therapy is one of the most common treatment options to replace missing teeth. Severe periodontitis often causes significant hard and soft tissue defects, therefore usually requiring soft and hard tissue augmentation or ridge preservation to maintain the alveolar socket contour before implant placement. Nevertheless, there must be a healing period of at least six months before implant placement surgery, and the entire implant restoration period is about 9-12 months.
+
+Missing molars that remain unrestored can break the balance within the stomatognathic system; with this in mind, there is a common belief among dentists that spatial changes can occur in the molars adjacent or opposed to the edentulous areas. However, some relevant studies have been skeptical of the amount of occlusal change expected after tooth extraction, and whether such changes have a significant effect on long-term occlusal stability. The overeruption of unopposed molars may cause occlusal interferences and complicate the replacement of the missing tooth. This will be a critical consideration when implant therapy is planned. Previous studies reported the extent and prevalence of overeruption in unopposed molars. However, limited by their cross-sectional designs, it is hard to distinguish whether overeruption is a true positional change or a pre-existing difference in tooth position. A few cohort studies focused on spatial changes in the vertical direction of molars before and after antagonist loss. An average overeruption of 0.8-0.9 mm was found after a ten-year follow-up. Several factors were reported associated with the spatial changes of overeruption of tooth, such as the age when the antagonist teeth were lost, arch location, and severity/duration of periodontal disease. Nevertheless, the overeruption of a molar is potentially a complicated spatial movement, involving not only vertical migration, but also tipping and rotation. Cone-beam computed tomography (CBCT) is now generally used to obtain 3-dimensional (3D) information for related measurements.
+
+The aim of the study was to establish a method for 3D measurements of overeruption based on CBCT measurements to investigate the spatial changes of unopposed molars within the period between the antagonist extraction and the final implant restoration.
+
+== METHODS ==
+
+Subjects: Retrospective cohort study. Subjects were selected from 321 patients with one or more missing molars seeking replacement and rehabilitation by implant restoration; these patients visited the Department of Periodontology, Peking University School and Hospital of Stomatology from January 2013 to December 2020. Molars opposing the missing molars were selected as target teeth.
+
+Inclusion criteria: (a) >= 25 years old; (b) at least one molar missing, with records showing the time of extraction clearly, as well as evidence of the existing antagonist teeth; (c) the unopposed teeth had no contact with any opposite teeth according to the plaster models and clinical occlusal photographs; (d) CBCT radiographs including the target teeth within three months before extraction of the antagonist (baseline) and after extraction.
+
+Exclusion: (a) wore an occlusal guard; (b) had a history of orthodontic treatment prior to the tooth extraction; (c) history of drug therapy or radiation therapy that severely affects bone metabolism; (d) uncontrolled systemic diseases.
+
+All the patients in the study had periodontitis. 69.5% of the patients were diagnosed as stage 3, grade C according to new classification. Initially 146 patients were not included due to lacking records showing the time of extraction; 6 excluded because of orthodontic history or the tooth extracted without any antagonist teeth; screening for CBCT radiographs reduced sample by 67 patients; plaster models / clinical occlusal photographs excluded 43 patients. Finally a total of 59 patients with 68 target teeth were included.
+
+3D measurement: Pre-operative CBCT (New Tom 9000) within 3 months before extracting the antagonist (T0). Postoperative CBCT before the definitive restoration (T1). DICOM imported into Mimics 20.0; 3D models of Crown, Root, Alveolar bone segmented by thresholds and united (Boolean). STL files generated. Postoperative (T1) superimposed on pre-operative (T0) using automated surface best-fit (iterative closest point) in Geomagic Control 2015. Align area = all crowns of the dentition except target teeth, plus stable alveolar bone not containing the alveolar crest / open window.
+
+3D coordinate system (per Chen et al.): three mutually perpendicular reference planes on baseline model (T0): Occlusal Plane (matching all cusp tips of posterior teeth in the quadrant), Mesio-Distal Plane, Bucco-Lingual Plane. z-axis perpendicular to Occlusal Plane through midpoint of line connecting midpoints of mesial and distal marginal crests; original point = meeting point of z-axis and Occlusal Plane (assigned 0). Positive directions: mesial (x), lingual (y), occlusal (z).
+
+Reference points / parameters:
+- Centroid of cusp tips (CC) = average coordinate values of all cusp tips.
+- Centroid of apex (CA) = average coordinate values of root apex.
+- Tooth axis = vector CA to CC.
+- Mean overeruption of cusps (OEmean): occlusal movement of centroid of cusp tips in z-axis direction between T0 and T1.
+- Maximum overeruption of cusps (OEmax): maximum displacement among cusp tips in z-axis direction.
+- Bucco-Lingual tipping angle (BLT), Mesio-Distal tipping angle (MDT); change values cBLT and cMDT.
+
+Statistics: SPSS 22.0; tooth-level analysis. One-sample t-test vs zero reference. One-way ANOVA to compare overeruption/tipping among molar types (alpha = 0.05).
+
+Error of method: Repeated on 10 randomly selected subjects after 2 weeks. ICC = 0.965 (OEmean) and 0.973 (OEmax). Dahlberg method error: OEmean 0.074 mm, OEmax 0.092 mm. STROBE-compliant.
+
+== RESULTS ==
+
+Sample: 59 patients, 68 teeth (48 teeth male, 20 teeth female). Mean age when the tooth was unopposed = 48.8 years (SD 8.5, range 30-78). Mean follow-up time t = 9.1 months (SD 4.3).
+
+Overeruption and tipping (all target teeth):
+- Average OEmean of unopposed molars = 0.432 mm (statistically significant, p < 0.001).
+- Average OEmax = 0.753 mm (statistically significant).
+- Average tipping = 1.717 degrees in the buccal direction; cMDT not statistically significant.
+- OEmax mostly observed at lingual or palatal cusps.
+
+Distribution:
+- Most teeth (69.1%) showed buccal tipping; tipping directions evenly distributed on mesial and distal sides.
+- One-way ANOVA: no significant differences for different molar types in OE, cMDT, cBLT.
+- Two upper second molars had OEmax > 2 mm; largest OEmax (2.555 mm) appeared in only 9 months.
+- Most teeth (72.1%) had OEmax < 1 mm.
+- Degrees of tipping: 90.0% within 5 degrees.
+- Teeth with negative OE values corresponded to large absolute cBLT (tipping explains the negative vertical value).
+
+== DISCUSSION ==
+
+Molars without an antagonist underwent spatial changes / overeruption during follow-up (9.2 +/- 4.3 months). Even if the molar was restored with implant-retained or conventional fixed/removable prosthesis within one year after extraction, its opposing tooth may still have had a small amount of overeruption towards the occlusal direction at the edentulous site. Space management must be considered when implant restorations are planned for molars that need to be extracted.
+
+Mean overeruption 0.432 mm and maximum 0.753 mm during ~9 months. Previous cohort studies observed overeruption over long periods of antagonist loss (6.9-12 years) with larger amounts (mean 0.8-0.9 mm). Lindskog-Stokland et al. showed approx. 0.9 mm over 12 years. It can be speculated that the extent of overeruption may be greatest in the initial period of time.
+
+Average tipping 1.7 degrees buccal; OEmax mostly (69.1%) at lingual/palatal cusps. This contrasts with a previous study showing greater eruption of the vestibular side and rotation to palatal. Reason unclear; may relate to different study populations. Tipping movement may partially explain negative OE values.
+
+Participants were all periodontitis patients. Periodontal conditions are associated with overeruption; larger extent of overeruption found in patients with periodontitis (though prior samples small, 10 and 4 cases). Further investigation required for local periodontal parameters and overeruption.
+
+Limitations: descriptive of overeruption/tipping value; small sample size; precludes multivariate analysis with predictive factors (including age in regression). Predictive factors should be analyzed in larger studies.
+
+== CONCLUSIONS ==
+
+- A method of 3D measurements of overeruption based on CBCT imaging was established.
+- The overeruption of unopposed molars is a complicated spatial movement, involving not only vertical migration, but also tipping and rotation.
+- Teeth displayed overeruption over a short study period (9.2 +/- 4.3 months).
+- Buccal displacement of unopposed molars was observed.
+
+Source: Retrieved from PubMed Central (PMC9719205). DOI: 10.1186/s12903-022-02619-y
