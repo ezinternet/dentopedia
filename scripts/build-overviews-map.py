@@ -56,7 +56,7 @@ DOMAINS = [
         "plaque-control", "oral-hygiene", "interdental-cleaning", "interdental",
         "periodontal", "biofilm-management", "gbt", "air-polishing"]),
     ("교합 · TMJ · 이갈이", [
-        "bruxism", "tmd-", "unilateral-mastication"]),
+        "bruxism", "tmd-", "unilateral-mastication", "overeruption", "unopposed-tooth"]),
     ("보철 · 수복재료 · 심미", [
         "adhesive-bonding", "ceramic-bonding", "crown-preparation", "dental-materials",
         "direct-resin", "immediate-dentin", "lithium-disilicate", "prosthetic-materials",
