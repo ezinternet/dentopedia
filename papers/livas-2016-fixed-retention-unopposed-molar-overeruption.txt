@@ -1,0 +1,67 @@
+Does fixed retention prevent overeruption of unopposed mandibular second molars in maxillary first molar extraction cases?
+
+Authors: Christos Livas, Demetrios J. Halazonetis, Johan W. Booij, Christos Katsaros, Yijin Ren
+Journal: Progress in Orthodontics. 2016;17:6.
+PMID: 26798065  PMCID: PMC4722044  DOI: 10.1186/s40510-016-0119-z
+
+== ABSTRACT ==
+
+Background: The objective of this study was to investigate whether multistranded fixed retainers prevented overeruption of unopposed mandibular second molars in maxillary first molar extraction cases.
+
+Methods: The panoramic radiographs of 65 Class II Division 1 Caucasian Whites (28 females, 37 males) consecutively treated with bilateral maxillary first molar extraction and the Begg technique, and with records taken after treatment (T1) and in retention (T2), were withdrawn from private practice records. After appliance removal, mandibular second molars were retained with sectional wires till at least T2 in case of lack of occlusal contact with the antagonist. The subjects were assigned to study-retention and control-nonretention groups based on the retention status of mandibular second molars. Radiographic analysis was carried out to determine inclination of mandibular molars and the resulting movement of second molar centroids.
+
+Results: No statistically significant differences in molar inclination were observed between groups and timepoints (> 0.05). There were no statistically significant differences in molar movement percentages (> 0.05) irrespective of whether fixed retention had been used or not.
+
+Conclusions: No significant eruption occurred in unopposed mandibular second molars bonded with fixed sectional retainers compared to molars partially occluded with the antagonists without fixed retention. Given the study limitations, fixed retention should be considered with caution in restricting tooth overeruption in unopposed molars.
+
+== BACKGROUND ==
+
+A plethora of terms including overeruption, hypereruption, supraeruption, supereruption, and continuous eruption have been used to describe the tendency of tooth movement in an occlusal direction following loss of antagonist contact. This phenomenon has been claimed to induce occlusal interferences and changes in the dental equilibrium.
+
+Key prior evidence cited:
+- A 12-year study in females with missing opposed and/or adjacent molars showed 4.9 times higher risk of overeruption of >= 2 mm in unopposed molars.
+- Not all teeth without antagonist necessarily overerupt: 18% of long-term unopposed teeth exhibited no signs of overeruption.
+- Maxillary unopposed teeth appear to migrate vertically MORE than mandibular, with eruption most pronounced during the first years after loss of the opposed tooth.
+- Age and periodontal condition may be associated with severity: higher incidence of severe overeruption in younger age and periodontally affected groups. Unlike young age, compromised periodontal condition was NOT associated with severity of changes in animal experiments.
+- A recent systematic review on treatment need for posterior bounded edentulous spaces showed overeruption was limited to 2 mm for most studies; quality of evidence very low; tooth replacement should not be considered the mainstay of therapy.
+
+Placement of etched metal splints on the lingual surfaces of unopposed molars has been recommended to counteract tooth extrusion. In the Class II Division 1 maxillary-first-molar-extraction technique, multistranded sectional wires are bonded on mandibular first and second molars to prevent vertical displacement of out-of-occlusion second molars (which would otherwise erupt as maxillary third molars erupt late). No clinical study had previously explored potential overeruption of nonoccluding teeth retained with sectional wires.
+
+== METHODS ==
+
+65 consecutively treated Class II Division 1 cases (28 females, 37 males) from a private practice archive; subgroup of a prospective clinical study. Inclusion: Caucasian Whites, overjet >= 4 mm, no missing tooth or agenesis (incl. maxillary third molars), permanent dentition, panoramic radiographs after treatment (T1) and at follow-up (T2), treatment with 2-maxillary-first-molar extraction and Begg fixed appliances.
+
+If a mandibular second molar had not occluded with antagonists at appliance removal, 0.195-in. buccal retention wires (Wildcat, GAC) were placed on the mandibular first and second molars to inhibit unwanted vertical tooth movement of teeth without occlusal contacts.
+
+Groups (by presence of bonded buccal retainers at T1, T2):
+- Study-retention group: 12 females, 18 males; mean age at T1 15.2 years (SD 1.6).
+- Control-nonretention group: 16 females, 19 males; mean age at T1 16.2 years (SD 1.7).
+
+Panoramic radiographs scanned at 600 dpi and traced (Viewbox 3.0). Centroids of mandibular right/left second molars represented the molar teeth. 77 outline points digitized (11 on premolar occlusal surface, 33 on each molar etc.). Centroid transferred from T2 to T1 by Procrustes and best-fit superimpositions. Molar movement expressed as a PERCENTAGE of mesiodistal crown size (panoramic radiography cannot give absolute linear measurements): 37 V/MD, 47 V/MD. Assuming an average molar width of 11 mm, 1% of tooth movement = 0.11 mm. Molar inclination measured relative to the mandibular plane (MP).
+
+Statistics: StatsDirect 2.7.2; normality and equality of variance tested; parametric (paired/unpaired t) or nonparametric (Mann-Whitney, Wilcoxon signed-rank) tests as appropriate; significance 5%. Reproducibility: 25 randomly selected pairs of tracings replicated 2 weeks later.
+
+== RESULTS ==
+
+Reproducibility (Bland-Altman): mean difference for repeated 37 V/MD and 47 V/MD = 0.19 +/- 4.24% (95% CI -8.12 to 8.51) and 0.92 +/- 3.40% (95% CI -7.58 to 5.75).
+
+- T1 molar inclination: no significant differences between retention and nonretention groups (> 0.05). Mandibular left molars with fixed retention slightly more mesially inclined; trends persisted at T2 without significance.
+- No significant differences between T1 and T2 for either molar inclination angles or movement percentages (> 0.05).
+- On average, ALL molars overerupted during the observation period, with this tendency more prominent (though NOT statistically significant) in the NONretention molars.
+- Overeruption percentages T1-T2: 0.5-1.0% (retention) and 1.1-1.2% (nonretention) of mandibular second molars -> clinically insignificant changes of a tenth of a millimetre.
+
+== DISCUSSION ==
+
+A common belief among dental professionals is that molars without antagonists overerupt and cause long-term problems. A questionnaire survey: 85% of dentists believed overeruption of nonoccluding molars would occur, and more than half considered prosthodontics in the opposing arch necessary to fill the edentulous space.
+
+This study showed statistically nonsignificant changes in molar positions (mandibular plane and centroid movement along long axis) regardless of whether sectional bonded retainers had been used. Slightly lower but not significant overeruption in retention vs control molars.
+
+Interpretation: the multistranded retention wires restrained eruptive movement of unopposed second molars; BUT the partial tooth contact with antagonists in the control group appeared to be as efficient in preventing the eruptive tendency as fixed retention. This contrasts with Craddock, who found that teeth with partial tooth contact of 30% or less occlusal overlap displayed a similar degree of overeruption as those without contact (adults missing teeth > 5 years) -- i.e., partial contact should NOT be relied on.
+
+Limitations: retrospective; no sample size calculation; panoramic-radiograph distortions; assumption that adjacent teeth had not moved (may explain negative vertical displacement values); molar root growth in younger subjects; possible mechanical deformation of retention wires from biting hard food (increased intermolar span). On current evidence, placement of multistranded retention wires, though appearing to restrict overeruption, cannot be fully warranted.
+
+== CONCLUSIONS ==
+
+Significant changes in the eruptive movement of unopposed mandibular second molars bonded with fixed sectional retainers did NOT occur during the observation period compared to nonretention counterparts with partial contact. The use of fixed retainers to prevent the general eruptive tendency of nonoccluding molars may be effective but should be approached with caution.
+
+Source: Retrieved from PubMed Central (PMC4722044). DOI: 10.1186/s40510-016-0119-z
