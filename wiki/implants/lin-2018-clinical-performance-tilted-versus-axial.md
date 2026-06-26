@@ -9,6 +9,8 @@ source: lin-2018-clinical-performance-tilted-versus-axial.md
 category: [implants]
 confidence: sr
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/lin-2018-clinical-performance-tilted-versus-axial.txt
+text_filename: lin-2018-clinical-performance-tilted-versus-axial.txt
 full_text: false
 tags: [tilted-implant, axial-implant, edentulous, systematic-review, survival, marginal-bone-loss]
 ---
