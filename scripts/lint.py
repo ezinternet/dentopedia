@@ -22,7 +22,7 @@ except ImportError:
 
 WIKI_DIR = "wiki"
 SKIP_DIRS = {"_lint", "overviews", "evidence-appraisal"}
-SKIP_FILES = {"index.md"}  # Quartz homepage, not a paper page
+SKIP_FILES = {"index.md", "category-map.md"}  # Quartz homepage / nav-map, not paper pages
 
 REQUIRED_FIELDS = [
     "title",
