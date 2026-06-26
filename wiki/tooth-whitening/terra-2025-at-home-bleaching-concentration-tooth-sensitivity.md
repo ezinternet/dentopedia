@@ -60,4 +60,4 @@ Average sensitivity mild for all agents/concentrations; QoE low.
 
 - [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]] — refines its "at-home lower sensitivity intensity" finding down to the concentration level.
 - [[tooth-whitening/de-oliveira-2024-otc-bleaching-color-adverse-effects]] — OTC route, where low-strength HP strips show minimal sensitivity.
-- [[overviews/dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]] — desensitizing strategies (potassium nitrate, fluoride) applicable to managing bleaching sensitivity.
+- [[overviews/dentin-hypersensitivity-overview]] — desensitizing strategies (potassium nitrate, fluoride) applicable to managing bleaching sensitivity.
