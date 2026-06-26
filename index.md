@@ -346,6 +346,7 @@ tags: []
 - [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
 
 ## 즉시식립 (Immediate Implant)
+- [[immediate-implant/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] — Mustakim 2023 · retrospective(106명/148 즉시 임플란트, SNU) · 상악 대구치 폐포골 높이(ABH)×발치와 형태 분류로 즉시식립 증례선택·술식 가이드라인 제시, 생존율 ~93%
 - [[immediate-implant/esthetic-soft-tissue/araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct]] — Araújo 2026 · retrospective · 전치부 즉시식립 CBCT(n=28): DBBM 협측 gap >2mm은 치조제 단면 90%↑ 보존, ≤2mm는 ~41% 흡수 (gap폭 유일 예측인자)
 - [[immediate-implant/esthetic-soft-tissue/wang-2026-immediate-anterior-implant-primary-stability-aesthetic]] — Wang 2026 · retrospective · 1차안정성(ITV≥20·ISQ≥50) 충족 시 전치부 즉시식립 12개월 성공률 동등(98.3%), MBL↓·PES↑(11.47 vs 10.05)
 - [[immediate-implant/esthetic-soft-tissue/fettouh-2026-safe-angle-guided-iip-anterior-maxilla-deviation]] — Fettouh 2026 · prospective · Safe Angle+plateau-drill 2가이드 전상악 즉시식립 편차 각도 4.56°·platform 0.91mm, 전 증례 safe angle 내·PES 11.89
