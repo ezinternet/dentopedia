@@ -1,0 +1,51 @@
+Couso-Queiruga E, Ramseier CA, Chappuis V, Janner SFMJ, Buser D, Brägger U, Salvi GE.
+Impact of Marginal Misfit in Implant-Supported Fixed Dental Prostheses on Peri-Implant Bone Levels: A Retrospective Quantitative Analysis.
+Clin Oral Implants Res. 2025 Oct;37(1):69-78. doi:10.1111/clr.70053. PMID:41046331 PMCID:PMC12767562
+
+[FULL TEXT — PMC12767562]
+
+OBJECTIVE
+Evaluate the impact of marginal fit of implant-supported prostheses (ISP) on peri-implant bone levels. Determine a clinically relevant threshold for radiographic vertical misfit gap at ISP. Identify risk factors.
+
+METHODS
+- Design: Retrospective, single-center (University of Bern), STROBE guidelines
+- Implants placed 1997–2001; standardized periapical radiographs at 10yr post-loading
+- n=301 patients, 505 implants; mean follow-up 10.6 ± 0.7 years
+- All soft-tissue level implants (Straumann) — 3.3/4.1/4.8 mm diameter; 6–14 mm length
+- Outcome: DIB (distance between implant shoulder and most coronal crestal bone)
+- Gap categorization: GapCAT (present/absent), GapDIM (0 mm / >0–<0.1 mm / ≥0.1 mm)
+- Analysis: multivariable linear mixed-effects model
+
+RESULTS
+Radiographic findings:
+- Mean DIB: 3.3 ± 0.7 mm overall
+- GapCAT present: 249 implants (49.3%)
+- Implants with GapDIM ≥ 0.1 mm: 159
+
+DIB by gap category:
+- No gap: 3.22 ± 0.8 mm
+- Gap present: 3.43 ± 0.6 mm (P=0.001)
+- Gap >0–<0.1 mm: 3.36 ± 0.5 mm (P=0.001)
+- Gap ≥ 0.1 mm: 3.45 ± 0.7 mm (P=0.001)
+- Each 0.1 mm increase in gap → +0.08 mm DIB increase (P=0.03)
+
+Multivariable model significant predictors of increased DIB:
+- Smoking: estimate +0.36 mm (P=0.0019)
+- History of periodontitis: estimate +0.16 mm (P=0.001)
+- GapDIM: estimate +0.04 mm (P=0.28) → NOT significant in multivariate after confounders
+
+Protective factor:
+- Transcrestal sinus floor elevation: estimate −0.54 mm (P<0.001)
+
+NOT significant: neck height, implant length, bone grafting, diabetes, GapDIM (in multivariate)
+
+CONCLUSIONS
+1. ISPs without radiographic gaps exhibit lower DIB than those with gaps (3.22 vs 3.43 mm, P=0.001)
+2. Gaps ≥ 0.1 mm are associated with significantly greater bone loss
+3. Each 0.1 mm gap increment → +0.08 mm DIB increase
+4. In multivariate model, GapDIM itself did not remain significant — confounders (smoking, periodontitis) dominate
+5. Smoking and periodontitis history are the strongest independent risk factors for bone loss
+
+CLINICAL INTERPRETATION
+The gap at the ISP interface (misfit) affects bone stability. The clinical threshold is ≥0.1 mm: below this, the clinical impact is minimal. Above this, bone loss is measurably higher.
+However: misfit likely acts through a BIOLOGICAL pathway (biofilm reservoir at the gap → inflammation → bone loss) rather than purely biomechanical stress — consistent with the finding that GapDIM lost significance when biological risk factors were controlled.
