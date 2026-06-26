@@ -1051,6 +1051,7 @@ tags: []
 - [[resin-bonding/li-2025-crown-root-fracture-super-bond-case-report]] — Li 2025 · case-report · 상악 중절치 치관-치근 파절을 Super-Bond(4-META/MMA-TBB)로 파절편 재접착, 55개월 무탈착·치주건강 유지 (DOI 10.1155/crid/6104187)
 - [[overviews/resin-dentin-bond-durability-degradation-overview]] — **종합 오버뷰** (15편): 레진-상아질 결합 내구성·열화 — hybrid layer 붕괴(가수분해+MMP/cathepsin)·water-tree·MMP억제(CHX)·MDP nanolayering·에탄올습윤·conditioner 6축; in-vitro 우월성↔임상 괴리
 - [[resin-bonding/borouziniat-2024-self-adhesive-vs-etch-resin-cement-zirconia-sr-ma]] — Borouziniat 2024 · sr+ma · 26편 SR+MA: 지르코니아에 self-adhesive ≈ self-etch 레진시멘트(차이 없음), total-etch는 유의 낮음(p=.00) (DOI 10.4103/JCDE.JCDE_225_23)
+- [[resin-bonding/alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma]] — Alvarenga 2024 · sr+ma · RCT 9편 SR+MA: 간접 단일치 수복물 임상 실패율 self-adhesive 레진시멘트 ≈ conventional 시멘트(유의차 없음); ceramic crown 1편만 SARC 실패↑ (DOI 10.1016/j.prosdent.2024.04.027)
 - [[resin-bonding/musharbash-2025-cleaning-agents-contaminated-zirconia]] — Musharbash 2025 · in-vitro · 타액오염 지르코니아: 에어입자분사(APC) 최고 SBS, Katana Cleaner/Ivoclean/Zirclean는 대안 가능, thermocycling 시 전반 감소 (DOI 10.1111/jerd.13512)
 - [[resin-bonding/yoshihara-2011-nanolayering-mdp-enamel-dentin]] — Yoshihara 2011 · in-vitro · **10-MDP nanolayering originating 연구**: MDP-Ca 자기조립 nanolayer가 법랑질·상아질에 형성(상아질>법랑질, MDP 농도·scrubbing 비례) = mild self-etch 화학결합 기전 (DOI 10.1016/j.actbio.2011.04.026)
 - [[resin-bonding/nagaoka-2017-mdp-zirconia-chemical-interaction-nmr]] — Nagaoka 2017 · in-vitro · NMR로 10-MDP-지르코니아 결합 기전 규명: 이온결합(P-O⁻↔Zr)+수소결합 공존, 농도의존 SBS(최소 ~1ppb) (DOI 10.1038/srep45563)
@@ -1282,6 +1283,12 @@ tags: []
 - [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — SR+MA(21 RCT, 최장 60개월): 실로란·오르모서·벌크필 포함 저수축 레진 vs 메타크릴레이트 — 12개월 변연적합만 메타크릴레이트 유의 우수; 나머지 동등
 - [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — SR+MA(11 RCT, J Adhes Dent): 실로란 기반 레진(SBC) vs 메타크릴레이트(MBC) — 전 지표 동등, I² 비유의; "저중합수축=임상 우월" 부정
 - [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — SR+MA(58개 in vitro, 7 DB): 레진 기질 개질이 중합수축응력 감소 최대 기여; 대체 광개시제 단독 효과 없음(p=0.29); SDR™ 기술 유망
+- [[resin/yang-2022-bulk-fill-shrinkage-kinetics-fracture-toughness]] — in-vitro(Dent Mater, Watts그룹, 벌크필 4종): 벌크필 간 중합수축 유사, 충전율(wt%)이 수축·파괴인성 좌우; sonication·예열은 흐름성↑ 하되 수축·인성 저하 없음
+- [[resin/szczesio-wlodarczyk-2024-shrinkage-stress-measurement-methods]] — in-vitro(Dent Mater J, 상용 10종): 수축응력 측정법 의존성 — photoelastic(6.4–13.4 MPa) ≫ contraction-force(1.2–4.8 MPa), 단 두 방법 강상관(r=0.8); 논문 간 절대값 비교 주의
+- [[resin/algamaiah-2021-ultra-rapid-bulk-fill-shrinkage-stress]] — in-vitro(Dent Mater, Watts그룹): 3초 초고조사(~3000 mW/cm²) 벌크필 — strain 약간↓·stress 약간↑(network mobility 감소); AFCT 첨가제(PFill)는 고조사에서도 수축응력 유의 감소
+- [[resin/feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite]] — in-vitro(J Dent, Jilin대 재료개발): 20wt% PU-MA + 75wt% 글래스플레이크(PU-PG-75%) 부피수축 1.35%; 충전율↑→흡수·용해도↑·경화깊이↓; 노화 후 물성 상용품보다 안정
+- [[resin/he-2026-fluorinated-thiol-ene-low-shrinkage-composite]] — in-vivo+in-vitro(J Dent, 중산대): fluorinated thiol-ene 저수축응력 복합레진(DST-1) — 미세누출↓·연쇄상구균 부착↓(낮은 SFE)·rat 무해; 저수축+항균으로 이차우식 억제 노림
+- [[resin/magne-2023-short-fiber-reinforced-mod-restorations]] — in-vitro 피로·균열(J Adhes Dent, 대구치 36개): 수축응력→직접수복 67–83%에 >3mm 법랑질 균열; SFRC base+CAD/CAM 인레이(최저 V-factor) 수축균열 0·최고 생존·reparable 파절; everX Posterior(-1.52%) vs Flow(-2.58%)
 - [[resin/josic-2023-direct-indirect-resin-longevity-sr-ma]] — SR+MA(23편, Dental Materials 2023): 구치부 직접 vs 간접 복합레진 수명 — 단기·중기·장기 모두 유의차 없음(근거 very low)
 - [[resin/tennert-2024-direct-vs-indirect-composite-longevity-sr-ma]] — SR+MA(5 RCT, 627수복, Dental Materials 2024): 직접 수복 실패 위험 유의하게 낮음(RR=0.61), 모든 연구 high risk of bias
 - [[resin/astvaldsdottir-2015-posterior-resin-composite-longevity-sr]] — SR(8편, J Dent 2015): 구치부 복합레진 전체 실패율 1.55/100 수복-년; 이차우식 주요 실패 원인
