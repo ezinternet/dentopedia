@@ -86,3 +86,5 @@ The first split-mouth RCT comparing peri-implant microbiome evolution on zirconi
 - [[behavioral-dentistry/patient-reported-outcomes/arefnia-2025-patient-reported-outcomes-zirconia-implant]] — PRO side
 - [[implants/kniha-2026-zirconia-titanium-microbial-anterior-rct]] — split-mouth RCT (n=20, 12mo, 16S rRNA): zirconia higher alpha diversity and fewer pathogenic taxa at 12mo; beta diversity NS; exploratory microbiome baseline
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
+- [[overviews/zirconia-material-clinical-overview]] — sibling overview: zirconia **as a restorative material** (material science, LTD, survival of crowns/FPDs) — distinct from this fixture-focused page
+- [[overviews/zirconia-types-clinical-selection]] — sibling overview: **3Y/4Y/5Y/UHTZ grade selection** for restorations
