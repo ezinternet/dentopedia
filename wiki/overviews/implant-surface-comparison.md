@@ -14,6 +14,12 @@ relations:
     target: bonfante-2012-calcium-phosphate-coatings-plasma-spray
   - type: extends
     target: witek-2020-boronized-surface-osseointegration
+  - type: reinforces
+    target: lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma
+  - type: reinforces
+    target: vilchez-2025-sla-slactive-split-mouth-rct
+  - type: extends
+    target: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr
 ---
 
 ## 한국어 핵심요약
@@ -29,7 +35,8 @@ relations:
 > - 생물학적 노화는 4주가 아닌 6개월까지 지속 — 포장 후 6개월 이상 보관 임플란트는 골유착 손실 가능, UV-PF로 역전.
 > - 거칠기 최적: 메조+마이크로+나노 계층형(Hierarchical) 표면이 이론적 최적(Hasegawa 2020 in-vivo).
 > - 골밀도화(Osseodensification, OD)는 표면처리가 아니라 osteotomy 기법 — Densah burs로 측방 골 압축, 표면처리와 보완 관계; TSFE에서 ISQ 우위(Starch-Jensen 2025 SR+MA).
-> - 한계: 표면 직접 비교 임상 SR+MA·다기관 RCT 부재; 암절제·방사선 환자는 UV-PF로도 7년 22.2%로 불충분(병태생리적 손상 보상 불가).
+> - 근거 갱신(2026-06): UV-PF 임상 SR+MA가 등장(Lang 2022, 임상 7편/734임플란트) — 골유착 속도지수(OSI, MD=2.13)·2개월 안정성은 유의 상승하나 다른 시점·MBL은 비유의(I²≤99%, high RoB); SLA vs SLActive 직접 비교 split-mouth RCT도 등장(Vílchez 2025, n=68) — ISQ 궤적·12개월 MBL 동등.
+> - 한계: 직접 비교 RCT는 등장했으나 SLA-SLActive-CA 3자 동시 비교·다기관 RCT는 여전히 부재; 암절제·방사선 환자는 UV-PF로도 7년 22.2%로 불충분(병태생리적 손상 보상 불가).
 > - 골질별 알고리듬: D1/D2 → SLA/SA, D3 → CA/친수성, D4 → CA/SLActive + OD 또는 UV-PF, 노화 임플란트 → UV-PF 역전 후 사용.
 
 ## One-line Summary
@@ -96,7 +103,13 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 | Confidence | 출처 | 표면 | 결과 | 추적 |
 |---|---|---|---|---|
+| **sr+ma** | [[implants/surface/lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma]] | **UV-PF (임상 SR+MA)** | **첫 임상 SR+MA** — 골유착 속도지수(OSI) **MD=+2.13 (p=0.007)**, 2개월 안정성 MD=+3.48 (p=0.04); 다른 시점·MBL은 비유의 (I²≤99%, high RoB) | 임상 7편(5 RCT) / 430명·734임플란트 |
+| **sr (2026)** | [[implants/surface/komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr]] | **UV-PF (표면 비의존)** | 최신·최광 UV-PF SR — UV-PF = **표면형태 보존 "포지티브섬" 재활성화**; 초기 세균부착·바이오필름↓ + 연조직 봉쇄↑(Ti 일관, Zr 신흥); 임상 일관 신호 = 안정성 가속 | 34편(질적 종합) |
 | **prospective(7yr)** | [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] | **UV-PF** | 일반·복잡증례 **100% 성공**; 암절제 22.2%; 복잡증례 **ISQ +21.9** | 7년, n=70 |
+| **rct (split-mouth, 당뇨)** | [[implants/surface/krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct]] | **UV-PF** | 조절 당뇨 환자에서 3개월 ISQ 상승폭 4.40 vs 2.60, OSI 1.42 vs 0.84, 9개월 원심 골소실 0.35 vs 0.64mm (모두 유의) — UV-PF 효과를 **대사적 손상 host로 확장** | split-mouth |
+| **rct (split-mouth, 프랙탈)** | [[implants/surface/farsiani-2025-photofunctionalized-implants-fractal-bone-analysis-rct]] | **UV-PF** | 임플란트 주위 해면골 프랙탈 차원(FD) 식립 전→후 유의 상승(1.075→1.103, p=0.044), 대조군 무변화; 양군 조기 생존 100% (ISQ 미측정) | 21명·42임플란트, 12–16주 |
+| **rct (n=68, split-mouth)** | [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] | **SLA vs SLActive 직접비교** | **첫 직접 비교 RCT** — 변형 SLActive vs 기존 SLA(BLT Roxolid): ISQ 궤적·1차결과(부하→12개월 MBL 0.04 vs 0.07mm, p=0.658) **동등**, 양군 생존 100% | 136임플란트, 12개월 |
+| **rct (n=40, 즉시식립)** | [[implants/surface/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants]] | **HA 나노코팅 SLA vs SLA** | 상악 구치부 즉시식립(가이드): HA 나노코팅이 ISQ 회복·volumetric 안정성 우위 경향(abstract 수준) | SNU, 다시점 ISQ |
 | **rct (n=30)** | [[implants/surface/kim-2016-hydrophilic-tapered-implant-6week-12week-loading]] | 친수성 테이퍼 | 6주/12주 부하 모두 97.56% 성공 | 1년 |
 | **retrospective(n=258, 5.2yr)** | [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] | **Osstem CA** | 생존 97.3%, 성공 94.2%, MBL 0.074mm | 평균 62개월 |
 | **retrospective(n=96, 8yr)** | [[implants/surface/kim-2020-sa-implant-acid-etched-alumina-long-term]] | **Osstem SA** | 생존 94.8%; 합병증·1년 MBL>1mm = 실패 예측 | ≥8년 |
@@ -111,8 +124,9 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 - **SLA/SA = 임상 표준** — 8년 94.8% 생존 (Kim 2020 retrospective); 그 표준의 출발점인 **SLA 단축 치유(~6주 부하)**의 최초 다기관 임상 근거는 Cochran 2002 (n=110/326 prospective, abutment 35 Ncm 성공 99.3%, 1·2년 성공 99.1%)로, 친수성·UV-PF 가속 부하 프로토콜이 비교되는 역사적 baseline
 - **CA (초친수성) = 더 안정적** — 5.2년 97.3% 생존, MBL 거의 무 (Kim 2022 retrospective)
-- **UV-PF = 가장 강한 7년 임상 근거** — 복잡증례에서 ISQ +21.9 (Hirota 2020 prospective)
-- **임상 SR+MA 부재** — 직접 비교 RCT 데이터 부족 [claude해석]
+- **UV-PF = 가장 강한 7년 임상 근거** — 복잡증례에서 ISQ +21.9 (Hirota 2020 prospective); **임상 SR+MA(Lang 2022)도 등장** — OSI(골유착 속도) MD=+2.13으로 "안정성 도달 속도" 가속은 확증, 단 절대 안정성·MBL pooled 효과는 비유의(high heterogeneity·RoB)
+- **SLA vs SLActive 직접 비교 RCT 등장** — Vílchez 2025(split-mouth, n=68): 변형 SLActive와 기존 SLA가 ISQ 궤적·12개월 MBL **동등** → 친수성의 임상 우위는 "절대값"이 아니라 D3/D4·가속 부하 같은 **특정 시나리오에 한정**된다는 본 overview의 thesis를 직접 보강 [claude해석]
+- **여전히 부재** — SLA·SLActive·CA 3자 동시 비교·다기관 RCT [claude해석]
 
 ### 2.3 친수성 표면이 무엇을 바꾸나 — Stability Dip
 
@@ -154,7 +168,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 - **암절제 (Cancer Resection) 환자: 7년 22.2%** — UV-PF는 해부학적 손상만 보상, 병태생리적 손상 (방사선·항암) 불가
 - VUV(진공자외선, 1분) 차세대 방법 등장 — 임상 근거 미성숙 (Park 2025)
-- SR+MA 부재 — 다기관 RCT 필요
+- **임상 SR+MA는 등장(Lang 2022)했으나** 신뢰성 제한적 — pooled 효과는 OSI·2개월 안정성에서만 유의, 다른 시점·MBL은 비유의이며 I²≤99%·high RoB. 효과 방향은 일관되게 UV-PF 우세이나 정량적 확신은 아직 약함 → 표준화된 다기관 RCT 여전히 필요
 
 ---
 
@@ -187,9 +201,9 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 | 임상 결정 | 강한 결론 (rct·prospective·retrospective) | 보조 (narrative·in-vitro·animal) | 미해결 |
 |---|---|---|---|
-| 표준 표면 선택 | SLA/SA: 8년 94.8% (Kim 2020); CA: 5.2년 97.3% (Kim 2022) | SLActive·CA 임상 RCT 부족 | 직접 비교 SR+MA |
+| 표준 표면 선택 | SLA/SA: 8년 94.8% (Kim 2020); CA: 5.2년 97.3% (Kim 2022); **SLA≈SLActive 12개월 동등 (Vílchez 2025 RCT)** | SLActive·CA 임상 RCT 부족 | SLA·SLActive·CA 3자 동시 비교 SR+MA |
 | D3/D4 골 표면 | **친수성·생체활성이 dip 제거** (Canullo 2024 prospective) | UV-PF가 ISQ +21.9 (Hirota 2020 prospective) | D3/D4 표면 비교 RCT |
-| UV-PF 적응증 | 복잡증례 7년 100% (Hirota 2020) | 노화 역전 기전 (Iwasa 2011 in-vitro) | 대규모 다기관 RCT |
+| UV-PF 적응증 | 복잡증례 7년 100% (Hirota 2020); **OSI MD=+2.13 (Lang 2022 SR+MA)**; 당뇨 host RCT (Krishna 2025) | 노화 역전 기전 (Iwasa 2011 in-vitro); 표면 비의존 biofilm/연조직 SR (Komatsu 2026) | 표준화 다기관 RCT (절대 안정성·MBL pooled 비유의) |
 | 표면 기전 핵심 | **탄화수소 제거 = 양전하 회복** (Hayashi 2014, Minamikawa 2016) | 친수성은 부차적 | 임상 효능 정량화 |
 | 거칠기 최적 | 메조+마이크로+나노 계층 (Hasegawa 2020 in-vivo) | 나노 HA (Yamada 2012 animal) | 인체 BIC 직접 측정 |
 | 6주 부하 가능성 | 친수성 테이퍼 97.56% (Kim 2016 RCT) | 골질만 ISQ 예측 (RCT 결과) | D3/D4 부하 protocol |
@@ -242,11 +256,11 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 ## Wiki Coverage Caveat
 
 추가 PDF 사냥 권장:
-- SLA vs SLActive vs CA 직접 비교 RCT (현재 retrospective 위주)
-- UV-PF 다기관 prospective RCT
+- ~~SLA vs SLActive 직접 비교 RCT~~ → **확보됨 (Vílchez 2025, 12개월 동등)**; 다음은 **SLA·SLActive·CA 3자 동시 비교 + 5년 이상** RCT
+- ~~UV-PF 임상 SR+MA~~ → **확보됨 (Lang 2022)**; 다음은 표준화된 ISQ·MBL 측정의 **다기관 prospective RCT** (현 SR+MA는 I²≤99%·high RoB)
 - D3/D4 골 표면별 5년 이상 prospective
 - 임플란트 노화 (저장 기간)와 임상 결과 RCT
-- 표면처리와 peri-implantitis 장기 발생률 연관 prospective
+- 표면처리와 peri-implantitis 장기 발생률 연관 prospective (Komatsu 2026이 biofilm 억제 기전 제시 — 임상 발생률 연결 RCT 필요)
 
 ## Related Papers
 
@@ -260,3 +274,14 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 - [[implants/surface/rehner-2025-dental-implants-nanoparticle-coatings-review]] — Narrative review: metal/metal-oxide, polymer, and bioceramic nanoparticle coatings enhance osseointegration + add antibacterial/anti-peri-implantitis action across in vitro/in vivo (narrative-review, 2025)
 
 **갱신 메모 (2026-06-07)**: jadhav-2026·rehner-2025 두 narrative review는 본 overview의 표면처리 진화 축(SLA→SLActive→CA→UV-PF)에 **차세대 지평(나노입자 항균 코팅·responsive coating·AI 설계)**을 덧붙인다. 단 둘 다 narrative-review·전임상 중심이라 현 임상 권장(SLA 표준, 친수성 D3/D4, UV-PF 위축골)을 바꾸지 않음. [claude해석] 나노입자 항균 코팅은 peri-implantitis 예방 맥락에서 추적 가치 있으나 임상 RCT 부재.
+
+### 신규 추가 (2026-06-26) — 임상 근거 갭 충전
+
+- [[implants/surface/lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma]] — reinforces: **첫 UV-PF 임상 SR+MA** (7편/734임플란트). OSI(골유착 속도) MD=+2.13(p=0.007)·2개월 안정성 MD=+3.48(p=0.04) 유의; 다른 시점·MBL pooled 비유의(I²≤99%, high RoB). 본 overview가 §3.3·§6·caveat에서 반복 명시한 "UV-PF SR+MA 부재"를 충전 (sr+ma, 2022)
+- [[implants/isq/vilchez-2025-sla-slactive-split-mouth-rct]] — reinforces: **첫 SLA vs SLActive 직접 비교 split-mouth RCT** (n=68/136임플란트). ISQ 궤적·12개월 MBL(0.04 vs 0.07mm) 동등, 양군 생존 100%. "직접 비교 RCT 부재" 갭 충전 — 친수성의 임상 우위가 절대값이 아닌 D3/D4·가속부하 한정이라는 thesis 보강 (rct, 2025)
+- [[implants/surface/komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr]] — extends: 최신·최광 UV-PF SR(34편). UV-PF = 표면형태 보존 "surface-agnostic positive-sum" 재활성화 — biofilm 억제 + 연조직 봉쇄(Ti 일관, Zr 신흥). zone별 토포그래피 선택 후 UV-PF로 각 구역 생물학 극대화 개념 (sr, 2026)
+- [[implants/surface/krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct]] — extends: UV-PF 효과를 **조절 당뇨(대사적 손상 host)**로 확장한 split-mouth RCT — 3개월 ISQ·OSI·9개월 골소실 모두 유의 우위 (rct, 2025)
+- [[implants/surface/farsiani-2025-photofunctionalized-implants-fractal-bone-analysis-rct]] — reinforces: UV-PF 처리부 임플란트 주위 해면골 프랙탈 차원 유의 상승(대조군 무변화) — 프랙탈 분석으로 PF 골 효과를 본 최초 인체 RCT (rct, 2025)
+- [[implants/surface/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants]] — reinforces: 상악 구치부 즉시식립에서 HA 나노코팅 SLA가 무코팅 SLA 대비 ISQ 회복·volumetric 안정성 우위 경향 (rct, 2024)
+
+**갱신 메모 (2026-06-26)**: 이번 갱신의 핵심은 **본 overview가 명시했던 두 가지 "부재" 갭이 충전**된 것 — (1) UV-PF 임상 SR+MA(Lang 2022), (2) SLA vs SLActive 직접 비교 RCT(Vílchez 2025). 임상 권장 자체는 불변(SLA 표준·친수성 D3/D4·UV-PF 위축골)이나, **근거의 질이 한 단계 상승**했고 두 신규 근거 모두 thesis를 반박이 아닌 보강 방향으로 정렬한다: UV-PF는 "절대 안정성"이 아니라 "안정성 도달 속도(OSI)"를 높이고(Lang), SLActive는 SLA 대비 절대 우위가 아니라 특정 시나리오 한정(Vílchez). 남은 갭은 SLA·SLActive·CA **3자 동시 비교** 다기관 RCT.
