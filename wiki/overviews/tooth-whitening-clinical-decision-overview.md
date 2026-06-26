@@ -19,7 +19,7 @@ tags: [tooth-whitening, bleaching, hydrogen-peroxide, carbamide-peroxide, tooth-
 > - **핵심 메시지**: 활력치(vital) 외부미백은 진료실(in-office)이든 자가(at-home)든 **색조 변화(shade-guide unit, ΔSGU) 결과가 동등**하므로, 실제 임상 레버는 *과산화물 농도*와 *환자 감독*이다 (de Geus 2025, 32 RCT SR+MA).
 > - **농도-민감도 트레이드오프**: 고농도(carbamide peroxide CP 20–22%, hydrogen peroxide HP 14–16%)는 색조를 크게 더 밝히지 못하면서 **치아 민감도 위험만 ~2.8–2.9× 증가**시킨다 — CP 10–11%가 효능·편안함의 균형점 (Terra 2025, 77편 NMA).
 > - **민감도 평균 강도는 경도(mild)**: 자가미백이 민감도 *강도*는 낮지만 *발생 위험* 자체는 진료실과 차이 없음 — 민감도는 농도 선택과 선제 관리(질산칼륨 등)로 다스린다.
-> - **민감도 = 상아질 과민과 기전 공유**: 미백 유발 민감도는 수역학설(hydrodynamic) 경로로 [[dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]]와 동일 — 탈감작제(질산칼륨·불소) 전략을 그대로 차용.
+> - **민감도 = 상아질 과민과 기전 공유**: 미백 유발 민감도는 수역학설(hydrodynamic) 경로로 [[dentin-hypersensitivity-overview]]와 동일 — 탈감작제(질산칼륨·불소) 전략을 그대로 차용.
 > - **기존 수복물은 미백되지 않는다**: 레진복합체(resin composite)는 미백 후 색변화가 측정되나 임상적으로 유의하지 않으며(측정 ΔE는 방법론 의존), 본질적으로 **미백 후 색 불일치 → 수복물 교체 필요** 가능성을 환자에게 사전 고지해야 함 (Vidal 2022, 23 in-vitro).
 > - **실활치(non-vital) 단일 변색치는 외부미백이 아니라 내부미백(walking-bleach)**: ΔSGU 6.27·ΔE 12.83의 큰 색조 개선; sodium perborate+HP > sodium perborate 단독, CP 35–37%/HP 35% 사용 (Frank 2021, 8편 SR+MA; RoB 중–고).
 > - **OTC(over-the-counter) 제품**: 화이트닝 스트립/젤/트레이는 위약 대비 **단기 효과 있음**(6% HP 스트립이 ΔEab*, 10% CP 트레이가 ΔSGU 최고), 민감도·치은 자극 미미 — 단 전문가 감독·진단 부재, certainty low (de Oliveira 2024, 37편 NMA).
@@ -40,7 +40,7 @@ Synthesis of 5 SR/MA/NMA on tooth whitening: in-office and at-home vital bleachi
 Bleaching is the highest-volume cosmetic procedure in general practice, and its evidence base — though uniformly low-certainty — converges on a clean decision structure:
 
 1. **Route does not change the result for vital teeth.** In-office and at-home protocols deliver equivalent ΔSGU (de Geus 2025). In-office buys speed and chairside control, not a better final shade. The choice is logistical/economic, not efficacy-driven.
-2. **Concentration is the dominant safety lever, not an efficacy lever.** Pushing peroxide higher (CP ≥20% / HP ≥14%) does not meaningfully out-whiten moderate concentrations but multiplies sensitivity risk ~2.8–2.9× (Terra 2025). The sweet spot is CP 10–11% trays. Sensitivity itself is the same hydrodynamic phenomenon treated under [[dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]] — manage it proactively (potassium nitrate, fluoride), and titrate down rather than up.
+2. **Concentration is the dominant safety lever, not an efficacy lever.** Pushing peroxide higher (CP ≥20% / HP ≥14%) does not meaningfully out-whiten moderate concentrations but multiplies sensitivity risk ~2.8–2.9× (Terra 2025). The sweet spot is CP 10–11% trays. Sensitivity itself is the same hydrodynamic phenomenon treated under [[dentin-hypersensitivity-overview]] — manage it proactively (potassium nitrate, fluoride), and titrate down rather than up.
 3. **Restorations are a hard boundary.** Composite (and ceramic) do not lighten with peroxide (Vidal 2022). The clinical consequence is consent: anterior restorations may need replacement *after* bleaching to match the new tooth shade — a conversation that must happen before treatment, not after.
 4. **Vital vs non-vital splits the technique.** A single discolored non-vital tooth is an internal walking-bleach case (sodium perborate + HP, or CP/HP 35%; Frank 2021), not an external-bleaching case. External bleaching of a dark non-vital tooth wastes time and under-treats.
 5. **OTC has a defined, narrow role.** Strips/gels beat placebo short-term with minimal adverse effects (de Oliveira 2024) — a reasonable low-cost option for mild extrinsic staining, but without professional diagnosis (it cannot triage a non-vital tooth, caries, or a restoration mismatch).
@@ -65,5 +65,5 @@ Bleaching is the highest-volume cosmetic procedure in general practice, and its 
 - [[tooth-whitening/de-oliveira-2024-otc-bleaching-color-adverse-effects]] — OTC efficacy & safety NMA
 
 ## Related Overviews
-- [[dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]] — bleaching sensitivity shares the hydrodynamic mechanism
+- [[dentin-hypersensitivity-overview]] — bleaching sensitivity shares the hydrodynamic mechanism
 - [[caries-detection-remineralization-overview]] — white-spot lesion / resin infiltration (distinct from whitening)
