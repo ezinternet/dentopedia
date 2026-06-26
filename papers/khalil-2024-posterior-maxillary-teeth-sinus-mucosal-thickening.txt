@@ -1,0 +1,40 @@
+The Impact of Posterior Maxillary Teeth on Maxillary Sinus: Insights From Cone-Beam Computed Tomography Analysis
+
+Authors: Khalil et al. (Pharos University, Egypt)
+Journal: Cureus 2025
+DOI: 10.7759/cureus.76578
+PMCID: PMC11774551
+Published: 2024/2025
+
+Abstract:
+Objective: Evaluate the relationship between maxillary sinus mucosal thickening (MT) and three dental factors: tooth location (premolars/molars), periodontal status, and root proximity to sinus floor (CBCT).
+
+Methods:
+- Retrospective cross-sectional study, 124 patients (248 maxillary sinuses, 992 teeth)
+- CBCT using Morita 3D units, voxel 0.2mm
+- Mucosal thickness graded: Grade 1=0-2mm (normal), Grade 2=2-10mm (moderate), Grade 3=>10mm (severe)
+- Root tip proximity (RPMT) classified Types 0-4 (Sharan classification)
+- Periodontal bone loss: Type 1 <25%, Type 2 25-50%, Type 3 >50%
+- Multivariable logistic regression
+
+Results:
+- MT detected in 90 (72.6%) patients; 42 (33.9%) bilateral
+- Grade 1 most prevalent (72.5%), Grade 2 (19.2%), Grade 3 (8.4%)
+- 46% of teeth had root proximity to sinus floor (Types 1-4)
+- 80.2% mild-moderate periodontal bone loss; 82.1% no periapical lesion
+
+Logistic regression (AOR):
+- Tooth location: 1st molar AOR=3.97; 2nd molar AOR=2.30; 2nd premolar AOR=1.57 (vs 1st premolar)
+- RPMT: Type 2 AOR=2.27; Type 1 AOR=2.24 (vs Type 0)
+- Periodontal bone loss: Severe AOR=2.75; Mild-moderate AOR=1.68 (vs non-periodontitis)
+- Periapical lesion AOR=32.7; No periapical lesion (vs extracted) AOR=19.8
+- Gender: not significant
+
+Conclusions: Second molars, severe periodontal bone loss, and periapical lesions associated with increased sinus MT risk. Interdisciplinary approach (dentists, periodontists, ENT) recommended. Pre-treatment CBCT screening for high-risk cases.
+
+CBCT classification:
+- RPMT Type 0: no contact between root apex and sinus cortical borders
+- Type 1: root apex in contact with sinus cortical borders, inferiorly curving floor
+- Type 2: root apex laterally adjacent to sinus cavity, apex outside sinus
+- Type 3: root apex protruding into sinus with inferiorly curving floor
+- Type 4: sinus floor enclosing part or all of the root apex
