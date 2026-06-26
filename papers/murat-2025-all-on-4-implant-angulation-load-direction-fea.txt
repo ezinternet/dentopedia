@@ -1,0 +1,48 @@
+Predictive mathematical modeling of biomechanical behavior in all-on-4 implants design: effects of distal implant and occlusal load angulation using RSM based on FEA
+
+Authors: Murat F, Sevinç Gül SN, Şensoy AT
+Journal: Frontiers in Bioengineering and Biotechnology
+Year: 2025
+DOI: 10.3389/fbioe.2025.1644776
+PMID: 40901251
+PMCID: PMC12399523
+
+ABSTRACT:
+This study presents a predictive biomechanical modeling approach for the All-on-4 treatment concept, focusing on implant angulation and occlusal load direction. FEA integrated with RSM (Response Surface Methodology): 15 simulation models via Central Composite Design. Distal implant angulations: 15°, 30°, 45°. Occlusal load directions: 45°, 67.5°, 90° (both sagittal AP and frontal BL planes). Maximum von Mises stress in cortical bone = response variable.
+
+KEY FINDINGS:
+- Frontal load angle (BL direction) = most significant effect (29.83%, p=0.003)
+- Implant angulation = 2nd most significant (26.96%, p=0.005)
+- Sagittal load angle = NOT significant linearly (p=0.681)
+- Significant interaction: sagittal × frontal load angles (p=0.012)
+- R² = 93.39%; adjusted R² = 81.49% (strong model fit)
+
+STRESS RESULTS:
+- Minimum cortical stress: 95.75 MPa → Experiment 1 (15° implant, 45° sagittal, 45° frontal)
+- Maximum cortical stress: 265.72 MPa → Experiment 3 (45° implant, 45° sagittal, 90° frontal)
+- Cortical bone consistently highest stress vs trabecular bone, prosthesis, bar
+- Strain concentrations at implant neck in Experiments 2 and 15: 3,654–3,940 µɛ (approaching pathological remodeling threshold)
+- Posterior implant (Implant 1) peak stress: 397.04 MPa; peak strain: 3,940 µɛ
+
+MECHANISTIC INSIGHTS:
+- Reducing implant tilt generally decreases peri-implant cortical stress
+- Frontal (buccolingual) oblique loading is more detrimental than sagittal oblique loading
+- 45° sagittal load direction → beneficial (reduces bending moment from occlusal loading)
+- 90° frontal load + high implant angle = worst-case stress scenario
+- No universally optimal angle — outcome depends on interaction of implant tilt × load direction
+- Cortical and trabecular bone behave differently: cortical absorbs most stress; trabecular buffers
+
+FEA MODEL:
+- 3D edentulous mandible, Nobel Active 4.3 × 13 mm implants
+- All-on-4: 2 anterior (axial, canine region) + 2 posterior (15°/30°/45° distal tilt)
+- Cantilever: 5 mm in all models (held constant)
+- Load: 200 N static, applied to distal molar crown
+- Cortical bone: 2 mm uniform thickness; trabecular core
+- Materials: homogeneous, isotropic, linear elastic
+- ANSYS 2024R2; ~1.1 million nodes; skewness <0.29
+
+CLINICAL TAKE:
+- Minimize distal implant tilt (15° optimal within 15–45° range)
+- Control occlusal load direction: reduce lateral (BL) forces via cusp design, occlusal scheme
+- Optimize cusp inclination and load direction together with implant positioning
+- Further clinical validation needed before definitive angle recommendation
