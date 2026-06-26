@@ -16,7 +16,7 @@ papers/  →  sources/  →  wiki/    →    git push
             (영문 요약)   (영문 + 한줄요약)        ↓
                                        GitHub Actions
                                          ↓ (자동)
-                                  ezinternet.github.io/llm-wiki/
+                                  ezinternet.github.io/dentopedia/
 ```
 
 - **3-tier 구조**: 원본 PDF → 영문 summary → wiki page
@@ -89,7 +89,7 @@ cd ~/llm-wiki && git add -A && git commit -m "Add new paper(s)" && git push
 push 후 1~2분, 다음 확인:
 
 - Actions: https://github.com/ezinternet/llm-wiki/actions — 두 workflow 모두 ✅
-- 사이트: https://ezinternet.github.io/llm-wiki/ — 새 페이지가 explorer + graph 노드에 반영
+- 사이트: https://ezinternet.github.io/dentopedia/ — 새 페이지가 explorer + graph 노드에 반영
 
 ---
 
@@ -438,7 +438,7 @@ URL 그대로 휴대폰 브라우저에서 접속. Quartz가 모바일 반응형
 ## 8. 환경 정보 — 최초 셋업 (참고)
 
 - GitHub repo: https://github.com/ezinternet/llm-wiki
-- 사이트: https://ezinternet.github.io/llm-wiki/
+- 사이트: https://ezinternet.github.io/dentopedia/
 - Quartz 버전: v4.5.2
 - Node.js: 22 (GitHub Actions에서)
 - 호스팅: GitHub Pages (Source: GitHub Actions)
