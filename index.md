@@ -528,6 +528,9 @@ tags: []
 - [[sinus-lift/lateral/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct]] — 후향 CBCT (n=75, 150 상악동): 안면지수는 점막·측벽 두께 예측 못함 → 형태 무관 CBCT 필수; 소구치 MT > 대구치 (DOI 10.1371/journal.pone.0298403)
 - [[sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma]] — SR+MA (29편): 천공 시 임플란트 실패율 2.1%; 천공 vs 비천공 OR 1.347 (NS) — 천공 자체는 유의 실패 위험인자 아님 (DOI 10.3390/jcm13051253)
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — 후향 코호트 (109명, 121 상악동, 252 임플란트): 술전 만성 부비동염이 측방 SFE 후 감염·임플란트 실패 최강 예측인자(p=0.007) → 술전 ENT 평가 필수 (DOI 10.1007/s10006-017-0611-8)
+- [[sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus]] — Maska 2017 · retrospective · n=29 CBCT Michigan: 생리적 점막비후(93.1%, 65.5%가 >5mm)에도 임플란트 생존 100%; 4등급 Mucosal Thickening Index 제안; 치주질환만 유의 예측 (DOI 10.1186/s40729-017-0064-8)
+- [[sinus-lift/lateral/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height]] — Akbari 2022 · retrospective CBCT · n=141(240 상악동): 잔존 치조제 높이↓ → 점막비후↑ 유의; 천공 위험 최저 1.5-2mm, >3mm 병적 기준 (DOI 10.18502/fid.v19i19.9965)
+- [[sinus-lift/lateral/khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening]] — Khalil 2024 · retrospective CBCT · n=124(992치): 치근단 병변 AOR=32.7, 제1대구치 AOR=3.97, 중증 치주골 소실 AOR=2.75; RPMT Type 1-2도 유의(AOR≈2.2) (DOI 10.7759/cureus.76578)
 - [[sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct]] — 후향 CBCT (n=72 상악동): 측방 SFE 후 1주 상악동공(MSO) 폐쇄 19.4%로 일시 증가, 9개월 완전 회복·부비동염 0 (DOI 10.1186/s40729-020-00233-7)
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — SR+MA (27편): 술후 부비동염 SFE 1.11% vs 협골임플란트 3.76%; 기법별 격차 큼(협골 막하 21.6% vs 막외 0%; 측방창 1.35%) (DOI 10.1007/s10006-023-01159-1)
 - [[sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk]] — 증례(n=1): 비중격만곡·할러세포·알레르기비염 고위험자에서 국소 스테로이드+LTRA+항생제로 SFE 후 상악동염 비침습 예방(7개월+ 무증상) (DOI 10.1155/2020/6869805)
@@ -590,6 +593,8 @@ tags: []
 - [[sinus-lift/pseudocyst/wang-2023-antral-pseudocyst-drift-osteotome-case]] — Case report + literature review (Sichuan Univ, JCM 2023): OSFE + 즉시 implant 후 AP drift 현상 — transcrestal 접근의 드문 datapoint
 - [[sinus-lift/pseudocyst/nosaka-2024-sinus-elevation-radiopaque-lesions-review]] — Clinical review (Nosaka·Showa Univ, JCM 2024): "Well-defined faintly radiopaque lesion" 감별진단 framework — AP·MRC 외 mucocele·tumor·이물질 등 단순 가정 경계
 - [[sinus-lift/pseudocyst/yeung-2022-cbct-maxillary-sinus-pathology-review]] — Review (HKU OMFS, Diagnostics 2022): CBCT를 통한 상악동 health·pathology 평가 — 정상 해부·SMT 임계값·AP/MRC/sinusitis/odontogenic/tumor 영상 매핑. 진단 트리 0단계
+- [[sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence]] — Küçükkurt 2025 · retrospective · n=1,000 CBCT 임플란트 후보: 68% 상악동 병변, 점막비후 47% 최다, 치근단 병변·치주질환 유의한 위험인자 [BMC Oral Health]
+- [[sinus-lift/pseudocyst/salari-2021-maxillary-sinus-pathologic-findings-cbct-implant]] — Salari 2021 · cross-sectional · n=140 CBCT 이란 코호트: 63.5% 병변, 점막비후 31.4% 최다(기준 >5mm), 연령·성별·치아상태 유의한 연관 없음 [J Adv Periodontol Implant Dent]
 
 ## 근관치료 — 근관장 측정 (Endodontics: EAL / Working Length)
 - [[endodontics/eal/usman-sultan-2026-eal-vs-radiographic-working-length-postoperative-pain-sr]] — Usman Sultan 2026 · sr · RCT 4편(n=414): EAL vs 방사선 근관장측정 술후 통증 차이 없음, hybrid(SLC)는 초기 통증 감소 가능성
