@@ -1,0 +1,58 @@
+Bilgi-Ozyetim E, Dinçer G, Sulaiman A, Dayan SÇ, Kurtulmus-Yilmaz S, Geçkili O.
+Biomechanical comparison of various implant inclinations and abutment types in a bendable implant system.
+BMC Oral Health. 2025 Jul 19;25(1):1213. doi:10.1186/s12903-025-06610-1. PMID:40684102 PMCID:PMC12276677
+
+[FULL TEXT — PMC12276677]
+
+BACKGROUND
+The primary objective of contemporary dentistry is to address the functional, aesthetic, and psychological needs of those who have experienced tooth loss. Dental implants have emerged as a crucial component of prosthodontic treatment for patients with partial or complete edentulism. Unfavorable implant inclination can lead to biomechanical problems causing screw loosening, abutment fracture, and porcelain veneer chipping. In two-piece implant systems, pre-angled abutments correct angulation. Recent research suggests posterior implant tilting up to 45° can be a viable option to bone grafts and sinus augmentation.
+
+The All-on-4 design uses four implants (two axial anterior + two tilted posteriors) to maximize available bone and reduce the need for grafting. By increasing the anteroposterior spread, the All-on-4 concept reduces the distal cantilever length and improves cortical anchorage by permitting the placement of longer implants.
+
+Single-piece implants eliminate gaps between implant body and abutment, preventing loosening, and preventing epithelial damage and bone resorption. In single-piece bendable (Provo) implants, the correction of implant angulation is achieved without additional components—the abutment is physically bent.
+
+METHODS
+A 3D model of a completely edentulous mandible was developed from CT data (Visible Human Project). Six models were created based on All-on-4 protocol, varying posterior implant inclination (17°, 30°, 45°) and prosthesis retention type (screw-retained vs cement-retained):
+
+Model 1: 17° distal inclination, screw-retained
+Model 2: 17° distal inclination, cement-retained
+Model 3: 30° distal inclination, screw-retained
+Model 4: 30° distal inclination, cement-retained
+Model 5: 45° distal inclination, screw-retained
+Model 6: 45° distal inclination, cement-retained
+
+Two anterior implants (3.5mm × 12mm) placed vertically at lateral incisor sites.
+Two posterior implants (3.5mm × 15mm) placed at second premolar regions with varying inclination.
+Cobalt-chromium frameworks with 14mm distal cantilever were standardized.
+
+Loading: 150N vertical + 150N oblique (75° linguo-buccal) applied to 1st premolar, 2nd premolar, 1st molar.
+Outcome: Maximum principal stress (Pmax), minimum principal stress (Pmin) in bone; von Mises stress in implants and frameworks.
+
+RESULTS
+BONE STRESS
+- Both Pmax and Pmin in anterior and posterior peri-implant bone INCREASED with increasing angulation.
+- Highest Pmax in anterior region: Model 5 oblique=14.483 MPa, vertical=13.432 MPa.
+- Highest Pmin in posterior region: Model 5 oblique=−75.093 MPa, vertical=−79.256 MPa.
+- Lowest values in Model 2 (17°, cement-retained).
+- Cement-retained models consistently lower bone stress than screw-retained.
+- Vertical loading → higher posterior stress; oblique loading → higher anterior stress.
+
+IMPLANT STRESS (von Mises)
+- Posterior implants had higher stress than anterior implants regardless of loading.
+- Von Mises stress increased with increasing angulation.
+- Screw-retained models > cement-retained models.
+- Model 5 posterior implants: highest = 108.568 MPa under vertical loading.
+- Model 2 lowest: anterior 23.396 MPa, posterior 72.794 MPa.
+- All values well below titanium yield strength (550 MPa). No risk of implant failure.
+
+FRAMEWORK STRESS
+- Screw-retained framework stress was >3.5× higher than cement-retained.
+- Increasing angulation slightly DECREASED framework stress.
+- Highest: Model 1 (17°, screw-retained) = 75.297 MPa oblique / 74.827 MPa vertical.
+- Cement models: 18.97–20.05 MPa (vertical), 19.28–20.29 MPa (oblique).
+
+CONCLUSIONS
+1. Increasing posterior implant angulation raises stress in cortical/trabecular bone and implants, but values remain within safe range (far below 550 MPa yield).
+2. Cement-retained frameworks show significantly lower stress than screw-retained under both load conditions.
+3. Posterior implants bear greater stress than anterior implants, especially under vertical loading.
+4. For optimal stress distribution in peri-implant bone and frameworks, cement-retained prosthesis may be preferred when implant angulation is increased in bendable one-piece systems.
