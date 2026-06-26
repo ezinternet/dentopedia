@@ -9,6 +9,8 @@ source: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.md
 category: [implants]
 confidence: sr+ma
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.txt
+text_filename: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma.txt
 full_text: false
 tags: [tilted-implant, axial-implant, full-arch, edentulous, survival, marginal-bone-loss, sr-ma]
 ---
