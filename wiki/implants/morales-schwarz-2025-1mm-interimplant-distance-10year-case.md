@@ -10,6 +10,8 @@ source: morales-schwarz-2025-1mm-interimplant-distance-10year-case.md
 category: [implants]
 confidence: case-report
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/morales-schwarz-2025-1mm-interimplant-distance-10year-case.txt
+text_filename: morales-schwarz-2025-1mm-interimplant-distance-10year-case.txt
 tags: [inter-implant-distance, IID, spacing, platform-switching, conical-connection, case-report]
 relations:
   - type: contradicts
