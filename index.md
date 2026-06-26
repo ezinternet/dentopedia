@@ -780,6 +780,7 @@ tags: []
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — Aimetti 2025, rct, BOOST 전처치(수술 2주 전 국소 독시사이클린)가 MIST 재생술 결과를 유의하게 개선: CAL 획득 4.1 대 3.2 mm, 복합성공률 83.3% 대 46.7%(NNT=2.73), 방사선 골충전 3.5 대 2.7 mm
 
 ## 보철재료 (Prosthetic Materials)
+- [[prosthetic-materials/leung-2022-update-on-dental-luting]] — Leung 2022 · narrative-review · luting 재료 7종(ZOE·인산아연·폴리카르복실레이트·GIC·RMGIC·CaAl/GI·레진시멘트)을 화학·결합기전·적응증 3축으로 분류한 기반 reference; "이상적 단일 시멘트는 없다"
 - [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — Mikulás 2025 · sr · 임플란트주위 emergence profile 캡처는 간접 스캐닝(provisional 추출 후 합성)이 가장 정확, 직접 스캐닝은 연조직 붕괴로 부정확
 - [[prosthetic-materials/kim-2019-astra-implant-dissection-solutions]] — Astra screw loosening prevention: abutment-fixture interface stability, proper abutment selection, standardized torque protocol (35 Ncm), controlled force loading; many complications preventable through surgical-prosthetic integration
 - [[prosthetic-materials/nithyapriya-2018-factors-loss-preload-dental-implants]] — 문헌리뷰(MEDLINE 84→36편): 임플란트 나사 preload loss 유발인자 총정리 — 나사 재질(gold>Ti-alloy>Ti)·연결부(internal>external hex)·torque값·10분 후 retorque·윤활·settling effect·abutment collar length (2018)
