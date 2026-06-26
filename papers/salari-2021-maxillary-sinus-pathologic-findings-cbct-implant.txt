@@ -1,0 +1,28 @@
+The frequency of maxillary sinus pathologic findings in cone-beam computed tomography images of patients candidate for dental implant treatment
+
+Authors: Salari et al.
+Journal: Journal of Advanced Periodontology & Implant Dentistry 2021
+DOI: 10.34172/japid.2021.001
+PMCID: PMC9327483
+
+Abstract:
+Background: Maxillary sinus pathologic conditions increase the risk of complications during sinus augmentation surgeries. The present study aimed to determine the frequencies of maxillary sinus pathologic findings on patients' CBCT images who were candidates to receive dental implants.
+
+Methods: Descriptive/cross-sectional study. 140 CBCT images evaluated for maxillary sinus pathologic entities over 6 months. Five categories: mucosal thickening >5mm, retention cyst, partial or complete opacification, polypoidal mucosal thickening, and healthy. Age, gender, dental status evaluated.
+
+Results:
+- 63.5% of CBCT images showed pathologic findings
+- Most common: mucosal thickening (31.4%)
+- Retention cyst (17.1%)
+- Partial or complete opacification (9.3%)
+- Polypoidal mucosal thickening (5.7%)
+- Healthy: 36.5%
+- No significant relationship between age, sex, or dentition status and pathologic findings
+- Higher frequency in partially edentulous patients (not significant)
+- Mucosal thickening was the most frequent finding; generally due to odontogenic irritations, periapical lesions, and periodontal disease
+
+Conclusion: Most frequent pathologic finding was mucosal thickening. No significant relationship found with age, sex, or dentition status.
+
+Sample: 140 patients (58 male, 82 female), mean age 46 years, range 18-81. 44 full dentition, 22 completely edentulous, 74 partially edentulous.
+CBCT machine: NewTom 3G, FOV=9", kVp=120, mA=150.
+Threshold used: >5mm for mucosal thickening.
