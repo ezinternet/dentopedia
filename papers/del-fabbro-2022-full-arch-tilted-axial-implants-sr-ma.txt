@@ -1,0 +1,15 @@
+Title: Outcomes of Fixed Full-Arch Rehabilitations Supported by Tilted and Axially Placed Implants: A Systematic Review and Meta-Analysis.
+Authors: Del Fabbro M, Pozzi A, Romeo D, de Araújo Nobre M, Agliardi E
+Journal: Int J Oral Maxillofac Implants. 2022;37(5):1003-1025.
+PMID: 36170316
+DOI: 10.11607/jomi.9710
+Source: PubMed (abstract-only — full text not retrieved)
+
+Abstract:
+To evaluate the performance of fixed complete dental prostheses supported by axial and tilted implants after at least 3 years of follow-up.
+
+An electronic search plus a hand search up to April 2021 was undertaken. Clinical studies were selected using specific inclusion criteria, independent of the study design. The main outcomes were cumulative implant survival rate, marginal bone level changes, and complications, after >= 3 years of follow-up. The difference in outcomes between axial and tilted implants and between the maxilla and mandible was evaluated using meta-analysis and the Mantel-Cox test.
+
+Out of 824 articles retrieved, 24 were included. In total, 2,637 patients were rehabilitated with 2,735 full prostheses (1,464 maxillary, 1,271 mandibular), supported by 5,594 and 5,611 tilted and axial implants, respectively. In a range between 3 and 18 years of follow-up, 274 implants failed. The cumulative implant survival rate was 93.91% and 99.31% for implants and prostheses, respectively. The mean marginal bone level change was moderate, exceeding 2 mm in only two studies. Marginal bone loss was significantly lower around axial compared with tilted implants (P < .0001), whereas it was not affected by arch (maxilla vs mandible; P = .17).
+
+Fixed complete dental prostheses supported by tilted and axially placed implants represent a predictable option for the rehabilitation of edentulous arches. Further randomized trials are needed to determine the efficacy of this surgical approach and the remodeling pattern of marginal bone in the long term.
