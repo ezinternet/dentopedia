@@ -2,7 +2,7 @@
 title: "신선한 발거 소켓에서의 즉시 임플란트 식립"
 authors: Lee, Won
 year: 2021
-doi: ""
+doi: 10.5125/jkaoms.2021.47.1.57
 source: lee-2021-immediate-implant-placement-in-fresh.md
 category: immediate-implant
 pdf_path: /Users/oracleneo/llm-wiki/papers/lee-2021-immediate-implant-placement-in-fresh.pdf
