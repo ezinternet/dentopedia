@@ -829,6 +829,7 @@ tags: []
 - [[prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma]] — 구치부 임플란트 단관 단일층 지르코니아 vs 금속도재 SR+MA — 기술적 합병증 OR 0.31(지르코니아 우위).
 - [[prosthetic-materials/gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct]] — 디지털 워크플로우 반투명 지르코니아 vs 금속도재 구치부 전관 5년 RCT — 생존율 동등, 지르코니아 칩핑 없음.
 - [[prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma]] — SR+MA (64편, 11,560개): 5년 생존율 단일체 리튬 디실리케이트 98.5% 최고·금속도재 97.1%(혹은 96.2%)·veneer형 94.7%·단일체 지르코니아 97.1%; 단일체 디자인이 치핑 유의하게 감소
+- [[prosthetic-materials/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma]] — Pjetursson 2023 SR+MA (32 studies): 후방부 임플란트 다단위 FDP — PFM/베니어 Zr/단일층 Zr/LDS 3년 생존율 동등; 베니어 보철 칩핑·파절 유의하게 높음(p<0.01); Clin Oral Implants Res Suppl [sr+ma]
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — SR 개요 (38편, ~10,000 수복물): 지르코니아 치아·임플란트 지지 단관·FDP 5년 생존율 양호; 베니어 도재 치핑 가장 흔한 합병증.
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — DGI/DGZMK S3 가이드라인: 단관 리튬 디실리케이트·지르코니아 권장(3년 96–97%); FDP·전악 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기.
 - [[complete-denture/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Soo-Yeon Yoo 2023 (대한치과의사협회지, SNU 보철) · narrative-review · 중증 장애 환자용 IC-RPD(임플란트 써베이드 크라운 유지 국소의치) — 통상 의치·전악 고정성 보철 어려운 경우의 중간 대안; MBL·생존 고찰(구체 수치 [미검증])
