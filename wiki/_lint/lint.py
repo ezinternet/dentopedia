@@ -67,7 +67,7 @@ def normalize_source(field):
 
 def is_navigation_stub(rel_path):
     """wiki/index.md type navigation stubs exempt from paper-field checks."""
-    return os.path.basename(rel_path) == 'index.md'
+    return os.path.basename(rel_path) in ('index.md', 'category-map.md')
 
 def lint():
     if not os.path.isdir(WIKI):
