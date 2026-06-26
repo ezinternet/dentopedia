@@ -14,7 +14,7 @@ text_filename: terra-2025-at-home-bleaching-concentration-tooth-sensitivity.txt
 
 ## Why Ingested
 
-미백 후 치아 민감도(가장 흔한 부작용)가 농도·제제별로 어떻게 달라지는지 정량화하는 핵심 근거. 새 `tooth-whitening` 카테고리에서 [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]]의 "자가미백 민감도 강도 더 낮음" 결론을 농도 단위로 분해한다. 미백 민감도 관리는 [[overviews/dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]]의 탈민감 전략과 연결. abstract-only — full text not retrieved.
+미백 후 치아 민감도(가장 흔한 부작용)가 농도·제제별로 어떻게 달라지는지 정량화하는 핵심 근거. 새 `tooth-whitening` 카테고리에서 [[tooth-whitening/de-geus-2025-at-home-vs-in-office-bleaching]]의 "자가미백 민감도 강도 더 낮음" 결론을 농도 단위로 분해한다. 미백 민감도 관리는 [[overviews/dentin-hypersensitivity-overview]]의 탈민감 전략과 연결. abstract-only — full text not retrieved.
 
 ## One-line Summary
 
