@@ -1,0 +1,41 @@
+Morales Schwarz D, Szmukler-Moncler S, Morales Melendez H, Beuer F.
+The impact of a 1 mm interimplant distance on the interproximal crestal bone height: a case report with a 10-year follow-up and literature review.
+Int J Implant Dent. 2025 Feb 1;11(1):8. doi:10.1186/s40729-025-00589-8. PMID:39890702 PMCID:PMC11785880
+
+[FULL TEXT — PMC11785880]
+
+BACKGROUND
+Inter-implant distance (IID) ≥3 mm has been the standard recommendation to prevent interproximal crestal bone resorption. This recommendation was based on Tarnow 2000 data using older external hex implants without platform-switching. This paper reports a 10-year case with IID = 1 mm and reviews the scant literature on <2 mm IID.
+
+LITERATURE REVIEW (scoped to IID and bone)
+- PubMed search: "interimplant distance" AND "bone" → 91 refs → 37 full-text articles
+- Studies mostly compared 3 mm vs 2 mm IID; virtually no clinical studies on 1 mm IID
+- Only 2 animal studies focused on 1 mm IID:
+  1. Rabbit tibial crest: 1 mm, 1.5 mm, 3 mm IID — vertical bone growth SUPERIOR at 1 mm; bone density = same
+  2. Dog mandible (loaded, 8 wk): 1 mm, 2 mm, 3 mm IID — interimplant crestal bone resorption = SAME across groups; bone remodeling activity SUPERIOR at 1 mm
+- Clinical studies on 2 mm IID: all confirmed no bone loss compared to 3 mm, when modern (platform-switch + internal conical) implants were used
+
+CASE PRESENTATION
+- Patient: 57-year-old female, heavy smoker (>10 cigarettes/day)
+- Indication: hopeless maxillary premolars #24 (apical lesion) and #25 (root fracture)
+- Available mesio-distal space: 12 mm (guideline requirement: 13.5 mm minimum for 2 implants + 3 mm IID + 1.5 mm each to adjacent)
+- Solution: 2 × Ø3.5 mm narrow implants (titanium grade 23) placed in extraction sockets
+  → Immediate implant + immediate provisionalization
+  → Resulted IID: 1 mm at implant collar
+- Implant features: internal conical connection (24°), platform-switching (0.25 mm), etched surface (BioEtch) to collar, hexagonally indexed
+- Prosthetic abutments: concave profile (0.3 mm) → more space for bone and papilla
+
+FOLLOW-UP RESULTS (10 years)
+- 3 months: immature bone visible coronal to IAJ
+- 1 year: bone dense, filling entire concave abutment space; papilla present
+- 3 years: papilla complete; bone stable
+- 9 years: papilla slightly reduced (hygiene lapse, smoking); slight crestal resorption
+- 10 years: bone 1.40 mm CORONAL to implant-abutment connection; bone filled interimplant space; papilla recovered with improved hygiene
+- No implant failure over 10 years
+- CBCT confirmed 1.02 mm IID at 10 years
+
+AUTHOR INTERPRETATION
+The 3 mm IID recommendation was based on old BL implants with external hex + no platform-switching. Modern implants (internal conical, platform-switching, subcrestal placement, concave abutments) may preserve interproximal bone even at 1 mm IID. However, current guideline (≥3 mm) should still apply — this is one case only.
+
+CONCLUSION
+Guidelines remain ≥3 mm IID. However, with modern design features (internal conical connection, platform-switching, concave abutments, subcrestal position), bone maintenance at 1 mm IID may be possible. Case reports and cohort studies on 1 mm IID with modern implants are needed before revising guidelines.
