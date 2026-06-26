@@ -45,7 +45,7 @@ DOMAINS = [
         "emergence-profile", "supportive-peri-implant"]),
     ("골재생 · GBR · ARP", [
         "bone-regeneration", "dbbm", "gbr-", "open-healing-arp",
-        "socket-preservation", "vertical-ridge"]),
+        "socket-preservation", "vertical-ridge", "ridge-split"]),
     ("상악동거상술", [
         "sinus-lift", "short-implant-vs-sinus", "odontogenic-maxillary"]),
     ("근관치료", [
@@ -57,20 +57,22 @@ DOMAINS = [
         "periodontal", "biofilm-management", "gbt", "air-polishing"]),
     ("교합 · TMJ · 이갈이", [
         "bruxism", "tmd-", "unilateral-mastication", "overeruption", "unopposed-tooth",
-        "cr-co-micp", "centric", "reference-position"]),
+        "cr-co-micp", "centric", "reference-position",
+        "occlusal-contact", "articulating-paper"]),
     ("보철 · 수복재료 · 심미", [
         "adhesive-bonding", "ceramic-bonding", "crown-preparation", "dental-materials",
         "direct-resin", "immediate-dentin", "lithium-disilicate", "prosthetic-materials",
         "reis-2024", "veneer", "zirconia-material", "zirconia-types", "resin-dentin",
         "complete-denture", "food-impaction",
-        "post-and-core", "gothic-arch", "jaw-relation", "tooth-whitening", "restorative-margin"]),
+        "post-and-core", "gothic-arch", "jaw-relation", "tooth-whitening", "restorative-margin",
+        "abutment-screw", "screw-preload"]),
     ("우식 · 경조직 · 시린이 · 균열", [
         "caries", "cracked-tooth", "dental-erosion", "dentin-hypersensitivity",
         "glass-ionomer", "nccl"]),
     ("구강외과 · 마취 · 통증", [
         "buffered-modified", "mandibular-anesthesia", "oral-surgery", "third-molar",
         "topical-anesthetic", "suture-wound", "dental-trauma"]),
-    ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease"]),
+    ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease", "hypertension", "hemodynamic"]),
     ("구강내과 · 미생물 · 노년 · 구강안면통증", [
         "oral-medicine", "oral-microbiome", "oral-frailty", "bms", "orofacial-pain",
         "halitosis", "mucositis"]),
