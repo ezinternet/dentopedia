@@ -63,4 +63,4 @@ Selvi et al. (2025) compared the fatigue performance of CAD-CAM custom abutments
 
 ## Related Papers
 
-- [[prosthetic-materials/overview-implant-abutment-connection-stability]] — synthesis context for abutment connection stability evidence
+- [[overviews/abutment-screw-preload-joint-stability-overview]] — synthesis context for abutment connection stability evidence
