@@ -366,7 +366,7 @@ function gv(m) {
 
 function fmt(m) {
   const v = gv(m);
-  if (unit === 'usv')  return v >= 1000 ? (v/1000).toFixed(1)+'k µSv' : v >= 100 ? v.toFixed(0)+' µSv' : v >= 10 ? v.toFixed(1)+' µSv' : v.toFixed(2)+' µSv';
+  if (unit === 'usv')  return v >= 1000 ? v.toFixed(0).replace(/\B(?=(\d{3})+(?!\d))/g, ',')+'\u00a0µSv' : v >= 100 ? v.toFixed(0)+' µSv' : v >= 10 ? v.toFixed(1)+' µSv' : v.toFixed(2)+' µSv';
   if (unit === 'days') return v >= 100 ? v.toFixed(0)+' 일' : v >= 1 ? v.toFixed(1)+' 일' : v < 0.05 ? (v*24).toFixed(1)+' h' : (v*24).toFixed(0)+' h';
   return v >= 10 ? v.toFixed(0)+'×' : v.toFixed(2)+'×';
 }
