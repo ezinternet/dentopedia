@@ -29,7 +29,9 @@ source_wiki:
   - wiki/complete-denture/tayari-2024-implant-supported-overdenture-failures-sr.md
   - wiki/complete-denture/taylor-2021-longevity-complete-dentures-sr-ma.md
   - wiki/complete-denture/thu-2024-digital-complete-denture-clinical-laboratory.md
-tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-system, denture-adhesive, overdenture-failure]
+  - wiki/implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma.md
+  - wiki/implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma.md
+tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-system, denture-adhesive, overdenture-failure, cad-cam-bar, single-implant-overdenture]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -37,8 +39,8 @@ tags: [complete-denture, overdenture, CAD-CAM, digital-denture, attachment-syste
 > - **디지털 vs 전통 제작**: 밀링(Milling) CAD/CAM 의치는 굴곡강도·표면조도에서 우수하고, 유지력도 전통보다 높다(p=0.015). 3D 프린팅은 적합 정밀도에서 우수하지만 유지력이 전통보다 낮을 수 있다(Avelino 2024). 환자 만족도·OHRQoL은 세 방법 모두 동등. 디지털 워크플로우는 의자 시간 205–233분 절감, 비용도 낮으나 보더 몰딩 인상(Border-Molded Impression)과 시적 의치 단계 생략 시 유지력 상실(37.5%)·재제작(31.3%) 위험 증가.
 > - **간소화 vs 전통 제작**: 간소화 기법(2–4회 내원)은 전통 기법(5–6회) 대비 임상 시간 77분·비용 $86 절감, 6개월 이내 환자 만족도 동등(Sanjeevan 2021). 10년 장기 추적에서도 만족도 차이 없음.
 > - **고정성 vs 가철성 임플란트 보철**: 임플란트 지지 고정성 완전의치(Implant-supported Fixed Complete Denture, IFCD, g=1.68)와 임플란트 피개의치(Implant-Supported Overdenture, IOD, g=1.26)는 모두 큰 치료 효과를 보이며 전체 환자보고결과(dPRO)에서 유의한 차이 없음(p=.165). 의치 안정성만 IFCD가 유의하게 우수(ES 차이 2.37, p=.032) (Abou-Ayash 2023). 장기 데이터(≥5년, 상악 4임플란트): IFCD가 임플란트(98.5%)·보철물(99.9%) 생존율 높으나 변연골 흡수(Marginal Bone Loss, MBL)는 더 많음(−1.20 vs −0.27 mm) (Lan 2025).
-> - **임플란트 수**: 하악 단일 임플란트 IOD 5년 생존율 91.93%·10년 84.62% — 저비용 최소침습 옵션으로 유효(Padmanabhan 2020). 하악 2임플란트 IOD는 단일보다 dPRO가 유의하게 높음(ES 차이 0.73, p<.001). 상악은 최소 4임플란트 필요; 상악 4임플란트 + 금속 보강 + 전체 구개 피개가 보철 실패 최저(8.33%) (Tayari 2024).
-> - **어태치먼트 시스템**: 바(Bar)·텔레스코픽(Telescopic) vs 볼(Ball)·LOCATOR — 스플린트 여부는 MBL·합병증·생존율에 유의한 차이 없음(Leao 2018, Prasad 2024). 보철 합병증 순위(적은 순): LOCATOR < Telescopic < Bar < Ball < 마그넷(Magnet); 마그넷은 7.4배 높은 보철 합병증 → 일상 사용 비권고. 4임플란트 바·텔레스코픽만 2임플란트 LOCATOR보다 MBL 유의하게 낮음(Bi 2022).
+> - **임플란트 수**: 하악 단일 임플란트 IOD 5년 생존율 91.93%·10년 84.62% — 저비용 최소침습 옵션으로 유효(Padmanabhan 2020). **단일(1-IOD) vs 2개(2-IOD) 직접 비교 17편 RCT SR+MA: 임플란트 생존율은 5년까지 동등하나, 의치 파절·재제작·메탈하우징 재부착 같은 보철 합병증은 1-IOD에서 약 2배 잦음(5Y RR 2.10/2.57/2.31); 리라이닝·O-ring 교체는 차이 없음 → 구조강도 부족이 원인이므로 1-IOD 의치상에 금속 보강 권고(FEA: 하우징 인장응력 −61.8%) (Koyama 2025).** 하악 2임플란트 IOD는 단일보다 dPRO가 유의하게 높음(ES 차이 0.73, p<.001). 상악은 최소 4임플란트 필요; 상악 4임플란트 + 금속 보강 + 전체 구개 피개가 보철 실패 최저(8.33%) (Tayari 2024).
+> - **어태치먼트 시스템**: 바(Bar)·텔레스코픽(Telescopic) vs 볼(Ball)·LOCATOR — 스플린트 여부는 MBL·합병증·생존율에 유의한 차이 없음(Leao 2018, Prasad 2024). 보철 합병증 순위(적은 순): LOCATOR < Telescopic < Bar < Ball < 마그넷(Magnet); 마그넷은 7.4배 높은 보철 합병증 → 일상 사용 비권고. 4임플란트 바·텔레스코픽만 2임플란트 LOCATOR보다 MBL 유의하게 낮음(Bi 2022). **바(splinted) 선택 시 재료도 결정 변수 — CAD-CAM 밀링 티타늄 bar가 가장 근거가 탄탄(임플란트 생존 ~100%, bar 합병증 7.4%, MBL 0.324 mm, OHIP/만족도 최상); PEEK/BioHPP 폴리머 bar는 임플란트주위염 신호 → 회피 또는 감시 (Chappuis-Chocano 2023).**
 > - **의치 접착제**: 크림(Cream)·파우더(Powder) 접착제는 유지력(Kapur 지수), 교합력(Bite Force)을 유의하게 향상(중등도 근거); 스트립·쿠션은 유의한 효과 없음(Koay 2024). 전체적으로 접착제는 유지력 SMD 1.34, 교합력 SMD 0.98, 저작 기능 SMD 0.72 향상(Shu 2021).
 > - **유지관리**: 기계적(칫솔)+화학적(알칼리 과산화물) 병용 세정이 단독 방법보다 생물막 제거에 우수(Schmutzler 2021). 마이크로웨이브 소독은 nystatin 국소 항진균 치료와 동등한 의치성 구내염(Denture Stomatitis, DS) 치료 효과(저확실성 근거)(Sousa 2021).
 > - **수직교합고경(OVD) 결정**: 단일 방법은 없으며 사전·사후 발치 다중 기법 병용이 표준(Alhajj 2017, Fayad 2025). 안면·손가락 인체계측(Anthropometric)이 표준 OVD와 높은 상관(엄지 길이 r≈0.63)이지만 이질성(I²=99%)이 매우 높아 보조 수단에 그침(Goyal 2026). OVD 과다(+5mm)는 부정적 심리 지표 상승, 과소(−3mm)는 교합력 감소(Matsuda 2014).
@@ -139,12 +141,20 @@ Single implant-retained mandibular overdentures (SIROs) are a validated, cost-ef
 - Prosthetic failure (base fractures) ranges 36.3%–72% — the dominant limitation
 - Indicated for: financial constraints, systemic health limitations, minimal surgical risk
 
+**Direct 1-IOD vs 2-IOD head-to-head (Koyama 2025, 17 RCTs, follow-up 12–60 mo):**
+The strongest direct comparison cleanly dissociates survival from maintenance burden:
+- **Implant survival is identical** at 1Y / 3Y / 5Y, including across loading-protocol subgroups — there is no survival penalty for the single implant.
+- **Prosthetic complications run ~2× higher with 1-IOD**: denture fracture (5Y RR 2.10, 1.21–3.64, p=0.008), new-denture fabrication (5Y RR 2.57, 1.11–5.94, p=0.03), metal-housing reattachment (5Y RR 2.31, 1.03–5.18, p=0.04).
+- **Relining and O-ring replacement do NOT differ** — the authors read this as evidence the extra fractures stem from reduced *structural strength* under the single-implant fulcrum, not greater denture mobility. Cited FEA: 1-IOD shows ~50% greater total deformation; a **metal framework cuts implant-housing tensile stress by 61.8%** → metal reinforcement is recommended for 1-IOD bases.
+- This **updates and partly overturns** an earlier SR (Ahmed et al.) that had reported *better* implant survival for 1-IOD; once post-2017 RCTs are added, that survival advantage disappears.
+- Cost: 1-IOD ≈ 75% of 2-IOD, but long-term complications + framework reinforcement narrow the gap.
+
 ### Two Implants — Mandibular Minimum Standard (McGill/York Consensus)
 
 - PRO advantage over single implant: ES = 0.73 (p < 0.001) — clinically meaningful (Abou-Ayash 2023)
-- Implant failure rate: 0%–2.5% (vs 0%–8.9% for single)
+- Implant failure rate: 0%–2.5% (vs 0%–8.9% for single); note Koyama 2025 (RCT-only) finds *implant survival equivalent* between 1- and 2-IOD — the 2-IOD advantage is in prosthetic durability, not implant survival
 - Delayed loading is optimal; immediate loading must use metal reinforcement
-- The two-implant mandibular overdenture remains the evidence-based minimum standard
+- The two-implant mandibular overdenture remains the evidence-based minimum standard for patients prioritizing retention/support or unable to attend frequent maintenance; 1-IOD suits lower initial cost / lower invasiveness when frequent maintenance is feasible (Koyama 2025)
 
 ### Four Implants — Mandibular and Maxillary
 
@@ -194,9 +204,25 @@ Magnets carry 7.4× higher prosthetic complications vs all other attachment syst
 |---|---|---|---|
 | LOCATOR | Fewest prosthetic complications (RCT evidence); simple maintenance | Moderate maintenance frequency | Default unsplinted choice; widely indicated |
 | Ball/Stud | Low complication vs locator (RR 0.55, Sutariya 2021); handles non-parallel implants | Higher fracture rate | Non-parallel implants; limited inter-arch space |
-| Bar (splinted) | Best retention (Sutariya 2021); lower MBL with 4 implants | Technical complexity; cost; hygiene access | Maximum retention priority; 4-implant designs |
+| Bar (splinted) | Best retention (Sutariya 2021); lower MBL with 4 implants; CAD-CAM milled titanium ~100% ISR, low complications (Chappuis-Chocano 2023) | Technical complexity; cost; hygiene access; polymer (PEEK/BioHPP) bars carry peri-implantitis signal | Maximum retention priority; 4-implant designs; prefer milled titanium bar material |
 | Telescopic/Conus | Best patient satisfaction + mucosal health (qualitative); low peri-implant tissue reaction | Higher initial cost; laboratory complexity | Patient satisfaction priority; good bone support |
 | Magnet | — | 7.4× prosthetic complications; demagnetization; wear | Not recommended for routine use |
+
+### CAD-CAM Milled Bars — Bar Material Selection (Chappuis-Chocano 2023, 10 studies, SR+MA)
+
+When a bar (splinted) design is chosen, the bar can now be CAD-CAM milled rather than conventionally soldered, and the bar *material* becomes its own decision. This SR+MA (10 studies: 1 RCT, 1 pseudorandomized, 6 prospective, 2 retrospective; follow-up 3 mo–4 yr) stratifies milled-bar outcomes by material:
+
+| Bar material | Implant survival | Complications / signal |
+|---|---|---|
+| Milled titanium | ~100% (9 studies, 100% ISR) | **Best-evidenced**: pooled bar-level complications 7.4%, biological 2.8%, MBL 0.324 mm; best OHIP/satisfaction |
+| Zirconia | ~100% | Promising; bone loss ≈ titanium; no peri-implantitis; under-evidenced |
+| PEEK / BioHPP (polymer) | ~100% | **Peri-implantitis signal** (none with Ti/zirconia) — possibly from hygiene-limiting design + microbial accumulation on polymer; needs vigilance |
+
+Key points:
+- Milled titanium vs conventional soldered gold bar: **RR 0.638 (95% CI 0.108–3.755, p=0.619)** — no significant complication difference, but milled bars avoid the soldered-extension fracture mode.
+- MBL pooled 0.324 mm but with very high heterogeneity (I²=97.5%) — interpret cautiously; bone loss was independent of bar metal (zirconia ≈ titanium ≈ conventional).
+- Overall GRADE very low to moderate; PEEK/BioHPP/zirconia need long-term RCTs.
+- **Clinical steer**: milled titanium is the default evidence-based bar material (maxilla and mandible) up to 4 years; reserve polymer bars for cases warranting peri-implantitis surveillance.
 
 ### Peri-implant Health by Attachment + Number (Bi 2022, 28 studies, Bayesian NMA)
 
@@ -374,9 +400,12 @@ Arch and implant number:
 │
 ├── MANDIBULAR
 │   ├── Minimum viable → 1 implant (delayed loading, LOCATOR/ball)
-│   │   └── 5y ISR 91.93%; base fractures common; cost/access limited patients
+│   │   └── 5y ISR 91.93%; implant survival = 2-IOD (Koyama 2025) but ~2× prosthetic
+│   │       complications (fracture/remake/housing) → REINFORCE base with metal framework
+│   │       (FEA: −61.8% housing tensile stress); cost ≈ 75% of 2-IOD; needs frequent maintenance
 │   ├── Standard of care → 2 implants (delayed loading)
-│   │   └── Significant PRO advantage over 1 implant (ES 0.73, p<.001)
+│   │   └── Significant PRO advantage over 1 implant (ES 0.73, p<.001); fewer prosthetic
+│   │       complications than 1-IOD though implant survival equivalent (Koyama 2025)
 │   └── Maximum peri-implant bone preservation → 4 implants + bar/telescopic
 │       └── Only combination showing significant MBL advantage vs 2-locator
 │
@@ -393,7 +422,7 @@ Arch and implant number:
 Priorities:
 ├── Lowest maintenance burden → LOCATOR (fewest prosthetic complications)
 ├── Non-parallel implants / limited inter-arch → Ball/stud
-├── Maximum retention → Bar
+├── Maximum retention → Bar (prefer CAD-CAM milled titanium; avoid polymer PEEK/BioHPP bars — peri-implantitis signal)
 ├── Best patient satisfaction + mucosal health → Telescopic/Conus
 └── Avoid → Magnet (7.4× prosthetic complications)
 
@@ -440,6 +469,8 @@ Patient priority:
 - [[complete-denture/lan-2025-long-term-four-implant-supported]] — long-term maxillary 4-implant IOD vs IFR outcomes
 - [[complete-denture/tayari-2024-implant-supported-overdenture-failures-sr]] — risk factors for IOD failure
 - [[complete-denture/padmanabhan-2020-single-implant-retained-overdenture-treatment]] — single-implant mandibular overdenture survival
+- [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — 1-IOD vs 2-IOD RCT-only SR+MA: implant survival equivalent but ~2× prosthetic complications for 1-IOD → metal-framework reinforcement; updates earlier higher-survival-for-1-IOD claim
+- [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — CAD-CAM milled bar IODs SR+MA: milled titanium best-evidenced (ISR ~100%, complications 7.4%); PEEK/BioHPP polymer bars carry peri-implantitis signal
 - [[complete-denture/prasad-2024-attachment-systems-mandibular-implant]] — attachment systems SR+MA; LOCATOR best, magnet worst
 - [[complete-denture/leao-2018-splinted-unsplinted-overdenture-attachment-systems]] — splinted vs unsplinted equivalence SR+MA
 - [[complete-denture/bi-2022-attachment-type-implant-number-overdenture]] — attachment × implant number Bayesian NMA
