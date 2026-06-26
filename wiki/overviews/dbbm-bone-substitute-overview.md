@@ -10,13 +10,13 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, growth-factor, bmp2, collagen-scaffold, sinus-augmentation, overview]
+tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, growth-factor, bmp2, collagen-scaffold, allograft, residual-graft, sinus-augmentation, overview]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 9편(동물·전향·SR+MA) 종합. 탈단백 우골 광물질(Deproteinized Bovine Bone Mineral, DBBM)은 탁월한 골전도 공간유지 재료이나 흡수가 느려 신생골 형성이 열등하다 — 부피 안정성과 신생골 형성의 trade-off가 핵심.
+> - 10편(동물·전향·RCT·SR+MA) 종합. 탈단백 우골 광물질(Deproteinized Bovine Bone Mineral, DBBM)은 탁월한 골전도 공간유지 재료이나 흡수가 느려 신생골 형성이 열등하다 — 부피 안정성과 신생골 형성의 trade-off가 핵심.
 > - 역설적 소견: DBBM 단독은 초기 신생골을 오히려 억제할 수 있다 — 쥐 두개골 4주 모델에서 DBBM 단독이 무이식(공백) 대조군보다 신생골 적음(p=0.025, Fujioka-Kobayashi 2022).
 > - 이상성 인산칼슘(Biphasic Calcium Phosphate, BCP)이 DBBM보다 신생골↑·잔존입자↓ — 토끼 6주서 신생골 +70%·잔존 −60%(Chakar 2014); 상악동 RCT SR+MA서 신생골 +3.48%·잔존 −8.41%(Alkandari 2025).
 > - 최고 근거 보조제는 백혈구-혈소판풍부피브린(L-PRF): DBBM에 추가 시 신생골 +7.07%·잔존 −7.93%(잔존 I²=0%, 기전적 일관성, Almutairi 2025 SR+MA 5 RCT).
@@ -24,16 +24,17 @@ tags: [dbbm, bone-substitute, bcp, prf, l-prf, a-prf, growth-factor, bmp2, colla
 > - PRF 효과는 아형·술식 특이적: 전체 PRF를 뭉친 Idiri 2023(SR, no pooling)은 유의차 없음, L-PRF만 정량 통합한 Almutairi 2025는 유의 — 모순이 아니라 측정 대상이 다름.
 > - 혈소판 용해물(APL)은 피브린 골격이 없어 효과 없음(Chakar 2014) — 성장인자 함량만으로는 in-vivo 골형성을 못 이끈다.
 > - 콜라겐 변형(C-DBBM, 95% DBBM + 5% bovine collagen) ARP에서 식립 시 골유도재생술(GBR) 0/10 필요(Van Orten 2024); porcine-free(할랄) 요구에도 부합.
+> - 동종골(allograft) 대안: 부분탈회 동종 해면골 plug(ACBP)가 소규모 RCT(n=25, 상악동거상+발치와보존)에서 DBBM과 차원 안정성·생활골(38.84 vs 32.18%, P=0.105) 동등 + 잔존 graft는 유의하게 낮음(11.18 vs 19.80%, P=0.006) — 저자는 신생골 우월이 아니라 빠른 graft turnover로 해석, 외형 안정성이 재료별 리모델링 차이를 가린다는 점을 강조(Rao 2026).
 > - 가장 임상적으로 강한 음성 신호: 동시 교정이동(OTM) 부위에 DBBM/DBB 단독 금기 — 비흡수성 입자가 치근흡수를 공백 대조군의 1.87배로 유발(Jiang 2020); BMP2 기능화 CaP(BioCaP)가 대안.
 > - 임상 결정: 상악동거상술 routine 1차는 DBBM(장기 임플란트 생존 데이터 우위), L-PRF 추가는 비용 대비 합리적, BCP는 신생골 속도가 우선일 때. BCP는 단일 재료가 아니라 이질성 높음(I²=86%) 주의.
 
 ## One-line Summary
 
-Across 9 papers spanning animal models, prospective series, and SR+MAs, DBBM emerges as an indispensable osteoconductive scaffold with a well-documented slow-resorption trade-off: BCP hybrids and PRF adjuncts consistently rescue the new bone formation gap, while collagen modifications and BMP2 functionalization extend the engineering frontier.
+Across 10 papers spanning animal models, prospective series, RCTs, and SR+MAs, DBBM emerges as an indispensable osteoconductive scaffold with a well-documented slow-resorption trade-off: BCP hybrids and PRF adjuncts consistently rescue the new bone formation gap, collagen modifications and BMP2 functionalization extend the engineering frontier, and a partially demineralized allograft plug matches DBBM on dimensional stability and vital bone while turning over faster (lower residual graft).
 
 ## 한줄요약
 
-9편(동물·전향·SR+MA) 종합: DBBM은 탁월한 골전도 공간 유지 재료이나 흡수가 느려 단독 사용 시 신생골 형성 열등; BCP 혼합·PRF 보조가 이 간극을 일관되게 메우며, 콜라겐 변형과 BMP2 기능화가 차세대 가능성을 제시함.
+10편(동물·전향·RCT·SR+MA) 종합: DBBM은 탁월한 골전도 공간 유지 재료이나 흡수가 느려 단독 사용 시 신생골 형성 열등; BCP 혼합·PRF 보조가 이 간극을 일관되게 메우고, 콜라겐 변형과 BMP2 기능화가 차세대 가능성을 제시하며, 부분탈회 동종골 plug는 DBBM과 동등한 차원 안정성·생활골에 더 빠른 graft turnover를 보인다.
 
 ## Summary
 
@@ -58,6 +59,8 @@ DBBM (Deproteinized Bovine Bone Mineral, 탈단백 우골 광물질) has been th
 8. **L-serine incorporation into collagen scaffolds provides tunable non-crosslinked membrane persistence.** Subcutaneous mouse model: 40 wt% L-serine collagen showed 2.70 mm² residual area vs 0.37 mm² unmodified collagen (7× more persistent, p<0.05), while Bio-Gide remained most stable at 5.64 mm². Structural mechanism: β-sheet enrichment and crystalline domain formation via hydrogen bonding without cytotoxic chemical crosslinkers (Kim 2025). This creates a design pathway for DBBM-carrying membrane scaffolds with programmable resorption timing.
 
 9. **BMP2-functionalized calcium phosphate (BioCaP) outperforms DBBM in the challenging context of simultaneous orthodontic tooth movement.** Beagle dog study (n=9, 8 weeks): BioCaP produced 1.61× more new bone vs empty control and 1.25× more than DBB; bone mineral density 1.92× higher vs control and 1.36× higher vs DBB; root resorption 1.39× less than DBB. The BioCaP BMP2 dose (140 μg at 1 μg/mL co-precipitation) is 10-fold below conventional rhBMP2, reducing ectopic bone and seroma risk. DBB's slow-resorbing rigid particles are mechanically incompatible with OTM, causing 1.87× more root resorption than the empty control (Jiang 2020). This is the most clinically actionable negative signal for DBBM — it is contraindicated as a solo graft in sites requiring simultaneous tooth movement.
+
+10. **A partially demineralized allograft plug matches DBBM on dimension and vital bone but turns over faster.** Pilot RCT (n=25; ACBP 12 vs DBBM 13; sinus floor elevation + socket preservation, collagen membrane both arms): at 6 months a partially demineralized allogeneic cancellous bone plug (ACBP) was statistically equivalent to DBBM on CBCT dimensional stability (sinus height gain 7.82 vs 8.21 mm, P=0.852; socket ridge change NS) and on newly formed vital bone (38.84% vs 32.18%, P=0.105), but left significantly less residual graft (11.18% vs 19.80%, P=0.006) (Rao 2026). The authors read the lower residual graft as faster graft turnover, not greater osteogenesis — and warn that external contour stability can mask material-specific intermediate remodeling. This separates two endpoints often conflated: dimensional/contour stability (comparable across materials) vs internal tissue composition (residual graft differs, vital bone does not). The study is underpowered, pools two indications, and has only 6-month follow-up.
 
 ## Results
 
@@ -131,6 +134,22 @@ The DBB root resorption signal is the most clinically actionable finding: rigid,
 
 This axis currently has one animal study (n=9 beagles, 3 groups); human data do not yet exist for BioCaP.
 
+### Axis 7 — Allograft Alternative to DBBM and the Residual-Graft-Turnover Endpoint (Rao 2026)
+
+Rao 2026 is the first direct head-to-head clinical comparison of a commercial partially demineralized allograft plug (ACBP; 9×9×12 mm partially demineralized allogeneic cancellous bone, Hubei Osteolink) against the xenograft benchmark DBBM (Bio-Oss) in membrane-based GBR. The single-center pilot RCT (n=25; ACBP 12, DBBM 13) pooled two indications under one protocol — posterior maxillary lateral-window sinus floor elevation and mandibular posterior socket preservation — both with absorbable collagen membrane, single surgeon, tension-free closure. Outcomes at 6 months (implant placement) combined CBCT dimensional analysis with histomorphometry of a 3-mm trephine core.
+
+| Outcome | ACBP | DBBM | p | Interpretation |
+|---|---|---|---|---|
+| Vital bone (%) | 38.84 ± 8.37 | 32.18 ± 11.04 | 0.105 (NS) | Equivalent new bone |
+| **Residual graft (%, primary)** | 11.18 ± 5.48 | 19.80 ± 8.23 | **0.006** | ACBP lower → faster turnover |
+| Sinus height gain (mm) | 7.82 ± 1.52 | 8.21 ± 4.30 | 0.852 (ANCOVA 0.801) | Equivalent (baseline subantral height imbalanced) |
+| Socket ridge height change (mm) | −0.30 | +0.51 | 0.079 (NS) | Equivalent |
+| Socket ridge width change (8/10/12 mm) | — | — | 0.437 / 0.957 / 0.945 | All NS |
+
+**The conceptual contribution is endpoint disaggregation.** ACBP's lower residual graft is not a marker of more bone — vital bone was statistically equivalent — but of faster graft material turnover. Rao 2026 thereby reinforces a theme running through this overview: residual-graft % and vital-bone % are distinct endpoints, and external contour/dimensional stability (comparable across ACBP and DBBM here) can mask material-specific remodeling. This is the same logic that resolves the BCP and L-PRF axes, where the consistent signal is reduced *residual graft* (faster incorporation) rather than uniformly more new bone. The allograft plug joins BCP (Axis 2/5) and L-PRF (Axis 4) as a third lever that shifts DBBM's slow-resorption trade-off toward faster turnover — here by substituting a partially demineralized allogeneic scaffold rather than blending or supplementing the xenograft.
+
+Caveats limiting evidence weight: pilot scale (n=25, no a priori power calculation, not prospectively registered), two pooled indications under one analysis, surgeon unblinded, and 6-month follow-up only. ACBP also carries the allograft-specific considerations (donor sourcing, immunogenicity, patient acceptance) that DBBM's xenograft chain does not.
+
 ## Clinical Decision Threads [claude해석]
 
 **Thread 1 — Routine extraction socket ARP: choosing between DBBM and C-DBBM**
@@ -149,7 +168,11 @@ BCP yields more new bone and less residual graft than DBBM in sinus augmentation
 
 Pure DBBM/DBB should not be used as the solo graft in alveolar defects receiving concurrent orthodontic tooth movement — root resorption risk is 1.87× the ungrafted control (Jiang 2020). BioCaP (BMP2-functionalized CaP) appears to be the only graft tested in this specific scenario with favorable root resorption profile. Until human RCT data exist, clinical use of BMP2-functionalized CaP in OTM sites should be considered experimental. Standard protocol: avoid non-resorbable graft particles in any site subject to orthodontic force.
 
-**Thread 5 — Interpreting PRF generation heterogeneity in the literature**
+**Thread 5 — Allograft plug vs DBBM for routine GBR (sinus/socket)**
+
+When an allograft option is acceptable to the patient and practice, a partially demineralized allogeneic cancellous bone plug (ACBP) is a reasonable DBBM alternative for sinus floor elevation and socket preservation: Rao 2026 shows equivalent 6-month dimensional stability and vital bone, with faster graft turnover (lower residual graft). The faster turnover is plausibly advantageous where complete material replacement by host bone is preferred over indefinite xenograft persistence, but it is not yet shown to improve any implant-level outcome, and DBBM retains the deeper long-term implant-survival track record. The choice should weigh allograft-specific factors (donor sourcing, patient acceptance, regulatory availability) against DBBM's xenograft chain. Given the pilot scale and pooled indications, treat ACBP as evidence-supported-but-not-yet-confirmed-equivalent pending larger powered RCTs with implant survival endpoints.
+
+**Thread 6 — Interpreting PRF generation heterogeneity in the literature**
 
 Clinicians reading PRF studies should discriminate: (a) solid PRF vs liquid PRF (i-PRF) — different growth factor concentrations; (b) L-PRF centrifugation protocol (Dohan high-speed vs Choukroun protocols) — different fibrin architecture; (c) A-PRF low-speed (2700 rpm) — different platelet/cell distribution; (d) PRF mixed into graft vs used as membrane layer. Idiri 2023's null result and Almutairi 2025's positive result for the same general procedure (sinus lift + DBBM + PRF) are both methodologically valid and non-contradictory: they measure different subsets of PRF practice. Future meta-analyses should stratify by PRF generation and centrifugation protocol.
 
@@ -164,3 +187,4 @@ Clinicians reading PRF studies should discriminate: (a) solid PRF vs liquid PRF 
 - [[sinus-lift/lateral/almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma]] — SR+MA 5 RCTs L-PRF+DBBM: +7.07% new bone (p<0.001), −7.93% residual graft (I²=0%); ISQ NS
 - [[sinus-lift/lateral/alkandari-2025-bcp-dbbm-sinus-elevation-sr-ma]] — SR+MA 10 RCTs BCP vs DBBM sinus: +3.48% new bone (p=0.01), −8.41% residual graft (p<0.001)
 - [[sinus-lift/lateral/motimath-2026-xenograft-prf-sinus-histomorphometric]] — split-mouth RCT n=30 A-PRF+DBBM 9 months: 42.8% vs 31.2% new bone; 28.4% vs 41.6% residual graft
+- [[bone-regeneration/rao-2026-allogeneic-bone-plug-versus-dbbm-gbr-pilot-rct]] — pilot RCT (n=25, sinus + socket GBR): partially demineralized allograft plug (ACBP) vs DBBM equivalent on dimension and vital bone (38.84 vs 32.18%, P=0.105) but lower residual graft (11.18 vs 19.80%, P=0.006) → faster turnover, not more bone (Axis 7)
