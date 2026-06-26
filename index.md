@@ -9,6 +9,8 @@ tags: []
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
+- [[implants/surendra-2025-flapless-versus-flapped-crestal-bone]] — Surendra 2025 · rct · 하악 구치부 healed-ridge 단일치 (n=40): flapless가 flapped보다 치조정 골소실 유의하게 적음 (6개월 0.48 vs 0.82 mm, p<0.001), 생존율 100% (DOI 10.4103/jpbs.jpbs_1368_25)
+- [[implants/tarpara-2025-flapless-flapped-clinical-outcomes-cohort]] — Tarpara 2025 · prospective · 단일 구치부 임플란트 비무작위 코호트 (n=20, 12개월): flapless가 술후 통증·6개월 탐침깊이는 낮으나 치조정 골높이는 차이 없음 — Surendra RCT와 상충 (DOI 10.7759/cureus.82547)
 - [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — Koyama 2025 · sr+ma · 하악 1 vs 2 임플란트 오버덴쳐: 생존율 5년까지 동등, 의치 파절·재제작·하우징 재부착은 1-IOD에서 ~2배 (DOI 10.1186/s40729-025-00647-1)
 - [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — Chappuis-Chocano 2023 · sr+ma · CAD-CAM 밀링 bar 오버덴쳐 10편: 임플란트 생존 ~100%, 밀링 티타늄 bar 합병증 최소·OHIP 최상, 폴리머 bar는 임플란트주위염 신호 (DOI 10.1590/1678-7757-2023-0054)
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
@@ -1147,6 +1149,7 @@ tags: []
 - [[drug/anticoagulants/moldovan-2023-anticoagulant-oral-surgery-bleeding-sr]] — SR (7 studies): continuous vs discontinuous anticoagulant and vs bridging — no significant bleeding difference; HAS-BLED/CHA₂DS₂-VASc risk scores guide decisions
 - [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — 서술적 고찰: NSAIDs WHO 1차 진통제; 전 치과분야 적용; COX 외 NF-kB·iNOS 기전; 국소 NSAIDs 금기·대체약 정리
 - [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]] — Magesty 2026 · sr+ma · 사랑니 발치 단회 경구진통제 NMA: NSAID 단독 이상반응 최다(SUCRA 86.5%), 3제 병용 최저(15.5%), 노세보 주도
+- [[drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring]] — Breidung 2025 · retrospective(n=68) · 17년 화상센터 SJS/TEN: **피린계 진통제 메타미졸이 단일 최다 원인약물(8건>알로푸리놀 7건)**, 사망률 51%, 분류트리 AUC 0.88 > SCORTEN 계열
 - [[drug/analgesics/ping-2026-ketorolac-root-canal-pain-sr-ma]] — Ping 2026 · sr+ma · 케토롤락은 근관치료 후 통증 6시간엔 우수(SMD -0.82)·추가진통제 절반(RR 0.50), 12·24시간엔 차이 없음
 - [[drug/analgesics/kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma]] — Kelidari 2026 · sr+ma · 근관치료 후 단회투여: 즉각진통은 디클로페낙+아세트아미노펜, 12–24h 지속은 노바펜·나프록센 우수
 - [[drug/analgesics/altuhafy-2026-tenoxicam-postoperative-dental-pain-sr]] — Altuhafy 2026 · sr · 치과 술후통 tenoxicam: 위약 우월, 타 NSAID·코르티코스테로이드 동등~우월, rofecoxib보단 열등(9 RCT)
