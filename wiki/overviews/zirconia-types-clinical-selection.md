@@ -197,6 +197,8 @@ Sub-overview decomposing dental zirconia grade selection (3Y-TZP, 4Y-PSZ, 5Y-PSZ
 ### Related overviews / interactives
 
 - [[overviews/dental-materials-decision-ladder]] — 부모 페이지 (본 sub-overview 의 parent)
+- [[overviews/zirconia-material-clinical-overview]] — 자매 오버뷰: 지르코니아 **재료과학·세대분류·생존율·LTD·파절수리** (본 페이지=등급 선택, 저 페이지=재료 전반)
+- [[overviews/zirconia-implant-clinical-outcomes]] — 자매 오버뷰: **지르코니아 임플란트** 임상 성적 (보철 재료가 아닌 fixture)
 - [[interactives/2026-05-25_zirconia-inlay-bonding]] — chairside 분기형 의사결정 트리
 
 ## 원장 메모 체크리스트
