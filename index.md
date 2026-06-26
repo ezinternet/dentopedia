@@ -2434,6 +2434,9 @@ tags: []
 - [[implants/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma]] — Del Fabbro & Ceresoli 2014 · sr+ma (19편, n=670): 경사 vs 수직 임플란트 MBL 1년(0.34–1.14 vs 0.43–1.13 mm) — NS (P=.09); 상악 생존 97.4% < 하악 99.6%
 - [[implants/del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma]] — Del Fabbro 2022 · sr+ma (24편, n=2,637, 3–18yr): 임플란트 생존 93.91%·보철 99.31%; 수직(axial) MBL < 경사(tilted) P<.0001; 악궁 무관
 - [[implants/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations]] — Bilgi-Ozyetim 2025 · in-vitro FEA (무치악 하악 All-on-4, 17°/30°/45° × 나사/시멘트): 경사↑→응력↑이나 전 모델 안전범위; 시멘트 유지가 나사 유지보다 프레임워크 응력 3.5배↓
+- [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — Katsoulis 2017 · sr (FOR 합의, 10편): 임플란트 보철 미스피트 → 나사 합병증 연관; 골 소실 영향 불명; 최대 허용 미스피트 한계값 미정
+- [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — Couso-Queiruga 2025 · retrospective (n=505, 10.6yr, Bern): 갭 ≥0.1 mm → DIB 유의 증가(3.45 vs 3.22 mm); 0.1 mm당 +0.08 mm 골소실; 흡연·치주병력 독립 위험인자
+- [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — Jokstad 2014 · retrospective (n=30, 평균 19yr): 미스피트 평균 150 μm; 골소실 상관 약함(R²=0.04); 나사 합병증군 미스피트 유의하게 높음(169 vs 134 μm, P=.005)
 - [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — 즉시식립 이식 재료 선택 종합: gap 골대체재(협측 흡수↓·심미↑·합병증↑)와 연조직(SCTG 최우수>이종 콜라겐 기질>치유지대주 단독 불충분) 두 축 분리
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — 식립 시점(ITI Type 1–4) 종합: 생존율은 시점 무관, 즉시식립에 심미·생물학적 비용 집중(Tonetti RCT), 조기식립이 위험 균형 기본값(Bassir SR+MA)
