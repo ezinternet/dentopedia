@@ -9,6 +9,8 @@ source: chi-2024-customized-angled-abutment-tooth-inclination-fea.md
 category: [implants]
 confidence: in-vitro
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/chi-2024-customized-angled-abutment-tooth-inclination-fea.txt
+text_filename: chi-2024-customized-angled-abutment-tooth-inclination-fea.txt
 full_text: false
 tags: [angled-abutment, customized-abutment, tooth-inclination, FEA, anterior-implant, immediate-implant, CBCT]
 relations:
