@@ -1,0 +1,53 @@
+SOURCE: PubMed Central full text (JATS), retrieved via PubMed MCP.
+Title: Epidemiological Characteristics and Prognostic Scoring in Toxic Epidermal Necrolysis and Stevens–Johnson Syndrome: Insights from a 17-Year Burn Center Experience
+Authors: Breidung D, Delavari S, Megas IF, Geierlehner A, Hitzl W, Bodenschatz KJ, Karcz K, Ehrl D, Billner M.
+Journal: Medicina (Kaunas) 2025;61(1):66.
+DOI: 10.3390/medicina61010066
+PMID: 39859048  PMCID: PMC11767146
+
+=== FULL TEXT ===
+
+1. Introduction
+
+Toxic epidermal necrolysis (TEN) and Stevens–Johnson syndrome (SJS) represent rare but life-threatening dermatologic conditions characterized by severe skin and mucous membrane involvement. These disorders, often triggered by adverse drug reactions or infections, lead to a cascade of cutaneous and systemic reactions, necessitating prompt and intensive medical intervention. Differentiation between SJS, TEN, and SJS/TEN overlap can be made on the basis of the extent of detachment of the body surface area. Below 10% of the body surface area the condition is referred to as SJS, between 10 and 30% as SJS/TEN overlap, and above 30% as TEN. In this study, the term SJS/TEN is used when referring generally to SJS, TEN, and/or SJS/TEN overlap.
+
+These conditions begin usually with flu-like symptoms such as fever, sore throat, and conjunctivitis, followed by the sudden appearance of erythematous macules that coalesce into blisters and detach, leading to large sheets of epidermal loss. Mucosal involvement is seen in over 90% of cases, affecting the eyes, oral cavity, and genital mucosa, resulting in conjunctivitis, oral erosions, and genital ulcers. A positive Nikolsky sign, where slight pressure causes epidermal separation, is a key diagnostic feature. In addition to cutaneous involvement, systemic complications can occur, affecting the respiratory, gastrointestinal, and urinary tracts. Ocular complications are among the most severe long-term sequelae, with conditions such as conjunctival synechiae, corneal ulceration, and chronic dry eye often requiring long-term ophthalmological care. Survivors may experience chronic pigmentary changes, nail dystrophy, and strictures in the gastrointestinal, ocular, and genital mucosa.
+
+The treatment of SJS/TEN requires immediate discontinuation of the causative drug, supportive care, and the use of immunomodulatory therapies when appropriate. Early identification and withdrawal of the culprit drug is the most critical step in reducing mortality. Supportive care includes fluid and electrolyte replacement, nutritional support, temperature regulation, and infection prevention, often requiring care in specialized burn units. Non-adhesive dressings are used for wound care to avoid further epidermal detachment, while active debridement is generally avoided. Pharmacological therapies such as intravenous immunoglobulin (IVIG) have been used to inhibit Fas–FasL-mediated keratinocyte apoptosis, although the evidence for its efficacy remains inconclusive. Cyclosporin (CsA) has shown promising results in halting disease progression and promoting faster re-epithelialization. Corticosteroids are controversial due to the risk of secondary infections, but in some cases, early high-dose therapy has shown potential benefits. Anti-TNF agents, such as infliximab, have been reported to stop disease progression in individual cases. Plasma exchange has been proposed to remove circulating immune complexes, but current evidence supporting its effectiveness is limited. Optimal management of SJS/TEN relies on a multi-disciplinary approach involving dermatology, ophthalmology, and intensive care specialists.
+
+Prognostic systems for SJS/TEN play a critical role in clinical management. In 2000, Bastuji-Garin et al. presented SCORTEN, a Severity-of-Illness Score for toxic epidermal necrolysis, which classifies patients into five risk groups based on mortality risk using seven parameters. Noe et al. 2019 introduced the ABCD-10 score (four parameters). An extension of SCORTEN was presented by Koh et al. in 2022 with Re-SCORTEN, which proposes the red cell distribution width (RDW)/hemoglobin (Hb) ratio as an additional criterion.
+
+2. Materials and Methods
+
+Retrospective study at the Department of Plastic, Reconstructive and Hand Surgery, Burn Unit at Klinikum Nuremberg Hospital, Paracelsus Medical University. Included patients with a clinical diagnosis of SJS, TEN, or SJS/TEN overlap treated at the burn unit between January 2006 and July 2023. Only patients whose diagnosis was confirmed through histopathological examination of skin biopsies were included. Patients excluded if no histopathological confirmation, incomplete data, or treated mostly outside the burn unit. A total of 68 patients met all inclusion criteria.
+
+Patients identified using ICD codes L51.20 (<30% BSA) and L51.21 (≥30% BSA). Demographic data, comorbidities, presumed triggering medications, clinical and laboratory parameters (from day of admission), and clinical outcomes collected. Statistics: Fisher's exact/Pearson, independent t-tests, Monte Carlo randomization, bootstrap logistic regression (OR, 95% CI), classification tree (CHAID, 10-fold CV), ROC/AUC. p<0.05 significant.
+
+3. Results
+
+68 patients: 33 survivors, 35 non-survivors. Mortality rate 51%.
+Age: survivors 64.1±18.7 y, non-survivors 68.5±17.4 y (p=0.32, NS). Male: 36% survivors vs 54% non-survivors (p=0.15).
+No significant differences in comorbidities (diabetes, PVD, obesity, immunosuppression, COPD, heart failure, CKD, dialysis, HIV, cancer, hypertension, alcohol, drug abuse).
+BSA at admission: survivors 43.4%±29.7% vs non-survivors 56.8%±26.2% (p<0.05).
+SJS 6% in each group. SJS/TEN overlap: 36% survivors vs 11% non-survivors (p=0.02). TEN: 58% survivors vs 83% non-survivors (p=0.02).
+Platelet count significantly differed (160.2 vs 221.4). Creatinine: survivors 1.3±1.0 vs non-survivors 1.9±1.8 mg/dL (p=0.05). BUN: survivors 30.9±19.7 vs non-survivors 45.2±30.6 mmol/L (p=0.02).
+Other labs (leukocytes, Hb, RDW, RDW/Hb, AST, ALT, CRP, procalcitonin, glucose, lactate, base excess, bicarbonate) NS.
+Prognostic scores: only Re-SCORTEN differed significantly (3.0 vs 4.2; p=0.01). SCORTEN p=0.20, ABCD-10 p=0.65 (NS).
+
+CAUSATIVE DRUGS: Among 68 patients, 26 drugs identified. **Metamizole was the most frequent causative agent, with 8 cases**, followed by Allopurinol (7 cases). Piperacillin/Tazobactam and Ciprofloxacin each 4 cases. In 14 cases (~20%), no specific medication definitively identified as trigger. Some patients had 2–3 candidate medications.
+
+Classification tree (3 levels): COPD (comorbidity), gender (demographic), hemoglobin and base excess (labs). Accuracy 89%, NPV 81%, PPV 95%, sensitivity 93%, specificity 86%.
+ROC: classification tree AUC 0.88 (highest); Re-SCORTEN 0.66; SCORTEN 0.61; ABCD-10 0.56.
+
+4. Discussion
+
+BSA involvement predicts mortality (56.8% vs 43.4%; p=0.05). Creatinine and BUN elevated in non-survivors (renal dysfunction, AKI = independent risk factor). Hemoglobin and base excess identified as novel predictors when stratified by gender — not in existing scores. COPD highlighted in tree model.
+Established scores performed poorly (Re-SCORTEN AUC 0.66 best), consistent with prior SCORTEN overestimation. Classification tree AUC 0.88 but caution: small sample, no external validation, overlapping 95% CIs.
+
+Metamizole was the most frequently implicated agent, followed by Allopurinol and antibiotics. While Allopurinol is a well-documented trigger, the high frequency of Metamizole is noteworthy and CONTRASTS with international literature, where Metamizole is rarely reported as a causative agent. The high prevalence likely reflects regional prescribing practices, particularly in Germany, where Metamizole is widely used as an analgesic. This highlights geographic variation in drug utilization. In ~20% of cases no causative drug could be identified (consistent with up to 25% idiopathic in other studies).
+
+Limitations: small sample size, possible uncaptured causative drugs, single center, classification tree superiority not proven (overlapping 95% CIs).
+
+5. Conclusions
+
+Highlights clinical/laboratory predictors of mortality in SJS/TEN and limitations of existing prognostic scores. Classification tree model shows potential but not recommended for clinical decision-making yet (single-center, over-interpretation risk). Regional variations in drug triggers (high Metamizole prevalence) should be considered for prevention/management.
