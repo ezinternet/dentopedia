@@ -9,6 +9,8 @@ source: katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr.md
 category: [implants]
 confidence: sr
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr.txt
+text_filename: katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr.txt
 tags: [misfit, passive-fit, framework, screw-complication, full-arch]
 ---
 
