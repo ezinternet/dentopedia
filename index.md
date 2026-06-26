@@ -2901,6 +2901,11 @@ tags: []
 - [[implants/versah-protocols/koutouzis-2025-osteotomy-preparation-short-implants-stability]] — Koutouzis 2025 · animal · Porcine tibia, 90 short 6mm implants: OD IT benefit only for wide (5.4mm) implants (50.0 vs 28.0 Ncm, p=0.005); narrow (4.2mm) no advantage; histomorphometry unchanged
 - [[implants/shilpi-2025-osseodensification-conventional-low-bone-sr-ma]] — Shilpi 2025 · sr+ma · 6 human RCT/NRCT, low-density bone: ISQ NS (immediate SMD 2.13 p=0.06; follow-up p=0.11); bone density significant immediately (SMD 2.14, p=0.004) but NS at 3–7mo — mirrors Mohammadi 2025
 
+## 감염관리·소독·멸균 (Infection Control / Sterilization / Disinfection) — NEW category (added 2026-06-27)
+- [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] — Narrative review: dental sterilization/disinfection methods overview (autoclave, chemical, UV, vaporized H₂O₂, EtO, ozone), biological indicator protocols, sterile storage guidelines; Cureus 2025
+- [[infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr]] — SR (63 studies): electrolyzed water effective broad-spectrum disinfectant for dental surfaces/materials/equipment incl. SARS-CoV-2; BMC Oral Health 2022
+- [[infection-control/samaranayake-2024-dental-unit-waterlines-disinfection]] — Narrative review: DUWL biofilm contamination origins, decontamination methods (physical/chemical/automated), regulatory compliance; Int Dent J 2024
+
 ## 치과 핸드피스·엔진 (Dental Handpiece / Engine) — NEW category (added 2026-06-25)
 - [[dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical]] — Lahdentausta 2022 · prospective(환자 84명·253건, 광학입자측정기) · 에어터빈 핸드피스가 <1 μm·총 에어로졸 최다 생성; 하이스피드·로우스피드 핸드피스·초음파 스케일러도 구강검진 대비 유의 증가; 에어터빈→하이스피드 대체·HVE 권고 (DOI 10.1016/j.heliyon.2022.e11074)
 - [[dental-handpiece/matys-2020-dental-aerosol-hazard-risk-dental]] — Matys 2020 · in-vitro(마네킹, 0.3–10 μm 3지점) · 하이스피드 핸드피스 에어로졸 최다 > 로우스피드 > Er:YAG 레이저 최소; 넓은 맞춤형 고용량 흡입기(HVE) 최대 저감(Zirc 88%) (DOI 10.3390/ma13225109)
