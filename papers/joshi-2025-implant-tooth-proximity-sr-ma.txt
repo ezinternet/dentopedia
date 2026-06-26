@@ -1,0 +1,58 @@
+Joshi NV, Rao P, Talreja P, Joshi M, Shetty AR, Sachdev SS, Khan S.
+The Clinical Impact of Dental Implant Placement in Close Proximity to Natural Teeth: A Systematic Review and Meta-Analysis.
+Cureus. 2025 Dec 12;17(12):e99077. doi:10.7759/cureus.99077. PMID:41531572 PMCID:PMC12791176
+
+[FULL TEXT — PMC12791176]
+
+OBJECTIVE
+Evaluate clinical/radiographic outcomes when implants are placed <1.5 mm from adjacent natural teeth (or direct root contact).
+
+METHODS
+- PROSPERO ID: CRD42024499790
+- Databases: PubMed, Cochrane, Scopus, Web of Science, ScienceDirect, Google Scholar, Semantic Scholar
+- Search: inception to October 2025
+- Included: human observational studies, case-control, cohort, case series documenting proximity-related outcomes
+- Excluded: animal, in vitro, narrative reviews, no distance data
+- n=11 studies (8 observational + 3 case series); 1,727 participants; >2,000 implants
+- Follow-up: 6–75 months
+- Quality: NOS (7–8/9 for all observational) + JBI for case series (8–10/10)
+- Meta-analysis: random-effects model (DerSimonian-Laird)
+
+KEY RESULTS
+
+1. Pulpal/periapical pathology:
+   - Kucukkurt 2020: 20.5% of teeth touching implant required RCT; 2.3% extracted; implant survival 96.4%
+   - Hamdoon: 3 teeth developed periapical lesions after drill contact → RCT saved all
+   - Tasharoie: <1 mm proximity → NO pulpal loss of vitality
+   - Yi (Korea): <1% root injury rate; no extraction needed
+
+2. Marginal bone/peri-implant:
+   - Ng 2018: <1 mm → increased BOP and interproximal bone loss (BL implants)
+   - Kucukkurt: peri-implantitis bone loss in several sites
+
+3. Caries/structural:
+   - Smith: 69 sites with approximal/cervical/root caries (especially posterior)
+   - Tagger-Green: secondary caries most common complication; also tooth cracks and mobility
+
+4. Implant survival: >95% in all studies
+
+QUANTITATIVE SYNTHESIS
+- Pooled proportion: 0.58 (95% CI 0.55–0.62) for any proximity-related clinical or radiographic alteration
+- Pooled effect size: 0.11 (95% CI 0.03–0.22) — low but measurable risk
+- Heterogeneity: I²=95% (substantial)
+
+GRADE certainty:
+- Pulpal/bone outcomes: MODERATE
+- Caries/structural: LOW
+- Implant survival: HIGH
+
+CONCLUSIONS
+- <1.5 mm implant-to-tooth distance may cause localized biological damage (pulpal, periapical, bone loss, caries)
+- Does NOT significantly compromise implant longevity (survival >95%)
+- Severity depends more on direction/depth of drill than distance alone
+- CBCT-guided osteotomy and ≥1.5 mm safety margin are essential
+
+CLINICAL RELEVANCE FOR SPACING DECISIONS
+- Minimum safety distance = 1.5 mm (implant surface to root surface)
+- In practice: root-to-implant center = 1.5 mm + implant radius → e.g., Ø4.0 mm implant = center must be ≥3.5 mm from root
+- Violations → most commonly pulpal damage and secondary caries (not implant failure)
