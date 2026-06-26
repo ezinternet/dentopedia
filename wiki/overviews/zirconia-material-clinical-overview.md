@@ -240,3 +240,4 @@ When veneered zirconia chips or fractures, intraoral repair is the first-line op
 - [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — 5-year prospective LTD follow-up: significant progression, nanoparticle concern, 4.5% fracture rate
 - [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — intraoral ceramic repair protocol by substrate; two-substrate protocol for veneered zirconia; bond strength as critical determinant
 - [[overviews/zirconia-implant-clinical-outcomes]] — complementary overview: zirconia implant (not prosthetic material) survival, marginal bone loss, and patient-reported outcomes
+- [[overviews/zirconia-types-clinical-selection]] — sibling overview: 3Y/4Y/5Y/UHTZ **grade-selection** decision axes (this page = material science overall; that page = which grade for which indication)
