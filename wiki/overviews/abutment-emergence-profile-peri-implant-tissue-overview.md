@@ -17,6 +17,7 @@ source_papers:
   - wiki/implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr.md
   - wiki/implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct.md
   - wiki/implants/wang-2022-buccal-emergence-profile-peri-implant-rct.md
+  - wiki/prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr.md
 relations:
   - type: extends
     target: ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr
@@ -36,6 +37,7 @@ relations:
 > - 표면 축은 무효: 변형 티타늄 표면은 단기 플라크지수·탐침시출혈 (Bleeding on Probing, BoP)·탐침깊이 (Probing Depth, PD)에서 대조군과 차이 없음(P=0.091/0.099/0.488), 장기는 상반(Canullo 2020 SR+MA).
 > - 분리 축은 (이 RCT에서) 무효: OAOT는 반복 분리 대비 12개월 변연골소실 (Marginal Bone Loss, MBL) 유의차 없음(0.36 vs 0.48 mm, NS) — 분리 회피의 이론적 골 보존 이점이 확인 안 됨. 단 **지대주 높이 ≥2 mm가 1 mm보다** MBL 적음(p=.002)이라는 별개의 강한 레버는 재확인.
 > - 맞춤형 치유지대주는 형태 축을 *치유 단계에서* 미리 빚는 도구: 연·경조직·심미 동등 이상, 보철 장착 시 압박 성형 통증 감소(생존율 100%, 6–36개월; Ruhstorfer 2024). 즉시식립·심미부·큰 구치 발치와에 특히 유용.
+> - 형태를 최종 보철로 *전달*하는 축(e): 디지털 인상 시 임시보철을 빼고 연조직을 직접 스캔하면 즉시 ~200–500 μm, 20분 내 최대 ~1 mm 붕괴 → 간접 스캔(제거한 임시보철 구외 스캔·중첩)이 출현윤곽을 가장 충실히 재현해 전통 인상에 근접(Mikulás 2025 SR, 24편). 빚은 윤곽은 *조직*이 아니라 *임시보철*을 스캔해 옮길 것.
 > - 모순처럼 보이는 두 결과의 화해: "형태가 중요하다"(c·d 축)와 "표면·분리는 무의미"(a·b 축)는 충돌이 아니라 **레버의 서열** — 임상 노력은 표면 코팅·OAOT 프로토콜이 아니라 윤곽 설계에 투입해야 한다.
 > - 공통 조절 변수 = **연조직 두께/높이**. 얇은 점막에서 볼록 윤곽이 가장 위험(Siegenthaler), 두꺼운(≥2 mm) 점막에서만 W/H 설계가 작동(Wang) — 출현윤곽 효과는 [[overviews/keratinized-mucosa-peri-implant-health-overview]]의 연조직 축과 분리할 수 없다.
 > - 임상 takeaway: ① 전치부·협측은 **오목/평탄(under-contoured) 윤곽**·낮은 출현각도(~32° 목표) — 볼록은 잉여 연조직을 의도적으로 밀어낼 때만 ② **지대주 높이 ≥2 mm** 우선(골 보존) ③ 표면 처리·OAOT는 골/연조직 결정 인자가 아니므로 다른 이유(워크플로·심미)로 선택 ④ 맞춤형 치유지대주로 윤곽을 조기 형성 ⑤ 모든 형태 결정은 baseline 연조직 두께에 종속.
@@ -73,6 +75,10 @@ Two RCTs converge on shape as the decisive driver:
 
 Both point the same way: a less-convex, lower-angle, anatomy-derived emergence profile preserves the mucosal margin, and the benefit is gated by soft-tissue thickness.
 
+### Sub-axis (e) — Capturing/transferring the shape: indirect digital scanning beats direct
+
+A favorable emergence profile is only clinically useful if it survives the transfer from provisional to definitive restoration. Mikulás 2025 (SR, 24 studies — 1 pilot RCT, 2 cross-sectional, 4 cross-over, 12 case reports, 5 dental techniques; mostly maxillary esthetic zone) compared three digital impression workflows against the conventional elastomeric method (CM) for recording the submucosal emergence profile. The verdict: **indirect scanning** — an extraoral scan of the removed implant-supported provisional restoration (ISPR), superimposed onto the in-situ scan — most faithfully captures the EP and approaches CM, whereas **direct scanning** (intraoral scan immediately after ISPR removal) suffers significant, rapid soft-tissue collapse once mucosal support is lost: ~200–500 μm immediately, up to ~1 mm by 20 minutes (Li, Galibourg, Joda). The pilot RCT (Ling) found direct-scan labial EP deviation 1.87 mm vs indirect 0.75 mm, with comparable pink esthetic scores. This is the **delivery/transfer lever for the shape axis** — the same logic as Ruhstorfer's customized healing abutments (sub-axis c), one step downstream: having sculpted the contour with the provisional, scan the *provisional*, not the collapsing tissue, to carry that contour to the final crown. Caveats: planned meta-analysis was not interpretable (high heterogeneity); most studies moderate-to-high RoB; no agreed clinically acceptable EP-discrepancy threshold.
+
 ### Evidence table
 
 | Paper | Type | n | Lever (axis) | Key finding |
@@ -82,6 +88,7 @@ Both point the same way: a less-convex, lower-angle, anatomy-derived emergence p
 | [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] | SR | 5 studies / 190 implants | (c) customization | Customized = equal-or-better soft/hard tissue, esthetics, less pain; no downside (100% survival) |
 | [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] | RCT | 47 implants (anterior) | (d) shape | Convex 64.3% vs concave 14.3% recession; **convex OR 12.69 (~13×) vs concave, p=.01** |
 | [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] | RCT | 21 (molars, ≥2 mm mucosa) | (d) shape/angle | W/H-derived profile recession 0.13 vs 0.63 mm (p=.006); **angle ~32° < 40°, p=.025** |
+| [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] | SR | 24 studies (esthetic zone) | (e) capture/transfer | Indirect scan (scan the provisional) ≈ conventional; direct scan collapses ~200–500 μm → ~1 mm by 20 min |
 
 ### Reconciliation — why the axes diverge
 
@@ -106,11 +113,15 @@ Both point the same way: a less-convex, lower-angle, anatomy-derived emergence p
 - Prefer a **customized (anatomically shaped) healing abutment** when you want the emergence profile contoured during healing — especially immediate placement in esthetic sites or large posterior sockets — to reduce delivery-time compressive pain and streamline the (digital) workflow; there is no measured biological/esthetic downside (Ruhstorfer 2024).
 - Do **not** rely on **abutment surface modification** to control plaque, bleeding, or pocket depth — it is not a reliable lever (Canullo 2020).
 
+**Capturing the profile for the definitive crown.**
+- When transferring a provisional-sculpted emergence profile digitally, **scan the removed provisional (indirect method)** and superimpose it, rather than scanning the soft tissue directly after provisional removal — direct scanning loses the submucosal contour to rapid collapse (~200–500 μm immediately, up to ~1 mm within 20 min) (Mikulás 2025). If a direct scan is unavoidable, capture it within seconds. Conventional elastomeric impression with a customized coping remains the gold-standard comparator.
+
 ## Related Papers
 - [[implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — surface axis (a): SR+MA showing no short-term soft-tissue effect of titanium surface modification; establishes surface as a non-lever
 - [[implants/rios-santos-2020-one-abutment-one-time-rct]] — disconnection axis (b): RCT finding OAOT confers no bone benefit vs repeated disconnection, but height ≥2 mm does — contradicts the disconnection-avoidance rationale
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — customization axis (c): SR showing customized healing abutments deliver the favorable emergence shape during healing with no downside; the delivery vehicle for the shape lever
 - [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — shape axis (d), anterior: the strongest signal — convex ~13× recession risk vs concave
 - [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — shape/angle axis (d), posterior: reinforces concave/low-angle preference; ~32° beats 40° at molars with ≥2 mm mucosa
+- [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — capture/transfer axis (e): SR showing indirect digital scanning (scan the provisional) reproduces the sculpted emergence profile while direct scanning collapses; the workflow step that carries the favorable shape to the definitive crown
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — sibling overview on the soft-tissue thickness/keratinized-mucosa axis that moderates every emergence-profile effect here
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — sibling overview on preventing buccal mucosal recession/dehiscence, the outcome the shape lever directly controls
