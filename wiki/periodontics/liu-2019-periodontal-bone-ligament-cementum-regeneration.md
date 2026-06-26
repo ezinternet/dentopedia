@@ -12,6 +12,8 @@ pmcid: "PMC6628570"
 source_collection: pubmed-text
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC6628570/
+text_path: /Users/oracleneo/llm-wiki/papers/liu-2019-periodontal-bone-ligament-cementum-regeneration.txt
+text_filename: liu-2019-periodontal-bone-ligament-cementum-regeneration.txt
 tags: [periodontal-ligament, PDL, stem-cells, tissue-engineering, regeneration, 3D-bioprinting, bone-PDL-cementum]
 ---
 
