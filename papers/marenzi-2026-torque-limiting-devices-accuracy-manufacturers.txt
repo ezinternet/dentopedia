@@ -1,0 +1,225 @@
+Background
+
+Dental implantology is considered a safe, accepted, and commonly applied treatment for the rehabilitation of partially and fully edentulous patients [–]. Despite the implant high survival rate reported in many studies, implant-supported prostheses are not free from complications and morbidity and their longevity is limited not only by biologic complications, but also by mechanical complications [,]. The application of a precise tightening force applied by rotational movement of the abutment screw is essential for retention in implant systems in which the connection between the implant and abutment is procured by a screw. Insufficient tightening of the prosthetic screw was correlated to a presence of a microgap and an increased micromovement at the implant-abutment interface; on the contrary, excessive tightening can lead to lose the screw mechanical characteristics and to procure its fracture []. For clinical success, the prosthetic screw retention should be stable and constant, and it should be tightened using precise wrenches designed to control the applied force. Torque is defined as the movement produced by applying tangential force to the screw, usually inserted using a torque wrench and expressed in Newton centimeters (Ncm) []. When the screw is tightened, using a given torque, the connected elements are kept in compression, and the screw receives small impacts because most of the load is absorbed by the friction between the surface irregularity of the implant-abutment components []. The coefficient of friction is directly correlate with the surface roughness and hardness, as well as the magnitude of the applied torque; increasing the surface roughness results in an increase of the friction and a decrease in the preload []. The optimum tightening torque for assuring the adequate screw retention should be procured by the accuracy of the torque limiting devices.
+
+Three different types of torque-limiting devices are available: handheld drivers, mechanical torque-limiting devices, also known as torque wrenches, and electronic torque-control devices []. The mechanical torque-limiting devices were considered able to assure adequate preload and appropriate torque to the dental implant screw; the market offers two types: friction-style (toggle-type) and spring-style (beam type) []. In the first a driver, where the force is applied, is attached. Once the required torque is obtained the handle releases and further motion are automatically stopped. With the spring style the target torque values the operator applied a force to the spring until the desired target torque is achieved by bending the attached bar.
+
+Some authors evidenced different accuracy of these devices to assure the correct tightened force torque to the prosthetic screw and the prevention of the presence of micro-gap at the interface implant/abutment [–].
+
+The aim of this research was to assess the accuracy of three mechanical torque-limiting devices provided by different dental implant manufacturers. The primary outcome of this study consisted in the evaluation of the accuracy of the examined torque wrenches using a universal testing outcome; the presence of micro-gap at the fixture-abutment interface level (expressed in mm), in relation to the torque used to tighten the abutment machine, was also analyzed as a secondary.
+
+Methods
+
+Study design
+
+This study was designed as an in vitro model. Clinical trial number: not applicable.
+
+Evaluation of the accuracy of torque limiting devices
+
+The examined wrenches were:
+
+Biotech Dental Torque Wrench 10–35 Ncm. (Biotech Dental, Salon-de-Provence, France; for short, A):
+
+Biosafin Torque Wrench 10–35 Ncm; (Biosafin, Trezzano Rosa, Italy; for short, B):
+
+Global D Universal Torque Wrench 70 Ncm; (Global D, France; for short, C):
+
+The actual torque of the wrenches was analyzed by setting five unused torque limiting devices for each manufacturer at 15, 20 and 25 Ncm; all the drive had hexagonal shape and each wrench performed twenty measurements at 15, 20 and 25 Ncm respectively. The wrenches were held horizontally on a polylactic acid support specifically designed for this study and produced using an Ultimaker 3 Extended 3D printer (Fig.) and loaded vertically by means of a Universal Testing Machine (Sun 500, Galdabini, Bologna, Italy). The wrenches were mounted with care to ensure proper seating within their designated housings, allowing the fulcrum to move freely throughout the entire range of motion. Since all tested wrenches shared the same structural design, it was possible to secure them uniformly, ensuring unobstructed fulcrum movement while applying force to the wrench handle []. The force was applied to the wrench handler controlling the displacement speed which was set to 1 mm/min []. Before initiating the movement of the pressor, the load cell was tared to ensure the test started at 0 N of force. During the experiment, a force–displacement graph was recorded. The test proceeded until a sudden drop in force was observed in the graph, accompanied by the characteristic ‘click’ sound of the torque wrench, indicating that the preset maximum torque had been reached []. The actual torque value was calculated multiplying the lever arm and the maximum force value obtained in the graph (Fig.).
+
+Fig. 1
+
+The torque wrench was positioned within a 3D-printed support, and the complete assembly was mounted on the universal testing machine. Force was applied to the wrench handle, while the housing was designed to allow free movement of the fulcrum throughout the entire range of motion. The lever arm was defined as the distance from the fulcrum to the point of force application
+
+Fig. 2
+
+The graph shows an example of the mechanical test to determine the maximum force applied to a wrench to determine the actual torque value. The load is applied controlling the displacement of the handler (lever arm) of the wrench, which is set to 1 mm/min, the force starts from 0 N and reaches the maximum value when the actual torque value is reached
+
+Evaluation of fixture-abutment microgap
+
+The examined fixtures and related abutments were:
+
+Kontact Implants (Biotech Dental, Salon-de-Provence, France): length 12 mm, diameter 4.2 mm;
+
+TTc Implants (Biosafin, Trezzano Rosa, Italy): length 9 mm, diameter 4.5 mm;
+
+Inkone Implants (Global D, France); length 9 mm, diameter 4.2 mm;
+
+All dental implants evaluated featured a conical Morse taper connection with a titanium prosthetic screw. The implants had 3 different angular tapes: 5 degrees A, 3 degrees B and 8 degrees C.
+
+For gap analysis, three groups of fixtures (each one of twenty implants with related abutments), from three different companies, were examined. Each group was divided into two equal subgroups (ten implants with related abutments), which were tightened using a torque of 20 and 25 Ncm, respectively. Implants were included in epoxy resin cylinders and longitudinally sectioned using a using a slow-speed diamond saw (Micromet; Remet, Bologna, Italy) under continuous water-cooling. The screws connecting the abutment to the fixture were left in place during the setting of the embedding resin. However, in some cases, they were dislodged during microtome sectioning due to vibrations generated by the machine. The two parts of the sectioned samples were then polished using abrasive discs (grit numbers of 1200 and 2400) under continuous water irrigation []. To remove the impurities formed during microtome cutting, the samples were washed in an ultrasonic bath in alcohol for 5 minutes [].
+
+For scanning electron microscope (SEM) analyses, samples were then mounted on aluminum stubs coated with double-sided carbon tape and sputter coated with gold using an Emitech K550X (Quorum Technologies, Lewes, UK) sputter coater.
+
+Samples were analyzed using a FEI Quanta 250 (FEI, Hillsboro, OR, USA) and a Zeiss Gemini 300 (Zeiss, Oberkochen, Germany) scanning electron microscope, working in secondary electron mode, at an acceleration voltage of 30 kV (Quanta 250) or 5 kV (Gemini 300) and at a working distance of about 10 mm. The two sectioned parts were both analyzed for each implant, acquiring micrographs (at a magnification of 600×) interface between the implant shoulder and the titanium abutment (Fig.).
+
+To reduce the impact of the intra-operator variability factor, only one experienced observer analyzed the acquired images with a 2-days interval between. For each image, a calibration of the software ImageJ, using the image scale bar, was performed, and the gap was measured averaging the 3–5 measurements.
+
+Statistical analysis
+
+A post-hoc power analysis was performed to estimate the power of this study to detect differences in terms of differences in torque. No sample size calculation was performed since no previous analogous studies were available in scientific literature. Normality of data was assessed with Kolmogorov-Smirnov test.
+
+Paired t-test was used to compare actual torque values with nominal torque values for each model of wrench. One-way ANOVA test with Bonferroni’s post-hoc analysis was carried out to compare differences of actual torque values between wrench models. One-way ANOVA with Bonferroni’s post-hoc analysis was also used to compare distribution of gaps at fixture-abutment level between implant groups at 20 and 25 Ncm. A-value < 0.05 was accepted for statistical significance.
+
+Results
+
+Torque wrenches effective values
+
+The results of the study showed that all limiting torque devices examined exert a torque lower than the one set and indicated on the wrench. The error range varies from a minimum of 11% (seen on a A wrench set to a value of 20 Ncm) to a maximum of 29.3% (seen on B wrench set to a value of 15 Ncm).
+
+The inter-group post-hoc analysis showed that wrenches by A were significantly closer to set values at 15, 20 and 25 N/cm than wrenches by B and C. There were no statistically significant differences between wrenches by B and C (Table).
+
+Table 1
+
+Torque values
+
+Implant
+
+Actual torque (mean ± std dev)
+
+Nominal torque
+
+Sig. vs. Nominal torque
+
+Sig.
+
+Post-hoc AvsB
+
+Post-hoc AvsC
+
+Post-hoc BvsC
+
+A (= 100)
+
+14.6 ± 0.56
+
+15
+
+0.0001*
+
+0.0001*
+
+0.0001*
+
+0.0001*
+
+0.99
+
+B (= 100)
+
+14.1 ± 0.74
+
+0.0001*
+
+C (= 100)
+
+14.1 ± 0.72
+
+0.0001*
+
+power (1-β)
+
+0.994
+
+0.994
+
+0.017
+
+A (= 100)
+
+19.6 ± 0.48
+
+20
+
+0.0001*
+
+0.0001*
+
+0.0001*
+
+0.0001*
+
+0.23
+
+B (= 100)
+
+18.9 ± 0.64
+
+0.0001*
+
+C (= 100)
+
+19.0 ± 0.71
+
+0.0001*
+
+power (1-β)
+
+0.999
+
+0.999
+
+0.085
+
+A (= 100)
+
+24.0 ± 0.77
+
+25
+
+0.0001*
+
+0.013*
+
+0.047*
+
+0.023*
+
+0.99
+
+B (= 100)
+
+23.7 ± 0.83
+
+0.0001*
+
+C (= 100)
+
+23.7 ± 0.94
+
+0.0001*
+
+power (1-β)
+
+0.527
+
+0.527
+
+0.017
+
+Evaluation of the torque wrenches effective values. The torque values were calculated multiplying the actual maximum force applied at the moment the set torque value was reached, and the lever arm, measured from the fulcrum to the point the force was applied on
+
+*Statistically significant value (i.e.< 0.05)
+
+Fixture-abutment microgap
+
+The results show that at 25 Ncm there are no gaps at the fixture-abutment interface for all the samples examined independently of the manufacturer, even if the actual torque was lower than the set values, as shown in Table. Nevertheless, at 20 Ncm implants from different manufacturers showed significant differences in gaps distribution, with A implants yielding smaller gaps compared to B and C implants (Table).
+
+Discussion
+
+Despite the high-long term survival rate of implant, many authors reported different types of complications, biological (bacterial infection) or biomechanical, that can procure the implant loss [,]. Implant-supported prosthesis require a stability of the abutment-implant connection; improper tightening can procure the abutment screw loosening, its fracture, and the consequent presence of micro-gap between implant shoulder and abutment interface that can compromise the prosthetic duration [–]. The frequent reported mechanical complication was the screw loosening which can be caused by several mechanism. Many authors evidenced that the loosening moment is directly related to the screw preload [,]. The preload is the force with which the abutment is loaded into the implant with the abutment screw and must not be confused with the torque force, which is weakened by friction during screw tightening. The friction between the screw head and the screw head counterbore transfers the remaining force to the screw shank, with friction between the threads counteracting the torque force. Thus, a certain amount of residual torque will remain in the screw shank and will not be available to join abutment and implant []. A lower preload reduces the clamping forces causing the tightened screw, which naturally tends to return to its original shape, to rotate and further reduce preload. The relationship between the torque and preload was well evaluated by Burguete et al. who identified the contacting surface of the interfaces the most important aspect; size and surface area of contacting flanks (threads), the pitch, the screw radius, the diameter of the head of the screw and the length of the screw play a major role in the relationship between the applied torque and preload []. Preload is indirectly proportional to applied torque because of the frictional force that act on the interfaces. Frictional forces depend on the geometry and material properties of the different components that make up the screw interface []. Material properties of the implant components (elastic moduli and Poisson’s ratios) and environmental conditions which affect material interaction (state of lubrification at mating screw) are other variables which can influence the preload. Considering these elements, it can be considered that every screw design has its own unique torque-preload relationship [,]. It is reported that only 10% of the initial torque is transformed into preload, whereas the remaining 90% is absorbed by the friction between the structures of the joint [,]. This implies that the expected preload, controlled via the torque input, might not be realized in practice and evidence the limited influence of torque limiting device accuracy on preload [].
+
+The screw preload reduction was also related to micromotion or deformation under occlusal load and it was reported the importance of a proper screw retention achieved by maintaining screw preload under occlusal function []. Preload loss can favor the occurrence of the implant-abutment interface misfit providing microgaps and bacterial proliferation as a starting point for the peri-implant marginal bone loss around the dental fixture [–]. For these reasons, the dental implant manufacturers should provide precise devices (wrenches) able to deliver the recommended torques which can ranges from 20 to 30 Ncm []. Several authors evidenced how the mechanical torque limiting devices were able to deliver the required torque even if presented limits about their accuracy [,]. The knowledge of exactly torque value is exerted by the wrenches used in the different phases of the prosthetic construction is mandatory for the clinician. This in vitro study examined three mechanical torque limiting devices produced by different dental implant manufactories with the aim to evidence the accuracy on procuring the required torque level and to avoid the presence of micro-gaps in the implant abutment interface.
+
+In the current investigation the results indicated that a great range of variability in torque force delivered by the tested wrenches. All wrenches examined exert a torque lower than the one set and indicated on the wrench. The error range varies from a minimum of 11% to a maximum of 29.3% evidencing the reduced accuracy of these devices. Several authors reported the lack of precision of these devices related to different variables such as the age of the device, the position of the implants and the operator’s posture [,]. In present study, these variables were not considered using universal testing machine underlining exclusively the possible inaccuracy of the devices. At 15, 20 and 25 Ncm wrenches by A showed that were significantly closer to set values than wrenches by B and C.
+
+Despite the different degrees of imprecision, at presumed 25 Ncm the mechanical torque limiting examined were able of ensuring the absence of micro-gap at the implant-abutment interface.
+
+This data evidence the industrial construction precision the dental implant system was able to compensate the wrenches imprecision []. The absence of micro-gap prevents bacterial colonization of the implant-abutment interface with a possible inflammation of the peri-implant soft tissues and bone resorption [–].
+
+Limitations of the current study included that an established standard for the desired accuracy of a torque wrench is lacking, complicating comparisons and performance assessment. Additionally, all tested wrenches were brand new, which may not replicate clinical conditions were wrenches typically undergo repeated use (wear) and sterilization cycles (corrosion) []. The effects of these variables seem important and previous studies recommended an annual recalibration of the wrenches to reduce inaccurate torque output []. Further clinical studies are needed to determine the degree of deviation from the target torque value could have clinical significance in preventing screw loosening, fractures, or biological complications.
+
+A larger amount of information about the long-term mechanical fatigue could have provided more consistent conclusions about the influence of the cyclic loading, the variables torque, the creation of the interface gap and a possible correlation between them. Therefore, further research using this variations factor as the primary outcome is necessary to better elucidate the results obtained.
+
+Conclusions
+
+The study demonstrated that the accuracy of the mechanical limiting torque devices differed from different manufacturers. This variability highlights a risk of irreversible prosthetic screw damage or loosening. The clinician should know the range of wrenches imprecision of the own dental implant system to applicate more precise tightening force for prosthetic screw to prevent mechanical complications.
