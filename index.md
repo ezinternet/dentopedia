@@ -2856,6 +2856,11 @@ tags: []
 - [[post-and-core/van-landuyt-2025-rct-glass-fiber-versus-metal-posts]] — Van Landuyt 2025 · rct(15년, 182개) · 파이버 생존 경향 우위(68.5% vs 53.6%, NS); 금속은 치근파절로 실패 (DOI 10.1016/j.jdent.2025.105694)
 - [[post-and-core/mously-2024-anterior-endocrowns-alternative-core-crown]] — Mously 2025 · sr(12 in-vitro/FEA) · 전치부 엔도크라운 ≈/> 포스트-코어-크라운 파절저항·복구 가능 실패, ferrule 지배·리튬디실리케이트 최적 (DOI 10.1016/j.identj.2024.07.1216)
 - [[overviews/post-and-core-fiber-post-decision-overview]] — **NEW Overview**: 포스트앤코어·파이버포스트 결정 종합 (5편+FEA). ETT 수복은 순차 결정 — ①포스트 필요여부(치질소실 조건부, ferrule 있으면 엔도크라운이 대안)→②ferrule 보존(최강 가변 예후인자, 재료보다 우선)→③포스트 재료(글라스파이버 ≈ 금속 비유의, 진짜 차이는 실패양상: 금속/강성=치근파절 파국, 파이버/엔도크라운=복구가능). susita-2026 FEA가 탄성계수 정합 앵커로 합류 (2026-06-22)
+- [[post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged]] — Wang 2019 · sr+ma(4 RCTs, 3–7yr, GRADE 고질) · 심한 치질소실(≤2 coronal walls) ETT: 파이버포스트 생존 유의 우위(RR 0.57, P=.04); 성공률·debonding·치근파절은 차이 없음 (DOI 10.3290/j.qi.a41499)
+- [[post-and-core/naumann-2017-ferrule-first-post-second-systematic-review]] — Naumann 2017 · sr(8편 ≥5yr 전향) · "Ferrule Comes First, Post Is Second": 8편 중 7편에서 포스트 효과 없음; ferrule·잔존 치질 보존이 지배 예후인자 (DOI 10.1016/j.joen.2017.09.020)
+- [[post-and-core/lenz-2023-endocrown-core-crown-biomechanical-sr]] — Lenz 2023 · sr(31 in-vitro, 전·후·구치) · 엔도크라운 ≥ 포스트-코어-크라운 피로하중·단조하중 생존; 엔도크라운 응력 더 유리·실패양상 복구 가능 (DOI 10.1111/jerd.13119)
+- [[post-and-core/hawthan-2023-survival-fixed-prosthetics-vital-nonvital]] — Hawthan 2023 · sr(26편 ≥24개월) · 5년 생존 비교: 올세라믹+파이버포스트 95.0% > 금속세라믹+파이버포스트 91.3% > 금속세라믹+무포스트 85.7%; 치수생활력 양호 예후 기여 (DOI 10.1111/jopr.13735)
+- [[post-and-core/yuen-2025-nonmetallic-customized-post-core-outcomes]] — Yuen 2025 · sr(12편, 829치) · CAD/CAM 지르코니아 포스트 ≈ 주조 포스트; PEEK·PEKK 고debonding; 개인맞춤 FRC(EverStick·Ribbond) 복구가능 실패 패턴 (DOI 10.1016/j.joen.2025.11.015)
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
