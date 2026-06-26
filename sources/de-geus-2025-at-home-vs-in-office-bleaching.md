@@ -14,7 +14,7 @@ text_filename: de-geus-2025-at-home-vs-in-office-bleaching.txt
 
 ## Why Ingested
 
-치아미백 (Tooth Whitening, 미백)은 위키에 전용 페이지가 0개인 GAP였다. 본 2025 갱신 SR+MA (32 studies)는 자가미백 (at-home) vs 진료실미백 (in-office)의 효능·민감도를 직접 비교하는 anchor 근거로, 새 `tooth-whitening` 카테고리의 기준점이 된다. 미백 후 민감도는 [[overviews/dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]]의 상아질 과민증 기전과 직결된다. abstract-only — full text not retrieved.
+치아미백 (Tooth Whitening, 미백)은 위키에 전용 페이지가 0개인 GAP였다. 본 2025 갱신 SR+MA (32 studies)는 자가미백 (at-home) vs 진료실미백 (in-office)의 효능·민감도를 직접 비교하는 anchor 근거로, 새 `tooth-whitening` 카테고리의 기준점이 된다. 미백 후 민감도는 [[overviews/dentin-hypersensitivity-overview]]의 상아질 과민증 기전과 직결된다. abstract-only — full text not retrieved.
 
 ## One-line Summary
 
