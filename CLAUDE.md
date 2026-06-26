@@ -529,7 +529,7 @@ Each session should produce 5–15 new or updated wiki pages.
 
 ### Overviews domain map (auto-generated — do NOT hand-edit)
 
-`interactives/overviews-map.html` is the at-a-glance browser for all `wiki/overviews/` pages, grouped by clinical domain (search + expand/collapse, titles link to each page). It is **auto-generated** by `scripts/build-overviews-map.py` from each overview's frontmatter (`title`/`date`); the deploy workflow regenerates it on every push to `wiki/**`, and the homepage `wiki/index.md` embeds it via `<iframe>` (absolute URL — Quartz `CrawlLinks` rewrites root-relative/`.html` srcs, so the iframe and the interactives-index link both use the full `https://ezinternet.github.io/llm-wiki/...` URL).
+`interactives/overviews-map.html` is the at-a-glance browser for all `wiki/overviews/` pages, grouped by clinical domain (search + expand/collapse, titles link to each page). It is **auto-generated** by `scripts/build-overviews-map.py` from each overview's frontmatter (`title`/`date`); the deploy workflow regenerates it on every push to `wiki/**`, and the homepage `wiki/index.md` embeds it via `<iframe>` (absolute URL — Quartz `CrawlLinks` rewrites root-relative/`.html` srcs, so the iframe and the interactives-index link both use the full `https://ezinternet.github.io/dentopedia/...` URL).
 
 Never edit `overviews-map.html` by hand (it's overwritten). A new overview appears automatically once its file lands in `wiki/overviews/`; if its `stem` matches no domain keyword in the script's `DOMAINS` map, it falls into the `기타 · 미분류` bucket (never dropped). To re-home it, add its keyword to `DOMAINS` in `scripts/build-overviews-map.py`. Regenerate locally with `python3 scripts/build-overviews-map.py`.
 
