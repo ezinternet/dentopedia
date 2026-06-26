@@ -167,7 +167,15 @@ The functional-monomer rationale underlying steps 2–3 is now spelled out at th
 - [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — 지르코니아 합착 적층기법·mould·노화 영향. [근거강함 in-vitro]
 - [[resin/deniz-2025-dual-cure-self-adhesive-cement-cytotoxicity]] — dual-cure 시멘트 세포독성: 광중합<자가중합. [근거강함 in-vitro]
 
+**자가접착 레진시멘트 임상 생존율 (Alvarenga 2024 SR+MA, 9 RCTs)**: In-vitro 결합강도가 아닌 임상 실패율(hazard ratio)로 비교. 9편 중 8편에서 **자가접착 ≈ 기존 시멘트(nonsignificant)**; 1편에서 단일치 세라믹 크라운에서 자가접착 더 높은 실패(이상 신호). 풀링 결과 유의차 없음 → **임상 생존율 면에서도 자가접착 레진시멘트 권장 가능**. 다만 저강도/심미 세라믹 크라운에서는 기존 접착 프로토콜 고려.
+
+→ 이 근거는 in-vitro 우위(Borouziniat 2024, 지르코니아 SBS)가 **임상 생존율에서도 non-inferiority로 이어짐을 확인**하는 임상적 근거점(clinical anchor). [근거강함; abstract-only, HR 정밀값 미회수]
+
 ## Related Papers
+
+### 신규 추가 (2026-06 이후)
+
+- [[resin-bonding/alvarenga-2024-self-adhesive-vs-conventional-cement-failure-sr-ma]] — SR+MA (9 RCTs): 자가접착 레진시멘트가 기존 시멘트 대비 간접 단일치 수복물 임상 실패율 유의차 없음 — in-vitro 비열등성을 임상 생존율에서 확인 (sr+ma, 2024)
 
 ### 신규 추가 (2026-06)
 
