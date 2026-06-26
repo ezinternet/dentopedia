@@ -27,7 +27,7 @@ OUT = ROOT / "interactives" / "overviews-map.html"
 
 # 배포 사이트 baseUrl 경로 prefix (quartz.config.ts baseUrl 과 일치).
 # overview 페이지 링크: {SITE_BASE}/overviews/{stem}
-SITE_BASE = "/llm-wiki"
+SITE_BASE = "/dentopedia"
 
 # 도메인 정의: (라벨, [stem 키워드...]). 위에서부터 첫 매치가 그 도메인.
 # 순서 = 카드 표시 순서(임상 흐름). 키워드는 stem 부분일치.
