@@ -10,6 +10,8 @@ confidence: narrative-review
 pmid: "41484074"
 pmcid: "PMC12764867"
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/demolon-2026-periodontitis-bone-loss-signaling-pathways.txt
+text_filename: demolon-2026-periodontitis-bone-loss-signaling-pathways.txt
 full_text: true
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC12764867/
 tags: [periodontitis, bone-loss, signaling-pathways, NF-kB, RANKL, osteoclast, JAK-STAT, MAPK, PI3K-Akt, therapeutics]
