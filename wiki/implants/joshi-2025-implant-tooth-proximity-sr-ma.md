@@ -10,6 +10,8 @@ source: joshi-2025-implant-tooth-proximity-sr-ma.md
 category: [implants]
 confidence: sr+ma
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/joshi-2025-implant-tooth-proximity-sr-ma.txt
+text_filename: joshi-2025-implant-tooth-proximity-sr-ma.txt
 tags: [implant-to-tooth-distance, ITD, proximity, pulpal-damage, bone-loss, safety-margin]
 ---
 
