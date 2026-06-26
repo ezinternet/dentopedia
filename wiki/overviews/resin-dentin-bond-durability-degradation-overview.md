@@ -23,7 +23,7 @@ tags: [resin-bonding, hybrid-layer, water-tree, nanoleakage, mmp, ethanol-wet-bo
 > - **MMP 억제 — 임상 권고 가능**: 클로르헥시딘(CHX)이 즉시 결합강도엔 무효하나 6/12/24개월 노화 결합강도를 유의 보존(SR+MA, Kiuru 2021) → CHX 적용 권고.
 > - **MDP 화학결합 기전**: 10-MDP가 hydroxyapatite와 이온결합해 **자기조립 nanolayer(MDP-Ca)** 형성 + 산-염기 저항층 (Yoshihara 2011, Carrilho 2019). **단 반전**: 상용 접착제는 nanolayering이 희소(15% 실험용서만, Tian 2015)하고, in-vitro 우월성(Fehrenbach 2021)에도 **NCCL RCT선 임상 이점 없음(p=0.05, de Oliveira 2021)**.
 > - **습윤접착 도그마 재검토**: 에탄올 습윤+CHX는 in-vitro 내구성↑(Talungchit 2014)이나, etch-and-rinse 건조 vs 습윤 NCCL RCT 5편서 **유지율·과민 차이 없음**(Forville 2024) → "촉촉한 상아질" 절대원칙 약화.
-> - **보조 전략**: 산성 상아질 conditioner가 장기 결합 개선·선택적 extrafibrillar 탈회로 건조접착 보조 (Zheng 2024).
+> - **보조 전략**: 산성 상아질 conditioner가 장기 결합 개선·선택적 extrafibrillar 탈회로 건조접착 보조 (Zheng 2024). **콜라겐 가교(collagen crosslinking)**: 프로안토시아니딘(proanthocyanidin, PAC) 프라이머가 혼성층·하부 상아질의 복합탄성계수↑·미세투과도↓(1년 유지), 삼량체(DP3)>사량체(DP4) — 층별 내구성 기전으로 Zhou 2025 가교 효과를 보강 (Neves 2026, in-vitro).
 > - **임상 한 줄**: 결합 수명을 늘리려면 **물을 줄이고(용매 충분 휘발·습윤 과하지 않게)·효소를 막고(CHX)·콜라겐을 보존**하라. MDP/nanolayer·습윤접착의 in-vitro 우월성은 임상서 희석되므로 술식 규율(전환율·오염차단·CHX)이 더 결정적.
 > - **확신도**: 열화 기전·water-tree·MDP nanolayering = in-vitro 강함; MMP-CHX = SR+MA 중등도; 습윤접착·MDP 임상효과 = RCT/SR이 in-vitro와 괴리(낮음~중등도).
 
@@ -63,6 +63,8 @@ Chlorhexidine (CHX) is the most-studied MMP inhibitor: [[resin-bonding/kiuru-202
 
 Ethanol-wet bonding (replacing water with ethanol before hydrophobic resin) plus CHX improves in-vitro durability ([[resin-bonding/talungchit-2014-ethanol-wet-bonding-chlorhexidine-resin-dentin-durability]]). However, the "moist dentin" dogma is weakening clinically: across 5 split-mouth NCCL RCTs, **dry vs wet etch-and-rinse bonding showed no difference** in retention or sensitivity ([[resin-bonding/forville-2024-moist-dentin-adhesive-systems-reevaluation]], moderate GRADE). Acid-based dentin conditioners can improve long-term durability and aid dry bonding via selective extrafibrillar demineralization ([[resin-bonding/zheng-2024-dentin-conditioners-bond-strength-sr]]).
 
+**Collagen crosslinking — the layer-resolved mechanism (a third strategy beyond enzyme inhibition and chemical bonding).** Where CHX (§4) blocks collagenolysis and MDP (§5) adds chemical anchorage, proanthocyanidin (PAC) crosslinkers stabilize the bond by stiffening the collagen matrix itself. Neves (2026), an NIH-funded nano-DMA + micro-permeability in-vitro study (5 groups, 1-year simulated-body-fluid aging) from the Bedran-Russo group, dissects *how* this works rather than reporting a single bond-strength figure: rinse-out AB-type PAC primers (DESIGNER-standardized DP3/DP4 oligomers) **raised the complex modulus (E\*) of the hybrid layer and the underlying mineralized dentin and reduced interfacial micropermeability vs unprimed control (p<0.001)**, with the reinforcement acting strongest on the hybrid layer and underlying dentin (not the adhesive layer) and persisting at 1 year. Structure–activity: **trimeric (DP3) > tetrameric (DP4)** PACs (better fit into interfibrillar collagen spaces), with native viscoelastic damping preserved. Mechanistically it unifies the two failure modes of §2 — crosslinked collagen resists enzymatic cleavage *and* displaces unbound water — giving a layer-specific account that extends the bulk crosslinker bond-strength gains synthesized by Zhou (2025) and reinforces the Tjäderhane hybrid-layer-durability frame. [근거강함 in-vitro]
+
 ### Clinical bottom line
 
 To extend bond longevity: (1) **maximize degree of conversion** and evaporate solvents fully; (2) avoid both over-wet and over-dry extremes (the moisture window is wider than the dogma implied); (3) **apply chlorhexidine** (or other MMP inhibitor) to slow collagenolysis; (4) use **MDP-containing** adhesives for their chemical bond and acid-base-resistant zone — but don't expect nanolayering alone to guarantee longevity; (5) preserve collagen (crosslinkers/conditioners) and consider biomimetic remineralization as it matures. In-vitro superiority of MDP nanolayering and ethanol-wet bonding consistently exceeds their measured clinical benefit, so **technique discipline (conversion, contamination control, CHX) matters more than any single monomer**.
@@ -78,6 +80,7 @@ To extend bond longevity: (1) **maximize degree of conversion** and evaporate so
 | MDP nanolayering | Yoshihara 2011 · Carrilho 2019 · Tian 2015 | in-vitro/sr | nanolayer real but sparse in commercial adhesives | in-vitro |
 | MDP clinical efficacy | Fehrenbach 2021 · de Oliveira 2021 | sr/sr+ma | in-vitro superior; no clinical NCCL benefit | low–moderate |
 | Wet bonding / conditioners | Talungchit 2014 · Forville 2024 · Zheng 2024 | in-vitro/sr+ma | moisture dogma weakening; conditioners help | low–moderate |
+| Collagen crosslinking (PAC) | Neves 2026 | in-vitro (nano-DMA, 1-yr) | PAC primers ↑ HL/dentin modulus, ↓ micropermeability; DP3 > DP4; layer-resolved durability mechanism | in-vitro (strong) |
 
 ## Related Overviews
 
