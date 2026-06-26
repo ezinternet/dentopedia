@@ -1,0 +1,485 @@
+Introduction
+
+The maxillary sinus is a critical anatomical structure in contemporary dentistry, particularly as dental implants have become a standard approach for tooth replacement. Tooth loss in implant sites commonly results from dental caries, infections, periodontal disease, periapical lesions, or failed interventions such as unsuccessful root canal treatments. In the posterior maxilla, where crestal or lateral sinus augmentations are frequently required, these odontogenic factors can significantly impact sinus health and, consequently, the success of implant procedures [–]. Therefore, a thorough understanding of the relationship between odontogenic conditions and maxillary sinus pathology is essential for effective treatment planning.
+
+The posterior maxillary region presents unique challenges due to its close anatomical relationship with the maxillary sinus. This proximity necessitates detailed radiographic evaluation to guide treatment strategies. Dental infections and pathologies can directly affect the sinus mucosa, leading to significant pathological changes [,]. Research suggests that over one-third of maxillary sinus diseases have dental origins [–], underscoring the importance of understanding odontogenic interactions in achieving optimal clinical outcomes.
+
+However, sinus pathologies may also develop independently of odontogenic factors [,]. Clinicians must be able to identify these conditions on radiographic images, determine their prevalence, and recognize contributing epidemiological variables. Accurate preoperative assessment of sinus pathologies is crucial for the success of sinus augmentation procedures [–].
+
+The advent of cone-beam computed tomography (CBCT) has transformed preoperative diagnostics, offering high-resolution, three-dimensional imaging of sinus anatomy. This advanced imaging technology has improved treatment planning, reduced complications, and optimized implant success rates. Nevertheless, many clinicians still lack a comprehensive understanding of sinus pathologies, sometimes leading to excessive or insufficient precautions before sinus lift procedures, which may contribute to suboptimal outcomes [,].
+
+The Schneiderian membrane, a delicate pseudostratified ciliated columnar epithelium lining the maxillary sinus, plays a key role in mucociliary clearance and the sinus’s inflammatory response. Mucosal thickening is the most prevalent sinus pathology, and if left unaddressed, it may progress to chronic sinusitis []. Current literature defines mucosal thickening > 3 mm as pathological [,,]. Other common sinus abnormalities include mucus retention cysts, polyps, mucoceles, and non-specific opacifications.
+
+Although a few studies have examined sinus pathology, most have not included odontogenic risk factors or evaluated their statistical associations, nor have they reported on the role of demographic variations in the prevalence of sinus pathology. The present study collected all of these details in a single study, while at the same time limiting the patient population to only implant candidates, while passing strict inclusion and exclusion criteria such as light smoking, presence of a fresh extraction socket, and patients with no previous bone augmentation or implant procedures. By integrating these parameters, this study provides clinically relevant insights that may aid in optimizing preoperative planning for sinus augmentation and implant placement, ultimately reducing complications and improving surgical predictability.
+
+This retrospective study aims to fill knowledge gaps by evaluating 2,000 maxillary sinuses from 1,000 CBCT scans of dental implant candidates. The primary objectives are to determine the prevalence of sinus pathologies, categorize the most frequent conditions, and analyze their associations with odontogenic factors. Additionally, this research explores the influence of demographic variables such as age and gender. By clarifying these relationships, this study seeks to enhance clinical decision-making in preoperative planning for sinus augmentation and implant placement, ultimately ensuring safer and more predictable surgical outcomes.
+
+Materials and methods
+
+Study sample
+
+This retrospective study analyzed 1,000 CBCT scans selected from 3,220 patients who underwent imaging at Istanbul Aydin University Faculty of Dentistry Hospital between 2012 and 2022. The study included implant candidates (500 males, 500 females) evaluated for posterior maxillary dental implant placement. Demographic data, including gender and age at the imaging time, were retrieved from patient records. Patients were categorized into ages 18–39, 40–59, and ≥ 60 years. The study followed the ethical principles of the Declaration of Helsinki.
+
+Acquisition and evaluation of CBCT images
+
+All CBCT scans were acquired at the university’s radiology department using a Morita 3D Accuitomo 170 system (J. MORITA MFG, Kyoto, Japan) with standardized settings: 120 kV, 5.0 mA, 26.9-second exposure time, and a 23 × 17 cm field of view (FOV). Calibration was performed before each session, and patients’ Frankfort horizontal planes were aligned parallel to the floor to ensure standardized head positioning.
+
+A single experienced specialist evaluated the images using a Samsung C27F391FHM LED monitor (1920 × 1080 resolution). To assess intra-observer reliability, the same examiner re-evaluated a subset of images two weeks later, achieving a Cohen’s kappa of 0.78. Image reconstruction was performed using i-Dixel One Volume Viewer software with a slice thickness of 0.5 mm and a voxel size of 0.4 mm.
+
+Evaluation of the maxillary sinus
+
+Both maxillary sinuses were assessed for each patient, even when only a unilateral implant was planned. Initial evaluation was performed using panoramic radiographs to obtain an overview of the posterior maxillary region, followed by detailed multiplanar reconstructions (coronal and sagittal views) from CBCT images to ensure a comprehensive sinus assessment.
+
+Sinus abnormalities were categorized as follows (Fig.):
+
+Fig. 1
+
+Maxillary sinus conditions identified via CBCT. () Clear sinus; () Mucosal Thickening; () Cyst/Polyp; () Opacification (≥ 50% of sinus volume)
+
+: Completely radiolucent sinus with intact cortical boundaries and mucosal thickness < 3 mm.
+
+: Soft tissue density without cortical bone, with mucosal thickness > 3 mm.
+
+: Dome-shaped soft tissue densities lacking cortical bone.
+
+: Homogeneous opacification occupying more than 50% of the sinus.
+
+Inclusion and exclusion criteria
+
+To ensure sample consistency, strict inclusion and exclusion criteria were applied. As a result, out of the 3,220 CBCT images available in the faculty hospital’s radiology archive, more than 2,000 had to be reviewed to identify 1,000 that met the eligibility criteria.
+
+Inclusion
+
+Healthy individuals without uncontrolled systemic diseases.
+
+Smoking < 10 cigarettes/day.
+
+CBCT images with complete cross-sectional views of the sinus, posterior teeth, or defined edentulous ridges.
+
+Exclusion
+
+Age < 18 years.
+
+History of sinusitis within the past year.
+
+Mucoceles cause bone destruction.
+
+Presence of retained foreign bodies (e.g., root canal fillings, fractured roots).
+
+History of sinus or nasal surgery.
+
+Presence of adjacent cysts or tumors.
+
+Previous dental implant placement, bone grafting, or sinus augmentation in the posterior maxilla.
+
+Fresh extraction sockets (< 12 weeks post extraction) in the sinus region.
+
+Evaluation of maxillary sinus and odontogenic factors
+
+The evaluation process involved separately recording the distribution of left and right maxillary sinuses. The odontogenic assessment focused on the first and second premolars and the first, second, and third molars bilaterally. The anatomical relationship between the posterior maxillary teeth and the sinus floor was analyzed using sagittal and coronal CBCT sections.
+
+The tooth-sinus relationship was classified as:
+
+: A measurable cortical bone layer separates the tooth root from the sinus floor.
+
+: At least one root contacts or protrudes into the sinus cavity.
+
+Only cases where teeth contacted the sinus were evaluated for potential odontogenic factors contributing to sinus pathologies. These factors were classified into four categories:
+
+: Apical radiolucencies associated with the apical portion of the tooth root or a periodontal ligament space ≥ 0.5 mm (twice the normal width). Lesions extending toward the sinus floor were recorded separately for correlation with sinus pathology.
+
+: Previously root canal-treated teeth exhibiting periapical radiolucency ≥ 0.5 mm. Cases with apical pathology despite completed endodontic treatment were included to assess the impact of endodontic failure on sinus health.
+
+: Endodontically treated teeth with no radiographic evidence of periapical pathology. Regardless of treatment success, all cases were included as long as no periapical lesion more than ≥ 0.5 mm was present. Both incomplete and fully obturated canals were considered. Only cases with overextended fillings or dislocated canal instruments were excluded. However, fractured instruments retained within the roots were analyzed.
+
+: Cases where posterior maxillary teeth were missing. Included patients with edentulous maxillary segments adjacent to the sinus, regardless of the duration of edentulism. However, fresh extraction sockets (< 12 weeks post-extraction) were excluded to avoid potential transient changes in sinus morphology.
+
+Statistical analysis
+
+Categorical variables were presented as frequencies and percentages, while continuous variables were summarized using mean, standard deviation, median, minimum, and maximum values.
+
+Associations between categorical variables were analyzed using the chi-square test, and a one-sample chi-square test was applied to compare observed vs. expected frequencies under the null hypothesis.
+
+A multivariate logistic regression model was used to assess the association between sinus pathologies and odontogenic factors, adjusting for age, gender, smoking status, and odontogenic variables (e.g., periapical lesions, root canal treatments, and edentulism).
+
+The Shapiro–Wilk test was performed to assess the normality of continuous data, while Levene’s test evaluated variance homogeneity. All statistical analyses were conducted using SPSS version 27 (IBM Corp.), with<.05 considered statistically significant.
+
+Results
+
+Overall prevalence of sinus pathologies
+
+Among the 1,000 patients assessed, 548 (54.8%) exhibited pathology in at least one maxillary sinus. A total of 2,000 maxillary sinuses were evaluated, of which 790 (39.5%) were classified as pathologic.
+
+Sinus pathologies were detected in 276 of 500 men (55.2%) and 272 of 500 women (54.4%), with no statistically significant difference between genders (=.120). When analyzing individual sinuses, 410 (41%) in men and 380 (38%) in women were affected, also showing no significant gender difference (=.123).
+
+Types of pathologies identified
+
+Mucosal thickening was the most prevalent pathology, affecting 482 (61%) of the 790 pathologic sinuses. Cysts/polyps were identified in 218 sinuses (27.6%), while opacifications were detected in 90 sinuses (11.4%).
+
+Among patients with sinus pathologies, 132 right and 174 left sinuses were unaffected. The distribution of pathologies between left and right sinuses showed no statistically significant difference (=.657).
+
+Age and gender analysis
+
+Gender analysis revealed a higher prevalence of cysts/polyps in men (=.020), while no significant differences were found for mucosal thickening or opacification between genders (>.05, Table).
+
+Table 1
+
+Distribution of detected pathologies by gender
+
+PATHOLOGY
+
+OPACIFICATION
+
+CYST
+
+THICKENING
+
+n
+
+n
+
+n
+
+-value
+
+GENDER
+
+Male
+
+46 (11.25%)
+
+130 (31.78%)
+
+233 (56.97%)
+
+0.021*
+
+Female
+
+44 (11.55%)
+
+88 (23.1%)
+
+249 (65.35%)
+
+p-value
+
+0.900
+
+0.020*
+
+0.132
+
+*(Chi-square analysis)
+
+n: Number of sinuses, %: Percentage of sinuses with pathology within each gender category
+
+When patients and sinuses were categorized into three age groups, no significant differences were observed in the prevalence of sinus pathologies (=.519 for patients;=.191 for sinuses). Similarly, pathology rates did not significantly vary among general age groups (=.165) or when analyzed separately by gender (males:=.207; females:=.821).
+
+However, patients aged 41–60 exhibited a significantly higher incidence of bilateral sinus pathology (<.0001).
+
+Impact of odontogenic factors
+
+Five hundred ninety-two sinuses (29.6%) out of 2,000 were excluded from this analysis due to the absence of tooth root contact with the maxillary sinus. Among the remaining 1,408 sinuses, 800 were classified as healthy, whereas 608 (43.2%) exhibited pathology.
+
+Sinuses without odontogenic factors were significantly healthier than those affected by these factors, which were more likely to exhibit pathology (<.0001, Table).
+
+Table 2
+
+Analysis of 1408 sinuses with full dentition, evaluating the impact of odontogenic factors on sinus health
+
+NO PATHOLOGY(, %)
+
+PATHOLOGIC(, %)
+
+TOTAL(, %)
+
+-value
+
+LESION (NO RCT)
+
+112 (35%)
+
+208 (65%)
+
+320
+
+*
+
+RCT WITH LESION
+
+42 (44.2%)
+
+53 (55.8%)
+
+95
+
+0.013*
+
+RCT WITHOUT LESION
+
+83 (53.5%)
+
+72 (46.5%)
+
+155
+
+0.411
+
+HEALTHY TEETH
+
+563 (67.2%)
+
+275 (32.8%)
+
+838
+
+0.0001*
+
+TOTAL
+
+800
+
+608
+
+1408
+
+*(Chi-square analysis)
+
+n: Number of sinuses, %: Percentage of sinuses with pathology within each gender category
+
+Teeth with periapical lesions, whether without root canal therapy or treated with root canal therapy, were significantly associated with maxillary sinus pathology (<.0001 and=.013, respectively, Table). Edentulism was significantly associated with maxillary sinus pathologies (<.0001), particularly with an increased prevalence of mucosal thickening (<.0001).
+
+Table 3
+
+Association between sinus pathologies and odontogenic causes, detailing the influence of lesions, missing tooth, and root Canal treatments
+
+ODONTOGENIC CAUSE
+
+LESION(NO RCT)
+
+RCT(NO LESION)
+
+RCTWITH LESION
+
+p-value
+
+PATHOLOGY
+
+OPACIFICATION
+
+24
+
+4
+
+7
+
+0.323
+
+CYST
+
+50
+
+19
+
+13
+
+0.942
+
+THICKENING
+
+134
+
+49
+
+33
+
+0.916
+
+*(Chi-square analysis)
+
+In contrast, root canal-treated teeth without periapical lesions showed no significant relationship with sinus pathology (=.411).
+
+Bilateral vs. unilateral pathologies
+
+Among the 548 patients with sinus pathologies, no significant differences were observed between gender and age regarding bilateral vs. unilateral pathology (=.056 for gender;=.426 for age group).
+
+However, patients aged 41–60 were significantly more likely to have bilateral sinus pathology than other age groups (<.0001, Table).
+
+Table 4
+
+Comparison of gender and age distributions among patients with bilateral maxillary sinus pathologies
+
+(%)
+
+-value
+
+GENDER
+
+Male
+
+133 (54.96%)
+
+0.123
+
+Female
+
+109 (45.04%)
+
+AGE
+
+21–40 Age
+
+86 (35.54%)
+
+*
+
+41–60 Age
+
+112 (46.28%)
+
+61 Age and older
+
+112 (46.28%)
+
+*One Sample Chi-square analysis
+
+n: Number of patients, %: Percentage of patients with bilateral sinus pathologies in each category
+
+Additionally, mucosal thickening was strongly associated with bilateral involvement (<.0001), while sinus cysts were more frequently observed in unilateral cases (=.003, Tablesand).
+
+Table 5
+
+Frequency and distribution of identical pathologies occurring bilaterally in the maxillary sinuses
+
+n
+
+%
+
+-value
+
+OPACIFICATION
+
+15
+
+9.5
+
+0.210
+
+CYST
+
+26
+
+16.5
+
+*
+
+THICKENING
+
+117
+
+74.1
+
+*
+
+*One Sample Chi-square analysis
+
+n: Number of bilateral cases, %: Percentage of total bilateral sinus pathologies
+
+Table 6
+
+Incidence of unilateral versus overall sinus pathologies, focusing on significant differences
+
+Study Overall(%)
+
+One-Sided(%)
+
+-value
+
+OPACIFICATION
+
+90 (11.4%)
+
+26 (8.5%)
+
+0.083
+
+CYST
+
+218 (27.6%)
+
+110 (36%)
+
+0.003*
+
+THICKENING
+
+482 (61%)
+
+170 (55.5%)
+
+0.217
+
+TOTAL
+
+790
+
+306
+
+*(Chi-square analysis
+
+: Total number and percentage of each pathology in the study population
+
+: Number and percentage of cases where the pathology was observed unilaterally
+
+Discussion
+
+This retrospective CBCT study, analyzing 1,000 datasets and 2,000 maxillary sinuses, highlights sinus pathologies’ high prevalence and association with odontogenic factors. Sinus abnormalities were detected in 54.8% of patients and 39.5% of all examined sinuses.
+
+Among the observed pathologies, mucosal thickening was the most frequent finding, affecting 61% of pathological sinuses. This rate is higher than those reported by Cho and Jungch [] (37.7%) and Pazera et al. [] (46.8%), yet comparable to findings from Ritter et al. [] (56.3%) and Raghav et al. [] (59.7%). These variations likely stem from differences in imaging modalities, population demographics, and diagnostic criteria. The higher detection rates in this study may be attributed to CBCT’s superior spatial resolution, which allows for more precise visualization of sinus pathology compared to panoramic radiography, which has limited diagnostic accuracy and tends to underestimate pathology severity [,,].
+
+Although sinus pathology was slightly more prevalent in males (410 vs. 380 affected sinuses), the difference was not statistically significant. However, males exhibited a higher prevalence of cysts and polyps, suggesting possible anatomical or physiological factors influencing these findings. This result contrasts with Roque-Torres et al. [], who reported higher overall pathology rates in males. Further studies with larger cohorts are needed to explore potential gender-related variations in sinus pathology.
+
+The study population, encompassing individuals aged 18 years and older, revealed no statistically significant differences in sinus pathology prevalence across age groups. The mean age of participants was 44.4 years (range: 18–80), with similar averages between the pathology group (44.7 years) and the healthy group (44.1 years). The 40–59 age group exhibited the highest prevalence of sinus pathologies (46.4% of patients and 46% of sinuses), though this trend did not reach statistical significance. While this observation does not confirm a definitive mid-life peak in susceptibility, it is consistent with findings from Roque-Torres et al. [] who reported no significant age-related differences. However, it contrasts with Ritter et al. [], who found higher pathology rates in individuals over 60 years.
+
+Laterality analysis revealed no significant preference for sinus pathologies across gender or age groups. These results align with Terlemez et al. [], who reported comparable mucosal thickening rates in the right (41.8%) and left (43.5%) sinuses. Similarly, no gender-related differences were observed among patients with bilateral pathologies. However, bilateral involvement was significantly more frequent in the 40–59 age group, suggesting a potential age-related pattern in sinus pathology distribution. This contrasts with the findings of Hsiao et al. [], who reported no significant correlation between age and bilateral sinus pathologies. Notably, mucosal thickening was predominantly bilateral, whereas cysts and polyps exhibited a greater tendency for unilateral presentation.
+
+In this study, mucosal thickening was the most prevalent pathology, followed by cysts/polyps (27.6%) and opacities (11.4%). This distribution differs from previous studies [,], likely due to variations in diagnostic criteria, population characteristics, and imaging methodologies. Among the factors influencing mucosal thickening, smoking has been reported to contribute to Schneiderian membrane thickening []. In this study, only light smokers (≤ 10 cigarettes per day) were included, while individuals reporting higher tobacco consumption were excluded, ensuring a more controlled assessment of potential contributing factors. The 3 mm threshold for mucosal thickening, used in this study, has been widely recognized as clinically relevant and strongly associated with odontogenic sinus disease, particularly in periapical lesions or periodontal bone loss [,,,]. The enhanced spatial resolution of CBCT facilitated the reliable detection of mucosal thickening, which was observed in 27.4% of all examined sinuses. These findings emphasize the critical role of high-resolution imaging in accurately assessing sinus health and differentiating between normal anatomical variations and pathological changes.
+
+While CBCT offers superior anatomical detail, radiation exposure remains a concern with standard 360-degree protocols. Recent advancements in low-dose and segmental CBCT techniques effectively reduce radiation while maintaining diagnostic accuracy [,,]. Integrating these protocols into clinical practice could enhance the safety of radiographic evaluations in sinus augmentation planning.
+
+The etiology and pathogenesis of mucosal cysts and polyps remain controversial. Mucosal cysts are generally attributed to ductal obstruction in mucus-secreting glands, whereas sinus polyps are believed to arise from chronic inflammatory processes and lamina propria edema. Both entities typically appear as dome-shaped soft tissue opacities on radiographs, making differentiation challenging [,,]. Given these radiographic limitations, this study grouped mucosal cysts and polyps into a single category, acknowledging the potential overlap in their imaging characteristics. This approach aligns with previous studies that have emphasized the difficulty of distinguishing between these entities based solely on radiographic appearance [,,,]. The observed rate of cysts and polyps (27.6% of pathological sinuses) aligns with some studies [] but differs significantly from others [,], reflecting variability in diagnostic criteria, sample populations, and imaging methodologies.
+
+Non-specified sinus opacification was the third most common pathology, affecting 11.4% of pathological sinuses and 4.5% of the total patient cohort. This prevalence aligns with previous reports, which have documented rates ranging from 7.8–16.6% [,,,]. Although odontogenic infections have been frequently associated with sinus opacification in earlier studies [,,], no significant associations were identified in this study. This discrepancy suggests a multifactorial etiology, where rhinogenic, allergic, and systemic factors may contribute to developing sinus opacities alongside odontogenic sources. These findings highlight the importance of a comprehensive assessment when evaluating sinus pathologies, ensuring that potential non-odontogenic origins are also considered.
+
+Severe sinus opacifications, particularly those exceeding 50% of the sinus volume, have been shown to impact sinus augmentation and implant success rates negatively and may necessitate preoperative consultation with an otolaryngologist []. In this study, 4.5% of the total patient cohort (90 patients) exhibited severe opacifications, reinforcing the need for detailed radiological assessment before surgical intervention. These findings underscore the high prevalence of sinus pathologies in dental implant candidates and emphasize the necessity for clinicians to recognize their potential implications in treatment planning. This is particularly crucial in sinus augmentation procedures, where pre-existing pathology may influence surgical success and long-term implant stability.
+
+Odontogenic factors, including periapical lesions, endodontic treatments, and missing teeth, are strongly associated with sinus pathologies. In this study, sinuses adjacent to teeth with periapical lesions, whether untreated or persisting despite root canal treatment (RCT), showed a significantly higher prevalence of mucosal thickening, corroborating the findings of Nunes et al. [], who reported a significant correlation between periapical radiolucent lesions and sinus abnormalities. Similarly, Shanbhag et al. [] demonstrated that periapical infections could induce inflammatory changes in the sinus mucosa via vascular pathways, even in the absence of cortical bone perforation. This mechanism underscores the potential for odontogenic infections to contribute to sinus inflammation, reinforcing their clinical significance in preoperative assessments and treatment planning. Additionally, Terlemez et al. [] found that the presence of at least one apical lesion adjacent to the sinus increased the risk of sinus pathology by 2.37 times, further substantiating the association between apical infections and sinus-related changes.
+
+Conversely, in this study, root canal-treated teeth without periapical lesions did not show a statistically significant association with sinus pathology, indicating that endodontic treatment alone does not contribute to sinus alterations unless accompanied by persistent infection.
+
+These findings emphasize the critical impact of odontogenic lesions on sinus health and their role as major contributors to sinus pathologies. Given the high prevalence of mucosal thickening in sinuses affected by odontogenic factors, clinicians should prioritize comprehensive radiographic evaluations in dental implant planning, particularly in cases requiring sinus augmentation procedures.
+
+Tooth extractions of posterior maxillary teeth have been widely associated with mucosal thickening. Teeth designated for extraction often harbor chronic infections, which may contribute to sinus inflammation before removal. This mechanism is supported by Aksoy and Orhan [], who reported that mucosal thickening prevalence increases with the number of extracted teeth, suggesting a cumulative impact of tooth loss on sinus health. In contrast, Cao and Yuan [] observed that mucosal thickness significantly decreased following the extraction of teeth affected by advanced periodontal disease.
+
+To eliminate the confounding effect of recent extractions, patients with fresh extraction sockets (≤ 12 weeks post-extraction) were excluded from this study, ensuring that mucosal thickening in edentulous sites reflected the long-term effects of tooth loss rather than post-extraction healing. This also minimized potential bias from sinus perforations or oroantral communications associated with recent extractions.
+
+The results of this study indicate that missing tooth was significantly associated with maxillary sinus pathologies, particularly with an increased prevalence of mucosal thickening. These findings emphasize the importance of evaluating periodontal and periapical conditions before extractions and ensuring comprehensive post-extraction monitoring, especially in cases requiring sinus augmentation or implant placement.
+
+Although periodontal health plays a key role in sinus pathology, this study did not include periodontal assessments due to its retrospective design and reliance on CBCT imaging. While CBCT effectively visualizes periapical lesions, endodontic status, and bone morphology, it lacks standardized criteria for assessing soft tissue parameters like periodontal pockets, attachment loss, and inflammation [,,]. To maintain methodological consistency and minimize bias, periodontal factors were excluded. Future research should integrate clinical periodontal evaluations with CBCT imaging for a more comprehensive analysis of sinus pathology.
+
+This study benefits from a large, gender-balanced sample and the utilization of high-resolution CBCT imaging, which enabled a detailed and precise evaluation of maxillary sinus pathologies. The inclusion of a diverse patient cohort and the use of standardized imaging protocols strengthen the reliability and generalizability of these findings. However, some limitations must be acknowledged. Due to its retrospective design, this study relied exclusively on existing CBCT images and medical records, without direct clinical examinations or periodontal assessments. As a result, potential interactions between periodontal health and sinus pathologies could not be fully explored. Additionally, the lack of follow-up data limited the ability to assess the dynamic relationship between dental treatments and sinus health over time.
+
+Future research should focus on prospective studies incorporating clinical evaluations, periodontal assessments, and patient-reported outcomes better to understand the interactions between dental health and sinus pathologies. Longitudinal studies evaluating the impact of dental interventions on sinus health could offer valuable insights into the progression and resolution of sinus pathologies over time.
+
+Conclusions
+
+This study, evaluating 1,000 patients and 2,000 maxillary sinuses, identified sinus pathologies in 54.8% of patients and 39.5% of examined sinuses, highlighting their high prevalence among dental implant candidates. Mucosal thickening was the most common pathology (61%), followed by cysts/polyps (27.6%) and opacifications (11.4%).
+
+Gender-based differences revealed a higher prevalence of cysts and polyps in men. Bilateral sinus pathologies were most frequently observed in patients aged 41–60, with mucosal thickening predominantly affecting both sinuses, whereas cysts and polyps were more commonly unilateral.
+
+Odontogenic factors, particularly periapical lesions that remained untreated or persisted despite root canal therapy (RCT), are strongly associated with maxillary sinus pathologies, emphasizing the impact of unresolved dental infections on sinus health. Conversely, root canal-treated teeth without periapical lesions did not present an additional risk for sinus pathology. Similarly, edentulism was significantly correlated with sinus pathologies, particularly with an increased prevalence of mucosal thickening.
+
+Notably, 5% of patients exhibited extensive sinus opacifications, reinforcing the need for preoperative ENT evaluations to mitigate potential risks before sinus augmentation or implant placement.
+
+These findings underscore the indispensable role of CBCT in identifying sinus abnormalities, facilitating accurate diagnosis, and optimizing sinus augmentation and implant planning. A thorough understanding of sinus pathology is crucial for minimizing complications and improving treatment outcomes, particularly in the posterior maxillary region.
