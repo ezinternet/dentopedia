@@ -8,6 +8,8 @@ category: overviews
 confidence: narrative-review
 ---
 
+<p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--gray);">마지막 배포 <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED --></p>
+
 <div align="center" style="margin: 0.25rem 0 1.5rem;">
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%; height:auto; display:block; max-width:1100px; margin:0 auto;">
   <title>LLM Wiki — Dentistry</title>
@@ -45,10 +47,10 @@ confidence: narrative-review
 </svg>
 </div>
 
-> [!tip] 마지막 배포
-> <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED -->
-
 치과 임상 논문·가이드라인을 3-tier(PDF → sources → wiki)로 정리한 개인 지식 베이스.
+
+> [!info] 🗺️ 카테고리 지도 — [[category-map|임상 동선 6단계로 보기]]
+> 전 카테고리(~95개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.
 
 ## 🦷 Interactive Tools
 
