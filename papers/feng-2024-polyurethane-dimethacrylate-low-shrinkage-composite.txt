@@ -1,0 +1,10 @@
+Study on the polymerization shrinkage and mechanical-physical properties of dental resin composite modified by polyurethane dimechacrylate and glass flake fillers.
+Feng D, He X, Dong S, Yang Z, Zhang L, Zhu S. J Dent. 2024;151:105426. DOI: 10.1016/j.jdent.2024.105426
+
+ABSTRACT (structured)
+Objectives: To explore the polymerization shrinkage and mechanical-physical properties of the dental resin composite modified by polyurethane oligomer PU-MA and glass flakes fillers.
+Methods: Based on Bis-GMA/TEGDMA, the new dental resin composite was hand fabricated by combining PU-MA with different content (65 wt% ~ 75 wt%) of glass flakes/Si-Al-borosilicate glass mixed fillers. The kinetics of polymerization shrinkage was investigated using a laser triangulation set-up. Mechanical-physical properties after 60 days water immersion and 5000 thermo-cycles were measured by three-point bending and micro Vickers hardness. Data submitted to one-way ANOVA/LSD-test (alpha=0.05). Independent sample T test for before/after aging. Two-way ANOVA for effect of composition and aging condition.
+Results: PU-PG-75% performs lower volume shrinkage (1.35%). As filler content increased, water sorption and solubility increased and depth of cure decreased significantly (P<0.05). After aging, flexural strength, elasticity modulus and Vickers hardness of commercial products dropped obviously while PU-PG-75wt% was relatively stable.
+Conclusions: 20 wt% PU-MA could decrease the volume shrinkage of dental resin composite effectively. 60 days water immersion and 5000 thermal cycles resulted in significant reduction in flexural properties for experimental materials. PU-PG-75% may have potential as a low shrinkage dental resin composite with good mechanical properties. This new synthesized composite could perform low polymerization shrinkage and better mechanical resistance, providing a new idea for improving the lifespan of direct restoration.
+Keywords: Aging; Dental resin composite; Polymerization shrinkage; Polyurethane dimechacrylate.
+Source: PubMed. full_text:false (abstract-only).
