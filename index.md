@@ -98,10 +98,14 @@ tags: []
 - [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]] — 전향적 RCT 7년 (n=50, LSU): HA 코팅 임플란트 (Zimmer Tapered Screw-Vent) 즉시부하 vs 조기(3주) 부하 — 누적 생존율 98.0% (즉시 100%/조기 95.5%); 2yr↔7yr MBL 차이 없음.
 - [[implants/soft-tissue/tavelli-2025-soft-tissue-dehiscences-implant-sites-ao-aap]] — AO/AAP SR+meta-regression (221 연구, JPER 2025;96:562): peri-implant soft tissue dehiscence (PSTD) prevalence 46.2%, MREC 23.1%; 위험인자 (thin biotype·KT 부족·협측 위치·즉시식립·흡연) vs 보호인자 (≥2 mm KT·CTG·emergence profile).
 - [[implants/soft-tissue/dadlani-2024-efficacy-xenogeneic-collagen-matrices-augmenting]] — Dadlani 2024 (SR+MA, 9편/MA 6편, Clin Exp Dent Res): bone graft 없는 임플란트 연조직 증대 XCM vs 자가이식; KMW·STT 자가이식 우위 (KMW 통합 MD −0.96mm), 심미 동등·XCM 술시간/통증 우위 (2024)
+- [[implants/soft-tissue/rios-osorio-2025-xcm-vs-ctg-fgg-implant-soft-tissue-sr-ma]] — 17편 RCT SR+MA: 임플란트 부위 연조직 증대 시 비가교 XCM < CTG(MT), 가교형 VCMX = CTG(MT), FGG > XCM*(KMW 1.47mm 우위)
 - [[implants/zhou-2021-placement-loading-protocols-single-implants-sr]] — SR (45 publications: 13 RCT+21 prospective+11 retrospective, IJOMI 2021, jomi.8750, ITI Group 2): site-specific (anterior/posterior × maxilla/mandible) placement × loading protocol — 전치 상악 가중 생존율 97.5–99.6%; site별 protocol validation matrix 제시.
 - [[implants/song-2021-implant-complications-bruxism-patients]] — JKAOMS Editor's Opinion (2 pages, 2021): 이갈이는 implant late failure(픽스처/스크류/보철 파절, 심한 MBL, decementation) 위험요인 — 식립 전 EMG·PSG 진단 + occlusal splint·botulinum toxin으로 사전 관리 권고; BTX와 implant 영역 교차의 짧지만 명확한 임상 권고
 - [[implants/pirc-2026-one-piece-two-piece-implants-15year-rct]] — Pirc 2026, rct, 15–17y RCT follow-up (n=60, 151 implants): one-piece Straumann SLA vs two-piece Brånemark — survival 95%, MBL 0.08 mm vs 1.53 mm favoring one-piece, but technical complications 35.4% vs 5.8% favoring two-piece
 - [[implants/chrcanovic-2025-neck-design-peri-implant-tissues-12mo-rct]] — 12-month RCT (Clin Oral Implants Res 2025): triangular vs round implant neck design × MBL, soft tissues in immediately placed implants; no significant MBL difference at 12 months
+- [[implants/bosshardt-2017-osseointegration-titanium-zirconia-review]] — Ti/TiZr/지르코니아 임플란트 골유착 생물학 서사 리뷰: TiZr = cpTi, Ti6Al4V < cpTi, SLActive > SLA 초기 BIC (2017)
+- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — Periodontology 2000 (2017) 서술 리뷰: 브로네마르크·슈뢰더 골유착(OI) 기원부터 SLA 표면·GBR·디지털 임플란트까지 50년 총정리 및 주위염·지르코니아 임플란트 미래 과제
+- [[implants/gaviria-2014-current-trends-dental-implants-review]] — 서사적 총론(JKAOMS 2014): 고대 마야 임플란트부터 Brånemark 골유착 발견까지 역사, 설계 파라미터(나사산·직경·어버트먼트 연결), SLA·HA코팅·성장인자 표면처리 및 신흥 생체모방 기능화 트렌드 종합 정리
 
 ## 임플란트 — 표면처리·골유착 심화 (Osseointegration Theory)
 - [[implants/albrektsson-1981-osseointegrated-titanium-implants-requirements]] — 랜드마크(1981): 골유착을 직접 골-임플란트 접촉으로 정의(최초 인체 TEM)+6대 전제(재료·디자인·표면·골상태·술식·부하조건)
@@ -193,6 +197,7 @@ tags: []
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): **Osstell ISQ vs Periotest PTV** 직접 비교 — ISQ 57.66±8.19, PTV -5.08±2.02; 상관 -0.64; ICC Osstell 0.99 vs Periotest 0.88 — **Osstell이 더 정밀**; 임플란트 직경은 두 기법 모두 유의, 길이는 무관.
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — 인비트로(n=49, 아크릴 큐브·실리콘·자가중합 레진 인터페이스): Osstell ISQ vs Periotest PTV — 양자 모두 인터페이스 차이·노출 단계 검출, RFA 기반 Osstell이 SD 작고 강성 변화 추적에 더 신뢰성; 임상 외삽은 골 모델 부재로 주의
 - [[implants/isq/song-2026-tapered-straight-implants-immediate-loading-3year]] — RCT 3yr follow-up (n=28, 61 implants, posterior): tapered vs straight immediate loading; TI patient survival 95.8% vs SI 78.3% (NS); protocol failures 4 vs 13; MBL equivalent (<1 mm)
+- [[implants/isq/ko-2024-arp-implant-vertical-positioning-isq]] — 후향적 증례연구(30부위, 28명): ARP 경계 초과군 삽입 토크 높음(33.33 대 17.08 Ncm), 10주 ISQ는 양 군 동등(80.66 대 76.44); 삽입 토크-ISQ 중등도 상관(r=0.415)
 
 ## 임플란트 — Osteotomy·Drill·발열 (Osteotomy / Drill / Thermal)
 - [[implants/chakraborty-2024-implant-drill-materials-heat-osteotomy]] — SR(Eur J Dent 2024, 11편 in vitro): drill 재질-발열 인과 결론 불가; 일관된 신호는 drill wear → 발열 — 재질보다 마모/교체주기가 임상적으로 더 중요
@@ -326,6 +331,8 @@ tags: []
 - [[bone-regeneration/ridge-preservation/lee-2020-compressive-force-dbbm-ridge-preservation-molar]] — Sung-Jo Lee 2020 (JPIS) · rct(완료 12) · 대구치 ARP에서 DBBM 5N vs 30N → 신생골·ISQ·골수준 차이 없음, 잔존 graft 입자 크기만 유의차; cho-2017 결과의 적용 한정 드러냄
 - [[overviews/open-healing-arp-technique-variables-overview]] — Synthesis 2026-05-29: open-healing ARP 술기변수 종합(Park 그룹 연작 축) — 골 치수는 graft+개방치유·부위가 좌우, 미세술기(막 층수·압축력)는 대체로 등가; 술기가 움직이는 건 연조직(KT) — 무판막·hidden X·노출막; "통계적 보존≠환자 이득"(Adams)으로 적응증 축소
 - [[bone-regeneration/ridge-preservation/araujo-2009-ridge-alterations-flap-vs-flapless]] — Animal(개 5, split-mouth, 6mo): 판막 거상 vs flapless 발치 후 ridge resorption 차이 없음; "flapless = ridge 보존" 가설 반박; 본 PDF는 PubMed abstract only.
+- [[bone-regeneration/ridge-preservation/muller-2025-arp-vs-sh-early-implant-3year-rct]] — DBBM-C/CM·DBBM-C·자발적 치유 (SH) 세 군 비교 조기 식립 3년 RCT: 모든 군 외형 감소 통계적 유의 (−0.23/−0.21/−0.33 mm), 군 간 MBL·임상 지표 차이 없음
+- [[bone-regeneration/lee-2025-soft-bbs-gbr-peri-implant-dehiscence]] — 개 동물실험: L형 느슨 vs 압축 적용 연조질 블록형 골대체재(Soft BBS) GBR 비교 — 골폭 차이 없음, 막 고정 없이 치관부 골유지 실패, micro-CT와 조직계측 강한 상관(r=0.971)
 
 ## PDRN — 폴리데옥시리보뉴클레오티드 (Polydeoxyribonucleotide)
 - [[overviews/pdrn-dentistry-evidence-synthesis]] — Synthesis 2026-05-31 (17편 종합): 기전(A2A 수용체+salvage pathway) 탄탄. 근거가 둘로 갈림 — **진통·항염**은 human 근거 강함(발치 RCT 1 + TMJ 후향코호트 1 + 비치과 SR/MA 2), **재생**은 전부 animal·in vitro·zone/outcome 한정·시간 전엽(초기 가속 후 종점 수렴); 1차 골유착(BIC/BAFO)·연조직 volume 무차이; dose 비선형; autograft 대체 미입증; MRONJ 기전 근거 추가; 저위험 adjunct로 합리적.
@@ -818,6 +825,8 @@ tags: []
 - [[prosthetic-materials/harb-2021-hf-nitric-acid-zirconia-crown-retention-invitro]] — in-vitro (Materials 2021;14:960, Mansoura/Zurich, 2×2 factorial, n=40): 지르코니아 크라운 air-abrasion ± 핫애시드(48% HF+69% HNO₃) × Panavia SA/GC LinkForce — 핫애시드 유지력 유의↑(p=0.001), 시멘트 단독 NS; 핫애시드 임상 사용 안전 우려
 - [[prosthetic-materials/yang-2015-auxiliary-resistance-marginal-fitness-short-molar]] — in-vitro (West China J Stom 2015;33(5):474, 山东, 70 Nissin teeth, 20° TOC/2.5 mm): proximal groove·occlusal hole × 0°/6°/20° — 0° groove(443N)·0° hole(485N) 저항↑ 유의(P<0.05) BUT 20° groove 제외 모든 보조형 변연 부유↑; 유지력-적합 trade-off
 - [[prosthetic-materials/alammar-2022-zirconia-bonding-durability-clinical-outcomes-sr]] — Alammar & Att 2022 SR: zirconia bonding durability clinical outcomes (24 studies), APA+MDP protocol, IJP
+- [[prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload]] — 내부 육각형 연결부 어버트먼트 오염 시 부분 오염만으로도 RTV 감소, 완전 오염(CT6)은 반복하중 후 예비하중 손실 가속화 (n=90, in vitro)
+- [[prosthetic-materials/selvi-2025-custom-stock-abutment-fatigue-sem]] — 체외 피로 시험(200만 사이클, ISO-14801): CAD-CAM 맞춤 어버트먼트 vs 기성 어버트먼트 예압 유지 동등, 최대 예압 소실은 초기 50만 사이클 이내 발생 → 조기 재조임 권장
 
 ## 총의치·가철성보철 (Complete Denture / Removable Prosthodontics — added 2026-06-16)
 - [[complete-denture/fayad-2025-vertical-dimension-determination-prosthodontics-review]] — Fayad 2025 · narrative-review · 보철 수직고경(Occlusal Vertical Dimension, OVD) 결정법 종합 리뷰(안면계측·발음·연하·안정위+자유공극·두부계측 → 디지털 3D·CBCT·AI); 단일 우수법 없음, 과다/과소 VD 임상 징후(이근 긴장·이순구 심화) 포함 (DOI 10.7759/cureus.93987)
@@ -2000,6 +2009,7 @@ tags: []
 
 **비전리 대안**
 - [[radiology/willershausen-2025-low-field-mri-pediatric-dental]] — Willershausen 2025 (prospective, Invest Radiol): 소아 0.55T MRI(무피폭) vs 초저선량 CT — 치축·치근·낭종 동등 화질
+- [[radiology/yadav-2024-nasopalatine-canal-morphology-cbct]] — 인도인 102명 CBCT 단면연구: 비비구개관(NPC) 형태·크기·변이를 성별·연령별 분석(남성이 더 길고 구개개구 직경 크며 나이 들수록 내외측 직경 증가)하여 전방 상악 임플란트 해부학적 계획 근거 제공
 
 ## Chairside 인터렉티브 (Interactive Tools)
 
