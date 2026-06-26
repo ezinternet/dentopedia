@@ -10,6 +10,8 @@ source: couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.md
 category: [implants]
 confidence: retrospective
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.txt
+text_filename: couso-queiruga-2025-misfit-implant-prosthesis-bone-loss.txt
 tags: [misfit, passive-fit, bone-loss, DIB, peri-implantitis, smoking, periodontitis]
 relations:
   - type: extends
