@@ -1,0 +1,26 @@
+Self-adhesive resin cement versus conventional cements on the failure rate of indirect single-tooth restorations: A systematic review and meta-analysis of randomized clinical trials.
+
+Alvarenga M, Machado L, Prado A, Veloso S, Monteiro G.
+The Journal of Prosthetic Dentistry. 2024 Nov;132(5):880.e1-880.e8.
+DOI: 10.1016/j.prosdent.2024.04.027
+PMID: 38797576
+
+[ABSTRACT-ONLY — full text not retrieved (no PMC; J Prosthet Dent / Elsevier paywall). Source text below is the structured abstract from PubMed.]
+
+STATEMENT OF PROBLEM:
+Cementation is one of the most critical steps that influence the failure rates of indirect restorations. Self-adhesive resin cements arose out of the need for technical simplification of this procedure to reduce the risk of operative errors, with good acceptance by clinicians. How the failure rate of indirect single-tooth restorations cemented with self-adhesive resin cements compares with the failure rate of those cemented conventionally is unclear.
+
+PURPOSE:
+The purpose of this systematic review and meta-analysis of randomized clinical trials was to compare self-adhesive resin cements versus conventional cements on the failure rates of indirect restorations.
+
+MATERIAL AND METHODS:
+The review was registered at the International Prospective Register of Systematic Reviews (PROSPERO - CRD42020215577). The search strategy was adapted for 5 databases (PubMed, The Cochrane Library, EMBASE, Web of Science, and LILACS) and 1 nonpeer-reviewed literature source (clinicaltrials.gov). The strategy was guided by the problem/population, intervention, comparison, outcome (PICO) question: adults indicated for indirect restorations -P, self-adhesive resin cement -I, conventional cement -C, failure rates -O. The risk of bias was assessed using the Cochrane risk of bias (RoB2) tool and guidelines. Meta-analysis merged the results from included studies by pooling the hazard ratios and standard errors, available or estimated. The certainty of evidence was assessed by using the GRADE approach (classification of recommendations, evaluation, development, and evaluation).
+
+RESULTS:
+Nine randomized clinical trials were included in qualitative and quantitative analysis. Eight studies detected nonsignificant differences in failure rates between cements. Only 1 study reported a significantly higher failure rate on single-tooth ceramic crowns luted with self-adhesive resin cement. Nonsignificant differences were detected after the results from all studies had been pooled.
+
+CONCLUSIONS:
+Based on clinical evidence, self-adhesive resin cements can be recommended for the cementation of indirect single-tooth restorations with a similar risk of failure to conventional cements.
+
+MeSH terms: Humans; Cementation; Dental Cements; Dental Restoration Failure; Dental Restoration, Permanent; Randomized Controlled Trials as Topic; Resin Cements.
+Article types: Comparative Study; Journal Article; Meta-Analysis; Systematic Review.
