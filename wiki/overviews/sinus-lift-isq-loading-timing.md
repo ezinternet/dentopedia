@@ -177,3 +177,8 @@ RBH 확인
 - [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]
 - [[implants/isq/ragher-2025-iprf-venous-blood-synthetic-graft-isq]] — 경치조골 간접 상악동거상 4-arm RCT (n=64): i-PRF·NovaBone → 6mo ISQ ≥70; 정맥혈 ≡ 무이식 (ISQ 55–62); 증대재 선택이 ISQ 회복의 결정인자
 - [[sinus-lift/transcrestal/changrani-2024-haenaem-zero-bone-loss-indirect-sinus-lift]] — **(retracted/철회됨 — 인용 금지)** HaeNaem CW-OD 버 경치조 간접 거상 (n=12, RCBH 6–8mm): 4mo CBCT 골고↑ 확인; ISQ 미측정으로 부하 시기 데이터 없음 [근거 무효]
+
+### 관련 오버뷰 (ISQ 3부작 — 어느 페이지를 볼까)
+- [[overviews/isq-loading-threshold]] — ISQ 부하 결정 **임계값의 confidence 등급 매트릭스** (cross-category 27편). "수치 임계값이 얼마나 믿을 만한가"를 볼 때.
+- [[overviews/implants-isq-stability-ladder]] — `implants/isq` 서브카테고리 **측정·임계·영향변수 결정 ladder**. 일반 임플란트의 ISQ 의사결정 흐름을 볼 때.
+- (본 페이지) — **상악동거상술 맥락 전용** ISQ 궤적·부하 시기. 측방/경치조 거상 후 "언제 부하하나"를 볼 때.
