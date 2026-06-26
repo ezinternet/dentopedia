@@ -1,0 +1,15 @@
+Title: Clinical performance of intentionally tilted implants versus axially positioned implants: A systematic review.
+Authors: Lin WS, Eckert SE
+Journal: Clin Oral Implants Res. 2018;29 Suppl 16:78-105.
+PMID: 30328193
+DOI: 10.1111/clr.13294
+Source: PubMed (abstract-only — full text not retrieved)
+
+Abstract:
+The aim of this review was to determine the clinical performance of dental implants that are intentionally tilted when compared with implants that are placed following the long axis of the residual alveolar ridge.
+
+A systematic review of the scientific literature using a predefined research question (PICO) and search strategy was undertaken. This search included five electronic databases. Two independent reviewers examined electronic databases and performed a manual review following search strategy to accomplish the item generation and reduction. Included articles were evaluated to determine the level of evidence. Data were extracted only from level I and level II studies, based on the Oxford Centre for Evidence-based Medicine-Levels of Evidence (March 2009). If included studies were homogeneous in nature, data were to be accumulated. However, if included studies were heterogeneous in nature, only descriptive data would be reviewed and analyzed.
+
+A total of 811 articles were identified through the PICO question and search strategy. Detailed review of the abstracts and articles resulted in further item reduction, and 46 articles were included for full-text review. A total of 42 articles were then selected for inclusion in the systematic review. The identified articles included two level I and 20 level II studies. In addition, 15 level IV, one gray literature, and four previous systematic reviews with meta-analyses were also used in the study. The extracted data from the included studies demonstrated heterogeneity that prevented quantitative assessment, and only one level II study directly compared tilted and axially placed implants. Assessment of the descriptive data demonstrated no differences in implant survival, marginal bone loss, prosthesis survival, or patient-reported outcome measures (PROMs) whether implants are placed axially or with intentional inclination of the coronal aspect of the implant toward the distal aspect of edentulous jaws.
+
+Based upon the systematic review of the literature, an analysis of the descriptive data suggested no differences in clinical performance between implants that are placed in an axial position relative to the residual alveolar ridge when compared with implants that are intentionally tilted toward the distal aspect of edentulous jaws.
