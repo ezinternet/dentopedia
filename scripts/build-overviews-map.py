@@ -31,12 +31,15 @@ SITE_BASE = "/dentopedia"
 
 # 도메인 정의: (라벨, [stem 키워드...]). 위에서부터 첫 매치가 그 도메인.
 # 순서 = 카드 표시 순서(임상 흐름). 키워드는 stem 부분일치.
+#
+# 설계 규칙(이질성 방지): 한 카드 = 한 임상 술식/주제. 메가카드(보철 20·근관 14 등)는
+# 진료 하위분류로 분할하고, 서로 다른 주제가 한 카드에 섞이지 않게(예: PDRN↔BTX,
+# 우식↔비우식경조직, 외과↔마취) 별도 카드로 떼어낸다.
+# classify() 는 위에서부터 첫 매치를 반환하므로, 더 구체적인 카드를 위에 두고
+# 키워드는 'implants-'(복수+하이픈)·'implant-surface'·'pulp-periapical' 처럼 specific
+# 형태만 써서 다른 카드를 가로채지 않게 한다.
 DOMAINS = [
-    # ── 임플란트: 단일 메가카드(21편)를 진료 하위분류 5장으로 분할 ──
-    # classify() 는 위에서부터 첫 매치를 반환하므로, 더 구체적인 임플란트 카드를
-    # 즉시식립/연조직 카드보다 위에 두되, 키워드는 'implants-'(복수+하이픈)·
-    # 'implant-surface' 처럼 specific 형태만 써서 immediate-implant/peri-implant 를
-    # 가로채지 않게 한다.
+    # ── 임플란트: 진료 하위분류 5장 ──
     ("임플란트 · 1차안정성 · ISQ · 부하", [
         "isq", "implant-loading"]),
     ("임플란트 · 표면처리 · 골유착", [
@@ -60,9 +63,14 @@ DOMAINS = [
         "socket-preservation", "vertical-ridge", "ridge-split"]),
     ("상악동거상술", [
         "sinus-lift", "short-implant-vs-sinus", "odontogenic-maxillary"]),
-    ("근관치료", [
-        "c-shaped", "canal-shaping", "eal-", "endodontic", "irrigation", "mb2",
-        "regenerative-endodontics", "single-vs-multivisit", "vital-pulp"]),
+    # ── 근관치료: 메가카드(14)를 술식 단계 3장으로 분할 ──
+    ("근관 · 해부 · 성형 · 근관장", [
+        "c-shaped", "mb2", "canal-shaping", "access-cavity", "eal-working",
+        "endodontics-comprehensive"]),
+    ("근관 · 세정 · 소독 · 실러", [
+        "irrigation", "cold-plasma", "ceraseal", "bioceramic-sealer", "endotoxin"]),
+    ("근관 · 진단 · 생활치수 · 재생 · 내원", [
+        "pulp-periapical", "vital-pulp", "regenerative-endodontics", "single-vs-multivisit"]),
     ("치주 · 교합외상", [
         "periodontics", "occlusal-trauma", "toothpick", "toothbrush", "watanabe",
         "plaque-control", "oral-hygiene", "interdental-cleaning", "interdental",
@@ -71,30 +79,45 @@ DOMAINS = [
         "bruxism", "tmd-", "unilateral-mastication", "overeruption", "unopposed-tooth",
         "cr-co-micp", "centric", "reference-position",
         "occlusal-contact", "articulating-paper"]),
-    ("보철 · 수복재료 · 심미", [
-        "adhesive-bonding", "ceramic-bonding", "crown-preparation", "dental-materials",
-        "direct-resin", "immediate-dentin", "lithium-disilicate", "prosthetic-materials",
-        "reis-2024", "veneer", "zirconia-material", "zirconia-types", "resin-dentin",
-        "complete-denture", "food-impaction",
-        "post-and-core", "gothic-arch", "jaw-relation", "tooth-whitening", "restorative-margin",
-        "abutment-screw", "screw-preload"]),
-    ("우식 · 경조직 · 시린이 · 균열", [
-        "caries", "cracked-tooth", "dental-erosion", "dentin-hypersensitivity",
-        "glass-ionomer", "nccl"]),
-    ("구강외과 · 마취 · 통증", [
-        "buffered-modified", "mandibular-anesthesia", "oral-surgery", "third-molar",
-        "topical-anesthetic", "suture-wound", "dental-trauma"]),
+    # ── 보철·수복: 메가카드(20)를 3장으로 분할(보철↔세라믹↔레진접착) ──
+    ("보철 · 의치 · 교합기록", [
+        "complete-denture", "gothic-arch", "jaw-relation", "prosthetic-materials",
+        "abutment-screw", "screw-preload", "crown-preparation", "post-and-core",
+        "food-impaction"]),
+    ("세라믹 · 지르코니아 · 심미수복", [
+        "zirconia-material", "zirconia-types", "veneer", "lithium-disilicate",
+        "dental-materials", "tooth-whitening"]),
+    ("레진 · 접착", [
+        "resin-dentin", "ceramic-bonding", "immediate-dentin", "adhesive-bonding",
+        "direct-resin", "reis-2024"]),
+    # ── 우식↔비우식경조직 분리 ──
+    ("우식 · 예방 · 불소", [
+        "caries", "glass-ionomer"]),
+    ("비우식 경조직 · 시린이 · 균열", [
+        "dental-erosion", "nccl", "dentin-hypersensitivity", "cracked-tooth"]),
+    # ── 외과↔마취 분리 ──
+    ("구강외과 · 발치 · 봉합 · 외상", [
+        "oral-surgery", "third-molar", "suture-wound", "dental-trauma"]),
+    ("국소마취 · 진정", [
+        "buffered-modified", "mandibular-anesthesia", "topical-anesthetic", "local-anesthetic"]),
     ("약물 · 전신질환", ["drug-", "autoimmune", "systemic-disease", "hypertension", "hemodynamic"]),
-    ("구강내과 · 미생물 · 노년 · 구강안면통증", [
-        "oral-medicine", "oral-microbiome", "oral-frailty", "bms", "orofacial-pain",
-        "halitosis", "mucositis"]),
+    # ── 구강내과 메가카드(6)를 점막↔미생물↔노년 3장으로 분할 ──
+    ("구강내과 · 점막 · 구강안면통증", [
+        "oral-medicine", "bms", "orofacial-pain", "mucositis"]),
+    ("구강미생물 · 구취", [
+        "oral-microbiome", "halitosis"]),
+    ("노년치의학", ["oral-frailty", "geriatric"]),
     ("교정", ["miniscrew", "orthodontic-tooth", "clear-aligner", "aligner", "myofunctional", "elastodontic"]),
-    ("방사선 · 디지털 · AI", [
-        "cbct", "dental-imaging", "digital-workflow", "ai-dentistry"]),
-    ("행동 · 커뮤니케이션 · 경영", [
-        "behavioral-dentistry", "patient-consultation", "dentist-burnout",
-        "complaint-management", "korean-dental-practice"]),
-    ("PDRN · BTX", ["pdrn", "btx-"]),
+    # ── 방사선↔디지털/AI 분리 ──
+    ("방사선 · CBCT · 선량", ["cbct", "dental-imaging"]),
+    ("디지털 · AI", ["digital-workflow", "ai-dentistry"]),
+    # ── 행동/커뮤니케이션↔경영 분리 ──
+    ("행동치의학 · 커뮤니케이션", ["behavioral-dentistry", "patient-consultation"]),
+    ("경영 · 민원 · 번아웃", [
+        "korean-dental-practice", "complaint-management", "dentist-burnout"]),
+    # ── PDRN↔BTX 분리(이질) ──
+    ("PDRN", ["pdrn"]),
+    ("보툴리눔독소 · BTX", ["btx-"]),
     ("근거평가 · 통계", ["evidence-appraisal", "statistical-abbrev"]),
     ("장비 · 핸드피스 · 절삭기구", ["handpiece", "dental-bur", "bur-selection", "rotary-cutting"]),
 ]
