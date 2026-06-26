@@ -54,4 +54,4 @@ This in vitro study systematically evaluated the torque accuracy of three commer
 
 ## Related Papers
 
-- [[prosthetic-materials/kim-2020-abutment-screw-retorquing-preload-loss]] — preload loss after repeated retorquing; complements the under-delivery finding by showing delivered torque decreases further with repeated cycles
+- [[overviews/abutment-screw-preload-joint-stability-overview]] — synthesis of retorquing/settling preload-loss evidence; complements this study's torque-delivery under-accuracy finding
