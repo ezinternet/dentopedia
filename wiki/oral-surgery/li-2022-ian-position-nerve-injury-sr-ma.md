@@ -11,7 +11,12 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/li-2022-ian-position-nerve-injury-sr-
 pdf_filename: li-2022-ian-position-nerve-injury-sr-ma.pdf
 source_collection: external
 tags: [ian, inferior-alveolar-nerve, iac, canal-position, lingual, buccal, third-molar, nerve-injury, paresthesia, meta-analysis, cbct, opg, risk-factor]
+superseded_by: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma
+superseded_scope: partial
 ---
+
+> [!note] Partially superseded → [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]]
+> 18-study SR+MA (GRADE moderate-high) reports lingual position OR 3.82 (95% CI 1.95–7.39), updating this paper's OR 4.96 (I²=65%, directional only). Thereza-Bussolaro also quantifies 7 additional CBCT features. This page retains value as the foundational CBCT-position reference and as the anchor OR cited in earlier overviews. (set 2026-06-26)
 
 ## One-line Summary
 
