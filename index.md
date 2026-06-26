@@ -1277,6 +1277,7 @@ tags: []
 - [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] — 우산형 리뷰(AMSTAR 2, 낮음~보통): 전체 메타분석 기존 레진 ~5배 유리(비유의); 마모·미세누출·탄성계수·중합수축 유사 거동
 - [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] — SR+MA(103편, lab+RCT): 벌크필 수축·응력·교두편향 감소, 유동성 벌크필 2mm 초과 전환율 우수; 2mm 이하 미세경도 낮음; 임상(1–10yr) 동등
 - [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — SR(53개 in vitro): 유동성 BF-RBC DC 19–94%, 수축 1.3–10.5%, 수축응력 2–3 MPa, 굴곡강도 대부분 >80 MPa; 제품 간 편차 큼, 임상연구 부재
+- [[resin/yeloglu-akbuar-2026-self-adhesive-flowable-physical-properties]] — in vitro(플로어블 5종, 각 n=10): 통상형(Filtek Ultimate Flowable) 미세경도 최고, self-adhesive는 낮음; 세균부착은 표면조도가 아닌 레진 매트릭스·필러 성분에 좌우(FU·Nova Compo SF 최저, Fusio Liquid Dentin 최고), Nova Compo SF 색안정성 우수 (2026)
 - [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — SR+MA(21 RCT, 최장 60개월): 실로란·오르모서·벌크필 포함 저수축 레진 vs 메타크릴레이트 — 12개월 변연적합만 메타크릴레이트 유의 우수; 나머지 동등
 - [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — SR+MA(11 RCT, J Adhes Dent): 실로란 기반 레진(SBC) vs 메타크릴레이트(MBC) — 전 지표 동등, I² 비유의; "저중합수축=임상 우월" 부정
 - [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — SR+MA(58개 in vitro, 7 DB): 레진 기질 개질이 중합수축응력 감소 최대 기여; 대체 광개시제 단독 효과 없음(p=0.29); SDR™ 기술 유망
