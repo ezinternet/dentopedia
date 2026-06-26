@@ -2169,6 +2169,9 @@ tags: []
 
 ### radiology (NEW category, added 2026-05-28, batch f)
 
+- [[radiology/ludlow-2008-patient-risk-dental-radiographic-examinations]] — Ludlow 2008 (phantom TLD, JADA): ICRP 2007 재계산 기준표 — FMX+PSP+직사각 34.9 µSv, 4BW 5.0 µSv, 원형FMX 171 µSv; 치과 선량 표준 기준
+- [[radiology/hedesiu-2018-dental-radiological-irradiation-pediatric-population]] — Hedesiu 2018 (retrospective, Eur J Radiol): 소아 7,150명 코호트 — 2D 중앙값 <20 µSv; CBCT 127 µSv = 자연배경방사선 최대 34.1일; CBCT=집단선량의 70%
+- [[radiology/johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding]] — Johnson & Ludlow 2020 (phantom OSL, JADA): 7개 조준 시스템 FMS 비교 — Focus-RC 54 µSv(성인) 최우수; 직사각조준 > 갑상선차폐; NCRP 177 검증
 - [[radiology/lee-2024-dental-dose-monitoring-system-establishment]] — Chena Lee 2024 (Yonsei OMFR) · narrative-review · National-level dose monitoring system for Korean dental radiography (intraoral·panoramic·CBCT) — pilot operation + expert-opinion extension
 - [[radiology/kang-2024-national-dental-radiological-dose-management]] — Ju Hee Kang 2024 (SNU OMFR) · narrative-review · DRL-based national dental dose management — ICRP 60/73/135·EU 97/43·IAEA BSS Req 34; Korea intraoral/pano 2009·CBCT 2018; 3-5 yr revision cycle
 
