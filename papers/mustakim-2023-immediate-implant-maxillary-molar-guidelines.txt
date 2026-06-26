@@ -1,0 +1,80 @@
+Guidance and rationale for the immediate implant placement in the maxillary molar
+Mustakim KR, Eo MY, Lee JY, Myoung H, Seo MH, Kim SM
+J Korean Assoc Oral Maxillofac Surg 2023;49(1):30-41
+DOI: 10.5125/jkaoms.2023.49.1.30
+PMID: 36859373 | PMCID: PMC9985995
+Source: PubMed full-text (PMC)
+
+ABSTRACT
+
+Objectives: While the reliability of immediate implant placement in the maxillary molar has been discussed, its significance is questionable. There have been no guidelines for case selection and surgical technique for successful treatment outcomes of immediate maxillary molar implants. Therefore, in this study, we classified alveolar bone height and socket morphology of the maxillary molar to establish guidelines for immediate implant placement.
+
+Materials and Methods: From 2011 to 2019, we retrospectively analyzed 106 patients with 148 immediate implants at the Department of Oral and Maxillofacial Surgery, Seoul National University Dental Hospital. Inclusion and exclusion criteria were applied, and patient characteristics and treatment results were evaluated clinically and radiologically.
+
+Results: A total of 29 tapered, sand-blasted, large-grit, and acid-etched (SLA) surfaces of implants were placed in 26 patients. The mean patient age was 64.88 years. Two implants failed and were reinstalled, resulting in a 93.10% survival rate. Fluctuating marginal bone level changes indicating bone regeneration and bone loss were observed in the first year following installation and remained stable after one year of prosthesis loading, with an average bone loss of 0.01±0.01 mm on the distal side and 0.03±0.03 mm on the mesial side.
+
+Conclusion: This clinical study demonstrated the significance of immediate implant placement in maxillary molars as a reliable treatment with a high survival rate using tapered SLA implants. With an accurate approach to immediate implantation, surgical intervention and treatment time can be reduced, resulting in patient satisfaction and comfort.
+
+FULL TEXT
+
+I. Introduction
+
+Immediate implant placement in the maxillary molar offers several advantages including (1) reduction of treatment time and cost, (2) fewer surgical interventions, (3) alveolar ridge preservation, (4) patient satisfaction and comfort, and (5) better osseointegration provided by fresh socket healing potential. However, compared with the mandible, immediate implant placement in the maxillary molar is challenging due to biomechanical factors and anatomical features including wide alveolar socket, poor quality of bone, and close proximity to the maxillary sinus.
+
+Immediate implant placement in the maxillary molar extraction socket as a predictable treatment is questionable, although high survival and success rates have been reported. The main challenge for this procedure is primary stability of the implant in the fresh socket. There is no guideline regarding proper case selection and surgical technique for successful immediate implant placement in the maxillary molar. We evaluated 26 cases and selected eight representative cases of immediate maxillary molar implant placement to present the step by step of the procedure. We also classified alveolar bone height (ABH) and socket morphology of the maxillary molar to establish guidelines for immediate implant placement.
+
+II. Materials and Methods
+
+Reporting follows STROBE. A retrospective study was conducted on 148 implants in 106 patients who received immediate implant placement at the Department of Oral and Maxillofacial Surgery, Seoul National University Dental Hospital from 2011 to 2019. IRB No. S-D20200007.
+
+Inclusion criteria: (1) Immediate implant placement following tooth extraction in the maxillary molar region. (2) No contraindications to surgical procedures. (3) Implant treatment using tapered SLA-surfaced internal dental implants.
+Exclusion criteria: (1) Simultaneous sinus augmentation via lateral window technique. (2) Lack of pre- and postoperative clinical and radiographic data.
+
+Classification of ABH (measured crestal bone to maxillary sinus floor):
+• Grade A: ABH>8.0 mm; sufficient vertically, no socket lifting needed.
+• Grade B: 6.0 mm≤ABH≤8.0 mm; may or may not require socket lifting; socket lifting required for a longer implant.
+• Grade C: ABH<6.0 mm; insufficient, socket lifting mandatory.
+
+Classification of socket interradicular septum:
+• Type I: Interradicular septum can support and integrate well with the implant. Bone grafting not mandatory.
+• Type II: Interradicular septum support available but weak; bone grafting required for primary stability.
+• Type III: Interradicular septum bone absent; fixture stabilization depends on socket wall; wide implant diameter can replace most of extraction socket.
+
+Surgical procedures: Local anesthesia 2% lidocaine with 1:100,000 epinephrine. Atraumatic extraction without flap elevation; diamond bur to separate roots preserving interradicular septum and buccal bone. For Grade C, socket tapped with blunt sinus osteotome to elevate sinus floor. Fixture placed mid-point of interradicular septum, parallel to central fossa line of adjacent teeth, lower than lowest extraction margin. Grade A Type III: wide-diameter Anyone (Megagen) 6.5×8.5 mm BL implant. Grade A Type II: particulate allogeneic bone Oragraft + Bio-Gide collagen membrane. Sutures 4-0 Vicryl.
+
+Reinstallation: One Grade C Type I case with pus discharge/fistula — removed, reinstalled wide Luna 5.0×7 mm + allogeneic graft. Another Grade C Type I #16 with sinusitis at 5 months — reinstalled Luna 4.5×7 mm with sinus lifting + graft.
+
+Two immediate molar implants: Grade A Type I (#26) + Type II (#27) — two Straumann 4.1×10 mm + Oragraft.
+
+Re-entry 6 months after fixture; prostheses 3 months later. Follow-up at 1 month post-fixture, and 1 month/6 months/1 year post-loading.
+
+Implant failure criteria (ICOI Pisa Consensus): pain/tenderness on function; mobility; radiographic bone loss >half implant length; uncontrolled exudate; implant loss.
+
+MBL measured at T0 (immediately post-fixture), T1 (1 month), T2 (re-entry, 6 months), T3 (1 month post-loading), T4 (1 year post-loading). Implant shoulder to most coronal bone-to-implant contact, mesial and distal, mean of 3 measurements. Paired Student's t-test, p<0.05.
+
+III. Results
+
+26 patients (11 male, 15 female); 29 SLA implants. Mean age 64.88 years (16-86). Sites: 10 in #16, 5 in #17, 10 in #26, 4 in #27.
+Implants: 14 Luna (Shinhung), 14 Straumann, 1 Anyone (Megagen). 20 bone-level, 9 tissue-level.
+
+Failure: 2 of 26 patients showed failure before re-entry (one peri-implantitis with pain/exudate/fistula, one sinusitis). Both removed and reinstalled immediately with wider-diameter implants + bone graft and sinus lifting. Success rate after initial treatment 93.10%. The two re-installed implants functioned well.
+
+MBL: T1-T4 changed significantly vs T0. Bone gain on mesial side at T1 (-0.44±0.62 mm) and distal side at T2/T3/T4 (-0.27±0.52, -0.16±0.60, -0.28±0.52 mm). Mean MBL at T2 significantly higher than T3 and T4; T3 higher than T4 on distal. Stable after 1 year loading: average bone loss 0.01±0.01 mm distal, 0.03±0.03 mm mesial.
+
+IV. Discussion (key points)
+
+Fluctuating MBL (bone regeneration then loss) in first year, stable after 1 year. First month: significant bone regeneration; bone loss starts 6 months post-installation. Wnt-responsive osteoprogenitor cells in PDL remnants support socket healing/osseointegration. Recommend waiting 6 months before re-entry. Primary stability depends on interradicular septum and lateral/apical bone engagement; atraumatic extraction + flapless preserve septum/buccal bone. Septum trauma can perforate sinus membrane. Diamond fissure bur for root separation + meticulous irrigation to remove metal debris.
+
+Bone grafting in Type II sockets recommended regardless of jumping distance; horizontal bone should be ≥3 mm greater than implant diameter. Particulate allogeneic bone for horizontal gain; collagen membrane reduces infection and aids healing. Bone grafting recommended for two-implant immediate cases regardless of remaining septum.
+
+Tapered SLA most reliable (osteoblast differentiation, BIC, self-cutting). BL vs TL: BL greater MBL when soft tissue thin (<2 mm); TL similar in thin/thick, benefits poor oral hygiene but unsuitable for limited mesio-distal/vertical dimensions. Implant length preferred 6-10 mm (<6 mm risks no primary stability, >10 mm risks sinus perforation).
+
+Type III socket / reinstallation: wide- or ultra-wide-diameter implant (>6 mm) recommended — high survival up to 12-year follow-up; engages socket walls, preserves bone/soft tissue, suits sinus pneumatization.
+
+ABH classification helps achieve apical primary stability via socket lifting. Sinus floor + interradicular cortical layer fix implant body. Socket lifting recommended at ABH ≤8 mm; ABH ≤4 mm → lateral approach + delayed; ABH >5 mm → socket lifting. Grade B: short dental implant (SDI <8 mm) can be considered. Immediate SDI installed in 5 patients (incl. 2 reinstallations). SDI vs standard: no significant difference in survival/MBL/complications in posterior jaws, but use with caution in posterior maxilla.
+
+Implant position: placed lower than lowest extraction margin to compensate for resorption and optimize primary closure. Some place implant shoulder 2-3 mm apical from gingival margin. Optimized primary closure limits oral microbiota intervention during socket healing.
+
+V. Conclusion
+
+Immediate implant placement in maxillary molar is a reliable treatment with high survival (93.10%) using tapered SLA implants. Socket lifting is a fast, conservative approach for vertical primary stability. Bone grafting (allogeneic particulate) or wide-diameter implants help lateral engagement. Six months is optimal before re-entry. The study classified maxillary molar socket morphology (Type I/II/III) and ABH (Grade A/B/C) and demonstrated a step-by-step technique.
