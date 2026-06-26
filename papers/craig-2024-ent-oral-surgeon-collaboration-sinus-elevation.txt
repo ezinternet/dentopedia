@@ -1,0 +1,261 @@
+Summary Box
+
+What is known?
+
+Maxillary sinus elevation (MSE) is integral for dental implant success but carries inherent risks due to potential complications influenced by sinonasal health.
+
+Current practices in MSE heavily rely on surgeons' subjective judgment and experience rather than on validated predictive models.
+
+Sinonasal health significantly impacts the outcome of MSE, necessitating thorough preoperative evaluations.
+
+What this study adds?
+
+This study highlights the critical role of otolaryngologists in evaluating sinonasal health to mitigate MSE risks.
+
+A systematic approach and grading system for otolaryngological evaluations to enhance MSE planning and patient outcomes are proposed.
+
+1
+
+INTRODUCTION
+
+Maxillary sinus elevation (MSE) is a cornerstone procedure in dental implantology. Despite its widespread adoption and success, MSE carries inherent risks of failure and complications that can significantly affect implant success and patient outcomes.
+
+Several risk factors for complications after MSE include patient‐specific characteristics, anatomical variants, and surgical skills. However, it is widely accepted that sinonasal health and maxillary sinus function are crucial in ensuring osteointegration and minimizing major failures.,,,When there is uncertainty about a patient's sinus health, the role of otolaryngologists in identifying and addressing sinonasal issues to mitigate these risks remains insufficiently defined in clinical practice.
+
+The otolaryngologist's expertise in sinonasal disorders is crucial during the preoperative phase of MSE. They are uniquely qualified to perform nasal endoscopy to assess for middle meatal purulence, edema, and patency of the ostiomeatal complex (OMC), all of which can impact MSE success. Their detailed understanding of the radiological anatomy of the sinonasal complex complements the oral cavity‐oriented skills and knowledge of dental providers.,A multidisciplinary approach including implantologists and rhinologists is the mainstay both for correct pre‐operative evaluation of MSG candidates and successful treatment of sinonasal complications of MSG.
+
+A correct analysis of the pathophysiology of sinonasal MSE complications and adherence to good clinical practice strongly supports the collaboration between otolaryngologists and dental providers in identifying sinonasal contraindications to MSE.It is, therefore, surprising that there is a lack of prospective literature validating this collaborative approach. Although some retrospective studies have evaluated patients from an otolaryngological perspective and successfully addressed sinonasal contraindications to MSE, there is no prospective evidence directly correlating specific clinical situations with increased risks of MSE complications.
+
+The only related prospective evaluation was conducted on a relatively significant number of dental implantation candidates.This study found that cysts, polyps, or mucosal thickening in the maxillary sinus do not pose a risk factor for dental implant‐related ODS. However, endoscopic sinus surgery is recommended for patients with incurable chronic rhinosinusitis, fungal sinusitis, and large polyps or cysts. Consequently, current MSE practices rely heavily on the experience and subjective judgment of surgeons rather than on validated predictive models or scoring systems. This reliance can lead to potential risks, such as overtreating inconsequential sinonasal conditions or anatomical variants, or undertreating significant sinonasal diseases.
+
+Though expert consensus statements have been published,,there remains a pressing need for evidence‐based standardization of protocols and external validation of strategies to reduce the risk of sinonasal‐related MSE complications. This review aims to provide a contemporary perspective on the subject while underscoring the urgent need for interdisciplinary collaboration to develop and validate clinical guidelines and scoring systems. These tools are essential for standardizing multidisciplinary assessments, improving their predictive accuracy, and ultimately enhancing MSE surgical outcomes.
+
+2
+
+RATIONALE FOR OTOLARYNGOLOGICAL COLLABORATION WITH DENTAL PROVIDERS FOR
+
+The maxillary sinus is the largest of the paranasal sinuses, pyramidally shaped and located within the body of the maxilla.It drains into the nasal cavity through its natural ostium into the middle meatus and the OMC. This region is crucial because obstructive diseases here can propagate maxillary, anterior ethmoid, and frontal sinusitis, as all three sinuses drain into this area.,
+
+Normal sinus function involves mucociliary clearance, where mucus is secreted and moved by ciliated epithelial cells toward the natural ostium, facilitating regular drainage into the nasal cavity. This process is vital for trapping and expelling pathogens and particulates from inhaled air. Disruption of mucociliary clearance can lead to sinusitis or other sinus pathologies, posing a potential risk for MSE failure. The need for functional ciliated epithelium is particularly critical for the maxillary sinus, as its natural ostium is located in the superomedial wall of the sinus, requiring mucus to be moved “anti‐gravity” for proper drainage.
+
+MSE involves elevating the maxillary sinus floor mucosa (Schneiderian membrane) to place bone graft material. Dental providers aim to avoid perforating the sinus mucosa to prevent potential infections in the sinus and bone graft.However, even without perforation, the sinus mucosa can become temporarily edematous, impeding maxillary sinus drainage and increasing the risk of complications during or after surgery.This is more common in patients with reduced or damaged mucociliary transport due to underlying conditions or overt sinusitis.
+
+Currently, there is insufficient evidence to solidly identify conditions posing a failure risk for MSE due to the lack of wide and prospective cohort studies. Except for the study by Chen and colleagues,which focuses on dental implants, we rely on good clinical practice and inferential evidence. Recognized risk factors for MSE failure include OMC obstructions (anatomical anomalies, polyps obstructing the OMC, non‐infectious chronic rhinosinusitis causing OMC edema/obstruction) and infectious conditions such as fungal sinusitis or acute rhinosinusitis.
+
+Extensively studied conditions impacting MSE are maxillary cysts and nonspecific mucosal thickenings, likely due to their prevalence in dental practice. Research indicates that maxillary sinus cysts, such as antral pseudocysts, mucous retention cysts, and polyps, do not adversely affect MSE success. Studies by Mardinger and colleagues,Kim and colleagues,and Ritter and colleaguesconfirm that these cysts do not correlate with increased surgical complications or implant failures. They found low incidences of sinus membrane perforation and post‐surgery sinusitis, high implant survival rates, and no need for pre‐surgical treatment in asymptomatic patients, affirming that maxillary sinus cysts do not compromise sinus elevation success.
+
+The risk of MSE impairing sinus function or causing infectious complications is the primary reason for considering otolaryngologic evaluation by dental specialists. This article will suggest a “sinonasal risk” patient identification and referral algorithm to address this concern.
+
+3
+
+PATIENT EVALUATION
+
+Otolaryngologists possess specialized skills that enable a comprehensive evaluation of patients' sinonasal health, thereby facilitating safe and effective MSE procedures. Their pivotal role includes clinical assessments (notably nasal endoscopic evaluations), understanding patients' sinonasal history, and interpreting radiological evaluations.,,
+
+3.1
+
+Patient history, symptoms, and comorbidities
+
+The first step in the preoperative assessment of MSE candidates involves a thorough review of the patient's medical and dental history, focusing on critical components,:
+
+From an otolaryngological standpoint, quality‐of‐life questionnaires such as SNOT‐22 or CRS‐PRO can grade sinonasal health or disease severity but do not facilitate screening for patients at risk for MSE complications.The SNOT‐22 (SinoNasal Outcome Test) is a commonly used rhinological tool that assesses 22 symptoms including nasal symptoms, sleep quality, otologic symptoms, or emotional symptoms (as related to nose function), on an integer scale of 1–5. The CRS‐PRO is a chronic rhinosinusitis (CRS)‐related Patient Reported‐Outcome (measurement) that allows self‐assessment on a 0–4 scale of 12 items including rhinosinusitis symptoms, sensory impairment, and psycho‐social effects of sinonasal disease.
+
+3.2
+
+Radiology
+
+Computed tomography (CT) is essential for MSE planning. Given its lower radiation dose and higher versatility, cone beam CT (CBCT) has replaced standard CT as the primary tool for MSE planning and preoperative candidate evaluation.,For the sake of MSG candidates' evaluation, CT and CBCT should be considered equal, as long as the CBCT window allows at least a complete vision of the OMC. These exams are usually evaluated by a radiologist or the dental provider performing the MSE. However, an otolaryngologist's review of pre‐MSE CT scans is complementary, offering a critical perspective on sinonasal anatomy and potential disease states. Modern CBCTs should fully include the OMC in any MSE candidate's evaluation. If a sinonasal issue is confirmed by the otolaryngologist, a new CT or CBCT including all paranasal sinuses is necessary for complete evaluation and treatment planning.,
+
+While dental providers focus on dental and maxillary anatomy and diseases pertinent to MSE, otolaryngologists concentrate on the following sinonasal features:
+
+Regarding radiographic examinations, only CTs and CBCTs are indicated for MSE candidates. Bite‐wing and periapical dental X‐rays still hold a relevant role in dental evaluations, while 2D sinus radiographs (either in Waters' or Caldwell's views) are no longer considered adequate for evaluating paranasal sinus disease. Magnetic resonance imaging (MRI) is not used for MSE candidates unless there is a concern for a neoplasm or extrasinus spread of tumor or infection.,,
+
+3.3
+
+Otolaryngological clinical evaluation with endoscopy
+
+In combination with CT scans, rigid or flexible nasal endoscopy provides critical diagnostic information during the otolaryngologic evaluation for MSE candidates. Standard anterior rhinoscopy with a nasal speculum and headlight or otoscope does not adequately evaluate the sinus drainage pathways. The otolaryngologist assesses the middle meatus for signs of infectious maxillary sinusitis or maxillary sinus ostial obstruction. Pus draining from the middle meatus indicates infectious maxillary sinusitis, which should be treated medically before MSE. Severe maxillary ostial scarring, a contraindication to MSE, may require endoscopic sinus surgery to establish a widely patent maxillary sinus and reduce the risk of postoperative sinusitis and complications such as bone graft infection or dental implant loss.
+
+Nasal endoscopy also helps evaluate anatomical findings related to sinonasal symptoms, providing objective confirmation. Sinonasal symptoms alone should not contraindicate MSE. For example, nasal obstruction and facial pressure attributed to sinus disease may have non‐sinogenic causes, such as migraine or tension headaches, if nasal endoscopy shows normal sinus drainage pathways despite CT findings of mild mucosal thickening or a large mucous retention cyst. Similarly, postnasal drainage, often caused by conditions other than sinusitis, can be evaluated to rule out maxillary sinusitis.,
+
+In summary, otolaryngologists' evaluations, including patient history, radiological assessments, and endoscopic examinations, are vital in identifying sinonasal risk factors for MSE. These evaluations support the development of a patient identification and referral algorithm for dental providers to enhance MSE outcomes and minimize complications.
+
+4
+
+REAL‐LIFE PATIENT MANAGEMENT
+
+4.1
+
+Integrating key evaluation points into an effective clinical workflow for otorhinolaryngological assessment of candidates for MSE
+
+When considering collaboration between otolaryngologists and dental providers for preoperative MSE planning, a crucial question arises: when should the dentist refer the patient to an otolaryngologist?Unfortunately, there are no established guidelines defining the factors that truly put patients at risk for MSE complications related to sinonasal disease.
+
+Until well‐designed studies determine which presumed risk factors lead to MSE complications and failures, recommendations must rely on expert opinion. A clinically reasonable approach is for dental providers to refer patients to otolaryngologists when there is concern for active infectious sinusitis, maxillary sinus ostial obstruction, or potential sinusitis seen on a CT scan that may affect MSE success intraoperatively or postoperatively. This last scenario is common due to misunderstandings between dental and otolaryngologic fields regarding CT and CBCT findings, and the lack of guidelines on interventions needed to optimize MSE outcomes. This unresolved issue continues to cause confusion about who absolutely requires otolaryngological evaluation and treatment.
+
+When examining the three pillars of evaluation (history‐taking, radiology, and clinical sinonasal evaluation), it is evident that the third point is entirely within the otolaryngologist's domain.
+
+The presence of known sinus pathology, specific symptoms, lifestyle habits and systemic diseases that impair mucociliary clearance might justify a referral for an otolaryngological evaluation with endoscopy. However, a referral approach based solely on these assumptions will likely lead to excessively frequent evaluations. Ideally, prospective evaluations should better define otolaryngological contraindications to MSE. Testori and colleagues reported a consensus on a standard history‐taking form and radiology checklist for dental providers, which might help identify patients who could benefit from an otolaryngological evaluation.This form considers symptoms such as allergies, respiratory disease, nasal breathing difficulties, otolaryngological patient history, use of nasal medications, history of sinusitis, prior otolaryngological or maxillofacial consultations, Eustachian tube issues, and posterior rhinorrhea. From a radiological standpoint, the checklist includes evaluating the OMC patency and maxillary sinus opacifications.
+
+Reasons for referring to an otolaryngologist based on CT findings may include maxillary sinus opacification or OMC obstruction. However, mucosal thickening or mucus retention cysts often lead to unnecessary referrals due to misinterpretations. Dental literature often reports >2–6 mm of mucosal thickening as pathologic sinusitis, leading to excessive referrals. While some sources link large MRCs (>1/2 the vertical height of the maxillary sinus) with higher MSE or dental implant‐related complications, most are retrospective studies or reviews. Other studies show no increased rate of MSE or dental implant‐related failures with maxillary pseudocyst and MRC.,Thus, OMC patency is closely connected to sinus health, while Schneiderian membrane thickening is often a false alarm in most cases.,
+
+Based on evaluating overt maxillary sinus pathology and OMC patency, we propose a grading scale developed by Prof. Giovanni Felisati. Both items are rated on a scale from 1 to 5 (see Table). To determine which patients might benefit from an otolaryngological evaluation, select the worst score between the two items. Patients with CT scans graded 3, 4, and 5 could benefit from an otolaryngological evaluation for MSE planning. Grade 2 patients might also benefit from evaluations for symptomatic sinonasal conditions, regardless of MSE planning.
+
+In patients with confirmed sinusitis, maxillary sinus ostial obstruction, or a sinus CT finding that could lead to MSE complications (eg, large MRC), the question is whether endoscopic sinus surgery (ESS) should be done separately or concurrently with MSE. Our goal is to integrate endoscopic and radiological evaluations, proposing a unique score to be shared with the dental provider. This score helps select patients with and without likely contraindications related to sinonasal issues for MSE. In cases with contraindications, it determines whether they should be addressed in a single or two stages.
+
+The proposed scoring system (see Table) involves grading both the radiological and endoscopic evaluations, with the worst score determining the “otorhinolaryngological staging” of the patient for sinus lifting. Grades 3, 4, and 5 suggest contraindications, requiring a shared treatment plan between the dental provider and the otolaryngologist. Grade 2 does not equate to a contraindication, though anatomical anomalies may be treated during the same surgical setting as MSE if there is an inherent otolaryngological indication (eg, nasal breathing difficulties). Figures,,,,provide examples of the five grades, each with a panel depicting the CT scan and the endoscopic view of the OMC in the same patients.
+
+TABLE 1
+
+Systematic scoring system for CT scans for identifying patients potentially benefitting from otolaryngological evaluation.
+
+Grade
+
+OMC and sinonasal anatomical anomalies
+
+MS ostium
+
+1
+
+No OMC opacification, no OMC/sinonasal anatomical abnormalities
+
+MS ostium open
+
+2
+
+No OMC opacification, yes OMC/naso‐sinus anatomical abnormalities (possible indication for nasal surgery)
+
+MS ostium open
+
+3
+
+Mild OMC opacification
+
+MS ostium open
+
+4
+
+Moderate OMC opacification
+
+MS ostium blocked
+
+5
+
+Severe OMC opacification
+
+MS ostium blocked
+
+TABLE 2
+
+Systematic scoring system for identifying and treating otolaryngological contraindications to MSE.
+
+Score
+
+CT scan
+
+Nasal endoscopy
+
+Grade of contraindication
+
+Surgical treatment (if medical fails)
+
+1
+
+No OMC opacification, no OMC or sinonasal anatomical anomalies
+
+No OMC edema, no OMC or sinonasal anatomical anomalies
+
+No contraindication
+
+No treatment
+
+2
+
+No OMC opacification, yes OMC/naso‐sinus anatomical abnormalities (possible indication for nasal surgery)
+
+No OMC edema, yes OMC/naso‐sinus anatomical abnormalities (possible indication for nasal surgery)
+
+No contraindication
+
+Nasal (endoscopic) surgery combined with MSE is possible if otolaryngological indication to treat the anatomical anomaly
+
+3
+
+Mild OMC opacification
+
+Mild OMC edema
+
+Mild contraindication
+
+Combined or two‐stage surgery
+
+4
+
+Moderate OMC opacification
+
+Moderate OMC edema
+
+Moderate contraindication
+
+Combined or two‐stage surgery
+
+5
+
+Severe OMC opacification
+
+Severe OMC edema, nasal polyps, or purulence in OMC
+
+Severe contraindication
+
+Two‐stage surgery (endoscopic sinus surgery first, then MSE)
+
+FIGURE 1
+
+(a) Coronal CT scan image from a radiologic grade 1 patient. The left OMC is clear of opacification, with no anatomical sinonasal alterations, and the MS ostium is open. The cyst present on the floor of the maxillary sinus does not pose a significant clinical issue. However, to prevent potential ostium closure, the dental provider can puncture and deflate the cyst via oral access. (b) Endoscopic view of the left OMC from the same patient. The OMC is free from edema, polyps, secretions, or anatomical alterations. No purulent discharge is visible.
+
+FIGURE 2
+
+(a) Coronal CT scan image from a radiologic grade 2 patient. The left OMC is clear of opacification, but there is significant middle turbinate hypertrophy and contralateral septal deviation. Surgical correction may be considered if the patient experiences nasal breathing difficulties, although these conditions do not directly affect MSE success. The left MS ostium is open. (b) Endoscopic view of the left OMC from the same patient. The OMC is free from edema, polyps, and secretions. A slight middle turbinate hypertrophy is visible, but no purulent discharge is observed.
+
+FIGURE 3
+
+(a) Coronal CT scan image from a radiologic grade 3 patient. Mild opacification is seen in both OMCs, with bilateral paradoxical bending of the middle turbinates. The MS ostium is open but appears narrow and irregular. (b) Endoscopic view of the right OMC from the same patient. The OMC is free from edema and polyps, but there are some seromucous secretions.
+
+FIGURE 4
+
+(a) Coronal CT scan image from a radiologic grade 4 patient. The left OMC is moderately opacified, and the maxillary sinus exhibits concentric mucosal hyperplasia. The MS ostium is closed. (b) Endoscopic view of the left OMC from the same patient. There is moderate obstruction of the OMC due to edema and septal deviation.
+
+FIGURE 5
+
+(a) Coronal CT scan image from a radiologic grade 5 patient with chronic rhinosinusitis and nasal polyps. Both OMC and MS natural ostia are completely obliterated. (b) Endoscopic view of the right OMC from the same patient. The right OMC is completely closed by nasal polyps.
+
+4.2
+
+One‐ and two‐stage surgical treatment of sinonasal‐related contraindications to MSE
+
+The integration of MSE and ESS is increasingly advocated for patients with reversible sinonasal issues that impede the natural drainage and aeration pathways of the maxillary sinus. Published case series indicate that this combined approach yields outstanding results for non‐inflammatory conditions, such as anatomical obstructions of the OMC, facilitating sinus clearance, graft integration, and implant osseointegration.The single‐step approach has demonstrated high success rates with minimal complications, emphasizing its reliability for selected patients with reversible contraindications. Preoperative assessments incorporating fiberoptic nasal endoscopy and detailed imaging ensure accurate identification of these contraindications, significantly reducing the risk of post‐surgical complications.
+
+Literature suggests that patients suitable for simultaneous ESS and MSE typically exhibit conditions such as anatomical blockages, including septal deviations, paradoxical middle turbinate bending, and Haller cells. However, there is some debate over whether inflammatory chronic rhinosinusitis without extensive mucosal disease can be effectively treated in a single stage.,Addressing these issues in one surgical session reduces the patient's exposure to multiple anesthesia, lowers overall healthcare costs, and expedites recovery, allowing for quicker commencement of prosthetic rehabilitation.
+
+In contrast, certain complex cases necessitate a staged approach. Patients with extensive sinonasal pathology, such as aggressive sinusitis, sinonasal purulence, fungal infections, or significant anatomical deformities requiring extensive reconstruction, may benefit from initial ESS to optimize sinus health before subsequent MSE.,This staged approach helps prevent complications like sinus infections or implant failure due to unresolved chronic sinus conditions.
+
+Choosing between a single‐step and a two‐step approach depends heavily on the extent of sinonasal pathology and the patient's overall ENT health. A thorough ENT examination, including endoscopic assessment and CT imaging, is crucial to determine the appropriate approach. Clinical outcomes consistently support the efficacy of the combined surgical approach in selected cases, advocating its adoption in routine clinical practice for eligible patients.
+
+5
+
+CONCLUSION
+
+The successful planning and execution of MSE procedures rely heavily on the interdisciplinary collaboration between otolaryngologists and dental providers. This partnership is crucial for the comprehensive preoperative assessment of sinonasal health, which directly influences MSE outcomes. This review emphasizes the necessity of thorough evaluations involving specific patient history analysis, imaging examinations, and nasal endoscopy to identify and mitigate sinonasal risk factors.
+
+The proposed grading system and referral algorithm provide a structured approach for dental providers to identify patients who would benefit from otolaryngological evaluations, thus enhancing the predictability and safety of MSE procedures. Standardizing these protocols and fostering collaborative practices are vital steps toward minimizing complications and improving patient outcomes. Future research should focus on validating these strategies through prospective studies to establish evidence‐based guidelines that can further refine and standardize multidisciplinary assessments in the context of MSE.
+
+Integrating these systematic approaches leads to better patient care and clinical outcomes. The ongoing collaboration between otolaryngologists and dental surgeons is, therefore, pivotal in advancing the standards and effectiveness of MSE interventions.
+
+AUTHOR CONTRIBUTIONS
+
+AMS and EGF: data acquisition, article drafting, approval of submitted and final versions.
+
+JRC and GF: data interpretation, critical revision of the article, approval of submitted and final versions.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors have no conflict of interest pertaining to this article.
