@@ -2174,6 +2174,9 @@ tags: []
 - [[radiology/johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding]] — Johnson & Ludlow 2020 (phantom OSL, JADA): 7개 조준 시스템 FMS 비교 — Focus-RC 54 µSv(성인) 최우수; 직사각조준 > 갑상선차폐; NCRP 177 검증
 - [[radiology/lee-2024-dental-dose-monitoring-system-establishment]] — Chena Lee 2024 (Yonsei OMFR) · narrative-review · National-level dose monitoring system for Korean dental radiography (intraoral·panoramic·CBCT) — pilot operation + expert-opinion extension
 - [[radiology/kang-2024-national-dental-radiological-dose-management]] — Ju Hee Kang 2024 (SNU OMFR) · narrative-review · DRL-based national dental dose management — ICRP 60/73/135·EU 97/43·IAEA BSS Req 34; Korea intraoral/pano 2009·CBCT 2018; 3-5 yr revision cycle
+- [[radiology/gijbels-2005-dosimetry-digital-panoramic-occupational-exposure]] — Gijbels 2005 (in-vitro phantom, DMFR): 5종 디지털 파노라마 1 m 거리 산란선량 ≤0.60 μGy/촬영; 연간 500회 시 술자 갑상선 5–15 μSv, 생식선 5–40 μSv — 직업한도의 0.3%
+- [[radiology/kim-2016-occupational-radiation-procedures-doses-korean-dentists]] — Kim 2016 (cross-sectional, Community Dent Oral Epidemiol): 한국 치과의사 658명 NDR 연계 — 연평균 0.18 mSv(남)/0.13 mSv(여), 파노라마 최빈 시술, 직업한도의 <1%
+- [[radiology/kabier-2025-xray-radiation-exposure-open-dental-clinics-tld]] — Kabier 2025 (prospective TLD, Appl Radiat Isot): 개방형 치과클리닉 납복 위 TLD — 치의 5.623 mSv/y, 조무사 5.279 mSv/y; 차폐실 있는 한국의 30배, ICRP 20 mSv 이내
 
 <!-- BATCH INGEST 2026-05-30: orphan PDF 정리 — OD/sinus 4 + PDRN 1 (11편 중 철회 3·중복 2 제외) -->
 
