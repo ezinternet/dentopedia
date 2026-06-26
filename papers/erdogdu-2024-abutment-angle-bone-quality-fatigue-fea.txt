@@ -1,0 +1,46 @@
+Assessment of the Impact of Bone Quality and Abutment Configuration on the Fatigue Performance of Dental Implant Systems Using Finite Element Analysis (FEA)
+
+Authors: Erdoğdu M, Demirel MG, Mohammadi R, Güntekin N
+Journal: Journal of Personalized Medicine
+Year: 2024
+DOI: 10.3390/jpm14101040
+PMID: 39452546
+PMCID: PMC11508474
+
+ABSTRACT:
+Background and Objectives: The aim was to evaluate the influence of abutment angulation, types, and bone quality on fatigue performance in dental implant systems.
+Materials and Methods: 3D models of maxillary 3-unit fixed implant-supported prostheses. Abutments with different angles and types. Healthy bone (Hb) and resorbed bone (Rb). Force 150 N oblique (palatal→buccal, 30°). Groups: Mu0, Mu15, Mu30 (multiunit), C0, C15, C25 (cemented). Abaqus 2020, 1000 load cycles, fatigue analysis via critical-plane + Coffin-Manson + Basquin.
+Results: Fatigue strength in healthy bone higher than resorbed bone. Maximum stress in angled implants. Resorbed bone → slightly lower fatigue performance.
+Conclusions: Increasing abutment angle → increased stress + decreased fatigue performance in adjacent bone and implant-abutment interface. Healthy bone → higher success. Multiunit abutments superior to cemented abutments in stress distribution and fatigue performance.
+
+KEY RESULTS:
+- Stress distribution: VMSs increase proportionally with abutment angle in all groups
+- Lowest vMS: Mu0 (multiunit 0°); Highest vMS: C25 (cemented 25°)
+- Multiunit abutments consistently lower vMS than cemented abutments at equivalent angles
+- Resorbed bone models → numerically higher vMS vs healthy bone models
+- Fatigue performance: Highest in Mu0; Lowest in C25
+- Fatigue decreases inversely proportional to angle increase
+- Multiunit abutments show highest fatigue performances
+- Molar region → higher stress + lower fatigue than premolar region
+
+CLINICAL IMPLICATIONS:
+- Minimize abutment angulation wherever anatomically possible
+- Prefer multiunit (screw-retained) over cemented abutments, especially at higher angles
+- Resorbed bone (Rb) patients are at higher biomechanical risk — consider bone augmentation or lower-angle solutions
+- Bone quality × abutment angle interaction should guide implant planning
+
+MECHANISM:
+- Higher abutment angle → bending moment at IAJ (implant-abutment junction) → stress concentration at implant neck and crestal cortical bone
+- Resorbed bone: lower elastic modulus → less effective load distribution → higher stress concentration and susceptibility to fatigue failure
+- Cortical bone plays the critical role in load transfer — crestal cortical bone stress is the key outcome
+- Multiunit abutments allow passive fit via screw mechanism → better stress distribution vs cement layer (which introduces residual cement risk + less rigid interface)
+
+FEA MODEL:
+- Maxillary 3-unit bridge, 2 implants (1st premolar + 1st molar), 2nd premolar pontic
+- Implant: Bil Implant Co., Ø3.7 mm × 10 mm
+- Prosthesis: monolithic zirconia
+- Bone: SolidWorks model with trabecular + cortical + mucosa layers
+- Loading: 150 N oblique, palatal-to-buccal, 30° angle
+- Friction coefficient: 0.3 at abutment-implant interface
+- Screw preload: 781 N (from 25 N·cm tightening torque)
+- 1000 direct cyclic loading cycles
