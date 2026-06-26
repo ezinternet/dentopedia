@@ -10,6 +10,8 @@ source: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.md
 category: [implants]
 confidence: in-vitro
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
+text_filename: erdogdu-2024-abutment-angle-bone-quality-fatigue-fea.txt
 full_text: true
 tags: [abutment-angle, fatigue, stress-distribution, FEA, multiunit-abutment, cemented-abutment, bone-quality]
 relations:
