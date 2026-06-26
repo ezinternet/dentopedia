@@ -115,4 +115,4 @@ See design parameters and surface modification sections above. No primary data; 
 
 ## Related Papers
 
-- [[implants/buser-50-anni-di-impianti]] — extends: Buser (2017) 50-year osseointegration retrospective provides later clinical evidence base
+- [[implants/buser-2017-modern-implant-dentistry-osseointegration-50years]] — extends: Buser (2017) 50-year osseointegration retrospective provides later clinical evidence base
