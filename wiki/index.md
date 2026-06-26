@@ -49,8 +49,13 @@ confidence: narrative-review
 
 치과 임상 논문·가이드라인을 3-tier(PDF → sources → wiki)로 정리한 개인 지식 베이스.
 
-> [!abstract] 🗺️ 카테고리 지도 — [[category-map|임상 동선 6단계로 보기]]
-> 전 카테고리(~95개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.
+<div style="border-left:3px solid var(--secondary); background:var(--highlight); border-radius:6px; padding:0.6rem 1rem; margin:1rem 0; display:flex; align-items:center; gap:0.9rem;">
+  <span style="font-size:2.2rem; line-height:1; flex-shrink:0;">🧭</span>
+  <div>
+    <strong><a href="https://ezinternet.github.io/dentopedia/category-map">카테고리 지도 — 임상 동선 6단계로 보기</a></strong><br>
+    <span style="font-size:0.875em; color:var(--gray);">전 카테고리(~95개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.</span>
+  </div>
+</div>
 
 ## 🦷 Interactive Tools
 
