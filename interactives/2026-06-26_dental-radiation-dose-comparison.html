@@ -248,9 +248,9 @@ const CHEST  = 50;     // µSv (EXT REF: NRPB/IAEA)
 
 /* ─── DATA ─────────────────────────────────────────────── */
 const SECTIONS = [
-  { label: '구내촬영 (Intraoral)',               ids: ['pa','pa_portable','bitewing','fmx'] },
+  { label: '구내촬영 (Intraoral)',               ids: ['pa_portable','bitewing'] },
   { label: '파노라마 / 측방두부 (Panoramic / Ceph)', ids: ['ceph','pano_child','pano_adult'] },
-  { label: 'CBCT (치과용 콘빔 CT)',               ids: ['cbct'] },
+  { label: 'CBCT (치과용 콘빔 CT)',               ids: ['cbct_small'] },
   { label: '비교 기준 — 내과/환경 (Reference)',   ids: ['chest_xray','flight','annual_bg'] },
 ];
 
@@ -311,6 +311,14 @@ const DATA = {
     note: '기기·FOV 편차 있음 (14–75 µSv). 평균 ≈ 자연방사선 2.1일 = 가슴 X선의 0.36배.',
     wiki: 'wiki/radiology/benchimol-2018-collimation-panoramic-effective-dose-reduction',
   },
+  cbct_small: {
+    label: 'CBCT (소형 FOV)',
+    en: 'Dental CBCT — Small FOV',
+    mean: 31, range: [17, 50], color: '#f59e0b', ext: false, isRef: false,
+    source: 'Yeh 2018 (i-CAT 16×13cm, Monte Carlo + BEIR-VII)',
+    note: '소형 FOV 기준. ≈ 자연방사선 3.6일. 소아 10세 여아 REID 22.6×10⁻⁵. 기기·FOV·프로토콜에 따라 17–500+ µSv까지 편차 큼.',
+    wiki: 'wiki/radiology/yeh-2018-estimated-radiation-risk-cancer-dental',
+  },
   cbct: {
     label: 'CBCT (치과용 콘빔 CT)',
     en: 'Dental Cone Beam CT — full clinical range',
@@ -320,8 +328,8 @@ const DATA = {
     wiki: 'wiki/overviews/dental-imaging-effective-dose-background-equivalent-overview',
   },
   chest_xray: {
-    label: '가슴 X선 PA (내과 촬영)',
-    en: 'Chest PA X-ray — hospital/internal medicine ★',
+    label: '흉부 X선',
+    en: 'Chest X-ray (PA) ★',
     mean: 50, range: [14, 100], color: '#64748b', ext: true, isRef: true,
     source: 'NRPB/IAEA 표준 참조값 (corpus 외부 데이터)',
     note: '비교 맥락용 외부 참조값. 내과·가정의학과 흉부 검진용 PA 촬영 기준. 현대 디지털 장비는 14–20 µSv로 낮아지는 추세. 흉부 CT는 5,000–10,000 µSv로 별도 범주.',
