@@ -1,0 +1,207 @@
+Introduction
+
+Implants are becoming a prominent and promising treatment option to replace the missing teeth. In patients missing posterior maxillary teeth, sinus pneumatization and alveolar ridge resorption lead to a thin layer of bone along with mucoperiosteum that remains between the maxillary sinus and oral cavity [].
+
+To meet the concern, augmentation techniques are used to achieve adequate elevation of the sinus membrane for bone augmentation required for implant placement [].
+
+Sinus floor elevation has been documented as a predictable technique for implant rehabilita-tion in the posterior atrophic maxilla []. Also, it has been suggested that implants show a high survival rate when inserted in the grafted sinuses through the lateral window or trans-alveolar approaches []. What merits attention here is that the success rate of the aforementioned techniques highly depends on obtaining adequate data about the membrane and sinus anatomy prior to the procedure.
+
+The best and the most widespread way to collect the required data is to use cone-beam computed tomography (CBCT) as a diagnostic tool for 3-dimensional treatment planning for implant dentistry and sinus augmentation procedures. In comparison with the conven-tional imaging techniques, CBCT provides superior diagnostic accuracy regarding the morphology of the maxillary sinus cavity and its mucosal lining [].
+
+Preoperative CBCT evaluation can contribute to identifying several anatomical features of the sinus cavity, which are likely to increase intra/postoperative complications (e.g. exces-sive bleeding, sinus membrane perforation, infection, loss of graft material, and implant failure) and may affect the outcome of sinus augmentation [].
+
+Sinus membrane perforation is the most frequent complication occurring with an average incidence rate of 23.5% (ranging from 3.6% to 41.8%) []. During sinus floor elevation surgery, there might be countless anatomical variations with respect to the presence of septum, septum direction, sinus width, lateral wall thickness, and residual alveolar ridge height, that may simply increase the risk of membrane perforation []. Thin sinus membrane is another complication frequently associated with membrane perforation [-]. According to the existing literature, the risk of perforation is the lowest when the membrane thickness falls between 1.5-2mm (regardless of the lateral or crestal augmentation technique) and that membranes thinner than 0.8 mm or thicker than 3mm are more prone to perforation [,].
+
+The membrane thickness is normally less than 1mm and is not radiographically visible [,]. However, sinus membrane thicken-ing is prevalent and may be related to various conditions namely chronic or acute rhinosinusitis, pseudocyst, retention cyst, mucocele, allergy, peri-apical lesions, and periodontal disease []. There is also a significant association between radiographic signs of obstructed sinus ostium and degree of Schneiderian membrane thickening [-]. Moreover, sinus membrane perforation has been attributed to reduced residual ridge height (RRH) [,]. Lum et al. [] demonstrated that the mean RRH in the perforation group was significantly lower than that in the non-perforation group. Besides, RRH may be correlated with the sinus membrane thickness, indirectly affecting the perforation rate. Yilmaz and Tozum [] reported a decrease in sinus membrane thickness with RRH<3.5mm. However, other studies did not find a correlation between RRH and membrane thickness [,].
+
+Although appropriately managed membrane perforations could bring about comparable results [], a recent systematic review revealed a significant relationship between intraoperative sinus membrane perforation and implant failure []. Therefore, to minimize postoperative complications and improve the outcome, it is highly recom-mended to study preoperative CBCT scans to recognize the potential anatomical risk factors and pathologies of the maxillary sinuses. The primary aim of the present study was to evaluate the sinus membrane thickness, the ostium patency, and the RRH, and to assess if there is any correlation between the mucosal thickness and the RRH in order to find the potential risk factors and reduce the side effects before and during sinus floor augmentation. The secondary outcome was to find the prevalence of mucosal thickening in the study population.
+
+MATERIALS AND METHODS
+
+This was a retrospective cross-sectional study. Patients from various dental clinics were referred to a private radiology center in Tehran for CBCT evaluation of implant sites in the posterior maxilla. Radiographs were taken from March 2016 to March 2017. Since the study merely evaluated the patients’ radiographs, no informed consent was obtained. The Ethical Committee of Tehran University of Medical Sciences approved the study (ethical code: IR.TUMS.VCR.REC.1395.580). To collect the samples, ‘maxilla’ and ‘sinus’ were selected as the key terms to conduct a primary search in the database of the radiology center. All CBCT scans of the edentulous regions of the maxilla were examined. The inclusion criteria were (a) a minimum of one missing tooth in the posterior maxilla: i.e. the first premolar to the second molar sites, and (b) CBCT scans with acceptable quality for evaluation of the sinus membrane in the inferior, medial and lateral sinus walls. The exclusion criteria were as follows: (a) evidence of previous implant placement or sinus augmentation and (b) low-quality CBCT scans hindering a clear observation of the maxillary sinus. The minimum sample size was calculated to be 178 using the multiple regression power analysis feature of PASS 11, considering α=0.05 ß=0.2, and r2=0.1. To improve the power of the study, 240 participants were enrolled.
+
+The patient records were used to access their demographic data, including age and gender. The CBCT images had been obtained by Planmeca 3D imaging system (Planmeca, Oy, Finland) with the exposure settings of 10 mA, 90kV, 8×8 cm field of view, 0.2 mm or 200 µm voxel size, and 12 seconds scanning time, and analyzed by Planmeca Romexis® Viewer software version 4.2.6 (Planmeca, Oy, Finland). A multiplanar reconstruction was conducted to obtain axial, coronal, and sagittal images (with 2 mm slice thickness).
+
+All measurements were made by one examiner trained by an oral and maxillofacial radiologist. Next, 10% of the CBCT scans (20 randomly selected CBCT scans) were re-measured to assess the intra-examiner reliability 10 days later, which led to a mean absolute error of 0.07±0.02mm between the measurements, and the acceptable correla-tion coefficient of 0.97. The thickness of the sinus membrane and RRH were measured at the possible implant locations through pre-implantation (Implant Tab) and cross-sectional measurements. At the desired section, the residual bone height was measured in millimeters between the most coronal point of the alveolar crest and the most apical point of the sinus floor []. In the same image cut, the mucosal thickness was measured from the most apical part of the sinus floor to the most coronal part of the sinus membrane []. According to Phothikhun et al, [] mucosal thickening of more than 1mm could be considered as pathological. In case where the membrane was not visible on the CBCT scans, the thickness was considered to be zero as shown in.
+
+Additionally, the morphology of the thickened mucosa was classified as “flat” (membrane border parallel to sinus floor), “polypoid” (dome-shaped thickening of the sinus membrane), or complete sinus opacification [] ().
+
+The area of the ostiomeatal complex (OMC) was examined in the coronal portion of each sinus scan. It was classified as ‘open’, ‘closed’, or ‘undefined’. The teeth adjacent to each edentulous site were also assessed for the presence of periapical lesions. According to the diagnostic criteria by Low et al, [] any visible periapical radiolucency was regarded as a periapical lesion when its width was at least twice that of the adjacent periodontal ligament.
+
+Statistical analysis:
+
+Mean±standard deviation values were calculated for the thickness of the membrane and RRH. The Pearson’s correlation test was used to examine the relationship between membrane thickening and RRH in each area. To assess the correlation of age, sex, patency of the OMC, and presence of periapical lesions with thickening of the sinus membrane, a multiple linear regression analysis (ENTER method) was performed for each independent variable. P<0.05 was considered significant.
+
+Fig. 1
+
+Residual ridge height and mucosal thickening measured on sagittal sections at the predetermined area
+
+Fig. 2
+
+Coronal sections: (A) an open ostiomeatal complex (arrow) without mucosal thickening in bilateral sinuses; (B) closed ostiomeatal complex (arrow), note the flat-shaped mucosal thickening in the left sinus and polypoid-shaped mucosal thickening in the right sinus; (C) complete opacification in the right sinus
+
+Table 1
+
+Residual ridge height, prevalence of mucosal thickening, and range of membrane thickness by tooth location in the studied samples
+
+Variable
+
+Area
+
+First premolar
+
+(n=34)
+
+Second premolar
+
+(n=105)
+
+First molar
+
+(n=177)
+
+Second molar
+
+(n=140)
+
+Mucosal thickening(present)
+
+N(%)
+
+20(58.8)
+
+60(57.1)
+
+117(66.1)
+
+93(66.4)
+
+Membrane thickness(minimum - maximum)
+
+mm
+
+1.6–10.2
+
+1.5–23.2
+
+1–23.6
+
+1.2–25.2
+
+Residual ridge height(mean±standard deviation)
+
+mm
+
+12.594.21
+
+9.694.59
+
+7.903.88
+
+7.023.56
+
+Results
+
+A total of 141 patients (mean age of 53±5.12 years; range: 25 to 85 years) and 240 sinuses [males: 149 samples (62.1%); females: 91 samples (37.9%)] were evaluated in this study. Ninety-nine patients had posterior tooth missing at both sides and the sinuses (198 sinuses) were evaluated bilaterally; in the remaining 42 patients, one sinus was evaluated unilaterally.illustrates the number of edentulous areas by tooth location and the corresponding RRH.
+
+RRHs at the site of molar teeth were less than the values in the premolar regions. The minimum and maximum mucosal thickness as well as the prevalence of mucosal thickening are shown in.
+
+Mucosal thickening (thickness>1mm) was seen in 159 sinuses (66.25%); and sub-classified as follows: flat shape: 53.7%; polypoid shape: 12.1%, and complete opacification: 0.4%. There was a significant inverse correlation between the RRH and thickening of the sinus membrane at the site of second premolar (P=0.046) and first molar (P=0.012). Radiographic evaluation of the OMC in asymptomatic patients included in this study revealed that OMC was open in 72.5%, closed in 7.1%, and undefined in the remaining cases. In all sinuses with closed OMC, sinus membrane thickening was noted. No significant correlation was found between the patients’ age and mucosal thickening in premolar or molar regions (P>0.05,). There was a significant correlation between male sex and mucosal thickening at the site of second premolar (P=0.018), and molar (P=0.001). In 29% of the samples, a periapical lesion was detected, but no significant correlation was found between the presence of periapical lesion and prevalence of sinus membrane thickening in any area (P>0.05,).
+
+Discussion
+
+This study evaluated the pathological changes of the maxillary sinuses on CBCT scans and investigated the relationship between the RRH in posterior edentulous maxilla and thickening of the sinus membrane.
+
+This retrospective cross-sectional study was performed on 141 patients and 240 sinuses in total. Membrane thickening (>1mm) was observed in 66.25% of the sinuses and was significantly correlated with the RRH in the second premolar and first molar regions.
+
+The normal thickness of the sinus mucosa (the Schneiderian membrane) is reportedly 0.8-1 mm []. In this study, therefore, the mucosal thickness of more than 1 mm was considered to be pathological; this decision was made based on previous studies by Phothikhun et al, [] and Sheikhi et al []. Since a membrane with normal thickness is not expected to be observed on radiographs, all samples with visible membrane were listed as the ones with pathological mucosal thickening. In a systematic review, Ata-Ali et al. [] reported the prevalence of thickening to be 35.1% to 66%. The difference in the reported prevalence rates among various studies can be attributed to dissimilar definitions for thickening, various inclusion criteria, differences in measurement methods, various diagnostic criteria for mucosal thickening, as well as the effects of seasonal changes on mucosal thickening [,]. Furthermore, in a study by Shiki et al, [] the prevalence of sinus mucosal thickening was significantly higher in patients requiring dental implants compared with the non-implant control group. The authors related this to the fact that most patients requiring implant restorations have lost their teeth due to inflammatory lesions like pulpal and periapical or periodontal diseases, which can trigger membrane thickening []. This could also account for the higher prevalence of mucosal thickening in the present study compared with some other investigations. Parallel with previous studies [,], the flat (53.73%) and polypoid (12.06%) shapes were two prevalent morphologies of mucosal thickening in this study.
+
+Pathological thickening of sinus membrane at the second premolar, first molar, and second molar sites was significantly more prevalent in male patients. In a study by Schneider et al, [] males had significantly thicker membranes only in molar areas; while sex did not significantly affect the prevalence of mucosal thickening at the site of premolars or in edentulous spaces. Some others also reported greater prevalence of mucosal thickening in males []. Vallo et al. [] ascribed this to higher prevalence of pathological dental findings in males.
+
+As a limitation, the patients’ dental or medical history was not evaluated in the present study. However, greater mucosal thickening among males could be explained by the evidence that not only does smoking affect membrane thickness [], but also Iranian male smokers outnumber females []. Nevertheless, Dobele et al. [] stated that there was no relationship between the sinus findings and gender; this can be a result of small sample size in their study (16 females and 18 males).
+
+The mean age of patients was 53±12.5 years in this study, and it had no significant relationship with the thickening of the sinus membrane. Some other studies reported the same results [,], but Phothikhun et al. [] reported that mucosal thickening was more prevalent in older patients (> 49 years) which might be due to increased sinus exposure to inflammatory injuries over time.
+
+Tooth-related lesions (i.e. pulp and periapical [] or periodontal inflammatory lesions [,]) can cause sinus mucosal thickening. A significant relationship between mucosal thickening and periapical lesions around the adjacent teeth was found on CBCT and panoramic radiographs [,]; however, such a relationship was not observed in the current study, as was reported by Rege et al, [] Phothikhun et al, [] and Janner et al []. In the present study, the ostium area was not depicted on 20.4% of the scans, as the CBCT scans mainly focused on measuring the dimensions of the alveolar ridge. The ostium was closed in 7.1% and they all had signs of thickening of the sinus membrane. Dobele et al, [] also reported a strong correlation between the radiographic symptoms of blocked sinus ostium and visible Schneiderian membrane thickening.
+
+In this study, 33% of the sinuses with a membrane thicker than 10 mm had closed ostium. Therefore, as suggested in the literature, cases with mucosal thickening >10 mm were referred to an otorhinolaryngologist for a detailed examination of the sinus condition and therapeutic procedures prior to implant therapy, if necessary. Furthermore, 20.6% of the cases with polypoid type mucosal thickening had closed OMC, while this rate was 8.5% for the flat type. A higher prevalence of ostium obstruction in polypoid thickening was also reported by Shanbhag et al [].
+
+In the posterior maxilla, the alveolar bone apical to the sinus cavity resorbs as a consequence of bone loss induced by peri-odontal disease, bone resorption following tooth extraction, or sinus pneumatization. Assessment of RRH prior to implant treatment determines the need and method for sinus floor elevation. In the present study, a negative correlation was found between the RRH and the prevalence of sinus membrane thickening at the second premolar and first molar regions. In other words, with lower RRH, the thickness of the sinus membrane was more likely to be pathological. In several CBCT studies [,], severe periodontal bone loss (>50%) was significantly associated with thickening of the sinus membrane. To explain this relationship, it has been stated that bacterial pathogens and their products, along with cytokines released in the area with severe periodontitis, may reach the sinus mucosa through porous bone or vessels, leading to membrane inflammation and thickening []. Conversely, some studies found no significant relationship between RRH and membrane thickness [,].
+
+In patients with a residual ridge height ≤4 mm in the posterior maxilla, sinus lift surgery is indicated prior to or simultaneous with dental implant placement. Although sinus augmentation is a predictable procedure with a high success rate [], intra- and postoperative complications are common. Sinus membrane perforation is the most common intra-operative complication [] which may affect the implant survival rate [,]. Many risk factors are associated with the occurrence of sinus membrane perforation. The Schneiderian membrane thinner than 0.8 mm and thicker than 3 mm has been documented to be more susceptible to perforation []. Thick membranes are more prone to rupture because they do not have high resistance under elastic forces, and at the same time higher forces are needed to lift them [].
+
+Reduced RRH has also been associated with higher frequency of membrane perforation []. Yilmaz et al. [] found that sinus membrane perforation occurred more frequently in ridges with <3.5 mm residual height. They attributed this to the fact that with reduced RRH, the clinician usually encounters a larger sinus and should elevate a larger area of the membrane. As previously discussed, reduced RRH may also be accompanied by membrane thickening. These two factors may lead to more complicated situations to be dealt with. The main limitation of this study was its retrospective design. The data were simply extracted from the patient records and we did not have access to the patients. To relatively overcome this limitation, in near 70% of the participants, inclusion of both sinuses eliminated the possible effects of personal factors, such as smoking or allergic reactions on the results. Instead, the probable influence of local factors, i.e., the periodontal or periapical disease, and the relationship with the ridge height could be more precisely evaluated.
+
+Table 2
+
+P-values of multiple linear regression analysis for assessing the relationship between mucosal thickening and the evaluated parameters
+
+Mucosal thickening
+
+Male sex
+
+Age
+
+Periapical lesion
+
+Closed OMC
+
+RRH
+
+First premolar
+
+0.67
+
+0.99
+
+0.24
+
+0.58
+
+0.89
+
+Second premolar
+
+0.01
+
+0.15
+
+0.37
+
+0.01
+
+0.04
+
+First Molar
+
+<0.001
+
+0.52
+
+0.37
+
+<0.001
+
+0.01
+
+Second Molar
+
+<0.001
+
+0.51
+
+0.47
+
+<0.001
+
+0.14
+
+RRH: residual ridge height; OMC: ostiomeatal complex
+
+*
+
+Statistically significant
+
+CONCLUSION
+
+This study showed that the maxillary sinus membrane thickening is frequently encountered on CBCT scans taken prior to augmentation and implant placement, and it mostly has a flat appearance. Reduced RRH may be associated with a thicker sinus membrane. Ostium patency must be evaluated in every patient to prevent the consequences of augmentation/implant surgery in a sinus with impaired drainage.
