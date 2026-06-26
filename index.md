@@ -539,6 +539,11 @@ tags: []
 - [[sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct]] — 후향 CBCT (n=72 상악동): 측방 SFE 후 1주 상악동공(MSO) 폐쇄 19.4%로 일시 증가, 9개월 완전 회복·부비동염 0 (DOI 10.1186/s40729-020-00233-7)
 - [[sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma]] — SR+MA (27편): 술후 부비동염 SFE 1.11% vs 협골임플란트 3.76%; 기법별 격차 큼(협골 막하 21.6% vs 막외 0%; 측방창 1.35%) (DOI 10.1007/s10006-023-01159-1)
 - [[sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk]] — 증례(n=1): 비중격만곡·할러세포·알레르기비염 고위험자에서 국소 스테로이드+LTRA+항생제로 SFE 후 상악동염 비침습 예방(7개월+ 무증상) (DOI 10.1155/2020/6869805)
+- [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — 골돌출형 임플란트(5 mm)로 인한 상악동 자연공 폐쇄성 상악동염에서 FESS + 구내접근법 병용으로 10개월 CT 완전 회복 (증례보고, 2014, J Korean Assoc OMS)
+- [[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]] — Narrative review (ENT 시각): 상악동 자연공 평가·술전 CBCT 프로토콜·FESS 적응증까지 — 상악동 임플란트 합병증 통합 관리 지침 (2019, J Periodontal Implant Sci, 가톨릭대 서울성모)
+- [[sinus-lift/lateral/lee-2020-msmt-mod-ratio-sinus-augmentation-risk]] — Retrospective (n=120, 11y, 가톨릭대): MSMT/MOD 비율이 3군 간 유의차(p<0.001); MOD 단독은 NS; OMC 폐쇄 독립 위험인자 → 비율+OMC 이중 평가 필수 (2020)
+- [[sinus-lift/lateral/kim-2023-sinus-mucosal-thickness-change-otolaryngologists]] — Retrospective (n=9, 가톨릭대): ENT 협진 후 술전 MSMT 평균 4.3mm → 술후 4.5mm(NS), 상악동염 0% — MSMT/MOD 비율 안정적 유지 확인 (2023)
+- [[sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor]] — 만성 상악동염 2명에서 FESS 없이 구강내 적극적 배액 + 동시 MSFA 시행 → 1년 추적 임플란트 100% 생존·상악동염 소실 (증례보고, 2024, 경희대)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
