@@ -1,0 +1,58 @@
+Maxillary Antrolith: A Rare Cause of Recurrent Sinusitis
+
+Authors: Shenoy VS et al.
+Journal: Case Reports in Otolaryngology (2013)
+DOI: 10.1155/2013/527152
+PMCID: PMC3580910
+
+Summary:
+Case report of a 47-year-old woman with an antrolith causing recurrent sinusitis and oroantral fistula. Complicating history: prior Caldwell-Luc surgery (1984) for polypoid disease.
+
+Presentation:
+- Heaviness left side of face x2 months
+- Loosening of upper left 2nd molar (oroantral fistula sign)
+- Foul-smelling purulent nasal discharge from left nostril x1 week
+- CT: opacification bilateral maxillary sinus + amorphous bone-density area in left sinus (initially thought osteoma vs malignancy)
+- Diagnostic nasal endoscopy: thick purulent discharge in middle meatus
+
+Management:
+- Wide antrostomy → brownish, hard, gritty mass, freely mobile (no wall attachment) surrounded by pus and polypoid mucosa
+- Too large for endoscopic removal → repeat Caldwell-Luc procedure
+- Calculi (2×1 cm) removed and sent for histopathology
+- Culture: Pseudomonas spp. resistant to ampicillin
+- Histopathology: diagnosis of exclusion (osteoma, malignancy, rhinoscleroma, fungal concretions all excluded by decalcification + PAS staining)
+- Conclusion: freely lying calcareous mass = sinolith/antrolith
+
+Pathogenesis:
+- Predisposing factors: long-standing infection, poor sinus drainage, foreign body
+- In this case: bony chips from prior Caldwell-Luc surgery served as endogenous nidus
+- Purulent fluid becomes concentrated → calcium phosphate + calcium carbonate precipitate → encrustation of foreign body
+
+Background:
+- Term "rhinolith" coined in 1845 for partially/completely encrusted foreign body in nose
+- Only ~30 cases reported in literature up to 2005
+- Most commonly involves maxillary sinus, then frontal sinus
+- Rhinoliths almost always unilateral
+
+Classification by nidus:
+- Endogenous: tooth/bony fragments, blood, pus, mucus, fungi
+- Exogenous: cotton, paper, snuff, dental burs, dental implants, GP points, silver points, bullets, glass, wood, grass
+
+Radiographic features:
+- Dense, irregular, well-defined mass in antrum
+- Visible on panoramic, periapical, Waters' radiograph, CT
+- Also seen in fungal ball (mycetoma) sinuses
+
+Differential diagnosis:
+- Supernumerary tooth, root fragment, osteoma
+- Complex odontoma, cementoma, periapical condensing osteitis
+- Buccal exostosis, palatine torus, impacted tooth, foreign bodies, neoplasms
+
+Treatment:
+- ESS with or without Caldwell-Luc
+- Caldwell-Luc provides better exposure, ventilation, drainage for large antroliths
+- Appropriate treatment of sinus infection concurrent
+
+Key lesson:
+- Prior Caldwell-Luc surgery → residual bony chips → nidus for antrolith formation
+- Recommendation: thorough sinus cavity irrigation during ESS to prevent future antrolith around endogenous nidus
