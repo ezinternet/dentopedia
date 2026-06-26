@@ -1,0 +1,37 @@
+Source: PubMed Central PMC12788411 | PMID 41523004 | DOI 10.4103/jpbs.jpbs_1368_25
+Title: Comparative Study of Crestal Bone Loss Around Implants Placed Using Flapless Versus Flapped Technique
+Authors: Ambrapali Surendra, Brijesh Byrappa, Debeshwari Ningombam, R Shrunga, Krishan Yadav, Charudutt Patil
+Journal: Journal of Pharmacy & Bioallied Sciences, 2025
+
+ABSTRACT
+Background: Crestal bone loss is a critical determinant of long-term implant success. The choice of surgical technique—flapless versus flapped—may influence peri-implant bone preservation.
+Objective: To compare the crestal bone loss around dental implants placed using the flapless technique versus the conventional flapped technique over a 6-month follow-up period.
+Methods: A prospective, randomized clinical trial was conducted involving 40 systemically healthy patients requiring single-tooth implants in the posterior mandible. Participants were randomly assigned to two groups: Group A (flapless technique, n=20) and Group B (flapped technique, n=20). Standardized periapical radiographs were taken at baseline, 3 months, and 6 months to assess marginal bone loss. Crestal bone levels were measured mesially and distally using calibrated digital software. The primary outcome was mean crestal bone loss. Data were analyzed using paired and unpaired t-tests.
+Results: At 6 months, the mean crestal bone loss in Group A was 0.48 ± 0.16 mm, while Group B showed 0.82 ± 0.21 mm. The difference between groups was statistically significant (p<0.001). Intragroup analysis revealed significant bone loss from baseline to 6 months in both groups (p<0.05), but bone preservation was significantly better in the flapless group.
+Conclusion: The flapless implant placement technique demonstrated significantly reduced crestal bone loss compared to the flapped approach. Minimally invasive protocols may contribute to better preservation of peri-implant tissues in suitable clinical scenarios.
+
+INTRODUCTION
+Dental implants have become the gold standard for the replacement of missing teeth. One of the major parameters influencing long-term success is maintenance of crestal bone around the implant fixture. Marginal bone loss, particularly in the early healing phase, can be affected by surgical technique, implant design, loading protocols, and peri-implant soft tissue management. Traditionally, implant placement has involved reflection of a full-thickness mucoperiosteal flap to allow direct visualization of underlying bone. However, this may compromise blood supply to the cortical bone, particularly the crestal area, potentially leading to increased marginal bone resorption. In contrast, flapless implant surgery, performed by means of a tissue punch or direct drilling through the mucosa, aims to minimize surgical trauma, preserve the periosteum, and enhance early soft tissue healing. Limited evidence exists on its effect on crestal bone preservation compared to conventional flapped techniques, particularly in early healing phases.
+
+METHODS
+Prospective randomized clinical trial at Department of Periodontology and Implantology, 40 patients aged 25-55 requiring single posterior mandibular tooth replacement.
+Inclusion: Healthy, no systemic disease affecting bone metabolism; adequate bone volume on CBCT (min 6 mm width, 10 mm height); good oral hygiene (plaque index <20%); non-smokers or light smokers (<10 cig/day).
+Exclusion: Uncontrolled systemic conditions (e.g., diabetes); history of radiotherapy/chemotherapy; poor oral hygiene/active periodontal disease; need for simultaneous bone augmentation.
+Randomization: computer-generated sequence, n=20 each. Group A (flapless): implant placement using soft tissue punch. Group B (flapped): implant with full-thickness mucoperiosteal flap.
+Surgical protocol: single experienced surgeon, local anesthesia. Group A: circular soft tissue punch to expose bone, osteotomy, implant placement. Group B: mid-crestal incision and mucoperiosteal flap. Both groups: same diameter (4.0 mm) and length (10 mm) implants. Healing abutments placed immediately; sutures only in Group B. Recalls at 7 days, 3 months, 6 months.
+Radiographic evaluation: standardized periapical radiographs at baseline, 3 months, 6 months with customized film holder. Digital measurement from implant-abutment junction to first bone-to-implant contact mesially and distally.
+Statistics: SPSS v26, paired/unpaired t-tests, p<0.05 significant.
+
+RESULTS
+All 40 patients completed 6-month follow-up without complications. Implant survival 100% in both groups.
+Crestal bone loss (mm):
+- 3 months: Group A (flapless) 0.32±0.10 vs Group B (flapped) 0.56±0.14, p<0.001
+- 6 months: Group A 0.48±0.16 vs Group B 0.82±0.21, p<0.001
+Intragroup: significant bone loss from 3 to 6 months in both groups (Group A p=0.012, Group B p=0.005).
+
+DISCUSSION
+Flapless approach resulted in significantly lower crestal bone loss than conventional flapped technique at both 3 and 6 months, supporting the hypothesis that preservation of periosteal blood supply and minimal trauma contribute to improved bone stability. Similar findings reported by Jeong et al. (reduced marginal bone loss with flapless in 12-month study) and Lin et al. systematic review (less postoperative discomfort, shorter healing, comparable success). Flap elevation likely compromised vascular supply, contributing to resorptive bone remodeling. Flapless is technique-sensitive and contraindicated where bone augmentation needed or anatomical landmarks unclear; inadequate visualization may increase malpositioning risk.
+Limitations: short follow-up (6 months); 2D imaging precision limits; CBCT volumetric analysis recommended for future.
+
+CONCLUSION
+Within limitations, flapless implant placement offers a significant advantage in preserving crestal bone vs traditional flapped approach. In carefully selected cases, minimally invasive surgery may enhance peri-implant tissue outcomes.
