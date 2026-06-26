@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>치과 방사선 조사량 비교 | Dental Radiation Dose Comparison</title>
+<!--
+  OPERATIONS output
+  Source wiki: wiki/overviews/dental-imaging-effective-dose-background-equivalent-overview.md
+  Agenda:      agenda/2026-06-26_dental-radiation-dose-interactive.md
+  Generated:   2026-06-26
+  ──────────────────────────────────────────────────
+  Data provenance:
+  [CORPUS] Lee & Badal 2021 (dentaldose.org) — intraoral 1.32, panoramic 17.93, CBCT 121.09 µSv; natural background 3,110 µSv/yr
+  [CORPUS] Benchimol 2018 — panoramic 17.6 µSv
+  [CORPUS] Lee 2019 (paediatric pano MC) — child panoramic 3.47–3.85 µSv
+  [CORPUS] Stervik 2024 — lateral ceph derived (pano ÷ 6 ≈ 3 µSv)
+  [CORPUS] Yeh 2018 — CBCT small FOV ~31 µSv
+  [CORPUS] Fontenele 2025 — CBCT range 3–500 µSv
+  [EXT REF] Chest PA X-ray ~50 µSv — NRPB/IAEA standard reference
+  [EXT REF] Portable/handheld PA ~2.0 µSv — Ludlow & Ivanovic 2008 / NCRP Report No.145 (not in corpus)
+  [EXT REF] Seoul–LA flight ~70 µSv — IAEA RPOP / Cosmic radiation dose calculator (11 h transpacific, ~6.3 µSv/hr)
+-->
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: #f8fafc;
+    color: #0f172a;
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    font-size: 13px;
+    padding: 22px 26px;
+    max-width: 900px;
+    margin: 0 auto;
+  }
+
+  header { margin-bottom: 16px; }
+  header h1 { font-size: 17px; font-weight: 700; margin-bottom: 3px; color: #0f172a; }
+  header p  { font-size: 11px; color: #64748b; }
+  .tags { margin-top: 6px; display: flex; flex-wrap: wrap; gap: 4px; }
+  .tag {
+    display: inline-block; padding: 2px 8px;
+    border-radius: 4px; background: #f1f5f9; border: 1px solid #e2e8f0;
+    font-size: 10px; color: #64748b;
+  }
+
+  /* Unit toggle */
+  .unit-toggle { display: flex; gap: 4px; margin-bottom: 14px; flex-wrap: wrap; }
+  .unit-btn {
+    padding: 6px 12px; border-radius: 6px;
+    border: 1.5px solid #e2e8f0; background: #fff;
+    color: #64748b; cursor: pointer; font-size: 11px;
+    transition: all 0.15s; font-family: inherit;
+  }
+  .unit-btn:hover { border-color: #4f80ff; color: #4f80ff; }
+  .unit-btn.active { background: #4f80ff; border-color: #4f80ff; color: #fff; }
+
+  /* Legend */
+  .legend { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px; }
+  .legend-item { display: flex; align-items: center; gap: 4px; font-size: 10px; color: #64748b; }
+  .legend-dot { width: 10px; height: 10px; border-radius: 2px; flex-shrink: 0; }
+
+  /* Callout */
+  .callout {
+    background: #eff6ff; border: 1px solid #bfdbfe;
+    border-left: 3px solid #3b82f6; border-radius: 6px;
+    padding: 9px 12px; font-size: 11px; color: #374151;
+    margin-bottom: 14px; line-height: 1.6;
+  }
+  .callout strong { color: #1e40af; }
+
+  /* Chart area */
+  .chart-area {
+    background: #fff; border: 1px solid #e2e8f0;
+    border-radius: 12px; padding: 18px 16px 10px; margin-bottom: 12px;
+  }
+
+  .section-label {
+    font-size: 9.5px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.06em; color: #94a3b8;
+    margin: 10px 0 4px 0; padding-left: 168px;
+  }
+  .section-label:first-child { margin-top: 0; }
+
+  .divider {
+    height: 1px; background: #f1f5f9;
+    margin: 4px 0 4px 168px;
+  }
+
+  /* Bar rows */
+  .bar-row {
+    display: flex; align-items: center;
+    margin-bottom: 5px; cursor: pointer;
+    border-radius: 7px; padding: 5px 6px;
+    transition: background 0.12s; position: relative;
+  }
+  .bar-row:hover { background: #f8fafc; }
+  .bar-row.selected { background: #eff6ff; outline: 1.5px solid #4f80ff; }
+  .bar-row.is-ref-row { opacity: 0.8; }
+
+  .bar-label {
+    width: 160px; min-width: 160px;
+    font-size: 11px; line-height: 1.35; color: #0f172a; padding-right: 8px;
+  }
+  .bar-label .en { font-size: 9.5px; color: #94a3b8; display: block; }
+  .ext-badge {
+    display: inline-block; font-size: 8px; padding: 1px 4px;
+    border-radius: 3px; background: #fef3c7; color: #92400e;
+    border: 1px solid #fde68a; margin-left: 3px; vertical-align: middle;
+    font-weight: 600;
+  }
+
+  .bar-track {
+    flex: 1; background: #f1f5f9; border-radius: 4px;
+    height: 22px; position: relative; overflow: visible;
+  }
+  .bar-fill {
+    height: 100%; border-radius: 4px;
+    transition: width 0.45s cubic-bezier(0.4,0,0.2,1);
+    position: relative; overflow: hidden;
+  }
+  .range-stripe {
+    position: absolute; top: 0; bottom: 0;
+    background: rgba(255,255,255,0.25); pointer-events: none;
+  }
+
+  .bar-value {
+    width: 76px; min-width: 76px; text-align: right;
+    font-size: 11px; font-variant-numeric: tabular-nums;
+    color: #0f172a; padding-left: 8px; font-weight: 600;
+  }
+
+  /* Chest reference line */
+  .chest-line {
+    position: absolute; top: -5px; bottom: -5px;
+    width: 1.5px; background: #94a3b8; opacity: 0.7;
+    pointer-events: none; z-index: 5;
+  }
+  .chest-line-label {
+    position: absolute; top: -17px;
+    font-size: 9px; color: #64748b; white-space: nowrap;
+    transform: translateX(-50%); pointer-events: none; font-weight: 600;
+  }
+
+  /* X-axis */
+  .x-axis {
+    display: flex; margin-left: 168px;
+    margin-top: 2px; margin-bottom: 0;
+    position: relative; height: 14px;
+  }
+  .x-tick {
+    position: absolute; font-size: 9px;
+    color: #94a3b8; transform: translateX(-50%);
+  }
+
+  /* Detail card */
+  .detail-card {
+    background: #fff; border: 1px solid #e2e8f0; border-radius: 10px;
+    padding: 14px 16px; font-size: 11px; line-height: 1.6;
+    display: none; margin-bottom: 12px;
+  }
+  .detail-card.visible { display: block; }
+  .detail-card h3 { font-size: 12.5px; font-weight: 600; margin-bottom: 8px; color: #0f172a; }
+  .detail-grid { display: grid; grid-template-columns: auto 1fr; gap: 3px 12px; }
+  .detail-grid .key { color: #64748b; white-space: nowrap; }
+  .detail-grid .val { color: #0f172a; font-weight: 500; }
+  .source-tag {
+    display: inline-block; margin-top: 8px; padding: 3px 7px;
+    background: #f8fafc; border: 1px solid #e2e8f0;
+    border-radius: 5px; font-size: 10px; color: #64748b;
+  }
+  .ext-warn {
+    display: inline-block; margin-top: 6px; margin-left: 4px;
+    padding: 2px 6px; background: #fef3c7; border: 1px solid #fde68a;
+    border-radius: 4px; font-size: 10px; color: #92400e;
+  }
+
+  /* Footnote */
+  .footnote {
+    font-size: 10px; color: #64748b; line-height: 1.6;
+    padding-top: 10px; border-top: 1px solid #e2e8f0;
+  }
+  .footnote strong { color: #374151; }
+</style>
+</head>
+<body>
+
+<h2 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">
+  치과 방사선 기기별 유효선량 vs 흉부 X선 · 비행 · 연간 자연방사선 비교 인터랙티브 차트
+</h2>
+
+<header>
+  <h1>🦷 치과 방사선 조사량 비교</h1>
+  <p>Dental Radiographic Effective Doses — 막대 클릭 → 상세 출처 | Log scale</p>
+  <div class="tags">
+    <span class="tag">출처: wiki/overviews/dental-imaging-effective-dose-background-equivalent-overview</span>
+    <span class="tag">2026-06-26</span>
+  </div>
+</header>
+
+<div class="callout">
+  <strong>회색 수직선</strong> = 흉부 PA X선 기준선 (~50 µSv). <strong>연간 자연방사선</strong> 3,110 µSv와 비교하면 파노라마는 연간 배경의 <strong>0.58%</strong>, CBCT 평균은 <strong>3.9%</strong>. 서울→LA 비행은 흉부 X선의 <strong>약 1.4배</strong>. ★ = wiki corpus 외부 참조값.
+</div>
+
+<div class="unit-toggle">
+  <button class="unit-btn active" onclick="setUnit('usv')">µSv (유효선량)</button>
+  <button class="unit-btn" onclick="setUnit('days')">자연방사선 환산일수</button>
+  <button class="unit-btn" onclick="setUnit('chest')">흉부 X선 배수</button>
+</div>
+
+<div class="legend">
+  <div class="legend-item"><div class="legend-dot" style="background:#4f80ff"></div>구내촬영 (Intraoral)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#22c55e"></div>파노라마 (Panoramic)</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#f59e0b"></div>CBCT</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#ef4444"></div>CBCT 소아 대형 FOV</div>
+  <div class="legend-item"><div class="legend-dot" style="background:#94a3b8"></div>흉부 X선 · 비행 · 배경 (참조)</div>
+</div>
+
+<div class="chart-area" id="chartArea">
+  <div id="barsContainer"></div>
+  <div class="x-axis" id="xAxis"></div>
+</div>
+
+<div class="detail-card" id="detailCard">
+  <h3 id="detailTitle">—</h3>
+  <div class="detail-grid" id="detailGrid"></div>
+  <div>
+    <span class="source-tag" id="detailSource"></span>
+    <span class="ext-warn" id="detailExtWarn" style="display:none">★ corpus 외부 참조값</span>
+  </div>
+</div>
+
+<div class="footnote">
+  <strong>[CORPUS] 출처</strong>: Lee &amp; Badal 2021 (dentaldose.org; 구내 1.32, 파노라마 17.93, CBCT 121.09 µSv; 연간 자연방사선 3,110 µSv) · Lee 2019 (소아 파노라마 3.47–3.85 µSv) · Benchimol 2018 (파노라마 17.6 µSv) · Stervik 2024 (측방두부 간접환산) · Yeh 2018 (CBCT 소형 FOV ~31 µSv)<br>
+  <strong>★ [EXT REF] corpus 외 참조값</strong>: 흉부 PA X선 ~50 µSv (NRPB/IAEA) · 포터블 PA ~2.0 µSv (Ludlow &amp; Ivanovic 2008, NCRP No.145) · 서울→LA 비행 ~70 µSv (IAEA RPOP; 11시간 × ~6.3 µSv/hr, 편도 추정) · 현대 디지털 흉부 X선 14–20 µSv로 낮아지는 추세<br>
+  <strong>주의</strong>: CBCT는 기기·FOV에 따라 최대 100배 이상 차이남. 평균값 단독 해석 금지.
+</div>
+
+<script>
+const BACKGROUND_DAY = 8.52;   // µSv/day (3110 / 365), Lee 2021
+const CHEST_USEV = 50;
+
+const SECTIONS = [
+  {
+    label: '구내촬영 (Intraoral)',
+    rows: ['pa', 'pa_portable']
+  },
+  {
+    label: '파노라마 / 측방두부 (Panoramic / Ceph)',
+    rows: ['ceph', 'pano_child', 'pano_adult']
+  },
+  {
+    label: 'CBCT',
+    rows: ['cbct_small', 'cbct_mean', 'cbct_child']
+  },
+  {
+    label: '비교 기준 (Reference)',
+    rows: ['chest', 'flight', 'annual_bg']
+  }
+];
+
+const DATA = {
+  pa: {
+    id: 'pa', label: '구내 치근단 (PA)', en: 'Intraoral Periapical — Standard',
+    mean: 1.32, range: [0.60, 2.56], color: '#4f80ff',
+    source: 'Lee & Badal 2021 (dentaldose.org)', ext: false,
+    note: '디지털 구내 치근단 1장 기준. 전악 치근단(FMX ≈14장)이면 ×14 → ~18.5 µSv.',
+    wiki: 'wiki/radiology/lee-2021-dental-imaging-doses-web-dose-calculator', isRef: false
+  },
+  pa_portable: {
+    id: 'pa_portable', label: '포터블 PA (Handheld)', en: 'Portable / Handheld Intraoral PA ★',
+    mean: 2.0, range: [1.4, 3.0], color: '#4f80ff',
+    source: 'Ludlow & Ivanovic 2008 / NCRP No.145 (corpus 외)', ext: true,
+    note: '휴대용(NOMAD Pro 등) 기기. 환자 선량은 표준 구내 촬영과 유사 (~1.4–3.0 µSv). 운영자(술자) 선량은 Makdissi 2016 참조 (corpus).',
+    wiki: '— (corpus 외; 환자선량 수치 미수록)', isRef: false
+  },
+  ceph: {
+    id: 'ceph', label: '측방두부계측 (Ceph)', en: 'Lateral Cephalogram',
+    mean: 3.0, range: [2.9, 3.1], color: '#22c55e',
+    source: 'Stervik 2024 (파노라마 ÷ 6 간접환산)', ext: false,
+    note: '직접 µSv 측정값 corpus 미수록. 파노라마의 약 1/6로 환산. 교정 계획 필수.',
+    wiki: 'wiki/radiology/stervik-2024-radiation-exposure-during-orthodontic-treatment', isRef: false
+  },
+  pano_child: {
+    id: 'pano_child', label: '파노라마 소아', en: 'Panoramic — Child',
+    mean: 3.66, range: [3.47, 3.85], color: '#22c55e',
+    source: 'Lee 2019 (Monte Carlo + TLD, 소아 팬텀)', ext: false,
+    note: '성인 파노라마의 약 1/5. 성인용 DRL 직접 적용 불가. 정당화 더 엄격히.',
+    wiki: 'wiki/radiology/lee-2019-monte-carlo-paediatric-panoramic-dose-reduction', isRef: false
+  },
+  pano_adult: {
+    id: 'pano_adult', label: '파노라마 성인', en: 'Panoramic — Adult',
+    mean: 17.93, range: [3.47, 75.00], color: '#22c55e',
+    source: 'Lee & Badal 2021 / Benchimol 2018 (17.6 µSv)',ext: false,
+    note: '기기·FOV 편차 큼 (3–75 µSv). 평균 ≈ 자연방사선 2.1일 = 흉부 X선의 0.36배.',
+    wiki: 'wiki/radiology/benchimol-2018-collimation-panoramic-effective-dose-reduction', isRef: false
+  },
+  cbct_small: {
+    id: 'cbct_small', label: 'CBCT 소형 FOV', en: 'CBCT — Small FOV (~31 µSv)',
+    mean: 31, range: [17, 50], color: '#f59e0b',
+    source: 'Yeh 2018 (i-CAT 16×13cm, Monte Carlo + BEIR-VII)', ext: false,
+    note: '소형 FOV ≈ 자연방사선 3.6일. 파노라마 1.7배. 소아 10세 여아 REID 22.6×10⁻⁵.',
+    wiki: 'wiki/radiology/yeh-2018-estimated-radiation-risk-cancer-dental', isRef: false
+  },
+  cbct_mean: {
+    id: 'cbct_mean', label: 'CBCT 문헌 평균', en: 'CBCT — Literature Mean (all FOV)',
+    mean: 121.09, range: [17.10, 392.20], color: '#f59e0b',
+    source: 'Lee & Badal 2021 (전체 FOV 문헌 평균)', ext: false,
+    note: '평균 121 µSv ≈ 자연방사선 14일 = 흉부 X선 2.4배. FOV 제한이 핵심 선량 레버.',
+    wiki: 'wiki/overviews/dental-imaging-effective-dose-background-equivalent-overview', isRef: false
+  },
+  cbct_child: {
+    id: 'cbct_child', label: 'CBCT 소아 대형 FOV (최대)', en: 'CBCT — Child, Large FOV (max value)',
+    mean: 392.2, range: [100, 392.2], color: '#ef4444',
+    source: 'Lee & Badal 2021 (소아 대형 FOV 최대값)', ext: false,
+    note: '392 µSv ≈ 연간 자연방사선 12.6% = 46일. Lee 2021 본문: "≈ 13% of annual background" (검증 일치).',
+    wiki: 'wiki/overviews/dental-imaging-effective-dose-background-equivalent-overview', isRef: false
+  },
+  chest: {
+    id: 'chest', label: '흉부 PA X선 ★', en: 'Chest PA X-ray (external reference)',
+    mean: 50, range: [14, 100], color: '#94a3b8',
+    source: 'NRPB/IAEA 표준 참조값 (corpus 외)', ext: true,
+    note: '비교 맥락용 외부값. 현대 디지털 장비는 14–20 µSv로 낮아지는 추세.',
+    wiki: '— (corpus 외 참조)', isRef: true
+  },
+  flight: {
+    id: 'flight', label: '서울→LA 비행 편도 ★', en: 'Seoul (ICN) → Los Angeles (LAX) one-way',
+    mean: 70, range: [56, 85], color: '#94a3b8',
+    source: 'IAEA RPOP 우주방사선 계산기 (corpus 외)', ext: true,
+    note: '편도 약 11시간, 순항고도 ~6.3 µSv/hr. 왕복이면 ~140 µSv ≈ 흉부 X선 2.8장. 태양활동·항로에 따라 변동.',
+    wiki: '— (corpus 외; 비교 맥락용)', isRef: true
+  },
+  annual_bg: {
+    id: 'annual_bg', label: '연간 자연방사선', en: 'Annual Natural Background',
+    mean: 3110, range: [2000, 4000], color: '#64748b',
+    source: 'Lee & Badal 2021 (dentaldose.org; 배경값)', ext: false,
+    note: '우리가 매년 자연에서 받는 방사선량. 모든 치과 촬영 선량의 분모. 지역·고도에 따라 2,000–4,000 µSv/yr.',
+    wiki: 'wiki/radiology/lee-2021-dental-imaging-doses-web-dose-calculator', isRef: true
+  },
+};
+
+// Ordered list
+const ORDERED = [
+  'pa','pa_portable',
+  'ceph','pano_child','pano_adult',
+  'cbct_small','cbct_mean','cbct_child',
+  'chest','flight','annual_bg'
+];
+
+let currentUnit = 'usv';
+let selectedId = null;
+
+function getValue(m) {
+  const mean = typeof m === 'number' ? m : m.mean;
+  if (currentUnit === 'usv') return mean;
+  if (currentUnit === 'days') return mean / BACKGROUND_DAY;
+  return mean / CHEST_USEV;
+}
+
+function formatValue(m) {
+  const v = getValue(m);
+  if (currentUnit === 'usv') return v >= 100 ? v.toFixed(0) + ' µSv' : v >= 10 ? v.toFixed(1) + ' µSv' : v.toFixed(2) + ' µSv';
+  if (currentUnit === 'days') return v < 0.1 ? (v * 24).toFixed(1) + ' h' : v < 1 ? (v * 24).toFixed(0) + ' h' : v >= 100 ? v.toFixed(0) + ' 일' : v.toFixed(1) + ' 일';
+  return v >= 10 ? v.toFixed(0) + ' ×' : v.toFixed(2) + ' ×';
+}
+
+function setUnit(u) {
+  currentUnit = u;
+  document.querySelectorAll('.unit-btn').forEach((b, i) => {
+    b.classList.toggle('active', ['usv','days','chest'][i] === u);
+  });
+  render();
+}
+
+function logPct(val, minVal, maxVal) {
+  const lmin = Math.log10(Math.max(minVal, 1e-9));
+  const lmax = Math.log10(maxVal);
+  return Math.max(0, Math.min(100, (Math.log10(Math.max(val, minVal)) - lmin) / (lmax - lmin) * 100));
+}
+
+function render() {
+  const container = document.getElementById('barsContainer');
+  const xAxis = document.getElementById('xAxis');
+  container.innerHTML = '';
+  xAxis.innerHTML = '';
+
+  const allVals = ORDERED.map(id => getValue(DATA[id]));
+  const maxVal = Math.max(...allVals) * 1.08;
+  const minVal = 0.1;
+
+  const LP = usv => logPct(getValue({mean: usv}), minVal, maxVal);
+  const chestPct = LP(CHEST_USEV);
+  let firstTrackEl = null;
+
+  // Render by section
+  let prevSection = null;
+  ORDERED.forEach((id, idx) => {
+    const m = DATA[id];
+    // Section label
+    const sec = SECTIONS.find(s => s.rows.includes(id));
+    if (sec && sec !== prevSection) {
+      if (prevSection !== null) {
+        const div = document.createElement('div');
+        div.className = 'divider';
+        container.appendChild(div);
+      }
+      const lbl = document.createElement('div');
+      lbl.className = 'section-label';
+      lbl.textContent = sec.label;
+      container.appendChild(lbl);
+      prevSection = sec;
+    }
+
+    const pct = logPct(getValue(m), minVal, maxVal);
+    const rLow = logPct(getValue({mean: m.range[0]}), minVal, maxVal);
+    const rHigh = logPct(getValue({mean: m.range[1]}), minVal, maxVal);
+    const strLeft  = pct > 0 ? (rLow  / pct * 100).toFixed(1) + '%' : '0%';
+    const strWidth = pct > 0 ? ((rHigh - rLow) / pct * 100).toFixed(1) + '%' : '0%';
+
+    const row = document.createElement('div');
+    row.className = 'bar-row' + (m.isRef ? ' is-ref-row' : '') + (selectedId === m.id ? ' selected' : '');
+    row.setAttribute('role', 'button');
+    row.setAttribute('tabindex', '0');
+    row.setAttribute('aria-label', m.label + ' ' + formatValue(m));
+    row.onclick = () => selectRow(m.id);
+    row.onkeydown = e => { if (e.key === 'Enter' || e.key === ' ') selectRow(m.id); };
+
+    const extBadge = m.ext ? '<span class="ext-badge">★EXT</span>' : '';
+
+    row.innerHTML = `
+      <div class="bar-label">${m.label}${extBadge}<span class="en">${m.en}</span></div>
+      <div class="bar-track">
+        <div class="bar-fill" style="width:${pct}%;background:${m.color}">
+          <div class="range-stripe" style="left:${strLeft};width:${strWidth}"></div>
+        </div>
+        ${!m.isRef ? `<div class="chest-line" style="left:${chestPct}%"></div>` : ''}
+      </div>
+      <div class="bar-value">${formatValue(m)}</div>
+    `;
+    container.appendChild(row);
+
+    if (!firstTrackEl) firstTrackEl = row.querySelector('.bar-track');
+  });
+
+  // Chest reference label on first track
+  if (firstTrackEl) {
+    const lbl = document.createElement('div');
+    lbl.className = 'chest-line-label';
+    lbl.style.left = chestPct + '%';
+    lbl.textContent = '▼ 흉부X선';
+    firstTrackEl.appendChild(lbl);
+  }
+
+  // X-axis ticks
+  const usv_ticks  = [0.3, 0.5, 1, 2, 5, 10, 20, 50, 100, 200, 500, 1000, 3000];
+  const day_ticks  = [0.03, 0.1, 0.25, 1, 2, 5, 14, 46, 100, 365];
+  const chest_ticks = [0.01, 0.04, 0.1, 0.25, 0.5, 1, 2, 5, 10, 50, 62];
+
+  const ticks = currentUnit === 'usv' ? usv_ticks : currentUnit === 'days' ? day_ticks : chest_ticks;
+  ticks.forEach(t => {
+    const rawUSv = currentUnit === 'usv' ? t : currentUnit === 'days' ? t * BACKGROUND_DAY : t * CHEST_USEV;
+    const pct = logPct(rawUSv, minVal, maxVal);
+    if (pct < 2 || pct > 98) return;
+    const tick = document.createElement('div');
+    tick.className = 'x-tick';
+    tick.style.left = pct + '%';
+    tick.textContent = currentUnit === 'usv'
+      ? (t >= 1000 ? (t/1000)+'k' : t)
+      : currentUnit === 'days'
+      ? (t < 1 ? (t*24).toFixed(0)+'h' : t+'일')
+      : t + '×';
+    xAxis.appendChild(tick);
+  });
+}
+
+function selectRow(id) {
+  selectedId = selectedId === id ? null : id;
+  render();
+  const m = DATA[id];
+  const card = document.getElementById('detailCard');
+  if (!m || selectedId === null) { card.classList.remove('visible'); return; }
+  card.classList.add('visible');
+  document.getElementById('detailTitle').textContent = m.label + ' / ' + m.en;
+
+  const bgDays = m.mean / BACKGROUND_DAY;
+  const bgStr = bgDays < 0.1 ? (bgDays*24).toFixed(1)+' 시간' : bgDays < 1 ? (bgDays*24).toFixed(0)+' 시간' : bgDays >= 100 ? bgDays.toFixed(0)+' 일' : bgDays.toFixed(1)+' 일';
+  const chestX = (m.mean / CHEST_USEV).toFixed(2);
+  const bgPct = (m.mean / 3110 * 100).toFixed(2);
+  const rangeStr = m.range[0] === m.range[1] ? m.range[0] + ' µSv' : m.range[0] + ' – ' + m.range[1] + ' µSv';
+
+  document.getElementById('detailGrid').innerHTML = `
+    <span class="key">유효선량 (평균)</span><span class="val">${m.mean} µSv</span>
+    <span class="key">문헌 범위</span><span class="val">${rangeStr}</span>
+    <span class="key">자연방사선 환산</span><span class="val">약 ${bgStr}</span>
+    <span class="key">연간 배경 대비</span><span class="val">${bgPct}% (연 3,110 µSv 기준)</span>
+    <span class="key">흉부 X선 대비</span><span class="val">${chestX} × (기준 50 µSv★)</span>
+    <span class="key">임상 메모</span><span class="val" style="font-size:10.5px;color:#64748b">${m.note}</span>
+  `;
+  document.getElementById('detailSource').textContent = '📄 ' + m.source;
+  const extWarn = document.getElementById('detailExtWarn');
+  extWarn.style.display = m.ext ? 'inline-block' : 'none';
+}
+
+render();
+</script>
+</body>
+</html>
