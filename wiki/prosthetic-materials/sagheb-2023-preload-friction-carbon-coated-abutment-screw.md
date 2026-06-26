@@ -54,5 +54,5 @@ Sagheb et al. (2023) designed a custom load frame to simultaneously measure prel
 
 ## Related Papers
 
-- [[prosthetic-materials/implant-abutment-screw-loosening]] — clinical context for abutment screw loosening complications; this study quantifies the mechanical mechanism
+- [[overviews/abutment-screw-preload-joint-stability-overview]] — synthesis of abutment screw loosening / joint-stability evidence; this study quantifies the friction/preload mechanism behind those complications
 - [[prosthetic-materials/]] — general prosthetic materials category; abutment screw tribology
