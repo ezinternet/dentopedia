@@ -13,7 +13,7 @@ source_collection: external
 tags: []
 relations:
   - type: extends
-    target: buser-50-anni-di-impianti
+    target: buser-2017-modern-implant-dentistry-osseointegration-50years
 ---
 
 ## One-line Summary
