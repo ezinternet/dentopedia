@@ -1,0 +1,86 @@
+Title: Immediate implant placement in conjunction with guided bone regeneration and/or connective tissue grafts: an experimental study in canines
+Authors: Lim HC, Paeng KW, Kim MJ, Jung RE, Hämmerle CHF, Jung UW, Thoma DS
+Journal: Journal of Periodontal & Implant Science (J Periodontal Implant Sci) 2022
+DOI: 10.5051/jpis.2104040202
+PMID: 35505577 | PMCID: PMC9064777
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC9064777/)
+
+=== ABSTRACT ===
+
+Purpose
+This study was conducted to assess the effect of hard and/or soft tissue grafting on immediate implants in a preclinical model.
+
+Methods
+In 5 mongrel dogs, the distal roots of P2 and P3 were extracted from the maxilla (4 sites in each animal), and immediate implant placement was performed. Each site was randomly assigned to 1 of the following 4 groups: i) gap filling with guided bone regeneration (the GBR group), ii) subepithelial connective tissue grafting (the SCTG group), iii) GBR and SCTG (the GBR/SCTG group), and iv) no further treatment (control). Non-submerged healing was provided for 4 months. Histological and histomorphometric analyses were performed.
+
+Results
+Peri-implant tissue height and thickness favored the SCTG group (height of peri-implant mucosa: 1.14 mm; tissue thickness at the implant shoulder and ±1 mm from the shoulder: 1.14 mm, 0.78 mm, and 1.57 mm, respectively; median value) over the other groups. Bone grafting was not effective at the level of the implant shoulder and on the coronal level of the shoulder. In addition, simultaneous soft and hard tissue augmentation (the GBR/SCTG group) led to a less favorable tissue contour compared to GBR or SCTG alone (height of peri-implant mucosa: 3.06 mm; thickness of peri-implant mucosa at the implant shoulder and ±1 mm from the shoulder: 0.72 mm, 0.3 mm, and 1.09 mm, respectively).
+
+Conclusion
+SCTG tended to have positive effects on the thickness and height of the peri-implant mucosa in immediate implant placement. However, simultaneous soft and hard tissue augmentation might not allow a satisfactory tissue contour in cases where the relationship between implant position and neighboring bone housing is unfavorable.
+
+=== FULL TEXT ===
+
+INTRODUCTION
+
+Clinicians are confronted with several options when performing tooth extraction, ranging from ridge preservation techniques to a conventional protocol that awaits complete soft and hard tissue healing. Among these options, immediate implant placement (IIP) has been proposed to offer advantages to patients and clinicians by minimizing the number of required interventions and reducing the overall treatment time. IIP was initially introduced to prevent changes in the ridge profile following tooth extraction using extraction socket-sized implant dimensions. However, evidence has demonstrated that IIP cannot prevent shrinkage. As a result, numerous studies have analyzed various IIP protocols.
+
+Considering that the esthetic zone is the main target area for the IIP protocol, a facial mucosal recession above a certain threshold (>1 mm) and/or a loss of mucosal volume can be detrimental and can even be considered as treatment failure. To overcome potential volume loss, simultaneous grafting with connective tissue grafts, with or without concomitant bone augmentation, has been suggested. This resulted in a more stable facial mucosal margin, greater mucosal volume, and a higher pink esthetic score. Unfortunately, the relevant parameters leading to a successful outcome have not been systematically evaluated, and the majority of the studies on this topic had a case series design. Moreover, there is a lack of histologic and histomorphometric data regarding soft tissue dimensions and composition after soft and/or hard tissue grafting.
+
+Therefore, this preclinical study aimed to assess the effect of hard and/or soft tissue grafting on immediate implants in a preclinical canine model.
+
+MATERIALS AND METHODS
+
+Animals
+The present study was designed as a randomized controlled preclinical study that employed 5 mongrel dogs (>2 years old) weighing between 12 and 17 kg. The study protocol was approved by the Institutional Animal Care and Use Committee of Yonsei Medical Research Center, Seoul, South Korea (approval No. 2020-0085). Written in accordance with the ARRIVE guidelines.
+
+Surgical procedures
+Sulcular incisions were made around the maxillary premolars (P2 and P3) and buccolingual flaps were reflected. P2 and P3 were hemi-sectioned and the distal roots were carefully extracted with no bucco-palatal luxating force, to preserve the buccal/palatal bone plates. For the remaining mesial roots, pulpotomy was performed, and calcium hydroxide (Dycal) applied.
+
+In the areas of the distal root of P2/P3, 2-piece dental implants (NR line Ø3.2×7 mm; Dentium, Suwon, Korea) were placed, leading to the implant shoulder being at the level of the palatal bone crest with approximately 0.5–1.0 mm of space between implant and buccal bone wall. Healing abutments connected. 4 treatment modalities randomly assigned: i) GBR only; ii) SCTG only; iii) GBR + SCTG; iv) control (no other treatment).
+
+GBR group: biphasic calcium phosphate (Osteon III; Genoss) applied in the socket and on the outer surface of the buccal alveolus (width: between proximal areas of two adjacent teeth, height: 3–4 mm). Augmented area covered with a cross-linked collagen membrane (collagen membrane P; Genoss). Coronal part of membrane punched and secured by healing abutment; apical part fixed to bone with 2 membrane tacks.
+
+SCTG group: subepithelial connective tissue graft harvested from the palate. Width approximately twice the diameter of the implant, height 5 mm, thickness at least 1.5 mm. Graft immobilized by suturing onto palatal flap.
+
+GBR/SCTG group: SCTG placed on top of the collagen membrane and secured to the palatal flap.
+
+Control group: no additional tissue augmentation.
+
+Transmucosal (non-submerged) healing for all implants. Sutures removed 14 days later. At 4 months of healing, all animals sacrificed; maxillary segments harvested.
+
+Histologic processing
+Tissue sections fixed in 10% neutral-buffered formalin, dehydrated in ethanol, embedded in methyl methacrylate. Central bucco-oral section per implant site at 40–50 μm. Masson-Goldner trichrome staining.
+
+Histomorphometric measurements
+References marked: margo mucosae (MM), implant shoulder (IS), first bone-to-implant contact (fBIC), and buccal outline of soft/hard tissue.
+Vertical: MM-IS (D1), MM-fBIC (D2).
+Horizontal: Total tissue thickness (TT), Hard tissue thickness (HT), Soft tissue thickness (ST), measured at 3 levels (at IS, 1 mm above, 1 mm below IS).
+
+Statistics: parametric mixed linear models (group as impact factor) due to clustered data within dogs. Sample size too small for relevant tests; main goal descriptive. Significance p<0.05.
+
+RESULTS
+
+Clinical healing
+All dogs healthy, no local infections. 2 implants lost during follow-up (1 in GBR/SCTG group, 1 in GBR group).
+
+Histologic observations
+Due to proximity of maxillary sinus, apex of all implants protruded into sinus cavity to various extents. All implants in histological processing (except 2 lost) were osseointegrated. Buccal bone plate tended to undergo moderate resorption. Majority of specimens exhibited no bone-to-implant contact more coronal than the third thread. In GBR and GBR/SCTG groups, no remnants of collagen membrane. Newly formed bone interconnected with bone substitute particles, but space occupied by bone substitute particles appeared collapsed in majority. Fibrous connective tissue layer tended to be thicker in SCTG and GBR/SCTG groups.
+
+Histomorphometric — Vertical (peri-implant mucosa height)
+MM-IS: median 1.99 mm (Q1 1.83, Q3 2.45) SCTG (max), 1.24 mm (Q1 0.43, Q3 2.05) GBR/SCTG (min). GBR 1.45 (0.63, 2.58); Control 1.4 (1.38, 2.18). Mixed model p=0.72 (NS).
+MM-fBIC: GBR 4.06 mm (3.13, 5.09); SCTG 3.86 (3.19, 4.17); GBR/SCTG shortest 3.06 (2.86, 4.21); Control 3.97 (3.83, 4.19). Mixed model p=0.78 (NS).
+
+Histomorphometric — Horizontal (peri-implant tissue thickness)
+1 mm above IS: SCTG 0.78 mm (0.77, 0.87) max; GBR/SCTG 0.3 mm (0, 0.92) min; GBR 0.43 (0,1.54); Control 0.57 (0.48,0.67). Mixed model p=0.80 (NS). Most specimens (except 1 GBR) had no mineralized tissue at this level.
+At IS level: SCTG 1.14 mm (0.9, 1.93); Control 1.17 mm (0.55, 1.5); GBR 0.87 (0.57,1.64); GBR/SCTG smallest 0.72 mm (0.62, 0.72). Mixed model p=0.71 (NS). No mineralized tissue at IS in any specimen.
+1 mm below IS: SCTG greatest 1.57 mm (1.07, 2.5); GBR 1.19 (0.91, 1.62); GBR/SCTG 1.09 (0.56,1.41); Control 1.05 (0.8,1.39). Mixed model p=0.56 (NS). Mineralized tissue in only 5 specimens. HT range 0.28 mm (GBR) to 1.56 mm (SCTG).
+
+No statistically significant differences between groups at any level (all p>0.05). Many specimens lacked hard tissue at measured levels, precluding proper analysis of hard/soft tissue thickness separately.
+
+DISCUSSION
+Findings: i) SCTG alone resulted in higher MM level and greater overall tissue thickness vs control and hard-tissue groups, predominantly beneficial and more coronal than the IS; ii) hard tissue augmentation predominantly effective below the IS; iii) no benefit of simultaneous GBR+SCTG on overall tissue thickness vs GBR alone or SCTG alone.
+
+SCTG alone can establish a sufficient tissue profile at the soft tissue level, but cannot compensate for resorption of the buccal bone following IIP. Gap was small (≤1 mm) due to small ridge width and maxillary sinus; both gap filling and buccal overbuilding performed in bone-augmentation groups. Bone grafting effect not as satisfactory as SCTG, especially at/above IS — possibly due to augmentation outside bony envelope and compression at IS from flap tension/suturing. In GBR/SCTG, SCTG positioned on top of GBR area → more tension/pressure under flap.
+
+Limitations: small sample size; difficult behavioral control in animals; maxillary premolar region (less bone quantity, shallower vestibulum, sinus proximity) chosen; narrow-diameter implants used. Conclusion: careful case selection needed for soft/hard tissue augmentation in IIP; preclinical models with favorable bone housing (box-type defects) and clinical studies needed.
