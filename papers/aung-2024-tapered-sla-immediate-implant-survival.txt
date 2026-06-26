@@ -1,0 +1,46 @@
+Long-term survival rates of tapered self-tapping bone-level implants after immediate placement: a positional effective rationale
+Aung YT, Eo MY, Sodnom-Ish B, Kim MJ, Kim SM
+Maxillofacial Plastic and Reconstructive Surgery (2024)
+DOI: 10.1186/s40902-024-00428-7  PMID: 38727979  PMCID: PMC11087388
+
+BACKGROUND
+Immediate implant placement = installation of a dental implant immediately following tooth extraction (Third ITI consensus). Advantages: reduced treatment time, fewer surgical procedures, optimal use of existing bone, high patient satisfaction. Limitations: difficulty achieving primary stability due to socket morphology, possibility of insufficient bone formation around implant. SLA (sand-blasted, large-grit, acid-etched) surface = micro-roughness enhancing osseointegration, reducing healing time, increasing biocompatibility. Arlin et al.: SLA vs TPS survival 97.4% vs 95%, success 96.1% vs 93.4%, lower MBL. Ahmed et al. (NYU 2014): SLA 99.1% vs resorbable blasting media 95.2%.
+
+PURPOSE: evaluate clinical outcomes of tapered, sand-blasted, acid-etched internal submerged dental implants (Luna, Shinhung Co., Seoul, Korea) immediately placed in various oral locations; provide positional rationale.
+
+METHODS
+2009-2018: 49 dental implants immediately placed after extraction using tapered SLA internal submerged implants (Luna, Shinhung) in 34 patients at Dept of Oral & Maxillofacial Surgery, Seoul National University Dental Hospital (SNUDH), by one surgeon (S.M.K). IRB No. S-D20200007.
+Data: age, sex, systemic diseases, mean follow-up; location, implant length, diameter.
+Inclusion: Luna SLA internal submerged implant at SNUDH; immediate placement at any region; regular follow-up with panoramic radiograph > 5 years.
+Exclusion: failed follow-up; no panoramic radiogram for MBL.
+Surgical: local anesthesia, flapless atraumatic extraction preferred, preserving hard/soft tissue. Multi-rooted teeth sectioned to maintain interradicular septum + buccal plate. Socket debrided, saline irrigated. Examined apical/lateral bone for primary stability. Anterior: fixture slightly palatal, buccal wall thickness >= 1.5 mm. Posterior: middle of interradicular septum parallel to central fossa. Immediate implants installed deeper than healed-site implants. Bone grafting per gap between fixture and bone. 4-0 Vicryl sutures. Platform-switching bone-level implant: re-entry 3-6 months, prosthesis 2-3 months later.
+Assessment: ICOI Pisa Consensus health scale. Survival = radiographic bone loss between 2 mm and half implant body without mobility.
+MBL: panoramic radiograms at T0 (post-install), T1 (3 mo post-install), T2/T3 (3 mo, 1 yr after functional loading), T4 (5 yr). Measured 3x mesial+distal, mean. PiView-Star PACS calibration. Distortion compensation: Bone loss = (implant length / radiographic implant length) x radiographic bone loss.
+Stats: SPSS 26. Shapiro-Wilk normality. Independent sample test p<0.05. One-way ANOVA for survival by location/diameter/length.
+
+RESULTS
+49 implants in 34 patients: 23 mandible, 26 maxilla. 13 anterior (9 max, 4 mand), 12 premolar (8 max, 4 mand), 24 (48.98%) molar (9 max, 15 mand). Mean age 65.91 yr (40-86). Mean follow-up 7.43 yr (5-14). Most common diameter 4 mm (40.82%), length 8.5 mm (53.36%).
+Survival: cumulative 5-yr survival rate 93.88%. Mandible anterior/premolar/molar all 100%. Maxilla premolar 100%. Maxillary anterior lowest 85.38%. Maxillary molar 95.83%.
+By diameter: 3.5 and 5 mm = 100%; 4 mm (55.2% cases) = 96.2%; 4.5 mm (26.5%) = 84.61%. Not statistically significant.
+By length: 10 mm and 11.5 mm = 100%; 7 mm = 87.5% (one failed); 8.5 mm = 93.75% (two failed). Not statistically significant.
+MBL: significant marginal bone GAIN at mesial from 3 mo post-install (-0.68 +/- 1.61 mm); progressive gain mesial+distal significant at 3 mo and 1 yr post-loading through 5 yr vs initial (p<0.05). Increases between consecutive appointments not significant (p>0.05).
+Medical history: 61.74% metabolic disease (HTN 29.4%, DM 11.76%, CVD 14.7%, thyroid 5.88%); 8.82% bone disease (osteoporosis 5.88%, multiple myeloma 2.94%).
+Failures: 3 implants in 2 patients failed (6.12%). All 3 associated with maxillary sinus pathology.
+ - #16 (HTN + renal transplant, no immunosuppressant): sinusitis symptoms 3 mo post-install, mucosal thickening on Waters/panoramic, osseointegration failure + mobility at re-entry 5 mo. Replaced with 4.5x7 mm bone-level implant + sinus lifting; functional at final.
+ - #13 and #23 (maxillary edentulous denture patient): peri-implantitis with pus, swelling, mobility, bone loss >half implant length at 9 mo (#?) and 1.5 yr before prosthesis loading. Extensive bilateral sinus pneumatization, prior maxillary sinusitis + modified endoscopic sinus surgery. #13 replaced with Straumann BL 3.3x8 mm after sinus lift; #23 replaced with Luna 3.5x8.5 mm after socket graft. Both functional at final.
+
+DISCUSSION
+4 classification categories by timing (3rd ITI, modified Chen & Buser 2018); immediate = type 1. Significant bone level increase at 3 mo mesial illustrates bone regeneration around immediate implants; hypothesize immediate placement decreases alveolar ridge resorption.
+SLA = most documented rough surface; Abrahamsson (2004) canine: higher BIC, contact osteogenesis. Donos (2011): Notch-1, Wnt signaling up on SLA.
+Implant size (Heimes 2023): larger diameter = more contact area, better primary stability; length-stability linearity ends at 12 mm. Tapered implant: increased primary stability via lateral compressive force on cortical bone, better load distribution/osseointegration than straight, reduces surgical trauma, increases BIC.
+Internal connection (hexagon + morse taper): lower bacterial leakage, best sealing, better crestal bone loss than external, high mechanical stability, higher reliability esthetic region.
+Sodnom-Ish et al.: 105 tissue-level tapered SLA implants delayed in 61 patients = 98.1% survival (higher than bone-level here; attributed to uneven sample distribution + timing).
+Mustakim et al. maxillary molar guideline: socket types I/II/III by interradicular bone; A/B/C by alveolar bone height (ABH). Type I = immediate, no graft. Type II = immediate + graft. Type III = wide-diameter implant. ABH: type A (>8 mm) no sinus lift; type B sinus lift or short implant; type C (<6 mm) implant after sinus lift.
+General considerations for immediate placement: socket free of acute infection, atraumatic flapless extraction, intact facial bone >=1.5 mm thickness, >5 mm basal/palatal bone, 3D positioning, gap >2 mm between implant and facial wall, implant choice per location/bone.
+Positional: maxillary anterior concerns = thin buccal bone, esthetics, anatomy (nasal floor, nasopalatine canal, hyperpneumatized sinus); facial bone >=1 mm, apical >=5 mm; palatal positioning + >=2 mm gap + bone graft. Maxillary molar = multi-rooted, low density, sinus proximity; needs interradicular septum, ABH, no sinusitis. Mandible anterior = narrow-diameter to maintain facial width. Mandible premolar = avoid mental foramen. Mandible molar = short implants, deeper restoration-guided position to avoid IAN; tooth sectioning. High survival all mandible regions.
+All failures sinus-related. Possible etiologies: pre-existing sinusitis, Schneiderian perforation, insufficient ABH, surface contamination, graft reaction, uneven occlusal force.
+Sbricoli review: no association of diabetes/CVD/HTN/osteoporosis with peri-implantitis risk. 1019 Luna implants in medically compromised: 97.0% survival comparable to healthy.
+Limitations: retrospective, single surgeon. Future: extended follow-up, larger sample, comparative vs delayed.
+
+CONCLUSIONS
+Immediate implant placement reliably conducted in mandible (good bone quality) especially premolar (and even maxilla premolar) per positional rationale. Proper case selection, surgical planning critical, especially maxillary anterior and molar where failures more common. Delayed placement with sinus lift + graft recommended for maxillary molar if sinus pathology. After 5-yr: tapered SLA internal submerged implants = good efficacy for immediate placement in various locations, effective clinical performance, continuous bone gain.
