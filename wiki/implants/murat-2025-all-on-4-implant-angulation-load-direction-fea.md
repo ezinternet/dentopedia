@@ -10,6 +10,8 @@ source: murat-2025-all-on-4-implant-angulation-load-direction-fea.md
 category: [implants]
 confidence: in-vitro
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/murat-2025-all-on-4-implant-angulation-load-direction-fea.txt
+text_filename: murat-2025-all-on-4-implant-angulation-load-direction-fea.txt
 full_text: true
 tags: [FEA, implant-angulation, occlusal-load-direction, all-on-4, cortical-bone-stress, RSM]
 relations:
