@@ -1,0 +1,7 @@
+Polymerization shrinkage stress of contemporary dental composites: Comparison of two measurement methods.
+Szczesio-Wlodarczyk A, Garoushi S, Vallittu P, Bociong K, Lassila L. Dent Mater J. 2024;43(2):155-163. DOI: 10.4012/dmj.2023-192
+
+ABSTRACT
+The aim of this study was to compare two testing methodologies employed for assessing the polymerization shrinkage stress of dental resin composites. Ten commercial resin composites were investigated (EverX Posterior & Flow; G-aenial Anterior, Posterior, A'CHORD & Universal Injectable; Filtek One Bulk Fill & Universal Restorative; SDR flow+ and Aura Bulk Fill). Photoelastic and contraction forces measurement methods were performed. The slope of the linear trendline and C-factor of specimens were calculated. The shrinkage stress values (range between: 6.4-13.4 MPa) obtained by the photoelastic method were higher for all resin composites than the values obtained by contraction forces measurements (range between 1.2-4.8 MPa). However, there was a strong linear correlation between these methods (r=0.8). The use of both investigated methods revealed important information about the shrinkage behavior of the restorative resin composites.
+Keywords: Contraction forces; Photoelastic; Resin composite materials; Shrinkage stress.
+Source: PubMed. full_text:false (abstract-only).
