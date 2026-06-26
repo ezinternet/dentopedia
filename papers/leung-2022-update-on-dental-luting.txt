@@ -1,0 +1,58 @@
+Update on Dental Luting Materials
+Leung GK, Wong AW, Chu CH, Yu OY
+Dentistry Journal (Basel) 2022;10(11):208. DOI: 10.3390/dj10110208
+PMID: 36354653 | PMCID: PMC9689175
+
+1. Introduction
+
+A luting cement is a material that is used to attach indirect restorations to prepared tooth surfaces by filling minute voids between the restorations and the tooth structures, thereby locking the restoration mechanically to prevent dislodgement. A luting material provides the retention of indirect restorations by providing mechanical interlocking, chemical bonding or both. Traditional cementation relies mostly on the frictional forces between the prepared tooth surfaces and fitting walls of restorations. More contemporary materials utilize chemical and micromechanical adhesion to bond between the tooth surface, cement and restorative material.
+
+Luting materials create the seal between the restoration and the tooth. A good seal is important not only to hold the restoration in place but also to make the surface impervious to microleakage and caries; luting materials affect the longevity of indirect restorations. They are indicated in the cementation of crowns, inlays, onlays, veneers, multiple-unit fixed prostheses, endodontic posts and orthodontic appliances.
+
+2. Historical Development
+
+Over the past 50 years a range of luting cements has been developed. Before this period zinc phosphate had been the only choice of permanent cement for almost 100 years since the late 19th century — often regarded as the "gold standard" for permanent dental cements. In the late 1960s zinc polycarboxylate was introduced. Between the 1970s and 1980s glass ionomer cement (GIC) and resin-modified glass ionomer cement (RMGIC) were invented. Resin cement, invented in the 1950s, has undergone many reformulations; owing to increasing demand for aesthetic all-ceramic restorations it has gained high popularity. In the 2000s self-adhesive resin cement was developed to simplify the procedure. Calcium aluminate/glass ionomer cement (CaAl/GI) with bioactivity (creating hydroxyapatite crystals) was introduced in 2009.
+
+An ideal luting cement should be biocompatible, insoluble, resistant to thermal and chemical assaults, antibacterial, aesthetic, simple and easy to use, with high strength under tension, shear and compression and adequate working/setting times. So far, no luting material possesses all of these properties.
+
+3. Classification
+
+By chemical composition: water-based (zinc oxide eugenol and non-eugenol, zinc polycarboxylate, zinc phosphate, GIC, hybrid CaAl/GI) vs resin-based (conventional and self-adhesive resin cements). RMGIC is a mix of water- and resin-based.
+
+By bonding mechanism: non-adhesive (zinc oxide eugenol/non-eugenol, zinc phosphate — friction only), chemically adhesive (zinc polycarboxylate, GIC, hybrid CaAl/GI), micromechanically adhesive (both resin cements). RMGIC is both chemically and micromechanically adhesive.
+
+By clinical indication: temporary (zinc oxide eugenol/non-eugenol, zinc polycarboxylate) vs permanent (zinc phosphate, zinc polycarboxylate, GIC, RMGIC, conventional and self-adhesive resin cement, hybrid CaAl/GI).
+
+4. Properties and Clinical Indication
+
+4.1 Zinc Oxide Eugenol and Non-Eugenol — two-component, acid-base set. Low strength allows easy removal of provisional crowns; sedative to pulp, good marginal seal, cost-effective. Concern: eugenol may hinder polymerization of resin cement and reduce bond strength (though several lab studies and a SR show no bond-strength alteration). Use zinc oxide non-eugenol before composite resin to avoid disrupting polymerization.
+
+4.2 Zinc Phosphate — longest history, "gold standard" permanent cement. Zinc oxide + magnesium oxide powder with phosphoric acid liquid. Non-adhesive (mechanical interlocking only). Moderate compressive strength, high modulus of elasticity. Good for cast metal post-core, all-metal/metal-supported restorations. Disadvantages: very low initial pH (<2.0) causing sensitivity, exothermic reaction may irritate pulp, discoloration, water solubility → higher chance of secondary caries.
+
+4.3 Zinc Polycarboxylate — developed 1968. Zinc oxide + polyacrylic acid; carboxylic groups chelate calcium in hydroxyapatite (weak chemical bond; retention primarily mechanical). Less irritating to pulp, higher tensile strength than zinc phosphate, but compressive strength only one-half to two-thirds that of zinc phosphate; lower modulus → plastic deformation under long-term loading. Low resistance to acidic erosion, viscous, short working time (2.5 min). Main use today: long-term provisional restorations or when maximum provisional retention needed.
+
+4.4.1 Conventional GIC — calcium fluoro-alumino-silicate glass + polycarboxylic acid; acid-base set. Chemical adhesion via chelation with calcium/phosphate. Key feature: fluoride release (initial burst over first 24 h, then slow long-term) → anticariogenic, prevents secondary caries; biocompatible with pulp. Weaknesses: low flexural strength, high modulus → brittle, prone to bulk fracture; water solubility and microleakage; low initial pH → postoperative sensitivity. Use dentine sealers when remaining dentine thickness is minimal.
+
+4.4.2 RMGIC — HEMA monomers + photoinitiator added to GIC; "dual-cured" (resin photopolymerizes, GIC chemically cures). Greater bond strength and fracture toughness than conventional GIC (but inferior to resin cement). Retains fluoride release/anticariogenic property. Downside: more cytotoxic to pulp cells than conventional GIC — not as biocompatible.
+
+4.4.3 Hybrid Calcium Aluminate/Glass Ionomer (CaAl/GI) — water-based permanent, self-adhesive (no pre-treatment). Comparable or higher retentive strength vs other permanent cements; sufficient working/setting times. Bioactivity → remineralization, releases calcium and phosphate ions; stronger antibacterial properties than self-adhesive resin cement and conventional GIC; sealing/microleakage comparable to self-adhesive resin cement; satisfactory postoperative sensitivity, retention, marginal integrity, color stability. Long-term clinical data lacking. Indications: metal/PFM crowns and bridges, gold inlays/onlays, cast or prefabricated metal posts, high-strength ceramic (zirconia, alumina, lithium disilicate).
+
+4.5 Resin Cements — high compressive/tensile and bond strength, low water solubility, good aesthetics → leading luting cements today. Require proper moisture control; if isolation impossible, use alternative cements.
+
+4.5.1 Conventional resin cement — composition similar to restorative composites (Bis-GMA, UDMA), lower filler for thin film/working time. Enamel: micromechanical interlocking after acid etching; dentine: smear-layer removal, demineralization, primer. Adhesive systems: total-etch (etch-and-rinse) vs self-etch. Total-etch downsides: multistep, contamination risk, higher postoperative sensitivity, benefits enamel but not dentine bonding (incomplete hybrid-layer infiltration). Self-etch alone reduces enamel bonding → selective enamel etching suggested. ISO 4049 (2019) cure classes: class 1 self-cured (thick/opaque/metal restorations), class 2 light-cured (high aesthetic, veneers), class 3 dual-cured (versatile; degree of cure without light can be as low as 10.82%; under 4 mm ceramic can be lower than self-cure alone; extending light cure to 120 s improves conversion). For ceramic <2.0 mm, light/dual-cured beats self-cured. Indications: all-ceramic and indirect-resin restorations, veneers, resin-bonded bridges, short crowns, post-cementation. Disadvantages: high cost, technique-sensitive, time-consuming, difficult excess removal; contraindicated for prefabricated crowns (esp. pediatric).
+
+4.5.2 Self-adhesive resin cement — adheres without separate adhesive/etchant (early 2000s). Functional acidic monomers (e.g., 10-MDP) etch and wet tooth; pH rises and hydrophobicity increases as reaction proceeds. Less postoperative sensitivity than RMGIC/GIC. But bond strength to enamel/dentine lower than conventional multi-step resin cements (no separate phosphoric acid etch; smear layer not removed). A 2-year study showed similar outcomes to multistep; a 5-year study found total-etch better in marginal discoloration/adaptation. Not recommended for reduced retention/resistance forms (resin-bonded bridges, short crowns) or veneers (weaker enamel bonding, more discoloration).
+
+5. New Developments
+
+5.1.1 GIC modifications — nanotechnology; nano-hydroxyapatite fillers increase mechanical and bond strength, crystallinity, chemical stability, water insolubility, fluoride release. Calcium sodium phosphosilicate bioactive glass (45S5 Bioglass, Hench 1969) increases remineralization but compromises strength; bioactive glass nanoparticles improve compressive/tensile/flexural strength (long-term safety unknown).
+
+5.1.2 Resin cement modifications — antimicrobial additions (silver nanoparticles, quaternary ammonium polyethyleneimine, cetylpyridinium-modified montmorillonite, chlorhexidine diacetate, ursolic acid) to fight recurrent caries. "Self-healing" via embedded microcapsules releasing healing liquid into cracks. Enhanced polymerization via chemical co-initiators and "touch/contact curing" (non-tertiary amine accelerator in primer).
+
+5.1.3 Restorative composite as alternative luting material — lower cost, better strength, lower marginal deterioration, more shades; but higher filler → higher viscosity/film thickness/lower flow. Preheating and ultrasonic vibration reduce film thickness but not all reach <50 μm (ISO 4049:2019). More modification needed.
+
+5.2 Novel — Castor oil polyurethane cement — biomaterial from castor plant (Brazil), great biocompatibility, easy handling, osteo-inductive, antimicrobial, low cost, sustainable. Two-part system with calcium carbonate fillers. Flexural strength only ~25% of adhesive resin cement but comparable to zinc phosphate and GIC. Future: fillers to enhance strength.
+
+6. Summary
+
+Luting material aids retention and stability of indirect restorations. Common materials: zinc oxide eugenol/non-eugenol, zinc phosphate, zinc polycarboxylate, GIC, RMGIC, resin cement, hybrid CaAl/GI — each with unique properties. None fulfils all clinical applications; researchers are modifying GIC and resin cements and developing novel materials (e.g., castor oil polyurethane).
