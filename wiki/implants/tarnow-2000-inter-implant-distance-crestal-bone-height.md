@@ -9,6 +9,8 @@ source: tarnow-2000-inter-implant-distance-crestal-bone-height.md
 category: [implants]
 confidence: retrospective
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/tarnow-2000-inter-implant-distance-crestal-bone-height.txt
+text_filename: tarnow-2000-inter-implant-distance-crestal-bone-height.txt
 full_text: false
 tags: [inter-implant-distance, IID, crestal-bone, spacing, papilla, 3mm-rule]
 ---
