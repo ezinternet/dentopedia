@@ -13,30 +13,9 @@ confidence: narrative-review
   <title>LLM Wiki — Dentistry</title>
   <desc>LLM Wiki — Clinical Dentopedia 배너. 좌측 악어↔피라냐 양면 착시 엠블럼(전체는 피라냐, 벌린 입은 악어), 중앙 제목과 영문 태그라인, 우측 PDF→sources→wiki 3-tier 카드.</desc>
   <rect x="1.5" y="1.5" width="1197" height="297" rx="22" fill="#F7F6F1" stroke="#E6E4DC" stroke-width="1.5"/>
-  <!-- emblem (crocodile ↔ piranha bistable), scaled 1.5x about its center -->
-  <g transform="translate(160 152) scale(1.5) translate(-160 -152)">
-    <circle cx="160" cy="152" r="96" fill="#FFFFFF" stroke="#E6E4DC" stroke-width="1.5"/>
-    <circle cx="160" cy="152" r="88" fill="none" stroke="#8B2F44" stroke-width="2" opacity="0.20"/>
-    <g stroke-linejoin="round" stroke-linecap="round">
-      <path d="M116,150 L88,131 L100,151 L88,172 L120,160 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-      <path d="M150,120 C150,102 161,97 173,101 L188,118 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-      <path d="M150,184 L146,202 L166,190 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-      <path d="M112,148 C112,134 116,126 124,122 C132,118 150,116 168,116 C196,116 214,118 228,124 C232,127 230,132 224,133 L210,131 L120,143 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-      <path d="M118,158 C118,170 122,180 132,184 C150,190 178,188 200,180 L210,176 L126,164 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="3"/>
-      <path d="M195.5,132 L204.5,132 L200,144 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M175.5,135 L184.5,135 L180,147 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M155.5,137.7 L164.5,137.7 L160,149.7 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M135.5,140.3 L144.5,140.3 L140,152.3 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M119.5,142.4 L128.5,142.4 L124,153 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M191.5,174 L200.5,174 L196,163 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M171.5,171.1 L180.5,171.1 L176,160.1 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M151.5,168.3 L160.5,168.3 L156,157.3 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <path d="M133.5,165.7 L142.5,165.7 L138,154.7 Z" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.6"/>
-      <circle cx="130" cy="125" r="5.5" fill="#FFFFFF" stroke="#8B2F44" stroke-width="2"/>
-      <circle cx="131" cy="125" r="2.2" fill="#8B2F44"/>
-      <ellipse cx="219" cy="121" rx="3" ry="2" fill="#FFFFFF" stroke="#8B2F44" stroke-width="1.4"/>
-    </g>
-  </g>
+  <!-- emblem: piranha↔crocodile bistable illusion (teal/maroon framed medallion) -->
+  <image href="https://ezinternet.github.io/llm-wiki/static/banner-emblem.png"
+         x="4" y="10" width="312" height="280" preserveAspectRatio="xMidYMid meet"/>
   <defs>
     <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
   </defs>
