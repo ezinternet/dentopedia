@@ -11,6 +11,8 @@ source: synthesis
 relations:
   - type: extends
     target: kaur-2026-dentin-hypersensitivity-enigma-revisited
+  - type: reinforces
+    target: correa-2025-long-term-desensitizing-agents-efficacy-sr-ma
 ---
 
 ## 한국어 핵심요약
@@ -114,6 +116,8 @@ The JKDA ladder is a consensus skeleton; the following papers add the numbers th
 **2차 — tubule-occlusion mechanism and Gluma safety.** SEM and bench work explain *why* the sealing rung works and flag its one safety caveat. Joshi (2013) showed under SEM that both NovaMin (a bioactive-glass mineral layer) and Gluma (intratubular precipitation) increase tubule occlusion after a single application versus untreated control — the morphological basis for the occlusion mechanism. But the glutaraldehyde in Gluma carries a pulpal cost: Jiang (2022) found GLUMA only occludes tubules and cuts permeability in the presence of simulated dentinal fluid (its mechanism is protein precipitation-dependent) yet is cytotoxic to cells beneath the dentin disc, whereas an NaF/fumed-silica gel was biocompatible but rebounded in permeability; Scheffel (2015) confirmed in a transdentinal odontoblast model that glutaraldehyde reduces pulp-side cell viability in a concentration-dependent manner. Clinical signal [claude해석]: near vital pulp, mind Gluma concentration and exposure — its efficacy is real but fluid-dependent and concentration-toxic.
 
 **Cross-cutting materials view.** Li (2026) reframes the entire ladder around one unifying mechanism — sealing exposed tubules — and organizes therapies into physical (laser), chemical (mineralizing/occluding), and synergistic classes, spotlighting biomimetic mineralization as the emerging direction; it supplies the materials-science depth behind the clinical ladder.
+
+**Long-term ranking — the decisive SR+MA.** Corrêa (2025), the only systematic review + meta-analysis here restricted to **long-term (≥6 month)** efficacy, anchors the whole ladder's escalation logic: **glutaraldehyde and low-level laser (LLLT) hold the strongest durable effect**, while **adhesive systems and calcium-phosphate (CPP-ACP) agents show no significant long-term benefit** despite their short-term/head-to-head performance (Ayan 2025). This is the central efficacy-vs-safety tension of the in-office rung — the two most durable agents (Gluma, LLLT) are exactly the ones carrying caveats (Gluma's concentration-dependent pulp cytotoxicity, Scheffel 2015; LLLT's lack of a standardized protocol and no superiority over fluoride, Shan 2021). Practically: **short-term relief does not guarantee durability** — set patient expectations, and weight long-term-proven agents when persistence matters, balanced against Gluma's safety profile. [근거강함 SR+MA, abstract-only here]
 
 ---
 
@@ -225,6 +229,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 
 **Synthesis [claude해석]:** 본 batch는 기존 JKDA narrative ladder의 두 치료 축(tubule occlusion / nerve desensitization)에 정량 근거를 채운다. (1) **Laser**: [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] (LLLT placebo 대비 SMD 1.09→2.86, 단 fluoride 외 우월성 없음 [근거강함])와 [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] (고·저출력 동등, 표준 프로토콜 미확립 [근거강함])가 메타수준 근거를 제공하고, RCT [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]]·[[dentin-hypersensitivity/naghsh-2024-three-methods-dentin-hypersensitivity-rct]]는 laser가 단기 우월하나 3–6개월에 chemical agent와 수렴함을 보인다 [합의수준]. (2) **Tubule-occlusion 기전·안전성**: [[dentin-hypersensitivity/joshi-2013-novamin-gluma-dentinal-tubule-occlusion-sem]] + [[dentin-hypersensitivity/jiang-2022-desensitizing-agents-permeability-cytotoxicity]] + [[dentin-hypersensitivity/scheffel-2015-transdentinal-cytotoxicity-glutaraldehyde-odontoblast]]는 Gluma(글루타르알데히드)의 효과가 치수액 의존적이고 농도의존적 세포독성을 동반함을 보여 **vital pulp 인접 시 농도·노출 주의** 신호 [claude해석]. (3) **At-home 치약**: [[dentin-hypersensitivity/defreitas-2021-bioactive-toothpastes-dentin-hypersensitivity-sr]] (저농도 bioactive glass 효과 [합의수준]) + [[dentin-hypersensitivity/martins-2022-desensitizing-toothpastes-formulations-scoping-review]] (368 제형 지도: 포타슘·CSP·MFP/NaF 주류)가 1차 at-home 옵션 카탈로그를 보강. (4) [[dentin-hypersensitivity/ramli-2022-successful-dentin-hypersensitivity-treatment-strategies]]·[[dentin-hypersensitivity/li-2026-physical-chemical-strategies-dentin-hypersensitivity]]는 관리 전략·재료기전 narrative.
 
+- [[dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma]] — SR+MA (≥6개월 장기): Gluma·LLLT 장기효과 1위, 접착·CPP-ACP는 장기 유의효과 없음 — 에스컬레이션 근거의 핵심
 - [[dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA: LLLT placebo 대비 효과, fluoride 외 우월성 없음
 - [[dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma]] — SR+MA: 고·저출력 레이저 동등, 표준 프로토콜 미확립
 - [[dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity]] — RCT: Er,Cr:YSGG > NaF varnish (6mo)
