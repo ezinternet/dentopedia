@@ -528,6 +528,7 @@ tags: []
 - [[sinus-lift/lateral/abullais-2024-maxillary-sinus-membrane-lateral-wall-cbct]] — 후향 CBCT (n=75, 150 상악동): 안면지수는 점막·측벽 두께 예측 못함 → 형태 무관 CBCT 필수; 소구치 MT > 대구치 (DOI 10.1371/journal.pone.0298403)
 - [[sinus-lift/lateral/sala-2024-sinus-perforation-outcomes-sr-ma]] — SR+MA (29편): 천공 시 임플란트 실패율 2.1%; 천공 vs 비천공 OR 1.347 (NS) — 천공 자체는 유의 실패 위험인자 아님 (DOI 10.3390/jcm13051253)
 - [[sinus-lift/lateral/kozuma-2017-chronic-sinusitis-sinus-augmentation-infection]] — 후향 코호트 (109명, 121 상악동, 252 임플란트): 술전 만성 부비동염이 측방 SFE 후 감염·임플란트 실패 최강 예측인자(p=0.007) → 술전 ENT 평가 필수 (DOI 10.1007/s10006-017-0611-8)
+- [[sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation]] — Craig 2024 · narrative review · 상악동거상 후보 ENT 협진 체계화 — Felisati 5등급 시스템: 골구내강 폐쇄·감염성 상악동염(≥3등급)만 협진, 점막비후·MRC는 대부분 협진 불필요 [Clin Implant Dent Relat Res]
 - [[sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus]] — Maska 2017 · retrospective · n=29 CBCT Michigan: 생리적 점막비후(93.1%, 65.5%가 >5mm)에도 임플란트 생존 100%; 4등급 Mucosal Thickening Index 제안; 치주질환만 유의 예측 (DOI 10.1186/s40729-017-0064-8)
 - [[sinus-lift/lateral/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height]] — Akbari 2022 · retrospective CBCT · n=141(240 상악동): 잔존 치조제 높이↓ → 점막비후↑ 유의; 천공 위험 최저 1.5-2mm, >3mm 병적 기준 (DOI 10.18502/fid.v19i19.9965)
 - [[sinus-lift/lateral/khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening]] — Khalil 2024 · retrospective CBCT · n=124(992치): 치근단 병변 AOR=32.7, 제1대구치 AOR=3.97, 중증 치주골 소실 AOR=2.75; RPMT Type 1-2도 유의(AOR≈2.2) (DOI 10.7759/cureus.76578)
@@ -595,6 +596,8 @@ tags: []
 - [[sinus-lift/pseudocyst/yeung-2022-cbct-maxillary-sinus-pathology-review]] — Review (HKU OMFS, Diagnostics 2022): CBCT를 통한 상악동 health·pathology 평가 — 정상 해부·SMT 임계값·AP/MRC/sinusitis/odontogenic/tumor 영상 매핑. 진단 트리 0단계
 - [[sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence]] — Küçükkurt 2025 · retrospective · n=1,000 CBCT 임플란트 후보: 68% 상악동 병변, 점막비후 47% 최다, 치근단 병변·치주질환 유의한 위험인자 [BMC Oral Health]
 - [[sinus-lift/pseudocyst/salari-2021-maxillary-sinus-pathologic-findings-cbct-implant]] — Salari 2021 · cross-sectional · n=140 CBCT 이란 코호트: 63.5% 병변, 점막비후 31.4% 최다(기준 >5mm), 연령·성별·치아상태 유의한 연관 없음 [J Adv Periodontol Implant Dent]
+- [[sinus-lift/pseudocyst/tan-2020-maxillary-antrolith-case-report-management]] — Tan 2020 · case report · Singapore: 3mm 무증상 상악동석(Antrolith) Caldwell-Luc 제거 + 문헌고찰; 소형 무증상→경과관찰, 합병증→수술, 유병률 0.15-3.2% [Int J Surg Case Rep]
+- [[sinus-lift/pseudocyst/shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case]] — Shenoy 2013 · case report · India: 2×1cm 대형 상악동석이 재발성 상악동염·구강상악동루 유발(과거 Caldwell-Luc 잔류 골편=nidus); ESS+반복Caldwell-Luc로 제거 [Case Rep Otolaryngol]
 
 ## 근관치료 — 근관장 측정 (Endodontics: EAL / Working Length)
 - [[endodontics/eal/usman-sultan-2026-eal-vs-radiographic-working-length-postoperative-pain-sr]] — Usman Sultan 2026 · sr · RCT 4편(n=414): EAL vs 방사선 근관장측정 술후 통증 차이 없음, hybrid(SLC)는 초기 통증 감소 가능성
