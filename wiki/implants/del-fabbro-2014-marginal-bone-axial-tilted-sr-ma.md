@@ -9,6 +9,8 @@ source: del-fabbro-2014-marginal-bone-axial-tilted-sr-ma.md
 category: [implants]
 confidence: sr+ma
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/del-fabbro-2014-marginal-bone-axial-tilted-sr-ma.txt
+text_filename: del-fabbro-2014-marginal-bone-axial-tilted-sr-ma.txt
 full_text: false
 superseded_by: del-fabbro-2022-full-arch-tilted-axial-implants-sr-ma
 superseded_scope: partial
