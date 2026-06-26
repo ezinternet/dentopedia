@@ -2303,6 +2303,9 @@ tags: []
 - [[oral-surgery/ye-2021-mandibular-third-molar-impaction-pathologies]] — Ye 2021 · retrospective · 하악 제3대구치 매복 432개: 연조직·수직매복→관주위염(82.4%), 근심경사 얕은 매복→인접 제2대구치 원심우식, 근심·수평 깊은 매복→제2대구치 원심치주병변 (모두 p<0.05)
 - [[oral-surgery/sun-2026-third-molar-health-management-expert-consensus]] — Sun 2026 · consensus · 제3대구치 관리 중국 다기관 전문가 합의(Int J Oral Sci): 관주위염·치성간극감염 최다 호발치; 분류·발치 적응증 3단계·치관절제술(coronectomy)·소켓재생·합병증 처치·자가치아이식(~95%)
 - [[oral-surgery/bodner-2012-cutaneous-sinus-tract-dental]] — 후향 증례군(소아 28명, Pediatr Dermatol 2012): 치성 피부누공(CST)은 주로 우식 있는 하악 제1대구치→하악-하악하부 피부; 평균 6.5개월 진단 지연; 근관치료/발치로 빠른 치유, 병변 장기화 29%에서 흉터 교정술 필요
+- [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — Thereza-Bussolaro 2026 · sr+ma · 18개 CBCT 연구: 피질골 소실(OR 9.87)·아령형 관(OR 8.25)·설측 위치(OR 3.82)가 IAN 손상 3대 예측 인자; 3개 모두 OR 5.06 (JADA)
+- [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — Thereza-Bussolaro 2026 · sr+ma · CBCT 11개 코호트: 전체 IAN 손상률 9.52%; 고위험군 14.76%; 피질골 소실 15.65% vs 존재 0.39% (40배 차이) (JOMS)
+- [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — Al-Aroomi 2025 · sr · 11개 RCT: 사랑니 발치 후 CGF(농축성장인자) 적용 시 통증 75%·진통제 100% 개선; 방사선 골충전 80%·치주 지표 100% 향상; 부기·치조골염 효과 불명확
 
 ### Orthodontics — miniscrew/TAD
 - [[orthodontics/katyal-2024-success-rate-factors-affecting-stability]] — Katyal 2024 · sr+ma · SR+MA (14 studies, 1683 IZC screws): pooled success 92%, no age effect
