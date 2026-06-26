@@ -1,0 +1,32 @@
+Source: PubMed Central PMC12086267 | PMID 40390720 | DOI 10.7759/cureus.82547
+Title: Comparative Assessment of Clinical Outcomes in Flapless and Flapped Implant Surgical Techniques: A Prospective Cohort Study
+Authors: Kenil J Tarpara, Rohit Goyal, Niyutna Sheshamani, Navneet Singh, Hem Kumar, Waseem F Mirdah, Seema Gupta
+Journal: Cureus, 2025
+
+ABSTRACT
+Introduction: Dental implants are standard treatment for restoring missing teeth. The surgical approach (flap versus flapless) may influence peri-implant tissue healing, postoperative discomfort, and long-term implant success. This study compared postoperative pain, peri-implant probing depth (PD), and crestal bone height (CBH) changes between flapless and flapped implant placement over 12 months post functional loading.
+Materials and methods: Prospective cohort study, 20 patients requiring single posterior dental implants. Allocated into flapless (n=10) and flap (n=10) based on clinical evaluation and patient preference (non-randomized). PD at 6 and 12 months at four peri-implant sites. CBH at baseline, 6 and 12 months post functional loading using standardized intraoral radiographs. Pain on postoperative days 3 and 7 using VAS. Significance p<0.05.
+Results: Postoperative pain significantly lower in flapless group at day 3 (3.1±0.74 vs 5.7±0.95, p=0.001) and day 7 (0.5±0.71 vs 2.4±1.17, p=0.001). PD significantly lower in flapless at 6 months (p<0.05), but by 12 months differences not significant. Both groups showed significant intragroup PD reduction over time (p=0.001). CBH decreased slightly in both groups over 12 months; no significant intergroup differences at any time point (p>0.05).
+Conclusion: Flapless implant placement associated with significantly lower postoperative pain and more favorable soft tissue healing (reduced PD at 6 months) than flap. Both approaches showed comparable CBH changes at 12 months. Flapless may offer early postoperative benefits without compromising long-term hard tissue stability.
+
+METHODS (DETAIL)
+Prospective cohort at Dept of Oral and Maxillofacial Surgery, Maharaja Ganga Singh Dental College, Sri Ganganagar, Rajasthan, January 2023 to January 2025. Naturally occurring groups requiring single posterior endosseous implant. NO randomization — allocation by clinical judgment, operator preference, patient factors (soft tissue biotype, bone quantity/quality). Ethics MGSDC|SY/23/05, Declaration of Helsinki.
+Inclusion: adults 18-60, single posterior endosseous implant, buccolingual width ≥6 mm, vertical bone height for ≥10 mm implant, interocclusal clearance ≥7 mm, good oral hygiene (plaque/bleeding index 0-1), adequate keratinized mucosa (≥2 mm).
+Exclusion: systemic disease (uncontrolled diabetes, osteoporosis/metabolic bone disorders, bleeding/anticoagulant, autoimmune, immunocompromised, chronic kidney/liver, cardiovascular), head/neck radiation, active periodontal infection, pregnancy/lactation, severe bruxism, bisphosphonates, smokers/smokeless tobacco, multiple missing teeth.
+Sample size: G*Power, power 80%, alpha 5%, effect size 0.85 → 10 per group.
+Allocation rationale: thick biotype + sufficient keratinized mucosa + favorable ridge → flapless. Thin biotype, reduced tissue, need for visualization → flap.
+Premedication: amoxicillin 500 mg + clavulanate 125 mg one hour pre-op.
+Surgical: delayed placement (≥3 months post-extraction), delayed loading. Flapless (n=10): 2% lignocaine 1:80000 epi, tissue punch access, osteotomy under saline 800-1000 rpm, Adin implant, 2 mm healing collar. Flap (n=10): full-thickness mucoperiosteal flap via mid-crestal incision, osteotomy, cover screw, 3-0 silk sutures, suture removal day 7.
+Outcomes: PD at baseline, 6, 12 months (four sites, plastic UNC-15 probe). CBH on standardized IOPA (Rinn XCP, custom bite stent, long cone 16-inch), analyzed with ImageJ, mesial/distal mean. Pain VAS days 3 and 7. Single blinded calibrated examiner; intra-examiner reliability ICC=0.85.
+Statistics: Stata 18. Shapiro-Wilk. VAS and PD normally distributed (t-tests); CBH non-normal (Mann-Whitney U, Friedman). p<0.05.
+
+RESULTS (DETAIL)
+Sample: 13 male (65%), 7 female (35%); no significant sex-technique association (p=0.639). Mean age flap 37.4±9.55, flapless 36.5±5.87.
+Pain (VAS): Day 3 flap 5.7±0.95 vs flapless 3.1±0.74 (p=0.001); Day 7 flap 2.4±1.17 vs flapless 0.5±0.71 (p=0.001).
+PD at 6 months (significantly lower in flapless, all sites p<0.05): MB flap 3.96±0.57 vs flapless 3.43±0.42 (p=0.030); ML 3.79±0.49 vs 3.29±0.32 (p=0.015); DB 3.86±0.58 vs 3.21±0.53 (p=0.018); DL 3.72±0.51 vs 3.17±0.48 (p=0.024). At 12 months all PD differences NOT significant (p>0.05).
+CBH: no significant intergroup difference at any time. Mesial baseline flap 12.37±1.61 vs flapless 12.19±1.69 (p=0.513); 6 mo p=0.908; 12 mo p=0.731. Distal similar (baseline p=0.611). Significant intragroup CBH reduction over time in both (Friedman p=0.001).
+
+DISCUSSION / CONCLUSION
+Flapless = significantly lower postoperative pain (≈half of flap at day 3) and lower early PD at 6 months, consistent with reduced soft tissue manipulation and preserved vascular integrity. Cites Gao et al. systematic review (14 RCTs): VAS significantly lower in flapless at 24h but difference reduced after day 3; flapless lower PD. By 12 months PD difference disappears — long-term soft tissue outcomes equal. CBH showed NO meaningful benefit of flapless on crestal bone resorption — both lost bone similarly; other factors (implant design, loading, patient variables) dominate long-term crestal stability. Note: 6-month PD difference, though significant, within normal physiological range — limited clinical relevance.
+Limitations: small sample (n=20), NON-randomized (selection bias), 12-month follow-up, 2D radiographs (no CBCT), VAS subjective, single center, sex/location not stratified.
+Conclusion: Flapless = markedly less postoperative pain and lower initial PD at 6 months, no significant difference at 12 months, without adversely affecting long-term CBH. In suitably chosen cases, flapless improves initial comfort and soft tissue healing while preserving similar bone-level results.
