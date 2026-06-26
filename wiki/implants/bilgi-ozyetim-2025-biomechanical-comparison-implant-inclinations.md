@@ -10,6 +10,8 @@ source: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.md
 category: [implants]
 confidence: in-vitro
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.txt
+text_filename: bilgi-ozyetim-2025-biomechanical-comparison-implant-inclinations.txt
 tags: [tilted-implant, All-on-4, FEA, angulation, screw-retained, cement-retained, edentulous, bendable-implant]
 ---
 
