@@ -174,6 +174,63 @@
   }
   .footnote strong { color: #374151; }
 
+  /* ── Protection cards ── */
+  .protect-section {
+    background: #fff; border: 1px solid #e2e8f0;
+    border-radius: 12px; padding: 18px 16px; margin-top: 14px;
+  }
+  .protect-section h2 {
+    font-size: 13px; font-weight: 700; color: #0f172a; margin-bottom: 14px;
+  }
+  .protect-section h2 .sub {
+    font-size: 10px; font-weight: 400; color: #94a3b8; margin-left: 4px;
+  }
+  .protect-cards {
+    display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px;
+  }
+  @media (max-width: 640px) { .protect-cards { grid-template-columns: 1fr; } }
+  .pcard {
+    border: 1px solid #e2e8f0; border-radius: 10px;
+    padding: 14px; position: relative; overflow: hidden;
+  }
+  .pcard::before {
+    content: ''; position: absolute; top: 0; left: 0; right: 0;
+    height: 3px; border-radius: 10px 10px 0 0;
+  }
+  .pcard-lead::before  { background: #4f80ff; }
+  .pcard-room::before  { background: #22c55e; }
+  .pcard-dist::before  { background: #f59e0b; }
+  .pcard-icon { font-size: 22px; margin-bottom: 6px; }
+  .pcard h3 { font-size: 12px; font-weight: 700; color: #0f172a; margin-bottom: 8px; }
+  .pcard-verdict {
+    display: inline-block; padding: 3px 9px; border-radius: 5px;
+    font-size: 10.5px; font-weight: 700; margin-bottom: 10px;
+  }
+  .verdict-low    { background: #dcfce7; color: #166534; }
+  .verdict-high   { background: #d1fae5; color: #065f46; }
+  .verdict-med    { background: #fef3c7; color: #92400e; }
+  .pcard-rows { font-size: 10.5px; line-height: 1.6; }
+  .pcard-row { display: flex; justify-content: space-between; align-items: baseline;
+    padding: 4px 0; border-bottom: 1px solid #f1f5f9; gap: 8px; }
+  .pcard-row:last-child { border-bottom: none; }
+  .pcard-row .pr-label { color: #64748b; flex: 1; }
+  .pcard-row .pr-val   { font-weight: 600; color: #0f172a; white-space: nowrap; font-size: 11px; }
+  .pcard-row .pr-val.green { color: #16a34a; }
+  .pcard-row .pr-val.amber { color: #d97706; }
+  .pcard-note {
+    margin-top: 10px; font-size: 9.5px; color: #94a3b8; line-height: 1.55;
+    border-top: 1px solid #f1f5f9; padding-top: 8px;
+  }
+  .pcard-note strong { color: #64748b; }
+
+  /* ── distance viz ── */
+  .dist-viz { margin: 8px 0; }
+  .dist-row { display: flex; align-items: center; gap: 6px; margin-bottom: 4px; font-size: 10.5px; }
+  .dist-bar-outer { flex: 1; background: #f1f5f9; border-radius: 3px; height: 12px; }
+  .dist-bar-inner { height: 100%; border-radius: 3px; background: #f59e0b; }
+  .dist-label { width: 34px; color: #64748b; }
+  .dist-val   { width: 70px; text-align: right; font-weight: 600; color: #0f172a; font-size: 10.5px; }
+
   .context-section {
     background: #fff; border: 1px solid #e2e8f0;
     border-radius: 12px; padding: 18px 16px; margin-top: 16px;
@@ -258,6 +315,135 @@
   <div class="badge-row">
     <span class="source-tag" id="detailSource"></span>
     <span class="ext-warn" id="extWarn">★ corpus 외 참조값</span>
+  </div>
+</div>
+
+<div class="protect-section">
+  <h2>🛡 방사선 방호 수단별 효과 <span class="sub">납복 · 차폐실 · 거리 — 근거 기반</span></h2>
+  <div class="protect-cards">
+
+    <!-- 1. 납복 -->
+    <div class="pcard pcard-lead">
+      <div class="pcard-icon">🥼</div>
+      <h3>납복 (Lead Apron)</h3>
+      <div class="pcard-verdict verdict-med">직원에게 효과 제한적</div>
+      <div class="pcard-rows">
+        <div class="pcard-row">
+          <span class="pr-label">0.25 mm Pb 차폐율</span>
+          <span class="pr-val green">~90–95%</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">환자 갑상선 차폐 필요?</span>
+          <span class="pr-val amber">불필요 (AAOMR 2023)</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">파노라마 1 m 거리 산란</span>
+          <span class="pr-val green">≤ 0.60 µGy/회</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">납복 없어도 연 500회</span>
+          <span class="pr-val green">5–40 µSv/yr</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">머리·갑상선 보호 여부</span>
+          <span class="pr-val amber">납복으로 불가 (동체만)</span>
+        </div>
+      </div>
+      <div class="pcard-note">
+        <strong>결론:</strong> 납복은 동체(trunk) 산란선량을 90%+ 차단하나,
+        치과 방사선에서 직원의 실제 위험 부위(갑상선·안구)는 보호하지 못함.
+        1 m 거리 유지 시 납복 없이도 연간 피폭은 한도의 0.2% 이하.
+        환자 납복은 AAOMR 2023 기준으로 더 이상 권고되지 않음.
+        <br>출처: Gijbels 2005 · Benavides 2023
+      </div>
+    </div>
+
+    <!-- 2. 차폐실 -->
+    <div class="pcard pcard-room">
+      <div class="pcard-icon">🏠</div>
+      <h3>차폐실 (Shielded Room)</h3>
+      <div class="pcard-verdict verdict-high">효과 최대 — 30× 감소</div>
+      <div class="pcard-rows">
+        <div class="pcard-row">
+          <span class="pr-label">한국 차폐실 (Kim 2016)</span>
+          <span class="pr-val green">0.18 mSv/yr</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">개방형 클리닉 (Kabier 2025)</span>
+          <span class="pr-val amber">5.62 mSv/yr</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">차폐실 효과 (배수)</span>
+          <span class="pr-val green">약 31× 감소</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">한국 직업한도 대비</span>
+          <span class="pr-val green">0.9% (vs 28%)</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">차폐벽 기준 (일반)</span>
+          <span class="pr-val">1 mm Pb 동등</span>
+        </div>
+      </div>
+      <div class="pcard-note">
+        <strong>결론:</strong> 구조적 차폐실이 단연 가장 효과적인 방호 수단.
+        납복·거리 원칙보다 우선순위 1위.
+        차폐실만으로 직원 피폭을 자연방사선의 6% 수준으로 낮출 수 있음.
+        개방형 클리닉은 납복 착용해도 차폐실 대비 최대 30배 높은 피폭.
+        <br>출처: Kim 2016 (NDR n=658) · Kabier 2025 (TLD)
+      </div>
+    </div>
+
+    <!-- 3. 거리 -->
+    <div class="pcard pcard-dist">
+      <div class="pcard-icon">📏</div>
+      <h3>거리 (Distance Rule)</h3>
+      <div class="pcard-verdict verdict-high">역제곱법칙 — 2배 = 1/4</div>
+      <div class="dist-viz">
+        <div class="dist-row">
+          <span class="dist-label">0.5 m</span>
+          <div class="dist-bar-outer"><div class="dist-bar-inner" style="width:100%"></div></div>
+          <span class="dist-val">2.40 µGy</span>
+        </div>
+        <div class="dist-row">
+          <span class="dist-label">1.0 m</span>
+          <div class="dist-bar-outer"><div class="dist-bar-inner" style="width:25%"></div></div>
+          <span class="dist-val">0.60 µGy</span>
+        </div>
+        <div class="dist-row">
+          <span class="dist-label">1.5 m</span>
+          <div class="dist-bar-outer"><div class="dist-bar-inner" style="width:11%"></div></div>
+          <span class="dist-val">0.27 µGy</span>
+        </div>
+        <div class="dist-row">
+          <span class="dist-label">2.0 m</span>
+          <div class="dist-bar-outer"><div class="dist-bar-inner" style="width:6.25%"></div></div>
+          <span class="dist-val">0.15 µGy</span>
+        </div>
+      </div>
+      <div class="pcard-rows">
+        <div class="pcard-row">
+          <span class="pr-label">권장 최소 거리 (구내)</span>
+          <span class="pr-val green">≥ 1.5–2 m 또는 차폐벽 뒤</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">파노라마 1 m 산란 (최대)</span>
+          <span class="pr-val green">0.60 µGy/촬영</span>
+        </div>
+        <div class="pcard-row">
+          <span class="pr-label">0.5 m vs 2 m 차이</span>
+          <span class="pr-val green">16× 감소</span>
+        </div>
+      </div>
+      <div class="pcard-note">
+        <strong>결론:</strong> 역제곱법칙 적용 — 거리 2배 시 선량 1/4.
+        차폐실 없는 환경에서 가장 간단하고 효과적인 대안.
+        파노라마 촬영 시 1 m 이상 후퇴 또는 차폐벽 뒤에서 조작.
+        거리·차폐실·납복 세 가지 원칙은 순서대로 우선 적용.
+        <br>출처: Gijbels 2005 (역제곱법칙 추정값 포함)
+      </div>
+    </div>
+
   </div>
 </div>
 
