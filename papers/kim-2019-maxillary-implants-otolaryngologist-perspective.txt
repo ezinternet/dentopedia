@@ -1,0 +1,94 @@
+Title: Points to consider before the insertion of maxillary implants: the otolaryngologist's perspective
+PMID: 31886027
+PMCID: PMC6920034
+DOI: 10.5051/jpis.2019.49.6.346
+---
+INTRODUCTION
+
+Facilitated by the rapid developments made in implant technology in recent years, a large number of dental implant procedures are now performed annually around the world. However, the insertion of maxillary implants is associated with several challenges distinct from those presented by mandibular implants. In particular, maxillary implants are inserted in the upward direction, opposing gravity, and achieving stable support is difficult if the alveolar bone facing the maxillary sinus is thin. To address this problem, a sinus-lifting procedure (which may be conducted with or without bone grafting) that includes elevation of the Schneiderian membrane of the maxillary sinus is typically required prior to dental implant placement. For a sinus lift procedure, the lateral window technique or the crestal approach can be applied based on the residual bone height of the maxilla. The lateral window and crestal osteotome techniques are safe, reliable procedures used to elevate the maxillary sinus mucosa and thus allow proper positioning of the dental implant close to the maxillary sinus. These procedures may increase the success rate of maxillary dental implants, although research into safer and simpler maxillary implant procedures is ongoing.
+
+Complications associated with maxillary implants are not uncommon. Possible causes of maxillary sinusitis after dental implantation include acute and chronic sinusitis, penetration of the sinus by the implant, implant dislocation, oroantral fistula formation, infection, bone graft dislocation, foreign-body reaction, Schneiderian membrane perforation, and ostium plugging by a dislodged bone graft []. Therefore, before the dental implant is inserted, cone-beam computed tomography (CT) or panoramic radiography is performed to assess the need for a sinus lift procedure to reduce implant-related complications. Chronic sinusitis develops after implantation in approximately 5% of patients, and preoperative sinusitis is a notable cause of implant-related postoperative complications []. If imaging reveals a space-occupying lesion in the maxillary sinus, patients are typically referred to an otolaryngologist to avoid aggravated sinus pathologies after placement of the dental implant.
+
+This article reviews common maxillary sinus pathologies and suggests a management plan based on the condition of the maxillary sinus before dental implantation to reduce complications according to the otolaryngologist's perspective.
+
+PREOPERATIVE ASSESSMENT
+
+A detailed medical and dental history should be obtained from the patient. A radiological assessment and/or nasal endoscopy prior to surgery can facilitate the assessment of the likelihood of postoperative complications, including chronic sinus problems. The preoperative examination should also be used to inform patients of their prognosis and to obtain their consent for surgery.
+
+History taking
+
+The patient history should include any previous nasal trauma or surgery, nasal obstruction, or recurrent or chronic sinonasal diseases. The patient should also be asked about the presence of systemic diseases, such as untreated or incompletely managed diabetes mellitus or immunodeficiency. Any other condition that may interfere with implant integration should also be evaluated, including local diseases such as periapical disease, parodontopathies, and previous maxillary irradiation [].
+
+Radiological assessment
+
+Panoramic images improve diagnostic ability because they can be readily compared with CT findings in assessments of the destruction of the lower and posterolateral walls of the maxillary sinus. However, when visualizing soft-tissue lesions or inner wall destruction, poor resolution of panoramic photos can result in inaccurate findings []. In addition, the anterior and posterior walls are not precisely depicted in panoramic photographs, and the overlap of the inner wall of the maxillary sinus, the inferior turbinate, and the zygomatic bone complicates image interpretation. Instead, CT images should be used to assess soft-tissue lesions or the status of the inner wall of the lower maxillary sinus. The ostiomeatal unit should also be evaluated, along with the height and volume of the maxillary sinus. Therefore, it is necessary to widening the range of the cone-beam CT to include the natural ostium of the maxillary sinus, acquiring paranasal sinus CT. Magnetic resonance imaging is an important tool in cases when the nature of a space-occupying lesion of the sinus must be determined, although it is not useful for bone evaluation.
+
+Nasal endoscopy
+
+Nasal endoscopy is a widely accepted means of evaluating the middle meatus, in addition to allowing for the direct detection of maxillary sinus drainage. In maxillary implant patients, nasal endoscopy is primarily used to assess the ostiomeatal complex. This complex serves as the common channel for airflow and mucous drainage, as it connects the frontal sinus, the anterior ethmoid air cells, and the maxillary sinus to the middle meatus.
+
+Anatomical variations, such as septal deviation, paradoxical bending of the middle turbinate, concha bullosa, hypertrophy of the uncinate or ethmoid bulla, endonasal post-surgical scars, and synechiae of the ostiomeatal unit, should be noted as part of the nasal endoscopy examination. Infective/inflammatory status, including recurrent or chronic rhinosinusitis, a sinonasal neoplasm, or any other condition that impairs mucociliary drainage, should also be evaluated to reduce postoperative complications related to the implant.
+
+COMMON MAXILLARY SINUS PATHOLOGIES AND TREATMENT
+
+The common maxillary sinus pathologies that can be identified on coronal CT images of the paranasal sinus are shown in.
+
+Figure 1
+
+Common maxillary sinus pathologies as shown on coronal computed tomography images of the paranasal sinus. The normal patent maxillary sinus infundibulum (A); maxillary sinus septum (B); mucosal thickening that is less than one-third to one-half of the maxillary sinus height (C); an ovoid soft-tissue density representing a lesion that occupies more than one-third to one-half of the maxillary sinus height (D); a small soft-tissue density that is confined to the area around the teeth, but blocks the natural ostium (E); mucosal thickening that is less than one-third to one-half of the maxillary sinus height but that blocks the natural ostium (F); a soft-tissue density occupying the entire maxillary sinus and accompanied by a calcification (white spot) (G); and a heterogeneous soft-tissue density and adjacent tissue destruction (H).
+
+Mucosal thickening
+
+Patients with mucosal thickening confined to the area around the teeth can undergo maxillary implantation if they have no history of chronic upper respiratory disease or middle meatal problems. However, if the natural ostium of the maxillary sinus is blocked by mucosal edema, treatment is required prior to implantation. If imaging reveals generalized mucosal wall thickening, a CT exam should be repeated after medical therapy.
+
+Cyst or solitary polyp
+
+Patients with a small cyst or solitary polyp between 10–15 mm in the maxillary sinus (except in the adjacent natural ostium) can still receive a maxillary implant or undergo a sinus lift procedure []. However, in patients with a large cyst or polyp, these procedures may cause an upward shift of the lesion, thereby blocking the natural ostium and causing sinusitis. These patients should undergo functional endoscopic sinus surgery (FESS) before implantation or sinus elevation.
+
+Acute rhinosinusitis
+
+In patients who experience a sudden onset of 2 or more symptoms, 1 of which is nasal blockage, obstruction, congestion, or discharge (anterior/posterior nasal drip) with a duration of less than 12 weeks, acute rhinosinusitis is the likely cause []. Imaging will show an air-fluid level or total haziness and/or mucosal changes within the ostiomeatal complex, the sinuses, or both. Endoscopic signs may include a mucopurulent discharge from the middle meatus, a middle meatal mucosal obstruction, and/or nasal polyps [].
+
+Acute rhinosinusitis is a very common disease that is mainly viral in origin. Only 0.5%–2% of cases of viral rhinosinusitis develop into acute bacterial rhinosinusitis []. Viral sinusitis is diagnosed if the symptoms of acute sinusitis persist for 10 days without abating []. In most cases of acute viral rhinosinusitis, symptoms peak on the third day and disappear within 10–14 days. A mucopurulent nasal discharge does not necessarily imply bacterial infection. Rather, a colored nasal discharge is evidence of inflammation associated with the presence of neutrophils, which is not specific to bacterial infection []. Treatment of acute viral rhinosinusitis is aimed at symptom relief, and antibiotics are not recommended []. Instead, painkillers, anti-inflammatory drugs, decongestants, antihistamines, mucolytics, local/systemic steroids, or nasal saline irrigation can be used depending on the symptoms exhibited by the patient [].
+
+The main pathogens involved in acute bacterial rhinosinusitis are(20%–45%),(20%–43%),(14%–28%), and(8%–11%) []. The use of amoxicillin or amoxicillin-clavulanate for 5–10 days is recommended as the primary form of antibiotic treatment []. In patients living in areas of high amoxicillin resistance, high-dose amoxicillin-clavulanate (2 g orally twice daily or 90 mg/kg orally twice daily) therapy is recommended []. Long-term use (>10 days of treatment) should be avoided, and short-term treatment (5 days) usually suffices in patients with mild symptoms []. A third-generation cephalosporin (cefixime or cefpodoxime) or a clindamycin complex can be prescribed as a secondary antibiotic treatment in patients with non-type I penicillin allergy or in regions with high rates of penicillinase (+)[]. Healing may take weeks or, in some cases, even months.
+
+Chronic rhinosinusitis
+
+Rhinosinusitis symptoms persisting for ≥12 weeks are indicative of chronic rhinosinusitis []. Unilateral sinus involvement suggests fungal sinusitis or odontogenic sinusitis. Fungal rhinosinusitis is also strongly suggested by the presence of mottled, hyperdense foci (calcifications) on the CT images []. A simple fungal ball or solitary cyst or polyp will typically heal within 1 month after FESS []. The large majority (90%) of American Rhinological Society members treat chronic rhinosinusitis by prescribing antibiotics [], either penicillins, cephalosporins, fluoroquinolones, or aminoglycosides. Intranasal corticosteroids are usually effective in treating the symptoms of chronic rhinosinusitis []; however, if they are not, then short-term oral corticosteroid administration is recommended. Nasal saline irrigation is frequently used as an aid in mucous membrane regeneration, as it helps to clear mucus; promotes mucociliary movement; removes various antigenic substances, inflammatory cells, and biofilms to directly protect the mucous membranes of the nasal cavity and sinus; and removes clots in the nasal cavity after surgery []. However, chronic inflammatory or polypoid mucosa or multiple polyps may take 3–6 months to resolve completely [].
+
+Paranasal malignancy
+
+Radiological evidence of tissue and bone destruction should raise strong suspicion of a malignant tumor. The indicated sites should be biopsied, and the focus should shift to treatment of the tumor if one is found. In these patients, implants should not be performed.
+
+presents several representative cases. In the case shown in, dental implantation and/or sinus elevation can be performed without further evaluation, whereas in the cases depicted in, implantation should be preceded by medical treatment, surgery, or both. In the case shown in, further assessment, including magnetic resonance imaging and tissue biopsy, is recommended. If the lesion is found to be malignant, it should be staged.
+
+The role of FESS
+
+In patients with sinus infection and inflammation caused by rhinosinusitis, medical treatment has a limited ability to address the underlying factors. Thus, FESS is recommended in patients with drug-resistant as well as in patients with nasal polyposis or benign or malignant tumors. In fact, FESS is currently the gold standard for restoring maxillary sinus clearance and ventilation, and it can also resolve many sinonasal conditions. Moreover, FESS can play an important role in preventing or reducing the complication rate in patients at high risk of post-implant complications. Images of the endoscopic anatomy of the nasal cavity as viewed during a FESS procedure are presented in.
+
+Figure 2
+
+A case of functional endoscopic sinus surgery in a patient with left maxillary sinusitis. The normal endoscopic findings of the right nasal cavity (A) and the natural ostium of the right maxillary sinus probed with a maxillary ostium seeker (B). The left nasal cavity exhibits a nasal septal deviation to the left side (C), and the polypoid uncinate process of the ethmoid is shown blocking the natural ostium of the left maxillary sinus (D). The endoscopic finding after cutting the lateral side of the uncinate process of the ethmoid; a purulent discharge was observed (E). The endoscopic finding after widening of the left maxillary sinus (F).
+
+A 0° endoscope was used in. A 70° endoscope was used in.
+
+IT: inferior turbinate, UC: uncinate process of the ethmoid, BE: bulla ethmoidalis, MT: middle turbinate.
+
+DISCUSSION
+
+The presence of preoperative sinusitis significantly influences the development of postoperative sinusitis []. However, not all soft-tissue densities in the maxillary sinus that are visible on CT indicate sinusitis. Among the incidental maxillary sinus findings that can appear on CT, mucosal thickening and a solitary cyst or polyp-like lesion are the most common. Mucosal thickening is detected in 23.7%–28.2%, cyst or solitary polyp in 8.9%–19.4%, and sinusitis in 3.6%–6.5% of patients undergoing CT imaging of the maxillary sinus []. Therefore, many patients with an incidentally discovered maxillary sinus lesion can successfully receive an implant, and in many cases, their sinusitis improves after medication and surgery. However, before proceeding with the implant, it is important to compare the height of the mucosal thickening, cyst, or solitary polyp with the entire height of the maxillary sinus. Doing so can prevent a situation in which the raised Schneiderian membrane blocks the natural ostium during sinus floor elevation or dental implantation, which can result in the development of sinusitis. As visualized by radiological assessment, most lesions are well demarcated and are either ovoid or dome-shaped. Previous reports have suggested that patients with mucosal thickening or with a cyst or solitary polyp that is less than one-third to one-half of the maxillary sinus height can still receive a maxillary implant []. However, little clinical evidence exists to support these proposals. If the maxillary sinus is relatively less pneumatized, then the natural ostium will be easily blocked after sinus elevation or implantation. Therefore, as noted above, the relationship between the location of the dental implant and the general anatomy of the maxillary sinus from the sinus floor to the natural ostium should be evaluated. However, to clarify these issues, more clinical data should be obtained and analyzed.
+
+The evaluation and management protocol based on CT findings is presented in.
+
+In summary, a carefully obtained patient history and an assessment of the ostiomeatal complex using nasal endoscopy are crucial for reducing postoperative implant complications in maxillary implant patients. FESS is typically effective at resolving drug-resistant chronic rhinosinusitis and at preventing complications in patients at high risk of post-implant complications, such as those with anatomical variations of the nasal cavity and endonasal post-surgical scars or deformations.
+
+Figure 3
+
+CT evaluation and patient management protocol.
+
+CT: computed tomography, MRI: magnetic resonance imaging, ESS: endoscopic sinus surgery.
+
+CONCLUSION
+
+Patients scheduled for dental implantation should first undergo an assessment of the general anatomy of the maxillary sinus. This can be achieved by widening the range of the CT examination to include the natural ostium of the maxillary sinus. A carefully obtained patient history and a nasal endoscopy examination of the ostiomeatal complex are crucial for reducing the risk of postoperative implant complications. Medical treatment can resolve many pathological conditions of the maxillary sinus. Patients with drug-resistant chronic rhinosinusitis and those with sinonasal anatomical conditions associated with a high risk of implant-related complications will likely benefit from FESS.
