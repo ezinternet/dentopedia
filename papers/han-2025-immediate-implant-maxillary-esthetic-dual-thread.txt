@@ -1,0 +1,85 @@
+A prospective clinical study of immediate implant placement in the maxillary esthetic zone
+Han HS, Kim S, Kim H, Yi Y, Cho YD
+Journal of Periodontal & Implant Science (J Periodontal Implant Sci) 2025
+DOI: 10.5051/jpis.2404240212
+PMID: 40350771 | PMCID: PMC12599444
+According to PubMed. DOI link: https://doi.org/10.5051/jpis.2404240212
+
+=== ABSTRACT ===
+
+Purpose
+Immediate implant placement (IIP) offers several advantages, including minimizing hard and soft tissue deformation, reducing implant time and cost, and rapidly restoring tooth function. However, IIP is technically challenging due to the need to secure initial stability and limit functional loading during healing. Therefore, this study aimed to evaluate the clinical outcomes of a bone-level implant featuring a dual thread design—an upper U-shaped thread and a lower V-shaped thread—with an 11° internal hexagonal connection in IIP within the maxillary esthetic zone.
+
+Methods
+This study included 20 patients. Implants were inserted immediately after tooth extraction. Soft tissue changes were evaluated before tooth extraction (V0), after IIP (V1), at prosthesis delivery (V5), at a 3-month follow-up after prosthesis delivery (V6), and at a 1-year follow-up (V8). Bone dimensional changes were assessed at V1 and V8 using cone beam computed tomography, and the marginal bone level (MBL) was evaluated at V6 and V8 using 2-dimensional radiography.
+
+Results
+Of the 20 patients, 3 dropped out due to osseointegration failure during the follow-up period. Although the horizontal dimensions of the soft and hard tissues decreased slightly, the gingival margin and MBL remained well maintained throughout the follow-up.
+
+Conclusions
+Within this limited dataset, the lower V-shaped thread enabled favorable initial stability in IIP, and the esthetic outcomes were positive—with minimal gingival recession and marginal bone loss. Long-term follow-up is required to fully assess the impact of thread design and connection on esthetics.
+
+Trial Registration: Korean Clinical Research Information Service KCT0008231
+
+=== FULL TEXT ===
+
+INTRODUCTION
+
+Immediate implant placement (IIP) offers several advantages: it minimizes the deformation of both hard and soft tissues, facilitates accurate implant positioning for the final restoration, reduces treatment time and cost, and rapidly restores tooth function. The survival rates for immediate and delayed implantations have been reported as 94.6% and 98.3%, respectively. Other studies have also shown high implant survival rates over 1–5 years of follow-up. In addition, IIP in the maxillary esthetic zone has demonstrated favorable outcomes for both hard and soft tissues.
+
+Despite these benefits, IIP remains technically challenging due to the need to achieve initial stability and restrict functional loading during healing. Primary stability is largely attained by anchoring the fixture in the apical pristine bone. Therefore, several studies have highlighted the importance of thread design in enhancing bone-to-implant surface contact, which can improve initial stability. Given the esthetic importance of the maxillary anterior region, careful attention to these factors during IIP is essential.
+
+Many implant fixture design features—including thread depth, width, pitch, and screw connection contour—affect biomechanical performance after placement. The IU implant (Warantec Co., Ltd., Seongnam, Korea) used in this study is a bone-level internal implant with several distinctive characteristics. It features a sandblasted, large grit, acid-etched (SLA) surface and employs 2 types of threads: an upper U-shaped thread and a lower V-shaped thread, along with an 11° internal hexagonal connection.
+
+According to the manufacturer, the IU implant reduces cortical bone resorption by positioning the stress point 3.0 mm below the bone level through a combined straight and tapered design. In addition, the upper U-shaped thread facilitates easy fixation and reduces maximum von Mises stress in the cortical bone, while the lower V-shaped thread—with its narrow width—increases fixation force and simplifies implant installation. The SLA surface enhances bone-to-implant contact and stimulates osseointegration by promoting platelet adhesion and osteoblast migration and differentiation.
+
+An 11° internal hexagonal connection effectively minimizes and distributes stress on the cortical bone, thereby preventing early bone resorption. Platform switching, which occurs when an abutment with a smaller diameter than the implant platform is used, increases the volume of soft tissue around the implant platform and improves esthetic outcomes. Moreover, platform switching can help prevent crestal bone loss, a key factor for long-term implant success and stability.
+
+The primary objective of this study was to evaluate the clinical outcomes—both soft and hard tissue aspects—of IU implants used in IIP within the maxillary esthetic zone.
+
+MATERIALS AND METHODS
+
+Study design: Conducted at Seoul National University Dental Hospital, Korea, between November 2021 and June 2024. Approved by IRB of SNU Dental Hospital, registered with Korean Clinical Research Information Service (KCT0008231).
+
+Study population: Sample size of 20 determined by lower limit of 95% 1-sided CI for changes in alveolar bone volume, type 1 error 5%, test power 70%. Patients aged 19–75 with a single anterior tooth requiring extraction and implant placement. Extraction socket required ≥2 intact walls, ≥20 remaining teeth, plaque and bleeding indices <20%. Exclusion: significant systemic disease, no posterior occlusion, smokers. Single experimental group ("tooth extraction and IIP"); no randomization/blinding. Prospective design.
+
+Study procedure: After patient registration (V0), IIP performed (V1). After extraction, socket cleaned and irrigated. IU implant placed in optimal 3D orientation for primary stability. If ISQ >50, 1-stage surgery; if ISQ ≤50 or GBR indicated, 2-stage surgery. Labial defect repaired using bovine bone mineral (Cerabone, botiss biomaterials GmbH, Zossen, Germany); gap between implant and socket wall filled with bone substitute. Absorbable collagen membrane (Jason membrane, botiss) placed over grafted area. Stitches removed 10 days post-IIP (V2); healing evaluated at 40 days (V3), 70 days (V4). Prosthesis delivered 90 days after IIP (V5); recalls at 180 days (V6), 270 days (V7), final follow-up 450 days (V8). Surgeries by 2 periodontists (S.K., Y.D.C.) and 1 prosthodontist (Y.Y.).
+
+Implant success/survival: Based on ICOI Pisa Consensus Conference. Success required absence of pain/tenderness, no mobility, <2 mm radiographic bone loss from initial surgery, no exudate.
+
+3D digital linear analysis: Soft tissue assessed using optical scanner (Medit). STL superimposed at V0, V1, V5, V8 using gingival margins of adjacent teeth. Horizontal alveolar ridge width (HW) measured at 1 mm (HW-1), 3 mm (HW-3), 5 mm (HW-5) below reference line. Midfacial recession measured at V0, V1, V6, V8.
+
+CBCT analysis: Performed at V1 and V8, superimposed via OnDemand software. Buccal bone thickness and buccolingual width measured at implant shoulder and 1, 3, 5 mm below.
+
+2D plane radiographic analysis: MBL compared at V6 and V8, mesial and distal aspects, calibrated using known implant length.
+
+Stability: ISQ assessed at V2, V3, V4 using Osstell resonance frequency analyzer.
+
+RESULTS
+
+Demographics: 20 patients underwent IIP. Early osseointegration failure in 3 patients; 17 remained for analysis. Success group (n=17): age 59.4±12.8, M/F 5/12, extraction reason bone loss/fracture 12/5, diameter Ф3.6/Ф4.0 mm = 6/11, length 8.5/10/11.5/13 mm = 5/9/0/3. Failure group (n=3): age 66.7±3.79, M/F 1/2, bone loss 3/0, diameter 1/2, length 2/0/1/0.
+
+Soft tissue (3D intraoral scan): Significant reduction in HW-1 at V5 (7.43±1.33) and V8 (7.76±1.25) vs V0 (8.68±1.45). HW-3 significant at V8 (9.74±1.52 vs V0 10.62±1.57). HW-5: V0 12.24, V1 14.69, V5 11.94, V8 11.23. Midfacial recession: V0 1.86±0.65, V1 1.82, V6 1.25±0.74, V8 1.21±0.62 — recession DECREASED (improved) at V6 and V8 vs V0 (significant). No significant midfacial gingival change otherwise; trend toward decreased distance between implant mucosa zenith and adjacent-teeth zenith line.
+
+CBCT horizontal ridge change V1→V8 (all significant):
+Buccal bone thickness: 1 mm: 2.14→1.71 (−0.43); 3 mm: 1.98→1.63 (−0.34); 5 mm: 1.94→1.47 (−0.48).
+Buccolingual width: 1 mm: 8.11→7.34 (−0.76); 3 mm: 8.30→7.67 (−0.63); 5 mm: 8.90→8.12 (−0.78).
+Largest buccal bone thickness change at 5 mm (0.48 mm); largest buccolingual width change at 5 mm (0.78 mm).
+
+MBL (2D radiography) V6→V8: Mesial −2.13±0.34 → −1.56±0.39 (p=0.053, NS); Distal −1.37±0.50 → −1.78±0.40 (p=0.58, NS). (− means bone height above implant shoulder reference.)
+
+ISQ: Buccal V2 60.0±6.4, V3 65.0±10.0, V4 74.0±7.9. Palatal V2 59.4±6.8, V3 64.9±9.87, V4 76.4±10.9. Average ISQ exceeded 70 at V4 (before prosthesis delivery).
+
+Safety: No AEs other than 3 implant removals due to early osseointegration failure. SAE 0, device deficiencies 0.
+
+DISCUSSION
+
+Implant success rate 85% (early osseointegration failures before prosthesis delivery); survival rate after functional loading 100% during follow-up. Aligns with prior 99% survival for IU implants over 6 years. Failures multifactorial: one patient with severe caries + advanced periodontal disease (possibly stage 4 grade B) + osteoporosis, failed within 1 month despite 30 Ncm insertion torque; one failed 2 months post-placement (lateral periapical lesion); one failed 3 months (narrow ridge, close to incisive canal, lateral periapical lesion).
+
+Soft tissue: significant HW-1 decrease at V5/V8, HW-3 at V8; magnitude smaller than 1.3 mm reported elsewhere. No significant midfacial gingival difference; trend toward decreased distance, possibly attributable to harmonious interaction between soft tissue and 11° internal hexagonal connection.
+
+CBCT: significant buccolingual width and buccal bone thickness change; consistent with ~0.5 mm width reduction reported after 6 months IIP with bovine-bone gap filling. IU implant platform-switching and internal hex intended to minimize alveolar bone loss. MBL decreased but remained above implant shoulder reference.
+
+Limitations: short follow-up, small sample size, no control group, no stratification by bone defect morphology (2/3/4-wall).
+
+Conclusion: IU implant dual thread design (upper U-shaped + lower V-shaped) facilitated initial stability; 11° internal hexagonal connection minimized marginal bone resorption. 3D intraoral scanning and CBCT demonstrated favorable soft and hard tissue outcomes with minimal gingival recession and stable MBL.
