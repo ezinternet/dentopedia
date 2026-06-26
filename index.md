@@ -2813,6 +2813,7 @@ tags: []
 - [[dental-materials/zirconia/leitao-2022-monolithic-zirconia-single-crown-survival-sr]] — Leitão 2022 SR+MA (9 studies): monolithic zirconia CAD/CAM single crowns survival + biological/technical complications; JPR [sr+ma]
 - [[dental-materials/zirconia/koenig-2021-ltd-monolithic-zirconia-prospective]] — Koenig 2021 prospective: first clinical LTD documentation in 3Y-TZP prostheses — begins at 6 months, glaze does not protect; Dental Materials [prospective]
 - [[dental-materials/zirconia/koenig-2024-ltd-monolithic-zirconia-5year-prospective]] — Koenig 2024 prospective 5yr: LTD continues at 5 years; grain pull-out → nanoparticle release concern; extends Koenig 2021; Dental Materials [prospective]
+- [[dental-materials/zirconia/le-2023-three-types-all-ceramic-posterior-3year-rct]] — Le 2023 multicenter RCT (n=71, 3y): high-translucency ZC vs ZC+partial veneer vs LDS posterior crowns — 98.8% survival, zero fractures in all arms; IJP [rct]
 - [[dental-materials/alqarawi-2022-intraoral-repair-fractured-ceramics-review]] — Alqarawi 2022 narrative review: intraoral ceramic fracture repair — sandblasting + silane + composite resin; F1000Research [narrative-review]
 
 ### overviews — bone-regeneration + dental-materials (added 2026-06-16)
