@@ -2444,6 +2444,10 @@ tags: []
 - [[implants/katsoulis-2017-misfit-implant-prosthesis-clinical-outcomes-sr]] — Katsoulis 2017 · sr (FOR 합의, 10편): 임플란트 보철 미스피트 → 나사 합병증 연관; 골 소실 영향 불명; 최대 허용 미스피트 한계값 미정
 - [[implants/couso-queiruga-2025-misfit-implant-prosthesis-bone-loss]] — Couso-Queiruga 2025 · retrospective (n=505, 10.6yr, Bern): 갭 ≥0.1 mm → DIB 유의 증가(3.45 vs 3.22 mm); 0.1 mm당 +0.08 mm 골소실; 흡연·치주병력 독립 위험인자
 - [[implants/jokstad-2014-3d-misfit-implant-prosthesis-long-term]] — Jokstad 2014 · retrospective (n=30, 평균 19yr): 미스피트 평균 150 μm; 골소실 상관 약함(R²=0.04); 나사 합병증군 미스피트 유의하게 높음(169 vs 134 μm, P=.005)
+- [[implants/tarnow-2000-inter-implant-distance-crestal-bone-height]] — Tarnow 2000 · retrospective (n=36): IID ≤3 mm → 치조정 골소실 1.04 mm vs >3 mm → 0.45 mm; 측방 골소실 ~1.4 mm/측; 임플란트 간격 3 mm 룰의 원조
+- [[implants/morales-schwarz-2025-1mm-interimplant-distance-10year-case]] — Morales Schwarz 2025 · case-report (IID=1 mm, 10yr, 플랫폼 스위칭+내부 원추형): 치조정 IAC보다 1.40 mm 상방 골 유지 — 현대 임플란트 디자인에서 3 mm 룰 재고 필요
+- [[implants/joshi-2025-implant-tooth-proximity-sr-ma]] — Joshi 2025 · sr+ma (11편, 1,727명): <1.5 mm 임플란트-치근 → 치수 손상 20–25%; 임플란트 생존 >95% 유지; 안전거리 ≥1.5 mm
+- [[implants/ng-2018-implant-tooth-proximity-bone-loss]] — Ng 2018 · retrospective (n=195, 37.8개월): BL 임플란트 <1 mm 근접 → BOP↑ 골소실↑; TL에서는 영향 없음
 - [[implants/soft-tissue/thoma-2021-soft-tissue-management-implants-eao-consensus]] — Thoma 2021 · consensus (6th EAO): 심미부 연조직 증대가 즉시·지연 식립 모두 중협측 퇴축 감소, 자가이식이 대체재보다 일관되나 유의하지 않게 우세
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — 즉시식립 이식 재료 선택 종합: gap 골대체재(협측 흡수↓·심미↑·합병증↑)와 연조직(SCTG 최우수>이종 콜라겐 기질>치유지대주 단독 불충분) 두 축 분리
 - [[overviews/implant-placement-timing-immediate-early-delayed]] — 식립 시점(ITI Type 1–4) 종합: 생존율은 시점 무관, 즉시식립에 심미·생물학적 비용 집중(Tonetti RCT), 조기식립이 위험 균형 기본값(Bassir SR+MA)
