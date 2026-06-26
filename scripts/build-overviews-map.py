@@ -32,12 +32,24 @@ SITE_BASE = "/llm-wiki"
 # 도메인 정의: (라벨, [stem 키워드...]). 위에서부터 첫 매치가 그 도메인.
 # 순서 = 카드 표시 순서(임상 흐름). 키워드는 stem 부분일치.
 DOMAINS = [
-    ("임플란트 · 안정성 · 표면", [
-        "isq", "implant-surface", "plasma-surface", "photofunctionalization", "implant-design", "implant-length",
-        "implant-loading", "implant-occlusion", "implants-", "narrow-diameter",
-        "tissue-level", "zirconia-implant", "osseodensification", "versah",
-        "robotic-vs-navigation", "bone-quality-implant",
-        "implant-failure", "implant-macrogeometry", "macrogeometry", "osseointegration", "vitamin-d"]),
+    # ── 임플란트: 단일 메가카드(21편)를 진료 하위분류 5장으로 분할 ──
+    # classify() 는 위에서부터 첫 매치를 반환하므로, 더 구체적인 임플란트 카드를
+    # 즉시식립/연조직 카드보다 위에 두되, 키워드는 'implants-'(복수+하이픈)·
+    # 'implant-surface' 처럼 specific 형태만 써서 immediate-implant/peri-implant 를
+    # 가로채지 않게 한다.
+    ("임플란트 · 1차안정성 · ISQ · 부하", [
+        "isq", "implant-loading"]),
+    ("임플란트 · 표면처리 · 골유착", [
+        "implant-surface", "plasma-surface", "photofunctionalization",
+        "osseointegration", "vitamin-d"]),
+    ("임플란트 · 디자인 · 매크로지오메트리 · 재료", [
+        "implant-design", "implant-macrogeometry", "macrogeometry", "implant-length",
+        "narrow-diameter", "tissue-level", "zirconia-implant"]),
+    ("임플란트 · 식립술기 · 골밀도화 · 내비게이션", [
+        "osseodensification", "versah", "robotic-vs-navigation", "navigation"]),
+    ("임플란트 · 골질 · 실패위험 · 교합", [
+        "bone-quality-implant", "implant-failure", "implant-occlusion",
+        "implants-clinical", "implants-"]),
     ("즉시식립 · 타이밍", [
         "immediate-implant", "placement-timing", "socket-shield", "type-1a", "socket-iip"]),
     ("임플란트주위 연조직", [
