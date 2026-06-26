@@ -28,6 +28,7 @@ tags: []
 - [[implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma]] — Canullo 2020 · sr+ma · 티타늄 지대주 표면개질 SR+MA(10편/6 pooled): 단기 연조직 지표(PI/BoP/PD) 차이 없음, 장기는 상충 (DOI 10.1007/s00784-020-03210-x)
 - [[implants/mourao-2025-tapered-vs-cylindrical-implants-early-healing-rct]] — Mourão 2025 · rct · EBD critical summary: tapered vs cylindrical 임플란트 초기치유 RCT 평가 — tapered가 삽입토크 높고 cylindrical이 6주 ISQ/IST 높음, 술식 > 매크로지오메트리 (DOI 10.1038/s41432-025-01202-y)
 - [[implants/seong-2016-external-internal-implant-connection-system]] — Narrative review (KDA 2016): external hexagon vs internal(Morse taper) 연결부 biomechanics, microgap, platform switching, 보철 선택 가이드
+- [[implants/kim-2022-abutment-connection-mbl-survival]] — Kim 2022 · retrospective · 5년 코호트(374개, 강릉원주대): 외부 vs 내부연결 생존율 동등(93.3% vs 90.7%); 1년 MBL 외부>내부(1.23 vs 0.72mm); SCRP 사용이 MBL 감소와 유의하게 연관(p=0.027, JPIS)
 - [[implants/vetromilla-2021-short-standard-implants-sinus-umbrella]] — Vetromilla 2021 (umbrella, 7 SR/66편): short vs standard+SFE; 생존 동등(RR 1.08), short가 MBL·biologic 우위, 단 AMSTAR-2 품질 critically-low (2021)
 - [[implants/xu-2020-short-standard-single-crown-posterior]] — Xu 2020 (SR+MA, 5 RCT): 구치부 단일크라운 short(≤6mm); 단기 생존 동등·장기 열위(RR 0.94, p=.01), MBL 무차 (2020)
 - [[implants/alenezi-2025-short-long-implants-sinus-floor-elevation]] — Alenezi 2025 (SR+MA, 7 RCT/393pt): short(<8mm) vs long+SFE 위축 상악; MBL −0.26mm·biologic OR 0.39 short 우위, 생존 동등 (2025)
@@ -820,6 +821,8 @@ tags: []
 - [[prosthetic-materials/vinhas-2022-preload-loss-implant-abutment-connection-designs]] — in-vitro RTV(180 Klockner, 4연결): 연결 디자인은 preload 유지에 영향 없음; cyclic loading은 모든 연결에서 RTV 감소; 다회 재조임>단회 → 식립 수분 후 retighten 권고 (2022)
 - [[prosthetic-materials/lee-2025-abutment-screw-design-torque-loss-fatigue]] — in-vitro 피로(Osstem 50개): KSIII는 전 torque에서 토크손실 <25% vs TSIII 36.5–51.8%(~2.5–3.0배); ~35 Ncm이 가장 안정적 preload (2025)
 - [[prosthetic-materials/khurshid-2025-screw-vs-cement-crown-complications]] — 전향적(100명, 12mo): 나사 유지형 풀림 18% vs 시멘트 4%; 변연 간격·시멘트 용해는 시멘트형↑ — 합병증 프로파일 반대 방향
+- [[prosthetic-materials/park-2022-scrp-vs-crp-upper-premolar]] — Park 2022 · retrospective · CBCT 가상 식립(47명, 58개): 상악 제1소구치 SCRP 가능 52%·제2소구치 78.8%; RA(보철축-치조골각 차)가 CRP 선택 독립 예측인자(OR=1.885)
+- [[prosthetic-materials/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — Kim 2023 · rct · 다기관 전향적 RCT(64임플란트, 12개월, 부산대+연세대): BSRP vs SCRP 생존율 100% 동등·MBL 차이 없음; BSRP 나사 풀림↑·SCRP 나사 파절↑
 - [[prosthetic-materials/hamed-2020-screw-vs-cement-implant-sr]] — SR(12편): 나사 vs 시멘트 유지형 생존율 동등; 생물학적 합병증 시멘트형↑, 기계적 합병증 나사형↑; 재진입성 나사형 우수
 - [[prosthetic-materials/tomar-2025-cement-vs-screw-zirconia-crown-sr-ma]] — SR+MA(7편, 334개 지르코니아): 나사형 6개월 MBL 유의하게 낮음(SMD -0.63, p=0.002); 장기 동등; 합병증 46% 감소(RR 0.54)
 - [[prosthetic-materials/hjerppe-2025-minimally-invasive-glassceramic-fullmouth-12year]] — 전향적코호트(n=20, 439 수복물, 최대 12.4년): 5년 생존율 96.6%(수복물)/86.4%(환자); 리튬디실리케이트 79.7%; 환자만족 심미 9.5/기능 9.3
