@@ -55,4 +55,4 @@ This is the most current (2025) head-to-head synthesis of the two delivery modes
 - [[tooth-whitening/terra-2025-at-home-bleaching-concentration-tooth-sensitivity]] — extends the sensitivity finding by ranking at-home concentrations (higher CP/HP → more sensitivity).
 - [[tooth-whitening/de-oliveira-2024-otc-bleaching-color-adverse-effects]] — parallel NMA for the over-the-counter delivery route.
 - [[tooth-whitening/frank-2021-internal-bleaching-agents-efficacy]] — counterpart for non-vital (internal) bleaching.
-- [[overviews/dentin-hypersensitivity-mechanism-diagnosis-treatment-synthesis]] — bleaching sensitivity shares the hydrodynamic mechanism and management options.
+- [[overviews/dentin-hypersensitivity-overview]] — bleaching sensitivity shares the hydrodynamic mechanism and management options.
