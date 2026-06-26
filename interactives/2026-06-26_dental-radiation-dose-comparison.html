@@ -173,6 +173,42 @@
     padding-top: 10px; border-top: 1px solid #e2e8f0;
   }
   .footnote strong { color: #374151; }
+
+  .context-section {
+    background: #fff; border: 1px solid #e2e8f0;
+    border-radius: 12px; padding: 18px 16px; margin-top: 16px;
+  }
+  .context-section h2 {
+    font-size: 13px; font-weight: 700; color: #0f172a;
+    margin-bottom: 12px; display: flex; align-items: center; gap: 6px;
+  }
+  .context-section h2 .sub {
+    font-size: 10px; font-weight: 400; color: #94a3b8; margin-left: 2px;
+  }
+  .ctx-table { width: 100%; border-collapse: collapse; font-size: 11px; }
+  .ctx-table th {
+    text-align: left; font-size: 9.5px; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.06em;
+    color: #94a3b8; border-bottom: 1.5px solid #e2e8f0;
+    padding: 0 8px 6px;
+  }
+  .ctx-table td {
+    padding: 7px 8px; border-bottom: 1px solid #f1f5f9;
+    vertical-align: middle; line-height: 1.45;
+  }
+  .ctx-table tr:last-child td { border-bottom: none; }
+  .ctx-table .col-label { color: #374151; font-weight: 500; }
+  .ctx-table .col-dose  { font-variant-numeric: tabular-nums; font-weight: 600; color: #0f172a; white-space: nowrap; }
+  .ctx-table .col-pct   { color: #64748b; font-size: 10px; white-space: nowrap; }
+  .ctx-table .col-src   { color: #94a3b8; font-size: 9.5px; }
+  .ctx-chip {
+    display: inline-block; padding: 2px 7px; border-radius: 4px;
+    font-size: 9.5px; font-weight: 600; margin-right: 4px;
+  }
+  .chip-good  { background: #dcfce7; color: #166534; }
+  .chip-warn  { background: #fef3c7; color: #92400e; }
+  .chip-limit { background: #fee2e2; color: #991b1b; }
+  .chip-ref   { background: #f1f5f9; color: #64748b; }
 </style>
 </head>
 <body>
@@ -223,6 +259,85 @@
     <span class="source-tag" id="detailSource"></span>
     <span class="ext-warn" id="extWarn">★ corpus 외 참조값</span>
   </div>
+</div>
+
+<div class="context-section">
+  <h2>👷 직원 피폭량 비교 맥락 <span class="sub">Occupational Dose Context — Kim 2016 · Kabier 2025 · Gijbels 2005</span></h2>
+  <table class="ctx-table">
+    <thead>
+      <tr>
+        <th style="width:34%">출처 / 상황</th>
+        <th style="width:18%">연간 선량</th>
+        <th style="width:16%">직업한도 대비</th>
+        <th style="width:16%">자연방사선 대비</th>
+        <th>출처</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-ref">기준</span>전 세계 자연방사선 평균</td>
+        <td class="col-dose">2,400 µSv/yr</td>
+        <td class="col-pct">12%</td>
+        <td class="col-pct">1.0×</td>
+        <td class="col-src">UNSCEAR 2008</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-ref">기준</span>한국 자연방사선 (라돈 포함)</td>
+        <td class="col-dose">3,100 µSv/yr</td>
+        <td class="col-pct">15.5%</td>
+        <td class="col-pct">1.3×</td>
+        <td class="col-src">Lee &amp; Badal 2021</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-good">◎</span>한국 치과의사 — 남성 (차폐실)</td>
+        <td class="col-dose">180 µSv/yr</td>
+        <td class="col-pct">0.9%</td>
+        <td class="col-pct">0.058×</td>
+        <td class="col-src">Kim 2016 (NDR, n=658)</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-good">◎</span>한국 치과의사 — 여성 (차폐실)</td>
+        <td class="col-dose">130 µSv/yr</td>
+        <td class="col-pct">0.65%</td>
+        <td class="col-pct">0.042×</td>
+        <td class="col-src">Kim 2016 (NDR, n=658)</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-good">◎</span>파노라마 술자 (1 m, 500회/yr)</td>
+        <td class="col-dose">5–40 µSv/yr</td>
+        <td class="col-pct">&lt;0.2%</td>
+        <td class="col-pct">0.002–0.013×</td>
+        <td class="col-src">Gijbels 2005 (팬텀 이온전리함)</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-warn">△</span>개방형 클리닉 치과의사 (차폐실 無)</td>
+        <td class="col-dose">5,623 µSv/yr</td>
+        <td class="col-pct">28%</td>
+        <td class="col-pct">1.8×</td>
+        <td class="col-src">Kabier 2025 (TLD 납복 위, 이라크)</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-warn">△</span>개방형 클리닉 조무사 (차폐실 無)</td>
+        <td class="col-dose">5,279 µSv/yr</td>
+        <td class="col-pct">26%</td>
+        <td class="col-pct">1.7×</td>
+        <td class="col-src">Kabier 2025 (TLD 납복 위, 이라크)</td>
+      </tr>
+      <tr>
+        <td class="col-label"><span class="ctx-chip chip-limit">한도</span>직업 피폭 한도 (ICRP)</td>
+        <td class="col-dose">20,000 µSv/yr</td>
+        <td class="col-pct">100%</td>
+        <td class="col-pct">6.5×</td>
+        <td class="col-src">ICRP Publication 103</td>
+      </tr>
+    </tbody>
+  </table>
+  <p style="margin-top:10px;font-size:10px;color:#94a3b8;line-height:1.6">
+    <strong style="color:#64748b">핵심:</strong>
+    차폐실이 있는 한국 치과의사의 연간 피폭량(0.18 mSv)은 자연방사선의 <strong style="color:#374151">6%</strong>에 불과.
+    차폐실 없는 개방형 클리닉(5.6 mSv)은 약 <strong style="color:#374151">30배</strong> 높으나 여전히 직업한도 이내.
+    파노라마 1 m 거리 산란선량은 연간 500회 시 최대 40 µSv — 납복 없이도 한도의 <strong style="color:#374151">0.2%</strong>.
+  </p>
 </div>
 
 <div class="footnote">
