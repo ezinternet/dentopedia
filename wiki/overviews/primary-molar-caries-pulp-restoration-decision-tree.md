@@ -15,6 +15,10 @@ relations:
     target: chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma
   - type: extends
     target: aapd-2024-vital-pulp-therapy-primary-teeth-guideline
+  - type: extends
+    target: schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma
+  - type: extends
+    target: banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review
 ---
 
 ## 한국어 핵심요약
@@ -22,6 +26,7 @@ relations:
 > [!summary] 한국어 핵심요약
 > - 핵심: 우식이 있는 유구치(carious primary molar) 한 개를 만났을 때 **① 치수 진단 → ② 치수 처치 → ③ 수복** 의 3단 결정을 위키 11편으로 종합한 의사결정 지도. 현대 소아 우식관리의 방향은 **최소침습(minimally invasive)·생물학적 봉입(biological sealing)**.
 > - 진단 분기: **가역성 치수염(reversible pulpitis)/무증상 deep caries** → 치수 보존(선택적 우식제거·간접치수복조(Indirect Pulp Cap, IPC)·노출 시 치수절단술(pulpotomy)). **비가역성 치수염(irreversible pulpitis)** → 전통적으로 치수절제술(pulpectomy)/발치.
+> - "덜 깎는다"는 상위근거로 확정: **완전절삭 후 통상수복(Conventional/Complete Removal, CR)이 실패확률 최고** — 코크란 NMA(Schwendicke 2021, 27 RCT)서 유치 CR이 선택적절삭(Selective Excavation, SE)·홀테크닉(Hall Technique, HT)보다 열등(CR-vs-HT OR 8.35). 우산리뷰(Banihani 2021, SR 18편)는 **38% 질산은불화물(Silver Diamine Fluoride, SDF)·HT·선택적우식제거·단면 비외상수복(Atraumatic Restorative Treatment, ART)** 를 유치 상아질 우식의 주류 옵션으로 인정(타협 아님), 1단계 선택적절삭은 치수노출 위험 77%↓(RR 0.24). 단 **치면열구전색(sealant)/레진침투는 공동성 상아질 병소에는 비권장**(법랑질 한정).
 > - 치수절단술 1차 약제: **MTA**가 AAPD 2024 유치 VPT 가이드라인 1차 권고(formocresol은 대안, Ca(OH)₂는 IPC/DPC).
 > - 패러다임 이동: 비가역성 치수염 유치에서도 **치수절단술이 치수절제술의 최소침습 대안** 가능성 — Chawla 2026 SR+MA는 임상·방사선 성공 차이 無(단 2편·확실성 매우 낮음), Philip 2026 narrative는 성공 95–100%로 가이드라인 개정 촉구. **근거 약함 → 증례선택(종창·치근단 병변 없는 경우)이 관건**.
 > - 치수절단술 술기 보조: **diode laser**는 성공률은 동등하나 치주공간 병적 확대를 유의 감소(Cao 2026, 특히 ZOE 복조 시).
@@ -52,12 +57,14 @@ The hinge is **reversible vs irreversible pulpitis** (plus signs of infection: s
 
 | Scenario | Option | Evidence |
 |---|---|---|
-| Deep caries, no/limited exposure, vital | Selective excavation / IPC; pulpotomy if exposed | [[aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]; [[smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] |
+| Deep caries, no/limited exposure, vital | Selective excavation / IPC; pulpotomy if exposed — **prefer less carious-tissue removal**: conventional complete removal (CR) fails more than selective excavation (SE) in primary deep lesions (Schwendicke 2021 NMA, CR-vs-SE OR 4.43) and one-step selective removal cuts pulp-exposure risk 77% (Banihani 2021, RR 0.24) | [[aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]; [[smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]]; [[caries/schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma]]; [[caries/banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review]] |
 | Carious pulp exposure, vital | **Pulpotomy with MTA (1st-line)**; formocresol alternative; Ca(OH)₂ for IPC/DPC | [[aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]; [[fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] (material > technique) |
 | **Irreversible pulpitis** (no swelling/periapical) | **Pulpotomy as alternative to pulpectomy** — no significant difference, but very low certainty | [[chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] (RR clinical 1.06, radiographic 1.35, NS, 2 studies); [[philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action]] (95–100% success, calls for guideline revision) |
 | Pulpotomy technique adjunct | **Diode laser** — equal success, less pathologic periodontal-space widening | [[cao-2026-diode-laser-pulpotomy-sr-ma]] |
 
 The notable shift is the **expansion of pulpotomy into irreversible pulpitis**: two 2026 syntheses suggest pulpotomy may match pulpectomy, but on thin, very-low-certainty evidence (Chawla pooled only 2 studies). Treat this as a defensible option in carefully selected teeth — not yet a guideline standard.
+
+The **upstream principle — remove less carious tissue** — is now anchored by two top-level syntheses. The **Schwendicke 2021 Cochrane SR + network meta-analysis** (27 RCTs, 4195 teeth) ranks **conventional complete removal (CR) as the strategy most likely to fail** for deep/cavitated lesions: in primary teeth CR fails more than selective excavation (CR-vs-SE OR 4.43) and far more than the Hall technique (CR-vs-HT OR **8.35**, low certainty), and HT beats non-restorative cavity control (HT-vs-NRCC OR 0.19). The **Banihani 2021 umbrella review** (18 SRs, 95 studies) of minimal-intervention dentistry for *dentinal* primary-tooth caries endorses **38% SDF, Hall technique, selective caries removal, and single-surface ART** as mainstream options (not compromises): one-step selective removal cuts pulp-exposure risk 77% (RR 0.24) and stepwise 69% (RR 0.31); HT restoration failure was 3% vs 37% for conventional. Crucially, Banihani 2021 also draws the **boundary of sealing**: fissure sealants and resin infiltration are **NOT recommended for cavitated dentinal lesions** in primary teeth (their efficacy evidence is confined to enamel / outer-third-dentine) — i.e. once a lesion is cavitated into dentine, the choice is SE/ART/SDF/HT, not a sealant.
 
 ### Step 3 — Restoration
 
@@ -74,7 +81,7 @@ The notable shift is the **expansion of pulpotomy into irreversible pulpitis**: 
 
 The operator-controllable success lever for crowns is **marginal fit** (Konukman 2026). Zirconia buys esthetics and gingival health at the price of retention, cost, technique-sensitivity, and possible antagonist wear. For **luting pediatric zirconia crowns**, a conventional GIC (95.3% retention) is a clinically acceptable alternative to self-adhesive resin cement (100%) — no significant 36-month difference in retention or gingival health ([[caries/bani-hani-2026-pediatric-zirconia-crowns-luting-agents-rct]], primary incisors).
 
-**Non-restorative arrest (when restoration is not feasible/indicated):** for cavitated dentinal lesions in primary molars, **silver diamine fluoride (SDF)** may give favourable short-term (≤12 mo) caries arrest versus conventional restoration, but the randomised base is thin (2 RCTs, no pooling) — a minimal-intervention option for pre-cooperative children or as an interim measure, not a crown substitute ([[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]]).
+**Non-restorative arrest (when restoration is not feasible/indicated):** for cavitated dentinal lesions in primary molars, **silver diamine fluoride (SDF)** may give favourable short-term (≤12 mo) caries arrest versus conventional restoration, but the randomised base is thin (2 RCTs, no pooling) — a minimal-intervention option for pre-cooperative children or as an interim measure, not a crown substitute ([[caries/garcia-miralles-2026-sdf-cavitated-primary-molars-sr]]). This is reinforced at umbrella level: **Banihani 2021** found 38% SDF significantly arrests dentinal caries (single application 31–79%, biannual 53–91%; ~81% pooled arrest), outperforming 5% NaF varnish (41%) and GIC sealing — black staining being the main drawback. **Single-surface ART** is an equally endorsed arrest/restore hybrid (95–100% success at 1 yr), though multi-surface ART fails significantly more (Banihani 2021).
 
 ### Decision axes (synthesis)
 
@@ -96,6 +103,10 @@ Pulp therapy:
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy, irreversible pulpitis (NS, very low certainty)
 - [[endodontics/vpt/philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action]] — narrative: 95–100% success, guideline-revision call
 - [[endodontics/vpt/cao-2026-diode-laser-pulpotomy-sr-ma]] — diode laser pulpotomy (equal success, less PDL widening)
+
+Carious-tissue removal / minimal intervention (upstream of pulp therapy):
+- [[caries/schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma]] — Cochrane SR+NMA (27 RCTs): conventional complete removal most likely to fail; SE/HT beat CR in primary teeth (CR-vs-HT OR 8.35) — anchors the "remove less" principle
+- [[caries/banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review]] — umbrella review (18 SRs): SDF/HT/selective removal/single-surface ART endorsed for dentinal primary-tooth caries; sealants NOT recommended for cavitated dentine — maps MID landscape and the boundary of sealing
 
 Restoration:
 - [[glass-ionomer/ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct]] — HVGIC vs giomer, Class II primary molars
