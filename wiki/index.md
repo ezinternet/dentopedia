@@ -49,7 +49,7 @@ confidence: narrative-review
 
 치과 임상 논문·가이드라인을 3-tier(PDF → sources → wiki)로 정리한 개인 지식 베이스.
 
-> [!info] 🗺️ 카테고리 지도 — [[category-map|임상 동선 6단계로 보기]]
+> [!abstract] 🗺️ 카테고리 지도 — [[category-map|임상 동선 6단계로 보기]]
 > 전 카테고리(~95개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.
 
 ## 🦷 Interactive Tools
