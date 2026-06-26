@@ -21,6 +21,12 @@ source_papers:
   - drug/hohlfeld-2008-pyrazolinone-aspirin-antiplatelet-pharmacology
   - drug/yokoyama-2013-nsaids-antiplatelet-aspirin-interaction
   - drug/liu-2024-jak2-clonal-hematopoiesis-arterial-thrombosis-platelet
+  - drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma
+  - drug/anticoagulants/xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma
+  - drug/anticoagulants/izzetti-2024-doac-bleeding-management-tooth-extraction-prospective
+  - drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants
+  - drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant
+  - drug/anticoagulants/yari-2023-bleeding-after-dental-extraction
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -38,11 +44,16 @@ agenda: agenda/2026-05-27_drug-overview-split.md
 > - **NSAID ↔ 아스피린 상호작용**(치과의가 잘 놓치는 지점): 이부프로펜은 아스피린의 항혈소판 효과를 무력화 → 술후 진통은 **아세트아미노펜 우선**. 셀레콕시브(COX-2)와 아세트아미노펜은 아스피린에 영향 없음.
 > - **특수 상황**: JAK2 변이 만성골수증식질환은 혈액내과 협진 + 양방향 모니터링; 허혈성 뇌졸중 이차예방 환자는 한국 가이드라인상 항혈전제 지속(단순 발치 = low-risk procedure).
 > - 아스피린 1차 예방 환자도 이미 복용 중이면 중단 금지 원칙 동일 적용 (USPSTF 2022).
-> - **근거 수준**: VKA 중단 vs 지속 동등(낮음, 이질성 높음), DOAC 단순 발치 지속(중간), NSAID-아스피린 차단(강함, RCT+약역학). 처치 전 체크리스트로 약물 목록 확인·처방의 사전 연락·국소 지혈 준비를 표준화.
+> - **DOAC 중단 무익(new)**: 한국 후향 코호트(Kim 2024, n=293)와 전향 코호트(Izzetti 2024, n=49·발치 136)에서 DOAC 유지군과 중단군의 발치 후 출혈 차이 없음 — 중단해도 출혈이 줄지 않으며, 출혈을 결정하는 것은 **3개 초과 발치·판막거상·골삭제** 같은 시술 침습도다. DOAC 환자는 INR이 신뢰할 수 없는 지표이므로 INR로 결정하지 않는다.
+> - **continue vs interrupt 둘 다 허용(new)**: Xiang 2026 SR+MA(24편, n=8663)는 minimal-risk 시술에서 전체로는 continuous가 대출혈(OR 0.57)·혈전을 줄였으나 **고품질 RCT만 보면 모든 차이 소멸**(관찰연구 selection bias) → 발치 등 minimal-risk 시술은 continue·brief-interrupt 모두 수용 가능, 환자별 판단 + 국소 지혈.
+> - **DOAC 간 차이·DOAC vs VKA(new)**: Dou 2025 SR+MA(29편, n=29,212) — 비중단 DOAC이 VKA보다 출혈 21% 낮고(RR 0.79) 그 이점은 **dabigatran 특이적**(RR 0.40); DOAC·VKA 모두 비복용군 대비 출혈 약 3배지만 중증 출혈은 드묾.
+> - **DAPT·최근 스텐트(new)**: Yari 2023(n=100, PCI 후 1년 이내)에서 단일 vs 이중 항혈소판 비중단 발치의 출혈 차이 없음, 모두 국소 처치로 조절 — 스텐트 직후 고위험군에서도 비중단 발치가 안전함을 보강.
+> - **socket dressing 선택(new)**: Al-Suliman 2025 분악 임상시험(40명)에서 항응고 환자 발치와에 **산화셀룰로오스(Surgicel) > 젤라틴 스폰지(Gelfoam)** — 지혈·지연출혈·치유·통증 모두 우수; 와파린군이 아스피린군보다 결과 나쁨.
+> - **근거 수준**: VKA 중단 vs 지속 동등(낮음, 이질성 높음), DOAC 단순 발치 지속(중간; Dou 2025 SR+MA로 강화되나 GRADE very low — 관찰연구 기반), NSAID-아스피린 차단(강함, RCT+약역학). 처치 전 체크리스트로 약물 목록 확인·처방의 사전 연락·국소 지혈 준비를 표준화.
 
 ## One-line Summary
 
-Synthesis of 15 papers on perioperative management of anticoagulants and antiplatelets for dental procedures. Core thesis: do not routinely interrupt these drugs — thromboembolic risk (stroke, MI, stent thrombosis) outweighs dental bleeding risk, and bridging therapy only increases bleeding without thrombotic benefit. Clinical takeaway: continue VKA when INR ≤3.5, continue DOACs for simple extractions, obtain cardiology consult before altering dual antiplatelet therapy (DAPT), use 4.8% tranexamic-acid (TXA) mouthwash as first-line local hemostasis, and prefer acetaminophen over ibuprofen for post-op analgesia in aspirin patients (NSAID–aspirin antiplatelet interaction).
+Synthesis of 21 papers on perioperative management of anticoagulants and antiplatelets for dental procedures. Core thesis: do not routinely interrupt these drugs — thromboembolic risk (stroke, MI, stent thrombosis) outweighs dental bleeding risk, and bridging therapy only increases bleeding without thrombotic benefit. Clinical takeaway: continue VKA when INR ≤3.5, continue DOACs for simple extractions (Kim 2024, Izzetti 2024 — suspension confers no bleeding benefit; Xiang 2026 — continue and brief-interrupt both acceptable for minimal-risk procedures), obtain cardiology consult before altering dual antiplatelet therapy (DAPT) though uninterrupted DAPT extraction is safe even within 1 year post-stent (Yari 2023), use 4.8% tranexamic-acid (TXA) mouthwash as first-line local hemostasis (oxidized cellulose > gelatin sponge as socket dressing — Al-Suliman 2025), and prefer acetaminophen over ibuprofen for post-op analgesia in aspirin patients (NSAID–aspirin antiplatelet interaction). Procedural extent (>3 teeth, flap, osteotomy) drives bleeding more than the suspension decision (Izzetti 2024); among DOACs dabigatran has the most favorable bleeding profile vs VKA (Dou 2025 RR 0.40).
 
 ## 한줄요약
 항응고제·항혈소판제는 루틴 치과 처치 시 중단 불필요 — 중단에 따른 혈전 위험 > 치과 출혈 위험. INR ≤3.5 VKA 지속, DOAC 단순 발치 지속, DAPT 심장내과 협진, 트라넥삼산(Tranexamic Acid, TXA) 양치액이 1차 국소 지혈제.
@@ -66,7 +77,9 @@ Synthesis of 15 papers on perioperative management of anticoagulants and antipla
 
 - VKA(와파린) 지속 vs 중단: 출혈 차이 없음 (Moldovan 2023, 5편)
 - 브리징 요법 (bridging therapy): 출혈 증가, 혈전 감소 없음 → **권고 안 함** (Moldovan 2023, 2편)
-- 단일/이중 항혈소판 비중단 발치: 임상적으로 의미 있는 출혈 차이 없음 (Krishnan 2024)
+- DOAC 지속 vs 중단: 발치 후 출혈 차이 없음 — Korean retrospective cohort (Kim 2024, 4.9% continued vs 0% discontinued, P=0.122) and Italian prospective cohort (Izzetti 2024, suspension gave no post-op benefit) both confirm suspension does not lower bleeding.
+- 단일/이중 항혈소판 비중단 발치: 임상적으로 의미 있는 출혈 차이 없음 (Krishnan 2024). 최근 스텐트(PCI ≤1년) 고위험군에서도 단일 vs 이중 항혈소판 비중단 발치 출혈 차이 없음 — Yari 2023 (complete hemostasis 78% SAPT vs 64% DAPT, p=0.08, 모든 출혈 국소 처치로 조절).
+- DOAC vs VKA: 비중단 DOAC이 VKA보다 출혈 21% 낮음 (Dou 2025 SR+MA, RR 0.79, n=29,212), dabigatran 특이적 (RR 0.40).
 
 ---
 
@@ -92,8 +105,10 @@ Synthesis of 15 papers on perioperative management of anticoagulants and antipla
 | **임플란트·다수 발치·골수술** | 처치 당일 아침 용량 생략; 지혈 확인 후 저녁 재복용 |
 | **Dabigatran** | 신기능 저하(CrCl <50) 시 추가 주의; 신장 배설 80% |
 
-- 국제정상화비율(International Normalized Ratio, INR) 모니터링 불필요; 길항제 루틴 투여 불필요
-- Dabigatran은 신부전 환자에서 작용 연장 → 처방의 상담
+- 국제정상화비율(International Normalized Ratio, INR) 모니터링 불필요; 길항제 루틴 투여 불필요. Kim 2024 confirms INR does not differ between continued/discontinued DOAC groups (1.15 vs 1.13) and does not correlate with bleeding — INR is an unreliable DOAC monitor.
+- Dabigatran은 신부전 환자에서 작용 연장 → 처방의 상담. 다만 출혈 프로파일 자체는 DOAC 중 dabigatran이 가장 양호 (Dou 2025: dabigatran vs VKA RR 0.40; rivaroxaban·apixaban·edoxaban은 VKA와 유의차 없음). Conversely, rivaroxaban·apixaban showed the highest post-extraction bleeding among DOACs and rivaroxaban dominated delayed (day 4–7) bleeding in Izzetti 2024.
+
+> **Continue vs brief-interrupt — both acceptable for simple extractions.** Xiang 2026 SR+MA (24 studies, n=8663; 4 dental) found continuous DOAC reduced major bleeding (OR 0.57) overall, but every difference vanished in the RCT-only subgroup (major bleeding OR 0.82, NS) — the apparent benefit is observational selection bias. Minor dental procedures (extraction, restoration, endodontics) sit in the "minimal bleeding-risk" category; the defensible position is **continue OR briefly interrupt, decided per patient, with local hemostasis** rather than a blanket policy. Izzetti 2024 adds that **procedural extent — >3 teeth, flap elevation, osteotomy — drives bleeding far more than the suspension decision** (intra-op bleeding 69.2% for >3 teeth vs 50% for ≤3, p<0.001), and all bleeding was mild and locally controlled (no reversal agents).
 
 ### 2-3. 항혈소판제 — Aspirin·Clopidogrel·이중 항혈소판요법 (Dual Antiplatelet Therapy, DAPT)
 
@@ -104,6 +119,8 @@ Synthesis of 15 papers on perioperative management of anticoagulants and antipla
 | **DAPT** | **반드시 심장내과 상담** 후 결정; 보통 지속 |
 
 > 스텐트 삽입 후 DAPT 중단 = 스텐트 혈전증 위험. 치과 출혈은 국소로 막을 수 있지만 심근경색은 되돌릴 수 없다.
+
+- 최근 스텐트(PCI ≤1년) 고위험군 직접 근거: Yari 2023 (n=100) — 단일(aspirin) vs 이중(aspirin+clopidogrel) 항혈소판 비중단 발치에서 출혈 차이 없음 (complete hemostasis 78% vs 64%, p=0.08); persistent/delayed bleeding 전부 국소 처치로 조절. 단순·복잡 다수치 발치 모두 post-PCI 1년 이내 비중단으로 안전. **단, 가장 위험한 윈도우인 만큼 심장내과 협진 원칙은 유지** — Yari는 비중단이 안전함을 보일 뿐 중단 판단을 치과의가 단독으로 내리라는 의미가 아니다.
 
 ---
 
@@ -123,6 +140,8 @@ Synthesis of 15 papers on perioperative management of anticoagulants and antipla
 - 농도: 4.8% (일부 4–5% 제제)
 - 용법: 10 mL × 2분 양치, 1일 4회, 7일간
 - 삼키지 않도록 지도 (전신 흡수 방지)
+
+**Socket dressing 선택 — oxidized cellulose 우선:** Al-Suliman 2025 split-mouth prospective trial (40 anticoagulated patients, 80 paired sockets) compared the two most common socket fillers head-to-head within the same patient: **Surgicel (oxidized cellulose) outperformed Gelfoam (gelatin sponge)** on hemostasis (VIBe), 24-h delayed bleeding (aspirin 5% vs 10%; warfarin 10% vs 15%), gingival healing, and pain (all p<0.05). Warfarin patients bled more, healed slower, and reported more pain than aspirin patients across both dressings. Practical default in anticoagulated extraction: oxidized cellulose over gelatin sponge. (Caveat: fixed side allocation, no suture-only control, no DOAC patients.) This sits alongside Guardieiro 2023 (chitosan vs cellulose in DAPT) as the dressing head-to-head evidence; Dou 2025 lists sutures, pressure, gelatin sponge, oxidized cellulose, chitosan, and TXA sponges all as effective adjuncts that make uninterrupted anticoagulation viable.
 
 ---
 
@@ -199,8 +218,14 @@ Synthesis of 15 papers on perioperative management of anticoagulants and antipla
 |---|---|---|
 | VKA 중단 vs 지속: 출혈 차이 없음 | 낮음 (SR 7편, 이질성 높음) | Moldovan 2023 |
 | 브리징 요법 불필요 | 낮음 (SR 2편) | Moldovan 2023 |
-| DOAC 단순 발치 지속 | 중간 (SR 25편) | Inchingolo 2024 |
-| 항혈소판 단독·DAPT 중단 금지 | 중간 (SR-MA) | Shah 2022, Krishnan 2024 |
+| DOAC 단순 발치 지속 | 중간 (SR 25편 + 코호트) | Inchingolo 2024, Kim 2024, Izzetti 2024 |
+| DOAC 중단해도 출혈 안 줄어듦 | 중간 (코호트 2편) | Kim 2024, Izzetti 2024 |
+| Continue vs interrupt DOAC 둘 다 허용 (minimal-risk) | 매우 낮음~낮음 (SR+MA, RCT만 보면 NS) | Xiang 2026 |
+| DOAC vs VKA 출혈 21% 낮음, dabigatran 특이적 | 매우 낮음 (SR+MA 29편, 관찰연구만) | Dou 2025 |
+| 출혈 결정 요인 = 시술 침습도(>3치·판막·골삭제) | 중간 (코호트) | Izzetti 2024 |
+| 항혈소판 단독·DAPT 중단 금지 | 중간 (SR-MA + 코호트) | Shah 2022, Krishnan 2024, Yari 2023 |
+| 최근 스텐트(PCI ≤1년) 비중단 발치 안전 | 낮음 (전향 n=100) | Yari 2023 |
+| Socket dressing: oxidized cellulose > gelatin sponge | 낮음 (전향 split-mouth) | Al-Suliman 2025 |
 | TXA 양치액 효과 50–60% | 중간 (SR) | Inchingolo 2024 |
 | Ibuprofen이 Aspirin 항혈소판 효과 차단 | 강함 (RCT + 약역학) | Catella-Lawson 2001, Renda 2006, Yokoyama 2013 |
 | Acetaminophen은 Aspirin 효과 무영향 | 강함 | Hohlfeld 2008 |
@@ -211,6 +236,12 @@ Synthesis of 15 papers on perioperative management of anticoagulants and antipla
 
 ### 신규 추가 (2026-06)
 
+- [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — SR+MA (29편, n=29,212): 비중단 DOAC vs VKA 출혈 RR 0.79, dabigatran 특이적(RR 0.40); 둘 다 비복용군 대비 ~3배. (sr+ma, 2025) — quantifies DOAC-vs-VKA effect size for §1·§2-2·§8.
+- [[drug/anticoagulants/xiang-2026-continuous-interrupted-doac-minimal-bleeding-sr-ma]] — SR+MA (24편, n=8663; 치과 4편): continuous DOAC major-bleeding OR 0.57 전체 유의하나 RCT만 보면 소멸 → continue·interrupt 둘 다 허용. (sr+ma, 2026) — refines §2-2 continuation thesis.
+- [[drug/anticoagulants/izzetti-2024-doac-bleeding-management-tooth-extraction-prospective]] — 전향 코호트 (n=49·발치 136): DOAC 중단 무익, >3치·판막·골삭제가 출혈 인자, 전부 경미. (prospective, 2024) — primary data for §1·§2-2.
+- [[drug/anticoagulants/kim-2024-post-extraction-bleeding-direct-oral-anticoagulants]] — 한국 후향 코호트 (n=293): DOAC 유지 vs 중단 출혈 NS (4.9% vs 0%), INR 비신뢰. (retrospective, 2024) — Korean real-world support for §1·§2-2.
+- [[drug/anticoagulants/yari-2023-bleeding-after-dental-extraction]] — 전향 (n=100, PCI ≤1년): 단일 vs 이중 항혈소판 비중단 발치 출혈 NS, 전부 국소 조절. (prospective, 2023) — high-risk recent-PCI evidence for §2-3.
+- [[drug/anticoagulants/al-suliman-2025-surgicel-gelfoam-post-extraction-bleeding-anticoagulant]] — 전향 split-mouth (40명): 항응고 환자 발치와에서 Surgicel(oxidized cellulose) > Gelfoam(gelatin sponge). (prospective, 2025) — dressing-choice evidence for §3.
 - [[drug/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — State-of-the-art narrative review of 30 years of low-dose aspirin (75–100 mg/day) evidence: irreversible platelet COX-1 acetylation suppresses thrombo … (narrative-review, 2024)
 
 ### SR·가이드라인 (1차 근거)
