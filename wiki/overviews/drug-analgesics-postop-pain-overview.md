@@ -30,6 +30,7 @@ source_papers:
   - drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma
   - drug/analgesics/ping-2026-ketorolac-root-canal-pain-sr-ma
   - drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus
+  - drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring
 confidence: synthesis
 source: synthesis
 agenda: agenda/2026-05-27_drug-overview-split.md
@@ -236,7 +237,25 @@ p=0.002, 명확한 차이.
 
 ---
 
-## 8. 페니실린·항생제 알레르기 환자 (참고)
+## 8. 피린계(pyrazolone) 과민반응 — SJS/TEN 주의
+
+[근거중간] **Breidung 2025** 단일기관 후향연구 (17년, n=68 조직검사 확진 SJS/TEN, 독일 화상센터):
+
+- **메타미졸(metamizole, 피린계)이 단일 최다 원인약물 (8/68건)** — 알로푸리놀(7건)보다 많음.
+- 전체 사망률 **51%**. SJS/TEN은 가장 치명적인 중증피부이상반응(Severe Cutaneous Adverse Reaction, SCAR)이다.
+- 피질골 소실·아령형·설측 위치(코르티코스테로이드 섹션 참고)와 달리, 피린계 과민반응은 단순 두드러기부터 SJS/TEN까지 스펙트럼이 있으며 **임상적으로 유병률을 과소평가하기 쉬움**.
+- CHAID 분류트리(COPD·성별·혈색소·base excess, AUC 0.88)가 SCORTEN(0.61)보다 사망 예측 우수 — 아직 단일 센터이므로 실제 임상 적용 전 외부 검증 필요.
+
+> ⚠️ **지역 편중 주의**: 이 논문의 메타미졸 高비율은 독일의 피린계 처방 관행을 반영. 메타미졸·디피론·메탐피론·설피린(sulpyrine) 등의 피린계 약물이 SJS/TEN의 전국적 주요 원인인지는 국가별 처방 데이터로 판단.
+
+**임상 적용**:
+- 문진에서 "피린계(피린) 알레르기" 병력 청취 시 **경미한 두드러기가 아닐 수 있음** — 과거 SJS/TEN 유사 반응 여부 구분 필요.
+- 피린계 과민 반응력 있는 환자 → 아세트아미노펜(acetaminophen) 또는 비선택적 NSAID(이부프로펜)로 대체.
+- 한국에서 메타미졸은 "설피린" 상품명으로 일부 복합제에 포함 → 처방 전 성분 확인.
+
+---
+
+## 8-ter. 페니실린·항생제 알레르기 환자 (참고)
 
 → 통증 약물 자체와는 별개. 항생제 alternative는 [[drug-antibiotic-stewardship-overview]] 참조.
 
@@ -273,6 +292,7 @@ p=0.002, 명확한 차이.
 - [[drug/analgesics/magesty-2026-adverse-events-oral-analgesics-third-molar-nma]] — refines: 제3대구치 단회 NSAID AE 순위는 nocebo 주도 → NSAID 1차 유지 (sr+ma/NMA, 2026)
 - [[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — contradicts/extends: NSAID-preemptive 무효(Costa)와 달리 술전 dexamethasone은 third molar에 유효 (rct, 2025)
 - [[drug/analgesics/altuhafy-2026-tenoxicam-postoperative-dental-pain-sr]] — extends: oxicam 계열 tenoxicam 근거 추가 (대체 NSAID 옵션) (sr, 2026)
+- [[drug/analgesics/breidung-2025-epidemiological-characteristics-prognostic-scoring]] — 17년 SJS/TEN 68례: 메타미졸(피린계) 단일 최다 원인(8건, 사망률 51%) — 피린계 알레르기의 임상적 심각도 근거 (retrospective, 2025)
 - [[drug/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — SR+MA of 8 high-quality trials (6 pooled) found etoricoxib (120 mg the dominant dose) significantly reduced the NUMBER of patients needing rescue anal … (sr+ma, 2021)
 - [[drug/prada-2025-acetaminophen-prenatal-neurodevelopmental-disorders-sr]] — Systematic review (Navigation Guide methodology, 46 studies): of studies on prenatal acetaminophen exposure and neurodevelopmental disorders (ASD/ADHD … (sr, 2025)
 
