@@ -1,0 +1,35 @@
+Short-fiber Reinforced MOD Restorations of Molars with Severely Undermined Cusps.
+Magne P, Milani T. J Adhes Dent. 2023;25:99-106. DOI: 10.3290/j.jad.b4051477. PMCID: PMC11734284
+
+PURPOSE
+To assess the mechanical performance and enamel-crack propensity of large MOD composite-resin restorations on maxillary molars with severely undermined cusps.
+
+INTRODUCTION (key points)
+Large direct posterior restorations face the problem of polymerization shrinkage and contraction stresses; with strong adhesives, shrinkage may cause cuspal deformation and cracking of enamel at the cusp base. The majority of shrinkage stress develops during/after the vitrification stage, even in the absence of light ("dark-cure"), so "soft"/slow-start protocols do not permit adequate stress relaxation if a clinically relevant conversion is expected. Layering does not necessarily decrease shrinkage stress and may worsen it vs bulk filling (V-factor unchanged). Short-fiber reinforced composite (SFRC, everX Posterior 2013) has high flexural modulus and fracture toughness (12.6 GPa, 2.6 MPa·m^0.5) and can match dentin toughness. The flowable everX Flow (2019) has higher fiber content (25 wt%) and higher fracture toughness (2.8 MPa·m^0.5) but lower flexural modulus (9.0 GPa) AND increased shrinkage stress vs everX Posterior. Absolute control of shrinkage stress in large MOD is only possible with inlay techniques (very low V-factor — shrinkage limited to thin luting layer).
+
+MATERIALS AND METHODS
+36 caries-free maxillary third molars, embedded 3 mm below CEJ. Standardized slot-type MOD: 5 mm bucco-palatal width, 5 mm depth, severe undercuts undermining buccal+lingual enamel cusps to 1 mm residual thickness. Triplet-matched then randomized to 3 groups (n=12):
+1. Direct control: layered Gradia Direct (GC), no SFRC (10 increments).
+2. Direct SFRC: everX Flow (dentin shade) base + Gradia Direct layering (7 increments).
+3. Inlay SFRC base: everX Flow base + Cerasmart 270 CAD/CAM inlay (semi-direct).
+Optibond FL (Kerr) three-step etch-and-rinse adhesive in all groups; immediate dentin sealing (IDS) for inlays. Curing 20 s at 1000 mW/cm2 (VALO) per increment + 10 s under air-block barrier.
+Accelerated fatigue (Acumen 3, MTS): specimen at 30 degrees, composite-resin antagonist cusp (Filtek Z100 semicylinder, 2.5 mm radius) on palatal cusp slope, submerged in water, 5 Hz, starting 200 N, +100 N every 2000 cycles until fracture. Cycles-to-failure and failure mode recorded.
+Enamel-crack tracking by transillumination + photography (1.5X) before, 24 h, and 1 week post-restoration; cracks classified (a) none, (b) <3 mm, (c) >3 mm. Kaplan-Meier + log-rank (alpha 0.05).
+
+RESULTS
+Survival significantly different for all 3 groups (Kaplan-Meier, log-rank p<0.000): Inlay SFRC base > Direct SFRC > Direct control (worst).
+Shrinkage-induced crack propensity after 1 week (Table 2):
+- Direct control: 0 none / 2 (17%) <3 mm / 10 (83%) >3 mm
+- Direct SFRC: 0 none / 4 (33%) <3 mm / 8 (67%) >3 mm
+- Inlay SFRC base: 11 (92%) none / 1 (8%) <3 mm / 0 >3 mm
+Failure mode (Table 3):
+- Direct control: 100% irreparable (below ARB) — catastrophic
+- Direct SFRC: 33% reparable / 25% possibly reparable / 42% irreparable
+- Inlay SFRC base: 75% reparable / 8% possibly reparable / 17% irreparable
+All specimens survived first half (up to 1000 N).
+
+DISCUSSION / CONCLUSIONS
+Both null hypotheses rejected. The flowable everX Flow SFRC base improved fatigue resistance and failure mode of direct restorations but had only LIMITED effect on crack propensity — contrasting with the original everX Posterior, which in a comparable experiment produced no shrinkage cracks >3 mm even in direct technique. This is explained by the difference in volumetric shrinkage/shrinkage stress between everX Posterior (-1.52%) and everX Flow (-2.58%): the flowable version's higher fiber content + lower fiber aspect ratio (20-30 vs 70) and modified matrix/reduced barium-glass filler increased shrinkage. Large MOD with severely undermined cusps are best restored with a CAD/CAM inlay over an SFRC base (lowest V-factor → no shrinkage cracks, best survival, most favorable/reparable failure mode). When low-cost is required, an SFRC base significantly improves the performance and failure mode of directly layered restorations. Limitation: no inlay-without-SFRC control; thin (1-2.5 mm) SFRC layer used.
+
+Keywords: CAD/CAM; composite resin; crack propensity; fatigue resistance; short-fiber reinforced composite; shrinkage stress; undermined cusps.
+Source: PubMed / PMC (PMC11734284), full text retrieved.
