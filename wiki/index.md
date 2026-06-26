@@ -17,18 +17,12 @@ confidence: narrative-review
   <image href="https://ezinternet.github.io/llm-wiki/static/banner-emblem.png"
          x="4" y="10" width="312" height="280" preserveAspectRatio="xMidYMid meet"/>
   <defs>
-    <style>@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@600');</style>
+    <style>@import url('https://fonts.googleapis.com/css2?family=MedievalSharp&family=EB+Garamond:wght@500;600&display=swap');</style>
   </defs>
-  <text x="336" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#D6453E">L</text>
-  <text x="402.24" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#DB7A26">L</text>
-  <text x="469.56" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#C99A1E">M</text>
-  <text x="604.2" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#3E9E54">W</text>
-  <text x="710.22" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#2E86C7">i</text>
-  <text x="750" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#5B53C9">k</text>
-  <text x="823.62" y="126" font-family="'Cinzel', Georgia, 'Times New Roman', serif" font-size="108" font-weight="600" style="fill:#9A4FC7">i</text>
-  <line x1="339" y1="156" x2="564" y2="156" stroke="#8B2F44" stroke-width="3" stroke-linecap="round"/>
-  <text x="340" y="206" font-family="Georgia, 'Times New Roman', serif" font-size="34" style="fill:#DE3D7A" font-weight="700">Clinical Dentopedia:</text>
-  <text x="341" y="238" font-family="system-ui, -apple-system, 'Apple SD Gothic Neo', sans-serif" font-size="19" letter-spacing="0.3" style="fill:#5A4A52" font-weight="500">The Single Source of Truth for Evidence-Based Dentistry.</text>
+  <text x="336" y="124" font-family="'MedievalSharp', Georgia, 'Times New Roman', serif" font-size="98" style="fill:#4A2F1A">LLM Wiki</text>
+  <line x1="339" y1="156" x2="610" y2="156" stroke="#4A2F1A" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  <text x="340" y="206" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="34" style="fill:#2E5236" font-weight="600">Clinical Dentopedia:</text>
+  <text x="341" y="238" font-family="'EB Garamond', Georgia, 'Times New Roman', serif" font-size="20" letter-spacing="0.3" style="fill:#6B5942" font-weight="500">The Single Source of Truth for Evidence-Based Dentistry.</text>
   <g transform="translate(1012,150)">
     <g transform="rotate(-7) translate(-72,-58)">
       <rect x="0" y="0" width="144" height="116" rx="12" fill="#ECEBE4" stroke="#DCDAD0" stroke-width="1.5"/>
