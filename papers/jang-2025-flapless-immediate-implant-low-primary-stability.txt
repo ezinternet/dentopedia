@@ -1,0 +1,88 @@
+Title: Outcomes of flapless immediate implants with low primary stability
+Authors: Jang EJ, Park JA, Cha SH, Kim YM, Choi HR, Park KS
+Journal: Journal of the Korean Association of Oral and Maxillofacial Surgeons (J Korean Assoc Oral Maxillofac Surg)
+Year: 2025
+DOI: 10.5125/jkaoms.2025.51.5.302
+PMID: 41161747
+PMCID: PMC12572838
+Source URL: https://pmc.ncbi.nlm.nih.gov/articles/PMC12572838/
+
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+
+Objectives
+This retrospective study aimed to evaluate the prognosis of immediately placed implants with low or no primary stability.
+
+Materials and Methods
+Sixteen sandblasted, large-grit and acid-etched-surfaced implants with low primary stability, defined as an insertion torque value of less than 10 Ncm and an mean initial Implant Stability Quotient (ISQ) value of less than 55, were placed in 16 patients (7 males and 9 females) using the flapless surgical approach, with a mean patient age of 48.8 years. Implant stability was measured using the ISQ system (Osstell) immediately after implant placement and at the time of impression taking, which was performed on average 13 weeks later.
+
+Results
+Excluding six cases where the initial ISQ values could not be measured because of extremely low primary stability, the average initial and final ISQ values were 42.2±7.5 and 68.7±7.6, respectively (<0.01). The survival rate of the implants was 100% after an average follow-up period of 65.18 months.
+
+Conclusion
+These findings indicate that even immediately placed implants with low or no primary stability can achieve successful osseointegration and long-term survival.
+
+=== FULL TEXT ===
+
+I. Introduction
+
+The conventional implant placement protocol, which involves placing implants into fully healed alveolar bone, is the oldest and most well-established method in the history of implant dentistry. It serves as the standard against which other placement protocols are compared because of its extensively documented long-term outcomes. Implants placed immediately in extraction sockets following tooth extraction have been shown to achieve a similar degree of bone-to-implant contact (BIC) as those placed in healed ridges. In immediate implant placement, while the apical portion of the implant is in direct contact with the bone at the time of insertion, a gap is frequently observed in the coronal region between the implant surface and the inner aspect of the buccal alveolar plate. As a result, the bone-to-implant contact tends to decrease toward the coronal aspect. Moreover, due to active internal and external bone resorption within the extraction socket, immediate implant placement exhibits approximately a 10% reduction in bone-to-implant contact during the early healing phase (within the first week) compared to implants placed in healed ridges.
+
+Nevertheless, immediate implant placement in single-rooted teeth has demonstrated high survival rates, often in the upper 90% range, which is comparable to those of conventional delayed implant placement in healed ridges after a healing period of 6 months or more.
+
+The selection criteria for immediate implant placement include factors related to osseointegration, such as primary stability and bone quality and quantity; anatomical considerations, such as the proximity of the maxillary sinus, mental foramen, and inferior alveolar nerve; morphology of the extraction socket; esthetic results; soft tissue maintenance; surgical technique; presence of infection or pathology; and implant design components, such as the fixture's surface, shape, and diameter.
+
+Primary stability is widely recognized in the literature as a critical prognostic factor for implant success. It is defined as the biomechanical stability achieved immediately after implant placement and is essential for successful osseointegration and long-term outcomes. Primary stability is mainly determined by the degree of bone-to-implant contact. During the initial stages of healing, mechanical stability tends to gradually decrease due to bone remodeling. As new bone forms along the implant surface, secondary stability is established as a direct result of osseointegration, which combines both mechanical and biological properties.
+
+Although immediate implants with high primary stability are presumed to have favorable prognoses, there is a need to investigate the prognosis of immediately placed implants with low or no primary stability. Therefore, this study aimed to retrospectively evaluate the prognosis of immediately placed implants with low or no primary stability. This retrospective study was approved by the Institutional Review Board (IRB) of Inje University Sanggye Paik Hospital (IRB No. 2024-12-017).
+
+II. Materials and Methods
+
+All patients who underwent implant surgery between April 2014 and May 2022 at the Department of Oral and Maxillofacial Surgery at Inje University Sanggye Paik Hospital were retrospectively reviewed. The inclusion criterion was low primary stability immediately after the placement of the implant with flapless surgery. Sixteen implants with sandblasted, large-grit and acid-etched (SLA) surface were placed in 16 patients (7 males and 9 females); the number of cases was 13 for the maxilla and 3 for the mandible, and 6, 2, and 8 for the anterior, premolar, and molar teeth, respectively. The mean age of the patients was 48.8 years.
+
+The primary reasons for tooth extraction were dental caries, tooth fractures, apical disease, and periodontal disease. All procedures were performed by the same surgeon without flap elevation. Most patients were systemically healthy, while two patients had a specific medical history of diabetes mellitus, hypertension, and myocardial infarction.
+
+One-step undersized drilling, as a surgical modification, was employed during implant placement, which was performed according to the manufacturer's standard protocol in all cases. No protocol differences were applied between cases with and without pre-existing bone lesions. Bone grafting was performed in all surgeries except for one patient, and the submerged protocol was used in only one patient. Prosthetic loading was applied to all implants in the same manner as to natural dentition, and the opposing dentition in all cases consisted of either natural teeth or implants.
+
+Implant stability and peri-implant marginal bone level (MBL) changes were assessed, along with postoperative clinical findings. Implant stability was evaluated using Implant Stability Quotient (ISQ) values obtained through resonance frequency analysis (RFA), measured by the Osstell ISQ (Osstell system; Osstell). The initial and final ISQ values were recorded in four directions (mesial, distal, buccal, and lingual) at the time of implant placement and at the impression-taking stage for prosthesis fabrication. Low primary stability was defined as the insertion torque value being less than 10 Ncm and the average initial ISQ value being less than 55. Panoramic radiographs were taken on the day of prosthesis delivery and at the final follow-up to evaluate the MBL relative to baseline, measured from the implant shoulder to the crestal bone at the mesial and distal sites.
+
+Finally, the Wilcoxon signed-rank test was conducted to validate the increasing levels of ISQ. IBM SPSS Statistics for Windows software (ver. 25.0; IBM) was used for the statistical analysis.
+
+III. Results
+
+In this study, 16 implants were immediately placed in 16 patients (13 in the maxilla and 3 in the mandible; 6 in the maxillary anterior region, 2 in the maxillary premolar region, 5 in the maxillary molar region, and 3 in the mandibular molar region). Impressions were taken at an average of 13 weeks after implant placement, and the mean follow-up period was 65.18 months. All the implants remained stable until the final follow-up, with no clinical signs of infection, inflammation, or bleeding.
+
+The mean ISQ value increased significantly from 42.2±7.5 at baseline to 68.7±7.6 over the healing period (<0.01). In the statistical analysis, cases in which ISQ values could not be measured due to extremely low primary stability—manifested as spinning at implant placement—were treated as missing values. Among the implants, eight had initial ISQ values below 50 (mean, 39.6), two had values of 50 or above (mean, 51.0), and six could not be measured. Statistical analysis using the Wilcoxon signed-rank test demonstrated a large effect size, indicating a substantial improvement in implant stability. The 95% confidence interval for the absolute difference in the ISQ ranged from 17.2 to 32.9, supporting the robustness of the observed change. The average amount of marginal bone loss was positive in most cases, while 4 cases showed negative values, ranging from –0.1 to –0.3 mm.
+
+IV. Discussion
+
+Implant stability serves as an indirect indicator of osseointegration and is clinically assessed by evaluating the immobility of the implant. Implant stability can be categorized into two types: primary stability, which is mechanically achieved from the pre-existing bone at the time of implant placement (initial fixation), and secondary stability, which is biologically acquired as the implant integrates with newly formed bone during osseointegration after placement.
+
+Overall implant stability is the sum of these two components. Between approximately 4 to 6 weeks after implant placement, there is a period known as the "stability dip", during which the decrease in primary mechanical stability is not yet fully compensated for by increasing secondary stability. To overcome this decline in implant stability, two key strategies should be considered: maximizing primary mechanical stability and rapidly promoting secondary biological stability. Primary stability is influenced by factors, such as implant design, bone quantity and quality, and surgical technique, whereas secondary stability is affected by primary stability, bone remodeling, and implant surface characteristics.
+
+Numerous studies have reported that implant primary stability can significantly influence the osseointegration outcome. It is widely accepted that primary stability is the most critical factor for success in immediate implant placement, given the limited direct bone-to-implant contact area. However, in recent years, several studies have shown that immediately placed implants with low initial stability can still achieve favorable osseointegration and may not result in a poor prognosis.
+
+Surgical modifications, such as undersized drilling or osseodensification, should be considered to increase the success rate of implants with low primary stability, and the use of tapered implants with a thread design, as well as longer and wider implants, is recommended. Additionally, performing bone grafting and achieving primary closure (as in the two-stage protocol) can help minimize micromovements during the healing period, allowing sufficient time for osseointegration.
+
+Methods for assessing implant stability include cutting torque resistance analysis, insertion torque analysis, periotest, and RFA. Among these, RFA is a noninvasive technique that does not damage the implant–tissue interface, making it widely used in both experimental and clinical research.
+
+RFA is an indicator of implant stability and can be performed at any time during implant treatment and loading. In this study, we used a third-generation electronic RFA device, the Osstell ISQ system. The ISQ scale ranged from 1 to 100, with higher values indicating greater implant stability. According to Balleri et al., the mean ISQ value of osseointegrated implants was 69, ranging from 57 to 82. Some studies have used an ISQ value of 60-65 as the critical threshold for implant loading.
+
+According to Becker et al., implants with high initial ISQ values showed a slight decrease over time, whereas implants with lower initial ISQ values (<60) showed an increase in ISQ during the healing period. Although primary stability tended to be lower in the maxilla than in the mandible, secondary stability showed no significant difference. However, in cases of implant failure, the RFA values progressively declined until implant loss occurred.
+
+While an ISQ value of 70 or higher is generally regarded as indicative of high stability, the trend of change in ISQ values may be of greater clinical significance. A consistently high or increasing trend in the ISQ value suggests a transition from initial mechanical stability to biological stability. In this study, among the 16 immediately placed implants with low primary stability, 6 showed an increase in ISQ to approximately 70 or higher at the time of impression-taking, while the remaining implants, although they did not reach the desired final ISQ level, exhibited an increasing trend and favorable prognosis.
+
+All implants in this study had insertion torque values below 10 Ncm, and the mean initial ISQ value immediately after implant placement was 42.2. At placement, eight implants had ISQ values <50, two implants had values >50, and six implants could not be measured. Impressions were taken after an average of 13 weeks, and all implants demonstrated increased ISQ values with a mean of 68.7. In two cases (Patients 3 and 5), the ISQ values measured at 5 and 12 weeks post-placement were low (48.25 and 26.5, respectively); therefore, additional healing periods of 6 and 14 weeks were provided. In another case (Patient 10), the ISQ value remained below 50 at 6 weeks and did not reach 50 even after a 10-week extension, necessitating an additional 6 weeks of healing.
+
+In this study, the average duration from implant placement to impression-taking was 13 weeks (range: 8-25 weeks), and the prostheses were delivered within 2 weeks of impression-taking. Compared to the ISQ values measured immediately after implant placement, all directional ISQ values increased by the time of impression-taking, indicating successful socket healing and osseointegration, which contributed to the achievement of secondary stability. No implant failure was observed during the mean follow-up period of 65.18 months after loading.
+
+Most patients were generally healthy; however, two patients had specific medical conditions, including diabetes mellitus (Patients 4 and 9), hypertension, and myocardial infarction (Patient 9). A previous study has reported that patients with uncontrolled diabetes exhibit lower ISQ values both at the time of implant placement and loading, as well as 1 year after loading, than those with well-controlled diabetes. Therefore, adequate glycemic control should be established prior to implant placement. Although the number of diabetic patients in this study was limited, the increase in ISQ values observed in these patients was comparable to those in patients without systemic conditions. This suggests that even in cases of immediate implant placement with low primary stability, well-controlled diabetes may not have a significant negative impact on the development of secondary stability.
+
+At the 1986 Toronto Conference, Albrektsson et al. proposed criteria for implant success, which include the absence of clinical mobility, peri-implant radiolucency, and progressive marginal bone loss (with less than 1.5 mm of marginal bone loss in the first year and less than 0.2 mm annually thereafter). In addition, there should be no signs of infection, such as pain or suppuration, and the cumulative success rate should be at least 85% at 5 years and 80% at 10 years. In our study, the implants remained clinically asymptomatic over an average follow-up period of 65.18 months (range, 12-128 months). Although most implants showed positive MBL values, indicating marginal bone loss, four implants exhibited negative values, suggesting slight marginal bone gain.
+
+This retrospective study investigated the prognosis of immediately placed implants with low primary stability placed without flap elevation by evaluating changes in ISQ and MBL changes. While many studies have investigated the prognosis and success rates of immediately placed implants with high primary stability or delayed implants with low primary stability, according to the authors' investigation, there is a lack of research specifically focusing on immediately placed implants with low primary stability. Although our findings suggest that such implants can achieve stable long-term outcomes, the study's limitations include a small sample size; heterogeneity in extraction causes, implant sites, fixture surface treatments, and implant sizes; and the inclusion of cases with short follow-up periods. Therefore, further long-term studies with larger sample sizes are warranted.
+
+V. Conclusion
+
+In this study, sixteen SLA-surfaced implants with low primary stability (insertion torque <10 Ncm and mean initial ISQ <55) were immediately placed in 16 patients. All implants achieved successful osseointegration with a 100% survival rate after an average follow-up period of 65.18 months. However, further large-scale systematic studies and long-term follow-up are warranted. Nevertheless, immediate implant placement—even in cases with low primary stability—may be considered a viable treatment option, as it offers clinical advantages such as less invasive surgery and reduced chair time.
