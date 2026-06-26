@@ -1,0 +1,133 @@
+Title: Immediate implant placement in the premolar maxillary area: a cone-beam computed tomography study
+Authors: Najm A, Bihorac A, de Carvalho Machado V, Chrcanovic BR
+Journal: Journal of Periodontal & Implant Science (J Periodontal Implant Sci), 2024
+DOI: 10.5051/jpis.2303580179
+PMID: 39439105 | PMCID: PMC11885869
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC11885869/)
+
+ABSTRACT
+
+Purpose
+This research aimed to investigate potential factors associated with the risk of perforation of the labial bone plate, nasal floor, or maxillary sinus floor during immediate implant placement (IIP) in the maxillary premolar area, utilizing a cone-beam computed tomography (CBCT) virtual study.
+
+Methods
+CBCT exams from 179 eligible participants, encompassing 716 teeth, were included. Implants were virtually positioned in 2 orientations: along the long axis of the tooth (the prosthetically-driven position) and in an optimal position relative to adjacent anatomical structures (the bone-driven position). Binary logistic regression analysis was employed to assess potential associations between perforation or invasion and various covariates, including sex, age, tooth region, the distance from the tooth apex to the nasal floor or maxillary sinus floor, the angle between the prosthetically- and bone-driven positions (implant-line A angle [ILAA]), and the labial concavity angle (LCA).
+
+Results
+The mean ILAA was 18.3 degrees +/- 8.0 degrees, and the angle was significantly larger for the second premolar compared to the first premolar. The mean minimum implant length was 13.0 +/- 2.1 mm, with a bone anchorage of 4 mm. The incidence of perforation was 84.1% for the prosthetically-driven position and 40.5% for the bone-driven position. Factors associated with a higher risk of cortical bone wall perforation or invasion of the 2-mm safety margin from surrounding anatomical structures (in the bone-driven position) included female sex, older age, shorter distance from the tooth apex to the nasal cavity/maxillary sinus, and smaller LCA.
+
+Conclusions
+A high prevalence of cortical bone wall perforation or invasion of the 2-mm safety margin is anticipated when performing IIP in the maxillary premolar region.
+
+INTRODUCTION
+
+According to the original Branemark protocol, a dental implant should be placed at the planned surgical site only after several months of healing of the extraction alveolar socket. Others later proposed implants could be installed directly into the alveolar dental socket immediately following tooth extraction (immediate implant placement, IIP). IIP offers advantages: shorter treatment time, diminished alveolar bone resorption after extraction, improved psychological outcomes, and ability to position the implant in a more ideal axial inclination resembling the natural tooth. However, the empty alveolar socket may compromise primary stability due to reduced surrounding bone volume.
+
+A recent systematic review (163 clinical studies) found implants placed in fresh extraction sockets had a failure rate of 3.60% (622/17,278) vs 2.87% (1,113/38,738) for healed sites; meta-analysis indicated higher risk of failure for extraction sockets.
+
+The roots of the first maxillary premolar (1PM) are typically at the lowest part of the anterior maxillary buttress; those of the second maxillary premolar (2PM) are generally beneath the anterior maxillary sinus. Adequate evaluation of local anatomical structures is necessary when considering IIP.
+
+The aim was to explore potential factors associated with risk of perforating the labial bone plate, nasal floor, or maxillary sinus floor during IIP in the maxillary premolar area, using a CBCT virtual study. This is the first investigation into the risks of IIP in the maxillary premolar region.
+
+MATERIALS AND METHODS
+
+Objectives:
+a) determine risk of perforation of labial bone plate, nasal floor, or maxillary sinus floor when implants are virtually planned along the longitudinal axis of the tooth (prosthetically-driven ideal position) or in the bone-driven position;
+b) ascertain the minimum feasible implant length avoiding cortical perforation while maintaining safety margin;
+c) determine the angle between the two positions;
+d) investigate associations between covariates and cortical bone perforation for the bone-driven position.
+
+Hypothesis: null hypothesis = prevalence of cortical bone perforation would not differ significantly between bone-driven and prosthetically-driven positions.
+
+Participants: retrospective analysis of maxillary CBCT scans at Slice Diagnostico Volumetrico por Imagem, Belo Horizonte, Brazil, last quarter of 2014. Selected from CBCT database, not specifically acquired for the study.
+
+Ethical: approved by IRB of Centro de Pesquisas Odontologicas Sao Leopoldo Mandic, Campinas (CAAE 51387215.5.0000.5374). Written informed consent obtained.
+
+Inclusion: consent; CBCT of maxilla; fully erupted bilateral maxillary premolars; fully formed apices; normally positioned/aligned.
+Exclusion: technical artifacts; image with implant/pathological lesion/root resorption/missing tooth; orthognathic surgery, grafted ridge, supernumerary/impacted teeth, preexisting bone destruction/perforation/dehiscence.
+
+Case selection: 574 CBCT exams; 387 excluded (missing premolars, implant in premolar region, misalignment, artifacts); of remaining 187, 8 excluded (periapical bone destruction). 179 CBCT exams included.
+
+Hardware/software: i-CAT CBCT (Imaging Sciences International). Parameters: 120 kV, 3-5 mA, 40-s emission, effective dose 136 microSv. Transverse section thickness 1.0 mm. Field of view medium 6x14 cm. Measurements in DeltalSlice Navegacao Virtual v2021, Bioparts.
+
+Sample size: ClinCalc.com, based on Botermans et al. (5% fenestration when IIP at bone-driven ideal location in anterior maxilla). Hypothesized prosthetically-driven IIP would yield 4-fold increase (20% vs 5%); 150 cases required (alpha 5%, power 80%).
+
+Definitions/measurements:
+Safety margin: minimum 2 mm from adjacent tooth (recommend 1.5-2 mm), 2 mm between implant apex and nasal/maxillary sinus floor, 2 mm from all external cortical bone plates.
+
+Implant simulation: implant platform center along long axis of tooth. Parallel implant diameter 3.75 mm. Placed 1 mm subcrestally (anticipated marginal bone loss at 12 months). Minimum 4 mm of bone apical to socket apex for primary stability.
+
+Two placements:
+a) Prosthetically-driven ideal position: implant along palatal slope of root, crown aligned along line A (best connecting occlusal central developmental fossa with root apex, bisecting labial/palatal halves). Anchored in at least 4 mm native bone.
+b) Bone-driven ideal position: shortest possible implant length without perforation, apex anchored in at least 4 mm native bone, 2 mm minimum from nasal/maxillary sinus floor and labial/palatal bone plates.
+
+Implant-line A angle (ILAA): angle formed by the implant in bone-driven position relative to prosthetically-driven ideal position (line A).
+
+Labial concavity angle (LCA): angle between line D-C and line D-P; line D-C from point D to point C (most external point on buccal plate); line D-P connects D and P (most external buccal plate point superior to D). Measured at buccal-palatal longitudinal middle section.
+
+Tooth apex distance: from apex of tooth to floor of nasal cavity or maxillary sinus.
+
+Angles measured in ImageJ. Calibration among 3 authors (A.B., A.N., B.R.C.) using 10 CBCT exams.
+
+Statistics: Kolmogorov-Smirnov for normality; Levene for homoscedasticity; paired t-test/Wilcoxon for left vs right; Student t-test/Mann-Whitney for independent groups; Pearson chi-square/Fisher exact for categorical; Pearson correlation/linear regression and Spearman correlation. Univariate and multivariate binary logistic regression for associations between covariates and perforation. SPSS v28. p<0.05 significant.
+
+RESULTS
+
+Cohort: 179 patients. Male 83 (332 teeth), age 45.0 +/- 15.2 (14.2-73.0); Female 96 (384 teeth), age 47.6 +/- 15.1 (16.1-78.1). More women than men.
+
+Minimum implant length (bone-driven), Table 2:
+- Tooth 15 (2PM right): 12.7 +/- 2.2 (6.5-18.5), n=75
+- Tooth 14 (1PM right): 13.3 +/- 2.1 (7.0-19.0), n=132
+- Tooth 24 (1PM left): 13.1 +/- 2.2 (6.5-19.0), n=135
+- Tooth 25 (2PM left): 12.8 +/- 2.1 (8.5-17.0), n=85
+- Global: 13.0 +/- 2.1 (6.5-19.0), n=427
+1PM slightly higher than 2PM but not significant (p=0.127, Mann-Whitney).
+
+LCA (Table 3): mean differed significantly between men and women (p<0.001). All teeth global 156.5 +/- 10.3 (110.5-177.1); male 158.2 +/- 10.1; female 155.3 +/- 10.0. Weak correlation LCA-sex (r=-0.160, p<0.001).
+
+Perforation frequency (Table 4):
+Prosthetically-driven (n=716): No perforation 16 (2.2%); <2 mm invasion 98 (13.7%); Perforation 602 (84.1%).
+Bone-driven: No perforation 164 (22.9%); <2 mm 262 (36.6%); Perforation 290 (40.5%).
+Of 716 prosthetically-driven implants, only 16 exhibited no perforation.
+Mean ILAA 18.3 +/- 8.0 degrees (0-40.1); higher for 2PM than 1PM (p<0.001, Mann-Whitney). By tooth: 15 = 20.6+/-8.5; 14 = 17.5+/-7.4; 24 = 16.7+/-7.8; 25 = 20.3+/-8.2.
+
+Correlations: ILAA-LCA weak (r=-0.149, p=0.002); ILAA-sex weak (r=0.160, p<0.001); tooth apex distance-sex (r=0.183, p<0.001); age-ILAA very weak (r=0.023, p=0.636); age-LCA (r=-0.183, p<0.001); age-minimal length (r=-0.049, p=0.313); sex-minimal length (r=0.022, p=0.649).
+
+Univariate logistic regression (Table 5) - factors for perforation/invasion (bone-driven):
+- Sex: Female OR 3.526 (2.411-5.155), p<0.001
+- Age: 1.010 (0.999-1.022) per year, p=0.084
+- Tooth region: 2PM OR 2.031 (1.407-2.930), p<0.001
+- Tooth apex distance: 0.705 (0.664-0.750) per mm, p<0.001
+- ILAA: 1.016 (0.991-1.041), p=0.211
+- LCA: 0.946 (0.926-0.967) per degree, p<0.001
+
+Multivariate logistic regression (Table 6):
+- Sex: Female OR 2.358 (1.492-3.725), p<0.001
+- Age: 1.034 (1.018-1.049) per year, p<0.001
+- Tooth region: 2PM OR 0.925 (0.571-1.497), p=0.750 (NS)
+- Tooth apex distance: 0.697 (0.650-0.747) per mm, p<0.001
+- LCA: 0.964 (0.938-0.990) per degree, p=0.008
+
+In multivariate model all factors except tooth region remained significant: female sex, older age, shorter tooth-apex distance, smaller LCA -> greater risk.
+
+DISCUSSION
+
+Highly significant difference in cortical bone perforation between prosthetically- and bone-driven ideal positions; null hypothesis rejected.
+
+Four variables increase risk (bone-driven): female sex, older age, shorter distance tooth apex to nasal/sinus, smaller LCA.
+- Women ~2.4x more likely to perforate (smaller facial bone dimensions).
+- 3.4% increase in risk per additional year of age (maxillary bone resorption with aging).
+- Smaller tooth-apex distance -> less apical bone for 4-mm anchorage.
+- Each 1 degree increase in LCA -> 3.6% decrease in perforation probability (smaller LCA = deeper buccal concavity = less buccal-palatal bone). Mean LCA ~156 degrees, range ~67 degrees.
+
+Most prosthetically-driven implants perforated cortical bone (84.1%) or encroached the 2-mm safety distance (13.7%). Necessitated tilting implant away from long axis. Implants in fresh maxillary premolar sockets will likely require coronal portion tilted buccally for apical anchorage. Most implant-supported single crowns would need a custom angled abutment averaging ~18 degrees buccal-palatal (mirroring mean ILAA 18.3 degrees); angled screw channel abutments allow screw-retained crowns. Implant angulation in maxilla may influence survival.
+
+Primary stability key for success, especially with immediate placement. Alveolar socket often wider than implant; anchorage mainly apical. Minimum 4 mm apical anchorage recommended. Minimum implant length in bone-driven position ranged 6.5-19.0 mm (large range -> individualized approach). 1PM slightly longer than 2PM (proximity to nasal/anterior sinus wall may offer more bone; 2PM bone compromised by maxillary sinus proximity/pneumatization).
+
+High rate of perforation even in bone-driven position (40.5%) vs previously reported 5.6% for anterior maxilla.
+
+Limitations: validity depends on CBCT accuracy; measurements based on virtual placement of single implants; did not consider spacing for simultaneous adjacent implants.
+
+Bone-driven position markedly lower risk of cortical wall perforation than prosthetically-driven. Preoperative anatomical assessment crucial. 2D exams (orthopantomograms) cheaper/lower dose but limited; CBCT provides accurate 3D view vital for planning IIP in high-perforation-risk maxillary premolar region.
+
+Conclusion: risk of perforating cortical bone wall significantly reduced with bone-driven rather than prosthetically-driven position, but likelihood of perforation during IIP in maxillary premolar region remains high.
