@@ -1,0 +1,7 @@
+[PMC full text retrieved 2026-06-26 via PubMed MCP get_full_text_article]
+PMCID: PMC12764867 | PMID: 41484074 | DOI: 10.1038/s41413-025-00478-1
+Title: Inflammatory bone loss and signaling pathways in periodontitis: mechanistic insights and emerging therapeutic strategies
+Journal: Bone Research 2026;14(1):1
+Authors: Rafael Scaf de Molon, Rolando Vernal, Gabriela Ezequiel Oliveira, Joao Paulo Steffens, Edilson Ervolino, Leticia Helena Theodoro, Jeroen JJP van den Beucken, Sotirios Tetradis
+
+[Full text content available via PMC link above; key sections summarized in sources/demolon-2026-periodontitis-bone-loss-signaling-pathways.md]
