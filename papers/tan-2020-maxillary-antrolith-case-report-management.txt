@@ -1,0 +1,56 @@
+Case report of a maxillary antrolith
+
+Authors: Tan Yong Leng Thurston, Zhang Yang, Bertrand Chew Shen Hui
+Journal: International Journal of Surgery Case Reports (2020)
+DOI: 10.1016/j.ijscr.2020.08.011
+PMCID: PMC7452633
+
+Summary:
+Antroliths are rare pathological calcifications (mineral salt depositions around a central nidus) in the maxillary sinus. First described by Bartholin in 1654. Prevalence: 0.15% to 3.2% in maxillary sinuses. Most are asymptomatic incidental findings. Gender: 55-60% female.
+
+Case:
+67-year-old lady referred for dental clearance before Denosumab therapy (breast cancer history). Incidental rounded radiopacity on panoramic radiograph in right maxillary sinus. CBCT: 3.1mm x 3.6mm circumscribed dense radiopacity at sinus floor near buccal roots of #17. No mucosal thickening or opacification.
+
+Management: Patient chose removal+biopsy (concerned about breast cancer metastasis).
+- CBCT reviewed for surgical access measurements
+- Caldwell-Luc procedure under local anesthesia
+- 5mm round buccal window, 20mm from cuspal edge of #17
+- Antrolith clearly visible and retrieved
+- Histopathology: metaplastic bone and calcification → confirmed antrolith
+
+Etiology of antroliths:
+- Endogenous nidus: tooth fragments, bony chips, blood, mucus, fungi
+- Exogenous nidus: gutta percha, cotton, metal objects, dental burs, silver points
+- Precipitation of calcium salts (calcium phosphate, calcium carbonate) around nidus
+- Predisposing factors: long-standing infection, poor sinus drainage, foreign body presence
+
+Symptoms (when symptomatic):
+- Epistaxis, facial pain, chronic sinusitis, nasal obstruction
+- Purulent/blood-stained discharge, foul-smelling postnasal drip
+- Otorrhea, anosmia, cacosmia, halitosis
+
+Imaging:
+- CT appearance: homogeneous, high-density periphery with central lower density (variable)
+- CBCT: circumscribed dense radiopacity (as in this case)
+- CT preferred for identification, localization, and complications
+
+Differential diagnosis:
+- Impacted teeth, root fragments, osteomyelitis
+- Calcified mucus retention cysts, calcified polyps
+- Ossifying fibroma, fungal ball calcification
+- Benign/malignant tumours
+
+Management:
+- Small/asymptomatic: periodic surveillance; prophylactic removal NOT necessary
+- Complicated/symptomatic: surgical removal
+  - Endoscopic sinus surgery (ESS)
+  - Caldwell-Luc procedure
+  - Combination of both
+- Supplement with treatment of concurrent sinus infection
+- Prognosis: generally good; no recurrences documented
+
+Implications for dental/implant planning:
+- Antrolith in sinus floor may be discovered on pre-implant CBCT
+- Should be included in differential diagnosis of sinus floor radiopacity
+- Decision: small/asymptomatic → observe; large/symptomatic → removal before sinus lift
+- Histopathological evaluation justified even in asymptomatic cases (to rule out malignancy)
