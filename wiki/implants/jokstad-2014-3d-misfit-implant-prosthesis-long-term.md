@@ -9,6 +9,8 @@ source: jokstad-2014-3d-misfit-implant-prosthesis-long-term.md
 category: [implants]
 confidence: retrospective
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/jokstad-2014-3d-misfit-implant-prosthesis-long-term.txt
+text_filename: jokstad-2014-3d-misfit-implant-prosthesis-long-term.txt
 full_text: false
 tags: [misfit, passive-fit, screw-complication, full-arch, 3D-scan, long-term]
 ---
