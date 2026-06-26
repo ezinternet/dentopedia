@@ -8,8 +8,8 @@ export const sharedPageComponents: SharedLayout = {
   afterBody: [],
   footer: Component.Footer({
     links: {
-      "🦷 Interactive Tools": "https://ezinternet.github.io/llm-wiki/interactives/",
-      "GitHub Repo": "https://github.com/ezinternet/llm-wiki",
+      "🦷 Interactive Tools": "https://ezinternet.github.io/dentopedia/interactives/",
+      "GitHub Repo": "https://github.com/ezinternet/dentopedia",
       "Quartz Engine": "https://quartz.jzhao.xyz/",
     },
   }),
