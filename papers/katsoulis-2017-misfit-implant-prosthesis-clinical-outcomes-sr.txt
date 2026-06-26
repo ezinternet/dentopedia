@@ -1,0 +1,15 @@
+Title: Misfit of implant prostheses and its impact on clinical outcomes. Definition, assessment and a systematic review of the literature.
+Authors: Katsoulis J, Takeichi T, Sol Gaviria A, Peter L, Katsoulis K
+Journal: Eur J Oral Implantol. 2017;10 Suppl 1:121-138.
+PMID: 28944373
+DOI: (none)
+Source: PubMed (abstract-only — full text not retrieved)
+
+Abstract:
+Compromised fit between the contact surfaces of screw-retained implant-supported fixed dentures (IFDs) is thought to create uncontrolled strains in the prosthetic components and peri-implant tissues, thus evoking biological and technical complications such as bone loss, screw loosening, component fractures and, at worst, loss of implants or prostheses. The aim of this systematic review was to evaluate the impact of marginal misfit on the clinical outcomes of IFDs, and to elucidate definition and assessment methods for passive fit.
+
+A systematic review of the literature was conducted with a PICO question: "For partially or complete edentulous subjects with screw-retained IFDs, does the marginal misfit at the implant-prosthesis interfaces have an impact on the clinical outcomes?". A literature search was performed electronically in PubMed (MEDLINE) with the help of Boolean operators to combine key words, and by hand search in relevant journals. English written in vivo studies published before August 31, 2016 that reported on both clinical outcome and related implant prosthesis misfit (gap, strains, torque) were selected using predetermined inclusion criteria.
+
+The initial search yielded 2626 records. After screening and a subsequent filtering process, five human and five animal studies were included in the descriptive analysis. The selected studies used different methods to assess misfit (linear distortion, vertical gap, strains, screw torque). While two human studies evaluated the biological response and technical complications prospectively over 6 and 12 months, the animal studies had an observation period < 12 weeks. Four human studies analysed retrospectively the 3 to 32 years' outcomes. Screw-related complications were observed, but biological sequelae could not be confirmed. Although the animal studies had different designs, bone adaptation and implant displacement was found in histological analyses. Due to the small number of studies and the heterogenic designs and misfit assessment methods, no meta-analysis of the data could be performed.
+
+The current literature provides insufficient evidence as to the effect of misfit at the prosthesis-implant interface on clinical outcomes of screw-retained implant-supported fixed dentures. Marginal gaps and static strains due to screw tightening were not found to have negative effects on initial osseointegration or peri-implant bone stability over time. Based on two clinical studies, the risk for technical screw-related complications was slightly higher. While the degree of tolerable misfit remains a matter of debate, the present data do not imply that clinicians neglect good fit, but aim to achieve the least misfit possible.
