@@ -9,6 +9,8 @@ source: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.md
 category: [oral-surgery]
 confidence: sr+ma
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
+text_filename: thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma.txt
 full_text: false
 tags: [ian-injury, cbct, third-molar, nerve, oral-surgery]
 relations:
