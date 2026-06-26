@@ -1,0 +1,15 @@
+Title: Design and Biomechanical Analysis of a Customized Angled Abutment Based on Tooth Inclination for Immediate Implant Placement in the Anterior Maxilla.
+Authors: Chi CC, Shen YW, Hsu JT, Fuh LJ, Huang HL
+Journal: Int J Oral Maxillofac Implants. 2024;39(6):209-216.
+PMID: 38728145
+DOI: 10.11607/jomi.10877
+Source: PubMed (abstract-only — full text not retrieved)
+
+Abstract:
+To perform a finite element analysis (FEA) and an in vitro experiment to investigate and compare the loading effects (effects on the implant and surrounding bone) of various customized angled abutments to commercial 15-degree angled abutments (control).
+
+Four customized angled abutment models (21.9, 24.15, 20.22, and 33 degrees) were developed using CBCT images of incisor inclination measurements from patients of various age groups (20 to 23, 24 to 39, and 40 to 65 years). 3D maxillary bone models were created from the CBCT images of four individual patients: One patient from each age group with the respective average incisor inclination measurement and another patient with the overall average were selected. Then, FEA and in vitro strain gauge experiments were conducted by applying 100 N or 50 N of axial or oblique force to each model in order to assess the differences in stress/strain between the customized angled abutments (test) and the control in both the implants and surrounding bone.
+
+Under axial loading, the stress values in the implant and surrounding bone were elevated due to the relatively higher angles of the customized angled abutments (21.9, 24.15, 20.22, and 33 degrees) compared to the control angled abutments. Under oblique loading, the control angled abutments exhibited higher stress values in both the implant and surrounding bone. For the in vitro experiment, there was no statistically significant difference in bone strain between the customized (21.9 degree) and the control angled abutments in axial loading. Nevertheless, the control angled abutment with oblique loading induced greater bone strains.
+
+Customized angled abutments offer lower stress/strain under oblique loads but higher stress/strain under axial loads compared to the control abutments. Therefore, in the design and application of angled abutments, careful consideration of the occlusal load direction is important for achieving the biomechanical success of an implant.
