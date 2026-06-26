@@ -1,0 +1,69 @@
+SOURCE: PubMed (abstract only — full text not retrieved; Elsevier, no PMC)
+PMID: 42315366
+DOI: 10.1016/j.dental.2026.06.008
+Journal: Dental Materials (official publication of the Academy of Dental Materials)
+Publication date: 2026-06-18
+
+TITLE
+In vitro evaluation of physical properties and bacterial adhesion of different
+self-adhesive flowable composite resins.
+
+AUTHORS
+Yeloğlu-Akbuar Çağla; Güngör Ayça Sarıalioğlu; Öztürk İsmail; Dalkılıç Evrim.
+(Bahçeşehir University; İstanbul Aydın University; İzmir Kâtip Çelebi University;
+Bezmialem Vakıf University — Türkiye)
+
+KEYWORDS
+Bacterial adhesion; Color change; Flowable composite; Microhardness;
+Self-adhesive; Surface roughness.
+
+ABSTRACT (structured)
+
+Objective:
+The aim of this in vitro study was to comparatively evaluate the mechanical,
+optical, and biological properties of different self-adhesive flowable composite
+resins in comparison with a conventional flowable composite resin, with
+particular emphasis on the potential influence between material composition and
+bacterial adhesion.
+
+Methods:
+Five flowable composite resins were investigated: Vertise Flow (VF), Fusio
+Liquid Dentin (FL), Constic (Co), Nova Compo SF (NC), and a conventional
+flowable composite, Filtek Ultimate Flowable (FU) (n = 10). Surface
+microhardness (VHN), surface roughness (Ra), and color changes after 24 h (ΔE1)
+and 7 days (ΔE2) of immersion in coffee solution were evaluated. Bacterial
+adhesion and growth inhibition of Streptococcus mutans and Lactobacillus casei
+were assessed using a crystal violet assay, supported by scanning electron
+microscopy (SEM). Data were analyzed using one-way ANOVA and Tukey's post hoc
+test (α = 0.05).
+
+Results:
+The conventional flowable composite (FU) exhibited the highest microhardness
+values (p < 0.05). Surface roughness differed significantly among the
+self-adhesive materials, with FL presenting the highest Ra values (p < 0.05).
+Color stability varied depending on material composition, with NC demonstrating
+the lowest ΔE values after prolonged staining (p < 0.05). Bacterial adhesion was
+material-dependent; FU and NC showed the lowest adhesion for both bacterial
+species, whereas FL exhibited the highest bacterial affinity (p < 0.05).
+Bacterial adhesion patterns could not be explained by surface roughness alone.
+
+Conclusions:
+Self-adhesive flowable composite resins exhibited distinct mechanical, optical,
+and microbiological behaviors compared to a conventional flowable composite. The
+findings suggest that resin matrix chemistry and filler composition may influence
+bacterial adhesion beyond surface roughness, providing material-science-oriented
+insights relevant to the development and clinical selection of restorative
+materials. From a clinical perspective, materials with higher microhardness may
+be preferred for stress-bearing posterior restorations, whereas materials with
+lower bacterial adhesion may be advantageous for patients with high caries risk.
+In addition, color stability should be considered when selecting materials for
+anterior restorations where esthetic outcomes are critical.
+
+Clinical significance:
+The results provide clinically relevant information for the selection of flowable
+composite resins by demonstrating differences in mechanical properties, color
+stability, and bacterial adhesion. While conventional flowable composites showed
+superior microhardness, certain self-adhesive composites exhibited comparable
+surface roughness, favorable color stability, and reduced bacterial adhesion,
+which may contribute to favorable esthetic performance and reduced bacterial
+accumulation.
