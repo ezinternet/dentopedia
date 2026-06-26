@@ -1,0 +1,15 @@
+Title: New 3D technologies applied to assess the long-term clinical effects of misfit of the full jaw fixed prosthesis on dental implants.
+Authors: Jokstad A, Shokati B
+Journal: Clin Oral Implants Res. 2014;26(10):1129-34.
+PMID: 25263818
+DOI: 10.1111/clr.12490
+Source: PubMed (abstract-only — full text not retrieved)
+
+Abstract:
+To assess implant:suprastructure misfit in patients with an edentulous jaw restored by an implant-retained fixed dental prosthesis (FDP) and its association with biologic and mechanical adverse events over an extensive period.
+
+Thirty patients with an edentulous mandible treated with implant-supported prosthetics before 2000 were examined clinically in 2012. Each patient had received 4 to 6 implants to retain a FDP made from acrylic and three different metal alloys, that is, Ag-Pd, Pd-Ag, and Au type IV. The implant intra-oral locations were recorded digitally by use of an intra-oral scanner, and the intaglio surface of the detached FDP was recorded using a desktop scanner. The fit was estimated by digital matching of the STL files using industrial metrological software. The average misfit was correlated with the average marginal bone loss and the prevalence of screw loosening or fractures, using the patient as the statistical unit.
+
+Over an average of 19 years (range 12 to 32), 5 implants had been lost in 4 participants (96.7% implant survival) and 8 prostheses (26.7%) had been remade. An average misfit was 150 um (SD 35, range 95-232, CI 138-163). An average marginal bone loss of 2.2 mm (SD = 0.7) had occurred (range 0.6 to 5.8 mm) for individual implants. The correlation between framework misfit and marginal bone loss was weak (R2 = 0.04) (P = 0.29). The prostheses with a history of screw-related adverse events showed average misfit of 169 um (SD = 32) vs. those with no history of screw-related adverse events, that is, 134 um (SD = 30) (P = 0.005, Student's t-test). Fourteen of the 30 participants had experienced at least one incidence of screw loosening or fracture of prosthetic or abutment screw(s) over the period of follow-up. The occurrence among the frameworks fabricated with different metal alloys did not differ (P > 0.05, Fisher's exact test).
+
+Combining STL files with best-fit algorithms to appraise misfit is feasible using metrological software. The effect of misfit between the superstructures on its supporting implants up to ~230 um on the long-term clinical outcomes appears to be minor, apart from a slightly higher risk of screw-related adverse events.
