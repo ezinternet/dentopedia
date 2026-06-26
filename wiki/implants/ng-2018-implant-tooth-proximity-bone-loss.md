@@ -9,6 +9,8 @@ source: ng-2018-implant-tooth-proximity-bone-loss.md
 category: [implants]
 confidence: retrospective
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/ng-2018-implant-tooth-proximity-bone-loss.txt
+text_filename: ng-2018-implant-tooth-proximity-bone-loss.txt
 full_text: false
 tags: [implant-to-tooth-distance, bone-loss, peri-implantitis, bone-level-implant, tissue-level-implant]
 ---
