@@ -50,7 +50,9 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        // force the _lint folder to the very bottom; default order otherwise
+        // overviews first, _lint last; default alphabetical order otherwise
+        if (a.slugSegment === "overviews" && b.slugSegment !== "overviews") return -1
+        if (b.slugSegment === "overviews" && a.slugSegment !== "overviews") return 1
         const ra = a.slugSegment === "_lint" ? 1 : 0
         const rb = b.slugSegment === "_lint" ? 1 : 0
         if (ra !== rb) return ra - rb
@@ -88,7 +90,9 @@ export const defaultListPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        // force the _lint folder to the very bottom; default order otherwise
+        // overviews first, _lint last; default alphabetical order otherwise
+        if (a.slugSegment === "overviews" && b.slugSegment !== "overviews") return -1
+        if (b.slugSegment === "overviews" && a.slugSegment !== "overviews") return 1
         const ra = a.slugSegment === "_lint" ? 1 : 0
         const rb = b.slugSegment === "_lint" ? 1 : 0
         if (ra !== rb) return ra - rb
