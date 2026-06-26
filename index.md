@@ -346,6 +346,11 @@ tags: []
 - [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
 
 ## 즉시식립 (Immediate Implant)
+- [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — Aung 2024 · retrospective(49 임플란트, SNU 2009–2018) · tapered self-tapping SLA 즉시식립 5년 생존율 93.88%, 하악 100%·상악 실패는 상악동 연관, 부위별 식립 근거
+- [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] — Jang 2025 · retrospective(n=16) · 낮은 1차안정성(ITV<10Ncm·초기 ISQ<55) flapless 즉시식립 — 16례 전부 생존(100%), 시간경과 ISQ 회복
+- [[immediate-implant/esthetic-soft-tissue/han-2025-immediate-implant-maxillary-esthetic-dual-thread]] — Han 2025 · prospective(n=20) · 상악 심미부 즉시식립 dual-thread(상부 U+하부 V)·11° internal hex 임플란트 — 성공률 85%, 치은퇴축 개선
+- [[immediate-implant/najm-2024-immediate-implant-premolar-perforation-cbct]] — Najm 2024 · cross-sectional(CBCT 179명/716 소구치) · 상악 소구치 즉시식립 천공위험 — bone-driven 위치가 보철주도 대비 천공률 84%→41%로 감소
+- [[immediate-implant/esthetic-soft-tissue/lim-2022-immediate-implant-gbr-sctg-dog]] — Lim 2022 · animal(개 5마리/4군) · 즉시식립 시 GBR vs SCTG vs GBR+SCTG vs 대조 — SCTG가 협측 연조직 두께 우수, 병용(GBR+SCTG)은 비가산적
 - [[immediate-implant/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] — Mustakim 2023 · retrospective(106명/148 즉시 임플란트, SNU) · 상악 대구치 폐포골 높이(ABH)×발치와 형태 분류로 즉시식립 증례선택·술식 가이드라인 제시, 생존율 ~93%
 - [[immediate-implant/esthetic-soft-tissue/araujo-2026-buccal-gap-width-alveolar-reduction-iip-cbct]] — Araújo 2026 · retrospective · 전치부 즉시식립 CBCT(n=28): DBBM 협측 gap >2mm은 치조제 단면 90%↑ 보존, ≤2mm는 ~41% 흡수 (gap폭 유일 예측인자)
 - [[immediate-implant/esthetic-soft-tissue/wang-2026-immediate-anterior-implant-primary-stability-aesthetic]] — Wang 2026 · retrospective · 1차안정성(ITV≥20·ISQ≥50) 충족 시 전치부 즉시식립 12개월 성공률 동등(98.3%), MBL↓·PES↑(11.47 vs 10.05)
