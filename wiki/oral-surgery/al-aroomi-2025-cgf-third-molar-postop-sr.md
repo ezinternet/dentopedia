@@ -9,6 +9,8 @@ source: al-aroomi-2025-cgf-third-molar-postop-sr.md
 category: [oral-surgery]
 confidence: sr
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/al-aroomi-2025-cgf-third-molar-postop-sr.txt
+text_filename: al-aroomi-2025-cgf-third-molar-postop-sr.txt
 full_text: false
 tags: [cgf, platelet-concentrate, third-molar, wound-healing, oral-surgery]
 relations:
