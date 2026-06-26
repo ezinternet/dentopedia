@@ -1,0 +1,7 @@
+[PMC full text retrieved 2026-06-26 via PubMed MCP get_full_text_article]
+PMCID: PMC6628570 | PMID: 31167434 | DOI: 10.3390/cells8060537
+Title: Periodontal Bone-Ligament-Cementum Regeneration via Scaffolds and Stem Cells
+Journal: Cells 2019;8(6):537
+Authors: Jin Liu, Jianping Ruan, Michael D Weir, Ke Ren, Abraham Schneider, Ping Wang, Thomas W Oates, Xiaofeng Chang, Hockin HK Xu
+
+[Full text content available via PMC link above; key sections summarized in sources/liu-2019-periodontal-bone-ligament-cementum-regeneration.md]
