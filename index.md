@@ -6,6 +6,9 @@ tags: []
 > [!tip] 마지막 배포
 > <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED -->
 
+> [!map] 카테고리 지도 — [[category-map|임상 동선 6단계로 보기]]
+> 전 카테고리를 진단→경조직수술→치주·약물→보존·근관→보철·임플란트→교정·특수 동선으로 그룹핑한 탐색 지도. 아래 목록은 ingest 시간순(batch) 카탈로그입니다.
+
 ---
 
 ## 임플란트 — 디자인·생존율·실패위험 (Implants: Design / Survival / Risk)
