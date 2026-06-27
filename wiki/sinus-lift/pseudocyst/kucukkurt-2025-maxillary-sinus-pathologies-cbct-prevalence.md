@@ -16,6 +16,8 @@ relations:
     target: sinus-lift/pseudocyst/salari-2021-maxillary-sinus-pathologic-findings-cbct-implant
   - type: extends
     target: sinus-lift/pseudocyst/yeung-2022-cbct-maxillary-sinus-pathology-review
+text_path: /Users/oracleneo/llm-wiki/papers/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence.txt
+text_filename: kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence.txt
 ---
 
 ## One-line Summary
