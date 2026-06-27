@@ -1,0 +1,37 @@
+Title: The Outcomes of Vertical Alveolar Bone Augmentation by Guided Bone Regeneration with Titanium Mesh: A Systematic Review.
+Authors: Abu-Mostafa NA, Alotaibi YN, Alkahtani RN, Almutairi FK, Alfaifi AA, Alshahrani OD
+Journal: The Journal of Contemporary Dental Practice
+Year: 2022
+Volume: 23(12):1280-1288
+DOI: 10.5005/jp-journals-10024-3444
+PMID: 37125527
+
+ABSTRACT
+
+Aim:
+This study aimed to systematically review the published studies on vertical alveolar bone augmentation (VABA) by guided bone regeneration (GBR) with titanium mesh (TM).
+
+Background:
+Guided bone regeneration is a procedure that can be used for VABA of the alveolar ridge. Titanium mesh is used as a barrier due to its ability to maintain a space that the newly formed bone will occupy.
+
+Methods:
+A computerized literature search was conducted on the databases PubMed, SCOPUS, Science Direct, and Cochrane Library to review the published article on VABA by TM from 2011 to 2021.
+
+Results:
+Eight out of 574 retrieved articles were included in the qualitative analysis — three randomized clinical trials, two prospective clinical trials, and three retrospective trials. They were assessed for risk of bias using the critical appraisal skills program checklist.
+
+Titanium mesh was utilized as a barrier in three different ways:
+1. Adapted directly on the alveolar bone
+2. Bent preoperatively on 3D models
+3. 3D-printed
+
+Two randomized clinical trials (RCTs) reported 20.8% bone gain, while the other studies reported the means ranging from 2.56 to 4.78 mm.
+
+All studies reported TM exposure that ranged from 7.69 to 66.66%. Exposure during the four postoperative weeks led to inadequate bone regeneration. However, late exposure had no effect or caused only slight bone resorption.
+
+Early TM removal was performed in two studies, one case per each, ranging from 2.4 to 11.1%. Infection was presented in three studies, one case per each, and the percentages were 5, 11.1, and 25%.
+
+Conclusion:
+All types of TM had exposure, which was the most common complication, but early removal was indicated only in a few cases. Titanium mesh showed reliability and efficacy as a barrier for VABA by GBR.
+
+By this procedure, bone height can be restored; however, meticulous follow-up is recommended for the detection and management of TM exposures.
