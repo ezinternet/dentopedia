@@ -48,9 +48,9 @@ Together they show the same underlying point from two directions: in a market sh
 
 | Paper | Design | n | Key finding | Confidence |
 |---|---|---|---|---|
-| [[practice-management/listl-2019-what-is-health-economics-oral-health\|Listl 2019]] | Narrative review / conceptual primer | — | Frames dental care as a market with asymmetric information, supplier-induced demand, and market failure (efficiency + equity implications); workforce should be planned from system goals | narrative-review |
-| [[practice-management/ono-2022-cost-sharing-childhood-dental-utilization-japan\|Ono 2022]] | Difference-in-differences (administrative claims, natural experiment) | 1108 children, 6276 visits, 455 clinics | Discontinuing a childhood dental subsidy at age 10 → **no significant** 12-month change in utilization, cost, or severe conditions (first-visit mean ratio 1.01, 95% CI 0.97–1.04); universal-coverage context | retrospective |
-| [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization\|Chen 2024]] | Difference-in-differences (MEPS 2001–2014, DHPPI) | MEPS panel, 2001–2014 | **Non-monotonic**: moderate hygienist autonomy ↑ visits via ↑ preventive care; highest autonomy ↓ treatment use; both effects larger in provider-shortage areas | retrospective |
+| [[practice-management/listl-2019-what-is-health-economics-oral-health]] | Narrative review / conceptual primer | — | Frames dental care as a market with asymmetric information, supplier-induced demand, and market failure (efficiency + equity implications); workforce should be planned from system goals | narrative-review |
+| [[practice-management/ono-2022-cost-sharing-childhood-dental-utilization-japan]] | Difference-in-differences (administrative claims, natural experiment) | 1108 children, 6276 visits, 455 clinics | Discontinuing a childhood dental subsidy at age 10 → **no significant** 12-month change in utilization, cost, or severe conditions (first-visit mean ratio 1.01, 95% CI 0.97–1.04); universal-coverage context | retrospective |
+| [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]] | Difference-in-differences (MEPS 2001–2014, DHPPI) | MEPS panel, 2001–2014 | **Non-monotonic**: moderate hygienist autonomy ↑ visits via ↑ preventive care; highest autonomy ↓ treatment use; both effects larger in provider-shortage areas | retrospective |
 
 ## Policy & Clinical Decision Points
 
