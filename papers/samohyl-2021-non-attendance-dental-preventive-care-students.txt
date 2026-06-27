@@ -1,0 +1,67 @@
+Factors Associated with Non-Attendance at Dental Preventive Care in Slovak High School Students
+
+Samohyl M, Babjakova J, Vondrova D, Jurkovicova J, Stofko J, Kollar B, Hirosova K, Filova A, Argalasova L
+Int J Environ Res Public Health. 2021;18(3):1295. doi: 10.3390/ijerph18031295
+PMID: 33535551 ; PMCID: PMC7908624
+
+ABSTRACT
+
+This study aimed to determine the factors associated with the avoidance of dental preventive care in high school students and their parents in the framework of The Youth and Parents Risk Factor Behavior Survey in Slovakia, the ongoing cross-sectional school-based survey of students and their parents or legal representatives. The data were collected using two separate standardized questionnaires: (i) the questionnaire for students (n = 515) and (ii) the questionnaire for parents (n = 681). The study group included 57 high school students (54.4% males) who did not visit the dentist for preventive care in the previous year. The control group included 458 students (35.8% males) who visited a dentist for preventive care at least once in the previous year. A significantly higher number of males (54.4%), older adolescents, and young adults (21.8%; 20.0%) were not visiting dental preventive care regularly. Incomplete family (56.1%), stressful situations at home (17.5%), and feeling unwell were the factors contributing to the avoidance of dental preventive care. More than 34.5% of adolescents and young adults were not visiting either dental preventive care or pediatric preventive care (adjusted odds ratio (AOR) = 5.14; 95% confidence interval (CI) = 2.40, 10.99). Children of divorced mothers and mothers with household income lower than EUR 900 had significantly higher dental care avoidance in bivariate analysis. A significantly higher percentage of fathers from the exposed group were not visiting dental preventive care regularly (47.8%, p < 0.05). The results of the study can be used as an educational intervention step focusing on the parental influence on adolescent and young adults' behavior and as a challenge for the improvement of dental preventive care in older adolescents and young adults.
+
+1. INTRODUCTION
+
+Despite being largely preventable, oral diseases and inequalities constitute a significant public health problem in the prevalence of the major chronic diseases of the 21st century. Oral health is an integral part of general health and should not be considered in isolation, as many risk factors of poor oral health are the risk factors for obesity, heart disease, stroke, cancer, etc.
+
+Dental preventive care aims at reducing tooth decay incidence and searching for dental disorders. The education of parents plays one of the key roles in prevention. The most common chronic oral disease is dental caries in children, with a negative impact on health and quality of life as a result of pain and life-threatening infections.
+
+Adolescence is the life phase in which future patterns of maturity are created. Young adults, as compared with other age groups, have the highest rate of death and injury from motor vehicles, homicides, mental health problems, sexually transmitted infections, and substance abuse. Most of the leading causes of illness and death among young adults are preventable.
+
+The average number of teeth affected by dental caries has been declining from 1990 to 2015 in Europe (3.0 vs. 1.8). In the European Region, 20-90% of 6-year-old children have at least one tooth decay. According to Eurobarometer, respondents most likely to have visited a dentist during the past twelve months tend to be inhabitants of: the Netherlands (83%), Denmark (78%), Germany and Luxembourg (77%), followed by Slovakia (73%) and Sweden (71%).
+
+In Slovakia, children under the age of 18 are allowed to visit a dentist twice a year for a preventive check-up without paying a fee. According to the latest available data in Slovakia, the number of persons with preventive examination per one inhabitant was 0.58 in the age group of 6-14-year-olds, 0.63 in the age group of 15-18-year-old adolescents, and 0.48 in the age group of 19+ year-old young adults. The need for treatment was highest (69%) in the group of 19+ year-old young adults.
+
+In scientific studies in PubMed over the last five years, family income, female gender, dissatisfaction with oral health, and the attitude of parents were the most important factors related to attendance at dental preventive check-ups in adolescents and young adults.
+
+This study aimed to determine the factors associated with participation and avoidance of dental preventive care in the selected sample of high school students (adolescents and young adults 15-22 years old), their parents or legal representatives, in the framework of an ongoing cross-sectional school-based survey. We hypothesized that male gender, older age, socioeconomic status of the family, and parental pattern of dental preventive care avoidance could negatively impact the approach to dental preventive care.
+
+2. MATERIALS AND METHODS
+
+The Youth and Parents Risk Factor Behavior Survey in Slovakia was initiated during 2015/2016 in Bratislava, the Slovak capital, as a model region. It originates from the Behavioral Risk Factor Surveillance System (BRFSS) and The Youth Risk Behavior Surveillance System (YRBSS), originally designed by CDC, Atlanta, USA.
+
+Data were collected using two separate standardized questionnaires: (i) the questionnaire for adolescents and (ii) the questionnaire for parents. They included questions on residence, family, school, health and safety, habits and behavior, nutrition, body weight and height, lifestyle, and physical activity. Special emphasis was on demographic (gender, age, residence, educational level) and behavioral (home and school stress, health status) characteristics of dental preventive care attendance. A pilot validation of the Slovak version was performed on 20 respondents.
+
+The study was approved by the Ethics Committee of the Faculty of Medicine Comenius University and University Hospital on 25 July 2017 (number 87/2016).
+
+2384 questionnaires were distributed in total (798 for students and 1586 parents); response rates were 64.0% and 66.1% respectively. The sample involved 515 adolescents and young adults aged 15-22 years; 37.9% were males, from 8 randomly selected secondary schools (two grammar schools 40%; three vocational schools 30.4%; one school of art 3.2%; business academy 5.3%; nursing school 21.1%) out of 101 secondary schools and 22,723 students in Bratislava.
+
+The study group included 57 high school students (mean age 17.2 +/- 1.5 years; 54.4% males) who did not visit the dentist for preventive care in the previous year. The control group included 458 students (mean age 16.6 +/- 1.3 years; 35.8% males) who visited a dentist for preventive care at least once in the previous year. The differing numbers of adolescents (n=515), mothers (n=390), and fathers (n=291) reflect differing parent response rates (mothers 75.7%, fathers 56.5%) and incompleteness of the family (28.7%).
+
+Data Analysis: SPSS v25. Descriptive statistics (means, SD, proportions). Normality verified by Shapiro-Wilk. Two-sample t-test for continuous variables (age). Chi-square and Fisher exact test for categorical data. Multivariate analysis (multiple logistic regression) identified factors independently associated with non-attendance, mutually adjusted for all variables (age, gender, family completeness, dental preventive care), using adjusted odds ratios and 95% CIs. Significance at p < 0.05. Missing data (no response or incomplete family) treated as random missing and not included in analysis.
+
+3. RESULTS
+
+Demographic/socioeconomic: Highest number of students in age group 16-17 years (30.5%), mostly Slovak nationality (91.1%). >10% were >19 years old. Majority attended grammar school (40.5%), had at least one sibling (82.5%), lived in urban areas (59.4%). Complete family in 71.3% of students. Majority of parents completed secondary education (fathers 64.1%; mothers 62.5%). >91% of mothers and fathers were employed.
+
+Males (study group n=57) avoided dental preventive care more frequently than females (54.4% vs. 45.6%, p < 0.01). A significantly higher number of older students (18-19 years, 19+ years) (21.8%, 20.0%) were not visiting dental preventive care regularly. Incomplete family (56.1%), stressful situations at home (17.5%), and feeling unwell were factors contributing to avoidance. More than 34.5% of adolescents/young adults were visiting neither dental preventive care nor pediatric preventive care (in Slovakia pediatricians can care for youth up to 28 years of age).
+
+Mother influence (bivariate): Social factors such as family income (lower than EUR 900) and incompleteness of the family (divorced and single mothers) were significantly associated with higher dental care avoidance in their children. In the study group there were significantly higher percentages of mothers not visiting preventive medical check-ups (32.4%) and dental care themselves (26.1%).
+
+Father influence (bivariate): Avoidance of preventive care (47.8%, p < 0.05) was the only variable representing father influence on non-attendance.
+
+Multivariate analysis: Selected variables (male gender, incompleteness of the family, pediatric preventive care attendance) were statistically significant among factors independently associated with non-attendance. Non-attendance at pediatric/dental preventive care: AOR = 5.14; 95% CI 2.40, 10.99. Non-attendance at dental preventive care of mothers was statistically significant (AOR = 4.19; 95% CI 1.50, 11.71; p < 0.01). Single/divorced/widowed fathers (AOR = 3.73; 95% CI 1.21, 11.54; p < 0.05) and their non-attendance at dental preventive care (AOR = 3.41; 95% CI 1.24, 9.32; p < 0.05) were statistically significant.
+
+4. DISCUSSION
+
+This cross-sectional study identified several sociodemographic and socioeconomic factors associated with non-attendance and confirmed the hypotheses. Gender disparities in healthcare utilization are often present; in this study males avoided dental preventive care more frequently than females (54.4% vs. 45.6%; p < 0.01), consistent with American and Polish studies linking male gender, lack of insurance, deprivation, and family social class with irregular dental visits.
+
+One of the main barriers to seeking preventive care in adolescents was parents who avoided dental preventive visits. This was confirmed among mothers (AOR = 4.19; 95% CI 1.50, 11.71) and fathers (AOR = 3.41; 95% CI 1.24, 9.32). This can be partly explained by the parental behavior model where adolescents observe parents' behavior; discussion with parents about medical/dental care has great impact on attendance.
+
+Age had an effect in bivariate analysis but not after multivariate adjustment. 67.9% of students felt healthy and were not visiting general preventive care. Incomplete family and stressful situations at home had significant impact on avoidance; inadequate social support was associated with less frequent use of dental services. Divorced marital status and low household income affect emotional well-being.
+
+Strength: one of few studies analyzing sociodemographic/socioeconomic factors and parental patterns associated with avoidance in adolescents/young adults in Slovakia, in the framework of the Youth and Parents Behavioral Survey (YABS), combining two validated studies with parents directly involved.
+
+Limitations: (1) cross-sectional hypothesis-generating design (no causal inference); (2) small study group size (n=57 non-attenders); (3) representative only of high school students in Bratislava (students not attending high school excluded); (4) questionnaire/self-reported data only; (5) missing data.
+
+5. CONCLUSIONS
+
+The study revealed sociodemographic (male gender, older adolescent/young adult age), socioeconomic (incomplete family, low family income), and behavioral (stress at school, at home, subjective healthy feeling) factors with significant impact on avoidance of dental preventive care. A parental pattern of dental preventive care avoidance also had significant impact. Preventive strategy should focus on family and parental patterns. The authors recommend introducing free preventive dental check-ups twice a year for older adolescents and young adults over 18 years.
