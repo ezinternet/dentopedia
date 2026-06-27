@@ -1,0 +1,76 @@
+Interventions to improve team effectiveness within health care: a systematic review of the past decade
+Buljac-Samardzic M, Doekhie KD, van Wijngaarden JDH
+Hum Resour Health 2020;18(1):2
+PMID: 31915007 | PMCID: PMC6950792 | DOI: 10.1186/s12960-019-0411-3
+Source: PubMed Central full text (get_full_text_article)
+
+=== ABSTRACT ===
+
+Background
+A high variety of team interventions aims to improve team performance outcomes. In 2008, we conducted a systematic review to provide an overview of the scientific studies focused on these interventions. However, over the past decade, the literature on team interventions has rapidly evolved. An updated overview is therefore required, and it will focus on all possible team interventions without restrictions to a type of intervention, setting, or research design.
+
+Objectives
+To review the literature from the past decade on interventions with the goal of improving team effectiveness within healthcare organizations and identify the "evidence base" levels of the research.
+
+Methods
+Seven major databases were systematically searched for relevant articles published between 2008 and July 2018. Of the original search yield of 6025 studies, 297 studies met the inclusion criteria according to three independent authors and were subsequently included for analysis. The Grading of Recommendations, Assessment, Development, and Evaluation Scale (GRADE) was used to assess the level of empirical evidence.
+
+Results
+Three types of interventions were distinguished: (1) Training, which is sub-divided into training that is based on predefined principles (i.e. CRM: crew resource management and TeamSTEPPS: Team Strategies and Tools to Enhance Performance and Patient Safety), on a specific method (i.e. simulation), or on general team training. (2) Tools covers tools that structure (i.e. SBAR: Situation, Background, Assessment, and Recommendation, (de)briefing checklists, and rounds), facilitate (through communication technology), or trigger (through monitoring and feedback) teamwork. (3) Organizational (re)design is about (re)designing structures to stimulate team processes and team functioning. (4) A programme is a combination of the previous types. The majority of studies evaluated a training focused on the (acute) hospital care setting. Most of the evaluated interventions focused on improving non-technical skills and provided evidence of improvements.
+
+Conclusion
+Over the last decade, the number of studies on team interventions has increased exponentially. At the same time, research tends to focus on certain interventions, settings, and/or outcomes. Principle-based training (i.e. CRM and TeamSTEPPS) and simulation-based training seem to provide the greatest opportunities for reaching the improvement goals in team functioning.
+
+=== FULL TEXT ===
+
+Introduction
+
+Teamwork is essential for providing care and is therefore prominent in healthcare organizations. A lack of teamwork is often identified as a primary point of vulnerability for quality and safety of care. Improving teamwork has therefore received top priority. There is a strong belief that effectiveness of healthcare teams can be improved by team interventions, as a wide range of studies have shown a positive effect of team interventions on performance outcomes (e.g. effectiveness, patient safety, efficiency) within diverse healthcare settings (e.g. operating theatre, intensive care unit, or nursing homes).
+
+A decade ago (2008), the authors conducted a systematic review providing an overview of interventions to improve team effectiveness. This review showed high variety of team interventions in terms of type of intervention (simulation training, CRM training, interprofessional training, general team training, practical tools, and organizational interventions), type of teams (multi-, mono-, and interdisciplinary), type of healthcare setting (hospital, elderly care, mental health, primary care), and quality of evidence. From 2008 onward the literature rapidly evolved (Hughes 2016 meta-analysis: team training associated with teamwork and organizational performance; Murphy 2016: simulation-based team training effective for resuscitation teams; O'Dea 2014: CRM training strong effect on knowledge and behaviour in acute care). However, each prior review had a narrow scope (specific intervention or specific area). An updated systematic review covering the past decade without restrictions was therefore relevant.
+
+Research questions: (1) What types of interventions to improve team effectiveness in health care have been researched empirically, for which setting, and for which outcomes (last decade)? (2) To what extent are these findings evidence based?
+
+Methodology
+
+Search strategy: combined keywords from four areas: (1) team (team, teamwork), (2) healthcare (health care, nurse, medical, doctor, paramedic), (3) intervention (programme, intervention, training, tool, checklist, team building), (4) outcome (outcome, performance, function) OR a specific outcome (communication, competence, skill, efficiency, productivity, effectiveness, innovation, satisfaction, well-being, knowledge, attitude). Databases: EMBASE, MEDLINE Ovid, Web of Science, Cochrane Library, PsycINFO, CINAHL EBSCO, Google Scholar. Restricted to English peer-reviewed articles published 2008–July 2018. Resulted in 5763 articles + 262 from systematic reviews = 6025 articles screened.
+
+Selection: PRISMA four-stage process. Started with 6025 articles. Title/abstract screening by two reviewers (third settled disagreements) reduced to 639. Full-text assessment excluded 343. In total 297 articles were included. GRADE scale used to assess level of empirical evidence; studies can be upgraded/downgraded based on additional criteria (e.g. downgraded by one category for important inconsistencies).
+
+Organization of results: categorization of the final 297 articles resulted from three iterations. Main three categories remained: training, tools, organizational interventions. Subcategories developed: Training -> principle-based training (CRM-based training, TeamSTEPPS), method-based (simulation-based training), general team training. Tools -> structuring (SBAR, (de)briefing checklists, rounds), facilitating (communication technology), triggering (monitoring and feedback). Organizational (re)design and programme separated into two main categories.
+
+Results
+
+Four main categories distinguished: training, tools, organizational (re)design, and programme.
+- Training: principle-based (CRM, TeamSTEPPS), method-based (simulation), or general team training.
+- Tools: structuring (SBAR, (de)briefing checklists, rounds), facilitating (communication technology), triggering (monitoring and feedback).
+- Organizational (re)design: (re)designing structures (pathways, schedules, roles/responsibilities) to improve team processes.
+- Programme: a combination of training, tools, and/or redesign.
+
+Overall findings:
+- Type of intervention: majority of studies evaluated training. Simulation-based training most frequently researched type of team training.
+- Setting: most articles researched an acute hospital setting (emergency department, operating theatre, intensive care, acute elderly care, surgical unit). Less attention to primary care, nursing homes, elderly care, long-term care.
+- Outcome: interventions focused especially on improving non-technical skills (cognitive and social skills: team working, communication, situational awareness, leadership, decision making, task management). Most studies relied on subjective measures; few used objective measures. Safety Attitude Questionnaire (SAQ) and Non-Technical Skills (NOTECHS) tool frequently used.
+- Quality of evidence: a bulk of studies had a low level of evidence. Pre-/post-study frequently used. GRADE scale poorly appreciates action-research insights.
+
+Training detail:
+- CRM and TeamSTEPPS are well-known principle-based trainings aiming to improve teamwork and patient safety in hospital settings; based on similar principles. CRM covers non-technical skills (situational awareness, decision making, teamwork, leadership, coping with stress, managing fatigue) and has a management concept at core (maximize use of all available resources; prevent, trap, mitigate errors). ~1/3 of CRM-based trainings include development/implementation of CRM techniques (briefing, debriefing, checklists) and could be categorized as programme. High variety in CRM content and results; majority claim improvement in non-technical skills but mixed across studies; few outcome measures with mixed results. Most studies low-to-moderate evidence.
+- TeamSTEPPS evolved since 2006 as a response to CRM shortcomings; designed by AHRQ and DoD; "CRM and more"; flexible training kit with tailored plan; promotes competencies/strategies/standardized tools on five domains (team structure, leadership, communication, situational monitoring, mutual support); focuses on change management, coaching, measurement, implementation. All studies report improvements in some non-technical skills; combining non-technical with outcome measures more common; half of studies moderate-to-high quality of evidence.
+- Simulation-based training: simulation as core method (in situ, in centre, human actors, mannequin patients) built around clinical scenarios (resuscitation, bypass, trauma) to improve technical and/or non-technical skills. Only hospital settings (mostly emergency). All reported improvements in some non-technical skills; some non-significant; mixed technical results. 69 studies on simulation-based training, of which 16 delivered moderate-to-high quality of evidence.
+- General team training: no specific principle/method; multiple educational forms (didactic lectures, interactive sessions, online modules); broad target group (team building, coaching, communication skills training). High variation in outcomes, many positive; most studies low-to-very-low evidence.
+
+Tools detail:
+- Structuring tools: SBAR (Situation, Background, Assessment, Recommendation) often studied with implementation facilitation; most studies found communication improvements, a few mixed; only (very) low-level evidence. (De)briefing checklists: often the WHO surgical safety checklist (SSC) or variants (questions before induction of anaesthesia, before skin incision, before patient leaves operating theatre); improve non-technical skills and objective outcomes (reduced complications, errors, delays, morbidity), some mixed/critical (Whyte: five paradoxical findings — briefings could mask knowledge gaps, disrupt positive communication, reinforce professional divisions, create tension, perpetuate problematic culture); ~1/3 high/moderate evidence. Rounds: structured interdisciplinary meetings around a patient; hospital only; mixed evidence, mostly (very) low.
+- Facilitating tools: technology (telecommunication, information platforms) facilitates teamwork from a distance; mostly positive; hospital setting; moderate-to-very-low evidence.
+- Triggering tools: monitoring/visualizing information (score cards, dashboards) creates incentives for reflecting on and improving teamwork; sharing experiences (clinical cases, stories). All seven studies showed improvements in non-technical skills, very low level of evidence.
+
+Organizational (re)design: changing organizational structures (payment system, physical environment, most frequently standardization of pathways and changing roles/responsibilities, dedicated teams, localizing professionals). Most found some non-technical-skill improvements, few mixed; only four studies moderate evidence, rest (very) low.
+
+Programme: most frequently a Human Resource Management bundle combining learning/educational sessions, multiple tools (rounds, SBAR), and/or structural intervention; takes organizational context into account. Examples: Comprehensive Unit-Based Safety Program (CUSP) combining training, tools (team-based goal sheet), and structural intervention; medical team training (MTT) programme with three stages (preparation/follow-up, learning session, implementation/follow-up), typically CRM-based but extended. Diverse but mostly positive outcomes; quality of evidence high to very low.
+
+Conclusion and discussion:
+Studies focus on four types of interventions: training, tools, organizational (re)design, programmes. Training is the most frequently researched and most likely effective. Majority focused on (acute) hospital setting; long-term care received less attention. Most interventions focused on improving non-technical skills and provided evidence of improvements; objective outcomes also received attention. Looking at quantity and quality of evidence, principle-based training (CRM and TeamSTEPPS), simulation-based training, and (de)briefing checklist seem to provide the biggest chance of reaching desired improvements. Programmes combining interventions also show promising results. Over the past decade significantly more research focused on team interventions, but on a few specific interventions (CRM, simulation, (de)briefing checklist).
+
+Limitations: cannot claim every single study per subcategory found (would require umbrella reviews); categories limited to team literature (not integrated care/network medicine); excluded grey literature and non-English/non-empirical/non-peer-reviewed -> possible publication bias toward standardized interventions.
+
+Implications for future research: four gaps — (1) less evidence outside hospital setting (primary care, youth, mental health, disabled care); (2) little known about long-term effects/sustainability; (3) too little contextual information for replication; (4) total picture of relevant outcomes missing (encourage less-used outcomes such as professional well-being; identify "deadly combinations" between outcomes).
