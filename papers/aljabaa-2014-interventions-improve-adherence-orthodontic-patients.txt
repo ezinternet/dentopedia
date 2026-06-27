@@ -1,0 +1,20 @@
+Source: PubMed Central PMC8631889 (abstract only — get_full_text_article returned empty body)
+PMID: 25045779
+DOI: 10.2319/031214-184.1
+Title: A systematic review of randomized controlled trials of interventions to improve adherence among orthodontic patients aged 12 to 18
+Authors: Aljabaa A, McDonald F, Newton JT
+Journal: Angle Orthodontist 2015;85(2):305-313 (e-pub 2014-07-21)
+
+== ABSTRACT ==
+
+Objective:
+To investigate the effectiveness of interventions to enhance adherence among orthodontic patients aged 12 to 18 years. Specific adherence outcomes included were recall of information given by the orthodontic team, attendance at orthodontic appointments, self-reported oral hygiene behavior, and clinical indexes of oral hygiene.
+
+Materials and Methods:
+Electronic searches of Medline via OVID (January 1, 1966 through March 1, 2012), EMBASE, and the Cochrane central register of control trials from its inception through March 2012, as well as a hand search, were undertaken to identify relevant studies.
+
+Results:
+Through the electronic searches, 381 articles were identified. Initial screening of the abstracts and titles by all review authors identified 21 articles that met the inclusion criteria for this review. The full articles were then retrieved. Four randomized controlled trials were found, all of which used different methods of intervention: a system of rewards or awards, the Hawthorne effect, written information, and demonstration of the microbiology of plaque. All the interventions, except the use of award/reward, were associated with improvements in adherence.
+
+Conclusion:
+The literature advocates the use of several methods to improve compliance/adherence among orthodontic patients. Although there is insufficient evidence to allow clinicians to choose a single method, the results demonstrate the value of spending time with patients to illustrate the importance of adherence. Future studies should develop multiple methods of assessing patient adherence, including self-report, behavioral observation and recording, and change in clinical indexes. Such studies should test different types of interventions for effectiveness.
