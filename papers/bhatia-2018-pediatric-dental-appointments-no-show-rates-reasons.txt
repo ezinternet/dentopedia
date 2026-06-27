@@ -1,0 +1,90 @@
+Pediatric Dental Appointments No-show: Rates and Reasons
+Bhatia R, Vora EC, Panda A. Int J Clin Pediatr Dent 2018;11(3):171-176.
+DOI: 10.5005/jp-journals-10005-1506
+PMID: 30131636 | PMCID: PMC6102432
+Source: PubMed Central full text (https://pmc.ncbi.nlm.nih.gov/articles/PMC6102432/)
+
+ABSTRACT
+
+Aim
+To determine the frequency and reasons of missed and canceled pediatric dental appointments and identifying the factors associated with it among the patients visiting the pediatric dental clinic of the dental college in Navi Mumbai, Maharashtra, India. To assess the parents' perception regarding the treatment of their children and to explore the merit of different management strategies regarding the missed appointments.
+
+Materials and methods
+Self-administered questionnaires were handed over to the parents in the waiting area, whose children were undergoing treatment in the pediatric dental clinic. Questionnaire included questions pertaining to the sociodemographic characteristics, methods of remembering appointments, and satisfaction with the overall past clinic experience.
+
+Results
+Of the 294 surveyed sample, 52.0% stated that they have missed an appointment. Highest percentage of the patients had missed due to parents' forgetfulness and patient's exams; 52.0% relied on their memory to remember their appointments, and 44.5% used their diaries and mobiles as a means of reminders. For canceling an appointment, most of them stated that patient was unwell and parents' commitments toward other work led to an increase in rates of no-shows. Socioeconomic status and the methods of remembering the appointment date were found to be significantly correlated with missing an appointment among the surveyed sample (p < 0.05); 48.3% said that they would want a call from the dentist a day prior to their appointment as a reminder.
+
+Conclusion
+Around one half of the patients attending the pediatric dental clinic missed their appointments. Patients most likely to fail to keep an appointment was the one who was young, remembered appointment via memory, came from a high socioeconomic class, most of them were males, and had previously broken appointments, while patients preferred receiving a call from the dentist as a reminder aide.
+
+Clinical significance
+Missing appointment creates a series of problems. Firstly, it deprives another patient the opportunity of getting treated. Secondly, it contributes to the development of long waiting list for dental services. Thirdly, it affects the patient's treatment time and may cause increase in the dental emergencies leading to a disruption in the doctor-patient relationship and behavioral management problems.
+
+INTRODUCTION
+
+A missed appointment is defined as an appointment for which the patient did not show up, did not call in to cancel or reschedule. Patient nonattendance is a significant problem for health care providers. Missed appointments lead to loss of continuity of care, a health risk that could increase emergency room visits or chronic conditions; they reduce productivity and efficiency of the dental care facility and disrupt the health care delivery system for other patients. A US study (2005) revealed missed appointment was the most significant factor related to treatment failure. Missing/canceling appointments preclude other eligible patients from receiving care, prolong booking and waiting time, and have significant economic impact (wasted financial and social costs — clinic capacity, misused patient time), depleting limited resources.
+
+According to Detman and Gorzka, a missed appointment is likely affected by three kinds of barriers: Personal (attitude toward oral health care, education level, demographics), Structural (transportation, clinic hours, service organization), and Financial.
+
+No prior work investigated the attendance pattern of patients in a pediatric dental clinic in Navi Mumbai, Maharashtra, India. Aim: determine the frequency and reasons of missed/canceled pediatric dental appointments and any association between nonattendance and demographic variables among patients undergoing active treatment in the pediatric dental clinic; assess parents' perception, methods by which patients remembered appointments, and explore merits of management strategies.
+
+MATERIALS AND METHODS
+
+Self-administered questionnaires designed in English then translated into the regional language were handed to parents in the waiting area whose children were undergoing treatment over 6 months (January 2015 to July 2015). A total of 294 samples were collected; all checked for completeness.
+
+Questionnaire covered: Sociodemographic characteristics; Methods of remembering appointments; Reasons for canceling and missing appointments; Satisfaction with the overall past clinic experience.
+
+Six variables analyzed in relation to missed appointments: age of child; gender of child; parent's education status; socioeconomic status of family; reason for canceling the appointment; methods to remember the appointment date.
+
+Kendall's Tau-B test was performed to test for correlation. All tests conducted at 0.05 significance level.
+
+RESULTS
+
+Of 294 completely filled questionnaires, nearly half (52%) stated they had missed appointments (Yes 153 = 52%; No 141 = 48%).
+
+Age: Most failed appointments occurred in age group 7–12 years (53.40%; 78/146), then 1–6 years (51.60%; 49/95), then 13–18 years (50%; 26/52). p = 0.951 (not significant).
+
+Gender: 54.4% who missed were males (164 total male), 45.6% females (130). p = 0.089 (not significant).
+
+Method of remembering appointment: Memory 52.0% (153), diary 24.8% (73), mobile phone 19.7% (58), other (appointment cards, calls from doctor) 3.4% (10). Those relying on memory had the highest no-show rate, p = 0.024 (significant).
+
+Reasons for missing appointment: Patient had exams 17.0% (50), forgot about appointment 17.0% (50), patient too ill 15.3% (45), patient's symptoms better 15.3% (45), parent's commitments toward other work 9.5% (28), child's fear of dentist 3.7% (11), appointment not with doctor of choice 3.7% (11), other 4.1% (12). Forgetfulness and exams are the major reasons.
+
+Reasons for canceling appointment: Patient unwell 27.9% (82), parent's commitments 15.0% (44), problem scheduling appointment 12.2% (36), long waiting at clinic 10.5% (31), child not in mood for treatment 9.2% (27), financial problem 6.1% (18), stuck in traffic 1.7% (5), other 2.4% (7). Patient unwell is the major reason.
+
+Socioeconomic status (Kuppuswamy's scale 1976): Upper middle class showed maximum no-show (58.80%; 216), lower middle 38.20% (34), upper 35.7% (28), upper lower 18.80% (16). p = 0.142 (not significant).
+
+Preferred appointment confirmation method: Call from dentist 48.3% (142), appointment written on card 25.9% (76), SMS 23.8% (70), e-mail 2.0% (6). Most preferred a call from the dentist.
+
+DISCUSSION
+
+Proportion of missed appointments was 52.0%. The most common reason for missing was forgetfulness (consistent with Murdock et al, Lacy et al, AlSadhan), attributed to the long time between scheduling and the actual appointment date. Highest percentage still relied on memory, related to high no-show rates; missed rates could be reduced if patients used mobile phones or appointment cards. Second most common reason was exams (AlKanderi and AlBader).
+
+Males more likely to fail appointments (male gender associated with irregular attendance/carelessness, busy work schedule); AlSadhan found the opposite (females), but those studies were in adults. Patient unwell was the most common cancellation reason (similar to Trenouth and Hough 1991). Parent commitments also increased canceling/missing.
+
+Parent apathy plays a major role (Murdock et al); children depend on parents for oral health care; "being overloaded in everyday life" explains why parents fail to bring children. Parents themselves may lack a tradition of routine dental care (Lacy et al). Making/keeping appointments is multifactorial rather than a single decision.
+
+As patient age increased, missed rate decreased significantly (in line with Ismail et al): younger patients miss more due to fear/anxiety, not being in mood, non-cooperation. The first dental visit is the most important — both for treatment planning and psychologically; the dentist should detect appointment-avoidance habits and address them at the first visit.
+
+Parental education on oral hygiene importance and consequences of missing matters, but the effect of parental education level on missing was NOT found in this study.
+
+Patients who missed were of higher socioeconomic status (contrary to Alhamad, Boyette and Sirois 2011, Vijayan). Reasons for high-SES no-shows: no time to accompany children due to busy work; difficulties managing life situations; lack of parental confidence; tiredness after a hectic day; low priority for dental treatment/checkups; choosing to spend money on other things; child's unwillingness.
+
+Most preferred a reminder call from the dentist a day prior. Verbal human contact 48 hours before plays a significant role in reducing nonattendance (Vijayan). Controlling missed/canceled appointments should begin at the patient's first visit, communicating the importance of the appointment schedule and how/when to inform the clinic if unable to attend.
+
+To overcome no-shows: more flexible scheduling (extend clinic hours, leave open slots for walk-ins, time management), reminder systems (telephone calls or text messages, manual or automated; SMS reminders gave a statistically significant reduction per AlKanderi and AlBader; Hashim et al, Vijayan). Other models: appointment cards with date; date noted on calendar; preventing booking long in advance; overbooking (Hasvold and Wootton 2011); automated messaging (Guy et al — Televox, Lybrate, Practo); e-mails a day prior; exit interviews (Guse et al).
+
+CONCLUSION
+
+- Around one half of patients missed their appointments.
+- Highest percentage relied on memory to remember appointments.
+- Most frequent reasons for missing: forgetfulness and exams.
+- Most common reasons for canceling: patient unwell and parents' commitments.
+- Maximum number preferred a call from the dentist a day prior as a reminder.
+- Patients most likely to fail to keep an appointment: young, high socioeconomic status, mostly males, previously broken appointments.
+- Developing a flexible, easily accessible, interactive appointment with reminder/recall system is highly recommended.
+
+CLINICAL SIGNIFICANCE
+
+Missed appointments have serious clinical and economic impacts in a pediatric clinic: they deprive another patient of an appointment, build long waiting lists, disrupt continuity of patient care, delay treatment, affect the doctor-patient relationship, and increase health care cost.
