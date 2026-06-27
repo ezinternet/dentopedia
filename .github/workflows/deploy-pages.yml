@@ -46,6 +46,13 @@ jobs:
           sed -i "s|<!-- OVERVIEW_COUNT -->.*<!-- /OVERVIEW_COUNT -->|<!-- OVERVIEW_COUNT -->${OVERVIEW_COUNT}<!-- /OVERVIEW_COUNT -->|" wiki/index.md
           sed -i "s|<!-- CATEGORY_COUNT -->.*<!-- /CATEGORY_COUNT -->|<!-- CATEGORY_COUNT -->${CATEGORY_COUNT}<!-- /CATEGORY_COUNT -->|" wiki/index.md
 
+      - name: Regenerate category map from folder counts
+        run: |
+          # wiki/category-map.md의 '페이지' 열 숫자를 각 카테고리 폴더의 *.md 개수로
+          # 다시 채운다. 6단계 그룹핑·비고는 스크립트 STRUCTURE가 SSOT.
+          # Quartz가 markdown을 복사하기 전에 실행해야 갱신본이 사이트에 반영됨.
+          python3 scripts/build-category-map.py
+
       - name: Copy wiki/ into quartz/content/
         run: |
           rm -rf quartz/content
