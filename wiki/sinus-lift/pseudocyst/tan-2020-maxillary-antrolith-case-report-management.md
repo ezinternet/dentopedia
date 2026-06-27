@@ -14,6 +14,8 @@ tags: [antrolith, sinus-stone, CBCT, Caldwell-Luc, sinus-pathology, DDx]
 relations:
   - type: reinforces
     target: sinus-lift/pseudocyst/shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case
+text_path: /Users/oracleneo/llm-wiki/papers/tan-2020-maxillary-antrolith-case-report-management.txt
+text_filename: tan-2020-maxillary-antrolith-case-report-management.txt
 ---
 
 ## One-line Summary
