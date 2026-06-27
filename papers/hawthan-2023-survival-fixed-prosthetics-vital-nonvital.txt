@@ -1,0 +1,20 @@
+Survival of fixed prosthetic restorations on vital and nonvital teeth: A systematic review.
+
+Authors: Hawthan; Larsson; Chrcanovic
+Journal: {'title': 'Journal of prosthodontics : official journal of the American College of Prosthodontists', 'iso_abbreviation': 'J Prosthodont'}
+Publication date: {'year': '2023', 'month': '08', 'day': '11'}
+DOI: 10.1111/jopr.13735
+PMID: 37455556
+Article types: Systematic Review, Journal Article
+
+ABSTRACT
+========
+To evaluate the survival rate of full-coverage tooth-supported fixed prosthetic restorations, single crowns (SCs), and fixed dental prostheses (FDPs), taking into consideration the potential influence of tooth-vitality, presence and type of post, and type of prosthetic restoration material.
+
+In October 2022, two authors independently conducted a search in PubMed, Web of Science, and Scopus electronic databases as well as a hand search to identify clinical human studies on full-coverage SCs and FDPs supported by vital and/or non-vital abutments and/or a combination of both, with a minimum observation period of 24 months.
+
+Out of 4198 studies identified through the database search and 22 through hand searching, 26 studies fulfilled the inclusion criteria and were included in the analysis of the present systematic review. Included studies scored six points and more according to Newcastle-Ottawa Scale (NOS). The highest estimated 5-year survival rate was observed for (metal-ceramic and all-ceramic) SCs on vital teeth (98.3%; 95% CI [98.1, 98.6%]) and all ceramic SCs on non-vital teeth with fiber post (95.0%; 95% CI [94.5-95.4%]). Metal-ceramic SCs on vital teeth (97.1%; 95% CI [95.6-98.7%]) showed a statistically significant higher estimated 5-year survival rate compared to metal-ceramic SCs with cast metal post (90.7%; 95% CI [87.4-94.0%], P < 0.001), fiber post (91.3%; 95% CI [90.9-91.6%], P < 0.001) and without post (85.7%; 95% CI [80.7, 90.6%], P < 0.032). All-ceramic SCs with fiber post had a statistically significant higher estimated 5-year survival rate (95.0%; 95% CI [94.5-95.4%]) compared to metal-ceramic SCs on non-vital teeth with fiber post (91.3%; 95% CI [90.9-91.6%], P < 0.001). SCs (all-ceramic and metal-ceramic) with fiber post had a statistically significantly higher estimated 5-year survival rate of (92.7%; 95% CI [92.4-92.9%]) than SCs made of metal-ceramic and retained by cast metal post (90.7%; 95% CI [87.4-94.0%], P < 0.001). For FDPs, the 5-year survival rate was significantly higher for FDPs on vital abutments (84.9%; 95% CI [75.9, 93.9%]) compared to FDPs retained by non-vital abutment/s (81.3%; 95% CI [80.3, 82.2%], P = 0.049) irrespective to presence, type of post, and FDPs material. The results are limited by the limited number of studies and the presence of uncontrolled confounding clinical variables.
+
+Within the limitations of the study, tooth vitality is suggested to contribute positively to the survival of SCs and FDPs.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

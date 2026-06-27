@@ -8,6 +8,8 @@ category: post-and-core
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/37455556/
+text_path: /Users/oracleneo/llm-wiki/papers/hawthan-2023-survival-fixed-prosthetics-vital-nonvital.txt
+text_filename: hawthan-2023-survival-fixed-prosthetics-vital-nonvital.txt
 ---
 
 ## Why Ingested

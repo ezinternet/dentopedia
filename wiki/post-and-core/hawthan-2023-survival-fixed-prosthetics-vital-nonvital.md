@@ -11,6 +11,8 @@ confidence: sr
 source_collection: pubmed-text
 full_text: false
 tags: []
+text_path: /Users/oracleneo/llm-wiki/papers/hawthan-2023-survival-fixed-prosthetics-vital-nonvital.txt
+text_filename: hawthan-2023-survival-fixed-prosthetics-vital-nonvital.txt
 ---
 
 ## One-line Summary
