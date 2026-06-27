@@ -10,13 +10,14 @@ category: [radiology]
 confidence: in-vitro
 source_collection: pubmed-text
 full_text: false
-text_path: ""
+text_path: /Users/oracleneo/llm-wiki/papers/ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 tags: [effective-dose, intraoral, bitewing, panoramic, collimation, ICRP-2007, dosimetry]
 relations:
   - type: reinforces
     target: stervik-2024-radiation-exposure-during-orthodontic-treatment
   - type: reinforces
     target: lee-2021-dental-imaging-doses-web-dose-calculator
+text_filename: ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 ---
 
 ## One-line Summary

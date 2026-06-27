@@ -7,8 +7,9 @@ pmid: "18762634"
 category: [radiology]
 source_collection: pubmed-text
 full_text: false
-text_path: ""
+text_path: /Users/oracleneo/llm-wiki/papers/ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/18762634/
+text_filename: ludlow-2008-patient-risk-dental-radiographic-examinations.txt
 ---
 
 ## Why Ingested

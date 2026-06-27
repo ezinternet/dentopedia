@@ -1,0 +1,22 @@
+Patient risk related to common dental radiographic examinations: the impact of 2007 International Commission on Radiological Protection recommendations regarding dose calculation.
+
+Authors: Ludlow; Davies-Ludlow; White
+Journal: {'title': 'Journal of the American Dental Association (1939)', 'iso_abbreviation': 'J Am Dent Assoc'}
+Publication date: {'year': '2008', 'month': 'Sep'}
+DOI: 10.14219/jada.archive.2008.0339
+PMID: 18762634
+Article types: Comparative Study, Journal Article
+
+ABSTRACT
+========
+In 2007, the International Commission on Radiological Protection (ICRP) revised estimates of the radiosensitivity of tissues including those in the maxillofacial region. The authors conducted a study to reassess patients' risk related to common dental radiographic exposures using the 2007 ICRP recommendations.
+
+The authors used a tissue-equivalent head phantom to measure dose. They calculated effective doses by using both 1990 and revised 2007 ICRP recommendations. Effective dose is a calculation that takes into consideration the different sensitivities of organs to long-term effects from ionizing radiation. It is the preferred method for comparing doses between different types of exposures.
+
+Effective doses (per the 2007 ICRP) in microsieverts were as follows: full-mouth radiographs (FMX) with photo-stimulable phosphor (PSP) storage or F-speed film with rectangular collimation, 34.9 microSv; four-image posterior bitewings with PSP or F-speed film with rectangular collimation, 5.0 microSv; FMX using PSP or F-speed film with round collimation, 170.7 microSv; FMX with D-speed film and round collimation, 388 microSv; panoramic Orthophos XG (Sirona Group, Bensheim, Germany) with charge-coupled device (CCD), 14.2 microSv; panoramic ProMax (Planmeca, Helsinki, Finland) with CCD, 24.3 microSv; posteroanterior cephalogram with PSP, 5.1 microSv; and lateral cephalogram with PSP, 5.6 microSv. These values are 32 to 422 percent higher than those determined according to the 1990 ICRP guidelines.
+
+Although radiographs are an indispensable diagnostic tool, the increased effective doses of common intraoral and extraoral imaging techniques are high enough to warrant reconsideration of means to reduce patients' exposure.
+
+Clinicians can reduce patients' dose substantively by using digital receptors or F-speed film instead of D-speed film, rectangular collimation instead of round collimation and radiographic selection criteria.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]
