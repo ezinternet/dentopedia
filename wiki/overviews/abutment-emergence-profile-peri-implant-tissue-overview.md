@@ -10,13 +10,17 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [emergence-profile, abutment-design, healing-abutment, customized-healing-abutment, one-abutment-one-time, abutment-surface, mucosal-recession, marginal-bone-loss, emergence-angle, peri-implant-soft-tissue, esthetics, overview]
+tags: [emergence-profile, abutment-design, healing-abutment, customized-healing-abutment, one-abutment-one-time, abutment-surface, mucosal-recession, marginal-bone-loss, emergence-angle, abutment-height, junctional-epithelium, splinted-implants, peri-implant-soft-tissue, esthetics, overview]
 source_papers:
   - wiki/implants/canullo-2020-titanium-abutment-surface-peri-implant-tissue-ma.md
   - wiki/implants/rios-santos-2020-one-abutment-one-time-rct.md
   - wiki/implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr.md
   - wiki/implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct.md
   - wiki/implants/wang-2022-buccal-emergence-profile-peri-implant-rct.md
+  - wiki/implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium.md
+  - wiki/implants/soft-tissue/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants.md
+  - wiki/implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss.md
+  - wiki/implants/soft-tissue/prpic-2026-emergence-angle-profile-implant-restorations-scoping.md
   - wiki/prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr.md
 relations:
   - type: extends
@@ -25,6 +29,14 @@ relations:
     target: siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct
   - type: contradicts
     target: rios-santos-2020-one-abutment-one-time-rct
+  - type: reinforces
+    target: strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium
+  - type: reinforces
+    target: lee-2025-emergence-angle-soft-hard-tissue-splinted-implants
+  - type: extends
+    target: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss
+  - type: reinforces
+    target: prpic-2026-emergence-angle-profile-implant-restorations-scoping
 ---
 
 ## 한국어 핵심요약
@@ -40,17 +52,20 @@ relations:
 > - 형태를 최종 보철로 *전달*하는 축(e): 디지털 인상 시 임시보철을 빼고 연조직을 직접 스캔하면 즉시 ~200–500 μm, 20분 내 최대 ~1 mm 붕괴 → 간접 스캔(제거한 임시보철 구외 스캔·중첩)이 출현윤곽을 가장 충실히 재현해 전통 인상에 근접(Mikulás 2025 SR, 24편). 빚은 윤곽은 *조직*이 아니라 *임시보철*을 스캔해 옮길 것.
 > - 모순처럼 보이는 두 결과의 화해: "형태가 중요하다"(c·d 축)와 "표면·분리는 무의미"(a·b 축)는 충돌이 아니라 **레버의 서열** — 임상 노력은 표면 코팅·OAOT 프로토콜이 아니라 윤곽 설계에 투입해야 한다.
 > - 공통 조절 변수 = **연조직 두께/높이**. 얇은 점막에서 볼록 윤곽이 가장 위험(Siegenthaler), 두꺼운(≥2 mm) 점막에서만 W/H 설계가 작동(Wang) — 출현윤곽 효과는 [[overviews/keratinized-mucosa-peri-implant-health-overview]]의 연조직 축과 분리할 수 없다.
+> - 출현**각도 (Emergence Angle, EA)** 임계값의 전임상 인과 확립: 개 모델 RCT에서 EA가 넓을수록 MBL이 용량반응적으로 증가(20/40/60/80° → 24주 MBL 0.07/0.11/0.23/0.38 mm; 80°가 20°의 약 4배, p<0.001), ≥60°에서 접합상피 (Junctional Epithelium) 연속성 붕괴·플라크 100% — **각도 <40° 유지** 근거(Strauss 2024). 별개 split-mouth 개 모델은 60° vs 30°에서 결합조직 부착 단축(~0.7 vs ~1.1 mm)·연조직 봉쇄 (Soft Tissue Seal) 실패를 확인했고 **splinted/중간 임플란트**가 더 취약(Lee 2025).
+> - 각도는 **조건부** 위험 인자다: 7.4년 추적 후향연구(임플란트 192개)에서 출현각 ≥30°는 **지대주 높이 (Trans-mucosal Abutment Height, TmAH) <2 mm일 때만** 유의한 MBL을 일으켰고(짧은+넓은 그룹 MBL +0.48 mm·임플란트주위염 ~4배, OR 4.19), TmAH 1 mm 증가마다 MBL 발생 odds 37% 감소(OR 0.63, p=0.003) — Ríos-Santos의 "높이 ≥2 mm" 레버를 각도 차원으로 확장(Misch 2025). 즉 **짧은 지대주 위의 넓은 각도**가 가장 위험.
+> - 17편 scoping review(Prpic 2026)가 증거 기반을 통합: **EA <30°**는 MBL 감소와 *그럴듯하게* 연관되나 일관성 부족으로 불확실(RCT 대기), **오목 (concave) 윤곽**은 *일관되게* 연조직 안정·중안면 퇴축 감소와 연관(2 RCT) — 각도와 윤곽이 상호작용해 위험은 "넓은 각 + 볼록 윤곽 + 짧은 지대주"가 겹칠 때 의미를 가진다.
 > - 임상 takeaway: ① 전치부·협측은 **오목/평탄(under-contoured) 윤곽**·낮은 출현각도(~32° 목표) — 볼록은 잉여 연조직을 의도적으로 밀어낼 때만 ② **지대주 높이 ≥2 mm** 우선(골 보존) ③ 표면 처리·OAOT는 골/연조직 결정 인자가 아니므로 다른 이유(워크플로·심미)로 선택 ④ 맞춤형 치유지대주로 윤곽을 조기 형성 ⑤ 모든 형태 결정은 baseline 연조직 두께에 종속.
 
 ## One-line Summary
-Synthesis of 5 papers (1 SR+MA, 1 SR, 3 RCTs) across four abutment levers: emergence-profile **shape** is the dominant driver of peri-implant mucosal stability — a convex profile carries ~13× the recession risk of a concave one anteriorly (Siegenthaler 2022) and a low (~32°) W/H-derived buccal angle halves molar recession (Wang 2022) — whereas abutment **surface** modification (Canullo 2020) and **one-abutment-one-time** disconnection avoidance (Ríos-Santos 2020) show no reliable soft/hard-tissue benefit; customized healing abutments (Ruhstorfer 2024) let the favorable shape be built during healing with no downside. The actionable levers are contour, emergence angle, and abutment height (≥2 mm), all conditioned on soft-tissue thickness.
+Synthesis of 10 papers (1 SR+MA, 2 SR, 1 scoping review, 3 RCTs, 1 retrospective, 2 preclinical animal) across four abutment levers: emergence-profile **shape and angle** is the dominant driver of peri-implant mucosal stability — a convex profile carries ~13× the recession risk of a concave one anteriorly (Siegenthaler 2022), a low (~32°) W/H-derived buccal angle halves molar recession (Wang 2022), and controlled dog-model studies establish a dose-response angle→bone-loss/seal-failure mechanism (~4× MBL at 80° vs 20°, junctional-epithelium breakdown ≥60°; keep angle <40°: Strauss 2024, Lee 2025) — whereas abutment **surface** modification (Canullo 2020) and **one-abutment-one-time** disconnection avoidance (Ríos-Santos 2020) show no reliable soft/hard-tissue benefit; customized healing abutments (Ruhstorfer 2024) let the favorable shape be built during healing with no downside. Critically the angle is a **conditional** risk factor — a wide (≥30°) angle drives significant bone loss mainly under a short (<2 mm) abutment, while abutment height ≥2 mm buffers it (Misch 2025), and a 17-study scoping review consolidates the <30°-angle / concave-profile design rules (Prpic 2026). The actionable levers are contour, emergence angle (<40°, ideally <30°), and abutment height (≥2 mm), all conditioned on soft-tissue thickness.
 
 ## 한줄요약
-5편 종합(SR+MA 1·SR 1·RCT 3): 임플란트주위 조직 안정성의 지배 인자는 출현윤곽의 **형태** — 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022), 구치부 W/H 기반 낮은 출현각도(~32°)는 퇴축을 절반으로(Wang 2022) — 반면 지대주 **표면 처리**(Canullo 2020)와 **OAOT 분리 회피**(Ríos-Santos 2020)는 연·경조직 이득이 없음; 맞춤형 치유지대주(Ruhstorfer 2024)는 그 유리한 형태를 치유 중에 미리 빚게 해 불리함이 없다. 실효 레버는 윤곽·출현각도·지대주 높이(≥2 mm)이며 모두 연조직 두께에 종속.
+10편 종합(SR+MA 1·SR 2·scoping review 1·RCT 3·후향 1·전임상 동물 2): 임플란트주위 조직 안정성의 지배 인자는 출현윤곽의 **형태·각도** — 전치부 볼록은 오목 대비 퇴축 위험 ~13배(Siegenthaler 2022), 구치부 W/H 기반 낮은 출현각도(~32°)는 퇴축을 절반으로(Wang 2022), 개 모델 RCT는 각도→골소실/봉쇄실패 용량반응을 인과적으로 확립(80°가 20°의 ~4배 MBL, ≥60°에서 접합상피 붕괴; 각도 <40° 유지: Strauss 2024, Lee 2025) — 반면 지대주 **표면 처리**(Canullo 2020)와 **OAOT 분리 회피**(Ríos-Santos 2020)는 연·경조직 이득이 없음; 맞춤형 치유지대주(Ruhstorfer 2024)는 그 유리한 형태를 치유 중에 미리 빚게 해 불리함이 없다. 핵심은 각도가 **조건부** 위험 인자라는 점 — 넓은(≥30°) 각도는 짧은(<2 mm) 지대주에서만 유의한 골소실을 일으키고 지대주 높이 ≥2 mm가 이를 완충(Misch 2025); 17편 scoping review가 <30° 각도·오목 윤곽 설계 규칙을 통합(Prpic 2026). 실효 레버는 윤곽·출현각도(<40°, 이상적 <30°)·지대주 높이(≥2 mm)이며 모두 연조직 두께에 종속.
 
 ## Summary
 
-A peri-implant restoration interfaces with the soft and hard tissues through four distinct, separable abutment-related levers: the abutment's **surface**, how often it is **disconnected/reconnected**, whether the healing abutment is **customized** to anatomy, and the **shape/angle of the emergence profile** the prosthesis presents to the mucosa. The wiki holds five papers — three RCTs, one SR, and one SR+MA — that each interrogate one or two of these levers. Read together they sort the levers into a clear hierarchy: **shape governs the tissue; surface and disconnection do not.**
+A peri-implant restoration interfaces with the soft and hard tissues through four distinct, separable abutment-related levers: the abutment's **surface**, how often it is **disconnected/reconnected**, whether the healing abutment is **customized** to anatomy, and the **shape/angle of the emergence profile** the prosthesis presents to the mucosa. The wiki holds ten papers — three RCTs, two SRs, one scoping review, one SR+MA, one retrospective cohort, and two preclinical animal studies — that each interrogate one or more of these levers. Read together they sort the levers into a clear hierarchy: **shape and angle govern the tissue; surface and disconnection do not.**
 
 **The synthesizable thesis.** When you spend clinical effort to protect the peri-implant mucosal margin, spend it on the **contour and emergence angle** of the transmucosal profile, not on the abutment's surface coating or on a one-abutment-one-time protocol. The two "shape" papers produce the largest, most consistent effects in the set; the "surface" and "disconnection" papers are essentially null on tissue outcomes. The fifth paper (customized healing abutments) is the bridge — it is the practical tool for delivering the favorable shape early, during healing, at no measured cost to biology or esthetics.
 
@@ -68,12 +83,21 @@ Ruhstorfer 2024 (SR; 5 studies — 2 RCT/2 prospective/1 retrospective, 190 impl
 
 ### Sub-axis (d) — Emergence-profile shape & angle: the dominant lever
 
-Two RCTs converge on shape as the decisive driver:
+Two human RCTs converge on shape as the decisive driver:
 
 - **Siegenthaler 2022** (anterior, 3-arm RCT, n=47; convex vs concave provisional vs healing-abutment control): emergence-profile **shape**, not the mere presence of a provisional, governed recession. At 12 months, mid-facial recession occurred in **64.3% convex vs 14.3% concave** (control 31.4%); convex carried **~13× adjusted odds** vs concave (OR 12.69, 95% CI 1.89–88.48, p=.01). Esthetics (PES/WES) did not differ across arms, and a conditioning provisional added ~2.5× visits and ~869 CHF — so the provisional's value lies in the shape it imparts, not in itself. Convex sites also trended thinner at baseline, suggesting soft-tissue thickness as the underlying modifier.
 - **Wang 2022** (mandibular molars, supracrestal mucosa ≥2 mm, RCT, n=21): a **W/H-ratio-derived** buccal profile cut 12-month recession to **0.13 vs 0.63 mm** vs copying the healing-abutment contour (p=.006), with a lower initial **emergence angle (31.4° vs 40.0°, p=.025)**. A flatter, lower-angle, mucosa-derived contour preserves the margin — provided supracrestal tissue is ≥2 mm.
 
 Both point the same way: a less-convex, lower-angle, anatomy-derived emergence profile preserves the mucosal margin, and the benefit is gated by soft-tissue thickness.
+
+**Preclinical causal confirmation of the angle threshold.** The clinical RCTs above could correlate angle with outcome but not prove causation. Two controlled dog-model studies supply the histological mechanism and a clean dose-response, both pointing to a narrow angle:
+
+- **Strauss 2024** (preclinical RCT, 6 mongrel dogs, 48 bone-level sites, four customized abutments at **20°/40°/60°/80°**, 24 wk; radiograph + micro-CT + undecalcified histology + synchrotron): marginal bone loss rose **monotonically with angle** (24-wk MBL 0.07 / 0.11 / 0.23 / 0.38 mm — **~4× at 80° vs 20°**, angle effect and time×angle interaction both p<0.001), with plaque climbing to 100% at 80°. Histologically, 20°/40° kept a **continuous, intact junctional epithelium**, whereas **≥60° disrupted junctional-epithelium continuity** and disorganized supracrestal connective tissue, with the inflammatory infiltrate creeping closer to the bone crest (1.69→1.00 mm, fitting Waerhaug's ~1 mm plaque radius). Importantly, GEE adjusted for baseline soft-tissue thickness, which had **no** significant influence here (p=0.915) — isolating angle as the driver. Conclusion: keep the restorative angle **as narrow as clinically possible (<40°)**, now resting on causal rather than cross-sectional evidence.
+- **Lee 2025** (preclinical split-mouth, 5 beagle dogs, 30 equicrestal implants in three-implant **splints** per hemimandible, **30° narrow vs 60° wide** custom abutments, 6-mo function; histomorphometry + polarized-light collagen): the wide angle produced **greater crestal bone remodeling** (24-wk T-splint 1.4 vs 0.57 mm), larger infiltrated connective tissue, a **shorter connective-tissue attachment (~0.7 vs ~1.1 mm)**, longer junctional epithelium, and reduced peri-implant epithelial collagen — a **failed soft-tissue seal** (biologic width inadequate under WE, adequate under NE). Its distinctive contribution is the **splinted-restoration** context: harm concentrated at the splinted/middle positions (collagen dropping 85.5%→54.1%→33.8% toward the middle implant), flagging splinted and middle implants as higher-risk for the wide-angle seal failure.
+
+**The angle is conditional, not independent — abutment height gates it.** **Misch 2025** (retrospective radiographic cohort, 192 bone-level implants / 119 patients, mean 7.4-yr follow-up) cross-classified trans-mucosal abutment height (TmAH, cutoff 2 mm) × restoration emergence angle (REA, cutoff 30°) into four groups. REA ≥30° drove significant MBL **only when TmAH was <2 mm**: the Short/Wide group had the greatest bone loss (+0.48 mm vs Long/Narrow, p<0.001) and **~4× the peri-implantitis** (OR 4.19 vs Long/Wide, p=0.013) plus 9 of 10 failed sites, whereas **Long/Wide was statistically indistinguishable from Long/Narrow** (+0.08 mm, p=0.444). Abutment height was the dominant protective lever — each 1 mm of TmAH cut the odds of any MBL by 37% (OR 0.63, p=0.003), while REA alone was non-significant (OR 0.99). This directly extends the abutment-height result of Ríos-Santos 2020 (sub-axis b) into the angle dimension: **a wide emergence angle is dangerous mainly when stacked on a short abutment**, and a tall (≥2 mm) abutment largely neutralizes the angle penalty.
+
+**Evidence-base consolidation.** **Prpic 2026** (PRISMA-ScR scoping review, 17 studies — 10 on angle, 7 on profile, incl. 2 RCTs + 1 SR+MA) draws the same two threads together as design rules: (1) an **emergence angle <30°** is *plausibly* protective against MBL and peri-implantitis but the cohort evidence is inconsistent (several found no association) — the authors call it **inconclusive pending RCTs**; (2) a **concave emergence profile** is *consistently* associated with soft-tissue margin stability and reduced mid-facial recession (anchored by the Siegenthaler and Endres RCTs). Crucially Prpic 2026 formalizes the **interaction**: the angle's biological risk becomes meaningful mainly when it **exceeds 30° AND the profile is convex AND the abutment is short**, while a concave profile, a stable abutment interface, and TmAH >2 mm each buffer a larger angle — exactly the conditional picture Misch 2025 quantified.
 
 ### Sub-axis (e) — Capturing/transferring the shape: indirect digital scanning beats direct
 
@@ -88,26 +112,34 @@ A favorable emergence profile is only clinically useful if it survives the trans
 | [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] | SR | 5 studies / 190 implants | (c) customization | Customized = equal-or-better soft/hard tissue, esthetics, less pain; no downside (100% survival) |
 | [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] | RCT | 47 implants (anterior) | (d) shape | Convex 64.3% vs concave 14.3% recession; **convex OR 12.69 (~13×) vs concave, p=.01** |
 | [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] | RCT | 21 (molars, ≥2 mm mucosa) | (d) shape/angle | W/H-derived profile recession 0.13 vs 0.63 mm (p=.006); **angle ~32° < 40°, p=.025** |
+| [[implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium]] | animal RCT | 6 dogs / 48 sites (20/40/60/80°) | (d) angle (causal) | **Dose-response MBL** 0.07/0.11/0.23/0.38 mm (~4× at 80° vs 20°, p<0.001); **≥60° disrupts junctional epithelium**; keep angle **<40°** |
+| [[implants/soft-tissue/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants]] | animal | 5 dogs / 30 implants (30° vs 60°, splinted) | (d) angle (splinted) | Wide 60° → ↑bone remodeling (T-splint 1.4 vs 0.57 mm), **shorter CT attachment ~0.7 vs ~1.1 mm**, failed seal; worst at **splinted/middle** sites |
+| [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] | retrospective | 192 implants / 119 pt (7.4 y) | (d) angle × (b) height | REA ≥30° harms MBL **only when TmAH <2 mm**; Short/Wide +0.48 mm & **~4× PI (OR 4.19)**; **+1 mm TmAH → −37% MBL odds (OR 0.63, p=0.003)** |
+| [[implants/soft-tissue/prpic-2026-emergence-angle-profile-implant-restorations-scoping]] | scoping review | 17 studies | (d) consolidation | **Angle <30°** plausibly protective but inconclusive; **concave profile** consistently stabilizes soft tissue; risk = wide angle + convex + short abutment |
 | [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] | SR | 24 studies (esthetic zone) | (e) capture/transfer | Indirect scan (scan the provisional) ≈ conventional; direct scan collapses ~200–500 μm → ~1 mm by 20 min |
 
 ### Reconciliation — why the axes diverge
 
 - **Shape > surface/disconnection is a hierarchy, not a contradiction.** The two shape RCTs deliver large, significant, same-direction effects (recession 13× higher convex; recession halved at lower angle), while the surface SR+MA and the OAOT RCT are flatly null on tissue outcomes. There is no genuine conflict — the levers simply differ in magnitude, and clinical attention should track the magnitude.
-- **The OAOT null does not erase a real height effect.** Ríos-Santos found disconnection count irrelevant but abutment **height** strongly relevant (p=0.002), echoing the general crestal-bone literature. So "abutment choice matters for bone" survives as *height*, not as *disconnection avoidance*.
+- **The OAOT null does not erase a real height effect.** Ríos-Santos found disconnection count irrelevant but abutment **height** strongly relevant (p=0.002), echoing the general crestal-bone literature. So "abutment choice matters for bone" survives as *height*, not as *disconnection avoidance*. Misch 2025 then **fuses the height and angle axes**: a wide emergence angle is harmful chiefly *on a short abutment*, and a tall (≥2 mm) abutment buffers the angle penalty — so the two formerly separate "bone levers" (height, angle) are one interacting system, not independent additive risks.
+- **The angle threshold is now causal, not merely correlational.** The early angle data were cross-sectional (confounded by case mix); Strauss 2024 and Lee 2025 are randomized/controlled animal experiments that reproduce the angle→MBL→seal-failure chain under controlled conditions, with a clean dose-response (Strauss: 20→80° monotonic, ~4× MBL) and a histological mechanism (junctional-epithelium breakdown ≥60°, shortened connective-tissue attachment). This upgrades the "<40° / <30°" advice from expert opinion to mechanistically grounded recommendation, and Prpic 2026 packages it as a design rule — though Prpic also flags that the *clinical* <30° threshold remains formally inconclusive pending human RCTs.
+- **Splinting and implant position modulate the angle risk.** Lee 2025's split-mouth design shows the wide-angle seal failure is worst at **splinted and middle** implants (collagen and attachment degrade toward the center of a splint), adding a positional caveat absent from the single-unit RCTs — relevant when designing multi-unit emergence profiles.
 - **Soft-tissue thickness is the shared moderator.** Siegenthaler's convex sites trended thinner at baseline (plausible recession mechanism); Wang's W/H design only applies with ≥2 mm supracrestal mucosa. The shape lever is conditional on adequate soft tissue — connecting this page to the keratinized-mucosa / dehiscence axes below.
 - **Customization is the delivery vehicle, not a fifth independent effect.** Ruhstorfer's customized-abutment advantage *is* the shape lever, applied earlier in the timeline — it pre-forms the emergence profile during healing rather than at the definitive stage (Wang/Siegenthaler).
 - **Evidence caveats.** Wang and Canullo are abstract-only/short-term; Ruhstorfer is qualitative (no MA, 5 small studies); Siegenthaler's absolute recession magnitudes are near probe error. The *direction* (favor concave/low-angle, customize early, prefer ≥2 mm height, ignore surface/disconnection) is consistent; precise effect sizes are not fully nailed down.
 
 ### Clinical decision
 
-**Emergence contour (the primary lever).**
-- Anterior/esthetic zone: favor a **concave (or flat/under-contoured)** emergence profile over convex; reserve convex only to deliberately push apically excess overgrown soft tissue (Siegenthaler 2022).
+**Emergence contour & angle (the primary lever).**
+- Anterior/esthetic zone: favor a **concave (or flat/under-contoured)** emergence profile over convex; reserve convex only to deliberately push apically excess overgrown soft tissue (Siegenthaler 2022; concave consistency confirmed across the scoping review, Prpic 2026).
 - Posterior with ≥2 mm supracrestal mucosa: design the buccal profile from the **W/H ratio** and keep the initial **emergence angle near ~32°** rather than 40°; do not simply copy the healing-abutment contour (Wang 2022).
+- **Keep the emergence angle narrow — target <30°, and <40° at minimum.** Controlled dog-model evidence shows a dose-dependent rise in bone loss with angle (~4× MBL at 80° vs 20°) and junctional-epithelium breakdown once the angle reaches ≥60° (Strauss 2024); a separate splinted-implant model confirms the seal failure at 60° vs 30° (Lee 2025). For **multi-unit / splinted** restorations, be especially conservative with the angle at the middle/splinted units, which are the most vulnerable to seal failure (Lee 2025).
+- **The angle is conditional on abutment height** — a wide (≥30°) angle does most of its damage on a short (<2 mm) abutment; if a wider angle is anatomically unavoidable, pair it with a **taller (≥2 mm) trans-mucosal abutment**, which largely neutralizes the penalty (Misch 2025).
 - Gate every shape decision on **baseline soft-tissue thickness** — thin tissue amplifies convex-profile recession.
 
 **Abutment disconnection policy.**
 - OAOT confers **no proven crestal-bone benefit** over conventional repeated disconnection (Ríos-Santos 2020); choose it for workflow/esthetic convenience, not for bone preservation, since it carries no penalty either.
-- Prioritize **transmucosal abutment height ≥2 mm** for crestal bone — this is the real bone lever from that trial.
+- Prioritize **transmucosal abutment height ≥2 mm** for crestal bone — this is the real bone lever from that trial, and Misch 2025 confirms it as the dominant protective factor (−37% MBL odds per 1 mm) that also buffers a wide emergence angle.
 
 **Healing-abutment choice.**
 - Prefer a **customized (anatomically shaped) healing abutment** when you want the emergence profile contoured during healing — especially immediate placement in esthetic sites or large posterior sockets — to reduce delivery-time compressive pain and streamline the (digital) workflow; there is no measured biological/esthetic downside (Ruhstorfer 2024).
@@ -122,6 +154,10 @@ A favorable emergence profile is only clinically useful if it survives the trans
 - [[implants/ruhstorfer-2024-customized-vs-conventional-healing-abutments-sr]] — customization axis (c): SR showing customized healing abutments deliver the favorable emergence shape during healing with no downside; the delivery vehicle for the shape lever
 - [[implants/siegenthaler-2022-convex-emergence-profile-mucosal-recession-rct]] — shape axis (d), anterior: the strongest signal — convex ~13× recession risk vs concave
 - [[implants/wang-2022-buccal-emergence-profile-peri-implant-rct]] — shape/angle axis (d), posterior: reinforces concave/low-angle preference; ~32° beats 40° at molars with ≥2 mm mucosa
+- [[implants/soft-tissue/strauss-2024-wide-emergence-angle-marginal-bone-loss-junctional-epithelium]] — angle axis (d), causal: dog-model RCT establishing the dose-response angle→MBL relationship and junctional-epithelium breakdown ≥60°; mechanistic basis for the <40° threshold
+- [[implants/soft-tissue/lee-2025-emergence-angle-soft-hard-tissue-splinted-implants]] — angle axis (d), splinted: split-mouth dog model showing 60° vs 30° impairs the connective-tissue seal, worst at splinted/middle implants
+- [[implants/soft-tissue/misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss]] — angle × height (d/b): retrospective cohort showing emergence angle ≥30° harms bone only under a short (<2 mm) abutment; height ≥2 mm buffers it
+- [[implants/soft-tissue/prpic-2026-emergence-angle-profile-implant-restorations-scoping]] — consolidation axis (d): 17-study scoping review packaging the <30°-angle (inconclusive) and concave-profile (consistent) design rules and their interaction
 - [[prosthetic-materials/mikulas-2025-digital-impression-accuracy-peri-implant-emergence-profile-sr]] — capture/transfer axis (e): SR showing indirect digital scanning (scan the provisional) reproduces the sculpted emergence profile while direct scanning collapses; the workflow step that carries the favorable shape to the definitive crown
 - [[overviews/keratinized-mucosa-peri-implant-health-overview]] — sibling overview on the soft-tissue thickness/keratinized-mucosa axis that moderates every emergence-profile effect here
 - [[overviews/peri-implant-soft-tissue-dehiscence-prevention]] — sibling overview on preventing buccal mucosal recession/dehiscence, the outcome the shape lever directly controls
