@@ -11,6 +11,8 @@ confidence: sr+ma
 source_collection: pubmed-text
 full_text: false
 tags: [fiber-post, metal-post, endodontically-treated-teeth, severely-damaged, ferrule, survival, GRADE]
+text_path: /Users/oracleneo/llm-wiki/papers/wang-2019-fiber-posts-vs-metal-posts-severely-damaged.txt
+text_filename: wang-2019-fiber-posts-vs-metal-posts-severely-damaged.txt
 ---
 
 ## One-line Summary

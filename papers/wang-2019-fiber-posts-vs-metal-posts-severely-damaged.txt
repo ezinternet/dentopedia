@@ -1,0 +1,18 @@
+Evaluation of fiber posts vs metal posts for restoring severely damaged endodontically treated teeth: a systematic review and meta-analysis.
+
+Authors: Wang; Shu; Zhang; Yang; Jian; Zhao
+Journal: {'title': 'Quintessence international (Berlin, Germany : 1985)', 'iso_abbreviation': 'Quintessence Int'}
+Publication date: {'year': '2019'}
+DOI: 10.3290/j.qi.a41499
+PMID: 30600326
+Article types: Journal Article, Meta-Analysis, Systematic Review
+
+ABSTRACT
+========
+This review was undertaken to answer a controversial clinical question with high-quality evidence: When severely damaged teeth are restored, which type of post (metal or fiber) demonstrates superior clinical performance?
+
+The meta-analysis was conducted according to the guidelines in the Cochrane handbook. Electronic databases (MEDLINE, EMBASE, CENTRAL) and gray literatures were screened up to January 2018. Only randomized controlled trials (RCTs) with follow-up of at least 3 years were included. The quality of included studies was assessed by the Cochrane Collaboration's tool. Meta-analysis compared survival, success, post debonding, and root fracture incidence of teeth restored with fiber and metal posts. The GRADE system (Grading of Recommendations, Assessment, Development and Evaluations) was used to assess the strength of the evidence. Of 1,511 records, 14 full texts were obtained. Only four RCTs with follow-up times of 3 to 7 years met the selection criteria. The methodologic quality of included RCTs was low risk of bias. Fiber posts presented significantly higher survival rates than did metal posts (RR 0.57, 95% CI: 0.33 to 0.97, P = .04), while no difference was observed in success rates, post debonding rates, or root fracture rates. The GRADE assessment indicated a high quality of evidence for survival rates and a moderate quality for success rates.
+
+It was concluded that fiber posts displayed higher medium-term (3 to 7 years) overall survival rates than did metal posts when used in the restoration of endodontically treated teeth with no more than two coronal walls remaining.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

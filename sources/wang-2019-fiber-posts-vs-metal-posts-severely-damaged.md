@@ -8,6 +8,8 @@ category: [post-and-core]
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/30600326/
+text_path: /Users/oracleneo/llm-wiki/papers/wang-2019-fiber-posts-vs-metal-posts-severely-damaged.txt
+text_filename: wang-2019-fiber-posts-vs-metal-posts-severely-damaged.txt
 ---
 
 ## Why Ingested
