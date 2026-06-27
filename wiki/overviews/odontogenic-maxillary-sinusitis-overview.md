@@ -29,7 +29,11 @@ source_papers:
   - wiki/sinus-lift/lateral/sakuma-2020-maxillary-sinus-ostium-edema-cbct.md
   - wiki/sinus-lift/lateral/rocha-2023-sinusitis-rate-sinus-lift-zygomatic-ma.md
   - wiki/sinus-lift/lateral/suzuki-yamazaki-2020-sinusitis-prevention-sinus-lift-high-risk.md
-tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention]
+  - wiki/sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.md
+  - wiki/sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective.md
+  - wiki/sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis.md
+  - wiki/sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor.md
+tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, cbct, source-control, sinus-lift, membrane-perforation, prevention, ent-collaboration, felisati-grading]
 ---
 
 ## 한국어 핵심요약
@@ -44,6 +48,9 @@ tags: [overview, odontogenic-maxillary-sinusitis, oms, oroantral-fistula, fess, 
 > - **구강상악동루(OAF) 폐쇄**: 크기·타이밍 기반 — < 3 mm 자연치유 / < 5 mm 단순봉합 / ≥ 5 mm 피판 / > 10 mm 구개회전피판. 중대형엔 **협측지방패드(BFP)가 우월**(NMA, OR 15). 급성 즉시 폐쇄 ~95% ≫ 만성 지연 67% → 조기 폐쇄.
 > - **예방축(상악동거상술 천공)**: 천공 위험인자는 정량화됨 — 잔존골 높이(RRH) 낮음, 흡연(OR 1.58 / HR 25), 상악동 격벽(HR 8.07), 점액낭종(HR 27.75), 다수치 결손(HR 68.09). 천공률 10% 증가 → 임플란트 생존 OR 0.45. 단, 천공이 *발생*해도 적절히 봉합 시 유의한 실패 위험은 아님(Sala 2024) → "예방 > 발생 후 관리".
 > - **예방 보조 변수**: 두꺼운 점막은 금기 아님(술전 평가 대상)·얇은 점막(< 1 mm)이 오히려 천공 취약; 술전 만성 부비동염이 최강 실패 예측인자(p=0.007); 형태로 막두께 예측 불가 → CBCT 실측 필수; 후상치조동맥(PSAA) 주행 매핑으로 출혈 회피.
+> - **ENT 협진의 적응증 정밀화**: 점막비후·점액낭종(MRC)을 "병적 부비동염"으로 오인한 과잉 협진이 흔함 — Felisati 5등급 체계로 **3등급 이상(골구내강 폐쇄·명백한 부비동염·진균증)만 협진**, 점막비후 단독(>2–6 mm)은 협진 불요(Craig 2024). 이비인후과 관점의 핵심 결정 변수는 점막두께가 아니라 **자연공(natural ostium) 개존** — 이식재가 자연공을 막으면 부비동염, 막천공과는 별개 기전(Kim 2019). 술후 만성 부비동염은 상악 임플란트의 ~5%.
+> - **의인성 상악동염의 외과적 해소**: 임플란트가 상악동저에서 **>4 mm 돌출**하면 부비동염 위험 — 자연공 폐쇄·사골동 동반 침범 시 FESS 단독으로 부족하고 **FESS + 구강내 접근(이완 임플란트 제거·구강상악동루 폐쇄) 병용**이 필요(Nam 2014, 증례 10개월 완전 회복). FESS는 점막 보존하며 자연공을 넓혀 점막섬모수송(MCC)을 복원 — Caldwell-Luc 대비 입원·이환↓.
+> - **FESS 거부 시 대안**: 만성 상악동염 + 완전 혼탁 환자에서 측방창 거상술 중 **의도적 슈나이더막 절개(#15 blade)로 구강내 배액·세척 후 동시 이식·식립** 시도 — 천공은 배액 후 긴장 해소로 자가 정복되어 별도 봉합 불요, 1년 추적 임플란트 100% 생존·부비동염 0건·자연공 개존 회복(Park 2024, n=2 흡연자). source-control-first 명제를 거상술 한 세션 안에 통합한 사례.
 > - **주의**: 예방축은 채워졌으나 대부분 관측연구이고 통합 위험점수의 예측 타당도를 검증한 RCT는 없음 — 점수화는 의사결정 보조이지 확정 도구 아님.
 
 ## One-line Summary
@@ -109,7 +116,7 @@ Across 10 papers, odontogenic maxillary sinusitis is a treat-the-source disease:
 
 ## 예방축 — 상악동거상술(SFE)에서 천공·OMS 예방
 
-OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(De Corso 2022)인 만큼, "낫게 하는" 진단·치료 축만큼 **"만들지 않는" 예방 축**이 중요하다. 14편의 sinus-lift 근거가 다섯 갈래로 이 축을 채운다 — 천공인자·점막 cutoff·OMS(술전 부비동 건강)·중격·후상치조동맥(PSAA).
+OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(De Corso 2022)인 만큼, "낫게 하는" 진단·치료 축만큼 **"만들지 않는" 예방 축**이 중요하다. sinus-lift 근거가 여섯 갈래로 이 축을 채운다 — 천공인자·점막 cutoff·OMS(술전 부비동 건강)·중격·후상치조동맥(PSAA), 그리고 ENT 협진·의인성 부비동염 외과 관리.
 
 ### §1. 천공 위험인자 (Perforation factors)
 
@@ -151,6 +158,20 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 - 측방창 골삭제 시 출혈 합병증을 피하려면 PSAA 주행을 술전 CBCT로 매핑한다: **양측성 70.2%, 골내형(intraosseous) 63%, 직경 <1 mm 55%, 치조정에서 평균 ~16 mm**(Gulec 2025, 255명/510동).
 - 골내형·치조정 근접·큰 직경일수록 창 상연을 동맥 아래로 낮추거나 우회.
 
+### §6. ENT 협진 적응증 정밀화 + 의인성 부비동염 외과 관리 (ENT collaboration & iatrogenic sinusitis)
+
+예방축의 마지막 갈래는 "누구를·언제 ENT로 보내는가"와 "이미 생긴 의인성 부비동염을 어떻게 푸는가"다 — OMS 진단·치료 명제(source-control-first, FESS-as-adjunct)를 거상술·임플란트 전후 의사결정에 직접 연결한다.
+
+**ENT 협진 적응증의 정밀화 (Felisati grading).** Craig 2024(narrative review, ENT+임플란트 다학제)는 흔한 임상 혼란 — 점막비후를 "병적 부비동염"으로 오인한 과잉 협진 — 을 정면으로 다룬다. 골구내강(Osteomeatal Complex, OMC) 개존도와 부비동 혼탁을 결합한 **Felisati 5등급** 체계로, 3등급 이상(중등도 OMC 협착·점막질환 / 명백한 만성부비동염 / 완전 폐쇄·진균감염)만 협진을 권고·필수화하고, **점막비후 단독(>2–6 mm)·무증상 MRC·Felisati 1–2등급은 협진 불요**로 정리한다. 절대 금기(MSE 전 ENT 선치료 필요)는 ① 중비도 농 배출(감염성 부비동염) ② 진균성 부비동염 ③ 중증 OMC 반흔성 폐쇄 ④ OMC 폐쇄성 대형 폴립 ⑤ 난치성 만성부비동염. 이는 "점막비후는 대개 안전"이라는 거상술 근거(Maska 2017 등)에 ENT 협진 결정 트리를 입힌 것이다.
+
+**술전 부비동 평가의 ENT 관점 — 자연공 개존이 핵심.** Kim 2019(narrative review, Seoul St. Mary's ENT)은 상악 임플란트의 ~5%가 술후 만성부비동염을 일으키며, 결정 변수는 점막두께가 아니라 **자연공(natural ostium) 개존**임을 강조한다 — 거상술·이식재가 자연공을 막으면 부비동염이 생기고, 이는 슈나이더막 천공과는 별개 기전이다. 세 축(병력 + 자연공까지 포함한 CBCT + 비내시경)으로 평가하고, 병변이 상악동 높이의 1/3–1/2 미만이고 자연공에 인접하지 않으면 식립 가능, 그 이상이면 FESS 선행. FESS는 자연공을 넓혀 점막섬모수송을 복원하는 표준이자, 상악동으로 이주한 임플란트의 내시경 회수 경로이기도 하다(너무 커서 내시경으로 못 빼면 Caldwell-Luc).
+
+**의인성 부비동염의 외과적 해소 — FESS + 구강내 병용.** Nam 2014(증례, 39F)은 골치형(osteotome) 거상술 후 임플란트가 상악동저에서 **5 mm 돌출**(문헌 역치 >4 mm)하며 자연공 폐쇄·사골동 동반 혼탁을 일으킨 사례로, 4주 약물치료 실패 후 **FESS(중비갑개 절제·구상돌기 제거·자연공 확대·농/감염 이식편 제거, 점막은 보존) + 구강내 접근(이완 임플란트 제거·구강상악동루 1차 폐쇄)을 전신마취 하 협동 수술**로 시행해 10개월 추적 CT 완전 회복을 얻었다. 핵심 교훈: 자연공이 막힌 의인성 부비동염은 FESS 단독으로 부족하고 — 구강상악동루 폐쇄·이주 임플란트 제거가 동반될 때 — OMFS·ENT 협동 수술이 필요하다.
+
+**FESS를 거부할 때의 대안 — 의도적 막절개 동시 배액.** Park 2024(증례, n=2, 흡연자)는 만성부비동염 + 완전 일측 혼탁 환자(2주 amoxicillin/clavulanate 무반응, FESS 권고 거부)에서 측방창 거상술 도중 **노출막 상부 1/3에 #15 blade로 의도적 수평 절개**를 가해 전 방향 흡인 배액·세척을 시행하고, 이어 **동시에 xenograft 이식 + SLA 임플란트 식립**한 접근을 보고한다. 천공은 배액 후 막 긴장이 풀리며 협측으로 접혀 자가 정복되어 콜라겐 봉합이 불필요했고(Prichard elevator로 잔여 천공을 막아 이식편 변위 방지), 1년 추적에서 임플란트 100% 생존·변연골소실 0·부비동 병변 소실·부비동염 0건, Case 1은 자연공 폐쇄 폴립까지 간접 감소하며 개존이 회복됐다. 이는 source-control(배액)·증대·식립을 한 세션에 통합해 FESS 협진이 불가능한 상황의 현실적 대안을 제시한다.
+
+→ 종합하면 §6은 OMS 본 명제를 거상술 맥락으로 번역한다: **점막비후 ≠ 협진 사유(Felisati ≥3·자연공 폐쇄가 진짜 기준)**, 그리고 의인성 부비동염은 **FESS ± 구강내 병용** 또는 (FESS 거부 시) **의도적 막절개 동시 배액**으로 source control을 달성하되 — 가능하면 증대·식립과 한 세션에 통합한다.
+
 ### 예방 종합 — chairside 위험 점수화
 
 위 인자를 술전에 한 화면에서 채점하도록 인터랙티브로 구현했다 — RRH·점막두께·중격·흡연(+PSAA·OMC) 입력 → 위험등급 + 창 디자인 권고: [[interactives/2026-06-12_sinus-perforation-risk-calculator]].
@@ -180,3 +201,7 @@ OMS의 원인 구성에서 **의인성(임플란트·SFE)이 약 55%로 1위**(D
 - [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]]
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]]
 - [[oral-medicine/albu-2025-treatment-landscape-odontogenic-sinusitis]] — 2025 종합 리뷰; 항생제 비치료적·치과+ESS 병행 ~97% 성공으로 source-control-first 명제 재확인
+- [[sinus-lift/lateral/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation]] — Felisati 5등급 ENT 협진 적응증; ≥3등급(OMC 폐쇄·부비동염·진균)만 협진, 점막비후·MRC 단독은 불요
+- [[sinus-lift/lateral/kim-2019-maxillary-implants-otolaryngologist-perspective]] — ENT 관점 술전 평가; 자연공 개존이 핵심 결정 변수; 술후 만성부비동염 ~5%; CT 기반 관리 플로차트
+- [[sinus-lift/lateral/nam-2014-fess-intraoral-implant-related-sinusitis]] — 임플란트 >4 mm 돌출·자연공 폐쇄 부비동염; FESS + 구강내 병용 협동 수술; 10개월 완전 회복
+- [[sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor]] — FESS 거부 시 대안: 의도적 막절개 동시 배액 + 동시 증대·식립; 1년 100% 생존·부비동염 0건
