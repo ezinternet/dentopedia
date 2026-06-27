@@ -9,6 +9,8 @@ source: escribano-2010-low-concentration-chlorhexidine-periodontitis.md
 category: [periodontics]
 confidence: rct
 source_collection: external
+pdf_path: /Users/oracleneo/llm-wiki/papers/escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
+pdf_filename: escribano-2010-low-concentration-chlorhexidine-periodontitis.txt
 tags: [chlorhexidine, low-concentration, SPC, periodontitis, plaque]
 ---
 
