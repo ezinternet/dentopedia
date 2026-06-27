@@ -2510,6 +2510,9 @@ tags: []
 - [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]] — Socransky 1998 · cross-sectional · Landmark survey (185 subjects, 13,261 samples, 40 taxa, checkerboard DNA-DNA hybridization) defining five subgingival complexes; red complex (P. gingivalis, T. forsythia, T. denticola) most tied to pocket depth/BOP (DOI 10.1111/j.1600-051X.1998.tb02419.x)
 - [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]] — Costerton 1999 · narrative-review · Seminal Science review establishing matrix-encased biofilms and their inherent antibiotic/host-defense tolerance as the root cause of most persistent/chronic infections, incl. caries and periodontitis (DOI 10.1126/science.284.5418.1318)
 - [[oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome]] — RCT (n=153, 6주); spike-in 절대 정량 메타게놈으로 알코올 함유 EOMW(LCM·ACPM)가 치은염 ≥37% 감소 + 이상증식 미생물군집을 건강 상태로 전환 최초 입증 (J&J 후원)
+- [[oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma]] — SR+MA (115 studies, 4 methods); NSPT 후 Aa·Td·Pg·Tf·En·Pi·Cr 유의 감소; 16S rRNA diversity 결과 이질적 (2025)
+- [[oral-microbiology/zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens]] — Narrative review; S. sanguinis의 SpxB H₂O₂로 S. mutans·P. gingivalis 억제 — 구강 유익균 commensalism 메커니즘 정리 (2018)
+- [[oral-microbiology/salah-2025-microbiota-based-therapies-oral-health]] — Narrative review; 적색복합체(Pg·Tf·Td) 병원성 vs 유익균(S. salivarius·Lactobacillus), 프로바이오틱스·박테리오파지·OMT 치료 최신 정리 (2025)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
 - [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
