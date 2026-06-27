@@ -10,6 +10,8 @@ source: zyla-2015-black-stain-dental-caries-review.md
 category: [caries]
 confidence: narrative-review
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/zyla-2015-black-stain-dental-caries-review.txt
+text_filename: zyla-2015-black-stain-dental-caries-review.txt
 full_text: false
 tags: [black-stain, caries, actinomyces, iron-sulfur, saliva, pediatric-dentistry]
 ---
