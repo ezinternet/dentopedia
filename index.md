@@ -760,6 +760,11 @@ tags: []
 - [[interdental-cleaning/abed-2022-environmental-impact-interdental-cleaning-aids]] — Abed 2022 · in-vitro (치간 청소 도구 8종 전과정평가 LCA, 1인 5년 매일 사용·16개 환경범주: 일회용 플로스픽이 16개 중 13개 범주에서 최악, 대나무 치간칫솔이 탄소 포함 5개 범주 최저(11.42 vs 1.31 kg CO₂e); 임상·비용과 함께 환경영향 고려 권고) (DOI 10.1111/jcpe.13727)
 - [[interdental-cleaning/mohapatra-2024-water-flosser-vs-floss-plaque-sr]] — Mohapatra 2024 · sr (성인 물치실 vs 치실 치면세균막 감소 SR, RCT 7편; 4/7 물치실 우위·특히 인접면, 3/7 차이 없음; I²=97%로 메타분석 미시행, GRADE moderate) (DOI 10.4103/jisp.jisp_597_22)
 - [[interdental-cleaning/sawan-2022-super-floss-water-flosser-orthodontic-rct]] — Sawan 2022 · rct (교정환자 34명 split-mouth: 슈퍼플로스 vs 수압치실 즉시 치면세균막 제거 동등, RMNPI ~0.6→0.13 둘다 p<0.001, 군간 p=0.951; 대구치 원심 인접면만 수압치실 우세 MD −0.21, p=0.033) (DOI 10.1155/2022/1344258)
+- [[interdental-cleaning/sarkisova-2024-oral-irrigation-devices-scoping-review]] — Sarkisova 2024 · sr (구강세정기 첫 광범위 스코핑 리뷰, 275편·1962–2023, 임상시험 185편+SR 15편: 치주·임플란트주위 염증은 일관되게 감소하나 플라크 제거는 엇갈림, 기전은 미생물총 조절 추정) (DOI 10.1002/cre2.912)
+- [[interdental-cleaning/badahdah-2025-dental-water-jet-plaque-gingivitis-sr]] — Badahdah 2025 · sr+ma (RCT 18편/MA 15편, n≈1005; 물제트는 일반·교정환자 모두에서 출혈·치은지수에 약간의 이득[출혈 중등도 근거], 치면세균막 우위는 없음 — 이득은 치실보다 칫솔질-단독 대비, 교정환자에서 더 뚜렷) (DOI 10.3390/healthcare13040396)
+- [[interdental-cleaning/ren-2023-oral-irrigator-plaque-gingivitis-efficacy-safety-rct]] — Ren 2023 · rct (12주 단일맹검 RCT, 치은염 90명: 칫솔질+구강세정기가 단독보다 MGI/BI/BOP% 4주부터·8–12주 p<0.001, 치태 T-QH 8주 p=0.033·12주 p=0.006 개선; 중대 이상반응·통증·상아질과민증 증가 없음) (DOI 10.3390/ijerph20043726)
+- [[interdental-cleaning/kim-2023-multichannel-oral-irrigator-periodontal-microbiome-rct]] — Kim 2023 · rct (예비 RCT n=29, 3일 무칫솔질 모델: 다채널 구강세정기(COMORAL)가 BOP 유의 감소·PI/SBI 유지, 대조군 Prevotella +114% p=0.003·Bacteroidetes p=0.031 증가를 차단하고 선구균 enrich) (DOI 10.1038/s41598-023-38894-0)
+- [[interdental-cleaning/slekovec-2026-legionella-water-flosser-france-case-report]] — Slekovec 2026 · case-report (프랑스 증례 n=1: 비멸균 수돗물 물치실이 레지오넬라 Lp1 생물막 300 CFU/L을 품어, 골수종·자가이식 면역저하 환자의 병원내 레지오넬라병 균주와 전장유전체 동일(ST42); 물치실↔레지오넬라 첫 문헌 사례, 면역저하·병원 환경 감염관리 경고) (DOI 10.3201/eid3202.251386)
 
 ## 치주치료 (Periodontics)
 - [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — James 2017 · sr+ma (Cochrane, 51 RCT, 5,345명) · CHX 가글 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소; 농도별(0.05%/0.12%/0.2%) 효능 차이 없음; 착색 부작용 일관 (DOI 10.1002/14651858.CD008676.pub2)
