@@ -1,0 +1,1519 @@
+Title: How effective is teamwork really? The relationship between teamwork and performance in healthcare teams: a systematic review and meta-analysis
+PMID: 31515415 | PMCID: PMC6747874 | DOI: 10.1136/bmjopen-2018-028280
+Source: PubMed Central (PMC) full text — https://pmc.ncbi.nlm.nih.gov/articles/PMC6747874/
+
+=== ABSTRACT ===
+Objectives
+
+To investigate the relationship between teamwork and clinical performance and potential moderating variables of this relationship.
+
+Design
+
+Systematic review and meta-analysis.
+
+Data source
+
+PubMed was searched in June 2018 without a limit on the date of publication. Additional literature was selected through a manual backward search of relevant reviews, manual backward and forward search of studies included in the meta-analysis and contacting of selected authors via email.
+
+Eligibility criteria
+
+Studies were included if they reported a relationship between a teamwork process (eg, coordination, non-technical skills) and a performance measure (eg, checklist based expert rating, errors) in an acute care setting.
+
+Data extraction and synthesis
+
+Moderator variables (ie, professional composition, team familiarity, average team size, task type, patient realism and type of performance measure) were coded and random-effect models were estimated. Two investigators independently extracted information on study characteristics in accordance with Preferred Reporting Items for Systematic Reviews and Meta-Analyses guidelines.
+
+Results
+
+The review identified 2002 articles of which 31 were included in the meta-analysis comprising 1390 teams. The sample-sized weighted mean correlation was0.28 (corresponding to an OR of 2.8), indicating that teamwork is positively related to performance. The test of moderators was not significant, suggesting that the examined factors did not influence the average effect of teamwork on performance.
+
+Conclusion
+
+Teamwork has a medium-sized effect on performance. The analysis of moderators illustrated that teamwork relates to performance regardless of characteristics of the team or task. Therefore, healthcare organisations should recognise the value of teamwork and emphasise approaches that maintain and improve teamwork for the benefit of their patients.
+
+=== FULL TEXT ===
+Strengths and limitations of this study
+
+This systematic review evaluates available studies investigating the effectiveness of teamwork processes.
+
+Thirty-one studies have been included resulting in a substantial sample size of 1390 teams.
+
+The sample size of the primary studies included is usually low.
+
+For some subgroup analysis, the number of studies included was small.
+
+Introduction
+
+May it be an emergency team in the trauma room, paramedics treating patients after an accident or a surgical team in the operating room, teams are ubiquitous in healthcare and must work across professional, disciplinary and sectorial boundaries. Although the clinical expertise of individual team members is important to ensure high performance, teams must be capable of applying and combining the unique expertise of team members to maintain safety and optimal performance. In order for a team to be effective individual team members need to collaborate and engage in teamwork. Today, experts agree that effective teamwork anchors safe and effective care at various levels of the healthcare systemsleading to a relatively recent shift towards team research and training.
+
+Healthcare is an evidence-based field and therefore administrators and providers are seeking evidence in the literature concerning the impact of teamwork on performance outcomes like patient mortality, morbidity, infection rates or adherence to clinical treatment guidelines. Having a closer look at the literature investigating healthcare teams we find mixed and sometimes even contradicting results about the relationship between teamwork and clinical performance.Some studies find a large effect of teamwork on performance outcomes (eg, Carlson) while others report small or no relationships.This inconsistency arises due to several reasons. First, the conceptual and empirical literature examining teamwork is fragmented and research examining teamwork effectiveness is spread across disciplines including medicine, psychology and organisation science. Therefore, researchers and practitioners often lack a common conceptual foundation for investigating teams and teamwork in healthcare. Second, research studies on teamwork in healthcare usually exhibit small sample sizes because of the challenges of recruiting actual professional teams and carefully balancing research with patient care priorities. Small sample sizes, however, increase the likelihood of reporting results that fail to represent true effect. Third, studies investigating healthcare teams often ignore important context variables of teams (eg, team composition and size, task characteristics, team environment) that likely influence the effect that teamwork has on clinical performance.
+
+These inconsistencies in the teamwork literature may lead to confusion about the importance of teamwork in healthcare, thus giving voice to critics who hinder efforts to improve teamwork. We aim to address these problems with a meta-analytical study investigating the performance implications of teamwork. A meta-analytical approach moves beyond existing reviews on teamwork in healthcareand quantitatively tests if the widely advocated positive effect of teamwork on performance holds true. In addition, this approach allows us to investigate context variables as moderators that may influence the effect of teamwork on performance, meaning that this effect might be stronger or weaker under certain conditions. Previous meta-analysesfocused mainly on the effectiveness of team trainings but not on the effect of teamwork itself. This meta-analysis will generate quantitative evidence to inform the relevance of future interventions, regulations and policies targeting teamwork in healthcare organisations.
+
+In the following we will first establish an operational definition of teamwork, elaborate on relevant contextual factors and present our respective meta-analytical results and their interpretation.
+
+Teams, teamwork and team performance
+
+In order to clearly understand the impact of teamwork on performance it is necessary to provide a brief introduction to teams, teamwork and team performance. We define teams as identifiable social work units consisting of two or more people with several unique characteristics. These characteristics include () dynamic social interaction with meaningful interdependencies, () shared and valued goals) a discrete lifespan, () distributed expertise and () clearly assigned roles and responsibilities.Based on this definition it becomes clear that teams must dynamically share information and resources among members and coordinate their activities in order to fulfil a certain task — in other words teams need to engage in.
+
+as a term is widely used and often difficult to grasp. However, we absolutely require a clear definition of teamwork especially for team trainings that target specific behaviours.is a process that describes interactions among team members who combine collective resources to resolve task demands (eg, giving clear orders).Teamwork or team processes can be differentiated fromdenotes a team’s individual interaction with tasks, tools, machines and systems.is independent of other team members and is often described asa team is doing whereasisthe members of a team are doing something with each other.Therefore,represents the accumulation of teamwork and taskwork (ie, what the team actually does).
+
+Team performance is often described in terms of inputs, processes and outputs (IPO).like quality of care, errors or performance are influenced by team related(ie, teamwork) like communication, coordination or decision-making. Furthermore, these processes are influenced by variouslike team members’ experience, task complexity, time pressure and more. The IPO framework emphasises the critical role of team processes as the mechanism by which team members combine their resources and abilities, shaped by the context, to resolve team task demands. It has been the basis of other more advanced modelsbut has also been criticised because of its simplicity.However, it is still the most popular framework to date and helps to systematise the mechanisms that predict team performance and represents the basis for the selection of the studies included in our meta-analysis.
+
+Contextual factors of teamwork effectiveness
+
+Based on a large body of team research from various domains, we hypothesise that several contextual and methodological factors might moderate the effectiveness of teamwork, indicating that teamwork is more important under certain conditions.Therefore, we investigate several factors: (a) team characteristics (ie, professional composition, team familiarity, team size), (b) task type (ie, routine vs non-routine tasks), (c) two methodological factors related to patient realism (ie, simulated vs real) and (d) the type of performance measures used (ie, process vs outcome performance). In the following we discuss these potentially moderating factors and the proposed effects on teamwork.
+
+Professional composition
+
+We distinguished between interprofessional and uniprofessional teams. Interprofessional teams consist of members from various professions that must work together in a coordinated fashion.Diverse educational paths in interprofessional teams may shape respective values, beliefs, attitudes and behaviours.As a result team members with different backgrounds might perceive and interpret the environment differently and have a different understanding of how to work together. Therefore, we assume that explicit teamwork is especially important in interprofessional teams compared with uniprofessional teams.
+
+Team familiarity
+
+If team members have worked together, they are familiar with their individual working styles; and roles and responsibilities are usually clear. If a team works together for the first time, this potential lack of familiarity and clarity might make teamwork even more important. Therefore, we differentiate betweenthat also work together in their everyday clinical practice andthat only came together for study purposes.
+
+Team size
+
+Another factor that may moderate the relationship between teamwork and performance is team size. Since larger teams exhibit more linkages among members than smaller teams, they also face greater coordination challenges. Also, with increasing size teams have greater difficulty developing and maintaining role structures and responsibilities. For these reasons, we expect the influence of teamwork on clinical performance to be stronger in larger teams as compared with smaller teams.
+
+Task type
+
+Routine situations are characterised by repetitive and unvarying actions (eg, standard anaesthesia induction).In contrast, non-routine situations exhibit more variation and uncertainty, requiring teams to be flexible and adaptive. Whereas team members mostly rely on pre-learned sequences during routine situations, during non-routine situations we assume that teamwork is more important in order for team members to resolve task demands.
+
+Patient realism
+
+Authors highlight the importance of using medical simulators in education.Therefore, we investigate the realism used in a study (simulated vs real patients) as a potential methodological factor that influences the relationship between teamwork and performance. Studies conducted with medical simulators might be more standardised and less influenced by confounding variables than studies conducted with real patients. Therefore, results from simulation studies might show stronger relationships between the two variables. Further, using a simulator could cause individuals and teams to act differently than in real settings, thereby distorting the results. However, in the last decade high-fidelity simulators have become increasingly realistic, suggesting that the results from simulation studies generalise to real environments. Including realism as a contextual factor in our analysis will reveal if the effects of teamwork observed in simulation compare with real life settings. Better understanding would provide important insights about simulation use in teamwork studies.
+
+Performance measures
+
+As a second methodological factor, we expect that the type of performance measure used in a study influences the reported teamwork effectiveness. The literature usually differentiates between process-related and outcome-related aspects of performance.Process performance measures are action-related aspects and refer to adequate behaviour during procedures (eg, adhering to guidelines), making them easier to assess. Outcome performance measures (eg, infection rates after operations) follow team actions, with assessment occurring later than process measures. Outcome performance measures suffer from several factors: greater sensitivity to confounding variables (eg, comorbidities), assessment challenges and greater difficulty linking team processes to outcomes. Looking at the predictors of the survival of cardiac arrest patients illustrates the difference between the two types of performance measures. The main predictors for the survival (ie, performance outcome) of a cardiac arrest patient areand.Although a team delivers perfect basic life support (ie, high process performance) the patient can still die (ie, low outcome performance). Due to these methodological considerations, we expect that studies assessing process performance report a stronger relationship between teamwork and performance than studies assessing outcome performance.
+
+Methods
+
+The study was conducted based on the recommendations of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses statementas well as established guidelines in social sciences.Through the combination of studies in the meta-analytical process, we will increase the statistical power and provide an accurate estimation of the true impact that teamwork has on performance.
+
+Search strategy
+
+We applied the following search strategy to select relevant papers: () an electronic search of the database PubMed (no limit was placed on the date of publication, last search 19 June 2018) using the keywords,,,andin combination with,, the final syntax for PubMed is available (), (b) a manual backwards search for all references cited by eight systematic literature reviews that focus on teamwork or non-technical skills in various healthcare domains,(c) a manual backwards search for all references cited in studies we included in our meta-analysis, (d) a manual forward search using Web of Science to identify studies that cite the studies we included in our meta-analysis, (e) identification of relevant unpublished manuscripts via email from authors currently investigating medical teams using specific mailing lists.
+
+10.1136/bmjopen-2018-028280.supp1
+
+Supplementary data
+
+Inclusion criteria
+
+Studies were included if a construct complied to the definition of teamwork processes outlined in the introduction (eg, coordination, communication). In addition, studies needed to investigate the relationship between at least one teamwork process and a performance measure (eg, patient outcome). When studies reported multiple estimates of the same relationship from the same sample (eg, between coordination and more than one indicator of performance), those correlations were examined separately only as appropriate for sub-analyses, but an average correlation was computed for all global meta-analyses of those relationships to maintain independence.We excluded articles investigating long-term care since the coordination of care for chronically ill patients has to consider the unique team task interdependencies in this setting.Also, teams working together over longer periods of time are more likely to develop emergent states (eg, team cohesion) that influence how a specific team works together.All articles included in this meta-analysis are listed in.
+
+For the criterion level of analysis, we included only effect sizes at the team level and not on an individual level. Therefore, the performance measure had to be clearly linked to a team. This approach aligns with research that strongly recommends against mixing levels of analysis in meta-analytical integrations.
+
+Two reviewers independently screened titles and abstracts from articles yielded in the search. Afterwards full texts of all relevant articles were obtained and screened by the same two reviewers. Agreement was above 90%. Any disagreement in the selection process was resolved through consensus discussion.
+
+Table 1
+
+Descriptions of study objectives, settings and description of teamwork process and outcome measures
+
+Authors
+
+Year
+
+Main study objectives
+
+Participants and setting
+
+Teamwork process measure
+
+Outcome measure
+
+Amacher
+
+2017
+
+To compare female and male rescuers in regard to cardiopulmonary resuscitation and leadership performance
+
+Video observation of medical students managing cardiopulmonary resuscitation in a high-fidelity patient simulator
+
+Structured observation of secure leadership statements within teams
+
+Time until start chest compressionhands-on time within first 180 s
+
+Brogaard
+
+2018
+
+To investigate the relationship between non-technical skills and clinical performance in obstetrical teams
+
+Video observation of obstetrical teams (obstetricians, obstetrical nurse, anaesthesiologists) managing real-life emergencies (postpartum haemorrhage)
+
+Assessment of non-technical skills using a behaviourally anchored rating scale (ATOP; Assessment of Obstetric Team Performance)
+
+Checklist tool for clinical performance (TeamOBS-PPH)
+
+Burtscher
+
+2011
+
+To investigate how team mental models and team monitoring behaviour interact to predict team performance in anaesthesia
+
+Video observation of anaesthesia teams (residents, nurses) conducting a standard anaesthesia induction using a high-fidelity patient simulator
+
+Structured observation of team monitoring behaviour
+
+Checklist based expert rating
+
+Burtscher
+
+2011
+
+To investigate the relationship between adaptation of team coordination and clinical performance in response to a critical event
+
+Video observation of anaesthesia teams (resident, nurse) conducting a standard anaesthesia induction including a critical event using a high-fidelity patient simulator
+
+Structured observation of team coordination
+
+Reaction time related to the critical event
+
+Burtscher
+
+2010
+
+To examine the role of anaesthesia teams’ adaptive coordination in managing changing situational demands
+
+Video observation of anaesthesia teams (residents, nurses, students) conducting standard anaesthesia inductions with non-routine events
+
+Structured observation of team coordination
+
+Checklist based expert rating
+
+Carlson
+
+2009
+
+To explore the relationship between team behaviour and the delivery of an appropriate standard of care specific to the simulated case
+
+Video observation of trainees participating in a simulated event involving the presentation of acute dyspnoea
+
+Assessment of team behaviour using a behaviourally anchored rating scale (leadership and team behaviour measurement tool)
+
+Checklist based expert rating
+
+Catchpole
+
+2007
+
+To investigate if effective teamwork can prevent the development of serious situations and provide evidence for improvements in training and systems
+
+Live observation of surgical teams conducting paediatric cardiac and orthopaedic surgeries
+
+Observation of non-technical skills using a behaviourally anchored rating scale (NOTECHS scoring system)
+
+Assessment of minor problems, intraoperative performance and duration of surgery
+
+Catchpole
+
+2008
+
+To analyse the effects of surgical, aesthetical and nursing teamwork skills on technical outcomes
+
+Observation of surgical teams conducting laparoscopic cholecystectomies and carotid endarterectomies
+
+Observation of non-technical skills using a behaviourally anchored rating scale (NOTECHS scoring system)
+
+Operating time and errors in surgical technique
+
+Cooper
+
+1999
+
+To examine the relationship between leadership behaviour, team dynamics and task performance
+
+Video observation of emergency teams managing full cardiopulmonary arrests with a resuscitation attempt lasting longer than 3 min
+
+Survey about leadership behaviour using the Leadership Behaviour Description Questionnaire
+
+Checklist based expert rating
+
+Davenport
+
+2007
+
+To measure the impact of organisational climate safety factors on risk-adjusted surgical morbidity and mortality
+
+Survey of staff on general and vascular surgery services
+
+Survey about teamwork climate, level of communication and collaboration with surgeon
+
+Surgical morbiditySurgical mortality
+
+El Bardissi
+
+2008
+
+To identify patterns of teamwork failures that would benefit from intervention in the cardiac surgical setting
+
+Live observation of surgical teams conducting cardiac surgery
+
+Structured observation of teamwork failures that disrupted the flow of the operation
+
+Surgical technical errors
+
+Gillespie
+
+2012
+
+To investigate how various human factors variables, extend the expected length of an operation
+
+Live observation of surgical teams across 10 specialities
+
+Structured observation of numbers of communication failures
+
+Deviation from expected length of operation
+
+Kolbe
+
+2012
+
+To test the relationship between speaking up and technical team performance in anaesthesia.
+
+Observation of two-person (nurse, resident) ad hoc anaesthesia teams performing simulated inductions of general anaesthesia with minor non-routine events
+
+Structured observation of speaking up behaviour
+
+Checklist based expert rating
+
+Künzle
+
+2009
+
+To investigate shared leadership patterns during anaesthesia induction and to show how they are linked to team performance
+
+Observation of two-person (nurse, resident) ad hoc anaesthesia teams performing simulated inductions of general anaesthesia with a non-routine event (asystole)
+
+Structured observation of leadership behaviour
+
+Reaction time to non-routine event
+
+Manojlovich
+
+2009
+
+To determine the relationships between patients’ outcomes and nurses’ perceptions of communication and characteristics of the practice environment.
+
+A survey was conducted with nurses on various ICU wards
+
+Survey about perception of nurse-physician communication using the ICU-nurse physician questionnaire
+
+Ventilator-associated pneumoniaBloodstream infectionsPressure ulcersAcute physiology and chronic health evaluation score
+
+Manser
+
+2015
+
+To investigate surgeons team management skills and its influence on performance
+
+Live observation of surgical teams managing a simulated laparoscopic cholecystectomy
+
+Structured observation of team management using the ComEd-E observation system
+
+Checklist based expert rating
+
+Marsch
+
+2004
+
+To determine whether and how human factors affect the quality of cardiopulmonary resuscitation
+
+Observation of healthcare worker (nurse, physician) managing a cardiac arrest due to ventricular fibrillation using a high-fidelity patient simulator
+
+Structured observation of task distribution, information transfer and leadership behaviour within the team
+
+Checklist based expert rating
+
+Mazzocco
+
+2009
+
+To determine if patients of teams with good teamwork had better outcomes than those with poor teamwork
+
+Live observation of surgical teams managing a variety of surgical procedures
+
+Structured observation of information sharing, inquiry for relevant information and vigilance and awareness using a behaviourally anchored rating scale
+
+Postoperative complications and death
+
+Mishra
+
+2008
+
+To report on the development and evaluation of a method for measuring operating-theatre teamwork quality
+
+Live observation of surgical teams conducting laparoscopic cholecystectomy
+
+Assessment of non-technical skills using a behaviourally anchored rating scale (NOTECHS scoring system)
+
+Surgical technical errors assessed with the OCHRA-tool
+
+Schmutz
+
+2015
+
+To investigate the moderating effect of task characteristics on the relationship between coordination and performance
+
+Video observation of paediatric teams managing various paediatric emergencies using a high-fidelity patient simulator
+
+Structured observation of closed loop communication, task distribution and provide information without request using the CoMeT-E observation system
+
+Checklist based expert rating
+
+Siassakos
+
+2012
+
+To investigate the relationship between patient satisfaction and communication
+
+Video observation of teams (physicians, midwives) managing obstetrical emergencies in secondary and tertiary maternity units
+
+Structured observation of closed loop communication
+
+Timely administration of magnesium sulfate
+
+Siassakos
+
+2011
+
+To determine whether team performance in a simulated emergency is related to generic teamwork skills and behaviours
+
+Video observation of healthcare professionals (physician, midwives) managing various emergencies using a high-fidelity patient simulator
+
+Assessment of generic teamwork using a behaviourally anchored rating scale (teamwork analytical tool)
+
+Clinical efficiency score
+
+Thomas
+
+2006
+
+To investigate the relationship of team behaviours during delivery room care and behaviours relate to the quality of care
+
+Video observation of neonatal care teams managing a resuscitation during a caesarean section
+
+Structured observation of communication, team management and leadership
+
+Compliance with Neonatal Resuscitation Programme guidelines
+
+Tschan
+
+2006
+
+To investigate the influence of human factors on team performance in medical emergency driven groups
+
+Video observation of medical emergency teams (senior doctor, resident, nurse) managing a cardiac arrest in a high-fidelity patient simulator
+
+Structured observation of directive leadership and structuring inquiry
+
+Clinical performance assessed based on a time-based coding of observable technical acts
+
+Tschan
+
+2009
+
+To investigate the influence of communication on diagnostic accuracy in ambiguous situations
+
+Video observation of groups of physicians diagnosing a difficult patient with an anaphylactic shock in a high-fidelity patient simulator
+
+Structured observation of the diagnostic information that have been considered, explicit reasoning and talking to the room
+
+Accuracy of diagnosis
+
+Westli
+
+2010
+
+To investigate whether demonstrated teamwork skills and behaviour indicating shared mental models would be associated with improved medical management
+
+Video observation of trauma teams (surgeons, anaesthesiologists, nurses, radiographers) in a high-fidelity patient simulator
+
+Assessment of non-technical skills using a behaviourally anchored rating scale (ANTS and ATOM scoring system)
+
+Checklist based expert rating
+
+Wiegmann
+
+2007
+
+To investigate surgical errors and their relationship to surgical flow disruptions to understand better the effect of these disruptions on surgical errors and patient safety
+
+Live observation of surgical teams conducting cardiac surgery operations
+
+Structured observation of teamwork and communication failures
+
+Structured observation of surgical errors during the operation
+
+Williams
+
+2010
+
+To describe relationships between teamwork behaviours and errors during neonatal resuscitation
+
+Video observation of intensive care teams managing neonatal resuscitations
+
+Structured observation of teamwork behaviour (vigilance, workload management, information sharing, inquiry, assertion)
+
+Structured observation of errors (non-compliance with guidelines)
+
+Wright
+
+2009
+
+To test if observer ratings of team skills will correlate with objective measures of clinical performance
+
+Video observation of teams consisting of medical students performing low-fidelity classroom based patient assessment and high-fidelity simulation emergent care
+
+Observation using a behaviourally anchored rating scale for teamwork skills (assertiveness, decision-making, situation assessment, leadership, communication)
+
+Checklist based expert rating
+
+Yamada
+
+2016
+
+To investigate the effect of standardised communication techniques on errors during resuscitation
+
+Video observation of teams (Neonatologists, neonatal nurse practitioners, neonatology fellows) managing neonatal resuscitation
+
+Structured observation of standardised communication
+
+Error rateTime to initiate positive pressure ventilationTime to chest compression
+
+ICU, intensive care unit.
+
+Table 2
+
+Studies, effect sizes and moderator variables included in the meta-analytical database
+
+Authors
+
+Year
+
+Study goal
+
+Setting
+
+No. of teams
+
+Professional composition
+
+Team famil-iarity
+
+Average team size
+
+Task type
+
+Patient realism
+
+Perfor-mance measure
+
+Amacher
+
+2017
+
+0.11
+
+Emergency medicine
+
+72
+
+Uniprofessional
+
+Experi-mental
+
+3
+
+Non-routine
+
+Simulated
+
+Process
+
+Brogaard
+
+2018
+
+0.43
+
+Obstetrics
+
+99
+
+Interprofessional
+
+Real
+
+5
+
+Non-routine
+
+Real
+
+Process
+
+Burtscher
+
+2011
+
+−0.27
+
+Anaesthesia
+
+31
+
+Interprofessional
+
+Experi-mental
+
+2
+
+Routine
+
+Simulated
+
+Process
+
+Burtscher
+
+2011
+
+0.19
+
+Anaesthesia
+
+15
+
+Interprofessional
+
+Experi-mental
+
+2
+
+Routine & non-routine
+
+Simulated
+
+Process
+
+Burtscher
+
+2010
+
+0.07
+
+Anaesthesia
+
+22
+
+Interprofessional
+
+Real
+
+3
+
+Non-routine
+
+Real
+
+Process
+
+Carlson*
+
+2009
+
+0.83
+
+Emergency medicine
+
+44
+
+Uniprofessional
+
+Experi-mental
+
+2.6
+
+Non-routine
+
+Simulated
+
+Process
+
+Catchpole
+
+2007
+
+.45†
+
+Surgery
+
+24
+
+Interprofessional
+
+Real
+
+9
+
+Non-routine
+
+Real
+
+Process
+
+Catchpole
+
+2007
+
+.29†
+
+Surgery
+
+18
+
+Interprofessional
+
+Real
+
+5
+
+Routine
+
+Real
+
+Process
+
+Catchpole
+
+2008
+
+.36†
+
+Surgery
+
+26
+
+Interprofessional
+
+Real
+
+Routine
+
+Real
+
+Process
+
+Catchpole
+
+2008
+
+.09†
+
+Surgery
+
+22
+
+Interprofessional
+
+Real
+
+Routine
+
+Real
+
+Process
+
+Cooper
+
+1999
+
+0.50
+
+General care
+
+20
+
+Interprofessional
+
+Real
+
+4
+
+Routine
+
+Real
+
+Process
+
+Davenport
+
+2007
+
+0.17
+
+Surgery
+
+52
+
+Interprofessional
+
+Real
+
+Routine
+
+Real
+
+Outcome
+
+El Bardissi
+
+2008
+
+0.67
+
+Surgery
+
+31
+
+Interprofessional
+
+Real
+
+7
+
+Routine
+
+Real
+
+Process
+
+Gillespie
+
+2012
+
+0.23
+
+Surgery
+
+160
+
+Interprofessional
+
+Real
+
+6
+
+Routine
+
+Real
+
+Process
+
+Kolbe
+
+2012
+
+0.33
+
+Anaesthesia
+
+31
+
+Interprofessional
+
+Real
+
+2
+
+Non-routine
+
+Simulated
+
+Process
+
+Künzle
+
+2009
+
+0.56
+
+Anaesthesia
+
+12
+
+Interprofessional
+
+Real
+
+2
+
+Routine
+
+Simulated
+
+Process
+
+Manojlovich
+
+2009
+
+0.11
+
+Intensive care
+
+25
+
+Uniprofessional
+
+Real
+
+36
+
+Routine
+
+Real
+
+Outcome
+
+Manser
+
+2015
+
+0.39
+
+Surgery
+
+19
+
+Interprofessional
+
+Experi-mental
+
+5
+
+Routine
+
+Simulated
+
+Process
+
+Marsch
+
+2004
+
+0.23
+
+Intensive care
+
+16
+
+Interprofessional
+
+Experi-mental
+
+3
+
+Non-routine
+
+Simulated
+
+Process
+
+Mazzocco
+
+2009
+
+0.11
+
+Surgery
+
+293
+
+Interprofessional
+
+Real
+
+6
+
+Routine
+
+Real
+
+Outcome
+
+Mishra
+
+2008
+
+0.05
+
+Surgery
+
+26
+
+Interprofessional
+
+Real
+
+6
+
+Routine
+
+Real
+
+Process
+
+Schmutz
+
+2015
+
+0.12
+
+Emergency medicine
+
+68
+
+Interprofessional
+
+Real
+
+6
+
+Non-routine
+
+Simulated
+
+Process
+
+Siassakos
+
+2012
+
+0.66
+
+Obstetrics
+
+19
+
+Interprofessional
+
+Real
+
+6
+
+Non-routine
+
+Simulated
+
+Process
+
+Siassakos
+
+2011
+
+0.55
+
+Emergency medicine/ obstetrics
+
+24
+
+Interprofessional
+
+Experi-mental
+
+6
+
+Non-routine
+
+Simulated
+
+Process
+
+Thomas
+
+2006
+
+0.23
+
+Neonatal care
+
+132
+
+Interprofessional
+
+Real
+
+5
+
+Non-routine
+
+Real
+
+Process
+
+Tschan
+
+2006
+
+0.23
+
+Emergency medicine
+
+21
+
+Interprofessional
+
+Experi-mental
+
+5
+
+Non-routine
+
+Simulated
+
+Process
+
+Tschan
+
+2009
+
+0.37
+
+Emergency medicine
+
+20
+
+Uniprofessional
+
+Experi-mental
+
+2.65
+
+Non-routine
+
+Simulated
+
+Outcome
+
+Westli
+
+2010
+
+0.18
+
+Emergency medicine
+
+27
+
+Interprofessional
+
+Real
+
+5.1
+
+Non-routine
+
+Simulated
+
+Process
+
+Wiegmann
+
+2007
+
+0.56
+
+Surgery
+
+31
+
+Interprofessional
+
+Real
+
+Routine
+
+Real
+
+Process
+
+Williams
+
+2010
+
+0.18
+
+Neonatal care
+
+12
+
+Interprofessional
+
+Real
+
+5
+
+Non-routine
+
+Real
+
+Process
+
+Wright
+
+2009
+
+0.81
+
+General care
+
+9
+
+Uniprofessional
+
+Experi-mental
+
+4
+
+Non-routine
+
+Simulated
+
+Process
+
+Yamada
+
+2016
+
+0.11
+
+Emergency medicine
+
+13
+
+Interprofessional
+
+Experi-mental
+
+3
+
+Non-routine
+
+Simulated
+
+Process
+
+*Carlson, Min & Bridges has been identified as an outlier and therefore excluded from the analysis.
+
+†Effect sizes () with an † represent an average for a single sample and a single outcome and have been combined for this meta-analysis.
+
+Data extraction
+
+With the help of a jointly developed coding scheme, studies were independently coded by one of the authors (JS) and another rater, both with a background in industrial psychology and human factors. Twenty per cent of the studies were rated by both coders. Intercoder agreement was above 90%. Any disagreement was resolved through discussion. The data extracted comprised details of the authors and publication as well as important study characteristics and statistical relationships between a teamwork variable and performance ().
+
+Coding of team characteristics
+
+Theof teams was coded either as ‘Interprofessional’ if a team consisted of members from different professions (eg, nurses and physicians) or as ‘Uniprofessional’ if the members of the teams were of the same profession.was coded as the number of members (average number if team size varied) of the investigated teams. Team familiarity was coded either as ‘experimental’ or ‘real’. ‘Real’ indicates that the team members also worked together in their everyday clinical practice. ‘Experimental’ means that the teams only worked together during the study.
+
+Coding of task characteristics
+
+was coded either as ‘Routine task’ or ‘Non-routine task’. We defined ‘Non-routine tasks’ as unexpected events that require flexible behaviour often under time-pressure (eg, emergency situations). ‘Routine tasks’ describe previously planned standard procedures (eg, standard anaesthesia induction, planned surgery).
+
+Coding of methodological factors
+
+was either coded as ‘Real patient’ or ‘Simulated patient’. ‘Simulated patient’ included a patient simulator (manikin) whereas ‘Real patient’ included real patients in clinical settings.
+
+were coded either as ‘Outcome performance’ or ‘Process performance’.‘Outcome performance’ includes an outcome that is measured after the treatment process (eg, infection rate, mortality). We focused only on patient-related outcomes and not on team outcomes (eg, team satisfaction). ‘Process performance’ describes the evaluation of the treatment process and describes how well the process was executed (eg, adherence to guidelines through expert rating). Process performance measures are often based on official guidelines and extensive expert knowledge.Thus, we assumed that process performance closely relates to patient outcomes.
+
+Statistical analysis
+
+Different types of effect sizes (eg, OR,values and) have been reported in the original studies. We therefore converted the different effect sizes to a common metric, namelyusing the formulas provided by Borensteinand Walker.Moreover, some samples contained effect sizes of teamwork with two or more measures of performance. Because independence of the included effects sizes is required for a meta-analysis,we used Fisher’s z score to average the multiple correlations from the same sample (scholars have suggested to convertto Fisher's z scores, to average the z’s and then to backtransform it to.Using simple arithmetic average (ie, correlations will be summed and divided by the number of coefficients) is problematic because the distribution ofbecomes negatively skewed as the correlation is larger than zero. As a result, the averagetends to underestimate the population correlation). The correlations were weighted for sample size. However, in contrast to many meta-analyses in social sciences, the correlations were not adjusted for measurement reliability. This is because information about the measurement reliability could not be compared (Kappa vs Cronbach’s Alpha) or were not available at all for the majority of studies. Therefore, we report uncorrected, sample-size weighted mean correlation, its 95% CI, and the 80% credibility interval (CR). The CI reflects the accuracy of a point estimate and can be used to examine the significance of the effect size estimates, whereas the CR refers to the deviation of these estimates and informs us about the existence of possible moderators.
+
+Random-effects models were estimated based on two considerations.First, we expected study heterogeneity to be high given the different study design characteristics such as(‘Real patient’ vs ‘Simulated patient’),(‘Routine task’ vs ‘Non-routine task’) and different forms of performance measures. Second, we aimed to provide an inference on the average effect in the entire population of studies from which the included studies are assumed to be a random selection of it. Therefore, random-effects models were estimated.These models were calculated by the restricted maximum-likelihood estimator, an efficient and unbiased estimator.Since we included only descriptive studies and no interventions we only included the sample size of the individual studies as a potential bias into the meta-analysis. To rule out a potential publication bias, we tested for funnel plot asymmetry using the random-effect version of the Egger test.The results indicate that there is no asymmetry in the funnel plot (z=1.79, p=0.074), suggesting that there is no publication bias.
+
+The estimation of meta-analytical models including the outlier analyses were performed with the package ‘metafor’ from the programming language and statistical environment R.
+
+Results
+
+The online search resulted in 2002 articles (). Two studies were identified via contacting authors directly and have been presented at conferences in the past.After duplicates were removed 1988 articles were screened using title and abstract. Sixty-seven articles were then selected for a full text review. Full text examination, forward and backward search of selected articles and relevant reviews resulted in 30 studies coming from 28 articles (two publications presented two independent studies in one publication). This led to a total of 32 studies coming from 30 articles. Following the recommendation by Viechtbauer and Cheung,we screened for outliers using studentized deleted residuals. One case (Carlson,=0.89, n=44, studentized deleted residuals=4.26) was identified as outlier and therefore excluded from further analyses, resulting in a final sample size of=31.
+
+provides a qualitative description of the selected articles including study objectives, the setting in which the studies were carried out and a description of the teamwork processes as well as the outcome measures that were assessed. If a specific tool for the assessment of a teamwork process or outcome measure was used this is indicated in the corresponding column. Observational studies were most prevalent. Teamwork processes were assessed using either behaviourally anchored rating scales (n=8) or structured observation (n=19) of specific teamwork behaviour. Structured observation — as we describe it — is defined as a purely descriptive assessment of certain behaviour usually using a predefined observation system (eg, amount of speaking up behaviour). In contrast, behaviourally anchored rating scales consist of an evaluation of teamwork process behaviour by an expert. Only three studies used surveys to assess teamwork behaviours. The majority of the studies (n27) assessed process performance using either a checklist based expert rating or assessing a reaction time measure after the occurrence of a certain event (eg, time until intervention). Only four studies assessed outcome performance measures. Measures included accuracy of diagnosis, postoperative complications and death, surgical morbidity and mortality, ventilator-associated pneumonia, bloodstream infections, pressure ulcers and acute physiology and chronic health evaluation score.provides an overview of all variables included in the meta-analysis including the effect sizes and moderator variables.
+
+Figure 1
+
+Systematic literature search.
+
+Effect of teamwork and contextual factors
+
+andshows the relationship between teamwork and team performance. The sample-sized weighted mean correlation was 0.28 (95% CI 0.20 to 0.35,=6.55, p<0.001), indicating that teamwork is positively related to clinical performance. Results further indicated heterogeneous effect size distributions across the included samples (=53.73, p<0.05,=45.96), signifying that the variability across the sample effect sizes was more than what would be expected from sampling error alone.
+
+To test for moderator effects of the contextual factors, we conducted mixed-effects models including the mentioned moderators:and.
+
+The omnibus test of moderators was not significant (=0.18,=6,=18, p>0.20), suggesting that the examined contextual factors did not influence the average effect of teamwork on clinical performance. To provide greater detail about the role of the contextual factors, we conducted separate analyses for the categorical contextual factors and report them in.
+
+Figure 2
+
+Relationship between teamwork processes and performance.
+
+Table 3
+
+Meta-analytical relationships between teamwork and clinical performance
+
+N
+
+k
+
+r
+
+95% CI
+
+80% CR
+
+Q
+
+I
+
+Overall relationship
+
+1390
+
+31
+
+0.28*
+
+(0.20 to 0.35)
+
+(0.09 to 0.45)
+
+53.7*
+
+46.0
+
+Team characteristics
+
+Professional composition
+
+Interprofessional
+
+1264
+
+27
+
+0.28*
+
+(0.20 to 0.36)
+
+(0.09 to 0.46)
+
+47.1*
+
+48.2
+
+Uniprofessional
+
+126
+
+4
+
+0.28
+
+(−0.01 to 0.52)
+
+(−0.04 to 0.54)
+
+6.5
+
+47.1
+
+Team familiarity
+
+Experimental team
+
+240
+
+10
+
+0.25*
+
+(0.05 to 0.43)
+
+(−0.05 to 0.51)
+
+17.2*
+
+47.2
+
+Real team
+
+1150
+
+21
+
+0.29*
+
+(0.20 to 0.37)
+
+(0.12 to 0.45)
+
+36.2*
+
+45.7
+
+Team size†
+
+Task characteristics
+
+Task type
+
+Routine task
+
+766
+
+14
+
+0.27*
+
+(0.12 to 0.40)
+
+(−0.01 to 0.50)
+
+30.9*
+
+65.0
+
+Non-routine task
+
+609
+
+16
+
+0.29*
+
+(0.20 to 0.39)
+
+(0.16 to 0.42)
+
+20.5
+
+24.6
+
+Methodological factors
+
+Patient realism
+
+Real patient
+
+993
+
+16
+
+0.28*
+
+(0.18 to 0.38)
+
+(0.10 to 0.45)
+
+28.7*
+
+49.3
+
+Simulated patient
+
+397
+
+15
+
+0.28*
+
+(0.13 to 0.41)
+
+(0.02 to 0.50)
+
+25.0*
+
+44.6
+
+Performance measures
+
+Outcome performance
+
+390
+
+4
+
+0.13*
+
+(0.03 to 0.23)
+
+(0.06 to 0.19)
+
+1.3
+
+0.0
+
+Process performance
+
+1000
+
+27
+
+0.30*
+
+(0.21 to 0.39)
+
+(0.10 to 0.49)
+
+45.6*
+
+45.6
+
+*< .05.
+
+I= % of total variability in the effect size estimates due to heterogeneity among true effects (vs sampling error).
+
+†Team size was entered as a continuous variable, therefore, no subgroup analyses exist.
+
+CI, confidence interval; CR, credibility interval; K, number of studies; N, cumulative sample size (number of teams); Q, test statistic for residual heterogeneity of the models; r, sample-size weighted correlation.
+
+Discussion
+
+With this study, we aimed to provide evidence for the performance implications of teamwork in healthcare teams. By including various contextual factors, we investigated potential contingencies that these factors might have on the relationship between teamwork and clinical performance. The analysis of 1390 teams from 31 different studies showed that teamwork has a medium sized effect (=0.28;) on clinical performance across various care settings. Our study is the first to investigate this relationship quantitatively with a meta-analytical procedure. This finding aligns with and advances previous work that explored this relationship in a qualitative way.
+
+At first glance a correlation of=0.28 might not seem very high. However, we would like to highlight that=0.28 is considered a medium sized effectand should not be underestimated. To better illustrate what this effect means we transformed the correlation into an OR of 2.8.Of course, this transformation simplifies the correlation because teamwork and often the outcome measures are not simple dichotomous variables that can be divided into an intervention and control group. However, this transformation illustrates that teams who engage in teamwork processes are 2.8 times more likely to achieve high performance than teams who are not. Looking at the performance measures in our study we see that they either describe patient outcomes (eg, mortality, morbidity) or are closely related to patient outcomes (eg, adherence to treatment guidelines). Thus, we consider teamwork a performance-relevant process that needs to be promoted through training and implementation into treatment guidelines and policies.
+
+The included studies used a variety of different measures for clinical performance. This variability resulted from the different clinical contexts in which the studies were carried out. There is no universal measure for clinical performance because the outcome is in most cases context specific. In surgery, common performance measures are surgical complications, mortality or morbidity.In anaesthesia, studies often use expert ratings based on checklists to assess the provision of anaesthesia. Expert ratings are also the common form of performance assessment in simulator settings where patient outcomes like morbidity or mortality cannot be measured. Future studies need to be aware that clinical performance measures depend on the clinical context and that the development of valid performance measures requires considerable effort and scientific rigour. Guidelines on how to develop performance assessment tools for specific clinical scenarios exist and need to be accounted for.Furthermore, depending on the clinical setting researchers need to evaluate what specific clinical performance measures are suitable and if and how they can be linked to team processes in a meaningful way.
+
+The analysis of moderators illustrates that teamwork is related with performance under a variety of conditions. Our results suggest that teams in different contexts characterised by different team constellations, team size and levels of acuity of care all benefit from teamwork. Therefore, clinicians and educators from all fields should strive to maintain or increase effective teamwork. In recent years, there has been an upsurge in crisis resource management (CRM).These trainings focus on team management and implement various teamwork principles during crisis situations (eg, emergencies).Our results suggest that team trainings should not only focus on non-routine situations like emergencies but also on routine situations (eg, routine anaesthesia induction, routine surgery) because based on our data teamwork is equally important in such situations.
+
+A closer look at methodological factors of the included studies revealed that the observed relationship between teamwork and performance in simulation settings does not differ from relationships observed in real settings. Therefore, we conclude that teamwork studies conducted in simulation settings generalise to real life settings in acute care. Further, the analysis of different performance measures reveals a trend towards process performance measures being more strongly related with teamwork than outcome performance measures. A possible explanation of this finding relates to the difficulty of investigating outcome performance measures in a manner isolated from other variables. Nevertheless, we still found a significant relationship between teamwork and objective patient outcomes (eg, postoperative complications, bloodstream infections) despite the methodological challenges of measuring outcome performance and the small number of studies using outcome performance (=4).
+
+Our results are in line with previous meta-analyses investigating the effectiveness of team training in healthcare.Similar to our results, Hugheshighlighted the effectiveness of team trainings under a variety of conditions — irrespective of team composition,simulator fidelity or patient acuity of the trainee’s unit as well as other factors.
+
+We were unable to find a moderation of task type in our study, potentially explained by task interdependence, which reflects the degree to which team members depend on one another for their effort, information and resources.A meta-analysis including teams from multiple industries (eg, project teams, management teams) found that task interdependence moderates the relationship between teamwork and performance, demonstrating the importance of teamwork for highly interdependent team tasks.Most studies included in our analysis focused on rather short and intense patient care episodes (eg, a surgery, a resuscitation task) with high task interdependence, which may explain the high relevance of teamwork for all these teams.
+
+Limitations and future directions
+
+Despite greater attention to healthcare team research and team training over the last decade, we were only able to identify 32 studies (31 included in the meta-analysis). Of note, over two-thirds of the studies in our analysis emerged in the last 10 years, reflecting the increasing interest in the topic. The rather small number of studies might relate to the difficulties in quantifying teamwork, the considerable theoretical and methodological knowledge required and the challenges of capturing relevant outcome measures. Also, besides the manual searches of selected articles and reviews and contacting authors in the field we did only search the database PubMed. PubMed is the most common database to access papers that potentially investigate medical teams and includes approximately 30 000 journals from the field of medicine, psychology and management. We are fairly confident that through the additional inclusion of relevant reviews and forward and backwards search, our results represent an accurate representation of what can be found in the literature.
+
+Future research should build on recent theoretical and applied workabout teamwork and use this current meta-analysis as a signpost for future investigations. In order to move our field forward, we must use existing conceptual frameworksand establish standards for investigating teams and teamwork. This can often only be achieved with interdisciplinary research teams including experts from the medical fields but equally important from health professions education, psychology or communication studies.
+
+Another limitation relates to the unbalanced analysis of subgroups. For example, we only identified four studies that used outcome performance variables compared with 27 using process performance measures. Uneven groups may reduce the power to detect significant differences. Therefore, we encourage future studies to include outcome performance measures despite the effort required.
+
+Finally, more factors may influence the relationship between teamwork and performance that we were unable to extract from the studies. While we tested for the effects of team familiarity by comparing experimental teams and real teams, this does not fully capture team member familiarity. The extent to which team members actually worked together during prior clinical practice might predict of how effectively they perform together. However, even two people working in the same ward might actually not have interacted much during patient care depending on the setting. Also team climate on a ward or in a hospital may be an important predictor of how well teams work together, especially related to sharing information or speaking up within the team.
+
+Finally, the clinical context might play a role in how team members collaborate. In different disciplines, departments or healthcare institutions different norms and routines exist on how to work together. Therefore, study results and recommendations about teamwork need to be interpreted in the light of the respective clinical context. There are empirical indications that a one-size-fits-all approach might not be suitable and team training efforts cannot ignore the clinical context, especially the routines and norms about collaboration.We acknowledge that there might be other factors surrounding healthcare teams that might potentially influence teamwork and clinical performance. However, in this review we could only extract data that was reported in the primary studies. Since these were limited in the healthcare contexts studied, the results might not generalise to long-term care settings or mental health, for example. Future work needs to consider and also document a broader range of potentially influencing factors.
+
+Conclusion
+
+The current meta-analysis confirms that teamwork across various team compositions represents a powerful process to improve patient care. Good teamwork can be achieved by joint reflection about teamwork during clinical event debriefingsas well as team trainingsand system improvement. All healthcare organisations should recognise these findings and place continuous efforts into maintaining and improving teamwork for the benefit of their patients.
+
+Supplementary Material
+
+Reviewer comments
+
+Author's manuscript
