@@ -1,0 +1,102 @@
+Introduction
+
+Traumatic dental problems in children and teenagers frequently involve injuries to teeth and their supporting structures. Avulsion is the most severe type of traumatic dental injury — complete displacement of a tooth from its socket. Avulsion is complicated by impaired neurovascular supply, loss of pulp vitality, and tearing of the periodontal ligament (PDL), leaving viable PDL cells on the root surface.
+
+Immediate reimplantation within the socket is the ideal course of action. However, instantaneous reimplantation is seldom achieved due to: patient consciousness, lack of first aid familiarity, consent issues, and fear.
+
+Ideal management: immediate reimplantation within 5 min, which improves PDL repair and significantly reduces root resorption and ankylosis. Success of reimplantation depends largely on the presence of viable PDL fibroblasts on the root surface and an appropriate storage medium.
+
+Ideal properties of storage medium:
+- Good shelf life
+- Preserve PDL cellularity for new cell generation
+- Minimize osteoclast adhesion to PDL fibers
+- Osmolarity and pH close to physiological conditions
+- No antigen-antibody reaction
+- Readily available at site of accident
+- Reduce inflammatory reactions and root resorption
+- Antioxidant properties
+- Remove toxic products
+- Restore depleted PDL cells
+
+Objective: Assess the ability of Normal Saline, Dextrose Normal Saline (DNS), ORS, HBSS, energy drink (Monster), and fruit juice (Frooti) to maintain PDL cell viability for storage of avulsed teeth.
+
+Materials and Methods
+
+Sample size: Calculated using G*Power software; 80% power, 5% significance, large effect size (Cohen 0.4).
+
+62 freshly extracted human premolar teeth, closed apices, normal periodontal health, extracted atraumatically. Patients below 30 years. Exclusions: traumatically extracted teeth, periodontal disease, caries, developmental anomaly, damaged in handling. PDL cells from coronal 3 mm scraped with sharp curette to remove potentially damaged cells.
+
+Storage media preparation: HBSS, DNS (5%), ORS — commercially procured, freshly prepared per manufacturer instructions. Experimental media: Monster energy drink and Frooti fruit juice — commercially procured.
+
+Groups:
+- Group I (n=10): HBSS (Hanks Balanced Salt Solution)
+- Group II (n=10): DNS (Dextrose Normal Saline — 5% dextrose + 0.9% NaCl)
+- Group III (n=10): ORS (Oral Rehydration Salt)
+- Group IV (n=10): Energy drink (Monster)
+- Group V (n=10): Fruit juice (Frooti)
+- Group VI positive control (n=6): Assayed immediately, no dry time, no storage medium
+- Group VII negative control (n=6): 8 h dry time, no storage medium
+
+Protocol: All experimental groups had 30 min dry time (to simulate delay), then 45 min in storage medium.
+
+PDL cell isolation: Each tooth washed in PBS, then placed in sterile 15 mL Falcon tube with 1 mL enzyme solution (collagenase type III + trypsin) for 10 min. Fetal bovine serum added to stop enzymatic reaction. Centrifugation at 90 rpm x 4 min.
+
+Cell viability assay: Trypan blue dye exclusion (0.4% w/v, 1:1 ratio). Viable cells = membrane intact (exclude dye). Neubauer's hemocytometer at 10x magnification.
+
+Statistical analysis: One-way ANOVA, Tukey's HSD multiple comparison test. p<0.05 significant.
+
+Results
+
+Mean viable PDL cells (±SD):
+
+| Group | Mean viable cells | SD |
+|---|---|---|
+| Positive control (0 min dry) | 521.8 | 22.6 |
+| HBSS | 341.8 | 19.9 |
+| ORS | 320.0 | 23.4 |
+| DNS (Dextrose Normal Saline) | 316.2 | 22.7 |
+| Energy drink (Monster) | 298.1 | 15.0 |
+| Fruit juice (Frooti) | 287.5 | 19.1 |
+| Negative control (8h dry) | 1.0 | 1.7 |
+
+ANOVA: F = 307.447, p < 0.0001 (highly significant).
+
+Tukey's HSD pairwise comparisons:
+- HBSS vs ORS: NS (p = 0.187)
+- HBSS vs DNS: NS (p = 0.065)
+- ORS vs DNS: NS (p = 1.000)
+- HBSS vs Energy drink: p < 0.001 (highly significant)
+- HBSS vs Fruit juice: p < 0.001 (highly significant)
+- DNS vs Fruit juice: p = 0.023 (significant)
+- ORS vs Fruit juice: p = 0.005 (significant)
+- DNS vs Energy drink: NS (p = 0.405)
+- ORS vs Energy drink: NS (p = 0.181)
+- Energy drink vs Fruit juice: NS (p = 0.904)
+
+Discussion
+
+HBSS has long been used for cell maintenance and tissue preservation due to ideal pH and osmolality; widely used as positive control. Hiltz and Trope: HBSS effective for 24h (71.3% viable), 48h (38%), 120h (0%).
+
+DNS (5%): parenteral solution providing water, carbohydrate, and electrolytes. 5% DNS = 5% dextrose + 0.9% NaCl.
+
+ORS: combination of glucose and vital salts, physiological pH and osmolality, suitable for cellular growth; inexpensive and easily available. Prior studies: Subramaniam — ORS as effective as HBSS; Rajendran — ORS ability to retain PDL cell vitality similar to HBSS (consistent with present study). One conflicting study (Mahesh): ORS showed minimum viability compared to RL, coconut water, electrol solution.
+
+Monster energy drink: carbonated water, sugar, glucose, citric acid, taurine, sodium citrate, panax ginseng, L-carnitine, caffeine. Electrolytes thought to help maintain PDL viability. Useful as short-term storage media.
+
+Fruit juice (Frooti): source of vitamin C, antibacterial potential, antioxidant. However, poor results due to low pH and hypertonic osmolality. Buttke and Trope: storage media with antioxidants may improve replantation prognosis, but the pH/osmolality problem outweighs this benefit.
+
+Limitations: Extracted premolars in laboratory setting, not actual avulsed teeth in clinical conditions. No gene expression analysis or histological examination for more comprehensive cell viability assessment.
+
+Conclusions
+
+1. ORS, DNS, and energy drink showed comparable results within the parameters of this study — can be used as alternative storage media.
+2. Fruit juice showed poorest results (low pH, hypertonic osmolality).
+3. Energy drink can serve as short-term storage if other media unavailable.
+4. HBSS remains the gold standard but DNS and ORS are practical, widely available alternatives.
+
+Clinical significance: Search for appropriate storage media with favorable pH, osmolarity, and ease of availability at accident sites, homes, schools, dental offices. DNS and ORS meet these criteria and showed viability comparable to HBSS.
+
+Source: Annals of African Medicine 2025;24(4):724-728 (published online 2025 May 30)
+DOI: 10.4103/aam.aam_138_24
+PMID: 40448448
+PMCID: PMC12588408
