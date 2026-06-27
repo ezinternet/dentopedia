@@ -1,0 +1,27 @@
+Lee J, Park JS, Feng B, Wang KN.
+The utilisation of teledentistry in Australia: A systematic review and meta-analysis.
+Journal of Dentistry. 2024;149:105265.
+DOI: 10.1016/j.jdent.2024.105265
+PMID: 39059707
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+Teledentistry is the use of information-based technologies to deliver healthcare
+remotely — used in regional/rural/remote regions and during COVID-19. This
+systematic review and meta-analysis aimed to determine teledentistry utilisation
+in Australia. The authors searched PubMed, Google Scholar, EMBASE, and Web of
+Science to June 2024; the JBI Critical Appraisal Tools were used for quality/bias
+assessment.
+
+Eighteen articles met inclusion: six diagnostic tests, six cross-sectional studies,
+four economic evaluations, one qualitative study, one expert opinion.
+
+Teledentistry was accurate for screening caries (average sensitivity = 69.7%,
+average specificity = 97.4%); a non-significant negative correlation between
+specificity and sensitivity (r = 0.432). Opinions were MIXED from clinicians but
+POSITIVE from patients. Teledentistry may lead to savings for patients and
+healthcare providers.
+
+Conclusion: teledentistry increases healthcare access especially in
+regional/rural/remote areas and is an effective caries-screening tool; clinician
+opinions are mixed, with implementation barriers identified.
