@@ -4,6 +4,7 @@ title: "약물 결정 트리 — Chairside (drug 5축 통합)"
 type: interactive
 date: 2026-05-27
 status: draft
+verified: 2026-06-27
 category: drug
 agenda: agenda/2026-05-27_chairside-interactives-batch.md
 source_wiki:
@@ -234,7 +235,7 @@ function calculate(e){
 
   // ===== 축 1 — 항응고·항혈소판 =====
   {
-    let lvl='green', title='항응고·항혈소판', rec='', why='', ref='Inchingolo 2024 SR · Moldovan 2023 SR · Shah 2022 SR-MA';
+    let lvl='green', title='항응고·항혈소판', rec='', why='', ref='Inchingolo 2024 SR · Moldovan 2023 SR · Shah 2022 SR-MA · Kim 2024 · Izzetti 2024 · Xiang 2026 SR-MA · Dou 2025 SR-MA · Yari 2023 · Al-Suliman 2025';
     if (ac === 'none') {
       rec = '해당 없음 — 표준 발치 진행';
       why = '항응고·항혈소판 미복용.';
@@ -245,17 +246,20 @@ function calculate(e){
       else { lvl='red'; rec='모든 선택적 처치 연기'; why=`INR ${inr} > 4.0 — INR 정상화 우선.`; }
     } else if (ac === 'doac') {
       if (proc === 'simple_ext' || proc === 'endo' || proc === 'ap_no_systemic') {
-        lvl='green'; rec='DOAC 지속 + TXA 양치액'; why='단순 발치·근관에서 DOAC 중단 불필요.';
-      } else { lvl='yellow'; rec='당일 아침 dose 생략 → 지혈 확인 후 저녁 재복용'; why='임플란트·다수 발치·골수술 — 처방의 협진 권고.'; }
+        lvl='green'; rec='DOAC 지속 + TXA 양치액'; why='단순 발치(1–3치)·근관에서 DOAC 중단 불필요. 중단해도 출혈 안 줄어듦 (Kim 2024 4.9% vs 0%, NS; Izzetti 2024 무익) — continue·brief-interrupt 둘 다 허용 (Xiang 2026: RCT만 보면 차이 소멸). DOAC은 INR이 신뢰할 수 없는 지표 → INR로 결정 금지. Dabigatran은 출혈 프로파일 가장 양호 (Dou 2025 RR 0.40 vs VKA).';
+      } else { lvl='yellow'; rec='당일 아침 dose 생략 → 지혈 확인 후 저녁 재복용'; why='임플란트·다수 발치·골수술 — 처방의 협진 권고. 출혈은 시술 침습도(>3치·판막거상·골삭제)가 좌우 (Izzetti 2024). Dabigatran은 신부전(CrCl<50) 추가 주의.'; }
     } else if (ac === 'aspirin' || ac === 'clopidogrel') {
       lvl='green'; rec=`${ac === 'aspirin' ? 'Aspirin' : 'Clopidogrel'} 절대 중단 금지 + TXA 양치액`;
       why='국소 지혈로 충분. 중단 시 혈전 위험 > 출혈 위험.';
     } else if (ac === 'dapt') {
       lvl='yellow'; rec='DAPT 지속 + 심장내과 협진 + TXA 양치액';
-      why='스텐트 혈전증 위험. 임의 중단 금지.';
+      why='스텐트 혈전증 위험. 임의 중단 금지. 최근 스텐트(PCI ≤1년)에서도 비중단 발치 출혈 차이 없고 전부 국소 조절 가능 (Yari 2023, n=100) — 단 협진 원칙 유지.';
     }
     if (ssri && (ac !== 'none')) {
       why += ' SSRI 동시 복용 — NSAID 보조 시 상부 GI 출혈 위험.';
+    }
+    if (ac !== 'none' && ['simple_ext','impacted_third','multi_ext','implant'].includes(proc)) {
+      why += ' 발치와 socket dressing은 oxidized cellulose(Surgicel)가 gelatin sponge(Gelfoam)보다 우수 (Al-Suliman 2025: 지혈·지연출혈·치유·통증 모두; warfarin군이 aspirin군보다 결과 나쁨).';
     }
     blocks.push(axis(lvl, '축 1 — 항응고·항혈소판', rec, why, ref));
   }
@@ -319,7 +323,7 @@ function calculate(e){
 
   // ===== 축 4 — 진통제 =====
   {
-    let lvl='green', rec='', why='', ref='Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025';
+    let lvl='green', rec='', why='', ref='Miroshnychenko 2023 Network MA (n=9095) · Feldman 2024 RCT (n=1815) · Gaballah 2025 RCT · Gomes 2025 · Tamgadge 2025 RCT · Kelidari 2026 NMA · Ping 2026 SR-MA';
     let firstLine = 'Ibuprofen 400mg / Acetaminophen 1000mg alternate q4h × 48h';
     let avoidNSAID = false, reasonAvoid = [];
 
@@ -342,12 +346,15 @@ function calculate(e){
       firstLine = 'Acetaminophen 1차 → Celecoxib 또는 Ibuprofen 복용 타이밍 조절 (Aspirin 8h 전 또는 30min 후)';
       rec=firstLine;
       why='Aspirin 항혈소판 효과 보호 — Catella-Lawson 2001, Renda 2006, Yokoyama 2013.';
+    } else if (proc === 'impacted_third') {
+      rec=firstLine + ' + 술전 Dexamethasone 4mg IM 1회';
+      why='매복 third molar는 NSAID-preemptive 효과 약함 (Costa 2015 Meta, P=0.22) → 술전 NSAID 대신 술전 Dexamethasone 4mg IM 1회 권장 (Tamgadge 2025 split-mouth RCT, n=60: day7 VAS 0.4 vs 1.6, 개구량·부종 모두 개선). 술후 진통은 즉시 first dose. Opioid 금지.';
     } else if (proc === 'implant' || proc === 'perio_surg') {
       rec=firstLine + ' + 술전 30–60min Ibuprofen 400mg';
       why='Gousias 2025 SR-MA: 치주·임플란트 preemptive analgesia 효과 있음. COX-2 selective는 골유착 우려 (Etikala 2019) — 회피.';
     } else if (proc === 'endo' || proc === 'endo_acute') {
-      rec='Ibuprofen 600mg / Acetaminophen 1000mg alternate × 2–3일' + (proc === 'endo_acute' ? ' + Diclofenac potassium 50mg 고려' : '');
-      why='Smith 2017 SR-MA: 술전 통증 동반 endo에 Ibuprofen 600mg 유효. ' + (proc === 'endo_acute' ? 'Vatankhah 2023: 비가역 치수염에 Diclofenac K 우월.' : '');
+      rec='Ibuprofen 600mg / Acetaminophen 1000mg alternate × 2–3일 (6–8h 급성엔 Diclofenac+APAP 또는 Ketorolac, 24h 지속엔 Naproxen·Novafen)' + (proc === 'endo_acute' ? ' + Diclofenac potassium 50mg 고려' : '');
+      why='Smith 2017 SR-MA: 술전 통증 동반 endo에 Ibuprofen 600mg 유효. 단회 진통은 시간대 의존 — Diclofenac+APAP·Ketorolac이 6–8h 최강(Ping 2026: Ketorolac SMD −0.82, rescue RR 0.50)이나 12–24h 소실, Naproxen·Novafen이 24h 지속 (Kelidari 2026 NMA). ' + (proc === 'endo_acute' ? 'Vatankhah 2023: 비가역 치수염에 Diclofenac K 우월.' : '');
     } else if (painExp === 'low') {
       rec=firstLine; why='Miroshnychenko 2023: NNT ~1.5. Opioid 처방 금지.';
     } else {
