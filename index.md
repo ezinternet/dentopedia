@@ -17,6 +17,8 @@ tags: []
 - [[implants/koyama-2025-single-vs-two-implant-mandibular-overdenture-sr-ma]] — Koyama 2025 · sr+ma · 하악 1 vs 2 임플란트 오버덴쳐: 생존율 5년까지 동등, 의치 파절·재제작·하우징 재부착은 1-IOD에서 ~2배 (DOI 10.1186/s40729-025-00647-1)
 - [[implants/chappuis-chocano-2023-cadcam-bar-implant-overdenture-sr-ma]] — Chappuis-Chocano 2023 · sr+ma · CAD-CAM 밀링 bar 오버덴쳐 10편: 임플란트 생존 ~100%, 밀링 티타늄 bar 합병증 최소·OHIP 최상, 폴리머 bar는 임플란트주위염 신호 (DOI 10.1590/1678-7757-2023-0054)
 - [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — Sbricoli 2026 · cross-sectional · 제2형 당뇨 vs 비당뇨 임플란트주위염 유병률 유의차 없음(51% vs 43%, 검정력 부족·치주병력 교란)
+- [[implants/peri-implantitis/smeets-2014-peri-implantitis-definition-etiology-review]] — Smeets 2014, peri-implantitis definition/etiology/prevention/treatment comprehensive review, prevalence up to 56%
+- [[implants/lee-2009-marginal-bone-single-short-implant]] — Lee 2009, short implant (<10mm) marginal bone changes 1-year follow-up, C:I ratio evaluation (n=40)
 - [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — Esimekara 2022 · sr · **자가면역질환 임플란트** SR(55편/9질환): 생존율 일반인과 동등, 단 2차 Sjögren·미란성 OLP서 peri-mucositis·골소실↑ (DOI 10.1016/j.jormas.2022.01.005)
 - [[implants/aghaloo-2019-systemic-diseases-medications-implant-osseointegration-sr]] — Aghaloo 2019 · sr · ITI 합의 SR: 조절된 전신질환(당뇨·골다공증·RA·HIV)은 골유착 저하 근거 없음; SSRI/PPI 예비적 부정적; 항흡수제 ONJ 주의 (DOI 10.11607/jomi.19suppl.g3)
 - [[implants/almeida-2017-dental-implants-sjogren-syndrome-sr]] — Almeida 2017 · sr · Sjögren 증후군 임플란트 SR(6편): 생존 ~94%(평균 4년)·낮은 MBL·QoL 개선 (DOI 10.1371/journal.pone.0189507)
@@ -245,6 +247,8 @@ tags: []
 - [[implants/lopez-2017-osseodensification-spinal-surgical-hardware-fixation]] — 동물(양, n=12 양측 paired, 경추 C2·C3·C4, 0/3/6주): OD vs 표준 — pullout 강도 유의↑(p<0.01), BIC p<0.01·BAFO p=0.024 모두 우수. 척추 hardware 모델로 치과 외삽은 별도 추론
 
 ## 임플란트 — 표면처리·골유착 (Implant Surface / Osseointegration)
+- [[implants/surface/koshy-2015-dental-implant-surfaces-overview]] — Koshy 2015, titanium implant surface modification methods (additive/subtractive) narrative overview
+- [[implants/surface/ballo-2011-dental-implant-surfaces-physicochemical-biological]] — Ballo 2011, dental implant surface physicochemical properties, biological response, and clinical trends (InTech book chapter)
 - [[implants/surface/cochran-2002-reduced-healing-iti-sla-surface]] — 전향 다기관(326 SLA ITI, 110명): ~6주(class IV ~12주) 조기수복 — 지대주 성공 99.3%, 1·2년 생존 99.1% — SLA 단축치유 랜드마크
 - [[implants/surface/attik-2022-comparison-of-biological-behavior-and]] — Minimally invasive vs. standard implants show biocompatibility equivalence despite surface property differences; consider minimally invasive for space-limited anatomy
 - [[implants/surface/kim-2022-ca-implant-superhydrophilic-surface-long-term]] — 후향적(258개 Osstem CA, 62mo): 생존율 97.3%, 성공률 94.2%, MBL 0.074mm — 초친수성 칼슘 표면 장기 우수 예후
@@ -366,6 +370,7 @@ tags: []
 - [[pdrn/jeon-2026-pdrn-osteoblast-differentiation-osteoclastogenesis]] — In vitro (MC3T3-E1 + BMM, Marine Drugs 2026): PDRN selectively promotes osteoblast differentiation (Runx2↑, ALP↑, mineralization↑) without affecting osteoclastogenesis; A2A→Wnt/β-catenin→Runx2 mechanism proposed
 
 ## 즉시식립 (Immediate Implant)
+- [[immediate-implant/greenstein-2013-managing-buccal-gap-immediate-implant]] — Greenstein 2013, CE review on buccal gap management and buccal plate preservation in immediate implant placement
 - [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — Aung 2024 · retrospective(49 임플란트, SNU 2009–2018) · tapered self-tapping SLA 즉시식립 5년 생존율 93.88%, 하악 100%·상악 실패는 상악동 연관, 부위별 식립 근거
 - [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] — Jang 2025 · retrospective(n=16) · 낮은 1차안정성(ITV<10Ncm·초기 ISQ<55) flapless 즉시식립 — 16례 전부 생존(100%), 시간경과 ISQ 회복
 - [[immediate-implant/esthetic-soft-tissue/han-2025-immediate-implant-maxillary-esthetic-dual-thread]] — Han 2025 · prospective(n=20) · 상악 심미부 즉시식립 dual-thread(상부 U+하부 V)·11° internal hex 임플란트 — 성공률 85%, 치은퇴축 개선
@@ -453,6 +458,7 @@ tags: []
 - [[immediate-implant/socket-shield/zhang-2026-socket-shield-orthodontic-premolar-rct]] — RCT (Guangzhou Medical Univ, OMFS Springer 2026, n=26 환자, paired): 교정 발치 (premolar) 맥락 SST 첫 RCT — paired allocation, shield는 인접치 근접 시 제거. 적응증 교정 분야 확장
 
 ## 상악동거상술 — 측방접근 (Sinus Lift: Lateral Window)
+- [[sinus-lift/lateral/lim-2011-sinus-membrane-perforation-techniques-review]] — Lim 2011, Korean review of Schneiderian membrane perforation repair techniques/materials in sinus lift surgery
 - [[sinus-lift/lateral/alalshaikh-2024-membrane-perforation-risk-factors-lateral-sinus-sr-ma]] — Alalshaikh 2024 · sr+ma · 측방창 막천공 위험인자 SR+MA: 얇은 막<1.5mm·중격(septa) 3배·흡연 1.6배가 가장 두드러짐; window size·결손치수는 무관 (DOI 10.1016/j.oooo.2024.12.008)
 - [[sinus-lift/lateral/ke-2024-sinus-membrane-thickness-perforation-risk-sr-ma]] — Ke 2024 · sr+ma · CBCT 11편: 천공례서 막이 더 얇으나(MD −0.91mm) 특정 두께 cutoff(1/1.5/2mm)는 위험 예측 못함 (DOI 10.4317/medoral.26545)
 - [[sinus-lift/lateral/toledano-2022-short-versus-standard-implants-sinus]] — Meta-analysis (14 RCTs, 901 implants): short implants (≤6mm) equal survival vs. standard+sinus lift; significantly less MBL at ≤1yr (0.11mm) and >1yr (0.23mm); supports short implants as first-line in atrophic posterior maxilla
