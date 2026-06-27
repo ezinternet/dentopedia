@@ -10,13 +10,14 @@ category: [radiology]
 confidence: retrospective
 source_collection: pubmed-text
 full_text: false
-text_path: ""
+text_path: /Users/oracleneo/llm-wiki/papers/hedesiu-2018-dental-radiological-irradiation-pediatric-population.txt
 tags: [effective-dose, CBCT, pediatric, background-radiation, LAR, radiation-risk]
 relations:
   - type: reinforces
     target: stervik-2024-radiation-exposure-during-orthodontic-treatment
   - type: reinforces
     target: ludlow-2008-patient-risk-dental-radiographic-examinations
+text_filename: hedesiu-2018-dental-radiological-irradiation-pediatric-population.txt
 ---
 
 ## One-line Summary

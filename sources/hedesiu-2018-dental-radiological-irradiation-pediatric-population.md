@@ -7,8 +7,9 @@ pmid: "29803375"
 category: [radiology]
 source_collection: pubmed-text
 full_text: false
-text_path: ""
+text_path: /Users/oracleneo/llm-wiki/papers/hedesiu-2018-dental-radiological-irradiation-pediatric-population.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/29803375/
+text_filename: hedesiu-2018-dental-radiological-irradiation-pediatric-population.txt
 ---
 
 ## Why Ingested

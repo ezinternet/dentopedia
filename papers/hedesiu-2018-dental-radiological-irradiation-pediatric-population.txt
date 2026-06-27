@@ -1,0 +1,22 @@
+Irradiation provided by dental radiological procedures in a pediatric population.
+
+Authors: Hedesiu; Marcu; Salmon; Pauwels; Oenning; Almasan; Roman; Baciut; Jacobs; 
+Journal: {'title': 'European journal of radiology', 'iso_abbreviation': 'Eur J Radiol'}
+Publication date: {'year': '2018', 'month': '04', 'day': '23'}
+DOI: 10.1016/j.ejrad.2018.04.021
+PMID: 29803375
+Article types: Journal Article
+
+ABSTRACT
+========
+Children are more sensitive to ionizing radiation effects due to their high radiosensitivity.
+
+To estimate doses and risks for dental radiological examinations in children.
+
+A pediatric population consisting of 7150 children and young adults which underwent 12252 dental radiological examinations (4220 intraoral, 1324 cephalometric, 5284 panoramic radiographs and 1424 CBCTs) within two years were included. Two groups were studied: CBCT group (exposed to CBCT&#x202f;&#xb1;&#x202f;conventional radiographs) and 2D group (exposed only to 2D radiological examinations). The effective doses were corrected according to age at exposure and settings parameters (mA;FOV) by using logarithmic fit equations for dose interpolation. The individual cumulative dose, per-caput collective dose and radiation risk were calculated for each group.
+
+The median effective and cumulative doses for conventional radiographs were lower than 20&#x202f;&#x3bc;Sv and did not vary with age. Children exposed to CBCT had a higher median effective dose (127.2&#x202f;&#x3bc;Sv) and cumulative dose (156.5&#x202f;&#x3bc;Sv) with a significant increased cumulative dose between 11 and 14 years. The CBCT contributed with 70% to the collective dose and per caput collective dose was 184&#x202f;&#x3bc;Sv for CBCT exposures. The Life Attributable Risk (LAR) and Relative Radiation Level (RRL) were significantly higher for children exposed to CBCT under the age of 18. The highest radiation dose for CBCT was equivalent with 34.1&#x202f;days of natural background radiation and it was found for ages between 11 and 15.
+
+The CBCT doses and radiation risk vary but remain in the lower levels of the relative risk of medical exposures.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]
