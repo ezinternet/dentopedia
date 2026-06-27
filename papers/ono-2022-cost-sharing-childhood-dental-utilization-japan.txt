@@ -1,0 +1,18 @@
+Short-term effects of reduced cost sharing on childhood dental care utilization and dental caries prevention in Japan.
+
+Ono S, Sasabuchi Y, Ishimaru M, Ono Y, Matsui H, Yasunaga H.
+Community Dent Oral Epidemiol. 2022;51(2):228-235.
+doi: 10.1111/cdoe.12730
+PMID: 35072286
+
+ABSTRACT
+
+Generous dental insurance coverage can improve children's oral health, but most prior studies are from the US and may not apply to universal-healthcare countries.
+
+Purpose: examine the effect of a dental subsidy on dental service utilization and oral health among school-aged children.
+
+Methods: Administrative claims database, Kumamoto Prefecture, Japan, 2014–2015. Municipalities where the upper age limit for the dental subsidy was 9 years or older were selected. A difference-in-differences (DiD) approach was used to estimate the impact of subsidy discontinuation on utilization and caries prevention. Utilization measures = number of first visits, total visits, cost per visit; caries-prevention failure = treatment for acute severe dental conditions.
+
+Results: 1108 eligible children, 6276 visits, 455 clinics; 230 (50.5%) were in municipalities where the subsidy discontinued at age 10. After adjusting for area income and minimal user charges, there were NO significant differences in subsequent utilization (first visits mean ratio 1.01, 95% CI 0.97–1.04; total visits 1.01, 95% CI 0.98–1.05), acute severe dental conditions (1.06, 95% CI 0.90–1.24), or cost (coefficient 0.7 USD, 95% CI −0.2–1.6) over the 12 months after the policy change.
+
+Conclusion: the current dental subsidy policy may have limited value for promoting utilization and improving oral health among school-aged children in Japan.
