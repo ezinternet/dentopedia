@@ -1,0 +1,1037 @@
+INTRODUCTION
+
+Since the concept of osseointegration was introduced by Brånemark [], implant dentistry has continually evolved, and implants are widely used for the reconstruction of the dental arch in completely or partially edentulous patients. The long-term survival rates of dental implants have been reported to be 91.96%–98.7%, which are quite predictable []. However, the survival of the implants does not necessarily mean the success of the implant. Surviving implants may function in various conditions, surrounded by intact bone or suffering from severe bone loss. Several authors have suggested success criteria for implants, including hard and soft tissue changes []. The peri-implant marginal bone level is one of the most important factors for implant success. The presence of marginal bone loss can lead to peri-implant complications, such as peri-implant inflammation, soft tissue recession, aesthetic problems, plaque accumulation, and eventually implant failure. It has been suggested that successful implants must present less than 0.2 mm of vertical bone loss annually after the first year of functional loading [].
+
+Various factors are thought to cause marginal bone loss around implants, including surgical trauma, micro-gaps at the implant-abutment interface, biologic width establishment, implant design, history of periodontitis, and smoking []. Some studies have focused on the influence of the implant-abutment connection type on marginal bone loss []. Canullo et al. [] reported that the abutment connection design might influence the bacterial activity levels in implant-abutment interfaces. Maeda et al. [] suggested that internal-hex type implants showed a widely spread force distribution, whereas external-hex type implants had an increase in strain in the cervical area. These factors, which differ between abutment connection types, are known to contribute to marginal bone loss.
+
+Many studies have compared external and internal connection types of implants, but with different designs. A previous study performed a 1-year randomized controlled trial on implants with an identical design except for the implant-abutment connection type []; however, long-term follow-up studies are in short supply.
+
+Therefore, to focus on the effects of the implant-abutment connection type on peri-implant marginal bone loss, we investigated implants with an identical design except for the abutment connection type. The purpose of this study was to compare the long-term survival rates and peri-implant marginal bone loss in terms of the abutment connection types of the implants.
+
+MATERIALS AND METHODS
+
+Study design and data collection
+
+This study was approved by the Institutional Review Board of the Gangneung-Wonju National University Dental Hospital (GWNUDH-IRB2021-A004). In this retrospective study, dental implants with 2 different abutment connection types were compared: an external hex with a butt joint connection type (Sola, Shinhung, Seoul, Korea) and an internal 11° conical hex connection type (Luna, Shinhung). Both types of implants have an identical design and share identical characteristics of the implant surface (sand-blasted and acid-etched), except for the implant-abutment connection type, including implant geometry, thread structure, and surface roughness. All implants included in this study were placed at the Department of Periodontics of the Gangneung-Wonju National University Dental Hospital from November 2011 to December 2015. The prosthetic procedures were completed at the Department of Prosthodontics of the Gangneung-Wonju National University Dental Hospital.
+
+The following exclusion criteria were applied: (1) immediate implant placement or immediate prosthetic loading; (2) re-installation at a previously failed site; (3) uncontrolled diabetes mellitus (DM); and (4) previous radiotherapy in the head and neck region. Patients with uncontrolled DM were defined as having glycated hemoglobin values of more than 8% [].
+
+The following data were collected by searching electronic dental records: (1) patient information (sex, age at the time of implant placement, smoking status, and health status, including information about DM); (2) implant-related parameters (the diameter and length of implant); (3) periodontal management (history of periodontal treatment, compliance with supportive periodontal therapy [SPT]); (4) surgical site (location, bone augmentation procedures [guided bone regeneration or maxillary sinus elevation, using the crestal approach or lateral approach], surgical approach, and spontaneous early exposure of the cover screw [CS]); (5) prosthesis (prosthetic type and retention type of prosthesis); and (6) dates of implant placement, prosthetic loading, implant removal, and the last follow-up.
+
+Smoking status was categorized according to cigarette consumption per day: heavy smokers (≥20 cigarettes/day), light smokers (<20 cigarettes/day), former smokers (had a history of smoking but had quit by the initial visit), and non-smokers (had never smoked) []. The implants were classified according to their diameter (narrow platform: <4 mm; regular platform: 4–4.5 mm; wide platform: ≥5 mm) and length (<10 mm, 10 mm, or >10 mm). Patients’ compliance with SPT was classified according to their attendance at the recommended appointments: complete compliance (≥80% of recommended appointments), erratic compliance (<80% of recommended appointments or discontinued), and non-compliance (never attending for SPT) []. The implant location was defined as the maxilla/mandible and anterior/premolar/molar areas. The surgical approach was classified into submerged or non-submerged. There was no consideration of CS exposure in patients with a non-submerged approach. The prosthetic type was classified into single crown, splinted crown, and bridge. The retention-type prostheses were further classified into the screw, cement, and screw–cement-retained prosthesis (SCRP) types.
+
+Implant survival was defined as an implant that remained in place at the time of evaluation, regardless of the presence of any condition []. Implant failure was defined as an implant that had been removed for any reason [].
+
+Radiographic measurements
+
+The peri-implant marginal bone level was measured using intraoral periapical radiographs [], which were acquired at the time of implant placement and at 1- and 5-year follow-up visits after functional loading. To minimize differences in measurements depending on the timing of radiographic imaging, the peri-implant marginal bone level was measured using intraoral periapical radiographs within 3 months of the 1- and 5-year follow-up visits after functional loading. Intraoral periapical radiographs were acquired using an intraoral X-ray system (CS 2200, Carestream, Rochester, NY, USA) with an intraoral digital sensor (SuniRay, Suni, San Jose, CA, USA). The long-cone paralleling technique with the Rinn system film holder (XCP Instruments, Dentsply Sirona, Charlotte, NC, USA) was used with the X-ray tube, and the digital sensor was kept parallel to the long axis of the implant during imaging. With this method, the implant threads could be visualized clearly.
+
+The topmost point of the bone, located in a straight line—parallel to the long axis of the implant fixture—and meeting the mesial or distal side of the implant fixture, was regarded as the peri-implant bone level (PIBL) on each side. The marginal bone loss was defined as the distance between the implant shoulder and the PIBL. For each implant fixture, we measured the length of the implant fixture and the distance between the implant apex and the PIBL (I-PIBL) at the mesial and distal sides (). The actual I-PIBL of each side was calculated using the ratio of the actual length of the implant to the length of the implant fixture measured on the radiographs. The marginal bone loss was calculated by subtracting the length of the implant from the actual I-PIBL; if the value was positive, it was considered that there was no marginal bone loss. Finally, the mean marginal bone loss was determined by averaging the values on each side. All radiographic measurements were taken at least 3 times at intervals of 1 week or more, the mean and standard deviation were calculated, and the mean value was used for the study.
+
+Figure 1
+
+Methods of measuring marginal bone loss on radiographs. (A, B) External-type implant (#24!). (C, D) Internal-type implant (#15!).
+
+F: the length of the implant fixture, M: mesial I the distance between the implant apex and the peri-implant bone level, D: distal the distance between the implant apex and the peri-implant bone level, M-F: mesial marginal bone loss, D–F: distal marginal bone loss.
+
+Statistical analysis
+
+Data analysis was performed using SPSS version 28 (IBM Corp., Armonk, NY, USA). The cumulative survival rates of implants were calculated by Kaplan-Meier analysis. The log-rank test was used to identify whether the abutment connection type affected implant survival. Descriptive statistics and the-test were used to compare marginal bone loss between the 2 groups. To discriminate potential risk factors associated with peri-implant marginal bone loss, multiple regression analysis was performed. The significance level was set at avalue of <0.05.
+
+RESULTS
+
+During the study period, a total of 728 implants in 405 patients (336 external-type implants in 163 patients and 392 internal-type implants in 258 patients) were investigated. Of these, 179 external-type implants and 160 internal-type implants were excluded due to insufficient follow-up data or the lack of more than 5 years of digital periapical radiographs. Fifteen implants met the exclusion criteria.
+
+Finally, 153 external-type implants in 73 patients and 221 internal-type implants in 102 patients were included in this study (). The demographic data of patients, implants, surgical procedures, and prostheses are presented in. No statistically significant differences were observed between the external and internal groups in terms of demographic data.
+
+Figure 2
+
+Flow chart of the study population.
+
+Table 1
+
+The demographic data of patients, implants, surgical procedures, and prosthesis
+
+Factors
+
+External
+
+Internal
+
+value
+
+Patient
+
+Sex
+
+0.615
+
+Female
+
+71 (46.4)
+
+109 (49.3)
+
+Male
+
+82 (53.6)
+
+112 (50.7)
+
+Age
+
+0.219
+
+<20
+
+4 (2.6)
+
+3 (1.4)
+
+20–39
+
+4 (2.6)
+
+12 (5.4)
+
+40–59
+
+106 (69.3)
+
+139 (62.9)
+
+≥60
+
+39 (25.5)
+
+67 (30.3)
+
+Smoking
+
+0.126
+
+Heavy
+
+23 (15.0)
+
+22 (10.0)
+
+Light
+
+17 (11.1)
+
+24 (10.9)
+
+Former
+
+1 (0.7)
+
+11 (5.0)
+
+None
+
+112 (73.2)
+
+164 (74.2)
+
+DM
+
+0.285
+
+Controlled
+
+23 (15.0)
+
+32 (14.5)
+
+None
+
+130 (85.0)
+
+189 (85.5)
+
+Implant
+
+Diameter
+
+0.116
+
+NP
+
+4 (2.6)
+
+13 (5.9)
+
+RP
+
+73 (47.7)
+
+149 (67.4)
+
+WP
+
+76 (49.7)
+
+59 (26.7)
+
+Length
+
+0.318
+
+<10 mm
+
+11 (7.2)
+
+1 (0.5)
+
+10 mm
+
+60 (39.2)
+
+116 (52.5)
+
+>10 mm
+
+82 (53.6)
+
+104 (47.1)
+
+Periodontal management
+
+0.560
+
+Periodontal treatment
+
+Yes
+
+130 (85.0)
+
+194 (87.8)
+
+No
+
+23 (15.0)
+
+27 (12.2)
+
+SPT
+
+0.627
+
+Complete
+
+36 (23.5)
+
+61 (27.6)
+
+Erratic
+
+68 (44.4)
+
+131 (59.3)
+
+None
+
+49 (32.0)
+
+29 (13.1)
+
+Surgical site
+
+Location
+
+0.593
+
+Mx. anterior
+
+4 (2.6)
+
+19 (8.6)
+
+Mx. premolar
+
+11 (7.2)
+
+62 (28.1)
+
+Mx. molar
+
+23 (15.0)
+
+128 (57.9)
+
+Mn. anterior
+
+1 (0.7)
+
+0 (0.0)
+
+Mn. premolar
+
+19 (12.4)
+
+1 (0.5)
+
+Mn. molar
+
+95 (62.1)
+
+11 (5.0)
+
+GBR
+
+0.310
+
+Yes
+
+37 (24.2)
+
+49 (22.2)
+
+No
+
+116 (75.8)
+
+172 (77.8)
+
+Sinus
+
+0.366
+
+Crestal approach
+
+13 (8.5)
+
+58 (26.2)
+
+Lateral approach
+
+4 (2.6)
+
+50 (22.6)
+
+None
+
+136 (88.9)
+
+113 (51.1)
+
+Surgical approach
+
+0.413
+
+Submerged
+
+120 (78.4)
+
+200 (90.5)
+
+Non-submerged
+
+33 (21.6)
+
+21 (9.5)
+
+Early CS exposure
+
+0.377
+
+Yes
+
+18 (11.8)
+
+5 (2.3)
+
+No
+
+102 (66.7)
+
+195 (88.2)
+
+Prosthesis
+
+Prosthetic type
+
+0.612
+
+Single crown
+
+47 (30.7)
+
+57 (25.8)
+
+Splinted crowns
+
+90 (58.8)
+
+133 (60.2)
+
+Bridge
+
+15 (9.8)
+
+31 (14.0)
+
+Retention type of prosthesis
+
+0.557
+
+Screw
+
+94 (61.4)
+
+140 (63.3)
+
+Cement
+
+2 (1.3)
+
+23 (10.4)
+
+SCRP
+
+42 (27.5)
+
+43 (19.5)
+
+Values are presented as number (%).
+
+Mx: maxillary, Mn: mandibular, DM: diabetes mellitus, NP: narrow platform, RP: regular platform, WP: wide platform, SPT: supportive periodontal therapy, GBR: guided bone regeneration, CS: cover screw, SCRP: screw-cement retained prosthesis.
+
+Cumulative survival rates
+
+The 5-year cumulative survival rates of the implants with external and internal connection types were 95.8% and 93.5%, respectively, and the 8-year cumulative survival rates were 93.3% and 90.7%, respectively (). No statistically significant difference was observed between the survival rates of both types (log-rank test,=0.353).
+
+Figure 3
+
+Cumulative survival rates of the implants.
+
+Peri-implant marginal bone loss
+
+shows the marginal bone loss after 1 year and 5 years of functional loading. After 1 year of loading, the mean value of marginal bone loss for external connection-type implants was 1.23 mm and that for internal connection-type implants was 0.72 mm. The mean value of marginal bone loss in the internal group was significantly lower than that in the external group (<0.001). By contrast, the mean values of the marginal bone loss after 5 years of loading were 1.20 mm and 1.00 mm for the external and internal connection types, respectively, without any statistically significant difference (=0.137).
+
+Table 2
+
+Mean marginal bone loss at 1-year and 5-year after functional loading
+
+Factors
+
+External
+
+Internal
+
+value
+
+1-yr
+
+Mesial
+
+1.160±0.967
+
+0.660±1.074
+
+<0.001
+
+Distal
+
+1.290±0.780
+
+0.780±1.080
+
+<0.001
+
+Average
+
+1.230±0.755
+
+0.720±1.033
+
+<0.001
+
+5-yr
+
+Mesial
+
+1.060±1.324
+
+0.920±1.470
+
+0.365
+
+Distal
+
+1.340±1.055
+
+1.080±1.509
+
+0.058
+
+Average
+
+1.200±1.047
+
+1.000±1.448
+
+0.137
+
+Values are presented as mean ± standard deviation.
+
+Statistically significant difference between the groups using the-test (<0.05).
+
+Associations between various factors and marginal bone loss
+
+shows the multiple regression analysis of various factors after 5 years of loading in each implant group. Implant location (mandibular premolar,0.003; mandibular incisor,=0.009) and DM status (none,<0.001) were associated with significantly less marginal bone loss around the external-type implants. For internal connection-type implants, implant length (>10 mm,=0.018), smoking status (heavy,=0.001), and prosthetic type (bridge,=0.004) were associated with significantly greater marginal bone loss. In contrast, the use of a retention-type prosthesis (SCRP,=0.027) had a statistically significant association with less marginal bone loss. In both groups, smoking status (heavy,0.008) and prosthetic type (bridge,=0.017) were significantly associated with greater marginal bone loss.
+
+Table 3
+
+Multiple regression analysis evaluating the effects of various factors on marginal bone loss
+
+Variables
+
+External (R=0.405)
+
+Internal (R=0.337)
+
+Whole (R=0.148)
+
+β
+
+SE
+
+P
+
+β
+
+SE
+
+P
+
+β
+
+SE
+
+P
+
+Patient
+
+Sex
+
+0.157
+
+0.304
+
+0.253
+
+0.016
+
+0.281
+
+0.865
+
+0.007
+
+0.212
+
+0.926
+
+Age
+
+0.193
+
+0.018
+
+0.185
+
+−0.120
+
+0.013
+
+0.155
+
+−0.115
+
+0.010
+
+0.096
+
+Heavy smoking
+
+0.147
+
+0.480
+
+0.320
+
+−0.272
+
+0.424
+
+0.001
+
+b)
+
+−0.189
+
+0.318
+
+0.008
+
+b)
+
+Light smoking
+
+0.048
+
+0.480
+
+0.709
+
+−0.062
+
+0.422
+
+0.454
+
+−0.049
+
+0.323
+
+0.476
+
+Former smoking
+
+0.129
+
+1.400
+
+0.295
+
+−0.081
+
+0.613
+
+0.306
+
+−0.013
+
+0.538
+
+0.836
+
+DM (none)
+
+0.559
+
+0.385
+
+0.000
+
+b)
+
+−0.068
+
+0.378
+
+0.438
+
+0.054
+
+0.262
+
+0.428
+
+Implant
+
+NP
+
+−0.077
+
+1.307
+
+0.506
+
+0.144
+
+0.587
+
+0.108
+
+0.094
+
+0.525
+
+0.203
+
+WP
+
+−0.210
+
+0.285
+
+0.105
+
+0.108
+
+0.323
+
+0.257
+
+0.046
+
+0.231
+
+0.564
+
+Length (>10 mm)
+
+−0.094
+
+0.152
+
+0.423
+
+−0.218
+
+0.170
+
+0.018
+
+a)
+
+−0.125
+
+0.118
+
+0.080
+
+Periodontal management
+
+Perio Tx.
+
+0.038
+
+0.377
+
+0.749
+
+−0.166
+
+0.381
+
+0.057
+
+−0.105
+
+0.267
+
+0.110
+
+Erratic
+
+0.096
+
+0.344
+
+0.526
+
+−0.098
+
+0.315
+
+0.339
+
+−0.131
+
+0.228
+
+0.112
+
+None
+
+−0.143
+
+0.320
+
+0.315
+
+0.082
+
+0.420
+
+0.404
+
+−0.098
+
+0.271
+
+0.247
+
+Surgical site
+
+Mx. molar
+
+0.161
+
+1.258
+
+0.147
+
+0.081
+
+0.670
+
+0.484
+
+0.051
+
+0.585
+
+0.578
+
+Mx. premolar
+
+0.281
+
+0.670
+
+0.084
+
+0.048
+
+0.320
+
+0.622
+
+0.029
+
+0.280
+
+0.729
+
+Mn. premolar
+
+0.629
+
+0.753
+
+0.003
+
+b)
+
+−0.001
+
+1.436
+
+0.993
+
+−0.024
+
+0.494
+
+0.742
+
+Mn. anterior
+
+0.706
+
+0.620
+
+0.009
+
+b)
+
+0.043
+
+0.548
+
+0.610
+
+−0.084
+
+0.280
+
+0.358
+
+GBR
+
+−0.095
+
+0.297
+
+0.420
+
+−0.007
+
+0.324
+
+0.936
+
+−0.029
+
+0.232
+
+0.684
+
+Crestal
+
+0.143
+
+0.651
+
+0.388
+
+−0.078
+
+0.313
+
+0.401
+
+−0.111
+
+0.277
+
+0.170
+
+Lateral
+
+0.103
+
+0.994
+
+0.405
+
+0.065
+
+0.342
+
+0.495
+
+−0.013
+
+0.304
+
+0.868
+
+CS exposure
+
+−0.023
+
+0.389
+
+0.832
+
+0.058
+
+0.753
+
+0.437
+
+0.028
+
+0.387
+
+0.653
+
+Prosthesis
+
+Splinted
+
+−0.162
+
+0.270
+
+0.177
+
+−0.191
+
+0.311
+
+0.054
+
+−0.099
+
+0.214
+
+0.188
+
+Bridge
+
+−0.223
+
+0.460
+
+0.084
+
+−0.292
+
+0.424
+
+0.004
+
+b)
+
+−0.182
+
+0.307
+
+0.017
+
+a)
+
+SCRP
+
+−0.207
+
+0.301
+
+0.098
+
+0.310
+
+0.504
+
+0.027
+
+a)
+
+0.250
+
+0.438
+
+0.070
+
+The value of β and the correlation are proportional, ‘+’ means a negative relationship, and ‘−‘ means a positive relationship.
+
+β: standardized coefficient, SE: standard error, Mx: maxillary, Mn: mandibular, NP: narrow platform, WP: wide platform, GBR: guided bone regeneration, CS: cover screw, Tx: treatment, DM: diabetes mellitus, SCRP: screw-cement retained prosthesis.
+
+Statistically significant difference between the groups using the-test (<0.05).
+
+Statistically significant difference between the groups using the-test (<0.01).
+
+DISCUSSION
+
+In this study, we evaluated the effect of 2 different implant-abutment connection types on the long-term survival rates and peri-implant marginal bone loss. A radiographic assessment of 374 implants was conducted. Bony remodeling is the most active in the first year of prosthetic loading. Thereafter, the PIBL is much more stable and shows a bone loss of less than 0.2 mm per year in successful implants []. Therefore, the peri-implant marginal bone loss after 1 and 5 years of loading was evaluated. We also assessed the association between marginal bone loss and other factors that are thought to affect peri-implant marginal bone loss.
+
+In many studies, the long-term survival rates of implants have been reported to be 91.96%–98.7% []. In the present study, the 5-year and 8-year cumulative survival rates were 95.8% and 93.5%, and 93.3% and 90.7%, respectively, for implants with external and internal connection types. Several authors have suggested that the failure rate of dental implants was higher in the maxilla than in the mandible []. Alsaadi et al. [] found that more implant failures were observed in the maxilla than in the mandible, and in the posterior region than in the anterior region. The posterior maxilla was associated with most implant failures. Weng et al. [] also found the posterior maxilla to be the area with the highest failure rate. The low survival rate of internal connection-type implants in this study can be explained by the fact that a majority of them were placed in the posterior maxilla (128/221), while the external connection-type implants were mainly placed in the posterior mandible (95/153).
+
+The marginal bone loss after 1 year of loading was significantly greater in the external connection-type implants than in the internal-type implants. In a previous study, Kim et al. [] performed a 1-year randomized controlled trial with the same implant system as in our study and suggested that the internal friction connection structure might be more effective for the preservation of the marginal bone. This is consistent with the 1-year results of our study.
+
+Nonetheless, 5 years after prosthetic loading, there was no statistically significant difference in marginal bone loss between the 2 implant connection types, possibly because of more bone loss in the internal group than in the external group between 1 and 5 years after functional loading. Peñarrocha et al. [] reported that greater marginal bone loss was found with maxillary implants than with mandibular implants. In this study, most of the internal connection-type implants were placed in the maxilla (209/221). This discrepancy might have affected the outcome. Although greater change occurred in the internal group between 1 and 5 years after loading, the difference in the marginal bone loss was only 0.3 mm (<0.8 mm; 0.2 mm/year), which corresponds to Albrektsson’s success criteria []. Therefore, implant treatment may succeed with either type of abutment connection.
+
+In our study, we investigated the association between marginal bone loss and the factors related to patients, implants, surgical procedures, and prostheses, in addition to the abutment connection type. In the external-type group, the location of the implants (mandibular incisor and mandibular premolar) and DM significantly affected marginal bone loss. Manz [] suggested that more vertical bone loss appeared in implants placed in the maxilla than in the mandible, and in the anterior regions than in the posterior regions. In the present study, the implants placed in mandibular anterior and premolar regions showed less marginal bone loss. However, in this study, there was only 1 external-type implant in the mandibular anterior region—the number of implants assessed was too small to be statistically meaningful. Considering this, the finding of this study that implants in the mandibular premolar region had less marginal bone loss was supported by previous studies.
+
+A systematic review concluded that DM did not affect the implant survival rate, whereas a negative effect might be observed for marginal bone loss []. Another study investigated the long-term outcomes of implants in patients with systemic disorders, including DM. The author suggested that well-controlled disease had no significant effect on the implant survival rate and marginal bone loss []. In the present study, we excluded patients who had uncontrolled DM. Based on the results of this study, it can be concluded that DM may also affect marginal bone loss even when the disease is controlled.
+
+In the internal group, implants with longer lengths, patients with a history of heavy smoking or use of a bridge-type prosthesis showed significantly more marginal bone loss. In contrast, the marginal bone loss was significantly lower in implants using SCRP.
+
+Some studies have suggested that longer implants showed less marginal bone loss, and that an implant length of more than 14 mm may be a significant factor that reduces marginal bone loss []. This is contrary to the findings of the present study. It can be assumed that the longer implants were chosen to secure initial stability because of poor bone quality, which is correlated with an increase in the bone strain and subsequent bone loss [].
+
+There have been many studies about the effects of smoking []. Güven et al. [] suggested that peri-implant bone loss was correlated with the number of cigarettes smoked per day. Levin et al. [] reported that an increase in marginal bone loss was still observed in former smokers compared to non-smokers. In this study, smoking status was divided into 4 groups (heavy, light, former, none), of which only heavy smoking was significantly associated with marginal bone loss. Although the dose-dependent adverse effects of cigarette smoking were shown in this study, there was no statistical significance.
+
+A retrospective study to compare 3 different types of implant-supported fixed dental prostheses—3 non-splinted crowns, 3 splinted crowns, and 3-unit implant-supported bridges over 2 implants—reported that the peri-implantitis incidence rate of 3-unit implant-supported bridges was comparable to that of non-splinted crowns, and that it was lower than that of splinted crowns []. In contrast, Alhammadi et al. [] found that the marginal bone loss around 3-unit implant-supported fixed prostheses was significantly greater than that around single crown-supported implants 1 year after prosthetic loading. In the present study, implant-supported bridges had greater marginal bone loss than single or splinted crowns, which is in accord with the findings of Alhammadi et al. []. Although the prosthetic types were divided into 3 groups in this study, the situation for each prosthetic type varied more than could be captured by a tripartite classification. Therefore, it might be difficult to accurately evaluate the effect of the prosthetic type on marginal bone loss within this study.
+
+We investigated 3 retention types of prostheses. A systematic review reported that there was no evidence to support the difference in marginal bone loss between screw- and cement-retained prostheses []. Another study suggested that implants with cement-retained restorations showed less marginal bone loss than implants with screw-retained restorations, but the difference was not significant []. However, the present study does not reflect the results of the previous studies. In the internal-type group, less marginal bone loss was observed around SCRP implants. This discrepancy may result from the possibility of excess cement. There is evidence that residual cement from cement-retained restorations was associated with signs of peri-implant disease []. The SCRP type involves a combination of the features of screw- and cement-type restorations. The SCRP type has an advantage that it can be separated after the final setting and the remaining cement can be thoroughly removed, which is difficult with cement-retained restorations.
+
+We investigated the implants with an identical design except for the abutment connection type. However, this study had some limitations because of the retrospective study design. Because different clinicians acquired the radiographs at each follow-up, there was some difference in the vertical and horizontal angles of periapical radiographs, which made it difficult to compare the bone level accurately. Moreover, it was difficult to observe only the effect of the abutment connection type because the other various factors had not been controlled. Because of these limitations, the survival rates and the marginal bone loss associated with the abutment connection type identified in this study should be interpreted cautiously. A prospective study controlling for various factors is necessary in the future.
+
+Within the limitations of this study, it can be concluded that there is no significant difference in the cumulative survival rates between implants with external and internal abutment connection types. After 1 year of loading, the marginal bone loss was greater around the implants with the external abutment connection type; however, no significant difference in the marginal bone loss between external and internal groups was found after 5 years of loading. Therefore, both types of implants appeared to be reliable treatment options for the reconstruction of partially edentulous ridges.
