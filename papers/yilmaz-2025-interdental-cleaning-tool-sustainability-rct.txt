@@ -1,0 +1,304 @@
+TITLE: Sustainability of regular use of interdental cleaning tools in periodontally healthy individuals
+DOI: 10.1002/jper.24-0551
+
+ABSTRACT:
+Abstract
+
+Background
+
+The aim of this study was to compare the sustainability of regular use of 2 different interdental cleaning tools in 24 weeks by periodontally healthy individuals as a component of primary prevention.
+
+Methods
+
+Periodontally healthy individuals were randomly assigned to dental floss or rubber interdental pick group. Participants received an oral care kit and a calendar to record the times they used the floss/pick. Full‐mouth scores of plaque and bleeding were recorded. They were recalled on the 8th and 24th weeks, and asked to bring back the waste of the interdental cleaning tools. Regular use was defined as using the tool ≥ 3 days/week, and sustainability is the number of weeks with regular use. Data were analyzed using appropriate statistical tests.
+
+Results
+
+Fifty‐four participants completed the study protocol. Of these, 28 were in the rubber interdental pick, and 26 were in the dental floss group. In the rubber pick group, the mean number of weeks with regular use was 12.61 out of 24 weeks, while it was 4.96 in the dental floss group. The difference between the study groups in terms of the sustainability of regular use of the interdental cleaning tool was statistically significant (= 0.003). Plaque and bleeding scores were similar in the study groups at baseline and recall (> 0.05), and negatively correlated with the number of weeks with regular use (< 0.05).
+
+Conclusion
+
+Within the limits of this study, the use of rubber interdental picks can be recommended for superior sustainability in periodontally healthy individuals, provided that the interdental space allows passage.
+
+Plain language summary
+
+This study compared how well rubber interdental picks and dental floss work over 6 months for people with healthy gums. It aimed to find out which tool people use more consistently. Interdental cleaning is important because brushing alone does not remove all the plaque. Regular cleaning between teeth helps to prevent gum diseases and tooth decay. Fifty‐four volunteers with healthy gums were divided into 2 groups: 1 group used rubber interdental picks, and the other used dental floss. Participants were instructed to use their assigned tool daily and follow a regular oral care routine. Their usage and oral health were monitored throughout the study. Results showed that people used rubber interdental picks more regularly than dental floss. On average, those using picks continued for about 12.6 weeks out of 24 weeks, while floss users maintained the habit for approximately 5 weeks. As a conclusion, rubber interdental picks seem to be more likely to be used consistently and can be more effective for maintaining gum health compared to dental floss.
+
+FULL TEXT:
+1
+
+INTRODUCTION
+
+The global prevalence of severe periodontitis in the adult population is 9%–11%.The significance of maintaining proper plaque control in the interdental areas and its impact on minimizing inflammation of the gums have been extensively documented in the literature.,
+
+Toothbrushing solely is capable of eliminating only 60% of the microbial dental plaque in the mouth, excluding the interdental areas.Interdental areas are highly susceptible for the formation of plaque on both the anterior and posterior teeth.It is widely recognized that proper and consistent interdental cleaning avoids inflammation of the gums.The definition of periodontal health was established thoroughly for the first time in the World Workshop for Classification of Periodontal and Peri‐implant Diseases.According to this definition of “healthy periodontium” full‐mouth bleeding score should be less than 10%, no attachment loss due to periodontitis, and no bone loss should be evident. Primary prevention aims to maintain periodontal health in individuals with healthy periodontal tissues and sustainability of the regular use of interdental cleaning tools play a critical role in primary prevention. The major factor for maintaining periodontal health in a sustainable way is the implementation of efficient daily home care practices. Interdental cleaning is a crucial component of everyday oral hygiene and is only beneficial when performed correctly, effectively, regularly, and promptly, like the other home care procedures. The absence of any of these characteristics might result in undesirable outcomes, such as dental caries formation and gingival inflammation.
+
+The effectiveness of rubber interdental picks has been documented in previous studies. Six relevant randomized controlled trials (RCTs) were included in a recently published systematic review by van der Weijden et al.These studies failed to detect any superiority of 1 tool to another in terms of plaque removal. Hennequin–Hoenderdos et al.reported that rubber interdental picks caused less abrasion of the gingiva and were more preferred by participants of the study in comparison to the interdental brushes. Graziani et al.comparatively investigated interdental plaque reduction after using different tools (interdental brush, dental floss, rubber interdental picks, and only regular toothbrush) in periodontally healthy individuals. Their findings indicated that the reduction in interdental full‐mouth bleeding score was significantly higher in participants using rubber interdental picks compared to those using dental floss. However, a major limitation of all these RCTs is the short follow‐up period that ranged between 2 to 4 weeks.
+
+Patients typically utilize dental care products regularly during their active dental treatment, but problems tend to relapse in time during the post‐treatment period.The optimal frequency of interdental cleaning on a weekly basis has been questioned in a study comparing 3 groups; no interdental cleaning at all, interdental cleaning 1–3 days/week, and > 4 days/week.A more frequent occurrence of periodontal disease, increased development of coronal and interproximal caries, and a higher ratio of tooth loss were detected in the group without interdental cleaning. However, there was no significant difference in any of the clinical parameters between the other 2 groups that performed interdental cleaning 1–3 days/week and > 4 days/week.Another study showed that utilizing dental floss 2–4 times per week produced comparable outcomes with more frequent usage.Maintenance of lifetime periodontal health is strongly correlated with consistent and continuing utilization of interdental cleaning tools.To the best of our knowledge, there is no published study comparatively investigating the sustainability of regular use of rubber interdental picks and dental floss in periodontally healthy individuals. In light of the available literature,it was hypothesized that rubber interdental picks are regularly used more preferentially than dental floss by periodontally healthy individuals and provide lower plaque scores in the recalls in the long run. Therefore, the present study was planned to comparatively evaluate the sustainability of regular usage of rubber interdental picks and dental floss in periodontally healthy individuals.
+
+2
+
+MATERIALS AND METHODS
+
+2.1
+
+Study design and participants
+
+This is a randomized, parallel‐design, examiner‐blinded study with a 6‐month follow‐up. The study protocol was approved by the Ethics Committee of Ege University, Faculty of Medicine with the reference number of 22‐2.1T/24 on February 24, 2022. Full accordance with ethical principles including the World Medical Association's Declaration of Helsinki as revised in 2000 was provided. The study protocol was explained, and written informed consent was received from each individual before their recruitment for the study.
+
+For power analysis, we used an independent 2‐group Mann–Whitneytest (2‐sided) and it was calculated that at least 52 (26 + 26) volunteers were required to find a difference of large effect size (= 0.8) between the groups at a 0.05 type‐I error level with 80% power. To account for potential dropouts during the 6‐month follow‐up, 60 participants were included at baseline, 30 in each study group. All participants were screened and selected among those patients seeking dental treatment other than periodontal therapy in Ege University, School of Dentistry.
+
+The inclusion criteria were as follows: (1) aged between 18 and 70 years; (2) having at least 20 teeth (at least 5 teeth and 4 interdental areas in each quadrant (2 in the molar area, 2 in the premolar and anterior teeth area) with sufficient interdental size (open contacts/diastema were also included), where dental floss and rubber interdental pick can be used; (3) using a manual toothbrush; (4) having healthy periodontal tissues (no sign of erythema, edema, no radiographic sign of attachment/alveolar bone loss); (5) full‐mouth plaque and bleeding scores < 15%. The exclusion criteria were as follows: (1) any known systemic disease affecting the oral tissues; (2) using drugs that cause gingival hyperplasia; (3) requirement for prophylactic antibiotics; (4) presence of insufficient amount of keratinized gingiva (< 2  mm); (5) having orthodontic appliances or removable dentures or overhanging restorations; (6) presence of fractured/malposed teeth; (7) history of periodontal disease/treatment; (8) regular use of any interdental cleaning device. Moreover, dentists or dental students were not included in the study.
+
+2.2
+
+Clinical procedures
+
+In the first session, detailed medical and dental history was obtained from the participants, and intraoral/extraoral clinical and radiological examinations were performed. Participants were selected according to the inclusion/exclusion criteria, full‐mouth plaque and bleeding on probing (BOP) scores were recorded. Subsequently, the participants were randomly allocated to the study groups using a coin toss conducted by a researcher outside the study. All the clinical periodontal examinations were performed by 1 calibrated and blinded researcher (M.Y.). Calibration was performed on 5 periodontal healthy volunteers, who were not included in the study and a repeatability of over 90% (kappa coefficient > 0.85) was reached in the clinical periodontal measurements. Comprehensive and standardized verbal instructions on the proper use of the interdental and non‐interdental cleaning tools were provided by another researcher (N.B.) to each participant in 10 min. The interdental cleaning tools are shown in Figure. Participants were recommended to clean the interdental areas at least once a day. Furthermore, all participants were instructed to brush their teeth twice daily using the Modified Bass technique, employing a medium‐hard toothbrush with a straight handle and parallel, uniform bristles, along with toothpaste containing fluoride.
+
+In order to reinforce motivation and facilitate cooperation, the other researcher (N.B.) gave the participants a calendar specially designed for this study to determine the frequency of interdental cleaning (once or twice a day) and the use of the interdental cleaning tool. The participants were asked to mark areas (anterior or posterior teeth, upper or lower jaw, left or right jaw) every time they use the tool. Dichotomous BOP (±) and dichotomous plaque index (PI) (±) scores were recorded. Percentages of sites with BOP and/or PI were calculated for each individual and then for each group. All measurements were performed at 4 sites (mesial, buccal, distal, oral) of each tooth present excluding the third molars. The presence of plaque was determined using a plaque‐staining tablet.A Williams periodontal probewas used for dichotomous evaluation of BOP.
+
+All participants were recalled at the 8th and 24th weeks after the start of the study and were asked to bring their calendars and the waste of the interdental cleaning tools. Regular use was defined as using the tool at least 3 days a week and sustainability is the number of weeks with regular use.,The calendar used in the study is shown in Figure. The primary outcome measure of the present study was the regular and sustainable use of interdental cleaning tools during the 6‐month follow‐up period, and the secondary outcome measure was the percentages of full‐mouth PI and BOP scores.
+
+FIGURE 1
+
+Provided interdental cleaning tools. (A) GUM rubber interdental pick, small size. (B) GUM dental floss.
+
+FIGURE 2
+
+Calendar provided for the participants to mark on a daily basis. The dentition was divided into 4 zones that may possibly reflect the different practicality levels of interdental cleaning.
+
+2.3
+
+Statistical analyses
+
+Statistical analyses were performed using the IBM SPSS Statistics for Windows, Version 25.0and a package program and R software.The compliance of numerical variables with normal distribution was checked with the Shapiro–Wilk Test. Since compliance with normal distribution was rejected, nonparametric hypothesis testing methods were used in all analyses.
+
+In the analysis of variables with repeated measurements, the nonparametric Brunner‐Langer1 F1‐LD‐F1 model (in R software) was used to simultaneously evaluate the difference between the groups and between the different measurement times and the interaction. The significant interaction can be interpreted as the difference between the measurement times in the relevant variable not being similar in the groups, that is, not being of similar magnitude and/or in a similar direction. In this case, the intragroup analyses were performed with the Brunner‐Langer LD‐F1 model in terms of intertemporal changes. Bonferroni correction was applied in pairwise comparisons after Brunner‐Langer.Numerical variables were compared between the 2 groups using the Mann–Whitney and categorical variables using the chi‐squared (or Fisher exact probability) method. The existence of a linear relationship between numerical variables was examined with Spearman rank correlation analysis. All tests were performed at a 2‐sided significance level of 0.05, that is< 0.05 values were considered as statistically significant.
+
+3
+
+RESULTS
+
+Sixty individuals were initially included in the study, but 5 participants did not show up at the recalls and 1 individual was excluded due to pregnancy. The statistical analysis of this study involved data from a total of 54 participants, who used 2 different interdental cleaning tools. The age, sex, smoking status, baseline (T0) clinical periodontal measurements (full‐mouth PI, BOP scores), and the number of weeks/24 weeks that met the criteria of regular use are presented in Table.
+
+Data from 28 participants in the rubber interdental pick group and 26 participants in the dental floss group were tested statistically. The mean age of the participants in the rubber interdental pick group was significantly higher than that of the dental floss group (43.54 years and 34.15 years, respectively) (< 0.05). The rubber interdental pick group comprised 17 female and 11 male participants, whereas the dental floss group included 15 female and 11 male participants. The study groups were similar in terms of sex distribution (> 0.05). When female and male participants in the study were compared, there was no significant difference in age, sustainability, baseline scores of PI, and BOP (> 0.05).
+
+Seven individuals in the rubber interdental pick group and 4 in the dental floss group were smokers and the groups were comparable in terms of smoker/non‐smoker ratios (> 0.05). Moreover, there was no statistically significant difference between the smoker and non‐smoker participants regarding the age, sustainability, baseline scores of PI, and BOP (> 0.05). The baseline (T0) full‐mouth scores of PI and BOP were 11.57% and 8.86%, respectively, in the rubber interdental pick group. These values were 11.73% and 9% in the dental floss group, and there were no significant differences between the groups (> 0.05).
+
+Sustainability of regular use that is at least 3 days/week, the primary outcome measure of this study was 5.14/8 weeks in the rubber interdental pick group and 3.19/8 weeks in the dental floss group, and the difference was statistically significant (< 0.05). The number of sustained weeks was 12.61/24 weeks in the rubber interdental pick group, whereas it was 4.96/24 weeks in the dental floss group, and the difference between the study groups was statistically significant (< 0.01) (Figure). None of the interdental cleaning tools indicated a straight line in the course of regular usage during the follow‐up period of 24 weeks but rather showed fluctuations. However, the number of participants reporting regular usage stayed higher in the rubber pick group throughout the study (Figure).
+
+The PI and BOP data at the 8‐week and 24‐week recalls are presented in Table. Full‐mouth BOP scores decreased at T8 compared to baseline (T0) in both groups, but the decrease was significant only in the rubber pick group (< 0.001). Full‐mouth BOP scores increased at T24 compared to T8 in both groups, and the increase was significant only in the floss group (< 0.001). There was an increase in BOP between the T0–T24 in the dental floss group (< 0.05), and no significant change was observed in the rubber interdental pick group (> 0.05). The full‐mouth PI scores decreased significantly in both groups at T8 compared to T0 (< 0.001) and at T24 compared to T8 (< 0.001). There were slight increases in both groups in full‐mouth PI scores at T24 compared to T0, but the differences were not statistically significant (> 0.05). The number of weeks with regular use exhibited significant negative correlations with full‐mouth PI and BOP scores in both groups at both recalls (T8 and T24) (< 0.05).
+
+TABLE 1
+
+Demographic variables and baseline clinical periodontal data of the study groups
+
+Variable
+
+Rubber interdental pick (= 28)
+
+Dental floss (= 26)
+
+‐value
+
+Age (years)
+
+43.54 ± 15.05
+
+34.15 ± 12.032
+
+0.044
+
+Sex (F/M)
+
+17/11
+
+15/11
+
+0.821
+
+Smoking (yes/no)
+
+7/21
+
+4/22
+
+0.381
+
+PI (+/−) (%)
+
+11.57 ± 1.66
+
+11.73 ± 1.63
+
+0.659
+
+BOP (+/−) (%)
+
+8.86 ± 1.11
+
+9 ± 1.23
+
+0.978
+
+No. of sustained weeks (in 8 weeks)
+
+5.14 ± 3.052
+
+6.5 (0–8)
+
+3.19 ± 3.25
+
+3 (0–8)
+
+0.037
+
+No. of sustained weeks (in 24 weeks)
+
+12.61 ± 9.6
+
+12 (0–24)
+
+4.96 ± 6.37
+
+3 (0–24)
+
+0.003
+
+: Data provided as mean ± SD.
+
+Abbreviations: BOP, bleeding on probing; F/M, female/male; PI, plaque index.
+
+*< 0.05.
+
+John Wiley & Sons, Ltd.
+
+TABLE 2
+
+Percentage of sites with plaque and BOP in the study groups
+
+Clinical periodontal parameter
+
+T0
+
+T8
+
+T24
+
+T0–T8 (‐value)
+
+T8–T24 (‐value)
+
+T0–T24 (‐value)
+
+BOP (+/−) (%) (rubber interdental pick)
+
+9 (2)/8.86 ± 1.11
+
+8 (1)/7.64 ± 0.98
+
+8 (3)/8.21 ± 2.07
+
+<0.001
+
+0.48
+
+0.89
+
+BOP (+/−) (%) (dental floss)
+
+9 (2)/9 ± 1.23
+
+8 (2)/8.54 ± 1.30
+
+10 (2)/9.5 ± 1.70
+
+0.18
+
+<0.001
+
+0.03
+
+PI (+/−) (%) (rubber interdental pick)
+
+12 (3)/11.57 ± 1.66
+
+10 (2)/9.43 ± 1.77
+
+10 (4)/10.25 ± 2.11
+
+<0.001
+
+<0.001
+
+0.08
+
+PI (+/−) (%) (dental floss)
+
+11.5 (2)/11.73 ± 1.63
+
+10.5 (2)/10.58 ± 2.68
+
+12 (2)/11.38 ± 1.83
+
+<0.001
+
+<0.001
+
+0.08
+
+: Data provided as median [IQR]/[mean ± SD].
+
+Abbreviations: BOP, bleeding on probing; IQR, interquartile range; PI, plaque index.
+
+John Wiley & Sons, Ltd.
+
+FIGURE 3
+
+Number of sustainable weeks with regular usage in the study groups (A) in 8 weeks and (B) in 24 weeks.
+
+FIGURE 4
+
+Number of participants who regularly used the interdental cleaning tool for each week throughout the study period in the 2 groups of the study.
+
+4
+
+DISCUSSION
+
+Optimal home care plays a critical role in primary prevention and maintenance of periodontal health. Mechanical plaque removal is vital due to its role in disrupting dysbiotic biofilm. Regular and efficient toothbrushing is essential; however, brushing solely is unable to eliminate the dental plaque from all surfaces of teeth.Particularly, the interdental sites of premolars and molars are more prone to plaque accumulation; thus, periodontal disease or dental caries usually start in these areas.,Therefore, interdental cleaning is of utmost importance to maintain periodontal health and the long‐term sustainability of regular interdental cleaning is a determining factor for successful maintenance. The aim of the present study was to compare the sustainability of the regular use of 2 interdental cleaning tools that are frequently recommended in periodontally healthy individuals.
+
+Cepeda et al.argued that using dental floss 2–4 times a week may be sufficient for effective removal of plaque from the interdental sites. However, Marchesan et al.suggested that cleaning the interdental sites 4 times a week is required to significantly reduce the risk of having periodontal disease or interdental caries. Based on these studies, the present study defined the “regular” use as using the interdental cleaning tool at least 3 days a week. The main purpose of the present study was to investigate whether the regular use of rubber interdental pick or dental floss is more sustainable in periodontally healthy individuals over a 6‐month period.
+
+The optimum frequency of recalls may vary from patient to patient but, reinforcement of motivation is an indispensable component of the recall visits.In individuals with healthy periodontal tissues, the recalls can be planned for every 12 months.Maintenance of optimal home care requires self‐discipline together with a genuine belief in the necessity and efficacy of regular use of mechanical plaque control tools.
+
+Studies evaluating the effectiveness of interdental cleaning tools comprise rather short follow‐up periods.,,,On the other hand, in real‐life practices, which is outside the frame of any research, the intervals between the recall visits may be much longer. Moreover, according to the Hawthorne effect, individuals volunteering to participate in clinical follow‐up studies tend to perform much better home care during the study period but are not likely to maintain this after completion of the study.Thus, the good clinical outcomes obtained in research may not necessarily have strong external validity. Therefore, the present study aimed to obtain data on the sustainability of regular interdental cleaning in a setting that does not involve frequent recalls, and the participants were recalled on the 8th and 24th weeks after the start of the study.
+
+To the best of our knowledge, this is the first study comparing the sustainability of regular use of 2 different interdental cleaning tools in periodontally healthy individuals. In selecting an interdental cleaning tool to recommend to individuals, it is essential to consider factors such as the position of the teeth on the arch, the size of the interdental spaces, malposition and/or crowding of the teeth, the manual dexterity of the individuals, and their financial situation. Additionally, it is important to provide personalized motivation and instructions on home care. The present findings suggest better sustainability for rubber interdental picks. This can be explained primarily by the fact that dental floss requires a good level of manual dexterity.Rubber interdental picks are similar to interdental brushes in terms of handling. A previous study comparing interdental brushes with dental floss regarding patient comfort and preference reported a higher level of preference for interdental brushes.Participants of another study comparing rubber interdental picks with interdental brushes, indicated that rubber interdental picks were found to be more comfortable and easier to use than interdental brushes.,The superior sustainability of regular use of rubber interdental picks found in the present study is in line with the findings of these studies.
+
+The participants in the rubber interdental pick group were older than those in the dental floss group with a slight significance. It can be argued that rubber interdental picks may be easier to use for older individuals due to potential declines in manual dexterity and may suggest an advantage in terms of long‐term sustainability. Future studies with study groups balanced for age would help further clarification.
+
+The baseline (T0) full‐mouth scores of BOP and PI were similar in the present study groups and are consistent with the data of another study on periodontally healthy individuals.The low baseline BOP and PI percentages confirm that the participants were periodontally healthy individuals with acceptable brushing habits and oral hygiene.
+
+For the rubber interdental pick group, the only significant change in BOP was between T0–T8. However, no statistically significant difference was observed between T8–T24 and T0–T24. This can be explained by the initial increase in the motivation of the individuals and a subsequent decrease in time. In the dental floss group, the change in BOP between T0–T8 was not statistically significant, while the percentage at T24 was significantly higher than T0 and T8 suggesting a decrease in the quality of application. This finding may be regarded as a reflection of a higher demand for manual dexterity to use dental floss.
+
+The changes observed in the full‐mouth scores of PI were similar in the study groups. The percentages showed significant differences between T0–T8 and T8–T24 in both groups. However, the differences between T0 and T24 were not statistically significant in either group. This finding may be explained by the decrease in the level of motivation in time. Moreover, the fact that the study group consisted of periodontally healthy individuals may have a role in the minimal changes observed in PI and BOP scores. None of the participants in either group had a bleeding score of over 15% during the whole study protocol, and the individuals maintained their healthy status. This finding confirms that the participants were healthy from the beginning, and they consistently maintained regular brushing habits. Although statistical differences were found in some of the comparisons, the changes in the percentages of sites with PI and BOP were numerically minimal. These findings emphasize that a statistically significant difference does not necessarily mean that the difference is clinically important.Efficacy of interdental cleaning plays a key role in the maintenance of periodontal health; however, our study focused on the sustainability of regular use of interdental cleaning tools in periodontally healthy individuals. Future longitudinal studies in patients with gingivitis and/or periodontitis assessing clinical parameters such as probing depth and attachment loss could help clarify the long‐term efficacy of various interdental cleaning tools.
+
+The strengths of our study can be outlined as randomization of the study participants into the 2 study groups; blinding of the investigator, who performed the clinical periodontal measurements; exclusion of dentists and dentistry students, who have substantial information on the benefits of regular interdental cleaning and know well how to use interdental cleaning tools; infrequent recalls (only at 8th and 24th weeks after motivation and instruction) to mimic real life to avoid the Hawthorne effect; and finally obtaining power of 80%.
+
+On the other hand, there are some limitations of the present study. A major limitation is that the data on the sustainability of regular use of 2 different interdental cleaning tools were obtained from the calendars marked by the participants which means the data are based on self‐reports of the volunteer participants. The reliability of the markings made on the calendar can be questioned. However, this situation is a common and unavoidable limitation for all patient‐reported outcomes. As a precaution to increase the reliability of the data, the participants of the study were asked to bring back the waste of the interdental cleaning tools they used. Future studies may also use digital tracking systems to increase the reliability of data on regular usage and can evaluate the sustainability definition with larger populations using different sets of devices if future studies are conducted specifically for gingivitis or periodontitis patient groups, the possible effects of long‐term sustainability of regular use of these devices on clinical parameters can be clearly observed. Lack of cost‐effectiveness data may be considered as another limitation. While incorporating a cost‐benefit discussion would provide an additional perspective, our primary focus was the long‐term sustainability of regular usage rather than economic considerations. Moreover, reliable cost data can vary significantly across different regions, brands, and healthcare systems, challenging a standard comparison of cost‐effectiveness.
+
+5
+
+CONCLUSION
+
+Within the limits of this study, rubber interdental picks can be recommended for superior sustainability in periodontally healthy individuals, provided that the interdental areas are of sufficient size.
+
+AUTHOR CONTRIBUTIONS
+
+Mert Yılmaz and Nurcan Buduneli are responsible for the conception, design, and interpretation of data. Clinical periodontal examinations and recordings were done by Mert Yılmaz. Statistical analyses were performed by Timur Köse. The manuscript was prepared by Mert Yılmaz and Nurcan Buduneli. All authors have given final approval and are accountable for all aspects of the work.
+
+CONFLICT OF INTEREST STATEMENT
+
+The authors have no conflicts of interest and no commercial relations to declare.
