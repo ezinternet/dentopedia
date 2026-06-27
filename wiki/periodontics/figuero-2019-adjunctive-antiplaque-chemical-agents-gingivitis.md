@@ -9,6 +9,8 @@ source: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.md
 category: [periodontics]
 confidence: sr+ma
 source_collection: external
+pdf_path: /Users/oracleneo/llm-wiki/papers/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.txt
+pdf_filename: figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.txt
 tags: [chlorhexidine, essential-oils, mouthwash, NMA, gingivitis, anti-plaque]
 ---
 
