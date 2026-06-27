@@ -2356,6 +2356,11 @@ tags: []
 - [[implants/vertical-ridge-augmentation/kaner-2017-pre-augmentation-soft-tissue-expansion-vertical-bone]] — Kaner 2017 · animal · Split-mouth dog (n=10) — pre-augmentation soft-tissue expansion eliminated flap dehiscence (0 vs 8, p=0.002), more new bone
 - [[implants/vertical-ridge-augmentation/wang-2025-mucoperiosteal-flap-healing-vertical-bone-titanium-mesh]] — Wang 2025 · animal · Beagle (n=6, 4 protocols) — open healing without periosteal releasing incision: lowest dehiscence (8.3%), widened keratinized gingiva
 - [[implants/vertical-ridge-augmentation/kang-2019-sinus-bone-graft-simultaneous-vertical-ridge-augmentation]] — Kang 2019 · retrospective · Simultaneous sinus graft + vertical augmentation (15 pts, 33 implants) — 81.8% survival, high complications (4 mesh exposures); delayed placement recommended
+- [[implants/vertical-ridge-augmentation/sabri-2024-titanium-mesh-bone-augmentation-sr-ma]] — Sabri 2024 · sr+ma · 22편 풀드데이터: 수직 3.36 mm / 수평 3.26 mm 골증대; 전체 합병증률 10.8% (노출 가장 흔함); Ti mesh = collagen membrane 수평증대 성적 동등 (PMID 39283219)
+- [[implants/vertical-ridge-augmentation/abu-mostafa-2022-titanium-mesh-vertical-augmentation-sr]] — Abu-Mostafa 2022 · sr · 8편(2011–2021) VABA SR: 수직 2.56–4.78 mm; 노출률 7.69–66.66%; 4주 이내 조기노출 → 골재생 불충분; 지연노출 → 경미 영향 (DOI 10.5005/jp-journals-10024-3444)
+- [[implants/vertical-ridge-augmentation/cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct]] — Cucchi 2025 · rct · RCT 2차분석(n=48, PMC): CAD/CAM Ti mesh = PTFE 메쉬 합병증 비열등(8.3 vs 12.5%); PROMs·통증·비용 동등; Ti mesh 수술 전 계획 시간 3배 소요(84 vs 27분) (DOI 10.1111/jcpe.14185)
+- [[implants/vertical-ridge-augmentation/keller-2026-3d-printed-titanium-mesh-autologous-bone]] — Keller 2026 · retrospective · 3D프린팅 마이크로퍼포레이션 grade-2 Ti 메쉬+순수자가골(n=16): 메쉬 노출 0%, 계획 = 실제 CBCT 증대량 일치 (DOI 10.11607/jomi.11587)
+- [[implants/vertical-ridge-augmentation/soares-2025-3d-printed-titanium-mesh-volumetric-cbct]] — Soares 2025 · retrospective · 3D프린팅 Ti 메쉬 증례시리즈(n=9): 수직증대 4.8 mm, 용적 0.49 cm³, 안정성 87.9%; 노출 77.8% — 조기 완전노출 22.2% → 이식물 전손실 (DOI 10.1002/cap.70015)
 
 ### residual (added 2026-06-04, 자연 카테고리 분산)
 
