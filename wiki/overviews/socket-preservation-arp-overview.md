@@ -27,15 +27,19 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **임플란트 충분성(중요)**: DBBM ARP는 폭경을 평균 1.13 mm 늘리나(통계적 유의·임상적으로는 작음), 추가 GBR 없이 식립 가능한 확률은 직경별 6–19%(3.25 mm 19% / 4.0 mm 14% / 5.0 mm 6%) — 즉 약 **5명 중 4명은 식립 시 추가 골증대가 여전히 필요** (Fischer 2022).
 > - **심미부 조기식립**: ARP는 식립 시 추가 골유도재생(Guided Bone Regeneration, GBR) 필요를 ~30% vs 68.4%로 절반 감소시키나, 1년 협측 볼록도(buccal convexity) 회복의 최강 인자는 ARP 자체가 아니라 **식립 시 동시 GBR**(72.7% vs ARP-only 36.0%, p=0.042) — ARP는 GBR 대체재가 아님 (Strauss 2024). CBCT 체적분석에서 ARP는 치관부 수평폭 손실을 절반(0.86 vs 2.03 mm)·핑크심미점수(PES) 향상(11.6 vs 9.9)시킴 (De Angelis 2022).
 > - **치주적으로 손상된(감염) 발치와**: ARP는 임플란트 식립 불가율을 ~6배 낮추고(0.8% vs 4.7%) 후속 골이식 범위를 줄이며, 변연부 변파괴·재감염 위험도 낮음(감염 2.7%, 재감염 0.7%) — 감염 소켓에서는 ARP가 과잉치료가 아니라 합당한 기본 술식 (Lee 2021).
-> - **임상 takeaway**: ARP의 가치는 "골증대 회피 보장"이 아니라 **결손 복잡도 감소·임플란트 위치 최적화·marginal case에서 GBR 회피**다 — 환자 동의 시 이 틀로 기대치를 설정.
+> - **체적(volumetric) 확인**: 콜라겐화 이종골(Bio-Oss Collagen) ARP 후에도 발치 전 치근 체적 대비 약 3–18% 잔여 흡수가 남는다(상악 대구치 ~18% 최악, 상악 소구치 ~3% 최선) — 단 무처치 ~40–60% 손실보다 훨씬 작고, 80건 중 78건은 추가 골증대 없이 식립 가능(Hartmann 2026, 후향 CBCT 체적). ARP의 한계와 임상적 충분성을 동시에 보여줌.
+> - **자가 탈회상아질기질(Demineralized Dentin Matrix, DDM)**: 자가치아 유래 DDM은 3개월 socket 중간부 수평흡수가 DBBM보다 크지만(0.77 vs 0.44 mm, p=0.006) 6개월 차원안정성은 동등하고 조직학적 신생골 통합(creeping substitution, Ki-67·SATB2)은 우월 — DBBM의 자가·저비용 대체재(Xu 2026, RCT n=50).
+> - **입자 크기(particle size)는 부차적 변수**: 중증 치주염(stage III/IV) 대구치 발치와에서 DBBM 소입자(0.25–1 mm) vs 대입자(1–2 mm)는 수직골높이 차이 비유의(8.54 vs 7.76 mm, P=.077); 다변량에서 **소켓 무결성(socket integrity, 벽당 +1.027 mm)·악골(하악 우세)**이 입자크기를 압도. 73%는 ARP 후 추가증대 없이 식립 가능 — 감염 대구치 socket에서도 ARP feasible(Yu 2026, 후향 n=96).
+> - **생물학적 ARP 효능(SR+MA)**: 29 RCT(1,068명) 메타분석에서 **rhBMP-2만 수평·수직 골흡수를 모두 유의 감소**(수평 p=.01, 수직 p<.0008), L-PRF는 자연치유 대비 차원 보존 우위 없음(NS) — L-PRF는 자가·저비용 이점으로만 정당화(Alavi 2024). 성장인자 생물학적 보강은 rhBMP-2가 동력.
+> - **임상 takeaway**: ARP의 가치는 "골증대 회피 보장"이 아니라 **결손 복잡도 감소·임플란트 위치 최적화·marginal case에서 GBR 회피**다 — 환자 동의 시 이 틀로 기대치를 설정. 재료 선택은 차원 보존 측면에서 대체로 등가(DBBM ≈ DDM ≈ Bio-Oss Collagen, 입자크기 무관)이며, 생물학적 추가 효과는 rhBMP-2 > L-PRF.
 
 ## One-line Summary
 
-Synthesis of 8 papers (1 animal landmark, 1 animal micro-CT, 2 RCTs, 1 prospective split-mouth, 1 narrative classification, 1 retrospective, 1 SR+MA) establishing that ARP reduces but does not eliminate post-extraction ridge loss; socket anatomy (ST classification, bone concavity metrics) drives technique selection; collagen plug alone preserves height but not width; xenograft ± PRF addresses width; and DBBM-based ARP still leaves 80–94% of sites requiring additional augmentation at implant placement.
+Synthesis of multiple papers (animal landmark, animal micro-CT, several RCTs, prospective split-mouth, narrative classification, retrospective cohorts, SR+MAs) establishing that ARP reduces but does not eliminate post-extraction ridge loss; socket anatomy (ST classification, bone concavity metrics, socket integrity) drives technique selection; collagen plug alone preserves height but not width; xenograft ± PRF addresses width; graft material is largely equivalent for dimension (DBBM ≈ autogenous DDM ≈ Bio-Oss Collagen, particle size non-determinant); biologic efficacy favors rhBMP-2 over L-PRF (SR+MA); and DBBM-based ARP still leaves the majority of sites requiring additional augmentation at implant placement (yet 73–98% remain implant-placeable).
 
 ## 한줄요약
 
-발치와 보존술 8편 종합 — ST 분류·골형태 CBCT 지표가 술식 선택 기준이며, 콜라겐 플러그 단독은 높이만 보존·폭경 불충분; 이종골(±PRF)이 폭경 유지 개선; DBBM 기반 ARP 후에도 80–94%는 임플란트 시 추가 골증대 필요.
+발치와 보존술 종합 — ST 분류·골형태 CBCT 지표·소켓 무결성이 술식 선택 기준이며, 콜라겐 플러그 단독은 높이만 보존·폭경 불충분; 이종골(±PRF)이 폭경 유지 개선; 재료(DBBM·자가 DDM·Bio-Oss Collagen)·입자크기는 차원 보존에서 대체로 등가, 생물학적 보강은 rhBMP-2>L-PRF; DBBM 기반 ARP 후에도 다수는 임플란트 시 추가 골증대 필요(단 73–98%는 식립 가능).
 
 ## Summary
 
@@ -171,6 +175,42 @@ A retrospective comparative study (n=45 single-tooth sites; 23 spontaneous heali
 
 ARP roughly **halved** both crestal horizontal shrinkage (0.86 vs 2.03 mm at 1 mm) and total volumetric loss (62.66 vs 106.41 mm³). The benefit gradient is steepest at the crestal 1 mm level — converging with Kim et al. 2024's finding that the FGG seal's advantage concentrates at the same crestal zone. De Angelis et al. 2022 also surfaces two phenotype modifiers (thick FSTT and thick buccal bone independently predict less HW-1 loss) and a procedural one: in the spontaneous-healing group, **flapless** management preserved more width than flap elevation (p<0.001) — a caution that flap reflection itself contributes to resorption. The soft-tissue/esthetic layer is covered below (PES improvement); 1-year implant survival was 100% in both arms.
 
+#### Volumetric Confirmation of Residual Loss: Collagenated Xenograft (Hartmann et al. 2026)
+
+A German private-practice retrospective CBCT cohort (n=80; comparative subset n=60) is one of the few human studies reporting **volumetric (mm³)** rather than linear ARP outcome, using 3D Slicer segmentation of pre-extraction root volume (surrogate for "ideal" alveolar volume) versus post-ARP alveolar volume after Bio-Oss Collagen grafting of posterior sockets:
+
+| Site (pre → post, mm³) | Residual volume loss |
+|---|---|
+| Maxillary premolar (195.20 → 192.07) | ~3% (best) |
+| Maxillary molar (470.41 → 381.96) | ~18% (worst) |
+| Subset mean (451.64 → 394.86, p<0.001) | significant decrease |
+
+The dual message reinforces the overview thesis exactly: ARP does **not** fully prevent resorption (~3–18% residual loss, site-dependent, p<0.008), yet this is far below the ~40–60% horizontal / 10–20% vertical loss expected without grafting, and **78/80 sockets received an implant without additional augmentation** (Hartmann et al. 2026). No patient/treatment covariate independently predicted preservation once tooth type/defect size were accounted for — geometry/site, not demographics, governs the outcome (converging with Gan 2023 and Steigmann 2022). Caveat: the root-volume surrogate excludes PDL/periapical lesions and may overestimate ARP success.
+
+#### Autogenous Demineralized Dentin Matrix vs DBBM (Xu et al. 2026)
+
+A single-center single-blind RCT (n=50; DDM 25 vs DBBM 25, single premolar/molar) directly compares **autogenous demineralized dentin matrix (DDM)** — chairside-processed from the patient's own extracted tooth (400–800 µm particles) — against gold-standard DBBM (Bio-Oss), both with Bio-Gide membrane + crisscross sutures, CBCT at 3/6 months plus 6-month core biopsies:
+
+| Outcome | DDM | DBBM | p |
+|---|---|---|---|
+| 3-mo mid-socket (50%) horizontal loss | 0.77 ± 0.59 mm | 0.44 ± 0.45 mm | 0.006 (DDM worse) |
+| 6-mo dimensional (all levels H + V) | — | — | all NS |
+| Histology | active remodeling, particle-bone fusion, Ki-67/SATB2+, osteoclastic lacunae | quiescent osteoconductive scaffold, no particle resorption | — |
+
+DDM contracts faster early (creeping substitution, not failure) but **matches DBBM at 6 months on every dimension**, and its histology shows superior osteogenic integration versus the inert xenograft scaffold (Xu et al. 2026). All sockets were preserved adequately for implant placement with satisfactory primary stability. Clinical positioning: DDM is a biologically viable, autogenous, low-cost ("waste-to-resource") ARP alternative — graft-material choice is largely equivalent for dimension, so the lever shifts to cost, biology, and patient preference. This complements Kim et al. 2024 (collagenated xenograft) by establishing the autogenous-dentin arm of the graft-material menu.
+
+#### DBBM Particle Size in Compromised Molar Sockets: A Minor Lever (Yu et al. 2026)
+
+A single-center retrospective cohort (n=96 stage III/IV periodontitis molar sockets, each with a dehiscence over >50% of root length; small-particle 0.25–1 mm vs large-particle 1–2 mm DBBM + Bio-Gide, flapless, secondary-intention healing) is the first to test **DBBM particle size** in the high-prevalence but under-studied periodontally-compromised molar scenario:
+
+| Determinant of vertical central height (VC) | Effect | p |
+|---|---|---|
+| Particle size (LP 8.54 vs SP 7.76 mm) | non-significant trend | .077 |
+| Socket integrity (per wall ≥5 mm) | +1.027 mm | <.001 |
+| Jaw (mandible 8.844 vs maxilla 7.394 mm) | favors mandible | .007 |
+
+The reframing: graft **particle size is a minor lever** — alveolar dimensions were maintained regardless of size, and in multivariate regression baseline **socket integrity and jaw dominate** the central-height outcome (Yu et al. 2026). Volume gain (LP 369 vs SP 239 mm³) and augmentation need (P=.500) did not differ by size. Critically, **73% of these compromised molar sites still allowed standard implant placement (LIPD Level I) after ARP** — converging with Lee 2021 (Axis 5) that ARP is feasible, not merely safe, in severe periodontitis. This adds a within-DBBM variable to the graft-selection picture and echoes the open-healing overview's conclusion that micro-technique is largely equivalent while site anatomy sets the ceiling.
+
 #### Early-Placement Esthetic Zone: ARP Reduces But GBR Drives Contour (Strauss et al. 2024)
 
 A radiographic-and-profilometric secondary analysis of a three-arm parallel RCT (n=75, 1:1:1; 55 datasets at 1 year) isolates a distinction the dimensional studies above cannot: **ARP at extraction vs additional GBR at implant placement**. Failing single anterior-maxillary teeth were randomized to ARP with DBBM-C sealed by a collagen matrix (ARP-CM) or a free palatal graft (ARP-PG), versus unassisted healing (control); all arms received **early (type-2) implant placement at 8 weeks**, with simultaneous GBR when the residual ridge required it.
@@ -227,6 +267,19 @@ The sobering meta-analytic perspective from 9 RCTs (177 ARP-DBBM vs 130 spontane
 3. **Avoiding major grafting**: In marginal-width situations, 1.13 mm can tip a "need GBR" case to "no GBR needed"
 
 High heterogeneity (I²=68%) was driven by DBBM formulation variation (plain granules vs collagenated), membrane use, healing duration, and measurement methods — suggesting meta-analysis pooling across protocol variants may underestimate best-case ARP outcomes with optimized protocols (e.g., DBBM-C + FGG seal per Kim et al. 2024).
+
+#### Biologic Materials SR+MA: rhBMP-2 Works, L-PRF Does Not Preserve Dimension (Alavi et al. 2024)
+
+Where Fischer et al. 2022 pools DBBM-graft trials, Alavi et al. 2024 supplies the **biologics layer** — a SR+MA of 29 RCTs (1,068 patients, 2010–2023) of blood-derived growth-factor preparations, L-PRF, and rhBMP-2 for socket preservation:
+
+| Agent vs comparator | Horizontal (width) | Vertical (height) |
+|---|---|---|
+| Blood-derived preparations vs control | NS | p = .001 |
+| L-PRF vs natural healing | NS | NS |
+| rhBMP-2 vs control | p = .01 | p < .0008 |
+| rhBMP-2 vs L-PRF | p < .0001 (rhBMP-2 better) | p = .057 (NS) |
+
+**rhBMP-2 is the only agent that significantly preserves both dimensions** (Alavi et al. 2024). L-PRF alone did not differ from natural healing in either dimension — its clinical justification is autologous origin and cost, not dimensional superiority. This recontextualizes the PRF adjunct (Axis 4): PRF's documented benefit in this overview is concentrated in soft-tissue healing (Kollati 2019, Alrayyes 2022 in smokers), not in hard-tissue dimension preservation — consistent with Alavi's null L-PRF result. Caveat: 15/29 included RCTs carried high risk of bias, tempering certainty across all conclusions. The clinical takeaway for biologic selection: reserve rhBMP-2 for cases where the dimensional gain justifies cost/regulatory burden; treat L-PRF as a soft-tissue/cost adjunct rather than a dimension-preserving graft substitute.
 
 #### Real-World Feasibility: ARP Lowers Implant-Placement Infeasibility (Lee et al. 2021)
 
@@ -293,3 +346,7 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/de-angelis-2022-ridge-preservation-spontaneous-healing-volumetric]] — retrospective + CBCT volumetric superimposition; ARP halves HW-1 (0.86 vs 2.03 mm) and volume (62.66 vs 106.41 mm³) loss, improves PES (11.6 vs 9.9); 3D confirmation of Axis 3 dimensional benefit
 - [[bone-regeneration/ridge-preservation/strauss-2024-ridge-preservation-early-implant-aesthetic]] — RCT secondary analysis (n=75, early placement, esthetic zone); ARP halves additional-GBR need (~30% vs 68.4%) but placement-time GBR drives 1-year buccal convexity; profilometric + radiographic
 - [[bone-regeneration/ridge-preservation/zhang-2022-ridge-preservation-molar-extraction-periodontitis]] — registered RCT protocol (severe-periodontitis molar ARP, n=70, results pending); pipeline evidence for the compromised-molar socket
+- [[bone-regeneration/ridge-preservation/hartmann-2026-bio-oss-collagen-ridge-preservation-cbct-cohort]] — retrospective CBCT volumetric cohort (n=80, Bio-Oss Collagen); ~3–18% residual volume loss site-dependent but 78/80 implant-placeable; volumetric confirmation of Axis 3 thesis (ARP reduces ≠ eliminates loss)
+- [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — RCT (n=50); autogenous DDM vs DBBM — faster 3-mo contraction but 6-mo dimensional equivalence + superior histologic integration; autogenous low-cost graft arm
+- [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — retrospective (n=96 compromised molars); DBBM particle size is a minor lever (P=.077), socket integrity + jaw dominate; 73% implant-placeable after ARP
+- [[bone-regeneration/ridge-preservation/alavi-2024-regenerative-grafts-socket-preservation-sr-ma]] — SR+MA of 29 RCTs (1,068 pts); rhBMP-2 preserves both dimensions, L-PRF NS vs natural healing — biologics layer above the DBBM-graft SR+MA
