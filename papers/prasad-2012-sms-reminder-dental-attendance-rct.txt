@@ -1,0 +1,19 @@
+Title: Use of mobile telephone short message service as a reminder: the effect on patient attendance
+Authors: Prasad S, Anand R
+Journal: International Dental Journal 2012;62(1):21-26
+DOI: 10.1111/j.1875-595X.2011.00081.x
+PMID: 22251033
+PMCID: PMC9374977
+
+NOTE: PMC full-text body returned empty via get_full_text_article. Only the structured abstract was retrievable. Content below is the abstract (full_text: false).
+
+ABSTRACT
+Nonattendance for hospital outpatient appointments is a major burden on healthcare systems and the estimated financial loss can be high. Various reasons for patients not attending have been reported, including the patient/carer forgetting the appointment and confusion over the date and time of the appointment. Various reminder systems have been trialled across a variety of clinical settings. More recently, short message service (SMS) text messaging has emerged as a viable approach for delivering reminders to outpatients at a relatively low cost.
+
+Objective: To evaluate the effect of appointment reminders, sent as SMS text messages to patients' mobile telephones, on attendance at outpatient clinics at the ITS Centre for Dental Studies and Research (ITS-CDSR), Muradnagar, Ghaziabad, Uttar Pradesh, India.
+
+Methods: The study was conducted at ITS-CDSR in the Departments of Prosthodontics, Endodontics, Orthodontics and Paedodontics. Patients attending these departments for a period of 4 months and those who had provided a contact mobile number were sent an SMS reminder.
+
+Results: In this study, 206 subjects (male, 124; female, 82) participated, 96 (male, 57; female, 39) of whom were in the test group and 110 (male, 67; female, 43) of whom were in the control group. The rate of attendance on time was found to be significantly higher in the test group (79.2%) than in the control group (35.5%).
+
+Conclusion: The study results indicate that sending appointment reminders as text messages to patients is an effective strategy to reduce nonattendance rates.
