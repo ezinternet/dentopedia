@@ -754,6 +754,7 @@ tags: []
 - [[interdental-cleaning/liu-2025-water-flossing-adjunct-nspt-periodontitis-rct]] — Liu 2025 · rct (n=72 stage I-II 치주염, NSPT 후 3군, 6개월, 16S rRNA) — 매일 가정용 **워터플로싱**이 칫솔질 단독 대비 치태·치주지수 유의 개선 + 치은연하 미생물군 변화(Gemella↓); 허브가글 추가는 미생물군만 더 바꿀 뿐 임상 추가이득 없음 → 워터플로싱은 효과적 NSPT 보조 (abstract-only, DOI 10.1007/s00784-025-06639-0)
 - [[interdental-cleaning/tyler-2023-waterpik-manual-toothbrush-orthodontic-rct]] — Tyler 2023 · rct (단일기관 2군 단일맹검, n=40, 10-20세, 고정성 교정, 56주) — 수동칫솔에 **워터픽(Waterpik) 부가** vs 수동칫솔 단독: 치면세균막(p=0.88)·치은(p=0.94)·치간출혈(p=0.563) 모두 유의차 없음 → 중간분석서 조기종료, 워터픽 부가이점 근거 없음 (DOI 10.1177/14653125231173708)
 - [[interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional]] — El Haddad 2026 · cross-sectional (n=69, 20–29세, 87% 이쑤시개 사용) — **나무 이쑤시개(치간청소)의 위해**: 습관적 사용이 상악 전치부 치간유두를 유의 소실(PPI, P<.05)시켜 블랙트라이앵글 유발; 수직(상하)기법·하루>3회·>3년에서 악화, 치조골·접촉면길이는 무영향. (※ 와타나베 *칫솔질* 토스픽법과는 무관·반대방향) (DOI 10.3290/j.qi.b6912614)
+- [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]] — 12주 RCT (치은염 256명, 5군): 샷건 메타게놈 정량분석에서 치실(BF)은 플라크 미생물군집 변화 없음(ns); 에센셜오일 가글(BA·BZ·BFZ)은 치은연상 다양성·총 세균량 유의 감소(BA: 치은염 관련균 91% 감소 vs. BF); 치실+가글 병용(BFZ)만 치은연하 상승효과(P. gingivalis·F. nucleatum 유의 감소). J&J 후원 연구.
 
 ## 치주치료 (Periodontics)
 - [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — de Molon 2026 · narrative-review · 치주염 치조골 소실의 NF-κB·JAK/STAT·MAPK·PI3K/Akt 신호경로와 신흥 치료전략(denosumab·JAK억제제·천연화합물) 비판적 종합 (DOI 10.1038/s41413-025-00478-1)
@@ -2506,6 +2507,7 @@ tags: []
 - [[oral-microbiology/mcilvanna-2021-fusobacterium-nucleatum-oral-cancer]] — Critical review of F. nucleatum in OSCC: STAT3/cyclin D1/MMP-9 carcinogenesis mechanisms and paradoxical favorable prognosis with Fn positivity (2021)
 - [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]] — Socransky 1998 · cross-sectional · Landmark survey (185 subjects, 13,261 samples, 40 taxa, checkerboard DNA-DNA hybridization) defining five subgingival complexes; red complex (P. gingivalis, T. forsythia, T. denticola) most tied to pocket depth/BOP (DOI 10.1111/j.1600-051X.1998.tb02419.x)
 - [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]] — Costerton 1999 · narrative-review · Seminal Science review establishing matrix-encased biofilms and their inherent antibiotic/host-defense tolerance as the root cause of most persistent/chronic infections, incl. caries and periodontitis (DOI 10.1126/science.284.5418.1318)
+- [[oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome]] — RCT (n=153, 6주); spike-in 절대 정량 메타게놈으로 알코올 함유 EOMW(LCM·ACPM)가 치은염 ≥37% 감소 + 이상증식 미생물군집을 건강 상태로 전환 최초 입증 (J&J 후원)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
 - [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
