@@ -1,0 +1,101 @@
+Title: Open healing of contained and non-contained extraction sockets covered with a ribose cross-linked collagen membrane: a pilot study.
+Authors: Friedmann A, Meskeleviciene V, Yildiz MS, Götz W, Park JC, Fischer KR
+Journal: Journal of Periodontal & Implant Science
+Year: 2020
+Volume: 50(6):406-417
+DOI: 10.5051/jpis.2000400020
+PMID: 33350180
+PMCID: PMC7758302
+
+[FULL TEXT — PMC open access]
+
+AIM
+To investigate whether placement of RCLC (ribose cross-linked collagen) membranes WITHOUT primary soft tissue closure predictably results in sufficient alveolar ridge preservation for implant placement (no additional augmentation required).
+
+KEY CONCEPT: Open healing = intentional exposure of RCLC membrane (secondary epithelization). RCLC membranes resist collagenase degradation, making open healing viable — unlike conventional collagen membranes which degrade quickly if exposed.
+
+MATERIAL: OSSIXPlus (porcine RCLC; Datum Dental, Lod, Israel)
+
+METHODS
+
+Study design: Pilot study, prospective series, single institution (Witten/Herdecke University)
+N: 18 patients, 20 extraction sockets
+  - 10 contained (intact bony walls)
+  - 10 non-contained (buccal/lingual wall loss >30%)
+Mean age: 59.6 ± 8.2 years (42–76)
+
+Surgical protocol:
+1. Tooth extraction + thorough degranulation
+2. RCLC membrane placed across socket, covering ≥2 mm of bony socket borders
+3. Membrane hydrated in sterile saline before placement
+4. Soft tissue SLIGHTLY elevated (to interpose membrane), but NOT coronally advanced
+5. Double-interrupted sutures to FIX MARGINS (no primary closure attempt)
+6. Gingival margins fixed in original position for 1 week (NOT crossed horizontal mattress)
+7. Non-contained sockets: calcium sulfate or bovine bone substitute added first (to prevent membrane collapse)
+8. CHX 0.2% rinse 3x/day for first week; H₂O₂ 3% disinfection at weekly visits × 4 weeks
+
+Implant placement: 4 months after ridge preservation
+Assessment: clinical photos (occlusal), periapical X-rays, core biopsy histology
+Primary outcome: Can standard-diameter implant be placed without additional augmentation?
+Secondary: Vertical and cross-sectional bone changes; time to soft tissue closure
+
+RESULTS
+
+All sites (n=20):
+- Complete uneventful healing by secondary epithelization: 100%
+- Time to closure: 75% by 3 weeks, 100% by 4 weeks
+- Muco-gingival junction maintained at original position in ALL 20 sites
+
+Implant placement:
+- All 20 implants placed per original protocol → NO additional augmentation required in ANY site
+- Implant sizes: 4.1×10-12mm, 4.8×6-10mm (BLT Straumann; T3 Zimmer Biomet)
+- All implants osseointegrated; loaded after standard 3-month healing
+- Bone quality: D2-D3 (clinically + radiographically + histologically)
+
+Dimensional changes (median):
+- Vertical bone height change: Δ = 0.45 mm (range -3.60 to +4.00) — NS (p=0.450)
+  - Contained: 0.35 mm
+  - Non-contained: 1.11 mm (greater loss but still NS)
+- Cross-sectional area reduction: Δ = 9.60 mm² (~9.75%) — NS overall (p=0.444)
+  - Contained: statistically significant reduction (p=0.007) but small magnitude
+  - Non-contained: NS (p=0.074)
+
+Histology (5 core + 5 crestal biopsies):
+- New woven bone in all specimens
+- RCLC membrane residues: NO inflammatory infiltrate, NO fibrotic encapsulation
+- Perimembranous and intramembranous osteogenesis confirmed
+- Vital osteoblasts seaming new bone surfaces
+- Well-vascularized connective tissue intertrabecularly
+- Membrane showed "osteopromotive character"
+
+DISCUSSION INSIGHTS
+
+Why RCLC tolerates open healing:
+- Ribose cross-linking creates structural resistance to collagenase degradation
+- Earlier work showed secondary epithelization over exposed RCLC without loss of barrier function
+- Conventional (non-cross-linked) collagen membranes would degrade rapidly when exposed
+
+RCLC vs d-PTFE for open-healing ridge preservation:
+- d-PTFE (e.g. Cytoplast) is the classic open-healing membrane (Avila-Ortiz et al.) — requires removal
+- RCLC (OSSIXPlus) is resorbable, no second surgery for removal, osteopromotive histologically
+
+Keratinized mucosa:
+- Open healing (no coronal advancement) PRESERVED keratinized gingiva at original level
+- Primary closure (coronal advancement) typically displaces muco-gingival junction coronally (mean 3.83mm loss vs 1.21mm in open healing in comparative studies)
+
+Limitations:
+- Pilot, no control group
+- No CBCT (radiation concerns)
+- X-rays not standardized
+- Small n=18
+
+CONCLUSIONS
+
+Open healing with RCLC membrane is a feasible ridge preservation technique for both contained and non-contained extraction sockets. Key advantages:
+1. No primary closure required (technically simpler)
+2. Maintains keratinized mucosa at original position
+3. No second surgery for membrane removal (RCLC is resorbable)
+4. Osteopromotive bone formation histologically confirmed
+5. 100% implant placement success without additional augmentation at 4 months
+
+Trade-off: 9.75% cross-sectional area reduction (contained sockets) — acceptable but must be considered.
