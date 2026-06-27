@@ -113,8 +113,9 @@ DOMAINS = [
     ("디지털 · AI", ["digital-workflow", "ai-dentistry"]),
     # ── 행동/커뮤니케이션↔경영 분리 ──
     ("행동치의학 · 커뮤니케이션", ["behavioral-dentistry", "patient-consultation"]),
-    ("경영 · 민원 · 번아웃", [
-        "korean-dental-practice", "complaint-management", "dentist-burnout"]),
+    ("경영 · 운영 · 민원 · 번아웃", [
+        "korean-dental-practice", "complaint-management", "dentist-burnout",
+        "no-show", "teledentistry", "workforce-delegation"]),
     # ── PDRN↔BTX 분리(이질) ──
     ("PDRN", ["pdrn"]),
     ("보툴리눔독소 · BTX", ["btx-"]),
