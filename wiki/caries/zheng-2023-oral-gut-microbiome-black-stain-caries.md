@@ -10,6 +10,8 @@ source: zheng-2023-oral-gut-microbiome-black-stain-caries.md
 category: [caries]
 confidence: cross-sectional
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/zheng-2023-oral-gut-microbiome-black-stain-caries.txt
+text_filename: zheng-2023-oral-gut-microbiome-black-stain-caries.txt
 full_text: true
 tags: [black-stain, EBS, microbiome, gut-microbiome, caries, actinomyces, rothia, lactobacillus, preschool-children, epidemiology]
 relations:
