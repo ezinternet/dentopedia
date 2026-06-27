@@ -1,0 +1,23 @@
+Title: Bone augmentation using titanium mesh: A systematic review and meta-analysis.
+Authors: Sabri H, Heck T, Manouchehri N, Alhachache S, Calatrava J, Misch CM, Wang HL
+Journal: International Journal of Oral Implantology (Berlin, Germany)
+Year: 2024
+Volume: 17(3):251-269
+PMID: 39283219
+PII: 5749694
+
+ABSTRACT
+
+Aim:
+To review and compare the available literature on bone regeneration using titanium mesh and map the current evidence on bone gain outcomes and complications while comparing this scaffold with collagen membranes.
+
+Materials and Methods:
+A comprehensive electronic and manual search was performed to identify randomised and non-randomised prospective controlled clinical trials that involved the use of titanium mesh in at least one arm, with outcomes including complications and vertical and/or horizontal bone gain. The focused questions were defined as follows: What are the outcomes of using titanium mesh in ridge augmentation compared to other types of barrier membrane, and what is the complication rate (membrane exposure and infection) when titanium mesh is used in these procedures?
+
+Results:
+A total of 22 articles were included in the qualitative analysis. Overall, the studies that measured bone gain resulted in 3.36 mm vertical (196 subjects; 95% CI 2.44 to 4.64 mm, range 1.4 to 5.7 mm) and 3.26 mm horizontal augmentation (81 subjects; 95% CI 2.93 to 3.63 mm, range 2.6 to 3.7 mm), with variability among studies. The most commonly noted complication was mesh exposure, regardless of the type of mesh used, and the second most common was graft failure. The overall pooled complications rate reported in clinical trials was 10.8%. The meta-analysis comparing titanium mesh and collagen membranes, controlling for the type of bone regeneration (staged or simultaneous with implant placement), failed to show a significant difference in horizontal bone gain between the two techniques.
+
+Conclusion:
+Within the limitations of the present study and acknowledging the heterogeneity among the articles included, titanium mesh can serve as a feasible protective scaffold for bone regeneration with a relatively acceptable complication rate and in defects requiring around 4 mm 3D reconstruction. Data on patient-reported outcomes were scarce.
+
+Disclosure: None of the authors have any financial interests, either directly or indirectly, in the products or information mentioned in the present article.
