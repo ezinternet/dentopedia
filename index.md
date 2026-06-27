@@ -757,6 +757,11 @@ tags: []
 - [[interdental-cleaning/min-2024-brushing-flossing-mouthrinsing-plaque-microbiota]] — 12주 RCT (치은염 256명, 5군): 샷건 메타게놈 정량분석에서 치실(BF)은 플라크 미생물군집 변화 없음(ns); 에센셜오일 가글(BA·BZ·BFZ)은 치은연상 다양성·총 세균량 유의 감소(BA: 치은염 관련균 91% 감소 vs. BF); 치실+가글 병용(BFZ)만 치은연하 상승효과(P. gingivalis·F. nucleatum 유의 감소). J&J 후원 연구.
 
 ## 치주치료 (Periodontics)
+- [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — James 2017 · sr+ma (Cochrane, 51 RCT, 5,345명) · CHX 가글 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소; 농도별(0.05%/0.12%/0.2%) 효능 차이 없음; 착색 부작용 일관 (DOI 10.1002/14651858.CD008676.pub2)
+- [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — Solderer 2019 · sr (11편) · 치주·임플란트 수술 후 CHX 가글 치태 29–86%·출혈 73% 감소; 0.12% + 항착색 첨가 제형이 효능/부작용 최적 (DOI 10.1007/s00784-018-2761-y)
+- [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — Figuero 2019 · sr+ma (NMA, 53 RCT, 8,457명) · 가글 치은염 감소 순위: 에센셜오일 > CHX ≥0.10% ≈ triclosan; CHX 유효 임계 농도 0.10% (DOI 10.1111/jcpe.13127)
+- [[periodontics/escribano-2010-low-concentration-chlorhexidine-periodontitis]] — Escribano 2010 · rct (47명, 3개월) · SPC 불순응 치주염 환자: 0.05% CHX + CPC 가글이 위약 대비 치태·타액 세균(F. nucleatum·P. intermedia) 유의 감소; PPD·CAL 추가 개선 없음 (DOI 10.1111/j.1600-051X.2009.01521.x)
+- [[periodontics/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal]] — Basudan 2023 · rct (191명, 6주) · 0.12% CHX = miswak(항염); CHX > miswak (Candida 억제); 흡연자에서 가글 항진균 효과 없음 (DOI 10.3290/j.ohpd.b4169713)
 - [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — de Molon 2026 · narrative-review · 치주염 치조골 소실의 NF-κB·JAK/STAT·MAPK·PI3K/Akt 신호경로와 신흥 치료전략(denosumab·JAK억제제·천연화합물) 비판적 종합 (DOI 10.1038/s41413-025-00478-1)
 - [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — Liu 2019 · sr · 치주인대·백악질·골 복합체 동시 재생: PDLSC+BCP scaffold, 3D 바이오프린팅 fiber-guiding, 유전자치료, LBL 층별 구조체 전략 망라 (DOI 10.3390/cells8060537)
 - [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — da Silveira 2026 · sr+ma · 16 RCT(712명): NSPT에 약제 치은연하세척 추가해도 PPD·CAL·BOP 추가이득 없음(근거 낮음)
@@ -1288,6 +1293,7 @@ tags: []
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — Méndez-Romero 2025 (JAC, dkaf118) · sr+ma · 23개 연구(1997–2023): 감사·교육·피드백 기반 항생제 청지기 중재 (Antibiotic Stewardship Program, ASP)가 치과의사의 부적절 처방을 70% 감소(95% CI 33.3–86.4%); 감사+피드백 75%, 감사+교육 73.3% 가장 효과적; 근거 수준 낮음(대부분 대조군 없는 사전-사후 설계)
 
 ## 구강외과 (Oral Surgery)
+- [[oral-surgery/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third]] — Rodríguez Sánchez 2017 · sr+ma (23 RCT, 2,824 발치) · CHX (제형·농도 무관) 사랑니 발치 후 건성발치와 위험 47% 감소 (RR=0.53, NNT=8); 겔 > 가글 (RR 0.47 vs 0.58) (DOI 10.1016/j.joms.2017.01.002)
 - [[oral-surgery/lee-2015-inferior-alveolar-nerve-injury-management]] — 증례보고: 제3대구치 발치 중 IAN 노출 → dexamethasone 국소도포 + prednisolone 점감 + NSAIDs → 36일 내 neuropraxia 완전 회복
 - [[oral-surgery/kim-2019-bone-collector-drill-assembly]] — 특허(등록 10-2327565, (주)해냄/김성주): 자가골 채집 드릴조립체 — 탄성스토퍼 접힘밴드가 삽입깊이 외부 표시 + 종래 경질 수집통 가압통증 완화, 수집공으로 골·혈액 채집
 - [[oral-surgery/sarikov-2014-ian-injury-third-molar-review]] — 문헌고찰(JOMR 2014, 14편): IAN 감각이상 0.35–8.4%; 24세 초과·수평매복·수련의 시술 위험인자; 영구적 손상 드묾; 대부분 회복
