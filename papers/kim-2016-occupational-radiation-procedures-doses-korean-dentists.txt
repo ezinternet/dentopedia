@@ -1,0 +1,20 @@
+Occupational radiation procedures and doses in South Korean dentists.
+
+Authors: Kim; Cha; Lee
+Journal: {'title': 'Community dentistry and oral epidemiology', 'iso_abbreviation': 'Community Dent Oral Epidemiol'}
+Publication date: {'year': '2016', 'month': '05', 'day': '05'}
+DOI: 10.1111/cdoe.12237
+PMID: 27146959
+Article types: Journal Article, Research Support, Non-U.S. Gov't
+
+ABSTRACT
+========
+Dentistry is among the occupations involving chronic exposure to ionizing radiation. Although several cohort studies on medical radiation workers have been conducted in some countries, only a few epidemiological studies on dentists have been performed to examine occupational radiation exposure worldwide. The aim of this study was to investigate occupational characteristics and radiation exposures in South Korean dentists.
+
+A total of 658 dentists were surveyed from April 2012 to May 2013, and survey data were linked with dosimetry data from the National Dose Registry. Multiple linear regression analysis was used to identify the relationship between demographic or occupational factors and individual radiation doses.
+
+Of the dentists sampled, 78% were men, 51% were younger than age 40, and 61% began employment after 2000. The most frequent procedures performed by dentists were panoramic radiography, followed by intraoral and portable dental radiography. Male dentists were more frequently involved in radiation procedures, and a higher proportion of male than female dentists wore a lead apron for diagnostic radiology. The average annual effective dose was 0.18 mSv for male and 0.13 mSv for female dentists. Female dentists working in provincial areas had significantly higher average annual and cumulative effective doses than those in metropolitan areas. The cumulative effective doses were significantly greater for older dentists, those who entered the field in the 1990s, and those with longer employment duration.
+
+Our findings provided detailed information on work practices, number of procedures performed on a weekly basis, and occupational radiation doses, which enabled in-depth evaluation of occupational radiation exposure and work status among dentists.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

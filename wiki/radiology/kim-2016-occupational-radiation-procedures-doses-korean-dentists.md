@@ -14,6 +14,8 @@ tags: [occupational-dose, Korea, dentist, panoramic, lead-apron, dosimetry]
 relations:
   - type: applies-to
     target: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure
+text_path: /Users/oracleneo/llm-wiki/papers/kim-2016-occupational-radiation-procedures-doses-korean-dentists.txt
+text_filename: kim-2016-occupational-radiation-procedures-doses-korean-dentists.txt
 ---
 
 ## One-line Summary

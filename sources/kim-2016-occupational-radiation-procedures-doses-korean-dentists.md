@@ -7,9 +7,8 @@ pmid: "27146959"
 category: [radiology]
 source_collection: pubmed-text
 full_text: false
-text_path: ""
-pdf_path: ""
-pdf_filename: ""
+text_path: /Users/oracleneo/llm-wiki/papers/kim-2016-occupational-radiation-procedures-doses-korean-dentists.txt
+text_filename: kim-2016-occupational-radiation-procedures-doses-korean-dentists.txt
 ---
 
 ## Why Ingested
