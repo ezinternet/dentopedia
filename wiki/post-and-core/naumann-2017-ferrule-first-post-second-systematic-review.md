@@ -11,6 +11,8 @@ confidence: sr
 source_collection: pubmed-text
 full_text: false
 tags: [ferrule-effect, post-and-core, endodontically-treated-teeth, systematic-review]
+text_path: /Users/oracleneo/llm-wiki/papers/naumann-2017-ferrule-first-post-second-systematic-review.txt
+text_filename: naumann-2017-ferrule-first-post-second-systematic-review.txt
 ---
 
 ## One-line Summary

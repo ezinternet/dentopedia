@@ -1,0 +1,20 @@
+"Ferrule Comes First. Post Is Second!" Fake News and Alternative Facts? A Systematic Review.
+
+Authors: Naumann; Schmitter; Frankenberger; Krastl
+Journal: {'title': 'Journal of endodontics', 'iso_abbreviation': 'J Endod'}
+Publication date: {'year': '2017', 'month': '12', 'day': '08'}
+DOI: 10.1016/j.joen.2017.09.020
+PMID: 29229457
+Article types: Journal Article, Systematic Review
+
+ABSTRACT
+========
+Both the role of an endodontic post and the ferrule effect have been discussed for decades. The clinical impact of endodontic posts compared with post-free restoration with or without ferrule support was not systematically reviewed so far. It was assumed that the effect of an endodontic post compared with a post-free restoration can be evaluated only when at the same time a ferrule or no-ferrule situation was clinically compared.
+
+The specific PICO question was as follows: Patient: adults with sufficient endodontic treatment needing a core or post; Intervention: post-endodontic treatment using posts with or without ferrule; Comparison: post-endodontic treatment without posts with or without ferrule; Outcomes: failure rates of post/core complexes with or without ferrule support. A Medline search was performed via PubMed in June 2017 using relevant electronic databases. Additionally, hand search was performed. Only prospective clinical studies in humans comparing the success/survival of teeth restored with or without posts over a minimum time of observation of 5 years were included.
+
+In total, 7 randomized controlled trials and 1 prospective clinical trial met inclusion criteria. Cochrane rating showed high risk of bias in 5 studies. Two of 3 studies support the ferrule-effect concept. Seven of 8 show no post effect. Clinical evidence regarding the influence of tooth location on its survival is scarce.
+
+Ferrule effect and maintaining cavity walls are the predominant factors with regard to tooth and restoration survival of endodontically treated teeth. Most studies do not confirm a positive effect of post placement.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

@@ -8,6 +8,8 @@ category: [post-and-core]
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/29229457/
+text_path: /Users/oracleneo/llm-wiki/papers/naumann-2017-ferrule-first-post-second-systematic-review.txt
+text_filename: naumann-2017-ferrule-first-post-second-systematic-review.txt
 ---
 
 ## Why Ingested
