@@ -1,0 +1,15 @@
+PMC abstract-only retrieved 2026-06-28 (full_text field empty in PMC)
+PMCID: PMC11286611 | PMID: 38943036 | DOI: 10.1007/s13770-024-00654-0
+
+Title: A Simplified GBR Treatment and Evaluation of Posterior Seibert Class I Ridge Defects via Bio-collagen and Platelet-Rich Fibrin: A Retrospective Study
+Authors: Wang Zhi, Zheng Yafeng, Xu Jiaqi, Jia Qi, Jiang Heng Bo, Lee Eui-Seok
+Journal: Tissue Engineering and Regenerative Medicine 2024;21(6):959-967
+
+Abstract:
+Background: Classical GBR treatments can achieve favorable results for ridge defects. Extensive bone augmentation in the non-esthetic posterior region for minor ridge defects is unnecessary. This study used a collagen and Platelet-rich fibrin (PRF) mixture for bone augmentation on minor posterior ridge defects.
+
+Methods: 22 Seibert Class I ridge defects treated with Bio-collagen (BC) covered with PRF membrane (simplified GBR) vs 22 treated with Bio-Oss + Bio-Gide (classical GBR). CBCT at 6 months post-surgery compared horizontal width (HW) and buccal ridge width. Buccal ridge contour morphology was classified (Type A/B/C).
+
+Results: Simplified GBR contour: Type A 14, Type B 7, Type C 1. Classical GBR contour: Type A 11, Type B 8, Type C 3. Mean HW increase: 1.50 mm (simplified GBR) vs 1.83 mm (classical GBR).
+
+Conclusion: BC + PRF had a significant effect on bone augmentation with promising clinical results for posterior Seibert Class I ridge defects.
