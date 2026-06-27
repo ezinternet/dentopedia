@@ -29,10 +29,12 @@ CATEGORIES = [
     ("implant-placement",  "임플란트 — 식립·드릴링·골질"),
     ("bone-sinus-soft",    "골증대·상악동·연조직"),
     ("endo-resto",         "근관·수복·접착"),
+    ("occlusion",          "교합·보철 위치"),
     ("drug",               "약물·전신·알러지"),
     ("caries-prevention",  "우식·침식·미생물"),
     ("perio-maintenance",  "상아질과민·세균막 관리"),
     ("ortho",              "교정"),
+    ("imaging",            "영상·방사선"),
     ("patient-ops",        "환자 커뮤니케이션·행동·운영"),
     ("meta",               "메타 · 위키 성장"),
 ]
