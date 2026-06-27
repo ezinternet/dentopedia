@@ -1,0 +1,46 @@
+Title: Bone Augmentation Using 3D-Printed Individualized Titanium Mesh and Pure Autologous Bone Graft: A Retrospective Study.
+Authors: Keller P, Sterba M, Abitbol S, Bochet Q, Behr M
+Journal: The International Journal of Oral & Maxillofacial Implants
+Year: 2026 (epub 2026-02-10)
+Volume: ahead of print, pages 1-23
+DOI: 10.11607/jomi.11587
+PMID: 41665971
+
+ABSTRACT
+
+Background:
+After tooth loss, alveolar bone resorption is irreversible and often results in insufficient bone volume for implant placement. GBR with 3D-printed individualized titanium meshes has been increasingly employed. Various mesh designs (macro-porous, micro-porous) and different surgical techniques have been proposed. Although reliable, complications such as mesh exposure and limited bone gain still occur.
+
+Aim:
+To evaluate the reliability of a GBR technique using micro-perforated grade-2 titanium meshes held by two vestibular screws and pure autologous bone — clinical outcomes and bone gain.
+
+Methods:
+Retrospective study, 16 patients at a single dental center.
+Meshes digitally designed and manufactured using Direct Metal Laser Sintering (DMLS) in grade-2 titanium (micro-perforated design).
+Two-step protocol:
+  Step 1 — mesh placement + pure autologous bone graft (no xenograft)
+  Healing period ≥ 4 months
+  Step 2 — mesh removal + implant placement (with secondary slight GBR)
+
+Outcome measures: Planned vs. real bone augmentation (pre- and post-surgical CBCT). Three operators measured 102 total measurements. Statistical: linear mixed model.
+
+Key distinction: PURE autologous bone only (no xenograft mix); MICRO-perforated Ti grade-2 mesh; held by only 2 vestibular screws.
+
+Results:
+- All 16 meshes successfully implanted — NO COMPLICATIONS, NO MESH EXPOSURE
+- All patients showed sufficient bone after 122–160 days for safe implant placement
+- Planned vs. real bone augmentation: NO significant difference (statistical linear mixed model, p>0.05)
+- Targeted augmentation successfully achieved in all cases
+- Short-term clinical reliability: HIGH
+- Predictability: HIGH — CAD-planned dimensions matched clinical outcomes
+
+Key Finding: Zero mesh exposure in 16 consecutive patients. Authors attribute this to:
+  1. Micro-perforation design (reduces tissue tension by improving tissue compliance)
+  2. Pure autologous bone (faster, more complete integration)
+  3. Two-screw vestibular fixation (simplicity, reduced bulk)
+  4. Minimal mesh bulk (grade-2 Ti, smaller cross-section)
+
+Conclusion:
+These results suggest a high level of short-term clinical reliability and predictability of GBR using 3D-printed individualized micro-perforated grade-2 titanium meshes with pure autologous bone. The technique achieves targeted augmentation with zero short-term exposure events.
+
+Limitation: Short-term data only; small n=16; retrospective design; no control group.
