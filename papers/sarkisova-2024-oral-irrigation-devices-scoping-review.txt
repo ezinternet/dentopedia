@@ -1,0 +1,492 @@
+TITLE: Oral Irrigation Devices: A Scoping Review
+DOI: 10.1002/cre2.912
+
+ABSTRACT:
+ABSTRACT
+
+Objectives
+
+Self‐performed oral hygiene is essential for preventing dental caries, periodontal, and peri‐implant diseases. Oral irrigators are adjunctive oral home care aids that may benefit oral health. However, the effects of oral irrigation on oral health, its role in oral home care, and its mechanism of action are not fully understood. A comprehensive search of the literature revealed no existing broad scoping reviews on oral irrigators. Therefore, this study aimed to provide a comprehensive systematic review of the literature on oral irrigation devices and identify evidence gaps.
+
+Methods
+
+The Joanna Briggs Institute and Preferred Reporting Items for Systematic reviews and Meta‐Analyses extension for Scoping Reviews guidelines were utilized to prepare the review. Four databases and eight gray literature sources were searched for English publications across any geographical location or setting.
+
+Results
+
+Two hundred and seventy‐five sources were included, predominantly from scientific journals and academic settings. Most studies originated from North America. Research primarily involved adults, with limited studies in children and adolescents. Oral irrigation was safe and well‐accepted when used appropriately. It reduced periodontal inflammation, potentially by modulating the oral microbiota, but further research needs to clarify its mechanism of action. Promising results were reported in populations with dental implants and special needs. Patient acceptance appeared high, but standardized patient‐reported outcome measures were rarely used. Anti‐inflammatory benefits occurred consistently across populations and irrigant solutions. Plaque reduction findings were mixed, potentially reflecting differences in study designs and devices.
+
+Conclusions
+
+Oral irrigators reduce periodontal inflammation, but their impact on plaque removal remains unclear. Well‐designed, sufficiently powered trials of appropriate duration need to assess the clinical, microbiological, and inflammatory responses of the periodontium to oral irrigation, particularly those with periodontitis, dental implants, and special needs. Patient‐reported outcome measures, costs, caries prevention, and environmental impact of oral irrigation need to be compared to other oral hygiene aids.
+
+FULL TEXT:
+1
+
+Introduction
+
+Despite being largely preventable, dental caries, gingivitis, and periodontitis remain the most prevalent chronic noncommunicable diseases worldwide (Bernabe et al.). Not only can these diseases lead to edentulism, masticatory dysfunction, and disability, but they can also place a significant financial burden on individuals and the global economy. For example, global yearly costs of dental diseases reached a staggering USD544.41 billion in 2015 (Righolt et al.). Furthermore, oral diseases negatively affect systemic health (Manoil et al.; Silbereisen et al.).
+
+Dental biofilms are complex multispecies microbial communities forming on nonshedding tooth surfaces (Belibasakis et al.). Dysbiotic dental biofilm is involved in the pathogenesis of both caries and periodontitis, with regular biofilm disruption playing a crucial role in preventing these diseases. As emphasized in the European Federation of Periodontology (EFP) S3 level clinical practice guideline for the treatment of Stage I–III periodontitis, adequate self‐performed oral hygiene is essential for optimal response to periodontal treatment and secondary prevention of periodontitis, as individuals successfully treated for periodontitis remain at an increased risk for the disease recurrence (Sanz et al.). As periodontitis affects approximately half of people worldwide and negatively impacts oral and systemic health (Petersen and Ogawa; Tonetti et al.), effective and well‐accepted oral home care measures are essential for this population. However, due to the scarcity of high‐quality evidence, the EFP guideline does not make a strong conclusion on any specific interdental oral hygiene aid for individuals in periodontal maintenance (Sanz et al.). Similarly, a Cochrane review on the effectiveness of interdental cleaning aids for caries and periodontal diseases prevention published in 2019 could not identify any studies assessing caries, with authors calling for long‐term trials to assess this outcome (Worthington et al.).
+
+Another common group of diseases induced by biofilms are peri‐implant diseases, with the prevalence of peri‐implant mucositis being 46.83% and peri‐implantitis 19.83% (Lee et al.). The diseases may be associated with considerable morbidity and treatment costs (Herrera et al.). Furthermore, peri‐implantitis can progress significantly faster than periodontitis, and its progression will often lead to implant loss (Schwarz et al.). The EFP S3 level clinical practice guideline for the prevention and treatment of peri‐implant diseases emphasizes that appropriate biofilm control is essential for preserving peri‐implant health and achieving optimal peri‐implant treatment outcomes (Herrera et al.). However, despite the importance of self‐performed oral care in this population, the guideline states it is not known which method of home care is the most effective in individuals treated for peri‐implantitis due to the absence of studies comparing different home care methods.
+
+Toothbrushing can effectively disrupt biofilms and, thus, prevent the development or arrest of the progression of dental caries and periodontal diseases (Worthington et al.). However, a toothbrush cannot disrupt biofilm on interproximal surfaces of the teeth and prostheses in close contact and may not access some hard‐to‐reach areas. This presents a significant problem, with approximal surfaces commonly affected by dental caries and periodontitis (Lorentz et al.; Pretty and Ekstrand). Adjunctive tools, such as interdental brushes and string floss, should supplement toothbrushing in these areas (Worthington et al.). However, these tools require a certain level of dexterity from the operator and may be challenging to use in hard‐to‐reach areas. Furthermore, all oral hygiene aids have the potential to cause trauma, which necessitates monitoring their use and tailoring oral home care to the patient's situation (Sanz et al.).
+
+In addition, certain populations may experience difficulties maintaining good oral hygiene due to low manual dexterity or factors hindering appropriate biofilm control. For example, fixed orthodontic appliances increase oral disease risk by retaining dental biofilm (Mulimani and Popowics). Meticulous oral hygiene is required in this population to prevent dental caries and periodontal diseases, but it may be challenging to achieve. Another example is intermaxillary fixation, which makes acceptable oral hygiene nearly impossible (Tsolov). Further, individuals with mental and physical disabilities, who collectively represent about 16% of the global population (World Health Organization), may not be able to maintain acceptable oral hygiene with conventional oral hygiene aids (Buda). Additionally, both EFP guidelines for the prevention and treatment of peri‐implant diseases and treatment of Stage I–III periodontitis emphasize that clinicians need to consider their client's personal preferences when recommending oral home care aids to support compliance and adherence to oral hygiene measures (Herrera et al.; Sanz et al.). Therefore, oral health practitioners need to have a wide variety of aids to choose from.
+
+One of the adjunctive aids, which is considered to be generally safe, well‐accepted by patients, and able to access hard‐to‐reach areas, is an oral irrigation device (Herrera et al.; Sanz et al.). The US Food & Drug Administration () defines it as an electric device that creates “a pressurised stream of water to remove food particles between the teeth and promote good periodontal condition.” Oral irrigators (OIs) were launched into the market in 1962 (Ciancio). They perform cleaning by a pulsating or continuous stream of pressured water and can also deliver antimicrobial solutions subgingivally. Most self‐contained oral irrigation units available in the market today are pulsating devices. The pulsating action of these devices produces a compression and decompression phase, which is key to their efficacy (Lyle; Mancinelli‐Lyle et al.).
+
+Regular oral irrigation may reduce periodontal and peri‐implant inflammation (Gennai et al.; Slot, Valkenburg, and Van der Weijden). Adjunctive irrigation is suggested for individuals with periodontitis and peri‐implant mucositis when interdental brushes cannot be used or in addition to other home care measures (Herrera et al.; Sanz et al.). However, evidence regarding these devices' biofilm removal ability and mechanism of action has been inconclusive, with experts calling for more clinical studies on OIs (Gennai et al.; Herrera et al.; Sanz et al.; Slot, Valkenburg, and Van der Weijden).
+
+To avoid wasting resources and prioritize areas requiring further investigation, future research should be guided by the available evidence and existing knowledge gaps (Feres et al.). However, it is unclear what kind of research has been conducted on OIs, as no broad systematic reviews could be identified on the topic. Some existing reviews covered multiple oral hygiene aids and did not focus on a detailed investigation of OIs (Gennai et al.; Slot, Valkenburg, and Van der Weijden; Van der Weijden and van Loveren). Reviews that have focused exclusively on OIs either answered narrow questions concerning OIs' efficacy and safety or focused on a specific condition or population and, therefore, included a limited number of studies identified through restricted search strategies (Allen; AlMoharib et al.; Husseini, Slot, and Van der Weijden; Jolkovsky and Lyle). A comprehensive scoping review is needed to map the evidence that has accumulated on these devices since their launch in the market and to identify research gaps to guide future research. Therefore, this scoping review aims to systematically map the evidence on oral irrigation devices and identify any research gaps.
+
+2
+
+Methods
+
+The scoping review was conducted following the Joanna Briggs Institute (JBI) guidance for scoping reviews (Aromataris and Munn), and the manuscript was prepared using the PRISMA‐ScR (Preferred Reporting Items for Systematic reviews and Meta‐Analyses extension for Scoping Reviews) guidelines (Tricco et al.).
+
+The research question was established using the JBI's ‘population, concept, context’ framework (Aromataris and Munn). The concept identified was “oral irrigation devices.” Population and context are irrelevant as this review aims to identify a broad range of evidence on OIs irrespective of the population and setting. This review aims to answer the following primary research question: “What is known about oral irrigation devices?”; the subquestions addressed are: “What methodologies have been used in research? What research gaps exist concerning oral irrigation devices? What aspects require further investigation?” Primary and secondary research published in English across any geographical location or setting was considered for inclusion; letters, narratives, opinion pieces, commentaries, guidelines, registered trials with no results available, and historical reviews were excluded.
+
+The search strategy was developed with the assistance of a health sciences librarian. The main searches of four databases (CINAHL, the Dentistry and Oral Sciences Source, MEDLINE, and Scopus) and eight sources of gray literature (Cochrane Library, Cochrane Oral Health's Trials Register, Google, Google Scholar, the ISRCTN Registry, Open Gray, ProQuest Dissertations and Theses Global, and the WHO Clinical Trials Registry Platform) were conducted on January 12, 2022, with no date limiters applied, with a follow‐up search to capture newly published sources on December 23 and 24, 2023. In addition, citation searching for eligible sources was performed via Scopus. The search strategy is presented in Table.
+
+Sources identified through databases were uploaded into EndNote VX9 to remove duplicates before being transferred to RAYYAN (Ouzzani et al.; The EndNote Team); 1769 records were kept to screen titles and abstracts. A pilot test involving independent screening of titles and abstracts by two reviewers was conducted to ensure a 75% agreement rate before proceeding with full‐scale screening. Discrepancies were discussed and resolved through discussion. After the titles and abstracts screening, 418 sources were retrieved for the full‐text evaluation. Of those, 174 items did not meet the inclusion criteria, with 244 items included in the review from databases and an additional 31 sources included after the gray literature and Scopus citation searching (Figure).
+
+Although we identified several studies referring to air flossers as dental water jets, water flossers, or OIs (Bertl et al.; Kim, Lee, and Jwa; Mazzoleni et al.; Sirinirund et al.; Wiesmüller et al.), these trials were excluded from this scoping review. Unlike conventional OIs, which produce a pressurized water stream, air flossers use a pressured air stream with water droplets (Wiesmüller et al.). Such a significant technological difference calls for differentiation between research on conventional oral irrigation devices and air flossers.
+
+Letters were excluded from the review. However, one letter was selected for inclusion because it presented a case report (Kaplan and Anderson). Furthermore, while narrative reviews were not included in this scoping review, the review by Liang et al. () was selected for inclusion, as the literature search for this evidence‐based practical decision tree was performed systematically.
+
+Data extraction was performed using a refined version of the publicly available data extraction protocol (Sarkisova and Morse). The changes to the data extraction table were based on initial findings to capture all the information necessary to answer the review questions. The aim was to provide a comprehensive overview of the literature, excluding bias risk assessment due to the broad nature of the review. Data were extracted by one reviewer and verified by another, with any disagreements resolved through discussion. We grouped the studies by methodology and further subgrouped them by broad themes, irrigating solutions, and populations.
+
+Table 1
+
+Search strategy.
+
+Search number
+
+Search terms
+
+1
+
+“Water irrig*” OR “Water floss*” OR (“therapeutic irrig*” AND water) OR “oral irrigat*” OR monojet OR “subgingival irrigat*” OR “subgingival tip” OR “dental irrigat*” OR “interdental device*” OR “gingiv* therapeutic irrigation” OR “interdental cleaning device*” OR (“interdental cleaning” AND water) OR (“interdental cleaning” AND irrigat*) OR (“inter‐dental cleaning” AND water) OR (“inter‐dental cleaning” AND irrigat*) OR “irrigation device*” OR “supragingival irrigat*” OR “pulsated jet” OR “microdroplet device*” OR “micro droplet device*” OR “Water pik” OR waterpik OR waterpick OR “water pick” OR “water jet” OR waterjet OR “perio pik” OR “pick pocket” OR pickpocket OR “pik pocket” OR pikpocket
+
+2
+
+“Oral health” OR dental OR dentistry OR caries OR periodont* OR gingiv* OR “oral hygiene”
+
+Search terms used for CINAHL, the Dentistry and Oral Sciences Source, MEDLINE, and Scopus; Steps 1 and 2 were combined for the final search. The gray literature search was conducted using the same search terms, with the search strategy customized for each database.
+
+John Wiley & Sons, Ltd.
+
+Figure 1
+
+PRISMA flow diagram. Search results and source selection.
+
+3
+
+Results
+
+3.1
+
+Characteristics of the Included Studies
+
+A total of 275 sources were included in the review, predominantly from scientific journals (259) and conducted in academic settings (227), detailed in Supporting Information S1: Appendicesand.
+
+The majority of studies originated from North America (148), followed by Western Europe (49) and Asia (47). Smaller numbers originated from the Middle East (22), South America (4), Africa (2), and Oceania (1), while two did not report location (Figure). Publication trends over time are shown in Figure.
+
+Regarding study design, 185 were clinical trials, 30 were in vitro studies, 15 systematic reviews, 13 were animal models, 12 were observational studies, 9 were descriptive studies, and 11 described nonoral hygiene applications of OIs (Supporting Information S1: Appendix).
+
+Research primarily involved adults, with limited studies on children (6) and adolescents (26). The studies with adolescents often focused on those with fixed orthodontic appliances (15 trials). Children performed self‐irrigation under clinical supervision in only one trial (Murthy et al.).
+
+Industry funding or affiliation was declared in 69 studies (Supporting Information S1: Appendix).
+
+Figure 2
+
+Number of included sources by country (= 275; two sources did not report the location).
+
+Figure 3
+
+Number of included sources by year (all study types,= 275).
+
+3.1.1
+
+Clinical Experimental Studies
+
+The majority of clinical experimental studies were conducted in North America (97), Asia (35), Western Europe (33), and the Middle East (15), with two studies not specifying their location. None were from Eastern Europe or Oceania (Supporting Information S1: Appendix).
+
+Sample sizes ranged from two to 240 participants, with a mean of 44.1 (SD 36.2). Study durations ranged from a single irrigation episode to 56 weeks. Most trials focused on periodontitis (57), gingivitis (44), or gingivitis and early stages of periodontitis (15). Participants with healthy periodontal status were in 13 studies, a combination of periodontal health and conditions in 8, peri‐implant mucositis in 5, a mix of peri‐implant health and mucositis in 1, and peri‐implantitis in 1; information on periodontal status was not reported in 39 studies (Figure).
+
+As shown in Figure, most trials (170/185) evaluated oral irrigation effects with various solutions on oral hygiene and oral health in the general population (128), those with fixed orthodontic appliances (21), dental implant recipients (9), special needs groups (6), intermaxillary fixation patients (3), individuals with diabetes (2), and pregnant participants (1 study).
+
+The most common irrigant was water (101). Other solutions tested included antimicrobials other than ozonated water (31), ozonated water (13), herbal extracts (10), and antibiotics compared to antiseptics, water, or saline (9). Specific solutions like acetylsalicylic acid and magnetized water were explored in a few studies (Supporting Information S1: Appendix).
+
+Most studies evaluating oral irrigation effectiveness focused only on clinical outcome measures. Indexes used were mainly bleeding, plaque, gingival, periodontal, and calculus. The most commonly used plaque index (37) was the one introduced by Silness and Löe (), whereas the index by Löe and Silness () was the most commonly used gingival index (40). Probing depth, clinical attachment loss, and bleeding on probing were also evaluated frequently. Chlorhexidine irrigation staining was assessed in nine trials. In most trials that evaluated the effects of water oral irrigation on clinical outcome measures, OIs were used adjunctively to toothbrushing (69 trials). Only 13 trials had at least one study group that used OIs as a sole oral home care aid. Out of these, irrigation was performed only once in six trials to measure its plaque removal ability.
+
+Figure 4
+
+Periodontal and peri‐implant statuses of the populations in the included clinical experimental studies (= 185).
+
+Figure 5
+
+Populations in clinical experimental studies that assessed the effects of oral irrigation on oral hygiene and health (number of studies by population type,= 170).
+
+3.1.2
+
+Systematic Reviews
+
+Fifteen systematic reviews met the inclusion criteria. Of these, only three focused primarily on adjunctive oral irrigation compared to other oral home care aids (Allen; AlMoharib; Husseini, Slot, and Van der Weijden), while the rest reviewed the comparative effectiveness of various oral hygiene aids, including OIs.
+
+Most reviews included studies with healthy adults with gingivitis or periodontitis (Supporting Information S1: Appendix). Three assessed home care for dental implants (Bidra et al.; Gennai et al.; Zhao et al.), and two focused on fixed orthodontic appliances (AlMoharib et al.; Pithon et al.).
+
+3.2
+
+Descriptive Analysis of the Reported Results
+
+Tablesummarizes the results of all studies included in the review.
+
+Table 2
+
+Summary of the effects of oral irrigation.
+
+Outcome
+
+Summary of the reported results
+
+Number of sources (= 275)
+
+Properties of water sprays
+
+Two zones observed: Impact and flushing zones may aid debris removal
+
+2
+
+Types and brands of devices
+
+Pulsating devices more effective than nonpulsating; faucet‐attached devices could exert higher pressure than self‐contained devices. Waterpik most studied brand (156 sources). Specialized devices for ozonated and magnetized water irrigation
+
+275
+
+Pressure and safety
+
+Excessive pressure risks soft tissue damage and periodontal destruction. Up to 70–90 psi is deemed safe for nonulcerated attached gingiva; for nonkeratinized or ulcerated oral soft tissues, 50–70 psi recommended. Particulate penetration into soft tissue possible
+
+19
+
+Oral irrigation and bacteremia
+
+Bacteremia risk; caution when recommending to individuals at risk of infective endocarditis
+
+10
+
+Effects on dental materials
+
+Generally safe, with some risks to specific composite resins and inlay restorations. Noted increase in surface roughness for microhybrid composites at 100 psi
+
+6
+
+Depth of irrigant penetration
+
+Supragingival tips help reach 44%–71% of pocket depth; subgingival tip potentially reaching the base of pockets
+
+6
+
+Clinical parameters of periodontal and peri‐implant inflammation
+
+Consistent reductions in bleeding, edema, erythema, probing depths, and clinical attachment loss with various irrigants
+
+138
+
+Changes in soft tissue histology and cytology
+
+Reduced inflammation histologically. No adverse implant effects; may enhance osseointegration
+
+12
+
+Dental biofilm
+
+In vitro evidence of biofilm disruption. Clinical and review evidence on plaque reduction mixed. Improved biofilm removal in special needs groups
+
+164
+
+Calculus
+
+Mixed results on calculus prevention
+
+12
+
+Staining
+
+Chlorhexidine increases staining risk. Lower concentrations and subgingival delivery mitigate staining
+
+12
+
+Oral microbiome
+
+Potential shifts away from dysbiosis; further research needed
+
+58
+
+Markers of inflammation
+
+Reductions in select studies; more research warranted
+
+12
+
+GCF volume
+
+Reduction or no significant change
+
+6
+
+Oral irrigators in endodontics
+
+Encouraging in vitro evidence; merits in vivo research
+
+4
+
+Patients' acceptance
+
+Generally high, though studies often lack validated assessment tools
+
+21
+
+Practitioners' and patients' knowledge and attitudes
+
+OIs increasingly recommended by dental practitioners. Low usage rates among the general population
+
+8
+
+Other outcomes
+
+Gingival abrasion: No effect
+
+1
+
+Halitosis: Mixed results
+
+2
+
+Capillary wall strength: May increase
+
+1
+
+Leukocyte chemotactic activity in saliva: May reduce
+
+1
+
+Calcium and phosphate levels in dental biofilm: No effect
+
+1
+
+Acidic mouthwash irrigation: Can temporarily reduce oral tissue pH
+
+1
+
+Alkaline mouthwash irrigation: Can increase pH in the oral cavity
+
+1
+
+Hydrogen peroxide and sodium hypochlorite irrigation: Reduce drop in plaque pH after a sucrose challenge compared to water irrigation
+
+1
+
+Water irrigation: No effect on saliva pH
+
+1
+
+Abbreviation: GCF, gingival crevicular fluid.
+
+a
+
+Full list of sources is in Supporting Information S1: Appendix.
+
+John Wiley & Sons, Ltd.
+
+3.2.1
+
+The Qualities of a Water Spray Produced by OIs
+
+Early studies identified two primary zones in the water spray from OIs: A direct impact zone and a flushing zone, highlighting their potential for efficient debris removal (Lugassy and Lautenschlager; Lugassy, Lautenschlager, and Katrana).
+
+3.2.2
+
+Types and Brands of OIs
+
+Waterpik was the most researched brand, used in 139 studies and compared to other brands in 17 studies. Other pulsating and nonpulsating, self‐contained, and faucet‐attached devices were also studied. Faucet‐attached irrigators generated higher forces and were difficult to attach, causing some participants to cease irrigation (Lainson, Bergquist, and Fraleigh; Lugassy, Lautenschlager, and Katrana). All irrigator types could force particulate matter into tissues (O'Leary et al.). Pulsating devices were more effective in reducing inflammation because of the decompression phase (Bhaskar et al.). Faucet‐attached and self‐contained units had similar clinical efficacy (Lainson, Bergquist, and Fraleigh; Oshrain et al.). Specialized devices produced ozonated water (Kent Ozone Aquolab, PURECARE) and magnetized water (Hydro Floss).
+
+3.2.3
+
+Pressure and Safety
+
+Nineteen sources examined irrigation pressure and safety. In vitro, pressures depended on the tip used and could damage tissues (Cutright, Bhaskar, and Larson; Kesavan, Reddy, and Yazdani‐Ardakani; Reddy, Kesavan, and Costarella; Selting and Bhaskar). Excessive pressure caused soft tissue trauma in animals (Bhaskar, Cutright, and Frisch; Cutright et al.). However, 70–90 psi is deemed to be safe for nonulcerated attached gingiva, and 50–70 psi is safe for ulcerated oral soft tissues (Bhaskar et al.). Pressure above 8 g caused pain in inflamed tissue (Lobene). Irrigation has been reported to have caused hemorrhage but no epithelial changes in healthy tissue or in periodontitis (Cobb, Rodgers, and Killoy; Krajewski, Rubach, and Pope). Irrigators had lower pressures than syringes for subgingival use (Kelly et al.). Pressure under 20 psi reduced biofilm (Oshrain et al.), but higher pressures reduced gingival bleeding (Ren et al.).
+
+3.2.4
+
+Oral Irrigation and Bacteremia
+
+Seven studies examined the effects of irrigation on bacteremia. Listerine subgingival irrigation reduced bacteremia after instrumentation in periodontitis (Fine et al.). However, water and chlorhexidine irrigation did not affect bacteremia incidence (Lofthus et al.; Waki et al.). In contrast, irrigation increased bacteremia in those with healthy periodontium (Berger), gingivitis (Romans and App), and periodontitis (Felix, Rosen, and App). Two case reports and one observational study also linked oral irrigation to bacterial endocarditis (Drapkin; Duval et al.; Kaplan and Anderson).
+
+3.2.5
+
+Effects on Dental Materials
+
+Six in vitro studies examined irrigation effects on dental materials over 30 s to 40 years equivalent (Akama et al.; Kotsakis et al.; McDevitt and Eames). Most materials showed no significant surface changes, including composites (Alharbi and Farah), implants (Kotsakis et al.; Matthes et al.), and orthodontic brackets (Akama et al.). However, long‐term irrigation damaged microhybrid composites at 100 psi (Alharbi and Farah), inlay restoration with unacceptable margins (McDevitt and Eames), and bulk fill composites at 63 psi (Naser‐Alavi et al.).
+
+3.2.6
+
+Depth of Subgingival Penetration by Irrigating Solutions
+
+Six studies measured subgingival solution delivery. Irrigant through a supragingival tip reached 44%–71% of pocket depth, with no difference with tip placement at 90° or 45° (Eakle, Ford, and Boyd). Rams and Keyes () first described modifying tips for subgingival use. Subgingival tips delivered to 64%–100% of pocket depth (Braun and Ciancio; Dunkin, Sumner, and Hughes), and were better than supragingival tips (Larner and Greenstein). An irrigating toothbrush delivered solutions into the pockets more effectively than rinsing (Brackett et al.).
+
+3.2.7
+
+Oral Irrigation and Clinical Parameters of Periodontal and Peri‐Implant Inflammation
+
+A broad range of studies demonstrated oral irrigation's effectiveness in reducing periodontal and peri‐implant inflammation, with significant improvements noted in bleeding, gingival indices, clinical attachment loss, and probing depth. Reduced inflammation was consistently shown in healthy adults, those with diabetes or implants, and children with Papillon–Lefèvre syndrome (3 descriptive and 3 observational studies). Less inflammation occurred with irrigation versus brushing alone or with floss, air flosser, or interdental brushes (119 clinical trials and 13 systematic reviews assessed these outcomes). This was irrespective of the solution, methods, or population. Systematic reviews have reported a reduction in gingival bleeding scores by adjunctive oral water irrigation in patients with gingivitis (Allen; AlMoharib et al.; Edlund et al.; Kotsakis et al.; Volman, Stellrecht, and Scannapieco); a reduction in gingival index, bleeding scores, and probing depth in periodontitis (Slot, Valkenburg, and Van der Weijden); and a reduction in gingival inflammation in gingivitis and periodontitis (Husseini, Slot, and Van der Weijden; Sälzer et al.; Worthington et al.).
+
+3.2.8
+
+Histological and Cytological Changes
+
+Seven histological and five cytological studies assessed irrigation effects. Irrigation reduced marginal periodontal inflammation but not inflammation in the pocket base (Beget; Cantor and Stahl; Crumley and Sumner; Dunkin; Lainson et al.). It increased keratin layer thickness (Krajewski, Giblink, and Gargiulo), but caused no changes in keratinization patterns (Cantor and Stahl,), epithelial maturation (Covin et al.), or white blood cell counts (Herzog and Hodges). Irrigation enhanced bone formation around dental implants in dogs and preserved implant biocompatibility and osteoblastic growth in vitro (Kotsakis et al.; Matthes et al.; Park et al.).
+
+3.2.9
+
+Oral Irrigation and Biofilm Removal
+
+Numerous studies assessed plaque indices. In vitro studies consistently show efficacy in OIs dislodging biofilm from dental surfaces and restorations, though these outcomes may not replicate clinical experiences. Observational and descriptive research indicates that oral irrigation contributes to lower plaque levels, suggesting a beneficial role in oral hygiene practices (Costa, Costa, and Cota; Hentenaar et al.; Rüdiger, Petersilka, and Flemmig). Clinical trials had conflicting results on natural dentition. Some found no biofilm reduction (23 studies), with a similar number of studies showing improvements over traditional brushing, with or without the addition of floss, air flosser, or interdental brushes (31 studies). Adjunctive irrigation consistently improved biofilm removal in special needs populations (Al‐Mubarak et al.; Deepika et al.; Isshiki). Studies also highlighted effective implant decontamination using oral irrigation with cold atmospheric plasma and Superfloss in vitro and in animal models (Matthes et al.; Park et al.).
+
+Systematic review assessment of the plaque removal ability was not performed because of the high heterogeneity of the included trials (Amarasena, Gnanamanickam, and Miller; Pithon et al.), or found no positive plaque reduction effects (Edlund et al.; Gennai et al.; Husseini, Slot, and Van der Weijden; Kotsakis et al.; Sälzer et al.; Slot, Valkenburg, and Van der Weijden; Volman, Stellrecht, and Scannapieco; Worthington et al.). Only two reviews showed improvements in plaque scores (Allen; AlMoharib et al.).
+
+3.2.10
+
+Irrigation With Antimicrobial Solutions
+
+Most studies showed significant biofilm reduction with chlorhexidine and ozonated water irrigation. Improvements occurred in individuals with mental disabilities (Tatuskar et al.), pregnant participants (Tecco et al.), orthodontic patients (Dhingra and Vandana; Sandra et al.,), individuals with dental implants (Felo et al.), and intermaxillary fixation patients (Aijima and Yamashita; Soltanianzadeh).
+
+Irrigation with chlorhexidine was more effective in decreasing gingival bleeding in gingivitis and reducing the probing depth and clinical attachment loss in periodontitis compared to rinsing with chlorhexidine mouthwash while also resulting in lower staining scores (Brownstein et al.; Jain et al.). Further, one systematic review reports that irrigation with chlorhexidine is more effective for reducing peri‐implant inflammation in peri‐implant mucositis than rinsing with chlorhexidine mouthwash or applying it as a gel (Zhao et al.). Another potentially clinically relevant solution that effectively reduced biofilm on apatite, metal, and resin material surfaces in vitro is neutral electrolyzed water containing 30 and 100 ppm chlorine (Akama et al.).
+
+3.2.11
+
+Oral Irrigation and Calculus Formation
+
+Twelve studies assessed the effects on calculus. Five found no effect (Gupta, O'Toole, and Hammermeister; Hoover, Robinson, and Billingsley; Lainson, Bergquist, and Fraleigh,; Meklas and Stewart). Three showed decreased calculus with water irrigation (Hoover and Robinson; Kim, Yoo, et al.; Lobene). Benefits occurred with magnetized water (Johnson et al.; Watt, Rosenfelder, and Sutton), and chlorhexidine (Felo et al.). However, one study found increased calculus with chlorhexidine (Flemmig et al.).
+
+3.2.12
+
+Staining
+
+Water and stannous fluoride irrigation did not affect staining (Boyd et al.; Walsh et al.). Chlorhexidine irrigation increased staining in several studies (Agerbaek, Melsen, and Rölla; Flemmig et al.; Lang and Räber; Walsh, Glenwright, and Hull). Watts and Newman () found no staining and lower concentrations of chlorhexidine caused less staining while retaining efficacy (Cumming and Löe; Lang and Ramseier‐Grossmann). Subgingival chlorhexidine irrigation resulted in less staining than rinsing with chlorhexidine mouthwash (Felo et al.; Jain et al.). This may help utilize benefits while mitigating side effects.
+
+3.2.13
+
+Oral Irrigation and Oral Microbiome
+
+Microbiological outcomes were examined in 58 studies using culture, microscopy, polymerase chain reaction, and sequencing. Few assessed periodontitis patients using molecular biology techniques (Deepa et al.; Genovesi et al.; Kshitish and Laxman; Perayil et al.). Overall, oral irrigation reduced pathogens, acidogenic bacteria, anaerobes, spirochetes, and motile rods. Increased periodontal health‐associated species, primary colonizers, and aerobes were reported (Supporting Information S1: Appendix).
+
+3.2.14
+
+Oral Irrigation and Markers of Inflammation
+
+Twelve studies on oral irrigation's influence on markers of inflammation showed positive results. Water irrigation did not increase inflammation in vitro (Matthes et al.), or reduce gingival crevicular fluid (GCF) and salivary markers in gingivitis and periodontitis in two trials (Kaur et al.; Ramseier et al.). However, adjunctive water irrigation decreased GCF cytokines versus routine home care (Cutler et al.); adjunctive interdental brushing (Moore et al.); was more effective in participants with peri‐implant mucositis (Tütüncüoğlu et al.); and reduced blood markers in periodontitis and diabetes patients (Al‐Mubarak et al.; Cutler et al.). Ozonated water significantly lowered GCF cytokines (Dhingra and Vandana; Jose et al.; Sandra et al.). Irrigation with water and pomegranate peel extract was comparable in reducing inflammation (Eltay et al.).
+
+3.2.15
+
+GCF Volume
+
+Six studies measured GCF volume changes with irrigation. Most found no effects on GCF flow in gingivitis and periodontitis with various solutions (Ciancio et al.; Ernst et al.; Hugoson; Ravishankar, Venugopal, and Nadkerny). However, pulsated saline irrigation reduced GCF flow more than syringe irrigation in periodontitis (Itic and Serfaty). Ozonated water decreased GCF in orthodontic patients (Dhingra and Vandana).
+
+3.2.16
+
+Oral Irrigation in Special Needs Populations
+
+Oral irrigation showed enhanced biofilm control and reduced gingival inflammation in populations with low manual dexterity and special needs, indicating its utility as an adjunctive or alternative oral hygiene measure in these groups. Notably, modified and cordless irrigators significantly improved oral health outcomes for these populations (Murthy et al.; Yuen; Yuen and Pope). Ozonated water irrigation reduced biofilm, inflammation, and periodontitis‐associated microorganisms in individuals with mental disabilities (Tatuskar et al.).
+
+3.2.17
+
+OIs in Endodontics
+
+The application of OIs for root canal irrigation was studied by two research groups in a total of four in vitro trials (Hemalatha et al.; Shalan and Al‐huwaizi; Shalan, Al‐huwaizi, and Fatalla; Shalan et al.). These studies highlighted OIs' safety and effectiveness in delivering solutions and removing smear layers in root canal systems, suggesting potential applications beyond traditional oral hygiene uses (Hemalatha et al.; Shalan and Al‐huwaizi; Shalan et al.). Although needle choice and placement impacted the apical extrusion of debris and irrigants, overall, the application of OIs resulted in a lower amount of peri‐apically extruded debris and irrigants compared to syringe irrigation and achieved a better smear layer removal efficacy in the apical third of the root canal compared to a sonically driven irrigation system (Shalan and Al‐huwaizi; Shalan, Al‐huwaizi, and Fatalla). The findings from this limited number of in vitro trials call for further in vitro research and clinical validation.
+
+3.2.18
+
+Acceptance, Compliance, and Patient Experiences
+
+There was high satisfaction and compliance with irrigators (Bordabeheres; Flint; Lyle et al.; Peterson and Shiller; Ren et al.; Salles et al.; Sarlati et al.; Sgarbanti et al.). This included populations with fixed orthodontic appliances (Alexander; Schumacher) and tetraplegia (Yuen; Yuen and Pope). However, some patients found irrigation too time‐consuming and messy, and faucet‐attached irrigators were hard to attach (Lainson, Bergquist, and Fraleigh; Peterson and Shiller). Evaluating compliance was difficult if diaries were not returned (Tyler, Kang, and Goh). Clinician‐performed subgingival irrigation (Dunkin, Sumner, and Hughes), as well as self‐administered supra‐ and subgingival irrigation with various solutions, was well‐tolerated (Flemmig et al.; Walsh, Glenwright, and Hull; Watts and Newman; Wolff et al.).
+
+3.2.19
+
+Practitioners' and Patients' Knowledge and Attitudes
+
+The popularity of oral irrigation devices has been increasing among dental professionals, with recommendations extending to patients with various oral health needs (Hygienetown; Zellmer et al.). In 2020, OIs were the US hygienists' most recommended home care aid for dental implants (Zellmer et al.). Despite this, awareness and usage rates among the general population and nondental practitioners appear low (Stelmakh, Slot, and van der Weijden; Sun et al.; Varela‐Centelles et al.), suggesting an opportunity for broader education and advocacy.
+
+3.2.20
+
+Less Commonly Researched Outcomes
+
+Some studies examined uncommon outcomes. No effect on gingival abrasion was found (Sun et al.). Conflicting results were seen for halitosis improvement (Mishal AlHarbi, Al‐Kadhi, and Al‐Sanea; Xu et al.). Other findings included increased capillary strength (Kozam), reduced salivary leukocyte activity (Wright and Tempel), and variable impacts on oral pH (Aijima and Yamashita; Esposito and Gray; Lobene et al.). No further research followed up on these initial studies.
+
+3.2.21
+
+Applications Other Than Oral Hygiene
+
+In the 1970s, US healthcare providers experimented with pulsating OIs for wound cleaning (Bhaskar et al.; Gross et al.), ophthalmic decontamination (Blumberg), debridement and symptom relief in oral cancer (Bagshaw), kidney stone removal and fecal impaction resolution (Gibbons et al.; Korn), and colonoscopy preparation (Katz et al.). Devices were modified with special attachments in most cases. OIs may help relieve xerostomia symptoms in head and neck cancer patients. This innovative use of OIs was most prominent when the technology first entered the commercial market, with a notable instance of continued interest in the early 2000s (Loud).
+
+3.2.22
+
+Novel and Experimental Oral Irrigators
+
+Some studies focused on experimental devices. Multichannel irrigators with aspiration can be used in bedridden patients and individuals with disabilities, reducing plaque and inflammation (Kim, Yoo, et al.; Kim, Bae et al.). An irrigating toothbrush, which can be used in special needs patients, improved cleaning (Brackett et al.). Experimental oral hygiene need stations were designed to help young children with closed dentition perform interproximal hygiene (Murthy et al.), and improve compliance with interproximal care in people who struggle with interdental cleaning (Fan et al.; Nie).
+
+Other devices focused on subgingival debridement. One creates negative pressure to access deep pockets (Hentenaar et al.; Van Dijk et al.), while others decontaminate implants (Matthes et al.,; Yamada et al.,). An irrigation device delivering antimicrobial gels into periodontal pockets reduced probing depth and bleeding in peri‐implantitis more than regular oral hygiene alone (Levin et al.). While most of these devices are intended for professional in‐office applications, modifying them for at‐home use might be possible.
+
+3.2.23
+
+Research Limitations and Future Directions
+
+In vitro studies were limited by the inability to replicate intraoral conditions, necessitating clinical trials (Abdul Aziz, Afifah, and Syahmi; Ioannidis et al.; Lin, Chuang, and Chang; Matthes et al.,; Tawakoli et al.). Commonly cited clinical limitations included small samples, short durations, lack of blinding, and variability in methods and compliance (Gennai et al.; Volman, Stellrecht, and Scannapieco; Zhao et al.). Future research could include larger trials, longer follow‐ups, comparison of irrigators and air flossers, standardized protocols, clear diagnoses, cost analyses, and patient‐reported outcomes (Amarasena, Gnanamanickam, and Miller; Kotsakis et al.; Sharma et al.; Worthington et al.).
+
+4
+
+Discussion
+
+This scoping review provides a broad, systematic overview of the evidence on oral irrigation devices and identifies research gaps to help direct future research, development, and evidence‐based clinical practice. Oral irrigation was reported as generally safe and well‐accepted when used appropriately as per the manufacturer's guidelines. However, high pressures above 90 psi may cause soft tissue damage (Bhaskar et al.; Lobene; Winter), and the potential for irrigation to cause transient bacteremia indicates caution for individuals at risk of infective endocarditis (Drapkin; Kaplan and Anderson). Overall, evidence indicates that oral irrigation effectively reduces periodontal inflammation, but there are varying results regarding plaque reduction that aligns with systematic reviews (Edlund et al.; Gennai et al.; Husseini, Slot, and Van der Weijden; Kotsakis et al.; Sälzer et al.; Slot, Valkenburg, and Van der Weijden; Volman, Stellrecht, and Scannapieco; Worthington et al.).
+
+The mechanism underlying anti‐inflammatory effects likely involves shifting oral microbiota away from dysbiosis toward those more consistent with periodontal and dental health rather than completely removing biofilms. Some in vitro evidence showed that oral irrigation disrupted biofilms without fully eliminating them (Brady, Gray, and Bhaskar; Kato, Tamura, and Nakagaki). Furthermore, regular oral irrigation has been reported to result in changes in dental biofilm composition in clinical trials. Ge et al. () observed a reduction in the relative abundance of late colonizers and anaerobic periodontal pathogens, with an increase in early colonizers in the subgingival biofilm of individuals with gingivitis using OIs. A more aerobic phenotype was also observed in supragingival plaque in gingivitis when OIs were used in addition to toothbrushing compared to toothbrushing alone (Xu et al.). Similarly, using multichannel OIs prevented an increase inspecies in the saliva of individuals with healthy periodontium who discontinued other forms of oral hygiene (Kim, Yoo, et al.). These findings indicate a potential microbiome‐modulating, host‐response–altering mechanism of oral irrigation. Further research using modern molecular biology techniques is needed to clarify the effects on oral microbiota, especially in periodontitis patients where few such studies exist (Deepa et al.; Genovesi et al.; Kshitish and Laxman; Perayil et al.).
+
+Patient acceptance and satisfaction with oral irrigation appear high based on reported experiences (Bordabeheres; Flint; Lyle et al.; Peterson and Shiller; Ren et al.; Salles et al.; Sarlati et al.; Sgarbanti et al.). However, standardized, validated patient‐reported outcome measures were seldom utilized. Incorporating tools quantifying satisfaction, quality‐of‐life impacts, ease of use, and other patient perspectives would strengthen future research (Stelmakh, Slot, and van der Weijden; Sun et al.). Qualitative methods may also help capture patient experiences more comprehensively.
+
+The observed anti‐inflammatory benefits occurred consistently across various populations and irrigant solutions. However, plaque reduction findings were mixed, potentially reflecting differences in study designs, cohorts, devices, follow‐up times, and plaque indices. Standardizing these factors in future trials may improve consistency (Worthington et al.). Controlling for confounders like baseline oral hygiene, pretrial professional plaque removal, specific oral irrigator models, and appropriate statistical analyses would also strengthen reliability.
+
+Evidence in pediatric and special needs populations is sparse but warrants investigation, given oral irrigation's potential in those unable to maintain adequate oral hygiene. Promising results were found in children, physically disabled groups (Isshiki; Yuen), and individuals with mental disabilities (Tatuskar et al.), indicating that feasibility assessments in these cohorts would be justified and clinically valuable if positive. A dearth of research on caries prevention potential needs investigating, as has been previously recommended (Amarasena, Gnanamanickam, and Miller; Worthington et al.).
+
+Sufficiently powered trials with adequate follow‐up periods are required to determine the long‐term effects on periodontal, peri‐implant, and caries outcome measures (Worthington et al.). Achieving sufficient power and follow‐up is particularly challenging in research evaluating caries incidence. Indeed, studies on caries prevention commonly enroll hundreds of participants and require years of follow‐up (Marinho et al.), which may be challenging to achieve with an intervention requiring participant compliance, such as using a home care aid. Furthermore, the results of our review suggest that oral irrigation with water may not be able to remove biofilm completely and is unlikely to affect the pH of dental plaque. Therefore, the successful application of oral irrigation for caries prevention may involve the introduction of irrigation solutions that can significantly reduce biofilm formation or increase biofilm pH without considerable side effects. One possible candidate is electrolyzed water. It is an environmentally friendly and nontoxic solution with potential antiplaque, pH‐neutralizing, and anticariogenic effects (Krishnan et al.). Our review identified one in vitro trial on irrigation with electrolyzed water, and it reported significant antimicrobial and antiplaque results (Akama et al.). Further in vitro and in vivo studies on the application of electrolyzed water as an irrigant for preventing dental caries, periodontal, and peri‐implant diseases may be warranted. Comparing the environmental impacts and costs of using OIs with various irrigants to existing oral hygiene aids would also benefit clinical guidelines and recommendations (Herrera et al.).
+
+Oral irrigation has the potential to be incorporated into oral home care for the secondary prevention of peri‐implantitis, that is, the prevention of disease recurrence in individuals successfully treated for peri‐implantitis. Currently, the EFP clinical practice guideline for the prevention and treatment of peri‐implant diseases suggests that water oral irrigation may be considered an adjunct to regular oral hygiene methods in individuals with peri‐implant mucositis but calls for more research (Herrera et al.). It is also unknown which oral home care method is most effective for individuals treated for peri‐implantitis because of the absence of trials comparing different oral hygiene methods in this population. The results of the present scoping review are consistent with these findings. We identified nine clinical trials that included populations with dental implants, but only one was conducted with a peri‐implantitis population (Levin et al.). Future clinical trials need to assess the effects of oral irrigation on peri‐implantitis and peri‐implant mucositis.
+
+The EFP clinical practice guideline for the treatment of Stage I–III periodontitis suggests that the use of adjunctive chemical agents, particularly chlorhexidine, may be considered in the second (cause‐related) step of periodontal therapy and periodontal maintenance (Sanz et al.). The EFP clinical practice guideline for the prevention and treatment of peri‐implant diseases also supports the time‐limited use of chlorhexidine in individuals with peri‐implant mucositis (Herrera et al.). One important advantage of OIs is their ability to deliver solutions subgingivally (Dunkin, Sumner, and Hughes; Eakle, Ford, and Boyd). Indeed, OIs are the only oral home care tools that can deliver solutions to the base of deep periodontal pockets (Dunkin, Sumner, and Hughes). This property of OIs may make them the perfect vehicle for delivering chemical agents in periodontal pockets and peri‐implant sulci. The place of irrigation with antimicrobial solutions in managing periodontitis and peri‐implant mucositis and the possible side effects of such interventions, such as antibiotic crossresistance (Laumen et al.), need to be explored further. In addition, the environmental impact of irrigation with antimicrobials, such as its effects on the water ecosystem and plastic pollution, needs to be studied.
+
+This review has several limitations to consider. Only English‐language sources were included, potentially overlooking research in other languages. No analysis was performed on differences between brands and models. However, as variations in device properties can impact effectiveness, the findings may not be generalizable across all irrigator models. Scoping reviews aim to map the breadth of literature by design, irrespective of the risk of bias or the quality of studies (Tricco et al.). Therefore, the findings must be interpreted cautiously, as no quality assessment was conducted. Further, it is difficult to isolate the effect of oral irrigation because, in the majority of clinical trials, it was used adjunctively to toothbrushing and was compared to an adjunctive use of other interdental cleaning aids, with only a few studies using oral irrigators as the sole oral home care aid. The major strength of this review is that it provides a comprehensive overview of both primary and secondary studies across various regions and settings, providing extensive coverage of the literature over decades.
+
+5
+
+Conclusions
+
+Oral irrigation effectively reduces periodontal inflammation, potentially by modulating the oral microbiota. However, knowledge gaps exist regarding its mechanism, effectiveness in plaque removal, impacts on dental caries, patient‐reported outcomes, applicability in pediatric and special needs populations, and environmental and economic considerations. Future trials could address these areas to clarify oral irrigation's role in promoting oral health across diverse populations and conditions.
+
+Author Contributions
+
+Farzana Sarkisova and Zac Morse were involved in conceptualizing the study; sources identification and screening; data analysis and synthesis; and drafting, revision, and the final approval of the manuscript. Kevin Lee and Nagihan Bostanci contributed to the interpretation of data; revision; and the final approval of the manuscript.
+
+Ethics Statement
+
+The authors have nothing to report.
+
+Conflicts of Interest
+
+The authors declare no conflicts of interest.
+
+Supporting information
+
+Supporting information.
