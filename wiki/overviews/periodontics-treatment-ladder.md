@@ -25,6 +25,9 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - **치수치주복합병변**: 파절/천공 여부 + 치주염 동반 여부로 분류해 예후·치료 결정 (Herrera 2018); 외과 시 근관 미세수술 + 동시 GTR·이식재·유두보존 피판으로 **장력 없는 1차 폐쇄**가 make-or-break (Sharma 2014).
 > - **치주성형 3갈래**: 각화치은 충분 + 치주낭/치관 문제 → 치근단변위판막(APF); 각화치은 부족 → 유리치은이식(FGG); 노출치근 + 심미 → 결합조직이식(CTG, gold standard).
 > - **전신 효과·peri-implantitis**: SRP가 당뇨 HbA1c ~0.4–0.6% 감소(Simpson 2022 Cochrane), 심혈관 위험표지자(CRP·IL-6·SBP)도 감소; 치주염력 환자는 임플란트 주위염 위험 ~4.8배 → 안정화 후 식립 + 3개월 SPT 종신.
+> - **류마티스 관절염(Rheumatoid Arthritis, RA) 양방향 연결**: 치주염↔RA는 치료 방향에서도 연결 — 두 질환을 함께 가진 환자에게 비외과 치주치료를 하면 RA 활성도(DAS28) −0.56점·임상부착수준(CAL) −0.41 mm 유의 개선(RCT 6편 SR+MA, trim-and-fill 보정 후 −0.39점·−0.30 mm) → RA 환자는 류마티스 치료와 병행해 치주 스크리닝·치료하는 다학제 모델 지지 (Dolcezza 2024).
+> - **골소실 분자기전(pathogenesis)**: 치주염 치조골 소실은 RANKL/RANK/OPG 축 교란 → NF-κB(canonical/non-canonical)·JAK/STAT·MAPK(p38/JNK/ERK)·PI3K/Akt 4개 경로가 NFATc1로 수렴해 파골세포 분화; "훈련된 파골세포생성(trained osteoclastogenesis, MITF 후성유전 기억)" 개념과 denosumab·JAK억제제·천연화합물 치료 후보를 비판적으로 조망 (de Molon 2026, 종설).
+> - **재생 생물학(bone-PDL-cementum)**: 뼈·치주인대(PDL)·백악질 복합체 *동시* 재생은 줄기세포(PDLSC/BMSC)+흡수성 지지체, 내인성 세포유도(SDF-1α+BMP7), 유전자치료(Ad-PDGF-B), 층별 생체모방(LBL) 구조물로 접근 — 핵심 난제는 신생 백악질·신생골에 수직 삽입되는 배향성 Sharpey 섬유 생성(현재 PCL/PGA 섬유유도 3D 프린팅만 신뢰성 있게 달성); 임상 적용은 자가/동종골·Bio-Oss·콜라겐막만 승인, 세포·유전자치료는 초기 단계 (Liu 2019, SR). → 임상 NMA(Stavropoulos 2021, 축 3)가 의존하는 생물학적 토대.
 > - **근거 약한 보조제**: 오존 겔은 소규모 RCT(n=12/군)에서 방사선학적 골결손 within-group 이점만 있어 [근거약함]; 오옥시스테롤(oxysterol) BMP-2 대안은 [전임상 단계]. "심한 치주염은 바로 외과로"는 오판 — step-wise는 비외과 first.
 
 ## One-line Summary
@@ -112,6 +115,8 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 | [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] | sr+ma (10편) | 치주염력 환자 — peri-implantitis 위험 ~4.8배 |
 | [[periodontics/blyleven-2024-periodontal-implant-surgery-complications]] | retrospective (1135건) | 치주·임플란트 외과 합병증 — 술중 2.8%, 술후 15.2%. Lateral SES가 가장 강력한 예측인자 |
 | [[periodontics/lee-2017-oxysterol-periodontal-regeneration-pdlsc-alveolar-bone]] | animal + in-vitro | 오옥시스테롤(SS) → PDLSC 골분화 (LXR↔Hh) + rat 발치와 골재생 ≈ rhBMP-2 (μCT NS) |
+| [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] | sr (전임상) | 뼈-PDL-백악질 *동시* 재생 — 줄기세포+지지체, 내인성 세포유도(SDF-1α/BMP7), 유전자치료(Ad-PDGF-B), LBL 구조물; 배향성 Sharpey 섬유 생성이 핵심 난제 (PCL/PGA 섬유유도 3D 프린팅) |
+| [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] | narrative-review | 치조골 소실 분자기전 — RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 수렴; "trained osteoclastogenesis"; denosumab·JAK억제제·천연화합물 치료 후보 |
 
 **임상 ladder (외과·재생·임플란트)**:
 1. **Intrabony defect 잔존** (재평가 후 PPD ≥ 6mm, 3-wall 결손) → GTR (membrane) + 이식재 (DBBM/EMD) 병용. 단독보다 NMA 우위.
@@ -120,6 +125,8 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 4. **Furcation Class II-III** — 재생 시도 (특히 mandibular II) 또는 hemisection·root resection·발치 + 임플란트.
 5. **치주염력 환자 임플란트** — 완전 치주 안정화 (PPD ≤ 4mm, BoP < 10%) 후 식립 + 3mo SPT 종신. peri-implantitis 위험 4.8배 명시.
 6. **재생 생물학 기초** — 오옥시스테롤(SS) BMP-2 대안 전임상 단계. LXR↔Hedgehog 경로가 PDLSC 골분화 핵심 스위치 (Lee 2017). 임상 적용 미결정.
+7. **골소실 분자기전 (pathogenesis)** — 임상 재생술이 *되돌리려는* 파괴과정의 분자 지도. de Molon 2026 종설: 이상생태계 생물막이 RANKL/RANK/OPG 축을 교란 → NF-κB(급성: canonical IKKβ/p65 / 만성: non-canonical IKKα/RelB)·JAK/STAT(IL-6·IL-17A/STAT3)·MAPK(p38·JNK·ERK)·PI3K/Akt 4경로가 **NFATc1**으로 수렴해 파골세포 분화(TRAP·cathepsin K·MMP-9)를 구동. P. gingivalis 노출 단핵구가 MITF 매개 후성유전 기억을 획득하는 "trained osteoclastogenesis"가 만성기 재노출 시 골흡수 증폭을 설명. 치료 후보(denosumab 항-RANKL, JAK억제제, p38 억제제 SD282, bortezomib, 천연화합물 curcumin/resveratrol)는 전신독성·생체이용률·국소전달 장벽으로 임상 적용 제한 — 주사형 하이드로겔·생분해 미소구체 등 부위특이 전달이 번역의 관건. GCF MMP-8·IL-1β는 활성/휴지기 정밀 타이밍 후보 표지자. [기초 기전 — narrative review]
+8. **재생 생물학 — 조직공학 표적** — de Molon이 "왜 골이 무너지는가"를 설명한다면, Liu 2019 SR은 "어떻게 복원하는가"의 전임상 지도. 뼈·PDL·백악질 *복합체 동시* 재생을 (1) 외인성 줄기세포(PDLSC/BMSC/DPSC/iPSC-MSC)+흡수성 지지체, (2) 내인성 세포유도(SDF-1α+BMP7 3D 프린팅 지지체), (3) 유전자치료(Ad-PDGF-B → 14일에 골 4×·백악질 6×), (4) 층별 생체모방(LBL) 구조물(개 모델 20일 내 백악질+45° 사선 PDL+사상판골+Sharpey 섬유 완전 재건)로 접근. 최대 난제는 신생 백악질·신생골에 **수직 삽입되는 배향성 Sharpey 섬유** 생성 — 현재 PCL/PGA 섬유유도 3D 프린팅(250–300 µm PDL 구획)만 신뢰성 있게 방향 제어. 임상 승인은 자가/동종골·Bio-Oss·콜라겐막에 국한, 줄기세포는 초기 임상시험, 유전자치료·LBL은 실험실 단계. 장기 GTR(120개월): 흡수성 차폐막 CAL-V 3.5 mm > 비흡수성 1.5 mm. [전임상~초기임상 — SR]
 
 ### 축 3b — 치수치주복합병변 (Endo-Perio Lesion)
 
@@ -217,7 +224,8 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 
 1. 전신질환 성격 파악: **Jepsen 2018 workgroup-3 분류** → 치주 병소가 전신질환의 발현인지(혈액/면역/유전) vs 독립 치주염 + 전신질환 동반인지 감별.
 2. 독립 치주염 + T2DM → SRP 시행(HbA1c ~0.4~0.6% 감소 기대, Simpson 2022 Cochrane); 오존 겔 보조 시 방사선학적 골결손 within-group 이점 가능하나 소규모(Barahim 2024).
-3. 괴사성 치주질환 → 면역상태 평가 우선 (Herrera 2018).
+3. **류마티스 관절염(RA) 동반** → 치주치료가 RA 활성도를 낮추는 양방향 link. Dolcezza 2024 SR+MA(RCT 6편, 치료군 124 vs 대조군 131, ~2개월): 비외과 치주치료가 DAS28 −0.56점(95% CI −0.82~−0.31, p=0.001), CAL −0.41 mm(95% CI −0.70~−0.12, p=0.006) 유의 개선, 대조군은 악화. trim-and-fill 보정 후에도 −0.39점·−0.30 mm로 유의 유지. → RA 환자는 류마티스내과 치료와 병행해 치주 스크리닝·SRP를 다학제로 시행. (위험 방향 — 치주염→RA 위험 ↑ — 은 Qiao 2020이 별도로 확립; Dolcezza는 치료 방향으로 루프를 닫음.) [근거중간 — 소규모·단기·혼합 blinding RCT 6편]
+4. 괴사성 치주질환 → 면역상태 평가 우선 (Herrera 2018).
 
 ### Thread B — 치수치주복합병변 vs 치주농양 감별
 
@@ -243,6 +251,12 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - [ ] `wiki/overviews/mucogingival-surgery-outcomes.md` — APF·FGG·CTG long-term RCT 메타 분석.
 
 ## Related Papers
+
+### 신규 추가 (2026-06-27)
+
+- [[periodontics/dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma]] — SR+MA (6 RCTs; treated n=124 vs control n=131): non-surgical periodontal therapy in RA+periodontitis patients significantly lowers RA activity (DAS28 −0.56) and improves CAL (−0.41 mm); trim-and-fill −0.39/−0.30. Treatment-direction complement to the periodontitis→RA risk link. (sr+ma, 2024) — integrated into Thread A (전신질환 동반 치주염).
+- [[periodontics/demolon-2026-periodontitis-bone-loss-signaling-pathways]] — Narrative review mapping RANKL/OPG → NF-κB·JAK/STAT·MAPK·PI3K/Akt → NFATc1 osteoclastogenesis, "trained osteoclastogenesis," and therapeutic candidates (denosumab, JAK/p38 inhibitors, natural compounds). Molecular pathogenesis underpinning axis 3 regeneration. (narrative-review, 2026)
+- [[periodontics/liu-2019-periodontal-bone-ligament-cementum-regeneration]] — SR of stem-cell/scaffold/gene-therapy/LBL strategies for simultaneous bone–PDL–cementum regeneration; oriented Sharpey's fiber generation is the core challenge (PCL/PGA fiber-guiding 3D printing). Preclinical biology supporting the Stavropoulos 2021 clinical NMA. (sr, 2019)
 
 ### 신규 추가 (2026-06-15)
 
@@ -320,4 +334,7 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - 축 6 치주성형 = [합의수준] (합의 기반, 개별 RCT 제한적).
 - 축 7 peri-implantitis = [근거강함] epidemiology, [합의수준] 치료.
 - 오옥시스테롤 재생생물학 = [전임상 단계] (Lee 2017 animal).
+- 골소실 분자기전 = [기초 기전] (de Molon 2026 narrative review).
+- 조직공학 재생 (bone-PDL-cementum) = [전임상~초기임상] (Liu 2019 SR).
+- RA↔치주염 치료 link = [근거중간] (Dolcezza 2024 SR+MA, 소규모 RCT 6편).
 - 오존 겔 보조 = [근거약함] (Barahim 2024 n=12/group).
