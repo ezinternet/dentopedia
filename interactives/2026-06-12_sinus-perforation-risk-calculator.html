@@ -4,6 +4,7 @@ title: "Chairside 상악동 천공 위험 계산기"
 type: interactive
 date: 2026-06-12
 status: in-progress
+verified: 2026-06-27
 category: bone-sinus-soft
 agenda: agenda/2026-06-12_sinus-perforation-risk-calculator.md
 source_wiki:
@@ -75,7 +76,7 @@ note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를
 <body>
 <div class="wrap">
   <h1>상악동 측방창 거상술 — 천공 위험 계산기</h1>
-  <div class="sub">술전 CBCT·문진 인자 입력 → 막천공 위험등급 + 창 디자인·예방 권고. 근거: OMS overview 예방축 §1–5 (14편).</div>
+  <div class="sub">술전 CBCT·문진 인자 입력 → 막천공 위험등급 + 창 디자인·예방 권고. 근거: OMS overview 예방축 §1–6 (천공인자·점막·부비동건강·중격·PSAA·OMC/ENT협진).</div>
 
   <div class="grid">
     <!-- INPUT -->
@@ -115,6 +116,14 @@ note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를
             <button data-v="1">예</button>
           </div>
           <div class="src">Gulec 2025 — 골내형 63%, 출혈 위험 매핑</div>
+        </div>
+        <div class="field">
+          <label>골구내강(OMC) 변이/폐쇄 소견</label>
+          <div class="seg" data-k="omc">
+            <button data-v="0" class="on">개존/불명</button>
+            <button data-v="1">변이/협착</button>
+          </div>
+          <div class="src">Gulbey 2026 — OMC 변이가 점막비후와 유의 연관(비후 54%, n=1957동)</div>
         </div>
       </div>
       <div style="height:14px"></div>
@@ -169,7 +178,7 @@ note: "의사결정 보조 도구. 가중치는 보고된 효과크기(HR/OR)를
 </div>
 
 <script>
-const state={rrh:5,mem:1.0,septa:0,mrc:0,psaa:0,smoke:0,span:0,sinusitis:0};
+const state={rrh:5,mem:1.0,septa:0,mrc:0,psaa:0,omc:0,smoke:0,span:0,sinusitis:0};
 
 // weights ~ ordered by reported effect size (heuristic)
 function compute(){
@@ -186,6 +195,7 @@ function compute(){
   if(state.span){s+=2; c.push(['다수치 결손',2]);}
   if(state.sinusitis){s+=3; c.push(['술전 부비동염',3]);}
   if(state.psaa){s+=1; c.push(['PSAA 골내·근접',1]);}
+  if(state.omc){s+=1; c.push(['OMC 변이·협착',1]);}
   return {s,c};
 }
 
@@ -205,7 +215,7 @@ function recsFor(){
     r.push(['warn','점액낭종 술전 평가(흡인/제거 또는 연기)','MRC 동반 천공 HR 27.75 — Nemati 2023; pseudocyst-MRC overview 결정 트리 참조']);
   }
   if(state.mem>5){
-    r.push(['','두꺼운 막 = 염증/저류 관리 대상(금기 아님)','>5mm군도 SFE 후 점막 감소·비부비동염 0 — Khiabani 2024; 술전 항염·필요 시 ENT']);
+    r.push(['','두꺼운 막 = 염증/저류 관리 대상(금기 아님); 점막비후 단독은 협진 사유 아님','>5mm군도 SFE 후 점막 감소·비부비동염 0 — Khiabani 2024; 점막비후(>2–6mm)·무증상 MRC 단독은 협진 불요, Felisati ≥3(OMC폐쇄·부비동염·진균)만 협진 — Craig 2024']);
   }
   if(state.mem<1){
     r.push(['warn','얇은 막 — 거상 시 분리 신중, PRF/콜라겐 보강 준비','평균 0.77mm = thin-fragile — Nemati 2023']);
@@ -214,10 +224,13 @@ function recsFor(){
     r.push(['warn','금연 권고·상담(술전 최소 1–2주)','흡연 천공 OR 1.58 (Wang 2023) / HR 25 (Nemati 2023)']);
   }
   if(state.sinusitis){
-    r.push(['warn','SFE 연기 + 이비인후과 선평가·치료','술전 만성 부비동염 = 술후 감염·임플란트 실패 최강 예측(p=0.007) — Kozuma 2017']);
+    r.push(['warn','SFE 연기 + 이비인후과 선평가·치료(절대금기 확인)','술전 만성 부비동염 = 술후 감염·임플란트 실패 최강 예측(p=0.007) — Kozuma 2017; 자연공 폐쇄·중비도 농배출·진균증은 ENT 선치료 절대금기 — Kim 2019/Craig 2024']);
   }
   if(state.psaa){
     r.push(['','창 상연을 PSAA 하방으로 낮추거나 우회','골내형 PSAA 63%·치조정 ~16mm — Gulec 2025, 출혈 합병증 예방']);
+  }
+  if(state.omc){
+    r.push(['','술전 CBCT로 OMC(자연공) 개존 평가','OMC 변이가 점막비후·골공폐쇄와 유의 연관 — Gulbey 2026; 자연공이 진짜 협진 기준 — Kim 2019']);
   }
   // high-risk patient prophylaxis
   const {s}=compute();
