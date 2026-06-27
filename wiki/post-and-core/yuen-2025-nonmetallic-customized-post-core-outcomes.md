@@ -11,6 +11,8 @@ confidence: sr
 source_collection: pubmed-text
 full_text: false
 tags: [post-and-core, zirconia, PEEK, PEKK, fiber-post, CAD-CAM, customized-post, systematic-review]
+text_path: /Users/oracleneo/llm-wiki/papers/yuen-2025-nonmetallic-customized-post-core-outcomes.txt
+text_filename: yuen-2025-nonmetallic-customized-post-core-outcomes.txt
 ---
 
 ## One-line Summary

@@ -1,0 +1,20 @@
+Clinical Outcomes of Nonmetallic Customized Post-and-Core Systems: A Systematic Review.
+
+Authors: Yuen; Beh; Saw; Chua
+Journal: {'title': 'Journal of endodontics', 'iso_abbreviation': 'J Endod'}
+Publication date: {'year': '2025', 'month': '11', 'day': '21'}
+DOI: 10.1016/j.joen.2025.11.015
+PMID: 41276246
+Article types: Journal Article, Systematic Review, Review
+
+ABSTRACT
+========
+This systematic review evaluates the types and clinical outcomes of nonmetallic customized post-and-core systems in endodontically treated teeth. Customized systems refer to those individually fabricated to replicate the specific morphology of the prepared root canal.
+
+A comprehensive search for clinical studies evaluating nonmetallic customized post-and-cores was conducted across five electronic databases (PubMed, Scopus, Web of Science, Cochrane, Elton B. Stephens Company (EBSCO)) and Google Scholar. Two independent reviewers screened studies, extracted data, and assessed risk of bias using Cochrane Risk-of-Bias Tool for randomized controlled trials and Newcastle-Ottawa Scale for cohort studies. Data from all included studies were presented descriptively using tables.
+
+Twelve studies with 829 teeth were included in the review. Indirect fabrication materials included computer-aided design/computer-aided manufacturing milled zirconia, polyetheretherketone, and polyetherketoneketone. Direct chairside methods evaluated individually formed (EverStick Post and Ribbond) and rigid (bundle fiber posts and prefabricated fiber posts relined with composite resin) fiber-reinforced composite systems and corono-radicular direct composite. Computer-aided design/computer-aided manufacturing milled zirconia posts exhibited comparable clinical outcomes to conventional cast posts, while polyetheretherketone and polyetherketoneketone posts showed lower survival, with a high incidence of debonding. Individually formed fiber-reinforced composite systems demonstrated favorable failure patterns.
+
+Although these post-and-core systems appear promising, the available data were limited and show considerable variability in terms of materials used and fabrication techniques, resulting in significant heterogeneity that precludes meaningful comparative analysis. Each evaluated system has its own advantages and limitations that shall be considered individually when planning for the final restoration for an endodontically treated tooth.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

@@ -8,6 +8,8 @@ category: [post-and-core]
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/41276246/
+text_path: /Users/oracleneo/llm-wiki/papers/yuen-2025-nonmetallic-customized-post-core-outcomes.txt
+text_filename: yuen-2025-nonmetallic-customized-post-core-outcomes.txt
 ---
 
 ## Why Ingested
