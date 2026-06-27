@@ -1,0 +1,14 @@
+Effect of aging on healing of mandibular tooth extraction socket in a rat model.
+
+Authors: Shin; Kwak; Chae; Choi; Han; Yu; Leem; Seok
+Journal: {'title': 'European journal of oral sciences', 'iso_abbreviation': 'Eur J Oral Sci'}
+Publication date: {'year': '2026', 'month': '04', 'day': '30'}
+DOI: 10.1111/eos.70099
+PMID: 42059861
+Article types: Journal Article
+
+ABSTRACT
+========
+This study evaluated the effect of aging on bone regeneration in mandibular extraction sockets. Male Sprague-Dawley rats were divided into three age groups: 2-month-old (2&#xa0;M, n&#xa0;=&#xa0;6), 10-month-old (10&#xa0;M, n&#xa0;=&#xa0;6), and 18-month-old (18&#xa0;M, n&#xa0;=&#xa0;5). Two weeks post-extraction, comprehensive analyses were performed using micro-computed tomography (&#xb5;-CT), serum bone turnover markers, histology, and immunohistochemistry. Notably, to ensure accurate volumetric assessment, a specific tooth-based region of interest utilizing the extracted tooth was employed for precise &#xb5;-CT analysis. Radiologically, the 18&#xa0;M group exhibited significantly reduced bone volume and trabecular thickness compared to the younger groups. Serum analysis revealed that younger rats maintained higher baseline metabolic activity, specifically regarding osteocalcin and CTX-I, and exhibited a distinct post-extraction tartrate-resistant acid phosphatase 5b response. Histological and immunohistochemical findings corroborated these results; the 10&#xa0;M group demonstrated the most favorable bone regeneration with maximal alkaline phosphatase expression filling the socket, whereas the 18&#xa0;M group exhibited compromised healing characterized by empty sockets and inflammatory cell accumulation. In conclusion, aging significantly deteriorates the biological healing capacity of alveolar bone. Although younger animals exhibit robust metabolic responses and bone formation, senescent rats show a marked decline in regenerative potential, emphasizing the need for age-specific considerations in dental rehabilitation.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

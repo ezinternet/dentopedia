@@ -10,9 +10,9 @@ category: bone-regeneration/ridge-preservation
 confidence: animal
 source_collection: pubmed-text
 full_text: false
-pdf_path:
-pdf_filename:
 tags: [aging, socket-healing, bone-regeneration, rat-model, geriatric-dentistry, alveolar-bone]
+text_path: /Users/oracleneo/llm-wiki/papers/shin-2026-aging-socket-healing-rat-jeonbuk.txt
+text_filename: shin-2026-aging-socket-healing-rat-jeonbuk.txt
 ---
 
 ## One-line Summary
