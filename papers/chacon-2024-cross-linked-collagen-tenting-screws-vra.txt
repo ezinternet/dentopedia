@@ -1,0 +1,52 @@
+Title: Vertical Ridge Augmentation Using Collagen Membrane and Tenting Screws in the Esthetic Zone: A Case Series.
+Authors: Chacón G, Saleh MHA, Decker A, Kan JYK, Wang HL
+Journal: International Journal of Periodontics & Restorative Dentistry
+Year: 2024
+Volume: 44(1):81-89
+DOI: 10.11607/prd.6373
+PMID: 37471156
+
+ABSTRACT
+
+Background:
+Successful rehabilitation of severely atrophic, short-span edentulous ridges in esthetic regions can seldom be done without some form of vertical ridge augmentation (VRA). The best available evidence shows that guided bone regeneration procedures may present a very predictable option with reduced potential for complications compared to alternative options.
+
+Aim:
+This case series presents a novel technique to achieve predictable VRA with a low complication rate using tenting screws and cross-linked resorbable membranes.
+
+Methods:
+- N = 10 patients (5 men, 5 women)
+- Location: severe vertical defects in the ESTHETIC ZONE
+- Material: cross-linked resorbable collagen membrane + tenting screws (titanium osteosynthesis screws used to tent/support the membrane without collapsing)
+- No titanium mesh — cross-linked collagen IS the barrier, tenting screws provide the space maintenance
+
+Results:
+- Mean healing time: 9.3 months
+- Mean defect resolution: 80%
+- Mean VBG: 6.2 ± 1.61 mm
+- Only 1 case with reduced defect resolution (50%), but still achieved 6 mm bone gain
+- Complication rate: LOW (not quantified in abstract but implied minimal)
+
+KEY INNOVATION — Tenting Screw Concept:
+Tenting screws = titanium mini-screws placed into bone BEFORE membrane, creating a mechanical framework that holds the cross-linked collagen membrane in a tented position over the defect without collapsing. This partially replaces the space-maintenance function of Ti mesh.
+- The screws are placed in a pattern matching the planned augmentation shape
+- Cross-linked collagen covers the framework
+- Bone graft placed under the tented membrane
+
+WHY CROSS-LINKED COLLAGEN (not native collagen):
+- Native collagen resorbs in 4–6 weeks (too fast for large VRA)
+- Cross-linked collagen (ribose or glutaraldehyde) maintains barrier function 6–9+ months
+- Resorbable = no 2nd surgery for removal
+- BUT: slower degradation → more exposure risk than native collagen (Wessing SR+MA: 30% higher)
+
+WHY NOT TI MESH:
+- Authors: tenting screws + XL collagen = simpler, avoids Ti mesh exposure and 2nd-stage mesh removal
+- Avoids Ti mesh neurological injury risk during manipulation
+- Resorbable membrane = lower total procedural burden
+
+RESULTS COMPARISON:
+- 6.2 mm VBG is COMPETITIVE with Ti mesh (Sabri 2024 SR+MA: 3.36 mm; Cucchi 2017: 4.2 mm)
+- However n=10, esthetic zone only, single operator — small case series
+
+CONTEXT:
+Authors are Wang HL group (University of Michigan) — prolific in VRA research.
