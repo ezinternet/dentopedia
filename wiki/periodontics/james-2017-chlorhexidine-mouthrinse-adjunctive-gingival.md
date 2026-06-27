@@ -10,6 +10,8 @@ source: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.md
 category: [periodontics]
 confidence: sr+ma
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
+text_filename: james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.txt
 full_text: false
 tags: [chlorhexidine, mouthwash, gingivitis, plaque, cochrane]
 ---
