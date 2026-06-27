@@ -1,0 +1,646 @@
+TITLE: An environmental impact study of inter‐dental cleaning aids
+DOI: 10.1111/jcpe.13727
+
+ABSTRACT:
+Abstract
+
+Aim
+
+The aim of this study was to compare the environmental footprint of eight inter‐dental cleaning aids.
+
+Materials and Methods
+
+A comparative life cycle analysis was conducted based on an individual person using inter‐dental cleaning aids every day for 5 years. The primary outcome was a life cycle impact assessment. This comprised of 16 discrete measures of environmental sustainability (known as impact categories), for example, greenhouse gas emissions (measured in kilograms of carbon dioxide equivalent, or kg COe), ozone layer depletion (measured in kilograms of chloroflurocarbon equivalent, or kg CFCe), and water use (measured in cubic metres). Secondary outcomes included normalized data, disability‐adjusted life years, and contribution analysis.
+
+Results
+
+Inter‐dental cleaning using floss picks had the largest environmental footprint in 13 of 16 impact categories. Depending on the environmental impact category measured, the smallest environmental footprint came from daily inter‐dental cleaning with either bamboo inter‐dental brushes (five impact categories, including carbon footprint), replaceable head inter‐dental brushes (four impact categories), regular floss (three impact categories), sponge floss (three impact categories), and bamboo floss (one impact category).
+
+Conclusions
+
+Daily cleaning with inter‐dental cleaning aids has an environmental footprint that varies depending on the product used. Clinicians should consider environmental impact alongside clinical need and cost when recommending inter‐dental cleaning aids to patients.
+
+FULL TEXT:
+Clinical Relevance
+
+: The environmental impact of interdental cleanings aids has not been previously quantified. These products are recommended by professionals worldwide in the prevention and management of periodontal diseases.
+
+: Single‐use floss picks and daily interdental brush picks had a worse environmental impact compared to other types of floss and interdental brushes.
+
+: Oral health professionals should consider environmental impact, alongside clinical needs, when making interdental cleaning product recommendations to patients.
+
+1
+
+INTRODUCTION
+
+There are many environmental challenges facing our planet, including climate change and global warming, pollution, and ozone depletion. These challenges impact not only the health of the planet, but also the health of the planet's human population. Environmental damage, therefore, is a public health issue (Costello et al.,).
+
+Healthcare itself has a significant carbon footprint (Faculty of Public Health,) and dentistry is no exception (Duane et al.,). Services and products designed to improve oral health come with an associated environmental cost that will ultimately impact global human health. It is important, therefore, to consider ways to make oral healthcare more environmentally sustainable.
+
+Periodontitis, although a chronic and multifactorial disease (Papapanou et al.,), affects a large proportion of the global population, with studies suggesting the prevalence of mild periodontitis is as high as 50%, and severe periodontitis 7.4% (Kassebaum et al.,; Billings et al.,; Sanz et al.,) It has a wide range of health consequences, including tooth loss, masticatory dysfunction, and reduced quality of life (Sanz et al.,). In addition, the burden of periodontal disease has a huge socio‐economic cost, with the global cost of lost productivity due to severe periodontitis projected at 54 billion USD per year (Tonetti et al.,). Preventing periodontal disease, therefore, is of utmost importance, and supported by the European Federation for Periodontology (Sanz et al.,).
+
+Daily mechanical plaque removal is the cornerstone of preventing periodontal disease and controlling periodontal health. Using dental floss and inter‐dental brushes helps to remove plaque and food particles in areas between the teeth where a regular toothbrush cannot reach. A recent systematic review (Worthington et al.,) found that using inter‐dental cleaning aids (in addition to toothbrushing) may reduce gingivitis compared with toothbrushing alone (Sanz et al.,).
+
+The market for inter‐dental cleaning products is valued at 3 billion USD, and projected to increase to 4 billion USD by 2031 (Fact.MR,). There are a range of inter‐dental cleaning aids available in the European and UK market. Traditionally, floss and inter‐dental brushes were made from plastic. However, new products with “eco‐friendly” branding have come to market recently, for example, using bamboo or replaceable brush heads. Previous studies of different types of toothbrush (Duane et al.,; Lyne et al.,) suggest that there is variation in the environmental footprint of different oral healthcare products, with bamboo and replaceable head brushes performing better than traditional plastic and electric toothbrushes. The environmental impact of different types of floss and inter‐dental brushes, however, has not previously been quantified.
+
+Environmental sustainability can be measured in different ways. Carbon footprinting is the most common measure and relates to climate change potential from the collective greenhouse gases of a product or service. Life cycle analysis (LCA) is a more comprehensive assessment of a product's environmental footprint that encompasses not only climate change, but a range of measures relating to global human health (e.g., ionizing radiation, ozone depletion, and respiratory disease from particulate matter), ecosystem quality (e.g., freshwater ecotoxicity, marine eutrophication, and terrestrial acidification), and planetary resource use (e.g., land use, fossil fuel use, and water use). LCA methodology is recommended by the European Union (European Commission,) and considers the entire life of a product, including raw materials, manufacture and packaging, transport, use, and disposal.
+
+The aim of this study was to use LCA methodology to quantify and compare the environmental footprint of different types of inter‐dental cleaning aids.
+
+2
+
+MATERIALS AND METHODS
+
+A comparative LCA of eight inter‐dental cleaning aid products was undertaken at the Eastman Dental Institute (University College London, UK), in partnership with the Dublin Dental University Hospital (Trinity College Dublin, Ireland).
+
+In order to compare the different products, a baseline scenario was used: an individual person using inter‐dental cleaning aids every day over 5 years in order to effectively prevent and/or manage periodontal disease. This is called the functional unit and allows for equal comparison between products with different usage. The 5‐year period was chosen as the functional unit to aid the comparison of results with a previous LCA of toothbrushes (Lyne et al.,).
+
+Four floss products and four inter‐dental brush products were compared using this functional unit.
+
+2.1
+
+Sample selection
+
+A review of inter‐dental cleaning aids on the Amazon UK website was used to identify varieties of floss and inter‐dental brush (IDB) products available on the UK market (Amazon UK,). The following product types were identified and chosen for this study:
+
+1. Regular floss: a roll of nylon floss in a plastic dispenser.
+
+2. Sponge floss: a pre‐cut length of spongy or expanded floss designed to use around appliances and prosthetics.
+
+3. Floss picks: a length of nylon floss fixed to a plastic handle.
+
+4. Bamboo floss: a roll of bamboo floss in a glass jar.
+
+5. Regular IDB: an IDB with a plastic handle, changed weekly.
+
+6. IDB picks: a rubber brush head on a plastic handle, designed for single use.
+
+7. Replaceable head IDB: an IDB with a reusable handle and replaceable brush heads, changed weekly.
+
+8. Bamboo IDB: an IDB with a bamboo handle, changed weekly.
+
+A sample product was chosen to represent each type of inter‐dental cleaning aid. Products were chosen from the Amazon UK website, with the best‐selling product chosen for each type (Amazon UK,). All product brands and manufacturers have been anonymized in this study. In this analysis, it was assumed all products would be clinically effective for the management and/or prevention of periodontal disease.
+
+2.2
+
+Data collection
+
+The entire product life cycle was mapped using a system boundaries diagram. Figureshows the system boundaries for a regular IDB as an example. The entire product system was considered, including the geographic location of the manufacture. For each type of dental floss and IDB, a life cycle inventory was produced. A detailed list of assumptions for each product is available in Appendixand outlined below:
+
+1. Raw materials: To identify and weigh the component materials, a sample of each product (and its packaging) was dismantled and weighed to the nearest 0.01 g. Components that were less than 0.01 g were excluded. The quantity of products required for daily use over 5 years was calculated (e.g., an individual using a IDB that comes in packets of 6, where each brush lasts for 1 week, would need 43.3 products over 5 years).
+
+2. Manufacture: Individual manufacturers were contacted to obtain information about manufacturing and packaging processes. All products were confirmed as manufactured and packaged in the same factory location. For manufacturing machinery, the machine's energy consumption (kilowatt/per hour [kWh]) was used, assuming the machine was being used at maximum capacity. Machinery maintenance and servicing were excluded. Any waste materials from the manufacturing and packaging were assumed to be recycled back into the process.
+
+3. Transport: Transport of the product from the factory to the United Kingdom was allocated based on weight of the products (kilogram), distance travelled (kilometre), and method of travel (lorry for land transport and freight ship for sea transport). Six of eight products were manufactured in Europe, and two were manufactured in China. The transport was modelled from the factory location to the manufacturer's UK headquarters. Transport from the European locations was assumed to be via lorry from the factory to Calais, then via ferry to Dover, and then again via lorry to the UK headquarters for that manufacturer. Transport from the Chinese location was assumed to be via lorry from the factory to Shanghai port, then via ship to Southampton port, and then again via lorry to the UK headquarters/storage facility for that company. All distances were estimated using Google Maps (2021) in km and the shortest route chosen. The exact locations have been concealed to anonymize the individual manufacturers.
+
+4. Retail: The retail processes (e.g., shopping travel distances and supermarket resources) were excluded as this was assumed to be the same for all products.
+
+5. Consumer use: It was assumed that the individual person would use the product as directed by the manufacturer every day for 5 years. It was assumed this individual was located in the United Kingdom and used unheated tap water to clean the products where needed (e.g., for the weekly IDBs).
+
+6. Disposal: It was assumed that the individual would dispose of the product in the United Kingdom as per manufacturer's recommendations, and place materials in recycling where possible.
+
+The final life cycle inventory for each product is available in Appendix.
+
+FIGURE 1
+
+System boundaries diagram for regular inter‐dental brush
+
+2.3
+
+Data analysis
+
+An attributional LCA was undertaken utilizing physical allocation by mass. The software OpenLCA v1.8 was used for the LCA, alongside the reference database Ecoinvent v3.7. The LCA methodology followed the International Standard Office and EU Product Environmental Footprint recommendations (ISO,; European Commission,).
+
+The primary outcome was a life cycle impact assessment (LCIA) with 16 environmental impact categories. A description of each impact category and the LCIA method and units are described in Table.
+
+Secondary outcomes included:
+
+TABLE 1
+
+Impact categories and life cycle impact assessment (LCIA) methods (European Commission,)
+
+Impact category (units)
+
+LCIA method
+
+Description
+
+Climate change (kg COeq)
+
+IPCC 2013 GWP 100a
+
+Global warming caused by greenhouse case emissions such as carbon dioxide
+
+Measures of ecosystem quality
+
+Acidification (Mol H+ eq)
+
+ILCD 2011 midpoint+
+
+Gas emissions lead to soil and freshwater acidification
+
+Freshwater ecotoxicity (CTUE)
+
+ILCD 2011 midpoint+
+
+Toxic substances have harmful effects on freshwater organisms
+
+Freshwater eutrophication (kg P eq)
+
+ILCD 2011 midpoint+
+
+Excess nutrients that leach into freshwater and cause changes in freshwater organisms and ecosystems
+
+Marine eutrophication (kg N eq)
+
+ILCD 2011 midpoint+
+
+Excess nutrients leach into marine water and cause changes in marine organisms and ecosystems
+
+Terrestrial eutrophication (mol N eq)
+
+ILCD 2011 midpoint+
+
+Excess nutrients that leach into soil and air, causing changes in land organisms and ecosystems
+
+Measures of effects to human health
+
+Carcinogenic effects (CTUh)
+
+ILCD 2011 midpoint+
+
+Toxic substances that have the potential to cause human cancer
+
+Ionizing radiation (kBq Ueq)
+
+ILCD 2011 midpoint+
+
+Ionizing radiation has the potential to cause human DNA changes and damage
+
+Non‐carcinogenic effects (CTUh)
+
+ILCD 2011 midpoint+
+
+Toxic substances that have the potential to cause human disease (excluding cancer and ionizing radiation)
+
+Respiratory inorganics (disease incidence)
+
+PM method
+
+Respiratory inorganics (small particulate matter) that causes human respiratory disease
+
+Photochemic ozone (kg NMVOC eq)
+
+ILCD 2011 midpoint+
+
+Gas emissions that cause smog in the lower atmosphere and damage to human health
+
+Ozone depletion (kg CFC11 eq)
+
+ILCD 2011 midpoint+
+
+Emissions to the air that cause stratospheric ozone layer destruction and damage to human health
+
+Measures of planetary resource use
+
+Land (pt)
+
+Soil quality index based on LANCA
+
+Using land will deplete natural resources, change soil quality, and reduce biodiversity
+
+Fossil fuel (MJ)
+
+CML‐IA baseline
+
+Depletion of natural fossil fuels
+
+Minerals/metals (kg Sb eq)
+
+CML‐IA baseline
+
+Depletion of natural non‐fossil fuel resources
+
+Water (m)
+
+AWARE
+
+Using water will have an impact on global access to clean water and will also have an effect on human health
+
+Abbreviations: AWARE, available water remaining; CML‐IA, centre of environmental science of Leiden University; CTUE, comparative toxic unit for ecotoxicity; CTUh, comparative toxic unit for human health; GWP, global warming potential; ILCD, international reference life cycle data system; IPCC, intergovenmental panel on climate change; kg NMVOC eq, kilograms of non methane volatile organic compounds equivalent; LANCA, land use indicator value calculation; PM, particulate matter.
+
+3
+
+RESULTS
+
+3.1
+
+Life cycle impact assessment
+
+The results of the LCIA for each type of the dental floss and the IDB are shown in Table. Inter‐dental cleaning using floss picks had the largest environmental footprint in 13 of 16 impact categories. Inter‐dental cleaning with bamboo IDBs had the lowest environmental impact in five categories (climate change, freshwater eutrophication, ionizing radiation, fossil use, and mineral/metal use), followed by replaceable head IDBs in four categories (acidification, marine eutrophication, terrestrial eutrophication, and photochemical ozone creation), regular floss in three categories (non‐carcinogenic effects, respiratory inorganics, and land use), sponge floss in three categories (freshwater ecotoxicity, carcinogenic effects, and ozone layer depletion), and bamboo floss in one category (water use).
+
+TABLE 2
+
+Life cycle impact assessment results
+
+Impact category (units)
+
+Regular floss
+
+Floss picks
+
+Sponge floss
+
+Bamboo floss
+
+Regular IDB
+
+IDB pick
+
+Replaceable head IDB
+
+Bamboo IDB
+
+Climate change (kg COeq)
+
+3.0700
+
+11.4200
+
+2.2900
+
+2.1100
+
+2.1100
+
+6.5300
+
+1.3800
+
+1.3100
+
+Acidification (mol H+ eq)
+
+0.0088
+
+0.0428
+
+0.0083
+
+0.0158
+
+0.0085
+
+0.0216
+
+0.0055
+
+0.0079
+
+Freshwater ecotoxicity (CTU)
+
+2.9500
+
+10.5000
+
+1.6300
+
+4.6000
+
+2.7700
+
+8.5900
+
+2.8600
+
+2.6200
+
+Freshwater eutrophication (kg P eq)
+
+0.0011
+
+0.0031
+
+0.0005
+
+0.0006
+
+0.0007
+
+0.0016
+
+0.0004
+
+0.0004
+
+Marine eutrophication (kg N eq)
+
+0.0021
+
+0.0106
+
+0.0022
+
+0.0043
+
+0.0021
+
+0.0051
+
+0.0014
+
+0.0031
+
+Terrestrial eutrophication (mol N eq)
+
+0.0185
+
+0.0902
+
+0.0184
+
+0.0428
+
+0.0178
+
+0.0437
+
+0.0123
+
+0.0212
+
+Carcinogenic effects (CTUh)
+
+3.97E−08
+
+1.89E−07
+
+3.44E−08
+
+3.15E−07
+
+1.17E−07
+
+1.05E−07
+
+1.06E−07
+
+1.13E−07
+
+Ionizing radiation (kg U235 eq)
+
+0.3050
+
+1.1300
+
+0.1260
+
+0.1420
+
+0.2570
+
+0.6230
+
+0.1560
+
+0.1070
+
+Non‐carcinogenic effects (CTUh)
+
+1.64E−07
+
+8.08E−07
+
+1.64E−07
+
+3.38E−07
+
+2.42E−07
+
+4.17E−07
+
+2.02E−07
+
+2.54E−07
+
+Ozone layer depletion (kg CFC‐11 eq)
+
+1.16E−07
+
+5.35E−07
+
+8.63E−08
+
+1.26E−07
+
+1.24E−07
+
+6.84E−06
+
+1.86E−06
+
+9.52E−08
+
+Photochemical ozone creation (kg NMVOC eq)
+
+0.00674
+
+0.03340
+
+0.00731
+
+0.01070
+
+0.00637
+
+0.01610
+
+0.00404
+
+0.00600
+
+Respiratory inorganics effects (disease inc)
+
+6.37E−08
+
+3.87E−07
+
+9.25E−08
+
+1.60E−07
+
+9.71E−08
+
+1.86E−07
+
+7.70E−08
+
+7.29E−08
+
+Dissipated water (mwater eq)
+
+0.9380
+
+4.9100
+
+0.9250
+
+0.5390
+
+3.3800
+
+2.3200
+
+3.0800
+
+5.7700
+
+Fossil use (MJ)
+
+58.6000
+
+278.0000
+
+52.5000
+
+26.9000
+
+47.4000
+
+133.0000
+
+22.3000
+
+13.0000
+
+Land use (pts)
+
+15.9000
+
+171.0000
+
+40.2000
+
+64.0000
+
+36.4000
+
+46.9000
+
+34.6000
+
+110.0000
+
+Mineral/metal use (kg Sb eq)
+
+1.04E−05
+
+5.14E−05
+
+1.04E−05
+
+1.78E−05
+
+1.25E−05
+
+3.60E−05
+
+9.98E−06
+
+8.76E−06
+
+: Numbers are represented to four decimal places, or as scientific numbers if <0.0001.
+
+Abbreviation: IDB, inter‐dental brush.
+
+3.2
+
+Normalized results
+
+The normalized results are shown in Figure. The most important impact categories for each product were as follows:
+
+FIGURE 2
+
+Normalized results
+
+3.3
+
+Disability‐adjusted life years
+
+Figureshows the DALY results. As the figures were low for one individual using the products over 5 years, the DALYs are represented for the entire adult population of the United Kingdom (18 and over, estimated as 52,890,044) (Office for National Statistics,). The highest DALY impact was the floss pick (753 DALYs) followed by IDB picks (412 DALYs). The lowest DALY impact came from bamboo floss (125 DALYs). The DALY result for all products came from the same two human health impact categories: climate change (44%–99%) and carcinogenic effects (0%–64%). All other human health impact categories (ozone depletion, ionizing radiation, respiratory inorganics, non‐carcinogenic effects, water use, and photochemical ozone formation) formed less than 1% of the DALY result combined.
+
+FIGURE 3
+
+Disability‐adjusted life years (DALYs)
+
+3.4
+
+Contribution analysis
+
+A contribution analysis was carried out for each impact category. Figureillustrates the contributions of each type of inter‐dental cleaning aids to the climate change impact. The full contribution analysis for all impact categories is provided in Appendix.
+
+FIGURE 4
+
+Contribution analysis for climate change
+
+4
+
+DISCUSSION
+
+This study found variation in the environmental footprint between eight inter‐dental cleaning aids available on the UK market. Overall, the worst environmental footprint came from the floss picks, which had the highest environmental impact in 13 of 16 categories, followed by the IDB picks. No single product had the “best” environmental footprint, although perhaps the bamboo IDB preformed the best overall, with the lowest impact in 5 of the 16 categories.
+
+This study highlights the fact that carbon footprinting alone is not a comprehensive measure of environmental sustainability. The normalization of the results (allowing for comparison between different impact categories) found that, overall, the most significant impact categories were ozone layer depletion, climate change, and freshwater eutrophication. Sponge floss performed the best for ozone layer depletion, producing the equivalent of 26% less CFCs than regular floss. The bamboo IDB performed the best for climate change and freshwater eutrophication, producing the equivalent of 48% less COthan a regular IDB, and 37% less phosphorus (the measure of water eutrophication).
+
+This trend continues with the DALYs. DALYs combine the human health impact categories to provide the global human quality of life loss of a product. Using the floss picks as an example, if the entire adult population of the United Kingdom was to use floss picks daily for 5 years, then the global human population will lose the equivalent of 753 years of life. The DALY impact of regular floss was 75% less than floss picks, and the DALY impact of regular IDBs was 57% less than that of IDBs picks. However, using inter‐dental cleaning aids to successfully prevent and/or manage periodontal disease will also prevent the global DALY burden of established periodontal disease. The global smoking‐attributable burden of periodontal disease was estimated as 251,160 DALYs, suggesting that the environment impact of prevention aids such as inter‐dental cleaning products is still vastly smaller than the impact of periodontal disease itself (Schwendicke et al.,). However, further research is needed to estimate and compare the DALY “gains” from preventing periodontal disease with inter‐dental cleaning aids, versus the DALY “loss” from the environmental impact of the prevention tools.
+
+The contribution analysis shows which aspects of the product's life cycle contributed the most to the environmental impact. For floss picks, it was the polypropylene plastic handle that contributed the most to the environmental impact (e.g., the handle formed 49% of the carbon footprint). This is due to the sheer weight of plastic needed to use these floss picks every day for 5 years. In comparison, the bamboo handle of the bamboo IDB contributed just 5% to the product's carbon footprint.
+
+To the authors knowledge, this is the first study to quantify the environmental impact of different types of inter‐dental cleaning aids, such as floss and IDBs. Data collection and analysis were performed in line with European Union Product Environmental Footprint guidance (PEF) (European Commission,) and offer a holistic view of environmental sustainability over carbon footprinting alone.
+
+However, the main limitation of this study was in data collection and analysis. The authors relied on manufacturers' information to form the basis of the life cycle inventory model, and where this information was not available, a reasonable assumption was made, and this may have impacted on the results. These assumptions are listed in Appendix. The specific environmental considerations of each manufacturer would impact the results, for example, if they used renewable energy sources in the manufacturing, packaging, and transport of their products, or if they switched product and packaging materials to those with a smaller environmental footprint. Ideally, it would be the responsibility of any product manufacturer to report their environmental footprint; however, there is currently no legal obligation for this, even for products using labels such as “eco‐friendly” or “sustainable”.
+
+This study used eight sample products, selected as best‐selling products on the Amazon UK website, and assumed that all were equally clinically effective in the prevention and/or management of periodontal disease. However, this may not be representative of the range of products available in the United Kingdom and other countries. Also, this study did not include any electronic forms of inter‐dental cleaning, such as water or air flossing products, because it was assumed they would have a greater environmental impact than manual products, based on a previous study of manual and electric toothbrushes (Lyne et al.,). This study was based in the United Kingdom; therefore, the impact of transport may vary for these same products in other countries. Transport by land and sea to the United Kingdom accounted for between 1.3% and 10.2% of the carbon footprint of the products.
+
+LCA methodology, although more comprehensive than carbon footprinting, is limited when it comes to interpretation in a healthcare setting. Currently, LCA methodology does not allow for data analysis or results includingvalues and confidence intervals, and so data need to be interpreted based on descriptive statistics alone, making it difficult for clinicians and the public to easily interpret. Furthermore, PEF guidance itself points out that the data analysis methods for the three toxicity impact categories are currently under review, meaning that results in these categories need to be interpreted with caution (freshwater ecotoxicity, carcinogenic effects, and non‐carcinogenic effects) (European Commission,).
+
+The results of this LCA highlight the difficulty in naming the “best” eco‐friendly product. Although the bamboo IDB performed the best in climate change, bamboo is not an ideal sustainable material—it requires water and fertilizers to grow, and the land used for the crop will result in a reduction in biodiversity. Previous studies on toothbrushes found that although bamboo toothbrushes have a lower climate change impact compared with plastic toothbrushes, recycled plastic toothbrushes are even better (Duane et al.,). As the popularity of bamboo products increases, the environmental impact of producing bamboo may worsen, feed global demand for this material.
+
+Comparing these LCIA results to a previous LCA study of toothbrushes, we find that the environmental impact of all the inter‐dental cleaning aids in this study is less than that of a plastic toothbrush (e.g., using a plastic toothbrush over 5 years produces 25.6 kg COe, compared with 11.4 kg COe using floss picks over 5 years) (Lyne et al.,).
+
+The results of this study could be used by both individuals (when choosing an inter‐dental cleaning aid) and dental healthcare professionals. Dental healthcare professionals who are recommending inter‐dental cleaning aids should consider clinical, cost, and environmental effectiveness of different products.
+
+Inter‐dental cleaning aids are recommended in clinical guidelines. The European Association of Periodontology recommends that inter‐dental cleaning, preferably with IDBs, be professionally taught to patients with gingival inflammation (Sanz et al.,). All inter‐dental cleaning aids, such as those included in this study, will reduce certain periodontal parameters such as bleeding and gingival indices (Christou et al.,; Kotsakis et al.,). Admittedly, the quality of evidence to recommend one product over another is poor, perhaps with some preference for IDBs over traditional floss (Worthington et al.,). IDBs have been shown to remove plaque up to 2 mm below the gingival margin (Sälzer et al.,) and are favoured over floss by European experts (Chapple et al.,). For individual patient oral health, it is best to form a tailored solution based on their oral health status and risk profile.
+
+Where floss is clinically recommended, regular, sponge, or bamboo floss products are preferable for the environment over floss picks. Where IDBs are clinically recommended, weekly brushes are preferable over daily “single‐use” brush picks, and those with a bamboo handle or a plastic reusable handle are preferable over plastic handles. The bamboo IDB was overall the most environmentally effective inter‐dental cleaning aid in this study.
+
+5
+
+CONCLUSION
+
+Inter‐dental cleaning is part of periodontal disease prevention and management and can have a positive impact on the oral health of patients. However, this study demonstrated that all floss and IDB products have an environmental footprint that negatively impacts planetary health. Floss picks (a short piece of floss fixed to a plastic handle) had the worst environmental footprint of the eight products included in this study. There was no single best environmentally friendly product; however, the bamboo IDB had the lowest environmental impact in 5 of 16 categories, including climate change. Healthcare professionals could use the results of this study when making product recommendations to patients, incorporating environmental sustainability alongside the clinical and financial needs of the patient.
+
+AUTHOR CONTRIBUTIONS
+
+Rawan Abed and Alexandra Lyne carried out data collection and drafted the manuscript. Brett Duane, John Crotty and Paul Ashley analysed the data and reviewed the manuscript.
+
+CONFLICT OF INTEREST
+
+The authors declare no potential conflict of interest.
+
+ETHICS STATEMENT
+
+This study did not require ethical approval as there were no human or animal participants.
+
+Supporting information
+
+Assumptions and limitations.
+
+Click here for additional data file.
+
+Life cycle inventory.
+
+Click here for additional data file.
+
+Contribution analysis data.
+
+Click here for additional data file.
