@@ -1,0 +1,43 @@
+Low health literacy and health outcomes: an updated systematic review.
+Berkman ND, Sheridan SL, Donahue KE, Halpern DJ, Crotty K.
+Ann Intern Med. 2011 Jul 19;155(2):97-107.
+PMID: 21768583
+DOI: 10.7326/0003-4819-155-2-201107190-00005
+
+ABSTRACT (only — full text not retrieved):
+
+Approximately 80 million Americans have limited health literacy, which puts them
+at greater risk for poorer access to care and poorer health outcomes.
+
+This is an update of a 2004 systematic review examining whether low health literacy
+is related to poorer use of health care, outcomes, costs, and disparities in health
+and health care, across all age groups.
+
+Methods: Searched MEDLINE, CINAHL, PsycINFO, ERIC, and the Cochrane Library
+(health literacy 2003 to 22 February 2011; numeracy 1966 to 22 February 2011).
+Included studies that compared outcomes by directly measured health literacy or
+numeracy. Two reviewers abstracted data and assessed study quality.
+
+Results: 96 good- or fair-quality studies (111 articles) were included: 98 addressed
+health literacy, 22 addressed numeracy, and 9 addressed both.
+
+Low health literacy was CONSISTENTLY associated with:
+- more hospitalizations
+- greater use of emergency care
+- lower receipt of mammography screening
+- lower receipt of influenza vaccine
+- poorer ability to take medications appropriately
+- poorer ability to interpret labels and health messages
+- among elderly persons, poorer overall health status and higher mortality rates
+
+Poor health literacy partially explains racial disparities in some outcomes.
+Conclusions about numeracy were limited by few and inconsistent studies.
+
+Limitations: Studies were restricted to English-language articles; no MeSH heading
+exists to identify these studies, complicating the search. NO evidence was found on
+oral health literacy and outcomes.
+
+Conclusion: Low health literacy is associated with poorer health outcomes and poorer
+use of health care services.
+
+Primary Funding Source: Agency for Healthcare Research and Quality (AHRQ).
