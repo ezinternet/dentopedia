@@ -10,9 +10,11 @@ source_wiki:
   - wiki/periodontics/john-2017-network-meta-analysis-studies-included.md
   - wiki/periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct.md
   - wiki/periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct.md
+  - wiki/periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma.md
+  - wiki/periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct.md
 category: [periodontics]
 confidence: synthesis
-tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment]
+tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment, subgingival-irrigation, clean-and-seal, NaOCl, hyaluronic-acid]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -27,7 +29,10 @@ tags: [probiotics, aPDT, NSPT, SRP, adjunctive-therapy, periodontal-treatment]
 > - **보조요법 비교 틀 (NMA)**: 독시사이클린 하이클레이트 겔(doxycycline hyclate gel)과 다이오드 레이저 광역동치료(PDT)가 SUCRA 상위 1–2위이나 신뢰구간이 겹쳐 임상적 선택 근거로 삼기에 불충분 — 비용·접근성·환자 선호를 함께 고려해야 함.
 > - **치태 공시제 (plaque disclosing agent)**: 미국 FDA의 에리트로신(erythrosine) 식품·경구약 금지(2025.01)로 D&C Red No. 33이 실용적 대안 — 치태 제거율은 동등, 잔류 착색·맛 면에서 우월 (Sooampon 2026).
 > - **전동칫솔 (powered toothbrush)**: 6–10세 아동에서 회전진동(oscillating-rotating, OR) 전동칫솔이 수동칫솔보다 치태 감소 51% 우월(p=0.003) — 기계적 자가구강위생의 기반을 보강하는 맥락 근거 (Zini 2026).
-> - **임상 결론**: 프로바이오틱스(특히 Lactobacillus + Enterococcus 복합)는 NSPT 후 BoP 감소 목표에 부가적 가치가 있으며, 가정용 이중광 aPDT는 기계적 접근이 어려운 부위에서 보조 가능성이 있다. 단, 두 접근 모두 CAL 개선 근거는 미약하고 장기 데이터가 없다.
+> - **치은연하 약제 세척 (subgingival irrigation, 化學洗淨) — 음성**: NSPT 중 약제(포비돈요오드 PVP-I·클로르헥시딘 CHX·정유 essential oils·오존수·붕산)를 치은연하 세척제로 추가해도 물/식염수 대비 PPD(MD 0.01 mm)·CAL(MD 0.09 mm)·BOP에 추가 이득 없음 — 16편 RCT(712명) SR+MA, 근거수준 low~very low, 항균제 관리(antimicrobial stewardship) 관점에서 일상적 사용 비권고 (da Silveira 2026). NMA의 ~0.3 mm 천장효과를 재확인하며 *세척 전달경로*만 분리한 첫 업데이트.
+> - **"clean and seal" (AA-NaOCl + 가교 히알루론산, xHA) — 유지치료 잔존 포켓에서 양성**: 단일기관 RCT(n=42)에서 재기구조작(subgingival re-instrumentation, SRI)에 아미노산-차아염소산나트륨 겔 + 가교 히알루론산 겔을 보조 시 6개월에 PD 추가 −0.50 mm·CAL 추가 +0.57 mm, 포켓폐쇄율 88.1% 대 38.1%(p<0.001), 8개 중 5개 치주병원균 유의 감소; **깊은 포켓일수록 효과 큼** → 선택적 사용 (Jungbauer 2026). 단, 생체표지자(IL-1β·MMP-8)는 불변.
+> - **세척 vs 점착-봉합의 역설**: 단순 약제 *세척*(da Silveira: 음성)과 효소분해+클롯안정화 *겔 봉합*(Jungbauer: 양성)의 대비는 — 전달방식(접촉시간·기질분해·클롯안정화)이 약제 종류보다 결정적임을 시사. NaOCl은 세척용이 아니라 생체막/기질을 분해하는 겔 형태로, HA는 봉합제로 작용.
+> - **임상 결론**: 프로바이오틱스(특히 Lactobacillus + Enterococcus 복합)는 NSPT 후 BoP 감소 목표에 부가적 가치가 있으며, 가정용 이중광 aPDT는 기계적 접근이 어려운 부위에서 보조 가능성이 있다. 단순 약제 치은연하 세척은 이득 없으나, 유지치료 단계 깊은 잔존 포켓에 한정한 "clean and seal" 겔 프로토콜은 의미있는 부가효과를 보인다. CAL 개선 근거는 세척 계열에서 여전히 미약하고 장기 데이터가 없다.
 
 ## One-line Summary
 
@@ -125,6 +130,47 @@ See [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]].
 
 The John 2017 NMA included diode-laser PDT as one of its nine adjuncts and ranked it second by SUCRA — but this referred to in-office delivery devices (typically single wavelength, applied by clinician). The Gusseva 2026 protocol extends this toward home-use, daily self-administration, which is a fundamentally different delivery model with different adherence and cost implications.
 
+## Subgingival Irrigation & Local "Clean and Seal" Adjuncts
+
+The probiotic and aPDT data above target the biofilm or microbiome ecology. A separate adjunct family acts at the moment of instrumentation itself — delivering a chemical agent into the pocket during scaling or re-instrumentation. Two 2026 studies bracket this family and, read together, deliver a sharp lesson: **delivery mode, not agent identity, governs whether a local chemical adjunct works.**
+
+### Chemical-Agent Subgingival Irrigation — the Null Result (da Silveira 2026)
+
+da Silveira et al. (2026) performed a PRISMA SR+MA isolating one specific clinical habit: flushing a chemical agent (CA) into the pocket as a subgingival *irrigant* during NSPT, versus a water/saline control. Sixteen RCTs (712 patients; 13 parallel, 3 split-mouth) were pooled, with strict eligibility (≥3-month follow-up; gel vehicles, full-mouth disinfection, mouthwash, extracts, and systemic antibiotics/corticosteroids all excluded). Agents spanned povidone-iodine (PVP-I), chlorhexidine (CHX), essential oils, ozonated water, and boric acid.
+
+**Result — no benefit:**
+
+- PPD change: MD **0.01 mm** (95% CI −0.11 to 0.14; P=0.82; I²=73%)
+- CAL gain: MD **0.09 mm** (95% CI 0.00 to 0.18; P=0.05; I²=0%)
+- BOP reduction: non-significant (MD −1.48; P=0.51)
+- No agent (PVP-I, CHX, EO, BA) rescued the result; no difference by irrigation method (syringe vs ultrasonic) or in furcation studies.
+- The single ozonated-water study showed a marginal ~0.40 mm PPD reduction, but its own source RCT found no significant effect — interpret with caution.
+
+This **updates and partially overturns Van der Sluijs 2016**, which had reported a slight PVP-I CAL gain not confirmed here. da Silveira frames the negative finding under **antimicrobial-stewardship**: with no demonstrated benefit and given CHX tolerance/resistance concerns, routine adjunctive subgingival irrigation is not supported. The MD of ~0.01–0.09 mm sits *below* even the ~0.3 mm John 2017 NMA ceiling — irrigation as a delivery channel adds nothing.
+
+See [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]].
+
+### "Clean and Seal" (AA-NaOCl + Cross-linked HA) — the Positive Counterpoint (Jungbauer 2026)
+
+Against that null backdrop, Jungbauer et al. (2026) tested a fundamentally different local protocol — not a flush but an enzymatic-degradation-plus-clot-stabilization sequence — in a setting where adjuncts had previously failed: residual pockets during **supportive periodontal care (SPC)**. The "clean and seal" protocol applies amino-acid-buffered sodium hypochlorite gel (AA-NaOCl, Perisolv) to degrade biofilm and organic matrix, followed by cross-linked hyaluronic acid gel (xHA, hyaDent BG) to stabilize the clot, re-applied at 1 week, as an adjunct to subgingival re-instrumentation (SRI).
+
+Single-center RCT, n=42 (21/arm), stage III/IV grade B/C in SPC, the two highest-PD non-adjacent pockets per patient as study sites:
+
+- **Additional ΔPD (test vs control):** +0.43 mm at 3 mo (p=0.007); **+0.50 mm at 6 mo** (p=0.008)
+- **Additional ΔCAL at 6 mo:** **+0.57 mm** (p=0.017)
+- **Pocket closure (PD ≤4 mm + BOP−) at 6 mo:** **88.1% test vs 38.1% control** (p<0.001) — roughly doubled
+- **BOP+ at study sites (6 mo):** 78.6% → 19.0% reduction in test (p<0.001)
+- **Microbiology:** significant decrease of **5 of 8 periopathobionts in test only** (incl. *A. actinomycetemcomitans*); control stable
+- **GCF IL-1β, MMP-8:** no significant change, no intergroup difference
+- **Effect modifier:** PD reduction more pronounced in deeper pockets → use selectively
+- Magnitude is smaller than when the same protocol is used during *initial* therapy (where subgingival instrumentation added 1.1–2.1 mm), because SRI sites are previously-treated non-responders.
+
+See [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]].
+
+### Reconciling the Two — Delivery Mode Trumps Agent
+
+The contrast is the synthesis point. A passive chemical *irrigation* (da Silveira: many agents, all null) adds nothing, while a structured *gel-based degrade-and-seal* sequence (Jungbauer: AA-NaOCl + xHA, positive) produces a real ~0.5 mm PD and ~0.57 mm CAL increment and doubles pocket closure. The difference is not the chemistry per se but the delivery: contact time, matrix degradation, and clot stabilization. Practically, this means do **not** add a CHX/PVP-I flush during routine SRP (no benefit, stewardship cost), but **do** consider the "clean and seal" gel protocol selectively for deep residual pockets in maintenance, where the gain is largest and justifies the added material cost and chairtime. The biomarker null (IL-1β/MMP-8 unchanged in both Kim 2026 saliva and Jungbauer 2026 GCF) recurs across this overview — clinical/microbiological endpoints move before, or independently of, measurable local cytokine shifts.
+
 ## Evidence Table
 
 | Paper | Adjunct | n | Design | Primary Outcome | Key Result | Confidence |
@@ -133,6 +179,8 @@ The John 2017 NMA included diode-laser PDT as one of its nine adjuncts and ranke
 | Kim (Lundtorp-Olsen) 2026 | Lactobacillus PB01 + Enterococcus EB10 + NSPT | 80 (61 completed) | Double-blind RCT | Subgingival microbiota abundance | BoP% p=0.03; PPD ≥5 mm p=0.01; CAL NS | rct |
 | Jeon 2026 | OraCMU (probiotic tablets, standalone) | 80 | Double-blind RCT | Gingival index (GI) | GI −0.19 vs −0.08 (p=.035); BOP −7.74 vs −2.82 (p=.030) | rct |
 | Gusseva 2026 | Dual-light aPDT (405+810 nm + ICG) | 30 | Crossover pilot RCT | Plaque (Greene-Vermillion) | −21.2% aPDT vs −6.5% conventional (p=0.0001) | rct |
+| da Silveira 2026 | Subgingival irrigation (PVP-I/CHX/EO/OW/BA) | 16 RCTs (712) | SR+MA | PPD/CAL/BOP vs water-saline | PPD MD 0.01 mm; CAL MD 0.09 mm; no benefit | sr+ma |
+| Jungbauer 2026 | "Clean and seal" AA-NaOCl + xHA + SRI | 42 | RCT (SPC) | ΔPD at 6 mo | +0.50 mm PD, +0.57 mm CAL; closure 88% vs 38% | rct |
 
 ## Clinical Decision Points
 
@@ -217,3 +265,5 @@ See [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]]
 - [[periodontics/gusseva-2026-dual-light-photodynamic-therapy-plaque-rct]] — dual-light home-use aPDT pilot; plaque control in healthy adults
 - [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — plaque disclosure dye substitution; peripheral clinical hygiene context
 - [[periodontics/zini-2026-electric-vs-manual-toothbrush-children-plaque-rct]] — mechanical plaque control baseline; pediatric electric vs manual RCT
+- [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — chemical-agent subgingival irrigation SR+MA (16 RCTs); null vs water/saline, reaffirms NMA ceiling and antimicrobial stewardship against routine irrigation
+- [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — "clean and seal" (AA-NaOCl + cross-linked HA) adjunct to SRI in maintenance; positive ~0.5 mm PD / 0.57 mm CAL gain, doubled pocket closure — delivery-mode counterpoint to da Silveira's null irrigation
