@@ -2394,6 +2394,7 @@ tags: []
 - [[implants/vertical-ridge-augmentation/soares-2025-3d-printed-titanium-mesh-volumetric-cbct]] — Soares 2025 · retrospective · 3D프린팅 Ti 메쉬 증례시리즈(n=9): 수직증대 4.8 mm, 용적 0.49 cm³, 안정성 87.9%; 노출 77.8% — 조기 완전노출 22.2% → 이식물 전손실 (DOI 10.1002/cap.70015)
 - [[implants/vertical-ridge-augmentation/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct]] — Cucchi 2017 · rct · d-PTFE Ti강화막 vs Ti 메쉬+가교화 콜라겐(n=40, 후방하악): 수직골증대 4.2 vs 4.1 mm(NS), 합병증 15.0 vs 21.1%(NS) 동등; d-PTFE 조작 간편·술중 합병증 3배↓ (DOI 10.1111/cid.12520)
 - [[implants/vertical-ridge-augmentation/cucchi-2021-dptfe-titanium-mesh-vertical-ridge-rct]] — Cucchi 2021 · rct · d-PTFE Ti강화막 vs Ti메시+콜라겐막 VRA 1년 주변조직 RCT(n=30/40): PBL 0.67 vs 0.61mm(NS), 모든 연조직 지표 동등; IBP–PBL 강한 상관(p<0.0001) (DOI 10.1111/clr.13673)
+- [[implants/vertical-ridge-augmentation/cucchi-2021-cadcam-titanium-mesh-resorbable-membrane-rct]] — Cucchi 2021 · rct · 첫 RCT(n=30): CAD/CAM 맞춤형 Ti 메시 단독(합병증 33%, RR 74.3%) vs +가교화 콜라겐막(13%, 82.3%) — 비열등성·우월성 inconclusive; 막 추가 수치상 우수 (DOI 10.1111/clr.13841)
 - [[implants/vertical-ridge-augmentation/wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr]] — Wurtz 2026 · retrospective · CAD/CAM 맞춤형 Ti 메시 vs 텐팅 스크루+흡수성 콜라겐막(n=40, 5년): 6개월 골증대 동등, Ti메시 수술 시간 유의 단축(62.4 vs 72.7min), 임플란트 60개 100% 생존 (DOI 10.1111/cid.70139)
 - [[implants/vertical-ridge-augmentation/chacon-2024-cross-linked-collagen-tenting-screws-vra]] — Chacón 2024 · case-report · 가교화 콜라겐막+텐팅 스크류 VRA(n=10, 심미구역): 수직 6.2 ± 1.61 mm, 결손 해소율 80%, 합병증 낮음 — Ti 메쉬 없이 달성 (DOI 10.11607/prd.6373)
 
