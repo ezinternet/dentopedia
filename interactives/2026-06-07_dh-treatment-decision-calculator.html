@@ -4,9 +4,11 @@ title: "DH 치료 의사결정 계산기 (chairside)"
 type: interactive
 date: 2026-06-07
 status: draft
+verified: 2026-06-27
 category: perio-maintenance
 agenda: agenda/2026-06-07_dh-irrigation-interactives.md
 source_wiki:
+  - wiki/dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma.md
   - wiki/dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.md
   - wiki/dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma.md
   - wiki/dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity.md
@@ -21,9 +23,11 @@ source_wiki:
 tags: [dentin-hypersensitivity, chairside-calculator, treatment-decision, laser, desensitizer]
 notes: |
   단일 HTML, 인라인 CSS/JS, CDN 없음 (오프라인 chairside).
-  로직 출처: shan-2021(LLLT SMD), faraoni-2023(laser 동등), forouzande-2022·naghsh-2024(laser 단기 우월·수렴),
+  로직 출처: correa-2025(≥6mo 장기 SR+MA: Gluma·LLLT 장기효과 1위, 접착·CPP-ACP 장기효과 없음),
+            shan-2021(LLLT SMD), faraoni-2023(laser 동등), forouzande-2022·naghsh-2024(laser 단기 우월·수렴),
             jiang-2022·scheffel-2015(Gluma 치수액 의존·세포독성), joshi-2013(occlusion),
             defreitas-2021·martins-2022(치약). 점수는 근거 기반 휴리스틱 [claude해석] — 처방 대체 아님.
+            2026-06-27 verify: correa-2025 장기 SR+MA 반영 — 장기(≥6mo) 요구 시 Gluma·LLLT durLong 가중 상향.
 ---
 -->
 <!DOCTYPE html>
@@ -119,19 +123,19 @@ notes: |
 <script>
 // 옵션 데이터 — 근거 inline. score 기여 휴리스틱 [claude해석]
 const OPTS = [
-  { name:"Er,Cr:YSGG / 고출력 레이저", env:"office", axis:"both",
-    base:72, durLong:18, durShort:10, ev:"SR+MA·RCT",
-    cite:"forouzande-2022 RCT: NaF varnish보다 우월(6mo) · faraoni-2023 SR+MA: 고·저출력 동등 · shan-2021: LLLT placebo 대비 SMD 1.09→2.86",
-    note:"단독 또는 Gluma 병용. 표준 프로토콜 미확립(faraoni)." },
+  { name:"Er,Cr:YSGG / 고출력 레이저 (LLLT)", env:"office", axis:"both",
+    base:72, durLong:24, durShort:10, ev:"SR+MA·RCT",
+    cite:"correa-2025 SR+MA(≥6mo): LLLT가 Gluma와 함께 장기효과 1위 · forouzande-2022 RCT: NaF varnish보다 우월(6mo) · faraoni-2023 SR+MA: 고·저출력 동등 · shan-2021: LLLT placebo 대비 SMD 1.09→2.86",
+    note:"단독 또는 Gluma 병용. 장기효과 최상위(correa-2025)이나 표준 프로토콜 미확립(faraoni)." },
   { name:"980nm Diode 레이저", env:"office", axis:"both",
-    base:64, durLong:6, durShort:20, ev:"RCT",
-    cite:"naghsh-2024 RCT: 1개월 VAS 최저(단기 우월), 3개월엔 군간 차 소실(수렴)",
-    note:"즉시·단기 완화에 강점, 장기 우월성은 chemical과 수렴." },
+    base:64, durLong:14, durShort:20, ev:"RCT",
+    cite:"naghsh-2024 RCT: 1개월 VAS 최저(단기 우월), 3개월엔 군간 차 소실(수렴) · correa-2025 SR+MA: LLLT는 장기효과 1위 군에 속함",
+    note:"즉시·단기 완화에 강점. LLLT 계열로 장기효과는 양호하나(correa-2025) 단기 우월성은 chemical과 수렴(naghsh-2024)." },
   { name:"Gluma (HEMA/글루타르알데히드)", env:"office", axis:"occ",
-    base:62, durLong:8, durShort:8, ev:"in-vitro",
+    base:62, durLong:22, durShort:8, ev:"SR+MA",
     pulpPenalty:32, caution:true,
-    cite:"jiang-2022: 세관폐쇄가 치수액(단백)에 의존 + 세포독성 · scheffel-2015: 농도의존 경상아질 세포독성",
-    note:"효과는 치수액 존재 시 발현. 치수 인접 시 농도·노출 주의." },
+    cite:"correa-2025 SR+MA(≥6mo): 글루타르알데히드가 LLLT와 함께 장기효과 1위 · jiang-2022: 세관폐쇄가 치수액(단백)에 의존 + 세포독성 · scheffel-2015: 농도의존 경상아질 세포독성",
+    note:"장기효과 최상위(correa-2025). 단 효과는 치수액 존재 시 발현하고 치수 인접 시 농도·노출 주의(scheffel-2015)." },
   { name:"NaF varnish 5% (in-office)", env:"office", axis:"occ",
     base:54, durLong:4, durShort:10, ev:"RCT",
     cite:"forouzande-2022: 유의 감소하나 레이저 대비 1주~6개월 열위 · shan-2021: LLLT가 fluoride보다 우월",
@@ -204,6 +208,6 @@ function render(){
 }
 render();
 </script>
-<p class="foot">출처 페이지: wiki/dentin-hypersensitivity/ (shan-2021, faraoni-2023, forouzande-2022, naghsh-2024, jiang-2022, scheffel-2015, joshi-2013, defreitas-2021, martins-2022, ramli-2022, li-2026) · wiki/overviews/dentin-hypersensitivity-overview.md</p>
+<p class="foot">출처 페이지: wiki/dentin-hypersensitivity/ (correa-2025, shan-2021, faraoni-2023, forouzande-2022, naghsh-2024, jiang-2022, scheffel-2015, joshi-2013, defreitas-2021, martins-2022, ramli-2022, li-2026) · wiki/overviews/dentin-hypersensitivity-overview.md</p>
 </body>
 </html>
