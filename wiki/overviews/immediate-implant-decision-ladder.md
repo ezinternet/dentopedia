@@ -26,6 +26,11 @@ tags: [immediate-implant, type-1, iipp, socket-shield, esthetic-zone, loading, d
 > - Loading 결정은 timing 자체가 아니라 1차 안정성이 핵심: immediate loading(≤72h)은 ≥35 Ncm+단일치+교합 비기능, early(1–8w)는 25–35 Ncm+ISQ ≥70, conventional은 <25 Ncm+GBR 동반.
 > - 구치부 IIP: 생존율 ≥97%, 지연식립과 동등. 치근간 중격(inter-radicular septum) 활용+1차 안정성이 결정 변수. 6주 조기부하 가능(Botros 2025). 중격 골량 부족 시 골밀도화(Osseodensification, OD)로 확장.
 > - 치근단 병변(periapical pathology) socket도 적극 debridement+술전 amoxicillin 2g 동반 시 비감염치와 동등(Pranckeviciene 2024) — "병변 있으면 무조건 ARP"는 오판.
+> - 1차 안정성 술식: 발치와에서 축경 드릴링(undersized drilling, UD)은 즉시식립 1차 안정성을 유의하게 못 올린다 — UD가 삽입토크(Insertion Torque, IT)는 약간↑(41.4 vs 38.4 Ncm, NS)지만 공명주파수분석(Resonance Frequency Analysis, RFA)·임플란트 안정성 지수(Implant Stability Quotient, ISQ)는 오히려 통상군이 모든 시점 우위(Sierra-Rebolledo 2021 RCT) → IT와 ISQ는 호환 surrogate 아님.
+> - 낮은/없는 1차 안정성도 절대 금기 아님: 무피판 즉시 SLA 16개(IT<10 Ncm·초기 ISQ<55, 6개는 회전)가 ISQ 42.2→68.7 상승·평균 65개월 생존 100%(Jang 2025) — "ISQ 절대값보다 상승 궤적이 중요", 축경 드릴+골이식+치유기간 연장으로 2차 안정성이 보상.
+> - 부위별 즉시식립 생존(tapered SLA 골수준): 5년 누적 93.9% — 하악 전 부위·상하악 소구치 100%, 상악 전치 최저(85.4%), 실패 3건 전부 상악동 병변 연관(Aung 2024) → 상악동 병변 socket은 지연식립+거상.
+> - 상악 대구치 즉시식립 가이드: 치조골 높이(Alveolar Bone Height, ABH) A/B/C × 치근간중격(interradicular septum) I/II/III 짝 분류로 거상·골이식·광경(wide) 임플란트 결정, 생존 93.1%(Mustakim 2023) — 중격 Type III(부재)는 wide implant로 socket 벽 engage.
+> - 상악 소구치 즉시식립 천공 위험: 보철주도(prosthetically-driven) 축은 84.1%, 골주도(bone-driven) 최적 축도 40.5%가 순측/비강/상악동 천공(전치부 ~5.6% 대비 높음) — 천공 회피에 평균 18.3° 순측경사 필요(Najm 2024 CBCT) → 술전 CBCT 필수·custom angled/ASC abutment 대비.
 > - 한국 임상 조정: Bio-Oss + Cytoplast dPTFE 기본 GBR set-up(1.0g+1매 약 35–40만원 환자 부담), immediate provisional crown 보험 미적용(약 30–50만원), Socket Shield는 국내 학회 공식 인정 절차 없음.
 > - 근거 등급: 축 1 timing·축 2 site·축 3 술식·축 5 loading 모두 [근거강함]. 축 4 SST는 [합의수준]+합병증 인지. 한국 가용성·비용은 [미검증].
 
@@ -101,6 +106,8 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 | [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] | sr (20편 525 implant) | BBT 온전 1.10-3.18mm vs 비온전 1.18-3.00mm. 생존 ≥90% 모두 |
 | [[immediate-implant/pranckeviciene-2024-immediate-implant-periapical-pathology-sr-ma]] | sr+ma | Periapical 병변 socket IIP — 적절한 debridement·항생제 동반 시 비감염치 동등 |
 | [[immediate-implant/esthetic-soft-tissue/qian-2023-iip-buccal-bone-dehiscence-anterior-maxilla]] | prospective (1y) | 협측 골열개 + 적절한 GBR → 임상·방사선·심미 수용 가능 |
+| [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] | retrospective (49 imp, 7.4y) | 부위별 5y 생존 — 하악·소구치 100%, 상악 전치 85.4% 최저; 실패 3건 모두 상악동 병변 |
+| [[immediate-implant/najm-2024-immediate-implant-premolar-perforation-cbct]] | cross-sectional (716 premolars CBCT) | 소구치 IIP 천공 — 보철주도 84.1% vs 골주도 40.5%; 회피에 평균 18.3° 순측경사 |
 
 **임상 ladder (site 결정)**:
 1. **Ideal IIP site** — 협측 plate ≥ 1mm intact + 4벽 socket + 잔존 골 길이 ≥ 5mm (apex 아래).
@@ -115,6 +122,10 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 **보강 근거 — sagittal root position(SRP) CBCT 해부.** 전치부 IIP 가능 여부는 치근-치조 관계(SRP class)와 협측 벽 두께에 좌우되며, 이 분포는 다인종 코호트에서 반복 확인된다: 원형 SRP 분류는 [[immediate-implant/kan-2011-sagittal-root-position-immediate-implant-anterior]]가 정의했고, 한국인([[immediate-implant/kong-2020-srp-maxillary-anterior-korean-population]]), 브라질인([[immediate-implant/rodrigues-2022-srp-brazilian-anterior-bone-housing-isd]]·[[immediate-implant/rodrigues-2022-srp-periodontal-phenotype-anterior-maxillary]]), 페루인([[immediate-implant/espinoza-espinoza-2023-srp-alveolar-wall-thickness-peruvian]]) 집단에서 Class I(협측 근접)이 다수임이 일관된다. 보조 해부 변수로 치근 경사·순측 골 두께([[immediate-implant/petaibunlue-2019-anterior-arch-root-position-angulation]], [[immediate-implant/dossantos-2019-buccal-bone-root-inclination-alveolar-cbct]], [[immediate-implant/altarawneh-2018-bone-dimensions-anterior-maxilla-cbct]], [[immediate-implant/lei-2022-alveolar-bone-width-sagittal-tooth]], [[immediate-implant/esthetic-soft-tissue/yang-2019-labial-bone-thickness-esthetics-iipp]]), 절치관 인접도([[immediate-implant/panda-2018-cbct-incisive-canal-anterior-maxillary]]), SRP 기반 의사결정·치료계획([[immediate-implant/habib-2024-srp-decision-making-immediate-implant-cbct]], [[immediate-implant/abdul-2024-srp-maxillary-mandibular-anterior-cbct]], [[immediate-implant/aldahlawi-2023-cbct-alveolar-bone-maxillary-mandibular-molars]])이 있다. → **임상 함의**: 식립 전 CBCT로 SRP class를 먼저 분류하고, Class I이라도 협측 천공 위험이 높으면 palatal trajectory로 식립한다. [합의수준]
 
 **보강 근거 — periapical pathology socket.** 술전 치근단 병소가 있는 socket의 IIP는 적절한 debridement 동반 시 가능하다는 Pranckeviciene 2024 결론을 후향 코호트가 뒷받침한다([[immediate-implant/colak-2023-immediate-implant-periapical-pathology-retrospective]]), 치주염 병력 socket에서도 단기 생존이 보고된다([[immediate-implant/li-2025-immediate-implant-periodontitis-short-term-retrospective]]). [claude해석] 단 장기 데이터는 여전히 부족.
+
+**보강 근거 — 부위별 위험과 상악동 병변 flag.** site selection은 협측벽뿐 아니라 악골 부위에도 강하게 좌우된다. Aung 2024 (단일 술자 후향, tapered SLA 골수준 49개, 평균 7.4y)는 즉시식립의 부위별 5년 생존을 지도화했다 — 하악 전 부위·상하악 소구치 100%, 상악 대구치 95.8%, **상악 전치 85.4%로 최저**이며, 3건의 실패가 모두 **상악동 병변(부비동염·기낭화·기왕 sinus 수술)** 연관이었다. → **임상 함의**: 즉시식립은 하악·소구치에서 가장 예측 가능하고 상악 전치/대구치는 case selection이 엄격해야 하며, **상악동 병변이 있는 socket은 즉시식립보다 sinus lift/graft 동반 지연식립을 우선**한다. [합의수준] (이 SLA 표면에서는 흥미롭게도 변연골이 소실이 아닌 5년에 걸친 점진적 증가를 보였다.)
+
+**보강 근거 — 상악 소구치 천공 위험.** 상악 소구치 IIP는 전치부보다 천공 위험이 훨씬 높다. Najm 2024 (CBCT 가상 식립, 716 소구치)는 같은 socket에 보철주도(prosthetically-driven) vs 골주도(bone-driven) 축을 비교해, 보철주도는 **84.1%**, 최적화한 골주도 축조차 **40.5%**에서 순측/비강/상악동 천공이 발생함을 보였다 (전치부 기존 보고 ~5.6% 대비 현저히 높음). 천공을 피하려면 평균 **18.3°의 순측경사(ILAA)**가 필요해 — 대부분의 소구치 IIP 단일치는 custom angled 또는 angled-screw-channel(ASC) abutment를 요한다. 위험인자는 여성·고령·치근첨-구조물 거리 짧음·작은 순측 함몰각(Labial Concavity Angle, LCA). → **임상 함의**: 소구치 IIP는 2D 방사선으로는 천공 위험이 안 보이므로 **술전 CBCT가 필수**이며, 보철주도 이상축은 거의 달성 불가하다고 전제하고 골주도+각형 보철로 계획한다. [근거강함]
 
 ### 축 3 — Surgical Execution (Flap·Position·Jumping Gap·GBR)
 
@@ -134,6 +145,9 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 | [[immediate-implant/stagnaro-borgia-2022-immediate-implant-buccal-defect-tuberosity-rct]] | rct (1y) | 협측 결손 자가골 (결절) vs 이종골 → 동등 (협측 흡수 0.61 vs 0.58 mm) |
 | [[immediate-implant/bouffleur-2026-open-vs-closed-healing-immediate-implant-rct]] | rct (n=94) | Open vs closed healing — open이 PES 유의하게 우수 |
 | [[immediate-implant/elsheikh-2023-prf-xenograft-alloplastic-immediate-implant]] | rct | Jumping gap PRF·이종골·합성골 — 모두 수용 가능 |
+| [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] | rct (n=30) | 축경 드릴링 — IT 약간↑(NS), RFA/ISQ는 통상군 우위; 즉시식립 1차 안정성 유의 개선 못 함 |
+| [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] | retrospective (16 imp) | 무피판 + 낮은 1차 안정성(IT<10 Ncm·ISQ<55) → ISQ 42.2→68.7, 65mo 생존 100% |
+| [[immediate-implant/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] | retrospective (148 imp) | 상악 대구치 — ABH A/B/C × septum I/II/III 가이드, 생존 93.1% |
 
 **임상 ladder (술식 선택)**:
 1. **Type 1 + 4벽 socket** → Flapless + palatal position (협측에서 ≥2mm) + jumping gap 이종골 충전 + immediate provisional (가능 시).
@@ -146,6 +160,10 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 **오판 패턴**: "Flap 거상하면 협측골 흡수 더 큼" — Pitman 2023 SR+MA에서 flap vs flapless 차이가 술자·결손도에 의존. 결손 ≥2mm는 flap이 더 유리. [합의수준]
 
 **보강 근거 — 구치부 IIP와 inter-radicular septum.** 구치부 IIP의 1차 안정성은 치근간 중격(inter-radicular septum)에 implant를 정착시켜 얻는다. 중격 형태의 분류·식립 가능성 평가가 선행돼야 한다([[immediate-implant/milenkovic-2022-interradicular-septum-classification-iip]], [[immediate-implant/pavlovic-2022-interradicular-septum-morphology-molar-iip]]), 발치 분류 기반 IIP 결정([[immediate-implant/smith-2013-classification-molar-extraction-immediate-implant]]), 구치부 IIP CBCT 평가([[immediate-implant/deporter-2021-cbct-immediate-maxillary-molar-implant]]), 구개근 socket 활용([[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]], [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]]). 중격 골량이 부족하면 osseodensification으로 중격을 확장·치밀화해 1차 안정성을 확보한다([[immediate-implant/bleyan-2021-molar-septum-expansion-osseodensification-immediate-implant]], [[immediate-implant/darosa-2019-immediate-dentoalveolar-restoration-osseodensification-periodontal]]). → 이는 골밀도화(Osseodensification, OD) 일반 근거와 연결된다(아래 인접 overview). [합의수준]
+
+이를 **상악 대구치**에 한정해 operational 가이드로 구체화한 것이 Mustakim 2023 (단일기관 후향, 148 즉시 상악대구치 implant, 정밀분석 29 tapered-SLA, 생존 93.1%)이다. 두 축을 짝지어 술식을 결정한다 — **수직축 ABH(Alveolar Bone Height, 치조정→상악동저)**: Grade A(>8 mm, 거상 불필요) / B(6–8 mm, 긴 implant 위해 socket lift) / C(<6 mm, 거상 필수)로 *apical* 1차 안정성·거상 결정을 지배하고; **측방축 septum**: Type I(implant 지지, 골이식 불필요) / II(약함, 골이식 필요) / III(부재, **wide/ultra-wide implant로 socket 벽 engage**)로 *lateral* 1차 안정성·골이식 결정을 지배한다. 무피판 무외상 발치 + diamond-bur 치근 분리 + sub-crestal 식립 + 6개월 re-entry가 technique anchor이며, 조기 실패(부비동염·치주염)는 광경 implant ± 거상으로 즉시 재식립해 기능했다. → **임상 함의**: 상악 대구치 IIP는 ABH로 거상 여부를, septum type으로 골이식·implant 직경을 결정하는 3×3 매트릭스로 case selection한다. [합의수준]
+
+**보강 근거 — 1차 안정성 확보 술식과 그 한계.** 발치와에서 1차 안정성을 올리려는 두 흔한 전략(축경 드릴링·낮은 안정성 수용)의 근거는 직관과 어긋난다. (1) **축경 드릴링(undersized drilling, UD)**: Sierra-Rebolledo 2021 (상악 전치부 즉시 tapered implant 30개 RCT)은 UD가 즉시식립 1차 안정성을 유의하게 개선하지 못함을 보였다 — UD가 IT를 약간 올렸으나(41.4 vs 38.4 Ncm, p=0.654) RFA/ISQ는 오히려 통상 드릴링군이 모든 시점 우위였고 12주간 군간 ISQ 차이 NS. 높은 IT가 골 압박·발열·초기 remodeling을 유발해 torque가 올라도 RFA 안정성은 깎일 수 있어, **IT와 RFA/ISQ는 호환 가능한 안정성 surrogate가 아니다**(평균 ISQ가 70에 못 미쳐 ~12주 후 부하 권고). (2) **낮은/없는 1차 안정성**: Jang 2025 (무피판 즉시 SLA 16개 후향, IT<10 Ncm·초기 ISQ<55, 6개는 회전)는 1-step 축경 드릴+거의 전례 골이식+필요 시 치유기간 연장(6–14주)으로 ISQ가 42.2→68.7로 상승하고 평균 65개월 생존 100%임을 보였다 — **ISQ 절대 초기값보다 상승 궤적이 임상적 신호**이며, 2차(생물학적) 안정성이 부족한 1차(기계적) 안정성을 구제할 수 있다. → **임상 함의**: 충분한 골이 있는 즉시 상악 implant에 UD는 대개 불필요하고, 낮은 1차 안정성은 절대 금기가 아니라 (undermovement 통제 하) 관리 가능한 조건이다. 단 부하는 ISQ 궤적이 ~70에 도달할 때까지 보류한다. [근거강함(RCT)+claude해석]
 
 ### 축 4 — Soft Tissue Augmentation (CTG·Provisional·Socket Shield)
 
@@ -221,6 +239,11 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 - [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — Two retrospective cohorts (118 patients; 58 complete closure vs 60 open healing) of immediate implant + simultaneous GBR with Bio-Gide: open healing o … (retrospective, 2024)
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — RCT (n=30, 1y): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 62 vs 56–60, MBL·PES 동등; novel macro-design 즉시식립 RCT
 - [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA (4 RCT, 82 임플란트): 발치 전 식립와 형성(pre-extractive) → 즉시 ISQ +3.39, 중심위치 RR 0.05; 3–6mo ISQ 수렴
+- [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — RCT (n=30, 상악 전치 즉시 tapered): 축경 드릴링이 1차 안정성 유의 개선 못 함 — IT 약간↑(NS), RFA/ISQ는 통상군 우위; IT≠RFA surrogate (축 3 primary stability)
+- [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] — 후향 (16 무피판 즉시 SLA, IT<10 Ncm·ISQ<55): ISQ 42.2→68.7, 65mo 생존 100% — 낮은 1차 안정성은 절대 금기 아님, 상승 궤적이 핵심 (축 3·축 5)
+- [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — 후향 (49 tapered SLA 골수준, 7.4y): 부위별 5y 생존 93.9% — 하악·소구치 100%, 상악 전치 85.4% 최저, 실패 3건 전부 상악동 병변 (축 2 positional)
+- [[immediate-implant/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] — 후향 (148 즉시 상악대구치): ABH A/B/C × septum I/II/III 가이드, 생존 93.1% (축 2·축 3 molar)
+- [[immediate-implant/najm-2024-immediate-implant-premolar-perforation-cbct]] — CBCT 가상 (716 소구치): 보철주도 84.1% vs 골주도 40.5% 천공, 회피에 평균 18.3° 순측경사 — 술전 CBCT 필수 (축 2 site)
 
 ### spine (본문 인용)
 
@@ -326,6 +349,8 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 - [[immediate-implant/liu-2024-maxillary-immediate-molar-palatal-root-socket]]
 - [[immediate-implant/yaghmai-2025-palatal-root-socket-all-on-x]]
 - [[immediate-implant/kheur-2024-feasibility-iip-maxillary-first-premolars]]
+- [[immediate-implant/mustakim-2023-immediate-implant-maxillary-molar-guidelines]] — 후향 (148 즉시 상악대구치, 정밀분석 29 tapered-SLA, 생존 93.1%): ABH(치조정→상악동저) A/B/C 등급 × interradicular septum I/II/III 유형 짝 분류 — 거상·골이식·wide implant 결정 3×3 매트릭스; septum III(부재)는 wide/ultra-wide로 socket 벽 engage; 6mo re-entry
+- [[immediate-implant/najm-2024-immediate-implant-premolar-perforation-cbct]] — CBCT 가상 (716 상악 소구치): 즉시식립 천공 — 보철주도 84.1% vs 골주도 40.5% (전치부 ~5.6% 대비 높음); 회피에 평균 18.3° 순측경사(ILAA) 필요 → custom angled/ASC abutment·술전 CBCT 필수; 여성·고령·짧은 치근첨 거리·작은 LCA가 위험인자
 - [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA (4 RCT, n=82): 발치 전 식립와 형성 기법이 즉시식립 직후 ISQ +3.39 (p<.0001) 및 중심위치 달성 RR 0.05 — 발치 후 기법 대비 초기 안정성·위치 정확성 우위; 3–6개월 후 ISQ 수렴
 
 **Healing biology / Socket modeling**:
@@ -335,6 +360,9 @@ Synthesis/decision-ladder over the immediate implant placement (IIP) literature 
 
 **Primary stability / Macro-design**:
 - [[immediate-implant/stanley-2020-five-thread-guideline-predicting-primary]] — 5-thread guideline
+- [[immediate-implant/sierra-rebolledo-2021-undersized-drilling-immediate-tapered-implants-maxilla]] — RCT (n=30): 축경 드릴링이 즉시 상악 1차 안정성 유의 개선 못 함 — IT(41.4 vs 38.4 Ncm, NS)와 RFA/ISQ(통상군 우위) dissociation; UD 대개 불필요
+- [[immediate-implant/jang-2025-flapless-immediate-implant-low-primary-stability]] — 후향 (16 무피판 즉시 SLA, IT<10 Ncm·초기 ISQ<55): ISQ 42.2→68.7 상승·65mo 생존 100% — 낮은 1차 안정성도 2차 안정성으로 구제 가능, 상승 궤적이 절대값보다 중요
+- [[immediate-implant/aung-2024-tapered-sla-immediate-implant-survival]] — 후향 (49 tapered SLA 골수준, 평균 7.4y): 즉시식립 5y 부위별 생존 93.9% (하악·소구치 100%, 상악 전치 85.4% 최저); 실패 전부 상악동 병변; SLA 표면 변연골 5y 점진 증가
 - [[immediate-implant/esthetic-soft-tissue/ostman-2020-macro-hybrid-implant-anterior-postextraction]]
 - [[immediate-implant/chu-2020-itrt-platform-switched-subcrestal-angle-correction]]
 - [[immediate-implant/galve-huertas-2026-inverted-body-shift-vs-conical-rct]] — 단일맹검 RCT (n=30, 1y, 상악 전치부): inverted body-shift (Inverta co-axis 12°) vs 통상 conical — 생존 100%, ISQ 중앙값 62 vs 56–60 (NS), MBL·PES 동등; inverted 설계의 중앙 소켓 위치가 협측 gap 공간·구개 스크류 접근 이점 제공; ISQ ≥62 즉시 가편의 기준 재확인
