@@ -16,6 +16,8 @@ relations:
     target: sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus
   - type: reinforces
     target: sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence
+text_path: /Users/oracleneo/llm-wiki/papers/khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening.txt
+text_filename: khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening.txt
 ---
 
 ## One-line Summary
