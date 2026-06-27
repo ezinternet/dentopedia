@@ -1,0 +1,116 @@
+Title: Evaluation of complication rates and vertical bone gain after guided bone regeneration with non-resorbable membranes versus titanium meshes and resorbable membranes. A randomized clinical trial.
+Authors: Cucchi A, Vignudelli E, Napolitano A, Marchetti C, Corinaldesi G
+Journal: Clinical Implant Dentistry and Related Research
+Year: 2017
+DOI: 10.1111/cid.12520
+PMID: 28745035
+PMCID: PMC5655714
+
+[FULL TEXT — PMC open access]
+
+BACKGROUND / AIM
+Pilot, parallel-group, double-blind RCT comparing two GBR approaches for atrophic posterior mandible:
+- Group A (n=20): d-PTFE titanium-reinforced membrane (Cytoplast Ti-250XL; Osteogenics Biomedical) — non-resorbable, space-maintaining on its own
+- Group B (n=20): Ti mesh (Trinon Titanium GmbH) + cross-linked collagen membrane (Osseoguard, Zimmer Biomet) — Ti mesh for space maintenance + XL collagen as GBR barrier cover
+
+KEY CLINICAL QUESTION: Is Ti mesh + cross-linked collagen equivalent to d-PTFE Ti-reinforced membrane for VRA in the posterior mandible?
+
+METHODS
+
+Study design: Pilot, parallel, double-blind RCT; Bologna, Italy; Ethics 30/2013/O/Disp
+N=40 patients, 108 implants placed simultaneously with GBR (one-stage approach)
+Follow-up: T0 (surgery) → T1 (reopening, 9 months) → T2 (loading, ~3 months after T1)
+
+Inclusion:
+- Partial edentulism, atrophic posterior mandible
+- Vertical + horizontal bone resorption requiring 3D bone regeneration
+- Vertical peri-implant bone defect ≥ 2 mm (after implant placement in ideal prosthetic position)
+
+Exclusion: residual bone height <5 mm, smokers >10 cig/day, systemic disease, immunosuppression, bisphosphonates
+
+Implants: BT SAFE tapered, double-variable thread, double-acid-etched (DAE) surface (Biotec srl)
+Graft: 50:50 autogenous bone (bone scraper, external oblique ridge) + bone allograft (EnCore, Osteogenics)
+Decortication: yes (cortical perforations)
+Fixation: mini-screws (lingual then buccal)
+Group B only: cross-linked collagen membrane (Osseoguard) placed OVER Ti mesh per GBR principles
+Suture: Cytoplast PTFE; primary tension-free closure required
+
+VBG measurement: UNC-15 probe at 4 sites (mesial, distal, buccal, lingual) around each implant
+- IBD (initial bone defect, T0) = distance from implant top to first bone-implant contact
+- FBD (final bone defect, T1) = same measurement after healing
+- VBG = IBD - FBD
+
+Complication classification (Fontana et al. 2011):
+Surgical: Class A (vascular) / Class B (neurological) / Class C (flap)
+Healing: Class I (no exposure) to Class IV (abscess without exposure)
++ Major vs Minor: based on impact on newly formed bone
+
+RESULTS
+
+PRIMARY IMPLANT STABILITY
+- IT: 80.0 Ncm (A) vs 79.0 Ncm (B) — NS
+- RFA (ISQ): 87.0 (A) vs 84.5 (B) — NS
+- All 108 implants: 97.2% showed IT >35 Ncm and ISQ >60
+- At T1: all implants osseointegrated; ISQ 71.0 (A) vs 66.5 (B) — NS
+
+SURGICAL COMPLICATIONS
+- Group A (d-PTFE): 5.0% (1/20) — 1 temporary mental nerve paresthesia
+- Group B (Ti mesh + XL collagen): 15.8% (3/19) — 3 temporary paresthesias
+- p = 0.34 (NS) — but d-PTFE numerically better
+- All neurological complications spontaneously recovered within 1 month
+- KEY REASON: Ti mesh required more surgical time and manipulation for adaptation/seating
+
+HEALING COMPLICATIONS
+- Group A: 15.0% (3/20)
+  - 0-1mo: abscess without exposure (Class IV, Major)
+  - 1-3mo: early membrane exposure + infection (Class III, Major) → complete failure
+  - 3-6mo: late membrane exposure without infection (Class II, Minor) → no bone impact
+  - Major: 10.0% (2/20)
+- Group B: 21.1% (4/19)
+  - 0-1mo: abscess without exposure (Class IV, Major) + early exposure + infection (Class III, Major) → failure
+  - 1-3mo: late exposure + infection (Class III, Major) → Ti mesh removed, implants retained
+  - 3-6mo: late exposure without infection (Class II, Minor)
+  - Major: 15.8% (3/19)
+- p = 0.69 (NS) — no significant difference in overall or major/minor rates
+
+VERTICAL BONE GAIN (VBG)
+| Site     | Group A (d-PTFE)  | Group B (Ti mesh + XL collagen) |
+|----------|-------------------|--------------------------------|
+| Mesial   | 3.6 ± 1.2 mm      | 3.3 ± 1.0 mm                   |
+| Lingual  | 4.2 ± 1.2 mm      | 3.8 ± 0.8 mm                   |
+| Distal   | 4.1 ± 1.0 mm      | 4.0 ± 1.0 mm                   |
+| Buccal   | 5.0 ± 1.0 mm      | 5.1 ± 1.4 mm                   |
+| MEAN     | 4.2 ± 1.0 mm      | 4.1 ± 1.0 mm                   |
+
+- p = 0.58 (NS) — virtually identical VBG
+
+- Supra-implant bone overgrowth: 63.0% (A) vs 61.4% (B) — NS
+- Partial bone regeneration with residual defect: 25.9% (A) vs 22.7% (B) — NS
+- Both groups: residual defects always at buccal sites
+
+DISCUSSION INSIGHTS
+
+Ti mesh handling:
+"d-PTFE membranes were shaped, adapted, and stabilized more readily and quickly than Ti mesh devices. Additionally, during reopening surgery, Ti mesh required more time and more effort than d-PTFE membranes. Thus, d-PTFE showed better manageability and ease of use and required less dexterity and fewer manual skills."
+
+Exposure and bone loss relationship for Ti mesh:
+"In the case of Ti mesh exposure, the lack of bone volume was significantly positively correlated with the area of mesh exposed, with a 16.3% deficit in bone volume for every cm² of mesh exposed."
+
+Abscess (without exposure):
+"Abscess formation in both groups occurred during the first postoperative month, probably due to bacterial contamination of the barrier device during membrane handling or bacterial contamination of the graft."
+
+Late exposure:
+"Late exposure of the barrier devices did not influence bone regeneration in either group." → consistent with Abu-Mostafa SR (4-week threshold)
+
+One major difference in Group B: when Ti mesh was removed due to late infection exposure → IMPLANTS RETAINED IN SITU (GBR revision possible without losing implants).
+
+CONCLUSIONS
+
+Both d-PTFE Ti-reinforced membranes and Ti mesh + cross-linked collagen membranes produced:
+- Similar healing complication rates (15.0% vs 21.1%, NS)
+- Similar VBG (4.2 vs 4.1 mm, NS)
+- Similar implant stability and osseointegration
+
+Difference: d-PTFE membranes showed fewer surgical complications (5% vs 15.8%, NS but lower) and easier handling. Ti mesh required more surgical dexterity, longer handling time, and caused more neurological injuries during manipulation.
+
+IMPLICATION: d-PTFE Ti-reinforced membrane is an effective alternative to Ti mesh + cross-linked collagen, with potentially simpler surgery. Cross-linked collagen used here as a COVER over Ti mesh (not standalone for VRA).
