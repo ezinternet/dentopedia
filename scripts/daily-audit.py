@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 12 audits and writes their logs to logs/.
+One entry-point that runs all 13 audits and writes their logs to logs/.
 
 Three classic audits (errors):
   - lint.py                  → wiki frontmatter sanity
@@ -23,6 +23,11 @@ One supersession + decay signal (non-blocking):
 Two graph/integrity signals (non-blocking):
   - relations-audit.py    → typed relation targets, vocab, typed-edge JSON export
   - link-integrity.py     → broken body wikilinks, index.md two-way coverage
+
+One interactive-tool freshness signal (non-blocking):
+  - interactive-staleness.py → clinical interactive's source_wiki newer than tool
+                               (STALE → LLM re-author candidate) or BROKEN source path.
+                               meta/stats tools excluded (build-wiki-stats.py regenerates them).
 
 Exit code:
     0 if all classic audits + ingest-rationale pass.
@@ -55,6 +60,7 @@ AUDITS = [
     ("supersession-audit.py",        [],       False),
     ("relations-audit.py",           [],       False),
     ("link-integrity.py",            [],       False),
+    ("interactive-staleness.py",     [],       False),
 ]
 
 
@@ -94,7 +100,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
