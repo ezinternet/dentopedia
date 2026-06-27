@@ -1,0 +1,80 @@
+Worldwide Review of Dental Hygienists' Extended Scope of Practice in Radiology
+Bozia M, Berkhout E, van der Weijden F, Slot DE
+Int Dent J 2021;72(3):373-380. DOI: 10.1016/j.identj.2021.05.010
+PMID: 34243959 ; PMCID: PMC9275197
+
+Source: PubMed Central (PMC9275197) full text via PubMed MCP.
+
+== ABSTRACT ==
+
+Objectives
+This study aimed to summarise the competencies and legal position of the dental hygienist (DH) regarding oral radiology through a worldwide review.
+
+Methods
+A structured and peer-reviewed online questionnaire of 27 questions was developed. This was emailed to all DH associations that are members of the International Federation of Dental Hygienists (IFDH) or European Dental Hygienists Federation (EDHF). After obtaining the data, all responding associations were contacted to confirm that the data were summarised in the correct order and were asked to provide further clarification of answers if necessary. A descriptive analysis was performed to summarise the data.
+
+Results
+The response rate was 84%, as 26 out of 31 countries completed the questionnaire. In 78% of the countries, the DH can legally take intraoral radiographs, but in 42% of the countries, the dentist first needs to provide a referral or indication for a radiograph. In 46% of the countries, the DH may not formulate a diagnosis based on a radiograph. In only 27% of the countries, the DH can independently own radiographic equipment.
+
+Conclusions
+The required qualifications, skills, and scope of practice of the DH regarding oral radiology vary by country and, within some countries, even vary by state or province.
+
+== INTRODUCTION ==
+
+The oral health care domain has a substantial variety of professions, with the oral surgeon, dentist, and dental hygienist (DH) being the most prominent. The DH profession has evolved since its establishment and continues to do so. Several studies have been published regarding the scope of practice of DHs. The profession and its development are globally diverse. As stated in the 21-nation comparative study by Johnson on the international profiles of DHs from 1987 to 2006, work roles and relationships have been evolving from the dentist-predominant, DH-as-auxiliary model to a more collegial model that involves greater collaboration in patient care.
+
+The evolving DH profession in the Netherlands is mostly due to new legislation that extends the scope of practice by shifting and redistributing tasks. Recently, the Dutch Ministry of Health and Welfare announced a redistribution of specific oral health care tasks between the dentist and DH. This redistribution consists of granting, based on strict criteria, selected DHs independency for treating primary caries and cavities, administering local anaesthesia, and using ionising radiation for intra-oral radiology. The DH is increasingly becoming an independent dental care professional without the need for supervision by a dentist, as predicted by Johnson et al. However, it has also been suggested that the evolution of the dental hygiene profession and its influence in terms of health outcomes and other effects merit further investigation. Such an investigation has not been performed for more than a decade.
+
+Although the use of ionising radiation is associated with health hazard safety issues, little is known about the awareness and subsequent related behaviour of DHs concerning this matter. The worldwide regulations for the DH profession in using ionising radiation are unknown. These tasks have traditionally been primarily within the dentist's scope of practice. A worldwide assessment of DH practice in oral radiology and on the topic of competencies and their legal position is currently lacking. Such a review could be helpful for future guidelines, continental alliances, national regulations, professional development, and policy making, and can help formulate common frameworks. Therefore, this study aimed to summarise the scope of practice of the DH regarding oral radiology through a worldwide review.
+
+== MATERIALS AND METHODS ==
+
+Study outline, guidelines, and ethics
+This paper is part of the project "Worldwide Dental Hygienists Extended Scope of Practice." The study was ethically approved by the Institutional Review and Ethics Board of the Academic Centre for Dentistry Amsterdam (ACTA; reference code 201913). Prepared according to STROBE and CHERRIES (Checklist for Reporting Results of Internet E-Surveys) guidelines.
+
+Target group
+All national dental hygiene associations that were members of IFDH or EDHF in 2018 were contacted (31 countries).
+
+Questionnaire development
+A 27-item online questionnaire was developed; scoping exercise + pilot study. Completed and reviewed by 5 DHs from different countries; peer-reviewed by the IFDH, EDHF, and the Dutch Dental Hygienist Association (NVM). Included general questions (education, independent practice, task-delegating authority, indirect access) and questions on legal status of tasks in oral radiology, cariology, and anaesthesia. Combination of open- and closed-ended questions.
+
+Procedure
+Questionnaire entered in Google Forms; only emailed link-holders could complete. Emailed November 2018; 4-week response window, follow-up by phone/reminder email; closed end of December 2018. Data auto-saved, exported to Excel. After data collection, all responding associations were contacted to validate the summary (validation email response rate 79%). Descriptive analysis.
+
+== RESULTS ==
+
+Out of 31 countries, 26 (84%) responded; all returned questionnaires were complete and eligible. Germany, Korea, Nepal, New Zealand, and the United Arab Emirates did not respond.
+
+General questions: In all but one country the DH is an officially recognised dental care professional (only Austria does not recognise the DH profession yet is an IFDH/EDHF member). In 58% of the 26 countries the DH may work independently without dentist supervision; direct access to a DH allowed in 54%. Highest DH education level for the majority is a diploma or bachelor's degree.
+
+Radiology: In 77% of the countries, DHs are allowed to take radiographs; in 6 countries (Austria, Czech Republic, Italy, Japan, Russia, Slovakia) DHs are not allowed to take radiographs. Of those who can take a radiograph, 45% do not need a referral, 30% require a referral from a dentist (unclear for Latvia, Poland, Singapore, Spain). In 42% of countries the DH can indicate a radiograph; in 50% the DH may make a diagnosis from a radiograph; in only 31% can the DH do both.
+
+[Note: The structured abstract reports 78% take intraoral radiographs and 46% may NOT formulate a diagnosis — the body text reports 77% take radiographs and 50% may make a diagnosis (i.e. 50% may not). Slight reporting discrepancy between abstract and body.]
+
+Extraoral radiographs: Sweden and Israel do not allow DHs to take panoramic radiographs (contrast Poland, where only panoramic radiographs are allowed). In Australia, South Africa, Spain, Switzerland, and the US the DH can take Cone Beam Computed Tomography (CBCT) scans.
+
+Equipment ownership: In 27% of countries a DH can legally own radiographic equipment; in those countries DHs can also indicate and take radiographs (except Lithuania). DHs can take radiographs but cannot indicate in Finland, Ireland, Latvia, Lithuania, Malta, the Netherlands, Poland, Singapore, and Spain. DHs can take radiographs but may not diagnose in Finland, Latvia, Ireland, Lithuania, Spain, Singapore, or the US.
+
+Full task set: In 5 countries (19%) the full set is allowed — DH may own equipment, indicate AND take radiographs, and make a diagnosis with radiographs.
+
+== DISCUSSION ==
+
+Qualifications, skills, and scope regarding oral radiology vary by country. Response rate 84%. Worldwide, no homogenous legal position exists regarding radiology performed by a DH. Legislation in Australia, Canada, Switzerland, and the US is multi-jurisdictional / regional — scope differs across the 50 US states and across Canadian provinces; data from these countries are summarised as the common minimum tasks allowed in most states/provinces.
+
+The dental therapist (DT) profession (US, New Zealand, Australia, Canada, UK) is a complicating factor; in some countries DH and DT are combined into one training/profession (e.g., the Netherlands). Little is known about DHs' independent use of ionising radiation. A consensus statement on a common European curriculum for DH reports three European countries permit DHs to indicate radiographs. The British Society of Dental and Maxillofacial Radiology considers occlusal, dental panoramic, and skull views should remain outside DH scope. In the Netherlands, a selected group of DHs with a bachelor's degree and adjunct training no longer need a dentist referral to take intra-oral radiographs (can indicate themselves), but a dentist's oversight is still needed for extra-oral radiographs.
+
+== LIMITATIONS ==
+
+Results may differ from daily practice (illegal provision of oral care). In some countries no legal regulations exist on DHs taking radiographs. Large-population countries in Asia and South America were not represented (not affiliated with the international DH association → did not meet inclusion criteria). In some countries the DH profession does not exist.
+
+== RECOMMENDATIONS ==
+
+Align legal position and minimum competencies worldwide to ease DH mobility across nations; develop a worldwide common framework as a first step; further research in countries not included. EDHF's common European curriculum contributes to this.
+
+== CONCLUSIONS ==
+
+The required qualifications, skills, and scope of practice of the DH regarding oral radiology vary by country and, within some countries, even by state or province.
+
+Funding: No specific grant; funded by regular academic appointments at ACTA.
+Conflicts of interest: None declared.
+Ethics: ACTA IRB reference code 201913.
