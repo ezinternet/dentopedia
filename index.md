@@ -1954,6 +1954,7 @@ tags: []
 - [[overviews/korean-dental-practice-management-overview]] — 한국 치과 개원 환경 종합 (2026-06-06 신설, 2편): 치과의사 연 2.39% 증가·지역 격차(2012-2022); 헌법재판소 결정례 카탈로그.
 - [[overviews/btx-orofacial-applications-overview]] — BTX 5축 (gummy smile·TMD·masseter·LPM·임플란트 영향) (2026-05-26 신설, 17편): Rojo-Sanchis 2023 SR+MA -3.22mm + de la Torre-Canales 2024 umbrella + Nobre 2024 masseter 위축 + Deng 2023 BIC↓ 동물.
 - [[overviews/caries-detection-remineralization-overview]] — 우식 5축 (탐지·WSL·재광화·근관거리·2차) (2026-05-26 신설, 8편): Foros 2021 DIAGNOdent + Xie 2023 NMA resin infiltration + Malcangi 2023 + Schmidt 2024 NMA + Ge 2023 GIC=레진.
+- [[overviews/black-stain-caries-protection-overview]] — **Overview** (Synthesis 2026-06-27, 6편): 치아 흑색착색(Black Stain, BS) ↔ 우식 보호 종합 — BS는 병변 아닌 저우식위험 표지. ①착색 = 세균 H₂S + 타액 Fe³⁺ → 황화철(FeS); ②우식역상관 SR+MA OR 0.67(Mousa 2022), 성인·취학전 재확인; ③미생물 = 소아 Actinomyces 우점(Li·Zheng)이나 성인 영구치 NGS는 Capnocytophaga/Neisseria 우점(Çelik 2021) — "Actinomyces 단독" 흔들림; ④타액 Ca·완충능·pH↑로 탈회 억제; ⑤인과(직접보호 vs 체질교란) 미결 + EBS+ 장내 Lactobacillus 신규(Zheng); 임상: 과도 제거 금물·예방 유지
 - [[overviews/dentist-burnout-mental-health-overview]] — 번아웃 4축 (유병률·결정인자·개입·retraction) (2026-05-26 신설, 7편): Moro 2022 13%/EE 28% + Long 2023 geographic gradient + Negucioiu 2024 post-COVID + Plessas 2022 개입 evidence 빈약 + Panagioti 2018 retracted.
 - [[overviews/adhesive-bonding-strategies-overview]] — 접착 5축 (fatigue·실란·오염 대처·간접 본딩·stamp) (2026-05-26 신설, 5편): Daneshkazemi 2013 + Etiennot 2025 MDP 타액 + Kagaoan 2024 3D-printed crown + Kim 2026 stamp technique.
 - [[overviews/immediate-dentin-sealing-evidence-synthesis]] — 즉시 상아질 밀봉(IDS) 근거 종합 (2026-06-01 신설, 8편): 근거 2층 구조 — in-vitro 결합강도 강함(Hardan 2022 SR+MA 21편·Magne 2005/2007·Abo-Alazm 2022 universal+치수압) ↔ 임상 POS 정면충돌(Alghauli 2025 11편 감소 P<.05+survival 우위 vs Josic 2022 4편 GRADE low 차이없음). 결론: 간접수복 표준 채택 정당화하나 환자에게 POS 감소 약속 금지.
@@ -2589,6 +2590,7 @@ tags: []
 
 ### overviews (added 2026-06-07, batch j)
 - [[overviews/oral-microbiome-biofilm-dysbiosis-synthesis]] — 구강 미생물·바이오필름 매트릭스(EPS/matrixome)·dysbiosis(PSD 모델) 13편 종합: caries(sucrose-EPS feedforward)와 periodontitis(keystone pathogen) 통합 framework (2026)
+- [[overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview]] — **Overview** (Synthesis 2026-06-27, 7편, 치주+구강미생물 교차): 항균 가글 화학적 치면세균막 조절 — CHX vs 에센셜오일(EO). 가글은 기계적 위생 보조일 뿐 PD/CAL 개선 못함. ①효능순위 EO ≥ CHX ≥0.10% ≈ triclosan(Figuero NMA 53RCT); ②치태억제 1위 = CHX(Cochrane SMD −1.45, James 2017); ③농도 — 0.12% 표준이나 0.05%도 유효, "농도 우열 근거 없음"; ④CHX 아킬레스건 = 착색(SMD +1.07) → 단기 한정; ⑤EO = 무착색+미생물 친화(12주 안전 Plummer, dysbiosis reset Min 2024 산업후원); ⑥수술후 0.12%+ADS 최적(Solderer); ⑦흡연자 효과 상쇄(Basudan). 결론: 장기=EO, 단기/수술후/NSPT보조=0.12% CHX
 - [[overviews/dental-erosion-etiology-prevention-synthesis]] — 치아침식(ETW) 병인·산성 챌린지(적정산도>pH)·예방 4편 종합: citrus/이중산 사탕 위험, 산 직후 칫솔질 회피 (2026)
 
 
