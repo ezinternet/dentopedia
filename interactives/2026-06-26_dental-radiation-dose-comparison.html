@@ -271,7 +271,7 @@
 <body>
 
 <h2 style="position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0)">
-  치과 방사선 기기별 유효선량(µSv) 비교 — 구내촬영, 바이트윙, FMX, 파노라마, CBCT, 가슴 X선, 비행, 연간 자연방사선. 막대 클릭 시 출처 및 상세 정보 표시.
+  치과 방사선 기기별 유효선량(µSv) 비교 — 구내촬영, 바이트윙, FMX, 파노라마, CBCT, 흉부 X선, 비행, 연간 자연방사선. 막대 클릭 시 출처 및 상세 정보 표시.
 </h2>
 
 <header>
@@ -285,16 +285,15 @@
 </header>
 
 <div class="callout">
-  <strong>회색 수직선</strong> = 가슴 X선 PA (내과 촬영 기준 ~50 µSv, 외부 참조★).
-  구내 PA 1장은 가슴 X선의 <strong>1/38</strong>, 파노라마는 <strong>1/2.8</strong>, CBCT(평균)는 <strong>2.4배</strong>.
-  서울→LA 비행 편도는 가슴 X선 <strong>약 1.4배</strong>.
+  <strong>회색 수직선</strong> = 흉부 X선 (~50 µSv, 외부 참조★).
+  파노라마는 흉부 X선의 <strong>1/2.8</strong>, 바이트윙 4매는 <strong>1/10</strong>, 서울→LA 비행 편도는 <strong>약 1.4배</strong>.
   ★ = wiki corpus 외 참조값.
 </div>
 
 <div class="unit-toggle">
   <button class="unit-btn active" onclick="setUnit('usv')">µSv (유효선량)</button>
   <button class="unit-btn" onclick="setUnit('days')">자연방사선 환산일수</button>
-  <button class="unit-btn" onclick="setUnit('chest')">가슴 X선 배수</button>
+  <button class="unit-btn" onclick="setUnit('chest')">흉부 X선 배수</button>
 </div>
 
 <div class="legend">
@@ -538,7 +537,7 @@
   Fontenele 2025 — CBCT 범위 3–500 µSv<br>
   <strong>★ [EXT] 외부 참조값</strong>:
   포터블 PA ~2.0 µSv (Ludlow &amp; Ivanovic 2008 / NCRP No.145) ·
-  가슴 X선 PA ~50 µSv (NRPB/IAEA) ·
+  흉부 X선 ~50 µSv (NRPB/IAEA) ·
   서울→LA ~70 µSv (IAEA RPOP; 11h × ~6.3 µSv/hr 편도)<br>
   <strong>주의</strong>: CBCT는 기기·FOV·프로토콜에 따라 최대 100배 이상 차이남. 평균값 단독 해석 금지.
 </div>
@@ -609,7 +608,7 @@ const DATA = {
     en: 'Panoramic — Adult',
     mean: 17.93, range: [14.2, 75.0], color: '#22c55e', ext: false, isRef: false,
     source: 'Lee & Badal 2021 (평균 17.93) / Ludlow 2008 (14.2–24.3) / Benchimol 2018 (17.6)',
-    note: '기기·FOV 편차 있음 (14–75 µSv). 평균 ≈ 자연방사선 2.1일 = 가슴 X선의 0.36배.',
+    note: '기기·FOV 편차 있음 (14–75 µSv). 평균 ≈ 자연방사선 2.1일 = 흉부 X선의 0.36배.',
     wiki: 'wiki/radiology/benchimol-2018-collimation-panoramic-effective-dose-reduction',
   },
   cbct_small: {
@@ -641,7 +640,7 @@ const DATA = {
     en: 'Seoul (ICN) → Los Angeles (LAX) one-way ★',
     mean: 70, range: [56, 85], color: '#64748b', ext: true, isRef: true,
     source: 'IAEA RPOP 우주방사선 계산기 (corpus 외)',
-    note: '편도 ~11시간, 순항고도 약 6.3 µSv/hr. 왕복이면 ~140 µSv ≈ 가슴 X선 2.8회분. 태양활동·항로에 따라 변동.',
+    note: '편도 ~11시간, 순항고도 약 6.3 µSv/hr. 왕복이면 ~140 µSv ≈ 흉부 X선 2.8회분. 태양활동·항로에 따라 변동.',
     wiki: '— (corpus 외)',
   },
   annual_bg: {
@@ -731,7 +730,7 @@ function render() {
     const lbl = document.createElement('div');
     lbl.className = 'ref-line-label';
     lbl.style.left = chestP + '%';
-    lbl.textContent = '▼ 가슴X선 (50µSv)';
+    lbl.textContent = '▼ 흉부 X선 (50µSv)';
     firstTrack.appendChild(lbl);
   }
 
@@ -777,7 +776,7 @@ function selectRow(id) {
     <span class="key">범위 (문헌)</span><span class="val">${rngStr}</span>
     <span class="key">자연방사선 환산</span><span class="val">약 ${bgStr}</span>
     <span class="key">연간 배경 대비</span><span class="val">${bgPct}% (기준 3,110 µSv/yr)</span>
-    <span class="key">가슴 X선 대비</span><span class="val">${chX} × (기준 50 µSv★)</span>
+    <span class="key">흉부 X선 대비</span><span class="val">${chX} × (기준 50 µSv★)</span>
     <span class="key">메모</span><span class="val" style="font-size:10.5px;color:#64748b;line-height:1.55">${m.note}</span>
   `;
   document.getElementById('detailSource').textContent = '📄 ' + m.source;
@@ -912,7 +911,7 @@ render();
             <td>우주방사선 1회 노출</td>
           </tr>
           <tr>
-            <td>가슴 X선(PA) 1회</td>
+            <td>흉부 X선 1회</td>
             <td class="bold">~50 µSv</td>
             <td>IAEA 기준</td>
           </tr>
