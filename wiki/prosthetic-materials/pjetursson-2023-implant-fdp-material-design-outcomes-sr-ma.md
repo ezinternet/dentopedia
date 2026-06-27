@@ -8,8 +8,6 @@ pmid: "37750526"
 source: pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.md
 category: [prosthetic-materials]
 confidence: sr+ma
-pdf_path: N/A
-pdf_filename: N/A
 source_collection: pubmed-text
 tags: [zirconia, monolithic, veneered, pjm, implant, fdp, survival, chipping, sr+ma]
 relations:
@@ -17,6 +15,9 @@ relations:
     target: prosthetic-materials/pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma
   - type: extends
     target: prosthetic-materials/tajti-2023-monolithic-zirconia-metal-ceramic-implant-crowns-sr-ma
+text_path: /Users/oracleneo/llm-wiki/papers/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.txt
+text_filename: pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.txt
+full_text: false
 ---
 
 ## One-line Summary

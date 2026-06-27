@@ -7,8 +7,8 @@ pmid: "37750526"
 category: [prosthetic-materials]
 source_collection: pubmed-text
 full_text: false
-text_path: N/A
-text_filename: N/A
+text_path: /Users/oracleneo/llm-wiki/papers/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.txt
+text_filename: pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma.txt
 relations:
   - type: reinforces
     target: pjetursson-2026-metal-ceramic-all-ceramic-crowns-survival-sr-ma

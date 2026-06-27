@@ -1,0 +1,20 @@
+Systematic review evaluating the influence of the prosthetic material and prosthetic design on the clinical outcomes of implant-supported multi-unit fixed dental prosthesis in the posterior area.
+
+Authors: Pjetursson; Sailer; Merino-Higuera; Spies; Burkhardt; Karasan
+Journal: {'title': 'Clinical oral implants research', 'iso_abbreviation': 'Clin Oral Implants Res'}
+Publication date: {'year': '2023', 'month': 'Sep'}
+DOI: 10.1111/clr.14103
+PMID: 37750526
+Article types: Systematic Review, Meta-Analysis, Journal Article
+
+ABSTRACT
+========
+The objectives of the study were to assess the survival, failure, and technical complication rates of implant-supported fixed dental prosthesis (iFDPs) with pontic or splinted crown (iSC) designs in the posterior area and compare the influence of prosthetic materials and prosthetic design on the outcomes.
+
+Electronic and manual searches were performed to identify randomized-, prospective-, and retrospective clinical trials with follow-up time of &#x2265;12&#x2009;months, evaluating the clinical outcomes of posterior iFDPs with pontic or iSCs. Survival and complication rates were analyzed using robust Poisson's regression models.
+
+Thirty-two studies reporting on 42 study arms were included in the present systematic review. The meta-analysis of the included studies indicated estimated 3-year survival rates of 98.3% (95%CI: 95.6-99.3%) for porcelain-fused-to-metal (PFM) iFDPs, 97.5% (95%CI: 95.5-98.7%) for veneered zirconia (Zr) iFDPs with pontic, 98.9% (95%CI: 96.8-99.6%) for monolithic or micro-veneered zirconia iFDPs with pontic, and 97.0% (95%CI: 84.8-99.9%) for lithium disilicate iFDPs with pontics. The survival rates for different material combination showed no statistically significant differences. Veneered restorations, overall, showed significantly (p&#x2009;<&#x2009;.01) higher ceramic fracture and chipping rates compared with monolithic restorations. Furthermore, there was no significant difference in survival rates (98.3% [95%CI: 95.6-99.3%] vs. 99.1% [95%CI: 97.6-99.7%]) and overall complication rates between PFM iFDPs with pontic and PFM iSCs.
+
+Based on the data identified by this systematic review, PFM, veneered Zr, and monolithic Zr iFDPs with pontic and iSCs showed similarly high short-term survival rates in the posterior area. Veneered restorations exhibit ceramic chipping more often than monolithic restorations, with the highest fracture rate reported for veneered Zr iFDPs.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]
