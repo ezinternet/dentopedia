@@ -14,6 +14,8 @@ tags: [antrolith, sinus-stone, sinusitis, oroantral-fistula, Caldwell-Luc, ESS]
 relations:
   - type: reinforces
     target: sinus-lift/pseudocyst/tan-2020-maxillary-antrolith-case-report-management
+text_path: /Users/oracleneo/llm-wiki/papers/shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case.txt
+text_filename: shenoy-2013-maxillary-antrolith-recurrent-sinusitis-case.txt
 ---
 
 ## One-line Summary
