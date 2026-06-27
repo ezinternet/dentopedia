@@ -1,0 +1,70 @@
+Sedation of children undergoing dental treatment
+Ashley PF, Chaudhary M, Lourenço-Matharu L.
+Cochrane Database Syst Rev. 2018 Dec 17;12(12):CD003877.
+DOI: 10.1002/14651858.CD003877.pub5
+PMID: 30566228 | PMCID: PMC6517004
+
+[NOTE: PMC get_full_text_article returned an empty full-text body for this Cochrane
+review (typical for Cochrane records). The text below is the structured abstract +
+plain-language summary retrieved from PMC. full_text: false — abstract-only.]
+
+ABSTRACT
+
+Background
+Children's fear about dental treatment may lead to behaviour management problems for
+the dentist, which can be a barrier to the successful dental treatment of children.
+Sedation can be used to relieve anxiety and manage behaviour in children undergoing
+dental treatment. There is a need to determine from published research which agents,
+dosages and regimens are effective. This is the second update of the Cochrane Review
+first published in 2005 and previously updated in 2012.
+
+Objectives
+To evaluate the efficacy and relative efficacy of conscious sedation agents and dosages
+for behaviour management in paediatric dentistry.
+
+Search methods
+Cochrane Oral Health's Information Specialist searched the following databases: Cochrane
+Oral Health's Trials Register (to 22 February 2018); CENTRAL (2018, Issue 1); MEDLINE
+Ovid (1946 to 22 February 2018); and Embase Ovid (1980 to 22 February 2018). ClinicalTrials.gov
+and the WHO ICTRP were searched for ongoing trials. No restrictions on language or date.
+
+Selection criteria
+Studies were selected if they met the following criteria: randomised controlled trials of
+conscious sedation comparing two or more drugs/techniques/placebo undertaken by the dentist
+or one of the dental team in children up to 16 years of age. Cross-over trials were excluded.
+
+Data collection and analysis
+Two review authors independently extracted, in duplicate, information regarding methods,
+participants, interventions, outcome measures and results. Trials were assessed for risk of bias.
+Cochrane statistical guidelines were followed.
+
+Main results
+We included 50 studies with a total of 3704 participants. Forty studies (81%) were at high risk
+of bias, nine (18%) were at unclear risk of bias, with just one assessed as at low risk of bias.
+There were 34 different sedatives used with or without inhalational nitrous oxide. Dosages, mode
+of administration and time of administration varied widely. Studies were grouped into placebo-
+controlled, dosage and head-to-head comparisons. Meta-analysis of the available data for the
+primary outcome (behaviour) was possible for studies investigating oral midazolam versus placebo
+only. There is moderate-certainty evidence from six small clinically heterogeneous studies at high
+or unclear risk of bias, that the use of oral midazolam in doses between 0.25 mg/kg to 1 mg/kg is
+associated with more co-operative behaviour compared to placebo; standardized mean difference
+(SMD) favoured midazolam (SMD 1.96, 95% confidence interval (CI) 1.59 to 2.33, P < 0.0001,
+I² = 90%; 6 studies; 202 participants). It was not possible to draw conclusions regarding the
+secondary outcomes due to inconsistent or inadequate reporting or both.
+
+Authors' conclusions
+There is some moderate-certainty evidence that oral midazolam is an effective sedative agent for
+children undergoing dental treatment. There is a need for further well-designed and well-reported
+clinical trials to evaluate other potential sedation agents. It is suggested that future trials evaluate
+experimental regimens in comparison with oral midazolam or inhaled nitrous oxide.
+
+PLAIN LANGUAGE SUMMARY
+Fear of the dentist may be expressed as unco-operative behaviour in children requiring dental
+treatment. Behaviour management problems can result in a child's tooth decay going untreated.
+While behavioural techniques play an important role in managing children, some children still find
+it difficult to co-operate and may require sedation. This review examined drugs to sedate a child
+whilst keeping them conscious. 50 RCTs (3704 participants) were included; 34 different sedatives
+were used, often with inhalational nitrous oxide. Because the studies were so different, a meta-
+analysis was only possible for oral midazolam versus placebo. Oral midazolam made patients more
+co-operative for dental treatment than placebo. Where reported, adverse effects were few and minor.
+There is some moderate-certainty evidence that midazolam administered in a drink of juice is effective.
