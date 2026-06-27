@@ -1,0 +1,74 @@
+SOURCE: PMC full text — PMC8754113 / PMID 35019769
+DOI: 10.1128/spectrum.01757-21
+Retrieved: 2026-06-27
+
+TITLE: The Impact of Mouthwash on the Oropharyngeal Microbiota of Men Who Have Sex with Men: a Substudy of the OMEGA Trial
+
+AUTHORS: Plummer EL, Maddaford K, Murray GL, Fairley CK, Pasricha S, Mu A, Bradshaw CS, Williamson DA, Chow EPF
+
+JOURNAL: Microbiology Spectrum, Vol 10 No 1, e0175721 (2022)
+
+ABSTRACT:
+Mouthwash is a commonly used product and has been proposed as an alternative intervention to prevent gonorrhea transmission. However, the long-term effects of mouthwash on the oral microbiota are largely unknown. We investigated the impact of 12 weeks of daily mouthwash use on the oropharyngeal microbiota in a subset of men who have sex with men who participated in a randomized trial comparing the efficacy of two alcohol-free mouthwashes for the prevention of gonorrhea. We characterized the oropharyngeal microbiota using 16S rRNA gene sequencing of tonsillar fossae samples collected before and after 12 weeks of daily use of Listerine mouthwash or Biotène dry mouth oral rinse. Permutational multivariate analysis of variance (PERMANOVA) was used to assess differences in oropharyngeal microbiota composition following mouthwash use. Differential abundance testing was performed using ALDEx2, with false-discovery rate correction. A total of 306 samples from 153 men were analyzed (Listerine, n=78 and Biotène, n=75). There was no difference in the overall structure of the oropharyngeal microbiota following Listerine or Biotène use (PERMANOVA p=0.413 and p=0.331, respectively). Although no bacterial taxa were significantly differentially abundant following Listerine use, we observed a small but significant decrease in the abundance of both Streptococcus and Rothia following Biotène use. Overall, our findings suggest that daily use of antiseptic mouthwash has minimal long-term effects on the composition of the oropharyngeal microbiota.
+
+STUDY DESIGN:
+- RCT substudy of the OMEGA (Oral Mouthwash use to Eradicate GonorrhoeA) trial
+- ACTRN12616000247471
+- Alfred Hospital Ethics Committee approved
+- 153 MSM aged 16-24 (or ≥25 with gonorrhea) from Melbourne Sexual Health Centre
+- Randomized: 78 Listerine Zero vs 75 Biotène Dry Mouth Oral Rinse
+- 20 mL rinse/gargle for 60 seconds, at least once daily for 12 weeks
+- Tonsillar fossae swabs at week 0 and week 12
+
+MICROBIOTA METHODS:
+- DNA extraction: QIASymphony PowerFecal Pro kit
+- 16S rRNA V4 region amplicon sequencing (515F/806R primers)
+- Illumina MiSeq 2×150bp
+- DADA2 for ASV inference; Silva v138 taxonomy
+- Analysis: PERMANOVA (Bray-Curtis), Shannon diversity, ALDEx2 differential abundance (FDR-corrected), ANCOM confirmation
+
+KEY RESULTS:
+1. Overall microbiota structure unchanged:
+   - Listerine: PERMANOVA Pseudo-F=0.99, R²=0.0064, p=0.413 (no change)
+   - Biotène: PERMANOVA Pseudo-F=1.06, R²=0.0071, p=0.331 (no change)
+
+2. Bacterial diversity:
+   - Both groups showed small but significant increase in Shannon diversity at 12 weeks
+   - Listerine: 3.5→3.6 (p=0.012); Biotène: 3.5→3.6 (p=0.002)
+   - Difference small; unlikely clinically significant
+
+3. Differential abundance (ALDEx2, FDR-corrected):
+   - Listerine: NO taxa significantly differentially abundant (all FDR-p >0.05)
+   - Biotène: Streptococcus significantly decreased (FDR-p=0.004); Rothia significantly decreased (FDR-p=0.03)
+   - Nonsignificant trend in Listerine: Streptococcus nonsignificantly decreased (p=0.047, FDR-p=0.35)
+
+4. ANCOM confirmation: agreed with ALDEx2 for Biotène (Streptococcus W=76); Listerine showed no significant changes
+
+5. Baseline microbiota characteristics:
+   - Highly diverse: median 134 ASVs/sample
+   - Top 5 genera: Streptococcus (23%), Prevotella (11%), Veillonella (7%), Fusobacterium (6%), Porphyromonas (5%)
+
+6. Gonorrhea infection: no effect on overall microbiota structure (PERMANOVA p=0.078)
+7. Smoking: small but significant difference in overall composition (R²=1.2%, p=0.04), no FDR-significant individual genera
+
+SENSITIVITY ANALYSES:
+- Excluding 39 daily mouthwash users at baseline: similar results
+- Including only 39 non-mouthwash users at baseline: similar results
+- Prior mouthwash frequency (daily/weekly/monthly/never): no baseline microbiota differences
+
+COMPARISON WITH PRIOR STUDIES:
+- 91 adolescents: no difference in supragingival plaque microbiota with alcohol-free fluoride mouthwash vs placebo
+- CHX 7-day studies: detrimental changes including reduced diversity and nitrate-reducing bacteria
+- N-acetylcysteine mouthwash: no subgingival microbiota changes
+
+LIMITATIONS:
+- 12-week sampling interval — cannot assess immediate/short-term post-rinse changes
+- Only 4 men acquired gonorrhea during follow-up — insufficient to analyze infection-microbiota interaction
+- 16S V4 limited species-level resolution (esp. Streptococcus spp.)
+- MSM population; not generalizable to general population
+
+CLINICAL IMPLICATIONS:
+- Listerine Zero (alcohol-free EO) 12 weeks daily: no significant impact on oropharyngeal microbiota
+- Biotène causes small decrease in Streptococcus and Rothia — unclear if commensal or pathogenic species affected
+- Essential oil-containing mouthwash appears microbiota-safe at 12-week timeframe
+- Transient immediate effects post-rinse could not be excluded
