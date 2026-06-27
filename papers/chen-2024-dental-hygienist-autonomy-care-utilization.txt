@@ -1,0 +1,19 @@
+Title: The effects of dental hygienist autonomy on dental care utilization.
+Authors: Chen J, Meyerhoefer CD, Timmons EJ
+Journal: Health Economics 2024;33(8):1726-1747
+DOI: 10.1002/hec.4832
+PMID: 38536894
+
+ABSTRACT (abstract-only — full text not retrieved):
+
+Investigates the effects of regulations governing the practice autonomy of dental
+hygienists on dental care use, using the 2001–2014 Medical Expenditure Panel Survey
+(MEPS). Measures the strength of autonomy regulations by extending the Dental Hygiene
+Professional Practice Index (DHPPI) to 2001–2014, capturing within-state regulatory
+changes over time. Using a difference-in-differences framework on selected states:
+relaxing supervision requirements to grant dental hygienists MODERATE autonomy increases
+total dental visits via greater use of PREVENTIVE care. However, the use of dental
+TREATMENT decreases when states adopt the HIGHEST level of autonomy. Both estimates
+increase in magnitude in dental-care provider shortage areas. Dental visits shift to
+dental hygienists in shortage areas when scope of practice is expanded, with an increase
+in hygienist-performed tasks (cleanings, exams).
