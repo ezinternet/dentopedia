@@ -1,0 +1,104 @@
+Title: Operative Times, Costs and Patient-Related Outcome Measures in Vertical Ridge Augmentation With Customised Reinforced PTFE Mesh Versus CAD/CAM Titanium Mesh: Secondary Analysis of a Randomised Clinical Trial.
+Authors: Cucchi A, Bettini S, Tedeschi L, Franceschi D, Urban I, Fiorino A, Corinaldesi G
+Journal: Journal of Clinical Periodontology
+Year: 2025
+Volume: 52(7):971-982
+DOI: 10.1111/jcpe.14185
+PMID: 40419437
+PMCID: PMC12176461
+
+[FULL TEXT — PMC open access]
+
+INTRODUCTION
+
+Guided bone regeneration (GBR) is a widely used technique for vertical ridge augmentation (VRA) despite its technical difficulty and invasiveness. Recent technological advances such as digital planning and CAD/CAM have improved operative efficiency and reduced post-operative discomfort, albeit with increased costs.
+
+This is a secondary analysis of a previously published RCT (Cucchi et al., primary paper DOI 10.1111/clr.14350 — cucchi-2024-ptfe-mesh-ti-mesh-vertical-ridge-rct). The present analysis aimed to compare:
+- Healing complication rates (PRIMARY outcome)
+- Operative times, costs, and PROMs (SECONDARY outcomes)
+
+METHODS
+
+Study Design: Non-inferiority, parallel-group, double-blind, RCT.
+Ethics: CE-AVEC, Italy (CMF 01/2019).
+Enrollment period: 2020–2022, Bologna private practice.
+
+Inclusion: Healthy adults with vertical bone defect (VBD) > 3 mm, up to 5 teeth, requiring 3D bone augmentation.
+
+Groups:
+- CONTROL: Ti-reinforced PTFE mesh (RPM, Osteogenics) + collagen membrane (Vitala, Osteogenics)
+- TEST: CAD/CAM titanium mesh (YxossCBR, Reoss) + collagen membrane (Biogide, Geistlich)
+
+Graft: 50:50 autogenous bone chips + DBBM (Bio-Oss) + peripheral venous blood.
+Fixation: Osteosynthesis screws (Pro-Fix, Osteogenics) and/or tacks.
+Suture: Tension-free with double-layer 5/0 sutures.
+
+Healing period: 6 months (mandible), 9 months (maxilla), then re-entry for implant placement.
+
+PROMs collected via daily diary:
+- Pre- and post-operative anxiety (VAS)
+- Pain (VAS, daily for 14 days)
+- NSAIDs dosage (daily for 14 days)
+- Limitation in daily functions (5-point scale)
+- OHIP-14 (quality of life)
+- PoSSe (treatment discomfort)
+- Willingness to undergo same procedure again
+
+Digital planning time, intra-operative time, and material costs also recorded.
+
+RESULTS
+
+Population: 50 enrolled, 48 completed per-protocol analysis (2 flap perforations).
+Mean age 56 y (range 30-70); 14M/36F.
+
+COMPLICATION RATES (primary):
+- PTFE group: 3/24 = 12.5%
+- Ti mesh group: 2/24 = 8.3%
+- Difference: -0.04 (95% CI: -0.22 to 0.13) → Ti mesh NON-INFERIOR to PTFE
+- No statistically significant difference (p=0.645)
+
+OPERATIVE TIMES:
+- Virtual planning time: 26.6 ± 11.9 min (PTFE) vs 84.4 ± 15.5 min (Ti mesh) — p<0.0001
+  (Ti mesh requires additional CAD upload + engineer interface time)
+- Intra-operative surgical time: 121.7 ± 37.2 min (PTFE) vs 118.2 ± 31.3 min (Ti mesh) — NS
+- Total operative time (pre+intra): 148.3 ± 41.0 min (PTFE) vs 221.1 ± 30.0 min (Ti mesh) — p<0.0001
+  (Ti mesh: longer total due to CAD planning; PTFE: pre-modelling shorter if using 3D model+replica)
+
+COSTS:
+- Total VRA cost: €1200 ± 177 (PTFE) vs €1272 ± 148 (Ti mesh) — NS (p=0.132)
+- Note: Ti mesh vs conventional PTFE membrane (not mesh) saves ~€400
+
+PROMs:
+- Pre-operative anxiety: 5.3 (PTFE) vs 3.9 (Ti mesh) — NS; reduced to 1.9 vs 0.3 post-op
+- Post-op pain (day 1): 2.7 (PTFE) vs 2.2 (Ti mesh) — NS (p=0.565)
+- NSAIDs (day 1): 2.3 vs 2.2 — NS (p=0.599)
+- Daily function limitation: similar, NS
+- OHIP-14: ~12 (both), no difference (p=0.845)
+- PoSSe discomfort: 35.7 vs 33.2 — NS (p=0.343)
+- Willingness to repeat: ~66% "no problem"; similar in both groups (NS at day 7 and 14)
+- ~90% of all patients had complete resolution of post-op symptoms by 2 weeks
+
+ClinROs (clinician):
+- Pre-op anxiety: ~6.4/10 (both groups) — both surgeons anxious before GBR
+- Post-op satisfaction: ~8.6/10 (both groups) — high satisfaction
+
+COST ANALYSIS DETAIL:
+- GBR is expensive: ~€1200 (PTFE) to €1300 (Ti mesh)
+- Ti mesh vs conventional reinforced PTFE membrane (without digital): ~€800 vs €1300 savings
+- Screw costs: significantly higher for PTFE (+€26.25); tack costs: significantly lower for PTFE (-€28.58)
+
+DISCUSSION
+
+Key insights:
+1. Ti mesh is non-inferior to PTFE mesh in complication rates for VRA
+2. Ti mesh requires significantly longer PRE-operative planning (CAD/engineer interface) but same intra-op time
+3. Costs are comparable (~ €1272 vs €1200) — both expensive
+4. PROMs equally favorable — patient experience similar
+5. Patient pre-op anxiety high (~4.5/10) but sedation protocol effective (reduced to 1.5 post-op)
+6. Mean VBG achieved: > 5.5 mm (severe defects)
+
+Limitations: Single center after COVID; no conventional PTFE membrane control arm; smaller sample.
+
+CONCLUSIONS
+
+CAD/CAM Ti meshes and customised PTFE meshes yield similarly low complication rates and favorable PROMs for severe vertical defects, with no significant differences between groups. Both digital approaches are effective and minimally invasive, encouraging use of either device.
