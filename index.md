@@ -2393,6 +2393,8 @@ tags: []
 - [[implants/vertical-ridge-augmentation/keller-2026-3d-printed-titanium-mesh-autologous-bone]] — Keller 2026 · retrospective · 3D프린팅 마이크로퍼포레이션 grade-2 Ti 메쉬+순수자가골(n=16): 메쉬 노출 0%, 계획 = 실제 CBCT 증대량 일치 (DOI 10.11607/jomi.11587)
 - [[implants/vertical-ridge-augmentation/soares-2025-3d-printed-titanium-mesh-volumetric-cbct]] — Soares 2025 · retrospective · 3D프린팅 Ti 메쉬 증례시리즈(n=9): 수직증대 4.8 mm, 용적 0.49 cm³, 안정성 87.9%; 노출 77.8% — 조기 완전노출 22.2% → 이식물 전손실 (DOI 10.1002/cap.70015)
 - [[implants/vertical-ridge-augmentation/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct]] — Cucchi 2017 · rct · d-PTFE Ti강화막 vs Ti 메쉬+가교화 콜라겐(n=40, 후방하악): 수직골증대 4.2 vs 4.1 mm(NS), 합병증 15.0 vs 21.1%(NS) 동등; d-PTFE 조작 간편·술중 합병증 3배↓ (DOI 10.1111/cid.12520)
+- [[implants/vertical-ridge-augmentation/cucchi-2021-dptfe-titanium-mesh-vertical-ridge-rct]] — Cucchi 2021 · rct · d-PTFE Ti강화막 vs Ti메시+콜라겐막 VRA 1년 주변조직 RCT(n=30/40): PBL 0.67 vs 0.61mm(NS), 모든 연조직 지표 동등; IBP–PBL 강한 상관(p<0.0001) (DOI 10.1111/clr.13673)
+- [[implants/vertical-ridge-augmentation/wurtz-2026-cadcam-titanium-mesh-tenting-screw-gbr]] — Wurtz 2026 · retrospective · CAD/CAM 맞춤형 Ti 메시 vs 텐팅 스크루+흡수성 콜라겐막(n=40, 5년): 6개월 골증대 동등, Ti메시 수술 시간 유의 단축(62.4 vs 72.7min), 임플란트 60개 100% 생존 (DOI 10.1111/cid.70139)
 - [[implants/vertical-ridge-augmentation/chacon-2024-cross-linked-collagen-tenting-screws-vra]] — Chacón 2024 · case-report · 가교화 콜라겐막+텐팅 스크류 VRA(n=10, 심미구역): 수직 6.2 ± 1.61 mm, 결손 해소율 80%, 합병증 낮음 — Ti 메쉬 없이 달성 (DOI 10.11607/prd.6373)
 
 ### residual (added 2026-06-04, 자연 카테고리 분산)
@@ -2891,6 +2893,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/covani-2022-alveolar-bone-remodeling-collagen-socket]] — Covani 2022 animal (micro-CT): collagen plug −4.6% vs empty socket −58.1% bone volume at 90 days; JCM [animal]
 - [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]] — Nisar 2020 prospective: collagen plug+PRP preserves height (p<0.001) but NOT width — grafting material needed for width maintenance; JODDD [prospective]
 - [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] — Kim 2024 RCT: DBBM-C (XenoFlex) maintains volume 84–180 days vs spontaneous healing (p=0.026); FGG seal adds horizontal crestal protection (p=0.049); ISQ ≥70 all groups [rct]
+- [[bone-regeneration/ridge-preservation/wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge]] — Wang 2024 · retrospective · 단순화 GBR(Bio-collagen+PRF막) vs 고전적(Bio-Oss+Bio-Gide) 후방 Seibert Class I(n=44): 수평폭경 증가 1.50 vs 1.83mm; 협측 윤곽 Type A 우세 유사 (DOI 10.1007/s13770-024-00654-0)
 
 ### sinus-lift/lateral — graft substitute comparisons
 - [[sinus-lift/lateral/almutairi-2025-lprf-dbbm-sinus-augmentation-sr-ma]] — Almutairi 2025 SR+MA (5 RCTs, n=140): L-PRF+DBBM vs DBBM alone — new bone +7.07% (p<0.001, I²=37%), residual graft −7.93% (p<0.001, I²=0%); ISQ NS; Cureus [sr+ma]
