@@ -1,0 +1,600 @@
+TITLE: Comparing the effectiveness of water flosser and dental floss in plaque reduction among adults: A systematic review
+DOI: 10.4103/jisp.jisp_597_22
+
+ABSTRACT:
+Abstract
+
+Introduction:
+
+Interdental aids such as dental floss and water flossers have been found to be effective in removing interdental plaque. This systematic review aimed to compare the available data on the efficacy of dental floss and water flossers in plaque removal among adults.
+
+Materials and Methods:
+
+Five databases: PubMed, Scopus, Cochrane, ScienceDirect, Lilac, and Google Scholar were searched from January 1, 2002, to October 31, 2022, to obtain the relevant articles. Based on the search strategy, the titles of the studies were screened independently by two reviewers. Randomized controlled trials were included in the review, in which the study participants were given either dental floss or water flosser. Reduction in plaque scores was the outcome that was assessed. Seven articles met the eligibility criteria and were further processed for qualitative analysis.
+
+Results:
+
+The majority of the studies favored water flossers over dental floss in plaque reduction. Water flosser was also found to be effective in removing plaque from inaccessible interproximal areas of the tooth surfaces as compared to dental floss.
+
+Conclusion:
+
+Based on the scope of this review, results suggest that water flossers can be used as an effective alternative to dental floss in patients with manual dexterity, patients undergoing orthodontic treatment, and patients with dental prostheses.
+
+FULL TEXT:
+INTRODUCTION
+
+Dental plaque is a biofilm composed of several bacteria that firmly adhere to each other and the tooth surface.[] The bacterial species in the oral biofilm are responsible for dental caries, gingivitis, and periodontitis.[] Therefore, daily removal of dental plaque is important to maintain good oral health.[]
+
+Toothbrush and toothpaste are the most commonly used aids for mechanical plaque control.[] However, a number of studies have shown that brushing just once a day is insufficient to entirely remove dental plaque, which can result in gingivitis and advanced periodontitis.[] The reason could be that several factors such as different types of toothbrushes, duration and frequency of toothbrushing, and brushing techniques affect the efficiency of toothbrushing.[] Furthermore, toothbrushing can remove only supragingival plaque from the facial and lingual surfaces of the tooth.[] It has been found that effective toothbrushing can remove only 60% of plaque present on tooth surfaces leaving a large amount of plaque in the interproximal areas of the tooth.[] The toothbrush is not able to reach subgingival plaque as well as interdental areas of teeth as it is difficult for the bristles to reach interdental spaces.[] The majority of periodontal issues start in the interdental regions of tooth surfaces because these areas are challenging to clean. Therefore, plaque removal from interproximal areas is of utmost importance.[]
+
+Interdental aids are most effective in removing interdental plaque. Types of embrasures, skills of health-care professionals, and motivation to use interdental aids affect the choice of interdental aids.[] Dental floss is regarded as the “gold standard” for removing interdental plaque.[] According to the American Dental Association, dental floss can remove up to 80% of the interdental plaque.[] However, it has been found that only 10%–30% of adults floss regularly.[] Several studies have indicated that dental floss is effective in cleaning interproximal areas of teeth.[] However, the use of dental floss is technique-sensitive, time-consuming, and requires skills to use it correctly.[]
+
+Hence, new devices such as water flossers (also known as water jets or oral irrigators) have been designed to aid interdental brushing.[] Water flossers were first introduced in 1962 by Lyle, a dentist.[] They are relatively easy to use and reduce subgingival plaque, dental calculus, bleeding on probing, probing pocket depth, and periodontal pathogens.[] The two main actions of a water flosser are pulsation and pressure. The instrument is a power-driven device that delivers a pulsating water stream with pressure control (pressure range: 50–90 psi) to remove subgingival and interdental plaque.[] The combined effect of pulsation and pressure disrupts bacterial activity and removes loosely attached debris from the tooth surfaces, without damaging the tissue.[]
+
+Although there is evidence regarding the effectiveness of dental floss and water flossers in removing dental plaque, a systematic review comparing the efficacy of both interdental aids is lacking. Hence, this systematic review aims to assemble, assess, and compare the available data on the efficacy of dental floss and water flossers in plaque removal.
+
+MATERIALS AND METHODS
+
+The systematic review was conducted according to the Preferred Reporting Items for Systematic Review and Meta-Analyses (PRISMA) guidelines, 2020.[]
+
+The review was registered in the PROSPERO database (the International Prospective Register of Systematic Reviews hosted by the National Institute of Health Research, University of York, Centre for Reviews and Dissemination) on November 25, 2022, according to the guidelines.
+
+The focused question was -
+
+Is there any difference in the effectiveness of water flossers and dental floss in plaque reduction among adults?
+
+PICO analysis:
+
+Population-Adults, Intervention-Water flosser, Comparator-Dental floss, Outcome-Plaque reduction.
+
+Five databases: PubMed (= 7), Scopus (= 7), Cochrane (= 1), ScienceDirect (= 157), Lilac (= 0), and Google Scholar (= 1930) were searched from the past 10 years (January 1, 2002 till October 31, 2022) to obtain the relevant articles. A hand search was also done to obtain additional articles. In the case of unpublished articles, the authors were contacted.
+
+A combination of terms “dental floss,” “string floss,” “regular floss,” “water flosser,” “water jet,” “oral irrigator,” “dental plaque,” “plaque control,” plaque index, and “adults” were used.
+
+Inclusion criteria:
+
+Healthy participants having dental plaque
+
+Study design: Randomized controlled trials (RCTs)
+
+Studies conducted on adults above 18 years of age with no restriction on gender
+
+Studies comparing the plaque removal efficacy of dental floss and water flosser
+
+Studies published between January 1, 2002, and October 31, 2022
+
+Articles published in English language.
+
+Exclusion criteria constituted:
+
+Articles using any other interdental aid as a comparator
+
+Articles assessing dental plaque as a secondary outcome.
+
+Sources used were -
+
+PubMed, Scopus, Cochrane, ScienceDirect, Lilac, and Google Scholar.
+
+Based on the search strategy, the titles of the studies were screened from the abovementioned databases independently by two reviewers (SM and LR). The articles were assessed for abstract reading in case the searched keywords were present in the title. Articles were excluded due to duplication; in case the same articles were found in more than one database. Articles were assessed for full-text reading in case the abstracts were based on the objective of the study. Full-text articles were then retrieved and assessed for eligibility criteria. Papers that fulfilled the eligibility criteria were further processed for data extraction. The reference list of the full-text articles was also hand-searched for identifying additional studies. In case of any difference of opinion, a third reviewer’s opinion (RM) was considered final. The article selection process has been depicted in the PRISMA flowchart [].
+
+Data such as author details, year of study, place of study, study design, demographic details of participants, duration of the study, plaque index used in the study, intervention, outcome, and inference were extracted independently by two reviewers. Disagreements between individual judgments in data extraction were resolved by taking the opinion of the third reviewer. In case of any missing data, the corresponding authors were contacted for additional details. The extracted data were recorded using an Excel spreadsheet (MS Excel 2020 (Microsoft Corporation, Washington, USA)).
+
+After extracting data from the included studies, quality assessment was done using the Joanna Briggs Institute critical appraisal checklist for RCTs.[] The checklist contained 13 questions regarding the methodology of the study with four options: yes, no, unclear, and not applicable.
+
+The Grading of Recommendations, Assessment, Development, and Evaluations (GRADE) Assessment Tool[] was used to rate the quality of evidence of the included studies. The level of evidence was rated as very low, low, moderate, or high. The GRADE domains used to assess the quality of evidence were risk of bias, imprecision, inconsistency, indirectness, and publication bias.
+
+Clinical heterogeneity of the included studies outcomes was assessed based on study design and subjects, duration of the study, clinical indices, and intervention. Statistical heterogeneity was assessed using the Istatistic and Chi-square test. A< 0.05 was considered statistically significant heterogeneity. Review Manager (RevMan) version 5.4.1 (The Cochrane Collaboration, United Kingdom) was used to perform the analysis.
+
+Figure 1
+
+Preferred Reporting Items for Systematic Review and Meta-Analyses flowchart depicting the study selection process
+
+RESULTS
+
+The PubMed, Scopus, Cochrane, ScienceDirect, Lilac databases, Google Scholar, and hand-searched articles yielded a total of 2103 articles. Two thousand ninety-eight titles were identified from the search after excluding duplications. Forty-five articles were selected after reading the title. Thirty-five articles were excluded after reading the abstract. Ten full-text articles were retrieved and assessed for eligibility criteria. Based on the eligibility criteria, seven articles[] were processed for data extraction. The characteristics of the included studies are presented in.
+
+All the studies were randomized controlled trials.[] Parallel study design[] was used in four studies whereas a split-mouth trial was used in three studies.[] Six studies were single-blinded,[] whereas one article did not mention whether blinding was done or not.[] Healthy adults (between 18 and 50 years) with dental plaque were included in the study. The maximum sample size was 83 while the minimum sample size of the included studies was 34.
+
+Table 1
+
+Description of included studies
+
+Author, year of study
+
+Place of study
+
+Type of study
+
+Participant description (sample size, age, gender)
+
+Duration
+
+Index
+
+Intervention
+
+Outcome/plaque reduction
+
+Inference
+
+Goyal., (2013)[]
+
+India
+
+Single-blind, randomized parallel clinical trial
+
+Total participants=70 adultsGroup 1 - Manual toothbrushing + water flosser (=35)Group 2 - Manual toothbrushing + waxed string floss (=35) Gender - ?
+
+Plaque score assessed immediately after toothbrushing and cleaning with dental floss/water flosser
+
+RMNPI
+
+Group I - Manual toothbrushing + Water flosserGroup 2 - Manual toothbrushing + waxed string floss
+
+String floss57.7% reduction in whole mouth plaque63.4% reduction in approximal plaqueWater flosser74.4% reduction in whole mouth plaque81.6% reduction in approximal plaque
+
+Use of water flosser significantly more effective than use of string floss in plaque removal. Greater plaque reduction seen in approximal areas of the teeth
+
+Akram (2015)[]
+
+Iraq
+
+Single-blind, randomized controlled trial
+
+Total participants=45Group B - Toothbrushing (=15)Group BF - Toothbrushing + unwaxed dental floss (=15)Group BW - Toothbrushing + water flosser (=15)Age - 25–50 years Gender - ?
+
+Total duration: 6 weeksPlaque score assessed at baseline, 3week, 6week
+
+Not mentioned
+
+Group B - ToothbrushingGroup BF - Toothbrushing + unwaxed dental flossGroup BW - Toothbrushing + water flosser
+
+Group BBaseline - 1.047±0.2192visit - 0.965±0.1933visit - 0.912±0.178Group BFBaseline - 1.035±0.2132visit - 0.749±0.0963visit - 0.669±0.096Group BWBaseline - 1.375±0.332visit - 0.37±0.2083visit - 0.149±0.041
+
+Highly significant reduction in plaque scores after using water flosser as compared to dental floss
+
+Sarlati., (2016)[]
+
+Iran
+
+Randomized, single-blind, split-mouth clinical trial
+
+Total participants=30Mean age=26.53±5.78 years Gender - ?
+
+Plaque score assessed immediately after cleaning with dental floss and water flosser
+
+Proximal/marginal plaque index
+
+Split-mouth technique usedOne side - Dental flossOther side - Water flosser
+
+Dental floss - 2.19±0.84–1.62±0.79Water floss - 2.18±0.84–1.27±0.78
+
+Significant reduction in pre- and post-cleaning plaque scores using the water flosser on the mesial, mid-buccal and distal surfaces of upper first premolar, mesial and distal surfaces of upper second premolar and first molar
+
+Sasikumar., (2016)[]
+
+India
+
+Randomized controlled trial
+
+Total participants=64Group 1 - Manual toothbrushing + water flosser (=32)Group 2 - Manual toothbrushing + waxed dental floss (=32) Age - 18–25 years Gender - 32 males and 38 females
+
+Total duration: 4 weeksPlaque score assessed at baseline, 2week, and 4week
+
+Not mentioned
+
+Group 1 - Manual toothbrushing + water flosserGroup 2 - Manual toothbrushing + Waxed dental floss
+
+Dental flossBaseline - 0.859±0.2382week - 0.716±0.1994week - 0.563±0.170 Water flosserBaseline - 1.638±0.2762week - 1.438±0.2694week - 1.172±0.253
+
+Significant difference found in the pre- and post-cleaning plaque scores in both the groupsNo significant difference found in the plaque scores in between the groups
+
+Abdellatif., (2021)[]
+
+Saudi Arabia
+
+Randomized, single-blind, split-mouth clinical trial
+
+Total participants=83Mean age: 26.73±7.23 Gender: Only female subjects
+
+Plaque score assessed immediately after toothbrushing and cleaning with dental floss/water flosser
+
+Silness and Loe Plaque Index
+
+Split mouth technique usedOne side - Toothbrushing + unflavoured waxed dental flossOther side - Toothbrushing + water flosser
+
+Dental floss - 1.10±0.38–0.12±0.13Water flosser - 0.94±0.38–0.12±0.15
+
+Significant difference found in the pre- and post-cleaning plaque scores in both the groupsNo significant difference found in the plaque scores in between the groups
+
+Batool., (2021)[]
+
+Pakistan
+
+Single-blind, Randomized controlled trial
+
+Total participants=70Group A - Manual toothbrushing + string dental floss (=35)Group B - Manual toothbrushing + water flosser (=35) Mean age - 34.23±6.78 yearsMale: 40%Female: 60%
+
+Plaque score assessed immediately after toothbrushing and cleaning with dental floss/water flosser
+
+RMNPI
+
+Group A - Manual toothbrushing + string dental flossGroup B - Manual toothbrushing + water flosser
+
+Dental floss - 0.670 (0.040)–0.303 (0.026)Water flosser - 0.613 (0.020–0.125 (0.010)
+
+Greater reduction in pre- and post-cleaning plaque scores on all surfaces of teeth (facial, lingual, marginal, proximal) in Group B (manual toothbrushing + water flosser) as compared to Group A (Manual toothbrushing + string dental floss)
+
+Sawan., (2022)[]
+
+Saudi Arabia
+
+Single-blind, split-mouth, randomized controlled parallel clinical trial
+
+Total participants=34Orthodontic patients aged 18–35 yearsMale: Female=1:1
+
+Plaque score assessed immediately after toothbrushing and cleaning with dental floss/water flosser
+
+RMNPI
+
+Split-mouth technique usedOne side - Toothbrushing + super flosserOther side - Toothbrushing + water flosser
+
+Super flosser - 0.56±0.35–0.13±0.26Water flosser - 0.61±0.35–0.13±0.28
+
+Significant reduction in pre and post cleaning plaque scores in both the groups.No statistical difference found between both the groups. However, water flosser was found to be more effective in reducing plaque scores from distal molar tooth as compared to super flosser
+
+RMPI – Rastogi Modified Navy Plaque Index, Group BW – Group B (water flosser), Group BF – Group B (dental floss)
+
+Place of study
+
+Two studies were from India,[] two from Saudi Arabia,[] one from Pakistan,[] one from Iran,[] and one from Iraq.[]
+
+Intervention and regimen
+
+Interdental floss (dental floss or water flosser) was used as an adjunct to manual toothbrushing in six studies,[] whereas in one study, only interdental floss was used.[] Patients were instructed to brush their teeth using the modified bass technique for 2 min in studies where manual toothbrushing was done. Oral prophylaxis was not done at the beginning of any of the studies. Thus, the baseline scores were different for treatment and control groups. Waxed dental floss was used in five studies,[] unwaxed dental floss was used in one study,[] whereas one study did not mention which type of dental floss was used.[] No additional oral hygiene products were used in any of the studies. Only verbal instructions regarding how to brush and floss teeth were given in six studies[] whereas both written and verbal instructions were given in one study.[] Whether any supervision was done or not while brushing or flossing was not mentioned in any of the studies. Plaque scores were assessed immediately after toothbrushing and flossing in five studies.[] Plaque scores were assessed at baseline, 3week, and 6week of flossing in one study,[] whereas plaque scores were assessed at baseline, 2week, and 4week of flossing in another study.[]
+
+Clinical indices
+
+Rastogi Modified Navy Plaque Index (RMNPI) was used to assess plaque scores in three studies,[] Proximal/Marginal Plaque Index was used in one study,[] and Silness and Loe Plaque Index was used in one study.[] Two studies did not mention the plaque index used to assess the plaque scores.[]
+
+There was a significant reduction in pre- and postcleaning scores of all seven studies using both, dental floss and water flosser. Four studies showed that there was a significant plaque reduction with water flosser as compared to dental floss.[] In the study conducted by Goyal.,[] there was a 57.7% reduction in whole mouth plaque after using dental floss while there was a 74.4% reduction in whole mouth plaque after using water flosser. Akram[] found that the mean difference in the plaque score before and after using the dental devices was 0.366 for dental floss and 1.226 for water flosser. The mean difference in the plaque score before and after using the dental devices was 0.57 for dental floss and 0.91 for water flosser in the study by Sarlati.[] In the study conducted by Batool.,[] the mean difference in the plaque score before and after using the dental devices was 0.367 for dental floss and 0.488 for water flosser. In these four studies, it was also found that water flosser was efficient in plaque removal from inaccessible proximal surfaces of teeth as compared to dental floss. Three studies showed no significant difference between a water flosser and dental floss in plaque reduction.[] The mean difference in the plaque score before and after using the dental devices was 0.296 for dental floss and 0.466 for water flosser,[] 0.98 for dental floss and 0.82 for water flosser,[] and 0.43 for dental floss and 0.48 for water flosser.[] However, the study by Sawan. showed that water flosser was efficient in plaque removal from the distal molar surface as compared to dental floss.[]
+
+The study conducted by Akram[] had the best methodological quality with 11/13 “Yes” whereas the study conducted by Sasikumar.[] had the lowest “Yes” score (9/13) [].
+
+The quality of evidence was concluded as “moderate” suggesting that the true effect is probably close to the estimated effect. Imprecision domain was rated as “serious” since the baseline values were not the same for the treatment and control groups [].
+
+High clinical and statistical heterogeneity was found in between the studies; test for heterogeneity:< 0.00001;= 97% [], thus making it unsuitable to perform meta-analysis.
+
+Table 2
+
+Quality assessment
+
+Questions
+
+C Ram Goyal[].
+
+Hadeel M Akram[].
+
+Sarlati F[].
+
+PK Sasikumar[].
+
+Hoda Abdellatif[].
+
+SM Batool[].
+
+Nozha Sawan[].
+
+Was true randomization used for assignment of participants to treatment groups?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Was allocation to treatment groups concealed?
+
+Yes
+
+Yes
+
+Yes
+
+Unclear
+
+Yes
+
+Yes
+
+Yes
+
+Were treatment groups similar at the baseline?
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+No
+
+Were participants blind to treatment assignment?
+
+Yes
+
+Yes
+
+Yes
+
+Unclear
+
+Yes
+
+Yes
+
+Yes
+
+Were those delivering treatment blind to treatment assignment?
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+NA
+
+Were outcomes assessors blind to treatment assignment?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Were treatment groups treated identically other than the intervention of interest?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Was follow-up complete and if not, were differences between groups in terms of their follow-up adequately described and analyzed?
+
+NA
+
+Yes
+
+NA
+
+Yes
+
+NA
+
+NA
+
+NA
+
+Were participants analyzed in the groups to which they were randomized?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Were outcomes measured in the same way for treatment groups?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Were outcomes measured in a reliable way?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Was appropriate statistical analysis used?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Was the trial design appropriate, and any deviations from the standard RCT design (individual randomization, parallel groups) accounted for in the conduct and analysis of the trial?
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+Yes
+
+NA – Not available; RCT – Randomized controlled trials
+
+Table 3
+
+Quality of evidence
+
+Dental plaque reduction (follow-up: 0 days–6 weeks; assessed with: Plaque index)
+
+Certainty assessment
+
+Number of patients
+
+Effect
+
+Quality of the evidence (GRADE)
+
+Comments
+
+Number of studies
+
+Study design
+
+Risk of bias
+
+Inconsistency
+
+Indirectness
+
+Imprecision
+
+Other considerations
+
+Water flosser
+
+Dental floss
+
+Relative (95% CI)
+
+Absolute (95% CI)
+
+6
+
+Randomised trials
+
+Not serious
+
+Not serious
+
+Not serious
+
+Serious
+
+None
+
+155
+
+156
+
+-
+
+SMD 2.47 higher (0.75 higher to 4.18 higher)
+
+⨁⨁⨁◯ moderate
+
+Moderate: The authors believe that the true effect is probably close to the estimated effect. CI – Confidence interval; SMD – Standardized mean difference; GRADE – Grading of Recommendations, Assessment, Development, and Evaluations
+
+Figure 2
+
+Forest plot suggesting heterogeneity. CI – Confidence interval, IV – Inverse variance, SD – Standard deviation
+
+DISCUSSION
+
+In recent years, water flosser has gained popularity among dentists and patients as an effective interdental aid for plaque removal. The current systematic review was conducted to compare the efficacy of water flossers with the “gold-standard” dental floss in removing dental plaque among adults.
+
+Studies conducted by Sarlati. (< 0.05)[] and Batool. (= 0.001)[] showed a significant difference in plaque removal from interdental areas and inaccessible areas of tooth surfaces using a water flosser. A highly significant reduction in plaque scores using water flosser was seen in studies by Hadeel. (< 0.001)[] and Goyal. (< 0.001).[] The research works by Sasikumar.,[] Abdellatif.,[] and Sawan.[] revealed no significant difference in the plaque scores between the groups. However, water flosser was found to be more effective in reducing plaque scores from the distal molar teeth as compared to dental floss in a study published by Sawan.[] Hence, the majority of the studies favored water flossers over dental floss in plaque reduction. However, a high heterogeneity was found in between the included studies. The heterogeneity could be attributed to different study designs (split-mouth trial/parallel trial), study duration (plaque assessed immediately after using the dental devices/after 4 weeks/after 6 weeks), baseline values (different baseline values for treatment and control groups), and intervention given (dental device as an adjunct to toothbrushing/only the dental device).
+
+The follow-up period in the parallel RCTs varied from 4 weeks to 6 weeks whereas in split-mouth trials, the plaque scores were assessed immediately after flossing. It was found that the maximum mean plaque reduction (1.22) after using water flosser was seen in the 6-week[] follow-up study suggesting that a longer follow-up period is required to assess the significant improvement in the clinical outcome.
+
+Majority of the studies which concluded that water flossers were effective in removing plaque from inaccessible areas, used the RMNPI to assess the plaque scores. The RMNPI analyses different sections (facial, lingual, proximal, and marginal) of a tooth, thus giving a clearer picture on how effective a product is in plaque removal, especially from inaccessible areas.[] This could be the reason why RMNPI is commonly used to assess interdental plaque scores.
+
+Akram[] divided the participants into three groups: Group 1 received only toothbrushing as an intervention, Group 2 received toothbrushing + dental floss, and Group 3 received toothbrushing + water flosser. It was found that the mean reduction in plaque scores was highest for Group 3, followed by Group 2 and lowest for Group 1, thus indicating that the use of dental devices as an adjunct to toothbrushing may provide additional clinical benefits evidenced by greater plaque reduction as compared to brushing alone.
+
+On comparison with the existing systematic reviews, it was found that water flossers were effective in reducing the signs of gingivitis, with minimal effect on plaque scores. Kotsakis.[] concluded that water flossers are more effective in reducing gingival bleeding as compared to regular flossing. Similarly, another systematic review by Ng and Lim[] suggested that water flosser is effective in reducing gingival inflammation. However, there were minimal changes in plaque scores. Another systematic review by Sälzer.[] found improved gingival health after using a water flosser, with no reduction in visible plaque scores. The difference in the findings of the current systematic review and the aforementioned reviews could be due to a difference in the studies included, the data extraction process, and heterogeneity between the studies. Another reason for not detecting plaque reduction could be due to the reduction of plaque thickness which may not be detected easily using 2D scoring systems.[]
+
+The majority of the studies in the current review suggested that water flossers were effective in removing plaque from inaccessible interproximal areas of the tooth surfaces as compared to dental floss. The reason could be that oral irrigation reduces pathogens that cause periodontitis and also reduces fibrin-like mesh that acts as a niche for plaque formation in hard-to-reach areas of tooth surfaces whereas it is difficult for a dental floss to reach between the tight contacts of the posterior teeth.[]
+
+Although a water flosser is more effective than a dental floss in removing interproximal plaque, one significant aspect-the cost-was overlooked in every study. Buying a water flosser can be expensive, and storage space is required. In addition, because it requires water and energy, it is challenging to use outside of the house. Therefore, using a water flosser should be given a second thought, especially for those who cannot afford to buy one.
+
+Even though the systematic review was conducted, based on rigorous inclusion and exclusion criteria, there are certain limitations to the review. The total number of participants included in the studies is less. There was a variation in the study designs (split-mouth/parallel) and duration of the studies (from assessing plaque score immediately after flossing to a follow-up period of 6 weeks). Different types of manual toothbrushes, dental floss (waxed/unwaxed), and water flossers (WaterPik/Aquajet) used might have led to additional variation in the outcome of the studies. Another factor that could have affected the outcome is the Hawthorne effect. It has been found that there is a change or improvement in the performance of participants when they are being studied or observed.[] Therefore, Hawthorne effect tends to affect the integrity of the conclusions drawn. The majority of the studies did not mention the duration of flossing. Furthermore, none of the studies provided any information regarding the difference between compliance in using dental floss and water flossers.
+
+Future recommendations
+
+Further studies need to be conducted with appropriate sample size, study design, methodology, and follow-up period to improve the quality of the studies. The studies should also assess patient compliance to dental devices.
+
+CONCLUSION
+
+The available evidence suggests that water flossers are more effective in plaque removal as compared to dental floss, especially from inaccessible interproximal areas of tooth surfaces. Water flossers, however, can be expensive to buy. As a result, people who cannot afford to purchase a water flosser might reconsider utilizing one. Nonetheless, individuals receiving orthodontic treatment, those with dental prostheses, and those with limited manual dexterity may find that water flossers are helpful.
+
+Financial support and sponsorship
+
+Nil.
+
+Conflicts of interest
+
+There are no conflicts of interest.
