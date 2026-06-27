@@ -1,0 +1,7 @@
+PMC full-text retrieved 2026-06-28
+PMCID: PMC9293224 | PMID: 34551168 | DOI: 10.1111/clr.13841
+
+Title: Vertical and horizontal ridge augmentation using customized CAD/CAM titanium mesh with versus without resorbable membranes. A randomized clinical trial
+Authors: Cucchi A, Vignudelli E, Franceschi D, Randellini E, Lizio G, Fiorino A, Corinaldesi G
+Journal: Clinical Oral Implants Research 2021;32(12):1411-1424
+Registration: ClinicalTrials.gov
