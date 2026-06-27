@@ -35,10 +35,14 @@ jobs:
         with:
           node-version: 22
 
-      - name: Stamp last-updated time into wiki/index.md (homepage)
+      - name: Stamp last-updated time and counts into wiki/index.md (homepage)
         run: |
           STAMP=$(TZ='Asia/Seoul' date '+%Y-%m-%d %H:%M KST')
+          PAPER_COUNT=$(ls sources/*.md 2>/dev/null | wc -l | tr -d ' ')
+          OVERVIEW_COUNT=$(ls wiki/overviews/*.md 2>/dev/null | wc -l | tr -d ' ')
           sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" wiki/index.md
+          sed -i "s|<!-- PAPER_COUNT -->.*<!-- /PAPER_COUNT -->|<!-- PAPER_COUNT -->${PAPER_COUNT}<!-- /PAPER_COUNT -->|" wiki/index.md
+          sed -i "s|<!-- OVERVIEW_COUNT -->.*<!-- /OVERVIEW_COUNT -->|<!-- OVERVIEW_COUNT -->${OVERVIEW_COUNT}<!-- /OVERVIEW_COUNT -->|" wiki/index.md
 
       - name: Copy wiki/ into quartz/content/
         run: |
