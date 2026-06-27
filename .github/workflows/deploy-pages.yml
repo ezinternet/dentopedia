@@ -77,11 +77,28 @@ jobs:
           # 새 overview 추가 시 수기 카드 편집 불필요.
           python3 scripts/build-overviews-map.py
 
+      - name: Regenerate live wiki-stats dashboard from repo state
+        run: |
+          # interactives/wiki-stats-live.html을 리포 실측치(논문/overview/카테고리/
+          # 발행연도 히스토그램 + git add-date 누적 곡선)로 재생성 → 메타·통계 도구가
+          # 배포 때마다 최신. 날짜 박힌 v1~v4·growth-curve 스냅샷은 진화 이력으로 동결.
+          # git 누적 곡선은 full history 필요 → 위 checkout fetch-depth:0 전제.
+          # interactives-index 생성보다 먼저 실행해야 새 라이브 도구가 색인에 잡힘.
+          python3 scripts/build-wiki-stats.py
+
       - name: Regenerate interactives index from frontmatter
         run: |
           # interactives/index.html을 각 도구의 주석 frontmatter(category 등)에서
           # 자동 생성 → 수기 카드 추가 누락(invisible) 재발 방지.
           python3 scripts/build-interactives-index.py
+
+      - name: Interactive clinical-tool staleness signal (non-blocking)
+        if: always()
+        run: |
+          # 임상 도구의 source_wiki 근거가 도구보다 최신이면 'STALE'(재작성 후보),
+          # 근거 경로가 사라졌으면 'BROKEN' 신호를 빌드 로그에 출력. 임상 수치는 LLM이
+          # 추출해야 안전하므로(Rule #1) 자동 재작성하지 않고 신호만 — 배포는 막지 않음.
+          python3 scripts/interactive-staleness.py || true
 
       - name: Copy interactives/ into site (served verbatim)
         run: |
