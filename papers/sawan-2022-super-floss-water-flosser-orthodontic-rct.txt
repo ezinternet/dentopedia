@@ -1,0 +1,40 @@
+TITLE: Effectiveness of Super Floss and Water Flosser in Plaque Removal for Patients Undergoing Orthodontic Treatment: A Randomized Controlled Trial
+DOI: 10.1155/2022/1344258
+PMID: 36090126
+PMCID: PMC9452981
+JOURNAL: International Journal of Dentistry, 2022, Article 1344258
+AUTHORS: Sawan N, Ben Gassem A, Alkhayyal F, Albakri A, Al-Muhareb N, Alsagob E
+
+ABSTRACT:
+Objectives: This study aimed to compare the effectiveness of super floss and water flosser in plaque removal for patients undergoing orthodontic treatment.
+Methods: A single-blind, randomized, controlled, parallel clinical trial with a split-mouth protocol was conducted on young adult orthodontic patients recruited from Riyadh Specialized Dental Center, Riyadh, Saudi Arabia. The type of floss used was randomly assigned to each side of the oral cavity; Super-Floss (Oral-B) was used on one side, while the Waterpik water flosser was used on the other. Patients' plaque level was assessed using Rustogi et al. modified navy plaque index (RMNPI) at baseline and immediately after cleaning.
+Results: A total of 62 subjects were screened; only 34 subjects were enrolled with an equal number of males and females. Overall, the plaque score was significantly reduced from 0.56 ± 0.35 to 0.13 ± 0.26 in the super floss group and from 0.61 ± 0.35 to 0.13 ± 0.28 in the water flosser group. There was no significant difference between the mean difference of super floss and water flosser (p=0.951). No significant difference between groups in preintervention plaque score (p=0.379). The water flosser had a greater effect size on plaque removal compared to super floss on distal interproximal surface of the molar tooth with a mean difference of (−0.21, 95% CI: −0.37 to −0.04, p=0.033).
+Conclusions: The use of super floss or water flosser as interproximal aids for plaque removal in patients undergoing orthodontic treatment are both effective. Trial registration ISRCTN83875016.
+
+FULL TEXT:
+1. Introduction
+Patients who wear fixed orthodontic appliances must maintain high standards of oral hygiene; otherwise they experience complications including decay, enamel demineralization, gingivitis, gingival hyperplasia, and periodontitis. Fixed appliances make oral hygiene harder due to plaque accumulation around archwires, bands, and brackets; they change the bacterial composition, enable plaque retention, reduce self-cleaning, and trigger gingival infection / enamel decalcification / white spot lesions. Daily patient-administered mechanical plaque control is the gold standard. Several articles advocate combining a toothbrush (electric or sonic) with a dental flosser (wire or water jet).
+
+Various devices help orthodontic patients: manual/electronic toothbrushes, dental floss, interproximal brushes, and oral irrigators (water flossers). Per ADA, water flossers are safe and effective at removing plaque and can reduce gingivitis. String-waxed floss for interdental cleaning relies on special floss or a threading device; it can be time-intensive and challenging. Some studies show super floss achieves superior outcomes to regular waxed floss and enhances gingival health. Super floss has three elements: a stiffened-end floss threader (positions floss under orthodontic wires), a spongy/fuzzy floss segment (cleans wide gaps and around brackets), and regular floss (removes plaque under the gingival margin). Water flossers help orthodontic patients overcome problems with standard string floss while achieving similar effectiveness. Sharma et al. found a water flosser plus manual brushing decreased bleeding on probing by 41.2% over 28 days. Studies of water floss on orthodontic patients are limited.
+
+This RCT aimed to evaluate the effectiveness of super floss (Oral-B Super Floss) and water flosser (Waterpik Cordless Freedom Water Flosser) in plaque removal in orthodontic patients.
+
+2. Methods
+Single-blind, randomized, controlled, parallel clinical trial with split-mouth protocol; CONSORT followed. Young adult orthodontic patients recruited 1:1 from Riyadh Specialized Dental Center. IRB exemption Princess Nourah bint Abdulrahman University (18-0241). Registered ISRCTN.
+Inclusion: male/female 18–35 years, near end of orthodontic treatment, braces from right first molar to left first molar, pocket depth ≤3 mm, no floss use in last 24 hours. Exclusion: systemic disease, craniofacial anomaly, periodontal problems, spacing/missing teeth in examined arch, smokers.
+Examiner calibration: two examiners, RMNPI, Cohen's kappa 0.8.
+Intervention: single visit, split-mouth. RMNPI measured plaque at baseline with WHO probe. Standardized oral hygiene instruction (modified Bass technique, soft-bristled brush, fluoridated toothpaste). Floss type randomly assigned to each side: Super Floss (Oral-B) one side, Waterpik water flosser other side. Waterpik tip held at 90° to tooth at gingival margin; pressure 45–75 PSI (3.1–5.2 Bar), flow 8 oz/min (237 mL), 1200 pulses/min. Each participant: 2 minutes brushing + 2 minutes interproximal cleaning.
+Outcome: plaque index per side vs baseline. Examiners blinded to floss type per side. Canine, one premolar, one molar evaluated. RMNPI has nine sections combined to marginal and proximal regions. Plaque scored 0=absent, 1=present. Focus on areas cleanable with floss; mean plaque index (MPI) scored for proximal areas (A, D, C, F). Surfaces G and H not recorded due to brackets.
+Sample size: GPower 3.1.9.4, effect size 1, alpha 5%, power 80% → minimum 34 subjects.
+Statistics: SPSS v22, normality (Kolmogorov–Smirnov, Shapiro–Wilk), paired t-test before/after and between aids; p<0.05 significant.
+
+3. Results
+62 screened, 34 enrolled, equal male/female. Mean age 23.7 ± 7.7 years.
+Plaque score significantly reduced (p<0.001): super floss 0.56 ± 0.35 → 0.13 ± 0.26; water flosser 0.61 ± 0.35 → 0.13 ± 0.28. No significant difference between mean differences of the two groups (p=0.951). By tooth type, both groups significantly reduced plaque (p<0.001) in canine, premolar, molar. Mean difference higher in water flosser for all teeth but not statistically significant. Water flosser and super floss had comparable effect size on mesial and distal interproximal surfaces of all teeth EXCEPT distal molar, where water flosser was more effective (mean difference −0.21, 95% CI −0.37 to −0.04, p=0.033). Split-mouth: both interventions significantly reduced plaque on left and right sides with no significant difference between groups.
+
+4. Discussion
+Orthodontic fixed appliances are a risk factor for plaque accumulation. Both water flosser and super floss effectively reduced plaque; water flosser comparable to super floss in almost all teeth/surfaces/sides but more effective at distal molar. Findings agree with studies showing water jets comparable to floss; some prior studies reported superiority of water jets at 2 and 4 weeks. Sharma et al.: water floss more effective than air floss for plaque/gingivitis. Goyal et al.: water flosser more effective than super floss for gingivitis and bleeding. Other studies reported no significant difference between water jets and floss in overall plaque but did not break down interproximal surfaces.
+Limitations: plaque measured directly after a single cleaning only; prolonged effect not measured (instant-effect study). Possible Hawthorne effect. Single-center, small sample. Difficulty standardizing the two interventions. Future: long-term effects, bleeding index (longitudinal), larger multicenter sample, water jet with ozonated water.
+
+5. Conclusion
+Use of super floss or water flosser as interproximal aids for plaque removal in orthodontic patients is equally effective in reducing plaque; both interproximal tools are safe and efficient for orthodontic patients. Further studies needed on daily combined toothbrush + floss use and ozonated water jets.
