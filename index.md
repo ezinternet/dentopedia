@@ -2361,11 +2361,15 @@ tags: []
 - [[implants/vertical-ridge-augmentation/cucchi-2025-ptfe-mesh-vs-titanium-mesh-proms-rct]] — Cucchi 2025 · rct · RCT 2차분석(n=48, PMC): CAD/CAM Ti mesh = PTFE 메쉬 합병증 비열등(8.3 vs 12.5%); PROMs·통증·비용 동등; Ti mesh 수술 전 계획 시간 3배 소요(84 vs 27분) (DOI 10.1111/jcpe.14185)
 - [[implants/vertical-ridge-augmentation/keller-2026-3d-printed-titanium-mesh-autologous-bone]] — Keller 2026 · retrospective · 3D프린팅 마이크로퍼포레이션 grade-2 Ti 메쉬+순수자가골(n=16): 메쉬 노출 0%, 계획 = 실제 CBCT 증대량 일치 (DOI 10.11607/jomi.11587)
 - [[implants/vertical-ridge-augmentation/soares-2025-3d-printed-titanium-mesh-volumetric-cbct]] — Soares 2025 · retrospective · 3D프린팅 Ti 메쉬 증례시리즈(n=9): 수직증대 4.8 mm, 용적 0.49 cm³, 안정성 87.9%; 노출 77.8% — 조기 완전노출 22.2% → 이식물 전손실 (DOI 10.1002/cap.70015)
+- [[implants/vertical-ridge-augmentation/cucchi-2017-dptfe-membrane-vs-titanium-mesh-collagen-rct]] — Cucchi 2017 · rct · d-PTFE Ti강화막 vs Ti 메쉬+가교화 콜라겐(n=40, 후방하악): 수직골증대 4.2 vs 4.1 mm(NS), 합병증 15.0 vs 21.1%(NS) 동등; d-PTFE 조작 간편·술중 합병증 3배↓ (DOI 10.1111/cid.12520)
+- [[implants/vertical-ridge-augmentation/chacon-2024-cross-linked-collagen-tenting-screws-vra]] — Chacón 2024 · case-report · 가교화 콜라겐막+텐팅 스크류 VRA(n=10, 심미구역): 수직 6.2 ± 1.61 mm, 결손 해소율 80%, 합병증 낮음 — Ti 메쉬 없이 달성 (DOI 10.11607/prd.6373)
 
 ### residual (added 2026-06-04, 자연 카테고리 분산)
 
 - [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — Jensen 2023 · consensus · 7th ITI Group 1 — buccal bone <1.5 mm predicts worse outcomes; simultaneous GBR over dehiscence + CTG give stable 1–5 yr outcomes
 - [[bone-regeneration/wessing-2018-gbr-collagen-membranes-particulate-graft-sr-ma]] — Wessing 2018 · sr+ma · 20 controlled studies — collagen-membrane + particulate lateral GBR effective; cross-linked membranes ~30% more exposure
+- [[bone-regeneration/mizraji-2023-barrier-membranes-gbr-overview]] — Mizraji 2023 · narrative-review · Periodontology 2000 GBR 차폐막 총론: 흡수성(콜라겐·XL콜라겐·합성·심막) vs 비흡수성(d-PTFE·e-PTFE·Ti 메쉬·Ti-PTFE) 특성·장단점·메타분석 종합 (DOI 10.1111/prd.12502)
+- [[bone-regeneration/ridge-preservation/friedmann-2020-rclc-membrane-open-healing-ridge-preservation]] — Friedmann 2020 · prospective · RCLC(OSSIXPlus) open healing 발치와 보존(n=20 사이트): 1차 폐쇄 없이 100% 4주 내 상피화·100% 추가증대 없이 임플란트; 수직 0.45 mm 흡수(NS) (DOI 10.5051/jpis.2000400020)
 - [[bone-regeneration/ridge-preservation/scheyer-2016-alveolar-ridge-preservation-multicentre-rct]] — Scheyer 2016 · rct · Multicentre (40 pts) — DBBM-collagen + native bilayer membrane preserved ~1.76 mm more horizontal ridge at 6 mo (p=0.0256)
 - [[bone-regeneration/gil-marques-2022-bone-block-grafts-finite-element-biomechanics]] — Gil-Marques 2022 · in-vitro · FEA — right-angled block + higher suture tension raise mucosal stress (dehiscence tendency) → low tension + rounded block
 - [[immediate-implant/zhou-2024-open-closed-flap-collagen-membrane-immediate-implant]] — Zhou 2024 · retrospective · 118 pts — open healing of exposed collagen membrane at immediate-implant GBR matched closure when initial wound ≤6 mm, less pain
