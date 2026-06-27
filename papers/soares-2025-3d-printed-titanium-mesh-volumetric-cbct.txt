@@ -1,0 +1,51 @@
+Title: Customized three-dimensional-printed titanium mesh for alveolar bone augmentation: Retrospective consecutive case series.
+Authors: Soares KH, King C, Palkovics D, Perez R, Mbadu M, Duarte WR, Schey KC, Duarte PM
+Journal: Clinical Advances in Periodontics
+Year: 2025 (epub 2025-10-10)
+DOI: 10.1002/cap.70015
+PMID: 41071184
+
+ABSTRACT
+
+Background:
+This retrospective case series evaluated linear and volumetric bone changes in alveolar bone defects treated with guided bone regeneration (GBR) using a next-generation customized 3D-printed titanium mesh.
+
+Methods:
+Medical history, surgical details, and CBCT data collected from patients undergoing GBR with customized 3D-printed titanium mesh. CBCT subtraction analysis performed using 3D digital models (spatial registration + semi-automatic segmentation). Outcomes: complication rates, linear bone measurements, volumetric hard tissue gain, graft volume stability, augmentation efficacy.
+
+Defect Classification:
+- Combined large defects (n=5)
+- Vertical large defects (n=2)
+- Combined medium defects (n=2)
+Total: n=9 cases
+
+Results:
+Complications:
+- 2 cases: NO complications
+- 7 cases: MESH EXPOSURE (77.8% overall exposure rate)
+  - 2 cases: complete EARLY mesh exposure (22.2%) → total graft loss + premature removal
+  - 5 cases: managed exposure without total graft loss
+
+Bone Gain:
+- Linear vertical bone gain (at middle plane of defect):
+  - Large defects: 5.7 ± 2.3 mm
+  - Medium defects: 2.7 ± 0.5 mm
+  - Overall: 4.8 ± 2.4 mm
+- Volumetric gain: 0.49 ± 0.20 cm³ (overall)
+- Graft volume stability: 87.9 ± 19.5%
+- Augmentation efficacy: 0.037 ± 0.012 cm³/mm
+
+Key factors for success identified:
+1. Thorough preoperative planning
+2. Precise execution of surgical technique
+3. Effective management of postoperative mesh exposure
+
+Key factors for failure:
+1. Compromised systemic health or medical history
+2. Improper adaptation/seating of the mesh
+3. Premature and complete mesh exposure during healing
+
+Conclusion:
+Customized 3D-printed titanium mesh is feasible and effective for augmenting defective edentulous ridges, providing predictable linear and volumetric gains. Mesh exposure is the most common complication (77.8%), and complete early exposure leads to total graft loss. Careful planning, technique, and exposure management are critical.
+
+Note: This case series uses CBCT subtraction analysis (volumetric) — this is a methodological contribution beyond simple linear measurements, providing augmentation efficacy metrics (cm³/mm).
