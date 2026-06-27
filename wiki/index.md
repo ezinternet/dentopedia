@@ -8,7 +8,7 @@ category: overviews
 confidence: narrative-review
 ---
 
-<p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--gray);">마지막 배포 <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED --></p>
+<p align="center" style="margin:0 0 0.5rem; font-size:0.8rem; color:var(--gray);">마지막 배포 <!-- LAST_UPDATED -->2026-06-08<!-- /LAST_UPDATED --> &nbsp;·&nbsp; 총 논문자료 <!-- PAPER_COUNT -->2115<!-- /PAPER_COUNT -->편 &nbsp;·&nbsp; 오버뷰 <!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개</p>
 
 <div align="center" style="margin: 0.25rem 0 1.5rem;">
 <svg viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img" style="width:100%; height:auto; display:block; max-width:1100px; margin:0 auto;">
