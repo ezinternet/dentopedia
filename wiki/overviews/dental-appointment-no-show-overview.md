@@ -11,7 +11,9 @@ source_papers:
   - wiki/practice-management/alabdulkarim-2022-predicting-no-shows-dental-appointments.md
   - wiki/practice-management/bhatia-2018-pediatric-dental-appointments-no-show-rates-reasons.md
   - wiki/practice-management/samohyl-2021-non-attendance-dental-preventive-care-students.md
-tags: [no-show, non-attendance, practice-management, appointment, overview]
+  - wiki/practice-management/prasad-2012-sms-reminder-dental-attendance-rct.md
+  - wiki/practice-management/nelson-2011-text-vs-voice-reminder-pediatric-dental-rct.md
+tags: [no-show, non-attendance, practice-management, appointment, reminder, sms, overview]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -23,22 +25,23 @@ tags: [no-show, non-attendance, practice-management, appointment, overview]
 > - **세대 간 전이(parental driver)**: 부모 자신의 예방진료 기피가 자녀 비참여의 **가장 강한 독립 예측인자** — 모(母) AOR 4.19, 부(父) AOR 3.41 (Samohyl). 노쇼는 치아 특이적 문제가 아니라 일반 건강행동 trait.
 > - **사회경제적 지위(SES) 역설**: Bhatia에서 최상위가 아닌 **상-중류층이 노쇼율 최고(58.8%)** — 비용이 아니라 바쁜 일정·우선순위 저하 시사. (주의: 초록은 SES p<0.05 주장하나 표는 p=0.142 — 유의성 불일치, 시사적으로만 해석)
 > - **리마인더 선호(reminder preference)**: 환자가 가장 원한 대책은 **전날 치과의사의 전화(48.3%)** > 예약카드(25.9%) > 문자(SMS, 23.8%) > 이메일(2%) (Bhatia). 단순 자동 SMS가 환자 선호 1순위는 아니라는 점 주목.
+> - **리마인더 효과(이제 RCT 근거 추가)**: SMS 리마인더는 무(無)리마인더 대비 정시 내원을 79.2% vs 35.5%로 크게 높였다(Prasad RCT, n=206). 그러나 채널 비교에서는 **음성 전화가 SMS보다 우수**했다(노쇼 8.2% vs 17.7%, 보정 OR 2.12; Nelson RCT, n=318) — 환자 선호(전화)와 일치. 즉 "리마인더는 효과 있으나 채널이 중요"하며, 두 RCT 모두 단일기관·비교군 상이라 cross-trial 결론은 신중히.
 > - **구조적 장벽(structural barrier)**: 보험 85%여도 소아 미내원 44% — 비용은 주동인 아님. 대중교통 의존(public transport)은 유의한 상관(p=0.002), 직원 의사소통 오류(staff miscommunication) 10.3%가 행정적 장벽 1위 (Khries).
 > - **임상·운영 takeaway**: ① 고위험군(초진·짧은 리드타임·과거 노쇼·기억 의존)을 **선별**, ② 환자 선호 채널로 **리마인더**(전화 우선), ③ 무차별 오버부킹 대신 **고위험 슬롯 단축**, ④ 가족·교통·예방진료 미수진 등 **구조·세대 장벽**을 동시에 공략. 단일 슬롯 차단보다 다층 운영 설계가 답.
 
 ## One-line Summary
 
-Five practice-management studies (1 large ML retrospective, 1 adult retrospective, 3 cross-sectional incl. 2 pediatric) converge on dental no-show as a predictable behavioral pattern — reported missed-appointment rates of 42.7–52%, driven by forgetfulness/scheduling/parental behavior rather than cost — best addressed by an operational ladder of risk-flagging (lead time + prior no-show history dominate; ML AUC 0.718), patient-preferred reminders (dentist call > SMS), high-risk slot shortening, and structural/intergenerational barrier work.
+Seven practice-management studies (1 large ML retrospective, 1 adult retrospective, 3 cross-sectional incl. 2 pediatric, and 2 reminder RCTs) converge on dental no-show as a predictable behavioral pattern — reported missed-appointment rates of 42.7–52%, driven by forgetfulness/scheduling/parental behavior rather than cost — best addressed by an operational ladder of risk-flagging (lead time + prior no-show history dominate; ML AUC 0.718), reminders (SMS vs none raised on-time attendance 79% vs 36%, but voice beat SMS, OR 2.12 — channel matters and matches patient preference for a dentist call), high-risk slot shortening, and structural/intergenerational barrier work.
 
 ## 한줄요약
 
-치과 미내원(no-show)을 다룬 5편(대규모 ML 후향 1, 성인 후향 1, 단면 3편 중 소아 2)은 노쇼가 비용이 아닌 망각·일정·부모 행동에 좌우되는 예측 가능한 패턴임을 보여주며(보고 미내원율 42.7~52%), 위험 선별(리드타임·과거 노쇼 이력이 최강 예측, ML AUC 0.718) → 환자 선호 리마인더(전화>SMS) → 고위험 슬롯 단축 → 구조·세대 장벽 공략의 운영 사다리로 대응할 것을 시사한다.
+치과 미내원(no-show)을 다룬 7편(대규모 ML 후향 1, 성인 후향 1, 단면 3편 중 소아 2, 리마인더 RCT 2)은 노쇼가 비용이 아닌 망각·일정·부모 행동에 좌우되는 예측 가능한 패턴임을 보여주며(보고 미내원율 42.7~52%), 위험 선별(리드타임·과거 노쇼 이력이 최강 예측, ML AUC 0.718) → 리마인더(SMS가 무리마인더 대비 정시내원 79% vs 36%↑, 단 음성>SMS OR 2.12로 채널이 중요·환자 선호와 일치) → 고위험 슬롯 단축 → 구조·세대 장벽 공략의 운영 사다리로 대응할 것을 시사한다.
 
 ## Thesis
 
 Dental did-not-attend (DNA) is **not random noise but a socially and behaviorally patterned, partly predictable event**, and dentistry is structurally vulnerable to it because dental visits are long (~36–49 min vs ~17 min for primary care), so a no-show wastes a large, non-recoverable block of chair time and blind overbooking is impractical (Alabdulkarim).
 
-Across these five studies three claims are robust:
+Across these seven studies three claims are robust:
 
 1. **Cost is rarely the dominant driver.** Pediatric non-attendance ran 44% despite 85% insurance coverage (Khries), and the highest-SES, not lowest-SES, group had the highest no-show rate in Bhatia (58.8%) — pointing to time, prioritization, forgetfulness, and family scheduling rather than financial access.
 2. **The strongest signals are behavioral, not demographic.** In the ML model, **lead time (booking-to-visit interval) was the single strongest predictor** and **prior no-show history second** (Alabdulkarim); reliance on memory to track appointments was the robust significant correlate in Bhatia (p=0.024); and a **parent's own avoidance of preventive care** was the strongest independent predictor of an adolescent's non-attendance (Samohyl, maternal AOR 4.19 / paternal AOR 3.41). Demographic skews (single, female, ≤35y, new-patient, morning-slot — Alkhurayji) describe *who* misses but did not reach statistical significance against scheduling dimensions.
@@ -53,6 +56,8 @@ Across these five studies three claims are robust:
 | Khries 2024 | Cross-sectional questionnaire (pediatric, Jordan) | 265 children <12y | **44% missed despite 85% insured**; significant correlates: child age (p=0.0041), public-transport use (p=0.002); top barriers family/social commitments 15.5%, forgetfulness 11.2%, staff miscommunication 10.3% | cross-sectional |
 | Bhatia 2018 | Cross-sectional questionnaire (pediatric, Navi Mumbai) | 294 parents | **52% missed**; forgetfulness/exams top reasons; **memory-reliance** significant (p=0.024); upper-middle SES highest no-show (58.8%); **48.3% prefer dentist phone-call reminder** > card 25.9% > SMS 23.8% > email 2% | cross-sectional |
 | Samohyl 2021 | Cross-sectional school survey, student-parent linked (Slovakia) | 515 students + 681 parents | **Parental avoidance is the strongest independent predictor** of adolescent non-attendance (mother AOR 4.19, father AOR 3.41); skipping pediatric ↔ dental care co-occurs (AOR 5.14); male, older, incomplete-family, low-income, home-stress cluster | cross-sectional |
+| Prasad 2012 | Controlled trial, SMS reminder vs none (dental OPD, India) | 206 (test 96 / control 110) | **SMS reminder → on-time attendance 79.2% vs 35.5%** — reminders work vs no reminder; allocation method not fully recoverable (likely quasi-RCT) | rct |
+| Nelson 2011 | RCT, SMS text vs voice reminder (pediatric dental, U. Washington) | 318 dyads | **Voice reminder beat SMS** (no-show 8.2% vs 17.7%; adjusted OR 2.12, p=.04) — channel matters; matches patient preference for a call | rct |
 
 > [!note] Bhatia SES caveat
 > Bhatia's abstract reports socioeconomic status as a significant correlate of missing (p<0.05), but the SES results table reports p=0.142 (not significant) — an internal inconsistency. Treat the SES association as **suggestive only**; the robust significant correlate in that study is method-of-remembering (memory-reliance, p=0.024).
@@ -73,6 +78,7 @@ An operational ladder — apply in order; each rung addresses a different layer 
 
 **3. Reminder strategy — match the channel to patient preference.**
 - Patients' stated preference hierarchy (Bhatia): **dentist phone call the day before (48.3%) > appointment card (25.9%) > SMS (23.8%) > email (2%)**. A personal call, not a default automated SMS, was the #1 preferred lever.
+- **Reminders work (RCT evidence), but channel matters.** An SMS reminder vs none raised on-time attendance to **79.2% vs 35.5%** (Prasad) — so *any* reminder beats none; but head-to-head, **voice reminders outperformed SMS** (no-show 8.2% vs 17.7%, adjusted OR 2.12; Nelson), converging with the stated preference for a call. Default to a personal/voice reminder for high-risk appointments and reserve SMS as the scalable baseline; both trials are single-setting with different comparators, so treat the channel ranking as directional.
 - Establish the reminder/recall mechanism **at the first visit** (Bhatia), since new-patient visits are over-represented among misses (Alkhurayji).
 - Because memory-reliance is a significant correlate (Bhatia), any external reminder displaces the single highest-risk tracking method.
 
@@ -92,7 +98,7 @@ An operational ladder — apply in order; each rung addresses a different layer 
 - **No true rate or relative risk.** Alkhurayji profiled only missed appointments with no attended-appointment comparator, so it yields a descriptive profile, not a no-show rate or relative risk. Reported "rates" (44%, 52%, 42.7%) come from different populations/definitions and are not directly comparable.
 - **Cross-sectional, self-report, single-site dominance.** Four of five studies are cross-sectional or retrospective single-center (Riyadh military, Jordan hospital, Navi Mumbai college, Bratislava schools) with self-report bias and no longitudinal/causal inference. Samohyl's non-attender group was small (n=57), making it hypothesis-generating.
 - **Bhatia SES inconsistency unresolved** (abstract p<0.05 vs table p=0.142) — the role of SES in no-show, and the counter-intuitive high-SES-highest-rate finding, needs prospective confirmation.
-- **Reminder-channel efficacy is preference, not outcome.** Bhatia measured what patients *want* (dentist call), not which channel actually *reduces* no-shows in an RCT; the field lacks head-to-head trials of call vs SMS vs app reminders in dental settings.
+- **Reminder-channel efficacy — partly answered, still thin.** Two RCTs now address it: SMS vs none works (Prasad, 79% vs 36%) and voice beat SMS head-to-head (Nelson, OR 2.12). But both are single-center with different comparators, neither tests app/push reminders, and there is no dental meta-analysis or cost-effectiveness comparison of call vs SMS vs app — so the channel ranking is directional, not settled.
 - **ML deployment validation.** Alabdulkarim's model is developed/validated retrospectively on Saudi data; prospective deployment, fairness across demographic groups, and transferability to Korean clinic appointment systems are untested.
 - **No Korean or Asian-clinic operational data** in this set beyond the Indian pediatric cohort — local appointment-system records (e.g. via clinic EMR) would let the binary-sequence/lead-time approach be re-validated domestically.
 
@@ -103,3 +109,5 @@ An operational ladder — apply in order; each rung addresses a different layer 
 - [[practice-management/khries-2024-identifying-barriers-pediatric-dental-appointments]] — pediatric barrier taxonomy showing 44% non-attendance despite 85% insurance (cost ≠ driver); transport and staff-miscommunication as structural levers.
 - [[practice-management/bhatia-2018-pediatric-dental-appointments-no-show-rates-reasons]] — pediatric 52% missed rate; the memory-reliance correlate, the reminder-preference hierarchy (dentist call > SMS), and the high-SES-highest-no-show paradox (carry the abstract-vs-table SES significance caveat).
 - [[practice-management/samohyl-2021-non-attendance-dental-preventive-care-students]] — the intergenerational mechanism: parental avoidance independently predicts the adolescent's non-attendance (mother AOR 4.19 / father AOR 3.41), reframing no-show as a family/health-behavior trait rather than an individual patient failing.
+- [[practice-management/prasad-2012-sms-reminder-dental-attendance-rct]] — the reminder-works RCT: SMS vs no reminder raised on-time attendance 79.2% vs 35.5%, supplying the intervention-efficacy evidence the factor studies lack.
+- [[practice-management/nelson-2011-text-vs-voice-reminder-pediatric-dental-rct]] — the channel-comparison RCT: voice reminders beat SMS (OR 2.12), qualifying a blanket "send an SMS" recommendation and converging with the patient preference for a dentist call.
