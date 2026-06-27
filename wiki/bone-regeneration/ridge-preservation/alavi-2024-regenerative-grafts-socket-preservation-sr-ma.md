@@ -14,6 +14,8 @@ tags: [socket-preservation, ridge-preservation, L-PRF, rhBMP-2, blood-derived-gr
 relations:
   - type: extends
     target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
+text_path: /Users/oracleneo/llm-wiki/papers/alavi-2024-regenerative-grafts-socket-preservation-sr-ma.txt
+text_filename: alavi-2024-regenerative-grafts-socket-preservation-sr-ma.txt
 ---
 
 ## One-line Summary

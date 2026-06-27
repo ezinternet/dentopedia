@@ -1,0 +1,20 @@
+A systematic review and meta-analysis on the use of regenerative graft materials for socket preservation in randomized clinical trials.
+
+Authors: Alavi; Imanian; Alkaabi; Al-Sabri; Forouzanfar; Helder
+Journal: {'title': 'Oral surgery, oral medicine, oral pathology and oral radiology', 'iso_abbreviation': 'Oral Surg Oral Med Oral Pathol Oral Radiol'}
+Publication date: {'year': '2024', 'month': '07', 'day': '18'}
+DOI: 10.1016/j.oooo.2024.07.003
+PMID: 39317600
+Article types: Journal Article, Meta-Analysis, Systematic Review
+
+ABSTRACT
+========
+To evaluate if regenerative materials with/without scaffold deployed in dental socket preservation led to reduced radiographic height and width bone resorption.
+
+English-written human studies from January 2010 to December 2023 were selected from PubMed, EMBASE, MEDLINE, Cochrane CENTRAL, Google Scholar and manually searched journals. Six meta-analyses were conducted, addressing treatments with all blood-derived growth factor preparations as well as L-platelet-rich fibrin (L-PRF) separately, and recombinant human BMP-2 (rhBMP-2). An unpaired t-test on L-PRF and rhBMP-2 determined the clinically best preservation treatment. Cochrane risk of bias in all studies was analyzed.
+
+Twenty-nine articles (1068 participants) were included. Meta-analyses on blood-derived preparations demonstrated nonsignificant alveolar width, but significant (p = .001) height preservation. L-PRF vs. natural healing demonstrated nonsignificant changes in both dimensions. RhBMP-2 caused highly significant reduced horizontal (p = .01) and vertical (p < .0008) bone resorptions. When comparing mean resorption rates, significant benefits of rhBMP-2 over L-PRF were observed for width but not height preservation (p < .0001 and p = .057, respectively). Six studies recorded low, 8 moderate, and 15 high net risks.
+
+Regenerative materials appear beneficial for radiographic bone width and height preservation after tooth extraction. Although rhBMP-2 performed better in alveolar width preservation, L-PRF can be an autologous and cost-effective alternative.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

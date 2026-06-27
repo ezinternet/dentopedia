@@ -8,6 +8,8 @@ source_collection: pubmed-text
 full_text: false
 category: [bone-regeneration/ridge-preservation]
 source_url: https://pubmed.ncbi.nlm.nih.gov/39317600/
+text_path: /Users/oracleneo/llm-wiki/papers/alavi-2024-regenerative-grafts-socket-preservation-sr-ma.txt
+text_filename: alavi-2024-regenerative-grafts-socket-preservation-sr-ma.txt
 ---
 
 ## Why Ingested
