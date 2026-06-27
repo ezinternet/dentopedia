@@ -7,9 +7,8 @@ pmid: "40967160"
 category: [radiology]
 source_collection: pubmed-text
 full_text: false
-text_path: ""
-pdf_path: ""
-pdf_filename: ""
+text_path: /Users/oracleneo/llm-wiki/papers/kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.txt
+text_filename: kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.txt
 ---
 
 ## Why Ingested

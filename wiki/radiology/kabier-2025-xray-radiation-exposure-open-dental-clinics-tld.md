@@ -14,6 +14,8 @@ tags: [occupational-dose, TLD, lead-apron, open-clinic, dentist, assistant]
 relations:
   - type: contradicts
     target: kim-2016-occupational-radiation-procedures-doses-korean-dentists
+text_path: /Users/oracleneo/llm-wiki/papers/kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.txt
+text_filename: kabier-2025-xray-radiation-exposure-open-dental-clinics-tld.txt
 ---
 
 ## One-line Summary

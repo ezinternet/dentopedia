@@ -1,0 +1,14 @@
+Evaluation of X-ray radiation exposure in open dental clinics for dentists and assistants using TL-dosimeters.
+
+Authors: Kabier; Abul-Hial; Badran
+Journal: {'title': 'Applied radiation and isotopes : including data, instrumentation and methods for use in agriculture, industry and medicine', 'iso_abbreviation': 'Appl Radiat Isot'}
+Publication date: {'year': '2025', 'month': '09', 'day': '15'}
+DOI: 10.1016/j.apradiso.2025.112186
+PMID: 40967160
+Article types: Journal Article
+
+ABSTRACT
+========
+The objective of this investigation is to determine the average effective dosage for dentists and assisting personnel in Basrah city each year. Additionally, we aim to compare the average annual effective doses with the limits set by the International Commission on Radiological Protection. The doses were measured using thermoluminescence dosimeters (TLD-200) placed over the apron at the chest level in all participants. The results showed that the average annual effective doses were 5.623 mSv/y for dentists and 5.279 mSv/y for assistants. Most of the measured annual doses were well below the internationally recommended limit of 20 mSv/y. Notably, assistants in general hospitals tended to receive higher radiation doses compared to dentists. This phenomenon can be attributed primarily to the increased frequency of radiological procedures and the higher patient throughput typical of general hospitals. Despite this, implementing advanced protective equipment, regular monitoring, and well-structured radiation safety protocols helps mitigate exposure risks.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]
