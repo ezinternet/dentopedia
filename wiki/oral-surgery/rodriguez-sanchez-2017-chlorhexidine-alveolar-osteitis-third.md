@@ -9,6 +9,8 @@ source: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.md
 category: [oral-surgery]
 confidence: sr+ma
 source_collection: external
+pdf_path: /Users/oracleneo/llm-wiki/papers/rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
+pdf_filename: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
 tags: [chlorhexidine, alveolar-osteitis, dry-socket, third-molar, extraction]
 ---
 
