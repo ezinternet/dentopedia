@@ -14,6 +14,8 @@ tags: [sinus-pathology, mucosal-thickening, CBCT, prevalence, implant-planning]
 relations:
   - type: reinforces
     target: sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence
+text_path: /Users/oracleneo/llm-wiki/papers/salari-2021-maxillary-sinus-pathologic-findings-cbct-implant.txt
+text_filename: salari-2021-maxillary-sinus-pathologic-findings-cbct-implant.txt
 ---
 
 ## One-line Summary
