@@ -155,7 +155,7 @@ tags: []
 - [[implants/isq/meredith-1996-quantitative-stability-implant-tissue-rfa]] — 랜드마크(1996): 공명주파수분석(RFA)을 임플란트-조직 계면 안정성 정량화에 최초 도입 — ISQ 척도의 개념적 기원
 - [[implants/isq/mistry-2014-measuring-implant-stability-review-methods]] — narrative review: 안정성 측정 6법(임상감각·타진·역토크·절삭토크·Periotest·RFA/ISQ) 정리; 성공 예측 단일 임계치 없음
 - [[implants/isq/kim-2009-implant-stability-various-implant-systems-clinical]] — 전향적(28명, 45 implants, 3 시스템): ISQ 변화는 시스템 아닌 골질이 결정; 0–6주 급상승(연질골 최대) 후 plateau, 45/45 생존
-- [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ resonance frequency analysis thresholds: ISQ < 60 requires delayed loading; ISQ 60–70 allows early loading with monitoring; ISQ > 70 permits immediate/early loading
+- [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — Prospective (54 pts, 104 implants, 3 systems 3i/Replace/ITI): baseline ISQ differs by system but converges by 2 months (catch-up); surface treatment & taper design drive the ISQ trajectory
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — Review: ISQ 결정 3인자(골질·임플란트-골 접촉·유효 노출 길이); stability dip 원리; ISQ<60 지연부하, >70 즉시부하 가이드
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — 증례보고: UV 광기능화 임플란트(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1-4주 내 조기부하 성공
 - [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] — In vitro: hand vs machine SmartPeg tightening (2–11 vs 2–6 Ncm) → ISQ equivalent (p=0.343/0.890); manual placement clinically reliable
@@ -195,7 +195,7 @@ tags: []
 - [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] — SR (12편, PRISMA): 삽입토크와 ISQ 간 유의한 상관관계 없음(r=0.366, p=0.079); 두 측정법은 독립적·비교 불가 — 임상 결정 시 한 가지 방법만 사용할 것 권고; 근거 확실도 낮음 (CIDRE 2018).
 - [[implants/isq/lee-2011-isq-loading-protocol-prediction]] — 전향적 연구(5개월, 아산의료원): ISQ와 삽입토크·골밀도 상관관계 확인; 식립 시 ISQ≥65 → 조기/즉시부하 예측 가능.
 - [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]] — 분구강 in vivo 연구(30쌍): 테이퍼 임플란트가 모든 시점에서 원통형보다 유의하게 높은 ISQ; 통증 VAS 및 치주 지표도 테이퍼 우세; 두 군 생존율 100%
-- [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — ISQ 임계값 실용 가이드: <60 지연부하, 60–70 조기부하+모니터링, >70 즉시/조기부하 가능  # Comparison of Initial Implant Stability Across Systems (RFA Analysis)  **Source**: [[implants/isq/oh-2008-comparison-of-initial-implant-stability]]   **Year**: 2008 | **Method**: Resonance Frequency Analysis (RFA) | **Key Measure**: ISQ Values
+- [[implants/isq/oh-2008-comparison-of-initial-implant-stability]] — 전향적(54명·104 임플란트·3종 3i/Replace/ITI): 기저 ISQ는 시스템 간 차이 있으나 2개월에 수렴(catch-up); 표면처리·테이퍼 디자인이 ISQ 변화 궤적 결정
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — RFA 원리 리뷰: ISQ 결정 3인자(골질·BIC·유효노출길이); stability dip 원리; ISQ<60 지연, >70 즉시부하 기준
 - [[implants/isq/seol-2017-uv-implant-resonance-frequency-early-loading]] — 증례보고: UV 광기능화(접촉각≈0°, BIC≈100%) → stability dip 없이 ISQ 급상승 → 1–4주 조기부하 성공
 - [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]] — 후향적 연구(n=200 NobelReplace Tapered, UCLA): 구강 내 위치(하악>상악)가 ISQ의 가장 유의한 결정 인자; 임플란트 길이는 임상적으로 유의미한 경향(p=0.08/0.09); 직경·성별·나이는 ISQ에 영향 없음; 생존율 98% (OOOO 2016).
@@ -2050,6 +2050,8 @@ tags: []
 - [[geriatric-dentistry/li-2024-prevalence-oral-frailty-older-adults]] — Li 2024 (SR+MA, 18편): oral frailty 24%·전단계 57%; OFI-8(44%) vs OFI-6(18%) 도구 의존성 부각
 - [[geriatric-dentistry/chan-2022-professionally-applied-fluoride-older-adults]] — Chan 2022 (SR+MA, HKU, 7편): 노인 근관면 우식 — 38% SDF 예방+정지(24개월 42%), NaF varnish 64%·APF 32% 예방 (위생사 적용)
 - [[geriatric-dentistry/kumar-2025-nutritional-status-dry-mouth-older-adults]] — Kumar 2025 (SR+MA, 14편): 노인 구강건조-영양실조 강한 연관(xerostomia 38%·malnutrition 55%)
+- [[geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] — 전향적 코호트 (PURE, n=139,691, 17개국): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (HR) 1.16, 수축기혈압보다 강한 사망 예측인자 — 구강노쇠·신체노쇠 연결 근거
+- [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
 
 ## 방사선 (Radiology / Dental Imaging)
 - [[radiology/mortazavi-2016-lesions-associated-with-periodontal-ligament]] — Mortazavi 2016 · narrative-review · PDL 확장 유발 병변 감별(교합외상·교정력·경피증·골육종·비호지킨림프종); 국소+골파괴면 악성 의심 (DOI 10.5624/isd.2016.46.4.229)
@@ -2418,6 +2420,7 @@ tags: []
 - [[oral-surgery/thereza-bussolaro-2026-cbct-ian-predictive-factors-sr-ma]] — Thereza-Bussolaro 2026 · sr+ma · 18개 CBCT 연구: 피질골 소실(OR 9.87)·아령형 관(OR 8.25)·설측 위치(OR 3.82)가 IAN 손상 3대 예측 인자; 3개 모두 OR 5.06 (JADA)
 - [[oral-surgery/thereza-bussolaro-2026-ian-risk-cbct-at-risk-sr-ma]] — Thereza-Bussolaro 2026 · sr+ma · CBCT 11개 코호트: 전체 IAN 손상률 9.52%; 고위험군 14.76%; 피질골 소실 15.65% vs 존재 0.39% (40배 차이) (JOMS)
 - [[oral-surgery/al-aroomi-2025-cgf-third-molar-postop-sr]] — Al-Aroomi 2025 · sr · 11개 RCT: 사랑니 발치 후 CGF(농축성장인자) 적용 시 통증 75%·진통제 100% 개선; 방사선 골충전 80%·치주 지표 100% 향상; 부기·치조골염 효과 불명확
+- [[oral-surgery/baek-2010-literature-review-altered-sensation-mandibular]] — 서사적 문헌 고찰(2010): 하악 구치부 임플란트 식립 후 감각이상(Altered Sensation) 이환율 0–55%로 이질적; 하치조신경·이신경 주로 손상, 일시적 증례는 6개월 이내 회복, NSAIDs·미세신경문합술로 치료
 
 ### Orthodontics — miniscrew/TAD
 - [[orthodontics/katyal-2024-success-rate-factors-affecting-stability]] — Katyal 2024 · sr+ma · SR+MA (14 studies, 1683 IZC screws): pooled success 92%, no age effect
