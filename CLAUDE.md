@@ -533,15 +533,24 @@ Each session should produce 5–15 new or updated wiki pages.
 
 Never edit `overviews-map.html` by hand (it's overwritten). A new overview appears automatically once its file lands in `wiki/overviews/`; if its `stem` matches no domain keyword in the script's `DOMAINS` map, it falls into the `기타 · 미분류` bucket (never dropped). To re-home it, add its keyword to `DOMAINS` in `scripts/build-overviews-map.py`. Regenerate locally with `python3 scripts/build-overviews-map.py`.
 
+### Interactive tools — deploy-time freshness (two classes)
+
+The `interactives/` chairside calculators/decision-trees/simulators split into two classes with different freshness mechanisms:
+
+- **메타·통계 도구 (Class A)** — numbers ARE repo state (paper/overview/category counts, ingest timeline, 발행연도 histogram). `scripts/build-wiki-stats.py` regenerates **`interactives/wiki-stats-live.html`** on every deploy from live repo state + git history (reuses the v4 render engine; only the JS DATA blocks + header scalars are injected). It is the single always-current dashboard. The date-stamped lineage (`wiki-evolution` v1~v4, `wiki-growth-curve`) stays **frozen as the evolution archive** — never regenerated (mutating a dated snapshot would make its filename lie). Never hand-edit `wiki-stats-live.html` (overwritten). git cumulative needs full history → deploy uses `fetch-depth: 0`.
+- **임상 결정 도구 (Class B)** — numbers are clinical thresholds an LLM extracted from specific papers (ISQ ≥65, r=0.44, doses, risk %). A deploy script **cannot** safely re-extract these (would hallucinate/corrupt clinical values → violates Rule #1), so they are **not auto-rewritten**. Instead `scripts/interactive-staleness.py` emits a signal when a tool's `source_wiki:` page is newer than the tool (STALE → re-author with LLM) or a source path vanished (BROKEN). Re-authoring stays a human/LLM-in-the-loop step. This matches the wiki's signal-not-gate philosophy.
+
+Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interactives-index.py` (so the live tool is indexed) → `interactive-staleness.py` (non-blocking) → copy `interactives/` into the site.
+
 ## Daily Audit
 
-A single entry-point runs all 12 audits and writes their logs to `logs/`:
+A single entry-point runs all 13 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
 ```
 
-The 12 audits — 3 classic + 1 rationale (errors block) + 8 signals:
+The 13 audits — 3 classic + 1 rationale (errors block) + 9 signals:
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -557,6 +566,7 @@ The 12 audits — 3 classic + 1 rationale (errors block) + 8 signals:
 | `supersession-audit.py` | signal | `superseded_by` 깨진 링크 + 필드↔본문 배너 sync + decay 후보(sr+ma/sr/rct 중 5년↑ 미대체, 카테고리·중심성 집계) — living-document 갱신을 신호화 |
 | `relations-audit.py` | signal | `relations:` typed edge target 실존·vocab 검증 + 타입 분포 + typed-edge JSON export(Quartz/custom 렌더용) |
 | `link-integrity.py` | signal | 본문 `[[wikilink]]` 깨짐 + index.md 양방향 커버리지 (Astro-Han lint 개념 차용) |
+| `interactive-staleness.py` | signal | 임상 interactive 도구의 `source_wiki` 근거가 도구보다 git상 최신이면 STALE(LLM 재작성 후보), 근거 경로 소실이면 BROKEN. meta/통계 도구는 제외(build-wiki-stats.py가 배포 때 재생성). 임상 수치 자동 재작성은 Rule #1 위배라 신호만 |
 
 Signals never block. They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows).
 
