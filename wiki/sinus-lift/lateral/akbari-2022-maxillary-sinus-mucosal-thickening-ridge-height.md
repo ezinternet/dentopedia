@@ -16,6 +16,8 @@ relations:
     target: sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus
   - type: reinforces
     target: sinus-lift/lateral/khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening
+text_path: /Users/oracleneo/llm-wiki/papers/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height.txt
+text_filename: akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height.txt
 ---
 
 ## One-line Summary
