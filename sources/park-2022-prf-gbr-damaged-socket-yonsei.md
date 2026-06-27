@@ -8,8 +8,8 @@ category: [bone-regeneration/ridge-preservation]
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/36330669/
-text_path: ~
-text_filename: ~
+text_path: /Users/oracleneo/llm-wiki/papers/park-2022-prf-gbr-damaged-socket-yonsei.txt
+text_filename: park-2022-prf-gbr-damaged-socket-yonsei.txt
 ---
 
 ## Why Ingested

@@ -14,6 +14,8 @@ tags: [prf, sticky-bone, gbr, ridge-preservation, dpbm, beagle-dog, socket-heali
 relations:
   - type: reinforces
     target: bone-regeneration/ridge-preservation/alavi-2024-regenerative-grafts-socket-preservation-sr-ma
+text_path: /Users/oracleneo/llm-wiki/papers/park-2022-prf-gbr-damaged-socket-yonsei.txt
+text_filename: park-2022-prf-gbr-damaged-socket-yonsei.txt
 ---
 
 ## One-line Summary

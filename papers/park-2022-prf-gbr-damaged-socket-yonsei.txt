@@ -1,0 +1,20 @@
+Platelet-rich fibrin combined with a particulate bone substitute versus guided bone regeneration in the damaged extraction socket: An in vivo study.
+
+Authors: Park; Hong; Ko; Cha; Gruber; Lee
+Journal: {'title': 'Journal of clinical periodontology', 'iso_abbreviation': 'J Clin Periodontol'}
+Publication date: {'year': '2022', 'month': '11', 'day': '25'}
+DOI: 10.1111/jcpe.13742
+PMID: 36330669
+Article types: Journal Article, Research Support, Non-U.S. Gov't
+
+ABSTRACT
+========
+It has been proposed that platelet-rich fibrin (PRF) can be used to support bone regeneration during alveolar ridge augmentation. The aim of this study was to determine whether an approach utilizing PRF provides similar performance to the established guided bone regeneration (GBR) procedure.
+
+Two-wall defects were surgically created in beagle dogs and treated in three experimental groups: (i) a sticky bone (SB) substitute prepared using liquid PRF and deproteinized porcine bone mineral (DPBM); (ii) SB covered with solid PRF compressed into a membrane; and (iii) GBR performed using DPBM covered by a collagen membrane. Quantitative reverse-transcription polymerase chain reaction was applied to the specimen after 1&#xa0;week of healing, and microcomputed tomography (micro-CT) and histological outcomes were analysed after 8&#x2009;weeks of healing.
+
+Compared with GBR, PRF resulted in a moderate increase in the expression levels of osteoblast and osteoclast markers, osteocalcin, and calcitonin receptor. Moreover, PRF modestly increased angiogenesis and the inflammation markers vascular endothelial growth factor (VEGF) and IL-6. Micro-CT and histological analyses confirmed the expected increased alveolar ridge area, with no significant differences between the three groups. Consistently, graft consolidation, as indicated by new bone formation at the defect site, did not differ significantly between groups.
+
+The present results demonstrate that PRF-based approaches perform comparably to the established GBR procedure in terms of the consolidation of DPBM in two-wall alveolar defects.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]
