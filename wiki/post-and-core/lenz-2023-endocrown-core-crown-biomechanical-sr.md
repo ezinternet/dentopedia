@@ -11,6 +11,8 @@ confidence: sr
 source_collection: pubmed-text
 full_text: false
 tags: [endocrown, core-crown, post-core, biomechanics, endodontically-treated-teeth, FEA, fatigue, fracture-resistance]
+text_path: /Users/oracleneo/llm-wiki/papers/lenz-2023-endocrown-core-crown-biomechanical-sr.txt
+text_filename: lenz-2023-endocrown-core-crown-biomechanical-sr.txt
 ---
 
 ## One-line Summary

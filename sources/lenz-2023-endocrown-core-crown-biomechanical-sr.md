@@ -9,8 +9,8 @@ category: [post-and-core]
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/37571973/
-text_path: ""
-text_filename: ""
+text_path: /Users/oracleneo/llm-wiki/papers/lenz-2023-endocrown-core-crown-biomechanical-sr.txt
+text_filename: lenz-2023-endocrown-core-crown-biomechanical-sr.txt
 ---
 
 ## Why Ingested

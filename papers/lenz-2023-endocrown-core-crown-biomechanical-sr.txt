@@ -1,0 +1,22 @@
+Biomechanical performance of endocrown and core-crown restorations: A systematic review.
+
+Authors: Lenz; Bacchi; Della Bona
+Journal: {'title': 'Journal of esthetic and restorative dentistry : official publication of the American Academy of Esthetic Dentistry ... [et al.]', 'iso_abbreviation': 'J Esthet Restor Dent'}
+Publication date: {'year': '2023', 'month': '08', 'day': '12'}
+DOI: 10.1111/jerd.13119
+PMID: 37571973
+Article types: Systematic Review, Journal Article
+
+ABSTRACT
+========
+To assess and compare, through a systematic review of the literature, the biomechanical performance of endocrowns and traditional core-crowns (with and without intracanal post) for the rehabilitation of endodontically treated teeth with severe coronal structure damage.
+
+A systematic search was performed in MEDLINE/PubMed, Scopus, and Web of Science databases. In-vitro studies comparing endocrowns with (post-)core-crown restorations were selected and screened by two independent reviewers. The included studies were submitted to the risk of bias analysis using the RoBDEMAT tool and the biomechanical outcomes were collected for qualitative analysis. The extracted data were presented based on comparative analyses among the included studies.
+
+Thirty-one studies were included: 9 studies evaluated restorations of molars, 14 for premolars, and 8 studies evaluated anterior restorations. For the majority of the studies, endocrowns showed either similar or greater survival rates under fatigue and monotonic load than (post-)core-crown restorations, irrespectively of the tooth. The endocrowns showed more favorable failure patterns than (post-)core-crowns, irrespectively of the tooth. Endocrowns produced lower stresses in the restorative material for molars and premolars and in the luting material for premolars than (post-)core-crown restorations. The included studies presented adequate information for most items of the RoBDEMAT risk of bias tool.
+
+Endocrowns showed similar or greater biomechanical performance than the traditional (post-)core-crown restorations in most of the evaluated studies.
+
+This systematic review showed that endocrowns present either similar or greater biomechanical performance than core-crown restorations for anterior and posterior endodontically treated teeth with severe structural damage.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]
