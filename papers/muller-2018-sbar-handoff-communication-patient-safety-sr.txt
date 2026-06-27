@@ -1,0 +1,94 @@
+Impact of the communication and patient hand-off tool SBAR on patient safety: a systematic review
+Müller M, Jürgens J, Redaélli M, Klingberg K, Hautz WE, Stock S
+BMJ Open 2018;8(8):e022202. doi:10.1136/bmjopen-2018-022202
+PMID: 30139905 ; PMCID: PMC6112409
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP get_full_text_article.
+
+=== STRENGTHS AND LIMITATIONS ===
+- Conducted in accordance with Cochrane Collaboration standards using a validated tool for quality assessment.
+- Five databases (PUBMED, EMBASE, CINAHL, Cochrane Library, PsycINFO) plus references searched with an open strategy.
+- Two independent reviewers for study selection, data extraction and quality rating.
+- Studies in which SBAR was part of a larger quality-improvement initiative, and outcomes not measuring incidence of adverse events, were excluded.
+- Heterogeneity of studies prevented testing for publication bias or performing a meta-analysis.
+
+=== INTRODUCTION ===
+Patient safety = "the reduction of risk of unnecessary harm associated with healthcare to an acceptable minimum" (WHO World Alliance for Patient Safety). Adverse events (Brennan) = injuries caused by medical conduct resulting in prolonged hospitalisation and/or disability at discharge. The Joint Commission reported poor communication is a contributing factor in more than 60% of all hospital adverse events reviewed. Poor communication is especially prominent in patient hand-offs and time-pressured settings (perioperative, ICU, emergency department).
+
+SBAR (Situation, Background, Assessment, Recommendation) and derivatives (ISBAR, SBAR-R, ISBARR, ISOBAR) are widely used as communication and hand-off tools both intra- and interprofessionally. SBAR's clear structure calls for provision of all relevant information in logical fashion, enables preparation before communicating, gives sender and receiver a shared mental model, and reduces inhibitions in hierarchical contexts by encouraging the sender to give a personal assessment and recommendation. SBAR is regarded as current 'best practice' to deliver information in critical situations. "Soft" outcomes (employee satisfaction, interdisciplinary communication, completeness/efficiency of hand-off) have been studied positively, BUT the actual effect on patient OUTCOME is unclear. The wide adoption of SBAR without proven benefit may paradoxically limit improvements (a problem presumed solved is less addressed). Purpose: summarise available evidence for SBAR's impact on patient safety as measured by incidence of adverse events.
+
+SBAR components (Table 1):
+- S Situation: What is going on with the patient? Identify self, state patient name, briefly describe the problem. ("Dr Preston, I'm calling about Mr Lakewood, who's having trouble breathing")
+- B Background: Diagnosis/reason for admission, medical status, relevant history. ("He's a 54 year old man with chronic lung disease who has been sliding downhill, and now he's acutely worse")
+- A Assessment: Vital signs, labs, qualitative/quantitative data; provisional diagnosis/clinical impression. ("I don't hear any breath sounds in his right chest. I think he has a pneumothorax")
+- R Recommendation: Informed suggestion for continued care; immediate need explained clearly. ("I need you to see him right now. I think he needs a chest tube")
+Tool available from the Institute for Healthcare Improvement website.
+
+=== METHODS ===
+Search: PUBMED, EMBASE, CINAHL, Cochrane Library, PsycINFO via OvidSP, January 2017, plus references of included studies. Search terms: SBAR, ISBAR, SBAR-R, ISBARR, ISOBAR (text words, Boolean OR). No restrictions on time, language or article type. No review protocol exists.
+Selection: two trained reviewers (JJ, MM) reviewed abstracts/titles; ambiguous articles went to full-text evaluation. Dissent resolved by consensus or third reviewer (MR).
+Data extraction: predefined Excel form; checked by KK.
+Quality assessment: Effective Public Health Practice Project (EPHPP) tool (Canada), recommended by Cochrane, evaluates full range of quantitative designs; assessed inter-rater reliability, content and construct validity. 18 criteria in six domains (selection bias, study design, confounders, blinding, data collection methods, withdrawals/drop-outs); each domain rated strong/moderate/weak; algorithm consolidates into overall score. Two reviewers (JJ, MM); third reviewer (WEH) if needed.
+Data synthesis: ICC (two-way mixed-effects) for rater agreement. Heterogeneity of designs, outcome measures, settings, SBAR interventions precluded pooling; results presented narratively.
+No patient/public involvement.
+
+=== RESULTS ===
+Process: 1053 articles identified; 701 after de-duplication; 607 excluded by title/abstract; 94 full-text analysed; 11 articles included. Rater agreement on inclusion ICC 0.90 (95% CI 0.86–0.94). No additional studies from reference screening.
+
+Quality: rater agreement on quality ratings ICC 0.85 (95% CI 0.78–0.90).
+- RCT by Field = rated 'strong' overall.
+- One controlled trial by Randmaa = 'moderate' overall.
+- Remaining nine studies = 'weak' overall.
+- Three studies strong in study-design category (controlled clinical trials); eight used before–after design (weak in study-design category).
+- Selection bias: 'moderate' except Christie and Robinson (insufficient detail).
+- Field RCT (facility-level randomisation) controlled for known/unknown confounders; no other study controlled for confounders (weak).
+- Blinding described in only one study (9.1%); in one controlled trial reviewers rating patient-safety outcome were blinded (strong).
+- Overall lack of reporting on statistical tests and number of persons trained; no sample-size/power calculations in any study.
+
+Study characteristics:
+- 8 before–after (72.7%), 2 non-RCT/CCT (18.2%), 1 RCT (9.2%).
+- Published 2006–2016. 8 (72.7%) North America, 3 (27.3%) Europe.
+- Settings: hospitals 7 (63.6%), rehabilitation centre 1 (9.2%), nursing homes 3 (27.3%).
+- Nurses trained in all studies; in 5 (45.5%) other staff (e.g. physicians) also trained. Number trained 38–155, unspecified in 5 studies.
+- Study period 2–24 months (unspecified in 2).
+
+Intervention targets:
+- Team communication in general: 2 studies (18.2%).
+- Patient hand-offs (nurse-nurse or interprofessional): 5 studies (45.5%).
+- Communication in a particular situation (e.g. telephone calls nurse->physician for anticoagulation management or patient deterioration): 4 studies (36.4%).
+Implementation strategies: educational programmes (7), organisational/human support (7), interactive teaching incl. group discussion and role play (7). Additional SBAR trigger tools (poster, pocket cards, telephone stickers) in 6 studies (54.5%).
+
+Patient outcomes:
+- All studies assessed inpatient outcomes; none outpatients.
+- 3 studies (27.3%) general outcomes (adverse patient/drug events); 8 (72.7%) specific adverse events (anticoagulation-related, fall-related, unplanned ICU admission, death/cardiac arrest, transfer to hospital, MRSA bacteraemia, catheter-associated UTI).
+- Outcome measurement duration 1–12 months (not reported in 3 studies).
+- 3 studies confirmed high SBAR use rates via staff survey/medical-record review.
+
+EFFECT — overall summary (Table 2): In total 26 different patient outcomes measured:
+- 8 outcomes (in 5 studies) SIGNIFICANTLY improved.
+- 11 outcomes (in 4 before–after studies) described as improving WITHOUT statistical test.
+- 6 outcomes did not change significantly.
+- 1 study descriptively reported an INCREASE of adverse events (fall incidence up while fall severity down).
+- None found a significant reduction in patient safety.
+
+Key Table 2 findings:
+- Field 2011 (RCT, nursing home, telephone nurse->doctor anticoagulation): INR values within target range improved significantly (4.5% more time in therapeutic range; 95% CI 3.1%–8.7%). Preventable warfarin-related AE: NOT significant (OR 0.9, 95% CI 0.5–1.4).
+- Randmaa 2014 (CCT, hospital, hand-off physician+nurses, anaesthesiology): CIRS communication-error events decreased significantly 31% -> 11%.
+- De Meester 2013 (before–after, hospital, telephone deterioration): unexpected death decreased significantly 0.99 -> 0.34 per 1000 admissions (p<0.001); ICU admissions increased 13.1 -> 14.8 per 1000 (NS); cardiac-arrest team calls NS.
+- Pineda 2015 (before–after, hospital, nurse hand-off): patient falls reduced (significant).
+- Devereaux 2016 (before–after, nursing home, telephone deterioration): 30-day readmissions 0.12 -> 0.04 (p=0.012); avoidable hospitalisations 0.15 -> 0.05 (p=0.007).
+- Haig 2006, Andreoli 2010, Freitag & Carroll 2011, Christie & Robinson 2009: descriptive improvements (no statistical test). Christie & Robinson: hospital mortality -11%, MRSA bacteraemias -83%, adverse events -65%, cardiac arrests -8%.
+- Telem 2011 (CCT, hospital, physician hand-off): sentinel events not significantly different (1 sentinel event over whole period).
+- Jarboe 2015 (before–after, nursing homes, telephone, longer 20-month period): no significant difference in preventable transfers (p=0.927) or emergent transfers (p=0.565).
+- Andreoli 2010 (rehab centre): descriptive INCREASE in overall falls incidence (with decrease in major-fall severity).
+
+=== DISCUSSION ===
+Strongest evidence = a single RCT (Field) on anticoagulation management under warfarin; relevance may decline as warfarin is replaced by DOACs, and warfarin-related AE (primary outcome) did NOT differ significantly. Best evidence overall: SBAR in telephone communication nurse->physician for deteriorating patients (significant decrease in unexpected death; reduced transfers/readmissions/avoidable hospitalisations from nursing homes). But one similar nursing-home study with longer follow-up found no significant difference — possibly because SBAR use decayed over time.
+Study periods short in two trials (2 months) -> only one sentinel event. Power calculations missing in all studies, so null findings uninterpretable. Almost half of outcomes had no statistical test.
+Downstream educational-intervention effects are hard to assess (dilution): SBAR directly affects communication, which may or may not affect conduct, which may alter outcome — many confounders dilute the path. Most studies are before–after, so SBAR effects cannot be distinguished from secular changes (e.g. increased awareness). Process measures of communication parameters were not measured in any included study, reducing internal validity and impeding causal interpretation. Unreflected adoption of SBAR may paradoxically limit communication improvement (problem presumed solved -> less research).
+
+Limitations: no grey literature searched (trials may be missed); authors not contacted for raw data; publication bias not assessable; heterogeneity prevented meta-analysis; soft outcomes not included; trials where SBAR was a minor component of a complex intervention excluded.
+
+Implications: 5 studies (incl. the two moderate/high-quality ones) found significantly improved patient-safety outcomes; 4 before–after studies reported descriptive improvement. Emphasises potential importance of SBAR for (1) telephone nurse->doctor communication in critical situations, (2) general patient hand-off, (3) team communication in general. But evidence quality is low; best evidence is for telephone communication. High-quality research needed.
+
+=== CONCLUSION ===
+Many authors claim SBAR improves patient safety. There IS some evidence of effectiveness on patient outcome, but it is limited to specific circumstances such as communication over the phone. High-quality studies are lacking. SBAR may be an adaptive tool suitable for many healthcare settings, particularly where clear effective interpersonal communication is required.
