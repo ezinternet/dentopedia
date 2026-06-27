@@ -1314,6 +1314,7 @@ tags: []
 - [[oral-surgery/oliva-2024-oroantral-communication-fistula-treatment-sr-ma]] — SR+NMA (9건, 7 RCT, n=519): 구강상악동교통·누공(OAC/OAF) 폐쇄에서 협측지방패드(BFP) > 협측전진피판(OR 15) > 구개회전피판(OR 15.29); 즉시 처치(24–48h) 성공률 90–95% (DOI 10.3390/dj12050147)
 - [[oral-surgery/kwon-2020-closure-oroantral-fistula-local]] — 구강상악동루(OAF) 국소 피판 폐쇄술 서술 고찰: 크기 기반 알고리즘(<3mm 자연치유·<5mm 단순봉합·≥5mm 피판) + 협측전진피판·협측지방패드·구개회전피판(>10mm) 비교 (DOI 10.5125/jkaoms.2020.46.1.58)
 - [[oral-surgery/lazow-1999-oroantral-fistula-flap-procedures]] — 서사 리뷰(1999): OAF 폐쇄 피판 술식 전반(협측·구개·설·측두근·동종이식) + 결손 크기별 4단계 프로토콜; 급성 1차 성공률 ~95% vs 만성 2차 최저 67% (DOI 10.1016/S1043-1810(99)80037-2)
+- [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — Shandilya 2025 · 전향적(n=132, 구강 SCC 절제+경부청소술): 수술 후 창상 오염률 55% → 생리식염수 세정 후 7.6%로 유의 감소(p<0.001); 신경주위침윤(PNI)만 오염 예측인자(p=0.037); 기계적 세정만으로 이식전이 위험 실질적 감소
 
 ## 레진 (Resin)
 - [[resin/theracem-bisco-product-reference]] — 제품 reference: TheraCem(BISCO; calcium silicate·10-MDP·Ca/F 방출 dual-cure self-adhesive 시멘트); 지르코니아 합착 강점 종합
@@ -2863,6 +2864,7 @@ tags: []
 - [[dental-trauma/tewari-2024-pulp-necrosis-lateral-luxation]] — Tewari 2024 · sr+ma(13편) · 측방탈구 치수괴사 — 성숙치 58% vs 미성숙 12%, EIRR ~11%; 성숙치 예방적 근관 신중 (DOI 10.1111/edt.12956)
 - [[dental-trauma/vitali-2025-preoperative-factors-prognosis-regenerative-endodontic]] — Vitali 2025 · sr+ma(20편) · REP 예후 — 치유 >81%이나 외상성 괴사 RR 3.59·전치 RR 1.90·치근단병소 RR 2.55로 치근발육 실패 위험↑ (DOI 10.1111/iej.70025)
 - [[dental-trauma/agarwal-2025-impact-mouthguards-prevention-dentofacial-injuries]] — Agarwal 2025 · umbrella(SR 9편, AMSTAR-2) · 마우스가드가 탈구·파절 유의 감소, 맞춤형 우월; 기저 SR 질 낮음 (DOI 10.4103/jisppd.jisppd_55_25)
+- [[dental-trauma/jain-2025-avulsed-tooth-storage-media-pdl-viability]] — Jain 2025 · in-vitro(n=62 소구치, 30분 건조+45분 보관): DNS(당포도당생리식염수)·ORS가 HBSS와 동등한 PDL 세포 생존율 유지(NS); 과일주스 최저(pH·삼투압 불량); DNS·ORS = 응급 상황 HBSS 대안
 - [[overviews/dental-trauma-management-overview]] — **NEW Overview**: 외상치 관리 종합 (5편). 예방(맞춤 마우스가드)→응급(보관매체로 PDL 생존: 우유/HBSS/프로폴리스/ORS, 식염수·수돗물 금지)→고정(유연·단기 IADT)→치수예후(근첨 성숙도가 좌우: 측방탈구 괴사 성숙 58% vs 미성숙 12%, 외상성 괴사는 REP 치근발육 실패 3.6×) — 근첨성숙·PDL생존이 전 과정의 결정인자, 근거는 전반적으로 GRADE very-low (2026-06-22)
 
 ## 포스트앤코어 (Post-and-Core / Fiber Post) — NEW category (added 2026-06-22, surveillance batch)
