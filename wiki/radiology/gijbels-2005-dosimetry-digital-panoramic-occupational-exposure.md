@@ -14,6 +14,8 @@ tags: [panoramic, occupational-dose, scatter, operator-protection]
 relations:
   - type: extends
     target: benavides-2023-patient-shielding-dentomaxillofacial-radiography
+text_path: /Users/oracleneo/llm-wiki/papers/gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.txt
+text_filename: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.txt
 ---
 
 ## One-line Summary

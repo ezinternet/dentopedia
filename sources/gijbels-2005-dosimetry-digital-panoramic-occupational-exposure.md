@@ -7,9 +7,8 @@ pmid: "15897285"
 category: [radiology]
 source_collection: pubmed-text
 full_text: false
-text_path: ""
-pdf_path: ""
-pdf_filename: ""
+text_path: /Users/oracleneo/llm-wiki/papers/gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.txt
+text_filename: gijbels-2005-dosimetry-digital-panoramic-occupational-exposure.txt
 ---
 
 ## Why Ingested
