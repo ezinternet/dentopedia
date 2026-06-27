@@ -7,8 +7,9 @@ pmid: "32979952"
 category: [radiology]
 source_collection: pubmed-text
 full_text: false
-text_path: ""
+text_path: /Users/oracleneo/llm-wiki/papers/johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/32979952/
+text_filename: johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.txt
 ---
 
 ## Why Ingested

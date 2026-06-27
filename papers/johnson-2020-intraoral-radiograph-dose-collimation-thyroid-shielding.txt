@@ -1,0 +1,22 @@
+Intraoral radiographs: A comparison of dose and risk reduction with collimation and thyroid shielding.
+
+Authors: Johnson; Ludlow
+Journal: {'title': 'Journal of the American Dental Association (1939)', 'iso_abbreviation': 'J Am Dent Assoc'}
+Publication date: {'year': '2020', 'month': 'Oct'}
+DOI: 10.1016/j.adaj.2020.06.019
+PMID: 32979952
+Article types: Journal Article
+
+ABSTRACT
+========
+The National Commission on Radiation Protection and Measurements has reinforced its recommendation for the use of rectangular collimation for intraoral radiography in its Report No. 177 published in 2019. This study compared effective dose (E) using circular and rectangular collimator (RC) modalities.
+
+The authors exposed 18 projections for adult and 12 projections for child full-mouth series using an original equipment 6 centimeter diameter circular collimator (circular), original equipment rectangular positioning indicator device (Focus-RC), and 5 universal RC modalities (JadRad-RC, Rinn-RC, Durr-RC, DEXshield-RC, and TruAlign-RC) for adult and child phantoms. The authors acquired dosimetry using optically stimulated luminescence dosimeters. Exposures were made with a Focus (Instrumentarium) intraoral source using 70 peak kilovoltage and total milliamperes of 5.34 (adult) and 2.7 (child).
+
+Adult E was lowest for Focus-RC (54 microsieverts), which also produced the greatest exposure area reduction (51%) compared with circular, followed by JadRad-RC (55 &#x3bc;Sv), Durr-RC (58 &#x3bc;Sv), Rinn-RC (62 &#x3bc;Sv), DEXshield-RC (70 &#x3bc;Sv), TruAlign-RC (85 &#x3bc;Sv), and circular (86&#xa0;&#x3bc;Sv). Child E followed a similar trend: Focus-RC (44 &#x3bc;Sv), JadRad-RC (44 &#x3bc;Sv), Durr-RC (45&#xa0;&#x3bc;Sv), Rinn-RC (48 &#x3bc;Sv), DEXshield-RC (53 &#x3bc;Sv), TruAlign-RC (85 &#x3bc;Sv), and circular (89 &#x3bc;Sv). When used with thyroid shielding, circular collimation thyroid dose was reduced by as much as 59%.
+
+Focus-RC techniques yielded the greatest dose reduction compared with alternative RC and circular. In addition to shape, collimator dimensions should be considered as significant factors affecting patient E. RC alone yielded a greater reduction in thyroid dose than did circular with thyroid shielding.
+
+This study's findings underscore the updated recommendations of the National Commission on Radiation Protection and Measurements Report No.177, which emphasized the benefits and important practical considerations of RC with intraoral imaging.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

@@ -10,11 +10,12 @@ category: [radiology]
 confidence: in-vitro
 source_collection: pubmed-text
 full_text: false
-text_path: ""
+text_path: /Users/oracleneo/llm-wiki/papers/johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.txt
 tags: [effective-dose, intraoral, collimation, rectangular-collimation, thyroid, FMS, NCRP-177]
 relations:
   - type: extends
     target: ludlow-2008-patient-risk-dental-radiographic-examinations
+text_filename: johnson-2020-intraoral-radiograph-dose-collimation-thyroid-shielding.txt
 ---
 
 ## One-line Summary
