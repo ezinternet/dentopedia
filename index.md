@@ -1798,6 +1798,10 @@ tags: []
 - [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]] — Chen 2024 · retrospective(DiD, MEPS 2001-2014) · 치과위생사 중간자율 → 예방내원↑, 최고자율 → 치료이용↓; 의료취약지에서 효과 더 큼 (초록기반)
 - [[practice-management/bozia-2021-dental-hygienist-scope-practice-radiology]] — Bozia 2021 · cross-sectional(26/31개국 설문) · DH 구내방사선 촬영 허용 78%·의뢰필요 42%·진단불가 46%·장비소유 27%; 국가·주별 scope 편차 (PMC full text)
 - [[practice-management/vu-2024-caregivers-perceptions-dental-therapists]] — Vu 2024 · cross-sectional(n=202 보호자) · 중간자(dental therapist)의 수복·발치·응급처치 수용적, 단 치과의사 감독 강하게 동의 (초록기반)
+- [[practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma]] — Schmutz 2019 · sr+ma(31편/1,390팀, 일반의료) · 팀워크↔임상수행 r=0.28(OR 2.8), 조절변수 비유의 — 치과 팀에 외삽되는 정량 근거 (PMC full text)
+- [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] — Manser 2009 · narrative-review(일반의료) · 3 근거축(사고·인식·관찰된 소통/조정/리더십)으로 팀워크를 환자안전 결정요인으로 정립 (초록기반)
+- [[practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr]] — Müller 2018 · sr(11편, 일반의료) · 구조화 인계도구 SBAR가 환자안전 개선(중등도 근거), 특히 전화 소통에서 — 치과 팀 인계에 외삽 (PMC full text)
+- [[practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr]] — Buljac-Samardzic 2020 · sr(GRADE, 297편, 일반의료) · 팀 효과성 개입 3+1 분류(훈련[CRM·TeamSTEPPS·시뮬레이션]/도구[SBAR·체크리스트]/조직재설계/프로그램); 원리기반·시뮬레이션 훈련 가장 유망 (PMC full text)
 
 ### resin (added 2026-05-24, batch c)
 
@@ -1973,7 +1977,7 @@ tags: []
 - [[overviews/korean-dental-practice-management-overview]] — 한국 치과 개원 환경 종합 (2026-06-06 신설, 2편): 치과의사 연 2.39% 증가·지역 격차(2012-2022); 헌법재판소 결정례 카탈로그.
 - [[overviews/dental-appointment-no-show-overview]] — **Overview** (Synthesis 2026-06-27, 5편): 치과 미내원(no-show)은 비용 아닌 망각·일정·부모 행동에 좌우되는 예측 가능한 패턴 — 위험 선별(Alkhurayji 프로파일·Alabdulkarim ML AUC 0.718)→리마인더(전화>SMS, Bhatia 48.3%)→고위험 슬롯 단축→구조·세대 장벽(Samohyl 부모 AOR 4.19) 공략의 운영 사다리.
 - [[overviews/teledentistry-overview]] — **Overview** (Synthesis 2026-06-27, 4편): 원격치과는 스크리닝·의뢰 진단정확도 충분(민감도 69.7~88%·특이도 73~97%)하나 근거의 질 낮고(AMSTAR-2 critically low) 비용절감은 가정 수준; 진짜 병목은 환자 수용성(García 57% 무관심) — "정확함 ≠ 채택됨".
-- [[overviews/dental-workforce-delegation-skill-mix-overview]] — **Overview** (Synthesis 2026-06-27, 3편): 치과 보조인력(DH·DT) 업무위임·기능배분 — 접근성↑(특히 취약지)이나 자율성은 용량형 트레이드오프(적정=예방↑, 최고=치료↓; Chen DiD), 규제는 관할권별 상이(Bozia 26개국), 대중 수용은 치과의사 감독 조건부(Vu n=202).
+- [[overviews/dental-workforce-delegation-skill-mix-overview]] — **Overview** (Synthesis 2026-06-27, 7편): 치과 보조인력(DH·DT) 업무위임·기능배분·팀소통 — 접근성↑(특히 취약지)이나 자율성은 용량형 트레이드오프(적정=예방↑, 최고=치료↓; Chen DiD), 규제는 관할권별 상이(Bozia 26개국), 대중 수용은 치과의사 감독 조건부(Vu n=202); 위임은 기능하는 팀 전제 — 팀워크↔수행 r=0.28(Schmutz SR+MA)·SBAR 인계(Müller)·팀훈련 297편(Buljac) 일반의료 근거 외삽.
 - [[overviews/btx-orofacial-applications-overview]] — BTX 5축 (gummy smile·TMD·masseter·LPM·임플란트 영향) (2026-05-26 신설, 17편): Rojo-Sanchis 2023 SR+MA -3.22mm + de la Torre-Canales 2024 umbrella + Nobre 2024 masseter 위축 + Deng 2023 BIC↓ 동물.
 - [[overviews/caries-detection-remineralization-overview]] — 우식 5축 (탐지·WSL·재광화·근관거리·2차) (2026-05-26 신설, 8편): Foros 2021 DIAGNOdent + Xie 2023 NMA resin infiltration + Malcangi 2023 + Schmidt 2024 NMA + Ge 2023 GIC=레진.
 - [[overviews/black-stain-caries-protection-overview]] — **Overview** (Synthesis 2026-06-27, 6편): 치아 흑색착색(Black Stain, BS) ↔ 우식 보호 종합 — BS는 병변 아닌 저우식위험 표지. ①착색 = 세균 H₂S + 타액 Fe³⁺ → 황화철(FeS); ②우식역상관 SR+MA OR 0.67(Mousa 2022), 성인·취학전 재확인; ③미생물 = 소아 Actinomyces 우점(Li·Zheng)이나 성인 영구치 NGS는 Capnocytophaga/Neisseria 우점(Çelik 2021) — "Actinomyces 단독" 흔들림; ④타액 Ca·완충능·pH↑로 탈회 억제; ⑤인과(직접보호 vs 체질교란) 미결 + EBS+ 장내 Lactobacillus 신규(Zheng); 임상: 과도 제거 금물·예방 유지

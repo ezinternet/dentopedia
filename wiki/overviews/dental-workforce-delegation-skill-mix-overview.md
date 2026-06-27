@@ -1,5 +1,5 @@
 ---
-title: "Overview: Dental Workforce Delegation & Skill-Mix"
+title: "Overview: Dental Workforce Delegation, Skill-Mix & Team Communication"
 type: synthesis
 category: overviews
 date: 2026-06-27
@@ -9,7 +9,11 @@ source_papers:
   - wiki/practice-management/chen-2024-dental-hygienist-autonomy-care-utilization.md
   - wiki/practice-management/bozia-2021-dental-hygienist-scope-practice-radiology.md
   - wiki/practice-management/vu-2024-caregivers-perceptions-dental-therapists.md
-tags: [workforce, skill-mix, delegation, dental-hygienist, dental-therapist, scope-of-practice, practice-management, overview]
+  - wiki/practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma.md
+  - wiki/practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare.md
+  - wiki/practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr.md
+  - wiki/practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr.md
+tags: [workforce, skill-mix, delegation, dental-hygienist, dental-therapist, scope-of-practice, teamwork, team-communication, sbar, practice-management, overview]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -22,15 +26,17 @@ tags: [workforce, skill-mix, delegation, dental-hygienist, dental-therapist, sco
 > - **Bozia 수치 주의(caveat)**: 초록(abstract)은 촬영 78%·진단금지 46%로, 본문(body)은 촬영 77%·진단가능 50%로 보고하는 경미한 불일치가 있다. 본 종합은 초록 수치를 주로 인용하되 이 불일치를 명시한다.
 > - **대중 수용은 존재하되 조건부**: Vu 2024(단면조사, 보호자 caregiver n=202) — 보호자들은 DT가 유치·영구치 수복, 유치 발치, 응급처치를 수행하는 데 수용적(여럿 p<0.001)이나, 그 시술이 치과의사 감독(dentist supervision) 하에 이뤄져야 한다는 데 강하게 동의(p<0.001).
 > - **인지도 격차**: Vu 2024는 DT의 교육·업무범위·인력통합에 대한 대중 인식이 낮아 공개 홍보(public awareness)가 필요하다고 지적 — 위임 확대의 사회적 전제조건.
-> - **임상·운영 시사점**: ① 위임은 예방업무부터, 자율성은 적정선까지(과도한 자율성은 치료접근 저하 위험), ② 취약지에 우선 배치, ③ 감독구조 명시는 임상 안전이자 환자 신뢰 요건, ④ 우리 관할권의 실제 법적 범위를 먼저 확인(국가·주별 상이), ⑤ DT/DH 역할에 대한 환자 커뮤니케이션을 병행. 한국 맥락의 규제 경계는 [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] 참조.
+> - **위임은 "기능하는 팀"을 전제로 한다(일반의료 근거 외삽)**: 업무를 보조인력에 나눌수록 팀워크·인계(handoff) 의존도가 커진다. Schmutz 2019 SR+MA(급성기 31편/1,390팀)는 팀워크↔임상수행 상관 r=0.28(교차비 OR 2.8), 조절변수 비유의 — 팀·과제 특성과 무관하게 중간 크기 효과. Manser 2009는 팀워크가 환자안전 결정요인임을 3 근거축(사고·인식·관찰된 소통/조정/리더십)으로 정립.
+> - **소통은 구조화된 도구로 개선 가능**: Müller 2018 SR(11편)은 인계도구 SBAR(Situation·Background·Assessment·Recommendation)가 환자안전을 개선(중등도 근거), 특히 전화 소통에서. Buljac-Samardzic 2020 SR(297편)은 팀 효과성 개입을 훈련(CRM·TeamSTEPPS·시뮬레이션)/도구(SBAR·체크리스트)/조직재설계/프로그램의 3+1로 분류하고 원리기반·시뮬레이션 훈련을 가장 유망으로 지목. ※이 4편은 치과 특이 근거가 아니라 일반의료 근거를 치과 팀에 외삽한 것.
+> - **임상·운영 시사점**: ① 위임은 예방업무부터, 자율성은 적정선까지(과도한 자율성은 치료접근 저하 위험), ② 취약지에 우선 배치, ③ 감독구조 명시는 임상 안전이자 환자 신뢰 요건, ④ 우리 관할권의 실제 법적 범위를 먼저 확인(국가·주별 상이), ⑤ DT/DH 역할에 대한 환자 커뮤니케이션을 병행, ⑥ 위임 확대와 함께 팀 훈련(시뮬레이션·TeamSTEPPS)과 구조화 인계(SBAR)에 투자 — 위임의 안전 배당은 팀이 실제로 소통할 때만 실현. 한국 맥락의 규제 경계는 [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] 참조.
 
 ## One-line Summary
 
-Across an econometric difference-in-differences study (Chen 2024), a worldwide regulatory survey (Bozia 2021), and a caregiver-acceptance survey (Vu 2024), delegating tasks to dental auxiliaries (hygienists, therapists) expands access — most in provider-shortage areas — but the autonomy level behaves like a dose with a trade-off (moderate autonomy raises preventive care, the highest autonomy lowers treatment use), scope is regulated very differently across jurisdictions (and even within federal countries), and public acceptance exists but is conditional on dentist supervision.
+Across an econometric difference-in-differences study (Chen 2024), a worldwide regulatory survey (Bozia 2021), a caregiver-acceptance survey (Vu 2024), and four general-healthcare teamwork/communication reviews cross-applied to dentistry (Schmutz 2019, Manser 2009, Müller 2018, Buljac-Samardzic 2020), delegating tasks to dental auxiliaries (hygienists, therapists) expands access — most in provider-shortage areas — but the autonomy level behaves like a dose with a trade-off (moderate autonomy raises preventive care, the highest autonomy lowers treatment use), scope is regulated very differently across jurisdictions (and even within federal countries), public acceptance exists but is conditional on dentist supervision, and the whole arrangement only pays off if the enlarged team communicates (teamwork↔performance r=0.28; structured hand-offs like SBAR and principle-based/simulation team training are the actionable levers).
 
 ## 한줄요약
 
-세 편(이중차분 경제학 연구 Chen 2024, 전 세계 규제 단면조사 Bozia 2021, 보호자 수용도 조사 Vu 2024)을 종합하면, 치과 보조인력(DH·DT)에 대한 업무위임은 특히 취약지에서 접근성을 늘리지만 자율성 수준은 트레이드오프를 동반하고(적정=예방↑, 최고=치료↓), 업무범위 규제는 관할권마다(연방국가는 주별로도) 크게 다르며, 대중 수용은 존재하되 치과의사 감독을 조건으로 한다.
+일곱 편(이중차분 경제학 Chen 2024, 전 세계 규제 단면조사 Bozia 2021, 보호자 수용도 조사 Vu 2024 + 치과에 외삽한 일반의료 팀워크·소통 근거 4편: Schmutz 2019·Manser 2009·Müller 2018·Buljac-Samardzic 2020)을 종합하면, 치과 보조인력(DH·DT)에 대한 업무위임은 특히 취약지에서 접근성을 늘리지만 자율성 수준은 트레이드오프를 동반하고(적정=예방↑, 최고=치료↓), 업무범위 규제는 관할권마다(연방국가는 주별로도) 크게 다르며, 대중 수용은 존재하되 치과의사 감독을 조건으로 하고, 이 모든 것은 확대된 팀이 실제로 소통할 때만(팀워크↔수행 r=0.28; SBAR 인계·원리기반/시뮬레이션 훈련이 레버) 결실을 맺는다.
 
 ## Thesis
 
@@ -44,6 +50,8 @@ The three papers triangulate a single workforce question — *what happens when 
 
 3. **Acceptance-conditional (Vu 2024).** Caregivers are receptive to midlevel DTs performing restorations, primary-tooth extractions, and emergency care (several associations p<0.001), but both informed and uninformed respondents strongly agree (p<0.001) those procedures should occur under dentist supervision — and public awareness of DT education and scope is low. Social licence for delegation is present but tethered to supervision and contingent on communication.
 
+4. **Team-dependent (general-healthcare evidence, cross-applied).** Splitting tasks across providers only pays off if the resulting team communicates and coordinates — a claim the dental papers above assume but cannot themselves test, so it is anchored here in general-healthcare evidence. A meta-analysis of acute-care teams (Schmutz 2019: 31 studies, 1390 teams) finds teamwork correlates with clinical performance at r=0.28 (OR ≈ 2.8), with moderators non-significant — the effect holds regardless of team composition or task. A foundational review (Manser 2009) establishes teamwork as a determinant of patient safety across incident causation, staff perceptions, and observed communication/coordination/leadership patterns. And the *how* is actionable: a structured hand-off tool, SBAR, improves patient-safety outcomes with moderate-certainty evidence — strongest for telephone communication (Müller 2018) — while a 297-study review (Buljac-Samardzic 2020) maps the broader menu of team-improvement interventions (principle-based training such as CRM/TeamSTEPPS, simulation, structuring tools like SBAR, and organizational redesign), with principle-based and simulation training most promising. *These four are not dental-specific; they are extrapolated to the dental team by analogy.*
+
 ## Evidence Map
 
 | Paper | Design | n | Key finding | Confidence |
@@ -51,6 +59,15 @@ The three papers triangulate a single workforce question — *what happens when 
 | [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]] | Difference-in-differences on MEPS 2001–2014, DHPPI-coded state regulation | National U.S. survey panel (MEPS) | Non-monotonic: *moderate* DH autonomy → ↑ total visits via ↑ preventive care; *highest* autonomy → ↓ treatment use; both effects larger in provider-shortage areas; tasks/visits shift to hygienists | retrospective (abstract-only; effect sizes/CIs not retrieved) |
 | [[practice-management/bozia-2021-dental-hygienist-scope-practice-radiology]] | Worldwide cross-sectional survey (27-item questionnaire to IFDH/EDHF associations) | 26/31 countries responding (84%) | 78% permit DHs to take intraoral radiographs; 42% require dentist referral; 46% bar DH radiographic diagnosis; 27% allow DH equipment ownership; full task set in 5 countries (19%); scope varies by country and by state/province | cross-sectional (descriptive only) |
 | [[practice-management/vu-2024-caregivers-perceptions-dental-therapists]] | Cross-sectional caregiver survey (validated DT-integration instrument), urban teaching hospital | 202 caregivers | Receptive to DT-performed primary/permanent restorations, primary extractions, emergency care (several p<0.001); strong agreement procedures be under dentist supervision (p<0.001); public-awareness gap | cross-sectional (abstract-only) |
+
+### General teamwork & communication evidence (cross-applied from healthcare, not dental-specific)
+
+| Paper | Design | n | Key finding | Confidence |
+|---|---|---|---|---|
+| [[practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma]] | SR + meta-analysis, acute-care teams | 31 studies / 1390 teams | Teamwork ↔ clinical performance, weighted r=0.28 (OR ≈ 2.8); moderators non-significant (effect independent of team/task) | sr+ma |
+| [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] | Narrative review (dynamic domains: OR, ICU, ED, trauma) | — | Three evidence streams (incidents, perceptions↔well-being, observed communication/coordination/leadership) establish teamwork as a patient-safety determinant | narrative-review |
+| [[practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr]] | Systematic review | 11 studies (8 before-after + 3 CCT) | SBAR hand-off tool → improved patient safety (moderate evidence), strongest for nurse→physician telephone communication; underlying study quality low | sr |
+| [[practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr]] | Systematic review (GRADE) | 297 studies | Team-intervention taxonomy: training (CRM/TeamSTEPPS, simulation, general) / tools (SBAR, checklists) / organizational redesign / programmes; principle-based + simulation training most promising | sr |
 
 *Caveat on Bozia 2021:* the abstract and body disagree slightly — abstract reports 78% take / 46% may-not-diagnose, body reports 77% take / 50% may-diagnose. The table and bullets above quote the abstract figures; treat the take-rate as ~77–78% and the diagnosis-bar as ~46–50%.
 
@@ -62,6 +79,7 @@ The three papers triangulate a single workforce question — *what happens when 
 - **Shortage-area leverage.** The utilization effects of DH autonomy are *larger* in provider-shortage areas, where care reallocates to hygienists (Chen 2024). Direct delegation capacity toward underserved/shortage settings, where it yields the greatest marginal access.
 - **Public-communication need.** Awareness of midlevel-provider education and scope is low (Vu 2024). Pair any skill-mix expansion with patient-facing communication explaining who the auxiliary is, what they are trained and licensed to do, and the supervising dentist's role.
 - **Verify your own jurisdiction first.** Scope is not uniform across or even within countries (Bozia 2021 documents state/province variation in the US, Canada, Switzerland, Australia). Confirm the exact legal scope in your jurisdiction before designing a delegation workflow — for the Korean regulatory boundary, see [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]].
+- **Invest in the team, not just the headcount (general-healthcare evidence).** Delegation's safety dividend is realized only when the enlarged team actually communicates: teamwork has a medium effect on clinical performance regardless of team/task (Schmutz 2019), and it is improvable with concrete, low-cost methods — adopt a structured hand-off format (SBAR, strongest for phone/verbal communication; Müller 2018) and prioritize principle-based or simulation team training (CRM/TeamSTEPPS; Buljac-Samardzic 2020). Treat these as cross-applied from general healthcare until dental-specific trials exist.
 
 ## Gaps & Future Research
 
@@ -78,3 +96,7 @@ The three papers triangulate a single workforce question — *what happens when 
 - [[practice-management/bozia-2021-dental-hygienist-scope-practice-radiology]] — regulatory map: how one delegated task (oral radiography) is legally split and varies across 26 jurisdictions.
 - [[practice-management/vu-2024-caregivers-perceptions-dental-therapists]] — public-acceptance side: caregiver receptivity to midlevel DTs, conditional on dentist supervision.
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — regulatory framing: Korean constitutional jurisprudence on who may deliver dental care; the legal-boundary counterpart to the workforce-delegation evidence synthesized here.
+- [[practice-management/schmutz-2019-teamwork-performance-healthcare-sr-ma]] — general-healthcare evidence: SR+MA quantifying teamwork→clinical-performance (r=0.28); the "team-dependent" pillar's effect-size anchor.
+- [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] — general-healthcare evidence: foundational review establishing teamwork as a patient-safety determinant via communication/coordination/leadership.
+- [[practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr]] — general-healthcare evidence: the SBAR structured-communication tool — an actionable lever for safe hand-offs in a delegated team.
+- [[practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr]] — general-healthcare evidence: 297-study taxonomy of team-improvement interventions (training/tools/redesign) applicable to the dental team.
