@@ -1,0 +1,51 @@
+Introduction
+
+Since 1885 it has been suspected that malignant cells can exfoliate due to tumour manipulation during surgery and implant at distant sites causing metastasis. Multiple analytical and observation studies in the sixties have recorded the presence of malignant cell in saline wound washings and wound drainage fluids from patients undergoing surgery for Head and Neck cancers. A more recent observation in 1996 demonstrated presence of malignant cells in washings collected from surgical instruments and the surgeon's gloves in fifteen patients of head and neck cancers.
+
+Surgeons have traditionally tried to prevent implantation by washing the tumour bed and incision sites with normal saline and changing their gloves, instruments, drapes and surgical gauze after extirpation of the tumour. This was first mentioned in an editorial in 1937. Other authors have also recommended a change of instruments and drapes with copious washing of the operative site especially with hypotonic saline.
+
+A recent survey questioned surgeons about their practices and beliefs regarding measures of wound protection. It was found that forty-three percent surgeons used wound protectors and alternative barriers while fifteen percent used wound irrigation. When asked about the basis for such practices only four percent cited experimental evidence.
+
+The practices of wound irrigation and change of gloves and instruments to prevent suspected wound contamination are prevalent in the Head and Neck Oncology unit of Mahavir Cancer Sansthan, Patna. But there is no experimental or clinical evidence to support the practice. This raises two questions: are there epithelial cells or cellular debris in the normal saline wash after it has been used to irrigate the wound? Does this step lead to decrease in the proportion of contaminated wounds?
+
+To answer the first question we collected the wash effluent and looked for cells after processing the sediment into cell blocks. To answer the second question we examined cytology smears taken from the wound after irrigation to look for cellular contaminants.
+
+Materials and Methods
+
+The study was carried out in the Head and Neck Oncology Department of Mahavir Cancer Sansthan on consecutive patients of biopsy proven, treatment naïve, oral cavity squamous cell cancers who gave consent for surgical excision of their tumour.
+
+Patients of oral cavity cancers with skin ulceration or those with histology other than squamous cell cancers were excluded.
+
+After neck dissection and excision of the primary tumour, the tumour bed and neck were washed with five to fifteen hundred millilitres of Normal saline. This was collected and immediately sent to the pathologist for preparation of cell block. Thereafter, smears were taken from the tumour bed and the neck incision edges.
+
+Processing of the wash fluid: The complete wash water was centrifuged at 1000 rpm for 10 minutes and the supernatant discarded. The sediment was added to Lysis buffer containing 0.37 gm EDTA, 0.84 gm Sodium Bicarbonate and 8.02 gm Ammonium Chloride in 100 ml distilled water. Resultant solution was centrifuged at 1000 rpm for 10 minutes. The sediment was added to 0.5 ml plasma followed by 0.5 ml Thrombin to form a clot. Sections stained with H&E and examined by two consultant Onco-pathologists.
+
+Processing of the smears: Air-dried, fixed with methanol, stained with Gimsa stain.
+
+Results classified as: Positive (epithelial/abnormal epithelial cells), Suspicious (cellular debris other than blood cells), Negative (acellular or blood cells only). Positive and suspicious combined as "positive" for analysis.
+
+Results
+
+132 consecutive treatment-naïve patients of biopsy-proven squamous cell cancers of the oral cavity.
+
+All tumours excised with negative margins >5mm with elective neck dissection.
+
+Cell block cytology: 24% (25/104) showed epithelial or abnormal epithelial cells; 21% (22/104) showed cellular debris; 58% (56/104) acellular or blood cells only. Combined positivity rate: 55% (57/104).
+
+Smear cytology (after saline wash): 0% showed epithelial/abnormal epithelial cells; 8/104 (7.6%) showed cellular debris.
+
+Normal saline wash resulted in decrease from 55% to 7.6% positivity. Statistically significant (chi-square = 29.8, df = 1, p < 0.001).
+
+The only clinico-pathological predictor significantly associated with presence of epithelial cells in lavage: perineural invasion (p = 0.037). Site, morphology, T-stage, N-stage, grade, LVI, margin, DOI, WPOI — all not significant.
+
+Discussion
+
+Normal saline is isotonic — wash results in only mechanical cleansing without cytotoxic or osmotic action. Other studies found 7.5–26% malignant cells and 13–19% suspicious in wash samples. Similar to results from other organ surgeries (lung: 33% of pleural washings; colon: 14–21/25 lavage specimens).
+
+Multiple agents tested for preventing implantation — povidone-iodine achieves near-total cell kill; 15 minutes of hypotonic water causes cell lysis. This study shows significant decrease with isotonic normal saline alone (mechanical cleansing).
+
+Conclusions
+
+Saline irrigation significantly reduces wound contamination (55% → 7.6%, p<0.001). Continued use of saline wound wash recommended to minimize risk of tumour cell implantation metastasis. Perineural invasion significantly associated with lavage positivity.
+
+Limitation: cell block cytology accuracy ~85–90% (no IHC used).
