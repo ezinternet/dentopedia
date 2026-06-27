@@ -10,6 +10,8 @@ source: basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.md
 category: [periodontics]
 confidence: rct
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.txt
+text_filename: basudan-2023-chlorhexidine-salvadora-mouthwash-periodontal.txt
 full_text: true
 tags: [chlorhexidine, 0.12%, NSPT, Candida, smoking, herbal]
 relations:
