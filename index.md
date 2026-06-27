@@ -1620,6 +1620,12 @@ tags: []
 - [[botulinum-toxin/ergezen-2025-botulinum-toxin-sleep-quality-bruxism]] — Prospective (n=40F, awake+sleep bruxism, IJOMS 2025): 30U masseter+20U temporalis BTX — good sleep (PSQI≤5) 17.5%→60% (p<0.001); all 7 PSQI subscales improved
 
 ## 우식 (Caries)
+- [[caries/zyla-2015-black-stain-dental-caries-review]] — Żyła 2015 · narrative-review · 흑색착색(Black Stain, BS) 정의·역학(유병률 2.4–18%, 성별 동등)·원인(Actinomyces, 철/구리-황 복합체)·우식 역상관 관계 종합 (DOI 10.1155/2015/469392)
+- [[caries/mousa-2022-black-stain-caries-children-sr-ma]] — Mousa 2022 · sr+ma (14편) · BS 아동 우식 위험 33% 낮음(OR 0.67); 이환 치아수 −0.98개, 이환 면수 −2.34면; 보호 기전 vs 저우식 microbiome 우선 논란 (DOI 10.1186/s42506-022-00107-3)
+- [[caries/al-shareef-2025-black-stain-bacterial-origin-review]] — Al-Shareef 2025 · narrative-review · BS 최신(2025) 종합: Actinomyces→H₂S + Fe³⁺→FeS 기전, 타액 조성 차이(철·구리·Ca·pH↑, 유량↓), 치료(초음파→aPDT·코코넛오일·lactoferrin·프로바이오틱) (DOI 10.1111/eos.70007)
+- [[caries/li-2015-microbiota-black-stain-primary-dentition]] — Li 2015 · cross-sectional (n=25, 16S rRNA) · BS+ 아동 치태: Actinomyces·Cardiobacterium·Haemophilus·Corynebacterium·Tannerella↑, Campylobacter↓; 타액 다양성 감소; PCA: BS+ 치태 이질성 높음 (DOI 10.1371/journal.pone.0137030)
+- [[caries/zheng-2023-oral-gut-microbiome-black-stain-caries]] — Zheng 2023 · cross-sectional (2,675명 역학 + 38명 16S rRNA; 구강+장내 마이크로바이옴) · BS 유병률 12.10%, EBS+/caries-free군 Actinomyces·Rothia↑; 장내 마이크로바이옴도 BS 패턴 구분 가능 — 최초 gut microbiome 연관 보고 (DOI 10.3389/fmicb.2023.1081629)
+- [[caries/celik-2021-metagenomic-black-stain-permanent-dentition]] — Çelik 2021 · cross-sectional (n=52 성인, NGS) · 영구치 BS+/caries-free군: Capnocytophaga(10.8%)·Cardiobacterium·Rothia 풍부; BS+ 환자 무우식 치아 비율 유의하게 높음(p=0.007) — 성인 영구치 BS 최초 NGS 분석 (DOI 10.1016/j.archoralbio.2021.105171)
 - [[caries/schwendicke-2021-cavitated-dentine-carious-lesions-treatment-nma]] — Schwendicke 2021 · sr+ma · 우식조직 절삭전략 코크란 NMA, 깊은우식서 완전절삭(CR) 실패최다·SE/SW/HT 우수, 유치 HT 우월 (DOI 10.1002/14651858.CD013039.pub2)
 - [[caries/rashed-2022-sealant-vs-fluoride-varnish-caries-prevention-sr-ma]] — Rashed 2022 · sr+ma · 레진 치면열구전색 vs 불소바니시, 제1대구치 우식예방 2년 시점 유의차 없음(RR 0.65); 더 싼 불소바니시 권장 (DOI 10.1155/2022/8635254)
 - [[caries/banihani-2021-minimal-intervention-primary-teeth-carious-umbrella-review]] — BaniHani 2021 · sr · 유치 상아질 우식 MID 우산리뷰(SR 18편): SDF·Hall·선택적제거·ART 권장, fissure sealant은 비권장 (DOI 10.1007/s40368-021-00675-6)
