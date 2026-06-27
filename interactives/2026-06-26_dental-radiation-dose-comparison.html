@@ -795,5 +795,232 @@ function setUnit(u) {
 
 render();
 </script>
+
+<!-- ═══════════════════════════════════════════════════════════
+     맥락 요약 · 위험 기준 섹션
+══════════════════════════════════════════════════════════════ -->
+<style>
+  .ctx-section {
+    margin-top: 36px;
+    border-top: 2px solid #e2e8f0;
+    padding-top: 22px;
+  }
+  .ctx-section h2 {
+    font-size: 14px; font-weight: 700; color: #0f172a;
+    margin-bottom: 16px; letter-spacing: -0.3px;
+  }
+  .ctx-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 14px;
+    margin-bottom: 20px;
+  }
+  @media (max-width: 600px) { .ctx-grid { grid-template-columns: 1fr; } }
+
+  .ctx-card {
+    background: #fff; border: 1px solid #e2e8f0;
+    border-radius: 10px; padding: 14px 16px;
+  }
+  .ctx-card h3 {
+    font-size: 11px; font-weight: 700; text-transform: uppercase;
+    letter-spacing: 0.6px; color: #64748b; margin-bottom: 10px;
+  }
+
+  /* 비교 테이블 */
+  .ctx-table { width: 100%; border-collapse: collapse; font-size: 11.5px; }
+  .ctx-table th {
+    background: #f1f5f9; color: #475569;
+    font-size: 10px; font-weight: 600; text-align: left;
+    padding: 5px 8px; border-bottom: 1px solid #e2e8f0;
+  }
+  .ctx-table td {
+    padding: 5px 8px; border-bottom: 1px solid #f1f5f9;
+    vertical-align: middle; color: #334155;
+  }
+  .ctx-table tr:last-child td { border-bottom: none; }
+  .ctx-table .hi { font-weight: 700; color: #dc2626; }
+  .ctx-table .lo { color: #16a34a; }
+  .ctx-table .bold { font-weight: 600; }
+
+  /* 위험 기준 바 */
+  .risk-block { margin-bottom: 10px; }
+  .risk-label {
+    display: flex; justify-content: space-between;
+    font-size: 10.5px; margin-bottom: 3px; color: #475569;
+  }
+  .risk-label span:last-child { font-weight: 600; color: #0f172a; }
+  .risk-bar-bg {
+    height: 10px; background: #f1f5f9; border-radius: 5px; overflow: visible; position: relative;
+  }
+  .risk-bar-fill {
+    height: 100%; border-radius: 5px; position: relative;
+  }
+
+  /* 결론 박스 */
+  .ctx-conclusion {
+    background: #f0fdf4; border: 1px solid #bbf7d0;
+    border-left: 4px solid #16a34a;
+    border-radius: 8px; padding: 14px 16px; margin-top: 6px;
+  }
+  .ctx-conclusion .c-title {
+    font-size: 11px; font-weight: 700; color: #15803d;
+    margin-bottom: 8px; text-transform: uppercase; letter-spacing: 0.5px;
+  }
+  .ctx-conclusion ul {
+    list-style: none; padding: 0; margin: 0;
+  }
+  .ctx-conclusion ul li {
+    font-size: 11.5px; color: #166534; padding: 3px 0;
+    padding-left: 14px; position: relative; line-height: 1.55;
+  }
+  .ctx-conclusion ul li::before {
+    content: '✓'; position: absolute; left: 0; color: #16a34a; font-weight: 700;
+  }
+
+  /* 주석 */
+  .ctx-footnote {
+    margin-top: 14px; font-size: 10px; color: #94a3b8; line-height: 1.6;
+  }
+  .ctx-footnote a { color: #94a3b8; }
+</style>
+
+<div class="ctx-section">
+  <h2>방사선량 맥락 요약 — 치과 종사자 기준</h2>
+
+  <div class="ctx-grid">
+
+    <!-- 왼쪽: 비교 테이블 -->
+    <div class="ctx-card">
+      <h3>연간 선량 비교</h3>
+      <table class="ctx-table">
+        <thead>
+          <tr>
+            <th>비교 대상</th>
+            <th>연간 선량</th>
+            <th>비고</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>자연 배경방사선 (한국 평균)</td>
+            <td class="bold">~2,400 µSv</td>
+            <td>우주·지각·라돈</td>
+          </tr>
+          <tr>
+            <td>서울→뉴욕 편도 비행</td>
+            <td class="bold">~100 µSv</td>
+            <td>우주방사선 1회 노출</td>
+          </tr>
+          <tr>
+            <td>가슴 X선(PA) 1회</td>
+            <td class="bold">~50 µSv</td>
+            <td>IAEA 기준</td>
+          </tr>
+          <tr>
+            <td>치과 전악방사선(FMX) 1회</td>
+            <td class="bold">34.9 µSv</td>
+            <td>PSP + 직사각조준</td>
+          </tr>
+          <tr>
+            <td>한국 치과 종사자 평균</td>
+            <td class="bold lo">130–180 µSv</td>
+            <td>자연배경의 약 1/15</td>
+          </tr>
+          <tr>
+            <td>직업 한도 (일반 종사자)</td>
+            <td class="bold">20,000 µSv</td>
+            <td>ICRP 103</td>
+          </tr>
+          <tr>
+            <td>임신 선언 후 태아 한도</td>
+            <td class="bold">1,000 µSv</td>
+            <td>복부 표면, 임신 전 기간</td>
+          </tr>
+          <tr>
+            <td style="border-top:2px solid #fecaca">결정론적 영향 문턱값</td>
+            <td class="hi" style="border-top:2px solid #fecaca">100,000 µSv</td>
+            <td style="border-top:2px solid #fecaca">임상 증상 없음 이하</td>
+          </tr>
+          <tr>
+            <td>급성방사선증후군 시작</td>
+            <td class="hi">1,000,000 µSv</td>
+            <td>1 Sv — 백혈구 감소</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- 오른쪽: 위험 개념 + 시각 바 -->
+    <div class="ctx-card">
+      <h3>위험 기준 — 두 가지 영향</h3>
+
+      <div style="margin-bottom:14px">
+        <div style="font-size:11px;color:#475569;margin-bottom:8px;line-height:1.6">
+          방사선 영향은 성격이 전혀 다른 두 유형으로 나뉩니다.
+        </div>
+
+        <div style="background:#fff7ed;border:1px solid #fed7aa;border-left:3px solid #ea580c;border-radius:6px;padding:10px 12px;margin-bottom:8px">
+          <div style="font-size:10.5px;font-weight:700;color:#c2410c;margin-bottom:4px">결정론적 영향 (문턱값 있음)</div>
+          <div style="font-size:10.5px;color:#7c2d12;line-height:1.55">
+            세포 대량 사멸 → 급성 증상 발생.<br>
+            <b>100 mSv (100,000 µSv) 이하에서는 임상 증상 없음.</b><br>
+            치과 종사자 연간 피폭은 이 한도의 <b>0.1–0.9%</b> 수준.
+          </div>
+        </div>
+
+        <div style="background:#eff6ff;border:1px solid #bfdbfe;border-left:3px solid #3b82f6;border-radius:6px;padding:10px 12px">
+          <div style="font-size:10.5px;font-weight:700;color:#1d4ed8;margin-bottom:4px">확률론적 영향 — LNT 모델 (문턱값 없음)</div>
+          <div style="font-size:10.5px;color:#1e3a5f;line-height:1.55">
+            미량이라도 암 발생 확률이 이론적으로 증가.<br>
+            히로시마·나가사키 데이터: <b>100 mSv 이하에서 통계적 증명 불가.</b><br>
+            치과 CBCT 1회 (~31 µSv)의 평생 암 사망 위험 증가 ≈ 10만 명 중 0.1명.
+          </div>
+        </div>
+      </div>
+
+      <!-- 시각적 스케일 비교 -->
+      <div style="font-size:10px;font-weight:600;color:#64748b;margin-bottom:6px;text-transform:uppercase;letter-spacing:0.5px">선량 스케일 (로그 비교)</div>
+
+      <div class="risk-block">
+        <div class="risk-label"><span>치과 종사자 연평균</span><span>~160 µSv</span></div>
+        <div class="risk-bar-bg"><div class="risk-bar-fill" style="width:3%;background:#16a34a"></div></div>
+      </div>
+      <div class="risk-block">
+        <div class="risk-label"><span>자연 배경방사선</span><span>2,400 µSv</span></div>
+        <div class="risk-bar-bg"><div class="risk-bar-fill" style="width:22%;background:#0ea5e9"></div></div>
+      </div>
+      <div class="risk-block">
+        <div class="risk-label"><span>직업 한도</span><span>20,000 µSv</span></div>
+        <div class="risk-bar-bg"><div class="risk-bar-fill" style="width:45%;background:#f59e0b"></div></div>
+      </div>
+      <div class="risk-block">
+        <div class="risk-label"><span>결정론적 문턱값 ▶</span><span>100,000 µSv</span></div>
+        <div class="risk-bar-bg"><div class="risk-bar-fill" style="width:65%;background:#f97316"></div></div>
+      </div>
+      <div class="risk-block">
+        <div class="risk-label"><span>급성방사선증후군 (LD50)</span><span>4,000,000 µSv</span></div>
+        <div class="risk-bar-bg"><div class="risk-bar-fill" style="width:100%;background:#dc2626"></div></div>
+      </div>
+    </div>
+
+  </div><!-- /ctx-grid -->
+
+  <!-- 결론 박스 -->
+  <div class="ctx-conclusion">
+    <div class="c-title">결론 — 치과 방사선의 위험 관점</div>
+    <ul>
+      <li>치과 방사선 종사자의 연간 피폭(~160 µSv)은 자연 배경방사선(2,400 µSv)의 <b>약 1/15 수준</b>으로, 결정론적 문턱값(100,000 µSv)과 비교가 무의미한 수준이다.</li>
+      <li>확률론적 위험(암 발생)도 100 mSv 이하에서는 역학적으로 증명이 불가능하며, LNT 모델 기준으로도 치과 CBCT 1회는 평생 암 사망 위험을 10만 명당 0.1명 증가시키는 수준이다.</li>
+      <li>환자용 납복(생식선·갑상선 차폐)은 AAOMR 2023 기준 중단 권고 — 선량 감소는 직사각조준통·디지털 수용체·최소 촬영이 훨씬 효과적이다.</li>
+      <li>술자(치과위생사)의 납복은 차폐실 환경에서는 의례적 의미가 크고, <b>포터블 기기·비차폐 환경·임신 중</b>에는 여전히 실질적 방호 의미가 있다.</li>
+      <li>임신 선언 후 태아 한도는 <b>1 mSv(1,000 µSv)/임신 전 기간</b> — TLD 복부 배지 착용 필수, 포터블 PA 조작은 교체 권장.</li>
+    </ul>
+  </div>
+
+  <div class="ctx-footnote">
+    참고문헌: Ludlow, Davies-Ludlow &amp; White 2008 (JADA; doi:10.14219/jada.archive.2008.0339) · Hedesiu et al. 2018 (Eur J Radiol; doi:10.1016/j.ejrad.2018.04.021) · Johnson &amp; Ludlow 2020 (JADA; doi:10.1016/j.adaj.2020.06.019) · Stervik et al. 2024 (Acta Odontol Scand; doi:10.2340/aos.v83.40571) · Kim et al. 2016 (Community Dent Oral Epidemiol; doi:10.1111/cdoe.12237) · Benavides et al. 2023 (JADA; doi:10.1016/j.adaj.2023.06.015) · Yeh &amp; Chen 2018 (BMC Oral Health; doi:10.1186/s12903-018-0592-5) · ICRP Publication 103 (2007) · UNSCEAR 2008 Report.
+  </div>
+</div>
+
 </body>
 </html>
