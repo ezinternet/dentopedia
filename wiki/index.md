@@ -53,7 +53,7 @@ confidence: narrative-review
   <span style="font-size:2.2rem; line-height:1; flex-shrink:0;">🧭</span>
   <div>
     <strong><a href="https://ezinternet.github.io/dentopedia/category-map">카테고리 지도 — 임상 동선 6단계로 보기</a></strong><br>
-    <span style="font-size:0.875em; color:var(--gray);">전 카테고리(~95개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.</span>
+    <span style="font-size:0.875em; color:var(--darkgray);">전 카테고리(<!-- CATEGORY_COUNT -->96<!-- /CATEGORY_COUNT -->개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.</span>
   </div>
 </div>
 
