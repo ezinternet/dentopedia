@@ -1,0 +1,99 @@
+Conscious sedation for the management of dental anxiety in third molar extraction surgery: a systematic review
+
+Melini M, Forni A, Cavallin F, Parotto M, Zanette G
+BMC Oral Health (2020) 20(1):155
+DOI: 10.1186/s12903-020-01136-0
+PMID: 32466796 ; PMCID: PMC7254703
+
+Source: PubMed Central full text (PMC7254703), retrieved via PubMed MCP.
+
+=== ABSTRACT ===
+
+Background
+Dental anxiety is a condition associated with avoidance of dental treatment and increased medical and surgical risks. This systematic review aims to summarize available evidence on conscious sedation techniques used for the management of dental anxiety in patients scheduled for third molar extraction surgery, to identify best approaches and knowledge gaps.
+
+Methods
+A comprehensive search was conducted including MEDLINE/PubMed, EMBASE, SCOPUS, and the Cochrane Database of Systematic Reviews through March 2019. Only randomized controlled trials were included. PRISMA guidelines were followed. Risk of bias was appraised as reported in the Cochrane Handbook for Systematic Reviews of Interventions.
+
+Results
+Seventeen RCTs with a total of 1788 patients were included. Some aspects limited the feasibility of a meaningful meta-analysis, thus a narrative synthesis was conducted. Conscious sedation was associated with improvement in dental anxiety in six studies. One study reported lower cortisol levels with midazolam vs. placebo, while another study found significant variation in perioperative renin levels with remifentanil vs. placebo.
+
+Conclusions
+This review found inconclusive and conflicting findings about the role of conscious sedation in managing dental anxiety during third molar extraction surgery. Relevant questions remain unanswered due to the lack of consistent, standardized outcome measures. Future research may benefit from addressing these limitations in study design.
+
+=== FULL TEXT ===
+
+Background
+
+Dental anxiety is a common condition that is associated with avoidance of dental treatment and increased medical and surgical risks. As a physiological response to stressful conditions, it can generate heart rate and blood pressure increase, pallor, excessive sweating, dizziness and lead to a fight or flight response. Dental anxiety is also one of the main factors that impairs dental treatment, thus representing a challenge to professional care.
+
+Third molar extraction is a very common oral-surgical intervention and a reproducible surgical stimulus, hence it may represent a valuable scenario for the investigation of conscious sedation techniques. In the last few decades, general anaesthesia has been largely replaced with conscious sedation for third molar extraction. This approach maintains patient comfort while assuring safety and reducing time to discharge. Different medications have been proposed for the management of dental anxiety, such as benzodiazepines, nitrous oxide (NO), opioids, barbiturates, alpha-2 adrenergic receptor agonist, phytotherapics and others. Although dental anxiety is a well-known condition that can be managed both with non-pharmacological intervention (e.g., iatrosedation) and pharmacosedative techniques, available research on this topic offers a heterogeneous and undefined picture. Anxiety improvement during dental surgery is often included only as secondary outcome in trial protocols, with different outcome measures, and endpoints (i.e. before, during and after surgery).
+
+This systematic review aims to summarize available evidence on conscious sedation techniques in the management of dental anxiety in third molar extraction surgery, in order to identify best approaches and gaps in knowledge.
+
+Methods
+
+Study design
+This is a systematic review of randomized controlled trials (RCTs) evaluating conscious sedation in the management of dental anxiety during third molar extraction surgery. The review was performed following the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines. This protocol was not registered.
+
+Search strategy
+To identify relevant studies, we systematically searched MEDLINE/PubMed, EMBASE, SCOPUS, Cochrane Central Register of Controlled Trials. The search strategy was carried out without language restrictions from January 1, 1978 until March 31, 2019. In PubMed, the following search strategy was used: "third molar" AND "conscious sedation". This search strategy was adapted to suit the other electronic sources. The search lists from the electronic sources were merged and the duplicates were removed. Two investigators (MM, AF) independently reviewed the search results and screened both titles and abstracts. We obtained the full texts of all potentially eligible studies, which were further examined to exclude those not fulfilling inclusion criteria. Finally, we hand-searched the reference lists of retrieved articles. Any inconsistencies were resolved by consensus with a third investigator (MP).
+
+Criteria for considering studies for this review
+Study design: parallel and crossover RCTs.
+Population: adult patients (aged 16 or more) undergoing third molar surgery extraction.
+Intervention: any type of conscious sedation, including pharmacological intravenous (IV) conscious sedation, pharmacological inhalation conscious sedation (INH), pharmacological orally-administered (OS) conscious sedation, or combination of different techniques of conscious sedation.
+Comparator: any type of conscious sedation or no sedation.
+Outcome: dental anxiety as reported by patients or assessed using stress hormone alteration; no secondary outcomes were considered.
+Time: preoperative, intraoperative and/or postoperative.
+Studies not including human subjects were excluded. Studies where patient anxiety was evaluated by an observer were also excluded. No language restrictions were applied.
+
+Data collection
+Two investigators (FC, MP) independently extracted key data from the included articles. For each article, we extracted study features (study design, year of publication, country, number and age of enrolled patients), type of sedation, and anxiety information (measure of anxiety, timing of assessment, outcomes measures). A third investigator (GZ) checked the extracted data.
+
+Assessment of risk of bias
+Two investigators (FC, MP) independently appraised the risk of bias of the included studies by using the criteria reported in the Cochrane Handbook for Systematic Reviews of Interventions. Seven specific domains related to risk of bias of RCTs were assessed (random sequence generation; allocation concealment; blinding of participants and personnel; blinding of outcome assessment; incomplete outcome data; selective data reporting; other bias). Five additional domains related to risk of bias of crossover RCTs were also assessed (whether the cross-over design was suitable; whether there was a carry-over effect; whether only first period data were available; incorrect analysis; comparability of results with those from parallel-group trials). The risk of bias was categorized as high, low, or unclear; if not available, studies were judged at unclear risk of bias. Any inconsistencies were resolved by consensus with a third investigator (MM).
+
+Data synthesis
+A narrative synthesis of included studies was conducted, because some aspects limited the feasibility of a meaningful meta-analysis. Such aspects included the large number of types of sedation that were evaluated, the heterogeneous measures of anxiety and the heterogeneous timing of assessment of anxiety. Relevant data were extracted from selected studies and variables displayed into tables. The selection process was displayed in a flow-chart.
+
+Results
+
+Search results
+The search yielded 125 non-duplicated articles. After excluding 75 articles based on title/abstract, 50 articles were retrieved for full text review. Of these, 34 were excluded due to different design (five not RCT), different outcome measures (27 studies not evaluating anxiety or assessing anxiety by external observers), or reporting of secondary analyses (2 studies). Other three studies could not be retrieved. Four additional articles were identified via hand search, thus a total of 17 RCTs were included in the qualitative synthesis.
+
+Study and patient characteristics
+The analysis included seven crossover RCTs and 10 parallel RCTs. The number of enrolled participants ranged from 12 to 997 participants (total 1788). The drugs that were used for conscious sedation included Midazolam, Dexmedetomidine, NO, Clonidine, Remifentanil, Zaleplon, Triazolam, Chlordemethyldiazepam (CDDZ), Propofol, Fentanyl, and Methohexital. Fourteen studies investigated patient-reported anxiety using different scales: visual analogue scale (VAS), Corah dental anxiety scale (DAS), Interval scale of anxiety report (ISAR), state trait anxiety inventory (STAI); other interval scales. Two studies investigated anxiety by assessing stress hormones alteration. One study investigated anxiety using both patient-reported scale (DAS) and stress hormones alteration (salivary cortisol).
+
+Risk of bias in included studies
+The risk of selection bias was low in five studies (adequate random sequence generation) and unclear in the others; allocation concealment was unclear in all studies (never specified). The risk of performance bias was low in 12 studies and unclear in five. The risk of detection bias was low in four studies and unclear in 13. Four studies were at high risk of attrition bias (withdrawals for inadequate sedation, over-sedation, excessive anxiety, or non-return for second surgery). The risk of attrition bias was low in 11 studies and unclear in two. The risk of reporting bias was low in all studies. Four studies were at high risk of other bias due to incorrect analysis of data from crossover designs (paired tests performed but period effect could not be removed because of different sequence sizes).
+
+Narrative synthesis on patient-reported anxiety
+All but two studies investigated patient-reported anxiety. Six studies found some statistically significant differences between arms:
+- lower anxiety with triazolam vs. placebo
+- lower anxiety with midazolam vs. no intervention
+- lower anxiety with midazolam 2 mg vs. 1 mg
+- lower anxiety with propofol vs. midazolam
+- lower anxiety with any intervention group vs. placebo; lower intraoperative anxiety with fentanyl + midazolam vs. midazolam; subjects receiving fentanyl + midazolam + methohexital reported the lowest anxiety
+- lower anxiety with fentanyl + midazolam or fentanyl + midazolam + methohexital vs. placebo or midazolam
+In another study, lower anxiety with midazolam vs. diazepam was shown by VAS but not STAI.
+Four studies reported unclear findings or were underpowered (period effects not removed by crossover design; midazolam vs. placebo and zaleplon vs. triazolam underpowered). Two studies found no significant difference (midazolam vs. clonidine; remifentanil vs. placebo). Luyk et al. found no significant difference in postoperative anxiety (midazolam vs. placebo, 1992), but reported lower intraoperative anxiety with oral+IV midazolam (1991; attrition bias).
+
+Narrative synthesis on anxiety by assessing stress hormones alteration
+Three studies investigated stress hormone alteration. One reported lower cortisol levels with midazolam vs. placebo; unclear findings comparing midazolam vs. NO/O2. One study found significant variation in perioperative renin levels with remifentanil vs. placebo, while aldosterone and ACTH levels were not statistically different.
+
+Discussion
+
+This review found inconclusive and conflicting findings about the role of conscious sedation in the management of dental anxiety during third molar extraction surgery. Summary of the findings was limited by the lack of consistent, standardized outcome measures, thus preventing definitive conclusions. Available literature shows large heterogeneity in selection of sedation drugs (or drug combinations), route of administration, anxiety evaluation scales and timing of assessment.
+
+Patient-reported anxiety was the preferred outcome measure (assessed using different scales), with six studies providing some indications and nine reporting unclear or inconclusive findings. Lower cortisol levels were associated with midazolam and remifentanil when compared to placebo.
+
+Limitations: (1) quality of included studies was unclear in some domains and some at high risk of bias due to incorrect crossover analysis; (2) heterogeneity in comparisons, assessment and outcome measures prevented pooling; (3) focus on third molar extraction limits generalizability to other procedures.
+
+The use of pharmacological conscious sedation did not consistently show advantages in managing dental anxiety in third molar extraction surgery. Relevant unanswered questions: preferred drugs/route of administration; standardized set of outcome measures; timing of assessment. The authors note that a previous study showed long-term reduction of dental fear in children through behavioral and cognitive-behavioral interventions, while conscious sedation was less effective; and there was no strong evidence of anxiolytic effects of opioids, whose routine use is hard to justify given less hazardous alternatives.
+
+Implications for future research: standardization of study design; appropriate crossover implementation (randomization of sequences, adequate analysis of different-size sequences); critical choice of investigated drugs prioritizing anxiolytic effect, low adverse-effect risk, ease of use, patient satisfaction; ordered sequence of comparisons; placebo-controlled (not no-intervention) arm; agreed-upon validated outcome measures (patient-reported VAS/DAS + objective stress-hormone parameters; avoid external-observer assessment); timing including baseline, before-sedation and after-sedation but before local anesthetic injection (postoperative assessment biased by spontaneous anxiety reduction); intra-operative physiological data including Analgesia/Nociception Index (ANI).
+
+Conclusions
+
+This review found inconclusive and conflicting reports about the role of conscious sedation in managing dental anxiety in third molar extraction surgery. Relevant questions remain unanswered due to the lack of consistent, standardized outcome measures. Future research may benefit from a systematic standardization in study design.
