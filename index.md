@@ -1802,6 +1802,12 @@ tags: []
 - [[practice-management/manser-2009-teamwork-patient-safety-dynamic-healthcare]] — Manser 2009 · narrative-review(일반의료) · 3 근거축(사고·인식·관찰된 소통/조정/리더십)으로 팀워크를 환자안전 결정요인으로 정립 (초록기반)
 - [[practice-management/muller-2018-sbar-handoff-communication-patient-safety-sr]] — Müller 2018 · sr(11편, 일반의료) · 구조화 인계도구 SBAR가 환자안전 개선(중등도 근거), 특히 전화 소통에서 — 치과 팀 인계에 외삽 (PMC full text)
 - [[practice-management/buljac-samardzic-2020-team-effectiveness-interventions-healthcare-sr]] — Buljac-Samardzic 2020 · sr(GRADE, 297편, 일반의료) · 팀 효과성 개입 3+1 분류(훈련[CRM·TeamSTEPPS·시뮬레이션]/도구[SBAR·체크리스트]/조직재설계/프로그램); 원리기반·시뮬레이션 훈련 가장 유망 (PMC full text)
+- [[practice-management/prasad-2012-sms-reminder-dental-attendance-rct]] — Prasad 2012 · rct(n=206, 인도; 본문 추출불가로 quasi-RCT 가능성) · SMS 예약 리마인더가 정시 내원 79.2% vs 35.5%로 향상 — no-show overview의 리마인더 근거 공백 충당 (초록기반)
+- [[practice-management/nelson-2011-text-vs-voice-reminder-pediatric-dental-rct]] — Nelson 2011 · rct(n=318, 소아) · 음성 리마인더가 SMS보다 우수(no-show 8.2% vs 17.7%, 보정 OR 2.12) — 채널이 중요, "리마인더 보내라" 단순권고 한정 (초록기반)
+- [[practice-management/bailey-2021-patient-safety-culture-primary-dental-care]] — Bailey 2021 · narrative-review · 1차 치과진료(전체의 ~95%) 환자안전문화 구축: 인적요인·second victim·과잉규제 경계 (초록기반)
+- [[practice-management/yansane-2020-patient-safety-culture-dentistry-assessment]] — Yansane 2020 · cross-sectional(미국 4개 치대, n=656) · MOSPSC 측정 — 의료가 치과를 10개 중 9개 안전문화 차원에서 앞섬; 치과 강점은 조직학습(85%)·팀워크(79%) (초록기반)
+- [[practice-management/ono-2022-cost-sharing-childhood-dental-utilization-japan]] — Ono 2022 · retrospective(DiD, 일본 청구자료 n=1,108) · 소아 치과보조금 중단(만10세)이 단기 이용·비용·중증치아상태에 유의 변화 없음 — 보편의료 맥락 cost-sharing (초록기반)
+- [[practice-management/listl-2019-what-is-health-economics-oral-health]] — Listl 2019 · narrative-review · 치과 보건경제학 입문: 수요·비대칭정보·시장실패(효율·형평)·경제성평가·공급자유발수요·인력기획 (초록기반)
 
 ### resin (added 2026-05-24, batch c)
 
