@@ -10,6 +10,8 @@ source: li-2015-microbiota-black-stain-primary-dentition.md
 category: [caries]
 confidence: cross-sectional
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/li-2015-microbiota-black-stain-primary-dentition.txt
+text_filename: li-2015-microbiota-black-stain-primary-dentition.txt
 full_text: true
 tags: [black-stain, microbiome, 16S-rRNA, actinomyces, primary-dentition, caries-free, oral-microbiome]
 ---
