@@ -1826,6 +1826,8 @@ tags: []
 - [[behavioral-dentistry/motivational-interviewing/rogers-2022-dental-hygienists-motivational-interviewing-perceptions]] — Rogers 2022 · cross-sectional · 위생사 95% MI 사용·98% 효과 인식; TPB 3요소가 사용 예측. efficacy≠implementation
 - [[behavioral-dentistry/motivational-interviewing/anderson-2025-motivational-interviewing-nutritional-counseling-dentistry]] — Anderson 2025 · narrative-review(초록기반) · MI 영양상담; NRACT brief-MI 도구
 - [[behavioral-dentistry/motivational-interviewing/bonetti-2018-general-health-promotion-dental-engage]] — Bonetti 2018 · feasibility · ENGAGE <5분 생활습관 위험전달+signposting; 환자 거부감<10%, GDP 17/18 수용
+- [[behavioral-dentistry/motivational-interviewing/kitsaras-2023-theoretical-methodological-approaches-oral-health-behaviour]] — Kitsaras 2023 · narrative-review(초록기반) · 구강 행동변화 중재의 이론·방법론 지형(COM-B·Behaviour Change Wheel·co-design·기술전달); MI를 더 넓은 설계공간의 한 기법으로 위치
+- [[behavioral-dentistry/motivational-interviewing/aljabaa-2014-interventions-improve-adherence-orthodontic-patients]] — Aljabaa 2014 · sr · 교정환자(12-18세) 순응도 중재 RCT 4편; 보상/award 제외 전부 순응도 개선, 단일 최적법 근거 부족
 
 #### communication-relationship
 - [[behavioral-dentistry/communication-relationship/choi-2024-determinants-dentist-patient-relationships]] — Choi 2024 · scoping(서울대, 16편) · DPR 6 domain; communication(8)>trust(6), 대부분 clinical-process. DPR scale 부재
@@ -1834,10 +1836,16 @@ tags: []
 - [[behavioral-dentistry/communication-relationship/elwyn-2025-shared-decision-making-primer-clinicians]] — Elwyn 2025 · consensus(ISDM 13개국 25인) · 임상의 관점 SDM 실행 primer + decision aids
 - [[behavioral-dentistry/communication-relationship/dawood-2025-patient-expectations-implant-aesthetic-dentistry]] — Dawood 2025 · narrative · 임플란트·심미 기대관리; 소셜미디어 gap, 투명한 소통·동의로 정렬, 술자 wellbeing
 - [[behavioral-dentistry/communication-relationship/currie-2021-promoting-regular-dental-attendance-problem]] — Currie 2021 · sr(3편) · 통증-only 환자 정기검진 유도; 미래 4축(커뮤니케이션·관계·인식·비용)
+- [[behavioral-dentistry/communication-relationship/asaad-2019-shared-decision-making-sdm-dentistry]] — Asa'ad 2019 · narrative-review(초록기반) · 치과 SDM 구현 현황 + informed consent·환자 의사결정보조도구(PDA) 역할; PDA가 더 많은 분야에 필요
+- [[behavioral-dentistry/communication-relationship/barber-2019-shared-decision-making-orthodontics]] — Barber 2019 · narrative-review(초록기반) · 교정 SDM 단계·장벽·근거공백; decision aid 부재가 통합 저해
+- [[behavioral-dentistry/communication-relationship/otero-2022-informed-consent-dentistry-medicine-spain]] — Otero 2022 · narrative-review(PMC full text) · 스페인 IC 법리 + ICD 가독성(INFLESZ); IC는 '과정'(서명은 마지막 고리)·부실 IC 유죄가 과실보다 많음·전 ICD 가독성 임계 미달
+- [[behavioral-dentistry/communication-relationship/berkman-2011-low-health-literacy-health-outcomes]] — Berkman 2011 · sr(AHRQ, 96편) · 낮은 건강문해력 → 입원·응급실↑·검진/복약↓·노인 사망률↑; 구강 건강문해력 근거는 공백
+- [[behavioral-dentistry/communication-relationship/wittink-2018-patient-education-health-literacy]] — Wittink 2018 · narrative-review(초록기반) · 보편적 건강문해력 예방조치(jargon 회피·작은 단계·방문당 3핵심·teach-back·≤6학년 인쇄물·시각자료)
 
 #### patient-reported-outcomes
 - [[behavioral-dentistry/patient-reported-outcomes/dogramaci-2023-patient-related-outcomes-ohrqol-endodontics]] — Doğramacı 2023 · review · endo PCO/PRO·PROM/PREM 정의(ESE S3); OHRQoL 개선되나 측정도구 미검증
 - [[behavioral-dentistry/patient-reported-outcomes/arunyanak-2024-patient-related-outcomes-experience-periodontics]] — Arunyanak 2024 · review · perio·implant·peri-implantitis PRO/PRE; 기대 미정렬이 만족·장기성공 저해, 치료 전 행동평가 필수
+- [[behavioral-dentistry/patient-reported-outcomes/ebnahmady-2015-patient-satisfaction-surveys-dental-school]] — Ebn Ahmady 2015 · narrative-review(초록기반, 730→9편) · 치과대학병원 환자만족 5차원: quality·interaction·access·environment·cost
 
 #### dental-anxiety
 - [[behavioral-dentistry/dental-anxiety/alhomoud-2023-behavior-anxiety-levels-pediatric-patient]] — Al Homoud 2023 · cross-sectional(n=150) · 소아 Frankl·Venham·categorical; 연령 효과 유의(11-14세), 성별 무의
@@ -1847,6 +1855,9 @@ tags: []
 - [[behavioral-dentistry/dental-anxiety/cernega-2022-efficacy-hypnosis-dental-anxiety-phobia]] — Cernega 2022 · sr+ma · 최면이 성인 치과불안에 유망하나 이질성 큼; CBT가 최강 비약물 옵션 (PMC full text)
 - [[behavioral-dentistry/dental-anxiety/barros-padilha-2023-virtual-reality-and-behaviour-management]] — Barros Padilha 2023 · sr(22 RCT) · 몰입형 3D VR distraction이 소아 치과불안·통증 감소 (PMC full text)
 - [[behavioral-dentistry/dental-anxiety/ghobadi-2024-effect-virtual-reality-reducing-patients]] — Ghobadi 2024 · rct · 성인 임플란트수술 중 VR distraction이 통증·불안 감소 (PMC full text)
+- [[behavioral-dentistry/dental-anxiety/appukuttan-2016-strategies-manage-dental-anxiety-phobia]] — Appukuttan 2016 · narrative-review(PMC full text) · 성인 치과불안 단계 framework: 식별(면담+CDAS/MDAS/DFS+생리지표)→심리치료(CBT 최강)→약물(진정/전신마취)
+- [[behavioral-dentistry/dental-anxiety/ashley-2018-sedation-children-undergoing-dental-treatment]] — Ashley 2018 · sr+ma(Cochrane, 50 RCT/n=3,704) · 경구 midazolam 0.25-1mg/kg가 협조도 개선(SMD 1.96, 중등도 근거); 타 진정제는 이질성 커 pooling 불가 (초록기반)
+- [[behavioral-dentistry/dental-anxiety/melini-2020-conscious-sedation-dental-anxiety-third-molar]] — Melini 2020 · sr(17 RCT/n=1,788) · 사랑니 발치 의식하진정의 불안관리; 결과지표 비표준화로 비일관·결론 보류 (PMC full text)
 
 #### body-dysmorphic-disorder (NEW subcategory, added 2026-06-12)
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — Nabavizadeh 2023 · sr+ma · 코성형 지원자 18편(n=2,132) BDD 통합 유병률 32.7%(95% CI 23.6–41.7); BDD-YBOCS 도구가 설문보다 高(47.3%). 심미 진료 환자선택·술전 심리 스크리닝 근거 (2023)
@@ -2701,6 +2712,7 @@ tags: []
 ### 치과 적용 (Dental Applied)
 - [[complaint-management/thomas-2018-complaints-about-dental-practitioners]] — National Australian cohort (2011-2016) showing dentists have the highest complaint rate of 14 health professions (42.7/1000/yr); 4% of dentists generate 49% of complaints; most concern treatment. (2018) [retrospective]
 - [[complaint-management/vadde-2024-indian-dental-malpractice-claims]] — Analysis of 56 adjudicated Indian dental negligence cases (2018-2022) in consumer courts, classifying allegations by negligence severity and examining compensation and settlement delay. (2024) [retrospective]
+- [[complaint-management/grillo-2023-written-informed-consent-facial-cosmetic]] — Grillo 2023 · retrospective(브라질 10년 소송, 992→122건) · 서면동의가 피고 유리 판결·손해액(평균 $59,536)·패소 감소 → 안면성형 분쟁 방어 (초록기반) [retrospective]
 - [[complaint-management/alrahabi-2019-clinical-malpractice-in-endodontics]] — Narrative review of clinical malpractice in endodontics, cataloguing pre-, intra-, and post-operative errors (perforation, ledging, hypochlorite accidents, instrument fracture, no rubber dam) and their legal ramifications. (2019) [narrative-review]
 - [[complaint-management/kwon-2017-analysis-of-the-legal-effect]] — Korean court precedents (n=287) on aesthetic-surgery disputes: only 26.5% of covenant-not-to-sue settlements held; effectiveness turns on agreement content, and fee-free reoperations are not credited by courts. (2017) [retrospective]
 - [[complaint-management/park-2016-analysis-of-malpractice-claims-associated]] — 40 Korean plastic-surgery SSI malpractice precedents; 85% plaintiff-won; liability driven by failed culture/treatment, no referral, poor infection control, and missing preoperative infection consent. (2016) [retrospective]
