@@ -1,0 +1,20 @@
+Clinical Outcome of Three Different Types of Posterior All-Ceramic Crowns. A 3-Year Follow-up of a Multicenter, Randomized, Controlled Clinical Trial.
+
+Authors: Le; Dirawi; Papia; Larsson
+Journal: {'title': 'The International journal of prosthodontics', 'iso_abbreviation': 'Int J Prosthodont'}
+Publication date: {'year': '2023', 'month': 'Nov', 'day': '01'}
+DOI: 10.11607/ijp.8016
+PMID: 36484665
+Article types: Randomized Controlled Trial, Multicenter Study, Journal Article
+
+ABSTRACT
+========
+To assess and compare the clinical outcomes of three different types of all-ceramic posterior monolithic tooth-supported crowns.
+
+A total of 71 patients received 90 all-ceramic crowns randomized to be either high-translucency zirconia (ZC), high-translucency zirconia with a partial buccal veneer (ZC-V), or lithium disilicate glass-ceramic (LDS). All treatments were performed by four general dentists who were blinded to the material used. Baseline and subsequent annual evaluations were based on modified California Dental Association (CDA) criteria. A questionnaire was used to include patient-reported outcomes and to compare them to the crown quality rating performed by dentists.
+
+A total of 66 patients with 84 crowns were examined after 3 years. The survival rate was 98.8%. No crowns fractured during the observation period. One ZC-V crown failed due to loss of retention, and three complications were noted: loss of retention occurred in one ZC crown, and two ZC crowns needed to be endodontically treated. There was no significant difference between the different crowns regarding marginal integrity, surface, or anatomical form. Both patients and examining dentists rated the crowns favorably regarding esthetics, patients more than dentists.
+
+All crown types used show excellent and promising clinical outcomes from a short-term perspective. Patients and dentists rate the restorations favorably concerning esthetics and function. Int J Prosthodont 2023;36:546-553.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

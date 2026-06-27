@@ -7,8 +7,8 @@ pmid: "36484665"
 category: [dental-materials/zirconia]
 source_collection: pubmed-text
 full_text: false
-text_path: N/A
-text_filename: N/A
+text_path: /Users/oracleneo/llm-wiki/papers/le-2023-three-types-all-ceramic-posterior-3year-rct.txt
+text_filename: le-2023-three-types-all-ceramic-posterior-3year-rct.txt
 ---
 
 ## Why Ingested

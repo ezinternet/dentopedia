@@ -8,8 +8,6 @@ pmid: "36484665"
 source: le-2023-three-types-all-ceramic-posterior-3year-rct.md
 category: [dental-materials/zirconia]
 confidence: rct
-pdf_path: N/A
-pdf_filename: N/A
 source_collection: pubmed-text
 tags: [zirconia, high-translucency, lithium-disilicate, rct, posterior-crown, all-ceramic, 3year]
 relations:
@@ -17,6 +15,9 @@ relations:
     target: prosthetic-materials/gseibat-2025-zirconia-metal-ceramic-posterior-5year-rct
   - type: reinforces
     target: dental-materials/zirconia/ban-2023-dental-zirconia-types-development-review
+text_path: /Users/oracleneo/llm-wiki/papers/le-2023-three-types-all-ceramic-posterior-3year-rct.txt
+text_filename: le-2023-three-types-all-ceramic-posterior-3year-rct.txt
+full_text: false
 ---
 
 ## One-line Summary
