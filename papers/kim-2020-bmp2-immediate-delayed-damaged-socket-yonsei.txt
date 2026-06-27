@@ -1,0 +1,22 @@
+Immediate versus delayed application of bone morphogenetic protein-2 solution in damaged extraction sockets: a preclinical in vivo investigation.
+
+Authors: Kim; Cha; Paeng; Song; Thoma; Jung; Jung
+Journal: {'title': 'Clinical oral investigations', 'iso_abbreviation': 'Clin Oral Investig'}
+Publication date: {'year': '2020', 'month': '05', 'day': '26'}
+DOI: 10.1007/s00784-020-03362-w
+PMID: 32451759
+Article types: Journal Article
+
+ABSTRACT
+========
+To compare the clinical, radiographic, and histological healing patterns between the immediate and delayed applications of bone morphogenetic protein-2 (BMP-2) in damaged extraction sockets in dogs.
+
+The distal roots of the fourth premolars of the mandible were extracted bilaterally in five beagle dogs, and buccal bone defects (4&#xa0;mm wide and 9&#xa0;mm high) were surgically created. Collagenated biphasic calcium phosphate (CBCP) soaked for 10&#xa0;min in 100&#xa0;&#x3bc;L of BMP-2 solution was applied immediately to the defect site in the control group. In the test group, the BMP-2 solution of same dose was injected into the grafted site 2&#xa0;weeks after grafting with a saline-soaked CBCP. The dogs were sacrificed 2&#xa0;weeks later. Clinical, histological, and radiographic analyses were followed.
+
+Swelling and inflammatory reactions were predominantly observed in the control group at 2&#xa0;weeks. The area of new bone formation was significantly larger in the control group compared with the test group (10.8&#x2009;&#xb1;&#x2009;7.0 mm[mean &#xb1; SD] and 6.3&#x2009;&#xb1;&#x2009;3.1 mm, respectively; p&#x2009;=&#x2009;0.043). No significant difference was found in ridge width at 2&#xa0;mm, 4&#xa0;mm and 6&#xa0;mm below the lingual bone crest between the control (2.6&#x2009;&#xb1;&#x2009;1.0&#xa0;mm, 3.2&#x2009;&#xb1;&#x2009;0.9&#xa0;mm and 4.5&#x2009;&#xb1;&#x2009;0.5&#xa0;mm, respectively) and test group (3.3&#x2009;&#xb1;&#x2009;1.0&#xa0;mm, 3.7&#x2009;&#xb1;&#x2009;1.3&#xa0;mm and 4.2&#x2009;&#xb1;&#x2009;1.0&#xa0;mm; all p&#x2009;>&#x2009;0.05).
+
+Delayed application of BMP-2 2&#xa0;weeks after surgery did not show any advantage over immediate application of BMP-2 in terms of new bone formation.
+
+This study suggests that it might be better to apply BMP-2 immediately in alveolar ridge preservation, instead of delayed application, in order to enhance new bone formation.
+
+[Source: PubMed metadata (abstract). Retrieved via PubMed MCP for wiki traceability; full text not retrieved.]

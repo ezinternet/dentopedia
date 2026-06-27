@@ -11,6 +11,8 @@ confidence: animal
 source_collection: pubmed-text
 full_text: false
 tags: [bmp-2, ridge-preservation, biologics, timing, damaged-socket, cbcp, beagle]
+text_path: /Users/oracleneo/llm-wiki/papers/kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
+text_filename: kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
 ---
 
 ## One-line Summary

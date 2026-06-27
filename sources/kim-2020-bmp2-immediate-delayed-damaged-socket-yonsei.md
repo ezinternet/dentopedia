@@ -8,10 +8,8 @@ source_collection: pubmed-text
 full_text: false
 category: [bone-regeneration/ridge-preservation]
 confidence: animal
-pdf_path:
-pdf_filename:
-text_path:
-text_filename:
+text_path: /Users/oracleneo/llm-wiki/papers/kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
+text_filename: kim-2020-bmp2-immediate-delayed-damaged-socket-yonsei.txt
 source_url: https://pubmed.ncbi.nlm.nih.gov/32451759/
 ---
 
