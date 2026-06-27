@@ -2513,6 +2513,7 @@ tags: []
 - [[oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma]] — SR+MA (115 studies, 4 methods); NSPT 후 Aa·Td·Pg·Tf·En·Pi·Cr 유의 감소; 16S rRNA diversity 결과 이질적 (2025)
 - [[oral-microbiology/zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens]] — Narrative review; S. sanguinis의 SpxB H₂O₂로 S. mutans·P. gingivalis 억제 — 구강 유익균 commensalism 메커니즘 정리 (2018)
 - [[oral-microbiology/salah-2025-microbiota-based-therapies-oral-health]] — Narrative review; 적색복합체(Pg·Tf·Td) 병원성 vs 유익균(S. salivarius·Lactobacillus), 프로바이오틱스·박테리오파지·OMT 치료 최신 정리 (2025)
+- [[oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota]] — RCT substudy (n=153, 12주); 리스테린 제로 매일 사용 → 구인두 마이크로바이오타 구성 변화 없음(PERMANOVA p=0.413); Biotène은 Streptococcus·Rothia 소폭 감소 (OMEGA trial)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
 - [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
