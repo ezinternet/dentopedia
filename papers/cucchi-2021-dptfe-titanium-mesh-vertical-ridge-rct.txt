@@ -1,0 +1,16 @@
+PubMed abstract retrieved 2026-06-28 (not in PMC — abstract-only)
+PMID: 33017060 | DOI: 10.1111/clr.13673
+
+Title: Vertical ridge augmentation (VRA) with Ti-reinforced d-PTFE membranes or Ti meshes and collagen membranes: 1-year results of a randomized clinical trial
+Authors: Cucchi A, Vignudelli E, Fiorino A, Pellegrino G, Corinaldesi G
+Journal: Clinical Oral Implants Research 2021;32(1):1-14
+Registration: ClinicalTrials.gov NCT04332679
+
+Abstract:
+The aim of this study was to evaluate hard and soft tissues around implants placed in posterior mandible 1 year after vertical ridge augmentation (VRA).
+
+40 patients with vertical defects were enrolled and treated according to the study protocol. Patients were randomly divided into two study groups: reinforced PTFE membranes (group A) and titanium meshes plus collagen membranes (group B). All patients received simultaneous implants which were evaluated after prosthetic restoration at baseline and after 1 year, using the following parameters: peri-implant bone levels (PBLs), interproximal bone peaks (IBPs), pocket probing depth (PPD), bleeding on probing (BoP), plaque index (mPI), gingival index (mGI), keratinized tissue thickness/width (tKT and wKT), and fornix depth (FD). Statistical analysis was performed to investigate any statistically significant differences and/or correlations (p=.05).
+
+30 patients were completely followed up according to the study protocol. After 1 year, implants showed a change in PBL from 0.12 to 0.76 mm, with marginal bone loss of 0.67 and 0.61 mm for group A and group B, respectively, without significant differences (p>.9337). The estimated difference between treatments for the change from baseline in PBL was -0.05 (95% CI -0.27 to 0.16). Statistical analysis revealed strong correlations between PBL and IBP (p<.0001). However, no significant differences were observed for PPD, mPI, mGI, tKT, wKT, and FD (p>.05).
+
+The results indicate that GBR treatment with titanium meshes plus collagen membranes (Group B) compared to reinforced PTFE membranes does not appear to be inferior or superior in terms of PBL change. In both groups, hard and soft tissues were stable after 1 year of follow-up, with a peri-implant bone loss less than 1.0 mm in the first year.
