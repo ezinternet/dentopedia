@@ -1790,6 +1790,14 @@ tags: []
 - [[practice-management/gurgel-juarez-2022-accuracy-effectiveness-teledentistry-systematic]] — Gurgel-Juarez 2022 · sr-of-SRs · 원격치과 의뢰·치료계획·모니터링에 정확·효과적; 서비스전달 모델 근거 (PMC full text)
 - [[practice-management/alkhurayji-2024-factors-patient-failure-attend-dental]] — Alkhurayji 2024 · retrospective(n=1,364) · 치과 no-show 프로파일(미혼·여성·≤35세·오전); 예약 미내원 운영 근거 (PMC full text)
 - [[practice-management/khries-2024-identifying-barriers-pediatric-dental-appointments]] — Khries 2024 · cross-sectional · 소아 예약 미내원 44%(85% 보험가입에도); 연령·성별·교통 장벽 (PMC full text)
+- [[practice-management/alabdulkarim-2022-predicting-no-shows-dental-appointments]] — Alabdulkarim 2022 · retrospective(ML) · 치과 no-show 개별 예측(AUC 0.718·F1 66.5%); no-show 이력 binary-sequence feature, 스케줄 재배치 활용 (PMC full text)
+- [[practice-management/bhatia-2018-pediatric-dental-appointments-no-show-rates-reasons]] — Bhatia 2018 · cross-sectional(n=294, 뭄바이 소아) · 미내원율 52%; 망각·시험이 최다 사유, 기억의존이 유의 상관, 48.3%가 전일 리마인더 콜 선호 (PMC full text)
+- [[practice-management/samohyl-2021-non-attendance-dental-preventive-care-students]] — Samohyl 2021 · cross-sectional(슬로바키아, 학생 515+부모 681) · 부모의 예방진료 회피가 청소년 미내원 독립 예측(모 AOR 4.19·부 AOR 3.41); 남성·고연령·결손가정·저소득·가정 스트레스 (PMC full text)
+- [[practice-management/lee-2024-teledentistry-utilisation-australia-sr-ma]] — Lee 2024 · sr+ma(18편, 호주) · 원격치과 우식 스크리닝 정확(민감도 69.7%·특이도 97.4%); 환자 긍정·임상의 혼재, 비용절감·원격지 접근 (초록기반)
+- [[practice-management/garcia-2023-teledentistry-acceptability-latino-rural-virginia]] — García 2023 · cross-sectional(N=91 농촌 라티노) · 57% 원격치과 관심 없음; 고소득·무보험이 수용성과 연관, 건강형평성 단서 (PMC full text)
+- [[practice-management/chen-2024-dental-hygienist-autonomy-care-utilization]] — Chen 2024 · retrospective(DiD, MEPS 2001-2014) · 치과위생사 중간자율 → 예방내원↑, 최고자율 → 치료이용↓; 의료취약지에서 효과 더 큼 (초록기반)
+- [[practice-management/bozia-2021-dental-hygienist-scope-practice-radiology]] — Bozia 2021 · cross-sectional(26/31개국 설문) · DH 구내방사선 촬영 허용 78%·의뢰필요 42%·진단불가 46%·장비소유 27%; 국가·주별 scope 편차 (PMC full text)
+- [[practice-management/vu-2024-caregivers-perceptions-dental-therapists]] — Vu 2024 · cross-sectional(n=202 보호자) · 중간자(dental therapist)의 수복·발치·응급처치 수용적, 단 치과의사 감독 강하게 동의 (초록기반)
 
 ### resin (added 2026-05-24, batch c)
 
