@@ -1,0 +1,40 @@
+Title: Membrane barriers for guided bone regeneration: An overview of available biomaterials.
+Authors: Mizraji G, Davidzohn A, Gursoy M, Gursoy U, Shapira L, Wilensky A
+Journal: Periodontology 2000
+Year: 2023
+Volume: 93(1):56-76
+DOI: 10.1111/prd.12502
+PMID: 37855164
+
+ABSTRACT
+
+Dental implants revolutionized the treatment options for restoring form, function, and esthetics when one or more teeth are missing. At sites of insufficient bone, guided bone regeneration (GBR) is performed either prior to or in conjunction with implant placement to achieve a three-dimensional prosthetic-driven implant position. To date, GBR is well documented, widely used, and constitutes a predictable and successful approach for lateral and vertical bone augmentation of atrophic ridges.
+
+Evidence suggests that the use of barrier membranes maintains the major biological principles of GBR. Since the material used to construct barrier membranes ultimately dictates its characteristics and its ability to maintain the biological principles of GBR, several materials have been used over time.
+
+This review summarizes the evolution of barrier membranes, focusing on the characteristics, advantages, and disadvantages of available occlusive barrier membranes and presents results of updated meta-analyses focusing on the effects of these membranes on the overall outcome.
+
+Keywords: PTFE, collagen membrane, cross-linked collagen membrane, guided bone regeneration, membrane, non-resorbable membrane, resorbable membrane
+
+BARRIER MEMBRANE TYPES COVERED (from abstract/keywords):
+1. Non-resorbable membranes:
+   - Dense PTFE (d-PTFE): e.g. Cytoplast TXT-200, Ti-250XL
+   - Expanded PTFE (e-PTFE): e.g. Gore-Tex (original, now discontinued)
+   - Titanium mesh (Ti mesh)
+   - Titanium-reinforced PTFE (Ti-PTFE): e.g. Cytoplast Ti-250XL, RPM (Osteogenics)
+2. Resorbable membranes:
+   - Native collagen: e.g. Bio-Gide (porcine, double-layer)
+   - Cross-linked collagen: e.g. OSSIXPlus (ribose XL, porcine), BioMend Extend (glutaraldehyde XL, bovine)
+   - Synthetic polymers (PLGA, PLA): limited clinical use
+   - Pericardium (human/porcine/bovine): amnion, chorion, acellular dermal matrix
+
+KEY CONCEPTS FROM PAPER (based on abstract + keywords):
+- All barrier membranes serve to exclude epithelial and connective tissue from regeneration space
+- Space maintenance is critical for vertical augmentation → non-resorbable membranes superior for large VRA
+- Cross-linked collagen: slower resorption (ribose or glutaraldehyde treatment), better sustained barrier function vs native collagen — but clinical disadvantage: ~30% higher exposure rate (Wessing 2017)
+- d-PTFE advantage: can be used with open healing (not submerged) — bacteria don't penetrate
+- Titanium mesh: best space maintenance, highest bone gain potential, but highest exposure risk and requires 2nd surgery removal
+- Meta-analysis data included (updated)
+
+JOURNAL CONTEXT:
+Periodontology 2000 is a top-tier review journal for comprehensive synthesis. This review is the most cited recent overview of GBR membranes, providing the clinical hierarchy of available materials.
