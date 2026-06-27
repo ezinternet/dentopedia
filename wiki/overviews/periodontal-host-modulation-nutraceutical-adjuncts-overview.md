@@ -11,9 +11,10 @@ source_wiki:
   - wiki/drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
   - wiki/drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
   - wiki/periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
+  - wiki/periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
 category: [periodontics]
 confidence: synthesis
-tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, doxycycline, MMP, periodontal-adjunct, NSPT]
+tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, melatonin, doxycycline, MMP, periodontal-adjunct, NSPT, type-2-diabetes]
 ---
 
 > [!summary] 한국어 핵심요약
@@ -25,6 +26,7 @@ tags: [host-modulation, nutraceutical, omega-3, CoQ10, vitamin-C, ASU, doxycycli
 > - **항산화 비타민 (Vitamin C/E)**: 비타민C/E + 라이소자임 + 카르바조크롬(CELC, 국내 잇몸약 IGATAN F) 다기관 RCT(n=100)에서 치은지수(Gingival Index, GI)만 4주에 유의 개선(GEE OR=2.46, p=.022), **PD·CAL·PI는 유의차 없음** (Hong 2019) → 염증 지표 일부만 건드림.
 > - **비타민C + 생체재료 병용**: 비타민C 함유 주사형 혈소판농축피브린(injectable PRF, I-PRF) 3군 RCT(n=45)에서 기계적 치석제거(PMPR) 단독 대비 6개월 BOP·PD·CAL·골 변화 **추가 이득 없음**, 유일한 차이는 술후 통증 감소뿐 (Sherif 2025).
 > - **ASU (아보카도-대두 불검화물)**: 쥐 결찰 치주염 + 실험적 관절염 모델(n=60)에서 SRP 후 보조 ASU가 치주 골소실을 줄이고 관절염 동물의 악화 결과를 완화 — **동물·전임상 수준 근거** (Oliveira 2024). 류마티스-치주염 양방향 연결의 숙주조절 가설.
+> - **멜라토닌 (Melatonin) — T2DM 한정 신호**: 당뇨병(Type 2 Diabetes Mellitus, T2DM) + 치주염 환자에서 야간 경구 멜라토닌 3 mg를 NSPT에 보조한 SR+MA(RCT 3편, 풀링 2편 n=94, 8주)는 PPD(SMD −1.99)·CAL(SMD −1.49)·당화혈색소(HbA1c, SMD −1.15)·hs-CRP(SMD −0.97)를 유의 개선 — 표준화효과크기는 다른 영양보조제보다 커 보이나 **모두 GRADE low 확실성, 근거 3편뿐**이라 탐색적 수준 (Angelopoulou 2026). 항산화·항염·골보호(항파골) + 당뇨에서 내인성 멜라토닌 고갈을 메우는 대사 효과가 기전. → 영양보조제군 중 *전신질환 동반(T2DM)* 맥락에 한정해 양성 신호를 보인 사례이나 단독 권고 불가.
 > - **MMP-억제 / 국소 독시사이클린**: 고전 숙주조절요법(Host Modulation Therapy, HMT)의 대표는 저용량 독시사이클린(sub-antimicrobial dose doxycycline, SDD)의 MMP 억제 작용. Aimetti 2025 3중맹검 RCT(n=60, 3·4기)는 수술 2주 전 **국소** 독시사이클린(BOOST) → 최소침습수술(MIST)+법랑기질단백(EMD)+이종골에서 CAL 4.1 vs 3.2 mm, 복합성공률 83.3 vs 46.7%(NNT=2.73)로 유의 우월. → 영양보조제군 중 **유일하게 임상적으로 의미있는 효과 크기**이나, 이는 **수술-재생 맥락의 국소 약물**이지 단독 보충제가 아님.
 > - **공통 결론(임상 위계)**: ① 기계적 치면세균막 제거(SRP/PMPR)가 비타협 기반, ② 영양·항산화 보조제는 잘해야 sub-mm 부가효과(EFP 반대 또는 very-low 확실성), ③ 임상적 의미있는 부가효과는 약물-수술 병용(국소 DOX+재생술)에서만 관찰됨.
 > - **구분되는 인접 주제**: 본 종합은 *전신·국소 숙주조절/영양* 보조제에 한정. 생균제(probiotics)·항균광역동치료(aPDT)는 [[periodontal-adjunctive-therapy-probiotics-pdt-overview]], 국내 OTC 잇몸약(인사돌·이가탄 성분)은 [[otc-periodontal-adjunct-drugs-insadol-igatan]]로 분리되어 있다.
@@ -66,7 +68,11 @@ Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanica
 ### 4. Plant unsaponifiables — ASU (avocado/soybean)
 - **Oliveira 2024** (animal: rat ligature periodontitis + experimental arthritis, n=60): adjunctive ASU 0.6 mg/kg after scaling reduced periodontal bone loss and blunted the worse healing seen in arthritic animals. **Preclinical only** — a host-modulation hypothesis tied to the rheumatoid-arthritis ↔ periodontitis axis, not yet a clinical recommendation.
 
-### 5. MMP-inhibition / locally delivered doxycycline (classic host-modulation drug)
+### 5. Melatonin (antioxidant / anti-inflammatory / pro-osteoblastic) — the T2DM-specific signal
+- **Angelopoulou 2026** (SR+MA, 3 RCTs, 149 patients; 2 placebo-controlled trials pooled, n=94, 8 weeks): systemic oral melatonin 3 mg nightly as an NSPT adjunct, restricted to patients with **type 2 diabetes mellitus (T2DM) + periodontitis**, significantly improved PPD (SMD −1.99), CAL (SMD −1.49), HbA1c (SMD −1.15) and hs-CRP (SMD −0.97) vs NSPT/placebo; TAC, TNF-α, and IL-6 were non-significant. **Every outcome GRADE-low certainty.**
+- **Why it stands slightly apart:** the standardized effect sizes look larger than omega-3 or CoQ10, but two facts temper this: (a) the evidence base is only three small RCTs at low certainty, and (b) the population is narrowed to T2DM, where the rationale (melatonin replenishes the endogenous melatonin that diabetes suppresses, on top of antioxidant/anti-inflammatory/anti-osteoclastic actions) is strongest. This places melatonin at the **systemic-comorbidity-conditioned** end of the supplement spectrum — a plausible adjunct *in diabetic periodontitis specifically*, not a general-population recommendation. It dovetails with the diabetes thread of [[periodontics-treatment-ladder]] (SRP lowers HbA1c ~0.4–0.6%; Simpson 2022) and with the local-ozone diabetic-periodontitis RCT (Barahim 2024) as a parallel host-modulating adjunct in the same population. Like every supplement in this cluster, it cannot yet be recommended as standard adjunctive therapy.
+
+### 6. MMP-inhibition / locally delivered doxycycline (classic host-modulation drug)
 - **Aimetti 2025** (triple-blind RCT, n=60, stage III/IV): local doxycycline 2 weeks before MIST + EMD + xenograft (BOOST) → CAL gain 4.1 vs 3.2 mm (p=0.019), composite success 83.3% vs 46.7% (NNT=2.73), radiographic bone fill 3.5 vs 2.7 mm at 1 year.
 - **Interpretation:** the one cluster member with a clinically meaningful effect — but it is an MMP-modulating antibiotic deployed inside a regenerative-surgical protocol, the opposite of a standalone supplement. It anchors the "host modulation works *when integrated with definitive therapy*" end of the spectrum. (Systemic sub-antimicrobial-dose doxycycline / Periostat is the textbook HMT agent and shares this MMP-inhibition mechanism.)
 
@@ -79,6 +85,7 @@ Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanica
 | CoQ10 (gel) | SR conflict (Rasoolzadeh vs Fernandez) | SMD −0.96 (high RoB) vs ~0 | very low | Do not rely on older positive MA |
 | Vitamin C/E (CELC) | RCT (Hong 2019) | GI only; PD/CAL/PI ns | low | Gingival index effect only |
 | Vitamin C + I-PRF | RCT (Sherif 2025) | no benefit over PMPR | moderate (clear null) | No added clinical value |
+| Melatonin 3 mg/night (T2DM only) | SR+MA, 3 RCT (Angelopoulou 2026) | PPD SMD −1.99, CAL SMD −1.49, HbA1c SMD −1.15 | **low** | T2DM-specific exploratory signal; not standard |
 | ASU | animal (Oliveira 2024) | bone-loss reduction | preclinical | Hypothesis-generating only |
 | Local doxycycline + regen surgery | RCT (Aimetti 2025) | CAL +0.9 mm, NNT 2.73 | moderate | Meaningful — but surgical/regenerative context |
 
@@ -89,6 +96,7 @@ Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanica
 - [[periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr]] — CoQ10 route-stratified SR (oral weak, gel inert)
 - [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — older CoQ10 SR+MA; conflict resolved by RoB/route
 - [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C + I-PRF; null vs PMPR
+- [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
 - [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
 - [[drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
