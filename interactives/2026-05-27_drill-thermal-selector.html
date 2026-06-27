@@ -4,6 +4,7 @@ title: "Drill Thermal Protocol Selector — Chairside"
 type: interactive
 date: 2026-05-27
 status: draft
+verified: 2026-06-27
 category: implant-placement
 agenda: agenda/2026-05-27_chairside-interactives-batch.md
 source_wiki:
@@ -219,7 +220,7 @@ function calculate(e){
   else if (useRatio >= 0.4) score += 5;
 
   // Method
-  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); }
+  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
   else if (method === 'guided') { score += 8; flags.push('<span class="flag">Guided sleeve가 irrigation 방해 — Saxena 2024</span>'); refs.push('Saxena 2024: guided + sleeve heat dispersion 방해'); }
   else if (method === 'piezo') { score -= 5; refs.push('Jain 2024: piezo 통증·heat 저감'); }
 
@@ -256,7 +257,7 @@ function calculate(e){
     protocol = [];
     if (mat === 'steel' && bt <= 2) protocol.push('Zirconia drill 고려 (Bento 2023 — heat 유의 낮음)');
     if (useRatio >= 0.4) protocol.push(`Drill bit 교체 검토 — 현 ${use}/${max} 사용`);
-    if (rpm === 'high') protocol.push('RPM 800–1200으로 낮춤');
+    if (rpm === 'high') protocol.push('RPM 낮춤 — OD 시 1000 RPM이 최저 발열 (Soldatos 2024)');
     if (!intIrr) protocol.push('Internal + external 이중 irrigation 권고');
     if (preCool === false) protocol.push('Pre-cooled saline (4°C) 사용');
     if (method !== 'od' && bt === 4) protocol.push('Type IV — OD (Densah Bur) 전환 검토');
@@ -274,7 +275,7 @@ function calculate(e){
       bt <= 2 ? 'Bone type ' + ['','I','II','III','IV'][bt] + ' + 고밀도 — OD 전환 또는 staged 분할 osteotomy 검토' : '',
       'Sequential drill 단계 엄격 준수',
       method === 'guided' ? 'Guided drilling 시 sleeve 외부 추가 irrigation 필수' : '',
-      method !== 'od' && bt >= 3 ? 'OD (Densah Bur) 전환 — Marzorati 2026 SR-MA: thermal 유리 + ISQ 우세' : ''
+      method !== 'od' && bt >= 3 ? 'OD (Densah Bur) 전환 — IT(삽입토크) 일관 상승 [근거강함], thermal 유리; 단 ISQ 이득은 인체 SR+MA에서 NS·논쟁적 (osseodensification overview)' : ''
     ].filter(x => x);
   }
 
