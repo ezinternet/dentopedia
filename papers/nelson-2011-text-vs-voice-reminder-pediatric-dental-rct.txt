@@ -1,0 +1,20 @@
+Assessing the effectiveness of text messages as appointment reminders in a pediatric dental setting.
+Nelson TM, Berg JH, Bell JF, Leggott PJ, Seminario AL.
+J Am Dent Assoc. 2011 Apr;142(4):397-405.
+PMID: 21454845
+DOI: 10.14219/jada.archive.2011.0194
+
+ABSTRACT (abstract-only — full text not retrieved)
+
+Text messaging is dominant, but little research evaluates it as a dental appointment
+reminder. From the pediatric dentistry clinic at University of Washington, 543
+caregiver/child dyads were invited; 318 pairs (59% response) were randomized to receive
+an SMS text message (n=158) or a voice message (control) (n=160) as an appointment
+reminder. Younger caregivers were more likely to be nonattendees (P=.02). The voice
+message group had LOWER no-show attendance (8.2%) than the text message group (17.7%)
+(P=.01). The unadjusted odds ratio for reminder type and no-show was 2.41 (P=.01); after
+adjusting for caregiver age, OR 2.12 (P=.04).
+
+CONCLUSION: SMS text messages were NOT as effective as voice reminders in a dental-school
+pediatric clinic; future studies should investigate text reminders when patients
+self-select that type and outside the university setting.
