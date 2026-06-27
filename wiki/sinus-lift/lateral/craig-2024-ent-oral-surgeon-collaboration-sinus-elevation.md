@@ -16,6 +16,8 @@ relations:
     target: sinus-lift/lateral/maska-2017-implant-grafting-success-mucosal-thickening-sinus
   - type: applies-to
     target: sinus-lift/pseudocyst/kucukkurt-2025-maxillary-sinus-pathologies-cbct-prevalence
+text_path: /Users/oracleneo/llm-wiki/papers/craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.txt
+text_filename: craig-2024-ent-oral-surgeon-collaboration-sinus-elevation.txt
 ---
 
 ## One-line Summary
