@@ -1,0 +1,94 @@
+The Accuracy of Immediate Implantation Guided by Digital Templates and Potential Influencing Factors: A Systematic Review
+
+Authors: Qi Xing, Jie Lin, Mingyue Lyu
+Journal: International Dental Journal 2024;75(2):439-452
+DOI: 10.1016/j.identj.2024.10.010
+PMID: 39521681  PMCID: PMC11976621
+PROSPERO: CRD42023456132
+
+Source: PubMed Central full text (PMC11976621). According to PubMed; DOI https://doi.org/10.1016/j.identj.2024.10.010
+
+== Introduction ==
+
+Traditionally, dental implants require a 3-month waiting period for soft and hard tissue healing after tooth extraction, followed by an additional three to six months of unloaded osseointegration. This treatment course lasts longer, requires multiple surgical interventions, and may compromise future dental implant sites through collapse of the bone crest and creation of gingival defects.
+
+Immediate implant placement (insertion of an implant immediately after tooth extraction) reduces patient waiting times, minimizes procedure duration, better preserves bone and gingival architecture, and meets aesthetic demands. However, traditional freehand approaches often face challenges in achieving precise implant position and orientation during immediate implant placement, due to factors such as buccal bone dimensions, peri-implant inflammation, and inadequate initial stability. Malpositioned implants cause functional (speech) and aesthetic (exposed implant necks) problems, so correct 3D placement is a crucial prerequisite for success.
+
+Static computer-assisted implantology (surgical templates with embedded metal sleeves) allows preoperative virtual implant position planning to be transferred to the patient's mouth. Gargallo-Albiol et al demonstrated static computer-assisted surgical guides provide greater accuracy than conventional freehand placement. No prior systematic review concentrated specifically on immediate implant placement accuracy guided by digital templates. Accuracy here = deviation in 3D of placed implant from virtually planned location.
+
+== Materials and Methods ==
+
+Registered in PROSPERO (CRD42023456132). PRISMA-based.
+
+PICO: P = edentulous patient receiving implant treatment; I = immediate implantation using digital guides; C = preoperative planned implant on software; O = accuracy of implantation.
+
+Search: PubMed, Cochrane CENTRAL, Embase, Web of Science from inception to July 2023. English only. RCTs and clinical cohort studies (retrospective and prospective). Search terms: (1) "immediate dental implant" AND (2) "computer-assisted surgery"/"computer-assisted design"/"computer-aided design"/"computer-aided surgery"/"computer-guided surgery"/"computer-guided design"/"digital dentistry"/"guided implant surgery"/"surgical guide"/"surgical template" AND (3) "accuracy"/"deviation"/"precision."
+
+Two reviewers (Q.X., J.L.) screened titles/abstracts and full text; third reviewer (M.Y.L.) resolved disagreements.
+
+Risk of bias: Newcastle-Ottawa scale for cohort studies (Selection, Comparability, Exposure; max 9; high 7-9, medium 4-6, low <4). Cochrane Collaboration tool for RCTs.
+
+Outcomes: deviation between placed implants and planned implantation — coronal deviation, apical deviation, depth deviation, angular deviation (mean ± SD).
+
+Quantitative analysis: Stata v16.0. Random-effects meta-analysis for continuous data in single-armed studies (global coronal, apical, depth, angular deviation). Meta-regression for between-group comparisons. Heterogeneity by I-squared. Significance p < .05.
+
+== Results ==
+
+Study selection: 435 articles from databases + 1 manual = 436. After duplicate removal 321 for initial screening; 309 excluded by title/abstract; 6 excluded at full text (incomplete data, no digital templates). Seven studies met inclusion: 5 retrospective, 2 prospective.
+
+Sample: 202 patients, 215 implants. Sample size calculations performed in Feng et al, Han et al, Huang et al.
+
+Arch/site: 5 studies maxillary, 2 also mandibular; anterior and posterior regions. Optical scanning: 5 intraoral, 1 extraoral, 1 unspecified. Guide fabrication: most laboratory-based, only 1 CAD/CAM. Flap: 4 flap, 4 flapless. Protocol: 4 fully guided, 1 both full + half guided, 2 unspecified. Accuracy evaluation: 5 radiographic (pre/post CT), 1 non-radiographic (intraoral optical scan of inserted implant), 1 combined.
+
+Risk of bias: cohort studies scored 6-8 → moderate to high methodological quality.
+
+GLOBAL ACCURACY (random-effects pooled):
+- Coronal deviation: 0.74 mm (95% CI 0.41-1.08), I² = 99.0%, p = .000
+- Apical deviation: 1.01 mm (95% CI 0.83-1.20), I² = 94.0%, p = .000
+- Depth deviation: 0.50 mm (95% CI 0.36-0.65), I² = 75.3%, p = .007
+- Angular deviation: 2.34° (95% CI 1.68-3.00), I² = 94.5%, p = .000
+All CIs exclude 0 (statistically significant). High heterogeneity throughout.
+
+SUBGROUP — maxillary dental implant:
+- Coronal deviation: 0.61 (95% CI 0.11-1.11), I² 99.5%, p = .000
+- Apical deviation: 0.88 (95% CI 0.62-1.15), I² 96.0%, p = .000
+- Angular deviation: 2.01 (95% CI 1.01-3.00), I² 96.7%, p = .000
+(Note: source text labels are internally inconsistent for which metric is which; values reproduced as printed.)
+
+SUBGROUP — anterior dental implant:
+- Coronal deviation: 0.81 (95% CI 0.69-0.93), I² 71.3%, p = .015
+- Apical deviation: 1.07 (95% CI 0.82-1.32), I² 90.7%, p = .000
+- Depth deviation: 2.46 (95% CI 1.84-3.08), I² 80.7%, p = .001
+- Angular deviation: 0.40 (95% CI 0.35-0.45), I² 7.9%, p = .338 (low heterogeneity)
+(As printed; label-metric mismatches present in source.)
+
+EFFECT OF TIMING (delayed vs immediate implantation; 5 studies):
+- Coronal deviation: 0.07 (95% CI -0.09 to 0.22), I² 73.7%, p = .004 — CI includes 0 (NS)
+- Apical deviation: 0.05 (95% CI -0.12 to 0.22), I² 58.7%, p = .046 — CI includes 0 (NS)
+- Depth deviation: -0.18 (95% CI -0.38 to 0.02), I² 0.0%, p = .927 — CI includes 0 (NS); only 3 studies
+- Angular deviation: 0.16 (95% CI 0.01-0.31), I² 0.0%, p = .698 — CI excludes 0 (significant)
+
+== Discussion ==
+
+Proper 3D implant position is vital for longevity, osseointegration, and biological/functional/aesthetic success. Improper placement reduces success and aesthetics and causes bone resorption and peri-implantitis. Immediate placement into a fresh socket is more challenging than into a healed ridge (anatomy of alveolar process, implant-to-wall gap). Digital template-guided implantation improves accuracy; flapless/guided surgery reduces soft-tissue trauma, postoperative complications, pain, and speeds recovery.
+
+Compared with Schneider et al (non-immediate): this review found lower coronal (0.74 vs 1.16 mm) and apical (1.01 vs 1.96 mm) deviation, suggesting relatively high accuracy — but with substantial heterogeneity. Timing (delayed vs immediate) showed no significant differences in coronal, apical, angular deviation; depth deviation slightly better for immediate but NS.
+
+Factors affecting accuracy:
+- Guide fabrication: CAD/CAM vs laboratory-manual. Putra et al — conventional surgery higher mean angular deviation than CAD/CAM template-guided.
+- Support type: tooth- vs bone- vs mucosa-supported. Yolanda et al — tooth-supported guides more accurate.
+- Arch: Zhou et al — mandible more accurate than maxilla (rounded maxilla limits angular control).
+- Guided protocol: fully guided > half guided (Chen et al; Cassetta et al; Gargallo-Albiol et al SR). Most included studies were fully guided — a likely reason for the relatively high accuracy observed.
+- Alveolar anatomy: greater lingual resistance vs buccal → drill tends to deviate buccally during immediate placement.
+- Try-in limitation: guides cannot be tried on before immediate placement because teeth are not yet extracted, possibly affecting fit and accuracy.
+
+== Limitations and Future Scope ==
+
+Low number of included articles, limited patient numbers, high heterogeneity; some articles did not provide p-values for precision. Study focused on accuracy only — insufficient to fully understand clinical value. Future research should add patient-centred outcomes (satisfaction, comfort, postoperative recovery) and socioeconomic benefits (reduced treatment time, lower cost, compliance) across socioeconomic contexts.
+
+== Conclusion ==
+
+Immediate implantation guided by digital templates has generally acceptable accuracy. Factors impacting accuracy: type of guide, surgical technique (flap or flapless), site (maxilla or mandible). Timing (immediate vs delayed) did not significantly affect accuracy; surgeon experience, planning software, and preoperative imaging quality are crucial.
+
+Funding: Young Clinical Research Fund of the Chinese Stomatological Association (CSA-SIS2022-19); Sichuan Science and Technology Program (2023NSFSC0567).
+Conflict of interest: none declared.
