@@ -1,0 +1,83 @@
+Patient-and Clinician-Reported Outcomes and Outcome Measures Evaluating Timing of Implant Loading in the Edentulous Maxilla: A Systematic Review of Prospective Studies
+Pannuti CM, Hassan MA, Reis INR, Villar CC, Francisco H, Romito GA
+Clinical Oral Implants Research 2026; 37 Suppl 30: S332-S345
+DOI: 10.1111/clr.14451 | PMID: 41732074 | PMCID: PMC12930122
+
+ABSTRACT
+Aim: To identify patient-reported outcomes (PROs) and clinician-reported outcomes (ClinROs) and their outcome measures (PROMs and CROMs) used in prospective studies comparing immediate, early, and delayed implant loading protocols in edentulous maxilla patients receiving implant-supported prostheses.
+Materials and Methods: Protocol-driven electronic searches across MEDLINE, Embase, Scopus, Web of Science, Cochrane databases (January 2014 to May 2024) to identify prospective interventional and observational studies comparing immediate, early, delayed implant loading in maxillary edentulous patients. Zygomatic implants were excluded. Risk of bias performed using Cochrane RoB 2 and ROBINS-I; results reported descriptively.
+Results: Five studies were included, of which four compared immediate versus delayed loading and one study compared immediate versus early loading. PROMs like visual analog scale (VAS) tool (reported in 80%) to evaluate 7 PROs: pain, overall satisfaction, comfort, speech, masticatory function, esthetics, and self-esteem. Three studies reported Oral Health Impact Profile (OHIP-19, OHIP-20), McGill Pain Questionnaire, and condition-specific instruments assessing two outcomes: chewing ability and muscular activity during oral functions. ClinROs varied considerably between studies, demonstrating significant methodological diversity. ClinROs included implant stability, accuracy, occlusal parameters, periodontal health metrics, surgical outcomes, and esthetic evaluation via VAS.
+Conclusion: PROs predominantly assessed using VAS to evaluate patient satisfaction, pain, function, and esthetics, followed by the OHIP Questionnaire for quality-of-life assessment in immediate versus early/delayed loading protocols. ClinROs showed no standardized approach, creating significant heterogeneity. Standardization of assessment methods and reporting of PROMs/CROMs is needed.
+
+[NOTE: This .txt is a curated extract of the PMC full text (JATS) retrieved via PubMed for ingest. Definitions: IL = immediate loading (prosthesis within 1 week); EL = early loading (1 week-2 months); DL = delayed loading (>2 months). PROSPERO CRD42024519360. PRISMA 2020.]
+
+KEY DEFINITIONS (Introduction):
+- Delayed loading (DL): implants heal >2 months before prosthesis connection/functional loading (traditional Branemark protocol).
+- Immediate loading (IL): prosthesis connected within 1 week of placement.
+- Early loading (EL): loading between 1 week and 2 months after insertion.
+- PRO: patient-reported outcome (satisfaction, QoL, pain, function). PROM: structured tool capturing PROs directly (questionnaire/scale).
+- ClinRO: clinician-reported outcome (clinical/objective assessments). CROM: tools/rating scales used by clinician.
+- ID-COSM (Implant Dentistry Core Outcome Set and Measurement): patient satisfaction & comfort = mandatory domains in all implant trials; QoL mandatory in specific conditions/populations.
+
+OBJECTIVES (2 focused questions):
+Q1: In edentulous maxilla patients undergoing implant treatment with varying loading timings, what PROs and ClinROs have been utilized?
+Q2: What measures of assessment (PROMs and CROMs) have been employed to report these PROs and ClinROs?
+
+METHODS:
+- PRISMA 2020; preregistered protocol approved by Global Consensus for Clinical Guidelines (GCCG); PROSPERO CRD42024519360.
+- Prospective studies only (to standardize reporting, minimize recall bias).
+- PICOS: P = edentulous maxilla needing fixed/removable implant-supported prosthesis; I = implant therapy with IL/EL/DL; C = IL vs DL, IL vs EL, or EL vs DL; O = primary PROs/PROMs, secondary ClinROs/CROMs; S = prospective interventional & observational (RCT, non-RCT, cohort, case series >=10 cases).
+- Inclusion: prospective comparative studies directly comparing >=2 loading protocols, clearly reported loading timing; completely edentulous maxilla (or scheduled for complete maxillary extraction) receiving full-arch fixed/removable implant prosthesis; PROs/PROMs and/or ClinROs/CROMs evaluated; 2014-present; English.
+- Exclusion: retrospective, cross-sectional, case reports, in vitro, preclinical; implants placed before study; pterygoid/zygomatic implants; single-time-point comparisons or single-arm studies.
+- Search: MEDLINE (PubMed), Embase, Scopus, Web of Science, Cochrane CENTRAL up to May 2024.
+- Screening: 2 reviewers (Rayyan); Cohen's kappa = 0.81.
+- Risk of bias: RCT -> Cochrane RoB 2; non-RCT -> ROBINS-I.
+- Synthesis: descriptive only (qualitative synthesis not feasible); frequencies/percentages via STATA 16.1.
+
+SEARCH/SCREENING RESULTS:
+- 2232 records identified; 777 duplicates removed; 1455 screened; 1387 excluded; 68 full-text assessed; 5 included (4 RCT + 1 non-RCT).
+- Inter-examiner kappa 0.81.
+
+INCLUDED STUDIES (5; 121 patients, 724 implants analyzed):
+1. Markovic et al. (Serbia, RCT): IL vs EL. n=24 (IL 12 / EL 12). 6 implants/patient (Bone Level Tapered SLActive, Straumann). Maxilla. Fixed full-arch dentures. Max follow-up 6 weeks. Primary outcome: primary & secondary implant stability. Funded by Institute Straumann AG.
+2. Montero et al. (Spain, RCT): IL vs DL. n=34 baseline (IL 16 / DL 18), 27 at last follow-up. ~6.3 implants/patient. Maxilla & mandible. Fixed hybrid screw-retained (PEEK-NFC). Max follow-up 1 year. Primary outcome: functional & subjective outcomes of full-arch hybrid rehabilitations. Funded (U. Salamanca chair).
+3. Bernard et al. (Belgium, RCT): IL vs DL. n=15 (IL 7 / DL 8). 6 implants/patient (Ankylos, Dentsply Sirona). Maxilla. Fixed screw-retained definitive. Max follow-up 2 years. Primary outcome: bone loss. Funded (Dentsply Sirona).
+4. Vercruyssen et al. (Belgium, RCT): IL vs DL. n=15 (IL 7 / DL 8). 6 implants/patient (Ankylos, Dentsply Implants). Maxilla. Hybrid detachable screw-retained. Max follow-up 7 days. Primary outcome: accuracy (planned vs placed deviation) + patient-centered outcomes. Funded (Dentsply Implants).
+5. Penarrocha-Oltra et al. (Spain, non-RCT): IL vs DL. n=30 (IL 15 / DL 15), 29 at follow-up. 6-8 implants/patient (Kohno SP, Sweden & Martina). Maxilla. Fixed full arch (provisional fixed IL vs provisional removable denture control). Max follow-up 12 months. Primary outcome: patient satisfaction + postoperative pain/swelling. No funding.
+
+Mean age: IL groups 45-71y; DL groups 49-67y. 80% externally funded (all except Penarrocha-Oltra).
+
+RISK OF BIAS:
+- 4 RCTs: low risk across most domains, overall "some concerns."
+- 1 non-RCT (Penarrocha-Oltra): moderate risk.
+
+PROs / PROMs FINDINGS (Q1+Q2):
+- VAS = most frequent (80% of studies; Bernard, Markovic, Penarrocha-Oltra, Vercruyssen). Used to assess 7 PROs: pain, overall satisfaction, comfort, speech, masticatory function, esthetics, self-esteem.
+- OHIP questionnaires: OHIP-19 (Markovic), OHIP-20 (Montero) for oral health-related QoL.
+- Specialized: McGill Pain Questionnaire (MPQ-DLV) + HRQOL-15 (Vercruyssen) for pain/QoL.
+- Condition-specific: chewing ability & masticatory performance (Montero, chewingApp).
+- Analysis metrics varied: mean VAS (Bernard), OHIP-20 summary (Montero), NWC-T/PRI-T/HRQOL index (Vercruyssen).
+- Assessment timing ranged from daily for 7 days (Vercruyssen) to 2 years (Bernard).
+- OHIP-19/OHIP-20 preferred over OHIP-14 for edentulous/partially dentate (OHIP-14 developed for dentate).
+
+ClinROs / CROMs FINDINGS (4 of 5 studies; 12 ClinROs total):
+- 12 ClinROs: implant stability, insertion torque, clinician esthetic satisfaction, surgical/prosthetic complications, occlusal force (contact area, avg/max pressure, occlusal load), EMG activity, bone loss, probing depths, BoP, plaque index, accuracy of implant placement, surgical time.
+- Markovic: implant stability via RFA (Osstell + Penguin, ISQ 1-100), insertion torque (Ncm), clinician esthetic VAS; only study reporting inter/intra-rater reliability.
+- Montero: occlusal force via Dental PRESCALE (pressure-sensitive sheets), EMG (masseter/temporalis, MYOMED_932TM).
+- Bernard: bone loss, probing depth, BoP, plaque index (ImageJ radiographic).
+- Vercruyssen: surgical accuracy (CT matching Mimics + CBCT, entry/apex/angular deviation), surgical time.
+- No consensus / no standardized CROM approach between studies.
+
+DISCUSSION / KEY POINTS:
+- VAS convenient but susceptible to response bias, lacks comprehensive validation, harder to interpret than multi-item validated questionnaires.
+- None of the tools (OHIP-19/20, VAS) validated specifically to detect differential impact of IL vs EL/DL prosthetic delivery timing.
+- Critical gap: only Markovic reported assessor reliability testing; calibration protocols mostly NR -> reliability/comparability concern (esp. subjective CROMs).
+- Mandibular dentition status may confound maxillary-implant PROs (chewing, satisfaction).
+- Max follow-up only 2 years -> short vs prosthesis lifetime; longer/varied maintenance intervals needed.
+- Heterogeneity: small number of studies, varied outcome measures, follow-up durations, loading-timeline definitions; predominantly European university settings (limited geographic/cultural diversity).
+- Excluded single-arm & retrospective studies to enhance quality.
+
+CONCLUSION:
+PROs predominantly assessed via VAS (satisfaction, pain, function, esthetics), then OHIP for QoL, in IL vs EL/DL protocols. ClinROs showed no standardized approach -> significant heterogeneity. Standardization of PROM/CROM assessment and reporting is needed to optimize patient-centered outcome analysis.
+
+Conflicts of interest: none declared.
