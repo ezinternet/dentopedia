@@ -65,10 +65,10 @@ confidence: narrative-review
     <span style="font-size:0.85em; color:var(--darkgray);"><!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개 종합 페이지를 도메인별로 묶은 탐색기.</span>
   </a>
 
-  <a href="https://ezinternet.github.io/dentopedia/interactives/" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid var(--secondary); border-radius:10px; padding:1rem;">
+  <a href="https://ezinternet.github.io/dentopedia/interactives/" style="display:block; text-decoration:none; background:var(--tertiary); border:1px solid var(--tertiary); border-radius:10px; padding:1rem;">
     <div style="font-size:1.8rem; line-height:1;">🦷</div>
-    <strong style="display:block; margin:0.4rem 0 0.2rem;">Interactive Tools</strong>
-    <span style="font-size:0.85em; color:var(--darkgray);">chairside 계산기·결정트리·시뮬레이터 <!-- INTERACTIVE_COUNT -->31<!-- /INTERACTIVE_COUNT -->편.</span>
+    <strong style="display:block; margin:0.4rem 0 0.2rem; color:#fff;">Interactive Tools</strong>
+    <span style="font-size:0.85em; color:rgba(255,255,255,0.85);">chairside 계산기·결정트리·시뮬레이터 <!-- INTERACTIVE_COUNT -->31<!-- /INTERACTIVE_COUNT -->편.</span>
   </a>
 
 </div>
