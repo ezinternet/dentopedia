@@ -2,7 +2,7 @@
 title: "임플란트 표면처리 비교 — SLA·CA·UV 광기능화·골밀도화 매트릭스"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-05-18
+date: 2026-06-28
 type: overview
 category: [overviews]
 tags: [implant-surface, SLA, SLActive, CA, UV-photofunctionalization, hydroxyapatite, hydrophilic, biological-aging, osseointegration, bone-to-implant-contact, BIC, surface-topography]
@@ -20,6 +20,8 @@ relations:
     target: vilchez-2025-sla-slactive-split-mouth-rct
   - type: extends
     target: komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr
+  - type: reinforces
+    target: czumbel-2019-sandblasting-implant-failure-rate-sr-ma
 ---
 
 ## 한국어 핵심요약
@@ -33,6 +35,7 @@ relations:
 > - 탄소/티타늄(C/Ti) 비율↑ → 골아세포 부착·증식·분화 농도 의존적 감소(C/Ti=1.0에서 ALP·칼슘 무기화 >40% 감소).
 > - 친수성 표면은 ISQ 절대값을 올리는 게 아니라 D3/D4 골에서 stability dip을 제거해 조기 부하 시기를 앞당김(Canullo 2024 prospective: 친수성 T45 74.97 vs SLA 73.44, p<0.05).
 > - 생물학적 노화는 4주가 아닌 6개월까지 지속 — 포장 후 6개월 이상 보관 임플란트는 골유착 손실 가능, UV-PF로 역전.
+> - 샌드블라스팅(Sandblasting) vs 머신드(Machined) 직접 비교 RCT SR+MA(Czumbel 2019, 7 RCT, 722임플란트): 샌드블라스팅이 실패율을 1년 80%(RR=0.20, I²=0%), 5년 74%(RR=0.26, I²=0%) 감소. 단 변연골소실(MBL)은 두 표면 간 유의차 없음 — **표면 거칠기는 실패율을 낮추지만 변연골 유지에는 영향을 주지 않는다**는 핵심 분리(Dissociation).
 > - 거칠기 최적: 메조+마이크로+나노 계층형(Hierarchical) 표면이 이론적 최적(Hasegawa 2020 in-vivo).
 > - 골밀도화(Osseodensification, OD)는 표면처리가 아니라 osteotomy 기법 — Densah burs로 측방 골 압축, 표면처리와 보완 관계; TSFE에서 ISQ 우위(Starch-Jensen 2025 SR+MA).
 > - 근거 갱신(2026-06): UV-PF 임상 SR+MA가 등장(Lang 2022, 임상 7편/734임플란트) — 골유착 속도지수(OSI, MD=2.13)·2개월 안정성은 유의 상승하나 다른 시점·MBL은 비유의(I²≤99%, high RoB); SLA vs SLActive 직접 비교 split-mouth RCT도 등장(Vílchez 2025, n=68) — ISQ 궤적·12개월 MBL 동등.
@@ -103,6 +106,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 | Confidence | 출처 | 표면 | 결과 | 추적 |
 |---|---|---|---|---|
+| **sr+ma** | [[implants/surface/czumbel-2019-sandblasting-implant-failure-rate-sr-ma]] | **Sandblasted vs Machined (직접 비교)** | 실패율 1년 **RR=0.20** (80%↓, I²=0%), 5년 **RR=0.26** (74%↓, I²=0%); MBL 1년 WMD=−0.10mm(NS), 5년 WMD=−0.01mm(NS) — **생존에서 분리된 MBL 동등성** | 7 RCT, 722임플란트 |
 | **sr+ma** | [[implants/surface/lang-2022-photofunctionalization-implant-stability-marginal-bone-loss-sr-ma]] | **UV-PF (임상 SR+MA)** | **첫 임상 SR+MA** — 골유착 속도지수(OSI) **MD=+2.13 (p=0.007)**, 2개월 안정성 MD=+3.48 (p=0.04); 다른 시점·MBL은 비유의 (I²≤99%, high RoB) | 임상 7편(5 RCT) / 430명·734임플란트 |
 | **sr (2026)** | [[implants/surface/komatsu-2026-uv-photofunctionalization-surface-agnostic-biofilm-soft-tissue-sr]] | **UV-PF (표면 비의존)** | 최신·최광 UV-PF SR — UV-PF = **표면형태 보존 "포지티브섬" 재활성화**; 초기 세균부착·바이오필름↓ + 연조직 봉쇄↑(Ti 일관, Zr 신흥); 임상 일관 신호 = 안정성 가속 | 34편(질적 종합) |
 | **prospective(7yr)** | [[implants/surface/hirota-2020-uv-photofunctionalization-dental-implant-7year]] | **UV-PF** | 일반·복잡증례 **100% 성공**; 암절제 22.2%; 복잡증례 **ISQ +21.9** | 7년, n=70 |
@@ -122,6 +126,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 **합성 결론** [근거강함]:
 
+- **샌드블라스팅 = 거칠기의 최소 기준** [근거강함]: Czumbel 2019 SR+MA(7 RCT, I²=0%)가 RCT 한정 근거로 확정 — 샌드블라스팅 표면은 머신드 표면 대비 임플란트 실패율을 1년 80%·5년 74% 감소시킨다. 단 MBL은 비유의 — 표면 거칠기는 **osseointegration 성공(실패율)**과 **crestal bone maintenance(MBL)**를 독립적으로 작동시킴을 시사. [claude해석]
 - **SLA/SA = 임상 표준** — 8년 94.8% 생존 (Kim 2020 retrospective); 그 표준의 출발점인 **SLA 단축 치유(~6주 부하)**의 최초 다기관 임상 근거는 Cochran 2002 (n=110/326 prospective, abutment 35 Ncm 성공 99.3%, 1·2년 성공 99.1%)로, 친수성·UV-PF 가속 부하 프로토콜이 비교되는 역사적 baseline
 - **CA (초친수성) = 더 안정적** — 5.2년 97.3% 생존, MBL 거의 무 (Kim 2022 retrospective)
 - **UV-PF = 가장 강한 7년 임상 근거** — 복잡증례에서 ISQ +21.9 (Hirota 2020 prospective); **임상 SR+MA(Lang 2022)도 등장** — OSI(골유착 속도) MD=+2.13으로 "안정성 도달 속도" 가속은 확증, 단 절대 안정성·MBL pooled 효과는 비유의(high heterogeneity·RoB)
@@ -201,6 +206,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 
 | 임상 결정 | 강한 결론 (rct·prospective·retrospective) | 보조 (narrative·in-vitro·animal) | 미해결 |
 |---|---|---|---|
+| 거칠기 vs 머신드 (기초 비교) | **샌드블라스팅 실패율 1년 80%↓·5년 74%↓ (Czumbel 2019 SR+MA, 7RCT, I²=0%)** MBL은 동등 | — | 샌드블라스팅+산부식(SLA) vs 샌드블라스팅 단독 직접 비교 SR+MA |
 | 표준 표면 선택 | SLA/SA: 8년 94.8% (Kim 2020); CA: 5.2년 97.3% (Kim 2022); **SLA≈SLActive 12개월 동등 (Vílchez 2025 RCT)** | SLActive·CA 임상 RCT 부족 | SLA·SLActive·CA 3자 동시 비교 SR+MA |
 | D3/D4 골 표면 | **친수성·생체활성이 dip 제거** (Canullo 2024 prospective) | UV-PF가 ISQ +21.9 (Hirota 2020 prospective) | D3/D4 표면 비교 RCT |
 | UV-PF 적응증 | 복잡증례 7년 100% (Hirota 2020); **OSI MD=+2.13 (Lang 2022 SR+MA)**; 당뇨 host RCT (Krishna 2025) | 노화 역전 기전 (Iwasa 2011 in-vitro); 표면 비의존 biofilm/연조직 SR (Komatsu 2026) | 표준화 다기관 RCT (절대 안정성·MBL pooled 비유의) |
@@ -256,6 +262,7 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 ## Wiki Coverage Caveat
 
 추가 PDF 사냥 권장:
+- ~~샌드블라스팅 vs 머신드 RCT SR+MA~~ → **확보됨 (Czumbel 2019, 7 RCT, I²=0%)**; 다음은 **SLA(샌드블라스팅+산부식) vs 샌드블라스팅 단독** 직접 비교 SR+MA
 - ~~SLA vs SLActive 직접 비교 RCT~~ → **확보됨 (Vílchez 2025, 12개월 동등)**; 다음은 **SLA·SLActive·CA 3자 동시 비교 + 5년 이상** RCT
 - ~~UV-PF 임상 SR+MA~~ → **확보됨 (Lang 2022)**; 다음은 표준화된 ISQ·MBL 측정의 **다기관 prospective RCT** (현 SR+MA는 I²≤99%·high RoB)
 - D3/D4 골 표면별 5년 이상 prospective
@@ -283,5 +290,9 @@ LLM-Wiki `implants/surface/` 15편 + 횡단 인용 3편 합성 (Canullo 2024 D3/
 - [[implants/surface/krishna-2025-uv-photofunctionalization-diabetic-implant-stability-rct]] — extends: UV-PF 효과를 **조절 당뇨(대사적 손상 host)**로 확장한 split-mouth RCT — 3개월 ISQ·OSI·9개월 골소실 모두 유의 우위 (rct, 2025)
 - [[implants/surface/farsiani-2025-photofunctionalized-implants-fractal-bone-analysis-rct]] — reinforces: UV-PF 처리부 임플란트 주위 해면골 프랙탈 차원 유의 상승(대조군 무변화) — 프랙탈 분석으로 PF 골 효과를 본 최초 인체 RCT (rct, 2025)
 - [[implants/surface/ko-2024-hydroxyapatite-nano-coated-sla-immediate-implants]] — reinforces: 상악 구치부 즉시식립에서 HA 나노코팅 SLA가 무코팅 SLA 대비 ISQ 회복·volumetric 안정성 우위 경향 (rct, 2024)
+
+### 신규 추가 (2026-06-28)
+
+- [[implants/surface/czumbel-2019-sandblasting-implant-failure-rate-sr-ma]] — reinforces: **RCT 한정 첫 SR+MA** (7 RCT, 722임플란트, I²=0%) — 샌드블라스팅 표면이 머신드 대비 임플란트 실패율을 1년 RR=0.20(80%↓), 5년 RR=0.26(74%↓)로 감소; MBL은 동등. 본 overview의 "샌드블라스팅=거칠기 최소 기준" 포지션에 RCT-only 근거를 추가하며, **실패율과 MBL의 독립적 거동**이라는 핵심 인사이트를 확정 (sr+ma, 2019)
 
 **갱신 메모 (2026-06-26)**: 이번 갱신의 핵심은 **본 overview가 명시했던 두 가지 "부재" 갭이 충전**된 것 — (1) UV-PF 임상 SR+MA(Lang 2022), (2) SLA vs SLActive 직접 비교 RCT(Vílchez 2025). 임상 권장 자체는 불변(SLA 표준·친수성 D3/D4·UV-PF 위축골)이나, **근거의 질이 한 단계 상승**했고 두 신규 근거 모두 thesis를 반박이 아닌 보강 방향으로 정렬한다: UV-PF는 "절대 안정성"이 아니라 "안정성 도달 속도(OSI)"를 높이고(Lang), SLActive는 SLA 대비 절대 우위가 아니라 특정 시나리오 한정(Vílchez). 남은 갭은 SLA·SLActive·CA **3자 동시 비교** 다기관 RCT.
