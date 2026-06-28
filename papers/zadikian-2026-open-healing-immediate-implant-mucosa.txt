@@ -1,0 +1,76 @@
+Title: Impact of an open healing approach on peri-implant mucosa following immediate implant placement with transmucosal provisionalization: a systematic review and meta-analysis
+Authors: Zadikian CC, Clerc MM, Zadikian JL, Kerner S, Duong L, Isaac J, Fournier BPJ
+Journal: BMC Oral Health 26(1), 2026
+DOI: 10.1186/s12903-026-08105-z  PMID: 41862887  PMCID: PMC13126965
+Source: PubMed Central full text (PMC13126965)
+
+ABSTRACT
+Objective: To compare peri-implant mucosal stability between an "open healing" approach (test) during immediate dental implant placement with bone grafting and immediate transmucosal provisionalization (non-occlusal) versus primary flap closure (control).
+Methods: PRISMA. Literature search up to May 2025. Primary outcome: peri-implant mucosal stability (Midfacial Mucosal Level, MML). Secondary: peri-implant soft tissue parameters (papilla, mucosal thickness) and bone-related outcomes (MBL, buccal bone thickness, implant survival).
+Results: Out of 362 records, 12 studies included, 431 patients and 438 implants. Most studies low risk of bias, heterogeneity in outcomes assessment observed. Meta-analysis showed limited midfacial mucosal changes between control and test groups, good stability of peri-implant keratinized tissue. Other soft/hard tissue outcomes comparable.
+Conclusion: Open healing with bone particle grafting during IIP appears a viable option for supporting midfacial mucosa and maintaining mucosa/bone stability. More high-quality RCTs needed.
+Clinical Relevance: Minimally invasive protocol provides satisfactory outcomes by preserving peri-implant tissues, reducing need for multiple surgical interventions.
+
+INTRODUCTION
+Single immediate dental implant placement with immediate non-loaded provisionalization shows high cumulative survival. Implant placed directly after extraction into fresh socket, non-functional provisional screwed same day. Minimizes surgical interventions, immediate fixed aesthetic solution.
+Post-extraction dimensional changes in alveolar socket, particularly within first 6 months, with notable bone resorption. Facial bone wall thickness critical. Thin bone wall phenotypes (<=1 mm) show progressive resorption with vertical loss; thick phenotypes only minor resorption. Thin phenotypes often show spontaneous soft tissue thickening.
+Grafting bone materials into gap between implant surface and socket walls reduces alveolar ridge resorption. Autografts gold standard; allografts, xenografts, synthetic also used.
+"Open-healing" approach: does NOT require primary closure of socket by covering bone graft with collagen matrix. Uses provisional restoration (or customized healing abutment) as protective seal over socket to stabilize bone graft, allowing secondary intention healing WITHOUT barrier membrane. Reduces surgical trauma, eliminates need for coronally advanced flap or free gingival graft.
+Supracrestal tissue height is a key determinant of peri-implant tissue remodeling. Bone grafting materials may be incorporated into supracrestal soft tissues without inflammatory reaction; effects on soft tissue integration and aesthetics not thoroughly explored.
+
+METHODS
+Registered PROSPERO CRD42023439073. PRISMA. Searches in English/French, May 2025, by 2 investigators (C.Z, M.C.) in PubMed (MEDLINE), EMBASE, Dentistry of Oral Science Source, Cochrane.
+PICO: Population = adult patients undergoing immediate implant placement. Intervention = open-healing (immediate transmucosal non-occlusal provisionalization with bone grafting). Comparison = bone grafting with primary closure. Primary outcome = Midfacial Mucosal Level (MML). Secondary = papilla, peri-implant mucosa thickness, buccal horizontal alteration, Pink Esthetic Score (PES), Keratinized Mucosa Width (KMW), Marginal Bone Loss (MBL), Buccal Bone Thickness (BBT), implant survival.
+
+Definitions:
+- Immediate implant placement = implant insertion at time of extraction.
+- Immediate provisionalization = connection within 1 week of transmucosal component (healing abutment or provisional restoration), out of occlusion.
+- Immediate loading = restoration in direct occlusal contact within 48 h (EXCLUDED).
+- "Open-healing" = transmucosal management of socket using anatomic healing abutment OR provisional restoration WITHOUT primary flap closure.
+
+Inclusion: systemically healthy patients >=18 yr, single tooth immediate implant with immediate transmucosal non-occlusal provisionalization + bone grafting using open healing. Comparison = primary flap closure. RCTs of parallel design + prospective case series >=5 patients with follow-up including final restoration.
+Exclusion: no soft tissue data; protocols with gingival graft / soft tissue substitute; retrospective, case report, review, conference abstract, opinion; immediate functional occlusal loading. Only RCTs used for meta-analysis.
+RoB: Cochrane RoB2 for RCTs; Joanna Briggs Institute for cohort/case-control/case series. Level of evidence by Oxford OCEBM.
+Statistics: Cohen kappa for agreement. Meta-analysis if >1 RCT with homogeneous data. Chi-square (alpha=0.05) and I-square for heterogeneity (high if I2 >50%, low if <25%). MML, mesial/distal papilla height, MBL meta-analyzed in RevMan 5.4.1.
+
+RESULTS
+362 records (PubMed 102, Cochrane 17, Embase 6, Dentistry & Oral Science 229, citation 7, manual 1). After 32 duplicates removed and screening: 35 for full-text; 23 excluded (7 with gingival graft/soft tissue substitute; 7 no soft tissue data; 3 no bone graft; 1 no immediate implant; 3 no immediate provisionalization; 2 no full-text access). 12 studies remained. Inter-reviewer agreement kappa=0.91 (95% CI 0.78-1.04, p<0.001).
+OCEBM: 3 studies grade 1B (RCTs), 1 grade 2B (cohort), 1 grade 3B (case-control), 6 grade 4 (case series). [Note: discussion states 4 RCTs.]
+RoB2: generally LOW RoB across RCTs. Some concerns re deviations from intended interventions (provisional restorations visible to patients/examiners could introduce bias); one study limited sample size. JBI: all studies scored >=7, low RoB.
+
+Included studies (12): 431 patients, 438 implants. 277 were immediate implants with immediate provisionalization + bone grafting. 42% (5/12) conducted in Italy.
+Study list: Chokaree 2024 RCT (IIP-BG customized HA vs standard HA, n6+6); Lertwongpaisan 2023 case series (IIP-BG titanium customized HA, n30); Perez 2020 RCT (IIP-BG customized HA vs standard HA, n18+18); Chan 2019 RCT (IIP-BG IP vs standard HA, n18+20); Chu 2018 case series; Chu 2015 case series; Grandi 2013 cohort (IIP-BG-IP vs socket preservation delayed implant); Spinato 2012 case-control; Cosyn 2011 case series (n30, 36 mo); Noelken 2011 case series; Felice 2011 RCT (IIP-IP-BG vs socket preservation delayed implant, n52+52); Redemagni 2009 case series.
+
+Follow-up: mean 10.6 months (95% CI 9.84-11.49). >50% of implants followed only for osseointegration period (<=6 months). Only Cosyn 2011 provided mid-term 3-year follow-up.
+Bone substitute distribution: 18% synthetic, 15% allografts, 52% xenogenic bovine bone, 8% autogenous. One study tested various graft materials: in thick gingival phenotype, different graft biomaterials in horizontal gaps did not influence clinical outcomes (22 of 277 implants).
+Buccal bone: 9 studies enrolled patients with no initial MBL and intact buccal wall; 2 extended to up to 4 mm missing facial plate; 1 included complete loss of facial bony lamella.
+Soft tissue: 9 studies enrolled only ideal soft tissue level (no recession vs contralateral); 2 specified thick phenotype; 2 gave no specific soft tissue requirements.
+Flap: ALL studies flapless (no flap elevation).
+Location: 92% anterior region; 1 study (8%) molar only.
+
+PRIMARY OUTCOME — MML:
+SMD between control and test = -0.26 (95% CI -0.71 to 0.18, p=0.25; 3 RCTs, 6-12 mo), NO statistical difference. Heterogeneity low (I2=6%, p=0.35).
+MML also evaluated in 6 studies (3 RCT + 3 non-RCT). Chan: limited changes, no significant difference between IIP with/without immediate provisionalization. Chokaree: no significant difference standard vs customized HA. Perez: significantly LESS midfacial recession in control (standard HA, +0.1+/-0.5 mm) than test (customized HA, -0.2+/-0.4 mm). Lertwongpaisan: limited change -0.85+/-0.23 mm, significant baseline-to-6mo, most reduction immediately post-extraction/first month (-0.79+/-0.23). Spinato: no difference graft vs no graft. Cosyn: stable over 3 years.
+
+SECONDARY OUTCOMES:
+Mesial papilla SMD = 0.76 (95% CI 0.18-1.34, p=0.01) in FAVOR of test group (2 RCTs). Heterogeneity low (I2=0%).
+Distal papilla SMD = 0.40 (95% CI -0.16 to 0.96, p=0.16), NO difference (2 RCTs, I2=0%).
+PES: papilla scores 1.44-1.85 across studies (1=incomplete, 2=complete), generally stable. Perez: no significant difference in papilla index. PES assessed in 5 studies, high scores; Chokaree, Perez, Chan, Felice reported no difference test vs control; Perez & Noelken baseline vs post-op no significant difference.
+Mucosa thickness: only Chu 2015 — sites with both bone graft + provisional showed greater soft tissue thickness than other sites.
+Buccal horizontal alteration: Chokaree minimal changes both groups; Lertwongpaisan gingival contour shrinkage 0.70+/-0.16 mm buccally at 6 mo with customized titanium HA.
+KMW: only one study assessed; limited changes, no significant difference customized vs standard abutment (small diameter variation, anterior maxilla).
+MBL: SMD = 0.14 (95% CI -0.32 to 0.59, p=0.55), NO difference (3 RCTs). Heterogeneity low (I2=10%). 7 studies assessed MBL. Perez: test group limited 0.3+/-0.6 mm at 12 mo, no difference. Spinato: grafted 0.94+/-0.51 vs non-grafted 0.90+/-0.49 mm, no difference. Noelken stable; Chan no significant interaction.
+BBT: only one study; no significant difference IIP with vs without immediate provisionalization.
+Implant survival: 92-100% over 4-58 months; no significant differences between control and experimental when reported.
+
+DISCUSSION
+12 studies; discussion text states 4 RCTs. Xenograft trend (slowly resorbable, preserve socket contour, less bone content). Most studies selected patients with intact buccal bone + ideal soft tissue; degraded initial situation needs more study. Thick phenotype gives better aesthetic outcomes (mid-facial recession, papilla). All flapless. One study with complete buccal bone loss, flapless, no major complication.
+Midfacial mucosa: minimal and acceptable recession at 6-12 mo. Chan no difference with/without provisionalization. Perez less recession with standard abutments (sealing socket around smaller abutment may arithmetically yield higher gingival level). Findings align with prior meta-analysis that immediate provisionalization may support midfacial soft tissue stability.
+Papilla: protocol appears to maintain or improve papillary outcomes vs primary flap closure; provisional restorations replicating natural contour support papilla height.
+KMW: flapless surgery, avoiding coronally advanced flap may help maintain mucogingival junction. Emergence profile / prosthetic contour critical: convex/over-contoured may cause recession; concave promotes thickening.
+MBL: could not be prevented but no significant disadvantage vs controls. Most studies anterior.
+Open healing of bone graft protected only by immediate provisional prosthesis WITHOUT barrier membrane does not seem to affect peri-implant mucosa outcome. More biological/histological analyses needed. Graft particles encapsulated into connective tissue in direct contact with collagen fibers, occasionally surrounded by multinucleated cells.
+Limitations: many studies excluded (hard tissue only; gingival graft protocols excluded to isolate bone graft effect on soft tissue). Only 12 studies, only 4 RCTs. Cohort/case series predominance limits causal inference. Meta-analysis not possible for every outcome (lack of data, variable follow-up, heterogeneous methods). Combined analysis of anterior + posterior sites. Need high-quality RCTs and biological mechanism studies.
+
+CONCLUSION
+Open healing approach + bone grafting during immediate implant placement with provisionalization is a viable strategy for maintaining midfacial mucosal architecture, with favorable stability of soft and hard tissues. In selected cases, minimally invasive technique offers satisfactory outcomes preserving peri-implant soft/bone volume and minimizing additional surgery.
