@@ -1,0 +1,84 @@
+Title: Effect of immediate provisionalization using natural crowns with fiber splints on gingival contour and esthetic outcomes after immediate implant placement: a randomized clinical trial
+Authors: Wu Y, Wang H, Lin X, Zhou H, Tai Z, Deng X, Li L, Jiang L
+Journal: BMC Oral Health 26(1)
+DOI: 10.1186/s12903-026-08156-2
+PMID: 41877071
+PMCID: PMC13134079
+Trial registration: Chinese Clinical Trial Registry ChiCTR2300068934 (registered 2023-03-01)
+
+== ABSTRACT ==
+Background: Immediate implant placement (IIP) requires sufficient primary stability to permit implant-supported immediate provisionalization, which supports peri-implant soft tissue contour during healing, particularly in the anterior esthetic zone. This exploratory study aimed to evaluate the effect of using natural crowns combined with fiber-reinforced composite (FRC) splints on gingival contour and esthetic outcomes following IIP in the esthetic zone dental trauma over a 4-5-month follow-up period.
+Methods: 20 participants who underwent IIP in the anterior maxilla were enrolled. Randomly allocated to an experimental group receiving immediate restoration using natural crowns combined with FRC splints and a control group receiving delayed restoration. Postoperative pain and swelling assessed using VAS. At 4-5 months, gingival esthetics evaluated using pink esthetic score (PES); changes in gingival height (mesial papilla, distal papilla, mid-labial gingival margin) measured using intraoral optical scans. Implant success rates recorded.
+Results: Implant placement success rates 100% in both groups. Postoperative pain and swelling scores significantly lower in experimental group than control (p<0.05). Experimental group demonstrated significantly higher PES values than control (z=2.799, p=0.005). No significant intergroup differences in gingival height changes at mesial papilla, distal papilla, or mid-labial gingival margin.
+Conclusions: Immediate provisionalization using natural crowns with FRC splints may reduce postoperative discomfort and improve overall esthetic outcomes while maintaining comparable gingival height stability during early healing.
+
+== FULL TEXT ==
+
+Background
+
+Complex and severe dental traumas represent a leading cause of tooth extraction in the anterior esthetic zone. Preserving the natural gingival contour in this esthetically critical region after extraction of traumatized maxillary anterior teeth remains clinically challenging. Due to favorable esthetic and functional outcomes, immediate implant placement (IIP) with immediate restoration has been widely advocated for the replacement of anterior teeth.
+
+However, immediate restoration following IIP requires strict case selection to ensure high implant survival rates. The conventional protocol involves immediate loading of the implant with a temporary abutment and crown. This approach necessitates sufficient primary stability to ensure predictable osseointegration. In certain situations, especially in the esthetic zone, achieving adequate primary stability for IIP may be challenging because only the apical part of the implant can be embedded in the bone and the stabilization relies on the apical and palatal bone of the extraction socket. In addition, patients receiving immediate loading must strictly adhere to postoperative instructions to minimize functional overload and reduce the risk of early implant failure. Consequently, when primary stability is insufficient, immediate implant-supported provisionalization is contraindicated, and delayed loading is generally recommended to allow undisturbed osseointegration.
+
+Conventional non-implant-supported approaches, such as removable partial dentures or Essix retainers, avoid direct functional loading of the implant but may exert undesirable pressure on peri-implant soft tissues and interfere with mastication or phonetics. Moreover, similar to delayed restoration, these approaches may fail to provide adequate coronal support for peri-implant soft tissues during healing, potentially leading to papilla height reduction and flattening of the labial gingival margin, thereby compromising esthetic outcomes.
+
+Therefore, a safe and reliable immediate restoration strategy is needed to preserve natural gingival contour during the osseointegration period, particularly in cases with insufficient primary stability in the esthetic zone. Fiber-reinforced composite (FRC) splints are recommended for the elastic fixation of traumatically loose teeth or avulsed teeth in the guidelines for dental trauma treatment. The feasibility of FRC splints for fixed partial dentures has been established. When combined with the patient's natural crown, FRC splints may provide a fixed, non-implant-supported provisional restoration that harmonizes with adjacent dentition, preserves pre-existing tooth morphology, enhances patient acceptance, and simultaneously protects underlying graft material and surgical site during early healing.
+
+This RCT aimed to evaluate the effect of immediate provisionalization using natural crowns with FRC splints on gingival contour stability and esthetic outcomes following IIP.
+
+Methods
+
+CONSORT 2025 guidelines. Declaration of Helsinki; approved by institutional ethics committee (SH9H-2022-T358-1; approval date January 18, 2023). Registered at Chinese Clinical Trial Registry (ChiCTR2300068934). Written informed consent obtained.
+
+Patients requiring implant restorations of traumatized maxillary anterior teeth recruited from Department of General Dentistry.
+Inclusion criteria: (1) age >= 18 years; (2) indication for extraction of traumatized maxillary anterior teeth; (3) Type I socket with intact labial bone wall; (4) preoperative labial bone thickness >= 0.5 mm; (5) presence of adjacent teeth mesiodistal to affected area; (6) mouth opening >= 30 mm; (7) stable occlusal relationships in adjacent dentition.
+Exclusion criteria: (1) insufficient space for implant placement and restoration; (2) untreated severe caries or uncontrolled periodontitis in adjacent teeth; (3) uncontrolled systemic diseases (e.g., diabetes or hypertension); (4) history of medication use or radiotherapy affecting bone metabolism; (5) heavy smoking (>10 cigarettes/day). Preoperative CBCT routinely performed.
+
+IIP surgical procedure: All implant surgeries by same experienced surgeon. Crevicular incision, minimally invasive tooth extraction under local anesthesia. Micro-crestal flap technique in both groups. Mesial and distal papillae incised medially, divided into labial and palatal portions. Full-thickness flap elevated to expose bone surface, extending <= 2 mm below alveolar crest. Integrity of alveolar ridge confirmed; absence of perforation in labial bone wall verified using periodontal probing. A 3.3-mm bone-level tapered implant (Straumann, Basel, Switzerland) placed along palatal wall with implant shoulder at alveolar crest. Bio-Oss Collagen (Geistlich) compacted into jumping gap.
+
+Randomization and allocation: Simple randomization in SPSS 21.0 using time-based seeds, allocation concealed in sealed opaque envelopes. Operator blinded to group assignment before tooth extraction. Odd numbers = experimental group, even = control. Experimental: immediate restoration using patient's natural crown + FRC splint following IIP. Control: primary soft-tissue closure without immediate restoration. Final prosthetic restoration completed in both groups after 4-5 months. No previous studies to support formal sample size calculation; designed as exploratory investigation. 10 patients per group. PES and papilla height independently evaluated by two calibrated, blinded examiners.
+
+Immediate restoration procedure: After extraction, root portion removed and natural crown preserved. Pulp tissue or root canal filling material within pulp chamber removed; chamber sealed with light-cured flowable composite resin after cleaning/disinfection. Subgingival portion of crown adjusted to morphology/size of extraction socket. Crown trimmed and polished to smooth ovoid surface completely covering surgical site, extending ~1-2 mm below gingival margin. Vertical clearance ~1-2 mm maintained between subgingival crown portion and implant to avoid contact. For splint fixation, middle third of labial surfaces of natural crown and adjacent teeth etched with phosphoric acid, rinsed, air-dried. Light-cured bonding agent applied, air-thinned, polymerized 20 s. Flowable composite resin applied; FRC splint (RTD, Saint-Egreve, France) positioned along labial surfaces of crown and adjacent teeth. Fiber strip adapted with gentle pressure at interproximal areas, stabilized by segmental light curing ~5 s per tooth. Additional flowable composite covering fiber splint, complete polymerization 20 s. Excess trimmed, finished, polished. Occlusion carefully evaluated; provisional crown adjusted free of contact with opposing dentition during centric, lateral, protrusive movements. Labial placement of splint selected to minimize occlusal interference and reduce risk of unintended loading of implant.
+
+PES evaluation: Pink esthetic score used before surgery and upon completion of final restoration. Per Belser et al., five parameters: mesial papilla, distal papilla, curvature of facial mucosa, level of facial mucosa, root convexity/soft-tissue color and texture. Each scored 0-2, total 0-10, higher = better.
+
+Gingival papilla height: Intraoral optical scans before surgery and at final restoration. Digital models imported into 3Shape Unite. Crown margin length used as reference scale; ImageJ "Set Scale" used to convert pixel distances to actual measurements. Gingival papilla height measured relative to stable anatomical landmarks (adjacent tooth cusp tips or proximal contact points).
+
+Postoperative pain/swelling: VAS 0 (none) to 10 (severe).
+
+Statistics: SPSS 21.0. Continuous variables as mean +- SD. Kolmogorov-Smirnov for distribution, Levene's for homogeneity of variance. Intergroup: independent-samples t-test if parametric assumptions met, otherwise Mann-Whitney U. Within-group paired: Wilcoxon signed-rank. Two-sided p<0.05 significant.
+
+Results
+
+From March 2023 to October 2023, 21 participants screened, 20 enrolled (10 per group). Average age 35.6 years (range 23-53), 7 male and 13 female. 20 implants placed, all anterior maxilla. Mean preoperative labial bone thickness by CBCT: experimental 1.02 +- 0.29 mm, control 0.9 +- 0.19 mm, no significant difference (t=1.140, p=0.269). Implant placement success rates 100% in both groups.
+
+PES: Experimental group remained stable from baseline (9.2 +- 1.1) to final restoration (9.0 +- 0.9; z=0.431, p=0.666). Control group significant decrease from 9.3 +- 1.3 to 6.3 +- 1.6 (z=2.842, p=0.004). Baseline PES comparable between groups (z=0.214, p=0.853). At final restoration, experimental group significantly higher PES than control (z=2.799, p=0.005).
+
+Gingival height changes (no significant intergroup differences):
+- Mesial papilla: experimental 0.78 +- 0.62 mm vs control 1.05 +- 0.76 mm (t=0.882, p=0.389)
+- Distal papilla: experimental 0.87 +- 0.59 mm vs control 1.20 +- 0.59 mm (t=1.225, p=0.236)
+- Mid-labial gingival margin: experimental 0.82 +- 0.53 mm vs control 0.35 +- 0.52 mm (t=1.990, p=0.062)
+
+Postoperative pain/swelling: Peaked day 1, decreased over time both groups. Experimental significantly lower VAS on postoperative day 2 for pain (t=-2.720, p=0.014) and swelling (t=-2.648, p=0.016), and day 3 for pain (t=-2.341, p=0.035) and swelling (t=-2.228, p=0.039). Day 7 pain also significantly lower (Mann-Whitney U=-1.968, p=0.049).
+
+VAS table (Experimental vs Control, mean +- SD):
+Day 1 pain: 5.1 +- 3.2 vs 6.6 +- 2.3 (p=0.250); swelling 4.5 +- 3.5 vs 6.0 +- 1.9 (p=0.256)
+Day 2 pain: 2.0 +- 2.0 vs 5.1 +- 3.0 (p=0.014); swelling 2.7 +- 2.2 vs 5.1 +- 3.0 (p=0.016)
+Day 3 pain: 1.1 +- 1.7 vs 3.7 +- 3.1 (p=0.035); swelling 1.9 +- 2.0 vs 4.4 +- 3.0 (p=0.039)
+Day 4 pain: 0.6 +- 1.0 vs 2.3 +- 2.5 (p=0.068); swelling 1.2 +- 1.8 vs 2.2 +- 2.0 (p=0.248)
+Day 5 pain: 0.3 +- 0.5 vs 1.6 +- 2.1 (p=0.170); swelling 0.9 +- 1.8 vs 1.6 +- 1.6 (p=0.291)
+Day 6 pain: 0.2 +- 0.4 vs 1.1 +- 1.4 (p=0.109); swelling 0.5 +- 0.8 vs 0.8 +- 0.9 (p=0.412)
+Day 7 pain: 0.1 +- 0.3 vs 0.8 +- 1.0 (p=0.049); swelling 0.3 +- 0.7 vs 0.5 +- 0.7 (p=0.399)
+
+Discussion (key points)
+
+Primary objective: evaluate whether non-implant-supported provisional restoration maintains peri-implant gingival contour and esthetic outcomes during osseointegration.
+Lower discomfort days 2-3 in experimental group: related to use of natural crown to cover extraction socket, protecting surgical site without flap advancement or tension-releasing sutures, reducing surgical trauma and operative time.
+PES stable in experimental vs significant reduction in control: higher PES suggests better preservation of peri-implant soft-tissue contour. PES provides multidimensional assessment of gingival morphology, especially fullness of gingival papilla (affected by vertical papillary height AND horizontal width). Natural crown allows customization of crown emergence profile, contact point position, interdental contour during healing, helping compensate for reduced papillary height and promote interdental papilla fill.
+Unlike conventional immediate loading, provisional NOT supported by implant but stabilized via FRC splint to adjacent teeth — avoids requirement for high primary implant stability. Provides provisional option where immediate implant loading not feasible.
+Vs Essix retainers/RPDs: better support for peri-implant soft tissues, avoids transient edentulous phase. Vs Maryland bridge (prefabricated, bonded to lingual surfaces): unsuitable for tight occlusion, narrows eligible population, requires advance lab prep. Present technique = chair-side, FRC splint fixing natural crown to labial surfaces, no occlusal interference; natural crown gives optimal match of morphology, color, emergence profile.
+Digital intraoral scans: precision up to 15 um, sometimes exceeding traditional impressions. Matching pre/post scans at identical positions avoided photographic angle and probe inclination errors.
+
+Limitations: Small sample size and exploratory nature limit statistical power and generalizability. Larger studies with longer follow-up needed. Radiographic bone changes and 3D soft-tissue volumetric assessments not included. Micro-crestal flap technique used in both groups may have influenced peri-implant soft-tissue outcomes.
+
+Conclusions: Within limitations of this exploratory study, immediate provisionalization using natural crowns combined with FRC splints following IIP may help maintain peri-implant gingival esthetics and reduce early postoperative discomfort while avoiding transient edentulous phase. Further studies with larger samples, longer follow-up, and comprehensive radiographic/3D soft-tissue assessments required.
