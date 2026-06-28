@@ -1,0 +1,1167 @@
+<!--
+---
+title: "플라크 관리 강의 자료"
+type: interactive
+date: 2026-06-28
+status: done
+source_wiki:
+  - wiki/periodontics
+agenda: agenda/2026-06-28_plaque-management-lecture.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>플라그 관리 — 바이오필름 기전부터 임상 전략까지</title>
+<style>
+  :root {
+    --bg: #f6f8fa;
+    --surface: #ffffff;
+    --surface2: #eaeef2;
+    --border: #d0d7de;
+    --text: #1f2328;
+    --text-muted: #656d76;
+    --accent: #0969da;
+    --accent2: #1a7f37;
+    --accent3: #bc4c00;
+    --accent4: #cf222e;
+    --accent5: #8250df;
+    --yellow: #9a6700;
+    --teal: #1a7f37;
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, 'Noto Sans KR', 'Apple SD Gothic Neo', sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    height: 100vh;
+    overflow: hidden;
+    user-select: none;
+  }
+  #deck {
+    width: 100vw; height: 100vh;
+    position: relative;
+  }
+  .slide {
+    position: absolute;
+    inset: 0;
+    display: none;
+    flex-direction: column;
+    padding: 52px 72px 48px;
+    opacity: 0;
+    transition: opacity 0.3s ease;
+  }
+  .slide.active {
+    display: flex;
+    opacity: 1;
+  }
+
+  /* ── Typography ── */
+  .slide-num {
+    position: absolute; top: 20px; right: 32px;
+    font-size: 12px; color: var(--text-muted); letter-spacing: 0.1em;
+  }
+  .tag {
+    display: inline-block;
+    font-size: 11px; font-weight: 600; letter-spacing: 0.08em;
+    padding: 3px 10px; border-radius: 20px;
+    margin-bottom: 18px;
+    text-transform: uppercase;
+  }
+  .tag.blue { background: rgba(88,166,255,0.15); color: var(--accent); border: 1px solid rgba(88,166,255,0.3); }
+  .tag.green { background: rgba(63,185,80,0.15); color: var(--accent2); border: 1px solid rgba(63,185,80,0.3); }
+  .tag.orange { background: rgba(240,136,62,0.15); color: var(--accent3); border: 1px solid rgba(240,136,62,0.3); }
+  .tag.purple { background: rgba(163,113,247,0.15); color: var(--accent5); border: 1px solid rgba(163,113,247,0.3); }
+  .tag.red { background: rgba(218,54,51,0.15); color: var(--accent4); border: 1px solid rgba(218,54,51,0.3); }
+  .tag.teal { background: rgba(57,211,83,0.15); color: var(--teal); border: 1px solid rgba(57,211,83,0.3); }
+
+  h1.main {
+    font-size: 52px; font-weight: 700; line-height: 1.15;
+    letter-spacing: -0.02em;
+    background: linear-gradient(135deg, #1f2328 30%, #0969da 100%);
+    -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+  }
+  h2.section {
+    font-size: 36px; font-weight: 700; line-height: 1.2;
+    margin-bottom: 28px; letter-spacing: -0.01em;
+  }
+  h3.sub { font-size: 20px; font-weight: 600; color: var(--accent); margin-bottom: 10px; }
+  p.lead {
+    font-size: 21px; color: var(--text-muted); line-height: 1.6;
+    max-width: 800px; margin-top: 18px;
+  }
+  p.body { font-size: 16px; line-height: 1.7; color: #444c56; }
+  .ref { font-size: 11px; color: var(--text-muted); margin-top: 4px; font-style: italic; }
+
+  /* ── Layout helpers ── */
+  .cols { display: flex; gap: 28px; flex: 1; }
+  .col { flex: 1; display: flex; flex-direction: column; }
+  .col-2 { flex: 2; }
+  .spacer { flex: 1; }
+  .gap { margin-top: 20px; }
+  .gap-sm { margin-top: 12px; }
+
+  /* ── Cards ── */
+  .card {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px 20px;
+    margin-bottom: 14px;
+  }
+  .card.accent-blue { border-left: 3px solid var(--accent); }
+  .card.accent-green { border-left: 3px solid var(--accent2); }
+  .card.accent-orange { border-left: 3px solid var(--accent3); }
+  .card.accent-purple { border-left: 3px solid var(--accent5); }
+  .card.accent-red { border-left: 3px solid var(--accent4); }
+  .card.accent-yellow { border-left: 3px solid var(--yellow); }
+
+  .card-title { font-size: 13px; font-weight: 700; color: var(--text-muted); letter-spacing: 0.06em; text-transform: uppercase; margin-bottom: 8px; }
+  .card-body { font-size: 15px; line-height: 1.6; }
+  .card-body strong { color: var(--text); }
+
+  /* ── Tables ── */
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th { background: var(--surface2); color: var(--text-muted); padding: 10px 14px; text-align: left; font-size: 12px; text-transform: uppercase; letter-spacing: 0.06em; border-bottom: 1px solid var(--border); }
+  td { padding: 10px 14px; border-bottom: 1px solid rgba(48,54,61,0.6); line-height: 1.5; }
+  tr:last-child td { border-bottom: none; }
+  tr:hover td { background: rgba(255,255,255,0.02); }
+  .badge { display: inline-block; padding: 2px 8px; border-radius: 12px; font-size: 11px; font-weight: 600; }
+  .badge.b { background: rgba(88,166,255,0.2); color: var(--accent); }
+  .badge.g { background: rgba(63,185,80,0.2); color: var(--accent2); }
+  .badge.o { background: rgba(240,136,62,0.2); color: var(--accent3); }
+  .badge.r { background: rgba(218,54,51,0.2); color: var(--accent4); }
+  .badge.p { background: rgba(163,113,247,0.2); color: var(--accent5); }
+
+  /* ── Highlight boxes ── */
+  .highlight {
+    background: rgba(88,166,255,0.08);
+    border: 1px solid rgba(88,166,255,0.2);
+    border-radius: 8px;
+    padding: 14px 18px;
+    font-size: 15px; line-height: 1.6;
+    margin-bottom: 14px;
+  }
+  .highlight.green {
+    background: rgba(63,185,80,0.08);
+    border-color: rgba(63,185,80,0.2);
+  }
+  .highlight.orange {
+    background: rgba(240,136,62,0.08);
+    border-color: rgba(240,136,62,0.2);
+  }
+  .highlight.red {
+    background: rgba(218,54,51,0.08);
+    border-color: rgba(218,54,51,0.2);
+  }
+  .highlight.yellow {
+    background: rgba(210,153,34,0.1);
+    border-color: rgba(210,153,34,0.25);
+  }
+
+  /* ── List ── */
+  ul.bullets { list-style: none; }
+  ul.bullets li {
+    padding: 6px 0 6px 22px;
+    position: relative;
+    font-size: 15px; line-height: 1.6;
+  }
+  ul.bullets li::before {
+    content: '▸';
+    position: absolute; left: 0;
+    color: var(--accent); font-size: 12px; top: 9px;
+  }
+  ul.bullets.sm li { font-size: 14px; padding: 4px 0 4px 20px; }
+
+  /* ── Stat blocks ── */
+  .stat-grid { display: grid; grid-template-columns: repeat(3,1fr); gap: 16px; }
+  .stat-block {
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 18px;
+    text-align: center;
+  }
+  .stat-num { font-size: 36px; font-weight: 800; color: var(--accent); }
+  .stat-unit { font-size: 16px; font-weight: 600; }
+  .stat-label { font-size: 12px; color: var(--text-muted); margin-top: 6px; line-height: 1.4; }
+
+  /* ── Decision flow ── */
+  .flow { display: flex; flex-direction: column; gap: 0; }
+  .flow-step {
+    display: flex; align-items: flex-start; gap: 16px;
+    padding: 12px 16px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    margin-bottom: 8px;
+    font-size: 14px; line-height: 1.5;
+  }
+  .flow-icon {
+    width: 28px; height: 28px; border-radius: 50%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 13px; font-weight: 700; flex-shrink: 0; margin-top: 1px;
+  }
+  .flow-icon.num { background: rgba(88,166,255,0.2); color: var(--accent); }
+  .flow-icon.warn { background: rgba(218,54,51,0.2); color: var(--accent4); }
+  .flow-icon.ok { background: rgba(63,185,80,0.2); color: var(--accent2); }
+
+  /* ── Title slide specific ── */
+  .title-meta { margin-top: 36px; font-size: 14px; color: var(--text-muted); line-height: 2; }
+  .title-meta span { color: var(--accent); }
+
+  /* ── Navigation ── */
+  #nav {
+    position: fixed; bottom: 24px; left: 50%; transform: translateX(-50%);
+    display: flex; align-items: center; gap: 16px;
+    background: rgba(255,255,255,0.92);
+    border: 1px solid var(--border);
+    border-radius: 40px;
+    padding: 10px 20px;
+    backdrop-filter: blur(12px);
+    box-shadow: 0 2px 12px rgba(0,0,0,0.1);
+  }
+  #nav button {
+    background: none; border: none; cursor: pointer;
+    color: var(--text-muted); font-size: 18px; padding: 4px 8px;
+    border-radius: 6px; transition: all 0.15s;
+    line-height: 1;
+  }
+  #nav button:hover { background: var(--surface2); color: var(--text); }
+  #nav button:disabled { opacity: 0.25; cursor: default; }
+  #progress-text { font-size: 13px; color: var(--text-muted); min-width: 60px; text-align: center; }
+  #progress-bar {
+    width: 120px; height: 3px; background: var(--border); border-radius: 2px;
+  }
+  #progress-fill {
+    height: 100%; background: var(--accent); border-radius: 2px;
+    transition: width 0.3s ease;
+  }
+
+  /* ── Divider ── */
+  hr.div { border: none; border-top: 1px solid var(--border); margin: 16px 0; }
+
+  /* ── Microbial complex visual ── */
+  .complex-grid { display: flex; gap: 10px; flex-wrap: wrap; }
+  .complex-pill {
+    padding: 8px 16px; border-radius: 20px;
+    font-size: 13px; font-weight: 600;
+    border: 1px solid;
+  }
+  .cred { background: rgba(218,54,51,0.15); color: #ff7b72; border-color: rgba(218,54,51,0.4); }
+  .corange { background: rgba(240,136,62,0.15); color: #ffa657; border-color: rgba(240,136,62,0.4); }
+  .cyellow { background: rgba(210,153,34,0.15); color: #e3b341; border-color: rgba(210,153,34,0.4); }
+  .cgreen { background: rgba(63,185,80,0.15); color: #56d364; border-color: rgba(63,185,80,0.4); }
+  .cpurple { background: rgba(163,113,247,0.15); color: #d2a8ff; border-color: rgba(163,113,247,0.4); }
+
+  /* ── Mini chart bars ── */
+  .bar-chart { display: flex; flex-direction: column; gap: 12px; }
+  .bar-row { display: flex; align-items: center; gap: 12px; }
+  .bar-label { font-size: 13px; width: 140px; flex-shrink: 0; }
+  .bar-track { flex: 1; height: 22px; background: var(--surface2); border-radius: 4px; overflow: hidden; }
+  .bar-fill { height: 100%; border-radius: 4px; display: flex; align-items: center; padding-left: 8px; font-size: 12px; font-weight: 700; transition: width 1s ease; }
+  .bar-val { font-size: 13px; font-weight: 600; width: 80px; text-align: right; }
+</style>
+</head>
+<body>
+<div id="deck">
+
+  <!-- ────────── SLIDE 1: TITLE ────────── -->
+  <div class="slide active" id="s1">
+    <div class="slide-num">1 / 15</div>
+    <div class="spacer"></div>
+    <div class="tag blue">학술 발표 · Dental Plaque Management</div>
+    <h1 class="main">플라그 관리<br>바이오필름 기전부터<br>임상 전략까지</h1>
+    <p class="lead">구강 미생물·바이오필름 매트릭스·dysbiosis 모델을 관통하는<br>근거 기반 플라그 제거 전략</p>
+    <div class="title-meta">
+      근거 출처 &nbsp;·&nbsp; <span>oral-microbiology 15편 / interdental-cleaning 18편 / periodontics 12편</span><br>
+      위키 기반 &nbsp;·&nbsp; <span>LLM-Wiki (llm-wiki/overviews)</span> &nbsp;·&nbsp; 2026-06-28
+    </div>
+    <div class="spacer"></div>
+  </div>
+
+  <!-- ────────── SLIDE 2: AGENDA ────────── -->
+  <div class="slide" id="s2">
+    <div class="slide-num">2 / 15</div>
+    <div class="tag blue">목차</div>
+    <h2 class="section">오늘 다룰 내용</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="card accent-blue">
+          <div class="card-title">Part 1 · 기전</div>
+          <ul class="bullets">
+            <li>바이오필름이란 무엇인가 — Costerton paradigm</li>
+            <li>EPS 매트릭스(Matrixome) 구성과 기능</li>
+            <li>구강 생태와 미생물 복합체 — Socransky red complex</li>
+          </ul>
+        </div>
+        <div class="card accent-purple">
+          <div class="card-title">Part 2 · 병인</div>
+          <ul class="bullets">
+            <li>치주염: PSD 모델 &amp; keystone pathogen</li>
+            <li>우식: sucrose-EPS feedforward loop</li>
+            <li>구강 미생물 — 전신 연관 (RA, CAD, OSCC)</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card accent-green">
+          <div class="card-title">Part 3 · 임상 제거 전략</div>
+          <ul class="bullets">
+            <li>기계적 제거의 근거 — 항생제 한계</li>
+            <li>자가 치간 청소: IDB vs 치실 vs 워터픽</li>
+            <li>순응도 > 효능 — 핵심 메시지</li>
+          </ul>
+        </div>
+        <div class="card accent-orange">
+          <div class="card-title">Part 4 · 전문가 관리</div>
+          <ul class="bullets">
+            <li>GBT·에어폴리싱 — 근거와 한계</li>
+            <li>에리스리톨(Erythritol) 분말 선택 근거</li>
+            <li>임플란트 주위 바이오필름 관리</li>
+          </ul>
+        </div>
+        <div class="card accent-red">
+          <div class="card-title">Part 5 · 임상 결정</div>
+          <ul class="bullets">
+            <li>합리적 개입점 3가지</li>
+            <li>환자별 도구 선택 결정 트리</li>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 3: BIOFILM WHAT ────────── -->
+  <div class="slide" id="s3">
+    <div class="slide-num">3 / 15</div>
+    <div class="tag blue">Part 1 · 기전</div>
+    <h2 class="section">바이오필름(Biofilm)이란 무엇인가</h2>
+    <div class="cols">
+      <div class="col col-2">
+        <div class="highlight">
+          <strong>"자기생산 고분자 매트릭스(EPS)에 둘러싸여 표면에 부착된 세균 세포의 구조화된 군집"</strong>
+          <div class="ref">— Costerton et al., Science 1999 [근거강함]</div>
+        </div>
+        <p class="body">치태(dental plaque)는 이 정의가 명시적으로 나열한 임상 사례다. 세균이 planktonic 상태에서 sessile 상태로 전환되면 <strong>표현형이 완전히 바뀐다</strong>.</p>
+        <div class="gap-sm"></div>
+        <div class="card accent-red">
+          <div class="card-title">항생제 내성의 핵심 기전 — Inherent Phenotypic Tolerance</div>
+          <ul class="bullets sm">
+            <li>EPS 매트릭스가 항생제 확산 장벽 역할</li>
+            <li>slow-growth subpopulation → 저대사로 항생제 회피</li>
+            <li>sessile 특이 표현형 — 항생제 MIC 10–1000배 상승</li>
+            <li>planktonic cell만 죽이고 군집은 살아남아 재발</li>
+          </ul>
+        </div>
+        <p class="body"><strong>임상 함의:</strong> 항생제는 shed cell 소독에 그치고, 기계적 biofilm 파괴 없이는 근본 해결이 안 된다.</p>
+      </div>
+      <div class="col">
+        <div class="stat-grid" style="grid-template-columns:1fr 1fr; gap:12px;">
+          <div class="stat-block">
+            <div class="stat-num">~700</div>
+            <div class="stat-label">구강 서식 세균 종<br><span style="color:var(--accent)">개인당 ~200종</span></div>
+          </div>
+          <div class="stat-block">
+            <div class="stat-num">~50</div>
+            <div class="stat-label">한 부위당<br>공존 종 수</div>
+          </div>
+          <div class="stat-block">
+            <div class="stat-num">80%</div>
+            <div class="stat-label">성숙 치태의<br>수분 함량</div>
+          </div>
+          <div class="stat-block">
+            <div class="stat-num">20%</div>
+            <div class="stat-label">EPS 탄수화물<br>(건조중량 기준)</div>
+          </div>
+        </div>
+        <div class="gap"></div>
+        <div class="highlight orange" style="font-size:14px;">
+          <strong>3단계 군집 형성</strong><br>
+          표면 EPS 생성 → 3D 팽창 → microcolony scaffold<br>
+          <em style="color:var(--text-muted)">— 모든 바이오필름 형성자에서 보존된 순서 (Karygianni 2020)</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 4: MATRIXOME ────────── -->
+  <div class="slide" id="s4">
+    <div class="slide-num">4 / 15</div>
+    <div class="tag blue">Part 1 · 기전</div>
+    <h2 class="section">EPS 매트릭스(Matrixome) — 바이오필름의 실질</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="card accent-blue">
+          <div class="card-title">탄수화물 (Carbohydrates)</div>
+          <ul class="bullets sm">
+            <li><strong>Glucan</strong> — GtfB/C/D 효소 합성, 우식 1차 virulence</li>
+            <li><strong>Fructan</strong> — 에너지 저장, sucrose 기질</li>
+            <li>건조중량의 <strong>~20%</strong> (supragingival)</li>
+            <li>표면 흡착 시 Gtf 활성 <strong>3–4배</strong> 상승</li>
+          </ul>
+          <div class="ref">Bowen 2011, Jakubovics 2021</div>
+        </div>
+        <div class="card accent-green">
+          <div class="card-title">단백질 (Proteins) ~40% 건조중량</div>
+          <ul class="bullets sm">
+            <li>Adhesin, Glucosyltransferase (Gtf)</li>
+            <li><strong>DNABII 단백질</strong> — 구조 지지 / 치료 표적</li>
+            <li>Poly-N-acetyl-D-glucosamine (A. actinomycetemcomitans)</li>
+          </ul>
+        </div>
+        <div class="card accent-purple">
+          <div class="card-title">eDNA / 지질 (Lipids)</div>
+          <ul class="bullets sm">
+            <li>eDNA — 구조 완결성 (DNase 처리 시 파괴)</li>
+            <li>Lipoteichoic acid — S. gordonii 바이오필름 구조 조절</li>
+            <li>P. gingivalis 캡슐 다당 — 식균 회피 + F. nucleatum 공응집</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <div class="highlight">
+          <strong>'Matrixome'</strong> — Karygianni 2020이 도입한 개념<br>
+          바이오필름 EPS 전체 목록 = 다당 + 단백 + eDNA + 지질 + biogenic minerals<br>
+          <span style="color:var(--text-muted); font-size:13px;">종마다 조성이 다르므로 표적 항바이오필름 전략도 달라야 한다</span>
+        </div>
+        <div class="gap-sm"></div>
+        <div class="highlight orange">
+          <strong>S. mutans Gtf — 종간 확산 기전</strong><br>
+          Gtf가 비-Gtf 생산 세균(A. viscosus, L. casei, <em>C. albicans</em>) 표면에 결합<br>
+          → 이들을 glucan 생산자로 전환 → 우식 바이오필름 조립 증폭<br>
+          <div class="ref">Karygianni 2020, Klein 2012</div>
+        </div>
+        <div class="gap-sm"></div>
+        <div class="highlight green">
+          <strong>국소 산성 미세환경</strong><br>
+          EPS 매트릭스가 확산 장벽 → 산성(pH 4.5–5.5) 유지 <strong>&gt;2시간</strong><br>
+          불소·중화제 침투 제한 → 법랑질 탈회 가속<br>
+          <div class="ref">Koo 2013</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 5: MICROBIAL COMPLEXES ────────── -->
+  <div class="slide" id="s5">
+    <div class="slide-num">5 / 15</div>
+    <div class="tag blue">Part 1 · 기전</div>
+    <h2 class="section">치은연하 미생물 군집 — Socransky 복합체(1998)</h2>
+    <div class="cols">
+      <div class="col col-2">
+        <p class="body" style="margin-bottom:16px;">185명, 13,261개 시료, 40종을 checkerboard DNA-DNA hybridization으로 분석 → <strong>5개 재현성 복합체</strong> 정의</p>
+        <table>
+          <tr><th>복합체</th><th>주요 세균</th><th>임상 연관</th></tr>
+          <tr>
+            <td><span class="badge r">Red</span></td>
+            <td><em>P. gingivalis, T. forsythia, T. denticola</em></td>
+            <td>치주낭깊이·BOP 최강 연관 <span style="color:var(--accent4)">▲</span></td>
+          </tr>
+          <tr>
+            <td><span class="badge o">Orange</span></td>
+            <td><em>F. nucleatum, P. intermedia, P. nigrescens</em></td>
+            <td>Red complex 선행 bridge 군집</td>
+          </tr>
+          <tr>
+            <td><span class="badge" style="background:rgba(210,153,34,0.2);color:#e3b341;">Yellow</span></td>
+            <td><em>S. sanguis, S. oralis, S. mitis, S. gordonii</em></td>
+            <td>초기 정착 (건강 연관)</td>
+          </tr>
+          <tr>
+            <td><span class="badge g">Green</span></td>
+            <td><em>Capnocytophaga spp., E. corrodens</em></td>
+            <td>초기 정착</td>
+          </tr>
+          <tr>
+            <td><span class="badge p">Purple</span></td>
+            <td><em>Veillonella parvula, A. odontolyticus</em></td>
+            <td>초기 정착</td>
+          </tr>
+        </table>
+        <div class="ref" style="margin-top:8px;">Socransky SS et al., J Clin Periodontol 1998 [cross-sectional, n=185, 13,261 samples]</div>
+      </div>
+      <div class="col">
+        <div class="highlight orange" style="margin-bottom:16px;">
+          <strong>생태 계승 (Ecological Succession)</strong><br>
+          Yellow/Purple/Green 초기 정착<br>
+          → Orange "bridge" 군집<br>
+          → Red complex 심부 병소<br>
+          <span style="font-size:13px;color:var(--text-muted)">단순 감염이 아닌 <strong>군집 전이</strong>로 이해해야 한다</span>
+        </div>
+        <div class="card accent-blue">
+          <div class="card-title">현대적 재해석 — PSD 모델로의 진화</div>
+          <p class="body" style="font-size:14px;">Socransky(1998): "어떤 종이 함께 존재하는가?"<br><br>
+          Hajishengallis(2012): "<strong>왜 P. gingivalis가 0.01%로도 군집 전체를 재편하는가?</strong>"<br><br>
+          동일한 red complex 세균이지만 해석 패러다임이 달라졌다.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 6: PSD MODEL ────────── -->
+  <div class="slide" id="s6">
+    <div class="slide-num">6 / 15</div>
+    <div class="tag purple">Part 2 · 병인 — 치주염</div>
+    <h2 class="section">PSD 모델 — Polymicrobial Synergy &amp; Dysbiosis</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="highlight" style="margin-bottom:16px;">
+          <strong>핵심 명제</strong><br>
+          치주염은 "특정 세균 감염"이 아니라<br>
+          <strong>군집 dysbiosis(생태 교란)</strong>의 결과다
+        </div>
+        <div class="card accent-red">
+          <div class="card-title">P. gingivalis — Keystone Pathogen</div>
+          <ul class="bullets sm">
+            <li>전체 미생물의 <strong>&lt;0.01%</strong>에 불과</li>
+            <li>공생 군집(symbiotic) → 병적 군집(dysbiotic) 전환</li>
+            <li>SerB로 CXCL8/IL-8 억제 → 중성구 지연 → 초기 정착</li>
+            <li>C5aR–TLR2 crosstalk → 중성구 killing 무력화</li>
+            <li>Gingipain으로 C3/C5 절단 → complement 교란</li>
+          </ul>
+          <div class="ref">Hajishengallis &amp; Lamont, Mol Oral Microbiol 2012</div>
+        </div>
+        <div class="card accent-purple">
+          <div class="card-title">Feedforward Loop (치주염)</div>
+          <p class="body" style="font-size:14px;">
+            Dysbiosis → 숙주 염증 ↑ → 염증 exudate가 영양 → Inflammophilic bacteria 증폭 → 더 심한 dysbiosis<br>
+            <strong>염증 자체가 dysbiotic 세균의 에너지원</strong>
+          </p>
+          <div class="ref">Lamont et al., Nat Rev Microbiol 2018</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card accent-blue">
+          <div class="card-title">공동체 의존성 (community-dependence)</div>
+          <ul class="bullets sm">
+            <li>P. gingivalis 단독 → 무균 마우스서 치주염 <strong>유발 불가</strong></li>
+            <li>정상 마우스에서만 dysbiosis 유도 → <strong>군집 필요</strong></li>
+            <li>C5aR-결핍 마우스 → P. gingivalis 정착·dysbiosis·치주염 모두 저항</li>
+          </ul>
+          <div class="ref">[근거강함] Hajishengallis 2012 (동물모델)</div>
+        </div>
+        <div class="gap-sm"></div>
+        <div class="highlight red">
+          <strong>임상 함의</strong><br>
+          "P. gingivalis만 박멸"하면 치주염이 낫는가? → <strong>No</strong><br>
+          표적: <strong>Dysbiosis 역전 + 숙주 염증 조절</strong><br>
+          SRP는 군집 생태를 기계적으로 재설정하는 1차 수단
+        </div>
+        <div class="gap-sm"></div>
+        <div class="stat-grid" style="grid-template-columns:1fr 1fr; gap:10px; margin-top:8px;">
+          <div class="stat-block">
+            <div class="stat-num" style="font-size:28px;">&lt;0.01%</div>
+            <div class="stat-label"><em>P. gingivalis</em> 존재비로 마우스 치조골 파괴 유도</div>
+          </div>
+          <div class="stat-block">
+            <div class="stat-num" style="font-size:28px;">~500</div>
+            <div class="stat-label">P. gingivalis의 군집 내 차등 발현 단백질 수</div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 7: CARIES DYSBIOSIS ────────── -->
+  <div class="slide" id="s7">
+    <div class="slide-num">7 / 15</div>
+    <div class="tag purple">Part 2 · 병인 — 우식</div>
+    <h2 class="section">우식 병인 — Sucrose-EPS Feedforward Loop</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="highlight yellow">
+          <strong>핵심: 기질이 Sucrose</strong><br>
+          EPS 매트릭스(glucan/fructan)의 합성 기질이 sucrose이므로<br>
+          항균제보다 <strong>sucrose 노출 빈도 감소</strong>가 생태학적으로 우선이다<br>
+          <div class="ref">[합의수준] Lamont 2018, Koo 2013</div>
+        </div>
+        <div class="gap-sm"></div>
+        <div class="card accent-orange">
+          <div class="card-title">Caries Feedforward Loop</div>
+          <div style="font-size:14px;line-height:1.8;margin-top:4px;">
+            <strong style="color:var(--accent3);">Sucrose 노출</strong><br>
+            ↓ GtfB/C/D 활성화<br>
+            ↓ EPS(glucan/fructan) 합성 → 3D scaffold<br>
+            ↓ 산성 미세환경(pH 4.5–5.5) 형성 &gt;2h<br>
+            ↓ Aciduric 세균(S. mutans, Lactobacillus) 선택적 증폭<br>
+            ↓ 법랑질 탈회<br>
+            ↓ <strong>더 많은 산 생성 → 더 심한 탈회</strong> (loop)
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card accent-blue">
+          <div class="card-title">혼합 종 환경의 증폭 효과 (Klein 2012)</div>
+          <ul class="bullets sm">
+            <li>혼합종에서 S. mutans glucan 합성 <strong>증폭</strong></li>
+            <li>내산성 단백(GtfB/C, AtpD, DldH) 발현 ↑</li>
+            <li>S. mutans proteome의 최대 <strong>60%</strong> 변화</li>
+            <li>단일종 배양과 완전히 다른 표현형</li>
+          </ul>
+          <div class="ref">[근거강함, in-vitro]</div>
+        </div>
+        <div class="gap-sm"></div>
+        <div class="card accent-purple">
+          <div class="card-title">C. albicans–S. mutans 종간 시너지</div>
+          <ul class="bullets sm">
+            <li>Gtf가 C. albicans 표면에 결합 → 진균을 glucan 생산자로 전환</li>
+            <li>In vivo 동물모델에서 우식 중증도 현저히 상승</li>
+            <li>5.5–7.5% 소아에서 C. albicans 구강 검출</li>
+          </ul>
+          <div class="ref">Lamont 2018, Karygianni 2020</div>
+        </div>
+        <div class="highlight green">
+          <strong>이미 EPS 매트릭스가 형성되면?</strong><br>
+          불소·중화제 확산 제한 → 일단 형성된 바이오필름은<br>
+          <strong>기계적 파괴 없이는 약물 단독으로 제거 불가</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 8: SYSTEMIC LINKS ────────── -->
+  <div class="slide" id="s8">
+    <div class="slide-num">8 / 15</div>
+    <div class="tag purple">Part 2 · 병인</div>
+    <h2 class="section">구강 미생물 — 전신 연관 (Association, Not Causation)</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="card accent-red">
+          <div class="card-title">류마티스 관절염 (Rheumatoid Arthritis)</div>
+          <ul class="bullets sm">
+            <li><em>P. gingivalis</em> PPAD(Peptidylarginine deiminase) → 숙주 단백 시트룰린화</li>
+            <li>시트룰린화 단백이 RA 자가항체(ACPA) 유발 가능성</li>
+            <li>치주염 환자에서 RA 혈청 유병률 높음</li>
+          </ul>
+          <div class="ref">[합의수준] Lamont 2018</div>
+        </div>
+        <div class="card accent-orange">
+          <div class="card-title">구강암 (OSCC) — F. nucleatum</div>
+          <ul class="bullets sm">
+            <li>Fn이 STAT3/cyclin D1/MMP-9 신호 → 세포 증식/침윤</li>
+            <li>역설: Fn <strong>양성 OSCC</strong>에서 오히려 <strong>양호한 예후</strong> 관찰</li>
+            <li>인과 관계 미확정 — 기전 연구 진행 중</li>
+          </ul>
+          <div class="ref">[claude해석] McIlvanna 2021</div>
+        </div>
+        <div class="card accent-purple">
+          <div class="card-title">심혈관질환 / 조산</div>
+          <ul class="bullets sm">
+            <li>구강 미생물 → 죽상동맥경화 플라크 검출 (연관)</li>
+            <li>P. gingivalis Notch1 → PLA2-IIA → dysbiosis 촉진</li>
+            <li>조산·저체중아 출산과 치주염 연관 (인과 미확정)</li>
+          </ul>
+          <div class="ref">[합의수준 / 미확정] Lamont 2018</div>
+        </div>
+      </div>
+      <div class="col">
+        <div class="highlight red" style="margin-bottom:20px;">
+          <strong>⚠ 임상 커뮤니케이션 원칙</strong><br>
+          "연관성 있음" ≠ "인과 확정"<br><br>
+          환자 설명: <strong>"치주 건강과 전신질환이 연관된다는 근거는 있습니다. 단, 치주 치료가 전신질환을 직접 예방한다는 인과 근거는 아직 충분하지 않습니다."</strong>
+        </div>
+        <div class="card accent-blue">
+          <div class="card-title">건강 vs 질환 구강 생태</div>
+          <table>
+            <tr><th></th><th>건강</th><th>질환</th></tr>
+            <tr><td>군집 특성</td><td>Generalist</td><td><strong>Specialist</strong></td></tr>
+            <tr><td>Virulence 유전자</td><td>기저 수준</td><td><strong>발현 ↑↑</strong></td></tr>
+            <tr><td>판별 지표</td><td colspan="2">종 목록보다 <strong>기능 유전자</strong>가 우수</td></tr>
+          </table>
+          <div class="ref">[합의수준] Lamont 2018, Sedghi 2021</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 9: MECHANICAL RATIONALE ────────── -->
+  <div class="slide" id="s9">
+    <div class="slide-num">9 / 15</div>
+    <div class="tag green">Part 3 · 임상 제거 전략</div>
+    <h2 class="section">기계적 제거가 왜 1차인가</h2>
+    <div class="cols">
+      <div class="col col-2">
+        <div class="highlight" style="margin-bottom:18px;">
+          <strong>항생제 단독으로 성숙 바이오필름을 무력화할 수 없다</strong><br>
+          → EPS 매트릭스가 확산 장벽 + slow-growth subpopulation + biofilm phenotype<br>
+          → 항생제 MIC 10–1,000배 상승 (Costerton 1999 [근거강함])
+        </div>
+        <div class="cols" style="gap:16px;">
+          <div class="col">
+            <div class="card accent-green">
+              <div class="card-title">기계적 제거의 역할</div>
+              <ul class="bullets sm">
+                <li>EPS 3D scaffold 물리적 파괴</li>
+                <li>Sessile → planktonic 전환 → 약물 감수성 회복</li>
+                <li>군집 생태 재설정 (ecological resetting)</li>
+                <li>Keystone pathogen 하중 감소 → dysbiosis 역전</li>
+              </ul>
+            </div>
+          </div>
+          <div class="col">
+            <div class="card accent-orange">
+              <div class="card-title">항생제의 올바른 역할</div>
+              <ul class="bullets sm">
+                <li>SRP 보조 — 기계적 제거 후 잔여 세균 소독</li>
+                <li>Deep pocket에서 adjunct로 제한적 사용</li>
+                <li>Shed planktonic cell 사멸에 효과적</li>
+                <li>단독 사용 → 재발 불가피</li>
+              </ul>
+            </div>
+          </div>
+        </div>
+        <div class="card accent-blue" style="margin-top:16px;">
+          <div class="card-title">자가 구강 위생의 한계 — 칫솔질만으로는 불충분</div>
+          <ul class="bullets sm">
+            <li>칫솔이 닿는 표면: 치면 전체의 약 <strong>60%</strong></li>
+            <li>치간부(interproximal)·치은연하(subgingival) → 칫솔 도달 불가</li>
+            <li>우식·치주염의 주 발생 부위가 바로 이 영역</li>
+            <li>→ 치간 보조 도구가 필수 (not optional)</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <h3 class="sub">합리적 개입점 3가지</h3>
+        <div class="flow">
+          <div class="flow-step">
+            <div class="flow-icon num">1</div>
+            <div>
+              <strong>Sucrose 차단</strong> (우식)<br>
+              <span style="font-size:13px;color:var(--text-muted)">EPS 기질 차단이 항균제보다 생태학적으로 1순위. 불소는 보조.</span>
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">2</div>
+            <div>
+              <strong>기계적 바이오필름 파괴</strong><br>
+              <span style="font-size:13px;color:var(--text-muted)">칫솔질 + 치간 보조도구(IDB·워터픽) + SRP. EPS 매트릭스는 물리적으로 깨야 한다.</span>
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">3</div>
+            <div>
+              <strong>Dysbiosis 역전</strong> (치주염)<br>
+              <span style="font-size:13px;color:var(--text-muted)">SRP로 군집 재설정 + 숙주 면역 조절(host modulation). 항생제는 SRP 보조로 한정.</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 10: INTERDENTAL DEVICES ────────── -->
+  <div class="slide" id="s10">
+    <div class="slide-num">10 / 15</div>
+    <div class="tag green">Part 3 · 치간 청소</div>
+    <h2 class="section">치간 청소 도구 — 근거 비교</h2>
+    <table style="font-size:13.5px;">
+      <tr>
+        <th>도구</th>
+        <th>핵심 근거</th>
+        <th>강점</th>
+        <th>한계 / 주의</th>
+        <th>권장 대상</th>
+      </tr>
+      <tr>
+        <td><strong>치간칫솔 (IDB)</strong></td>
+        <td>Carrouel 2026 RCT, n=323<br>BOP 56%→12%, OR 3.14</td>
+        <td style="color:var(--accent2);">단일 도구 중 최강 근거</td>
+        <td>공간 충분할 때만 적용</td>
+        <td><span class="badge g">1순위</span> 열린 치간공간</td>
+      </tr>
+      <tr>
+        <td><strong>실리콘 치간픽</strong></td>
+        <td>Yilmaz 2025 RCT, n=54, 24주<br>사용 12.6주 vs 치실 5.0주 (p=0.003)</td>
+        <td style="color:var(--accent);">순응도 가장 높음</td>
+        <td>임상 효능 데이터 상대적 부족</td>
+        <td><span class="badge b">대안</span> IDB 대비 편의성 우선</td>
+      </tr>
+      <tr>
+        <td><strong>치실 (DF)</strong></td>
+        <td>Jung 2025 (n=37): 술식 향상↑ 치태 제거 NS<br>Thomassen 2025: 에어플로스와 동등</td>
+        <td>좁은 접촉 유일 옵션</td>
+        <td style="color:var(--accent4);">올바른 술식도 효능 미보장<br>순응도 낮음</td>
+        <td><span class="badge p">한정</span> IDB 안 들어가는 좁은 접촉</td>
+      </tr>
+      <tr>
+        <td><strong>워터픽 (WF)</strong></td>
+        <td>Badahdah 2025 SR+MA, 18 RCT, n≈1005<br>출혈↓(중등도 근거), 치태: 차이 없음</td>
+        <td>출혈·치은염 개선<br>교정·임플란트 편의</td>
+        <td style="color:var(--accent3);">플라크 제거는 치실과 동등<br>저수조 레지오넬라 위험</td>
+        <td><span class="badge o">맥락</span> 손재주↓, 교정, 치주 유지</td>
+      </tr>
+      <tr>
+        <td><strong>나무 이쑤시개</strong></td>
+        <td>El Haddad 2026 (n=69)<br>습관적 수직 사용→치간유두 소실</td>
+        <td style="color:var(--text-muted);">없음</td>
+        <td style="color:var(--accent4);">Black triangle 유발</td>
+        <td><span class="badge r">회피</span></td>
+      </tr>
+    </table>
+    <div class="highlight" style="margin-top:18px; font-size:15px;">
+      <strong>핵심 메시지:</strong> 단일 보편 우승 도구는 없다. 가장 큰 결정 변수는 <strong>순응도(adherence)</strong> — 환자가 매일 실제로 쓰는 도구가 최선이다.
+      <div class="ref">Yilmaz 2025 직접 근거: 규칙적 사용 주수 ∝ 치태·출혈 감소 (양쪽 군 모두)</div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 11: WATER FLOSSER DETAIL ────────── -->
+  <div class="slide" id="s11">
+    <div class="slide-num">11 / 15</div>
+    <div class="tag green">Part 3 · 치간 청소</div>
+    <h2 class="section">워터픽(Water Flosser) — 출혈에는 강하고, 치태엔 동등</h2>
+    <div class="cols">
+      <div class="col col-2">
+        <div class="highlight" style="margin-bottom:16px;">
+          <strong>가장 넓은 근거 지도 — Badahdah 2025 SR+MA (18 RCT, n≈1005)</strong><br>
+          출혈지수(BI): <span style="color:var(--accent2);">약간 개선 [중등도 근거]</span> &nbsp;|&nbsp; 치은지수(GI): 약간 개선<br>
+          치면세균막(PI): <span style="color:var(--accent3);">치실과 동등 — 일관된 우위 없음</span>
+        </div>
+        <div class="bar-chart">
+          <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;">WF vs 칫솔 단독 이득 (vs 치실 대비)가 더 큰 영역</div>
+          <div class="bar-row">
+            <div class="bar-label">출혈 개선 (일반)</div>
+            <div class="bar-track"><div class="bar-fill" style="width:75%;background:var(--accent2);">+</div></div>
+            <div class="bar-val" style="color:var(--accent2);">중등도 ✓</div>
+          </div>
+          <div class="bar-row">
+            <div class="bar-label">치은 개선</div>
+            <div class="bar-track"><div class="bar-fill" style="width:60%;background:var(--accent);">+</div></div>
+            <div class="bar-val" style="color:var(--accent);">낮음</div>
+          </div>
+          <div class="bar-row">
+            <div class="bar-label">교정 환자 이득</div>
+            <div class="bar-track"><div class="bar-fill" style="width:80%;background:var(--accent5);">+</div></div>
+            <div class="bar-val" style="color:var(--accent5);">↑ 더 뚜렷</div>
+          </div>
+          <div class="bar-row">
+            <div class="bar-label">치면세균막 (치실 대비)</div>
+            <div class="bar-track"><div class="bar-fill" style="width:38%;background:var(--text-muted);">≒</div></div>
+            <div class="bar-val" style="color:var(--text-muted);">동등</div>
+          </div>
+        </div>
+        <div class="gap-sm"></div>
+        <div class="card accent-green">
+          <div class="card-title">기전: 미생물군 조절 (Kim 2023, RCT n=29)</div>
+          <ul class="bullets sm">
+            <li>BOP 감소 + 대조군의 <em>Prevotella</em> +114% 상승 차단</li>
+            <li>Pioneer 공생 연쇄상구균 ↑</li>
+            <li>물리적 세균막 제거보다 <strong>생태 재조정</strong>이 주 기전</li>
+          </ul>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card accent-blue">
+          <div class="card-title">사용해야 할 때</div>
+          <ul class="bullets sm">
+            <li>손재주 제약 환자</li>
+            <li>교정 장치 (bracket/wire)</li>
+            <li>치주염 NSPT 보조 (Liu 2025 RCT)</li>
+            <li>임플란트 보철 인접면</li>
+            <li>치실 거부 환자</li>
+          </ul>
+        </div>
+        <div class="card accent-orange">
+          <div class="card-title">효과 제한적인 상황</div>
+          <ul class="bullets sm">
+            <li>고정식 교정 장치 단독 부가 → Tyler 2023 NS</li>
+            <li>임플란트 주위 — 칫솔 단독 대비 NS (Bishti 2025)</li>
+          </ul>
+        </div>
+        <div class="highlight red">
+          <strong>⚠ 저수조 안전 주의 (Slekovec 2026)</strong><br>
+          비멸균 수돗물 → 저수조 <em>Legionella pneumophila</em> 생물막(300 CFU/L)<br>
+          → 면역저하 환자(골수종·자가조혈모세포이식) 레지오넬라병 사망 위험<br>
+          전장유전체 동일 균주 (ST42) 확인<br><br>
+          <strong>교육: 정기 세척·소독, 물 고이지 않게, 면역저하자 주의</strong>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 12: GBT / AIR POLISHING ────────── -->
+  <div class="slide" id="s12">
+    <div class="slide-num">12 / 15</div>
+    <div class="tag orange">Part 4 · 전문가 관리</div>
+    <h2 class="section">GBT·에어폴리싱 — 편안함 ✓ 임상 우월성 ✗</h2>
+    <div class="cols">
+      <div class="col col-2">
+        <div class="highlight orange" style="margin-bottom:16px;">
+          <strong>Bottom line (Yein 2026 SR, 5 RCT, n=231, GRADE 매우 낮음)</strong><br>
+          GBT·에어폴리싱은 <strong>환자 편안함·시술 시간·치질 보존</strong>에서 이득이 있으나<br>
+          PPD·CAL·BoP 등 <strong>단단한 임상지표에서는 SRP와 동등</strong> — 우월 근거 없음
+        </div>
+        <table>
+          <tr><th>지표</th><th>GBT</th><th>SRP</th><th>판정</th></tr>
+          <tr><td>PPD 개선</td><td>동등</td><td>동등</td><td><span class="badge b">동등</span></td></tr>
+          <tr><td>CAL</td><td>동등</td><td>동등</td><td><span class="badge b">동등</span></td></tr>
+          <tr><td>BoP</td><td>동등</td><td>동등</td><td><span class="badge b">동등</span></td></tr>
+          <tr><td>GI·PI·IL-1β↓</td><td><strong style="color:var(--accent2);">유의 더 감소</strong></td><td>덜</td><td><span class="badge g">GBT 우세</span></td></tr>
+          <tr><td>치질 마모 (stroke당)</td><td><strong style="color:var(--accent2);">최소</strong></td><td>큐렛 최대</td><td><span class="badge g">GBT 우세</span></td></tr>
+          <tr><td>시술 시간</td><td>30.3 min/사분악</td><td>34.6 min</td><td><span class="badge g">GBT 단축</span></td></tr>
+          <tr><td>환자 통증·만족</td><td><strong style="color:var(--accent2);">우수</strong></td><td>보통</td><td><span class="badge g">GBT 우세</span></td></tr>
+        </table>
+        <div class="ref" style="margin-top:8px;">Yein 2026 SR, Cyris 2024 (split-mouth n=60), Stähli 2024 (RCT 1yr), Dönertaş 2026 (RCT n=80)</div>
+      </div>
+      <div class="col">
+        <div class="card accent-green">
+          <div class="card-title">분말 선택 — 에리스리톨(14 µm) 우선</div>
+          <ul class="bullets sm">
+            <li>탄산수소나트륨(40 µm)과 바이오필름 제거력 동등 (Pujarern 2024)</li>
+            <li>표면 손상 현저히 적음 → 치근·임플란트면 선호</li>
+            <li>SRP+EDTA보다 smear layer 제거 효과적 (Ifrim 2026 SEM)</li>
+          </ul>
+        </div>
+        <div class="card accent-orange">
+          <div class="card-title">⚠ Dwell time 주의</div>
+          <p class="body" style="font-size:14px;">저연마 분말도 <strong>초당 물질 손실은 에어폴리싱이 최대</strong> (평균 8.65 µm/s)<br>한 부위에 오래 머무르면 손상 → 지속 이동 필수</p>
+          <div class="ref">Dvorská 2026 in-vitro SR</div>
+        </div>
+        <div class="highlight red">
+          <strong>⚠ 피하기종(SFE) — 안전 경고</strong><br>
+          글리신 치은연하 에어폴리싱 후 안면 피하기종 → 3일 입원<br>
+          5 mm 치주낭, 출혈·배농 없는 유지치료 부위에서 발생<br>
+          <strong>치은연하 전용 노즐 + 증례 선별 필수</strong><br>
+          <div class="ref">Hussein 2026 [case report]</div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 13: DECISION TREE ────────── -->
+  <div class="slide" id="s13">
+    <div class="slide-num">13 / 15</div>
+    <div class="tag teal">Part 5 · 임상 결정</div>
+    <h2 class="section">환자별 도구 선택 — 결정 트리</h2>
+    <div class="cols">
+      <div class="col">
+        <h3 class="sub">자가 치간 청소</h3>
+        <div class="flow">
+          <div class="flow-step">
+            <div class="flow-icon num">①</div>
+            <div>
+              <strong>열린 치간공간 / 유두 소실 / 넓은 치간 간격</strong><br>
+              <span style="color:var(--accent2);">→ 치간칫솔(IDB) — 1순위</span>&nbsp;&nbsp;
+              <span style="color:var(--accent);">또는 실리콘 치간픽</span>
+              <div class="ref">Carrouel 2026 (BOP OR 3.14) / Yilmaz 2025 (순응도 ×2.5)</div>
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">②</div>
+            <div>
+              <strong>좁은 / 정상 치간 접촉 — IDB 안 들어감</strong><br>
+              <span style="color:var(--accent);">→ 치실(DF)</span> — 단, "올바른 기술이 효능을 보장하지 않음" 고지<br>
+              <div class="ref">Jung 2025 (기술↑ 치태 제거 NS, p=.112)</div>
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">③</div>
+            <div>
+              <strong>고정식 교정 / 브릿지 / 임플란트 보철</strong><br>
+              <span style="color:var(--accent5);">→ 슈퍼플로스</span> 또는
+              <span style="color:var(--accent3);">워터픽</span> — 즉시 치태 제거 동등 (Sawan 2022)
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">④</div>
+            <div>
+              <strong>손재주↓ / 치실 거부 / 치주염 유지</strong><br>
+              <span style="color:var(--accent3);">→ 워터픽 — 출혈·치은염 이득</span><br>
+              저수조 위생 교육 필수; 플라크 제거는 치실과 동등 수준
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon warn">✕</div>
+            <div>
+              <strong>나무 이쑤시개 — 상시 회피</strong><br>
+              <span style="color:var(--accent4);">치간유두 소실·블랙트라이앵글 유발</span>
+              <div class="ref">El Haddad 2026</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="col">
+        <h3 class="sub">전문가 시술</h3>
+        <div class="flow">
+          <div class="flow-step">
+            <div class="flow-icon num">①</div>
+            <div>
+              <strong>치은연상 예방 / 유지치주치료(SPC)</strong><br>
+              <span style="color:var(--accent2);">→ 에어폴리싱/GBT (에리스리톨 14 µm)</span><br>
+              편안함·시간·치질 보존 최적
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">②</div>
+            <div>
+              <strong>활동성 NSPT — Stage III/IV</strong><br>
+              <span style="color:var(--accent);">→ SRP 또는 GBT (동등)</span><br>
+              치석은 여전히 초음파/손기구 필수
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">③</div>
+            <div>
+              <strong>치은연하 심부낭</strong><br>
+              <span style="color:var(--accent5);">바이오필름: 에어폴리싱 / 치석: 기계적 제거</span><br>
+              피하기종 위험 → 치은연하 전용 노즐·증례 선별
+            </div>
+          </div>
+          <div class="flow-step">
+            <div class="flow-icon num">④</div>
+            <div>
+              <strong>임플란트 주위 점막염</strong><br>
+              <span style="color:var(--accent3);">→ PMPR 우선</span>&nbsp;
+              에리스리톨 에어아브레이전은 합리적 보조<br>
+              어떤 기구도 우월성 미입증 (Brunello 2026 SR)
+            </div>
+          </div>
+        </div>
+        <div class="highlight green" style="margin-top:12px;font-size:14px;">
+          <strong>공통 원칙</strong><br>
+          치석 제거: 초음파/손기구 필수 (에어폴리싱 대체 불가)<br>
+          에리스리톨을 기본 분말로 / Dwell time 관리 / SFE 예방
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 14: KEY TAKEAWAYS ────────── -->
+  <div class="slide" id="s14">
+    <div class="slide-num">14 / 15</div>
+    <div class="tag teal">핵심 요약</div>
+    <h2 class="section">Key Takeaways — 오늘의 결론</h2>
+    <div class="cols">
+      <div class="col">
+        <div class="card accent-blue">
+          <div class="card-title">① 치태는 '균 덩어리'가 아니라 '생태계'</div>
+          <p class="card-body">EPS 매트릭스 + 군집 생태 + 숙주 면역 교란의 복합계.<br>단일 균 박멸 전략은 작동하지 않는다.</p>
+        </div>
+        <div class="card accent-red">
+          <div class="card-title">② 항생제 단독으로 바이오필름을 없앨 수 없다</div>
+          <p class="card-body">EPS 확산 장벽 + slow-growth phenotype → inherent tolerance.<br>기계적 파괴가 선행되어야 항생제가 효과를 낸다.</p>
+        </div>
+        <div class="card accent-orange">
+          <div class="card-title">③ Sucrose 차단이 우식 예방의 1순위</div>
+          <p class="card-body">EPS 기질이 sucrose이므로 불소보다 노출 빈도 감소가 생태학적으로 합리적이다.</p>
+        </div>
+      </div>
+      <div class="col">
+        <div class="card accent-green">
+          <div class="card-title">④ 순응도 > 효능 — 치간 청소 도구 선택 원칙</div>
+          <p class="card-body">IDB가 1순위(Carrouel 2026)이나, 환자가 매일 쓰는 도구가 가장 좋다.<br>치실은 좁은 접촉에만 한정, 올바른 기술도 효능 보장 안 함(Jung 2025).</p>
+        </div>
+        <div class="card accent-purple">
+          <div class="card-title">⑤ 워터픽은 플라크보다 출혈에 강하다</div>
+          <p class="card-body">Badahdah 2025 SR+MA(18 RCT): 출혈[중등도 근거] ↓, 치태는 치실과 동등.<br>저수조 위생 교육 필수(Slekovec 2026 레지오넬라 증례).</p>
+        </div>
+        <div class="card accent-orange">
+          <div class="card-title">⑥ GBT·에어폴리싱: 편안함 ✓ 임상 우월성 ✗</div>
+          <p class="card-body">PPD·CAL·BoP에서 SRP와 동등 (Yein 2026 SR).<br>에리스리톨 14 µm 기본, Dwell time 관리, SFE 예방.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- ────────── SLIDE 15: REFERENCES ────────── -->
+  <div class="slide" id="s15">
+    <div class="slide-num">15 / 15</div>
+    <div class="tag blue">근거 출처</div>
+    <h2 class="section">주요 근거 — LLM-Wiki 페이지</h2>
+    <div class="cols" style="gap:20px;">
+      <div class="col">
+        <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.06em;">바이오필름·구강 생태</div>
+        <ul class="bullets sm" style="font-size:13px;">
+          <li>Costerton et al. <em>Science</em> 1999 — biofilm 정의·내성 기전 [근거강함]</li>
+          <li>Socransky et al. <em>J Clin Periodontol</em> 1998 — red complex·5복합체</li>
+          <li>Hajishengallis &amp; Lamont <em>Mol Oral Microbiol</em> 2012 — PSD 모델·keystone</li>
+          <li>Lamont, Koo, Hajishengallis <em>Nat Rev Microbiol</em> 2018 — 종합 review</li>
+          <li>Karygianni et al. <em>Trends Microbiol</em> 2020 — Matrixome 개념</li>
+          <li>Jakubovics et al. <em>Periodontology 2000</em> 2021 — EPS 구성</li>
+          <li>Koo et al. 2013 — EPS·산성 미세환경</li>
+          <li>Klein et al. 2012 — 혼합종 proteomics</li>
+        </ul>
+        <div style="font-size:12px;color:var(--text-muted);margin:14px 0 8px;text-transform:uppercase;letter-spacing:0.06em;">전문가 관리 — GBT·에어폴리싱</div>
+        <ul class="bullets sm" style="font-size:13px;">
+          <li>Yein 2026 SR (5 RCT, n=231) — GBT vs SRD [GRADE 매우 낮음]</li>
+          <li>Cyris 2024 split-mouth RCT (n=60) — 동등, 시간 단축</li>
+          <li>Stähli 2024 RCT (1년) — 동등 유지치주치료</li>
+          <li>Dönertaş 2026 RCT (n=80) — GI·IL-1β GBT 우세</li>
+          <li>Dvorská 2026 in-vitro SR — 치질 마모 비교</li>
+          <li>Pujarern 2024 in-vitro — 에리스리톨 vs 탄산수소나트륨</li>
+          <li>Hussein 2026 case report — 피하기종</li>
+          <li>Brunello 2026 SR (n=1068) — 임플란트 점막염</li>
+        </ul>
+      </div>
+      <div class="col">
+        <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:0.06em;">치간 청소 도구</div>
+        <ul class="bullets sm" style="font-size:13px;">
+          <li>Carrouel 2026 RCT (n=323) — IDB, 임신 치은염 BOP OR 3.14</li>
+          <li>Jung 2025 전향 (n=37) — 치실 술식↑ but 치태 NS</li>
+          <li>Yilmaz 2025 RCT (n=54, 24주) — 실리콘픽 순응도 ×2.5</li>
+          <li>Badahdah 2025 SR+MA (18 RCT) — WF 출혈↓, 치태 동등</li>
+          <li>Mohapatra 2024 SR (7 RCT) — WF 4/7 플라크 우위 (질적)</li>
+          <li>Yiamwattana 2025 SR+MA — 교정 환자 WF=치실 (NS)</li>
+          <li>Sarkisova 2024 scoping (275편) — 염증↓ 일관, 치태 혼재</li>
+          <li>Mancinelli-Lyle 2024 RCT (n=78) — WF > IDB 변연출혈</li>
+          <li>Ren 2023 RCT (n=90, 12주) — WF 일반 인구 효능+안전</li>
+          <li>Kim 2023 pilot RCT (n=29) — WF 미생물군 호전</li>
+          <li>Liu 2025 RCT — WF NSPT 보조</li>
+          <li>Slekovec 2026 case — 워터픽 레지오넬라 [안전 주의]</li>
+          <li>El Haddad 2026 (n=69) — 나무이쑤시개→치간유두 소실</li>
+          <li>Abed 2022 LCA — 환경영향 평가</li>
+          <li>Thomassen 2025 RCT — 에어플로스=치실 (NS)</li>
+          <li>Sawan 2022 RCT (n=34) — 슈퍼플로스=WF (교정)</li>
+        </ul>
+        <div class="gap"></div>
+        <div class="highlight" style="font-size:13px;">
+          <strong>위키 기반 출처:</strong> wiki/overviews/oral-microbiome-biofilm-dysbiosis-synthesis.md &nbsp;|&nbsp; wiki/overviews/interdental-cleaning-devices-synthesis.md &nbsp;|&nbsp; wiki/overviews/professional-biofilm-management-gbt-air-polishing-overview.md
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /#deck -->
+
+<!-- ── Navigation ── -->
+<div id="nav">
+  <button id="btn-prev" onclick="go(-1)">◀</button>
+  <div id="progress-bar"><div id="progress-fill"></div></div>
+  <span id="progress-text">1 / 15</span>
+  <button id="btn-next" onclick="go(1)">▶</button>
+</div>
+
+<script>
+  const TOTAL = 15;
+  let cur = 1;
+
+  function showSlide(n) {
+    document.querySelectorAll('.slide').forEach(s => s.classList.remove('active'));
+    const el = document.getElementById('s' + n);
+    if (el) { el.classList.add('active'); }
+    document.getElementById('progress-text').textContent = n + ' / ' + TOTAL;
+    document.getElementById('progress-fill').style.width = (n / TOTAL * 100) + '%';
+    document.getElementById('btn-prev').disabled = n === 1;
+    document.getElementById('btn-next').disabled = n === TOTAL;
+  }
+
+  function go(dir) {
+    const next = cur + dir;
+    if (next < 1 || next > TOTAL) return;
+    cur = next;
+    showSlide(cur);
+  }
+
+  document.addEventListener('keydown', e => {
+    if (e.key === 'ArrowRight' || e.key === 'ArrowDown' || e.key === ' ') { e.preventDefault(); go(1); }
+    if (e.key === 'ArrowLeft' || e.key === 'ArrowUp') { e.preventDefault(); go(-1); }
+    if (e.key === 'Home') { cur = 1; showSlide(cur); }
+    if (e.key === 'End') { cur = TOTAL; showSlide(cur); }
+  });
+
+  showSlide(1);
+</script>
+</body>
+</html>
