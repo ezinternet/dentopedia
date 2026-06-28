@@ -76,12 +76,12 @@ confidence: narrative-review
 임상 동선 6단계로 바로 가기:
 
 <div style="display:flex; flex-wrap:wrap; gap:0.4rem; margin:0.5rem 0 1rem;">
-  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">1 · 진단·근거</a>
-  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">2 · 경조직수술·골재생</a>
-  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">3 · 치주·약물·전신</a>
-  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">4 · 보존·근관</a>
-  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">5 · 보철·임플란트</a>
-  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">6 · 교정·특수</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map#1--진단--기초--근거-diagnosis--foundations--evidence" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">1 · 진단·근거</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map#2--경조직-수술--골재생-hard-tissue-surgery--bone-regeneration" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">2 · 경조직수술·골재생</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map#3--치주--약물--전신-periodontics--pharmacology--systemic" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">3 · 치주·약물·전신</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map#4--보존--근관--재료-conservative--endodontics--restorative-materials" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">4 · 보존·근관</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map#5--보철--임플란트-prosthodontics--implants" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">5 · 보철·임플란트</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map#6--교정--행동--경영--특수-orthodontics--behavioral--practice--specialty" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">6 · 교정·특수</a>
 </div>
 
 ## 탐색 방법
