@@ -1,0 +1,97 @@
+Anatomic considerations for immediate implant placement in the mandibular posterior region – A systematic review and meta-analysis
+Behfarnia P, Meshkinnejad R, Ahmadishadmehri M, Afshari Z
+BMC Oral Health 2025;25(1):1924
+DOI: 10.1186/s12903-025-06861-y | PMID: 41430227 | PMCID: PMC12723949
+
+Introduction
+
+Dental implants are now considered as a reliable treatment option for replacing missing teeth both aesthetically and functionally. Immediate dental implant placement (IIP) in a newly extracted tooth site has attracted attention since it was first described (more than 30 years ago). Reducing the duration, cost and complications of treatment and reducing the number of surgeries are the main advantages of this treatment method. Although IIP has been successful, as a procedure it has high technical sensitivity and requires careful planning and choosing the right case to ensure the success of the implant and the final aesthetic results. The indications for immediate implant placement typically include sites with intact socket walls, absence of acute infection, and sufficient bone volume for achieving primary stability. Factors influencing success include patient-related aspects such as systemic health, bone quality, and site-specific anatomy, as well as surgical expertise and implant design. In dentistry, the extraction of mandibular molar teeth is a common phenomenon due to the failure of endodontics treatments, caries or vertical root fracture, and in this case, IIP can be considered.
+
+The mandibular molar area is a challenging place for implant placement due to the inferior alveolar canal (IAC) and the concavity of the submandibular fossa, because it can lead to nerve damage and temporary or permanent paresthesia, lingual plate perforation (LPP) and sublingual or submandibular hematomas, accompanied by hemorrhage or infection.
+
+To achieve initial stability, we need at least 4 mm of native bone to ensure survival of the immediate implant. However, the average distance between apex of first and second mandibular molar to inferior alveolar nerve (IAN) is most frequently 1.51 and 3.43 mm. In the region of the first molar of the mandible, it is suggested that at least 2 mm distance should be between the IAN and the implant when placing the implant to ensure that the nerve is not damaged.
+
+If LPP occurs in the mandibular molar area and under the mylohyoid muscle at a horizontal distance of about 2 mm from the mandibular second molar, it can cause damage to peri-mandibular vessels and may lead to hemorrhaging. If LPP occurs above the mylohyoid ridge, which is generally where the lingual nerve is located, it can lead to nerve injury.
+
+The use of cone beam computed tomography (CBCT) provides a precise tool for measuring bone surface, planning for implants, position of anatomical structures, and evaluating alveolar bone changes after implant placement in the mandible. Many studies have evaluated the efficacy and safety of IIP, the risk of LPP and perforation of the mandibular canal (MCP) and injury to the inferior alveolar nerve associated with posterior mandibular anatomy using CBCT images. Now, a few research has been done on anatomical considerations during IIP in the posterior region of the mandible with the help of CBCT.
+
+Materials and methods
+
+Registered in Open Science under registration number 10.17605/OSF.IO/YBSU4; prepared per PRISMA and Cochrane Collaboration guidelines.
+
+Null hypothesis: IIP in mandibular molar area is safe. Focused question: "During the IIP in the posterior region of the mandible, what are the significant anatomic considerations and which receiving region has greater risk of injury?"
+
+Search strategy: Electronic search restricted to English articles in PubMed, Cochrane, Web of Science (WOS), ProQuest and Scopus, restricted from 2006 to October 2024. Search model: ((immediate implant placement OR fresh socket implant* OR implant*) AND (mandibular posterior region OR molar region OR mandibular premolar OR anatomic consideration*) AND (CBCT analysis OR Cone-beam computed tomography)) in TITLE/SUBJECT/ABSTRACT. Reference cross-referencing of included studies also searched.
+
+Selection criteria: Detect clinical trial, cohort and cross-sectional studies. Exclusion: case reports, case series, articles not using CBCT, reviews. Studies providing CBCT analysis data about anatomical considerations (IAN-root apices relationship, mandibular cross-sectional morphology, lingual undercut, risk of LPP) eligible.
+
+Outcome measures:
+Primary: average distance between root apices of mandibular molars and IAC (mm), plus percentage of subjects at high risk for IAN injury.
+Secondary: lingual undercut; mandibular cross-sectional morphology.
+
+Quality assessment: Modified STROBE checklist (12 questions, score 0–12). Studies scoring < 8 removed. All 12 included studies scored 11–12; mean score 11.416 (high methodological quality, low risk of bias).
+
+Data extraction: First author, year, country, patient sex/age, study design, number of implants/patients, CBCT characteristics, site, race, mean distance between root apices and IAC, mean distance between roots and outer lingual cortex.
+
+Statistical analysis: Comprehensive meta-analysis (V3, Biostat). Pooled prevalence of C, P and U type mandibular ridge morphology calculated with 95% CIs using random-effects model. Heterogeneity quantified by I² (0–25% none; 25–50% moderate; 50–75% large; 75–100% extreme). Separate meta-analysis for mean distance between IAC and root apex. Publication bias assessed by funnel plot, Egger's weighted regression, Begg's rank correlation.
+
+Results
+
+Study selection: Initial search 1151 publications (541 PubMed, 54 Scopus, 436 WOS, 58 Cochrane, 62 ProQuest). After removing duplicates, 933 unique studies + 1 manual = screened. 21 articles for full-text; 9 excluded for not involving IIP. Final: 12 articles (9 cross-sectional, 3 retrospective). Kappa inter-reviewer agreement 0.91. Primary parameters: IAC location from reference points, risk of LPP, mandibular ridge morphology.
+
+Included studies: 12 studies, 1834 patients with immediate implants in mandibular posterior region.
+
+Location of the inferior alveolar canal (IAC):
+8 studies investigated mean distance from IAC to root apices of 1M, 2M, and 2PM. Distance varied significantly across studies.
+2 studies evaluated furcation-to-IAC distance (IAC-F): one reported mean 14.14 ± 2.57 mm, with 24% of 1Ms having IAC-F < 10 mm; another reported 3% of 1Ms and 13.4% of 2Ms with < 10 mm IAC-F.
+
+Table 1 — Root-to-IAC distances in mandibular teeth (included studies):
+1. Bahaa Haj (2021), sites 5,6,7: RAC distance 7.6 ± 2.7 mm (1M), 6.5 ± 3 mm (2PM), 5.4 ± 3 mm (2M). Mean RAC per root type ranged 5.2 mm (mesial root 2M) to 7.7 mm (right 1M roots).
+2. Padhye (2020), site 6: IAN-furcation (IAN-F) 14.14 ± 2.57 mm; 24% < 10 mm. IAN to mesial roots 4.31 ± 1.06 mm, distal roots 4.61 ± 1.02 mm.
+3. Chrcanovic (2016), sites 5,6,7: DTC 3.76 ± 2.39 mm (2PM), 4.39 ± 2.58 mm (1M), 4.38 ± 2.45 mm (2M). DTC greatest for 1M, shorter for 2PM and 2M. Teeth with DTC < 6 mm: 75.4% right 2PM, 78.0% left 2PM, 70.3% right 1M, 71.2% left 1M, 88.1% right & left 2M.
+4. J.Y. Ho (2022), sites 6,7: 2M significantly closer to IAC than 1M. Furcation-to-IAC < 10 mm in 3% of 1Ms, 13.4% of 2Ms. Mesial root apex-to-IAC < 2 mm in 6.9% of 1Ms, 20% of 2Ms; distal root apex-to-IAC < 2 mm in 8.8% of 1Ms, 35% of 2Ms. Mean mesial/distal root to IAC for 2Ms: 3.78 ± 2.31 mm and 3.03 ± 2.24 mm.
+5. K. Rameswaran (2021), sites 3,4,5: mean root apex-to-nerve distances: 4.10 ± 2.28 mm (canine), 5.12 ± 2.86 mm (1PM), 4.24 ± 2.46 mm (2PM).
+6. M.H. Lin (2014), sites 5,6,7: RAC 6.1 ± 2.7 mm (2PM), 7.0 ± 2.9 mm (1M), 4.3 ± 2.7 mm (2M).
+7. Kovisto (2011), sites 5,6,7: distal root of 2M shortest distance to mandibular canal (avg 1.42 mm); 2PM greatest (avg 2.64 mm). 2M roots closer to canal than 2PM or 1M.
+8. Zhan (2023), sites 4,5: 12.33% of first premolars and 20.33% of second premolars had root apex-to-IAN/mental foramen distance < 4 mm.
+
+Gender: 6 studies. Chrcanovic — weak sex associations. Yahya — females had significantly shorter DLC and RAC vs males, higher IAN injury risk during IIP. Ho — females shorter distances from interradicular septum crest and mesial root apex to IAC, reduced root cone heights in 1M/2M (greater IAN bundle injury risk using apical bone for primary stability). Huang — ridge morphology type (C/P/U) differed between sexes, but no LPP sex difference. Kovisto — canal significantly closer to mesial/distal roots of 2M in females > 49 years vs males.
+
+Age: 5 studies. Yahya — RAC significantly lower in patients under 40 vs older. Kovisto — distance between mandibular canal and root apices increased with age. Chrcanovic — very weak/weak relationship between age and DLC. Kong — no age-related differences in tooth/alveolar/basal bone axis angles. Chen — no/very weak/weak correlations between age and implant-to-buccal/lingual plate distances or cross-sectional morphology.
+
+Sides: 1 study — no statistically significant contralateral side differences.
+
+Risk of lingual plate perforation (LPP):
+6 studies. U-type cross-sections and more posterior sites highest risk.
+- Sun: U-type at 2M sites with 4.8 mm implants highest LPP incidence (22.2%).
+- Yahya: LPP risk 70% in 1Ms, 76% in 2Ms; high-risk rates 18% and 44% respectively.
+- Rameswaran: LPP risk increased with larger implant diameter; overall incidence low (1.2%).
+- Chen: LPP risk greater at 2M than 1M.
+- Huang: LPP most observed at 2M with U-type ridge; LPP probability decreased 34% per 1 mm increase in RAC.
+- Kong: concave type (11% of cases) greatest challenge for placement; required careful length/width/direction.
+
+Meta-analysis — morphology of mandibular ridge (Chen classification: Convergent C, Parallel P, Undercut U):
+First molar site: C 29.5% (95% CI 20.1–41.1%, 5 studies, I²=89.663); P 35% (95% CI 20.8–52.6%, I²=94.868); U 41.1% (95% CI 27.6–56%, I²=93.471).
+Second molar site: C 9.0% (95% CI 4.0–18.9%, I²=90.483); P 15.4% (95% CI 8.6–26.1%, I²=89.601); U 73% (95% CI 62.5–81.4%, I²=87.619).
+Total event rate: C 25% (95% CI 17.9–33.7%, 3 studies, I²=74.071); P 25.2% (95% CI 17.5–34.9%, I²=77.596); U 49.2% (95% CI 40.3–58.2%, I²=73.267).
+Undercut type most prevalent, especially at second molar.
+
+Meta-analysis — distance between IAC and root apex:
+Premolar: pooled mean 5.146 mm (95% CI 3.832–6.460 mm, p<0.001), 4 studies, extreme heterogeneity I²=97.091% (Q=103.131, df=3).
+First molar: pooled mean 6.329 mm (95% CI 4.477–8.182 mm, p<0.001), 3 studies, I²=98.028% (Q=101.432, df=2).
+Second molar: pooled mean 4.653 mm (95% CI 4.057–5.249 mm, p<0.001), 3 studies, moderate-large heterogeneity I²=81.066% (Q=10.563, df=2, p=0.005).
+Funnel plots asymmetric; all studies positive mean distances (3.760–6.500 mm premolars; 4.390–7.600 mm first molar; 4.300–5.400 mm second molar), SE 0.3–0.95, suggesting potential publication bias; small study number (3–4 per tooth) limits reliability.
+
+Discussion
+
+Proximity of implant to IAC is critical due to nerve injury risk. Pooled mean distance greatest in first molar region (6.32 mm), then premolars (5.14 mm), shortest in second molar (4.65 mm) — reinforcing caution near second molars where IAC is closest. Significant variability and funnel plot asymmetry suggest publication bias; need for standardized large-scale studies.
+
+Ridge morphology: undercut type most prevalent, especially second molar. Undercut event rates 41.1% (1M) and 73% (2M). Emphasizes pre-surgical CBCT planning.
+
+LPP risk highest in U-type cross-sections and posterior sites. Yahya reported LPP 70% (1M), 76% (2M).
+
+Clinical implications: mean root apex-to-IAC distance varies by tooth — 5.14 mm (2PM), 6.32 mm (1M), 4.65 mm (2M). Safety margin of at least 2 mm from IAC advisable. Prevalence of undercut (U-type) ridge — especially second molar (73%) — increases LPP risk and must be assessed preoperatively via CBCT. Primary stability significantly influenced by bone density and cortical thickness in posterior mandible; higher bone density correlates with increased primary stability.
+
+Limitations: studies varied in methodology and populations (heterogeneity). CBCT measurements may be influenced by voxel size, beam hardening, landmark identification errors. Interradicular septa role in primary stability warrants further study. Need validated clinical protocols for IIP in posterior mandible. 'Comparison' element of PICOS not applicable (descriptive anatomical review).
+
+Conclusion: This SR+MA underscores the critical role of ridge morphology, neurovascular anatomy, and site-specific factors in determining suitability of IIP in posterior mandible. High prevalence of undercut ridges (especially 2M), proximity to IAC (5.14 mm premolars, 6.32 mm first molars, 4.65 mm second molars), and elevated LPP risk necessitate meticulous case selection and surgical planning. CBCT, with clear understanding of anatomical limitations and clinical indications, is essential to optimize outcomes and minimize complications.
