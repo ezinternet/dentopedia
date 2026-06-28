@@ -2,7 +2,7 @@
 title: "임플란트 로딩 프로토콜 — 보철 구성·1차 안정성에 따른 즉시·조기·통상 부하 종합"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-07
+date: 2026-06-28
 type: overview
 category: [overviews]
 tags: [implant-loading, immediate-loading, delayed-loading, conventional-loading, early-loading, overdenture, full-arch, single-crown, tilted-implant, marginal-bone-loss, primary-stability, ISQ, insertion-torque, noninferiority, provisionalization, multiple-unit-fdp, fixed-dental-prosthesis]
@@ -14,6 +14,7 @@ source_papers:
   - implants/kern-2018-single-implants-edentulous-mandible-immediate
   - immediate-implant/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective
   - implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma
+  - implants/esposito-2013-loading-times-dental-implants-cochrane
 confidence: synthesis
 source: synthesis
 relations:
@@ -33,6 +34,7 @@ relations:
 > - 취약 구성 2 — 신선 발치와 즉시식립+즉시 임시보철(Donker 2025, prospective n=30): 1년 생존 90%(조기실패 3), 심미 양호(PES+WES 15.4/20)이나 1차 안정성·발치와 형태·연조직 두께로 증례 선별 필수, 일반화 금지.
 > - 임상 결정: 단관은 안정성 충족+동시 GBR 없으면 즉시부하, 미달이면 통상부하 회귀.
 > - 다수 임플란트 지지 고정성 국소의치(Multiple-unit Fixed Dental Prosthesis, FDP)(Aiquel 2021, SR+MA 14편): 지연식립-즉시부하(Delayed Placement Immediate Loading, DPIL) 97.2% vs 지연식립-지연부하(Delayed Placement Delayed Loading, DPDL) 98.1% — 동등(p=.227); 즉시식립-즉시부하(Immediate Placement Immediate Loading, IPIL)만 90% 미만 유일 해당; GRADE 근거 매우 낮음. 복수 임플란트 연결(cross-arch splinting)이 즉시부하 비열등성을 뒷받침하는 기전으로 추정.
+> - **Cochrane cross-prosthesis 종합(Esposito 2013, SR+MA, 26 RCT, n=1217환자/2120임플란트)**: 즉시·조기 vs 통상 부하 — 보철 실패(RR 1.90) 및 임플란트 실패(RR 1.50) 모두 유의차 없음; MBL 차이 −0.10 mm(통계적 유의·임상적 무의미); 전제조건: 삽입토크 ≥35 Ncm. GRADE 근거 매우 낮음(이질성 높고 비교당 RCT 희소). → 본 overview의 상위 명제(안정성 충족 시 부하 타이밍 비결정 인자)를 가장 포괄적인 Cochrane 수준에서 뒷받침.
 > - 공백: 단일 임플란트 오버덴처 즉시부하 RCT 희소, full-arch 장기(>5년) 비교 부재, 로딩 타이밍×골질(D1–D4) 교호작용 미검증.
 > - 확신도: 단관 즉시부하·단일 오버덴처 금기 = [근거강함], full-arch·tilted·다수 오버덴처 = [합의수준], 즉시식립+즉시부하 선별 = [claude해석].
 
@@ -50,6 +52,8 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 
 핵심 명제: 로딩 프로토콜은 독립 위험인자가 아니다. 1차 안정성이 확보되고 하중이 분산(연결·다수 임플란트)되면 즉시부하 ≈ 통상부하. 위험은 단일 임플란트·신선 발치와처럼 안정성·하중분산이 취약한 구성에서 나타난다.
 
+이 명제는 가장 넓은 Cochrane SR+MA(Esposito 2013, 26 RCT, 1217 환자, 2120 임플란트)에서도 재확인된다 — 즉시/조기 vs 통상 부하의 보철·임플란트 실패, MBL 모두 임상적으로 무의미한 차이(단 삽입토크 ≥35 Ncm 전제, GRADE 매우 낮음). 개별 보철 구성별 SR+MA들(Benic, Liu, Aiquel 등)과 방향이 일치한다.
+
 ## Evidence Map
 
 | Paper | Design | n | Prosthesis | Key Finding | Confidence |
@@ -62,6 +66,7 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 | [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] | rct (24 mo, multicenter) | — | Single median mandibular implant overdenture | **즉시부하 비열등성 입증 실패**: 조기실패 9건(전부 <3개월) vs 지연 1건 | rct |
 | [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] | prospective case series | 30 (상악 심미부) | Immediate placement + provisionalization (digital) | 생존 90%(조기실패 3), PES+WES 15.4/20, MBL −0.18(M)/−0.44(D) mm, 만족도 9.2/10 | prospective |
 | [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] | sr+ma (14 studies, 21 cohort groups; 3 RCTs for MA) | 502 DPIL / 476 DPDL implants | Multiple-unit FDP (≥2 implants) | DPIL 97.2% vs DPDL 98.1% survival — **no significant difference** (p=.227); IPIL only protocol below 90% (90%); MBL numerically lower in DPIL (0.71 vs 1.68 mm) but between-study only; GRADE **very low** for all comparisons | sr+ma |
+| [[implants/esposito-2013-loading-times-dental-implants-cochrane]] | sr+ma Cochrane (26 RCT, updated 2013) | 1217 patients / 2120 implants | Cross-prosthesis (single + multiple, various) | 즉시·조기 vs 통상 부하: 보철 실패 RR 1.90 (NS), 임플란트 실패 RR 1.50 (NS), MBL MD −0.10 mm (통계적 유의·임상 무의미); **삽입토크 ≥35 Ncm 전제조건**; GRADE 매우 낮음 — 포괄적 Cochrane 기반에서 "안정성 확보 시 부하 타이밍 비결정 인자" 명제 재확인 | sr+ma |
 
 ## Clinical Decision Points
 
@@ -94,6 +99,7 @@ Synthesis of the implant-loading cluster across prosthesis types: when primary s
 - [[implants/kern-2018-single-implants-edentulous-mandible-immediate]] — 단일 정중 임플란트 즉시부하 비열등성 RCT (반례)
 - [[immediate-implant/esthetic-soft-tissue/donker-2025-immediate-implant-provisionalization-digital-workflow-prospective]] — 디지털 즉시식립+즉시 임시보철 prospective
 - [[implants/aiquel-2021-timing-placement-loading-multiple-unit-sr-ma]] — 다수 임플란트 지지 고정성 국소의치 로딩 타이밍 SR+MA (ITI S5 동반 논문)
+- [[implants/esposito-2013-loading-times-dental-implants-cochrane]] — Cochrane SR+MA (26 RCT, 2013): 즉시/조기 vs 통상 부하 cross-prosthesis 종합; 삽입토크 ≥35 Ncm 전제 하 차이 없음, GRADE 매우 낮음
 
 ## Related Overviews
 
