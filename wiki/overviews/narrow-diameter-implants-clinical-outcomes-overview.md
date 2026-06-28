@@ -2,7 +2,7 @@
 title: "Overview: Narrow-Diameter Implants — Clinical Outcomes Across Indications"
 authors: synthesis (llm-wiki)
 year: 2026
-date: 2026-06-10
+date: 2026-06-28
 type: synthesis
 category: [overviews]
 tags: [narrow-diameter-implant, ndi, titanium-zirconium, anterior-maxilla, posterior, mandibular-overdenture, single-crown, bone-augmentation]
@@ -13,11 +13,14 @@ source_papers:
   - wiki/implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown.md
   - wiki/implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants.md
   - wiki/implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic.md
+  - wiki/implants/barbosa-2021-narrow-implants-one-two-piece-fea.md
 relations:
   - type: extends
     target: witek-2021-surgical-instrumentation-narrow-wide-short-implants
   - type: refines
     target: diehl-2022-narrow-diameter-implant-stability-hyperglycemic
+  - type: extends
+    target: barbosa-2021-narrow-implants-one-two-piece-fea
 ---
 
 ## 한국어 핵심요약
@@ -31,6 +34,7 @@ relations:
 > - 하악 피개의치(Park 2023): 생존·MBL 동등하면서 NDI가 환자만족도(VAS)·구강건강관련삶의질(OHRQoL)에서 유의하게 우월.
 > - 티타늄-지르코늄(Ti-Zr, Roxolid) 합금이 enabling material — 구치부 부하 부위 생존을 RDI에 맞추는 핵심(Cao 2023: 단일크라운 생존 97.5%, 상용순수티타늄 cpTi와 차이 없음).
 > - 의사결정: ① 적응증이 default 설정 — 심미 전치부·위축 하악 피개의치는 NDI 강력 1차 선택; ② 부하 부위는 Ti-Zr 합금 선호; ③ 잔여 위험은 생존이 아닌 기술적(교합관리·parafunction 통제); ④ 생물학적 합병증 불확실성이 live gap.
+> - FEA 생역학 경계(Barbosa 2021): 2.5 mm 초소경(Extra-Narrow) one-piece 임플란트는 30° 경사하중 시 응력이 2188 MPa → 티타늄 항복강도(1130 MPa) 93.6% 초과. 3.0 mm one-piece 및 3.5 mm Morse taper two-piece는 축·경사 하중 모두 안전. **"3.0 mm가 임상적 안전 하한"** — Pachiou 2025의 생존율 데이터에 생역학적 근거를 제공.
 > - 정직한 한계: 추적기간 대부분 ≤36개월로 짧고, 후방 부하의 10년 horizon 미입증, 임플란트주위염(peri-implantitis) 등 생물학적 합병증 데이터가 pool 불가(Pachiou 2025) — NDI의 가장 큰 근거 공백.
 
 ## One-line Summary
@@ -54,6 +58,7 @@ The honest caveats: follow-up is short across all four (mostly ≤36 months exce
 | Pachiou 2025 | SR+MA | 36 trials / 2741 NDI | Posterior fixed restorations | Pooled survival maxilla 97.0% / mandible 96.5% (p=0.688); technical compl. 0–23.5%; biological data unpoolable | sr+ma |
 | Park 2023 | SR+MA | 12 pub / 8 studies | Mandibular overdentures (vs RDI) | Survival & MBL equal; NDI significantly better VAS satisfaction & OHRQoL | sr+ma |
 | Cao 2023 | SR+MA | 7 quant / 256 Ti-Zr NDI | Single crowns (Ti-Zr vs cpTi) | Survival 97.5% / success 97.2% at ≤36 mo, no difference vs cpTi; 1-y MBL 0.44 mm | sr+ma |
+| Barbosa 2021 | FEA | 3 implant models | Biomechanical limits by diameter and connection type | 2.5 mm one-piece: 2188 MPa under 30° load (93.6% over Ti yield limit); 3.0 mm one-piece and 3.5 mm Morse taper: safe under all loads | in-vitro |
 
 ## Clinical Decision Points
 
@@ -65,18 +70,22 @@ flowchart TD
     B -->|Edentulous atrophic mandible<br/>overdenture| E[NDI<br/>= equal survival, better PROMs - Park 2023]
     D -->|Acceptable| F[NDI, prefer Ti-Zr alloy<br/>survival ~97% - Pachiou/Cao]
     D -->|Heavy / bruxism| G[Caution: technical complications<br/>up to 23.5% - manage occlusion,<br/>consider RDI+augmentation]
+    H[Extra-narrow ≤2.5 mm one-piece] -->|Angled load| I["UNSAFE: 2188 MPa > Ti yield 1130 MPa<br/>Barbosa 2021 FEA"]
 ```
 
 Decision logic in prose:
 1. **Indication sets the default.** In the esthetic anterior maxilla and in atrophic edentulous mandibles for overdentures, NDIs are a strong first choice — equal hard-tissue outcomes plus an esthetic-complication or PROM advantage over the augmentation/RDI alternative. [근거강함 survival; 합의수준 PROM]
 2. **Material matters in load-bearing sites.** For posterior fixed prostheses, prefer titanium-zirconium (Roxolid) NDIs — the alloy is what makes posterior survival match RDIs (Cao 2023; Pachiou 2025 material-independent). [합의수준]
 3. **The residual risk is technical, not survival.** In posterior load-bearing use plan for screw loosening / fracture / detachment (up to 23.5%): control occlusion, manage parafunction, and verify component fit rather than fearing implant loss. [근거강함]
+5. **The 3.0 mm diameter is the biomechanical floor for one-piece designs.** FEA (Barbosa 2021) shows that 2.5 mm extra-narrow one-piece implants exceed titanium yield strength by 93.6% under 30° angled loading (2188 MPa vs 1130 MPa limit) — a clinically relevant failure mode in any site with off-axis forces. A 3.0 mm one-piece and a 3.5 mm Morse taper two-piece both remain within structural limits; the Morse taper connection additionally reduces cortical bone stress by 321% compared to the one-piece design, suggesting that where diameter must be minimized to 3.5 mm, a two-piece Morse taper is preferable to a one-piece design. [근거강함 FEA; 임상 RCT 보강 필요] This lower boundary converges with what clinical SR/MA evidence (Pachiou 2025; Cao 2023) already implies by the lower bound of the pooled survival evidence being ~3.0 mm NDIs. [claude해석]
+
 4. **Biological-complication uncertainty is the live gap.** Because peri-implantitis data for NDIs are unpooled, maintain standard peri-implant surveillance and avoid over-extending NDIs in high biological-risk patients. [미검증] A notable exception on systemic risk: [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] (prospective case–control, n=32 patients / 48 NDIs, 3 months) found that 3.3 mm SLActive TiZr NDIs achieved equivalent ISQ at Month 3 in uncontrolled T2DM (HbA1c mean 7.34%) vs. normoglycemic controls (63.84 ± 6.05 vs. 63.84 ± 6.18; no between-group difference at any time point, no HbA1c–ISQ correlation), suggesting that hyperglycemia per se — at least up to ~HbA1c 8.1% — does not preclude NDI use when a hydrophilic SLActive surface is employed. [합리적 근거; HbA1c >8.1% 미검증]
 
 ## Gaps & Future Research
 - **Long-term data.** Most pooled follow-up is ≤36 months; decade-horizon NDI survival and MBL (especially for posterior load-bearing) are largely unproven.
 - **Biological complications.** Pachiou 2025 could not pool biological complication / peri-implantitis data — the single biggest evidence gap for NDIs.
 - **NDI vs mini-implant boundary.** Overdenture syntheses blur the <3.0 mm mini-implant vs 3.0–3.5 mm NDI distinction; outcomes may not transfer across that line.
+- **Clinical validation of the 2.5 mm FEA fracture signal.** Barbosa 2021 (FEA) predicts 2.5 mm one-piece implants will fracture under angled loading — but FEA does not account for bone remodeling, fatigue cycling, or real-world loading variation. Clinical registry data on 2.5 mm one-piece fracture rates are needed.
 - **Direct NDI-vs-(RDI+graft) head-to-head in the posterior region.** Anterior data exist (Zhang 2024); the posterior graft-avoidance comparison is still indirect.
 - **Drilling protocol optimisation for narrow implants.** [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] (in-vivo sheep, 144 plateau-root-form implants, 3.5 mm narrow vs. 6.0 mm wide, 3 × 2 factorial RPM × irrigation design) shows that irrigation is most critical for narrow implants at low speed (50 RPM BIC: 30.6 ± 6.1% with irrigation vs. 19.7 ± 6.1% without; significant), whereas wide implants benefit more at higher speeds (500–1,000 RPM); BAFO was driven only by healing duration (3 vs. 6 weeks), not by any instrumentation variable. The SR/MA evidence base reviewed here does not address osteotomy protocol — pending clinical RCT translation of these diameter-specific drilling sensitivities.
 
@@ -87,5 +96,6 @@ Decision logic in prose:
 - [[implants/cao-2023-titanium-zirconium-narrow-diameter-single-crown]] — Ti-Zr single crowns; equal to cpTi, the enabling alloy.
 - [[implants/witek-2021-surgical-instrumentation-narrow-wide-short-implants]] — in-vivo sheep study; diameter-specific RPM × irrigation interactions on BIC; extends to surgical technique dimension absent in SR/MA evidence above.
 - [[implants/isq/diehl-2022-narrow-diameter-implant-stability-hyperglycemic]] — prospective case–control; 3.3 mm SLActive TiZr NDI ISQ in uncontrolled T2DM; refines biological-risk decision point.
+- [[implants/barbosa-2021-narrow-implants-one-two-piece-fea]] — FEA; 2.5 mm one-piece exceeds Ti yield under 30° load (2188 MPa); 3.0 mm one-piece and 3.5 mm Morse taper safe; biomechanical floor for NDI selection.
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — companion graft-avoidance overview (short-implant axis).
 - [[overviews/implant-length-selection-why-not-always-short]] — parallel dimension-selection reasoning for length.
