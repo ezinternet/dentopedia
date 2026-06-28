@@ -12,7 +12,7 @@ pdf_filename: rodriguez-sanchez-2017-chlorhexidine-alveolar-osteitis-third.txt
 
 ## Why Ingested
 
-발치 후 건성발치와(Alveolar Osteitis, AO) 예방에 CHX를 어떤 제형·농도로 사용하는가? 이 SR+MA는 23편 RCT, 2,824 발치를 분석해 CHX의 AO 예방 효과와 제형(가글 vs 겔) 차이를 비교—구강외과 영역 CHX 활용의 핵심 근거.
+발치 후 건성발치와(Alveolar Osteitis, AO) 예방에 CHX를 어떤 제형·농도로 사용하는가? 이 SR+MA는 23편 RCT, 2,824 발치를 분석해 CHX의 AO 예방 효과와 제형(가글 vs 겔) 차이를 비교—구강외과 영역 CHX 활용의 핵심 근거. [[oral-surgery/daly-2022-local-interventions-management-alveolar-osteitis]]
 
 ## One-line Summary
 
