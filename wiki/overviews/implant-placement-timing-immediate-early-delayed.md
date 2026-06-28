@@ -2,7 +2,7 @@
 title: "Implant Placement Timing — Immediate vs Early vs Delayed (ITI Type 1–4)"
 authors: Synthesis (Claude)
 year: 2026
-date: 2026-06-07
+date: 2026-06-28
 doi: N/A
 source: synthesis
 category: overviews
@@ -25,6 +25,7 @@ tags: [overview, placement-timing, immediate-implant, early-placement, delayed-i
 > - 결정점 ② 심미존이지만 얇은/손상 골판·연조직 부족·근단병소 → **조기(Type 2/3) 선호**(생존 동등, MBL 적고 창상실패 낮음).
 > - 결정점 ③ 근단병소 >5mm / 활성감염 → 즉시의 지배적 실세계 금기, 소파 후 조기/지연 식립(Bineviciute 2024, Pranckeviciene 2024).
 > - 결정점 ④ 큰 골결손이라도 술자 숙련 + 골유도재생(Guided Bone Regeneration, GBR) 가능하면 즉시+GBR+지연 임시보철로 10년 지연-동등 결과 가능(Meijer 2024) — 단 술자 의존, default 아님.
+> - **Cochrane 신선 발치와 직접 비교(Esposito 2010, SR+MA, 7 RCT)**: 즉시 vs 지연 — 2 RCT(n=126)에서 생존·심미·MBL 유의차 없음; **즉시-지연(Immediate-delayed, 4–8주)** vs 지연 — 2년 심미 우수(RR=1.68) BUT 5년 합병증 4배(RR=4.20); 골대체제(무기 소 골) 자가골 대용 허용; 전 연구 비뚤림 위험 높음·검정력 부족. → 즉시-지연 전략은 단기 심미 이득이 장기 합병증 위험으로 상쇄됨을 시사.
 > - 미해결: 조기 vs 즉시 vs 지연을 표준화된 심미 endpoint로 분리한 head-to-head RCT 드묾; "조기"(Type 2 vs 3) 정의가 연구마다 불일치; 환자보고결과는 시점에 따라 잘 안 갈림(PROM 도구 개선 필요).
 
 ## One-line Summary
@@ -46,6 +47,8 @@ The best evidence converges on three statements:
 
 This page is the timing-focused deep-dive of axis 1 in [[overviews/immediate-implant-decision-ladder]]; site/graft/loading axes are deferred to that ladder and to [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]].
 
+A fourth comparison — **immediate-delayed (4–8 wk soft-tissue healing only, "Type 2" in ITI terms) vs delayed** — is addressed by the Cochrane review (Esposito 2010, 7 RCTs): immediate-delayed yields better 2-year esthetics (RR=1.68) but 4× more complications by 5 years (RR=4.20), with all studies high risk of bias and underpowered. This cautions against treating the "short delay" as a simple risk-free improvement over conventional delayed placement.
+
 ## Evidence Map
 
 | Study | Type | n / scope | Core contribution |
@@ -61,6 +64,7 @@ This page is the timing-focused deep-dive of axis 1 in [[overviews/immediate-imp
 | [[immediate-implant/esthetic-soft-tissue/samet-2023-immediate-placement-loading-esthetic-zone]] | (narrative) | esthetic zone | Combined placement + loading decision context. |
 | [[immediate-implant/esthetic-soft-tissue/peitsinis-2025-implant-placement-timing-loading-protocols]] | (review) | — | Timing × loading protocol interplay. |
 | [[immediate-implant/meijer-2024-immediate-implant-bony-defect-10year-rct]] | rct | 10-yr | Even bony-defect sockets reach delayed-equivalent 10-yr outcomes with immediate + GBR + deferred provisional (operator-dependent). |
+| [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] | sr+ma Cochrane (7 RCT, 2010) | n=126 (immediate vs delayed comparison) | Immediate vs immediate-delayed vs delayed in fresh sockets — immediate vs delayed: no significant differences (2 RCTs); **immediate-delayed vs delayed: better esthetics at 2y (RR=1.68) BUT 4× more complications at 5y (RR=4.20)**; bone substitutes acceptable in place of autogenous graft; all studies high risk of bias, underpowered. |
 
 ## Clinical Decision Points
 
@@ -69,6 +73,7 @@ This page is the timing-focused deep-dive of axis 1 in [[overviews/immediate-imp
 3. **Periapical lesion > 5 mm / active infection** → dominant real-world contraindication to immediate; debride and place early/delayed (Bineviciute 2024; Pranckeviciene 2024). [합의수준]
 4. **Large bony defect but expertise + GBR available** → immediate + GBR + deferred provisional can still reach delayed-equivalent 10-yr outcomes (Meijer 2024) — but this is operator-dependent, not a default. [근거강함, conditional]
 5. **When esthetics are paramount and the site is not ideal** → the Tonetti RCT is the cautionary anchor: immediate placement tripled augmentation need and inadequate-PES rate vs delayed. [근거강함]
+6. **Immediate-delayed (4–8 wk) as a "safer immediate" compromise** → the Cochrane review (Esposito 2010) cautions against this framing: better 2-year esthetics (RR=1.68) are offset by 4× more complications at 5 years (RR=4.20). Bone substitutes are acceptable when autogenous graft is not preferred. All comparisons based on few underpowered high-bias RCTs — treat as signal, not definitive evidence. [합의수준 — GRADE 매우 낮음]
 
 ## Gaps & Future Research
 
@@ -83,3 +88,4 @@ This page is the timing-focused deep-dive of axis 1 in [[overviews/immediate-imp
 - [[overviews/immediate-implant-soft-tissue-gap-grafting-material-choice]] — graft material choice once timing is set
 - [[overviews/socket-shield-technique-overview]] — an immediate-placement variant for buccal-plate preservation
 - [[overviews/type-1a-immediate-placement-immediate-loading-decision]] — immediate placement + immediate loading subset
+- [[immediate-implant/esposito-2010-fresh-extraction-sockets-immediate-cochrane]] — Cochrane SR+MA (7 RCT, 2010): immediate vs immediate-delayed vs delayed in fresh sockets; immediate-delayed short-term esthetic gain offset by 4× long-term complications
