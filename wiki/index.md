@@ -47,52 +47,52 @@ confidence: narrative-review
 </svg>
 </div>
 
-치과 임상 논문·가이드라인을 3-tier(PDF → sources → wiki)로 정리한 개인 지식 베이스.
+치과 임상 논문·가이드라인을 3-tier(PDF → sources → wiki)로 정리한 개인 지식 베이스. 아래 세 진입점에서 출발하거나, 좌측 **탐색기(Explorer)**·상단 **검색(🔍)**으로 바로 들어가세요.
 
-<div style="border-left:3px solid var(--secondary); background:var(--highlight); border-radius:6px; padding:0.6rem 1rem; margin:1rem 0; display:flex; align-items:center; gap:0.9rem;">
-  <span style="font-size:2.2rem; line-height:1; flex-shrink:0;">🧭</span>
-  <div>
-    <strong><a href="https://ezinternet.github.io/dentopedia/category-map">카테고리 지도 — 임상 동선 6단계로 보기</a></strong><br>
-    <span style="font-size:0.875em; color:var(--darkgray);">전 카테고리(<!-- CATEGORY_COUNT -->96<!-- /CATEGORY_COUNT -->개)를 진단 → 경조직수술 → 치주·약물 → 보존·근관 → 보철·임플란트 → 교정·특수 동선으로 묶은 탐색 지도.</span>
-  </div>
+## 시작점
+
+<div style="display:grid; grid-template-columns:repeat(auto-fit,minmax(220px,1fr)); gap:0.9rem; margin:1rem 0;">
+
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid var(--secondary); border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🧭</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">카테고리 지도</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);">전 카테고리(<!-- CATEGORY_COUNT -->96<!-- /CATEGORY_COUNT -->개)를 임상 동선 6단계로 묶은 탐색 지도.</span>
+  </a>
+
+  <a href="https://ezinternet.github.io/dentopedia/interactives/overviews-map.html" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid var(--secondary); border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🗺️</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">종합(Overview) 도메인 지도</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);"><!-- OVERVIEW_COUNT -->155<!-- /OVERVIEW_COUNT -->개 종합 페이지를 도메인별로 묶은 탐색기.</span>
+  </a>
+
+  <a href="https://ezinternet.github.io/dentopedia/interactives/" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid var(--secondary); border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🦷</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">Interactive Tools</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);">chairside 계산기·결정트리·시뮬레이터 <!-- INTERACTIVE_COUNT -->31<!-- /INTERACTIVE_COUNT -->편.</span>
+  </a>
+
 </div>
 
-## 🦷 Interactive Tools
+임상 동선 6단계로 바로 가기:
 
-chairside 계산기·의사결정 트리·시뮬레이터 **<!-- INTERACTIVE_COUNT -->31<!-- /INTERACTIVE_COUNT -->편** (ISQ·RFA 부하결정, 골밀도화, 약물 결정트리, 환자 설명가이드, 우식·침식 위험도 등) — wiki 근거에 연결된 자체완결 HTML 도구.
-
-[🦷 Interactive Tools 색인 열기 →](https://ezinternet.github.io/dentopedia/interactives/)
-
-(모든 페이지 하단 footer에도 링크 있음)
-
-## 🗺️ 종합(Overview) 도메인 지도
-
-108편의 종합(synthesis) 페이지를 임상 도메인별로 묶은 탐색기 — 카드를 누르면 펼쳐지고, 검색창으로 전 도메인을 가로질러 거를 수 있습니다. 제목을 누르면 해당 페이지로 이동. (새 overview가 추가되면 배포 빌드에서 자동 갱신.)
-
-<iframe src="https://ezinternet.github.io/dentopedia/interactives/overviews-map.html" title="Overviews 도메인 지도" loading="lazy" style="width:100%; height:640px; border:1px solid var(--lightgray); border-radius:12px; background:transparent;"></iframe>
+<div style="display:flex; flex-wrap:wrap; gap:0.4rem; margin:0.5rem 0 1rem;">
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">1 · 진단·근거</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">2 · 경조직수술·골재생</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">3 · 치주·약물·전신</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">4 · 보존·근관</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">5 · 보철·임플란트</a>
+  <a href="https://ezinternet.github.io/dentopedia/category-map" style="font-size:0.85em; text-decoration:none; border:1px solid var(--lightgray); border-radius:999px; padding:0.25rem 0.7rem; color:var(--darkgray);">6 · 교정·특수</a>
+</div>
 
 ## 탐색 방법
 
-- 좌측 **탐색기(Explorer)** — 카테고리 폴더 전체 트리
-- 상단 **검색(🔍)** — 전문(full-text) 검색
-- 우측 **그래프 뷰** — 페이지 간 연결 관계
-- 각 페이지 하단 **백링크(Backlinks)**
+좌측 **탐색기(Explorer)**(폴더 트리) · 상단 **검색(🔍)**(전문 검색) · 우측 **그래프 뷰**(연결 관계) · 각 페이지 하단 **백링크(Backlinks)**. 전 카테고리·전체 목록은 탐색기와 검색으로 진입하세요.
 
-## 카테고리 진입점
-
-- implants/, bone-regeneration/, immediate-implant/
-- sinus-lift/lateral/, sinus-lift/transcrestal/
-- endodontics/eal/, endodontics/irrigation/, endodontics/anatomy/, endodontics/vpt/
-- periodontics/, prosthetic-materials/, dental-materials/, resin/, resin-bonding/, inlay/
-- digital-workflow/, orthodontics/, drug/, oral-surgery/, oral-medicine/, tmj/, caries/
-- dental-erosion/, nccl/, oral-microbiology/, evidence-appraisal/
-- overviews/ — 종합(synthesis) 페이지
-
-좌측 탐색기에서 폴더로 진입.
-
-## 주요 종합 페이지
-
-- [[overviews/evidence-appraisal-toolkit]] — 근거 평가·통계방법론 통합
+<details style="margin:1rem 0;">
+<summary style="cursor:pointer; font-weight:600;">🗺️ 종합 도메인 지도 펼쳐보기 (클릭 시 로드)</summary>
+<p style="font-size:0.85em; color:var(--darkgray); margin:0.5rem 0;">종합(synthesis) 페이지를 임상 도메인별로 묶은 탐색기 — 카드를 누르면 펼쳐지고, 검색창으로 전 도메인을 가로질러 거를 수 있습니다. (새 overview가 추가되면 배포 빌드에서 자동 갱신.)</p>
+<iframe src="https://ezinternet.github.io/dentopedia/interactives/overviews-map.html" title="Overviews 도메인 지도" loading="lazy" style="width:100%; height:640px; border:1px solid var(--lightgray); border-radius:12px; background:transparent;"></iframe>
+</details>
 
 ## 전체 논문 카탈로그
 
