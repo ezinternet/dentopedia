@@ -4,7 +4,7 @@ title: "Drill Thermal Protocol Selector — Chairside"
 type: interactive
 date: 2026-05-27
 status: draft
-verified: 2026-06-27
+verified: 2026-06-29
 category: implant-placement
 agenda: agenda/2026-05-27_chairside-interactives-batch.md
 source_wiki:
@@ -14,6 +14,7 @@ source_wiki:
   - wiki/implants/sorgato-2025-drill-bit-wear-temperature.md
   - wiki/implants/saxena-2024-guided-implant-drilling-bone-temperature.md
   - wiki/implants/marzorati-2026-osseodensification-standard-osteotomy-torque-isq-sr-ma.md
+  - wiki/implants/versah-protocols/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo.md
   - wiki/implants/woods-2022-does-irrigating-while-drilling-decrease.md
   - wiki/implants/rugova-2024-thermal-evaluation-bone-drilling-sequential.md
   - wiki/implants/heuzeroth-2021-thermal-exposure-osteotomy-osseointegration.md
@@ -220,7 +221,7 @@ function calculate(e){
   else if (useRatio >= 0.4) score += 5;
 
   // Method
-  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
+  if (method === 'od') { score -= 10; refs.push('Marzorati 2026 SR-MA: OD가 standard 대비 thermal 유리'); refs.push('Soldatos 2024: OD bur 23회+ 재사용 + 800/1200 RPM 시 ΔT가 47°C 초과; 1000 RPM 최저 발열'); refs.push('de Lima 2026 ex vivo (Type IV, 1000rpm+관수): OD 최고온도 28–31°C로 conventional과 NS (p=0.087)·47°C 임계 한참 미만 — OD thermal 비열등 재확인'); if (use >= 23) { score += 10; flags.push('<span class="flag">OD bur 23회+ 재사용 — Soldatos 2024 47°C 초과 위험</span>'); } }
   else if (method === 'guided') { score += 8; flags.push('<span class="flag">Guided sleeve가 irrigation 방해 — Saxena 2024</span>'); refs.push('Saxena 2024: guided + sleeve heat dispersion 방해'); }
   else if (method === 'piezo') { score -= 5; refs.push('Jain 2024: piezo 통증·heat 저감'); }
 
