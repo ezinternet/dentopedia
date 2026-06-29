@@ -1404,6 +1404,7 @@ tags: []
 - [[inlay/prott-2025-partial-coverage-restorations-posterior-scoping]] — 구치부 부분 피개 수복물(인레이·온레이·엔도크라운) 생존율 스코핑 리뷰 — 세라믹 93–96%, 엔도크라운 92–95%.
 - [[inlay/angeletaki-2016-direct-vs-indirect-inlay-onlay-sr-ma]] — SR+MA(RCT 3편, J Dent 2016): 직접 vs 간접 레진 인레이/온레이 — 5년·11년 모두 실패율 유의차 없음; 온레이 5년 생존 87%
 - [[inlay/fan-2021-inlay-onlay-overlay-long-term-sr-ma]] — SR+MA(13편, Oper Dent 2021): 레진 5년 생존 91%, 세라믹 10년 85%; 이차우식/파절 주요 실패 원인
+- [[inlay/comba-2022-post-fatigue-fracture-resistance-lithium-disilicate]] — 인비트로(n=84 ETT 대구치): 오버레이(1.6mm)는 접착 크라운 대안으로 유효, 교합면 비니어는 ETT에서 파절강도 열위(p=0.042); LS가 PICN보다 정적 파절강도 우수(p=0.0002)
 
 
 ## 근관치료 — 충전·실러 (Endodontics: Obturation / Bioceramic Sealers)
