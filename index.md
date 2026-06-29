@@ -937,6 +937,7 @@ tags: []
 - [[veneers/sim-1993-porcelain-veneer-fit-fabrication-techniques]] — Sim & Ibbetson 1993 in-vitro: four-way marginal fit comparison — platinum foil > refractory die > cast ceramic 0.5 mm > 1.0 mm (Int J Prosthodont)
 - [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — El-Mowafy 2018 narrative review: porcelain veneer update — materials, indications, surface treatment, survival to 12 years (Dent Med Probl)
 - [[veneers/gonzalez-martin-2024-ultrathin-feldspathic-veneer-sem-etching]] — Gonzalez-Martin 2024 in-vitro pilot SEM: HF etching time for ultrathin feldspathic veneers — 120 s (platinum foil) vs 90 s (refractory die) optimal (Int J Periodontics Restorative Dent)
+- [[veneers/maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr]] — SR (in vitro 6편): CAD/CAM 레진 복합체와 리튬 디실리케이트 교합면 비니어의 파절저항성 동등 (1,018–3,584 N, 최대 교합력 초과), 피로저항성은 레진이 2편에서 우수
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/schenkel-2019-dental-cavity-liners-composite-restorations-sr]] — Schenkel 2019 · sr+ma · 라이너를 컴포지트 밑에 깔아도 술후 과민증·수명 개선 근거 없음(low-quality) → 라이너 통상 사용 적응증 약함 (DOI 10.1002/14651858.CD010526.pub3)
