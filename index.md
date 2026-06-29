@@ -2707,6 +2707,7 @@ tags: []
 
 #### behavioral-dentistry/patient-reported-outcomes — sinus lift PROM
 - [[behavioral-dentistry/patient-reported-outcomes/menini-2025-proms-sinus-lift-procedures-sr-ma]] — Menini 2025 · sr+ma (12 RCT+1): graftless·transcrestal이 grafted·lateral보다 술후 통증·불편감 적음 (abstract 기반·preprint, 수치 미검증)
+- [[behavioral-dentistry/patient-reported-outcomes/tonetti-2025-aesthetics-patient-reported-outcomes-consensus]] — Tonetti 2025 ERC, aesthetics & PROs in periodontology/implant dentistry consensus
 
 ### Overview (added 2026-06-10)
 - [[overviews/short-implant-vs-sinus-augmentation-decision]] — 위축 상악 구치부 short implant vs 상악동거상 의사결정 종합(SR/MA 6 + PROM 1): 생존 동등·short MBL 우위·이환 낮음 → RBH·C/I비·환자경험이 결정축, ≥5yr 근거는 thin·low-certainty
@@ -2862,6 +2863,7 @@ tags: []
 - [[implants/soft-tissue/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA (esthetic zone, linear+profilometric): grafting at immediate placement gains +0.34 mm recession & +0.66 mm thickness vs no graft [sr+ma]
 - [[implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
 - [[implants/soft-tissue/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
+- [[implants/soft-tissue/blaskovic-2021-peri-implant-soft-tissue-augmentation-review]] — Blašković 2021, book chapter: FGG/CTG/substitutes for peri-implant soft tissue augmentation
 - [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — da Silva 2025 · sr · 8편: 얇은·두꺼운 phenotype 모두 5년 성공률 >91%; phenotype은 peri-implantitis/MBL 경유 간접 영향, 얇은 형이 골소실 주요 위험인자 (DOI 10.1038/s41432-025-01114-x)
 
 ## Batch ingest (added 2026-06-15) — veneers & ceramic bonding overviews
@@ -2896,6 +2898,7 @@ tags: []
 - [[bone-regeneration/ridge-preservation/van-orten-2024-species-specific-collagen-dbbm-arp]] — van Orten 2024 prospective case series: species-specific collagen-enriched DBBM for ARP — first histological evaluation; Bioengineering [prospective]
 - [[bone-regeneration/idiri-2023-prf-xenograft-sinus-ridge-augmentation-sr]] — Idiri 2023 SR: PRF + bovine xenograft in sinus and ridge augmentation — no significant sinus histomorphometry benefit; possible ridge resorption reduction; JFB [sr]
 - [[bone-regeneration/kim-2025-serine-collagen-scaffold-degradation]] — Kim 2025 animal (mouse): L-serine incorporation slows collagen scaffold degradation 7× vs control; non-crosslinking degradation modulation; JFB [animal]
+- [[bone-regeneration/porczyk-2026-minimally-invasive-bone-regeneration-implant]] — Porczyk 2026, narrative review: minimally invasive bone regeneration (Bone Core, SPAL, IDR) indication-driven decision framework
 
 ### bone-regeneration — socket preservation / ARP clinical
 - [[bone-regeneration/ridge-preservation/kollati-2019-cerabone-prf-socket-preservation-rct]] — Kollati 2019 RCT: Cerabone (bovine HA) + PRF vs Cerabone alone — width loss 1.47 vs 2.75 mm; +8.7% bone fill at 6 mo; J Indian Soc Periodontol [rct]
@@ -2948,6 +2951,7 @@ tags: []
 - [[periodontics/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case]] — Hussein 2026 · case-report · 5 mm 치주낭 글라이신 치은연하 air polishing 후 안면 피하기종(SFE) 발생, 3일 입원·항생제 후 회복 (DOI 10.1111/idh.70083)
 - [[implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr]] — Brunello 2026 · sr · 비외과적 점막염 치료 SR 21편(RCT 19·NRCT 2, n=1068): 기계적 debridement 단독으로 BOP·임상지표 개선, 해소율 9~100%, 보조요법은 6개월 추가효과 미미, NMA 불가 (DOI 10.1111/prd.70047)
 - [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] — Eraydin-Tufek 2026 · rct · 비외과 5군 RCT(임플란트 80개), 글리신 에어아브레이전 포함 모든 방법 6개월 개선되나 군 간 유의차 없음 (DOI 10.1038/s41598-026-50332-5)
+- [[implants/peri-implantitis/su-2026-peri-implantitis-bone-defects-regenerative-strategies]] — Su 2026, narrative review: peri-implantitis bone defect mechanisms, diagnosis, and regenerative strategies
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — **NEW Overview**: 전문가 치면세균막관리(GBT·에어폴리싱·기계적 debridement) 종합 (12편). GBT/에어폴리싱은 편안함·시술시간·치질보존은 우수하나 PPD/CAL/BoP 임상지표는 SRP와 동등(Yein SR·Cyris·Stähli); 단 GCF IL-1β·GI·PI는 GBT 우위(Dönertaş); 분말은 에리스리톨(14µm) 선호(Pujarern·Ifrim); 임플란트도 PMPR 핵심·보조요법 미미(Brunello SR·Eraydın RCT·Mauriello); 치은연하 에어폴리싱 피하기종 위험(Hussein) (2026-06-21)
 
 ## 치아미백 (Tooth Whitening / Bleaching) — NEW category (added 2026-06-22, surveillance batch)
