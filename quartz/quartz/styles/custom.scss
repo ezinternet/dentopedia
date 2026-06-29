@@ -44,6 +44,16 @@
     background: var(--tertiary);
     transform: translateY(-1px);
   }
+}
+
+// ── index.md Interactive Tools 카드: hover → secondary (overviews 탭과 동일) ──
+// 카드는 인라인 background:var(--tertiary)이므로 위 규칙의 hover(tertiary)가 시각 변화 없음.
+// 전체 URL로 된 href만 골라 더 높은 명시도로 secondary hover를 적용.
+.center article a[href^="https"][href$="/interactives/"] {
+  &:hover {
+    background: var(--secondary) !important;
+    transform: none;
+  }
 
   // Quartz 가 external 링크에 붙이는 화살표 아이콘 숨김 (탭 모양 유지)
   & .external-icon {
