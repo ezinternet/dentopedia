@@ -943,6 +943,7 @@ tags: []
 - [[veneers/sasse-2015-restoration-thickness-bonding-surface-fracture]] — In-vitro (n=72): LDS 교합면 비니어 최소 두께 0.7–1.0 mm 권고, 얇은 두께에서는 상아질/레진 접착이 법랑질 단독보다 파절 저항성 유의하게 우수 (p≤0.05)
 - [[veneers/schlichting-2022-ultrathin-cadcam-occlusal-veneers-dental-erosion]] — RCT (n=11, 60개): 중증 침식증에 CAD-CAM 초박형 교합면 비니어 — 세라믹 100% vs 복합레진 84.7% 생존율 (P=.124 NS), 레진군 표면 열화 유의 (P=.003)
 - [[veneers/ferrando-cascales-2023-total-rehabilitation-adhesive-restorations-severe]] — 후향적 증례군 (8명, 212개 수복물, 60개월): 중증 치아마모(TWES 2–4) 접착성 전악 수복 생존율 90.1%; 교합면 비니어 79.1%, 순측 비니어 94.1%, 구개측 비니어 100%; 후방 위치가 주 위험인자 (p=0.008)
+- [[veneers/alghazzawi-2024-clinical-survival-rate-laboratory-failure-veneers]] — 서사적 문헌고찰(1999–2024): 비니어 실험실 파절·탈락·색변화 원인과 임상 생존율(>90%/10년) 연계; 최소삭제 유리도재 비니어 최우수
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/schenkel-2019-dental-cavity-liners-composite-restorations-sr]] — Schenkel 2019 · sr+ma · 라이너를 컴포지트 밑에 깔아도 술후 과민증·수명 개선 근거 없음(low-quality) → 라이너 통상 사용 적응증 약함 (DOI 10.1002/14651858.CD010526.pub3)
