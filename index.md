@@ -940,6 +940,7 @@ tags: []
 - [[veneers/maldonado-2024-cadcam-occlusal-veneers-fatigue-fracture-sr]] — SR (in vitro 6편): CAD/CAM 레진 복합체와 리튬 디실리케이트 교합면 비니어의 파절저항성 동등 (1,018–3,584 N, 최대 교합력 초과), 피로저항성은 레진이 2편에서 우수
 - [[veneers/komine-2024-clinical-performance-laminate-veneers-review]] — 내러티브 리뷰 (55개 임상연구): 라미네이트 비니어 (LV) 생존율 72–100%, 상아질 노출·이갈이·접착 프로토콜이 핵심 예후 인자; 지르코니아 LV 3년 이상 임상 데이터 없음
 - [[veneers/al-akhali-2017-fracture-resistance-ceramic-polymer-occlusal]] — 체외실험(n=64): LD·LS 교합 비니어가 PI·PMMA보다 파절저항 유의하게 높고, 4개 군 모두 120만 회 저작시뮬레이션 생존
+- [[veneers/sasse-2015-restoration-thickness-bonding-surface-fracture]] — In-vitro (n=72): LDS 교합면 비니어 최소 두께 0.7–1.0 mm 권고, 얇은 두께에서는 상아질/레진 접착이 법랑질 단독보다 파절 저항성 유의하게 우수 (p≤0.05)
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/schenkel-2019-dental-cavity-liners-composite-restorations-sr]] — Schenkel 2019 · sr+ma · 라이너를 컴포지트 밑에 깔아도 술후 과민증·수명 개선 근거 없음(low-quality) → 라이너 통상 사용 적응증 약함 (DOI 10.1002/14651858.CD010526.pub3)
