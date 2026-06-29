@@ -947,6 +947,7 @@ tags: []
 - [[veneers/mihali-2022-feldspathic-ceramic-veneers-retrospective-7year]] — 후향적 코호트 (170개 장석세라믹 비니어, 7년): 생존율 91.77%; 0.5 mm 두께군 파절 없음; 수직삭제 vs. 무삭제 생존곡선 유의차 없음 (p=0.247)
 - [[veneers/essam-2023-thickness-surface-conditioning-fracture-occlusal]] — In-vitro (n=42 대구치): 0.5 mm 리튬 디실리케이트 교합면 비니어 파절 하중 962–1277 N으로 교합력(400–800 N) 상회; Monobond etch & prime 최고 성능(1644.7 N@1 mm), HF 대안으로 권장 (APF+0.5 mm는 이갈이 환자 비권장)
 - [[veneers/kam-hepdeniz-2023-no-prep-indirect-composite-laminate]] — 전향적 증례 연구(n=80, 84개월): 무삭제 간접 복합레진 라미네이트 비니어 생존율 91.3%, 치아파절·이차 우식·대합치 마모 0건
+- [[veneers/el-sheikh-2024-laser-debonding-ultrathin-occlusal-veneers]] — Er;Cr:YSGG 레이저 탈접(Laser Debonding) in vitro: 탈접 시간 재료 간 동등(~87초, p=0.995), GC Initial LiSi 60% 파절·균열 vs. Emax·지르코니아 손상 0%
 
 ## 치과재료 (Dental Materials)
 - [[dental-materials/schenkel-2019-dental-cavity-liners-composite-restorations-sr]] — Schenkel 2019 · sr+ma · 라이너를 컴포지트 밑에 깔아도 술후 과민증·수명 개선 근거 없음(low-quality) → 라이너 통상 사용 적응증 약함 (DOI 10.1002/14651858.CD010526.pub3)
