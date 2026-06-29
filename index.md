@@ -997,6 +997,7 @@ tags: []
 - [[dental-materials/zirconia/bomicke-2026-ceramic-crowns-sleep-bruxism-rct]] — Bömicke 2026 · rct (J Dent, abstract-only): EMG로 확인한 수면 이갈이는 3년간 모놀리식 LiDi·지르코니아 대구치 단관 생존·성공률에 유의 영향 없음 (n=109, 합병증 0건) (DOI 10.1016/j.jdent.2026.106691)
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
+- [[dental-materials/alghauli-2025-clinical-complications-survival-rate-resin]] — 레진 매트릭스 세라믹(RMC; PICN·RNC) SR+MA (21편): 크라운 합병증 세라믹 대비 높음; 베니어·인레이는 리튬 디실리케이트와 동등; 생존율 수복물 유형 의존
 
 ## 글래스아이오노머 (Glass Ionomer)
 - [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — Sokolowski 2018 · in-vitro · 이온유리 수복재 10종 광탄성 응력 평가, Ionosit(컴포머) 최고 수분흡수·56일 후 팽창응력 (DOI 10.3390/polym10101093)
