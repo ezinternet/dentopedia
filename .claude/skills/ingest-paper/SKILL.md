@@ -23,6 +23,22 @@ How to honor the answer:
 
 Skip Step 0 only if the user already specified the model in their request.
 
+### Model routing — "추출이면 Sonnet, 종합·판단이면 Opus"
+
+The default above (Sonnet) is correct for the *extraction* bulk of ingest. But certain sub-steps are **high-judgment** and should escalate to **Opus** even inside a Sonnet ingest. The single test: *does the model have to reason across papers or make a clinical judgment, vs. just transcribe this one PDF?* (Full rationale: [agenda/2026-06-30_model-routing-ingest-overview.md](../../../agenda/2026-06-30_model-routing-ingest-overview.md).)
+
+| Sub-step | Default | Escalate to **Opus** when… |
+|---|---|---|
+| Text extraction, stem, copy, index, qmd, lint | Sonnet | never |
+| `sources/` + single-paper `wiki/` page (Step 5–6) | Sonnet | the paper sits on a **category boundary** (Step 4) |
+| Category choice (Step 4) | Sonnet | boundary case (e.g. `immediate-implant` vs `/esthetic-soft-tissue` vs `implants/soft-tissue`) — misclassification compounds |
+| `## Why Ingested` + `superseded_by` judgment (Step 6) | — | **always Opus-grade** — it is cross-paper reasoning, not transcription |
+| `wiki/overviews/` synthesis, 한국어 digest, Class-B clinical interactive | — | **always Opus** — never produce these on Sonnet |
+
+How to escalate in practice:
+- **Main session**: when you hit a boundary classification or a supersession judgment and you're on Sonnet, surface it — tell the user this sub-step wants Opus (`/model opus`), or note that you're handling just that judgment with extra care.
+- **Subagent ingest**: default the per-paper agent to `model: sonnet`. If the dispatcher already knows a paper is a boundary/supersession candidate, set *that paper's* agent to `model: opus`. Overviews are authored in a separate Opus session, never inside a fan-out.
+
 ---
 
 ## Workflow
@@ -105,6 +121,8 @@ Verify the copy succeeded.
 
 See [reference.md](reference.md) for the full category list. Choose the **single best category** based on the paper's primary method or procedure — not by disease or anatomy.
 
+> **Model note (Step 0 routing).** If the paper sits on a **category boundary** — two or more sibling folders plausibly fit (e.g. `immediate-implant` vs `immediate-implant/esthetic-soft-tissue` vs `implants/soft-tissue`) — this is a high-judgment call: escalate this decision to **Opus** rather than guessing on Sonnet. Misclassification silently corrupts the wiki's structure.
+
 ---
 
 ### Step 5 — Write `sources/{stem}.md`
@@ -154,6 +172,8 @@ Body sections (in order):
 6. `## Related Papers` — `[[category/stem]]` wikilinks with relationship description
 
 Confidence vocabulary — pick the single best label. See [reference.md](reference.md) → **Confidence Vocabulary**.
+
+> **Model note (Step 0 routing).** Two parts of this page are **cross-paper judgment, not transcription**, and want **Opus** even in a Sonnet ingest: (1) deciding whether this paper **supersedes an existing page** (`superseded_by` + banner — see CLAUDE.md § living-document supersession and memory [[supersession-judgment-at-ingest]]), and (2) writing the relationship prose / `relations:` edges that say *how* it relates to existing pages. Transcribing this paper's own results stays on Sonnet; judging it against the rest of the wiki escalates.
 
 ---
 
