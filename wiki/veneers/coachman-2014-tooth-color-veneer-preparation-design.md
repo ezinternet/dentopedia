@@ -18,22 +18,22 @@ relations:
 
 ## One-line Summary
 
-Case report introducing the "Do the Math" technique: an additive diagnostic wax-up transferred intraorally as an aesthetic pre-evaluative temporary (APT), with a per-region formula EV − LT = P (extra volume − laminate thickness = preparation) that computes the exact amount and location of tooth reduction needed for the desired final color and shape — preventing both over- and under-preparation.
+Case report introducing the "Do the Math" technique: an additive diagnostic wax-up transferred intraorally as an aesthetic pre-evaluative temporary (APT), with a per-region formula P = LT − EV (laminate thickness − extra volume = preparation) that computes the exact amount and location of tooth reduction needed for the desired final color and shape — preventing both over- and under-preparation.
 
 ## 한줄요약
 
-증례 보고: 부가형 진단 왁스업을 심미적 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)로 구강 내 전사하고, 부위별 수식(추가부피 EV − 라미네이트 두께 LT = 삭제량 P)으로 목표 색·형태에 필요한 정확한 삭제량·위치를 산출하는 "Do the Math" 기법 — 과삭제와 과소삭제를 동시에 막는다.
+증례 보고: 부가형 진단 왁스업을 심미적 사전평가 임시수복물(Aesthetic Pre-evaluative Temporary, APT)로 구강 내 전사하고, 부위별 수식(라미네이트 두께 LT − 추가부피 EV = 삭제량 P)으로 목표 색·형태에 필요한 정확한 삭제량·위치를 산출하는 "Do the Math" 기법 — 과삭제와 과소삭제를 동시에 막는다.
 
 ## Summary
 
 Coachman, Gürel, and colleagues (2014) present the **"Do the Math"** technique, a quantitative refinement of the aesthetic pre-evaluative temporary (APT) approach to laminate veneer preparation. They organize veneer preparation into three "generations": (1) the **depth-guide generation**, using preset-depth diamond burs directly on the tooth — standardized but non-individualized and often over-aggressive; (2) the **silicone-index generation**, using a diagnostic wax-up and silicone indexes to guide freehand preparation with repeated re-evaluation; and (3) the **mock-up / APT generation**, the authors' recommended method, in which the diagnostic wax-up is transferred intraorally as a bis-acrylic mock-up (APT) and the tooth is prepared *through* the APT rather than directly on enamel.
 
-The central insight is that **how much to reduce depends on the color gap between the remaining substrate and the target shade, and on the ceramic's thickness/translucency** — not on the tooth alone. This is captured in the formula **EV − LT = P**: extra volume added by the mock-up (EV) minus the laminate thickness needed for the desired color (LT) equals the amount of preparation (P). Applied per tooth region (cervical, middle, incisal thirds, and interproximal), it indicates exactly where and how much to cut — and where to cut nothing. In the illustrative case (A2→A1 change), the middle and incisal thirds required zero reduction (enamel untouched), and the final lithium disilicate veneers were ~0.3 mm thick. The method conceptually refines Gürel's APT philosophy by making "the more volume added, the more conservative the prep" computable rather than purely visual.
+The central insight is that **how much to reduce depends on the color gap between the remaining substrate and the target shade, and on the ceramic's thickness/translucency** — not on the tooth alone. This is captured in the formula **P = LT − EV** (clamped at 0): the laminate thickness needed for the desired color (LT) minus the extra volume added by the mock-up (EV) equals the amount of preparation (P); when EV ≥ LT the result is zero (no reduction — the added volume alone provides the ceramic space). Applied per tooth region (cervical, middle, incisal thirds, and interproximal), it indicates exactly where and how much to cut — and where to cut nothing. In the illustrative case (A2→A1 change), the middle and incisal thirds required zero reduction (enamel untouched), and the final lithium disilicate veneers were ~0.3 mm thick. The method conceptually refines Gürel's APT philosophy by making "the more volume added, the more conservative the prep" computable rather than purely visual.
 
 ## Key Contributions
 
 - **Three-generation taxonomy** of veneer preparation: depth-guide → silicone-index → mock-up/APT.
-- **EV − LT = P formula** ties preparation depth to the substrate-vs-target color difference and required ceramic thickness, applied region-by-region.
+- **P = LT − EV formula** ties preparation depth to the substrate-vs-target color difference and required ceramic thickness, applied region-by-region.
 - **Enamel-preservation principle made quantitative**: the more volume added on the additive mock-up, the smaller (often zero) the preparation — preparation can occur entirely within the mock-up, never touching enamel.
 - **Color-driven thickness rule of thumb**: 1–2 shade-tone change → thin ~0.3 mm laminate; ≥3 tones → more invasive prep; markedly dark substrate → intrasulcular margin extension to hide the color transition.
 - Embeds the technique in a **Digital Smile Design (DSD) + Visagism** planning workflow with the APT as both an esthetic "test drive" and the physical preparation guide.
@@ -63,7 +63,7 @@ Per-region calculation for the case (A2 → A1), from the paper's Table 1:
 
 ## Related Papers
 
-- [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — refines the minimal-prep concept with a concrete decision rule (EV − LT = P) for *how much/where* to reduce, complementing the SR's *whether* minimal prep performs as well
+- [[veneers/ali-2023-conventional-minimally-invasive-veneers-sr]] — refines the minimal-prep concept with a concrete decision rule (P = LT − EV) for *how much/where* to reduce, complementing the SR's *whether* minimal prep performs as well
 - [[veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations]] — no-prep vs conventional clinical considerations; the "Do the Math" additive logic explains when P collapses to zero (true no-prep)
 - [[veneers/komine-2024-clinical-performance-laminate-veneers-review]] — clinical performance review of laminate veneers; longevity context for the APT/enamel-preservation rationale
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — resin cement shade and ceramic translucency affect the LT term (thickness needed for a given color change)
