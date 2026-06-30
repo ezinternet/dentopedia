@@ -61,6 +61,7 @@ output_wiki: []
 
 - 2026-06-30: **"추출 vs 종합"** 한 축으로 라우팅 고정. "newer ≠ better"와 동일 철학 — 비싼 모델을 전부에 쓰지 않고 판단이 가치를 만드는 지점에만 투입.
 - 기존 스킬 Step 0은 "Sonnet 최고등급 vs 현재 모델" 2지선다였음 → 여기에 **escalation 트리거**(경계 카테고리·supersession 후보·overview·한국어 digest·임상 interactive)를 3번째 분기로 추가.
+- 2026-06-30: **누락 방지 — Step 3.5(Related-page & supersession lookup) 신설.** escalation 트리거를 Sonnet의 자발적 기억에 의존하면 supersession을 조용히 놓침(탐지기=작업자 사각지대). DOI grep + qmd 관련페이지 검색을 **모델 무관 기계 단계**로 박아, 관련/대체 후보를 *데이터로* 띄운 뒤 escalation을 트리거하도록 변경.
 
 # References
 
