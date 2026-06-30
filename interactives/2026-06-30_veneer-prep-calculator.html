@@ -1,0 +1,264 @@
+<!--
+---
+title: "비니어 삭제량 계산기 — Do-the-Math (P = LT − EV) chairside 도구"
+type: interactive
+date: 2026-06-30
+status: done
+category: veneers
+agenda: agenda/2026-06-30_veneer-prep-calculator.md
+source_wiki:
+  - wiki/overviews/veneer-preparation-design-minimally-invasive-overview.md
+  - wiki/veneers/coachman-2014-tooth-color-veneer-preparation-design.md
+  - wiki/veneers/gurel-2007-porcelain-laminate-veneers-minimal-preparation.md
+  - wiki/veneers/cattoni-2016-3d-digital-smile-planning-mockups.md
+  - wiki/veneers/chandode-2026-no-preparation-conventional-veneers-clinical-considerations.md
+  - wiki/veneers/ali-2023-conventional-minimally-invasive-veneers-sr.md
+  - wiki/veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review.md
+tags: [veneer, preparation, do-the-math, chairside-calculator, minimally-invasive, enamel-preservation]
+notes: |
+  Class B 임상 결정 도구 — 수치는 Coachman 2014 Table 1 + 본문에서 추출. 자동 재작성 금지(Rule #1), staleness 신호만.
+  핵심 수식 P = max(0, LT − EV). EV는 술자가 진단 왁스업/목업에서 caliper로 실측해 입력.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>비니어 삭제량 계산기 — Do the Math (P = LT − EV)</title>
+<style>
+  :root{
+    --bg:#f6f8fa; --surface:#fff; --surface2:#eaeef2; --border:#d0d7de;
+    --text:#1f2328; --muted:#656d76; --accent:#0969da; --green:#1a7f37;
+    --amber:#9a6700; --amber-bg:#fff8c5; --red:#cf222e; --red-bg:#ffebe9;
+    --green-bg:#dafbe1; --blue-bg:#ddf4ff;
+    --radius:10px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.55;padding:18px 14px 60px}
+  .wrap{max-width:860px;margin:0 auto}
+  h1{font-size:1.45rem;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:.9rem;margin:0 0 18px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:16px 18px;margin-bottom:16px}
+  h2{font-size:1.05rem;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  .step{background:var(--accent);color:#fff;border-radius:50%;width:22px;height:22px;
+    display:inline-flex;align-items:center;justify-content:center;font-size:.8rem;font-weight:700;flex:0 0 auto}
+  label{font-size:.86rem;color:var(--muted)}
+  .tones{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:8px;margin-top:6px}
+  .tone{border:1.5px solid var(--border);border-radius:8px;padding:10px;cursor:pointer;background:var(--surface);
+    transition:.12s;font-size:.85rem}
+  .tone:hover{border-color:var(--accent)}
+  .tone.active{border-color:var(--accent);background:var(--blue-bg);box-shadow:0 0 0 1px var(--accent)}
+  .tone b{display:block;font-size:.92rem;color:var(--text);margin-bottom:2px}
+  .tone span{color:var(--muted);font-size:.78rem}
+  table{width:100%;border-collapse:collapse;font-size:.88rem;margin-top:4px}
+  th,td{padding:8px 6px;text-align:center;border-bottom:1px solid var(--border)}
+  th{font-size:.78rem;color:var(--muted);font-weight:600}
+  td:first-child,th:first-child{text-align:left}
+  input[type=number]{width:64px;padding:5px 6px;border:1px solid var(--border);border-radius:6px;
+    font-size:.9rem;text-align:center;background:var(--surface);color:var(--text)}
+  input[type=number]:focus{outline:2px solid var(--accent);border-color:var(--accent)}
+  .pcell{font-weight:700;font-size:.95rem}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:.74rem;font-weight:600;white-space:nowrap}
+  .b-noprep{background:var(--green-bg);color:var(--green)}
+  .b-min{background:var(--blue-bg);color:var(--accent)}
+  .b-mod{background:var(--amber-bg);color:var(--amber)}
+  .b-deep{background:var(--red-bg);color:var(--red)}
+  .banner{border-radius:8px;padding:12px 14px;font-size:.86rem;margin-top:10px;border:1px solid}
+  .banner.red{background:var(--red-bg);border-color:#ff818266}
+  .banner.amber{background:var(--amber-bg);border-color:#d4a72c66}
+  .banner.green{background:var(--green-bg);border-color:#4ac26b66}
+  .banner b{font-weight:700}
+  .chk{display:flex;align-items:flex-start;gap:9px;padding:7px 0;font-size:.88rem;cursor:pointer}
+  .chk input{margin-top:3px;flex:0 0 auto;width:16px;height:16px}
+  .chk span small{color:var(--muted);display:block;font-size:.76rem}
+  .summary{font-size:.95rem}
+  .summary .big{font-size:1.3rem;font-weight:700}
+  .row-flex{display:flex;flex-wrap:wrap;gap:14px;align-items:center}
+  .cite{font-size:.76rem;color:var(--muted);margin-top:8px}
+  .cite b{color:var(--text)}
+  .reset{background:var(--surface2);border:1px solid var(--border);border-radius:6px;padding:6px 12px;
+    font-size:.82rem;cursor:pointer;color:var(--text)}
+  .reset:hover{background:var(--border)}
+  .ev-note{font-size:.78rem;color:var(--muted);margin:2px 0 0}
+  details{margin-top:6px;font-size:.84rem}
+  summary{cursor:pointer;color:var(--accent);font-weight:600}
+  .hl{background:#fff8c5;padding:0 3px;border-radius:3px}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>비니어 삭제량 계산기 — “Do the Math”</h1>
+  <p class="sub">목업/APT를 관통해 삭제 · 부위별 <b>P = max(0, LT − EV)</b> · 법랑질 보존 의사결정 보조 (Coachman 2014, Gürel 2007)</p>
+
+  <!-- STEP 1: color change -->
+  <div class="card">
+    <h2><span class="step">1</span> 목표 색 변화 (shade tone) 선택</h2>
+    <label>현재 기질색 → 목표색의 차이. 색 차이가 클수록 마스킹에 필요한 도재 두께(LT)↑ → 삭제(P)↑.</label>
+    <div class="tones" id="tones"></div>
+    <p class="cite">규칙 출처: <b>Coachman 2014</b> — 1–2 tone 변화 → 박형 ~0.3mm 라미네이트; ≥3 tone 또는 현저한 변색 → 더 두꺼운 도재 + intrasulcular 변연으로 색 전이 은폐. “더 어두운 치아 = 더 많은 삭제”의 근거.</p>
+  </div>
+
+  <!-- STEP 2: per-region -->
+  <div class="card">
+    <h2><span class="step">2</span> 부위별 추가부피(EV) 입력 → 삭제량(P) 산출</h2>
+    <p class="ev-note"><b>EV</b> = 부가형 진단 왁스업/목업이 원래 치아 표면 밖으로 더한 부피(mm). 술자가 caliper/실리콘 인덱스 단면으로 <span class="hl">실측</span>해 입력. <b>LT</b> = 목표색에 필요한 라미네이트 두께(색 선택 시 자동 채움, 수정 가능).</p>
+    <table>
+      <thead><tr><th>부위</th><th>EV (mm)</th><th>LT (mm)</th><th>P = max(0, LT−EV)</th><th>판정 / 버</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <button class="reset" id="reset">증례(A2→A1) 기본값으로 초기화</button>
+    <details>
+      <summary>수식 설명</summary>
+      목업면(=환자 승인 최종 윤곽)에서 보철 안쪽면까지 거리가 도재 두께 <b>LT</b>. 목업면에서 원래 치아까지가 추가부피 <b>EV</b>. 따라서 <b>LT = EV + P</b> → <b>P = LT − EV</b>. EV ≥ LT이면 추가부피만으로 도재 공간이 확보되어 <b>삭제 0</b>(법랑질 무손상). 음수는 0으로 클램프. (Coachman 2014 Table 1 재현)
+    </details>
+  </div>
+
+  <!-- STEP 3: no-prep contraindication -->
+  <div class="card">
+    <h2><span class="step">3</span> 무삭제(No-Prep) 금기 체크</h2>
+    <label>해당 시 진정한 무삭제는 부적응 — 부피 부가만으론 해결 안 되며 overcontour 위험. 삭제 또는 교정 선행 고려.</label>
+    <div id="contra"></div>
+    <div class="banner amber" id="contraBanner" style="display:none"></div>
+    <p class="cite">출처: <b>Chandode 2026</b> — 무삭제 금기 = 내인성 변색·부정정렬·큰 형태 수정. 무삭제·통상 모두 91–100% 생존(법랑질 본딩 시 무삭제 성공률 ≤97.4%)이나 적응증이 갈림(경쟁 아닌 상호보완).</p>
+  </div>
+
+  <!-- OUTPUT -->
+  <div class="card">
+    <h2>📋 결과 요약</h2>
+    <div class="summary" id="summary"></div>
+    <div class="banner red"><b>⚠ 비협상 원칙 — 법랑질 한정 변연.</b> 모든 변연을 법랑질에 두십시오. 상아질 변연 노출 시 실패율 <b>약 10배</b>(El-Mowafy 2018, Gürel 580 비니어 12년). 계산된 P가 법랑질 두께를 초과하거나 변연이 상아질에 떨어지면 — 제약이 아니라 <b>디자인(목업 부피·변연 위치·재료)을 바꾸십시오</b>.</div>
+    <div class="banner green">최소삭제(MPV 0.2–0.5mm)는 전통삭제(CV 0.3–1.0mm) 대비 생존 <b>동등 이상</b>(Ali 2023, SR 4편). 초박형 contact-lens형은 마취·임시치 불필요. 단 비교 RCT는 아직 없음.</div>
+  </div>
+
+  <p class="cite" style="text-align:center">
+    근거: <b>veneer-preparation-design-minimally-invasive-overview</b> · Coachman 2014 (DOI 10.11607/prd.1900) · Gürel 2007 · Cattoni 2016 · Chandode 2026 · Ali 2023 · El-Mowafy 2018 ·
+    이 도구는 임상 판단 보조이며 개별 환자 진단을 대체하지 않습니다.
+  </p>
+</div>
+
+<script>
+// ---- color tone presets → recommended LT for the three buccal thirds ----
+const TONES = [
+  {id:'shape', label:'색 변화 없음', desc:'형태만 수정 (동일 shade)', lt:0.3, intrasulcular:false},
+  {id:'1-2',   label:'1–2 tone', desc:'예: A2→A1, 경미한 밝힘', lt:0.3, intrasulcular:false},
+  {id:'3',     label:'≥3 tone', desc:'뚜렷한 색 변화', lt:0.5, intrasulcular:true},
+  {id:'dark',  label:'현저한 변색', desc:'테트라사이클린·실활치 등', lt:0.7, intrasulcular:true},
+];
+// ---- regions; EV/LT defaults reproduce Coachman 2014 Table 1 (A2→A1, 1-2 tone) ----
+const REGIONS = [
+  {id:'cer', name:'치경 1/3 (cervical)',  ev:0.2, lt:0.3, buccal:true},
+  {id:'mid', name:'중앙 1/3 (middle)',    ev:0.4, lt:0.3, buccal:true},
+  {id:'inc', name:'절단 1/3 (incisal)',   ev:0.6, lt:0.5, buccal:true},
+  {id:'ipr', name:'인접면 (interproximal)',ev:0.2, lt:0.5, buccal:false},
+  {id:'edge',name:'절단연 (incisal edge)', ev:1.0, lt:1.2, buccal:false},
+];
+const DEFAULTS = JSON.parse(JSON.stringify(REGIONS));
+const CONTRA = [
+  {id:'discolor', t:'내인성 변색', s:'테트라사이클린·실활치·불소증 — 마스킹에 두꺼운 도재 필요'},
+  {id:'malalign', t:'부정정렬 / 회전', s:'치아 위치 이동 필요 — 부가만으론 overcontour'},
+  {id:'morph',    t:'큰 형태 수정', s:'대폭 형태·길이 변경 — 무삭제 부적응'},
+];
+
+let selectedTone = '1-2';
+
+const $ = s => document.querySelector(s);
+
+function buildTones(){
+  $('#tones').innerHTML = TONES.map(t=>`
+    <div class="tone ${t.id===selectedTone?'active':''}" data-id="${t.id}">
+      <b>${t.label}</b><span>${t.desc}<br>권장 LT(협면) ~${t.lt}mm${t.intrasulcular?' · intrasulcular 변연':''}</span>
+    </div>`).join('');
+  document.querySelectorAll('.tone').forEach(el=>el.onclick=()=>{
+    selectedTone = el.dataset.id;
+    const tone = TONES.find(t=>t.id===selectedTone);
+    // apply preset LT to buccal thirds only
+    REGIONS.forEach(r=>{ if(r.buccal) r.lt = tone.lt; });
+    buildTones(); buildRows(); compute();
+  });
+}
+
+function badge(p){
+  if(p<=0)   return ['b-noprep','0mm 무삭제 · 법랑질 무손상'];
+  if(p<=0.3) return ['b-min','삭제 '+p.toFixed(2)+'mm · 0.3mm 버'];
+  if(p<=0.5) return ['b-mod','삭제 '+p.toFixed(2)+'mm · 0.5mm 버'];
+  return ['b-deep','삭제 '+p.toFixed(2)+'mm · 0.7mm 버'];
+}
+
+function buildRows(){
+  $('#rows').innerHTML = REGIONS.map((r,i)=>`
+    <tr>
+      <td>${r.name}</td>
+      <td><input type="number" step="0.05" min="0" value="${r.ev}" data-i="${i}" data-k="ev"></td>
+      <td><input type="number" step="0.05" min="0" value="${r.lt}" data-i="${i}" data-k="lt"></td>
+      <td class="pcell" id="p-${r.id}"></td>
+      <td id="bd-${r.id}"></td>
+    </tr>`).join('');
+  document.querySelectorAll('#rows input').forEach(inp=>inp.oninput=()=>{
+    REGIONS[+inp.dataset.i][inp.dataset.k] = parseFloat(inp.value)||0;
+    compute();
+  });
+}
+
+function buildContra(){
+  $('#contra').innerHTML = CONTRA.map(c=>`
+    <label class="chk"><input type="checkbox" data-id="${c.id}">
+      <span>${c.t}<small>${c.s}</small></span></label>`).join('');
+  document.querySelectorAll('#contra input').forEach(c=>c.onchange=compute);
+}
+
+function compute(){
+  let maxP=0, noPrepCount=0;
+  REGIONS.forEach(r=>{
+    const p = Math.max(0, r.lt - r.ev);
+    maxP = Math.max(maxP, p);
+    if(p<=0) noPrepCount++;
+    const [cls,txt] = badge(p);
+    $('#p-'+r.id).textContent = p<=0 ? '0' : p.toFixed(2);
+    $('#bd-'+r.id).innerHTML = `<span class="badge ${cls}">${txt}</span>`;
+  });
+
+  // contraindications
+  const checked = [...document.querySelectorAll('#contra input:checked')].map(c=>c.dataset.id);
+  const cb = $('#contraBanner');
+  if(checked.length){
+    const names = checked.map(id=>CONTRA.find(c=>c.id===id).t).join(', ');
+    cb.style.display='block';
+    cb.innerHTML = `<b>⚠ 무삭제 부적응:</b> ${names}. 진정한 무삭제(P=0)는 권장되지 않음 — 색 마스킹·치축 보정을 위해 삭제 또는 교정 선행을 고려하십시오. (Chandode 2026)`;
+  } else cb.style.display='none';
+
+  // tone intrasulcular flag
+  const tone = TONES.find(t=>t.id===selectedTone);
+  const sulc = tone.intrasulcular
+    ? `<div class="banner amber" style="margin-top:8px"><b>색 전이 은폐:</b> ${tone.label} → <b>intrasulcular(치은연하) 변연</b> 연장 권장. 단 법랑질이 있는 한도 내에서. (Coachman 2014)</div>` : '';
+
+  // overall classification
+  let verdict, vcls;
+  if(maxP<=0){ verdict='진정한 무삭제 (No-Prep) 가능 — 전 부위 법랑질 무손상'; vcls='green'; }
+  else if(maxP<=0.3){ verdict='최소삭제 (Minimal-Prep) — 전 부위 ≤0.3mm, 법랑질 내'; vcls='green'; }
+  else if(maxP<=0.5){ verdict='박형 삭제 (MPV 범위 0.2–0.5mm)'; vcls=''; }
+  else { verdict='중등도 삭제 — 0.5mm 초과, 법랑질 두께·변연 위치 재확인 필수'; vcls='amber'; }
+
+  $('#summary').innerHTML = `
+    <div class="row-flex">
+      <div><label>최대 삭제 부위 P</label><div class="big">${maxP<=0?'0':maxP.toFixed(2)} mm</div></div>
+      <div><label>무삭제(0mm) 부위 수</label><div class="big">${noPrepCount} / ${REGIONS.length}</div></div>
+      <div><label>목표 색 변화</label><div class="big">${tone.label}</div></div>
+    </div>
+    <div class="banner ${vcls||'green'}" style="margin-top:10px"><b>종합:</b> ${verdict}.</div>
+    ${sulc}`;
+}
+
+buildTones(); buildRows(); buildContra();
+$('#reset').onclick=()=>{
+  REGIONS.forEach((r,i)=>{ r.ev=DEFAULTS[i].ev; r.lt=DEFAULTS[i].lt; });
+  selectedTone='1-2';
+  buildTones(); buildRows(); compute();
+};
+compute();
+</script>
+</body>
+</html>
