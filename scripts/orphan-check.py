@@ -51,13 +51,16 @@ def main():
         if f.endswith(".md")
     }
 
-    # CI short-circuit: PDFs are gitignored, so papers/ is empty in CI
-    # checkouts. Refuse to flag every source file as orphaned in that case.
-    if os.getenv("CI") and not pdfs:
+    # CI short-circuit: PDFs are gitignored — only .txt pubmed-text files are
+    # tracked. This means CI can never see all papers/, making the 1:1 check
+    # impossible. Short-circuit unconditionally in CI; the local check enforces
+    # the invariant. (Old condition `and not pdfs` broke when .txt files were
+    # first tracked: pdfs became non-empty but still incomplete.)
+    if os.getenv("CI"):
         print(
-            f"ℹ️   CI environment detected — papers/ is empty (gitignored). "
-            f"Skipping 1:1 check. ({len(srcs)} sources present.) "
-            f"Run locally to verify papers↔sources match."
+            f"ℹ️   CI environment detected — PDFs are gitignored; only "
+            f"{len(pdfs)} .txt artifacts tracked vs {len(srcs)} sources. "
+            f"Skipping 1:1 check. Run locally to verify papers↔sources match."
         )
         return
 
