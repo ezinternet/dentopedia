@@ -117,6 +117,37 @@ Verify the copy succeeded.
 
 ---
 
+### Step 3.5 — Related-page & supersession lookup (mechanical — runs on EVERY model)
+
+The MD5 check in Step 2 only catches a byte-identical file. It does **not** catch the same paper under a different stem, and it does **not** surface the existing pages this paper might **overturn**. Those are the two things a Sonnet ingest silently misses — because nothing put them in front of it. This step fixes that by turning the lookup into **data, not judgment**: run it on every ingest, whatever the model.
+
+**(a) Same-DOI cross-stem duplicate** — grep the DOI extracted in Step 2 across `sources/`:
+
+```bash
+# Replace <DOI> with the DOI from Step 2 (skip if DOI is unknown).
+grep -rl "<DOI>" sources/ 2>/dev/null
+```
+
+- **Match found** → this paper is already in the wiki under another stem. **Do NOT create a second page.** Stop, tell the user the matching stem, and *update the existing page* instead. Delete the just-copied PDF (it's an orphan).
+- No match → continue.
+
+**(b) Related / superseded pages** — semantic lookup of what we already hold on this topic:
+
+```bash
+export PATH="/opt/homebrew/bin:$PATH"   # brew node — qmd ABI
+cd /Users/oracleneo/llm-wiki
+qmd query "<paper topic in 5-8 words>" -c wiki 2>/dev/null | head -8
+```
+
+Read the top hits and ask, explicitly, two questions:
+
+1. **Boundary check** → do the hits cluster in a *different* category than you were about to pick? If so, treat Step 4 as a boundary case (escalate the classification to Opus).
+2. **Supersession check** → does this new paper **overturn the clinical bottom line** of any hit we hold (higher evidence weight, or newer + same weight)? If plausibly yes, this is a **supersession judgment** → escalate to **Opus**, and on confirmation mark the *older* page's `superseded_by` + banner (CLAUDE.md § living-document supersession; memory [[supersession-judgment-at-ingest]]).
+
+If qmd is down, fall back to a BM25 search (`qmd search "<author/device/term>" -c wiki`) or `grep -ri "<key term>" wiki/`. The point is that *some* mechanical lookup always runs — the escalation triggers must never depend on the model spontaneously remembering a related page exists.
+
+---
+
 ### Step 4 — Determine category
 
 See [reference.md](reference.md) for the full category list. Choose the **single best category** based on the paper's primary method or procedure — not by disease or anatomy.
