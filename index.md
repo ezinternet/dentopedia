@@ -1484,6 +1484,7 @@ tags: []
 - [[bone-biology/tokavanich-2025-control-alveolar-bone-development]] — In vivo 마우스 + scRNA-seq(JBMR 2025, MGH/Harvard Wein lab): SIK2/SIK3(PTH/PTHrP 하류 kinase) 조건 결손 — 치조골 osteoblast 성숙·BV/TV·발치와 치유 모두 저하; 치조골 osteoblast가 long bone osteoblast와 다른 cluster임을 scRNA-seq로 입증. SIK 억제제·intermittent PTH가 ARP 약리 보조 후보가 될 preclinical rationale.
 
 ## 종합 (Overviews)
+- [[overviews/veneer-preparation-design-minimally-invasive-overview]] — Synthesis 2026-06-30 (6편): 라미네이트 비니어 삭제 디자인 종합 — "설계에 의한 최소삭제(prep by design)" 패러다임. 목업/APT를 *관통하여* 삭제(삭제량은 최종 보철 형태 기준), 삭제량은 기질-목표색 차이로 정량화(Coachman EV−LT=P, 중앙·절단 1/3 0mm 가능); 3세대(depth-guide→silicone-index→목업/APT) + 아날로그(Gürel 2007)→색수식(Coachman 2014)→디지털 3D-DSP(Cattoni 2016) 진화; 생존검증(Ali 2023 MPV≥CV·Reis 2025 12년·Chandode 2026 무삭제 적응증·Albanesi 2016 절단연피개 무관); 비협상 전제=법랑질 한정 변연(상아질 노출 ~10× 실패)
 - [[overviews/guided-robotic-accuracy-immediate-implant-overview]] — Synthesis 2026-06-28: 즉시식립 가이드·로봇 정확도(CAIS) — static/dynamic/robotic 모두 freehand 대비 각도·platform·apex 편차 우월; "robotic>dynamic"은 가설수준(CINeMA LOW, RCT 부재), 빈 발치와가 freehand 드릴을 밀어내 가이드 이득이 healed보다 큼
 - [[overviews/immediate-vs-delayed-ridge-preservation-timing-overview]] — Synthesis 2026-06-28: 식립시점(즉시/조기/지연)·IIP vs ARP — 생존율은 시점 무관(Patel 2023 RR 0.99), 그래서 MBL·합병증·심미 trade-off와 IIP-vs-ARP 분기(Fan 2024)가 결정 구동; ITI Type 1–4 틀 + 협측벽·biotype·감염 modifier
 - [[overviews/immediate-implant-esthetic-soft-tissue-overview]] — Synthesis 2026-06-28: 심미존 즉시식립 연조직 — 생존은 거의 보편적이나 성공은 중안면 퇴축이 좌우; 위험인자(얇은 협측벽·biotype·협측 shoulder 위치)와 레버(구개측 위치·gap graft·CTG·즉시 임시보철) 5개 결정노드
