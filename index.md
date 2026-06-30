@@ -2526,6 +2526,7 @@ tags: []
 - [[digital-workflow/revilla-leon-2025-tooth-preparation-factors-ios-accuracy-sr]] — Revilla-León 2025 · sr · 39편: 단순형태·큰 TOC·해부학적 교합삭제·치은연상/chamfer 변연·넓은 치간이 구강스캐너(IOS) 정확도↑; foundation 수복·치근단 변연은 저하 (DOI J Prosthet Dent 2025;134(5):1555.e1)
 - [[digital-workflow/sadid-zadeh-2020-teeth-prepared-students-cadcam]] — Sadid-Zadeh 2020 · cross-sectional · 학생 typodont 삭제 334개 rubric 평가: finish line 품질 오류 최다(223개 중 136개) (DOI 10.21815/JDE.019.178)
 - [[digital-workflow/han-2023-software-automated-tooth-preparation-evaluation]] — Han 2023 · in-vitro · 대구치 35개: 계산기하 알고리즘 자동 삭제평가(SAE)가 완벽한 검사자내 일치, 사람평가(DAE) 중등도~양호 대비 우수 (DOI 10.1038/s41598-023-39089-3)
+- [[digital-workflow/monaco-2016-fully-digital-peri-implant-emergence]] — 구강 내 스캐너 두 번 스캔 STL 중첩(FDT)으로 임플란트 주위 점막 형태·출현 프로파일을 완전 디지털 복제하는 기법 소개 (Monaco 2016)
 
 #### implants — zirconia implants
 - [[implants/mohseni-2024-clinical-outcomes-zirconia-implants]] — Mohseni 2024 · sr+ma (25편·4017 implants): 지르코니아 임플란트 10년 누적생존 95.1%, 단기 MBL 낮음; 2-piece·드릴가공·협폭경·단종제품 생존 불리
@@ -2867,6 +2868,10 @@ tags: []
 
 ### immediate-implant — soft tissue augmentation
 - [[immediate-implant/esthetic-soft-tissue/de-angelis-2021-soft-tissue-augmentation-immediate-implant-sr-ma]] — SR+MA (7 studies, n=272): SCTG at immediate implant placement+provisionalization reduces buccal recession (WMD 0.54 mm), increases soft-tissue thickness (WMD 0.79 mm) & reduces MBL (WMD 0.13 mm) at 12 mo [sr+ma]
+- [[immediate-implant/esthetic-soft-tissue/li-2019-dynamic-peri-implant-soft-tissue-scan]] — 임시보철물 제거 후 출현 윤곽 불일치(EPD)가 즉시·대수적으로 증가하고 유두 높이는 안정적임을 정량화한 전향적 임상연구
+- [[immediate-implant/esthetic-soft-tissue/ruales-carrera-2019-peri-implant-tissue-customized-healing]] — 즉시 임플란트 식립 후 맞춤형 치유 지대주(CHA)로 연조직 외형 보존, 임시 보철·재개방 수술 생략 (케이스 시리즈, 2019)
+- [[immediate-implant/esthetic-soft-tissue/gomez-meda-2021-esthetic-biological-contour-emergence-profile]] — EBC(심미적 생물학적 윤곽) 개념: 임플란트 출현 윤곽을 4구역으로 구분하고 각 구역별 디자인 원칙 제시 (Gomez-Meda 2021)
+- [[immediate-implant/esthetic-soft-tissue/azpiazu-flores-2025-peri-implant-tissue-3d-printed]] — 3D 프린팅 출현 형태 형성체로 임플란트 주위 연조직 형성 및 IOS 등록 단순화 (증례 보고)
 - [[immediate-implant/atieh-2025-pre-extractive-vs-postextractive-immediate-molar]] — SR+MA, 4 RCTs, n=82; pre-extractive inter-radicular site prep for mandibular molar IIP: higher ISQ at placement (MD +3.39, p<.0001), better central positioning (RR 0.05); ISQ advantage lost by 3–6 months; low certainty evidence (Atieh 2025)
 
 ## Batch ingest (added 2026-06-14, batch d) — peri-implant soft-tissue augmentation efficacy SR/MAs
@@ -2879,6 +2884,7 @@ tags: []
 - [[implants/soft-tissue/bassetti-2016-soft-tissue-augmentation-second-stage-sr]] — SR: soft-tissue augmentation at second-stage surgery; APF/VP+FGG best for KM width, REF/APF+SCTG best for volume; all studies high bias [sr]
 - [[implants/soft-tissue/yadav-2025-soft-tissue-substitutes-patient-reported-outcomes-commentary]] — EBD commentary on SR+MA (29 studies): soft-tissue substitutes reduce post-op pain, analgesic use & surgery time vs SCTG, with equivalent satisfaction/esthetics (PROM axis) [narrative-review]
 - [[implants/soft-tissue/blaskovic-2021-peri-implant-soft-tissue-augmentation-review]] — Blašković 2021, book chapter: FGG/CTG/substitutes for peri-implant soft tissue augmentation
+- [[implants/soft-tissue/le-2022-aesthetic-contour-graft-peri-implant]] — GBR(Guided Bone Regeneration)로 순측 골 윤곽 증대('Aesthetic Contour Graft')해 임플란트 주위 연조직 출현 윤곽 개선; 연조직 이식 없이도 2-3 mm 조직 두께 확보 가능
 - [[implants/da-silva-2025-gingival-phenotype-implant-survival-sr]] — da Silva 2025 · sr · 8편: 얇은·두꺼운 phenotype 모두 5년 성공률 >91%; phenotype은 peri-implantitis/MBL 경유 간접 영향, 얇은 형이 골소실 주요 위험인자 (DOI 10.1038/s41432-025-01114-x)
 
 ## Batch ingest (added 2026-06-15) — veneers & ceramic bonding overviews
@@ -2967,6 +2973,7 @@ tags: []
 - [[implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr]] — Brunello 2026 · sr · 비외과적 점막염 치료 SR 21편(RCT 19·NRCT 2, n=1068): 기계적 debridement 단독으로 BOP·임상지표 개선, 해소율 9~100%, 보조요법은 6개월 추가효과 미미, NMA 불가 (DOI 10.1111/prd.70047)
 - [[implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct]] — Eraydin-Tufek 2026 · rct · 비외과 5군 RCT(임플란트 80개), 글리신 에어아브레이전 포함 모든 방법 6개월 개선되나 군 간 유의차 없음 (DOI 10.1038/s41598-026-50332-5)
 - [[implants/peri-implantitis/su-2026-peri-implantitis-bone-defects-regenerative-strategies]] — Su 2026, narrative review: peri-implantitis bone defect mechanisms, diagnosis, and regenerative strategies
+- [[implants/peri-implantitis/pirc-2026-emergence-profile-angle-peri-implant]] — 출현 프로파일 각도·오목한 EP·높은 Ti-base가 치주위임플란트 건강의 핵심 수정 가능 보철 변수임을 내러티브 리뷰+증례로 제시 (Pirc 2026)
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — **NEW Overview**: 전문가 치면세균막관리(GBT·에어폴리싱·기계적 debridement) 종합 (12편). GBT/에어폴리싱은 편안함·시술시간·치질보존은 우수하나 PPD/CAL/BoP 임상지표는 SRP와 동등(Yein SR·Cyris·Stähli); 단 GCF IL-1β·GI·PI는 GBT 우위(Dönertaş); 분말은 에리스리톨(14µm) 선호(Pujarern·Ifrim); 임플란트도 PMPR 핵심·보조요법 미미(Brunello SR·Eraydın RCT·Mauriello); 치은연하 에어폴리싱 피하기종 위험(Hussein) (2026-06-21)
 
 ## 치아미백 (Tooth Whitening / Bleaching) — NEW category (added 2026-06-22, surveillance batch)
