@@ -42,11 +42,14 @@ jobs:
           OVERVIEW_COUNT=$(ls wiki/overviews/*.md 2>/dev/null | wc -l | tr -d ' ')
           CATEGORY_COUNT=$(find wiki -mindepth 1 -maxdepth 2 -type d | grep -v overviews | wc -l | tr -d ' ')
           INTERACTIVE_COUNT=$(ls interactives/*.html 2>/dev/null | grep -v 'wiki-evolution\|wiki-growth\|wiki-stats\|overviews-map\|contradiction-radar\|index\.html' | wc -l | tr -d ' ')
+          # 논쟁 레이더 debate 수: 커밋된 radar HTML의 '<b>N</b> 논쟁'에서 추출(빌드가 항상 최신 유지).
+          DEBATE_COUNT=$(grep -oE '<b>[0-9]+</b> 논쟁' interactives/contradiction-radar.html 2>/dev/null | head -1 | grep -oE '[0-9]+' || echo 0)
           sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" wiki/index.md
           sed -i "s|<!-- PAPER_COUNT -->.*<!-- /PAPER_COUNT -->|<!-- PAPER_COUNT -->${PAPER_COUNT}<!-- /PAPER_COUNT -->|" wiki/index.md
           sed -i "s|<!-- OVERVIEW_COUNT -->.*<!-- /OVERVIEW_COUNT -->|<!-- OVERVIEW_COUNT -->${OVERVIEW_COUNT}<!-- /OVERVIEW_COUNT -->|" wiki/index.md
           sed -i "s|<!-- CATEGORY_COUNT -->.*<!-- /CATEGORY_COUNT -->|<!-- CATEGORY_COUNT -->${CATEGORY_COUNT}<!-- /CATEGORY_COUNT -->|" wiki/index.md
           sed -i "s|<!-- INTERACTIVE_COUNT -->.*<!-- /INTERACTIVE_COUNT -->|<!-- INTERACTIVE_COUNT -->${INTERACTIVE_COUNT}<!-- /INTERACTIVE_COUNT -->|" wiki/index.md
+          sed -i "s|<!-- DEBATE_COUNT -->.*<!-- /DEBATE_COUNT -->|<!-- DEBATE_COUNT -->${DEBATE_COUNT}<!-- /DEBATE_COUNT -->|" wiki/index.md
 
       - name: Regenerate category map from folder counts
         run: |
