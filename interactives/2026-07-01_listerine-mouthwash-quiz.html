@@ -1,0 +1,185 @@
+<!--
+---
+title: "리스테린(에센셜오일) 가글 효과 자가테스트"
+type: interactive
+date: 2026-07-01
+status: done
+category: perio-maintenance
+agenda: agenda/2026-07-01_listerine-mouthwash-education.md
+source_wiki:
+  - wiki/overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview.md
+  - wiki/periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis.md
+  - wiki/periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival.md
+  - wiki/oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota.md
+  - wiki/oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome.md
+note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 저작(자동생성 아님) — scripts/build-quiz.py가 스펙(interactives/quiz-specs/listerine-mouthwash.json)에서 HTML 생성. source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>리스테린(에센셜오일) 가글 효과 자가테스트</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
+    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
+    --chip:#243040;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}
+  .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
+  h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
+  .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
+  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
+  .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px;}
+  .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
+  .qt{font-weight:700;margin-bottom:12px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--panel2);
+    border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
+    font-family:inherit;transition:border-color .15s,background .15s;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
+  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
+    border-left:3px solid var(--line);padding:8px 12px;display:none;}
+  .rat.show{display:block;}
+  .rat b{color:var(--txt);}
+  .rat a{color:var(--accent);text-decoration:none;}
+  .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}
+  .score .big{font-size:1.5rem;color:var(--accent);}
+  .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
+    color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
+  .foot{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}
+  .foot a{color:var(--accent);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🧴 리스테린(에센셜오일) 가글 효과 자가테스트</h1>
+  <div class="sub">치위생사 교육 · 6문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="bar"><i id="bar"></i></div>
+  <div id="quiz"></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/6 · 정답 <span class="big" id="pts">0</span></div>
+  <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
+  <div class="foot">출처: <a href="/dentopedia/overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview" target="_blank">항균 가글(CHX·에센셜오일) 종합 overview</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
+</div>
+<script>
+// 문항 = LLM이 위키 근거로 저작. 스펙: interactives/quiz-specs/listerine-mouthwash.json
+// cite = 위키 경로(category/stem) → 링크는 /dentopedia/{cite} 로 조립.
+const QUESTIONS = [
+  {
+    "q": "가글(구강세정제)의 올바른 위치는?",
+    "opts": [
+      "칫솔질·치실을 대체하는 주된 위생 수단",
+      "기계적 위생의 보조(chemo-preventive), 대체 아님",
+      "치주낭을 회복시키는 치료",
+      "구취에만 쓰는 도구"
+    ],
+    "ans": 1,
+    "rat": "모든 항균 가글은 치태·염증을 줄이는 기계적 위생의 보조일 뿐, 대체가 아니며 부착수준(PD/CAL)을 회복시키지 못한다.",
+    "cite": "overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview"
+  },
+  {
+    "q": "치은염 감소 효능에서 에센셜오일(EO, 리스테린형)의 위치는?",
+    "opts": [
+      "가장 낮음",
+      "클로르헥시딘(CHX)과 대등한 최상위권",
+      "물과 차이 없음",
+      "CPC보다 낮음"
+    ],
+    "ans": 1,
+    "rat": "네트워크 메타분석(53 RCT, n=8,457): EO ≥ CHX ≥ triclosan-copolymer > CPC. EO가 치은염 감소에서 수치상 최상위권.",
+    "cite": "periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis"
+  },
+  {
+    "q": "장기 가정용으로 EO(리스테린)가 CHX보다 유리한 주된 이유는?",
+    "opts": [
+      "훨씬 강력한 살균력",
+      "치아 착색 부작용이 없음",
+      "가격이 저렴",
+      "처방이 필요없어서"
+    ],
+    "ans": 1,
+    "rat": "CHX는 치아 착색(SMD +1.07)·미각이상 등으로 장기 사용 부적합. EO는 효능이 CHX와 유사하면서 착색이 없어 장기 가정용 대안.",
+    "cite": "periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival"
+  },
+  {
+    "q": "리스테린형 EO 가글을 12주 매일 사용했을 때 구인두 미생물은?",
+    "opts": [
+      "유의하게 파괴됨",
+      "유의한 변화 없음(안전)",
+      "병원균만 선택적으로 증가",
+      "즉시 내성 발생"
+    ],
+    "ans": 1,
+    "rat": "12주 매일 사용에도 구인두 마이크로바이오타 유의 변화 없음(안전). 반면 CHX는 7일 사용만으로도 다양성·질산환원균 감소가 보고됨.",
+    "cite": "oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota"
+  },
+  {
+    "q": "가글로는 개선되지 않는 것은?",
+    "opts": [
+      "치태량",
+      "치은 출혈",
+      "치주낭 깊이·부착수준(PD/CAL) 등 구조",
+      "구취"
+    ],
+    "ans": 2,
+    "rat": "가글은 치태·염증을 줄일 뿐 치주낭 깊이·부착수준(PD/CAL)을 회복시키지 못한다 — 구조 개선 없음.",
+    "cite": "overviews/antiseptic-mouthrinse-chlorhexidine-essential-oil-overview"
+  },
+  {
+    "q": "'EO 가글이 4주 만에 치태 미생물을 건강하게 reset한다'는 연구(Min 2024)를 해석할 때 주의점은?",
+    "opts": [
+      "표본이 너무 큼",
+      "제조사(존슨앤드존슨) 후원 연구라 이해상충 고려",
+      "동물실험이라 사람에 적용 불가",
+      "가글이 아니라 치약 연구"
+    ],
+    "ans": 1,
+    "rat": "EO가 이상증식 치태를 건강 조성으로 전환하고 치은염 ≥37% 감소를 보였으나, J&J 후원 단일 RCT라 이해상충을 감안해 해석해야 한다.",
+    "cite": "oral-microbiology/min-2024-essential-oil-mouthrinses-plaque-microbiome"
+  }
+];
+const SITE_BASE="/dentopedia";
+let done=0, pts=0;
+const quiz=document.getElementById('quiz');
+QUESTIONS.forEach((item,i)=>{
+  const card=document.createElement('div'); card.className='q';
+  const cite=`<a href="${SITE_BASE}/${item.cite}" target="_blank">근거 보기 →</a>`;
+  card.innerHTML=`<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+  item.opts.forEach((o,j)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=o;
+    b.onclick=()=>answer(card,i,j,b);
+    card.appendChild(b);
+  });
+  const r=document.createElement('div'); r.className='rat';
+  r.innerHTML=`<b>해설.</b> ${item.rat||''} ${cite}`;
+  card.appendChild(r);
+  quiz.appendChild(card);
+});
+function answer(card,i,pick,btn){
+  if(card.dataset.answered) return;
+  card.dataset.answered="1";
+  const item=QUESTIONS[i];
+  card.querySelectorAll('.opt').forEach((b,j)=>{ b.disabled=true;
+    if(j===item.ans) b.classList.add('correct');
+    else if(j===pick) b.classList.add('wrong'); });
+  if(pick===item.ans) pts++;
+  done++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('done').textContent=done;
+  document.getElementById('pts').textContent=pts;
+  document.getElementById('bar').style.width=(done/QUESTIONS.length*100)+'%';
+}
+</script>
+</body>
+</html>
