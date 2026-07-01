@@ -1,0 +1,107 @@
+Comparative efficacy of different anesthetic techniques on pain perception during nonsurgical periodontal treatment: A parallel, blinded, randomized controlled trial
+
+Cabral GA, Huller D, Mecca LEA, Bandeca SCS, Moraes GS, Santos FAD
+Journal of Indian Society of Periodontology (J Indian Soc Periodontol), 2026;30(1):94-99
+DOI: 10.4103/jisp.jisp_321_25
+PMID: 42338449
+PMCID: PMC13286530
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+ABSTRACT
+
+Background:
+Nonsurgical periodontal treatment improves clinical parameters; however, the procedure is often associated with patient discomfort. Pain control should be considered during periodontal instrumentation. This study evaluated pain perception during periodontal instrumentation using computerized anesthesia versus a noninvasive lidocaine/prilocaine gel.
+
+Materials and Methods:
+A parallel, blinded, randomized, clinical trial included 76 volunteers receiving either invasive anesthesia with a computerized device, or noninvasive anesthesia with lidocaine/prilocaine gel during nonsurgical periodontal instrumentation. Pain perception was assessed using an 11-point Numerical Rating Scale and anxiety with the Modified Dental Anxiety Scale. Anesthetic supplementation needs were recorded, and hemodynamic parameters were measured before and after anesthesia. Statistical analyses used the t-test or Mann-Whitney test for quantitative variables. Qualitative variables were analyzed using the Chi-square test (alpha = 0.05).
+
+Results:
+Participants included 45 women and 31 men (mean age of 44.2 +/- 12.9 years), with no significant differences in age or sex between groups. Pain intensity was similar between groups. Anxiety was similar among participants, most having low anxiety (P > 0.05). The need for supplementary anesthesia differed significantly between groups. All patients (38; 100%) in the noninvasive group required additional anesthesia. In the invasive group, only nine patients (24%) required additional anesthesia (P < 0.001). Systolic and diastolic blood pressure, along with oxygen saturation, remained stable, with no relevant variations among the study groups.
+
+Conclusion:
+Both techniques provided similar pain control during periodontal instrumentation; however, the noninvasive gel required significantly more supplementary anesthesia in comparison with the computerized-controlled system. Pretreatment anxiety levels were low and comparable between groups.
+
+===============================================================================
+FULL TEXT
+===============================================================================
+
+INTRODUCTION
+
+The treatment of periodontal disease using subgingival instrumentation contributes to the general health of patients. Manual, sonic, or ultrasonic instruments can be used to treat most patients with periodontitis. Periodontal instrumentation improves clinical parameters by reducing clinical probing depth and gingival inflammation. Pain control should be considered during subgingival instrumentation in patients with periodontitis. Although patients may refuse invasive anesthesia, if it is not used, they may experience discomfort and lower satisfaction with treatment. Therefore, the search for noninvasive methods for subgingival instrumentation should be considered a treatment option.
+
+Several anesthetics are available for pain control during periodontal instrumentation. Previous studies have compared computer-controlled local anesthetic delivery systems (designed to regulate flow rate and pressure during injection) with noninvasive intrapocket anesthesia using a thermosetting lidocaine/prilocaine gel (2.5%/2.5%) specifically developed for dental applications. Improved pain control has been reported when electronic invasive anesthesia was associated with topical formulations.
+
+Although previous studies have compared invasive and noninvasive techniques during instrumentation, no studies have compared a computerized technique with an anesthetic gel developed for dental use (25 mg/g lidocaine and prilocaine, Oraqix, Dentsply, York, PA, United States). Therefore, this study evaluated the perception of pain during periodontal instrumentation using a computerized anesthetic technique compared to a noninvasive anesthetic technique that used an anesthetic gel containing lidocaine and prilocaine. The null hypothesis was that there would be no differences between anesthetic techniques during nonsurgical periodontal instrumentation.
+
+MATERIALS AND METHODS
+
+A parallel, blinded, randomized, clinical trial was conducted at a university dental clinic involving 76 volunteers divided into two study groups. The study was approved by the Joint Research and Ethics Committee (CAAE: 12203319.9.0000.0105) and registered in the Brazilian Registry of Clinical Trials (REBEC: RBR-9d8cxh). Before enrollment, each participant was individually informed about the study protocol and objectives. The research was conducted in accordance with the principles of the Declaration of Helsinki.
+
+Inclusion criteria: patients over the age of 18, cooperated with voluntary participation, signed informed consent, had periodontal disease with clinical attachment loss of at least 1-2 mm interproximal at worst site or radiographic bone loss in the coronal third (<15%), and probing depth <=4 mm.
+
+Exclusion criteria: sensitivity or allergic reaction to amide-based anesthetics; use of analgesic/anesthetic medication within 12 h before the procedure; history of alcoholism; pregnant or breastfeeding women; serious uncontrolled systemic disease (heart, neurological, kidney, liver, blood); psychiatric problems interfering with clinical procedures; local pathological alterations (ulcerative lesions, abscesses, acute infections, need for exodontia in the study sextant, dentin hypersensitivity, endodontic treatment).
+
+Sample size: two-tailed model, power 80%, effect size 0.7, alpha 0.05 (G*Power 3.1.9.2), based on a pilot study comparing invasive and noninvasive anesthetic techniques in periodontal procedures. 1:1 allocation with 5 extra volunteers per group for attrition. Final sample: 76 volunteers (38 per group).
+
+Randomization: simple randomization via web-based system; allocation sequence printed and placed in sealed, numbered envelopes; supervised by a single researcher.
+
+Two operators (LEAM and DH) were trained in standardized application of both anesthetic techniques. Intra- and inter-examiner calibration was performed on 14% of the study sample one week before data collection. Weighted Cohen's kappa: gingival recession 0.84, probing depth 0.93, clinical attachment loss 0.87 (substantial agreement).
+
+Baseline periodontal assessment used a periodontal probe (Millennium Plus North Carolina CP-15). Parameters: gingival recession, probing depth, clinical attachment loss, bleeding on probing, suppuration, tooth mobility, gingival hyperplasia. Disease severity classified per the 2018 World Workshop classification of periodontal and peri-implant diseases.
+
+Computerized invasive anesthesia protocol: 30-gauge needle (SeptojectXL) inserted into vestibular gingiva 5 mm from the free gingival margin using a computerized device (Morpheus, MeibachTech, Brazil). Initial deposition of 0.10 mL 2% lidocaine with 1:100,000 epinephrine (Alphacaine) before full insertion. Needle bevel angled 30-45 degrees to the tooth's long axis, advanced slowly until contacting cortical bone, then repositioned apically. Additional 0.6 mL anesthetic administered; needle removed after final device signal. Same technique repeated palatally. If pain was reported, conventional anesthesia with a carpule syringe was administered using the same solution.
+
+Noninvasive technique protocol: quadrant isolated with cotton rolls; blunt needle used to apply anesthetic gel (25 mg/g lidocaine and prilocaine, Oraqix, Dentsply) directly into the periodontal pocket until reaching the gingival margin. Thermosensitive, neutral pH gel, applied via proprietary dispenser. Onset 30 s to 2 min.
+
+Subgingival instrumentation: Gracey and McCall curettes (Millennium). Primary outcome: pain perception. Secondary outcome: need for supplementary anesthesia. If pain persisted after two gel applications, supplementary anesthesia (Alphacaine) was given; pain/discomfort scores recorded before supplementation; number of applications documented.
+
+Pain assessed post-instrumentation by a second, blinded examiner using the 11-point Numerical Rating Scale (NRS-11): 0 = no pain, 1-3 mild, 4-6 moderate, 7-10 severe.
+
+Anxiety assessed pre-treatment with the Modified Dental Anxiety Scale (MDAS), score range 5-25: 5-10 low, 11-14 moderate, 15-18 high, 19-25 extreme/phobia.
+
+Hemodynamic parameters (blood pressure, SpO2) measured before anesthesia and immediately after instrumentation using a multiparameter monitor (INMAXMonitor Multiparametrico).
+
+Statistics: Shapiro-Wilk for normality; t-test or Mann-Whitney for quantitative variables; Chi-square for qualitative variables (sex, disease severity). Significance at P < 0.05 (JASP v0.19.3, 2025).
+
+RESULTS
+
+76 volunteers (45 women, 31 men; mean age 44.2 +/- 12.9 years), similar age/sex distribution between groups. Both groups had periodontal disease at baseline; the computerized-anesthesia group had more severe periodontal disease at baseline (Stage III/IV: 26/38 [68%] vs 15/38 [39%], P = 0.011). Anxiety levels were similar between groups, most participants low anxiety (MDAS 9.6 +/- 3.7 noninvasive vs 8.3 +/- 2.9 invasive, P = 0.087).
+
+Pain intensity was similar between techniques: noninvasive median (IQR) 0 (0-1); invasive median (IQR) 1 (0-3). Both considered mild. No pain reported by 14 (37%) noninvasive vs 20 (53%) invasive. Moderate-to-severe pain reported by 7 (18%) noninvasive vs 5 (13%) invasive. No statistically significant between-group difference (P > 0.05).
+
+Need for supplementary anesthesia differed significantly: ALL patients (38, 100%) in the noninvasive (gel) group required at least one additional anesthesia application (median [IQR] 1 [1-1]); only 9 patients (24%) in the invasive (computerized) group required supplementation (median [IQR] 0 [0-0]). Difference statistically significant, P < 0.001.
+
+Blood pressure (systolic/diastolic) and SpO2 were similar between groups before and after instrumentation. Within-group comparison: systolic BP decreased significantly pre- to post-treatment in the invasive (computerized) group (P = 0.024); no other within- or between-group differences reached significance (P > 0.05).
+
+Table 1 - Baseline characteristics:
+- Age (years, mean+/-SD): noninvasive 43.4+/-11.6, invasive 45+/-12.4, P=0.556 (NS)
+- Gender: noninvasive 15M/23F (39%/61%), invasive 16M/22F (42%/58%), P=0.815 (NS)
+- Severity of PD: Stage I-II noninvasive 23 (61%) vs invasive 12 (34%); Stage III-IV noninvasive 15 (39%) vs invasive 26 (63%); P=0.011 (S)
+- MDAS (mean+/-SD): noninvasive 9.6+/-3.7, invasive 8.3+/-2.9, P=0.087 (NS)
+
+Table 2 - Blood pressure / SpO2 before and after instrumentation:
+- Systolic BP: noninvasive before 129.5+/-18.0, after 131.1+/-18.8 (within-group P=0.395 NS); invasive before 131.9+/-19.3, after 128.4+/-19.8 (within-group P=0.024 S); between-group P before 0.586, after 0.483 (NS)
+- Diastolic BP: noninvasive before 84.4+/-10.1, after 84.3+/-10.6 (P=0.934 NS); invasive before 83.4+/-11.8, after 81.2+/-10.0 (P=0.089 NS); between-group P before 0.692, after 0.193 (NS)
+- SpO2 (%): noninvasive before 95.5+/-1.7, after 95.6+/-1.6 (P=0.907 NS); invasive before 95.2+/-1.9, after 95.4+/-1.8 (P=0.422 NS); between-group P before 0.481, after 0.682 (NS)
+
+DISCUSSION
+
+Both techniques were effective for pain control during subgingival instrumentation with manual instruments. Some patients reported an unpleasant taste from the anesthetic gel, but this did not affect willingness to reuse it. The lidocaine/prilocaine gel was easy to apply, provided adequate pain control, and was well accepted. Computerized anesthesia has been reported elsewhere to show superior pain control, greater patient preference, and higher acceptance; it may improve comfort during injections and treatment compliance. Electronic devices control injection speed/pressure to reduce pain.
+
+Most volunteers had low anxiety. Needle sight remains a fear-producing stimulus and infiltration anesthesia causes discomfort; noninvasive anesthesia can be a good option for needle-phobic patients without compromising treatment. Despite this, computerized invasive anesthesia required significantly less supplementation than noninvasive anesthesia. Clinical relevance: fewer procedural interruptions for re-anesthesia streamlines workflow, potentially reducing operative time and the psychological stress of perceived anesthetic failure. This may relate to the gel's short latency (~30 s) and shorter duration (up to 20 min); gel anesthesia also does not provide pulpal anesthesia, unlike computerized invasive anesthesia.
+
+Hemodynamic parameters were not meaningfully influenced by technique. Systolic BP before invasive (computerized) anesthesia was higher than after, suggesting pre-anesthesia anxiety that resolved during treatment. No prior study was found comparing hemodynamics of noninvasive vs computerized/conventional anesthesia directly; existing comparative hemodynamic data were limited to other noninvasive-technique comparisons (no significant hemodynamic changes) and computerized-vs-conventional comparisons (no significant changes in SpO2/BP).
+
+Age and sex did not influence pain experience, consistent with prior literature.
+
+NRS-11 and MDAS were used for pain and anxiety respectively. NRS-11 is practical, doesn't require visual acuity/dexterity; compared to VAS and 4-point VRS, VRS tends to underestimate pain perception. MDAS is a validated, sensitive instrument for dental anxiety.
+
+Limitations: parallel design is influenced by inter-subject variability; a crossover design could reduce interpersonal bias (subjects as own controls) but risks carry-over/spill-over effects, which some authors argue favors parallel designs instead. Participants could not be blinded to technique due to the nature of the interventions (only the pain-intensity assessor was blinded). Electronic devices carry higher implementation/maintenance costs despite advantages.
+
+Although pain perception was similar between groups, computerized invasive anesthesia required significantly fewer supplementary applications, indicating more consistent anesthetic performance. Both techniques controlled pain effectively in a low-anxiety population. The null hypothesis regarding pain perception was not rejected.
+
+CONCLUSION
+
+Lidocaine/prilocaine gel and computerized anesthesia both control pain perception during periodontal instrumentation; however, computerized anesthesia requires fewer supplementary applications, translating into more predictable and streamlined clinical performance.
+
+Conflicts of interest: None declared.
