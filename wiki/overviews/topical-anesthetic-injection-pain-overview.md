@@ -89,3 +89,4 @@ Topical anesthetics reliably reduce needle/injection pain versus placebo, but he
 - [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]] — 제제 비교 (benzocaine 우위)
 - [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]] — 제제 비교 (차이 없음, 상충점)
 - [[overviews/mandibular-anesthesia-efficacy-ladder]] — 자매 overview: block 효능 축(IANB·articaine 침윤·보충주사). 본 overview는 그 전단계인 "주사 자체의 통증 줄이기" 축을 보완
+- [[overviews/computerized-needle-free-anesthesia-delivery-overview]] — 자매 overview: 전달장치·기계 축(CCLAD/The Wand/STA/needle-free). 본 overview는 약물/전달제형 축(표면마취제)을 다뤄 서로 독립적이나 상호보완적
