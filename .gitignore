@@ -32,6 +32,7 @@ papers/*.pdf
 papers/**/*.pdf
 .ingest-queue
 .ingest-watcher.log
+.claude/scripts/weekly-digest.log
 
 # Quartz build artifacts
 quartz/node_modules/
