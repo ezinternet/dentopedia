@@ -94,7 +94,9 @@ All three tiers share the same stem:
 |---|---|---|
 | `implants` | 임플란트 | Implant design, bone type, survival, failure risk, MBL, soft tissue |
 | `implants/isq` | 임플란트·ISQ | ISQ/RFA measurement, stability dip, loading decision thresholds |
-| `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface technology, osseointegration |
+| `implants/surface` | 임플란트·표면처리 | SLA, CA, UV surface technology, osseointegration. (cold/atmospheric plasma surface activation → `implants/surface/plasma`) |
+| `implants/surface/plasma` | 임플란트·표면처리·플라즈마 | Cold/non-thermal atmospheric plasma (CAP/NTAP) titanium & zirconia surface treatment — osseointegration (animal/RCT), antimicrobial/decontamination, plasma-activated implant/abutment surfaces, vacuum-plasma chairside activation, biocompatibility. (root-canal CAP disinfection → `endodontics/cold-plasma`) |
+| `implants/vitamin-d` | 임플란트·비타민 D | Serum/topical vitamin D and osseointegration — deficiency ↔ early implant failure, supplementation & bone/soft-tissue preservation, human SR/umbrella reviews & prospective cohorts |
 | `implants/vertical-ridge-augmentation` | 임플란트·수직골증대 | Vertical ridge augmentation, Ti-mesh / PTFE mesh GBR, vertical bone gain, mesh exposure, customized CAD/CAM mesh |
 | `bone-regeneration` | 골재생 (general) | Guided bone regeneration (GBR), barrier membranes (collagen/crosslinked/PTFE), bone graft substitutes (DBBM/BCP/β-TCP) & biomaterials, horizontal/vertical augmentation, peri-implantitis GBR, animal/biomechanics models. (socket/ridge preservation → `bone-regeneration/ridge-preservation`) |
 | `bone-regeneration/ridge-preservation` | 골재생·치조제보존 | Alveolar ridge preservation (ARP) / socket preservation — post-extraction dimensional changes (Araujo/Tan/Schropp), ARP efficacy SR/MA & Cochrane, grafting materials & sealing/socket-seal, flap vs flapless, biologics/PRF, esthetic-zone ARP, ARP→implant outcomes |
@@ -103,6 +105,7 @@ All three tiers share the same stem:
 | `immediate-implant/esthetic-soft-tissue` | 즉시식립·심미연조직 | Immediate implant esthetic & soft-tissue outcomes — immediate provisionalization, connective-tissue/soft-tissue grafting (SCTG/CTG), midfacial recession & papilla, pink esthetic score, buccal-dehiscence esthetic, esthetic-zone selection criteria |
 | `sinus-lift/lateral` | 상악동거상술·측방 | Lateral window approach, membrane, grafting materials |
 | `sinus-lift/transcrestal` | 상악동거상술·경치조골 | Transcrestal (osteotome/balloon/osseodensification) approaches |
+| `endodontics` | 근관치료 (general) | Root canal treatment topics not covered by a subcategory — obturation/sealers, endodontic outcomes/prognosis, retreatment, pain/flare-up, general endodontic reviews. (subtopics route to `endodontics/{anatomy,diagnosis,eal,irrigation,shaping,vpt,regenerative,cold-plasma,visit-protocol}`) |
 | `endodontics/eal` | 근관치료·근관장측정 | EAL accuracy, working length, apex locator devices |
 | `endodontics/irrigation` | 근관치료·세정 | Irrigant activation (PUI, ANP, sonic), NaOCl protocols |
 | `halitosis` | 구취 | Halitosis etiology (VSC, bacteria, systemic), prevalence, measurement (organoleptic/halitometric), management (oral hygiene, probiotics, PDT), systemic associations (periodontitis, H. pylori, OHRQoL) |
@@ -144,8 +147,10 @@ All three tiers share the same stem:
 | `behavioral-dentistry/dental-anxiety` | 행동치의학·치과불안 | Dental anxiety/fear/phobia assessment & management (pediatric + adult), behavior-rating scales, non-pharmacological strategies |
 | `behavioral-dentistry/body-dysmorphic-disorder` | 행동치의학·신체이형장애 | Body dysmorphic disorder (BDD) prevalence & screening in esthetic-procedure candidates, preoperative psychological evaluation, patient selection for cosmetic/esthetic dentistry, BDD-driven postoperative dissatisfaction |
 | `radiology` | 방사선학 | CBCT diagnostic performance, radiation dose/collimation, panoramic, cephalometric, CBCT-guided endodontics/implant, shielding protocols |
-| `oral-medicine` | 구강내과 | Oral mucosal diseases — leukoplakia, oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS), malignant transformation risk |
+| `oral-medicine` | 구강내과 | Oral mucosal diseases — oral lichen planus, burning mouth syndrome (BMS), recurrent aphthous stomatitis (RAS). (dedicated potentially-malignant-disorder epidemiology/malignant-transformation SR → `oral-medicine/opmd`; cancer-therapy mucositis → `oral-medicine/mucositis`) |
+| `oral-medicine/opmd` | 구강내과·구강잠재악성질환 | Oral potentially malignant disorders (OPMD) — leukoplakia/erythroplakia/OSMF/proliferative verrucous leukoplakia, malignant transformation rate & risk factors, recurrence, SR/MA of transformation. (clinical management of a specific mucosal lesion → `oral-medicine`) |
 | `oral-medicine/mucositis` | 구강내과·구강점막염 | Cancer-therapy-induced oral mucositis (OM) — chemo/radiotherapy/HSCT toxicity, prevention & management (honey, LLLT/photobiomodulation, palifermin/KGF, chlorhexidine, glutamine/arginine, cryotherapy), pediatric OM & adult head-and-neck radiation-induced OM (RIOM), MASCC/ISOO supportive care. (immune-mediated/idiopathic mucosal disease → `oral-medicine`) |
+| `infection-control` | 감염관리 | Dental infection control / cross-infection prevention — instrument sterilization & disinfection protocols, dental unit waterline (DUWL) contamination & treatment, electrolyzed/disinfectant water, surface/environmental decontamination, practice compliance. (aerosol generation from handpieces → `dental-handpiece`) |
 | `orofacial-pain` | 구강안면통증·통증 신경기전 | Nociception/neuropathic-pain molecular mechanisms underlying orofacial pain & BMS — chloride homeostasis (NKCC1/KCC2), GABA-A/glycine disinhibition, peripheral nociceptor ion channels (anoctamin/TMEM16, TRPV1, Nav), T-type Ca²⁺ channels, neurosteroid modulation. (BMS clinical/diagnostic papers → `oral-medicine`) |
 | `botulinum-toxin` | 보툴리눔 독소 | Botulinum toxin type A (BoNT-A) for bruxism, TMD/myogenous pain, gummy smile, lip aesthetics; injection landmarks, dosing, longevity |
 | `orthodontics` | 교정학 | Orthodontic miniscrews (TADs) — stability, failure risk, reuse; periodontal-orthodontic interactions; force biology |
