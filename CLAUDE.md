@@ -549,13 +549,13 @@ Deploy order (in `deploy-pages.yml`): `build-wiki-stats.py` → `build-interacti
 
 ## Daily Audit
 
-A single entry-point runs all 13 audits and writes their logs to `logs/`:
+A single entry-point runs all 14 audits and writes their logs to `logs/`:
 
 ```bash
 python3 scripts/daily-audit.py
 ```
 
-The 13 audits — 3 classic + 1 rationale (errors block) + 9 signals:
+The 14 audits — 3 classic + 1 rationale (errors block) + 10 signals:
 
 | Audit | Type | Purpose |
 |---|---|---|
@@ -572,6 +572,7 @@ The 13 audits — 3 classic + 1 rationale (errors block) + 9 signals:
 | `relations-audit.py` | signal | `relations:` typed edge target 실존·vocab 검증 + 타입 분포 + typed-edge JSON export(Quartz/custom 렌더용) |
 | `link-integrity.py` | signal | 본문 `[[wikilink]]` 깨짐 + index.md 양방향 커버리지 (Astro-Han lint 개념 차용) |
 | `interactive-staleness.py` | signal | 임상 interactive 도구의 `source_wiki` 근거가 도구보다 git상 최신이면 STALE(LLM 재작성 후보), 근거 경로 소실이면 BROKEN. meta/통계 도구는 제외(build-wiki-stats.py가 배포 때 재생성). 임상 수치 자동 재작성은 Rule #1 위배라 신호만 |
+| `find-contradiction-candidates.py` | signal | 본문에 명시적 충돌 표현(contradict/counterpoint/반박 등)이 있으나 `relations: contradicts/refines` 엣지가 없는 논쟁 레이더 백필 후보. Tier1(대상 wikilink 지목)·Tier2(대상 불명/soft). 기계가 충돌을 확정하지 않고 신호만 — LLM이 두 페이지 읽고 판단해 엣지를 단다 |
 
 Signals never block. They're a mirror — the principle is that ingest pressure self-corrects via visibility, not via gates (which trigger burnout/avoidance in clinical workflows).
 
