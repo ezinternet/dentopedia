@@ -143,8 +143,9 @@ Read the top hits and ask, explicitly, two questions:
 
 1. **Boundary check** → do the hits cluster in a *different* category than you were about to pick? If so, treat Step 4 as a boundary case (escalate the classification to Opus).
 2. **Supersession check** → does this new paper **overturn the clinical bottom line** of any hit we hold (higher evidence weight, or newer + same weight)? If plausibly yes, this is a **supersession judgment** → escalate to **Opus**, and on confirmation mark the *older* page's `superseded_by` + banner (CLAUDE.md § living-document supersession; memory [[supersession-judgment-at-ingest]]).
+3. **Contradiction check** → does this paper's conclusion **conflict with** a hit we hold *without* fully superseding it (both remain valid evidence, they just disagree — e.g. big-data HR gap vs SR+MA "no difference", pro-ARP MA vs ARP-overtreatment critique)? If yes, add a typed edge on the **newer/citing** page's `relations:` block: `type: contradicts` (head-on conflict) or `type: refines` (narrows/qualifies the other's conclusion). This is what feeds the **논쟁 레이더** (`interactives/contradiction-radar.html`) — an omitted edge = a real controversy invisible on the radar. Do NOT force it: only add when conclusions genuinely oppose; a mere different-angle paper is `reinforces`/`extends`, not `contradicts`.
 
-If qmd is down, fall back to a BM25 search (`qmd search "<author/device/term>" -c wiki`) or `grep -ri "<key term>" wiki/`. The point is that *some* mechanical lookup always runs — the escalation triggers must never depend on the model spontaneously remembering a related page exists.
+If qmd is down, fall back to a BM25 search (`qmd search "<author/device/term>"`) or `qmd vsearch "<concept>"` or `grep -ri "<key term>" wiki/`. (Note: `qmd query`'s LLM rerank can hang in non-interactive/subagent runs — prefer `search`/`vsearch` there; memory [[qmd-query-hangs-headless]].) The point is that *some* mechanical lookup always runs — the escalation triggers must never depend on the model spontaneously remembering a related page exists.
 
 ---
 
