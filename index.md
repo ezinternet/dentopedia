@@ -1974,6 +1974,7 @@ tags: []
 
 ## 종합 (Overviews) — 임상 의사결정 ladder
 
+- [[overviews/clinical-principles-100-master-distillation]] — ⭐ **최상위 종합 (overview of overviews, 2026-07-01 신설)**: 176개 overview를 체어사이드에서 실제로 쓰는 **임상원칙 100개**로 증류. 19개 도메인(임플란트·골재생·상악동·근관·수복접착·보철재료·교합·치주·TMD·구강외과·약물·구강내과·방사선·교정·행동경영)로 묶고, 각 원칙마다 근거 overview로 wikilink + 근거등급(🟢강함/🟡중간/🟠낮음/⚪기전합의) 부착. 아래 모든 decision-ladder의 압축 상위층 — 원칙은 "무엇을 하라", 조건·수치·예외는 링크된 overview에.
 - [[overviews/dental-imaging-radiation-dose-optimization-overview]] — 치과 영상 선량 최적화 종합 (18편, 2026-06-05 신설): modality 위계(구내~1.3≪파노라마~18≪CBCT~121µSv, Lee&Badal 2021) 위 4개 술자 레버 — FOV/collimation(Benchimol 2018, Ozaki 2021), 고관전압 ULD/LD ~6배↓(Charuakkra 2023), 작은 복셀 유지+노출↓로 소아 ~45%↓(Oenning 2019), 파노라마 빔높이(Lee 2019); 차폐 중단 합의(Benavides 2023 AAOMR + Schindler 2025 실측); 비전리 0.55T MRI 대안(Willershausen 2025). 2단 의사결정 ladder
 - [[overviews/dental-imaging-effective-dose-background-equivalent-overview]] — 치과 영상 선량 = 자연방사선 며칠분 환산 종합 (14편, 2026-06-25 신설): 위 최적화 ladder의 **환자소통 companion**. lee-2021 연 3110µSv 배경값으로 환산 — 구내 PA ~0.15일(~3.7h)·파노라마 ~2.1일·CBCT ~3.6~46일(소아 대형FOV 392µSv=연간 13%, 논문 진술과 일치). REID 소아~2배(yeh-2018). ⚠️ 비행/우주방사선 비교값은 보유 논문에 없어 공백 명시(Rule#1)
 
