@@ -1,0 +1,127 @@
+Comparison of perceived pain and patients' satisfaction with traditional local anesthesia and single tooth anesthesia: A randomized clinical trial
+
+Al-Obaida MI, Haider M, Hashim R, AlGheriri W, Celur SL, Al-Saleh SA, Al-Madi EM
+
+World J Clin Cases. 2019 Oct 6;7(19):2986-2994.
+PMID: 31624746 | PMCID: PMC6795719 | DOI: 10.12998/wjcc.v7.i19.2986
+
+ABSTRACT
+
+BACKGROUND
+Contemporary innovations in the area of local anesthesia have attempted to provide an absolutely pain free experience for patients. Since the introduction of Computer-Controlled Local Anesthetic Delivery Systems to dentistry, many studies have compared its efficacy and safety to conventional anesthesia. However, very few studies have compared single tooth anesthesia (STA) and traditional local anesthesia.
+
+AIM
+To compare pain rating, changes in blood pressure, and heart rate during the local anesthetic injection. The secondary objectives were to measure the patients' level of satisfaction and the differences in anesthetic efficiency between the STA system and traditional local infiltration.
+
+METHODS
+A randomized controlled trial was conducted and a total of 80 patients with dental restorative needs were enrolled for the study. The patients were evaluated for their general physical status and oral clinical findings before enrollment. Information regarding perceived pain, changes in heart rate and blood pressure, and patients' satisfaction was collected using an electronic data form and was analyzed using paired and unpaired-tests.
+
+RESULTS
+No significant difference was noted in perceived pain (p = 0.59) and systolic blood pressure (p = 0.09) during anesthetic injection using both traditional and STA techniques. STA patients had a significantly higher heart rate during anesthesia, although a statistically significant difference was noted among the traditional anesthesia and the STA groups even before anesthesia. During the restorative procedure, less pain was perceived by STA patients on the Wong-Baker FACES pain scale, which was statistically significant (p < 0.001). Analyses of post-procedure patient responses showed that STA patients had a significantly better treatment experience and preferred to have the same method of injection in the future (p = 0.04).
+
+CONCLUSION
+STA system can provide less painful and more comfortable restorative treatment procedures in comparison to the traditional infiltration technique.
+
+FULL TEXT
+
+INTRODUCTION
+
+Local anesthesia has a significant role in pain control and the success of dental procedures. Although the purpose of local anesthesia is to diminish pain during dental treatment, the technique of traditional anesthesia itself has resulted in painful patient experiences. Contemporary innovations in local anesthesia delivery, on the other hand, have attempted to provide a pain free experience to dental patients.
+
+A new method of anesthetic drug delivery was launched in 1997; the computer-controlled local anesthetic delivery systems (CCLADS). Subsequently, in 1998, dynamic pressure sensing technology changed CCLAD fundamentally. In 2006, the Single Tooth Anesthesia (STA) System (Milestone Scientific, Inc. Livingston, NJ, United States) was introduced. The STA-system is a portable lightweight unit that drives the flow rate of injection in a controlled manner and provides a visual and audible feedback to the operator while the needle is advanced through the tissues. This system also identifies periodontal ligament tissue, and as a result, patients receive successful, virtually painless STA with no collateral numbness.
+
+Since the introduction of CCLAD, studies have compared its efficacy and safety to conventional anesthesia. Most of the literature has compared the pain of injection with the computer-assisted injection system to a conventional syringe. Results from a majority of studies have favored the computer-assisted injection system. However, not much literature has been found specifically for the intra-ligamentary STA technique. Hence, the present study was conducted with a hypothesis that STA is equivalent to traditional local anesthesia in reducing the pain associated with routine dental procedures. The primary objectives of the study were to compare pain rating and changes in blood pressure and heart rate during the STA and traditional local infiltration. The secondary objectives were to measure the patients' level of satisfaction and the differences in anesthetic efficiency between STA and traditional local infiltration techniques.
+
+MATERIALS AND METHODS
+
+The study was approved by the institutional review board of Princess Nourah bint Abdulrahman University (IRB No. H-01-R-059), and a randomized controlled trial was conducted at the Princess Nourah bint Abdulrahman University Dental Clinics in Riyadh, Saudi Arabia. A total of 80 patients were included in the study. All participants signed an informed consent prior to dental treatment.
+
+Inclusion criteria
+Healthy patients over 18 years of age, requiring either class I or class II restorations on maxillary premolars or molars, with a normal periodontium and no periapical pathology (confirmed with peri-apical radiographs) were included. Exclusion criteria were patients with an ASA classification > 2, history of psychiatric illness and allergies, sensitivity to lidocaine, patients using any type of analgesic medication in the preceding 12 h, and patients with a history of unpleasant dental treatment experiences. The periodontal condition of the injection site was evaluated using Loe and Silness gingival index to exclude any acute inflammation or ulceration and recorded as the baseline. The patients were randomly divided into STA group and traditional infiltration group using computer generated random numbers. For blinding purposes, participants were not told which method was employed; and the STA system was always left on but with the audible sound deactivated.
+
+Data collection
+A structured data form was designed to collect information regarding patients demographic details, self-perceived general health status on a Likert scale of 1-10, tooth to be treated, gingival index of that tooth, type of anesthesia being given, type of dental treatment, pain rating using Wong-Baker FACES pain scale, heart rate and blood pressure before, during, and after the injection, the effectiveness of anesthesia, and the post-procedure patient's satisfaction. This data form was subsequently converted to an electronic Google form.
+
+Objective evaluation of anesthetic efficiency was done by checking the pulp response of the tooth to be restored at every 10-min interval, till an hour after the anesthetic solution was deposited. Patients who became responsive to electric pulp testing during the procedure needed additional local anesthetic injections.
+
+Intervention
+In the STA group, the patients received 1.8 mL of 2% lidocaine with 1:100000 epinephrine for multi-rooted teeth and 0.9 mL for single rooted teeth, with the STA device. The preprogrammed injection type was chosen on the unit (STA-intraligamentary injection, speed mode 0.005 mL/s) and, based on the manufacturer's suggestion, a 30-gauge extra short needle was utilized to dispense the solution. The needle was inserted into the gingival sulcus on the mesiobuccal and distobuccal areas anywhere between the interproximal contact and the buccal line angles, at a 45-degree angle with the bevel facing the root of the tooth for maxillary molars. For maxillary premolars, the needle was inserted at a single point either on the mesial or distal aspect.
+
+Active control arm
+In the traditional infiltration group, 2% lidocaine with 1:100000 epinephrine was injected by the standard local anesthesia infiltration technique.
+
+All participants were requested to rate their pain before, during, and after the anesthetic injection and during the restorative procedure using the Wong-Baker FACES pain rating scale comprising of six faces representing various degrees of pain. Both English and Arabic versions of the pain rating scale were available to patients. The patient's heart rate and blood pressure were also monitored before, during, and after the anesthetic injection. After the restorative procedure was completed, a questionnaire previously tested for construct validity and comprehension was filled by all patients to assess their overall experience of the given procedure, and their preference for a given anesthetic technique in future, on a scale of 1-10.
+
+Statistical analysis
+Among the patients of STA and traditional infiltration groups, the differences in perceived pain before, during, and after anesthesia and during the procedure were evaluated by paired-test. Changes in perceived pain, systolic blood pressure (SBP), and heart rate between STA and infiltration groups were compared with an unpaired-test. Comparison of post-procedure patient responses addressing patient satisfaction of both the groups was done by using an unpaired-test.
+
+RESULTS
+
+Among the 80 adult patients with dental restorative needs, 40 were administered anesthesia by STA-system and 40 by traditional infiltration. The majority of the patients were females, with most of them between 18-34 years old. The mean and standard deviation of self-perceived general health of infiltration and STA group patients were 6.1 ± 2.72 and 4.75 ± 3.36, respectively, with no statistically significant difference between them (p = 0.05). Thus, there was no dissimilarity in the perceived overall general health of patients of both the groups.
+
+When compared to before anesthesia, there was an increase in the mean of pain-rating during the anesthetic injection in both the infiltration and STA groups. However, this difference was not statistically significant (p = 0.15). In both the infiltration and STA groups, there was a significant reduction in the mean of pain-rating (p < 0.05) after anesthesia when compared to before anesthesia. Although the pain perceived by patients of both the groups during the procedure was less when compared to before anesthesia, the patients of the STA group perceived significantly less pain (p < 0.001).
+
+Pain perceived by patients of the infiltration group in comparison to that of the STA group showed no significant differences before (p = 0.72), during (p = 0.59), and after (p = 0.19) anesthesia. On the other hand, less pain was perceived by STA patients during the restorative procedure when compared to the infiltration group, and the difference between both groups was statistically significant (p = 0.008).
+
+Patients of the STA group had significantly higher heart rate before, during, and after the anesthetic injection when compared to the infiltration group; however, this increase in heart rate during anesthesia among STA patients was very negligible when compared to before anesthesia. Moreover, heart rate was raised in only 22 out of 40 STA patients, compared to 25 out of 40 infiltration patients, during anesthesia. Although the SBP of both the groups varied before, during, and after anesthesia, these variations were not statistically significant.
+
+Post-procedure survey analysis showed that patients of both groups had good treatment experiences; however the STA group had a significantly better experience (p = 0.04). Both groups reported moderate levels of anxiety with no statistically significant difference between them (p = 0.2). Although the level of numbness achieved with STA was more, there was no significant difference between the groups (p = 0.08). Patients of both groups preferred to have the same method of injection in the future, yet the preference was significantly higher for STA (p = 0.04).
+
+In the infiltration group, on electric pulp testing, three patients were responsive at 10 min, and one patient was responsive at 20 min. On the other hand, only two patients of the STA group were responsive at 10 min.
+
+Table 1 — Demographic details
+Traditional infiltration: Female 18-24: 10, 25-34: 13, 35-44: 3; Male 18-24: 6, 25-34: 3, 45-54: 5
+STA: Female 18-24: 15, 25-34: 15, 35-44: 3; Male 18-24: 4, 35-44: 1, 55-64: 2
+Total per age group: 18-24: 35, 25-34: 31, 35-44: 7, 45-54: 5, 55-64: 2
+
+Table 2 — Perceived pain (Wong-Baker FACES)
+Before vs during anesthesia: Infiltration mean diff 0.15 (p=0.68); STA mean diff 0.48 (p=0.15)
+Before vs after anesthesia: Infiltration mean diff 1.03 (p=0.001); STA mean diff 1.35 (p<0.001)
+Before anesthesia vs during procedure: Infiltration mean diff 0.45 (p=0.18); STA mean diff 1.28 (p<0.001)
+
+Table 3 — Heart rate and systolic blood pressure
+Before anesthesia: Infiltration HR 74.9±9.22, STA HR 81.27±6.9 (p<0.001); Infiltration SBP 119.07±21.86, STA SBP 115.73±10.9 (p=0.39)
+During anesthesia: Infiltration HR 77.14±10.57, STA HR 81.35±5.65 (p=0.03); Infiltration SBP 115.58±10.79, STA SBP 120.43±14.91 (p=0.09)
+After anesthesia: Infiltration HR 74.17±8.5, STA HR 84.82±7.2 (p<0.001); Infiltration SBP 116.68±15, STA SBP 121.78±13.56 (p=0.11)
+
+DISCUSSION
+
+The current randomized controlled trial evaluated perceived pain and changes in heart rate and SBP before, during, and after anesthesia by either traditional local infiltration or the STA technique. In addition, it also evaluated the efficiency of each of these techniques and the associated patient satisfaction. Although a split mouth study is advantageous, because each individual can act as his or her own control, it was not employed in our study for two reasons. The first reason was the difficulty in recruiting patients requiring similar kind of dental care on both sides of the arch, and the second reason was the possibility of the pain rating of the second anesthetic injection being influenced by the first injection stimulus. Furthermore, in an attempt to facilitate blinding, and for the ease to be incorporated into meta-analysis, a parallel arm study design was preferred in our study.
+
+Pain of injection was minimal in both the STA and traditional infiltration groups, with no significant difference between both the techniques. This was in contrast to the findings of Campanella et al, Garret-Bernardin et al, and Grace et al who reported significantly less pain on injection with STA compared to traditional local anesthesia. However, in these studies, it was not specified whether the traditional local anesthesia was administered by local infiltration or a nerve block. The variety of anesthetic techniques used in these studies could be attributed to the higher mean of pain associated with injection of local anesthesia using the traditional syringe. In addition, the application of topical anesthetic before the anesthetic techniques in the above-mentioned studies might also have influenced the pain-rating of injection. Moreover, the split-mouth design adopted by Garret-Bernardin et al and Campanella et al, where the pain rating of the second injection stimulus was relative to the first injection stimulus, also might have influenced the results.
+
+Our study showed equal effectiveness of both STA and traditional infiltration techniques immediately after injection. However, STA patients had more profound anesthesia during the restorative procedure, which was dissimilar to the results of Campanella et al who reported that there was no difference in the intensity of pain experienced by STA and conventional anesthesia patients during treatment. Our finding of greater profoundness of STA during the restorative procedure, which indirectly acts an indicator of duration of action of anesthesia, is in concordance with previous published data.
+
+STA patients in our study had significantly higher heart rate than the traditional infiltration patients. On the contrary, previous studies have shown STA to reduce effectively the blood pressure and slow the heart rate, when compared to traditional anesthesia. Although patients were randomly assigned to traditional infiltration and STA groups, STA patients had a higher heart rate, even before the anesthetic solution was injected. A statistically significant difference was noted in heart rate between both the groups before, during, and after anesthesia; however, the mean of the readings was well within the normal range. In addition, the increase in heart rate in almost the same number of patients in each group clearly indicates that the STA and infiltration patients were equally anxious. This is further substantiated by the negligible difference in SBP between both the groups, and the moderate levels of anxiety as reported by patients of both groups after the procedure.
+
+As per our study results, STA patients had a better treatment experience, and the high patients' preference and satisfaction with STA was in alignment with the preceding studies done on computerized local anesthesia delivery system. Better STA patients' comfort during the restorative procedure and lack of facial numbness might have contributed to the greater preference for STA over traditional infiltration. However, Grace et al claimed that traditional and computer-controlled anesthesia patients had equally good treatment experiences.
+
+Although STA patients experienced less pain during the procedure and had a better overall treatment experience, our study was limited to only restorative procedures done on maxillary posterior teeth. Hence, further studies are required to evaluate the effectiveness of STA to carry out all dental procedures done on an out-patient basis. Studies aiming at determining the onset and duration of STA are encouraged too.
+
+In conclusion, from a clinical point of view, STA is a valid alternative to traditional infiltration, as it provokes minimal pain on injection and modest anxiety. In terms of clinical comfort, STA seems to be highly beneficial because of its profound anesthetic effect during restorative procedures, thereby increasing patients' satisfaction and compliance. However, further studies should be performed to harness the full potential of STA, so as to include it in routine dental practice.
+
+ARTICLE HIGHLIGHTS
+
+Research background
+Traditional anesthesia sometimes results in painful patient experiences. However, contemporary innovations in local anesthesia delivery, such as Single Tooth Anesthesia (STA) System, which is a computer-controlled local anesthetic delivery system, may provide pain free STA to dental patients with no collateral numbness.
+
+Research motivation
+Although studies have compared pain of injection with the computer-assisted injection system to a conventional syringe, there is not much literature specifically for the intra-ligamentary STA technique. Therefore, we hypothesized that STA is equivalent to traditional local anesthesia in reducing the pain associated with routine dental procedures.
+
+Research objectives
+The research objectives of the study were to compare pain rating and changes in blood pressure and heart rate during the STA and traditional local infiltration. In addition, patients' level of satisfaction and anesthetic efficiency of STA and traditional local infiltration techniques were compared.
+
+Research methods
+A randomized controlled trial was conducted, and a total of 80 patients with dental restorative needs were enrolled for the study. The patients were randomly divided into the STA group and the traditional infiltration group. A structured data form to collect information regarding perceived pain, changes in heart rate and blood pressure, and patients' satisfaction was collected using an electronic data form and was analyzed using paired and unpaired-tests.
+
+Research results
+No significant differences were noted in the perceived pain and systolic blood pressure during anesthetic injection using both traditional and STA techniques. A statistically significant difference was noted among the traditional anesthesia and the STA groups before anesthesia. During the restorative procedure, statistically significant less pain was perceived by STA patients on the Wong-Baker FACES pain scale. Analyses of post-procedure patient responses showed that STA patients had a significantly better treatment experience and preferred to have the same method of injection in the future.
+
+Research conclusions
+STA system can provide less painful and more comfortable restorative treatment procedures in comparison to the traditional infiltration technique.
+
+Research perspectives
+Clinically, STA appears to be a suitable alternative to traditional infiltration, as it provokes minimal pain on injection and minimal anxiety. In addition, STA seems to be highly beneficial because of its profound anesthetic effect during restorative procedures, thereby increasing patients' satisfaction and compliance.
+
+--
+According to PubMed / PMC. DOI: https://doi.org/10.12998/wjcc.v7.i19.2986
