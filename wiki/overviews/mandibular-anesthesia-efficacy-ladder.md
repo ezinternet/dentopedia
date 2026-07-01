@@ -99,3 +99,5 @@ Synthesis of the new local-anesthesia cluster: for mandibular molars (especially
 - [[drug/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — GRADE 평가 2개 SR(ADA 급성 치성통증 CPG 근거): **장시간형 bupivacaine이 lidocaine+epi 대비 진통제 소비 감소**(MD −1.91 doses, −3.35~−0.46), mepivacaine 대비(−1.58); **20% benzocaine 국소도포가 위약 대비 통증 감소 반응자 증가**(RR 1.47, 1.03–2.10, 증상성 비가역 치수염) (sr+ma, 2023)
 
 **갱신 메모 (2026-06-07)**: 두 논문은 ladder의 §2(보충주사)·§3(마취제 선택)을 확장한다. Park 2024는 하악구치 hot tooth에서 **골내마취(IO)가 협측침윤보다 단발 성공률이 높음**을 보여, 기존 "보충주사 = 약 2배 상승" 명제에 IO를 1차 대안으로 끌어올리는 근거(단 retrospective·단일기관·지속시간 짧음 한계). Miroshnychenko 2023은 ADA CPG 근거로 **장시간형 bupivacaine이 술후 진통제 소비를 줄이고 topical benzocaine이 비가역 치수염 통증을 낮춤**을 추가 — 마취제 선택이 마취 성공뿐 아니라 술후 통증·진통제 사용까지 좌우함을 보강. [근거강함] 술후 통증 관리는 [[overviews/drug-analgesics-postop-pain-overview]] 연계.
+
+**갱신 메모 (2026-07-01)**: [[overviews/computerized-needle-free-anesthesia-delivery-overview]] — 자매 overview: 전달장치·기계 축(CCLAD/The Wand/STA/needle-free 9편). Park 2024의 컴퓨터구동 골내마취(QuickSleeper5)는 이 device-axis overview에서도 "비주사 경로 대안"으로 함께 다뤄짐 — 본 ladder(기법·약물선택)와 상호보완.
