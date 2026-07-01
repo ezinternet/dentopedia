@@ -1544,6 +1544,7 @@ tags: []
 - [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Šijan Gobeljić 2020 · cross-sectional · 쇼그렌증후군 58명 vs 대조군 55명: 미각이상 dysgeusia 52.6%·설작열감 45.6%·무후각 OR 5.2, 침분비량과의 상관은 약함(별개 염증기전 시사) (DOI 10.1186/s12903-020-01169-5)
 - [[oral-medicine/morelli-2023-radiation-dose-taste-alteration-hnscc]] — Morelli 2023 · prospective · 두경부암 IMRT 환자 31명: 급성 미각이상이 미뢰 선량이 아닌 악하선·이하선 선량과 유의상관(각 p=0.05) — 타액선 손상 매개 기전 시사 (DOI 10.1007/s11547-023-01707-5)
 - [[oral-medicine/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] — Kodama 2020 · consensus · 일본 아연결핍 진단·치료 가이드라인: 혈청아연 <60μg/dL 결핍 기준, 미각장애 폴라프레진크 150mg/일로 50–82% 호전(효과발현 최소 3개월, 4주 13.6%→24주 58.8%) (DOI 10.3390/ijms21082941)
+- [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — Ramírez Martínez-Acitores 2020 · sr · 항고혈압제 13편(RCT 5·환자대조군 8) 종합: 미각/침분비저하 증가라는 확증적 근거 부족(캅토프릴은 오히려 이하선 분비 증가 보고), 약물군별 특정 불가 (DOI 10.3390/ijerph17072478)
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
 - [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA(55편, n=41,231): 구강백반증 악성전환률 pooled 6.64%(95% CI 5.21–8.21); 비균질형(NHOL) RR 4.23·이형성 RR 2.75·측설부 12.71%; 흡연 RR 1.64; 시간 안정적(p=0.75) — OL 악성전환 추정의 최대 SR+MA (2025)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.

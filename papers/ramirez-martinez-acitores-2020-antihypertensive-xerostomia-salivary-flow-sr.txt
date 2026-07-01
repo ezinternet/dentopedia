@@ -1,0 +1,88 @@
+Xerostomia and Salivary Flow in Patients Taking Antihypertensive Drugs
+
+Lucía Ramírez Martínez-Acitores, Fernando Hernández Ruiz de Azcárate, Elisabeth Casañas, Julia Serrano, Gonzalo Hernández, Rosa María López-Pintor
+International Journal of Environmental Research and Public Health, 2020;17(7):2478
+DOI: 10.3390/ijerph17072478
+PMID: 32260482
+PMCID: PMC7177425
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+1. Introduction
+
+Hypertension (HT): systolic BP >140 mmHg and/or diastolic BP >90 mmHg. Prevalence increased substantially 1990-2015; 2015 Non-Communicable Diseases Risk Factor Collaboration (NCD RisC) estimated 1.13 billion adults with HT. First-line antihypertensive drugs per current guidelines: ACE inhibitors, angiotensin receptor blockers, beta-blockers, calcium channel blockers, diuretics.
+
+Xerostomia = subjective complaint of dry mouth; hyposalivation = objective decrease in salivary flow. Salivary flow affected by age, sex, body weight, tooth count, time of day, certain drugs, radiotherapy, chronic rheumatic disease (Sjögren's), diabetes mellitus. Over 1000 drugs reportedly associated with xerostomia: tricyclic antidepressants, muscarinic receptor antagonists, antipsychotics, opioids, benzodiazepines, antihypertensives, antihistamines. Among antihypertensives with notable salivary association: β-adrenergic blockers, diuretics, ACE inhibitors, drug combinations.
+
+Objectives: (1) compare xerostomia/hyposalivation prevalence between antihypertensive-treated patients and control group (CG); (2) compare salivary flow rate between groups; (3) identify which antihypertensives produce more xerostomia.
+
+2. Methods
+
+PRISMA-guided systematic review. Focused questions: (1) Do antihypertensive-treated patients have more xerostomia/hyposalivation than untreated? (2) Is salivary flow lower in treated patients? (3) Do all antihypertensives reduce salivary flow equally?
+
+Search: PubMed/MEDLINE, Web of Science, CINAHL, Cochrane Library, no date limit through November 19, 2019. Terms: saliva, dry mouth, hyposalivation OR salivary flow AND hypertension, antihypertensive drug, OR antihypertensives. Additional hand-search of reference lists. Two independent researchers screened; third resolved disagreements.
+
+Inclusion: original articles, human studies, clinical trials/longitudinal/cross-sectional studies; population on antihypertensive therapy compared to CG/placebo not receiving antihypertensives, not suffering other diseases, not on other pharmacological treatment. Outcomes: xerostomia diagnosed via questionnaire (affirmative answer to dry-mouth-related question sufficient), or quantified via VAS, Fox et al. xerostomia questions, or Xerostomia Inventory (Sreebney and Fox, modified by De la Luz et al.). Hyposalivation: stimulated whole saliva (SWS) ≤0.7 or ≤0.5 mL/min; unstimulated whole saliva (UWS) ≤0.3/0.2/0.15 mL/min, or modified Schirmer test strip movement to 25mm at 3min. Saliva types: UWS, SWS, stimulated parotid saliva (SPS), unstimulated/stimulated submandibular-sublingual saliva (USS/SSS).
+
+Exclusion: hypertensive patients not on antihypertensives; non-English/Spanish; concomitant disease or other drugs; no placebo/CG comparison; salivary flow data only in graph/box-plot without exact numbers.
+
+Risk of bias: Cochrane Collaboration tool (clinical trials), modified Newcastle-Ottawa scale (case-control), AHRQ good/fair/poor classification.
+
+No meta-analysis performed due to heterogeneity.
+
+3. Results
+
+Search yielded 6201 studies → 2905 after dedup → 26 full-text assessed → 13 included (5 clinical trials, 8 case-control studies). Largest sample: De la Luz et al. (n=440); smallest: Nederfors et al. (n=12). Age heterogeneous: 5 studies ≥60y, 3 studies <34y, 3 studies 46-54y, 1 study 30-70y range, 1 study age not reported.
+
+Xerostomia percentage analyzed in 2 studies; xerostomia level in 3 studies (tools: VAS, Fox et al. questions, modified Xerostomia Inventory). Hyposalivation evaluated in 4 studies. UWS flow rate most collected (11 studies); also SWS (1), SPS (1), UWS+SWS (4), UWS+SWS+SPS+SSS (2). Collection methods: spitting method (9 studies), Carlson-Crittenden cups (3), Nederfors modified device (2), cotton-wool method (1), modified Schirmer test (1), Navazesh method (1). Saliva collected before 12pm in most studies; 5 studies did not report timing.
+
+Antihypertensive types studied: β-adrenergic blockers (5 studies), diuretics (6), α-adrenergic blockers (2), calcium channel blockers (2), heart glycosides (1); 3 studies did not specify drug type.
+
+Risk of bias: clinical trials generally poor quality (many "unclear" Cochrane ratings due to undescribed parameters). Case-control studies: 5 poor quality (score 4-5), 3 fair quality (score 6). Main biases in selection parameters.
+
+3.4.1 Clinical Trials (Table 4)
+
+Nederfors et al. 2004 (bendroflumethiazide) — only study analyzing xerostomia degree: thiazide/furosemide treatment increased xerostomia levels vs. placebo (which stayed similar level).
+
+UWS flow rate: 3 studies showed non-significant increase after β-blockers or ACE inhibitors; 1 study found statistically significant UWS decrease in normotensives treated with propranolol and phentolamine; 1 study showed non-significant UWS decrease 7 days after diuretics.
+
+SWS: 2 studies — one non-significant decrease with furosemide/bendroflumethiazide, one non-significant increase with captopril.
+
+SPS: 2 studies — one statistically significant increase after captopril, one no significant change after bendroflumethiazide.
+
+SSS: 2 studies — one no significant change with captopril, one significant decrease after furosemide and bendroflumethiazide.
+
+3.4.2 Case-Control Studies (Table 5)
+
+Xerostomia: 2 articles. One (studying ACE inhibitors, calcium channel blockers, β-blockers, diuretics) found statistically significantly higher xerostomia percentage/level in hypertensive group. Other found significantly greater xerostomia percentage in antihypertensive patients but did not specify drugs.
+
+Hyposalivation: Nonzee et al. 2012 (cited, also independently ingested in this wiki) — only study reporting hyposalivation percentage, significantly greater in hypertensive patients on ACE inhibitors, calcium channel blockers, β-blockers, diuretics.
+
+UWS: 6 studies analyzed; all showed lower flow in antihypertensive-treated patients than CG, statistically significant in 3.
+
+SWS: 5 studies; 4 showed lower flow in treated patients, statistically significant in 3.
+
+SPS: 1 study (diuretics/hydrochlorothiazide) — significantly lower in treated patients.
+
+4. Discussion
+
+Overall evidence for a possible antihypertensive-xerostomia/hyposalivation relationship is unclear. Available studies scarce and low methodological quality; clinical trials not current (most recent 2006, oldest 1981). Highly heterogeneous study designs: sample size, drugs used, study duration, saliva collection method/type. Clinical trials had small samples, none with calculated sample size. Case-control studies had larger samples but often lacked detailed sampling methodology.
+
+Hyposalivation cut-off values heterogeneous across the 4 studies assessing it, mostly not matching currently used standards — further investigation needed.
+
+Only 3 studies assessed xerostomia; none used the Xerostomia Inventory (the only tool validated specifically for medication-induced salivary gland disorder assessment), though De la Luz et al. used a modified version.
+
+Saliva collection type varied: individual gland secretions superior for compositional analysis (avoiding whole-saliva contamination by desquamated cells, food debris, bacteria, gingival crevicular fluid, leukocytes), but whole saliva (UWS/SWS) is more clinically relevant for overall gland-dysfunction assessment. Navazesh recommends avoiding smoking/eating/drinking 1-2h before collection and standardizing time of day (seasonal/diurnal flow variation) — most studies collected before noon, but 5 did not report timing.
+
+Clinical trial summary: xerostomia only in Nederfors et al. (placebo stable, thiazide/furosemide groups increased). Hyposalivation not studied in any clinical trial. All measured UWS; only 1 found statistically significant decrease (α-/β-adrenergic blocker). 2 studies measured SWS/SPS/SSS: 1 found significant SPS increase with ACE inhibitors; 1 found significant SSS decrease with diuretics.
+
+Case-control summary: hyposalivation greater in antihypertensive-treated patients (1 study). Xerostomia higher in hypertensive patients (2 studies). UWS decreased in 5/6 studies (significant in 3); 1 study showed UWS increase. SWS decreased significantly in 3/5 studies. SPS significantly decreased with diuretics (1 study).
+
+Drug types across case-control studies: β-blockers, α-blockers, diuretics, ACE inhibitors, calcium channel blockers, heart glycosides, centrally-acting antihypertensives. Heterogeneity precludes determining which single antihypertensive class produces the most xerostomic effect.
+
+Limitations: excluded non-English/Spanish studies; excluded studies with only graphical (non-numerical) salivary flow data; could not assess treatment-duration effect (case-control studies lacked treatment-duration data); excluded patients on concomitant diseases/other drugs, so could not evaluate combination-drug effects on salivary disorders.
+
+5. Conclusions
+
+Available literature is scarce and of low methodological quality; further research needed. Long-term, adequately powered, standardized-dose RCTs against placebo/CG needed to determine which antihypertensive most reduces salivary flow.
+
+Answers to focused questions: (1) Current literature cannot confirm antihypertensive-treated patients have more xerostomia/hyposalivation than untreated patients. (2) Regarding salivary flow rate: only 2 clinical trials found statistically significant decrease post-treatment, 1 trial found statistically significant increase — cannot conclude antihypertensives reduce salivary flow from clinical trial evidence alone; case-control studies (more numerous, though heterogeneous) mostly found lower salivary flow in the antihypertensive group vs. CG. (3) Types of antihypertensives studied (β-blockers, α-blockers, diuretics, ACE inhibitors, calcium channel blockers, heart glycosides, centrally-acting drugs) show too much heterogeneity in design/outcomes to determine which produces the most xerostomic effect. Future studies needed to confirm whether antihypertensive drugs produce salivary alterations.
