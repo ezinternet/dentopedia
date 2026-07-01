@@ -1,0 +1,18 @@
+Title: A Systematic Review of the Cervical Plexus Accessory Innervation and Its Role in Dental Anesthesia.
+Authors: Kim S, Uzbelger Feldman D, Yang J
+Journal: Journal of Anesthesia History. 2016;2(3):79-84.
+DOI: 10.1016/j.janh.2016.04.010
+PMID: 27480473
+
+Abstract:
+Accessory innervation (AI) may account for the persistent sensation perceived after successful mandibular anesthesia in the adult patient. The purpose of this systematic review was to record the quality of evidence pertaining to the cervical plexus (CP) AI in dental anesthesia.
+
+Electronic and manual searches were conducted using Ovid and Medline of articles published from 1922 to March of 2015. Studies written in any language were included as long as they involved: (i) humans, animals, and/or cadavers AND (ii) anatomical and/or research anesthetic-technique approaches and/or clinical approaches. Exclusion criteria were (i) maxillary buccal infiltration, (ii) no abstract/paper available, (iii) studies that do not comprise the description of the branches of the CP branches in dentistry and (iv) duplicated articles. The articles were reviewed and graded by levels of evidence (LOE) through a methodological scoring index (MSI).
+
+Forty-four out of 185 papers fulfilled the inclusion criteria. One randomized control trial, 3 comprehensive reviews, 1 cohort study, 5 case series/reports, 16 poor-quality cohort and case series/reports and 18 reviews/case, reports/expert opinions were found. Of the 44 publications, there were 4 LOE 1, 1 LOE 2, 5 LOE 3, 20 LOE 4 and 14 LOE 5 studies.
+
+The MSI helped to classify papers LOE in a standardized and objective approach. The objective evidence quality occurrence recorded was found to be LOE 4 (n = 20) > LOE 5 (n = 14) > LOE 3 (n = 5) > LOE 1 (n = 4) > LOE 2 (n = 1). The anatomy of the CP needs to be reexamined and understood in the anatomical literature.
+
+Keywords: Accessory innervation; Anesthetic failure; Cervical plexus; Evidence based dentistry; Great auricular nerve; Levels of evidence; Mandibular anesthesia; Methodological scoring index; Transverse cervical nerve.
+
+[Note: full text not retrieved — abstract only, per PubMed MCP metadata. No PMCID available for this article.]
