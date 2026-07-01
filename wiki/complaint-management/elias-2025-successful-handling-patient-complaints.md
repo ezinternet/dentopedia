@@ -11,6 +11,11 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/elias-2025-successful-handling-patien
 pdf_filename: elias-2025-successful-handling-patient-complaints.pdf
 source_collection: external
 tags: [education, training, CODE, service-recovery]
+relations:
+  - type: contradicts
+    target: mccreaddie-2021-qualitative-study-nhs-complaint
+  - type: refines
+    target: gillespie-2025-complaint-handlers-bind-defensive
 ---
 
 ## One-line Summary
