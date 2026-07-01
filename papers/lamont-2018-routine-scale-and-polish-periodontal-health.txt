@@ -1,0 +1,93 @@
+Abstract
+
+Background
+
+Many dentists or hygienists provide scaling and polishing for patients at regular intervals, even for those at low risk of developing periodontal disease. There is debate over the clinical and cost effectiveness of 'routine scaling and polishing' and the optimal frequency at which it should be provided for healthy adults.
+
+A 'routine scale and polish' treatment is defined as scaling or polishing, or both, of the crown and root surfaces of teeth to remove local irritational factors (plaque, calculus, debris and staining), which does not involve periodontal surgery or any form of adjunctive periodontal therapy such as the use of chemotherapeutic agents or root planing. Routine scale and polish treatments are typically provided in general dental practice settings. The technique may also be referred to as prophylaxis, professional mechanical plaque removal or periodontal instrumentation.
+
+This review updates a version published in 2013.
+
+Objectives
+
+1. To determine the beneficial and harmful effects of routine scaling and polishing for periodontal health.&#x2028;
+2. To determine the beneficial and harmful effects of routine scaling and polishing at different recall intervals for periodontal health.&#x2028;
+3. To determine the beneficial and harmful effects of routine scaling and polishing for periodontal health when the treatment is provided by dentists compared with dental care professionals (dental therapists or dental hygienists).
+
+Search methods
+
+Cochrane Oral Health’s Information Specialist searched the following databases: Cochrane Oral Health’s Trials Register (to 10 January 2018), the Cochrane Central Register of Controlled Trials (CENTRAL) (the Cochrane Library, 2017, Issue 12), MEDLINE Ovid (1946 to 10 January 2018), and Embase Ovid (1980 to 10 January 2018). The US National Institutes of Health Trials Registry (ClinicalTrials.gov) and the World Health Organization International Clinical Trials Registry Platform were searched for ongoing trials. No restrictions were placed on the language or date of publication when searching the electronic databases.
+
+Selection criteria
+
+Randomised controlled trials of routine scale and polish treatments, with or without oral hygiene instruction, in healthy dentate adults without severe periodontitis. We excluded split‐mouth trials.
+
+Data collection and analysis
+
+Two review authors screened the results of the searches against inclusion criteria, extracted data and assessed risk of bias independently and in duplicate. We calculated mean differences (MDs) (or standardised mean differences (SMDs) when different scales were reported) and 95% confidence intervals (CIs) for continuous data. We calculated risk ratios (RR) and 95% CIs for dichotomous data. We used a fixed‐effect model for meta‐analyses. We contacted study authors when necessary to obtain missing information. We rated the certainty of the evidence using the GRADE approach.
+
+Main results
+
+We included two studies with 1711 participants in the analyses. Both studies were conducted in UK general dental practices and involved adults without severe periodontitis who were regular attenders at dental appointments. One study measured outcomes at 24 months and the other at 36 months. Neither study measured adverse effects, changes in attachment level, tooth loss or halitosis.
+
+Comparison 1: routine scaling and polishing versus no scheduled scaling and polishing
+
+Two studies compared planned, regular interval (six‐ and 12‐monthly) scale and polish treatments versus no scheduled treatment. We found little or no difference between groups over a two‐ to three‐year period for gingivitis, probing depths, oral health‐related quality of life (all high‐certainty evidence) and plaque (low‐certainty evidence). The SMD for gingivitis when comparing six‐monthly scale and polish treatment versus no scheduled treatment was –0.01 (95% CI –0.13 to 0.11; two trials, 1087 participants), and for 12‐monthly scale and polish versus no scheduled treatment was –0.04 (95% CI –0.16 to 0.08; two trials, 1091 participants).
+
+Regular planned scale and polish treatments produced a small reduction in calculus levels over two to three years when compared with no scheduled scale and polish treatments (high‐certainty evidence). The SMD for six‐monthly scale and polish versus no scheduled treatment was –0.32 (95% CI –0.44 to –0.20; two trials, 1088 participants) and for 12‐monthly scale and polish versus no scheduled treatment was –0.19 (95% CI –0.31 to –0.07; two trials, 1088 participants). The clinical importance of these small reductions is unclear.
+
+Participants' self‐reported levels of oral cleanliness were higher when receiving six‐ and 12‐monthly scale and polish treatments compared to no scheduled treatment, but the certainty of the evidence is low.
+
+Comparison 2: routine scaling and polishing at different recall intervals
+
+Two studies compared routine six‐monthly scale and polish treatments versus 12‐monthly treatments. We found little or no difference between groups over two to three years for the outcomes of gingivitis, probing depths, oral health‐related quality of life (all high‐certainty evidence) and plaque (low‐certainty evidence). The SMD for gingivitis was 0.03 (95% CI ‐0.09 to 0.15; two trials, 1090 participants; I= 0%). Six‐ monthly scale and polish treatments produced a small reduction in calculus levels over a two‐ to three‐year period when compared with 12‐monthly treatments (SMD –0.13 (95% CI –0.25 to –0.01; 2 trials, 1086 participants; high‐certainty evidence). The clinical importance of this small reduction is unclear.
+
+The comparative effects of six‐ and 12‐monthly scale and polish treatments on patients' self‐reported levels of oral cleanliness were uncertain (very low‐certainty evidence).
+
+Comparison 3: routine scaling and polishing provided by dentists compared with dental care professionals (dental therapists or hygienists)
+
+No studies evaluated this comparison.
+
+The review findings in relation to costs were uncertain (very low‐certainty evidence).
+
+Authors' conclusions
+
+For adults without severe periodontitis who regularly access routine dental care, routine scale and polish treatment makes little or no difference to gingivitis, probing depths and oral health‐related quality of life over two to three years follow‐up when compared with no scheduled scale and polish treatments (high‐certainty evidence). There may also be little or no difference in plaque levels over two years (low‐certainty evidence). Routine scaling and polishing reduces calculus levels compared with no routine scaling and polishing, with six‐monthly treatments reducing calculus more than 12‐monthly treatments over two to three years follow‐up (high‐certainty evidence), although the clinical importance of these small reductions is uncertain. Available evidence on the costs of the treatments is uncertain. The studies did not assess adverse effects.
+
+Plain language summary
+
+Routine scale and polish for periodontal health in adults
+
+Review question
+
+This review examined evidence for effects of routine scale and polish treatment. It was carried out by authors working with Cochrane Oral Health to assess the effects of routine scale and polish treatments for healthy adults; to establish whether different time intervals between treatments influence these effects; and to compare the effectiveness of the treatment when given by a dentist compared to a dental therapist or hygienist.
+
+This review updates the version published in 2013 and the evidence was up‐to‐date as of 10 January 2018.
+
+Background
+
+Scaling and polishing removes deposits such as plaque and calculus (tartar) from tooth surfaces. Over time, the regular removal of these deposits may reduce gingivitis (a mild form of gum disease) and prevent progression to periodontitis (severe gum disease). Routine scale and polish treatment is sometimes referred to as "prophylaxis", "professional mechanical plaque removal" or "periodontal instrumentation".
+
+Many dentists or hygienists provide scaling and polishing for most patients at regular intervals even if the patients are considered to be at low risk of developing gum disease. There is debate about whether scaling and polishing is effective and the best interval between treatments. Scaling is an invasive procedure and has been associated with a number of negative side effects including damage to tooth surfaces and tooth sensitivity.
+
+For the purposes of this review, a 'routine scale and polish' was scaling and polishing of both the tooth and the root of the tooth to remove plaque deposits (mainly bacteria), and calculus. Calculus is so hard it cannot be removed by toothbrushing alone and this along with plaque, other debris and staining on the teeth is removed by the scale and polish treatment. Scaling or removal of hardened deposits is done with specially designed dental instruments or ultrasonic scalers, and polishing is done mechanically with special pastes.
+
+In this review, we included scaling above and below the gum level; however, we excluded any surgical procedure on the gums, any chemical washing of the space between gum and tooth (pocket) and root planing, which is more intense scraping of the root than simple scaling.
+
+Study characteristics
+
+We included two studies with a total of 1711 participants in our review. Both studies involved adults without severe periodontitis who were regular attenders at dental appointments in the UK. The studies were conducted in general dental practices, which is the most appropriate setting to evaluate 'routine scale and polish' treatments. One study measured outcomes at 24 months and one study at 36 months.
+
+Key results
+
+The studies found little or no difference between regular planned scale and polish treatments compared with no scheduled scale and polish for the early signs of gum disease (gingivitis or bleeding gums; plaque deposits; and probing depths or gum pockets). There was a small reduction in calculus (tartar) levels, but it was uncertain if this is important for patients or their dentists.
+
+Participants receiving six‐monthly and 12‐monthly scale and polish treatments reported feeling that their teeth were cleaner than those who were scheduled to receive no treatment. However, there did not seem to be a difference between groups in terms of quality of life.
+
+Available evidence on the costs of the treatments was uncertain.
+
+Neither of the studies measured side effects (such as damage to tooth surfaces and tooth sensitivity), changes in attachment level, tooth loss or halitosis (bad breath). Neither study compared scale and polish treatments provided by different professionals, e.g. dentists, dental therapists and hygienists.
+
+Certainty of the evidence
+
+We judged the certainty of the evidence to be high for gingivitis, probing depths, calculus and quality of life, but low for plaque, and low to very low for patient perception of oral cleanliness. The certainty of evidence for costs was very low. The high‐certainty evidence for gingivitis means that we can be confident that routine scale and polish does not significantly reduce the signs of mild gum disease when measured up to three years.
