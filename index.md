@@ -2101,6 +2101,13 @@ tags: []
 - [[local-anesthesia/karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb]] — Karkoutly 2024 (RCT, n=45 소아): IANB 표면마취 8% lidocaine = 20% benzocaine = 5% EMLA, 차이 없음(FLACC/FACES/맥박 NS)
 - [[local-anesthesia/subramanian-2023-comparative-two-topical-anesthetic-agents-pediatric]] — Subramanian 2023 (RCT, n=40 소아): IANB 전 20% benzocaine < 2% lignocaine 주사통증(1.2 vs 2.1, P<0.05), benzocaine 우위
 - [[local-anesthesia/khongkhunthian-2018-anesthetic-rice-nanogel-pain-reduction]] — Khongkhunthian 2018 (in-vivo, n=100): rice nanogel 5%/20% lidocaine·prilocaine 표면마취가 위약·상용겔보다 needle 통증 낮춤(20% 최우수)
+- [[local-anesthesia/kucukkurt-2026-comparison-five-anesthetic-delivery]] — Küçükkurt 2026 (RCT, n=200, 5-arm): 구개 침윤마취 5종 전달시스템(CDS·MCJ·PCJ·NFI·CCLAD) head-to-head 비교 — 통증 군간 유의차 없음(p=0.380, 모든 g<0.20); PCJ 공포감소 최대(ΔVAS -2.7), CCLAD 주사중 맥박상승 최대
+- [[local-anesthesia/ramanathan-2023-efficacy-reliability-single-tooth-anesthesia]] — Ramanathan 2023 (J Maxillofac Oral Surg 23(1):88) · rct · 매복 하악 제3대구치 발치(n=60): WANDSTA 컴퓨터제어 단일치아마취(치주인대내, 4% articaine)가 IANB 대비 발현 2.2분↑빠름(p<0.05), 술후통증/개구제한↓ — 단 장협신경 추가블록 필요율↑(50% vs 23.3%), 발치 시 VAS↑ (abstract-only)
+- [[local-anesthesia/cabral-2026-comparative-efficacy-anesthetic-techniques-periodontal]] — Cabral 2026 (J Indian Soc Periodontol 30(1):94) · rct · 비외과 치주기구조작 통증 비교 RCT(n=76): 컴퓨터제어 침습마취 vs 리도카인/프릴로카인 겔, 통증강도(NRS-11) 동등(NS)하나 보충마취 필요율 겔군 100% vs 컴퓨터제어군 24%(p<0.001)
+- [[local-anesthesia/rizzo-lorenzo-2020-influence-information-computerized-anesthesia-anxiety]] — Rizzo-Lorenzo 2020 (Med Oral Patol Oral Cir Bucal 25:e217) · rct · 상악 제3대구치 발치 The Wand 마취 n=68: 장비 작동원리 사전설명이 불안·통증(VAS) 유의 감소 없음(NS); 재마취율은 불안과 무관, 수술시간과만 유의(p=0.007)
+- [[local-anesthesia/grassi-2017-effectiveness-computer-assisted-anesthetic-implant]] — Grassi 2017 (Oral Implantol (Rome) 10:381) · prospective · 임플란트 수술 STA 컴퓨터제어마취 코호트(n=45): 통증 STA 1.6 vs 기존 CA 7.9/10(p<0.0001), 마취량 절반, 재주사 3례뿐 (abstract-only)
+- [[local-anesthesia/garret-bernardin-2017-pain-experience-behavior-management-pediatric]] — Garret-Bernardin 2017 (Pain Res Manag, prospective crossover split-mouth, n=67 소아 7-15세): Wand STA 컴퓨터 제어 마취기가 전통 syringe 대비 통증 VAS↓(P=0.0003), 심박수 증가폭↓(P=0.028), 이완행동↑(P=0.019), 만족도↑(P=0.0003)
+- [[local-anesthesia/al-obaida-2019-comparison-perceived-pain-patients-satisfaction]] — Al-Obaida 2019 (World J Clin Cases 7:2986) · rct · STA vs 전통침윤 수복치료(n=80): 주사통·수축기혈압 NS(p=0.59/0.09), 수복치료 중 STA 통증↓(p<0.001)·만족도·향후선호↑(p=0.04), STA 심박수 전구간↑
 
 ## 노년치의학 (Geriatric Dentistry)
 - [[overviews/oral-frailty-geriatric-synthesis]] — Synthesis 2026-06-03 (5편): 구강노쇠=측정·가역 증후군; 지표(잔존치아 수)→유병률 24-32%(도구 의존)→결과(영양실조 OR 2.27)→개입(38% SDF 우식정지). 4단 사슬
