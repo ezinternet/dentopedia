@@ -2988,6 +2988,13 @@ tags: []
 - [[tooth-whitening/vidal-2022-resin-composite-color-change-bleaching]] — Vidal 2022 · sr+ma(23 in-vitro) · 미백 후 레진복합체 색변화 있으나 임상적 유의성 없음, ΔE는 방법론 의존 (DOI 10.2341/20-234-LIT)
 - [[tooth-whitening/frank-2021-internal-bleaching-agents-efficacy]] — Frank 2021 · sr+ma(8편) · 실활치 내부(walking-bleach) ΔSGU 6.27·ΔE 12.83; perborate+HP > perborate 단독 (DOI 10.1016/j.joen.2021.10.011)
 - [[tooth-whitening/de-oliveira-2024-otc-bleaching-color-adverse-effects]] — de Oliveira 2024 · sr+nma(37편, n=1932) · OTC 스트립/젤 단기 유효(6%HP 스트립 ΔEab*·10%CP 트레이 ΔSGU 최고), 부작용 미미, certainty low (DOI 10.1007/s00784-024-05595-5)
+- [[tooth-whitening/marton-2026-enamel-damage-whitening-sr-ma]] — SR+MA (81편 합성 9편): 과산화물 미백의 법랑질 미세경도 감소 소폭(ROM=0.89), 임상 유의성 낮음; 농도보다 노출시간이 핵심 조절변수
+- [[tooth-whitening/das-2025-comparative-efficacy-external-bleaching-gels]] — SR: HP vs CP 외부 미백겔 — CP가 ΔE 우세, ΔSGU 동등; 고농도 CP가 HP보다 민감도 낮음; 중등도 근거
+- [[tooth-whitening/terra-2025-effect-at-home-agents-nma]] — Bayesian NMA (53 RCT): 대부분 농도 동등 효능; 극단 농도(CP 5% vs CP 15–37%)만 유의차; 근거 질 낮음
+- [[tooth-whitening/campolina-2025-ozonized-oil-at-home-bleaching]] — DB-RCT (n=40): 오존화 오일은 10% HP 자가미백 후 민감도·효과 개선 없음; 환자 거부(맛/냄새)
+- [[tooth-whitening/centenaro-2025-low-vs-high-hp-in-office]] — 이중맹검 RCT (n=140): 35% HP > 6% HP 미백효과(ΔE MD=6.3), 6% HP는 민감도 위험 절반(44% vs 74%); EU 규정 저민감도 대안
+- [[tooth-whitening/chu-2025-low-concentration-at-home-bleaching]] — split-mouth RCT (n=22): 3% HP(Invisalign) > 8% CP 미백효과; 8% CP 민감도↓·법랑질 변화↓; OHRQoL 모두 개선
+- [[tooth-whitening/cordeiro-2025-in-office-bleaching-protocols]] — in vitro RCT (11 프로토콜): 2×8분·1×24분 최적 균형; 2회 시술 필수
 - [[overviews/tooth-whitening-clinical-decision-overview]] — **NEW Overview**: 치아미백 임상결정 종합 (5편). 진료실=자가 ΔSGU 동등 → 핵심 레버는 농도(고농도=색 거의 그대로·민감도 2–3×)와 감독; 기존 복합체는 미백 안 됨(교체 고려); 실활 단일치는 외부 아닌 내부 walking-bleach; 전 근거 GRADE-low — 최저 유효농도로 적정·민감도 선제관리(상아질과민과 기전 공유) (2026-06-22)
 
 ## 외상치학 (Dental Trauma / Traumatic Dental Injuries) — NEW category (added 2026-06-22, surveillance batch)
