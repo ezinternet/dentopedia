@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/bassir-2018-alveolar-ridge-preservati
 pdf_filename: bassir-2018-alveolar-ridge-preservation-meta-analysis.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: mardas-2023-alveolar-ridge-preservation-overtreatment
 ---
 
 ## One-line Summary
