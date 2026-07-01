@@ -67,5 +67,5 @@ Critically, one case with a low MSMT/MOD ratio (0.23) still developed postoperat
 
 ## Related Papers
 
-- [[sinus-lift/lateral/chan-2011-sinusitis-risk-mucosal-thickening]] — absolute MSMT threshold (>1/3 sinus height → ENT consultation); Lee 2020 extends this with ratio-based metric
-- [[sinus-lift/lateral/chen-sinusitis-fess-indication]] — absolute MSMT threshold (≥1/2 → preventive FESS); Lee 2020 proposes relative MSMT/MOD ratio as complementary criterion
+- Chan & Wang (2011), sinusitis risk & mucosal thickening *(not yet in wiki)* — absolute MSMT threshold (>1/3 sinus height → ENT consultation); Lee 2020 extends this with ratio-based metric
+- Chen et al., sinusitis FESS indication *(not yet in wiki)* — absolute MSMT threshold (≥1/2 → preventive FESS); Lee 2020 proposes relative MSMT/MOD ratio as complementary criterion

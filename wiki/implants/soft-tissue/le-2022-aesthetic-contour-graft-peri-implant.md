@@ -66,4 +66,4 @@ Used to maintain the space under the membrane at the labial crest, preventing gr
 - [[implants/soft-tissue/jensen-2023-iti-consensus-bone-dimensions-soft-tissue]] — ITI consensus on bone dimensions and soft tissue; thresholds cited by Le align with consensus values
 - [[implants/soft-tissue/tavelli-2021-soft-tissue-phenotype-modification-peri-implant-nma]] — NMA comparing soft tissue augmentation strategies; GBR alone not included as separate arm
 - [[implants/soft-tissue/raghoebar-2021-profilometric-mucosa-soft-tissue-augmentation-esthetic-sr-ma]] — SR+MA on soft tissue augmentation outcomes in esthetic zone
-- [[bone-regeneration/ridge-preservation/araujo-2014-dimensional-ridge-alterations-tooth-extraction]] — foundational context on ridge resorption that drives the need for GBR
+- [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — foundational context on ridge resorption that drives the need for GBR

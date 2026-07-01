@@ -64,4 +64,4 @@ Overall conclusion: "promising" across all categories, but evidence is limited a
 
 ## Related Papers
 
-- [[post-and-core/figueiredo-2015-fiber-post-survival-systematic-review]] — fiber post SR predecessor; this paper extends scope to customized and CAD/CAM systems
+- Figueiredo et al. (2015), fiber post survival systematic review *(not yet in wiki)* — fiber post SR predecessor; this paper extends scope to customized and CAD/CAM systems

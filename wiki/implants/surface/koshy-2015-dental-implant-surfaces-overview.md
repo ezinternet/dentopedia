@@ -65,4 +65,4 @@ Narrative literature review; no systematic search/PRISMA protocol. Synthesizes b
 
 ## Related Papers
 
-- [[implants/surface/att-2012-uv-light-titanium-osseointegration]] — UV photofunctionalization as a surface-activation method (extends this overview's additive/modification taxonomy)
+- Att & Ogawa (2012), UV-light titanium osseointegration *(not yet in wiki)* — UV photofunctionalization as a surface-activation method (extends this overview's additive/modification taxonomy)

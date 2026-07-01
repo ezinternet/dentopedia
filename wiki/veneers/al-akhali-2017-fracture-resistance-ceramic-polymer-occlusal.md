@@ -59,4 +59,4 @@ This in-vitro study compared fracture resistance of four major CAD/CAM occlusal 
 - [[veneers/beuer-2025-ceramic-pcr-laminate-veneer-consensus]] — clinical consensus on PCR vs ceramic laminate/occlusal veneers; clinical counterpart to this in-vitro benchmark
 - [[overviews/veneer-material-survival-protocol-overview]] — synthesis overview incorporating occlusal veneer material selection; this paper provides in-vitro fracture data supporting material choice recommendations
 - [[veneers/el-mowafy-2018-glass-ceramic-veneer-materials-narrative-review]] — narrative review of glass-ceramic veneer materials including lithium disilicate and zirconia-reinforced lithium silicate
-- [[veneers/klein-2025-ceramic-laminate-veneer-survival-sr-ma]] — SR+MA on long-term clinical survival of ceramic laminate veneers; clinical evidence complementing this in-vitro fracture study
+- [[veneers/klein-2025-ceramic-laminate-veneer-survival-complications-sr-ma]] — SR+MA on long-term clinical survival of ceramic laminate veneers; clinical evidence complementing this in-vitro fracture study

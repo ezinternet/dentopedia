@@ -76,6 +76,6 @@ Narrative CE review of experimental animal studies (primarily dog models, Araúj
 
 ## Related Papers
 
-- [[immediate-implant/araujou-2006-buccal-lingual-bone-remodeling-immediate]] — Araújo dog model series showing buccal plate resorption pattern; DBBM reduces horizontal loss
-- [[immediate-implant/botticelli-2003-jumping-distance-revisited-dog]] — original jumping distance reassessment in dogs; defects 1–2.25 mm filled spontaneously
-- [[bone-regeneration/chen-buser-2009-gap-fill-biofiller-review]] — review of biomaterials in immediate implant gap; DBBM most used, all techniques gave acceptable resolution
+- [[immediate-implant/araujo-2006-tissue-modeling-implant-extraction-sockets]] — Araújo dog model series showing buccal plate resorption pattern; DBBM reduces horizontal loss
+- [[immediate-implant/botticelli-2004-immediate-implant-hard-tissue]] — original jumping distance reassessment in dogs; defects 1–2.25 mm filled spontaneously
+- [[immediate-implant/esthetic-soft-tissue/chen-2009-clinical-esthetic-outcomes-implants-postextraction]] — review of biomaterials in immediate implant gap; DBBM most used, all techniques gave acceptable resolution

@@ -62,4 +62,4 @@ Key contrast: all-ceramic + fiber post (95.0%) > metal-ceramic + fiber post (91.
 
 ## Related Papers
 
-- [[post-and-core/overview-post-and-core-decision-framework]] — this SR provides the survival evidence base for material and post-type selection
+- [[overviews/post-and-core-fiber-post-decision-overview]] — this SR provides the survival evidence base for material and post-type selection

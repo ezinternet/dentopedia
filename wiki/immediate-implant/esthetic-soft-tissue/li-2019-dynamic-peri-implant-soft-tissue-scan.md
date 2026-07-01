@@ -62,6 +62,6 @@ Ten participants with 12 single-implant sites in the esthetic zone underwent ser
 
 ## Related Papers
 
-- [[immediate-implant/esthetic-soft-tissue/monaco-2016-fully-digital-replicate-peri-implant-contours]] — technique study using IR as scan body to replicate emergence profile digitally; this study provides the kinetic rationale for why that step is necessary
-- [[immediate-implant/esthetic-soft-tissue/azpiazu-flores-2025-peri-implant-tissue-3d-printed-registration]] — 3D-printed registration approach to capture peri-implant tissue without relying on real-time scanning timing
-- [[immediate-implant/esthetic-soft-tissue/ruales-carrera-2019-customized-healing-abutment-immediate-implant]] — customized healing abutment approach to establish and maintain emergence profile
+- [[digital-workflow/monaco-2016-fully-digital-peri-implant-emergence]] — technique study using IR as scan body to replicate emergence profile digitally; this study provides the kinetic rationale for why that step is necessary
+- [[immediate-implant/esthetic-soft-tissue/azpiazu-flores-2025-peri-implant-tissue-3d-printed]] — 3D-printed registration approach to capture peri-implant tissue without relying on real-time scanning timing
+- [[immediate-implant/esthetic-soft-tissue/ruales-carrera-2019-peri-implant-tissue-customized-healing]] — customized healing abutment approach to establish and maintain emergence profile
