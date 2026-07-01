@@ -45,5 +45,5 @@ SR+MA following PRISMA guidelines. EMBASE, PubMed, Scopus, Web of Science search
 
 ## Related Papers
 - [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — companion SR+MA on MT rates and risk factors
-- [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — earlier MT SR+MA providing comparative context
-- [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — broad OPMD risk factor and therapy overview
+- [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — earlier MT SR+MA providing comparative context
+- [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] — broad OPMD risk factor and therapy overview

@@ -78,4 +78,4 @@ Arterial hypertension is the most common systemic disease in oral surgery patien
 
 - [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — extends the vasoconstrictor-in-LA risk theme from pregnancy to controlled hypertension (epinephrine BP/HR effect, two-cartridge cap).
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — overlapping medically-compromised perioperative management; NSAID/analgesic and antihypertensive interaction considerations.
-- [[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — anxiety/sedation management complements Phase I anxiety-reduction and hemodynamic monitoring.
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — anxiety/sedation management complements Phase I anxiety-reduction and hemodynamic monitoring.

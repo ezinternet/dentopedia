@@ -52,6 +52,6 @@ In a human dentinal cylinder model with 2-week *E. faecalis* biofilm, Lgg.LTA (5
 ## Related Papers
 
 - [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]] — contrasts: there LTA is a virulence factor to be removed; here probiotic-derived LTA is a therapeutic medicament
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — situates Lgg.LTA against calcium hydroxide's known *E. faecalis* limitations
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — situates Lgg.LTA against calcium hydroxide's known *E. faecalis* limitations
 - [[oral-microbiology/koo-2013-exopolysaccharides-matrix-biofilm-virulence]] — biofilm matrix context for why *E. faecalis* intratubular biofilm resists medicaments
 - [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — irrigation/medicament landscape this candidate would supplement

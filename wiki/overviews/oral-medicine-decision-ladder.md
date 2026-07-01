@@ -64,17 +64,17 @@ Oral-medicine decision ladder synthesizing the `oral-medicine/` papers across 7 
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] | consensus (WHO) | OPMD 명칭·분류 표준화 |
-| [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] | narrative-review | OPMD 분류·위험인자·악성전환률·관리 포괄 |
-| [[oral-medicine/warnakulasuriya-2018-opmd-clinical-features-review]] | narrative-review | OPMD 전 스펙트럼 임상양상·필수 biopsy·의뢰. lichenoid·GvHD 병변 포함 |
-| [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] | narrative-review | OPMD 위험인자·치료 옵션 |
-| [[oral-medicine/kumari-2022-opmd-etiology-pathogenesis-transformation]] | narrative-review | 병인·이형성→암 전환 경로. OED 등급이 핵심 MT 예측인자 |
+| [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] | consensus (WHO) | OPMD 명칭·분류 표준화 |
+| [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]] | narrative-review | OPMD 분류·위험인자·악성전환률·관리 포괄 |
+| [[oral-medicine/opmd/warnakulasuriya-2018-opmd-clinical-features-review]] | narrative-review | OPMD 전 스펙트럼 임상양상·필수 biopsy·의뢰. lichenoid·GvHD 병변 포함 |
+| [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] | narrative-review | OPMD 위험인자·치료 옵션 |
+| [[oral-medicine/opmd/kumari-2022-opmd-etiology-pathogenesis-transformation]] | narrative-review | 병인·이형성→암 전환 경로. OED 등급이 핵심 MT 예측인자 |
 
 ### 축 2 — OLK (Leukoplakia)
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] | sr+ma | 5y 악성전환 pooled 3.5%. 비균질형 OR 4.1 |
+| [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] | sr+ma | 5y 악성전환 pooled 3.5%. 비균질형 OR 4.1 |
 | [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] | sr+ma | Pooled MT 6.64% (n=41,231, 55연구, 1934–2024). NHOL RR=4.23, OED RR=2.75, 설측연 MT=12.71%. 시대별 MT 변화 없음(p=0.75) |
 | [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] | sr+ma | 수술 후 재발률 22% (80연구, n=7,614). 재발 OL→MT RR=7.39. 레이저 절제+기화 복합이 최적 |
 
@@ -89,8 +89,8 @@ Oral-medicine decision ladder synthesizing the `oral-medicine/` papers across 7 
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] | sr | 고품질 연구만 — 악성전환 0.5-1.4% |
-| [[oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] | narrative-review | OLP를 OPMD로 분류 비판 — 진단 오류 가능성 |
+| [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] | sr | 고품질 연구만 — 악성전환 0.5-1.4% |
+| [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] | narrative-review | OLP를 OPMD로 분류 비판 — 진단 오류 가능성 |
 | [[oral-medicine/patel-2023-lichen-planus-review-idoj]] | narrative-review | LP 전신 임상양상·T세포 면역병리 |
 | [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] | narrative-review | OLP 진단 (WHO/Van der Meij)·6 임상유형·1차 국소 스테로이드 |
 | [[oral-medicine/chiang-2021-lichen-planus-malignant-transformation-review]] | narrative-review | 위험인자·6mo 임상+조직학 평가 권고 |
@@ -204,8 +204,8 @@ Oral-medicine decision ladder synthesizing the `oral-medicine/` papers across 7 
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA (80연구, n=7,614): OL 수술 후 재발률 22%; 재발 OL MT RR=7.39; 레이저 절제+기화 복합이 최적 모달리티. 축 2 OLK 수술 후 관리 근거. (sr+ma, 2024)
 - [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — Cochrane SR+MA (35 RCT, 1474명): 국소 스테로이드 vs 위약 OLP 통증해소 RR 1.91 (낮은 근거); 타크롤리무스>클로베타솔 가능. 축 3 OLP 치료 근거. (sr+ma, 2020)
 - [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 효능+비용 비교. 축 3 OLP 비용 차원 보강. (sr, 2022)
-- [[oral-medicine/warnakulasuriya-2018-opmd-clinical-features-review]] — OPMD 전 스펙트럼 임상양상. 축 1 보강. (narrative-review, 2018)
-- [[oral-medicine/kumari-2022-opmd-etiology-pathogenesis-transformation]] — OPMD 병인·MT 경로(OED 등급). 축 1 보강. (narrative-review, 2022)
+- [[oral-medicine/opmd/warnakulasuriya-2018-opmd-clinical-features-review]] — OPMD 전 스펙트럼 임상양상. 축 1 보강. (narrative-review, 2018)
+- [[oral-medicine/opmd/kumari-2022-opmd-etiology-pathogenesis-transformation]] — OPMD 병인·MT 경로(OED 등급). 축 1 보강. (narrative-review, 2022)
 - [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — 구강 아프타 병태생리·치료 단계. 축 5 RAS 보강. (narrative-review, 2021)
 - [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — PFAPA autoinflammatory 주기열. 축 5·축 7 연결. (narrative-review, 2023)
 - [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — 1차 헤르페스 치은구내염 SR. 축 7 신설 spine. (sr, 2023)

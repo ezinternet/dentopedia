@@ -3,7 +3,7 @@ title: "Anti-Inflammatory and bone-protective effects of Pimpinella brachycarpa 
 authors: Park SB, Lee YM, Yu HY, Jung JE, Son E, Kim J
 year: 2026
 doi: 10.1007/s10735-025-10690-2
-category: drug/analgesics
+category: ['periodontics']
 source_collection: pubmed-text
 full_text: true
 pmid: "41514098"
@@ -15,7 +15,7 @@ text_filename: park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protectiv
 
 ## Why Ingested
 
-인사돌(Insadol)-family OTC 치주 생약제 감시(surveillance) 인제스트. 본 논문은 ISD(=Zea mays L. 추출물 + Magnolia cortex 추출물, 즉 인사돌플러스 처방 그 자체, 250 mg/kg/day)를 양성대조약(positive control)으로 직접 사용해, 새 한약 추출물 PBE의 효능을 ISD에 벤치마킹한다 — 인사돌의 기준 효능을 동물 모델 안에서 외부 비교군으로 못박은 드문 paper. [[wiki/drug/analgesics/kim-2024-magnoliae-cortex-zea-mays-extracts]]가 보고한 ISD/인사돌의 항염·골보호 효과를 제3의 약물 평가 맥락에서 재확인한다.
+인사돌(Insadol)-family OTC 치주 생약제 감시(surveillance) 인제스트. 본 논문은 ISD(=Zea mays L. 추출물 + Magnolia cortex 추출물, 즉 인사돌플러스 처방 그 자체, 250 mg/kg/day)를 양성대조약(positive control)으로 직접 사용해, 새 한약 추출물 PBE의 효능을 ISD에 벤치마킹한다 — 인사돌의 기준 효능을 동물 모델 안에서 외부 비교군으로 못박은 드문 paper. [[wiki/periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]]가 보고한 ISD/인사돌의 항염·골보호 효과를 제3의 약물 평가 맥락에서 재확인한다.
 
 ## One-line Summary
 
@@ -78,7 +78,7 @@ Rat ligature-induced periodontitis study (6 groups, n=5–7/group): Pimpinella b
 
 ## 6. Related Work
 
-- **ISD / Insadol Plus** (*Zea mays* + *Magnolia cortex*) — used as the positive-control reference drug; corresponds to the wiki's Insadol-family pages [[wiki/drug/analgesics/kim-2024-magnoliae-cortex-zea-mays-extracts]] and [[wiki/drug/analgesics/kim-2018-magnoliae-cortex-zea-mays-modulate]].
+- **ISD / Insadol Plus** (*Zea mays* + *Magnolia cortex*) — used as the positive-control reference drug; corresponds to the wiki's Insadol-family pages [[wiki/periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]] and [[wiki/periodontics/kim-2018-magnoliae-cortex-zea-mays-modulate]].
 - GTC (green tea catechin) and CGA (chlorogenic acid) — established natural anti-periodontitis comparators (Lee et al.; Nishida et al.; Gennaro et al.).
 - Ligature-induced periodontitis is the standard rat model for alveolar bone loss / host-modulation testing.
 

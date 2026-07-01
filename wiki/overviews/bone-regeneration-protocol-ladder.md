@@ -134,7 +134,7 @@ Synthesis/overview decomposing the post-extraction alveolar ridge preservation (
 
 | Paper | Key finding |
 |---|---|
-| [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] | 즉시 식립 — BBT 온전 1.10-3.18 mm vs 비온전 1.18-3.00 mm. 생존율 모두 >90%. 비온전 근거 약함 |
+| [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] | 즉시 식립 — BBT 온전 1.10-3.18 mm vs 비온전 1.18-3.00 mm. 생존율 모두 >90%. 비온전 근거 약함 |
 
 즉시 식립 결정 ladder는 별도 페이지 [[overviews/immediate-implant-decision-ladder]] (향후 작성).
 
@@ -188,7 +188,7 @@ Synthesis/overview decomposing the post-extraction alveolar ridge preservation (
 - [[bone-regeneration/ridge-preservation/sanchez-perez-2025-dbbm-alveolar-ridge-preservation-histologic]] — DBBM RCT split-mouth
 - [[bone-regeneration/ridge-preservation/ionescu-2022-open-healing-flapless-ridge-preservation]] — flapless 5y
 - [[bone-regeneration/ridge-preservation/elizalde-mota-2024-bartee-bio-col-ridge-preservation-xenograft]] — Bartee vs Bio-Col
-- [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — 즉시식립 BBT
+- [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — 즉시식립 BBT
 - [[bone-regeneration/ridge-preservation/arroteia-2025-alveolar-ridge-preservation-posterior-rct]] — 후방부 ARP RCT
 - [[bone-regeneration/rogova-2025-histomorphometric-non-decalcified-bone-substitute-sr]] — 동물모델 SR
 - [[bone-regeneration/jensen-2009-bone-augmentation-localized-defects-review]] — ITI consensus 4 결손유형

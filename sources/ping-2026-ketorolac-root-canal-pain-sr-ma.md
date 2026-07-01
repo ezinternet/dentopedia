@@ -76,7 +76,7 @@ SR+MA of 7 RCTs (5 meta-analyzed): ketorolac significantly outperforms comparato
 ## 6. Related Work
 
 - Reinforces NSAID-for-endodontic-pain evidence: [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]], [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]].
-- Sits alongside other endodontic post-op pain work: [[drug/analgesics/pak-2011-root-canal-pain-prevalence-severity]] (prevalence/severity context).
+- Sits alongside other endodontic post-op pain work: [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] (prevalence/severity context).
 - General NSAID dentistry context: [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]].
 
 ## 7. Glossary

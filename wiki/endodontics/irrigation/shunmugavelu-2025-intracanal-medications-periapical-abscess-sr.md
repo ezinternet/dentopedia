@@ -55,6 +55,6 @@ Post-treatment apical periodontitis and postoperative pain hinge on controlling 
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — applies-to; takes the medicament status review into the periapical-abscess pain/healing clinical-outcome setting.
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — applies-to; takes the medicament status review into the periapical-abscess pain/healing clinical-outcome setting.
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — reinforces; both treat the between-visit dressing as a driver of apical-periodontitis healing.
 - [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — shared E. faecalis persistence framing from the irrigant axis.

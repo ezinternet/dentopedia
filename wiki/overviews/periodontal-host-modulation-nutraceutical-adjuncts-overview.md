@@ -8,8 +8,8 @@ source_wiki:
   - wiki/periodontics/fernandez-2025-coenzyme-q10-nonsurgical-periodontal-sr.md
   - wiki/periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma.md
   - wiki/periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.md
-  - wiki/drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
-  - wiki/drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
+  - wiki/periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter.md
+  - wiki/periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean.md
   - wiki/periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct.md
   - wiki/periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma.md
 category: [periodontics]
@@ -97,8 +97,8 @@ Synthesis of 7 papers on host-modulation and nutraceutical adjuncts to mechanica
 - [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — older CoQ10 SR+MA; conflict resolved by RoB/route
 - [[periodontics/sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis]] — vitamin C + I-PRF; null vs PMPR
 - [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — melatonin 3 mg/night NSPT adjunct in T2DM periodontitis; SR+MA positive (PPD/CAL/HbA1c/hs-CRP) but GRADE-low, T2DM-restricted
-- [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
-- [[drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
+- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — vitamin C/E + lysozyme (CELC/IGATAN); GI only
+- [[periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — ASU; animal host-modulation
 - [[periodontics/aimetti-2025-doxycycline-local-delivery-periodontal-regeneration-rct]] — local doxycycline + regen surgery; only clinically meaningful effect
 
 ## Related Overviews

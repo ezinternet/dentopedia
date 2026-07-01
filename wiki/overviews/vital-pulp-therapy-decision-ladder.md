@@ -160,4 +160,4 @@ All three NMA confirm success rates decline over time regardless of material (Ha
 
 ### 신규 추가 (2026-06)
 
-- [[endodontics/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치의 vital pulp therapy … (narrative-review, 2025)
+- [[endodontics/vpt/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치의 vital pulp therapy … (narrative-review, 2025)

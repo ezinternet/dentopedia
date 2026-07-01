@@ -3,7 +3,7 @@ title: "Perioperative Anti-inflammatory Drugs and Recovery after Periodontal Sur
 authors: M. Abusamak, A. Elananza, I. Alshdaifat, F.S. Al-Hamed, H. Al-Waeli
 year: 2025
 doi: 10.1177/23800844251365539
-category: [drug/antibiotics]
+category: ['drug/analgesics']
 pdf_path: /Users/oracleneo/llm-wiki/papers/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 pdf_filename: abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma.pdf
 source_collection: external

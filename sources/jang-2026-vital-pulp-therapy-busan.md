@@ -69,7 +69,7 @@ This is a clinical expert lecture, not a primary research study.
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — SR+MA on pulpotomy vs direct pulp capping outcomes
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — MTA pulpotomy RCT in mature permanent teeth
 - [[endodontics/vpt/duncan-2019-ese-deep-caries-exposed-pulp-position]] — ESE position statement on deep caries and pulp exposure
-- [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD guideline for VPT in permanent teeth
+- [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD guideline for VPT in permanent teeth
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — CBCT evidence of tertiary dentin after bioceramic pulp capping
 
 ## 7. Glossary

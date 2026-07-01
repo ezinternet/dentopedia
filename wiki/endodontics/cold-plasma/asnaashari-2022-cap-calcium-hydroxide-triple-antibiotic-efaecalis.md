@@ -15,7 +15,7 @@ relations:
   - type: reinforces
     target: endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr
   - type: extends
-    target: endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions
+    target: endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions
 ---
 
 ## One-line Summary
@@ -75,5 +75,5 @@ The principal finding was a clear efficacy hierarchy: **TAP completely eliminate
 ## Related Papers
 
 - [[endodontics/irrigation/ardila-2026-intracanal-medicaments-enterococcus-faecalis-sr]] — SR+MA (12 studies) confirming TAP > Ca(OH)₂ against E. faecalis; this paper is a primary study in that review's evidence base
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrative review contextualizing intracanal medicament selection; Ca(OH)₂ as standard, with caveats for resistant organisms
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrative review contextualizing intracanal medicament selection; Ca(OH)₂ as standard, with caveats for resistant organisms
 - [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — SR comparing QMix irrigation vs E. faecalis; complements CAP data with irrigant-based approaches

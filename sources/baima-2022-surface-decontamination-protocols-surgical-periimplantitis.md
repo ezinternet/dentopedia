@@ -38,7 +38,7 @@ RCT 수·이질성 제한, 제염법 정의 다양. 장기 재-골유착 결과 
 
 ## 6. Related Work
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3가 미권고한 제염법 근거
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 주위염 치료 flowchart
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 주위염 치료 flowchart
 
 ## 7. Glossary
 Decontamination = 임플란트 표면 biofilm 제거 술식; PICO = Population-Intervention-Comparison-Outcome.

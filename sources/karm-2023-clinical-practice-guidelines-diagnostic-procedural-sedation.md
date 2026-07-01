@@ -3,7 +3,7 @@ title: "Clinical practice guidelines for diagnostic and procedural sedation"
 authors: Myong-Hwan Karm
 year: 2023
 doi: 10.22974/jkda.2023.61.4.004
-category: [drug/systemic-disease]
+category: ['local-anesthesia']
 pdf_path: /Users/oracleneo/llm-wiki/papers/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation.pdf
 pdf_filename: karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation.pdf
 source_collection: external

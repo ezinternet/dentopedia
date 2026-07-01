@@ -47,6 +47,6 @@ This systematic review from Okayama University in the Japanese Dental Science Re
 - No treatment permanently eliminates sleep bruxism
 
 ## Related Papers
-- [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — BTX dosing for masseter/temporalis in bruxism
+- [[botulinum-toxin/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — BTX dosing for masseter/temporalis in bruxism
 - [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]] — BTX evidence for pain in TMD/bruxism overlap
 - [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] — splint evidence for TMD (distinct from bruxism)

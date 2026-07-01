@@ -79,4 +79,4 @@ The **only positive consensus in the entire survey** was for prosthetic heart va
 - [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — AHA statement underlying the German endocarditis recommendations.
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] — antibiotic stewardship framing for the over-prescription problem.
 - [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — stewardship outcome standardization.
-- [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes-and-implants context for the diabetes-group findings.
+- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes-and-implants context for the diabetes-group findings.

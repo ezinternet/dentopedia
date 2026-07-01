@@ -55,4 +55,4 @@ Two-arm parallel RCT, 80 participants, single pediatric dentist; outcomes proced
 
 - [[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] — Hall vs modified Hall 2-yr survival RCT (companion)
 - [[caries/chavhan-2026-zirconia-vs-ssc-primary-dentition-sr-ma]] — zirconia vs SSC primary molars SR+MA
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — primary-tooth conservative management context
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — primary-tooth conservative management context

@@ -86,7 +86,7 @@ Because efficacy is equivalent, the decision is driven by **case factors and log
 
 ## Related Pages
 
-- [[endodontics/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — umbrella SR of 12 SRs (Gupta 2026); reinforces no consistent post-op pain difference, flags primary-study overlap
+- [[endodontics/visit-protocol/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — umbrella SR of 12 SRs (Gupta 2026); reinforces no consistent post-op pain difference, flags primary-study overlap
 - [[endodontics/visit-protocol/mergoni-2022-single-versus-multiple-visits-cochrane-sr]] — largest Cochrane SR+MA; equivalent healing, transient single-visit early-pain signal
 - [[endodontics/visit-protocol/schwendicke-2017-single-visit-multiple-visit-rct-sr-ma]] — SR+MA+TSA; equivalence with TSA-corrected flare-up signal
 - [[endodontics/visit-protocol/bobba-2026-single-multiple-visit-rct-apical-periodontitis]] — RCT; equivalent PAI healing in primary apical periodontitis

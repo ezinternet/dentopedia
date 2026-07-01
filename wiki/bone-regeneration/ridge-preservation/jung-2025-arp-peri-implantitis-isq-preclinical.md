@@ -39,5 +39,5 @@ Beagle dogs (n=6), bilateral mandibular 3rd/4th premolars. Four groups: IT/SH, I
 - New bone ↔ MBL correlation: p=0.036 in IT/SH group only (weak)
 
 ## Related Papers
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — comprehensive treatment protocol for peri-implantitis
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — comprehensive treatment protocol for peri-implantitis
 - implants/isq studies — ISQ as a stability measurement tool and clinical decision thresholds

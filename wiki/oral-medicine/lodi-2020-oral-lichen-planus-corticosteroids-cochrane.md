@@ -47,5 +47,5 @@ Corticosteroid vs placebo — pain resolution RR 1.91 (95% CI 1.08-3.36; low cer
 
 - [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — extends (adds cost dimension)
 - [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — reinforces (management context)
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related (OLP malignant risk)
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related (OLP malignant risk)
 - [[overviews/oral-medicine-decision-ladder]] — OLP management axis

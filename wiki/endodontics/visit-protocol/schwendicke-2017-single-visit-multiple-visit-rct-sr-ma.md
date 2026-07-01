@@ -13,7 +13,7 @@ source_collection: external
 tags: []
 relations:
   - type: reinforces
-    target: endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions
+    target: endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions
 ---
 
 ## One-line Summary
@@ -91,4 +91,4 @@ Given the possible (but unconfirmed) flare-up elevation, the authors suggest tha
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament review; complements the null moderator finding for calcium hydroxide vs none in this SR
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament review; complements the null moderator finding for calcium hydroxide vs none in this SR

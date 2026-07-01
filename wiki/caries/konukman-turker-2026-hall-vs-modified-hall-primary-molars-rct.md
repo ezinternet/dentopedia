@@ -34,7 +34,7 @@ According to PubMed ([DOI 10.1186/s12903-026-07667-2](https://doi.org/10.1186/s1
 
 In 268 primary molars (189 children, 3–10 y) randomized 1:1 to HT vs modified HT (selective removal to soft dentine, ICCC-style, before crowning), **24-month success was statistically equivalent: 86.6% (HT) vs 92.8% (modified HT), p=0.121** — the null hypothesis held. However, the trajectory consistently favored modified HT on the most important endpoint: major failures (irreversible pulpitis/abscess requiring pulpotomy or extraction) were 10.1% (HT) vs 3.6% (modified HT) at 24 months. The standout secondary finding is that **SSC marginal fit was decisive in conventional HT**: teeth with insufficient fit had 40.0% major failure and only 50.0% success, versus 7.3% major failure and 89.9% success with sufficient fit (p=0.005). In the modified-HT arm, insufficient fit did NOT produce major failures — suggesting that removing the bulk of infected dentine buffers against the consequences of marginal leakage. First primary molars (harder to fit) underperformed second molars in the modified arm.
 
-Clinically: HT remains a reliable, child-friendly option for deep carious primary molars, and **getting a good crown fit is the operator-controllable lever that most protects against pulpal failure**; selectively removing the outer caries first is a reasonable adjunct in deep lesions, especially where ideal fit is uncertain, with no pulp exposures observed. This complements the wiki's conservative primary-tooth pulp pathway ([[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]], [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]).
+Clinically: HT remains a reliable, child-friendly option for deep carious primary molars, and **getting a good crown fit is the operator-controllable lever that most protects against pulpal failure**; selectively removing the outer caries first is a reasonable adjunct in deep lesions, especially where ideal fit is uncertain, with no pulp exposures observed. This complements the wiki's conservative primary-tooth pulp pathway ([[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]], [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]).
 
 ## Key Contributions
 
@@ -55,7 +55,7 @@ Two-arm parallel RCT (NCT05220865), 268 primary molars, block-randomized 1:1 HT 
 
 ## Related Papers
 
-- [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane review of pulp treatment in primary teeth
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
+- [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane review of pulp treatment in primary teeth
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy in primary teeth (companion)
 - [[glass-ionomer/ali-eldin-2026-giomer-hvgic-class-ii-primary-molars-rct]] — primary-molar Class II restorative RCT

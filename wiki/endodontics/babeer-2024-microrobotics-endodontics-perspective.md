@@ -40,5 +40,5 @@ Narrative perspective review (non-systematic). Evidence base: in vitro (canal wa
 
 ## Related Papers
 - [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — cited directly as establishing the gap that microrobotics addresses: no activation method improves long-term outcome or predictably accesses intricacies (motivates this work)
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament limitations (Ca(OH)₂ vs E. faecalis in biofilm) support the case for microrobot-delivered antimicrobials (extends)
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — intracanal medicament limitations (Ca(OH)₂ vs E. faecalis in biofilm) support the case for microrobot-delivered antimicrobials (extends)
 - [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] — broad irrigant overview providing the chemical landscape into which microrobot drug-delivery integrates (context)

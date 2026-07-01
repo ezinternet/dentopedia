@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-Frontier perspective on magnetically controlled microrobots for root canal disinfection — a technology review extending [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] (which concluded current activation methods cannot predictably access anatomical intricacies) into nanotechnology-enabled multifunctional solutions. Complements [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] by targeting inaccessible biofilm that even optimal medicament strategies cannot reach.
+Frontier perspective on magnetically controlled microrobots for root canal disinfection — a technology review extending [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] (which concluded current activation methods cannot predictably access anatomical intricacies) into nanotechnology-enabled multifunctional solutions. Complements [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] by targeting inaccessible biofilm that even optimal medicament strategies cannot reach.
 
 ## One-line Summary
 Perspective narrative review describing three categories of magnetically controlled microrobots (aggregated iron oxide microswarms, 3D-molded soft helicoids ~700 μm × 1.5 mm, and helical silica nanorobots ~3 μm) that can disrupt biofilm, generate ROS, deliver antibiotics on-demand, and retrieve microbiome samples from root canal intricacies inaccessible to conventional methods.

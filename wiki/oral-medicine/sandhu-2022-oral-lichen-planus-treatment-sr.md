@@ -47,4 +47,4 @@ Topical corticosteroids: favorable efficacy at low cost. Calcineurin inhibitors 
 
 - [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — extends (adds cost to efficacy SR+MA)
 - [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — reinforces (management context)
-- [[oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — related (OLP risk appraisal)
+- [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — related (OLP risk appraisal)

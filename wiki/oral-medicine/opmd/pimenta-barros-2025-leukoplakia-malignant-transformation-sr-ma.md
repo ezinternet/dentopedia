@@ -57,6 +57,6 @@ This is the most comprehensive SR+MA on oral leukoplakia (OL) malignant transfor
 
 ## Related Papers
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — companion SR+MA showing recurrent OL carries RR 7.39 MT risk; pooled surgical recurrence 22%; lateral tongue site and NHOL subtype are shared risk factors
-- [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — prior landmark SR+MA (pooled MT 9.8%); this study extends and updates with 4× larger n
-- [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — broad OPMD risk factor and therapy overview
-- [[oral-medicine/kumari-2022-opmd-etiology-pathogenesis-transformation]] — OED dysplasia grade as core MT predictor — mechanistic complement to this RR quantification
+- [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — prior landmark SR+MA (pooled MT 9.8%); this study extends and updates with 4× larger n
+- [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] — broad OPMD risk factor and therapy overview
+- [[oral-medicine/opmd/kumari-2022-opmd-etiology-pathogenesis-transformation]] — OED dysplasia grade as core MT predictor — mechanistic complement to this RR quantification

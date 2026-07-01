@@ -35,6 +35,6 @@ Local antibiotics: PPD -0.6 mm (CI 0.42–0.78), BOP -0.15 (CI 0.10–0.19), suc
 Only 6 RCTs eligible. Heterogeneous antibiotic regimens and debridement protocols. Short follow-up in most studies.
 
 ## Related Papers
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
 - [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]]
 - [[periodontics/kim-2025-management-peri-implantitis-perspectives]]

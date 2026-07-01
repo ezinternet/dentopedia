@@ -294,10 +294,10 @@ peri-implant STD 발생 → Tavelli 2025 prevalence·apical shift 추적, 외과
 
 | Spine paper | Evidence | Key finding |
 |---|---|---|
-| [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] | narrative/protocol | 임상 적용 flowchart |
+| [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] | narrative/protocol | 임상 적용 flowchart |
 | [[implants/kim-2025-management-peri-implantitis-perspectives]] | perspectives | 최신 perspectives (KAP 인접) |
-| [[implants/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] | clinical | Mg membrane regenerative |
-| [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] | clinical | one-piece implant protocol |
+| [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] | clinical | Mg membrane regenerative |
+| [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] | clinical | one-piece implant protocol |
 
 치주 카테고리 인접 paper:
 - [[periodontics/kim-2024-peri-implant-diseases-consensus-korean-academy-periodontology]] — KAP consensus
@@ -440,10 +440,10 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]]
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]]
 - [[implants/carra-2023-primordial-primary-prevention-peri-implant-sr-ma]]
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
 - [[implants/kim-2025-management-peri-implantitis-perspectives]]
-- [[implants/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]]
-- [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]]
+- [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]]
+- [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]]
 
 ### Loading / primary stability
 - [[implants/arghami-2021-immediate-early-loading-hydroxyapatite-coated]]

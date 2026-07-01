@@ -34,4 +34,4 @@ Narrative literature review.
 Erosive/atrophic OLP most symptomatic; highest malignant risk. Complete cure rare; recurrence management is standard.
 
 ## Related Papers
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related

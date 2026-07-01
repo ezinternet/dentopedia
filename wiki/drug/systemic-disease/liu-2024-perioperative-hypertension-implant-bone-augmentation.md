@@ -68,6 +68,6 @@ This single-center retrospective cohort from Peking University School and Hospit
 
 ## Related Papers
 
-- [[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — reinforces the need for intraoperative hemodynamic/vital-sign monitoring during dental procedures; this cohort quantifies the BP-surge problem that such monitoring is meant to catch.
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — reinforces the need for intraoperative hemodynamic/vital-sign monitoring during dental procedures; this cohort quantifies the BP-surge problem that such monitoring is meant to catch.
 - [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — companion cardiovascular-safety concern: local-anesthetic vasoconstrictor management in medically/physiologically at-risk dental patients.
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — broader medically compromised dental-patient risk management, including cardiovascular medications.

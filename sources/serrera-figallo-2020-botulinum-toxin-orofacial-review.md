@@ -3,7 +3,7 @@ title: "Use of Botulinum Toxin in Orofacial Clinical Practice"
 authors: Maria-Angeles Serrera-Figallo, Gonzalo Ruiz-de-León-Hernández, Daniel Torres-Lagares et al., University of Sevilla
 year: 2020
 doi: 10.3390/toxins12020112
-category: [tmj]
+category: ['botulinum-toxin']
 pdf_path: /Users/oracleneo/llm-wiki/papers/serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 pdf_filename: serrera-figallo-2020-botulinum-toxin-orofacial-review.pdf
 source_collection: external

@@ -70,6 +70,6 @@ Subgroup analysis showed the pain disadvantage of single-visit was concentrated 
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrative review on interappointment intracanal medicaments (calcium hydroxide, antibiotics); provides mechanistic context for multiple-visit protocols evaluated here
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrative review on interappointment intracanal medicaments (calcium hydroxide, antibiotics); provides mechanistic context for multiple-visit protocols evaluated here
 - [[overviews/canal-shaping-glidepath-niti-fatigue-overview]] — rotary instrumentation category; mechanical instrumentation subgroup here shows higher single-visit pain risk
 - [[overviews/vital-pulp-therapy-decision-ladder]] — vital pulp therapy category; vital tooth subgroup here shows clearest single-visit pain disadvantage (RR 2.16)

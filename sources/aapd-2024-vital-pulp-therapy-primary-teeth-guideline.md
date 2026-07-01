@@ -3,7 +3,7 @@ title: "AAPD Vital Pulp Therapy Guideline for Primary Teeth (2024)"
 authors: American Academy of Pediatric Dentistry (AAPD)
 year: 2024
 doi: N/A
-category: ['endodontics']
+category: ['endodontics/vpt']
 pdf_path: /Users/oracleneo/llm-wiki/papers/aapd-2024-vital-pulp-therapy-primary-teeth-guideline.pdf
 pdf_filename: aapd-2024-vital-pulp-therapy-primary-teeth-guideline.pdf
 source_collection: external
@@ -36,7 +36,7 @@ MTA/Biodentine 기반 VPT: 임상적 성공률 90–95%(유치). Formocresol pul
 유치 특성상 장기 자료 제한적.
 
 ## 6. Related Work
-- [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — related
+- [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — related
 
 ## 7. Glossary
 VPT: Vital Pulp Therapy 생활치수치료; IPC: Indirect Pulp Capping; DPC: Direct Pulp Capping; pulpotomy: 치수절단; MTA: Mineral Trioxide Aggregate; Biodentine: 바이오덴틴

@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-기존 [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]]는 2021년까지 데이터를 다뤘으나, 이 논문은 1934년부터 2024년 6월까지 전 기간을 포괄하는 최대 규모(n=41,231) SR+MA로 OL 악성변환율의 시대적 변화까지 분석. 기존 estimates를 갱신하는 가장 comprehensive한 데이터.
+기존 [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]]는 2021년까지 데이터를 다뤘으나, 이 논문은 1934년부터 2024년 6월까지 전 기간을 포괄하는 최대 규모(n=41,231) SR+MA로 OL 악성변환율의 시대적 변화까지 분석. 기존 estimates를 갱신하는 가장 comprehensive한 데이터.
 
 ## One-line Summary
 SR+MA of 55 studies (n=41,231 with OL): pooled malignant transformation rate 6.64% (95% CI 5.21–8.21); non-homogeneous subtype (RR=4.23), epithelial dysplasia (RR=2.75), lateral tongue (RR=2.09), and smoking (RR=1.64) are the strongest MT risk factors.

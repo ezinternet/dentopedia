@@ -3,7 +3,7 @@ title: "AAPD Vital Pulp Therapy Guideline for Permanent Teeth (2025)"
 authors: American Academy of Pediatric Dentistry (AAPD)
 year: 2025
 doi: N/A
-category: ['endodontics']
+category: ['endodontics/vpt']
 pdf_path: /Users/oracleneo/llm-wiki/papers/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.pdf
 pdf_filename: aapd-2025-vital-pulp-therapy-permanent-teeth-guideline.pdf
 source_collection: external
@@ -36,7 +36,7 @@ source_collection: external
 영구치 대상 RCT 수 제한.
 
 ## 6. Related Work
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — related
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — related
 
 ## 7. Glossary
 VPT: Vital Pulp Therapy; irreversible pulpitis: 비가역적 치수염; MTA: Mineral Trioxide Aggregate; Biodentine: 바이오덴틴

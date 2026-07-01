@@ -3,7 +3,7 @@ title: "Peri-implantitis treatment options and a proposed treatment protocol and
 authors: Inpyo Hong, Ki-Tae Koo, Sang-Yoon Oh, Hwee Woong Park, Ignacio Sanz-Martín, Jae-Kook Cha
 year: 2024
 doi: 10.5051/jpis.2303360168
-category: [implants]
+category: ['implants/peri-implantitis']
 pdf_path: /Users/oracleneo/llm-wiki/papers/hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 pdf_filename: hong-2024-peri-implantitis-treatment-protocol-flowchart.pdf
 source_collection: external

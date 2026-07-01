@@ -34,4 +34,4 @@ Narrative review.
 MTR approximately 1% with strict criteria. Regular surveillance critical for early detection.
 
 ## Related Papers
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related

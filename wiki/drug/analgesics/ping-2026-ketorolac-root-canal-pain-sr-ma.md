@@ -70,5 +70,5 @@ Ping et al. (2026) conducted the first systematic review + meta-analysis isolati
 
 - [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — extends: broad NSAID network meta-analysis for endodontic post-op pain; this page drills into ketorolac specifically.
 - [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — reinforces: earlier NSAID-for-endodontic-pain evidence.
-- [[drug/analgesics/pak-2011-root-canal-pain-prevalence-severity]] — context: prevalence/severity of post-RCT pain that this analgesia targets.
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — context: prevalence/severity of post-RCT pain that this analgesia targets.
 - [[drug/analgesics/kotowska-rodziewicz-2023-nsaids-role-dentistry-review]] — context: general NSAID pharmacology/role in dentistry.

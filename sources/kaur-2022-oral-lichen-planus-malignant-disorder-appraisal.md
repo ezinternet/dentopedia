@@ -3,7 +3,7 @@ title: "Is oral lichen planus a potential malignant disorder?: A critical apprai
 authors: Kaur, et al.
 year: 2022
 doi: 10.1111/odi.13787
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 pdf_filename: kaur-2022-oral-lichen-planus-malignant-disorder-appraisal.pdf
 source_collection: external
@@ -35,7 +35,7 @@ OLP를 OPMD로 분류하는 것의 근거와 한계를 비판적으로 검토한
 원저가 아닌 논평 형식.
 
 ## 6. Related Work
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
 
 ## 7. Glossary
 dysplastic lichenoid lesion: 이형성 편평태선 병소; OLP: Oral Lichen Planus

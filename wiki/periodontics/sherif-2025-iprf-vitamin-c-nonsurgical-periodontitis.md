@@ -67,5 +67,5 @@ The authors attribute the null to the shallow-to-moderate (stage-II) defects: me
 
 ## Related Papers
 
-- [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 이가탄(CELC) OTC RCT whose actives include vitamin C; same theme that vitamin-C-containing periodontal adjuncts add limited clinical benefit beyond mechanical/baseline care. (refines)
+- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 이가탄(CELC) OTC RCT whose actives include vitamin C; same theme that vitamin-C-containing periodontal adjuncts add limited clinical benefit beyond mechanical/baseline care. (refines)
 - [[periodontics/rasoolzadeh-2022-coenzyme-q10-periodontitis-sr-ma]] — another nutraceutical (CoQ10) periodontal adjunct; reinforces the broader question of how much antioxidant/nutraceutical adjuncts contribute beyond non-surgical mechanical therapy. (reinforces)

@@ -52,7 +52,7 @@ Primary-care, two-arm parallel RCT, 80 participants, single pediatric dentist. O
 ## 6. Related Work
 
 - [[wiki/caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] — Hall vs modified Hall 2-yr survival RCT.
-- [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — primary-tooth conservative management context.
+- [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — primary-tooth conservative management context.
 
 ## 7. Glossary
 

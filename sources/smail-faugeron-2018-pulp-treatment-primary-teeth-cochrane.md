@@ -3,7 +3,7 @@ title: "Pulp treatment for extensive decay in primary teeth (Cochrane Review)"
 authors: Smaïl-Faugeron V., Glenny AM., Courson F., Durieux P., Muller-Bolla M., Fron Chabouis H.
 year: 2018
 doi: 10.1002/14651858.CD003220.pub3
-category: ['endodontics']
+category: ['endodontics/vpt']
 pdf_path: /Users/oracleneo/llm-wiki/papers/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane.pdf
 pdf_filename: smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane.pdf
 source_collection: external
@@ -36,7 +36,7 @@ MTA pulpotomy: 24개월 성공률 ~93%. FC pulpotomy: 85–92%. IPC: 성공률 9
 연구 규모 소규모; 추적 기간 다양.
 
 ## 6. Related Work
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — related
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — related
 
 ## 7. Glossary
 pulpotomy: 치수절단; FC: Formocresol; IPC: Indirect Pulp Cap; DPC: Direct Pulp Cap; primary teeth: 유치

@@ -47,5 +47,5 @@ This 2024 systematic review and meta-analysis from King Khalid University, publi
 
 ## Related Papers
 - [[tmj/zhu-2020-btx-painful-tmd-sr-ma]] — earlier SR+MA this study updates and extends
-- [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — practical orofacial BTX application guide
+- [[botulinum-toxin/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — practical orofacial BTX application guide
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — conditional recommendation supports BTX for refractory cases

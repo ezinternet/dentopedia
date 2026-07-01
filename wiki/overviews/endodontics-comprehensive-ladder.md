@@ -59,11 +59,11 @@ Synthesis decision-ladder over 21 endodontics papers on four axes — vital pulp
 | [[endodontics/vpt/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct]] | rct (3y, 70명) | 성인 구치 우식 DPC — MTA 생존율 우위 |
 | [[endodontics/vpt/chailertvanitkul-2014-ch-mta-partial-pulpotomy-rct]] | rct (소아 84편) | Partial pulpotomy — MTA 방향성 우위 |
 | [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] | prospective (성인 52편) | 성인 영구치 MTA full pulpotomy — 단기 성공 ~80% |
-| [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] | consensus (AAPD 2025) | 영구치 VPT 최초 가이드라인. 비가역 치수염도 VPT 고려 |
-| [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] | consensus (AAPD 2024) | 유치 VPT — MTA 1차. Formocresol 대안 |
+| [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] | consensus (AAPD 2025) | 영구치 VPT 최초 가이드라인. 비가역 치수염도 VPT 고려 |
+| [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] | consensus (AAPD 2024) | 유치 VPT — MTA 1차. Formocresol 대안 |
 | [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] | in-vitro (4 재료 micro-CT) | Biodentine > MTA > Ca(OH)₂ 수복상아질. Single Bond Universal 독성 |
 | [[endodontics/vpt/jang-2026-vital-pulp-therapy-busan]] | narrative-review (한국 임상 강의) | VPT 임상 — Endoseem ≥3mm barrier, working length 근단 2mm 내 |
-| [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] | sr+ma (Cochrane, 유치) | 유치 치수 치료 — MTA 93%, FC 85-92%, IPC 유효 |
+| [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] | sr+ma (Cochrane, 유치) | 유치 치수 치료 — MTA 93%, FC 85-92%, IPC 유효 |
 
 **임상 ladder (VPT 결정)**:
 1. **가역 치수염 + 우식 인접 (no exposure)** → IPC (Indirect Pulp Capping) + Biodentine 또는 MTA + 적정 보철 봉쇄.
@@ -85,8 +85,8 @@ Synthesis decision-ladder over 21 endodontics papers on four axes — vital pulp
 | [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] | sr+ma | RET vs MTA apical plug — 생존 97.8 vs 97.1%, 성공 91.3 vs 94.6% NS |
 | [[endodontics/regenerative/sellami-2023-regenerative-endodontic-microbiology-outcome]] | prospective (n=14 qPCR) | NaOCl 1.5% 1회로 세균 부하 유의 감소. F. nucleatum·T. denticola 감소 |
 | [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] | narrative-review | 외상 IPT REP — 치수보존·Ca(OH)₂·MTA 근단폐쇄·혈관재생 비교 |
-| [[endodontics/wei-2022-regenerative-endodontic-expert-consensus]] | consensus (중국) | REP — NaOCl 1.5% + TAP/DAP + 혈전 유도 + MTA. 성공 85-90% |
-| [[endodontics/aae-2021-regenerative-endodontic-clinical-considerations]] | consensus (AAE) | Ca(OH)₂ TAP 대안 강조. 항생제 최소 농도 (1 mg/mL). 적응 확장 |
+| [[endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus]] | consensus (중국) | REP — NaOCl 1.5% + TAP/DAP + 혈전 유도 + MTA. 성공 85-90% |
+| [[endodontics/regenerative/aae-2021-regenerative-endodontic-clinical-considerations]] | consensus (AAE) | Ca(OH)₂ TAP 대안 강조. 항생제 최소 농도 (1 mg/mL). 적응 확장 |
 
 **임상 ladder (REP 결정)**:
 1. **미성숙 영구치 + 비활력 (necrotic pulp) + 치근단 치주염** → **REP 1차** (치근 길이·벽 두께 보존).

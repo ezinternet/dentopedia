@@ -35,6 +35,6 @@ Mucositis prevalence 43%, peri-implantitis 22%. Key risks: poor hygiene, periodo
 Narrative consensus, not a systematic synthesis; risk-factor estimates from heterogeneous primary literature.
 
 ## Related Papers
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]]
 - [[periodontics/grusovin-2022-antibiotics-non-surgical-peri-implantitis-ma]]
 - [[periodontics/kim-2025-management-peri-implantitis-perspectives]]

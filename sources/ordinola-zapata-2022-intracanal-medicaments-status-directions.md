@@ -3,7 +3,7 @@ title: "Present status and future directions of intracanal medicaments"
 authors: "Ordinola-Zapata R, Noblett WC, Perez-Ron A, Ye Z, Vera J"
 year: 2022
 doi: "10.1111/iej.13731"
-category: [endodontics]
+category: ['endodontics/irrigation']
 pdf_path: /Users/oracleneo/llm-wiki/papers/ordinola-zapata-2022-intracanal-medicaments-status-directions.pdf
 pdf_filename: ordinola-zapata-2022-intracanal-medicaments-status-directions.pdf
 source_collection: external

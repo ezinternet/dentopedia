@@ -3,7 +3,7 @@ title: "An appraisal of highest quality studies reporting malignant transformati
 authors: Miguel Ángel González-Moles, Pablo Ramos-García, Crispian Scully
 year: 2021
 doi: 10.1111/odi.13741
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 pdf_filename: gonzalez-moles-2021-lichen-planus-malignant-transformation-sr.pdf
 source_collection: external
@@ -36,8 +36,8 @@ PubMed/Medline 체계적 검색; OLP 진단의 조직병리학적 확인 + 최�
 연구 수 제한; 장기 추적 자료 부족.
 
 ## 6. Related Work
-- [[oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — related
-- [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — related
+- [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — related
+- [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]] — related
 
 ## 7. Glossary
 OLP: Oral Lichen Planus; SCC: Squamous Cell Carcinoma; Li criteria: OLP 조직진단 수정기준

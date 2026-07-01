@@ -55,4 +55,4 @@ This systematic review maps two intersecting frontiers of root-canal disinfectio
 
 - [[endodontics/irrigation/boutsioukis-2022-irrigants-irrigation-methods-status-directions]] — extends; this SR layers 2015–2025 novel-agent/activation advances onto Boutsioukis's status-and-directions baseline.
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — overlaps on the periapical-healing endpoint (irrigation + dressing for apical periodontitis).
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — complementary disinfection axis (between-visit medicaments vs in-visit irrigation/activation).
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — complementary disinfection axis (between-visit medicaments vs in-visit irrigation/activation).

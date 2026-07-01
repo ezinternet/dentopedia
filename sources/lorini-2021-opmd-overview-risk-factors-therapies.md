@@ -3,7 +3,7 @@ title: "Overview of Oral Potentially Malignant Disorders: From Risk Factors to S
 authors: Luigi Lorini, Coro Bescós Atín, Selvam Thavaraj, et al.
 year: 2021
 doi: 10.3390/cancers13153696
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/lorini-2021-opmd-overview-risk-factors-therapies.pdf
 pdf_filename: lorini-2021-opmd-overview-risk-factors-therapies.pdf
 source_collection: external
@@ -36,8 +36,8 @@ OLK 전체 악성전환율 ~3–17%; 비균질형 OLK 위험 더 높음. OLP: fl
 각 병소 연구의 방법론적 이질성; 장기 RCT 부재.
 
 ## 6. Related Work
-- [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — related
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
 
 ## 7. Glossary
 OLK: Oral Leukoplakia; OE: Oral Erythroplakia; OSF: Oral Submucous Fibrosis; tacrolimus: 타크롤리무스(국소 면역억제제)

@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-이 endotoxin/세포벽 성분(LTA/LPS) 배치의 한 축으로, 기존 [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]가 정리한 calcium hydroxide의 *E. faecalis* 한계를 보완할 신규 intracanal medicament 후보(postbiotic LTA)를 제시한다. 다른 배치 논문들이 LTA를 제거 대상 virulence factor로 다루는 것과 대비되게, 본 in-vitro는 LTA(probiotic 유래)를 치료제로 역전시킨다는 점에서 contrast 가치가 있다.
+이 endotoxin/세포벽 성분(LTA/LPS) 배치의 한 축으로, 기존 [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]가 정리한 calcium hydroxide의 *E. faecalis* 한계를 보완할 신규 intracanal medicament 후보(postbiotic LTA)를 제시한다. 다른 배치 논문들이 LTA를 제거 대상 virulence factor로 다루는 것과 대비되게, 본 in-vitro는 LTA(probiotic 유래)를 치료제로 역전시킨다는 점에서 contrast 가치가 있다.
 
 ## One-line Summary
 

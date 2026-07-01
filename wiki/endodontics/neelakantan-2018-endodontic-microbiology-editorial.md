@@ -46,5 +46,5 @@ No empirical results. Central claim: biofilm structure and dynamics drive the ex
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — reinforces this biofilm-disinfection premise and operationalises it into medicament strategy.
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — reinforces this biofilm-disinfection premise and operationalises it into medicament strategy.
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — applies the general biofilm-matrix biology (EPS, resistance) that underlies the resistance this editorial cites.

@@ -55,6 +55,6 @@ Endotoxin levels were significantly higher in teeth with exudation, a prior pain
 ## Related Papers
 
 - [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]] — extends/aggregates: this overview includes Bedran as a primary SR
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — reinforces the intracanal-medicament limitation at SR-of-SRs level
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — reinforces the intracanal-medicament limitation at SR-of-SRs level
 - [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]] — protocol-level evidence of incomplete LTA/LPS elimination
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — dressing/irrigation efficacy on clinical apical periodontitis endpoint

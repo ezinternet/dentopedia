@@ -3,7 +3,7 @@ title: "Clinical features and presentation of oral potentially malignant disorde
 authors: Saman Warnakulasuriya
 year: 2018
 doi: 10.1016/j.oooo.2018.03.011
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2018-opmd-clinical-features-review.pdf
 pdf_filename: warnakulasuriya-2018-opmd-clinical-features-review.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Provides the clinical-recognition foundation (lesion morphology, subtyping, biopsy/referral triggers) underpinning the nomenclature in [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] and the management scope of [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]].
+Provides the clinical-recognition foundation (lesion morphology, subtyping, biopsy/referral triggers) underpinning the nomenclature in [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] and the management scope of [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]].
 
 ## One-line Summary
 

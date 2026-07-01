@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Adds oral cGVHD — listed as an OPMD by [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — to the wiki, and links the oral-medicine cluster to the HCT-survivor population covered in [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]].
+Adds oral cGVHD — listed as an OPMD by [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — to the wiki, and links the oral-medicine cluster to the HCT-survivor population covered in [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]].
 
 ## One-line Summary
 

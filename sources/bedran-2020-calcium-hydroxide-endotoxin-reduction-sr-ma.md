@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-이 endotoxin 배치에서 calcium hydroxide(CH) intracanal medication의 LPS 감소 효과를 정량화하는 핵심 SR+MA. [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 CH 한계 서술과 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 medicament 효과 평가를 endotoxin endpoint로 확장하며, "CH는 endotoxin을 감소시키나 완전 제거는 못 한다"는 배치 thesis의 정량적 근거를 제공한다.
+이 endotoxin 배치에서 calcium hydroxide(CH) intracanal medication의 LPS 감소 효과를 정량화하는 핵심 SR+MA. [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 CH 한계 서술과 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 medicament 효과 평가를 endotoxin endpoint로 확장하며, "CH는 endotoxin을 감소시키나 완전 제거는 못 한다"는 배치 thesis의 정량적 근거를 제공한다.
 
 ## One-line Summary
 
@@ -57,7 +57,7 @@ SR+MA (9 studies qualitative, 7 meta-analyzed): calcium hydroxide intracanal med
 
 ## 6. Related Work
 
-- Endpoint-level extension of intracanal-medicament reviews ([[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]], [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]).
+- Endpoint-level extension of intracanal-medicament reviews ([[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]], [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]).
 - Included as a primary SR within the SR-of-SRs overview ([[endodontics/irrigation/ahmad-2022-endotoxins-endodontic-infections-overview-sr]]).
 
 ## 7. Glossary

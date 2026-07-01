@@ -15,7 +15,7 @@ text_filename: warnakulasuriya-2025-oral-lichen-planus-systemic-diseases.txt
 
 ## Why Ingested
 
-The wiki's OLP pages center on local disease behaviour — diagnostic criteria, clinical subtypes, treatment ladder, and malignant transformation rate ([[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]], [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]], [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]]) — but had no page on the *systemic* comorbidity burden of OLP. This 2025 J Dent Res critical review (by the same Granada/WHO group behind several of those pages) synthesizes meta-analytic prevalence/risk estimates for ~12 systemic diseases linked to OLP (DM, thyroid, celiac, liver, emotional disorders), extending the local-disease picture into oral-systemic medicine and adding the management caveat that corticosteroid therapy interacts with diabetes and hypertension.
+The wiki's OLP pages center on local disease behaviour — diagnostic criteria, clinical subtypes, treatment ladder, and malignant transformation rate ([[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]], [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]], [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]]) — but had no page on the *systemic* comorbidity burden of OLP. This 2025 J Dent Res critical review (by the same Granada/WHO group behind several of those pages) synthesizes meta-analytic prevalence/risk estimates for ~12 systemic diseases linked to OLP (DM, thyroid, celiac, liver, emotional disorders), extending the local-disease picture into oral-systemic medicine and adding the management caveat that corticosteroid therapy interacts with diabetes and hypertension.
 
 ## One-line Summary
 
@@ -78,7 +78,7 @@ Other notable figures: DM meta-analysis pooled 116 studies / 17,609 patients; th
 
 ## 6. Related Work
 
-Reinforces and extends the wiki's OLP cluster: [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]], [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]], [[oral-medicine/chiang-2021-lichen-planus-malignant-transformation-review]], [[oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]], [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]], [[oral-medicine/patel-2023-lichen-planus-review-idoj]]. The lupus oral-manifestation SR ([[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]]) is a parallel oral-systemic page.
+Reinforces and extends the wiki's OLP cluster: [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]], [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]], [[oral-medicine/chiang-2021-lichen-planus-malignant-transformation-review]], [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]], [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]], [[oral-medicine/patel-2023-lichen-planus-review-idoj]]. The lupus oral-manifestation SR ([[oral-medicine/garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus-sr]]) is a parallel oral-systemic page.
 
 ## 7. Glossary
 

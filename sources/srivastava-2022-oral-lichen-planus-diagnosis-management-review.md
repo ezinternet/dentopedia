@@ -36,7 +36,7 @@ Erosive/atrophic OLP가 증상 심하고 악성전환 위험 높음. 1차 치료
 RCT 부재; 치료 효과 비교 근거 약함.
 
 ## 6. Related Work
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
 
 ## 7. Glossary
 fluocinolone acetonide: 플루오시놀론 아세토나이드; tacrolimus: 타크롤리무스; bullous OLP: 수포형 OLP

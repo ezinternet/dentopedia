@@ -73,4 +73,4 @@ This 26-week, double-blind, two-arm parallel RCT (Xi'an, China; NCT06932211) tes
 
 ## Related Papers
 
-- [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — **reinforces**. Shares the **lysozyme** active ingredient, but as a *systemic* 이가탄/CELC oral tablet for periodontitis adjunct rather than this *topical* enzyme-protein toothpaste. Contrast of delivery route: this RCT shows strong local GI/plaque benefit for lysozyme-containing toothpaste, complementing the more limited systemic-tablet evidence.
+- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — **reinforces**. Shares the **lysozyme** active ingredient, but as a *systemic* 이가탄/CELC oral tablet for periodontitis adjunct rather than this *topical* enzyme-protein toothpaste. Contrast of delivery route: this RCT shows strong local GI/plaque benefit for lysozyme-containing toothpaste, complementing the more limited systemic-tablet evidence.

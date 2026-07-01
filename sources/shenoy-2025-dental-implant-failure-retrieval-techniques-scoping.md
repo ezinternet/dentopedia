@@ -31,4 +31,4 @@ Scoping review per PRISMA-ScR; encompassing failure definitions, classifications
 ## 6. Related Work
 - [[implants/moy-2005-dental-implant-failure-rates-risk]] — classic risk factor cohort.
 - [[implants/galarraga-vinueza-2025-peri-implant-disease-risk-factors]] — risk factors.
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — peri-implantitis treatment.
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — peri-implantitis treatment.

@@ -95,7 +95,7 @@ In vitro 연구 (쭐라롱콘대, 2016): 단기간 0.9–1.8% NaCl 세척이 인
 
 ## 6. Related Work
 
-- Buskermolen et al. 2018: Saliva-derived biofilm model in gingival tissue — [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]]
+- Buskermolen et al. 2018: Saliva-derived biofilm model in gingival tissue — [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]]
 - Deepthi et al. 2020: Ozone therapy in periodontics (adjunct wound-healing intervention) — [[periodontics/deepthi-2020-ozone-therapy-periodontics-meta-analysis]]
 - Sen et al. 2024: Sutureless vs suture wound healing post-third molar (clinical wound closure context) — [[suture-wound-closure/sen-2024-sutureless-multiple-suture-third-molar-inflammation]]
 

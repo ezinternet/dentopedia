@@ -10,7 +10,7 @@ source_collection: external
 ---
 
 ## Why Ingested
-Commissioned status-and-directions review in the 2022 IEJ supplement that redefines the irrigation paradigm — instrumentation provides access, irrigants do the disinfection — and critically evaluates evidence for adjunct activation methods; directly complements [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] and the intracanal medicaments companion [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]].
+Commissioned status-and-directions review in the 2022 IEJ supplement that redefines the irrigation paradigm — instrumentation provides access, irrigants do the disinfection — and critically evaluates evidence for adjunct activation methods; directly complements [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] and the intracanal medicaments companion [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]].
 
 ## One-line Summary
 Comprehensive narrative review critically appraising endodontic irrigants (NaOCl, EDTA, CHX) and delivery/activation methods (syringe, ultrasonic, sonic, negative-pressure, laser), concluding NaOCl + chelator remains the gold standard and no adjunct activation method has demonstrated improved long-term treatment outcomes.

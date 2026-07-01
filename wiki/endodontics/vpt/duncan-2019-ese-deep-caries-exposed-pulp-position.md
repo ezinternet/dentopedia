@@ -41,4 +41,4 @@ ESE expert committee consensus; 현재 증거 검토 + 임상 권고 도출
 ## Related Papers
 - [[endodontics/vpt/hatipoglu-2025-direct-pulp-capping-nmr-rct]] — DPC NMR 최신 근거
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — 재료 비교 SR+MA
-- [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 가이드라인
+- [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 가이드라인

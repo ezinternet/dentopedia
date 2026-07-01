@@ -3,7 +3,7 @@ title: "Periodontal host-modulation therapy with avocado/soybean unsaponifiables
 authors: de Oliveira GJL, do Nascimento Tsurumaki J, Aroni MA, Marcantonio E, Marcantonio RA
 year: 2024
 doi: 10.23736/S2724-6329.24.04854-X
-category: drug/analgesics
+category: ['periodontics']
 source_collection: pubmed-text
 full_text: false
 pmid: "38963288"
@@ -14,7 +14,7 @@ text_filename: oliveira-2024-periodontal-host-modulation-avocado-soybean.txt
 
 ## Why Ingested
 
-인사돌(Insadol)·이가탄 계열 OTC 치주약 surveillance ingest의 일부. 인사돌의 유효성분은 옥수수 불검화물(Zea mays unsaponifiable)이며, 본 논문이 다루는 ASU(avocado/soybean unsaponifiables, Piascledine)는 같은 기전 계열의 국제판 자매 불검화물 host-modulation 화합물이다. 동물모델에서 ASU의 치주 골소실 감소·치유 개선 근거를 [[wiki/drug/analgesics/kim-2024-magnoliae-cortex-zea-mays-extracts]]의 Zea mays 불검화물 기전과 짝지어 보강하기 위해 인제스트.
+인사돌(Insadol)·이가탄 계열 OTC 치주약 surveillance ingest의 일부. 인사돌의 유효성분은 옥수수 불검화물(Zea mays unsaponifiable)이며, 본 논문이 다루는 ASU(avocado/soybean unsaponifiables, Piascledine)는 같은 기전 계열의 국제판 자매 불검화물 host-modulation 화합물이다. 동물모델에서 ASU의 치주 골소실 감소·치유 개선 근거를 [[wiki/periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]]의 Zea mays 불검화물 기전과 짝지어 보강하기 위해 인제스트.
 
 ## One-line Summary
 

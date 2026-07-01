@@ -3,7 +3,7 @@ title: "Oral Potentially Malignant Disorders: Etiology, Pathogenesis, and Transf
 authors: Pratima Kumari, Priyanka Debta, Anshuman Dixit
 year: 2022
 doi: 10.3389/fphar.2022.825266
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/kumari-2022-opmd-etiology-pathogenesis-transformation.pdf
 pdf_filename: kumari-2022-opmd-etiology-pathogenesis-transformation.pdf
 source_collection: external
@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Deepens the OPMD-pathogenesis layer behind the malignant-transformation rates in [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] and complements the clinical overview [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]].
+Deepens the OPMD-pathogenesis layer behind the malignant-transformation rates in [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] and complements the clinical overview [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]].
 
 ## One-line Summary
 

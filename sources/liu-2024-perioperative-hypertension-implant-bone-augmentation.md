@@ -15,7 +15,7 @@ text_filename: liu-2024-perioperative-hypertension-implant-bone-augmentation.txt
 
 ## Why Ingested
 
-기존 위키는 전신질환 환자의 마취·약물 안전(예: [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]])과 진정·시술 중 모니터링([[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]])을 다루지만, 임플란트 동기 골증대술이라는 **장시간·자극적 외래 수술 중 발생하는 围术期(perioperative) 혈압 상승** 자체의 발생률·위험인자 데이터가 없었다. 본 728명 후향적 코호트는 심혈관계 의학적 위험 관리(혈압 모니터링·환자 선별)를 GBR/상악동거상술 술식별로 정량화해 그 공백을 메운다. (Note: PMC 전문 본문 미확보 — English structured abstract 수준으로만 작성, full_text:false.)
+기존 위키는 전신질환 환자의 마취·약물 안전(예: [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]])과 진정·시술 중 모니터링([[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]])을 다루지만, 임플란트 동기 골증대술이라는 **장시간·자극적 외래 수술 중 발생하는 围术期(perioperative) 혈압 상승** 자체의 발생률·위험인자 데이터가 없었다. 본 728명 후향적 코호트는 심혈관계 의학적 위험 관리(혈압 모니터링·환자 선별)를 GBR/상악동거상술 술식별로 정량화해 그 공백을 메운다. (Note: PMC 전문 본문 미확보 — English structured abstract 수준으로만 작성, full_text:false.)
 
 ## One-line Summary
 

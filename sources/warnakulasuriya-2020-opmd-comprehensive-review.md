@@ -3,7 +3,7 @@ title: "Oral potentially malignant disorders: A comprehensive review on clinical
 authors: Saman Warnakulasuriya
 year: 2020
 doi: 10.1016/j.oraloncology.2019.104550
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2020-opmd-comprehensive-review.pdf
 pdf_filename: warnakulasuriya-2020-opmd-comprehensive-review.pdf
 source_collection: external
@@ -36,9 +36,9 @@ OLP 0.4–12.5%, 백색반 1–17.5%, 적색반(erythroplakia) 최대 50%의 악
 연구 이질성으로 메타분석 불가; 병소별 정의 불일치로 직접 비교 제한.
 
 ## 6. Related Work
-- [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — related
-- [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — related
-- [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — related
+- [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — related
+- [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] — related
+- [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — related
 
 ## 7. Glossary
 OPMD: Oral Potentially Malignant Disorder; OLP: Oral Lichen Planus; OSF: Oral Submucous Fibrosis; OSMF: Oral Submucous Fibrosis; erythroplakia: 적색반

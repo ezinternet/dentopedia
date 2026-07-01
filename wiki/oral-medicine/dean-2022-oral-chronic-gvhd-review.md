@@ -45,6 +45,6 @@ cGVHD affects skin, eyes, and mouth most commonly. Lichenoid mucositis ranges fr
 
 ## Related Papers
 
-- [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — applies-to (GVHD listed as OPMD)
-- [[oral-medicine/warnakulasuriya-2018-opmd-clinical-features-review]] — reinforces (clinical OPMD spectrum)
+- [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — applies-to (GVHD listed as OPMD)
+- [[oral-medicine/opmd/warnakulasuriya-2018-opmd-clinical-features-review]] — reinforces (clinical OPMD spectrum)
 - [[drug/batlle-2021-oral-complaints-aml-stem-cell-transplant]] — related (HCT oral complications)

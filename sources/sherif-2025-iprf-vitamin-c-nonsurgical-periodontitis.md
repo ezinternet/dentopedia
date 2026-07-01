@@ -15,7 +15,7 @@ text_filename: sherif-2025-iprf-vitamin-c-nonsurgical-periodontitis.txt
 
 ## Why Ingested
 
-Surveillance ingest on 이가탄(Igatan)-family OTC periodontal drug ingredients: 이가탄에프(CELC) lists **vitamin C (ascorbic acid)** among its actives, so this 3-arm RCT — testing vitamin-C-loaded I-PRF vs I-PRF vs mechanical therapy alone in non-surgical periodontal therapy — is a direct clinical-efficacy check on whether topically/locally delivered vitamin C adds benefit over mechanical debridement. It reinforces the recurring "nutraceutical adjuncts have limited clinical efficacy beyond mechanical therapy" finding seen in the 이가탄 CELC RCT [[wiki/drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] and in CoQ10 adjunct evidence.
+Surveillance ingest on 이가탄(Igatan)-family OTC periodontal drug ingredients: 이가탄에프(CELC) lists **vitamin C (ascorbic acid)** among its actives, so this 3-arm RCT — testing vitamin-C-loaded I-PRF vs I-PRF vs mechanical therapy alone in non-surgical periodontal therapy — is a direct clinical-efficacy check on whether topically/locally delivered vitamin C adds benefit over mechanical debridement. It reinforces the recurring "nutraceutical adjuncts have limited clinical efficacy beyond mechanical therapy" finding seen in the 이가탄 CELC RCT [[wiki/periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] and in CoQ10 adjunct evidence.
 
 ## One-line Summary
 

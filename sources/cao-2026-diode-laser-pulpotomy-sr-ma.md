@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립 SR+MA. 유치 펄포토미의 diode laser 보조 효과를 정량화해 [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] · [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 술식 옵션 축을 보강.
+literature-surveillance `primary-pulpotomy-ssc` sweep(2026-06-20) 적립 SR+MA. 유치 펄포토미의 diode laser 보조 효과를 정량화해 [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] · [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 술식 옵션 축을 보강.
 
 ## One-line Summary
 
@@ -112,7 +112,7 @@ SR+MA of 15 RCTs (n=1,092 primary teeth): diode-laser pulpotomy achieved clinica
 ## 6. Related Work
 
 - [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy primary teeth SR+MA
-- [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
+- [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
 - [[wiki/endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — pulpotomy vs DPC SR+MA
 
 ## 7. Glossary

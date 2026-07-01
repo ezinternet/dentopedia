@@ -93,5 +93,5 @@ PDL-space widening with ZOE capping (N=8, n=602): RR=0.29, 95% CI 0.11–0.78, p
 ## Related Papers
 
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy primary teeth SR+MA
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — pulpotomy vs DPC SR+MA

@@ -51,7 +51,7 @@ Across 7 meta-analyzed studies, Ca(OH)₂ (with or without an added antimicrobia
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — extends the calcium-hydroxide medicament discussion to a quantitative endotoxin endpoint
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — extends the calcium-hydroxide medicament discussion to a quantitative endotoxin endpoint
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — companion medicament/dressing efficacy review (clinical healing endpoint)
 - [[endodontics/irrigation/ahmad-2022-endotoxins-endodontic-infections-overview-sr]] — overview of SRs that includes this study as a primary source
 - [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]] — converging finding that disinfection reduces but cannot eliminate endotoxin

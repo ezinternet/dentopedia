@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]가 정리한 근관 내 약제의 status를, E. faecalis 표적이라는 특정 병원체 축으로 좁혀 정량 근거를 보강한다. 또한 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 dressing → 치유 흐름에서 "어떤 dressing이 가장 강력한 항균인가"라는 질문에 도메인 기반 합성으로 답한다.
+[[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]가 정리한 근관 내 약제의 status를, E. faecalis 표적이라는 특정 병원체 축으로 좁혀 정량 근거를 보강한다. 또한 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 dressing → 치유 흐름에서 "어떤 dressing이 가장 강력한 항균인가"라는 질문에 도메인 기반 합성으로 답한다.
 
 ## One-line Summary
 
@@ -66,7 +66,7 @@ Systematic review (PRISMA 2020, PROSPERO CRD420261345958; 12 studies, in vitro/e
 
 ## 6. Related Work
 
-- Extends [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrows the broad intracanal-medicament status review to the E. faecalis target with quantitative synthesis.
+- Extends [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — narrows the broad intracanal-medicament status review to the E. faecalis target with quantitative synthesis.
 - Reinforces [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — both treat between-visit dressing as a determinant of disinfection/healing in apical periodontitis.
 - Related to [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] (E. faecalis antibacterial SR, irrigant axis).
 

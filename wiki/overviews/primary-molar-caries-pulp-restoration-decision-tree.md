@@ -97,8 +97,8 @@ Pulp status (reversible vs irreversible) · symptoms/infection signs · lesion e
 ## Related Papers
 
 Pulp therapy:
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 primary-tooth VPT guideline (MTA 1st-line pulpotomy)
-- [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment in primary teeth
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 primary-tooth VPT guideline (MTA 1st-line pulpotomy)
+- [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment in primary teeth
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — pulpotomy vs DPC (material > technique)
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy, irreversible pulpitis (NS, very low certainty)
 - [[endodontics/vpt/philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action]] — narrative: 95–100% success, guideline-revision call

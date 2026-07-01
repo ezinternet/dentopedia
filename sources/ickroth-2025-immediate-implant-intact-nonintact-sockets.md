@@ -4,7 +4,7 @@ authors: Axelle Ickroth, Véronique Christiaens, Jeremy Pitman, Jan Cosyn
 year: 2025
 doi: 10.3390/jcm14072462
 journal: Journal of Clinical Medicine 2025;14:2462
-category: [bone-regeneration]
+category: ['immediate-implant']
 pdf_path: /Users/oracleneo/llm-wiki/papers/ickroth-2025-immediate-implant-intact-nonintact-sockets.pdf
 pdf_filename: ickroth-2025-immediate-implant-intact-nonintact-sockets.pdf
 source_collection: external

@@ -41,5 +41,5 @@ Narrative (non-systematic) review commissioned for the IEJ 2022 supplement. Eval
 
 ## Related Papers
 - [[endodontics/irrigation/khoury-2024-endodontic-irrigants-comprehensive-perspective-review]] — broader irrigant class overview including herbals (reinforces NaOCl primacy, CHX final rinse)
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — companion IEJ review on between-appointment medicaments (extends: covers post-irrigation phase)
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — companion IEJ review on between-appointment medicaments (extends: covers post-irrigation phase)
 - [[endodontics/babeer-2024-microrobotics-endodontics-perspective]] — cites this review as justification for microrobotics: activation methods lack predictable access to intricacies (extends)

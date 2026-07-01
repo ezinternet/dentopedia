@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-이 endotoxin 배치의 최상위 종합(overview of SRs) 논문으로, 배치 내 [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]]를 포함한 5개 SR을 AMSTAR2로 평가해 "화학기계적 형성과 첩약 모두 endotoxin을 완전 제거 못 한다"는 배치 thesis의 근거 천장(evidence ceiling)을 명시한다. [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 medicament 한계 서술을 SR 수준 근거로 보강한다.
+이 endotoxin 배치의 최상위 종합(overview of SRs) 논문으로, 배치 내 [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]]를 포함한 5개 SR을 AMSTAR2로 평가해 "화학기계적 형성과 첩약 모두 endotoxin을 완전 제거 못 한다"는 배치 thesis의 근거 천장(evidence ceiling)을 명시한다. [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 medicament 한계 서술을 SR 수준 근거로 보강한다.
 
 ## One-line Summary
 
@@ -58,7 +58,7 @@ Overview of 5 systematic reviews (2 high-quality by AMSTAR2): higher endotoxin l
 ## 6. Related Work
 
 - Umbrella-level synthesis incorporating [[endodontics/irrigation/bedran-2020-calcium-hydroxide-endotoxin-reduction-sr-ma]] and related endotoxin SRs.
-- Reinforces medicament/disinfection limits described in [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and the protocol comparison [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]].
+- Reinforces medicament/disinfection limits described in [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and the protocol comparison [[endodontics/irrigation/alquria-2023-disinfection-protocols-bacteria-lta-lps]].
 
 ## 7. Glossary
 

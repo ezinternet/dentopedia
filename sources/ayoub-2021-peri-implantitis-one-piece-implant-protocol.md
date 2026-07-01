@@ -3,7 +3,7 @@ title: "Management Protocol of Peri-Implantitis in Patients Treated with One Pie
 authors: Ayoub AH, Belal SM
 year: 2021
 doi: ""
-category: [implants]
+category: ['implants/peri-implantitis']
 pdf_path: /Users/oracleneo/llm-wiki/papers/ayoub-2021-peri-implantitis-one-piece-implant-protocol.pdf
 pdf_filename: ayoub-2021-peri-implantitis-one-piece-implant-protocol.pdf
 source_collection: external

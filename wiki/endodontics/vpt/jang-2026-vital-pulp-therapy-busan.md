@@ -73,7 +73,7 @@ This 69-slide clinical lecture, presented in Busan on April 12, 2026, outlines a
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — SR+MA supporting pulpotomy over direct capping; contextualizes success rates cited in this lecture
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — MTA pulpotomy RCT data referenced as evidence base
 - [[endodontics/vpt/duncan-2019-ese-deep-caries-exposed-pulp-position]] — ESE position on pulp exposure management; foundational guideline
-- [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 2025 guideline: international consensus on VPT in permanent teeth
+- [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 2025 guideline: international consensus on VPT in permanent teeth
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — CBCT confirmation of tertiary dentin after bioceramic capping
 - [[endodontics/vpt/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct]] — MTA vs Ca(OH)₂ RCT; supports bioceramic material choice
 - [[endodontics/vpt/hatipoglu-2025-direct-pulp-capping-nmr-rct]] — NMR-based RCT on direct pulp capping outcomes

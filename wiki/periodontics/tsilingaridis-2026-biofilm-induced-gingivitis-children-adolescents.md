@@ -85,4 +85,4 @@ A noted gap: **none of the 269 studies used the 2017 World Workshop gingivitis c
 - [[periodontics/caton-2018-classification-scheme-periodontal-periimplant-diseases]] — the 2017 World Workshop classification framework this review applies to the under-18 population (this review notes no included study actually used its gingivitis case definition).
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — companion 2017 WW consensus (periodontitis staging/grading); same classification system this pediatric review operates within.
 - [[periodontics/jo-2008-management-of-dental-biofilm-through]] — professional oral health care improving patient plaque-control ability; aligns with this review's finding that supervised/education-based biofilm control is the cornerstone of gingivitis management.
-- [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — biofilm–gingiva interaction model underpinning the host–biofilm mechanism of gingivitis.
+- [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — biofilm–gingiva interaction model underpinning the host–biofilm mechanism of gingivitis.

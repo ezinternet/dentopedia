@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Provides the conceptual framing — "pulpal and periradicular infections are biofilm-mediated, and biofilm structure confers extraordinary antimicrobial resistance" — that anchors the disinfection rationale in [[wiki/endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and connects endodontic biofilm to the broader oral-biofilm matrix biology in [[wiki/oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
+Provides the conceptual framing — "pulpal and periradicular infections are biofilm-mediated, and biofilm structure confers extraordinary antimicrobial resistance" — that anchors the disinfection rationale in [[wiki/endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] and connects endodontic biofilm to the broader oral-biofilm matrix biology in [[wiki/oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]].
 
 ## One-line Summary
 

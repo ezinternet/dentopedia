@@ -66,4 +66,4 @@ Clinically: treat oral ulcers — especially on the hard palate and especially i
 ## Related Papers
 
 - [[implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] — sibling autoimmune-dentistry SR; reinforces it by supplying the SLE oral-mucosal/soft-tissue and dry-mouth disease burden that frames implant risk in autoimmune patients.
-- [[oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — oral lichen planus appraisal; SLE oral lesions clinically mimic lichen planus, making this the differential-diagnosis counterpart on the oral-mucosal-disease shelf.
+- [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — oral lichen planus appraisal; SLE oral lesions clinically mimic lichen planus, making this the differential-diagnosis counterpart on the oral-mucosal-disease shelf.

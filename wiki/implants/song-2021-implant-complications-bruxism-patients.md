@@ -67,7 +67,7 @@ This editorial commentary in the Journal of the Korean Association of Oral and M
 ## Related Papers
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — occlusal considerations during implant maintenance phase (post-prosthesis)
 - [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — systematic review of sleep bruxism management (more recent evidence base for the splint/BoNT/CBT options)
-- [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — BoNT in orofacial / masticatory muscle disorders
+- [[botulinum-toxin/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — BoNT in orofacial / masticatory muscle disorders
 - [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]] — BoNT for TMD — directly relevant evidence base for the BoNT adjunct recommendation here
 - [[tmj/zhu-2020-btx-painful-tmd-sr-ma]] — BTX for painful TMD SR/MA
 - [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] — TMD diagnosis/treatment reference

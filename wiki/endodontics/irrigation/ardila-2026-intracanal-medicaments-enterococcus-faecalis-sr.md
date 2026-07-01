@@ -56,6 +56,6 @@ Persistent post-treatment apical periodontitis is repeatedly linked to *Enteroco
 
 ## Related Papers
 
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — extends; narrows the broad intracanal-medicament status review to the E. faecalis target with quantitative synthesis.
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — extends; narrows the broad intracanal-medicament status review to the E. faecalis target with quantitative synthesis.
 - [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] — reinforces; both frame the between-visit dressing as a determinant of disinfection and apical-periodontitis healing.
 - [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]] — same E. faecalis target from the irrigant (QMix) axis.

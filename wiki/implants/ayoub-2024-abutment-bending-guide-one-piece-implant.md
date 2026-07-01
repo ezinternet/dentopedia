@@ -40,4 +40,4 @@ Case study. One-piece compressive implant placement with need for abutment bendi
 - No complications reported
 
 ## Related Papers
-- [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; one-piece implant peri-implantitis management
+- [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; one-piece implant peri-implantitis management

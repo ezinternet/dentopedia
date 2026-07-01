@@ -3,7 +3,7 @@ title: "AAE Clinical Considerations for a Regenerative Procedure (Revised 2021)"
 authors: American Association of Endodontists (AAE)
 year: 2021
 doi: N/A
-category: ['endodontics']
+category: ['endodontics/regenerative']
 pdf_path: /Users/oracleneo/llm-wiki/papers/aae-2021-regenerative-endodontic-clinical-considerations.pdf
 pdf_filename: aae-2021-regenerative-endodontic-clinical-considerations.pdf
 source_collection: external
@@ -36,7 +36,7 @@ AAE 근거 기반 임상 가이드라인; 2021년 개정.
 비교 RCT 부족; 성인 치아 적용 근거 미흡.
 
 ## 6. Related Work
-- [[endodontics/wei-2022-regenerative-endodontic-expert-consensus]] — related
+- [[endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus]] — related
 - [[endodontics/sellami-2023-regenerative-endodontic-microbiology-outcome]] — related
 
 ## 7. Glossary

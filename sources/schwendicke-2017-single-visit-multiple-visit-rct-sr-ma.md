@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-근관치료 1회법 vs 다회법 비교에서 장기 합병증, 술후 통증, flare-up 위험도를 동시에 분석한 SR+MA+TSA(시험순차분석)가 필요했음. 특히 [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]에서 근관내 medicament(수산화칼슘) 사용 근거를 보완하는 임상 outcome 데이터로 활용되며, 이 SR이 해당 논쟁의 핵심 기반 문헌임.
+근관치료 1회법 vs 다회법 비교에서 장기 합병증, 술후 통증, flare-up 위험도를 동시에 분석한 SR+MA+TSA(시험순차분석)가 필요했음. 특히 [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]에서 근관내 medicament(수산화칼슘) 사용 근거를 보완하는 임상 outcome 데이터로 활용되며, 이 SR이 해당 논쟁의 핵심 기반 문헌임.
 
 ## One-line Summary
 

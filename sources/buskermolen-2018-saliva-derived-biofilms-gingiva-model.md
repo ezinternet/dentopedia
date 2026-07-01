@@ -3,7 +3,7 @@ title: "Saliva-Derived Commensal and Pathogenic Biofilms in a Human Gingiva Mode
 authors: "J.K. Buskermolen, M.M. Janus, S. Roffel, B.P. Krom, S. Gibbs"
 year: 2018
 doi: "10.1177/0022034517729998"
-category: [periodontics]
+category: ['oral-microbiology']
 pdf_path: /Users/oracleneo/llm-wiki/papers/buskermolen-2018-saliva-derived-biofilms-gingiva-model.pdf
 pdf_filename: buskermolen-2018-saliva-derived-biofilms-gingiva-model.pdf
 source_collection: external

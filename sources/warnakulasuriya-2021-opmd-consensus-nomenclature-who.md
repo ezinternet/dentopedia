@@ -3,7 +3,7 @@ title: "Oral potentially malignant disorders: A consensus report from an interna
 authors: Saman Warnakulasuriya, Newell W. Johnson, et al.
 year: 2021
 doi: 10.1111/odi.13704
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 pdf_filename: warnakulasuriya-2021-opmd-consensus-nomenclature-who.pdf
 source_collection: external
@@ -36,8 +36,8 @@ WHO Collaborating Centre for Oral Cancer 주관 국제 전문가 합의문: OPMD
 합의 기반이므로 근거 등급 체계(GRADE) 미적용.
 
 ## 6. Related Work
-- [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — related
-- [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — related
+- [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]] — related
+- [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] — related
 
 ## 7. Glossary
 PVL: Proliferative Verrucous Leukoplakia; actinic cheilitis: 광선구순염; OSF: Oral Submucous Fibrosis

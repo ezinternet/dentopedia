@@ -4,7 +4,7 @@ authors: Wagner J, Spille JH, Wiltfang J, Naujokat H
 year: 2022
 doi: 10.1186/s40729-021-00399-8
 journal: International Journal of Implant Dentistry 8:1
-category: [drug/antibiotics]
+category: ['drug/systemic-disease']
 pdf_path: /Users/oracleneo/llm-wiki/papers/wagner-2022-diabetes-mellitus-dental-implants-sr.pdf
 pdf_filename: wagner-2022-diabetes-mellitus-dental-implants-sr.pdf
 source_collection: external

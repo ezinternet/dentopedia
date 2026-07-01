@@ -47,5 +47,5 @@ This systematic review and meta-analysis evaluated 20 RCTs on 보툴리눔독소
 
 ## Related Papers
 - [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]] — updated 2024 SR+MA confirming these findings with larger evidence base
-- [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — practical injection protocols and dosing reference
+- [[botulinum-toxin/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — practical injection protocols and dosing reference
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — conditional BTX recommendation for refractory myofascial TMD

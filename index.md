@@ -76,7 +76,7 @@ tags: []
 - [[implants/atieh-2025-tissue-vs-bone-level-peri-implantitis-sr-ma]] — SR+MA(5편, 501 임플란트, 2025): TL 치주염 RR 0.59·실패 RR 0.59 — 유의차 없음; TL·BL 임상결과 유사
 - [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — 후향적(n=106, 1년/59개 3년): TL 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 주요 위험인자
 - [[implants/desai-2013-platform-switching-bone-loss-review]] — 서술적 단보(2013): 플랫폼 스위칭 메커니즘 개요 — 미세간극 이동·응력 분산을 통한 변연골 보존 원리
-- [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — 증례시리즈: 원피스 임플란트 치주염 프로토콜 — 다이오드레이저·알부민 동종골·스티키본·PRF 복합 적용
+- [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — 증례시리즈: 원피스 임플란트 치주염 프로토콜 — 다이오드레이저·알부민 동종골·스티키본·PRF 복합 적용
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — 증례보고(2024): 원피스 임플란트 ABVG 신기술 — RealGuide.5·NeoBiotech 가이드로 지대주 굴곡 정확도 향상
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — SR+MA(11개 연구): 임플란트 주위 점막염 43%·임플란트 주위염 22%; 기능 기간·케이스 정의가 유병률 결정
 - [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 2017 세계 워크숍 컨센서스: 임플란트 주위 건강·점막염·임플란트 주위염 표준 케이스 정의 확립(AAP/EFP)
@@ -92,8 +92,8 @@ tags: []
 - [[implants/stilwell-2024-occlusal-considerations-implant-maintenance]] — 서술적 고찰(BDJ 2024): 임플란트 유지관리 교합 점검 총론 — 임플란트 파절 0.5%; PDL 없어 과부하 위험; 4단계 연간 교합 평가 프로토콜; 이갈이 보호장치 필수
 - [[implants/kim-2026-proximal-contact-loss-implants-10years]] — cross-sectional(JPIS 2026;56:31, n=142, >10년): 인접면 접촉 소실률 53.7%; 근심 65.6%>>원심 28.3%; 구치부 위치·인접치 치주상태 불량이 유의한 위험인자
 - [[implants/james-2025-future-dental-implants-trends-technologies]] — 서술적 고찰(Cureus 2025, 2015-2025): 임플란트 미래 — 지르코니아·Ti-Zr 합금, AI·로보틱스·3D프린팅, 바이오액티브 표면, 스마트 임플란트; 비용·장기데이터 부족이 현실 장벽
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 서술적 고찰(JPIS 2024;54:295, 연세대/서울대): 임플란트 주위염 단계적 치료 프로토콜 제안 — 실패vs실패중 분류→비수술(소파±항생제)→수술(결손형태별)→SPT; 플로우차트 포함
-- [[implants/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] — 서술적 고찰+증례보고(MDPI Dentistry 2026, Zagreb/Osijek): 임플란트 주위염 치료 총론 + 마그네슘막 GBR 증례 3건; 생분해성 Mg막 신개념; 예비 임상 단계
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 서술적 고찰(JPIS 2024;54:295, 연세대/서울대): 임플란트 주위염 단계적 치료 프로토콜 제안 — 실패vs실패중 분류→비수술(소파±항생제)→수술(결손형태별)→SPT; 플로우차트 포함
+- [[implants/peri-implantitis/vrazic-2026-peri-implantitis-treatment-magnesium-membrane]] — 서술적 고찰+증례보고(MDPI Dentistry 2026, Zagreb/Osijek): 임플란트 주위염 치료 총론 + 마그네슘막 GBR 증례 3건; 생분해성 Mg막 신개념; 예비 임상 단계
 - [[implants/gehrke-2024-implant-dentistry-review-2024]] — 현대 임플란트 치의학 서술적 고찰 — 표면 처리(SLA·SLActive·UV), 지르코니아 임플란트, 디지털 가이드 수술.
 - [[implants/padhye-2020-quantitative-edentulous-posterior-maxilla]] — CBCT 후향 분석 (349개 무치악 부위, 250명): 상악 구치부 절반 이상이 폭 < 6 mm·높이 < 8 mm이며 54.14%가 경사진 상악동 저부 → 표준 임플란트 식립 전 증대술이 빈번 필요
 - [[implants/zhang-2024-short-vs-long-implants-sinus]] — Network meta-analysis (17 studies, 1,076 patients, 1,751 implants): SFE에서 short implant(4–8 mm) vs long(≥8 mm) 생존율 동등·MBL 단축형이 유의하게 적음.
@@ -283,7 +283,7 @@ tags: []
 - [[bone-regeneration/zhou-2026-metal-phenolic-electrospun-membrane-alveolar-gbr]] — Zhou 2026 · in-vitro · 커큐민-스트론튬 금속-페놀 전기방사 GBR막이 골형성·혈관신생·M1→M2 면역전환 시너지(쥐 최고 BV/TV)
 - [[bone-regeneration/ridge-preservation/araujo-2005-dimensional-ridge-alterations-tooth-extraction]] — Dog histology landmark paper: buccal > lingual resorption; Phase 1 bundle bone loss + Phase 2 external surface resorption; immediate implant cannot prevent buccal collapse
 - [[bone-regeneration/ridge-preservation/tomlin-2014-ridge-preservation-implant-therapy-review]] — Review: natural healing = 1mm vertical + 4–6mm horizontal (50%) loss; 2/3 within 3mo; all ridge preservation techniques beat blood clot alone; no single superior technique
-- [[bone-regeneration/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — Systematic review (20 studies, 525 implants): BBT 1.10–3.18mm intact vs 1.18–3.00mm non-intact; survival >90–100% both; low evidence quality for non-intact sockets
+- [[immediate-implant/ickroth-2025-immediate-implant-intact-nonintact-sockets]] — Systematic review (20 studies, 525 implants): BBT 1.10–3.18mm intact vs 1.18–3.00mm non-intact; survival >90–100% both; low evidence quality for non-intact sockets
 - [[bone-regeneration/tallarico-2025-peri-implantitis-guided-bone-regeneration-case]] — 증례보고(2025): 치주임플란트염 실패→CAD/CAM 티타늄메시 GBR 9개월→완전가이드 재식립→지르코니아; 완전 디지털 워크플로우
 - [[bone-regeneration/ayoub-2018-ridge-splitting-horizontal-augmentation-case]] — 증례보고(스플릿마우스): 위축 상악 수평골 부족 시 변형 치조골 분리술 — 피에조서저리·스티키본·알부민 동종골 동시식립
 - [[bone-regeneration/enislidis-2006-staged-ridge-splitting-implant-mandible]] — Enislidis 2006 · case-report (n=5, 17 임플란트, abstract-only) · 2단계 하악 ridge-split — 협측 corticotomy로 녹색골절(greenstick) 위치 사전결정, 협측분절 골막 유경피판 유지; 전 분절 계획대로 골절·6개월 전 임플란트 안정
@@ -1123,8 +1123,8 @@ tags: []
 ## 재생근관치료 (Endodontics: Regenerative)
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — Narrative review (Front Dent Med 2022): REP in traumatized IPT — apexification vs REP goal distinction; partial pulpotomy/revascularization approaches; heterogeneous evidence from case reports
 - [[endodontics/regenerative/sellami-2023-regenerative-endodontic-microbiology-outcome]] — Prospective (Front Dent Med 2023, n=14): REP disinfection — F.nucleatum/T.denticola/E.faecalis 100%; 1.5% NaOCl significant bacterial reduction; LPRF → retreatment/persistent AP → NOT recommended
-- [[endodontics/wei-2022-regenerative-endodontic-expert-consensus]] — REP 중국 전문가 합의 — NaOCl 1.5% 세정, TAP/DAP 유치, 혈전 유도, MTA 차폐; 성공률 85–90%.
-- [[endodontics/aae-2021-regenerative-endodontic-clinical-considerations]] — AAE REP 임상 고려사항 2021 개정 — Ca(OH)₂ TAP 대안으로 강조, 항생제 최소 농도(1mg/mL), 적응증 확장.
+- [[endodontics/regenerative/wei-2022-regenerative-endodontic-expert-consensus]] — REP 중국 전문가 합의 — NaOCl 1.5% 세정, TAP/DAP 유치, 혈전 유도, MTA 차폐; 성공률 85–90%.
+- [[endodontics/regenerative/aae-2021-regenerative-endodontic-clinical-considerations]] — AAE REP 임상 고려사항 2021 개정 — Ca(OH)₂ TAP 대안으로 강조, 항생제 최소 농도(1mg/mL), 적응증 확장.
 - [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — SR+MA (J Endod 2017): 미성숙 치근단 병소 — 재생치료(RET) 생존율 97.8% vs MTA 근단폐쇄(MAP) 97.1%; 치근 성숙 RET 우위; 치유율 유사
 - [[endodontics/regenerative/meschi-2023-revitalization-apical-periodontitis-sr-ma]] — SR+MA (IEJ 2023): 미성숙·성숙치 모두 포함; 치근첨 주위염 동반 재생치료 성공률 85%; 미성숙치 치근 성숙 68%; 성숙치 치근첨 병소 치유 RCT 근거 부족
 - [[endodontics/regenerative/panda-2022-regenerative-apexification-immature-teeth-sr-ma]] — SR+MA (J Clin Med 2022, 22편): RET vs 수산화칼슘 근단형성술 — 치근 길이·두께 증가는 RET 유의 우위; 성공률·치유율 유사; MTA 근단폐쇄 대안
@@ -1250,7 +1250,7 @@ tags: []
 - [[drug/analgesics/kelidari-2026-single-dose-oral-postoperative-endodontic-pain-sr-ma]] — Kelidari 2026 · sr+ma · 근관치료 후 단회투여: 즉각진통은 디클로페낙+아세트아미노펜, 12–24h 지속은 노바펜·나프록센 우수
 - [[drug/analgesics/altuhafy-2026-tenoxicam-postoperative-dental-pain-sr]] — Altuhafy 2026 · sr · 치과 술후통 tenoxicam: 위약 우월, 타 NSAID·코르티코스테로이드 동등~우월, rofecoxib보단 열등(9 RCT)
 - [[drug/analgesics/tamgadge-2025-preoperative-dexamethasone-third-molar-pain-swelling-trismus]] — Tamgadge 2025 · rct · 술전 dexamethasone 4mg IM 1회가 사랑니 발치 후 통증·개구제한·부종을 위약 대비 유의 감소(분악 n=60)
-- [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
+- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — SR(56편): 조절 양호 당뇨 = 정상 성공률; 조절 불량(HbA1c≥9%) → 치주염↑·실패↑; 항생제+CHX 필수; 금기 아님
 - [[drug/systemic-disease/al-ansari-2022-diabetes-mellitus-dental-implants-sr-ma]] — SR+MA(89편): 당뇨 임플란트 실패 OR 1.777; T1DM>T2DM(OR 4.477); MBL +0.776mm; 상악에서만 유의
 - [[drug/systemic-disease/andrade-2021-survival-rate-peri-implant-evaluation]] — Andrade 2021 · sr+ma(5편) · 혈당조절 시 즉시하중 임플란트 생존·MBL 당뇨서 비당뇨와 차이 없음 (PMC full text)
 - [[drug/systemic-disease/nathan-2008-translating-a1c-assay-estimated-average]] — 국제 다기관 prospective(n=507, ADAG): HbA1c–평균혈당 선형회귀식 eAG (mg/dL) = 28.7×A1C − 46.7 (R²=0.84) 확립; 연령·성별·당뇨형·인종·흡연 무관; 환자 설명 시 % → mg/dL 환산 표준
@@ -1262,7 +1262,7 @@ tags: []
 - [[drug/mronj/baghalipour-2025-mronj-prevention-management-review]] — 포괄적 고찰(2025): MRONJ 4단계 예방체계; 1차(투약 전 치과처치)>2차(술중)>3차(확립 MRONJ)>4차(과잉의료화 방지)
 - [[drug/analgesics/satpathi-2024-corticosteroids-dentistry-review]] — 서술적 고찰: 덱사메타손(발치 부종)·트리암시놀론(아프타·OLP)·프레드니솔론(전신) 정리; 부신부전 스트레스 프로토콜
 - [[drug/systemic-disease/uritu-2025-vasoconstrictor-dental-anesthesia-pregnancy-sr]] — SR(9편, 2025): 임신 중 치과마취 — 에피네프린 1:100,000–200,000만 허용; 펠리프레신 절대금기(옥시토신 작용)
-- [[drug/analgesics/pak-2011-root-canal-pain-prevalence-severity]] — SR+MA(72편): 근관치료 전 통증 유병률 81% → 24h 40% → 1주 11%; 통증 강도 54→24→5점; 보조마취 필요율 60%
+- [[endodontics/pak-2011-root-canal-pain-prevalence-severity]] — SR+MA(72편): 근관치료 전 통증 유병률 81% → 24h 40% → 1주 11%; 통증 강도 54→24→5점; 보조마취 필요율 60%
 - [[drug/analgesics/smith-2017-nsaids-postoperative-endodontic-pain]] — SR+MA(15편): ibuprofen 600mg 6h 시점 위약 대비 유효(ES=10.50); ibuprofen+APAP 병용 추가 이득 없음
 - [[drug/analgesics/di-spirito-2022-endodontic-pain-management-overview]] — Overview of SRs: NSAIDs 1차·코르티코스테로이드 보조 유효; 술전 예방투여 우월; 기술적 요소(근관장 초과·세정·교합감소)도 영향
 - [[drug/analgesics/samani-2025-nsaids-endodontic-postoperative-network]] — Network MA(16 RCT, n=2021): NSAIDs·코르티코스테로이드 8~72h 전 시점 유효; 효과 시간 경과에 따라 감소; I²=100% 주의
@@ -1317,16 +1317,16 @@ tags: []
 - [[drug/analgesics/vatankhah-2023-ibuprofen-diclofenac-endodontic-pain-rct]] — RCT (Eur Endod J 2023): 비가역적 치수염 1대구치 endodontic treatment 후 — diclofenac potassium 50mg이 ibuprofen 400mg보다 pain-free 비율 + 평균 VAS 점수 유의하게 우수. Ibuprofen 무반응 환자의 대안.
 - [[drug/analgesics/watson-2022-acetaminophen-codeine-ibuprofen-third-molar-sr-ma]] — SR+MA (Pain Med 2022, SIU/WashU/UH): 제3대구치 발치 후 통증 — APAP 600 + codeine 60 병용 vs ibuprofen 400 단독 — ibuprofen 단독이 동등 또는 우수, opioid combination 정당화 부족 → ADA 2022 opioid-sparing 가이드라인 직접 지지.
 - [[drug/analgesics/wells-2011-ibuprofen-acetaminophen-endodontic-necrosis-rct]] — RCT (J Endod 2011, OSU, n=71 emergency endodontic 환자 치수괴사+근첨방사선투과+중-중증 통증): 술후 ibuprofen 600 + APAP 1000 병용군이 ibuprofen 600 단독보다 통증 감소·escape medication 사용 감소 → 응급 endodontic 환경에서 combination 우위 확인.
-- [[drug/analgesics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 다기관 RCT (BMC Oral Health 2019, n=100, 8주): SRP 보조 CELC (vitamin C/E + lysozyme + carbazochrome, IGATAN F) 위약 대비 GI 4주 -0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI NS — 임상적 효능 한계 명확
-- [[drug/analgesics/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 비글견 RCT (BMC Vet Res 2024, n=10, 8주): Magnoliae cortex 40mg + Zea mays L. 20mg 경구 → GI·PPD·CAL·BoP 위약 대비 유의 개선, tissue TNF-α 감소 — Insadol 계열 in vivo 항염 확인
-- [[drug/analgesics/kim-2018-magnoliae-cortex-zea-mays-modulate]] — SNU 치주과 in vitro (JPIS 2018, RAW 264.7 + P. gingivalis): Magnoliae Cortex 60 µg + 옥수수 불검화 추출물 300 µg 병용 → NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 synergy
-- [[drug/analgesics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — 동물실험(쥐 결찰 치주염+실험적 관절염, n=60): 스케일링 후 보조 ASU(아보카도/대두 불검화물, 인사돌 옥수수 불검화물의 국제판 자매물) 0.6 mg/kg 위관투여가 치주 골소실을 줄이고 치유를 개선 — 불검화물 host-modulation 계열 보강
-- [[drug/analgesics/park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective]] — 쥐 결찰-치주염 동물실험(6군, n=5–7): 참나물 추출물(PBE) 150–300 mg/kg가 치조골 소실·TRAP+ 파골세포·IL-1β/TNF-α를 용량 의존적으로 감소, 양성대조약 ISD(=인사돌플러스 처방, 옥수수+후박 추출물 250 mg/kg)와 효과 동등 — 인사돌을 기준 효능 벤치마크로 사용
+- [[periodontics/hong-2019-randomized-double-blind-placebo-controlled-multicenter]] — 다기관 RCT (BMC Oral Health 2019, n=100, 8주): SRP 보조 CELC (vitamin C/E + lysozyme + carbazochrome, IGATAN F) 위약 대비 GI 4주 -0.18 vs +0.01 (p=0.015), GEE OR=2.46 (p=0.022); PD·CAL·PI NS — 임상적 효능 한계 명확
+- [[periodontics/kim-2024-magnoliae-cortex-zea-mays-extracts]] — 비글견 RCT (BMC Vet Res 2024, n=10, 8주): Magnoliae cortex 40mg + Zea mays L. 20mg 경구 → GI·PPD·CAL·BoP 위약 대비 유의 개선, tissue TNF-α 감소 — Insadol 계열 in vivo 항염 확인
+- [[periodontics/kim-2018-magnoliae-cortex-zea-mays-modulate]] — SNU 치주과 in vitro (JPIS 2018, RAW 264.7 + P. gingivalis): Magnoliae Cortex 60 µg + 옥수수 불검화 추출물 300 µg 병용 → NF-κB·ERK1/2·iNOS 억제, NO·PGE₂·IL-1β·IL-6 분비 감소 — 단독보다 병용이 synergy
+- [[periodontics/oliveira-2024-periodontal-host-modulation-avocado-soybean]] — 동물실험(쥐 결찰 치주염+실험적 관절염, n=60): 스케일링 후 보조 ASU(아보카도/대두 불검화물, 인사돌 옥수수 불검화물의 국제판 자매물) 0.6 mg/kg 위관투여가 치주 골소실을 줄이고 치유를 개선 — 불검화물 host-modulation 계열 보강
+- [[periodontics/park-2026-pimpinella-brachycarpa-anti-inflammatory-bone-protective]] — 쥐 결찰-치주염 동물실험(6군, n=5–7): 참나물 추출물(PBE) 150–300 mg/kg가 치조골 소실·TRAP+ 파골세포·IL-1β/TNF-α를 용량 의존적으로 감소, 양성대조약 ISD(=인사돌플러스 처방, 옥수수+후박 추출물 250 mg/kg)와 효과 동등 — 인사돌을 기준 효능 벤치마크로 사용
 - [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — Narrative review (KDA 2026 64(4) Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7%; clindamycin ADR 15.7×↑(vs amoxicillin); β-blocker/TCA 환자 epinephrine ≤2 cartridges; GFR/LFT 기반 용량조절 표
 - [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 후향(2010–2017, 평균 23,624 치과의사) + Yellow Card MHRA ADR: amoxicillin 압도적 최저(전체 21.5·치명적 0.1/백만), clindamycin 치명적 최고(2.9/백만, 대부분 C. difficile); macrolide QT/torsades 사망; "amoxicillin 알레르기 → clindamycin" 반사 위험.
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 후향 단일기관(루마니아, n=105, 2024.11–12): DrugBank Checker로 1,332 약물쌍 분석 — 주요 DDI 2.3%·중등도 25.0%·경미 13.4%; 주요는 31–60세(61.3%)·CVD(epinephrine + β-blocker) 집중; 0–30세 0건.
 - [[drug/mronj/jkda-2021-60-1-004]] — Review (단국대 통합치의학 최정임, JKDA 2022): BMA(bisphosphonate·denosumab) 복용 환자에서 dental implant가 MRONJ trigger·risk factor 평가 — drug holiday·식립 후 maintenance framework
-- [[drug/systemic-disease/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — Special article (JKDA 2023, SNU 치과마취과 Karm MH): 2022년 한국 진정 가이드라인 해설 — moderate sedation 중심, 15 PICO 권고 (제공자 교육·약물·금식·monitoring·소아 호흡·퇴원), 비마취과 제공자 대상 표준.
+- [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — Special article (JKDA 2023, SNU 치과마취과 Karm MH): 2022년 한국 진정 가이드라인 해설 — moderate sedation 중심, 15 PICO 권고 (제공자 교육·약물·금식·monitoring·소아 호흡·퇴원), 비마취과 제공자 대상 표준.
 - [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Position paper (JKDA 2023, 한양대 OMS Hwang KG): 치과 국소마취 한국 임상진료지침 부재 지적, 가이드라인 제정 필요성·검토 영역 명문화 (페어 — Karm 2023 sedation guideline 해설과 동일 호).
 - [[drug/antibiotics/lockhart-2019-antibiotic-pulpal-periapical-pain-swelling]] — ADA 근거기반 가이드라인(GRADE): 면역정상 성인 SIP±SAP 항생제 금지(강한 권고), 치수괴사+치근단농양 비권장(조건부) — 1차는 DCDT(치수절단·근관치료·절개배농); 항생제는 즉시 치료 불가(amoxicillin 500mg TID 지연처방)·전신 침범 시만. 치수염=비감염 원리.
 - [[drug/antibiotics/teoh-2021-oral-antibiotic-empirical-acute-dentoalveolar-infections]] — SR (2,994편→8편): 급성 치성감염 경험적 항생제 요법 거의 모두 임상 성공, 1개 연구는 무항생제=광범위 동일 결과 → 광범위 1차 처방 불필요·좁은 스펙트럼 동등; 성공의 1차 요인은 배농·감염원 제거(치과 치료).
@@ -1437,16 +1437,16 @@ tags: []
 - [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Gaafar 2025 · in-vitro · CeraSeal > NeoSEALER Flo for HGF biocompatibility; both bioceramics dose-dependently cytotoxic/pro-inflammatory, AH Plus highest cytokines
 
 ## 근관치료 — 근관외과·기타 (Endodontics: Periapical Surgery / Protocols)
-- [[endodontics/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
+- [[endodontics/visit-protocol/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (J Endod 2026): hemostatic agents (epinephrine/ferric sulfate/AlCl₃/bone wax/TXA) in periapical surgery — bleeding control, healing
 
 ## 근관치료 — 생활치수치료 (Endodontics: Vital Pulp Therapy)
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD 2024 유치 VPT 가이드라인 — MTA 치수절단 1차 권고, formocresol 대안으로 허용, Ca(OH)₂ IPC·DPC 사용 가능.
 - [[endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — Chawla 2026 · sr+ma (abstract-only) · 유치 비가역성 치수염 펄포토미 vs 펄펙토미: 방사선(RR 1.35, 0.67–2.73; I²=96%)·임상(RR 1.06, 0.95–1.18) 성공 차이 無(12mo) — 단 2편·확실성 매우 낮음, 펄포토미가 minimally invasive 대안 가능성 (DOI 10.1016/j.jdent.2026.106329)
 - [[endodontics/vpt/philip-2026-pulpotomy-irreversible-pulpitis-primary-teeth-call-for-action]] — Philip 2026 · narrative-review (abstract-only) · 유치 비가역성 치수염 펄포토미 7 임상+2 메타: 임상성공 95–100%·방사선 90–100%(6–12mo) → 펄펙토미 대안, 국제 가이드라인 개정 촉구 (DOI 10.1007/s40368-026-01199-7)
 - [[endodontics/vpt/cao-2026-diode-laser-pulpotomy-sr-ma]] — Cao 2026 · sr+ma (abstract-only) · diode laser 펄포토미: 임상·방사선 성공 타법과 동등(p>0.05)이나 치주공간 병적 확대 유의 감소(p<0.05, ZOE 복조 시 강화); 파장 무관 (DOI 10.1186/s12903-026-08519-9)
-- [[endodontics/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 2025 영구치 VPT 최초 가이드라인 — 비가역 치수염도 VPT 고려 가능, MTA/Biodentine DPC·절단 1차 재료.
-- [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — 유치 광범위 우식 치수 치료 코크란 리뷰 — MTA 치수절단 성공률 ~93%, FC 85–92%, IPC 유효.
+- [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 2025 영구치 VPT 최초 가이드라인 — 비가역 치수염도 VPT 고려 가능, MTA/Biodentine DPC·절단 1차 재료.
+- [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — 유치 광범위 우식 치수 치료 코크란 리뷰 — MTA 치수절단 성공률 ~93%, FC 85–92%, IPC 유효.
 - [[endodontics/vpt/hatipoglu-2025-direct-pulp-capping-nmr-rct]] — RCT + NMR Bayesian (J Dent 2025): Biodentine DPC OR 4.41, MTA OR 3.02 vs Ca(OH)₂; 추적 36개월; 비가역 치수염 포함 서브분석 유의
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — SR+MA (Clin Exp Dent Res 2023): 직접치수복조 vs 치수절단술 — 성공률 유사(OR 1.09, NS); 재료 선택이 술식 선택보다 결과 좌우
 - [[endodontics/vpt/duncan-2019-ese-deep-caries-exposed-pulp-position]] — ESE 합의문 (IEJ 2019): 깊은 우식 노출 치수 관리 의사결정 트리 — 증상·조직 소견 기반 VPT vs RCT 선택 기준
@@ -1463,7 +1463,7 @@ tags: []
 - [[endodontics/vpt/kundzina-2017-mta-vs-calcium-hydroxide-dpc-rct]] — 성인 구치 우식 노출 DPC: MTA vs Ca(OH)₂ 다기관 RCT(70명, 3년) — MTA 군 생존율 우위.
 - [[endodontics/vpt/nowicka-2015-tomographic-reparative-dentin-pulp-capping]] — DPC 4재료 micro-CT 비교(44개 인간 치아, 6주): Biodentine > MTA > Ca(OH)₂ 수복상아질 교형성; Single Bond Universal는 독성.
 - [[endodontics/vpt/taha-2017-mta-pulpotomy-mature-permanent-carious]] — 성인(11–51세) 영구 구치 우식 노출 MTA full pulpotomy(52개): 단기 성공률 ~80%, 성숙치에서 VPT 가능성 제시.
-- [[endodontics/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치 VPT — Ca(OH)2 한계를 MTA·Biodentine·BioRoot(HCSC)로 극복하는 contemporary framework + AAPD 한국 적용
+- [[endodontics/vpt/jkda-2025-63-2-005]] — Review (NHIS 일산병원 보존과 송민주, JKDA 2025): 미성숙 영구치 VPT — Ca(OH)2 한계를 MTA·Biodentine·BioRoot(HCSC)로 극복하는 contemporary framework + AAPD 한국 적용
 
 ## 근거 평가·통계방법론 (Evidence Appraisal / Biostatistics Methodology)
 - [[evidence-appraisal/singh-2026-is-your-research-statistically-significant]] — Singh 2026 · narrative-review(editorial) · 통계적 유의 ≠ 임상적 유의; 표본·검정력 부족이 실제 효과 은폐; effect size·CI·임상관련성으로 해석 (DOI 10.4103/JCDE.JCDE_504_26)
@@ -1551,13 +1551,13 @@ tags: []
 - [[oral-medicine/ramirez-martinez-acitores-2020-antihypertensive-xerostomia-salivary-flow-sr]] — Ramírez Martínez-Acitores 2020 · sr · 항고혈압제 13편(RCT 5·환자대조군 8) 종합: 미각/침분비저하 증가라는 확증적 근거 부족(캅토프릴은 오히려 이하선 분비 증가 보고), 약물군별 특정 불가 (DOI 10.3390/ijerph17072478)
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
 - [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA(55편, n=41,231): 구강백반증 악성전환률 pooled 6.64%(95% CI 5.21–8.21); 비균질형(NHOL) RR 4.23·이형성 RR 2.75·측설부 12.71%; 흡연 RR 1.64; 시간 안정적(p=0.75) — OL 악성전환 추정의 최대 SR+MA (2025)
-- [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
-- [[oral-medicine/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — WHO 구강암 협력센터 OPMD 명칭·분류 국제 합의 — 잠재적 악성 장애 표준화.
-- [[oral-medicine/lorini-2021-opmd-overview-risk-factors-therapies]] — OPMD 위험인자부터 치료까지 개요 — 각 병소별 악성전환 위험도 및 치료 옵션 비교.
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — 고품질 연구만 선별: 구강편평태선(OLP)의 진정한 악성전환율은 0.5–1.4%.
-- [[oral-medicine/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — 최근 5년 OLK 악성전환 SR+MA — pooled rate 3.5%, 비균질형 OR 4.1.
+- [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
+- [[oral-medicine/opmd/warnakulasuriya-2021-opmd-consensus-nomenclature-who]] — WHO 구강암 협력센터 OPMD 명칭·분류 국제 합의 — 잠재적 악성 장애 표준화.
+- [[oral-medicine/opmd/lorini-2021-opmd-overview-risk-factors-therapies]] — OPMD 위험인자부터 치료까지 개요 — 각 병소별 악성전환 위험도 및 치료 옵션 비교.
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — 고품질 연구만 선별: 구강편평태선(OLP)의 진정한 악성전환율은 0.5–1.4%.
+- [[oral-medicine/opmd/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma]] — 최근 5년 OLK 악성전환 SR+MA — pooled rate 3.5%, 비균질형 OR 4.1.
 - [[oral-medicine/srivastava-2022-oral-lichen-planus-diagnosis-management-review]] — OLP 진단 기준(WHO/Van der Meij)·임상 유형 6가지·1차 치료(국소 스테로이드) 실용 고찰.
-- [[oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — OLP를 OPMD로 분류하는 근거의 한계 비판 — 진단 오류 가능성으로 전환율 과대추정.
+- [[oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] — OLP를 OPMD로 분류하는 근거의 한계 비판 — 진단 오류 가능성으로 전환율 과대추정.
 - [[oral-medicine/patel-2023-lichen-planus-review-idoj]] — 편평태선(LP) 전신 임상양상 및 T세포 매개 면역병리기전 고찰 — 피부·구강·모발 침범.
 - [[oral-medicine/chiang-2021-lichen-planus-malignant-transformation-review]] — OLP 악성전환 위험인자·추적 프로토콜 고찰 — 6개월 주기 임상+조직학적 평가 권고.
 - [[oral-medicine/canfora-2025-burning-mouth-syndrome-pathogenesis-review]] — BMS 병인론 최신 업데이트 + ICD-11 기반 진단 알고리즘 — 신경병증·심리·호르몬 통합 모델.
@@ -1581,8 +1581,8 @@ tags: []
 - [[oral-medicine/kouri-2024-small-fiber-neuropathy-burning-mouth-syndrome]] — PRISMA SR(PROSPERO): BMS 혀 생검 신경섬유밀도 30–60%↓, TRPV1·P2X3·NGF·Nav1.7 변화 — 소섬유신경병증(SFN)이 핵심 병태생리 (2024)
 - [[oral-medicine/lodi-2020-oral-lichen-planus-corticosteroids-cochrane]] — Cochrane SR+MA (35 RCT, 1474명): 국소 스테로이드가 위약보다 OLP 통증 해소 우월 가능(RR 1.91, 95% CI 1.08–3.36, 낮은 근거); 타크롤리무스가 클로베타솔보다 통증에 나을 수 있음(매우 낮은 근거) (2020)
 - [[oral-medicine/sandhu-2022-oral-lichen-planus-treatment-sr]] — SR: OLP 치료 효능+비용 비교 — 스테로이드가 효능-비용 기준, 타크롤리무스 효과적이나 고가; 문헌 비용 보고 비일관 (BMC Oral Health 2022)
-- [[oral-medicine/warnakulasuriya-2018-opmd-clinical-features-review]] — 내러티브 리뷰: OPMD 전 스펙트럼 임상양상(백반증·홍반증·OSF·OLP·태선양/GvHD) — 임상 아형분류·필수 조직검사·적시 의뢰 (OOOO 2018)
-- [[oral-medicine/kumari-2022-opmd-etiology-pathogenesis-transformation]] — 내러티브 리뷰: OPMD 병인·이형성→암 전환 경로 — 담배/아레카/알코올·미생물·HPV; OED 등급이 핵심 악성전환 예측인자 (Front Pharmacol 2022)
+- [[oral-medicine/opmd/warnakulasuriya-2018-opmd-clinical-features-review]] — 내러티브 리뷰: OPMD 전 스펙트럼 임상양상(백반증·홍반증·OSF·OLP·태선양/GvHD) — 임상 아형분류·필수 조직검사·적시 의뢰 (OOOO 2018)
+- [[oral-medicine/opmd/kumari-2022-opmd-etiology-pathogenesis-transformation]] — 내러티브 리뷰: OPMD 병인·이형성→암 전환 경로 — 담배/아레카/알코올·미생물·HPV; OED 등급이 핵심 악성전환 예측인자 (Front Pharmacol 2022)
 - [[oral-medicine/gasmi-2021-oral-aphthous-pathophysiology-treatment]] — 내러티브 리뷰: 구강 아프타 병태생리·세 형태(소·대·포진형)·감별진단; 국소 스테로이드 1차·진행 시 전신제 치료 단계 (Arch Razi Inst 2021)
 - [[oral-medicine/manthiram-2023-pfapa-syndrome-pathogenesis-review]] — 내러티브 리뷰: PFAPA(소아 최다 주기열) 병인 — 유전 감수성 좌위가 베체트병/재발성 아프타와 연결, 기준 미충족 환자도 편도절제술 효과 (Curr Opin Rheumatol 2023)
 - [[oral-medicine/coppola-2023-herpetic-gingivostomatitis-sr]] — SR (5편, 364명, 평균 7.6세): 1차 헤르페스 치은구내염(PHGS) — 조기 아시클로버의 약한 근거만, 합의 치료법 부재; ~72h 진단지연이 효능 저해 (Clin Oral Investig 2023)
@@ -1621,7 +1621,7 @@ tags: []
 - [[tmj/zhu-2024-exercise-therapy-tmj-derangement-sr]] — SR: 악관절 내장증(TMJ Internal Derangement) 수술 후 조기 운동치료가 MMO·통증 유의 개선 (J Oral Rehabil 2024)
 - [[tmj/zhu-2020-btx-painful-tmd-sr-ma]] — SR+MA(20 RCT): 보툴리눔독소(BTX-A)가 근막통 위약 대비 유의 통증 감소; MMO 개선 없음
 - [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]] — SR+MA: BTX가 TMD 여러 아형에서 유의한 통증 감소 확인; Zhu 2020 업데이트 (PLoS ONE 2024)
-- [[tmj/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — 서술 고찰: 구강안면 BTX 임상 적용 전반; 교근 25–75U, 측두근 15–50U 프로토콜 (Toxins 2020)
+- [[botulinum-toxin/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — 서술 고찰: 구강안면 BTX 임상 적용 전반; 교근 25–75U, 측두근 15–50U 프로토콜 (Toxins 2020)
 - [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — SR: 수면이갈이(Sleep Bruxism) 관리 — 교합안정장치는 치아 보호만, 바이오피드백이 이갈이 빈도 감소 최고 근거 (Jpn Dent Sci Rev 2022)
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — BMJ 2023 임상진료지침: 만성 TMD 통증 보존적 치료 우선; BTX 불응성 근막통 조건부 권고; 비가역 교합처치 강력 반대
 - [[tmj/kim-2012-diagnosis-treatment-temporomandibular-disorder]] — Narrative review (KDA Journal 50(5) 2012, Dong-A OMFS 김철훈): 측두하악장애 (TMD) 임상가용 진단·치료 가이드 — "정상기능+자극>생리적 내성" 공식, 근육 vs 관절 감별(end-feel·deviation/deflection·하중검사·진단마취), 가역적 술식 우선(NSAID·교합안정장치·관절천자세정술); 2014 DC/TMD 이전 narrative
@@ -2366,7 +2366,7 @@ tags: []
 
 ### drug (added 2026-06-01, batch g — local anesthesia)
 
-- [[drug/systemic-disease/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — Geeta Kalra 2024 (J Maxillofac Oral Surg 23:1255) · rct · 4-arm 발치 IANB(n=28): 8.4% NaHCO₃ 완충이 리도카인·아티카인 발현 모두 유의 단축(완충 아티카인 객관 발현 84초 vs 비완충 리도카인 181초, p<0.001), 발치 VAS는 무차(χ²=4.107, p=0.250)
+- [[local-anesthesia/kalra-2024-buffered-lidocaine-articaine-extraction-rct]] — Geeta Kalra 2024 (J Maxillofac Oral Surg 23:1255) · rct · 4-arm 발치 IANB(n=28): 8.4% NaHCO₃ 완충이 리도카인·아티카인 발현 모두 유의 단축(완충 아티카인 객관 발현 84초 vs 비완충 리도카인 181초, p<0.001), 발치 VAS는 무차(χ²=4.107, p=0.250)
 - [[local-anesthesia/karunakar-2024-buffered-precooled-lidocaine-ianb-pulpitis]] — P. Karunakar 2024 (J Conserv Dent Endod 27:1228) · rct · SIP 하악구치 IANB(n=45): 완충 리도카인 성공 84%(초록 86.2%) > 예냉 72% > 전통 37%; 완충 발현 최단(61.1초)·지속 최장(313.8분), p<0.001
 - [[local-anesthesia/hamad-2025-buffered-lidocaine-infiltration-extraction-rct]] — Shehab A. Hamad 2025 (J Clin Exp Dent 17:e1350) · rct · 상악 후방 발치 침윤(n=100): 완충(pH 7.3)이 전통(pH 4.2) 대비 주사통(VAS 2.8 vs 4.2)·발현(2.3 vs 4.7분)·지속(45.8 vs 36.4분) 우월(전부 p<0.01), 재주사율 NS(4% vs 8%)
 - [[local-anesthesia/gandhi-2022-preheated-buffered-lignocaine-ianb-pulpitis-rct]] — Namita Gandhi 2022 (PeerJ 10:e14187) · rct · SIP 하악 IANB(n=252→241): 가온(42℃)·완충 모두 전통 대비 술중 VAS 대폭↓(1.59·1.69 vs 3.54, p<0.001), 가온≈완충(p=0.183); 가온 주사통 최저(1.35)
@@ -2542,7 +2542,7 @@ tags: []
 ### Drug — analgesics / antiplatelet
 - [[drug/analgesics/franco-de-la-torre-2021-analgesic-efficacy-etoricoxib-following-third]] — Franco-de la Torre 2021 · sr+ma · etoricoxib 120 mg cut rescue-analgesia need vs NSAIDs (p=0.0004; vs ibuprofen 400 mg p=0.00001) after third molar surgery
 - [[drug/anticoagulants/patrono-2024-low-dose-aspirin-prevention-atherosclerotic]] — Patrono 2024 · narrative-review · low-dose aspirin (75–100 mg) irreversibly blocks platelet COX-1/TXA₂; RR 0.52, NNT 10 (secondary prevention) vs ↑GI bleeding
-- [[drug/antibiotics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
+- [[drug/analgesics/abusamak-2025-perioperative-anti-inflammatory-periodontal-surgery-sr-ma]] — SR+MA (JDR Clin Trans Res 2025, PMC OA): NSAIDs vs corticosteroids perioperative analgesia after periodontal surgery — pain VAS, swelling, trismus
 
 ### sinus-lift/transcrestal (added 2026-06-06)
 - [[sinus-lift/transcrestal/shahood-2024-cgf-bio-oss-osteotome-sinus-elevation]] — Bashar Shahood 2024 · prospective · n=126 implants, 3-arm (no-graft vs Bio-Oss vs Bio-Oss Collagen+CGF), RBH ≤5mm: ISR 96%, CGF 조합이 통증↓·골이득↑
@@ -2587,7 +2587,7 @@ tags: []
 - [[caries/kashbour-2020-sealants-versus-fluoride-varnishes-decay]] — Kashbour 2020 · sr+ma (CD003067.pub5; RCT 11편, 3374명): 전색 vs 불소바니시 우열 판정 불가(OR 0.67, I²=84%, 매우 낮은 확실성); 전색+바니시 병용 우수 가능성(OR 0.30)
 - [[caries/chestnutt-2017-fissure-seal-fluoride-varnish-trial]] — Chestnutt 2017 · rct (1016 children, 36mo): 점열구실란트 vs 불소바니시 상아질우식 예방 동등(19.6% vs 17.5%); 프로그램에선 바니시 비용효과적
 - [[caries/urquhart-2019-nonrestorative-treatments-caries-network-meta-analysis]] — Urquhart 2019 · sr+ma (NMA, ADA 지침 근거): 비복원 우식치료 순위화 — SDF·실란트+불소가 병변 정지/역전에 최상위
-- [[periodontics/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — Buskermolen 2018 · in-vitro: organotypic 치은 모델 — 타액유래 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유도(항균제 스크리닝 플랫폼)
+- [[oral-microbiology/buskermolen-2018-saliva-derived-biofilms-gingiva-model]] — Buskermolen 2018 · in-vitro: organotypic 치은 모델 — 타액유래 공생/병원성 바이오필름이 서로 다른 숙주 염증반응 유도(항균제 스크리닝 플랫폼)
 
 ### Overviews (added 2026-06-07)
 - [[overviews/robotic-vs-navigation-implant-accuracy]] — 로봇 vs 동적내비게이션 vs static guide 정확도 종합: 로봇은 각도 편차만 일관 개선, 동일 tracker 통제 시 선형 편차 동등(Wei RCT)
@@ -2692,7 +2692,7 @@ tags: []
 - [[endodontics/irrigation/lazaro-2026-laser-activated-irrigation-endodontics-umbrella]] — Umbrella SR (Int Dent J 2026, PMC OA): laser-activated irrigation (PIPS/Er:YAG/diode) vs conventional NaOCl — efficacy, safety
 
 **endodontics**
-- [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
+- [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] — Companion IEJ review proposing a four-stage AP severity classification to guide intracanal medicament (Ca(OH)₂) selection (2022)
 - [[endodontics/babeer-2024-microrobotics-endodontics-perspective]] — Perspective on three magnetically controlled microrobot platforms (IONP microswarms, helicoids, silica nanorobots) for biofilm disruption and targeted disinfection of canal intricacies (2024)
 - [[endodontics/neelakantan-2018-endodontic-microbiology-editorial]] — Neelakantan 2018 · narrative-review · Editorial: 치수/근단 감염을 biofilm 매개로 규정 — biofilm 구조·다종균 동태가 항균저항 유발, 표적 소독을 치료 목표로 제시 (DOI 10.3390/dj6020014)
 

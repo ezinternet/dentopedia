@@ -15,7 +15,7 @@ text_filename: garcia-rios-2022-oral-manifestations-systemic-lupus-erythematosus
 
 ## Why Ingested
 
-Part of an autoimmune-dentistry batch building out the oral-medicine view of systemic autoimmune disease. Where [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] covers whether implants survive in autoimmune patients (SLE among them), this SR maps the *oral mucosal/soft-tissue burden* of SLE itself — oral ulcers (the most prevalent, and a classification criterion), hyposalivation, mucosal lesions, caries and periodontal disease — which is the diagnostic and risk context a clinician needs before considering any implant or restorative work in these patients. It also reinforces the oral-mucosal differential-diagnosis theme shared with [[wiki/oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] (SLE oral lesions mimic lichen planus, pemphigus, syphilis).
+Part of an autoimmune-dentistry batch building out the oral-medicine view of systemic autoimmune disease. Where [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]] covers whether implants survive in autoimmune patients (SLE among them), this SR maps the *oral mucosal/soft-tissue burden* of SLE itself — oral ulcers (the most prevalent, and a classification criterion), hyposalivation, mucosal lesions, caries and periodontal disease — which is the diagnostic and risk context a clinician needs before considering any implant or restorative work in these patients. It also reinforces the oral-mucosal differential-diagnosis theme shared with [[wiki/oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]] (SLE oral lesions mimic lichen planus, pemphigus, syphilis).
 
 ## One-line Summary
 
@@ -77,7 +77,7 @@ Systematic review (15 STROBE-appraised observational studies, PRISMA/PROSPERO CR
 ## 6. Related Work
 
 - Sibling autoimmune-dentistry page on implant outcomes in autoimmune disease: [[wiki/implants/esimekara-2022-dental-implants-autoimmune-diseases-sr]].
-- Oral-mucosal potentially-malignant-disorder appraisal whose lesions enter the SLE differential: [[wiki/oral-medicine/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]].
+- Oral-mucosal potentially-malignant-disorder appraisal whose lesions enter the SLE differential: [[wiki/oral-medicine/opmd/kaur-2022-oral-lichen-planus-malignant-disorder-appraisal]].
 
 ## 7. Glossary
 

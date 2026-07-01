@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-[[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 약제 status 리뷰를, "치근단 농양(periapical abscess) 감염 제어 + 통증 + 치유"라는 임상 결과 축으로 적용·보강한다. 또 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 dressing→치유 결과 흐름을, 통증 완화 속도(48–72h)와 신제형(TAPC·나노·Ledermix)까지 확장해 재확인한다.
+[[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]]의 약제 status 리뷰를, "치근단 농양(periapical abscess) 감염 제어 + 통증 + 치유"라는 임상 결과 축으로 적용·보강한다. 또 [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]]의 dressing→치유 결과 흐름을, 통증 완화 속도(48–72h)와 신제형(TAPC·나노·Ledermix)까지 확장해 재확인한다.
 
 ## One-line Summary
 
@@ -63,7 +63,7 @@ Systematic review (GMS Hyg Infect Control 2025; PubMed/Scopus/Cochrane, 2020–2
 
 ## 6. Related Work
 
-- Applies/extends [[endodontics/ordinola-zapata-2022-intracanal-medicaments-status-directions]] to the periapical-abscess clinical-outcome setting (pain + healing).
+- Applies/extends [[endodontics/irrigation/ordinola-zapata-2022-intracanal-medicaments-status-directions]] to the periapical-abscess clinical-outcome setting (pain + healing).
 - Reinforces [[endodontics/irrigation/rossi-fedele-2023-irrigation-dressing-apical-periodontitis-sr-ma]] on dressing-driven apical-periodontitis healing.
 - E. faecalis persistence framing overlaps [[endodontics/irrigation/lim-2020-qmix-antibacterial-e-faecalis-sr]].
 

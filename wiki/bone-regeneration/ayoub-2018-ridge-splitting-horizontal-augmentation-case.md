@@ -40,4 +40,4 @@ Split-mouth case report. Atrophic maxillary ridge with insufficient horizontal w
 - No donor-site morbidity; reduced overall surgical burden
 
 ## Related Papers
-- [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; peri-implantitis management with similar biomaterials (diode laser, sticky bone, PRF)
+- [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; peri-implantitis management with similar biomaterials (diode laser, sticky bone, PRF)

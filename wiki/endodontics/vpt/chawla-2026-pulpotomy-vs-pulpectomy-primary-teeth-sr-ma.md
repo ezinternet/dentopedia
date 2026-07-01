@@ -36,7 +36,7 @@ According to PubMed, this SR+MA tests a question at the frontier of pediatric pu
 
 The review found **no statistically significant difference** between pulpotomy and pulpectomy for radiographic success (pooled RR 1.35, 95% CI 0.67–2.73; p=0.40) or clinical success (RR 1.06, 95% CI 0.95–1.18; p=0.28) at up to 12 months, in teeth **without** swelling, sinus tract, or furcal/periapical radiolucency. The major caveat is the thinness of the evidence: only **two** studies met inclusion (one RCT, one retrospective cohort), radiographic heterogeneity was extreme (I²=96%), and GRADE certainty was **very low**. So the finding is best read as "pulpotomy is a plausible, minimally invasive alternative worth formal trials," not a settled equivalence.
 
-This pairs with the wiki's conservative primary-tooth pulp pathway ([[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]], [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]) and the broader VPT shift toward retaining vital pulp; it also complements the Hall/SSC restorative line ([[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]]) since case selection (truly reversible vs irreversible pulp) is the shared decision hinge.
+This pairs with the wiki's conservative primary-tooth pulp pathway ([[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]], [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]]) and the broader VPT shift toward retaining vital pulp; it also complements the Hall/SSC restorative line ([[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]]) since case selection (truly reversible vs irreversible pulp) is the shared decision hinge.
 
 ## Key Contributions
 
@@ -55,7 +55,7 @@ SR+MA; 6-database search to April 2025; primary teeth with irreversible pulpitis
 
 ## Related Papers
 
-- [[endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
-- [[endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment primary teeth
+- [[endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline
+- [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment primary teeth
 - [[caries/konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct]] — Hall technique / SSC for primary molars (companion)
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — pulpotomy vs DPC SR+MA

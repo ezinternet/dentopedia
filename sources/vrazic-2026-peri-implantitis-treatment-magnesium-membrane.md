@@ -3,7 +3,7 @@ title: "Peri-Implantitis—An Overview of Treatment Options and a New Approach t
 authors: Domagoj Vražić, Katarina Komar Milas, Marko Blaškovic, Ivana Butorac Prpić, Marija Čandrlić, Željka Perić Kačarević
 year: 2026
 doi: 10.3390/dj14020112
-category: [implants]
+category: ['implants/peri-implantitis']
 pdf_path: /Users/oracleneo/llm-wiki/papers/vrazic-2026-peri-implantitis-treatment-magnesium-membrane.pdf
 pdf_filename: vrazic-2026-peri-implantitis-treatment-magnesium-membrane.pdf
 source_collection: external

@@ -42,7 +42,7 @@ Case study. One-piece compressive implant placement with need for abutment bendi
 Case-level evidence; limited generalizability. No control group. Single operator/center.
 
 ## 6. Related Work
-- [[implants/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; one-piece implant peri-implantitis management
+- [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — same author; one-piece implant peri-implantitis management
 
 ## 7. Glossary
 - **One-piece implant**: Implant with integrated abutment (no separate abutment screw)

@@ -73,7 +73,7 @@ According to PubMed, this summary is based on Kinzel & Seifert, *Int J Dent* 202
 - [[drug/antibiotics/sbricoli-2024-antibiotic-prescribing-habits-dentistry-survey]] — analogous dentist-prescribing survey (Italy); same over-prescription/variation finding.
 - [[drug/antibiotics/loper-2025-prophylactic-antibiotics-infective-endocarditis-dental-sr]] / [[drug/antibiotics/sperotto-2024-antibiotic-prophylaxis-infective-endocarditis-sr-ma]] / [[drug/antibiotics/wilson-2021-ie-prophylaxis-aha-scientific-statement]] — the AHA-derived endocarditis-prophylaxis evidence base this survey benchmarks against.
 - [[drug/antibiotics/mendez-romero-2025-antibiotic-stewardship-dentistry-sr]] / [[drug/antibiotics/thompson-2023-dental-antibiotic-stewardship-core-outcome-set]] — antibiotic stewardship framing.
-- [[drug/antibiotics/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes + implants context.
+- [[drug/systemic-disease/wagner-2022-diabetes-mellitus-dental-implants-sr]] — diabetes + implants context.
 
 ## 7. Glossary
 

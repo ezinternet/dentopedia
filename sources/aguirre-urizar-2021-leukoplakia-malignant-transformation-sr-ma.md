@@ -3,7 +3,7 @@ title: "Malignant transformation of oral leukoplakia: Systematic review and meta
 authors: José Manuel Aguirre-Urizar, Pablo Ramos-García, Miguel Ángel González-Moles
 year: 2021
 doi: 10.1111/odi.13810
-category: [oral-medicine]
+category: ['oral-medicine/opmd']
 pdf_path: /Users/oracleneo/llm-wiki/papers/aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 pdf_filename: aguirre-urizar-2021-leukoplakia-malignant-transformation-sr-ma.pdf
 source_collection: external
@@ -36,8 +36,8 @@ PubMed/Embase/Cochrane 검색(2015–2020); GRADE 근거 평가.
 단기 추적 연구 제외 시 풀 자료 감소; 병소 재발과 전환 구분 어려움.
 
 ## 6. Related Work
-- [[oral-medicine/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
-- [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — related
+- [[oral-medicine/opmd/gonzalez-moles-2021-lichen-planus-malignant-transformation-sr]] — related
+- [[oral-medicine/opmd/warnakulasuriya-2020-opmd-comprehensive-review]] — related
 
 ## 7. Glossary
 OLK: Oral Leukoplakia; homogeneous vs non-homogeneous: 균질형 vs 비균질형 백색반; MTR: Malignant Transformation Rate

@@ -38,4 +38,4 @@ RCT만 포함, 2인 독립 스크리닝·추출·RoB. 가능 시 random-effects 
 
 ## Related Papers
 - [[implants/herrera-2023-prevention-treatment-peri-implant-efp]] — EFP S3가 미권고한 제염법 근거
-- [[implants/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 주위염 치료 flowchart
+- [[implants/peri-implantitis/hong-2024-peri-implantitis-treatment-protocol-flowchart]] — 주위염 치료 flowchart

@@ -15,7 +15,7 @@ text_filename: konukman-turker-2026-hall-vs-modified-hall-primary-molars-rct.txt
 
 ## Why Ingested
 
-literature-surveillance `primary-pulpotomy-ssc` 토픽 첫 sweep(2026-06-20)의 OA:PMC RCT. 위키에 **SSC/Hall technique 페이지가 전무** — 유치 우식 minimally invasive 관리의 핵심 술기를 첫 항목으로 추가한다. 선택적 우식제거를 더한 modified HT와 conventional HT를 직접 비교해, 유치 deep caries 관리를 [[wiki/endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] · [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 보존적 흐름과 연결한다. PubMed/PMC, CC BY OA 전문.
+literature-surveillance `primary-pulpotomy-ssc` 토픽 첫 sweep(2026-06-20)의 OA:PMC RCT. 위키에 **SSC/Hall technique 페이지가 전무** — 유치 우식 minimally invasive 관리의 핵심 술기를 첫 항목으로 추가한다. 선택적 우식제거를 더한 modified HT와 conventional HT를 직접 비교해, 유치 deep caries 관리를 [[wiki/endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] · [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] 의 보존적 흐름과 연결한다. PubMed/PMC, CC BY OA 전문.
 
 ## One-line Summary
 
@@ -57,8 +57,8 @@ Two-arm parallel RCT, 268 primary molars (189 children, 3–10 y), block-randomi
 
 ## 6. Related Work
 
-- [[wiki/endodontics/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment primary teeth.
-- [[wiki/endodontics/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline.
+- [[wiki/endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — Cochrane pulp treatment primary teeth.
+- [[wiki/endodontics/vpt/aapd-2024-vital-pulp-therapy-primary-teeth-guideline]] — AAPD VPT primary teeth guideline.
 - [[wiki/endodontics/vpt/chawla-2026-pulpotomy-vs-pulpectomy-primary-teeth-sr-ma]] — pulpotomy vs pulpectomy (companion peds pulp page).
 
 ## 7. Glossary

@@ -4,7 +4,7 @@ authors: Gupta R, Abraham D, Ahmad L, Puri A
 year: 2026
 doi: 10.1016/j.jdent.2026.106637
 pmid: "41856391"
-category: endodontics
+category: ['endodontics/visit-protocol']
 source_collection: pubmed-text
 full_text: false
 source_url: https://pubmed.ncbi.nlm.nih.gov/41856391/
