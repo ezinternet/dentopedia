@@ -2,7 +2,7 @@
 title: "Evaluation of the Accuracy of Digital Workflow for Implant-Supported Full-Arch Fixed Dental Prostheses Using a Novel Micro-CT Measurement Technique"
 authors: Fouda A, Wyatt C, McCullagh A, Vora SR, Ford NL, Gebril M
 year: 2025
-date: 2025-01-01
+date: 2025-04-25
 doi: 10.1111/jopr.14061
 source: fouda-2025-accuracy-digital-workflow-implant-fullarch.md
 category: [digital-workflow]
