@@ -40,7 +40,7 @@ PAPERS = REPO / "papers"
 SOURCES = REPO / "sources"
 
 MAX_PDF_BYTES = 32 * 1024 * 1024  # API hard limit: 32 MB request
-DEFAULT_MODEL = "claude-sonnet-5"
+DEFAULT_MODEL = "claude-opus-4-8"
 
 
 def discover_categories() -> list[str]:
