@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-Provides the foundational large-n (300 implant) clinical evidence that CT bone density drives both insertion torque and ISQ, and that ISQ separates successful from failed implants — anchoring the bone-density → primary-stability link that [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] and [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] later refine with cortical-bone specificity. Reinforces the success-threshold rungs of [[overviews/implants-isq-stability-ladder]].
+Provides the foundational large-n (300 implant) clinical evidence that CT bone density drives both insertion torque and ISQ, and that ISQ separates successful from failed implants — anchoring the bone-density → primary-stability link that [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] and [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] later refine with cortical-bone specificity. Reinforces the success-threshold rungs of [[overviews/implants-isq-stability-ladder]].
 
 ## One-line Summary
 

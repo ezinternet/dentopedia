@@ -53,6 +53,6 @@ Turkyilmaz & McGlumphy retrospectively analyzed 300 implants in 111 patients to 
 
 ## Related Papers
 
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — refines the bone-density → ISQ link to cortical-bone thickness via CBCT
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — refines the bone-density → ISQ link to cortical-bone thickness via CBCT
 - [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] — reinforces cortical bone as the dominant driver of primary stability
 - [[overviews/implants-isq-stability-ladder]] — synthesis page placing this study's ~46.5 (failed) vs ~67 (successful) ISQ rungs on the stability ladder

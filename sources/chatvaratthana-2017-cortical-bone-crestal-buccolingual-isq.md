@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-ISQ에 영향을 미치는 골 파라미터 중 *어느 깊이*의 피질골이 결정적인지가 불분명했음. 본 논문은 치조정에서 3·6·9 mm 깊이의 협설측 피질골 두께 및 cortical/cancellous 비율과 ISQ의 상관성을 CBCT 기반으로 분석, **치조정 직하 3 mm**만이 유의 구간임을 보여준다. 기존 [[wiki/implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] 문서의 치조정 피질골-ISQ 상관 발견을 깊이별 분해 분석으로 확장·보완한다.
+ISQ에 영향을 미치는 골 파라미터 중 *어느 깊이*의 피질골이 결정적인지가 불분명했음. 본 논문은 치조정에서 3·6·9 mm 깊이의 협설측 피질골 두께 및 cortical/cancellous 비율과 ISQ의 상관성을 CBCT 기반으로 분석, **치조정 직하 3 mm**만이 유의 구간임을 보여준다. [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]]의 cortical thickness–implant stability 종합 근거에 개별 1차 연구로 기여하며, 치조정 피질골이 ISQ의 지배적 결정인자임을 깊이별 분해로 정량화한다.
 
 ## One-line Summary
 

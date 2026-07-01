@@ -58,5 +58,5 @@ This prospective cohort study enrolled 80 patients (ages 25–40, both sexes) at
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — ISQ determinants over 5-year follow-up; this paper adds BF as a new modulating factor
 - [[implants/isq/bavetta-2019-insertion-torque-isq-immediate-loading-extraction-socket]] — ISQ under immediate loading in extraction sockets; complementary loading-context data
 - [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] — Osstell ISQ method reliability (ICC); underpins measurement validity used here
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — cortical thickness as ISQ determinant; posterior-anterior ISQ gradient may also reflect bone anatomy
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — cortical thickness as ISQ determinant; posterior-anterior ISQ gradient may also reflect bone anatomy
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — SR on cortical thickness and ISQ; contextualizes why posterior > anterior ISQ pattern is seen

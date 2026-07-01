@@ -13,7 +13,7 @@ source_collection: external
 tags: [primary-stability, bone-mineral-density, histomorphometry, cadaver, CT, correlation]
 relations:
   - type: reinforces
-    target: chatvaratthana-2017-cortical-bone-thickness-isq-cbct
+    target: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq
 ---
 
 ## One-line Summary
@@ -37,6 +37,6 @@ Ex vivo human cadaver study; 4 unfixed maxillae/mandibles; 48 stepped cylinder s
 - Primary stability correlated with bone mineral density and histomorphometric parameters. (Exact coefficients to verify in full text.) [미검증]
 
 ## Related Papers
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — reinforces; cortical thickness–ISQ correlation.
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — reinforces; cortical thickness–ISQ correlation.
 - [[implants/isq/cappare-2015-initial-bic-insertion-torque-depth-integral-in-vivo]] — related; BIC–torque-integral correlation.
 - [[implants/al-juboori-2024-cortical-thickness-implant-stability-sr]] — related; cortical-thickness–stability SR.

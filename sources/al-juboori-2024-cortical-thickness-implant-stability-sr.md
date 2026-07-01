@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-cortical bone thickness가 일차·이차 안정성에 미치는 영향을 종합한 SR로, [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] 의 골질-안정성 상관과 [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] 의 cortical thickness-ISQ 결과를 SR 수준으로 통합하기 위해 인제스트. 교정 미니스크류 cortical thickness 근거([[orthodontics/marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma]])와 임플란트 측 대응쌍.
+cortical bone thickness가 일차·이차 안정성에 미치는 영향을 종합한 SR로, [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] 의 골질-안정성 상관과 [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] 의 cortical thickness-ISQ 결과를 SR 수준으로 통합하기 위해 인제스트. 교정 미니스크류 cortical thickness 근거([[orthodontics/marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma]])와 임플란트 측 대응쌍.
 
 ## One-line Summary
 

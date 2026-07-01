@@ -15,7 +15,7 @@ relations:
   - type: reinforces
     target: nkenke-2003-implant-stability-histomorphometry-cadaver-correlation
   - type: reinforces
-    target: chatvaratthana-2017-cortical-bone-thickness-isq-cbct
+    target: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq
   - type: reinforces
     target: di-stefano-2021-stability-dental-implants-cortical-bone
 ---
@@ -43,5 +43,5 @@ Systematic review; studies relating cortical bone thickness to primary/secondary
 
 ## Related Papers
 - [[implants/isq/nkenke-2003-implant-stability-histomorphometry-cadaver-correlation]] — reinforces; cadaver BMD/histomorphometry–stability.
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — reinforces; cortical thickness–ISQ via CBCT.
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — reinforces; cortical thickness–ISQ via CBCT.
 - [[orthodontics/marquezan-2014-cortical-thickness-miniscrew-stability-sr-ma]] — parallel; cortical thickness–stability in miniscrews.

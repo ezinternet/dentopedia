@@ -38,6 +38,6 @@ Narrative review with systematic database search identifying all factors reporte
 - Macro-design (tapered vs parallel) is the most modifiable controllable factor
 
 ## Related Papers
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — cortical thickness = strongest ISQ predictor by CBCT
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — cortical thickness = strongest ISQ predictor by CBCT
 - [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] — experimental confirmation of macro-design and bone quality effects
 - [[implants/isq/sennerby-2008-implant-stability-resonance-frequency-analysis]] — foundational ISQ/RFA principles

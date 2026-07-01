@@ -468,7 +468,7 @@ ISQ 기반 loading 결정은 [[overviews/isq-loading-threshold]] · [[overviews/
 ### ISQ sub-category (자세히 [[overviews/implants-isq-stability-ladder]])
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]]
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]]
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]]
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]]
 - [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]]
 - [[implants/isq/nandini-2022-cylindrical-vs-tapered-implant-isq]]
 - [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]]

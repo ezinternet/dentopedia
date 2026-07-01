@@ -17,7 +17,7 @@ source_papers:
   - wiki/implants/di-stefano-2021-stability-dental-implants-cortical-bone.md
   - wiki/implants/premnath-2012-stress-distribution-bone-density-fea.md
   - wiki/implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq.md
-  - wiki/implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct.md
+  - wiki/implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.md
   - wiki/implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability.md
   - wiki/implants/mello-machado-2021-osseodensification-low-quality-bone-rct.md
   - wiki/implants/munjal-2015-implants-low-density-bone-d3d4.md
@@ -75,7 +75,7 @@ The classification-to-protocol map is set out by Raghavan (2025), which ties Mis
 |---|---|---|---|---|
 | [[implants/rosa-2024-do-dental-implants-bone-types]] | sr+ma (49 studies, 29,905 impl) | Risk stratification (Lekholm-Zarb) | Type IV ↓ survival (~1.5–1.9× failure); I=II; ISQ IV 58–65 vs I 72–80 | [근거강함] |
 | [[implants/di-stefano-2021-stability-dental-implants-cortical-bone]] | sr (13 studies) | Cortical thickness → stability | Thicker cortex → ↑ISQ/IT; bicortical = highest; MBL link inconclusive | [합의수준] |
-| [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] | prospective | Pre-op predictor | Crestal cortical thickness = strongest ISQ predictor; thin cortex → plan delayed loading | [합의수준] |
+| [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] | prospective | Pre-op predictor | Crestal cortical thickness = strongest ISQ predictor; thin cortex → plan delayed loading | [합의수준] |
 | [[implants/raghavan-2025-bone-density-implant-dentistry-review]] | narrative | Classification + protocol map | Misch D1–D4, CBCT HU; under-drill D3/D4, modify healing, design selection | [합의수준] |
 | [[implants/isq/stoilov-2023-macrodesign-length-diameter-bone-quality-isq]] | in-vitro | Macro-design × density | Diameter > length for ISQ; tapered superior; soft bone → drilling protocol critical | [claude해석] |
 | [[implants/premnath-2012-stress-distribution-bone-density-fea]] | in-vitro (FEA) | Stress × density | Peak stress at crestal neck; D3/D4 favors cylindrical; threaded > cylindrical stress | [claude해석] |

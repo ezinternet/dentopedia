@@ -11,7 +11,7 @@ source_collection: external
 
 ## Why Ingested
 
-일차안정성의 생물학적 기질(골밀도·histomorphometry)을 직접 상관시킨 고전 cadaver 연구로, 현대 ISQ·토크 상관 논의의 근거 토대로 인제스트. [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] 및 [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] 의 상관 주장에 역사적·기계적 anchor를 제공.
+일차안정성의 생물학적 기질(골밀도·histomorphometry)을 직접 상관시킨 고전 cadaver 연구로, 현대 ISQ·토크 상관 논의의 근거 토대로 인제스트. [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] 및 [[implants/isq/lages-2018-isq-insertion-torque-correlation-sr]] 의 상관 주장에 역사적·기계적 anchor를 제공.
 
 ## One-line Summary
 

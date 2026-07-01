@@ -11,9 +11,6 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/chatvaratthana-2017-cortical-bone-cre
 pdf_filename: chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq.pdf
 source_collection: external
 tags: []
-relations:
-  - type: extends
-    target: chatvaratthana-2017-cortical-bone-thickness-isq-cbct
 ---
 
 ## One-line Summary
@@ -63,6 +60,5 @@ The key finding is that ISQ is determined almost entirely by bone characteristic
 
 ## Related Papers
 
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — same first author, different co-author team; complementary CBCT-ISQ study (different design)
 - [[implants/isq/al-juboori-2024-cortical-thickness-implant-stability-sr]] — SR on cortical thickness and implant stability; this study is a constituent primary study
 - [[implants/isq/andersson-2019-rfa-factors-5year-neoss-survival]] — RFA/ISQ factors over 5 years; marginal bone level as key RFA determinant aligns with this study's 3 mm depth finding

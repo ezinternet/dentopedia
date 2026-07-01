@@ -178,7 +178,6 @@ tags: []
 - [[implants/isq/lee-2011-isq-loading-protocol-prediction]] — 전향적(5개월, 아산의료원): ISQ-삽입토크·골밀도 상관; ISQ≥65 → 조기부하 예측 가능
 - [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] — 전향적 임상시험(n=36, D3/D4): 생체활성 나노표면 ISQ 안정 유지 vs 전통 표면 ISQ 딥; 생체활성군 조기부하 가능성 증가
 - [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] — Cross-sectional (85 implants): Osstell ISQ ICC=0.97; single measurement sufficient; SmartPeg I vs II equivalent; mean ISQ 72.4
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — Prospective (19 Conelog, CBCT): crestal cortical thickness strongest ISQ predictor (p<0.001); depth 6–9mm not significant; ISQ = marginal bone quality indicator
 - [[implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison]] — Prospective (50 pts, 80 implants): Osstell ISQ ≡ Osseo 100 (r>0.95); ISQ increases gradually; D1-D2 >> D3-D4 at all timepoints
 - [[implants/isq/zix-2008-osstell-periotest-implant-stability-clinical]] — 임상시험(213 임플란트, 65명): Osstell ISQ vs Periotest 직접 비교; 상관 -0.64; ICC ISQ 0.99 vs Periotest 0.88 — Osstell이 더 정밀; 직경 유의, 길이 무관
 - [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 공학·인비트로 2-DOF 모델+FEA: 5–15 kHz 입력 → 공진주파수·미세변위 추출; 전자기 RFA의 이론적 기반 검증
@@ -189,7 +188,7 @@ tags: []
 - [[implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison]] — 전향적 연구(50명, 80 임플란트): Osstell ISQ vs Osseo 100 기기 동등(r>0.95); ISQ 시간에 따라 점진 상승; D1-D2 군이 D3-D4보다 모든 시점에서 유의하게 높은 ISQ
 - [[implants/isq/bhandarkar-2023-rfa-mathematical-modeling-implant-stability]] — 공학·인비트로 수학적 모델(2 자유도+FEA): 5–15 kHz 입력 주파수 범위에서 임플란트 공진주파수 및 미세변위를 MATLAB·FFT로 추출 — 전자기 공진주파수분석(RFA)의 원리·정확도를 이론적으로 검증; ISQ의 공학적 기반 제공.
 - [[implants/isq/canullo-2024-bioactive-surface-poor-bone-isq-stability]] — 전향적 임상시험(n=36, D3/D4, 60개 임플란트): 생체활성 나노표면 = ISQ 안정 유지(딥 없음) vs 전통표면 ISQ 30·45일 유의하게 감소; 생체활성군 조기 부하 가능성 증가.
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — 전향적 연구(19 Conelog 임플란트, CBCT 상관): 치조정 피질골 두께가 가장 강한 ISQ 예측인자(p<0.001); 협설측 3mm 피질골 유의; 심부 6–9mm 비유의 — ISQ는 변연부 골의 지표
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — 전향적 연구(n=19, Conelog, 구치부): 치조정 피질골 두께 r=0.885로 ISQ 최강 예측인자; 3mm 깊이 협설측 피질 r=0.535·피질/해면비 r=0.488 유의; 6·9mm·해면골 무상관 — ISQ는 치조정 3mm 이내 피질골 반영
 - [[implants/isq/herrero-climent-2013-osstell-isq-reliability-icc]] — 횡단면 연구(85 임플란트, 23명): Osstell ISQ ICC=0.97(탁월); 단회 측정으로 충분; SmartPeg I·II 동등; 평균 ISQ 72.4
 - [[implants/isq/huang-2020-isq-clinical-significance-literature-review]] — 서술적 문헌고찰: 17개 ISQ 영향인자 확인; 임상 예측력 있는 인자 6개; 근거 충분한 인자 2개(국소 골질·거시디자인); ISQ는 단독보다 골 타입과 함께 해석
 - [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] — In vitro PU foam: 수동 스마트팩 조임(2–11 Ncm)과 기계 조임(2–6 Ncm) 간 ISQ 차이 없음(p=0.343/0.890); 임상에서 수동 조임 신뢰 가능

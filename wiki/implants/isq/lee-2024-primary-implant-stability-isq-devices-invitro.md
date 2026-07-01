@@ -68,6 +68,6 @@ Key findings: (1) Both devices showed strongly positive correlations between bon
 - [[implants/isq/al-jetaily-2010-osstell-periotest-implant-stability-in-vitro]] — predecessor in vitro device comparison (Osstell vs Periotest); this study extends to Anycheck
 - [[implants/isq/turkyilmaz-2008-bone-density-implant-stability-success]] — clinical confirmation that ISQ correlates with bone density
 - [[implants/isq/kastel-2019-smartpeg-torque-isq-rfa]] — SmartPeg torque variability mechanism; consistent with this study's operator-sensitivity finding
-- [[implants/isq/chatvaratthana-2017-cortical-bone-thickness-isq-cbct]] — ISQ-cortical thickness relationship; this study deliberately excluded cortical bone to isolate cancellous density/length
+- [[implants/isq/chatvaratthana-2017-cortical-bone-crestal-buccolingual-isq]] — ISQ-cortical thickness relationship; this study deliberately excluded cortical bone to isolate cancellous density/length
 - [[implants/isq/shiffler-2016-implant-length-diameter-location-isq]] — clinical study on implant length and ISQ; this in vitro study provides controlled corroboration
 - [[implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison]] — another device comparison study for cross-reference
