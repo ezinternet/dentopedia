@@ -10,6 +10,8 @@ source: chu-2025-low-concentration-at-home-bleaching.md
 category: [tooth-whitening]
 confidence: rct
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/chu-2025-low-concentration-at-home-bleaching.txt
+text_filename: chu-2025-low-concentration-at-home-bleaching.txt
 tags: [at-home-bleaching, low-concentration, carbamide-peroxide, hydrogen-peroxide, split-mouth, enamel, ohrqol]
 relations:
   - type: applies-to
