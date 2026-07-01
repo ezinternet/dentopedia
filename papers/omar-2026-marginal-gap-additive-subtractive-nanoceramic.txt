@@ -1,0 +1,145 @@
+Title: Comparison of marginal gap in implant-supported hybrid nanoceramic crowns fabricated by additive vs. subtractive manufacturing
+Authors: Omar S, Elshenawy EA, Elsharkawy SM
+Journal: BMC Oral Health. 2026;26(1)
+DOI: 10.1186/s12903-026-07710-2
+PMID: 41629929
+PMCID: PMC12947500
+
+ABSTRACT
+
+Background
+
+Achieving optimal marginal accuracy is a critical factor in the long-term success of implant-supported crowns. The purpose of this study was to evaluate and compare the marginal gap of implant-supported novel hybrid nanoceramic crowns, Nanoksa G-Plus and Nanoksa BioGuard, which are innovative due to their unique composition when manufactured using two distinct digital workflows—milling and 3D printing—to determine which technique provides superior precision for this new class of restorative materials.
+
+Methods
+
+Twenty implant fixtures were embedded into epoxy resin blocks. Stock straight titanium abutment was screwed to each fixture according to manufacturer recommendations. The samples were divided into 2 groups according to the technique of fabrication of Nanoksa hybrid nanoceramic crowns (n=10/group). Group I subtractive technique using Nanoksa G Plus discs and group II additive technique using Nanoksa BioGuard. Stock abutments were scanned using a laboratory scanner, the crowns were fabricated and cemented with resin cement after pretreatment of all crowns according to manufacturer recommendation. Using a stereomicroscope (35X), the marginal gaps were assessed both prior to cementation and following thermomechanical accelerated aging. Mean values were calculated, and differences between groups were tested for statistical significance using paired t-test and Student t-test. A value of (<0.05) was considered statistically significant.
+
+Results
+
+Significant differences were detected in the marginal gaps between the groups. Before cementation and following thermomechanical accelerated aging, 3D printing crowns showed a statistically significant larger marginal gap distance (59.71 and 63.83 µm, respectively) than the milled one (34.08 and 37.76 µm).
+
+Conclusion
+
+The milling technique demonstrated significantly lower discrepancy values compared to additive technique, indicating superior marginal fit for Nanoksa hybrid nanoceramic crowns. Clinically, these findings suggest that utilizing milling for these restorations may enhance long-term outcomes by reducing the risks associated with larger gaps.
+
+FULL TEXT
+
+Background
+
+The success of implant restorations relies not only on successful osseointegration but also significantly on the success of the implant superstructure. An implant-supported prosthesis's clinical success is influenced by the restorative material. The use of restorative materials with various mechanical and chemical qualities, like resin matrix ceramic, has been made easier by developments in computer-aided design and computer-aided manufacturing (CAD-CAM). Its unique composition, which combines ceramic components with polymer matrix, offers a number of advantages for implant-supported restorations. By improving shock absorption and force distribution, these materials help reduce the amount of stress applied to the surrounding bone of the implant. Their endurance is increased by their lower elasticity modulus as compared to traditional ceramics, which is crucial for the long-term success of implant-supported restorations. Additionally, their superior edge fitting and ease of machining increase their ability to improve the biomechanical functionality of prosthetic restorations.
+
+Nanoksa G-Plus, a hybrid nano-ceramic material containing nano-carbon and nano-zirconia, is presented by its manufacturer as a comprehensive system for definitive dental implant restorations. The material is indicated for creating durable crowns, bridges, and full-arch dentures, with the carbon element being a key factor in its extended longevity. According to the manufacturer, the material exhibits minimal water sorption, approximately 0.1% after 24 h of immersion in water at 23 °C. Owing to its highly crystalline structure, Nanoksa G-Plus demonstrates insolubility in conventional solvents at room temperature. Based on standardized mechanical testing, the reported yield strength ranges between 90 and 100 MPa, while tensile strength at fracture is approximately 95–110 MPa.
+
+The special blend used in the formulation of Nanoksa G-Plus is designed to offer both powerful resistance to wear and breakage and smooth cutting. Its exceptional strength, longevity, shock absorption, and monomer-free, biocompatible nature are all highlighted by the manufacturer. With high transparency and a color that mimics natural teeth, the material ensures high aesthetics, coupled with excellent color stability and abrasion resistance. Additionally, they do not require firing and they are not brittle.
+
+Nanoksa BioGuard is a novel 3D-printing hybrid nanoceramic material developed for fabrication of permanent fixed dental restoration and long bridge dental implant restorations. It comprises a hybrid resin matrix reinforced with nano-zirconia, nano-ceramic and nanocarbon fillers which aim to enhance materials' mechanical performance and optical properties. The incorporation of antibacterial nano compounds is intended to reduce bacterial colonization on the restoration surface, contributing to improve oral and longevity. Nanoksa BioGuard is compatible with SLA and DLP 3D printing systems, facilitating chair side fabrication of definitive restoration in single clinical visit.
+
+CAD/CAM systems are now broadly divided into subtractive manufacturing (SM) and additive manufacturing (AM). Compared to conventional dental laboratory techniques, SM provides significant benefits, such as the incorporation of novel materials, reduced labor and superior quality control. However, the technology is limited by a number of challenges, such as significant material waste from unused blocks, the need to replace milling tools after predetermined usage cycles, limited capacity for surface morphology replication because of machine axis and milling instrument size limitations, and the possibility of microscopic crack formation during the milling of ceramic materials.
+
+Additive manufacturing (3D printing) of permanent fixed dental prosthetics is a growing trend in dentistry. This technology enables the fabrication of complex geometries, including undercuts and regions that are inaccessible to conventional milling techniques, while minimizing the need for tool replacement and maintenance. In addition, additively manufactured components may exhibit lower residual stresses, which can be advantageous for the structural integrity of complex restorations.
+
+Optimal marginal adaptation is essential for minimizing cement thickness and avoiding microleakage, which can compromise the restoration. The implant, supporting tissues, and supra-structure may suffer from an inadequate fit. A wide gap at the abutment level results in faster cement dissolution, creating recesses for plaque accumulation and bacterial adherence which leads to bone resorption around implants. Furthermore, a thicker cement layer will increase interfacial stresses and polymerization shrinkage, which could lower the restorations' resistance to fracture. Consequently, adequate fit between implant components is crucial to minimize mechanical and biological complications.
+
+The appropriate marginal gap width has not been agreed upon. According to McLean and Von Fraunhofer's study, a marginal gap up to 120 µm is clinically appropriate.
+
+Replicating the challenging conditions during service via artificial aging is an approach designed to predict the materials' endurance in the oral cavity.
+
+Donmez et al. evaluated the marginal adaptation of implant-supported crowns by comparing crowns fabricated from 3D-printed resin composite to three milled crown materials, namely reinforced composite, polymer-infiltrated ceramic, and hybrid ceramic and found 3D-printed to have the least marginal gap. Sayed et al. compared the marginal integrity of 3D printed hybrid resin-ceramic crowns to that of milled lithium disilicate and milled hybrid resin ceramic crowns and found the marginal gap values to be the same across all the groups.
+
+Due to the limited available evidence on the marginal accuracy of implant-supported hybrid nanoceramic crowns (Nanoksa G Plus and Nanoksa BioGuard) fabricated on stock straight titanium abutments using different manufacturing techniques, the present study was undertaken to evaluate and compare the marginal gap of implant supported hybrid nanoceramic crowns using two different techniques of fabrication. The null hypothesis for this study was that no statistically significant difference in marginal accuracy exists between implant-supported novel hybrid nanoceramic crowns using subtractive and additive manufacturing (AM) techniques.
+
+Methods
+
+The current study was carried out as a controlled experimental study.
+
+A sample size calculation was executed based on outcomes of a previous study employing a statistical software program (G*Power 3.1.9.2; Kiel University). Utilizing an alpha level of significance of 0.05 and a desired power of 80%, the analysis determined that 10 specimens/group were required.
+
+Materials used: Dental implant (Implance Dental Implant, commercially pure titanium grade 4, Implance, Istanbul, Turkey); Polymer-infiltrated nanoceramics CAD-CAM disc (Nanoksa G Plus — high performance polymers filled with nano-zirconia and carbon, Inox, Sheridan, USA); Polymer-infiltrated nanoceramics CAD-CAM 3D printed resin (Nanoksa BioGuard — methacrylates, nano-ceramics, high-concentration nano-zirconia, nanocarbon enhancement, anti-bacterial nano compound, photo-initiator, inhibitor, pigment, Inox, Sheridan, USA); Resin cement (Duo-Link, Bisco); Ceramic primer (Z primer, Bisco); Silane coupling agent (Porcelain primer, Bisco).
+
+Specimens' preparation
+
+Twenty dental implant fixtures (Implance Dental Implant) with diameter 4.8 mm and length 10 mm were fixed centrally in custom made metallic mold using sticky wax. The long axis positioning of the implant fixture was standardized using a surveyor. Epoxy resin was used to fill the mold as its elastic modulus (approximately 16.8 GPa) closely simulates that of human bone. After setting, epoxy models were removed from the metallic mold and checked for accuracy.
+
+Stock straight titanium abutment (7 mm height, 2 mm collar height) was screwed to each implant fixture according to manufacturer instructions using torque driver at a torque level of 25 Ncm. The specimens were divided into 2 groups (n=10 each) according to the fabrication techniques: group I samples were milled from hybrid nanoceramics (Nanoksa G-plus) while group II samples were 3D printed with hybrid nanoceramics resin (Nanoksa BioGuard).
+
+Scanning and designing the crowns
+
+The screw access hole of the abutment was sealed, each abutment was painted with anti-reflective paint (SCAN-LAC, 3D LAC) and allowed 5 s to dry. All abutments across all experimental groups were treated using the same paint and application protocol. All aspects were scanned with extraoral scanner (DOF Freedom HD, Seoul, Korea). A three-dimensional model was created, and information was saved as STL file.
+
+Designing of the crowns was done using ExoCad software (ExoCad 2020 GmbH, Darmstadt, Germany). The margin was drawn on the 3D virtual model as a closed green line. Cement space was set to be 60 μm circumferentially leaving 1 mm above the margin.
+
+The molar design was adjusted as follows: 10 mm crown length from buccal cusp to implant platform, 10 mm width mesio-distal, and 10 mm bucco-lingual. The occlusal surface was shaped with two flat sides converging to midline; the central sulcus was located exactly in the center of the plane perpendicular to the long axis of the crown.
+
+Crown fabrication
+
+Nanoksa G Plus disc was fixed in the spindle of the milling machine (i mes-icore, Gmbh, Germany) to start milling all specimens employing the same previous design.
+
+For the 3D printing group, design file was converted and saved in STL format to be compatible with the 3D printer (Inox S2, USA). The printing platform and Nanoksa BioGuard resin material were prepared, printing parameters configured, and fabrication process initiated. Following printing, samples were cleaned with 96% ethanol and post-cured for five minutes in a UV light cure box working in vacuum with nitrogen gas (Inox, USA). Complete seating of all crowns was confirmed using magnifying loupes.
+
+Marginal gap assessment
+
+Before cementation, the crowns' vertical marginal gap was measured. The crown was stabilized with a holding device and examined under a stereomicroscope at 35X (Zeiss, Germany). All stereomicroscopic measurements were performed by a single trained examiner, blinded to group allocation, with specimens coded prior to measurement.
+
+The gap was captured by camera and examined using image analysis software (Olympus DP2-SAL). Six reference points were set up on each crown: mesiobuccal, midbuccal, distobuccal (buccal side), and mesiolingual, midlingual, distolingual (lingual side). All six points were consistently marked on the epoxy resin using a permanent marker. These six measurements were averaged to obtain a single mean marginal gap value per crown, used for statistical analysis.
+
+Crowns cementation
+
+Each abutment and the fitting surfaces of crowns were air-born particle abraded using 50 μm Al2O3 particles at 1.5 bar. Ceramic primer (Z prime, Bisco) was applied to the treated abutment surface for 60 s and dried. Silane coupling agent (Porcelain primer, Bisco) was applied for 30 s and dried.
+
+All crowns were cemented using Duo-Link adhesive resin cement, seated with finger pressure then a controlled load of 5-kg static load (49 N) for 10 min to guarantee uniformity and full seating. The same seating procedure was applied for all specimens.
+
+Excess cement at margin was light cured for 2 s and removed with an explorer. Margin was light cured for 20 s/surface to complete cement curing.
+
+Artificial accelerated aging
+
+Crowns underwent thermal aging: 5,000 cycles between 5°C and 55°C (25 s dwell, 10 s lag), clinically equivalent to six months of use. Then mechanical cyclic loading using chewing simulator: 75,000 cycles (50 N load, 1–1.6 Hz, wet conditions), also approximating six months of clinical function.
+
+Marginal gap after aging
+
+Upon completion of aging protocol, marginal gaps were measured a second time following the previously mentioned steps.
+
+Statistical analysis
+
+Paired T-test compared marginal gap in the same group before and after aging; unpaired T-test compared the two groups at each stage. SPSS version 25 was used. p<0.05 indicated significance.
+
+Results
+
+Milled group showed statistically significant lower marginal gap values compared to 3D-printed group both before cementation and after aging (p<0.001). Marginal gap increased significantly following thermomechanical accelerated aging compared to before cementation, regardless of production method (p<0.001).
+
+Marginal gap results (µm, mean ± SD):
+- Before cementation: Milled group range 32.98–35.36, mean 34.08 ± 0.85; 3D printed group range 58.49–60.51, mean 59.71 ± 0.79. T=69.50, p<0.001.
+- After aging: Milled group range 36.99–38.88, mean 37.76 ± 0.64; 3D printed group range 62.54–64.56, mean 63.83 ± 0.57. T=94.81, p<0.001.
+- Differences (before vs after, paired): Milled group mean 3.67 ± 0.86 (T=13.48, p<0.001); 3D printed group mean 4.12 ± 1.08 (T=12.00, p<0.001).
+
+Discussion
+
+Marginal accuracy of implant supported hybrid nanoceramic crowns was evaluated by measuring the vertical marginal gap at six standardized locations per crown, comparing subtractive and additive techniques for novel hybrid ceramic materials. The null hypothesis was rejected since there was a substantial difference in marginal accuracy between the two groups.
+
+Stock straight titanium abutments were selected for their wide availability, ease of handling, and ability to ensure specimen standardization. Abutments were secured using a torque of 25 Ncm. Abutments were scanned using a desktop scanner integrating light and laser technologies with a rotating platform. A scanning spray was applied to reduce optical reflections from the reflective metallic abutments. Cement spacer was standardized at 60 μm, beginning 1 mm above the crown margin.
+
+Hybrid nanoceramic was chosen for its appeal in aesthetic situations, resilience, improved force distribution, machinability and marginal fit. While resin-based prostheses have originally been created via SM, printable hybrid nano-ceramics have just entered the market, making AM a feasible choice for permanent restorations.
+
+The marginal gap was evaluated via direct observation using an external measurement microscope at 35X magnification. Six consistent measurement locations were marked using an indelible marker on epoxy resin base.
+
+Laboratory-based accelerated aging (thermal cycling) is used to predict lifespan of ceramic restorations. This study conducted 5,000 thermal cycles (~6 months clinical aging) and 75,000 mechanical cycles (~6 months clinical service).
+
+In clinical terms, the highest acceptable marginal gap for implant-supported restorations is still debated, with documented acceptable values varying from 50 to 200 μm. McLean and von Fraunhofer concluded that a marginal gap of less than 120 μm is clinically acceptable.
+
+The average marginal gap for all hybrid nanoceramic crowns, regardless of manufacturing technique, was less than 64 μm — every specimen met acceptance. Direct comparison with other studies was limited due to few studies examining Nanoksa G-plus and Nanoksa BioGuard fit specifically. Findings could be compared with Soliman et al., who examined fit of crowns made using various CAD/CAM materials and found hybrid ceramic (Vita Enamic) resulted in smoother margins during milling, giving better marginal adaptation. Results agree with previous studies relating higher marginal accuracy of hybrid ceramic to omission of additional post-milling fabrication, and with studies concluding milled hybrid materials exhibit improved adaptation due to lower brittleness compared to ceramic-based materials. In agreement with the present study, Sayed et al. reported lower marginal gap values for milled Nanoksa G-plus crowns compared with 3D-printed Nanoksa BioGuard crowns, though the difference did not reach statistical significance in that study.
+
+Conversely, Suksuphan et al. reported lower marginal gap values for 3D-printed polymeric crowns compared with milled polymeric and polymer-infiltrated glass ceramic crowns. Similarly, Donmez et al. found 3D-printed resin composite crowns demonstrated the smallest marginal gaps compared with milled crowns fabricated from reinforced composite, polymer-infiltrated ceramic, and hybrid ceramic materials. The discrepancies may be attributed to differences in chemical composition of evaluated resin composite materials, including resin matrix formulation and filler type/content.
+
+Layer-by-layer 3D printing can lead to errors from surface imperfections and layer thickness, an adjustable parameter that should be optimized. More extensive post-production procedures required for additive manufactured hybrid nanoceramic restorations, compared to milled ones, may introduce additional disparity in marginal fit. Removal of printing support structures may have contributed to the greater marginal gap in the 3D-printed group. Overall dimensional accuracy may be adversely affected by warping or insufficient material hardening from overcuring or undercuring.
+
+After cementation, each group exhibited a higher mean marginal gap compared to pre-cementation values. Milled Nanoksa G plus crowns (Group M) exhibited mean gaps of 34.08 μm before and 37.76 μm after cementation and aging, while 3D printed crowns (Group P) recorded mean gaps of 59.71 μm and 63.83 μm, correspondingly. Many studies have found cement use negatively impacts fit, causing consistent increase in marginal gap after the procedure. The statistically significant increase in marginal gap observed after thermocycling is consistent with Sayed et al., who attributed this effect to the degradative impact of thermocycling on resin luting cement.
+
+Limitations
+
+The study's limitation is lack of internal fit assessment. Irregularities on the intaglio surface may hinder proper seating, potentially leading to marginal discrepancies. Longer aging periods may be beneficial in capturing long-term effects on restorations.
+
+Because of use of a laboratory scanner, results might not capture the clinical scenario, where accuracy of CAD/CAM crowns is often adversely affected by factors like gingival bleeding, moisture, and limited mouth opening during intraoral scanning.
+
+Conclusions
+
+Within the limitations of this in vitro study, findings highlight the influence of manufacturing approach and cementation on marginal adaptation of implant-supported crowns. The observed differences between additive and subtractive techniques, together with the effect of cementation, underline the need for careful material selection and standardized luting procedures when evaluating marginal accuracy. Further well-designed clinical studies are required to determine their relevance under clinical conditions.
