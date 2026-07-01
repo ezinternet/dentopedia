@@ -922,6 +922,8 @@ tags: []
 - [[complete-denture/bhagat-2025-reproducibility-swallowing-chin-point-gothic-posture]] — Bhagat 2025 · in-vivo (n=30) · 중심위 재현성+체위: 디지털 고딕아치 ~0.98(체위 무관) > 턱끝유도 ~0.79(앙와위) > 삼킴 ~0.62(직립 한정)
 - [[complete-denture/singh-2026-nick-notch-intraoral-gothic-arch-jaw-relation]] — Singh 2026 · prospective (n=20, split-cast) · 악간관계 정확도 위계: nick-and-notch(0.15/0.23mm) < 구내 고딕아치(0.42/0.51) < 구외(0.74/0.86), 전부 p<0.001
 - [[complete-denture/zhou-2023-digital-intraoral-gothic-arch-device-centric-relation]] — Zhou 2023 · prospective (n=10, abstract-only) · 디지털 제작 간이 구내 고딕아치 장치로 총의치 중심위 결정: 전통법과 정중관계 일치(편차 <0.5mm) + 의자시간 57.5→41.9분 단축
+- [[complete-denture/muehlemann-2025-cost-efficiency-digital-conventional-denture]] — Muehlemann 2025 · sr+ma (J Prosthodont, 5편 n=184): 디지털 vs 전통 총의치 워크플로우 비용효율 — 기공·임상·총비용·내원횟수 모두 유의차 없음; 시술자 숙련도가 임상비용·내원횟수에 유의 영향
+- [[complete-denture/feng-2025-expert-consensus-digital-complete-denture]] — Feng 2025 · consensus (Int J Oral Sci): 디지털 총의치 제작 전문가 합의문 — 구강내·안면 스캔, CAD 설계, 절삭/적층 가공 표준 워크플로우, 적응증·평가지표 권고
 
 ## 비니어·라미네이트 (Veneers — added 2026-06-15)
 - [[veneers/sharma-2026-resin-cement-shade-ceramic-veneers-sr]] — Sharma 2026 · sr · in-vitro SR(10편): 레진시멘트 색조·투명도가 세라믹 비니어 최종색 좌우 — 불투명/고채도 시멘트 ΔE>3.3(임상 허용 초과), 박형·고투명 비니어서 최악; try-in paste 비신뢰 (DOI 10.3389/fdmed.2026.1789416)
@@ -1011,6 +1013,7 @@ tags: []
 - [[dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma]] — CAD/CAM 수복물 임상 실패 원인 SR+MA — 파절 55%, 탈락 20%; 두께 <1mm 파절 위험 증가.
 - [[dental-materials/warreth-2020-all-ceramic-restorations-narrative-review]] — Warreth & Elkareimi 2020 narrative review: all-ceramic restorations classification (composition × fabrication), flexural strength benchmarks, Saudi Dental Journal
 - [[dental-materials/alghauli-2025-clinical-complications-survival-rate-resin]] — 레진 매트릭스 세라믹(RMC; PICN·RNC) SR+MA (21편): 크라운 합병증 세라믹 대비 높음; 베니어·인레이는 리튬 디실리케이트와 동등; 생존율 수복물 유형 의존
+- [[dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic]] — Omar 2026 · in-vitro (BMC Oral Health): 임플란트 하이브리드 나노세라믹(Nanoksa) 크라운 마진갭 — 밀링(34–38µm)이 3D 프린팅(60–64µm)보다 열가공 노화 전후 모두 유의하게 우수
 
 ## 글래스아이오노머 (Glass Ionomer)
 - [[glass-ionomer/sokolowski-2018-ion-releasing-polymeric-materials-contraction-stress]] — Sokolowski 2018 · in-vitro · 이온유리 수복재 10종 광탄성 응력 평가, Ionosit(컴포머) 최고 수분흡수·56일 후 팽창응력 (DOI 10.3390/polym10101093)
@@ -1055,6 +1058,7 @@ tags: []
 - [[digital-workflow/nava-2026-guided-surgery-immediate-implant-accuracy-nma]] — Univ Michigan SR+NMA (Clin Oral Implants Res 2026;37(5):525, 18연구/780 즉시 임플란트): IIP에서 모든 guided(static/dynamic/robotic)가 freehand보다 angular·platform·apex 정확도 유의 우수, rCAIS·dCAIS 최상위. 단 비-RCT 다수로 전반 certainty LOW (Schiavon 2025의 rCAIS 포함 확장판).
 - [[digital-workflow/lu-2021-digital-stackable-osteotomy-template-precision]] — 증례보고(West China J Stomatol 2021, 중국어, n=4 무치악): 절골+식립+임시수복 일체형 3D 프린팅 디지털 스택형 가이드 절골층 정확도 — 평균 체적 편차 492.94 mm³(예정의 21.21%), 변위 ±0.5 mm 부호 상쇄, 각도 1.39–10.52°. n=4·1건 outlier 왜곡
 - [[digital-workflow/jkda-2025-63-5-003]] — In vitro pilot (경북대 보철과 이규복·김소연, JKDA 2025): 3D 프린팅 zirconia crown — offset parameter별 marginal·internal fit 비교, 임상 acceptable range 결정
+- [[digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch]] — Fouda 2025 · in-vitro micro-CT (J Prosthodont 2025;35(5):721): 완전 디지털 워크플로우 전악 임플란트 티타늄 프레임워크 10개 중 SST 기준 통과 0개, non-passivity 60–80% — 스캐닝 오차가 주요 원인
 
 ## 교정치료 (Orthodontics)
 
