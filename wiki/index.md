@@ -71,6 +71,12 @@ confidence: narrative-review
     <span style="font-size:0.85em; color:rgba(255,255,255,0.85);">chairside 계산기·결정트리·시뮬레이터 <!-- INTERACTIVE_COUNT -->31<!-- /INTERACTIVE_COUNT -->편.</span>
   </a>
 
+  <a href="https://ezinternet.github.io/dentopedia/interactives/contradiction-radar.html" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid #e05d5d; border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🎯</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">논쟁 레이더</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);">위키 안에서 근거가 충돌하는 <!-- DEBATE_COUNT -->149<!-- /DEBATE_COUNT -->개 지점 — 회색지대 지도.</span>
+  </a>
+
 </div>
 
 임상 동선 6단계로 바로 가기:
