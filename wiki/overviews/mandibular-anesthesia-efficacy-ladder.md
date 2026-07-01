@@ -95,7 +95,7 @@ Synthesis of the new local-anesthesia cluster: for mandibular molars (especially
 
 ### 신규 추가 (2026-06)
 
-- [[drug/park-2024-articaine-infiltration-lidocaine-intraosseous-molars]] — Retrospective chart review (n=48, SNU 분당; ICDAS 5–6 하악구치): **lidocaine 골내마취(QuickSleeper5)가 보충주사 없는 성공률 100% vs 4% articaine 협측침윤 70.8%** (P<0.001), 주사통증 적고(VAS 17.3 vs 32.0) 발현 빠르나(1분 91.7%) 지속 짧음(118.6 vs 231.3분) (retrospective, 2024)
+- [[local-anesthesia/park-2024-articaine-infiltration-lidocaine-intraosseous-molars]] — Retrospective chart review (n=48, SNU 분당; ICDAS 5–6 하악구치): **lidocaine 골내마취(QuickSleeper5)가 보충주사 없는 성공률 100% vs 4% articaine 협측침윤 70.8%** (P<0.001), 주사통증 적고(VAS 17.3 vs 32.0) 발현 빠르나(1분 91.7%) 지속 짧음(118.6 vs 231.3분) (retrospective, 2024)
 - [[drug/miroshnychenko-2023-injectable-topical-anesthetics-acute-pain-sr]] — GRADE 평가 2개 SR(ADA 급성 치성통증 CPG 근거): **장시간형 bupivacaine이 lidocaine+epi 대비 진통제 소비 감소**(MD −1.91 doses, −3.35~−0.46), mepivacaine 대비(−1.58); **20% benzocaine 국소도포가 위약 대비 통증 감소 반응자 증가**(RR 1.47, 1.03–2.10, 증상성 비가역 치수염) (sr+ma, 2023)
 
 **갱신 메모 (2026-06-07)**: 두 논문은 ladder의 §2(보충주사)·§3(마취제 선택)을 확장한다. Park 2024는 하악구치 hot tooth에서 **골내마취(IO)가 협측침윤보다 단발 성공률이 높음**을 보여, 기존 "보충주사 = 약 2배 상승" 명제에 IO를 1차 대안으로 끌어올리는 근거(단 retrospective·단일기관·지속시간 짧음 한계). Miroshnychenko 2023은 ADA CPG 근거로 **장시간형 bupivacaine이 술후 진통제 소비를 줄이고 topical benzocaine이 비가역 치수염 통증을 낮춤**을 추가 — 마취제 선택이 마취 성공뿐 아니라 술후 통증·진통제 사용까지 좌우함을 보강. [근거강함] 술후 통증 관리는 [[overviews/drug-analgesics-postop-pain-overview]] 연계.
