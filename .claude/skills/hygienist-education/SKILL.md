@@ -97,6 +97,41 @@ Q1. (문항, 4지선다 A~D)
 
 **면책 한 줄**: *교육용 요약 — 최신 임상 프로토콜·개별 판단은 위키 원문·원장 확인.*
 
+## Step 4.5 — 플레이 가능한 HTML 퀴즈 자동생성 (사용자가 "퀴즈 만들어" 요청 시)
+
+사용자가 "○○ 퀴즈 만들어줘"라고 하면 문항을 채팅에만 두지 말고 **사이트에 올라가는
+self-contained 퀴즈 HTML을 파일로 생성**한다. LLM은 데이터(스펙 JSON)만 쓰고, HTML 골격은
+`scripts/build-quiz.py`가 보장한다 (템플릿 단일 진실원천 · 항상 유효).
+
+1. **agenda 선행** (Hard rule — interactives는 agenda 필수). 없으면 먼저 만든다:
+   `agenda/{date}_{slug}-education.md` — frontmatter에 `source_wiki:` + `output:`(퀴즈 경로),
+   본문 Goal/Input/Output/Done. (operations-lint가 체인 검증.)
+2. **스펙 JSON 저작** → `interactives/quiz-specs/{slug}.json`:
+   ```json
+   {
+     "slug": "local-anesthesia", "date": "{today}",
+     "title": "국소마취 자가테스트", "emoji": "💉",
+     "category": "drug",                          // interactives-index 버킷 키 (build-interactives-index.py의 CATEGORIES 중 하나)
+     "agenda": "agenda/{date}_local-anesthesia-education.md",
+     "source_wiki": ["wiki/drug/local-anesthesia/x.md", "..."],
+     "overview": {"path": "overviews/...", "label": "..."},   // 선택 (푸터 링크)
+     "questions": [
+       {"q":"질문","opts":["A","B","C","D"],"ans":1,       // ans = 정답 보기 0-based 인덱스
+        "rat":"해설(왜 맞는지)","cite":"drug/local-anesthesia/foo-2025-..."}  // cite = 위키 경로(category/stem)
+     ]
+   }
+   ```
+   - 문항·해설·cite는 **실제로 읽은 페이지 근거**로만. 4지선다, 오답은 명백히 틀리게.
+3. **생성 실행**:
+   ```bash
+   python3 scripts/build-quiz.py --spec interactives/quiz-specs/{slug}.json
+   ```
+   → `interactives/{date}_{slug}-quiz.html` 생성 (frontmatter·채점·근거링크 자동 완비).
+4. **검증**: `python3 scripts/build-interactives-index.py` (색인) + `python3 scripts/operations-lint.py` (체인).
+   배포 시 `interactives/`가 사이트로 복사돼 `/dentopedia/interactives/{date}_{slug}-quiz.html`에 노출.
+
+스펙만 고쳐 재실행하면 퀴즈가 갱신된다 (HTML 직접 편집 금지 — 스펙이 진실원천).
+
 ## Step 5 — 지식 복리 (optional)
 
 - 공백이 드러나면: "이 하위주제는 위키에 논문이 없어요 — PDF 주시면 ingest."
