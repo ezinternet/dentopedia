@@ -825,6 +825,8 @@ tags: []
 - [[periodontics/meseli-2016-probing-depth-srp-response-periodontitis]] — 전향적(1,672포켓/15명): IPD↑ → PD감소↑ 양의 상관; 단근치 IPD≥4mm 전체 AG 유의; 다근치 AG는 IPD≥7mm만 유의
 - [[periodontics/jung-2019-periodontitis-spt-disease-progression-sr]] — SR(17편/14연구/964명/5–15년): 10/14연구 CAL손실≤0.5mm(안정); 흡연·구강위생불량·SPT불순응이 진행 예측인자
 - [[periodontics/farooqi-2015-periodontal-maintenance-recall-interval-sr]] — SR(8편 코호트, RCT 없음): 3–6개월 단기주기 → 치아보존 유리; 12개월 근접 시 치아손실 유의 증가; 일률적 주기 권고 근거 부족
+- [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]] — Lamont 2018 · sr+ma (Cochrane, RCT 2편, 1711명) · 저위험 건강 성인 루틴 스케일링·폴리싱(프로필락시스)은 치은염·치주낭·삶의질에 2~3년간 무효(high-certainty), 치석만 소폭↓; 6개월 vs 12개월 주기 차이 미미 → 위험도 기반 recall 근거 (DOI 10.1002/14651858.CD004625.pub5)
+- [[periodontics/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — Farina 2026 · sr+ma (EFP 21st Workshop, 11편) · 치태-유발 치은염: OHI가 1차, PMPR은 OHI 병용 시에만 이득(low certainty); 에어폴리싱+초음파 ≈ 초음파+러버컵 폴리싱이나 더 빠름; 다이오드 레이저 무효 (DOI 10.1111/jcpe.70083)
 - [[periodontics/marty-2024-implant-treated-periodontitis-sr-ma]] — SR+MA(Dent J 2024, 5개 DB, 10,775편): 치주염 기왕력 → 치주위임플란트염 ~4.8배↑; 임플란트 생존율↓; 골소실·포켓깊이↑
 - [[periodontics/papapanou-2018-periodontitis-classification-consensus-2017]] — 2017 치주 세계 워크샵 치주염 새 분류 — Staging I–IV(중증도) + Grading A–C(진행속도/반응성).
 - [[periodontics/roccuzzo-2022-implants-periodontitis-history-20year-prospective]] — 치주염 병력 20년 전향적 연구 — 치주염 병력군 생존율 81% vs 비병력군 91%, SPT 순응도 결정적.
