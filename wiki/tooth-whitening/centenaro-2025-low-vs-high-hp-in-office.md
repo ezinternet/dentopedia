@@ -10,6 +10,8 @@ source: centenaro-2025-low-vs-high-hp-in-office.md
 category: [tooth-whitening]
 confidence: rct
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/centenaro-2025-low-vs-high-hp-in-office.txt
+text_filename: centenaro-2025-low-vs-high-hp-in-office.txt
 tags: [in-office-bleaching, hydrogen-peroxide, tooth-sensitivity, eu-regulation, low-concentration, rct]
 relations:
   - type: extends
