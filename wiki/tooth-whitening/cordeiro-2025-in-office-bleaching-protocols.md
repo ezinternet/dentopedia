@@ -10,6 +10,8 @@ source: cordeiro-2025-in-office-bleaching-protocols.md
 category: [tooth-whitening]
 confidence: in-vitro
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/cordeiro-2025-in-office-bleaching-protocols.txt
+text_filename: cordeiro-2025-in-office-bleaching-protocols.txt
 tags: [in-office-bleaching, protocol-optimization, hydrogen-peroxide, pulp-penetration, application-time, whiteness-index]
 relations:
   - type: refines
