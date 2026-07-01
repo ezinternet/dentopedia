@@ -2,7 +2,7 @@
 """
 LLM Wiki — Daily Audit Runner
 
-One entry-point that runs all 13 audits and writes their logs to logs/.
+One entry-point that runs all 14 audits and writes their logs to logs/.
 
 Three classic audits (errors):
   - lint.py                  → wiki frontmatter sanity
@@ -28,6 +28,11 @@ One interactive-tool freshness signal (non-blocking):
   - interactive-staleness.py → clinical interactive's source_wiki newer than tool
                                (STALE → LLM re-author candidate) or BROKEN source path.
                                meta/stats tools excluded (build-wiki-stats.py regenerates them).
+
+One contradiction-radar backfill signal (non-blocking):
+  - find-contradiction-candidates.py → pages with explicit conflict language but no
+                               relations: contradicts/refines edge (radar coverage gap).
+                               Signal only — LLM judges each candidate, does not auto-write.
 
 Exit code:
     0 if all classic audits + ingest-rationale pass.
@@ -61,6 +66,7 @@ AUDITS = [
     ("relations-audit.py",           [],       False),
     ("link-integrity.py",            [],       False),
     ("interactive-staleness.py",     [],       False),
+    ("find-contradiction-candidates.py", [],   False),
 ]
 
 
@@ -100,7 +106,7 @@ def main() -> int:
     print("─" * 66)
     for script, code, passed in summary:
         status = "PASS" if passed else "FAIL"
-        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py"}:
+        if script in {"synthesis-backlog.py", "category-overflow.py", "overview-thesis-staleness.py", "overview-coverage-lint.py", "doi-duplicate-check.py", "supersession-audit.py", "relations-audit.py", "link-integrity.py", "interactive-staleness.py", "find-contradiction-candidates.py"}:
             status = "SIGNAL"
         print(f"  {script:<32} {code:>5}  {status:>8}")
     print("─" * 66)
