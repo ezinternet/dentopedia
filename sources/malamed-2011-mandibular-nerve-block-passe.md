@@ -14,7 +14,7 @@ text_filename: malamed-2011-mandibular-nerve-block-passe.txt
 
 ## Why Ingested
 
-경부신경총·이설골설근신경·후구치관 등 개별 부가신경 경로 논문들과 별개로, IANB 고실패율의 **비신경-부가 원인**(피질골 두께, 연조직 두께에 따른 바늘 편향, 신경 위치 파악의 어려움)까지 포괄적으로 정리한 JADA supplement 서론 논문 — accessory innervation을 여러 원인 중 하나로 자리매김시켜준다.
+[[wiki/local-anesthesia/kim-2016-systematic-review-cervical-plexus-accessory]]·[[wiki/local-anesthesia/stein-2007-sensory-innervation-mandibular-teeth-nerve]]·[[wiki/local-anesthesia/filo-2015-frequency-anatomy-retromolar-canal-implications]] 등 개별 부가신경 경로 논문들과 별개로, IANB 고실패율의 **비신경-부가 원인**(피질골 두께, 연조직 두께에 따른 바늘 편향, 신경 위치 파악의 어려움)까지 포괄적으로 정리한 JADA supplement 서론 논문 — accessory innervation을 여러 원인 중 하나로 자리매김시켜준다.
 
 ## One-line Summary
 
