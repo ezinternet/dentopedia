@@ -24,6 +24,9 @@ source: synthesis
 > - 법적 원칙: AI가 보조해도 진단·치료 책임은 의사 귀속, AI 출력은 확진이 아닌 screening 도구로만, 개인정보보호법(PIPA) 적용.
 > - 소아치과 AI 확장(2026, `artificial-intelligence/` 신설): 엄브렐러 리뷰(Garg 2026)에서 영상용 합성곱 신경망(Convolutional Neural Network, CNN) 민감도/특이도 80–83%·곡선하면적(AUC) 0.87–0.91이나 포함 SR 대부분 AMSTAR-2 낮음/매우 낮음 — 성인 cluster와 동일하게 "영상 진단 우위 + 근거 품질 경고" 패턴 재확인(Gómez-Ríos 2025 머신러닝 SR은 우식 예측 14/20편 집중).
 > - 과제별 영상진단 정량 anchor 확보(2026-06-22, cluster 6): 우식 검출 민감도 76%·특이도 91%·AUC 92%(Abbott 2024), 치근단 병소 민감도 0.925·dOR 71.7로 **유일 GRADE high**(Sadr 2023), 치주골소실 민감도 87%(Khubrani 2025), 두부계측 2D 오차 1.39 mm(Hendrickx 2024), OMFS ChatGPT GPT-4 MCQ 76.8%(de Menezes Torres 2025) — "영상 진단 우위"가 정성 주장에서 과제별 풀링 수치로 격상, 단 풀링비율 낮고 RoB·이질성 높아 근거 품질 경고는 유지.
+> - 영상진단 SR·1차연구 추가(2026-07-01, cluster 7): 방사선 우식검출 SR은 민감도 0.44–0.86·특이도 0.85–0.98·곡선하면적(Area Under the Curve, AUC) 0.84–0.98로 합성곱 신경망(Convolutional Neural Network, CNN)이 약 70% 차지하나 데이터셋이 작고 이질적이라 메타분석 불가(Albano 2024); 병소검출 지도형 SR은 5개 병소·3개 영상양식·14개 아키텍처(U-Net 최다 27.6%)를 정리하되 한 모델이 치근단 병변 49%를 놓친 사례를 경고(Demir 2024).
+> - 파노라마 우식 다단계 검출 1차연구(Pornprasertsuk 2025): 당일 바이트윙을 gold standard로 삼아 파노라마에서 법랑질/상아질/치수 단계별 분할, 구치부 F1 0.85·정확도 0.93·재현율 0.96(가중 κ 0.907–0.981)이나 위양성(519)이 위음성(67)보다 많아 단독 진단이 아닌 결정보조로 자리매김.
+> - 파노라마 AI 상위(umbrella) 리뷰(Turosz 2023, 12편 SR·ROBIS): 과제별 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별 93.67%, 치근단 병소 민감도 99.95%·특이도 92%이나 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. 성인 영상진단 cluster의 "영상 우위 + 근거 품질 경고" 패턴 재확인.
 > - 공통 공백: AI 도입 vs 미도입을 비교한 환자-결과 RCT 부재, 한국어·한국 인구 검증 부재, 5년 이상 장기 추적 데이터 부재.
 
 ## One-line Summary
@@ -122,6 +125,17 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 
 **Synthesis [claude해석]** — 네 영상 과제(우식·치근단·치주·두부계측)의 풀링 수치가 모두 임상 유용 범위(민감도 76–93%·특이도 76–91%, 2D 계측오차 <2 mm)에 들어오면서, "영상 진단 우위"는 더 이상 정성 주장이 아니라 **수치로 확인된 성숙 영역**이다. 그러나 (1) 풀링 비율이 낮고 이질성·RoB가 높으며(Abbott 7/45편, Khubrani "매우우수" 0편), (2) GRADE high는 Sadr 치근단 1과제에 불과하고, (3) 여전히 임상 결과(환자-아웃컴) RCT는 전무하다. 즉 **진단 metric은 성숙·근거 품질은 미성숙**이라는 본 종합의 핵심 이중 명제가 과제별 데이터로 재확인된다. 정량 인용 시 무게중심은 Sadr 2023(GRADE high)과 Zhang 2025(LLM 풀링)에 둔다.
 
+## Cluster 7 — Image-diagnosis SRs & primary studies (2026-07-01 ingest)
+
+2026-07-01 surveillance 인제스트로 영상 진단 SR·overview 3편과 파노라마 우식 1차연구 1편이 추가되어, cluster 2의 "영상 라벨링 = 가장 성숙"과 cluster 6의 "진단 metric 성숙·근거 품질 미성숙" 이중 명제를 **독립 재확인**한다. 세 편 모두 정성 주장을 과제별·아키텍처별 수치로 뒷받침하되 데이터·일반화 병목을 명시한다.
+
+- **Albano 2024 (sr, PRISMA/QUADAS-2, 20편·영상 6346장)** — 방사선 우식 검출 AI: 민감도 0.44–0.86·특이도 0.85–0.98·정확도 0.73–0.98·곡선하면적 (Area Under the Curve, AUC) 0.84–0.98·F1 0.64–0.92, 합성곱 신경망 (Convolutional Neural Network, CNN)이 약 70%. 대부분 낮은 비뚤림 위험(QUADAS-2)이었으나 데이터셋이 작고(최소 15장) 이질적이라 **메타분석 불가**. bitewing이 인접면 우식에 최적 modality, AI는 저경력 검사자에게 특히 유용. cluster 6 Abbott 2024(풀링 SR+MA)의 저변 데이터를 modality·아키텍처로 분해(refines). [근거강함 for per-metric ranges, 합의수준 for no-pooling]
+- **Demir 2024 (sr, PRISMA/Kitchenham, 29편, 2019–2024)** — 딥러닝 병소검출 지도형 리뷰: 5개 병소유형(치근단 62%·apical 34%·낭종·우식·악골)×3개 영상양식(파노라마·치근단·CBCT)×14개 아키텍처(U-Net 최다 27.6%). 정확도 pooling 없음. **경고 신호**: 한 U-Net 모델(2902 파노라마)이 sens 92%·spec 84%에도 치근단 방사선투과 병소의 **49%를 놓침** — headline accuracy 과독 위험. Sadr 2022(치근단 풀링 SR+MA)를 5병소·3양식으로 확장(extends). [근거강함 for the field map, 근거약함 for generalizability]
+- **Pornprasertsuk 2025 (retrospective, 파노라마 500장·치아 14,997개·우식 1,792개)** — 당일 bitewing을 gold standard로 삼아 파노라마에서 우식을 법랑질/상아질/치수 단계별 분할하는 2단계 파이프라인(YOLOv5s 치아검출 + Attention U-Net 우식분할): 구치부 F1 0.85·정확도 0.93·재현율 0.96, 방사선과 전문의와 가중 κ 0.907–0.981(거의 완벽). 단 위양성 519 > 위음성 67로 healthy tooth 과예측 → 단독 진단 아닌 결정보조. Albano 2024 SR이 집계하는 우식 AI trend의 구체 1차연구 인스턴스(applies-to). [retrospective, single-center, 외부검증 필요]
+- **Turosz 2023 (sr, umbrella/overview of SRs, 12편 SR·ROBIS)** — 파노라마 AI 상위 리뷰: 과제별 최신 정확도 우식 91.5%·골다공증 89.29%·상악동염 87.5%·치주골소실 93.09%·치아식별·번호매김 93.67%, 치근단 병소 민감도 99.95%·특이도 92%. 단 원천 연구가 적고 이질적이며 AI SR은 빨리 노후화 → 신중 해석. cluster 6 과제별 anchor(치주 Khubrani, 우식 Abbott)와 수렴하는 cross-task 정확도 landscape. **abstract-only(전문 미확보)이라 per-review ROBIS·과제별 review 수는 미포착.** [합의수준]
+
+**Synthesis [claude해석]** — 네 편은 cluster 2·6의 이중 명제를 다시 확증한다: (1) 영상 진단 metric은 과제·아키텍처를 가로질러 임상 유용 범위(파노라마 우식 91.5%, 치근단 sens 99.95%, F1 0.85)에 반복 도달하고, (2) 그러나 데이터셋이 작고 이질적이라 메타분석이 반복적으로 좌절되며(Albano 풀링 불가), 한 모델이 병변 49%를 놓치고(Demir), 위양성이 위음성을 초과하며(Pornprasertsuk), umbrella 수준에서도 원천 SR이 적고 빨리 노후화된다(Turosz). 즉 **"진단 정확도는 성숙, 근거 품질·일반화는 미성숙"**이 SR·overview·1차연구 세 층위 모두에서 일관된다. 임상 인용 시 정량 무게중심은 여전히 Sadr 2023(GRADE high)과 Zhang 2025(LLM)에 두고, 본 4편은 영상 진단 성숙도 지형의 폭·깊이를 채운다.
+
 ## Evidence quality audit (cluster-wide)
 
 | 차원 | 분포 |
@@ -182,3 +196,9 @@ Synthesis/overview stratifying 9 AI-in-dentistry/healthcare review papers (inges
 - [[artificial-intelligence/khubrani-2025-periodontal-bone-loss-periodontitis-detection]] — cluster 6 치주골소실 (APPRAISE-AI, sens 87%) (sr+ma, 2025)
 - [[artificial-intelligence/hendrickx-2024-ai-cephalometric-analysis-manual-tracing]] — cluster 6 두부계측 자동화 (2D 오차 1.39 mm) (sr+ma, 2024)
 - [[artificial-intelligence/de-menezes-torres-2025-chatgpt-oral-maxillofacial-surgery]] — cluster 6 LLM 확장 (OMFS ChatGPT, GPT-4 76.8%) (sr, 2025)
+
+### 신규 ingest cluster — AI 영상진단 (caries/lesion detection, panoramic) (2026-07-01)
+- [[artificial-intelligence/albano-2024-artificial-intelligence-radiographic-caries-detection]] — cluster 7 방사선 우식검출 SR (PRISMA/QUADAS-2, 20편; sens 0.44–0.86·spec 0.85–0.98·AUC 0.84–0.98·CNN ~70%; 데이터 이질성으로 메타분석 불가) (sr, 2024)
+- [[artificial-intelligence/demir-2024-artificial-intelligence-dental-lesion-detection]] — cluster 7 병소검출 지도형 SR (29편; 5병소·3양식·14아키텍처, U-Net 27.6%; 한 모델 치근단 병변 49% 놓침 경고) (sr, 2024)
+- [[artificial-intelligence/pornprasertsuk-2025-deep-learning-multistage-caries-panoramic]] — cluster 7 파노라마 다단계 우식 1차연구 (YOLOv5+Attention U-Net; 구치부 F1 0.85·acc 0.93·recall 0.96·κ 0.907–0.981; FP>FN → 결정보조) (retrospective, 2025)
+- [[artificial-intelligence/turosz-2023-artificial-intelligence-panoramic-radiographs-overview]] — cluster 7 파노라마 AI umbrella (12편 SR·ROBIS; 우식 91.5%·치주 93.09%·치아식별 93.67%·치근단 sens 99.95%; abstract-only, AI SR 빠른 노후화 경고) (sr, 2023)
