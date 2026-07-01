@@ -9,6 +9,8 @@ source: terra-2025-effect-at-home-agents-nma.md
 category: [tooth-whitening]
 confidence: sr+ma
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/terra-2025-effect-at-home-agents-nma.txt
+text_filename: terra-2025-effect-at-home-agents-nma.txt
 tags: [at-home-bleaching, network-meta-analysis, carbamide-peroxide, hydrogen-peroxide, concentration, bayesian]
 relations:
   - type: extends
