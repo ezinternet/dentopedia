@@ -2,7 +2,7 @@
 title: "Comparison of marginal gap in implant-supported hybrid nanoceramic crowns fabricated by additive vs. subtractive manufacturing"
 authors: Omar S, Elshenawy EA, Elsharkawy SM
 year: 2026
-date: 2026-01-01
+date: 2026-02-02
 doi: 10.1186/s12903-026-07710-2
 source: omar-2026-marginal-gap-additive-subtractive-nanoceramic.md
 category: [dental-materials]
