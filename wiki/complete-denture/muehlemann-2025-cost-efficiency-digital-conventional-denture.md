@@ -2,7 +2,7 @@
 title: "Cost-efficiency of digital versus conventional workflow for removable complete dentures: A systematic review and meta-analysis"
 authors: Muehlemann E, Pachiou A, Sáenz-Ravello G, Jung RE, Strauss FJ, Liguori MG
 year: 2025
-date: 2025-01-01
+date: 2025-12-10
 doi: 10.1111/jopr.70074
 source: muehlemann-2025-cost-efficiency-digital-conventional-denture.md
 category: [complete-denture]
@@ -61,6 +61,6 @@ This systematic review and meta-analysis (PROSPERO CRD42024607329) compared digi
 
 ## Related Papers
 
-- [[wiki/complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures]] — earlier SR+MA reported CAD/CAM RCDs as significantly cheaper (lower laboratory and total costs); this paper's cost-efficiency meta-analysis (accounting for patient outcomes and rigorous currency harmonization) contradicts that cost-only conclusion, finding no significant cost difference.
-- [[wiki/complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]] — prior CAD-CAM RCD SR+MA; this paper extends the cost-outcome evidence base with a dedicated cost-efficiency meta-analysis and excludes Srinivasan 2021 itself from pooling (no conventional comparator arm).
-- [[wiki/complete-denture/thu-2024-digital-complete-denture-clinical-laboratory]] — SR on clinical/laboratory procedures for digital CD fabrication; complements this paper's cost-focused findings with procedural detail.
+- [[complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures]] — earlier SR+MA reported CAD/CAM RCDs as significantly cheaper (lower laboratory and total costs); this paper's cost-efficiency meta-analysis (accounting for patient outcomes and rigorous currency harmonization) contradicts that cost-only conclusion, finding no significant cost difference.
+- [[complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures]] — prior CAD-CAM RCD SR+MA; this paper extends the cost-outcome evidence base with a dedicated cost-efficiency meta-analysis and excludes Srinivasan 2021 itself from pooling (no conventional comparator arm).
+- [[complete-denture/thu-2024-digital-complete-denture-clinical-laboratory]] — SR on clinical/laboratory procedures for digital CD fabrication; complements this paper's cost-focused findings with procedural detail.
