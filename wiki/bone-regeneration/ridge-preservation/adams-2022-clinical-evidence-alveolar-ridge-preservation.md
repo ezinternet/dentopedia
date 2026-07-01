@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/adams-2022-clinical-evidence-alveolar
 pdf_filename: adams-2022-clinical-evidence-alveolar-ridge-preservation.pdf
 source_collection: external
 tags: [narrative-review, ARP, xenograft, late-graft-failure, case-report, skeptical]
+relations:
+  - type: contradicts
+    target: avila-ortiz-2019-alveolar-ridge-preservation-interventions
 ---
 
 ## One-line Summary
