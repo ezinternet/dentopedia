@@ -15,7 +15,7 @@ text_filename: kim-2023-bsrp-vs-scrp-prospective-multicenter.txt
 tags: [SCRP, BSRP, implant-prosthesis, retention, multicenter-RCT, Korea, J-Adv-Prosthodont]
 relations:
   - type: extends
-    target: prosthetic-materials
+    target: park-2022-scrp-vs-crp-upper-premolar
 ---
 
 ## One-line Summary

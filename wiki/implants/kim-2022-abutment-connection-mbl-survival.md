@@ -15,7 +15,7 @@ text_filename: kim-2022-abutment-connection-mbl-survival.txt
 tags: [abutment-connection, external-hex, internal-hex, MBL, survival, SCRP, JPIS]
 relations:
   - type: reinforces
-    target: prosthetic-materials
+    target: park-2022-scrp-vs-crp-upper-premolar
 ---
 
 ## One-line Summary

@@ -13,7 +13,7 @@ source_collection: external
 tags: [emergence-profile, peri-implantitis, prosthetic-design, abutment, ti-base, concave-ep]
 relations:
   - type: extends
-    target: implants/peri-implantitis
+    target: misch-2025-abutment-height-emergence-angle-peri-implant-bone-loss
 ---
 
 ## One-line Summary

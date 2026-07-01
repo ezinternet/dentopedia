@@ -13,7 +13,7 @@ source_collection: external
 tags: [immediate-implant, soft-tissue, healing-abutment, emergence-profile, PEEK, chairside]
 relations:
   - type: applies-to
-    target: immediate-implant/esthetic-soft-tissue
+    target: gomez-meda-2021-esthetic-biological-contour-emergence-profile
 ---
 
 ## One-line Summary

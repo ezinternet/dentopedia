@@ -14,8 +14,8 @@ text_path: /Users/oracleneo/llm-wiki/papers/park-2022-scrp-vs-crp-upper-premolar
 text_filename: park-2022-scrp-vs-crp-upper-premolar.txt
 tags: [SCRP, CRP, upper-premolar, alveolar-angle, implant-prosthesis, feasibility]
 relations:
-  - type: extends
-    target: prosthetic-materials
+  - type: reinforces
+    target: kim-2022-abutment-connection-mbl-survival
 ---
 
 ## One-line Summary
@@ -63,6 +63,6 @@ SCRP is widely preferred for its retrievability and passive fit, but the narrow 
 
 ## Related Papers
 
-- [[prosthetic-materials/heo-2015-scrp-newly-designed-abutment]] — 원조 SCRP 설계 및 원리
+- Heo et al. (2015), SCRP newly-designed abutment *(아직 위키 미수록)* — 원조 SCRP 설계 및 원리
 - [[prosthetic-materials/kim-2023-bsrp-vs-scrp-prospective-multicenter]] — SCRP vs BSRP 전향적 RCT
 - [[implants/kim-2022-abutment-connection-mbl-survival]] — SCRP와 MBL 감소 연관성
