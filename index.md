@@ -1542,6 +1542,8 @@ tags: []
 - [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — Poudel 2026 · sr · 구강건조증(Sjögren 포함)이 수복물 실패 ~2.6–2.9배(재발우식); 임플란트 생존 >90%(방사선성은 낮음); 16편/1227명 (DOI 10.1186/s12903-026-07815-8)
 - [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — Tsuchiya 2023 · narrative-review · 코로나19 완치 후 미각장애 1–45%·침분비저하 2–40% 지속(3주–12개월), 두 증상 상관관계; ACE2/TRPV1 수용체·아연결핍 공통기전 (DOI 10.1159/000531373)
 - [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Šijan Gobeljić 2020 · cross-sectional · 쇼그렌증후군 58명 vs 대조군 55명: 미각이상 dysgeusia 52.6%·설작열감 45.6%·무후각 OR 5.2, 침분비량과의 상관은 약함(별개 염증기전 시사) (DOI 10.1186/s12903-020-01169-5)
+- [[oral-medicine/morelli-2023-radiation-dose-taste-alteration-hnscc]] — Morelli 2023 · prospective · 두경부암 IMRT 환자 31명: 급성 미각이상이 미뢰 선량이 아닌 악하선·이하선 선량과 유의상관(각 p=0.05) — 타액선 손상 매개 기전 시사 (DOI 10.1007/s11547-023-01707-5)
+- [[oral-medicine/kodama-2020-zinc-deficiency-guidelines-taste-disorders]] — Kodama 2020 · consensus · 일본 아연결핍 진단·치료 가이드라인: 혈청아연 <60μg/dL 결핍 기준, 미각장애 폴라프레진크 150mg/일로 50–82% 호전(효과발현 최소 3개월, 4주 13.6%→24주 58.8%) (DOI 10.3390/ijms21082941)
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
 - [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA(55편, n=41,231): 구강백반증 악성전환률 pooled 6.64%(95% CI 5.21–8.21); 비균질형(NHOL) RR 4.23·이형성 RR 2.75·측설부 12.71%; 흡연 RR 1.64; 시간 안정적(p=0.75) — OL 악성전환 추정의 최대 SR+MA (2025)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
@@ -2103,6 +2105,7 @@ tags: []
 - [[geriatric-dentistry/chan-2022-professionally-applied-fluoride-older-adults]] — Chan 2022 (SR+MA, HKU, 7편): 노인 근관면 우식 — 38% SDF 예방+정지(24개월 42%), NaF varnish 64%·APF 32% 예방 (위생사 적용)
 - [[geriatric-dentistry/kumar-2025-nutritional-status-dry-mouth-older-adults]] — Kumar 2025 (SR+MA, 14편): 노인 구강건조-영양실조 강한 연관(xerostomia 38%·malnutrition 55%)
 - [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]] — Halasabalu Kalgeri 2026 · narrative-review · 노인 다약제복용(≥5제, 유병률 30–44%)이 약물군별 기전(항콜린제 M3차단·베타차단제 Na-K-2Cl억제 등)으로 침분비저하·미각이상 동시 유발; 탈처방(deprescribing) 우선, 전신 sialogogue 상용 지양 (DOI 10.3389/fdmed.2026.1758771)
+- [[geriatric-dentistry/ponzo-2024-presbygeusia-narrative-review]] — Ponzo 2024 · narrative-review · 병리 없는 순수 노화성 미각저하(presbygeusia) 15편 관찰연구 중 12편이 실재 지지, 신맛·쓴맛 위주 저하하나 노인 식이선택 영향은 문화·심리요인이 더 큼 (DOI 10.1007/s40520-024-02739-1)
 - [[geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] — 전향적 코호트 (PURE, n=139,691, 17개국): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (HR) 1.16, 수축기혈압보다 강한 사망 예측인자 — 구강노쇠·신체노쇠 연결 근거
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
 

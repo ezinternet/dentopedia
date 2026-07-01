@@ -1,0 +1,50 @@
+Impact of radiation dose on patient-reported acute taste alteration in a prospective observational study cohort in head and neck squamous cell cancer (HNSCC)
+
+Ilaria Morelli, Isacco Desideri, Andrea Romei, Erika Scoccimarro, Saverio Caini, Viola Salvestrini, Carlotta Becherini, Lorenzo Livi, Pierluigi Bonomo
+La Radiologia Medica, 2023;128(12):1571-1579
+DOI: 10.1007/s11547-023-01707-5
+PMID: 37642816
+PMCID: PMC10700473
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+Background
+
+Head and neck (HN) cancer is the seventh most common malignancy worldwide (890,000 new cases, 450,000 deaths annually). Intensity-modulated radiotherapy (IMRT) has improved outcomes; IMRT prioritizes sparing organs at risk (OARs) such as parotid glands and constrictor muscles, reducing acute/late xerostomia and dysphagia. Dysgeusia is a common radiation-induced side effect: almost 75% of HN radiotherapy patients report taste dysfunction. Dysgeusia affects nutritional status and quality of life, is associated with greater weight loss, affects nearly all patients during/at treatment end, and persists in some cases. Not enough data exist on the association between dose to OARs and taste impairment, partly because gustatory OARs are not precisely defined. Primary aim: investigate the impact of radiation dose to the taste-bud-bearing tongue mucosa (considered as an OAR) on acute taste alterations (TA).
+
+Methods
+
+Prospective observational cohort study at Radiation Oncology Unit, University of Florence, Italy. Patients with histologically confirmed invasive HNSCC (AJCC 8th edition staging) amenable to radical photon IMRT treatment included. Exclusions: locoregional/distant recurrence, other primary tumors, prior systemic treatment for metastatic disease, inability to undergo planning CT, major oral surgery history, or oral tongue immobilization devices during RT. 5-point thermoplastic mask immobilization during planning CT/treatment. 6 MV photon IMRT; schedules: 70.0 Gy/33 fractions, 70.0 Gy/35 fractions, or 66 Gy/33 fractions. Well-lateralized tonsil cancer could receive unilateral RT; otherwise bilateral neck RT.
+
+Contouring: anterior third, medium third, and base of tongue contoured separately per latest guidelines (axial elaboration of midsagittal contour for taste bud volume as OAR); ipsi-/contralateral major salivary glands contoured per Brouwer et al. Irradiated volume, mean (Dmean), minimum (Dmin), maximum (Dmax) dose reported for each structure.
+
+Concurrent systemic therapy: mostly platinum-based (weekly 40mg/mq or 3-weekly 100mg/mq); targeted therapy mainly cetuximab; induction/adjuvant chemotherapy permitted per clinical practice/DUCRO phase I/II study protocol; RT alone also included.
+
+Toxicity evaluation: patient-reported taste alteration prospectively assessed via EORTC QLQ-C30, EORTC QLQ-H&N43, and CiTAS (Chemotherapy-Induced Taste Alterations, 18-item self-administered scale) at baseline (T0), 3 weeks post-RT (T1), and 3 months post-RT (T2). CiTAS evaluates 4 dimensions (intensity, discomfort, phantogeusia/parageusia, general alterations) via Likert scale 1-5.
+
+Statistics: SPSS v24. Descriptive analysis (mean, range, IQR) for population/toxicity/dose characteristics. Univariable logistic Cox regression for correlation between moderate-severe taste impairment and variables. Ordinal logistic regression for CiTAS scale vs. symptom classes. Significance threshold p=0.05 (hypothesis-generating study).
+
+Results
+
+Cohort: 33 patients recruited Sept 2019-Nov 2020; 31 analyzed (2 excluded: 1 did not receive planned intervention, 1 lost to follow-up). 19 male (61%), 12 female (39%); mean age 63.35y (range 49-86). Tobacco: 4 never-smokers (13%), 15 patients (48%) >20 pack-years. Primary site: oropharynx 22 (71%, 13/60% HPV-positive), larynx 4 (13%), nasopharynx 3 (10%), hypopharynx 2 (6%). T stage: T1 8 (26%), T2 10 (32%), T3 5 (16%), T4 8 (26%). N-positive 22 patients (71%).
+
+Treatment: RTCT+CT 6 (19%), RTCT 18 (58%), RT alone 7 (23%). Concomitant chemo mostly 3-weekly cisplatin 100mg/mq (17 patients, 94% of those on chemo). 5 patients on DUCRO protocol (cetuximab+durvalumab). All treated with tomotherapy, 3-dose-level SIB (69.9/59.4/52.8 Gy in 33 fractions). Bilateral neck irradiation in 25 (81%), unilateral in 6 (19%). Mean prescribed PTV dose 69.45 Gy; mean PTV 105cc. Mean dose to extended oral cavity 36 Gy. Mean dose to base-tongue/medium-third/anterior-third: 47.67/35.50/23.85 Gy. Taste buds received median 32.72 Gy. Parotid glands (R/L): 25/23 Gy. Submandibular glands (R/L): 47.8/39.4 Gy.
+
+CiTAS subdomain scores (general TA, decline in basic taste, discomfort, phantogeusia/parageusia) at baseline: 1.17, 1.30, 1.28, 1.14. At T1: 2.59, 3.01, 2.01, 2.65. At T2: 1.83, 2.19, 1.53, 1.78 (worse at T1, partial recovery by T2). Global health status (QLQ-C30 items 29-30): baseline 69.35, T1 62.37, T2 71.39 (near-recovery by T2). Mouth dryness/saliva thickness (QLQ-H&N43): baseline 11.29, T1 49.46, T2 46.67 (persisted, minimal recovery at T2 vs. T1).
+
+Univariate correlations: taste alteration (dysgeusia) correlated with submandibular gland mean dose (95% CI 0-0.02, p=0.05) and parotid gland mean dose (95% CI 0-0.02, p=0.05). Dry mouth correlated with mean dose to anterior tongue third (95% CI 0.03-1.47, p=0.04), medium third (95% CI 0.02-0.93, p=0.04), taste buds (95% CI 0.06-0.96, p=0.03), and submandibular glands (95% CI 0.06-0.63, p=0.02). Pain mouth correlated with mean dose to taste buds (95% CI 0-0.02, p=0.04), submandibular glands (95% CI 0-0.03, p=0.03), base tongue (95% CI 0-0.02, p=0.02).
+
+Discussion
+
+No correlation found between dose to taste buds specifically and dysgeusia; instead, dose to taste buds was associated with dry mouth and pain mouth. Significant positive relation found between acute TA and mean dose to submandibular/parotid glands, suggesting salivary gland dose plays a more crucial role in radiation-induced TA development than taste-bud dose itself — consistent with Stieb et al.'s finding that major salivary gland dosimetry (not taste-bud dose) correlates with late taste impairment progression.
+
+Most patients experience partial/total taste loss across all 5 basic tastes during RT, maximal impairment at weeks 4-6, with recovery 4-12 months post-RT. Martini et al. (2019, 31 HN patients) found progressive dysgeusia increase peaking at week 7, with partial recovery post-RT heterogeneous by dimension (discomfort/phantogeusia/general alterations recovered by 6 months; hypo-ageusia remained significantly different at later timepoints).
+
+Historical mechanistic debate: taste impairment during RT historically attributed to taste bud atrophy from direct radiation damage (Mossman: purified bovine taste-cell membrane integrity decreases exponentially with radiation dose) rather than salivary dysfunction. Just found epithelial cell changes in papillae (thicker areas, smaller taste pore distribution) without taste bud structural change. Yamashita supported taste bud atrophy (not gustatory nerve damage) as the main cause. Sandow showed patients recovering from RT-induced taste impairment by 6 months, indicating action at taste cell level rather than nerve level.
+
+Dose-response literature: taste detection loss experienced by almost all patients at 60 Gy to entire oral cavity. Sapir et al. (73 oropharyngeal cancer patients): median oral cavity dose (p=0.005) and tongue dose (p=0.019) positively correlated with severe patient-reported dysgeusia. Chen et al.: glossectomy was the only relevant factor for long-term taste impairment excluding surgical patients; mean parotid/oral cavity doses were the predictive factors — <50 Gy oral cavity dose associated with 10.5% TI, ≥50 Gy with 38.7% TI. Chen 2022 (87 Taiwanese patients): mean oral cavity dose >40 Gy most associated with taste dysfunction. Kamprad et al.: entire-tongue irradiation leads to major gustatory defects and longer recovery — recommend reducing highly-exposed tongue volume via IMRT. Yamashita (118 patients): anterior tongue radiation was the most important predictor of acute taste loss regardless of base-tongue inclusion in high-dose region; even low doses (20 Gy) to anterior tongue can cause temporary taste loss.
+
+Limitations: did not evaluate concurrent chemotherapy impact on dysgeusia (Stieb et al. found less frequent severe TA with chemotherapy, non-significant); small sample size; no stratification by smoking/alcohol/HPV status; only acute taste impairment assessed (baseline, 3 and 6 months); other dosimetric parameters (D95, D5) might be more informative than mean dose alone.
+
+Conclusions
+
+Dosimetry to submandibular and parotid glands significantly correlated with acute taste impairment in HNSCC patients undergoing IMRT. Mean dose to taste buds affects dry mouth and pain mouth but showed no significant correlation with dysgeusia development. The dose to salivary glands appears to affect acute taste impairment development more than dosimetry to the taste-bud-bearing tongue mucosa itself — suggesting that in the acute radiotherapy setting, taste alteration may be substantially mediated through salivary gland damage/hyposalivation rather than direct taste bud radiation injury alone.

@@ -1,0 +1,68 @@
+Does presbygeusia really exist? An updated narrative review
+
+Valentina Ponzo, Mario Bo, Enrica Favaro, Fabio Merlo, Gianluca Isaia, Roberto Presta, Alessandro Collo, Sergio Riso, Simona Bo
+Aging Clinical and Experimental Research, 2024;36(1):84
+DOI: 10.1007/s40520-024-02739-1
+PMID: 38558357
+PMCID: PMC10984891
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+Introduction
+
+"Presbygeusia" refers to impairment of taste occurring in the elderly. Aging affects several sensory functions: vision (presbyopia), hearing (presbycusis), olfaction (presbyosmia), and taste. Many age-related conditions might lead to impaired taste perception (changes in taste buds, decreased saliva production, alterations in sensory nerves), but impaired taste perception is not universally recognized as a natural aging phenomenon versus a pathological consequence of age-related chronic diseases (oro/nasopharyngeal inflammation/infection, post-traumatic/post-operative nerve damage, metabolic/endocrine/neurologic/psychiatric disease, malignancy, vitamin/mineral deficiency, SARS-CoV-2 infection, burning mouth syndrome), environmental/chemical exposure, smoking, poor oral health, and polytherapy.
+
+Objective: assess the existence of presbygeusia as a distinct entity in the healthy elderly via extensive literature search; secondarily discuss potential clinical implications of taste alterations (TAs) in the elderly.
+
+Methods
+
+Studies investigating taste alterations in adults aged ≥65 without evident underlying pathological causes, compared to healthy younger subjects, were eligible. PubMed, Cochrane Library, EMBASE, CINAHL queried until May 30, 2023, using ('taste alteration*' OR 'taste dysfunction*' OR 'taste problem*') AND (aging OR age-related OR elderly). Reviews, case reports/series, conference proceedings, non-English, and animal studies excluded but manually screened for additional literature.
+
+Search identified 837 studies; two investigators independently screened titles/abstracts (762 excluded as not relevant); full-text assessment against eligibility for healthy individuals only. 15 observational studies finally included. Risk of bias assessed via ROBINS-I; overall moderate for all included studies, serious risk of bias in 3 studies (selection bias, lack of confounder control).
+
+Definitions
+
+Quantitative abnormalities: Hypogeusia (diminished taste perception of specific tastants), Ageusia (absent taste function), Hypergeusia (increased sensitivity). Qualitative abnormalities: Dysgeusia (altered perception in response to a tastant), Phantogeusia (taste perception without a stimulus), Aliageusia (typically pleasant food/drink tastes unpleasant).
+
+Epidemiology
+
+Prevalence of TAs varies with population/cause/diagnostic tool (self-report, taste testing, electrogustometry). Overall 5-20% in general population; complete ageusia relatively rare (<3%); men more frequently affected than women. TAs more commonly reported in older adults, prevalence 10-30%. Sour and bitter most compromised in elderly; sweet perception maintained. Regional differences reported: one study found tip/mid-lateral tongue regions most affected (not posteromedial); another found increased age-related decline on posterior tongue surface especially for sweet/bitter. Right side of tongue generally showed lower taste-perception thresholds than left side. Individuals reporting TAs often also show olfactory impairment; isolated taste loss described in <10% of patients seeking assistance for flavor-perception impairment.
+
+Pathophysiology (Table 1: mechanisms potentially implicated in presbygeusia)
+
+- Reduced fungiform papillae (FP) density → reduced taste acuity perception (multiple cited studies, Fischer 2013, Pavlidis 2013, Piochi 2018/2019, Walliczek-Dworschak 2017).
+- Reduced vascularization of tongue tip and altered FP shape → reduced taste acuity (Pavlidis 2013).
+- Alteration of taste bud homeostasis; decreased number of taste buds, taste cells, taste progenitors/proliferating stem cells → decline in taste sensitivity (Feng 2014).
+- Single nucleotide polymorphisms (SNPs) in genes coding for ENaC β subunit (SCNN1B) and TRPV1 nonspecific cation channel → modified suprathreshold salt taste perception (Pavlidis 2013).
+- Decreased salivary flow rate and changed salivary composition → reduced/altered taste perception (Walliczek-Dworschak 2019, Mese and Matsuo 2007).
+- Reduced salivary mucin glycosylation and binding capacity to oral epithelial cells → impaired saliva viscoelasticity, decreased bitter taste receptor activation (Pushpass 2019).
+- Specific alterations in brain areas/central neural signatures → reduced taste acuity perception (Iannilli 2017, Green 2013).
+- Reduced masticatory performance/missing teeth → inability to fully chew food (Alia 2021).
+- Dental prosthesis presence → reduced grinding ability, reduced salivary secretion rate (Wayler 1990, Alia 2021).
+- Alterations in olfactory function (olfactory mucosa drying, epithelium damage, reduced olfactory receptor cells) → abnormal retro-nasal stimulation during deglutition, mitigating taste experience (Doty 2018).
+- Impairment in oral microbiome → impaired oral health, physical barrier from tongue biofilm limiting tastant access to receptors, bacterial metabolite production, altered saliva flow/pH (Belibasakis 2018, Schamarek 2023).
+
+Structural details: consistent age-associated decline in FP density; reduced vascular density and altered vascular morphology at tongue tip in subjects >60y vs younger. Brain electrical neuroimaging (EEG) revealed altered brain areas implicated in taste processing in healthy elderly vs younger. fMRI study (20 young 19-26y vs 12 middle-aged 45-54y) found greater bilateral activation in sensory (insula) and reward (lentiform nucleus) regions during sweet (not bitter) taste evaluation in younger group, suggesting early age-related decline in central taste processing precedes gustatory impairment.
+
+Do Taste Alterations Exist in Healthy Elderly? (Table 2 summary)
+
+12 of 15 included studies reported TAs in healthy elderly (in favor); 3 presented controversial/against data.
+
+In favor (examples): Fark 2013 (n=491, idiopathic taste disorder patients significantly older than post-traumatic); Fukunaga 2005 (OP n=30 65-85y vs YP n=30 18-29y, all 4 basic taste recognition thresholds significantly higher in elderly); Mojet 2001/2003 (OP 60-75y vs YP 19-33y, significant threshold decline for acetic acid, sucrose, citric acid, NaCl/KCl, IMP in older; absolute intensity perception decreased with age for all tastants in water, but only salty/sweet in food products; with nose clip, only salty diminished with age); Nakazato 2002 (electrogustometry thresholds increased from age 60 at chorda tympani/glossopharyngeal areas, from age 70 at greater petrosal nerve area); Pavlidis 2013 (higher electrogustometry thresholds in 60-69y group at chorda tympani area, also soft palate/vallate papillae in older women); Pingel 2010 (n=641 gustatory sensitivity decreases with age, age-specific loss for sweet/sour both sides, bitter left side); Sato 2022 (older perceived significantly lower salty taste intensities, slower perception increase); Schiffman 1979/1981/1994 (amino acid thresholds 2.5x higher in elderly; sweetener thresholds higher in elderly; bitter compound detection/recognition thresholds increased, suprathreshold sensitivity losses with age); Yamauchi 2002 (thresholds for all but sweet gradually increase with age after third decade).
+
+Against/controversial: Drewnowski 1996 (no evidence salt taste perception declines with age in chicken broth ratings); Wang 2020 (whole-mouth/quad taste test scores decreased with age but sweet/salty identification unaffected; decline mostly posterior tongue); Wayler 1990 (recognition thresholds for salt/sucrose not significantly different between age groups, though impaired suprathreshold salt function found in older group).
+
+In a small cohort of institutionalized healthy-status older patients, taste detection thresholds for amino acids, sweeteners, and bitter compounds were higher than in younger subjects, consistent across different assessment methods, though more controversial for saltiness/sweetness in some studies.
+
+Clinical Implications
+
+TAs may lower quality of life, decrease food enjoyment, impair social dining ability. Age-related taste decline is tastant-dependent, not homogeneous; typically a slow gradual process leading to reduced self-awareness of TAs. Age-related taste decline may result in preference/consumption of stronger-tasting products, appetite loss, reduced food intake, undernutrition — however the link between TAs, food preferences, and food choices has not been proven; many studies found no significant TA influence on preferences/choices. Elderly show notable consistency in food preferences despite sensory decline; food preferences more closely tied to culture/dietary customs than sensory function alone. Genetic predisposition accounts for only ~20% of food-preference variation, environmental factors playing a larger role. Food choices governed by many factors beyond taste: color, smell, temperature, tactile/chemical sensations, mood, environment, health, allergies, convenience, hunger, cost, habits, culture, social aspects, living conditions, attitudes, religious beliefs, life experience. Socio-cultural factors (income, education, country of origin, dietary/cooking knowledge) most significant influences on elderly food choices; biological/psychological/situational factors (living alone, loss of partner) and product characteristics (health claims, texture, price, portion, promotions) also relevant; past experiences (childhood memories) and future concerns (loss of independence, disability fear) are major food-choice drivers in the elderly per a cited systematic review.
+
+Limitations
+
+Measuring tastant intensities dissolved in water has limited relevance to real-life complex-food perception. Few studies performed repeated taste-threshold measurements (more reliable, reveal greater individual variability in elderly). Methodological limitations and small sample sizes common. Wide age ranges studied; older individuals relatively inaccurate at self-reporting taste dysfunction. Comparability across studies limited by varying assessment methods, food systems, response-collection procedures (threshold vs. suprathreshold), and differing definitions of detection vs. recognition thresholds. Possibility of publication bias (null findings less likely published) potentially overestimating TA prevalence in elderly.
+
+Conclusions
+
+TAs should be regarded as a natural part of the aging process rather than a distinct disease; "presbygeusia" may reasonably define abnormal taste perception in the elderly absent pathological conditions. However, clinical relevance of TAs to dietary choices in the elderly is likely limited, as many other factors play a larger role in determining food intake in older adults.
+
+Highlights: Taste alterations (TAs) are common in older people. TAs are probably a natural part of the aging process, so "presbygeusia" may justifiably define abnormal taste perception of the elderly absent well-recognized pathological/pharmacological conditions. Clinical implications of TAs on health status and dietary choices of the elderly are likely modest, as many other factors are ultimately more relevant to food intake in old people.
