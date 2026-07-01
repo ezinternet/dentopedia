@@ -1,0 +1,23 @@
+TITLE: Applications of artificial intelligence in the analysis of dental panoramic radiographs: an overview of systematic reviews
+PMCID: PMC10552133
+PMID: 37665008
+
+ABSTRACT:
+Objectives:
+
+This overview of systematic reviews aimed to establish the current state of knowledge on the suitability of artificial intelligence (AI) in dental panoramic radiograph analysis and illustrate its changes over time.
+
+Methods:
+
+Medical databases covered by the Association for Computing Machinery, Bielefeld Academic Search Engine, Google Scholar, and PubMed engines were searched. The risk of bias was assessed using ROBIS tool. Ultimately, 12 articles were qualified for the qualitative synthesis. The results were visualized with timelines, tables, and charts.
+
+Results:
+
+In the years 1988–2023, a significant development of information technologies for the analysis of DPRs was observed. The latest analyzed AI models achieve high accuracy in detecting caries (91.5%), osteoporosis (89.29%), maxillary sinusitis (87.5%), periodontal bone loss (93.09%), and teeth identification and numbering (93.67%). The detection of periapical lesions is also characterized by high sensitivity (99.95%) and specificity (92%). However, due to the small number of heterogeneous source studies synthesized in systematic reviews, the results of this overview should be interpreted with caution.
+
+Conclusion:
+
+Currently, AI applications can significantly support dentists in dental panoramic radiograph analysis. As systematic reviews on AI become outdated quickly, their regular updating is recommended. PROSPERO registration number: CRD42023416048.
+
+FULL TEXT:
+
