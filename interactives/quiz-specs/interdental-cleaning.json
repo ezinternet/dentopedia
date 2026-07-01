@@ -1,0 +1,48 @@
+{
+  "slug": "interdental-cleaning",
+  "date": "2026-07-01",
+  "title": "치간청소 자가테스트",
+  "emoji": "🦷",
+  "category": "perio-maintenance",
+  "agenda": "agenda/2026-07-01_hygienist-interdental-cleaning-education.md",
+  "source_wiki": [
+    "wiki/overviews/interdental-cleaning-devices-synthesis.md",
+    "wiki/interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct.md",
+    "wiki/interdental-cleaning/jung-2025-flossing-performance-plaque-removal.md",
+    "wiki/interdental-cleaning/badahdah-2025-dental-water-jet-plaque-gingivitis-sr.md",
+    "wiki/interdental-cleaning/yilmaz-2025-interdental-cleaning-tool-sustainability-rct.md",
+    "wiki/interdental-cleaning/slekovec-2026-legionella-water-flosser-france-case-report.md",
+    "wiki/interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional.md"
+  ],
+  "overview": {
+    "path": "overviews/interdental-cleaning-devices-synthesis",
+    "label": "치간청소 도구 종합 overview"
+  },
+  "questions": [
+    { "q": "치간칫솔(IDB)이 치실보다 유리한 조건은?",
+      "opts": ["접촉이 매우 빡빡할 때", "치간공간이 열려 IDB가 통과할 때", "교정장치가 없을 때", "항상"],
+      "ans": 1,
+      "rat": "IDB는 공간이 허용될 때 인접면 치태 제거가 우수. 임신치은염서 BOP 56→12%(OR 3.14).",
+      "cite": "interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct" },
+    { "q": "구강세정기(워터픽)의 근거상 주된 이점은?",
+      "opts": ["치태 제거에서 치실보다 압도적", "출혈·치은염 개선", "교정 중 추가 이점이 큼", "임플란트 주위 필수"],
+      "ans": 1,
+      "rat": "18 RCT SR+MA(n≈1005): 출혈 개선은 중등도 근거, 치태 우위·교정/임플란트 부가 이점은 없음.",
+      "cite": "interdental-cleaning/badahdah-2025-dental-water-jet-plaque-gingivitis-sr" },
+    { "q": "'치실 술식만 잘 가르치면 치태 제거가 좋아진다'는?",
+      "opts": ["맞다 — 술식이 전부", "아니다 — 술식은 향상돼도 치태 제거는 개선 안 됨", "치실은 항상 최고", "근거 없음"],
+      "ans": 1,
+      "rat": "전향 n=37: 수행점수 2.0→2.83(p<.001) 향상했으나 치태 제거는 차이 없음(p=.112).",
+      "cite": "interdental-cleaning/jung-2025-flossing-performance-plaque-removal" },
+    { "q": "치간청소 결과를 가장 크게 좌우하는 것은?",
+      "opts": ["도구 브랜드", "치약 종류", "순응도(계속 쓰는지)", "사용 시간대"],
+      "ans": 2,
+      "rat": "고무 픽 12.61주 vs 치실 4.96주 규칙사용(p=0.003); 규칙 사용 주수↑ → 플라크·출혈↓.",
+      "cite": "interdental-cleaning/yilmaz-2025-interdental-cleaning-tool-sustainability-rct" },
+    { "q": "환자에게 권하지 말아야 할 치간 도구는?",
+      "opts": ["치간칫솔", "치실", "나무 이쑤시개", "워터픽"],
+      "ans": 2,
+      "rat": "습관적·수직 사용이 치간유두 소실·블랙트라이앵글을 유발.",
+      "cite": "interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional" }
+  ]
+}
