@@ -41,7 +41,7 @@ jobs:
           PAPER_COUNT=$(ls sources/*.md 2>/dev/null | wc -l | tr -d ' ')
           OVERVIEW_COUNT=$(ls wiki/overviews/*.md 2>/dev/null | wc -l | tr -d ' ')
           CATEGORY_COUNT=$(find wiki -mindepth 1 -maxdepth 2 -type d | grep -v overviews | wc -l | tr -d ' ')
-          INTERACTIVE_COUNT=$(ls interactives/*.html 2>/dev/null | grep -v 'wiki-evolution\|wiki-growth\|wiki-stats\|overviews-map\|index\.html' | wc -l | tr -d ' ')
+          INTERACTIVE_COUNT=$(ls interactives/*.html 2>/dev/null | grep -v 'wiki-evolution\|wiki-growth\|wiki-stats\|overviews-map\|contradiction-radar\|index\.html' | wc -l | tr -d ' ')
           sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" wiki/index.md
           sed -i "s|<!-- PAPER_COUNT -->.*<!-- /PAPER_COUNT -->|<!-- PAPER_COUNT -->${PAPER_COUNT}<!-- /PAPER_COUNT -->|" wiki/index.md
           sed -i "s|<!-- OVERVIEW_COUNT -->.*<!-- /OVERVIEW_COUNT -->|<!-- OVERVIEW_COUNT -->${OVERVIEW_COUNT}<!-- /OVERVIEW_COUNT -->|" wiki/index.md
@@ -78,6 +78,15 @@ jobs:
           # 자동 생성 → 홈(index.md)의 iframe이 항상 최신 overview를 반영.
           # 새 overview 추가 시 수기 카드 편집 불필요.
           python3 scripts/build-overviews-map.py
+
+      - name: Regenerate contradiction radar from typed relations edges
+        run: |
+          # interactives/contradiction-radar.html을 wiki/**/*.md frontmatter의
+          # relations: contradicts/refines typed edge에서 자동 생성 → 위키 내부
+          # 상충 근거(회색지대) 지도가 배포 때마다 최신. contradicts edge를 단 논문이
+          # 추가되면 카드가 자동 생성됨. interactives-index 생성보다 먼저 실행해야
+          # 새 도구가 색인에 잡힘 (category: meta 버킷).
+          python3 scripts/build-contradiction-radar.py
 
       - name: Regenerate live wiki-stats dashboard from repo state
         run: |
