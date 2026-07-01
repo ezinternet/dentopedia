@@ -2092,6 +2092,7 @@ tags: []
 ## 국소마취·진정 (Local Anesthesia / Sedation)
 - [[overviews/mandibular-anesthesia-efficacy-ladder]] — Synthesis 2026-06-03 (5편): 하악 마취 4단 ladder — articaine 협측침윤≈IANB(성인·소아), IANB 실패시 보충≈병용(RR~2), articaine 통증우위, N2O 진정 95%
 - [[overviews/topical-anesthetic-injection-pain-overview]] — Synthesis 2026-06-08 (4편): 표면마취로 주사·needle 통증 줄이기 — 위약 대비 효과·농도의존 확실하나 제제간(lidocaine/benzocaine/EMLA) 차이는 blinding 엄격할수록 소실(Subramanian↔Karkoutly 상충), 표면≠주사 완전대체(Wambier SRP), 레버는 약물명보다 농도·제형·도포술기
+- [[overviews/computerized-needle-free-anesthesia-delivery-overview]] — Synthesis 2026-07-01 (9편): 컴퓨터제어(CCLAD/The Wand/STA)·압력조절·바늘없는 마취 전달장치 — 엄격 대형 RCT일수록 주사통증 자체의 우위는 재현 안 됨(Küçükkurt 5-arm NS), 이득은 공포감소·보충마취 회피·소아협조도 같은 2차 지표에 일관(Garret-Bernardin·Cabral), 외과발치엔 부적합(Ramanathan 거상통↑)·비주사 경로 대안 존재(needle-free patch, 컴퓨터구동 골내)
 - [[local-anesthesia/saatchi-2025-articaine-buccal-infiltration-mandibular-irreversible-pulpitis]] — Saatchi 2025 (SR+MA, 5 RCT): hot tooth 하악구치 4% articaine 협측침윤 ≈ 2% lidocaine IANB(RR 1.06, moderate)
 - [[local-anesthesia/rujirawan-2025-combined-supplementary-ianb-irreversible-pulpitis-nma]] — Rujirawan 2025 (Network MA, 28 RCT): IANB 단독 대비 보충(RR 2.02)·병용(1.86) 우월, 둘은 동등
 - [[local-anesthesia/alkandari-2024-articaine-versus-mepivacaine-ianb-irreversible-pulpitis]] — Alkandari 2024 (SR+MA, 5 RCT): articaine vs mepivacaine IANB 성공률 동등, articaine 통증 우위(p<0.001)
