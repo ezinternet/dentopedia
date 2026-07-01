@@ -2101,6 +2101,7 @@ tags: []
 - [[geriatric-dentistry/li-2024-prevalence-oral-frailty-older-adults]] — Li 2024 (SR+MA, 18편): oral frailty 24%·전단계 57%; OFI-8(44%) vs OFI-6(18%) 도구 의존성 부각
 - [[geriatric-dentistry/chan-2022-professionally-applied-fluoride-older-adults]] — Chan 2022 (SR+MA, HKU, 7편): 노인 근관면 우식 — 38% SDF 예방+정지(24개월 42%), NaF varnish 64%·APF 32% 예방 (위생사 적용)
 - [[geriatric-dentistry/kumar-2025-nutritional-status-dry-mouth-older-adults]] — Kumar 2025 (SR+MA, 14편): 노인 구강건조-영양실조 강한 연관(xerostomia 38%·malnutrition 55%)
+- [[geriatric-dentistry/halasabalu-kalgeri-2026-polypharmacy-oral-health-elderly]] — Halasabalu Kalgeri 2026 · narrative-review · 노인 다약제복용(≥5제, 유병률 30–44%)이 약물군별 기전(항콜린제 M3차단·베타차단제 Na-K-2Cl억제 등)으로 침분비저하·미각이상 동시 유발; 탈처방(deprescribing) 우선, 전신 sialogogue 상용 지양 (DOI 10.3389/fdmed.2026.1758771)
 - [[geriatric-dentistry/leong-2015-prognostic-value-grip-strength-pure]] — 전향적 코호트 (PURE, n=139,691, 17개국): 악력 (Grip Strength) 5 kg 감소당 전체사망 위험비 (HR) 1.16, 수축기혈압보다 강한 사망 예측인자 — 구강노쇠·신체노쇠 연결 근거
 - [[geriatric-dentistry/celis-morales-2018-grip-strength-cardiovascular-respiratory-cancer]] — UK 바이오뱅크 502,293명 전향적 코호트: 악력 5 kg 감소당 전사망 HR 1.16–1.20, 심혈관·호흡기·암 사망 독립적으로 증가; 신체노쇠 스크리닝 도구로서 악력의 임상 근거
 
