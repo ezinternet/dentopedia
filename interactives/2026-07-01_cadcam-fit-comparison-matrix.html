@@ -1,0 +1,228 @@
+<!--
+---
+title: "CAD/CAM 밀링 vs 3D프린팅 적합도 비교 매트릭스 — 수복물 유형별 chairside 참조"
+type: interactive
+date: 2026-07-01
+status: done
+category: dental-materials
+agenda: agenda/2026-07-01_cadcam-lab-workflow-interactives.md
+source_wiki:
+  - wiki/dental-materials/omar-2026-marginal-gap-additive-subtractive-nanoceramic.md
+  - wiki/dental-materials/ali-2023-cadcam-restoration-failure-reasons-sr-ma.md
+  - wiki/dental-materials/saravi-2021-cadcam-all-ceramic-fdp-clinical-sr-ma.md
+  - wiki/dental-materials/zirconia/aswal-2023-cadcam-zirconia-lithium-disilicate-crowns-sr-ma.md
+  - wiki/dental-materials/zirconia/kwon-2024-strength-limiting-defects-zirconia-cad-cam.md
+  - wiki/inlay/souza-2021-lithium-disilicate-vs-resin-composite-cadcam-onlay.md
+  - wiki/inlay/basheer-2026-cadcam-3dprinted-inlays-onlays-veneers-scoping.md
+  - wiki/digital-workflow/fouda-2025-accuracy-digital-workflow-implant-fullarch.md
+tags: [cad-cam, milling, 3d-printing, marginal-fit, internal-fit, dental-laboratory, digital-workflow]
+notes: |
+  Class B 임상 결정 도구 — 수치는 각 source_wiki 페이지에서 추출한 원 논문 수치(자동 재작성 금지, Rule #1). 신뢰도 배지는 각 페이지의 confidence 필드를 그대로 반영.
+  임상 허용 마진갭 기준선(120µm)은 McLean & von Fraunhofer 고전 기준(여러 source에서 공통 인용).
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CAD/CAM 밀링 vs 3D프린팅 적합도 비교 매트릭스</title>
+<style>
+  :root{
+    --bg:#f6f8fa; --surface:#fff; --surface2:#eaeef2; --border:#d0d7de;
+    --text:#1f2328; --muted:#656d76; --accent:#0969da; --green:#1a7f37;
+    --amber:#9a6700; --amber-bg:#fff8c5; --red:#cf222e; --red-bg:#ffebe9;
+    --green-bg:#dafbe1; --blue-bg:#ddf4ff; --purple:#8250df; --purple-bg:#fbefff;
+    --radius:10px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.55;padding:18px 14px 60px}
+  .wrap{max-width:980px;margin:0 auto}
+  h1{font-size:1.4rem;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:.88rem;margin:0 0 18px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:16px 18px;margin-bottom:16px}
+  h2{font-size:1.02rem;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  .step{background:var(--accent);color:#fff;border-radius:50%;width:22px;height:22px;
+    display:inline-flex;align-items:center;justify-content:center;font-size:.8rem;font-weight:700;flex:0 0 auto}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:4px}
+  .filter{border:1.5px solid var(--border);border-radius:20px;padding:6px 14px;cursor:pointer;
+    background:var(--surface);font-size:.84rem;transition:.12s;color:var(--text)}
+  .filter:hover{border-color:var(--accent)}
+  .filter.active{border-color:var(--accent);background:var(--blue-bg);font-weight:600;color:var(--accent)}
+  .rows{display:flex;flex-direction:column;gap:12px;margin-top:14px}
+  .row{border:1px solid var(--border);border-radius:8px;padding:12px 14px;background:var(--surface2)}
+  .row-head{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px;margin-bottom:8px}
+  .row-title{font-weight:700;font-size:.96rem}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:.72rem;font-weight:600;white-space:nowrap}
+  .b-srma{background:var(--purple-bg);color:var(--purple)}
+  .b-sr{background:var(--purple-bg);color:var(--purple)}
+  .b-invitro{background:var(--blue-bg);color:var(--accent)}
+  .compare{display:grid;grid-template-columns:1fr 1fr;gap:10px;margin-bottom:8px}
+  @media(max-width:600px){.compare{grid-template-columns:1fr}}
+  .method{border-radius:8px;padding:10px 12px;font-size:.85rem}
+  .m-mill{background:var(--blue-bg);border:1px solid #54aeff66}
+  .m-print{background:var(--green-bg);border:1px solid #4ac26b66}
+  .method b{display:block;font-size:.9rem;margin-bottom:3px}
+  .method .num{font-size:1.05rem;font-weight:700}
+  .thresh{font-size:.78rem;color:var(--muted);margin:6px 0}
+  .thresh b{color:var(--text)}
+  .verdict{font-size:.85rem;padding:8px 10px;border-radius:6px;margin-top:4px}
+  .v-mill{background:var(--blue-bg)}
+  .v-print{background:var(--green-bg)}
+  .v-tie{background:var(--amber-bg)}
+  .cite{font-size:.74rem;color:var(--muted);margin-top:6px}
+  .cite b{color:var(--text)}
+  .legend{display:flex;flex-wrap:wrap;gap:14px;font-size:.78rem;color:var(--muted);margin-top:10px}
+  .legend span{display:inline-flex;align-items:center;gap:5px}
+  .dot{width:10px;height:10px;border-radius:50%;display:inline-block}
+  .banner{border-radius:8px;padding:12px 14px;font-size:.85rem;margin-top:10px;border:1px solid}
+  .banner.red{background:var(--red-bg);border-color:#ff818266}
+  .banner.amber{background:var(--amber-bg);border-color:#d4a72c66}
+  .banner b{font-weight:700}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>CAD/CAM 밀링 vs 3D프린팅 — 수복물 유형별 적합도 비교</h1>
+  <p class="sub">수복물 유형을 선택하면 밀링(subtractive)·3D프린팅(additive) 마진/내부 적합도·합병증 비교가 표시됩니다. 근거: dentopedia 위키 8개 논문 (in-vitro / SR+MA / scoping review).</p>
+
+  <div class="card">
+    <h2><span class="step">1</span> 수복물 유형 선택</h2>
+    <div class="filters" id="filters"></div>
+  </div>
+
+  <div class="card">
+    <h2>📋 비교 결과</h2>
+    <div class="rows" id="rows"></div>
+    <div class="legend">
+      <span><span class="dot" style="background:#54aeff"></span>밀링(subtractive) 우세</span>
+      <span><span class="dot" style="background:#4ac26b"></span>3D프린팅(additive) 우세</span>
+      <span><span class="dot" style="background:#d4a72c"></span>동등/재료·부위 의존</span>
+    </div>
+  </div>
+
+  <div class="banner red">
+    <b>⚠ 일반화 주의.</b> 대부분 in-vitro 연구이며 장기(≥5년) 임상 비교 RCT는 부재. 신규 재료(하이브리드 나노세라믹 등)는 소수 연구에 의존하므로 개별 제조사·소재별 재현성 확인 필요.
+  </div>
+  <div class="banner amber">
+    <b>공통 임상 허용 기준선:</b> 변연 적합 &lt;120 µm (McLean &amp; von Fraunhofer 고전 기준, 여러 논문에서 공통 인용). 임플란트 전악 프레임워크처럼 나사 조임 passivity가 관건인 경우 더 엄격한 기준(150 µm RMS 등)이 적용됨 — Fouda 2025 참조.
+  </div>
+
+  <p class="cite" style="text-align:center">
+    근거: Omar 2026 (DOI 10.1186/s12903-026-07710-2) · Ali 2023 · Saravi 2021 · Aswal 2023 · Kwon 2024 · Souza 2021 · Basheer 2026 · Fouda 2025 (DOI 10.1111/jopr.14061) ·
+    이 도구는 임상 판단 보조이며 개별 환자·재료 선택을 대체하지 않습니다.
+  </p>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+
+const DATA = [
+{
+  id:'implant-crown', label:'임플란트 크라운 (하이브리드 나노세라믹)',
+  confidence:'in-vitro',
+  mill:{title:'밀링 (Nanoksa G-Plus)', num:'34.1 → 37.8 µm', sub:'접착 전 → 열역학 노화 후 (마진갭, stereomicroscope)'},
+  print:{title:'3D프린팅 (Nanoksa BioGuard)', num:'59.7 → 63.8 µm', sub:'접착 전 → 열역학 노화 후'},
+  threshold:'둘 다 &lt;120 µm 임상 허용 기준 이내지만 밀링이 유의하게 우수 (p&lt;0.001, 20개 임플란트 고정체)',
+  verdict:'mill', verdictText:'밀링 우세 — 노화 전후 모두 유의하게 작은 마진갭',
+  cite:'Omar 2026, BMC Oral Health'
+},
+{
+  id:'inlay-onlay', label:'인레이 · 온레이',
+  confidence:'sr(scoping)',
+  mill:{title:'밀링 (CAD/CAM)', num:'≤120 µm', sub:'경도·색안정성 우수, 제작 45–90분, 세라믹 강도 1800–2500N'},
+  print:{title:'3D프린팅', num:'40–100 µm', sub:'일부 연구 내부적합 40–60% 더 우수, 제작 90–150분, 강도 900–1800N'},
+  threshold:'두 방식 모두 임상 허용 변연적합(&lt;120µm) 달성 (30편 스코핑리뷰, 27 in-vitro + 3 증례)',
+  verdict:'tie', verdictText:'둘 다 임상 허용 — 밀링은 강도·속도, 프린팅은 내부적합·맞춤성 우세 (재료·부위 의존)',
+  cite:'Basheer 2026, scoping review'
+},
+{
+  id:'veneer', label:'베니어',
+  confidence:'sr(scoping)',
+  mill:{title:'밀링 (지르코니아 등)', num:'전반적 최상 fit', sub:'일부 비교에서 최고 전체 적합도'},
+  print:{title:'3D프린팅', num:'낮은 discrepancy (p=0.001)', sub:'프린팅 지르코니아, build angle ~30° 최적, 기능하중 초과 성능'},
+  threshold:'베니어에서 3D프린팅 잠재력 가장 큼 — 단 임상 장기자료 부재',
+  verdict:'tie', verdictText:'3D프린팅이 베니어에서 가장 유망한 영역이나 근거 수준 낮음(대부분 in-vitro)',
+  cite:'Basheer 2026, scoping review'
+},
+{
+  id:'zirconia-fdp', label:'지르코니아 크라운 · FDP (전악 아님)',
+  confidence:'sr+ma',
+  mill:{title:'밀링 (CAD/CAM 표준)', num:'5년 생존 &gt;90%', sub:'생물학적 합병증 PFM과 comparable'},
+  print:{title:'해당 없음 (밀링 전용 비교)', num:'—', sub:'이 SR+MA는 밀링 vs LiDi 재료 비교, 프린팅 데이터 없음'},
+  threshold:'지르코니아 베니어링 치핑이 최다 기술 합병증; LiDi 장경간 FDP 파절위험 유의 ↑; 심미 합병증 OR 16.88 (지르코니아 vs LiDi, Aswal 2023)',
+  verdict:'tie', verdictText:'재료 선택(지르코니아 vs LiDi)이 가공법보다 결정적 — 지르코니아는 심미 열세, LiDi는 파절 열세',
+  cite:'Saravi 2021 · Aswal 2023, SR+MA'
+},
+{
+  id:'zirconia-surface', label:'지르코니아 표면처리 (밀링 후 폴리싱)',
+  confidence:'in-vitro',
+  mill:{title:'As-sintered (미폴리싱)', num:'밀링 결함 잔존', sub:'gouge·scratch·edge chip = extrinsic fracture origin, 강도 낮으나 Weibull modulus(신뢰도) 높음'},
+  print:{title:'High-polished', num:'강도 ↑ (재료군 의존)', sub:'intrinsic defect(pore·grain cluster) 노출, 신뢰도는 오히려 ↓ 경향'},
+  threshold:'글레이즈만 하고 미폴리싱한 full-contour 지르코니아는 밀링 유발 결함을 그대로 보유 — 교합하중 시 파절 기원 가능',
+  verdict:'tie', verdictText:'폴리싱 여부에 따라 강도-신뢰도 트레이드오프 — 밀링/프린팅 비교 아닌 후처리 이슈',
+  cite:'Kwon 2024, in-vitro'
+},
+{
+  id:'fullarch-framework', label:'전악 임플란트 프레임워크 (완전 디지털 워크플로우)',
+  confidence:'in-vitro',
+  mill:{title:'밀링 (IOS→디자인→밀링 티타늄)', num:'0/10 SST 통과', sub:'micro-CT 기준 single-screw test 전부 실패, non-passivity 60–80%'},
+  print:{title:'해당 없음', num:'—', sub:'이 연구는 완전 디지털(스캔+밀링) vs 실측 미비교, 프린팅 데이터 없음'},
+  threshold:'150 µm RMS 임상 허용 기준 — 스캔 10개 중 2개만 통과, 스캐닝 오차가 프레임워크 부적합의 주원인으로 규명',
+  verdict:'tie', verdictText:'가공(밀링) 정확도보다 IOS 스캐닝 단계 오차가 전악 프레임워크 부적합의 지배적 원인',
+  cite:'Fouda 2025, J Prosthodont'
+},
+{
+  id:'general-failure', label:'CAD/CAM 수복물 일반 실패 원인 (전체)',
+  confidence:'sr+ma',
+  mill:{title:'파절 (전체 실패의 55%)', num:'55%', sub:'두께 &lt;1.5mm(교합면) 시 위험 유의 증가'},
+  print:{title:'탈락 (debonding)', num:'20%', sub:'접착 프로토콜 미준수와 연관'},
+  threshold:'가공법(밀링/프린팅) 무관하게 재료 두께·접착 프로토콜이 실패의 핵심 변수',
+  verdict:'tie', verdictText:'적정 두께(≥1.5mm 교합면) + 엄격 접착 프로토콜이 가공법보다 실패 예방에 결정적',
+  cite:'Ali 2023, SR+MA'
+},
+];
+
+function conf(c){
+  if(c.startsWith('sr')) return ['b-srma', c];
+  return ['b-invitro', c];
+}
+
+function buildFilters(){
+  $('#filters').innerHTML = DATA.map((d,i)=>`
+    <div class="filter ${i===0?'active':''}" data-id="${d.id}">${d.label}</div>`).join('');
+  document.querySelectorAll('.filter').forEach(el=>el.onclick=()=>{
+    document.querySelectorAll('.filter').forEach(f=>f.classList.remove('active'));
+    el.classList.add('active');
+    render(el.dataset.id);
+  });
+}
+
+function render(id){
+  const d = DATA.find(x=>x.id===id);
+  const [cls,txt] = conf(d.confidence);
+  const vcls = d.verdict==='mill' ? 'v-mill' : d.verdict==='print' ? 'v-print' : 'v-tie';
+  $('#rows').innerHTML = `
+    <div class="row">
+      <div class="row-head">
+        <span class="row-title">${d.label}</span>
+        <span class="badge ${cls}">${txt}</span>
+      </div>
+      <div class="compare">
+        <div class="method m-mill"><b>${d.mill.title}</b><div class="num">${d.mill.num}</div>${d.mill.sub}</div>
+        <div class="method m-print"><b>${d.print.title}</b><div class="num">${d.print.num}</div>${d.print.sub}</div>
+      </div>
+      <div class="thresh">${d.threshold}</div>
+      <div class="verdict ${vcls}"><b>종합:</b> ${d.verdictText}</div>
+      <div class="cite">출처: <b>${d.cite}</b></div>
+    </div>`;
+}
+
+buildFilters();
+render(DATA[0].id);
+</script>
+</body>
+</html>
