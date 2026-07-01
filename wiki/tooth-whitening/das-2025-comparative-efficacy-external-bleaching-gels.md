@@ -9,6 +9,8 @@ source: das-2025-comparative-efficacy-external-bleaching-gels.md
 category: [tooth-whitening]
 confidence: sr
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/das-2025-comparative-efficacy-external-bleaching-gels.txt
+text_filename: das-2025-comparative-efficacy-external-bleaching-gels.txt
 tags: [bleaching-gels, carbamide-peroxide, hydrogen-peroxide, comparative-efficacy, tooth-sensitivity]
 ---
 
