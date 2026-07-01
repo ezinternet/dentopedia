@@ -5,6 +5,13 @@ date: 2026-07-01
 status: in-progress
 owner: 원장
 priority: P1
+source_wiki:
+  - wiki/complaint-management/friele-2006-patient-expectations-fair-complaint.md
+  - wiki/dental-materials/tobias-2024-amalgam-composite-survival-big-data.md
+  - wiki/occlusion/goldstein-2022-centric-relation-needed-reference-position.md
+output:
+  - scripts/build-contradiction-radar.py
+  - interactives/contradiction-radar.html
 tags: [interactive, relations, meta, class-a]
 ---
 
