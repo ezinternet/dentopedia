@@ -12,6 +12,8 @@ source_wiki:
   - wiki/periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr.md
   - wiki/periodontics/ifrim-2026-edta-air-polishing-root-surface-sem.md
   - wiki/periodontics/hussein-2026-subcutaneous-emphysema-subgingival-air-polishing-case.md
+  - wiki/periodontics/farina-2026-pmpr-biofilm-gingivitis-sr-ma.md
+  - wiki/periodontics/lamont-2018-routine-scale-and-polish-periodontal-health.md
   - wiki/implants/peri-implantitis/brunello-2026-nonsurgical-peri-implant-mucositis-sr.md
   - wiki/implants/peri-implantitis/eraydin-tufek-2026-nonsurgical-peri-implantitis-multiarm-rct.md
   - wiki/implants/peri-implantitis/pujarern-2024-biofilm-removal-implant-airflow-erythritol.md
@@ -94,5 +96,7 @@ Finally, **safety is not automatic**: Hussein 2026 reports subcutaneous facial e
 - [[overviews/periodontics-treatment-ladder]] — where mechanical biofilm management sits in the overall periodontal treatment sequence
 - [[overviews/periodontal-adjunctive-therapy-probiotics-pdt-overview]] — non-mechanical adjuncts (probiotics, aPDT) that pair with debridement
 - [[overviews/peri-implantitis-management-overview]] — surgical and reconstructive options when non-surgical biofilm management is insufficient
+- [[periodontics/farina-2026-pmpr-biofilm-gingivitis-sr-ma]] — Farina 2026 EFP SR+MA: for gingivitis, air polishing + ultrasonics is as effective as ultrasonic + rubber-cup polishing but faster, reinforcing this overview's patient-centred-benefit thesis; also sets OHI as first-line with PMPR adjunctive
+- [[periodontics/lamont-2018-routine-scale-and-polish-periodontal-health]] — Lamont 2018 Cochrane: base-rate evidence that routine scale & polish (prophylaxis) confers no periodontal benefit in low-risk healthy adults — the indication boundary before any modality choice
 - [[periodontics/sanz-2020-treatment-stage-i-iii-periodontitis-efp]] — EFP S3 guideline framing of subgingival instrumentation
 - [[oral-microbiology/jakubovics-2021-dental-plaque-biofilm-matrix]] — the biofilm matrix that all these procedures must disrupt
