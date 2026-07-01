@@ -1,0 +1,56 @@
+Chemosensory dysfunction, Oral disorders and Oral health-related quality of life in patients with primary Sjögren's syndrome: comparative cross-sectional study
+
+Mirjana Šijan Gobeljić, Vera Milić, Nada Pejnović, Nemanja Damjanov
+BMC Oral Health, 2020;20(1):187
+DOI: 10.1186/s12903-020-01169-5
+PMID: 32620111
+PMCID: PMC7333297
+Source: PubMed Central (PMC), retrieved via PubMed MCP get_full_text_article
+
+Background
+
+Sjögren's syndrome (SS) is a chronic, systemic, autoimmune disease with prevalence 0.05-1% in the European population. Exocrine glands (salivary and lacrimal) are mainly affected, causing dryness of mouth and/or eyes. Fatigue, joint and muscle pain are common. SS is subclassified into primary (pSS) and secondary (sSS, associated with another connective tissue disease). Hallmarks are lymphocytic infiltration of exocrine glands and circulating autoantibodies (anti-Ro/SS-A, anti-La/SS-B), plus autoantibodies against muscarinic acetylcholine type 3 receptors (M3R) that functionally inhibit salivary secretion. There is no cure; treatment is symptomatic (artificial tears/saliva). Dental erosions, caries, mucosal infection, ulcers, and oral candidiasis are common, related to decreased salivary flow and qualitative saliva changes. Xerostomia can affect chewing, swallowing, speech, and sleep, impairing quality of life.
+
+Chemosensory disorders (olfactory and gustatory dysfunction) have been reported in pSS patients, manifesting as reduced ability, distortion, or absence of taste/smell. Many patients experience burning sensations or numbness in the mouth (originating in gustatory nerve fibers). Burning mouth syndrome (BMS)/burning sensation in the tongue (BST) is a burning sensation lasting ≥4-6 months. Halitosis is another common complaint associated with low salivary secretion or chemosensory disorders. Dysgeusia, BST, and halitosis are associated with impaired oral health-related quality of life (OHRQoL), though no clear evidence links these complaints directly to saliva secretion rates in pSS. Data on chemosensory dysfunction and oral disorders in pSS are limited; dental professionals are often the first to see these patients before formal SS diagnosis, making early recognition important.
+
+Study aim: to evaluate olfactory and gustatory function, BST, halitosis, and OHRQoL in pSS patients vs. age/gender-matched healthy controls. Hypothesis: pSS patients have impaired chemosensory function negatively impacting OHRQoL.
+
+Methods
+
+Comparative cross-sectional study at the Outpatient Clinic of the Institute of Rheumatology, University of Belgrade, Serbia (recruitment late 2017-early 2019). 58 patients with primary SS meeting American-European Consensus (AEC) classification criteria (subjective ocular/oral dryness; objective ocular dryness via Schirmer's test/corneal staining; salivary gland biopsy focus score >2; salivary scintigraphy showing reduced flow and/or sialectasias; positive anti-SS-A/SS-B autoantibodies; diagnosis requires 4/6 criteria including glandular pathology or autoantibodies). 55 age/gender-matched healthy controls (mostly Institute staff). Exclusion criteria: inflammatory rheumatic/connective tissue diseases, active infections, malignancy, metabolic disease (patients); subjective mouth/eye dryness, chronic rheumatic/metabolic/malignant disease (controls). Patients aged 25-77 years.
+
+Clinical assessment: Schirmer's I test and Rose Bengal score for xerophthalmia; salivary scintigraphy (Tc99m pertechnetate) for major salivary gland function (excretion rate ≥50% normal, <50% dysfunctional); labial salivary gland biopsy scored per Chisholm and Mason (grade 0-4; grades 3-4 = focus score ≥1). Laboratory: ANA, IgM-RF, anti-Ro/SS-A and anti-La/SS-B by ELISA.
+
+Chemosensory assessment: participants fasted/no smoking ≥1h before testing. Self-reported smell/taste on VAS 0-10. Olfactory: Sniffin' Sticks-Screening 12-odor-pen identification test; classified anosmic (0-5), hyposmic (6-9), normosmic (10-12). Gustatory: taste strips (Burghart Messtechnik) for sweet/sour/salty/bitter, scored 0=loss, 1=reduced, 2=normal ability per quality (max total 8). Questionnaire for dysgeusia, BST, halitosis with open-ended descriptions. OHRQoL via Serbian-validated OHIP-14 (0-56, higher = worse). Disease activity via ESSDAI (0-123); patient-reported via ESSPRI (0-10).
+
+Statistics: SPSS v16.0; Kolmogorov-Smirnov normality test; independent-samples t-test for continuous variables; chi-square for dichotomous variables; odds ratios (95% CI) for smell/taste alterations; p<0.05 significant.
+
+Results
+
+Demographics: comparable mean age (p=0.917) and gender distribution (p=0.244) between pSS and controls; no significant smoking difference (p=0.560). pSS patients reported significantly more ocular dryness, oral dryness, dysphagia, nasal dryness, dyspareunia, salivary gland enlargement, Raynaud phenomenon (all p<0.0001) vs. controls (none reported). Mean disease duration 7.65±5.85 years (range 1-22). 43% had moderate disease activity (ESSDAI); 60% dissatisfied with current health status (ESSPRI). >88% had positive salivary scintigraphy, biopsy, and abnormal tear tests. 71% ANA-positive, 81% SS-A-positive, 69% RF-positive. Mean ESR 25.7 mm/hr (range 2-88). Leucopenia in 62%. 38% on corticosteroids (75% of those took 10-50mg/day). 81% used artificial tears, only 4% artificial saliva; 46% on chloroquine/hydroxychloroquine, 3% azathioprine, 2% methotrexate — majority on drugs not expected to significantly affect chemosensory function.
+
+Olfactory function: pSS had significantly lower mean self-reported VAS smell score (8.57±2.21 vs. 9.56±0.72, p=0.016). Olfactory testing: significantly more pSS patients anosmic/hyposmic and fewer normosmic vs. controls (χ²=9.9, p=0.002). Anosmia 3.8% (pSS) vs. 0.0% (controls); hyposmia 36.5% vs. 13.2% — OR for anosmia: 5.2 (95% CI 1.9-14.3), p<0.001.
+
+Gustatory function: pSS had significantly lower mean self-reported VAS taste score (8.48±2.10 vs. 9.54±0.67, p=0.014). Gustatory testing: pSS mean taste score significantly lower (4.11±1.82 vs. 6.11±1.93, p<0.0001); significantly more pSS ageusic/hypogeusic, fewer normal-taste. Impaired ability to taste: sweet (34.0% vs. 7.5%, p<0.0001), sour (10.6% vs. 0.0%, p=0.054), salty (10.0% vs. 5.7%, p=0.018), bitter (19.1% vs. 1.9%, p=0.001).
+
+Dysgeusia/BST/halitosis: dysgeusia in 52.6% pSS vs. 9.4% controls (χ²=23.6, p<0.0001); described as metallic, sour, bitter, rotten, or unpleasant (36.7% distorted bitter taste most common); 77% (pSS) vs. 67% (controls) experienced it daily. BST in 45.6% pSS vs. 0.0% controls (χ²=31.6, p<0.0001); 38% experienced BST during meals, 39% reported sour taste as a type of BST. Halitosis: 31.6% pSS vs. 28.3% controls, not significant (χ²=0.40, p=0.434); ~half of pSS and 80% of controls reporting halitosis described it as a persisting daily problem (p=0.328).
+
+OHRQoL: pSS had significantly higher (worse) mean OHIP-14 sum score (6.79±7.03 vs. 2.27±8.46, p<0.001), higher across all four domains (functional, physical, psychological, social limitation). pSS had significantly lower mean VAS-EQ5D score (6.67±2.02 vs. 8.28±1.02, p<0.0001).
+
+Discussion
+
+Study demonstrates pSS patients have impaired olfactory and gustatory function, BST, and poor OHRQoL vs. healthy controls, with similar halitosis frequency between groups — consistent with other studies showing disturbed taste/smell in SS. Gustatory dysfunction was more frequent than olfactory dysfunction in this cohort, consistent with some studies but contradicting one report (possibly due to differing smell-testing methods — identification test here vs. threshold test elsewhere).
+
+Smell/taste impairment and BST may be caused by hyposalivation, though some studies show salivary factors are not solely responsible for impaired taste performance; a cited study found only weak correlation between salivary secretion rates and oral disorder presence, implying oral disorders are not simply caused by low salivary flow. 40-50% of healthy controls were also found hypogeusic, but pSS ageusia/hypogeusia rates were significantly higher.
+
+Anosmia is typically the most common chemosensory complaint in general chemosensory-disorder populations, but here only 3.8% of pSS were anosmic (vs. 12.9% in a comparator study by Rusthen et al.), possibly due to different olfactory test methodology (Sniffin' Sticks identification test here vs. UPSIT elsewhere, considered a possible future improvement).
+
+Possible underlying cause for high chemosensory dysfunction: systemic inflammatory response (overexpression of interferon-inducible genes); Toll-like receptor and interferon pathways may mediate inflammatory responses in taste tissue in pSS, interfering with normal taste transduction and taste-bud cell turnover.
+
+A cited meta-analysis (Al-Ezzi et al., 5 studies, 378 pSS patients) concluded pSS negatively impacts smell, taste, sexual function, and quality of life in female patients. A cited comparator study found non-SS sicca patients (not meeting SS classification criteria) had similar or even worse oral complaints than pSS patients, suggesting the need for a non-SS sicca comparison group (not included in the present study — an acknowledged limitation) to determine whether observed differences stem from the autoimmune process itself or from dry-mouth damage generally.
+
+Limitations: sample size; no chemosensory threshold testing for smell (only identification test); no non-SS sicca comparator group; single-center design.
+
+Conclusion
+
+pSS patients showed impaired olfactory and gustatory function, with negative impact on OHRQoL. Dysgeusia, BST, and halitosis were frequently found and associated with poorer OHRQoL vs. matched healthy controls. Regular assessment of chemosensory function and oral disorders in pSS patients is recommended. Symptomatic xerostomia treatment and infection prevention could improve OHRQoL. Future studies of oral hygiene habits and dietary intake are needed for improved management.

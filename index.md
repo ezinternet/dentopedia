@@ -1541,6 +1541,7 @@ tags: []
 - [[oral-medicine/morais-2024-pemphigus-vulgaris-mucous-membrane-pemphigoid-oral-sr]] — Morais 2024 · sr · 자가면역 수포성질환 PV vs MMP(32편): 구강 주병소, PV→협점막·MMP→치은; DIF IgG+ 100%; PV 전신스테로이드·MMP 국소 (DOI 10.1016/j.jormas.2024.101960)
 - [[oral-medicine/poudel-2026-xerostomia-dental-treatment-outcomes-sr]] — Poudel 2026 · sr · 구강건조증(Sjögren 포함)이 수복물 실패 ~2.6–2.9배(재발우식); 임플란트 생존 >90%(방사선성은 낮음); 16편/1227명 (DOI 10.1186/s12903-026-07815-8)
 - [[oral-medicine/tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] — Tsuchiya 2023 · narrative-review · 코로나19 완치 후 미각장애 1–45%·침분비저하 2–40% 지속(3주–12개월), 두 증상 상관관계; ACE2/TRPV1 수용체·아연결핍 공통기전 (DOI 10.1159/000531373)
+- [[oral-medicine/sijan-gobeljic-2020-sjogren-chemosensory-oral-disorders-cross-sectional]] — Šijan Gobeljić 2020 · cross-sectional · 쇼그렌증후군 58명 vs 대조군 55명: 미각이상 dysgeusia 52.6%·설작열감 45.6%·무후각 OR 5.2, 침분비량과의 상관은 약함(별개 염증기전 시사) (DOI 10.1186/s12903-020-01169-5)
 - [[oral-medicine/opmd/sapkota-2024-oral-leukoplakia-recurrence-malignant]] — SR+MA(80편, n=7,614): 구강백반증(OL) 수술 후 재발률 22%; 레이저 절제+증산 병용 최저; 재발 OL은 악성전환 위험 7.39배 (J Dent Res 2024)
 - [[oral-medicine/opmd/pimenta-barros-2025-leukoplakia-malignant-transformation-sr-ma]] — SR+MA(55편, n=41,231): 구강백반증 악성전환률 pooled 6.64%(95% CI 5.21–8.21); 비균질형(NHOL) RR 4.23·이형성 RR 2.75·측설부 12.71%; 흡연 RR 1.64; 시간 안정적(p=0.75) — OL 악성전환 추정의 최대 SR+MA (2025)
 - [[oral-medicine/warnakulasuriya-2020-opmd-comprehensive-review]] — OPMD 전반 포괄 고찰 — 분류, 위험인자, 악성전환율, 관리 전략.
