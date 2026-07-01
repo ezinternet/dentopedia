@@ -3081,3 +3081,9 @@ tags: []
 - [[implants/versah-protocols/de-lima-2026-osseodensification-vs-conventional-drilling-exvivo]] — Ex vivo (n=16 bovine rib): Densah/WF osseodensification kits significantly improve insertion/removal torque vs conventional in type IV bone; ISQ and temperature NS (de Lima 2026)
 - [[dental-materials/zirconia/talmazov-2020-fea-one-piece-zirconia-implant-anterior]] — FEA: one-piece zirconia vs Ti implant anterior maxilla (3 CBCT models); zirconia lower labial-cervical bone stress in healed/reduced-bone scenarios (Talmazov 2020)
 - [[occlusion/zhou-2021-digital-occlusal-analysis-posterior-implant]] — Prospective pilot (n=32, T-Scan III, 6mo): single posterior implant bite force doubles from 2wk to 3mo then stabilizes; 3-month occlusal follow-up critical (Zhou 2021)
+
+### New batch — 2026-07-01 overview synthesis (endo pain·canal anatomy·infection control·neuropathic pain)
+- [[overviews/endodontic-postoperative-pain-overview]] — **NEW Overview** (5편): 근관치료 후 통증 시술변수별 종합 — 최강 예측인자는 술식이 아니라 술전 증상 상태(Hatipoğlu 2025 효과조절인자); 근관장측정·NiTi kinematics는 통증과 무관, 세정은 근단 밖 압출을 줄이는 선택(LAI·초음파·측방배출침)이 초기 통증 감소; 6–24h peak→7–14일 소실 곡선은 술식 독립 (2026-07-01)
+- [[overviews/root-canal-morphology-prevalence-overview]] — **NEW Overview** (5편): 근관 형태·해부 변이 유병률 hub — radix entomolaris 8.85%(동아시아 24%)·dens invaginatus 9%(CBCT)·상악 견치 Vertucci I 75–100%·하악 제1대구치 micro-CT·비구개관 landmark; C-shaped·MB2 deep-dive로 연결; 미진단 해부=실패 (2026-07-01)
+- [[overviews/dental-infection-control-aerosol-overview]] — **NEW Overview** (5편): 치과 감염관리 세 전선 종합 — ①기기·표면 멸균(BI 검증·인적오류가 1차 실패원인) ②DUWL 바이오필름(출수 10⁵–10⁶ CFU/mL·다중소독으로 ≤500) ③AGP bioaerosol(에어터빈 ~1000배·100 µm >2 m; 러버댐+HVE+술전가글+환기+PPE); 클리닉 체크리스트 (2026-07-01)
+- [[overviews/trigeminal-neuralgia-neuropathy-overview]] — **NEW Overview** (4편): 삼차신경통·외상후 삼차신경병증 종합 — 신경병성 통증을 치성통증으로 오진 시 무고한 치아에 근관·발치; TN(유발점·발작성→carbamazepine·MVD) vs PTTN(시술후 지속통, 원인 사랑니발치 48%>임플란트·발치 13%>근관 8%), IAN 안전대·치과의사 인식공백 (2026-07-01)
