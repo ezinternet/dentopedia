@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/tobias-2024-amalgam-composite-surviva
 pdf_filename: tobias-2024-amalgam-composite-survival-big-data.pdf
 source_collection: external
 tags: [amalgam, composite-resin, survival-rate, big-data, real-world, maccabi, multi-surface, single-surface, failure-rate, cox-regression]
+relations:
+  - type: contradicts
+    target: al-sulimman-2025-composite-amalgam-failure-risk-sr-ma
 ---
 
 ## One-line Summary
