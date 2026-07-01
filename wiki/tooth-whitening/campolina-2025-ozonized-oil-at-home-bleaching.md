@@ -10,6 +10,8 @@ source: campolina-2025-ozonized-oil-at-home-bleaching.md
 category: [tooth-whitening]
 confidence: rct
 source_collection: pubmed-text
+text_path: /Users/oracleneo/llm-wiki/papers/campolina-2025-ozonized-oil-at-home-bleaching.txt
+text_filename: campolina-2025-ozonized-oil-at-home-bleaching.txt
 tags: [ozone, at-home-bleaching, tooth-sensitivity, desensitizer, hydrogen-peroxide, rct]
 relations:
   - type: refines
