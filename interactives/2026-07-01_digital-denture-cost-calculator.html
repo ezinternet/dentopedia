@@ -1,0 +1,258 @@
+<!--
+---
+title: "디지털 vs 전통 총의치 워크플로우 — 비용 추정 계산기 + 근거 대시보드"
+type: interactive
+date: 2026-07-01
+status: done
+category: complete-denture
+agenda: agenda/2026-07-01_cadcam-lab-workflow-interactives.md
+source_wiki:
+  - wiki/complete-denture/muehlemann-2025-cost-efficiency-digital-conventional-denture.md
+  - wiki/complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures.md
+  - wiki/complete-denture/srinivasan-2021-cad-cam-removable-complete-dentures.md
+  - wiki/complete-denture/thu-2024-digital-complete-denture-clinical-laboratory.md
+  - wiki/complete-denture/khorasani-2024-3d-printed-vs-milled-complete.md
+  - wiki/complete-denture/feng-2025-expert-consensus-digital-complete-denture.md
+tags: [complete-denture, cad-cam, digital-workflow, cost-efficiency, dental-laboratory]
+notes: |
+  Class B 임상/경제성 결정 도구. 비용 계산기 부분은 Muehlemann 2025 pooled MD±95%CI를 그대로 적용한 범위 추정이며, 모든 지표가 통계적으로 유의하지 않음(NS)을 명시 — 자동 재작성 금지(Rule #1), 신규 SR+MA 등장 시에만 LLM 재작성.
+  근거 대시보드 부분(유지력·만족도·기공법)은 Jafarpour 2024 / Srinivasan 2021 / Thu 2024 / Khorasani 2024 / Feng 2025의 원 수치를 그대로 나열.
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>디지털 vs 전통 총의치 — 비용 추정 계산기 + 근거 대시보드</title>
+<style>
+  :root{
+    --bg:#f6f8fa; --surface:#fff; --surface2:#eaeef2; --border:#d0d7de;
+    --text:#1f2328; --muted:#656d76; --accent:#0969da; --green:#1a7f37;
+    --amber:#9a6700; --amber-bg:#fff8c5; --red:#cf222e; --red-bg:#ffebe9;
+    --green-bg:#dafbe1; --blue-bg:#ddf4ff; --purple:#8250df; --purple-bg:#fbefff;
+    --radius:10px;
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Apple SD Gothic Neo","Noto Sans KR",sans-serif;
+    line-height:1.55;padding:18px 14px 60px}
+  .wrap{max-width:900px;margin:0 auto}
+  h1{font-size:1.4rem;margin:0 0 4px}
+  .sub{color:var(--muted);font-size:.88rem;margin:0 0 18px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:var(--radius);
+    padding:16px 18px;margin-bottom:16px}
+  h2{font-size:1.02rem;margin:0 0 12px;display:flex;align-items:center;gap:8px}
+  .step{background:var(--accent);color:#fff;border-radius:50%;width:22px;height:22px;
+    display:inline-flex;align-items:center;justify-content:center;font-size:.8rem;font-weight:700;flex:0 0 auto}
+  label{font-size:.86rem;color:var(--muted)}
+  .inputs{display:grid;grid-template-columns:repeat(auto-fit,minmax(160px,1fr));gap:12px;margin-top:8px}
+  .field{display:flex;flex-direction:column;gap:4px}
+  input[type=number]{padding:7px 9px;border:1px solid var(--border);border-radius:6px;
+    font-size:.95rem;background:var(--surface);color:var(--text)}
+  input[type=number]:focus{outline:2px solid var(--accent);border-color:var(--accent)}
+  .toggle-row{display:flex;gap:8px;margin-top:6px}
+  .toggle{border:1.5px solid var(--border);border-radius:8px;padding:8px 14px;cursor:pointer;
+    background:var(--surface);font-size:.86rem;flex:1;text-align:center;transition:.12s}
+  .toggle.active{border-color:var(--accent);background:var(--blue-bg);font-weight:600;color:var(--accent)}
+  table{width:100%;border-collapse:collapse;font-size:.87rem;margin-top:10px}
+  th,td{padding:8px 6px;text-align:center;border-bottom:1px solid var(--border)}
+  th{font-size:.76rem;color:var(--muted);font-weight:600}
+  td:first-child,th:first-child{text-align:left}
+  .rangecell{font-weight:700}
+  .nstag{display:inline-block;background:var(--amber-bg);color:var(--amber);border-radius:10px;
+    padding:1px 7px;font-size:.7rem;font-weight:700;margin-left:5px}
+  .banner{border-radius:8px;padding:12px 14px;font-size:.85rem;margin-top:10px;border:1px solid}
+  .banner.red{background:var(--red-bg);border-color:#ff818266}
+  .banner.amber{background:var(--amber-bg);border-color:#d4a72c66}
+  .banner.blue{background:var(--blue-bg);border-color:#54aeff66}
+  .banner b{font-weight:700}
+  .filters{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:4px}
+  .filter{border:1.5px solid var(--border);border-radius:20px;padding:6px 14px;cursor:pointer;
+    background:var(--surface);font-size:.82rem;transition:.12s;color:var(--text)}
+  .filter:hover{border-color:var(--accent)}
+  .filter.active{border-color:var(--accent);background:var(--blue-bg);font-weight:600;color:var(--accent)}
+  .evrow{border:1px solid var(--border);border-radius:8px;padding:10px 12px;margin-top:10px;background:var(--surface2)}
+  .evhead{display:flex;justify-content:space-between;align-items:baseline;flex-wrap:wrap;gap:6px;margin-bottom:4px}
+  .evtitle{font-weight:700;font-size:.9rem}
+  .badge{display:inline-block;padding:2px 8px;border-radius:20px;font-size:.72rem;font-weight:600;white-space:nowrap}
+  .b-srma{background:var(--purple-bg);color:var(--purple)}
+  .b-sr{background:var(--purple-bg);color:var(--purple)}
+  .b-consensus{background:var(--blue-bg);color:var(--accent)}
+  .evfind{font-size:.85rem}
+  .cite{font-size:.74rem;color:var(--muted);margin-top:8px}
+  .cite b{color:var(--text)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>디지털 vs 전통 총의치(RCD) 워크플로우 — 비용 추정 + 근거 대시보드</h1>
+  <p class="sub">기공비·임상비·내원횟수를 입력하면 최선 근거(Muehlemann 2025 SR+MA, 5편, n=184)의 pooled 차이(MD±95%CI)를 적용한 디지털 워크플로우 예상 범위를 보여줍니다. 아래 근거 대시보드에서 유지력·만족도·기공법별 세부 근거도 확인하세요.</p>
+
+  <div class="card">
+    <h2><span class="step">1</span> 우리 병원 전통(conventional) 총의치 워크플로우 기준값 입력</h2>
+    <div class="inputs">
+      <div class="field"><label>기공비 (Lab cost, USD)</label><input type="number" id="labCost" value="1000" min="0"></div>
+      <div class="field"><label>임상비 (Clinical cost, USD)</label><input type="number" id="clinCost" value="800" min="0"></div>
+      <div class="field"><label>내원횟수 (Sessions)</label><input type="number" id="sessions" value="6" min="1"></div>
+    </div>
+    <label style="display:block;margin-top:10px">시술자 숙련도 (정성적 참고 — 아래 계산에는 미반영, Muehlemann 2025는 하위그룹 유의성만 보고, 구체 MD 수치는 논문에 미제시)</label>
+    <div class="toggle-row">
+      <div class="toggle active" data-exp="student">학생 / 수련의</div>
+      <div class="toggle" data-exp="specialist">전문의 / 숙련자</div>
+    </div>
+  </div>
+
+  <div class="card">
+    <h2>📋 디지털 워크플로우 예상 범위 (Muehlemann 2025 pooled MD±95%CI 적용)</h2>
+    <table>
+      <thead><tr><th>지표</th><th>전통(입력값)</th><th>디지털 예상 범위</th><th>pooled MD (95% CI)</th></tr></thead>
+      <tbody id="rows"></tbody>
+    </table>
+    <div class="banner amber" id="expNote"></div>
+    <div class="banner red">
+      <b>⚠ 모든 지표 통계적으로 유의하지 않음(NS).</b> 위 범위는 "차이가 없다"는 결과의 불확실성 구간을 그대로 보여준 것이지, 신뢰할 수 있는 예측이 아닙니다. 실제 방향(디지털이 더 쌀지 비쌀지)조차 현재 근거로는 확정할 수 없습니다. 장비 감가상각(밀링기·스캐너·소프트웨어 라이선스)도 어느 포함 연구에도 반영되지 않았습니다.
+    </div>
+    <div class="banner blue">
+      <b>⚡ 근거 상충(evidence conflict):</b> <a href="../wiki/complete-denture/jafarpour-2024-cadcam-versus-traditional-complete-dentures.md">Jafarpour 2024</a> SR+MA(11편)는 CAD/CAM 기공비·총비용이 <b>통계적으로 유의하게</b> 낮다고 보고했습니다 — 방법론 차이(비용분석 단독 vs Muehlemann의 경제성 평가 프레임워크+PPP 통화보정)로 결론이 갈립니다. 두 SR+MA 모두 우리 위키에 있으며, 최신·방법론적으로 더 엄격한 Muehlemann 2025 쪽이 근거 무게가 크지만 아직 논쟁적입니다.
+    </div>
+  </div>
+
+  <div class="card">
+    <h2><span class="step">2</span> 근거 대시보드 — 지표별 상세 근거</h2>
+    <div class="filters" id="evFilters"></div>
+    <div id="evRows"></div>
+  </div>
+
+  <p class="cite" style="text-align:center">
+    근거: Muehlemann 2025 (DOI 10.1111/jopr.70074) · Jafarpour 2024 · Srinivasan 2021 · Thu 2024 · Khorasani 2024 · Feng 2025 (DOI 10.1038/s41368-025-00388-2) ·
+    이 도구는 경영·임상 판단 보조이며 실제 원가계산·환자 개별 진단을 대체하지 않습니다.
+  </p>
+</div>
+
+<script>
+const $ = s => document.querySelector(s);
+
+// Muehlemann 2025 pooled MD (digital − conventional), 2025 USD PPP-adjusted; sessions in count
+const MD = {
+  lab:      {md:-239.7, lo:-714.4, hi:234.8},
+  clin:     {md:74.4,   lo:-120.0, hi:268.7},
+  sessions: {md:-1.5,   lo:-6.7,   hi:3.8}
+};
+
+function fmt(n){ return (n>=0?'+':'') + n.toFixed(1); }
+
+function render(){
+  const lab = parseFloat($('#labCost').value)||0;
+  const clin = parseFloat($('#clinCost').value)||0;
+  const sess = parseFloat($('#sessions').value)||0;
+  const total = lab + clin;
+
+  const rows = [
+    {label:'기공비 (USD)', base:lab, d:MD.lab},
+    {label:'임상비 (USD)', base:clin, d:MD.clin},
+    {label:'총비용 (USD, 기공+임상)', base:total, d:{md:-357.7, lo:-1340.1, hi:624.6}},
+    {label:'내원횟수', base:sess, d:MD.sessions},
+  ];
+
+  $('#rows').innerHTML = rows.map(r=>{
+    const lo = Math.max(0, r.base + r.d.lo), hi = Math.max(0, r.base + r.d.hi), mid = Math.max(0, r.base + r.d.md);
+    return `<tr>
+      <td>${r.label}</td>
+      <td>${r.base.toFixed(1)}</td>
+      <td class="rangecell">${Math.min(lo,hi).toFixed(1)} – ${Math.max(lo,hi).toFixed(1)}<br><small style="color:var(--muted);font-weight:400">(중심추정 ${mid.toFixed(1)})</small></td>
+      <td>${fmt(r.d.md)} (${r.d.lo} ~ ${r.d.hi})<span class="nstag">NS</span></td>
+    </tr>`;
+  }).join('');
+
+  const exp = document.querySelector('.toggle.active').dataset.exp;
+  $('#expNote').innerHTML = exp==='specialist'
+    ? `<b>전문의/숙련자 참고:</b> Muehlemann 2025는 임상비·내원횟수 모두 시술자 숙련도에 따른 유의한 하위그룹 차이를 보고(각각 Chi²=260.9 p&lt;0.0001, Chi²=14.9 p=0.0001) — 숙련된 시술자일수록 디지털 워크플로우에서 내원횟수 감소 경향이 관찰되었으나, <b>구체적 하위그룹 MD 수치는 논문에 제시되지 않아</b> 위 계산에는 전체 pooled 값만 사용했습니다.`
+    : `<b>학생/수련의 참고:</b> 숙련도가 낮을수록 임상비·내원횟수의 변동성(디지털 워크플로우의 학습곡선 영향)이 더 클 수 있음 — Muehlemann 2025 하위그룹 분석에서 시사되나 구체 수치는 미보고.`;
+}
+
+['labCost','clinCost','sessions'].forEach(id=>$('#'+id).oninput=render);
+document.querySelectorAll('.toggle').forEach(t=>t.onclick=()=>{
+  document.querySelectorAll('.toggle').forEach(x=>x.classList.remove('active'));
+  t.classList.add('active');
+  render();
+});
+
+// ---- Evidence dashboard ----
+const EVIDENCE = {
+  retention: {
+    label:'유지력 (Retention)',
+    items:[
+      {paper:'Feng 2025', conf:'consensus', text:'디지털 총의치 교합력 130–225 N; 유지력 13–20 N (border-molded 상악은 최대 74 N). 메타분석상 전통 &gt; 3D프린팅 유지력, 밀링은 전통과 comparable.'},
+      {paper:'Thu 2024', conf:'sr', text:'상악 의치상 유지력: 경계형성 인상 14.5–16.1 N vs 구강내스캔(IOS) 6.2–6.6 N (p&lt;0.05) — IOS가 약 60% 낮음. 단 일부 RCT는 3D프린팅이 밀링과 유사하거나 약간 높은 유지력.'},
+      {paper:'Srinivasan 2021', conf:'sr+ma', text:'CAD-CAM 전체 유지력 &gt; 전통(p=0.015). 73편 종합.'},
+      {paper:'Khorasani 2024', conf:'sr+ma', text:'3D프린팅 vs 밀링 유지력: SMD 0.165 (95%CI −0.176~0.506, p=0.343) — NS, 근거 4편으로 희박.'},
+    ]
+  },
+  satisfaction: {
+    label:'환자·시술자 만족도',
+    items:[
+      {paper:'Jafarpour 2024', conf:'sr+ma', text:'환자만족도 디지털 vs 전통: MD −0.11 (NS). 시술자만족도(밀링 vs 전통): ES 1.42(0.95–1.89, 유의). 3D프린팅 vs 전통 시술자만족도: NS.'},
+      {paper:'Khorasani 2024', conf:'sr+ma', text:'환자만족도 3D프린팅 vs 밀링: SMD −0.595 (95%CI −1.579~0.389, p=0.236) — NS, 근거 희박(4편).'},
+      {paper:'Feng 2025', conf:'consensus', text:'디지털 vs 전통 전체 OHRQoL·만족도 유의차 없음(합의문 종합).'},
+    ]
+  },
+  chairtime: {
+    label:'의자시간 · 내원횟수',
+    items:[
+      {paper:'Jafarpour 2024', conf:'sr+ma', text:'의자시간 약 205분 단축 (디지털). 밀링은 사후조정 내원 유의하게 적음; 3D프린팅은 전통과 무차이.'},
+      {paper:'Thu 2024', conf:'sr', text:'임상시간 205–233분 단축. 내원횟수 2–6회(대개 2–4회) — 대부분 프로토콜에서 최소 1회 이상 추가 내원 발생.'},
+      {paper:'Feng 2025', conf:'consensus', text:'제작시간 전통의 약 1/3. 임상시간 58–233분 절감.'},
+      {paper:'Muehlemann 2025', conf:'sr+ma', text:'내원횟수 MD −1.5 (95%CI −6.7~3.8) — NS, 숙련도 하위그룹 유의(Chi²=14.9, p=0.0001).'},
+    ]
+  },
+  fabrication: {
+    label:'기공법 비교 (밀링 vs 3D프린팅, 재료물성)',
+    items:[
+      {paper:'Srinivasan 2021', conf:'sr+ma', text:'굴곡강도·인성·항복강도: 밀링 &gt; 3D프린팅 (모두 p&lt;0.001~0.0001). 표면조도: 밀링이 더 거침(p&lt;0.0001). 색안정성: 3D프린팅 열세(p=0.029). 심미: 전통 &gt; 3D프린팅(p&lt;0.0001).'},
+      {paper:'Thu 2024', conf:'sr', text:'밀링 21편·3D프린팅 17편 — 환자만족도 유사; 밀링 의치상이 열중합 전통보다 유지력 약간 우수, 일부 RCT는 3D프린팅이 밀링과 comparable/약간 우수.'},
+      {paper:'Feng 2025', conf:'consensus', text:'제조 정밀도: 밀링(절삭) &gt; 3D프린팅(적층) — 7개 시스템 비교에서 표준편차 더 낮음(더 정밀·일관).'},
+      {paper:'Khorasani 2024', conf:'sr+ma', text:'밀링 vs 3D프린팅 임상 유지력·만족도 유의차 없음(NS) — 단 근거 4편으로 결론 잠정적.'},
+    ]
+  },
+  complications: {
+    label:'합병증 · 재제작',
+    items:[
+      {paper:'Thu 2024', conf:'sr', text:'유지 상실 최대 37.5%, 의치 재제작 최대 31.3%, 압박궤양 최대 66.7%, 예정 외 추가내원 1–4회. 39편 중 13편만 시적(trial denture placement) 시행.'},
+    ]
+  },
+};
+
+function evBadge(c){
+  if(c==='consensus') return 'b-consensus';
+  return 'b-srma';
+}
+
+function buildEvFilters(){
+  $('#evFilters').innerHTML = Object.entries(EVIDENCE).map(([k,v],i)=>`
+    <div class="filter ${i===0?'active':''}" data-k="${k}">${v.label}</div>`).join('');
+  document.querySelectorAll('#evFilters .filter').forEach(el=>el.onclick=()=>{
+    document.querySelectorAll('#evFilters .filter').forEach(f=>f.classList.remove('active'));
+    el.classList.add('active');
+    renderEv(el.dataset.k);
+  });
+}
+
+function renderEv(k){
+  const cat = EVIDENCE[k];
+  $('#evRows').innerHTML = cat.items.map(it=>`
+    <div class="evrow">
+      <div class="evhead">
+        <span class="evtitle">${it.paper}</span>
+        <span class="badge ${evBadge(it.conf)}">${it.conf}</span>
+      </div>
+      <div class="evfind">${it.text}</div>
+    </div>`).join('');
+}
+
+buildEvFilters();
+renderEv('retention');
+render();
+</script>
+</body>
+</html>
