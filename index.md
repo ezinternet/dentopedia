@@ -2367,6 +2367,15 @@ tags: []
 - [[local-anesthesia/bina-2018-true-allergy-amide-local-anesthetics-case]] — Babak Bina 2018 (Anesth Prog 65(2):119, NYU Lutheran) · case-report · 아마이드 진성 알러지(희귀): 리도카인 아나필락시스 기록 43F가 1% diphenhydramine+1:100k epi 대체마취로 13회 진료 완료 — 상악 침윤 유효하나 단시간(15–75분)·부종/졸음·<5mL/회 제한; 대개 진짜 원인은 첨가물(metabisulfite/methylparaben)
 - [[local-anesthesia/adami-2021-needle-free-mucoadhesive-patch-anesthesia-cohort]] — Larisse E. Adami 2021 (Braz Oral Res 35:e131, USP) · prospective · 단일군 코호트 n=58(평균 50.7세, 59% 주사공포): 리도카인+프릴로카인(1:1, 30mg) 점막부착 패치 무바늘 마취 — 중등도 시술 90% 무주사 완료, 발현 ~13.2분·지속 50–90분·부작용 0(2h·6개월)
 
+### local-anesthesia (added 2026-07-01, batch — IANB 부가신경(accessory innervation) 실패기전)
+
+- [[local-anesthesia/kim-2016-systematic-review-cervical-plexus-accessory]] — Kim 2016 (J Anesth Hist 2:79) · sr · 경부신경총 부가신경 SR(185→44편): 횡경부신경·대이개신경이 IANB 후 잔여감각 설명 가능하나 근거 LOE 4~5 다수(LOE1 4편뿐). (abstract-only)
+- [[local-anesthesia/lin-2013-transverse-cervical-nerve-implications-dental]] — Lin 2013 (Clin Anat 26:688) · in-vitro · 신선사체 Sihler's 염색(n=2): 횡경부신경(C2-C3)이 1/2례에서 후방 하악 지배 확인 — IANB 실패 해부학적 직접증거. (abstract-only)
+- [[local-anesthesia/stein-2007-sensory-innervation-mandibular-teeth-nerve]] — Stein 2007 (Clin Anat 20:591) · narrative-review · 이설골설근신경(전통적 순수운동신경)이 하악치아 부가감각 지배 — 익돌하악근막·접형하악인대 장벽으로 IANB 시 미마취 가능. (abstract-only)
+- [[local-anesthesia/filo-2015-frequency-anatomy-retromolar-canal-implications]] — Filo 2015 (Swiss Dent J 125:278) · retrospective · CBCT 680건(하악 1,340측): 후구치관(RMC) 16.12%에서 관찰, 부가신경섬유 포함 — IANB 실패·수술손상 위험 구조. (abstract-only)
+- [[local-anesthesia/malamed-2011-mandibular-nerve-block-passe]] — Malamed 2011 (JADA 142 Suppl3:3S) · narrative-review · JADA supplement 서론: IANB 실패 다인성(피질골 두께·연조직 두께/바늘편향·신경위치난이도·부가신경), 측절치 실패율 81% 인용. (abstract-only)
+- [[local-anesthesia/haas-2011-alternative-mandibular-nerve-block-techniques]] — Haas 2011 (JADA 142 Suppl3:8S) · narrative-review · Gow-Gates·Akinosi-Vazirani 대안기법 리뷰: 해부학적 변이·부가신경 지배로 IANB 실패 이력 환자에 특히 유용. (abstract-only)
+
 ### drug (added 2026-06-03, batch h — metronidazole·알코올 disulfiram)
 
 - [[drug/antibiotics/feldman-2023-metronidazole-disulfiram-reaction-case-control]] — Ryan Feldman 2023 (WMJ 122(3):171) · retrospective · ED case-control 차트리뷰(n=36, metronidazole 18 + 알코올 매칭 18): 혈중알코올 검출 metronidazole 환자 disulfiram 유사반응 기록 0건, 고혈압 오히려 적음(16.7% vs 61.1%, P<0.0001) → 알코올-metronidazole 상호작용 부재 지지
