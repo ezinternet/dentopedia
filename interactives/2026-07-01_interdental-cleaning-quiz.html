@@ -1,0 +1,145 @@
+<!--
+---
+title: "치간청소 도구 선택 — 자가테스트 퀴즈 (치위생사 교육)"
+type: interactive
+date: 2026-07-01
+status: done
+category: perio-maintenance
+agenda: agenda/2026-07-01_hygienist-interdental-cleaning-education.md
+source_wiki:
+  - wiki/overviews/interdental-cleaning-devices-synthesis.md
+  - wiki/interdental-cleaning/carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct.md
+  - wiki/interdental-cleaning/jung-2025-flossing-performance-plaque-removal.md
+  - wiki/interdental-cleaning/badahdah-2025-dental-water-jet-plaque-gingivitis-sr.md
+  - wiki/interdental-cleaning/yilmaz-2025-interdental-cleaning-tool-sustainability-rct.md
+  - wiki/interdental-cleaning/slekovec-2026-legionella-water-flosser-france-case-report.md
+  - wiki/interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional.md
+note: "hygienist-education 스킬 산출 퀴즈. 문항은 LLM이 위키 근거로 저작(자동생성 아님) — source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>치간청소 자가테스트 — Interdental Cleaning Quiz</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
+    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
+    --chip:#243040; --site:/dentopedia;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}
+  .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
+  h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
+  .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
+  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
+  .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;
+    padding:18px;margin-bottom:16px;}
+  .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
+  .qt{font-weight:700;margin-bottom:12px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--panel2);
+    border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
+    font-family:inherit;transition:border-color .15s,background .15s;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
+  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
+    border-left:3px solid var(--line);padding:8px 12px;display:none;}
+  .rat.show{display:block;}
+  .rat b{color:var(--txt);}
+  .rat a{color:var(--accent);text-decoration:none;}
+  .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;
+    margin-top:8px;}
+  .score .big{font-size:1.5rem;color:var(--accent);}
+  .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
+    color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
+  .foot{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}
+  .foot a{color:var(--accent);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🦷 치간청소 자가테스트</h1>
+  <div class="sub">치위생사 교육 · 5문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="bar"><i id="bar"></i></div>
+  <div id="quiz"></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/5 · 정답 <span class="big" id="pts">0</span></div>
+  <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
+  <div class="foot">
+    출처: <a href="/dentopedia/overviews/interdental-cleaning-devices-synthesis" target="_blank">치간청소 도구 종합 overview</a>
+    · 교육용 요약 — 개별 판단은 위키 원문·원장 확인
+  </div>
+</div>
+<script>
+// 문항 = LLM이 위키 근거로 저작. 새 퀴즈는 이 배열만 갈아끼우면 됨.
+const QUESTIONS = [
+  { q: "치간칫솔(IDB)이 치실보다 유리한 조건은?",
+    opts: ["접촉이 매우 빡빡할 때","치간공간이 열려 IDB가 통과할 때","교정장치가 없을 때","항상"],
+    ans: 1,
+    rat: "IDB는 공간이 허용될 때 인접면 치태 제거가 우수. 임신치은염서 BOP 56→12%(OR 3.14).",
+    cite: "carrouel-2026-interdental-brushing-pregnancy-gingivitis-rct" },
+  { q: "구강세정기(워터픽)의 근거상 주된 이점은?",
+    opts: ["치태 제거에서 치실보다 압도적","출혈·치은염 개선","교정 중 추가 이점이 큼","임플란트 주위 필수"],
+    ans: 1,
+    rat: "18 RCT SR+MA(n≈1005): 출혈 개선은 중등도 근거, 치태 우위·교정/임플란트 부가 이점은 없음.",
+    cite: "badahdah-2025-dental-water-jet-plaque-gingivitis-sr" },
+  { q: "'치실 술식만 잘 가르치면 치태 제거가 좋아진다'는?",
+    opts: ["맞다 — 술식이 전부","아니다 — 술식은 향상돼도 치태 제거는 개선 안 됨","치실은 항상 최고","근거 없음"],
+    ans: 1,
+    rat: "전향 n=37: 수행점수 2.0→2.83(p<.001) 향상했으나 치태 제거는 차이 없음(p=.112).",
+    cite: "jung-2025-flossing-performance-plaque-removal" },
+  { q: "치간청소 결과를 가장 크게 좌우하는 것은?",
+    opts: ["도구 브랜드","치약 종류","순응도(계속 쓰는지)","사용 시간대"],
+    ans: 2,
+    rat: "고무 픽 12.61주 vs 치실 4.96주 규칙사용(p=0.003); 규칙 사용 주수↑ → 플라크·출혈↓.",
+    cite: "yilmaz-2025-interdental-cleaning-tool-sustainability-rct" },
+  { q: "환자에게 권하지 말아야 할 치간 도구는?",
+    opts: ["치간칫솔","치실","나무 이쑤시개","워터픽"],
+    ans: 2,
+    rat: "습관적·수직 사용이 치간유두 소실·블랙트라이앵글을 유발.",
+    cite: "el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional" },
+];
+const SITE="/dentopedia/interdental-cleaning/";
+let done=0, pts=0;
+const quiz=document.getElementById('quiz');
+QUESTIONS.forEach((item,i)=>{
+  const card=document.createElement('div'); card.className='q';
+  const cite=`<a href="${SITE}${item.cite}" target="_blank">근거 보기 →</a>`;
+  card.innerHTML=`<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+  item.opts.forEach((o,j)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=o;
+    b.onclick=()=>answer(card,i,j,b);
+    card.appendChild(b);
+  });
+  const r=document.createElement('div'); r.className='rat';
+  r.innerHTML=`<b>해설.</b> ${item.rat} ${cite}`;
+  card.appendChild(r);
+  quiz.appendChild(card);
+});
+function answer(card,i,pick,btn){
+  if(card.dataset.answered) return;
+  card.dataset.answered="1";
+  const item=QUESTIONS[i];
+  const btns=card.querySelectorAll('.opt');
+  btns.forEach((b,j)=>{ b.disabled=true;
+    if(j===item.ans) b.classList.add('correct');
+    else if(j===pick) b.classList.add('wrong'); });
+  if(pick===item.ans) pts++;
+  done++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('done').textContent=done;
+  document.getElementById('pts').textContent=pts;
+  document.getElementById('bar').style.width=(done/QUESTIONS.length*100)+'%';
+}
+</script>
+</body>
+</html>
