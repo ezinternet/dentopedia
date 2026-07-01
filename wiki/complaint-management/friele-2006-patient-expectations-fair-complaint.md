@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/friele-2006-patient-expectations-fair
 pdf_filename: friele-2006-patient-expectations-fair-complaint.pdf
 source_collection: external
 tags: [expectations, justice-theory, fairness]
+relations:
+  - type: contradicts
+    target: mccreaddie-2021-qualitative-study-nhs-complaint
 ---
 
 ## One-line Summary
