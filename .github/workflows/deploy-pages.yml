@@ -7,6 +7,7 @@ on:
     paths:
       - "wiki/**"
       - "interactives/**"
+      - "lectures/**"
       - "index.md"
       - "quartz/**"
       - ".github/workflows/deploy-pages.yml"
@@ -42,6 +43,7 @@ jobs:
           OVERVIEW_COUNT=$(ls wiki/overviews/*.md 2>/dev/null | wc -l | tr -d ' ')
           CATEGORY_COUNT=$(find wiki -mindepth 1 -maxdepth 2 -type d | grep -v overviews | wc -l | tr -d ' ')
           INTERACTIVE_COUNT=$(ls interactives/*.html 2>/dev/null | grep -v 'wiki-evolution\|wiki-growth\|wiki-stats\|overviews-map\|contradiction-radar\|index\.html' | wc -l | tr -d ' ')
+          LECTURE_COUNT=$(ls lectures/*.html 2>/dev/null | grep -v 'index\.html' | wc -l | tr -d ' ')
           # 논쟁 레이더 debate 수: 커밋된 radar HTML의 '<b>N</b> 논쟁'에서 추출(빌드가 항상 최신 유지).
           DEBATE_COUNT=$(grep -oE '<b>[0-9]+</b> 논쟁' interactives/contradiction-radar.html 2>/dev/null | head -1 | grep -oE '[0-9]+' || echo 0)
           sed -i "s|<!-- LAST_UPDATED -->.*<!-- /LAST_UPDATED -->|<!-- LAST_UPDATED -->${STAMP}<!-- /LAST_UPDATED -->|" wiki/index.md
@@ -49,6 +51,7 @@ jobs:
           sed -i "s|<!-- OVERVIEW_COUNT -->.*<!-- /OVERVIEW_COUNT -->|<!-- OVERVIEW_COUNT -->${OVERVIEW_COUNT}<!-- /OVERVIEW_COUNT -->|" wiki/index.md
           sed -i "s|<!-- CATEGORY_COUNT -->.*<!-- /CATEGORY_COUNT -->|<!-- CATEGORY_COUNT -->${CATEGORY_COUNT}<!-- /CATEGORY_COUNT -->|" wiki/index.md
           sed -i "s|<!-- INTERACTIVE_COUNT -->.*<!-- /INTERACTIVE_COUNT -->|<!-- INTERACTIVE_COUNT -->${INTERACTIVE_COUNT}<!-- /INTERACTIVE_COUNT -->|" wiki/index.md
+          sed -i "s|<!-- LECTURE_COUNT -->.*<!-- /LECTURE_COUNT -->|<!-- LECTURE_COUNT -->${LECTURE_COUNT}<!-- /LECTURE_COUNT -->|" wiki/index.md
           sed -i "s|<!-- DEBATE_COUNT -->.*<!-- /DEBATE_COUNT -->|<!-- DEBATE_COUNT -->${DEBATE_COUNT}<!-- /DEBATE_COUNT -->|" wiki/index.md
 
       - name: Regenerate category map from folder counts
@@ -121,6 +124,23 @@ jobs:
           if [ -d interactives ]; then
             mkdir -p quartz/public/interactives
             cp -r interactives/. quartz/public/interactives/
+          fi
+
+      - name: Regenerate lectures index from frontmatter
+        run: |
+          # lectures/index.html을 각 덱의 주석 frontmatter(title/date/audience 등)에서
+          # 자동 생성. 새 슬라이드는 로컬에서 bash scripts/export-slides.sh로 미리
+          # export/commit해두는 정적 자산이라(Marp CLI를 CI에 새로 설치하지 않음),
+          # 여기서는 이미 커밋된 lectures/*.html로 색인만 재생성한다.
+          python3 scripts/build-lectures-index.py
+
+      - name: Copy lectures/ into site (served verbatim)
+        run: |
+          # slides/*.md(Marp)를 로컬에서 export한 정적 발표 덱 — interactives/와
+          # 같은 패턴이지만 별도 폴더/카드로 분리. 그대로 서빙.
+          if [ -d lectures ]; then
+            mkdir -p quartz/public/lectures
+            cp -r lectures/. quartz/public/lectures/
           fi
 
       - name: Upload artifact
