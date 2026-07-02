@@ -1,0 +1,35 @@
+Marginal adaptation and color stability of four provisional materials
+Givens EJ, Neiva G, Yaman P, Dennison JB.
+Journal of Prosthodontics. 2007;17(2):97-101.
+DOI: 10.1111/j.1532-849X.2007.00256.x
+PMID: 17971123
+Source: PubMed abstract (no PMC full text available — ABSTRACT ONLY)
+
+NOTE: Full text is not in PubMed Central. Only the structured abstract below was retrievable.
+This page is built from the abstract; Results/Methodology are at abstract-level detail only.
+
+=== ABSTRACT ===
+Purpose:
+A number of provisional restorative materials exist on the market. This study tested marginal fit and color stability of three provisional restorative materials and a control.
+
+Materials and Methods:
+Two auto-cure materials, Protemp Garant and Integrity, and one dual-cure material, Luxatemp Solar, were tested against SNAP, a polyethyl methacrylate control. A maxillary right central incisor ivorine tooth was prepared for a full-coverage all-ceramic crown, with a 1.5-mm chamfer margin. Four points were engraved 1 mm below the facial, lingual, mesial, and distal margins, and replicas (n = 40) were produced by the manufacturer. Provisional crowns (n = 10 x 4) were fabricated on the individual replicas using a polyethylene coping template. The crowns were trimmed under magnification using an acrylic bur. The distance from the crown margins to a point tangent to the engraved markings was measured under 10x magnification and recorded. For color stability, 10-mm diameter x 2-mm thick discs (n = 10 x 4) were fabricated and immersed cyclically in tea for 1 week in a Tucillo/Nielson apparatus. Color measurements were recorded for each specimen at baseline and after staining. DeltaE values were calculated to determine the extent of the color change.
+
+Results:
+The means of the four marginal discrepancy measurements for each specimen were analyzed using a 1-way ANOVA and Tukey post-hoc comparison. Luxatemp Solar had statistically significant marginal discrepancy (319 microm, p < 0.05) when compared to the other provisional materials. A significant color change (DeltaE = 4.33, p < 0.05) was found for Protemp Garant.
+
+Conclusions:
+The dual-cure temporary material (Luxatemp Solar) exhibited significantly more discrepancy at the margin than the auto-cure bis-acryl materials or acrylic control. Protemp Garant exhibited a clinically noticeable change in shade after 1 week in staining solution, whereas the other materials did not exhibit a clinically noticeable change.
+Provisional crowns fabricated from SNAP, Protemp Garant, and Integrity exhibited similarly low marginal discrepancy. SNAP, Luxatemp Solar, and Integrity did not demonstrate a clinically detectable change in shade after 1 week in a staining solution.
+
+=== MATERIALS TESTED ===
+- SNAP (Parkell) — polyethyl methacrylate (PEMA) acrylic resin, self-cure — used as the CONTROL.
+- Protemp Garant (3M ESPE) — bis-acryl composite, auto-cure.
+- Integrity (Dentsply) — bis-acryl composite, auto-cure.
+- Luxatemp Solar (DMG) — bis-acryl composite, dual-cure.
+
+=== KEY NUMBERS ===
+- Luxatemp Solar marginal discrepancy: 319 µm (significantly higher, p<0.05).
+- Protemp Garant color change: ΔE = 4.33 (clinically noticeable, p<0.05).
+- SNAP / Protemp Garant / Integrity: similarly low marginal discrepancy.
+- SNAP / Luxatemp Solar / Integrity: no clinically detectable shade change after 1 week tea staining.
