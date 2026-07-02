@@ -1,0 +1,49 @@
+1 Introduction
+
+Dental composites are widely used in both direct and indirect restorations. These materials have demonstrated high long-term success rates. However, several factors can contribute to treatment failure, including the caries-prone oral environment, the type of composite used, restoration fractures, and aesthetic concerns related to composite discoloration.
+
+The degree of conversion of a composite (DC) is a key factor affecting treatment success. DC refers to the percentage of carbon double bonds converting to single carbon-carbon bonds. During polymerization, most monomers are converted into polymer, though some monomers remain unreacted within the resin matrix. High DC% is associated with improved physical and mechanical properties, color stability, and enhanced biocompatibility. Several factors, such as the composite's shade, curing time, cavity depth and location, temperature, filler type, and the distance of the light-curing tip from the composite surface, affect DC%.
+
+Previous studies have reported a reduction in light intensity reaching the composite as the distance between the composite and the light-curing tip increases, related to the height and angle of cusps and the depth of prepared cavities (in deep Class 2 proximal cavities, this distance can reach up to 9 mm). In a study by Price et al., a 6 mm distance from the light-curing tip led to a 50-77% reduction in light intensity depending on the light-curing device type. This reduction correlates with decreased surface hardness and lower DC. A lower DC% can increase the release of unreacted monomers, decreasing biocompatibility - especially important given the proximity of deeper composite layers to the pulp and gingiva in proximal cavities.
+
+The aim of this study was to investigate the impact of distance between the light source and composite surface on DC% at both top and bottom surfaces, as well as on cellular viability, and to assess the correlation between DC% and cell viability at different light-curing tip distances.
+
+2 Materials and Methods
+
+2.1 Sample preparation
+
+A universal composite (3M Espe Filtek Z350 XT Composite, Dentin shade A2) was used. Disk-shaped samples (2 x 6 mm) were cured at distances of 0, 2, 4, 6, and 8 mm from the light-curing tip (groups G0, G2, G4, G6, G8; n=4 per group), using an LED light-curing unit (O-Star: Cordless curing light - WOODPECKER) for 20 s at 1200 mW/cm2 in a polycarbonate mold. Distance was adjusted using 2-mm-high metal spacer pieces. Light intensity was verified with a radiometer at each curing distance. Samples were incubated at 37 degrees C for 24 h before DC and MTT assays.
+
+2.2 Degree of conversion
+
+DC was measured using Attenuated Total Reflectance-Fourier Transform Infrared Spectroscopy (ATR-FTIR, Nicolet iS50, USA). Absorption peaks were obtained from top and bottom surfaces of each sample, plus uncured composite as reference. Peak heights for the aliphatic C=C bond (1638 cm-1) and carbonyl reference bond (1720 cm-1) were measured (Omnic software) and DC calculated from the standard formula.
+
+2.3 Biocompatibility
+
+Biocompatibility was assessed per ISO 10993 standards using the MTT cell viability assay. Human gingival fibroblast cells were cultured in DMEM with 10% FBS and 1% antibiotics. Composite samples were incubated in culture medium for 24 h, extracts applied to cells in 96-well plates for 24 h, then MTT assay performed (formazan dissolved in DMSO, absorbance read at 570 nm). Cell viability was calculated relative to control.
+
+2.4 Data analysis
+
+Normality was assessed via Shapiro-Wilk test; group comparisons via one-way ANOVA. Correlations between DC (top/bottom), cell viability, and distance were analyzed via Pearson correlation.
+
+3 Results
+
+DC values on the top surface were significantly higher than the bottom at all distances (p < 0.001). DC on both surfaces decreased as light-curing tip distance increased, though this difference reached statistical significance only between G0 vs G6 and G0 vs G8 at the bottom surface (p < 0.05). DC decreased from 44.57% at 0 mm to 32.99% at 8 mm (not statistically significant across the full range, but a clear downward trend).
+
+Cell viability decreased as distance increased, reaching statistical significance in all group comparisons except G0 vs G2 (p < 0.001). At 4 mm, viability remained above the 70% ISO biocompatibility threshold; at 6 mm and 8 mm, viability fell to 65.5% and 58%, respectively - below the ISO biocompatibility threshold.
+
+Pearson correlation showed a positive, statistically significant correlation between cell viability and DC% at both surfaces (p < 0.05), stronger for the top surface (R = 0.597) than the bottom (R = 0.490). A negative, statistically significant correlation was observed between tip distance and DC% at both surfaces, and between tip distance and cell viability (p < 0.05).
+
+4 Discussion
+
+Many studies report decreasing light intensity and DC with increasing distance from the light-curing unit, particularly significant in deep proximal cavities near the gingiva. Lower DC% leads to higher residual monomer release, associated with cytotoxicity, inflammation, and allergic reactions. For light-curing units with spherical light emission, intensity decreases with the square of distance; the unit used here (15.8 degrees emission angle) showed intensity dropping to ~313 mW/cm2 at 8 mm distance - near the reported minimum of 300 mW/cm2 required for proper composite curing.
+
+TEGDMA and UDMA (monomers in Filtek Z350's Bis-GMA/Bis-EMA/UDMA/PEGDMA/TEGDMA system) can have cytotoxic and genotoxic effects on dental pulp cells and gingival tissues, inducing apoptosis, reduced cell viability, and inflammation; TEGDMA can interfere with mitochondrial function and induce oxidative stress, while UDMA can activate inflammatory pathways (IL-6, TNF-alpha). Released monomers/nanoparticles (e.g., silica, zirconia from nanocomposites) can enter cells via endocytosis/phagocytosis and trigger oxidative stress, potentially causing DNA strand breaks.
+
+Increasing distance to 4 mm significantly reduced cell viability relative to 0/2 mm but remained above the 70% ISO threshold; at 6-8 mm, viability fell below threshold, attributable in part to incomplete curing releasing residual monomers and nanoparticles.
+
+The authors note that no ethical clearance form could be located for this study ("I couldn't find any Ethical clearance form. I would greatly appreciate any guidance") and that patient/guardian consent was not applicable as this was an in vitro study. Further studies on other composite types and light-curing units, and more specialized biocompatibility assays (e.g., dentin barrier test, agar diffusion test) simulating clinical conditions, are recommended.
+
+5 Conclusion
+
+Increasing the distance between the light-curing tip and composite resin adversely affects composite polymerization and biocompatibility, likely due to insufficient curing and consequent release of monomers and nanoparticles. Cell viability and DC% showed a positive, statistically significant correlation on both top and bottom surfaces. This study emphasizes the importance of optimal (short) curing distance for dental resin composites.
