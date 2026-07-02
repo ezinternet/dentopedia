@@ -265,6 +265,7 @@ DH는 환자의 자연 발생만이 아니라 **수복 후 발생 (postoperative
 - [[dentin-hypersensitivity/ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-rct]] — RCT 6-arm (n=150, 8주): 5종 가정용 탈감작제(CPP-ACP·아르기닌·NovaMin·프로폴리스·KNO3) 전부 표준 불소치약 우월, **CPP-ACP 최고**(변화 DHEQ-15 56.68·VAS 6.52·SSS 2.32); 대조 불소치약은 DHEQ 삶의질 무변화(p=0.068) — 불소 co-use가 효과 열쇠 아님
 
 ### Related categories
+- [[overviews/tooth-whitening-clinical-decision-overview]] — bleaching-induced tooth sensitivity: 미백은 DH의 흔한 iatrogenic 유발원 (peroxide 농도·프로토콜이 sensitivity 좌우) — 미백 전후 desensitizer 병용 결정에 연결
 - [[caries/jkda-2023-61-7-004]] — fluoride varnish 제품 비교 (2차 in-office 옵션)
 - [[overviews/cracked-tooth-syndrome-overview]] — 감별진단 framework
 - [[botulinum-toxin/jkda-2025-63-6-002]] — bruxism BTX (이갈이 동반 DH 보조)
