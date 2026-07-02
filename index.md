@@ -3059,6 +3059,10 @@ tags: []
 - [[post-and-core/lenz-2023-endocrown-core-crown-biomechanical-sr]] — Lenz 2023 · sr(31 in-vitro, 전·후·구치) · 엔도크라운 ≥ 포스트-코어-크라운 피로하중·단조하중 생존; 엔도크라운 응력 더 유리·실패양상 복구 가능 (DOI 10.1111/jerd.13119)
 - [[post-and-core/hawthan-2023-survival-fixed-prosthetics-vital-nonvital]] — Hawthan 2023 · sr(26편 ≥24개월) · 5년 생존 비교: 올세라믹+파이버포스트 95.0% > 금속세라믹+파이버포스트 91.3% > 금속세라믹+무포스트 85.7%; 치수생활력 양호 예후 기여 (DOI 10.1111/jopr.13735)
 - [[post-and-core/yuen-2025-nonmetallic-customized-post-core-outcomes]] — Yuen 2025 · sr(12편, 829치) · CAD/CAM 지르코니아 포스트 ≈ 주조 포스트; PEEK·PEKK 고debonding; 개인맞춤 FRC(EverStick·Ribbond) 복구가능 실패 패턴 (DOI 10.1016/j.joen.2025.11.015)
+- [[post-and-core/rezaei-2010-comparison-stresses-fiber-parapost-casting]] — Rezaei 2010 · in-vitro(광탄성, 포스트 3종×3) · 강성 금속 ParaPost는 응력 집중(수직 근단 FO=4·경사 치경 FO=5), fiber·cast는 고른 분포(FO=2+); 1.25 mm fiber는 90 N 경사하중 전 파절 (PMC3471570)
+- [[post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost]] — Al Kahtani 2010 · in-vitro(fluid filtration, 70치) · resin cement ParaPost 미세누출은 sealer·타이밍과 무관하게 3개월간 유의 증가; AH26 즉시합착 최소 (DOI 10.1016/j.sdentj.2010.02.003)
+- [[post-and-core/izadi-2020-core-materials-fracture-resistance-parapost]] — Izadi 2020 · in-vitro(108치, 9군) · FRC post군 파절하중이 ParaPost군보다 유의 우위(397.6 vs 265.6 N, P<0.001); core 재료(Photo Core/LuxaCore/Core Max II) 간 차이 없음 (PMC7688039)
+- [[post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost]] — Goutam 2022 · in-vitro(90치, 9군) · FRC > ParaPost 파절하중(380.1 vs 262.8 N, P<0.05), core 재료 무관 — Izadi 2020 근접 재현 (DOI 10.4103/jpbs.jpbs_789_21)
 
 ## 임플란트·약물 — 조기 임플란트 실패 (Early Implant Failure, 보철 로딩 전) surveillance batch (added 2026-06-22)
 - [[implants/yari-2023-risk-factors-early-implant-failure]] — Yari 2023 · retrospective(임플란트 1323개/환자 738명, 조기실패 53건) · 보철 로딩 전 조기 실패 다변량 위험인자: 즉시잠정보철 OR 3.42·후방상악 2.96·4형골 2.88·치주발치부위 2.53·증대부위 2.24·흡연 1.84 (abstract-only) (DOI 10.1016/j.jormas.2023.101749)
