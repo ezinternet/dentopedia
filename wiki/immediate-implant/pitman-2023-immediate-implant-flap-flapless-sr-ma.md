@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/pitman-2023-immediate-implant-flap-fl
 pdf_filename: pitman-2023-immediate-implant-flap-flapless-sr-ma.pdf
 source_collection: external
 tags: ['flapless', 'mucoperiosteal flap', 'IIP', 'buccal soft tissue', 'esthetic']
+relations:
+  - type: reinforces
+    target: surendra-2025-flapless-versus-flapped-crestal-bone
 ---
 
 ## One-line Summary
