@@ -11,6 +11,13 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/senna-2012-nccl-occlusion-systematic-
 pdf_filename: senna-2012-nccl-occlusion-systematic-review.pdf
 source_collection: external
 tags: [nccl, occlusion, abfraction, systematic-review, heterogeneity]
+relations:
+  - type: contradicts
+    target: duangthip-2017-occlusal-stress-nccl-abfraction-sr
+  - type: reinforces
+    target: silva-2013-occlusal-factors-nccl-systematic-review
+  - type: reinforces
+    target: nascimento-2016-abfraction-etiology-diagnosis-treatment
 ---
 
 ## One-line Summary
