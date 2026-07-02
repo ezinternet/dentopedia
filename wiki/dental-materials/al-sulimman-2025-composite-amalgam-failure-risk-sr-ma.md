@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/al-sulimman-2025-composite-amalgam-fa
 pdf_filename: al-sulimman-2025-composite-amalgam-failure-risk-sr-ma.pdf
 source_collection: external
 tags: [amalgam, composite-resin, failure-risk, rr, meta-analysis, prisma, cochrane, newcastle-ottawa, posterior-teeth, restoration-failure]
+relations:
+  - type: contradicts
+    target: tobias-2024-amalgam-composite-survival-big-data
 ---
 
 ## One-line Summary
