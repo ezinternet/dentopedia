@@ -1,0 +1,70 @@
+Impaired Treg-Mediated Immune Regulation in Peri-Implantitis Lesions and Implant Loss: Insights From Histological and Molecular Analyses
+
+Cafferata EA, Ramanauskaite A, Parvini P, Raabe C, Dohle E, Ghanaati S, Schwarz F.
+Journal of Clinical Periodontology. 2025;52(12):1779-1790.
+DOI: 10.1111/jcpe.70026 · PMID: 40856197 · PMCID: PMC12605793
+Source: https://pmc.ncbi.nlm.nih.gov/articles/PMC12605793/
+
+=== ABSTRACT ===
+
+Aim: To evaluate the T regulatory lymphocyte (Treg) profile and its potential contribution to peri-implant tissue destruction during peri-implantitis (PI).
+
+Methods: PI granulation tissue and crevicular fluid collected during PI surgical (PI group, n=23) and explantation (PI-X group, n=23) therapy, with peri-implant healthy tissue from second-stage surgery (H group, n=20) as controls, were analysed. The inflammatory infiltrate was characterised by H&E staining. The relative expression of Treg-associated transcription factors and cytokines was assessed by RT-qPCR. Forkhead box P3 (FOXP3) and neuropilin (NRP)-1 were detected by immunohistochemistry, and interleukin (IL)-10, TGF-β1 and IL-35 by ELISA. The clinical parameters, namely probing depth (PD), bleeding on probing (BOP) and vertical defect depth (VDD), were also recorded.
+
+Results: PI and PI-X lesions showed up-regulation of FOXP3, HELIOS and IL35B and down-regulation of NRP1 and TGFβ1 mRNA expression, compared to H tissue (p<0.05). Significantly more FOXP3 cells and significantly less NRP-1 area were detected in PI and PI-X lesions (p<0.05). IL-35 levels were up-regulated, whereas TGF-β1 levels were down-regulated in PI and PI-X lesions, compared to H samples (p<0.05). PD and VDD were significantly correlated with the down-regulation of FOXP3 and NRP-1 (p<0.05).
+
+Conclusions: Treg dysfunction and altered cytokine profiles in PI are associated with inflammation and clinical disease severity.
+
+=== 1. INTRODUCTION ===
+
+Peri-implantitis (PI), characterised by non-resolving inflammation accompanied by progressive bone loss, is one of the leading causes of late implant loss. Although different treatments exist, achieving complete disease resolution — as defined by the EFP guidelines — remains challenging. Nonetheless, surgical therapy can result in significant improvements, such as reduced probing depths and stabilised or even improved marginal bone levels. Even though resolution is achieved in ~60% of cases over 5-10 years, PI recurrence requiring retreatment or leading to implant loss might be expected, especially in advanced lesions or in patients with unfavourable risk profiles. Therefore, while surgical treatment can be effective in managing PI, its long-term success may be influenced by factors beyond bacterial control, including host immune regulation — a component that remains insufficiently understood.
+
+An intricate sequence of immune responses dictates the fate of dental implant integration and maintenance. However, when this finely tuned equilibrium is lost — for example, through microbial dysbiosis — the resulting dysregulated immune response may lead to inflammatory osteolysis, such as those occurring during PI and periodontitis. Periodontitis is also characterised by inflammation-driven alveolar bone loss, which eventually can lead to tooth loss. However, PI lesions present larger areas of immune cell infiltration and bone resorption than periodontitis. The immunopathogenesis of periodontitis partly relies on the deregulation of the immunoregulatory axis mediated by T regulatory cells (Tregs). Tregs, characterised by the expression of the transcription factor forkhead box p3 (FOXP3) and the IL-2 receptor CD25, modulate innate and adaptive immunity and maintain oral immunological homeostasis, which is essential for periodontal health.
+
+Although during periodontitis the periodontal tissue enriched in pro-inflammatory mediators may induce a Treg dysfunctional phenotype that promotes alveolar bone destruction, in the case of PI, the role of these cells has not been described yet. Therefore, the aim of this study was to compare Tregs' presence and Treg-associated marker expression between clinically healthy peri-implant tissues and PI lesions from different clinical scenarios (needing surgical reconstructive therapy and indicated for explantation), in order to identify immunoregulatory profiles linked to PI disease severity.
+
+=== 2. MATERIALS AND METHODS ===
+
+Study Design: Retrospective analysis of clinical records and matching preserved peri-implant tissue samples from patients treated 2022-2024 at the Department of Oral Surgery and Implantology, Carolinum, Goethe University Frankfurt (protocol N:2022-652).
+
+Participant Selection: 66 patient samples: 46 had a clinical diagnosis of PI, of whom 23 (=23 implants) underwent PI surgical therapy (PI group) and 23 (=23 implants) underwent explantation (PI-X group). Control: 20 healthy implant samples (PI-H group).
+Inclusion: implants with complete clinical records and matching tissue samples, >2 mm keratinised mucosa, plaque index <1. For PI: BOP and/or suppuration; PD ≥6 mm; radiographic MBL ≥3 mm. For PI-X: explantation indicated when bone loss ≥ two-thirds of implant length and/or mobility. For H: no BOP/SUPP, PD ≤5 mm, no bone loss beyond remodelling.
+Exclusion: inflammatory disorders, recent antibiotic/immunosuppressant therapy, pregnancy/lactation, untreated periodontitis.
+
+Peri-Implant Tissue Sample Obtention: In PI and PI-X groups, granulation tissue was carefully curetted directly from the implant surface and defect area. In the H group, soft-tissue biopsy samples were collected from the mucosa overlying the implant cover screw during the second stage of implant surgery. Samples split for RNA extraction (~2-5 mg) and immunohistochemistry.
+
+Immunohistochemistry: Because of the irregular and often fragmented morphology of granulation tissue from PI and PI-X samples, histological orientation was not feasible. FFPE sections stained with anti-FOXP3 and anti-NRP-1 antibodies (DAB or AEC chromogens, Mayer's haematoxylin counterstain).
+
+RT-qPCR: Total RNA extracted using TRIzol; cDNA synthesised and amplified with specific primers; 18S rRNA as endogenous control.
+
+Peri-Implant Crevicular Fluid: IL-10, TGF-β1 and IL-35 levels analysed by ELISA (paper strips inserted into mesial and distal peri-implant sulcus for 30 s).
+
+Data Analysis: Kruskal-Wallis and Mann-Whitney U tests; Spearman's rank correlation; multiple linear and logistic regressions adjusting for age and smoking. Sample size n=20 per group for 80% power (effect size 0.65, α=0.05). Significance p<0.05.
+
+=== 3. RESULTS ===
+
+3.1 Histology: H group showed no epithelium disruption, densely arranged collagen fibres, minimal immune cells. PI and PI-X groups exhibited fragmented and disorganised collagen bundles, numerous small capillaries accompanied by inflammatory cells (predominantly lymphocytes and macrophage-like cells). No evident morphological differences between PI and PI-X H&E slides.
+
+3.2 Treg transcription factors: FOXP3 significantly up-regulated in PI and PI-X vs H (mean fold-change increase 3.8, p<0.001 in PI group). PI-X showed marked down-regulation of FOXP3 vs PI (~1.1-fold reduction, p=0.02). HELIOS significantly up-regulated in PI and PI-X vs H (p<0.001). NRP1 mRNA consistently down-regulated in both PI and PI-X vs H (p=0.04).
+
+3.3 Immunohistochemistry: Significantly higher number of FOXP3 Treg cells in PI and PI-X vs H (p<0.001); no significant difference between PI and PI-X (p=0.077). NRP-1 positive area significantly larger in H than PI/PI-X (p<0.001). In healthy tissue NRP-1 predominantly at epithelial cell membrane; in PI-affected tissue, infrequent NRP-1 primarily in cytoplasm of macrophage-like cells and lymphocytes.
+
+3.4 Treg cytokine mRNA: IL10 no significant difference (p=0.052); TGFβ1 comparable across groups (p=0.120); IL35 significantly up-regulated in PI and PI-X (mean 2.3-fold increase, p=0.026).
+
+3.5 Crevicular fluid protein: IL-10 unaltered across groups (p=0.11); TGF-β1 significantly LOWER in PI and PI-X vs H (p<0.001); IL-35 significantly HIGHER in PI and PI-X vs H (p=0.004), no difference PI vs PI-X (p=0.15).
+
+3.6 Clinical associations: FOXP3 significantly associated with PD (rho=0.59, p<0.001), BOP (OR=1.17, p<0.001), VDD (0.04, p=0.01). NRP-1 inversely correlated with PD (rho=-0.61, p<0.001), negatively with BOP (OR=0.20, p=0.00002) and VDD (-0.40, p<0.001). TGF-β1 inversely correlated with PD (rho=-0.70, p<0.001). IL-35 directly correlated with PD (rho=0.53, p<0.001), associated with BOP (OR=1.86, p<0.001). IL-10 showed no associations.
+
+=== 4. DISCUSSION ===
+
+Results confirm an altered Treg profile and immune-regulatory activity in human PI lesions. FOXP3 up-regulated during PI vs healthy and PI-X; NRP-1 consistently down-regulated in PI-affected samples. Immunohistochemistry confirmed higher FOXP3 Tregs in PI/PI-X alongside markedly reduced NRP-1-positive area vs robust epithelial NRP-1 localisation in healthy tissue. IL-10 unaltered; TGF-β1 down-regulated; IL-35 up-regulated. Molecular alterations linked with clinical severity: NRP-1 and TGF-β1 inversely correlated with PD/VDD; FOXP3 and IL-35 directly associated with PD/BOP.
+
+Under inflammatory conditions rich in pro-inflammatory cytokines (e.g., IL-6), Tregs can lose their regulatory phenotype and acquire a pro-inflammatory and osteolytic profile. FOXP3 up-regulation may reflect a compensatory or unstable regulatory response rather than effective suppression (Treg instability). NRP-1 is expressed on highly activated CD4 effector T cells and Tregs; its reduction may impair Treg function and stability, promoting osteolytic responses via Th17-associated factors (TNF, IL-17A, M-CSF, RANKL). TGF-β1/NRP-1 signalling is important for Treg activity; chronic inflammation/fibrosis can maintain high active TGF-β1 promoting RANKL production and bone resorption. IL-35 is a highly immunosuppressive cytokine induced by overwhelming inflammatory stimuli; this is the first report evaluating IL-35 in PI lesions and crevicular fluid.
+
+The imbalance between FOXP3 and NRP-1, coupled with decreased TGF-β1 and elevated IL-35, suggests a dysfunctional Treg response that fails to arrest chronic inflammation and may contribute to peri-implant tissue destruction during PI. Early detection of immune dysregulation markers (altered NRP-1 or IL-35) could aid identifying patients at higher risk for PI progression. Therapeutic strategies restoring Treg function, stabilising FOXP3, or modulating NRP-1/TGF-β1 signalling could complement conventional mechanical/antimicrobial PI therapies (e.g., NRP-1 agonists, M2 resolution).
+
+Strengths: combined transcriptional and protein analysis; first analysis of IL-35 and NRP-1 in human PI lesions and crevicular fluid. Limitations: retrospective design limits causal inference; no flow cytometry/single-cell for precise Treg subset identification; modest sample size; healthy controls obtained during second-stage surgery (biologically earlier, unloaded).
+
+=== 5. CONCLUSIONS ===
+
+PI is associated with an altered Treg profile accompanied by an imbalanced immune-regulatory cytokine milieu. Elevated FOXP3 coupled with marked reduction in NRP-1 in PI lesions, plus direct IL-35 and inverse TGF-β1 correlations with clinical parameters, suggest that although a regulatory response is present, it may be functionally impaired in disease, and these molecular alterations are associated with PI osteolytic inflammation and clinical severity.
