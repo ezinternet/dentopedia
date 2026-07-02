@@ -1,0 +1,42 @@
+{
+  "deck": "2026-07-02_seminar_implant-settling-effect",
+  "date": "2026-07-02",
+  "title": "세틀링 이펙트 자가테스트",
+  "emoji": "🔩",
+  "agenda": "agenda/2026-07-02_settling-effect-slides.md",
+  "source_wiki": [
+    "wiki/overviews/abutment-screw-preload-joint-stability-overview.md",
+    "wiki/prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue.md",
+    "wiki/prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes.md",
+    "wiki/prosthetic-materials/varvara-2020-retightening-preload-loss-abutment-screws.md",
+    "wiki/prosthetic-materials/saleh-saber-2017-repeated-torque-tightening-abutment-lengths.md",
+    "wiki/prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload.md"
+  ],
+  "questions": [
+    { "q": "세틀링 이펙트(Settling Effect)는 언제 발생하는가?",
+      "opts": ["저작 중 반복하중 시에만", "체결 직후, 무하중 상태에서도", "임플란트 실패 직전에만", "발치 즉시식립 시에만"],
+      "ans": 1,
+      "rat": "세틀링은 접촉면 미세조도 붕괴로 체결 직후 무하중 상태에서도 발생 — 저작 전부터 이미 preload 손실이 시작된다.",
+      "cite": "prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue" },
+    { "q": "세틀링(Settling)과 동적 피로(Cyclic Fatigue)의 차이로 옳은 것은?",
+      "opts": ["둘 다 저작 반복하중 중에만 발생한다", "세틀링은 무하중 시 즉시, 동적 피로는 반복하중 중 발생", "동적 피로가 항상 손실 규모가 더 작다", "두 기전은 상호 배타적이라 동시에 일어나지 않는다"],
+      "ans": 1,
+      "rat": "세틀링은 체결 직후 무하중에서 preload 2–10% 손실, 동적 피로는 반복하중 중 제거토크 손실 16.1–39%로 이어짐 — 세틀링이 먼저, 피로가 뒤따른다.",
+      "cite": "prosthetic-materials/pardal-pelaez-2017-preload-loss-abutment-screws-dynamic-fatigue" },
+    { "q": "Kim 2020 연구에서 세틀링(축방향 변위)이 가장 작았던 연결부 형태는?",
+      "opts": ["내부 팔각 8° Morse taper (1-piece)", "외부 버트조인트(External butt-joint)", "내부 육각 11° (2-piece)", "연결부 형태와 무관"],
+      "ans": 1,
+      "rat": "외부 버트조인트가 0.8µm로 가장 작고, 내부팔각 Morse taper(1-piece)가 25.6µm로 가장 컸다 — 연결부가 급한 테이퍼일수록 세틀링이 커진다.",
+      "cite": "prosthetic-materials/kim-2020-axial-displacements-removal-torque-changes" },
+    { "q": "나사고정(2-piece) 관절의 대처 프로토콜에서 재조임(retightening) 시점에 대한 근거는?",
+      "opts": ["항상 정확히 10분 후 1회만 유효하다", "Varvara 2020: 2분이 5·10분보다 손실이 적어 더 유리할 수 있다", "재조임은 몇 번을 해도 효과가 계속 커진다", "재조임은 잃은 clamping force를 완전히 회복시킨다"],
+      "ans": 1,
+      "rat": "전통적으로 10분 후 재조임을 권장했으나(Nithyapriya 2018), Varvara 2020은 2분이 더 유리할 수 있다고 제안. Saleh-Saber 2017: 재조임 효과는 2회째에 plateau — 3~5회는 무의미. Bulaqi 2015: 재조임이 세틀링을 줄이나 손실된 clamping force를 크게 되살리지는 못한다.",
+      "cite": "prosthetic-materials/saleh-saber-2017-repeated-torque-tightening-abutment-lengths" },
+    { "q": "연결부 오염(석고 등)에 대한 Sun 2026 연구 결과로 옳은 것은?",
+      "opts": ["6면 중 3면만 오염되면 전하중에 영향이 없다", "6면 중 3면만 오염돼도 초기 전하중이 유의하게 감소한다", "오염은 이론상 가설일 뿐 임상에서 관찰되지 않는다", "완전 오염과 부분 오염의 초기 손실 효과는 크게 다르다"],
+      "ans": 1,
+      "rat": "n=90 in-vitro: 6면 중 3면만 오염돼도 초기 전하중이 유의하게 감소(부분≈완전, 초기 결손엔 차이 없음). 실제 265개 맞춤 어버트먼트 감사에서도 오염이 드물지 않게 관찰됨.",
+      "cite": "prosthetic-materials/sun-2026-abutment-contamination-internal-hex-preload" }
+  ]
+}

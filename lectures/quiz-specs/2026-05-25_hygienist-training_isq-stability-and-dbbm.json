@@ -1,0 +1,41 @@
+{
+  "deck": "2026-05-25_hygienist-training_isq-stability-and-dbbm",
+  "date": "2026-05-25",
+  "title": "ISQ·DBBM 자가테스트",
+  "emoji": "📡",
+  "agenda": "agenda/2026-05-25_q2-clinic-sop-dbbm-isq.md",
+  "source_wiki": [
+    "wiki/implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison.md",
+    "wiki/implants/isq/andersson-2019-rfa-factors-5year-neoss-survival.md",
+    "wiki/bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric.md",
+    "wiki/bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation.md",
+    "wiki/sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.md"
+  ],
+  "questions": [
+    { "q": "Osstell과 Osseo 두 ISQ 측정 기기에 대한 설명으로 옳은 것은?",
+      "opts": ["항상 같은 값을 준다", "서로 다른 값을 줄 수 있어 기기를 통일해야 한다", "Osseo가 항상 더 정확하다", "둘 다 침습적 측정이다"],
+      "ans": 1,
+      "rat": "Bavetta 2024: 두 기기(자기장 SmartPeg vs 전자기 sensor)는 서로 다른 ISQ 값을 준다 — 클리닉 내 기기 통일 필요.",
+      "cite": "implants/isq/bavetta-2024-isq-osstell-osseo-device-comparison" },
+    { "q": "4방향 ISQ 측정 중 1개 방향이 평균과 크게 차이 날 때 우리 클리닉 SOP는?",
+      "opts": ["평균만 차트에 기록하고 넘어간다", "재측정 후 원장 보고", "환자에게 바로 설명한다", "무시하고 다음 시점까지 대기"],
+      "ans": 1,
+      "rat": "4방향 중 1방향만 크게 낮으면 그 방향 골 결손 의심 — 재측정 + 원장 보고가 SOP.",
+      "cite": "implants/isq/andersson-2019-rfa-factors-5year-neoss-survival" },
+    { "q": "식립 직후 ISQ가 65 미만일 때 우리 클리닉 정책은?",
+      "opts": ["즉시 부하 진행", "부하 보류, 원장 즉시 보고", "위생사 판단으로 healing 기간 결정", "다음 내원까지 대기"],
+      "ans": 1,
+      "rat": "시점별 임계값 SOP: 식립 직후 ISQ <65는 부하 보류 + 원장 즉시 보고 대상.",
+      "cite": "implants/isq/andersson-2019-rfa-factors-5year-neoss-survival" },
+    { "q": "Manfro 2013 동물실험에서 12주 신생골 형성량이 Bio-Oss와 가장 유사했던 이종골 제품은?",
+      "opts": ["Gen-Ox", "Bone-Fill", "혈병 단독", "제품 간 차이 없음"],
+      "ans": 1,
+      "rat": "Bio-Oss 9.32mm² vs Bone-Fill 9.01mm²(거의 동등), Gen-Ox는 1/3 수준(3.02mm²)로 크게 열등 — 이종골이 다 같지 않다는 근거.",
+      "cite": "bone-regeneration/manfro-2013-bovine-bone-substitutes-comparative-histomorphometric" },
+    { "q": "Signoriello 2025(Bio-Oss+황산칼슘 hybrid vs Bio-Oss 단독) 4개월 결과에서 유의하게 개선된 것은?",
+      "opts": ["무세포골 비율 증가", "생활골(vital bone) 비율 증가", "이식재 흡수 지연", "차이 없음"],
+      "ans": 1,
+      "rat": "hybrid군 생활골 62.5% vs 단독군 31.25%(p<0.05), 무세포골은 반대로 hybrid군이 더 낮음(5% vs 32.91%).",
+      "cite": "bone-regeneration/signoriello-2025-dbbm-calcium-sulphate-socket-preservation" }
+  ]
+}
