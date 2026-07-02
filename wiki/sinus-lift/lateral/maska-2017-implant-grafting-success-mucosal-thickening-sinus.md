@@ -12,7 +12,7 @@ confidence: retrospective
 source_collection: pubmed-text
 tags: [mucosal-thickening, implant-survival, sinus-lift, periodontal-disease, CBCT, thickening-index]
 relations:
-  - type: reinforces
+  - type: contradicts
     target: sinus-lift/lateral/akbari-2022-maxillary-sinus-mucosal-thickening-ridge-height
   - type: reinforces
     target: sinus-lift/lateral/khalil-2024-posterior-maxillary-teeth-sinus-mucosal-thickening
