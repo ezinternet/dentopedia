@@ -126,3 +126,4 @@ For a dental practice translating this evidence into operating procedure:
 - [[behavioral-dentistry/body-dysmorphic-disorder/nabavizadeh-2023-prevalence-of-body-dysmorphic-disorder]] — adjacent (upstream): BDD as a patient-selection driver of esthetic-procedure dissatisfaction that feeds the complaint/litigation tail.
 - [[behavioral-dentistry/communication-relationship/ho-2025-overview-dentist-patient-communication-quality]] — adjacent: dentist–patient communication quality.
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — adjacent: Korean dental legal/regulatory context.
+- [[overviews/patient-safety-culture-dentistry-overview]] — upstream: "fix the system, not the sentence" — safety culture, teamwork, and non-punitive reporting are the structural preconditions that keep complaints from recurring.
