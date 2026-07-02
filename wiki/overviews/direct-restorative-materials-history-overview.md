@@ -1,0 +1,119 @@
+---
+title: "치과 직접충전재 발달사 — Silicate·Amalgam에서 Composite·Glass Ionomer·Bioactive까지 (Overview)"
+authors: Synthesis
+year: 2026
+date: 2026-07-03
+confidence: synthesis
+category: [overviews]
+source_collection: synthesis
+tags: [history, direct-restorative, amalgam, composite-resin, glass-ionomer, bis-gma, bowen, acid-etch, light-curing, bulk-fill, bioactive, alkasite, adhesive-evolution]
+relations:
+  - type: extends
+    target: ferracane-2024-historical-perspective-dental-composite-restorative
+  - type: reinforces
+    target: ge-2024-gic-clinical-application-restorative-preventive
+  - type: reinforces
+    target: breschi-2025-adhesive-dentistry-evolution-review
+---
+
+> [!summary] 한국어 핵심요약
+> - **큰 그림**: 직접충전재(direct restorative material)의 역사는 세 흐름이 얽혀 있다 — ① 심미·수복 흐름(silicate → PMMA → 복합레진(composite resin)), ② 구치부 내구성 흐름(아말감(amalgam)의 100년 지배와 퇴장), ③ 생리활성·불소 흐름(글래스아이오노머(Glass Ionomer, GIC) → alkasite → bioactive resin).
+> - **창시 도약**: Bowen의 **Bis-GMA (1962 특허)** + Buonocore의 **산부식(acid-etch)** 이 심미 직접수복의 출발점. 이전 PMMA 아크릴(1950s)은 수축·독성·약함으로 실패.
+> - **광중합 계보**: 화학중합 → UV(~1970) → 가시광 camphorquinone(CQ, 1970s말) → QTH → **LED(2000년대 중반 주류화)** 로 진화 (Ferracane 2024).
+> - **수축 문제의 재정의**: 문제는 수축량이 아니라 **중합수축 응력(polymerization shrinkage stress)**. 저수축 monomer(silorane·ormocer)는 "동등할 뿐 우월하지 않았다" (Ferracane, Magno, Kruly).
+> - **Bulk-fill(2010년대 초)**: 4–5 mm 일괄 광중합. 임상 성적은 conventional과 대체로 동등 (Silva, Boaro).
+> - **아말감의 퇴장**: 임상 성적은 여전히 경쟁력 있음 — 아말감 중앙생존 >16년 vs 레진 ~11년(Bhagwat), 대규모 real-world 연간실패 3.5% vs 4.5%(Tobias, HR 1.29, **단면 수복은 차이 없음**), Cochrane·SR은 5년 생존 유사(Worthington, Al-Sulimman RR 0.96 NS). 퇴장의 주동력은 성능이 아니라 **미나마타 협약(Minamata Convention) 수은 규제**.
+> - **GIC 계보**: 상아질과의 **화학적 접착 + 지속적 불소 유리 + 상아질에 가까운 열팽창계수**가 정체성. CGIC/HVGIC/RMGIC로 분화, HVGIC는 비외과적 수복(ART)의 핵심. **WHO 2021 필수의약품 등재** (Ge 2024).
+> - **접착의 70년**: etch-and-rinse(EAR) → self-etch(SE) → universal adhesive. 단 "universal은 진정 만능이 아니며 술자 의존적"이고, 하이브리드층(hybrid layer)은 가수분해·내인성 MMP로 분해된다 (Breschi 2025).
+> - **현재 프론티어**: bioactive resin(항균 monomer·이온 유리·remineralization)과 alkasite(Cention N). **In-vitro 유망하나 임상적 우월성은 미입증** (Melo, Lee) — 최근 30년 "발전"의 다수는 임상 우월이 아니라 **술식 편의·심미** 개선이었다는 것이 발달사의 핵심 교훈.
+> - **임상 함의**: "신소재 = 더 나은 결과"가 아니다. 재료 선택은 여전히 우식위험·격리 가능성·와동 크기·심미 요구로 결정하며, 술식 통제(격리·접착 프로토콜)가 재료 세대차보다 결과를 더 좌우한다.
+
+## One-line Summary
+
+Synthesis of the wiki's material-science and clinical pages tracing the history of **direct dental restoratives** along three intertwined lineages — the esthetic line (silicate → PMMA → Bis-GMA composite, from Bowen 1962 and acid-etch through light-curing, low-shrinkage monomers and bulk-fill to bioactive resins), the posterior-durability line (amalgam's century-long dominance and its regulation-driven, not performance-driven, phase-out under the Minamata Convention), and the fluoride/bioactive line (glass ionomer's chemical adhesion and fluoride release, alkasites, and bioactive composites) — with the recurring lesson that most recent "advances" delivered handling/esthetic gains and clinical *equivalence* rather than demonstrated superiority.
+
+## 한줄요약
+
+위키의 재료과학·임상 페이지를 종합해 직접충전재의 역사를 세 계보로 정리 — 심미선(silicate→PMMA→Bis-GMA 복합레진, Bowen 1962·산부식→광중합→저수축→bulk-fill→bioactive), 구치부 내구선(아말감의 100년 지배와 성능이 아닌 미나마타 수은규제에 의한 퇴장), 불소·생리활성선(GIC의 화학접착·불소유리, alkasite, bioactive composite). 반복되는 교훈: 최근 "발전"의 다수는 임상 우월이 아니라 술식·심미 개선이며 임상 성적은 대체로 동등.
+
+## Summary
+
+The direct-restorative material record in this wiki is best read not as a single ladder but as **three parallel lineages that periodically converge**:
+
+1. **Esthetic / tooth-colored line** — silicate cements → PMMA acrylics (1950s) → **Bis-GMA composite (Bowen, 1962)** and its half-century of refinement.
+2. **Posterior-durability line** — dental **amalgam**, the ~century-long posterior workhorse, now in a regulation-driven phase-down.
+3. **Fluoride / bioactive line** — **glass ionomer cement (GIC)** with its chemical adhesion and fluoride release, and the newer **alkasite** and **bioactive-resin** frontier.
+
+The anchor for the esthetic line is Ferracane's 2024 historical-perspective review, which organizes composite evolution along three technical axes — **how polymerization is initiated, the resin monomers, and the reinforcing fillers**. The founding leap was Rafael Bowen's Bis-GMA (US patent, 1962) — a methacrylate–epoxide hybrid stronger and less shrinking than PMMA — paired with Buonocore's phosphoric-acid enamel etch. For decades composites were **anterior-only** while amalgam held the posterior indication; the history is the story of composites gradually *earning* the posterior indication as curing, monomers, and fillers improved.
+
+A recurring, evidence-based caution runs through the whole record: **most celebrated "advances" delivered clinical equivalence, not demonstrated superiority.** Low-shrinkage siloranes/ormocers matched but did not beat conventional methacrylates; bulk-fills perform comparably to incremental placement; bioactive and alkasite materials are promising in vitro but clinically unproven. The genuine drivers of change over the last ~30 years were **handling, placement efficiency, and esthetics** demanded by practitioners — plus external regulatory pressure on mercury — rather than a step-change in restoration survival.
+
+---
+
+## 1. The esthetic line — from silicate to Bis-GMA composite
+
+Before composites, tooth-colored restoration was **anterior-only**: silicate cements, then 1950s **PMMA acrylics** that shrank badly, did not bond, and were weak/toxic. The founding transition (per [[resin/ferracane-2024-historical-perspective-dental-composite-restorative]]):
+
+| Axis | Evolution |
+|---|---|
+| **Founding** | Silicates → PMMA (1950s) → **Bowen's Bis-GMA (1962, patent 3,066,112)** + TEGDMA diluent; Buonocore phosphoric-acid enamel etch enables adhesion |
+| **Initiation** | Self-cure (2-paste) → UV (~1970) → visible-light **camphorquinone (CQ)** + amine (~468 nm, late 1970s–80s) → less-yellow initiators (PPD/BAPO/TPO/Ivocerin) |
+| **Curing lights** | QTH → **LED (dominant by mid-2000s, 420–500 nm)** → laser/PAC/poly-wave |
+| **Monomers (low-shrinkage)** | Large monomers (TCD-urethane), **silorane** ring-opening (Filtek LS), **ormocer** (Admira/Ceram-X) — clinically *equivalent, not superior* |
+| **Bulk-fill (early 2010s)** | 4–5 mm single cure via refractive-index matching + covalent adaptable networks |
+| **Fillers** | Large quartz → 40–50 nm microfill → hybrid → microhybrid → nanohybrid → true nanofill → supra-nanofill / single-shade (Omnichroma); radiolucent → radiopaque Ba/Sr/Zr glass |
+
+Two conceptual take-homes Ferracane stresses: (1) it is **polymerization stress, not shrinkage magnitude**, that opens marginal gaps — quantified in [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] and detailed in [[overviews/resin-polymerization-shrinkage-stress-overview]]; (2) the low-shrinkage "equivalent-not-superior" verdict is confirmed by [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] and [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]]. Bulk-fill's comparable-to-incremental performance is the umbrella/SR verdict of [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] and [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]].
+
+## 2. The posterior-durability line — amalgam's dominance and phase-out
+
+Amalgam framed the entire composite narrative: it was the **posterior standard composites had to displace**. Crucially, our clinical evidence shows amalgam's retreat is **regulatory, not performance-based**:
+
+| Evidence | Finding |
+|---|---|
+| [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] (Cochrane SR+MA) | 5-year survival **similar**; composite trends slightly higher for secondary caries (non-inferiority uncertain) |
+| [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] (SR+MA, 13 studies) | Failure risk **RR 0.96 (0.68–1.34), NS** |
+| [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] (real-world, >650k patients) | Amalgam 3.5% vs composite 4.5% annual failure (**HR 1.29**); driven by multi-surface — **single-surface no difference** |
+| [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] (SR) | Amalgam median survival **>16 y** vs composite **~11 y**, but gap **narrowing** post-2015 |
+
+The through-line: amalgam still holds or beats composite on raw longevity (especially multi-surface, high-caries-risk), yet is being phased out because of the **Minamata Convention** mercury restrictions — an environmental/health driver, not a clinical-failure one. Secondary caries, not the material's mechanics, is composite's dominant failure mode.
+
+## 3. The fluoride / bioactive line — GIC, alkasite, bioactive resin
+
+The third lineage answered a need neither amalgam nor early composite met: **chemical adhesion to tooth + fluoride release + a thermal expansion close to dentin**. Per [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]], GIC diversified into:
+
+- **CGIC** (conventional), **HVGIC** (high-viscosity — the backbone of Atraumatic Restorative Treatment, ART), **RMGIC** (resin-modified).
+- Institutional inflection: **WHO added GIC to the Model List of Essential Medicines (2021)**, and the same Minamata amalgam phase-down that pressures amalgam is expected to *increase* GIC use.
+- Longevity is real but modest and unevenly evidenced — the umbrella review [[glass-ionomer/panetta-2024-gic-longevity-umbrella-review]] (13 SRs, follow-up 6 mo–6 y) flags weak methodological quality across the base. Clinical decision framing lives in [[overviews/glass-ionomer-clinical-decision-overview]].
+
+The **current frontier** re-converges the lines — resins that behave "bioactively" like GIC:
+- **Alkasite (Cention N)**: [[dental-materials/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] shows GIC-like sustained fluoride + highest pH in vitro, but *lower* antibacterial effect than Fuji IX GP — GIC-like, not GIC-beating.
+- **Bioactive resins**: [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] reviews antimicrobial monomers (MDPB is the only commercial one), QAMs, and NACP remineralizing fillers — >20 years of bench work, with agglomeration, color change, and mechanical loss still blocking clinical translation. This is exactly the "bioactivity" agenda Ferracane's history closes on.
+
+## 4. The connective tissue — adhesive evolution
+
+None of the tooth-colored lines work without adhesion, whose own 70-year arc is synthesized in [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]]: **etch-and-rinse (EAR) → self-etch (SE) → universal adhesives**, with the sober conclusion that "universal" adhesives are *not truly universal* and remain operator-dependent, and that the hybrid layer degrades via hydrolysis and endogenous MMPs/cathepsins (durability strategies in [[overviews/resin-dentin-bond-durability-degradation-overview]] and placement guidance in [[overviews/direct-resin-restoration-adhesion-placement-overview]]). The German S3 guideline [[resin/sekundo-2024-direct-composite-restorations-permanent-teeth]] operationalizes this: enamel phosphoric-acid etch, prefer 2-step SE / 3-step EAR / universal, rubber-dam isolation for longevity.
+
+## 5. The meta-lesson of the history
+
+Across all three lines, the wiki's evidence converges on one theme Ferracane states outright and the clinical SRs confirm: **the last three decades delivered equivalence, not superiority.** Low-shrinkage monomers, bulk-fills, self-adhesive and bioactive materials mostly matched — rather than beat — their predecessors on survival. What genuinely changed was **placement efficiency, handling, and esthetics** (practitioner-demand-driven), plus **external regulation** (mercury) redistributing market share toward composite and GIC. For clinical decisions this means the operative variables — caries risk, isolation, cavity size/surfaces, esthetic demand, and *technique control* — outweigh the choice of material "generation." The material-selection logic itself is laid out in [[overviews/dental-materials-decision-ladder]].
+
+## Related Papers
+
+**Esthetic line (composite)**
+- [[resin/ferracane-2024-historical-perspective-dental-composite-restorative]] — the chronological backbone (initiator/monomer/filler axes)
+- [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] · [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] · [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — shrinkage-stress & "equivalent-not-superior" evidence
+- [[resin/silva-2023-bulk-fill-vs-conventional-resins-umbrella]] · [[resin/boaro-2019-bulk-fill-composites-clinical-properties-sr-ma]] — bulk-fill milestone
+- [[resin/sekundo-2024-direct-composite-restorations-permanent-teeth]] — S3 placement guideline
+
+**Posterior-durability line (amalgam)**
+- [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] · [[dental-materials/al-sulimman-2025-composite-amalgam-failure-risk-sr-ma]] · [[dental-materials/tobias-2024-amalgam-composite-survival-big-data]] · [[dental-materials/bhagwat-2025-amalgam-composite-posterior-longevity-sr]] — amalgam vs composite survival evidence
+
+**Fluoride / bioactive line (GIC & beyond)**
+- [[glass-ionomer/ge-2024-gic-clinical-application-restorative-preventive]] · [[glass-ionomer/panetta-2024-gic-longevity-umbrella-review]] — GIC composition classes & longevity
+- [[dental-materials/lee-2023-alkasite-glass-ionomer-fluoride-antibacterial]] — alkasite (Cention N)
+- [[resin/melo-2023-bioactive-dental-resins-restorative-dentistry]] — bioactive-resin frontier
+
+**Adhesion & decision**
+- [[resin-bonding/breschi-2025-adhesive-dentistry-evolution-review]] — 70-year adhesive evolution
+- [[overviews/direct-resin-restoration-adhesion-placement-overview]] · [[overviews/resin-dentin-bond-durability-degradation-overview]] · [[overviews/resin-polymerization-shrinkage-stress-overview]] · [[overviews/glass-ionomer-clinical-decision-overview]] · [[overviews/dental-materials-decision-ladder]] — sibling overviews
