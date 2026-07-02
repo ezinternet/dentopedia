@@ -1,0 +1,71 @@
+1. Introduction
+
+Resin-based composites (RBCs) are among the most commonly used materials for direct tooth restorations. Their well-known advantages, such as ease of handling, strong adhesion, and excellent aesthetic qualities, are counterbalanced by certain limitations, including polymerization shrinkage and the potential release of toxic or allergenic monomers. For many years, extensive research has focused on evaluating the long-term stability of the polymer network under the challenging conditions of the oral environment. Increasing attention has been directed toward the fact that the physicochemical properties of composite materials depend not only on their chemical composition but also on the techniques employed during placement and polymerization. These materials are highly technique-sensitive, and even minor deviations during the restorative procedure may lead to a compromised filling, reduced mechanical performance, or an increased risk of pulpal irritation and postoperative complications. An undisputed key indicator of the quality and performance of RBCs is the degree of conversion (DC)-that is, the percentage of carbon-carbon double bonds in the monomer that are converted into single bonds during polymerization. The DC directly influences the physical and biological properties of the final restoration, including hardness, strength, polymerization shrinkage, color stability, and biocompatibility.
+
+The process of RBC polymerization is influenced by numerous factors, including the composition and optical properties of the resin (type of monomers, fillers, and pigments), the method of application, and the parameters of the curing light, such as light intensity (irradiance), exposure duration, polymerization mode, and, critically, the distance between the light-curing tip and the composite surface.
+
+Numerous studies have shown that increasing the distance between the light source and the composite surface may adversely affect the quality of polymerization, particularly in deeper or less accessible areas of the restoration. Furthermore, the quality of polymerization also depends on the curing mode, including the type of light source (LED or halogen), irradiance, exposure time, and polymerization protocol (e.g., incremental vs. bulk-fill techniques). In clinical practice, the curing light tip is often positioned at a certain distance from the composite surface rather than in direct contact. This increased separation may result in incomplete polymerization, which can compromise the longevity of restorations and lead to defects such as porosity, reduced hardness, greater polymerization shrinkage, monomer release, and even microleakage. Moreover, increased distance from the curing light tip correlates with altered post-gel volumetric shrinkage and non-uniform shrinkage strain distribution within the RBC.
+
+Despite the clear recommendations to polymerize the material from the shortest possible distance, there are clinical situations in which this is not feasible. This primarily applies to Class II cavities located on the proximal surfaces of posterior teeth. The depth of these cavities often ranges from 3 to 6 millimeters, with the additional height of the surrounding cusps (1-2 mm) further increasing the distance. As a result, the resin-based composite can be polymerized from a distance greater than 4-6 mm.
+
+In response to these clinical challenges, curing light manufacturers have introduced various exposure modes. Research has indicated the advantages of the soft-start mode over other curing protocols, said to reduce polymerization shrinkage stresses compared with the standard mode. However, prior research by these authors showed that soft-start mode was the least resistant to increasing distance.
+
+Despite extensive research on resin-based composite polymerization, most previous studies have evaluated either curing distance or exposure mode independently, often focusing on a single composite type. Limited evidence is available regarding the combined influence of curing distance, exposure mode, and material composition on the degree of conversion at different depths within the restoration.
+
+Therefore, this study aimed to evaluate the effect of the distance between the curing light source and the composite surface on the degree of conversion of various RBCs under different polymerization exposure modes.
+
+2. Materials and Methods
+
+2.1. Tested Materials and Light-Curing Protocols
+
+In this in vitro study, three dental restorative materials were used: an aesthetic nanohybrid composite typically used for anterior restorations (Evetric), a bulk-fill composite designed for posterior teeth (Filtek One Bulk Fill), and a multipurpose flowable composite (G-aenial Universal Flo). Three types of light-curing protocols were applied. A total of 27 experimental groups were created, consisting of three types of RBCs, each cured using three different exposure modes and at three distances.
+
+2.2. Specimen Preparation
+
+All specimen preparation was performed by a single operator to minimize variability. A total of 81 composite specimens (4 mm in diameter and 2 mm in height) were prepared, with three samples per experimental group. Each specimen was light-cured for 20 s using one of three curing modes (Woodpecker LED.H, Guilin Woodpecker Medical Instrument Co., Guilin, China):
+
+A. Standard mode, LED works at full power, 1000 mW/cm2.
+B. Soft start mode, LED turns from weak to stronger and reaches the highest power in 5 s.
+C. Pulse mode, LED pulsating between 850-1000 mW/cm2 in 2 s intervals.
+
+The light-curing procedure was repeated while gradually increasing the distance between the light-curing unit (LCU) and the composite surface (0, 2, and 4 mm), using spacer rings. Light irradiance measurements were made using a photometer Bluephase Meter II (Ivoclar Vivadent, Glattpark, Switzerland). After polymerization, specimens were stored in light-proof containers filled with distilled and deionized water at 37 +/- 1 degrees C for 24 h to complete the post-polymerization process.
+
+2.3. Degree of Conversion Analysis
+
+DC was determined via Raman spectroscopy using a Labram HR 800 spectrometer (Horiba Jobin Yvon, Villeneuve d'Ascq, France) with a He-Ne laser (632.8 nm) excitation source, measuring the relative intensities of bands at 1639 cm-1 (aliphatic C=C, changes with polymerization) and 1609 cm-1 (aromatic C=C, internal standard, intensity conserved). Spectra were recorded from top and bottom surfaces of each sample and fitted/deconvoluted using Fityk 1.3.1 software with a Lorentzian peak-shape function.
+
+2.4. Statistical Analysis
+
+Degrees of conversion were analyzed using a three-way ANOVA with interaction terms, separately for top and bottom surfaces, with factors: material type (3 levels), exposure mode (3 levels), and distance from the curing tip (3 levels). Tukey post hoc tests were used, alpha = 0.05 (Statistica 13.3, Statsoft, Cracow, Poland).
+
+3. Results
+
+The DC differed significantly depending on the evaluated factors and the measurement location within the samples (top vs. bottom). For measurements taken at the top of the samples, material type had a highly significant effect on DC (p < 0.001). Distance also showed a statistically significant influence (p = 0.049), whereas exposure mode did not significantly affect DC at the top surface (p = 0.391). None of the two-way or three-way interactions reached statistical significance for top measurements.
+
+At the bottom of the samples, material type again had a significant effect on DC (p < 0.001). In contrast to the top surface, exposure mode significantly influenced DC at the bottom (p = 0.032), while distance did not reach statistical significance (p = 0.068). No significant interactions between material, exposure mode, and distance were detected for bottom measurements.
+
+Across all experimental conditions, DC was generally higher at the top of the samples than the bottom, consistent regardless of material type, exposure mode, or irradiation distance.
+
+The flowable RBC (G-aenial Universal Flo) achieved the highest DC at the top of the specimen, reaching 74%; at the bottom, DC exceeded 60%. The bulk-fill composite (Filtek One Bulk Fill) exhibited the lowest conversion among all tested materials: top DC above 55% but bottom DC did not exceed 45%, failing to reach the suggested minimum clinically acceptable threshold of ~55% at the bottom. Evetric (nanohybrid) yielded intermediate results.
+
+The soft-start mode was most effective for polymerizing the top surface (69% at top, 56% at bottom) and only slightly inferior to the standard mode at the bottom surface (67% top, 57% bottom in standard mode). Increasing distance from 0 to 4 mm resulted in a sufficient DC at the top of the specimen (nearly 70% at 2 mm, ~60% at 4 mm). The pulse mode provided acceptable light intensity for effective polymerization at the top even at increased distances, but DC values obtained with pulse mode were the lowest among all tested exposure protocols overall - suggesting cautious use in deep cavities with vital pulp where reduced risk of pulp overheating may be desired.
+
+4. Discussion
+
+In a previous study by the same authors, increasing distance most strongly affected the soft mode, causing a significant decrease in light irradiance measured by a photometer: in standard mode, ~996 mW/cm2 reaches the sample at 2 mm and 906 mW/cm2 at 4 mm; for soft-start, 985 and 884 mW/cm2; for pulse, 993 and 893 mW/cm2, respectively. However, that study only measured light energy reaching a radiometer surface, not actual conversion within a composite specimen - motivating the present three-dimensional DC mapping study using Raman spectroscopy.
+
+The flowable RBC, containing the least filler (and low-viscosity monomers such as TEGDMA and BisMPEPP/BisEMA-type), had the highest DC, consistent with enhanced resin matrix mobility and free radical diffusion during polymerization. Bulk-fill had the lowest DC, confirming prior observations that bulk-fill materials' increased layer thickness (up to 4 mm) makes them particularly sensitive to increasing curing distance - special attention is warranted to ensure adequate polymerization at the bottom of thick increments.
+
+Numerous studies suggest optimal monomer conversion typically ranges between 52% and 75%, though the literature lacks a clearly defined, clinically acceptable minimum threshold; conversion values below 55% may be insufficient for occlusal surfaces under high masticatory loads.
+
+Limitations and Future Directions
+
+This in vitro study cannot fully replicate the oral environment (operator technique, saliva, pH, temperature variations). Only curing distances of 2 mm and 4 mm were evaluated, though clinical posterior restoration depths may exceed 4 mm. Sample size was intentionally small (preliminary/pilot design, n=3 per group), no a priori power analysis was performed, limiting statistical power and generalizability; formal normality/variance tests have limited reliability at this sample size, so the analysis should be interpreted as exploratory. Radiant exposure was not directly quantified at each curing distance/mode; only a single increment thickness was assessed. Without a rigid surface during curing, the flexible Mylar strip may have allowed oxygen diffusion, creating a partially inhibited zone affecting top-surface conversion at regions of poor contact. Physicochemical/mechanical properties were not evaluated, and DC was not correlated with microhardness or flexural strength. Potential bias in Raman spectral fitting parameters cannot be excluded; no thermal measurements or aging protocols were conducted.
+
+5. Conclusions
+
+Both curing distance and exposure mode significantly influence the polymerization efficiency of resin-based composites, and this effect depends on material type. Minimizing the distance between the light source and composite surface improves DC, and selecting an appropriate exposure mode can partially compensate for increased distance. Clinicians should consider these factors, especially with bulk-fill materials in thick increments, to optimize the mechanical properties and longevity of composite restorations. Future studies should include larger sample sizes with appropriate power calculations, evaluate thicker (e.g., 4 mm) bulk-fill increments, directly measure delivered radiant exposure, correlate DC with mechanical/thermal properties, and incorporate aging protocols.
+
+Clinical Significance
+
+The use of a flowable liner in deep cavities, combined with a standard curing mode, appears to provide the highest degree of conversion. Due to the relatively low degree of conversion observed, clinicians should exercise caution when using bulk-fill materials in thick increments.
