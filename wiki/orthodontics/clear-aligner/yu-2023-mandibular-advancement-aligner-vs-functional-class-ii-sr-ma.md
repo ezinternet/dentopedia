@@ -12,6 +12,8 @@ full_text: false
 pmid: "37277797"
 pmcid: "PMC10317854"
 source_url: https://pmc.ncbi.nlm.nih.gov/articles/PMC10317854/
+superseded_by: huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma
+superseded_scope: partial
 text_path: /Users/oracleneo/llm-wiki/papers/yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.txt
 text_filename: yu-2023-mandibular-advancement-aligner-vs-functional-class-ii-sr-ma.txt
 tags: [clear-aligner, mandibular-advancement, functional-appliance, class-ii, cephalometric, ramus-growth, meta-analysis]
@@ -21,6 +23,9 @@ relations:
   - type: applies-to
     target: yassir-2022-cat-vs-fat-overview-systematic-reviews
 ---
+
+> [!note] Partially superseded → [[huang-2026-clear-aligner-mandibular-advancement-vs-functional-class-ii-sr-ma]]
+> A larger, newer, full-text SR+MA (n=465 vs 283) on the identical CAMA-vs-functional-appliance question found no significant difference in *any* skeletal parameter, softening this page's central caveat that aligners produce less mandibular ramus growth (Co-Go −1.10 mm). This abstract-only page retains standalone value for the ramus-growth signal and its Chinese-language trials. Prefer Huang 2026 for current decisions. (set 2026-07-03)
 
 ## One-line Summary
 
