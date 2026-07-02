@@ -1,0 +1,342 @@
+<!--
+---
+title: "ParaPost 포스트 선택 결정 + 식립·합착 과정 (Post Selection & ParaPost Placement)"
+type: interactive
+date: 2026-07-02
+status: done
+category: post-and-core
+agenda: agenda/2026-07-02_parapost-decision-placement-interactive.md
+source_wiki:
+  - wiki/overviews/post-and-core-fiber-post-decision-overview.md
+  - wiki/post-and-core/rezaei-2010-comparison-stresses-fiber-parapost-casting.md
+  - wiki/post-and-core/izadi-2020-core-materials-fracture-resistance-parapost.md
+  - wiki/post-and-core/goutam-2022-luxacore-photocore-coremax-fracture-parapost.md
+  - wiki/post-and-core/alkahtani-2010-root-canal-sealers-timing-parapost.md
+  - wiki/post-and-core/wang-2019-fiber-posts-vs-metal-posts-severely-damaged.md
+  - wiki/post-and-core/naumann-2017-ferrule-first-post-second-systematic-review.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ParaPost 포스트 선택 + 식립·합착 과정</title>
+<style>
+  :root {
+    --bg: #f4f6f9;
+    --card: #ffffff;
+    --ink: #1a1a2e;
+    --muted: #5a6478;
+    --line: #e2e7ef;
+    --accent: #2563a8;
+    --accent-soft: #e5eefa;
+    --fiber: #1f7a6b;
+    --fiber-soft: #e3f3ef;
+    --warn: #b4452b;
+    --warn-soft: #fbe9e4;
+    --gold: #b8860b;
+    --gold-soft: #fbf2dc;
+    --shadow: 0 2px 10px rgba(20,30,55,.07);
+  }
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body {
+    font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans KR', 'Segoe UI', sans-serif;
+    background: var(--bg); color: var(--ink);
+    padding: 22px 16px 60px; min-height: 100vh; line-height: 1.55;
+  }
+  .container { max-width: 780px; margin: 0 auto; }
+  header h1 { font-size: 1.45rem; letter-spacing: -.02em; }
+  header p { color: var(--muted); font-size: .9rem; margin-top: 6px; }
+  .tabs { display:flex; gap:8px; margin: 20px 0 18px; }
+  .tab {
+    flex:1; text-align:center; padding:11px 10px; border:1.5px solid var(--line); border-radius:11px;
+    background:var(--card); cursor:pointer; font-size:.92rem; font-weight:700; color:var(--muted); transition:all .14s;
+  }
+  .tab.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); }
+  .tab:hover { border-color:var(--accent); }
+  .view { display:none; }
+  .view.active { display:block; }
+  .crumb { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin: 4px 0 14px; font-size:.82rem; color:var(--muted);}
+  .crumb b { color: var(--accent); }
+  .crumb span.sep { opacity:.5; }
+  .panel { background: var(--card); border:1px solid var(--line); border-radius: 14px; box-shadow: var(--shadow); padding: 20px; }
+  .q { font-size: 1.08rem; font-weight: 700; margin-bottom: 6px; }
+  .qsub { font-size:.85rem; color:var(--muted); margin-bottom:16px; }
+  .opts { display: grid; gap: 11px; }
+  .opt {
+    text-align: left; background: var(--card); border:1.5px solid var(--line);
+    border-radius: 11px; padding: 15px 16px; cursor: pointer; transition: all .14s;
+    font-size: .96rem; color: var(--ink); display:flex; flex-direction:column; gap:3px;
+  }
+  .opt:hover { border-color: var(--accent); background: var(--accent-soft); transform: translateY(-1px); }
+  .opt b { font-size: 1rem; }
+  .opt small { color: var(--muted); font-size:.83rem; }
+  .opt .ic { font-size:1.1rem; margin-right:4px; }
+  button.back {
+    margin-bottom: 14px; background:none; border:1px solid var(--line); border-radius:8px;
+    padding:7px 13px; cursor:pointer; color:var(--muted); font-size:.85rem; transition:all .14s;
+  }
+  button.back:hover { border-color:var(--accent); color:var(--accent); }
+  .rec { border-left: 5px solid var(--fiber); background: var(--fiber-soft); border-radius: 10px; padding: 16px 18px; margin-bottom: 14px; }
+  .rec.metal { border-left-color: var(--gold); background: var(--gold-soft); }
+  .rec.nopost { border-left-color: var(--accent); background: var(--accent-soft); }
+  .rec .tag { display:inline-block; background:var(--fiber); color:#fff; font-size:.72rem; font-weight:700; padding:3px 9px; border-radius:20px; letter-spacing:.02em; }
+  .rec.metal .tag { background: var(--gold); }
+  .rec.nopost .tag { background: var(--accent); }
+  .rec h2 { font-size:1.15rem; margin:10px 0 6px; }
+  .rec p { font-size:.93rem; }
+  .block { background:var(--card); border:1px solid var(--line); border-radius:10px; padding:14px 16px; margin-bottom:12px; }
+  .block h3 { font-size:.82rem; text-transform:uppercase; letter-spacing:.06em; color:var(--muted); margin-bottom:8px; }
+  .block ul { margin:0; padding-left:18px; }
+  .block li { font-size:.92rem; margin-bottom:5px; }
+  .caution { border-left:4px solid var(--warn); background:var(--warn-soft); }
+  .caution h3 { color:var(--warn); }
+  .cite { font-size:.79rem; color:var(--muted); }
+  .cite b { color:var(--ink); }
+  .goto { display:inline-block; margin-top:8px; font-size:.85rem; color:var(--accent); cursor:pointer; text-decoration:underline; }
+  /* stepper */
+  .step { position:relative; padding:0 0 6px 46px; margin-bottom:4px; }
+  .step:before {
+    content: attr(data-n); position:absolute; left:0; top:0;
+    width:30px; height:30px; border-radius:50%; background:var(--accent); color:#fff;
+    display:flex; align-items:center; justify-content:center; font-weight:700; font-size:.9rem;
+  }
+  .step:after {
+    content:''; position:absolute; left:15px; top:32px; bottom:-6px; width:2px; background:var(--line);
+  }
+  .step:last-child:after { display:none; }
+  .step .card2 { background:var(--card); border:1px solid var(--line); border-radius:11px; padding:13px 15px; box-shadow:var(--shadow); }
+  .step h4 { font-size:1rem; margin-bottom:5px; }
+  .step p { font-size:.9rem; color:var(--ink); margin-bottom:6px; }
+  .step .tip { font-size:.84rem; background:var(--fiber-soft); border-radius:8px; padding:7px 10px; color:#155; margin-bottom:6px; }
+  .step .tip b { color:var(--fiber); }
+  .step .src { font-size:.76rem; color:var(--muted); }
+  .step .src b { color:var(--ink); }
+  .warnbox { border:1.5px solid var(--warn); background:var(--warn-soft); border-radius:11px; padding:14px 16px; margin: 14px 0; }
+  .warnbox h3 { color:var(--warn); font-size:.95rem; margin-bottom:8px; }
+  .warnbox p, .warnbox li { font-size:.88rem; }
+  .warnbox ul { padding-left:18px; margin-top:6px; }
+  .evidence-note { font-size:.82rem; color:var(--muted); font-style:italic; margin:14px 0 0; padding:10px 12px; background:#eef1f6; border-radius:8px; }
+  footer { margin-top:24px; font-size:.76rem; color:var(--muted); border-top:1px solid var(--line); padding-top:14px; }
+  footer a { color:var(--accent); text-decoration:none; }
+  .miniflow { display:flex; flex-wrap:wrap; gap:6px; align-items:center; margin:10px 0 4px; font-size:.8rem; }
+  .miniflow span { background:var(--accent-soft); color:var(--accent); padding:4px 9px; border-radius:8px; font-weight:600; }
+  .miniflow i { color:var(--muted); font-style:normal; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>ParaPost 포스트 선택 + 식립·합착 과정</h1>
+    <p>근관치료치(ETT) 포스트 결정 — 파이버 vs 금속(ParaPost) · 근거 기반 chairside 가이드</p>
+  </header>
+
+  <div class="tabs">
+    <div class="tab active" data-view="decide">① 포스트 선택 결정</div>
+    <div class="tab" data-view="place">② ParaPost 식립·합착 과정</div>
+  </div>
+
+  <!-- ============ VIEW 1: DECISION ============ -->
+  <div class="view active" id="view-decide">
+    <div class="crumb" id="crumb"></div>
+    <div id="app"></div>
+  </div>
+
+  <!-- ============ VIEW 2: PLACEMENT ============ -->
+  <div class="view" id="view-place">
+    <div class="panel" style="margin-bottom:16px;">
+      <div class="q">ParaPost 식립·합착 7단계</div>
+      <div class="qsub">평행측벽 티타늄 vented/serrated 기성 포스트 (Coltène/Whaledent). 아래는 인제스트 논문에 기술된 프로토콜 기반.</div>
+      <div class="miniflow">
+        <span>근관충전</span><i>→</i><span>포스트공간</span><i>→</i><span>시적</span><i>→</i><span>산부식</span><i>→</i><span>레진합착</span><i>→</i><span>코어</span><i>→</i><span>크라운</span>
+      </div>
+    </div>
+
+    <div id="steps"></div>
+
+    <div class="warnbox">
+      <h3>⚠ ParaPost(강성 금속) 사용 시 유의</h3>
+      <p>광탄성상 강성 금속 ParaPost는 응력을 <b>수직하중 시 근단(FO=4)·경사하중 시 치경부(FO=5)</b>에 집중시키는 반면, 파이버·주조 포스트는 고르게 분산(FO=2+)한다 (Rezaei 2010). 파절하중도 FRC 포스트가 유의하게 높다 (<b>397.6 vs 265.6 N, P&lt;0.001</b>, Izadi 2020; 재현 380.1 vs 262.8 N, Goutam 2022).</p>
+      <ul>
+        <li>실패 시 <b>치근파절 → 수복 불가</b> 위험이 파이버보다 크다 → 기본값은 파이버 포스트.</li>
+        <li>ParaPost를 선택하더라도 <b>ferrule 1.5–2 mm 확보</b>가 재료 선택보다 예후에 우선한다 (Naumann 2017; Al-Dabbagh 2024).</li>
+      </ul>
+    </div>
+
+    <div class="evidence-note">
+      ※ 위 식립 단계는 인제스트된 <b>in-vitro 연구</b>(Izadi 2020, Al Kahtani 2010, Rezaei 2010)에 기술된 실험 프로토콜을 재구성한 것으로, 공식 임상 술식 컨센서스 가이드라인이 아닙니다. 제품별 드릴 사이즈·색상코드 등 제조사 세부는 보유 논문에 없어 생략했습니다 (Rule #1: 보유 논문 근거만).
+    </div>
+  </div>
+
+  <footer>
+    핵심 원칙: ETT 수복은 <b>①포스트 필요여부 → ②ferrule 보존 → ③재료</b> 순차 결정이며, 재료 간 생존율은 대체로 통계적 동등(NS)이라 <b>실패양상</b>으로 해석한다.
+    근거 종합: <a href="../wiki/overviews/post-and-core-fiber-post-decision-overview.md">post-and-core-fiber-post-decision-overview</a>.
+    근거수준: in-vitro/FEA 비중 큼 — 효과크기보다 방향성으로 해석.
+  </footer>
+</div>
+
+<script>
+/* ---------------- Tab switching ---------------- */
+document.querySelectorAll('.tab').forEach(t => {
+  t.addEventListener('click', () => showView(t.dataset.view));
+});
+function showView(v){
+  document.querySelectorAll('.tab').forEach(t => t.classList.toggle('active', t.dataset.view===v));
+  document.getElementById('view-decide').classList.toggle('active', v==='decide');
+  document.getElementById('view-place').classList.toggle('active', v==='place');
+  window.scrollTo({top:0, behavior:'smooth'});
+}
+
+/* ---------------- Decision tree ---------------- */
+const NODES = {
+  start: {
+    q: "① 관상부 치질과 ferrule이 얼마나 남았나?",
+    sub: "포스트는 보조물이지 주역이 아니다 — 결정의 무게중심은 잔존 치질·ferrule에 있다.",
+    opts: [
+      { label:"충분한 치질 + 원주형 ferrule 확보 가능", ic:"🟢", sub:"관상부 상당량 잔존, 1.5–2 mm 건전 상아질", go:"nopost" },
+      { label:"관상부 치질 상당 소실 → 포스트로 코어 유지 필요", ic:"🟡", sub:"직접 코어만으로 유지 불충분", go:"walls" }
+    ]
+  },
+  walls: {
+    q: "② 잔존 치벽(coronal wall)은 몇 개인가?",
+    sub: "손상 정도가 재료 선택의 통계적 유의성을 가른다.",
+    opts: [
+      { label:"≤2벽 — 심하게 손상된 치아", ic:"🔴", sub:"가장 어려운 시나리오", result:"fiberStrong" },
+      { label:"≥3벽 — 중등도 손상", ic:"🟠", sub:"치벽 일부 보존", result:"material" }
+    ]
+  }
+};
+const RESULTS = {
+  nopost: {
+    cls:"nopost", tag:"포스트 생략 / 엔도크라운",
+    h:"포스트 없이 진행 또는 엔도크라운 고려",
+    p:"충분한 치질과 ferrule이 남으면 포스트의 독립적 이득이 거의 없다. 전향 임상 8편 중 7편에서 포스트 효과 없음 (Naumann 2017). ferrule이 있으면 전치부 엔도크라운이 post-core-crown과 파절저항 동등 이상이며 실패가 복구 가능하다 (Mously 2025; Lenz 2023).",
+    blocks:[
+      { h:"권고", items:["포스트 생략 후 직접 코어 + 크라운, 또는 엔도크라운(리튬디실리케이트)","ferrule 1.5–2 mm 보존을 최우선으로"] }
+    ],
+    cites:["Naumann 2017 (SR, 7/8편 포스트 무효)","Alenezi 2024 (포스트 이득은 치질소실 조건부)","Mously 2025 · Lenz 2023 (엔도크라운)"]
+  },
+  fiberStrong: {
+    cls:"", tag:"파이버 포스트 (강력 권장)",
+    h:"글라스 파이버 포스트",
+    p:"잔존 치벽 ≤2벽의 심하게 손상된 ETT에서는 파이버 포스트 생존이 금속보다 통계적으로 유의하게 높다 (RR 0.57, 95% CI 0.33–0.97, P=.04; GRADE high). 치근파절률은 차이 없어, '강성 금속이 치근을 보호한다'는 통념과 배치된다.",
+    blocks:[
+      { h:"권고", items:["글라스 파이버 포스트 + 복합레진 코어","레진시멘트 합착, ferrule 최대 보존"] }
+    ],
+    cites:["Wang 2019 (RCT-only SR+MA, 4편, GRADE high)"]
+  },
+  material: {
+    cls:"", tag:"파이버 기본값 (실패양상 근거)",
+    h:"파이버(또는 modulus-정합) 포스트를 기본값으로",
+    p:"전체 스펙트럼에서 글라스파이버와 금속 포스트의 생존율은 통계적으로 동등하다 (92.8% vs 78.1%, NS, Tsintsadze 2022; 15년 RCT 68.5% vs 53.6%, NS, Van Landuyt 2025). 차이는 생존율이 아니라 실패양상 — 금속/강성 포스트는 치근파절로 파국적·수복 불가, 파이버는 복구 가능하게 실패한다.",
+    blocks:[
+      { h:"권고", items:["파이버 포스트 기본값 — 실패 시 치아 회생 가능","코어 재료(Photo Core/LuxaCore/Core Max II)는 파절저항에 무관 → 취급성으로 선택 (Izadi 2020, Goutam 2022)"] }
+    ],
+    cites:["Tsintsadze 2022 · Van Landuyt 2025 (생존 동등, NS)","Rezaei 2010 (금속=응력 집중)","Izadi 2020 / Goutam 2022 (FRC > ParaPost 파절하중)"],
+    metalOption:true
+  }
+};
+
+let history = [];   // node keys visited (for back)
+let choices = [];   // short labels of choices made (for crumb)
+function render(nodeKey){
+  const app = document.getElementById('app');
+  const node = NODES[nodeKey];
+  updateCrumb();
+  let html = '';
+  if(history.length) html += `<button class="back" onclick="goBack()">← 이전</button>`;
+  html += `<div class="panel"><div class="q">${node.q}</div>`;
+  if(node.sub) html += `<div class="qsub">${node.sub}</div>`;
+  html += `<div class="opts">`;
+  node.opts.forEach((o,i) => {
+    html += `<button class="opt" onclick="choose('${nodeKey}',${i})">
+      <b><span class="ic">${o.ic||''}</span>${o.label}</b>${o.sub?`<small>${o.sub}</small>`:''}</button>`;
+  });
+  html += `</div></div>`;
+  app.innerHTML = html;
+}
+function shortLabel(s){ return s.replace(/\s*—.*$/,'').replace(/\s*→.*$/,'').slice(0,16); }
+function choose(nodeKey, i){
+  const o = NODES[nodeKey].opts[i];
+  history.push(nodeKey);
+  choices.push(shortLabel(o.label));
+  if(o.result) renderResult(o.result);
+  else render(o.go);
+}
+function renderResult(key){
+  const r = RESULTS[key];
+  updateCrumb(r.tag);
+  let html = `<button class="back" onclick="goBack()">← 이전</button>`;
+  html += `<div class="rec ${r.cls}"><span class="tag">${r.tag}</span><h2>${r.h}</h2><p>${r.p}</p></div>`;
+  (r.blocks||[]).forEach(b => {
+    html += `<div class="block"><h3>${b.h}</h3><ul>${b.items.map(x=>`<li>${x}</li>`).join('')}</ul></div>`;
+  });
+  if(r.metalOption){
+    html += `<div class="block caution"><h3>ParaPost(금속)를 반드시 써야 한다면</h3>
+      <ul><li>ferrule 확보를 최우선으로, 치근파절 위험을 환자에게 고지</li>
+      <li>식립·합착 절차는 <span class="goto" onclick="showView('place')">② 식립·합착 과정 탭 보기 →</span></li></ul></div>`;
+  }
+  html += `<div class="block"><h3>근거</h3><ul>${r.cites.map(c=>`<li class="cite">${c}</li>`).join('')}</ul></div>`;
+  html += `<button class="back" onclick="restart()">↺ 처음부터</button>`;
+  document.getElementById('app').innerHTML = html;
+}
+function goBack(){ const prev = history.pop(); choices.pop(); render(prev || 'start'); }
+function restart(){ history = []; choices = []; render('start'); }
+function updateCrumb(end){
+  const c = document.getElementById('crumb');
+  let parts = ['<b>포스트 결정</b>'];
+  choices.forEach(ch => parts.push(`<span class="sep">›</span> ${ch}`));
+  if(end) parts.push(`<span class="sep">›</span> <b>${end}</b>`);
+  c.innerHTML = parts.join(' ');
+}
+
+/* ---------------- Placement steps ---------------- */
+const STEPS = [
+  { n:1, h:"근관치료·근관충전 완료",
+    p:"근관 성형(step-back, ISO 40) 후 gutta-percha + sealer로 측방가압 충전.",
+    tip:"<b>비유게놀 sealer(AH26)</b> + <b>충전 직후 즉시 포스트 합착</b>이 미세누출 최소 (유게놀은 레진 중합 방해).",
+    src:"Al Kahtani 2010 · Izadi 2020" },
+  { n:2, h:"포스트 공간 형성",
+    p:"gutta-percha를 제거하되 <b>근단 4–5 mm는 밀폐용으로 남긴다</b>. #2 peeso-reamer로 예비 후 대응 ParaPost 드릴로 평행측벽 공간을 형성 (Izadi에서 #4 드릴, 근관내 12 mm).",
+    tip:"드릴과 포스트는 <b>평행측벽·flat-end</b>로 매칭 — 제조사 지침대로.",
+    src:"Izadi 2020 · Rezaei 2010" },
+  { n:3, h:"포스트 시적 및 길이 조정",
+    p:"티타늄 vented/serrated ParaPost를 시적해 적합·길이 확인. 여분은 occlusal 쪽에서 디스크로 절단 (Izadi: 근관내 12 mm / 밖 3 mm).",
+    tip:"방사선 사진으로 근단 밀폐·포스트 위치 확인.",
+    src:"Izadi 2020" },
+  { n:4, h:"근관벽 표면처리",
+    p:"근관 공간을 <b>37% 인산으로 5초 산부식</b> → 세척으로 오염 제거 → air spray + paper point로 건조.",
+    tip:"과도한 건조/습윤 모두 접착 저하 — 제조사 습윤조건 준수.",
+    src:"Izadi 2020" },
+  { n:5, h:"레진시멘트 합착",
+    p:"<b>Panavia F2/F 이원중합(dual-cure) 레진시멘트</b>로 제조사 지침대로 합착. 인산기 기능성 모노머가 치질에 잘 결합.",
+    tip:"미세누출은 <b>시간 경과에 따라 증가</b>하고 resin–dentin 계면 void가 남는다 → 즉시 합착 + 정확한 시멘트 도포로 void 최소화.",
+    src:"Izadi 2020 · Rezaei 2010 · Al Kahtani 2010" },
+  { n:6, h:"코어 build-up",
+    p:"복합레진 코어(Photo Core / LuxaCore / Core Max II)로 지대치 형성. <b>코어 재료 종류는 파절저항에 유의차 없음</b> → 취급성·경화방식·가용성으로 선택. bonding agent는 소폭(비유의) 향상.",
+    tip:"진짜 파절저항 변수는 코어 재료가 아니라 <b>포스트 종류(파이버 &gt; ParaPost)</b>.",
+    src:"Izadi 2020 · Goutam 2022" },
+  { n:7, h:"최종 보철 (크라운)",
+    p:"full crown 수복. <b>원주형 ferrule 1.5–2 mm 확보가 재료 선택보다 예후에 우선</b>한다.",
+    tip:"포스트 합착부 미세누출은 시간이 지나며 증가하므로, <b>최종 수복이 1차 밀폐 barrier</b> 역할.",
+    src:"Naumann 2017 · Al-Dabbagh 2024 · Al Kahtani 2010" }
+];
+function renderSteps(){
+  document.getElementById('steps').innerHTML = STEPS.map(s => `
+    <div class="step" data-n="${s.n}">
+      <div class="card2">
+        <h4>${s.h}</h4>
+        <p>${s.p}</p>
+        <div class="tip">💡 ${s.tip}</div>
+        <div class="src">📄 <b>${s.src}</b></div>
+      </div>
+    </div>`).join('');
+}
+
+/* init */
+render('start');
+renderSteps();
+</script>
+</body>
+</html>
