@@ -1,5 +1,5 @@
 ---
-title: "임상원칙 100 — 176개 Overview 최상위 증류 (100 Clinical Principles You Actually Use — Master Distillation of All Overviews)"
+title: "임상원칙 100 — 182개 Overview 최상위 증류 (100 Clinical Principles You Actually Use — Master Distillation of All Overviews)"
 authors: Synthesis (Damian Lee)
 year: 2026
 date: 2026-07-01
@@ -33,7 +33,7 @@ source_wiki:
 
 > [!summary] 한국어 핵심요약
 > **■ 이 페이지가 뭔가**
-> - 위키의 **176개 overview를 한 층 더 증류한 최상위 페이지** — "매번 176개를 다 읽을 순 없으니, 체어사이드에서 실제로 쓰는 임상원칙 100개"로 압축한 overview of overviews. 각 원칙은 근거가 된 overview로 wikilink되어 있어, 필요하면 즉시 원문 종합으로 내려간다.
+> - 위키의 **182개 overview를 한 층 더 증류한 최상위 페이지** — "매번 182개를 다 읽을 순 없으니, 체어사이드에서 실제로 쓰는 임상원칙 100개"로 압축한 overview of overviews. 각 원칙은 근거가 된 overview로 wikilink되어 있어, 필요하면 즉시 원문 종합으로 내려간다.
 > - **병기 방식**: 각 원칙은 영어 규칙 1줄(검색·용어 canonical)과 그 아래 **완전한 한글 번역**을 함께 싣는다 — 영어 본문은 그대로, 한국어는 위에 얹는 레이어. 근거등급: 🟢 강함 (SR+MA/일관 RCT) · 🟡 중간 (제한적 RCT/코호트) · 🟠 낮음 (case-dominated/이질적) · ⚪ 기전·합의 (mechanism/consensus, 임상종점 미확립).
 >
 > **■ 도메인별 대표원칙 (한글 1줄 요약 — 상위 ~40개)**
@@ -65,15 +65,15 @@ source_wiki:
 
 ## One-line Summary
 
-A top-level "overview of overviews": the wiki's 176 synthesis pages distilled into 100 chairside-actionable clinical principles across 19 domains, each principle wikilinked to its source overview(s), tagged with an evidence grade (🟢 strong / 🟡 moderate / 🟠 limited / ⚪ mechanism-consensus), and presented bilingually (English rule + full Korean translation side by side), so a clinician can act on the one-line rule and drill down to the full synthesis only when a case hits a decision branch.
+A top-level "overview of overviews": the wiki's 182 synthesis pages distilled into 100 chairside-actionable clinical principles across 19 domains, each principle wikilinked to its source overview(s), tagged with an evidence grade (🟢 strong / 🟡 moderate / 🟠 limited / ⚪ mechanism-consensus), and presented bilingually (English rule + full Korean translation side by side), so a clinician can act on the one-line rule and drill down to the full synthesis only when a case hits a decision branch.
 
 ## 한줄요약
 
-176개 overview를 체어사이드에서 실제로 쓰는 임상원칙 100개로 압축한 최상위 종합 페이지 — 19개 도메인, 각 원칙마다 근거 overview 링크·근거등급 (🟢🟡🟠⚪), 그리고 영어 규칙과 완전한 한글 번역을 병기.
+182개 overview를 체어사이드에서 실제로 쓰는 임상원칙 100개로 압축한 최상위 종합 페이지 — 19개 도메인, 각 원칙마다 근거 overview 링크·근거등급 (🟢🟡🟠⚪), 그리고 영어 규칙과 완전한 한글 번역을 병기.
 
 ## Summary
 
-The wiki holds 176 `wiki/overviews/` synthesis pages. No clinician re-reads 176 pages before a decision. This page is the **compression layer above the decision-ladder overviews** — it lifts each overview's load-bearing clinical thesis into a single actionable rule, then indexes it back to the source so the full conditions, exceptions, and numbers remain one click away.
+The wiki holds 182 `wiki/overviews/` synthesis pages. No clinician re-reads 182 pages before a decision. This page is the **compression layer above the decision-ladder overviews** — it lifts each overview's load-bearing clinical thesis into a single actionable rule, then indexes it back to the source so the full conditions, exceptions, and numbers remain one click away.
 
 **Scope and method.** These 100 principles are selected for *chairside decision value* — the rules you actually apply while treating a patient — not for corpus completeness. They are drawn verbatim in substance from the linked overviews (Rule #1: every claim is grounded in a paper we hold, surfaced through its overview). Domains are weighted by how often they drive a clinical decision, which is why implants, endodontics, restorative, and pharmacology carry the most principles. Meta/mechanism/economics overviews are cited where they change a chairside choice and otherwise left as background in their own pages.
 
@@ -82,6 +82,8 @@ The wiki holds 176 `wiki/overviews/` synthesis pages. No clinician re-reads 176 
 **Evidence grades.** 🟢 strong (SR+MA / consistent RCT), 🟡 moderate (limited RCT / cohort), 🟠 limited (case-dominated / heterogeneous / in-vitro-only), ⚪ mechanism-or-consensus (biologically anchored or expert-agreed, clinical endpoint not established). Grades are as-of this synthesis and update as a living document — when a principle's linked overview is superseded, the grade moves with it.
 
 **How to use.** Read the numbered rule to act; open the `→` linked overview when the case sits on a decision branch (thresholds, phenotype, comorbidity, timing). The rule is the compression; the overview is the expansion.
+
+**Re-verification (2026-07-03).** All 162 unique wikilink targets resolve (0 broken); a spot-check of 11 load-bearing numeric claims (timing survival RR 0.99, ISQ ≥70/≥65 + IT ≥35 Ncm, VPT OR 4.41/3.02, socket loss 3.79 mm, emergence 13× / 32°, PSTD 46%, MB2 47–79%, IAN OR 4.96, HTN 7× / OR 1.10, socket-shield 0.32 vs 1.05) each traced exactly to its source overview. Counts refreshed to the live corpus (182 overviews, 2,000+ papers) and the Appendix extended with five chairside overviews added after first authoring (diabetic immediate implant, IANB accessory innervation, tooth whitening, occlusal veneers, infection control/aerosol).
 
 ---
 
@@ -430,8 +432,12 @@ The 100 above are weighted toward implant/endo/restorative decisions. These phar
    — 한글: 약물관련 악골괴사 (MRONJ) 예방은 항흡수제 치료 *전* 치과적 정리에서 시작한다; 시작 후에는 발치를 피하고 최소침습 술기 + 예방적 항생제 + 추적관찰을 사용하라 (데노수맙 위험은 누적 용량이 구동한다).
 - **Controlled diabetes (HbA1c <7%) is not an implant contraindication; 1:200,000 epinephrine matches 1:100,000** with less cardiovascular load — route drug decisions by the chair decision point, not drug class. 🟢 → [[drug-systemic-disease-dental-management-overview]] · [[drug-clinical-decision-ladder]]
    — 한글: 조절된 당뇨 (당화혈색소 HbA1c <7%) 는 임플란트 금기가 아니다; 1:200,000 에피네프린이 1:100,000과 동등하면서 심혈관 부담이 적다 — 약물 결정은 drug class가 아니라 체어사이드 결정지점으로 route하라.
+- **For a diabetic immediate implant the go/no-go is gated by HbA1c band (<8% / 8–9% / ≥9%) and site — the maxilla carries the significant DM failure signal, the mandible does not; the two governing SR+MAs conflict on maxillary/long-term risk.** 🟡 → [[diabetic-patient-immediate-implant-decision]]
+   — 한글: 당뇨 환자의 즉시식립 go/no-go는 당화혈색소 (HbA1c) 밴드 (<8% / 8–9% / ≥9%) 와 부위로 갈린다 — 유의한 DM 실패 신호는 상악이 지니고 하악은 아니다; 두 주요 SR+MA는 상악/장기 위험에서 진짜로 상충한다.
 - **4% articaine buccal infiltration ≈ lidocaine IANB for mandibular molars; supplementary/combined injections each roughly double success after IANB failure; buffering speeds onset and raises efficacy in pulpitis.** 🟢 → [[mandibular-anesthesia-efficacy-ladder]] · [[buffered-modified-local-anesthetics-overview]]
    — 한글: 하악 대구치에서 4% 아티카인 협측 침윤 ≈ 리도카인 하치조신경블록 (IANB); IANB 실패 후 보충/병용 주사가 각각 성공률을 대략 2배로; 완충 (buffering) 은 발현을 앞당기고 치수염에서 효능을 높인다.
+- **The IANB is the highest-failure dental block for anatomical, not technical, reasons — three accessory-innervation routes (mylohyoid nerve, transverse cervical/cervical plexus, retromolar canal ~16% of sides) can leave teeth sensate despite a successful block (up to 81% failure in lateral incisors), motivating Gow-Gates / Akinosi-Vazirani alternatives.** 🟡 → [[mandibular-anesthesia-failure-accessory-innervation-overview]]
+   — 한글: 하치조신경블록 (IANB) 이 최고 실패율 블록인 것은 술기가 아니라 해부학적 이유다 — 세 부신경분포 경로 (악설골근신경·횡경신경/경신경총·후구치관 ~측당 16%) 가 성공적 블록에도 치아를 유감각으로 남길 수 있어 (측절치는 최대 81% 실패), Gow-Gates / Akinosi-Vazirani 대안을 정당화한다.
 - **Topical anesthetic reduces needle pain vs placebo (agent differences small — technique/contact matter more); computerized/needle-free delivery gives no injection-pain advantage but reduces fear/anxiety and aids pediatric cooperation.** 🟡 → [[topical-anesthetic-injection-pain-overview]] · [[computerized-needle-free-anesthesia-delivery-overview]]
    — 한글: 도포마취는 위약 대비 자침통을 줄인다 (제제 간 차이는 작다 — 술기/접촉이 더 중요); 전산화/무바늘 전달은 주사통 이득은 없으나 공포/불안을 줄이고 소아 협조를 돕는다.
 - **Autoimmune patients can be treated successfully when disease is controlled** (implant survival ≈ general population); Korea has a moderate-sedation CPG but no standardized local-anesthesia guideline yet. 🟡 → [[autoimmune-disease-dental-treatment-overview]] · [[drug-anesthesia-sedation-korean-guidelines-overview]]
@@ -461,13 +467,23 @@ The 100 above are weighted toward implant/endo/restorative decisions. These phar
 - **Myofunctional/elastodontic appliances work interceptively in growing/mixed dentition (Class II, transverse, open-bite, modest airway); orthodontic tooth movement needs light/intermittent force to avoid hyalinization/root resorption (NSAIDs and bisphosphonates impair it).** 🟡 → [[myofunctional-elastodontic-orthodontics-overview]] · [[orthodontic-tooth-movement-biology]]
    — 한글: 근기능/탄성교정 장치는 성장기/혼합치열에서 차단교정으로 작동한다 (2급·횡적·개방교합·소폭의 기도); 교정적 치아이동 (Orthodontic Tooth Movement, OTM) 은 초자화/치근흡수를 피하기 위해 약한/간헐적 힘이 필요하다 (NSAID와 비스포스포네이트가 이동을 저해).
 
+**Esthetic, whitening & wear**
+- **Vital bleaching (in-office = at-home on shade change) is driven by concentration and agent, not setting — carbamide peroxide gives marginally better ΔE with less sensitivity; 6% HP is a valid low-sensitivity in-office option; existing composites do not whiten; a single non-vital discolored tooth needs internal walking-bleach; enamel microhardness loss (~11%) is clinically unlikely meaningful.** 🟡 → [[tooth-whitening-clinical-decision-overview]]
+   — 한글: 생활치 미백 (진료실 = 재택, 색조변화 동등) 은 setting이 아니라 농도·제제가 좌우한다 — 과산화요소 (CP) 가 과산화수소 (HP) 대비 ΔE는 약간 낫고 민감도는 적다; 6% HP는 저민감 진료실 옵션으로 유효; 기존 복합레진은 미백 안 됨; 단일 실활 변색치는 내부 walking-bleach 필요; 법랑질 미세경도 감소 (~11%) 는 임상적으로 유의할 가능성 낮음.
+- **Ultrathin occlusal (table-top) veneers are mechanically viable beyond physiologic posterior forces for tooth wear/erosion — ceramic ≈ CAD/CAM composite on survival, 0.5–1.0 mm minimum thickness is unsettled, Monobond Etch&Prime ≥ HF ≫ APF for conditioning, and repairability is the additive advantage.** 🟠 → [[occlusal-veneer-tooth-wear-erosion-overview]]
+   — 한글: 초박형 교합 (table-top) 비니어는 마모/침식에서 생리적 후방 교합력을 넘어 기계적으로 유효하다 — 세라믹 ≈ CAD/CAM 복합레진 (생존), 0.5–1.0mm 최소두께는 미정, 컨디셔닝은 Monobond Etch&Prime ≥ HF ≫ APF, 그리고 repairability가 가산적 술식의 강점이다.
+
+**Infection control & safety**
+- **Dental infection control is three biologically distinct fronts — instrument/surface sterilization (Spaulding classification, human error the dominant failure), dental-unit-waterline biofilm (feed <100 → output up to 10⁶ CFU/mL; CDC ≤500 target needs multi-modal control), and aerosol-generating procedures (air turbine ~1000× the CFU of breathing; the <5 µm cutoff is invalid) — no single measure suffices on any front.** 🟡 → [[dental-infection-control-aerosol-overview]]
+   — 한글: 치과 감염관리는 생물학적으로 구분되는 세 전선이다 — 기구/표면 멸균 (Spaulding 분류, 인적 오류가 지배적 실패), 치과 유닛 수관 (Dental Unit Waterline, DUWL) biofilm (공급 <100 → 배출 최대 10⁶ CFU/mL; CDC ≤500 목표는 다중모드 제어 필요), 그리고 에어로졸 발생 시술 (Aerosol-Generating Procedure, AGP; 에어터빈이 호흡 대비 ~1000배 CFU; <5µm 컷오프는 무효) — 어느 전선도 단일 조치로는 불충분하다.
+
 **Behavioral, practice & evidence**
 - **Behavioral factors decide whether clinical work lands — motivational interviewing drives behavior change and anxiety gates attendance; structure every consultation as open → gather → explain → decide → align expectations → close.** 🟡 → [[behavioral-dentistry-overview]] · [[behavioral-dentistry-decision-ladder]] · [[patient-consultation-communication-protocol]]
    — 한글: 행동인자가 임상 작업의 성패를 결정한다 — 동기면담 (Motivational Interviewing, MI) 이 행동 변화를 이끌고 불안이 내원을 gate한다; 모든 상담을 열기 → 수집 → 설명 → 결정 → 기대 정렬 → 마무리로 구조화하라.
 - **No-shows are predictable (42–52%, driven by forgetfulness/scheduling, not cost) — use risk-flagging + reminders; manage complaints as a pipeline (classify → expectation → non-defensive response → staff training).** 🟡 → [[dental-appointment-no-show-overview]] · [[complaint-management-pipeline-classification-expectation-response-education]]
    — 한글: No-show는 예측 가능하다 (42–52%, 비용이 아니라 망각/스케줄이 구동) — 위험 표시 + 리마인더를 사용하라; 민원은 파이프라인으로 관리하라 (분류 → 기대 파악 → 비방어적 응대 → 스탭 교육).
-- **Read SR+MA critically (effect measures, test selection, common errors) — most of the wiki's 800+ papers are SR+MA/RCT/cohort, so appraisal is the operational backbone.** 🟢 → [[evidence-appraisal-toolkit]] · [[statistical-abbreviations-cheatsheet]]
-   — 한글: 체계적문헌고찰+메타분석 (SR+MA) 을 비판적으로 읽어라 (효과크기·검정 선택·흔한 오류) — 위키의 800편 이상 논문 대부분이 SR+MA/RCT/코호트이므로 비판적 평가가 운영의 backbone이다.
+- **Read SR+MA critically (effect measures, test selection, common errors) — most of the wiki's 2,000+ papers are SR+MA/RCT/cohort, so appraisal is the operational backbone.** 🟢 → [[evidence-appraisal-toolkit]] · [[statistical-abbreviations-cheatsheet]]
+   — 한글: 체계적문헌고찰+메타분석 (SR+MA) 을 비판적으로 읽어라 (효과크기·검정 선택·흔한 오류) — 위키의 2,000편 이상 논문 대부분이 SR+MA/RCT/코호트이므로 비판적 평가가 운영의 backbone이다.
 - **Oral frailty is a measurable, reversible geriatric syndrome — SDF 38% arrests root caries and professionally applied fluoride is the key lever; and cracked-tooth is the incomplete-fracture entry in the 5-type longitudinal-fracture spectrum (ESE: abandon the "CTS" label).** 🟡 → [[oral-frailty-geriatric-synthesis]] · [[cracked-tooth-syndrome-overview]]
    — 한글: 구강노쇠 (Oral Frailty) 는 측정 가능하고 가역적인 노년 증후군이다 — 38% 은다이아민불소 (SDF) 가 치근우식을 정지시키고 전문가 도포 불소가 핵심 레버다; 그리고 균열치는 5형 종단파절 스펙트럼의 불완전파절 항목이다 (유럽근관학회 ESE: "CTS" 명칭을 폐기하라 권고).
 - **Dental trauma: mouthguards prevent; store avulsed teeth in HBSS/propolis/milk (never saline/tap water); flexible short-term splinting; pulpal prognosis tracks apex maturity.** 🟢 → [[dental-trauma-management-overview]]
