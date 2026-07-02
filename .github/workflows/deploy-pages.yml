@@ -67,7 +67,7 @@ jobs:
           mkdir -p quartz/content
           cp -r wiki/. quartz/content/
           # Homepage = wiki/index.md (curated landing).
-          # 루트 index.md(1,200+ 링크 거대 카탈로그)는 그래프 super-hub를 만들어
+          # 루트 index.md(수천 링크 거대 카탈로그)는 그래프 super-hub를 만들어
           # 전역 그래프 force 시뮬레이션을 깨뜨리므로 사이트에 미배포 (Obsidian vault home 전용).
 
       - name: Install Quartz dependencies
