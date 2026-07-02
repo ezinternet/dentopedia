@@ -1,0 +1,71 @@
+Polymerizable inhibitor can reduce shrinkage stress of resin composite
+He J, Garoushi S, Lassila L, Vallittu PK.
+Clinical Oral Investigations. 2026;30(6):[article]. (PMID 42108310)
+DOI: 10.1007/s00784-026-06901-z
+PMID: 42108310  PMCID: PMC13158252
+Source: PubMed Central full text (get_full_text_article)
+Affiliation: Univ. of Turku (Finland) & South China Univ. of Technology (Guangzhou, China)
+
+=== ABSTRACT ===
+Objective: Prepare dental resin composites (DRCs) with low shrinkage stress AND limited leachable inhibitor content by incorporating a synthesized polymerizable inhibitor PBHT (2,6-di-tert-butyl-4-(methacryloyloxy-ethyl-carbamate-methyl)phenol).
+Method: PBHT synthesized from 2,6-di-tert-butyl-4-hydroxymethylphenol (HBHT) + 2-(methacryloyloxy)ethyl isocyanate (MEI). Structure confirmed by FT-IR & 1H-NMR. PBHT added to DRC resin matrix at 1, 2, 3 wt%. Measured: double bond conversion (DC), volumetric shrinkage (VS), shrinkage stress (SS), flexural properties, water sorption (WS), solubility (SL). Leachable inhibitors by GC-MS (SIM). Control = commercial inhibitor BHT (butylated hydroxytoluene) at same wt%, plus a no-extra-inhibitor control.
+Results: PBHT significantly reduced DC (p<0.05, at 3 wt%). PBHT lowered VS and SS (p<0.05); BHT showed NO significant effect on SS/VS (p>0.05). Neither affected flexural properties (p>0.05). WS increased with 3 wt% of either inhibitor. Both raised SL, but PBHT-containing DRCs had significantly LOWER SL than BHT at the same concentration (p<0.05). PBHT-containing DRCs had lower leachable inhibitors than BHT.
+Significance: PBHT achieved low shrinkage stress + limited leachable inhibitor. Optimal concentration = 1 wt% PBHT — no significant effect on physicochemical properties other than SL.
+
+=== INTRODUCTION / RATIONALE ===
+Dental resin composites (DRCs): restoratives, sealants, liners, endodontic sealer, posts, luting. Polymerization → volumetric shrinkage + shrinkage stress on adjacent tooth → interfacial bond failure, microleakage, cuspal deformation, post-op sensitivity, marginal staining, secondary caries.
+Two strategies to reduce shrinkage stress: (1) reduce volumetric shrinkage; (2) DELAY THE GEL POINT. Literature: delaying gel point is MORE effective than merely reducing volumetric shrinkage. Before gel point, stress is released via molecular rearrangement of polymer chain segments. Gel point delayed by unique-mechanism monomers or by slowing polymerization rate. Ideal method must not harm double-bond conversion / final performance.
+BHT (butylated hydroxytoluene): commercial antioxidant; in free-radical polymerization, its phenolic hydrogen quenches radicals → sterically hindered radical unable to re-initiate → slows polymerization until inhibitor consumed. Used in commercial DRCs to prevent premature light polymerization. Braga et al.: higher BHT conc reduces polymerization rate → less shrinkage stress without harming DC. Pereira et al.: BHT should be <1 wt% to preserve physicochemical properties.
+PROBLEM WITH BHT: cannot polymerize → easily eluted/leached from cured DRC; overdose toxic in rats; high cytotoxic potential in 3T3 and human oral fibroblasts (gingiva, pulp, PDL). → motivation for a POLYMERIZABLE (non-leaching) alternative.
+PBHT = polymerizable inhibitor synthesized here. Hypotheses: (1) PBHT reduces shrinkage stress without impairing physicochemical properties; (2) leachable inhibitor amount is LOWER with PBHT than BHT.
+
+=== MATERIALS AND METHODS ===
+Monomers: UDMA, Bis-EMA(04), TEGDMA. Initiator CQ + coinitiator EDB. Filler: silanated dental glass (SCHOTT UltraFine 0.7 µm). Resin:filler = 1:3 (wt/wt).
+PBHT synthesis: HBHT (0.10 mol) + MEI (0.10 mol) + DBTL catalyst in CHCl3, 45°C until -NCO peak (2270 cm-1) disappears (FT-IR). Yield 90% yellow powder. Confirmed by FT-IR + 1H-NMR.
+Formulations (wt%): UDMA 69.3 / Bis-EMA 19.8 / TEGDMA 9.9 / CQ 0.5 / EDB 0.5 in Control; BHT or PBHT added at 1/2/3 wt% (monomers scaled down proportionally).
+Tests:
+- DC: ATR-FTIR, aliphatic C=C 1636 cm-1 normalized to aromatic 1608 cm-1; cured with Elipar DeepCure-L 1600 mW/cm2 (430-480 nm) 40 s; scanned every 5 s + 15 min post. n=5.
+- Volumetric shrinkage (VS): Archimedes density before/after cure (5 min post 40 s cure). n=3.
+- Shrinkage stress (SS): two glass-FRC rods (4 mm dia) in universal testing machine, DRC between them at 1.5 mm height, cured 20 s both sides, contraction force monitored 3 min at 22°C; SS = force/cross-section; max SS from plateau. n=6.
+- Flexural strength (FS) & modulus (FM): 3-point bending 2×2×25 mm, ISO 4049, span 20 mm, 1 mm/min. n=8.
+- Fracture toughness (FT): single-edge-notched-beam 2.5×5×25 mm, adapted ISO 20795-2. n=6.
+- Water sorption (WS) & solubility (SL): ISO 4049:2019, 15 mm dia × 1 mm disc, 7 days 37°C water. n=5.
+- Leachable inhibitors: GC-MS SIM; BHT (RT 13.34 min, m/z 205/220), PBHT (RT 15.26 min, m/z 235/250). 1 g cured DRC in methanol 3 days. n=3.
+Stats: Two-way ANOVA (GraphPad Prism 8), Tukey (same inhibitor) + Sidak (different inhibitor, same conc), α=0.05.
+
+=== RESULTS ===
+PBHT structure confirmed (FT-IR -NCO gone, new 1719/1637 cm-1; 1H-NMR matched).
+DOUBLE BOND CONVERSION: inhibitors delayed polymerization. At 2 & 3 wt%, PBHT delayed more than BHT. All DRCs DC >60%. Only 3 wt% PBHT had significantly lower final DC (66.4±0.6%) than control (68.7±0.7%) — absolute diff only 2.3%.
+SHRINKAGE: Adding BHT did NOT significantly change VS or SS (p>0.05). Adding PBHT significantly reduced SS (p<0.05); only 3 wt% PBHT reduced VS (p<0.05). Max shrinkage stress RATE decreased with increasing inhibitor concentration.
+
+Table 2 — Max shrinkage stress rate (×10^-3 MPa·s) / FS (MPa) / FM (GPa) / FT (MPa·m^0.5) / WS (µg/mm3) / SL (µg/mm3):
+Control:  47.5±2.8 / 133±20 / 12.08±1.12 / 1.13±0.08 / 15.91±0.61 / 2.92±0.13
+1%BHT:    34.8±5.1 / 128±15 / 13.12±1.55 / 1.14±0.09 / 16.10±0.35 / 4.83±0.14
+2%BHT:    27.9±2.4 / 144±19 / 12.48±1.02 / 1.11±0.10 / 16.24±0.53 / 5.36±0.29
+3%BHT:    21.8±2.6 / 111±21 / 14.16±1.36 / 1.16±0.07 / 16.81±0.38 / 6.71±0.35
+1%PBHT:   30.8±3.9 / 136±19 / 13.11±1.24 / 1.16±0.11 / 15.30±0.25 / 4.98±0.18
+2%PBHT:   19.8±2.0 / 125±22 / 11.55±1.57 / 1.19±0.09 / 16.36±0.41 / 4.57±0.29
+3%PBHT:   13.1±1.5 / 134±14 / 10.34±1.69 / 1.12±0.10 / 16.99±0.57 / 5.89±0.17
+
+MECHANICAL: FS & FM comparable to control (except 3%BHT higher FM). All FT comparable.
+WS: comparable to control at 1-2 wt%; increased at 3 wt% (either inhibitor).
+SL: all inhibitor DRCs > control; increased with conc. PBHT-containing < BHT-containing at ≥2 wt%. All WS/SL met ISO 4049 (<40 / <7.5 µg/mm3).
+
+Table 3 — Leachable inhibitor (µg/g):
+Control: none
+1%BHT 549±3 ; 2%BHT 1102±29 ; 3%BHT 2105±7
+1%PBHT 132±7 ; 2%PBHT 290±15 ; 3%PBHT 717±22
+→ PBHT leaches far less than BHT at every concentration.
+
+=== DISCUSSION (mechanism) ===
+BHT quenches radicals → slows polymerization, allows molecular rearrangement → lower shrinkage stress. But in THIS UDMA-rich matrix, even up to 3 wt% BHT did NOT change final DC or SS — attributed to high UDMA content: -NH- hydrogen bonds pre-organize double bonds, raise propagation efficiency → rapid gelation traps BHT early, reducing its inhibitory effect. Higher light intensity/longer irradiation also contribute.
+PBHT has one methacrylate group → copolymerizes with matrix. Delays gelation by (a) consuming radicals AND (b) reducing cross-link density (mono-methacrylate). Inhibitory effect persists longer → quenches more radicals → at 2-3 wt% PBHT slows polymerization much more than BHT → lower SS, and lower DC at 3 wt%. Lower cross-link density helps dissipate stress. Only 3 wt% PBHT lowered VS (mainly from lower DC).
+SL: BHT (unpolymerizable small molecule) easily eluted → higher SL than control. PBHT copolymerizes BUT mono-methacrylate → more residual unreacted monomer + lower crosslink density → also higher SL than control; still lower than BHT at same conc because PBHT itself is bound.
+Leaching: PBHT copolymerizes → less leachable inhibitor than BHT (hypothesis 2 accepted). Hypothesis 1 partially accepted (SL exception).
+VS measured at 5 min (early-stage shrinkage; post-cure continues) — valid for comparison under identical conditions.
+
+=== LIMITATIONS ===
+Cytotoxicity, mechanical performance under water storage, wear resistance, in-vitro tooth performance NOT tested. Higher-concentration groups mainly for mechanistic comparison, not direct clinical use. Direct monomer-elution quantification and oxygen-inhibition interaction warrant future study.
+
+=== CONCLUSION ===
+Synthesized polymerizable inhibitor PBHT reduces shrinkage stress of DRCs without affecting physicochemical properties except water sorption and solubility. Unlike commercial BHT, PBHT copolymerizes into the matrix → less leachable inhibitor. Optimal PBHT concentration = 1 wt% (best comprehensive properties).
