@@ -11,6 +11,11 @@ source_wiki:
   - wiki/implants/huwais-2016-osseous-densification-novel-osteotomy-approach.md
   - wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
+marp: true
+theme: default
+paginate: true
+size: 16:9
+lang: ko
 ---
 
 # Slide Deck Outline
