@@ -1,0 +1,68 @@
+Comparative Evaluation of Surface Hardness of Bis-Acryl Composite and Polymethyl Methacrylate-Based Provisional Restorative Materials: An In Vitro Study
+Sokhal K, Kumar S, Aggarwal R, Kaur I, Thoidingjam B, Deokate A, Nandalur KR.
+Cureus. 2025;17(4):e83269.
+DOI: 10.7759/cureus.83269
+PMID: 40453262  PMCID: PMC12124933
+Source: PubMed Central full text (get_full_text_article)
+
+=== ABSTRACT ===
+Introduction: Provisional restorations are essential components of fixed prosthodontic treatment that provide protection, function, esthetics, and guidance during the transitional phase before definitive restorations are placed. Among the numerous available materials, bis-acryl composite resins and polymethyl methacrylate (PMMA)-based acrylics are widely used. Surface hardness is a key mechanical property that directly affects a material's resistance to masticatory forces, wear, and deformation. This in vitro study compared the surface hardness of three bis-acryl composite materials with one PMMA-based material.
+Materials and methods: Group 1 (n=40) 3M Protemp 4 (3M ESPE); group 2 (n=40) Dentsply Integrity (Dentsply Sirona); group 3 (n=40) Vericom Care C&B Dual-Cure (Vericom); group 4 (n=40) Pyrax High-Quality Cold Cure SC-10 (Pyrax Polymars). Specimens prepared in stainless-steel molds. Vickers hardness testing under 25 g load for 15 s; two indentations/specimen; VHN calculated.
+Results: Group 1 highest (20.54±0.69 VHN), group 2 (19.80±0.47), group 3 (18.55±1.36), group 4 lowest (16.65±0.66). One-way ANOVA significant (p<0.01).
+Conclusion: Bis-acryl composite materials demonstrated significantly higher surface hardness than PMMA-based materials. 3M Protemp 4 showed the greatest hardness (best for long-term provisionals); Pyrax SC-10 more appropriate for short-term use.
+
+=== INTRODUCTION ===
+Provisional restorations temporarily replace missing/prepared tooth structure until the final restoration: protect prepared teeth, maintain occlusal stability, safeguard exposed dentin, preserve function/comfort, contribute to esthetics/phonetics. Must balance ease of manipulation with adequate mechanical properties.
+Surface hardness = resistance to surface deformation, wear, abrasion — key to durability under continuous mastication/parafunction. Low hardness → rapid wear, occlusal discrepancy, compromised marginal adaptation. Higher hardness → better wear resistance, shape/integrity retention → better for long-term provisionals.
+Vickers hardness test = widely used, standardized, reliable for dental material indentation resistance. Hardness influenced by chemical composition, polymerization method, temperature/moisture.
+Two main categories:
+- Methacrylate-based resins (PMMA): affordable, easy handling, long clinical history; BUT lower surface hardness, greater wear/degradation over time.
+- Bis-acryl composites: superior mechanical properties (higher hardness, flexural strength); BUT brittle, prone to fracture if mishandled.
+Prior studies: bis-acryl generally higher hardness than methacrylate resins, immediately and after aging. Hardness also affected by polymerization (light-cured often > self-cured) and storage (water/saliva immersion → plasticization/degradation → decreased mechanical properties). Gap: need comprehensive comparative studies under standardized conditions.
+
+=== MATERIALS AND METHODS ===
+In vitro, Dept. of Prosthodontics, Surendera Dental College and Research Institute, Sri Ganganagar, India. No ethical clearance needed (no human/animal).
+Sample size: G*Power 3.1.9.7; one-way ANOVA fixed effects, 95% CI, 95% power, effect size f=0.40, α=0.05, 4 groups → calculated 112; prepared 160 (40/group) for robustness.
+Stainless-steel die per ADA specification no. 27: 30 mm × 10 mm × 2 mm. Three-pour technique, type III dental stone (GC Corp), denture-processing metal flask; separating medium applied.
+Four materials:
+- Group 1 (n=40): 3M Protemp 4 (3M ESPE) — bis-acryl, bifunctional methacrylates.
+- Group 2 (n=40): Dentsply Integrity (Dentsply Sirona) — bis-acryl, multifunctional methacrylates.
+- Group 3 (n=40): Vericom Care C&B Dual-Cure (Vericom, South Korea) — dual-cured bis-acryl, methacrylates.
+- Group 4 (n=40): Pyrax High Quality Cold Cure SC-10 (Pyrax Polymars, India) — PMMA-based, self-cure.
+Preparation per manufacturer:
+- Groups 1 & 2: Garant Dispenser (3M ESPE), 10:1 ratio, hydraulic press 30 psi × 5 min.
+- Group 3: DS50 Extruder Gun, 1:1 ratio, light-cured 40 s, post-cured 10 min.
+- Group 4: manually mixed, self-cure at room temp 15 min (powder:liquid 2:1 by volume; working time ~2-3 min).
+All specimens trimmed/finished with tungsten carbide burs/abrasive discs. Single calibrated operator; pilot phase.
+Vickers Hardness Testing Machine (HV-1000B, Shancai), calibrated with standard reference block. Two indentations/specimen, Vickers diamond indenter, 25 g load, 15 s, ≥2 mm apart. VHN = 1.8544 × F/d² (F=0.025 kgf, d=mean diagonal).
+SPSS v25.0; descriptive stats; one-way ANOVA; post-hoc Tukey HSD; p<0.05.
+
+=== RESULTS ===
+Mean hardness (VHN):
+- Group 1 (3M Protemp 4): 20.54 ± 0.69  [95% CI 20.32–20.76; min 19.60, max 21.81]
+- Group 2 (Dentsply Integrity): 19.80 ± 0.47  [19.65–19.95; 18.77–20.29]
+- Group 3 (Vericom Care C&B): 18.55 ± 1.36  [18.12–18.99; 15.85–21.79]
+- Group 4 (Pyrax SC-10, PMMA): 16.65 ± 0.66  [16.44–16.86; 15.01–17.89]  ← lowest
+One-way ANOVA: sum of squares 347.58, df 3, mean square 115.86, p<0.01 (significant).
+Pairwise (Tukey HSD, all p<0.01 except noted):
+- Protemp4 vs Integrity: MD 0.74 (p=0.001), CI 0.24–1.24
+- Protemp4 vs Vericom: MD 1.99, CI 1.49–2.49
+- Protemp4 vs Pyrax: MD 3.89 (largest), CI 3.39–4.39
+- Integrity vs Vericom: MD 1.25
+- Integrity vs Pyrax: MD 3.15
+- Vericom vs Pyrax: MD 1.90
+Ranking: 3M Protemp 4 > Dentsply Integrity > Vericom Care C&B > Pyrax SC-10.
+
+=== DISCUSSION ===
+Bis-acryl > PMMA hardness — consistent with Jo et al., Savabi et al., Kerby et al., Knobloch et al. Bis-acryl advantage attributed to cross-linked polymer matrix + inorganic fillers → wear/degradation resistance. PMMA (Pyrax SC-10) lower hardness due to chemical composition/polymerization (Thompson & Luo); easier to manipulate, more cost-effective, but less wear resistance.
+Hardness also affected by fabrication technique and storage. PMMA powder-liquid mixing critical: overmixing → air bubbles; undermixing → incomplete polymerization → reduced hardness. Water immersion reduces hardness over time (plasticization) — proper dry storage / post-polymerization conditioning important.
+Clinical: high-hardness bis-acryl (Protemp 4, Integrity) suited for long-term provisionals, high occlusal force / parafunction; but harder materials are more challenging to adjust/polish (Young et al.). PMMA (Pyrax SC-10) better for short-term (ease of modification, cost). Consistent with Pasha et al., Agroya et al.; Astudillo-Rubio et al. SR/MA (hardness critical to provisional clinical performance).
+
+=== CLINICAL SIGNIFICANCE ===
+Material selection (esp. hardness) drives durability. Bis-acryl (Protemp4, Integrity, Vericom) superior hardness → long-term/high-stress. PMMA (Pyrax SC-10) affordable/adjustable → short-term, use cautiously. Proper polymerization reduces residual monomer, improves strength. Bis-acryl drawback = limited adjustability. CAD/CAM may offer improved alternatives.
+
+=== LIMITATIONS ===
+In-vitro; does not replicate oral environment (temp, pH, saliva, masticatory forces). No thermocycling/mechanical loading. Only surface hardness evaluated (not flexural strength, fracture toughness, marginal integrity, color stability). Single operator (bias risk). Only 4 materials. Fabrication/storage/aging effects not explored.
+
+=== CONCLUSIONS ===
+Bis-acryl provisional materials have significantly higher surface hardness than PMMA. 3M Protemp 4 highest, then Dentsply Integrity, then Vericom Care C&B; Pyrax SC-10 (PMMA) lowest. Bis-acryl (cross-linked matrix + filler) better for long-term/high-stress provisionals. PMMA easier/cheaper but better for short-term. Careful material selection by clinical requirement/duration.
