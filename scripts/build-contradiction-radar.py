@@ -215,7 +215,7 @@ if missing:
 
 HTML = f"""<!--
 ---
-title: "논쟁 레이더 — 위키 내부 상충 근거 지도"
+title: "논쟁 레이더 — 위키 내부 상충 근거 지도 ({total}건)"
 type: interactive
 date: AUTO
 status: done
