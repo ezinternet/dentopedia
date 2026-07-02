@@ -1221,6 +1221,7 @@ tags: []
 - [[resin-bonding/grangeiro-2024-preheated-composite-picn-feldspathic-bond-strength]] — Grangeiro 2024 in vitro: preheated composite (68°C) achieves highest µSBS to both Vita Mark II feldspathic ceramic and Vita Enamic PICN vs resin cement and flowable composite, at baseline and after thermocycling
 - [[resin-bonding/del-bianco-2025-lithium-disilicate-cleaning-bond-strength]] — Del Bianco 2025 in vitro: after saliva+try-in paste contamination of IPS e.max CAD, Monobond Etch&Prime (self-etching ceramic primer) equals 5% HF re-etching in SBS; water, PA, ethanol, Ivoclean all insufficient
 - [[resin-bonding/moura-2020-hf-concentration-phosphoric-acid-feldspathic-bond]] — Moura 2020 in vitro 3-way factorial: only HF concentration significant (10% > 5%) for Vita Mark II bond strength after 90 days; etching time and phosphoric acid + NaHCO₃ neutralization both non-significant
+- [[resin-bonding/el-azzouni-2026-laser-hydrogen-peroxide-fiber-post-dual-cure]] — In-vitro push-out(Pak J Med Sci 2026, PMC full text): Nd:YVO4 레이저가 과산화수소 대체 가능한 파이버포스트 표면처리; self-adhesive 듀얼큐어 시멘트는 근관 3분획 전반 안정적 결합, conventional 듀얼큐어는 치근단부로 갈수록 저하
 
 ## 전신질환·약물 (Drug / Systemic Medicine)
 - [[drug/anticoagulants/dou-2025-bleeding-dentoalveolar-doac-vka-sr-ma]] — Dou 2025 · sr+ma · 29편/29,212명: 비중단 DOAC가 VKA보다 발치 후 출혈 21%↓(RR 0.79, dabigatran 주도), 둘 다 무항응고 대비 ~3배
@@ -1396,6 +1397,10 @@ tags: []
 - [[resin/van-de-sande-2019-composite-repair-anterior-15year]] — 후향적 15년(634수복): 전방부 복합레진 수리 vs 교체 — 수리는 유효한 대안; Class III/IV 15년 생존 69%, AFR 2.4%
 - [[resin/worthington-2021-composite-vs-amalgam-cochrane-sr]] — Cochrane SR(2021): 구치부 복합레진 vs 아말감 — 5년 생존 유사, 복합레진 이차우식 위험 불확실
 - [[resin/jkda-2025-63-9-001]] — In vitro (조선대 소아치과 박소영·지명관 그룹, JKDA 2025, KIAT 지원): 국산 flowable resin composite의 상아질 SBS 평가 — 한국 시장 제품 quality benchmark
+- [[resin/aguirre-gil-2026-ph-solubility-radiopacity-dual-cure]] — In-vitro(BMC Oral Health 2026, PMC full text): NX3 Nexus vs Variolink N 듀얼큐어 레진시멘트 비교 — Variolink N 방사선불투과성 우위(p=0.026), NX3 Nexus pH 우위(p=0.008), 용해도 무차이
+- [[resin/yalcinkaya-2026-degree-conversion-luting-hybrid-ceramic]] — In-vitro FTIR(BMC Oral Health 2026, PMC full text): 하이브리드 세라믹(Cerasmart) CAD/CAM 두께별 전환도 — ≤2mm는 flowable/bulk-fill이 듀얼큐어 시멘트보다 전환도 우수, 2.5mm는 듀얼큐어 시멘트가 최고
+- [[resin/lehmann-2026-distance-exposure-mode-degree-conversion-rbc]] — In-vitro Raman(Materials 2026, PMC full text): LED 광중합기 조사거리(0/2/4mm)·노출모드(standard/soft-start/pulse)가 3종 복합레진 전환도에 미치는 영향 — bulk-fill이 두께 4mm서 가장 취약
+- [[resin/hashemian-2025-tip-distance-conversion-cytotoxicity]] — In-vitro ATR-FTIR+MTT(J Oral Biol Craniofac Res 2025, PMC full text): 광중합기 팁-거리(0–8mm) 증가 시 전환도↓·치은섬유아세포 생존율↓, 6–8mm서 ISO 생체적합성 임계치(70%) 미달
 
 ## 인레이 (Inlay)
 - [[inlay/spitznagel-2025-multilayer-zirconia-partial-coverage-fatigue]] — Spitznagel 2025 · in-vitro · 멀티레이어 지르코니아 0.5mm 초박형은 부분피개(PCR)가 크라운보다 파절하중 우위(2047 vs 695N), 크라운은 ≥1.0mm 필요
@@ -2175,6 +2180,10 @@ tags: []
 **비전리 대안**
 - [[radiology/willershausen-2025-low-field-mri-pediatric-dental]] — Willershausen 2025 (prospective, Invest Radiol): 소아 0.55T MRI(무피폭) vs 초저선량 CT — 치축·치근·낭종 동등 화질
 - [[radiology/yadav-2024-nasopalatine-canal-morphology-cbct]] — 인도인 102명 CBCT 단면연구: 비비구개관(NPC) 형태·크기·변이를 성별·연령별 분석(남성이 더 길고 구개개구 직경 크며 나이 들수록 내외측 직경 증가)하여 전방 상악 임플란트 해부학적 계획 근거 제공
+
+**포터블·핸드헬드 구내 X-ray**
+- [[radiology/geibel-2025-mobile-handheld-radiography-quality-nursing-home]] — Geibel 2025 (prospective, Gerodontology, PMC full text): 요양원 방문진료 핸드헬드(Nomad Pro 2) 구내촬영 127장 — 80% 결함없음, 86% 진단가능, 우연소견 61%(치근단 골용해 등) — 고정형 대비 화질 동등
+- [[radiology/ruiz-2025-handheld-fixed-xray-image-quality-comparison]] — Ruiz 2025 (in-vitro, Braz Dent J, PMC full text): 핸드헬드(Eagle) vs 고정형(Focus) 구내 X-ray 객관적 화질 비교 — 핸드헬드가 밝기↑·대비↓(p<0.0001, 센서 무관), 노이즈는 센서에 따라 상반, 균일도는 무차이
 
 ## Chairside 인터렉티브 (Interactive Tools)
 
