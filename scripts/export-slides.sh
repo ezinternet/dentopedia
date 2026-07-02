@@ -40,7 +40,7 @@ print(json.dumps({
   duration=$(python3 -c "import json,sys; print(json.loads(sys.argv[1])['duration'])" "$meta")
   agenda=$(python3 -c "import json,sys; print(json.loads(sys.argv[1])['agenda'] or '-')" "$meta")
 
-  npx --yes @marp-team/marp-cli "$f" -o "${out}.tmp" --html
+  npx --yes @marp-team/marp-cli "$f" -o "${out}.tmp" --html --theme-set scripts/marp-theme.css
   {
     printf '<!--\n---\ntitle: "%s"\ntype: lecture\ndate: %s\nstatus: %s\naudience: "%s"\nduration: "%s"\nagenda: %s\nnote: "Marp deck export — source: %s. Regenerate: bash scripts/export-slides.sh"\n---\n-->\n' \
       "$title" "$date" "$status" "$audience" "$duration" "$agenda" "$f"
