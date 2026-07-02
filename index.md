@@ -2176,6 +2176,7 @@ tags: []
 **파노라마 허상 판독**
 - [[radiology/ramos-2016-ghost-images-metal-objects-panoramic]] — Ramos 2016 (pictorial, ISD): 두경부 금속에 의한 파노라마 허상 형성 화보
 - [[radiology/kim-2024-real-ghost-pseudo-ghost-images-panoramic]] — Kim 2024 (case, ISD): 귀걸이 실상+허상+유사허상; 회전중심 악골 외 확장
+- [[radiology/lingam-2023-common-errors-subjective-quality-panoramic]] — Lingam 2023 (cross-sectional, 2,629장): 파노라마 자세오류 10종 감사 — 유령상(error 10) ~2.2%로 최소 빈도지만 5–12세 소아에 유의 집중(P=0.001), 진단 불가 영상 ~15%(기준 ≤10% 초과)
 
 **비전리 대안**
 - [[radiology/willershausen-2025-low-field-mri-pediatric-dental]] — Willershausen 2025 (prospective, Invest Radiol): 소아 0.55T MRI(무피폭) vs 초저선량 CT — 치축·치근·낭종 동등 화질
