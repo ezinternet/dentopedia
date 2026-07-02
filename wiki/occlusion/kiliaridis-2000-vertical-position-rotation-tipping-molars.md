@@ -15,6 +15,8 @@ tags: [overeruption, unopposed-molar, vertical-position, tipping, rotation, non-
 relations:
   - type: reinforces
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
+  - type: reinforces
+    target: craddock-2007-overeruption-posterior-teeth-partial-occlusal
 ---
 
 ## One-line Summary
