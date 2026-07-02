@@ -91,6 +91,11 @@ Each of these warrants its own paper page when relevant papers are ingested.
 - [[practice-management/jkda-2024-62-6-001]] — dentist workforce distribution 2012–2022
 - [[practice-management/ha-2023-dentist-issues-constitutional-court-decisions]] — constitutional court catalogue
 
+### Related overviews
+
+- [[overviews/dental-health-economics-overview]] — demand, cost-sharing, supplier-induced demand, and workforce planning (the economics frame behind practice management)
+- [[overviews/patient-safety-culture-dentistry-overview]] — patient safety culture, teamwork, and human-factors in dental practice
+
 ## Related Papers
 
 ### 신규 추가 (2026-06)
