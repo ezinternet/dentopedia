@@ -11,6 +11,13 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/silva-2013-occlusal-factors-nccl-syst
 pdf_filename: silva-2013-occlusal-factors-nccl-systematic-review.pdf
 source_collection: external
 tags: [nccl, occlusion, occlusal-risk-factors, abfraction, systematic-review]
+relations:
+  - type: contradicts
+    target: duangthip-2017-occlusal-stress-nccl-abfraction-sr
+  - type: reinforces
+    target: senna-2012-nccl-occlusion-systematic-review
+  - type: reinforces
+    target: nascimento-2016-abfraction-etiology-diagnosis-treatment
 ---
 
 ## One-line Summary
