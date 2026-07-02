@@ -116,7 +116,6 @@ lang: ko
 <!-- _class: lead -->
 ## ✅ 자가테스트
 
-사이트 인터랙티브 퀴즈로 확인:
-**interactives/2026-07-01_interdental-cleaning-quiz.html**
+[📝 자가테스트 퀴즈 풀기 →](2026-07-01_hygienist_interdental-cleaning-quiz.html)
 
 <small>교육용 요약 — 최신 프로토콜·개별 판단은 위키 원문·원장 확인</small>

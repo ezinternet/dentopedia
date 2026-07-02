@@ -215,3 +215,11 @@ lang: ko
 - ☑ Taper-lock은 ≥5회 가압 + **최종 교합 지연**
 
 > 결론: 단일 제품이 아니라 **절차**가 세틀링·풀림을 통제한다.
+
+---
+
+<!-- _class: lead -->
+
+# 감사합니다
+
+[📝 자가테스트 퀴즈 풀기 →](2026-07-02_seminar_implant-settling-effect-quiz.html)

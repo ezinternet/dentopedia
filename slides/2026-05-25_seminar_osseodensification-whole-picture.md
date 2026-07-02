@@ -163,6 +163,8 @@ graph LR
 - 5년 RCT 결과 발표 시 spine SR 갱신
 - 본 deck 인터랙티브 버전: interactives/2026-05-25_osseodensification-navigator.html
 
+[📝 자가테스트 퀴즈 풀기 →](2026-05-25_seminar_osseodensification-whole-picture-quiz.html)
+
 ---
 
 ## References (slide 사용 인용)
