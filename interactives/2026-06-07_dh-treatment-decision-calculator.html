@@ -4,11 +4,14 @@ title: "DH 치료 의사결정 계산기 (chairside)"
 type: interactive
 date: 2026-06-07
 status: draft
-verified: 2026-06-27
+verified: 2026-07-02
 category: perio-maintenance
 agenda: agenda/2026-06-07_dh-irrigation-interactives.md
 source_wiki:
   - wiki/dentin-hypersensitivity/correa-2025-long-term-desensitizing-agents-efficacy-sr-ma.md
+  - wiki/dentin-hypersensitivity/ayan-2025-home-use-desensitizing-agents-dentin-hypersensitivity-rct.md
+  - wiki/dentin-hypersensitivity/qiu-2026-stannous-fluoride-toothpaste-dentin-hypersensitivity-rct.md
+  - wiki/dentin-hypersensitivity/creeth-2026-calcium-sodium-phosphosilicate-dentin-hypersensitivity-rct.md
   - wiki/dentin-hypersensitivity/shan-2021-low-level-light-therapy-dentin-hypersensitivity-sr-ma.md
   - wiki/dentin-hypersensitivity/faraoni-2023-laser-therapy-dentin-hypersensitivity-sr-ma.md
   - wiki/dentin-hypersensitivity/forouzande-2022-fluoride-gluma-laser-dentin-hypersensitivity.md
@@ -26,8 +29,13 @@ notes: |
   로직 출처: correa-2025(≥6mo 장기 SR+MA: Gluma·LLLT 장기효과 1위, 접착·CPP-ACP 장기효과 없음),
             shan-2021(LLLT SMD), faraoni-2023(laser 동등), forouzande-2022·naghsh-2024(laser 단기 우월·수렴),
             jiang-2022·scheffel-2015(Gluma 치수액 의존·세포독성), joshi-2013(occlusion),
-            defreitas-2021·martins-2022(치약). 점수는 근거 기반 휴리스틱 [claude해석] — 처방 대체 아님.
+            defreitas-2021·martins-2022(치약),
+            ayan-2025(가정용 5종 head-to-head RCT: CPP-ACP 최고), qiu-2026(SnF₂ RCT), creeth-2026(NovaMin/CSPS RCT).
+            점수는 근거 기반 휴리스틱 [claude해석] — 처방 대체 아님.
             2026-06-27 verify: correa-2025 장기 SR+MA 반영 — 장기(≥6mo) 요구 시 Gluma·LLLT durLong 가중 상향.
+            2026-07-02 verify: at-home RCT 3편(ayan-2025·qiu-2026·creeth-2026) 반영 — at-home 권고 변경됨.
+            (a) CPP-ACP(Tooth Mousse) at-home 옵션 신규 추가 — ayan-2025 5종 head-to-head에서 최고(8주 변화 DHEQ-15 56.68·VAS 6.52·SSS 2.32; 순위 CPP-ACP>arginine≈KNO3>NovaMin≈propolis>control), ev를 RCT로 최상위 at-home에 배치.
+            (b) NovaMin·KNO3·SnF₂ 치약의 ev를 SR/Scoping→RCT로 상향(qiu-2026 SnF₂·creeth-2026 NovaMin이 표준 불소치약 대비 examiner endpoint 군간 p<0.001; ayan-2025 5종 모두 대조 우월). 8주 지평이므로 durLong 소폭만 반영, 장기 순위 anchor는 correa-2025 유지.
 ---
 -->
 <!DOCTYPE html>
@@ -70,7 +78,7 @@ notes: |
 </head>
 <body>
 <h1>상아질 과민증(DH) 치료 의사결정 계산기</h1>
-<div class="sub">입력에 따라 치료 옵션을 근거 기반으로 랭킹. 2026-06-07 ingest 11편 기반 · 점수는 휴리스틱 [claude해석], 임상 판단 대체 아님</div>
+<div class="sub">입력에 따라 치료 옵션을 근거 기반으로 랭킹. 2026-06 ingest 11편 + 2026-07 at-home RCT 3편 기반 · 점수는 휴리스틱 [claude해석], 임상 판단 대체 아님</div>
 
 <div class="card">
   <h2>입력</h2>
@@ -144,18 +152,22 @@ const OPTS = [
     base:56, durLong:6, durShort:8, ev:"in-vitro",
     cite:"joshi-2013 SEM: 표면 mineral-like 층으로 세관 폐쇄(대조 대비 ↑)",
     note:"생체적합 tubule occlusion. 임상 RCT는 치약 형태가 주근거." },
+  { name:"CPP-ACP (Tooth Mousse) — 브러싱+야간 도포", env:"home", axis:"occ",
+    base:66, durLong:12, durShort:6, ev:"RCT",
+    cite:"ayan-2025 6-arm RCT(n=150, 8주): 5종 가정용 탈감작제 head-to-head 중 CPP-ACP 최고 — 8주 변화 DHEQ-15 56.68±17.87·VAS 6.52±1.48·SSS 2.32±0.56, 순위 CPP-ACP>arginine≈KNO3>NovaMin≈propolis>불소대조 · 단 correa-2025 SR+MA(≥6mo): CPP-ACP 장기(≥6mo) 유의효과 없음",
+    note:"at-home 1차 최선(ayan-2025 8주). 단 장기(≥6mo)효과 미입증(correa-2025) — 지속 사용·재평가 필요." },
   { name:"Bioactive glass(NovaMin/CSP) 치약", env:"home", axis:"occ",
-    base:60, durLong:14, durShort:4, ev:"SR",
-    cite:"defreitas-2021 SR(15 RCT): 저농도 2.5–7.5% at-home 효과적 · joshi-2013: 기전",
-    note:"at-home 1차. 누적 사용으로 효과." },
+    base:60, durLong:14, durShort:6, ev:"RCT",
+    cite:"creeth-2026 RCT(n=215): 5% CSPS/NovaMin이 표준 NaF-실리카 대비 Schiff·Yeaple 모든 시점 우월(군간 p<0.001), 3일 onset·8주까지 증가(DHEQ 군간 NS) · ayan-2025: 5종 중 대조 우월(중위권) · defreitas-2021 SR(15 RCT): 저농도 2.5–7.5% 효과 · joshi-2013: 기전",
+    note:"at-home occlusion. 3일 내 반응 시작·수 주에 걸쳐 호전(creeth-2026)." },
   { name:"포타슘(KNO3) 치약", env:"home", axis:"nerve",
-    base:56, durLong:12, durShort:4, ev:"Scoping",
-    cite:"martins-2022 scoping: 포타슘이 최다 활성성분(19%) — 신경 탈민감 기전",
+    base:56, durLong:12, durShort:4, ev:"RCT",
+    cite:"ayan-2025 RCT(8주): KNO3가 표준 불소치약 대비 우월(순위 arginine≈KNO3) · martins-2022 scoping: 포타슘이 최다 활성성분(19%) — 신경 탈민감 기전",
     note:"신경 탈민감 축. 증발·촉각 자극에 흔히 사용." },
-  { name:"Arginine / SnF2 치약", env:"home", axis:"occ",
-    base:52, durLong:10, durShort:4, ev:"Scoping",
-    cite:"martins-2022 scoping: arginine 8%·SnF2 6% — 표면 occlusion/플러그 기전",
-    note:"at-home occlusion 대안." }
+  { name:"불화주석(SnF₂) / Arginine 치약", env:"home", axis:"occ",
+    base:54, durLong:10, durShort:6, ev:"RCT",
+    cite:"qiu-2026 RCT×2(n=104,113): 무수 0.454% SnF₂가 표준 불소치약 대비 Schiff·촉각역치·LMS 통증 4영역 Day28·56 우월(Study1 Day56 Schiff Δ−2.25 vs −0.31, 촉각 Δ+60.07 vs +2.70 g), ADA ≥20% 임상유의차 Day28 도달 · ayan-2025: arginine도 대조 우월(상위권)",
+    note:"at-home occlusion. SnF₂ 4주 내 임상유의 도달(qiu-2026)." }
 ];
 
 const state = { env:"both", dur:"long", pulp:"no", stim:"thermal" };
@@ -208,6 +220,6 @@ function render(){
 }
 render();
 </script>
-<p class="foot">출처 페이지: wiki/dentin-hypersensitivity/ (correa-2025, shan-2021, faraoni-2023, forouzande-2022, naghsh-2024, jiang-2022, scheffel-2015, joshi-2013, defreitas-2021, martins-2022, ramli-2022, li-2026) · wiki/overviews/dentin-hypersensitivity-overview.md</p>
+<p class="foot">출처 페이지: wiki/dentin-hypersensitivity/ (correa-2025, shan-2021, faraoni-2023, forouzande-2022, naghsh-2024, jiang-2022, scheffel-2015, joshi-2013, defreitas-2021, martins-2022, ramli-2022, li-2026, ayan-2025, qiu-2026, creeth-2026) · wiki/overviews/dentin-hypersensitivity-overview.md</p>
 </body>
 </html>
