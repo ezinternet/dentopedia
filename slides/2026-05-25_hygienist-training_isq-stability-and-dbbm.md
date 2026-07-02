@@ -15,7 +15,7 @@ source_wiki:
   - wiki/sinus-lift/lateral/mordenfeld-2014-msfa-dpbb-autogenous-implants-10year.md
 tags: [hygienist-training, isq, dbbm, slides, 2026-q2]
 marp: true
-theme: default
+theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko

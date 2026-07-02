@@ -16,7 +16,7 @@ source_wiki:
   - wiki/interdental-cleaning/el-haddad-2026-toothpick-use-interdental-papilla-loss-cross-sectional.md
 tags: [hygienist-training, interdental-cleaning, slides]
 marp: true
-theme: default
+theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko

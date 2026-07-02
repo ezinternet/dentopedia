@@ -19,7 +19,7 @@ source_wiki:
   - wiki/prosthetic-materials/ren-2024-morse-taper-abutment-subsidence-locking-force.md
 agenda: agenda/2026-07-02_settling-effect-slides.md
 marp: true
-theme: default
+theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko

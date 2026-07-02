@@ -12,7 +12,7 @@ source_wiki:
   - wiki/sinus-lift/transcrestal/starch-jensen-2025-transcrestal-sinus-osseodensification-meta-analysis.md
 agenda: agenda/2026-05-25_osseodensification-whole-picture.md
 marp: true
-theme: default
+theme: dentopedia
 paginate: true
 size: 16:9
 lang: ko
