@@ -14,6 +14,8 @@ tags: [overeruption, partial-occlusal-contact, tipping, unopposed-tooth, posteri
 relations:
   - type: reinforces
     target: livas-2016-fixed-retention-unopposed-molar-overeruption
+  - type: reinforces
+    target: kiliaridis-2000-vertical-position-rotation-tipping-molars
 ---
 
 ## One-line Summary
