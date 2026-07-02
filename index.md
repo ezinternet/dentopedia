@@ -1372,6 +1372,7 @@ tags: []
 - [[oral-surgery/shandilya-2025-saline-irrigation-oral-cancer-surgery]] — Shandilya 2025 · 전향적(n=132, 구강 SCC 절제+경부청소술): 수술 후 창상 오염률 55% → 생리식염수 세정 후 7.6%로 유의 감소(p<0.001); 신경주위침윤(PNI)만 오염 예측인자(p=0.037); 기계적 세정만으로 이식전이 위험 실질적 감소
 
 ## 레진 (Resin)
+- [[resin/ferracane-2024-historical-perspective-dental-composite-restorative]] — Ferracane 발달사 리뷰(J Funct Biomater 2024, PMC): 복합레진 진화 연대기 — 실리케이트·PMMA → Bowen Bis-GMA(1962)·Buonocore 산부식 → 화학→UV→가시광(CQ)→LED 광중합 → 저수축 모노머·나노/하이브리드 필러 → bulk-fill → bioactive·self-healing; 아말감을 복합레진이 대체해온 구치부 재료로 위치
 - [[resin/theracem-bisco-product-reference]] — 제품 reference: TheraCem(BISCO; calcium silicate·10-MDP·Ca/F 방출 dual-cure self-adhesive 시멘트); 지르코니아 합착 강점 종합
 - [[resin/mahrous-2020-mdp-caf-self-adhesive-resin-cement-microshear]] — in-vitro micro-shear(IJPRD 2020): TheraCem이 RelyX Unicem보다 법랑질·상아질·지르코니아 결합 우위(thermocycling 5000)
 - [[resin/muller-2022-resin-cements-zirconia-bulk-ageing]] — in-vitro(Materials 2022, Özcan): 지르코니아 합착 적층기법·mould·노화 영향, TheraCem 상위
