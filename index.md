@@ -77,6 +77,8 @@ tags: []
 - [[implants/solderer-2025-tissue-level-implant-bone-loss-factors]] — 후향적(n=106, 1년/59개 3년): TL 임플란트 MBL 1년 0.93 mm·3년 1.04 mm; 흡연·치료 악궁이 주요 위험인자
 - [[implants/desai-2013-platform-switching-bone-loss-review]] — 서술적 단보(2013): 플랫폼 스위칭 메커니즘 개요 — 미세간극 이동·응력 분산을 통한 변연골 보존 원리
 - [[implants/peri-implantitis/ayoub-2021-peri-implantitis-one-piece-implant-protocol]] — 증례시리즈: 원피스 임플란트 치주염 프로토콜 — 다이오드레이저·알부민 동종골·스티키본·PRF 복합 적용
+- [[implants/peri-implantitis/cafferata-2025-impaired-treg-mediated-immune-regulation]] — Cafferata 2025 · retrospective (J Clin Periodontol, 육아조직 수술군 23·발거군 23·건강 20): 임플란트주위염 육아조직의 조절T세포(Treg) 기능부전 — FOXP3↑·IL-35↑이나 NRP-1↓·TGF-β1↓, PD·VDD와 상관 → 비해소성 염증의 host-side 근거 (DOI 10.1111/jcpe.70026)
+- [[implants/peri-implantitis/galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions]] — Galarraga-Vinueza 2020 · cross-sectional (Clin Oral Investig, 20병소 육아조직 생검): 대식세포 M1/M2 극성화 — 대식세포 ICT의 14.4%, 진행 병소 M1>M2 유의(M1/M2 1.56), CD68·M1이 PD와 상관 → M1 우세 파괴적 염증 (DOI 10.1007/s00784-020-03556-2)
 - [[implants/ayoub-2024-abutment-bending-guide-one-piece-implant]] — 증례보고(2024): 원피스 임플란트 ABVG 신기술 — RealGuide.5·NeoBiotech 가이드로 지대주 굴곡 정확도 향상
 - [[implants/derks-2015-peri-implant-health-disease-epidemiology]] — SR+MA(11개 연구): 임플란트 주위 점막염 43%·임플란트 주위염 22%; 기능 기간·케이스 정의가 유병률 결정
 - [[implants/berglundh-2018-peri-implant-diseases-conditions-consensus]] — 2017 세계 워크숍 컨센서스: 임플란트 주위 건강·점막염·임플란트 주위염 표준 케이스 정의 확립(AAP/EFP)
