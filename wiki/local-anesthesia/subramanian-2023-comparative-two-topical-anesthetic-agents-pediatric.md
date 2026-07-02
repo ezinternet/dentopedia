@@ -12,7 +12,7 @@ pdf_filename: subramanian-2023-comparative-two-topical-anesthetic-agents-pediatr
 source_collection: external
 tags: [local-anesthesia, topical-anesthetic, pediatric, lignocaine, benzocaine, ianb, injection-pain]
 relations:
-  - type: reinforces
+  - type: contradicts
     target: karkoutly-2024-topical-anesthetics-lidocaine-benzocaine-emla-ianb
 ---
 
