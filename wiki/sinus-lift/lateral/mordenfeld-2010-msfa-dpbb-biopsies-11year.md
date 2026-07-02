@@ -11,6 +11,9 @@ pdf_path: /Users/oracleneo/llm-wiki/papers/mordenfeld-2010-msfa-dpbb-biopsies-11
 pdf_filename: mordenfeld-2010-msfa-dpbb-biopsies-11year.pdf
 source_collection: external
 tags: []
+relations:
+  - type: contradicts
+    target: sartori-2003-msfa-bio-oss-10year-case-report
 ---
 
 ## One-line Summary
