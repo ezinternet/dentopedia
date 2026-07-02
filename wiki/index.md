@@ -77,6 +77,12 @@ confidence: narrative-review
     <span style="font-size:0.85em; color:var(--darkgray);">위키 안에서 근거가 충돌하는 <!-- DEBATE_COUNT -->149<!-- /DEBATE_COUNT -->개 지점 — 회색지대 지도.</span>
   </a>
 
+  <a href="https://ezinternet.github.io/dentopedia/lectures/" style="display:block; text-decoration:none; border:1px solid var(--lightgray); border-left:3px solid var(--secondary); border-radius:10px; padding:1rem;">
+    <div style="font-size:1.8rem; line-height:1;">🎓</div>
+    <strong style="display:block; margin:0.4rem 0 0.2rem;">강의·교육 슬라이드</strong>
+    <span style="font-size:0.85em; color:var(--darkgray);">위키 근거 기반 세미나·직원 교육용 Marp 덱 <!-- LECTURE_COUNT -->4<!-- /LECTURE_COUNT -->편.</span>
+  </a>
+
 </div>
 
 임상 동선 6단계로 바로 가기:
