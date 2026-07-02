@@ -12,7 +12,7 @@ source_wiki:
   - wiki/interdental-cleaning/slekovec-2026-legionella-water-flosser-france-case-report.md
 output:
   - slides/2026-07-01_hygienist_interdental-cleaning.md
-  - interactives/2026-07-01_interdental-cleaning-quiz.html
+  - lectures/2026-07-01_hygienist_interdental-cleaning-quiz.html
 tags: [hygienist-education, interdental-cleaning, slides, interactive, quiz]
 ---
 
@@ -36,7 +36,8 @@ tags: [hygienist-education, interdental-cleaning, slides, interactive, quiz]
 # Output
 
 - slides/2026-07-01_hygienist_interdental-cleaning.md   (marp 강의 슬라이드)
-- interactives/2026-07-01_interdental-cleaning-quiz.html (자가테스트 5문항 퀴즈)
+- lectures/2026-07-01_hygienist_interdental-cleaning.html (export된 정적 덱)
+- lectures/2026-07-01_hygienist_interdental-cleaning-quiz.html (자가테스트 5문항 퀴즈, 덱 카드 옆에 붙는 동반 카드)
 
 각 산출물 frontmatter에 `agenda: agenda/2026-07-01_hygienist-interdental-cleaning-education.md` 백링크.
 
@@ -44,5 +45,5 @@ tags: [hygienist-education, interdental-cleaning, slides, interactive, quiz]
 
 - [x] 슬라이드: 학습목표·결정트리·도구별 근거·안전주의 (inline citation)
 - [x] HTML 퀴즈: 5문항, 정답·해설·근거링크, 점수 집계, self-contained
-- [x] interactives-index 색인 (category: perio-maintenance)
+- [x] lectures-index 색인 (interactives/ 색인에는 미포함 — 덱 카드 옆 동반 카드로만 노출)
 - [x] operations-lint 통과 (agenda 백링크 체인)
