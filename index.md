@@ -1394,6 +1394,7 @@ tags: []
 - [[resin/algamaiah-2021-ultra-rapid-bulk-fill-shrinkage-stress]] — in-vitro(Dent Mater, Watts그룹): 3초 초고조사(~3000 mW/cm²) 벌크필 — strain 약간↓·stress 약간↑(network mobility 감소); AFCT 첨가제(PFill)는 고조사에서도 수축응력 유의 감소
 - [[resin/feng-2024-polyurethane-dimethacrylate-low-shrinkage-composite]] — in-vitro(J Dent, Jilin대 재료개발): 20wt% PU-MA + 75wt% 글래스플레이크(PU-PG-75%) 부피수축 1.35%; 충전율↑→흡수·용해도↑·경화깊이↓; 노화 후 물성 상용품보다 안정
 - [[resin/he-2026-fluorinated-thiol-ene-low-shrinkage-composite]] — in-vivo+in-vitro(J Dent, 중산대): fluorinated thiol-ene 저수축응력 복합레진(DST-1) — 미세누출↓·연쇄상구균 부착↓(낮은 SFE)·rat 무해; 저수축+항균으로 이차우식 억제 노림
+- [[resin/he-2026-polymerizable-inhibitor-shrinkage-stress]] — in-vitro(Clin Oral Investig 2026, PMC, Turku/중산대): 중합성 억제제 PBHT(메타크릴레이트 결합형 BHT) 합성 — gel-point 지연으로 수축응력 유의 저감(최대 수축응력속도 47.5→13.1 ×10⁻³ MPa·s), 비중합 BHT는 UDMA-rich 매트릭스서 효과 없음; 용출 억제제 ~4배 적음(1%PBHT 132 vs 1%BHT 549 µg/g); 최적 1 wt%
 - [[resin/magne-2023-short-fiber-reinforced-mod-restorations]] — in-vitro 피로·균열(J Adhes Dent, 대구치 36개): 수축응력→직접수복 67–83%에 >3mm 법랑질 균열; SFRC base+CAD/CAM 인레이(최저 V-factor) 수축균열 0·최고 생존·reparable 파절; everX Posterior(-1.52%) vs Flow(-2.58%)
 - [[resin/josic-2023-direct-indirect-resin-longevity-sr-ma]] — SR+MA(23편, Dental Materials 2023): 구치부 직접 vs 간접 복합레진 수명 — 단기·중기·장기 모두 유의차 없음(근거 very low)
 - [[resin/tennert-2024-direct-vs-indirect-composite-longevity-sr-ma]] — SR+MA(5 RCT, 627수복, Dental Materials 2024): 직접 수복 실패 위험 유의하게 낮음(RR=0.61), 모든 연구 high risk of bias
