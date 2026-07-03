@@ -29,6 +29,9 @@ tags: [periodontics, classification, non-surgical, regeneration, spt, peri-impla
 > - **골소실 분자기전(pathogenesis)**: 치주염 치조골 소실은 RANKL/RANK/OPG 축 교란 → NF-κB(canonical/non-canonical)·JAK/STAT·MAPK(p38/JNK/ERK)·PI3K/Akt 4개 경로가 NFATc1로 수렴해 파골세포 분화; "훈련된 파골세포생성(trained osteoclastogenesis, MITF 후성유전 기억)" 개념과 denosumab·JAK억제제·천연화합물 치료 후보를 비판적으로 조망 (de Molon 2026, 종설).
 > - **재생 생물학(bone-PDL-cementum)**: 뼈·치주인대(PDL)·백악질 복합체 *동시* 재생은 줄기세포(PDLSC/BMSC)+흡수성 지지체, 내인성 세포유도(SDF-1α+BMP7), 유전자치료(Ad-PDGF-B), 층별 생체모방(LBL) 구조물로 접근 — 핵심 난제는 신생 백악질·신생골에 수직 삽입되는 배향성 Sharpey 섬유 생성(현재 PCL/PGA 섬유유도 3D 프린팅만 신뢰성 있게 달성); 임상 적용은 자가/동종골·Bio-Oss·콜라겐막만 승인, 세포·유전자치료는 초기 단계 (Liu 2019, SR). → 임상 NMA(Stavropoulos 2021, 축 3)가 의존하는 생물학적 토대.
 > - **근거 약한 보조제**: 오존 겔은 소규모 RCT(n=12/군)에서 방사선학적 골결손 within-group 이점만 있어 [근거약함]; 오옥시스테롤(oxysterol) BMP-2 대안은 [전임상 단계]. "심한 치주염은 바로 외과로"는 오판 — step-wise는 비외과 first.
+> - **초치조상부 조직부착(Supracrestal Tissue Attachment, STA / 생물학적 폭경, Biologic Width) — 고정값 아님**: 디지털 중첩 연구(CBCT+구강스캔, 203치)에서 평균 2.05 mm이나 하악>상악·전치>구치에서 더 크고, 협측 골두께·치은두께·각화치은폭과 역상관 → "박형 치주표현형(thin phenotype)"일수록 STA가 크다 (Abdulkarim 2024). 수복 변연·크라운연장 계획 시 일률적 2 mm 적용은 금물.
+> - **교정적 정출(Forced Eruption)** — 우식·파절이 STA를 침범했거나 페룰(ferrule) 부족 시, 절제형 크라운연장의 보존적 대안. 인접치 골 보존·crown-to-root 비 개선이 장점이나 치료기간 연장·섬유절제술(fiberotomy) 필요; 임플란트 식립부 개발 목적이면 반대로 PDL 장력으로 골을 따라오게 유도 (Huang 2021). 활동성 치주염은 절대 금기(정출 시 치은퇴축만 유발).
+> - **시멘트질 열개(Cemental Tear)** — 수직치근파절·근관질환·치주질환으로 오진되기 쉬운 저인지 병소. 중국 다기관 전문가합의(Liang 2025)는 위치 기반 치료 결정트리(치관측 3분의1 vs 근단측)와 완전 조각제거 원칙을 제시(1년 기능보존율 94%); 홍콩 후향적 단면연구(Lee 2025, n=445치)는 유병률 5.6%(기존 문헌의 3배)와 4개 독립위험인자(전치부, 치아동요도, 심한 치조골소실 ≥70%, 오히려 "적절한" 근관충전 — OR 8.38)를 확인, 단순 치근단방사선사진의 CBCT 대비 민감도는 0.60에 불과.
 
 ## One-line Summary
 
@@ -208,6 +211,39 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 | [[suture-wound-closure/shakiliyeva-2025-conventional-modified-sling-suture-free-gingival-graft]] | rct | FGG: 봉합법보다 이식편 기법(GUT)이 수축 감소, GUT+통상봉합이 KT 폭 증가 최대 |
 | [[periodontics/barboza-2014-dptfe-membrane-keratinized-tissue-rct]] | rct | d-PTFE 의도노출 막으로 graft-free KT 증대 +6.6~7.1 mm |
 
+### 축 6b — 초치조상부 조직부착 (Supracrestal Tissue Attachment, STA) 침범과 수복 결정
+
+**핵심 명제**: STA(구 생물학적 폭경, Biologic Width)는 고정된 ~2 mm가 아니라 치아 위치·치주표현형에 따라 크게 달라진다 — 수복 변연·크라운연장 계획 전 반드시 부위별 STA를 고려해야 한다.
+
+| Paper | Evidence | Key finding |
+|---|---|---|
+| [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] | retrospective (19명/203치, CBCT+IOS 디지털 중첩) | STA 평균 2.05 mm (범위 0.02–5.85); 하악>상악(p=0.001), 전치/견치>구치(p<0.001); 협측골두께·치은두께·각화치은폭과 역상관(r=−0.42~−0.14), CEJ-골연 거리와 정상관(r=0.574) — "박형 치주표현형(thin BBT+thin GT+narrow KTW)"이 오히려 더 큰 STA를 가짐 |
+| [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]] | narrative-review | STA 침범 또는 페룰 부족 시 절제형 크라운연장의 보존적 대안 = 교정적 정출(forced eruption); 목표에 따라 정반대 조직반응 유도(크라운연장=fiberotomy로 골이 안 따라오게, 임플란트 식립부 개발=PDL 장력으로 골이 따라오게) |
+
+**임상 ladder (STA 침범 대응)**:
+1. **수복 변연이 STA를 침범할 것으로 예상** → 부위별 실제 STA 추정(하악·전치·박형 표현형일수록 더 크게 예상) 후 침범 여부 재평가. 일률적 "2 mm 규칙" 적용 금지.
+2. **STA 침범 확인 + 인접치 골 보존 원함 + 치주 건강 정상** → 교정적 정출(fiberotomy 병행) 우선 고려. 인접치 무침습·crown-to-root 비 개선·심미 우위이나 치료기간 연장.
+3. **STA 침범 + 다수치·인접치 골형태 조정 필요 또는 정출 금기(활동성 치주염·유착·수직치근파절·짧은 치근)** → 절제형 크라운연장(APF ± osseous resection, 축 6 참조).
+4. **임플란트 식립부 골량 부족(수직 결손)** → 동일 정출 기법이나 목표는 반대: fiberotomy 생략, PDL 장력으로 치조골 상방 이동 유도(Salama Type 1/2 적응, Type 3은 GTR로 전환).
+5. **활동성 치주염 동반** → 정출 절대 금기(치은퇴축 + 임상부착소실만 유발) — 먼저 치주 안정화(축 2) 후 재평가.
+
+### 축 6c — 시멘트질 열개 (Cemental Tear)
+
+**핵심 명제**: 시멘트질 열개는 수직치근파절(VRF)·1차 근관질환·치주질환으로 쉽게 오진되는 저인지 병소이며, 조각의 완전 제거를 전제로 한 위치기반 치료가 예후를 크게 좌우한다 (대부분 발치가 아닌 보존 가능).
+
+| Paper | Evidence | Key finding |
+|---|---|---|
+| [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] | consensus (중국 다기관 전문가합의) | 진단 위계 병력→임상검사→CBCT→조직병리(확진); 치료는 조각 위치기반 결정트리(치관/중간/근단 1/3) + 골내결손 특징(깊이<3mm=절제형, ≥3mm=재생형 EMD/GTR)로 분기; 비외과 치유율 28.6%, 외과 치유율 57.7%, 완전제거 후 1년 기능보존율 94% |
+| [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] | cross-sectional (홍콩, n=445치, 2019–2024) | 유병률 5.6%(PR+CBCT 병용, 기존 단일영상 문헌 0.89–1.9%의 약 3배); 다변량 독립위험인자 — 전치부(구치 대비 OR 0.08), 치아동요도(Grade 1–3 OR 18.7–48.3), 심한 치조골소실≥70%(OR 10.83), *적절한* 근관충전(OR 8.38, 부적절 대비) — 마지막 인자는 충전 술식 유발 열충격/기계적 응력 가설 제기; PR 단독 민감도 0.60(CBCT 대비, 40%는 CBCT로만 검출) |
+
+**임상 ladder (시멘트질 열개 감별·처치)**:
+1. **VRF·근관질환·치주질환 의심 병소가 방사선상 비전형적**(치근면 근접 "prickle-like"/"flake-like" 방사선불투과 조각 + 방사선투과 병소) → 시멘트질 열개 감별 우선순위에 포함, 특히 60세 이상·전치부·동요도 있는 치아.
+2. **일반 치근단방사선사진(PR) 음성이어도 임상 의심 지속** → 소시야(small-FOV) CBCT 시행(민감도 0.60인 PR만으로는 40% 누락).
+3. **CBCT로 조각 확인** → 수술적 접근 시 methylene blue 염색으로 조각 위치 확인 후 **완전 제거**(부분 제거는 예후 저하).
+4. **골내결손 동반 시** — 결손 깊이 <3 mm → 절제형(resective); ≥3 mm → 재생형(EMD/GTR/골이식) 병용, 근단부 결손 ≥10 mm 또는 협측골판 잔존 ≤3 mm이면 근단 재생 접근 우선.
+5. **위치별 예후 참고** — 치관측 1/3 치유율 60%, 중간 1/3 66.7%, 근단측 1/3 11.1% → 근단측 병소는 예후 설명·다학제(근관+치주) 상의 필요.
+6. **오판 방지**: "방사선상 애매한 근단·치근면 병소 = VRF 또는 발치 대상"이 아니다 — 완전 제거 후 94% 1년 기능 보존이 가능하므로 성급한 발치 결정 금지.
+
 ### 축 7 — Peri-implantitis (Korean Academy Consensus)
 
 | Spine paper | Evidence | Key finding |
@@ -251,6 +287,13 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - [ ] `wiki/overviews/mucogingival-surgery-outcomes.md` — APF·FGG·CTG long-term RCT 메타 분석.
 
 ## Related Papers
+
+### 신규 추가 (2026-07-03)
+
+- [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]] — Retrospective digital-superimposition study (19 patients/203 teeth): STA averages 2.05 mm but varies by tooth position (mandibular>maxillary, anterior>posterior) and inversely with buccal bone thickness/gingival thickness/keratinized tissue width; quantifies the tooth-specific attachment dimension that restorative margins and crown lengthening must respect. (retrospective, 2024) — integrated into new axis 6b.
+- [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]] — Narrative review positioning orthodontic forced eruption as a conservative alternative to resective crown lengthening for STA violation/inadequate ferrule, with opposite tissue-response goals (fiberotomy for crown lengthening vs PDL-tension bone-following for implant site development); absolute contraindication is active periodontitis. (narrative-review, 2021) — integrated into axis 6b.
+- [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Multi-institution Chinese expert consensus: diagnostic hierarchy (history→exam→CBCT→histopathology) and location-based treatment decision tree for cemental tear; complete fragment removal is central, 94% 1-year functional retention. (consensus, 2025) — integrated into new axis 6c.
+- [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] — Retrospective cross-sectional study (n=445 teeth, Hong Kong): 5.6% cemental tear prevalence (~3x prior single-modality estimates) and four independent risk factors (incisor type, tooth mobility, severe crestal bone loss, adequate root filling quality); periapical radiograph sensitivity only 0.60 vs CBCT. (cross-sectional, 2025) — integrated into axis 6c alongside Liang 2025.
 
 ### 신규 추가 (2026-06-27)
 
@@ -308,6 +351,10 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - [[periodontics/jo-2008-management-of-dental-biofilm-through]]
 - [[periodontics/unknown-2009-non-surgical-and-surgical-periodontal]]
 - [[periodontics/apatzidou-2022-cigarette-smoking-periodontal-implant-review]]
+- [[periodontics/abdulkarim-2024-digital-assessment-supracrestal-tissue-attachment]]
+- [[periodontics/huang-2021-clinical-considerations-orthodontically-forced-eruption]]
+- [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]]
+- [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]]
 
 ### Cross-link — 잇몸 염증 보조제 (drug 카테고리 cross-link, 본 ladder 본문 미반영)
 
@@ -338,3 +385,5 @@ Periodontics decision ladder synthesizing 27+ `periodontics/` papers across 6+ a
 - 조직공학 재생 (bone-PDL-cementum) = [전임상~초기임상] (Liu 2019 SR).
 - RA↔치주염 치료 link = [근거중간] (Dolcezza 2024 SR+MA, 소규모 RCT 6편).
 - 오존 겔 보조 = [근거약함] (Barahim 2024 n=12/group).
+- 축 6b STA/생물학적 폭경 = [근거중간] (Abdulkarim 2024 retrospective n=19, Huang 2021 narrative-review).
+- 축 6c 시멘트질 열개 = [합의수준] (Liang 2025 consensus, 근거기반은 case-report 위주 Level 4) + [근거중간] (Lee 2025 cross-sectional n=445).
