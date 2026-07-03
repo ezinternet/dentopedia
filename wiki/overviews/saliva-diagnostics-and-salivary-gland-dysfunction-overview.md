@@ -50,6 +50,7 @@ Saliva occupies two distinct but coupled clinical roles. As a **diagnostic mediu
 - **Detection engineering**: EFIRM electrochemical assay (<100 molecules, ~30 min, 40–50 µL, CLIA-certified for EGFR mutations in plasma and saliva and for SARS-CoV-2 IgG); trend toward biosensors, microfluidics, and wearable intraoral sensors ([[li-2024-salivary-diagnostics-opportunities-challenges]]).
 - **Representative biomarker numbers**: MMP-9 falls 588→132 ng/mL after OSCC surgery; MMP-1 cutoff ~199 pg/mL; electrochemical PSA sensitivity 40 fg/mL; HPV ctDNA for HNSCC; salivary BRCA1/2.
 - **Precedent in wiki**: saliva already appears as a *disease readout* in COVID-19 oral sequelae ([[tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]]) and as diabetes markers linked to HbA1c ([[maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]]).
+- **Periodontitis application (untargeted proteomics)**: an SR of 13 discovery-proteomics studies finds a reproducible salivary signature — complement C3, profilin-1, S100A8, fibrinogen ↑ and cystatin-SN, leukocyte elastase inhibitor ↑ in health — yet only S100A8 is meta-analyzable (AUC 0.71) and multi-protein ML panels reaching AUC ~0.97 lack external validation; whole saliva trades GCF's site-specificity for whole-mouth convenience ([[corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr]]).
 
 ### Axis B — Salivary-gland flow and its failure (function)
 
@@ -80,6 +81,7 @@ Saliva occupies two distinct but coupled clinical roles. As a **diagnostic mediu
 | [[shiboski-2016-acr-eular-sjogren-classification-criteria]] | consensus | B (differential) | 2016 ACR-EULAR Sjögren classification |
 | [[tsuchiya-2023-covid-19-oral-sequelae-gustatory-saliva]] | narrative-review | A (content) | Saliva as disease readout (COVID-19 sequelae) |
 | [[maftei-2021-salivary-markers-hba1c-type2-diabetes-extraction]] | — | A (content) | Salivary markers ↔ HbA1c in type 2 diabetes |
+| [[corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr]] | sr | A (content) | Untargeted salivary proteomics for periodontitis; reproducible signature (S100A8/C3/profilin-1/fibrinogen ↑), only S100A8 pooled AUC 0.71 |
 
 ## Open Questions / Gaps
 
