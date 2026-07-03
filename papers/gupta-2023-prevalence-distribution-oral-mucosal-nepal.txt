@@ -1,0 +1,68 @@
+Title: Prevalence and Distribution of Oral Mucosal Lesions and Normal Variants among Nepalese Population
+Authors: Abhishek Gupta, Parikshya Shrestha, Sijan Poudyal, Sandeep Kumar, Ram Sudan Lamichhane, Surendra Kumar Acharya, Peeyush Shivhare
+Journal: BioMed Research International, 2023;2023:9375084
+PMID: 37885902
+PMCID: PMC10599919
+DOI: 10.1155/2023/9375084
+
+Abstract
+
+Background: Oral mucosa is encountered by various lesions and normal variants. Some are not to be worried about, whereas others may be of significance. Knowing the prevalence of oral mucosal lesions in a particular region helps better evaluate, diagnose, and, thus, manage these lesions.
+
+Objectives: To assess the prevalence and distribution of oral mucosal lesions and normal variants among various age groups, genders, and sites of the orofacial region.
+
+Methods: This cross-sectional study was conducted in the Department of Oral Medicine and Radiology, KIST Medical College and Teaching Hospital from January 2021 to March 2021. Three different proformas were designed according to age, gender, and location of lesions for entry as per the WHO's guide. The obtained data were entered into a Microsoft Excel sheet for frequency analysis by SPSS, and the results were tabulated.
+
+Results: Among the records of 16572 (9703 (58.55%) males and 6869 (41.44%) females) OPD patients, 3495 (21.08%) (1934 (55.33%) males and 1561 (44.66%) females) had OMLs and 2314 (13.96%) (1626 (70.26%) males and 688 (29.73%) females) had normal mucosal variants. The most commonly seen OML categories were tobacco-associated lesions, i.e., 2056 (34.07%), tongue lesions, i.e., 1598 (26.48%), oral potentially malignant disorders, i.e., 815 (13.50%), ulcers i.e., 728 (12.06%), and infectious lesions, i.e., 256 (4.24%).
+
+Conclusion: The Nepalese population has a wide range of oral mucosal lesions and normal variants, and this study has attempted to have baseline data for the same. The most common OML was smoker's melanosis.
+
+Full Text
+
+1. Introduction
+
+The orofacial region is affected by various oral mucosal lesions (OMLs). Oral mucosa is explicitly affected by seven oral potentially malignant disorders. Various other OMLs include several types of cysts, benign and malignant tumours, inflammatory lesions, lesions associated with tobacco, areca nut, betel nut chewing, and others; immune-mediated lesions like recurrent aphthous stomatitis (RAS) and oral pemphigus, which pose a challenge in the management and may become life-threatening if early diagnosis fails. These lesions cause disturbance in day-to-day activities as they interfere with the consumption of food, causing pain, burning sensation, facial asymmetry, and others. In contrast, other normal variants of oral mucosa do not cause harm but can be misdiagnosed as a potentially life-threatening condition. This makes it necessary for us to have the proper knowledge about oral lesions (OLs) and the normal variants for proper management. These lesions vary depending on geography, race, culture, ethnicity, food, or deleterious habits. Therefore, adequate knowledge about the prevalence of oral lesions is of great significance as it helps in the prevention, correct diagnosis, and management.
+
+The prevalence of OMLs and normal variants is between 10.8% and 61.6% among the various populations. Epidemiological studies of OLs are still lacking when compared to the studies of dental caries or periodontal diseases, and just two studies based on this topic have been reported in Nepal to date. Those studies were not focused on the prevalence of normal variants and OMLs; instead, they were histological studies done on pathological samples, so they could not find the overall prevalence. This prompted us to conduct a study on the prevalence of oral lesions and normal variants of oral mucosa from previous dental records of patients who had visited the dental hospital in Lalitpur within the provided time frame.
+
+The objectives of this study were to study the prevalence and distribution of various oral mucosal lesions and normal variants among various age groups, genders, and sites of the orofacial region.
+
+2. Material and Methods
+
+2.1. Study Design: This cross-sectional study was carried out in the Department of Oral Medicine and Radiology, KIST Medical College and Teaching Hospital, from January 2021 to March 2021. Ethical approval was given by the institutional review committee of the same institution (IRC Ref. No. 077/078/26). The census sampling method was used for all the cases of oral lesions recorded from January 2016 to December 2019, meeting the inclusion criteria.
+
+2.2. Inclusion and Exclusion Criteria: Clinically or histologically diagnosed as any of the oral mucosal lesions, along with data of the location/site of the lesion. Data including clinical/histological diagnosis, age, gender, and site/sites of the lesion were included. Record with incomplete demographic or clinical data was excluded. The same patient was not included again as a new patient (unique OPD number).
+
+2.3. Data Sources: Data collection was done manually from previous outpatient records. Three different proformas were designed for entry according to age, gender, and location of lesions, per the WHO's guide to epidemiology and diagnosis of oral mucosal diseases and conditions.
+
+2.4. Statistical Methods: Data entered in Excel, frequency analysis by IBM SPSS Statistics v27.
+
+3. Result
+
+Among the records of 16572 OPD patients, 3495 (21.08%) had OMLs, 2314 (13.96%) had normal mucosal variants, and 10763 (64.94%) had normal oral mucosa. A total of 55 types of OMLs were noted among the 10437 lesions, categorized into 11 groups plus "others." More than 45% of individuals had more than one OML and/or normal variant; total OMLs recorded 6033, total normal variants 4404.
+
+Most common OML categories (descending): tobacco-associated lesions 2056 (34.07%), tongue lesions 1598 (26.48%), oral potentially malignant disorders (OPMD) 815 (13.50%), ulcers 728 (12.06%), infectious 256 (4.24%), others 172 (2.85%), soft tissue lesions 167 (2.76%), gingival lesions 108 (1.79%), bony lesions 68 (1.12%), salivary gland lesions 39 (0.64%), mucocutaneous lesions 17 (0.28%), malignancy 9 (0.14%).
+
+3.1. OMLs and Normal Variants: Gender Distribution — 3808 (63.11%) OMLs and 2470 (56.08%) normal variants in males; 2225 (36.88%) OMLs and 1934 (43.91%) normal variants in females. OPMD (71.77%), malignancy (77.77%), tobacco-associated (81.66%), infectious (77.34%) were significantly higher in males. Typical gingival lesions (64.81%) and mucocutaneous (76.47%) were significantly higher in females. Normal variants were more common in males (56.08% vs 43.91%); frictional keratosis (38.52%) was most common among females and linea alba (34.77%) was most common among males.
+
+3.2. Age-Wise Distribution — Most OMLs seen at 41-50y (25.58%), then 51-60y (22.73%), 31-40y (22.59%), 21-30y (14.44%), >60y (10.48%), 11-20y (3.39%), 0-10y (0.55%). Most common normal variants by age: 11-20y — Fordyce's granules (27, 31.76%); 21-30y (265, 38.46%), 31-40y (363, 36.85%), 51-60y (413, 36.67%), >60y (233, 53.68%) — frictional keratosis; 41-50y (419, 37.21%) — linea alba.
+
+3.3. Location-Wise Distribution — Most common OML sites: buccal mucosa (2265, 22.23%), tongue (1899, 18.64%), labial mucosa (1704, 16.73%), posterior gingiva (1072, 10.52%), anterior gingiva (1047, 10.27%), vestibule (1014, 9.95%), palate (883, 8.66%). Most common site for normal variants overall: buccal mucosa (3958, 80.10%), then labial mucosa (452, 9.14%), tongue (215, 4.35%), vestibule (113, 2.28%), gingiva (186, 3.76%).
+
+4. Discussion
+
+Study population 16572 (9703 males, 6869 females) — a much larger sample than prior comparable studies (Amaral et al. 1075; El Toum et al. 178; Bhatnagar et al. 8866, etc.). Overall OML prevalence 21.08%, comparable to Kumar et al. (18.89%) and Do et al. (20.5%); lower than Demko et al. (26.7%), Mumcu et al. (41.7%), Chiang et al. (92.83%); higher than several pediatric-population studies. Prevalence of normal mucosal variants was 13.96%, higher than Al-Mobeeriek et al. (8.66%).
+
+Prevalence of Fordyce's granules was 8.84%, higher than Oivio et al. (1.2%) and El Toum et al. (3.9%), but lower than Bhatnagar et al. (19.89%), Ali et al. (20.4%), and Chiang et al. (82.8% — a striking outlier reflecting population/examination differences). Prevalence of leukoedema was 0.72%, comparable to Mumcu et al. (0.4%) but lower than Al-Mobeeriek et al. (3.37%), Castellanos and Díaz-Guzmán (10.56%), and Bhatnagar et al. (15.72%).
+
+4.1 Gender — OML prevalence significantly higher in males (63.11%) than females (36.88%), consistent with Saraswathi et al., Pentenero et al., Avcu et al., Bhatnagar et al.; contrasted with Al-Mobeeriek et al. and Castellanos and Díaz-Guzmán where females predominated; El Toum et al. and Mumcu et al. found no gender difference.
+
+4.2 Age Groups — OMLs most frequent at 41-50y then 31-40y (consistent with Bajracharya et al.). Oral candidiasis most common in elderly (>61y). OPMD, malignancies, tobacco lesions most common at 31-40y.
+
+4.3 Location — Most common OML location buccal mucosa (22.23%), similar to Bajracharya et al. (20.7%), higher than Gambhir (16.8%); differs from studies reporting lower lip or palate as most common site. Among normal variants, frictional keratosis (36.71%) and linea alba (34.10%) were most frequent overall; Fordyce's granules was the most common normal variant in the study by Ali et al. (20.4%), unlike the present study.
+
+Limitations: single tertiary center in Nepal (region-specific data); retrospective design without histopathological confirmation of all lesions. Suggest multicenter countrywide study for more generalizable prevalence data.
+
+5. Conclusion
+
+Wide variation in OML prevalence worldwide, region-specific. Nepalese population shows a wide range of OMLs and normal variants; this study provides baseline data. OMLs most common among males and the 41-50y age group. Most common OML group tobacco-related, with smoker's melanosis the single most common lesion (most predominant among males aged 50-60y).
