@@ -793,6 +793,7 @@ tags: []
 - [[periodontics/dasilveira-2026-subgingival-irrigation-chemical-agents-nspt-sr-ma]] — da Silveira 2026 · sr+ma · 16 RCT(712명): NSPT에 약제 치은연하세척 추가해도 PPD·CAL·BOP 추가이득 없음(근거 낮음)
 - [[periodontics/angelopoulou-2026-melatonin-adjunct-nspt-t2dm-sr-ma]] — Angelopoulou 2026 · sr+ma · 당뇨병성 치주염 NSPT에 전신 멜라토닌(3mg) 보조: PPD·CAL·HbA1c·hs-CRP 유의 개선(2 RCT 풀링, 근거 낮음)
 - [[periodontics/jungbauer-2026-naocl-hyaluronic-acid-subgingival-reinstrumentation-rct]] — Jungbauer 2026 · rct · 재기구조작에 AA-NaOCl+xHA(clean&seal) 보조 시 6개월 PD +0.50mm·CAL +0.57mm 추가 개선, 포켓폐쇄 88% vs 38%
+- [[periodontics/corana-2024-salivary-proteomics-novel-biomarkers-periodontitis-sr]] — Corana 2024 · sr (13편, untargeted 타액 프로테오믹스) · 치주염에서 C3·profilin-1·S100A8·fibrinogen 일관 상승, cystatin-SN·leukocyte elastase inhibitor 일관 감소; 메타분석 가능 마커는 S100A8뿐(AUC 0.71)이라 단일마커 타액 스크리닝 근거 미성숙 (DOI 10.1111/jre.13357)
 - [[periodontics/dolcezza-2024-rheumatoid-arthritis-periodontal-disease-sr-ma]] — Dolcezza 2024 · sr+ma · 비외과적 치주치료가 RA 활성도(DAS28 −0.56)와 CAL(−0.41mm)을 유의하게 개선 (RCT 6편)
 - [[periodontics/qiao-2020-rheumatoid-arthritis-risk-periodontitis-sr-ma]] — Qiao 2020 · sr+ma · 치주염이 류마티스관절염(RA) 위험 69%↑(OR 1.69, 13편 >100만명); incident·>5년 RA서 최강 (DOI 10.1016/j.jbspin.2020.04.024)
 - [[periodontics/sooampon-2026-dc-red-33-erythrosine-plaque-disclosure-rct]] — Sooampon 2026 · rct · 무작위 교차시험(n=11): 에리트로신 대체 치태착색제로 D&C Red No.33 비교 — 치태감소율 동등, 잔류착색·맛·제거 우수; FDA 2025.1 에리트로신 식품/내복약 금지 맥락 (DOI 10.1186/s12903-026-08786-6)
