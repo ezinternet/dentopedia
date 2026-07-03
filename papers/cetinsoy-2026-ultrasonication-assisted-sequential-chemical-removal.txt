@@ -1,0 +1,28 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC yet)
+PMID: 41800478 | DOI: 10.1111/cid.70131
+Çetinsoy E, Gökçe B, Köse T, Gürkan A.
+"Ultrasonication-Assisted Sequential Chemical Removal of Mature Biofilm on Retrieved Titanium Healing Abutments."
+Clin Implant Dent Relat Res. 2026;28(2):e70131. (e-pub 2026 Apr)
+
+== ABSTRACT (full) ==
+Aim: Investigate effectiveness of ultrasonication (US) with different chemical solutions on decontamination of titanium healing abutments (HAs) and their surface characteristics.
+
+Methods: 95 HAs (two distinct brands/designs) retrieved from patients after 4–6 weeks. Precleaned by immersion in enzymatic detergent (ED), randomized into 5 groups:
+- Control: autoclave only.
+- US in 40°C tap water + autoclave.
+- US in 40°C 1% sodium hypochlorite (SH) + autoclave.
+- US in 80°C citric + maleic + lactic acid (CA) solution + autoclave.
+- US in 40°C ED + autoclave.
+HAs stained + photographed (lateral + occlusal) before/after decontamination; stained areas calculated; SEM + EDX for surface morphology and elemental composition.
+
+Results:
+- Control (autoclave only): LOWEST debridement (mean 54.4%), highest residual contamination.
+- SH: almost entirely removed debris — mean 99.7% (Brand1 99.6%, Brand2 99.9%), outperforming all groups (p<0.05).
+- SEM/EDS: SH-decontaminated surface morphology + elemental composition similar to UNUSED HAs.
+
+Conclusion:
+- After precleaning by soaking in ED, 1% SH + US is preferred for decontaminating HAs — superior cleaning + minimal surface alteration regardless of HA macrogeometry.
+- Where placing unused HAs is not feasible, this THREE-STEP protocol (ED soak → US + 1% SH → autoclave) may be an efficient, cost-effective alternative for AT LEAST ONE reuse cycle.
+
+Study type: In vitro (mature biofilm, 2 brands). Newest in the set (2026).
+MeSH: Titanium, Biofilms, Dental Abutments, SEM, Sodium Hypochlorite, Decontamination, Surface Properties, Ultrasonics, Lactic Acid, Maleates, X-Ray Emission, Citric Acid.
