@@ -1451,6 +1451,12 @@ tags: []
 - [[endodontics/de-almeida-junior-2024-cytotoxicity-bioactivity-ceraseal-bioroot]] — de Almeida-Junior 2024 · in-vitro · CeraSeal/BioRoot/AH Plus all non-cytotoxic to MC3T3 osteoblasts at 48h; differential Tnf/Ptgs2/Dmp1 induction
 - [[endodontics/gaafar-2025-inflammatory-response-neosealer-ceraseal-fibroblasts]] — Gaafar 2025 · in-vitro · CeraSeal > NeoSEALER Flo for HGF biocompatibility; both bioceramics dose-dependently cytotoxic/pro-inflammatory, AH Plus highest cytokines
 
+## 근관치료 — GP 콘 소독·교차오염 (Endodontics: GP Cone Decontamination / Cross-infection)
+- [[endodontics/aucinaite-2025-naocl-chx-gutta-percha-cone-decontamination-sr]] — NaOCl vs CHX for gutta-percha cone decontamination (SR, 7 in vitro studies)
+- [[endodontics/raheja-2025-naocl-silver-chitosan-nanoparticle-gp-cone-disinfection]] — NaOCl vs silver/chitosan nanoparticles for gutta-percha cone disinfection (AFM, in vitro)
+- [[endodontics/bracciale-2020-bacterial-contamination-gutta-percha-chairside-disinfection]] — 240 in-use GP points: 22.9% contaminated, chairside NaOCl disinfects 76.4%
+- [[endodontics/teles-2024-gutta-percha-points-mrsa-mssa-contamination]] — In-vitro: 1.9% of in-use GP points MRSA/MSSA-contaminated, NaOCl clears all
+
 ## 근관치료 — 근관외과·기타 (Endodontics: Periapical Surgery / Protocols)
 - [[endodontics/visit-protocol/vertucci-2026-single-vs-multiple-visit-endodontics-umbrella]] — Umbrella SR (J Dent 2026): single- vs multiple-visit RCT — post-op pain, flare-up rate, periapical healing
 - [[endodontics/he-2026-hemostatic-agents-periapical-surgery-sr-ma]] — SR+MA (J Endod 2026): hemostatic agents (epinephrine/ferric sulfate/AlCl₃/bone wax/TXA) in periapical surgery — bleeding control, healing
@@ -3111,6 +3117,16 @@ tags: []
 - [[infection-control/patino-marin-2025-sterilization-disinfection-dental-practices]] — Narrative review: dental sterilization/disinfection methods overview (autoclave, chemical, UV, vaporized H₂O₂, EtO, ozone), biological indicator protocols, sterile storage guidelines; Cureus 2025
 - [[infection-control/cardenas-2022-electrolyzed-water-dental-setting-sr]] — SR (63 studies): electrolyzed water effective broad-spectrum disinfectant for dental surfaces/materials/equipment incl. SARS-CoV-2; BMC Oral Health 2022
 - [[infection-control/samaranayake-2024-dental-unit-waterlines-disinfection]] — Narrative review: DUWL biofilm contamination origins, decontamination methods (physical/chemical/automated), regulatory compliance; Int Dent J 2024
+
+### Healing abutment reuse controversy (single-use vs reuse) — batch 2026-07-03
+- [[infection-control/bidra-2019-should-healing-abutments-cover-screws]] — SR (6 observational studies, >300 used HAs): routine methods may not fully remove contaminants, but NO reported adverse clinical consequences; avoid *indiscriminate* reuse until more evidence; J Prosthodont (2019)
+- [[infection-control/eswaramurthy-2021-contemporary-sterilization-protocols-healing-abutments]] — SR (8 studies): steam autoclave most common; NO protocol achieved 100% virgin surface; thorough decontamination + resterilization recommended before reuse; JDR CTR (2021)
+- [[infection-control/burioni-2024-could-dental-material-reuse-play]] — In vitro (40 reused vs 35 new): sterilization eradicates bacteria but residual surface proteins persist (18.76 vs 9.35 µg/mL, mean diff 9.41, 95% CI 4.28–14.54); clinical significance undetermined; Bioengineering (2024)
+- [[infection-control/abreu-2024-assessment-detoxification-strategies-used-dental]] — In vitro (50 uHAs, 5 enzymatic strategies): best debris/protein removal (groups D/E) still provoked high macrophage inflammatory cytokines up to 5 d → "clinicians should NOT reuse HAs"; IJOMI (2024)
+- [[infection-control/naghsh-2024-comparison-four-decontamination-procedures-reusing]] — In vitro (50 HAs, 5 groups): NaOCl + air polishing lowest body-surface contamination (1.7–2.4% vs 5–6%, p<0.05), but contamination never fully eliminated; Saudi Dent J (2024)
+- [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — In vitro (95 HAs, 2 brands): ED soak → ultrasonic + 1% NaOCl → autoclave removed 99.7% mature biofilm, SEM/EDX like unused; a 3-step alternative for ≥1 reuse cycle; CIDRR (2026)
+- [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT (90 HAs): NaOCl-only worsened micro-gap/microleakage with repeat use, but combined chemical + electrochemical cleaning enabled multiple reuses without surface alteration; CIDRR (2023)
+- [[infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]] — Survey (n=202 implantologists): 98.1% reuse, 94.5% don't tell patients, 95.3% got no manufacturer guidance, only 8.9% cite cross-infection risk; J Clin Exp Dent (2022)
 
 ## 치과 핸드피스·엔진 (Dental Handpiece / Engine) — NEW category (added 2026-06-25)
 - [[dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical]] — Lahdentausta 2022 · prospective(환자 84명·253건, 광학입자측정기) · 에어터빈 핸드피스가 <1 μm·총 에어로졸 최다 생성; 하이스피드·로우스피드 핸드피스·초음파 스케일러도 구강검진 대비 유의 증가; 에어터빈→하이스피드 대체·HVE 권고 (DOI 10.1016/j.heliyon.2022.e11074)
