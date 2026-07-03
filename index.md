@@ -2581,6 +2581,7 @@ tags: []
 - [[resin-bonding/zhao-2023-enhancing-dentin-bonding-quality-acetone]] — Zhao 2023 · in-vitro · acetone wet-bonding preserved aged bond strength (p<0.05) and suppressed MMP (60 third molars)
 - [[resin-bonding/comba-2024-effects-etching-time-ethanol-wet]] — Comba 2024 · in-vitro · ethanol pre-treatment raised radicular push-out strength, lowered MMP (p<0.01); etching time neutral (60 teeth)
 - [[resin-bonding/miao-2021-rubber-dam-isolation-restorative-treatment]] — Cochrane SR+MA: rubber dam vs cotton-roll isolation; ↑6-month composite NCCL survival (OR 2.29), low certainty
+- [[resin-bonding/loguercio-2015-isolation-method-operative-field-gingival]] — Loguercio 2015 · rct (split-mouth, examiner-blind, 30명/60수복물, Oper Dent) · NCCL 접착수복 러버댐 vs 코튼롤/견인사: 18개월 유지율 73% vs 73%(NS), 치은손상·환자선호·시술시간 모두 유의차 없음 — 손상은 1주 내 가역적 (DOI 10.2341/14-089-C)
 - [[resin-bonding/dhawan-2026-bonding-total-self-etch-fiberpost]] — in vitro(n=60 하악 소구치): 글래스 파이버 포스트 접착 시 self-etch 131 N > total-etch 115 N > self-adhesive 75 N (push-out, p=0.001); SE 계열 권장 (DOI 10.4103/JCDE.JCDE_249_26)
 - [[resin-bonding/elhaddad-2026-cervical-margin-relocation-periodontal-restorative]] — ElHaddad 2026 · sr+ma (Quintessence Int, abstract-only): 치경부 변연 재위치(CMR/DME) 첫 SR+MA — 치주 건강 해치지 않음(PD −0.96mm, BOP −0.52), 변연 적합도는 접착 전략·재료에 좌우(접착성 글라스세라믹 최적) (DOI 10.3290/j.qi.b6881272)
 
