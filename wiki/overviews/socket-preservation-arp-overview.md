@@ -32,6 +32,8 @@ tags: [arp, socket-preservation, dbbm, prf, collagen-plug, xenograft, ridge-pres
 > - **입자 크기(particle size)는 부차적 변수**: 중증 치주염(stage III/IV) 대구치 발치와에서 DBBM 소입자(0.25–1 mm) vs 대입자(1–2 mm)는 수직골높이 차이 비유의(8.54 vs 7.76 mm, P=.077); 다변량에서 **소켓 무결성(socket integrity, 벽당 +1.027 mm)·악골(하악 우세)**이 입자크기를 압도. 73%는 ARP 후 추가증대 없이 식립 가능 — 감염 대구치 socket에서도 ARP feasible(Yu 2026, 후향 n=96).
 > - **생물학적 ARP 효능(SR+MA)**: 29 RCT(1,068명) 메타분석에서 **rhBMP-2만 수평·수직 골흡수를 모두 유의 감소**(수평 p=.01, 수직 p<.0008), L-PRF는 자연치유 대비 차원 보존 우위 없음(NS) — L-PRF는 자가·저비용 이점으로만 정당화(Alavi 2024). 성장인자 생물학적 보강은 rhBMP-2가 동력.
 > - **임상 takeaway**: ARP의 가치는 "골증대 회피 보장"이 아니라 **결손 복잡도 감소·임플란트 위치 최적화·marginal case에서 GBR 회피**다 — 환자 동의 시 이 틀로 기대치를 설정. 재료 선택은 차원 보존 측면에서 대체로 등가(DBBM ≈ DDM ≈ Bio-Oss Collagen, 입자크기 무관)이며, 생물학적 추가 효과는 rhBMP-2 > L-PRF.
+> - **리보스 가교 콜라겐(RCLC, OSSIXPlus) open-healing**: 1차 봉합 없이 막을 의도적으로 노출시켜도(Friedmann 2020, 파일럿 n=18/20발치와) 4개월 후 100% 추가 증대 없이 임플란트 식립 가능 + 각화점막(keratinized mucosa)이 원위치 유지(관상변위 봉합 대비 ~4mm 변위 회피) — 차원 보존 수치는 기존 ARP 범위 내이나, 수술 단순화·연조직 보존이라는 별개의 임상 이득 제공.
+> - **PRF막이 발치와 봉합을 넘어 능선증대용 차폐막까지 대체 가능**: Wang 2024(후향적 n=44)에서 후방 Seibert Class I 결손에 Bio-collagen+PRF막(단순화 GBR)이 Bio-Oss+Bio-Gide(고전적 GBR) 대비 수평폭경 증가 1.50 vs 1.83mm로 근소하게 낮았으나 윤곽 형태는 오히려 양호한 경향 — Alrayyes 2022의 PRF-대체 주제를 발치와 폐쇄에서 능선증대 적응증으로 확장(단, 이는 엄밀히는 발치 당일 ARP보다 사전 능선증대에 가까운 인접 적응증).
 
 ## One-line Summary
 
@@ -147,6 +149,22 @@ Split-mouth RCT (n=25, Cerabone + PRF matrix + collagen plug vs extraction alone
 
 By adding a slowly resorbing bovine hydroxyapatite particulate (Cerabone, naturally derived, non-sintered), the treatment extends benefit from vertical-only to bidimensional. The particulate occupies the lateral socket volume and prevents buccal-lingual collapse during the remodeling period.
 
+#### Ribose Cross-Linked Collagen (RCLC) Open Healing: No Primary Closure Required (Friedmann et al. 2020)
+
+A pilot prospective series (n=18 patients, 20 sockets: 10 contained, 10 non-contained) tests a distinct surgical philosophy — **open healing** with a ribose cross-linked collagen (RCLC, OSSIXPlus) membrane, deliberately leaving the membrane exposed rather than achieving tension-free primary closure:
+
+| Outcome | Value |
+|---|---|
+| Implants placed without additional augmentation (4 mo) | 20/20 (100%) |
+| Soft tissue closure by 4 weeks | 20/20 (100%) |
+| Vertical ridge height change | 0.45 mm (NS, p=0.450) |
+| Cross-sectional area change | −9.60 mm² (~9.75%, NS overall) |
+| Muco-gingival junction position | maintained at original level in all 20 sites |
+
+Non-contained sockets received a bone substitute (calcium sulfate or bovine xenograft) first to prevent membrane collapse — the same graft-support principle as Axis 2's collagen-plug mechanism, but paired here with a membrane engineered to resist collagenase long enough to survive intentional exposure. Histology confirmed new woven bone with RCLC residues and no inflammatory infiltrate ("perimembranous osteogenesis"), consistent with ribose crosslinking's favorable biocompatibility profile.
+
+**Relevance to this overview's thesis**: RCLC open healing is a technique variant, not a new dimensional claim — its measured height/width preservation (0.45 mm vertical change, ~10% area change) sits within the same range as other ARP protocols in Axis 3, and 100% of sites were implant-placeable without augmentation at 4 months, comparable to Hartmann et al. 2026's 78/80 (98%) rate. The distinguishing benefit is procedural: no coronal flap advancement (simpler surgery), and keratinized mucosa is preserved at its original position rather than displaced apically (~4 mm displacement is typical with coronal advancement) — an advantage not captured by the dimensional-preservation metrics that dominate Axis 3. This reframes "membrane exposure" from a complication (as in the general-GBR literature) into an intentional, controlled strategy specific to crosslinked collagen's collagenase resistance.
+
 #### DBBM-C (Collagenated Xenograft) ± FGG Seal: Late-Phase Volume Maintenance (Kim et al. 2024)
 
 Three-arm single-blind RCT (n=50 completed, Seoul National University):
@@ -244,6 +262,18 @@ Heavy smokers (≥10 cigarettes/day, 40 upper molar sockets) randomized to four 
 
 The implication is practical: in smokers (ST1B–ST2 sockets), substituting A-PRF for the collagen plug closure improves soft-tissue healing without adding operative complexity. Whether this translates to better long-term bone dimensions remains uninvestigated in this study.
 
+#### PRF as Membrane Substitute for Ridge Augmentation, Not Just Socket Closure (Wang et al. 2024)
+
+The PRF-adjunct evidence above (Kollati 2019, Alrayyes 2022) concerns PRF layered alongside a collagen plug at socket closure. Wang et al. 2024 tests a related but distinct question: can a **PRF membrane substitute entirely for a resorbable collagen barrier membrane** (Bio-Gide) in a small posterior GBR scenario — specifically **Seibert Class I** ridge defects (horizontal deficiency, normal height), the same defect geometry ARP is designed to prevent when treatment is delayed. This retrospective study (n=44, 22/group) compared:
+
+| Outcome (6 mo, CBCT) | Simplified GBR (Bio-collagen + PRF membrane) | Classical GBR (Bio-Oss + Bio-Gide) |
+|---|---|---|
+| Horizontal width (HW) gain | 1.50 mm | 1.83 mm |
+| Buccal contour Type A (good) | 14/22 (64%) | 11/22 (50%) |
+| Buccal contour Type C (poor) | 1/22 (5%) | 3/22 (14%) |
+
+Both groups achieved statistically significant augmentation; the 0.33 mm HW gap favoring classical GBR is numerically small and the simplified-GBR group trended toward *better* contour quality (fewer Type C outcomes). This reinforces the PRF-substitution theme already established for socket closure (Alrayyes 2022's smoker data: A-PRF ≈ or > collagen plug) but extends it to a lateral, non-socket ridge-augmentation indication — suggesting PRF's barrier-membrane-substitute role is not confined to fresh extraction sockets. Caveat: abstract-only retrieval (full text not obtained), retrospective design, small per-group n, and this is a **pre-implant ridge augmentation** study rather than a same-day socket-preservation study — it sits adjacent to, not squarely inside, the ARP indication this overview otherwise covers, and no implant-placement or long-term outcomes were reported.
+
 ---
 
 ### Axis 5 — Implant Sufficiency After ARP: SR+MA Evidence (Fischer et al. 2022)
@@ -340,6 +370,7 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/nisar-2020-collagen-plug-socket-preservation]] — collagen plug + PRP: height ✓, width ✗; defines the ceiling of plug-only ARP
 - [[bone-regeneration/ridge-preservation/kollati-2019-cerabone-prf-socket-preservation-rct]] — Cerabone + PRF + collagen plug RCT; xenograft upgrade extends ARP to bidimensional
 - [[bone-regeneration/ridge-preservation/alrayyes-2022-prf-socket-preservation-smokers-rct]] — A-PRF in smokers; collagen plug insufficient in high-risk population
+- [[bone-regeneration/ridge-preservation/friedmann-2020-rclc-membrane-open-healing-ridge-preservation]] — pilot prospective (n=18 pts, 20 sockets); RCLC (OSSIXPlus) open healing without primary closure — 100% implant-placeable at 4 mo without augmentation, keratinized mucosa preserved at original position; procedural alternative to coronal-advancement closure within Axis 3
 - [[bone-regeneration/ridge-preservation/kim-2024-collagenated-xenograft-arp-rct]] — DBBM-C ± FGG RCT (SNU); late-phase volume maintenance + FGG crestal advantage + ISQ ≥70 safety
 - [[bone-regeneration/ridge-preservation/fischer-2022-bone-envelope-arp-dbbm-sr-ma]] — SR+MA of 9 RCTs; 1.13 mm mean width gain; 6–19% augmentation-free placement probability
 - [[bone-regeneration/ridge-preservation/lee-2021-alveolar-ridge-preservation-periodontally-compromised]] — retrospective (418 compromised sockets); ARP cuts implant-placement infeasibility 0.8% vs 4.7% and attenuates augmentation need; extends Axis 5 to the infected-socket subgroup
@@ -350,3 +381,4 @@ Use Fischer et al. 2022 as the evidence anchor for patient discussion: "ARP will
 - [[bone-regeneration/ridge-preservation/xu-2026-demineralized-dentin-matrix-versus-xenograft-arp-rct]] — RCT (n=50); autogenous DDM vs DBBM — faster 3-mo contraction but 6-mo dimensional equivalence + superior histologic integration; autogenous low-cost graft arm
 - [[bone-regeneration/ridge-preservation/yu-2026-bone-particle-size-arp-periodontally-compromised-molars]] — retrospective (n=96 compromised molars); DBBM particle size is a minor lever (P=.077), socket integrity + jaw dominate; 73% implant-placeable after ARP
 - [[bone-regeneration/ridge-preservation/alavi-2024-regenerative-grafts-socket-preservation-sr-ma]] — SR+MA of 29 RCTs (1,068 pts); rhBMP-2 preserves both dimensions, L-PRF NS vs natural healing — biologics layer above the DBBM-graft SR+MA
+- [[bone-regeneration/ridge-preservation/wang-2024-simplified-gbr-biocollagen-prf-posterior-ridge]] — retrospective (n=44); simplified GBR (Bio-collagen + PRF membrane) vs classical GBR (Bio-Oss + Bio-Gide) for posterior Seibert Class I ridge defects; HW gain 1.50 vs 1.83 mm, comparable/better contour — extends PRF-as-membrane-substitute theme (Axis 4) from socket closure to ridge augmentation
