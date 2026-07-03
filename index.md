@@ -2690,6 +2690,7 @@ tags: []
 - [[oral-microbiology/salah-2025-microbiota-based-therapies-oral-health]] — Narrative review; 적색복합체(Pg·Tf·Td) 병원성 vs 유익균(S. salivarius·Lactobacillus), 프로바이오틱스·박테리오파지·OMT 치료 최신 정리 (2025)
 - [[oral-microbiology/plummer-2022-listerine-mouthwash-oropharyngeal-microbiota]] — RCT substudy (n=153, 12주); 리스테린 제로 매일 사용 → 구인두 마이크로바이오타 구성 변화 없음(PERMANOVA p=0.413); Biotène은 Streptococcus·Rothia 소폭 감소 (OMEGA trial)
 - [[oral-microbiology/lueyar-2023-dynamic-interactions-between-candida-albicans]] — Lueyar 2023 · in-vitro (8종 supragingival 바이오필름, 3회·삼중, CFU+FISH/CLSM): 구강 연쇄상구균 추가할수록 칸디다 알비칸스 (C. albicans) CFU 감소, S. gordonii + S. mutans 조합 최저; S. mutans + mitis 단일종은 균사형 유도·mitis 다종은 효모형 회귀 — cross-kingdom 종특이 데이터 (DOI 10.1002/mbo3.1381)
+- [[oral-microbiology/momeni-2024-intraspecies-interactions-streptococcus-mutans]] — Momeni 2024 · in-vitro biofilm + in-vivo Drosophila (임상 분리주 G09·G18, ≥3회·삼중, CLSM+time-lapse): 같은 종 두 유전형 co-culture가 바이오필름 pH↓·세포밀도/두께 약 2배·집락화↑ (상호이익형); G18=산도, G09=구조 분업, 각 균주 비중첩 공간영역; 다수 genotype 조기 획득 ↔ ECC 유의(p=0.019) — intraspecies 축 (PMC11288028) (2024)
 
 ## 치아침식 (Dental Erosion) — NEW category (added 2026-06-07, batch j)
 - [[dental-erosion/gomez-2026-anti-erosive-dentifrices-umbrella-review]] — Gómez 2026 · sr+ma (umbrella, 8개 SR; PRISMA·AMSTAR 2·ConQual): **항침식 치약** — 불소>무불소, **stannous(SnF₂·multi-ion)이 NaF/NaMFP보다 가장 일관되게 우수**(certainty 중등도), Ca기반·biomimetic은 이질적·근거 낮음; 단 in vitro/in situ·단기 위주라 임상 ETW 감소 입증은 아님 (DOI 10.1016/j.jdent.2026.106608)
@@ -3039,6 +3040,7 @@ tags: []
 ### professional biofilm management surveillance (added 2026-06-21, batch f)
 - [[periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] — Yein 2026 · sr · GBT vs SRD 비교 PRISMA SR (RCT 5편, n=231, GRADE 매우 낮음): 환자 만족도·통증·치료시간은 GBT 우수하나 PPD/CAL/BOP 임상지표에서는 일관된 우위 없음 (DOI 10.1186/s12903-026-08418-z)
 - [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — Donertas 2026 · rct · GBT vs 큐렛+초음파(n=80, Stage 1–2): GBT가 GI·PI·GCF IL-1β를 유의하게 더 감소(p<0.05), TNF-α·IL-10·MMP-8는 차이 없음 (DOI 10.1186/s12903-026-08748-y)
+- [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]] — Cosín-Villanueva 2024 · sr · GCF miRNA 치주 진단마커 체계적리뷰(16편, PRISMA): miR-146a·200b·223·23a 진단력 양호, miR-203 미흡 (DOI 10.3390/ijms25158274)
 - [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — Lodigkeit 2026 · narrative-review · 치주기구별 법랑질·백악질 영향(손기구>초음파>에어폴리싱 순 마모); 에어폴리싱 백악질 보존 최고 (DOI 10.3390/dj14050259)
 - [[periodontics/dvorska-2026-mechanical-instrumentation-hard-tissue-sr]] — Dvorska 2026 · sr · 기구별 경조직 손실 in-vitro 고찰: 스트로크당 손기구 최대(평균 6.0 µm vs 초음파 4.89 µm), 초당 저연마 에어폴리싱 최대(평균 8.65 µm) (DOI 10.1111/idh.70107)
 - [[periodontics/ifrim-2026-edta-air-polishing-root-surface-sem]] — Ifrim 2026 · in-vitro · SRP+EDTA는 smear layer를 못 없애고(p=0.950), 에리스리톨 에어폴리싱은 기구흔↓·균열↑, CEJ는 치근중간부와 유사 (SEM) (DOI 10.3390/medicina62040753)
