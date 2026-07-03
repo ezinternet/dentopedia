@@ -6,7 +6,7 @@ interactives/contradiction-radar.html 자동 생성기 (논쟁 레이더).
 type: refines(조건부 반박) edge만 뽑아, "위키 안에서 근거가 서로 싸우는 지점"을
 임상 도메인별 카드로 묶은 self-contained HTML 탐색기를 생성한다.
 
-- 각 edge = source(도전자) vs target(피도전자). 양측의 One-line Summary/한줄요약을
+- 각 edge = source(도전자) vs target(피도전자). 양측의 Three-line Summary/세줄요약을
   살로 붙여 나란히 보여준다.
 - 무순서 쌍 {a,b}로 dedup. 양쪽이 서로 contradicts면 mutual(상호반박)로 표기.
   같은 쌍에 contradicts와 refines가 섞이면 강한 쪽(contradicts) 채택.
@@ -63,7 +63,7 @@ def domain_for(category: str) -> str:
             return label
     return "기타 · 미분류"
 
-# ── frontmatter + One-line Summary 파서 ─────────────────────────────
+# ── frontmatter + Three-line Summary 파서 ────────────────────────────
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
 
 def parse_page(path: Path) -> dict:
@@ -105,8 +105,8 @@ def parse_page(path: Path) -> dict:
         "confidence": field("confidence"),
         "category": field("category").strip("[]"),
         "relations": relations,
-        "one_en": section("One-line Summary"),
-        "one_ko": section("한줄요약"),
+        "one_en": section("Three-line Summary"),
+        "one_ko": section("세줄요약"),
     }
 
 # ── 전체 스캔 ────────────────────────────────────────────────────────
