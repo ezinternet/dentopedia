@@ -1,0 +1,48 @@
+SOURCE: PubMed Central full text (PMC11338015)
+PMID: 39176159 | DOI: 10.1016/j.sdentj.2024.06.013
+Naghsh N, Hosseini A, Mogharehabed A, Yaghini J, Pezeshki Z, Khaleghi N.
+"A comparison of four decontamination procedures in Reusing healing abutments: An in vitro study."
+Saudi Dent J. 2024;36(8):1141-1145.
+
+== ABSTRACT ==
+Objective: Compare 4 decontamination methods on residual contaminants in reused healing abutments (HAs).
+Methods: 50 used HAs, 5 groups of 10: (1) Control = ultrasonic + autoclave 121°C/15min; (2) + 3% sodium hypochlorite 20min; (3) + 12% chlorhexidine; (4) + air polishing; (5) + 3% hydrogen peroxide. Stained with protein-specific Phloxine B; 5 photos each (4 body/shank + 1 top); stained (contaminated) areas measured. One-way ANOVA, p<0.05.
+Results: Occlusal surface — NO significant difference among 5 groups: control 5.5±2.8, NaOCl 4.9±2.5, CHX 5.3±2.5, air polisher 3.1±1.8, H2O2 4.8±3.1 (p=0.26). Body (shank) surface — significantly LOWER in air polisher (1.7±1.1) and NaOCl (2.4±1.1) vs the other three (Control 6.1±2.3, H2O2 4.6±0.7, CHX 5.4±2.4) (p<0.05).
+Conclusion: NaOCl and air polishing, alongside autoclave + ultrasonic, effectively reduce residual contamination on HA body surfaces. Contamination NEVER completely eliminated in any group.
+
+== KEY FULL-TEXT POINTS ==
+Introduction:
+- HA (Ti / Ti alloy) = interim element during 2nd-stage surgery; contacts soft tissue, forms tight seal preventing bacterial penetration, MBL, recession; supports emergence profile esthetics.
+- HAs labeled single-use/disposable by companies, but clinicians commonly reuse (same or different patients). Some companies reprocess and resell HAs.
+- Motivation: cost reduction + less material wastage. Concern: cross-contamination/cross-infection despite conventional cleaning/sterilization.
+- Inadequate cleaning → ↓fibroblast/epithelium adhesion → compromised biological barrier → tissue infection + implant failure.
+- Wadhwani et al: 99% of HAs still had proteins/peptides after standard cleaning+sterilization. A review: ultrasonic + autoclave insufficient. Three-step protocol (cleaning + disinfection + sterilization) promising. Air polishing with Glycine powder suggested. Chemical disinfectants: NaOCl, CHX, H2O2.
+
+Methods:
+- Dental Implants Research Center, Isfahan Univ Medical Sciences. Sample size 50 (10/group), α=0.05, power 0.80.
+- HAs: UFII, DIO Implant (Korea), Ø4.5 × 3mm, used once 4–6 weeks in 50 patients.
+- Group protocols: all ultrasonic (Eurosonic 4D, 60°C, 10min) then autoclave (Melag, 121°C).
+  - G1 control: ultrasonic + autoclave 15min.
+  - G2: + 3% NaOCl 20min, saline rinse 1min, autoclave.
+  - G3: + 12% CHX 5min, saline rinse, autoclave.
+  - G4: + air polishing (Perio-mate, NSK, glycine powder, 15s, 5mm, 45–60°), autoclave 10min.
+  - G5: + 3% H2O2 1min, saline rinse, autoclave.
+- Phloxine B staining (fluorescein derivative, detects proteins/prion parts). Stereomicroscope ×15, 5 images/HA. Cool PHP tools software. Contamination = % of total surface area.
+
+Results:
+- Occlusal: no significant group difference (p=0.26) — attributed to HA geometry limiting access to deep occlusal recesses.
+- Body/shank: significant difference (p<0.001); air polisher + NaOCl significantly lower than control/H2O2/CHX; no diff between air polisher vs NaOCl; no diff among control/H2O2/CHX.
+- Null hypothesis (equal contamination) rejected.
+
+Discussion:
+- HA cost ~15% of implant price → reuse economically attractive.
+- No method fully eliminated contamination.
+- Prion transmission risk in HA reuse very low (more relevant to endodontic files near nerves); but prions also on reusable implant drills / bovine biomaterials.
+- Browne et al: reused impression copings + HAs reached sterility equal to new after repeated steam/Chemiclave; IL-1β, TNF-α in crevicular fluid + bleeding/plaque indices not significantly different between unused vs reused HAs in patients.
+- Air polishing (glycine/erythritol) effective, but may alter surface roughness/wettability/energy — needs further study.
+- NaOCl: oxidizing free radicals dissolve organic residue. NaOCl + electrochemical decontamination more effective than NaOCl alone; can enable multiple reuses without altering topography.
+- Reuse decision factors: HA material (Ti/steel/zirconia/polymer), number of uses, single vs multiple patients, duration, 1-stage vs 2-stage, GBR use.
+- Limitations: small n; bottom surface not evaluated; non-protein residue not identified; contamination varies per patient (diet, microflora, hygiene).
+
+Conclusion:
+- Contamination not completely eliminated in any group. NaOCl + air polishing (with autoclave) most effective at reducing body-surface contamination. Occlusal surfaces not significantly different across groups.
