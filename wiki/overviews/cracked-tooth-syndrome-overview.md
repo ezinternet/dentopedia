@@ -260,6 +260,14 @@ Cluster 3의 합의("cuspal coverage는 standard")는 *무엇으로* 덮을지�
 - [[cracked-tooth/lin-2026-biomimetic-adhesive-cracked-tooth-single-visit]] — 증례 (n=1): MDPT 리튬디실리케이트 occlusal veneer 단일 내원 수복 (Cluster 4 최소침습 worked example)
 - [[cracked-tooth/soares-de-toubes-2025-biodentine-intraorifice-barrier-cracked-tooth]] — 증례 (n=1, 48개월): 치근 확장 균열+endo-perio에 Biodentine intraorifice barrier (Cluster 4 root-extended 차단막 protocol)
 
+### 신규 추가 — VRF 진단·위험인자·예방 (2026-07, 3편)
+
+- [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] — Scoping review (10편 in-vitro): OCT로 균열·VRF 검출 — 민감도 83–98%/특이도 63–100%, 비방사선·실시간 장점이나 침투깊이 1–3mm 한계로 CBCT 대체엔 아직 부족 (Cluster 2 진단 옵션 확장)
+- [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] — Case-control (44 vs 92): 근관치료 대구치 VRF — 치경부 아닌 **치근단부** 잔존 상아질 과소실이 최강 위험인자(AUC 0.940 통합모델); [[cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures]]의 "치경부 상아질 보존" 정성적 권고에 정량적 임계값 부여
+- [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] — Ex vivo (n=18/군): 최소침습 근관성형(#40/.04)이 관행확대(#80) 대비 VRF·균열 유의하게 줄이지 못함 — "성형 최소화=파절 예방" 통념에 대한 반증적 신호(직접 반박은 아니나 근거 부재)
+
+**Synthesis [claude해석]:** VRF는 이전엔 주로 외과적 보존(Cluster 5)·분류(Cluster 1) 관점에서만 다뤄졌으나, 이번 3편은 **예방·조기진단** 축을 보강한다 — (1) 위험인자는 치경부가 아닌 치근단 상아질 과소실이라는 점이 Lee 2026에서 정량 확인되어 Patel 2025 position statement의 정성적 가이드에 임계값을 부여하지만, (2) Rathke 2024의 역설적 결과(최소성형이 오히려 보호효과 없음)는 "성형만 줄이면 안전"이라는 단순화가 근거 부족함을 시사 — 발치 vs 재근관치료 결정 시 근관성형 술식 자체보다 **재치료 횟수·경과기간·치아종류**가 더 강한 예측인자(Lee 2026)임을 함께 고려해야 한다. (3) OCT(Alkhani 2026)는 CBCT의 방사선 노출 없는 대안이 될 잠재력이 있으나 침투깊이 한계로 아직 실험실 단계 — Cluster 2 CBCT 중심 진단 스택에 근시일 내 편입은 시기상조.
+
 ### 신규 추가 — 수복 디자인·치수보존 근거 (2026-06, 4편)
 
 - [[cracked-tooth/zhang-2024-cracked-teeth-treatment-outcomes-sr-ma]] — SR+MA (27편): 무피개 direct의 치수합병증·발치 위험 정량화 → cuspal coverage 필요성 재확인
