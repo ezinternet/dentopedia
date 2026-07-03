@@ -877,6 +877,7 @@ tags: []
 - [[prosthetic-materials/pjetursson-2023-implant-fdp-material-design-outcomes-sr-ma]] — Pjetursson 2023 SR+MA (32 studies): 후방부 임플란트 다단위 FDP — PFM/베니어 Zr/단일층 Zr/LDS 3년 생존율 동등; 베니어 보철 칩핑·파절 유의하게 높음(p<0.01); Clin Oral Implants Res Suppl [sr+ma]
 - [[prosthetic-materials/laumbacher-2021-zirconia-prosthetic-restorations-long-term-sr]] — SR 개요 (38편, ~10,000 수복물): 지르코니아 치아·임플란트 지지 단관·FDP 5년 생존율 양호; 베니어 도재 치핑 가장 흔한 합병증.
 - [[prosthetic-materials/waltenberger-2025-zirconia-implant-dentistry-guideline]] — DGI/DGZMK S3 가이드라인: 단관 리튬 디실리케이트·지르코니아 권장(3년 96–97%); FDP·전악 3Y-TZP만 근거 충분; 폴리머 침윤 세라믹 금기.
+- [[prosthetic-materials/lampl-2025-crown-failures-primary-teeth-sr-ma]] — Lampl 2025 · sr+ma (PMC 풀텍스트, RCT 13편+임상연구 5편, 1172+2667 크라운) · 유치관 5년 유지율 재료별: SSC 97.88%·지르코니아 97.09%·컴포지트레진 92.18%·RMGIC 90.30%·컴포머 88.90%·스트립관 83.48%; 합병증 — 이차우식(지르코니아 최대 21.8%), 변연적합 문제(컴포머 최대 22.2%) (DOI 10.2196/57958)
 - [[complete-denture/yoo-2023-implant-surveyed-crown-rpd-disabled-patients]] — Soo-Yeon Yoo 2023 (대한치과의사협회지, SNU 보철) · narrative-review · 중증 장애 환자용 IC-RPD(임플란트 써베이드 크라운 유지 국소의치) — 통상 의치·전악 고정성 보철 어려운 경우의 중간 대안; MBL·생존 고찰(구체 수치 [미검증])
 - [[complete-denture/patel-2025-implant-overdenture-attachment-systems-sr-ma]] — SR+MA(RCT/크로스오버 14편, 2010–2020, 모두 저비뚤림): 임플란트 오버덴쳐 어태치먼트 — 바=유지력 최고·텔레스코픽=만족도 최고·로케이터=협소 악간공간·자석=열위; 임플란트 생존율은 어태치먼트와 무관
 - [[complete-denture/difrancesco-2021-maxillary-overdentures-four-six-implants-sr-ma]] — SR+MA(15편, 1–10년 추적): 상악 오버덴쳐 4 vs 6 스플린트 임플란트 — 임플란트·보철 생존율, 합병증, 만족도 모두 NS; 4개 스플린트가 보수적 선택
