@@ -229,7 +229,7 @@ pdf_filename: {stem}.pdf
 source_collection: external
 ---
 
-## One-line Summary
+## Three-line Summary
 {summary}
 
 ## 1. Document Information
@@ -288,7 +288,7 @@ source_collection: external
 tags: []
 ---
 
-## 한줄요약
+## 세줄요약
 {oneline_kr}
 
 ## Summary
