@@ -2,7 +2,7 @@
 title: "TMD/TMJ 관리 — 진단·보존·중재 종합 ladder"
 authors: Synthesis (Damian Lee)
 year: 2026
-date: 2026-06-15
+date: 2026-07-03
 doi: N/A
 source: N/A
 category: overviews
@@ -10,13 +10,13 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: synthesis
-tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd, unilateral-chewing, condyle-morphology, tinnitus, fea, chewing-side-preference]
+tags: [tmd, tmj, splint, exercise, arthrocentesis, bruxism, bmj-2023, cochrane, decision-ladder, overview, physiotherapy, pharmacotherapy, quality-of-life, myogenous, mad, ovd, unilateral-chewing, condyle-morphology, tinnitus, fea, chewing-side-preference, tmj-osteoarthritis, home-exercise, myofascial-pain, network-meta-analysis, lidocaine-injection]
 ---
 
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 턱관절장애(Temporomandibular Disorder, TMD) 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편(총 32편)을 10축으로 통합. 보존·비약물 1차, 비가역 교합치료는 최후.
+> - 핵심 명제: 턱관절장애(Temporomandibular Disorder, TMD) 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5편 + TMJ OA 가정운동 전향적 연구 1편 + TMD-MPS 처방·주사 NMA 1편(총 34편)을 10축으로 통합. 보존·비약물 1차, 비가역 교합치료는 최후.
 > - **역학·진단**: pooled 유병률 31%, 여성·청년 우세, biopsychosocial(심리·사회) 요인 중요 (Valesan 2021, OPPERA). 근육형이 가장 흔함(전체의 45%).
 > - **최고 근거 치료(BMJ NMA 2023, Yao, 233 RCT, 59 개입)**: 인지행동치료(CBT)+바이오피드백(위험차 RD 36%), 치료사 보조 하악 가동화(36%), 수기 트리거포인트(32%)가 TOP 3 → "운동·대처 촉진 치료가 일관 최선".
 > - **스플린트·운동**: 스플린트 vs 운동 동등 또는 운동 우위 (Zhang 2021); 안정화 스플린트는 conditional add-on. **환자교육·자기관리(Education and Self-Management, ED/SM) 단독**은 다른 비수술 치료보다 단기 통증·삶의질에서 열세일 수 있으나(SMD 0.67·0.61) 전반적 우열은 일관되지 않음 — 모든 근거 very low~low, 저위험 RCT 0편 (Ferland 2026 SR+MA, 47 RCT). 정복성 전방관절원판변위(ADDwR)에서 신규 일체형 단일블록 전방재위치장치(Mono-Block ARS)가 트윈블록보다 관절잡음·편안함 우월하나 둘 다 관절원판을 지속 정복 못 함 (Liu 2026 RCT, n=118).
@@ -39,7 +39,7 @@ TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5�
 
 ## Summary
 
-본 페이지는 wiki/tmj/ 32편을 10축으로 정리: ①역학·진단, ②비약물 보존(운동·스플린트), ③약물 치료, ④만성 통증 NMA (BMJ 2023), ⑤중재(arthrocentesis), ⑥이갈이, ⑦BTX·대안(별도 overview 연결), ⑧TMJ 골관절염, ⑨삶의 질·MAD/VD 특수 주제, ⑩편측저작·과두 형태 변화·이명.
+본 페이지는 wiki/tmj/ 34편을 10축으로 정리: ①역학·진단, ②비약물 보존(운동·스플린트), ③약물 치료, ④만성 통증 NMA (BMJ 2023), ⑤중재(arthrocentesis), ⑥이갈이, ⑦BTX·대안(별도 overview 연결), ⑧TMJ 골관절염, ⑨삶의 질·MAD/VD 특수 주제, ⑩편측저작·과두 형태 변화·이명.
 
 핵심 명제 14개:
 1. **TMD pooled 유병률 31%; 여성·청년 우세; 비생물학적 요인(심리·사회) 중요** — Valesan 2021, Kapos 2020 (OPPERA). [근거강함]
@@ -50,12 +50,14 @@ TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5�
 4-2. **ADDwR에서 신규 일체형 Mono-Block 전방재위치장치(ARS)가 트윈블록보다 관절잡음(T6 82.1% vs 54.4%, p=0.001)·편안함·안정성 우월; 통증·MMO·CBCT 위치는 동등; 두 ARS 모두 관절원판 지속 정복 못 함** — Liu 2026 RCT (n=118, open-label). [참고수준 — RCT, open-label·6개월]
 5. **Cochrane 2024 — 교합 중재 evidence quality 매우 낮음~낮음; modest benefit; 교합조정 미지지** — Singh 2024 Cochrane. [근거강함]
 6. **약물 치료: TMD-joint — NSAIDs/IA corticosteroid·hyaluronate; TMD-muscle — cyclobenzaprine; BMS — clonazepam·capsaicin. 전반적 GRADE 낮음** — Häggman-Henrikson 2017 NMA. [합의수준]
+6-1. **TMD-MPS 처방·주사 순위(베이지안 NMA, 14 RCT·674명): 리도카인주사·허혈성압박 SUCRA 최상위(91.7%·88.7%)이나 기본치료 직접비교 RCT 0편으로 근거 매우낮음; PRP·레이저는 근거 낮음; 경구 근이완제는 유의차 없음** — Ma 2026 (BMC Oral Health, 中 간쑤중의약대학). [참고수준 — 간접비교 위주, RCT 9/14 고위험 편향]
 7. **Arthrocentesis 보존 실패 시 MMO +1.12mm 유의 개선; HA·스테로이드 부가 강화** — IJOMS 2023 SR+MA, Zhang 2024 SR. [합의수준]
 7-1. **관절천자 단독의 *우월성*은 비교군 확장 시 입증 안 됨: 32 RCT(n=1247) SR+MA에서 통증(VAS) 차이 없음(MD −0.25, p=0.55), MMO/MIO는 비교군 우세 — 보조 옵션이지 결정적 치료 아님 (GRADE very low)** — Valenzuela-Fuenzalida 2026 SR+MA. [합의수준 — 단, 극단적 이질성]
 7-2. **부가 주입제는 별개로 근거 우위: i-PRF 병용은 통증 VAS −1.62·MMO +5.03mm 유의, TSA로 결정적·충분검정력 확인 (GRADE moderate)** — Bader Alzamanan 2026 SR+MA+TSA (9 RCT, n=320). [합의수준]
 7-3. **관절천자 메타분석 풀링 추정치 해석 주의: 기전이 다른 비교군을 I²=85–98% 이질성·mm척도 SMD·혼합진단으로 통합하면 임상적 해석 불가 — random-effects가 정당화 못 함** — Fuentes-Barría 2026 Letter. [방법론 caveat]
 8. **수면이갈이 — 스플린트·biofeedback 우위; 약물·BTX 보조** — Minakuchi 2022 SR. [합의수준]
 9. **TMJ 골관절염 — CT gold standard; 보존 우선; 피질골 연속성(미란·낭종)이 편평화보다 진단적** — Song 2023, Kim 2023 (KDA). [합의수준]
+9-1. **TMJ OA(임상+방사선 이중확진) 아형에서 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동·강화운동)만으로 통증·Helkimo 기능지수가 중증→경증으로 유의 개선(p=0.001), NSAID 사용 미미 — Cochrane이 근거불충분으로 배제했던 "TMJ OA + 운동치료" 공백을 메우는 전향적 데이터** — Macías-Hernández 2022 (JKAOMS, n=15명·26관절, 단일군 전후비교, 대조군 없음). [참고수준 — prospective, no control]
 10. **TMD 환자 모든 그룹에서 QoL 크게 저하; 근육형·관절통형이 디스크변위형보다 심각** — Pigozzi 2021 SR+MA (n=3,829). [합의수준]
 11. **OVD 증가는 교합 상실보다 TMJ 연골 손상 빠르고 심각; 새 구치부 수복 후 TMJ 증상 모니터링 필요** — Wang 2024 (동물), Zhang 2024 CBCT (임상 1y; TMJ 유의 변화 없음). [합의수준]
 12. **습관적 편측저작측이 TMD 통증측과 일치(Kappa=0.767); 통증측에서 과로각 더 가파르고(50.5° vs 45.5°) 측방유도각 더 평평** — Santana-Mora 2021 (n=24, 교합치료 이력 없는 정상교합). [합의수준]
@@ -108,13 +110,15 @@ TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5�
 |---|---|---|
 | [[tmj/haggman-henrikson-2017-pharmacological-orofacial-pain-sr-ma]] | sr+ma (57 RCT, NMA) | TMD-joint: NSAIDs/IA corticosteroid/hyaluronate; TMD-muscle: cyclobenzaprine; BMS: clonazepam/capsaicin |
 | [[tmj/yao-2023-chronic-tmd-pain-sr-nma-bmj]] | sr+ma (233 RCT, NMA) | 약물 치료 모두 low/very low certainty; 비약물이 우월 |
+| [[tmj/ma-2026-comparison-ranking-interventions-tmd]] | sr+ma (14 RCT·674명, 베이지안 NMA, 中) | TMD-근막통증증후군(MPS) 처방·주사 순위: 리도카인주사·허혈성압박 SUCRA 1·2위(91.7%·88.7%)나 BT 직접비교 없이 간접근거뿐 → 매우낮음; PRP·레이저는 낮음; 경구 근이완제(MP)는 BT 대비 유의차 없음 |
 
 **임상 함의**:
 - **만성 TMD 통증**: 약물은 단기 보조 — Yao 2023 NMA에서 모두 low certainty
 - **TMD-관절통**: NSAIDs 1차; 반응 없으면 IA 히알루론산 or 코르티코스테로이드
 - **TMD-근육통**: 단기 시클로벤자프린 (진정 부작용 주의)
 - **BMS**: 클로나제팜 국소 rinse 또는 저용량 전신; 캅사이신 국소 병행
-- **원칙**: 약물은 비약물 치료와 병행; 단독 만성 사용 지양
+- **TMD-근막통증(MPS) 특화**: 국소 리도카인주사·허혈성압박이 확률적 순위 최상위이나 기본치료와의 직접비교 RCT가 전무해 근거 매우낮음(간접비교 의존) — "처방 1순위"로 오독 금지, 가설생성 수준으로만 활용 (Ma 2026 NMA)
+- **원칙**: 약물은 비약물 치료와 병행; 단독 만성 사용 지양; NMA의 SUCRA 순위는 CINeMA 확실성과 함께 읽을 것 — 확실성 낮은 1위가 임상 우선순위를 의미하지 않음
 
 ### 축 4 — 만성 통증 NMA (최고 근거 — BMJ 2023)
 
@@ -181,6 +185,7 @@ TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5�
 |---|---|---|
 | [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] | narrative-review (KDA) | 과부하→저산소(HIF-1)→VEGF/MMP→연골·골 파괴; **CT=gold standard**(κ=0.71 vs MRI 0.46 vs 파노라마 0.16); 피질골 연속성(미란·낭종)이 단순 편평화보다 진단적 |
 | [[tmj/kim-2023-treatment-tmj-osteoarthritis]] | narrative-review (KDA) | 보존 우선 ladder: 자가관리→NSAID(GI 위험 시 celecoxib)→교합안정장치(경성>연성, 상·하악 동등)→관절강세정술(HA+스테로이드)→수술 최후; arthrocentesis 술기 디테일 포함 |
+| [[tmj/macias-hernandez-2022-home-based-exercise-tmj-osteoarthritis]] | prospective (JKAOMS, n=15명·26관절) | 임상+방사선 이중확진 TMJ OA에서 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동·강화운동) 단독으로 통증·Helkimo 지수 중증→경증 유의개선(p=0.001), NSAID 사용 미미; 대조군 없음 |
 
 **진단 원칙 (Song 2023)**:
 - **CT가 골변화 gold standard** — 파노라마 κ=0.16은 사실상 무용; DC/TMD 임상기준 민감도 0.55·특이도 0.61로 영상 필수.
@@ -193,6 +198,11 @@ TMD 관리 SR+MA·가이드라인 27편 + 편측저작·과두형태·이명 5�
 4. **관절강세정술** — 이개측두신경 차단 시 **안면신경 측두가지 동반마취(눈 안 감김) 주의** → 깊게 자입 + 사전 설명; 자입점 이주(tragus) 전방 ~10 mm·하방 2 mm; 양방향 2-needle lavage 후 **HA(윤활)+스테로이드(소염)**.
 5. **수술** — 중증·난치 최후; 불완전 회복·예후 불확실.
 - 질환조절(cytokine-based) 약물: 아직 임상 적용 불가.
+
+**자가관리(1단계) 근거 보강 (Macías-Hernández 2022)**:
+- Cochrane 리뷰(축 5)는 근거불충분을 이유로 OA에서 운동/물리치료를 분석 대상에서 제외했으나, 본 전향적 코호트는 그 공백을 메우는 1차 데이터를 제공.
+- 임상+방사선 이중확진 OA(RDC/TMD Axis I Group IIIb) 26관절에 6개월 가정 운동(온열→구강내외 마사지→스트레칭→관절가동→등척성 강화)을 3–5회/주 시행: 통증(VAS) 및 Helkimo 지수가 1개월 내 중증(17점)→무증상(0.25점)으로 급감, 6개월까지 경증(2점) 유지, NSAID(아세트아미노펜) 추가사용은 미미(중앙값 1.25일).
+- 대조군이 없는 단일군 전후비교(prospective, no control)라 순수 운동효과 vs 자연호전을 분리 못함 — 참고수준으로 해석하되, ladder 1단계("자가관리")에 구체적·재현가능한 프로토콜을 제공한다는 실용적 가치가 있음.
 
 **연결**: OA의 arthrocentesis는 축 3(IJOMS 2023 SR+MA)의 근거와 일치 — HA·스테로이드 부가가 근거 우위. OA는 그 적응증을 "퇴행성 골변화 확인 후"로 구체화.
 
