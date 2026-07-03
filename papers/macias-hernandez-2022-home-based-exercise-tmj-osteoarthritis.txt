@@ -1,0 +1,126 @@
+Title: A home-based exercise program for temporomandibular joint osteoarthritis: pain, functionality, and joint structure
+Authors: Salvador Israel Macías-Hernández, Juan Daniel Morones-Alba, Irene Tapia-Ferrusco, Oscar Benjamín Vélez-Gutiérrez, Cristina Hernández-Diaz, Tania Inés Nava-Bringas, Eva Cruz-Medina, Lya Contreras-Del Toro, Ma de Los Angeles Soria-Bastida
+Journal: Journal of the Korean Association of Oral and Maxillofacial Surgeons (J Korean Assoc Oral Maxillofac Surg)
+Year: 2022
+Volume/Issue/Pages: 48(1):50-58
+DOI: 10.5125/jkaoms.2022.48.1.50
+PMID: 35221307
+PMCID: PMC8890964
+Source: PubMed Central (PMC) full text, retrieved via PubMed MCP get_full_text_article
+
+=== FULL TEXT ===
+
+I. Introduction
+
+Osteoarthritis (OA) is the most prevalent and disabling joint disease globally. In the temporomandibular joint (TMJ), OA is clinically manifested by pain at rest, upon mouth opening, on direct palpation, and in masticatory muscles, joint clicking, and limitation of jaw movements. Temporomandibular joint osteoarthritis (TMJ OA) is a frequently undiagnosed subtype of temporomandibular disorder.
+
+In TMJ OA, there is radiological evidence of changes in the joint structure, including a reduction or loss of the joint space, flattening or loss of contour of the articular surface, and the appearance of osteophytes, erosions, and sclerosis of the subchondral bone. TMJ OA also affects joint functionality, which in turn affects masticatory functions and can lead to feeding problems and even malnutrition. The Helkimo Index is an internationally validated tool for pathologies that alter TMJ function, particularly temporomandibular dysfunction, that contains information on joint mobility, function, and pain. It is also important to assess joint structure in TMJ OA. Diagnostic ultrasound is a relatively inexpensive, non-invasive imaging technique that allows for the accurate assessment of joint dynamics and morphostructural changes in cartilage, articular disc, and subchondral bone. Ultrasound has shown good sensitivity and specificity in detecting internal joint damage compared to magnetic resonance imaging and arthroscopy.
+
+Treatment of TMJ OA is broadly divided into two categories: conservative and invasive. Conservative treatment options include physical therapy, therapeutic exercise, non-steroidal anti-inflammatory drugs (NSAIDs), and occlusal splints. Invasive treatment includes intra-articular injections, arthrocentesis, arthroscopy, and joint replacement. While these treatments are used in everyday clinical practice, there is currently little high-quality evidence to support their utility, and thus their true efficacy is controversial.
+
+Therapeutic exercise options include exercise and manual therapy. Due to the heterogeneity of these interventions, there is no gold standard or single proposed intervention that is beneficial in this patient population. The need for long-term treatment is a particular concern for OA TMJ patients. From a practical perspective, exercise and manual therapy lend themselves to continued treatment at home because patients can do it themselves without having to visit specialized facilities and because they can be used long-term. These long-term home-based therapies offer many advantages over medication, other physical therapy techniques, or specialized physical agents. The present study aims to evaluate the effects of therapeutic exercise, including thermotherapy and manual therapy in the conservative treatment of OA TMJ.
+
+II. Materials and Methods
+
+1. Design
+
+An experimental pre-post intervention study was performed including patients of the Instituto Nacional de Rehabilitación Luis Guillermo Ibarra Ibarra in Mexico City, one of Mexico's National Institutes of Health. The study was carried out from January 2017 to February 2020.
+
+2. Ethics
+
+The study protocol was registered in the Institutional Research and Ethics Committee of the Instituto Nacional de Rehabilitación derived from the project with the number 49/13. The authors conducted this research in line with the ethical responsibilities established by the World Medical Association, and all participants provided written informed consent before their inclusion in the study.
+
+3. Participants
+
+Patient telephone numbers were obtained from a database provided by the hospital's biostatistics department. All patients diagnosed with TMJ disorder were contacted by telephone, invited to come to the hospital, and examined to confirm that they met the criteria.
+
+4. Inclusion criteria
+
+Patients of either sex who were older than 18 years and who met the diagnostic criteria for temporomandibular OA (Research Diagnostic Criteria for Temporomandibular Disorders, Axis I Group IIIb) were eligible. The diagnostic criteria included joint pain at rest or when opening or moving the jaw (identified either by palpation or through patient self-report) and crepitus in the joints with any movement.
+
+In addition, panoramic radiographs, oblique radiographs with the mouth open and closed, and transpharyngeal radiographs were obtained in all patients for radiological classification. The criteria for classification were the reduction of joint space, subchondral sclerosis, flattening of the lateral part of the joint, changes on the surface of the condyle, or presence of osteophytes. One or both joints were included if they met the clinical and radiographic classification criteria: a) crepitus on auscultation of the TMJs, b) chronic joint pain lasting more than six months, c) limited mobility of the mandible with a deviation of the mouth opening to the affected side, d) pain on lateral palpation of the condyle and masseter muscles, e) pain on manual loading of the joint, and f) degenerative changes in the articular bone surfaces and the position of the disc as assessed radiographically.
+
+5. Exclusion criteria
+
+Excluded patients were those with a diagnosis of a temporomandibular disorder of any other axis, including other arthropathies, any rheumatic disease affecting the joints (such as rheumatoid arthritis or lupus), with malocclusions, who had used an occlusal splint during the six months before the start of the study, or those who had received intra-articular injections or previous surgical procedures on the jaw or TMJ six months previously.
+
+All clinical evaluations were performed by an oral surgeon specializing in TMJ disorders. Radiological evaluations were performed by two independent observers.
+
+6. Outcomes
+
+The outcome variables were pain intensity on a visual analogue scale (VAS), functionality with the Helkimo index, and ultrasonographic structural changes.
+
+7. Procedures
+
+Patients who were interested in participating after the initial telephone invitation were called in for an examination. The clinical classification criteria were applied, and a full clinical assessment was performed, confirming the clinical criteria; patients also rated themselves on the VAS and the Helkimo index. Those who met the criteria signed an informed consent form. Patients with both painful joints were assessed individually for the right and left joints, i.e., pain and functionality were assessed according to the number of joints included rather than the number of patients.
+
+To confirm that patients met the radiological criteria for OA, radiographs were reviewed by a consultant oral and maxillofacial surgeon and a radiologist expert in musculoskeletal disorders. If both observers independently agreed with the radiological diagnosis, patients were enrolled in the study.
+
+Participants were instructed to discontinue any pharmacological treatment for OA (NSAIDs, glucosamine, chondroitin sulfate, collagen supplements, etc.) seven days before the start of the study and to take acetaminophen as needed and record intake. Taking acetaminophen in doses up to 1 g every six hours was indicated for moderate to severe pain (greater than 50 mm at VAS). Patients maintained an intake log in which they recorded acetaminophen intake, dates, and doses.
+
+A fully trained musculoskeletal ultrasound specialist performed baseline ultrasound (with the mouth open and closed). The patient was seated with a neutral head position, with the probe at the level of the zygomatic arch and the TMJ. The structure was observed as a homogeneous linear hyper- or hypoechoic image, the normal being a homogeneous linear image and the abnormal being a heterogeneous nonlinear image. The disc was observed with the mouth closed and then marked as observed or not observed (the disc is observed as a thin hypoechoic line leaving a halo over the condyle). Measurements of the mouth opening joint were taken from the mouth closed to the mouth open from bone edge to bone edge. Power Doppler was recorded as either having a signal present or absent; the presence of osteophytes, enthesophytes, or other visible lesions was also recorded.
+
+Follow-up was done at months one, three, and six with clinical assessment, administration of the same VAS and the Helkimo index, and ultrasound.
+
+8. Intervention
+
+The patients were trained in one session to learn the entire program and were instructed to continue the exercises 3-5 times a week, once a day, during the six-month follow-up. Two previously trained physical therapists were responsible for teaching patients, and the following program was used:
+
+1) Patient in a supine position: Application of superficial heat with a heat pack covering the jaw area for 15 minutes.
+
+2) Patient in a seated position:
+(1) Intraoral massage was performed with the thumb outside the mouth and the index or middle finger (both optional) inside the mouth. Ten repetitions were made: circular movements to the inner muscles of the cheeks, kneading the inner muscles of the cheeks and stroking from the base to the apex for protrusion and retraction, shown by the therapist but performed by the patient itself at home.
+(2) External massage: A lubricant (oil) was used to cover the jaw area and the entire lateral area of the face. Ten repetitions of gliding, circling, and kneading movements were performed and concluded with a neck massage.
+(3) Stretching: The patient was asked to open their mouth. With the mouth open, the cheek was grasped from the inside with the index, middle, or both fingers, and a slight deviation was made outward. The patient was asked to close their mouth partially. They maintained the outward deviation for 10 seconds, rested for 5 seconds, and repeated the stretch. This was done three times on each side of both cheeks. The patient opened their mouth as wide and gently as possible without causing pain. The opening was held for 10 seconds, then rested for 5 seconds, and the procedure was repeated three times.
+(4) Free joint mobilization: Ten repetitions of each movement without causing pain, including descensus and elevation (opening and closing the mouth), protrusion and retrusion (forward and backward projection), and laterality (right, left).
+(5) Strengthening exercises: The patients performed three repetitions and held each repetition for 10 seconds with a 5-second rest. These exercises included descent (hand on lower chin, trying to open mouth without letting it close, pressure maintained 10 seconds); pushing chin forward for 10 seconds; lateralization (hand on one side of chin, lateral movement against resistance); elevation (pencil between molars, press for 10 seconds).
+
+In an endeavor to improve exercise adherence, all participants kept an exercise diary where they recorded the number of exercises performed, type, and their signature verifying completion. Patients were also called weekly to ask questions about the exercises and to encourage their performance. They were given an exercise program with outlines and a written description to take home.
+
+9. Statistical analysis
+
+Descriptive statistics were obtained and summarized as median and interquartile range. A chi-square or Fisher's exact test was performed to analyze the difference between groups in terms of the qualitative variables. To look for differences in the ranges of the quantitative variables, a Mann-Whitney U test was performed for independent variables, the Wilcoxon test for pairs of related variables, and the changes over time in the four measurements were analyzed using the Friedman test within each group. The alpha significance level taken was 0.05. IBM SPSS Statistics software (ver. 19.0) was used.
+
+III. Results
+
+Fifty-two patients with symptoms of chronic pain in one or both TMJs were recruited, invited to the hospital, and had radiologic projections obtained. Thirty-seven patients were excluded because they did not meet radiographic criteria. Fifteen patients and 26 joints that met both clinical and radiological criteria were included in the analysis. All patients were women. The median age was 57 years (range, 49-62 years). There were no losses to follow-up, and all patients completed their treatment. A frequency of more than three times per week was observed in all cases, with an average of 4.52±1.23 times per week at the three-month follow-up and 3.62±0.41 times per week at the six-month follow-up.
+
+Pain levels: a notable decrease in pain is apparent after the first month of treatment. This decrease was maintained at the six-month follow-up, with no differences detectable between 1-3 or 3-6 months, but with a difference between 1-6 months. Pain intensity was measured at joint palpation, mouth opening, and rest. Pain levels went from a median of 47.5 mm, 51 mm, and 60 mm, respectively, at the first-month assessment to 48 mm, 49.5 mm, and 42.5 mm, respectively, at the six-month assessment. (p=0.001)
+
+Functionality (Helkimo index): total score medians were severe dysfunction (17 points) at baseline, free of TMJ problems at the first month (0.25 points), and minimal dysfunction at 3 and 6 months (2 points). (p=0.001)
+
+Structural changes (ultrasound): All joints were linearly homogeneous from baseline and at follow-up; Doppler signal was absent in all cases; synovitis absent. Osteophytes were detected in two joints (7.7%) and did not change on follow-up. The proportion of disc observation by ultrasound changed: observed in about 38.5% of cases at baseline and in 57.7% of cases at six months. Mouth-opening distance on ultrasound also showed a significant difference between baseline and 3/6 months.
+
+Radiological findings at baseline: reduction of joint space in 24 joints (92.3%), osteophytes in 16 joints (61.5%), subchondral sclerosis in 14 joints (53.8%), flattening of the lateral part of the joint in 10 joints (38.5%), changes on the condyle surface in 7 joints (26.9%).
+
+NSAID (acetaminophen) use: at first month, 3 patients (20.0%) reported use for pain in 5 joints (19.2%); at three-month evaluation, no patient reported use; at six-month evaluation, 4 patients (26.7%) reported use in 6 joints (23.1%). Average use was short (median 1.25 days, range 0.5-2.5 days), with no significant change in medication use during follow-up (p=0.12).
+
+IV. Discussion
+
+This study demonstrates the usefulness of a home-based therapeutic exercise program as part of the treatment for TMJ OA. This intervention was applied to patients with a specific diagnosis of TMJ OA that included clinical and radiological criteria, not just TMJ disorders, and included a functional and structural evaluation.
+
+The use of NSAIDs is the first choice in the treatment of TMJ OA. However, their long-term use is not recommended due to potentially harmful effects, as TMJ OA is a chronic disease with morphological changes of the joint. Therapeutic exercise is a more useful tool in the long term.
+
+The most significant change in pain intensity occurred after the physiotherapy intervention in the first month, with a decrease of 57.5 mm in resting pain and 47.5 mm in maximum mouth opening, corresponding to a decrease between 67.5% and 92% of the baseline pain intensity, then remained mild through six months.
+
+Comparison to Tuncer et al. (RCT comparing home physical therapy alone vs additional manual therapy in a facility): both groups improved significantly in pain, but pain on palpation decreased significantly more in the manual therapy group. That study had mixed-etiology TMJ symptoms with one-month follow-up, versus this study's OA-specific diagnosis and six-month follow-up.
+
+Comparison to Shimada et al. review: passive/active mobilization and postural exercises reduced joint and muscle pain generally, but methodological heterogeneity and non-specific diagnoses limited comparability. This study confirms exercise is effective for OA-specific TMD, improving pain, function, and joint structure (disc position).
+
+Comparison to a systematic review/meta-analysis on manual therapy and exercise for TMJ disorders (48 RCTs): large heterogeneity in diagnoses/interventions; manual therapy plus exercise (5 studies) showed significantly better effect size vs other interventions (medication alone, splints) at 1-3 month follow-up — consistent with this study's findings in an OA-specific cohort.
+
+Comparison to a Cochrane systematic review on TMJ OA interventions: only included hyaluronic acid, steroid injections, NSAIDs, occlusal splints — exercise/physical therapy excluded due to poor evidence quality in published studies. This study, while not a controlled clinical trial, provides a consistent and well-classified cohort with structural + functional + pain outcomes.
+
+Helkimo index: significant improvements in all areas (mobility, mouth opening, joint/muscle pain), especially in the first month, from severe dysfunction to minimal dysfunction, maintained through follow-up.
+
+Comparison to Calixtre et al. (12 subjects, mixed TMJ disorders, exercise program with manual therapy/mobilization/stretching, 5-week follow-up): significant increase in functionality and decrease in pain, similar direction to this study but smaller sample, shorter follow-up, mixed diagnoses.
+
+Ultrasound: no siphoning changes in echogenicity/linearity, suggesting the therapy improves pain/function but likely has no direct structural effect on cartilage. Disc visualization changed significantly by six months (38.5% → 57.7%), possibly reflecting disc repositioning/rearrangement after subluxation. Mouth opening on ultrasound significantly increased at six months, likely associated with decreased pain and muscle contracture.
+
+V. Conclusion
+
+The home-based exercise program led to improvement in pain at rest, on palpation, and on mouth opening, plus functional improvement of the joint. This program represents a cost-effective treatment with minimal side effects accessible to all patients with TMJ OA.
+
+Limitations: lack of a control group means this study is not a clinical trial (single-group pre-post design); relatively small sample size (15 patients, 26 joints), due in part to strict inclusion requiring both clinical AND radiographic OA criteria. A future controlled clinical trial with a larger sample size is recommended to verify the effect and improve evidence quality.
+
+=== END FULL TEXT ===
