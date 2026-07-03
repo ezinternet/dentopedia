@@ -3,13 +3,13 @@
 주간 근거 다이제스트 생성기 — "이번 주 새 근거 + 이게 뒤집은 프로토콜".
 
 git 이력으로 창(window, 기본 7일) 안에 위키에 **새로 추가된** 페이지와, 창 안에
-**superseded_by 배너가 달린**(=기존 프로토콜이 뒤집힌) 페이지를 뽑아, 한줄요약(한국어)
+**superseded_by 배너가 달린**(=기존 프로토콜이 뒤집힌) 페이지를 뽑아, 세줄요약(한국어)
 · confidence · supersede/충돌 관계를 담은 **단톡방에 그대로 던질 수 있는 마크다운**을
 생성한다. 복리로 쌓이는 지식 성장을 눈에 보이게 만드는 것.
 
 볼륨이 커도(주당 수백 편) 큐레이션한다:
   1. 🔴 판도를 바꾼 근거 — supersede / 정면충돌 (희소·고가치, 전체 나열)
-  2. ⭐ 주목할 새 근거 — 고근거등급(sr+ma/sr/rct)만, 한줄요약 포함 (상한 있음)
+  2. ⭐ 주목할 새 근거 — 고근거등급(sr+ma/sr/rct)만, 세줄요약 포함 (상한 있음)
   3. 📄 카테고리별 신규 — 카운트 표 (전량 나열 안 함)
   4. 📈 성장 지표
 
@@ -83,7 +83,7 @@ def parse(relpath):
             if t and g and t.group(1) in ("contradicts", "refines"):
                 conflicts.append((t.group(1), g.group(1).rstrip("/").split("/")[-1]))
     ko = ""
-    s = re.search(r"^##\s*한줄요약\s*\n(.+?)(?=\n##\s|\Z)", body, re.DOTALL | re.MULTILINE)
+    s = re.search(r"^##\s*세줄요약\s*\n(.+?)(?=\n##\s|\Z)", body, re.DOTALL | re.MULTILINE)
     if s:
         ko = re.sub(r"\s+", " ", s.group(1).strip().split("\n\n")[0]).strip()
     cat = f("category").strip("[]").split(",")[0].strip()
