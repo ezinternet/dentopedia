@@ -1,0 +1,94 @@
+Retention of orthodontic aligners with different gingival margin designs on three-dimensionally printed models representing varying degrees of marginal tissue recession
+
+Bortoli NA, Picolli Bernd G, Radke Bittencourt H, Spohr AM, Blessmann Weber JB
+Korean Journal of Orthodontics 2026;56(3):200-206
+DOI: 10.4041/kjod25.269
+PMID: 42045106
+PMCID: PMC13213253
+
+ABSTRACT
+
+Objective
+To evaluate the influence of three gingival margin aligner designs and varying degrees of marginal tissue recession on aligner retention.
+
+Methods
+Nine models were obtained for each marginal tissue recession Class (Classes I, II, III, and IV). Control models had no anatomical alterations. For each model, three aligners of each gingival margin design were fabricated (scalloped, scalloped extended, and straight). The aligners were placed on the models, and a hook was positioned in the buccal region at the level of the mandibular first molars. Pull-off tests were performed using a universal testing machine at a crosshead speed of 10 mm/min, and the maximum dislodgement force (N) was recorded. Each aligner was removed 10 times, and the average value was obtained.
+
+Results
+According to the two-way ANOVA, the main effects of the gingival margin design factor (P < 0.001) and tissue recession factor (P < 0.001) were significant. However, the interaction term was not statistically significant (P = 0.105). According to Tukey's test, scalloped extended (52.3 N) and straight (47.9 N) margins demonstrated significantly greater retention than scalloped margin (33.1 N) (P < 0.05). The Class IV model (82.2 N) resulted in significantly greater retention (P < 0.05). The Class III model (54.4 N) exhibited the second highest retention value, which was significantly different from the other models. There was no significant difference in retention among Class I (25.6 N), Class II (33.2 N), and control (26.8 N).
+
+Conclusions
+Aligner retention increased with increasing severity of marginal tissue recession. Aligners with scalloped margins provided less retention than those with scalloped-extended and straight margins.
+
+FULL TEXT
+
+INTRODUCTION
+
+Clear aligners were introduced as removable dental positioning devices for orthodontic treatment. In 1999, the Invisalign (Align Technology, Tempe, AZ, USA) system revolutionized digital planning with staged setups, and in 2000, the first treatment with positive outcomes was published.
+
+Clear aligners have been reported to produce results comparable to those of fixed appliances in mild-to-moderate cases. Compared with fixed orthodontic braces, aligners offer advantages such as improved aesthetics, greater comfort, and better acceptance among adult patients. These appliances also facilitate oral hygiene and the maintenance of periodontal health.
+
+The outcomes of treatment with aligners are affected by different factors, such as aligner thickness, activation, material type, the use of attachments, and gingival margin design. Regarding gingival margin design, aligner suppliers adopt various trimline configurations. Some manufacturers opt for a scalloped edge, others prefer a straight cut, and some extend the trim beyond the gingival margin to partially cover the gums.
+
+A study has shown that the gingival margin design affects the retention of clear aligners. Aligner retention is related to the ease or difficulty of insertion and removal. Aligners with straight and extended trimlines demonstrate greater retention than those with short, scalloped trimline designs. However, these studies evaluated gingival margin designs on models of healthy dental arches without anatomical alterations.
+
+Compared to healthy individuals, patients with a history of periodontal disease exhibit distinct dental and gingival characteristics. These patients may experience alterations such as gingival recession, which may progress to alveolar bone loss. When gingival recession and bone loss occur, a larger portion of the tooth becomes exposed, resulting in longer crowns. Additionally, the loss of interproximal soft or hard tissue may create areas conducive to dental biofilm retention. Therefore, evaluating aligner retention in scenarios involving gingival recession and alveolar bone loss is clinically relevant due to the potential to cause discomfort during aligner insertion and removal. However, to the best of the authors' knowledge, no studies have evaluated the retention of aligners with different gingival margin designs using periodontal disease models.
+
+This study aimed to evaluate the retention of three gingival margin aligner designs positioned on models with varying degrees of marginal tissue recession. This study was conducted under the following hypotheses: (1) the gingival margin design of the aligner and (2) marginal tissue recession both significantly affect aligner retention.
+
+MATERIALS AND METHODS
+
+A mandibular dental model (P-Oclusal, São Paulo, Brazil) was scanned using the iTero Element 2 scanner (Align Technology) to obtain digital models. The digital models were then manipulated using Meshmixer 3.5 software (Autodesk Inc., San Francisco, CA, USA) to progressively adjust recession of the gingival level and alveolar bone loss as follows: Class I, slight gingival recession (1.3 mm) without interdental bone loss; Class II, mild gingival recession (2.5 mm) without interdental bone loss; Class III, advanced gingival recession (3.0 mm) with moderate interdental bone and soft tissue loss (1.4 mm); and Class IV, advanced gingival recession (3.0 mm) with severe interdental bone and soft tissue loss (2.5 mm). In addition, a model without marginal tissue recession was used as the control.
+
+Nine models per marginal tissue recession classification were printed using a Form 2 3D printer (Formlabs, Somerville, MA, USA) with stereolithography resin produced by ClickDental (Click Aligner, Novo Hamburgo, Brazil). Marginal tissue recession was performed consistently over the entire mandibular arch. One aligner was manufactured for each model. The aligners were thermoformed from 0.6-mm-thick polyethylene terephthalate glycol ClickFlex 3.0 (Click Aligner) using a BIOSTAR pressure moulding machine (SCHEU-DENTAL GmbH, Iserlohn, Germany). The aligners were fabricated without a tooth movement setup.
+
+The gingival zenith served as the reference point for the aligner trimming. Three gingival margin designs were obtained: scalloped, following the contour of the gingival margin and zenith; scalloped extended, following the contour of the gingival margin and extending 2 mm beyond the zenith; and straight contour at the level of the zenith.
+
+Three gingival margin designs were tested across five recession conditions (Class I, Class II, Class III, Class IV and control). According to the sample size calculation, a power of 80%, a pooled standard deviation of 9.25 N, and an intergroup difference of 20 N resulted in three replicates per group (n = 3).
+
+Pull-off tests were performed using an EMIC DL-2000 universal testing machine (EMIC, São José dos Pinhais, Brazil). A stainless steel base measuring 112 mm in diameter and 5 mm in thickness was used to secure the models using three screws positioned at the center of the base. To simulate the removal of the aligner by the patient, a stainless steel hook device was fabricated and attached to steel cables and a 500 N load cell. The hooks were positioned in the buccal region of the aligners at the level of the mandibular first molars. The pull-off tests were performed at a crosshead speed of 10 mm/min. The highest force (N) required to dislodge the aligner from the model was recorded. Removal was repeated 10 times for each aligner, and the average value was obtained. All tests were performed by the same operator.
+
+Statistical analyses were performed using SPSS 23.0 (IBM, Armonk, NY, USA) and Minitab 17 (Minitab LLC, State College, PA, USA). According to the Kolmogorov–Smirnov test, the data were normally distributed (P > 0.05). Data were subsequently analyzed using a two-way ANOVA (gingival margin design × marginal tissue recession), followed by Tukey's post hoc test. The significance level was set at 5%.
+
+RESULTS
+
+Two-way ANOVA revealed that the gingival margin design factor was significant (P < 0.001), the marginal tissue recession factor was significant (P < 0.001), and the interaction between gingival margin design and marginal tissue recession was not significant (P = 0.105).
+
+The scalloped-extended and straight margin designs resulted in significantly higher retention than the scalloped margin design. The Class IV model resulted in significantly greater retention than the other Class models. The Class III model exhibited the second-highest retention value, which was significantly different from those of the other models. There were no significant differences in retention among the Class I, Class II, and control groups.
+
+DISCUSSION
+
+This is the first study to simulate marginal tissue recession and assess the influence of gingival margin design on aligner retention. According to the statistical results, both gingival margin design and marginal tissue recession significantly influenced aligner retention. Therefore, the hypotheses of this study were not rejected.
+
+The three gingival margin designs exhibited greater retention when removed from Class IV models. Class IV models represented the most severe marginal tissue recession, characterized by extensive loss of interdental bone and soft tissue. This anatomy results in longer crowns and the formation of retentive areas. Longer crowns contributed to an increased area of contact between the model and the aligner, resulting in greater shear tension and friction during aligner removal. In addition, increased interdental spacing due to bone loss may have created undercut areas that enhanced aligner retention. Class IV models required greater force to remove the aligners, which could have contributed to patient discomfort during removal.
+
+A progressive decrease in the retention force was observed with decreasing marginal tissue recession and bone loss. Interestingly, no significant differences in retention force were observed among Classes I, II, and the control groups. This finding suggests that minor periodontal changes may not substantially affect patients' discomfort during aligner insertion and removal when the same margin design is used.
+
+The scalloped margin is primarily designed to enhance aligner aesthetics by following the gingival contour. Aligners with this margin design were less retentive than those with scalloped-extended or straight margins across all model types. This result may be explained by the decreased contact area between the aligner and the gingiva, which results in a lower force required for removal. This aligns with previous research by Cowley et al., which reported lower retention levels for aligners with scalloped margins.
+
+Aligners with scalloped-extended margins were trimmed 2 mm beyond the gingival zenith, following the contour of the gingival margin. Thus, this design provides an additional 2 mm of aligner material extending onto the gingiva. In contrast, aligners with straight margins were trimmed to the level of the gingival zenith. Both margin designs promoted greater retention than the scalloped margin, which may be related to the larger contact area between the aligner and gingiva.
+
+A split-arch clinical study analyzed periodontal indices in young patients wearing aligners with scalloped margins and aligners with straight margins extending up to 3 mm beyond the gingival margin. The straight margins resulted in worsened gingival indices due to both increased plaque accumulation and gingival trauma. Although the current study did not use aligners with gingival margins extending as far as the 3 mm used in the clinical study, the gingival trauma observed in the papillary region highlights how trimline extension may create areas of increased retention compared to the scalloped margin. In addition, the scalloped-extended and straight margins designed in this study resulted in retention forces that did not differ significantly. This finding suggests that aligners with both margin designs may cause similar levels of difficulty during patient removal.
+
+This study showed that aligner retention is influenced by both dental anatomy and gingival margin design. The anatomy of the Class IV model, combined with the more extensive contact between the aligner and gingiva provided by the scalloped-extended and straight margins, resulted in greater retention. In a clinical scenario, patients with preexisting retentive conditions such as gingival recession, cervical abfraction, and black triangles may experience increased discomfort during aligner insertion and removal when scalloped-extended, or straight gingival margins are used.
+
+Regarding aligner retention, no established thresholds currently define clinically acceptable retention levels to avoid patient discomfort during aligner insertion and removal. Therefore, to better understand the clinical relevance of different aligner retention values and to establish clinical thresholds, further studies should be conducted in both healthy patients and patients with periodontal disease.
+
+This study focused on aligner retention. However, another important issue related to gingival margin design is its influence on biomechanical force delivery. According to Elshazly et al., scalloped margins lead to greater flexibility and material weakening at the margin areas, resulting in a decreased amount of force transmitted to the tooth near the gingival region, thereby limiting the potential to perform more complex movements, such as bodily translation. Other studies have reported that transmitted forces increase with greater extension of the aligner edge, and that straight-extended trimming achieves better stress distribution and enhanced control of tooth movement.
+
+The relationship between aligner retention and force transmission has not been well established in the literature. However, according to Takara et al., an aligner that is difficult to remove is generally considered to have a high degree of gripping force, with increased corrective force on the teeth. Nevertheless, the authors believe that further investigation is needed to determine whether a high gripping force corresponds to the actual exertion of corrective force by the aligner on the teeth.
+
+Thus, aligner margin design may influence both retention and force delivery differently, depending on the periodontal condition. This consideration highlights the importance of aligner manufacturers refraining from standardizing aligner trimming. Orthodontists play a crucial role in identifying anatomical variations in each patient and requesting appropriate adaptations. This approach would provide orthodontists with greater autonomy in individualizing aligner treatment.
+
+The present study followed the protocol described by Cowley et al. with some modifications. Instead of using screws to penetrate the aligner through the occlusal surface during the pull-off test, a stainless steel hook device was positioned on the buccal aspect of the aligners at the level of the mandibular first molars. This method preserved the integrity of the aligner. Additionally, this approach simulates the movement and region where patients typically remove their orthodontic aligners, thereby increasing similarity to clinical conditions.
+
+The limitations of this laboratory study include the challenges of replicating clinical conditions such as body temperature and the presence of saliva, both of which significantly affect the mechanical properties of aligners. Another limitation concerns the models, which were fabricated using the same material for both teeth and gingiva. Consequently, these models cannot accurately replicate clinical soft tissue behavior. Extending the aligner edge below the gingival zenith primarily increased the contact area rather than reproducing true clinical soft tissue behavior. Given these limitations, the results should be interpreted with caution when extrapolating to clinical practice.
+
+CONCLUSIONS
+
+- Scalloped-margin aligners provided lower retention.
+- Aligners with scalloped-extended and straight margins provided greater retention.
+- Aligner retention increased with increasing severity of marginal tissue recession.
+- Class IV marginal tissue recession resulted in greater aligner retention.
+
+Source: PubMed / PMC (National Library of Medicine). https://pmc.ncbi.nlm.nih.gov/articles/PMC13213253/
