@@ -1,0 +1,73 @@
+Dynamic interactions between Candida albicans and different streptococcal species in a multispecies oral biofilm
+
+Authors: Tenzin Kunchok Lueyar, Lamprini Karygianni, Thomas Attin, Thomas Thurnheer
+Journal: MicrobiologyOpen. 2023 Oct;12(5):e1381.
+DOI: 10.1002/mbo3.1381
+PMID: 37877656  PMCID: PMC10548025
+Source: PubMed Central full text (get_full_text_article). NOTE: PMC/JATS extraction stripped italicized
+species names in several sentences; species identities below are reconstructed from the abstract,
+MeSH terms (Streptococcus mutans, Streptococcus gordonii, Candida albicans), and keywords
+(S. oralis, S. oralis subsp. tigurinus).
+
+ABSTRACT
+The oral cavity is colonized by a plethora of bacteria, fungi, and archaea, including streptococci of the
+mitis group (MSG) and the yeast Candida albicans. This study investigates the role of streptococcal
+species in oral biofilm development and cross-kingdom interactions between commensal MSG members and the
+pathogen yeast C. albicans using a multispecies supragingival biofilm model. Nine different in vitro
+biofilms were grown, quantified with culture analyses, and examined with confocal laser scanning
+microscopy (CLSM). A four-species biofilm without any streptococcal species was used as a basic biofilm.
+In each subsequent inoculum, one species of MSG was added and afterward combined with Streptococcus
+mutans. The eight-species biofilm contained all eight strains. Culture analyses showed that presence of
+S. mutans in a four-species biofilm with S. oralis or S. oralis subsp. tigurinus did not differ
+significantly in C. albicans CFU counts compared to biofilms without S. mutans. However, compared to other
+mitis species, Streptococcus gordonii combined with S. mutans resulted in the lowest CFUs of C. albicans.
+CLSM showed that biofilms containing both S. mutans and one species of MSG seemed to induce the
+filamentous form of C. albicans; but when several MSG species were combined with S. mutans, C. albicans
+was again found in its yeast form.
+
+METHODS (summary)
+- In vitro multispecies "supragingival" biofilm model (Zürich model; Thurnheer/Guggenheim), grown on
+  saliva-conditioned hydroxyapatite (HA) discs, anaerobic, 37 °C. Strains identified by Zürich OMZ numbers.
+- Species panel (8 strains): Candida albicans, Streptococcus mutans, Streptococcus oralis, Streptococcus
+  oralis subsp. tigurinus, Streptococcus gordonii, plus a non-streptococcal "basic" background community.
+- Biofilm growth: first 16 h in mFUM + 0.3% glucose; then 48 h in mFUM + 0.15% glucose + 0.15% sucrose.
+  Dip-washed 3×/day, media refreshed daily. Total run ≈ 64 h.
+- Quantification: biofilm vortexed off HA, sonicated, serially diluted, spiral-plated. CBA plates = total
+  CFU + MSG + S. mutans; BIGGY agar = C. albicans CFU. Colonies counted by stereomicroscope; MSG recognized
+  by α-hemolysis (green), C. albicans strain non-hemolytic.
+- FISH probes: MUT590-Cy5 (S. mutans), MIT447-FAM (mitis group), Caal1249-Cy3 (C. albicans); total DNA
+  SYTO40. CLSM: Leica SP5, ×63 oil, Imaris 9.6 reconstruction.
+- 3 independent experiments, triplicate biofilms; two-way ANOVA + Tukey; α = 0.05.
+
+KEY RESULTS
+- Adding more streptococcal species progressively reduced C. albicans CFU vs the basic biofilm.
+- S. mutans + S. gordonii (biofilm 7) → significant reduction in C. albicans CFU vs biofilm with S. mutans
+  alone (p < 0.01); eight-species biofilm → strongest reduction (p < 0.0001). S. gordonii + S. mutans gave
+  the LOWEST C. albicans CFUs of all mitis-group combinations.
+- S. oralis (biofilm 5) or S. oralis subsp. tigurinus (biofilm 6) added with S. mutans did NOT
+  significantly change C. albicans CFU relative to biofilms without S. mutans.
+- C. albicans presence generally did not significantly change total or MSG CFU counts.
+- Morphology (CLSM): C. albicans grew as yeast in the absence of streptococci; S. mutans + a SINGLE MSG
+  species induced filamentous (hyphal) forms; when SEVERAL MSG species co-existed with S. mutans,
+  C. albicans reverted to yeast form (attributed to increased inter-streptococcal competition).
+- Spatial: MSG near the salivary pellicle/HA base; C. albicans colonized the middle/upper biofilm.
+- Candidal biomass (Imaris) showed no significant differences between compositions (large variance);
+  authors caution that upon filamentation CFU no longer tracks candidal biomass.
+
+DISCUSSION / MECHANISM POINTS
+- Sucrose-rich conditions let S. mutans GtfB coat the C. albicans surface with α-glucans (EPS), creating
+  binding sites that promote cross-kingdom cariogenic biofilm (Falsetta, Hwang, Koo work cited).
+- Streptococcal H2O2 and saliva can induce C. albicans hyphae (oxidative stress); low pH favors yeast in
+  deep layers. Some streptococcal metabolites/peptides inhibit hyphal formation.
+- In vivo, C. albicans + mitis-group synergy increases neutrophil infiltration and soft-tissue lesion
+  severity vs single-species C. albicans biofilm.
+- First description of interactions including S. oralis subsp. tigurinus in an eight-species biofilm model.
+
+LIMITATIONS
+- In vitro model; fixed defined strains, not clinical saliva communities — proportions differ from mouth.
+- CFU-based quantification loses meaning once C. albicans filaments; biomass measure underpowered (variance).
+- Biofilm-matrix contribution not directly analyzed.
+- Single C. albicans strain (SC5314-type lab strain); no clinical isolates.
+
+CONFLICT OF INTEREST: None declared.
+ETHICS: Pooled saliva in vitro — no ethics approval required (University of Zurich).
