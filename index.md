@@ -1741,6 +1741,9 @@ tags: []
 - [[caries/foros-2021-early-caries-detection-methods-sr-ma]] — SR+MA (Caries Res 2021): 초기 우식 탐지 방법 비교 — DD Pen (진단용 형광장치) Se 0.81–0.89, Sp 0.87–0.96; 방사선 대비 보조 진단 가치 확인
 - [[caries/ekstrand-2018-icdas-coronal-caries-sr-ma]] — SR (Caries Res 2018): ICDAS 재현성 κ>0.65; D3 이상 SROC AUC 0.90; D1 병소 탐지 가장 어렵고 임상적 적용 가변성 큼
 - [[caries/malcangi-2023-enamel-remineralization-techniques-sr]] — SR (Bioengineering 2023): 에나멜 재광화 기법 — CPP-ACP·불소·레진침투 비교; RI가 초기 병소 표면하 광화 회복 최고; fluoride varnish 단독 예방 효과
+- [[caries/butera-2023-zinc-hydroxyapatite-enamel-dentin-remineralization]] — narrative-review (Biomimetics 2023, 30편/대부분 in vitro): 생체모방 zinc-carbonate hydroxyapatite(Zn-CHA) 치약·가글 — 법랑질/상아질 재광화·침식보호·상아세관 폐쇄(과민증) 신호, RCT 부족·중등도 비뚤림 (PMC9944842)
+- [[caries/hamdi-2024-orthodontic-adhesives-enamel-remineralization]] — SR (BMC Oral Health 2024, in vitro 24편): 교정 접착제에 생체활성 필러(BAG·n-HAP·n-ACP·n-AFCP·nCaF2)/불소방출 첨가 시 브라켓 주위 법랑질 재광화·탈회억제 — 24편 중 15편 고비뚤림, 메타분석 불가(근거 약함) (PMC11603835)
+- [[caries/unal-2025-clear-aligner-attachment-remineralization-diagnodent]] — prospective CCT (BMC Oral Health 2025, n=40/4군, DIAGNOdent 6개월): 투명교정 어태치먼트 주위 재광화 head-to-head — nHAp(Δ−5.36) > 불소바니시(−4.45) ≈ CPP-ACP(−4.02) ≫ 대조군(+4.35 악화); 비무작위 파일럿·η²=0.974 (PMC12801708)
 - [[caries/ancira-gonzalez-2018-white-spot-remineralisation-primary-sr]] — SR (Oral Health Prev Dent 2018): 유치 WSL 재광화 — 불소(바니시·젤) 중등도 효과; CPP-ACP 보조 근거 제한적; 식이 상담 병행 필수
 - [[caries/ge-2023-glass-ionomer-secondary-caries-sr-ma]] — SR+MA(Dent Mater 2023, 64 RCT/8,310 GIC vs 5,857 amalgam/composite): GIC 이차우식 예방 — 아말감 대비 유의 우세(영구치 RR 0.20·유치 RR 0.55), 레진 컴포지트와는 동등; cGIC=RMGIC
 - [[caries/schmidt-2024-root-caries-restorative-adhesive-nma]] — SR+NMA(J Dent 2024, 9 RCT/1,263 lesion): 치근우식 수복 — 24개월 2-3ER/CC 또는 RMGIC가 GIC 대비 경향 우세(OR 2.05–2.65) but NS, CINeMA 신뢰도 낮음; 근거기반 우선순위 결정 불가
