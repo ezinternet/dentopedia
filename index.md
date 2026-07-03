@@ -3042,6 +3042,7 @@ tags: []
 ### professional biofilm management surveillance (added 2026-06-21, batch f)
 - [[periodontics/yein-2026-guided-biofilm-therapy-periodontal-efficacy-sr]] — Yein 2026 · sr · GBT vs SRD 비교 PRISMA SR (RCT 5편, n=231, GRADE 매우 낮음): 환자 만족도·통증·치료시간은 GBT 우수하나 PPD/CAL/BOP 임상지표에서는 일관된 우위 없음 (DOI 10.1186/s12903-026-08418-z)
 - [[periodontics/donertas-2026-gbt-subgingival-debridement-gcf-biomarkers]] — Donertas 2026 · rct · GBT vs 큐렛+초음파(n=80, Stage 1–2): GBT가 GI·PI·GCF IL-1β를 유의하게 더 감소(p<0.05), TNF-α·IL-10·MMP-8는 차이 없음 (DOI 10.1186/s12903-026-08748-y)
+- [[periodontics/foroughi-2025-bridging-oral-systemic-health-periodontal]] — Foroughi 2025 · narrative-review · 구강↔전신 연결 종합리뷰: 치주-전신질환(CVD·당뇨·임신·알츠하이머·암·RA·호흡기) 기전 + 타액/혈액/GCF 바이오마커(IL-1β·TNF-α·미생물 DNA) + POC 진단(측방유동·바이오센서·미세유체) (DOI 10.1007/s15010-025-02568-y)
 - [[periodontics/fadli-2024-oral-gingival-crevicular-fluid-jawbone-turnover]] — Fadli 2024 · sr · 턱뼈 골대사질환 GCF/구강액 바이오마커 스코핑리뷰(37편, PRISMA-ScR): GCF IL-1β·sclerostin·OPG·IL-34(치주염·골다공증), 타액 OC·TNF-α·IL-6·MMP-9(치주염·MRONJ·골다공증); MRONJ GCF 인체연구 전무 gap (DOI 10.3390/diagnostics14192184)
 - [[periodontics/cosin-villanueva-2024-micrornas-gingival-crevicular-fluid-periodontal]] — Cosín-Villanueva 2024 · sr · GCF miRNA 치주 진단마커 체계적리뷰(16편, PRISMA): miR-146a·200b·223·23a 진단력 양호, miR-203 미흡 (DOI 10.3390/ijms25158274)
 - [[periodontics/lodigkeit-2026-periodontal-instrumentation-enamel-cementum-review]] — Lodigkeit 2026 · narrative-review · 치주기구별 법랑질·백악질 영향(손기구>초음파>에어폴리싱 순 마모); 에어폴리싱 백악질 보존 최고 (DOI 10.3390/dj14050259)
