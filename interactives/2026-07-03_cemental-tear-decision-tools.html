@@ -1,0 +1,381 @@
+<!--
+---
+title: "시멘트질 열개(Cemental Tear) chairside 결정도구 — 감별진단·치료트리·예후"
+type: interactive
+date: 2026-07-03
+status: done
+category: periodontics
+agenda: agenda/2026-07-03_cemental-tear-decision-tools.md
+source_wiki:
+  - wiki/periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus.md
+  - wiki/cracked-tooth/patel-2025-position-statement-longitudinal-cracks-fractures.md
+  - wiki/resin-bonding/corbella-2025-surgical-techniques-vertical-root-fractures-sr.md
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>시멘트질 열개 결정도구</title>
+<style>
+  :root {
+    --bg:#f4f6f9; --card:#fff; --ink:#17233d; --muted:#5a6478; --line:#e2e7ef;
+    --accent:#2563a8; --accent-soft:#e5eefa; --shadow:0 2px 10px rgba(20,30,55,.07);
+    --ct:#1f7a6b;  --ct-soft:#e3f3ef;   /* cemental tear */
+    --vrf:#b4452b; --vrf-soft:#fbe9e4;  /* VRF */
+    --endo:#7a5cb8;--endo-soft:#efe9fb; /* endodontic */
+    --perio:#b8860b;--perio-soft:#fbf2dc;/* periodontal */
+    --ok:#1f7a4d; --ok-soft:#e4f4ea; --warn:#b4452b; --warn-soft:#fbe9e4; --amber:#8a6d1a; --amber-soft:#fbf2dc;
+  }
+  * { box-sizing:border-box; margin:0; padding:0; }
+  body { font-family:-apple-system,BlinkMacSystemFont,'Noto Sans KR','Segoe UI',sans-serif;
+    background:var(--bg); color:var(--ink); padding:22px 14px 64px; min-height:100vh; line-height:1.55; }
+  .container { max-width:840px; margin:0 auto; }
+  header h1 { font-size:1.42rem; letter-spacing:-.02em; }
+  header p.sub { color:var(--muted); font-size:.88rem; margin-top:6px; }
+  header .src { color:var(--muted); font-size:.76rem; margin-top:5px; }
+  .tabs { display:flex; gap:8px; margin:20px 0 18px; flex-wrap:wrap; }
+  .tab { flex:1; min-width:130px; text-align:center; padding:11px 10px; border:1.5px solid var(--line);
+    border-radius:11px; background:var(--card); cursor:pointer; font-size:.9rem; font-weight:700; color:var(--muted); transition:all .14s; }
+  .tab.active { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); }
+  .tab:hover { border-color:var(--accent); }
+  .view { display:none; } .view.active { display:block; animation:fade .18s ease; }
+  @keyframes fade { from{opacity:0;transform:translateY(4px);} to{opacity:1;transform:none;} }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:14px; padding:18px; box-shadow:var(--shadow); margin-bottom:14px; }
+  h2 { font-size:1.06rem; margin-bottom:4px; }
+  h3 { font-size:.92rem; margin:15px 0 7px; color:var(--ink); }
+  .hint { color:var(--muted); font-size:.84rem; margin-bottom:12px; }
+  .qlabel { font-weight:700; font-size:.9rem; margin:14px 0 7px; }
+  .qlabel:first-of-type { margin-top:2px; }
+  .btnrow { display:flex; flex-wrap:wrap; gap:7px; }
+  .opt { border:1.5px solid var(--line); border-radius:10px; padding:8px 13px; cursor:pointer; background:var(--card);
+    font-size:.84rem; font-weight:600; color:var(--muted); transition:all .13s; }
+  .opt:hover { border-color:var(--accent); }
+  .opt.on { border-color:var(--accent); background:var(--accent-soft); color:var(--accent); }
+  select { width:100%; padding:10px 12px; border:1.5px solid var(--line); border-radius:10px; font-size:.88rem;
+    background:var(--card); color:var(--ink); font-family:inherit; }
+  /* differential bars */
+  .barwrap { margin-top:6px; }
+  .barrow { display:flex; align-items:center; gap:10px; margin:8px 0; }
+  .barname { width:120px; font-size:.82rem; font-weight:700; flex-shrink:0; }
+  .bartrack { flex:1; height:20px; background:#eef1f6; border-radius:10px; overflow:hidden; }
+  .barfill { height:100%; border-radius:10px; transition:width .4s ease; }
+  .barpct { width:42px; text-align:right; font-size:.8rem; font-weight:700; flex-shrink:0; }
+  .ct .barfill,.ct .barname{color:var(--ct)} .ct .barfill{background:var(--ct)}
+  .vrf .barfill,.vrf .barname{color:var(--vrf)} .vrf .barfill{background:var(--vrf)}
+  .endo .barfill,.endo .barname{color:var(--endo)} .endo .barfill{background:var(--endo)}
+  .perio .barfill,.perio .barname{color:var(--perio)} .perio .barfill{background:var(--perio)}
+  .lead { border-radius:12px; padding:13px 15px; margin:14px 0 4px; font-size:.9rem; }
+  .lead.ct{background:var(--ct-soft);border:1px solid var(--ct)} .lead.vrf{background:var(--vrf-soft);border:1px solid var(--vrf)}
+  .lead.endo{background:var(--endo-soft);border:1px solid var(--endo)} .lead.perio{background:var(--perio-soft);border:1px solid var(--perio)}
+  .lead b { font-size:.98rem; }
+  .rec { border-radius:12px; padding:15px 16px; margin-top:8px; font-size:.9rem; }
+  .rec.ok{background:var(--ok-soft);border:1px solid var(--ok)} .rec.warn{background:var(--warn-soft);border:1px solid var(--warn)}
+  .rec.amber{background:var(--amber-soft);border:1px solid var(--amber)}
+  .rec .rt { font-weight:800; font-size:.97rem; margin-bottom:6px; display:flex; align-items:center; gap:7px; }
+  .rec ul { margin:6px 0 0 18px; } .rec li { margin:3px 0; font-size:.86rem; }
+  .metric { display:flex; gap:10px; flex-wrap:wrap; margin-top:4px; }
+  .mbox { flex:1; min-width:120px; background:var(--card); border:1px solid var(--line); border-radius:12px; padding:13px; text-align:center; }
+  .mbox .n { font-size:1.5rem; font-weight:800; letter-spacing:-.02em; }
+  .mbox .l { font-size:.76rem; color:var(--muted); margin-top:3px; }
+  .prow { display:flex; align-items:center; gap:10px; margin:9px 0; }
+  .pname { width:130px; font-size:.83rem; font-weight:700; flex-shrink:0; }
+  .ptrack { flex:1; height:22px; background:#eef1f6; border-radius:11px; overflow:hidden; position:relative; }
+  .pfill { height:100%; border-radius:11px; transition:width .5s ease; }
+  .note { font-size:.8rem; color:var(--muted); margin-top:12px; padding-top:10px; border-top:1px dashed var(--line); }
+  .flag { padding:2px 8px; border-radius:6px; font-size:.72rem; font-weight:700; }
+  .flag.g{background:var(--ok-soft);color:var(--ok)} .flag.r{background:var(--warn-soft);color:var(--warn)} .flag.a{background:var(--amber-soft);color:var(--amber)}
+  .disc { font-size:.83rem; margin-top:8px; }
+  .disc li { margin:4px 0; }
+  footer { text-align:center; color:var(--muted); font-size:.76rem; margin-top:26px; line-height:1.7; }
+  .goldbox { background:#fff8e6; border:1px solid #e6cf8a; border-radius:10px; padding:11px 13px; font-size:.83rem; margin-top:12px; }
+</style>
+</head>
+<body>
+<div class="container">
+  <header>
+    <h1>시멘트질 열개 <span style="color:var(--ct)">Cemental Tear</span> 결정도구</h1>
+    <p class="sub">감별진단 · 치료 결정트리 · 예후 — chairside 참조용</p>
+    <p class="src">근거: Liang et al. Expert consensus on the diagnosis and treatment of cemental tear. <i>Int J Oral Sci</i> 2025;17:61 (consensus). 모든 수치는 이 합의문에서만 추출.</p>
+  </header>
+
+  <div class="tabs">
+    <div class="tab active" data-v="dx">① 감별진단</div>
+    <div class="tab" data-v="tx">② 치료 결정트리</div>
+    <div class="tab" data-v="px">③ 예후</div>
+  </div>
+
+  <!-- ===================== TAB 1: DIFFERENTIAL ===================== -->
+  <section class="view active" id="dx">
+    <div class="card">
+      <h2>감별진단 — 4개 병소 경향</h2>
+      <p class="hint">소견을 선택하면 시멘트질 열개 / 수직치근파절(VRF) / 1차 근관질환 / 치주질환 경향을 계산합니다. <b>확진은 아님</b> — 조직병리가 gold standard, CBCT가 1차 영상.</p>
+
+      <div class="qlabel">치수 생활력 (Pulp vitality)</div>
+      <div class="btnrow" data-q="pulp">
+        <div class="opt" data-val="vital">생활치 (Vital)</div>
+        <div class="opt" data-val="nonvital">실활치 (Non-vital)</div>
+        <div class="opt" data-val="rct">기왕 RCT 있음</div>
+      </div>
+
+      <div class="qlabel">방사선 소견 (Radiographic)</div>
+      <div class="btnrow" data-q="radio">
+        <div class="opt" data-val="fragment">치근면 옆 "가시/조각(flake)-형" 불투과 조각</div>
+        <div class="opt" data-val="vertline">치근 수직 파절선 / 충전재-치근면 사이 투과선</div>
+        <div class="opt" data-val="peronly">치근단 투과상만, 조각 없음</div>
+        <div class="opt" data-val="genloss">전반적 수평 골소실</div>
+      </div>
+
+      <div class="qlabel">병소 분포 (Distribution)</div>
+      <div class="btnrow" data-q="dist">
+        <div class="opt" data-val="localized">국소 단일치 · 고립성 깊은 pocket</div>
+        <div class="opt" data-val="general">다수치 · 전반적</div>
+      </div>
+
+      <div class="qlabel">치근면 탐침 / 부가 소견</div>
+      <div class="btnrow" data-q="probe">
+        <div class="opt" data-val="ledge">경성 ledge-형 돌출(torn fragment) 촉지</div>
+        <div class="opt" data-val="sinusvital">생활치인데 sinus tract 존재</div>
+        <div class="opt" data-val="none">해당 없음</div>
+      </div>
+
+      <div id="dxresult" style="margin-top:18px;"></div>
+    </div>
+  </section>
+
+  <!-- ===================== TAB 2: TREATMENT ===================== -->
+  <section class="view" id="tx">
+    <div class="card">
+      <h2>치료 결정트리</h2>
+      <p class="hint">핵심 원칙: <b>찢긴 조각(torn fragment)의 완전 제거</b>가 치유의 관건. 조각을 남기면 치료가 무위로 돌아감.</p>
+
+      <div class="qlabel">1. 임상 증상·징후가 있나? (증상 없이 방사선 우연 발견 vs 증상 동반)</div>
+      <div class="btnrow" data-q="signs">
+        <div class="opt" data-val="none">증상·징후 없음 (방사선만)</div>
+        <div class="opt" data-val="signs">증상·징후 있음</div>
+      </div>
+
+      <div class="qlabel">2. 교합외상 / 뚜렷한 동요도가 있나?</div>
+      <div class="btnrow" data-q="occ">
+        <div class="opt" data-val="yes">있음</div>
+        <div class="opt" data-val="no">없음</div>
+      </div>
+
+      <div class="qlabel">3. 찢긴 조각의 위치</div>
+      <div class="btnrow" data-q="loc">
+        <div class="opt" data-val="cervical">관상(경부) 1/3</div>
+        <div class="opt" data-val="middle">중간 1/3</div>
+        <div class="opt" data-val="apical">치근단 1/3</div>
+      </div>
+
+      <div class="qlabel">4. (수술 시) 동반 골내결손 형태</div>
+      <div class="btnrow" data-q="defect">
+        <div class="opt" data-val="shallow">얕음 (&lt;3mm 깊이)</div>
+        <div class="opt" data-val="n3wall">깊음·좁은 3벽 (≥3mm 깊이, &lt;2mm 너비)</div>
+        <div class="opt" data-val="w3_2wall">깊음·넓은 3벽/2벽 (≥3mm 너비)</div>
+        <div class="opt" data-val="1wall">깊음·1벽</div>
+        <div class="opt" data-val="na">해당 없음 / 미정</div>
+      </div>
+
+      <div id="txresult" style="margin-top:18px;"></div>
+    </div>
+  </section>
+
+  <!-- ===================== TAB 3: PROGNOSIS ===================== -->
+  <section class="view" id="px">
+    <div class="card">
+      <h2>예후 — 완전 제거가 관건</h2>
+      <p class="hint">Liang 2025 합의문에 보고된 고정 수치. 조각 위치와 치료방식에 따른 치유·잔존율.</p>
+
+      <div class="metric">
+        <div class="mbox"><div class="n" style="color:var(--ok)">94%</div><div class="l">완전 제거 후 <b>1년 기능적 잔존</b></div></div>
+        <div class="mbox"><div class="n" style="color:var(--ct)">57.7%</div><div class="l">수술적 치유율</div></div>
+        <div class="mbox"><div class="n" style="color:var(--amber)">28.6%</div><div class="l">비수술 단독 치유율</div></div>
+      </div>
+
+      <h3>조각 위치별 치유율</h3>
+      <div id="pxbars"></div>
+
+      <div class="qlabel" style="margin-top:16px;">조각 위치를 선택해 강조</div>
+      <div class="btnrow" data-q="pxloc">
+        <div class="opt on" data-val="all">전체 비교</div>
+        <div class="opt" data-val="coronal">관상 1/3</div>
+        <div class="opt" data-val="middle">중간 1/3</div>
+        <div class="opt" data-val="apical">치근단 1/3</div>
+      </div>
+      <div id="pxnote"></div>
+
+      <div class="goldbox">
+        📌 <b>임상 함의</b>: 수술적 개입이 비수술 단독보다 치유율이 높다(57.7% vs 28.6%). 치근단 1/3 열개는 치유율이 11.1%로 가장 낮아, 정확한 진단과 완전 제거·재생술이 특히 중요. 오진에 의한 불필요한 발치를 피할 것 — 적절히 치료하면 대부분 기능적으로 유지된다.
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    출처: Liang Y, et al. <i>Int J Oral Sci</i> 2025;17:61. DOI 10.1038/s41368-025-00381-9 (PMC12373928).<br>
+    감별·치료·예후 수치는 합의문(주로 Oxford CEBM Level 4 근거) 기반 — 개별 환자에 임상 판단 병행. 조직병리가 확진 gold standard.
+  </footer>
+</div>
+
+<script>
+// ---------- tabs ----------
+document.querySelectorAll('.tab').forEach(t=>{
+  t.onclick=()=>{
+    document.querySelectorAll('.tab').forEach(x=>x.classList.remove('active'));
+    document.querySelectorAll('.view').forEach(x=>x.classList.remove('active'));
+    t.classList.add('active');
+    document.getElementById(t.dataset.v).classList.add('active');
+  };
+});
+
+// ---------- generic single-select button groups ----------
+function bindGroup(sel, cb){
+  document.querySelectorAll(sel+' .opt').forEach(o=>{
+    o.onclick=()=>{
+      o.parentElement.querySelectorAll('.opt').forEach(x=>x.classList.remove('on'));
+      o.classList.add('on');
+      cb();
+    };
+  });
+}
+function val(q){ const on=document.querySelector('[data-q="'+q+'"] .opt.on'); return on?on.dataset.val:null; }
+
+// ===================== TAB 1: DIFFERENTIAL =====================
+// weights toward: ct (cemental tear), vrf, endo, perio
+function calcDx(){
+  const w={ct:0,vrf:0,endo:0,perio:0};
+  const pulp=val('pulp'), radio=val('radio'), dist=val('dist'), probe=val('probe');
+  // pulp vitality — cemental tear usually vital (unless apical involvement); VRF/endo often non-vital or root-filled
+  if(pulp==='vital'){ w.ct+=2; w.perio+=1; }
+  if(pulp==='nonvital'){ w.endo+=2; w.vrf+=1; }
+  if(pulp==='rct'){ w.vrf+=2; w.endo+=1; } // VRF more common in root-filled teeth
+  // radiographic
+  if(radio==='fragment'){ w.ct+=3; }                 // prickle/flake-like radiopaque fragment = hallmark
+  if(radio==='vertline'){ w.vrf+=3; }                // vertical separation / radiolucent line
+  if(radio==='peronly'){ w.endo+=2; }
+  if(radio==='genloss'){ w.perio+=3; }
+  // distribution
+  if(dist==='localized'){ w.ct+=1; w.vrf+=1; }
+  if(dist==='general'){ w.perio+=3; }
+  // probe / adjunct
+  if(probe==='ledge'){ w.ct+=3; }                    // hard ledge-like projection = cemental tear
+  if(probe==='sinusvital'){ w.ct+=2; }               // vital pulp + sinus tract → suspect cemental tear
+  return w;
+}
+const DXMETA={
+  ct:{name:'시멘트질 열개', cls:'ct', tip:'생활치가 흔하고(치근단 미침범 시), 치근면 옆 flake-형 불투과 조각·경성 ledge 촉지가 특징. 적절히 치료하면 대부분 유지 → 성급한 발치 금물.'},
+  vrf:{name:'수직치근파절(VRF)', cls:'vrf', tip:'근관충전치에서 더 흔하고 예후 불량으로 발치가 흔함. 방사선상 치근 수직 분리·충전재-치근면 사이 투과선. 시멘트질 열개와의 감별이 발치 여부를 가름.'},
+  endo:{name:'1차 근관질환', cls:'endo', tip:'염증성/괴사 치수. sinus tract 동반 가능하나 치수 실활이 단서. 조각 없는 치근단 투과상. 치수생활력 정밀 평가로 헛된 RCT 방지.'},
+  perio:{name:'치주질환', cls:'perio', tip:'다수치·전반적 골소실. 국소 농양 형태도 있으나 치근면 ledge-형 돌출 유무로 시멘트질 열개와 구분.'}
+};
+function renderDx(){
+  const w=calcDx();
+  const total=w.ct+w.vrf+w.endo+w.perio;
+  const el=document.getElementById('dxresult');
+  if(total===0){ el.innerHTML='<p class="hint">위 소견을 선택하면 경향이 표시됩니다.</p>'; return; }
+  const order=['ct','vrf','endo','perio'].sort((a,b)=>w[b]-w[a]);
+  const max=w[order[0]];
+  let bars='<div class="barwrap">';
+  order.forEach(k=>{
+    const pct=Math.round(w[k]/total*100);
+    bars+=`<div class="barrow ${DXMETA[k].cls}"><div class="barname">${DXMETA[k].name}</div>
+      <div class="bartrack"><div class="barfill" style="width:${pct}%"></div></div>
+      <div class="barpct">${pct}%</div></div>`;
+  });
+  bars+='</div>';
+  const lead=order[0];
+  const tie=order.filter(k=>w[k]===max).length>1;
+  let leadHtml=`<div class="lead ${DXMETA[lead].cls}"><b>가장 시사되는 병소: ${DXMETA[lead].name}${tie?' (동점 — 소견 추가 필요)':''}</b><br>${DXMETA[lead].tip}</div>`;
+  el.innerHTML=bars+leadHtml+
+    '<div class="goldbox">🔬 <b>확진</b>은 제거된 조각의 조직병리(gold standard). 의심 시 소시야 CBCT가 1차 영상(치근 협·설면 조각 검출·3D 범위). 메틸렌블루 염색은 수술 중 경계·미세 균열 확인에 보조.</div>';
+}
+
+// ===================== TAB 2: TREATMENT =====================
+function renderTx(){
+  const signs=val('signs'), occ=val('occ'), loc=val('loc'), defect=val('defect');
+  const el=document.getElementById('txresult');
+  if(!signs){ el.innerHTML='<p class="hint">1번부터 선택하세요.</p>'; return; }
+
+  // 1) no signs → follow-up
+  if(signs==='none'){
+    el.innerHTML=`<div class="rec ok"><div class="rt">🟢 정기 관찰 (능동 개입 불필요)</div>
+      증상·징후 없이 방사선 소견만 있으면 능동 치료는 불필요. 환자에게 설명하고 정기 recall. 진행 징후(pocket 심화·sinus tract·동요)가 나타나면 개입.</div>`;
+    return;
+  }
+
+  let blocks='';
+  // 2) occlusal trauma prerequisite
+  if(occ==='yes'){
+    blocks+=`<div class="rec amber"><div class="rt">⚙️ 선행: 교합조정 + splinting</div>
+      교합외상·동요가 있으면 재생술·수술 전에 교합조정으로 외상성 교합 제거, 필요 시 동요치 splinting으로 안정화. 조화로운 교합이 조직 치유에 유리.</div>`;
+  }
+
+  // 3) location-driven core decision
+  if(!loc){ el.innerHTML=blocks+'<p class="hint">3번 위치를 선택하면 핵심 권고가 표시됩니다.</p>'; return; }
+
+  if(loc==='cervical'){
+    blocks+=`<div class="rec ok"><div class="rt">🟢 관상 1/3 — 비수술 우선 시도</div>
+      <ul><li>치은연하 SGRP(scaling & root planing)로 완전히 닿는 조각·감염조직 제거 시도. 분리된 조각은 locking pliers로 제거 가능.</li>
+      <li>치과 현미경/치주 내시경으로 시야 확보 — 잔존 조각 최소화.</li>
+      <li>비수술 후 1–2개월 치주 재평가. 개선 없으면(PD&gt;5mm 잔존) 치주수술로 전환.</li>
+      <li>주의: 비수술 단독 치유율은 28.6%에 불과 — 잔존 조각 가능성 항상 염두.</li></ul></div>`;
+  } else if(loc==='middle' || loc==='apical'){
+    blocks+=`<div class="rec warn"><div class="rt">🔶 ${loc==='middle'?'중간':'치근단'} 1/3 — 수술 필요</div>
+      <ul><li>중간/치근단 1/3, 또는 비수술 후 PD&gt;5mm 지속 시 수술 적응. 현미경·미세수술기구로 조각 완전 제거, 치근면 diamond bur로 활택.</li>`;
+    if(loc==='apical'){
+      blocks+=`<li>치근단 1/3은 치근단 병소를 흔히 동반 → 구강과 교통 시 치수괴사 가능. 치근단 절제가 신경혈관 공급을 훼손할 수 있어 <b>충분한 RCT 선행</b> 필요.</li>
+      <li>최소침습 치근단 수술로 조각·감염조직 완전 제거.</li>`;
+    }
+    blocks+=`</ul></div>`;
+
+    // 4) regenerative sub-decision (surgical only)
+    if(defect && defect!=='na'){
+      let rtxt='';
+      if(defect==='shallow') rtxt='얕은 골내결손(&lt;3mm)은 재생이 어려움 → <b>골절제술(osseous resective)</b>이 적합.';
+      else if(defect==='n3wall') rtxt='깊은(≥3mm) 좁은 3벽 결손(&lt;2mm 너비): <b>골이식재 · GTR · 생물학적 인자(EMD) 중 단독</b> 적용 가능.';
+      else if(defect==='w3_2wall') rtxt='깊은 넓은 3벽(≥3mm 너비) 또는 2벽 결손: <b>골이식재 + GTR 또는 생물학적 인자(EMD) 병용</b>.';
+      else if(defect==='1wall') rtxt='1벽 결손: <b>골이식재 + 생물학적 인자 + GTR 조합</b>. (좁은 2·3벽이 재생 잠재력 최고, 1벽은 가장 불리)';
+      blocks+=`<div class="rec ok"><div class="rt">🧩 골내결손별 재생술 선택</div>${rtxt}
+        <div class="note">치근단부: 병소 직경 ≥10mm 또는 잔존 협측골판 ≤3mm면 재생술 유리. 협-설 관통 결손은 골이식재+차폐막이 양호한 예후.</div></div>`;
+    } else {
+      blocks+=`<div class="rec amber"><div class="rt">🧩 골내결손 형태 선택 시</div>4번에서 결손 형태를 고르면 재생술(EMD/GTR/골이식) 권고가 표시됩니다.</div>`;
+    }
+  }
+
+  // additional options note
+  blocks+=`<div class="goldbox">🔧 <b>대안 술식</b>: 중요 혈관·신경 인접 또는 조각 접근 곤란 → 의도적 재식(intentional replantation). 다근치 → 치근분리/치근절제(hemisection/root amputation). 예후 불량(심한 골흡수·광범위 침범)·환자 강한 선호 → 조기 발치(+ 치조제 보존 또는 즉시식립으로 연·경조직 보존, 최소침습 발치).</div>`;
+
+  el.innerHTML=blocks;
+}
+
+// ===================== TAB 3: PROGNOSIS =====================
+const PX=[
+  {k:'coronal', name:'관상 1/3', v:60.0, c:'var(--ok)'},
+  {k:'middle',  name:'중간 1/3', v:66.7, c:'var(--ct)'},
+  {k:'apical',  name:'치근단 1/3', v:11.1, c:'var(--warn)'}
+];
+function renderPx(){
+  const sel=val('pxloc')||'all';
+  const wrap=document.getElementById('pxbars');
+  wrap.innerHTML=PX.map(p=>{
+    const dim=(sel!=='all' && sel!==p.k)?'opacity:.32;':'';
+    return `<div class="prow" style="${dim}"><div class="pname" style="color:${p.c}">${p.name}</div>
+      <div class="ptrack"><div class="pfill" style="width:${p.v}%;background:${p.c}"></div></div>
+      <div class="barpct">${p.v}%</div></div>`;
+  }).join('');
+  const note=document.getElementById('pxnote');
+  if(sel==='apical') note.innerHTML='<div class="rec warn" style="margin-top:12px;"><div class="rt">⚠️ 치근단 1/3 = 11.1%</div>치유율이 가장 낮음. 정확한 진단·완전 제거·치근단 재생술이 특히 중요하며, RCT 선행 여부를 신중히 판단.</div>';
+  else if(sel==='coronal') note.innerHTML='<div class="rec ok" style="margin-top:12px;"><div class="rt">🟢 관상 1/3 = 60%</div>접근성이 좋아 SGRP만으로도 완전 제거 가능한 경우가 있음.</div>';
+  else if(sel==='middle') note.innerHTML='<div class="rec ok" style="margin-top:12px;"><div class="rt">🟢 중간 1/3 = 66.7%</div>세 위치 중 보고된 치유율이 가장 높음(수술 접근).</div>';
+  else note.innerHTML='';
+}
+
+// ---------- bind ----------
+['pulp','radio','dist','probe'].forEach(q=>bindGroup('[data-q="'+q+'"]',renderDx));
+['signs','occ','loc','defect'].forEach(q=>bindGroup('[data-q="'+q+'"]',renderTx));
+bindGroup('[data-q="pxloc"]',renderPx);
+renderDx(); renderTx(); renderPx();
+</script>
+</body>
+</html>
