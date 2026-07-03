@@ -16,7 +16,7 @@ tags: [orthodontics, clear-aligner, invisalign, indications, limitations, fixed-
 ## 한국어 핵심요약
 
 > [!summary] 한국어 핵심요약
-> - 핵심 명제: 투명교정(Clear Aligner Therapy, CAT)은 **경도~중등도 비발치 부정교합**에서 고정성장치(Fixed Appliance, FA)와 **교합결과가 동등**하고 치주·편의성에서 우위지만, **복잡 이동(torque·rotation·extrusion·bodily movement)·중증/골격 증례·발치 공간폐쇄**에서는 예측성이 낮거나 열등하다. 보조장치(attachment·TADs·IPR·trimline 설계)가 적응증 범위를 넓힌다. 임상 위키 보유 26편을 10축으로 합성.
+> - 핵심 명제: 투명교정(Clear Aligner Therapy, CAT)은 **경도~중등도 비발치 부정교합**에서 고정성장치(Fixed Appliance, FA)와 **교합결과가 동등**하고 치주·편의성에서 우위지만, **복잡 이동(torque·rotation·extrusion·bodily movement)·중증/골격 증례·발치 공간폐쇄**에서는 예측성이 낮거나 열등하다. 보조장치(attachment·TADs·IPR·trimline 설계)가 적응증 범위를 넓힌다. 임상 위키 보유 27편을 10축으로 합성.
 > - **효율(교합결과)**: RCT 21편 메타분석(Baneshi 2024, n=970) — 단순 비발치서 ABO/LII/PAR 교합결과 CAT=FA **차이 없음**. 우산고찰(Yassir 2022, 18 SR)도 경중등도엔 효과적이나 **중증·특정 이동엔 열등** 결론.
 > - **특정 이동 한계**: 성인 전치 이동(Ubuzima 2025, 12편) — 수직이동 비일관, **FA가 회전·토크 조절 우수**. 발치/복잡(Jaber 2023, 6편) — 결과는 동등하나 FA가 협설경사·교합접촉을 **단기간**에 달성, CAT는 예측-실제 괴리 큼. 치료기간(Alhamwi 2024)은 경중등도서 CAT≈FA.
 > - **Class II 전략 — 원심이동(distalization)·고정원(anchorage)**: 상악 대구치 ~2 mm 가능(Bhate 2025), 단 **전치 anchorage loss 가능성 높음**; TADs+IPR 병용 시 예측성·안정성 향상(Inchingolo 2023). TAD/미니스크류 병용 SR(Marinelli 2025, PRISMA 14편·대부분 case report)도 distalization·intrusion·extrusion·수직조절을 향상시키나 **대조비교 부재로 근거 low**.
@@ -36,7 +36,7 @@ Synthesis of 26 wiki papers on clear aligner therapy (CAT): aligners equal fixed
 
 ## 한줄요약
 
-위키 26편 종합: 투명교정은 경중등도 비발치서 고정장치와 교합결과 동등 + 치주·편의 우위지만, 토크·회전·정출·복잡/발치·중증 골격 증례엔 열등·비예측적; attachment·TADs·IPR·trimline로 적응증 확장; 치근흡수 최소, 저작/TMJ/이갈이 영향은 안심되나 근거 약, 재료 화학용출은 독성한계 미만.
+위키 27편 종합: 투명교정은 경중등도 비발치서 고정장치와 교합결과 동등 + 치주·편의 우위지만, 토크·회전·정출·복잡/발치·중증 골격 증례엔 열등·비예측적; attachment·TADs·IPR·trimline로 적응증 확장; 치근흡수 최소, 저작/TMJ/이갈이 영향은 안심되나 근거 약, 재료 화학용출은 독성한계 미만.
 
 ## Synthesis
 
@@ -52,7 +52,7 @@ The quantitative anchor is [[orthodontics/clear-aligner/baneshi-2024-clear-align
 
 ### 3. Biomechanics — the success is in the design
 
-Aligner efficacy is **appliance-design-dependent**. Composite attachments mostly increase effectiveness — improving anterior root torque, rotation, mesiodistal movement and posterior anchorage — though evidence is weaker for intrusion and lacking for extrusion/posterior expansion ([[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]], 5 trials). Trimline (gingival margin) design drives force delivery and retention: straight/extended margins generate higher forces/moments and greater displacement than scalloped/short designs, with the effect varying by movement type ([[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]], 12 studies). A finite-element-analysis SR ([[orthodontics/clear-aligner/cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr]], 29 FEA studies) supplies the mechanistic substrate: CA side effects arise from **uneven crown-vs-root stress distribution**, and auxiliaries (attachments, power ridges, divots, elastics, membrane thickness) work by *rebalancing* that stress to convert uncontrolled tipping into translation. These explain *why* the movement-specific limitations in axis 1 exist and *how* they are partly mitigated.
+Aligner efficacy is **appliance-design-dependent**. Composite attachments mostly increase effectiveness — improving anterior root torque, rotation, mesiodistal movement and posterior anchorage — though evidence is weaker for intrusion and lacking for extrusion/posterior expansion ([[orthodontics/clear-aligner/nucera-2022-composite-attachments-clear-aligners-sr]], 5 trials). Trimline (gingival margin) design drives force delivery and retention: straight/extended margins generate higher forces/moments and greater displacement than scalloped/short designs, with the effect varying by movement type ([[orthodontics/clear-aligner/nakornnoi-2024-aligner-trimline-biomechanics-tooth-movement-sr]], 12 studies). A finite-element-analysis SR ([[orthodontics/clear-aligner/cao-2025-clear-aligner-biomechanics-finite-element-analysis-sr]], 29 FEA studies) supplies the mechanistic substrate: CA side effects arise from **uneven crown-vs-root stress distribution**, and auxiliaries (attachments, power ridges, divots, elastics, membrane thickness) work by *rebalancing* that stress to convert uncontrolled tipping into translation. These explain *why* the movement-specific limitations in axis 1 exist and *how* they are partly mitigated. Trimline retention also depends on periodontal anatomy, not just design: an in-vitro study on 3D-printed models simulating marginal tissue recession ([[orthodontics/clear-aligner/bortoli-2026-aligner-retention-gingival-margin-design]]) found scalloped-extended/straight margins retain more than scalloped margins regardless of recession severity, but retention itself climbs sharply with advanced recession + interdental bone loss (Class IV ≈3× the healthy-control force) — a potential insertion/removal-discomfort factor in periodontally compromised patients that the original trimline SR (healthy arches only) could not capture.
 
 ### 4. Maxillary expansion
 
@@ -91,6 +91,7 @@ Choose aligners confidently for **mild-to-moderate, non-extraction, predominantl
 | Class II distalization / anchorage | Bhate 2025 · Inchingolo 2023 · Marinelli 2025 | 11 / 19 / 14 | ~2 mm; anchorage loss; TAD+IPR helps but uncontrolled | mod / narrative / low |
 | Class II MA | Yu 2023 · Huang 2026 | 283 / 465 | skeletal = functional; less LI proclination; less ramus growth | sr+ma (mostly retrospective) |
 | Biomechanics/design | Nucera 2022 · Nakornnoi 2024 · Cao 2025 | 5 / 12 / 29 FEA | attachments + trimline drive efficacy; auxiliaries rebalance crown/root stress | low–mod |
+| Trimline retention (periodontal) | Bortoli 2026 | in-vitro, 3D-printed models | scalloped-extended/straight margins retain more than scalloped; retention ↑ sharply with recession severity (Class IV ≈3×) | in-vitro |
 | Maxillary expansion | Fonseca-Planells 2026 · de la Rosa-Gay 2025 | 15/7 · 98 | dentoalveolar; < conventional; adult error 0.92 mm, 72% under-expansion | sr+ma / retrospective |
 | Root resorption | Butsabul 2024 | 9 (CBCT) | minimal; max central incisor worst | sr+ma |
 | Material & chemical safety | Delgado 2025 · Ferreira 2025 | review / 7 | material selection matters; leaching < toxic limits; thermoforming ↑ cytotoxicity | narrative / sr |
