@@ -27,6 +27,11 @@ tags: [oral-microbiome, biofilm, eps-matrix, matrixome, glucosyltransferase, dys
 > - 임상 결정점 1 — 우식: 매트릭스 기질이 sucrose이므로 항균제보다 식이당 노출 빈도 감소가 1순위(생태학적 합리). 2 — 기계적 plaque 제거가 핵심: 매트릭스 확산장벽 때문에 항생제 단독으로 성숙 바이오필름 무력화 어려움(brushing·SRP·관개 활성화), 항생제는 보조.
 > - 임상 결정점 3 — 치주염은 '특정 세균 박멸'이 아니라 'dysbiosis 역전'(host modulation·생태 회복), SRP가 1차. 4 — 구강-전신 연관(F. nucleatum–OSCC, P. gingivalis–류마티스/심혈관)은 인과 단정 금물('연관 있음·인과 미확정'으로 구분), Fn 양성 OSCC는 역설적 양호 예후.
 > - 핵심 함의: 합리적 개입점은 항생제 표적이 아니라 매트릭스·종간 신호·식이당 차단. 매트릭스 표적 치료는 대부분 in-vitro/전임상 단계로 임상 전환 미성숙.
+> - S. mutans **intraspecies**(동종 내) 상호작용도 우식원성을 높인다 — 임상분리주 두 유전형(G09·G18) 공동배양 시 바이오필름 pH↓, 세포밀도·두께 2배, 역학적으로 첫 1년 내 복수 유전형 획득이 ECC와 유의 연관(52.6% vs 29.5%, p=0.019)(Momeni 2024).
+> - 공생 연쇄상구균 **S. sanguinis**는 SpxB 유래 H₂O₂로 S. mutans를 억제하고 ADS로 산을 완충하는 방어축이나, P. gingivalis·F. nucleatum에게는 역설적으로 부착 발판(scaffold) 역할도 한다(Zhu 2018) — 공생세균이 항상 '순수 보호자'는 아님.
+> - **Candida(진균)-연쇄상구균 상호작용**: 연쇄상구균 다양성이 늘수록 C. albicans CFU는 감소하나(S. gordonii+S. mutans 조합 최저), S. mutans+mitis군 단일종은 오히려 균사형(hypha, 침습형)을 유도하고 다종 공존 시 효모형으로 되돌아간다(Lueyar 2023) — 군집 복잡도가 진균 독성 형태를 조절하는 신규 축.
+> - 임상 결정점 5 — **NSPT(비외과적 치주치료)의 미생물학적 효과가 115편 SR+MA로 정량 확인**: Pg·Td·Tf·Aa 등 병원균 평균 개수가 3–6개월에 유의 감소, 지지치료(SPC) 추가 시 Pg·Td 추가 감소(Krajewski 2025) — Socransky red/orange complex가 치료 후 감소하고 blue/white complex가 늘어나는 방향의 실측 근거.
+> - 임상 결정점 6 — **미생물총 기반 치료(probiotics/postbiotics/포식세균/박테리오파지/OMT)**가 항생제를 대체할 생태학적 개입으로 부상 중이나 대부분 초기 단계: S. salivarius K12/M18은 chlorhexidine과 유사한 치은염 개선 효과, Bdellovibrio는 그람음성균만 표적, 박테리오파지는 근관치료에서 항생제 10종보다 우수한 사례도 있으나 인체 치주 RCT는 아직 없음(Salah 2025).
 
 ## One-line Summary
 
@@ -80,6 +85,11 @@ Together these two define the page's intellectual coordinate system: Socransky s
 | 기전(부착) | [[oral-microbiology/inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review]] | review | S. mutans 콜라겐결합단백(SpaP·WapA·Cnm·Cbm) 역학생물학 — 상아질/ECM 부착·응집·독성, AFM 단분자/단세포 힘분광법으로 특성화, 항바이오필름 우식예방 표적 |
 | 기전(산) | [[caries/hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review]] | narrative-review | **산성 미세환경**이 우식→치수염→근단치주염 공통 동인 — 산생성·내산성(acidogenic/aciduric) 세균 선택·탈회 가속·골흡수, 근관치료 효과↓ |
 | 임상(치은염) | [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] | sr | 소아·청소년 바이오필름유발 치은염 유병률 ~52%; 감독 불소칫솔질+학교/보호자 교육이 핵심 통제 (EFP/EAPD) |
+| 다형성(intraspecies) | [[oral-microbiology/momeni-2024-intraspecies-interactions-streptococcus-mutans]] | in-vitro | S. mutans 임상 유전형 2종(G09·G18) 공동배양 — 바이오필름 pH↓, 세포밀도·두께 2배, 초파리 in vivo 집락화 강화; division of labor(G18=산도, G09=구조); 다중 유전형 획득이 ECC와 연관(p=0.019) |
+| 공생세균(방어) | [[oral-microbiology/zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens]] | narrative-review | S. sanguinis SpxB→H₂O₂로 S. mutans 억제, ADS로 pH 완충; 그러나 P. gingivalis(GAPDH 결합)·F. nucleatum(RadD/Aid1 coaggregation)에는 부착 발판 제공 — 공생세균의 이중적 역할 |
+| 계간(cross-kingdom) | [[oral-microbiology/lueyar-2023-dynamic-interactions-between-candida-albicans]] | in-vitro | 8종 상연골상 바이오필름 — 연쇄상구균 다양성↑ → C. albicans CFU↓(S. gordonii+S. mutans 최저); S. mutans+mitis 단일종은 균사형(hypha) 유도, 다종 공존 시 효모형 회귀 — 군집 복잡도가 진균 형태 결정 |
+| 치료적 개입 | [[oral-microbiology/salah-2025-microbiota-based-therapies-oral-health]] | narrative-review | 미생물총 기반 치료(probiotics·postbiotics·Bdellovibrio·bacteriophage·OMT) 개관 — S. salivarius K12/M18, 박테리오파지 항충치·항근관감염, 포식세균의 그람음성 선택적 용균 |
+| 치료 효과(NSPT) | [[oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma]] | sr+ma | 115편 SR+MA — NSPT가 Pg·Td·Tf·Aa·Pi·En·Cr 평균 개수 유의 감소(3–6개월), SPC 추가 시 Pg·Td 추가 감소; Socransky red/orange complex 감소·blue/white complex 증가(12개월 유지) |
 
 ## Clinical Decision Points
 
@@ -87,13 +97,17 @@ Together these two define the page's intellectual coordinate system: Socransky s
 2. **기계적 plaque 제거의 근거.** 매트릭스는 확산장벽이라 항생제 단독으로 성숙 바이오필름을 무력화하기 어렵다 — 물리적 disruption(brushing·SRP·관개 활성화)이 핵심. 항생제는 보조. 이 원칙의 1차 근거가 [[oral-microbiology/costerton-1999-bacterial-biofilms-persistent-infections]]: biofilm의 항생제 recalcitrance는 inherent phenotypic tolerance여서, 항생제는 shed planktonic cell만 죽이고 군집은 살아남아 재발 cycle을 만든다.
 3. **치주염은 '특정 세균 박멸'이 아니라 'dysbiosis 역전'.** keystone/accessory/pathobiont 구도상 단일 종 표적의 한계 — 숙주 염증 조절(host modulation)·생태 회복이 표적. SRP가 여전히 1차.
 4. **구강-전신 연관은 인과 단정 금물.** Fn–OSCC, P. gingivalis–RA/CAD 연관은 기전적으로 그럴듯하나 대부분 연관·전임상 수준 [claude해석]. 환자 상담 시 '연관성 있음', '인과 확정 아님'으로 구분.
+5. **NSPT의 미생물학적 효과는 정량적으로 확립되어 있다 — SRP가 dysbiosis를 실제로 되돌린다는 근거.** Krajewski 2025 SR+MA(115편)는 임상결정점 3의 "dysbiosis 역전" 원칙을 수치로 뒷받침: Pg·Td·Tf·Aa 등이 NSPT 후 3–6개월에 유의 감소하고, SPC(지지치료)를 병행하면 Pg·Td가 추가 감소한다. 다만 16S rRNA 다양성(alpha/beta) 회복은 연구 간 이질적이라 "완전한 생태계 정상화"까지 단정할 근거는 아니다.
+6. **미생물총 기반 치료(probiotics 등)는 항생제의 보조/대체 옵션으로 부상하나 표준 진료 편입은 아직 이르다.** S. salivarius K12/M18은 chlorhexidine과 유사한 치은염 개선 효과를 보였고(probiotic mouthwash), postbiotics(사균체)는 생균 대비 안전성·안정성 이점이 있다. 그러나 Bdellovibrio(포식세균)·박테리오파지·OMT(구강 미생물 이식)는 in-vitro/동물 단계가 대부분이며 인체 치주 RCT 부재 — 환자에게 권고하기보다 "연구 중인 대안"으로 소개.
 
 ## Gaps & Future Research
 
 - 매트릭스 표적 치료(Gtf 저해제, matrixome 분해효소)의 임상 전환 미성숙 — 대부분 in-vitro/전임상.
 - PSD 모델의 keystone pathogen 개념은 동물·기전 근거 중심, 인간 종단 RCT 부재.
 - 구강 microbiome–전신질환의 인과성(특히 OSCC 예후 역설) 미해결.
-- 종간/계간(inter-kingdom: C. albicans–S. mutans) 시너지의 임상적 차단 전략 부재.
+- 종간/계간(inter-kingdom: C. albicans–S. mutans) 시너지의 임상적 차단 전략 부재 — **부분적으로 채워짐**: Lueyar 2023이 연쇄상구균 종-특이적(S. gordonii vs S. oralis) 억제 효과와 군집복잡도-형태전환 관계를 정량 데이터로 제시했으나, 이를 임상 차단 프로토콜로 옮기는 단계는 여전히 공백.
+- S. mutans intraspecies(동일 종 내 유전형 간) 상호작용의 caries 위험 기여는 Momeni 2024로 처음 기전 데이터를 확보했으나 단일 아동의 두 유전형 조합에 국한 — 다른 유전형 쌍·억제성(mutacin 생산) 균주와의 일반화 미검증.
+- 미생물총 기반 치료(포식세균·박테리오파지·OMT)는 human periodontal RCT 부재, donor screening·표준화 미해결(Salah 2025) — 향후 연구 우선순위.
 
 ## Related Papers
 - [[oral-microbiology/socransky-1998-microbial-complexes-subgingival-plaque]] — complex/community paradigm; PSD/keystone 모델이 refine한 historical 토대 (foundation)
@@ -104,3 +118,8 @@ Together these two define the page's intellectual coordinate system: Socransky s
 - [[oral-microbiology/inostroza-2025-streptococcus-mutans-adhesion-collagen-mechanobiology-review]] — S. mutans 부착 역학생물학 (extends 매트릭스/부착축)
 - [[caries/hu-2026-acidic-microenvironment-caries-pulpitis-periapical-review]] — 산성 미세환경 병태생리 (extends 우식 pathogenesis)
 - [[periodontics/tsilingaridis-2026-biofilm-induced-gingivitis-children-adolescents]] — 바이오필름유발 치은염 임상 epidemiology (applies-to)
+- [[oral-microbiology/momeni-2024-intraspecies-interactions-streptococcus-mutans]] — S. mutans 동종 내 유전형 상호작용이 우식원성 증폭 (extends 매트릭스/생태 축)
+- [[oral-microbiology/zhu-2018-streptococcus-sanguinis-biofilm-oral-pathogens]] — 공생 연쇄상구균의 방어 기전과 병원균 부착 발판 이중성 (extends 생태 축)
+- [[oral-microbiology/lueyar-2023-dynamic-interactions-between-candida-albicans]] — 연쇄상구균 군집복잡도가 C. albicans 형태(효모↔균사) 조절 (extends 계간 상호작용 축)
+- [[oral-microbiology/salah-2025-microbiota-based-therapies-oral-health]] — 미생물총 기반 치료(probiotics/postbiotics/포식세균/박테리오파지/OMT) 개관 (applies-to 임상 결정점 6)
+- [[oral-microbiology/krajewski-2025-nspt-subgingival-microbiota-sr-ma]] — NSPT의 치은연하 미생물 감소 효과 정량 SR+MA (reinforces 임상 결정점 3·5)
