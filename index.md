@@ -558,6 +558,9 @@ tags: []
 - [[sinus-lift/lateral/lee-2020-msmt-mod-ratio-sinus-augmentation-risk]] — Retrospective (n=120, 11y, 가톨릭대): MSMT/MOD 비율이 3군 간 유의차(p<0.001); MOD 단독은 NS; OMC 폐쇄 독립 위험인자 → 비율+OMC 이중 평가 필수 (2020)
 - [[sinus-lift/lateral/kim-2023-sinus-mucosal-thickness-change-otolaryngologists]] — Retrospective (n=9, 가톨릭대): ENT 협진 후 술전 MSMT 평균 4.3mm → 술후 4.5mm(NS), 상악동염 0% — MSMT/MOD 비율 안정적 유지 확인 (2023)
 - [[sinus-lift/lateral/park-2024-surgical-drainage-simultaneous-sinus-floor]] — 만성 상악동염 2명에서 FESS 없이 구강내 적극적 배액 + 동시 MSFA 시행 → 1년 추적 임플란트 100% 생존·상악동염 소실 (증례보고, 2024, 경희대)
+- [[sinus-lift/lateral/ohyama-2022-novel-management-severe-odontogenic-maxillary]] — Ohyama 2022 · case-report · 중증 치성상악동염(OMS): 자연공 재폐쇄·재발의 병태생리를 근거로 Caldwell-Luc 접근 비상악동창(nasoantral window)+비후점막 보존 관리로 전두동 파급례까지 완치 (DOI 10.1155/2022/1614739, PMC9348962)
+- [[sinus-lift/lateral/kashi-2023-accessory-maxillary-ostium-sinusitis-cbct]] — Kashi 2023 · cross-sectional · CBCT 244례: 부개구부(AMO) 존재는 상악동염과 무관(p=0.104)이나 일차개구부(PMO) 폐쇄는 상악동염군서 유의 증가(p<0.001); AMO 빈도는 성별 의존 (DOI 10.1007/s12070-023-04376-y, PMC10982170)
+- [[sinus-lift/lateral/kato-2021-sinus-mucosa-ostium-involvement-septa]] — Kato 2021 · retrospective · 측방창 SFE 30동(격벽15/대조15): 1주 점막부종 최고(높이 +5.7/+7.1mm)로 누두 3/5동 일시폐쇄, 9개월에 전례 회복; 격벽은 개구부 폐쇄 악화 안 시키나 천공 위험(격벽군 26.7%) (DOI 10.3390/dj9080082, PMC8391700)
 
 ## 상악동거상술 — 경치조골·골밀도화 (Sinus Lift: Transcrestal / Osseodensification)
 - [[sinus-lift/transcrestal/huang-2026-graftless-transcrestal-sinus-membrane-perforation-ma]] — Huang 2026 · sr+ma · 무이식(graftless) 경치조 상악동거상 MA 14편(2119부위): 막천공 1%·조기실패 1%·부비동염 없음; motor-OD 34% vs osteotome 0% (GRADE very low) (DOI 10.2340/aos.v85.46021)
@@ -2764,6 +2767,7 @@ tags: []
 - [[artificial-intelligence/pornprasertsuk-2025-deep-learning-multistage-caries-panoramic]] — Pornprasertsuk 2025 · retrospective · YOLOv5+Attention U-Net 2단계 다단계 우식(법랑질/상아질/치수) 분할, 파노라마 500장·교익 gold standard; F1 0.85·정확도 0.93·재현율 0.96(구치부) (DOI 10.1038/s41598-025-16591-4)
 - [[artificial-intelligence/de-menezes-torres-2025-chatgpt-oral-maxillofacial-surgery]] — de Menezes Torres 2025 · sr · 구강악안면외과 ChatGPT(10편): GPT-4 MCQ 76.8%, 동의서·환자소통 우수·복잡한 의사결정 취약 (DOI 10.1016/j.bjoms.2025.03.006)
 - [[artificial-intelligence/mun-2024-deep-learning-cracked-tooth-extraction-panoramic]] — Mun 2024 · retrospective · 파노라마 개별치아영상 418개(발치필요 VRF 209 vs 정상 209)로 CNN 3종(Inception/ResNet50/EfficientNet) 학습 → 균열치 발치적응증 민감도 90–94%·특이도 53–61%·정확도 72–76%·AUC 0.80–0.82(ResNet50 최고) (DOI 10.1186/s12903-024-04721-9, PMC11328441)
+- [[artificial-intelligence/talo-2026-maxillary-sinus-ostium-patency-deep-learning]] — Talo 2026 · retrospective · CBCT 704영상(477/227)으로 ConvNeXt-Tiny+DeiT gated-MLP 하이브리드(CNN+ViT)가 상악동 개구부 개존(patency) 자동분류 → 정확도 95.03%·F1 94.18%(사전학습 최고 89.36% 상회); 상악동거상·임플란트 술전 개구부 평가 자동화 (DOI 10.3390/diagnostics16101512, PMC13205894)
 
 ## 비우식성 치경부 병소 (Noncarious Cervical Lesions / Abfraction)
 
