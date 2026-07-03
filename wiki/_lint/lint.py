@@ -146,8 +146,8 @@ def lint():
         if missing:
             C.append((wp_rel, missing))
 
-        # 한줄요약: papers + overviews require, nav stubs require too (we kept ours)
-        if '## 한줄요약' not in text:
+        # 세줄요약: papers + overviews require, nav stubs require too (we kept ours)
+        if '## 세줄요약' not in text:
             D.append(wp_rel)
 
         # confidence vocab
@@ -263,7 +263,7 @@ def report(r):
         'A': 'wiki 페이지가 index.md에 미등재',
         'B': 'index.md 링크인데 wiki 없음',
         'C': 'frontmatter 필수 필드 누락',
-        'D': '한줄요약 누락',
+        'D': '세줄요약 누락',
         'E': '깨진 wikilink',
         'F': 'sources/ 파일 누락',
         'G': 'papers/ 파일 누락',
