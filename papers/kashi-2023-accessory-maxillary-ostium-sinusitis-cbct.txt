@@ -1,0 +1,11 @@
+Frequency of Accessory Maxillary Ostium in Patients With/Without Sinusitis, and Its Correlation with Anatomical Variations of Paranasal Sinuses: A Cone Beam Computed Tomography Study
+
+Kashi F, Dalili Kajan Z, Yaghoobi S, Khosravifard N
+Indian Journal of Otolaryngology and Head & Neck Surgery. 2024;76(2):1645-1654. Epub 2023-11-29.
+PMID: 38566626 ; PMCID: PMC10982170 ; DOI: 10.1007/s12070-023-04376-y
+
+Source: PubMed Central (PMC10982170). Full-text body was not available via get_full_text_article (empty body returned); only the structured abstract was retrievable. Text below is the abstract verbatim.
+
+ABSTRACT
+
+This study assessed the frequency of accessory maxillary ostium (AMO) in patients with/without sinusitis and its correlation with anatomical variations using cone-beam computed tomography (CBCT). In this cross-sectional study, 244 CBCT scans were evaluated in two groups: with maxillary sinusitis having > 2 mm mucosal thickening and without max sinusitis as a normal group having normal or less than 2 mm mucosa. The CBCT scans of each group were carefully evaluated for the presence/absence of AMO, patency/obstruction of the primary maxillary ostium (PMO), and the presence of anatomical variations of the paranasal sinuses. Data were analyzed by independent t-test, Pearson Chi-square test, and Fisher's exact test (alpha = 0.05). CBCT scans of 134 females (54.9%) and 110 males (45.1%) with a mean age of 34.16 ± 19.01 years were evaluated. The presence of AMO had no significant correlation with maxillary sinusitis (= 0.104). The two groups had no significant difference in the frequency of Haller cell, nasal septal deviation, and concha bullosa (> 0.05). However, the frequency of paradoxical concha (PC; < 0.001) and bifid concha (BC; = 0.017) was significantly higher in the normal group, and the frequency of PMO obstruction was significantly higher in the sinusitis group (< 0.001). AMO had no significant correlation with any anatomical variation in any group (> 0.05). Gender had a significant effect on the presence of AMO (= 0.013). The presence of AMO had no significant correlation with maxillary sinusitis. However, its frequency was significantly higher in females in normal group and males with sinusitis. The presence of AMO had no significant correlation with anatomical variations.
