@@ -1069,6 +1069,9 @@ tags: []
 
 ## 교정치료 (Orthodontics)
 
+### 교정치료 중 치은열구액(GCF) 바이오마커
+- [[orthodontics/bud-2024-gingival-crevicular-fluid-biomarkers-orthodontic]] — Bud 2024 · narrative-review · 교정력에 의한 치주조직 재형성을 GCF 바이오마커로 모니터링(19편): PGE2·TNF-α·IL-1β·RANKL/OPG·ALP·MMP·osteocalcin·NTx가 치아이동 골재형성 반영 (DOI 10.3390/medicina60122004)
+
 ### 투명교정 (Clear Aligner) — 적응증·한계 (`orthodontics/clear-aligner`)
 - [[overviews/clear-aligner-indications-limitations]] — **종합 오버뷰** (20편): 투명교정 적응증·한계 — 효율(경중등도 OK·중증/torque/rotation 열등)·Class II(distalization·MA)·생체역학(attachment·trimline)·안전성(치근흡수)·치주·저작/TMJ·가속·biofilm
 - [[orthodontics/clear-aligner/fonseca-planells-2026-clear-aligner-maxillary-expansion-growing]] — Fonseca Planells 2026 · sr+ma · 성장기 환자 투명교정 상악확장(15편/7 pooled): aligner 확장 가능하나 conventional expander 대비 유의 적음 — 구치간폭 −1.77mm·구개용적 −460.6mm³·호선둘레 −1.75mm; 확장 주로 치조성(전치·유치), skeletal엔 conventional 우위 (DOI 10.1186/s40510-026-00620-7) [위키 첫 clear aligner 항목]
