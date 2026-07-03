@@ -1485,6 +1485,7 @@ tags: []
 - [[endodontics/hasan-2026-rgdent-chx-caoh2-efaecalis-invitro]] — Hasan 2026 · in-vitro (PMC 풀텍스트, 치아 60개·21일 E. faecalis 모델) · 근관 내 투약제 항균효과: CHX(4.94 logCFU 감소)·RG-Dent(4.77) 모두 Ca(OH)₂(3.69) 대비 유의하게 우수(d>4, p<0.001); 적용기간 2일 vs 7일 차이 없음(p=.78) — Ca(OH)₂ 단독 의존 재고 필요 (DOI 10.1186/s12903-026-08268-9)
 - [[endodontics/vpt/aapd-2025-vital-pulp-therapy-permanent-teeth-guideline]] — AAPD 2025 영구치 VPT 최초 가이드라인 — 비가역 치수염도 VPT 고려 가능, MTA/Biodentine DPC·절단 1차 재료.
 - [[endodontics/vpt/smail-faugeron-2018-pulp-treatment-primary-teeth-cochrane]] — 유치 광범위 우식 치수 치료 코크란 리뷰 — MTA 치수절단 성공률 ~93%, FC 85–92%, IPC 유효.
+- [[endodontics/najjar-2019-caoh2-iodoform-vitapex-vs-zoe-pulpectomy-sr-ma]] — Najjar 2019 · sr+ma (PMC 풀텍스트, SR 15편/메타분석 10편) · 유치 발수 근관충전재 Ca(OH)₂/iodoform(비타펙스) vs ZOE: 6·12개월 임상·방사선 성공률 유의차 없음, 단 ≥18개월에서 ZOE 유의 우세 — 탈락 임박치는 비타펙스, 그 외는 ZOE 권장 (DOI 10.1002/cre2.173)
 - [[endodontics/vpt/hatipoglu-2025-direct-pulp-capping-nmr-rct]] — RCT + NMR Bayesian (J Dent 2025): Biodentine DPC OR 4.41, MTA OR 3.02 vs Ca(OH)₂; 추적 36개월; 비가역 치수염 포함 서브분석 유의
 - [[endodontics/vpt/fasoulas-2023-pulpotomy-direct-pulp-capping-sr-ma]] — SR+MA (Clin Exp Dent Res 2023): 직접치수복조 vs 치수절단술 — 성공률 유사(OR 1.09, NS); 재료 선택이 술식 선택보다 결과 좌우
 - [[endodontics/vpt/duncan-2019-ese-deep-caries-exposed-pulp-position]] — ESE 합의문 (IEJ 2019): 깊은 우식 노출 치수 관리 의사결정 트리 — 증상·조직 소견 기반 VPT vs RCT 선택 기준
