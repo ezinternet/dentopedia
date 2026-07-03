@@ -72,10 +72,10 @@ grounded STRICTLY in that PDF. Do not invent findings, numbers, citations, or \
 authors. If a value is not in the paper, omit it rather than guessing.
 
 Hard rules:
-- The markdown BODY must be in ENGLISH (RAG-friendly), EXCEPT the `## 한줄요약` \
+- The markdown BODY must be in ENGLISH (RAG-friendly), EXCEPT the `## 세줄요약` \
 section which must be in Korean.
-- Both one-line summaries (English `## One-line Summary` and Korean `## 한줄요약`) \
-must state: study type, n (sample size), and the single key finding.
+- Both three-line summaries (English `## Three-line Summary` and Korean `## 세줄요약`) \
+must use exactly 3 lines: Line 1 study type/n/context, Line 2 primary result with numbers, Line 3 clinical implication or key limitation.
 - Use specific numbers from the paper (sample sizes, p-values, effect sizes, %, \
 follow-up duration) wherever the paper provides them.
 
@@ -87,11 +87,15 @@ and MUST begin with `## Why Ingested`:
 Because you cannot see the existing wiki, end this section with the literal line:
 <!-- TODO: add at least one [[wiki/category/stem]] wikilink to a related page -->)
 
-## One-line Summary
-(English: study type, n, key finding — one sentence)
+## Three-line Summary
+(Line 1: study type, n, context — what was studied)
+(Line 2: primary result / key finding with numbers)
+(Line 3: clinical implication or key limitation)
 
-## 한줄요약
-(Korean: study type, n, key finding — one sentence, plain Korean)
+## 세줄요약
+(줄1: 연구유형·n·맥락 — 연구 대상/설계)
+(줄2: 핵심 결과/수치)
+(줄3: 임상적 의미 또는 핵심 한계)
 
 ## 1. Document Information
 (bullet list: Title, Authors (with country if stated), Journal/year, DOI, Type, Source)
