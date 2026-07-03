@@ -1,0 +1,396 @@
+TITLE: Pulpotomy vs. pulpectomy for equivocal pulp status in primary molars: a retrospective cohort study with propensity score matching
+DOI: 10.1186/s12903-025-07635-2
+PMCID: PMC12903533
+PMID: 41514405
+
+ABSTRACT:
+Background Diagnosing pulp status in primary molars is often challenging when clinical and radiographic findings fall into an equivocal range between reversible and irreversible pulpitis. This uncertainty complicates treatment decisions between pulpotomy and pulpectomy. This study aimed to compare long-term survival outcomes of pulpotomy and pulpectomy in primary molars with diagnostically equivocal pulp status and to identify potential predictors of treatment success.
+
+Methods
+
+A retrospective cohort study was conducted on 312 primary molars from children aged 3–8 years treated at Hefei Stomatological Hospital. All teeth exhibited borderline pulp status, such as prolonged bleeding (5–10 min) or inconclusive radiographic signs. Teeth were treated with pulpotomy using iRoot(Innovative BioCeramix Inc.,Vancouver, Canada) BP Plus or pulpectomy with ZOE–iodoform paste, followed by stainless steel crown restoration. Propensity score matching (1:1) was applied to balance baseline variables. Kaplan–Meier analysis and Cox proportional hazards models were used to evaluate survival outcomes and predictors of failure.
+
+Results
+
+After matching, 156 pairs were analyzed. The 24-month survival rate was significantly higher in the pulpotomy group (86.4%, 95% CI: 81.2–91.6%) compared to the pulpectomy group (67.1%, 95% CI: 60.3–73.9%) (< 0.001). In asymptomatic teeth, pulpotomy was associated with a significantly lower risk of failure (HR = 0.42,= 0.002), while no significant difference was found in symptomatic cases (HR = 0.88,= 0.41). Internal resorption was more common in the pulpotomy group, whereas external resorption and periapical pathology were more frequent after pulpectomy.
+
+Conclusions
+
+In primary molars with equivocal pulp status, pulpotomy demonstrates superior long-term survival, particularly in asymptomatic cases. These findings support a more conservative approach and suggest revisiting current guidelines for managing diagnostically borderline pulp conditions.
+
+FULL TEXT:
+Introduction
+
+The management of deep carious lesions in primary molars poses a persistent diagnostic challenge, especially when clinical and radiographic signs do not clearly differentiate between reversible and irreversible pulpitis [,]. Conventional guidelines recommend pulpotomy for vital teeth with limited coronal pulp inflammation and pulpectomy for non-vital teeth or those with signs of irreversible pulpitis []. However, in routine pediatric dental practice, a significant proportion of cases present with diagnostically equivocal features—such as prolonged bleeding after pulp exposure, vague or intermittent pain, and subtle periapical radiolucencies—that fall into a clinical “gray zone” [,].
+
+The American Academy of Pediatric Dentistry (AAPD) recommends [] pulpotomy if hemostasis is achieved within 5 min and there are no signs of spontaneous pain or radiographic pathology []. Nonetheless, these criteria are often difficult to apply consistently due to variability in operator technique, individual anatomic differences, and the subjective nature of clinical assessments []. Additionally, histological studies have shown that up to 30% of teeth diagnosed as having reversible pulpitis may in fact exhibit subclinical irreversible changes [], contributing to pulpotomy failure.
+
+While pulpectomy is considered a definitive approach for irreversibly inflamed or necrotic pulps, its technical complexity in primary teeth—owing to anatomical variations such as tortuous root canals and accessory foramina—can lead to procedural errors and reduced long-term success [,]. The dilemma is further compounded by the limited availability of comparative data in cases with ambiguous pulp status, as most clinical trials have focused on cases with clear diagnostic indications [,].
+
+Moreover, recent advances in bioactive materials, such as iRoot(Innovative BioCeramix Inc.,Vancouver, Canada) BP Plus, have enhanced the potential of pulpotomy by improving biocompatibility and sealing ability []. However, their performance in teeth with borderline pulp status remains underexplored.
+
+To address these knowledge gaps, this retrospective cohort study aimed to: (1) compare the survival outcomes of pulpotomy and pulpectomy in primary molars with diagnostically equivocal pulp status; and (2) identify clinical predictors of treatment success in the absence of clear diagnostic guidance.
+
+Materials and methods
+
+Study sample
+
+Review of 312 primary molars from children admitted to Hefei Stomatological Hospital from April 2021 to March 2023.
+
+: systemic conditions associated with increased infection risk or altered wound healing (e.g., hematological disorders, immunodeficiency, uncontrolled diabetes, congenital heart disease).Inclusion criterion: borderline pulp status (e.g., prolonged bleeding 5–10 min or inconclusive radiographic signs).
+
+After screening 337 teeth, 312 were included in the final analysis (Fig.). Common conditions such as well-controlled asthma were not considered exclusionary.
+
+Fig. 1
+
+Flow diagram of the tooth selection and matching process
+
+Treatment protocol
+
+All procedures performed by a single pediatric dentist with 20 years’ experience.
+
+: rubber dam isolation, 2% lidocaine with 1:100,000 epinephrine, high-speed burs under water spray, irrigation with sterile saline, hemostasis with sterile cotton pellets.
+
+: iRoot BP Plus; Pulpectomy: ZOE–iodoform paste.
+
+All treated teeth were filled with glass ionomer cement(GC Corporation, Japan), restored with stainless steel crowns(solventum, America), and the stainless steel crowns were cemented using glass ionomer cement.
+
+Clinical and radiographic evaluation
+
+: crown integrity (fracture, dislodgement, secondary caries), response to percussion/palpation, mobility, gingival inflammation.
+
+: absence of internal/external resorption, periapical or inter-radicular radiolucency, disturbance in permanent successor development.
+
+Success defined as no clinical symptoms and no progressive pathological radiographic changes compared to baseline.
+
+: periapical radiographs routinely; panoramic radiographs occasionally if clinically indicated (e.g., orthodontic assessment, eruption monitoring).
+
+Three calibrated pediatric specialists evaluated outcomes; disagreements resolved by majority. Inter-examiner reliability:= 1.0 (clinical),= 0.80 (radiographic).
+
+Propensity score matching (PSM)
+
+Potential confounders such as child cooperation level and parental oral health awareness were not included in the model due to the absence of standardized assessments and retrospective data limitations.
+
+A total of 337 teeth were initially assessed for eligibility. After excluding teeth with incomplete records, insufficient follow-up, severe root resorption, or underlying systemic conditions, 312 teeth were included in the final matched cohort (156 in each group). A detailed flow diagram of participant inclusion is provided in Fig..
+
+Propensity score matching was used to balance baseline characteristics between the pulpotomy and pulpectomy groups.Matching method: 1:1 nearest-neighbor without replacement; caliper = 0.2 SD of logit.
+
+Covariates: age, gender, tooth location, caries severity (ICDAS II/III: advanced lesions extending into dentin with visible cavitation)), presence of preoperative pain.
+
+Results
+
+Baseline characteristics after propensity score matching
+
+After PSM, baseline characteristics were well balanced between the pulpotomy and pulpectomy groups. All covariates demonstrated SMDs < 0.1 and-values > 0.05, indicating successful matching (Table).
+
+Table 1
+
+Baseline characteristics after propensity score matching
+
+Variable
+
+Pulpotomy(= 156)
+
+Pulpectomy(= 156)
+
+Std. Diff.
+
+P-value
+
+Age (years)
+
+5.1 ± 1.3
+
+5.0 ± 1.2
+
+0.08
+
+0.75
+
+Gender, n (%)
+
+0.03
+
+0.82
+
+– Male
+
+82 (52.6%)
+
+80 (51.3%)
+
+– Female
+
+74 (47.4%)
+
+76 (48.7%)
+
+Tooth location, n (%)
+
+0.05
+
+0.68
+
+– Maxillary
+
+57 (36.5%)
+
+61 (38.8%)
+
+– Mandibular
+
+99 (63.5%)
+
+95 (61.2%)
+
+Caries severity, n (%)
+
+0.02
+
+0.92
+
+– ICDAS II
+
+48 (30.8%)
+
+47 (30.1%)
+
+– ICDAS III
+
+108 (69.2%)
+
+109 (69.9%)
+
+Preoperative pain, n (%)
+
+62 (39.7%)
+
+60 (38.5%)
+
+0.02
+
+0.86
+
+Standardized difference,International Caries Detection and Assessment System
+
+A standardized difference < 0.1 was considered indicative of adequate covariate balance
+
+-values are based on t-tests for continuous variables and chi-square tests for categorical variables
+
+Overall survival analysis
+
+Kaplan–Meier survival analysis revealed a significantly higher cumulative survival probability in the pulpotomy group compared to the pulpectomy group over a 36-month follow-up period (Log-rank test,< 0.001). At 24 months, the estimated survival rate was 86.4% (95% CI: 81.2–91.6%) in the pulpotomy group and 67.1% (95% CI: 60.3–73.9%) in the pulpectomy group (Fig.).
+
+Fig. 2
+
+Kaplan–Meier survival curves comparing pulpotomy and pulpectomy groups across 36 months
+
+Subgroup analysis by preoperative symptoms
+
+Subgroup analysis stratified by the presence of preoperative pain demonstrated that pulpotomy was significantly associated with improved survival in asymptomatic teeth (HR = 0.42, 95% CI: 0.24–0.73,= 0.002). In contrast, no statistically significant difference in survival was observed between the two groups among symptomatic teeth (HR = 0.88, 95% CI: 0.49–1.58,= 0.41)(Fig.).
+
+Fig. 3
+
+Kaplan–Meier curves stratified by preoperative pain.Patients without preoperative pain;Clear separation between the curves; pulpotomy shows better survival → consistent with significant HR < 1 and P = 0.002.Patients with preoperative pain.The curves are nearly overlapping → consistent with P = 0.41 and HR close to 1, indicating no significant difference
+
+Failure pattern analysis
+
+Failure events were classified as either clinical or radiographic. The incidence of clinical failure (e.g., spontaneous pain, swelling, or pathological mobility) was similar between the pulpotomy and pulpectomy groups (= 0.49). However, significant differences in radiographic failure patterns were observed: internal root resorption was more frequent in the pulpotomy group, whereas external resorption and periapical radiolucency occurred more often in the pulpectomy group (Table).
+
+Table 2
+
+Distribution of failure types by treatment group
+
+Failure Type
+
+Pulpotomy(= 34)
+
+Pulpectomy(= 51)
+
+-value
+
+Clinical Failure
+
+15 (44.1%)
+
+19 (37.3%)
+
+0.49
+
+Internal Resorption
+
+11 (32.4%)
+
+3 (5.9%)
+
+< 0.01
+
+External Resorption
+
+3 (8.8%)
+
+17 (33.3%)
+
+< 0.01
+
+Periapical Radiolucency
+
+5 (14.7%)
+
+12 (23.5%)
+
+0.21
+
+Sensitivity and reliability analyses
+
+Sensitivity analyses were performed by excluding censored observations (e.g., physiologically exfoliated teeth or cases lost to follow-up). The survival estimates remained consistent, indicating robustness of the results. Inter-examiner agreement was excellent for clinical evaluations (= 1.00) and good for radiographic interpretations (= 0.80).
+
+Cox proportional hazards regression
+
+Both univariate and multivariate Cox proportional hazards regression analyses were conducted to identify factors associated with treatment failure. In the multivariate model, treatment modality remained an independent predictor of overall survival. Specifically, pulpectomy was associated with a significantly higher risk of failure compared to pulpotomy (HR = 0.783; 95% CI: 0.615–0.997;= 0.047). Age, gender, and tooth location were not significantly associated with failure risk (all> 0.05) (Table).
+
+Table 3
+
+Univariate and multivariate cox regression models
+
+Variable
+
+Univariable HR (95% CI)
+
+-value
+
+Multivariable HR (95% CI)
+
+-value
+
+Age (year)
+
+1.098 (0.980–1.230)
+
+0.107
+
+1.092
+
+(0.972–1.226)
+
+0.138
+
+Gender
+
+(Female vs. Male)
+
+0.795 (0.625–1.012)
+
+0.063
+
+0.836
+
+(0.654–1.070)
+
+0.155
+
+Tooth Location
+
+(Mandibular vs. Maxillary)
+
+1.152 (0.902–1.471)
+
+0.256
+
+1.154
+
+(0.900–1.479)
+
+0.258
+
+Treatment
+
+(Pulpectomy vs. Pulpotomy)
+
+0.779 (0.612–0.992)
+
+0.043
+
+0.783
+
+(0.615–0.997)
+
+0.047
+
+Radiographic evaluation
+
+Annual periapical radiographs were obtained to monitor periapical health and to evaluate potential effects on the development and eruption of permanent successor teeth. Representative longitudinal cases are illustrated in Figs.and.
+
+Fig. 4
+
+Representative case from the pulpectomy group.Preoperative radiograph showing deep carious lesion with evident pulp involvement.One-year follow-up demonstrating absence of clinical or radiographic signs of pathology; treatment outcome considered successful.Three-year follow-up revealing localized periapical resorption and slight mobility; however, the permanent successor is erupting without interference—treatment still classified as successful
+
+Fig. 5
+
+The radiographic image depicts the right primary mandibular first and second molars, which were pulpotomy group.Pre-operative view displaying deep caries penetrating the dental pulp.One-year follow-up view exhibiting no radiographic signs of involvement. The tooth was deemed successful.Three-year follow-up view were observed no abnormalities, the teeth were considered a success
+
+Discussion
+
+This study compared the clinical outcomes of pulpotomy and pulpectomy in primary molars with equivocal pulp status using a propensity score–matched cohort and survival analysis. The results demonstrated that pulpotomy achieved a significantly higher cumulative survival rate than pulpectomy over 36 months, particularly in asymptomatic cases.
+
+These findings are consistent with a growing body of evidence supporting the use of vital pulp therapy (VPT)—especially pulpotomy using biocompatible materials such as iRoot BP Plus—as a conservative alternative to pulpectomy in borderline pulp diagnoses [,]. The superior clinical outcomes in the pulpotomy group corroborate previous studies suggesting that when inflammation is confined to the coronal pulp, the radicular pulp retains regenerative potential, facilitating continued pulp vitality and function [].
+
+Subgroup and radiographic findings
+
+Subgroup analysis revealed that pulpotomy was most effective in teeth without preoperative pain, supporting earlier reports that even radiographically ambiguous teeth can respond favorably to conservative treatment in the absence of clinical symptoms []. In contrast, for symptomatic teeth, no significant difference in success rates was found between the two treatments, emphasizing the importance of comprehensive preoperative assessment and careful case selection.
+
+Distinct radiographic failure patterns were observed between the groups. Pulpotomy was more frequently associated with internal resorption, while pulpectomy showed higher rates of external root resorption and periapical radiolucency. These patterns likely reflect the inherent challenges of disinfecting and sealing complex root canal systems in primary molars []. Despite standardized procedures and treatment by a single experienced operator, the technical complexity of pulpectomy may have contributed to its lower success rate.
+
+Methodological considerations and limitations
+
+The application of propensity score matching (PSM) helped minimize selection bias and ensured comparability between groups. Standardization of clinical protocols and calibration among examiners enhanced internal validity. Nevertheless, several limitations remain. Failure events may have been underestimated due to loss to follow-up, and the retrospective design limits causal inference. Additionally, while the materials used (iRoot BP Plus and ZOE-iodoform paste) reflect current clinical practices, results may vary with other biomaterials and should be explored in future studies.
+
+Clinical implications and interpretation
+
+Pulpotomy in borderline pulp diagnoses
+
+Pulpotomy demonstrated a 24-month survival rate of 86.4%, significantly outperforming pulpectomy (67.1%,< 0.001), supporting conservative pulp preservation in cases with uncertain pulp status []. The maintained vitality of the radicular pulp may promote reparative dentinogenesis, whereas pulpectomy’s lower success could be attributed to complex anatomy, incomplete debridement, or operator error [–]. External root resorption was significantly more frequent in the pulpectomy group (47.1% vs. 13.6%), possibly due to accelerated physiological resorption following aggressive pulp removal.
+
+Influence of preoperative symptoms
+
+In asymptomatic teeth, pulpotomy yielded better outcomes (91.2% vs. 74.5%), consistent with the American Academy of Pediatric Dentistry (AAPD)’s recommendations for VPT []. However, in symptomatic cases, the outcomes between the two procedures were comparable (= 0.41), indicating that preoperative pain may signal irreversible pulp changes. These findings highlight the limited reliability of symptom-based diagnosis in pediatric endodontics [].
+
+Role of biomaterials and restoration quality
+
+Multivariate analysis identified incomplete stainless steel crown (SSC) sealing (HR = 3.12) and ZOE usage (HR = 1.68) as independent risk factors for failure. The efficacy of pulpotomy depends not only on the use of bioactive materials like iRoot BP Plus—which promotes odontoblastic differentiation and exhibits antimicrobial activity []—but also on the quality of the final restoration []. Future research should investigate the optimal combinations of medicaments and restorative techniques.
+
+Limitations and future research directions
+
+Although PSM reduces confounding in retrospective studies, it can reduce sample size and may not account for unmeasured variables.Besides, certain limitations persist. Operational criteria (e.g., 5–10 min bleeding time) may not accurately reflect histological pulp status. The mean follow-up period (24.6 months) may not capture long-term sequelae, including effects on successor tooth development. Operator bias cannot be entirely excluded. Prospective randomized controlled trials incorporating objective diagnostic tools, such as laser Doppler flowmetry [], and longer follow-up durations are warranted.
+
+Clinical recommendations
+
+A stratified treatment approach is proposed for primary molars with ambiguous pulp status:
+
+Asymptomatic teeth
+
+Favor pulpotomy using bioactive materials and SSC placement due to higher survival and regenerative potential.
+
+Symptomatic teeth
+
+If necrosis is confirmed intraoperatively (e.g., persistent purulence, uncontrolled bleeding), pulpectomy should be performed. Otherwise, pulpotomy may be attempted with close clinical and radiographic monitoring.
+
+General protocol
+
+Ensure optimal SSC sealing and conduct semi-annual radiographic evaluations to monitor for internal or external resorption.
+
+Biological rationale
+
+Pulpotomy leverages the regenerative capacity of the dental pulp. Removal of the infected coronal pulp, application of a bioactive material, and effective coronal sealing can promote odontoblast-like cell differentiation and reparative dentin formation. In this study, cases requiring > 10 min for hemostasis were excluded from pulpotomy and instead treated with pulpectomy, consistent with Wolters’ classification that such bleeding indicates irreversible pulpitis [].In addition, age-related changes in pulp tissue and root resorption may influence treatment outcomes.
+
+Materials and technical considerations
+
+We have specified that iRoot BP Plus is a premixed bioceramic material. We added a note that although our results specifically apply to iRoot BP Plus, similar outcomes might be expected with other calcium silicate cements (e.g., MTA, Biodentine), given their comparable biocompatibility and sealing ability. We also emphasized that direct extrapolation requires further comparative studies The resorption profile of root canal filling materials should align with physiological root resorption.
+
+The modified ZOE–iodoform–clove oil paste used in this study was formulated to meet this requirement. The rationale was its established use in pediatric endodontics, ease of handling, and antibacterial properties. ZOE provides a firm matrix, while iodoform enhances gradual dissolution []. Although iodoform–calcium hydroxide combinations have also demonstrated high success in pulpectomy [], premature resorption of root-filling materials has been linked to increased failure in RCTs [].
+
+Conclusion
+
+This 3-year retrospective cohort study demonstrated that pulpotomy using iRoot BP Plus was associated with significantly higher clinical and radiographic success rates compared to pulpectomy in primary molars with equivocal pulp status. After adjusting for baseline variables through propensity score matching, pulpotomy demonstrated superior long-term survival, supporting its role as a conservative and biologically favorable option in the absence of clinical signs of necrosis.
+
+These findings support the selective use of pulpotomy when intraoperative bleeding is controllable and radiographic findings are inconclusive. Given the limitations of retrospective designs, future prospective, multicenter studies with longer follow-up are essential to validate these results and to further refine clinical decision-making protocols for pediatric endodontic therapy.
