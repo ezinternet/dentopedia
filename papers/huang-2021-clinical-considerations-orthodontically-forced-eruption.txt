@@ -1,0 +1,44 @@
+Clinical Considerations in Orthodontically Forced Eruption for Restorative Purposes
+
+Authors: Huang G, Yang M, Qali M, Wang TJ, Li C, Chang YC
+Journal: Journal of Clinical Medicine 2021;10(24):5950
+DOI: 10.3390/jcm10245950
+PMID: 34945246  PMCID: PMC8706734
+Source: PubMed Central full text (JATS), retrieved via PubMed MCP.
+
+ABSTRACT
+For restorations on teeth involving invasion of the supracrestal tissue attachment (biological width), as well as for lack of ferrule effect, crown lengthening is required for long-term periodontal health and success of the restoration. Site development is often necessary prior to implant placement to provide optimal peri-implant soft and hard tissue architecture. Orthodontic extrusion (forced eruption) serves to increase clinical crown length, correct periodontal defects, and develop the implant site. Compared to traditional crown lengthening surgery, forced eruption preserves supporting bone, improves esthetics, limits involvement of adjacent teeth, and decreases the negative impact on crown-to-root ratio. It is also an attractive, non-invasive option for implant site development. Both fixed and removable (clear aligner) appliances can be used; patient compliance limits removable appliances. Major contraindications: inflammation, ankylosis, hypercementosis, vertical root fracture, root proximity. Further studies are needed on long-term stability.
+
+1. INTRODUCTION (key points)
+Orthodontic extrusion/forced eruption = alteration of tooth position by tractional forces on the PDL to stimulate marginal apposition of crestal bone (Oppenheim 1940; Heithersay 1973; Ingber 1974). Restoration of a compromised tooth may require crown lengthening when caries/fracture/resorption/perforation invades the supracrestal tissue attachment (biologic width); even a perfectly adapted margin then causes chronic inflammation and bone loss. Osseous surgery lengthens the crown but resects bone from adjacent teeth (positive architecture), risking recession/sensitivity. Forced eruption (Ingber 1974) is a less invasive alternative; Pontoriero (1987) added supracrestal fiberotomy to prevent periodontium migrating with the tooth. Salama & Salama (1993) applied forced eruption to implant site development. Review goal: consolidate clinical recommendations/contraindications for forced eruption in crown lengthening and implant site development.
+
+2. INDICATIONS
+2.1 Ferrule / Crown Lengthening
+- Ferrule concept (Rosen 1961); Sorensen & Engelman 1990. Generally 1.5–2 mm ferrule + 4.5 mm supra-alveolar tooth structure needed (difference ≈ 2 mm biologic width). When unmet → crown lengthening surgery or forced eruption.
+- Advantages of forced eruption vs surgery: limits adjacent-tooth involvement, preserves supporting bone, avoids recession, better crown-to-root ratio (e.g., 4:5 → 4:4 with extrusion+fiberotomy vs 5:4 with bone removal), superior esthetics.
+- Disadvantages: prolonged treatment; possible endodontic therapy with significant extrusion + occlusal reduction; fiberotomy reduces but may not prevent coronal attachment migration → crown lengthening may still be needed (but spares adjacent periodontium).
+- Indications: subgingival/intraosseous caries, isolated periodontal defects, teeth with caries/horizontal fracture/perforation/resorption violating biologic width.
+- Contraindications: active periodontal inflammation, ankylosis, hypercementosis (→ intrusion of anchor teeth), vertical root fracture (hopeless), root proximity, furcation exposure, extremely short roots, insufficient prosthetic space.
+
+2.2 Implant Site Development
+- Branemark 1965 modern implant. Vertical bone deficiency challenging at compromised-tooth sites. Techniques: socket preservation, ridge augmentation, forced eruption (Salama 1993). PDL tension from extrusion stimulates crestal bone deposition.
+- Advantages: conservative/non-invasive; limits adjacent-tooth involvement; increases soft+hard tissue volume; improves esthetics, emergence profile, crown-to-implant ratio; may avoid grafting; creates leveled recipient site.
+- Disadvantages: occlusal reduction risks sensitivity/pulp exposure; prophylactic endodontics may be needed; protracted treatment.
+- Indications: periodontally compromised/non-restorable teeth planned for extraction (severe attachment loss, fractures, large caries, perforation, resorption) WITH a healthy attachment apparatus.
+- Contraindications: absence of healthy attachment apparatus (inflammation) is ABSOLUTE — in active periodontitis extrusion causes only coronal relocation + clinical attachment loss. Also ankylosis, hypercementosis, root proximity, vertical root fracture, chronic inflammatory lesions.
+- Salama 1993 extraction-site classification: Type 1 (incipient defect — amenable to forced eruption + immediate implant); Type 2 (moderate buccal resorption/dehiscence/recession to mid-root — extrusion converts Type 2 → Type 1); Type 3 (severe vertical/buccolingual deficiency, loss of labial plate — forced eruption CONTRAINDICATED, indicated for GTR).
+
+3. BIOLOGY OF FORCED ERUPTION
+Orthodontic movement: pressure zone (PDL compression, hyalinization, resorption) and tension zone (PDL stretch, osteoblast activity, osteoid formation → bone deposition). Light gradual extrusive force minimizes hyalinization. In extrusion, tension → bone deposition + coronal migration of attachment apparatus. Hopeless teeth retain socket scaffold + PDL cells/signals for regeneration.
+For ferrule (crown lengthening) the GOAL is opposite: bone/soft tissue should NOT follow — fiberotomy limits osteoid to keep the tissue behind.
+Hochman soft-tissue classification (sulcus/pocket depth, MGJ vs crest, bone sounding): Type 1 (attached gingiva connected to root AND bone → extrusion increases attached-gingiva width); Type 2 (attached gingiva connected to root only → MGJ migrates with tooth, attached-gingiva width unchanged, may need soft-tissue augmentation); Type 3 (periodontal pocket → no change until pocket everted).
+
+4. METHODOLOGY AND EFFICACY
+Case selection: crown-to-root ratio, root form (wider roots preferred), accessibility, smile line (high smile benefits esthetically), condition of adjacent teeth (virgin adjacent teeth in younger patients favorable).
+Two methods: FIXED appliances (Ingber; full clinician control, predictable — ligatures/brackets/NiTi wires, mini-implants, magnets) and REMOVABLE appliances (clear aligners; compliance-dependent, weekly change, attachments buccal+lingual).
+Recommended extrusion rate 1–2 mm/month; forces ~15 g (anterior) and ~50 g (posterior). Eruptive phase ~4–6 weeks. Rectangular wire + slow activation = most predictable (minimizes buccal dehiscence, root prominence, recession from torque loss).
+Efficacy evidence: Berglundh 1991 dog — avg extrusion 4.5 mm in 16 wk, probing depths unchanged, gingival recession only 0.5 mm. Ingber extruded 3–5 mm then leveled crests. Somar SR: ~0.5–1 mm active extrusion/month (Chou, Amato); Keceli 1 mm/week + 3 wk stabilization; bone augmentation efficacy 69–100%; Amato ~65% keratinized soft-tissue augmentation.
+Stabilization/retention 1–6 months (soft-tissue healing); implant-site cases need more time for alveolar maturation than prosthetic cases. Fiberotomy (Pontoriero) weekly severs connective-tissue attachment to decrease (not fully prevent) coronal migration; some studies (Pontoriero 1987, Kozlovsky 1988, Carvalho 2006) reported nearly no soft-tissue change.
+
+5. CONCLUSIONS
+Orthodontic extrusion is a valuable option for compromised/non-restorable teeth. With fiberotomy it converts a tooth non-restorable from subgingival caries/perforation violating biologic width into a restorable tooth with adequate ferrule, without compromising adjacent periodontium or crown-root ratio; preserves gingival architecture in the esthetic zone. For hopeless teeth it offers a physiologic, non-invasive way to develop the implant site. Interdisciplinary planning and case selection essential. Paucity of controlled long-term studies and no systematic review with evidence-based guidelines yet.
