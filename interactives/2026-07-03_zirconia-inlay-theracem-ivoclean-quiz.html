@@ -1,0 +1,174 @@
+<!--
+---
+title: "지르코니아 인레이 세팅 SOP 자가테스트 (TheraCem + Ivoclean)"
+type: interactive
+date: 2026-07-03
+status: done
+category: endo-resto
+agenda: agenda/2026-07-03_zirconia-inlay-theracem-ivoclean-staff-education.md
+source_wiki:
+  - wiki/resin/theracem-bisco-product-reference.md
+  - wiki/dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength.md
+  - wiki/dental-materials/zirconia/silva-2022-zirconia-saliva-cleaning-sr-ma.md
+  - wiki/dental-materials/zirconia/al-akhali-2025-zirconia-cleaning-bonding-duration.md
+  - wiki/dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent.md
+  - wiki/inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging.md
+note: "hygienist-education 스킬 산출 퀴즈. 문항은 위키 근거로 LLM 저작(자동생성 아님) — scripts/build-quiz.py가 스펙(interactives/quiz-specs/zirconia-inlay-theracem-ivoclean.json)에서 HTML 생성. source_wiki가 도구보다 최신이면 interactive-staleness가 STALE 신호."
+---
+-->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>지르코니아 인레이 세팅 SOP 자가테스트 (TheraCem + Ivoclean)</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#0e1116; --panel:#161b22; --panel2:#1c232d; --line:#2b333d;
+    --txt:#e6edf3; --dim:#9aa7b4; --ok:#3fb950; --no:#ff5d5d; --accent:#4aa3ff;
+    --chip:#243040;
+  }
+  *{box-sizing:border-box;}
+  body{margin:0;background:var(--bg);color:var(--txt);
+    font-family:'Noto Sans KR',system-ui,sans-serif;line-height:1.55;}
+  .wrap{max-width:760px;margin:0 auto;padding:26px 18px 80px;}
+  h1{font-weight:900;font-size:1.6rem;margin:.2em 0 .1em;}
+  .sub{color:var(--dim);font-size:.92rem;margin-bottom:16px;}
+  .bar{height:8px;background:var(--panel);border-radius:20px;overflow:hidden;margin:14px 0 22px;}
+  .bar > i{display:block;height:100%;width:0;background:var(--accent);transition:width .3s;}
+  .q{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:18px;margin-bottom:16px;}
+  .qn{font-size:.78rem;color:var(--dim);margin-bottom:4px;}
+  .qt{font-weight:700;margin-bottom:12px;}
+  .opt{display:block;width:100%;text-align:left;background:var(--panel2);
+    border:1px solid var(--line);color:var(--txt);border-radius:9px;
+    padding:11px 13px;margin:7px 0;cursor:pointer;font-size:.93rem;
+    font-family:inherit;transition:border-color .15s,background .15s;}
+  .opt:hover:not(:disabled){border-color:var(--accent);}
+  .opt:disabled{cursor:default;}
+  .opt.correct{border-color:var(--ok);background:rgba(63,185,80,.12);}
+  .opt.wrong{border-color:var(--no);background:rgba(255,93,93,.12);}
+  .rat{margin-top:10px;font-size:.86rem;color:var(--dim);
+    border-left:3px solid var(--line);padding:8px 12px;display:none;}
+  .rat.show{display:block;}
+  .rat b{color:var(--txt);}
+  .rat a{color:var(--accent);text-decoration:none;}
+  .score{position:sticky;bottom:0;background:var(--panel);border:1px solid var(--line);
+    border-radius:12px;padding:14px 18px;text-align:center;font-weight:700;margin-top:8px;}
+  .score .big{font-size:1.5rem;color:var(--accent);}
+  .reset{margin-top:12px;background:var(--chip);border:1px solid var(--line);
+    color:var(--txt);border-radius:8px;padding:9px 16px;cursor:pointer;font-family:inherit;}
+  .foot{margin-top:26px;color:var(--dim);font-size:.78rem;text-align:center;}
+  .foot a{color:var(--accent);text-decoration:none;}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🦷 지르코니아 인레이 세팅 SOP 자가테스트 (TheraCem + Ivoclean)</h1>
+  <div class="sub">치위생사 교육 · 5문항 · 답을 고르면 정답·해설·근거가 열립니다.</div>
+  <div class="bar"><i id="bar"></i></div>
+  <div id="quiz"></div>
+  <div class="score" id="score">진행: <span id="done">0</span>/5 · 정답 <span class="big" id="pts">0</span></div>
+  <button class="reset" onclick="location.reload()">↻ 다시 풀기</button>
+  <div class="foot">출처: <a href="/dentopedia/overviews/ceramic-bonding-hf-silane-contamination-overview" target="_blank">세라믹 접착 종합 overview (지르코니아 vs 실리카)</a> · 교육용 요약 — 개별 판단은 위키 원문·원장 확인</div>
+</div>
+<script>
+// 문항 = LLM이 위키 근거로 저작. 스펙: interactives/quiz-specs/zirconia-inlay-theracem-ivoclean.json
+// cite = 위키 경로(category/stem) → 링크는 /dentopedia/{cite} 로 조립.
+const QUESTIONS = [
+  {
+    "q": "지르코니아를 접착할 때 왜 불산(HF)+실란만으로는 결합이 안 되나?",
+    "opts": [
+      "지르코니아는 실리카가 없어 HF·실란이 붙을 곳이 없다 — 10-MDP가 필요",
+      "HF 농도가 너무 낮아서",
+      "실란이 오래되어서",
+      "타액 때문에"
+    ],
+    "ans": 0,
+    "rat": "지르코니아에는 실리카가 없어 HF 에칭·실란 결합이 성립하지 않는다. 10-MDP가 ZrO₂와 직접 화학결합하므로 MDP 함유 프라이머/시멘트가 핵심(APC 개념).",
+    "cite": "overviews/ceramic-bonding-hf-silane-contamination-overview"
+  },
+  {
+    "q": "TheraCem에 대한 설명으로 옳은 것은?",
+    "opts": [
+      "실리카 세라믹 전용 시멘트다",
+      "칼슘실리케이트·10-MDP 함유 자가접착 레진시멘트로 칼슘·불소를 방출한다",
+      "빛을 쬐면 안 되는 화학중합 전용이다",
+      "인산으로 활성화해야 한다"
+    ],
+    "ans": 1,
+    "rat": "TheraCem은 칼슘실리케이트+10-MDP 기반 dual-cure 자가접착 레진시멘트로, Ca·불소를 방출하고 pH가 산성→알칼리(~9)로 전환된다. 지르코니아 SBS가 비-MDP 시멘트보다 높다(Mahrous 2020: 39.76 vs 27.04 MPa).",
+    "cite": "resin/theracem-bisco-product-reference"
+  },
+  {
+    "q": "입안에서 트라이인한 지르코니아 인레이 안쪽면을 접착 전 세정할 때 가장 적절한 것은?",
+    "opts": [
+      "37% 인산으로 세정",
+      "이소프로필 알코올 솜으로만 닦기",
+      "Ivoclean 도포 후 물세척·건조",
+      "그냥 물로만 헹굼"
+    ],
+    "ans": 2,
+    "rat": "타액 단백막이 MDP 결합을 차단하므로 Ivoclean(또는 재샌드블라스팅)으로 제거해야 한다. genc 2025에서 샌드블라스팅+Ivoclean 9.3 MPa로 최우수, Ivoclean 단독도 7.21 MPa로 대조군(3.65)보다 우수.",
+    "cite": "dental-materials/zirconia/genc-2025-cleaning-protocols-zirconia-bond-strength"
+  },
+  {
+    "q": "지르코니아 세정에서 '절대 하지 말 것'에 해당하는 것은?",
+    "opts": [
+      "Ivoclean 사용",
+      "재샌드블라스팅",
+      "37% 인산으로 세정 (인 잔류물이 MDP 결합 방해)",
+      "완전 건조"
+    ],
+    "ans": 2,
+    "rat": "인산 세정은 인(P) 잔류물을 남겨 10-MDP 결합을 화학적으로 방해한다(takagaki 2018). 이소프로필 알코올 단독도 무처리보다 낮은 결합강도(3.04 MPa)를 보여 금기.",
+    "cite": "dental-materials/zirconia/takagaki-2018-saliva-zirconia-cleaning-agent"
+  },
+  {
+    "q": "지르코니아 인레이의 변연 밀폐(marginal fit)에 대한 근거로 옳은 것은?",
+    "opts": [
+      "지르코니아 종류(4Y vs 5Y)가 변연간격을 결정한다",
+      "시멘트 종류와 노화가 변연간격에 유의한 영향을 준다",
+      "어떤 요인도 변연간격에 영향이 없다",
+      "노화되면 변연이 오히려 좁아진다"
+    ],
+    "ans": 1,
+    "rat": "al-fodeh 2026: 지르코니아 재료 종류는 변연적합에 유의차 없었고(P>0.05), 시멘트 종류(P=0.031)와 열기계적 노화(P<0.001)가 변연간격을 유의하게 좌우했다. 자가접착 시멘트가 MDP 시멘트보다 간격이 작았다.",
+    "cite": "inlay/al-fodeh-2026-monolithic-zirconia-inlays-cement-aging"
+  }
+];
+const SITE_BASE="/dentopedia";
+let done=0, pts=0;
+const quiz=document.getElementById('quiz');
+QUESTIONS.forEach((item,i)=>{
+  const card=document.createElement('div'); card.className='q';
+  const cite=`<a href="${SITE_BASE}/${item.cite}" target="_blank">근거 보기 →</a>`;
+  card.innerHTML=`<div class="qn">Q${i+1}</div><div class="qt">${item.q}</div>`;
+  item.opts.forEach((o,j)=>{
+    const b=document.createElement('button'); b.className='opt'; b.textContent=o;
+    b.onclick=()=>answer(card,i,j,b);
+    card.appendChild(b);
+  });
+  const r=document.createElement('div'); r.className='rat';
+  r.innerHTML=`<b>해설.</b> ${item.rat||''} ${cite}`;
+  card.appendChild(r);
+  quiz.appendChild(card);
+});
+function answer(card,i,pick,btn){
+  if(card.dataset.answered) return;
+  card.dataset.answered="1";
+  const item=QUESTIONS[i];
+  card.querySelectorAll('.opt').forEach((b,j)=>{ b.disabled=true;
+    if(j===item.ans) b.classList.add('correct');
+    else if(j===pick) b.classList.add('wrong'); });
+  if(pick===item.ans) pts++;
+  done++;
+  card.querySelector('.rat').classList.add('show');
+  document.getElementById('done').textContent=done;
+  document.getElementById('pts').textContent=pts;
+  document.getElementById('bar').style.width=(done/QUESTIONS.length*100)+'%';
+}
+</script>
+</body>
+</html>
