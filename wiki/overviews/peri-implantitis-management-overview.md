@@ -10,7 +10,7 @@ confidence: synthesis
 pdf_path: N/A
 pdf_filename: N/A
 source_collection: internal
-tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GBR, prosthetic-design, MBL, platform-switching, PMPR, aPDT, prevention]
+tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GBR, prosthetic-design, MBL, platform-switching, PMPR, aPDT, prevention, immunopathogenesis, macrophage-polarization, treg, diabetes, regenerative-strategies]
 ---
 
 ## 한국어 핵심요약
@@ -31,6 +31,10 @@ tags: [peri-implantitis, peri-implant-mucositis, prevalence, decontamination, GB
 > - **보철·해부학적 위험축 (조절·평가 가능 host/design 인자, 생물막·치료 내용을 보완):** 출현각 (Emergence Angle) >30° + 볼록한 출현윤곽 (convex profile) 이 임플란트주위염·MBL과 연관 — 골수준 (bone-level) 임플란트에서 신호 가장 뚜렷, 단 SR 3편뿐이라 인과성 미확립 (Soulami 2022 SR). [근거제한]
 > - **수복물 변연–치조정 거리 (Restoration Margin–Alveolar Crest, RM-AC) ≤1.5 mm → MBL 위험 3.42배** — IDRA (Implant Disease Risk Assessment) 8개 위험인자 중 하나를 임상 검증; 동반 인자로 치주염 4기 vs 2기 26.31배, 직경 6.10배·길이 5.02배 (Basak 2024 후향 202 임플란트). 임상: 충분한 치관상 조직높이/어버트먼트 높이로 RM-AC >1.5 mm 확보. [후향]
 > - **얇은 치은 표현형 (thin gingival phenotype)** 은 생존율을 직접 결정하진 않으나 (얇음·두꺼움 모두 5년 성공률 >91%) 추가 골소실의 주요 위험인자 — 임플란트주위염/MBL을 매개로 한 *간접* 경로. 표현형 보존·증대는 임플란트 "구제"가 아니라 downstream 주위염/MBL 위험 감소가 목적 (da Silva 2025 SR 8편). [근거제한]
+> - **신규 — 병인·면역병리 (Etiology & Immunopathogenesis) 섹션 신설**: Smeets 2014(정의·병인 프레임워크: 유병률 28–56%, 흡연+치주염력 4.7배 위험, MMP-8 최대 971% 상승) → Galarraga-Vinueza 2020(대식세포 M1/M2 편향: 진행 병소에서 M1/M2비 1.56, CD68·M1이 탐침깊이와 상관) → Cafferata 2025(조절T세포 Treg 기능부전: FOXP3·IL-35 상승하나 NRP-1·TGF-β1 감소 — Treg는 있으나 기능 상실)로 이어지는 기전적 서사 — 왜 병소가 자연 치유되지 않는지에 대한 선천면역+적응면역 이중 설명.
+> - 이 면역병리 서사는 두 기존 관찰의 생물학적 근거를 제공: 단일 표면제염 프로토콜이 우월하지 않은 이유(Baima 2022)와 Hakkers 2026의 방사선학적-임상적 역설(골채움은 있으나 염증 미해소) — 문제는 생물막·이식재만이 아니라 면역 미세환경일 수 있음.
+> - **유병률 섹션 추가 — Sbricoli 2026 (횡단연구, n=70/임플란트 227개)**: 제2형 당뇨 vs 비당뇨 간 임플란트주위질환·점막염·주위염 유의차 없음(모두 p>0.4) — 당뇨를 독립 위험인자로 보는 통념에 반하나(contradicts), 검정력 부족 + 양군 모두 높은 치주염 과거력(83–94%)이 교란요인. 메시지는 "당뇨 진단"보다 "대사조절의 질"로 재구성.
+> - **재건 수술 섹션 확장 — Su 2026 (서술 리뷰)**: 이종골(xenogenic)이 자가골·비-GBR 대비 우월하다는 기존 패턴을 재확인(reinforces); 티타늄 부식/이온방출이 국소 염증을 악화시킨다는 기전 추가, CBCT를 결손 형태 진단의 표준으로 제시, 생분해성 마그네슘 막·3D 프린팅 티타늄 메쉬를 차세대 재료 후보로 소개.
 
 ## One-line Summary
 Synthesis of 10 peri-implantitis papers: pooled prevalence 19.5% patient-level; mucositis management is primary prevention; no single decontamination protocol is superior; prosthetic design (platform-switching, conical connection, abutment height ≥2 mm, one-abutment-one-time) significantly reduces MBL; and a prosthetic/anatomic risk axis — emergence angle >30° + convex profile (Soulami), RM-AC ≤1.5 mm → 3.42× MBL (Basak IDRA), thin gingival phenotype as an indirect bone-loss risk (da Silva) — adds modifiable design and host factors.
@@ -40,7 +44,35 @@ Synthesis of 10 peri-implantitis papers: pooled prevalence 19.5% patient-level; 
 
 ## Summary
 
-Peri-implantitis (임플란트주위염) is a plaque-associated pathological condition characterized by inflammation of the peri-implant tissues and progressive loss of supporting bone. It is the leading long-term threat to implant function. The current evidence base covers epidemiology, mucositis management, surgical decontamination, GBR for intrabony defects, prosthetic design levers, and adjunctive therapies.
+Peri-implantitis (임플란트주위염) is a plaque-associated pathological condition characterized by inflammation of the peri-implant tissues and progressive loss of supporting bone. It is the leading long-term threat to implant function. The current evidence base covers etiology/immunopathogenesis, epidemiology, mucositis management, surgical decontamination, GBR for intrabony defects, prosthetic design levers, and adjunctive therapies.
+
+---
+
+## Etiology & Immunopathogenesis
+
+Three papers, read together, trace a mechanistic arc from the disease's foundational definition down to the cellular and molecular reasons a peri-implantitis lesion fails to resolve on its own.
+
+**Smeets 2014 (narrative review) — the definitional and etiological framework:**
+- Establishes the field's working **dual-entity model**: mucositis (reversible, soft-tissue-confined inflammation, up to 80% prevalence) vs peri-implantitis (progressive, irreversible bone destruction, 28–56% prevalence; 20% of patients / 10% of implants by Mombelli's re-analysis).
+- Histological basis for the peri-implant tissue's vulnerability: **reduced vascularity and parallel (rather than perpendicular) collagen fiber orientation** compared to the natural periodontium — a structurally weaker defense than gingiva around teeth.
+- Microbial etiology is **polymicrobial anaerobic infection** (P. intermedia, P. nigrescens, S. constellatus, A. actinomycetemcomitans, P. gingivalis, T. denticola, T. forsythia), with **Staphylococcus aureus carrying 80% positive / 90% negative predictive value** for peri-implantitis and 71.7% antimicrobial resistance in one 120-patient cohort.
+- Risk hierarchy: **smoking** is the leading modifiable risk factor (+0.16 mm/year bone loss; **4.7× risk when combined with periodontitis history**), followed by periodontitis history itself (6× increased incidence, strongest non-smoking factor), poor oral hygiene, systemic disease, and iatrogenic factors (cement remnants, poor soft-tissue quality).
+- Molecular signal of tissue destruction: **MMP-8 elevated up to 971%** in peri-implant vs healthy tissue, alongside increased VEGF, nitric oxide, lymphocytes, leukocytes, and Ki-67 — establishing that the lesion is not merely infected tissue but an actively destructive inflammatory process. This 2014 framework is the historical anchor beneath the newer cellular/molecular papers below. [narrative-review]
+
+**Galarraga-Vinueza 2020 (cross-sectional immunohistochemistry, 20 patients) — innate-immune (macrophage) dysregulation:**
+- Directly interrogates the destructive-inflammation process Smeets describes at the cellular level: granulation tissue curetted from human peri-implantitis intrabony defects shows macrophages occupying **14.36% of the inflammatory connective tissue** — higher than earlier reports (5–11%), attributed to greater lesion severity and to sampling intrabony (rather than supracrestal) tissue.
+- At **advanced** lesions (MBL >50% of implant length), the pro-inflammatory **M1 (CD80) phenotype significantly exceeds the reparative M2 (CD206) phenotype** (mean M1/M2 ratio 1.56, p=0.01), while slight/moderate lesions show no M1/M2 difference.
+- Both CD68 (pan-macrophage) and M1 expression **correlate with probing depth** (CD68 R=0.77; M1 R=0.57) — linking the M1-skewed macrophage response quantitatively to clinical disease severity.
+- Interpretation: an unresolved, M1-dominant ("destructive") macrophage program accompanies deeper, more advanced lesions; shifting the balance toward M2 may be a prerequisite for repair — a plausible innate-immune reason why mechanical decontamination alone (Baima 2022, below) often fails to fully resolve established disease. [cross-sectional, n=20, proof-of-principle]
+
+**Cafferata 2025 (retrospective histological/molecular, PI n=23 / PI-explant n=23 / healthy n=20) — adaptive-immune (Treg) failure:**
+- Provides the adaptive-immunity counterpart to Galarraga-Vinueza's innate-immunity findings, using tissue from the **same research group and same lesion type**.
+- Finds a **dissociated, functionally impaired Treg signature**: the Treg master transcription factor **FOXP3 is up-regulated 3.8-fold** and the immunosuppressive cytokine **IL-35 is up-regulated 2.3-fold** in disease, yet **neuropilin-1 (NRP-1)** — which stabilizes Treg suppressive function — and **TGF-β1** (crevicular fluid) are both **down-regulated** (p<0.001 / p=0.026 / p<0.001 respectively).
+- In plain terms: FOXP3⁺ regulatory T cells accumulate in the lesion, but the machinery that would make them actually suppressive is lost — a compensatory rather than an effective regulatory response, plausibly destabilized by the IL-6-rich pro-inflammatory microenvironment that the M1-skewed macrophages (above) help sustain.
+- Molecular severity gradient: NRP-1 and TGF-β1 **fall** as probing depth and vertical defect depth **rise**, while FOXP3 and IL-35 **climb** with probing depth and bleeding on probing — mirroring the CD68/M1-vs-PD correlation seen in Galarraga-Vinueza and reinforcing that both innate and adaptive arms track clinical severity in parallel.
+- Clinical implication: this **host-side immune-failure explanation** is a candidate reason mechanical/antimicrobial therapy alone (Baima 2022) frequently fails to fully resolve peri-implantitis, and nominates NRP-1/IL-35/TGF-β1 restoration as a future adjunctive immunomodulatory target alongside decontamination. [retrospective, n=23/23/20]
+
+**Synthesis**: Smeets' 2014 framework defines *what* peri-implantitis is (irreversible, polymicrobial, smoking/periodontitis-history-driven bone destruction) and *why* the tissue is structurally vulnerable (poor vascularity, parallel collagen). Galarraga-Vinueza (2020) and Cafferata (2025) — from the same later research program — supply the *mechanistic why-it-doesn't-resolve-on-its-own* answer: an M1-skewed, destructive innate macrophage response (2020) paired with a present-but-non-functional adaptive Treg response (2025), both worsening in lockstep with probing depth and defect depth. Together they give biological grounding for two recurring clinical observations elsewhere in this overview — why no single surgical decontamination protocol reliably resolves established disease (Baima 2022), and why Hakkers' reconstructed sites achieved radiographic bone fill without matching clinical inflammatory resolution (the radiographic-clinical paradox, below) — the immune milieu, not just the biofilm or the graft material, may be the limiting factor.
 
 ---
 
@@ -56,6 +88,11 @@ Peri-implantitis (임플란트주위염) is a plaque-associated pathological con
 - Mucositis (점막염): weighted mean 43% (CI 32–54%)
 - Peri-implantitis: 22% (CI 14–30%)
 - Note: older pooled estimates; Diaz 2022 is the more current meta-analytic value [합의수준]
+
+**Sbricoli 2026 (cross-sectional, 70 subjects/227 implants; 35 T2DM vs 35 non-DM) — diabetes as a prevalence modifier:**
+- No statistically significant difference in peri-implant disease (80% vs 77%, p=0.99), mucositis (51% vs 63%, p=0.47), or peri-implantitis (51% vs 43%, p=0.63) between well-controlled T2DM and non-diabetic patients, at either subject or implant level (implant-level peri-implantitis 34% vs 35%, p=0.91)
+- **Contradicts** the conventional framing of diabetes as a major independent peri-implantitis risk factor — but the study was **underpowered** (observed ~50% peri-implantitis prevalence in both arms vs an 8% planning assumption) and a very high history-of-periodontitis rate in both groups (83% diabetic, 94% non-DM) likely confounded/masked any T2DM-specific effect
+- Reframes the clinical message toward **quality of metabolic control** rather than the T2DM diagnosis itself; plaque index, longer loading time, and cement retention (vs screw) were the operative correlates of disease in this cohort [cross-sectional, underpowered — treat as hypothesis-generating, not a refutation of diabetes risk]
 
 ---
 
@@ -120,6 +157,14 @@ Key findings:
 | 4-walled defects | MBL at T12 only: test 2.5 vs control 3.0 mm (p=0.04) | Late benefit (T12 only) |
 
 **Clinical implication**: 3-wall defects respond earlier and more robustly to reconstruction than 4-wall defects. The key decision driver is NOT defect morphology alone (3 vs 4 wall) but rather that **radiographic gain does not equate to clinical disease resolution** in either defect type. Reconstruction offers a soft-tissue and radiographic advantage; the patient must also accept a higher adverse event burden for no improvement in composite disease resolution. [rct, n=52, 1yr — methodologically rigorous]
+
+**Su 2026 (narrative review) — mechanistic and material context for GBR:**
+- Confirms the GBR-favors-xenogenic-over-autogenous pattern seen in this section: meta-analytic evidence cited by Su favors **xenogenic bone substitutes over autogenous bone or non-GBR treatment** for inflammation reduction and radiographic bone gain — consistent with Ramanauskaite's favorable GBR-vs-non-reconstructive verdict above.
+- Adds mechanistic nuance often missing from RCT-level reporting: peri-implant biofilm on titanium is compositionally and antibiotic-resistance-wise **distinct from periodontal biofilm**, and **titanium corrosion/ion release** compounds local inflammation and bone loss — relevant background for why Hakkers' reconstructed sites still showed persistent inflammatory signs (BoP/SoP) despite bone fill.
+- **CBCT** is framed as the diagnostic gold standard for 3D defect morphology (superior to periapical radiography for dehiscence/infrabony lesions) — a methodological note relevant to how defect morphology (3-wall vs 4-wall, per Hakkers) should be characterized pre-surgically.
+- Extends the materials landscape beyond collagen membrane + xenograft (the Hakkers protocol): **biodegradable magnesium (Mg) membranes** offer mechanical stability with resorption timed to bone healing, and **customized 3D-printed titanium mesh** improves precision for complex ridge augmentation but carries mesh-exposure risk — candidate next-generation alternatives to the standard collagen-membrane GBR protocol.
+- Echoes Hakkers' adverse-event finding: short-term postoperative pain increase with resorbable GBR membranes, reinforcing the need for patient counseling.
+- Flags **machine learning** risk-prediction models (demographic + clinical + surgical variables) as an emerging direction for personalized peri-implantitis/implant-failure risk stratification. [narrative-review — non-systematic, synthesizes existing meta-analyses/RCTs/case series]
 
 ---
 
@@ -250,3 +295,8 @@ Screw vs cement retention choice: clinically neutral on MBL — decide on retrie
 - [[overviews/gbr-barrier-membrane-exposure-axis]] — GBR broader context
 - [[overviews/implants-clinical-decision-ladder]] — implant decision framework
 - [[overviews/professional-biofilm-management-gbt-air-polishing-overview]] — how to mechanically manage biofilm (GBT/air polishing) across teeth and implants
+- [[implants/peri-implantitis/smeets-2014-peri-implantitis-definition-etiology-review]] — foundational definition/etiology framework: mucositis vs peri-implantitis, microbial etiology, smoking/periodontitis risk hierarchy, CIST treatment escalation
+- [[implants/peri-implantitis/galarraga-vinueza-2020-macrophage-polarization-peri-implantitis-lesions]] — innate-immune mechanism: M1-skewed macrophage polarization in advanced lesions correlates with probing depth
+- [[implants/peri-implantitis/cafferata-2025-impaired-treg-mediated-immune-regulation]] — adaptive-immune mechanism: impaired/dissociated Treg function (FOXP3↑/IL-35↑ but NRP-1↓/TGF-β1↓) explains non-resolving lesions
+- [[implants/peri-implantitis/sbricoli-2026-peri-implant-disease-prevalence-type2-diabetes]] — cross-sectional (n=70): T2DM vs non-DM showed no significant peri-implant disease difference; underpowered, confounded by high periodontitis-history baseline
+- [[implants/peri-implantitis/su-2026-peri-implantitis-bone-defects-regenerative-strategies]] — narrative review: mechanisms, CBCT diagnosis, and regenerative strategies (xenogenic GBR, Mg membranes, 3D-printed Ti mesh) for peri-implantitis bone defects
