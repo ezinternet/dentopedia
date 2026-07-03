@@ -1,0 +1,113 @@
+# Degree of Contamination of Gutta-Percha Points by(MRSA/MSSA) Strains
+
+DOI: 10.3390/ijms25168566
+
+## ABSTRACT
+Methicillin-resistant(MRSA) is considered one of the most harmful bacteria to human health. Dentistry, like all healthcare disciplines, places great emphasis on preventing scenarios that may result in cross-infection. Although various tested and already used materials are suitable for filling the root canal system, Gutta-Percha (GP) remains the preferred and widely accepted gold standard. Objective: We performed an in vitro analysis of the contamination of GP points, regarding the strains of Methicillin-resistant (MRSA) and Methicillin-sensitive (MSSA), using classical microbiology methods and molecular biology techniques. Methods: Gutta-Percha points of two different brands from opened packages (already in use for 1 month) were collected for analysis. The assessment involved incubating the GP points in Brain Heart Infusion (BHI) medium to detect microbial growth. Growing microorganisms were plated on a selective and differential chromogenic medium for MRSA/MSSA strains, and the identification of isolates was confirmed by Polymerase Chain Reaction (PCR). In the case of microbial growth, the GP point was submitted to a disinfection protocol. Results: From the 315 collected GP points, only 6 (1.9%) resulted in being positive for microbial growth. After confirmation by PCR, only one sample of the six GP points was contaminated by MRSA, and the remaining five were MSSA-contaminated. The disinfection protocol was effective in all contaminated GP points. Conclusions: The Gutta-Percha points from opened pre-sterilized packages showed a very low degree of contamination by MRSA/MSSA. However, the detection of MSSA and MRSA strains raises concerns about potential contamination in dental clinic environments, and this risk cannot be considered negligible.
+
+## FULL TEXT
+1. Introduction
+
+is a Gram-positive bacterium, commonly detected in the human skin and nasal regions [,,]. Its role in the pathology of the oral cavity is not yet fully understood []. Over the years,has been correlated with several non-physiological oral conditions, such as acute suppurative parotitis [,], angular cheilitis [], and staphylococcal mucositis [,]. This bacterium has also been detected in oral infections such as jaw cysts [] and orofacial abscesses [,,].
+
+Despite its presence in the oral cavity and its highly pathogenic potential [,,],manages to coexist harmlessly in the human environment thanks to the mechanism known as homeostasis, maintaining an innocuous equilibrium [,,,]. However, when this balance is disrupted, the situation known as dysbiosis is created. This is a sharp shift that can be directly related to systemic and metabolic diseases such as diabetes, cardiovascular disease, periodontitis, and obesity, among many others [,]. Oral dysbiosis is a condition influenced by various factors, reflecting its multifactorial nature. A commonly recognized cause is the use of broad-spectrum antibiotics that exhibit systemic action [,]. As an example, amoxicillin, a β-lactam antibiotic of the penicillin class, is one of the most widely used antibiotics in dentistry and, within its applications approved by the Food and Drug Administration (FDA), is precisely used againstspp. [].
+
+However, Methicillin-resistant(MRSA) strains exhibit multidrug resistance, not only in β-lactams (penicillin, methicillin, carbapenems, and cephalosporins) but also to tetracyclines and macrolides []. On the other hand, Methicillin-sensitive(MSSA) strains are sensitive to these antibiotics.
+
+MRSA strains are one of the major causes of nosocomial infections, leading to high mortality [,,]. According to the European Centre for Disease Prevention and Control (ECDC)’s annual report of the Priority Program of Infections and Resistances to Antimicrobials, Portugal is considered one of the countries with the highest MRSA percentage in Europe []. Although the risk of infection in dental clinics is lower than in hospitals,strains are still responsible for a large number of pathologies at the oral and perioral level, making this bacterial strain a public health problem []. Antibiotic prescription in dentistry, whether for prophylactic or therapeutic purposes, accounts for approximately 10% of antibiotic prescriptions worldwide and is not always considered appropriate, leading to excessive or incorrect antibiotic use in dental practice [].
+
+Dentistry is extremely concerned and focused on avoiding situations that can lead to cross-infection. The aim of Non-Surgical Root Canal Treatment (NSRCT) is the prevention or handling of apical periodontitis through debridement and cleaning of the root canal system (RCS). In this way, the RCS must be cleaned, shaped, and disinfected at the highest possible level [], before three-dimensional filling, to prevent or minimize any chances of infection or reinfection. The procedures are performed under aseptic conditions in order to avoid the re-penetration of microorganisms or metabolites they produce [,,,]. In fact, despite the absence of pulpal tissue, the RCS continues to communicate with the external environment by apical foramen, accessory root canals, and dentinal tubules. This surely implies that sealing must be assured tri-dimensionally [].
+
+Several tested materials suitable for filling the RCS are available, with Gutta-Percha (GP) being the gold standard. Despite the production of GP points in aseptic conditions and their potential antimicrobial properties, particularly due to the zinc oxide component [], the risk of contamination remains present. Factors such as handling, aerosols, and physical sources during storage may contribute to contamination, and sterility cannot be guaranteed []. In fact, several studies have confirmed the presence of bacteria even in freshly opened packages [,,].
+
+The aim of this in vitro study was to investigate the potential MRSA and MSSA contamination of GP points sourced from commercially available packages that had been in use for one month in a clinical setting, by classical microbiology methods and molecular biology techniques.
+
+2. Results
+
+2.1. Evaluation of GP Points Contamination
+
+From the 315 collected samples, the percentage of contaminated GP points (1.9%) was minimal compared to the uncontaminated ones (98.1%;).
+
+2.2. Phenotypical Identification of S. aureus (MRSA/MSSA)
+
+Following culture on the MSSA/MRSA selective medium, only one of the six positive samples (16.6%) exhibited a green phenotype, indicating the potential presence of MRSA. The remaining five samples (83.3%) displayed beige colonies, characteristic of MSSA ().
+
+All suspicious colonies exhibited a Gram-positive cocci morphology and tested positive for both catalase and coagulase, which are typical characteristics ofstrains.
+
+2.3. Molecular Identification of S. aureus (MRSA/MSSA)
+
+The identification of potential MRSA and MSSA strains was confirmed by PCR, where the amplification of thegene confirmed MRSA and the detection of thegene confirmed MSSA ().
+
+2.4. Chairside Disinfection Protocol (CPD)
+
+As stated, microbial growth was detected in six tubes, each containing a single GP point. For disinfection purposes, the GP points were immersed in 3% NaOCl for 1 min, and disinfection was assessed after GP points were incubated in Brain Heart Infusion (BHI) medium at 37 °C for 72 h. No turbidity was observed, indicating that the chairside disinfection protocol effectively eliminated contamination in all six GP points (100%).
+
+3. Discussion
+
+Within the RCS, when NSRCT is performed, asepsis is impossible to be achieved due to anatomical irregularities. Smear-layer formation during the shaping phase of this treatment, which contains microorganisms and metabolites they produce, acts as a physical barrier, preventing the entrance of the irrigant solutions into dentinal tubules. To overcome this, some guidelines recommend that the correct cone selection should be confirmed by tug-back and periapical radiography, as well as the execution/application of a final irrigation protocol, to ensure a significant decrease of the microbial load inside the RCS, followed by three-dimensional filling of RCS, intending to create conditions compatible with the handling of periapical pathology of endodontic origin []. Nevertheless, according to Siqueira (2001), it is impossible to guarantee the total absence of microorganisms inside the RCS after an NSRCT.
+
+NSRCT’s primary target is to create conditions aiming to prevent tooth loss; preserve, whenever possible, the restoration of the tooth; and provide adequate periodontal support. Otherwise, it becomes an absolute contraindication. An endodontic treated tooth must be functional, and NSRCT must prevent secondary endodontic infections.
+
+The execution of NSRCT involves handling instruments and materials, as well as aerosol formation, which can pose significant risks of cross-contamination []. This risk can be challenging to manage if the dentist does not adhere to strict clinical protocols to prevent such contamination. In this way, there is a high risk of GP point contamination, which supported our investigation.
+
+In fact, the prevention of cross-infection during an endodontic session relies on rubber dam use, disinfection of instruments, and attention to minimizing the exposure of GP packages []. A simple and accurate method for handling GP points is an assistant to hold the commercial package without touching the GP points. This allows the operator to use sterile tweezers (opened only by the operator at that moment) to carefully remove the desired point(s), ensuring that no materials, devices, or surfaces in the operative field are touched. This approach helps to minimize the risk of potential cross-infection.
+
+Although GP points are sold as sterile and ready to use [], careful handling is essential. When a GP point is removed from the commercial package, the remaining points are exposed, increasing the risk of cross-contamination during the filling of the pulpal space.
+
+Nowadays, MRSA strains are endemic in several health units all over the world and, consequently, have become an important focus of global efforts on infection control. Due to the limited treatment options, these strains have become the highest cause of nosocomial infections worldwide, leading to high morbidity and mortality rates [,].
+
+Taking into account the MRSA/MSSA potential contamination, in a dental office, the contact time between patients and staff is relatively short, as the transmission of MRSA is expected to be less problematic than in hospitals. Even so, cross-transmission of microorganisms in dental appointments—via direct contact (including blood–blood contact) or via the inhalation/ingestion of microorganisms present in bioaerosols from dental unit water []—remains an almost-unavoidable problem. Aerosols are one of the major routes of direct or surface contamination, leading to the increase of these strains during patient attendance and consequently to a higher probability of cross-infection [,,]. Surfaces in clinics, as well as the attending uniform and the hands of the dentist, can be MRSA reservoirs. Patients and dental healthcare professionals can serve as hosts and reservoirs of pathogenic strains, and both can become infected. Suggested standard measures, aiming to control and reduce infection, include the disinfection of hands before and after patient attendance, as well as the use of gloves, masks, caps, glasses, and work uniforms [,].
+
+The degree of MRSA/MSSA contamination detected in this study was less than 2%, which is aligned with the findings reported by Bracciale et al. (2020) []. The low percentage of observed contaminated GP points can probably be justified since the target was focused on the detection of a specific bacterial strain (MSSA and MRSA species). In this way, BHI and MRSA selective chromogenic culture mediums were chosen as selective ones, since the first one facilitates the growth of[], and the other is a highly reliable screening tool for the detection of MRSA [].
+
+To ensure direct control of potential cross-infection, the implementation of disinfection protocols is mandatory in several specific areas of dentistry. In this study, the applied chairside disinfection protocol effectively eliminated contamination in all six GP points (100%). These data are also in accordance with the findings reported by Bracciale et al. (2020) [].
+
+Already in 2012, the importance of GP decontamination to prevent any bacterial contamination of RCS during the filling procedure was widely recognized in endodontic practice []. However, due to their thermoplastic properties [] and physical and chemical nature, GP points cannot be sterilized using physical methods such as a hot-air oven or autoclaving. To overcome these limitations, several studies have proposed a rapid chairside disinfection protocol using chemical solutions before starting the filling stage of NSRCS [,,,,,]. Our results support the application of a disinfection protocol, as we have demonstrated its 100% effectiveness. Nevertheless, the GP point immersion time in the disinfection solution must be kept under control, since structural changes, along with the formation of chloride crystals, have already been detected if, after disinfection with NaOCl, the GP points are not washed with sterile water or alcohol []. Also, prolonged immersion in NaOCl solutions for more than 1 min can lead to the loss of GP elasticity [,,,]. Besides NaOCl, many other chemical agents, such as hydrogen peroxide, chlorhexidine, ethyl alcohol, polyvinylpyrrolidone iodine, and quaternary ammonium compounds, have been tested for decontamination. Our decision to use 3% NaOCl for 60 s in this study was supported by Bracciale et al. (2020), who demonstrated the effectiveness of this protocol [].
+
+In future research, it would be valuable to compare the effectiveness of several chemical solutions, as well as the analysis of the total microbial contamination. This comparison should include not only the assessment of the percentage of decontamination but also the time required for GP point decontamination, along with the analysis of any potential surface alterations that may occur.
+
+It is crucial to emphasize, among pre-graduation dentistry students, the importance of conscientiously making every effort to achieve the highest level of disinfection []. This includes the proper handling and storage of the GP points.
+
+4. Materials and Methods
+
+4.1. Sample Collection of GP Points
+
+The typology of the analyzed GP points was limited to those most frequently used in endodontic treatments performed with manual cleaning and shaping techniques, whose taper is lower than the ones achieved with rotary systems. The main GP points had gauges ranging from K20 to K35, and the accessory ones were A and B.
+
+A total of 315 GP points were collected from packages already in use for 1 month (used by pre-graduation students from the University Dental Clinic of the Universidade Católica Portuguesa) from six distinct International Organization for Standardization (ISO) gauges (k20, k25, k30, and k35 belonging to R&S, Paris, France; and A and B belonging to Dentsply, Charlotte, North Carolina, USA) ().
+
+The inclusion criteria stipulate that all tested GP boxes were in use for at least 4 weeks, each box supported an average of 8 appointments per week, and the storage conditions adhered to the manufacturer’s specified ideal requirements for temperature and humidity.
+
+Each GP point was inserted in one different sterile test tube (with 5 mL BHI medium) and adequately labeled. For principal GP points with the ISO gauge classification between K15 to K35, samples were coded with “1”, “2”, “3”, and “4”, corresponding to the commercial packages in test, plus the ISO codification. Similarly, samples of GP points defined as “accessory” were coded as with “A” or “B” according to their gauge.
+
+Every day, 4 points of 4 different gauges from 2 commercial packages in test (e.g., 4 K20 points—1.1K20, 1.2K20, 1.3K20, and 1.4K20), along with 4 K25, 4 K30, 4 K35 GP points, and other exactly set from a different commercial package under examination (2.1K20, 2.2K20, 2.3K20, 2.4K20, 4 K25, 4K30 and 4K35 gauge points) were collected. This process resulted in a total of 32 GP points per day. Similarly, for accessory points, 4 points of gauge A and 4 points of gauge B were selected from two different commercial packages (“1” and “2”) labeled, for instance, “1.1A”. “1.2A”, “1.3A” and “1.4A”, “2.1A”, “2.2A”, “2.3A”, and “2.4A”, resulting in 16 accessory GP points sampled daily. This sample collection was repeated on different days until a similar number of GP points gauge was obtained. Sampling, regarding the number of GP points/gauge, was based on Bracciale et al. (2020) [] ().
+
+4.2. Evaluation of GP Points Contamination
+
+Each collected GP point was placed in a sterile test tube containing 5 mL of BHI medium and incubated at 37 °C for 72 h. Afterwards, the tubes were examined for turbidity (microbial growth).
+
+Sterility and growth controls were prepared and incubated at the same conditions described above (37 °C for 72 h) and examined for microbial growth by measuring the optical density at 600 nm. Uninoculated BHI medium was used as negative control (C−). As positive control (C+ SA), BHI medium inoculated withATCC 25923 was used [].
+
+4.3. Phenotypical Identification of S. aureus (MRSA/MSSA)
+
+Positive growth tubes were selected, and each growth medium was subcultured in biplates of selective chromogenic medium—chromIDMRSA/ chromID—following the manufacturer’s instructions (Biomérieux, Marcy-l’Étoile, France). The green colonies were equivalent to MRSA, while the beige colonies corresponded to MSSA. Gram stain, catalase, and coagulase tests were performed according to standard procedures.
+
+4.4. Molecular Identification of S. aureus (MRSA/MSSA)
+
+The presence of MRSA strains was confirmed by the detection of thegene by PCR [,,,,]. Strains that tested negative for the presence of thegene were subsequently screened for the presence of thegene, which allows the identification of MSSA strains [,]. For the identification of thegene, DNA (5 µL) was amplified in a reaction mixture containing 10 µL of 5× PCR buffer, 3 µL of MgCl25 mM, 2 µL of dNTP mixture 10 mM, 5 µL of each primer 10 µM, and 0.25 µL ofpolymerase (GoTaqFlexi DNA Polymerase, Promega, Madison, Wisconsin, USA), in a total volume of 50 µL []. The primers used for the identification of thegene were 5′-GGGATCATAGCGTCATTATTC-3′ and 5′-AACGATTGTGACACGATAGCC-3′ []. PCR was performed as follows []: 10 min at 94 °C; 30 cycles of 30 s at 94 °C, 1 min at 55 °C, and 1 min at 72 °C; and a final extension of 10 min at 72 °C. For the identification of thegene, DNA (5 µL) was amplified in a reaction mixture containing 10 µL of 5× PCR buffer, 4 µL of MgCl25 mM, 2 µL of dNTP mixture 10 mM, 6 µL of each primer 10 µM, and 0.25 µL ofpolymerase in a total volume of 50 µL []. The primers used for the identification of thegene were 5′-TCAGCAAATGCATCACAAACAG-3′ and 5′-CGTAAATGCACTTGCTTCAGG-3′ []. PCR was performed as follows []: 10 min at 94 °C; 35 cycles of 30 s at 94 °C, 1 min at 58 °C, and 1 min at 72 °C; and a final extension of 10 min at 72 °C. PCR products were analyzed by 1% agarose gel electrophoresis. PCR amplification of thegene was performed to yield a product of 527 base pairs (bp), while the amplification of thegene resulted in a product of 255 bp. Lambda phage DNA cut with Hind III was used as molecular-weight marker in electrophoresis. Negative controls (without DNA) and positive controls (MRSA or MSSA ATCC strains) were also used in the PCR reaction.
+
+4.5. Chairside Disinfection Protocol (CPD)
+
+As described in Bracciale et al. (2020), a disinfection protocol was exclusively applied to GP points displaying contamination []. The implemented Cleaning and Disinfection Procedure (CPD) involved transferring the contaminated GP point from the culture tube to a 3% sodium hypochlorite (NaOCl) solution for 60 s. Subsequently, the GP point was retrieved from the disinfection immersion and rinsed with 10 mL of sterile distilled water. Afterwards, the GP point was dried with sterile gauze and placed in a new sterile tube containing BHI medium and incubation following the method previously described ().
+
+4.6. Statistical Analysis
+
+A statistical analysis of the results was conducted using the IBMSPSSStatistics 25.0 software (IBM Corp, released 2017, Armonk, NY, USA). Absolute and relative counts (and %) were used to describe all qualitative variables. The results of dichotomic variables were conducted using the binomial test. All comparisons were performed using a 0.05 (= 0.05) level of significance.
+
+5. Conclusions
+
+The risk of cross-contamination with pathogenic strains in clinics is a very serious and important problem in all health fields, and all healthcare professionals must be aware to avoid possible scenarios that can lead to infection.
+
+Gutta-Percha points from opened pre-sterilized packages showed very low contamination by MRSA/MSSA (1.9%). The risk of transmission of pathogens, such as MRSA strains, in a dental clinic is still unknown but cannot be considered negligible.
+
+Our study highlights the observation of bacterial growth despite minimal contamination of GP points. This underscores the importance of meticulous handling during NSRCT. Moreover, it emphasizes the critical need for consistently implementing an effective disinfection protocol. By prioritizing proper handling and adopting robust disinfection measures, we can mitigate the potential risks associated with GP-point contamination. This proactive approach is essential to ensure even higher success rates in this conservative treatment option. A recommended continuation of this study could involve the targeted analysis of other persistent endodontic pathogens, such asor, and. Additionally, exploring potential cross-contamination agents would be valuable. This extended analysis seeks to pinpoint and assess practical protocols that are feasible in a clinical setting in order to reduce the risk of contamination.
