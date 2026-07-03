@@ -1647,6 +1647,12 @@ tags: []
 - [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]] — Li 2024 · narrative-review (Theranostics): 침 바이오마커(단백질·핵산·EV·대사체·전해질)×검출시스템(바이오센서·마이크로플루이딕·웨어러블 구강기기)×표준화 과제 종합; 침 MMP-9 OSCC 수술 후 588→132 ng/mL, 전기화학 PSA 센서 40 fg/mL (DOI 10.7150/thno.100600)
 - [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — Kim YJ 2023 · narrative-review (IJMS, 서울대 치대): 침 분비 세포 기전 GPCR(M3 mAChR)→IP3R→SOCE→AQP5 Ca²⁺ 축; 구강건조 유병률 10~50%(여성 30%·고령 50%↑), AQP5-KO 60%↓, FDA 완치약 없음 — 구강건조 mechanism anchor (DOI 10.3390/ijms24065358)
 
+### Oral Medicine · Normal Variants (구강내과·정상변이병소)
+
+- [[oral-medicine/normal-variants/gupta-2023-prevalence-distribution-oral-mucosal-nepal]] — Gupta 2023 · cross-sectional (n=16,572, Nepal): 구강점막병소 21.08%·정상변이 13.96%, 정상변이 중 마찰성각화증·교흔(linea alba)·포다이스그래뉼(8.84%) 최다, 협점막 80.1% 호발 (DOI 10.1155/2023/9375084)
+- [[oral-medicine/normal-variants/nautiyal-2024-prevalence-keratosis-oral-cavity]] — Nautiyal 2024 · retrospective (n=144,056 screened, 남인도): 양성 각화성 백색병소 3.89% — 마찰성각화증 71.65%·담배쌈지각화증 27.38%·교흔(morsicatio buccarum) 0.9%, 전부 남성 우세 (DOI 10.7759/cureus.52199)
+- [[oral-medicine/normal-variants/baklouti-2023-whitish-patches-buccal-mucosa-dermoscopy]] — Baklouti 2023 · case-report: 스테로이드 무반응 구강편평태선 오진 사례를 더모스코피(Wickham striae 없음)로 교순증(morsicatio labiorum)으로 재진단 (DOI 10.1002/ccr3.6946)
+
 ## 구강안면통증·통증 신경기전 (Orofacial Pain — Nociception Mechanisms)
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — Narrative review: NKCC1/KCC2 음이온 수송체가 GABA-A·glycine 억제를 좌우; 탈억제(disinhibition)성 통각과민·이질통 기전 — topical clonazepam 근거 (2009)
 - [[orofacial-pain/wilke-2020-chloride-underrated-ion-nociceptors]] — Narrative review: 말초 DRG nociceptor의 높은 세포내 Cl⁻ → Cl⁻ 통로 활성화가 흥분성으로 작용; anoctamin-1 등 통로 repertoire (2020)
