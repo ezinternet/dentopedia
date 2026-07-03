@@ -1340,6 +1340,7 @@ tags: []
 - [[drug/anticoagulants/pyo-2026-drug-interactions-prescription-safety-elderly]] — Narrative review (KDA 2026 64(4) Special Issue): 치과 DDI 유병률 40.7%, 처방의 인식률 42.7%; clindamycin ADR 15.7×↑(vs amoxicillin); β-blocker/TCA 환자 epinephrine ≤2 cartridges; GFR/LFT 기반 용량조절 표
 - [[drug/antibiotics/thornhill-2019-adverse-reactions-oral-antibiotics-dentists]] — NHS England 후향(2010–2017, 평균 23,624 치과의사) + Yellow Card MHRA ADR: amoxicillin 압도적 최저(전체 21.5·치명적 0.1/백만), clindamycin 치명적 최고(2.9/백만, 대부분 C. difficile); macrolide QT/torsades 사망; "amoxicillin 알레르기 → clindamycin" 반사 위험.
 - [[drug/systemic-disease/colibasanu-2025-drug-drug-interactions-dental-patients-retrospective]] — 후향 단일기관(루마니아, n=105, 2024.11–12): DrugBank Checker로 1,332 약물쌍 분석 — 주요 DDI 2.3%·중등도 25.0%·경미 13.4%; 주요는 31–60세(61.3%)·CVD(epinephrine + β-blocker) 집중; 0–30세 0건.
+- [[drug/systemic-disease/mawardi-2023-semaglutide-associated-hyposalivation-case-series]] — Mawardi 2023 · case-report (Medicine, n=3 과체중 여성): 세마글루타이드(Semaglutide/Ozempic, GLP-1 작용제)-연관 hyposalivation 첫 보고 — 수정 Schirmer 평균 9 mL/3분, 쇼그렌 음성·비당뇨, 약물 중단 시 가역/pilocarpine 관리; GLP-1 복용력 문진 근거 (DOI 10.1097/MD.0000000000036730)
 - [[drug/mronj/jkda-2021-60-1-004]] — Review (단국대 통합치의학 최정임, JKDA 2022): BMA(bisphosphonate·denosumab) 복용 환자에서 dental implant가 MRONJ trigger·risk factor 평가 — drug holiday·식립 후 maintenance framework
 - [[local-anesthesia/karm-2023-clinical-practice-guidelines-diagnostic-procedural-sedation]] — Special article (JKDA 2023, SNU 치과마취과 Karm MH): 2022년 한국 진정 가이드라인 해설 — moderate sedation 중심, 15 PICO 권고 (제공자 교육·약물·금식·monitoring·소아 호흡·퇴원), 비마취과 제공자 대상 표준.
 - [[local-anesthesia/hwang-2023-proposal-clinical-guidelines-local-anesthesia-dentistry]] — Position paper (JKDA 2023, 한양대 OMS Hwang KG): 치과 국소마취 한국 임상진료지침 부재 지적, 가이드라인 제정 필요성·검토 영역 명문화 (페어 — Karm 2023 sedation guideline 해설과 동일 호).
@@ -1620,6 +1621,9 @@ tags: []
 - [[oral-medicine/kechichian-2024-erythema-multiforme-review]] — 내러티브 리뷰: 다형홍반(EM) — HSV/마이코플라스마 유발 피부·점막질환, SJS/TEN 감별, 대증+원인 항바이러스 치료; 재발형은 억제 항바이러스 1차 (eClinicalMedicine 2024)
 - [[oral-medicine/dean-2022-oral-chronic-gvhd-review]] — 미니리뷰: 구강 만성 GVHD(동종 HCT 30–50%) — 태선양 점막염·타액선 기능저하·조직경화 3주체, NIH 2014 기준, 국소→전신 면역억제 (Front Oral Health 2022)
 - [[oral-medicine/bandara-2025-desquamative-gingivitis-pharmacological-treatment-sr]] — Bandara 2025 · sr · 박리성 치은염(desquamative gingivitis, OLP/MMP/PV) 약물치료 SR(15편): clobetasol·tacrolimus 국소 1차(통증·병변 유의 감소), 전신제는 부작용 부담↑; PRP·프로폴리스/나노비타민 겔 보조 유망
+- [[oral-medicine/nonaka-2023-saliva-diagnostics-salivaomics-exosomics-liquid-biopsy]] — Nonaka & Wong 2023 · narrative-review (JADA, Wong/UCLA): 침 진단 3축(살리바오믹스·침 엑소좀학·침 액체생검) + EFIRM 전기화학 센서로 폐암 EGFR ctDNA·SARS-CoV-2 침 검출; 침 20~30%가 혈장 단백질체와 중첩 (DOI 10.1016/j.adaj.2023.05.006)
+- [[oral-medicine/li-2024-salivary-diagnostics-opportunities-challenges]] — Li 2024 · narrative-review (Theranostics): 침 바이오마커(단백질·핵산·EV·대사체·전해질)×검출시스템(바이오센서·마이크로플루이딕·웨어러블 구강기기)×표준화 과제 종합; 침 MMP-9 OSCC 수술 후 588→132 ng/mL, 전기화학 PSA 센서 40 fg/mL (DOI 10.7150/thno.100600)
+- [[oral-medicine/kim-2023-xerostomia-cellular-targets]] — Kim YJ 2023 · narrative-review (IJMS, 서울대 치대): 침 분비 세포 기전 GPCR(M3 mAChR)→IP3R→SOCE→AQP5 Ca²⁺ 축; 구강건조 유병률 10~50%(여성 30%·고령 50%↑), AQP5-KO 60%↓, FDA 완치약 없음 — 구강건조 mechanism anchor (DOI 10.3390/ijms24065358)
 
 ## 구강안면통증·통증 신경기전 (Orofacial Pain — Nociception Mechanisms)
 - [[orofacial-pain/price-2009-chloride-regulation-pain-pathway]] — Narrative review: NKCC1/KCC2 음이온 수송체가 GABA-A·glycine 억제를 좌우; 탈억제(disinhibition)성 통각과민·이질통 기전 — topical clonazepam 근거 (2009)
