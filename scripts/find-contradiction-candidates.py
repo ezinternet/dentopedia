@@ -11,7 +11,7 @@ Tier 1 (actionable): 충돌 표현 + 같은 문맥에 [[wikilink]]로 대상이 
                       → 두 페이지를 읽고 판단 후 relations 엣지를 달 수 있는 후보.
 Tier 2 (review):      충돌 표현은 있으나 대상 링크가 불명확. → 대상 식별 필요.
 
-각 카드는 한국어로 (a) 충돌 유형 뜻, (b) 근거 문장, (c) 양쪽 페이지의 ## 한줄요약을
+각 카드는 한국어로 (a) 충돌 유형 뜻, (b) 근거 문장, (c) 양쪽 페이지의 ## 세줄요약을
 함께 보여준다 — 페이지를 열지 않고도 두 논문이 각각 뭐라고 주장하는지 한글로 파악.
 
 실행: python3 scripts/find-contradiction-candidates.py
@@ -58,10 +58,10 @@ def ko_gloss(kw):
 
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|[^\]]*)?\]\]")
 FM_RE = re.compile(r"^---\n(.*?)\n---\n", re.DOTALL)
-ONELINER_RE = re.compile(r"^##\s*한줄요약\s*\n+(.+?)(?=\n##\s|\Z)", re.DOTALL | re.MULTILINE)
+ONELINER_RE = re.compile(r"^##\s*세줄요약\s*\n+(.+?)(?=\n##\s|\Z)", re.DOTALL | re.MULTILINE)
 
 def oneliner_of(text):
-    """페이지 본문에서 ## 한줄요약 첫 단락을 뽑아 한 줄로 정리 (없으면 '')."""
+    """페이지 본문에서 ## 세줄요약 첫 단락을 뽑아 한 줄로 정리 (없으면 '')."""
     m = ONELINER_RE.search(text)
     if not m:
         return ""
@@ -90,7 +90,7 @@ def parse(path):
                 edges.add(g.group(1).strip().rstrip("/").split("/")[-1])
     return fm, body, cat, edges
 
-# stem 인덱스 + stem→한줄요약(한국어) 인덱스
+# stem 인덱스 + stem→세줄요약(한국어) 인덱스
 stems = set()
 oneliner = {}
 for md in WIKI.rglob("*.md"):
@@ -103,11 +103,11 @@ for md in WIKI.rglob("*.md"):
         oneliner[md.stem] = ""
 
 def ko_line(stem, label):
-    """stem의 한줄요약을 카드 서브라인으로. 없으면 안내."""
+    """stem의 세줄요약 첫 줄을 카드 서브라인으로. 없으면 안내."""
     ol = oneliner.get(stem, "")
     if ol:
-        return f"  - ▸ {label}(`{stem}`) 한줄: {ol}"
-    return f"  - ▸ {label}(`{stem}`) 한줄: _(한줄요약 없음 — 페이지 확인 필요)_"
+        return f"  - ▸ {label}(`{stem}`) 세줄: {ol}"
+    return f"  - ▸ {label}(`{stem}`) 세줄: _(세줄요약 없음 — 페이지 확인 필요)_"
 
 tier1 = []   # (page_stem, cat, target_stem, kw, snippet)
 tier2 = []   # (page_stem, cat, tier, kw, snippet)
@@ -161,7 +161,7 @@ lines = [
     "",
     "**카드 읽는 법**: 각 카드는 `출발페이지 —[충돌유형·한글뜻]→ 대상페이지` 형태다. "
     "아래에 (1) **근거 문장**(위키 본문에서 충돌 표현이 나온 실제 문장), "
-    "(2) **양쪽 페이지의 `## 한줄요약`**(한국어)을 붙여, 페이지를 열지 않고도 "
+    "(2) **양쪽 페이지의 `## 세줄요약`**(한국어)을 붙여, 페이지를 열지 않고도 "
     "두 논문이 각각 무엇을 주장하는지·정말 충돌하는지 한글로 판단할 수 있게 했다. "
     "충돌 유형 한글뜻은 표현 매칭 기반 근사치이며, **최종 판단은 사람/LLM 몫**이다. "
     "(reinforces가 맞는 경우도 있으니 키워드를 그대로 엣지로 옮기지 말 것.)",
@@ -201,4 +201,4 @@ OUT.write_text("\n".join(lines), encoding="utf-8")
 print(f"✓ {OUT.relative_to(ROOT)}")
 print(f"  Tier 1 (actionable, page→target): {len(t1)}")
 print(f"  Tier 2 (review): {len(tier2)}")
-print(f"  한줄요약 인덱스: {sum(1 for v in oneliner.values() if v)}/{len(oneliner)} pages")
+print(f"  세줄요약 인덱스: {sum(1 for v in oneliner.values() if v)}/{len(oneliner)} pages")
