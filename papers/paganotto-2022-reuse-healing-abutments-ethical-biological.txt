@@ -1,0 +1,45 @@
+SOURCE: PubMed Central full text (PMC9617269)
+PMID: 36320674 | DOI: 10.4317/jced.59831
+Paganotto G, Zimmer R, Klein-Junior CA, Rivaldo EG.
+"Reuse of healing abutments: Ethical, biological and professional training implications."
+J Clin Exp Dent. 2022;14(10):e822-e826.
+
+== ABSTRACT ==
+Background: Estimate prevalence of reuse of healing abutments (HAs), disinfection methods, and reasons professionals reuse.
+Methods: Online questionnaire (Google Forms) to 284 randomized implantology specialists of 1,147 registered at Regional Council of Dentistry of Rio Grande do Sul (CRO/RS), Brazil. 3 sections: consent; demographics; reuse/disinfection/sterilization routines, risk perception, manufacturer info.
+Results: 98.1% reuse HAs. Reasons: cost 71.2%, practicality 26%. Limitations: 53.3% see none, 20% increased roughness, 17.8% organic matter accumulation, 8.9% cross-infection. 95.3% received NO manufacturer guidance on reuse. Cleaning: enzymatic detergent + ultrasonic bath 50.7%, ultrasonic bath only 23.3%. All use autoclave for sterilization.
+Conclusion: Reuse is standard practice; most see no limitations; repeated reuse common.
+
+== KEY FULL-TEXT POINTS ==
+Introduction:
+- HA forms epithelial barrier against bacterial colonization at implant/HA junction. In mouth weeks to months → strongly adhered biofilm (bacterial + fungal species).
+- Decontamination must fully remove organic matter + sterilize. Studies show residual organic matter AND viable bacteria persist.
+- Reuse also alters HA surfaces → ↑porosity of coating → facilitates bacterial colonization at HA/implant junction → chronic peri-implant inflammation.
+- Economic factor is main reuse justification.
+
+Methods:
+- Sample size via GPower; 1,147 implantologists → 203 needed + 40% non-response buffer = 284 selected. Randomizer software.
+- Data collected Sept–Nov 2021, email + WhatsApp, max 2 submissions. Cronbach's alpha 0.7–0.8 (acceptable).
+
+Results (n=202 responses):
+- 75.2% men, 24.8% women; mean age 42.7 (SD 8.4); most 41–50 yr (45.5%).
+- 89.6% own private practice.
+- REUSE 98.1%; do NOT reuse 1.9%.
+- Reason: cost 71.2%, practicality 26%, difficulty availability 1.9%.
+- Reuse countless times 98.1% (repeatedly 91.8%); reuse only once 8.2%.
+- Do NOT inform patient about reuse: 94.5%; inform: 5.5%.
+- ALL disinfect after use.
+- Cleaning methods: enzymatic detergent + ultrasonic bath 50.7%, ultrasonic bath only 23.3%, water+detergent 21.9%, sodium bicarbonate blasting 1.4%, NaOCl 1.4%.
+- Sterilization: ALL autoclave; none glutaraldehyde.
+- 95.3% received NO manufacturer guidance on reuse.
+- Limitations perceived: none 53.3%, ↑roughness/corrosion 20%, remaining organic matter 17.8%, cross-infection 8.9%.
+
+Discussion:
+- Cost is main driver; controversial re safety/ethics → likely why 95.1% don't inform patients.
+- Enzymatic detergent + ultrasonic → limited organic-matter removal; water+detergent / ultrasonic-only → very low efficacy, residual organic matter in 95% of samples.
+- HA in mouth 30–180 days + repeated reuse → compact biofilm with viable microbiota strongly adhered, not removable by described methods.
+- Repeated chemical/mechanical/physical processing → Ti coating oxidation → porosities → complex biofilm retaining peri-implant pathogens.
+- Alarming biological risk perceived by only 17.8%; 53.3% report no risk. Linked to lack of manufacturer info (95.3% none) and training gap despite high specialization (53% >1 specialty).
+
+Conclusion:
+- Implantologists in Rio Grande do Sul reuse HAs; varied cleaning + autoclave; predominant lack of risk perception and manufacturer guidance.
