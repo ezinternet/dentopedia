@@ -1,0 +1,309 @@
+# Bacterial Contamination of Gutta-Percha Points From Different Brands and the Efficacy of a Chairside Disinfection Protocol
+
+DOI: 10.14744/eej.2020.44265
+
+## ABSTRACT
+Objective:
+
+To evaluate the bacterial contamination of different brands of Gutta-Percha (GP) points routinely used in clinical practice and the efficacy of a chairside disinfection protocol with sodium hypochlorite.
+
+Methods:
+
+GP points (n=240), in sizes A, B, C, D, K15, K20, K25, K30, K35, K40, F1, F2, F3 (Dentsply®, Proclinic®, ProTaper® and R&S®), were randomly sampled from commercial packages already in use. These were added directly to Fluid Thioglycolate Medium (one GP point per tube) and incubated at 37ºC for 21 days. During this period, the presence/absence of turbidity was evaluated. To evaluate the efficacy of a chairside disinfection protocol, all detected contaminated GP points were immersed for 1 minute in 10 mL of 5.25% sodium hypochlorite, followed by 5 minutes in 10 mL of detergent solution (3% Tween 80 and 5% sodium thiosulfate) and a final rinse with 10 mL of sterile distilled water and incubated. The data was analysed using the chi-square test and differences between characteristics of dichotomic variables were performed using the binomial test. The significance level was set at P<0.05.
+
+Results:
+
+Bacterial growth was observed in 22.9% of the total study samples. Dentsply® and R&S® showed the highest level of contamination, 47.3% each, although without significant differences to the other commercial brands. The most contaminated GP point size was K30 (16.4%). The chairside disinfection protocol was effective in disinfection of 76.4% of GP points (P<0.001).
+
+Conclusion:
+
+A real small number of GP points in clinical use harboured bacteria, including after the Chairside Disinfection Protocol that, anyway, proved to be effective. No significant difference was observed between tested commercial brands.
+
+## FULL TEXT
+HIGHLIGHTS
+
+This study detected a low contamination rate of different commercial brands of guttta-percha points.
+
+There were no significant differences between the gutta-percha points assessed.
+
+The tested chairside disinfection protocol proved to be effective and should be considered as a routine application to ensure the aseptic condition of the root canal filling procedures.
+
+INTRODUCTION
+
+The main objectives of root canal filling are to avoid reinfection of the root canal system (RCS) and minimize the eventual growth of bacteria possibly remaining after the chemico-mechanical preparation. As such, ideally, the filling material should seal, in 3 dimensions, the RCS and maintain a stable volume, to avoid eventual irritation of the periapical tissues by bacteria and their toxins. Root canal filling with Gutta-Percha (GP) and sealer is the most universally accepted root canal filling technique ().
+
+Since it is thermolabile, GP is not suitable to sterilization by wet or dry heat (). This is a matter of concern, since sterilization of endodontic instruments and materials is essential to maintain the aseptic chain, thus preventing, the introduction of pathogenic bacteria into the RCS, during non-surgical root canal treatment (NSRCT) ().
+
+Furthermore, although GP points manufacter’s claim that the production is under aseptic conditions, several studies have shown the presence of bacteria even in newly opened boxes (-). This contamination can occur, as a result of improper storage, exposure to aerosols or improper handling during and/or after the manufacture itself (,-). Hence, the adoption of a rapid Chairside Disinfection Protocol (CDP) of GP points is needed before its use as a filling material.
+
+The most tested protocol involves the immersion of the GP points in a 5.25% Sodium Hypochlorite (NaOCl) solution for 1 minute since this is enough time to disinfect them without suffering topographical changes (-).
+
+Studies on the contamination of GP points already in use, as well as disinfection protocols prior to their use as filling material, are still a concern given the fact that root canal filling procedures should not introduce reinfection to the root canal space.
+
+Thisstudy aimed to analyze the possible contamination of GP points already in clinical use, of some commercial brands, and to determine if some GP points of less used sizes show a significant contamination index. Moreover, the efficiency of a CDP was also analysed.
+
+MATERIALS AND METHODS
+
+1.1. GP points collection and evaluation of their contamination
+
+In this study, 240 GP points of different trademarks (Dentsply® Sirona, Ballaigues, Switzerland; Proclinic®, Zaragoza, Spain; ProTaper Universal®, Denstply, Switzerland; R&S®, Tremblay-en-France, France) of different ISO (A, B, C, D, K15, K20, K25, K30, K35, K40, F1, F2, F3) sizes () were analysed ().
+
+The GP points were collected by the same operator, using sterile gloves, from commercial packages already open and in use during the filling phase, at the Pedagogical Clinic of Dentistry - Fernando Pessoa University (CPMD-UFP). Operators performing NSRCT on patients were not aware of the study objectives, to avoid influencing their attitude in collecting points before inserting them into the RCS. This is an important issue since the clinical protocol always assumes the handling of GP points inside the commercial box with sterile twezzers different from the one that is used to introduce GP points into the tooth scheduled for treatment.
+
+All tested GP boxes were in use for 4-8 weeks, after opening. In average, each box supported 8 appointments/week. The storage of the boxes was done in proper temperature and humidity conditions and were kept closed until a new appointment.
+
+All laboratory procedures were performed by one operator in an aseptic environment, using sterile material (tweezers, gloves and masks) and a lamp.
+
+Used methodology was in accordance with Pereira and Siqueira () and involved the collection of 2 GP points from each size of each commercial box in test, from randomly choosen different slots of the proper box. Using a sterile tweezer for each one, each point was placed directly in a sterile test tube containing sterile fluid thioglycolate medium (Merck, Darmstadt, Germany) and incubated at 37°C. The tubes were evaluated at 72 hours interval to verify the eventual presence of turbidity, indicative of bacterial growth, until a maximum period of 21- days ().
+
+TABLE 1
+
+Sampling of GP points (n=240) divided by brands and size
+
+Brand and GP point sizes
+
+Number of GP points
+
+Dentsply® 104 (43.3%)
+
+A
+
+34 (14.2%)
+
+B
+
+44 (18.3%)
+
+C
+
+20 (8.3%)
+
+D
+
+6 (2.5%)
+
+Proclinic® 8 (3.4%)
+
+K25
+
+4 (1.7%)
+
+K30
+
+4 (1.7%)
+
+R&S® 104 (43.3%)
+
+K15
+
+6 (2.5%)
+
+K20
+
+10 (4.2%)
+
+K25
+
+34 (14.2%)
+
+K30
+
+32 (13.3%)
+
+K35
+
+18 (7.5%)
+
+K40
+
+4 (1.7%)
+
+Figure 1
+
+Representation of a contaminated Gutta-Percha point (left eppendorf tube) and an uncontaminated one (right eppendorf tube)
+
+1.2. Chairside disinfection protocol
+
+In the case of contamination, for each GP point, a CDP was tested, that included its incubation in 10 mL of 5.25% sodium hypochlorite solution for 30 seconds in an eppendorf tube for complete submergion of each point, followed by an active wash, moving in circles, during 3 minutes in 10 mL of detergent solution (3% Tween 80 and 5% sodium thiosulfate) and a final rinse with 10 mL of sterile distilled water, being the GP point holded with sterile tweezers in every transfer of the GP to the next CDP step () (). Subsequently, the point was dried using a sterile gauze and placed, using sterile tweezers, in a new sterile tube containing thioglycollate fluid medium and processed as described above.
+
+Figure 2
+
+Representation of the Chairside Disinfection Protocol on a contaminated Gutta-Percha point (left eppendorf tube) after 1 minute of immersion in 5.25% Sodium Hypochlorite, followed by 5 minutes in 10 mL of detergent solution (3% Tween 80 and 5% sodium thiosulfate), in the same conditions described for the first disinfectant and a final rinse with 10 mL of sterile distilled water (middle eppendorf tube), result after treatment (right eppendorf tube)
+
+2.3. Statistical analysis
+
+The data analysis was conducted using IBM® SPSS® Statistics vs 25.0 (Armonk, NY, IBM Corp., USA). Qualitative variables (brand and size, contamination of collected GP points and disinfection protocol) were described using absolute and relative counts (n and %). Comparison of distributions was performed using the chi-square test and differences between characteristics of dichotomic variables were performed using the binomial test. The significance level was set at 0.05 (P=0.05).
+
+RESULTS
+
+The percentage of uncontaminated points (77.1) was significantly higher than contaminated ones (22.9) (P<0.001) ().
+
+The brands with the highest number of contaminated GP points were Dentsply® and R&S® with 47.3% each (). Dentsply® and R&S® both showed significantly higher percentage of positive GP points than negative ones (Binomial test, P<0.001) and PROTAPER® showed significantly lower percentage of positive GP points than negative ones (Binomial test, P<0.001) and no significant differences were observed for PROTAPER® (P=0.070). Nevertheless, no relation was found between contaminated GP points and brand (, Chi2 test, P=0.273), meaning that no significant differences were observed on the rate of contamination of GP points between tested brands.
+
+The most contaminated GP point size was K30 with 16.4% (9/55) of contamination. In detail, 8/9 GP points were of the R&S® brand and 1/9 of the Proclinic® brand.
+
+Furthermore, all Dentsply® brand points of D size, were found to be contaminated, namely 10.9% (6/55) of the total number of collected GP points (), the only ones presenting significantly higher percentage of positive contaminated GP points.
+
+The chairside disinfection protocol was effective in 76.4% (42/55) of the contaminated GP points (). This protocol was able to significantly eliminate bacterial contamination (P<0.001) in more than half of contaminated samples.
+
+Figure 3
+
+Total contamination of collected GP points. Comparison using Binomial test
+
+Figure 4
+
+Contamination of GP points according with the brand. Comparison with chi-square test; if PROCLINIC® is removed from the analysis (due to reduced sampling size), P-value becomes 0.188
+
+Figure 5
+
+Effectiveness of the Chairside Disinfection Protocol on GP Points. Comparison using Binomial test
+
+TABLE 2
+
+Contamination of GP points related to the GP point size
+
+GP point size
+
+GP points negative n (%)
+
+GP points positive n (%)
+
+A
+
+26 (14.1%)
+
+8 (14.5%)
+
+B
+
+37 (20.0%)
+
+7 (12.7%)
+
+C
+
+15 (8.1%)
+
+(9.1%)
+
+D
+
+0(0.0%)
+
+6(10.9%)
+
+F1
+
+(4.3%)
+
+0 (0.0%)
+
+F2
+
+10 (5.4%)
+
+0 (0.0%)
+
+F3
+
+4 (2.2%)
+
+(3.6%)
+
+K15
+
+4 (2.2%)
+
+2 (3.6%)
+
+K20
+
+6 (3.2%)
+
+4 (7.3%)
+
+K25
+
+30(16.2%)
+
+8 (14.5%)
+
+K30
+
+27(14.6%)
+
+9(16.4%)
+
+K35
+
+15 (8.1%)
+
+3 (5.5%)
+
+K40
+
+3 (1.6%)
+
+1 (1.8%)
+
+Total
+
+185 (100.0%)
+
+55 (100.0%)
+
+a,b:
+
+Different superscript letter denotes a subset of contamination category whose column proportions differ significantly from each other at the 0.05 level. Chi-square test, P=0.003.
+
+*
+
+4/30 are Proclinic® GP points.
+
+**
+
+3/27 are Proclinic® GP points.
+
+***
+
+1/9 is Proclinic® GP points
+
+DISCUSSION
+
+NSRCT procedures should be carried out accurately to minimize the occurrence of infections, maintaining the aseptic chain during all stages. Since endodontic procedures are carried out in an environment with a high risk of contamination, it is a duty of the health professional to use well-defined strategies to avoid survival of micororganisms within the RCS. For instance, Higgins et al. () and later confirmed by da Motta et al. () demonstrated that the risk of contamination at the time of opening the sterile gutta-percha boxes was not a source of concern, which means that the simple exposure of the points to the environment is not of critical importance. It is in the handling that the cross-infection risk relies.
+
+The lateral compaction technique is the most widely used filling technique in Endodontics mainly due to its simplicity and good clinical results. This causes the repetitive contact of the tweezers with the remaining GP points of the box, being enough for contamination to occur if not properly handled. Moreover, keeping in mind that one box is used in multiple Endodontic sessions, the risk of cross-contamination must be considered as a real fact, putting into question, the success of the NSRCT (,). In this way, it is strongly advised the use of different tweezers: one to pick up a new GP point and another one to place it into the RCS.
+
+The present work examined a high number of GP points. All sampling procedure took 3 months and each GP point was taken from packages that were already in use for 4-8 weeks. Furthermore, operators were not aware of the goals of the study, to avoid influencing their attitude in collecting points before inserting them into the RCS. All this was done in order to have a more realistic idea of what happens in a university clinical setting, although it may also be translated into the real clinical scenario of dental office settings.
+
+GP points, master and auxiliary, of different brands and different sizes, coming from boxes already open and in use, were analysed. Due to the polymicrobial nature of Endodontic infections, fluid thioglycolate medium was chosen for its ability to provide growth of a wide variety of bacteria with a wide range of growth requirements, that may be present in low numbers in a specimen (). In the present study, quantification and identification of bacteria was not possible due to budget and calendar problems. In future research, it would be interesting to identify the contaminant species to evaluate the possibility of induction of secondary infections, as described in some studies (-).
+
+The total amount of contamination was low (22.9%). Although several points were taken from the same slot of the same box, in different appointments, not all of them were contaminated. It would be interesting to test all the GP points of the same slot of a box to infer the real rate of contamination. For budgetary reasons and because the major goal of the study was to compare different commercial brands, this was not performed in this study. It is universal that GP points´composition has zinc oxide which has antibacterial properties and a coating that prevents bacterial adhesion (,). Probably, these are the main reasons justifying the non contamination between GP points enclosed in th same slot.
+
+The contamination rate was related to point brand, where Dentsply® and R&S® (a commercial brand reported for the first time, as far as we know) showed the highest rate. However, no significant differences were observed among tested brands. Due to its reduced sampling size, the Proclinic® brand was removed from the analysis. Certainly, since Dentsply® and R&S® were the commercial brands with the highest sampling size, the probability to detect contamination is higher when compared to the other two brands (Proclinic® and Protaper®). This difference in sampling size occurred because those commercial brands were the most frequently used in clinical attendance in which sampling took place. For future research, care should be taken to obtain similar sampling size of the different tested commercial brands. Nevertheless, the effort to get a valid number of GP points (n=104) of the brand without published data was achieved (R&S®). Ideally, sampling size should be the same for all tested brands and GP sizes to have a better statistical comparison.
+
+The rate of contamination was related to GP point size, being #ISO 30 the most contaminated. The protocol of instrumentation adopted in the Pedagogical Clinic of Dentistry defined the apical size as ISO#35. Being so, to assure this size, it is commonly recommended to transform the “ISO#30” point into the next size by simply cutting the end in the calibrating ruler. This may be a strong cause for the higher contamination rate observed, since the #ISO 30 size is the most used point.
+
+Furthermore, all six Dentsply® brand points of “D size” were found to be contaminated. An explanation could be that as the instrumentation protocol followed in this study led to a final root canal taper of 5% and the “D size” GP point has around 6% of taper, those ISO points remain in open boxes for longer periods of time, since they are only suitable for wide root canals. Moreover, besides its taper, its inflexibility makes its insertion a real challenge and, therefore, of all analysed sizes, this ISO GP point is the least used. This fact considerably increases the time of exposure to potential contaminants, as a result of continuous handling of the boxes. For this reason, it is recommended to have separate ISO sizes GP points per box, specially of those less routinely used to minimize the risk of cross contamination.
+
+Regarding this issue – contamination of GP points - the published literature is scarce and hardly comparable, due to different approaches used, either in the size of sample for each group or methodology in the collection into each test tube containing broad medium (1 versus multiple GP points) or in contamination’ assessment (classic culture versus mass spectrometry). Several studies omit relevant data (for instance, size and number of cones tested in each group, time of clinical use of the boxes, type of operator - generalist or endodontist, among others).
+
+In face of this, there were major premises defined in this study: the first, to test, as far as we know, a commercial brand never reported - R&S; second, to assess GP points removed from boxes already in use, for at least 4 weeks to better simulate clinical conditions; third, to collect only one GP point to a separate test tube containing broad medium to validate, with no doubts, each observed data; fourth, get a total sample size that would allow to infer clinical recommendations based on evidence and to test a CDP simple to execute and, if possible, credible based on its efficiency.
+
+Some studies (,,,,,) have examined GP points from sealed and not yet used packages from several commercial brands and did not observe bacterial growth in any of the experimental groups, with the exception of the study of Demiryürek et al. (). The main limitations of these studies were the small sampling size for each tested size (ranged from 2 to 24) and, also, the number of tested commercial brands (from 1 to nine). This may explain differences in results of those studies compared to this investigation. Even more relevant, each box usually contains 60-120 units, so, referred number of collected samples may not be representative of a box, if the goal is to assess eventual contamination.
+
+Nacif et al. () analysed 30 boxes of the same size (collecting 6 GP points/box – total of 180) of different commercial brands in use either by dentists (90 GP points) or by endodontics specialists (90 GP points) and observed a contamination rate of 30% (14/30). No difference was observed between different types of operators. Pang et al. () observed similar results (19.4%) in a study performed with samples (75 GP points) from endodontic clinics. The contamination rate observed in this study agrees with the previously mentioned studies, where the operators were students. One explanation for this degree of contamination is that, although there is a higher potential exposure risk to contaminants, since each box is handled by several students, these operators do not have time to acquire inappropriate working habits, being under rigorous control by their teachers, whose concern is to make sure that the clinical protocol for preventing cross-infection is followed.
+
+Despite all described before, there is no agreement in the literature on the real need to decontaminate points before their use and on what could be the ideal protocol (). Several studies (,,) have shown that longer periods of disinfection lead to deterioration of the point surface. This deterioration includes, mainly, an improvement in the elasticity of its surface that could decrease the proper insertion during the filling procedure, especially in cases of curved canals ().
+
+This study showed that the tested disinfection protocol proved to be effective on 76.4% of contaminated samples. When using a CDP, the choice of NaOCl solution is mainly due to its antimicrobial properties and dissolution characteristics of organic tissues, in addition to the fact that it is a valid cost-benefit solution, easily available and moreover demonstrates a good shelf life, as long as properly stored ().
+
+It has been demonstrated that higher NaOCl concentrations (5.25%) take less time to inhibit bacterial growth than lower concentrations (0.5-2.5%). However, accumulation of crystals on GP points surface occurs together with the deterioration of the GP point itself. This may interfere with the proper sealer adhesion and with the expected performance of the filling material (,,).
+
+For these reasons, in the present study, the CDP applied and assessed for its efficiency, used, as the first irrigant, 5.25% NaOCl for 30 seconds. The subsequent rinse with 3% Tween 80, 5% sodium thiosulfate was carried out to remove crystals mentioned before from the GP surface. A final rinse with 10 mL of sterile distilled water was performed to remove all chemical agents from GP points.
+
+Alternative solutions have been tested when performing CDP. Chlorhexidine (CHX) (,) demostrated effective results. The main reason for not using this irrigant in the present study, was its incompatibility with NaOCl since it is observed the formation of a precipitate when these two solutions interact (). As the major irrigant used during NSRCT performed in the clinic is NaOCl, it looked more adequate to use it, instead of introducing CHX.
+
+CONCLUSION
+
+About 22.9% of GP points in clinical use harboured bacteria. No significant difference was observed between tested commercial brands. The use of chairside disinfection protocol proved to be effective.
