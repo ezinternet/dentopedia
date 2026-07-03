@@ -21,6 +21,7 @@ source_collection: synthesis
 > - 즉시 상아질 봉쇄 (Immediate Dentin Sealing, IDS)는 간접 수복 한정(3-step EAR·2-step SE에서만 효과), 직접 수복엔 비적용 — 임상 전환(술후 민감·수명 개선)은 미입증(Reis 2024 비판).
 > - 축 2 충전 — 벌크필(bulk-fill)과 적층충전(incremental)은 9 RCT MA·12 RCT 네트워크 메타분석(NMA)·우산형 리뷰 모두에서 ≥24개월 임상 동등(Zailai 2025 실패 RR 0.82, Chaple-Gil 2026 차이 없음).
 > - "저수축 = 임상 우월" 명제는 21 RCT MA로 부정 — 유일한 차이는 12개월 변연적합에서 통상 메타크릴레이트가 우세(Kruly 2018), silorane도 동등(Magno 2016).
+> - 신규 메커니즘(He 2026, in-vitro): 중합성 억제제 PBHT로 겔포인트(gel point)를 지연시켜 수축응력을 유의 저감(47.5→13.1×10⁻³ MPa·s)하고 기존 BHT 대비 용출도 4배 감소 — 기전은 유망하나 세포독성·노화·임상 데이터 없는 단일 bench 연구로, silorane과 같은 "lab 결과 ≠ 임상 우월" 경계선 위에 있다.
 > - 복합레진 vs 아말감: 5년 생존 동등(Worthington 2021 Cochrane), 후방 복합레진 기저 실패율 1.55/100 수복-년(Astvaldsdottir 2015), 주 실패원인은 2차 우식(보통 3년 후).
 > - 수리(repair)가 교체보다 우월 — 15년 후방 복합레진 SR은 없으나 전치부 데이터 강력(van de Sande 2019, 수리를 비실패로 보면 15년 생존 69%) — 국소 결함은 수리가 1차 선택.
 > - 간접 수복으로의 escalation은 근거가 아니라 해부(교두 피개·교두간 거리 ½ 접근·근관치료 후 후방치 변연융선 소실+과중 교합)로 결정 — 일상적 Class II에 간접 수복은 강제되지 않는다.
@@ -134,6 +135,10 @@ Posterior composite **baseline failure rate**: **1.55 lost restorations per 100 
 
 [claude해석] Practical reading: stress management is real and matters, but contemporary methacrylate composites + sound technique (proper increment thickness, adequate light intensity/duration, soft-start curing, flowable liner where indicated) match anything the modified-monomer families deliver. Money spent on a high-CRI curing light and a radiometer outperforms money spent chasing exotic monomer chemistry.
 
+**A newer mechanistic lever, still bench-only**: [[resin/he-2026-polymerizable-inhibitor-shrinkage-stress]] (in vitro, UDMA/Bis-EMA/TEGDMA experimental composite) targets shrinkage stress through a route Meereis 2018 did not catalogue in these terms — **delaying the gel point** with a polymerizable radical inhibitor (PBHT, a methacrylate-functional BHT analog). At 3 wt% PBHT, max shrinkage-stress rate fell from 47.5 to 13.1 ×10⁻³ MPa·s, while volumetric shrinkage barely moved — reinforcing the same principle Meereis 2018 already established, that **interfacial stress, not raw volumetric shrinkage, is the target**, and that resin-matrix-level intervention (here, an inhibitor bound into the network) is what moves the needle, not photoinitiator chemistry. Notably, plain non-polymerizable BHT (the incumbent commercial inhibitor) **failed to reduce stress** in this UDMA-rich matrix — only the copolymerizing PBHT worked, and it also leached ~4× less inhibitor than BHT (132 vs 549 µg/g at 1 wt%), addressing a real cytotoxicity/elution liability of the current approach. Mechanical properties (FS/FM/fracture toughness) were preserved at the recommended 1 wt% dose.
+
+[claude해석] Read this with the same caution as silorane and the other "low-shrinkage" families in this section: it is a **single in-vitro synthesis-and-characterization study** ([근거약함] in-vitro), with no cytotoxicity testing, no aging/wear data, and no clinical or even ex-vivo tooth-restoration performance measured — the authors themselves flag this. The Kruly 2018 RCT MA lesson above is exactly the caution this result needs: 21 pooled RCTs of "low-shrinkage" chemistry (silorane/ormocer/bulk-fill) found **no clinical superiority** despite favorable lab-stress profiles. PBHT's mechanism is more targeted (gel-point delay validated directly on shrinkage stress, not just volumetric shrinkage) and it solves a genuine incumbent problem (BHT leaching/cytotoxicity) rather than chasing a new monomer backbone — so it is mechanistically more promising than another silorane-style reformulation. But until it survives aging, biocompatibility screening, and ideally an RCT, it sits in the same "lab result ≠ clinical superiority" bucket as everything else in this section. File it as a research lead, not a practice change.
+
 ### 2.4 Direct vs. indirect composite — for the borderline case
 
 Two SR+MA disagree:
@@ -227,6 +232,7 @@ When a clinical decision falls into one of these gaps, the wiki cannot answer �
 - [[resin/chaple-gil-2026-bulk-fill-incremental-class-ii-sr-nma]] — Class II NMA
 - [[resin/parra-gatica-2023-flowable-bulk-fill-composites-sr]] — flowable BF property heterogeneity
 - [[resin/meereis-2018-polymerization-shrinkage-stress-resin-sr-ma]] — stress composition strategies
+- [[resin/he-2026-polymerizable-inhibitor-shrinkage-stress]] — polymerizable inhibitor (PBHT), gel-point delay, in-vitro
 - [[resin/kruly-2018-low-shrinkage-vs-methacrylate-resin-ma]] — "low-shrinkage" RCT MA
 - [[resin/magno-2016-silorane-composite-not-better-conventional-ma]] — silorane equivalence
 - [[resin/josic-2023-direct-indirect-resin-longevity-sr-ma]] — direct vs indirect (no diff)
