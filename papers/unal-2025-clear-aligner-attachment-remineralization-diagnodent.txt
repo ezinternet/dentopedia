@@ -1,0 +1,50 @@
+TITLE: Comparative effectiveness of remineralization agents on attachment-associated enamel demineralization in clear aligner patients: A 6-Month DIAGNOdent-Based controlled clinical trial
+AUTHORS: Ünal HY, Kılıç B, Dalkilic EE
+JOURNAL: BMC Oral Health 2025;26(1):96
+DOI: 10.1186/s12903-025-07497-8
+SOURCE: PubMed Central (PMC12801708)
+TRIAL REGISTRATION: ClinicalTrials.gov NCT07229105
+
+=== ABSTRACT ===
+
+Background/objectives: Clear aligner attachments increase the risk of white spot lesions (WSL), with a 35.5% incidence in adolescents. The number of anterior attachments is an independent risk factor (OR = 2.192). Despite 17 million patients treated worldwide, no study has quantitatively assessed demineralization around attachment margins. To compare the effectiveness of CPP-ACP, nano-hydroxyapatite (nHAp), and fluoride varnish versus a control for attachment-associated demineralization using DIAGNOdent monitoring.
+
+Methods: This prospective controlled clinical trial evaluated 52 patients; 45 were enrolled, and 40 completed after five pre-baseline withdrawals. Participants were allocated to four groups (n = 10 each): Group A (control, fluoride toothpaste), Group B (CPP-ACP daily), Group C (nHAp professional + home gel), and Group D (fluoride varnish quarterly). DIAGNOdent measurements were taken around attachments at baseline, 1, 3, and 6 months. Linear mixed-effects models analyzed group differences (p < 0.05).
+
+Results: All 40 participants completed the 6-month study (100% retention). Baseline values were comparable (p = 0.48). Mean DIAGNOdent changes at 6 months were: Control + 4.35 [95%CI: 3.77–4.93], CPP-ACP − 4.02 [− 4.47 to − 3.56], nHAp − 5.36 [− 5.99 to − 4.72], Fluoride − 4.45 [− 4.78 to − 4.11]. The main group effect was significant (p < 0.001; η²= 0.974). All treatments outperformed the control (p < 0.001). nHAp showed the greatest reduction, superior to CPP-ACP (p < 0.001) and fluoride (p = 0.019). Fluoride exhibited a biphasic pattern.
+
+Conclusions: All remineralization protocols significantly reduced demineralization versus control, with nHAp demonstrating the highest efficacy. Early preventive intervention and regular monitoring are recommended in attachment-bearing patients. Larger randomized trials are warranted.
+
+=== KEY DATA (from full text) ===
+
+Design: Prospective controlled clinical trial (exploratory pilot, convenience sample, non-randomized allocation by patient preference). Bezmialem Vakif University, Aug 2024–Mar 2025. STROBE-adapted. IRB 09/15.
+
+Population: Active clear aligner patients, age 16–45 (mean 22.9 ± 7.0), 60% female. Inclusion: ≥10 attachments on anterior teeth/premolars, ≥6 months treatment remaining, aligner wear 20–22 h/day. Exclusion: active caries, periodontal disease, fluorosis/enamel hypoplasia, extra fluoride supplements, pregnancy/lactation, salivary-flow-affecting conditions.
+
+Groups (all n=10; all used 1450 ppm F toothpaste as base):
+- A Control: fluoride toothpaste only.
+- B CPP-ACP: GC Tooth Mousse, pea-sized in aligner, 15 min daily at bedtime, no rinse 30 min.
+- C nHAp: professional 5% nHAp mineral gel (BioWhiten ProOffice) at T0/T1/T2 + daily home 1% nHAp gel in aligner nightly (≥15 min). Intensive dual protocol.
+- D Fluoride varnish: professional 5% NaF varnish (ProShield) at baseline and 3 months.
+
+Outcome: DIAGNOdent pen (KaVo), 4 sites/attachment (mesial/distal/gingival/occlusal), max of 3 passes, air-dry 5 s. Cut-offs: 0–12 sound, 13–24 initial demineralization, ≥25 advanced. Intra-examiner ICC = 0.85. Measured T0/T1(1mo)/T2(3mo)/T3(6mo). Linear mixed-effects model (REML), teeth nested within subjects, adjusted for baseline attachment number.
+
+DIAGNOdent values (Mean ± SD) baseline → 6 months, and Δ(T3−T0):
+- Control (A): 10.4 → 14.8; Δ +4.35 [3.77–4.93], p<0.001 (WORSENING, +42%)
+- CPP-ACP (B): 12.3 → 8.3; Δ −4.02 [−4.47 to −3.56], p<0.001
+- nHAp (C): 12.1 → 6.7; Δ −5.36 [−5.99 to −4.72], p<0.001 (BEST)
+- Fluoride (D): 12.1 → 7.6; Δ −4.45 [−4.78 to −4.11], p<0.001
+
+Main group effect: F=438.4, p<0.001, partial η²=0.974 (very large). Baseline attachment number covariate NOT significant (p=0.470).
+
+Pairwise (Bonferroni): all active groups > control (p<0.001). nHAp superior to CPP-ACP (MD −1.34, p<0.001) and to fluoride (MD −0.91, p=0.019). CPP-ACP vs fluoride: no difference (MD −0.43, p=0.375).
+
+Temporal patterns: CPP-ACP and nHAp monotonic progressive reduction. Fluoride biphasic (drop T0→T1, transient rise T1→T2 as varnish reservoir depletes, further drop T2→T3 after re-application). Control progressive rise.
+
+Subgroups: age <18 vs ≥18 similar (p-interaction 0.84). Posterior teeth recovered slightly more than anterior (−6.1 vs −4.6, p=0.02), most in nHAp and fluoride.
+
+Adverse events: none (no hypersensitivity/gingival irritation/discoloration). Home-agent compliance >95%. 100% post-baseline retention. 5 pre-baseline withdrawals (2 CPP-ACP taste intolerance/dairy allergy concern, 1 nHAp relocation, 2 fluoride scheduling).
+
+Mechanisms/interpretation: nHAp nano-particles (20–80 nm) penetrate microscopic irregularities at attachment-enamel interface; dual mechanism (Ca/PO4 ion source + epitaxial crystal-growth template). Aligner used as delivery tray → prolonged contact time (advantage over fixed appliances). Fluoride varnish burst-then-decline kinetics → quarterly may be too infrequent for high-risk attachment sites. DIAGNOdent reduction ~5 units = shift from borderline demineralization back to "sound"; strong correlation with ICDAS-II (r=0.892). Economics: CPP-ACP/nHAp home ~US$10–30/mo; varnish ~US$20–50/application; preventing one cavitation offsets ~US$200/tooth restoration.
+
+Limitations: non-randomized allocation by preference (selection bias), small convenience sample (n=10/group, no a priori power calc; post-hoc power >0.99 due to huge effect size), single-center university, no blinding (mitigated by objective DIAGNOdent), single examiner, Group C had a more intensive protocol (professional + home) than others, baseline attachment imbalance (adjusted). Exploratory pilot — needs larger adequately powered RCTs.
