@@ -760,6 +760,7 @@ tags: []
 - [[endodontics/diagnosis/nair-2006-causes-persistent-apical-periodontitis-review]] — Nair 2006 · narrative-review · Landmark review systematizing six causes of persistent post-treatment apical periodontitis: intraradicular infection, extraradicular infection (actinomycosis), foreign-body reaction, cholesterol crystals, true cysts, scar tissue (DOI 10.1111/j.1365-2591.2006.01099.x)
 - [[endodontics/diagnosis/ricucci-2010-biofilms-apical-periodontitis-prevalence]] — Ricucci 2010 · cross-sectional · Histobacteriologic study (106 roots): intraradicular biofilms in 77% of canals (untreated 80%, treated 74%), rising with lesion size; assoc. with epithelialized lesions (cysts 95%, abscesses 83%, granulomas 69.5%; p<0.001) (DOI 10.1016/j.joen.2010.04.007)
 - [[endodontics/diagnosis/godoi-2025-lps-lta-clinical-features-secondary-endodontic]] — Godoi 2025 · cross-sectional · 재치료 40치: 전 근관서 LPS(5.1 EU/mL)·LTA(537.5 pg/mL) 검출; LPS↑가 큰 치근단 투과상·임상증상·결함 수복과 상관 (DOI 10.1111/aej.12963)
+- [[endodontics/diagnosis/alkhani-2026-optical-coherence-tomography-detection-dental]] — Alkhani 2026 · sr (scoping) · OCT로 치아균열·수직치근파절(VRF) 검출 — 민감도 83–98%/특이도 63–100%, 비방사선·실시간 장점이나 침투깊이 1–3mm 한계로 아직 실험실 단계 (DOI 10.1002/cre2.70323)
 
 ## 치간 청소 (Interdental Cleaning)
 - [[overviews/interdental-cleaning-devices-synthesis]] — **Overview** (Synthesis 2026-06-19, 8편+토스픽 overview): 치간 청소도구 종합 — 치실 vs 치간칫솔(IDB) vs 구강세정기/워터픽(WF) vs 토스픽법 비교·적응증 결정 트리. 핵심: 어느 도구도 *보편적* 우월 없음(순응도가 효능보다 중요), 치간칫솔이 들어가는 공간이면 1순위(IDB>floss 근거 다수), 치실은 좁은 접촉/순응 환자, 워터픽은 교정·임플란트·손재주 제약·치주염 보조에 강점; 나무 이쑤시개는 치간유두 위해라 권장 안 함
@@ -783,6 +784,7 @@ tags: []
 - [[interdental-cleaning/slekovec-2026-legionella-water-flosser-france-case-report]] — Slekovec 2026 · case-report (프랑스 증례 n=1: 비멸균 수돗물 물치실이 레지오넬라 Lp1 생물막 300 CFU/L을 품어, 골수종·자가이식 면역저하 환자의 병원내 레지오넬라병 균주와 전장유전체 동일(ST42); 물치실↔레지오넬라 첫 문헌 사례, 면역저하·병원 환경 감염관리 경고) (DOI 10.3201/eid3202.251386)
 
 ## 치주치료 (Periodontics)
+- [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Liang 2025 · consensus (Int J Oral Sci 전문가 합의) · 시멘트질 열개(cemental tear) 진단·감별(VRF/근관/치주)·위치기반 치료 결정트리; torn fragment 완전제거 원칙, CBCT 1차·조직병리 확진, 완전제거 후 1년 94% 잔존 (DOI 10.1038/s41368-025-00381-9)
 - [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — James 2017 · sr+ma (Cochrane, 51 RCT, 5,345명) · CHX 가글 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소; 농도별(0.05%/0.12%/0.2%) 효능 차이 없음; 착색 부작용 일관 (DOI 10.1002/14651858.CD008676.pub2)
 - [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — Solderer 2019 · sr (11편) · 치주·임플란트 수술 후 CHX 가글 치태 29–86%·출혈 73% 감소; 0.12% + 항착색 첨가 제형이 효능/부작용 최적 (DOI 10.1007/s00784-018-2761-y)
 - [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — Figuero 2019 · sr+ma (NMA, 53 RCT, 8,457명) · 가글 치은염 감소 순위: 에센셜오일 > CHX ≥0.10% ≈ triclosan; CHX 유효 임계 농도 0.10% (DOI 10.1111/jcpe.13127)
@@ -2323,6 +2325,8 @@ tags: []
 - [[endodontics/shaping/ozyurek-2017-protaper-cyclic-fatigue-sterilization]] — Taha Özyürek 2017 · in-vitro · ProTaper Universal/Next/Gold cyclic fatigue (n=240) — PTG > PTU+PTN baseline; 10× pre-autoclave raises NCF for PTN and PTG
 - [[endodontics/shaping/khalil-2019-edgeevolve-protaper-gold-cyclic-fatigue]] — Wafaa A. Khalil 2019 · in-vitro · EdgeEvolve vs PTG — EdgeEvolve superior fatigue/flexibility/surface smoothness in single and double curvature; equivalent Ni/Ti content
 - [[endodontics/shaping/siqueira-2018-unprepared-root-canal-surface-areas]] — Siqueira 2018 · narrative-review · Instruments leave ~10–50% of round/small canals and up to 80% of oval/flattened canals unprepared (worse apically), sheltering biofilm that drives post-treatment AP; rationale for supplementary disinfection (DOI 10.1590/1807-3107bor-2018.vol32.0065)
+- [[endodontics/shaping/lee-2026-residual-pericervical-apical-dentine-vertical]] — Lee 2026 · retrospective (case-control, 44 vs 92) · 근관치료 대구치 수직치근파절(VRF) — 치경부 아닌 치근단부 잔존 상아질 과소실이 최강 위험인자; 통합모델 AUC 0.940 (DOI 10.1002/cre2.70293)
+- [[endodontics/shaping/rathke-2024-ex-vivo-minimally-invasive-endodontic]] — Rathke 2024 · in-vitro · Ex vivo 상악중절치(n=18/군) — 최소침습 근관성형(#40/.04)이 관행확대(#80) 대비 VRF·균열 유의하게 줄이지 못함; +MIE/시멘트실러 오히려 무처치보다 저항성↓ (DOI 10.1038/s41598-024-63396-y)
 
 ### endodontics/visit-protocol (NEW subcategory, added 2026-06-13)
 
