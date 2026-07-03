@@ -1,0 +1,24 @@
+SOURCE: PubMed abstract (full text not retrieved — no PMC; paywalled)
+PMID: 34617805 | DOI: 10.1177/23800844211045897
+Eswaramurthy P, Aras M, DSouza KM, Nagarsekar A, Gaunkar RB.
+"Contemporary Sterilization Protocols of Healing Abutments for Reusability: A Systematic Review."
+JDR Clin Trans Res. 2022;7(4):352-359. (e-pub 2021-10-07)
+
+== ABSTRACT (full) ==
+Background: Although healing abutments (HAs) are designated for SINGLE USE by most implant manufacturers, clinicians commonly reuse them. There is a lack of adequate references describing detailed sterilization protocols for reuse.
+
+Purpose: Compile, organize, and describe the most common techniques for HA sterilization and their efficiency in eliminating traces of microorganisms.
+
+Methods: Electronic search of 5 databases (MEDLINE/PubMed, Embase, Cochrane CENTRAL, Web of Science, Google Scholar), Jan 2000–Dec 2020. Search variables: dental implant, healing abutment, contaminate, contamination, reuse, sterilization. Included studies: minimum sample size 10 HAs (5 per group), English. Risk of bias assessed.
+
+Results:
+- 812 articles identified → 8 included.
+- STEAM AUTOCLAVE was the most widely used form of resterilization.
+- NOT A SINGLE protocol was able to achieve 100% virgin surface of the healing abutments.
+
+Conclusions:
+- Although reuse of HAs is a cost-effective measure, thorough surface decontamination followed by resterilization is highly recommended before reuse.
+- Results useful for knowing sterilization protocols to inform more appropriate therapeutic decisions (with consideration of cost and patient preference).
+
+Study type: Systematic Review (JDR Clin Trans Res). MeSH: Dental Abutments, Dental Implants, Equipment Reuse, Steam, Sterilization, Surface Properties.
+Keywords: dental implant(s), disinfection, healing abutment, resterilization, reuse, sterilization.
