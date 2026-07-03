@@ -1674,6 +1674,7 @@ tags: []
 - [[overviews/bruxism-muscle-overload-axis]] — Synthesis 2026-06-03: 이갈이를 공통 상류 인자로 묶은 인과축 — 저작근 과활성 힘이 완충(PDL·임플란트주위) 초과 시 가장 약한 구조로 방전 → 하류 ①TMJ ②치아·보철(균열·마모) ③임플란트 late failure. 세 중재 매핑(스플린트=하류 완충, 교합조정=접촉 재형성·TMD 미지지, BoNT-A=상류 차단). 핵심 역설: BoNT-A는 과부하 힘↓이나 골유착도 손상(Deng 2023 동물)—임플란트 bruxer에서 양날의 검. btx·tmd-ladder overview와 병태생리로 차별화
 - [[tmj/kim-2023-treatment-tmj-osteoarthritis]] — Ji Rak Kim 2023 (대한치과의사협회지 특집) · narrative-review · TMJ 골관절염 치료 ladder: 자가관리→NSAIDs(GI 시 celecoxib)→교합안정장치(경성·전악·상하악 동등)→관절강세정술(HA+스테로이드)→수술 최후; 이개측두신경 마취 시 안면신경 측두가지 동반마취 주의
 - [[tmj/song-2023-understanding-tmj-osteoarthritis-pathophysiology]] — Hwanhee Song 2023 (대한치과의사협회지 특집) · narrative-review · TMJ OA 기전(과부하→저산소증/HIF-1→VEGF·MMP)·역학(여성·고령 우세하나 비일관)·진단(CT gold standard κ=0.71 vs MRI 0.46 vs 파노라마 0.16; DC/TMD 임상 민감도 0.55·특이도 0.61; 침식·연골하낭종이 단순 편평화보다 진단적)
+- [[tmj/macias-hernandez-2022-home-based-exercise-tmj-osteoarthritis]] — Macías-Hernández 2022 (대한구강악안면외과학회지 JKAOMS) · prospective(단일군 전후비교, n=15명·26관절, 임상+방사선 확진 TMJ OA) · 6개월 가정 물리치료(온열·마사지·스트레칭·관절가동·강화운동) → 통증·Helkimo 기능지수 중증→경증 유의개선(p=0.001), NSAID 사용 미미, 초음파 관절원판 관찰률 증가
 - [[tmj/valesan-2021-tmd-prevalence-sr-ma]] — SR+MA: 악관절증(TMD) 유병률 ~31%, 통증성 TMD ~11–13%; 여성 1.5–2배, 20–45세 호발
 - [[tmj/zhang-2020-occlusal-splint-tmd-rct-sr]] — RCT SR: 교합안정장치(Occlusal Splint)가 무처치 대비 통증 감소; 플라시보 장치 대비 우월성 근거 낮음 (Acta Odontol Scand 2020)
 - [[tmj/zhang-2021-exercise-vs-splint-tmd-sr-ma]] — SR+MA: 운동치료가 교합안정장치와 동등한 통증 감소; MMO 개선 일부 우위 (Ann Palliat Med 2021)
@@ -1683,6 +1684,7 @@ tags: []
 - [[tmj/zhu-2024-exercise-therapy-tmj-derangement-sr]] — SR: 악관절 내장증(TMJ Internal Derangement) 수술 후 조기 운동치료가 MMO·통증 유의 개선 (J Oral Rehabil 2024)
 - [[tmj/zhu-2020-btx-painful-tmd-sr-ma]] — SR+MA(20 RCT): 보툴리눔독소(BTX-A)가 근막통 위약 대비 유의 통증 감소; MMO 개선 없음
 - [[tmj/saini-2024-botulinum-toxin-tmd-sr-ma]] — SR+MA: BTX가 TMD 여러 아형에서 유의한 통증 감소 확인; Zhu 2020 업데이트 (PLoS ONE 2024)
+- [[tmj/ma-2026-comparison-ranking-interventions-tmd]] — Ma 2026 (中 간쑤중의약대학, BMC Oral Health) · sr+ma(베이지안 NMA, 14 RCT·674명) · TMD-근막통증증후군(MPS) 처방·주사 중재 순위: 리도카인주사·허혈성압박 SUCRA 1·2위(91.7%·88.7%)이나 기본치료 직접비교 없이 간접근거뿐 → 근거 매우낮음; PRP·레이저는 근거 낮음; 근이완제 단독은 유의차 없음
 - [[botulinum-toxin/serrera-figallo-2020-botulinum-toxin-orofacial-review]] — 서술 고찰: 구강안면 BTX 임상 적용 전반; 교근 25–75U, 측두근 15–50U 프로토콜 (Toxins 2020)
 - [[tmj/minakuchi-2022-sleep-bruxism-management-sr]] — SR: 수면이갈이(Sleep Bruxism) 관리 — 교합안정장치는 치아 보호만, 바이오피드백이 이갈이 빈도 감소 최고 근거 (Jpn Dent Sci Rev 2022)
 - [[tmj/bmj-2023-tmd-chronic-pain-management-guideline]] — BMJ 2023 임상진료지침: 만성 TMD 통증 보존적 치료 우선; BTX 불응성 근막통 조건부 권고; 비가역 교합처치 강력 반대
