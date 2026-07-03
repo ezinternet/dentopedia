@@ -6,9 +6,14 @@ A personal knowledge base of dental research papers, following [Karpathy's LLM W
 Original PDF → sources/*.md (LLM summary) → wiki/{category}/*.md (final page)
 ```
 
-**Language policy**: Wiki body content is in English (RAG-friendly, preserves technical terms). Every wiki page AND every source page carries a **bilingual one-line summary** as two separate sections, in this order: `## One-line Summary` (English) immediately followed by `## 한줄요약` (Korean). On wiki pages this pair sits immediately above `## Summary`; on source pages it sits immediately above `## 1. Document Information`. Both languages are mandatory for new pages. Conversation can be in any language (including Korean).
+**Language policy**: Wiki body content is in English (RAG-friendly, preserves technical terms). Every wiki page AND every source page carries a **bilingual three-line summary** as two separate sections, in this order: `## Three-line Summary` (English) immediately followed by `## 세줄요약` (Korean). On wiki pages this pair sits immediately above `## Summary`; on source pages it sits immediately above `## 1. Document Information`. Both languages are mandatory for new pages. Conversation can be in any language (including Korean).
 
-**Overview Korean digest (mandatory for `wiki/overviews/` pages)**: English body is too dense to skim in Korean, so every overview/synthesis page additionally carries a **`## 한국어 핵심요약` block at the very TOP** — placed immediately after the frontmatter, ABOVE `## One-line Summary`. Format it as an Obsidian callout `> [!summary] 한국어 핵심요약` with **~10 bullets** (longer is fine) capturing: the thesis/bottom line, key numbers, the main branches/decision points, contrasts/exceptions, and the clinical takeaway. Use the **한국어 (English, 약어)** term-notation rule inside the bullets. The English body stays intact (RAG policy unchanged) — this block is a Korean reading aid layered on top. Mandatory for all new overviews going forward.
+**Three-line Summary format**: Each section contains exactly three lines (blank line between each):
+- Line 1: Study type, n, context — what population/design was studied
+- Line 2: Primary result / key finding with numbers
+- Line 3: Clinical implication or key limitation
+
+**Overview Korean digest (mandatory for `wiki/overviews/` pages)**: English body is too dense to skim in Korean, so every overview/synthesis page additionally carries a **`## 한국어 핵심요약` block at the very TOP** — placed immediately after the frontmatter, ABOVE `## Three-line Summary`. Format it as an Obsidian callout `> [!summary] 한국어 핵심요약` with **~10 bullets** (longer is fine) capturing: the thesis/bottom line, key numbers, the main branches/decision points, contrasts/exceptions, and the clinical takeaway. Use the **한국어 (English, 약어)** term-notation rule inside the bullets. The English body stays intact (RAG policy unchanged) — this block is a Korean reading aid layered on top. Mandatory for all new overviews going forward.
 
 **Term notation rule**: When using technical/medical terms in conversation, ALWAYS write them as **한국어 (English, 약어)** format. Example: 골-임플란트 접촉률 (Bone-to-Implant Contact, BIC), 골밀도화 (Osseodensification, OD), 임플란트 안정성 지수 (Implant Stability Quotient, ISQ). No exceptions.
 
@@ -281,8 +286,8 @@ source_collection: external
 ---
 
 ## Why Ingested
-## One-line Summary
-## 한줄요약
+## Three-line Summary
+## 세줄요약
 ## 1. Document Information
 ## 2. Key Contributions
 ## 3. Methodology and Architecture
@@ -325,11 +330,15 @@ source_collection: external
 tags: []
 ---
 
-## One-line Summary
-(English one-liner: study type, n, key finding)
+## Three-line Summary
+(Line 1: study type, n, context — what was studied)
+(Line 2: primary result / key finding with numbers)
+(Line 3: clinical implication or key limitation)
 
-## 한줄요약
-(Korean one-liner: study type, n, key finding in plain Korean)
+## 세줄요약
+(줄1: 연구유형·n·맥락 — 연구 대상/설계)
+(줄2: 핵심 결과/수치)
+(줄3: 임상적 의미 또는 핵심 한계)
 
 ## Summary
 ## Key Contributions
@@ -383,7 +392,7 @@ superseded_scope: full                                # full | partial
 - `full` — the older page's conclusion is replaced; prefer the newer page for all current decisions.
 - `partial` — only part of the page is outdated, or the page retains standalone value (e.g. first-of-kind synthesis, historical anchor). Use this rather than overstating `full`.
 
-Plus a banner callout at the **top of the body** (right after frontmatter, before `## One-line Summary` / `## 한줄요약`). Obsidian and Quartz both render `[!warning]`/`[!note]` callouts natively — no build change:
+Plus a banner callout at the **top of the body** (right after frontmatter, before `## Three-line Summary` / `## 세줄요약`). Obsidian and Quartz both render `[!warning]`/`[!note]` callouts natively — no build change:
 
 ```markdown
 > [!warning] Superseded (full) → [[tisci-2026-isq-it-mbl-survival-sr-ma]]
