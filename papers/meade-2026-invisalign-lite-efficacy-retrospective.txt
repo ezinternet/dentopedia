@@ -1,0 +1,21 @@
+Title: Efficacy of planned overjet, overbite, arch depth and incisor labiolingual changes with the Invisalign Lite appliance: a retrospective analysis
+Authors: Meade MJ, et al.
+DOI: 10.2319/072725-633.1
+PMID: 41771498
+Source: PubMed abstract (full text not retrieved via PMC — abstract-only)
+
+Objectives
+
+To compare planned and achieved outcomes for an initial series of Invisalign Lite (Align Technology, Santa Clara, Calif) aligners regarding overjet, overbite, arch depth, and incisor labiolingual inclination.
+
+Materials and Methods
+
+Relevant data from adult patients satisfying inclusion criteria regarding overjet and overbite were obtained from the Align Technology treatment planning application. Metrology software was employed to calculate pretreatment, planned, and achieved arch depth and labiolingual measurements of maxillary and mandibular central incisors. Bland-Altman plots were used to demonstrate findings.
+
+Results
+
+Most (n = 95; 79.5%) of 122 patients satisfying selection criteria were female. For overjet, mean differences were +0.183 mm (SD: 0.557); differences did not lie outside the clinically acceptable interval ±0.5 mm. For overbite, mean difference of +0.746 mm (SD: 0.857), Bland-Altman plot showed a potential proportional bias, with discrepancies increasing as initial overbite increased. Across all arch depth subgroups, differences remained within an acceptable range, and no significant differences (p > .05) were detected between planned and achieved outcomes. Achieved mandibular incisor labiolingual inclination outcomes closely matched those planned with a mean difference of -1.088 degrees (SD = 2.78 degrees), whereas corresponding outcomes in the maxilla (-2.905 degrees [SD = 2.671 degrees]) indicated a consistent tendency for achieved to be lower than planned.
+
+Conclusions
+
+Although achieved overjet, arch depth and mandibular incisor labiolingual inclination measurements closely matched those planned, there were significant statistical and clinical differences between planned and achieved overbite and maxillary incisor labiolingual inclination measurements.
