@@ -785,6 +785,7 @@ tags: []
 
 ## 치주치료 (Periodontics)
 - [[periodontics/liang-2025-cemental-tear-diagnosis-treatment-consensus]] — Liang 2025 · consensus (Int J Oral Sci 전문가 합의) · 시멘트질 열개(cemental tear) 진단·감별(VRF/근관/치주)·위치기반 치료 결정트리; torn fragment 완전제거 원칙, CBCT 1차·조직병리 확진, 완전제거 후 1년 94% 잔존 (DOI 10.1038/s41368-025-00381-9)
+- [[periodontics/lee-2025-prevalence-classification-factors-cemental-tears]] — Lee 2025 · cross-sectional (홍콩 근관치료 클리닉, 치아 445개) · 시멘트질 열개 유병률 5.6%(PR+고해상도 CBCT 병용, PR단독 40% 누락), 다변량 독립위험인자 4개: 전치부·동요도·심한 치조골소실·적절한 근관충전(OR 8.38) (DOI 10.1111/iej.70042)
 - [[periodontics/james-2017-chlorhexidine-mouthrinse-adjunctive-gingival]] — James 2017 · sr+ma (Cochrane, 51 RCT, 5,345명) · CHX 가글 치태 대폭 감소(SMD 1.45)·치은염 소폭 감소; 농도별(0.05%/0.12%/0.2%) 효능 차이 없음; 착색 부작용 일관 (DOI 10.1002/14651858.CD008676.pub2)
 - [[periodontics/solderer-2019-chlorhexidine-rinses-periodontal-surgery]] — Solderer 2019 · sr (11편) · 치주·임플란트 수술 후 CHX 가글 치태 29–86%·출혈 73% 감소; 0.12% + 항착색 첨가 제형이 효능/부작용 최적 (DOI 10.1007/s00784-018-2761-y)
 - [[periodontics/figuero-2019-adjunctive-antiplaque-chemical-agents-gingivitis]] — Figuero 2019 · sr+ma (NMA, 53 RCT, 8,457명) · 가글 치은염 감소 순위: 에센셜오일 > CHX ≥0.10% ≈ triclosan; CHX 유효 임계 농도 0.10% (DOI 10.1111/jcpe.13127)
@@ -1152,6 +1153,8 @@ tags: []
 - [[endodontics/regenerative/torabinejad-2017-ret-mta-apical-plug-sr-ma]] — 미성숙 치수괴사치 RET vs MTA apical plug SR+MA: 생존율(RET 97.8%/MAP 97.1%), 성공율(RET 91.3%/MAP 94.6%) — 유의차 없음, 근거 수준 낮음.
 - [[endodontics/regenerative/zhou-2022-regenerative-endodontic-immature-teeth-trauma]] — 외상 미성숙 영구치(IPT) 재생근관치료(REP) 접근법 비교 리뷰 (Front Dent Med 2022): 치수보존술·Ca(OH)₂·MTA 근단폐쇄·혈관재생 등 장단점 비교; 근단폐쇄 vs 근관발달 재개 목표 구분; 술식 이질성 높아 표준 프로토콜 미정.
 - [[endodontics/regenerative/alovisi-2026-intracanal-medicaments-regenerative-endo-sr-ma]] — SR+MA (Int Endod J 2026): intracanal medicaments (TAP/DAP/Ca(OH)₂) in REP — which medicament optimizes regenerative outcomes
+- [[endodontics/regenerative/li-2026-white-mta-regenerative-apexification-immature]] — SR+MA (Int Dent J 2026, PMC 풀텍스트, 15편): 미성숙 영구치 WMTA 방사선학적 성공 pooled 0.99(6편) — GRADE 매우낮음; PC vs BC 스캐폴드 OR 3.56(NS); WMTA vs 대체 bioceramic 변색률 58.33% vs 7.69%(p=.01)
+- [[endodontics/regenerative/alqedairi-2026-regenerative-endodontic-procedures-immature]] — narrative-review (Cureus 2026, PMC 풀텍스트): REP 생물학적 기전(SCAP·스캐폴드·성장인자)·임상 프로토콜·예후인자 개괄 — 치근단 치유 85–94%, 치근발달 74–81%, 감각회복 25–70%(불확실), 형성조직은 진성 치수 아님
 
 ## 레진접착 (Resin Bonding)
 - [[resin-bonding/delgado-2025-functional-monomers-dental-adhesive-technology]] — Delgado 2025 · narrative-review · 4-META는 카르복실산계 단량체로 수용액서 4-MET로 가수분해(pKa 2.9), 10-MDP·GPDM보다 결합·가수분해안정성 열세 (DOI 10.3290/j.jad.c_2297)
