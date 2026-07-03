@@ -1,0 +1,521 @@
+# Comparative efficacy of sodium hypochlorite, silver nanoparticles, and chitosan nanoparticles on gutta-percha cone disinfection and topographical changes analyzed by atomic force microscopy: Anstudy
+
+DOI: 10.4103/JCDE.JCDE_804_24
+
+## ABSTRACT
+Context:
+
+Evaluation of newer nanoparticle-based disinfectants for the disinfection of contaminated gutta-percha cones and surface topographical changes induced by them.
+
+Aim:
+
+To evaluate the effectiveness of sodium hypochlorite (NaOCl), silver nanoparticles (AgNPs) solution, and chitosan nanoaparticles (ChNPs) solution for the disinfection of gutta-percha cones contaminated with(MTCC 441) and(MTCC 227) and the topographical changes induced by them.
+
+Methods:
+
+Minimum inhibitory concentration and minimum bactericidal concentration of NaOCl, AgNPs, and ChNPs againstandwere determined by the broth microdilution method and colony-forming unit assay, respectively. Gutta-percha cones were artificially contaminated withand. Contaminated cones were immersed for 1, 3, and 5 min in 2.62% NaOCl, 5.25% NaOCl, 250 µg/ml AgNP’s, and 625 µg/ml ChNPs solution, and the mean colony-forming units (CFUs) were evaluated after disinfection. Topographical changes induced by these agents at different time intervals were assessed by atomic force microscopy (AFM).
+
+Statistical Analysis:
+
+The data were analyzed by a two-way analysis of variance and Bonferronitest performed using licensed GraphPad Prism (v5.0).
+
+Results:
+
+NaOCl was the most effective disinfectant, eliminating both microorganisms within 1 min of immersion time. AgNPs and ChNPs showed no CFU units at 5 min of immersion time againstbut were able to eliminatewithin 1 min of immersion. AFM analysis showed that, with all disinfectants on increasing time of immersion, the topographical changes become significant in comparison to the control.
+
+Conclusion:
+
+NaOCl at both concentrations was the most effective disinfectant, causing minimal topographical alterations at 1 min of immersion time.
+
+## FULL TEXT
+INTRODUCTION
+
+The main objective of endodontic therapy is to maintain an aseptic chain starting at the access opening and continuing until the permanent coronal restoration is placed.[] The root canal space has traditionally been sealed using gutta-percha and a sealant.[] The natural latex substance gutta-percha is extracted from the sap of several plants and is recommended due to its biocompatibility and capacity to successfully seal the root canal region.[] Although gutta-percha cones are normally produced and packed in a sterile setting, research has shown that recently opened boxes can also harbor microbes. In addition, these cones may become infected by other microbes once they are exposed to the dental office environment.[] Gutta-percha cannot be sterilized using conventional autoclaving techniques due to its thermoplastic nature.[] Therefore, chairside chemical disinfection must be employed before obturation.[] Many chemical agents, such as alcohol, MTAD, glutaraldehyde, hydrogen peroxide, iodine compounds, and NaOCl, have been used.[] Senia. suggested immersing gutta-percha cones in 5.25% NaOCl for 1 min to disinfect them.[] Due to its strong oxidizing properties, NaOCl can enhance the flexibility of gutta-percha cones and also deposition of chloride crystals on their surface and may result in surface deterioration of gutta-percha cones.[] An ideal disinfecting solution should be able to decontaminate the gutta-percha cones quickly and cause minimal damage to their surface. Nanoparticle-based medicaments are currently focused in many studies and have been shown to be effective. AgNPs offer a wide range of antibacterial activities and are harmless to humans when present at low doses.[] AgNPs attack the respiratory chain and cell division, leading to cell death.[] Polycationic chitosan nanoaprticles solution composition (ChNPs) interacts with the negatively charged surface of bacteria and alters their cellular permeability. ChNPs decrease the chances of bacterial penetration by preventing enzymatic breakdown by bacteria.[]
+
+The purpose of this study was to assess and compare the effectiveness of sodium hypochlorite (NaOCl), silver nanoparticles (AgNPs), and chitosan nanoparticles (ChNPs) in disinfecting gutta-percha cones, as well as to examine the surface topographical alterations caused by these disinfectants at various time intervals using an atomic force microscope (AFM).
+
+METHODS
+
+Three different solutions were used for the disinfection of gutta-percha cones. A stock solution of 1000 ppm concentration AgNPs of average particle size 40 nm dispersed in distilled water was obtained from (Nano Wings Pvt. Ltd., Khammam, Telangana, India).[] ChNPs of average particle size 50–500 nm was obtained from (Nano Wings Pvt. Ltd., Khammam, Telangana, India.) 2.5 mg of ChNPs powder was mixed with 2 ml of 1% acetic acid to obtain a 1.25 mg/mL stock solution.[] 5.25% NaOCl (PPH CERKAMED) was used. The testing time for disinfection of gutta-percha cones was 1, 3, and 5 min. A total of 335 gutta-percha cones of size F1 Protaper (DENTSPLY MAILLEFER) taken from freshly opened boxes were used for the study.
+
+Culture of bacterial and fungal cells and determination of minimum inhibitory concentration and minimum bactericidal concentration
+
+Lyophilized(MTCC 441) cells and(MTCC 227) cells were revived in brain heart infusion (BHI) broth. Then bacterial and fungal cells were revived on BHI Agar plates and Sabouraud dextrose agar (SDA) plates, respectively, to obtain isolated cultures.
+
+The minimum inhibitory concentration (MIC) was determined by the Broth microdilution method using serial two-fold dilutions of the medication with an adjusted bacterial concentration (10CFU/ml, 0.5 McFarland’s standard). The microtiter plate was incubated for 24 h at 37 °C. To verify the MIC value, turbidity was measured both before and after incubation.[] The positive control contained inoculated broth and no medicament. The negative control was uncontaminated broth.
+
+The colony-forming unit (CFU) method was employed to ascertain minimum bactericidal concentration (MBC). 50 µl aliquots of MIC broth that did not exhibit any apparent turbidity were inoculated on culture plates containing Mueller–Hinton Agar at 37 °C. The MBC for that antimicrobial agent was noted if the number of CFUs was fewer than thirty.[]
+
+Artificial contamination of gutta-percha cones
+
+To test antimicrobial activity, 270 F1 Protaper gutta-percha cones (DENTSPLY MAILLEFER) were used in the experiment. One hundred and thirty gutta-percha cones were contaminated with(Group 1), and 130 gutta-percha cones were contaminated with(Group 2) by immersing them in BHI broth containing approximately 10CFU/mL of microbial suspension in Eppendorf tubes and incubating for 30 min at 37°C.[] Group 1 and Group 2, further divided into four subgroups (= 30) according to disinfecting solution, i.e. Group A (5.25% NaOCl), Group B (2.62% NaOCl),Group C (250 µg/ml AgNPs) solution, and Group D (625 µg/ml ChNPs) solution, while 10 contaminated cones from both groups were left untreated and used as positive control. Ten cones from each subgroup were immersed for three time periods, i.e., 1 min, 3 min, and 5 min in the respective disinfectant solution. Ten uncontaminated cones from a freshly opened box were used as a negative control.
+
+Disinfection of gutta-percha cones
+
+The contaminated gutta-percha cones were transferred to Eppendorf tubes containing test solutions and kept immersed for different experimental times. After their removal from the test solutions, each cone was then transferred into a test tube containing 10 ml of thioglycollate broth and incubated for 24 h at 37°C. After incubation, 100 µl of the thioglycollate broth was spread plated over BHI agar petri plates forand SDA petri plates forand incubated for 24 h at 37°C.[] The CFUs were recorded.
+
+Topographical examination of gutta-percha cones using atomic force microscopy
+
+Sixty-five gutta-percha cones were used to analyze the topographical changes. Sixty gutta-percha cones were equally divided into four intervention groups (= 15) based on the disinfectant used, and each group was further subdivided into three groups according to the time of immersion, i.e., 1 min, 3 min, and 5 min (= 5). After disinfection, gutta-percha cones were thoroughly rinsed with deionized water and dried with filter paper. Each sample was sectioned 3 mm from the tip and then glued on a glass slide using cyanoacrylate adhesive.[] Gutta-percha cones were analyzed under AFM (Bruker Dimension Icon) using tapping mode imaging. The images were processed with the help of Bruker Nanoscope software v8.15.
+
+Statistical analysis
+
+The data were analyzed by a two-Way analysis of variance and Bonferronitest performed using licensed GraphPad Prism (v5.0).
+
+RESULTS
+
+The results of MIC and MBC are listed in.
+
+All disinfectants completely eliminatedafter 1 min of immersion. NaOCl at both concentrations, i.e., 2.62% and 5.25%, was found to be most effective in eliminatingafter 1 min of immersion. AgNPs and ChNPs showed zero CFU againstwhen the immersion time was 5 min. ChNPs were significantly more effective compared to AgNPs at 1 min and 3 min of immersion (< 0.05) [].
+
+Topographical examination reveals decreased surface roughness as the time of immersion increases. 1 min of immersion time resulted in insignificant changes compared to the control except for AgNPs. All the disinfectants showed significant topographical changes after 3 min and 5 min of immersion in comparison to the control (< 0.05) [and].
+
+Table 1
+
+Minimum inhibitory concentration and minimum bactericidal concentration values of disinfectants
+
+Disinfectants
+
+B. subtilis
+
+C. albicans
+
+MIC (g/mL)
+
+MBC (g/mL)
+
+MIC (g/mL)
+
+MBC (g/mL)
+
+5.25% NaOCl
+
+4653
+
+19,513
+
+4653
+
+4653
+
+AgNPs
+
+31.25
+
+62.5
+
+250
+
+250
+
+ChNPs
+
+312.25
+
+625
+
+312.25
+
+625
+
+MIC: Minimum inhibitory concentration, MBC: Minimum bactericidal concentration, AgNPs: Silver nanoparticle solution, ChNPs: Chitosan nanoparticle solution, NaOCl: Sodium hypochlorite,
+
+Table 2
+
+Comparison of mean number of colonies among different disinfectant solutions at different time of immersion
+
+Time (min)
+
+Organism
+
+Group
+
+n
+
+Mean (CFU)
+
+SD
+
+P
+
+1
+
+B. subtilis
+
+5.25% NaOCl
+
+10
+
+0
+
+0
+
+5.25% NaOCl versus AgNPs -<0.055.25% NaOCl versus ChNPs -<0.05
+
+2.62% NaOCl
+
+10
+
+0
+
+0
+
+250 μg/mL AgNPs
+
+10
+
+4121.2
+
+248.13
+
+625 μg/mL ChNPs
+
+10
+
+3.7
+
+0.45
+
+C. albicans
+
+5.25% NaOCl
+
+10
+
+0
+
+0
+
+2.62% NaOCl
+
+10
+
+0
+
+0
+
+250 μg/mL AgNPs
+
+10
+
+0
+
+0
+
+625 μg/mL ChNPs
+
+10
+
+0
+
+0
+
+3
+
+B. subtilis
+
+5.25% NaOCl
+
+10
+
+0
+
+0
+
+5.25% NaOCl versus AgNPs -<0.05
+
+2.62% NaOCl
+
+10
+
+0
+
+0
+
+250 μg/mL AgNPs
+
+10
+
+341
+
+27.23
+
+625 μg/mL ChNPs
+
+10
+
+1.4
+
+0.48
+
+C. albicans
+
+5.25% NaOCl
+
+10
+
+0
+
+0
+
+2.62% NaOCl
+
+10
+
+0
+
+0
+
+250 μg/mL AgNPs
+
+10
+
+0
+
+0
+
+625 μg/mL ChNPs
+
+10
+
+0
+
+0
+
+5
+
+B. subtilis
+
+5.25% NaOCl
+
+10
+
+0
+
+0
+
+_
+
+2.62% NaOCl
+
+10
+
+0
+
+0
+
+250 μg/mL AgNPs
+
+10
+
+0
+
+0
+
+625 μg/mL ChNPs
+
+10
+
+0
+
+0
+
+C. albicans
+
+5.25% NaOCl
+
+10
+
+0
+
+0
+
+2.62% NaOCl
+
+10
+
+0
+
+0
+
+250 μg/mL AgNPs
+
+10
+
+0
+
+0
+
+625 μg/mL ChNPs
+
+10
+
+0
+
+0
+
+AgNPs: Silver nanoparticle solution, ChNPs: Chitosan nanoparticle solution, NaOCl: Sodium hypochlorite,, CFU: Colony-forming unit
+
+Table 3
+
+Comparison of root mean square values among control and all disinfectants at different time of immersion
+
+Time (min)
+
+Group
+
+n
+
+Mean (RMS)
+
+SD
+
+P
+
+0*
+
+Control
+
+5
+
+124.6
+
+9.35
+
+1
+
+5.25% NaOCl
+
+5
+
+103.08
+
+36.25
+
+Control versus AgNPs -<0.05
+
+2.62% NaOCl
+
+5
+
+108
+
+23.04
+
+250 μg/mL AgNPs
+
+5
+
+76.2
+
+14.34
+
+3
+
+625 μg/mL ChNPs
+
+5
+
+121.2
+
+19.56
+
+Control versus all disinfectants -<0.05
+
+5.25% NaOCl
+
+5
+
+45.36
+
+6.17
+
+2.62% NaOCl
+
+5
+
+60
+
+6.32
+
+250 μg/mL AgNPs
+
+5
+
+52.6
+
+7.36
+
+625 μg/mL ChNPs
+
+5
+
+79.6
+
+9.89
+
+5
+
+5.25% NaOCl
+
+5
+
+40.20
+
+108
+
+Control versus all disinfectants -<0.05
+
+2.62% NaOCl
+
+5
+
+43.86
+
+121.2
+
+250 μg/mL AgNPs
+
+5
+
+43.4
+
+6.11
+
+625 μg/mL ChNPs
+
+5
+
+39.96
+
+3.11
+
+*Fresh gutta percha cones taken from the box RMS: Root mean square, AgNPs: Silver nanoparticle solution, ChNPs: Chitosan nanoparticle solution, NaOCl: Sodium hypochlorite
+
+Figure 1
+
+Tapping mode atomic force microscopy three-dimensional images of untreated and treated gutta-percha cone samples according to time of immersion for each group
+
+DISCUSSION
+
+The present study was undertaken to evaluate and compare the disinfection efficacy and topographical alterations caused by NaOCl, AgNPs, and ChNPs on contaminated gutta-percha cones for three different immersion times.is responsible for refractory apical periodontics because it can create enormous amounts of exopolysaccharides and create biofilms to sustain the host habitats.[]is the yeast species most frequently recovered from root canals requiring retreatment and from cases of persistent infection.[] They can attach to and penetrate dentine due to multiple virulence factors.
+
+In our study, we used AgNPs of average size of 40 nm and found the MIC and MBC againstat 31.25 µg/ml and 62.5 µg/ml, while forat 250 µg/ml, respectively. Rupareliaused AgNPs of average size of 3 nm and found the MIC and MBC againstat 40 μg/mL and 60 μg/mL.[] Agnihotrievaluated the antimicrobial activity of AgNPs of varying sizes ranging from 5 to 100 nm. The MIC and MBC were found to be in the range of 30–120 μg/mL and 40–140 μg/mL against.[] Jalalassessed the antifungal activity of AgNPs with an average size range of 10–100 nm againstspecies and found the MIC in the range of 0.125–0.250 mg/ml and the minimum fungicidal concentration in the range of 0.250–0.500 mg/ml.[] The antimicrobial activity of nanoparticles depends upon their size; as the size increases, the antimicrobial activity decreases. Variation in the MIC and MBC values among studies may be due to differences in size of the nanoparticles.
+
+In our study, we used ChNPs with an average size range of 50–500 nm and found the MIC and MBC againstandat 312.5 µg/ml and 625 µg/ml, respectively. Similar results have been reported by other studies, like Wuused ChNPs and found MIC and MBC againstto be 312.5 µg/ml and 1250 µg/ml, respectively.[] Ingused ChNPs to assess its antifungal activity, and the MIC of ChNPs againstwas between 250 and 850 µg/ml.[]
+
+In our study, the MIC and MBC of NaOCl againstwere found to be 0.625%(4,653 µg/ml) and 2.62% (19,513 µg/ml), while forwere 0.625% (4653 µg/ml), respectively. However, Amin. found the MIC of NaOCl againstto be 25 mg/ml.[] Arslanfound the MIC and MBC of NaOCl againstranged from 0.3% to 1%, respectively.[]
+
+In our study, the antimicrobial effect of these agents on contaminated gutta-percha was evaluated by counting the CFU units at different immersion times of 1, 3, and 5 min. NaOCl at both concentrations was found to be most effective in removing both microorganisms within 1 min of immersion time (> 0.05). Many studies have reported the efficacy of NaOCl in disinfecting the gutta-percha within 1 min of immersion time.[] AgNPs and ChNPs eliminatedwithin 1 min of immersion time, but 5 min of immersion time were required to eliminate. Although the mean CFU count for ChNPs was significantly less compared to AgNPs at 1 min and 3 min of immersion time, showed it to be more effective than AgNPs. Various studies have evaluated the antimicrobial efficacy of AgNPs and ChNPs when used as intracanal medicaments and found these agents to be effective.[] However, no study has evaluated their potency for disinfection of gutta-percha cones.
+
+The SEM has been the go-to tool for examining gutta-percha cone surface properties, but it only provides a 2-D image and is unable to provide quantitative information about the topography. AFM is an extensively employed technique for studying the topography of many different materials quantitatively.[] AFM in tapping mode was used in our study because the benefits of tapping-mode operation include improved lateral resolution and the removal of the lateral stress that ruins the surface in contact mode imaging.[] A statistical indicator of a variable quantity’s magnitude is called the root mean square (RMS), and it gives quantitative assessments of deviations in topography [and].[] A decrease in RMS value indicates the deteriorative effect of disinfectants on the gutta-percha cones.[] Pradofound in their investigation that fresh gutta-percha cones have a huge variation in RMS value without any disinfection treatment.[]
+
+All the medicaments decreased the RMS value in comparison to control at 1 min of immersion; however, only AgNPs showed a significant decrease. After 3 min and 5 min of immersion, all the disinfectants caused a significant decrease in RMS value, indicating the deleterious effect of these agents on gutta-percha cones. The difference in the RMS value in comparison to the control increases with increasing immersion time. Many studies have reported topographical alterations caused by NaOCl on gutta-percha cone surfaces.[] Karunakarevaluated the topographical alterations caused by the effects of 5.25% NaOCl, 70 µg/ml AgNPs, and 1.5 mg/ml ChNPs solution for 1 min of immersion and showed a significant deteriorative effect of NaOCl compared to AgNPs and ChNPs.[] Similarly, Mishra and Tyagi evaluated the topographical changes induced by 5.25% NaOCl, 70 µg/ml AgNPs for 1 min of immersion and found NaOCl caused 10 times more alterations than AgNPs.[] The difference may be due to different brands and sizes of gutta-percha cones used and the concentration of AgNPs.
+
+CONCLUSION
+
+AgNPs and ChNPs were effective in eliminating microorganisms from gutta-percha cones but required 5 min of immersion, and their effect on gutta-percha surface topography was significant during this immersion time. Both microorganisms were effectively eradicated by NaOCl at concentrations of 2.62% and 5.25% within <1 min of immersion, with no significant surface changes observed compared to the control in 1 min of immersion time.
+
+Conflicts of interest
+
+There are no conflicts of interest.
