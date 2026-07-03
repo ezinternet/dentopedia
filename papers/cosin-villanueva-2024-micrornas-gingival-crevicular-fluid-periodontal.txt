@@ -1,0 +1,163 @@
+# Study of microRNAs in Gingival Crevicular Fluid as Periodontal Diseases Biomarkers: Systematic Review
+
+DOI: 10.3390/ijms25158274  PMCID: PMC11311819  PMID: 39125843
+
+## Abstract
+
+Aim: The aim of this review was to identify the microRNAs (miRNAs) present in gingival crevicular fluid (GCF) that can be used as biomarkers for the diagnosis of periodontal diseases, and to determine which of them has a higher diagnostic yield for periodontitis. Methods: The review was conducted following the Preferred Reporting Items for Systematic Reviews and Meta-Analysis guidelines (reference number CRD42024544648). The Pubmed, Scopus, Cochrane Library, Embase, Web of Science, and Google Scholar databases were searched for clinical studies conducted in humans investigating periodontal diseases and miRNAs in GCF. The methodological quality of the articles was measured with the Newcastle–Ottawa Scale. Results: A total of 3222 references were identified in the initial literature search, and 16 articles were finally included in the review. The design of the studies was heterogeneous, which prevented a meta-analysis of the data. Most of the studies compared miRNA expression levels between patients with periodontitis and healthy controls. The most widely researched miRNA in periodontal diseases was miR-200b-3p and miR-146a. Conclusions: the miRNAs most studied are miR-146a, miR-200b, miR-223, miR-23a, and miR-203, and all of them except miR-203 have an acceptable diagnostic plausibility for periodontitis.
+
+## Full Text
+
+1. Introduction
+
+Periodontitis is a chronic, multifactorial, and immunoinflammatory disease of microbial etiology, characterized by the destruction of the supporting dental tissues, which can lead to tooth loss [].
+
+The main etiological factor is the bacteria living in the biofilm []. A biofilm dysbiosis initiates the innate immune response which, in an effort to protect the organism, can in some individuals produce an exaggerated inflammatory immune response. This response can contribute to establishing a chronic low-grade inflammatory environment over long periods, thus contributing to the pathogenesis of periodontitis [,].
+
+This is why inflammation and the immune response play a fundamental role in the pathogenesis of periodontitis. Any change in gene expression can alter the responses to inflammation and immunity. The process by which gene expression is modified without altering the DNA sequence is known as epigenetics [].
+
+Epigenetics includes processes such as DNA methylation, chromatin remodeling, histones post-translational modification, and non-coding RNAs, such as microRNAs (miRNAs) [].
+
+MiRNAs are short non-coding RNAs (19–24 nucleotides in length) that function through translational inhibition or mRNA destabilization via specific sequence binding sites within the 3′ untranslated region (UTR) of genes []. They regulate post-transcriptional gene expression, thereby influencing many biological processes in human cells that depend on DNA transcription and protein synthesis [].
+
+MiRNAs are considered an epigenetic mechanism that regulates gene expression and consequently modulates various cellular processes, such as cell growth, apoptosis, and cellular differentiation. Additionally, miRNAs play a fundamental role in inflammatory responses and in the development of diseases [].
+
+Systemic diseases such as cardiovascular diseases (CVD) [], diabetes mellitus (DM) [,,], obesity [], and rheumatoid arthritis (RA) [,], all characterized by low-grade inflammation similar to that produced in periodontitis, are associated with alterations in miRNA levels.
+
+Currently, clinical parameters such as clinical attachment loss (CAL), probing pocket depth (PPD), the presence and extent of angular bone defects, and the presence of furcation lesions, among others, are used to evaluate periodontal diseases. These parameters are aimed at determining the treatment and prognosis of the pathology. Therefore, their utility is limited for establishing an early diagnosis. Hence, identifying biomarkers that support the early diagnosis of periodontal diseases could be useful in reducing its incidence [,].
+
+The most notable therapeutic importance of using a biomarker such as miRNA lies in its potential to detect periodontitis at an early stage, when periodontal tissue lesions are not yet clinically detectable. Consequently, this allows for early treatment of the disease to halt its progression before periodontal lesions are established [].
+
+When miRNAs are overexpressed or underexpressed, they can lead to changes in gene expression that may contribute to the onset and/or clinical progression of periodontitis []. Dysregulation of miRNAs can be detected in various bio-fluids such as serum, saliva, urine, gingival crevicular fluid (GCF), or cerebrospinal fluid. This makes them ideal candidates as specific and sensitive biomarkers for the diagnosis and prognosis of many diseases [,].
+
+The reason biofluids were proposed as excellent sources for miRNA biomarker research includes the ease of isolation and identification of miRNAs using quantitative polymerase chain reaction (qPCR), the less invasive nature of miRNA sample collection, and their high stability in various biofluids [].
+
+In the context of periodontium, the most important biofluid is GCF. It flows passively from the gingival sulcus at the interface between the tooth and adjacent gum tissue. The volume of GCF increases and its composition alters according to the inflammatory status or disease of a specific periodontal site [,].
+
+In recent years, numerous studies were published on the relationship between miRNAs and periodontal diseases, yet there is considerable heterogeneity in the literature regarding the miRNAs studied. The objective of this systematic review was to identify and summarize which miRNAs present in human GCF can be used as biomarkers for the diagnosis of periodontal diseases, and to determine which of them show the highest diagnostic performance for periodontitis.
+
+2. Materials and Methods
+
+The present review followed the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analysis (PRISMA) 2020 statement [], whose item compliance list can be seen in. The protocol was registered in PROSPERO under ID: CRD42024544648. Available at:(accessed on 23 July 2024)
+
+The Population, Exposition, Comparison, Outcome (PECO) question [] formulated was as follows: Population (humans), Exposure (miRNAs expression in GCF), Comparison (healthy individuals), and Outcome (diagnosis of periodontal diseases). Therefore, the research question to be addressed was: What are the miRNAs present in human GCF that can be used as diagnostic biomarkers to differentiate subjects with periodontal disease from healthy individuals?
+
+The inclusion criteria were cross-sectional, case-control, cohort, or experimental studies conducted in humans; using samples of GCF; addressing periodontitis and gingivitis; and analyzing miRNAs.
+
+Regarding the exclusion criteria, studies lacking a control group or in vitro experimentation studies were excluded.
+
+To retrieve all relevant studies that addressed the PECO question formulated, a rigorous search was conducted on 26 January 2024, across the following databases: PubMed, Scopus, Web of Science, Embase, Cochrane Library, and Google Scholar. No language or time limits were applied. The search was updated on 30 May 2024.
+
+Additionally, a manual search was conducted on published systematic reviews on the topic, and the reference lists of articles used in this review were consulted.
+
+To formulate the search strategy, a terminological analysis was initially performed. The process of formulating the search equations and their application in each of the databases was carried out by a single researcher (M.C.-V.).
+
+The generic search strategy used was as follows: (“MicroRNAs” OR “MicroRNA” OR “miRNA” OR “miRNAs” OR “Micro RNA” OR “Micro RNAs” OR “mi-RNA” OR “mi-RNAs” OR “Primary MicroRNA” OR “Primary miRNA” OR “pri-miRNA” OR “pri miRNA” OR “pre-miRNA” OR “pre miRNA” OR “stRNA” OR “Small Temporal RNA”) AND (“Periodontal disease” OR “Periodontal diseases” OR “Gingivitis” OR “Periodontitis” OR “Gingival” OR “Periodontal” OR “Parodontosis” OR “Parodontoses” OR “Pyorrhea Alveolaris”).
+
+This strategy was adapted for each of the databases consulted, as detailed in, aiming to strike a balance between precision and comprehensiveness. Therefore, the search was conducted by title and abstract, and using indexed terms in the MeSH thesaurus for PubMed and indexed terms in the Emtree thesaurus for Embase.
+
+The article selection process, after removing duplicates, was independently conducted by two researchers (M.C.-V. and P.J.A.-P.) who evaluated the title and abstract. In cases of uncertainty, a third researcher (A.L.-R.) was consulted. Articles that could not be decisively rejected based on title and abstract were reviewed in full text.
+
+Following this initial screening, all selected articles were read in full text to determine their inclusion or exclusion. Reasons for exclusion were noted for rejected articles.
+
+The quality of observational studies included in the review was assessed using the Newcastle–Ottawa Quality Assessment Scale (NOS) for case-control studies. This scale, developed by Wells et al. in 2000 [], evaluates eight items to determine the methodological quality of the study under analysis. These items are divided into three categories: selection, comparability, and exposure/outcome. Each observational study could score a maximum of nine points.
+
+The quality assessment was conducted independently by two researchers (M.C.-V. and P.J.A.-P.), with a third researcher (A.L.-R.) consulted in case of uncertainty.
+
+From each article, the following data were extracted: author and year of publication, country, study type, sample size, age, type of periodontal diseases studied, and the classification used, miRNAs studied, and outcomes (miRNA expression levels, area under the curve, and sensitivity and specificity as a diagnostic tool).
+
+Data extraction was also independently performed by two researchers (M.C.-V. and P.J.A.-P.), with a third researcher (A.L.-R.) consulted in case of uncertainty.
+
+The results were collected and synthesized in different Excel tables based on the objectives set to facilitate the comparison and analysis of the various extracted data.
+
+3. Results
+
+3.1. Study Selection
+
+The search strategy was conducted across six different databases, yielding: 581 documents in PubMed, 831 in Embase, 845 in Scopus, 876 in Web of Science, 12 in Cochrane Library, and 77 in Google Scholar. In total, 3222 documents were retrieved, and after removing duplicates (= 2091) across databases, 1131 remained for title and abstract screening.
+
+Manual searching did not yield any articles not previously retrieved through electronic search.
+
+Initial screening after title and abstract review excluded 1106 documents. Most were excluded because they were literature reviews or editorials (= 359), in vitro or animal studies (= 445), not related to the research question (= 15), studying other genetic mechanisms or pathologies (= 190), retracted studies (= 7), or investigating miRNA expression in samples other than GCF (= 90).
+
+Twenty-five articles met the inclusion criteria or lacked sufficient information in the title and abstract for rejection. Upon full-text reading, nine articles were excluded (). Reasons for exclusion were review article (= 2), duplicate publication (= 1), in vitro experimental study (= 3), and investigating miRNA expression in samples other than GCF (= 3).
+
+Therefore, sixteen articles were finally included in the qualitative review. The PRISMA flow diagram () summarizes the article selection process.
+
+3.2. Quality Assessment
+
+Quality assessment for observational studies is detailed in. Overall, the quality assessment showed positive outcomes, as 13 out of the 16 included studies demonstrated good quality. Among the three studies that showed fair quality [,,], biases mainly stemmed from not specifying the source of cases and/or controls, inadequate control of confounding factors, and failure to specify the non-response rate.
+
+3.3. Characteristics of Included Studies
+
+The characteristics of the studies included in the review are summarized in. Of the sixteen selected studies, all were observational case-control studies. Sample sizes varied across studies, ranging from 18 [] to 216 [] patients, with mean ages ranging from 27.8 years [] to 65.3 years [].
+
+Most studies compared miRNA expression levels between patients with periodontitis and healthy controls. However, some authors assessed the influence of systemic diseases such as DM [,], AR [,], or CVD [] on relative miRNA expression levels.
+
+The Classification of Periodontal and Peri-implant Diseases and Conditions 2018 [] was used in two-thirds of the studies, while the other third used the Armitage classification [,].
+
+Upon analyzing the miRNAs proposed in the various included studies, it was observed that the information was highly heterogeneous, with the most analyzed ones being:
+
+In most of these studies, miRNA expression levels () were found to be upregulated in patients with periodontal involvement. However, some studies reported contradictory results:
+
+In, a summary of the miRNAs that were shown to be over- or underexpressed according to the severity of periodontitis can be observed.
+
+Additionally, some authors observed correlation between relative expression levels of specific miRNAs and disease severity, showing positive correlation for miR-200a, miR-200b and miR-200c []; miR-103a-3p, miR-423-5p []; miR-223 [,]; miR-30b-3p, miR-125b-1-3p [], miR-140-3p, miR-145-5p [], and miR-3198 []; no correlation for miR-15a-5p and miR-223-3p []; and negative correlation for miR-23a-3p [], miR-146a-5p [], and miR-28-5p [].
+
+Regarding the use of miRNAs as diagnostic biomarkers for periodontitis, the proposed miRNAs were miR-200b [,,], miR-146a-5p [,,], and miR-223 [,,].illustrates the miRNAs described as diagnostic biomarkers with values of area under the curve (AUC), sensitivity, and specificity.
+
+4. Discussion
+
+In the etiopathogenesis of periodontitis, epigenetic mechanisms such as miRNAs appear to play a crucial role in inflammation regulation. Despite miRNAs being proposed years ago as biomarkers for periodontal diseases, there remains considerable variability among the miRNAs studied and the type of samples used. This review was conducted to identify the miRNAs described in the literature for the diagnosis of periodontal diseases, focusing on studies using GCF samples. This biofluid is considered easily accessible, minimally invasive, and closely related to the site of inflammation, namely the periodontium.
+
+Due to the impossibility of conducting a data synthesis and meta-analysis, some items (13, 14, 20, 22, and 23b) of the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) 2020 statement [] were not fulfilled.
+
+4.1. Strengths and Weaknesses of the Studies
+
+In the assessment of the quality of observational studies, selection bias was observed in two studies [,] due to two reasons: lack of representativeness of cases and failure to specify the origin of controls. This bias was mitigated by controlling for confounding factors and achieving comparable study groups.
+
+The sample size of a study influences the reproducibility of results. Small sample sizes can lead to the generation of false positives or negatives due to the limited portion of the sampled population, as seen in Almiñana-Pastor et al. (2023) [] with N = 23, Micó-Martínez et al. (2018) [] with N = 18, and Saito et al. (2017) [] with N = 20. Therefore, the validity of findings from these studies is compromised. Similarly, studies that showed disparities between healthy and diseased groups [] also could not achieve the same validity, as one of the groups was underrepresented.
+
+The disease classification alongside the selected miRNAs were two variables that exhibited significant variation across the studies, complicating interpretation and comparison of results. Most of the studies [,,,,,,,,,] utilized the current Classification of Periodontal and Peri-implant Diseases and Conditions 2018 [], with a diversity in the stages selected, predominantly focusing on stages II, III, and IV [,,,], which could correspond to moderate/severe periodontitis in the older Armitage classification [,].
+
+It is noteworthy that only Rovas et al. (2022) [], Zhu and Zhong (2022) [], and Yu (2023) [] included subjects in stage I, indicating that only three studies considered individuals in the early stages of periodontitis—a critical focus for identifying disease markers. Subsequently, studies should examine extreme groups (healthy subjects and those with advanced disease). Additionally, no article considered comparing miRNA levels across different grades, which is essential, as it refers to disease progression: Grade A (low susceptibility to progression), Grade B (moderate susceptibility to progression), and Grade C (high susceptibility to progression).
+
+Similarly, only two authors [,] measured miRNA levels basic periodontal treatment, confirming that miRNA levels decrease to physiological levels once inflammation is eliminated and the disease is controlled. This underscores the dynamic nature of these markers and their role in regulating cellular immune-inflammatory states.
+
+4.2. MiRNA
+
+In the search for miRNAs present in GCF, only Almiñana-Pastor et al. (2023) [] conducted high-throughput sequencing, while the remaining authors focused on specific miRNA searches, potentially excluding miRNAs that could be considered biomarkers for periodontal diseases.
+
+Among the most studied miRNAs was the miR-200b family, specifically miR-200b-3p. MiR-200b is involved in the differentiation of various immune cells, including macrophages, neutrophils, and others, and plays a significant role in the early stages of infection and inflammation []. In the vast majority of studies, miR-200b-3p levels were significantly elevated in GCF [,,,], although Saito et al. (2017) [] reported lower levels, possibly due to their small sample size. Furthermore, miR-200b was associated with comorbidities such as periodontitis and type 2 DM [,], and periodontitis and CVD []. Elevated levels of miR-200b were also observed in gingival biopsies of subjects with obese periodontitis [] and in gingival tissues []. These studies open new avenues for further research into the relationship between systemic diseases and periodontal diseases.
+
+Both type 2 DM and CVD are chronic conditions that, similar to periodontitis, contribute to generating low-grade inflammation over long periods of time. Since miR-200b is involved in the initial stages of inflammation, the presence of not just one but two inflammatory pathologies will result in even higher miRNA levels in the presence of comorbidities. In the study by Liu et al. (2022) [], the expression levels of miR-200b in the periodontitis group and the T2DM group were 3.06 ± 0.21 and 2.74 ± 0.22, respectively, while in the comorbid group, the levels were 3.51 ± 0.30, showing statistically significant differences compared to the other groups.
+
+MiR-146a plays a role in various inflammatory processes and is involved in the activation of signaling pathways and cytokine secretion. It is also affected by pro-inflammatory stimuli, such as lipopolysaccharides from(LPS), which, in response to bacterial stimuli, negatively regulates membrane receptor (TLR) signaling, favoring bacterial pathogenic action. MiR-146a was found to be upregulated in the studies by Almiñana-Pastor et al. (2023) [] and Radović et al. (2018) []. In fact, in the latter study, miR-146a levels normalized after non-surgical periodontal treatment, indicating its expression is related to the inflammatory process of periodontitis.
+
+However, different results were obtained in the study by Rovas et al. (2022) [], where miR-146a levels were underexpressed in subjects with periodontitis compared to healthy subjects. The hypothesis suggested for these results is that negative regulation or impaired function of miR-146a may be associated with diseases characterized by sustained exaggerated inflammation, such as aggressive forms of periodontitis. Multiple studies analyzed miR-146a in gingival biopsies [,], saliva [,], or in vitro [] and observed its overexpression in periodontitis. Therefore, further studies with larger samples in GCF are needed to conclusively determine whether miR-146a is under or overexpressed in periodontal diseases.
+
+The overexpression of certain miRNAs, such as miR-23a, plays a destructive role in disease progression as it could inhibit osteogenesis []. Costantini et al. (2023) [] observed statistically significant increases in levels of this miRNA in patients with mild-stage periodontitis compared to healthy subjects and moderate to severe stages. In the study by Zhang et al. (2019) [], miR-23a significantly increased not only in GCF, but also in human periodontal ligament stem cell (PDLSC) cultures, inhibiting osteogenesis, and levels decreased significantly following periodontal therapy. This suggests that miR-23a may be elevated in all stages of the disease, playing a greater role in bone loss during the early phases of periodontitis. Therefore, studying its alteration in the subclinical stages of the disease would be interesting, as it may act as an initiator of bone metabolism disturbance.
+
+One of the changes occurring in inflamed tissues is increased angiogenesis. In the case of periodontal diseases, miR-203 plays a crucial role in this change by targeting vascular endothelial growth factor A (VEGFA), thereby inhibiting angiogenesis []. Thus, underexpression of miR-203 could be associated with the presence of periodontitis. The three studies that included miR-203 among the studied miRNAs found it to be underexpressed [,,]. In fact, Liu et al. (2022) [] and Elazazy et al. (2021) [] observed a negative correlation of miR-203 with TNF-α, explaining the decreased healing and suggesting its impact on irreversible damage caused by the disease. Similar results were seen in other studies conducted on gingival tissue [,]. Therefore, miR-203 could potentially play a protective role in periodontitis, not only for diagnosis, but also as a therapeutic target.
+
+Another extensively studied miRNA was miR-223, which functions as a key regulator of innate immunity by influencing the differentiation of various immune cells [] and is crucial in regulating osteoclast differentiation, thus impacting the pathological process of bone remodeling [].
+
+Two included studies [,] reported that miR-223 expression levels in GCF were higher in patients with periodontitis compared to healthy controls, with one of them showing statistically significant differences []. Both articles included subjects with periodontitis, with and without DM, and in both studies, miR-223 levels were much higher in subjects with periodontitis and DM compared to those with periodontitis alone. This finding holds promise for precision medicine, as GCF can reveal miRNAs associated with systemic pathologies. Similar results of overexpression were found in gingival tissue biopsies [], in the serum of a mouse model with periodontitis [], and in gingival crevicular blood [].
+
+There also appeared to be a positive correlation between miR-223 levels and disease severity, as determined by increased TNF-α and clinical parameters in the chronic periodontitis group compared to healthy controls []. However, in the study by Costantini et al. (2023) [], miR-223-3p did not show correlation with the severity of periodontitis.
+
+Given that for a diagnostic tool to be considered acceptable, it should have an AUC > 0.8 [], among all the miRNAs proposed as diagnostic biomarkers, those that could truly be employed for the diagnosis of periodontitis were: miR-146a [], miR-23a [], miR-28-5p [], miR-155 [], miR-125b-1-3p [], miR-200c-3p [], miR-200b [], miR-30b-3p [], miR-200a-5p [], miR-1226 [], miR-200a-3p, miR-200b-5p [], miR-223 [], miR-223-5p [], miR-200c-5p [], and miR-200b-3p []. Therefore, the rest of the miRNAs proposed by authors as possible biomarkers for periodontitis, although they might have an AUC close to 0.8, would not achieve sufficient performance to be used as a diagnostic tool. Increasing the sample size could potentially change this result, hence, more well-designed studies are needed to analyze the diagnostic value of these miRNAs.
+
+4.3. Limitations of the Review
+
+The main limitation was the inability to perform a quantitative analysis of the data due to methodological differences among studies, particularly the discrepancies in the miRNAs studied across different studies, the absence of numerical data in publications, and the inability to obtain them through contact with authors. Additionally, different units of miRNA expression were used without the possibility of converting them into a common unit.
+
+Another limitation was the lack of search in grey literature, which possibly resulted in selection bias by excluding relevant research from the review.
+
+4.4. Future Recommendations
+
+This systematic review identified the need for a more homogeneous approach within published studies on the identification of miRNAs in GCF in subjects with periodontitis:
+
+5. Conclusions
+
+MiRNAs were proposed as promising biomarkers for periodontal diseases in GCF, capable of reflecting the inflammatory regulation status of periodontal tissues at a given moment. Among the miRNAs that showed significant differences between individuals with periodontitis and periodontally healthy subjects are miR-146a, miR-200b (specifically miR-200b-3p), miR-223, miR-23a, and miR-203. These miRNAs, except for miR-203, exhibited acceptable diagnostic performance for use as diagnostic biomarkers. However, due to the substantial heterogeneity in the miRNAs studied, there is a need for studies with more homogeneous criteria that allow for quantitative synthesis to better assess their diagnostic utility.
