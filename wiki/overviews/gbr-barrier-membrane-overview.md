@@ -29,6 +29,7 @@ tags: [gbr, barrier-membrane, collagen, edc-crosslink, ptfe, titanium-mesh, prog
 > - 합성 흡수성 막의 임상 진입: 3D 예성형 PLGA막 (Son 2026, 전향 20명) 이 티타늄 메쉬급 수평 골증대 (~3 mm, 획득률 87.2%) 를 막 노출 0건·2차 제거 불필요로 달성 — Ti-mesh의 15–50% 노출 부담을 회피. 그러나 흡수성 cage scaffold 전반은 근거가 희박 (Seiler 2026 SR: 7편·45부위, RCT 1편, 모든 연구가 분해속도 미보고, 비뚤림 위험 높음) 하여 Ti-mesh의 검증된 예측가능성을 아직 못 따라잡는다.
 > - 어류유래 (잉어피부) EDC/NHS 콜라겐막 (Bujda 2026, 쥐 대퇴골) 은 단독 사용 시 우세 경향 + 비자극성 (생체적합성 우수) 이나 비critical-size 모델 한계로 통계 비유의 — 콜라겐 원료 다변화 (zoonotic/종교·윤리/비용 회피) 방향을 제시하나 graft 병용 시 Bio-Oss+Bio-Gide에 열등.
 > - 임상 takeaway: 1차 결정은 가교화 종류가 아니라 결손 유형이며, 어떤 흡수성 막도 공간 유지가 필요한 결손에는 내부 이식재 (DBBM 선호) 가 필수다. 막 노출을 막는 무장력 봉합이 막 재료 선택보다 결과에 더 큰 영향을 준다.
+> - Mizraji 2023 (Periodontology 2000, 2023) 이 Sasaki 2021의 흡수성/비흡수성 분류를 독립적으로 재확인하며, 정량적 노출위험 위계를 추가: 티타늄 메쉬 (7–66%) > 가교화 콜라겐 (native 대비 ~30% 높음) > native 콜라겐 > d-PTFE (~15%, open-healing 허용). 두 개의 독립적 Tier-1 리뷰가 같은 분류에 수렴 — 분류 신뢰도 강화.
 
 ## One-line Summary
 
@@ -101,6 +102,17 @@ The definitive 2021 component-based taxonomy divides all dental barrier membrane
 - GBR (bone augmentation): **16–24 weeks** barrier function required
 
 No evidence-based clinical selection guidelines beyond the biodegradability distinction exist (Sasaki 2021) — membrane selection beyond this binary remains clinician-experience-dependent.
+
+**Independent Tier-1 reconfirmation and exposure-rate hierarchy (Mizraji 2023)**
+
+Mizraji 2023 (Periodontology 2000) is a more recent comprehensive membrane review that reinforces Sasaki 2021's non-resorbable/resorbable taxonomy from an independent editorial line, while adding a quantified **exposure-risk hierarchy** that Sasaki 2021 does not tabulate:
+
+| Metric | Hierarchy (worst → best exposure profile) |
+|---|---|
+| Space maintenance | Ti mesh > Ti-PTFE > d-PTFE > cross-linked collagen > native collagen ≈ synthetic |
+| Exposure risk | Ti mesh (7–66% range; bone loss ~16.3%/cm² when exposed) > cross-linked collagen (~30% higher than native, per Wessing 2018 SR+MA) > native collagen > d-PTFE (~15%, open-healing tolerable) |
+
+Mizraji 2023 also draws the same ribose-vs-glutaraldehyde crosslinking distinction as Sasaki 2021 (ribose/OSSIXPlus clinically available and non-cytotoxic; glutaraldehyde/BioMend Extend carries residual cytotoxicity concern), and maps clinical indication by defect type: large vertical defects favor non-resorbable membranes (Ti mesh/Ti-PTFE/d-PTFE); ridge preservation/socket sealing is adequately served by resorbable collagen. This is a two-source convergence (Sasaki 2021 + Mizraji 2023) on the same taxonomy from independent review teams — strengthening rather than merely repeating the Axis 1 classification. Note: Mizraji 2023 is abstract-only in this wiki (full text paywalled), so its numeric hierarchy should be treated as directionally reliable but not independently re-verified against primary meta-analysis tables.
 
 ---
 
@@ -349,6 +361,7 @@ Conventional membranes have a ~26% pooled complication rate (Liu 2026). Current 
 ## Related Papers
 
 - [[bone-regeneration/sasaki-2021-barrier-membranes-tissue-regeneration-review]] — Component-based membrane taxonomy; defines GTR 4–6w vs GBR 16–24w barrier function requirement; crosslinking agent comparison table; identifies absence of evidence-based selection guidelines beyond biodegradability
+- [[bone-regeneration/mizraji-2023-barrier-membranes-gbr-overview]] — Periodontology 2000 (2023) comprehensive membrane review; independently reconfirms Sasaki 2021's resorbable/non-resorbable taxonomy; adds quantified exposure-risk hierarchy (Ti mesh 7–66% > XL collagen ~30% higher than native > native > d-PTFE ~15%)
 - [[bone-regeneration/verissimo-2014-collagen-membranes-gbr-rat-calvarial]] — Animal study (n=190 Wistar rats, 12w); GA-crosslinked mineralized PAC membranes outperform commercial collagen; fibrous capsule at 12w; GA crosslinking vs mineral cycling as the active driver
 - [[bone-regeneration/park-2015-edc-crosslinked-collagen-bcp-gbr-rabbit]] — Animal study (n=12 rabbits, 8w); EDC-crosslinked membrane (Rapigide) sustained barrier + transmembraneous angiogenesis; membrane collapse without graft support; hierarchy: BCP + EDC > BCP alone > EDC alone > sham
 - [[bone-regeneration/liu-2026-barrier-membranes-gbr-design-applications]] — 2026 narrative review (Bioactive Materials); programmable interface concept; osteoimmune biology framing; 4 next-generation material families; 4 structural architectures; ~26% GBR complication rate from 100-study SR/MA
