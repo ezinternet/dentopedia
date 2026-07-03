@@ -3127,6 +3127,7 @@ tags: []
 - [[infection-control/cetinsoy-2026-ultrasonication-assisted-sequential-chemical-removal]] — In vitro (95 HAs, 2 brands): ED soak → ultrasonic + 1% NaOCl → autoclave removed 99.7% mature biofilm, SEM/EDX like unused; a 3-step alternative for ≥1 reuse cycle; CIDRR (2026)
 - [[infection-control/kyaw-2023-effect-chemical-electrochemical-decontamination-protocols]] — RCT (90 HAs): NaOCl-only worsened micro-gap/microleakage with repeat use, but combined chemical + electrochemical cleaning enabled multiple reuses without surface alteration; CIDRR (2023)
 - [[infection-control/paganotto-2022-reuse-healing-abutments-ethical-biological]] — Survey (n=202 implantologists): 98.1% reuse, 94.5% don't tell patients, 95.3% got no manufacturer guidance, only 8.9% cite cross-infection risk; J Clin Exp Dent (2022)
+- [[overviews/healing-abutment-reuse-single-use-controversy-overview]] — **NEW Overview** (8편, 2026-07-03): HA 재사용 vs 단일사용 논쟁 종합 — 두 축(청결도: 100% 처녀표면 불가·잔류물 나사산/드라이버홀 집중, 1% NaOCl+초음파 99.7%·air polishing·전기화학이 근접 ↔ 생물학적 반응: 가장 잘 닦아도 대식세포 염증 유발 "재사용 말라"); 제조사 single-use vs 임상의 98.1% 재사용, 임상결과 연구 0건; 재사용 시 다단계 프로토콜·요철부 검사·횟수제한·고지 SOP
 
 ## 치과 핸드피스·엔진 (Dental Handpiece / Engine) — NEW category (added 2026-06-25)
 - [[dental-handpiece/lahdentausta-2022-aerosol-concentrations-size-distributions-clinical]] — Lahdentausta 2022 · prospective(환자 84명·253건, 광학입자측정기) · 에어터빈 핸드피스가 <1 μm·총 에어로졸 최다 생성; 하이스피드·로우스피드 핸드피스·초음파 스케일러도 구강검진 대비 유의 증가; 에어터빈→하이스피드 대체·HVE 권고 (DOI 10.1016/j.heliyon.2022.e11074)
