@@ -1,0 +1,183 @@
+INTRODUCTION
+
+Open bite is one of the most challenging types of malocclusions.Nonsurgical treatment options for open bites include anterior tooth extrusion, posterior tooth intrusion, or a combination of both. The introduction of temporary anchorage devices (TADs) has facilitated posterior tooth intrusion to correct an anterior open bite and promote mandibular autorotation.
+
+Clear aligner treatment (CAT) has been introduced as a treatment option for open bite,with claims of posterior intrusion through bite plane effects.Although numerous studieshave investigated the impact of CAT on open bite correction, evidence of molar intrusion remains conflicting. Some studieshave reported effective posterior intrusion with CAT, whereas othersfound no significant effect. Additionally, some studies have evaluated the effectiveness of CAT compared with fixed appliances incorporating TADs (FATADs) for posterior teeth intrusion.Most studiesfound that CAT significantly extrudes incisors during open bite correction, but long-term stability remains uncertain, with limited studies assessing retention.
+
+Our preliminary search of systematic reviews on nonsurgical open bite treatment identified studies on posterior intrusion with skeletal anchorageand the stability of open bite correction using extraction and non-extraction methods.However, no studies have investigated the detailed mechanism of anterior open bite closure using CAT. Although a recent systematic review and meta-analysisassessed overbite changes and vertical tooth positioning before and after treatment, the study did not compare CAT with FATADs. In addition, the long-term stability of anterior open bite correction with CAT has not been synthesized in any of these outcome measures.
+
+The aim of this study was threefold: first, to compare the effects on overbite and vertical position of anterior and posterior teeth treated with CAT versus FATADs in patients with open bite; second, to assess the effects of open bite treatment with CAT on the overbite along with the vertical position of the anterior and posterior teeth; and third, to evaluate the stability of the vertical position of the anterior and posterior teeth following CAT.
+
+MATERIALS AND METHODS
+
+This study followed a systematic review and meta-analysis approach that adhered to the Cochrane Handbook for Systematic Reviews and Interventions and the guidelines of the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA).The protocol is registered in PROSPERO (registration number CRD42024588198).
+
+Eligibility criteria
+
+The inclusion and exclusion criteria for selected studies were based on the PICOS framework ().
+
+Search strategy and sources
+
+Medline, Scopus, Cochrane Central Register of Controlled Trials, Embase, and the Virtual Health Library (VHL) network portal were searched on September 27, 2024, and updated on April 17, 2025, without restrictions on language or publication year. Grey literature was explored using Google Scholar and was limited to the first 100 articles. The reference lists of selected studies were manually screened for additional relevant studies. Detailed search strategies are provided in. All citations were imported into Covidence (Veritas Health Innovation, Melbourne, Australia) for deduplication, study selection, and data extraction.
+
+Study selection and data extraction
+
+Two reviewers (PU and TC) independently screened the titles and abstracts and excluded studies that did not meet the inclusion criteria. Disagreements were resolved through discussion with a third reviewer (CC). The full texts of the remaining studies were assessed for inclusion in the systematic review and meta-analysis. Data extraction was conducted by PU and TC and included authors, publication year, study location, design, sample size, participant characteristics, treatment and measurement methods, tools, and outcomes. The CC was consulted when needed. Missing data were requested from the corresponding author via email. For example, in cases where the potential duplication of subjects was suspected, the corresponding authors of Suh et al.and Suh et al.were contacted via email to clarify whether all 52 participants included in Suh et al.were among the 69 participants included in Suh et al.If the answer was yes, only data from Suh et al.were included to ensure that data from duplicate enrollments were not included in the analysis. If the answer was no or if no response was received after two attempts spaced two weeks apart, sensitivity analyses were conducted, including and excluding Suh et al.to assess the impact of any potential overlap.
+
+Risk of bias and quality assessment
+
+Two independent reviewers (PU and CC) assessed risk of bias. Disagreements were resolved through discussion with a third reviewer (TC). Assessment tools were chosen based on the study design:the ROBINS-I tool was used for non-randomized controlled trials (non-RCTs), which are defined as intervention studies in which participants are assigned to intervention and control groups without randomization;and the NIH quality assessment tool was used for before-and-after studies, which are defined as intervention studies measuring outcomes in a single group before and after an intervention, without a separate comparison (control) group.
+
+Synthesis methods
+
+The mean and standard deviation of the overbite, as well as the positions of maxillary central incisor (U1), mandibular central incisor (L1), maxillary first molar (U6), and mandibular first molar (L6) were extracted. The primary outcome, overbite, was measured as the vertical distance between the incisal edges of U1 and L1. Secondary outcomes (U1, L1, U6, and L6 positions) were measured as the vertical distance from the horizontal reference plane to the incisal edge of U1, incisal edge of L1, and mesiobuccal cusps of U6 and L6. These parameters were obtained from lateral cephalograms or cone-beam computed tomography (CBCT) and were classified into three time points: before treatment (pre-treatment), at the end of treatment (post-treatment), and at least six months after treatment completion (stability).
+
+Meta-analyses were performed to compare outcomes between groups when at least two included studies reported relevant parameters using the Review Manager software v.5.4 (RevMan 5.4, Copenhagen, Denmark). The weighted mean difference with a 95% confidence interval (CI) was used to estimate the effect size of changes in the following parameters: (1) changes between the CAT and FATADs groups, (2) changes between pre- and post-treatment within the CAT group, and (3) changes between post-treatment and retention within the CAT group. Statistical heterogeneity was evaluated using the chi-square test (< 0.1) and² statistic, with low, moderate, and high heterogeneity defined by² values of 25%, 50%, and 75%, respectively.A random-effects model was used when statistical heterogeneity was assumed.
+
+Sensitivity analyses were performed to assess the robustness and reliability of the overall findings in two situations: (1) excluding the report by Suh et al.to evaluate the impact of potentially overlapping participants and (2) excluding the report by Harris et al.,the only included paper that conducted manual tracing and did not describe the process of magnification calibration for lateral cephalometric analysis to assess the effect of magnification bias.
+
+Publication bias and certainty assessment
+
+For outcomes with ≥ 10 studies, the publication bias was evaluated using funnel plots and Egger’s test (< 0.05). The Grading of Recommendations Assessment, Development, and Evaluation (GRADE) approach was used to evaluate the certainty of evidence for our findings.
+
+RESULTS
+
+Study selection
+
+A total of 1,610 relevant studies were identified using the outlined search strategy. Specifically, 294 articles were from Medline, 451 from Scopus, 8 from Cochrane Central, 69 from Embase, and 788 from the VHL network portal. After removing 211 duplicates, 1,399 records remained for further evaluation. Of these, 1,373 were excluded based on a review of their titles and abstracts. A full-text review was conducted of the remaining 26 articles, 17 of which were excluded because they did not meet the PICOS criteria. An additional article was also included in the manual search.Finally, ten studieswere deemed suitable for inclusion in the systematic review and meta-analysis, as shown in.
+
+Study characteristics
+
+The study characteristics were summarized in.
+
+Study design
+
+The included articles that consisted of six before-and-after studies without a control groupand four non-RCTs.In non-RCTs, three articles compared outcomes with FATADs,whereas the remaining articlecompared aspects within CAT in intrusion planning.
+
+Population
+
+Over half of the studies included participants aged > 18 years at treatment initiation.One studyassessed individuals over 18 at treatment completion, whereas Chamberland and Natafreported a mean age of 22.0 ± 8.7 years. Another studyevaluated a non-growing population based on cervical vertebral maturation. Most studies focused on Western populations, with the United States accounting for half,two of which also included Canadian participants.Additional studies were conducted in the Czech Republic,Australia,and Japan.Two studies did not specify the geographic origin.
+
+Treatment protocol
+
+The treatment and retention protocols were summarized in.
+
+Clear aligner treatment protocol
+
+All included studies used Invisalign (Align Technology, Santa Clara, CA, USA). Eighty percent of the studiescollected data after 2011, following the release of the G4 protocol. However, only six studiesspecifically mentioned the use of the G4 protocol. Among these, one studynoted the mixed use of G4 and earlier protocols. Moreover, the studies incorporated AcceleDent(OrthoAccel Technologies Inc., Bellaire, TX, USA) after 2009. One studycollected data before and after 2011 but did not specify use of the G4 protocol.
+
+Regarding treatment mechanics, half of the studies reported interproximal reductionwhereas two studies by Suh et al.mentioned expansion. Half of the studies described both anterior extrusion and posterior intrusion in their treatment plans,whereas one study,one of the three practitioners used only anterior extrusion. Two studiesdid not plan for posterior intrusion in 41.67% and 77.78% of the subjects, respectively. Three studiesdid not specify the treatment protocols. The mean mandibular plane to sella-nasion plane angle (SN–MP) at the initial stage varied from 33.38° to 44.40°.
+
+Regarding the use of extra plastic, one studyreported that one of three practitioners used extra-thick plastic for posterior teeth. Additionally, one studyreported the use of virtual bite blocks in some cases. However, none of these studies involved CAT combined with TADs. Extraction was performed in one case across all studies.Myofunctional therapy was included in four articles;three articlesfocused on tongue thrust management, whereas only one of the three practitioners in the study by Khosravi et al.incorporated clenching training.
+
+Fixed appliances incorporating temporary anchorage devices protocol
+
+Three studies compared the CAT and the FATADs protocol. Garnett et al.reported various treatments with fixed appliances: 41.18% involved extractions, 23.53% used TADs, 11.76% incorporated myofunctional therapy, and one case (5.88%) included a lower bite block. One studyused miniscrews in both arches, with maxillary miniscrews inserted bilaterally on the buccal and palatal sides in conjunction with a transpalatal arch (TPA). The mandibular miniscrews were placed bilaterally on the buccal side and were combined with a lingual arch. Additionally, the study reported anterior intrusion in a patient with a gummy smile. Another studyused miniplates in both arches, combined with a TPA, a rapid palatal expander, and a lingual arch. Moreover, the study reported that 16.37% of patients with FATADs underwent surgically assisted rapid maxillary expansion.
+
+Treatment duration and retention protocol
+
+Nineof ten studies mentioned the treatment duration, which varied from 14.04 ± 6.25 months to 25.7 ± 5.05 months. However, one studydid not specify the treatment duration. Regarding the retention protocol, only two studiesprovided information on retention. One studydid not mention the type of retainer but reported a retention period of 6 months, whereas another,which used a bonded retainer and an overlay with a vacuum-formed retainer in both arches, described a retention period of at least one year.
+
+Outcome measurement tool
+
+Nine studiesused only cephalometric radiographs for outcome evaluation, whereas one studyutilized CBCT reconstruction for analysis. Seven studiesused Dolphin Imaging and Management Solution™ (Chatsworth, San Diego, CA, USA) for measurements. One studyused QuickCeph Studio(QuickCeph Systems, San Diego, CA, USA), whereas anotherutilized Ortík software (Orthosoft, Valtice, Czech Republic). One studyemployed acetate paper for manual tracing.
+
+Results of individual studies
+
+All studiesreported an increase in overbite along with positional changes in U1, L1, U6, and L6. Although all before-and-after studiesand one non-RCTsassessed the significance of before-and-after treatment outcomes, three non-RCTsdid not. Among the seven studies that assessed significance, fivefound a significant intrusion of U6 and/or L6. The mean values and differences for the overbite and the positions of U1, L1, U6, and L6 are shown in.
+
+Comparison to fixed appliances incorporating temporary anchorage devices
+
+Three studiesmet the inclusion criteria. One studyapplied various protocols within the FATADs group, including TADs, tooth extraction, myofunctional therapy, and bite planes. The findings indicated that CAT achieved similar overbite correction and positioning of U1, L1, U6, and L6 as the FATADs.
+
+The remaining studiesused both upper and lower TADs. One studyreported greater baseline severity in the FATADs group than in the CAT group and noted a 12.5% dropout rate after treatment completion, although it did not assess the mean difference between the groups. Another studyfound that the FATADs group achieved significantly greater overbite correction and U6 intrusion with less U1 and L1 extrusion, whereas L6 positioning showed no significant difference.
+
+Before and after outcomes
+
+Clear aligner treatment
+
+The range of overbite corrections observed across studies increased from 1.30 ± 0.60 mm to 5.10 ± 1.50 mm. For changes in vertical position of U1, the measured extrusion ranged from 0.50 ± 2.00 mm to 1.48 ± 0.79 mm. Regarding L1 extrusion relative to the mandibular plane (MP), values ranged from 0.38 mm to 1.36 ± 1.24 mm. In terms of U6 position, the average U6 position change ranged from 0.10 ± 1.00 mm extrusion to 1.26 ± 1.00 mm intrusion in patients using a virtual bite block. The L6 position ranged from 0.30 mm extrusion to 0.60 ± 1.40 mm intrusion.
+
+Stability results
+
+Two studiesmet the inclusion criteria for the stability analysis, with observation periods of 6 monthsand at least one year after completing CATin which 57.7% of the participants had retention periods of less than 2 years, 25.0% retained for 2–3 years, and 7.3% for 3–5 years. One studyreported a dropout rate of 37.5% during the retention phase. Neither study found significant relapses in overbite or in the positions of U1, L1, U6, or L6.
+
+Results of syntheses
+
+Comparison of clear aligner treatment and fixed appliances incorporating temporary anchorage devices protocols
+
+Two studieswere included in the meta-analysis comparing CAT and FATADs protocols (), which investigated the overbite and vertical positions of U1, L1, U6, and L6.
+
+For the evaluation of overbite, the pooled data showed that FATADs were more effective in increasing overbite, with a mean increase of 1.64 mm (< 0.0001, 95% CI: 0.86–2.43 mm,² 71%;).
+
+Regarding the U1 position, no significant difference was found between FATADs and CAT, with the 95% CI ranging from 0.08 mm more extrusion with FATADs to 1.29 mm more extrusion with CAT (= 0.08,² = 72%;). In contrast, for the L1 position, the CAT protocol resulted in significantly greater extrusion than that of the FATADs protocol, by 2.35 mm (= 0.04, 95% CI: 0.06–4.64 mm,² = 60%;).
+
+For U6 intrusion, the FATADs protocol resulted in significantly greater intrusion than that of the CAT protocol, with a mean difference in intrusion of 1.88 mm (< 0.00001, 95% CI: 1.41–2.35 mm,² = 48%;). For L6 intrusion, FATADs also produced significantly greater intrusion, with a mean difference of 0.45 mm compared to CAT (= 0.03, 95% CI: 0.04–0.86 mm,² = 0%;).
+
+Comparison of before and after clear aligner treatment
+
+All 10 selected studieswere included in the meta-analysis, which evaluated the increase in overbite and the vertical positions of U1, L1, U6, and L6. All studies used the Invisalign. The results of this meta-analysis are shown in.
+
+For the overbite evaluation, the pooled data indicated an average increase of 2.77 mm (< 0.00001, 95% CI: 2.42–3.12 mm,² = 83%;). Both U1 and L1 exhibited significant extrusion. U1 extrusion showed a pooled mean of 0.87 mm (< 0.0001, 95% CI: 0.47–1.27 mm,² = 0%;). L1 extrusion demonstrated a pooled mean of 1.06 mm (< 0.00001, 95% CI: 0.63–1.50 mm,² = 0%;).
+
+Regarding posterior intrusion, pooled data indicated no significant intrusion for U6 (= 0.85), with a mean of 0.03 mm, 95% CI ranging from 0.35 mm of intrusion to 0.29 mm of extrusion, and an² value of 0% (). Pooled results similarly showed no significant intrusion for L6 (= 0.29), with a mean of 0.22 mm, 95% CI ranging from 0.63 mm of intrusion to 0.19 mm of extrusion, and an² value of 0% ().
+
+The results of both sensitivity analyses, excluding the report by Suh et al.and Harris et al.,are presented in, respectively. The pooled effect sizes and levels of heterogeneity for all outcomes remained nearly unchanged after the sensitivity analyses, demonstrating the robustness and reliability of the overall findings before and after CAT.
+
+Stability of treatment outcomes with clear aligner treatment
+
+The stability of treatment outcomes with CAT was evaluated in a meta-analysis of two studies.The meta-analysis results () indicate no significant changes in the overbite or in the positions of U1, L1, U6, and L6 throughout the retention period (= 0.92,= 0.35,= 0.55,= 0.31, and= 0.64, respectively).
+
+Risk of bias and quality assessment in studies
+
+Before-and-after studies
+
+without a control group
+
+The quality assessment results of the included before-and-after studies are summarized in. None of the studies repeated the outcome measurements (Question 11); however, this did not affect the validity of the results. As all the studies focused on clinical interventions rather than group-level analyses, Question 12 was marked as “Not Applicable” and was excluded from the overall rating.
+
+Two studiesdid not report the number of excluded samples, and threelacked details regarding sample size calculation. Additionally, four studiesdid not describe the blinding strategies for outcome assessment. Despite these concerns, we rated all studies as having good overall quality.
+
+Non-randomized controlled trials
+
+The overall quality assessment results for the non-RCTs are shown in. Three studies were identified as having confounding factors owing to the presence of various treatment modalities within the same groupand differences in baseline characteristics.These issues were not addressed using strategies to control for confounding factors, resulting in a moderate risk of bias. Regarding outcome measurement bias, three studiesdid not explain whether blinding was used for the outcome assessors, leading to a moderate risk of bias. Thus, all the studies were classified as having a serious risk of bias related to participant selection because they were retrospective in nature.
+
+Publication bias
+
+Publication bias was analyzed for comparisons that included at least 10 studies, that is, comparisons of parameters before and after CAT, using funnel plots and Egger’s test. The assessment of the overbite, U1, L1, U6, and L6 before and after CAT revealed symmetrical funnel plots (), and Egger’s test for the regression intercept yieldedvalues of 0.069, 0.774, 0.483, 0.200, and 0.809, respectively, indicating no evidence of publication bias in any of the outcome comparisons.
+
+Certainty of evidence
+
+For all outcomes comparing before and after CAT, the evidence level considered was “low” due to the study design, despite no issues in other assessment domains (). Conversely, the certainty level of outcomes comparing post-treatment to the retention period was rated “very low” (). This reduction in evidence strength was attributed to the insufficient sample sizes across all outcomes and the moderate heterogeneity in overbite measurements. Finally, the comparison between CAT and FATADs was assigned a “very low” certainty of evidence () because of confounding factors, biases in outcome measurements, moderate to high heterogeneity, and inadequate sample size.
+
+DISCUSSION
+
+This study had three main objectives: (1) to evaluate the effects of CAT on the vertical positioning of the anterior and posterior teeth compared with FATADs protocol, (2) to compare vertical tooth positions before and after CAT, and (3) to assess the stability of these vertical changes following CAT during the retention period.
+
+Summary of evidence
+
+Our meta-analysis found that the FATADs protocol produced greater intrusion of U6 and L6 and less extrusion of L1 than that achieved with CAT. However, both interventions produced similar vertical changes in U1. The greater molar intrusion and reduced L1 extrusion with FATADs suggest that these are more effective than CAT in increasing overbite. This aligns with a recent systematic reviewwhich reported that FATADs increased overbite by intruding molars and limiting anterior tooth extrusion. However, that review did not include a comparative analysis.
+
+Our analysis also showed that CAT corrected open bites primarily through the extrusion of U1 and L1. These findings are consistent with those of a recent meta-analysisbut differ from those of another systematic review,which concluded that CAT increased overbite through both incisor extrusion and molar intrusion. Although the meta-analysisexcluded Suh et al.owing to potential subject duplication, we included the study according to the protocol described in the Methods section. Sensitivity analysis confirmed that the inclusion did not affect the results. Additionally, we included the study by Harris et al.,which used acetate tracings and was subject to magnification issues, unlike other studieswhich were adjusted for magnification using cephalometric software. Including this study also had no impact on our findings, as confirmed by the sensitivity analysis. Overall, our findings are consistent with those of a meta-analysisof all before-and-after treatment comparisons.
+
+Our assessment of post-treatment stability revealed no significant changes during the retention period. A recent studyreported an overbite stability rate of 65% to 85%. Although incisor extrusion has been linked to a higher relapse risk,recent research suggests that extrusion arches produce minimal changes over a one-year follow-up.Furthermore, persistent tongue-thrust habits after CAT were noted to be a significant factor for relapse.
+
+Limitations
+
+All included studies were retrospective in design, with only oneclearly reporting consecutive data collection. The lack of transparency in data selection may have introduced selection and reporting bias. RCTs are strongly recommended to improve the reliability of future findings.
+
+Treatment protocols varied among studies to allow for individual customization, such as clenching exercises as a form of myofunctional therapy, the effect of which on molar intrusion remains unclear. Some authors have suggested that the degree of molar intrusion in CAT may be influenced by the maximum bite forceor mandibular angle.The use of Class II or III elasticsmay also have influenced the extrusion outcomes. Additionally, FATADs protocols were used in both extraction and non-extraction cases; however, clear evidence is lacking on how these approaches influence the vertical changes in U6, L6, U1, and L1. The variability in treatment protocols and initial subject characteristics presented major limitations. Therefore, the results of this meta-analysis should be interpreted with caution. To our knowledge, this is the first systematic review and meta-analysis to evaluate the detailed mechanisms of anterior open bite correction using clear aligners. Without our findings, we would not have recognized the extent of variability or the significant lack of clarity in the treatment protocols reported across studies on anterior open bite correction. Future research should focus on standardizing treatment protocols to enable more reliable comparisons and to investigate the specific impact of each protocol on the outcomes of open bite treatment.
+
+Only two studies that compared CAT with FATADs and assessed CAT stability met our inclusion criteria for the meta-analysis, both of which had a serious risk of bias. This highlights the need for high-quality RCTs. Moreover, the retention periods in the included studies were relatively short, ranging from six months to over a year. Despite varying retention periods, the statistical heterogeneity remained acceptable.
+
+The included studies comparing CAT and FATADs protocols revealed that only one studyreported the CAT group as having a less severe initial open bite than the FATADs group, whereas the other studydid not compare the initial skeletal patterns between the two groups. Most of the included CAT studies aimed to achieve molar intrusion and demonstrated that cases treated with CAT generally involved a mix of normal- and high-angle patients, with mean initial SN–MP angles ranging from 33.38° to 44.40°. In contrast, a recent meta-analysis on the use of FATADs for treating anterior open bites reported mean initial MP-to-Frankfort plane angles ranging from 35.44° to 49.05°, classifying subjects as high-angle cases. Such differences in initial vertical skeletal patterns may have influenced the treatment objectives for molar intrusion, and patients with lower initial MP angles may have required less intrusion than those with higher angles. Therefore, this should be carefully considered when interpreting our findings. Further studies comparing the CAT and FATADs protocols in patients with similar initial skeletal severity are recommended.
+
+Implications for clinical practice
+
+One objective of our meta-analysis was to clarify the mechanics underlying increasing overbite using CAT, with a specific focus on the contributions of anterior extrusion and posterior movements. To achieve this, we applied stricter inclusion criteria, requiring studies to report on overbite and the positions of U1, L1, U6, and L6, which differed from the criteria used in a recent meta-analysis.Moreover, we used the weighted mean difference rather than the standardized mean difference to allow for more clinically meaningful interpretations in millimeters.
+
+Based on our findings and limitations, the clinical application requires the selection of the most appropriate treatment option for each patient. Our findings suggest that CAT increases overbite primarily through anterior tooth extrusion. However, esthetic outcomes may worsen in patients with gummy smiles. For patients with severe open bites or pronounced gummy smiles, FATADs offer more effective results than CAT. Nevertheless, the comparative effectiveness of CAT combined with TADs and FATADs for open bite treatment remains unexplored, indicating the need for further research.
+
+CONCLUSIONS
+
+CAT demonstrated lower efficacy in correcting open bites than FATADs protocols. Although FATADs achieved greater molar intrusion, CAT led to greater extrusion of L1, with no significant difference at the U1 position. CAT proved effective in increasing overbite, primarily achieved through incisor extrusion without significant intrusion of the U6 or L6. During the retention period, CAT showed no significant changes in overbite, U1, L1, U6, or L6.
